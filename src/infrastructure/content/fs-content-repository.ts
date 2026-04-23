@@ -5,7 +5,7 @@ import type { Locale } from "@/infrastructure/i18n/config";
 import { parseChapterMarkdown } from "./markdown-parser";
 import { parseEnrichmentMarkdown } from "./enrichment-parser";
 
-const CONTENT_ROOT = path.resolve(process.cwd());
+const CONTENT_ROOT = path.join(/*turbopackIgnore: true*/ process.cwd());
 
 export async function readChapter(
   locale: Locale,

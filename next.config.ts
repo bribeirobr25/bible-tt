@@ -4,6 +4,9 @@ import createNextIntlPlugin from "next-intl/plugin";
 const withNextIntl = createNextIntlPlugin("./src/infrastructure/i18n/request.ts");
 
 const nextConfig: NextConfig = {
+  outputFileTracingIncludes: {
+    "/*": ["./en/**/*.md", "./pt-br/**/*.md", "./de/**/*.md"],
+  },
   async headers() {
     return [
       {
