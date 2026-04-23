@@ -1,0 +1,102 @@
+{
+  "site": {
+    "title": "The Transparent Translation",
+    "subtitle": "A translation with nothing hidden."
+  },
+  "nav": {
+    "home": "Home",
+    "chapters": "Chapters",
+    "books": "Books",
+    "selectBook": "Select a book",
+    "selectChapter": "Select a chapter",
+    "readingMode": "Reading",
+    "studyMode": "Study",
+    "contextMode": "Context"
+  },
+  "chapter": {
+    "prev": "Previous chapter",
+    "next": "Next chapter",
+    "notFound": "This chapter has not been translated yet.",
+    "reading": "Continuous Reading",
+    "study": "Verse-by-Verse Study"
+  },
+  "notes": {
+    "title": "Notes",
+    "critical": "Critical",
+    "lexical": "Lexical",
+    "grammatical": "Grammatical",
+    "theological": "Theological"
+  },
+  "glossary": {
+    "title": "Glossary",
+    "hebrew": "Hebrew",
+    "translation": "Translation",
+    "notes": "Notes"
+  },
+  "metadata": {
+    "edition": "Edition",
+    "status": "Status",
+    "baseText": "Base Text",
+    "methodology": "Methodology",
+    "showDetails": "Show details",
+    "hideDetails": "Hide details"
+  },
+  "book": {
+    "genesis": "Genesis"
+  },
+  "landing": {
+    "hook": "Every Bible translation adds words that aren't in the Hebrew. This one shows you which ones.",
+    "cta": "Start reading",
+    "ctaRules": "See the 29 rules",
+    "differenceTitle": "See the difference",
+    "differenceDesc": "The same verse. Two approaches.",
+    "conventional": "Traditional translation",
+    "transparent": "Transparent Translation",
+    "conventionalVerse": "In the beginning God created the heaven and the earth. And the earth was without form, and void; and darkness was upon the face of the deep. And the Spirit of God moved upon the face of the waters.",
+    "transparentVerse": "In beginning, God created the skies and the land. And the land was chaos and void, and darkness *was* over the face of the deep, and wind/spirit of God *was* hovering over the face of the waters.",
+    "diff1title": "No added article",
+    "diff1": "Hebrew has no \"the\" before \"beginning.\" We don't add it.",
+    "diff2title": "Sky, not Heaven",
+    "diff2": "The Hebrew word means physical sky — not a spiritual realm.",
+    "diff3title": "wind/spirit",
+    "diff3": "The Hebrew word means both. We preserve the ambiguity.",
+    "diff4title": "Additions marked",
+    "diff4": "Every word we added for English grammar is in italics.",
+    "howTitle": "Two ways to read",
+    "howReading": "Reading mode — continuous prose, clean page, just the text flowing. Read it like a story.",
+    "howStudy": "Study mode — verse by verse with color-coded notes. See the Hebrew, the ambiguity, the choices we made and why.",
+    "whoTitle": "Who is this for?",
+    "who1": "If you've read the Bible a hundred times and want to see what your translation smoothed over.",
+    "who2": "If you've never opened a Bible and want to know what it actually says before deciding what you think.",
+    "who3": "If you read Hebrew and want to check our work — everything is visible, nothing is hidden.",
+    "scopeTitle": "What this is",
+    "scope": "A translation of the Hebrew Bible from the Masoretic Text. In English, Portuguese, and German. Governed by 29 rules. It is not a devotional. It is not a replacement for scholarly editions. It is a disciplined attempt at transparency.",
+    "scopeNot": "It is honest about what it doesn't know.",
+    "rulesPageTitle": "The 29 Rules",
+    "rulesPageSubtitle": "The governance system behind the Transparent Translation.",
+    "rulesIntro": "Every translation makes choices. Most hide them. We wrote ours down.",
+    "rulesPrime": "The Prime Directive",
+    "rulesPrimeDesc": "If any rule conflicts with these four principles, the principles win.",
+    "rulesPrime1": "Do not simplify what the Hebrew keeps complex.",
+    "rulesPrime2": "Do not clarify what the Hebrew leaves ambiguous.",
+    "rulesPrime3": "Do not add what the Hebrew does not say — unless target grammar absolutely requires it.",
+    "rulesPrime4": "When addition is unavoidable, signal it clearly.",
+    "rulesExamplesTitle": "Rules in action",
+    "rulesFullLink": "Read the complete ruleset",
+    "rule1name": "Controlled Lexical Consistency",
+    "rule1short": "Same Hebrew word → same translation, by default. Every shift justified and logged.",
+    "rule1example": "אֶרֶץ (eretz) always → 'land.' Never randomly switching to 'earth,' 'world,' or 'region.'",
+    "rule2name": "Preserve Ambiguity",
+    "rule2short": "If Hebrew supports two meanings and context doesn't force one, preserve both.",
+    "rule2example": "רוּחַ (ruach) → 'wind/spirit' — not resolved to one, because the Hebrew doesn't.",
+    "rule3name": "Avoid Imported Theology",
+    "rule3short": "Don't sneak in later religious concepts not justified by the immediate Hebrew.",
+    "rule3example": "'sky' not 'Heaven' — the Hebrew word means physical sky, not a spiritual realm.",
+    "rule11name": "Signal All Additions",
+    "rule11short": "Mark every word not in Hebrew. Distinguish what's translation from what's scaffolding.",
+    "rule11example": "'And God saw that *it was* good' — italics show 'it was' is added for English grammar.",
+    "rule25name": "Divine Name Policy",
+    "rule25short": "The Tetragrammaton rendered consonantally. Not 'the LORD.' Not silently substituted.",
+    "rule25example": "YHWH — because that is what the Hebrew consonants are. The vowels were never written."
+  }
+}

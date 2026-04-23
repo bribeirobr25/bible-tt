@@ -1,0 +1,102 @@
+{
+  "site": {
+    "title": "Die Transparente Übersetzung",
+    "subtitle": "Eine Übersetzung, die nichts verbirgt."
+  },
+  "nav": {
+    "home": "Startseite",
+    "chapters": "Kapitel",
+    "books": "Bücher",
+    "selectBook": "Buch wählen",
+    "selectChapter": "Kapitel wählen",
+    "readingMode": "Lesung",
+    "studyMode": "Studie",
+    "contextMode": "Kontext"
+  },
+  "chapter": {
+    "prev": "Vorheriges Kapitel",
+    "next": "Nächstes Kapitel",
+    "notFound": "Dieses Kapitel wurde noch nicht übersetzt.",
+    "reading": "Fortlaufende Lesung",
+    "study": "Vers-für-Vers-Studie"
+  },
+  "notes": {
+    "title": "Notizen",
+    "critical": "Kritisch",
+    "lexical": "Lexikalisch",
+    "grammatical": "Grammatisch",
+    "theological": "Theologisch"
+  },
+  "glossary": {
+    "title": "Glossar",
+    "hebrew": "Hebräisch",
+    "translation": "Übersetzung",
+    "notes": "Notizen"
+  },
+  "metadata": {
+    "edition": "Ausgabe",
+    "status": "Status",
+    "baseText": "Grundtext",
+    "methodology": "Methodik",
+    "showDetails": "Details anzeigen",
+    "hideDetails": "Details ausblenden"
+  },
+  "book": {
+    "genesis": "Genesis"
+  },
+  "landing": {
+    "hook": "Jede Bibelübersetzung fügt Wörter hinzu, die nicht im Hebräischen stehen. Diese zeigt Ihnen welche.",
+    "cta": "Lesen beginnen",
+    "ctaRules": "Die 29 Regeln ansehen",
+    "differenceTitle": "Sehen Sie den Unterschied",
+    "differenceDesc": "Derselbe Vers. Zwei Ansätze.",
+    "conventional": "Traditionelle Übersetzung",
+    "transparent": "Transparente Übersetzung",
+    "conventionalVerse": "Am Anfang schuf Gott Himmel und Erde. Und die Erde war wüst und leer, und Finsternis lag auf der Tiefe; und der Geist Gottes schwebte über dem Wasser.",
+    "transparentVerse": "Im Anfang schuf Gott den Himmel und das Land. Und das Land war Chaos und Leere, und Finsternis *war* über der Fläche der Tiefe, und Wind/Geist Gottes schwebend über der Fläche der Wasser.",
+    "diff1title": "Kein hinzugefügter Artikel",
+    "diff1": "Das Hebräische hat keinen bestimmten Artikel vor 'Anfang'. Wir fügen keinen hinzu.",
+    "diff2title": "Himmel, nicht Himmelreich",
+    "diff2": "Das hebräische Wort bedeutet physischen Himmel — kein geistliches Reich.",
+    "diff3title": "Wind/Geist",
+    "diff3": "Das hebräische Wort bedeutet beides. Wir bewahren die Ambiguität.",
+    "diff4title": "Zusätze markiert",
+    "diff4": "Jedes für die deutsche Grammatik hinzugefügte Wort steht in Kursivschrift.",
+    "howTitle": "Zwei Lesearten",
+    "howReading": "Lesemodus — fortlaufende Prosa, saubere Seite, nur der fließende Text. Lesen Sie es wie eine Geschichte.",
+    "howStudy": "Studienmodus — Vers für Vers mit farbkodierten Notizen. Sehen Sie das Hebräische, die Ambiguität, die Entscheidungen und warum.",
+    "whoTitle": "Für wen ist das?",
+    "who1": "Wenn Sie die Bibel hundertmal gelesen haben und sehen möchten, was Ihre Übersetzung geglättet hat.",
+    "who2": "Wenn Sie nie eine Bibel geöffnet haben und wissen möchten, was sie tatsächlich sagt, bevor Sie sich eine Meinung bilden.",
+    "who3": "Wenn Sie Hebräisch lesen und unsere Arbeit prüfen möchten — alles ist sichtbar, nichts ist verborgen.",
+    "scopeTitle": "Was das ist",
+    "scope": "Eine Übersetzung der Hebräischen Bibel aus dem Masoretischen Text. Auf Englisch, Portugiesisch und Deutsch. Gesteuert durch 29 Regeln. Es ist keine Andacht. Es ersetzt keine wissenschaftlichen Ausgaben. Es ist ein disziplinierter Versuch der Transparenz.",
+    "scopeNot": "Es ist ehrlich darüber, was es nicht weiß.",
+    "rulesPageTitle": "Die 29 Regeln",
+    "rulesPageSubtitle": "Das Governance-System hinter der Transparenten Übersetzung.",
+    "rulesIntro": "Jede Übersetzung trifft Entscheidungen. Die meisten verbergen sie. Wir haben unsere aufgeschrieben.",
+    "rulesPrime": "Die Hauptdirektive",
+    "rulesPrimeDesc": "Wenn eine Regel mit diesen vier Prinzipien kollidiert, gewinnen die Prinzipien.",
+    "rulesPrime1": "Vereinfache nicht, was das Hebräische komplex hält.",
+    "rulesPrime2": "Kläre nicht, was das Hebräische mehrdeutig lässt.",
+    "rulesPrime3": "Füge nicht hinzu, was das Hebräische nicht sagt — es sei denn, die Zielgrammatik erfordert es absolut.",
+    "rulesPrime4": "Wenn eine Hinzufügung unvermeidbar ist, kennzeichne sie deutlich.",
+    "rulesExamplesTitle": "Regeln in Aktion",
+    "rulesFullLink": "Das vollständige Regelwerk lesen",
+    "rule1name": "Kontrollierte lexikalische Konsistenz",
+    "rule1short": "Gleiches hebräisches Wort → gleiche Übersetzung, standardmäßig. Jede Abweichung begründet und protokolliert.",
+    "rule1example": "אֶרֶץ (eretz) immer → 'Land.' Nie zufällig zwischen 'Erde,' 'Welt' oder 'Region' wechselnd.",
+    "rule2name": "Ambiguität bewahren",
+    "rule2short": "Wenn das Hebräische zwei Bedeutungen unterstützt und der Kontext keine erzwingt, beide bewahren.",
+    "rule2example": "רוּחַ (ruach) → 'Wind/Geist' — nicht auf eines aufgelöst, weil das Hebräische es nicht tut.",
+    "rule3name": "Importierte Theologie vermeiden",
+    "rule3short": "Keine späteren religiösen Konzepte einschmuggeln, die nicht durch das unmittelbare Hebräische gerechtfertigt sind.",
+    "rule3example": "'Himmel' nicht 'Himmelreich' — das hebräische Wort bedeutet physischen Himmel, kein geistliches Reich.",
+    "rule11name": "Alle Hinzufügungen kennzeichnen",
+    "rule11short": "Jedes Wort markieren, das nicht im Hebräischen steht. Übersetzung von grammatischem Gerüst unterscheiden.",
+    "rule11example": "'Und Gott sah, dass *es* gut *war*' — Kursivschrift zeigt, dass 'es' und 'war' für die deutsche Grammatik hinzugefügt wurden.",
+    "rule25name": "Gottesname-Politik",
+    "rule25short": "Das Tetragrammaton konsonantisch wiedergegeben. Nicht 'der HERR.' Nicht stillschweigend ersetzt.",
+    "rule25example": "JHWH — weil das die hebräischen Konsonanten sind. Die Vokale wurden nie geschrieben."
+  }
+}

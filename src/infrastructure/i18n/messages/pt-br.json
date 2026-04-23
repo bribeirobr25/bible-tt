@@ -1,0 +1,102 @@
+{
+  "site": {
+    "title": "A Tradução Transparente",
+    "subtitle": "Uma tradução sem nada escondido."
+  },
+  "nav": {
+    "home": "Início",
+    "chapters": "Capítulos",
+    "books": "Livros",
+    "selectBook": "Selecione um livro",
+    "selectChapter": "Selecione um capítulo",
+    "readingMode": "Leitura",
+    "studyMode": "Estudo",
+    "contextMode": "Contexto"
+  },
+  "chapter": {
+    "prev": "Capítulo anterior",
+    "next": "Próximo capítulo",
+    "notFound": "Este capítulo ainda não foi traduzido.",
+    "reading": "Leitura Contínua",
+    "study": "Estudo Verso a Verso"
+  },
+  "notes": {
+    "title": "Notas",
+    "critical": "Crítico",
+    "lexical": "Lexical",
+    "grammatical": "Gramatical",
+    "theological": "Teológico"
+  },
+  "glossary": {
+    "title": "Glossário",
+    "hebrew": "Hebraico",
+    "translation": "Tradução",
+    "notes": "Notas"
+  },
+  "metadata": {
+    "edition": "Edição",
+    "status": "Status",
+    "baseText": "Texto Base",
+    "methodology": "Metodologia",
+    "showDetails": "Mostrar detalhes",
+    "hideDetails": "Ocultar detalhes"
+  },
+  "book": {
+    "genesis": "Gênesis"
+  },
+  "landing": {
+    "hook": "Toda tradução bíblica acrescenta palavras que não estão no hebraico. Esta mostra quais.",
+    "cta": "Começar a ler",
+    "ctaRules": "Ver as 29 regras",
+    "differenceTitle": "Veja a diferença",
+    "differenceDesc": "O mesmo versículo. Duas abordagens.",
+    "conventional": "Tradução tradicional",
+    "transparent": "Tradução Transparente",
+    "conventionalVerse": "No princípio criou Deus os céus e a terra. E a terra era sem forma e vazia; e havia trevas sobre a face do abismo. E o Espírito de Deus se movia sobre a face das águas.",
+    "transparentVerse": "Em princípio, Deus criou os céus e a terra. E a terra estava caos e vazio, e trevas sobre a face do abismo, e vento/espírito de Deus pairando sobre a face das águas.",
+    "diff1title": "Sem artigo adicionado",
+    "diff1": "O hebraico não tem \"o\" antes de \"princípio.\" Não o acrescentamos.",
+    "diff2title": "Céu, não Céu espiritual",
+    "diff2": "A palavra hebraica significa céu físico — não um reino espiritual.",
+    "diff3title": "vento/espírito",
+    "diff3": "A palavra hebraica significa ambos. Preservamos a ambiguidade.",
+    "diff4title": "Adições marcadas",
+    "diff4": "Toda palavra adicionada para a gramática portuguesa está em itálico.",
+    "howTitle": "Dois modos de ler",
+    "howReading": "Modo Leitura — prosa contínua, página limpa, apenas o texto fluindo. Leia como uma história.",
+    "howStudy": "Modo Estudo — verso a verso com notas coloridas. Veja o hebraico, a ambiguidade, as escolhas que fizemos e por quê.",
+    "whoTitle": "Para quem é isto?",
+    "who1": "Se você já leu a Bíblia cem vezes e quer ver o que sua tradução suavizou.",
+    "who2": "Se nunca abriu uma Bíblia e quer saber o que ela realmente diz antes de decidir o que pensa.",
+    "who3": "Se você lê hebraico e quer conferir nosso trabalho — tudo está visível, nada está escondido.",
+    "scopeTitle": "O que isto é",
+    "scope": "Uma tradução da Bíblia Hebraica a partir do Texto Massorético. Em inglês, português e alemão. Governada por 29 regras. Não é um devocional. Não substitui edições acadêmicas. É uma tentativa disciplinada de transparência.",
+    "scopeNot": "É honesta sobre o que não sabe.",
+    "rulesPageTitle": "As 29 Regras",
+    "rulesPageSubtitle": "O sistema de governança por trás da Tradução Transparente.",
+    "rulesIntro": "Toda tradução faz escolhas. A maioria as esconde. Nós escrevemos as nossas.",
+    "rulesPrime": "A Diretiva Principal",
+    "rulesPrimeDesc": "Se qualquer regra conflitar com estes quatro princípios, os princípios vencem.",
+    "rulesPrime1": "Não simplifique o que o hebraico mantém complexo.",
+    "rulesPrime2": "Não esclareça o que o hebraico deixa ambíguo.",
+    "rulesPrime3": "Não acrescente o que o hebraico não diz — a menos que a gramática do idioma-alvo exija absolutamente.",
+    "rulesPrime4": "Quando a adição for inevitável, sinalize-a claramente.",
+    "rulesExamplesTitle": "Regras em ação",
+    "rulesFullLink": "Ler o conjunto completo de regras",
+    "rule1name": "Consistência Lexical Controlada",
+    "rule1short": "Mesma palavra hebraica → mesma tradução, por padrão. Toda mudança justificada e registrada.",
+    "rule1example": "אֶרֶץ (eretz) sempre → 'terra.' Nunca alternando aleatoriamente para 'mundo,' 'região' ou 'planeta.'",
+    "rule2name": "Preservar Ambiguidade",
+    "rule2short": "Se o hebraico suporta dois significados e o contexto não força um, preservar ambos.",
+    "rule2example": "רוּחַ (ruach) → 'vento/espírito' — não resolvido para um, porque o hebraico não resolve.",
+    "rule3name": "Evitar Teologia Importada",
+    "rule3short": "Não introduzir conceitos religiosos posteriores não justificados pelo hebraico imediato.",
+    "rule3example": "'céu' e não 'Céu' — a palavra hebraica significa céu físico, não um reino espiritual.",
+    "rule11name": "Sinalizar Todas as Adições",
+    "rule11short": "Marcar toda palavra que não está no hebraico. Distinguir tradução de andaime gramatical.",
+    "rule11example": "'E Deus viu que *era* bom' — itálico mostra que 'era' é adicionado para a gramática portuguesa.",
+    "rule25name": "Política do Nome Divino",
+    "rule25short": "O Tetragrama renderizado consonantalmente. Não 'o SENHOR.' Não substituído silenciosamente.",
+    "rule25example": "YHWH — porque isso é o que as consoantes hebraicas são. As vogais nunca foram escritas."
+  }
+}

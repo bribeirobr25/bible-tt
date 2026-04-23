@@ -1,0 +1,108 @@
+@import "tailwindcss";
+
+@theme inline {
+  /* Base palette (OKLCH) */
+  --color-bg-paper: oklch(0.97 0.01 85);
+  --color-bg-surface: oklch(0.99 0.005 85);
+  --color-bg-muted: oklch(0.94 0.01 85);
+  --color-text-primary: oklch(0.25 0.02 50);
+  --color-text-secondary: oklch(0.45 0.02 50);
+  --color-text-muted: oklch(0.6 0.01 50);
+  --color-accent: oklch(0.55 0.15 55);
+  --color-border: oklch(0.85 0.01 85);
+  --color-border-muted: oklch(0.9 0.005 85);
+
+  /* Note type colors */
+  --color-note-critical: oklch(0.55 0.22 25);
+  --color-note-lexical: oklch(0.50 0.15 145);
+  --color-note-grammatical: oklch(0.50 0.12 250);
+  --color-note-theological: oklch(0.60 0.18 80);
+
+  /* Note type backgrounds (very light tints) */
+  --color-note-critical-bg: oklch(0.96 0.03 25);
+  --color-note-lexical-bg: oklch(0.96 0.02 145);
+  --color-note-grammatical-bg: oklch(0.96 0.02 250);
+  --color-note-theological-bg: oklch(0.96 0.03 80);
+
+  /* Typography */
+  --font-reading: "Newsreader", serif;
+  --font-ui: "Geist", sans-serif;
+  --font-mono: "Geist Mono", monospace;
+
+  /* Spacing */
+  --spacing-page: 1.5rem;
+  --spacing-section: 2.5rem;
+  --spacing-verse: 1.5rem;
+
+  /* Radius */
+  --radius-sm: 0.25rem;
+  --radius-md: 0.5rem;
+  --radius-lg: 0.75rem;
+}
+
+html {
+  background-color: var(--color-bg-paper);
+  color: var(--color-text-primary);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  font-family: var(--font-ui);
+  line-height: 1.6;
+}
+
+::selection {
+  background-color: var(--color-accent);
+  color: var(--color-bg-paper);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+details > summary {
+  list-style: none;
+}
+details > summary::-webkit-details-marker {
+  display: none;
+}
+
+.hebrew {
+  direction: rtl;
+  unicode-bidi: isolate;
+  font-family: "Noto Sans Hebrew", "Geist", sans-serif;
+}
+
+.reading-text {
+  font-family: var(--font-reading);
+  font-size: 1.25rem;
+  line-height: 1.8;
+  color: var(--color-text-primary);
+}
+
+@media (max-width: 768px) {
+  .reading-text {
+    font-size: 1.125rem;
+    line-height: 1.75;
+  }
+}
+
+.tabular-nums {
+  font-variant-numeric: tabular-nums;
+}
+
+sup.verse-num {
+  font-family: var(--font-ui);
+  font-size: 0.65em;
+  font-weight: 600;
+  color: var(--color-text-muted);
+  margin-right: 0.1em;
+  vertical-align: super;
+  line-height: 0;
+}

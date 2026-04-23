@@ -1,0 +1,36 @@
+import type { Note, NoteType } from "@/domain/content/types";
+import { AlertCircle, BookOpen, Code2, Lightbulb } from "lucide-react";
+import type { LucideIcon } from "lucide-react";
+
+const NOTE_STYLES: Record<NoteType, { border: string; bg: string; Icon: LucideIcon; label: string }> = {
+  CRITICAL: { border: "border-l-note-critical", bg: "bg-note-critical-bg", Icon: AlertCircle, label: "Critical" },
+  LEXICAL: { border: "border-l-note-lexical", bg: "bg-note-lexical-bg", Icon: BookOpen, label: "Lexical" },
+  GRAMMATICAL: { border: "border-l-note-grammatical", bg: "bg-note-grammatical-bg", Icon: Code2, label: "Grammatical" },
+  THEOLOGICAL: { border: "border-l-note-theological", bg: "bg-note-theological-bg", Icon: Lightbulb, label: "Theological" },
+};
+
+export function NoteBlock({ note }: { note: Note }) {
+  const style = NOTE_STYLES[note.type];
+  const { Icon } = style;
+
+  return (
+    <div className={`border-l-3 ${style.border} ${style.bg} rounded-r-md px-4 py-3`}>
+      <div className="flex items-center gap-2 mb-1.5">
+        <Icon className="w-3.5 h-3.5 opacity-70" strokeWidth={1.5} />
+        <span className="text-xs font-semibold uppercase tracking-wider text-text-secondary">
+          {note.title}
+        </span>
+      </div>
+      <div
+        className="text-sm leading-relaxed text-text-primary"
+        dangerouslySetInnerHTML={{
+          __html: note.content
+            .replace(/\*\*([^*]+)\*\*/g, "<strong>$1</strong>")
+            .replace(/\*([^*]+)\*/g, "<em>$1</em>")
+            .replace(/\n- /g, "<br/>• ")
+            .replace(/\n/g, "<br/>"),
+        }}
+      />
+    </div>
+  );
+}
