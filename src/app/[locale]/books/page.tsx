@@ -1,4 +1,4 @@
-import { getTranslations } from "next-intl/server";
+import { getTranslations, setRequestLocale } from "next-intl/server";
 import { Link } from "@/ui/navigation/locale-link";
 import { getAvailableBooks } from "@/lib/content-loader";
 import { BookOpen } from "lucide-react";
@@ -9,6 +9,7 @@ export default async function BooksPage({
   params: Promise<{ locale: string }>;
 }) {
   const { locale } = await params;
+  setRequestLocale(locale);
   const t = await getTranslations();
   const books = await getAvailableBooks(locale);
 

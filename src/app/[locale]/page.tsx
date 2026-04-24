@@ -1,9 +1,15 @@
-import { useTranslations } from "next-intl";
+import { getTranslations, setRequestLocale } from "next-intl/server";
 import { Link } from "@/ui/navigation/locale-link";
 import { BookOpen, NotebookPen } from "lucide-react";
 
-export default function LandingPage() {
-  const t = useTranslations();
+export default async function LandingPage({
+  params,
+}: {
+  params: Promise<{ locale: string }>;
+}) {
+  const { locale } = await params;
+  setRequestLocale(locale);
+  const t = await getTranslations();
 
   return (
     <main className="min-h-screen">

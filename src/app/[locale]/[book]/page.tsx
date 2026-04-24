@@ -1,4 +1,4 @@
-import { getTranslations } from "next-intl/server";
+import { getTranslations, setRequestLocale } from "next-intl/server";
 import { notFound } from "next/navigation";
 import { Link } from "@/ui/navigation/locale-link";
 import { getAvailableBooks, getAvailableChapters } from "@/lib/content-loader";
@@ -14,6 +14,7 @@ export default async function BookPage({
   params: Promise<{ locale: string; book: string }>;
 }) {
   const { locale, book } = await params;
+  setRequestLocale(locale);
 
   const books = await getAvailableBooks(locale);
   if (!books.includes(book)) {

@@ -1,5 +1,6 @@
 import type { ReactNode } from "react";
-import { NextIntlClientProvider, useMessages } from "next-intl";
+import { NextIntlClientProvider } from "next-intl";
+import { setRequestLocale } from "next-intl/server";
 import { notFound } from "next/navigation";
 import { Newsreader, Geist, Geist_Mono } from "next/font/google";
 import { locales, type Locale, loadMessages } from "@/lib/i18n";
@@ -40,6 +41,8 @@ export default async function LocaleLayout({
   if (!locales.includes(locale as Locale)) {
     notFound();
   }
+
+  setRequestLocale(locale);
 
   const messages = await loadMessages(locale);
 

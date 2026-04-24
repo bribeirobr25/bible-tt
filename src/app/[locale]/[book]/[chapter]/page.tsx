@@ -1,4 +1,5 @@
 import { notFound } from "next/navigation";
+import { setRequestLocale } from "next-intl/server";
 import { getChapterData, getEnrichmentData, getAvailableChapters, getAllChapterParams } from "@/lib/content-loader";
 import type { Locale } from "@/lib/i18n";
 import { ChapterView } from "@/ui/shared/chapter-view";
@@ -13,6 +14,7 @@ export default async function ChapterPage({
   params: Promise<{ locale: string; book: string; chapter: string }>;
 }) {
   const { locale, book, chapter } = await params;
+  setRequestLocale(locale);
   const chapterNum = Number.parseInt(chapter, 10);
 
   if (Number.isNaN(chapterNum)) {

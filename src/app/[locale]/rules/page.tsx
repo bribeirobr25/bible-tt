@@ -1,4 +1,4 @@
-import { useTranslations } from "next-intl";
+import { getTranslations, setRequestLocale } from "next-intl/server";
 import { Link } from "@/ui/navigation/locale-link";
 
 const RULES_WITH_EXAMPLES = [
@@ -9,8 +9,14 @@ const RULES_WITH_EXAMPLES = [
   { ruleKey: "rule25", ruleNum: 25 },
 ] as const;
 
-export default function RulesPage() {
-  const t = useTranslations();
+export default async function RulesPage({
+  params,
+}: {
+  params: Promise<{ locale: string }>;
+}) {
+  const { locale } = await params;
+  setRequestLocale(locale);
+  const t = await getTranslations();
 
   return (
     <main className="min-h-screen px-6 py-16 md:py-24">
