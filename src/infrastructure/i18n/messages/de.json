@@ -11,17 +11,20 @@
     "selectChapter": "Kapitel wählen",
     "readingMode": "Lesung",
     "studyMode": "Studie",
-    "contextMode": "Kontext"
+    "contextMode": "Kontext",
+    "exploreMode": "Entdecken"
   },
   "chapter": {
     "prev": "Vorheriges Kapitel",
     "next": "Nächstes Kapitel",
     "notFound": "Dieses Kapitel wurde noch nicht übersetzt.",
     "reading": "Fortlaufende Lesung",
-    "study": "Vers-für-Vers-Studie"
+    "study": "Vers-für-Vers-Studie",
+    "chapterN": "Kapitel {n}"
   },
   "notes": {
     "title": "Notizen",
+    "notesCount": "Notizen ({count})",
     "critical": "Kritisch",
     "lexical": "Lexikalisch",
     "grammatical": "Grammatisch",
@@ -39,10 +42,44 @@
     "baseText": "Grundtext",
     "methodology": "Methodik",
     "showDetails": "Details anzeigen",
-    "hideDetails": "Details ausblenden"
+    "hideDetails": "Details ausblenden",
+    "yhwhLabel": "JHWH"
   },
   "book": {
     "genesis": "Genesis"
+  },
+  "confidence": {
+    "verified": "Bestätigt",
+    "probable": "Wahrscheinlich",
+    "possible": "Möglich",
+    "uncertain": "Unsicher",
+    "speculative": "Spekulativ"
+  },
+  "enrichment": {
+    "source": "Quelle: {source}",
+    "emptyContext": "Für dieses Kapitel ist noch kein kontextuelles Studienmaterial verfügbar.",
+    "emptyExplore": "Für dieses Kapitel ist noch kein kontextuelles Material verfügbar.",
+    "contextDisclaimer": "Dieses Begleitmaterial bietet kontextuelles und vergleichendes Studienmaterial. Es definiert die Hauptübersetzung weder um noch erweitert oder steuert sie. Alle Einträge sind nach Typ und Sicherheitsgrad gekennzeichnet.",
+    "exploreDisclaimer": "Was folgt, ist Hintergrundmaterial — kein Teil der Übersetzung selbst. Für vollständige wissenschaftliche Bezeichnungen, Quellen und Sicherheitsgrade wechseln Sie in den Kontext-Modus.",
+    "exploreFooter": "Die farbigen Punkte zeigen an, wie gut belegt jede Beobachtung ist. Für detaillierte Bezeichnungen, akademische Quellen und vollständige Sicherheitsgrade — wechseln Sie in den {contextMode}-Modus.",
+    "legendEstablished": "gut belegt",
+    "legendPossible": "möglich",
+    "legendUncertain": "unsicher",
+    "introHebrewText": "Dieses Kapitel transparent zu lesen — ohne die Glättung, die die meisten Übersetzungen vornehmen — offenbart Merkmale des hebräischen Textes, die normalerweise unsichtbar bleiben.",
+    "introAneParallels": "Die Welt, die diesen Text hervorbrachte, war nicht frei von anderen Erzählungen. Benachbarte Kulturen erzählten ihre eigenen Berichte darüber, wie alles begann.",
+    "introHistorical": "Was wissen wir tatsächlich über die Welt, die dieser Text beschreibt?",
+    "introLinguistic": "Die hebräischen Wörter selbst tragen Schichten, die eine Übersetzung unweigerlich komprimiert.",
+    "introScientific": "Die moderne Wissenschaft beschreibt die natürliche Welt ganz anders als dieser antike Text. Keines bestätigt oder widerlegt das andere — sie beantworten unterschiedliche Fragen.",
+    "introReception": "Dieser Text wird seit Tausenden von Jahren gelesen. Verschiedene Gemeinschaften haben Verschiedenes darin gehört.",
+    "introCuriosities": "Manches im Text ist einfach auffällig — nicht weil es etwas beweist, sondern weil es zum Innehalten bringt.",
+    "hedgeStartProbable": "Die meisten Gelehrten sind sich einig, dass ",
+    "hedgeStartPossible": "Eine mögliche Lesart legt nahe, dass ",
+    "hedgeStartUncertain": "Die Bedeutung hier ist wirklich unklar, aber ",
+    "hedgeStartSpeculative": "Manche haben sich gefragt, ob ",
+    "hedgeMidProbable": "Dies ist weithin anerkannt. ",
+    "hedgeMidPossible": "Dies ist eine Lesart unter anderen. ",
+    "hedgeMidUncertain": "Dies bleibt wirklich umstritten. ",
+    "hedgeMidSpeculative": "Dies ist spekulativ. "
   },
   "landing": {
     "hook": "Jede Bibelübersetzung fügt Wörter hinzu, die nicht im Hebräischen stehen. Diese zeigt Ihnen welche.",

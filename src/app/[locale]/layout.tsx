@@ -4,7 +4,7 @@ import { setRequestLocale } from "next-intl/server";
 import { notFound } from "next/navigation";
 import { Newsreader, Geist, Geist_Mono } from "next/font/google";
 import { locales, type Locale, loadMessages } from "@/lib/i18n";
-import { GlobalHeader } from "@/ui/navigation/global-header";
+import { AppBar } from "@/ui/navigation/app-bar";
 import "@/app/globals.css";
 
 const newsreader = Newsreader({
@@ -50,8 +50,10 @@ export default async function LocaleLayout({
     <html lang={locale} className={`${newsreader.variable} ${geist.variable} ${geistMono.variable}`}>
       <body className="bg-bg-paper text-text-primary font-[family-name:var(--font-ui)] min-h-screen">
         <NextIntlClientProvider locale={locale} messages={messages}>
-          <GlobalHeader />
-          {children}
+          <AppBar />
+          <div className="pt-12">
+            {children}
+          </div>
         </NextIntlClientProvider>
       </body>
     </html>

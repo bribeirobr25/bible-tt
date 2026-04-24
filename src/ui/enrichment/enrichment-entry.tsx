@@ -1,3 +1,4 @@
+import { useTranslations } from "next-intl";
 import type { EnrichmentEntry, ClaimType, ConfidenceLevel } from "@/domain/content/types";
 
 const CLAIM_COLORS: Record<ClaimType, string> = {
@@ -11,17 +12,26 @@ const CLAIM_COLORS: Record<ClaimType, string> = {
   "SPECULATION": "border-l-note-critical bg-note-critical-bg",
 };
 
-const CONFIDENCE_BADGE: Record<ConfidenceLevel, { label: string; color: string }> = {
-  VERIFIED: { label: "Verified", color: "bg-note-lexical/15 text-note-lexical" },
-  PROBABLE: { label: "Probable", color: "bg-note-lexical/10 text-note-lexical" },
-  POSSIBLE: { label: "Possible", color: "bg-note-theological/10 text-note-theological" },
-  UNCERTAIN: { label: "Uncertain", color: "bg-note-critical/10 text-note-critical" },
-  SPECULATIVE: { label: "Speculative", color: "bg-note-critical/15 text-note-critical" },
+const CONFIDENCE_BADGE_COLORS: Record<ConfidenceLevel, string> = {
+  VERIFIED: "bg-note-lexical/15 text-note-lexical",
+  PROBABLE: "bg-note-lexical/10 text-note-lexical",
+  POSSIBLE: "bg-note-theological/10 text-note-theological",
+  UNCERTAIN: "bg-note-critical/10 text-note-critical",
+  SPECULATIVE: "bg-note-critical/15 text-note-critical",
+};
+
+const CONFIDENCE_KEYS: Record<ConfidenceLevel, string> = {
+  VERIFIED: "confidence.verified",
+  PROBABLE: "confidence.probable",
+  POSSIBLE: "confidence.possible",
+  UNCERTAIN: "confidence.uncertain",
+  SPECULATIVE: "confidence.speculative",
 };
 
 export function EnrichmentEntryCard({ entry }: { entry: EnrichmentEntry }) {
+  const t = useTranslations();
   const claimStyle = CLAIM_COLORS[entry.claimType] || CLAIM_COLORS.TEXTUAL;
-  const badge = CONFIDENCE_BADGE[entry.confidence] || CONFIDENCE_BADGE.POSSIBLE;
+  const badgeColor = CONFIDENCE_BADGE_COLORS[entry.confidence] || CONFIDENCE_BADGE_COLORS.POSSIBLE;
 
   return (
     <div className={`border-l-3 ${claimStyle} rounded-r-md px-4 py-3`}>
@@ -29,8 +39,8 @@ export function EnrichmentEntryCard({ entry }: { entry: EnrichmentEntry }) {
         <span className="text-xs font-bold uppercase tracking-wider text-text-muted font-[family-name:var(--font-mono)]">
           {entry.claimType}
         </span>
-        <span className={`text-xs font-semibold uppercase px-1.5 py-0.5 rounded ${badge.color}`}>
-          {badge.label}
+        <span className={`text-xs font-semibold uppercase px-1.5 py-0.5 rounded ${badgeColor}`}>
+          {t(CONFIDENCE_KEYS[entry.confidence] || "confidence.possible")}
         </span>
       </div>
       <h4 className="font-[family-name:var(--font-ui)] text-sm font-semibold mb-1.5">
@@ -48,7 +58,7 @@ export function EnrichmentEntryCard({ entry }: { entry: EnrichmentEntry }) {
       />
       {entry.source && (
         <p className="mt-2 text-xs text-text-muted italic">
-          Source: {entry.source}
+          {t("enrichment.source", { source: entry.source })}
         </p>
       )}
     </div>

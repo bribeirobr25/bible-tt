@@ -8,15 +8,16 @@ import { VerseCard } from "@/ui/study/verse-card";
 import { GlossaryPanel } from "@/ui/study/glossary-panel";
 import { SupplementaryPanel } from "@/ui/study/supplementary-section";
 import { ContextView } from "@/ui/enrichment/context-view";
+import { ExploreView } from "@/ui/enrichment/explore-view";
 import { ChapterNav } from "@/ui/navigation/chapter-nav";
-import { LanguageSwitcher } from "@/ui/navigation/language-switcher";
 import { ReadingProgress } from "@/ui/reading/reading-progress";
 
-type ViewMode = "reading" | "study" | "context";
+type ViewMode = "reading" | "study" | "explore" | "context";
 
 const MODE_KEYS: { mode: ViewMode; labelKey: string }[] = [
   { mode: "reading", labelKey: "nav.readingMode" },
   { mode: "study", labelKey: "nav.studyMode" },
+  { mode: "explore", labelKey: "nav.exploreMode" },
   { mode: "context", labelKey: "nav.contextMode" },
 ];
 
@@ -38,8 +39,9 @@ export function ChapterView({
   const [mode, setMode] = useState<ViewMode>("reading");
   const t = useTranslations();
 
+  const hasEnrichment = enrichment && enrichment.sections.length > 0;
   const availableModes = MODE_KEYS.filter(
-    (m) => m.mode !== "context" || (enrichment && enrichment.sections.length > 0),
+    (m) => (m.mode !== "context" && m.mode !== "explore") || hasEnrichment,
   );
 
   return (
@@ -47,12 +49,9 @@ export function ChapterView({
       <ReadingProgress />
       <main className="min-h-screen px-4 md:px-6 py-6 md:py-10 max-w-4xl mx-auto">
         <header className="mb-8 space-y-4">
-          <div className="flex items-center justify-between gap-4 flex-wrap">
-            <h1 className="font-[family-name:var(--font-reading)] text-2xl md:text-3xl font-light">
-              {t(`book.${book}`)} {chapterNum}
-            </h1>
-            <LanguageSwitcher currentLocale={locale} book={book} chapter={chapterNum} />
-          </div>
+          <h1 className="font-[family-name:var(--font-reading)] text-2xl md:text-3xl font-light">
+            {t(`book.${book}`)} {chapterNum}
+          </h1>
 
           <div className="flex gap-1 bg-bg-muted rounded-lg p-1 w-fit" role="tablist">
             {availableModes.map(({ mode: m, labelKey }) => (
@@ -81,7 +80,7 @@ export function ChapterView({
               <p><span className="font-medium">{t("metadata.baseText")}:</span> {data.metadata.baseText}</p>
               <p><span className="font-medium">{t("metadata.methodology")}:</span> {data.metadata.methodology}</p>
               {data.metadata.yhwhPolicy && (
-                <p><span className="font-medium">YHWH:</span> {data.metadata.yhwhPolicy}</p>
+                <p><span className="font-medium">{t("metadata.yhwhLabel")}:</span> {data.metadata.yhwhPolicy}</p>
               )}
             </div>
           </details>
@@ -114,6 +113,10 @@ export function ChapterView({
               <SupplementaryPanel sections={data.supplementarySections} />
             )}
           </div>
+        )}
+
+        {mode === "explore" && enrichment && (
+          <ExploreView data={enrichment} />
         )}
 
         {mode === "context" && enrichment && (

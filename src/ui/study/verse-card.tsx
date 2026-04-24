@@ -1,8 +1,11 @@
+import { useTranslations } from "next-intl";
 import type { Verse } from "@/domain/content/types";
 import { NoteBlock } from "./note-block";
 import { ChevronRight } from "lucide-react";
 
 export function VerseCard({ verse }: { verse: Verse }) {
+  const t = useTranslations();
+
   return (
     <section
       id={`verse-${verse.number}`}
@@ -29,7 +32,7 @@ export function VerseCard({ verse }: { verse: Verse }) {
               className="w-3.5 h-3.5 transition-transform duration-200 group-open:rotate-90"
               strokeWidth={2}
             />
-            Notes ({verse.notes.length})
+            {t("notes.notesCount", { count: verse.notes.length })}
           </summary>
           <div className="mt-3 space-y-3">
             {verse.notes.map((note, i) => (

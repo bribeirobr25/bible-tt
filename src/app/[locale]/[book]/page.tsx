@@ -28,10 +28,7 @@ export default async function BookPage({
     <main className="min-h-screen flex flex-col items-center px-6 py-12">
       <div className="max-w-lg w-full space-y-8">
         <div className="text-center">
-          <Link href="/books" className="text-text-secondary text-sm hover:text-accent transition-colors duration-150 focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2 rounded">
-            &larr; {t("nav.books")}
-          </Link>
-          <h1 className="font-[family-name:var(--font-reading)] text-3xl md:text-4xl font-light mt-4">
+          <h1 className="font-[family-name:var(--font-reading)] text-3xl md:text-4xl font-light">
             {t(`book.${book}`)}
           </h1>
           <p className="text-sm text-text-muted mt-2">

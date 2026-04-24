@@ -1,3 +1,4 @@
+import { useTranslations } from "next-intl";
 import type { EnrichmentData } from "@/domain/content/types";
 import { EnrichmentEntryCard } from "./enrichment-entry";
 import { BookOpen, Landmark, Pickaxe, Languages, FlaskConical, ScrollText, Sparkles, BookMarked } from "lucide-react";
@@ -15,13 +16,14 @@ const SECTION_ICONS: Record<string, LucideIcon> = {
 };
 
 export function ContextView({ data }: { data: EnrichmentData }) {
+  const t = useTranslations();
   const displaySections = data.sections.filter((s) => s.entries.length > 0);
 
   if (displaySections.length === 0) {
     return (
       <div className="max-w-3xl mx-auto py-16 text-center">
         <p className="text-sm text-text-muted italic">
-          No contextual study material available for this chapter yet.
+          {t("enrichment.emptyContext")}
         </p>
       </div>
     );
@@ -30,7 +32,7 @@ export function ContextView({ data }: { data: EnrichmentData }) {
   return (
     <div className="max-w-3xl mx-auto">
       <div className="mb-10 px-4 py-3 border border-border-muted rounded-md bg-bg-surface text-xs text-text-muted leading-relaxed italic">
-        {data.disclaimer || "This companion provides contextual and comparative study material. It does not redefine, expand, or control the main translation. All entries are labeled by type and certainty."}
+        {data.disclaimer || t("enrichment.contextDisclaimer")}
       </div>
 
       <div className="space-y-4">

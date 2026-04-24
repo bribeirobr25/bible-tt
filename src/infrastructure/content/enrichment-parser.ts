@@ -8,8 +8,8 @@ import type {
 
 const SECTION_HEADER = /^## ([A-H])\.\s+(.+)$/;
 const ENTRY_HEADER = /^### (.+)$/;
-const LABEL_LINE = /^\*\*\[(.+?)\s*—\s*(.+?)\]\*\*$/;
-const SOURCE_LINE = /^\*\*Source:\*\*\s*(.+)$/;
+const LABEL_LINE = /^\*\*\[(.+?)\s*(?:—|--)\s*(.+?)\]\*\*$/;
+const SOURCE_LINE = /^\*\*(?:Source|Quelle|Fonte):\*\*\s*(.+)$/;
 
 const SECTION_IDS: Record<string, string> = {
   A: "hebrew-text-features",
@@ -37,13 +37,13 @@ function parseClaimType(raw: string): ClaimType {
 
 function parseConfidence(raw: string): ConfidenceLevel {
   const normalized = raw.trim().toUpperCase();
-  if (normalized.includes("VERIFIED")) return "VERIFIED";
-  if (normalized.includes("PROBABLE")) return "PROBABLE";
-  if (normalized.includes("POSSIBLE")) return "POSSIBLE";
-  if (normalized.includes("UNCERTAIN")) return "UNCERTAIN";
-  if (normalized.includes("SPECULATIVE")) return "SPECULATIVE";
-  if (normalized.includes("EXPLICIT")) return "VERIFIED";
-  if (normalized.includes("DOCUMENTED")) return "VERIFIED";
+  if (normalized.includes("VERIFIED") || normalized.includes("VERIFIZIERT") || normalized.includes("VERIFICADO")) return "VERIFIED";
+  if (normalized.includes("PROBABLE") || normalized.includes("WAHRSCHEINLICH") || normalized.includes("PROVÁVEL") || normalized.includes("PROVAVEL")) return "PROBABLE";
+  if (normalized.includes("POSSIBLE") || normalized.includes("MOEGLICH") || normalized.includes("MÖGLICH") || normalized.includes("POSSÍVEL") || normalized.includes("POSSIVEL")) return "POSSIBLE";
+  if (normalized.includes("UNCERTAIN") || normalized.includes("UNGEWISS") || normalized.includes("INCERTO")) return "UNCERTAIN";
+  if (normalized.includes("SPECULATIVE") || normalized.includes("SPEKULATIV") || normalized.includes("ESPECULATIVO")) return "SPECULATIVE";
+  if (normalized.includes("EXPLICIT") || normalized.includes("EXPLIZIT") || normalized.includes("EXPLÍCITO") || normalized.includes("EXPLICITO")) return "VERIFIED";
+  if (normalized.includes("DOCUMENTED") || normalized.includes("DOKUMENTIERT") || normalized.includes("DOCUMENTADO")) return "VERIFIED";
   return "POSSIBLE";
 }
 

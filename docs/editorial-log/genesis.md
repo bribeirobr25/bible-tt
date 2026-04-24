@@ -1025,6 +1025,49 @@ Applied from consolidated external proposals (`docs/audit/GENESIS-1-EN-PROPOSAL.
   - Verified: enrichment renders on EN Gen 1 only; no enrichment on Gen 2/3 or PT-BR/DE (as expected for pilot)
 - **Status:** applied
 
+## Entry 2026-04-24-081
+
+- **Verse:** Genesis 7:1–24, Genesis 8:1–22, Genesis 9:1–29
+- **Language(s) affected:** EN, PT-BR, DE
+- **Rule(s) invoked:** Rules 1, 2, 3, 4, 7, 11, 14, 22, 25, 29
+- **Decision:** Created TT versions of Genesis 7, 8, and 9 in all three languages (chapter files + contextual companion files = 18 new files).
+- **Key translation decisions for Gen 7–9:**
+  1. **"Seven seven" (7:2):** Rendered literally as "seven seven" / "sete sete" / "sieben sieben" — NOT "seven pairs." Distributive ambiguity preserved (Rule 2).
+  2. **"Two from all" tension (6:19 vs 7:2):** Preserved without harmonization (Rule 22). Both instructions translated as MT reads them.
+  3. **Cosmological mechanism (7:11):** "Fountains of the great deep" + "windows of the sky" — linked to Day 2 reversal (raqia separation undone). Consistent with Gen 1 cosmology.
+  4. **Ruach (8:1):** "wind/spirit" slash preserved — direct Gen 1:2 echo. Re-creation parallel flagged.
+  5. **N-W-CH root (Gen 8):** Four occurrences tracked: Noach, tanach (rested), manoach (resting place), nichoach (pleasing aroma). Wordplay flagged per Rule 14.
+  6. **6:5 vs 8:21 comparison:** Both yetser statements translated with exact fidelity. Differences noted: 8:21 drops three intensifiers, adds "from his youth." Same diagnosis → opposite conclusion.
+  7. **"Bow" (9:13):** Rendered as "bow" / "arco" / "Bogen" — NOT "rainbow." Qesheth = war bow everywhere else in HB. Martial semantics preserved with note.
+  8. **Blood prohibition (9:4):** Appositive "its life — its blood" preserved with dash. Nephesh = dam equation flagged.
+  9. **Chiastic structure (9:6):** Hebrew A-B-C / C'-B'-A' noted. English word order preserved as closely as possible.
+  10. **"Saw the nakedness" (9:22):** Translated as "saw" — text says ראה (saw), not גלה (uncovered). Surface text preserved per Rule 2. Interpretive debate in companion file.
+  11. **Kenaan cursed (9:25):** Translated as written. Unexplained tension (Cham acted, Kenaan cursed) noted without resolution.
+  12. **"May he dwell in the tents of Shem" (9:27):** Ambiguous "he" preserved — could be Yafet or God. Rule 2.
+  13. **Gen 1:28 vs 9:1–7:** Parallel tracked. "Dominion" (*radah*) replaced by "fear and dread" (*mora, chit*). "Subdue" (*kavash*) absent. Meat-eating added. Image of God (*tselem*) persists.
+- **New glossary terms added:** shiv'ah (seven), tehorah (clean), yequm (standing thing), ma'yan (fountain), arubbah (window/sluice), charabah (dry ground), orev (raven), yonah (dove), manoach (resting place), challon (window), Ararat, mizbeach (altar), olah (burnt offering), nichoach (pleasing), mora (fear), chittah (dread), qesheth (bow), olam (perpetuity), ervah (nakedness), Kenaan, kerem (vineyard).
+- **Status:** provisional — pending reviewer sign-off (Rule 28)
+
+## Entry 2026-04-24-082
+
+- **Verse:** Genesis 7:22, 8:1, 8:21, 9:5, 9:13, 9:22, 9:25
+- **Language(s) affected:** EN, PT-BR, DE
+- **Rule(s) invoked:** Rules 2, 3, 12, 24 (Tier 2 cap), pivotal-verse exception
+- **Decision:** Post-feedback audit fixes applied across all three languages:
+  1. **Gen 7 Reading Guide:** Removed residual "nephilim, gopher" reference (not in Gen 7). Now reads "tebah, mabbul."
+  2. **Gen 7:22 (*ruach* slash):** Main text corrected from "breath of the spirit of life" to "breath of the wind/spirit of life." Rule 2 compliance — ruach must retain slash in main text per locked glossary.
+  3. **Gen 7:16 note:** "Personal protector" softened to "intimate, protective act" — reduces theological framing (Rule 3).
+  4. **Gen 8:1 note:** "Exactly as creation began" softened to "closely echoes" — 8:1 has ruach "over the land," not "over the face of the waters" as in 1:2 (Rule 12, no false precision).
+  5. **Gen 8:7 raven note:** Ambiguity of "going out and returning" now explicitly noted.
+  6. **Gen 9:5:** "*and* his brother" corrected to ", his brother" — Hebrew idiom is apposition, not conjunction.
+  7. **Gen 9:13 + companion:** "Everywhere else = war bow" softened to "overwhelmingly denotes a war bow" (Rule 12).
+  8. **Gen 9:22 note:** Trimmed from 3 readings to 2 in Tier 2; 3rd reading (maternal incest) moved to companion only (Rule 24 Tier 2 cap).
+  9. **Gen 9:25 note:** Trimmed from 4 theories to 2 strongest in Tier 2; additional theories in companion (Rule 24).
+  10. **Gen 9 companion:** "Most egregious" softened in Curse of Ham reception section (Rule 3 restraint).
+  11. **Gen 8 cross-chapter tracking:** "Approximately one solar year" softened to "near one-year narrative frame."
+- **Pivotal verses designated:** Gen 8:21, 9:6, 9:13, 9:22 — permitted extended Tier 2 notes under pivotal-verse exception. Each logged here per exception clause.
+- **Status:** applied
+
 ---
 
-*Rule 29 governance + Gen 1 EN enrichment pilot + web app integration complete. 117/117 tests passing. Build succeeds.*
+*Genesis 7–9 feedback fixes applied. All three languages updated. 117/117 tests passing. 27 chapter pages static (SSG).*

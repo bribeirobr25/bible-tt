@@ -1,0 +1,206 @@
+# Genesis 8 — Estudo Contextual Complementar
+## A Tradução Transparente (TT)
+
+---
+
+> **Este arquivo complementar fornece material de estudo contextual e comparativo. Não redefine, expande ou controla a tradução principal. Paralelos não provam dependência. Modelos modernos não definem intenção antiga. Todas as entradas são rotuladas por tipo e certeza e devem ser lidas como contexto, não como tradução.**
+
+---
+
+**Capítulo:** Genesis 8
+**Idioma:** Português Brasileiro
+**Acompanha:** `pt-br/genesis/CHAPTER-8.md` (Edição Transparente)
+**Regras:** v2.5 (Regra 29 governa este arquivo)
+**Status:** rascunho
+
+---
+
+## A. Características do Texto Hebraico Expostas pela TT
+
+### A1. *Ruach* sobre as águas — re-criação começa
+**[TEXTUAL — VERIFICADO]**
+
+Gn 8:1: "Deus fez passar uma *ruach* sobre a terra." Eco estrutural direto de Gn 1:2: "*ruach* de Deus pairando sobre a face das águas." A TT preserva a barra (vento/espírito) conforme Regra 2. A re-criação após o dilúvio começa com o mesmo elemento da criação original — *ruach* sobre água. A narrativa do dilúvio é enquadrada como des-criação (cap.7) seguida de re-criação (cap.8).
+
+### A2. "Deus lembrou-se" — não esquecimento, mas ação
+**[TEXTUAL — VERIFICADO]**
+
+וַיִּזְכֹּר אֱלֹהִים (*vayyizkor elohim*) = "E Deus lembrou-se." No hebraico, "lembrar-se" divino (*zakhar*) não implica esquecimento prévio. Sinaliza que Deus volta a atenção para agir em favor de alguém. Mesmo verbo em Gn 19:29 (Deus "lembra-se" de Abraão e salva Ló), Gn 30:22 (Deus "lembra-se" de Raquel), Êx 2:24 (Deus "lembra-se" da sua aliança). O verbo *zakhar* nestes usos divinos é consistentemente performativo — lembrar é agir. Em Gn 9:15-16, o arco funciona como mnemônico divino: Deus vê o arco → lembra-se → contém-se. O autolembrete divino (8:21 "disse em seu coração"; 9:16 "eu o verei para lembrar") não possui paralelo direto no AOP. A TT traduz "lembrou-se" literalmente.
+
+### A3. Fontes e janelas — fechadas, não destruídas
+**[TEXTUAL — VERIFICADO]**
+
+Gn 7:11: fontes "se romperam" (*nivqe'u*), janelas "se abriram" (*niftchu*). Gn 8:2: fontes e janelas "foram tapadas" (*vayyissakru*). As fontes cósmicas de água são tapadas — seladas novamente — não eliminadas. A arquitetura do raqia permanece intacta; a separação do Dia 2 é restabelecida. O modelo cosmológico de Gn 1 continua operando após o dilúvio.
+
+### A4. A tebah "repousou" (*tanach*) — raiz n-w-ch
+**[TEXTUAL — VERIFICADO]**
+
+Gn 8:4: וַתָּנַח הַתֵּבָה (*vattanach ha-tebah*) = "a tebah repousou." Raiz: נ-ו-ח (*n-w-ch*) — a mesma raiz do nome de Noach. A tebah "*noach*-ou" nos montes. Esta é a segunda ocorrência de n-w-ch na narrativa do dilúvio, após o próprio nome.
+
+### A5. Saturação da raiz N-W-CH — quatro ocorrências
+**[TEXTUAL — VERIFICADO]**
+
+A raiz n-w-ch aparece quatro vezes em Gênesis 8:
+1. **Noach** (o nome — "repouso/consolo")
+2. **8:4** — a tebah *tanach* (repousou) em Ararat
+3. **8:9** — a pomba não encontra *manoach* (lugar de repouso)
+4. **8:21** — YHWH cheira o *nichoach* (aroma agradável/apaziguante)
+
+Esta concentração é única. O homem chamado "repouso" é aquele cuja embarcação repousa, cuja pomba busca repouso, e cujo sacrifício produz um aroma de "repouso." A TT expõe isto transliterando consistentemente e sinalizando as conexões de raiz.
+
+### A6. Dois verbos para "secar" — superfície vs. completo
+**[TEXTUAL — VERIFICADO]**
+
+Gn 8:13: חָרְבוּ (*charvu*) = secou na superfície (de *charav*). Gn 8:14: יָבְשָׁה (*yavshah*) = secou completamente (de *yavesh*). Dois verbos hebraicos diferentes descrevem dois estágios de secagem: a água da superfície se foi (8:13, Mês 1 Dia 1), depois o solo está completamente seco (8:14, Mês 2 Dia 27). A TT não os confunde — ambos são traduzidos como "secar," mas as notas entre capítulos os distinguem.
+
+### A7. "Frutificai e multiplicai-vos" — Gn 1:22 repetido
+**[TEXTUAL — VERIFICADO]**
+
+Gn 8:17: "frutifiquem e multipliquem-se sobre a terra." Linguagem idêntica a Gn 1:22 (bênção às criaturas) e 1:28 (bênção aos humanos). A re-criação é explicitada. O mundo pós-dilúvio recebe a mesma bênção generativa da primeira criação.
+
+### A8. Mesmo diagnóstico, conclusão oposta — 6:5 vs 8:21
+**[TEXTUAL — VERIFICADO]**
+
+Gn 6:5: "toda inclinação dos pensamentos do seu coração era somente mal o dia todo" → dilúvio (julgamento). Gn 8:21: "a inclinação do coração do humano é má desde a sua juventude" → "não tornarei a amaldiçoar o solo" (misericórdia). A versão de 8:21 remove três intensificadores (*kol/toda*, *raq/somente*, *kol ha-yom/o dia todo*) e acrescenta "desde a sua juventude" (*mine'urav*). A condição humana é essencialmente a mesma — mas linguagem mais suave leva à resposta divina oposta. A TT preserva ambos os versículos com fidelidade exata ao hebraico.
+
+A palavra *yetser* (inclinação) em si deriva da raiz י-צ-ר (*y-ts-r*, "formar/modelar") — a mesma raiz usada em Gn 2:7 quando Deus "formou" (*vayyitser*) o humano a partir da *adamah*. A inclinação do humano é, etimologicamente, algo *formado*. Na Bíblia Hebraica, *yetser* é um termo neutro para "pensamento/plano" (Sl 103:14; Is 26:3). O conceito rabínico posterior *yetzer hara* (inclinação para o mal), distinguido de *yetzer hatov* (inclinação para o bem), é desenvolvimento pós-bíblico — rotulado aqui como recepção, não como significado interno de Gênesis.
+
+### A9. O macro-quiasmo de Gn 6:9–9:29
+**[TEXTUAL — VERIFICADO]**
+
+A narrativa do dilúvio é organizada como um quiasmo em larga escala com "Deus lembrou-se de Noach" (8:1) como o ponto de virada estrutural preciso. Esta arquitetura literária, documentada por Wenham e Radday, revela que cada unidade antes de 8:1 espelha uma unidade correspondente depois dele:
+
+| Antes de 8:1 | Pivô | Depois de 8:1 |
+|---|---|---|
+| Discurso divino de julgamento (6:13–21) | **Deus lembrou-se de Noach (8:1)** | Discurso divino de compromisso (8:21–22; 9:1–17) |
+| "Entristeceu-se em seu coração" (6:6) | | "YHWH disse em seu coração" (8:21) |
+| Aliança anunciada, sem termos (6:18) | | Aliança estabelecida com termos (9:9–17) |
+| "Entra na tebah" (7:1) | | "Sai da tebah" (8:16) |
+| Fontes se romperam (7:11) | | Fontes tapadas (8:2) |
+| Águas sobem (7:17–24) | | Águas recuam (8:1–5) |
+| Espera de 7 dias antes do dilúvio (7:4,10) | | Espera de 7 dias pela pomba (8:10,12) |
+
+O quiasmo mostra que 8:1 não é meramente uma transição narrativa, mas o centro estrutural e teológico de toda a unidade do dilúvio — o "lembrar-se" de Deus é o eixo sobre o qual a destruição se reverte em restauração. O quiasmo é uma observação literário-estrutural; não confirma nem nega autoria única.
+
+**Fonte:** Wenham, G.J., "The Coherence of the Flood Narrative," *VT* 28 (1978), 336-348; Radday, Y.T., "Chiasm in Joshua, Judges, and Others," *Linguistica Biblica* 3 (1973).
+
+---
+
+## B. Paralelos do Antigo Oriente Próximo
+
+### B1. Envio de pássaros — Gilgamesh vs Gênesis
+**[PARALELO COMPARATIVO — VERIFICADO]**
+
+Gilgamesh XI:145-154: Utnapishtim envia uma pomba (retorna), uma andorinha (retorna), um corvo (não retorna — encontra alimento). Gênesis 8:7-12: Noach envia um corvo (vai e volta), depois uma pomba três vezes (retorna vazia → retorna com folha de oliveira → não retorna).
+
+Diferenças-chave: (1) ordem invertida dos pássaros; (2) Gênesis tem três missões da pomba com resultados progressivos; (3) em Gilgamesh, o não retorno do corvo sinaliza sucesso — em Gênesis, o comportamento do corvo é inconclusivo. A sequência de três estágios da pomba em Gênesis é estruturalmente mais desenvolvida.
+
+**Fonte:** George, A.R., *The Babylonian Gilgamesh Epic*, Oxford, 2003, Tábua XI:145-154.
+
+### B2. Sacrifício pós-dilúvio — resposta divina comparada
+**[PARALELO COMPARATIVO — VERIFICADO]**
+
+Gilgamesh XI:159-161: "Os deuses cheiraram o aroma, os deuses cheiraram o doce aroma, os deuses se reuniram como moscas sobre o sacrifício." Gênesis 8:21: "YHWH cheirou o aroma agradável (*reach ha-nichoach*)."
+
+O contraste é marcante: múltiplos deuses se reunindo "como moscas" (famintos, sem dignidade) vs. uma única deidade respondendo com resolução interna (digna, proposital). Em Gilgamesh, os deuses lamentam o dilúvio porque quase os privou de sacrifícios humanos. Em Gênesis, YHWH resolve nunca mais amaldiçoar o solo — um compromisso moral, não um cálculo prático.
+
+**Fonte:** George, A.R., *The Babylonian Gilgamesh Epic*, Oxford, 2003, Tábua XI:159-164.
+
+### B3. Ararat — o reino de Urartu
+**[HISTÓRICO / ARQUEOLÓGICO — VERIFICADO]**
+
+"Montes de Ararat" (8:4) corresponde ao antigo reino de Urartu, uma potência importante na Anatólia oriental/Armênia (c. 860-590 AEC). O hebraico אֲרָרָט (*Ararat*) = acadiano *Urartu*. O texto diz "montes" (plural) — uma cadeia montanhosa, não um pico único. A identificação com o moderno "Monte Ararat" (Ağrı Dağı, 5.137 m) é posterior ao texto bíblico.
+
+**Fonte:** Zimansky, P., *Ecology and Empire: The Structure of the Urartian State*, 1985.
+
+### B4. Comparação dos heróis do dilúvio
+**[PARALELO COMPARATIVO — VERIFICADO]**
+
+| Característica | Ziusudra (sumério) | Utnapishtim (acadiano) | Atrahasis | Noach (Gênesis) |
+|---|---|---|---|---|
+| Como é avisado | Visão divina | Deus fala através da parede | Deus fala diretamente | Deus fala diretamente |
+| Papel | Rei e sacerdote | Rei | Homem sábio | Homem justo (*tsaddiq*) |
+| Destino pós-dilúvio | Vida eterna em Dilmun | Vida eterna no fim do mundo | Incerto | Mortal — morre aos 950 |
+| Fala pós-dilúvio | Adoração ao deus sol | Narrativa a Gilgamesh | Nenhuma registrada | Maldição sobre Kenaan (9:25) |
+| Significado do nome | "Vida de Longos Dias" | "Ele encontrou vida" | "Excessivamente sábio" | "Repouso/consolo" (*n-w-ch*) |
+
+Gênesis é distintivo: Noach não alcança imortalidade; seu nome está enraizado na experiência humana e não em um atributo divino; e sua única fala registrada é uma maldição, não louvor. A observação da TT de que o silêncio de Noach (6:9–9:24) e sua primeira fala (9:25) são estruturalmente deliberados é reforçada por este contexto comparativo.
+
+**Fonte:** George, A.R., *The Babylonian Gilgamesh Epic*, Oxford, 2003; Jacobsen, T., *The Harps That Once*, Yale, 1987.
+
+---
+
+## C. Contexto Histórico e Arqueológico
+
+### C1. A folha de oliveira — evidência botânica
+**[HISTÓRICO / ARQUEOLÓGICO — PROVÁVEL]**
+
+A oliveira (*zayit*) é nativa do Mediterrâneo oriental e prospera no Levante. O detalhe de uma "folha de oliveira recém-arrancada" (8:11) situa a narrativa em uma zona ecológica mediterrânea. Oliveiras podem sobreviver a inundações prolongadas — regeneram-se a partir do sistema radicular mesmo após submersão. O detalhe é botanicamente plausível para um dilúvio regional no Oriente Próximo.
+
+**Fonte:** Zohary, D. & Hopf, M., *Domestication of Plants in the Old World*, Oxford, 3ª ed., 2000.
+
+### C2. Primeiro altar — *mizbeach* no contexto arqueológico
+**[HISTÓRICO / ARQUEOLÓGICO — PROVÁVEL]**
+
+Gn 8:20: Noach constrói o primeiro *mizbeach* (altar) na narrativa bíblica. A evidência arqueológica mais antiga de instalações sacrificiais estruturadas no Oriente Próximo data do Neolítico Pré-Cerâmico (c. 9000-7000 AEC). Altares ao ar livre feitos de pedra não lavrada são a forma mais simples e antiga.
+
+---
+
+## D. Aprofundamentos Linguísticos
+
+### D1. *Nichoach* — o aroma de "repouso"
+**[TEXTUAL — VERIFICADO]**
+
+Gn 8:21: רֵיחַ הַנִּיחֹחַ (*reach ha-nichoach*). A palavra *nichoach* é da raiz נ-ו-ח — a mesma raiz do nome de Noach. O aroma agradável/apaziguante é literalmente um aroma de "repouso." O sacrifício de Noach produz um *aroma-Noach*. Este jogo de palavras é invisível na maioria das traduções que traduzem "aroma agradável" sem conectá-lo ao nome do protagonista.
+
+### D2. *Manoach* — onde a pomba não pode repousar
+**[TEXTUAL — VERIFICADO]**
+
+Gn 8:9: "a pomba não encontrou *manoach* para a planta do seu pé." *Manoach* = lugar de repouso, da raiz n-w-ch. A pomba busca um "lugar-Noach" e não o encontra. O jogo de palavras é denso: o homem chamado Repouso (*Noach*) envia um pássaro que não encontra repouso (*manoach*) em um mundo onde a embarcação repousou (*tanach*) mas o solo ainda não secou.
+
+---
+
+## G. Curiosidades e Questões em Aberto
+
+### G1. O corvo — o que aconteceu?
+**[TEXTUAL — POSSÍVEL]**
+
+Gn 8:7: o corvo "saiu, saindo e voltando, até que as águas secaram de sobre a terra." O que significa "saindo e voltando"? (1) Voou de um lado para outro sem pousar — circulando mas nunca se assentando; (2) voou para fora e voltou à tebah repetidamente; (3) partiu e não retornou à tebah — "voltando" refere-se às águas retornando/recuando. O hebraico é genuinamente ambíguo. O corvo não produz informação útil; é a pomba que revela o estado da terra.
+
+### G2. Por que a folha de oliveira?
+**[TEXTUAL — POSSÍVEL]**
+
+A folha de oliveira (8:11) tornou-se um símbolo duradouro de paz. Mas o texto não atribui este significado. No contexto, a folha de oliveira prova: (1) as águas recuaram o suficiente para que a vegetação de planície esteja exposta; (2) material vegetal vivo sobrevive — o mundo biológico está se recuperando. O simbolismo de paz é uma acresção cultural posterior, não presente no texto hebraico.
+
+### G3. "Disse em seu coração" — interioridade divina
+**[TEXTUAL — VERIFICADO]**
+
+Gn 8:21: "YHWH disse em seu coração" (*el-libbo*). Este é discurso divino interno — Deus resolvendo consigo mesmo, não falando a Noach. O leitor humano recebe acesso ao pensamento interior de Deus. Isto se resolve privadamente; a aliança pública segue em Gn 9. A resolução interna precede e fundamenta o compromisso externo.
+
+O monólogo interior divino é uma convenção literária reconhecida em textos do AOP. Na Teologia Menfita egípcia, o deus Ptah cria através do pensamento "no coração" antes do comando verbal. O recurso retrata a tomada de decisão divina como deliberada e racional, não impulsiva. A TT o traduz literalmente, preservando o retrato antropomórfico mas digno.
+
+### G4. O dilúvio como exatamente um ano
+**[TEXTUAL — PROVÁVEL]**
+
+O dilúvio começa no Mês 2, Dia 17 (7:11) e a terra está completamente seca no Mês 2, Dia 27 (8:14) — aproximadamente um ano solar (370-371 dias). Alguns estudiosos argumentam que isto se encaixa exatamente em um calendário de 364 dias (conhecido de Jubileus e 1 Enoque) mais ajustes. Se a cronologia é histórica, literária ou litúrgica, o enquadramento de quase-exatamente-um-ano é uma característica estrutural da narrativa.
+
+---
+
+## H. Fontes Consultadas
+
+| Fonte | Tipo | Seções |
+|-------|------|--------|
+| BHS, 5ª ed. rev. (Deutsche Bibelgesellschaft, 1997) | Texto primário | Todas |
+| George, A.R., *The Babylonian Gilgamesh Epic*, Oxford, 2003 | Secundária (AOP) | B1, B2 |
+| Zimansky, P., *Ecology and Empire*, 1985 | Secundária (Urartu) | B3 |
+| Zohary, D. & Hopf, M., *Domestication of Plants*, 2000 | Secundária (botânica) | C1 |
+| Jacobsen, T., *The Harps That Once*, Yale, 1987 | Secundária (sumério) | B4 |
+| Wenham, G.J., "Coherence of the Flood Narrative," *VT* 28, 1978 | Artigo (quiasmo) | A9 |
+| Cassuto, U., *Commentary on Genesis*, vol. 2, 1964 | Comentário | A, G4 |
+
+---
+
+**Procedência editorial:**
+- Redigido por: Claude Opus 4.6 (assistente de IA)
+- Data: 2026-04-24
+- Revisado por: pendente

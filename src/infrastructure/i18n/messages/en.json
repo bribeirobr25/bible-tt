@@ -11,17 +11,20 @@
     "selectChapter": "Select a chapter",
     "readingMode": "Reading",
     "studyMode": "Study",
-    "contextMode": "Context"
+    "contextMode": "Context",
+    "exploreMode": "Explore"
   },
   "chapter": {
     "prev": "Previous chapter",
     "next": "Next chapter",
     "notFound": "This chapter has not been translated yet.",
     "reading": "Continuous Reading",
-    "study": "Verse-by-Verse Study"
+    "study": "Verse-by-Verse Study",
+    "chapterN": "Chapter {n}"
   },
   "notes": {
     "title": "Notes",
+    "notesCount": "Notes ({count})",
     "critical": "Critical",
     "lexical": "Lexical",
     "grammatical": "Grammatical",
@@ -39,10 +42,44 @@
     "baseText": "Base Text",
     "methodology": "Methodology",
     "showDetails": "Show details",
-    "hideDetails": "Hide details"
+    "hideDetails": "Hide details",
+    "yhwhLabel": "YHWH"
   },
   "book": {
     "genesis": "Genesis"
+  },
+  "confidence": {
+    "verified": "Verified",
+    "probable": "Probable",
+    "possible": "Possible",
+    "uncertain": "Uncertain",
+    "speculative": "Speculative"
+  },
+  "enrichment": {
+    "source": "Source: {source}",
+    "emptyContext": "No contextual study material available for this chapter yet.",
+    "emptyExplore": "No contextual material available for this chapter yet.",
+    "contextDisclaimer": "This companion provides contextual and comparative study material. It does not redefine, expand, or control the main translation. All entries are labeled by type and certainty.",
+    "exploreDisclaimer": "What follows is background — not part of the translation itself. For full scholarly labels, sources, and confidence ratings, switch to Context mode.",
+    "exploreFooter": "The colored dots indicate how well established each observation is. For detailed labels, academic sources, and full confidence ratings — switch to {contextMode} mode.",
+    "legendEstablished": "well established",
+    "legendPossible": "possible",
+    "legendUncertain": "uncertain",
+    "introHebrewText": "Reading this chapter transparently — without the smoothing most translations apply — reveals features of the Hebrew text that are usually invisible.",
+    "introAneParallels": "The world that produced this text was not empty of other stories. Neighboring cultures told their own accounts of how things began.",
+    "introHistorical": "What do we actually know about the world this text describes?",
+    "introLinguistic": "The Hebrew words themselves carry layers that translation inevitably compresses.",
+    "introScientific": "Modern science describes the natural world very differently from this ancient text. Neither validates nor invalidates the other — they answer different questions.",
+    "introReception": "This text has been read for thousands of years. Different communities have heard different things in it.",
+    "introCuriosities": "Some things in the text are simply striking — not because they prove anything, but because they make you pause.",
+    "hedgeStartProbable": "Most scholars agree that ",
+    "hedgeStartPossible": "One possible reading suggests that ",
+    "hedgeStartUncertain": "The meaning here is genuinely unclear, but ",
+    "hedgeStartSpeculative": "Some have wondered whether ",
+    "hedgeMidProbable": "This is widely accepted. ",
+    "hedgeMidPossible": "This is one reading among others. ",
+    "hedgeMidUncertain": "This remains genuinely debated. ",
+    "hedgeMidSpeculative": "This is speculative. "
   },
   "landing": {
     "hook": "Every Bible translation adds words that aren't in the Hebrew. This one shows you which ones.",

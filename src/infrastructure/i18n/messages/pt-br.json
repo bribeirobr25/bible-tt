@@ -11,17 +11,20 @@
     "selectChapter": "Selecione um capítulo",
     "readingMode": "Leitura",
     "studyMode": "Estudo",
-    "contextMode": "Contexto"
+    "contextMode": "Contexto",
+    "exploreMode": "Explorar"
   },
   "chapter": {
     "prev": "Capítulo anterior",
     "next": "Próximo capítulo",
     "notFound": "Este capítulo ainda não foi traduzido.",
     "reading": "Leitura Contínua",
-    "study": "Estudo Verso a Verso"
+    "study": "Estudo Verso a Verso",
+    "chapterN": "Capítulo {n}"
   },
   "notes": {
     "title": "Notas",
+    "notesCount": "Notas ({count})",
     "critical": "Crítico",
     "lexical": "Lexical",
     "grammatical": "Gramatical",
@@ -39,10 +42,44 @@
     "baseText": "Texto Base",
     "methodology": "Metodologia",
     "showDetails": "Mostrar detalhes",
-    "hideDetails": "Ocultar detalhes"
+    "hideDetails": "Ocultar detalhes",
+    "yhwhLabel": "YHWH"
   },
   "book": {
     "genesis": "Gênesis"
+  },
+  "confidence": {
+    "verified": "Verificado",
+    "probable": "Provável",
+    "possible": "Possível",
+    "uncertain": "Incerto",
+    "speculative": "Especulativo"
+  },
+  "enrichment": {
+    "source": "Fonte: {source}",
+    "emptyContext": "Ainda não há material de estudo contextual disponível para este capítulo.",
+    "emptyExplore": "Ainda não há material contextual disponível para este capítulo.",
+    "contextDisclaimer": "Este material complementar oferece conteúdo contextual e comparativo para estudo. Ele não redefine, expande ou controla a tradução principal. Todas as entradas são classificadas por tipo e grau de certeza.",
+    "exploreDisclaimer": "O que segue é material de contexto — não faz parte da tradução em si. Para rótulos acadêmicos completos, fontes e classificações de confiança, mude para o modo Contexto.",
+    "exploreFooter": "Os pontos coloridos indicam o quão bem estabelecida é cada observação. Para rótulos detalhados, fontes acadêmicas e classificações completas de confiança — mude para o modo {contextMode}.",
+    "legendEstablished": "bem estabelecido",
+    "legendPossible": "possível",
+    "legendUncertain": "incerto",
+    "introHebrewText": "Ler este capítulo de forma transparente — sem a suavização que a maioria das traduções aplica — revela características do texto hebraico que normalmente ficam invisíveis.",
+    "introAneParallels": "O mundo que produziu este texto não estava vazio de outras histórias. Culturas vizinhas contavam seus próprios relatos de como tudo começou.",
+    "introHistorical": "O que realmente sabemos sobre o mundo que este texto descreve?",
+    "introLinguistic": "As próprias palavras hebraicas carregam camadas que a tradução inevitavelmente comprime.",
+    "introScientific": "A ciência moderna descreve o mundo natural de forma muito diferente deste texto antigo. Nenhum dos dois valida ou invalida o outro — eles respondem a perguntas diferentes.",
+    "introReception": "Este texto tem sido lido por milhares de anos. Diferentes comunidades ouviram coisas diferentes nele.",
+    "introCuriosities": "Algumas coisas no texto são simplesmente marcantes — não porque provam algo, mas porque fazem você parar e pensar.",
+    "hedgeStartProbable": "A maioria dos estudiosos concorda que ",
+    "hedgeStartPossible": "Uma leitura possível sugere que ",
+    "hedgeStartUncertain": "O significado aqui é genuinamente obscuro, mas ",
+    "hedgeStartSpeculative": "Alguns se perguntaram se ",
+    "hedgeMidProbable": "Isto é amplamente aceito. ",
+    "hedgeMidPossible": "Esta é uma leitura entre outras. ",
+    "hedgeMidUncertain": "Isto permanece genuinamente debatido. ",
+    "hedgeMidSpeculative": "Isto é especulativo. "
   },
   "landing": {
     "hook": "Toda tradução bíblica acrescenta palavras que não estão no hebraico. Esta mostra quais.",

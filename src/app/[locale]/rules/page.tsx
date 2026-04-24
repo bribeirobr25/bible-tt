@@ -22,13 +22,8 @@ export default async function RulesPage({
     <main className="min-h-screen px-6 py-16 md:py-24">
       <div className="max-w-2xl mx-auto">
 
-        {/* Back link */}
-        <Link href="/" className="text-text-muted text-sm hover:text-accent transition-colors">
-          &larr; {t("nav.home")}
-        </Link>
-
         {/* Header */}
-        <header className="mt-8 mb-16 text-center">
+        <header className="mb-16 text-center">
           <h1 className="font-[family-name:var(--font-reading)] text-3xl md:text-5xl font-light tracking-tight">
             {t("landing.rulesPageTitle")}
           </h1>
