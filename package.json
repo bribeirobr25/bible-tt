@@ -9,7 +9,9 @@
     "start": "next start",
     "lint": "biome check src/",
     "test": "vitest run",
-    "test:watch": "vitest"
+    "test:watch": "vitest",
+    "typecheck": "tsc --noEmit",
+    "content:lint": "bash scripts/content-lint.sh"
   },
   "dependencies": {
     "@swc/helpers": "^0.5.21",

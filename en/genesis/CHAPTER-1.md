@@ -7,7 +7,7 @@
 **Base Text:** Biblia Hebraica Stuttgartensia, 5th rev. ed. (Stuttgart: Deutsche Bibelgesellschaft, 1997)
 **Edition:** Transparent Edition
 **Language:** English
-**Methodology:** 29-Rule Governance System (Ruleset v2.5)
+**Methodology:** 29-Rule Governance System (Ruleset v3.0)
 **Divine Name Policy (Rule 25):** Option A — Consonantal (YHWH). Not triggered in Genesis 1; declared for Genesis 2+.
 **Status:** provisional — pending reviewer sign-off (Rule 28)
 **Reviewers:** Hebraist: unassigned | EN editor: unassigned | Cross-alignment: unassigned
@@ -40,6 +40,16 @@
 - 🔵 **GRAMMATICAL** - Hebrew structure, verb forms, syntax
 - 🟡 **THEOLOGICAL** - Interpretive options, ambiguity preservation
 
+## CHAPTER OVERVIEW
+
+**What happens:** God creates the ordered world in six days and rests on the seventh. Creation proceeds through divine speech ("and God said"), separation (light/dark, waters above/below, sea/land), population (vegetation, luminaries, creatures, humans), and blessing (fertility, dominion, rest).
+
+**Key themes:** Order from chaos (*tohu vavohu*); creation by speech; the *raqia* as cosmic structure; reproduction "to its kind"; humanity in the image (*tselem*) of God; vegetarian diet assigned; the seventh-day rest.
+
+**Watch for:** The refrain "and God saw that good" (6×, then "very good"); the shift from "God" (*Elohim*) throughout — YHWH does not appear until Chapter 2; the plural "let us make" (1:26); dominion over creatures but not over waters as cosmic domain.
+
+**Connection:** This chapter establishes the ordered world that Chapter 2 will revisit from a different angle, and that Chapters 6–9 will de-create and re-create through the flood.
+
 ---
 
 ## CONTINUOUS READING
@@ -50,7 +60,7 @@
 
 ¹In beginning, God created the skies and the land. ²And the land was chaos and void, and darkness *was* over the face of the deep, and wind/spirit of God *was* hovering over the face of the waters. ³And God said, "Shall be light," and light was. ⁴And God saw the light, that good, and God separated between the light and between the darkness. ⁵And God called to the light "Day," and to the darkness he called "Night." And was evening, and was morning, one day.
 
-⁶And God said, "Shall be *a* raqia in the midst of the waters, and *it* shall be separating between waters to waters." ⁷And God made the raqia, and he separated between the waters which *were* under the raqia and between the waters which *were* above the raqia. And it was so. ⁸And God called to the raqia "Sky." And was evening, and was morning, second day.
+⁶And God said, "Shall be *a* raqia (expanse) in the midst of the waters, and *it* shall be separating between waters to waters." ⁷And God made the raqia, and he separated between the waters which *were* under the raqia and between the waters which *were* above the raqia. And it was so. ⁸And God called to the raqia "Sky." And was evening, and was morning, second day.
 
 ⁹And God said, "Shall be gathered the waters from under the sky to one place, and shall be seen the dry ground." And it was so. ¹⁰And God called to the dry ground "Land," and to the gathering of the waters he called "Seas." And God saw that good. ¹¹And God said, "Shall grass the land grass, herbs seeding seed, fruit trees making fruit to its kind, which its seed *is* in it, upon the land." And it was so. ¹²And the land brought out grass, herbs seeding seed to its kind, and trees making fruit which its seed *is* in it, to its kind. And God saw that good. ¹³And was evening, and was morning, third day.
 
@@ -142,7 +152,7 @@ And God called to the light "Day," and to the darkness he called "Night." And wa
 
 ### **Verse 6**
 
-And God said, "Shall be *a* raqia in the midst of the waters, and *it* shall be separating between waters to waters."
+And God said, "Shall be *a* raqia (expanse) in the midst of the waters, and *it* shall be separating between waters to waters."
 
 > **📝 NOTES**
 > 

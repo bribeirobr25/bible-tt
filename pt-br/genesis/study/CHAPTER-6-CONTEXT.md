@@ -10,8 +10,8 @@
 **Capítulo:** Genesis 6
 **Idioma:** Português Brasileiro
 **Acompanha:** `pt-br/genesis/CHAPTER-6.md` (Edição Transparente)
-**Regras:** v2.5 (Regra 29 governa este arquivo)
-**Status:** rascunho
+**Regras:** v3.0 (Regra 29 governa este arquivo)
+**Status:** provisório
 
 ---
 
@@ -88,14 +88,14 @@ vv.1-8: **YHWH** (narrador descreve resposta emocional divina — arrependimento
 ## B. Paralelos do Antigo Oriente Próximo
 
 ### B1. "Filhos de Deus" e o conselho divino
-**[COMPARATIVE PARALLEL — VERIFICADO]**
+**[PARALELO COMPARATIVO — VERIFICADO]**
 
 *Bene elohim* tem paralelos exatos em ugarítico (*b'n il*, "filhos de El") e textos fenícios, referindo-se a membros do conselho divino. Salmo 82 retrata Deus presidindo uma assembleia de *elohim*: "Eu disse, 'Vós sois deuses, filhos do Altíssimo'" (Sl 82:6). O quadro do conselho divino é bem atestado no AOP.
 
 **Fonte:** Smith, M.S., *The Origins of Biblical Monotheism*, Oxford, 2001; Heiser, M., *The Unseen Realm*, Lexham, 2015.
 
 ### B2. Nephilim e a tradição dos Vigilantes
-**[COMPARATIVE PARALLEL — VERIFICADO]**
+**[PARALELO COMPARATIVO — VERIFICADO]**
 
 A tradição dos nephilim é extensivamente desenvolvida na literatura do Segundo Templo:
 - **1 Enoque 6-16 (Livro dos Vigilantes, séc. III AEC):** 200 anjos (Vigilantes) descem no Monte Hermon, tomam esposas humanas, produzem descendência gigante
@@ -105,7 +105,7 @@ A tradição dos nephilim é extensivamente desenvolvida na literatura do Segund
 **Fonte:** Charles, R.H., *Book of Enoch*, 1912; Milik, J.T., publicações dos Manuscritos do Mar Morto, 1971.
 
 ### B3. Narrativas mesopotâmicas do dilúvio — os paralelos mais próximos do AOP
-**[COMPARATIVE PARALLEL — VERIFICADO]**
+**[PARALELO COMPARATIVO — VERIFICADO]**
 
 Três tradições em camadas:
 1. **Ziusudra** (Sumério, c. 2100-2000 AEC): relato de dilúvio escrito mais antigo, fragmentário
@@ -117,7 +117,7 @@ Genesis compartilha: decisão divina de destruir, um homem avisado, embarcação
 **Fonte:** Finkel, I., *The Ark Before Noah*, 2014; Pritchard, J.B., *ANET*, 3ª ed., 1969.
 
 ### B4. Dimensões da arca nas tradições
-**[COMPARATIVE PARALLEL — VERIFICADO]**
+**[PARALELO COMPARATIVO — VERIFICADO]**
 
 | Característica | Tebah de Noach (Genesis) | Barco de Utnapishtim (Gilgamesh) | Tábua da Arca de Atrahasis |
 |----------------|--------------------------|----------------------------------|----------------------------|
@@ -135,7 +135,7 @@ As áreas de convés quase idênticas (~4% de diferença) entre todas as três t
 ## C. Contexto Histórico e Arqueológico
 
 ### C1. Evidências arqueológicas de dilúvio
-**[HISTORICAL / ARCHAEOLOGICAL — PROVÁVEL para dilúvios locais]**
+**[HISTÓRICO / ARQUEOLÓGICO — PROVÁVEL para dilúvios locais]**
 
 - **Woolley em Ur (1929):** Camada de dilúvio limpa abaixo de habitação, c. 3500 AEC — muito antiga e localizada para ser "o" dilúvio
 - **Schmidt em Shuruppak (1931):** Camada de dilúvio acima de restos de Jemdet Nasr, c. 2900 AEC — significativo porque Shuruppak é a cidade natal de Ziusudra na tradição suméria
@@ -148,7 +148,7 @@ Múltiplos estudiosos concluem que as tradições de dilúvio provavelmente se o
 **Fonte:** NCSE, "The Flood: Mesopotamian Archaeological Evidence"; Ryan & Pitman, *Noah's Flood*, 1999.
 
 ### C2. Aliança (*berit*) nas tradições de tratados do AOP
-**[HISTORICAL / ARCHAEOLOGICAL — VERIFICADO]**
+**[HISTÓRICO / ARQUEOLÓGICO — VERIFICADO]**
 
 Mendenhall (1954) demonstrou que as alianças bíblicas são paralelas aos tratados de suserania hititas (2º milênio AEC): preâmbulo, prólogo histórico, estipulações, provisões de depósito, testemunhas, bênçãos/maldições. Gen 6:18 inicia o conceito de aliança; Gen 9:8-17 o desenvolve com o sinal do arco-íris.
 
@@ -172,6 +172,28 @@ Gen 6:11,13: **חָמָס** (*chamas*) = violência, iniquidade. Este é o pecad
 **[TEXTUAL — INCERTO]**
 
 **גֹּפֶר** (*gopher*) aparece apenas em Gen 6:14. Nenhuma identificação certa. Propostas: cipreste (baseado em semelhança fonética com o grego *kuparissos*), cedro, ou uma espécie extinta. A TT transliterea conforme a Regra 4 — qualquer tradução seria uma suposição.
+
+---
+
+## E. Correspondência e Não-Correspondência Científica
+
+### E1. "A terra estava cheia de violência" — perspectivas antropológicas
+**[COMPARAÇÃO CIENTÍFICA — POSSÍVEL]**
+
+Genesis 6:11–13 declara que a terra estava "cheia de violência (*chamas*)" e esta violência é a razão declarada para a destruição. Evidências arqueológicas e antropológicas de violência em civilizações primitivas são substanciais: restos esqueléticos de sociedades pré-estatais mostram taxas de morte violenta variando de 15 a 25% em algumas populações (Keeley, *War Before Civilization*, 1996; Pinker, *The Better Angels of Our Nature*, 2011, cap. 2). Muros de fortificação aparecem entre as mais antigas arquiteturas monumentais (Jericó, c. 8000 AEC). O texto apresenta a violência como uma corrupção que enche toda a ordem criada ("toda carne corrompeu o seu caminho"), não meramente como atos individuais. Se isto descreve uma realidade histórica, um princípio teológico sobre a trajetória da violência humana descontrolada, ou ambos, é avaliação do leitor. O registro antropológico confirma que violência generalizada não é uma invenção literária, mas uma característica documentada das sociedades humanas primitivas.
+
+**Fonte:** Keeley, L.H., *War Before Civilization*, Oxford, 1996; Pinker, S., *The Better Angels of Our Nature*, Viking, 2011.
+
+---
+
+## F. Recepção Posterior em Outras Tradições
+
+### F_. A tradição dos Vigilantes
+**[RECEPÇÃO POSTERIOR — DOCUMENTADO]**
+
+Genesis 6:1-4 é notoriamente enigmático. O Livro dos Vigilantes de *1 Enoque* (capítulos 1-36, ~séc. III a.C.) é a expansão antiga mais influente. Identifica os *bene ha-elohim* como 200 anjos caídos liderados por Shemyaza e Azazel, que descem ao Monte Hermon, tomam esposas humanas, geram os *nephilim* como gigantes e ensinam aos humanos conhecimentos proibidos. Esta leitura dominou a interpretação judaica nos séculos anteriores a Jesus e se reflete no Novo Testamento: Judas 6 ("anjos que não mantiveram sua própria posição"), 2 Pedro 2:4 ("Deus não poupou os anjos quando pecaram"), e Judas 14-15 citando *1 Enoque* 1:9 diretamente. A leitura foi aceita por escritores cristãos primitivos (Tertuliano, Clemente, Justino Mártir) mas foi em grande parte substituída no cristianismo ocidental pela interpretação "setita" de Agostinho (que lê "filhos de Deus" como a linhagem piedosa de Sete). Permaneceu autoritativa no cristianismo oriental, onde *1 Enoque* faz parte das escrituras aceitas da Igreja Ortodoxa Etíope. A TT traduz Genesis 6:1-4 como o hebraico está, preservando a ambiguidade conforme a Regra 2.
+
+**Fonte:** Nickelsburg, G.W.E. & VanderKam, J.C., *1 Enoch*, Fortress Press, 2004 (PEER-REVIEWED); Reed, A.Y., *Fallen Angels*, Cambridge, 2005 (PEER-REVIEWED); Wright, A.T., *The Origin of Evil Spirits*, Mohr Siebeck, 2005 (PEER-REVIEWED).
 
 ---
 

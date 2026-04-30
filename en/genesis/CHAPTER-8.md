@@ -7,7 +7,7 @@
 **Base Text:** Biblia Hebraica Stuttgartensia, 5th rev. ed. (Stuttgart: Deutsche Bibelgesellschaft, 1997)
 **Edition:** Transparent Edition
 **Language:** English
-**Methodology:** 29-Rule Governance System (Ruleset v2.5)
+**Methodology:** 29-Rule Governance System (Ruleset v3.0)
 **Divine Name Policy (Rule 25):** Option A — Consonantal (YHWH).
 **Status:** provisional — pending reviewer sign-off (Rule 28)
 **Reviewers:** Hebraist: unassigned | EN editor: unassigned | Cross-alignment: unassigned
@@ -39,6 +39,18 @@
 - 🟡 **THEOLOGICAL** - Interpretive options, ambiguity preservation
 
 **This chapter narrates the recession of the flood and the re-emergence of life.** The structure mirrors Genesis 1 — wind/spirit over the waters, dry ground appearing, life renewed. The chapter culminates in YHWH's internal resolution never again to curse the ground, using nearly identical language to the judgment of 6:5 but reaching the opposite conclusion.
+
+---
+
+## CHAPTER OVERVIEW
+
+**What happens:** God remembers Noach. The waters recede: fountains and windows are stopped, wind passes over the land. The *tebah* rests on Ararat. Noach sends a raven (goes back and forth), then a dove three times (returns, returns with olive leaf, does not return). Noach removes the covering, sees dry ground. God commands exit. Noach builds an altar and sacrifices. YHWH smells the resting aroma and resolves "never again" — using the same diagnosis (evil inclination) that prompted the flood.
+
+**Key themes:** "God remembered" (*vayyizkor*) as the narrative turning point; the flood's recession mirrors creation (wind over waters, dry land appearing); the raven and dove as scouts; the olive leaf as sign of recovery; the first altar (*mizbeach*); the *nichoach* wordplay (resting aroma / Noach's name); the paradox of 8:21 — evil inclination now prompts restraint, not destruction.
+
+**Watch for:** The recession reverses the flood in the same order the flood reversed creation — a three-layer narrative structure (creation → de-creation → re-creation); the specific dates resume (8:4, 5, 13, 14) — the flood spans exactly one year; "said in his heart" (8:21) — divine interiority, not public declaration; the never-again promise precedes the covenant ceremony of Chapter 9.
+
+**Connection:** The altar and sacrifice (8:20) anticipate the formal covenant in Chapter 9. The *nacham* root appears again implicitly — the one named "comfort" (5:29) has survived the event of divine "regret" (6:6).
 
 ---
 

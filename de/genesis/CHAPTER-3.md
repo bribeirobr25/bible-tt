@@ -7,10 +7,10 @@
 **Grundtext:** Biblia Hebraica Stuttgartensia, 5. rev. Aufl. (Stuttgart: Deutsche Bibelgesellschaft, 1997)
 **Ausgabe:** Transparente Ausgabe
 **Sprache:** Deutsch
-**Methodik:** 29-Regeln-Governance-System (Regelwerk v2.5)
+**Methodik:** 29-Regeln-Governance-System (Regelwerk v3.0)
 **Gottesname-Politik (Regel 25):** Option A — Konsonantisch (JHWH).
 **Luther-Bibel-Verhältnis:** Option B — Selektive Anerkennung. Übersetzung aus dem Hebräischen nach TT-Regeln; Konvergenzen und Divergenzen mit Luther in Begleitmaterialien dokumentiert. Entscheidung geloggt 2026-04-18.
-**Status:** vorläufig — ausstehende Begutachtung (Regel 28)
+**Status:** provisorisch — ausstehende Begutachtung (Regel 28)
 **Begutachter:** Hebraist: nicht zugewiesen | DE-Redakteur: nicht zugewiesen | Sprachübergreifender Abgleich: nicht zugewiesen
 
 ---
@@ -44,6 +44,16 @@
 **Regel 23 (Gattungssensibilität):** Narrative Prosa, kein liturgisches Muster. Das Kapitel enthält kein ererbtes deutsches theologisches Vokabular („der Sündenfall," „Erbsünde," „Protoevangelium," „Satan"), außer das Hebräische rechtfertigt es — und das Hebräische rechtfertigt es nicht.
 
 **Mensch- / Adam-Politik (stehende Notiz zu Regel 17):** Das hebräische אָדָם (*adam*) wird durchgehend in Genesis 3 weiterhin als *„der Mensch"* wiedergegeben, auch bei den drei artikellosen Vorkommen (3:17, 3:21 — kein Artikel im Hebräischen). Das Wortspiel *adam / adamah* bleibt im ganzen Kapitel aktiv (3:17 verfluchter Boden, 3:19 Rückkehr zum Staub, 3:23 den Boden bearbeiten). Der Übergang zum Eigennamen *Adam* wird formal in Genesis 4 aufgelöst.
+
+## KAPITELÜBERSICHT
+
+**Was geschieht:** Die Schlange, als *arum* (listig/klug) beschrieben, führt einen Dialog mit der Frau über den verbotenen Baum. Beide Menschen essen. Ihre Augen werden aufgetan — sie erkennen, dass sie nackt sind. JHWH Gott befragt sie, spricht Konsequenzen aus über die Schlange, die Frau und den Mann, fertigt Gewänder aus Fell und vertreibt sie aus dem Garten, wobei Cherubim den Weg zum Baum des Lebens bewachen.
+
+**Zentrale Themen:** Das Wortspiel *arum/arom* (listig/nackt) als Brücke zwischen Kapitel 2–3; die Rhetorik der Schlange; die Abwandlung des Gebots durch die Frau; Erkenntnis des Guten und Bösen — versprochen und eingetroffen, aber nicht wie erwartet; Scham, Furcht, Schuldzuweisung als Abfolge; Konsequenzen versus Flüche (nur die Schlange und der Boden werden verflucht, nicht die Menschen); der abgebrochene Satz bei 3:22 (Aposiopese).
+
+**Achten Sie auf:** Die Schlange verwendet nur „Elohim", nie „JHWH Elohim"; der Mann war „mit ihr" während des Dialogs (3:6); „sterbend wirst du sterben" (2:17) versus „nicht sterbend werdet ihr sterben" (3:4) — dieselbe grammatische Konstruktion, verneint; Gott bestätigt die Vorhersage der Schlange bei 3:22; „Staub *bist* du" (Präsens, nicht Futur) — Sterblichkeit als inhärent, nicht neu auferlegt.
+
+**Verbindung:** Die Vertreibung aus dem Garten führt direkt zu Qayin und Hevel (Kapitel 4). Der Fluch über den Boden (3:17) hallt wider in 5:29 (Noachs Benennung) und 8:21 (JHWHs Entschluss nach der Flut).
 
 ---
 

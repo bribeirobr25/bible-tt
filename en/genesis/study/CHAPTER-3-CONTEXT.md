@@ -10,8 +10,8 @@
 **Chapter:** Genesis 3
 **Language:** English
 **Companion to:** `en/genesis/CHAPTER-3.md` (Transparent Edition)
-**Ruleset:** v2.5 (Rule 29 governs this file)
-**Status:** draft
+**Ruleset:** v3.0 (Rule 29 governs this file)
+**Status:** provisional
 
 ---
 
@@ -20,27 +20,27 @@
 ### A1. The *arum/arom* wordplay — the hinge between chapters
 **[TEXTUAL — VERIFIED]**
 
-Genesis 2:25: *arom* (naked). Genesis 3:1: *arum* (crafty/shrewd). Same consonants, different vocalization. This is the deliberate sonic link between the two chapters — the TT flags it in both locations. The wordplay is untranslatable in EN/PT/DE; the note system makes it visible.
+Genesis 2:25: *arom* (naked). Genesis 3:1: *arum* (crafty/shrewd). Same consonants, different vowel pattern. This is the deliberate sound-link between the two chapters — the TT flags it in both locations. The wordplay is untranslatable in EN/PT-BR/DE/ES; the note system makes it visible.
 
 ### A2. The serpent uses "Elohim" — never "YHWH Elohim"
 **[TEXTUAL — VERIFIED]**
 
-The narrator consistently uses *YHWH Elohim* throughout Gen 2–3 (vv. 1, 8, 9, 13, 14, 21, 22, 23). But in dialogue, the serpent (vv. 1, 5) and the woman (v. 3) use only *Elohim*. The human in dialogue uses no divine name at all (vv. 10, 12). The TT preserves this distinction because it renders YHWH consonantally rather than collapsing to "the LORD God." The narrative significance is POSSIBLE but undetermined: the serpent/woman may speak outside the YHWH-covenant register.
+The narrator consistently uses *YHWH Elohim* throughout Gen 2–3 (vv. 1, 8, 9, 13, 14, 21, 22, 23). But in dialogue, the serpent (vv. 1, 5) and the woman (v. 3) use only *Elohim*. The human in dialogue uses no divine name at all (vv. 10, 12). The TT preserves this distinction because it renders YHWH consonantally rather than collapsing to "the LORD God." The narrative significance is POSSIBLE but undetermined: the serpent and woman may be speaking outside the YHWH-covenant vocabulary.
 
 ### A3. The woman adds "touch" — and softens the death clause
 **[TEXTUAL — VERIFIED]**
 
-Original command (2:16–17): prohibition is eating; consequence is "dying you shall die" (infinitive absolute). In 3:3, the woman adds "you shall not touch it" and changes the death clause to "lest you die" (*pen temutun* — a consequence clause weaker than the original emphatic). The TT preserves the structural difference between 2:17 and 3:3 so readers can see the shift.
+Original command (2:16–17): prohibition is eating; consequence is "dying you shall die" (using a doubled-verb form for maximum emphasis). In 3:3, the woman adds "you shall not touch it" and changes the death clause to "lest you die" (*pen temutun* — a softer warning than the original emphatic form). The TT preserves the structural difference between 2:17 and 3:3 so readers can see the shift.
 
 ### A4. Negated infinitive absolute — the serpent's maximum-force contradiction
 **[TEXTUAL — VERIFIED]**
 
-Genesis 3:4: *lo mot temutun* — "not dying you shall die." This directly negates 2:17's *mot tamut* ("dying you shall die") at maximum grammatical force, using the same emphatic construction. The TT preserves both structures so the inversion is visible. Traditional smooth renderings ("you shall not surely die") blur the grammatical parallel.
+Genesis 3:4: *lo mot temutun* — "not dying you shall die." This directly negates 2:17's *mot tamut* ("dying you shall die") at maximum force, using the same doubled-verb emphatic form. The TT preserves both structures so the inversion is visible. Traditional smooth renderings ("you shall not surely die") blur the grammatical parallel.
 
 ### A5. "Like God/gods" — genuinely ambiguous
 **[TEXTUAL — VERIFIED]**
 
-Genesis 3:5 and 3:22 both use *ke-elohim*. Since *Elohim* is grammatically plural but used for the singular God throughout Genesis, the ambiguity is genuinely active here: "like God" (one) or "like gods/divine beings" (plural). The TT preserves both via slash in all three languages.
+Genesis 3:5 and 3:22 both use *ke-elohim*. Since *Elohim* is grammatically plural but used for the singular God throughout Genesis, the ambiguity is genuinely active here: "like God" (one) or "like gods/divine beings" (plural). The TT preserves both via slash in all four target languages.
 
 ### A6. *qol* — voice or sound?
 **[TEXTUAL — VERIFIED]**
@@ -60,12 +60,12 @@ Genesis 3:5 (serpent): "you shall be like God/gods, knowing good and evil." Gene
 ### A9. The broken sentence — aposiopesis at 3:22
 **[TEXTUAL — VERIFIED]**
 
-Genesis 3:22: "and now, lest he stretch out his hand and take also from the tree of the life, and eat, and live forever…" The sentence breaks off unfinished. The TT preserves this with an ellipsis. The label "aposiopesis" (deliberate speaker trailing-off) is more precise than "anacoluthon" (syntactic irregularity).
+Genesis 3:22: "and now, lest he stretch out his hand and take also from the tree of the life, and eat, and live forever…" The sentence breaks off unfinished. The TT preserves this with an ellipsis. This is a deliberate trailing-off — technically called "aposiopesis" — which is more precise here than "anacoluthon" (a sentence that shifts its grammar mid-way).
 
 ### A10. "Her seed" — grammatically unusual
 **[TEXTUAL — VERIFIED]**
 
-Genesis 3:15: *zar'ah* — "her seed." Attribution of *zera* (seed/offspring) to a female line is rare in the Hebrew Bible. The observation is philological. The TT notes flag this as unusual without extending to later Christian readings (virgin-birth foreshadowing) that are post-biblical.
+Genesis 3:15: *zar'ah* — "her seed." Attribution of *zera* (seed/offspring) to a female line is rare in the Hebrew Bible. The observation is about the language itself. The TT notes flag this as unusual without extending to later Christian readings (virgin-birth foreshadowing) that are post-biblical.
 
 ### A11. Eyes opened — serpent's prediction fulfilled but content differs
 **[TEXTUAL — VERIFIED]**
@@ -170,8 +170,8 @@ Stylized "sacred trees" appear throughout Mesopotamian art, often flanked by gua
 ### C1. Cherubim as guardian figures
 **[HISTORICAL / ARCHAEOLOGICAL — VERIFIED]**
 
-*Keruvim* (cherubim) are composite guardian figures — not the winged children of later Christian art. Archaeologically, they correspond to ANE guardian creatures:
-- Assyrian *lamassu*: human-headed winged bulls/lions flanking palace entrances
+*Keruvim* (cherubim) are hybrid guardian figures — not the winged children of later Christian art. Archaeologically, they correspond to ANE guardian creatures:
+- Assyrian *lamassu* (human-headed winged bulls or lions placed at palace entrances)
 - Egyptian sphinxes: lion-bodied guardians
 - Ivory cherubim from Samaria and Megiddo (Iron Age Israel)
 
@@ -191,12 +191,12 @@ Genesis 3:7 (fig-leaf coverings by humans) → 3:21 (skin garments by YHWH Elohi
 ### D1. *nachash* (נָחָשׁ) — serpent and divination
 **[TEXTUAL — VERIFIED]**
 
-The consonantal root נ-ח-שׁ (*n-ch-sh*) connects to both "serpent" (*nachash*, noun) and "divination/enchantment" (*nichesh*, verb — cf. Gen 44:5, Num 23:23). Whether the text intends a resonance between the serpent-creature and the practice of divination is POSSIBLE but unconfirmed. The TT translates "serpent" (direct meaning) and does not transliterate *nachash* (it doesn't cross the Rule 4 threshold).
+The consonant root נ-ח-שׁ (*n-ch-sh*) connects to both "serpent" (*nachash*, as a noun) and "divination/fortune-telling" (*nichesh*, as a verb — cf. Gen 44:5, Num 23:23). Whether the text intends a resonance between the serpent-creature and the practice of divination is POSSIBLE but unconfirmed. The TT translates "serpent" (direct meaning) and does not transliterate *nachash* (it doesn't cross the Rule 4 threshold).
 
 ### D2. *shuf* (שׁוּף) — a genuinely rare verb
 **[TEXTUAL — UNCERTAIN]**
 
-Appears only 3 times in the Hebrew Bible (Gen 3:15, Job 9:17, Ps 139:11). Meaning ranges from "bruise" to "crush" to "strike" to "snap at." The TT uses "bruise/strike" with a slash in all three languages. Crucially, the SAME verb form is used for both actions (head and heel) — traditional translations that differentiate ("crush the head / bruise the heel") are importing interpretation.
+Appears only 3 times in the Hebrew Bible (Gen 3:15, Job 9:17, Ps 139:11). Meaning ranges from "bruise" to "crush" to "strike" to "snap at." The TT uses "bruise/strike" with a slash in all four target languages. Crucially, the SAME verb form is used for both actions (head and heel) — traditional translations that differentiate ("crush the head / bruise the heel") are importing interpretation.
 
 ### D3. *teshuqah* (תְּשׁוּקָה) — three occurrences, three contexts
 **[TEXTUAL — UNCERTAIN]**
@@ -218,14 +218,19 @@ The same root (ע-צ-ב) appears in both 3:16 (woman's toil/pain in childbearing
 ## E. Scientific Correspondence and Non-Correspondence
 
 ### E1. Mortality — process or event?
-**[SCIENTIFIC COMPARISON — for awareness]**
+**[SCIENTIFIC COMPARISON — POSSIBLE]**
 
 Genesis 2:17 warns "dying you shall die." Genesis 3:19 states "dust you are and to dust you shall return." Modern biology understands death as a process inherent to cellular life (telomere shortening, entropy). The text presents mortality as a *condition* stated after the eating, not necessarily as an instantaneous event. Whether this means "mortality activated" or "spiritual death" or "process begun" is a theological question the Hebrew does not resolve (the TT note at 2:17 lists four POSSIBLE interpretations).
 
 ### E2. Pain in childbirth — biological or narrative?
-**[SCIENTIFIC COMPARISON — for awareness]**
+**[SCIENTIFIC COMPARISON — POSSIBLE]**
 
 Genesis 3:16: "in toil you shall bear sons." Human childbirth is objectively more difficult than most mammals' (due to bipedal pelvic structure vs. neonatal head size). Whether the text "explains" this biological reality or uses it narratively is the reader's question, not the text's answer.
+
+### E3. Self-awareness and metacognition — the "eyes were opened" transition
+**[SCIENTIFIC COMPARISON — POSSIBLE]**
+
+Genesis 3:7 states "the eyes of both of them were opened and they knew that they were naked." The text presents a transition from a state without self-conscious awareness to one with it. Cognitive science distinguishes between basic consciousness (awareness of your surroundings) and self-reflective consciousness (awareness of your own internal states — sometimes called metacognition). The "mirror test" in developmental psychology (Gallup, 1970) identifies the moment when a being recognizes itself in a mirror as a measurable cognitive threshold. The Genesis text does not describe a biological process but tells of a transition that parallels what cognitive science studies as the emergence of self-reflective awareness. Whether this is metaphor, origin-story, or something else is the reader's question.
 
 ---
 
@@ -248,9 +253,16 @@ This is one of the sharpest Jewish-Christian divergences on the same text.
 
 - **Paul** (Romans 5:12–21): "through one man sin entered the world" — Genesis 3 read as the origin of universal human sinfulness
 - **Augustine** (4th–5th c.): develops the doctrine of *original sin* — all humanity inherits Adam's guilt through biological descent
-- **Irenaeus** (2nd c.): reads Gen 3:15 as *protoevangelium* (first gospel) — "he shall bruise your head" interpreted as Christ defeating Satan
+- **Irenaeus** (2nd-century bishop and theologian): reads Gen 3:15 as the *protoevangelium* (Latin for "first gospel") — "he shall bruise your head" interpreted as Christ defeating Satan
 
 These readings are **LATER RECEPTION** — they are theologically significant but post-biblical. The Hebrew text of Genesis 3 does not contain the words "fall," "sin" (the noun first appears at Gen 4:7), "Satan," or "original sin." The TT front matter explicitly excludes this vocabulary from the translation.
+
+### F_. The "bright nature" tradition
+**[LATER RECEPTION — DOCUMENTED]**
+
+Several ancient texts written under pen-names (pseudepigrapha) expand Genesis 3 with a tradition that Adam and Eve were originally clothed in a luminous "bright nature" or "garments of light," lost at the transgression. *The First Book of Adam and Eve* (Ethiopian Christian, ~5th-7th c. CE) describes them as having "bright nature" in the garden, reduced after the transgression to "the ability of the flesh." The tradition is also reflected in *Genesis Rabbah* (3rd-5th c. CE), which suggests Adam's pre-fall radiance, and influenced Jewish mysticism (the "garments of light" motif) and Christian theology of glory and transfiguration (cf. 2 Corinthians 3:18). The TT references this tradition because Genesis 3 itself does not describe Adam and Eve's pre-fall state in physical terms — the tradition fills a narrative gap the canonical text leaves open.
+
+**Source:** Anderson, G., *The Genesis of Perfection*, Westminster John Knox, 2002 (PEER-REVIEWED); Charlesworth, J.H. (ed.), *OTP* vol. 2, Doubleday, 1985 (PEER-REVIEWED).
 
 ### F3. Islamic reception — Adam repents, no original sin
 **[LATER RECEPTION — DOCUMENTED]**
@@ -300,6 +312,21 @@ Genesis 3:7–13 presents a psychological sequence the text names but does not e
 
 The text presents this as a sequence of **consequences of knowledge** — not a theological system, but a narrative observation of how awareness of exposure produces shame, which produces hiding, which produces fear, which produces deflection. The TT preserves the sequence without interpreting it.
 
+### G7. The serpent's argument structure — a study in persuasion
+**[STRONG INFERENCE — PROBABLE]**
+
+The serpent's speech in 3:1–5 follows a four-step rhetorical structure: (1) question that overstates the restriction ("Did God really say you shall not eat from *any* tree?"), (2) the woman's correction (which itself slightly distorts the original command), (3) direct denial of the consequence ("you will not dying die"), (4) alternative explanation imputing motive to God ("God knows that... your eyes will be opened"). In the study of persuasion, this maps onto a recognizable pattern: reframe, draw out a correction, contradict the authority, then offer an alternative explanation. The text does not label this as "deception" — the narrator calls the serpent *arum* (crafty/shrewd), and Gen 3:22 confirms the serpent's factual prediction was partially accurate ("the human has become like one of us, knowing good and evil"). The text presents the argument without editorial verdict, leaving the reader to assess where truth, distortion, and manipulation intersect.
+
+### G8. Fig leaves to animal skins — material culture progression
+**[POSSIBLE INFERENCE — POSSIBLE]**
+
+Genesis 3:7: the humans make coverings from fig leaves (*te'enah*). Genesis 3:21: YHWH God makes garments of skin (*or*). The text compresses what anthropology tracks as the development from plant-based to animal-based materials — a transition that in the archaeological record spans millennia. The shift also involves an implied death: animal skins require an animal to die. This is the first implied death in the narrative, occurring before any explicit human death (which comes at Gen 4:8). The text does not comment on this implication — it simply records that God made skin garments. Whether the reader sees here the origin of animal sacrifice, the first shedding of blood, or simply practical provision depends on what the reader brings to the text. The text narrates; it does not theologize the clothing.
+
+### G9. Death introduced to humans — but what about the rest of creation?
+**[TEXTUAL — VERIFIED]**
+
+Genesis 2:17: "in the day of your eating from it, dying you shall die" — addressed to the human (*adam*). Genesis 3:19: "dust you are, and to dust you shall return" — also to the human. The mortality language in Genesis 2-3 is directed exclusively at humans. Animals, plants, and the rest of creation are never told they will die, nor is their pre-fall state described as deathless. The text is silent on whether animal and plant death existed before the human transgression. Later tradition (especially Romans 5:12: "through one human, sin entered the world, and through sin, death") applies this to humanity — Paul says "death spread to all *humans*" (eis pantas anthropous), not to all creatures. Romans 8:20-22 speaks of creation "subjected to futility" and "groaning," which some traditions read as cosmic death entering through the fall — but Genesis itself does not make this claim. The TT observes: the death language in Genesis 2-3 is anthropocentric. Whether this means death was absent from the non-human world before the fall is a question the text does not address.
+
 ---
 
 ## H. Sources Consulted
@@ -311,10 +338,6 @@ The text presents this as a sequence of **consequences of knowledge** — not a 
 | Parpola, S., "Assyrian Tree of Life," *JNES* 52, 1993 | Article (ANE art) | B3 |
 | Mettinger, T.N.D., "Cherubim," *DDD*, 1999 | Reference (ANE) | C1 |
 | BHS, 5th rev. ed. (Deutsche Bibelgesellschaft, 1997) | Primary text | All |
-| Charlesworth, J.H., *The Good and Evil Serpent*, 2010 | Secondary (serpent iconography) | B1 |
-| Moran, W.L., "Creation of Man in Atrahasis," *BASOR* 200, 1970 | Article (ANE) | B2 |
-| Parpola, S., "Assyrian Tree of Life," *JNES* 52, 1993 | Article (ANE art) | B3 |
-| Mettinger, T.N.D., "Cherubim," *DDD*, 1999 | Reference (ANE) | C1 |
 | Levenson, J.D., *Death and Resurrection of the Beloved Son*, 1993 | Secondary (Jewish) | F1 |
 | Tottoli, R., *Biblical Prophets in the Qur'an*, 2002 | Secondary (Islamic) | F3 |
 | Westermann, C., *Genesis 1–11* (Continental Commentary), 1984 | Commentary | A, D |
@@ -323,8 +346,8 @@ The text presents this as a sequence of **consequences of knowledge** — not a 
 | Milgrom, J., "The Concept of Ma'al in the Bible," *JAOS* 96, 1976 | Article | A7, A13 |
 | Trible, P., *God and the Rhetoric of Sexuality*, 1978 | Secondary (literary) | A12, D4 |
 | *Bereshit Rabbah* (5th c. CE) | Primary (Rabbinic) | F1 |
-| Augustine, *De Civitate Dei* (5th c.) | Primary (Patristic) | F2 |
-| Irenaeus, *Against Heresies* (2nd c.) | Primary (Patristic) | F2 |
+| Augustine, *De Civitate Dei* (5th c.) | Primary (early Church Father) | F2 |
+| Irenaeus, *Against Heresies* (2nd c.) | Primary (early Church Father) | F2 |
 
 ---
 

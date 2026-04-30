@@ -10,8 +10,8 @@
 **Chapter:** Genesis 2
 **Language:** English
 **Companion to:** `en/genesis/CHAPTER-2.md` (Transparent Edition)
-**Ruleset:** v2.5 (Rule 29 governs this file)
-**Status:** draft
+**Ruleset:** v3.0 (Rule 29 governs this file)
+**Status:** provisional
 
 ---
 
@@ -20,22 +20,22 @@
 ### A0. Textual variant at 2:2 — "seventh day" vs. "sixth day"
 **[TEXTUAL / HISTORICAL — VERIFIED]**
 
-The Masoretic Text reads "God finished on the **seventh** day his work" — appearing to say God worked on day 7. The Septuagint (LXX) and Samaritan Pentateuch read "sixth day" — likely harmonizing to avoid the theological awkwardness. The TT follows MT per Rule 22 (translate base text; note variants, don't silently adopt them) and flags the variant in the note. This is one of the clearest textual-critical issues in early Genesis: the same Hebrew word (*kalah* = "finished/completed") can describe an ongoing state ("had brought to completion") rather than a final stroke of work.
+The Masoretic Text reads "God finished on the **seventh** day his work" — appearing to say God worked on day 7. The Septuagint (the ancient Greek translation, often abbreviated LXX) and the Samaritan Pentateuch read "sixth day" — likely harmonizing to avoid the theological awkwardness. The TT follows MT per Rule 22 (translate base text; note variants, don't silently adopt them) and flags the variant in the note. This is one of the clearest textual-critical issues in early Genesis: the same Hebrew word (*kalah*, meaning "finished/completed") can describe an ongoing state ("had brought to completion") rather than a final stroke of work.
 
 ### A0b. Foreshadowing wordplay — naked (2:25) → crafty (3:1)
 **[TEXTUAL — VERIFIED]**
 
-Genesis 2:25: *arom* (עֲרוֹם, naked). Genesis 3:1 opens with: *arum* (עָרוּם, crafty/shrewd). Same consonants, different vocalization. The chapter boundary falls between these two words, creating a deliberate sonic hinge. The TT flags this wordplay in both chapter files (2:25 note + 3:1 note) as untranslatable in all three target languages. This is the text's own narrative device for linking innocence (nakedness) to temptation (craftiness).
+Genesis 2:25: *arom* (עֲרוֹם, naked). Genesis 3:1 opens with: *arum* (עָרוּם, crafty/shrewd). Same consonants, different vowel pattern. The chapter boundary falls between these two words, creating a deliberate sound-link. The TT flags this wordplay in both chapter files (2:25 note + 3:1 note) as untranslatable in all four target languages. This is the text's own narrative device for linking innocence (nakedness) to temptation (craftiness).
 
 ### A1. First YHWH — the Tetragrammaton enters at 2:4
 **[TEXTUAL — VERIFIED]**
 
-Genesis 1:1–2:3 uses only *Elohim* (God). Genesis 2:4 introduces **YHWH Elohim** for the first time — a compound that dominates Genesis 2–3. The TT renders this consonantally (YHWH, not "the LORD") per Rule 25 Option A, making the divine-name shift visible. Most translations substitute "the LORD God," which conceals the Tetragrammaton behind a title.
+Genesis 1:1–2:3 uses only *Elohim* (God). Genesis 2:4 introduces **YHWH Elohim** for the first time — a compound that dominates Genesis 2–3. The TT renders this as the consonants YHWH (not "the LORD") per Rule 25 Option A, making the divine-name shift visible. Most translations substitute "the LORD God," which hides the four-letter divine name (the Tetragrammaton) behind a title.
 
 ### A2. Four creation verbs — not one
 **[TEXTUAL — VERIFIED]**
 
-Genesis 1 uses two creation verbs: *bara* (created, 3×) and *asah* (made, 7×). Genesis 2 introduces two more: *yatzar* (formed, 2:7 human, 2:19 animals — the potter's verb) and *banah* (built, 2:22 woman — the construction verb). The TT preserves these distinctions in all three languages. Most translations collapse them into "made" or "formed" interchangeably.
+Genesis 1 uses two creation verbs: *bara* (created, 3×) and *asah* (made, 7×). Genesis 2 introduces two more: *yatzar* (formed, 2:7 human, 2:19 animals — the potter's verb) and *banah* (built, 2:22 woman — the construction verb). The TT preserves these distinctions in all four target languages. Most translations collapse them into "made" or "formed" interchangeably.
 
 ### A3. Order reversal: "land and skies" (not "skies and land")
 **[TEXTUAL — VERIFIED]**
@@ -45,44 +45,44 @@ Genesis 1:1: "the skies and the land" (cosmic, top-down). Genesis 2:4b: "land an
 ### A4. *adam* from *adamah* — the human from the ground
 **[TEXTUAL — VERIFIED]**
 
-Genesis 2:7: YHWH Elohim formed the *adam* (human), dust from the *adamah* (ground). The sonic link (*adam/adamah*) is the text's own wordplay — the TT notes flag it as untranslatable in all three languages. The link is active through Genesis 3:19 ("to dust you shall return") and 3:23 ("to work the ground from which he was taken").
+Genesis 2:7: YHWH Elohim formed the *adam* (human), dust from the *adamah* (ground). The sound-link (*adam/adamah*) is the text's own wordplay — the TT notes flag it as untranslatable in all four target languages. The link is active through Genesis 3:19 ("to dust you shall return") and 3:23 ("to work the ground from which he was taken").
 
 ### A5. *nefesh chayah* — humans share the category with animals
 **[TEXTUAL — VERIFIED]**
 
-Genesis 2:7: the human becomes a *nefesh chayah* (living being). The same phrase was applied to animals in Gen 1:20, 21, 24, 30. The TT note at 2:7 makes this explicit: humans and animals share the same category. This is a textual feature, not a theological claim about souls.
+Genesis 2:7: the human becomes a *nefesh chayah* (living being). The same phrase was applied to animals in Gen 1:20, 21, 24, 30. The TT note at 2:7 makes this explicit: humans and animals share the same category. This is a feature of the text itself, not a theological claim about souls.
 
 ### A5b. Human = soil + breath — two components, no third
 **[TEXTUAL — VERIFIED]**
 
 Genesis 2:7: YHWH Elohim formed the human "dust from the ground" and "breathed into his nostrils breath of life, and the human became a living being (*nefesh chayah*)." The text names exactly **two components**: earth-material (dust/ground) and divine-breath (*nishmat chayyim*). The result — *nefesh chayah* (living being) — is what happens when these two combine. It is NOT a third ingredient added separately.
 
-The text does not mention: soul as a separate substance, spirit as an independent entity, consciousness as a third component, or any tripartite structure (body-soul-spirit). Later traditions — Greek philosophy (Plato's tripartite soul), Rabbinic anthropology (*nefesh/ruach/neshamah* as distinct levels), Christian theology (body-soul-spirit per 1 Thess 5:23) — develop these frameworks. The Hebrew text of Gen 2:7 states: dust + breath = living being. Anything beyond that is later interpretation.
+The text does not mention: soul as a separate substance, spirit as an independent entity, consciousness as a third component, or any tripartite structure (body-soul-spirit). Later traditions — Greek philosophy (Plato's three-part soul), Rabbinic thought (*nefesh/ruach/neshamah* as distinct levels), Christian theology (body-soul-spirit per 1 Thess 5:23) — develop these frameworks. The Hebrew text of Gen 2:7 states: dust + breath = living being. Anything beyond that is later interpretation.
 
 ### A6. *ezer kenegdo* — "helper" is overwhelmingly divine in the Hebrew Bible
 **[TEXTUAL / STRONG INFERENCE — VERIFIED]**
 
-The word *ezer* (helper) appears ~21 times in the Hebrew Bible. ~16 of those refer to God as Israel's helper in military/rescue contexts (Deut 33:7, 33:26, 33:29; Ps 20:2, 33:20, 115:9–11, 121:1–2, 124:8, 146:5; Hos 13:9). Only 2 refer to the woman (Gen 2:18, 2:20). The statistical profile is predominantly superior-help, not subordinate-help. The TT preserves "helper as his counterpart" with a note making this explicit.
+The word *ezer* (helper) appears ~21 times in the Hebrew Bible. ~16 of those refer to God as Israel's helper in military/rescue contexts (Deut 33:7, 33:26, 33:29; Ps 20:2, 33:20, 115:9–11, 121:1–2, 124:8, 146:5; Hos 13:9). Only 2 refer to the woman (Gen 2:18, 2:20). The pattern overwhelmingly points to help from a stronger party, not from a subordinate. The TT preserves "helper as his counterpart" with a note making this explicit.
 
 ### A7. *tsela* — "side" not "rib" in most biblical usage
 **[TEXTUAL — VERIFIED]**
 
-The word *tsela* appears ~41 times in the Hebrew Bible. ~35 refer to architectural side (Tabernacle walls, Ark panels, Temple chambers). Only ~2 refer to human anatomy (Gen 2:21–22). "Rib" is the traditional but statistically marginal rendering. The TT preserves "side/rib" with a slash per Rule 2.
+The word *tsela* appears ~41 times in the Hebrew Bible. ~35 refer to architectural side (Tabernacle walls, Ark panels, Temple chambers). Only ~2 refer to human anatomy (Gen 2:21–22). "Rib" is the traditional rendering but represents only a small fraction of the word's biblical usage. The TT preserves "side/rib" with a slash per Rule 2.
 
 ### A8. First human speech — and it's poetry
 **[TEXTUAL — VERIFIED]**
 
-Genesis 2:23 is the first recorded human speech in the Bible, and it is a structured poetic utterance: three parallel lines anchored by *bone/flesh* and culminating in the *ish/ishah* wordplay. The TT transliterates *ish/ishah* to preserve the sound-pair.
+Genesis 2:23 is the first recorded human speech in the Bible, and it is a structured poetic statement: three parallel lines built on *bone/flesh* and ending with the *ish/ishah* (man/woman) wordplay. The TT transliterates *ish/ishah* to preserve the sound-pair.
 
 ### A9. Two trees as dual narrative focus
 **[TEXTUAL — VERIFIED]**
 
-Genesis 2:9: both the tree of life (*etz ha-chayyim*) and the tree of the knowledge of good and evil (*etz hada'at tov va-ra*) are placed "in the midst of the garden." This dual placement structures the entire narrative tension of Genesis 2–3: one tree offers life, the other offers knowledge — and only one is forbidden. The spatial co-location (both "in the midst") makes them parallel options, not distant alternatives.
+Genesis 2:9: both the tree of life (*etz ha-chayyim*) and the tree of the knowledge of good and evil (*etz hada'at tov va-ra*) are placed "in the midst of the garden." This dual placement structures the entire narrative tension of Genesis 2–3: one tree offers life, the other offers knowledge — and only one is forbidden. Placing both "in the midst" makes them side-by-side options, not distant alternatives.
 
 ### A10. Work and keep — stewardship as dual vocation
 **[TEXTUAL — VERIFIED]**
 
-Genesis 2:15: *la'avdah ulshomrah* — "to work it and to keep it." Two paired infinitives with distinct functions: *avod* (ע-ב-ד) = serve, cultivate, work (active transformation); *shamar* (שׁ-מ-ר) = keep, guard, observe (protective maintenance). Together they define human vocation as **stewardship** — both developing and preserving the garden. This is a dual mandate (use AND protect), not a single command.
+Genesis 2:15: *la'avdah ulshomrah* — "to work it and to keep it." Two paired verb forms with distinct functions: *avod* (ע-ב-ד) = serve, cultivate, work (active transformation); *shamar* (שׁ-מ-ר) = keep, guard, observe (protective maintenance). Together they define human vocation as **stewardship** — both developing and preserving the garden. This is a dual mandate (use AND protect), not a single command.
 
 ---
 
@@ -91,7 +91,7 @@ Genesis 2:15: *la'avdah ulshomrah* — "to work it and to keep it." Two paired i
 ### B0. Garden as bounded cultivated space
 **[COMPARATIVE PARALLEL — PROBABLE]**
 
-Hebrew *gan* (garden) implies an **enclosed, bounded, cultivated space** — distinct from wilderness (*midbar*) or open land (*sadeh*, field). In ANE tradition, divine and royal gardens symbolize order imposed on chaos:
+Hebrew *gan* (garden) implies an **enclosed, bounded, cultivated space** — distinct from wilderness (*midbar*) or open land (*sadeh*, field). In ancient Near Eastern tradition, divine and royal gardens symbolize order imposed on chaos:
 - Mesopotamian royal gardens (e.g., Sennacherib's palace gardens) as symbols of dominion and abundance
 - The garden exists as a zone of order between divine presence and uncultivated world
 
@@ -102,7 +102,7 @@ Genesis 2:8 places the garden "in Eden" — a bounded, cultivated space within a
 ### B1. Human creation from earth/clay
 **[COMPARATIVE PARALLEL — VERIFIED]**
 
-Multiple ANE traditions describe humans formed from earthly material:
+Multiple ancient Near Eastern traditions describe humans formed from earthly material:
 - **Atrahasis** (Akkadian, ~1800 BCE): humans formed from clay mixed with the blood of a slain god
 - **Enki and Ninmah** (Sumerian): humans molded from clay by divine craftsmen
 - **Egyptian tradition:** Khnum shapes humans on a potter's wheel
@@ -119,14 +119,14 @@ Divine or royal gardens appear across ANE literature:
 - **Gilgamesh Epic** (Tablet IX): a jeweled garden at the edge of the world
 - Mesopotamian royal gardens as symbols of order and abundance
 
-Genesis 2:8 describes a garden "in Eden, from east" — a specific place with rivers, trees, and divine presence. The Hebrew *pardes* (garden/park) does not appear here; the word is *gan* (enclosed garden). The TT preserves "garden" without importing "paradise" vocabulary.
+Genesis 2:8 describes a garden "in Eden, from east" — a specific place with rivers, trees, and divine presence. The Hebrew word *pardes* (a park or orchard, borrowed from Persian) does not appear here; the word is *gan* (enclosed garden). The TT preserves "garden" without importing "paradise" vocabulary.
 
 **Source:** Stordalen, T., *Echoes of Eden: Genesis 2–3 and Symbolism of the Eden Garden in Biblical Hebrew Literature*, 2000.
 
 ### B3. Naming as authority
 **[COMPARATIVE PARALLEL — VERIFIED]**
 
-In ANE tradition, naming expresses authority over the named. Genesis 2:19–20: YHWH Elohim brings animals to the human "to see what he would call to it; and all that the human called to each living being, that is its name." This parallels Enuma Elish where Marduk's naming of heavenly bodies establishes his authority.
+In ancient Near Eastern tradition, naming expresses authority over the thing named. Genesis 2:19–20: YHWH Elohim brings animals to the human "to see what he would call to it; and all that the human called to each living being, that is its name." This parallels Enuma Elish where Marduk's naming of heavenly bodies establishes his authority.
 
 **Source:** Walton, J.H., *Ancient Near Eastern Thought and the Old Testament*, 2006, pp. 189–194.
 
@@ -175,59 +175,66 @@ The seven-day creation/rest cycle may also parallel ANE temple-dedication ceremo
 
 Root: י-צ-ר (*y-tz-r*). Used for pottery-making (Jer 18:3–4, Isa 29:16, 45:9). In Genesis 2:7 and 2:19, it describes divine formation of humans and animals from existing material (ground/dust). Distinguished from *bara* (initiating creation) and *asah* (general making).
 
-The verb implies hands-on shaping — more intimate than *bara*, more artisanal than *asah*.
+The verb implies hands-on shaping — more personal than *bara* (create), more craftsman-like than *asah* (make).
 
 ### D1b. *Banah* + *tsela* — the architectural metaphor chain
 **[TEXTUAL — VERIFIED]**
 
-Genesis 2:21–22: God takes a *tsela* (side — ~35 of 41 biblical occurrences are architectural) and *banah* (builds) it into a woman. Both terms are architectural: *tsela* = structural side-panel; *banah* = construction verb. The text presents a **layered architectural metaphor** — God takes a structural component from one construction (the human) and builds a new structure (the woman) from it. No other creation verb (*bara*, *asah*, *yatzar*) carries this construction resonance.
+Genesis 2:21–22: God takes a *tsela* (side — ~35 of 41 biblical occurrences are architectural) and *banah* (builds) it into a woman. Both terms are architectural: *tsela* = structural side-panel; *banah* = construction verb. The text presents a **layered architectural metaphor** — God takes a structural component from one construction (the human) and builds a new structure (the woman) from it. No other creation verb (*bara* = create, *asah* = make, *yatzar* = form) carries this building resonance.
 
 ### D1c. Infinitive absolute — emphatic permission and threat (2:16–17)
 **[TEXTUAL — VERIFIED]**
 
-Genesis 2:16: *akhol tokhel* ("eating you shall eat") — emphatic permission. Genesis 2:17: *mot tamut* ("dying you shall die") — emphatic threat. The Hebrew infinitive-absolute construction places the root verb before the conjugated form for maximum grammatical force. The TT preserves both structures literally. This pairing (positive emphatic + negative emphatic) creates the sharpest possible contrast between permission and prohibition — a contrast the serpent will directly negate at 3:4 (*lo mot temutun* — "not dying you shall die"). Traditional smooth renderings ("you may freely eat" / "you shall surely die") collapse the structural parallel.
+Genesis 2:16: *akhol tokhel* ("eating you shall eat") — emphatic permission. Genesis 2:17: *mot tamut* ("dying you shall die") — emphatic threat. The Hebrew construction here doubles the verb root (placing it before the main verb form) for maximum emphasis. The TT preserves both structures literally. This pairing (positive emphatic + negative emphatic) creates the sharpest possible contrast between permission and prohibition — a contrast the serpent will directly negate at 3:4 (*lo mot temutun* — "not dying you shall die"). Traditional smooth renderings ("you may freely eat" / "you shall surely die") collapse the structural parallel.
 
 ### D1d. The Tetragrammaton — lost pronunciation and the breath observation
 **[TEXTUAL — VERIFIED (lost pronunciation) / POSSIBLE INFERENCE — POSSIBLE (breath connection)]**
 
-The original pronunciation of יהוה (YHWH) is **genuinely lost**. The Masoretic vowel points attached to the consonants are those of *Adonai* (the reading substitute), not of the name itself. No one alive knows with certainty how it was spoken. The scholarly reconstruction *Yahweh* is probable but not proven.
+The original pronunciation of יהוה (YHWH) is **genuinely lost**. The vowel marks added by later scribes are borrowed from *Adonai* (the word readers would say aloud instead), not from the original name. No one alive knows with certainty how it was spoken. The scholarly reconstruction *Yahweh* is probable but not proven.
 
-**The breath observation:** The four consonants Y-H-W-H, when vocalized without inserted vowels, approximate the sound of breathing — an inhale (*Yah*) and an exhale (*weh*). This observation has been noted in both scholarly and devotional contexts.
+**The breath observation:** The four consonants Y-H-W-H, when spoken without added vowels, approximate the sound of breathing — an inhale (*Yah*) and an exhale (*weh*). This observation has been noted in both scholarly and devotional contexts.
 
-**Textual resonance:** Genesis 2:7 — YHWH Elohim "breathed into his nostrils breath of life (*nishmat chayyim*)." The name-bearer's first physical act toward the human is breathing life into him. The semantic field of *ruach* (wind/spirit/breath, Gen 1:2) + *neshamah* (breath, Gen 2:7) + the consonantal shape of the divine name creates a cluster where breath, divine presence, and the name itself overlap.
+**Textual resonance:** Genesis 2:7 — YHWH Elohim "breathed into his nostrils breath of life (*nishmat chayyim*)." The name-bearer's first physical act toward the human is breathing life into him. The related words *ruach* (wind/spirit/breath, Gen 1:2), *neshamah* (breath, Gen 2:7), and the consonant-shape of the divine name create a cluster where breath, divine presence, and the name itself overlap.
 
 **What the text does NOT say:** The text never explicitly connects the pronunciation of YHWH to breathing, nor does it state that the divine name is embedded in every breath. That connection is an inference the reader may draw — the text provides the raw material (lost pronunciation, breath-consonant similarity, breath-of-life narrative) without making the argument.
 
-**The TT renders YHWH consonantally precisely because the pronunciation is lost.** Any vocalization (Yahweh, Jehovah, or breath-sound) is a reconstruction, not a recovery.
+**The TT renders YHWH consonantally precisely because the pronunciation is lost.** Any pronunciation (Yahweh, Jehovah, or breath-sound) is a scholarly guess, not a recovery of the original.
 
 ### D2. *ed* (אֵד) — a genuinely uncertain word
 **[TEXTUAL — UNCERTAIN]**
 
-This word appears only twice in the Hebrew Bible (Gen 2:6, Job 36:27). Meaning genuinely UNCERTAIN. Proposals: mist, vapor, spring, flow, underground stream. Akkadian cognate *edû* suggests "flood/flow." The TT renders "mist" with an uncertainty note; "stream" would be equally defensible.
+This word appears only twice in the Hebrew Bible (Gen 2:6, Job 36:27). Meaning genuinely UNCERTAIN. Proposals: mist, vapor, spring, flow, underground stream. The related Akkadian word *edû* suggests "flood/flow." The TT renders "mist" with an uncertainty note; "stream" would be equally defensible.
 
 ### D3. *toledot* (תּוֹלְדוֹת) — the structural marker
 **[TEXTUAL — VERIFIED]**
 
-Genesis 2:4: "These are the *toledot* (generations/origins) of the skies and the land." This phrase appears 11 times across Genesis and functions as a major structural divider. Root: *y-l-d* (to beget/bear). The TT renders "generations" with a note about the structural function.
+Genesis 2:4: "These are the *toledot* (generations/origins) of the skies and the land." This phrase appears 11 times across Genesis and functions as a major structural divider. Root: *y-l-d* (to bear children). The TT renders "generations" with a note about the structural function.
 
 ### D4. *beyom* (בְּיוֹם) — "in the day" as temporal idiom
 **[TEXTUAL — VERIFIED]**
 
-Hebrew *beyom* can mean a literal 24-hour day or an idiomatic "when/at the time." It appears at 2:4 ("in the day YHWH Elohim made...") and 2:17 ("in the day of your eating from it..."). The TT preserves the literal rendering with a note flagging the idiomatic range — especially important for the apparent tension between 2:17 ("in the day you eat... dying you shall die") and Gen 5:5 (Adam lives 930 years).
+Hebrew *beyom* can mean a literal 24-hour day or serve as an idiom meaning "when/at the time." It appears at 2:4 ("in the day YHWH Elohim made...") and 2:17 ("in the day of your eating from it..."). The TT preserves the literal rendering with a note flagging the idiomatic range — especially important for the apparent tension between 2:17 ("in the day you eat... dying you shall die") and Gen 5:5 (Adam lives 930 years).
 
 ---
 
 ## E. Scientific Correspondence and Non-Correspondence
 
 ### E1. Formation from dust — elements and composition
-**[SCIENTIFIC COMPARISON — for awareness]**
+**[SCIENTIFIC COMPARISON — POSSIBLE]**
 
-Genesis 2:7: "formed the human, dust from the ground." Modern chemistry notes that the human body is composed of common elements found in earth's crust (carbon, oxygen, hydrogen, nitrogen, calcium, phosphorus, etc.). This is an observation, not a concordism claim. The text describes *formation* from earth, not chemical composition.
+Genesis 2:7: "formed the human, dust from the ground." Modern chemistry notes that the human body is composed of common elements found in earth's crust (carbon, oxygen, hydrogen, nitrogen, calcium, phosphorus, etc.). This is an observation, not a claim that scripture anticipated modern science. The text describes *formation* from earth, not chemical composition.
 
 ### E2. The river system — hydrology
 **[SCIENTIFIC COMPARISON — POSSIBLE]**
 
 Genesis 2:10–14 describes a river going out from Eden that divides into four heads. Modern hydrology does not know a single-source river system matching this description. The two identifiable rivers (Tigris, Euphrates) have separate sources. Whether the text describes a pre-flood geography, a symbolic geography, or a narrative geography is unresolved.
+
+### E3. "Not good for the human to be alone" — social isolation and human sociality
+**[SCIENTIFIC COMPARISON — POSSIBLE]**
+
+Genesis 2:18 records the only "not good" (*lo tov*) in the creation narrative: "It is not good for the human to be alone." The text identifies sociality as a design feature, not a preference — the human in a complete, good creation is still assessed as lacking without companionship. Modern research on social isolation confirms profound physiological effects: chronic loneliness correlates with increased cortisol, inflammation, cardiovascular risk, and cognitive decline (Cacioppo & Patrick, *Loneliness*, 2008; Holt-Lunstad et al., *PLOS Medicine*, 2010). The correspondence is structural: both the ancient text and modern research identify isolation as a fundamental deficit in human functioning, not merely an emotional discomfort. The text does not make a scientific argument — it states a divine assessment. The science provides an independent observation that aligns with the text's claim.
+
+**Source:** Cacioppo, J. & Patrick, W., *Loneliness: Human Nature and the Need for Social Connection*, Norton, 2008; Holt-Lunstad, J. et al., "Social Relationships and Mortality Risk," *PLOS Medicine* 7:7, 2010.
 
 ---
 
@@ -283,6 +290,16 @@ Genesis 2:22 uses *banah* (built) — the construction verb. Not *bara* (created
 
 Genesis 2:24: *basar echad* ("one flesh"). The adjective *echad* (one) is the same word used at Gen 1:5 ("day one" / *yom echad*). In both cases it marks something unique and foundational — the first day, the first union.
 
+### G5. "Knowing good and evil" as a philosophical problem
+**[POSSIBLE INFERENCE — POSSIBLE]**
+
+The "tree of the knowledge of good and evil" (2:9, 17) names a concept the text never defines. "Knowing good and evil" in the Hebrew Bible appears elsewhere in Deut 1:39 (children who do not yet know it) and 2 Sam 19:36 (an aged man who can no longer discern it) — both suggesting experiential maturity or moral discernment rather than abstract ethical knowledge. In moral philosophy, the options map roughly onto: (a) moral autonomy (Kant — the capacity to legislate one's own moral law), (b) experiential knowledge (Aristotle — practical wisdom acquired through living), (c) loss of innocence (the transition from pre-moral to moral awareness). The text presents the tree as forbidden without explaining what the knowledge *is*, leaving the reader to distinguish between the capacity for moral judgment and the assumption of moral authority.
+
+### G6. The *tardemah* — deep sleep as anesthesia before surgery
+**[POSSIBLE INFERENCE — POSSIBLE]**
+
+Genesis 2:21: "YHWH God caused a deep sleep (*tardemah*) to fall upon the human, and he slept; and he took one of his sides (*tsela*), and closed up flesh in its place." The sequence — unconsciousness induced, body opened, material removed, wound closed — describes what medicine calls anesthesia followed by surgery. The word *tardemah* appears elsewhere as divinely induced unconsciousness (Gen 15:12; 1 Sam 26:12; Isa 29:10) — always supernatural, never natural sleep (*shenah*). The text does not present this as a medical procedure; it presents it as a divine creative act. The structural parallel with surgical protocol is observable but incidental to the text's purpose. The first general anesthetic (ether, 1846) formalized what the text narrates as divine prerogative.
+
 ---
 
 ## H. Sources Consulted
@@ -302,7 +319,7 @@ Genesis 2:24: *basar echad* ("one flesh"). The adjective *echad* (one) is the sa
 | Wheeler, B.M., *Prophets in the Quran*, 2002 | Secondary (Islamic) | F3 |
 | *Bereshit Rabbah* (5th c. CE) | Primary (Rabbinic) | F1 |
 | Rashi, Commentary on Genesis (11th c.) | Primary (Medieval Jewish) | F1 |
-| Augustine, *De Genesi ad Litteram* (4th–5th c.) | Primary (Patristic) | F2 |
+| Augustine, *De Genesi ad Litteram* ("On the Literal Meaning of Genesis," 4th–5th c.) | Primary (early Church Father) | F2 |
 
 ---
 

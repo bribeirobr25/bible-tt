@@ -7,7 +7,7 @@
 **Base Text:** Biblia Hebraica Stuttgartensia, 5th rev. ed. (Stuttgart: Deutsche Bibelgesellschaft, 1997)
 **Edition:** Transparent Edition
 **Language:** English
-**Methodology:** 29-Rule Governance System (Ruleset v2.5)
+**Methodology:** 29-Rule Governance System (Ruleset v3.0)
 **Divine Name Policy (Rule 25):** Option A — Consonantal (YHWH).
 **Status:** provisional — pending reviewer sign-off (Rule 28)
 **Reviewers:** Hebraist: unassigned | EN editor: unassigned | Cross-alignment: unassigned
@@ -43,6 +43,16 @@
 
 **Adam / Human Policy (Rule 17 standing note):** Hebrew אָדָם (*adam*) continues to render as *"the human"* throughout Genesis 3, including at the three anarthrous occurrences (3:17, 3:21 — no article in Hebrew). The *adam / adamah* wordplay is active through the chapter (3:17 cursed ground, 3:19 return to dust, 3:23 working the ground). Transition to proper-name *Adam* is formally resolved in Genesis 4.
 
+## CHAPTER OVERVIEW
+
+**What happens:** The serpent, described as *arum* (crafty/shrewd), engages the woman in dialogue about the forbidden tree. Both humans eat. Their eyes are opened — they know they are naked. YHWH God questions them, pronounces consequences on the serpent, the woman, and the man, makes garments of skin, and expels them from the garden with cherubim guarding the way to the tree of life.
+
+**Key themes:** The *arum/arom* wordplay (crafty/naked) bridging Chapters 2–3; the serpent's rhetoric; the woman's modification of the command; knowledge of good and evil — promised and delivered, but not as expected; shame, fear, blame as a sequence; consequences vs. curses (only the serpent and the ground are cursed, not the humans); the broken sentence at 3:22 (aposiopesis).
+
+**Watch for:** The serpent uses only "Elohim," never "YHWH Elohim"; the man was "with her" during the dialogue (3:6); "dying you shall die" (2:17) vs. "you will not dying die" (3:4) — same grammatical construction, negated; God confirms the serpent's prediction at 3:22; "dust you *are*" (present tense, not future) — mortality as intrinsic, not newly imposed.
+
+**Connection:** The expulsion from the garden leads directly into Cain and Abel (Chapter 4). The curse on the ground (3:17) echoes through 5:29 (Noach's naming) and 8:21 (YHWH's post-flood resolution).
+
 ---
 
 ## CONTINUOUS READING
@@ -65,7 +75,7 @@
 
 ²⁰And the human called the name of his woman Chava, for she was mother of all the living. ²¹And YHWH Elohim made for the human and for his woman garments of skin, and he clothed them.
 
-²²And YHWH Elohim said, "Behold, the human has become like one of us to know good and evil; and now, lest he stretch out his hand and take also from the tree of the life, and eat, and live forever…" ²³And YHWH Elohim sent him out from the garden of Eden to work the ground from which he was taken. ²⁴And he drove out the human; and he caused to dwell at the east of the garden of Eden the cherubim, and the flame of the sword turning, to guard the way of the tree of the life.
+²²And YHWH Elohim said, "See, the human has become like one of us to know good and evil; and now, lest he stretch out his hand and take also from the tree of the life, and eat, and live forever…" ²³And YHWH Elohim sent him out from the garden of Eden to work the ground from which he was taken. ²⁴And he drove out the human; and he caused to dwell at the east of the garden of Eden the cherubim, and the flame of the sword turning, to guard the way of the tree of the life.
 
 ---
 
@@ -371,7 +381,7 @@ And YHWH Elohim made for the human and for his woman garments of skin, and he cl
 
 ### **Verse 22**
 
-And YHWH Elohim said, "Behold, the human has become like one of us to know good and evil; and now, lest he stretch out his hand and take also from the tree of the life, and eat, and live forever…"
+And YHWH Elohim said, "See, the human has become like one of us to know good and evil; and now, lest he stretch out his hand and take also from the tree of the life, and eat, and live forever…"
 
 > **📝 NOTES**
 >

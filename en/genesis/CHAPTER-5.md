@@ -7,7 +7,7 @@
 **Base Text:** Biblia Hebraica Stuttgartensia, 5th rev. ed. (Stuttgart: Deutsche Bibelgesellschaft, 1997)
 **Edition:** Transparent Edition
 **Language:** English
-**Methodology:** 29-Rule Governance System (Ruleset v2.5)
+**Methodology:** 29-Rule Governance System (Ruleset v3.0)
 **Divine Name Policy (Rule 25):** Option A — Consonantal (YHWH). Not triggered in this chapter (only Elohim used).
 **Status:** provisional — pending reviewer sign-off (Rule 28)
 **Reviewers:** Hebraist: unassigned | EN editor: unassigned | Cross-alignment: unassigned
@@ -40,6 +40,16 @@
 **Genre note (Rule 23):** This chapter is a **genealogy** — a structured list governed by a repeating formula. The formula is locked per Rule 7; deviations from the pattern are textually significant and noted.
 
 **Adam is proper name throughout this chapter** (confirmed at Gen 4:25; locked at 5:1).
+
+## CHAPTER OVERVIEW
+
+**What happens:** The *toledot* of Adam — a ten-generation genealogy from Adam to Noach, structured by a locked formula: "X lived Y years, begot Z, lived W more years, begot sons and daughters, all his days were N years, and he died." Two entries break the formula: Chanokh ("he was not, for God took him") and Noach (whose entry transitions into the flood narrative).
+
+**Key themes:** The *sefer toledot* (book of generations) — the only *toledot* with the prefix "book"; the image/likeness chain (God → Adam → Seth); the relentless "and he died" refrain; Chanokh's translation — "walked with God" and "was not"; Noach's name-etymology (*nacham*, comfort/regret); extraordinary lifespans (365–969 years).
+
+**Watch for:** Chanokh is the seventh from Adam (parallel to Enmeduranki, seventh antediluvian king in Sumerian tradition); Chanokh lives 365 years (solar-year number, shortest in the list); Metushelach's death year coincides exactly with the flood year by the text's own arithmetic; the chapter uses *Elohim* throughout except v.29, where Lemekh's speech names YHWH.
+
+**Connection:** Lemekh names Noach with a hope tied to the cursed ground (5:29, echoing 3:17). The *nacham* root in Noach's name reappears at 6:6 as divine "regret" — comfort and regret sharing a root.
 
 ---
 

@@ -1,5 +1,6 @@
 import { useTranslations } from "next-intl";
 import type { Verse } from "@/domain/content/types";
+import { renderMarkdownSafe } from "@/ui/shared/render-markdown-safe";
 import { NoteBlock } from "./note-block";
 import { ChevronRight } from "lucide-react";
 
@@ -16,11 +17,9 @@ export function VerseCard({ verse }: { verse: Verse }) {
           {verse.number}
         </span>
         <p
-          className="font-[family-name:var(--font-reading)] text-lg leading-[1.7] text-text-primary flex-1"
+          className="font-[family-name:var(--font-reading)] text-lg leading-[1.7] text-text-primary flex-1 [&_em]:text-text-secondary"
           dangerouslySetInnerHTML={{
-            __html: verse.mainText
-              .replace(/\*([^*]+)\*/g, "<em class='text-text-secondary'>$1</em>")
-              .replace(/\n/g, " "),
+            __html: renderMarkdownSafe(verse.mainText, "prose"),
           }}
         />
       </div>

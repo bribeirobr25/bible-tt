@@ -1,6 +1,6 @@
 import { locales, type Locale } from "@/infrastructure/i18n/config";
-import { readChapter, readEnrichment, listBooks, listChapters } from "@/infrastructure/content/fs-content-repository";
-import type { ChapterData, EnrichmentData } from "@/domain/content/types";
+import { readChapter, readEnrichment, readIntroduction, readProphecy, readPeople, listBooks, listChapters } from "@/infrastructure/content/fs-content-repository";
+import type { ChapterData, EnrichmentData, IntroductionData, ProphecyData, PeopleData } from "@/domain/content/types";
 
 export async function getChapterData(
   locale: Locale,
@@ -16,6 +16,28 @@ export async function getEnrichmentData(
   chapter: number,
 ): Promise<EnrichmentData | null> {
   return readEnrichment(locale, book, chapter);
+}
+
+export async function getIntroductionData(
+  locale: Locale,
+  book: string,
+): Promise<IntroductionData | null> {
+  return readIntroduction(locale, book);
+}
+
+export async function getProphecyData(
+  locale: Locale,
+  book: string,
+  chapter: number,
+): Promise<ProphecyData | null> {
+  return readProphecy(locale, book, chapter);
+}
+
+export async function getPeopleData(
+  locale: Locale,
+  book: string,
+): Promise<PeopleData | null> {
+  return readPeople(locale, book);
 }
 
 export async function getAvailableBooks(locale: string): Promise<string[]> {

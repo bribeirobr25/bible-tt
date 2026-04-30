@@ -10,8 +10,8 @@
 **Chapter:** Genesis 9
 **Language:** English
 **Companion to:** `en/genesis/CHAPTER-9.md` (Transparent Edition)
-**Ruleset:** v2.5 (Rule 29 governs this file)
-**Status:** draft
+**Ruleset:** v3.0 (Rule 29 governs this file)
+**Status:** provisional
 
 ---
 
@@ -31,12 +31,12 @@ The post-flood world is the same creation — but with violence, dread, and bloo
 ### A2. The blood prohibition — life = blood
 **[TEXTUAL — VERIFIED]**
 
-Gen 9:4: "flesh with its life — its blood — you shall not eat." The apposition "its life — its blood" (*be-nafsho damo*) is a defining equation: *nephesh* (life-force) = *dam* (blood). This identification becomes foundational: Lev 17:11 ("the *nephesh* of the flesh is in the blood") and Lev 17:14 ("the blood — it is the *nephesh*") elaborate this principle. The TT preserves the appositive dash.
+Gen 9:4: "flesh with its life — its blood — you shall not eat." The side-by-side pairing "its life — its blood" (*be-nafsho damo*) sets up a defining equation: *nephesh* (life-force) = *dam* (blood). This identification becomes foundational: Lev 17:11 ("the *nephesh* of the flesh is in the blood") and Lev 17:14 ("the blood — it is the *nephesh*") build on this principle. The TT preserves the linking dash.
 
 ### A3. Chiastic structure — 9:6
 **[TEXTUAL — VERIFIED]**
 
-"Whoever sheds the blood of the human, by the human his blood shall be shed." Hebrew: שֹׁפֵךְ דַּם הָאָדָם / בָּאָדָם דָּמוֹ יִשָּׁפֵךְ. This is a perfect A-B-C / C'-B'-A' chiasm: shedder-of / blood-of / the-human // by-the-human / his-blood / shall-be-shed. The sentence structure mirrors the principle: the act folds back on the actor. This poetic structure cannot be fully reproduced in English, but the TT preserves the word order as closely as possible.
+"Whoever sheds the blood of the human, by the human his blood shall be shed." Hebrew: שֹׁפֵךְ דַּם הָאָדָם / בָּאָדָם דָּמוֹ יִשָּׁפֵךְ. This is a perfect mirror structure (chiasm — where the second half reverses the order of the first): shedder-of / blood-of / the-human // by-the-human / his-blood / shall-be-shed. The sentence structure mirrors the principle: the act folds back on the actor. This poetic structure cannot be fully reproduced in English, but the TT preserves the word order as closely as possible.
 
 ### A4. *Tselem* (image) survives the flood
 **[TEXTUAL — VERIFIED]**
@@ -81,7 +81,7 @@ Gen 9:27: "and may he dwell in the tents of Shem." The subject of "he" is gramma
 ### A11. *Ish ha-adamah* — "man of the ground" as lexical inclusion
 **[TEXTUAL — VERIFIED]**
 
-Gen 9:20: Noach is introduced as אִישׁ הָאֲדָמָה (*ish ha-adamah*) — "man of the ground." This forms an inclusion with the *adam/adamah* wordplay from Gen 2:7 (God formed *adam* from the *adamah*) and 3:17 (YHWH cursed the *adamah* because of the *adam*). In Gen 5:29, Noach's name is tied to the hope of relief "from the ground which YHWH has cursed." In 9:20, Noach is a "man of the very same ground" — cultivating it productively. The curse of 3:17 has not been explicitly lifted (8:21 uses similar language), but the human relationship to the *adamah* is now marked by productive cultivation rather than frustrated toil.
+Gen 9:20: Noach is introduced as אִישׁ הָאֲדָמָה (*ish ha-adamah*) — "man of the ground." This forms a bookend (a literary bracket connecting the beginning and end of a passage) with the *adam/adamah* wordplay from Gen 2:7 (God formed *adam* from the *adamah*) and 3:17 (YHWH cursed the *adamah* because of the *adam*). In Gen 5:29, Noach's name is tied to the hope of relief "from the ground which YHWH has cursed." In 9:20, Noach is a "man of the very same ground" — cultivating it productively. The curse of 3:17 has not been explicitly lifted (8:21 uses similar language), but the human relationship to the *adamah* is now marked by productive cultivation rather than frustrated toil.
 
 ---
 
@@ -120,7 +120,7 @@ The phrase "I am establishing" (*maqim*, 9:9,11) uses the Hiphil of *qum* (to st
 ### B5. The rainbow in Mesopotamian omen tradition
 **[COMPARATIVE PARALLEL — PROBABLE]**
 
-In the Babylonian astronomical compendium MUL.APIN and omen series such as Enuma Anu Enlil, the rainbow (*marratu* in Akkadian) was a recognized omen sign — its direction predicted floods, rain, or devastation. The biblical text radically re-semanticizes the rainbow: instead of an omen of future catastrophe, it becomes a sign of non-destruction and divine self-restraint. This is a deliberate anti-omen move — the instrument of cosmic terror in ANE omen-lore is redeployed as a covenant sign. The omen-tradition context shows how Genesis 9 re-semanticizes an existing cosmic symbol; this is a textual observation about intertextual contrast, not a claim of direct dependence.
+In the Babylonian astronomical compendium MUL.APIN and omen series such as Enuma Anu Enlil, the rainbow (*marratu* in Akkadian) was a recognized omen sign — its direction predicted floods, rain, or devastation. The biblical text radically redefines the rainbow's meaning: instead of an omen of future catastrophe, it becomes a sign of non-destruction and divine self-restraint. This is a deliberate reversal — the instrument of cosmic terror in ANE omen traditions is redeployed as a covenant sign. The omen-tradition context shows how Genesis 9 repurposes an existing cosmic symbol; this is a textual observation about intertextual contrast, not a claim of direct dependence.
 
 **Source:** Horowitz, W., *Mesopotamian Cosmic Geography*, Eisenbrauns, 1998; Rochberg, F., *The Heavenly Writing*, Cambridge, 2004.
 
@@ -138,7 +138,7 @@ Gen 9:20: Noach "planted a vineyard." The oldest archaeological evidence of wine
 ### C2. The Curse of Canaan — historical context
 **[HISTORICAL / ARCHAEOLOGICAL — PROBABLE]**
 
-The curse of Kenaan (9:25-27) is widely understood as an etiological narrative explaining the subjugation of the Canaanite peoples by Israel (Shem's line) and potentially by Philistine/Greek peoples (Yafet's line). The narrative predates and legitimizes later Israelite conquest narratives. Whether the story originated as ethnographic explanation or was applied to existing ethnic relations is debated.
+The curse of Kenaan (9:25-27) is widely understood as an origin story explaining the subjugation of the Canaanite peoples by Israel (Shem's line) and potentially by Philistine/Greek peoples (Yafet's line). The narrative predates and legitimizes later Israelite conquest narratives. Whether the story was composed to explain existing ethnic relations or was applied to them afterward is debated.
 
 **Source:** Westermann, C., *Genesis 1-11*, Continental Commentary, 1984, pp. 482-495.
 
@@ -167,6 +167,15 @@ Gen 9:27: יַפְתְּ אֱלֹהִים לְיֶפֶת (*yaft elohim le-Yefet*
 **[TEXTUAL — VERIFIED]**
 
 Gen 9:22-23: עֶרְוָה (*ervah*) = nakedness. The word has a wide semantic range: (1) literal physical nakedness (Gen 9:22-23; Exod 20:26); (2) sexual euphemism for genitalia (Lev 18:6-19 — "the nakedness of X" = sexual relations with X); (3) shame/exposure (Isa 20:4; Lam 1:8). The text at 9:22 uses ראה (*ra'ah*, saw) + *ervah* — "saw the nakedness." This is NOT the same construction as גלה ערוה (*galah ervah*, "uncover nakedness"), which is the Levitical sexual euphemism. The TT translates the actual construction used.
+
+---
+
+## E. Scientific Correspondence and Non-Correspondence
+
+### E1. Blood as life-carrier — biology and ancient identification
+**[SCIENTIFIC COMPARISON — PROBABLE]**
+
+Genesis 9:4 prohibits eating "flesh with its life — its blood." The text equates *nephesh* (life-force) with *dam* (blood). Modern hematology confirms blood as the primary carrier of oxygen, nutrients, hormones, and immune cells to all tissues — functionally, the sustainer of biological life. William Harvey's demonstration of circulation (1628) established blood's systemic role. The ancient identification of blood with life was observational: loss of blood visibly correlates with loss of life; blood is warm, moves, and stops at death. The text's equation is not a scientific statement but an observational identification that happens to align with what biology confirms about blood's essential life-sustaining function. The prohibition is dietary and theological (blood belongs to God as life belongs to God), not biological.
 
 ---
 
@@ -202,7 +211,7 @@ Several structural parallels connect Noach to Adam:
 - Both result in a curse on a son's line — Cain's line / Kenaan's line
 - Both are associated with *adamah* — Adam formed from it (2:7); Noach is *ish ha-adamah* (9:20)
 
-Additionally, the word *tebah* appears in only two places in the entire Hebrew Bible: Noach's vessel (Gen 6–9) and Moses' basket (Exod 2:3,5). Both are sealed containers placed on water, entrusting the occupant to divine providence. The direct parallels are textual observations; the fuller typological development belongs to later reception (midrash and patristic reading).
+Additionally, the word *tebah* appears in only two places in the entire Hebrew Bible: Noach's vessel (Gen 6–9) and Moses' basket (Exod 2:3,5). Both are sealed containers placed on water, entrusting the occupant to divine providence. The direct parallels are textual observations; the fuller typological development belongs to later reception (midrash and early Church Fathers' reading).
 
 **Source:** Cassuto, U., *A Commentary on the Book of Genesis*, vol. 2, 1964.
 
@@ -234,6 +243,18 @@ Gen 9:3: "every moving thing which is alive shall be food for you." Gen 1:29: on
 **[TEXTUAL — VERIFIED]**
 
 Gen 9:16: "I will see it to remember the covenant." The bow functions as a mnemonic for God — a visible reminder that restrains divine action. The text attributes both the need for a reminder and the capacity for self-restraint to God. This is anthropomorphic language (God needing a reminder) that the TT translates literally without theological smoothing (Rule 12).
+
+### G6. The Noachide commands as a universal ethics framework
+**[POSSIBLE INFERENCE — PROBABLE]**
+
+Genesis 9:1–7 addresses "every human" — not a specific people. The commands (be fruitful, eat freely but not blood, do not murder, capital accountability) are pre-Israelite and pre-Sinai. In comparative ethics, this raises the question of universal moral obligation grounded in creation rather than in special instructions given to a particular community. Natural law theory — developed by the medieval theologian Thomas Aquinas and the 17th-century legal philosopher Hugo Grotius — holds that some moral norms are accessible to all humans through reason, independent of special revelation. The Noachide framework (as later systematized in rabbinic tradition — see Section F) represents a textual precedent for this concept: obligations that apply because one is human, not because one is Israelite. The text itself presents these as divine commands to all post-flood humanity, grounded in the *tselem* (image of God) that persists through the flood (9:6). Whether this constitutes "natural law" or "revealed universal law" is a distinction the text does not make.
+
+### G7. Wine and intoxication — viticulture and the science of alcohol
+**[SCIENTIFIC COMPARISON — POSSIBLE]**
+
+Genesis 9:20–21: Noach "planted a vineyard, and he drank of the wine and became drunk, and he uncovered himself inside his tent." This is the first reference to viticulture and fermentation in the biblical text. The earliest archaeological evidence of wine production comes from Hajji Firuz Tepe in the Zagros Mountains (c. 5400 BCE, McGovern, 2003) and Areni-1 cave in Armenia (c. 4100 BCE) — both within the broader region the text associates with the ark's landing (mountains of Ararat). Alcohol works by affecting brain receptors that control inhibition, producing impaired judgment and loss of coordination — the text's description of Noah drinking, becoming drunk, and uncovering himself captures the behavioral sequence that modern brain science describes. The text presents wine without moral commentary on the substance itself — the narrative tension arises from the exposure and the response of the sons, not from the drinking.
+
+**Source:** McGovern, P.E., *Ancient Wine: The Search for the Origins of Viniculture*, Princeton, 2003.
 
 ---
 

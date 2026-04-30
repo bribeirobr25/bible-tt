@@ -1,0 +1,116 @@
+import {
+  BookOpen,
+  Users,
+  Calendar,
+  MapPin,
+  ScrollText,
+  Eye,
+  BookMarked,
+} from "lucide-react";
+import type { IntroductionData, EnrichmentEntry, ClaimType, ConfidenceLevel } from "@/domain/content/types";
+import { renderMarkdownSafe } from "@/ui/shared/render-markdown-safe";
+
+const SECTION_ICONS: Record<string, typeof BookOpen> = {
+  overview: BookOpen,
+  authorship: Users,
+  dating: Calendar,
+  "historical-setting": MapPin,
+  "manuscript-transmission": ScrollText,
+  "reading-in-tt": Eye,
+  sources: BookMarked,
+};
+
+export interface LabelMaps {
+  claimTypes: Record<ClaimType, string>;
+  confidence: Record<ConfidenceLevel, string>;
+}
+
+interface IntroductionViewProps {
+  data: IntroductionData;
+  sectionLabels: Record<string, string>;
+  title: string;
+  labelMaps: LabelMaps;
+}
+
+function IntroductionEntry({ entry, labelMaps }: { entry: EnrichmentEntry; labelMaps: LabelMaps }) {
+  return (
+    <div className="border-l-3 border-l-border bg-bg-muted rounded-r-md px-4 py-3">
+      <div className="flex items-center gap-2 mb-2 flex-wrap">
+        <span className="text-xs font-bold uppercase tracking-wider text-text-muted font-[family-name:var(--font-mono)]">
+          {labelMaps.claimTypes[entry.claimType] || entry.claimType}
+        </span>
+        <span className="text-xs font-semibold uppercase px-1.5 py-0.5 rounded bg-bg-surface text-text-secondary">
+          {labelMaps.confidence[entry.confidence] || entry.confidence}
+        </span>
+      </div>
+      <h4 className="font-[family-name:var(--font-ui)] text-sm font-semibold mb-1.5">
+        {entry.title}
+      </h4>
+      <div
+        className="text-sm leading-relaxed text-text-primary"
+        dangerouslySetInnerHTML={{
+          __html: renderMarkdownSafe(entry.content, "note"),
+        }}
+      />
+      {entry.source && (
+        <p className="mt-2 text-xs text-text-muted italic">{entry.source}</p>
+      )}
+    </div>
+  );
+}
+
+export function IntroductionView({
+  data,
+  sectionLabels,
+  title,
+  labelMaps,
+}: IntroductionViewProps) {
+  return (
+    <div className="space-y-4">
+      <h2 className="font-[family-name:var(--font-reading)] text-xl md:text-2xl font-light text-text-primary">
+        {title}
+      </h2>
+      {data.disclaimer && (
+        <p className="text-xs text-text-muted italic leading-relaxed border-l-2 border-border pl-3">
+          {data.disclaimer}
+        </p>
+      )}
+      <div className="space-y-2">
+        {data.sections
+          .filter((s) => s.id !== "sources" || s.entries.length > 0)
+          .map((section) => {
+            const Icon = SECTION_ICONS[section.id] || BookOpen;
+            const label =
+              sectionLabels[
+                section.id.replace(/-([a-z])/g, (_, c) => c.toUpperCase())
+              ] || section.title;
+            return (
+              <details
+                key={section.id}
+                className="group border border-border rounded-lg"
+              >
+                <summary className="flex items-center gap-3 px-4 py-3 cursor-pointer hover:bg-bg-surface transition-colors duration-150 rounded-lg">
+                  <Icon size={18} strokeWidth={1.5} className="text-text-muted shrink-0" />
+                  <span className="font-[family-name:var(--font-ui)] text-sm font-medium text-text-primary">
+                    {label}
+                  </span>
+                  <span className="text-xs text-text-muted ml-auto">
+                    {section.entries.length}
+                  </span>
+                </summary>
+                <div className="px-4 pb-4 space-y-3">
+                  {section.entries.map((entry, i) => (
+                    <IntroductionEntry
+                      key={`${section.id}-${i}`}
+                      entry={entry}
+                      labelMaps={labelMaps}
+                    />
+                  ))}
+                </div>
+              </details>
+            );
+          })}
+      </div>
+    </div>
+  );
+}

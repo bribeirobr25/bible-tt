@@ -7,10 +7,10 @@
 **Grundtext:** Biblia Hebraica Stuttgartensia, 5. rev. Aufl. (Stuttgart: Deutsche Bibelgesellschaft, 1997)
 **Ausgabe:** Transparente Ausgabe
 **Sprache:** Deutsch
-**Methodik:** 29-Regeln-Governance-System (Regelwerk v2.5)
+**Methodik:** 29-Regeln-Governance-System (Regelwerk v3.0)
 **Gottesname-Politik (Regel 25):** Option A — Konsonantisch (JHWH). In diesem Kapitel nicht ausgelöst (nur Elohim verwendet).
 **Luther-Bibel-Verhältnis:** Option B — Selektive Anerkennung. Übersetzung aus dem Hebräischen nach TT-Regeln; Konvergenzen und Divergenzen mit Luther in Begleitmaterialien dokumentiert.
-**Status:** vorläufig — ausstehende Begutachtung (Regel 28)
+**Status:** provisorisch — ausstehende Begutachtung (Regel 28)
 **Begutachter:** Hebraist: nicht zugewiesen | DE-Redakteur: nicht zugewiesen | Sprachübergreifender Abgleich: nicht zugewiesen
 
 ---
@@ -43,6 +43,16 @@
 
 **Adam ist in diesem gesamten Kapitel Eigenname** (bestätigt bei Gn 4:25; festgelegt bei 5:1).
 
+## KAPITELÜBERSICHT
+
+**Was geschieht:** Die *Toledot* Adams — eine Zehn-Generationen-Genealogie von Adam bis Noach, strukturiert durch eine gesperrte Formel: „X lebte Y Jahre, zeugte Z, lebte W weitere Jahre, zeugte Söhne und Töchter, alle seine Tage waren N Jahre, und er starb." Zwei Einträge durchbrechen die Formel: Chanokh („er war nicht, denn Gott nahm ihn") und Noach (dessen Eintrag in die Fluterzählung überleitet).
+
+**Zentrale Themen:** Das *Sefer Toledot* (Buch der Geschlechterfolgen) — die einzige *Toledot* mit dem Präfix „Buch"; die Bild/Gleichheit-Kette (Gott → Adam → Shet); der unablässige „und er starb"-Refrain; Chanokhs Entrückung — „wandelte mit Gott" und „war nicht"; Noachs Namensetymologie (*nacham*, Trost/Reue); außerordentliche Lebensspannen (365–969 Jahre).
+
+**Achten Sie auf:** Chanokh ist der Siebte von Adam (parallel zu Enmeduranki, dem siebten vorsintflutlichen König in sumerischer Tradition); Chanokh lebt 365 Jahre (Sonnenjahreszahl, kürzeste in der Liste); Metushelachs Todesjahr fällt nach der eigenen Arithmetik des Textes exakt mit dem Flutjahr zusammen; das Kapitel verwendet durchgehend *Elohim*, außer in V.29, wo Lemekhs Rede JHWH nennt.
+
+**Verbindung:** Lemekh benennt Noach mit einer Hoffnung, die an den verfluchten Boden geknüpft ist (5:29, als Echo von 3:17). Die Wurzel *nacham* in Noachs Namen taucht in 6:6 als göttliche „Reue" wieder auf — Trost und Reue teilen eine Wurzel.
+
 ---
 
 ## FORTLAUFENDE LESUNG
@@ -51,7 +61,7 @@
 
 ---
 
-¹Dies *ist* das Buch der Geschlechterfolgen Adams. Am Tag, da Gott *einen* Menschen erschuf, in der Gleichheit Gottes machte er ihn. ²Männlich und weiblich erschuf er sie, und er segnete sie, und er nannte ihren Namen Mensch am Tag, da sie erschaffen wurden. ³Und Adam lebte einhundertunddreißig Jahre, und er zeugte in seiner Gleichheit, nach seinem Bild, und er nannte seinen Namen Shet. ⁴Und die Tage Adams nach *dem, als* er Shet gezeugt hatte, *waren* achthundert Jahre, und er zeugte Söhne und Töchter. ⁵Und alle Tage Adams, die er lebte, *waren* neunhundertunddreißig Jahre, und er starb.
+¹Dies *ist* das Buch der *Toledot* Adams. Am Tag, da Gott *einen* Menschen erschuf, in der Gleichheit Gottes machte er ihn. ²Männlich und weiblich erschuf er sie, und er segnete sie, und er nannte ihren Namen Mensch am Tag, da sie erschaffen wurden. ³Und Adam lebte einhundertunddreißig Jahre, und er zeugte in seiner Gleichheit, nach seinem Bild, und er nannte seinen Namen Shet. ⁴Und die Tage Adams nach *dem, als* er Shet gezeugt hatte, *waren* achthundert Jahre, und er zeugte Söhne und Töchter. ⁵Und alle Tage Adams, die er lebte, *waren* neunhundertunddreißig Jahre, und er starb.
 
 ⁶Und Shet lebte einhundertundfünf Jahre, und er zeugte Enosh. ⁷Und Shet lebte, nachdem er Enosh gezeugt hatte, achthundertundsieben Jahre, und er zeugte Söhne und Töchter. ⁸Und alle Tage Shets *waren* neunhundertundzwölf Jahre, und er starb.
 
@@ -77,12 +87,12 @@
 
 ### **Vers 1**
 
-Dies *ist* das Buch der Geschlechterfolgen Adams. Am Tag, da Gott *einen* Menschen erschuf, in der Gleichheit Gottes machte er ihn.
+Dies *ist* das Buch der *Toledot* Adams. Am Tag, da Gott *einen* Menschen erschuf, in der Gleichheit Gottes machte er ihn.
 
 > **📝 NOTIZEN**
 >
 > 🔴 **TOLEDOT-FORMEL KEHRT ZURÜCK**
-> - **סֵפֶר תּוֹלְדֹת אָדָם** (*sefer toledot Adam*) = „das Buch der Geschlechterfolgen Adams." Zweite *Toledot*-Markierung in Genesis (erste bei 2:4). Diese fügt **סֵפֶר** (*sefer*, „Buch/Dokument") hinzu — die einzige *Toledot* mit diesem Präfix. Signalisiert eine strukturierte schriftliche Aufzeichnung.
+> - **סֵפֶר תּוֹלְדֹת אָדָם** (*sefer toledot Adam*) = „das Buch der *Toledot* Adams." Zweite *Toledot*-Markierung in Genesis (erste bei 2:4). Diese fügt **סֵפֶר** (*sefer*, „Buch/Dokument") hinzu — die einzige *Toledot* mit diesem Präfix. Signalisiert eine strukturierte schriftliche Aufzeichnung.
 >
 > 🔴 **KRITISCH — ADAM IST NUN EIGENNAME**
 > - **אָדָם** (*Adam*) — artikellos (ohne Artikel), genealogischer Kontext. Eigenname ab diesem Vers festgelegt (gemäß Redaktionsprotokoll Eintrag 081). Derselbe Vers verwendet dann „Mensch" (*adam*) generisch im Schöpfungserinnerungssatz: „am Tag, da Gott *einen* Menschen erschuf."

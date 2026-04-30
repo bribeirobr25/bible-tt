@@ -7,7 +7,7 @@
 **Base Text:** Biblia Hebraica Stuttgartensia, 5th rev. ed. (Stuttgart: Deutsche Bibelgesellschaft, 1997)
 **Edition:** Transparent Edition
 **Language:** English
-**Methodology:** 29-Rule Governance System (Ruleset v2.5)
+**Methodology:** 29-Rule Governance System (Ruleset v3.0)
 **Divine Name Policy (Rule 25):** Option A — Consonantal (YHWH).
 **Status:** provisional — pending reviewer sign-off (Rule 28)
 **Reviewers:** Hebraist: unassigned | EN editor: unassigned | Cross-alignment: unassigned
@@ -31,7 +31,7 @@
 ***Italics:*** Words added for English grammar (not in Hebrew text)
 **"Quotes":** Direct divine speech
 **YHWH:** Tetragrammaton rendered consonantally (Rule 25, Option A)
-**tebah, mabbul:** Transliterated Hebrew terms (explained in notes)
+**tebah:** Transliterated Hebrew term for ark/vessel (explained in notes). *Mabbul* is the Hebrew term rendered as "flood."
 
 **Note Icons:**
 - 🔴 **CRITICAL** - Major textual or translation decisions
@@ -40,6 +40,18 @@
 - 🟡 **THEOLOGICAL** - Interpretive options, ambiguity preservation
 
 **This chapter narrates the entry into the tebah and the onset of the flood.** The tension between "two from all" (6:19) and "seven seven" of clean animals (7:2) is preserved without harmonization per Rule 22. The cosmological mechanism — fountains of the deep and windows of the sky — reverses the Day 2 separation of waters (Gen 1:6–7). Divine name distribution shifts between YHWH and Elohim within the chapter.
+
+---
+
+## CHAPTER OVERVIEW
+
+**What happens:** YHWH commands Noach to enter the *tebah* with his family and the animals — clean animals by sevens, others by twos. After seven days, the flood begins: fountains of the deep burst open and the windows of the sky open. Waters rise for 40 days, covering all high mountains. Every land-breathing creature outside the *tebah* dies. Waters prevail for 150 days.
+
+**Key themes:** Clean/unclean distinction predating Sinai; the flood as cosmological reversal — waters above and below the *raqia* (Day 2) reunite; the *mabbul* (flood — a word used only for this event); specific calendar dates throughout; YHWH closes the door (7:16 — Noach does not seal himself in); total destruction of land life.
+
+**Watch for:** "Seven seven" for clean animals (7:2) after "two from all" (6:19–20) — the TT preserves both without harmonization; the flood dates create a precise chronology spanning one solar year; "YHWH closed behind him" (7:16) — the divine name appears at the moment of sealing; the phrase "all the high mountains under all the skies" (7:19) — the text's own scope claim.
+
+**Connection:** The flood mechanism (7:11) precisely reverses Genesis 1:6–7 (the *raqia* separating waters). Chapter 8 will reverse the flood, re-establishing Day 2's separation.
 
 ---
 

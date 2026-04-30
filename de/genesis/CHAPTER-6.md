@@ -7,10 +7,10 @@
 **Grundtext:** Biblia Hebraica Stuttgartensia, 5. rev. Aufl. (Stuttgart: Deutsche Bibelgesellschaft, 1997)
 **Ausgabe:** Transparente Ausgabe
 **Sprache:** Deutsch
-**Methodik:** 29-Regeln-Governance-System (Regelwerk v2.5)
+**Methodik:** 29-Regeln-Governance-System (Regelwerk v3.0)
 **Gottesname-Politik (Regel 25):** Option A — Konsonantisch (JHWH).
 **Luther-Bibel-Verhältnis:** Option B — Selektive Anerkennung. Übersetzung aus dem Hebräischen nach TT-Regeln; Konvergenzen und Divergenzen mit Luther in Begleitmaterialien dokumentiert.
-**Status:** vorläufig — ausstehende Begutachtung (Regel 28)
+**Status:** provisorisch — ausstehende Begutachtung (Regel 28)
 **Begutachter:** Hebraist: nicht zugewiesen | DE-Redakteur: nicht zugewiesen | Sprachübergreifender Abgleich: nicht zugewiesen
 
 ---
@@ -42,6 +42,16 @@
 
 **Dieses Kapitel enthält einige der umstrittensten Passagen der Genesis.** Die TT bewahrt jede Mehrdeutigkeit, die das Hebräische bewahrt. „Söhne Gottes/der Götter" wird gemäß Regel 2 mit Schrägstrich versehen. „Nephilim" wird gemäß Regel 4 transliteriert. Die Spannungen der Fluterzählung (je zwei gegen sieben Paare) werden so wiedergegeben, wie der MT sie liest, ohne Harmonisierung (Regel 22).
 
+## KAPITELÜBERSICHT
+
+**Was geschieht:** Die „Söhne Gottes/der Götter" (*bene ha-elohim*) nehmen Menschentöchter zu Frauen. JHWH begrenzt die menschliche Lebensspanne auf 120 Jahre. Die Nephilim sind auf dem Land. JHWH sieht die totale menschliche Bosheit, bereut die Erschaffung der Menschheit und beschließt die Vernichtung. Doch Noach findet Gunst. Gott weist Noach an, eine *Tebah* (Kasten/Arche) mit bestimmten Maßen zu bauen, kündigt die Flut an, richtet den ersten Bund (*Berit*) auf und gebietet Noach, Tiere an Bord zu bringen.
+
+**Zentrale Themen:** Die *bene ha-elohim* — dreifache Mehrdeutigkeit bewahrt (göttliche Wesen, Herrscher, sethitische Linie); die Nephilim (transliteriert, nicht „Riesen"); *yadon* — ein genuines Unsicherheitsverb (verbleiben/streiten); göttliche Reue (*nacham* — dieselbe Wurzel wie Noachs Name); „Gott sah" verkehrt (Schöpfung: „sah, dass gut" → hier: „sah, dass groß war die Bosheit"); *chamas* (Gewalt) als benannte Sünde; die *Tebah* als versiegelter Behälter, nicht als Schiff; das Wortspiel *kopher/kippur* (Pech/Sühne).
+
+**Achten Sie auf:** Die Vernichtungsreihenfolge (6:7) kehrt die Schöpfungsreihenfolge um; JHWH erscheint in VV.1–8 (emotional, relational), Elohim in VV.9–22 (belehrend, bundesbezogen); das erste Vorkommen von *Berit* (Bund) in der Bibel — angekündigt bevor seine Bedingungen offenbart werden; „zwei von allem" (6:19) versus „sieben Paare" der reinen Tiere (7:2) — eine innertextliche Spannung, die die TT bewahrt.
+
+**Verbindung:** Die Wurzel *nacham* verknüpft 5:29 (Noach = Trost) mit 6:6 (JHWH bereute). Die Flut kehrt die Wassertrennung des zweiten Tages (1:6–7) um und macht die Flut zu einem Ent-Schöpfungsereignis, das in Kapitel 7–8 fortgesetzt wird.
+
 ---
 
 ## FORTLAUFENDE LESUNG
@@ -54,7 +64,7 @@
 
 ⁵Und JHWH sah, dass groß *war* die Bosheit des Menschen auf dem Land, und jede Neigung der Gedanken seines Herzens *war* nur böse den ganzen Tag. ⁶Und JHWH bereute, dass er den Menschen auf dem Land gemacht hatte, und es bekümmerte ihn zu seinem Herzen. ⁷Und JHWH sprach: „Ich werde den Menschen, den ich erschaffen habe, auslöschen von auf dem Angesicht des Bodens, vom Menschen bis zum Vieh, bis zum Kriechenden, bis zum Vogel des Himmels, denn ich bereue, dass ich sie gemacht habe." ⁸Aber Noach fand Gunst in den Augen JHWHs.
 
-⁹Dies *sind* die Geschlechterfolgen Noachs. Noach *war* ein gerechter Mann, untadelig in seinen Geschlechtern; mit Gott wandelte Noach. ¹⁰Und Noach zeugte drei Söhne: Shem, Cham und Yafet. ¹¹Und das Land war verderbt vor Gott, und das Land war erfüllt mit Gewalt. ¹²Und Gott sah das Land, und siehe, es war verderbt, denn alles Fleisch hatte seinen Weg verderbt auf dem Land. ¹³Und Gott sprach zu Noach: „Das Ende alles Fleisches ist vor mich gekommen, denn das Land ist erfüllt mit Gewalt um ihretwillen, und siehe, ich *bin am* Vernichten von ihnen mit dem Land.
+⁹Dies *sind* die *Toledot* Noachs. Noach *war* ein gerechter Mann, untadelig in seinen Geschlechtern; mit Gott wandelte Noach. ¹⁰Und Noach zeugte drei Söhne: Shem, Cham und Yafet. ¹¹Und das Land war verderbt vor Gott, und das Land war erfüllt mit Gewalt. ¹²Und Gott sah das Land, und siehe, es war verderbt, denn alles Fleisch hatte seinen Weg verderbt auf dem Land. ¹³Und Gott sprach zu Noach: „Das Ende alles Fleisches ist vor mich gekommen, denn das Land ist erfüllt mit Gewalt um ihretwillen, und siehe, ich *bin am* Vernichten von ihnen mit dem Land.
 
 ¹⁴Mache dir eine Tebah aus Gofer-Holz; Räume sollst du machen *in* der Tebah, und du sollst sie bedecken innen und außen mit Kofer. ¹⁵Und dies *ist, wie* du sie machen sollst: dreihundert Ellen die Länge der Tebah, fünfzig Ellen ihre Breite und dreißig Ellen ihre Höhe. ¹⁶Einen Tsohar sollst du machen für die Tebah, und auf eine Elle sollst du ihn abschließen von oben, und die Tür der Tebah sollst du in ihre Seite setzen; unteres, zweites und drittes *Stockwerk* sollst du sie machen.
 
@@ -172,12 +182,12 @@ Aber Noach fand Gunst in den Augen JHWHs.
 
 ### **Vers 9**
 
-Dies *sind* die Geschlechterfolgen Noachs. Noach *war* ein gerechter Mann, untadelig in seinen Geschlechtern; mit Gott wandelte Noach.
+Dies *sind* die *Toledot* Noachs. Noach *war* ein gerechter Mann, untadelig in seinen Geschlechtern; mit Gott wandelte Noach.
 
 > **📝 NOTIZEN**
 >
 > 🔴 **TOLEDOT-FORMEL — DRITTES AUFTRETEN**
-> - **אֵלֶּה תּוֹלְדוֹת נֹחַ** = „Dies sind die Geschlechterfolgen Noachs." Dritte *Toledot*-Markierung (2:4, 5:1, 6:9).
+> - **אֵלֶּה תּוֹלְדוֹת נֹחַ** = „Dies sind die *Toledot* Noachs." Dritte *Toledot*-Markierung (2:4, 5:1, 6:9).
 >
 > 🟢 **„GERECHT" UND „UNTADELIG"**
 > - **צַדִּיק** (*tsaddiq*) = gerecht. **תָּמִים** (*tamim*) = untadelig/ganz/vollständig. Erste Verwendung beider Begriffe für einen Menschen. „In seinen Geschlechtern" — mehrdeutig: (1) unter seinen Zeitgenossen (relative Gerechtigkeit); (2) während seines ganzen Lebens. Beide MÖGLICH.

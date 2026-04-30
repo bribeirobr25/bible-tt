@@ -10,8 +10,8 @@
 **Chapter:** Genesis 8
 **Language:** English
 **Companion to:** `en/genesis/CHAPTER-8.md` (Transparent Edition)
-**Ruleset:** v2.5 (Rule 29 governs this file)
-**Status:** draft
+**Ruleset:** v3.0 (Rule 29 governs this file)
+**Status:** provisional
 
 ---
 
@@ -144,6 +144,8 @@ The olive (*zayit*) is native to the eastern Mediterranean and thrives in the Le
 
 Gen 8:20: Noach builds the first *mizbeach* (altar) in the biblical narrative. The earliest archaeological evidence of structured sacrificial installations in the Near East dates to the Pre-Pottery Neolithic (c. 9000-7000 BCE). Open-air altars made of unhewn stone are the simplest and oldest form.
 
+**Source:** Mazar, A., *Archaeology of the Land of the Bible: 10,000–586 B.C.E.*, Doubleday, 1990.
+
 ---
 
 ## D. Linguistic and Philological Deep Dives
@@ -157,6 +159,15 @@ Gen 8:21: רֵיחַ הַנִּיחֹחַ (*reach ha-nichoach*). The word *nicho
 **[TEXTUAL — VERIFIED]**
 
 Gen 8:9: "the dove did not find a *manoach* for the sole of her foot." *Manoach* = resting place, from root n-w-ch. The dove seeks a "Noach-place" and cannot find one. The wordplay is dense: the man named Rest (*Noach*) sends a bird that cannot find rest (*manoach*) in a world where the vessel has rested (*tanach*) but the ground has not yet dried.
+
+---
+
+## E. Scientific Correspondence and Non-Correspondence
+
+### E1. Post-flood ecological recovery — the olive leaf
+**[SCIENTIFIC COMPARISON — POSSIBLE]**
+
+Genesis 8:11 states the dove returned with "a freshly plucked olive leaf (*aleh zayit taraf*) in its mouth." In post-catastrophic ecology, vegetation recovery follows a predictable succession: pioneer species (grasses, weeds) appear first, followed by shrubs, then trees. Olive trees (*Olea europaea*) are notably resilient — they can regenerate from root stock even after severe damage, including flooding, and produce new shoots within months. The olive is also salt-tolerant. If the narrative reflects regional Mesopotamian flooding, the olive leaf is a botanically plausible early sign of recovery. The text uses the olive leaf as a sign that "the waters had lightened from upon the land" (8:11) — a narrative marker, not a botanical report. The correspondence with olive biology is observable but incidental to the text's purpose.
 
 ---
 
@@ -183,6 +194,16 @@ Divine interior monologue is a recognized literary convention in ANE texts. In t
 **[TEXTUAL — PROBABLE]**
 
 The flood begins on Month 2, Day 17 (7:11) and the earth is fully dry on Month 2, Day 27 (8:14) — roughly one solar year (370-371 days). Some scholars argue this exactly fits a 364-day calendar (known from Jubilees and 1 Enoch) plus adjustments. Whether the chronology is historical, literary, or liturgical, the near-exact-year framing is a structural feature of the narrative.
+
+### G5. "Never again" — divine self-limitation as an ethical concept
+**[POSSIBLE INFERENCE — PROBABLE]**
+
+Genesis 8:21–22 presents YHWH making an internal commitment ("said in his heart") never again to curse the ground or strike all life because of humanity — and the stated reason is startling: "for the inclination of the human heart is evil from his youth." The same diagnosis that prompted destruction (6:5) now prompts restraint. In philosophical theology, this is a case of divine self-limitation: God voluntarily constrains future action, accepting the flawed condition rather than repeatedly destroying. This raises questions explored in process theology and theodicy: Can the divine change strategy? Does this represent learning, compassion, or sovereign freedom? The text does not resolve these questions — it presents the reversal ("evil inclination" as reason to destroy becomes "evil inclination" as reason to forbear) and lets the paradox stand.
+
+### G6. Raven and dove as scouts — ornithological behavior
+**[SCIENTIFIC COMPARISON — POSSIBLE]**
+
+Genesis 8:6–12 sends two birds: the raven (*orev*) "went out, going and returning" (8:7) without resolution; the dove (*yonah*) returns finding no rest (8:8–9), then returns with an olive leaf (8:10–11), then does not return (8:12). In ornithology, ravens (*Corvus corax*) are omnivorous scavengers capable of feeding on floating carrion and debris — they can survive without dry land. Doves (*Columba*) are granivorous and require dry ground with vegetation for food. The different behavior of each bird — the raven sustaining itself over water, the dove needing land — aligns with their actual ecological niches. Ancient Near Eastern parallels show similar bird-sending motifs (Gilgamesh XI sends dove, swallow, raven), suggesting a shared narrative tradition. Whether the Genesis author knew bird ecology empirically, inherited the motif from tradition, or both, the text selects birds whose real behavior matches their narrative function.
 
 ---
 

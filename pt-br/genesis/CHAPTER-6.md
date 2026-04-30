@@ -7,7 +7,7 @@
 **Texto Base:** Biblia Hebraica Stuttgartensia, 5ª ed. rev. (Stuttgart: Deutsche Bibelgesellschaft, 1997)
 **Edição:** Edição Transparente
 **Idioma:** Português Brasileiro
-**Metodologia:** Sistema de Governança de 29 Regras (Conjunto de Regras v2.5)
+**Metodologia:** Sistema de Governança de 29 Regras (Conjunto de Regras v3.0)
 **Política do Nome Divino (Regra 25):** Opção A — Consonantal (YHWH).
 **Status:** provisório — aguardando revisão por pares (Regra 28)
 **Revisores:** Hebraísta: não atribuído | Editor PT: não atribuído | Alinhamento cruzado: não atribuído
@@ -40,6 +40,16 @@
 - 🟡 **TEOLÓGICO** - Opções interpretativas, preservação de ambiguidade
 
 **Este capítulo contém algumas das passagens mais contestadas de Gênesis.** A TT preserva toda ambiguidade que o hebraico preserva. "Filhos de Deus/dos deuses" é apresentado com barra conforme Regra 2. "Nephilim" é transliterado conforme Regra 4. As tensões da narrativa do dilúvio (dois de cada vs. sete pares) são apresentadas como o TM as lê, sem harmonização (Regra 22).
+
+## VISÃO GERAL DO CAPÍTULO
+
+**O que acontece:** Os "filhos de Deus/dos deuses" (*bene ha-elohim*) tomam mulheres humanas. YHWH limita a vida humana a 120 anos. Os nephilim estão sobre a terra. YHWH vê a maldade total do humano, arrepende-se de ter feito a humanidade e resolve destruir. Mas Noach encontra favor. Deus instrui Noach a construir uma *tebah* (caixa/arca) com dimensões específicas, anuncia o dilúvio, estabelece a primeira aliança (*berit*) e ordena a Noach trazer animais a bordo.
+
+**Temas-chave:** Os *bene ha-elohim* — tripla ambiguidade preservada (seres divinos, governantes, linhagem setita); os nephilim (transliterado, não "gigantes"); *yadon* — verbo genuinamente incerto (permanecer/contender); arrependimento divino (*nacham* — mesma raiz do nome de Noach); "Deus viu" invertido (criação: "viu que bom"; aqui: "viu que grande era a maldade"); *chamas* (violência) como o pecado nomeado; a *tebah* como recipiente selado, não um navio; jogo de palavras *kopher/kippur* (betume/expiação).
+
+**Observe:** A ordem de destruição (6:7) inverte a ordem da criação; YHWH aparece nos vv.1–8 (emocional, relacional), Elohim nos vv.9–22 (instrucional, aliancístico); a primeira ocorrência de *berit* (aliança) na Bíblia — anunciada antes de seus termos serem revelados; "dois de todos" (6:19) vs. "sete pares" de animais limpos (7:2) — uma tensão interna que a TT preserva.
+
+**Conexão:** A raiz *nacham* liga 5:29 (Noach = conforto) a 6:6 (YHWH se arrependeu). O dilúvio reverte a separação das águas do Dia 2 (1:6–7), fazendo do dilúvio um evento de des-criação continuado nos Capítulos 7–8.
 
 ---
 

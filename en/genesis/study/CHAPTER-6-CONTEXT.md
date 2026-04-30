@@ -10,8 +10,8 @@
 **Chapter:** Genesis 6
 **Language:** English
 **Companion to:** `en/genesis/CHAPTER-6.md` (Transparent Edition)
-**Ruleset:** v2.5 (Rule 29 governs this file)
-**Status:** draft
+**Ruleset:** v3.0 (Rule 29 governs this file)
+**Status:** provisional
 
 ---
 
@@ -20,17 +20,17 @@
 ### A1. "Sons of God/the gods" — triple ambiguity preserved
 **[TEXTUAL — VERIFIED]**
 
-The TT renders *bene ha-elohim* with a slash: "sons of God/the gods." This preserves three major readings: (1) divine/angelic beings (cf. Job 1:6, 2:1, 38:7); (2) rulers/nobles claiming divine status; (3) Sethite godly line. The Hebrew text supports all three; the TT does not choose.
+The TT renders *bene ha-elohim* with a slash: "sons of God/the gods." This preserves three major readings: (1) divine or angelic beings (compare Job 1:6, 2:1, 38:7); (2) rulers or nobles claiming divine status; (3) the godly line of Seth. The Hebrew text supports all three; the TT does not choose.
 
 ### A2. Nephilim transliterated — not "giants"
 **[TEXTUAL — VERIFIED]**
 
-The TT keeps *nephilim* as a transliteration per Rule 4. "Giants" imports the LXX translation (*gigantes*) which itself meant "earth-born" in Greek, not "tall." The Hebrew root *n-p-l* (fall) may or may not be the actual etymology. The text does NOT say the nephilim are the offspring of the bene-elohim union — it says they were "on the land in those days, and also afterward."
+The TT keeps *nephilim* as a transliteration per Rule 4. "Giants" comes from the ancient Greek translation (the Septuagint), which used *gigantes* — a word that originally meant "earth-born," not "tall." The Hebrew root *n-p-l* (fall) may or may not be the actual origin of the word. The text does NOT say the nephilim are the offspring of the sons-of-God union — it says they were "on the land in those days, and also afterward."
 
 ### A3. *yadon* — genuinely uncertain verb
 **[TEXTUAL — UNCERTAIN]**
 
-Genesis 6:3: "My spirit shall not *yadon* in the human forever." The verb is genuinely UNCERTAIN. Root debated: דון (remain/abide) or דין (judge/contend). The TT renders "remain/contend" with slash.
+Genesis 6:3: "My spirit shall not *yadon* in the human forever." The verb is genuinely UNCERTAIN. Scholars disagree on the root word: it could come from דון (remain/abide) or דין (judge/contend). The TT renders "remain/contend" with a slash to preserve both possibilities.
 
 ### A4. Divine regret — *nacham* root returns
 **[TEXTUAL — VERIFIED]**
@@ -45,23 +45,23 @@ Gen 1: "God saw that good" (6×). Gen 6:5: "YHWH saw that great was the evil." G
 ### A6. Destruction reverses creation order
 **[TEXTUAL — VERIFIED]**
 
-Gen 6:7: "from human to livestock to creeping thing to bird of the sky." Gen 1 creation order: plants (Day 3) → sea creatures and birds (Day 5) → land animals and humans (Day 6). The destruction order in 6:7 runs backward through the creation sequence.
+Gen 6:7: "from human to livestock to creeping thing to bird of the sky." In Gen 1, creation goes forward: plants (Day 3) → sea creatures and birds (Day 5) → land animals and humans (Day 6). The destruction order in 6:7 runs backward through that same sequence.
 
 ### A6b. The flood as water-reunion — undoing Day 2
 **[TEXTUAL — VERIFIED]**
 
-Genesis 7:11 (previewed here because the mechanism is established in Gen 6:17): "all the fountains of the great deep (*tehom rabbah*) burst open, and the windows of the sky were opened." This **precisely reverses** Genesis 1:6–7, where the raqia was placed to separate waters above from waters below.
+Genesis 7:11 (previewed here because the mechanism is established in Gen 6:17): "all the fountains of the great deep (*tehom rabbah*) burst open, and the windows of the sky were opened." This **precisely reverses** Genesis 1:6–7, where the raqia (the solid dome of the sky) was placed to separate waters above from waters below.
 
-The flood is not merely rising water — it is the **undoing of Day 2's cosmic separation**. The waters that were divided in creation are reunited in destruction. The *tehom* (the deep, present since 1:2) reasserts itself. The sky-windows (holding back the waters above the raqia) are opened. The entire water-envelope cosmology of Genesis 1 is structurally relevant: the flood works BY reversing the raqia separation.
+The flood is not merely rising water — it is the **undoing of Day 2's cosmic separation**. The waters that were divided at creation are reunited in destruction. The *tehom* (the deep, present since 1:2) breaks through from below. The sky-windows (holding back the waters above the raqia) are opened from above. The entire water-boundary structure of Genesis 1 is directly relevant: the flood works BY reversing the raqia separation.
 
 Then Genesis 8:2: "the fountains of the deep and the windows of the sky were stopped" — Day 2's separation is **re-established**. The flood narrative is structurally a de-creation and re-creation of the cosmic water-boundary.
 
 This is different from the "creation reversal" in A5–A6 (which tracks the evaluation inversion and destruction order). This entry tracks the **specific water-mechanism**: the same cosmological structure the TT preserves through transliterating *raqia* and rendering "waters above/below" literally is the structure the flood dismantles and rebuilds.
 
-### A7. First covenant (*berit*) — proleptically stated
+### A7. First covenant (*berit*) — announced before its terms
 **[TEXTUAL — VERIFIED]**
 
-Genesis 6:18: "I will establish my covenant (*beriti*) with you." First occurrence of *berit* in the Bible. The TT flags this with 🔴 CRITICAL. Remarkably, the covenant is announced **before** its terms are disclosed (those come at 9:8-17). God commits before explaining.
+Genesis 6:18: "I will establish my covenant (*beriti*) with you." This is the first time the word *berit* (covenant, a binding agreement) appears in the Bible. The TT flags this with 🔴 CRITICAL. Remarkably, the covenant is announced **before** its terms are laid out (those come at 9:8-17). God commits before explaining.
 
 ### A8. "Two from all" vs. "seven pairs" — tension preserved
 **[TEXTUAL — VERIFIED]**
@@ -90,14 +90,14 @@ vv.1-8: **YHWH** (narrator describes divine emotional response — regret, grief
 ### B1. "Sons of God" and the divine council
 **[COMPARATIVE PARALLEL — VERIFIED]**
 
-*Bene elohim* has exact parallels in Ugaritic (*b'n il*, "sons of El") and Phoenician texts, referring to members of the divine council. Psalm 82 depicts God presiding over an assembly of *elohim*: "I said, 'You are gods, sons of the Most High'" (Ps 82:6). The divine-council framework is well-attested across the ANE.
+*Bene elohim* has exact parallels in Ugaritic (*b'n il*, "sons of El") and Phoenician texts, where the phrase refers to members of a divine council — a heavenly assembly of gods. Psalm 82 depicts God presiding over just such an assembly: "I said, 'You are gods, sons of the Most High'" (Ps 82:6). The divine-council concept is widely found across the ancient Near East.
 
 **Source:** Smith, M.S., *The Origins of Biblical Monotheism*, Oxford, 2001; Heiser, M., *The Unseen Realm*, Lexham, 2015.
 
 ### B2. Nephilim and the Watchers tradition
 **[COMPARATIVE PARALLEL — VERIFIED]**
 
-The nephilim tradition is extensively developed in Second Temple literature:
+The nephilim tradition is extensively developed in Jewish writings from the centuries before and around the time of Jesus:
 - **1 Enoch 6-16 (Book of Watchers, 3rd c. BCE):** 200 angels (Watchers) descend on Mount Hermon, take human wives, produce giant offspring
 - **Book of Giants** (Dead Sea Scrolls, discovered by Milik, 1971): giant-sons receive prophetic dreams of destruction, consult Enoch
 - **Book of Jubilees 7:21-25:** ridding the earth of nephilim as divine purpose for the flood
@@ -135,7 +135,7 @@ The near-identical deck areas (~4% difference) across all three traditions sugge
 ## C. Historical and Archaeological Context
 
 ### C1. Archaeological flood evidence
-**[HISTORICAL / ARCHAEOLOGICAL — PROBABLE for local floods]**
+**[HISTORICAL / ARCHAEOLOGICAL — PROBABLE]**
 
 - **Woolley at Ur (1929):** Clean flood layer below habitation, c. 3500 BCE — too early and localized to be "the" flood
 - **Schmidt at Shuruppak (1931):** Flood layer above Jemdet Nasr remains, c. 2900 BCE — significant because Shuruppak is the home city of Ziusudra in Sumerian tradition
@@ -150,7 +150,7 @@ Multiple scholars conclude the flood traditions likely originate in devastating 
 ### C2. Covenant (*berit*) in ANE treaty traditions
 **[HISTORICAL / ARCHAEOLOGICAL — VERIFIED]**
 
-Mendenhall (1954) demonstrated biblical covenants parallel Hittite suzerainty treaties (2nd millennium BCE): preamble, historical prologue, stipulations, deposit provisions, witnesses, blessings/curses. Gen 6:18 initiates the covenant concept; Gen 9:8-17 develops it with rainbow sign.
+Mendenhall (1954) showed that biblical covenants follow the same structure as Hittite treaties between a great king and a lesser ruler (2nd millennium BCE): preamble, historical background, terms, storage instructions, witnesses, blessings/curses. Gen 6:18 initiates the covenant concept; Gen 9:8-17 develops it with rainbow sign.
 
 **Source:** Mendenhall, G., "Covenant Forms in Israelite Tradition," *BA* 17 (1954).
 
@@ -161,17 +161,39 @@ Mendenhall (1954) demonstrated biblical covenants parallel Hittite suzerainty tr
 ### D1. *Yetser* — inclination (first occurrence)
 **[TEXTUAL — VERIFIED]**
 
-Gen 6:5: **יֵצֶר** (*yetser*) = "inclination, formation" (from root *y-ts-r*, same as *yatzar* = "form"). First occurrence. This word later becomes the Rabbinic concept *yetzer ha-ra* (evil inclination) — a fundamental concept in Jewish anthropology. Here it describes the totality of human moral orientation: "every inclination of the thoughts of his heart was only evil all the day."
+Gen 6:5: **יֵצֶר** (*yetser*) = "inclination, bent, formation" (from the root *y-ts-r*, the same root as *yatzar* = "to form/shape"). This is the word's first appearance. It later becomes the basis for the rabbinic concept *yetzer ha-ra* (the evil inclination) — a key idea in Jewish thinking about human nature. Here it describes the full direction of human moral life: "every inclination of the thoughts of his heart was only evil all the day."
 
 ### D2. *Chamas* — violence as named sin
 **[TEXTUAL — VERIFIED]**
 
-Gen 6:11,13: **חָמָס** (*chamas*) = violence, wrongdoing. This is the specific sin named for the pre-flood generation — not idolatry, not sexual immorality, but *chamas*. The word implies active injustice and oppression, not passive corruption.
+Gen 6:11,13: **חָמָס** (*chamas*) = violence, wrongdoing. This is the specific sin named for the generation before the flood — not idolatry, not sexual immorality, but *chamas*. The word points to active injustice and oppression, not just general moral decay.
 
 ### D3. *Gopher* — the only unknown wood
 **[TEXTUAL — UNCERTAIN]**
 
-**גֹּפֶר** (*gopher*) appears only at Gen 6:14. No certain identification. Proposals: cypress (based on phonetic similarity to Greek *kuparissos*), cedar, or an extinct species. The TT transliterates per Rule 4 — any translation would be a guess.
+**גֹּפֶר** (*gopher*) appears only at Gen 6:14. No one knows what wood this is. Suggestions include cypress (because it sounds somewhat like the Greek word *kuparissos*), cedar, or a species that no longer exists. The TT keeps the Hebrew word untranslated per Rule 4 — any translation would be a guess.
+
+---
+
+## E. Scientific Correspondence and Non-Correspondence
+
+### E1. "The land was filled with violence" — anthropological perspectives
+**[SCIENTIFIC COMPARISON — POSSIBLE]**
+
+Genesis 6:11–13 states the land was "filled with violence (*chamas*)" and this violence is the stated reason for destruction. Archaeological and anthropological evidence for violence in early civilizations is extensive: skeletal remains from early societies show that violent death accounted for 15–25% of deaths in some populations (Keeley, *War Before Civilization*, 1996; Pinker, *The Better Angels of Our Nature*, 2011, ch. 2). Defensive walls appear among the earliest large-scale buildings (Jericho, c. 8000 BCE). The text presents violence as something that fills the entire created order ("all flesh had corrupted its way"), not merely as isolated acts. Whether this describes a historical reality, a theological principle about what happens when human violence goes unchecked, or both, is the reader's judgment. The evidence from early human societies confirms that widespread violence is not a literary invention.
+
+**Source:** Keeley, L.H., *War Before Civilization*, Oxford, 1996; Pinker, S., *The Better Angels of Our Nature*, Viking, 2011.
+
+---
+
+## F. Later Reception in Other Traditions
+
+### F_. The Watchers tradition
+**[LATER RECEPTION — DOCUMENTED]**
+
+Genesis 6:1-4 is famously puzzling. *1 Enoch*'s Book of the Watchers (chapters 1-36, ~3rd c. BCE) is the most influential ancient expansion. It identifies the *bene ha-elohim* as 200 fallen angels led by Shemyaza and Azazel, who descend to Mount Hermon, take human wives, father the *nephilim* as giants, and teach humans forbidden knowledge. This reading dominated Jewish interpretation in the centuries before Jesus and is reflected in the New Testament: Jude 6 ("angels who did not stay within their proper position"), 2 Peter 2:4 ("God did not spare angels when they sinned"), and Jude 14-15 quoting *1 Enoch* 1:9 directly. The reading was accepted by early Christian writers (Tertullian, Clement, Justin Martyr) but was largely replaced in Western Christianity by Augustine's "Sethite" interpretation (which reads "sons of God" as the godly line of Seth). It remained authoritative in Eastern Christianity, where *1 Enoch* is part of the accepted scriptures of the Ethiopian Orthodox Church. The TT translates Genesis 6:1-4 as the Hebrew stands, preserving the ambiguity per Rule 2.
+
+**Source:** Nickelsburg, G.W.E. & VanderKam, J.C., *1 Enoch*, Fortress Press, 2004 (PEER-REVIEWED); Reed, A.Y., *Fallen Angels*, Cambridge, 2005 (PEER-REVIEWED); Wright, A.T., *The Origin of Evil Spirits*, Mohr Siebeck, 2005 (PEER-REVIEWED).
 
 ---
 
@@ -180,7 +202,7 @@ Gen 6:11,13: **חָמָס** (*chamas*) = violence, wrongdoing. This is the speci
 ### G1. Noach/chen — reverse spelling?
 **[TEXTUAL — POSSIBLE]**
 
-Genesis 6:8: "Noach (*nun-chet*) found chen (*chet-nun*) in the eyes of YHWH." The name and "favor/grace" are reverse spellings of each other. Whether this is deliberate wordplay or coincidence is POSSIBLE but unprovable.
+Genesis 6:8: "Noach (*nun-chet*) found chen (*chet-nun*) in the eyes of YHWH." The name and the word for "favor/grace" are spelled with the same two Hebrew letters in reverse order. Whether this is deliberate wordplay or coincidence is POSSIBLE but unprovable.
 
 ### G2. Noach's silence
 **[TEXTUAL — VERIFIED]**
@@ -195,7 +217,7 @@ Gen 6:3: "his days shall be 120 years." Two readings: (1) future human lifespan 
 ### G4. Were the nephilim the offspring?
 **[TEXTUAL — UNCERTAIN]**
 
-The text says: "The nephilim were on the land in those days, **and also afterward**, when the sons of God/the gods came to the daughters of the human, and they bore to them." The "and also afterward" and the syntactic structure make the relationship between the nephilim and the divine-human union **genuinely unclear**. They may be the same, they may be separate groups that coexisted. The text does not resolve this.
+The text says: "The nephilim were on the land in those days, **and also afterward**, when the sons of God/the gods came to the daughters of the human, and they bore to them." The phrase "and also afterward" and the sentence structure make the relationship between the nephilim and the divine-human union **genuinely unclear**. They may be the same, they may be separate groups that coexisted. The text does not resolve this.
 
 ---
 

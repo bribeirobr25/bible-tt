@@ -7,7 +7,7 @@
 **Texto Base:** Biblia Hebraica Stuttgartensia, 5ª ed. rev. (Stuttgart: Deutsche Bibelgesellschaft, 1997)
 **Edição:** Edição Transparente
 **Idioma:** Português Brasileiro
-**Metodologia:** Sistema de Governança de 29 Regras (Conjunto de Regras v2.5)
+**Metodologia:** Sistema de Governança de 29 Regras (Conjunto de Regras v3.0)
 **Política do Nome Divino (Regra 25):** Opção A — Consonantal (YHWH).
 **Status:** provisório — aguardando revisão por pares (Regra 28)
 **Revisores:** Hebraísta: não atribuído | Editor PT: não atribuído | Alinhamento cruzado: não atribuído
@@ -40,6 +40,16 @@
 - 🟡 **TEOLÓGICO** - Opções interpretativas, preservação de ambiguidade
 
 **Este capítulo narra a entrada na tebah e o início do dilúvio.** A tensão entre "dois de todos" (6:19) e "sete sete" de animais limpos (7:2) é preservada sem harmonização conforme Regra 22. O mecanismo cosmológico — fontes do abismo e janelas do céu — reverte a separação das águas do Dia 2 (Gn 1:6–7). A distribuição do nome divino alterna entre YHWH e Elohim dentro do capítulo.
+
+## VISÃO GERAL DO CAPÍTULO
+
+**O que acontece:** YHWH ordena a Noach que entre na *tebah* com sua família e os animais — animais limpos aos sete, os demais aos pares. Após sete dias, o dilúvio começa: as fontes do grande abismo se rompem e as janelas dos céus se abrem. As águas sobem por 40 dias, cobrindo todos os montes altos. Toda criatura que respira em terra seca fora da *tebah* morre. As águas prevalecem por 150 dias.
+
+**Temas-chave:** Distinção limpo/impuro anterior ao Sinai; o dilúvio como reversão cosmológica — as águas acima e abaixo do *raqia* (Dia 2) se reúnem; o *mabbul* (dilúvio — palavra usada apenas para este evento); datas calendárias específicas ao longo do capítulo; YHWH fecha a porta (7:16 — Noach não se sela a si mesmo); destruição total da vida terrestre.
+
+**Observe:** "Sete sete" para animais limpos (7:2) após "dois de todos" (6:19–20) — a TT preserva ambos sem harmonização; as datas do dilúvio criam uma cronologia precisa abrangendo um ano solar; "YHWH fechou atrás dele" (7:16) — o nome divino aparece no momento da selagem; a frase "todos os montes altos debaixo de todos os céus" (7:19) — a própria reivindicação de escopo do texto.
+
+**Conexão:** O mecanismo do dilúvio (7:11) reverte precisamente Gênesis 1:6–7 (o *raqia* separando águas). O Capítulo 8 reverterá o dilúvio, restabelecendo a separação do Dia 2.
 
 ---
 

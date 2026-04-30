@@ -7,10 +7,10 @@
 **Grundtext:** Biblia Hebraica Stuttgartensia, 5. rev. Aufl. (Stuttgart: Deutsche Bibelgesellschaft, 1997)
 **Ausgabe:** Transparente Ausgabe
 **Sprache:** Deutsch
-**Methodik:** 29-Regeln-Governance-System (Regelwerk v2.5)
+**Methodik:** 29-Regeln-Governance-System (Regelwerk v3.0)
 **Gottesname-Politik (Regel 25):** Option A — Konsonantisch (JHWH).
 **Luther-Bibel-Verhältnis:** Option B — Selektive Anerkennung. Übersetzung aus dem Hebräischen nach TT-Regeln; Konvergenzen und Divergenzen mit Luther in Begleitmaterialien dokumentiert.
-**Status:** vorläufig — ausstehende Begutachtung (Regel 28)
+**Status:** provisorisch — ausstehende Begutachtung (Regel 28)
 **Begutachter:** Hebraist: nicht zugewiesen | DE-Redakteur: nicht zugewiesen | Sprachübergreifender Abgleich: nicht zugewiesen
 
 ---
@@ -40,6 +40,16 @@
 - 🟡 **THEOLOGISCH** - Interpretationsoptionen, Ambiguitätsbewahrung
 
 **Dieses Kapitel enthält den nachsintflutlichen Bund, das Blutverbot und den Cham/Kenaan-Vorfall.** Der Segen von 9:1 echot Gn 1:28. Der Bund (9:8–17) ist der erste vollständig offenbarte *Berit*, mit dem Bogen (*Qesheth*) als Zeichen. Noachs erste aufgezeichnete Rede (9:25–27) — nach Kapiteln des Schweigens — ist ein Fluch. Der Text sagt, Cham „sah die Blöße seines Vaters"; die TT gibt wieder, was der Text sagt, nicht was er bedeuten könnte.
+
+## KAPITELÜBERSICHT
+
+**Was geschieht:** Gott segnet Noachs Familie mit einem erneuerten Schöpfungsauftrag — aber verändert: „Furcht und Schrecken" ersetzt Herrschaft, Fleischessen wird mit einem Blutverbot erlaubt, und Mord wird mit Rechenschaftspflicht beantwortet. Gott richtet einen Bund mit allem Lebendigen auf und setzt den Bogen (*Qesheth* — eine Waffe) in die Wolken als dessen Zeichen. Noach pflanzt einen Weinberg, trinkt Wein und liegt entblößt da. Cham sieht die Blöße seines Vaters; Shem und Yafet bedecken ihn, ohne hinzuschauen. Noach erwacht, verflucht Kenaan (nicht Cham) und segnet Shem und Yafet. Noach stirbt mit 950 Jahren.
+
+**Zentrale Themen:** Neu-Schöpfung mit Veränderung (1:28 vs. 9:1–7 — gleiche Worte, andere Welt); Blut = *Nephesh* (Lebenskraft); das *Tselem* (Bild Gottes) überdauert die Flut als Grundlage der Menschenwürde; der einseitige, universale Bund mit allem Lebendigen; der Bogen (*Qesheth*) als abgelegte Waffe; die Zeltszene — Ehre-/Scham-Kultur; der Fluch trifft Kenaan, nicht den Täter Cham; Noachs erste Worte sind ein Fluch.
+
+**Achten Sie auf:** „Jedes Sich-Bewegende, das lebt, soll euch zur Speise sein" (9:3) — die erste Fleischerlaubnis, im Gegensatz zur Pflanzen-Diät von 1:29; die chiastische Struktur von 9:6 (die Tat fällt auf den Täter zurück); „meinen Bogen" — possessiv, was impliziert, dass er Gottes Waffe war; die Mehrdeutigkeit von „der in den Zelten Shems wohne" (9:27 — Yafet oder Gott?); Noach schweigt seit 6:9 — seine erste aufgezeichnete Rede ist dieser Fluch.
+
+**Verbindung:** Die noachidischen Gebote (9:1–7) fungieren als universaler Rahmen, der dem abrahamitischen Bund (Kap. 12+) vorausgeht und ihn grundlegt. Die Völkertafel (Kap. 10) verfolgt die hier begründeten Linien Shems, Chams und Yafets.
 
 ---
 

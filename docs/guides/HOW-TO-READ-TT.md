@@ -115,12 +115,12 @@ If you're reading the Transparent Edition and something feels wrong — check th
 
 If you're contributing to the project:
 
-- **Read** `docs/rules/RULES.md` (v2.5) — the 29-rule governance system
+- **Read** `docs/rules/RULES-CORE.md` + `RULES-HB.md` (v3.0) — the 29-rule governance system
 - **Read** `docs/design/TT-DESIGN-SYSTEM.md` — UI/UX standards
 - **Read** `docs/architecture/STANDARDS.md` — code and architecture standards
 - **Log decisions** in `docs/editorial-log/genesis.md` before drafting
-- **New glossary terms** go in RULES.md locked glossary before use
-- **EN first,** then PT-BR and DE follow
+- **New glossary terms** go in RULES-HB.md locked glossary before use
+- **EN first,** then PT-BR, DE, and ES follow
 - **Test:** `pnpm test` then `pnpm build` after every change
 
 ---

@@ -10,7 +10,7 @@
 **Chapter:** [Book] [Chapter]
 **Language:** [Language]
 **Companion to:** `[locale]/[book]/CHAPTER-[N].md` (Transparent Edition)
-**Ruleset:** v2.5 (Rule 29 governs this file)
+**Ruleset:** v3.0 (Rule 29 governs this file)
 **Status:** draft
 
 ---
@@ -28,10 +28,12 @@
 - **SPECULATION** — no strong textual or evidential basis
 
 **Confidence levels** (how sure — per Rule 13):
-- **VERIFIED / PROBABLE** — strong evidence, wide agreement
+- **VERIFIED** — textual fact or established scholarly consensus
+- **PROBABLE** — strong evidence, wide agreement
 - **POSSIBLE** — reasonable, debated
 - **UNCERTAIN** — genuinely unclear
 - **SPECULATIVE** — must be rare and clearly flagged
+- **DOCUMENTED** — historically attested reception tradition (used with LATER RECEPTION)
 
 ---
 
@@ -90,6 +92,8 @@
 ## E. Scientific Correspondence and Non-Correspondence
 
 *What modern science observes vs. what the text presents. NEITHER concordism NOR anti-concordism. Both framings refused.*
+
+**Interdisciplinary scanning:** Actively identify passages where the text intersects with modern fields — route each to the appropriate section (C for archaeology, D for linguistics, E for empirical science, G for interpretive intersections). Label by claim type and confidence. Present the textual claim, the modern observation, and the gap or correspondence — then stop.
 
 ### [Topic]
 **[SCIENTIFIC COMPARISON — confidence level]**

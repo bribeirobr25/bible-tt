@@ -1,4 +1,5 @@
 import type { Paragraph } from "@/domain/content/types";
+import { renderMarkdownSafe } from "@/ui/shared/render-markdown-safe";
 
 export function ContinuousReading({ paragraphs }: { paragraphs: Paragraph[] }) {
   return (
@@ -8,9 +9,7 @@ export function ContinuousReading({ paragraphs }: { paragraphs: Paragraph[] }) {
           key={`p-${i}`}
           className="text-text-primary leading-[1.8]"
           dangerouslySetInnerHTML={{
-            __html: p.text
-              .replace(/\*([^*]+)\*/g, "<em>$1</em>")
-              .replace(/\n/g, " "),
+            __html: renderMarkdownSafe(p.text, "prose"),
           }}
         />
       ))}

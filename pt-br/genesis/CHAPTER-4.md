@@ -7,7 +7,7 @@
 **Texto Base:** Biblia Hebraica Stuttgartensia, 5ª ed. rev. (Stuttgart: Deutsche Bibelgesellschaft, 1997)
 **Edição:** Edição Transparente
 **Idioma:** Português Brasileiro
-**Metodologia:** Sistema de Governança de 29 Regras (Conjunto de Regras v2.5)
+**Metodologia:** Sistema de Governança de 29 Regras (Conjunto de Regras v3.0)
 **Política do Nome Divino (Regra 25):** Opção A — Consonantal (YHWH).
 **Status:** provisório — aguardando revisão por pares (Regra 28)
 **Revisores:** Hebraísta: não atribuído | Editor PT: não atribuído | Alinhamento cruzado: não atribuído
@@ -39,6 +39,16 @@
 - 🟡 **TEOLÓGICO** - Opções interpretativas, preservação de ambiguidade
 
 **Política Humano / Adão (Regra 17):** Neste capítulo, *ha-adam* (com artigo) no v.1 = "o humano" (continuando a política de Gn 2–3). No **v.25**, o texto muda para *adam* anartro em contexto de nomeação/genealogia — este é o **ponto de transição** para o nome próprio "Adão." Sinalizado com nota 🔴 CRÍTICO.
+
+## VISÃO GERAL DO CAPÍTULO
+
+**O que acontece:** Qayin (agricultor) e Hevel (pastor) trazem ofertas; YHWH olha para a de Hevel, mas não para a de Qayin. Apesar do aviso divino, Qayin mata Hevel. YHWH confronta Qayin, declara-o errante, marca-o para proteção, e Qayin se estabelece na terra de Nod. Segue-se a genealogia de Qayin: construção de cidades, economia pastoril, música, metalurgia — culminando no cântico de Lemekh de violência escalada. O capítulo encerra com o nascimento de Shet e o início da invocação do nome de YHWH.
+
+**Temas-chave:** A primeira oferta e o primeiro assassinato; aviso divino desobedecido (4:6–7, "o pecado se agacha à porta"); "Sou eu o guardador do meu irmão?"; sangue clamando desde o solo (*adamah* novamente); a marca de Qayin como proteção; as origens da civilização na linhagem do assassino; escalada de violência (7 vezes para 77 vezes); Shet como linhagem substituta.
+
+**Observe:** O texto nunca explica *por que* YHWH olhou para a oferta de Hevel e não para a de Qayin — a lacuna é o gatilho da narrativa; o castigo de Qayin ecoa o de Adão (ambos expulsos da *adamah*); o cântico de Lemekh (4:23–24) inverte a proteção de YHWH de 7 vezes em vingança de 77 vezes; dois Chanokhs e dois Lemekhs aparecem nas genealogias paralelas (Cap. 4 vs. Cap. 5).
+
+**Conexão:** A genealogia cainita (Capítulo 4) é paralela à genealogia setita (Capítulo 5). A violência que começa aqui enche a terra até o Capítulo 6, desencadeando o dilúvio.
 
 ---
 

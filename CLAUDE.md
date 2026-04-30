@@ -2,26 +2,32 @@
 
 ## What this project is
 
-The Transparent Translation (TT) — a multilingual Bible translation project with a web application for reading, studying, and exploring contextual enrichment. The translation currently covers Genesis 1–6 in English, Brazilian Portuguese, and German, governed by a 29-rule system (v2.5) that prioritizes Hebrew fidelity, ambiguity preservation, and theological restraint.
+The Transparent Translation (TT) — a multilingual Bible translation project with a web application for reading, studying, and exploring contextual enrichment. The translation currently covers Genesis 1–9 in English, Brazilian Portuguese, German, and Spanish, governed by a 29-rule system (v2.6) that prioritizes source-text fidelity, ambiguity preservation, and theological restraint.
 
 ## Project structure
 
 ```
 bible-tt/
-├── en/genesis/              # English chapter files (CHAPTER-1.md through CHAPTER-6.md)
+├── en/genesis/              # English chapter files (CHAPTER-1.md through CHAPTER-9.md)
+│   ├── INTRODUCTION.md      # Book-level introduction (Rule 29)
 │   └── study/               # Contextual companion files (CHAPTER-N-CONTEXT.md)
 ├── pt-br/genesis/           # Brazilian Portuguese chapter files + study companions
+│   ├── INTRODUCTION.md
 │   └── study/
 ├── de/genesis/              # German chapter files + study companions
+│   ├── INTRODUCTION.md
+│   └── study/
+├── es/genesis/              # Spanish chapter files + study companions
+│   ├── INTRODUCTION.md
 │   └── study/
 ├── docs/
-│   ├── rules/               # RULES.md (v2.5 — the 29-rule governance system)
+│   ├── rules/               # RULES-CORE.md + RULES-HB.md + RULES-GS.md (v3.0, 29 rules)
 │   ├── architecture/        # STANDARDS.md (DDD, code standards, TypeScript, testing)
 │   ├── design/              # TT-DESIGN-SYSTEM.md (UI/UX, typography, color, accessibility)
-│   ├── audit/               # Audit feedback and response documents
+│   ├── audit/               # Audit feedback, response documents, refactoring plans
 │   ├── editorial-log/       # Decision log (genesis.md, transliteration-decisions.md)
 │   ├── implementation/      # PLAN.md, FEEDBACK.md, SCHEMA-FUTURE.sql
-│   └── templates/           # Companion file template
+│   └── templates/           # Companion file template + book introduction template
 ├── src/                     # Next.js web application
 │   ├── app/                 # App Router pages ([locale]/[book]/[chapter], rules)
 │   ├── domain/              # Pure domain types (no framework deps)
@@ -36,7 +42,7 @@ bible-tt/
 
 - `pnpm dev` — start dev server with Turbopack (http://localhost:3000)
 - `pnpm build` — production build
-- `pnpm test` — run all unit tests (117 parser tests: 108 chapter + 9 enrichment)
+- `pnpm test` — run all unit tests (chapter parser + enrichment parser)
 - `pnpm lint` — run Biome linter
 
 ## Architecture
@@ -48,8 +54,8 @@ Governed by `docs/architecture/STANDARDS.md`. Key decisions:
 - **Content pipeline:** Two parsers:
   - `markdown-parser.ts` — chapter files → `ChapterData` (verses, notes, glossary, cross-chapter tracking)
   - `enrichment-parser.ts` — companion files → `EnrichmentData` (sections A–H with claim-type + confidence labels)
-- **i18n:** URL-based locale routing (`/en/genesis/1`, `/pt-br/genesis/1`, `/de/genesis/1`). Content translation in .md files; UI strings in `src/infrastructure/i18n/messages/`.
-- **Three view modes:** Reading (continuous prose) | Study (verse-by-verse with notes) | Context (enrichment companion)
+- **i18n:** URL-based locale routing (`/en/genesis/1`, `/pt-br/genesis/1`, `/de/genesis/1`, `/es/genesis/1`). Content translation in .md files; UI strings in `src/infrastructure/i18n/messages/`.
+- **Four view modes:** Reading (continuous prose) | Study (verse-by-verse with notes) | Context (enrichment companion) | Explore (narrative enrichment)
 
 ## Design system
 
@@ -63,10 +69,10 @@ Governed by `docs/design/TT-DESIGN-SYSTEM.md`. Key standards:
 
 ## Translation rules
 
-Governed by `docs/rules/RULES.md` (v2.5, 29 rules). Key principles:
+Governed by `docs/rules/RULES-CORE.md` + `docs/rules/RULES-HB.md` (v3.0, 29 rules). Key principles:
 
-- **Prime Directive:** Do not simplify what Hebrew keeps complex; do not clarify what Hebrew leaves ambiguous.
-- **Rule 25 (YHWH):** Rendered consonantally (YHWH in EN/PT, JHWH in DE), not as "LORD."
+- **Prime Directive:** Do not simplify what the source text keeps complex; do not clarify what the source text leaves ambiguous.
+- **Rule 25 (YHWH):** Rendered consonantally (YHWH in EN/PT/ES, JHWH in DE), not as "LORD."
 - **Rule 3 + corollary:** No imported theology; restraint matters both ways (anti-traditional reflex is also dishonest).
 - **Rule 11:** Additions for grammar marked in italics.
 - **Rule 13:** Uncertainty levels (Probable / Possible / Uncertain) on all debated terms.
@@ -82,10 +88,16 @@ All decisions logged in `docs/editorial-log/genesis.md`.
 3. Parser auto-discovers new files via filesystem scan.
 4. Run `pnpm test` → `pnpm build` to verify.
 
+**New book introduction:**
+1. Create `{locale}/{book}/INTRODUCTION.md` using `docs/templates/book-introduction-template.md`.
+2. Sections A–F are AVAILABLE (include only with substantive content); Section G (Sources) is MANDATORY.
+3. Follow the dual-label system (claim-type + confidence) and include the disclaimer block.
+4. EN-first, then PT-BR, DE, and ES follow.
+
 **Translation decisions:**
 - Log in `docs/editorial-log/genesis.md` before drafting.
 - New glossary terms added to RULES.md locked glossary.
-- EN-first, then PT-BR and DE follow.
+- EN-first, then PT-BR, DE, and ES follow.
 
 ## Tech stack
 
@@ -93,6 +105,6 @@ All decisions logged in `docs/editorial-log/genesis.md`.
 - Tailwind CSS v4 with OKLCH color tokens
 - next-intl for i18n
 - Lucide for icons (1.5px stroke)
-- Vitest for testing (117 tests)
+- Vitest for testing
 - Biome for linting
 - 8 production dependencies, 9 dev dependencies

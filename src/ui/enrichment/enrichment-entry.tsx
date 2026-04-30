@@ -1,5 +1,6 @@
 import { useTranslations } from "next-intl";
 import type { EnrichmentEntry, ClaimType, ConfidenceLevel } from "@/domain/content/types";
+import { renderMarkdownSafe } from "@/ui/shared/render-markdown-safe";
 
 const CLAIM_COLORS: Record<ClaimType, string> = {
   "TEXTUAL": "border-l-note-lexical bg-note-lexical-bg",
@@ -18,6 +19,18 @@ const CONFIDENCE_BADGE_COLORS: Record<ConfidenceLevel, string> = {
   POSSIBLE: "bg-note-theological/10 text-note-theological",
   UNCERTAIN: "bg-note-critical/10 text-note-critical",
   SPECULATIVE: "bg-note-critical/15 text-note-critical",
+  DOCUMENTED: "bg-note-grammatical/15 text-note-grammatical",
+};
+
+const CLAIM_TYPE_KEYS: Record<ClaimType, string> = {
+  "TEXTUAL": "claimType.textual",
+  "STRONG INFERENCE": "claimType.strongInference",
+  "POSSIBLE INFERENCE": "claimType.possibleInference",
+  "COMPARATIVE PARALLEL": "claimType.comparativeParallel",
+  "LATER RECEPTION": "claimType.laterReception",
+  "HISTORICAL / ARCHAEOLOGICAL": "claimType.historicalArchaeological",
+  "SCIENTIFIC COMPARISON": "claimType.scientificComparison",
+  "SPECULATION": "claimType.speculation",
 };
 
 const CONFIDENCE_KEYS: Record<ConfidenceLevel, string> = {
@@ -26,6 +39,7 @@ const CONFIDENCE_KEYS: Record<ConfidenceLevel, string> = {
   POSSIBLE: "confidence.possible",
   UNCERTAIN: "confidence.uncertain",
   SPECULATIVE: "confidence.speculative",
+  DOCUMENTED: "confidence.documented",
 };
 
 export function EnrichmentEntryCard({ entry }: { entry: EnrichmentEntry }) {
@@ -37,7 +51,7 @@ export function EnrichmentEntryCard({ entry }: { entry: EnrichmentEntry }) {
     <div className={`border-l-3 ${claimStyle} rounded-r-md px-4 py-3`}>
       <div className="flex items-center gap-2 mb-2 flex-wrap">
         <span className="text-xs font-bold uppercase tracking-wider text-text-muted font-[family-name:var(--font-mono)]">
-          {entry.claimType}
+          {t(CLAIM_TYPE_KEYS[entry.claimType] || "claimType.textual")}
         </span>
         <span className={`text-xs font-semibold uppercase px-1.5 py-0.5 rounded ${badgeColor}`}>
           {t(CONFIDENCE_KEYS[entry.confidence] || "confidence.possible")}
@@ -49,11 +63,7 @@ export function EnrichmentEntryCard({ entry }: { entry: EnrichmentEntry }) {
       <div
         className="text-sm leading-relaxed text-text-primary"
         dangerouslySetInnerHTML={{
-          __html: entry.content
-            .replace(/\*\*([^*]+)\*\*/g, "<strong>$1</strong>")
-            .replace(/\*([^*]+)\*/g, "<em>$1</em>")
-            .replace(/\n- /g, "<br/>• ")
-            .replace(/\n/g, "<br/>"),
+          __html: renderMarkdownSafe(entry.content, "note"),
         }}
       />
       {entry.source && (

@@ -1,9 +1,11 @@
 "use client";
 
 import { useEffect, useState } from "react";
+import { useTranslations } from "next-intl";
 
 export function ReadingProgress() {
   const [progress, setProgress] = useState(0);
+  const t = useTranslations();
 
   useEffect(() => {
     function handleScroll() {
@@ -27,7 +29,7 @@ export function ReadingProgress() {
       aria-hidden={progress === 0}
       aria-valuemin={0}
       aria-valuemax={100}
-      aria-label="Reading progress"
+      aria-label={t("nav.readingProgress")}
     />
   );
 }

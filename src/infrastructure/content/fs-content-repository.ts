@@ -1,9 +1,11 @@
 import fs from "node:fs/promises";
 import path from "node:path";
-import type { ChapterData, EnrichmentData } from "@/domain/content/types";
+import type { ChapterData, EnrichmentData, IntroductionData, ProphecyData, PeopleData } from "@/domain/content/types";
 import type { Locale } from "@/infrastructure/i18n/config";
 import { parseChapterMarkdown } from "./markdown-parser";
-import { parseEnrichmentMarkdown } from "./enrichment-parser";
+import { parseEnrichmentMarkdown, parseIntroductionMarkdown } from "./enrichment-parser";
+import { parseProphecyMarkdown } from "./prophecy-parser";
+import { parsePeopleMarkdown } from "./people-parser";
 
 const CONTENT_ROOT = path.join(/*turbopackIgnore: true*/ process.cwd());
 
@@ -30,6 +32,46 @@ export async function readEnrichment(
   try {
     const raw = await fs.readFile(filePath, "utf-8");
     return parseEnrichmentMarkdown(raw, book, chapter);
+  } catch {
+    return null;
+  }
+}
+
+export async function readIntroduction(
+  locale: Locale,
+  book: string,
+): Promise<IntroductionData | null> {
+  const filePath = path.join(CONTENT_ROOT, locale, book, "INTRODUCTION.md");
+  try {
+    const raw = await fs.readFile(filePath, "utf-8");
+    return parseIntroductionMarkdown(raw, book);
+  } catch {
+    return null;
+  }
+}
+
+export async function readProphecy(
+  locale: Locale,
+  book: string,
+  chapter: number,
+): Promise<ProphecyData | null> {
+  const filePath = path.join(CONTENT_ROOT, locale, book, "study", `CHAPTER-${chapter}-PROPHECY.md`);
+  try {
+    const raw = await fs.readFile(filePath, "utf-8");
+    return parseProphecyMarkdown(raw, book, chapter);
+  } catch {
+    return null;
+  }
+}
+
+export async function readPeople(
+  locale: Locale,
+  book: string,
+): Promise<PeopleData | null> {
+  const filePath = path.join(CONTENT_ROOT, locale, book, "PEOPLE.md");
+  try {
+    const raw = await fs.readFile(filePath, "utf-8");
+    return parsePeopleMarkdown(raw, book);
   } catch {
     return null;
   }

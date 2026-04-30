@@ -10,8 +10,8 @@
 **Capítulo:** Genesis 4
 **Idioma:** Português Brasileiro
 **Acompanha:** `pt-br/genesis/CHAPTER-4.md` (Edição Transparente)
-**Regras:** v2.5 (Regra 29 governa este arquivo)
-**Status:** rascunho
+**Regras:** v3.0 (Regra 29 governa este arquivo)
+**Status:** provisório
 
 ---
 
@@ -88,7 +88,7 @@ Genesis 4:26: "Então se começou a invocar o nome de YHWH." Construção passiv
 ## B. Paralelos do Antigo Oriente Próximo
 
 ### B1. Dumuzi e Enkimdu — o conflito pastor-agricultor
-**[COMPARATIVE PARALLEL — VERIFICADO]**
+**[PARALELO COMPARATIVO — VERIFICADO]**
 
 O poema sumério "Inanna Prefere o Agricultor" (preservado no ETCSL, Oxford) apresenta um paralelo estrutural: o deus-pastor Dumuzi e o deus-agricultor Enkimdu competem pelo favor da deusa Inanna — a mesma tensão pastoral-vs-agrícola de Qayin (agricultor) e Hevel (pastor).
 
@@ -97,14 +97,14 @@ O poema sumério "Inanna Prefere o Agricultor" (preservado no ETCSL, Oxford) apr
 **Fonte:** Kramer, S.N., *Sumerian Mythology*, 1944 (rev. 1961); ETCSL, Oxford.
 
 ### B2. Genealogia cainita e origens da civilização no AOP
-**[COMPARATIVE PARALLEL — VERIFICADO]**
+**[PARALELO COMPARATIVO — VERIFICADO]**
 
 Genesis 4:17-22 atribui os fundamentos da civilização à linhagem de Qayin: pastoralismo (Yaval), música (Yuval), metalurgia (Tuval-Qayin). Na tradição mesopotâmica, esses avanços eram atribuídos a seres divinos — os *apkallu* (sete sábios enviados pelos deuses). Genesis é distinto: inovações culturais vêm de humanos comuns e amaldiçoados, não de agentes divinos.
 
 **Fonte:** Clifford, R.J., *Creation Accounts in the ANE and Bible*, 1994.
 
 ### B3. Vingança de sangue e o "sinal de Caim"
-**[COMPARATIVE PARALLEL — PROVÁVEL]**
+**[PARALELO COMPARATIVO — PROVÁVEL]**
 
 Culturas do AOP praticavam vingança de sangue (*go'el ha-dam* — resgatador por parentesco obrigado a vingar assassinato). A proteção divina sétupla para Qayin (4:15) estabelece dissuasão excedendo a proporcionalidade normal da vingança. O *ot* (sinal) funciona como proteção divina anti-vingança. O que o sinal fisicamente era é INCERTO — propostas incluem marca tribal, radiância divina ou sinal de aviso visível a outros.
 
@@ -113,7 +113,7 @@ Culturas do AOP praticavam vingança de sangue (*go'el ha-dam* — resgatador po
 ## C. Contexto Histórico e Arqueológico
 
 ### C1. Tensão pastoral vs. agrícola no Levante Neolítico
-**[HISTORICAL / ARCHAEOLOGICAL — VERIFICADO]**
+**[HISTÓRICO / ARQUEOLÓGICO — VERIFICADO]**
 
 A Revolução Neolítica no Levante (c. 12.000-8.000 AEC) produziu exatamente a coexistência pastoral-agrícola refletida em Gen 4. Evidências arqueológicas de sítios do Neolítico Pré-Cerâmico mostram agricultores sedentários coexistindo com pastores móveis. A tensão agricultor-pastor não é ficção literária — reflete dinâmicas econômicas e sociais reais do antigo Oriente Próximo.
 
@@ -124,7 +124,7 @@ A Revolução Neolítica no Levante (c. 12.000-8.000 AEC) produziu exatamente a 
 ## D. Aprofundamentos Linguísticos
 
 ### D1. Qayin — três camadas etimológicas
-**[TEXTUAL / COMPARATIVE PARALLEL — VERIFICADO]**
+**[TEXTUAL / PARALELO COMPARATIVO — VERIFICADO]**
 
 1. **Etimologia bíblica:** *qanah* (adquirir) — o trocadilho explícito de Chava em 4:1
 2. **Semítico cognato:** raiz *qyn* = "ferreiro/metalúrgico" — conecta-se a Tuval-Qayin (4:22)
@@ -141,35 +141,51 @@ Genesis 4:23-24 é amplamente reconhecido como um dos poemas hebraicos mais anti
 
 ---
 
+## E. Correspondência e Não-Correspondência Científica
+
+### E1. Conflito entre irmãos e escalada de violência — perspectivas comportamentais
+**[COMPARAÇÃO CIENTÍFICA — POSSÍVEL]**
+
+Genesis 4 apresenta o primeiro assassinato como surgido de rivalidade entre irmãos por favor divino. A ciência comportamental documenta a agressão entre irmãos como intensificada pela percepção de investimento parental diferenciado (Trivers, 1974; Sulloway, 1996). O padrão de escalada no texto — perturbação emocional (4:5, "seu rosto caiu"), advertência divina com oportunidade de correção (4:6–7), falha em dominar o impulso, violência letal (4:8) — corresponde ao que a pesquisa sobre agressão chama de "via frustração-agressão." O texto não explica *por que* YHWH considerou a oferta de Abel e não a de Caim; a lacuna narrativa é o ponto de gatilho. O texto apresenta a sequência; a ciência comportamental nomeia o padrão. Nenhum explica o outro.
+
+---
+
 ## F. Recepção Posterior em Outras Tradições
 
 ### F1. Recepção judaica
-**[LATER RECEPTION — DOCUMENTED]**
+**[RECEPÇÃO POSTERIOR — DOCUMENTADO]**
 
 - **Bereshit Rabbah:** discussão extensa sobre por que YHWH rejeitou a oferta de Qayin (qualidade? atitude? momento?)
 - **Pirke de-Rabbi Eliezer:** após o assassinato, um corvo ensinou Qayin como enterrar o corpo de seu irmão
 - **"Sangues" plural** (4:10): a tradição rabínica lê isto como o sangue de Abel mais o sangue de todos os seus descendentes potenciais
 
 ### F2. Recepção cristã
-**[LATER RECEPTION — DOCUMENTED]**
+**[RECEPÇÃO POSTERIOR — DOCUMENTADO]**
 
 - **Hebreus 11:4:** "Pela fé Abel ofereceu um sacrifício melhor que Caim" — o NT atribui a diferença à fé
 - **1 João 3:12:** "Não sejais como Caim, que pertencia ao maligno" — identifica Caim com Satanás (não presente no texto hebraico)
 - O "sinal de Caim" foi tragicamente usado na história para justificar opressão racial — uma leitura sem base no texto hebraico
 
 ### F3. Recepção islâmica
-**[LATER RECEPTION — DOCUMENTED]**
+**[RECEPÇÃO POSTERIOR — DOCUMENTADO]**
 
 Alcorão, Surata 5:27-32: Habil e Qabil. Características distintas: Abel recusa lutar ("Não estenderei minha mão para te matar"); um corvo ensina Caim o sepultamento; Surata 5:32 extrai a moral universal: "Quem mata uma alma... é como se tivesse matado toda a humanidade."
 
 **Fonte:** Reynolds, G.S., *The Qur'an and the Bible*, Yale, 2018.
+
+### F_. Expansões dramáticas da narrativa de Caim-Abel
+**[RECEPÇÃO POSTERIOR — DOCUMENTADO]**
+
+O relato de Genesis 4 sobre Caim matando Abel é notoriamente lacônico — "Caim se levantou contra seu irmão Abel e o matou" (4:8). Tradições posteriores preencheram esta lacuna. *O Primeiro Livro de Adão e Eva* (cristão etíope) apresenta uma narrativa estendida com violência detalhada e luto parental. O Targum Pseudo-Jonatan (aramaico, ~séc. VII-VIII d.C.) acrescenta um debate filosófico entre os irmãos antes do assassinato. O Alcorão (5:27-31) inclui a narrativa com um corvo ensinando o sepultamento. A literatura rabínica (Bereshit Rabbah 22) multiplica interpretações do que Caim "disse a Abel." A TT referencia estas expansões porque o silêncio do texto canônico sobre as palavras e motivações de Caim tem sido uma provocação interpretativa em múltiplas tradições por dois milênios.
+
+**Fonte:** Kugel, J.L., *Traditions of the Bible*, Harvard, 1998 (PEER-REVIEWED); Charlesworth, J.H. (ed.), *OTP* vol. 2, Doubleday, 1985 (PEER-REVIEWED).
 
 ---
 
 ## G. Curiosidades e Questões em Aberto
 
 ### G1. De onde veio a esposa de Caim?
-**[TEXTUAL — POSSIBLE INFERENCE]**
+**[TEXTUAL — INFERÊNCIA POSSÍVEL]**
 
 Genesis 4:17: "Qayin conheceu sua mulher" — mas nenhuma origem da esposa é declarada. Gen 5:4 nota que Adam "gerou filhos e filhas." O texto pressupõe uma população humana maior sem narrar sua origem. Isto é uma lacuna narrativa, não uma contradição — o texto é seletivo no que narra.
 
@@ -187,6 +203,18 @@ YHWH promete proteção sétupla para Qayin (4:15). Lemekh reivindica setenta e 
 **[TEXTUAL — VERIFICADO]**
 
 A linhagem cainita (Gen 4) e a linhagem setita (Gen 5) compartilham dois nomes: Chanokh e Lemekh. Indivíduos diferentes, mesmos nomes. O Lemekh cainita se vangloria de matar (4:23-24); o Lemekh setita espera por consolo (5:29). Nomes espelhados, trajetórias opostas.
+
+### G5. "Sou eu o guardião do meu irmão?" — a questão ética fundacional
+**[INFERÊNCIA POSSÍVEL — PROVÁVEL]**
+
+A resposta de Caim ao "Onde está Hevel teu irmão?" de YHWH é a pergunta *ha-shomer achi anokhi* — "Sou eu o guardião do meu irmão?" (4:9). O texto a deixa sem resposta. Na ética, esta é a questão da responsabilidade moral pelo outro: a obrigação se estende além do dano direto ao dever positivo de cuidado? Levinas lê o encontro com o rosto do Outro como constituindo responsabilidade infinita. O texto não responde à pergunta de Caim filosoficamente — YHWH responde não com um princípio, mas com evidência ("a voz dos sangues do teu irmão clama a mim do solo"). O silêncio sobre o princípio, combinado com a consequência imediata, implica responsabilidade sem articular uma teoria dela. Esta pergunta sem resposta se torna um dos problemas fundacionais da ética social.
+
+### G6. A cidade de Caim e a genealogia de Lemekh — civilização e violência
+**[INFERÊNCIA POSSÍVEL — PROVÁVEL]**
+
+Genesis 4:17–22 situa as origens da civilização na linhagem de Caim: construção de cidades (4:17, Chanokh), habitação em tendas e criação de gado (4:20, Yaval), música (4:21, Yuval), e metalurgia em bronze e ferro (4:22, Tuval-Qayin). O texto associa urbanização, economia pastoril, artes e metalurgia com a linhagem do primeiro assassino — e a genealogia culmina no cântico de violência escalonada de Lemekh (4:23–24). Na sociologia urbana, Lewis Mumford (*The City in History*, 1961) observou que as primeiras cidades combinavam especialização produtiva com violência institucionalizada — muralhas de fortificação estão entre as mais antigas arquiteturas monumentais. O texto não argumenta que a civilização causa violência, nem que a violência invalida a civilização. Ele coloca ambas na mesma árvore genealógica e deixa o leitor observar o padrão.
+
+**Fonte:** Mumford, L., *The City in History*, Harcourt, 1961.
 
 ---
 

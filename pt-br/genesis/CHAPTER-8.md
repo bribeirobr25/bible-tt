@@ -7,7 +7,7 @@
 **Texto Base:** Biblia Hebraica Stuttgartensia, 5ª ed. rev. (Stuttgart: Deutsche Bibelgesellschaft, 1997)
 **Edição:** Edição Transparente
 **Idioma:** Português Brasileiro
-**Metodologia:** Sistema de Governança de 29 Regras (Conjunto de Regras v2.5)
+**Metodologia:** Sistema de Governança de 29 Regras (Conjunto de Regras v3.0)
 **Política do Nome Divino (Regra 25):** Opção A — Consonantal (YHWH).
 **Status:** provisório — aguardando revisão por pares (Regra 28)
 **Revisores:** Hebraísta: não atribuído | Editor PT: não atribuído | Alinhamento cruzado: não atribuído
@@ -39,6 +39,16 @@
 - 🟡 **TEOLÓGICO** - Opções interpretativas, preservação de ambiguidade
 
 **Este capítulo narra a recessão do dilúvio e a reemergência da vida.** A estrutura espelha Gênesis 1 — vento/espírito sobre as águas, chão seco aparecendo, vida renovada. O capítulo culmina na resolução interna de YHWH de nunca mais amaldiçoar o solo, usando linguagem quase idêntica ao julgamento de 6:5, mas chegando à conclusão oposta.
+
+## VISÃO GERAL DO CAPÍTULO
+
+**O que acontece:** Deus lembra-se de Noach. As águas recuam: fontes e janelas são tapadas, o vento passa sobre a terra. A *tebah* repousa sobre Ararat. Noach envia um corvo (vai e volta), depois uma pomba três vezes (retorna, retorna com folha de oliveira, não retorna). Noach remove a cobertura, vê o chão seco. Deus ordena a saída. Noach constrói um altar e sacrifica. YHWH sente o aroma agradável e resolve "nunca mais" — usando o mesmo diagnóstico (inclinação má) que motivou o dilúvio.
+
+**Temas-chave:** "Deus lembrou-se" (*vayyizkor*) como ponto de virada narrativo; a recessão do dilúvio espelha a criação (vento sobre águas, terra seca aparecendo); o corvo e a pomba como batedores; a folha de oliveira como sinal de recuperação; o primeiro altar (*mizbeach*); o jogo de palavras *nichoach* (aroma agradável / nome de Noach); o paradoxo de 8:21 — a inclinação má agora motiva contenção, não destruição.
+
+**Observe:** A recessão reverte o dilúvio na mesma ordem em que o dilúvio reverteu a criação — uma estrutura narrativa em três camadas (criação, des-criação, re-criação); as datas específicas são retomadas (8:4, 5, 13, 14) — o dilúvio abrange exatamente um ano; "disse em seu coração" (8:21) — interioridade divina, não declaração pública; a promessa de "nunca mais" precede a cerimônia da aliança do Capítulo 9.
+
+**Conexão:** O altar e o sacrifício (8:20) antecipam a aliança formal do Capítulo 9. A raiz *nacham* reaparece implicitamente — aquele que recebeu o nome de "conforto" (5:29) sobreviveu ao evento do "arrependimento" divino (6:6).
 
 ---
 

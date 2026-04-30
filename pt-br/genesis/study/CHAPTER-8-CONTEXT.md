@@ -10,8 +10,8 @@
 **Capítulo:** Genesis 8
 **Idioma:** Português Brasileiro
 **Acompanha:** `pt-br/genesis/CHAPTER-8.md` (Edição Transparente)
-**Regras:** v2.5 (Regra 29 governa este arquivo)
-**Status:** rascunho
+**Regras:** v3.0 (Regra 29 governa este arquivo)
+**Status:** provisório
 
 ---
 
@@ -25,7 +25,7 @@ Gn 8:1: "Deus fez passar uma *ruach* sobre a terra." Eco estrutural direto de Gn
 ### A2. "Deus lembrou-se" — não esquecimento, mas ação
 **[TEXTUAL — VERIFICADO]**
 
-וַיִּזְכֹּר אֱלֹהִים (*vayyizkor elohim*) = "E Deus lembrou-se." No hebraico, "lembrar-se" divino (*zakhar*) não implica esquecimento prévio. Sinaliza que Deus volta a atenção para agir em favor de alguém. Mesmo verbo em Gn 19:29 (Deus "lembra-se" de Abraão e salva Ló), Gn 30:22 (Deus "lembra-se" de Raquel), Êx 2:24 (Deus "lembra-se" da sua aliança). O verbo *zakhar* nestes usos divinos é consistentemente performativo — lembrar é agir. Em Gn 9:15-16, o arco funciona como mnemônico divino: Deus vê o arco → lembra-se → contém-se. O autolembrete divino (8:21 "disse em seu coração"; 9:16 "eu o verei para lembrar") não possui paralelo direto no AOP. A TT traduz "lembrou-se" literalmente.
+וַיִּזְכֹּר אֱלֹהִים (*vayyizkor elohim*) = "E Deus lembrou-se." No hebraico, "lembrar-se" divino (*zakhar*) não implica esquecimento prévio. Sinaliza que Deus volta a atenção para agir em favor de alguém. Mesmo verbo em Gn 19:29 (Deus "lembra-se" de Abraão e salva Ló), Gn 30:22 (Deus "lembra-se" de Raquel), Êx 2:24 (Deus "lembra-se" da sua aliança). O verbo *zakhar* nestes usos divinos é consistentemente performativo — lembrar é agir. Em Gn 9:15-16, o arco funciona como sinal de memória para Deus: Deus vê o arco → lembra-se → contém-se. O autolembrete divino (8:21 "disse em seu coração"; 9:16 "eu o verei para lembrar") não possui paralelo direto no AOP. A TT traduz "lembrou-se" literalmente.
 
 ### A3. Fontes e janelas — fechadas, não destruídas
 **[TEXTUAL — VERIFICADO]**
@@ -160,6 +160,15 @@ Gn 8:9: "a pomba não encontrou *manoach* para a planta do seu pé." *Manoach* =
 
 ---
 
+## E. Correspondência e Não-Correspondência Científica
+
+### E1. Recuperação ecológica pós-dilúvio — a folha de oliveira
+**[COMPARAÇÃO CIENTÍFICA — POSSÍVEL]**
+
+Genesis 8:11 declara que a pomba retornou com "uma folha de oliveira recém-arrancada (*aleh zayit taraf*) em seu bico." Na ecologia pós-catastrófica, a recuperação da vegetação segue uma sucessão previsível: espécies pioneiras (gramíneas, ervas daninhas) aparecem primeiro, seguidas por arbustos, depois árvores. Oliveiras (*Olea europaea*) são notavelmente resilientes — podem se regenerar a partir do sistema radicular mesmo após danos severos, incluindo inundação, e produzir novos brotos em poucos meses. A oliveira é também tolerante ao sal. Se a narrativa reflete inundação regional mesopotâmica, a folha de oliveira é um sinal precoce de recuperação botanicamente plausível. O texto usa a folha de oliveira como sinal de que "as águas tinham aliviado de sobre a terra" (8:11) — um marcador narrativo, não um relatório botânico. A correspondência com a biologia da oliveira é observável, mas incidental ao propósito do texto.
+
+---
+
 ## G. Curiosidades e Questões em Aberto
 
 ### G1. O corvo — o que aconteceu?
@@ -183,6 +192,16 @@ O monólogo interior divino é uma convenção literária reconhecida em textos 
 **[TEXTUAL — PROVÁVEL]**
 
 O dilúvio começa no Mês 2, Dia 17 (7:11) e a terra está completamente seca no Mês 2, Dia 27 (8:14) — aproximadamente um ano solar (370-371 dias). Alguns estudiosos argumentam que isto se encaixa exatamente em um calendário de 364 dias (conhecido de Jubileus e 1 Enoque) mais ajustes. Se a cronologia é histórica, literária ou litúrgica, o enquadramento de quase-exatamente-um-ano é uma característica estrutural da narrativa.
+
+### G5. "Nunca mais" — autolimitação divina como conceito ético
+**[INFERÊNCIA POSSÍVEL — PROVÁVEL]**
+
+Genesis 8:21–22 apresenta YHWH fazendo um compromisso interno ("disse em seu coração") de nunca mais amaldiçoar o solo ou ferir toda a vida por causa da humanidade — e a razão declarada é surpreendente: "pois a inclinação do coração do humano é má desde a sua juventude." O mesmo diagnóstico que motivou a destruição (6:5) agora motiva a contenção. Na teologia filosófica, este é um caso de autolimitação divina: Deus voluntariamente restringe a ação futura, aceitando a condição imperfeita em vez de repetidamente destruir. Isto levanta questões exploradas na teologia do processo e na teodiceia: Pode o divino mudar de estratégia? Isto representa aprendizado, compaixão ou liberdade soberana? O texto não resolve estas questões — apresenta a reversão ("inclinação má" como razão para destruir se torna "inclinação má" como razão para poupar) e deixa o paradoxo permanecer.
+
+### G6. Corvo e pomba como batedores — comportamento ornitológico
+**[COMPARAÇÃO CIENTÍFICA — POSSÍVEL]**
+
+Genesis 8:6–12 envia dois pássaros: o corvo (*orev*) "saiu, saindo e voltando" (8:7) sem resolução; a pomba (*yonah*) retorna sem encontrar repouso (8:8–9), depois retorna com uma folha de oliveira (8:10–11), depois não retorna (8:12). Na ornitologia, corvos (*Corvus corax*) são onívoros necrófagos capazes de se alimentar de carniça flutuante e detritos — podem sobreviver sem terra firme. Pombas (*Columba*) são granívoras e necessitam de solo seco com vegetação para alimentação. O comportamento diferente de cada pássaro — o corvo sustentando-se sobre a água, a pomba necessitando de terra — alinha-se com seus nichos ecológicos reais. Paralelos do antigo Oriente Próximo mostram motivos semelhantes de envio de pássaros (Gilgamesh XI envia pomba, andorinha, corvo), sugerindo uma tradição narrativa compartilhada. Se o autor de Genesis conhecia a ecologia dos pássaros empiricamente, herdou o motivo da tradição, ou ambos, o texto seleciona pássaros cujo comportamento real corresponde à sua função narrativa.
 
 ---
 

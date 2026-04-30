@@ -10,8 +10,8 @@
 **Chapter:** Genesis 7
 **Language:** English
 **Companion to:** `en/genesis/CHAPTER-7.md` (Transparent Edition)
-**Ruleset:** v2.5 (Rule 29 governs this file)
-**Status:** draft
+**Ruleset:** v3.0 (Rule 29 governs this file)
+**Status:** provisional
 
 ---
 
@@ -20,9 +20,9 @@
 ### A1. "Seven seven" — distributive ambiguity preserved
 **[TEXTUAL — VERIFIED]**
 
-The TT renders שִׁבְעָה שִׁבְעָה (*shiv'ah shiv'ah*) as "seven seven" — the literal Hebrew distributive repetition. Most English translations resolve this to "seven pairs" (NIV, ESV) or "seven of each" (NRSV). The Hebrew does not say "pairs" — it repeats the number. Whether this means seven individuals or seven pairs (fourteen) is genuinely ambiguous. The TT preserves the repetition and notes the ambiguity rather than resolving it.
+The TT renders שִׁבְעָה שִׁבְעָה (*shiv'ah shiv'ah*) as "seven seven" — copying how the Hebrew repeats the number. Most English translations smooth this to "seven pairs" (NIV, ESV) or "seven of each" (NRSV). But the Hebrew does not say "pairs" — it simply repeats the number. Whether this means seven individual animals or seven pairs (fourteen) is genuinely ambiguous. The TT preserves the repetition and notes the ambiguity rather than resolving it.
 
-### A2. "Two from all" vs. "seven seven" — the central tension
+### A2.  "Two from all" vs. "seven seven" — the central tension
 **[TEXTUAL — VERIFIED]**
 
 Gen 6:19: "two from all you shall bring." Gen 7:2: "seven seven" of the clean, "two" of the unclean. Gen 7:9: "two two they came." The TT translates all three as the MT reads them, without harmonization (Rule 22). This is the most visible numerical tension in the flood narrative. Traditional harmonization reads 6:19 as a general statement refined by 7:2. Source-critical analysis assigns the passages to different documentary traditions. The TT presents the text without choosing between these frameworks.
@@ -30,22 +30,22 @@ Gen 6:19: "two from all you shall bring." Gen 7:2: "seven seven" of the clean, "
 ### A3. Clean/unclean distinction — before Sinai
 **[TEXTUAL — VERIFIED]**
 
-The distinction between clean and unclean animals appears at 7:2 — centuries before the Levitical legislation of Lev 11 and Deut 14. The text assumes the reader knows or that the distinction is pre-Mosaic. This is a textual feature the TT preserves without importing later halakhic categories.
+The distinction between clean and unclean animals appears at 7:2 — centuries before the detailed laws of Leviticus 11 and Deuteronomy 14. The text assumes the reader already knows the distinction or that it predates Moses. This is a textual feature the TT preserves without importing later Jewish legal categories.
 
 ### A4. Cosmological mechanism — Day 2 reversed
 **[TEXTUAL — VERIFIED]**
 
-Gen 7:11: "all the fountains of the great deep burst open, and the windows of the sky were opened." This precisely reverses Gen 1:6–7, where the raqia separated waters above from waters below. The flood dismantles the Day 2 cosmic architecture: the *tehom* (deep, present since 1:2) breaches from below, while the waters above the raqia descend through sky-windows. The flood is not merely "a lot of rain" — it is the structural undoing of creation's water-boundary.
+Gen 7:11: "all the fountains of the great deep burst open, and the windows of the sky were opened." This precisely reverses Gen 1:6–7, where the raqia (the solid dome of the sky) separated waters above from waters below. The flood dismantles the structure built on Day 2: the *tehom* (the deep, present since 1:2) breaks through from below, while the waters above the raqia pour down through sky-windows. The flood is not merely "a lot of rain" — it is the undoing of creation's water-boundary.
 
 ### A5. "Standing thing" (*yequm*) — rare vocabulary
 **[TEXTUAL — VERIFIED]**
 
-Gen 7:4,23: הַיְקוּם (*ha-yequm*) = "the standing thing" — everything that stands/exists. This word appears only here and at Deut 11:6 in the entire Hebrew Bible. Its rarity suggests a technical or archaic term for "all living existence on dry ground."
+Gen 7:4,23: הַיְקוּם (*ha-yequm*) = "the standing thing" — everything that stands or exists. This word appears only here and at Deut 11:6 in the entire Hebrew Bible. Its rarity suggests it is either an old or specialized term for "all living things on dry ground."
 
 ### A6. "Breath of the spirit of life" — triple compound
 **[TEXTUAL — VERIFIED]**
 
-Gen 7:22: נִשְׁמַת רוּחַ חַיִּים (*nishmat ruach chayyim*) = "breath of the spirit/wind of life." This is the only occurrence of this triple compound. It combines Gen 2:7 (*nishmat chayyim*, breath of life blown into the human) with Gen 6:17 (*ruach chayyim*, spirit of life in all flesh). At the moment of total destruction, the text reaches for the fullest possible expression of what is being lost.
+Gen 7:22: נִשְׁמַת רוּחַ חַיִּים (*nishmat ruach chayyim*) = "breath of the spirit/wind of life." This three-word combination appears nowhere else. It combines Gen 2:7 (*nishmat chayyim*, the breath of life blown into the first human) with Gen 6:17 (*ruach chayyim*, the spirit of life in all flesh). At the moment of total destruction, the text reaches for the fullest possible way to name what is being lost.
 
 ### A7. YHWH shuts the tebah — mid-verse name shift
 **[TEXTUAL — VERIFIED]**
@@ -55,7 +55,7 @@ Gen 7:16: "as God commanded him; and YHWH shut behind him." Both divine names in
 ### A8. Obedience formula — four occurrences
 **[TEXTUAL — VERIFIED]**
 
-The formula "Noach did according to all that [God/YHWH] commanded" appears at 6:22, 7:5, 7:9, 7:16 — with alternating divine names. The repetition is a structural feature: Noach's response to every command is silent compliance. No recorded speech from Noach until 9:25.
+The phrase "Noach did according to all that [God/YHWH] commanded" appears at 6:22, 7:5, 7:9, 7:16 — with alternating divine names. The repetition is a deliberate pattern: Noach's response to every command is silent obedience. He does not speak a recorded word until 9:25.
 
 ---
 
@@ -139,6 +139,29 @@ The distinction between "clean" (*tahor*) and "unclean" animals appears at Gen 7
 
 ---
 
+## E. Scientific Correspondence and Non-Correspondence
+
+### E1. The flood mechanism and geological observation
+**[SCIENTIFIC COMPARISON — POSSIBLE]**
+
+Genesis 7:11 describes the flood as coming from two sources simultaneously: "all the fountains of the great deep (*tehom rabbah*) burst open, and the windows of the skies were opened." This is a cosmological reversal — the waters separated on Day 2 (Gen 1:6–7) reunite. The text presents this as a total event: waters cover "all the high mountains under all the skies" (7:19), with specific dates (second month, seventeenth day). Modern geology does not find evidence of a global flood in the stratigraphic record. There is no single depositional layer covering all continents from one event. However, significant regional flood events in Mesopotamia are well-attested archaeologically (see Chapter 6, C1). The text's cosmological mechanism (waters above + waters below reuniting) reflects the three-tier cosmology described in Gen 1, not a hydrological model. What the text describes is a theological narrative of de-creation; what geology observes is evidence for devastating regional floods that likely gave rise to the flood tradition. Neither discipline answers the other's question.
+
+### E2. The tebah's dimensions — naval architecture
+**[SCIENTIFIC COMPARISON — POSSIBLE]**
+
+Genesis 6:15 gives the tebah's dimensions: 300 cubits long, 50 wide, 30 high (approximately 137 x 23 x 14 meters using the standard cubit of ~45.7 cm). The length-to-beam ratio of 6:1 is within the range used by modern cargo vessels for stability. A 1993 study by the Korea Research Institute of Ships and Ocean Engineering (KRISO) found the proportions viable for flotation stability in open water, though not for self-propulsion — consistent with the text, which includes no sail, rudder, or steering mechanism. The word *tebah* itself means "box" or "chest" (see Chapter 6, A9), not "ship." The text describes a container designed to float and preserve, not to navigate. Whether these proportions reflect ancient engineering knowledge, literary convention, or something else is not resolved by the text.
+
+**Source:** Hong, S.W., et al., "Safety Investigation of Noah's Ark in a Seaway," *Journal of Creation* 8:1, 1994.
+
+### E3. The "vapor canopy" hypothesis
+**[SCIENTIFIC COMPARISON — SPECULATIVE]**
+
+Some young-earth creationist popularizers have proposed that a "vapor canopy" — a layer of water, vapor, or ice above the pre-flood atmosphere — created higher atmospheric pressure and oxygen levels, causing giant animal sizes and human longevity, and that the flood occurred when this canopy collapsed. The hypothesis is rejected by mainstream science (a vapor canopy of the required magnitude would produce a runaway greenhouse effect and toxic atmospheric pressure). It is also rejected by mainstream young-earth creationism: Answers in Genesis, the largest YEC organization, has explicitly disavowed the hypothesis on physical grounds. The Carboniferous-era data sometimes cited (oxygen levels reaching ~35%, giant arthropods with wingspans up to 71 cm) is genuine — but those measurements are from ~300 million years ago in mainstream geologic chronology, not from any biblical-flood timeframe.
+
+**Source:** Faulkner, D., "Did the Pre-Flood World Have a Vapor Canopy?", Answers in Genesis (ACADEMIC POPULAR, denominational refutation); Beerling, D., *The Emerald Planet*, Oxford University Press, 2007 (PEER-REVIEWED, on Carboniferous oxygen).
+
+---
+
 ## F. Later Reception
 
 ### F1. Jewish reception — the righteous remnant
@@ -153,7 +176,7 @@ Midrash emphasizes the 7-day waiting period (7:4) as a week of mourning — God 
 ### F2. Christian reception — typological readings
 **[LATER RECEPTION — DOCUMENTED]**
 
-1 Peter 3:20-21 reads the flood waters as a type of baptism. Patristic interpretation (Augustine, *City of God* XV.26-27) reads the tebah as a type of the Church. The number of people saved (eight) is connected to resurrection symbolism (the eighth day). These readings are post-biblical and not in the Hebrew text.
+1 Peter 3:20-21 reads the flood waters as a type of baptism. Early Church Fathers' interpretation (Augustine, *City of God* XV.26-27) reads the tebah as a type of the Church. The number of people saved (eight) is connected to resurrection symbolism (the eighth day). These readings are post-biblical and not in the Hebrew text.
 
 **Source:** Augustine, *City of God*, Book XV, chs. 26-27.
 
@@ -182,6 +205,11 @@ At 7:2, YHWH instructs "seven seven" of clean animals. At 7:9, the execution des
 **[TEXTUAL — POSSIBLE]**
 
 Gen 7:11: the flood begins on Month 2, Day 17. Gen 8:4: the tebah rests on Month 7, Day 17 — exactly 150 days later (5 months × 30 days). Gen 8:14: the earth is fully dry on Month 2, Day 27 — almost exactly one year after the flood began. The symmetry suggests deliberate calendrical design, though whether this is literary or historical precision is UNCERTAIN.
+
+### G4. The flood chronology — calendrical precision
+**[TEXTUAL — PROBABLE]**
+
+The flood narrative provides exact calendar dates: onset on the second month, seventeenth day (7:11); waters prevail 150 days (7:24); ark rests on mountains of Ararat on the seventh month, seventeenth day (8:4); mountaintops visible on the tenth month, first day (8:5); earth dry on the second month, twenty-seventh day of Noah's 601st year (8:14). The total duration from onset to dry earth spans exactly one solar year plus ten days — or precisely one lunar year (354 days) plus one additional month, depending on the calendar system used. This level of calendrical precision in an ancient narrative intersects with the history of timekeeping: whether the flood chronology preserves a solar calendar (365 days), a lunar calendar (354 days), or a schematic 360-day calendar (attested in Mesopotamia and in the later Book of Jubilees) is debated. The precision itself is the textual feature — the narrative is not vague about time.
 
 ---
 

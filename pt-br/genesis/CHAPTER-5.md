@@ -7,7 +7,7 @@
 **Texto Base:** Biblia Hebraica Stuttgartensia, 5ª ed. rev. (Stuttgart: Deutsche Bibelgesellschaft, 1997)
 **Edição:** Edição Transparente
 **Idioma:** Português Brasileiro
-**Metodologia:** Sistema de Governança de 29 Regras (Conjunto de Regras v2.5)
+**Metodologia:** Sistema de Governança de 29 Regras (Conjunto de Regras v3.0)
 **Política do Nome Divino (Regra 25):** Opção A — Consonantal (YHWH). Não acionada neste capítulo (apenas Elohim é usado).
 **Status:** provisório — aguardando revisão por pares (Regra 28)
 **Revisores:** Hebraísta: não atribuído | Editor PT: não atribuído | Alinhamento cruzado: não atribuído
@@ -40,6 +40,16 @@
 **Nota de gênero (Regra 23):** Este capítulo é uma **genealogia** — uma lista estruturada governada por uma fórmula repetitiva. A fórmula é travada conforme Regra 7; desvios do padrão são textualmente significativos e anotados.
 
 **Adão é nome próprio ao longo de todo este capítulo** (confirmado em Gn 4:25; travado em 5:1).
+
+## VISÃO GERAL DO CAPÍTULO
+
+**O que acontece:** O *toledot* de Adão — uma genealogia de dez gerações de Adão a Noach, estruturada por uma fórmula travada: "X viveu Y anos, gerou Z, viveu W anos mais, gerou filhos e filhas, todos os seus dias foram N anos, e morreu." Duas entradas quebram a fórmula: Chanokh ("ele não foi mais, porque Deus o tomou") e Noach (cuja entrada faz a transição para a narrativa do dilúvio).
+
+**Temas-chave:** O *sefer toledot* (livro das gerações) — o único *toledot* com o prefixo "livro"; a cadeia imagem/semelhança (Deus, Adão, Shet); o refrão implacável "e morreu"; a translação de Chanokh — "andou com Deus" e "não foi mais"; a etimologia do nome de Noach (*nacham*, conforto/arrependimento); longevidades extraordinárias (365–969 anos).
+
+**Observe:** Chanokh é o sétimo a partir de Adão (paralelo a Enmeduranki, sétimo rei antediluviano na tradição suméria); Chanokh vive 365 anos (número do ano solar, o mais curto da lista); o ano da morte de Metushelach coincide exatamente com o ano do dilúvio pela aritmética do próprio texto; o capítulo usa *Elohim* ao longo de todo o texto, exceto no v.29, onde a fala de Lemekh nomeia YHWH.
+
+**Conexão:** Lemekh dá o nome Noach com uma esperança vinculada ao solo amaldiçoado (5:29, ecoando 3:17). A raiz *nacham* no nome de Noach reaparece em 6:6 como "arrependimento" divino — conforto e arrependimento compartilhando a mesma raiz.
 
 ---
 

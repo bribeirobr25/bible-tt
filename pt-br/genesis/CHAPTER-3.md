@@ -7,7 +7,7 @@
 **Texto Base:** Biblia Hebraica Stuttgartensia, 5ª ed. rev. (Stuttgart: Deutsche Bibelgesellschaft, 1997)
 **Edição:** Edição Transparente
 **Idioma:** Português Brasileiro
-**Metodologia:** Sistema de Governança de 29 Regras (Conjunto de Regras v2.5)
+**Metodologia:** Sistema de Governança de 29 Regras (Conjunto de Regras v3.0)
 **Política do Nome Divino (Regra 25):** Opção A — Consonantal (YHWH).
 **Status:** provisório — aguardando revisão por pares (Regra 28)
 **Revisores:** Hebraísta: não atribuído | Editor PT: não atribuído | Alinhamento cruzado: não atribuído
@@ -42,6 +42,16 @@
 **Regra 23 (Sensibilidade de Gênero Literário):** Prosa narrativa, não padrão litúrgico. O capítulo não contém vocabulário teológico português herdado ("a Queda," "pecado original," "proto-evangelho," "Satanás") a menos que o hebraico justifique — e o hebraico não justifica.
 
 **Política Humano / Adão (nota permanente da Regra 17):** O hebraico אָדָם (*adam*) continua a ser renderizado como *"o humano"* ao longo de Gênesis 3, inclusive nas três ocorrências sem artigo (3:17, 3:21 — sem artigo no hebraico). O jogo de palavras *adam / adamah* está ativo ao longo do capítulo (3:17 solo maldito, 3:19 retorno ao pó, 3:23 lavrar o solo). A transição para o nome próprio *Adão* se resolve formalmente em Gênesis 4.
+
+## VISÃO GERAL DO CAPÍTULO
+
+**O que acontece:** A serpente, descrita como *arum* (astuta/sagaz), dialoga com a mulher sobre a árvore proibida. Ambos os humanos comem. Seus olhos se abrem — sabem que estão nus. YHWH Elohim os questiona, pronuncia consequências sobre a serpente, a mulher e o homem, faz vestes de pele e os expulsa do jardim, com querubins guardando o caminho para a árvore da vida.
+
+**Temas-chave:** O jogo de palavras *arum/arom* (astuto/nu) conectando os Capítulos 2–3; a retórica da serpente; a modificação do mandamento pela mulher; conhecimento do bem e do mal — prometido e entregue, mas não como esperado; vergonha, medo, culpabilização como sequência; consequências vs. maldições (apenas a serpente e o solo são amaldiçoados, não os humanos); a frase interrompida em 3:22 (aposiopese).
+
+**Observe:** A serpente usa apenas "Elohim," nunca "YHWH Elohim"; o homem estava "com ela" durante o diálogo (3:6); "morrendo morrerás" (2:17) vs. "não morrendo morrereis" (3:4) — mesma construção gramatical, negada; Deus confirma a previsão da serpente em 3:22; "pó *és*" (tempo presente, não futuro) — mortalidade como intrínseca, não recém-imposta.
+
+**Conexão:** A expulsão do jardim leva diretamente a Qayin e Hevel (Capítulo 4). A maldição sobre o solo (3:17) ecoa em 5:29 (a nomeação de Noach) e 8:21 (a resolução pós-dilúvio de YHWH).
 
 ---
 

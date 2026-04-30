@@ -10,8 +10,8 @@
 **Capítulo:** Genesis 7
 **Idioma:** Português Brasileiro
 **Acompanha:** `pt-br/genesis/CHAPTER-7.md` (Edição Transparente)
-**Regras:** v2.5 (Regra 29 governa este arquivo)
-**Status:** rascunho
+**Regras:** v3.0 (Regra 29 governa este arquivo)
+**Status:** provisório
 
 ---
 
@@ -139,6 +139,29 @@ A distinção entre animais "limpos" (*tahor*) e "impuros" aparece em Gn 7:2, mu
 
 ---
 
+## E. Correspondência e Não-Correspondência Científica
+
+### E1. Mecanismo do dilúvio e observação geológica
+**[COMPARAÇÃO CIENTÍFICA — POSSÍVEL]**
+
+Genesis 7:11 descreve o dilúvio como vindo de duas fontes simultaneamente: "todas as fontes do grande abismo (*tehom rabbah*) se romperam, e as janelas dos céus se abriram." Esta é uma reversão cosmológica — as águas separadas no Dia 2 (Gn 1:6–7) se reúnem. O texto apresenta isto como um evento total: as águas cobrem "todos os altos montes debaixo de todos os céus" (7:19), com datas específicas (segundo mês, décimo sétimo dia). A geologia moderna não encontra evidência de um dilúvio global no registro estratigráfico. Não existe uma camada deposicional única cobrindo todos os continentes de um único evento. Contudo, eventos regionais significativos de inundação na Mesopotâmia são bem atestados arqueologicamente (ver Capítulo 6, C1). O mecanismo cosmológico do texto (águas de cima + águas de baixo se reunindo) reflete a cosmologia de três camadas descrita em Gn 1, não um modelo hidrológico. O que o texto descreve é uma narrativa teológica de des-criação; o que a geologia observa é evidência de inundações regionais devastadoras que provavelmente deram origem à tradição do dilúvio. Nenhuma disciplina responde à pergunta da outra.
+
+### E2. Dimensões da tebah — arquitetura naval
+**[COMPARAÇÃO CIENTÍFICA — POSSÍVEL]**
+
+Genesis 6:15 fornece as dimensões da tebah: 300 côvados de comprimento, 50 de largura, 30 de altura (aproximadamente 137 x 23 x 14 metros usando o côvado padrão de ~45,7 cm). A proporção comprimento-boca de 6:1 está dentro da faixa utilizada por embarcações de carga modernas para estabilidade. Um estudo de 1993 do Korea Research Institute of Ships and Ocean Engineering (KRISO) concluiu que as proporções eram viáveis para estabilidade de flutuação em mar aberto, embora não para autopropulsão — consistente com o texto, que não inclui vela, leme ou mecanismo de direção. A própria palavra *tebah* significa "caixa" ou "baú" (ver Capítulo 6, A9), não "navio." O texto descreve um recipiente projetado para flutuar e preservar, não para navegar. Se estas proporções refletem conhecimento de engenharia antiga, convenção literária ou algo mais não é resolvido pelo texto.
+
+**Fonte:** Hong, S.W., et al., "Safety Investigation of Noah's Ark in a Seaway," *Journal of Creation* 8:1, 1994.
+
+### E3. A hipótese do "dossel de vapor"
+**[COMPARAÇÃO CIENTÍFICA — ESPECULATIVO]**
+
+Alguns divulgadores criacionistas da Terra jovem propuseram que um "dossel de vapor" — uma camada de água, vapor ou gelo acima da atmosfera pré-diluviana — criou maior pressão atmosférica e níveis de oxigênio, causando o tamanho gigante dos animais e a longevidade humana, e que o dilúvio ocorreu quando este dossel colapsou. A hipótese é rejeitada pela ciência convencional (um dossel de vapor da magnitude necessária produziria um efeito estufa descontrolado e pressão atmosférica tóxica). Também é rejeitada pelo criacionismo convencional da Terra jovem: Answers in Genesis, a maior organização CJT, repudiou explicitamente a hipótese por razões físicas. Os dados da era Carbonífera por vezes citados (níveis de oxigênio atingindo ~35%, artrópodes gigantes com envergaduras de até 71 cm) são genuínos — mas essas medições são de ~300 milhões de anos atrás na cronologia geológica convencional, não de nenhum período do dilúvio bíblico.
+
+**Fonte:** Faulkner, D., "Did the Pre-Flood World Have a Vapor Canopy?", Answers in Genesis (ACADEMIC POPULAR, refutação denominacional); Beerling, D., *The Emerald Planet*, Oxford University Press, 2007 (PEER-REVIEWED, sobre oxigênio no Carbonífero).
+
+---
+
 ## F. Recepção Posterior
 
 ### F1. Recepção judaica — o remanescente justo
@@ -153,7 +176,7 @@ O Midrash enfatiza o período de espera de 7 dias (7:4) como uma semana de luto 
 ### F2. Recepção cristã — leituras tipológicas
 **[RECEPÇÃO POSTERIOR — DOCUMENTADO]**
 
-1 Pedro 3:20-21 lê as águas do dilúvio como um tipo de batismo. A interpretação patrística (Agostinho, *A Cidade de Deus* XV.26-27) lê a tebah como um tipo da Igreja. O número de pessoas salvas (oito) é conectado ao simbolismo da ressurreição (o oitavo dia). Estas leituras são pós-bíblicas e não estão no texto hebraico.
+1 Pedro 3:20-21 lê as águas do dilúvio como um tipo de batismo. Os escritores cristãos antigos (Agostinho, *A Cidade de Deus* XV.26-27) leem a tebah como um tipo da Igreja. O número de pessoas salvas (oito) é conectado ao simbolismo da ressurreição (o oitavo dia). Estas leituras são pós-bíblicas e não estão no texto hebraico.
 
 **Fonte:** Agostinho, *A Cidade de Deus*, Livro XV, caps. 26-27.
 
@@ -182,6 +205,11 @@ Em 7:2, YHWH instrui "sete sete" de animais limpos. Em 7:9, a execução descrev
 **[TEXTUAL — POSSÍVEL]**
 
 Gn 7:11: o dilúvio começa no Mês 2, Dia 17. Gn 8:4: a tebah repousa no Mês 7, Dia 17 — exatamente 150 dias depois (5 meses × 30 dias). Gn 8:14: a terra está completamente seca no Mês 2, Dia 27 — quase exatamente um ano após o início do dilúvio. A simetria sugere design calendárico deliberado, embora se isto é precisão literária ou histórica seja INCERTO.
+
+### G4. A cronologia do dilúvio — precisão calendárica
+**[TEXTUAL — PROVÁVEL]**
+
+A narrativa do dilúvio fornece datas calendáricas exatas: início no segundo mês, décimo sétimo dia (7:11); águas prevalecem 150 dias (7:24); a arca repousa nos montes de Ararat no sétimo mês, décimo sétimo dia (8:4); topos das montanhas visíveis no décimo mês, primeiro dia (8:5); terra seca no segundo mês, vigésimo sétimo dia do ano 601 de Noach (8:14). A duração total do início à terra seca abrange exatamente um ano solar mais dez dias — ou precisamente um ano lunar (354 dias) mais um mês adicional, dependendo do sistema calendárico utilizado. Este nível de precisão calendárica em uma narrativa antiga intersecta com a história da cronometragem: se a cronologia do dilúvio preserva um calendário solar (365 dias), um calendário lunar (354 dias) ou um calendário esquemático de 360 dias (atestado na Mesopotâmia e no posterior Livro dos Jubileus) é debatido. A precisão em si é a característica textual — a narrativa não é vaga quanto ao tempo.
 
 ---
 

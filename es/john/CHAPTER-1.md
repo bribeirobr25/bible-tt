@@ -1,0 +1,826 @@
+# JUAN 1
+## La Traduccion Transparente (TT)
+### Edicion Transparente - Espanol
+
+---
+
+**Texto Base:** Nestle-Aland, *Novum Testamentum Graece*, 28a edicion revisada (Stuttgart: Deutsche Bibelgesellschaft, 2012)
+**Edicion:** Edicion Transparente (edicion GS declarada independientemente segun Regla CORE 24)
+**Idioma:** Espanol
+**Metodologia:** Sistema de Gobernanza de 29 Reglas (Reglas v3.0)
+**Politica del Nombre Divino (Regla 25 / Politica GS):** Opcion C -- kyrios (kyrios) se traduce como "el Senor" al citar pasajes del AT que contienen YHWH; anotado en Nivel 2.
+**Status:** provisional -- pendiente de aprobacion por revisores (Regla 28)
+**Revisores:** Helenista: no asignado | Editor ES: no asignado | Alineacion cruzada: no asignado
+
+---
+
+## INDICE
+
+- [Guia de Lectura](#guia-de-lectura)
+- [Vision General del Capitulo](#vision-general-del-capitulo)
+- [Lectura Continua](#lectura-continua)
+- [Estudio Versiculo por Versiculo](#estudio-versiculo-por-versiculo)
+- [Glosario -- Juan 1](#glosario---juan-1)
+- [Seguimiento entre Capitulos (Genesis -> Juan)](#seguimiento-entre-capitulos-genesis--juan)
+
+---
+
+## GUIA DE LECTURA
+
+**📖 Texto Principal:** Traduccion primaria -- legible pero fiel a la estructura griega
+**📝 Notas:** Caracteristicas griegas esenciales inmediatamente debajo de cada versiculo
+***Cursiva:*** Palabras agregadas para la gramatica espanola (no presentes en el texto griego)
+**"Comillas":** Discurso directo
+**el Senor:** kyrios traducido segun la Politica GS del Nombre Divino (Opcion C) al citar pasajes del AT que contienen YHWH
+
+**Iconos de Notas:**
+- 🔴 **CRITICO** - Decisiones textuales o traductoras importantes
+- 🟢 **LEXICO** - Significados de palabras, rango semantico, terminos del glosario
+- 🔵 **GRAMATICAL** - Estructura griega, aspecto verbal, sintaxis
+- 🟡 **TEOLOGICO** - Opciones interpretativas, preservacion de ambiguedad
+
+**Este es el primer capitulo de las Escrituras Griegas en el proyecto TT.** El Prologo (1:1-18) se encuentra entre los pasajes teologicamente mas densos de las Escrituras Griegas. El termino *logos* ("palabra") posee un rango semantico mucho mas amplio que cualquier palabra en espanol. La TT lo traduce como "palabra" (minuscula) con una nota critica en v.1 sobre el rango semantico. Los nombres propios siguen la transliteracion TT: Yochanan (no Juan), Yeshua (no Jesus), Kefa (no Pedro), Philippos, Nathanael, Andreas. El sistema de aspecto verbal difiere del sistema de tiempos hebreos usado en Genesis -- el aspecto griego (como el hablante concibe la accion) es primario, no el tiempo.
+
+---
+
+## VISION GENERAL DEL CAPITULO
+
+**Que sucede:** El capitulo abre con un prologo cosmologico que vincula la "palabra" (*logos*) al principio de la creacion, a Dios y a todo lo que llego a ser. La palabra se hace carne y habita entre los humanos. Yochanan el Inmersor es presentado como testigo de la luz, no la luz misma. El testifica ante sacerdotes y levitas enviados desde Yerushalayim, negando ser el ungido, Eliyahu o el Profeta. Al dia siguiente, Yochanan identifica a Yeshua como "el cordero de Dios que quita el pecado del mundo" y testifica haber visto al viento/espiritu descender sobre el como paloma. Dos de los seguidores de Yochanan comienzan a seguir a Yeshua -- Andreas y un discipulo sin nombre. Andreas trae a su hermano Shimon, a quien Yeshua renombra Kefa ("roca"). Yeshua encuentra a Philippos, quien encuentra a Nathanael. El escepticismo de Nathanael da paso al reconocimiento, y Yeshua promete cosas mayores -- el cielo abierto y mensajeros de Dios ascendiendo y descendiendo sobre el Hijo del Hombre.
+
+**Temas clave:** El *logos* como agente preexistente de la creacion; luz contra oscuridad; testimonio (*martyria*) como funcion primaria del Inmersor; "carne" (*sarx*) -- el griego *sarx* abarca existencia fisica, mortal, corporea. Algunas tradiciones interpretativas paulinas lo traducen como "naturaleza pecaminosa" (contexto de Romanos 7-8); en Juan, *sarx* es consistentemente fisico/mortal; gracia y verdad (*charis kai aletheia*) por medio de Yeshua el ungido contra la ley por medio de Mosheh; "Nadie ha visto a Dios jamas" -- una afirmacion de limite teologico; el cordero de Dios; el viento/espiritu descendiendo; la reunion de los primeros seguidores; el eco de la escalera de Yaakov (Gen 28:12) en v.51.
+
+**Observe:** El imperfecto *en* ("era") en v.1 -- existencia continua, contrastado con el aoristo *egeneto* ("llego a ser") en v.3; el limite ambiguo de frase en vv.3-4 (que pertenece a que); "en el era vida" o "lo que llego a ser -- en el era vida" -- ambas lecturas anotadas; el cambio del prologo cosmico (vv.1-18) a la narrativa testimonial (vv.19-51); la triple negacion de Yochanan (no el ungido, no Eliyahu, no el Profeta); el profeta mosaico de Deut 18:15 detras de "el Profeta"; el cambio de nombre de Shimon a Kefa (eco de Avram -> Avraham); "¿De Natseret puede salir algo bueno?" -- el escepticismo de Nathanael; el titulo Hijo del Hombre (primera ocurrencia en este Evangelio).
+
+**Conexion:** La apertura "En *el* principio" (en arche) hace eco directo de Gen 1:1 (bereshit). La creacion mediante la palabra en Gen 1 ("Y dijo Dios") encuentra su contraparte teologica en el *logos* por medio del cual todas las cosas llegaron a ser. Luz y oscuridad (Gen 1:3-5) reaparecen como categorias cosmicas. El viento/espiritu (*pneuma*) moviéndose sobre las aguas (Gen 1:2) se conecta con el viento/espiritu descendiendo sobre Yeshua en la inmersion. Los mensajeros ascendiendo y descendiendo (v.51) citan directamente la vision de la escalera de Yaakov (Gen 28:12).
+
+---
+
+## LECTURA CONTINUA
+
+*Vista en prosa del capitulo completo. El texto es identico al Estudio Versiculo por Versiculo abajo -- misma traduccion, mismas adiciones en cursiva. Vea la seccion de Estudio abajo para las notas de cada versiculo.*
+
+---
+
+¹En el principio era la palabra, y la palabra estaba con Dios, y la palabra era Dios. ²Este era en el principio con Dios. ³Todas las cosas llegaron a ser por medio de el, y aparte de el ni una sola cosa llego a ser. Lo que ha llegado a ser ⁴en el era vida, y la vida era la luz de los humanos. ⁵Y la luz brilla en la oscuridad, y la oscuridad no la vencio.
+
+⁶Llego a ser un hombre, habiendo sido enviado de Dios -- su nombre *era* Yochanan. ⁷Este vino para testimonio, para que testificara acerca de la luz, para que todos confiaran por medio de el. ⁸El no era la luz, sino *que vino* para que testificara acerca de la luz. ⁹La luz verdadera, que ilumina a todo humano, estaba viniendo al mundo. ¹⁰El estaba en el mundo, y el mundo llego a ser por medio de el, y el mundo no lo conocio. ¹¹Vino a lo suyo *propio*, y los suyos *propios* no lo recibieron. ¹²Pero a todos los que lo recibieron, a ellos les dio el derecho de llegar a ser hijos de Dios -- a los que confian en su nombre, ¹³los cuales nacieron no de sangres, ni de voluntad de carne, ni de voluntad de varon, sino de Dios.
+
+¹⁴Y la palabra se hizo carne y habito entre nosotros, y vimos su gloria -- gloria como de un unico *venido* de un padre -- lleno de gracia y verdad. ¹⁵Yochanan testifica acerca de el y ha clamado, diciendo: "Este era aquel de quien yo dije: 'El que viene despues de mi ha llegado a ser antes que yo, porque era primero *con respecto* a mi.'" ¹⁶Porque de su plenitud todos nosotros recibimos, y gracia sobre gracia. ¹⁷Porque la ley fue dada por medio de Mosheh; la gracia y la verdad llegaron a ser por medio de Yeshua, *el* ungido. ¹⁸A Dios nadie lo ha visto jamas; el unigenito Dios, el que esta en el seno del Padre -- ese lo ha dado a conocer.
+
+¹⁹Y este es el testimonio de Yochanan, cuando los yehudim enviaron sacerdotes y levitas desde Yerushalayim para preguntarle: "¿Quien eres tu?" ²⁰Y el confeso y no nego, y confeso: "Yo no soy el ungido." ²¹Y le preguntaron: "¿Que, entonces? ¿Eres tu Eliyahu?" Y dice: "No soy." "¿Eres tu el Profeta?" Y respondio: "No." ²²Entonces le dijeron: "¿Quien eres? -- para que demos respuesta a los que nos enviaron. ¿Que dices acerca de ti mismo?" ²³Dijo: "Yo *soy* una voz que clama en el desierto: 'Enderecen el camino del Senor'" -- como dijo Yeshayahu el profeta.
+
+²⁴Y *los que* habian sido enviados eran de los perushim. ²⁵Y le preguntaron y le dijeron: "¿Por que entonces sumerges, si tu no eres el ungido, ni Eliyahu, ni el Profeta?" ²⁶Yochanan les respondio, diciendo: "Yo sumerjo en agua; en medio de ustedes esta uno a quien ustedes no conocen -- ²⁷el que viene despues de mi, de quien yo no soy digno de desatar la correa de su sandalia." ²⁸Estas cosas sucedieron en Beyt-Anyah al otro lado del Yarden, donde Yochanan estaba sumergiendo.
+
+²⁹Al dia siguiente el ve a Yeshua viniendo hacia el y dice: "Vean, el cordero de Dios, el que quita el pecado del mundo. ³⁰Este es aquel acerca de quien yo dije: 'Despues de mi viene un hombre que ha llegado a ser antes que yo, porque era primero *con respecto* a mi.' ³¹Y yo no lo conocia, pero para que el fuera manifestado a Yisrael -- por esta razon yo vine sumergiendo en agua." ³²Y Yochanan testifico, diciendo: "He visto al viento/espiritu descender como paloma del cielo, y permanecio sobre el. ³³Y yo no lo conocia, pero el que me envio a sumergir en agua, aquel me dijo: 'Sobre quien veas al viento/espiritu descender y permanecer sobre el -- este es el que sumerge en *el* santo viento/espiritu.' ³⁴Y yo he visto, y he testificado que este es el Hijo de Dios."
+
+³⁵Al dia siguiente de nuevo Yochanan estaba *de pie*, y *dos* de sus seguidores, ³⁶y habiendo mirado fijamente a Yeshua caminando, dice: "Vean, el cordero de Dios." ³⁷Y los dos seguidores lo oyeron hablar y siguieron a Yeshua. ³⁸Y Yeshua, habiendose vuelto y habiendo visto que lo seguian, les dice: "¿Que buscan?" Y ellos le dijeron: "Rabbi" -- que, traducido, significa Maestro -- "¿donde te hospedas?" ³⁹Les dice: "Vengan y vean." Vinieron y vieron donde se hospedaba, y se quedaron con el ese dia; *era* como la hora decima.
+
+⁴⁰Andreas, el hermano de Shimon Kefa, era uno de los dos que oyeron de Yochanan y lo siguieron. ⁴¹Este encuentra primero a su propio hermano Shimon y le dice: "Hemos encontrado al Mesias" -- que es, traducido, *el* ungido. ⁴²Lo llevo a Yeshua. Habiendolo mirado, Yeshua dijo: "Tu eres Shimon, el hijo de Yochanan; seras llamado Kefa" -- que se traduce "Roca."
+
+⁴³Al dia siguiente quiso salir al Galil, y encuentra a Philippos. Y Yeshua le dice: "Sigueme." ⁴⁴Y Philippos era de Beyt-Tsaidah, de la ciudad de Andreas y Kefa. ⁴⁵Philippos encuentra a Nathanael y le dice: "Aquel de quien Mosheh escribio en la ley, y los profetas -- lo hemos encontrado: Yeshua, hijo de Yosef, de Natseret." ⁴⁶Y Nathanael le dijo: "¿De Natseret puede *salir* algo bueno?" Philippos le dice: "Ven y ve."
+
+⁴⁷Yeshua vio a Nathanael viniendo hacia el y dice acerca de el: "Vean, verdaderamente un yisraeli en quien no hay engano." ⁴⁸Nathanael le dice: "¿De donde me conoces?" Yeshua respondio y le dijo: "Antes de que Philippos te llamara, *mientras estabas* debajo de la higuera, te vi." ⁴⁹Nathanael le respondio: "Rabbi, tu eres el Hijo de Dios; tu eres el rey de Yisrael." ⁵⁰Yeshua respondio y le dijo: "¿Porque te dije que te vi debajo de la higuera, confias? Veras cosas mayores que estas." ⁵¹Y le dice: "Amen, amen, les digo, veran el cielo abierto y los mensajeros de Dios ascendiendo y descendiendo sobre el Hijo del Hombre."
+
+---
+
+## ESTUDIO VERSICULO POR VERSICULO
+
+### **Versiculo 1**
+
+En el principio era la palabra, y la palabra estaba con Dios, y la palabra era Dios.
+
+> **📝 NOTAS**
+>
+> 🔴 **CRITICO -- *LOGOS* ("PALABRA")**
+> - **En arche en ho logos** (*En arche en ho logos*) = "En el principio era la palabra." El termino logos (*logos*) posee un rango semantico excepcionalmente amplio: palabra, discurso, razon, relato, calculo, proporcion, principio. En la tradicion filosofica griega (Heraclito, estoicos), *logos* = el principio racional que ordena el cosmos. En la tradicion judia de la sabiduria, se corresponde con chokmah (*chokhmah*, sabiduria) personificada en Proverbios 8 y Siracida 24. En los Targumim, memra (*memra*, "palabra") sirve como circunlocucion para la accion divina. La TT traduce "palabra" (minuscula) como la traduccion mas directa del griego, preservando la etimologia directa de *logos* (la forma nominal de *lego*, "hablar"), manteniendo el eco de Genesis 1 donde Dios habla y la creacion sucede. La capitalizacion ("Palabra") es un recurso tipografico que algunas tradiciones usan para senalar el referente unico; la TT deja esto al marco interpretativo del lector. La identificacion teologica pertenece a las notas y archivos companeros, no al texto principal.
+>
+> 🔴 **CRITICO -- TRES CLAUSULAS, TRES AFIRMACIONES**
+> - Clausula 1: **en arche en ho logos** -- "En el principio era la palabra." El *logos* existia en el principio. El verbo **en** (*en*) es imperfecto -- existencia continua, no un punto de origen. Contraste con **egeneto** (*egeneto*, aoristo, "llego a ser") en v.3.
+> - Clausula 2: **kai ho logos en pros ton theon** -- "y la palabra estaba con Dios." La preposicion **pros** (*pros*) + acusativo = "hacia, de frente a, en la presencia de" -- implica relacion, no mera proximidad espacial.
+> - Clausula 3: **kai theos en ho logos** -- "y la palabra era Dios." Orden griego: "y Dios era la palabra." **theos** (*theos*) es anartro (sin articulo) -- funciona como predicado nominativo. La ausencia del articulo antes de *theos* es gramaticalmente esperada en una construccion de predicado nominativo (Regla de Colwell). NO significa "un dios" (eso requeriria la construccion indefinida); describe la naturaleza/cualidad del *logos*. El texto afirma identidad de naturaleza mientras la segunda clausula preserva distincion de personas.
+>
+> 🔵 **IMPERFECTO *EN* -- EXISTENCIA CONTINUA**
+> - **en** (*en*) = imperfecto de eimi ("ser"). Usado tres veces en v.1. El aspecto imperfecto ve el estado como continuo, sin principio ni fin a la vista. Esto contrasta marcadamente con el aoristo **egeneto** (*egeneto*) en v.3, que ve la accion de la creacion como un todo completado.
+
+---
+
+### **Versiculo 2**
+
+Este era en el principio con Dios.
+
+> **📝 NOTAS**
+>
+> 🔵 **RESUMPTIVO -- houtos (*houtos*)**
+> - "Este" (*houtos*) = pronombre demostrativo, retomando el *logos* del v.1. El versiculo reafirma las dos primeras clausulas del v.1 en resumen, estableciendo la plataforma para la afirmacion de creacion del v.3. El imperfecto **en** continua.
+
+---
+
+### **Versiculo 3**
+
+Todas las cosas llegaron a ser por medio de el, y aparte de el ni una sola cosa llego a ser.
+
+> **📝 NOTAS**
+>
+> 🔴 **CRITICO -- VARIANTE DE PUNTUACION (VV.3-4)**
+> - Los manuscritos griegos mas antiguos carecen de puntuacion. Son posibles dos lecturas:
+> - (A) Punto despues de "llego a ser" al final del v.3: "Aparte de el ni una sola cosa llego a ser. Lo que ha llegado a ser, en el era vida." (seguida aqui)
+> - (B) Sin punto: "Aparte de el ni una sola cosa llego a ser de lo que ha llegado a ser. En el era vida."
+> - La lectura (A) es seguida por NA28 y la mayoria de las ediciones criticas modernas. La lectura (B) fue preferida por muchos Padres de la Iglesia. Ambas son gramaticalmente validas. La TT sigue el texto principal de NA28 segun la politica GS pero anota la alternativa.
+>
+> 🔵 **AORISTO *EGENETO* -- LLEGO A SER**
+> - **panta di' autou egeneto** = "todas las cosas por medio de el llegaron a ser." El aoristo **egeneto** (*egeneto*) de ginomai (*ginomai*, "llegar a ser") ve la creacion como un todo completado -- en contraste con el imperfecto **en** de vv.1-2. El *logos* era (continuo); la creacion llego a ser (vista como evento). Este contraste aspectual tiene carga teologica.
+>
+> 🟢 **"POR MEDIO DE EL" -- di' autou**
+> - La preposicion **dia** (*dia*) + genitivo = "por medio de" -- agencia, instrumentalidad. El *logos* es el agente por medio del cual todas las cosas llegaron a ser. Esto hace eco del patron de creacion-por-habla de Gen 1 ("y dijo Dios").
+
+---
+
+### **Versiculo 4**
+
+Lo que ha llegado a ser -- en el era vida, y la vida era la luz de los humanos.
+
+> **📝 NOTAS**
+>
+> 🟢 **"VIDA" Y "LUZ" -- PRIMERA OCURRENCIA**
+> - **zoe** (*zoe*) = vida -- especificamente vida vital, animada. Distinguida de **bios** (*bios*, sustento/modo de vida) en el uso griego mas amplio.
+> - **phos** (*phos*) = luz. La conexion vida -> luz hace eco de Gen 1:3 (la luz como la primera cosa creada) pero aqui identifica al *logos* como la fuente.
+>
+> 🟢 **"DE LOS HUMANOS" -- ton anthropon**
+> - **anthropos** (*anthropos*) = ser humano (generico, no especifico de genero). La vida-como-luz es para toda la humanidad.
+
+---
+
+### **Versiculo 5**
+
+Y la luz brilla en la oscuridad, y la oscuridad no la vencio.
+
+> **📝 NOTAS**
+>
+> 🔴 **CRITICO -- *KATELABEN* (NO VENCIO / NO COMPRENDIO)**
+> - **he skotia auto ou katelaben** = "la oscuridad no la vencio." El verbo **katelaben** (*katelaben*) de katalambano tiene dos sentidos: (1) "asir/vencer/dominar" y (2) "comprender/captar mentalmente." Ambos significados son **PROBABLES** aqui -- la oscuridad ni domino ni entendio la luz. La TT traduce "vencio" como el sentido primario en el texto principal (la imagen de conflicto encaja con la oposicion luz-oscuridad) pero el doble sentido se anota. Esta es una ambiguedad genuina segun la Regla 2.
+>
+> 🔵 **PRESENTE *PHAINEI* -- "BRILLA"**
+> - **phainei** (*phainei*) = tiempo presente -- "brilla" (continuo). El brillar de la luz es continuo. El fracaso de la oscuridad en vencerla es aoristo (*katelaben*) -- visto como un todo, un hecho consumado.
+
+---
+
+### **Versiculo 6**
+
+Llego a ser un hombre, habiendo sido enviado de Dios -- su nombre *era* Yochanan.
+
+> **📝 NOTAS**
+>
+> 🔵 **AORISTO *EGENETO* -- CAMBIO DE LO ETERNO A LO HISTORICO**
+> - **Egeneto anthropos** = "Llego a ser un hombre." El mismo verbo (*egeneto*) usado para la creacion en v.3 ahora introduce a una figura historica. Yochanan "llego a ser" -- el es criatura, no creador. El contraste aspectual con el *logos* (quien "era," imperfecto) es deliberado.
+>
+> 🟢 **YOCHANAN -- TRANSLITERACION TT**
+> - **Ioannes** (*Ioannes*) = forma griega del hebreo Yochanan (*Yochanan*, "YHWH es misericordioso"). La TT usa la forma hebrea segun la politica de transliteracion. Este es Yochanan el Inmersor, no el autor (la autoria es una cuestion del archivo companero, no una cuestion de traduccion).
+
+---
+
+### **Versiculo 7**
+
+Este vino para testimonio, para que testificara acerca de la luz, para que todos confiaran por medio de el.
+
+> **📝 NOTAS**
+>
+> 🟢 **"TESTIMONIO" / "TESTIFICAR" -- *MARTYRIA* / *MARTYREO***
+> - **martyria** (*martyria*) = testimonio, declaracion, evidencia. **martyreo** (*martyreo*) = testificar, dar testimonio. La connotacion legal/judicial esta presente -- el rol de Yochanan es el de un testigo que da evidencia. La familia de palabras domina este capitulo (vv.7, 8, 15, 19, 32, 34).
+>
+> 🟢 **"CONFIAR" -- *PISTEUO***
+> - **pisteusosin** (*pisteusosin*) = aoristo subjuntivo de pisteuo. Traducido "confiar" segun el glosario fijo (*pistis* = confianza/fidelidad). El griego *pisteuo* abarca tanto el acto de confiar como la cualidad de ser confiable -- mas amplio de lo que el uso moderno de "creer" se ha estrechado. La TT preserva la dimension relacional.
+
+---
+
+### **Versiculo 8**
+
+El no era la luz, sino *que vino* para que testificara acerca de la luz.
+
+> **📝 NOTAS**
+>
+> 🟡 **DEFINICION NEGATIVA DE YOCHANAN**
+> - El narrador define a Yochanan por lo que NO es antes de definir lo que es. El no es la luz -- testifica acerca de la luz. Esta insistencia (repetida en vv.20-21) puede reflejar una situacion historica en la que algunos consideraban a Yochanan como la figura principal.
+
+---
+
+### **Versiculo 9**
+
+La luz verdadera, que ilumina a todo humano, estaba viniendo al mundo.
+
+> **📝 NOTAS**
+>
+> 🔵 **AMBIGUEDAD GRAMATICAL -- ¿QUIEN "VIENE AL MUNDO"?**
+> - La frase participial **erchomenon eis ton kosmon** ("viniendo al mundo") puede modificar tanto a "luz" (la luz que estaba viniendo al mundo) como a "humano" (todo humano que viene al mundo). Ambas son gramaticalmente validas. La TT la asocia a "luz" siguiendo la lectura dominante, pero la ambiguedad se anota.
+>
+> 🟢 **"MUNDO" -- *KOSMOS***
+> - **kosmos** (*kosmos*) = mundo -- primera ocurrencia. En Juan, *kosmos* tipicamente significa el mundo humano ordenado, la esfera de los asuntos humanos, no el universo fisico. Tiene tanto sentidos neutrales (el mundo que Dios ama, 3:16) como negativos (el mundo que no lo conocio, v.10) dependiendo del contexto.
+
+---
+
+### **Versiculo 10**
+
+El estaba en el mundo, y el mundo llego a ser por medio de el, y el mundo no lo conocio.
+
+> **📝 NOTAS**
+>
+> 🟡 **TRES CLAUSULAS CON *KOSMOS* -- IRONIA ASCENDENTE**
+> - Clausula 1: El estaba en el mundo (presencia). Clausula 2: El mundo llego a ser por medio de el (creacion). Clausula 3: El mundo no lo conocio (rechazo). La triple repeticion de *kosmos* avanza de la proximidad al origen y de ahi a la alienacion. El creador no es reconocido por la creacion.
+
+---
+
+### **Versiculo 11**
+
+Vino a lo suyo *propio*, y los suyos *propios* no lo recibieron.
+
+> **📝 NOTAS**
+>
+> 🔵 **CAMBIO NEUTRO -> MASCULINO**
+> - **eis ta idia** (*eis ta idia*) = "a lo suyo propio" (neutro plural -- dominio, propiedad, patria). **hoi idioi** (*hoi idioi*) = "los suyos propios" (masculino plural -- personas). El cambio de neutro a masculino precisa el rechazo: vino a su propio lugar, sus propias personas no lo recibieron.
+
+---
+
+### **Versiculo 12**
+
+Pero a todos los que lo recibieron, a ellos les dio el derecho de llegar a ser hijos de Dios -- a los que confian en su nombre,
+
+> **📝 NOTAS**
+>
+> 🟢 **"DERECHO" -- *EXOUSIA***
+> - **exousia** (*exousia*) = derecho, autoridad, poder. NO "poder" en el sentido de capacidad bruta (*dynamis*), sino derecho autorizado -- la posicion legitima para llegar a ser algo.
+>
+> 🟢 **"LOS QUE CONFIAN EN SU NOMBRE"**
+> - **tois pisteuousin eis to onoma autou** = participio presente -- "los que confian" (accion continua). "En su nombre" (*eis to onoma*) = hacia/en direccion a su nombre -- direccional, no estatico.
+
+---
+
+### **Versiculo 13**
+
+los cuales nacieron no de sangres, ni de voluntad de carne, ni de voluntad de varon, sino de Dios.
+
+> **📝 NOTAS**
+>
+> 🔵 **"SANGRES" -- PLURAL *HAIMATON***
+> - **ex haimaton** (*ex haimaton*) = "de sangres" -- plural inusual. El plural probablemente se refiere a linajes, ascendencia o descendencia fisica. La TT preserva el plural ("sangres") porque el griego es deliberadamente inusual.
+>
+> 🟢 **"CARNE" -- *SARX***
+> - **sarx** (*sarx*) = carne -- primera ocurrencia. Segun el glosario fijo: enfasis fisico, mortal. El griego *sarx* abarca existencia corporea, mortal; en Juan, consistentemente fisico/mortal. Aqui "voluntad de carne" = generacion fisica/natural.
+
+---
+
+### **Versiculo 14**
+
+Y la palabra se hizo carne y habito entre nosotros, y vimos su gloria -- gloria como de un unico *venido* de un padre -- lleno de gracia y verdad.
+
+> **📝 NOTAS**
+>
+> 🔴 **CRITICO -- "LA PALABRA SE HIZO CARNE"**
+> - **kai ho logos sarx egeneto** = "y la palabra carne se hizo." El *logos* del v.1 -- que estaba con Dios y era Dios -- ahora se hace *sarx* (carne, fisicalidad mortal). El aoristo **egeneto** marca esto como evento, no estado continuo. El verbo es el mismo usado para la creacion en v.3 -- la palabra "llego a ser" como carne. El texto afirma sin explicar el mecanismo.
+>
+> 🟢 **"HABITO" -- *ESKENOSEN***
+> - **eskenosen** (*eskenosen*) = literalmente "acampo/tabernaculizo" -- de skene (*skene*, "tienda"). La palabra hace eco de la tradicion del tabernaculo (*mishkan*) -- Dios habitando entre Yisrael en una tienda. El aoristo ve la morada como un evento completo.
+>
+> 🟢 **"UNICO" -- *MONOGENES***
+> - **monogenes** (*monogenes*) = "unico nacido" o "unico en su genero" -- de monos (unico) + genos (tipo/nacimiento). NO "unigenito" en el sentido credal posterior (que importa *gennao* = engendrar). La palabra describe unicidad de relacion. La TT traduce "unico" en v.14 y "unico nacido" en v.18 donde la variante textual anade *theos* (Dios).
+>
+> 🟢 **"GRACIA Y VERDAD" -- *CHARIS KAI ALETHEIA***
+> - **charis** (*charis*) = gracia/favor (segun glosario fijo). **aletheia** (*aletheia*) = verdad. El par probablemente hace eco del hebreo chesed ve'emet (*chesed ve'emet*, "amor leal y verdad/fidelidad") -- un par fijo en las EH (Ex 34:6). Esta conexion pertenece a la nota, no importada al texto principal.
+
+---
+
+### **Versiculo 15**
+
+Yochanan testifica acerca de el y ha clamado, diciendo: "Este era aquel de quien yo dije: 'El que viene despues de mi ha llegado a ser antes que yo, porque era primero *con respecto* a mi.'"
+
+> **📝 NOTAS**
+>
+> 🔵 **CAMBIOS DE TIEMPO -- PRESENTE, PERFECTO, IMPERFECTO**
+> - **martyrei** (*martyrei*) = tiempo presente -- "testifica" (continuo). **kekragen** (*kekragen*) = tiempo perfecto -- "ha clamado" (accion completada con resultado continuo). **en** (*en*) = imperfecto -- "era" (existencia previa). La superposicion de tiempos comprime el testimonio pasado en testigo presente.
+>
+> 🟡 **"PRIMERO CON RESPECTO A MI" -- *PROTOS MOU***
+> - **protos mou en** = "el era primero *con respecto a* mi." La prioridad es temporal (existio antes que yo) y posiblemente de rango. Yochanan vino primero cronologicamente pero reconoce al *logos*-hecho-carne como previo.
+
+---
+
+### **Versiculo 16**
+
+Porque de su plenitud todos nosotros recibimos, y gracia sobre gracia.
+
+> **📝 NOTAS**
+>
+> 🟢 **"GRACIA SOBRE GRACIA" -- *CHARIN ANTI CHARITOS***
+> - **charin anti charitos** = literalmente "gracia en lugar de gracia" o "gracia sobre gracia." La preposicion **anti** (*anti*) = "en lugar de," "a cambio de," "sobre." Tres lecturas: (1) gracia reemplazando gracia (oleadas sucesivas), (2) gracia correspondiente a gracia (correspondencia), (3) gracia del nuevo pacto reemplazando gracia del antiguo pacto. La TT traduce "gracia sobre gracia" como la opcion menos interpretativa.
+
+---
+
+### **Versiculo 17**
+
+Porque la ley fue dada por medio de Mosheh; la gracia y la verdad llegaron a ser por medio de Yeshua, *el* ungido.
+
+> **📝 NOTAS**
+>
+> 🔴 **CRITICO -- MOSHEH Y YESHUA**
+> - **ho nomos dia Mouseos edothe** = "la ley por medio de Mosheh fue dada" (aoristo pasivo). **he charis kai he aletheia dia Iesou Christou egeneto** = "la gracia y la verdad por medio de Yeshua el ungido llegaron a ser" (aoristo). La estructura paralela invita a la comparacion pero NO afirma explicitamente oposicion. La "ley" no es devaluada -- "fue dada" (pasivo, implicando dador divino). La gracia y la verdad "llegaron a ser" -- el mismo verbo (*egeneto*) usado para la creacion.
+>
+> 🟢 **"YESHUA" -- TRANSLITERACION TT**
+> - **Iesous** (*Iesous*) = forma griega del hebreo Yeshua (*Yeshua*, "el salva" / forma abreviada de Yehoshua). La TT usa la forma hebrea/aramea.
+>
+> 🟢 **"UNGIDO" -- *CHRISTOS***
+> - **Christos** (*Christos*) = "ungido." Segun glosario fijo: minuscula cuando funciona como descriptor. Aqui sigue al nombre propio, funcionando como titulo/descriptor -- "Yeshua, el ungido." Se corresponde con el hebreo mashiach (*mashiach*).
+
+---
+
+### **Versiculo 18**
+
+A Dios nadie lo ha visto jamas; el unico nacido Dios, el que esta en el seno del Padre -- ese lo ha dado a conocer.
+
+> **📝 NOTAS**
+>
+> 🔴 **CRITICO -- VARIANTE TEXTUAL: "UNICO NACIDO DIOS" vs. "UNICO NACIDO HIJO"**
+> - El texto principal de NA28 lee **monogenes theos** (*monogenes theos*) = "unico nacido Dios." Lectura alternativa importante: **monogenes huios** (*monogenes huios*) = "unico nacido Hijo." La lectura "Dios" esta respaldada por P66, P75, alef*, B, C*; la lectura "Hijo" por A, C3, Theta, f1, f13, M. NA28 adopta "Dios" como la lectura mas dificil y mejor atestiguada. La TT sigue a NA28 segun la politica GS pero anota la variante significativa.
+>
+> 🟢 **"HA DADO A CONOCER" -- *EXEGESATO***
+> - **exegesato** (*exegesato*) = "dio a conocer, declaro, explico" -- del cual se deriva el termino "exegesis." El unico nacido Dios/Hijo interpreta, narra, explica al Dios no visto. El verbo conlleva el sentido de exposicion autorizada.
+
+---
+
+### **Versiculo 19**
+
+Y este es el testimonio de Yochanan, cuando los yehudim enviaron sacerdotes y levitas desde Yerushalayim para preguntarle: "¿Quien eres tu?"
+
+> **📝 NOTAS**
+>
+> 🔴 **CRITICO -- *HOI IOUDAIOI* ("LOS YEHUDIM")**
+> - **hoi Ioudaioi** (*hoi Ioudaioi*) = literalmente "los judeos" -- los de Yehudah/Judea. En el Evangelio de Juan, este termino funciona de multiples maneras: (1) etnico/geografico ("gente de Judea"), (2) autoridades religiosas ("el liderazgo judeo"), (3) mas ampliamente "el pueblo judio." La TT traduce "los yehudim" -- transliterando en lugar de traducir -- para preservar la ambiguedad. El termino NO significa "los judios" en el sentido etnico/religioso moderno sin cualificacion. El contexto debe determinar el referente por versiculo. Nota de primera ocurrencia.
+>
+> 🟢 **YERUSHALAYIM -- TRANSLITERACION TT**
+> - **Hierosolyma** (*Hierosolyma*) = forma griega del hebreo Yerushalayim (*Yerushalayim*). La TT usa la forma hebrea.
+
+---
+
+### **Versiculo 20**
+
+Y el confeso y no nego, y confeso: "Yo no soy el ungido."
+
+> **📝 NOTAS**
+>
+> 🔵 **DOBLE CONFESION -- NEGACION ENFATICA**
+> - **homologesen kai ouk ernesato, kai homologesen** = "confeso y no nego, y confeso." La triple afirmacion (confeso + no nego + confeso) es enfaticamente redundante. El narrador asegura que no haya ambiguedad sobre la autocomprension de Yochanan.
+
+---
+
+### **Versiculo 21**
+
+Y le preguntaron: "¿Que, entonces? ¿Eres tu Eliyahu?" Y dice: "No soy." "¿Eres tu el Profeta?" Y respondio: "No."
+
+> **📝 NOTAS**
+>
+> 🟡 **TRES NEGACIONES -- TRES FIGURAS ESPERADAS**
+> - (1) El ungido (*christos*) -- el esperado rey davidico. (2) Eliyahu -- esperado como precursor del gran dia (Mal 3:23 [4:5]). (3) El Profeta -- "un profeta como Mosheh" (Deut 18:15). Yochanan niega ser cualquiera de los tres. Nota: los Evangelios Sinopticos identifican a Yochanan con Eliyahu (Mat 11:14, 17:12-13); el Evangelio de Juan hace que Yochanan lo niegue. La TT reporta cada texto como se presenta sin armonizar.
+>
+> 🔵 **PRESENTE HISTORICO -- *LEGEI* ("DICE")**
+> - **legei** (*legei*) = tiempo presente en narrativa pasada -- el "presente historico," comun en la narrativa griega, especialmente en Juan. Transmite vivacidad e inmediatez. La TT lo preserva como "dice" en lugar de convertirlo a tiempo pasado.
+
+---
+
+### **Versiculo 22**
+
+Entonces le dijeron: "¿Quien eres? -- para que demos respuesta a los que nos enviaron. ¿Que dices acerca de ti mismo?"
+
+> **📝 NOTAS**
+>
+> 🔵 **RENDICION DE CUENTAS INDIRECTA**
+> - La delegacion ha sido enviada. Necesitan un informe. La presion es institucional -- representan a las autoridades de Yerushalayim y deben regresar con una respuesta.
+
+---
+
+### **Versiculo 23**
+
+Dijo: "Yo *soy* una voz que clama en el desierto: 'Enderecen el camino del Senor'" -- como dijo Yeshayahu el profeta.
+
+> **📝 NOTAS**
+>
+> 🔴 **CRITICO -- "EL SENOR" (kyrios) CITANDO PASAJE DEL AT CON YHWH**
+> - **euthynate ten hodon kyriou** = "Enderecen el camino del Senor." Esto cita Isaias 40:3 (LXX). El hebreo subyacente tiene el Tetragrama: **pannu derekh YHWH** = "Despéjen el camino de YHWH." Segun la Politica GS del Nombre Divino (Opcion C): el texto base griego dice kyrios, por lo que la TT traduce "el Senor" en el texto principal. La fuente veterotestamentaria se anota aqui: el pasaje se refiere a YHWH en el original hebreo. El texto base GS es griego; el griego dice *kyrios*; la TT traduce lo que dice el texto. Alternativas no tomadas: (A) retrovertir a YHWH (traduciria una palabra que no esta en el texto base griego), (B) traducir sin nota (ocultaria la conexion veterotestamentaria).
+>
+> 🟢 **YESHAYAHU -- TRANSLITERACION TT**
+> - **Esaias** (*Esaias*) = forma griega del hebreo Yeshayahu (*Yeshayahu*). La TT usa la forma hebrea.
+
+---
+
+### **Versiculo 24**
+
+Y *los que* habian sido enviados eran de los perushim.
+
+> **📝 NOTAS**
+>
+> 🟢 **PERUSHIM -- TRANSLITERACION TT**
+> - **Pharisaioi** (*Pharisaioi*) = forma griega del hebreo perushim (*Perushim*, "los separados"). La TT usa la forma hebrea. El grupo es un movimiento judio del Segundo Templo que enfatizaba la observancia de la Torah y la tradicion oral.
+
+---
+
+### **Versiculo 25**
+
+Y le preguntaron y le dijeron: "¿Por que entonces sumerges, si tu no eres el ungido, ni Eliyahu, ni el Profeta?"
+
+> **📝 NOTAS**
+>
+> 🟢 **"SUMERGIR" -- *BAPTIZO***
+> - **baptizo** (*baptizo*) = sumergir, hundir, zambullir. Segun glosario fijo: traducido "sumergir," NO transliterado como "bautizar." El griego tiene contenido semantico claro: inmersion fisica en agua. El umbral de la Regla 4 no se cumple para la transliteracion. Nota de primera ocurrencia.
+
+---
+
+### **Versiculo 26**
+
+Yochanan les respondio, diciendo: "Yo sumerjo en agua; en medio de ustedes esta uno a quien ustedes no conocen --
+
+> **📝 NOTAS**
+>
+> 🟢 **"EN AGUA" -- en hydati**
+> - El medio se especifica: agua. El contraste con la inmersion en el viento/espiritu (v.33) se establece aqui.
+
+---
+
+### **Versiculo 27**
+
+el que viene despues de mi, de quien yo no soy digno de desatar la correa de su sandalia."
+
+> **📝 NOTAS**
+>
+> 🟡 **CORREA DE SANDALIA -- TAREA SERVIL**
+> - Desatar la correa de una sandalia se consideraba demasiado bajo incluso para un sirviente hebreo (b. Ketubbot 96a). Yochanan se coloca por debajo del estatus de un sirviente en relacion con el que viene.
+
+---
+
+### **Versiculo 28**
+
+Estas cosas sucedieron en Beyt-Anyah al otro lado del Yarden, donde Yochanan estaba sumergiendo.
+
+> **📝 NOTAS**
+>
+> 🟢 **BEYT-ANYAH AL OTRO LADO DEL YARDEN**
+> - **Bethania** (*Bethania*) = forma griega del hebreo/arameo Beyt-Anyah (*Beyt-Anyah*, "casa de afliccion" o "casa de los pobres"). Esta NO es la Beyt-Anyah cerca de Yerushalayim (11:1). La ubicacion esta al este del Yarden.
+>
+> 🔴 **CRITICO -- VARIANTE TEXTUAL: *BETHANIA* vs. *BETHABARA***
+> - La mayoria de los manuscritos leen Bethania (*Bethania*). Origenes prefirio Bethabara (*Bethabara*, "casa del cruce"), argumentando que no se conocia ninguna Betania al este del Jordan. NA28 retiene *Bethania* como la lectura mejor atestiguada.
+
+---
+
+### **Versiculo 29**
+
+Al dia siguiente el ve a Yeshua viniendo hacia el y dice: "Vean, el cordero de Dios, el que quita el pecado del mundo.
+
+> **📝 NOTAS**
+>
+> 🔴 **CRITICO -- "EL CORDERO DE DIOS"**
+> - **ide ho amnos tou theou** = "Vean, el cordero de Dios." El trasfondo es debatido: (1) el cordero pascual (Ex 12), (2) el siervo sufriente "como un cordero" (Isa 53:7), (3) el sacrificio diario *tamid*, (4) el cordero guerrero apocaliptico. El texto no especifica cual tradicion esta a la vista. La TT traduce el griego como esta sin seleccionar un unico trasfondo en el texto principal.
+>
+> 🟢 **"VEAN" -- ide (*IDE*)**
+> - **ide** (*ide*) = "¡vean!" -- imperativo. Segun glosario fijo, las expresiones tipo *hinneh* se traducen "vean." Funciona como particula para dirigir la atencion.
+>
+> 🟢 **"EL QUE QUITA" -- *AIRON***
+> - **ho airon** (*ho airon*) = participio presente, "el que quita / levanta / carga." El verbo **airo** (*airo*) tiene tanto el sentido de "remover" como de "cargar/llevar" -- el cordero o remueve el pecado o lo carga. Ambos sentidos pueden estar activos.
+
+---
+
+### **Versiculo 30**
+
+Este es aquel acerca de quien yo dije: 'Despues de mi viene un hombre que ha llegado a ser antes que yo, porque era primero *con respecto* a mi.'
+
+> **📝 NOTAS**
+>
+> 🔵 **REPETICION DEL V.15**
+> - Casi identico al v.15. La repeticion dentro de la narrativa (vv.15, 30) refuerza el testimonio consistente de Yochanan.
+
+---
+
+### **Versiculo 31**
+
+Y yo no lo conocia, pero para que el fuera manifestado a Yisrael -- por esta razon yo vine sumergiendo en agua."
+
+> **📝 NOTAS**
+>
+> 🟡 **PROPOSITO DE LA INMERSION -- REVELACION, NO ARREPENTIMIENTO**
+> - Yochanan afirma que su inmersion tenia un proposito revelatorio: "para que el fuera manifestado a Yisrael." El enfasis sinoptico en la inmersion-de-arrepentimiento no se destaca aqui. Cada texto presenta su propio enfasis.
+
+---
+
+### **Versiculo 32**
+
+Y Yochanan testifico, diciendo: "He visto al viento/espiritu descender como paloma del cielo, y permanecio sobre el.
+
+> **📝 NOTAS**
+>
+> 🟢 **"VIENTO/ESPIRITU" -- *PNEUMA***
+> - **to pneuma** (*to pneuma*) = viento/espiritu. Segun glosario fijo y alineacion cruzada con las EH ruach (*ruach*): misma politica de barra. El genero neutro del griego *pneuma* contrasta con el femenino del hebreo *ruach*; la diferencia de genero se anota pero no afecta la traduccion.
+>
+> 🔵 **PERFECTO *TETHEAMAI* -- "HE VISTO"**
+> - **tetheamai** (*tetheamai*) = tiempo perfecto de theaomai ("ver/observar"). El perfecto enfatiza el resultado continuo: "he visto (y lo visto permanece conmigo)." El testimonio de Yochanan se fundamenta en una observacion completada con efecto duradero.
+>
+> 🟢 **"COMO PALOMA" -- hosei peristeran**
+> - La comparacion es "como paloma" -- describe la manera del descenso, no afirma que el viento/espiritu sea una paloma. Si "como paloma" modifica el descenso o la apariencia es ambiguo en el griego.
+
+---
+
+### **Versiculo 33**
+
+Y yo no lo conocia, pero el que me envio a sumergir en agua, aquel me dijo: 'Sobre quien veas al viento/espiritu descender y permanecer sobre el -- este es el que sumerge en *el* santo viento/espiritu.'
+
+> **📝 NOTAS**
+>
+> 🟢 **"SANTO VIENTO/ESPIRITU" -- *PNEUMA HAGION***
+> - **pneuma hagion** (*pneuma hagion*) = santo viento/espiritu. Anartro (sin articulo) en griego -- "santo espiritu" en lugar de "el santo espiritu." La TT anade el articulo en cursiva (*el*) para la legibilidad en espanol mientras anota la falta de articulo en el griego. La traduccion "santo viento/espiritu" mantiene la politica de barra y evita importar el titulo trinitario posterior "el Espiritu Santo" en la capa de traduccion.
+
+---
+
+### **Versiculo 34**
+
+Y yo he visto, y he testificado que este es el Hijo de Dios."
+
+> **📝 NOTAS**
+>
+> 🔴 **CRITICO -- VARIANTE TEXTUAL: "HIJO DE DIOS" vs. "ELEGIDO DE DIOS"**
+> - El texto principal de NA28 lee **ho huios tou theou** (*ho huios tou theou*) = "el Hijo de Dios." Una variante significativa lee **ho eklektos tou theou** (*ho eklektos tou theou*) = "el elegido de Dios" -- atestiguada por P5vid, alef*, b, e, ff2, algunos testigos siriacos. La lectura "elegido" es la *lectio difficilior* (lectura mas dificil) pero tiene atestiguacion mas limitada. NA28 retiene "Hijo de Dios." La TT sigue a NA28 pero anota la variante.
+
+---
+
+### **Versiculo 35**
+
+Al dia siguiente de nuevo Yochanan estaba *de pie*, y *dos* de sus seguidores,
+
+> **📝 NOTAS**
+>
+> 🔵 **"SEGUIDORES" -- *MATHETAI***
+> - **mathetai** (*mathetai*) = aprendices, estudiantes, discipulos. Traducido "seguidores" -- el termino implica aprendizaje y formacion sostenida, no simplemente seguimiento casual.
+
+---
+
+### **Versiculo 36**
+
+y habiendo mirado fijamente a Yeshua caminando, dice: "Vean, el cordero de Dios."
+
+> **📝 NOTAS**
+>
+> 🔵 **"HABIENDO MIRADO FIJAMENTE" -- *EMBLEPSAS***
+> - **emblepsas** (*emblepsas*) = participio aoristo de emblepo = "mirar fijamente, contemplar." Mas fuerte que un simple ver -- una mirada enfocada y penetrante.
+
+---
+
+### **Versiculo 37**
+
+Y los dos seguidores lo oyeron hablar y siguieron a Yeshua.
+
+---
+
+### **Versiculo 38**
+
+Y Yeshua, habiendose vuelto y habiendo visto que lo seguian, les dice: "¿Que buscan?" Y ellos le dijeron: "Rabbi" -- que, traducido, significa Maestro -- "¿donde te hospedas?"
+
+> **📝 NOTAS**
+>
+> 🟢 **"RABBI" -- TRANSLITERADO EN EL TEXTO GRIEGO**
+> - **Rhabbi** (*Rhabbi*) = ya es una transliteracion en el griego del hebreo/arameo rabbi (*rabbi*, "mi grande" -> "mi maestro"). El narrador lo traduce para los lectores griegos: "que, traducido, significa Maestro." La TT preserva la glosa del propio narrador.
+>
+> 🔵 **PRIMERAS PALABRAS DE YESHUA EN JUAN -- "¿QUE BUSCAN?"**
+> - Las primeras palabras habladas por Yeshua en este Evangelio son una pregunta, no una declaracion. El patron de Yeshua haciendo preguntas antes de responderlas se repite a lo largo de Juan.
+
+---
+
+### **Versiculo 39**
+
+Les dice: "Vengan y vean." Vinieron y vieron donde se hospedaba, y se quedaron con el ese dia; *era* como la hora decima.
+
+> **📝 NOTAS**
+>
+> 🟢 **"LA HORA DECIMA"**
+> - Si se cuenta desde el amanecer (~6 AM), la hora decima = aproximadamente las 4 PM. La anotacion especifica del tiempo le da al relato una cualidad de testigo ocular -- alguien recordo la hora.
+
+---
+
+### **Versiculo 40**
+
+Andreas, el hermano de Shimon Kefa, era uno de los dos que oyeron de Yochanan y lo siguieron.
+
+> **📝 NOTAS**
+>
+> 🟢 **ANDREAS -- TRANSLITERACION TT**
+> - **Andreas** (*Andreas*) = nombre griego (de aner, "hombre"). A diferencia de los nombres hebreos transliterados a su forma hebrea, Andreas es nativamente griego y se retiene como tal.
+
+---
+
+### **Versiculo 41**
+
+Este encuentra primero a su propio hermano Shimon y le dice: "Hemos encontrado al Mesias" -- que es, traducido, *el* ungido.
+
+> **📝 NOTAS**
+>
+> 🟢 **"MESIAS" -- TRANSLITERADO EN EL TEXTO GRIEGO**
+> - **Messias** (*Messias*) = transliteracion griega del arameo meshicha (*meshicha*) / hebreo mashiach (*mashiach*). El narrador traduce: "que es, traducido, *christos*" (ungido). La TT preserva "Mesias" donde el texto griego mismo usa el termino semitico, y traduce la glosa griega como "ungido" segun el glosario fijo.
+
+---
+
+### **Versiculo 42**
+
+Lo llevo a Yeshua. Habiendolo mirado, Yeshua dijo: "Tu eres Shimon, el hijo de Yochanan; seras llamado Kefa" -- que se traduce "Roca."
+
+> **📝 NOTAS**
+>
+> 🟢 **KEFA -- TRANSLITERACION TT**
+> - **Kephas** (*Kephas*) = transliteracion griega del arameo Kefa (*Kefa*, "roca"). El narrador anade la traduccion griega: Petros (*Petros*, "Roca"). La TT usa "Kefa" y proporciona el significado "Roca" como lo hace el narrador.
+>
+> 🟡 **CAMBIO DE NOMBRE -- ECOS DE AVRAM -> AVRAHAM**
+> - Yeshua renombra a Shimon como Kefa, asi como Dios renombro a Avram como Avraham (Gen 17:5) y a Yaakov como Yisrael (Gen 32:28 [29]). El cambio de nombre senala una nueva identidad y vocacion.
+
+---
+
+### **Versiculo 43**
+
+Al dia siguiente quiso salir al Galil, y encuentra a Philippos. Y Yeshua le dice: "Sigueme."
+
+> **📝 NOTAS**
+>
+> 🟢 **GALIL -- TRANSLITERACION TT**
+> - **Galilaia** (*Galilaia*) = forma griega del hebreo Galil (*Galil*, "circulo/distrito"). La TT usa la forma hebrea.
+
+---
+
+### **Versiculo 44**
+
+Y Philippos era de Beyt-Tsaidah, de la ciudad de Andreas y Kefa.
+
+> **📝 NOTAS**
+>
+> 🟢 **BEYT-TSAIDAH -- TRANSLITERACION TT**
+> - **Bethsaida** (*Bethsaida*) = forma griega del hebreo/arameo Beyt-Tsaidah (*Beyt-Tsaidah*, "casa de pesca/caza"). La TT usa la forma semitica.
+
+---
+
+### **Versiculo 45**
+
+Philippos encuentra a Nathanael y le dice: "Aquel de quien Mosheh escribio en la ley, y los profetas -- lo hemos encontrado: Yeshua, hijo de Yosef, de Natseret."
+
+> **📝 NOTAS**
+>
+> 🟡 **"MOSHEH ESCRIBIO EN LA LEY, Y LOS PROFETAS"**
+> - Philippos identifica a Yeshua con la figura anticipada en la Torah y los Profetas -- sin especificar cuales pasajes. La afirmacion es comprehensiva pero sin detalle. "Hijo de Yosef" es la identificacion social; el narrador no la corrige ni la cualifica aqui.
+>
+> 🟢 **NATSERET -- TRANSLITERACION TT**
+> - **Nazaret** (*Nazaret*) = forma griega del hebreo Natseret (*Natseret*). La TT usa la forma hebrea.
+
+---
+
+### **Versiculo 46**
+
+Y Nathanael le dijo: "¿De Natseret puede *salir* algo bueno?" Philippos le dice: "Ven y ve."
+
+> **📝 NOTAS**
+>
+> 🟡 **ESCEPTICISMO SOBRE NATSERET**
+> - La pregunta de Nathanael refleja ya sea la insignificancia de Natseret o un prejuicio especifico. El texto no explica la base del escepticismo -- simplemente lo registra. "Ven y ve" -- Philippos no argumenta; invita al encuentro directo.
+
+---
+
+### **Versiculo 47**
+
+Yeshua vio a Nathanael viniendo hacia el y dice acerca de el: "Vean, verdaderamente un yisraeli en quien no hay engano."
+
+> **📝 NOTAS**
+>
+> 🟡 **ECO DE YAAKOV -- "SIN ENGANO"**
+> - **dolos** (*dolos*) = engano, astucia, traicion. Yaakov ("el que agarra el talon/suplantador") fue caracterizado por el engano (Gen 27). Yeshua describe a Nathanael como un verdadero yisraeli -- uno *sin* el engano asociado al patriarca cuyo nombre Yisrael lleva. La alusion invierte la tradicion de Yaakov.
+
+---
+
+### **Versiculo 48**
+
+Nathanael le dice: "¿De donde me conoces?" Yeshua respondio y le dijo: "Antes de que Philippos te llamara, *mientras estabas* debajo de la higuera, te vi."
+
+> **📝 NOTAS**
+>
+> 🟡 **"DEBAJO DE LA HIGUERA"**
+> - La higuera esta asociada en la tradicion rabinica con el estudio de la Torah. Si esta es la alusion aqui es incierto. El texto presenta el conocimiento de Yeshua sobre la ubicacion de Nathanael como una senal de percepcion sobrenatural, sin explicar como.
+
+---
+
+### **Versiculo 49**
+
+Nathanael le respondio: "Rabbi, tu eres el Hijo de Dios; tu eres el rey de Yisrael."
+
+> **📝 NOTAS**
+>
+> 🟡 **DOS TITULOS -- "HIJO DE DIOS" Y "REY DE YISRAEL"**
+> - En un contexto del Segundo Templo, "Hijo de Dios" podia designar al rey davidico (2 Sam 7:14, Sal 2:7) -- un titulo real, no necesariamente una afirmacion metafisica. "Rey de Yisrael" refuerza la lectura real-mesianica. La confesion de Nathanael puede ser politico-mesianica en lugar de (o ademas de) ontologica. El texto no resuelve la cuestion.
+
+---
+
+### **Versiculo 50**
+
+Yeshua respondio y le dijo: "¿Porque te dije que te vi debajo de la higuera, confias? Veras cosas mayores que estas."
+
+> **📝 NOTAS**
+>
+> 🔵 **"¿CONFIAS?" -- ¿INDICATIVO O INTERROGATIVO?**
+> - **pisteueis** (*pisteueis*) = "confias" -- puede leerse como afirmacion ("Confias.") o pregunta ("¿Confias?"). El griego no distingue graficamente. La TT lo traduce como pregunta, siguiendo la lectura mayoritaria, pero anota la ambiguedad.
+
+---
+
+### **Versiculo 51**
+
+Y le dice: "Amen, amen, les digo, veran el cielo abierto y los mensajeros de Dios ascendiendo y descendiendo sobre el Hijo del Hombre."
+
+> **📝 NOTAS**
+>
+> 🔴 **CRITICO -- LA ESCALERA DE YAAKOV (GEN 28:12)**
+> - **tous angelous tou theou anabainontas kai katabainontas** = "los mensajeros de Dios ascendiendo y descendiendo." Esto hace eco directo de Gen 28:12: "y vean, mensajeros de Dios ascendiendo y descendiendo sobre ella." En Genesis, los mensajeros ascienden y descienden sobre la escalera (*sullam*); aqui, ascienden y descienden "sobre el Hijo del Hombre." El Hijo del Hombre reemplaza la escalera como el punto de conexion entre cielo y tierra.
+>
+> 🟢 **"MENSAJEROS" -- *ANGELOI***
+> - **angeloi** (*angeloi*) = mensajeros. El griego significa "mensajero/enviado" -- abarca tanto mensajeros humanos como divinos. La TT traduce "mensajeros" para coincidir con la traduccion de malakhim (*malakhim*) en Genesis.
+>
+> 🟢 **"HIJO DEL HOMBRE" -- *HUIOS TOU ANTHROPOU***
+> - **ho huios tou anthropou** = "el hijo del humano" / "el Hijo del Hombre." El titulo hace eco de Dan 7:13 (bar enash, "uno como hijo de hombre") y se usa a lo largo de los Evangelios como autodesignacion de Yeshua. La TT traduce la forma tradicional "Hijo del Hombre" ya que se ha convertido en la traduccion reconocida de la frase aramea/griega. Primera ocurrencia en este Evangelio.
+>
+> 🟢 **"AMEN, AMEN" -- DOBLE CONFIRMACION**
+> - **amen amen** = "Amen, amen" -- ya es una transliteracion en el griego del hebreo amen (*amen*, "verdaderamente/firmemente"). La forma doble es distintiva del Evangelio de Juan (25 ocurrencias); los Sinopticos usan *amen* simple. Introduce declaraciones solemnes.
+
+---
+
+## GLOSARIO -- JUAN 1
+
+| Griego | Espanol | Notas |
+|--------|---------|-------|
+| logos (*logos*) | palabra | Rango semantico: palabra, discurso, razon, relato, principio. Minuscula -- no escrita con mayuscula como titulo. |
+| pneuma (*pneuma*) | viento/espiritu | Se corresponde con el hebreo ruach (*ruach*). Misma politica de barra. Neutro en griego. |
+| sarx (*sarx*) | carne | Enfasis fisico/mortal. En Juan, *sarx* es consistentemente fisico/mortal. |
+| christos (*christos*) | ungido | Minuscula como descriptor. Se corresponde con el hebreo mashiach (*mashiach*). |
+| baptizo (*baptizo*) | sumergir | NO transliterado. Contenido semantico claro: hundir/zambullir. |
+| martyria (*martyria*) | testimonio | Connotacion legal/de testigo. Verbo: martyreo (*martyreo*). |
+| phos (*phos*) | luz | Emparejada con oscuridad (*skotia*) como categorias cosmicas. |
+| skotia (*skotia*) | oscuridad | Ausencia de luz; en Juan, connotaciones morales/espirituales. |
+| kosmos (*kosmos*) | mundo | Mundo humano ordenado, no universo fisico. Dependiente del contexto. |
+| pisteuo (*pisteuo*) | confiar | Mas amplio que "creer" -- abarca confiar y ser confiable. Sustantivo: pistis (*pistis*). |
+| charis (*charis*) | gracia/favor | Segun glosario fijo. Barra segun Regla 2. |
+| aletheia (*aletheia*) | verdad | Emparejada con *charis*; eco del hebreo emet (*emet*). |
+| monogenes (*monogenes*) | unico / unico nacido | De monos + genos. NO "unigenito" (importa *gennao*). |
+| exousia (*exousia*) | derecho / autoridad | NO poder bruto (*dynamis*). Posicion autorizada. |
+| kyrios (*kyrios*) | el Senor / senor | Segun Politica GS del Nombre Divino: "el Senor" al citar pasajes del AT con YHWH. |
+| amnos (*amnos*) | cordero | Asociaciones sacrificiales/pascuales; trasfondo debatido. |
+| dolos (*dolos*) | engano | Usado negativamente en el episodio de Nathanael (v.47). |
+| angelos (*angelos*) | mensajero | Se corresponde con el hebreo malakh (*malakh*). NO restringido a seres celestiales. |
+
+---
+
+## SEGUIMIENTO ENTRE CAPITULOS (Genesis -> Juan)
+
+**Gen 1:1 -> Juan 1:1 -- "En el principio":**
+
+| Elemento | Gen 1:1 | Juan 1:1 |
+|----------|---------|----------|
+| Frase de apertura | bereshit (*bereshit*) -- "En principio" (sin articulo) | En arche (*en arche*) -- "En el principio" (anartro pero convencionalmente definido) |
+| Sujeto | Dios (*Elohim*) | La palabra (*ho logos*) |
+| Accion | Creo (*bara*) -- tipo aoristo, completado | Era (*en*) -- imperfecto, continuo |
+| Alcance | Los cielos y la tierra | Todas las cosas (v.3) |
+
+El eco es deliberado. Juan abre con la misma frase que Genesis, luego reenmarca: donde Genesis comienza con el primer acto de creacion de Dios, Juan comienza con la preexistencia del *logos* antes de la creacion. Genesis: "Dios creo." Juan: "la palabra era."
+
+**Gen 1:3-5 -> Juan 1:4-5 -- Luz y oscuridad:**
+
+| Elemento | Gen 1:3-5 | Juan 1:4-5 |
+|----------|-----------|------------|
+| Luz | "Sea luz, y fue luz" | "La vida era la luz de los humanos" |
+| Oscuridad | Oscuridad sobre la faz del abismo (1:2) | "La oscuridad no la vencio" |
+| Separacion | Dios separo la luz de la oscuridad | La luz brilla en la oscuridad -- conflicto, no separacion espacial |
+| Agencia | Dios crea la luz por habla | El *logos* se identifica con la vida y la luz |
+
+En Genesis, la luz es creada y separada de la oscuridad como el primer acto de ordenamiento. En Juan, la luz y la oscuridad estan en conflicto -- la oscuridad intenta vencer la luz y fracasa. Lo cosmologico se vuelve existencial.
+
+**Gen 1:2 -> Juan 1:32-33 -- Viento/espiritu (*ruach* / *pneuma*):**
+
+| Elemento | Gen 1:2 | Juan 1:32-33 |
+|----------|---------|--------------|
+| Termino | ruach elohim (*ruach elohim*) = viento/espiritu de Dios | to pneuma (*to pneuma*) = el viento/espiritu |
+| Accion | Moviéndose sobre la faz de las aguas | Descendiendo como paloma, permaneciendo sobre Yeshua |
+| Contexto | Caos pre-creacion | Identificacion de Yeshua en el Yarden |
+| Funcion | Precursor de la creacion por habla | Marca al que sumergira en el santo viento/espiritu |
+
+El viento/espiritu que se movia sobre las aguas primordiales ahora desciende en las aguas de la inmersion. Ambas escenas preceden un nuevo comienzo.
+
+**Gen 28:12 -> Juan 1:51 -- Mensajeros ascendiendo y descendiendo:**
+
+| Elemento | Gen 28:12 | Juan 1:51 |
+|----------|-----------|-----------|
+| Vision | Sueno de Yaakov en Beyt-El | Promesa de Yeshua a Nathanael |
+| Estructura | Escalera (*sullam*) puesta sobre la tierra, con su cima llegando al cielo | El cielo abierto |
+| Mensajeros | Mensajeros de Dios ascendiendo y descendiendo sobre ella | Mensajeros de Dios ascendiendo y descendiendo sobre el Hijo del Hombre |
+| Ubicacion | Beyt-El ("casa de Dios") | No especificada |
+| Significado | El punto de contacto entre cielo y tierra es la escalera | El punto de contacto entre cielo y tierra es el Hijo del Hombre |
+
+El Hijo del Hombre reemplaza la escalera. Donde Yaakov vio una estructura conectando cielo y tierra, Yeshua promete que la conexion es una persona.
+
+**Gen 1 creacion-por-habla -> Juan 1 creacion-por-medio-del-logos:**
+
+En Genesis 1, Dios crea hablando: "Y dijo Dios: 'Sea luz,' y fue luz." La formula repetida "y dijo Dios" es el mecanismo de la creacion. Juan 1:3 identifica al *logos* como el agente por medio del cual "todas las cosas llegaron a ser." La palabra por medio de la cual Dios hablo en Genesis se identifica en Juan como una persona que estaba con Dios y era Dios. La TT anota esta conexion sin colapsar la distincion entre los marcos de ambos textos -- Genesis no usa el termino *logos*; Juan no reproduce las formulas de creacion.
+
+---
+
+**FIN DE JUAN 1 -- LA TRADUCCION TRANSPARENTE (ESPANOL)**
+
+*"Una traduccion sin nada oculto."*

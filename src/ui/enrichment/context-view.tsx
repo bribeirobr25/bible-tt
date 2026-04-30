@@ -5,7 +5,7 @@ import { BookOpen, Landmark, Pickaxe, Languages, FlaskConical, ScrollText, Spark
 import type { LucideIcon } from "lucide-react";
 
 const SECTION_ICONS: Record<string, LucideIcon> = {
-  "hebrew-text-features": BookOpen,
+  "source-text-features": BookOpen,
   "ane-parallels": Landmark,
   "historical-archaeological": Pickaxe,
   "linguistic-philological": Languages,

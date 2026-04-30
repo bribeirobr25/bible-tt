@@ -10,8 +10,8 @@
 **Capítulo:** Genesis 1
 **Idioma:** Português Brasileiro
 **Acompanha:** `pt-br/genesis/CHAPTER-1.md` (Edição Transparente)
-**Regras:** v2.5 (Regra 29 governa este arquivo)
-**Status:** rascunho piloto
+**Regras:** v3.0 (Regra 29 governa este arquivo)
+**Status:** provisório piloto
 
 ---
 
@@ -20,31 +20,24 @@
 Este arquivo contém material de contextualização organizado por tópico. Cada entrada carrega **dois rótulos:**
 
 **Que tipo de afirmação?** (indica a fonte da informação)
-- **TEXTUAL** — observável no próprio texto hebraico. Mais confiável.
-- **COMPARATIVE PARALLEL** — atestado em outra fonte antiga. Mostra contexto, não dependência.
-- **LATER RECEPTION** — como tradições pós-bíblicas leram o texto. Não é o significado do próprio texto.
-- **SCIENTIFIC COMPARISON** — observação moderna colocada ao lado do texto. Nem prova nem refuta.
+- **TEXTUAL** — derivado diretamente do texto hebraico
+- **INFERÊNCIA FORTE** — logicamente implicado pelo texto, não declarado explicitamente
+- **INFERÊNCIA POSSÍVEL** — uma leitura legítima entre outras
+- **PARALELO COMPARATIVO** — atestado em outra fonte do antigo Oriente Próximo ou antiga
+- **RECEPÇÃO POSTERIOR** — leitura pós-bíblica
+- **HISTÓRICO / ARQUEOLÓGICO** — baseado em evidência material ou histórica
+- **COMPARAÇÃO CIENTÍFICA** — observação empírica moderna comparada ao texto
+- **ESPECULAÇÃO** — sem base textual ou evidencial forte
 
 **Qual a certeza?** (indica o nível de confiança)
 - **VERIFICADO** — evidência forte, amplo consenso
 - **PROVÁVEL** — bem fundamentado mas debatido
 - **POSSÍVEL** — uma leitura razoável entre outras
 - **INCERTO** — genuinamente incerto
+- **ESPECULATIVO** — deve ser raro e claramente sinalizado
+- **DOCUMENTADO** — recepção historicamente atestada (para entradas de RECEPÇÃO POSTERIOR)
 
 **Princípio de leitura:** Comece pelas entradas TEXTUAL — essas vêm do próprio hebraico. Depois explore para fora, em direção a paralelos, recepção e comparação. O complemento apresenta; você avalia.
-
-## CHAVE DE ROTULAGEM COMPLETA
-
-- **TEXTUAL** — derivado diretamente do texto hebraico
-- **STRONG INFERENCE** — logicamente implicado pelo texto, não declarado explicitamente
-- **POSSIBLE INFERENCE** — uma leitura legítima entre outras
-- **COMPARATIVE PARALLEL** — atestado em outra fonte do antigo Oriente Próximo ou antiga
-- **LATER RECEPTION** — leitura pós-bíblica
-- **HISTORICAL / ARCHAEOLOGICAL** — baseado em evidência material ou histórica
-- **SCIENTIFIC COMPARISON** — observação empírica moderna comparada ao texto
-- **SPECULATION** — sem base textual ou evidencial forte
-
-Confiança: **VERIFICADO** / **PROVÁVEL** / **POSSÍVEL** / **INCERTO** / **ESPECULATIVO**
 
 ---
 
@@ -53,7 +46,7 @@ Confiança: **VERIFICADO** / **PROVÁVEL** / **POSSÍVEL** / **INCERTO** / **ESP
 ### A1. Águas presentes no início da cena narrada
 **[TEXTUAL — VERIFICADO]**
 
-Genesis 1:1 aplica *bara* (criou) a "os céus e a terra." Genesis 1:2 apresenta *tehom* (o abismo) e *mayim* (águas) como já presentes no estado pré-ordenado. Nenhum versículo em Genesis 1 narra a criação da água. O verbo *bara* nunca é aplicado à água.
+Genesis 1:1 aplica *bara* (criou) a "os céus e a terra." Genesis 1:2 apresenta *tehom* (o abismo) e *mayim* (águas) como já presentes antes de Deus organizar tudo. Nenhum versículo em Genesis 1 narra a criação da água. O verbo *bara* nunca é aplicado à água.
 
 Esta é uma característica textual genuína que a TT expõe — não uma afirmação interpretativa. Traduções tradicionais também mostram isso, mas a transparência deliberada da TT (evitando "a Terra" para *eretz*, preservando "o abismo" para *tehom*) torna a característica mais visível.
 
@@ -61,7 +54,7 @@ Esta é uma característica textual genuína que a TT expõe — não uma afirma
 **Evitar:** "A água sempre existiu" — isso vai além do que o texto declara.
 
 ### A2. Dieta vegetariana atribuída tanto a humanos quanto a animais
-**[TEXTUAL — EXPLÍCITO]**
+**[TEXTUAL — VERIFICADO]**
 
 Genesis 1:29–30 atribui alimento vegetal aos humanos ("toda erva que semeia semente... toda árvore... a vocês será para alimento") e aos animais ("toda erva verde será para alimento"). Nenhuma permissão para comer carne aparece em Genesis 1.
 
@@ -70,7 +63,7 @@ A primeira permissão para comer carne não aparece até Genesis 9:3 (pós-dilú
 Esta é uma das observações textuais mais fortes disponíveis — não requer inferência; os versículos declaram diretamente.
 
 ### A3. Domínio sobre criaturas, não sobre as águas como elemento
-**[TEXTUAL / STRONG INFERENCE — VERIFICADO]**
+**[TEXTUAL / INFERÊNCIA FORTE — VERIFICADO]**
 
 Genesis 1:26 concede aos humanos domínio sobre "os peixes do mar e sobre as aves dos céus e sobre o gado e sobre toda a terra e sobre todo réptil que se arrasta." Genesis 1:28 diz "encham a terra e a sujeitem" e repete o domínio sobre peixes, aves e "todo ser vivo."
 
@@ -90,7 +83,7 @@ Esta é a base textual para a imagem cosmológica de três camadas do antigo Ori
 **Evitar:** "O texto ensina que o universo observável está literalmente cercado por água" — muito preciso e muito modernizado.
 
 ### A5. Do caos à ordem — o arco narrativo da criação
-**[TEXTUAL — VERIFICADO (arco) / POSSIBLE INFERENCE — POSSÍVEL (o que "caos" implica)]**
+**[TEXTUAL — VERIFICADO (arco) / INFERÊNCIA POSSÍVEL — POSSÍVEL (o que "caos" implica)]**
 
 Gênesis 1:2 apresenta o estado pré-criação como *tohu vavohu* (caos e vazio) — uma condição sem estrutura, diferenciação ou função. A partir do v.3, Deus impõe ordem por meio da fala: separando luz de trevas, águas de águas, terra de mar; atribuindo funções aos luminares; estabelecendo padrões reprodutivos ("conforme sua espécie"); abençoando com fertilidade e multiplicação.
 
@@ -106,10 +99,10 @@ No entanto, o texto não usa o conceito de "lei" ou "regra" em nenhum sentido ci
 
 **Evitar:** "Genesis 1 descreve a criação da gravidade, da física, do DNA e da mecânica quântica" — excesso concordista. Também evitar o oposto: "Genesis 1 contradiz a ciência porque não menciona leis físicas" — excesso anti-concordista. Ambos impõem categorias modernas sobre um texto antigo. O texto estabelece *ordem*, não *lei* no sentido moderno.
 
-### A5b. Dois modos de criação — fiat direto vs. criação delegada
+### A5b. Dois modos de criação — comando direto vs. criação delegada
 **[TEXTUAL — VERIFICADO]**
 
-Genesis 1 contém dois padrões de criação distintos: (a) Deus cria diretamente por fiat — "haja luz" (v.3), Deus fez o raqia (v.7), Deus fez os luminares (v.16), Deus criou criaturas marinhas (v.21), Deus criou a humanidade (v.27). Nestes, Deus é o único agente. (b) Deus comanda a própria criação a criar — "produza a **terra** vegetação" (v.11), "fervilhem as **águas** de seres vivos" (v.20), "produza a **terra** seres vivos" (v.24). No padrão (b), a terra e as águas recebem **agência generativa** — tornam-se participantes na criação, não meramente material passivo.
+Genesis 1 contém dois padrões de criação distintos: (a) Deus cria diretamente por comando — "haja luz" (v.3), Deus fez o raqia (v.7), Deus fez os luminares (v.16), Deus criou criaturas marinhas (v.21), Deus criou a humanidade (v.27). Nestes, Deus é o único agente. (b) Deus comanda a própria criação a criar — "produza a **terra** vegetação" (v.11), "fervilhem as **águas** de seres vivos" (v.20), "produza a **terra** seres vivos" (v.24). No padrão (b), a terra e as águas recebem **agência generativa** — tornam-se participantes na criação, não meramente material passivo.
 
 Esta distinção é textualmente clara na TT porque os sujeitos verbais hebraicos são preservados: Deus fala, mas a terra e as águas agem. O mundo criado recebe a capacidade de produzir a partir de si mesmo. A maioria das traduções não destaca esta diferença estrutural.
 
@@ -140,7 +133,7 @@ Umberto Cassuto (*Commentary on Genesis*, 1961) documentou estes padrões extens
 
 Genesis 1:9–10: águas reunidas "em um lugar" → terra seca apareceu → Deus chamou a terra seca de "Terra" (*eretz*, singular) e a reunião das águas de "Mares" (*yamim*, plural).
 
-O texto apresenta uma terra conectada e múltiplos corpos de água. A distinção singular/plural é deliberada em hebraico e preservada na TT nos três idiomas.
+O texto apresenta uma terra conectada e múltiplos corpos de água. A distinção singular/plural é deliberada em hebraico e preservada na TT nos quatro idiomas.
 
 **Enquadramento honesto:** O texto apresenta uma terra e múltiplos mares na imagem narrativa.
 **Evitar:** "Genesis 1 codifica um modelo geológico tipo Pangeia" — excesso moderno. A imagem narrativa é geografia antiga, não tectônica de placas.
@@ -170,7 +163,7 @@ A construção hebraica *bein...ubein* ("entre...e entre") aparece nos vv. 4, 6,
 ### A10. "E foi assim" — palavra divina e cumprimento imediato
 **[TEXTUAL — VERIFICADO]**
 
-A fórmula *vayehi-khen* ("e foi assim") aparece nos vv. 7, 9, 11, 15, 24, 30. Cada ato de fala criativa é seguido por esta fórmula de cumprimento — Deus fala, a realidade obedece. A TT preserva isso como uma fórmula fixa nos três idiomas. O padrão é distintivo: Genesis apresenta criação por fala-e-cumprimento, não por combate ou trabalho material (contraste com paralelos do antigo Oriente Próximo na Seção B).
+A fórmula *vayehi-khen* ("e foi assim") aparece nos vv. 7, 9, 11, 15, 24, 30. Cada ato de fala criativa é seguido por esta fórmula de cumprimento — Deus fala, a realidade obedece. A TT preserva isso como uma fórmula fixa nos quatro idiomas. O padrão é distintivo: Genesis apresenta criação por fala-e-cumprimento, não por combate ou trabalho material (contraste com paralelos do antigo Oriente Próximo na Seção B).
 
 ### A11. Duplicação de raiz como autogeração
 **[TEXTUAL — VERIFICADO]**
@@ -185,14 +178,14 @@ Genesis 1:27: *bara* (criou) usado **três vezes em um único versículo** — a
 ### A13. Artigo em "o sexto dia" — marcação gramatical única
 **[TEXTUAL — VERIFICADO]**
 
-Genesis 1:31: *yom hashishi* — "**O** sexto dia" com o artigo definido ה. Os dias 1–5 não têm artigo no número do dia. Somente o Dia 6 o recebe. Esta marcação gramatical é deliberada — a TT a preserva nos três idiomas. Se ela sinaliza ênfase de conclusão, a importância da criação humana, ou preparação para o Shabat (Gen 2:1–3) é POSSÍVEL em todas as direções.
+Genesis 1:31: *yom hashishi* — "**O** sexto dia" com o artigo definido ה. Os dias 1–5 não têm artigo no número do dia. Somente o Dia 6 o recebe. Esta marcação gramatical é deliberada — a TT a preserva nos quatro idiomas. Se ela sinaliza ênfase de conclusão, a importância da criação humana, ou preparação para o Shabat (Gen 2:1–3) é POSSÍVEL em todas as direções.
 
 ---
 
 ## B. Paralelos do Antigo Oriente Próximo
 
 ### B0. Fala divina como mecanismo primário de criação
-**[COMPARATIVE PARALLEL — VERIFICADO]**
+**[PARALELO COMPARATIVO — VERIFICADO]**
 
 A criação pela fala de Genesis 1 ("E Deus disse... e foi assim") é distintiva quando comparada aos modelos dominantes de criação do antigo Oriente Próximo:
 - **Enuma Elish:** criação através de combate divino (Marduk divide Tiamat)
@@ -204,7 +197,7 @@ Genesis compartilha o motivo de criação-pela-fala com a tradição egípcia ma
 **Fonte:** Walton, J.H., *Ancient Near Eastern Thought and the Old Testament*, 2006, pp. 183–188.
 
 ### B1. Enuma Elish — épico babilônico da criação
-**[COMPARATIVE PARALLEL — VERIFICADO]**
+**[PARALELO COMPARATIVO — VERIFICADO]**
 
 O Enuma Elish (ca. séc. XII–X a.C., Mesopotâmia) descreve o deus Marduk dividindo o corpo de Tiamat (deusa primordial das águas do caos) para formar céu e terra. Paralelos-chave com Genesis 1:
 
@@ -217,7 +210,7 @@ O Enuma Elish (ca. séc. XII–X a.C., Mesopotâmia) descreve o deus Marduk divi
 | Descanso após a criação | Deuses festejam e louvam Marduk | Deus descansa no sétimo dia |
 
 **Contrastes** principais:
-- Genesis não tem teogonia (deuses gerando deuses) — um Criador, nenhuma guerra divina
+- Genesis não tem teogonia (histórias do nascimento dos deuses) — um Criador, nenhuma guerra divina
 - Genesis não tem combate divino — criação pela fala, não pela violência
 - A humanidade em Genesis é *imago Dei* (imagem de Deus), não mão de obra escrava
 - O hebraico *tehom* (o abismo) **não** é uma divindade; a semelhança fonética com *Tiamat* é debatida
@@ -225,7 +218,7 @@ O Enuma Elish (ca. séc. XII–X a.C., Mesopotâmia) descreve o deus Marduk divi
 **Fonte:** Pritchard, J.B. (ed.), *Ancient Near Eastern Texts Relating to the Old Testament* (ANET), 3rd ed., 1969, pp. 60–72. Heidel, A., *The Babylonian Genesis*, 2nd ed., 1951.
 
 ### B2. Atrahasis — narrativa acádica de criação e dilúvio
-**[COMPARATIVE PARALLEL — VERIFICADO]**
+**[PARALELO COMPARATIVO — VERIFICADO]**
 
 O épico de Atrahasis (ca. séc. XVIII a.C., Mesopotâmia) descreve humanos criados para aliviar os deuses do trabalho. Paralelos:
 - Humanos criados com um propósito funcional (trabalhar a terra — cf. Gen 2:5, 2:15)
@@ -237,7 +230,7 @@ Contraste principal: Em Genesis, a vocação humana é mordomia ("trabalhar e gu
 **Fonte:** Lambert, W.G. and Millard, A.R., *Atra-ḫasīs: The Babylonian Story of the Flood*, 1969.
 
 ### B3. Tradições egípcias de criação
-**[COMPARATIVE PARALLEL — PROVÁVEL]**
+**[PARALELO COMPARATIVO — PROVÁVEL]**
 
 Múltiplos relatos egípcios de criação compartilham motivos:
 - **Tradição hermopolitana:** águas primordiais (Nun) preexistem à criação — paralelo a Genesis 1:2
@@ -253,7 +246,7 @@ Os paralelos egípcios são menos diretos que os mesopotâmicos; motivos compart
 ## C. Contexto Histórico e Arqueológico
 
 ### C1. Modelo cosmológico do antigo Oriente Próximo
-**[HISTORICAL / ARCHAEOLOGICAL — VERIFICADO]**
+**[HISTÓRICO / ARQUEOLÓGICO — VERIFICADO]**
 
 A imagem cosmológica de três camadas em Genesis 1 (águas acima — raqia/céu — terra — águas abaixo) corresponde ao modelo cosmológico amplamente atestado do antigo Oriente Próximo:
 
@@ -274,7 +267,7 @@ A TT preserva esta imagem transliterando *raqia* (em vez de interpretá-lo como 
 **Fonte:** Horowitz, W., *Mesopotamian Cosmic Geography*, 1998. Walton, J.H., *Ancient Near Eastern Thought and the Old Testament*, 2006.
 
 ### C2. Conexões entre templo e criação
-**[HISTORICAL / ARCHAEOLOGICAL — PROVÁVEL]**
+**[HISTÓRICO / ARQUEOLÓGICO — PROVÁVEL]**
 
 Vários estudiosos notam paralelos estruturais entre o relato de criação de Genesis 1 e narrativas antigas de construção de templos:
 - Criação de sete dias → dedicação de templo de sete dias (cf. 1 Reis 8)
@@ -294,10 +287,10 @@ Esta leitura é **PROVÁVEL** mas não universalmente aceita. O texto não diz e
 
 *Bara* aparece 3 vezes em Genesis 1 (vv. 1, 21, 27). É usado exclusivamente com Deus como sujeito na Bíblia Hebraica — nenhum humano jamais *bara*. Isso é distinto de *asah* (fazer, 7 vezes em Gen 1) e *yatzar* (formar, Gen 2:7).
 
-Se *bara* significa "criar do nada" (*creatio ex nihilo*) é debatido:
+Se *bara* significa "criar do nada" (*creatio ex nihilo* — a criação a partir de nada preexistente) é debatido:
 - **PROVÁVEL:** *bara* implica um ato exclusivamente divino sem material especificado
 - **POSSÍVEL:** *bara* significa iniciar ou realizar, sem que a implicação "do nada" seja exigida pela própria palavra
-- A doutrina de *creatio ex nihilo* se desenvolve explicitamente na tradição posterior (2 Macabeus 7:28; teologia patrística)
+- A doutrina de *creatio ex nihilo* se desenvolve explicitamente na tradição posterior (2 Macabeus 7:28; teologia dos Pais da Igreja)
 
 ### D1b. *Mo'adim* — tempos designados, não apenas estações
 **[TEXTUAL — VERIFICADO]**
@@ -307,7 +300,7 @@ Genesis 1:14: os luminares são designados para marcar "sinais e **tempos design
 Isto significa que a ordenação cósmica de Gen 1 inclui o tempo litúrgico desde o princípio — o calendário de adoração está embutido na arquitetura do céu. A maioria das traduções traduz *mo'adim* como "estações," o que perde a dimensão litúrgica que o hebraico carrega.
 
 ### D1c. Performance oral — por que os padrões existem
-**[TEXTUAL / POSSIBLE INFERENCE — PROVÁVEL]**
+**[TEXTUAL / INFERÊNCIA POSSÍVEL — PROVÁVEL]**
 
 Genesis 1 foi quase certamente composto para performance oral, não para leitura silenciosa. As fórmulas rítmicas ("E Deus disse... e foi assim... e Deus viu que bom... e foi tarde, e foi manhã"), a duplicação de raiz ("semeando semente," "fazendo fruto"), e os padrões estruturais de sete criam uma **arquitetura oral** — mnemônica, rítmica, recitável.
 
@@ -332,14 +325,14 @@ A TT translitера para evitar super-especificação cosmológica. "Firmamento"
 
 Genesis 1:5: יוֹם אֶחָד (*yom echad*) = "dia um" (número cardinal). Todos os dias subsequentes usam ordinais: "segundo dia," "terceiro dia," etc. Esta assimetria não é aleatória — a forma cardinal no Dia 1 é linguisticamente marcada.
 
-As opções interpretativas incluem: (1) Dia 1 como um início único e absoluto; (2) *echad* com a força de "um e único" em vez de sequência ordinal; (3) estrutura literária sinalizando o status especial do primeiro dia. A TT preserva a forma cardinal nos três idiomas (EN "one day", PT "um dia", DE "Tag eins").
+As opções interpretativas incluem: (1) Dia 1 como um início único e absoluto; (2) *echad* com a força de "um e único" em vez de sequência ordinal; (3) estrutura literária sinalizando o status especial do primeiro dia. A TT preserva a forma cardinal nos quatro idiomas (EN "one day", PT "um dia", DE "Tag eins").
 
 ---
 
 ## E. Correspondência e Não-Correspondência Científica
 
 ### E1. O texto apresenta cosmologia funcional, não cosmologia empírica
-**[SCIENTIFIC COMPARISON — PROVÁVEL]**
+**[COMPARAÇÃO CIENTÍFICA — PROVÁVEL]**
 
 Genesis 1 descreve o que as coisas *fazem*: luzes marcam o tempo, terra produz vegetação, animais preenchem domínios, humanos exercem domínio. A ciência moderna descreve o que as coisas *são*: composição física, forças naturais, processos evolutivos.
 
@@ -358,7 +351,7 @@ Genesis 1:14-18 atribui aos luminares quatro funções: "sinais," "tempos design
 O texto atribui aos luminares exatamente aquilo para que as culturas antigas os usavam — marcação do tempo, não decoração. Os luminares são **instrumentos funcionais**, não objetos de adoração (portanto deliberadamente não nomeados no v.16). A atribuição do texto corresponde à prática observacional antiga enquanto remove a camada teológica de adoração astral que permeava as culturas do antigo Oriente Próximo.
 
 ### E2. Vegetação antes dos luminares
-**[SCIENTIFIC COMPARISON — observação TEXTUAL]**
+**[COMPARAÇÃO CIENTÍFICA — observação TEXTUAL]**
 
 Genesis 1 apresenta vegetação (Dia 3, vv. 11–12) antes da criação dos luminares (Dia 4, vv. 14–18). Na compreensão botânica moderna, a fotossíntese requer luz solar.
 
@@ -367,18 +360,23 @@ Esta é uma observação, não um veredito. As opções incluem: (1) o texto des
 Todas as leituras são **POSSÍVEIS**. A TT não resolve isso; apresenta a sequência do texto honestamente.
 
 ### E3. A questão da idade
-**[SCIENTIFIC COMPARISON — para conhecimento]**
+**[COMPARAÇÃO CIENTÍFICA — para conhecimento]**
 
 A cosmologia moderna data o universo em aproximadamente 13,8 bilhões de anos; a Terra em aproximadamente 4,5 bilhões de anos. Genesis 1 apresenta um quadro de criação de sete dias.
 
 A TT não toma posição sobre se "dias" são períodos literais de 24 horas, épocas estendidas, quadros literários ou outra coisa. A palavra hebraica *yom* (dia) pode denotar um dia de 24 horas, um período diurno ou um tempo indefinido ("no dia de..." = "quando..."). O texto usa a fórmula "tarde e manhã" para os Dias 1–6, o que sugere unidades estruturadas — mas se essas unidades são cronológicas, litúrgicas ou literárias não é resolvido apenas pelo hebraico.
+
+### E4. "Segundo a sua espécie" (*lemino*) — taxonomia e o conceito de "espécies" biológicas
+**[COMPARAÇÃO CIENTÍFICA — POSSÍVEL]**
+
+A palavra *min* (espécie/tipo) aparece 10 vezes em Genesis 1 (vv. 11, 12 ×2, 21 ×2, 24 ×2, 25 ×2, e implicitamente no v.29). Vegetação, criaturas do mar, aves e animais terrestres todos se reproduzem "segundo a sua espécie." O termo estabelece fronteiras categóricas na reprodução sem definir quais são essas fronteiras. A taxonomia biológica moderna (Lineu, 1735) classifica organismos em espécie, gênero, família, ordem — uma hierarquia que o texto não utiliza. O hebraico *min* é mais amplo e menos preciso que "espécie": pode corresponder ao nível de espécie, gênero ou mesmo família dependendo do contexto. O texto afirma continuidade reprodutiva dentro das espécies; não aborda variação dentro das espécies, descendência comum ou especiação. O que *min* inclui e exclui é uma questão interpretativa do leitor — o texto traça a fronteira sem definir sua resolução.
 
 ---
 
 ## F. Recepção Posterior em Outras Tradições
 
 ### F1. Recepção judaica
-**[LATER RECEPTION — DOCUMENTADO]**
+**[RECEPÇÃO POSTERIOR — DOCUMENTADO]**
 
 - **Tradição rabínica** debate se Deus criou a partir de material preexistente ou do nada. *Bereshit Rabbah* (séc. V d.C.) explora múltiplas leituras do versículo de abertura.
 - **Rashi** (séc. XI) lê *bereshit* como construto ("No princípio do criar de Deus...") em vez de absoluto.
@@ -386,15 +384,15 @@ A TT não toma posição sobre se "dias" são períodos literais de 24 horas, é
 - A estrutura de sete dias é fundacional para a observância do **Shabat** — o padrão da criação como modelo litúrgico.
 
 ### F2. Recepção cristã
-**[LATER RECEPTION — DOCUMENTADO]**
+**[RECEPÇÃO POSTERIOR — DOCUMENTADO]**
 
-- **Tradição patrística:** Agostinho (*Confessions*, *De Genesi ad Litteram*, séc. IV–V) adverte contra ler Genesis como se ensinasse ciência natural; ele permite interpretação não literal.
+- **Escritores cristãos antigos:** Agostinho (*Confessions*, *De Genesi ad Litteram*, séc. IV–V) adverte contra ler Genesis como se ensinasse ciência natural; ele permite interpretação não literal.
 - **Basílio de Cesareia** (*Hexaemeron*, séc. IV) lê os seis dias como literais mas com extensa aplicação alegórica.
 - **Período medieval:** o firmamento interpretado como domo sólido (seguindo o latim *firmamentum*); esta leitura molda a cosmologia ocidental até Copérnico.
 - **Período moderno:** Criacionismo da Terra Jovem (seis dias literais de 24 horas) vs. Criacionismo da Terra Antiga (dia-era, quadro, analógico) vs. leituras literárias/teológicas.
 
 ### F3. Paralelos islâmicos
-**[LATER RECEPTION — DOCUMENTADO]**
+**[RECEPÇÃO POSTERIOR — DOCUMENTADO]**
 
 O Alcorão apresenta a criação em seis "períodos" (*ayyam*, Suratas 7:54, 11:7, 41:9–12), com algumas divergências notáveis de Genesis: nenhum descanso sabático explícito, nenhuma linguagem de imagem de Deus para a humanidade, e o relato de criação distribuído em múltiplas suratas em vez de concentrado em uma única narrativa.
 
@@ -410,7 +408,7 @@ O Alcorão apresenta a criação em seis "períodos" (*ayyam*, Suratas 7:54, 11:
 בְּרֵאשִׁית בָּרָא אֱלֹהִים אֵת הַשָּׁמַיִם וְאֵת הָאָרֶץ — exatamente 7 palavras hebraicas, 28 letras hebraicas (7x4). Seja intencional ou coincidente, o número 7 permeia a estrutura do capítulo (7 dias, 7 avaliações "bom", 7 palavras de abertura).
 
 ### G2. O que NÃO é criado em Genesis 1?
-**[TEXTUAL / STRONG INFERENCE — PROVÁVEL]**
+**[TEXTUAL / INFERÊNCIA FORTE — PROVÁVEL]**
 
 O texto nunca narra a criação de: água, escuridão, "o abismo" (*tehom*), ou o vento/espírito de Deus. Todos estão presentes no v.2 antes do primeiro ato criativo. O texto começa no meio da cena, com alguns elementos já posicionados.
 
@@ -420,7 +418,7 @@ O texto nunca narra a criação de: água, escuridão, "o abismo" (*tehom*), ou 
 Deus avalia a criação como "bom" (*tov*) seis vezes (vv. 4, 10, 12, 18, 21, 25). Somente no v.31, após a criação da humanidade, a avaliação escala para "muito bom" (*tov me'od*). O artigo também aparece em "o sexto dia" (*yom hashishi*) — unicamente entre todos os seis dias. Ambas as características marcam o Dia 6 como culminação.
 
 ### G4. A escuridão nunca é chamada de boa
-**[TEXTUAL / POSSIBLE INFERENCE — POSSÍVEL]**
+**[TEXTUAL / INFERÊNCIA POSSÍVEL — POSSÍVEL]**
 
 Deus chama a luz de "boa" (v.4). A escuridão é nomeada (v.5) mas nunca avaliada. Se isso é teologicamente significativo ou simplesmente uma característica da estrutura literária é debatido. O texto não resolve isso.
 
@@ -457,6 +455,11 @@ Ao longo de Genesis 1–4, o nome divino segue uma progressão visível na TT po
 
 O nome divino se estreita do universal ao pessoal à medida que a narrativa se move do cosmos ao indivíduo. A maioria das traduções obscurece isso traduzindo todos os três como "Deus" ou "o SENHOR Deus" — a TT torna a progressão visível.
 
+### G7. Nomeação divina como ordenação do ser
+**[INFERÊNCIA POSSÍVEL — POSSÍVEL]**
+
+Em Genesis 1:5, 8, 10, Deus nomeia a luz "Dia," a escuridão "Noite," o raqia "Céus," o chão seco "Terra," e as águas reunidas "Mares." O texto apresenta a nomeação como um ato que segue a separação — Deus divide, depois nomeia. Na filosofia da linguagem (Kripke, Searle), a nomeação é debatida como descrição ou estipulação. O padrão de Genesis 1 se alinha com a nomeação estipulativa: o nome não descreve uma essência pré-existente, mas *constitui* uma categoria. Isto contrasta com Gen 2:19–20, onde o humano nomeia os animais (ver Capítulo 2, G0). A diferença — nomeação divina de domínios cósmicos vs. nomeação humana de criaturas — mapeia uma hierarquia de domínio que o texto constrói sem explicar.
+
 ---
 
 ## H. Fontes Consultadas
@@ -475,8 +478,8 @@ O nome divino se estreita do universal ao pessoal à medida que a narrativa se m
 | *Bereshit Rabbah* (séc. V d.C.) | Primário (rabínico) | F1 |
 | Rashi, Commentary on Genesis (séc. XI) | Primário (judaísmo medieval) | F1 |
 | Maimonides, *Guide for the Perplexed* (séc. XII) | Primário (judaísmo medieval) | F1 |
-| Augustine, *De Genesi ad Litteram* (séc. IV–V) | Primário (patrístico) | F2 |
-| Basil of Caesarea, *Hexaemeron* (séc. IV) | Primário (patrístico) | F2 |
+| Augustine, *De Genesi ad Litteram* (séc. IV–V) | Primário (escritor cristão antigo) | F2 |
+| Basil of Caesarea, *Hexaemeron* (séc. IV) | Primário (escritor cristão antigo) | F2 |
 
 ---
 

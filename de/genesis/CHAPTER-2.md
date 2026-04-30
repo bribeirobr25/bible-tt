@@ -7,10 +7,10 @@
 **Grundtext:** Biblia Hebraica Stuttgartensia, 5. rev. Aufl. (Stuttgart: Deutsche Bibelgesellschaft, 1997)
 **Ausgabe:** Transparente Ausgabe
 **Sprache:** Deutsch
-**Methodik:** 29-Regeln-Governance-System (Regelwerk v2.5)
+**Methodik:** 29-Regeln-Governance-System (Regelwerk v3.0)
 **Gottesname-Politik (Regel 25):** Option A — Konsonantisch (JHWH). **In diesem Kapitel ausgelöst in V.4.**
 **Luther-Bibel-Verhältnis:** Option B — Selektive Anerkennung. Übersetzung aus dem Hebräischen nach TT-Regeln; Konvergenzen und Divergenzen mit Luther in Begleitmaterialien dokumentiert. Entscheidung geloggt 2026-04-18.
-**Status:** vorläufig — ausstehende Begutachtung (Regel 28)
+**Status:** provisorisch — ausstehende Begutachtung (Regel 28)
 **Begutachter:** Hebraist: nicht zugewiesen | DE-Redakteur: nicht zugewiesen | Sprachübergreifender Abgleich: nicht zugewiesen
 
 ---
@@ -45,6 +45,16 @@
 
 **Mensch- / Adam-Politik (stehende Notiz zu Regel 17):** Das hebräische אָדָם (*adam*) schwankt zwischen dem generischen *„Mensch / Menschheit"* und, potenziell, dem Eigennamen *Adam*. Der bestimmte Artikel (*ha-adam* = „der Mensch") signalisiert generischen Gebrauch; Artikelabsenz ist kontextuell mehrdeutig. **Diese Übersetzung gibt „der Mensch" durchgehend in Genesis 2–3 wieder**, auch bei artikellosen Vorkommen (2:20, 3:17, 3:21), um das fortlaufende Wortspiel mit *adamah* (Boden) zu bewahren und eine voreilige Eigennamen-Festlegung zu vermeiden. Der Übergang zum Eigennamen *Adam* wird formal in Genesis 4 aufgelöst.
 
+## KAPITELÜBERSICHT
+
+**Was geschieht:** Ein zweiter Schöpfungsbericht beginnt bei 2:4 mit einer anderen Reihenfolge und einem anderen Fokus. JHWH Gott formt den Menschen aus Staub, pflanzt einen Garten in Eden mit zwei benannten Bäumen, setzt den Menschen dort ein, um ihn zu bearbeiten und zu bewahren, gibt das Gebot bezüglich des Baumes der Erkenntnis, erklärt es für „nicht gut", dass der Mensch allein sei, formt Tiere und baut die Frau aus der Seite des Menschen.
+
+**Zentrale Themen:** Die *Toledot*-Formel (2:4); JHWH Gott (kombinierter Gottesname); Formung aus *adamah* (Boden) — das Wortspiel *adam/adamah*; der Garten als begrenzter Raum; der Baum der Erkenntnis und der Baum des Lebens; das Gebot und seine Konsequenz („sterbend wirst du sterben"); Benennung als Ordnung; „ein Fleisch".
+
+**Achten Sie auf:** Der Gottesname wechselt zu JHWH Elohim (ab 2:4); die unterschiedliche Schöpfungsreihenfolge gegenüber Kapitel 1 (Mensch vor Tieren in 2:7, 19); das „nicht gut" — die einzige negative Bewertung in der Schöpfung; die *Tardemah* (tiefer Schlaf); „Bein von meinen Beinen" als erste menschliche Rede.
+
+**Verbindung:** Die hier eingeführten Bäume — Erkenntnis und Leben — treiben die Erzählung von Kapitel 3 voran. Die Beziehung zwischen dem Menschen und dem Boden (*adam/adamah*) wird zur Grundlage des Fluchs in 3:17–19.
+
 ---
 
 ## FORTLAUFENDE LESUNG
@@ -55,7 +65,7 @@
 
 ¹Und vollendet wurden der Himmel und das Land und ihr ganzes Heer. ²Und Gott vollendete am siebten Tag sein Werk, das er gemacht hatte, und er ruhte am siebten Tag von all seinem Werk, das er gemacht hatte. ³Und Gott segnete den siebten Tag und heiligte ihn, denn an ihm ruhte er von all seinem Werk, das Gott geschaffen hatte, zu machen.
 
-⁴Dies *sind* die Zeugungen des Himmels und des Landes, als sie geschaffen wurden, am Tag, als JHWH Elohim Land und Himmel machte. ⁵Und jeder Strauch des Feldes *war* noch nicht auf dem Land, und jedes Kraut des Feldes noch nicht sprossend, denn JHWH Elohim hatte nicht regnen lassen auf das Land, und *ein* Mensch war nicht, den Boden zu bearbeiten. ⁶Und *ein* Dunst stieg auf vom Land und bewässerte *die* ganze Fläche des Bodens. ⁷Und JHWH Elohim formte den Menschen, Staub vom Boden, und hauchte in seine Nase *den* Atem des Lebens, und der Mensch wurde *zu einem* lebendigen Wesen.
+⁴Dies *sind* die *Toledot* des Himmels und des Landes, als sie geschaffen wurden, am Tag, als JHWH Elohim Land und Himmel machte. ⁵Und jeder Strauch des Feldes *war* noch nicht auf dem Land, und jedes Kraut des Feldes noch nicht sprossend, denn JHWH Elohim hatte nicht regnen lassen auf das Land, und *ein* Mensch war nicht, den Boden zu bearbeiten. ⁶Und *ein* Dunst stieg auf vom Land und bewässerte *die* ganze Fläche des Bodens. ⁷Und JHWH Elohim formte den Menschen, Staub vom Boden, und hauchte in seine Nase *den* Atem des Lebens, und der Mensch wurde *zu einem* lebendigen Wesen.
 
 ⁸Und JHWH Elohim pflanzte einen Garten in Eden, im Osten, und setzte dort den Menschen, den er geformt hatte. ⁹Und JHWH Elohim ließ sprossen aus dem Boden jeden Baum, lieblich anzusehen und gut zur Speise, und den Baum des Lebens in der Mitte des Gartens, und den Baum der Erkenntnis des Guten und Bösen. ¹⁰Und *ein* Strom ging aus von Eden, den Garten zu bewässern, und von dort teilte er sich und wurde zu vier Häuptern. ¹¹Der Name des einen *ist* Pischon; *er ist* der, welcher umfließt das ganze Land Hawila, wo das Gold *ist*. ¹²Und das Gold jenes Landes *ist* gut; dort *ist* das Bedolach und der Stein Schoham. ¹³Und der Name des zweiten Stroms *ist* Gichon; *er ist* der, welcher umfließt das ganze Land Kusch. ¹⁴Und der Name des dritten Stroms *ist* Hiddekel; *er ist* der, welcher östlich von Aschschur fließt. Und der vierte Strom, das *ist* Perat.
 
@@ -116,7 +126,7 @@ Und Gott segnete den siebten Tag und heiligte ihn, denn an ihm ruhte er von all 
 
 ### **Vers 4**
 
-Dies *sind* die Zeugungen des Himmels und des Landes, als sie geschaffen wurden, am Tag, als JHWH Elohim Land und Himmel machte.
+Dies *sind* die *Toledot* des Himmels und des Landes, als sie geschaffen wurden, am Tag, als JHWH Elohim Land und Himmel machte.
 
 > **📝 NOTIZEN**
 >

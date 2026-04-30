@@ -73,10 +73,16 @@ details > summary::-webkit-details-marker {
   display: none;
 }
 
-.hebrew {
+.source-word {
   direction: rtl;
   unicode-bidi: isolate;
   font-family: "Noto Sans Hebrew", "Geist", sans-serif;
+}
+
+.source-word-greek {
+  direction: ltr;
+  unicode-bidi: isolate;
+  font-family: "Noto Sans", "Geist", sans-serif;
 }
 
 .reading-text {

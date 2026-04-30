@@ -1,6 +1,7 @@
 import { getTranslations, setRequestLocale } from "next-intl/server";
 import { Link } from "@/ui/navigation/locale-link";
-import { BookOpen, NotebookPen } from "lucide-react";
+import { BookOpen, NotebookPen, Compass, Layers, ScrollText } from "lucide-react";
+import { renderMarkdownSafe } from "@/ui/shared/render-markdown-safe";
 
 export default async function LandingPage({
   params,
@@ -17,7 +18,7 @@ export default async function LandingPage({
       {/* Hero */}
       <section className="min-h-[85vh] flex flex-col items-center justify-center px-6 py-16 text-center">
         <p className="text-text-muted text-sm uppercase tracking-[0.2em] mb-6 font-[family-name:var(--font-ui)]">
-          Hebrew Bible → English · Português · Deutsch
+          {t("landing.languageTagline")}
         </p>
         <h1 className="font-[family-name:var(--font-reading)] text-4xl md:text-6xl font-light tracking-tight text-text-primary max-w-3xl leading-[1.15]">
           {t("site.title")}
@@ -69,10 +70,9 @@ export default async function LandingPage({
                 {t("landing.transparent")}
               </p>
               <blockquote
-                className="font-[family-name:var(--font-reading)] text-lg leading-[1.8] text-text-primary border-l-3 border-accent pl-5"
+                className="font-[family-name:var(--font-reading)] text-lg leading-[1.8] text-text-primary border-l-3 border-accent pl-5 [&_em]:text-text-secondary"
                 dangerouslySetInnerHTML={{
-                  __html: t("landing.transparentVerse")
-                    .replace(/\*([^*]+)\*/g, "<em class='text-text-secondary'>$1</em>"),
+                  __html: renderMarkdownSafe(t("landing.transparentVerse"), "prose"),
                 }}
               />
             </div>
@@ -102,33 +102,28 @@ export default async function LandingPage({
           <h2 className="font-[family-name:var(--font-reading)] text-2xl md:text-3xl font-light mb-12">
             {t("landing.howTitle")}
           </h2>
-          <div className="grid md:grid-cols-2 gap-10 text-left">
-            <div className="space-y-3">
-              <div className="flex items-center gap-3">
-                <span className="w-9 h-9 rounded-full bg-bg-paper border border-border flex items-center justify-center">
-                  <BookOpen className="w-4 h-4 text-text-muted" strokeWidth={1.5} />
-                </span>
-                <span className="text-sm font-semibold uppercase tracking-wider text-text-secondary">
-                  {t("nav.readingMode")}
-                </span>
+          <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-8 text-left">
+            {([
+              { icon: BookOpen, mode: "readingMode", desc: "howReading" },
+              { icon: NotebookPen, mode: "studyMode", desc: "howStudy" },
+              { icon: Compass, mode: "exploreMode", desc: "howExplore" },
+              { icon: Layers, mode: "contextMode", desc: "howContext" },
+              { icon: ScrollText, mode: "prophecyMode", desc: "howProphecy" },
+            ] as const).map(({ icon: Icon, mode, desc }) => (
+              <div key={mode} className="space-y-3">
+                <div className="flex items-center gap-3">
+                  <span className="w-9 h-9 rounded-full bg-bg-paper border border-border flex items-center justify-center">
+                    <Icon className="w-4 h-4 text-text-muted" strokeWidth={1.5} />
+                  </span>
+                  <span className="text-sm font-semibold uppercase tracking-wider text-text-secondary">
+                    {t(`nav.${mode}`)}
+                  </span>
+                </div>
+                <p className="text-text-primary text-sm leading-relaxed">
+                  {t(`landing.${desc}`)}
+                </p>
               </div>
-              <p className="text-text-primary text-sm leading-relaxed">
-                {t("landing.howReading")}
-              </p>
-            </div>
-            <div className="space-y-3">
-              <div className="flex items-center gap-3">
-                <span className="w-9 h-9 rounded-full bg-bg-paper border border-border flex items-center justify-center">
-                  <NotebookPen className="w-4 h-4 text-text-muted" strokeWidth={1.5} />
-                </span>
-                <span className="text-sm font-semibold uppercase tracking-wider text-text-secondary">
-                  {t("nav.studyMode")}
-                </span>
-              </div>
-              <p className="text-text-primary text-sm leading-relaxed">
-                {t("landing.howStudy")}
-              </p>
-            </div>
+            ))}
           </div>
         </div>
       </section>
@@ -178,7 +173,7 @@ export default async function LandingPage({
       {/* Footer */}
       <footer className="px-6 py-10 border-t border-border-muted text-center">
         <p className="text-xs text-text-muted">
-          {t("site.title")} · v2.5
+          {t("site.title")}
         </p>
       </footer>
     </main>

@@ -17,7 +17,7 @@ export interface Paragraph {
 }
 
 export interface GlossaryEntry {
-  hebrew: string;
+  sourceWord: string;
   translation: string;
   notes: string;
 }
@@ -30,11 +30,13 @@ export interface ChapterMetadata {
   baseText: string;
   status: string;
   methodology: string;
-  yhwhPolicy: string;
+  divineNamePolicy: string;
 }
 
 export interface ChapterData {
   metadata: ChapterMetadata;
+  overview: string | null;
+  readingGuide: string | null;
   continuousReading: Paragraph[];
   verses: Verse[];
   glossary: GlossaryEntry[];
@@ -61,7 +63,8 @@ export type ConfidenceLevel =
   | "PROBABLE"
   | "POSSIBLE"
   | "UNCERTAIN"
-  | "SPECULATIVE";
+  | "SPECULATIVE"
+  | "DOCUMENTED";
 
 export interface EnrichmentEntry {
   title: string;
@@ -82,4 +85,67 @@ export interface EnrichmentData {
   chapter: number;
   disclaimer: string;
   sections: EnrichmentSection[];
+}
+
+export interface IntroductionData {
+  book: string;
+  disclaimer: string;
+  sections: EnrichmentSection[];
+}
+
+export type FulfillmentStatus =
+  | "FULFILLED"
+  | "PARTIAL"
+  | "CLAIMED"
+  | "UNFULFILLED"
+  | "DEBATED"
+  | "MULTI_STAGE";
+
+export interface ProphecyReading {
+  tradition: string;
+  subTradition?: string;
+  reading: string;
+  confidence: ConfidenceLevel;
+}
+
+export interface ProphecyEntry {
+  verseRef: string;
+  title: string;
+  textSays: string;
+  context: string;
+  subject: string;
+  readings: ProphecyReading[];
+  fulfillmentStatus: FulfillmentStatus;
+  fulfillmentNotes?: string;
+}
+
+export interface ProphecyData {
+  book: string;
+  chapter: number;
+  entries: ProphecyEntry[];
+}
+
+export type OriginType = "BORN" | "CREATED" | "APPEARS" | "UNCERTAIN";
+
+export interface PersonEntry {
+  slug: string;
+  name: string;
+  nameMeaning?: string;
+  originType: OriginType;
+  birthYear?: string;
+  deathYear?: string;
+  lifespan?: string;
+  father?: string;
+  mother?: string;
+  spouses?: string[];
+  children?: string[];
+  locations?: string[];
+  firstMention: string;
+  mentionedIn: string[];
+  keyEvents?: string[];
+}
+
+export interface PeopleData {
+  book: string;
+  entries: PersonEntry[];
 }

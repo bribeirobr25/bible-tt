@@ -10,8 +10,8 @@
 **Capítulo:** Genesis 2
 **Idioma:** Português Brasileiro
 **Acompanha:** `pt-br/genesis/CHAPTER-2.md` (Edição Transparente)
-**Regras:** v2.5 (Regra 29 governa este arquivo)
-**Status:** rascunho
+**Regras:** v3.0 (Regra 29 governa este arquivo)
+**Status:** provisório
 
 ---
 
@@ -35,7 +35,7 @@ Genesis 1:1–2:3 usa apenas *Elohim* (Deus). Genesis 2:4 introduz **YHWH Elohim
 ### A2. Quatro verbos de criação — não um
 **[TEXTUAL — VERIFICADO]**
 
-Genesis 1 usa dois verbos de criação: *bara* (criou, 3x) e *asah* (fez, 7x). Genesis 2 introduz mais dois: *yatzar* (formou, 2:7 humano, 2:19 animais — o verbo do oleiro) e *banah* (construiu, 2:22 mulher — o verbo de construção). A TT preserva estas distinções nos três idiomas. A maioria das traduções as colapsa em "fez" ou "formou" indistintamente.
+Genesis 1 usa dois verbos de criação: *bara* (criou, 3x) e *asah* (fez, 7x). Genesis 2 introduz mais dois: *yatzar* (formou, 2:7 humano, 2:19 animais — o verbo do oleiro) e *banah* (construiu, 2:22 mulher — o verbo de construção). A TT preserva estas distinções nos quatro idiomas. A maioria das traduções as colapsa em "fez" ou "formou" indistintamente.
 
 ### A3. Inversão de ordem: "terra e céus" (não "céus e terra")
 **[TEXTUAL — VERIFICADO]**
@@ -45,7 +45,7 @@ Genesis 1:1: "os céus e a terra" (cósmico, de cima para baixo). Genesis 2:4b: 
 ### A4. *adam* de *adamah* — o humano da terra
 **[TEXTUAL — VERIFICADO]**
 
-Genesis 2:7: YHWH Elohim formou o *adam* (humano), pó da *adamah* (terra/solo). O vínculo sonoro (*adam/adamah*) é o jogo de palavras do próprio texto — as notas da TT o sinalizam como intraduzível nos três idiomas. O vínculo está ativo através de Genesis 3:19 ("ao pó retornarás") e 3:23 ("para trabalhar a terra de onde foi tomado").
+Genesis 2:7: YHWH Elohim formou o *adam* (humano), pó da *adamah* (terra/solo). O vínculo sonoro (*adam/adamah*) é o jogo de palavras do próprio texto — as notas da TT o sinalizam como intraduzível nos quatro idiomas. O vínculo está ativo através de Genesis 3:19 ("ao pó retornarás") e 3:23 ("para trabalhar a terra de onde foi tomado").
 
 ### A5. *nefesh chayah* — humanos compartilham a categoria com animais
 **[TEXTUAL — VERIFICADO]**
@@ -60,7 +60,7 @@ Genesis 2:7: YHWH Elohim formou o humano "pó da terra" e "soprou em suas narina
 O texto não menciona: alma como substância separada, espírito como entidade independente, consciência como terceiro componente, ou qualquer estrutura tripartite (corpo-alma-espírito). Tradições posteriores — filosofia grega (alma tripartite de Platão), antropologia rabínica (*nefesh/ruach/neshamah* como níveis distintos), teologia cristã (corpo-alma-espírito conforme 1 Ts 5:23) — desenvolvem esses quadros. O texto hebraico de Gen 2:7 declara: pó + sopro = ser vivo. Qualquer coisa além disso é interpretação posterior.
 
 ### A6. *ezer kenegdo* — "auxiliar" é predominantemente divino na Bíblia Hebraica
-**[TEXTUAL / STRONG INFERENCE — VERIFICADO]**
+**[TEXTUAL / INFERÊNCIA FORTE — VERIFICADO]**
 
 A palavra *ezer* (auxiliar) aparece ~21 vezes na Bíblia Hebraica. ~16 delas referem-se a Deus como auxiliar de Israel em contextos militares/de resgate (Dt 33:7, 33:26, 33:29; Sl 20:2, 33:20, 115:9–11, 121:1–2, 124:8, 146:5; Os 13:9). Apenas 2 referem-se à mulher (Gen 2:18, 2:20). O perfil estatístico é predominantemente auxílio-superior, não auxílio-subordinado. A TT preserva "auxiliar como sua contraparte" com uma nota tornando isso explícito.
 
@@ -89,7 +89,7 @@ Genesis 2:15: *la'avdah ulshomrah* — "para trabalhá-lo e guardá-lo." Dois in
 ## B. Paralelos do Antigo Oriente Próximo
 
 ### B0. Jardim como espaço delimitado e cultivado
-**[COMPARATIVE PARALLEL — PROVÁVEL]**
+**[PARALELO COMPARATIVO — PROVÁVEL]**
 
 O hebraico *gan* (jardim) implica um **espaço fechado, delimitado e cultivado** — distinto de deserto (*midbar*) ou terra aberta (*sadeh*, campo). Na tradição do antigo Oriente Próximo, jardins divinos e reais simbolizam ordem imposta sobre o caos:
 - Jardins reais mesopotâmicos (ex.: jardins do palácio de Senaqueribe) como símbolos de domínio e abundância
@@ -100,7 +100,7 @@ Genesis 2:8 coloca o jardim "em Éden" — um espaço delimitado e cultivado den
 **Fonte:** Stordalen, T., *Echoes of Eden*, 2000.
 
 ### B1. Criação humana a partir de terra/argila
-**[COMPARATIVE PARALLEL — VERIFICADO]**
+**[PARALELO COMPARATIVO — VERIFICADO]**
 
 Múltiplas tradições do antigo Oriente Próximo descrevem humanos formados de material terrestre:
 - **Atrahasis** (acádico, ~1800 a.C.): humanos formados de argila misturada com o sangue de um deus morto
@@ -112,7 +112,7 @@ Genesis 2:7 compartilha o motivo de argila/terra mas diverge: nenhum sangue divi
 **Fonte:** Clifford, R.J., *Creation Accounts in the Ancient Near East and in the Bible*, 1994, pp. 135–165.
 
 ### B2. Motivos de jardim/paraíso
-**[COMPARATIVE PARALLEL — PROVÁVEL]**
+**[PARALELO COMPARATIVO — PROVÁVEL]**
 
 Jardins divinos ou reais aparecem na literatura do antigo Oriente Próximo:
 - **Dilmun** (sumério): terra semelhante ao paraíso onde os deuses habitam, descrita como pura e brilhante
@@ -124,7 +124,7 @@ Genesis 2:8 descreve um jardim "em Éden, do leste" — um lugar específico com
 **Fonte:** Stordalen, T., *Echoes of Eden: Genesis 2–3 and Symbolism of the Eden Garden in Biblical Hebrew Literature*, 2000.
 
 ### B3. Nomear como autoridade
-**[COMPARATIVE PARALLEL — VERIFICADO]**
+**[PARALELO COMPARATIVO — VERIFICADO]**
 
 Na tradição do antigo Oriente Próximo, nomear expressa autoridade sobre o nomeado. Genesis 2:19–20: YHWH Elohim traz os animais ao humano "para ver o que ele chamaria a cada um; e tudo o que o humano chamou a cada ser vivo, esse é seu nome." Isso é paralelo ao Enuma Elish onde a nomeação dos corpos celestes por Marduk estabelece sua autoridade.
 
@@ -135,7 +135,7 @@ Na tradição do antigo Oriente Próximo, nomear expressa autoridade sobre o nom
 ## C. Contexto Histórico e Arqueológico
 
 ### C1. Os quatro rios — dois conhecidos, dois desconhecidos
-**[HISTORICAL / ARCHAEOLOGICAL — PROVÁVEL (parcial)]**
+**[HISTÓRICO / ARQUEOLÓGICO — PROVÁVEL (parcial)]**
 
 Genesis 2:10–14 nomeia quatro rios:
 - **Hiddeqel** = Tigre (identificação VERIFICADA)
@@ -147,7 +147,7 @@ Os dois rios identificáveis situam a narrativa na geografia mesopotâmica. Os d
 **Fonte:** Speiser, E.A., *Genesis* (Anchor Bible), 1964, pp. 19–20.
 
 ### C1b. Mineralogia de Havilá — ouro, bdélio e pedra shoham
-**[HISTORICAL / ARCHAEOLOGICAL — PROVÁVEL]**
+**[HISTÓRICO / ARQUEOLÓGICO — PROVÁVEL]**
 
 Genesis 2:11-12: "a terra de Havilá, onde está o ouro. E o ouro daquela terra é bom; ali está o bdélio e a pedra shoham." O texto nomeia três materiais específicos:
 
@@ -158,7 +158,7 @@ Genesis 2:11-12: "a terra de Havilá, onde está o ouro. E o ouro daquela terra 
 A inclusão de recursos geológicos/minerais na descrição do Éden pelo texto conecta o jardim a rotas comerciais e riqueza material do antigo Oriente Próximo. O Éden não é descrito como etéreo — possui recursos específicos, valiosos e comercializáveis.
 
 ### C2. O padrão Shabat/descanso
-**[HISTORICAL / ARCHAEOLOGICAL — PROVÁVEL]**
+**[HISTÓRICO / ARQUEOLÓGICO — PROVÁVEL]**
 
 Genesis 2:1–3: Deus descansa no sétimo dia e o santifica. A primeira coisa chamada santa na Bíblia é um *tempo*, não um lugar ou objeto. Isso conecta-se à instituição do Shabat, que é atestada arqueologicamente na prática israelita a partir de pelo menos o século VIII a.C. (ostraca, inscrições).
 
@@ -188,7 +188,7 @@ Genesis 2:21–22: Deus toma uma *tsela* (lado — ~35 de 41 ocorrências bíbli
 Gênesis 2:16: *akhol tokhel* ("comendo comerás") — permissão enfática. Gênesis 2:17: *mot tamut* ("morrendo morrerás") — ameaça enfática. A construção hebraica de infinitivo absoluto coloca a raiz verbal antes da forma conjugada para máxima força gramatical. A TT preserva ambas as estruturas literalmente. Este pareamento (enfático positivo + enfático negativo) cria o contraste mais agudo possível entre permissão e proibição — um contraste que a serpente negará diretamente em 3:4 (*lo mot temutun* — "não morrendo morrereis").
 
 ### D1d. O Tetragrama — pronúncia perdida e a observação sobre a respiração
-**[TEXTUAL — VERIFICADO (pronúncia perdida) / POSSIBLE INFERENCE — POSSÍVEL (conexão com a respiração)]**
+**[TEXTUAL — VERIFICADO (pronúncia perdida) / INFERÊNCIA POSSÍVEL — POSSÍVEL (conexão com a respiração)]**
 
 A pronúncia original de יהוה (YHWH) está **genuinamente perdida**. Os pontos vocálicos massoréticos anexados às consoantes são os de *Adonai* (o substituto de leitura), não do nome em si. Ninguém vivo sabe com certeza como era pronunciado. A reconstrução acadêmica *Yahweh* é provável, mas não comprovada.
 
@@ -220,35 +220,42 @@ O hebraico *beyom* pode significar um dia literal de 24 horas ou um idiomático 
 ## E. Correspondência e Não-Correspondência Científica
 
 ### E1. Formação do pó — elementos e composição
-**[SCIENTIFIC COMPARISON — para conhecimento]**
+**[COMPARAÇÃO CIENTÍFICA — para conhecimento]**
 
 Genesis 2:7: "formou o humano, pó da terra." A química moderna nota que o corpo humano é composto de elementos comuns encontrados na crosta terrestre (carbono, oxigênio, hidrogênio, nitrogênio, cálcio, fósforo, etc.). Esta é uma observação, não uma afirmação concordista. O texto descreve *formação* a partir da terra, não composição química.
 
 ### E2. O sistema fluvial — hidrologia
-**[SCIENTIFIC COMPARISON — POSSÍVEL]**
+**[COMPARAÇÃO CIENTÍFICA — POSSÍVEL]**
 
 Genesis 2:10–14 descreve um rio saindo de Éden que se divide em quatro braços. A hidrologia moderna não conhece um sistema fluvial de fonte única correspondente a esta descrição. Os dois rios identificáveis (Tigre, Eufrates) têm fontes separadas. Se o texto descreve uma geografia pré-diluviana, uma geografia simbólica ou uma geografia narrativa permanece sem resolução.
+
+### E3. "Não é bom que o humano esteja só" — isolamento social e sociabilidade humana
+**[COMPARAÇÃO CIENTÍFICA — POSSÍVEL]**
+
+Genesis 2:18 registra o único "não bom" (*lo tov*) na narrativa da criação: "Não é bom que o humano esteja só." O texto identifica a sociabilidade como uma característica de projeto, não uma preferência — o humano numa criação completa e boa ainda é avaliado como carente sem companhia. A pesquisa moderna sobre isolamento social confirma efeitos fisiológicos profundos: solidão crônica correlaciona-se com aumento de cortisol, inflamação, risco cardiovascular e declínio cognitivo (Cacioppo & Patrick, *Loneliness*, 2008; Holt-Lunstad et al., *PLOS Medicine*, 2010). A correspondência é estrutural: tanto o texto antigo quanto a pesquisa moderna identificam o isolamento como um déficit fundamental no funcionamento humano, não meramente um desconforto emocional. O texto não faz um argumento científico — declara uma avaliação divina. A ciência fornece uma observação independente que se alinha com a afirmação do texto.
+
+**Fonte:** Cacioppo, J. & Patrick, W., *Loneliness: Human Nature and the Need for Social Connection*, Norton, 2008; Holt-Lunstad, J. et al., "Social Relationships and Mortality Risk," *PLOS Medicine* 7:7, 2010.
 
 ---
 
 ## F. Recepção Posterior em Outras Tradições
 
 ### F1. Recepção judaica
-**[LATER RECEPTION — DOCUMENTADO]**
+**[RECEPÇÃO POSTERIOR — DOCUMENTADO]**
 
 - **Tradição rabínica** discute extensamente a nomeação dos animais (Gen 2:19–20) como demonstração da sabedoria humana — o primeiro ato de intelecto.
 - **Tradição de Lilith** (Alphabet of Ben Sira, medieval): alguns textos rabínicos postulam uma "primeira mulher" antes de Eva, baseados nas tensões entre Gen 1:27 ("macho e fêmea ele os criou") e Gen 2:22 (mulher construída do lado/costela). Isto é **LATER RECEPTION**, não está no texto hebraico.
 - **Gen 2:24** ("por isso deixará o homem seu pai...") é lido como a instituição do casamento pela Torá.
 
 ### F2. Recepção cristã
-**[LATER RECEPTION — DOCUMENTADO]**
+**[RECEPÇÃO POSTERIOR — DOCUMENTADO]**
 
 - **Paulo** (Ef 5:31–32) lê Gen 2:24 como tipologia para Cristo e a igreja.
 - **Agostinho** lê o "sono profundo" (*tardemah*) como prefiguração de morte e ressurreição.
 - O par *ish/ishah* é amplamente citado na teologia cristã como base para visões complementaristas ou igualitárias — ambas citando o mesmo texto. O hebraico não resolve este debate.
 
 ### F3. Recepção islâmica
-**[LATER RECEPTION — DOCUMENTADO]**
+**[RECEPÇÃO POSTERIOR — DOCUMENTADO]**
 
 O Alcorão descreve a criação de Adão da argila (*tin*, Surata 15:26) e o ensino de nomes a Adão (Surata 2:31) — paralelos a Gen 2:7 e 2:19–20. O relato corânico não inclui o jogo de palavras *ish/ishah* ou a narrativa específica da *tsela* (lado/costela).
 
@@ -259,7 +266,7 @@ O Alcorão descreve a criação de Adão da argila (*tin*, Surata 15:26) e o ens
 ## G. Curiosidades e Questões Abertas
 
 ### G0. Nomear como ordenação cognitiva
-**[TEXTUAL / STRONG INFERENCE — PROVÁVEL]**
+**[TEXTUAL / INFERÊNCIA FORTE — PROVÁVEL]**
 
 Genesis 2:19–20: YHWH Elohim traz os animais ao humano "para ver o que ele chamaria a cada um." O humano nomeia cada gado, ave e ser vivo. Na tradição do antigo Oriente Próximo, nomear expressa autoridade cognitiva — quem nomeia classifica, categoriza e ordena o nomeado. Este é o **primeiro ato intelectual** do humano: impor estrutura linguística ao mundo animal. Ele precede a busca por uma contraparte (2:20) — nomear revela que nenhum animal se qualifica.
 
@@ -269,7 +276,7 @@ Genesis 2:19–20: YHWH Elohim traz os animais ao humano "para ver o que ele cha
 Genesis 2:18: "Não é bom o ser do humano sozinho." Após seis avaliações "bom" e um "muito bom" em Genesis 1, o primeiro *lo tov* (não bom) aparece aqui. O texto não explica *por que* a solidão não é boa — declara isso como avaliação divina.
 
 ### G2. Deus como cirurgião
-**[TEXTUAL / POSSIBLE INFERENCE — POSSÍVEL]**
+**[TEXTUAL / INFERÊNCIA POSSÍVEL — POSSÍVEL]**
 
 Genesis 2:21: YHWH Elohim induz *tardemah* (sono profundo), toma uma *tsela* (lado/costela) e fecha a carne. Esta é a única passagem bíblica que descreve o que equivale a um procedimento cirúrgico realizado por Deus. A *tardemah* não é sono comum — é usada depois para Abraão (Gen 15:12) em um contexto de aliança.
 
@@ -282,6 +289,16 @@ Genesis 2:22 usa *banah* (construiu) — o verbo de construção. Não *bara* (c
 **[TEXTUAL — VERIFICADO]**
 
 Genesis 2:24: *basar echad* ("uma carne"). O adjetivo *echad* (um) é a mesma palavra usada em Gen 1:5 ("dia um" / *yom echad*). Em ambos os casos marca algo único e fundacional — o primeiro dia, a primeira união.
+
+### G5. "Conhecer o bem e o mal" como problema filosófico
+**[INFERÊNCIA POSSÍVEL — POSSÍVEL]**
+
+A "árvore do conhecimento do bem e do mal" (2:9, 17) nomeia um conceito que o texto nunca define. "Conhecer o bem e o mal" na Bíblia Hebraica aparece em outros lugares em Dt 1:39 (crianças que ainda não o conhecem) e 2Sm 19:36 (um homem idoso que já não pode discernir) — ambos sugerindo maturidade experiencial ou discernimento moral, em vez de conhecimento ético abstrato. Na filosofia moral, as opções correspondem aproximadamente a: (a) autonomia moral (Kant — a capacidade de legislar a própria lei moral), (b) conhecimento experiencial (Aristóteles — sabedoria prática adquirida através da vivência), (c) perda da inocência (a transição da consciência pré-moral para a moral). O texto apresenta a árvore como proibida sem explicar o que o conhecimento *é*, deixando o leitor distinguir entre a capacidade de julgamento moral e a assunção de autoridade moral.
+
+### G6. A *tardemah* — sono profundo como anestesia antes da cirurgia
+**[INFERÊNCIA POSSÍVEL — POSSÍVEL]**
+
+Genesis 2:21: "YHWH Deus fez cair um sono profundo (*tardemah*) sobre o humano, e ele dormiu; e tomou uma de suas laterais (*tsela*), e fechou carne em seu lugar." A sequência — inconsciência induzida, corpo aberto, material removido, ferida fechada — descreve o que a medicina chama de anestesia seguida de cirurgia. A palavra *tardemah* aparece em outros contextos como inconsciência divinamente induzida (Gn 15:12; 1Sm 26:12; Is 29:10) — sempre sobrenatural, nunca sono natural (*shenah*). O texto não apresenta isso como um procedimento médico; apresenta-o como um ato criativo divino. O paralelo estrutural com o protocolo cirúrgico é observável mas incidental ao propósito do texto. O primeiro anestésico geral (éter, 1846) formalizou o que o texto narra como prerrogativa divina.
 
 ---
 

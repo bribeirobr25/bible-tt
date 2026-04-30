@@ -10,8 +10,8 @@
 **Capítulo:** Genesis 5
 **Idioma:** Português Brasileiro
 **Acompanha:** `pt-br/genesis/CHAPTER-5.md` (Edição Transparente)
-**Regras:** v2.5 (Regra 29 governa este arquivo)
-**Status:** rascunho
+**Regras:** v3.0 (Regra 29 governa este arquivo)
+**Status:** provisório
 
 ---
 
@@ -62,7 +62,7 @@ Pela aritmética massorética: Metushelach nasce quando Chanokh tem 65; Lemekh n
 ## B. Paralelos do Antigo Oriente Próximo
 
 ### B1. Lista dos Reis Sumérios — paralelos antediluvianos
-**[COMPARATIVE PARALLEL — VERIFICADO]**
+**[PARALELO COMPARATIVO — VERIFICADO]**
 
 A Lista dos Reis Sumérios (Prisma Weld-Blundell, c. 1800 AEC, Ashmolean Museum) lista reis antediluvianos com durações extraordinárias de reinado antes de um dilúvio, seguidos por governantes pós-diluvianos com reinados decrescentes.
 
@@ -78,7 +78,7 @@ A LRS legitima poder político ("a realeza desceu do céu"); Genesis 5 estrutura
 **Fonte:** Jacobsen, T., *The Sumerian King List*, 1939; Shea, W.H., "The Antediluvian Section of the SKL and Genesis 5," *Biblical Archaeologist* 44:4 (1981).
 
 ### B2. Enoque e Enmeduranki — a sétima figura
-**[COMPARATIVE PARALLEL — VERIFICADO]**
+**[PARALELO COMPARATIVO — VERIFICADO]**
 
 Chanokh ocupa a **sétima** posição em Genesis 5. Em algumas versões da LRS, **Enmeduranki** de Sippar é o sétimo rei antediluviano, estreitamente associado ao deus-sol Shamash e iniciado nos segredos divinos da adivinhação. Richard Hess nota que Utuabzu (conselheiro de Enmeduranki) teria "ascendido ao céu" — paralelando diretamente a translação de Chanokh.
 
@@ -94,7 +94,7 @@ Chanokh ocupa a **sétima** posição em Genesis 5. Em algumas versões da LRS, 
 Cada entrada segue: "X viveu Y anos → gerou Z → viveu W anos mais → gerou filhos e filhas → todos os dias de X foram N anos → e morreu." A rigidez é deliberada (Regra 7 — fórmula fixa). Desvios da fórmula (Chanokh, Noach) são os sinais interpretativos.
 
 ### D2. Padrões numéricos — sistema sexagesimal?
-**[TEXTUAL / COMPARATIVE PARALLEL — PROVÁVEL]**
+**[TEXTUAL / PARALELO COMPARATIVO — PROVÁVEL]**
 
 Cassuto (*Commentary on Genesis*, 1961) demonstrou que todos os 30 números em Genesis 5 podem ser expressos como combinações de 60 (base matemática mesopotâmica) e 7 (número sagrado hebraico). Carol Hill ("Making Sense of the Numbers of Genesis," *PSCF* 55:4, 2003) argumenta que os números carregavam significado tanto numérico quanto sagrado na cosmovisão mesopotâmica.
 
@@ -107,7 +107,7 @@ Cassuto (*Commentary on Genesis*, 1961) demonstrou que todos os 30 números em G
 ## E. Correspondência Científica e Não-Correspondência
 
 ### E1. As idades extraordinárias — o que o texto diz e não diz
-**[SCIENTIFIC COMPARISON — para conhecimento]**
+**[COMPARAÇÃO CIENTÍFICA — para conhecimento]**
 
 A expectativa de vida humana moderna é biologicamente limitada (limite de Hayflick, encurtamento de telômeros). As idades em Genesis 5 (365–969 anos) excedem vastamente qualquer expectativa de vida humana documentada. A TT apresenta os números como o texto os declara, sem harmonização ou defesa.
 
@@ -118,7 +118,7 @@ Opções que leitores consideraram: (1) anos literais; (2) números simbólicos/
 ## F. Recepção Posterior em Outras Tradições
 
 ### F1. Tradições de Enoque — judaicas
-**[LATER RECEPTION — DOCUMENTED]**
+**[RECEPÇÃO POSTERIOR — DOCUMENTADO]**
 
 - **1 Enoque** (Livro dos Vigilantes, séc. III AEC): Chanokh viaja pelo céu, recebe revelações cósmicas, aprende o destino dos Vigilantes caídos
 - **Livro dos Jubileus** (séc. II AEC): Chanokh como "primeiro que aprendeu a escrita, instrução e sabedoria" (Jub 4:17)
@@ -126,14 +126,21 @@ Opções que leitores consideraram: (1) anos literais; (2) números simbólicos/
 - A tradição rabínica é dividida: alguns (Rashi) interpretam "Deus o tomou" como morte precoce; outros leem ascensão
 
 ### F2. Recepção cristã
-**[LATER RECEPTION — DOCUMENTED]**
+**[RECEPÇÃO POSTERIOR — DOCUMENTADO]**
 
 - **Hebreus 11:5:** "Pela fé Enoque foi trasladado para que não visse a morte" — leitura explícita de não-morte
 - **Judas 14-15:** cita 1 Enoque diretamente como profecia atribuída a "Enoque, o sétimo a partir de Adão"
 - Enoque e Elias (2 Reis 2:11) são as duas figuras na tradição hebraica que não morrem
 
+### F_. A tradição de Enoque
+**[RECEPÇÃO POSTERIOR — DOCUMENTADO]**
+
+Genesis 5:21-24 diz apenas que Chanokh "andou com Deus" e "não era mais, pois Deus o tomou." Esta breve declaração deu origem a um grande corpo de escritos posteriores. *1 Enoque* (compósito, ~séc. III a.C. - séc. I d.C.; aramaico e ge'ez) atribui a Chanokh visões de reinos celestiais, os destinos dos mortos, calendários celestes e os crimes dos anjos caídos. *1 Enoque* é canônico na Igreja Ortodoxa Tewahedo Etíope. O Novo Testamento grego (Judas 14-15) cita diretamente *1 Enoque* 1:9 como autoritativo. *Jubileus* (~séc. II a.C., sobrevivendo integralmente apenas em ge'ez) também expande a narrativa de Chanokh. *2 Enoque* (eslavo, possivelmente séc. I d.C.) descreve uma jornada através de sete céus. Estes textos moldaram como Genesis 5:24 foi lido nas comunidades judaicas dos últimos séculos a.C. e no cristianismo primitivo, e permaneceram autoritativos nas tradições cristãs orientais muito depois de o cristianismo ocidental ter restringido suas escrituras aceitas.
+
+**Fonte:** Nickelsburg, G.W.E. & VanderKam, J.C., *1 Enoch: A New Translation*, Fortress Press, 2004 (PEER-REVIEWED); Reed, A.Y., *Fallen Angels and the History of Judaism and Christianity*, Cambridge, 2005 (PEER-REVIEWED).
+
 ### F3. Recepção islâmica
-**[LATER RECEPTION — DOCUMENTED]**
+**[RECEPÇÃO POSTERIOR — DOCUMENTADO]**
 
 A tradição islâmica identifica Enoque com **Idris** (Alcorão 19:56-57, 21:85): "Nós o elevamos a uma alta posição." A identificação Enoque=Idris é tradicional mas não universalmente aceita por todos os estudiosos muçulmanos.
 
@@ -147,7 +154,7 @@ A tradição islâmica identifica Enoque com **Idris** (Alcorão 19:56-57, 21:85
 Lemekh cainita (4:23-24): vangloria-se de matar, reivindica vingança 77 vezes. Lemekh setita (5:28-31): vive 777 anos, espera por consolo. Mesmo nome, trajetórias opostas. O eco numérico 77/777 está textualmente presente.
 
 ### G2. Por que nenhuma mulher setita é nomeada?
-**[TEXTUAL — POSSIBLE INFERENCE]**
+**[TEXTUAL — INFERÊNCIA POSSÍVEL]**
 
 A fórmula diz que cada patriarca "gerou filhos e filhas" — mas nenhuma filha é nomeada. A genealogia cainita (Gen 4) nomeia Na'amah (4:22). Por que a assimetria? O texto não explica; o propósito da genealogia é traçar a linhagem da aliança, não catalogar todos os descendentes.
 

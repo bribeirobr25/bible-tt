@@ -1,4 +1,5 @@
 import type { SupplementarySection } from "@/domain/content/types";
+import { renderMarkdownSafe } from "@/ui/shared/render-markdown-safe";
 
 export function SupplementaryPanel({ sections }: { sections: SupplementarySection[] }) {
   if (sections.length === 0) return null;
@@ -13,11 +14,7 @@ export function SupplementaryPanel({ sections }: { sections: SupplementarySectio
           <div
             className="px-4 pb-4 text-sm leading-relaxed text-text-primary"
             dangerouslySetInnerHTML={{
-              __html: section.content
-                .replace(/\*\*([^*]+)\*\*/g, "<strong>$1</strong>")
-                .replace(/\*([^*]+)\*/g, "<em>$1</em>")
-                .replace(/\n- /g, "<br/>• ")
-                .replace(/\n/g, "<br/>"),
+              __html: renderMarkdownSafe(section.content, "note"),
             }}
           />
         </details>

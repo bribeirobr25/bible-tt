@@ -3,7 +3,7 @@ import type { EnrichmentSection, EnrichmentEntry, ConfidenceLevel } from "@/doma
 import { ConfidenceIndicator } from "./confidence-indicator";
 
 const SECTION_INTRO_KEYS: Record<string, string> = {
-  "hebrew-text-features": "enrichment.introHebrewText",
+  "source-text-features": "enrichment.introSourceText",
   "ane-parallels": "enrichment.introAneParallels",
   "historical-archaeological": "enrichment.introHistorical",
   "linguistic-philological": "enrichment.introLinguistic",
@@ -12,14 +12,14 @@ const SECTION_INTRO_KEYS: Record<string, string> = {
   curiosities: "enrichment.introCuriosities",
 };
 
-const HEDGE_START_KEYS: Record<string, string> = {
+const HEDGE_START_KEYS: Partial<Record<ConfidenceLevel, string>> = {
   PROBABLE: "enrichment.hedgeStartProbable",
   POSSIBLE: "enrichment.hedgeStartPossible",
   UNCERTAIN: "enrichment.hedgeStartUncertain",
   SPECULATIVE: "enrichment.hedgeStartSpeculative",
 };
 
-const HEDGE_MID_KEYS: Record<string, string> = {
+const HEDGE_MID_KEYS: Partial<Record<ConfidenceLevel, string>> = {
   PROBABLE: "enrichment.hedgeMidProbable",
   POSSIBLE: "enrichment.hedgeMidPossible",
   UNCERTAIN: "enrichment.hedgeMidUncertain",
@@ -56,7 +56,7 @@ function EntryParagraph({ entry, isFirst, t }: { entry: EnrichmentEntry; isFirst
 
   return (
     <div className="flex gap-3 items-start">
-      <ConfidenceIndicator level={entry.confidence} />
+      <ConfidenceIndicator level={entry.confidence} label={t(`confidence.${entry.confidence.toLowerCase()}`)} />
       <p className="font-[family-name:var(--font-reading)] text-base md:text-lg leading-[1.8] text-text-primary">
         {prefix && <span className="text-text-secondary">{prefix}</span>}
         {content}

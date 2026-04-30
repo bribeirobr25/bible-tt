@@ -1,4 +1,5 @@
 import type { Note, NoteType } from "@/domain/content/types";
+import { renderMarkdownSafe } from "@/ui/shared/render-markdown-safe";
 import { AlertCircle, BookOpen, Code2, Lightbulb } from "lucide-react";
 import type { LucideIcon } from "lucide-react";
 
@@ -24,11 +25,7 @@ export function NoteBlock({ note }: { note: Note }) {
       <div
         className="text-sm leading-relaxed text-text-primary"
         dangerouslySetInnerHTML={{
-          __html: note.content
-            .replace(/\*\*([^*]+)\*\*/g, "<strong>$1</strong>")
-            .replace(/\*([^*]+)\*/g, "<em>$1</em>")
-            .replace(/\n- /g, "<br/>• ")
-            .replace(/\n/g, "<br/>"),
+          __html: renderMarkdownSafe(note.content, "note"),
         }}
       />
     </div>

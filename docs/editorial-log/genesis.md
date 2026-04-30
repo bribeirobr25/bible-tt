@@ -1,11 +1,11 @@
 # Editorial Log — Genesis
 
-**Ruleset version in force:** v2.4
+**Ruleset version in force:** v3.0
 **Book:** Genesis
 **Maintainer:** Project Lead
-**Format:** per v2.4 Editorial Log Specification
+**Format:** per v3.0 Editorial Log Specification
 
-This log records consistency decisions, justified exceptions, text-critical choices, and any deviations from the default ruleset. Backfilled entries for decisions already encoded in `en/genesis/`, `pt-br/genesis/`, and `de/genesis/` Chapter 1 are included below for traceability.
+This log records consistency decisions, justified exceptions, text-critical choices, and any deviations from the default ruleset. Backfilled entries for decisions already encoded in `en/genesis/`, `pt-br/genesis/`, `de/genesis/`, and `es/genesis/` Chapter 1 are included below for traceability.
 
 ---
 
@@ -968,8 +968,8 @@ Applied from consolidated external proposals (`docs/audit/GENESIS-1-EN-PROPOSAL.
 - **Verse:** Genesis 10 (Table of Nations)
 - **Language(s) affected:** EN, PT, DE
 - **Rule(s) invoked:** Rule 4
-- **Decision:** Proper names transliterated from Hebrew form (e.g., Kush not "Ethiopia", Mitzrayim not "Egypt", Kena'an not "Canaan" in main text). Traditional identifications in notes. This preserves the Hebrew text's own naming while making identifications available.
-- **Justification:** Rule 4 applies when common translation imports false associations. "Egypt" for Mitzrayim loses the Hebrew name; "Cush" for a region we loosely identify with modern Sudan/Ethiopia is inexact.
+- **Decision:** Proper names transliterated from Hebrew form (e.g., Kush not "Ethiopia", Mitsrayim not "Egypt", Kenaan not "Canaan" in main text). Traditional identifications in notes. This preserves the Hebrew text's own naming while making identifications available.
+- **Justification:** Rule 4 applies when common translation imports false associations. "Egypt" for Mitsrayim loses the Hebrew name; "Cush" for a region we loosely identify with modern Sudan/Ethiopia is inexact.
 - **Status:** decided
 
 ## Entry 2026-04-21-088
@@ -1070,4 +1070,231 @@ Applied from consolidated external proposals (`docs/audit/GENESIS-1-EN-PROPOSAL.
 
 ---
 
-*Genesis 7–9 feedback fixes applied. All three languages updated. 117/117 tests passing. 27 chapter pages static (SSG).*
+*Genesis 7–9 feedback fixes applied. All four languages updated. 445 tests passing. 54 static pages. [Updated 2026-04-26]*
+
+---
+
+# Spanish Language Integration (2026-04-25)
+
+## Entry 2026-04-25-083
+
+- **Verse:** edition-wide (ES)
+- **Language(s) affected:** ES
+- **Rule(s) invoked:** Spanish Pre-Translation Requirement (RULES.md v2.6)
+- **Decision:** **Reina-Valera Relationship Policy = Option B (Selective Acknowledgment).**
+  - Translation itself is built from Hebrew using TT rules, independent of Reina-Valera.
+  - Supplementary materials (appendix, study edition, preface) will acknowledge RV's influence on Spanish Bible tradition.
+  - Where TT and RV converge, the convergence is noted as both accurately rendering Hebrew.
+  - Where TT and RV diverge, the divergence is documented with reasoning (where RV smoothed, theologized, or interpreted beyond what Hebrew requires).
+  - This is editorial framing, not methodology. The translation does not change.
+- **Alternatives considered:** Option A (Complete Independence — rejected as unrealistic; RV is the dominant Protestant tradition and widely known among all Spanish-speaking Bible readers). Option C (Explicit Alternative — rejected as risk of appearing polemical; Spanish-speaking world is denominationally diverse, and framing TT against a primarily Protestant tradition could alienate Catholic readers who don't identify with RV. Per Rule 3 corollary, "restraint matters both ways").
+- **Justification:** Option B mirrors the German Luther decision (Entry 2026-04-22-078) and applies the TT transparency philosophy: honest about the tradition it operates within, without deference to it. Additional consideration: RV is primarily Protestant while the Spanish-speaking world is majority Catholic — Option B allows acknowledgment across traditions without favoring either.
+- **Status:** decided — project lead
+- **Applied to:** All future ES chapter files (front matter will reference this decision).
+
+## Entry 2026-04-25-084
+
+- **Verse:** edition-wide (ES)
+- **Language(s) affected:** ES
+- **Rule(s) invoked:** Rule 25 (Divine Name), RULES.md v2.6
+- **Decision:** Spanish Divine Name Policy = **Option A — Consonantal (YHWH)**, matching EN and PT-BR. NOT JHWH (which is used only in DE due to German J=/j/ convention). Spanish J = /x/ (velar fricative); JHWH would mislead Spanish readers into pronouncing /xhwh/. Spanish Y = /j/ (palatal approximant), correctly representing Hebrew yod.
+- **Status:** decided — project lead
+
+## Entry 2026-04-25-085
+
+- **Verse:** edition-wide (ES)
+- **Language(s) affected:** ES
+- **Rule(s) invoked:** Rule 10 (register), RULES.md v2.6
+- **Decision:** Spanish regional variant = **pan-Hispanic neutral**. No voseo, no vosotros, no strong peninsular or Latin American markers. Standard educated Spanish of 2020s, avoiding both Reina-Valera archaisms and regional colloquialisms.
+- **Status:** decided — project lead
+
+## Entry 2026-04-25-086
+
+- **Verse:** Genesis 1–9
+- **Language(s) affected:** ES
+- **Rule(s) invoked:** Rules 1, 2, 3, 7, 8, 10, 11, 16, 25
+- **Decision:** Spanish Genesis 1–9 translation drafted following all 29 TT rules. Key translation decisions for ES:
+  - **Locked formulas:** "Y Dios dijo...", "Y fue así", "Y Dios vio que bueno" / "Y Dios vio que *era* bueno", "Y fue tarde, y fue mañana, día [X]"
+  - **Jussive:** "Haya luz" (bare subjunctive — Transparent Edition)
+  - **Hinneh:** "he aquí" (locked rendering)
+  - **Ruach:** "viento/espíritu" (slash per Rule 2)
+  - **YHWH:** consonantal rendering per entry 084
+  - **Adam transition:** "el humano" → "Adán" at Gen 4:25 (matching EN/PT/DE)
+  - **Bene ha-elohim:** "los hijos de Dios/los dioses" (slash per Rule 2)
+  - **Nephilim, tebah, gofer:** transliterated per Rule 4
+  - **Flood doublets:** preserved without harmonization per Rule 22
+  - **Day 1:** "día uno" (cardinal, per Rule 18)
+- **AI provenance:** model=claude-opus-4-6, date=2026-04-25
+- **Status:** provisional — pending review
+
+---
+
+*Spanish integration complete. RULES.md v2.6 with full ES support. Reina-Valera Option B declared. YHWH (not JHWH) confirmed. Pan-Hispanic neutral register.*
+
+---
+
+# Layered Architecture Refactoring (2026-04-26)
+
+## Entry 2026-04-26-087
+
+- **Verse:** governance-wide
+- **Language(s) affected:** all
+- **Rule(s) invoked:** Amendment & Lock Protocol (emergency amendment)
+- **Decision:** RULES.md restructured into RULES-CORE.md + RULES-HB.md + RULES-GS.md (stub). Version bumped to v3.0. Zero rule-content changes. File structure changed to support future Greek Scriptures expansion. All existing translation decisions, glossary terms, formulas, and policies preserved verbatim.
+- **Deferred to GS PR:** Domain type renames (types.ts:20,33), `.hebrew` CSS class split (globals.css:76), enrichment parser section ID parameterization (enrichment-parser.ts:15). TODO comments placed at each location.
+- **Justification:** Expanding to Greek Scriptures requires separating universal translation principles from Hebrew-specific implementation details. Emergency amendment clause invoked — structural reorganization, not rule change. No signed-off verses affected (all currently provisional).
+- **Status:** decided — project lead
+- **Cross-references:** docs/audit/rules-refactoring-plan-v3-final.md
+
+---
+
+## Entry 2026-04-27-088
+
+- **Verse:** Genesis 1–9 (all chapters, all views)
+- **Language(s) affected:** EN, PT-BR, DE, ES
+- **Rule(s) invoked:** Rule 1, Rule 10, Rule 22, Rule 25, Rule 28, Rule 29
+- **Decision:** v3 compliance remediation — 31 findings from v3-compliance-audit.md resolved across 4 batches. Key changes:
+  - DOCUMENTED added to ConfidenceLevel type union and parser (Fix 1.1) — eliminates silent coercion of LATER RECEPTION entries to VERIFIED
+  - ES Gen 3 vosotros → ustedes register fix (Fix 1.2)
+  - EN Gen 3:22 "Behold" → "See" (Fix 1.5)
+  - raqia gloss "(expanse)" added at first occurrence in all 4 locales (Fix 2.1)
+  - EXPLICIT/EXPLIZIT/EXPLÍCITO labels replaced with VERIFIED/VERIFIZIERT/VERIFICADO (Fix 3.2)
+  - ES superscript verse numbers standardized in Gen 4–9 (Fix 4.1)
+  - Status taxonomy normalized: provisional/provisório/provisorisch/provisional (Fix m9)
+- **AI provenance:** claude-opus-4-6, 2026-04-26
+- **Status:** applied
+- **Cross-references:** docs/audit/v3-remediation-plan.md, docs/audit/feedback-post-remediation-final.md
+
+---
+
+## Entry 2026-04-27-089
+
+- **Verse:** Genesis 1–9 (all chapters, all companions)
+- **Language(s) affected:** EN, PT-BR, DE, ES
+- **Rule(s) invoked:** Rule 1, Rule 10, Rule 22, Rule 25, Rule 28, Rule 29
+- **Decision:** Post-remediation audit response — 22 fix items across Batches 5–8. Key changes:
+  - ES diacritics normalized: enél, debajó, formás, mismás, bajó, abajó, parrafo, TRADUCCION, mas, dia (Fix 5.1)
+  - ES Gen 1–3 superscript verse numbers added to continuous reading (Fix 5.2)
+  - ES section headers standardized to ESTUDIO VERSÍCULO POR VERSÍCULO; 2 parser compat shims removed (Fix 5.3)
+  - Trilingual residue fixed across ~16 companion file references in all 4 locales (Fix 5.4)
+  - Gen 1 companion labeling keys collapsed from dual-block to single block in ES/PT-BR/DE; DOCUMENTADO/DOKUMENTIERT tier added; English labels translated (Fix 5.5)
+  - DE companion front matter updated from v2.5 to v3.0 across all 9 files (Fix 5.6)
+  - EXPLIZIT/EXPLÍCITO residue in DE/PT-BR/ES Gen 1 A2 fixed to VERIFIZIERT/VERIFICADO (Fix 5.7)
+  - dangerouslySetInnerHTML replaced with renderMarkdownSafe() helper with HTML escaping (Fix 6.1)
+  - Glossary notes tooltip added (Fix 6.2)
+  - Parser fallback console.warn added (Fix 6.3)
+  - Dead DOCUMENTED clause removed from parseClaimType (Fix 6.4)
+  - HEDGE map types narrowed to Partial<Record<ConfidenceLevel, string>> (Fix 6.5)
+  - 90 new tests: confidence tier parsing (6 levels × 4 locales), parameterized enrichment tests (4×9), renderMarkdownSafe unit tests
+  - typecheck and content:lint scripts added
+- **AI provenance:** claude-opus-4-6, 2026-04-27
+- **Status:** applied
+- **Cross-references:** docs/audit/fix-plan-post-remediation.md, docs/audit/feedback-post-remediation-final.md
+
+---
+
+## Entry 2026-04-28-090
+
+- **Verse:** book-level (Genesis introduction)
+- **Language(s) affected:** EN, PT-BR, DE, ES
+- **Rule(s) invoked:** Rule 29 (extended with book introduction subsection + interdisciplinary scanning guidance)
+- **Decision:** Added book-level introduction support to the TT project:
+  - Rule 29 enhanced with two subsections: interdisciplinary scanning guidance (routing text-modern field intersections to appropriate companion sections C/D/E/G) and book-level introductions specification (AVAILABLE-not-mandatory pattern, 7 sections A-G, front-matter spec, genre-adapted variations deferred to narrative-only)
+  - Companion template labeling key fixed: split VERIFIED/PROBABLE into separate entries, added DOCUMENTED tier
+  - New introduction template created at docs/templates/book-introduction-template.md
+  - Genesis introduction created in all 4 locales (EN/PT-BR/DE/ES, ~400-480 lines each) covering: Overview, Authorship & Composition, Dating, Historical Setting, Manuscript Transmission, Reading in TT, Sources
+  - Enrichment parser parameterized: extracted core logic into private helper accepting section ID maps; new parseIntroductionMarkdown() exported with introduction-specific section IDs
+  - IntroductionData type added to domain types
+  - Content repository and loader extended with readIntroduction/getIntroductionData
+  - Book page enhanced to render introduction sections as expandable details above chapter navigation
+  - IntroductionView component created as Server Component (no client JS for expand/collapse)
+  - EnrichmentEntryCard updated to use renderMarkdownSafe (extending Batch 6 coverage)
+  - 17 new introduction parser tests (including DOCUMENTED regression tests)
+  - i18n keys added for introduction section labels in all 4 locales
+- **AI provenance:** claude-opus-4-6, 2026-04-28
+- **Status:** applied
+- **Cross-references:** docs/audit/plan-book-introductions.md, docs/audit/feedback-plan-book-introductions.md
+
+---
+
+## Entry 2026-04-28-091
+
+- **Verse:** Genesis 10–12 (all chapters, all views)
+- **Language(s) affected:** EN, PT-BR, DE, ES
+- **Rule(s) invoked:** Rule 1, Rule 4, Rule 7, Rule 14, Rule 16, Rule 22, Rule 28
+- **Decision:** Genesis 10–12 translation block across all 4 locales. Key decisions:
+  - Charan (city) vs. Haran (person) distinction preserved across all locales
+  - *havah* ("come, let us") three-occurrence structural mirror (11:3, 11:4, 11:7) preserved
+  - Bavel/balal wordplay preservation in all locales
+  - *lifnei YHWH* (10:9) ambiguity preserved — translated literally, both readings (approval/defiance) noted
+  - *nivrekhu* (12:3) Nifal ambiguity preserved — passive/reflexive slash notation
+  - Two curse roots *qalal*/*arar* (12:3) distinguished in EN/PT-BR/ES
+  - *lekh lekha* (12:1) emphatic reflexive construction preserved
+  - Gen 10:11 ambiguous subject (Nimrod/Ashshur) — note added, not resolved
+  - Gen 11:32/12:4 chronological tension (Terach 205 / Avram 75) — MT translated, tension noted per Rule 22
+  - ES name localization policy (Rule 4 + Rule 16): Hebrew *chet* (ח) rendered as J in Spanish (matching /x/ phonology): Charan→Jarán, Terach→Teraj, Nachor→Najor, Yitschaq→Yitsjaq. NOT applied to names without *chet* (Yafet unchanged). Documented per Rule 16 divergence policy.
+  - DE *nephesh* rendering corrected: "Seele" → "Personen"/"Leben" in Gen 12:5, 12:13 per locked glossary
+  - Parser localized: `parseClaimType` extended with DE/PT-BR/ES terms (parallel to prior `parseConfidence` localization)
+  - UI claim-type display i18n: added `CLAIM_TYPE_KEYS` map with `claimType.*` keys in all 4 locale files
+  - LXX Kainan variant noted in Gen 11 companion per Rule 22
+- **AI provenance:** claude-opus-4-6, 2026-04-28
+- **Status:** applied
+- **Cross-references:** docs/audit/feedback-genesis-10-12-audit.md
+
+---
+
+## Entry 2026-04-28-092
+
+- **Verse:** project-wide (governance)
+- **Language(s) affected:** all
+- **Rule(s) invoked:** RULES-GS.md structural decisions (all 10)
+- **Decision:** RULES-GS.md populated with all 10 structural decisions required before GS translation:
+  1. Base text: NA28 (Nestle-Aland 28th ed., 2012)
+  2. Greek locked glossary: 21 terms × 4 languages drafted
+  3. Divine name policy: Option C (translate *kyrios* as "Lord" + mandatory note for OT YHWH connections)
+  4. Verb/aspect policy: translate naturally, note aspect at key passages (aorist, present, perfect, middle, subjunctive)
+  5. Textual variant handling: translate NA28, note significant variants; 4 special-case passages defined (Mark 16, John 7:53-8:11, 1 John 5:7-8, Acts 8:37)
+  6. Starting book: Gospel of John
+  7. Cross-supplement alignment: 7 HB↔GS term mappings confirmed (pneuma/ruach, diatheke/berit, abyssos/tehom, psyche/nephesh, hamartia/chattat, eirene/shalom, doxa/kavod)
+  8. Reviewer role: Hellenist added to front-matter reviewer roles
+  9. Genre rules: 4 genre categories defined (gospel narrative+discourse, epistolary, apocalyptic, Acts)
+  10. Edition identity: GS launches as Transparent-only, independent from HB per Rule 24
+- **AI provenance:** claude-opus-4-6, 2026-04-28
+- **Status:** decided — project lead
+- **Cross-references:** docs/rules/RULES-GS.md
+
+---
+
+## Entry 2026-04-29-093
+
+- **Verse:** project-wide (governance + infrastructure)
+- **Language(s) affected:** all
+- **Rule(s) invoked:** Rule 28, Rule 29 (expanded)
+- **Decision:** Vision plan Phases 1-5 executed:
+  - **Phase 1:** Rule 29 expanded with structured Companion File Research Checklist (15 research categories), scientific status labeling guidance (descriptive-first, uses existing 6-tier schema), source provenance labeling (PEER-REVIEWED/ACADEMIC POPULAR/POPULAR/PRIMARY), prophecy tracking file specification, people/genealogy file specification, ethnogenesis prohibition. Rule 28 extended to all content types.
+  - **Phase 2:** CHAPTER OVERVIEW and READING GUIDE sections now parsed and rendered (were silently dropped). Overview shows in all view modes; Reading Guide in Study mode.
+  - **Phase 3:** URL hash state for view modes (enables deep linking and back/forward navigation). IntroductionView F9 regression fixed (R13 — label-map prop pattern, Server Component preserved). Content-lint extended with F9-class raw-enum detection.
+  - **Phase 4:** Prophecy content type created — ProphecyData/ProphecyEntry/ProphecyReading types, prophecy-parser.ts, ProphecyView component, "Prophecies" tab in chapter view. Pilot files: Gen 3, 9, 12 prophecies (EN). Parser bugs fixed (UNFULFILLED ordering, FIELD_LINE regex).
+  - **Phase 5:** People/Genealogy data type created — PeopleData/PersonEntry types, people-parser.ts. Pilot file: Genesis PEOPLE.md (EN, 16+ figures with genealogical data).
+- **AI provenance:** claude-opus-4-6, 2026-04-29
+- **Status:** applied
+- **Cross-references:** docs/audit/plan-vision-implementation.md, docs/audit/vision-analysis-parts-I-XI.md
+
+---
+
+## Entry 2026-04-29-094
+
+- **Verse:** project-wide (Phase 6, 9, 11)
+- **Language(s) affected:** EN, PT-BR, DE, ES
+- **Rule(s) invoked:** Rule 1, Rule 24, Rule 25 (GS Option C), Rule 29, RULES-GS.md
+- **Decision:** Three phases executed:
+  - **Phase 6 (Landing page):** Copy rewritten for full-Bible scope. "Hebrew Bible" → "The Bible." Example changed from Gen 1:1-2 to Gen 3:1 (serpent dialogue). Five view modes showcased (Reading, Study, Explore, Context, Prophecies). Non-religious reader prioritized. Rules examples updated to be source-agnostic with both Hebrew and Greek examples. All 4 locales translated.
+  - **Phase 9 (Domain type renames):** GlossaryEntry.hebrew → sourceWord; ChapterMetadata.yhwhPolicy → divineNamePolicy; CSS .hebrew → .source-word; i18n keys: glossary.hebrew → glossary.sourceWord, metadata.yhwhLabel → metadata.divineNameLabel, enrichment.introHebrewText → enrichment.introSourceText; enrichment section ID: hebrew-text-features → source-text-features.
+  - **Phase 11 (Gospel of John 1):** First Greek Scriptures chapter created in all 4 locales. Applied RULES-GS.md: NA28 base text, Option C divine name policy (kyrios → "the Lord" + note), locked glossary (logos → "word", christos → "anointed one", ekklesia → "assembly", baptisma → "immersion", etc.), Greek verb aspect notes. TT transliteration for proper names (Yochanan, Yeshua, Kefa). Companion files with full A-H sections including Logos philosophy, Wisdom tradition, Genesis 1 parallels, Nicaea/Chalcedon reception, Islamic kalimatu'llah.
+- **AI provenance:** claude-opus-4-6, 2026-04-29
+- **Status:** applied
+- **Cross-references:** docs/rules/RULES-GS.md, docs/audit/plan-vision-implementation.md
+
+---
+
+*Phase 6 (landing page), Phase 9 (domain renames), Phase 11 (John 1) complete. First Greek Scriptures content live. 745 tests passing. [Updated 2026-04-29]*

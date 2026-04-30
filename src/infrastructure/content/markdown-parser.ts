@@ -10,7 +10,7 @@ import type {
 } from "@/domain/content/types";
 
 const SECTION_HEADER = /^## (.+)$/;
-const VERSE_HEADER = /^### \*\*(?:Verse|Versículo|Vers) (\d+)\*\*$/;
+const VERSE_HEADER = /^### \*\*(?:Verse|Versículo|Versiculo|Vers) (\d+)\*\*$/;
 const NOTE_TYPE_PREFIX = /^([🔴🟢🔵🟡])\s+\*\*(.+?)\*\*/u;
 const METADATA_LINE = /^\*\*(.+?):\*\*\s*(.+)$/;
 const TABLE_ROW = /^\|(.+)\|$/;
@@ -19,20 +19,31 @@ const CONTINUOUS_READING_HEADERS = new Set([
   "CONTINUOUS READING",
   "LEITURA CONTÍNUA",
   "FORTLAUFENDE LESUNG",
+  "LECTURA CONTINUA",
 ]);
 
 const VERSE_STUDY_HEADERS = new Set([
   "VERSE-BY-VERSE STUDY",
   "ESTUDO VERSO A VERSO",
   "VERS-FÜR-VERS-STUDIE",
+  "ESTUDIO VERSÍCULO POR VERSÍCULO",
 ]);
 
-const GLOSSARY_PATTERN = /^GLOSS/i;
+const GLOSSARY_PATTERN = /^GLOSS|^GLOSARIO/i;
 
 const SKIPPED_SECTIONS = new Set([
   "TABLE OF CONTENTS",
   "SUMÁRIO",
   "INHALTSVERZEICHNIS",
+  "INDICE",
+  "ÍNDICE",
+]);
+
+const OVERVIEW_SECTIONS = new Set([
+  "CHAPTER OVERVIEW",
+  "VISÃO GERAL DO CAPÍTULO",
+  "KAPITELÜBERSICHT",
+  "VISIÓN GENERAL DEL CAPÍTULO",
 ]);
 
 function classifyNoteType(emoji: string): NoteType {
@@ -94,8 +105,8 @@ function extractMetadata(preamble: string, book: string, chapter: number): Chapt
     language: meta["Language"] || meta["Idioma"] || meta["Sprache"] || "",
     baseText: meta["Base Text"] || meta["Texto Base"] || meta["Grundtext"] || "",
     status: meta["Status"] || "provisional",
-    methodology: meta["Methodology"] || meta["Metodologia"] || meta["Methodik"] || "",
-    yhwhPolicy: meta["Divine Name Policy (Rule 25)"] || meta["Política do Nome Divino (Regra 25)"] || meta["Gottesname-Politik (Regel 25)"] || "",
+    methodology: meta["Methodology"] || meta["Metodologia"] || meta["Metodología"] || meta["Methodik"] || "",
+    divineNamePolicy: meta["Divine Name Policy (Rule 25)"] || meta["Política do Nome Divino (Regra 25)"] || meta["Politica del Nombre Divino (Regla 25)"] || meta["Política del Nombre Divino (Regla 25)"] || meta["Gottesname-Politik (Regel 25)"] || "",
   };
 }
 
@@ -208,7 +219,7 @@ function extractGlossary(content: string): GlossaryEntry[] {
       .filter((c) => c.length > 0);
     if (cells.length >= 2) {
       entries.push({
-        hebrew: cells[0].replace(/\*\*/g, ""),
+        sourceWord: cells[0].replace(/\*\*/g, ""),
         translation: cells[1].replace(/\*\*/g, ""),
         notes: cells[2] || "",
       });
@@ -235,7 +246,7 @@ function isSkipped(title: string): boolean {
 }
 
 function isReadingGuide(title: string): boolean {
-  return /READING GUIDE|GUIA DE LEITURA|LESEANLEITUNG/i.test(title);
+  return /READING GUIDE|GUIA DE LEITURA|LESEANLEITUNG|GUIA DE LECTURA|GUÍA DE LECTURA/i.test(title);
 }
 
 function isTitleSection(title: string): boolean {
@@ -250,16 +261,22 @@ export function parseChapterMarkdown(
   const { preamble, sections } = splitIntoSections(raw);
   const metadata = extractMetadata(preamble, book, chapter);
 
+  let overview: string | null = null;
+  let readingGuide: string | null = null;
   let continuousReading: Paragraph[] = [];
   let verses: Verse[] = [];
   let glossary: GlossaryEntry[] = [];
   const supplementary: SupplementarySection[] = [];
 
   for (const section of sections) {
-    if (isTitleSection(section.title) || isSkipped(section.title) || isReadingGuide(section.title)) {
+    if (isTitleSection(section.title) || isSkipped(section.title)) {
       continue;
     }
-    if (isContinuousReading(section.title)) {
+    if (OVERVIEW_SECTIONS.has(section.title)) {
+      overview = section.content.trim();
+    } else if (isReadingGuide(section.title)) {
+      readingGuide = section.content.trim();
+    } else if (isContinuousReading(section.title)) {
       continuousReading = extractContinuousReading(section.content);
     } else if (isVerseStudy(section.title)) {
       verses = extractVerses(section.content);
@@ -275,6 +292,8 @@ export function parseChapterMarkdown(
 
   return {
     metadata,
+    overview,
+    readingGuide,
     continuousReading,
     verses,
     glossary,

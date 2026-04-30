@@ -7,7 +7,7 @@
 **Texto Base:** Biblia Hebraica Stuttgartensia, 5ª ed. rev. (Stuttgart: Deutsche Bibelgesellschaft, 1997)
 **Edição:** Edição Transparente
 **Idioma:** Português Brasileiro
-**Metodologia:** Sistema de Governança de 29 Regras (Conjunto de Regras v2.5)
+**Metodologia:** Sistema de Governança de 29 Regras (Conjunto de Regras v3.0)
 **Política do Nome Divino (Regra 25):** Opção A — Consonantal (YHWH).
 **Status:** provisório — aguardando revisão por pares (Regra 28)
 **Revisores:** Hebraísta: não atribuído | Editor PT: não atribuído | Alinhamento cruzado: não atribuído
@@ -39,6 +39,16 @@
 - 🟡 **TEOLÓGICO** - Opções interpretativas, preservação de ambiguidade
 
 **Este capítulo contém a aliança pós-dilúvio, a proibição do sangue e o incidente de Cham/Kenaan.** A bênção de 9:1 ecoa Gn 1:28. A aliança (9:8–17) é a primeira *berit* plenamente revelada, com o arco (*qesheth*) como sinal. A primeira fala registrada de Noach (9:25–27) — após capítulos de silêncio — é uma maldição. O texto diz que Cham "viu a nudez do seu pai"; a TT traduz o que o texto diz, não o que ele pode significar.
+
+## VISÃO GERAL DO CAPÍTULO
+
+**O que acontece:** Deus abençoa a família de Noach com um mandato de criação renovado — mas alterado: "temor e pavor" substitui domínio, o consumo de carne é permitido com proibição do sangue, e o assassinato é respondido com responsabilização capital. Deus estabelece uma aliança com toda a vida, colocando o arco (*qesheth* — uma arma) nas nuvens como sinal. Noach planta uma vinha, bebe vinho e fica descoberto. Cham vê a nudez de seu pai; Shem e Yafet o cobrem sem olhar. Noach desperta, amaldiçoa Kenaan (não Cham) e abençoa Shem e Yafet. Noach morre aos 950 anos.
+
+**Temas-chave:** Re-criação com alteração (1:28 vs. 9:1–7 — mesmas palavras, mundo diferente); sangue = *nephesh* (força vital); o *tselem* (imagem de Deus) persiste através do dilúvio como base da dignidade humana; a aliança unilateral e universal com toda a vida; o arco (*qesheth*) como arma deposta; a cena da tenda — cultura de honra/vergonha; a maldição recai sobre Kenaan, não sobre o ofensor Cham; as primeiras palavras de Noach são uma maldição.
+
+**Observe:** "Todo ser que se move, que é vivo, será para alimento" (9:3) — a primeira permissão de carne, contrastando com a dieta exclusivamente vegetal de 1:29; a estrutura quiástica de 9:6 (o ato se dobra sobre o agente); "o meu arco" — possessivo, implicando que era a arma de Deus; a ambiguidade de "que habite nas tendas de Shem" (9:27 — Yafet ou Deus?); Noach está em silêncio desde 6:9 — sua primeira fala registrada é esta maldição.
+
+**Conexão:** Os mandamentos noaicos (9:1–7) funcionam como um quadro universal que precede e fundamenta a aliança abraâmica (Cap. 12+). A tábua das nações (Cap. 10) traça as linhagens de Shem, Cham e Yafet aqui estabelecidas.
 
 ---
 

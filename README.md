@@ -60,7 +60,7 @@ Switch between languages on any page — the current book and chapter are preser
 
 ## Translation methodology
 
-Governed by a [29-rule system](docs/rules/RULES.md) (v2.5) with a Prime Directive:
+Governed by a [29-rule system](docs/rules/RULES-CORE.md) (v3.0) with a Prime Directive:
 
 1. Do not simplify what the Hebrew keeps complex.
 2. Do not clarify what the Hebrew leaves ambiguous.
@@ -101,7 +101,7 @@ bible-tt/
 ├── de/genesis/              # German chapters + companions
 │   └── study/
 ├── docs/
-│   ├── rules/               # RULES.md (29 rules, v2.5)
+│   ├── rules/               # RULES-CORE.md + RULES-HB.md + RULES-GS.md (29 rules, v3.0)
 │   ├── architecture/        # STANDARDS.md (DDD, code standards)
 │   ├── design/              # TT-DESIGN-SYSTEM.md (UI/UX)
 │   ├── editorial-log/       # Decision log
@@ -118,11 +118,11 @@ bible-tt/
 
 - **UI/UX:** [docs/design/TT-DESIGN-SYSTEM.md](docs/design/TT-DESIGN-SYSTEM.md) — typography, color, accessibility, anti-slop
 - **Architecture:** [docs/architecture/STANDARDS.md](docs/architecture/STANDARDS.md) — DDD, TypeScript, testing, dependencies
-- **Translation:** [docs/rules/RULES.md](docs/rules/RULES.md) — 29-rule governance system
+- **Translation:** [docs/rules/RULES-CORE.md](docs/rules/RULES-CORE.md) + [RULES-HB.md](docs/rules/RULES-HB.md) — 29-rule governance system
 
 ## Contributing
 
-The translation is governed by `docs/rules/RULES.md`. All chapter files carry `provisional` status pending reviewer sign-off (Rule 28). The project needs:
+The translation is governed by `docs/rules/RULES-CORE.md` + `docs/rules/RULES-HB.md`. All chapter files carry `provisional` status pending reviewer sign-off (Rule 28). The project needs:
 
 - **Hebraist** — reading proficiency in Biblical Hebrew; access to BHS/BHQ apparatus
 - **Target-language editors** — native speakers for EN, PT-BR, DE

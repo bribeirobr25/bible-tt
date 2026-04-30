@@ -7,7 +7,7 @@
 **Texto Base:** Biblia Hebraica Stuttgartensia, 5ª ed. rev. (Stuttgart: Deutsche Bibelgesellschaft, 1997)
 **Edição:** Edição Transparente
 **Idioma:** Português Brasileiro
-**Metodologia:** Sistema de Governança de 29 Regras (Conjunto de Regras v2.5)
+**Metodologia:** Sistema de Governança de 29 Regras (Conjunto de Regras v3.0)
 **Política do Nome Divino (Regra 25):** Opção A — Consonantal (YHWH). Não acionada em Gênesis 1; declarada para Gênesis 2+.
 **Status:** provisório — aguardando revisão por pares (Regra 28)
 **Revisores:** Hebraísta: não atribuído | Editor PT: não atribuído | Alinhamento cruzado: não atribuído
@@ -40,6 +40,16 @@
 - 🔵 **GRAMATICAL** - Estrutura hebraica, formas verbais, sintaxe
 - 🟡 **TEOLÓGICO** - Opções interpretativas, preservação de ambiguidade
 
+## VISÃO GERAL DO CAPÍTULO
+
+**O que acontece:** Deus cria o mundo ordenado em seis dias e descansa no sétimo. A criação avança por meio da fala divina ("e Deus disse"), separação (luz/trevas, águas acima/abaixo, mar/terra), povoamento (vegetação, luminares, criaturas, humanos) e bênção (fertilidade, domínio, descanso).
+
+**Temas-chave:** Ordem a partir do caos (*tohu vavohu*); criação pela palavra; o *raqia* como estrutura cósmica; reprodução "segundo a sua espécie"; a humanidade à imagem (*tselem*) de Deus; dieta vegetariana atribuída; o descanso do sétimo dia.
+
+**Observe:** O refrão "e Deus viu que bom" (6x, depois "muito bom"); a mudança de "Deus" (*Elohim*) ao longo de todo o capítulo — YHWH não aparece até o Capítulo 2; o plural "façamos" (1:26); domínio sobre as criaturas, mas não sobre as águas como domínio cósmico.
+
+**Conexão:** Este capítulo estabelece o mundo ordenado que o Capítulo 2 revisitará sob outro ângulo, e que os Capítulos 6–9 des-criarão e re-criarão através do dilúvio.
+
 ---
 
 ## LEITURA CONTÍNUA
@@ -50,7 +60,7 @@
 
 ¹Em princípio, Deus criou os céus e a terra. ²E a terra estava caos e vazio, e trevas sobre a face do abismo, e vento/espírito de Deus pairando sobre a face das águas. ³E Deus disse: "Haja luz," e luz foi. ⁴E Deus viu a luz, que bom, e Deus separou entre a luz e entre as trevas. ⁵E Deus chamou à luz "Dia," e às trevas chamou "Noite." E foi tarde, e foi manhã, um dia.
 
-⁶E Deus disse: "Haja raqia no meio das águas, e seja separando entre águas e águas." ⁷E Deus fez o raqia, e separou entre as águas que debaixo do raqia e entre as águas que acima do raqia. E foi assim. ⁸E Deus chamou ao raqia "Céu." E foi tarde, e foi manhã, segundo dia.
+⁶E Deus disse: "Haja raqia (expansão) no meio das águas, e seja separando entre águas e águas." ⁷E Deus fez o raqia, e separou entre as águas que debaixo do raqia e entre as águas que acima do raqia. E foi assim. ⁸E Deus chamou ao raqia "Céu." E foi tarde, e foi manhã, segundo dia.
 
 ⁹E Deus disse: "Sejam ajuntadas as águas de debaixo do céu a um lugar, e seja vista a terra seca." E foi assim. ¹⁰E Deus chamou à terra seca "Terra," e ao ajuntamento das águas chamou "Mares." E Deus viu que bom. ¹¹E Deus disse: "Produza a terra relva, ervas semeando semente, árvores frutíferas fazendo fruto segundo a sua espécie, cuja semente nela, sobre a terra." E foi assim. ¹²E a terra produziu relva, ervas semeando semente segundo a sua espécie, e árvores fazendo fruto cuja semente nela, segundo a sua espécie. E Deus viu que bom. ¹³E foi tarde, e foi manhã, terceiro dia.
 
@@ -143,7 +153,7 @@ E Deus chamou à luz "Dia," e às trevas chamou "Noite." E foi tarde, e foi manh
 
 ### **Versículo 6**
 
-E Deus disse: "Haja raqia no meio das águas, e seja separando entre águas e águas."
+E Deus disse: "Haja raqia (expansão) no meio das águas, e seja separando entre águas e águas."
 
 > **📝 NOTAS**
 > 

@@ -7,7 +7,7 @@
 **Texto Base:** Biblia Hebraica Stuttgartensia, 5ª ed. rev. (Stuttgart: Deutsche Bibelgesellschaft, 1997)
 **Edição:** Edição Transparente
 **Idioma:** Português Brasileiro
-**Metodologia:** Sistema de Governança de 29 Regras (Conjunto de Regras v2.5)
+**Metodologia:** Sistema de Governança de 29 Regras (Conjunto de Regras v3.0)
 **Política do Nome Divino (Regra 25):** Opção A — Consonantal (YHWH). **Acionada neste capítulo no v.4.**
 **Status:** provisório — aguardando revisão por pares (Regra 28)
 **Revisores:** Hebraísta: não atribuído | Editor PT: não atribuído | Alinhamento cruzado: não atribuído
@@ -42,6 +42,16 @@
 **Este capítulo segue a Regra 23 (Sensibilidade de Gênero Literário):** As fórmulas travadas de Gênesis 1 NÃO se aplicam mecanicamente aqui. Gênesis 2 é narrativa, não ritmo litúrgico.
 
 **Política Humano / Adão (nota permanente da Regra 17):** O hebraico אָדָם (*adam*) oscila entre o genérico *"humano / humanidade"* e, potencialmente, o nome próprio *Adão*. O artigo definido (*ha-adam* = "o humano") sinaliza uso genérico; a ausência do artigo é contextualmente ambígua. **Esta tradução renderiza "o humano" ao longo de Gênesis 2–3**, mesmo nas ocorrências sem artigo (2:20, 3:17, 3:21), para preservar o jogo de palavras contínuo com *adamah* (solo) e evitar compromisso prematuro com nome próprio. A transição para o nome próprio *Adão* se resolve formalmente em Gênesis 4.
+
+## VISÃO GERAL DO CAPÍTULO
+
+**O que acontece:** Um segundo relato da criação começa em 2:4, com sequência e foco diferentes. YHWH Elohim forma o humano do pó, planta um jardim em Éden com duas árvores nomeadas, coloca o humano ali para lavrá-lo e guardá-lo, dá o mandamento sobre a árvore do conhecimento, declara "não bom" que o humano esteja só, forma os animais e constrói a mulher a partir do lado do humano.
+
+**Temas-chave:** A fórmula *toledot* (2:4); YHWH Elohim (nome divino combinado); formação a partir da *adamah* (solo) — o jogo de palavras *adam/adamah*; o jardim como espaço delimitado; a árvore do conhecimento e a árvore da vida; o mandamento e sua consequência ("morrendo morrerás"); nomeação como ordenação; "uma só carne."
+
+**Observe:** O nome divino muda para YHWH Elohim (a partir de 2:4); a ordem de criação difere do Capítulo 1 (humano antes dos animais em 2:7, 19); o "não bom" — a única avaliação negativa na criação; a *tardemah* (sono profundo); "osso dos meus ossos" como a primeira fala humana.
+
+**Conexão:** As árvores introduzidas aqui — conhecimento e vida — conduzem a narrativa do Capítulo 3. A relação entre o humano e o solo (*adam/adamah*) torna-se a base para a maldição em 3:17–19.
 
 ---
 

@@ -7,10 +7,10 @@
 **Grundtext:** Biblia Hebraica Stuttgartensia, 5. rev. Aufl. (Stuttgart: Deutsche Bibelgesellschaft, 1997)
 **Ausgabe:** Transparente Ausgabe
 **Sprache:** Deutsch
-**Methodik:** 29-Regeln-Governance-System (Regelwerk v2.5)
+**Methodik:** 29-Regeln-Governance-System (Regelwerk v3.0)
 **Gottesname-Politik (Regel 25):** Option A — Konsonantisch (JHWH). In Genesis 1 nicht ausgelöst; für Genesis 2+ erklärt.
 **Luther-Bibel-Verhältnis:** Option B — Selektive Anerkennung. Übersetzung aus dem Hebräischen nach TT-Regeln; Konvergenzen und Divergenzen mit Luther in Begleitmaterialien dokumentiert. Entscheidung geloggt 2026-04-18.
-**Status:** vorläufig — ausstehende Begutachtung (Regel 28)
+**Status:** provisorisch — ausstehende Begutachtung (Regel 28)
 **Begutachter:** Hebraist: nicht zugewiesen | DE-Redakteur: nicht zugewiesen | Sprachübergreifender Abgleich: nicht zugewiesen
 
 ---
@@ -42,6 +42,16 @@
 - 🔵 **GRAMMATISCH** - Hebräische Struktur, Verbformen, Syntax
 - 🟡 **THEOLOGISCH** - Interpretationsoptionen, Ambiguitätsbewahrung
 
+## KAPITELÜBERSICHT
+
+**Was geschieht:** Gott erschafft die geordnete Welt in sechs Tagen und ruht am siebten. Die Schöpfung schreitet voran durch göttliche Rede („und Gott sprach"), Trennung (Licht/Finsternis, Wasser oben/unten, Meer/Land), Bevölkerung (Vegetation, Lichter, Lebewesen, Menschen) und Segen (Fruchtbarkeit, Herrschaft, Ruhe).
+
+**Zentrale Themen:** Ordnung aus Chaos (*tohu vavohu*); Schöpfung durch Rede; das *raqia* als kosmische Struktur; Vermehrung „nach seiner Art"; die Menschheit im Bild (*tselem*) Gottes; vegetarische Nahrung zugewiesen; die Ruhe des siebten Tages.
+
+**Achten Sie auf:** Den Refrain „und Gott sah, dass gut" (6×, dann „sehr gut"); den durchgehenden Wechsel von „Gott" (*Elohim*) — JHWH erscheint erst in Kapitel 2; den Plural „lasst uns machen" (1:26); Herrschaft über Lebewesen, aber nicht über die Wasser als kosmischen Bereich.
+
+**Verbindung:** Dieses Kapitel begründet die geordnete Welt, die Kapitel 2 aus einem anderen Blickwinkel erneut betrachtet und die Kapitel 6–9 durch die Flut ent-schaffen und neu erschaffen werden.
+
 ---
 
 ## FORTLAUFENDE LESUNG
@@ -52,7 +62,7 @@
 
 ¹Im Anfang schuf Gott den Himmel und das Land. ²Und das Land war Chaos und Leere, und Finsternis *war* über der Fläche der Tiefe, und Wind/Geist Gottes schwebend über der Fläche der Wasser. ³Und Gott sprach: „Es werde Licht," und Licht war. ⁴Und Gott sah das Licht, dass gut, und Gott trennte zwischen dem Licht und zwischen der Finsternis. ⁵Und Gott nannte das Licht „Tag", und die Finsternis nannte er „Nacht". Und *es* war Abend, und *es* war Morgen, Tag eins.
 
-⁶Und Gott sprach: „Es werde *ein* raqia inmitten der Wasser, und *es* sei trennend zwischen Wasser und Wasser." ⁷Und Gott machte das raqia, und er trennte zwischen den Wassern, die unter dem raqia *waren*, und zwischen den Wassern, die über dem raqia *waren*. Und *es* war so. ⁸Und Gott nannte das raqia „Himmel". Und *es* war Abend, und *es* war Morgen, zweiter Tag.
+⁶Und Gott sprach: „Es werde *ein* raqia (Ausdehnung) inmitten der Wasser, und *es* sei trennend zwischen Wasser und Wasser." ⁷Und Gott machte das raqia, und er trennte zwischen den Wassern, die unter dem raqia *waren*, und zwischen den Wassern, die über dem raqia *waren*. Und *es* war so. ⁸Und Gott nannte das raqia „Himmel". Und *es* war Abend, und *es* war Morgen, zweiter Tag.
 
 ⁹Und Gott sprach: „Die Wasser unter dem Himmel sollen sich sammeln an einen Ort, und das trockene *Land* werde gesehen." Und *es* war so. ¹⁰Und Gott nannte das trockene *Land* „Land", und die Ansammlung der Wasser nannte er „Meere". Und Gott sah, dass gut. ¹¹Und Gott sprach: „Das Land lasse grünen Grün, Kräuter samend Samen, Fruchtbäume Frucht-machend nach seiner Art, deren Samen in ihm *ist*, auf dem Land." Und *es* war so. ¹²Und das Land brachte hervor Grün, Kräuter samend Samen nach ihrer Art, und Bäume Frucht-machend, deren Samen in ihm *ist*, nach ihrer Art. Und Gott sah, dass gut. ¹³Und *es* war Abend, und *es* war Morgen, dritter Tag.
 
@@ -153,7 +163,7 @@ Und Gott nannte das Licht „Tag", und die Finsternis nannte er „Nacht". Und *
 
 ### **Vers 6**
 
-Und Gott sprach: „Es werde *ein* raqia inmitten der Wasser, und *es* sei trennend zwischen Wasser und Wasser."
+Und Gott sprach: „Es werde *ein* raqia (Ausdehnung) inmitten der Wasser, und *es* sei trennend zwischen Wasser und Wasser."
 
 > **📝 NOTIZEN**
 > 

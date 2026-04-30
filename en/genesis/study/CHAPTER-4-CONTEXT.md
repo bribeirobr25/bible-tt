@@ -10,8 +10,8 @@
 **Chapter:** Genesis 4
 **Language:** English
 **Companion to:** `en/genesis/CHAPTER-4.md` (Transparent Edition)
-**Ruleset:** v2.5 (Rule 29 governs this file)
-**Status:** draft
+**Ruleset:** v3.0 (Rule 29 governs this file)
+**Status:** provisional
 
 ---
 
@@ -71,7 +71,7 @@ Genesis 4:13: עָוֹן (*avon*) means both "guilt/sin" and "punishment/consequ
 ### A10. Adam becomes proper name at 4:25
 **[TEXTUAL — VERIFIED]**
 
-Genesis 4:25: first anarthrous *adam* in a genealogical/naming context. The TT shifts from "the human" to "Adam" here, flagged with a 🔴 CRITICAL note. This is the editorial-log decision (entry 081).
+Genesis 4:25: first *adam* used without the article "the" in a genealogical/naming context. The TT shifts from "the human" to "Adam" here, flagged with a 🔴 CRITICAL note. This is the editorial-log decision (entry 081).
 
 ### A11. "Another seed" — woman-line continues
 **[TEXTUAL — VERIFIED]**
@@ -141,6 +141,15 @@ Genesis 4:23-24 is widely recognized as one of the oldest Hebrew poems in the Bi
 
 ---
 
+## E. Scientific Correspondence and Non-Correspondence
+
+### E1. Sibling conflict and violence escalation — behavioral perspectives
+**[SCIENTIFIC COMPARISON — POSSIBLE]**
+
+Genesis 4 presents the first murder as arising from sibling rivalry over divine favor. Behavioral science documents sibling aggression as intensified by perceived unequal parental investment — a pattern studied by biologist Robert Trivers (1974) and psychologist Frank Sulloway (1996). The escalation pattern in the text — emotional disturbance (4:5, "his face fell"), divine warning with opportunity to correct (4:6–7), failure to master the impulse, lethal violence (4:8) — corresponds to what aggression research calls the "frustration-aggression pathway." The text does not explain *why* YHWH regarded Abel's offering and not Cain's; the narrative gap is the trigger point. The text presents the sequence; behavioral science names the pattern. Neither explains the other.
+
+---
+
 ## F. Later Reception in Other Traditions
 
 ### F1. Jewish reception
@@ -163,6 +172,13 @@ Genesis 4:23-24 is widely recognized as one of the oldest Hebrew poems in the Bi
 Quran, Surah 5:27-32: Habil and Qabil. Distinctive features: Abel refuses to fight back ("I will not stretch my hand to kill you"); a raven teaches Cain burial; Surah 5:32 draws the universal moral: "Whoever kills a soul... it is as if he killed all of mankind."
 
 **Source:** Reynolds, G.S., *The Qur'an and the Bible*, Yale, 2018.
+
+### F_. Dramatic expansions of the Cain-Abel narrative
+**[LATER RECEPTION — DOCUMENTED]**
+
+The Genesis 4 account of Cain killing Abel is famously laconic — "Cain rose up against his brother Abel and killed him" (4:8). Later traditions filled this gap. *The First Book of Adam and Eve* (Ethiopian Christian) gives an extended narrative with detailed violence and parental grief. The Targum Pseudo-Jonathan (Aramaic, ~7th-8th c. CE) adds a philosophical debate between the brothers before the murder. The Quran (5:27-31) includes the narrative with a raven teaching burial. Rabbinic literature (Bereshit Rabbah 22) multiplies interpretations of what Cain "said to Abel." The TT references these expansions because the canonical text's silence about Cain's words and motivations has been an interpretive provocation across multiple traditions for two millennia.
+
+**Source:** Kugel, J.L., *Traditions of the Bible*, Harvard, 1998 (PEER-REVIEWED); Charlesworth, J.H. (ed.), *OTP* vol. 2, Doubleday, 1985 (PEER-REVIEWED).
 
 ---
 
@@ -187,6 +203,18 @@ YHWH promises sevenfold protection for Qayin (4:15). Lemekh claims seventy-seven
 **[TEXTUAL — VERIFIED]**
 
 The Cainite line (Gen 4) and Sethite line (Gen 5) share two names: Chanokh and Lemekh. Different individuals, same names. The Cainite Lemekh boasts of killing (4:23-24); the Sethite Lemekh hopes for comfort (5:29). Mirrored names, opposite trajectories.
+
+### G5. "Am I my brother's keeper?" — the foundational ethics question
+**[POSSIBLE INFERENCE — PROBABLE]**
+
+Cain's response to YHWH's "Where is Hevel your brother?" is the question *ha-shomer achi anokhi* — "Am I my brother's keeper?" (4:9). The text leaves it unanswered. In ethics, this is the question of moral responsibility for others: does obligation extend beyond direct harm to positive duty of care? The 20th-century philosopher Emmanuel Levinas argued that encountering another person face-to-face creates an inescapable moral obligation — infinite responsibility for the other. The text does not answer Cain's question philosophically — YHWH responds not with a principle but with evidence ("the voice of your brother's bloods is crying out to me from the ground"). The silence on the principle, combined with the immediate consequence, implies responsibility without articulating a theory of it. This unanswered question becomes one of the foundational problems of social ethics.
+
+### G6. Cain's city and Lamech's genealogy — civilization and violence
+**[POSSIBLE INFERENCE — PROBABLE]**
+
+Genesis 4:17–22 places the origins of civilization in Cain's line: city-building (4:17, Chanokh), tent-dwelling and livestock (4:20, Yaval), music (4:21, Yuval), and metalworking in bronze and iron (4:22, Tuval-Qayin). The text associates urbanization, pastoral economy, arts, and metallurgy with the lineage of the first murderer — and the genealogy culminates in Lamech's song of escalated violence (4:23–24). Urban historian Lewis Mumford (*The City in History*, 1961) observed that the earliest cities combined productive specialization with institutionalized violence — fortification walls are among the earliest monumental architecture. The text does not argue that civilization causes violence, nor that violence invalidates civilization. It places both in the same family tree and lets the reader observe the pattern.
+
+**Source:** Mumford, L., *The City in History*, Harcourt, 1961.
 
 ---
 

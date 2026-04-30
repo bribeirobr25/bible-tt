@@ -10,8 +10,8 @@
 **Capítulo:** Genesis 3
 **Idioma:** Português Brasileiro
 **Acompanha:** `pt-br/genesis/CHAPTER-3.md` (Edição Transparente)
-**Regras:** v2.5 (Regra 29 governa este arquivo)
-**Status:** rascunho
+**Regras:** v3.0 (Regra 29 governa este arquivo)
+**Status:** provisório
 
 ---
 
@@ -20,7 +20,7 @@
 ### A1. O jogo de palavras *arum/arom* — a dobradiça entre capítulos
 **[TEXTUAL — VERIFICADO]**
 
-Genesis 2:25: *arom* (nu). Genesis 3:1: *arum* (astuto/sagaz). Mesmas consoantes, vocalização diferente. Este é o vínculo sonoro deliberado entre os dois capítulos — a TT o sinaliza em ambos os locais. O jogo de palavras é intraduzível em EN/PT/DE; o sistema de notas o torna visível.
+Genesis 2:25: *arom* (nu). Genesis 3:1: *arum* (astuto/sagaz). Mesmas consoantes, vocalização diferente. Este é o vínculo sonoro deliberado entre os dois capítulos — a TT o sinaliza em ambos os locais. O jogo de palavras é intraduzível em EN/PT-BR/DE/ES; o sistema de notas o torna visível.
 
 ### A2. A serpente usa "Elohim" — nunca "YHWH Elohim"
 **[TEXTUAL — VERIFICADO]**
@@ -40,7 +40,7 @@ Genesis 3:4: *lo mot temutun* — "não morrendo morrereis." Isso nega diretamen
 ### A5. "Como Deus/deuses" — genuinamente ambíguo
 **[TEXTUAL — VERIFICADO]**
 
-Genesis 3:5 e 3:22 ambos usam *ke-elohim*. Como *Elohim* é gramaticalmente plural mas usado para o Deus singular ao longo de Genesis, a ambiguidade é genuinamente ativa aqui: "como Deus" (um) ou "como deuses/seres divinos" (plural). A TT preserva ambos via barra nos três idiomas.
+Genesis 3:5 e 3:22 ambos usam *ke-elohim*. Como *Elohim* é gramaticalmente plural mas usado para o Deus singular ao longo de Genesis, a ambiguidade é genuinamente ativa aqui: "como Deus" (um) ou "como deuses/seres divinos" (plural). A TT preserva ambos via barra nos quatro idiomas.
 
 ### A6. *qol* — voz ou som?
 **[TEXTUAL — VERIFICADO]**
@@ -57,10 +57,10 @@ Genesis 3:8: "ouviram o *qol* de YHWH Elohim andando." O hebraico *qol* varia de
 
 Genesis 3:5 (serpente): "sereis como Deus/deuses, conhecendo o bem e o mal." Genesis 3:22 (YHWH Elohim): "o humano se tornou como um de nós para conhecer o bem e o mal." O texto permite que a previsão da serpente se mantenha como parcialmente precisa no nível narrativo. A nota da TT em 3:22 sinaliza esta ressonância sem resolvê-la.
 
-### A9. A frase interrompida — aposiopese em 3:22
+### A9. A frase interrompida — interrupção deliberada em 3:22
 **[TEXTUAL — VERIFICADO]**
 
-Genesis 3:22: "e agora, para que ele não estenda a mão e tome também da árvore da vida, e coma, e viva para sempre..." A frase se interrompe inacabada. A TT preserva isso com reticências. O rótulo "aposiopese" (interrupção deliberada do falante) é mais preciso que "anacoluto" (irregularidade sintática).
+Genesis 3:22: "e agora, para que ele não estenda a mão e tome também da árvore da vida, e coma, e viva para sempre..." A frase se interrompe inacabada. A TT preserva isso com reticências. O termo técnico para este recurso é "aposiopese" (interrupção deliberada: o falante começa uma frase e a deixa no ar). É mais preciso que "anacoluto" (irregularidade sintática).
 
 ### A10. "Semente dela" — gramaticalmente incomum
 **[TEXTUAL — VERIFICADO]**
@@ -124,7 +124,7 @@ A palavra hebraica para pecado — **חַטָּאת** (*chatat*) — não aparec
 Isto significa: todo o quadro teológico da "Queda" e do "pecado original" é construído sobre uma narrativa que **não usa a palavra**. O texto descreve desobediência, consequência, exílio e relacionamento quebrado — mas não rotula estes com o termo *chatat*. Se esta ausência é significativa ou incidental cabe ao leitor avaliar. O texto é o que é.
 
 ### A18. Leste como direção de deslocamento
-**[TEXTUAL / POSSIBLE INFERENCE — POSSÍVEL]**
+**[TEXTUAL / INFERÊNCIA POSSÍVEL — POSSÍVEL]**
 
 Genesis 3:24: querubins colocados "ao leste do jardim de Éden." Na geografia bíblica, leste frequentemente funciona como a direção de **exílio e deslocamento**: Caim vai "a leste de Éden" (4:16); os construtores da torre migram "do leste" (11:2); Ló escolhe a planície oriental (13:11). Se "leste" carrega peso simbólico aqui (direção para longe da presença divina) ou é simplesmente geográfico é POSSÍVEL mas não resolvido.
 
@@ -133,7 +133,7 @@ Genesis 3:24: querubins colocados "ao leste do jardim de Éden." Na geografia b�
 ## B. Paralelos do Antigo Oriente Próximo
 
 ### B1. Iconografia da serpente no antigo Oriente Próximo
-**[COMPARATIVE PARALLEL — VERIFICADO]**
+**[PARALELO COMPARATIVO — VERIFICADO]**
 
 Serpentes aparecem amplamente na literatura e arte do antigo Oriente Próximo:
 - **Épico de Gilgamesh** (Tábua XI): uma serpente rouba a planta da juventude eterna de Gilgamesh — perda da imortalidade através de uma serpente, paralelo a Genesis 3
@@ -145,7 +145,7 @@ Genesis 3 compartilha o motivo serpente-como-agente-de-imortalidade-perdida com 
 **Fonte:** Charlesworth, J.H., *The Good and Evil Serpent*, 2010.
 
 ### B2. Perda da inocência / expulsão do paraíso
-**[COMPARATIVE PARALLEL — PROVÁVEL]**
+**[PARALELO COMPARATIVO — PROVÁVEL]**
 
 - **Civilização de Enkidu** (Épico de Gilgamesh, Tábua I): Enkidu, um homem selvagem, ganha conhecimento através de encontro sexual, perde sua harmonia com os animais e entra na civilização. Paralelo estrutural com o humano ganhando conhecimento, perdendo acesso ao jardim e entrando na existência de trabalho árduo.
 - **Mito de Adapa:** Adapa recebe imortalidade oferecida pelos deuses mas recusa (ou é enganado para recusar) — outro "quase" da vida eterna.
@@ -155,7 +155,7 @@ Estes paralelos sugerem um motivo compartilhado do antigo Oriente Próximo de hu
 **Fonte:** Moran, W.L., "The Creation of Man in Atrahasis I 192–248," *BASOR* 200 (1970): 48–56.
 
 ### B3. A árvore da vida na arte mesopotâmica
-**[COMPARATIVE PARALLEL — VERIFICADO]**
+**[PARALELO COMPARATIVO — VERIFICADO]**
 
 "Árvores sagradas" estilizadas aparecem em toda a arte mesopotâmica, frequentemente ladeadas por figuras guardiãs (cf. Genesis 3:24 querubins). Estas são atestadas em relevos de palácios assírios, selos cilíndricos e decorações de templos. Se elas representam um conceito de "árvore da vida" paralelo a Genesis é debatido; o paralelo visual é inegável.
 
@@ -166,7 +166,7 @@ Estes paralelos sugerem um motivo compartilhado do antigo Oriente Próximo de hu
 ## C. Contexto Histórico e Arqueológico
 
 ### C1. Querubins como figuras guardiãs
-**[HISTORICAL / ARCHAEOLOGICAL — VERIFICADO]**
+**[HISTÓRICO / ARQUEOLÓGICO — VERIFICADO]**
 
 *Keruvim* (querubins) são figuras guardiãs compostas — não as crianças aladas da arte cristã posterior. Arqueologicamente, correspondem a criaturas guardiãs do antigo Oriente Próximo:
 - *Lamassu* assírios: touros/leões alados com cabeça humana ladeando entradas de palácios
@@ -178,7 +178,7 @@ Genesis 3:24 coloca querubins a leste de Éden para "guardar o caminho da árvor
 **Fonte:** Mettinger, T.N.D., "Cherubim," *DDD* (Dictionary of Deities and Demons in the Bible), 1999, pp. 189–192.
 
 ### C2. Vestimenta e cobertura na cultura antiga
-**[HISTORICAL / ARCHAEOLOGICAL — PROVÁVEL]**
+**[HISTÓRICO / ARQUEOLÓGICO — PROVÁVEL]**
 
 Genesis 3:7 (coberturas de folhas de figo feitas pelos humanos) → 3:21 (vestes de pele feitas por YHWH Elohim). Na cultura do antigo Oriente Próximo, vestimenta simbolizava status social e civilização. A transição de cobertura mínima feita por si mesmo para vestes completas fornecidas divinamente pode sinalizar a transição do estado-jardim para a existência civilizada.
 
@@ -194,7 +194,7 @@ A raiz consonantal נ-ח-שׁ (*n-ch-sh*) conecta-se tanto a "serpente" (*nachas
 ### D2. *shuf* (שׁוּף) — um verbo genuinamente raro
 **[TEXTUAL — INCERTO]**
 
-Aparece apenas 3 vezes na Bíblia Hebraica (Gen 3:15, Jó 9:17, Sl 139:11). Significado varia de "esmagar" a "pisar" a "golpear" a "morder." A TT usa "ferir/golpear" com barra nos três idiomas. Crucialmente, a MESMA forma verbal é usada para ambas as ações (cabeça e calcanhar) — traduções tradicionais que diferenciam ("esmagará a cabeça / ferirá o calcanhar") estão importando interpretação.
+Aparece apenas 3 vezes na Bíblia Hebraica (Gen 3:15, Jó 9:17, Sl 139:11). Significado varia de "esmagar" a "pisar" a "golpear" a "morder." A TT usa "ferir/golpear" com barra nos quatro idiomas. Crucialmente, a MESMA forma verbal é usada para ambas as ações (cabeça e calcanhar) — traduções tradicionais que diferenciam ("esmagará a cabeça / ferirá o calcanhar") estão importando interpretação.
 
 ### D3. *teshuqah* (תְּשׁוּקָה) — três ocorrências, três contextos
 **[TEXTUAL — INCERTO]**
@@ -216,21 +216,26 @@ A mesma raiz (ע-צ-ב) aparece tanto em 3:16 (labuta/dor da mulher no parto) qu
 ## E. Correspondência e Não-Correspondência Científica
 
 ### E1. Mortalidade — processo ou evento?
-**[SCIENTIFIC COMPARISON — para conhecimento]**
+**[COMPARAÇÃO CIENTÍFICA — para conhecimento]**
 
 Genesis 2:17 adverte "morrendo morrerás." Genesis 3:19 declara "pó tu és e ao pó retornarás." A biologia moderna entende a morte como um processo inerente à vida celular (encurtamento de telômeros, entropia). O texto apresenta a mortalidade como uma *condição* declarada após o comer, não necessariamente como um evento instantâneo. Se isso significa "mortalidade ativada" ou "morte espiritual" ou "processo iniciado" é uma questão teológica que o hebraico não resolve (a nota da TT em 2:17 lista quatro interpretações POSSÍVEIS).
 
 ### E2. Dor no parto — biológica ou narrativa?
-**[SCIENTIFIC COMPARISON — para conhecimento]**
+**[COMPARAÇÃO CIENTÍFICA — para conhecimento]**
 
 Genesis 3:16: "em labuta darás à luz filhos." O parto humano é objetivamente mais difícil que o da maioria dos mamíferos (devido à estrutura pélvica bípede vs. tamanho da cabeça neonatal). Se o texto "explica" esta realidade biológica ou a usa narrativamente é uma questão do leitor, não uma resposta do texto.
+
+### E3. Autoconsciência e metacognição — a transição "seus olhos se abriram"
+**[COMPARAÇÃO CIENTÍFICA — POSSÍVEL]**
+
+Genesis 3:7 declara "os olhos de ambos se abriram e souberam que estavam nus." O texto apresenta uma transição de um estado sem consciência autorreflexiva para um que a possui. A ciência cognitiva distingue entre consciência primária (percepção do ambiente) e metacognição ou consciência autorreflexiva (percepção dos próprios estados). O "teste do espelho" na psicologia do desenvolvimento (Gallup, 1970) identifica o surgimento do autorreconhecimento como um limiar cognitivo mensurável. O texto de Genesis não descreve um processo biológico, mas narra uma transição que estruturalmente se assemelha ao que a ciência cognitiva estuda como a emergência da consciência autorreflexiva. Se isto é metáfora, etiologia ou algo mais é questão do leitor.
 
 ---
 
 ## F. Recepção Posterior em Outras Tradições
 
 ### F1. Recepção judaica — sem doutrina da "Queda"
-**[LATER RECEPTION — DOCUMENTADO]**
+**[RECEPÇÃO POSTERIOR — DOCUMENTADO]**
 
 O judaísmo rabínico não desenvolve uma doutrina de "Queda" ou "pecado original" a partir de Genesis 3. Em vez disso:
 - O *yetzer hara* (inclinação má) é entendido como parte da natureza humana, não como consequência do pecado de Adão transmitida a todos os humanos
@@ -242,16 +247,23 @@ Esta é uma das divergências judaico-cristãs mais nítidas sobre o mesmo texto
 **Fonte:** Levenson, J.D., *The Death and Resurrection of the Beloved Son*, 1993, cap. 8.
 
 ### F2. Recepção cristã — "a Queda" e pecado original
-**[LATER RECEPTION — DOCUMENTADO]**
+**[RECEPÇÃO POSTERIOR — DOCUMENTADO]**
 
 - **Paulo** (Romanos 5:12–21): "por um homem o pecado entrou no mundo" — Genesis 3 lido como origem da pecaminosidade humana universal
 - **Agostinho** (séc. IV–V): desenvolve a doutrina do *pecado original* — toda a humanidade herda a culpa de Adão por descendência biológica
 - **Irineu** (séc. II): lê Gen 3:15 como *protoevangelium* (primeiro evangelho) — "ele ferirá tua cabeça" interpretado como Cristo derrotando Satanás
 
-Estas leituras são **LATER RECEPTION** — são teologicamente significativas mas pós-bíblicas. O texto hebraico de Genesis 3 não contém as palavras "queda," "pecado" (o substantivo aparece pela primeira vez em Gen 4:7), "Satanás," ou "pecado original." O material preliminar da TT exclui explicitamente este vocabulário da tradução.
+Estas leituras são **RECEPÇÃO POSTERIOR** — são teologicamente significativas mas pós-bíblicas. O texto hebraico de Genesis 3 não contém as palavras "queda," "pecado" (o substantivo aparece pela primeira vez em Gen 4:7), "Satanás," ou "pecado original." O material preliminar da TT exclui explicitamente este vocabulário da tradução.
+
+### F_. A tradição da "natureza luminosa"
+**[RECEPÇÃO POSTERIOR — DOCUMENTADO]**
+
+Vários textos antigos escritos sob pseudônimos (pseudepigrapha) expandem Genesis 3 com uma tradição de que Adão e Eva eram originalmente revestidos de uma "natureza luminosa" ou "vestes de luz," perdidas na transgressão. *O Primeiro Livro de Adão e Eva* (cristão etíope, ~séc. V-VII d.C.) descreve-os como possuindo "natureza luminosa" no jardim, reduzida após a transgressão à "capacidade da carne." A tradição também se reflete em *Genesis Rabbah* (séc. III-V d.C.), que sugere a radiância pré-queda de Adão, e influenciou a mística judaica (o motivo das "vestes de luz") e a teologia cristã da glória e transfiguração (cf. 2 Coríntios 3:18). A TT referencia esta tradição porque Genesis 3 em si não descreve o estado pré-queda de Adão e Eva em termos físicos — a tradição preenche uma lacuna narrativa que o texto canônico deixa aberta.
+
+**Fonte:** Anderson, G., *The Genesis of Perfection*, Westminster John Knox, 2002 (PEER-REVIEWED); Charlesworth, J.H. (ed.), *OTP* vol. 2, Doubleday, 1985 (PEER-REVIEWED).
 
 ### F3. Recepção islâmica — Adão se arrepende, sem pecado original
-**[LATER RECEPTION — DOCUMENTADO]**
+**[RECEPÇÃO POSTERIOR — DOCUMENTADO]**
 
 O Alcorão (Surata 2:35–39, 7:19–25, 20:115–123): Adão e sua esposa comem da árvore proibida, são expulsos do jardim, mas Adão se arrepende e é perdoado. Nenhuma doutrina de pecado herdado. A serpente (*Iblis*/Satanás no Alcorão) é explicitamente identificada como um jinn — um afastamento do texto de Genesis onde a serpente é "um ser vivo do campo."
 
@@ -287,7 +299,7 @@ Genesis 3:6: a mulher "deu também a seu homem *com ela* (*immah*)." A frase exp
 Genesis 3:22: "como um de nós" (*ke'achad mimmennu*) ecoa 1:26: "façamos um humano." Ambos usam plural divino. As notas da TT listam as mesmas três opções em ambos os locais (plural majestático, conselho divino, plural literário) sem privilegiar nenhuma.
 
 ### G6. Psicologia — vergonha, medo e culpa como sequência de consciência
-**[TEXTUAL / STRONG INFERENCE — PROVÁVEL]**
+**[TEXTUAL / INFERÊNCIA FORTE — PROVÁVEL]**
 
 Genesis 3:7–13 apresenta uma sequência psicológica que o texto nomeia mas não explica:
 1. **Consciência:** "souberam que estavam nus" (v.7) — autoconsciência
@@ -297,6 +309,16 @@ Genesis 3:7–13 apresenta uma sequência psicológica que o texto nomeia mas n�
 5. **Culpa:** o humano culpa a mulher e (implicitamente) Deus; a mulher culpa a serpente (vv. 12–13)
 
 O texto apresenta isso como uma sequência de **consequências do conhecimento** — não um sistema teológico, mas uma observação narrativa de como a consciência de exposição produz vergonha, que produz esconder-se, que produz medo, que produz deflexão. A TT preserva a sequência sem interpretá-la.
+
+### G7. Estrutura argumentativa da serpente — um estudo em persuasão
+**[INFERÊNCIA FORTE — PROVÁVEL]**
+
+O discurso da serpente em 3:1–5 segue uma estrutura retórica de quatro etapas: (1) pergunta que exagera a restrição ("Deus realmente disse que não comereis de *nenhuma* árvore?"), (2) a correção da mulher (que por sua vez distorce levemente o comando original), (3) negação direta da consequência ("não morrendo morrereis"), (4) explicação alternativa imputando motivo a Deus ("Deus sabe que... vossos olhos se abrirão"). Na retórica e teoria da argumentação, isto corresponde a um padrão reconhecível: reenquadrar, provocar correção, contradizer a autoridade, oferecer uma contra-narrativa. O texto não rotula isto como "engano" — o narrador chama a serpente de *arum* (astuta/sagaz), e Gen 3:22 confirma que a previsão factual da serpente era parcialmente precisa ("o humano se tornou como um de nós, conhecendo o bem e o mal"). O texto apresenta o argumento sem veredicto editorial, deixando o leitor avaliar onde verdade, distorção e manipulação se cruzam.
+
+### G8. Folhas de figo a peles de animal — progressão da cultura material
+**[INFERÊNCIA POSSÍVEL — POSSÍVEL]**
+
+Genesis 3:7: os humanos fazem coberturas de folhas de figo (*te'enah*). Genesis 3:21: YHWH Deus faz vestes de pele (*or*). O texto comprime o que a antropologia rastreia como o desenvolvimento de materiais à base de plantas para materiais à base de animais — uma transição que no registro arqueológico se estende por milênios. A mudança também envolve uma morte implícita: peles de animais requerem que um animal morra. Esta é a primeira morte implícita na narrativa, ocorrendo antes de qualquer morte humana explícita (que vem em Gn 4:8). O texto não comenta esta implicação — simplesmente registra que Deus fez vestes de pele. Se o leitor vê aqui a origem do sacrifício animal, o primeiro derramamento de sangue, ou simplesmente provisão prática depende do que o leitor traz ao texto. O texto narra; não teologiza a vestimenta.
 
 ---
 

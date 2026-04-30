@@ -7,10 +7,10 @@
 **Grundtext:** Biblia Hebraica Stuttgartensia, 5. rev. Aufl. (Stuttgart: Deutsche Bibelgesellschaft, 1997)
 **Ausgabe:** Transparente Ausgabe
 **Sprache:** Deutsch
-**Methodik:** 29-Regeln-Governance-System (Regelwerk v2.5)
+**Methodik:** 29-Regeln-Governance-System (Regelwerk v3.0)
 **Gottesname-Politik (Regel 25):** Option A — Konsonantisch (JHWH).
 **Luther-Bibel-Verhältnis:** Option B — Selektive Anerkennung. Übersetzung aus dem Hebräischen nach TT-Regeln; Konvergenzen und Divergenzen mit Luther in Begleitmaterialien dokumentiert.
-**Status:** vorläufig — ausstehende Begutachtung (Regel 28)
+**Status:** provisorisch — ausstehende Begutachtung (Regel 28)
 **Begutachter:** Hebraist: nicht zugewiesen | DE-Redakteur: nicht zugewiesen | Sprachübergreifender Abgleich: nicht zugewiesen
 
 ---
@@ -40,6 +40,16 @@
 - 🟡 **THEOLOGISCH** - Interpretationsoptionen, Ambiguitätsbewahrung
 
 **Dieses Kapitel erzählt den Rückgang der Flut und das Wiederauftauchen des Lebens.** Die Struktur spiegelt Genesis 1 — Wind/Geist über den Wassern, trockener Boden erscheint, Leben wird erneuert. Das Kapitel gipfelt in JHWHs innerem Entschluss, den Boden nie wieder zu verfluchen, wobei nahezu identische Sprache wie beim Gericht von 6:5 verwendet wird, aber zum entgegengesetzten Schluss gelangt.
+
+## KAPITELÜBERSICHT
+
+**Was geschieht:** Gott gedenkt Noachs. Die Wasser gehen zurück: Quellen und Fenster werden verschlossen, Wind fährt über das Land. Die *Tebah* ruht auf Ararat. Noach sendet einen Raben (geht hin und her), dann dreimal eine Taube (kehrt zurück, kehrt mit Olivenblatt zurück, kehrt nicht zurück). Noach entfernt die Bedeckung, sieht trockenen Boden. Gott gebietet den Auszug. Noach baut einen Altar und opfert. JHWH riecht den beruhigenden Duft und beschließt „nie wieder" — unter Verwendung derselben Diagnose (böse Neigung), die die Flut ausgelöst hatte.
+
+**Zentrale Themen:** „Gott gedachte" (*vayyizkor*) als erzählerischer Wendepunkt; der Rückgang der Flut spiegelt die Schöpfung (Wind über den Wassern, trockenes Land erscheint); der Rabe und die Taube als Kundschafter; das Olivenblatt als Zeichen der Erholung; der erste Altar (*Mizbeach*); das Wortspiel *nichoach* (beruhigender Duft / Noachs Name); das Paradox von 8:21 — die böse Neigung bewirkt nun Zurückhaltung, nicht Vernichtung.
+
+**Achten Sie auf:** Der Rückgang kehrt die Flut in derselben Reihenfolge um, in der die Flut die Schöpfung umkehrte — eine dreischichtige Erzählstruktur (Schöpfung → Ent-Schöpfung → Neu-Schöpfung); die spezifischen Daten setzen sich fort (8:4, 5, 13, 14) — die Flut umspannt exakt ein Jahr; „sprach in seinem Herzen" (8:21) — göttliche Innerlichkeit, keine öffentliche Erklärung; die Nie-wieder-Verheißung geht der Bundeszeremonie von Kapitel 9 voraus.
+
+**Verbindung:** Der Altar und das Opfer (8:20) antizipieren den formalen Bund in Kapitel 9. Die Wurzel *nacham* erscheint erneut implizit — derjenige, der „Trost" genannt wurde (5:29), hat das Ereignis der göttlichen „Reue" (6:6) überlebt.
 
 ---
 

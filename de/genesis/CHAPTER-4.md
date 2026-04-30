@@ -7,10 +7,10 @@
 **Grundtext:** Biblia Hebraica Stuttgartensia, 5. rev. Aufl. (Stuttgart: Deutsche Bibelgesellschaft, 1997)
 **Ausgabe:** Transparente Ausgabe
 **Sprache:** Deutsch
-**Methodik:** 29-Regeln-Governance-System (Regelwerk v2.5)
+**Methodik:** 29-Regeln-Governance-System (Regelwerk v3.0)
 **Gottesname-Politik (Regel 25):** Option A — Konsonantisch (JHWH).
 **Luther-Bibel-Verhältnis:** Option B — Selektive Anerkennung. Übersetzung aus dem Hebräischen nach TT-Regeln; Konvergenzen und Divergenzen mit Luther in Begleitmaterialien dokumentiert.
-**Status:** vorläufig — ausstehende Begutachtung (Regel 28)
+**Status:** provisorisch — ausstehende Begutachtung (Regel 28)
 **Begutachter:** Hebraist: nicht zugewiesen | DE-Redakteur: nicht zugewiesen | Sprachübergreifender Abgleich: nicht zugewiesen
 
 ---
@@ -40,6 +40,16 @@
 - 🟡 **THEOLOGISCH** - Interpretationsoptionen, Ambiguitätsbewahrung
 
 **Mensch- / Adam-Politik (Regel 17):** In diesem Kapitel wird *ha-adam* (mit Artikel) in V.1 als „der Mensch" wiedergegeben (Fortführung der Gn 2–3-Politik). Ab **V.25** wechselt der Text zum artikellosen *adam* in einem Benennungs-/Genealogiekontext — dies ist der **Übergangspunkt** zum Eigennamen „Adam." Mit 🔴 KRITISCH-Notiz gekennzeichnet.
+
+## KAPITELÜBERSICHT
+
+**Was geschieht:** Qayin (Bauer) und Hevel (Hirte) bringen Gaben dar; JHWH blickt auf Hevels, aber nicht auf Qayins. Trotz göttlicher Warnung tötet Qayin Hevel. JHWH stellt Qayin zur Rede, erklärt ihn zum Umherirrenden, zeichnet ihn zum Schutz und Qayin lässt sich im Land Nod nieder. Qayins Genealogie folgt: Städtebau, Viehwirtschaft, Musik, Metallbearbeitung — gipfelnd in Lemekhs Lied eskalierter Gewalt. Das Kapitel schließt mit Shets Geburt und dem Beginn des Anrufens von JHWHs Namen.
+
+**Zentrale Themen:** Die erste Gabe und der erste Mord; göttliche Warnung unbeachtet (4:6–7, „die Sünde lagert an der Tür"); „Bin ich der Hüter meines Bruders?"; Blut, das vom Boden schreit (*adamah* erneut); das Zeichen Qayins als Schutz; die Ursprünge der Zivilisation in der Linie des Mörders; Gewalteskalation (7-fach → 77-fach); Shet als Ersatzlinie.
+
+**Achten Sie auf:** Der Text erklärt nie, *warum* JHWH auf Hevels Gabe blickte und nicht auf Qayins — die Leerstelle ist der Auslöser der Erzählung; Qayins Strafe spiegelt die Adams (beide vom *adamah* vertrieben); Lemekhs Lied (4:23–24) verkehrt JHWHs 7-fachen Schutz in 77-fache Rache; zwei Chanokhs und zwei Lemekhs erscheinen in den parallelen Genealogien (Kap. 4 vs. Kap. 5).
+
+**Verbindung:** Die kainitische Genealogie (Kapitel 4) läuft parallel zur sethitischen Genealogie (Kapitel 5). Die Gewalt, die hier beginnt, erfüllt die Erde bis Kapitel 6 und löst die Flut aus.
 
 ---
 

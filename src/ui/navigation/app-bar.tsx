@@ -3,6 +3,7 @@
 import { useLocale, useTranslations } from "next-intl";
 import { usePathname } from "next/navigation";
 import { locales, type Locale } from "@/lib/i18n";
+import { AVAILABLE_BOOKS } from "@/domain/books/registry";
 
 export function AppBar() {
   const locale = useLocale() as Locale;
@@ -81,7 +82,7 @@ function getBreadcrumb(
   if (segments[0] === "books") return null;
   if (segments[0] === "rules") return null;
 
-  const validBooks = ["genesis"];
+  const validBooks: readonly string[] = AVAILABLE_BOOKS;
 
   if (segments.length === 1 && validBooks.includes(segments[0])) {
     return {

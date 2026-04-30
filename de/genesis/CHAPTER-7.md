@@ -7,10 +7,10 @@
 **Grundtext:** Biblia Hebraica Stuttgartensia, 5. rev. Aufl. (Stuttgart: Deutsche Bibelgesellschaft, 1997)
 **Ausgabe:** Transparente Ausgabe
 **Sprache:** Deutsch
-**Methodik:** 29-Regeln-Governance-System (Regelwerk v2.5)
+**Methodik:** 29-Regeln-Governance-System (Regelwerk v3.0)
 **Gottesname-Politik (Regel 25):** Option A — Konsonantisch (JHWH).
 **Luther-Bibel-Verhältnis:** Option B — Selektive Anerkennung. Übersetzung aus dem Hebräischen nach TT-Regeln; Konvergenzen und Divergenzen mit Luther in Begleitmaterialien dokumentiert.
-**Status:** vorläufig — ausstehende Begutachtung (Regel 28)
+**Status:** provisorisch — ausstehende Begutachtung (Regel 28)
 **Begutachter:** Hebraist: nicht zugewiesen | DE-Redakteur: nicht zugewiesen | Sprachübergreifender Abgleich: nicht zugewiesen
 
 ---
@@ -41,6 +41,16 @@
 - 🟡 **THEOLOGISCH** - Interpretationsoptionen, Ambiguitätsbewahrung
 
 **Dieses Kapitel erzählt den Eintritt in die Tebah und den Beginn der Flut.** Die Spannung zwischen „zwei von allem" (6:19) und „sieben sieben" der reinen Tiere (7:2) wird ohne Harmonisierung gemäß Regel 22 bewahrt. Der kosmologische Mechanismus — Quellen der Tiefe und Fenster des Himmels — kehrt die Tag-2-Trennung der Wasser um (Gn 1:6–7). Die Verteilung der Gottesnamen wechselt innerhalb des Kapitels zwischen JHWH und Elohim.
+
+## KAPITELÜBERSICHT
+
+**Was geschieht:** JHWH gebietet Noach, mit seiner Familie und den Tieren in die *Tebah* einzutreten — reine Tiere zu siebent, andere zu zweit. Nach sieben Tagen beginnt die Flut: Die Quellen der großen Tiefe brechen auf und die Fenster des Himmels werden geöffnet. Die Wasser steigen vierzig Tage, bedecken alle hohen Berge. Jedes landatmende Lebewesen außerhalb der *Tebah* stirbt. Die Wasser herrschen einhundertfünfzig Tage.
+
+**Zentrale Themen:** Die Unterscheidung rein/unrein vor Sinai; die Flut als kosmologische Umkehrung — die Wasser über und unter dem *raqia* (Tag 2) vereinigen sich wieder; der *Mabbul* (Flut — ein Wort, das nur für dieses Ereignis verwendet wird); spezifische Kalenderdaten durchgehend; JHWH schließt die Tür (7:16 — Noach versiegelt sich nicht selbst); totale Vernichtung des Landlebens.
+
+**Achten Sie auf:** „Sieben sieben" für reine Tiere (7:2) nach „zwei von allem" (6:19–20) — die TT bewahrt beides ohne Harmonisierung; die Flutdaten ergeben eine präzise Chronologie, die ein Sonnenjahr umspannt; „JHWH schloss hinter ihm zu" (7:16) — der Gottesname erscheint im Moment der Versiegelung; die Wendung „alle hohen Berge unter dem ganzen Himmel" (7:19) — die Reichweitebehauptung des Textes selbst.
+
+**Verbindung:** Der Flutmechanismus (7:11) kehrt Genesis 1:6–7 präzise um (das *raqia*, das die Wasser trennt). Kapitel 8 wird die Flut umkehren und die Trennung des zweiten Tages wiederherstellen.
 
 ---
 

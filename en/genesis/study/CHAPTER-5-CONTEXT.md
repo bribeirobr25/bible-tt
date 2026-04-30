@@ -10,8 +10,8 @@
 **Chapter:** Genesis 5
 **Language:** English
 **Companion to:** `en/genesis/CHAPTER-5.md` (Transparent Edition)
-**Ruleset:** v2.5 (Rule 29 governs this file)
-**Status:** draft
+**Ruleset:** v3.0 (Rule 29 governs this file)
+**Status:** provisional
 
 ---
 
@@ -20,22 +20,22 @@
 ### A1. Toledot with *sefer* — unique prefix
 **[TEXTUAL — VERIFIED]**
 
-Genesis 5:1: "the **book** of the generations of Adam" — the only *toledot* formula with the prefix *sefer* (book/document). This signals a structured written record, distinct from the narrative *toledot* markers at 2:4 and 6:9.
+Genesis 5:1: "the **book** of the generations of Adam" — the only *toledot* (generations) formula with the prefix *sefer* (book/document). This signals a structured written record, distinct from the narrative *toledot* markers at 2:4 and 6:9.
 
 ### A2. Image/likeness chain — divine → human descent
 **[TEXTUAL — VERIFIED]**
 
-Gen 1:26-27: God creates human "in our image (*tselem*), according to our likeness (*demut*)." Gen 5:1: recalls "in the likeness of God he made him." Gen 5:3: Adam begets Seth "in his likeness, according to his image" — the terms are **inverted** (likeness first, then image) and the polarity shifts from divine-to-human to human-to-human. The *tselem/demut* pair is transmitted through the generations.
+Gen 1:26-27: God creates human "in our image (*tselem*), according to our likeness (*demut*)." Gen 5:1: recalls "in the likeness of God he made him." Gen 5:3: Adam begets Seth "in his likeness, according to his image" — the terms are **inverted** (likeness first, then image) and the direction shifts from God-to-human to human-to-human. The *tselem/demut* word pair is passed down through the generations.
 
 ### A3. "And he died" — locked formula with one conspicuous break
 **[TEXTUAL — VERIFIED]**
 
-The formula *vayyamot* ("and he died") closes 8 of 10 genealogical entries (vv. 5, 8, 11, 14, 17, 20, 27, 31). The TWO exceptions: Chanokh (v.24 — "he was not, for God took him") and Noach (v.32 — no death recorded; his death comes at 9:29). The Chanokh break is the theological center of the chapter.
+The phrase *vayyamot* ("and he died") closes 8 of the 10 entries in the genealogy (vv. 5, 8, 11, 14, 17, 20, 27, 31). The TWO exceptions: Chanokh (v.24 — "he was not, for God took him") and Noach (v.32 — no death recorded; his death comes at 9:29). The Chanokh break is the theological center of the chapter.
 
 ### A4. Chanokh — "walked with God" and "was not"
 **[TEXTUAL — VERIFIED]**
 
-Only two people "walk with God" (*hithalekh et-ha-Elohim*) in Genesis: Chanokh (5:22, 24) and Noach (6:9). Chanokh's entry uniquely replaces "and he died" with "he was not, for God took him" (*einennu ki laqach oto Elohim*). The text does not say where he went, what happened, or that he went to heaven. It says God **took** him. Everything beyond that is later interpretation.
+Only two people "walk with God" (*hithalekh et-ha-Elohim*) in Genesis: Chanokh (5:22, 24) and Noach (6:9). Chanokh's entry is the only one that replaces "and he died" with "he was not, for God took him" (*einennu ki laqach oto Elohim*). The text does not say where he went, what happened, or that he went to heaven. It says God **took** him. Everything beyond that is later interpretation.
 
 ### A5. 365 years — shortest life, solar-year number
 **[TEXTUAL — VERIFIED]**
@@ -55,7 +55,7 @@ The entire chapter uses *Elohim* except for v.29, where Lemekh's speech referenc
 ### A8. Metushelach's death year = flood year
 **[TEXTUAL — VERIFIED]**
 
-By Masoretic arithmetic: Metushelach born when Chanokh is 65; Lemekh born when Metushelach is 187; Noach born when Lemekh is 182; flood at Noach age 600. Total: 65 + 187 + 182 + 600 = 1034 years from Chanokh's birth; Metushelach's total: 969 years from his birth (= 65 years after Chanokh's). Metushelach dies **the year of the flood**. The text does not make this connection explicit — but the numbers produce it.
+If you add up the ages given in the standard Hebrew text: Metushelach born when Chanokh is 65; Lemekh born when Metushelach is 187; Noach born when Lemekh is 182; the flood comes when Noach is 600. Total: 65 + 187 + 182 + 600 = 1034 years from Chanokh's birth. Metushelach's lifespan: 969 years from his birth (= 65 years after Chanokh's). Metushelach dies **the year of the flood**. The text does not point this out directly — but the numbers produce it.
 
 ---
 
@@ -64,7 +64,7 @@ By Masoretic arithmetic: Metushelach born when Chanokh is 65; Lemekh born when M
 ### B1. Sumerian King List — antediluvian parallels
 **[COMPARATIVE PARALLEL — VERIFIED]**
 
-The Sumerian King List (Weld-Blundell Prism, c. 1800 BCE, Ashmolean Museum) lists antediluvian kings with extraordinary reign lengths before a flood, followed by post-flood rulers with declining reigns.
+The Sumerian King List (Weld-Blundell Prism, c. 1800 BCE, Ashmolean Museum) lists kings from before the flood with extraordinary reign lengths, followed by post-flood rulers with declining reigns.
 
 | Feature | Sumerian King List | Genesis 5 |
 |---------|-------------------|-----------|
@@ -73,14 +73,14 @@ The Sumerian King List (Weld-Blundell Prism, c. 1800 BCE, Ashmolean Museum) list
 | Flood as divider | "Then the flood swept over" | Gen 7–8 |
 | Post-flood decline | Reigns drop to hundreds of years | Lifespans decline (Gen 11) |
 
-The SKL legitimizes political power ("kingship descended from heaven"); Genesis 5 structures covenant genealogy.
+The King List serves to legitimize political power ("kingship descended from heaven"); Genesis 5 structures a covenant genealogy.
 
 **Source:** Jacobsen, T., *The Sumerian King List*, 1939; Shea, W.H., "The Antediluvian Section of the SKL and Genesis 5," *Biblical Archaeologist* 44:4 (1981).
 
 ### B2. Enoch and Enmeduranki — the seventh figure
 **[COMPARATIVE PARALLEL — VERIFIED]**
 
-Chanokh occupies the **seventh** position in Genesis 5. In some versions of the SKL, **Enmeduranki** of Sippar is the seventh antediluvian king, closely associated with the sun-god Shamash and initiated into divine secrets of divination. Richard Hess notes Utuabzu (adviser to Enmeduranki) was said to have "ascended to heaven" — directly paralleling Chanokh's translation.
+Chanokh occupies the **seventh** position in Genesis 5. In some versions of the Sumerian King List, **Enmeduranki** of Sippar is the seventh king before the flood, closely associated with the sun-god Shamash and said to have received divine secrets. Richard Hess notes that Utuabzu (adviser to Enmeduranki) was said to have "ascended to heaven" — directly paralleling Chanokh's removal from earth.
 
 **Source:** Hess, R.S., following Borger, R.; Moscicke, H., "Enoch Mediatorial Traditions."
 
@@ -91,14 +91,14 @@ Chanokh occupies the **seventh** position in Genesis 5. In some versions of the 
 ### D1. The genealogical formula — locked structure
 **[TEXTUAL — VERIFIED]**
 
-Each entry follows: "X lived Y years → begot Z → lived W more years → begot sons and daughters → all days of X were N years → and he died." The rigidity is deliberate (Rule 7 — locked formula). Deviations from the formula (Chanokh, Noach) are the interpretive signals.
+Each entry follows a fixed pattern: "X lived Y years → fathered Z → lived W more years → fathered sons and daughters → all the days of X were N years → and he died." The rigid repetition is deliberate (Rule 7 — locked formula). When the formula breaks (at Chanokh and Noach), the break itself is the signal to pay attention.
 
 ### D2. Numerical patterns — sexagesimal system?
 **[TEXTUAL / COMPARATIVE PARALLEL — PROBABLE]**
 
-Cassuto (*Commentary on Genesis*, 1961) demonstrated that all 30 numbers in Genesis 5 can be expressed as combinations of 60 (Mesopotamian mathematical base) and 7 (Hebrew sacred number). Carol Hill ("Making Sense of the Numbers of Genesis," *PSCF* 55:4, 2003) argues numbers carried both numerical and sacred meaning in Mesopotamian worldview.
+Cassuto (*Commentary on Genesis*, 1961) showed that all 30 numbers in Genesis 5 can be expressed as combinations of 60 (the base number in Mesopotamian math) and 7 (a number with sacred significance in Hebrew tradition). Carol Hill ("Making Sense of the Numbers of Genesis," *PSCF* 55:4, 2003) argues these numbers carried both practical and symbolic meaning in the Mesopotamian world.
 
-**Counter:** Wenham (*Genesis 1-15*, WBC) finds the patterns "interesting" but doubts their interpretive usefulness. Status: PROBABLE.
+**Counter:** Wenham (*Genesis 1-15*, WBC) finds the patterns "interesting" but doubts they tell us much about meaning. Status: PROBABLE.
 
 **Source:** Cassuto, U., *Commentary on Genesis*, 1961; Hill, C., *PSCF* 55:4, 2003.
 
@@ -107,9 +107,9 @@ Cassuto (*Commentary on Genesis*, 1961) demonstrated that all 30 numbers in Gene
 ## E. Scientific Correspondence and Non-Correspondence
 
 ### E1. The extraordinary ages — what the text says and doesn't say
-**[SCIENTIFIC COMPARISON — for awareness]**
+**[SCIENTIFIC COMPARISON — POSSIBLE]**
 
-Modern human lifespan is biologically constrained (Hayflick limit, telomere shortening). The ages in Genesis 5 (365–969 years) vastly exceed any documented human lifespan. The TT presents the numbers as the text states them, without harmonization or defense.
+Modern human lifespan is biologically limited — cells can only divide a certain number of times, and the protective caps on chromosomes (telomeres) shorten with age. The ages in Genesis 5 (365–969 years) vastly exceed any documented human lifespan. The TT presents the numbers as the text states them, without harmonization or defense.
 
 Options readers have considered: (1) literal years; (2) symbolic/numerological numbers; (3) clan-lifespans rather than individual lifespans; (4) different year-lengths. All are POSSIBLE as interpretive frameworks; none is imposed by the text itself.
 
@@ -132,6 +132,13 @@ Options readers have considered: (1) literal years; (2) symbolic/numerological n
 - **Jude 14-15:** quotes 1 Enoch directly as prophecy attributed to "Enoch, the seventh from Adam"
 - Enoch and Elijah (2 Kings 2:11) are the two figures in the Hebrew tradition who do not die
 
+### F_. The Enoch tradition
+**[LATER RECEPTION — DOCUMENTED]**
+
+Genesis 5:21-24 says only that Chanokh "walked with God" and "was not, for God took him." This brief statement gave rise to a large body of later writings. *1 Enoch* (composite, ~3rd c. BCE - 1st c. CE; Aramaic and Ge'ez) attributes to Chanokh visions of heavenly realms, the fates of the dead, celestial calendars, and the crimes of fallen angels. *1 Enoch* is canonical in the Ethiopian Orthodox Tewahedo Church. The Greek New Testament (Jude 14-15) directly quotes *1 Enoch* 1:9 as authoritative. *Jubilees* (~2nd c. BCE, surviving fully only in Ge'ez) also expands the Chanokh narrative. *2 Enoch* (Slavonic, possibly 1st c. CE) describes a journey through seven heavens. These texts shaped how Genesis 5:24 was read in Jewish communities of the last centuries BCE and in early Christianity, and remained authoritative in Eastern Christian traditions long after Western Christianity narrowed its accepted scriptures.
+
+**Source:** Nickelsburg, G.W.E. & VanderKam, J.C., *1 Enoch: A New Translation*, Fortress Press, 2004 (PEER-REVIEWED); Reed, A.Y., *Fallen Angels and the History of Judaism and Christianity*, Cambridge, 2005 (PEER-REVIEWED).
+
 ### F3. Islamic reception
 **[LATER RECEPTION — DOCUMENTED]**
 
@@ -144,7 +151,7 @@ Islamic tradition identifies Enoch with **Idris** (Quran 19:56-57, 21:85): "We r
 ### G1. Two Lemekhs — mirror and contrast
 **[TEXTUAL — VERIFIED]**
 
-Cainite Lemekh (4:23-24): boasts of killing, claims 77-fold vengeance. Sethite Lemekh (5:28-31): lives 777 years, hopes for comfort. Same name, opposite trajectories. The 77/777 numerical echo is textually present.
+Lemekh of Cain's line (4:23-24): boasts of killing, claims 77-fold vengeance. Lemekh of Seth's line (5:28-31): lives 777 years, hopes for comfort. Same name, opposite paths. The 77/777 numerical echo is present in the text.
 
 ### G2. Why no Sethite women named?
 **[TEXTUAL — POSSIBLE INFERENCE]**
@@ -154,7 +161,7 @@ The formula says each patriarch "begot sons and daughters" — but no daughter i
 ### G3. "He was not" — what does absence mean?
 **[TEXTUAL — VERIFIED]**
 
-*Einennu* (אֵינֶנּוּ) at 5:24 = "he was not / he is no more." The same word describes Joseph in Gen 42:13 ("one is no more"). The text's restraint is deliberate — it refuses to specify where Chanokh went or what happened. Anything beyond "God took him" is interpretation.
+*Einennu* (אֵינֶנּוּ) at 5:24 means "he was not / he is no more." The same word describes Joseph in Gen 42:13 ("one is no more"). The text is deliberately restrained — it refuses to say where Chanokh went or what happened. Anything beyond "God took him" is interpretation.
 
 ---
 

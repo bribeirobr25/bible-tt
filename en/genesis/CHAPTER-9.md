@@ -7,7 +7,7 @@
 **Base Text:** Biblia Hebraica Stuttgartensia, 5th rev. ed. (Stuttgart: Deutsche Bibelgesellschaft, 1997)
 **Edition:** Transparent Edition
 **Language:** English
-**Methodology:** 29-Rule Governance System (Ruleset v2.5)
+**Methodology:** 29-Rule Governance System (Ruleset v3.0)
 **Divine Name Policy (Rule 25):** Option A — Consonantal (YHWH).
 **Status:** provisional — pending reviewer sign-off (Rule 28)
 **Reviewers:** Hebraist: unassigned | EN editor: unassigned | Cross-alignment: unassigned
@@ -39,6 +39,18 @@
 - 🟡 **THEOLOGICAL** - Interpretive options, ambiguity preservation
 
 **This chapter contains the post-flood covenant, the blood prohibition, and the Ham/Canaan incident.** The blessing of 9:1 echoes Gen 1:28. The covenant (9:8–17) is the first fully disclosed *berit*, with the bow (*qesheth*) as sign. Noach's first recorded speech (9:25–27) — after chapters of silence — is a curse. The text says Ham "saw the nakedness of his father"; the TT renders what the text says, not what it might mean.
+
+---
+
+## CHAPTER OVERVIEW
+
+**What happens:** God blesses Noach's family with a renewed creation mandate — but changed: "fear and dread" replaces dominion, meat-eating is permitted with a blood prohibition, and murder is met with capital accountability. God establishes a covenant with all life, placing the bow (*qesheth* — a weapon) in the clouds as its sign. Noach plants a vineyard, drinks wine, and lies uncovered. Cham sees his father's nakedness; Shem and Yafet cover him without looking. Noach awakes, curses Kenaan (not Cham), and blesses Shem and Yafet. Noach dies at 950.
+
+**Key themes:** Re-creation with alteration (1:28 vs. 9:1–7 — same words, different world); blood = *nephesh* (life-force); the *tselem* (image of God) persists through the flood as the basis for human dignity; the unilateral, universal covenant with all life; the bow (*qesheth*) as a deposed weapon; the tent scene — honor/shame culture; the curse falls on Kenaan, not on the offender Cham; Noach's first words are a curse.
+
+**Watch for:** "Every moving thing that lives shall be food for you" (9:3) — the first meat permission, contrasting with 1:29's plant-only diet; the quiastic structure of 9:6 (the act folds back on the actor); "my bow" — possessive, implying it was God's weapon; the ambiguity of "who dwells in the tents of Shem" (9:27 — Yafet or God?); Noach has been silent since 6:9 — his first recorded speech is this curse.
+
+**Connection:** The Noachide commands (9:1–7) function as a universal framework that precedes and underlies the Abrahamic covenant (Ch 12+). The table of nations (Ch 10) traces the lines of Shem, Cham, and Yafet established here.
 
 ---
 

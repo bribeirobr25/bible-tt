@@ -1,86 +1,86 @@
 # Genesis 8 -- Kontextuelle Studienbegleitung
-## Die Transparente Uebersetzung (TT)
+## Die Transparente Übersetzung (TT)
 
 ---
 
-> **Diese Begleitdatei bietet kontextuelles und vergleichendes Studienmaterial. Sie definiert die Hauptuebersetzung nicht neu, erweitert oder kontrolliert sie nicht. Parallelen beweisen keine Abhaengigkeit. Moderne Modelle bestimmen nicht die antike Absicht. Alle Eintraege sind nach Typ und Gewissheit gekennzeichnet und muessen als Hintergrund gelesen werden, nicht als Uebersetzung.**
+> **Diese Begleitdatei bietet kontextuelles und vergleichendes Studienmaterial. Sie definiert die Hauptübersetzung nicht neu, erweitert oder kontrolliert sie nicht. Parallelen beweisen keine Abhängigkeit. Moderne Modelle bestimmen nicht die antike Absicht. Alle Einträge sind nach Typ und Gewissheit gekennzeichnet und müssen als Hintergrund gelesen werden, nicht als Übersetzung.**
 
 ---
 
 **Kapitel:** Genesis 8
 **Sprache:** Deutsch
 **Begleitdatei zu:** `de/genesis/CHAPTER-8.md` (Transparente Ausgabe)
-**Regelwerk:** v2.5 (Regel 29 regelt diese Datei)
-**Status:** Entwurf
+**Regelwerk:** v3.0 (Regel 29 regelt diese Datei)
+**Status:** provisorisch
 
 ---
 
-## A. Hebraeische Textmerkmale, die durch die TT sichtbar werden
+## A. Hebräische Textmerkmale, die durch die TT sichtbar werden
 
-### A1. *Ruach* ueber den Wassern -- Neu-Schoepfung beginnt
-**[TEXTUAL -- VERIFIZIERT]**
+### A1. *Ruach* über den Wassern -- Neu-Schöpfung beginnt
+**[TEXTUELL — VERIFIZIERT]**
 
-Gn 8:1: "Gott liess einen *Ruach* ueber das Land fahren." Direktes strukturelles Echo von Gn 1:2: "*Ruach* Gottes schwebend ueber dem Angesicht der Wasser." Die TT bewahrt den Schraegstrich (Wind/Geist) gemaess Regel 2. Die Neu-Schoepfung nach der Flut beginnt mit demselben Element wie die urspruengliche Schoepfung -- *Ruach* ueber Wasser. Die Fluterzaehlung ist als Ent-Schoepfung (Kap. 7) gefolgt von Neu-Schoepfung (Kap. 8) gerahmt.
+Gn 8:1: "Gott liess einen *Ruach* über das Land fahren." Direktes strukturelles Echo von Gn 1:2: "*Ruach* Gottes schwebend über dem Angesicht der Wasser." Die TT bewahrt den Schrägstrich (Wind/Geist) gemäss Regel 2. Die Neu-Schöpfung nach der Flut beginnt mit demselben Element wie die ursprüngliche Schöpfung -- *Ruach* über Wasser. Die Fluterzählung ist als Ent-Schöpfung (Kap. 7) gefolgt von Neu-Schöpfung (Kap. 8) gerahmt.
 
 ### A2. "Gott gedachte" -- nicht Vergessen, sondern Handeln
-**[TEXTUAL -- VERIFIZIERT]**
+**[TEXTUELL — VERIFIZIERT]**
 
-וַיִּזְכֹּר אֱלֹהִים (*vayyizkor elohim*) = "Und Gott gedachte." Im Hebraeischen bedeutet goettliches "Gedenken" (*zakhar*) kein vorheriges Vergessen. Es signalisiert, dass Gott seine Aufmerksamkeit zuwendet, um zugunsten jemandes zu handeln. Dasselbe Verb bei Gn 19:29 (Gott "gedenkt" Abrahams und rettet Lot), Gn 30:22 (Gott "gedenkt" Rachels), Ex 2:24 (Gott "gedenkt" seines Bundes). Das Verb *zakhar* in diesen goettlichen Verwendungen ist konsistent performativ -- zu gedenken heisst zu handeln. In Gn 9:15-16 funktioniert der Bogen als goettliches Erinnerungsmittel: Gott sieht den Bogen → gedenkt → haelt sich zurueck. Die goettliche Selbst-Erinnerung (8:21 "sprach in seinem Herzen"; 9:16 "ich werde ihn sehen, um zu gedenken") hat keine direkte AO-Parallele. Die TT gibt "gedachte" woertlich wieder.
+וַיִּזְכֹּר אֱלֹהִים (*vayyizkor elohim*) = "Und Gott gedachte." Im Hebräischen bedeutet göttliches "Gedenken" (*zakhar*) kein vorheriges Vergessen. Es signalisiert, dass Gott seine Aufmerksamkeit zuwendet, um zugunsten jemandes zu handeln. Dasselbe Verb bei Gn 19:29 (Gott "gedenkt" Abrahams und rettet Lot), Gn 30:22 (Gott "gedenkt" Rachels), Ex 2:24 (Gott "gedenkt" seines Bundes). Das Verb *zakhar* in diesen göttlichen Verwendungen ist konsistent performativ -- zu gedenken heisst zu handeln. In Gn 9:15-16 funktioniert der Bogen als göttliches Erinnerungsmittel: Gott sieht den Bogen → gedenkt → hält sich zurück. Die göttliche Selbst-Erinnerung (8:21 "sprach in seinem Herzen"; 9:16 "ich werde ihn sehen, um zu gedenken") hat keine direkte AO-Parallele. Die TT gibt "gedachte" wörtlich wieder.
 
 ### A3. Quellen und Fenster -- verschlossen, nicht vernichtet
-**[TEXTUAL -- VERIFIZIERT]**
+**[TEXTUELL — VERIFIZIERT]**
 
-Gn 7:11: Quellen "brachen auf" (*nivqe'u*), Fenster "wurden geoeffnet" (*niftchu*). Gn 8:2: Quellen und Fenster "wurden verschlossen" (*vayyissakru*). Die kosmischen Wasserquellen werden gestoppt -- wieder versiegelt -- nicht beseitigt. Die Raqia-Architektur bleibt bestehen; die Tag-2-Trennung wird wiederhergestellt. Das kosmologische Modell von Gn 1 funktioniert auch nach der Flut weiter.
+Gn 7:11: Quellen "brachen auf" (*nivqe'u*), Fenster "wurden geöffnet" (*niftchu*). Gn 8:2: Quellen und Fenster "wurden verschlossen" (*vayyissakru*). Die kosmischen Wasserqüllen werden gestoppt -- wieder versiegelt -- nicht beseitigt. Die Raqia-Architektur bleibt bestehen; die Tag-2-Trennung wird wiederhergestellt. Das kosmologische Modell von Gn 1 funktioniert auch nach der Flut weiter.
 
 ### A4. Die Tebah "ruhte" (*tanach*) -- n-w-ch-Wurzel
-**[TEXTUAL -- VERIFIZIERT]**
+**[TEXTUELL — VERIFIZIERT]**
 
-Gn 8:4: וַתָּנַח הַתֵּבָה (*vattanach ha-tebah*) = "die Tebah ruhte." Wurzel: נ-ו-ח (*n-w-ch*) -- dieselbe Wurzel wie Noachs Name. Die Tebah "noach-te" auf den Bergen. Dies ist das zweite n-w-ch-Vorkommen in der Fluterzaehlung, nach dem Namen selbst.
+Gn 8:4: וַתָּנַח הַתֵּבָה (*vattanach ha-tebah*) = "die Tebah ruhte." Wurzel: נ-ו-ח (*n-w-ch*) -- dieselbe Wurzel wie Noachs Name. Die Tebah "noach-te" auf den Bergen. Dies ist das zweite n-w-ch-Vorkommen in der Fluterzählung, nach dem Namen selbst.
 
-### A5. N-W-CH-Wurzel-Saettigung -- vier Vorkommen
-**[TEXTUAL -- VERIFIZIERT]**
+### A5. N-W-CH-Wurzel-Sättigung -- vier Vorkommen
+**[TEXTUELL — VERIFIZIERT]**
 
 Die Wurzel n-w-ch erscheint viermal in Genesis 8:
 1. **Noach** (der Name -- "Ruhe/Trost")
 2. **8:4** -- die Tebah *tanach* (ruhte) auf Ararat
 3. **8:9** -- die Taube findet keinen *manoach* (Ruheplatz)
-4. **8:21** -- JHWH riecht den *nichoach* (beruhigenden/wohlgefaelligen Duft)
+4. **8:21** -- JHWH riecht den *nichoach* (beruhigenden/wohlgefälligen Duft)
 
-Diese Konzentration ist einzigartig. Der Mann mit dem Namen "Ruhe" ist derjenige, dessen Gefaess ruht, dessen Taube Ruhe sucht und dessen Opfer einen "ruhenden" Duft hervorbringt. Die TT macht dies sichtbar durch konsequente Transliteration und Markierung der Wurzelverbindungen.
+Diese Konzentration ist einzigartig. Der Mann mit dem Namen "Ruhe" ist derjenige, dessen Gefäss ruht, dessen Taube Ruhe sucht und dessen Opfer einen "ruhenden" Duft hervorbringt. Die TT macht dies sichtbar durch konseqünte Transliteration und Markierung der Wurzelverbindungen.
 
-### A6. Zwei Verben fuer "getrocknet" -- Oberflaeche gegen vollstaendig
-**[TEXTUAL -- VERIFIZIERT]**
+### A6. Zwei Verben für "getrocknet" -- Oberfläche gegen vollständig
+**[TEXTUELL — VERIFIZIERT]**
 
-Gn 8:13: חָרְבוּ (*charvu*) = oberflaechlich getrocknet (von *charav*). Gn 8:14: יָבְשָׁה (*yavshah*) = vollstaendig getrocknet (von *yavesh*). Zwei verschiedene hebraeische Verben beschreiben zwei Trocknungsstufen: das Oberflaechenwasser ist weg (8:13, Monat 1, Tag 1), dann ist der Boden gruendlich trocken (8:14, Monat 2, Tag 27). Die TT vereinheitlicht diese nicht -- beide werden als "trocknen" wiedergegeben, aber die kapiteluebergreifenden Notizen unterscheiden sie.
+Gn 8:13: חָרְבוּ (*charvu*) = oberflächlich getrocknet (von *charav*). Gn 8:14: יָבְשָׁה (*yavshah*) = vollständig getrocknet (von *yavesh*). Zwei verschiedene hebräische Verben beschreiben zwei Trocknungsstufen: das Oberflächenwasser ist weg (8:13, Monat 1, Tag 1), dann ist der Boden gründlich trocken (8:14, Monat 2, Tag 27). Die TT vereinheitlicht diese nicht -- beide werden als "trocknen" wiedergegeben, aber die kapitelübergreifenden Notizen unterscheiden sie.
 
 ### A7. "Fruchtbar sein und sich mehren" -- Gn 1:22 wiederholt
-**[TEXTUAL -- VERIFIZIERT]**
+**[TEXTUELL — VERIFIZIERT]**
 
-Gn 8:17: "fruchtbar sein und sich mehren auf dem Land." Identische Sprache mit Gn 1:22 (Segen an Geschoepfe) und 1:28 (Segen an Menschen). Die Neu-Schoepfung wird ausdruecklich gemacht. Die nachsintflutliche Welt empfaengt denselben generativen Segen wie die erste Schoepfung.
+Gn 8:17: "fruchtbar sein und sich mehren auf dem Land." Identische Sprache mit Gn 1:22 (Segen an Geschöpfe) und 1:28 (Segen an Menschen). Die Neu-Schöpfung wird ausdrücklich gemacht. Die nachsintflutliche Welt empfängt denselben generativen Segen wie die erste Schöpfung.
 
 ### A8. Selbe Diagnose, entgegengesetzter Schluss -- 6:5 gegen 8:21
-**[TEXTUAL -- VERIFIZIERT]**
+**[TEXTUELL — VERIFIZIERT]**
 
-Gn 6:5: "jede Neigung der Gedanken seines Herzens war nur boese den ganzen Tag" → Flut (Gericht). Gn 8:21: "die Neigung des Herzens des Menschen ist boese von seiner Jugend an" → "Ich werde nicht wieder den Boden verfluchen" (Gnade). Die Version von 8:21 laesst drei Verstaerker weg (*kol*/jede, *raq*/nur, *kol ha-yom*/den ganzen Tag) und fuegt "von seiner Jugend an" (*mine'urav*) hinzu. Der menschliche Zustand ist im Wesentlichen derselbe -- aber mildere Sprache fuehrt zur entgegengesetzten goettlichen Antwort. Die TT bewahrt beide Verse mit genauer Treue zum Hebraeischen.
+Gn 6:5: "jede Neigung der Gedanken seines Herzens war nur böse den ganzen Tag" → Flut (Gericht). Gn 8:21: "die Neigung des Herzens des Menschen ist böse von seiner Jugend an" → "Ich werde nicht wieder den Boden verfluchen" (Gnade). Die Version von 8:21 lässt drei Verstärker weg (*kol*/jede, *raq*/nur, *kol ha-yom*/den ganzen Tag) und fügt "von seiner Jugend an" (*mine'urav*) hinzu. Der menschliche Zustand ist im Wesentlichen derselbe -- aber mildere Sprache führt zur entgegengesetzten göttlichen Antwort. Die TT bewahrt beide Verse mit genaür Treü zum Hebräischen.
 
-Das Wort *yetser* (Neigung) selbst leitet sich von der Wurzel י-צ-ר (*y-ts-r*, "formen/bilden") ab -- derselben Wurzel, die in Gn 2:7 verwendet wird, als Gott den Menschen aus der *Adamah* "formte" (*vayyitser*). Die Neigung des Menschen ist, etymologisch betrachtet, etwas *Geformtes*. In der Hebraeischen Bibel ist *yetser* ein neutraler Begriff fuer "Gedanke/Plan" (Ps 103:14; Jes 26:3). Das spaetere rabbinische Konzept *yetzer hara* (boeser Trieb), unterschieden vom *yetzer hatov* (guter Trieb), ist nachbiblische Entwicklung -- hier als Rezeption gekennzeichnet, nicht als Genesis-interner Sinn.
+Das Wort *yetser* (Neigung) selbst leitet sich von der Wurzel י-צ-ר (*y-ts-r*, "formen/bilden") ab -- derselben Wurzel, die in Gn 2:7 verwendet wird, als Gott den Menschen aus der *Adamah* "formte" (*vayyitser*). Die Neigung des Menschen ist, etymologisch betrachtet, etwas *Geformtes*. In der Hebräischen Bibel ist *yetser* ein neutraler Begriff für "Gedanke/Plan" (Ps 103:14; Jes 26:3). Das spätere rabbinische Konzept *yetzer hara* (böser Trieb), unterschieden vom *yetzer hatov* (guter Trieb), ist nachbiblische Entwicklung -- hier als Rezeption gekennzeichnet, nicht als Genesis-interner Sinn.
 
 ### A9. Der Makro-Chiasmus von Gn 6:9-9:29
-**[TEXTUAL -- VERIFIZIERT]**
+**[TEXTUELL — VERIFIZIERT]**
 
-Die Fluterzaehlung ist als grossraeumiger Chiasmus organisiert, mit "Gott gedachte Noachs" (8:1) als praezisem strukturellem Wendepunkt. Diese literarische Architektur, dokumentiert von Wenham und Radday, zeigt, dass jede Einheit vor 8:1 eine entsprechende Einheit nach 8:1 spiegelt:
+Die Fluterzählung ist als grossräumiger Chiasmus organisiert, mit "Gott gedachte Noachs" (8:1) als präzisem strukturellem Wendepunkt. Diese literarische Architektur, dokumentiert von Wenham und Radday, zeigt, dass jede Einheit vor 8:1 eine entsprechende Einheit nach 8:1 spiegelt:
 
 | Vor 8:1 | Wendepunkt | Nach 8:1 |
 |---|---|---|
-| Goettliche Gerichtsrede (6:13-21) | **Gott gedachte Noachs (8:1)** | Goettliche Verpflichtungsrede (8:21-22; 9:1-17) |
+| Göttliche Gerichtsrede (6:13-21) | **Gott gedachte Noachs (8:1)** | Göttliche Verpflichtungsrede (8:21-22; 9:1-17) |
 | "Es bekümmerte ihn in seinem Herzen" (6:6) | | "JHWH sprach in seinem Herzen" (8:21) |
-| Bund angekuendigt, keine Bedingungen (6:18) | | Bund errichtet mit Bedingungen (9:9-17) |
+| Bund angekündigt, keine Bedingungen (6:18) | | Bund errichtet mit Bedingungen (9:9-17) |
 | "Geh in die Tebah" (7:1) | | "Geh hinaus aus der Tebah" (8:16) |
 | Quellen brachen auf (7:11) | | Quellen verschlossen (8:2) |
 | Wasser steigen (7:17-24) | | Wasser sinken (8:1-5) |
-| 7-taegiges Warten vor der Flut (7:4,10) | | 7-taegiges Warten auf die Taube (8:10,12) |
+| 7-tägiges Warten vor der Flut (7:4,10) | | 7-tägiges Warten auf die Taube (8:10,12) |
 
-Der Chiasmus zeigt, dass 8:1 nicht bloss ein erzaehlerischer Uebergang ist, sondern das strukturelle und theologische Zentrum der gesamten Fluteinheit -- Gottes "Gedenken" ist die Achse, an der Vernichtung in Wiederherstellung umschlaegt. Der Chiasmus ist eine literarisch-strukturelle Beobachtung; er bestaetigt oder widerlegt weder Einheit noch Mehrfachverfasserschaft.
+Der Chiasmus zeigt, dass 8:1 nicht bloss ein erzählerischer Übergang ist, sondern das strukturelle und theologische Zentrum der gesamten Fluteinheit -- Gottes "Gedenken" ist die Achse, an der Vernichtung in Wiederherstellung umschlägt. Der Chiasmus ist eine literarisch-strukturelle Beobachtung; er bestätigt oder widerlegt weder Einheit noch Mehrfachverfasserschaft.
 
 **Quelle:** Wenham, G.J., "The Coherence of the Flood Narrative," *VT* 28 (1978), 336-348; Radday, Y.T., "Chiasm in Joshua, Judges, and Others," *Linguistica Biblica* 3 (1973).
 
@@ -89,100 +89,119 @@ Der Chiasmus zeigt, dass 8:1 nicht bloss ein erzaehlerischer Uebergang ist, sond
 ## B. Altorientalische Parallelen
 
 ### B1. Vogelaussendung -- Gilgamesch gegen Genesis
-**[COMPARATIVE PARALLEL -- VERIFIZIERT]**
+**[VERGLEICHENDE PARALLELE — VERIFIZIERT]**
 
-Gilgamesch XI:145-154: Utnapischtim sendet eine Taube aus (kehrt zurueck), eine Schwalbe (kehrt zurueck), einen Raben (kehrt nicht zurueck -- findet Nahrung). Genesis 8:7-12: Noach sendet einen Raben aus (geht hin und her), dann dreimal eine Taube (kehrt leer zurueck → kehrt mit Olivenblatt zurueck → kehrt nicht zurueck).
+Gilgamesch XI:145-154: Utnapischtim sendet eine Taube aus (kehrt zurück), eine Schwalbe (kehrt zurück), einen Raben (kehrt nicht zurück -- findet Nahrung). Genesis 8:7-12: Noach sendet einen Raben aus (geht hin und her), dann dreimal eine Taube (kehrt leer zurück → kehrt mit Olivenblatt zurück → kehrt nicht zurück).
 
-Zentrale Unterschiede: (1) umgekehrte Vogelreihenfolge; (2) Genesis hat drei Taubenmissionen mit fortschreitenden Ergebnissen; (3) in Gilgamesch signalisiert die Nicht-Rueckkehr des Raben Erfolg -- in Genesis ist das Verhalten des Raben unergiebig. Die dreistufige Taubensequenz in Genesis ist strukturell weiter entwickelt.
+Zentrale Unterschiede: (1) umgekehrte Vogelreihenfolge; (2) Genesis hat drei Taubenmissionen mit fortschreitenden Ergebnissen; (3) in Gilgamesch signalisiert die Nicht-Rückkehr des Raben Erfolg -- in Genesis ist das Verhalten des Raben unergiebig. Die dreistufige Taubensequenz in Genesis ist strukturell weiter entwickelt.
 
 **Quelle:** George, A.R., *The Babylonian Gilgamesh Epic*, Oxford, 2003, Tafel XI:145-154.
 
-### B2. Nachsintflutliches Opfer -- goettliche Antwort im Vergleich
-**[COMPARATIVE PARALLEL -- VERIFIZIERT]**
+### B2. Nachsintflutliches Opfer -- göttliche Antwort im Vergleich
+**[VERGLEICHENDE PARALLELE — VERIFIZIERT]**
 
-Gilgamesch XI:159-161: "Die Goetter rochen den Duft, die Goetter rochen den suessen Duft, die Goetter versammelten sich wie Fliegen ueber dem Opfer." Genesis 8:21: "JHWH roch den beruhigenden Duft (*reach ha-nichoach*)."
+Gilgamesch XI:159-161: "Die Götter rochen den Duft, die Götter rochen den süssen Duft, die Götter versammelten sich wie Fliegen über dem Opfer." Genesis 8:21: "JHWH roch den beruhigenden Duft (*reach ha-nichoach*)."
 
-Der Kontrast ist frappierend: mehrere Goetter, die sich "wie Fliegen" versammeln (hungrig, unwuerdig) gegenueber einer einzigen Gottheit, die mit innerem Entschluss antwortet (wuerdevoll, zweckvoll). In Gilgamesch bereuen die Goetter die Flut, weil sie sie fast der menschlichen Opfer beraubte. In Genesis entschliesst sich JHWH, den Boden nie wieder zu verfluchen -- eine moralische Verpflichtung, keine praktische Berechnung.
+Der Kontrast ist frappierend: mehrere Götter, die sich "wie Fliegen" versammeln (hungrig, unwürdig) gegenüber einer einzigen Gottheit, die mit innerem Entschluss antwortet (würdevoll, zweckvoll). In Gilgamesch bereün die Götter die Flut, weil sie sie fast der menschlichen Opfer beraubte. In Genesis entschliesst sich JHWH, den Boden nie wieder zu verfluchen -- eine moralische Verpflichtung, keine praktische Berechnung.
 
 **Quelle:** George, A.R., *The Babylonian Gilgamesh Epic*, Oxford, 2003, Tafel XI:159-164.
 
-### B3. Ararat -- das Koenigreich Urartu
-**[HISTORICAL / ARCHAEOLOGICAL -- VERIFIZIERT]**
+### B3. Ararat -- das Königreich Urartu
+**[HISTORISCH / ARCHÄOLOGISCH — VERIFIZIERT]**
 
-"Berge von Ararat" (8:4) entspricht dem antiken Koenigreich Urartu, einer Grossmacht in Ostanatolien/Armenien (ca. 860-590 v.u.Z.). Das hebraeische אֲרָרָט (*Ararat*) = akkadisch *Urartu*. Der Text sagt "Berge" (Plural) -- ein Gebirge, kein einzelner Gipfel. Die Identifizierung mit dem heutigen "Berg Ararat" (Agri Dagi, 5.137 m) ist juenger als der biblische Text.
+"Berge von Ararat" (8:4) entspricht dem antiken Königreich Urartu, einer Grossmacht in Ostanatolien/Armenien (ca. 860-590 v.u.Z.). Das hebräische אֲרָרָט (*Ararat*) = akkadisch *Urartu*. Der Text sagt "Berge" (Plural) -- ein Gebirge, kein einzelner Gipfel. Die Identifizierung mit dem heutigen "Berg Ararat" (Agri Dagi, 5.137 m) ist jünger als der biblische Text.
 
 **Quelle:** Zimansky, P., *Ecology and Empire: The Structure of the Urartian State*, 1985.
 
 ### B4. Vergleich der Fluthelden-Charaktere
-**[COMPARATIVE PARALLEL -- VERIFIZIERT]**
+**[VERGLEICHENDE PARALLELE — VERIFIZIERT]**
 
 | Merkmal | Ziusudra (Sumerisch) | Utnapischtim (Akkadisch) | Atrahasis | Noach (Genesis) |
 |---|---|---|---|---|
-| Art der Warnung | Goettliche Vision | Gott spricht durch eine Wand | Gott spricht direkt | Gott spricht direkt |
-| Rolle | Koenig und Priester | Koenig | Weiser Mann | Gerechter Mann (*tsaddiq*) |
+| Art der Warnung | Göttliche Vision | Gott spricht durch eine Wand | Gott spricht direkt | Gott spricht direkt |
+| Rolle | König und Priester | König | Weiser Mann | Gerechter Mann (*tsaddiq*) |
 | Schicksal nach der Flut | Ewiges Leben in Dilmun | Ewiges Leben am Weltrand | Unklar | Sterblich -- stirbt mit 950 |
-| Rede nach der Flut | Verehrung des Sonnengottes | Erzaehlung an Gilgamesch | Nicht ueberliefert | Fluch ueber Kenaan (9:25) |
-| Namensbedeutung | "Leben langer Tage" | "Er fand Leben" | "Uebermaessig weise" | "Ruhe/Trost" (*n-w-ch*) |
+| Rede nach der Flut | Verehrung des Sonnengottes | Erzählung an Gilgamesch | Nicht überliefert | Fluch über Kenaan (9:25) |
+| Namensbedeutung | "Leben langer Tage" | "Er fand Leben" | "Übermässig weise" | "Ruhe/Trost" (*n-w-ch*) |
 
-Genesis ist distinktiv: Noach erlangt keine Unsterblichkeit; sein Name wurzelt in menschlicher Erfahrung statt in einem goettlichen Attribut; und seine einzige aufgezeichnete Rede ist ein Fluch, kein Lob. Die Beobachtung der TT, dass Noachs Schweigen (6:9-9:24) und seine erste Rede (9:25) strukturell bewusst sind, wird durch diesen vergleichenden Kontext verstaerkt.
+Genesis ist distinktiv: Noach erlangt keine Unsterblichkeit; sein Name wurzelt in menschlicher Erfahrung statt in einem göttlichen Attribut; und seine einzige aufgezeichnete Rede ist ein Fluch, kein Lob. Die Beobachtung der TT, dass Noachs Schweigen (6:9-9:24) und seine erste Rede (9:25) strukturell bewusst sind, wird durch diesen vergleichenden Kontext verstärkt.
 
 **Quelle:** George, A.R., *The Babylonian Gilgamesh Epic*, Oxford, 2003; Jacobsen, T., *The Harps That Once*, Yale, 1987.
 
 ---
 
-## C. Historischer und Archaeologischer Kontext
+## C. Historischer und Archäologischer Kontext
 
 ### C1. Das Olivenblatt -- botanische Evidenz
-**[HISTORICAL / ARCHAEOLOGICAL -- WAHRSCHEINLICH]**
+**[HISTORISCH / ARCHÄOLOGISCH — WAHRSCHEINLICH]**
 
-Der Olivenbaum (*zayit*) ist im oestlichen Mittelmeerraum heimisch und gedeiht in der Levante. Das Detail eines "frisch gepflueckten Olivenblatts" (8:11) verortet die Erzaehlung in einer mediterranen oekologischen Zone. Olivenbaeume koennen ausgedehnte Ueberflutungen ueberleben -- sie regenerieren sich aus dem Wurzelstock auch nach Ueberflutung. Das Detail ist botanisch plausibel fuer eine regionale Flut im Vorderen Orient.
+Der Olivenbaum (*zayit*) ist im östlichen Mittelmeerraum heimisch und gedeiht in der Levante. Das Detail eines "frisch gepflückten Olivenblatts" (8:11) verortet die Erzählung in einer mediterranen ökologischen Zone. Olivenbäume können ausgedehnte Überflutungen überleben -- sie regenerieren sich aus dem Wurzelstock auch nach Überflutung. Das Detail ist botanisch plausibel für eine regionale Flut im Vorderen Orient.
 
 **Quelle:** Zohary, D. & Hopf, M., *Domestication of Plants in the Old World*, Oxford, 3. Aufl., 2000.
 
-### C2. Erster Altar -- *mizbeach* im archaeologischen Kontext
-**[HISTORICAL / ARCHAEOLOGICAL -- WAHRSCHEINLICH]**
+### C2. Erster Altar -- *mizbeach* im archäologischen Kontext
+**[HISTORISCH / ARCHÄOLOGISCH — WAHRSCHEINLICH]**
 
-Gn 8:20: Noach baut den ersten *mizbeach* (Altar) in der biblischen Erzaehlung. Die fruehesten archaeologischen Belege fuer strukturierte Opferinstallationen im Vorderen Orient stammen aus dem vorkeramischen Neolithikum (ca. 9000-7000 v.u.Z.). Freiluftaltaere aus unbehauenen Steinen sind die einfachste und aelteste Form.
+Gn 8:20: Noach baut den ersten *mizbeach* (Altar) in der biblischen Erzählung. Die frühesten archäologischen Belege für strukturierte Opferinstallationen im Vorderen Orient stammen aus dem vorkeramischen Neolithikum (ca. 9000-7000 v.u.Z.). Freiluftaltäre aus unbehaünen Steinen sind die einfachste und älteste Form.
 
 ---
 
 ## D. Linguistische Vertiefungen
 
 ### D1. *Nichoach* -- der "ruhende" Duft
-**[TEXTUAL -- VERIFIZIERT]**
+**[TEXTUELL — VERIFIZIERT]**
 
-Gn 8:21: רֵיחַ הַנִּיחֹחַ (*reach ha-nichoach*). Das Wort *nichoach* stammt von der Wurzel נ-ו-ח -- derselben Wurzel wie Noachs Name. Der wohlgefaellige/beruhigende Duft ist woertlich ein "ruhender" Duft. Das Opfer Noachs erzeugt einen *Noach-Duft*. Dieses Wortspiel ist in den meisten Uebersetzungen unsichtbar, die "wohlgefaelliger Duft" wiedergeben, ohne ihn mit dem Namen des Protagonisten zu verbinden.
+Gn 8:21: רֵיחַ הַנִּיחֹחַ (*reach ha-nichoach*). Das Wort *nichoach* stammt von der Wurzel נ-ו-ח -- derselben Wurzel wie Noachs Name. Der wohlgefällige/beruhigende Duft ist wörtlich ein "ruhender" Duft. Das Opfer Noachs erzeugt einen *Noach-Duft*. Dieses Wortspiel ist in den meisten Übersetzungen unsichtbar, die "wohlgefälliger Duft" wiedergeben, ohne ihn mit dem Namen des Protagonisten zu verbinden.
 
 ### D2. *Manoach* -- wo die Taube nicht ruhen kann
-**[TEXTUAL -- VERIFIZIERT]**
+**[TEXTUELL — VERIFIZIERT]**
 
-Gn 8:9: "die Taube fand keinen *manoach* fuer die Sohle ihres Fusses." *Manoach* = Ruheplatz, von der Wurzel n-w-ch. Die Taube sucht einen "Noach-Platz" und kann keinen finden. Das Wortspiel ist dicht: der Mann mit dem Namen Ruhe (*Noach*) sendet einen Vogel, der keine Ruhe (*manoach*) finden kann in einer Welt, in der das Gefaess geruht hat (*tanach*), aber der Boden noch nicht getrocknet ist.
+Gn 8:9: "die Taube fand keinen *manoach* für die Sohle ihres Fusses." *Manoach* = Ruheplatz, von der Wurzel n-w-ch. Die Taube sucht einen "Noach-Platz" und kann keinen finden. Das Wortspiel ist dicht: der Mann mit dem Namen Ruhe (*Noach*) sendet einen Vogel, der keine Ruhe (*manoach*) finden kann in einer Welt, in der das Gefäss geruht hat (*tanach*), aber der Boden noch nicht getrocknet ist.
 
 ---
 
-## G. Kuriositaeten und Offene Fragen
+## E. Wissenschaftliche Entsprechung und Nicht-Entsprechung
+
+### E1. Nachsintflutliche ökologische Erholung — das Olivenblatt
+**[WISSENSCHAFTLICHER VERGLEICH — MÖGLICH]**
+
+Genesis 8:11 sagt, die Taube kehrte zurück mit „einem frisch gepflückten Olivenblatt (*aleh zayit taraf*) in ihrem Schnabel." In der postkatastrophalen Ökologie folgt die Vegetationserholung einer vorhersagbaren Sukzession: Pionierpflanzen (Gräser, Unkräuter) erscheinen zuerst, gefolgt von Sträuchern, dann Bäumen. Olivenbäume (*Olea europaea*) sind bemerkenswert widerstandsfähig — sie können sich aus dem Wurzelstock regenerieren, selbst nach schwerer Schädigung einschliesslich Überflutung, und innerhalb von Monaten neue Triebe bilden. Der Olivenbaum ist zudem salztolerant. Wenn die Erzählung regionale mesopotamische Überschwemmungen widerspiegelt, ist das Olivenblatt ein botanisch plausibles frühes Zeichen der Erholung. Der Text verwendet das Olivenblatt als Zeichen, dass „die Wasser sich vom Land gelöst hatten" (8:11) — eine narrative Markierung, kein botanischer Bericht. Die Übereinstimmung mit der Olivenbiologie ist beobachtbar, aber nebensächlich zum Zweck des Textes.
+
+---
+
+## G. Kuriositäten und Offene Fragen
 
 ### G1. Der Rabe -- was geschah?
-**[TEXTUAL -- MOEGLICH]**
+**[TEXTUELL — MOEGLICH]**
 
-Gn 8:7: der Rabe "ging aus, ausgehend und zurueckkehrend, bis die Wasser trockneten von auf dem Land." Was bedeutet "ausgehend und zurueckkehrend"? (1) Er flog hin und her, ohne zu landen -- kreisend, ohne sich niederzulassen; (2) er flog hinaus und kam wiederholt zur Tebah zurueck; (3) er verliess die Tebah und kehrte nicht zurueck -- "zurueckkehrend" bezieht sich auf die Wasser, die zurueckweichen. Das Hebraeische ist genuein mehrdeutig. Der Rabe liefert keine nuetzliche Information; es ist die Taube, die den Zustand des Landes offenbart.
+Gn 8:7: der Rabe "ging aus, ausgehend und zurückkehrend, bis die Wasser trockneten von auf dem Land." Was bedeutet "ausgehend und zurückkehrend"? (1) Er flog hin und her, ohne zu landen -- kreisend, ohne sich niederzulassen; (2) er flog hinaus und kam wiederholt zur Tebah zurück; (3) er verliess die Tebah und kehrte nicht zurück -- "zurückkehrend" bezieht sich auf die Wasser, die zurückweichen. Das Hebräische ist genuin mehrdeutig. Der Rabe liefert keine nützliche Information; es ist die Taube, die den Zustand des Landes offenbart.
 
 ### G2. Warum das Olivenblatt?
-**[TEXTUAL -- MOEGLICH]**
+**[TEXTUELL — MOEGLICH]**
 
-Das Olivenblatt (8:11) ist zu einem dauerhaften Symbol des Friedens geworden. Aber der Text schreibt diese Bedeutung nicht zu. Im Kontext beweist das Olivenblatt: (1) die Wasser sind genug zurueckgegangen, dass Tiefland-Vegetation freigelegt ist; (2) lebendes Pflanzenmaterial ueberlebt -- die biologische Welt erholt sich. Die Friedenssymbolik ist eine spaetere kulturelle Anlagerung, nicht im hebraeischen Text vorhanden.
+Das Olivenblatt (8:11) ist zu einem daürhaften Symbol des Friedens geworden. Aber der Text schreibt diese Bedeutung nicht zu. Im Kontext beweist das Olivenblatt: (1) die Wasser sind genug zurückgegangen, dass Tiefland-Vegetation freigelegt ist; (2) lebendes Pflanzenmaterial überlebt -- die biologische Welt erholt sich. Die Friedenssymbolik ist eine spätere kulturelle Anlagerung, nicht im hebräischen Text vorhanden.
 
-### G3. "Sprach in seinem Herzen" -- goettliche Innerlichkeit
-**[TEXTUAL -- VERIFIZIERT]**
+### G3. "Sprach in seinem Herzen" -- göttliche Innerlichkeit
+**[TEXTUELL — VERIFIZIERT]**
 
-Gn 8:21: "JHWH sprach in seinem Herzen" (*el-libbo*). Dies ist innere goettliche Rede -- Gott, der bei sich selbst entscheidet, nicht zu Noach spricht. Dem menschlichen Leser wird Zugang zu Gottes innerem Gedanken gewaehrt. Dies loest sich privat; der oeffentliche Bund folgt in Gn 9. Der innere Entschluss geht der aeusseren Verpflichtung voraus und begruendet sie.
+Gn 8:21: "JHWH sprach in seinem Herzen" (*el-libbo*). Dies ist innere göttliche Rede -- Gott, der bei sich selbst entscheidet, nicht zu Noach spricht. Dem menschlichen Leser wird Zugang zu Gottes innerem Gedanken gewährt. Dies löst sich privat; der öffentliche Bund folgt in Gn 9. Der innere Entschluss geht der äußeren Verpflichtung voraus und begründet sie.
 
-Der goettliche innere Monolog ist eine anerkannte literarische Konvention in AO-Texten. In der aegyptischen Memphitischen Theologie erschafft der Gott Ptah durch Denken "im Herzen", bevor er den verbalen Befehl gibt. Das Mittel stellt goettliche Entscheidungsfindung als ueberlegt und begruendet dar, nicht als impulsiv. Die TT gibt es woertlich wieder und bewahrt die anthropomorphe, aber wuerdevolle Darstellung.
+Der göttliche innere Monolog ist eine anerkannte literarische Konvention in AO-Texten. In der ägyptischen Memphitischen Theologie erschafft der Gott Ptah durch Denken "im Herzen", bevor er den verbalen Befehl gibt. Das Mittel stellt göttliche Entscheidungsfindung als überlegt und begründet dar, nicht als impulsiv. Die TT gibt es wörtlich wieder und bewahrt die anthropomorphe, aber würdevolle Darstellung.
 
 ### G4. Die Flut als genau ein Jahr
-**[TEXTUAL -- WAHRSCHEINLICH]**
+**[TEXTUELL — WAHRSCHEINLICH]**
 
-Die Flut beginnt am Monat 2, Tag 17 (7:11), und das Land ist vollstaendig trocken am Monat 2, Tag 27 (8:14) -- ungefaehr ein Sonnenjahr (370-371 Tage). Einige Wissenschaftler argumentieren, dies passe genau zu einem 364-Tage-Kalender (bekannt aus Jubilaeen und 1. Henoch) plus Anpassungen. Ob die Chronologie historisch, literarisch oder liturgisch ist, die Rahmung als nahezu exaktes Jahr ist ein strukturelles Merkmal der Erzaehlung.
+Die Flut beginnt am Monat 2, Tag 17 (7:11), und das Land ist vollständig trocken am Monat 2, Tag 27 (8:14) -- ungefähr ein Sonnenjahr (370-371 Tage). Einige Wissenschaftler argumentieren, dies passe genau zu einem 364-Tage-Kalender (bekannt aus Jubiläen und 1. Henoch) plus Anpassungen. Ob die Chronologie historisch, literarisch oder liturgisch ist, die Rahmung als nahezu exaktes Jahr ist ein strukturelles Merkmal der Erzählung.
+
+### G6. Rabe und Taube als Kundschafter — ornithologisches Verhalten
+**[WISSENSCHAFTLICHER VERGLEICH — MÖGLICH]**
+
+Genesis 8:6–12 sendet zwei Vögel aus: der Rabe (*orev*) „ging aus, gehend und zurückkehrend" (8:7) ohne Ergebnis; die Taube (*yonah*) kehrt zurück, ohne Ruhe zu finden (8:8–9), kehrt dann mit einem Olivenblatt zurück (8:10–11), kehrt dann nicht zurück (8:12). In der Ornithologie sind Raben (*Corvus corax*) allesfressende Aasfresser, die sich von schwimmendem Aas und Treibgut ernähren können — sie können ohne trockenes Land überleben. Tauben (*Columba*) sind körnerfressend und benötigen trockenen Boden mit Vegetation zur Nahrungssuche. Das unterschiedliche Verhalten beider Vögel — der Rabe, der sich über Wasser versorgt, die Taube, die Land braucht — stimmt mit ihren tatsächlichen ökologischen Nischen überein. Altorientalische Parallelen zeigen ähnliche Vogelaussendungs-Motive (Gilgamesch XI sendet Taube, Schwalbe, Rabe aus), was auf eine gemeinsame Erzähltradition hindeutet. Ob der Genesis-Autor Vogelökologie empirisch kannte, das Motiv aus der Tradition übernahm, oder beides, der Text wählt Vögel, deren reales Verhalten ihrer narrativen Funktion entspricht.
+
+### G5. „Nie wieder" — göttliche Selbstbegrenzung als ethisches Konzept
+**[MÖGLICHE SCHLUSSFOLGERUNG — WAHRSCHEINLICH]**
+
+Genesis 8:21–22 präsentiert JHWH bei einer inneren Verpflichtung („sprach in seinem Herzen"), nie wieder den Erdboden zu verfluchen oder alles Lebende zu schlagen um der Menschheit willen — und die angegebene Begründung ist verblüffend: „denn die Neigung des menschlichen Herzens ist böse von seiner Jugend an." Dieselbe Diagnose, die die Vernichtung auslöste (6:5), löst nun Zurückhaltung aus. In der philosophischen Theologie ist dies ein Fall göttlicher Selbstbegrenzung: Gott schränkt freiwillig künftiges Handeln ein und akzeptiert den fehlerhaften Zustand, anstatt wiederholt zu vernichten. Dies wirft Fragen auf, die in der Prozesstheologie und Theodizee behandelt werden: Kann das Göttliche seine Strategie ändern? Stellt dies Lernen, Mitgefühl oder souveräne Freiheit dar? Der Text löst diese Fragen nicht — er präsentiert die Umkehrung („böse Neigung" als Grund zur Vernichtung wird zu „böse Neigung" als Grund zur Nachsicht) und lässt das Paradox stehen.
 
 ---
 
@@ -190,11 +209,11 @@ Die Flut beginnt am Monat 2, Tag 17 (7:11), und das Land ist vollstaendig trocke
 
 | Quelle | Typ | Abschnitte |
 |--------|-----|------------|
-| BHS, 5. rev. Aufl. (Deutsche Bibelgesellschaft, 1997) | Primaertext | Alle |
-| George, A.R., *The Babylonian Gilgamesh Epic*, Oxford, 2003 | Sekundaer (AO) | B1, B2 |
-| Zimansky, P., *Ecology and Empire*, 1985 | Sekundaer (Urartu) | B3 |
-| Zohary, D. & Hopf, M., *Domestication of Plants*, 2000 | Sekundaer (Botanik) | C1 |
-| Jacobsen, T., *The Harps That Once*, Yale, 1987 | Sekundaer (Sumerisch) | B4 |
+| BHS, 5. rev. Aufl. (Deutsche Bibelgesellschaft, 1997) | Primärtext | Alle |
+| George, A.R., *The Babylonian Gilgamesh Epic*, Oxford, 2003 | Sekundär (AO) | B1, B2 |
+| Zimansky, P., *Ecology and Empire*, 1985 | Sekundär (Urartu) | B3 |
+| Zohary, D. & Hopf, M., *Domestication of Plants*, 2000 | Sekundär (Botanik) | C1 |
+| Jacobsen, T., *The Harps That Once*, Yale, 1987 | Sekundär (Sumerisch) | B4 |
 | Wenham, G.J., "Coherence of the Flood Narrative," *VT* 28, 1978 | Artikel (Chiasmus) | A9 |
 | Cassuto, U., *Commentary on Genesis*, Bd. 2, 1964 | Kommentar | A, G4 |
 
@@ -203,4 +222,4 @@ Die Flut beginnt am Monat 2, Tag 17 (7:11), und das Land ist vollstaendig trocke
 **Editoriale Herkunft:**
 - Entworfen von: Claude Opus 4.6 (KI-Assistent)
 - Datum: 2026-04-24
-- Ueberprueft von: ausstehend
+- Überprüft von: ausstehend

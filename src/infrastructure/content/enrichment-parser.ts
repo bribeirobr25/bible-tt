@@ -4,15 +4,16 @@ import type {
   EnrichmentData,
   EnrichmentEntry,
   EnrichmentSection,
+  IntroductionData,
 } from "@/domain/content/types";
 
 const SECTION_HEADER = /^## ([A-H])\.\s+(.+)$/;
 const ENTRY_HEADER = /^### (.+)$/;
 const LABEL_LINE = /^\*\*\[(.+?)\s*(?:—|--)\s*(.+?)\]\*\*$/;
-const SOURCE_LINE = /^\*\*(?:Source|Quelle|Fonte):\*\*\s*(.+)$/;
+const SOURCE_LINE = /^\*\*(?:Source|Quelle|Fonte|Fuente):\*\*\s*(.+)$/;
 
 const SECTION_IDS: Record<string, string> = {
-  A: "hebrew-text-features",
+  A: "source-text-features",
   B: "ane-parallels",
   C: "historical-archaeological",
   D: "linguistic-philological",
@@ -22,16 +23,27 @@ const SECTION_IDS: Record<string, string> = {
   H: "sources",
 };
 
+const INTRODUCTION_SECTION_IDS: Record<string, string> = {
+  A: "overview",
+  B: "authorship",
+  C: "dating",
+  D: "historical-setting",
+  E: "manuscript-transmission",
+  F: "reading-in-tt",
+  G: "sources",
+};
+
 function parseClaimType(raw: string): ClaimType {
   const normalized = raw.trim().toUpperCase();
-  if (normalized.includes("TEXTUAL")) return "TEXTUAL";
-  if (normalized.includes("STRONG INFERENCE")) return "STRONG INFERENCE";
-  if (normalized.includes("POSSIBLE INFERENCE")) return "POSSIBLE INFERENCE";
-  if (normalized.includes("COMPARATIVE")) return "COMPARATIVE PARALLEL";
-  if (normalized.includes("LATER RECEPTION") || normalized.includes("DOCUMENTED")) return "LATER RECEPTION";
-  if (normalized.includes("HISTORICAL") || normalized.includes("ARCHAEOLOGICAL")) return "HISTORICAL / ARCHAEOLOGICAL";
-  if (normalized.includes("SCIENTIFIC")) return "SCIENTIFIC COMPARISON";
-  if (normalized.includes("SPECULATION") || normalized.includes("SPECULATIVE")) return "SPECULATION";
+  if (normalized.includes("TEXTUAL") || normalized.includes("TEXTUELL")) return "TEXTUAL";
+  if (normalized.includes("STRONG INFERENCE") || normalized.includes("INFERÊNCIA FORTE") || normalized.includes("INFERENCIA FUERTE") || normalized.includes("STARKE SCHLUSSFOLGERUNG")) return "STRONG INFERENCE";
+  if (normalized.includes("POSSIBLE INFERENCE") || normalized.includes("INFERÊNCIA POSSÍVEL") || normalized.includes("INFERENCIA POSIBLE") || normalized.includes("MÖGLICHE SCHLUSSFOLGERUNG")) return "POSSIBLE INFERENCE";
+  if (normalized.includes("COMPARATIVE") || normalized.includes("COMPARATIVO") || normalized.includes("VERGLEICHENDE")) return "COMPARATIVE PARALLEL";
+  if (normalized.includes("LATER RECEPTION") || normalized.includes("RECEPÇÃO POSTERIOR") || normalized.includes("RECEPCIÓN POSTERIOR") || normalized.includes("SPÄTERE REZEPTION")) return "LATER RECEPTION";
+  if (normalized.includes("HISTORICAL") || normalized.includes("ARCHAEOLOGICAL") || normalized.includes("HISTÓRICO") || normalized.includes("ARQUEOLÓGICO") || normalized.includes("HISTORISCH") || normalized.includes("ARCHÄOLOGISCH")) return "HISTORICAL / ARCHAEOLOGICAL";
+  if (normalized.includes("SCIENTIFIC") || normalized.includes("CIENTÍFICA") || normalized.includes("CIENTÍFICO") || normalized.includes("WISSENSCHAFTLICH")) return "SCIENTIFIC COMPARISON";
+  if (normalized.includes("SPECULATION") || normalized.includes("SPECULATIVE") || normalized.includes("ESPECULAÇÃO") || normalized.includes("ESPECULACIÓN") || normalized.includes("SPEKULATION")) return "SPECULATION";
+  console.warn(`Unrecognized claim type label: "${raw}", falling back to TEXTUAL`);
   return "TEXTUAL";
 }
 
@@ -39,19 +51,18 @@ function parseConfidence(raw: string): ConfidenceLevel {
   const normalized = raw.trim().toUpperCase();
   if (normalized.includes("VERIFIED") || normalized.includes("VERIFIZIERT") || normalized.includes("VERIFICADO")) return "VERIFIED";
   if (normalized.includes("PROBABLE") || normalized.includes("WAHRSCHEINLICH") || normalized.includes("PROVÁVEL") || normalized.includes("PROVAVEL")) return "PROBABLE";
-  if (normalized.includes("POSSIBLE") || normalized.includes("MOEGLICH") || normalized.includes("MÖGLICH") || normalized.includes("POSSÍVEL") || normalized.includes("POSSIVEL")) return "POSSIBLE";
-  if (normalized.includes("UNCERTAIN") || normalized.includes("UNGEWISS") || normalized.includes("INCERTO")) return "UNCERTAIN";
+  if (normalized.includes("POSSIBLE") || normalized.includes("MOEGLICH") || normalized.includes("MÖGLICH") || normalized.includes("POSSÍVEL") || normalized.includes("POSSIVEL") || normalized.includes("POSIBLE")) return "POSSIBLE";
+  if (normalized.includes("UNCERTAIN") || normalized.includes("UNGEWISS") || normalized.includes("INCERTO") || normalized.includes("INCIERTO")) return "UNCERTAIN";
   if (normalized.includes("SPECULATIVE") || normalized.includes("SPEKULATIV") || normalized.includes("ESPECULATIVO")) return "SPECULATIVE";
-  if (normalized.includes("EXPLICIT") || normalized.includes("EXPLIZIT") || normalized.includes("EXPLÍCITO") || normalized.includes("EXPLICITO")) return "VERIFIED";
-  if (normalized.includes("DOCUMENTED") || normalized.includes("DOKUMENTIERT") || normalized.includes("DOCUMENTADO")) return "VERIFIED";
+  if (normalized.includes("DOCUMENTED") || normalized.includes("DOKUMENTIERT") || normalized.includes("DOCUMENTADO")) return "DOCUMENTED";
+  console.warn(`Unrecognized confidence label: "${raw}", falling back to POSSIBLE`);
   return "POSSIBLE";
 }
 
-export function parseEnrichmentMarkdown(
+function parseMarkdownSections(
   raw: string,
-  book: string,
-  chapter: number,
-): EnrichmentData {
+  sectionIds: Record<string, string>,
+): { disclaimer: string; sections: EnrichmentSection[] } {
   const lines = raw.split("\n");
 
   let disclaimer = "";
@@ -74,7 +85,7 @@ export function parseEnrichmentMarkdown(
         currentEntry = null;
       }
       if (currentSection) {
-        sections.push(finalizeSection(currentSection));
+        sections.push(finalizeSection(currentSection, sectionIds));
       }
       currentSection = {
         letter: sectionMatch[1],
@@ -122,10 +133,27 @@ export function parseEnrichmentMarkdown(
     currentSection.entries.push(finalizeEntry(currentEntry));
   }
   if (currentSection) {
-    sections.push(finalizeSection(currentSection));
+    sections.push(finalizeSection(currentSection, sectionIds));
   }
 
+  return { disclaimer, sections };
+}
+
+export function parseEnrichmentMarkdown(
+  raw: string,
+  book: string,
+  chapter: number,
+): EnrichmentData {
+  const { disclaimer, sections } = parseMarkdownSections(raw, SECTION_IDS);
   return { book, chapter, disclaimer, sections };
+}
+
+export function parseIntroductionMarkdown(
+  raw: string,
+  book: string,
+): IntroductionData {
+  const { disclaimer, sections } = parseMarkdownSections(raw, INTRODUCTION_SECTION_IDS);
+  return { book, disclaimer, sections };
 }
 
 function finalizeEntry(raw: {
@@ -144,13 +172,16 @@ function finalizeEntry(raw: {
   };
 }
 
-function finalizeSection(raw: {
-  letter: string;
-  title: string;
-  entries: EnrichmentEntry[];
-}): EnrichmentSection {
+function finalizeSection(
+  raw: {
+    letter: string;
+    title: string;
+    entries: EnrichmentEntry[];
+  },
+  sectionIds: Record<string, string>,
+): EnrichmentSection {
   return {
-    id: SECTION_IDS[raw.letter] || raw.letter.toLowerCase(),
+    id: sectionIds[raw.letter] || raw.letter.toLowerCase(),
     title: raw.title,
     entries: raw.entries,
   };

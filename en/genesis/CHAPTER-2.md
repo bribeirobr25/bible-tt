@@ -7,7 +7,7 @@
 **Base Text:** Biblia Hebraica Stuttgartensia, 5th rev. ed. (Stuttgart: Deutsche Bibelgesellschaft, 1997)
 **Edition:** Transparent Edition
 **Language:** English
-**Methodology:** 29-Rule Governance System (Ruleset v2.5)
+**Methodology:** 29-Rule Governance System (Ruleset v3.0)
 **Divine Name Policy (Rule 25):** Option A — Consonantal (YHWH). **Triggered in this chapter at v.4.**
 **Status:** provisional — pending reviewer sign-off (Rule 28)
 **Reviewers:** Hebraist: unassigned | EN editor: unassigned | Cross-alignment: unassigned
@@ -42,6 +42,16 @@
 **This chapter follows Rule 23 (Genre Sensitivity):** Genesis 1's locked formulas do NOT mechanically apply here. Genesis 2 is narrative, not liturgical rhythm.
 
 **Adam / Human Policy (Rule 17 standing note):** Hebrew אָדָם (*adam*) oscillates between generic *"human / humanity"* and, potentially, the proper name *Adam*. The definite article (*ha-adam* = "the human") signals generic use; article absence is contextually ambiguous. **This translation renders "the human" throughout Genesis 2–3**, even in anarthrous occurrences (2:20, 3:17, 3:21), to preserve the ongoing wordplay with *adamah* (ground) and avoid premature proper-name commitment. Transition to proper-name *Adam* is formally resolved in Genesis 4.
+
+## CHAPTER OVERVIEW
+
+**What happens:** A second creation account begins at 2:4 with a different sequence and focus. YHWH God forms the human from dust, plants a garden in Eden with two named trees, places the human there to work and keep it, gives the command about the tree of knowledge, declares "not good" for the human to be alone, forms animals, and builds the woman from the human's side.
+
+**Key themes:** The *toledot* formula (2:4); YHWH God (combined divine name); formation from *adamah* (ground) — the *adam/adamah* wordplay; the garden as bounded space; the tree of knowledge and the tree of life; the command and its consequence ("dying you shall die"); naming as ordering; "one flesh."
+
+**Watch for:** The divine name shifts to YHWH Elohim (2:4 onward); the different creation order from Chapter 1 (human before animals in 2:7, 19); the "not good" — the only negative assessment in creation; the *tardemah* (deep sleep); "bone of my bones" as the first human speech.
+
+**Connection:** The trees introduced here — knowledge and life — drive the narrative of Chapter 3. The relationship between the human and the ground (*adam/adamah*) becomes the basis for the curse in 3:17–19.
 
 ---
 

@@ -7,7 +7,7 @@
 **Base Text:** Biblia Hebraica Stuttgartensia, 5th rev. ed. (Stuttgart: Deutsche Bibelgesellschaft, 1997)
 **Edition:** Transparent Edition
 **Language:** English
-**Methodology:** 29-Rule Governance System (Ruleset v2.5)
+**Methodology:** 29-Rule Governance System (Ruleset v3.0)
 **Divine Name Policy (Rule 25):** Option A — Consonantal (YHWH).
 **Status:** provisional — pending reviewer sign-off (Rule 28)
 **Reviewers:** Hebraist: unassigned | EN editor: unassigned | Cross-alignment: unassigned
@@ -40,6 +40,18 @@
 - 🟡 **THEOLOGICAL** - Interpretive options, ambiguity preservation
 
 **This chapter contains some of the most contested passages in Genesis.** The TT preserves every ambiguity the Hebrew preserves. "Sons of God/the gods" is slashed per Rule 2. "Nephilim" is transliterated per Rule 4. The flood-narrative tensions (two of each vs. seven pairs) are presented as the MT reads them, without harmonization (Rule 22).
+
+---
+
+## CHAPTER OVERVIEW
+
+**What happens:** The "sons of God/the gods" (*bene ha-elohim*) take human wives. YHWH limits human lifespan to 120 years. The nephilim are on the land. YHWH sees total human evil, regrets making humanity, and resolves to destroy. But Noach finds favor. God instructs Noach to build a *tebah* (box/ark) with specific dimensions, announces the flood, establishes the first covenant (*berit*), and commands Noach to bring animals aboard.
+
+**Key themes:** The *bene ha-elohim* — triple ambiguity preserved (divine beings, rulers, Sethite line); the nephilim (transliterated, not "giants"); *yadon* — genuinely uncertain verb (remain/contend); divine regret (*nacham* — same root as Noach's name); "God saw" inverted (creation: "saw that good" → here: "saw that great was the evil"); *chamas* (violence) as the named sin; the *tebah* as a sealed container, not a ship; *kopher/kippur* wordplay (pitch/atonement).
+
+**Watch for:** The destruction order (6:7) reverses the creation order; YHWH appears in vv.1–8 (emotional, relational), Elohim in vv.9–22 (instructional, covenantal); the first occurrence of *berit* (covenant) in the Bible — announced before its terms are disclosed; "two from all" (6:19) vs. "seven pairs" of clean animals (7:2) — an internal tension the TT preserves.
+
+**Connection:** The *nacham* root links 5:29 (Noach = comfort) with 6:6 (YHWH regretted). The flood reverses Day 2's water-separation (1:6–7), making the flood a de-creation event continued in Chapters 7–8.
 
 ---
 
@@ -221,7 +233,7 @@ And God said to Noach, "The end of all flesh has come before me, for the land is
 > **📝 NOTES**
 >
 > 🔵 **"WITH THE LAND"**
-> - **אֶת־הָאָרֶץ** (*et-ha-aretz*) — "with the land" or "and the land." The destruction encompasses not just humanity but the land itself. The earth participates in the judgment.
+> - **אֶת־הָאָרֶץ** (*et-ha-aretz*) — "with the land" or "and the land." The destruction encompasses not just humanity but the land itself. The land participates in the judgment.
 
 ---
 

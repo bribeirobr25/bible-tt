@@ -10,8 +10,8 @@
 **Chapter:** Genesis 1
 **Language:** English
 **Companion to:** `en/genesis/CHAPTER-1.md` (Transparent Edition)
-**Ruleset:** v2.5 (Rule 29 governs this file)
-**Status:** pilot draft
+**Ruleset:** v3.0 (Rule 29 governs this file)
+**Status:** provisional
 
 ---
 
@@ -20,21 +20,6 @@
 This file contains background material organized by topic. Each entry carries **two labels:**
 
 **What kind of claim?** (tells you the source of the information)
-- **TEXTUAL** — observable in the Hebrew text itself. Most reliable.
-- **COMPARATIVE PARALLEL** — attested in another ancient source. Shows context, not dependence.
-- **LATER RECEPTION** — how post-biblical traditions read the text. Not the text's own meaning.
-- **SCIENTIFIC COMPARISON** — modern observation placed alongside the text. Neither proves nor disproves.
-
-**How certain?** (tells you the confidence level)
-- **VERIFIED** — strong evidence, wide agreement
-- **PROBABLE** — well-supported but debated
-- **POSSIBLE** — one reasonable reading among others
-- **UNCERTAIN** — genuinely unclear
-
-**Reading principle:** Start with TEXTUAL entries — those come from the Hebrew itself. Then explore outward to parallels, reception, and comparison. The companion presents; you assess.
-
-## FULL LABELING KEY
-
 - **TEXTUAL** — derived directly from the Hebrew text
 - **STRONG INFERENCE** — logically entailed by the text, not stated explicitly
 - **POSSIBLE INFERENCE** — one legitimate reading among others
@@ -44,7 +29,15 @@ This file contains background material organized by topic. Each entry carries **
 - **SCIENTIFIC COMPARISON** — modern empirical observation compared to text
 - **SPECULATION** — no strong textual or evidential basis
 
-Confidence: **VERIFIED** / **PROBABLE** / **POSSIBLE** / **UNCERTAIN** / **SPECULATIVE**
+**How certain?** (tells you the confidence level)
+- **VERIFIED** — strong evidence, wide agreement
+- **PROBABLE** — well-supported but debated
+- **POSSIBLE** — one reasonable reading among others
+- **UNCERTAIN** — genuinely unclear
+- **SPECULATIVE** — must be rare and clearly flagged
+- **DOCUMENTED** — historically attested reception (for LATER RECEPTION entries)
+
+**Reading principle:** Start with TEXTUAL entries — those come from the Hebrew itself. Then explore outward to parallels, reception, and comparison. The companion presents; you assess.
 
 ---
 
@@ -61,7 +54,7 @@ This is a genuine textual feature the TT exposes — not an interpretive claim. 
 **Avoid:** "Water was always there" — that goes beyond what the text states.
 
 ### A2. Vegetarian diet assigned to both humans and animals
-**[TEXTUAL — EXPLICIT]**
+**[TEXTUAL — VERIFIED]**
 
 Genesis 1:29–30 assigns plant food to humans ("every herb seeding seed... every tree... to you it shall be for food") and to animals ("every green herb shall be for food"). No permission to eat meat appears in Genesis 1.
 
@@ -106,10 +99,10 @@ However, the text does not use the concept of "law" or "rule" in any scientific 
 
 **Avoid:** "Genesis 1 describes the creation of gravity, physics, DNA, and quantum mechanics" — concordist overreach. Also avoid the reverse: "Genesis 1 contradicts science because it doesn't mention physical laws" — anti-concordist overreach. Both impose modern categories on an ancient text. The text establishes *order*, not *law* in the modern sense.
 
-### A5b. Two creation modes — direct fiat vs. delegated creation
+### A5b. Two creation modes — direct command vs. delegated creation
 **[TEXTUAL — VERIFIED]**
 
-Genesis 1 contains two distinct creation patterns: (a) God creates directly by fiat — "let there be light" (v.3), God makes the raqia (v.7), God makes the luminaries (v.16), God creates sea creatures (v.21), God creates humanity (v.27). In these, God is the sole agent. (b) God commands creation itself to create — "let the **land** bring forth vegetation" (v.11), "let the **waters** swarm with living beings" (v.20), "let the **land** bring forth living beings" (v.24). In pattern (b), the land and waters receive **generative agency** — they become participants in creation, not merely passive material.
+Genesis 1 contains two distinct creation patterns: (a) God creates directly by command — "let there be light" (v.3), God makes the raqia (v.7), God makes the luminaries (v.16), God creates sea creatures (v.21), God creates humanity (v.27). In these, God is the sole agent. (b) God commands creation itself to create — "let the **land** bring forth vegetation" (v.11), "let the **waters** swarm with living beings" (v.20), "let the **land** bring forth living beings" (v.24). In pattern (b), the land and waters receive **the ability to generate life on their own** — they become participants in creation, not merely passive material.
 
 This distinction is textually clear in the TT because the Hebrew verb subjects are preserved: God speaks, but the land and waters act. The created world is given the capacity to produce from itself. Most translations don't highlight this structural difference.
 
@@ -140,7 +133,7 @@ Umberto Cassuto (*Commentary on Genesis*, 1961) documented these patterns extens
 
 Genesis 1:9–10: waters gathered "to one place" → dry ground appeared → God called the dry ground "Land" (*eretz*, singular) and the gathering of waters "Seas" (*yamim*, plural).
 
-The text presents one connected land and multiple bodies of water. The singular/plural distinction is deliberate in Hebrew and preserved in the TT across all three languages.
+The text presents one connected land and multiple bodies of water. The singular/plural distinction is deliberate in Hebrew and preserved in the TT across all four target languages.
 
 **Honest framing:** The text presents one land and multiple seas in the narrative picture.
 **Avoid:** "Genesis 1 encodes a Pangea-like geological model" — modern overreach. The narrative picture is ancient geography, not plate tectonics.
@@ -170,12 +163,12 @@ The Hebrew construction *bein...ubein* ("between...and between") appears at vv. 
 ### A10. "And it was so" — divine word and immediate fulfillment
 **[TEXTUAL — VERIFIED]**
 
-The formula *vayehi-khen* ("and it was so") appears at vv. 7, 9, 11, 15, 24, 30. Each creative speech act is followed by this compliance formula — God speaks, reality complies. The TT preserves this as a locked formula across all three languages. The pattern is distinctive: Genesis presents creation by speech-and-compliance, not by combat or material labor (contrast ANE parallels in Section B).
+The formula *vayehi-khen* ("and it was so") appears at vv. 7, 9, 11, 15, 24, 30. Each creative speech act is followed by this compliance formula — God speaks, reality complies. The TT preserves this as a locked formula across all four target languages. The pattern is distinctive: Genesis presents creation by speech-and-compliance, not by combat or material labor (contrast ANE parallels in Section B).
 
 ### A11. Root doubling as self-generation
 **[TEXTUAL — VERIFIED]**
 
-Five root-doubling patterns appear in Genesis 1: "seeding seed" (*mazria zera*, vv. 11–12), "making fruit" (*oseh pri*, vv. 11–12), "swarms of swarming" (*sherets*, v. 20), "creeping thing that creeps" (*haremes haromes*, v. 26), "seeding seed" again (v. 29). The TT preserves all five despite awkwardness. These doubled forms express **internal generative capacity** — vegetation produces vegetation, creatures breed true. The created order is self-sustaining by design.
+Five root-doubling patterns appear in Genesis 1: "seeding seed" (*mazria zera*, vv. 11-12), "making fruit" (*oseh pri*, vv. 11-12), "swarms of swarming" (*sherets*, v. 20), "creeping thing that creeps" (*haremes haromes*, v. 26), "seeding seed" again (v. 29). The TT preserves all five despite awkwardness. These doubled forms express **built-in reproductive power** — vegetation produces vegetation, creatures breed true. The created order is self-sustaining by design.
 
 ### A12. Triple *bara* at verse 27 — maximum emphasis
 **[TEXTUAL — VERIFIED]**
@@ -185,7 +178,7 @@ Genesis 1:27: *bara* (created) used **three times in one verse** — the only tr
 ### A13. Article on "the sixth day" — unique grammatical marking
 **[TEXTUAL — VERIFIED]**
 
-Genesis 1:31: *yom hashishi* — "**THE** sixth day" with the definite article ה. Days 1–5 have no article on the day number. Day 6 alone receives it. This grammatical marking is deliberate — the TT preserves it in all three languages. Whether it signals completion emphasis, the importance of human creation, or preparation for the Sabbath (Gen 2:1–3) is POSSIBLE in all directions.
+Genesis 1:31: *yom hashishi* — "**THE** sixth day" with the definite article (the Hebrew prefix ה, equivalent to "the"). Days 1-5 have no "the" before the day number. Day 6 alone receives it. This grammatical marking is deliberate — the TT preserves it in all four target languages. Whether it signals completion emphasis, the importance of human creation, or preparation for the Sabbath (Gen 2:1-3) is POSSIBLE in all directions.
 
 ---
 
@@ -217,9 +210,9 @@ The Enuma Elish (ca. 12th–10th c. BCE, Mesopotamia) describes the god Marduk s
 | Rest after creation | Gods feast and praise Marduk | God rests on seventh day |
 
 Key **contrasts**:
-- Genesis has no theogony (gods birthing gods) — one Creator, no divine war
+- Genesis has no story of gods giving birth to other gods — one Creator, no divine war
 - Genesis has no divine combat — creation by speech, not violence
-- Humanity in Genesis is *imago Dei* (image of God), not slave-labor
+- Humanity in Genesis bears the image of God, not created as slave-labor
 - Hebrew *tehom* (the deep) is **not** a deity; the phonetic similarity to *Tiamat* is debated
 
 **Source:** Pritchard, J.B. (ed.), *Ancient Near Eastern Texts Relating to the Old Testament* (ANET), 3rd ed., 1969, pp. 60–72. Heidel, A., *The Babylonian Genesis*, 2nd ed., 1951.
@@ -294,10 +287,10 @@ This reading is **PROBABLE** but not universally accepted. The text does not exp
 
 *Bara* appears 3 times in Genesis 1 (vv. 1, 21, 27). It is used exclusively with God as subject in the Hebrew Bible — no human ever *bara*. This is distinct from *asah* (make, 7 times in Gen 1) and *yatzar* (form, Gen 2:7).
 
-Whether *bara* means "create from nothing" (*creatio ex nihilo*) is debated:
+Whether *bara* means "create from nothing" (Latin *creatio ex nihilo*, a phrase later theologians used) is debated:
 - **PROBABLE:** *bara* implies a uniquely divine act without specified material
 - **POSSIBLE:** *bara* means to initiate or bring about, without the "from nothing" implication being required by the word itself
-- The doctrine of *creatio ex nihilo* develops explicitly in later tradition (2 Maccabees 7:28; patristic theology)
+- The "creation from nothing" idea develops explicitly in later tradition (2 Maccabees 7:28; early Church theologians)
 
 ### D1b. *Mo'adim* — appointed times, not just seasons
 **[TEXTUAL — VERIFIED]**
@@ -309,9 +302,9 @@ This means the cosmic ordering of Gen 1 includes liturgical time from the beginn
 ### D1c. Oral performance — why the patterns exist
 **[TEXTUAL / POSSIBLE INFERENCE — PROBABLE]**
 
-Genesis 1 was almost certainly composed for oral performance, not silent reading. The rhythmic formulas ("And God said... and it was so... and God saw that good... and was evening, and was morning"), root doubling ("seeding seed," "making fruit"), and sevenfold structural patterns create an **oral architecture** — mnemonic, rhythmic, recitable.
+Genesis 1 was almost certainly composed for oral performance, not silent reading. The rhythmic formulas ("And God said... and it was so... and God saw that good... and was evening, and was morning"), root doubling ("seeding seed," "making fruit"), and sevenfold structural patterns create an **oral architecture** — easy to memorize, rhythmic, recitable.
 
-This context explains WHY the repetition exists beyond literary aesthetics. The patterns serve memory and communal recitation. The TT's locked formulas (Rule 7) preserve exactly this performative structure — the same phrases recurring in the same forms, as they would in oral delivery.
+This context explains WHY the repetition exists beyond literary style. The patterns serve as memory aids and support communal recitation. The TT's locked formulas (Rule 7) preserve exactly this performance structure — the same phrases recurring in the same forms, as they would in oral delivery.
 
 ### D2. *tohu vavohu* (תֹהוּ וָבֹהוּ) — chaos and void
 **[TEXTUAL — UNCERTAIN]**
@@ -325,14 +318,14 @@ The TT renders "chaos and void" with an UNCERTAIN marker. "Formless and void" (c
 
 Root: ר-ק-ע (r-q-') = to beat, hammer, stamp, spread out. The noun form suggests something beaten or hammered out. Verse 8 identifies *raqia* = *shamayim* (sky).
 
-The TT transliterates to prevent cosmological over-specification. "Firmament" (Latin *firmamentum*, via Vulgate) imports solidity. "Expanse" (modern evangelical preference) strips the root meaning. *Raqia* preserves the Hebrew form and lets the reader encounter the term on its own terms.
+The TT transliterates to prevent cosmological over-specification. "Firmament" (from Latin *firmamentum*, used in the Vulgate — the standard Latin Bible translation) imports solidity. "Expanse" (modern evangelical preference) strips the root meaning. *Raqia* preserves the Hebrew form and lets the reader encounter the term on its own terms.
 
-### D4. Day 1 vs. Days 2–6: cardinal vs. ordinal
+### D4. Day 1 vs. Days 2–6: counting number vs. ranking number
 **[TEXTUAL — VERIFIED]**
 
-Genesis 1:5: יוֹם אֶחָד (*yom echad*) = "day one" (cardinal number). All subsequent days use ordinals: "second day," "third day," etc. This asymmetry is not random — the cardinal form at Day 1 is linguistically marked.
+Genesis 1:5: יוֹם אֶחָד (*yom echad*) = "day one" — using a counting number (cardinal: one, two, three). All subsequent days use ranking numbers (ordinals: second, third, fourth). This asymmetry is not random — the counting form at Day 1 is a deliberate grammatical choice.
 
-Interpretive options include: (1) Day 1 as a unique, absolute beginning; (2) *echad* with the force of "one and only" rather than ordinal sequence; (3) literary structure signaling the first day's special status. The TT preserves the cardinal form in all three languages (EN "one day", PT "um dia", DE "Tag eins").
+Interpretive options include: (1) Day 1 as a unique, absolute beginning; (2) *echad* carrying the force of "one and only" rather than simply "first in a sequence"; (3) a literary choice signaling the first day's special status. The TT preserves the cardinal form in all four target languages (EN "one day", PT "um dia", DE "Tag eins", ES "día uno").
 
 ---
 
@@ -358,7 +351,7 @@ Genesis 1:14-18 assigns the luminaries four functions: "signs," "appointed times
 The text assigns to the luminaries exactly what ancient cultures used them for — time-marking, not decoration. The luminaries are **functional instruments**, not objects of worship (hence deliberately unnamed at v.16). The text's assignment matches ancient observational practice while stripping the theological overlay of astral worship that pervaded ANE cultures.
 
 ### E2. Vegetation before luminaries
-**[SCIENTIFIC COMPARISON — TEXTUAL observation]**
+**[SCIENTIFIC COMPARISON — POSSIBLE]**
 
 Genesis 1 presents vegetation (Day 3, vv. 11–12) before the creation of luminaries (Day 4, vv. 14–18). In modern botanical understanding, photosynthesis requires sunlight.
 
@@ -367,11 +360,16 @@ This is an observation, not a verdict. Options include: (1) the text describes f
 All readings are **POSSIBLE**. The TT does not resolve this; it presents the text's sequence honestly.
 
 ### E3. The age question
-**[SCIENTIFIC COMPARISON — for awareness]**
+**[SCIENTIFIC COMPARISON — POSSIBLE]**
 
 Modern cosmology dates the universe at approximately 13.8 billion years; Earth at approximately 4.5 billion years. Genesis 1 presents a seven-day creation framework.
 
 The TT takes no position on whether "days" are literal 24-hour periods, extended epochs, literary frameworks, or something else. The Hebrew word *yom* (day) can denote a 24-hour day, a daytime period, or an indefinite time ("in the day of..." = "when..."). The text uses the "evening and morning" formula for Days 1–6, which suggests structured units — but whether those units are chronological, liturgical, or literary is not settled by the Hebrew alone.
+
+### E4. "To its kind" (*lemino*) — taxonomy and the concept of biological "kinds"
+**[SCIENTIFIC COMPARISON — POSSIBLE]**
+
+The word *min* (kind/type) appears 10 times in Genesis 1 (vv. 11, 12 ×2, 21 ×2, 24 ×2, 25 ×2, and implicitly in v.29). Vegetation, sea creatures, birds, and land animals all reproduce "to its kind." The term establishes categorical boundaries in reproduction without defining what those boundaries are. Modern biological taxonomy (Linnaeus, 1735) classifies organisms into species, genus, family, order — a hierarchy the text does not use. The Hebrew *min* is broader and less precise than "species": it may correspond to species, genus, or even family level depending on context. The text asserts reproductive continuity within kinds; it does not address variation within kinds, common descent, or speciation. What *min* includes and excludes is the reader's interpretive question — the text draws the boundary without defining its resolution.
 
 ---
 
@@ -380,17 +378,17 @@ The TT takes no position on whether "days" are literal 24-hour periods, extended
 ### F1. Jewish reception
 **[LATER RECEPTION — DOCUMENTED]**
 
-- **Rabbinic tradition** debates whether God created from pre-existing material or from nothing. *Bereshit Rabbah* (5th c. CE) explores multiple readings of the opening verse.
-- **Rashi** (11th c.) reads *bereshit* as a construct ("In the beginning of God's creating...") rather than absolute.
-- **Maimonides** (*Guide for the Perplexed*, 12th c.) treats the creation account as philosophical and cautions against overly literal reading.
+- **Rabbinic tradition** debates whether God created from pre-existing material or from nothing. *Bereshit Rabbah* (a 5th-century collection of rabbinic commentary on Genesis) explores multiple readings of the opening verse.
+- **Rashi** (11th c.) reads *bereshit* as a grammatically dependent phrase ("In the beginning of God's creating...") rather than a standalone statement.
+- **Maimonides** (*Guide for the Perplexed*, 12th c.) — the most influential medieval Jewish philosopher — treats the creation account as philosophical and cautions against overly literal reading.
 - The seven-day structure is foundational to **Sabbath** observance — the creation pattern as liturgical model.
 
 ### F2. Christian reception
 **[LATER RECEPTION — DOCUMENTED]**
 
-- **Patristic tradition:** Augustine (*Confessions*, *De Genesi ad Litteram*, 4th–5th c.) warns against reading Genesis as if it taught natural science; he allows for non-literal interpretation.
-- **Basil of Caesarea** (*Hexaemeron*, 4th c.) reads the six days as literal but with extensive allegorical application.
-- **Medieval period:** the firmament interpreted as solid dome (following Latin *firmamentum*); this reading shapes Western cosmology until Copernicus.
+- **Early Church Fathers:** Augustine (*Confessions*; *On the Literal Meaning of Genesis*, 4th–5th c.) warns against reading Genesis as if it taught natural science; he allows for non-literal interpretation.
+- **Basil of Caesarea** (*Hexaemeron* — "Six Days," his sermons on creation, 4th c.) reads the six days as literal but with extensive symbolic application.
+- **Medieval period:** the firmament interpreted as solid dome (following the Latin word *firmamentum*, meaning "something firm"); this reading shapes Western cosmology until Copernicus.
 - **Modern period:** Young Earth Creationism (literal six 24-hour days) vs. Old Earth Creationism (day-age, framework, analogical) vs. literary/theological readings.
 
 ### F3. Islamic parallels
@@ -457,6 +455,20 @@ Across Genesis 1–4, the divine name follows a progression visible in the TT be
 
 The divine name narrows from universal to personal as the narrative moves from cosmos to individual. Most translations obscure this by rendering all three as "God" or "the LORD God" — the TT makes the progression visible.
 
+### G7. Divine naming as reality-ordering
+**[POSSIBLE INFERENCE — POSSIBLE]**
+
+In Genesis 1:5, 8, 10, God names the light "Day," the darkness "Night," the raqia "Skies," the dry ground "Land," and the gathered waters "Seas." The text presents naming as an act that follows separation — God divides, then names.
+
+In the philosophy of language, there is a debate about whether names simply describe things that already exist, or whether naming itself creates a new category. The Genesis 1 pattern fits the second view: the name does not describe something already defined — it *establishes* a category. "This is now Day; this is now Night."
+
+This contrasts with Gen 2:19-20 where the human names animals (see Chapter 2, G0). The difference is significant: God names cosmic domains (Day, Night, Skies, Land, Seas), while humans name creatures. This reflects a hierarchy of authority that the text builds without explaining.
+
+### G8. "In beginning" — time, space, and matter in ten words
+**[POSSIBLE INFERENCE — POSSIBLE]**
+
+Genesis 1:1 in Hebrew contains seven words (ten in English): "In beginning God created the skies and the land." Readers have observed that this single verse introduces three fundamental categories simultaneously: "In beginning" establishes *time* (a temporal starting point); "the skies" establishes *space* (a spatial domain); "the land" establishes *matter* (a physical substance). In modern physics, time, space, and matter-energy form an interdependent continuum — none can exist without the others. If there is matter but no space, there is nowhere to place it; if there is matter and space but no time, there is no "when" for it to exist. The text does not make this argument — it simply states that all three appeared together in one creative act. Whether the simultaneity is deliberately communicating the interdependence of time, space, and matter, or whether this is a structural observation readers project onto the text, is the reader's assessment. The text's economy — compressing the origin of time, space, and matter into a single sentence — is textually verifiable regardless of the reader's interpretive framework.
+
 ---
 
 ## H. Sources Consulted
@@ -475,8 +487,8 @@ The divine name narrows from universal to personal as the narrative moves from c
 | *Bereshit Rabbah* (5th c. CE) | Primary (Rabbinic) | F1 |
 | Rashi, Commentary on Genesis (11th c.) | Primary (Medieval Jewish) | F1 |
 | Maimonides, *Guide for the Perplexed* (12th c.) | Primary (Medieval Jewish) | F1 |
-| Augustine, *De Genesi ad Litteram* (4th–5th c.) | Primary (Patristic) | F2 |
-| Basil of Caesarea, *Hexaemeron* (4th c.) | Primary (Patristic) | F2 |
+| Augustine, *On the Literal Meaning of Genesis* (4th–5th c.) | Primary (Early Church) | F2 |
+| Basil of Caesarea, *Hexaemeron* ("Six Days," 4th c.) | Primary (Early Church) | F2 |
 
 ---
 

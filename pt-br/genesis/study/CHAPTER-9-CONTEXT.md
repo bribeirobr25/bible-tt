@@ -10,8 +10,8 @@
 **Capítulo:** Genesis 9
 **Idioma:** Português Brasileiro
 **Acompanha:** `pt-br/genesis/CHAPTER-9.md` (Edição Transparente)
-**Regras:** v2.5 (Regra 29 governa este arquivo)
-**Status:** rascunho
+**Regras:** v3.0 (Regra 29 governa este arquivo)
+**Status:** provisório
 
 ---
 
@@ -55,7 +55,7 @@ A aliança noaquica (9:8-17) tem características distintivas:
 1. **Unilateral:** Deus se compromete; nenhuma condição é imposta a humanos ou animais
 2. **Universal:** inclui "todo ser vivente" — animais são partes da aliança
 3. **Perpétua:** "para gerações de perpetuidade" (*dorot olam*) — sem expiração
-4. **Baseada em sinal:** o arco é um mnemônico para Deus, não primariamente para os humanos ("eu o verei para lembrar")
+4. **Baseada em sinal:** o arco é um lembrete visual para Deus, não primariamente para os humanos ("eu o verei para lembrar")
 Isto é estruturalmente diferente das alianças posteriores: abraâmica (condicional, Gn 17) e sinaítica (bilateral, Êx 19-24).
 
 ### A7. "Viu a nudez" — texto de superfície preservado
@@ -170,6 +170,15 @@ Gn 9:22-23: עֶרְוָה (*ervah*) = nudez. A palavra tem ampla gama semântic
 
 ---
 
+## E. Correspondência e Não-Correspondência Científica
+
+### E1. Sangue como portador de vida — biologia e identificação antiga
+**[COMPARAÇÃO CIENTÍFICA — PROVÁVEL]**
+
+Genesis 9:4 proíbe comer "carne com a sua vida — o seu sangue." O texto equaciona *nephesh* (força vital) com *dam* (sangue). A hematologia moderna confirma o sangue como o portador primário de oxigênio, nutrientes, hormônios e células imunológicas para todos os tecidos — funcionalmente, o sustentador da vida biológica. A demonstração da circulação por William Harvey (1628) estabeleceu o papel sistêmico do sangue. A identificação antiga do sangue com a vida era observacional: a perda de sangue visivelmente se correlaciona com a perda de vida; o sangue é quente, se move e para na morte. A equação do texto não é uma declaração científica, mas uma identificação observacional que coincide com o que a biologia confirma sobre a função essencial do sangue na sustentação da vida. A proibição é dietética e teológica (o sangue pertence a Deus assim como a vida pertence a Deus), não biológica.
+
+---
+
 ## F. Recepção Posterior
 
 ### F1. Recepção judaica — as Leis Noaquicas
@@ -202,7 +211,7 @@ Vários paralelos estruturais conectam Noach a Adão:
 - Ambos resultam em maldição sobre a linhagem de um filho — linhagem de Qayin / linhagem de Kenaan
 - Ambos são associados à *adamah* — Adão formado dela (2:7); Noach é *ish ha-adamah* (9:20)
 
-Adicionalmente, a palavra *tebah* aparece em apenas dois lugares em toda a Bíblia Hebraica: a embarcação de Noach (Gn 6–9) e o cesto de Moisés (Êx 2:3,5). Ambos são recipientes selados colocados na água, confiando o ocupante à providência divina. Os paralelos diretos são observações textuais; o desenvolvimento tipológico mais completo pertence à recepção posterior (midrash e leitura patrística).
+Adicionalmente, a palavra *tebah* aparece em apenas dois lugares em toda a Bíblia Hebraica: a embarcação de Noach (Gn 6–9) e o cesto de Moisés (Êx 2:3,5). Ambos são recipientes selados colocados na água, confiando o ocupante à providência divina. Os paralelos diretos são observações textuais; o desenvolvimento tipológico mais completo pertence à recepção posterior (midrash e leitura dos Pais da Igreja).
 
 **Fonte:** Cassuto, U., *A Commentary on the Book of Genesis*, vol. 2, 1964.
 
@@ -233,7 +242,19 @@ Gn 9:3: "todo ser que se move, que é vivo, será para alimento para vós." Gn 1
 ### G5. O arco como autolembrete divino
 **[TEXTUAL — VERIFICADO]**
 
-Gn 9:16: "eu o verei para lembrar a aliança." O arco funciona como mnemônico para Deus — um lembrete visível que contém a ação divina. O texto atribui tanto a necessidade de um lembrete quanto a capacidade de autocontenção a Deus. Esta é linguagem antropomórfica (Deus precisando de um lembrete) que a TT traduz literalmente sem suavização teológica (Regra 12).
+Gn 9:16: "eu o verei para lembrar a aliança." O arco funciona como lembrete visual para Deus — um sinal visível que contém a ação divina. O texto atribui tanto a necessidade de um lembrete quanto a capacidade de autocontenção a Deus. Esta é linguagem antropomórfica (Deus precisando de um lembrete) que a TT traduz literalmente sem suavização teológica (Regra 12).
+
+### G6. Os mandamentos noaquicos como quadro de ética universal
+**[INFERÊNCIA POSSÍVEL — PROVÁVEL]**
+
+Genesis 9:1–7 se dirige a "todo humano" — não a um povo específico. Os mandamentos (frutificai, comei livremente mas não o sangue, não mateis, prestação de contas capital) são pré-israelitas e pré-sinaíticos. Na ética comparativa, isto levanta a questão da obrigação moral universal fundamentada na criação, e não na revelação a uma comunidade particular. A teoria do direito natural (Aquino, Grócio) postula normas morais acessíveis a todos os humanos pela razão, independentes de revelação especial. O quadro noaquico (como sistematizado posteriormente na tradição rabínica — ver Seção F) representa um precedente textual para este conceito: obrigações que se aplicam porque se é humano, não porque se é israelita. O próprio texto apresenta estes como mandamentos divinos a toda a humanidade pós-dilúvio, fundamentados no *tselem* (imagem de Deus) que persiste através do dilúvio (9:6). Se isto constitui "direito natural" ou "lei universal revelada" é uma distinção que o texto não faz.
+
+### G7. Vinho e embriaguez — viticultura e a neurofarmacologia do etanol
+**[COMPARAÇÃO CIENTÍFICA — POSSÍVEL]**
+
+Genesis 9:20–21: Noach "plantou uma vinha, e bebeu do vinho e embriagou-se, e descobriu-se dentro da sua tenda." Esta é a primeira referência a viticultura e fermentação no texto bíblico. A evidência arqueológica mais antiga de produção de vinho vem de Hajji Firuz Tepe nos montes Zagros (c. 5400 AEC, McGovern, 2003) e da caverna Areni-1 na Armênia (c. 4100 AEC) — ambas dentro da região mais ampla que o texto associa ao local de pouso da arca (montes de Ararat). O etanol age nos receptores GABA do cérebro, produzindo desinibição, julgamento prejudicado e perda de controle motor — a descrição do texto de Noach bebendo, embriagando-se e descobrindo-se captura a sequência comportamental que a neurofarmacologia descreve. O texto apresenta o vinho sem comentário moral sobre a substância em si — a tensão narrativa surge da exposição e da resposta dos filhos, não do ato de beber.
+
+**Fonte:** McGovern, P.E., *Ancient Wine: The Search for the Origins of Viniculture*, Princeton, 2003.
 
 ---
 

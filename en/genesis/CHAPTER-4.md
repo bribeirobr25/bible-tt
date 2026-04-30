@@ -7,7 +7,7 @@
 **Base Text:** Biblia Hebraica Stuttgartensia, 5th rev. ed. (Stuttgart: Deutsche Bibelgesellschaft, 1997)
 **Edition:** Transparent Edition
 **Language:** English
-**Methodology:** 29-Rule Governance System (Ruleset v2.5)
+**Methodology:** 29-Rule Governance System (Ruleset v3.0)
 **Divine Name Policy (Rule 25):** Option A — Consonantal (YHWH).
 **Status:** provisional — pending reviewer sign-off (Rule 28)
 **Reviewers:** Hebraist: unassigned | EN editor: unassigned | Cross-alignment: unassigned
@@ -39,6 +39,16 @@
 - 🟡 **THEOLOGICAL** - Interpretive options, ambiguity preservation
 
 **Adam / Human Policy (Rule 17):** In this chapter, *ha-adam* (with article) at v.1 = "the human" (continuing Gen 2–3 policy). At **v.25**, the text shifts to anarthrous *adam* in a naming/genealogical context — this is the **transition point** to proper-name "Adam." Flagged with 🔴 CRITICAL note.
+
+## CHAPTER OVERVIEW
+
+**What happens:** Cain (farmer) and Abel (shepherd) bring offerings; YHWH regards Abel's but not Cain's. Despite divine warning, Cain kills Abel. YHWH confronts Cain, pronounces him a wanderer, marks him for protection, and Cain settles in the land of Nod. Cain's genealogy follows: city-building, pastoral economy, music, metalworking — culminating in Lamech's song of escalated violence. The chapter closes with Seth's birth and the beginning of calling on YHWH's name.
+
+**Key themes:** The first offering and the first murder; divine warning unheeded (4:6–7, "sin crouching at the door"); "Am I my brother's keeper?"; blood crying from the ground (*adamah* again); the mark of Cain as protection; civilization's origins in the murderer's line; violence escalation (7-fold → 77-fold); Seth as replacement line.
+
+**Watch for:** The text never explains *why* YHWH regarded Abel's offering and not Cain's — the gap is the narrative's trigger; Cain's punishment echoes Adam's (both driven from the *adamah*); Lamech's song (4:23–24) inverts YHWH's 7-fold protection into 77-fold vengeance; two Chanokhs and two Lemekhs appear in the parallel genealogies (Ch 4 vs. Ch 5).
+
+**Connection:** The Cainite genealogy (Chapter 4) parallels the Sethite genealogy (Chapter 5). The violence that begins here fills the earth by Chapter 6, triggering the flood.
 
 ---
 
