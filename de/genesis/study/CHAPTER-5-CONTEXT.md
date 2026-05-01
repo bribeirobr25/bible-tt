@@ -107,7 +107,7 @@ Cassuto (*Commentary on Genesis*, 1961) wies nach, dass alle 30 Zahlen in Genesi
 ## E. Wissenschaftliche Entsprechung und Nicht-Entsprechung
 
 ### E1. Die aussergewöhnlichen Alter -- was der Text sagt und nicht sagt
-**[WISSENSCHAFTLICHER VERGLEICH — zur Kenntnisnahme]**
+**[WISSENSCHAFTLICHER VERGLEICH — MÖGLICH]**
 
 Die moderne menschliche Lebensspanne ist biologisch begrenzt (Hayflick-Grenze, Telomerverkürzung). Die Alter in Genesis 5 (365-969 Jahre) übersteigen jede dokumentierte menschliche Lebensspanne bei Weitem. Die TT präsentiert die Zahlen, wie der Text sie angibt, ohne Harmonisierung oder Verteidigung.
 

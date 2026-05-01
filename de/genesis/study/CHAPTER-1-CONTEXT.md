@@ -351,7 +351,7 @@ Genesis 1:14-18 weist den Himmelslichtern vier Funktionen zu: "Zeichen," "festge
 Der Text weist den Himmelslichtern genau das zu, wofür antike Kulturen sie verwendeten — Zeitmarkierung, nicht Dekoration. Die Himmelslichter sind **funktionale Instrumente**, keine Anbetungsobjekte (daher bewusst unbenannt in V.16). Die Zuweisung des Textes entspricht der antiken Beobachtungspraxis, während sie die theologische Schicht der Gestirnsanbetung entfernt, die die Kulturen des Alten Orients durchdrang.
 
 ### E2. Vegetation vor Himmelslichtern
-**[WISSENSCHAFTLICHER VERGLEICH — TEXTUELL Beobachtung]**
+**[WISSENSCHAFTLICHER VERGLEICH — MÖGLICH]**
 
 Genesis 1 präsentiert Vegetation (Tag 3, V. 11-12) vor der Erschaffung der Himmelslichter (Tag 4, V. 14-18). Im modernen botanischen Verständnis erfordert Photosynthese Sonnenlicht.
 
@@ -360,7 +360,7 @@ Dies ist eine Beobachtung, kein Urteil. Optionen umfassen: (1) der Text beschrei
 Alle Lesarten sind **MOEGLICH**. Die TT löst dies nicht; sie präsentiert die Reihenfolge des Textes ehrlich.
 
 ### E3. Die Altersfrage
-**[WISSENSCHAFTLICHER VERGLEICH — zur Kenntnisnahme]**
+**[WISSENSCHAFTLICHER VERGLEICH — MÖGLICH]**
 
 Moderne Kosmologie datiert das Universum auf ungefähr 13,8 Milliarden Jahre; die Erde auf ungefähr 4,5 Milliarden Jahre. Genesis 1 präsentiert einen Sieben-Tage-Schöpfungsrahmen.
 

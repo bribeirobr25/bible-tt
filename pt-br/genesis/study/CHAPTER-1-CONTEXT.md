@@ -351,7 +351,7 @@ Genesis 1:14-18 atribui aos luminares quatro funções: "sinais," "tempos design
 O texto atribui aos luminares exatamente aquilo para que as culturas antigas os usavam — marcação do tempo, não decoração. Os luminares são **instrumentos funcionais**, não objetos de adoração (portanto deliberadamente não nomeados no v.16). A atribuição do texto corresponde à prática observacional antiga enquanto remove a camada teológica de adoração astral que permeava as culturas do antigo Oriente Próximo.
 
 ### E2. Vegetação antes dos luminares
-**[COMPARAÇÃO CIENTÍFICA — observação TEXTUAL]**
+**[COMPARAÇÃO CIENTÍFICA — POSSÍVEL]**
 
 Genesis 1 apresenta vegetação (Dia 3, vv. 11–12) antes da criação dos luminares (Dia 4, vv. 14–18). Na compreensão botânica moderna, a fotossíntese requer luz solar.
 
@@ -360,7 +360,7 @@ Esta é uma observação, não um veredito. As opções incluem: (1) o texto des
 Todas as leituras são **POSSÍVEIS**. A TT não resolve isso; apresenta a sequência do texto honestamente.
 
 ### E3. A questão da idade
-**[COMPARAÇÃO CIENTÍFICA — para conhecimento]**
+**[COMPARAÇÃO CIENTÍFICA — POSSÍVEL]**
 
 A cosmologia moderna data o universo em aproximadamente 13,8 bilhões de anos; a Terra em aproximadamente 4,5 bilhões de anos. Genesis 1 apresenta um quadro de criação de sete dias.
 

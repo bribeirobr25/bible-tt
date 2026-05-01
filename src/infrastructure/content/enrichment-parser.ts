@@ -37,11 +37,11 @@ function parseClaimType(raw: string): ClaimType {
   const normalized = raw.trim().toUpperCase();
   if (normalized.includes("TEXTUAL") || normalized.includes("TEXTUELL")) return "TEXTUAL";
   if (normalized.includes("STRONG INFERENCE") || normalized.includes("INFERÊNCIA FORTE") || normalized.includes("INFERENCIA FUERTE") || normalized.includes("STARKE SCHLUSSFOLGERUNG")) return "STRONG INFERENCE";
-  if (normalized.includes("POSSIBLE INFERENCE") || normalized.includes("INFERÊNCIA POSSÍVEL") || normalized.includes("INFERENCIA POSIBLE") || normalized.includes("MÖGLICHE SCHLUSSFOLGERUNG")) return "POSSIBLE INFERENCE";
+  if (normalized.includes("POSSIBLE INFERENCE") || normalized.includes("INFERÊNCIA POSSÍVEL") || normalized.includes("INFERENCIA POSIBLE") || normalized.includes("MÖGLICHE SCHLUSSFOLGERUNG") || normalized.includes("MOGLICHE SCHLUSSFOLGERUNG")) return "POSSIBLE INFERENCE";
   if (normalized.includes("COMPARATIVE") || normalized.includes("COMPARATIVO") || normalized.includes("VERGLEICHENDE")) return "COMPARATIVE PARALLEL";
-  if (normalized.includes("LATER RECEPTION") || normalized.includes("RECEPÇÃO POSTERIOR") || normalized.includes("RECEPCIÓN POSTERIOR") || normalized.includes("SPÄTERE REZEPTION")) return "LATER RECEPTION";
-  if (normalized.includes("HISTORICAL") || normalized.includes("ARCHAEOLOGICAL") || normalized.includes("HISTÓRICO") || normalized.includes("ARQUEOLÓGICO") || normalized.includes("HISTORISCH") || normalized.includes("ARCHÄOLOGISCH")) return "HISTORICAL / ARCHAEOLOGICAL";
-  if (normalized.includes("SCIENTIFIC") || normalized.includes("CIENTÍFICA") || normalized.includes("CIENTÍFICO") || normalized.includes("WISSENSCHAFTLICH")) return "SCIENTIFIC COMPARISON";
+  if (normalized.includes("LATER RECEPTION") || normalized.includes("RECEPÇÃO POSTERIOR") || normalized.includes("RECEPCIÓN POSTERIOR") || normalized.includes("RECEPCION POSTERIOR") || normalized.includes("SPÄTERE REZEPTION") || normalized.includes("SPATERE REZEPTION")) return "LATER RECEPTION";
+  if (normalized.includes("HISTORICAL") || normalized.includes("ARCHAEOLOGICAL") || normalized.includes("HISTÓRICO") || normalized.includes("HISTORICO") || normalized.includes("ARQUEOLÓGICO") || normalized.includes("ARQUEOLOGICO") || normalized.includes("HISTORISCH") || normalized.includes("ARCHÄOLOGISCH") || normalized.includes("ARCHAOLOGISCH")) return "HISTORICAL / ARCHAEOLOGICAL";
+  if (normalized.includes("SCIENTIFIC") || normalized.includes("CIENTÍFICA") || normalized.includes("CIENTIFICA") || normalized.includes("CIENTÍFICO") || normalized.includes("CIENTIFICO") || normalized.includes("WISSENSCHAFTLICH")) return "SCIENTIFIC COMPARISON";
   if (normalized.includes("SPECULATION") || normalized.includes("SPECULATIVE") || normalized.includes("ESPECULAÇÃO") || normalized.includes("ESPECULACIÓN") || normalized.includes("SPEKULATION")) return "SPECULATION";
   console.warn(`Unrecognized claim type label: "${raw}", falling back to TEXTUAL`);
   return "TEXTUAL";
@@ -51,8 +51,8 @@ function parseConfidence(raw: string): ConfidenceLevel {
   const normalized = raw.trim().toUpperCase();
   if (normalized.includes("VERIFIED") || normalized.includes("VERIFIZIERT") || normalized.includes("VERIFICADO")) return "VERIFIED";
   if (normalized.includes("PROBABLE") || normalized.includes("WAHRSCHEINLICH") || normalized.includes("PROVÁVEL") || normalized.includes("PROVAVEL")) return "PROBABLE";
-  if (normalized.includes("POSSIBLE") || normalized.includes("MOEGLICH") || normalized.includes("MÖGLICH") || normalized.includes("POSSÍVEL") || normalized.includes("POSSIVEL") || normalized.includes("POSIBLE")) return "POSSIBLE";
-  if (normalized.includes("UNCERTAIN") || normalized.includes("UNGEWISS") || normalized.includes("INCERTO") || normalized.includes("INCIERTO")) return "UNCERTAIN";
+  if (normalized.includes("POSSIBLE") || normalized.includes("MOEGLICH") || normalized.includes("MÖGLICH") || normalized.includes("MOGLICH") || normalized.includes("POSSÍVEL") || normalized.includes("POSSIVEL") || normalized.includes("POSIBLE")) return "POSSIBLE";
+  if (normalized.includes("UNCERTAIN") || normalized.includes("UNGEWISS") || normalized.includes("UNSICHER") || normalized.includes("INCERTO") || normalized.includes("INCIERTO")) return "UNCERTAIN";
   if (normalized.includes("SPECULATIVE") || normalized.includes("SPEKULATIV") || normalized.includes("ESPECULATIVO")) return "SPECULATIVE";
   if (normalized.includes("DOCUMENTED") || normalized.includes("DOKUMENTIERT") || normalized.includes("DOCUMENTADO")) return "DOCUMENTED";
   console.warn(`Unrecognized confidence label: "${raw}", falling back to POSSIBLE`);

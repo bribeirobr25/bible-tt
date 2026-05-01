@@ -216,12 +216,12 @@ Dieselbe Wurzel (ע-צ-ב) erscheint sowohl in 3:16 (Mühe/Schmerz der Frau beim
 ## E. Wissenschaftliche Entsprechung und Nicht-Entsprechung
 
 ### E1. Sterblichkeit -- Prozess oder Ereignis?
-**[WISSENSCHAFTLICHER VERGLEICH — zur Kenntnisnahme]**
+**[WISSENSCHAFTLICHER VERGLEICH — MÖGLICH]**
 
 Genesis 2:17 warnt "sterbend wirst du sterben." Genesis 3:19 sagt "Staub bist du und zum Staub wirst du zurückkehren." Die moderne Biologie versteht den Tod als einen dem zellulären Leben inhärenten Prozess (Telomerverkürzung, Entropie). Der Text präsentiert Sterblichkeit als einen *Zustand*, der nach dem Essen festgestellt wird, nicht notwendigerweise als ein sofortiges Ereignis. Ob dies "Sterblichkeit aktiviert" oder "geistlichen Tod" oder "Prozessbeginn" bedeutet, ist eine theologische Frage, die das Hebräische nicht löst (die TT-Anmerkung bei 2:17 listet vier MOEGLICHE Interpretationen).
 
 ### E2. Schmerzen bei der Geburt -- biologisch oder narrativ?
-**[WISSENSCHAFTLICHER VERGLEICH — zur Kenntnisnahme]**
+**[WISSENSCHAFTLICHER VERGLEICH — MÖGLICH]**
 
 Genesis 3:16: "in Mühe sollst du Söhne gebären." Die menschliche Geburt ist objektiv schwieriger als die der meisten Säugetiere (aufgrund der bipedalen Beckenstruktur gegenüber der neonatalen Kopfgrösse). Ob der Text diese biologische Realität "erklärt" oder sie narrativ verwendet, ist die Frage des Lesers, nicht die Antwort des Textes.
 

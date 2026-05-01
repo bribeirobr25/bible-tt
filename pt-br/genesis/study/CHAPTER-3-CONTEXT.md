@@ -216,12 +216,12 @@ A mesma raiz (ע-צ-ב) aparece tanto em 3:16 (labuta/dor da mulher no parto) qu
 ## E. Correspondência e Não-Correspondência Científica
 
 ### E1. Mortalidade — processo ou evento?
-**[COMPARAÇÃO CIENTÍFICA — para conhecimento]**
+**[COMPARAÇÃO CIENTÍFICA — POSSÍVEL]**
 
 Genesis 2:17 adverte "morrendo morrerás." Genesis 3:19 declara "pó tu és e ao pó retornarás." A biologia moderna entende a morte como um processo inerente à vida celular (encurtamento de telômeros, entropia). O texto apresenta a mortalidade como uma *condição* declarada após o comer, não necessariamente como um evento instantâneo. Se isso significa "mortalidade ativada" ou "morte espiritual" ou "processo iniciado" é uma questão teológica que o hebraico não resolve (a nota da TT em 2:17 lista quatro interpretações POSSÍVEIS).
 
 ### E2. Dor no parto — biológica ou narrativa?
-**[COMPARAÇÃO CIENTÍFICA — para conhecimento]**
+**[COMPARAÇÃO CIENTÍFICA — POSSÍVEL]**
 
 Genesis 3:16: "em labuta darás à luz filhos." O parto humano é objetivamente mais difícil que o da maioria dos mamíferos (devido à estrutura pélvica bípede vs. tamanho da cabeça neonatal). Se o texto "explica" esta realidade biológica ou a usa narrativamente é uma questão do leitor, não uma resposta do texto.
 

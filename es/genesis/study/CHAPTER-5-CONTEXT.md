@@ -107,7 +107,7 @@ Cassuto (*Commentary on Genesis*, 1961) demostro que los 30 numeros en Genesis 5
 ## E. Correspondencia y No-Correspondencia Cientifica
 
 ### E1. Las edades extraordinarias — lo que el texto dice y no dice
-**[COMPARACIÓN CIENTÍFICA — para conocimiento]**
+**[COMPARACIÓN CIENTÍFICA — POSIBLE]**
 
 La esperanza de vida humana moderna esta biologicamente limitada (limite de Hayflick, acortamiento de telomeros). Las edades en Genesis 5 (365–969 anos) exceden vastamente cualquier esperanza de vida humana documentada. La TT presenta los numeros como el texto los establece, sin armonizacion ni defensa.
 

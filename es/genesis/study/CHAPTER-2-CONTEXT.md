@@ -220,7 +220,7 @@ El hebreo *beyom* puede significar un día literal de 24 horas o un modismo "cua
 ## E. Correspondencia y no correspondencia científica
 
 ### E1. Formación del polvo — elementos y composición
-**[COMPARACIÓN CIENTÍFICA — para conocimiento]**
+**[COMPARACIÓN CIENTÍFICA — POSIBLE]**
 
 Génesis 2:7: "formó al humano, polvo de la tierra." La química moderna observa que el cuerpo humano está compuesto de elementos comunes que se encuentran en la corteza terrestre (carbono, oxígeno, hidrógeno, nitrógeno, calcio, fósforo, etc.). Esto es una observación, no una pretensión concordista. El texto describe *formación* a partir de la tierra, no composición química.
 

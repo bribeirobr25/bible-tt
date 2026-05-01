@@ -220,7 +220,7 @@ O hebraico *beyom* pode significar um dia literal de 24 horas ou um idiomático 
 ## E. Correspondência e Não-Correspondência Científica
 
 ### E1. Formação do pó — elementos e composição
-**[COMPARAÇÃO CIENTÍFICA — para conhecimento]**
+**[COMPARAÇÃO CIENTÍFICA — POSSÍVEL]**
 
 Genesis 2:7: "formou o humano, pó da terra." A química moderna nota que o corpo humano é composto de elementos comuns encontrados na crosta terrestre (carbono, oxigênio, hidrogênio, nitrogênio, cálcio, fósforo, etc.). Esta é uma observação, não uma afirmação concordista. O texto descreve *formação* a partir da terra, não composição química.
 

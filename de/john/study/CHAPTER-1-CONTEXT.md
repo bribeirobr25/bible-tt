@@ -89,21 +89,21 @@ Johannes 1 spiegelt bewusst die Eroffnung der Genesis wider. Die verbalen Parall
 ## C. Historischer und archaologischer Kontext
 
 ### C1. Beyt-Anyah jenseits des Jarden — Debatte zur Ortsbestimmung
-**[HISTORISCH / ARCHAOLOGISCH — UNSICHER]**
+**[HISTORISCH / ARCHÄOLOGISCH — UNSICHER]**
 
 Johannes 1,28: "Dies geschah in Beyt-Anyah jenseits des Jarden, wo Jochanan tauchte." Dieser Ort ist verschieden von dem Beyt-Anyah nahe Jeruschalajim (dem Dorf des Lazarus in Johannes 11-12). Origenes (3. Jh. n. Chr.) berichtete, dass er kein "Bethanien jenseits des Jordan" finden konnte und schlug die Lesart "Bethabara" (Βηθαβαρά, "Haus der Uberquerung") vor, die er geographisch plausibel fand. Einige Handschriften spiegeln diese Emendation wider. Moderne Kandidaten fur den Ort umfassen Tell al-Kharrar (auch Bethanien jenseits des Jordan genannt, im heutigen Jordanien), das ausgegraben wurde und Hinweise auf byzantinische Pilgeraktivitat zeigt, obwohl die vorbyzantinische Besiedlung weniger klar belegt ist. Die Identifizierung bleibt unsicher — die Bedeutung des Ortes ist theologisch (der Beginn des offentlichen Wirkens Jesu) und nicht archaologisch.
 
 **Quelle:** Riesner, R., "Bethany Beyond the Jordan," in *Anchor Bible Dictionary*, Bd. 1, Doubleday, 1992; Waheeb, M., "Wadi al-Kharrar (Bethany Beyond the Jordan)," *Annual of the Department of Antiquities of Jordan* 41, 1997.
 
 ### C2. Die Peruschim und Jehudim bei Johannes — historischer Kontext
-**[HISTORISCH / ARCHAOLOGISCH — VERIFIZIERT]**
+**[HISTORISCH / ARCHÄOLOGISCH — VERIFIZIERT]**
 
 Das Vierte Evangelium fuhrt "die Jehudim" (*hoi Ioudaioi*, 1,19) und "die Peruschim" (*hoi Pharisaioi*, 1,24) als unterschiedliche Gruppen ein, die Jochanan befragen. Die Peruschim (Pharisaer) waren eine judische Bewegung, die mundliche Tora, rituelle Reinheit und synagogale Frommigkeit betonte. Zur Zeit der Abfassung des Johannesevangeliums (wahrscheinlich 90-100 n. Chr.) waren die Peruschim nach der Tempelzerstorung 70 n. Chr. zur dominierenden uberlebenden judischen Bewegung geworden. Der Begriff *hoi Ioudaioi* bei Johannes ist bekanntlich komplex: Er kann "die Judäer" (geographisch), "die Juden" (ethnisch-religios) oder "die judische Obrigkeit" (institutionell) bedeuten, je nach Kontext. In 1,19 kommt die Abordnung aus Jeruschalajim, was auf einen institutionellen oder geographischen Sinn hindeutet — "die Judäer" als die in Jerusalem ansassige religiose Obrigkeit. Die TT gibt den Begriff je nach Kontext wieder und vermerkt die semantische Bandbreite.
 
 **Quelle:** Reinhartz, A., *Cast Out of the Covenant: Jews and Anti-Judaism in the Gospel of John*, Lexington Books, 2018; Mason, S., "Pharisees," in *Anchor Bible Dictionary*, Bd. 5, Doubleday, 1992.
 
 ### C3. Tauchpraktiken im ersten Jahrhundert — Archaologie der Mikwe
-**[HISTORISCH / ARCHAOLOGISCH — VERIFIZIERT]**
+**[HISTORISCH / ARCHÄOLOGISCH — VERIFIZIERT]**
 
 Jochanans Tatigkeit des Tauchens (*baptizo*) im Jarden findet innerhalb eines gut belegten judischen Kontextes ritueller Reinigung statt. Archaologische Ausgrabungen haben Hunderte ritueller Tauchbecken (*miqwa'ot*, Singular *mikveh*) in ganz Judaa, Galilaa und der Diaspora freigelegt, datierend von der hasmonaischen Periode (2. Jh. v. Chr.) bis zur Zeit des Zweiten Tempels. Diese Stufenbecken — gefunden in Qumran, Sepphoris, Jeruschalajim (nahe dem Tempelberg), Herodium und in Privatwohnungen — belegen, dass Ganzkoperimmersion eine weit verbreitete judische Praxis war. Jochanans Tauchen unterscheidet sich von der ublichen Mikwe-Praxis hinsichtlich des Ortes (ein fliessender Fluss statt eines gebauten Beckens), der Häufigkeit (offenbar einmalig statt wiederholt) und der Zuordnung (zu einer bestimmten Prophetenfigur statt zum Tempel- oder Reinheitsgesetz). Die Gemeinde der Schriftrollen vom Toten Meer in Qumran praktizierte ebenfalls regelmassiges Tauchen, das mit gemeinschaftlicher Identitat verbunden war, und bietet eine teilweise Parallele.
 
@@ -128,7 +128,7 @@ Johannes 1,51: ἀμὴν ἀμὴν λέγω ὑμῖν (*amen amen lego hymin*
 ## E. Wissenschaftliche Entsprechung und Nichtentsprechung
 
 ### E1. "Im Anfang" und kosmologische Ursprunge — *logos* als ordnendes Prinzip
-**[WISSENSCHAFTLICHER VERGLEICH — MOGLICH]**
+**[WISSENSCHAFTLICHER VERGLEICH — MÖGLICH]**
 
 Johannes 1,1-3 beschreibt, dass alle Dinge durch den *logos* ins Dasein kamen — ein ordnendes rationales Prinzip, das vor der Schopfung gegenwartig war. Die moderne Kosmologie beschreibt die Anfangsbedingungen des Universums als bestimmt durch fundamentale physikalische Konstanten und mathematische Strukturen — eine inhärente "Rationalitat" im Gefuge der Wirklichkeit, die der Entstehung von Materie und Energie (logisch, nicht zeitlich) vorausgeht. Einige Physiker und Wissenschaftsphilosophen (z.B. Paul Davies, John Barrow) haben die strukturelle Resonanz bemerkt: Das Universum scheint "in Mathematik geschrieben" zu sein (Galileos Formulierung), und seine Verstandlichkeit — die Tatsache, dass es uberhaupt durch rationale Gesetze beschrieben werden kann — ist ihrerseits durch die Physik nicht erklart. Dies ist keine Behauptung, dass Johannes die moderne Kosmologie vorweggenommen habe. Der *logos* in Johannes 1 ist personal ("war bei Gott," "wurde Fleisch"); die mathematische Struktur des Universums ist unpersonal. Die Resonanz ist suggestiv, nicht beweiskraftig. Die TT vermerkt die Parallele, ohne Entsprechung zu behaupten.
 
@@ -139,21 +139,21 @@ Johannes 1,1-3 beschreibt, dass alle Dinge durch den *logos* ins Dasein kamen �
 ## F. Spatere Rezeption
 
 ### F1. Der Logos in der trinitarischen Theologie — Nizaa und Chalcedon
-**[SPATERE REZEPTION — DOKUMENTIERT]**
+**[SPÄTERE REZEPTION — DOKUMENTIERT]**
 
 Johannes 1,1-18 wurde zum biblischen Hauptanker fur die Logos-Theologie, die im Konzil von Nizaa (325 n. Chr.) und im Konzil von Chalcedon (451 n. Chr.) kulminierte. Die Bekraftigung des Nizanischen Glaubensbekenntnisses, dass der Sohn "eines Wesens (*homoousios*) mit dem Vater" sei, stutzt sich massgeblich auf Johannes 1,1c ("Gott war das Wort") und 1,18 ("der einziggeborene Gott/Sohn"). Arius (gest. 336 n. Chr.) argumentierte anhand desselben Prologs, dass "es eine Zeit gab, als das Wort nicht war" — und las den *logos* als das erste und grosste Geschopf, nicht als gleichewig mit Gott. Das Konzil von Nizaa verwarf die arianische Lesart, aber die Debatte zeigte, dass Johannes 1,1 die metaphysische Frage nicht allein losen kann — es bedurfte konziliarer Interpretation, um die nizanische Formel hervorzubringen. Die TT vermerkt: Der Prolog geht dem nizanisch-chalcedonischen Rahmen voraus und setzt ihn nicht voraus. Nizaa in Johannes zuruckzulesen ist eine dokumentierte theologische Praxis, keine textliche Notwendigkeit.
 
 **Quelle:** Ayres, L., *Nicaea and Its Legacy: An Approach to Fourth-Century Trinitarian Theology*, Oxford University Press, 2004; Young, F.M., *From Nicaea to Chalcedon*, 2. Aufl., Baker Academic, 2010.
 
 ### F2. Judische Lesarten von Johannes 1 — Ablehnung der gottlichen *logos*-Identifikation
-**[SPATERE REZEPTION — DOKUMENTIERT]**
+**[SPÄTERE REZEPTION — DOKUMENTIERT]**
 
 Die judische Auseinandersetzung mit dem Johannesprolog war historisch eine der Ablehnung. Die Identifikation des *logos* mit einer Person ("wurde Fleisch"), die zugleich als Gott identifiziert wird ("Gott war das Wort"), uberschreitet das, was die rabbinische Theologie als Grenze des Monotheismus betrachtet. Maimonides (12. Jh.) argumentierte ausdrucklich gegen jede Lehre, die Vielheit in Gottes Einheit einfuhrt (Fuhrer der Unschlussigen, 1,50-60). Die mittelalterlichen judisch-christlichen Disputationen (Paris 1240, Barcelona 1263, Tortosa 1413-14) behandelten haufig die Logos-Christologie, wobei judische Disputanten argumentierten, der Prolog verfälsche judische Vorstellungen gottlicher Rede und Weisheit. Moderne judische Forscher (Daniel Boyarin, *Border Lines*, 2004) haben dieses Bild verkompliziert und argumentiert, dass "Binitarismus" — die Vorstellung zweier gottlicher Machte — innerhalb des Judentums vor und neben dem fruhen Christentum existierte, was den Johannesprolog weniger zu einem Bruch mit judischem Denken macht, als die spatere rabbinische Orthodoxie einraumte.
 
 **Quelle:** Boyarin, D., *Border Lines: The Partition of Judaeo-Christianity*, University of Pennsylvania Press, 2004; Novak, D., *Jewish-Christian Dialogue: A Jewish Justification*, Oxford University Press, 1989.
 
 ### F3. Islamische Rezeption — Isa als Wort Gottes (*kalimatu'llah*)
-**[SPATERE REZEPTION — DOKUMENTIERT]**
+**[SPÄTERE REZEPTION — DOKUMENTIERT]**
 
 Der Koran beschreibt Isa (Jesus) als "ein Wort von Ihm" (كَلِمَةً مِّنْهُ, *kalimatan minhu*, Koran 3,45) und "Sein Wort, das Er an Marjam richtete" (كَلِمَتُهُ أَلْقَاهَا إِلَىٰ مَرْيَمَ, *kalimatuhu alqaha ila Marjam*, Koran 4,171).
 
@@ -178,7 +178,7 @@ Matthaus und Lukas beginnen mit ausfuhrlichen Geburtserzahlungen (Stammbaum, Ver
 Johannes 1,51: "Ihr werdet den Himmel geoffnet sehen und die Engel Gottes aufsteigen und herabsteigen auf den Sohn des Menschen." Die Sprache echot direkt Gen 28,12, wo Ja'aqow (Jakob) von einer Leiter (*sullam*) traumt, die auf der Erde steht und deren Spitze zum Himmel reicht, und die Engel Gottes auf ihr auf- und absteigen. Die verbale Parallele ist prazise: ἀναβαίνοντας καὶ καταβαίνοντας (*anabainontas kai katabainontas*, "aufsteigend und herabsteigend") entspricht der LXX von Gen 28,12. Die Substitution ist auffallend: Wo Genesis die Leiter hat, hat Johannes "den Sohn des Menschen." Die Implikation — dass der Sohn des Menschen der Verbindungspunkt zwischen Himmel und Erde ist, der die Leiter aus Jakobs Traum ersetzt — ist theologisch bedeutsam, wird aber vom Text nicht ausgesprochen. Die TT vermerkt das verbale Echo und die Substitution, ohne die theologische Schlussfolgerung zu liefern.
 
 ### G3. Natanaels Skepsis — "Kann aus Natseret etwas Gutes kommen?"
-**[MOGLICHE SCHLUSSFOLGERUNG — MOGLICH]**
+**[MÖGLICHE SCHLUSSFOLGERUNG — MÖGLICH]**
 
 Johannes 1,46: Natanaels Frage "Kann aus Natseret etwas Gutes kommen?" impliziert, dass Natseret (Nazareth) einen vernachlassigbaren Ruf hatte. Archaologische Befunde bestatigen, dass Nazareth im ersten Jahrhundert ein kleines Bauerndorf war — Schatzungen reichen von 200 bis 400 Einwohnern — ohne Erwahnung in der Hebraischen Bibel, bei Josephus, im Talmud oder in irgendeiner vorchristlichen Quelle. Die Bedeutungslosigkeit des Dorfes scheint der Kern von Natanaels Skepsis zu sein: Der messianische Anwärter kommt nicht aus Jeruschalajim, Bethlehem oder einem prophetisch bedeutsamen Ort, sondern aus einem unscheinbaren Weiler in Untergalilaa. Ob Natanaels Bemerkung auch ein regionales Vorurteil transportiert (galilaisch vs. judaisch), ist moglich, aber aus diesem Vers allein nicht belegbar. Ausgrabungen in Nazareth (Gelande der Verkundigungskirche und die Nazareth Village Farm) haben landwirtschaftliche Anlagen, in den Fels gehauene Graber und Wohnbauten freigelegt, die zu einem bescheidenen Dorf passen, nicht zu einem Ort von Bedeutung.
 

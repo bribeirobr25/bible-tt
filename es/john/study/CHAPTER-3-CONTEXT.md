@@ -70,14 +70,14 @@ Yeshua cita explicitamente el episodio de la serpiente de bronce en v.14: "Asi c
 ## C. Contexto historico y arqueologico
 
 ### C1. Nikodemos -- fariseo y dirigente
-**[HISTORICO / ARQUEOLOGICO — PROBABLE]**
+**[HISTÓRICO / ARQUEOLÓGICO — PROBABLE]**
 
 Nikodemos es identificado como un fariseo y "un dirigente de los yehudim" (archon ton Ioudaion, *archon ton Ioudaion*) -- probablemente un miembro del Sanedrin, el consejo de setenta y un ancianos que servia como cuerpo judicial y legislativo supremo en Yehudah bajo supervision romana. El nombre Nikodemos (*Nikodemos*, "victoria del pueblo") es griego, pero esto no indica necesariamente identidad helenistica -- los nombres griegos eran comunes entre los judios en la Palestina del siglo I (cf. Andreas, Philippos, Esteban). Una inscripcion en un osario con el nombre "Nakdimon" fue encontrada en Yerushalayim, y fuentes rabinicas mencionan a una figura adinerada de Yerushalayim llamada Nakdimon ben Gorion (b. Gittin 56a, b. Ta'anit 19b-20a), aunque la identificacion con el Nikodemos joanico es especulativa. Su venida "de noche" (nyktos, *nyktos*) ha generado explicaciones en competencia: (1) temia la asociacion publica con Yeshua; (2) la noche era el momento acostumbrado para el estudio de la Torah (cf. Josue 1:8); (3) "noche" porta peso simbolico en el motivo joanico de luz/oscuridad (cf. 9:4, 11:10, 13:30 -- "y era de noche"). Estas lecturas no se excluyen mutuamente. Nikodemos reaparece en 7:50-52 (defendiendo el debido proceso ante el Sanedrin) y en 19:39 (trayendo especias funerarias para el cuerpo de Yeshua).
 
 **Fuente:** Bauckham, R., "Nicodemus and the Gurion Family," *Journal of Theological Studies* 47 (1996): 1-37; Meier, J.P., *A Marginal Jew*, vol. 1, Doubleday, 1991.
 
 ### C2. "Nacido de agua y espiritu" -- ¿que significa "agua"?
-**[HISTORICO / ARQUEOLOGICO — INCIERTO]**
+**[HISTÓRICO / ARQUEOLÓGICO — INCIERTO]**
 
 Juan 3:5: ean me tis gennethe ex hydatos kai pneumatos (*ean me tis gennethe ex hydatos kai pneumatos*) -- "a menos que alguien nazca de agua y espiritu." El significado de "agua" en esta frase es una de las preguntas mas debatidas en los estudios joanicos. Las propuestas principales incluyen: (1) Nacimiento fisico -- "agua" como liquido amniotico, contrastando nacimiento natural (agua) con nacimiento espiritual (espiritu). Esta lectura se empareja con la pregunta de Nikodemos sobre el vientre (v.4) pero tiene apoyo antiguo limitado. (2) Inmersion de proselito o inmersion de Yochanan -- agua como lavado ritual que marca arrepentimiento y nueva membresia comunitaria, ahora emparejado con la obra transformadora del espiritu. (3) Torah/purificacion -- agua como simbolo de la funcion purificadora de la Torah (cf. Ezequiel 36:25-27, donde Dios promete "rociare agua limpia sobre ustedes" junto con un nuevo espiritu). (4) Un concepto unico ("agua-y-espiritu") en lugar de dos elementos separados -- agua como medio de renovacion espiritual, como en los textos de Qumran (1QS 3:7-9). (5) Bautismo cristiano -- una lectura que se convirtio en estandar en la interpretacion patristica (p. ej., Justino Martir, *1 Apologia* 61.4-5, c. 155 d.C.) pero que puede reflejar una practica sacramental posterior leida retroactivamente en el texto. La TT traduce las palabras tal como se dan sin resolver el referente.
 
@@ -102,21 +102,21 @@ Juan 3:17-19 despliega el verbo krino (*krino*, "juzgar") y el sustantivo krisis
 ## F. Recepcion posterior
 
 ### F1. Juan 3:16 en el evangelismo protestante
-**[RECEPCION POSTERIOR — DOCUMENTADO]**
+**[RECEPCIÓN POSTERIOR — DOCUMENTADO]**
 
 Juan 3:16 se ha convertido en el versiculo mas ampliamente citado del Nuevo Testamento, particularmente en el cristianismo protestante de habla inglesa. Su prominencia en el uso evangelistico data principalmente de los Grandes Despertares de los siglos XVIII y XIX, cuando predicadores revivalistas (Jonathan Edwards, George Whitefield, Charles Finney, D.L. Moody) lo usaron como resumen del mensaje del evangelio. La estructura compacta del versiculo -- el amor de Dios, su alcance (el mundo), su expresion (dar al Hijo), su condicion (confiar) y su resultado (no perecer, tener vida de la era) -- lo hizo ideal para la distribucion de tratados, los llamados al altar y la senalizacion publica. En el siglo XX, el versiculo se convirtio en un icono cultural: aparece en calcomanias para autos, pancartas en estadios (mas famosamente sostenidas por Rollen Stewart, "Rainbow Man," en eventos deportivos televisados en las decadas de 1970-1980) y en medios populares. Esta ubicuidad ha tenido dos efectos: (1) el versiculo es genuinamente accesible para millones que no conocen ningun otro texto biblico; (2) su familiaridad ha aplanado su lectura -- los oyentes lo procesan como un eslogan en lugar de comprometerse con sus terminos (*monogenes*, *kosmos*, *aionios*, *pisteuon*). La traduccion de la TT de cada termino segun su sentido griego reintroduce extraneza en un versiculo que se ha vuelto demasiado comodo.
 
 **Fuente:** Noll, M.A., *The Rise of Evangelicalism*, InterVarsity Press, 2003; Marsden, G.M., *Jonathan Edwards: A Life*, Yale University Press, 2003.
 
 ### F2. "Nacido de agua y espiritu" en la teologia bautismal
-**[RECEPCION POSTERIOR — DOCUMENTADO]**
+**[RECEPCIÓN POSTERIOR — DOCUMENTADO]**
 
 Desde el siglo II en adelante, Juan 3:5 fue leido como referencia al bautismo cristiano. Justino Martir (*1 Apologia* 61.4-5, c. 155 d.C.) cito el versiculo directamente para explicar la practica bautismal: los candidatos son "lavados en el agua en el nombre de Dios" y asi "nacen de nuevo." Tertuliano (*De Baptismo* 13, c. 200 d.C.) trato el versiculo como la institucion dominical del bautismo. Agustin (*Tratados sobre Juan* 11-12) y la tradicion patristica dominante cementaron la lectura bautismal, que fue reafirmada en el Concilio de Trento (Sesion 7, Canon 2, 1547): el bautismo es necesario para la salvacion, citando Juan 3:5 como texto de prueba. La Reforma no desafio fundamentalmente la lectura bautismal de este versiculo -- tanto Lutero como Calvino aceptaron que "agua" se refiere al bautismo, aunque difirieron en si el versiculo prescribe un sacramento o describe la regeneracion metaforicamente. Los estudiosos criticos modernos son mas cautelosos: algunos argumentan que la lectura bautismal refleja practica liturgica posterior proyectada retroactivamente sobre el texto, mientras que otros mantienen que una referencia al ritual del agua esta presente a nivel narrativo (la inmersion de Yochanan se menciona en 3:22-26). La TT traduce el versiculo sin barniz sacramental, permitiendo que la pregunta interpretativa permanezca visible.
 
 **Fuente:** Ferguson, E., *Baptism in the Early Church*, Eerdmans, 2009; Beasley-Murray, G.R., *Baptism in the New Testament*, Eerdmans, 1962.
 
 ### F3. Lecturas calvinistas y arminianas de v.16
-**[RECEPCION POSTERIOR — DOCUMENTADO]**
+**[RECEPCIÓN POSTERIOR — DOCUMENTADO]**
 
 La palabra kosmos (*kosmos*, "mundo") en Juan 3:16 se convirtio en un campo de batalla en la soteriologia posreformista. La lectura arminiana (siguiendo a Jacobus Arminius, m. 1609, y codificada en los articulos remonstrantes de 1610) toma "Dios amo al mundo de tal manera" al pie de la letra: el amor salvador de Dios se extiende a todo ser humano sin excepcion, y la oferta de vida es genuinamente universal. La lectura calvinista (articulada en el Sinodo de Dort, 1618-1619, particularmente bajo el encabezado de "expiacion limitada" o "redencion definida") argumenta o bien que "mundo" significa "personas de toda nacion" en lugar de "todo individuo," o bien que el versiculo describe la suficiencia de la obra del Hijo para todos pero su eficiencia solo para los elegidos. John Owen (*The Death of Death in the Death of Christ*, 1647) argumento que "mundo" en el Evangelio de Juan no siempre significa todo individuo (cf. 12:19, "el mundo ha ido tras el" -- obviamente no literalmente toda persona). Del otro lado, John Wesley (*Sermon 128, "Free Grace"*) insistio en que "mundo" significa "toda alma humana" y que limitar su alcance contradice el texto llano. La TT traduce *kosmos* como "mundo" sin restringir ni expandir su referente, dejando el debate teologico donde pertenece -- en la historia de la recepcion, no en la traduccion.
 

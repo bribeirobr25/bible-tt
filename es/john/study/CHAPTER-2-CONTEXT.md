@@ -58,28 +58,28 @@ La transformacion de agua en vino tiene paralelos en las tradiciones religiosas 
 ## C. Contexto historico y arqueologico
 
 ### C1. Qanah -- ubicacion y arqueologia
-**[HISTORICO / ARQUEOLOGICO — PROBABLE]**
+**[HISTÓRICO / ARQUEOLÓGICO — PROBABLE]**
 
 Dos sitios compiten por la identificacion con la Qanah biblica: (1) Kafr Kanna, una aldea aproximadamente a 6 km al noreste de Natseret en el camino a Tiberias, que ha sido el sitio de peregrinacion tradicional al menos desde el periodo de las Cruzadas; y (2) Khirbet Qana, una ruina aproximadamente a 14 km al norte de Natseret en la cima de una colina con vista al Valle de Bet Netofa. Las excavaciones en Khirbet Qana (dirigidas por Douglas Edwards, Universidad de Puget Sound, 1998-2009) descubrieron una aldea judia sustancial con fragmentos de recipientes de piedra, miqva'ot (banos rituales) y evidencia de habitacion desde los periodos helenistico hasta bizantino. Un sistema de cuevas bajo la aldea muestra signos de veneracion como sitio de la senal de agua-en-vino desde el periodo romano tardio en adelante. La coincidencia toponimica (Khirbet *Qana* preserva las consonantes del nombre biblico) y el perfil arqueologico favorecen a Khirbet Qana sobre Kafr Kanna, aunque la certeza no es posible.
 
 **Fuente:** Edwards, D.R., "Khirbet Qana: From Jewish Village to Christian Pilgrim Site," en *The Roman and Byzantine Near East*, vol. 3, JRA Supplement 49, 2002; Richardson, P., *Building Jewish in the Roman East*, Baylor University Press, 2004.
 
 ### C2. Costumbres de boda en la Galilea del siglo I
-**[HISTORICO / ARQUEOLOGICO — VERIFICADO]**
+**[HISTÓRICO / ARQUEOLÓGICO — VERIFICADO]**
 
 Las bodas judias en la Galilea del siglo I tipicamente duraban siete dias (cf. Jueces 14:12, Tobit 11:19). La familia anfitriona era responsable de proveer comida y vino para toda la celebracion. Quedarse sin vino era un fracaso social grave -- traia verguenza a la familia y podia generar responsabilidad legal (en fuentes rabinicas, la provision inadecuada para bodas se discute en terminos de obligacion comunitaria). El jefe de mesa (*architriklinos*) administraba el banquete, controlaba el servicio de vino y aseguraba los estandares de hospitalidad. Se preferian los recipientes de piedra por razones de pureza ritual (Mishnah Kelim 10.1: los recipientes de piedra no contraen impureza). Las seis tinajas de piedra descritas en Juan 2:6, cada una con capacidad de 2-3 *metretai* (aproximadamente 75-115 litros cada una), son consistentes con la industria de recipientes de piedra atestiguada arqueologicamente en Yehudah y Galilea -- grandes recipientes de piedra (llamados *kalal* en hebreo rabinico) fabricados principalmente en talleres cerca de Yerushalayim y en la Galilea.
 
 **Fuente:** Safrai, S. y Stern, M., eds., *The Jewish People in the First Century*, vol. 2, Van Gorcum, 1976; Reed, J.L., *Archaeology and the Galilean Jesus*, Trinity Press International, 2000.
 
 ### C3. La economia del templo y el cambio de moneda
-**[HISTORICO / ARQUEOLOGICO — VERIFICADO]**
+**[HISTÓRICO / ARQUEOLÓGICO — VERIFICADO]**
 
 El templo en Yerushalayim funcionaba como centro religioso e institucion economica. Los peregrinos necesitaban comprar animales sacrificiales (ganado, ovejas, palomas) que cumplieran los estandares de aptitud ritual (*temimut*, sin defecto). Los cambistas (*shulchani* en fuentes rabinicas, *kermatistes* o *kollybistes* en griego) eran necesarios porque el impuesto del medio siclo del templo (Ex 30:13) debia pagarse en plata tiria -- la unica moneda de pureza suficiente aceptada por las autoridades del templo. Los siclos tirios contenian aproximadamente 14 gramos de plata con 94% de pureza. La tasa de cambio incluia un recargo (*kolbon*), que se discute en Mishnah Shekalim 1.6-7. Si el comercio que Yeshua interrumpio era inherentemente explotador o simplemente comercialmente necesario es debatido por los historiadores. Josefo describe la vasta infraestructura economica del templo (*Antigüedades* 20.219-222; *Guerra* 5.184-227). La evidencia arqueologica de la calle herodiana al sur del Monte del Templo -- excavada por Benjamin Mazar (1968-1978) -- incluye tiendas e instalaciones comerciales consistentes con una economia de mercado centrada en el templo.
 
 **Fuente:** Mazar, B., *The Mountain of the Lord*, Doubleday, 1975; Sanders, E.P., *Judaism: Practice and Belief, 63 BCE-66 CE*, SCM Press, 1992; Bauckham, R., "Jesus' Demonstration in the Temple," en *Law and Religion*, ed. B. Lindars, James Clarke, 1988.
 
 ### C4. Cronologia de la Pascua y trafico de peregrinos
-**[HISTORICO / ARQUEOLOGICO — VERIFICADO]**
+**[HISTÓRICO / ARQUEOLÓGICO — VERIFICADO]**
 
 La Pascua (*Pesach*) caia el 14-15 de Nisan (marzo-abril). Como una de las tres fiestas de peregrinacion (*shalosh regalim*: Pesach, Shavuot, Sukkot), atraia multitudes masivas a Yerushalayim. Josefo estima la asistencia a la Pascua en varios puntos entre 2.5 y 3 millones (*Guerra* 6.425) -- probablemente exagerado, pero incluso las estimaciones conservadoras sugieren 300,000-500,000 peregrinos en una ciudad con una poblacion normal de quizas 40,000-80,000. La afluencia creaba enormes demandas logisticas: alojamiento, comida, animales sacrificiales, cambio de moneda, agua y saneamiento. Las operaciones del templo que Yeshua interrumpio eran integrales para manejar este aumento anual. La ubicacion joanica de la limpieza del templo en la Pascua -- la fiesta que conmemora la liberacion de Egipto -- puede portar una fuerza ironica: la institucion que celebra la libertad se ha convertido en una institucion de comercio.
 
@@ -106,7 +106,7 @@ El vocativo gynai (*gynai*) es usado por Yeshua para dirigirse a su madre tanto 
 ## E. Correspondencia y no-correspondencia cientifica
 
 ### E1. Fermentacion del vino -- el texto describe transformacion, no creacion de la nada
-**[COMPARACION CIENTIFICA — POSIBLE]**
+**[COMPARACIÓN CIENTÍFICA — POSIBLE]**
 
 La produccion natural de vino involucra la fermentacion de azucares de uva por levadura (*Saccharomyces cerevisiae*), convirtiendo glucosa y fructosa en etanol y dioxido de carbono a lo largo de un periodo de dias a semanas. El proceso es bioquimico: enzimas producidas por la levadura catalizan la descomposicion de azucares en un ambiente anaerobico. La senal de Qanah describe agua convirtiendose en vino -- una transformacion que elude todo el proceso biologico de viticultura, cosecha, prensado y fermentacion. El texto no describe creacion *ex nihilo* (de la nada) -- el agua ya existe como sustrato. Describe transformacion de una sustancia en otra. Si se enmarca esto como una compresion de procesos naturales o como una discontinuidad categorica con los procesos naturales depende del marco metafisico de cada uno, no del texto mismo. El texto describe el resultado ("el agua convertida en vino") sin teorizar sobre el mecanismo. La quimica moderna puede describir lo que el vino es (una solucion compleja de etanol, agua, acidos organicos, taninos, antocianinas y cientos de compuestos aromaticos); no puede describir un mecanismo para la conversion instantanea de agua en vino. La TT senala la brecha entre el resultado descrito y cualquier proceso natural conocido sin intentar llenarla.
 
@@ -115,14 +115,14 @@ La produccion natural de vino involucra la fermentacion de azucares de uva por l
 ## F. Recepcion posterior
 
 ### F1. Teologia mariana y la boda en Qanah
-**[RECEPCION POSTERIOR — DOCUMENTADO]**
+**[RECEPCIÓN POSTERIOR — DOCUMENTADO]**
 
 Las tradiciones catolica romana y ortodoxa oriental han extraido extensas conclusiones teologicas del rol de Maria en Qanah. El Concilio de Efeso (431 d.C.) definio a Maria como Theotokos ("portadora de Dios"), y aunque esta definicion no depende de Juan 2, la narrativa de Qanah ha sido leida como respaldo del rol intercesor de Maria: ella presenta una necesidad humana a su hijo, y a pesar del aparente rechazo, la necesidad es satisfecha. La teologia mariana posterior (particularmente en el catolicismo contrarreformista) desarrollo la imagen de Maria como mediadora -- una que intercede ante Cristo en nombre de la humanidad. La enciclica del Papa Juan Pablo II *Redemptoris Mater* (1987) interpreta el episodio de Qanah como el paradigma de la mediacion maternal de Maria. Los interpretes protestantes han resistido generalmente esta lectura, argumentando que el texto muestra a Yeshua estableciendo independencia de la iniciativa de su madre ("¿Que a mi y a ti?"), no afirmando su rol mediador. La TT nota: el texto registra la declaracion de la madre, la respuesta distanciadora de Yeshua y la instruccion de la madre a los sirvientes. No usa la palabra "intercesion" ni describe el rol de la madre en terminos mediatoriales. El marco teologico es recepcion posterior, no texto.
 
 **Fuente:** Brown, R.E., et al., *Mary in the New Testament*, Fortress Press, 1978; Gaventa, B.R., *Mary: Glimpses of the Mother of Jesus*, University of South Carolina Press, 1995.
 
 ### F2. Lectura sacramental de agua-en-vino
-**[RECEPCION POSTERIOR — DOCUMENTADO]**
+**[RECEPCIÓN POSTERIOR — DOCUMENTADO]**
 
 Desde al menos el siglo III d.C., los interpretes cristianos han leido la senal de agua-en-vino como una prefiguracion de la Eucaristia. Cipriano de Cartago (*Epistola* 63.12-13, c. 253 d.C.) argumento que el vino en Qanah representaba la sangre de Cristo en el caliz eucaristico. La tradicion liturgica medieval asocio el milagro de Qanah con la Epifania (6 de enero) -- la manifestacion de la gloria divina -- vinculandolo con el bautismo de Jesus y la visita de los Magos como tres "manifestaciones." El Cuarto Evangelio mismo puede apoyar una lectura sacramental en otros puntos (6:53-56, el discurso del pan de vida), pero en 2:1-11 el texto no menciona sangre, pacto ni consumo ritual. La lectura sacramental es una tradicion interpretativa, no un dato textual. La TT registra la senal sin superposicion sacramental.
 
@@ -138,7 +138,7 @@ Desde al menos el siglo III d.C., los interpretes cristianos han leido la senal 
 El Cuarto Evangelio se refiere a la madre de Yeshua cuatro veces (2:1, 2:3, 2:5, 2:12; 6:42; 19:25-27) pero nunca da su nombre. Los Sinopticos la identifican como Mariam/Maria (Mat 1:16, 2:11, 13:55; Marcos 6:3; Lucas 1:27, etc.). Varias explicaciones han sido propuestas: (1) El autor asume que el lector ya conoce su nombre por otras tradiciones. (2) El anonimato tiene motivacion teologica -- en Juan, ella funciona relacionalmente (como madre de Yeshua) en lugar de como personaje independiente. (3) El autor pertenece a una tradicion en la cual su nombre personal no era central para la narrativa. (4) El anonimato crea un efecto literario -- ella se define enteramente por su relacion con Yeshua, que es en si misma redefinida al pie de la cruz (19:26-27) cuando Yeshua la entrega al discipulo amado como madre. Ninguna de estas explicaciones excluye a las otras. La TT sigue el texto: "la madre de Yeshua."
 
 ### G2. Seis tinajas de piedra -- recipientes de purificacion ritual
-**[HISTORICO / ARQUEOLOGICO — VERIFICADO]**
+**[HISTÓRICO / ARQUEOLÓGICO — VERIFICADO]**
 
 Las seis tinajas de piedra para agua (lithinai hydriai, *lithinai hydriai*) descritas en 2:6 son consistentes con una clase bien atestiguada de artefactos arqueologicos. Grandes recipientes de piedra (*kalal*) han sido encontrados en toda Yehudah y Galilea, fabricados a partir de piedra caliza blanda (tiza) en tornos. Se han identificado centros de produccion en Hizma (cerca de Yerushalayim) y en varios sitios galileos. La preferencia por la piedra sobre la arcilla tiene fundamento halajico: Mishnah Kelim 10.1 establece que los recipientes de piedra no contraen impureza ritual (*tum'ah*), a diferencia de los de barro cocido, que se vuelven permanentemente impuros al contaminarse y deben romperse (Lev 11:33). Los recipientes de piedra servian asi al hogar judio consciente de la pureza proporcionando contenedores reutilizables que nunca podian volverse ritualmente impuros. El hecho de que Juan especifique que las tinajas eran "segun la purificacion de los yehudim" conecta los recipientes con el sistema de pureza judio -- el mismo sistema que la senal esta a punto de recontextualizar.
 

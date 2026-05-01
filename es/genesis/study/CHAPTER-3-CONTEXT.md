@@ -218,12 +218,12 @@ La misma raíz (ע-צ-ב) aparece tanto en 3:16 (fatiga/dolor de la mujer en la 
 ## E. Correspondencia y no correspondencia científica
 
 ### E1. Mortalidad — proceso o evento?
-**[COMPARACIÓN CIENTÍFICA — para conocimiento]**
+**[COMPARACIÓN CIENTÍFICA — POSIBLE]**
 
 Génesis 2:17 advierte "muriendo morirás." Génesis 3:19 afirma "polvo eres y al polvo retornarás." La biología moderna entiende la muerte como un proceso inherente a la vida celular (acortamiento de telómeros, entropía). El texto presenta la mortalidad como una *condición* enunciada después del comer, no necesariamente como un evento instantáneo. Si esto significa "mortalidad activada" o "muerte espiritual" o "proceso iniciado" es una pregunta teológica que el hebreo no resuelve (la nota de la TT en 2:17 enumera cuatro interpretaciones POSIBLES).
 
 ### E2. Dolor en el parto — biológico o narrativo?
-**[COMPARACIÓN CIENTÍFICA — para conocimiento]**
+**[COMPARACIÓN CIENTÍFICA — POSIBLE]**
 
 Génesis 3:16: "con fatiga darás a luz hijos." El parto humano es objetivamente más difícil que el de la mayoría de los mamíferos (debido a la estructura pélvica bípeda vs. el tamaño de la cabeza neonatal). Si el texto "explica" esta realidad biológica o la usa narrativamente es la pregunta del lector, no la respuesta del texto.
 

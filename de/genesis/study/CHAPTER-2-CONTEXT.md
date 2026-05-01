@@ -220,7 +220,7 @@ Hebräisch *beyom* kann einen wörtlichen 24-Stunden-Tag oder ein idiomatisches 
 ## E. Wissenschaftliche Entsprechung und Nicht-Entsprechung
 
 ### E1. Formung aus Staub -- Elemente und Zusammensetzung
-**[WISSENSCHAFTLICHER VERGLEICH — zur Kenntnisnahme]**
+**[WISSENSCHAFTLICHER VERGLEICH — MÖGLICH]**
 
 Genesis 2:7: "formte den Menschen, Staub vom Erdboden." Die moderne Chemie stellt fest, dass der menschliche Körper aus gängigen Elementen der Erdkruste zusammengesetzt ist (Kohlenstoff, Saürstoff, Wasserstoff, Stickstoff, Kalzium, Phosphor usw.). Dies ist eine Beobachtung, kein Konkordismus-Anspruch. Der Text beschreibt *Formung* aus Erde, nicht chemische Zusammensetzung.
 

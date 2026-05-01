@@ -89,21 +89,21 @@ Juan 1 refleja deliberadamente la apertura del Genesis. Los paralelos verbales: 
 ## C. Contexto historico y arqueologico
 
 ### C1. Beyt-Anyah mas alla del Yarden — debate sobre la identificacion del lugar
-**[HISTORICO / ARQUEOLOGICO — INCIERTO]**
+**[HISTÓRICO / ARQUEOLÓGICO — INCIERTO]**
 
 Juan 1,28: "Estas cosas sucedieron en Beyt-Anyah mas alla del Yarden, donde Yojanan estaba sumergiendo." Este lugar es distinto del Beyt-Anyah cerca de Yerushalayim (la aldea de Lazaro en Juan 11-12). Origenes (siglo III d.C.) informo que no pudo encontrar una "Betania mas alla del Jordan" y sugirio la lectura "Betabara" (Βηθαβαρά, "casa del cruce"), que considero geograficamente plausible. Algunos manuscritos reflejan esta enmienda. Los candidatos modernos para el sitio incluyen Tell al-Kharrar (tambien llamado Betania mas alla del Jordan, en la actual Jordania), que ha sido excavado y muestra evidencia de actividad de peregrinacion del periodo bizantino, aunque la ocupacion prebizantina esta menos claramente establecida. La identificacion sigue siendo incierta — la importancia del sitio es teologica (el comienzo del ministerio publico de Jesus) mas que arqueologica.
 
 **Fuente:** Riesner, R., "Bethany Beyond the Jordan," en *Anchor Bible Dictionary*, vol. 1, Doubleday, 1992; Waheeb, M., "Wadi al-Kharrar (Bethany Beyond the Jordan)," *Annual of the Department of Antiquities of Jordan* 41, 1997.
 
 ### C2. Los Perushim y Yehudim en Juan — contexto historico
-**[HISTORICO / ARQUEOLOGICO — VERIFICADO]**
+**[HISTÓRICO / ARQUEOLÓGICO — VERIFICADO]**
 
 El Cuarto Evangelio introduce a "los Yehudim" (*hoi Ioudaioi*, 1,19) y "los Perushim" (*hoi Pharisaioi*, 1,24) como grupos distintos que interrogan a Yojanan. Los Perushim (fariseos) eran un movimiento judio que enfatizaba la Tora oral, la pureza ritual y la piedad centrada en la sinagoga. Para la epoca en que se compuso el Evangelio de Juan (probablemente 90-100 d.C.), los Perushim se habian convertido en el movimiento judio dominante que sobrevivio tras la destruccion del Templo en el 70 d.C. El termino *hoi Ioudaioi* en Juan es notoriamente complejo: puede significar "los judeos" (geografico), "los judios" (etnico-religioso) o "las autoridades judias" (institucional), segun el contexto. En 1,19, la delegacion proviene de Yerushalayim, lo que sugiere un sentido institucional o geografico — "los judeos" como el establecimiento religioso con sede en Jerusalen. La TT traduce el termino segun el contexto y senala el rango semantico.
 
 **Fuente:** Reinhartz, A., *Cast Out of the Covenant: Jews and Anti-Judaism in the Gospel of John*, Lexington Books, 2018; Mason, S., "Pharisees," en *Anchor Bible Dictionary*, vol. 5, Doubleday, 1992.
 
 ### C3. Practicas de inmersion en el siglo primero — arqueologia del mikveh
-**[HISTORICO / ARQUEOLOGICO — VERIFICADO]**
+**[HISTÓRICO / ARQUEOLÓGICO — VERIFICADO]**
 
 La actividad de Yojanan de sumergir (*baptizo*) en el Yarden ocurre dentro de un contexto judio bien atestiguado de purificacion ritual. Las excavaciones arqueologicas han descubierto cientos de piletas de inmersion ritual (*miqwa'ot*, singular *mikveh*) en toda Judea, Galilea y la Diaspora, datadas desde el periodo hasmoneo (siglo II a.C.) hasta el periodo del Segundo Templo. Estas piletas escalonadas — encontradas en Qumran, Seforis, Yerushalayim (cerca del Monte del Templo), Herodion y residencias privadas — demuestran que la inmersion corporal completa en agua era una practica judia extendida. La inmersion de Yojanan difiere de la practica estandar del mikveh en ubicacion (un rio corriente en lugar de una pileta construida), frecuencia (aparentemente una sola vez en lugar de repetida) y asociacion (con una figura profetica especifica en lugar del Templo o la ley de pureza). La comunidad de los Rollos del Mar Muerto en Qumran tambien practicaba inmersion regular vinculada a la identidad comunitaria, proporcionando un paralelo parcial.
 
@@ -128,7 +128,7 @@ Juan 1,51: ἀμὴν ἀμὴν λέγω ὑμῖν (*amen amen lego hymin*) �
 ## E. Correspondencia y no-correspondencia cientifica
 
 ### E1. "En principio" y origenes cosmologicos — *logos* como principio ordenador
-**[COMPARACION CIENTIFICA — POSIBLE]**
+**[COMPARACIÓN CIENTÍFICA — POSIBLE]**
 
 Juan 1,1-3 describe todas las cosas viniendo a la existencia a traves del *logos* — un principio racional ordenador presente antes de la creacion. La cosmologia moderna describe las condiciones iniciales del universo como gobernadas por constantes fisicas fundamentales y estructuras matematicas — una "racionalidad" inherente en el tejido de la realidad que precede (logica, no temporalmente) a la emergencia de la materia y la energia. Algunos fisicos y filosofos de la ciencia (p. ej., Paul Davies, John Barrow) han senalado la resonancia estructural: el universo parece estar "escrito en matematicas" (la frase de Galileo), y su inteligibilidad — el hecho de que pueda ser descrito por leyes racionales en absoluto — es en si misma inexplicada por la fisica. Esto no es una afirmacion de que Juan anticipo la cosmologia moderna. El *logos* de Juan 1 es personal ("estaba con Dios," "se hizo carne"); la estructura matematica del universo es impersonal. La resonancia es sugestiva, no probatoria. La TT senala el paralelo sin afirmar correspondencia.
 
@@ -139,21 +139,21 @@ Juan 1,1-3 describe todas las cosas viniendo a la existencia a traves del *logos
 ## F. Recepcion posterior
 
 ### F1. El Logos en la teologia trinitaria — Nicea y Calcedonia
-**[RECEPCION POSTERIOR — DOCUMENTADO]**
+**[RECEPCIÓN POSTERIOR — DOCUMENTADO]**
 
 Juan 1,1-18 se convirtio en el principal anclaje biblico para la teologia del Logos que culmino en el Concilio de Nicea (325 d.C.) y el Concilio de Calcedonia (451 d.C.). La afirmacion del Credo Niceno de que el Hijo es "de una misma sustancia (*homoousios*) con el Padre" se apoya fuertemente en Juan 1,1c ("Dios era la palabra") y 1,18 ("el Dios/Hijo unico-nacido"). Arrio (m. 336 d.C.) argumento a partir del mismo Prologo que "hubo un tiempo en que la Palabra no era" — leyendo el *logos* como la primera y mayor criatura en lugar de co-eterno con Dios. El Concilio de Nicea rechazo la lectura de Arrio, pero el debate demostro que Juan 1,1 no resuelve la cuestion metafisica por si solo — requirio interpretacion conciliar para producir la formula nicena. La TT senala: el Prologo precede y no presupone el marco niceno-calcedoniano. Leer Nicea retroactivamente en Juan es una practica teologica documentada, no un requisito textual.
 
 **Fuente:** Ayres, L., *Nicaea and Its Legacy: An Approach to Fourth-Century Trinitarian Theology*, Oxford University Press, 2004; Young, F.M., *From Nicaea to Chalcedon*, 2.a ed., Baker Academic, 2010.
 
 ### F2. Lecturas judias de Juan 1 — rechazo de la identificacion divina del *logos*
-**[RECEPCION POSTERIOR — DOCUMENTADO]**
+**[RECEPCIÓN POSTERIOR — DOCUMENTADO]**
 
 El compromiso judio con el Prologo joanico ha sido historicamente de rechazo. La identificacion del *logos* con una persona ("se hizo carne") que tambien se identifica como Dios ("Dios era la palabra") cruza lo que la teologia rabinica considera el limite del monoteismo. Maimonides (siglo XII) argumento explicitamente contra toda doctrina que introduzca multiplicidad en la unidad de Dios (Guia de los perplejos, 1,50-60). Las disputas judeocristianas medievales (Paris 1240, Barcelona 1263, Tortosa 1413-14) abordaron frecuentemente la cristologia del Logos, con los disputantes judios argumentando que el Prologo tergiversa las concepciones judias de la palabra y la sabiduria divinas. Estudiosos judios modernos (Daniel Boyarin, *Border Lines*, 2004) han complicado este panorama, argumentando que el "binitarismo" — la nocion de dos poderes divinos — existia dentro del judaismo antes y junto al cristianismo primitivo, lo que hace del Prologo joanico un alejamiento menor del pensamiento judio de lo que la ortodoxia rabinica posterior reconocio.
 
 **Fuente:** Boyarin, D., *Border Lines: The Partition of Judaeo-Christianity*, University of Pennsylvania Press, 2004; Novak, D., *Jewish-Christian Dialogue: A Jewish Justification*, Oxford University Press, 1989.
 
 ### F3. Recepcion islamica — Isa como palabra de Dios (*kalimatu'llah*)
-**[RECEPCION POSTERIOR — DOCUMENTADO]**
+**[RECEPCIÓN POSTERIOR — DOCUMENTADO]**
 
 El Coran describe a Isa (Jesus) como "una palabra de El" (كَلِمَةً مِّنْهُ, *kalimatan minhu*, Coran 3,45) y "Su palabra que dirigio hacia Maryam" (كَلِمَتُهُ أَلْقَاهَا إِلَىٰ مَرْيَمَ, *kalimatuhu alqaha ila Maryam*, Coran 4,171). La designacion de Isa como "palabra" (*kalima*) de Dios resuena verbalmente con Juan 1,1 pero difiere fundamentalmente en alcance: en la teologia islamica, Isa es una palabra *de* Dios (una expresion creada de la voluntad divina — el mandato "¡se!" que produjo su nacimiento milagroso), no la Palabra eterna que *era* Dios. El Coran niega explicitamente que Isa sea divino (4,171: "no digan 'tres'... Dios es solo un unico Dios"). Los comentaristas islamicos clasicos (al-Tabari, Ibn Kathir) interpretan *kalima* como referencia al mandato creador (*kun*, "se") por el cual Dios inicio la concepcion de Isa en el vientre de Maryam, no como una afirmacion de preexistencia o divinidad. La superposicion verbal con el *logos* joanico sin la identificacion ontologica ilustra como el mismo titulo puede portar un contenido teologico enteramente diferente.
 

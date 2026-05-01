@@ -75,7 +75,7 @@ export function parseProphecyMarkdown(
         current.context = value;
       } else if (key.includes("subject") || key.includes("sujeto") || key.includes("sujeito") || key.includes("gegenstand")) {
         current.subject = value;
-      } else if (key.includes("fulfillment status") || key.includes("estado") || key.includes("erfüllungsstatus")) {
+      } else if (key.includes("fulfillment status") || key.includes("estado de cumplimiento") || key.includes("estado de cumprimento") || key.includes("erfüllungsstatus") || key.includes("erfullungsstatus")) {
         current.fulfillmentStatus = parseFulfillmentStatus(value);
       } else if (key.includes("fulfillment notes") || key.includes("notas") || key.includes("anmerkungen")) {
         current.fulfillmentNotes = value;
