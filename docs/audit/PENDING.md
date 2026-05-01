@@ -27,4 +27,4 @@ The `VerseRelated` component (`src/ui/study/verse-related.tsx`) is built and rea
 
 ## C3 — People Cross-Book Canonical Structure (Future)
 
-The current `{locale}/{book}/PEOPLE.md` per-book model works for Genesis. When Avraham appears in multiple books (Genesis 13+, Romans 4, Galatians 3, Hebrews 11), refactor to `{locale}/people/INDEX.md` with cross-book canonical entries to prevent data drift across books.
+The current `{locale}/{book}/PEOPLE.md` per-book model works for Genesis and Matthew. When Avraham appears in additional books (Romans 4, Galatians 3, Hebrews 11), refactor to `{locale}/people/INDEX.md` with cross-book canonical entries to prevent data drift across books.

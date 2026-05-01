@@ -9,10 +9,9 @@ const FIELD_LINE = /^\*\*(.+?):\*\*\s*(.+)$/;
 
 function parseOriginType(raw: string): OriginType {
   const n = raw.trim().toUpperCase();
-  if (n === "BORN" || n === "NASCIDO" || n === "GEBOREN" || n === "NACIDO") return "BORN";
-  if (n === "CREATED" || n === "CRIADO" || n === "ERSCHAFFEN" || n === "CREADO") return "CREATED";
-  if (n === "APPEARS" || n === "APARECE" || n === "ERSCHEINT") return "APPEARS";
-  console.warn(`Unrecognized origin type: "${raw}", falling back to UNCERTAIN`);
+  if (n.includes("BORN") || n.includes("NASCIDO") || n.includes("NASCIDA") || n.includes("GEBOREN") || n.includes("NACIDO") || n.includes("NACIDA")) return "BORN";
+  if (n.includes("CREATED") || n.includes("CRIADO") || n.includes("CRIADA") || n.includes("ERSCHAFFEN") || n.includes("CREADO") || n.includes("CREADA")) return "CREATED";
+  if (n.includes("APPEARS") || n.includes("APARECE") || n.includes("ERSCHEINT")) return "APPEARS";
   return "UNCERTAIN";
 }
 
@@ -49,7 +48,7 @@ export function parsePeopleMarkdown(
 
       if (key.includes("meaning") || key.includes("significado") || key.includes("bedeutung")) {
         current.nameMeaning = value;
-      } else if (key.includes("origin") || key.includes("origem") || key.includes("ursprung") || key.includes("origen")) {
+      } else if (key.includes("origin") || key.includes("origem") || key.includes("ursprung") || key.includes("herkunft") || key.includes("origen")) {
         current.originType = parseOriginType(value);
       } else if (key.includes("birth") || key.includes("nascimento") || key.includes("geburt") || key.includes("nacimiento")) {
         current.birthYear = value;
