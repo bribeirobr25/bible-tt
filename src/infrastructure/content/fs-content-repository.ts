@@ -7,7 +7,7 @@ import { parseEnrichmentMarkdown, parseIntroductionMarkdown } from "./enrichment
 import { parseProphecyMarkdown } from "./prophecy-parser";
 import { parsePeopleMarkdown } from "./people-parser";
 
-const CONTENT_ROOT = path.join(/*turbopackIgnore: true*/ process.cwd());
+const CONTENT_ROOT = path.join(process.cwd(), "content");
 
 export async function readChapter(
   locale: Locale,

@@ -3,7 +3,7 @@ import fs from "node:fs/promises";
 import path from "node:path";
 import { parseChapterMarkdown } from "../markdown-parser";
 
-const ROOT = path.resolve(process.cwd());
+const ROOT = path.resolve(process.cwd(), "content");
 
 const LOCALES = ["en", "pt-br", "de", "es"] as const;
 const CHAPTERS = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12] as const;

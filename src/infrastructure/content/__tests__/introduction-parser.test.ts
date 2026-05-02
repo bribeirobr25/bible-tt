@@ -4,7 +4,7 @@ import path from "node:path";
 import { parseIntroductionMarkdown } from "../enrichment-parser";
 import type { ConfidenceLevel } from "@/domain/content/types";
 
-const ROOT = path.resolve(process.cwd());
+const ROOT = path.resolve(process.cwd(), "content");
 
 describe("Introduction Parser", () => {
   describe("en/genesis/INTRODUCTION.md", () => {

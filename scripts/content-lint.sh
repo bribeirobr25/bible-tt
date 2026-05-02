@@ -1,8 +1,8 @@
 #!/bin/bash
 set -e
 
-CONTENT_DIRS="en/genesis pt-br/genesis de/genesis es/genesis"
-STUDY_DIRS="en/genesis/study pt-br/genesis/study de/genesis/study es/genesis/study"
+CONTENT_DIRS="content/en/genesis content/pt-br/genesis content/de/genesis content/es/genesis content/en/john content/pt-br/john content/de/john content/es/john content/en/matthew content/pt-br/matthew content/de/matthew content/es/matthew"
+STUDY_DIRS="content/en/genesis/study content/pt-br/genesis/study content/de/genesis/study content/es/genesis/study content/en/john/study content/pt-br/john/study content/de/john/study content/es/john/study content/en/matthew/study content/pt-br/matthew/study content/de/matthew/study content/es/matthew/study"
 
 ERRORS=0
 
@@ -25,7 +25,7 @@ check_pattern "EXPLICIT-family labels" "EXPLICIT|EXPLIZIT|EXPLÍCITO|EXPLICITO" 
 check_pattern "Stale 'for awareness' labels" "for awareness|para información|para consciência" "$STUDY_DIRS"
 check_pattern "Vosotros forms" "vosotros|vuestr" "$CONTENT_DIRS"
 check_pattern "Trilingual residue" "all three target|three target lang|tres idiomas|três idiomas|drei Zielsprachen" "$STUDY_DIRS"
-check_pattern "ES diacritics errors" "enél|debajó|formás|mismás|\babajó\b" "$CONTENT_DIRS"
+check_pattern "ES diacritics errors" "enél|debajó|formás|mismás|\babajó\b" "content/es/genesis content/es/john content/es/matthew"
 
 echo ""
 echo "Checking for stale version references in front matter..."

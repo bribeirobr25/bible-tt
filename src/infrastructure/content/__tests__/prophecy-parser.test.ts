@@ -4,7 +4,7 @@ import path from "node:path";
 import { parseProphecyMarkdown } from "../prophecy-parser";
 import type { ConfidenceLevel, FulfillmentStatus } from "@/domain/content/types";
 
-const ROOT = path.resolve(process.cwd());
+const ROOT = path.resolve(process.cwd(), "content");
 
 const VALID_FULFILLMENT_STATUSES: FulfillmentStatus[] = [
   "FULFILLED",
