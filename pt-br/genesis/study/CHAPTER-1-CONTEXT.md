@@ -327,6 +327,52 @@ Genesis 1:5: יוֹם אֶחָד (*yom echad*) = "dia um" (número cardinal). To
 
 As opções interpretativas incluem: (1) Dia 1 como um início único e absoluto; (2) *echad* com a força de "um e único" em vez de sequência ordinal; (3) estrutura literária sinalizando o status especial do primeiro dia. A TT preserva a forma cardinal nos quatro idiomas (EN "one day", PT "um dia", DE "Tag eins").
 
+### D5. *Bereshit* — múltiplas análises da primeira palavra
+**[TEXTUAL — VERIFICADO]**
+
+A primeira palavra da Bíblia, בְּרֵאשִׁית (*bereshit*), é um composto: o prefixo *be-* (em/por/através de/por causa de) + *reshit* (início/primeiro/primogênito). A leitura padrão a toma como "no princípio" — uma afirmação temporal. Mas a morfologia hebraica permite outras análises:
+
+- **"No princípio"** — temporal: a criação ocorreu no início do tempo. Esta é a tradição de tradução dominante.
+- **"Por/através do primeiro"** — instrumental: Deus criou por meio de "o primeiro" ou "o primogênito." O prefixo *be-* pode ter força instrumental ("por meio de"), e *reshit* pode significar "o primeiro" em vez de "o início."
+- **"Por causa do primeiro"** — final: Deus criou por causa de "o primeiro/primogênito."
+
+A ambiguidade gramatical é real — *be-* genuinamente carrega esses múltiplos sentidos em hebraico, e *reshit* pode referir-se a início temporal, a um primogênito, ou à porção primeira/mais escolhida (como em Deuteronômio 18:4, Jeremias 2:3). A TT traduz "No princípio" (a leitura temporal) no texto principal e registra as alternativas morfológicas aqui.
+
+**Fonte:** Waltke, B.K. & O'Connor, M.P., *An Introduction to Biblical Hebrew Syntax*, Eisenbrauns, 1990 (PEER-REVIEWED).
+
+### D6. A mudança de forma verbal entre Gênesis 1:1 e 1:3 — uma lacuna indefinida?
+**[TEXTUAL — VERIFICADO]**
+
+Gênesis 1:1 usa a forma hebraica *qatal* (ação concluída): בָּרָא (*bara*) — "criou." A partir de Gênesis 1:3, a narrativa passa para a forma *wayyiqtol* (narrativa sequencial): וַיֹּאמֶר (*vayyomer*) — "e disse." Esses são dois sistemas verbais hebraicos distintos:
+
+- **Qatal** (*bara*, 1:1) descreve uma ação concluída que se sustenta por si mesma — não está encadeada em uma sequência narrativa. Ela enuncia um fato: "Deus criou os céus e a terra."
+- **Wayyiqtol** (*vayyomer*, 1:3 em diante) é a cadeia de "e... e... e..." que conduz a sequência do Dia 1 ao Dia 6. Cada ação decorre da anterior em ordem narrativa.
+
+A mudança significa que 1:1 é gramaticalmente independente da sequência dos seis dias que começa em 1:3. O versículo 1:2 ("e a terra era caos e vazio") emprega ainda outra construção — uma oração circunstancial que descreve o estado das coisas.
+
+**O que isso implica para a questão da "idade":** O texto não especifica quanto tempo, se é que algum, separa o evento concluído de 1:1 do início da narrativa sequencial em 1:3. A gramática permite: (a) nenhuma lacuna — 1:1 é um cabeçalho-resumo do que se segue; (b) uma lacuna indefinida — 1:1 descreve um ato criativo anterior, e os seis dias começam depois; (c) uma reafirmação simultânea — 1:1 e 1:3 descrevem o mesmo momento sob ângulos diferentes.
+
+O professor de hebraico C. John Collins (tradutor-chefe do hebraico da ESV, também cientista de formação) descreveu isso assim: a declaração de abertura ocorre "em um período indefinido antes" da sequência dos seis dias. Essa é uma observação gramatical, não uma conclusão teológica — significa que o próprio texto não especifica a idade do universo, independentemente de como se leia os "dias."
+
+**Fonte:** Collins, C.J., *Genesis 1-4: A Linguistic, Literary, and Theological Commentary*, P&R Publishing, 2006 (PEER-REVIEWED); Waltke, B.K. & O'Connor, M.P., *An Introduction to Biblical Hebrew Syntax*, Eisenbrauns, 1990 (PEER-REVIEWED).
+
+---
+
+## F_extra. Leituras rabínicas e cristãs de *bereshit* como "por causa do primogênito"
+
+### F_. *Bereshit* como "por causa de" — leituras rabínicas e cristãs
+**[RECEPÇÃO POSTERIOR — DOCUMENTADO]**
+
+A análise alternativa de *bereshit* como "por causa do primeiro" gerou ricas tradições interpretativas:
+
+**Leitura rabínica:** *Genesis Rabbah* 1:4 (midrash do séc. V d.C.) pergunta a que *reshit* se refere e oferece múltiplas respostas: Torá (porque Provérbios 8:22 chama a sabedoria de *reshit* — "YHWH me adquiriu como o princípio do seu caminho"), Israel (porque Jeremias 2:3 chama Israel de *reshit* — "Israel é santo para YHWH, as primícias da sua colheita"), e o Messias. O método midrásico lê: "Deus criou o mundo por causa da Torá / de Israel / do Messias." Isto não é uma afirmação sobre o que a palavra "significa" linguisticamente, mas sobre o que ela *sugere* por meio da técnica rabínica de referência cruzada de cada ocorrência de uma palavra-chave em toda a Bíblia Hebraica.
+
+**Leitura cristã:** Alguns intérpretes cristãos conectam a análise do "primogênito" a Colossenses 1:15-16 ("o primogênito de toda a criação... todas as coisas foram criadas por meio dele") e Apocalipse 13:8 ("o cordeiro morto antes da fundação do mundo"). Nesta leitura, *bereshit* codifica a pré-existência do Messias como agente ou propósito da criação — a cura preparada antes da doença. João 1:1-3 ("No princípio era o verbo... todas as coisas foram feitas por meio dele") pode também refletir consciência desta tradição interpretativa.
+
+**O que a TT faz:** O texto principal traduz a leitura temporal ("No princípio") porque esse é o sentido lexical primário. Estas tradições de recepção são documentadas aqui porque ilustram como leitores antigos interagiram com a ambiguidade morfológica que o texto genuinamente contém. Nem a leitura rabínica nem a cristã está "escondida no hebraico" — ambas são tradições interpretativas construídas sobre uma possibilidade gramatical real.
+
+**Fonte:** Freedman, H. & Simon, M. (trad.), *Midrash Rabbah: Genesis*, Soncino, 1939 (PEER-REVIEWED); Kugel, J.L., *Traditions of the Bible*, Harvard, 1998 (PEER-REVIEWED).
+
 ---
 
 ## E. Correspondência e Não-Correspondência Científica

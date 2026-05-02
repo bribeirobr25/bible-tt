@@ -327,6 +327,52 @@ Genesis 1:5: יוֹם אֶחָד (*yom echad*) = "day one" — using a counting 
 
 Interpretive options include: (1) Day 1 as a unique, absolute beginning; (2) *echad* carrying the force of "one and only" rather than simply "first in a sequence"; (3) a literary choice signaling the first day's special status. The TT preserves the cardinal form in all four target languages (EN "one day", PT "um dia", DE "Tag eins", ES "día uno").
 
+### D5. *Bereshit* — multiple parsings of the first word
+**[TEXTUAL — VERIFIED]**
+
+The first word of the Bible, בְּרֵאשִׁית (*bereshit*), is a compound: the prefix *be-* (in/by/through/on account of) + *reshit* (beginning/first/firstborn). The standard reading takes it as "in beginning" — a temporal statement. But Hebrew morphology allows other parsings:
+
+- **"In beginning"** — temporal: the creation happened at the start of time. This is the dominant translation tradition.
+- **"By/through the first"** — instrumental: God created by means of "the first" or "the firstborn." The prefix *be-* can carry instrumental force ("by means of"), and *reshit* can mean "the first one" rather than "the beginning."
+- **"On account of the first"** — purposive: God created for the sake of "the first/firstborn."
+
+The grammatical ambiguity is real — *be-* genuinely carries these multiple senses in Hebrew, and *reshit* can refer to temporal beginning, to a firstborn, or to the choicest/first portion (as in Deuteronomy 18:4, Jeremiah 2:3). The TT translates "In beginning" (the temporal reading) in the main text and notes the morphological alternatives here.
+
+**Source:** Waltke, B.K. & O'Connor, M.P., *An Introduction to Biblical Hebrew Syntax*, Eisenbrauns, 1990 (PEER-REVIEWED).
+
+### D6. The verb-form shift between Genesis 1:1 and 1:3 — an indefinite gap?
+**[TEXTUAL — VERIFIED]**
+
+Genesis 1:1 uses the Hebrew *qatal* (completed action) form: בָּרָא (*bara*) — "created." Starting at Genesis 1:3, the narrative switches to *wayyiqtol* (sequential narrative) form: וַיֹּאמֶר (*vayyomer*) — "and said." These are two different Hebrew verb systems:
+
+- **Qatal** (*bara*, 1:1) describes a completed action that stands on its own — it is not linked into a narrative sequence. It states a fact: "God created the skies and the land."
+- **Wayyiqtol** (*vayyomer*, 1:3 onward) is the chain of "and... and... and..." that drives the Day 1 through Day 6 sequence. Each action follows from the previous one in narrative order.
+
+The shift means 1:1 is grammatically independent from the six-day sequence that begins at 1:3. Verse 1:2 ("and the land was chaos and void") uses a different construction again — a circumstantial clause describing the state of things.
+
+**What this implies for the "age" question:** The text does not specify how much time, if any, separates the completed event of 1:1 from the sequential narrative beginning at 1:3. The grammar allows: (a) no gap — 1:1 is a summary heading for what follows; (b) an indefinite gap — 1:1 describes a prior creative act, and the six days begin afterward; (c) a simultaneous restatement — 1:1 and 1:3 describe the same moment from different angles.
+
+The Hebrew professor C. John Collins (lead Hebrew translator of the ESV, also a trained scientist) has described this as: the opening statement occurs "at an indefinite period before" the six-day sequence. This is a grammatical observation, not a theological conclusion — it means the text itself does not specify the age of the universe, regardless of how one reads the "days."
+
+**Source:** Collins, C.J., *Genesis 1-4: A Linguistic, Literary, and Theological Commentary*, P&R Publishing, 2006 (PEER-REVIEWED); Waltke, B.K. & O'Connor, M.P., *An Introduction to Biblical Hebrew Syntax*, Eisenbrauns, 1990 (PEER-REVIEWED).
+
+---
+
+## F_extra. Rabbinic and Christian readings of *bereshit* as "on account of the firstborn"
+
+### F_. *Bereshit* as "for the sake of" — rabbinic and Christian readings
+**[LATER RECEPTION — DOCUMENTED]**
+
+The alternative parsing of *bereshit* as "on account of the first" generated rich interpretive traditions:
+
+**Rabbinic reading:** *Genesis Rabbah* 1:4 (5th c. CE midrash) asks what *reshit* refers to and offers multiple answers: Torah (because Proverbs 8:22 calls wisdom *reshit* — "YHWH acquired me as the beginning of his way"), Israel (because Jeremiah 2:3 calls Israel *reshit* — "Israel is holy to YHWH, the firstfruits of his harvest"), and the Messiah. The midrashic method reads: "God created the world for the sake of Torah / Israel / the Messiah." This is not a claim about what the word "means" linguistically but about what it *hints at* through the rabbinic technique of cross-referencing every occurrence of a keyword across the entire Hebrew Bible.
+
+**Christian reading:** Some Christian interpreters connect the "firstborn" parsing to Colossians 1:15-16 ("the firstborn of all creation... all things were created through him") and Revelation 13:8 ("the lamb slain before the foundation of the world"). In this reading, *bereshit* encodes the pre-existence of the Messiah as the agent or purpose of creation — the cure prepared before the sickness. John 1:1-3 ("In beginning was the word... all things came into being through him") may also reflect awareness of this interpretive tradition.
+
+**What the TT does:** The main text translates the temporal reading ("In beginning") because that is the primary lexical sense. These reception traditions are documented here because they illustrate how ancient readers engaged with the morphological ambiguity the text genuinely contains. Neither the rabbinic nor the Christian reading is "hidden in the Hebrew" — both are interpretive traditions built on a real grammatical possibility.
+
+**Source:** Freedman, H. & Simon, M. (trans.), *Midrash Rabbah: Genesis*, Soncino, 1939 (PEER-REVIEWED); Kugel, J.L., *Traditions of the Bible*, Harvard, 1998 (PEER-REVIEWED).
+
 ---
 
 ## E. Scientific Correspondence and Non-Correspondence

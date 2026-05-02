@@ -327,6 +327,52 @@ Génesis 1:5: יוֹם אֶחָד (*yom echad*) = "día uno" (número cardinal).
 
 Las opciones interpretativas incluyen: (1) el Día 1 como un inicio único y absoluto; (2) *echad* con la fuerza de "uno y único" más que de secuencia ordinal; (3) estructura literaria que señala el estatus especial del primer día. La TT preserva la forma cardinal en todos los idiomas (EN "one day", PT "um dia", DE "Tag eins", ES "día uno").
 
+### D5. *Bereshit* — múltiples análisis de la primera palabra
+**[TEXTUAL — VERIFICADO]**
+
+La primera palabra de la Biblia, בְּרֵאשִׁית (*bereshit*), es un compuesto: el prefijo *be-* (en/por/a través de/por causa de) + *reshit* (principio/primero/primogénito). La lectura estándar la toma como "en el principio" — una afirmación temporal. Pero la morfología hebrea permite otros análisis:
+
+- **"En el principio"** — temporal: la creación ocurrió al inicio del tiempo. Esta es la tradición de traducción dominante.
+- **"Por/a través del primero"** — instrumental: Dios creó por medio de "el primero" o "el primogénito." El prefijo *be-* puede tener fuerza instrumental ("por medio de"), y *reshit* puede significar "el primero" en vez de "el principio."
+- **"Por causa del primero"** — final: Dios creó por causa de "el primero/primogénito."
+
+La ambigüedad gramatical es real — *be-* genuinamente lleva estos múltiples sentidos en hebreo, y *reshit* puede referirse a un principio temporal, a un primogénito, o a la porción primera/más selecta (como en Deuteronomio 18:4, Jeremías 2:3). La TT traduce "En el principio" (la lectura temporal) en el texto principal y registra las alternativas morfológicas aquí.
+
+**Fuente:** Waltke, B.K. & O'Connor, M.P., *An Introduction to Biblical Hebrew Syntax*, Eisenbrauns, 1990 (PEER-REVIEWED).
+
+### D6. El cambio de forma verbal entre Génesis 1:1 y 1:3 — ¿un intervalo indefinido?
+**[TEXTUAL — VERIFICADO]**
+
+Génesis 1:1 usa la forma hebrea *qatal* (acción completada): בָּרָא (*bara*) — "creó." A partir de Génesis 1:3, la narrativa cambia a la forma *wayyiqtol* (narrativa secuencial): וַיֹּאמֶר (*vayyomer*) — "y dijo." Estos son dos sistemas verbales hebreos distintos:
+
+- **Qatal** (*bara*, 1:1) describe una acción completada que se sostiene por sí misma — no está encadenada en una secuencia narrativa. Enuncia un hecho: "Dios creó los cielos y la tierra."
+- **Wayyiqtol** (*vayyomer*, 1:3 en adelante) es la cadena de "y... y... y..." que impulsa la secuencia del Día 1 al Día 6. Cada acción se desprende de la anterior en orden narrativo.
+
+El cambio significa que 1:1 es gramaticalmente independiente de la secuencia de los seis días que comienza en 1:3. El versículo 1:2 ("y la tierra era caos y vacío") usa otra construcción diferente — una oración circunstancial que describe el estado de las cosas.
+
+**Lo que esto implica para la pregunta de la "edad":** El texto no especifica cuánto tiempo, si acaso alguno, separa el evento completado de 1:1 del inicio de la narrativa secuencial en 1:3. La gramática permite: (a) ningún intervalo — 1:1 es un encabezado-resumen de lo que sigue; (b) un intervalo indefinido — 1:1 describe un acto creativo previo y los seis días comienzan después; (c) una reafirmación simultánea — 1:1 y 1:3 describen el mismo momento desde ángulos distintos.
+
+El profesor de hebreo C. John Collins (traductor principal del hebreo de la ESV, también científico de formación) ha descrito esto así: la declaración de apertura ocurre "en un período indefinido antes" de la secuencia de los seis días. Esto es una observación gramatical, no una conclusión teológica — significa que el texto mismo no especifica la edad del universo, independientemente de cómo se lean los "días."
+
+**Fuente:** Collins, C.J., *Genesis 1-4: A Linguistic, Literary, and Theological Commentary*, P&R Publishing, 2006 (PEER-REVIEWED); Waltke, B.K. & O'Connor, M.P., *An Introduction to Biblical Hebrew Syntax*, Eisenbrauns, 1990 (PEER-REVIEWED).
+
+---
+
+## F_extra. Lecturas rabínicas y cristianas de *bereshit* como "por causa del primogénito"
+
+### F_. *Bereshit* como "por causa del primogénito" — lecturas rabínicas y cristianas
+**[RECEPCIÓN POSTERIOR — DOCUMENTADO]**
+
+El análisis alternativo de *bereshit* como "por causa del primero" generó ricas tradiciones interpretativas:
+
+**Lectura rabínica:** *Genesis Rabbah* 1:4 (midrash del s. V d.C.) pregunta a qué se refiere *reshit* y ofrece múltiples respuestas: Torá (porque Proverbios 8:22 llama a la sabiduría *reshit* — "YHWH me adquirió como el principio de su camino"), Israel (porque Jeremías 2:3 llama a Israel *reshit* — "Israel es santo para YHWH, las primicias de su cosecha"), y el Mesías. El método midrásico lee: "Dios creó el mundo por causa de la Torá / Israel / el Mesías." Esto no es una afirmación sobre lo que la palabra "significa" lingüísticamente, sino sobre lo que *sugiere* mediante la técnica rabínica de referencia cruzada de cada aparición de una palabra clave en toda la Biblia Hebrea.
+
+**Lectura cristiana:** Algunos intérpretes cristianos conectan el análisis del "primogénito" con Colosenses 1:15-16 ("el primogénito de toda la creación... todas las cosas fueron creadas por medio de él") y Apocalipsis 13:8 ("el cordero inmolado antes de la fundación del mundo"). En esta lectura, *bereshit* codifica la preexistencia del Mesías como agente o propósito de la creación — la cura preparada antes de la enfermedad. Juan 1:1-3 ("En el principio era el verbo... todas las cosas fueron hechas por medio de él") puede también reflejar conciencia de esta tradición interpretativa.
+
+**Lo que hace la TT:** El texto principal traduce la lectura temporal ("En el principio") porque ese es el sentido léxico primario. Estas tradiciones de recepción se documentan aquí porque ilustran cómo los lectores antiguos interactuaron con la ambigüedad morfológica que el texto genuinamente contiene. Ni la lectura rabínica ni la cristiana está "escondida en el hebreo" — ambas son tradiciones interpretativas construidas sobre una posibilidad gramatical real.
+
+**Fuente:** Freedman, H. & Simon, M. (trad.), *Midrash Rabbah: Genesis*, Soncino, 1939 (PEER-REVIEWED); Kugel, J.L., *Traditions of the Bible*, Harvard, 1998 (PEER-REVIEWED).
+
 ---
 
 ## E. Correspondencia y no correspondencia científica
