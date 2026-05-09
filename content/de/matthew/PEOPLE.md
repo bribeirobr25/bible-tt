@@ -94,6 +94,9 @@ Diese Datei enthält biografische und genealogische Informationen über Personen
 ## Yeshua (Jesus)
 **Bedeutung:** „JHWH rettet" oder „JHWH ist Rettung" (Hebräisch יֵשׁוּעַ, *Jesus*, eine späte Form von יְהוֹשֻׁעַ, *Yehoshua*)
 **Herkunft:** GEBOREN
+**Geburtsjahr:** ca. 4 v.u.Z. (TEXTUAL — WAHRSCHEINLICH; gemäß Mt 2,1 ordnete Herodes die Tötung der Kinder „von zwei Jahren und darunter" an, was die Geburt ~6–4 v.u.Z. vor Herodes' Tod im Jahr 4 v.u.Z. ansetzt)
+**Todesjahr:** ca. 30 oder 33 u.Z. (TEXTUAL — UNSICHER; die Chronologie von Markus + Lukas legt ca. 30 nahe; die drei Pessach-Feste bei Johannes legen ca. 33 nahe)
+**Lebensdauer:** ~33–37 Jahre (Spanne spiegelt die Unsicherheit von Geburt + Tod wider)
 **Vater:** rechtlich — Josef, Sohn Jakobs (Mt 1,16.20); biologisch — „vom heiligen Geist" gemäß dem Text (1,18.20)
 **Mutter:** Maria (1,16.18)
 **Ehepartner:** keine/r angegeben in Matthäus 1-3
@@ -115,8 +118,8 @@ Diese Datei enthält biografische und genealogische Informationen über Personen
 **Historischer Status:** WAHRSCHEINLICH — wissenschaftlicher Konsens akzeptiert eine historische Gestalt namens Jesus, die unter Pilatus gekreuzigt wurde; die übernatürlichen Behauptungen (jungfräuliche Empfängnis, Auferstehung) unterliegen nicht der historisch-kritischen Beurteilung und werden gemäß Regel 13 vermerkt, aber hier nicht bewertet
 **Bücher in denen er vorkommt:** Matthäus; Markus; Lukas; Johannes; Apostelgeschichte; Römer; 1. und 2. Korinther; Galater; Epheser; Philipper; Kolosser; 1. und 2. Thessalonicher; 1. und 2. Timotheus; Titus; Philemon; Hebräer; Jakobus; 1. und 2. Petrus; 1., 2., 3. Johannes; Judas; Offenbarung
 **Charakterbogen:** Matthäus 1-3 etabliert ihn, bevor er spricht: außerhalb normaler Zeugung empfangen, mit theologischem Ziel benannt, von fremden Magiern besucht, von einem König verfolgt, nach Ägypten und zurück vertrieben, und schließlich in den Jordan hinabsteigend, wo eine Stimme aus den Himmeln ihn identifiziert — der Bogen ist Vorbereitung und Identifikation, noch nicht Handlung
-**Historisches Jahr:** -4 (ungefähres Geburtsjahr, v.u.Z. — vor Herodes' Tod im Jahr 4 v.u.Z. angesetzt)
-**Historisches Jahr — Ende:** 30 (ungefähres Jahr der Kreuzigung, u.Z.; einige Gelehrte bevorzugen 33 u.Z.)
+**Historisches Jahr:** -4
+**Historisches Jahr — Ende:** 30
 
 **Hinweis:** Die Namensetymologie wird im Text selbst angegeben (1,21). Das griechische Ἰησοῦς (*Iēsous*) stammt vom hebräischen/aramäischen יֵשׁוּעַ (*Jesus*). Die TT gibt den Namen in seiner hebräischen Form gemäß der Transliterationspolitik wieder.
 
@@ -125,6 +128,9 @@ Diese Datei enthält biografische und genealogische Informationen über Personen
 ## Miryam (Maria)
 **Bedeutung:** unsicher (möglicherweise „bitter," „geliebt" oder „aufsässig"; Etymologie seit der Antike umstritten)
 **Herkunft:** GEBOREN (keine Eltern in Matthäus genannt)
+**Geburtsjahr:** ca. 20 v.u.Z. (POSSIBLE INFERENCE — MÖGLICH; nimmt ~14 Jahre bei der Empfängnis an, rückwärts gerechnet von Yeshuas Geburt ca. 4 v.u.Z.)
+**Todesjahr:** im NT nicht angegeben (LATER RECEPTION — MÖGLICH; Traditionen variieren, ~41 u.Z. oder später)
+**Lebensdauer:** nicht angegeben; ~60+ Jahre nach Traditionen späterer Rezeption (MÖGLICH)
 **Vater:** nicht angegeben in Matthäus
 **Mutter:** nicht angegeben in Matthäus
 **Ehepartner:** Josef (verlobt, 1,18; verheiratet, 1,24)
@@ -146,7 +152,7 @@ Diese Datei enthält biografische und genealogische Informationen über Personen
 **Historischer Status:** UNSICHER — eine Frau namens Mirjam (ein verbreiteter Name im 1. Jh. in Judäa) als Mutter Jesu wird von den meisten Historikern akzeptiert; Einzelheiten ihrer Biographie sind nicht unabhängig belegt
 **Bücher in denen sie vorkommt:** Matthäus; Markus (impliziert 6,3); Lukas (ausführlich, bes. Kap. 1-2); Johannes; Apostelgeschichte 1,14
 **Charakterbogen:** Matthäus 1-3 präsentiert sie ganz durch die Handlungen und Beschreibungen anderer — sie ist das Gefäß der Empfängnis, das Objekt von Josefs Entscheidung, die von den Magiern Besuchte und die nach Ägypten Gebrachte. Sie spricht nicht in Matthäus' Geburtserzählung. Ihr Bogen innerhalb dieses Umfangs ist vollständig passiv.
-**Historisches Jahr:** c. -20 (ungefähres Geburtsjahr, sehr unsicher)
+**Historisches Jahr:** -20
 **Historisches Jahr — Ende:** nicht angegeben im Neuen Testament
 
 **Hinweis:** Matthäus' Geburtserzählung wird aus Josefs Perspektive erzählt (im Gegensatz zu Lukas 1-2, der Maria in den Mittelpunkt stellt). Maria spricht oder handelt in Matthäus 1-2 nicht selbstständig. Die Formulierung der Genealogie in 1,16 wechselt vom aktiven Muster („X zeugte Y") zum Passiv („von der geboren wurde Jesus") — ein grammatischer Bruch, den die TT bewahrt.
@@ -156,6 +162,9 @@ Diese Datei enthält biografische und genealogische Informationen über Personen
 ## Yosef (Josef)
 **Bedeutung:** „er wird hinzufügen" oder „möge er hinzufügen" (Gen 30,24; von *yasaf*)
 **Herkunft:** GEBOREN
+**Geburtsjahr:** ca. 25 v.u.Z. (POSSIBLE INFERENCE — MÖGLICH; nimmt einen reifen Handwerker zur Zeit der Verlobung/Heirat mit Miryam an)
+**Todesjahr:** wahrscheinlich vor Yeshuas Wirken (POSSIBLE INFERENCE — MÖGLICH; abwesend in den Erwachsenen-Erzählungen, traditionell als vor ca. 27 u.Z. verstorben angenommen)
+**Lebensdauer:** nicht angegeben
 **Vater:** Jakob (Mt 1,16; vgl. Lk 3,23 — „des Eli")
 **Mutter:** nicht angegeben
 **Ehepartner:** Maria (1,18-20.24)
@@ -177,7 +186,7 @@ Diese Datei enthält biografische und genealogische Informationen über Personen
 **Historischer Status:** UNSICHER — ein Handwerker namens Josef als rechtlicher Vater Jesu wird von den meisten Historikern akzeptiert; biographische Einzelheiten sind nicht unabhängig belegt
 **Bücher in denen er vorkommt:** Matthäus; Lukas (Geburtserzählung und Genealogie); Johannes 1,45; 6,42
 **Charakterbogen:** Er ist derjenige, zu dem die Engelsbotschaften kommen, derjenige, der nach ihnen handelt, derjenige, der das Kind benennt, der flieht, der zurückkehrt, der umleitet — der schweigsame, gehorsame Ausführer göttlicher Weisung in Matthäus' Geburtserzählung. Er wird vollständig durch das definiert, was er tut, nicht durch das, was er sagt.
-**Historisches Jahr:** c. -25 (ungefähres Geburtsjahr, sehr unsicher)
+**Historisches Jahr:** -25
 **Historisches Jahr — Ende:** nicht angegeben im Neuen Testament
 
 **Hinweis:** Josef empfängt vier Träume mit göttlicher Weisung in Matthäus 1-2 (1,20; 2,13; 2,19; 2,22) — ein Muster, das an den Patriarchen Josef der Genesis erinnert, der ebenfalls ein Träumer war und ebenfalls nach Ägypten ging. Ob Matthäus diese Typologie beabsichtigt oder ob sie eine Beobachtung späterer Leser ist, wird diskutiert. Die TT gibt die Typologie im Haupttext nicht an.
@@ -187,6 +196,9 @@ Diese Datei enthält biografische und genealogische Informationen über Personen
 ## Herodes (Herodes)
 **Bedeutung:** „heldenhaft" (griechischer Name, Ἡρῴδης, *Hērōdēs*)
 **Herkunft:** GEBOREN (ca. 73/72 v.u.Z.)
+**Geburtsjahr:** 73 v.u.Z. (HISTORICAL / ARCHAEOLOGICAL — VERIFIZIERT; Josephus, *AJ* 14.158; *BJ* 1.203)
+**Todesjahr:** 4 v.u.Z. (HISTORICAL / ARCHAEOLOGICAL — VERIFIZIERT; Josephus, *AJ* 17.190; *BJ* 1.665)
+**Lebensdauer:** 69 Jahre
 **Volle Bezeichnung:** Herodes der Große (Herodes I.), König von Judäa unter römischer Oberhoheit
 **Vater:** Antipater der Idumäer
 **Mutter:** Kypros (Nabatäerin)
@@ -208,8 +220,8 @@ Diese Datei enthält biografische und genealogische Informationen über Personen
 **Historischer Status:** BESTÄTIGT — einer der am besten dokumentierten Herrscher des antiken Nahen Ostens; sein Reich, seine Familie und seine Bauprojekte sind in Josephus, Epigraphik, Numismatik und Archäologie ausführlich belegt
 **Bücher in denen er vorkommt:** Matthäus 2; Lukas 1,5
 **Charakterbogen:** Matthäus präsentiert ihn an seinem Ende: ein König, der ein Imperium aufgebaut hat, aber durch den Bericht eines neugeborenen Rivalen erschüttert wird; er bewegt sich von beunruhigter Nachforschung, über täuschende Diplomatie, zu Masseninfantizid, bis zum Tod — ein verdichtetes Portrait von Macht, die auf eine wahrgenommene Bedrohung mit tödlicher Gewalt reagiert.
-**Historisches Jahr:** -73 (ungefähres Geburtsjahr, v.u.Z.)
-**Historisches Jahr — Ende:** -4 (Tod, v.u.Z.)
+**Historisches Jahr:** -73
+**Historisches Jahr — Ende:** -4
 
 **Hinweis:** Der historische Herodes regierte 37-4 v.u.Z. (Josephus, *AJ* 17.191; *BJ* 1.665). Sein Tod im Jahr 4 v.u.Z. setzt Jesuss Geburt vor dieses Datum — die traditionelle Datierung „1 u.Z." ist ein späterer Berechnungsfehler des Dionysius Exiguus (6. Jh.). Die TT harmonisiert die matthäische Erzählung nicht mit externer Chronologie im Haupttext; Diskrepanzen werden gemäß Regel 13 vermerkt.
 
@@ -218,6 +230,9 @@ Diese Datei enthält biografische und genealogische Informationen über Personen
 ## Johannes der Eintaucher (Johannes der Täufer)
 **Bedeutung:** „JHWH ist gnädig" (Hebräisch יוֹחָנָן, *Johannes*); „der Eintaucher" gibt βαπτιστής (*baptistēs*) gemäß gesperrtem Glossar wieder (Eintauchen, nicht transliteriertes „Taufe")
 **Herkunft:** GEBOREN (keine Geburtserzählung in Matthäus; vgl. Lk 1)
+**Geburtsjahr:** ca. 5 v.u.Z. (TEXTUAL — MÖGLICH; Lk 1,36 macht ihn ~6 Monate älter als Yeshua, was die Geburt knapp vor ca. 4 v.u.Z. ansetzt)
+**Todesjahr:** ca. 30 u.Z. (HISTORICAL / ARCHAEOLOGICAL — WAHRSCHEINLICH; Josephus *AJ* 18.116–119; vor Yeshuas Tod)
+**Lebensdauer:** ~35 Jahre
 **Vater:** nicht angegeben in Matthäus (Lk 1,5 — Zacharias/Zekaryah)
 **Mutter:** nicht angegeben in Matthäus (Lk 1,5 — Elisabeth/Elisheva)
 **Ehepartner:** keine/r angegeben
@@ -239,8 +254,8 @@ Diese Datei enthält biografische und genealogische Informationen über Personen
 **Historischer Status:** WAHRSCHEINLICH — unabhängig bei Josephus belegt; der Kern seiner Predigtkarriere und Hinrichtung unter Antipas wird von Gelehrten weitgehend als historisch akzeptiert
 **Bücher in denen er vorkommt:** Matthäus 3; 11; 14; 17; 21; Markus 1; 6; 8; 11; Lukas 1; 3; 7; 9; 16; 20; Johannes 1; 3; 10; Apostelgeschichte 1; 10; 13; 18; 19
 **Charakterbogen:** Er tritt vollständig geformt auf — Prophet, Prediger, Eintaucher — und wird in Matthäus 1-3 durch zwei Handlungen definiert: seine kompromisslose Verkündigung an die religiöse Elite und seine widerwillige Kapitulation vor Jesu Bitte um Eintauchung. Beide offenbaren einen Mann, der seine Rolle genau kennt und sich dem unterwirft, was er nicht vollständig versteht.
-**Historisches Jahr:** -5 (ungefähres Geburtsjahr, v.u.Z. — kurz vor Jesus angesetzt)
-**Historisches Jahr — Ende:** 28 (ungefähres Hinrichtungsjahr, u.Z.; einige Gelehrte bevorzugen 29-30 u.Z.)
+**Historisches Jahr:** -5
+**Historisches Jahr — Ende:** 28
 
 **Hinweis:** Matthäus erzählt nicht Johanness Geburt oder familiären Hintergrund (im Gegensatz zu Lukas 1). Sein Auftreten in 3,1 ist abrupt — er „erscheint" einfach. Die Beschreibung seiner Kleidung (3,4) klingt an die Beschreibung Elias in 2 Könige 1,8 an (Ledergürtel, Haarkleid). Matthäus macht die Elia-Identifikation später ausdrücklich (11,14; 17,12-13), aber die TT importiert keine späteren Stellen in die Kapitel-3-Übersetzung.
 
@@ -254,6 +269,6 @@ Diese Datei enthält biografische und genealogische Informationen über Personen
 - **PRIMARY** — Biblia Hebraica Stuttgartensia (BHS), 5. Aufl. (Deutsche Bibelgesellschaft, 1997). Verwendet für AT-Zitate und Namensetymologien.
 - **PRIMARY** — Josephus, *Antiquitates Judaicae* (AJ) und *Bellum Judaicum* (BJ), hrsg. Niese. Verwendet für historische Personen (Herodes, Archelaos).
 - **PEER-REVIEWED (lexicon)** — BDAG, *A Greek-English Lexicon of the New Testament*, 3. Aufl.; HALOT, *The Hebrew and Aramaic Lexicon of the Old Testament*.
-- **PEER-REVIEWED (commentary)** — Davies, W.D. und Allison, D.C., *A Critical and Exegetical Commentary on the Gospel of Matthew* (ICC, 1988); Luz, U., *Das Evangelium nach Matthäus 1--7* (EKK, 1985).
+- **PEER-REVIEWED (commentary)** â Davies, W.D. und Allison, D.C., *A Critical and Exegetical Commentary on the Gospel of Matthew* (ICC, 1988); Luz, U., *Das Evangelium nach MatthÃ¤us 1–7* (EKK, 1985).
 
 > **Redaktionelle Herkunft:** Entworfen von Claude Opus 4.6 (1M Kontext) am 2026-04-27. Noch nicht begutachtet. Diese Datei ist eine provisorische wissenschaftliche Ressource, geregelt durch TT-Regel 29. Querverweise auf genesis/PEOPLE.md verlinken zu bestehenden Einträgen, statt Inhalte zu duplizieren.

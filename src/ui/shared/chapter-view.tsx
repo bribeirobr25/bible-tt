@@ -1,5 +1,6 @@
 "use client";
 
+import { ChevronLeft } from "lucide-react";
 import { useTranslations } from "next-intl";
 import { useEffect, useState } from "react";
 import type {
@@ -10,6 +11,7 @@ import type {
 import { ContextView } from "@/ui/enrichment/context-view";
 import { ExploreView } from "@/ui/enrichment/explore-view";
 import { ChapterNav } from "@/ui/navigation/chapter-nav";
+import { Link } from "@/ui/navigation/locale-link";
 import { ProphecyView } from "@/ui/prophecy/prophecy-view";
 import { ContinuousReading } from "@/ui/reading/continuous-reading";
 import { ReadingProgress } from "@/ui/reading/reading-progress";
@@ -76,6 +78,13 @@ export function ChapterView({
       <ReadingProgress />
       <main className="min-h-screen px-4 md:px-6 py-6 md:py-10 max-w-4xl mx-auto">
         <header className="mb-8 space-y-4">
+          <Link
+            href={`/${book}`}
+            className="inline-flex items-center gap-1 text-sm text-text-muted hover:text-accent transition-colors duration-150"
+          >
+            <ChevronLeft size={14} strokeWidth={1.5} />
+            {t(`book.${book}`)}
+          </Link>
           <div className="flex items-center gap-3">
             <h1 className="font-[family-name:var(--font-reading)] text-2xl md:text-3xl font-light">
               {t(`book.${book}`)} {chapterNum}

@@ -61,21 +61,21 @@
 
 ---
 
-^1^*The* book of the genesis of Yeshua (Jesus) the anointed one, son of David, son of Avraham (Abraham).
+¹*The* book of the genesis of Yeshua (Jesus) the anointed one, son of David, son of Avraham (Abraham).
 
-^2^Abraham fathered Yitschaq (Isaac), and Isaac fathered Ya'aqov (Jacob), and Jacob fathered Yehudah (Judah) and his brothers, ^3^and Judah fathered Perets and Zerach from Tamar, and Perets fathered Chetsron, and Chetsron fathered Aram, ^4^and Aram fathered Amminadav, and Amminadav fathered Nachshon, and Nachshon fathered Salmon, ^5^and Salmon fathered Bo'az from Rachav, and Bo'az fathered Oved from Rut, and Oved fathered Yishai, ^6^and Yishai fathered David the king.
+²Abraham fathered Yitschaq (Isaac), and Isaac fathered Ya'aqov (Jacob), and Jacob fathered Yehudah (Judah) and his brothers, ³and Judah fathered Perets and Zerach from Tamar, and Perets fathered Chetsron, and Chetsron fathered Aram, ⁴and Aram fathered Amminadav, and Amminadav fathered Nachshon, and Nachshon fathered Salmon, ⁵and Salmon fathered Bo'az from Rachav, and Bo'az fathered Oved from Rut, and Oved fathered Yishai, ⁶and Yishai fathered David the king.
 
-And David fathered Shelomoh (Solomon) from the *wife* of Uriyah, ^7^and Solomon fathered Rechav'am, and Rechav'am fathered Aviyah, and Aviyah fathered Asa, ^8^and Asa fathered Yehoshaphat, and Yehoshaphat fathered Yoram, and Yoram fathered Uzziyah, ^9^and Uzziyah fathered Yotam, and Yotam fathered Achaz, and Achaz fathered Chizkiyahu, ^10^and Chizkiyahu fathered Menasheh, and Menasheh fathered Amon, and Amon fathered Yoshiyahu, ^11^and Yoshiyahu fathered Yekhonyah and his brothers, at *the time of* the exile to Bavel.
+And David fathered Shelomoh (Solomon) from the *wife* of Uriyah, ⁷and Solomon fathered Rechav'am, and Rechav'am fathered Aviyah, and Aviyah fathered Asa, ⁸and Asa fathered Yehoshaphat, and Yehoshaphat fathered Yoram, and Yoram fathered Uzziyah, ⁹and Uzziyah fathered Yotam, and Yotam fathered Achaz, and Achaz fathered Chizkiyahu, ¹⁰and Chizkiyahu fathered Menasheh, and Menasheh fathered Amon, and Amon fathered Yoshiyahu, ¹¹and Yoshiyahu fathered Yekhonyah and his brothers, at *the time of* the exile to Bavel.
 
-^12^And after the exile to Bavel, Yekhonyah fathered She'altiel, and She'altiel fathered Zerubbavel, ^13^and Zerubbavel fathered Avihud, and Avihud fathered Elyaqim, and Elyaqim fathered Azor, ^14^and Azor fathered Tsadoq, and Tsadoq fathered Yakhin, and Yakhin fathered Elihud, ^15^and Elihud fathered El'azar, and El'azar fathered Mattan, and Mattan fathered Jacob, ^16^and Jacob fathered Yosef (Joseph) the husband of Miryam (Mary), from whom was born Jesus, who is called *the* anointed one.
+¹²And after the exile to Bavel, Yekhonyah fathered She'altiel, and She'altiel fathered Zerubbavel, ¹³and Zerubbavel fathered Avihud, and Avihud fathered Elyaqim, and Elyaqim fathered Azor, ¹⁴and Azor fathered Tsadoq, and Tsadoq fathered Yakhin, and Yakhin fathered Elihud, ¹⁵and Elihud fathered El'azar, and El'azar fathered Mattan, and Mattan fathered Jacob, ¹⁶and Jacob fathered Yosef (Joseph) the husband of Miryam (Mary), from whom was born Jesus, who is called *the* anointed one.
 
-^17^So all the generations from Abraham to David *are* fourteen generations, and from David to the exile to Bavel *are* fourteen generations, and from the exile to Bavel to the anointed one *are* fourteen generations.
+¹⁷So all the generations from Abraham to David *are* fourteen generations, and from David to the exile to Bavel *are* fourteen generations, and from the exile to Bavel to the anointed one *are* fourteen generations.
 
-^18^Now the genesis of Jesus the anointed one was thus: his mother Mary, having been betrothed to Joseph, before they came together, was found *to be* having *a child* in *the* womb from *the* holy wind/spirit. ^19^And Joseph her husband, being righteous and not wanting to make a public example of her, planned to release her secretly. ^20^But *while* he was considering these things, see, a messenger of the Lord appeared to him in a dream, saying, "Joseph, son of David, do not be afraid to take Mary *as* your wife, for the *child* conceived in her is from *the* holy wind/spirit. ^21^And she will bear a son, and you will call his name Jesus, for he will save his people from their sins."
+¹⁸Now the genesis of Jesus the anointed one was thus: his mother Mary, having been betrothed to Joseph, before they came together, was found *to be* having *a child* in *the* womb from *the* holy wind/spirit. ¹⁹And Joseph her husband, being righteous and not wanting to make a public example of her, planned to release her secretly. ²⁰But *while* he was considering these things, see, a messenger of the Lord appeared to him in a dream, saying, "Joseph, son of David, do not be afraid to take Mary *as* your wife, for the *child* conceived in her is from *the* holy wind/spirit. ²¹And she will bear a son, and you will call his name Jesus, for he will save his people from their sins."
 
-^22^And all this happened so that what was spoken by the Lord through the prophet might be fulfilled, saying: ^23^"See, the virgin/young woman will conceive and will bear a son, and they will call his name Immanu'el" — which is, being translated, "God with us."
+²²And all this happened so that what was spoken by the Lord through the prophet might be fulfilled, saying: ²³"See, the virgin/young woman will conceive and will bear a son, and they will call his name Immanu'el" — which is, being translated, "God with us."
 
-^24^And Joseph, having been raised from sleep, did as the messenger of the Lord commanded him, and he took his wife, ^25^and he did not know her until she bore a son; and he called his name Jesus.
+²⁴And Joseph, having been raised from sleep, did as the messenger of the Lord commanded him, and he took his wife, ²⁵and he did not know her until she bore a son; and he called his name Jesus.
 
 ---
 

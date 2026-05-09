@@ -1,8 +1,8 @@
 # Pending & Deferred Items
 
 **Original date:** 2026-05-05
-**Re-verified:** 2026-05-08 against current code, content, and rules.
-**Execution underway:** Phases 0–6 closed 2026-05-09. Phase 5.5 landed Ruleset v3.3. Phase 6A re-verified the 9 NOT VERIFIED audit items (7 already-resolved + 2 actioned: PT-BR Almeida Option B + 18-file cascade; *charis* slash compliance in EN/DE/ES John 1; Item 14 cross-locale title-cap normalized via Option 2 to PT-BR/ES verse text lowercase). Phase 6B piloted Rule 29 §734 Tier 2 Relocation Protocol on Genesis 9 across all 4 locales (4 notes tightened with companion-section pointers; technique validated and documented in `docs/editorial-log/genesis.md` Entry 100). All blocking content-lint rules pass. FEEDBACK status: 23 RESOLVED / 2 PARTIAL / 13 NOT VERIFIED / 0 STILL OPEN of 38 items.
+**Re-verified:** 2026-05-09 against current code, content, and rules (post Phase 6.6 closure).
+**Execution underway:** Phases 0–6.6 closed 2026-05-09. Phase 5.5 landed Ruleset v3.3. Phase 6A re-verified the 9 NOT VERIFIED audit items (7 already-resolved + 2 actioned: PT-BR Almeida Option B + 18-file cascade; *charis* slash compliance in EN/DE/ES John 1; Item 14 cross-locale title-cap normalized via Option 2 to PT-BR/ES verse text lowercase). Phase 6B piloted Rule 29 §734 Tier 2 Relocation Protocol on Genesis 9 across all 4 locales (4 notes tightened with companion-section pointers; technique validated and documented in `docs/editorial-log/genesis.md` Entry 100). Phase 6.6 (post-Phase-6 UX + content polish) landed across 9 sub-phases: 6.6A en-dash sweep; 6.6B people-parser auto-extracts familiar name (+4 tests, 792→796); 6.6C introduction disclaimer in collapsed `<details>` "Reading note"; 6.6D person-card biographical-fields reorder + birthYear/deathYear rows; 6.6E HTML-native single-expand accordion; 6.6F chapter breadcrumb; 6.6G Matthew 5 NT figures × 4 locales authored with birthYear/deathYear/lifespan + numeric-anchor convention adopted (Entry 2026-05-09-101 / M-014); 6.6H women timeline audit (Eve/Sarai Option-1 + Bat-Sheva intentional absence — M-015); 6.6I dead-code/content audit (12 categories, 0 actionable removals, all KEEP-with-reason). M-016 logs the Rule 29 §792 disclaimer-placement governance decision. All blocking content-lint rules pass. FEEDBACK status: 23 RESOLVED / 2 PARTIAL / 13 NOT VERIFIED / 0 STILL OPEN of 38 items.
 
 ---
 
@@ -36,6 +36,16 @@ So the sweep is **also incomplete in EN Matthew companions**, not just in non-EN
 ### C3 — People Cross-Book Canonical Structure — STILL OPEN
 
 The current per-book PEOPLE.md model is unchanged. Refactor to cross-book canonical entries when figures appear in additional books (Avraham, Mosheh, David, etc. once Gen 13+ or Exodus is authored).
+
+**Phase 6 follow-up (2026-05-09):** the see-only entry pattern (`**See:** genesis/PEOPLE.md` + `**In Matthew:** ...`) now renders correctly with a clickable cross-book link to the source book's people page (Phase 6 follow-up). The deeper "source-of-truth fetch" — where Avraham in matthew/people would also display the full Genesis bio fields merged with the Matthew-specific role — is deferred to this Phase 13 task. Design considerations identified:
+
+- **Slug-resolution mechanism.** Genesis uses `Avram` (pre-Gen 17 name); Matthew uses `Avraham` (post-renaming). Same person, different slugs. Need either (a) explicit slug pointer in the see-line (e.g., `**See:** genesis/PEOPLE.md#avram`), or (b) a `canonical-slug:` / `also-known-as:` field that maps both names to a shared identifier. Option (a) is simpler and explicit.
+- **Cross-book parser/loader.** Render-time fetch: the matthew/people page would also load genesis/PEOPLE.md and resolve the slug. Build-time pre-merge alternative would expand the matthew JSON output but simplify render. Static-first architecture suggests build-time merge.
+- **Graceful dangling-pointer handling.** As of 2026-05-09, only Avraham's Genesis bio exists; Yitschaq, Ya'aqov, Yehudah, Tamar await Phase 12 (Gen 13–50). Pointer resolution must fail soft — show the see-only display + link if source entry doesn't exist yet.
+- **Merge UI design.** How to visually present "this is the cross-book source" vs "this is the in-Matthew narrative"? Section divider with "Sourced from Genesis" caption? Two-column layout? Tabbed interface? Decision needs UX prototyping.
+- **Cross-locale slug normalization.** Each locale's slug derives from the heading (e.g., EN `Avraham (Abraham)` → slug `avraham`). Slugs already match across EN/PT/DE/ES because the transliterated source-language name is the slug seed in all locales. Verify when designing.
+
+**Estimated effort:** ~6–10h for the implementation + ~3–5h for the merge UI design + cross-locale verification. Best landed after Phase 12 (Gen 13–50) so all referents exist.
 
 ---
 

@@ -1,4 +1,5 @@
 import { ShieldAlert } from "lucide-react";
+import Link from "next/link";
 import { generationReferenceLabel } from "@/domain/content/generation-references";
 import type {
   CuriosityEntry,
@@ -7,6 +8,42 @@ import type {
   RegionByText,
 } from "@/domain/content/types";
 import { renderInlineSafe } from "@/ui/shared/render-markdown-safe";
+
+// Parses a `**See:**` pointer like "genesis/PEOPLE.md" into the source book slug.
+// Returns null if the pointer doesn't match the expected shape.
+function parseCrossBookSlug(pointer: string): string | null {
+  const match = pointer.trim().match(/^([a-z][a-z-]*)\/PEOPLE\.md$/i);
+  return match ? match[1].toLowerCase() : null;
+}
+
+function CrossBookSeeField({
+  label,
+  pointer,
+  locale,
+  bookLabels,
+}: {
+  label: string;
+  pointer: string;
+  locale: string;
+  bookLabels: Record<string, string>;
+}) {
+  const slug = parseCrossBookSlug(pointer);
+  // Graceful fallback: if pointer shape is unexpected, render plain text.
+  if (!slug || !bookLabels[slug]) {
+    return <Field label={label} value={pointer} />;
+  }
+  return (
+    <div className="flex gap-2 text-xs">
+      <span className="font-medium text-text-muted shrink-0 w-28">{label}</span>
+      <Link
+        href={`/${locale}/${slug}/people`}
+        className="text-accent hover:underline focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent rounded-sm"
+      >
+        {bookLabels[slug]}
+      </Link>
+    </div>
+  );
+}
 
 const HISTORICITY_COLORS: Record<string, string> = {
   VERIFIED: "bg-note-lexical/15 text-note-lexical",
@@ -191,6 +228,7 @@ export function PersonCard({
   person,
   labels,
   locale = "en",
+  bookLabels,
 }: {
   person: PersonEntry;
   locale?: string;
@@ -217,14 +255,22 @@ export function PersonCard({
     generationsFrom: string;
     regionsByText: string;
     regionsByTextSafeguard: string;
+    inBook: string;
+    crossBookSee: string;
+    birthYear: string;
+    deathYear: string;
   };
+  bookLabels: Record<string, string>;
 }) {
   const historicityColor =
     HISTORICITY_COLORS[person.historicityStatus || "UNCERTAIN"] ||
     HISTORICITY_COLORS.UNCERTAIN;
 
   return (
-    <details className="group border border-border rounded-lg overflow-hidden">
+    <details
+      name="people-accordion"
+      className="group border border-border rounded-lg overflow-hidden"
+    >
       <summary className="flex items-center gap-3 px-4 py-3 cursor-pointer select-none hover:bg-bg-surface transition-colors duration-150 focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2 rounded-lg">
         <div className="flex-1">
           <span className="font-[family-name:var(--font-reading)] text-sm font-semibold text-text-primary">
@@ -260,6 +306,15 @@ export function PersonCard({
         </svg>
       </summary>
       <div className="px-4 pb-4 pt-2 space-y-1.5 border-t border-border-muted">
+        {person.crossBookSee && (
+          <CrossBookSeeField
+            label={labels.crossBookSee}
+            pointer={person.crossBookSee}
+            locale={locale}
+            bookLabels={bookLabels}
+          />
+        )}
+        {person.inBook && <Field label={labels.inBook} value={person.inBook} />}
         {person.generationsFrom && person.generationsFrom.length > 0 && (
           <GenerationsBlock
             label={labels.generationsFrom}
@@ -268,6 +323,9 @@ export function PersonCard({
           />
         )}
         <Field label={labels.meaning} value={person.nameMeaning} />
+        <Field label={labels.lifespan} value={person.lifespan} />
+        <Field label={labels.birthYear} value={person.birthYear} />
+        <Field label={labels.deathYear} value={person.deathYear} />
         <Field label={labels.profession} value={person.profession} />
         <Field label={labels.socialClass} value={person.socialClass} />
         <Field label={labels.hometown} value={person.hometown} />
@@ -278,7 +336,6 @@ export function PersonCard({
         <ListField label={labels.spouses} values={person.spouses} />
         <ListField label={labels.children} values={person.children} />
         <Field label={labels.ageAtFatherhood} value={person.ageAtFatherhood} />
-        <Field label={labels.lifespan} value={person.lifespan} />
         <Field label={labels.causeOfDeath} value={person.causeOfDeath} />
         <Field label={labels.characterArc} value={person.characterArc} />
         <ListField label={labels.booksIn} values={person.booksAppearingIn} />

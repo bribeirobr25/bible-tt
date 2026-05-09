@@ -119,7 +119,7 @@ All decisions logged in the editorial logs ([genesis.md](docs/editorial-log/gene
 | Icons | Lucide (1.5px stroke) |
 | i18n | next-intl (URL-based routing) |
 | Content | Markdown parsed at build time (4 parsers) |
-| Testing | Vitest (789 tests across 6 files) |
+| Testing | Vitest (796 tests across 6 files) |
 | Linting | Biome |
 
 > **Project state (2026-05-09):** Genesis 1–12, John 1–3, Matthew 1–3 in EN/PT-BR/DE/ES. Content carries `provisional` status pending reviewer sign-off (Rule 28). The 2026-05-08–09 audit cycle (Phases 0–6 in `docs/audit/FIX_IMPLEMENTATION.md`) closed governance gaps — version-stamp drift, ES NT diacritics + Reina-Valera, PT-BR Almeida Option B, PT-BR + ES `monogenēs`, em-dash sweep, Biome migration, Book Introduction split, Ruleset v3.3 amendments, *charis* cross-locale slash compliance, cross-locale verse-text title capitalization (Rule 20 strict reading), and a Genesis 9 Rule 29 §734 Tier 2 Relocation Protocol pilot. Of 38 prior-audit issues, 23 are RESOLVED, 3 PARTIAL, 12 NOT VERIFIED, 0 STILL OPEN. Remaining work — John PEOPLE.md authoring, readability sweep on John/Matthew companions, Section I 10-category audit, Book Context page content cycle, Tier 2 propagation to remaining 17 chapters, prophecy decision, Genesis 13–50 — is tracked in `docs/audit/PENDING.md` and `docs/feedback/`.

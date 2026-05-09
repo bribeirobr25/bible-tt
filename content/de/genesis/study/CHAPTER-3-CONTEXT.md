@@ -90,7 +90,7 @@ Genesis 3:19: "Staub *bist* du, und zum Staub wirst du zurückkehren." Das Verb 
 ### A15. "Wo bist du?" — die göttliche Frage in einem Wort
 **[TEXTUELL — VERIFIZIERT]**
 
-Genesis 3:9: **אַיֶּכָּה** (*ayyekkah*) — ein einziges hebräisches Wort, das die erste Frage JHWH Elohims an den Menschen bildet. Die berühmteste Ein-Wort-Frage in Genesis. Sie ist rhetorisch, nicht informativ (der Erzähler setzt göttliches Wissen um den Aufenthaltsort des Menschen voraus). Die TT bewahrt sie wörtlich ("Wo bist du?") mit einer Anmerkung, die die rhetorische Dimension kennzeichnet. Diese Frage eröffnet die Befragungssequenz (3:9--13), die Verantwortung zuweist, ohne Bestrafung aufzürlegen — die Flüche folgen gesondert (3:14--19).
+Genesis 3:9: **×Ö·×Ö¶Ö¼×Ö¸Ö¼×** (*ayyekkah*) â ein einziges hebrÃ¤isches Wort, das die erste Frage JHWH Elohims an den Menschen bildet. Die berÃ¼hmteste Ein-Wort-Frage in Genesis. Sie ist rhetorisch, nicht informativ (der ErzÃ¤hler setzt gÃ¶ttliches Wissen um den Aufenthaltsort des Menschen voraus). Die TT bewahrt sie wÃ¶rtlich ("Wo bist du?") mit einer Anmerkung, die die rhetorische Dimension kennzeichnet. Diese Frage erÃ¶ffnet die Befragungssequenz (3:9–13), die Verantwortung zuweist, ohne Bestrafung aufzÃ¼rlegen â die FlÃ¼che folgen gesondert (3:14–19).
 
 ### A15b. Gott fragt, bevor Menschen fragen — das Muster der göttlichen Befragung
 **[TEXTUELL — VERIFIZIERT]**

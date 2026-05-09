@@ -126,6 +126,18 @@ export default async function PeoplePage({
     generationsFrom: t("people.generationsFrom"),
     regionsByText: t("people.regionsByText"),
     regionsByTextSafeguard: t("people.regionsByTextSafeguard"),
+    inBook: t(`people.inBook.${book}`),
+    crossBookSee: t("people.crossBookSee"),
+    birthYear: t("people.birthYear"),
+    deathYear: t("people.deathYear"),
+  };
+
+  // Localized labels for any book a `**See:**` pointer might reference.
+  // Add new entries here as new books are authored.
+  const bookLabels: Record<string, string> = {
+    genesis: t("book.genesis"),
+    matthew: t("book.matthew"),
+    john: t("book.john"),
   };
 
   const sorted = sortChronological(people.entries);
@@ -167,6 +179,7 @@ export default async function PeoplePage({
                 person={item.person}
                 labels={labels}
                 locale={locale}
+                bookLabels={bookLabels}
               />
             ) : (
               <div key={item.key} className="flex items-center gap-3 py-2 my-2">

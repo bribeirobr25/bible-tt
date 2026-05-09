@@ -67,7 +67,9 @@ type FieldId =
   | "historicalYear"
   | "historicalYearEnd"
   | "generationsFrom"
-  | "regionsByText";
+  | "regionsByText"
+  | "crossBookSee"
+  | "inBook";
 
 // Per-field exact-match aliases.
 //
@@ -200,10 +202,29 @@ const EXACT_LABEL_ALIASES: Record<FieldId, string[]> = {
   ],
   extraBiblicalMentions: [
     "extra-biblical mentions",
+    "menções extrabíblicas",
     "menções extra-bíblicas",
     "außerbiblische erwähnungen",
     "menciones extrabíblicas",
     "menciones extra-bíblicas",
+  ],
+  // Cross-book see-also pointer (e.g., "**See:** genesis/PEOPLE.md").
+  // Used in matthew/PEOPLE.md to defer full bio to a previous book.
+  crossBookSee: ["see", "ver", "siehe"],
+  // Per-book narrative role (e.g., "**In Matthew:** First in the genealogy ...").
+  // Add new "in <book>" labels here when new books are authored.
+  inBook: [
+    "in matthew",
+    "em mateus",
+    "in matthäus",
+    "en mateo",
+    "in genesis",
+    "em gênesis",
+    "en génesis",
+    "in john",
+    "em joão",
+    "in johannes",
+    "en juan",
   ],
   historicityStatus: [
     "historicity status",
@@ -654,6 +675,12 @@ function applyField(
     case "regionsByText":
       current.regionsByText = parseRegionsByText(value);
       break;
+    case "crossBookSee":
+      current.crossBookSee = value;
+      break;
+    case "inBook":
+      current.inBook = value;
+      break;
   }
 }
 
@@ -697,11 +724,17 @@ export function parsePeopleMarkdown(raw: string, book: string): PeopleData {
     // Entry boundary (H2)
     const entryMatch = line.match(ENTRY_HEADER);
     if (entryMatch) {
-      const name = entryMatch[1].trim();
+      const heading = entryMatch[1].trim();
       flushEntry(state, entries);
-      if (isSkipName(name)) continue;
+      if (isSkipName(heading)) continue;
+      // Parse "Name (Familiar)" → name + auto-extracted familiarName.
+      // Explicit `**Familiar name:**` field, if present below, overrides via line order.
+      const parenMatch = heading.match(/^(.+?)\s*\(([^)]+)\)\s*$/);
+      const name = parenMatch ? parenMatch[1].trim() : heading;
+      const familiarName = parenMatch ? parenMatch[2].trim() : undefined;
       state.current = {
         name,
+        familiarName,
         slug: name.toLowerCase().replace(/\s+/g, "-"),
         originType: "UNCERTAIN",
         mentionedIn: [],
@@ -825,5 +858,7 @@ function finalizeEntry(raw: Partial<PersonEntry>): PersonEntry {
     curiosities: raw.curiosities,
     generationsFrom: raw.generationsFrom,
     regionsByText: raw.regionsByText,
+    crossBookSee: raw.crossBookSee,
+    inBook: raw.inBook,
   };
 }

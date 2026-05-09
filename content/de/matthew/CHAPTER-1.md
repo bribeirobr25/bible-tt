@@ -61,21 +61,21 @@
 
 ---
 
-^1^*Das* Buch der Genesis des Jesus (Jesus), des Gesalbten, Sohn Davids, Sohn Abrahams.
+¹*Das* Buch der Genesis des Jesus (Jesus), des Gesalbten, Sohn Davids, Sohn Abrahams.
 
-^2^Abraham (Abraham) zeugte Isaak (Isaak), und Isaak zeugte Jakob (Jakob), und Jakob zeugte Juda (Juda) und seine Brüder, ^3^und Juda zeugte Perets und Zerach von Tamar, und Perets zeugte Chetsron, und Chetsron zeugte Aram, ^4^und Aram zeugte Amminadav, und Amminadav zeugte Nachshon, und Nachshon zeugte Salmon, ^5^und Salmon zeugte Bo'az von Rachav, und Bo'az zeugte Oved von Rut, und Oved zeugte Yishai, ^6^und Yishai zeugte David, den König.
+²Abraham (Abraham) zeugte Isaak (Isaak), und Isaak zeugte Jakob (Jakob), und Jakob zeugte Juda (Juda) und seine Brüder, ³und Juda zeugte Perets und Zerach von Tamar, und Perets zeugte Chetsron, und Chetsron zeugte Aram, ⁴und Aram zeugte Amminadav, und Amminadav zeugte Nachshon, und Nachshon zeugte Salmon, ⁵und Salmon zeugte Bo'az von Rachav, und Bo'az zeugte Oved von Rut, und Oved zeugte Yishai, ⁶und Yishai zeugte David, den König.
 
-Und David zeugte Salomo (Salomo) von der *Frau* des Uriyah, ^7^und Salomo zeugte Rechav'am, und Rechav'am zeugte Aviyah, und Aviyah zeugte Asa, ^8^und Asa zeugte Yehoshaphat, und Yehoshaphat zeugte Yoram, und Yoram zeugte Uzziyah, ^9^und Uzziyah zeugte Yotam, und Yotam zeugte Achaz, und Achaz zeugte Chizkiyahu, ^10^und Chizkiyahu zeugte Menasheh, und Menasheh zeugte Amon, und Amon zeugte Yoshiyahu, ^11^und Yoshiyahu zeugte Yekhonyah und seine Brüder, *zur Zeit* des Exils nach Bavel.
+Und David zeugte Salomo (Salomo) von der *Frau* des Uriyah, ⁷und Salomo zeugte Rechav'am, und Rechav'am zeugte Aviyah, und Aviyah zeugte Asa, ⁸und Asa zeugte Yehoshaphat, und Yehoshaphat zeugte Yoram, und Yoram zeugte Uzziyah, ⁹und Uzziyah zeugte Yotam, und Yotam zeugte Achaz, und Achaz zeugte Chizkiyahu, ¹⁰und Chizkiyahu zeugte Menasheh, und Menasheh zeugte Amon, und Amon zeugte Yoshiyahu, ¹¹und Yoshiyahu zeugte Yekhonyah und seine Brüder, *zur Zeit* des Exils nach Bavel.
 
-^12^Und nach dem Exil nach Bavel zeugte Yekhonyah She'altiel, und She'altiel zeugte Zerubbavel, ^13^und Zerubbavel zeugte Avihud, und Avihud zeugte Elyaqim, und Elyaqim zeugte Azor, ^14^und Azor zeugte Tsadoq, und Tsadoq zeugte Yakhin, und Yakhin zeugte Elihud, ^15^und Elihud zeugte El'azar, und El'azar zeugte Mattan, und Mattan zeugte Jakob, ^16^und Jakob zeugte Josef (Josef), den Mann der Maria (Maria), von der geboren wurde Jesus, der *der* Gesalbte genannt wird.
+¹²Und nach dem Exil nach Bavel zeugte Yekhonyah She'altiel, und She'altiel zeugte Zerubbavel, ¹³und Zerubbavel zeugte Avihud, und Avihud zeugte Elyaqim, und Elyaqim zeugte Azor, ¹⁴und Azor zeugte Tsadoq, und Tsadoq zeugte Yakhin, und Yakhin zeugte Elihud, ¹⁵und Elihud zeugte El'azar, und El'azar zeugte Mattan, und Mattan zeugte Jakob, ¹⁶und Jakob zeugte Josef (Josef), den Mann der Maria (Maria), von der geboren wurde Jesus, der *der* Gesalbte genannt wird.
 
-^17^So sind alle Geschlechter von Abraham bis David vierzehn Geschlechter, und von David bis zum Exil nach Bavel vierzehn Geschlechter, und vom Exil nach Bavel bis zum Gesalbten vierzehn Geschlechter.
+¹⁷So sind alle Geschlechter von Abraham bis David vierzehn Geschlechter, und von David bis zum Exil nach Bavel vierzehn Geschlechter, und vom Exil nach Bavel bis zum Gesalbten vierzehn Geschlechter.
 
-^18^Nun *war* die Genesis des Jesus, des Gesalbten, so: seine Mutter Maria, verlobt mit Josef, wurde, bevor sie zusammenkamen, schwanger befunden vom heiligen Wind/Geist. ^19^Und Josef, ihr Mann, der gerecht war und sie nicht öffentlich bloßstellen wollte, plante sie heimlich freizulassen. ^20^Aber *während* er diese Dinge erwog, siehe, ein Bote des Herrn erschien ihm im Traum und sprach: „Josef, Sohn Davids, fürchte dich nicht, Maria *als* deine Frau zu nehmen, denn das *Kind*, das in ihr gezeugt ist, ist vom heiligen Wind/Geist. ^21^Und sie wird einen Sohn gebären, und du sollst seinen Namen Jesus nennen, denn er wird sein Volk retten von ihren Sünden."
+¹⁸Nun *war* die Genesis des Jesus, des Gesalbten, so: seine Mutter Maria, verlobt mit Josef, wurde, bevor sie zusammenkamen, schwanger befunden vom heiligen Wind/Geist. ¹⁹Und Josef, ihr Mann, der gerecht war und sie nicht öffentlich bloßstellen wollte, plante sie heimlich freizulassen. ²⁰Aber *während* er diese Dinge erwog, siehe, ein Bote des Herrn erschien ihm im Traum und sprach: „Josef, Sohn Davids, fürchte dich nicht, Maria *als* deine Frau zu nehmen, denn das *Kind*, das in ihr gezeugt ist, ist vom heiligen Wind/Geist. ²¹Und sie wird einen Sohn gebären, und du sollst seinen Namen Jesus nennen, denn er wird sein Volk retten von ihren Sünden."
 
-^22^Und dies alles geschah, damit erfüllt werde, was vom Herrn durch den Propheten geredet worden war, der da sagt: ^23^„Siehe, die Jungfrau/junge Frau wird empfangen und einen Sohn gebären, und sie werden seinen Namen Immanu'el nennen" — das heißt, übersetzt, „Gott mit uns."
+²²Und dies alles geschah, damit erfüllt werde, was vom Herrn durch den Propheten geredet worden war, der da sagt: ²³„Siehe, die Jungfrau/junge Frau wird empfangen und einen Sohn gebären, und sie werden seinen Namen Immanu'el nennen" — das heißt, übersetzt, „Gott mit uns."
 
-^24^Und Josef, vom Schlaf aufgewacht, tat, wie der Bote des Herrn ihm befohlen hatte, und nahm seine Frau, ^25^und er erkannte sie nicht, bis sie einen Sohn gebar; und er nannte seinen Namen Jesus.
+²⁴Und Josef, vom Schlaf aufgewacht, tat, wie der Bote des Herrn ihm befohlen hatte, und nahm seine Frau, ²⁵und er erkannte sie nicht, bis sie einen Sohn gebar; und er nannte seinen Namen Jesus.
 
 ---
 

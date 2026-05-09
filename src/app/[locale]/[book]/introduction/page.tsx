@@ -85,7 +85,7 @@ export default async function BookIntroductionPage({
         <IntroductionView
           data={introduction}
           sectionLabels={sectionLabels}
-          title={t("introduction.title")}
+          readingNoteLabel={t("introduction.readingNote")}
           labelMaps={labelMaps}
         />
       </div>

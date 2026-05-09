@@ -407,4 +407,65 @@ describe("people-parser", () => {
       expect(r.entries[1].curiosities).toBeUndefined();
     });
   });
+
+  describe("cross-book see-only entries (Phase 6 follow-up)", () => {
+    it("extracts crossBookSee + inBook for EN Avraham (Matthew)", () => {
+      const raw = readPeople("en", "matthew");
+      const result = parsePeopleMarkdown(raw, "matthew");
+      const avraham = result.entries.find((e) => e.name.startsWith("Avraham"));
+      expect(avraham).toBeDefined();
+      expect(avraham?.crossBookSee).toBe("genesis/PEOPLE.md");
+      expect(avraham?.inBook).toContain("First in the genealogy");
+    });
+
+    it("extracts inBook across all 4 locales for see-only entries", () => {
+      const locales = ["en", "pt-br", "de", "es"];
+      for (const locale of locales) {
+        const raw = readPeople(locale, "matthew");
+        const result = parsePeopleMarkdown(raw, "matthew");
+        const tamar = result.entries.find((e) => e.name.startsWith("Tamar"));
+        expect(tamar, `${locale}: Tamar entry`).toBeDefined();
+        expect(tamar?.crossBookSee, `${locale}: crossBookSee`).toBeDefined();
+        expect(tamar?.inBook, `${locale}: inBook`).toBeDefined();
+      }
+    });
+
+    it("PT-BR Matthew Yeshua resolves Menções extrabíblicas (no hyphen)", () => {
+      const raw = readPeople("pt-br", "matthew");
+      const result = parsePeopleMarkdown(raw, "matthew");
+      const yeshua = result.entries.find((e) => e.name.startsWith("Yeshua"));
+      expect(yeshua).toBeDefined();
+      expect(yeshua?.extraBiblicalMentions).toContain("Tácito");
+    });
+  });
+
+  describe("heading auto-extracts familiarName (6.6B)", () => {
+    it("'## Adam (Adam)' yields name='Adam', familiarName='Adam'", () => {
+      const md = `## Adam (Adam)\n\n**First mention:** Gen 1:1\n**Mentioned in:** Gen 1:1\n`;
+      const r = parsePeopleMarkdown(md, "genesis");
+      expect(r.entries[0].name).toBe("Adam");
+      expect(r.entries[0].familiarName).toBe("Adam");
+    });
+
+    it("'## Avraham (Abraão)' yields name='Avraham', familiarName='Abraão'", () => {
+      const md = `## Avraham (Abraão)\n\n**First mention:** Gn 12:1\n**Mentioned in:** Gn 12:1\n`;
+      const r = parsePeopleMarkdown(md, "genesis");
+      expect(r.entries[0].name).toBe("Avraham");
+      expect(r.entries[0].familiarName).toBe("Abraão");
+    });
+
+    it("'## Tamar' (no parens) yields name='Tamar', familiarName=undefined", () => {
+      const md = `## Tamar\n\n**First mention:** Mt 1:3\n**Mentioned in:** Mt 1:3\n`;
+      const r = parsePeopleMarkdown(md, "matthew");
+      expect(r.entries[0].name).toBe("Tamar");
+      expect(r.entries[0].familiarName).toBeUndefined();
+    });
+
+    it("explicit '**Familiar name:**' field overrides heading-extracted value", () => {
+      const md = `## Avraham (Abraham)\n\n**Familiar name:** Abraham (the father of nations)\n**First mention:** Gn 12:1\n**Mentioned in:** Gn 12:1\n`;
+      const r = parsePeopleMarkdown(md, "genesis");
+      expect(r.entries[0].name).toBe("Avraham");
+      expect(r.entries[0].familiarName).toBe("Abraham (the father of nations)");
+    });
+  });
 });

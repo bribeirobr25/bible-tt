@@ -166,10 +166,17 @@
       "flood": "Die Sintflut",
       "babel": "Babel",
       "avram-call": "Avrams Berufung"
+    },
+    "crossBookSee": "Vollständige Biographie siehe",
+    "inBook": {
+      "genesis": "In Genesis",
+      "matthew": "In Matthäus",
+      "john": "In Johannes"
     }
   },
   "introduction": {
     "title": "Bucheinführung",
+    "readingNote": "Hinweis zum Lesen",
     "section": {
       "overview": "Überblick",
       "authorship": "Autorschaft und Komposition",

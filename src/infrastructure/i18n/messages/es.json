@@ -166,10 +166,17 @@
       "flood": "El Diluvio",
       "babel": "Babel",
       "avram-call": "Llamado de Avram"
+    },
+    "crossBookSee": "Vea biografía completa en",
+    "inBook": {
+      "genesis": "En Génesis",
+      "matthew": "En Mateo",
+      "john": "En Juan"
     }
   },
   "introduction": {
     "title": "Introducción del Libro",
+    "readingNote": "Nota de lectura",
     "section": {
       "overview": "Visión General",
       "authorship": "Autoría y Composición",

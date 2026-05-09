@@ -127,3 +127,41 @@ Tasks 1 (Explore/Context UI) and 4 (multi-scenario framing) are complete and rem
 
 - `docs/audit/PENDING.md` — version-stamp drift, ES diacritic loss, em-dash sweep, Reina-Valera ES NT, monogenēs PT-BR.
 - `docs/feedback/FEEDBACK.md` §6 — actionable shortlist combining items from this file and PENDING.
+
+---
+
+## Phase 6.6 forward-tracking items (added 2026-05-09)
+
+Surfaced during 6.6G + 6.6H execution. None blocks the phase; each is conservatively deferred to avoid silent side-effects.
+
+### A. Genesis Shem + Cham `Year from creation` parseInt failures (4 locales × 2 figures = 8 lines)
+
+Files:
+- `content/en/genesis/PEOPLE.md` lines 564, 601
+- `content/pt-br/genesis/PEOPLE.md` lines 572, 608
+- `content/de/genesis/PEOPLE.md` lines 572, 608
+- `content/es/genesis/PEOPLE.md` lines 573, 609
+
+Current values are descriptive prose ("not precisely calculable (born when Noah was approximately 500, Gen 5:32)" in EN; analogous in other locales). These are caught by `Number.parseInt` returning `NaN`, so both Shem and Cham are silently absent from the Genesis timeline chart (they still appear in the expandable list).
+
+**Recommendation per the M-014 numeric-anchor convention:** either (a) compute a plausible bare integer (Shem ~AM 1559, Cham ~AM 1559–1560 per Gen 5:32 + 11:10 if AM-system is allowed); (b) replace the field value with "not stated" exact text and move qualification to lifespan/note; or (c) remove the line entirely. Decision deferred — requires content-author judgment per Rule 28 review workflow.
+
+### B. ES Matthew Yochanan `Año histórico — fin` line 243 — double-encoded UTF-8 mojibake
+
+`content/es/matthew/PEOPLE.md` line 243 has the field label `**AÃ±o histÃ³rico â fin:**` (bytes show double-UTF-8 encoding of `**Año histórico — fin:**`). Because the parser's label-resolution lowercases the literal bytes, the mojibake'd label fails to match any known alias, so `historicalYearEnd = undefined` for Yochanan in ES only. Effect: Yochanan's bar appears on the EN/DE/PT-BR Matthew timeline but is silently absent from the ES Matthew timeline.
+
+**Recommendation:** byte-level rewrite of line 243 to proper UTF-8 (`**Año histórico — fin:** 28`). Defer because this is part of a wider ES diacritic-loss issue tracked in `docs/audit/PENDING.md` (Spanish John diacritic loss — same root cause).
+
+### C. Familiar-name redundancy post-6.6B (per FT1, post-revision audit)
+
+After 6.6B's parser fix, headings like `## Adam (Adam)` auto-extract `familiarName = "Adam"`. The explicit `**Familiar name:** Adam` lines that were authored alongside (in case the parser couldn't extract them) are now structurally redundant on the EN entries where heading-extracted = explicit value. The 6.6B risk note recommended leaving them ("harmless, documents intent") — but a targeted future cleanup pass could remove the redundant explicit lines while preserving any whose explicit value differs from the heading-extracted value (e.g., `**Familiar name:** Abraham (the father of nations)` vs heading-extracted `Abraham`).
+
+**Recommendation:** automated diff-pass identifying entries where heading-extracted-value === explicit-`**Familiar name:**`-value → flag for removal. Manual review per locale before applying. Estimated effort ~30 min once tooled.
+
+### D. Matthew PEOPLE.md per-file readability sweep (per Phase 7 audit §4.1)
+
+Phase 7 scope (`docs/audit/PHASE_7_PLAN.md`) covers 32 files: 24 chapter companions + 8 introductions for John and Matthew. **Matthew PEOPLE.md (4 files: en/pt-br/de/es) is explicitly out of scope** because PEOPLE.md is companion-style content with a different shape (per-person entries, not per-section H2/H3 prose). However, Matthew PEOPLE.md does contain Phase-7-inventory technical terms — *tektōn* and *dikaios* are glossed inline in person entries (Yosef profession + social-class fields), but the per-file first-use rule is not applied systematically across the 4 PEOPLE.md files.
+
+**Recommendation:** after Phase 7 ships, apply a focused PEOPLE.md readability pass — verify *tektōn*, *dikaios*, *sēmeion*, *Logos*, *parthenos*, and any other Phase-7-inventory term that appears in PEOPLE.md is glossed at first use per file. Estimated effort ~1–2 h across the 4 Matthew PEOPLE.md files.
+
+**Forward dependency:** John PEOPLE.md doesn't exist yet (Phase 10 deliverable). When Phase 10 authors John PEOPLE.md, the per-file readability rule should be applied at authoring time, not retrospectively. Genesis PEOPLE.md was already broadly compliant per the 2026-05-08 re-check.

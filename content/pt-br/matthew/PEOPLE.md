@@ -94,6 +94,9 @@ Este arquivo apresenta informações biográficas e genealógicas sobre figuras 
 ## Yeshua (Jesus)
 **Significado:** "YHWH salva" ou "YHWH é salvação" (hebraico יֵשׁוּעַ, *Yeshua*, forma tardia de יְהוֹשֻׁעַ, *Yehoshua*)
 **Origem:** NASCIDO
+**Ano de nascimento:** c. 4 AEC (TEXTUAL — PROVÁVEL; conforme Mt 2:1, Herodes ordenou a morte das crianças "de dois anos para baixo", situando o nascimento ~6–4 AEC, antes da morte de Herodes em 4 AEC)
+**Ano de morte:** c. 30 ou 33 EC (TEXTUAL — INCERTO; a cronologia de Marcos + Lucas sugere c. 30; as três Páscoas de João sugerem c. 33)
+**Tempo de vida:** ~33–37 anos (a faixa reflete a incerteza do nascimento + morte)
 **Pai:** legalmente — José filho de Jacó (Mt 1:16, 20); biologicamente — "do vento/espírito santo" conforme o texto (1:18, 20)
 **Mãe:** Maria (1:16, 18)
 **Cônjuge(s):** nenhum declarado em Mateus 1-3
@@ -115,8 +118,8 @@ Este arquivo apresenta informações biográficas e genealógicas sobre figuras 
 **Status de historicidade:** PROVÁVEL — o consenso acadêmico aceita uma figura histórica chamada Yeshua que foi crucificado sob Pilatos; as afirmações sobrenaturais (concepção virginal, ressurreição) estão fora da adjudicação histórico-crítica e são notadas mas não avaliadas aqui conforme Regra 13
 **Livros em que aparece:** Mateus; Marcos; Lucas; João; Atos; Romanos; 1 e 2 Coríntios; Gálatas; Efésios; Filipenses; Colossenses; 1 e 2 Tessalonicenses; 1 e 2 Timóteo; Tito; Filemon; Hebreus; Tiago; 1 e 2 Pedro; 1, 2, 3 João; Judas; Apocalipse
 **Arco do personagem:** Mateus 1-3 o estabelece antes que ele fale: concebido fora da geração normal, nomeado com propósito teológico, visitado por magos estrangeiros, perseguido por um rei, deslocado ao Egito e de volta, e finalmente descendo ao Jordão onde uma voz dos céus o identifica — o arco é de preparação e identificação, ainda não de ação
-**Ano histórico:** -4 (nascimento aproximado, AEC — situado antes da morte de Herodes em 4 AEC)
-**Ano histórico — fim:** 30 (ano aproximado da crucificação, EC; alguns estudiosos preferem 33 EC)
+**Ano histórico:** -4
+**Ano histórico — fim:** 30
 
 **Nota:** A etimologia do nome é declarada no próprio texto (1:21). O grego Ἰησοῦς (*Iēsous*) deriva do hebraico/aramaico יֵשׁוּעַ (*Yeshua*). A TT traduz o nome em sua forma hebraica conforme política de transliteração.
 
@@ -125,6 +128,9 @@ Este arquivo apresenta informações biográficas e genealógicas sobre figuras 
 ## Miryam (Maria)
 **Significado:** incerto (possivelmente "amarga," "amada" ou "rebelde"; etimologia debatida desde a antiguidade)
 **Origem:** NASCIDA (pais não nomeados em Mateus)
+**Ano de nascimento:** c. 20 AEC (POSSIBLE INFERENCE — POSSÍVEL; assume ~14 anos na concepção, retrocedendo a partir do nascimento de Yeshua em c. 4 AEC)
+**Ano de morte:** não declarado no NT (LATER RECEPTION — POSSÍVEL; tradições variam, ~41 EC ou posterior)
+**Tempo de vida:** não declarado; ~60+ anos por tradições de RECEPÇÃO POSTERIOR (POSSÍVEL)
 **Pai:** não declarado em Mateus
 **Mãe:** não declarado em Mateus
 **Cônjuge(s):** José (prometida, 1:18; casada, 1:24)
@@ -146,7 +152,7 @@ Este arquivo apresenta informações biográficas e genealógicas sobre figuras 
 **Status de historicidade:** INCERTO — uma mulher chamada Miryam (um nome comum na Judeia do século I) como mãe de Yeshua é aceita pela maioria dos historiadores; detalhes de sua biografia não são atestados independentemente
 **Livros em que aparece:** Mateus; Marcos (implícito 6:3); Lucas (extenso, esp. caps. 1-2); João; Atos 1:14
 **Arco do personagem:** Mateus 1-3 a apresenta inteiramente através das ações e descrições de outros — ela é o veículo da concepção, o objeto da decisão de José, a visitada pelos magos, e a levada ao Egito. Ela não fala na narrativa do nascimento de Mateus. Seu arco dentro deste escopo é inteiramente passivo.
-**Ano histórico:** c. -20 (nascimento aproximado, altamente incerto)
+**Ano histórico:** -20
 **Ano histórico — fim:** não declarado no NT
 
 **Nota:** A narrativa do nascimento de Mateus é contada da perspectiva de José (em contraste com Lucas 1-2, que centra em Maria). Maria não fala nem age independentemente em Mateus 1-2. A formulação da genealogia em 1:16 muda do padrão ativo ("X gerou Y") para o passivo ("da qual nasceu Jesus") — uma quebra gramatical que a TT preserva.
@@ -156,6 +162,9 @@ Este arquivo apresenta informações biográficas e genealógicas sobre figuras 
 ## Yosef (José)
 **Significado:** "ele acrescentará" ou "que ele acrescente" (Gn 30:24; de *yasaf*)
 **Origem:** NASCIDO
+**Ano de nascimento:** c. 25 AEC (POSSIBLE INFERENCE — POSSÍVEL; assume um artesão maduro no momento do noivado/casamento com Miryam)
+**Ano de morte:** provavelmente antes do ministério de Yeshua (POSSIBLE INFERENCE — POSSÍVEL; ausente das narrativas da vida adulta, tradicionalmente inferido como tendo morrido antes de c. 27 EC)
+**Tempo de vida:** não declarado
 **Pai:** Jacó (Mt 1:16; em contraste com Lc 3:23 — "de Eli")
 **Mãe:** não declarada
 **Cônjuge(s):** Maria (1:18-20, 24)
@@ -177,7 +186,7 @@ Este arquivo apresenta informações biográficas e genealógicas sobre figuras 
 **Status de historicidade:** INCERTO — um artesão chamado Yosef como pai legal de Yeshua é aceito pela maioria dos historiadores; detalhes biográficos não são atestados independentemente
 **Livros em que aparece:** Mateus; Lucas (narrativa do nascimento e genealogia); João 1:45; 6:42
 **Arco do personagem:** Ele é aquele a quem as mensagens angélicas chegam, o que age sobre elas, o que nomeia a criança, que foge, que retorna, que muda de rota — o executor silencioso e obediente da instrução divina na narrativa do nascimento de Mateus. Ele é definido inteiramente pelo que faz, não pelo que diz.
-**Ano histórico:** c. -25 (nascimento aproximado, altamente incerto)
+**Ano histórico:** -25
 **Ano histórico — fim:** não declarado no NT
 
 **Nota:** José recebe quatro sonhos com instrução divina em Mateus 1-2 (1:20; 2:13; 2:19; 2:22) — um padrão que ecoa o patriarca José de Gênesis, que também era sonhador e também foi para o Egito. Se Mateus pretende essa tipologia ou se é uma observação de leitores posteriores é debatido. A TT não declara a tipologia no texto principal.
@@ -187,6 +196,9 @@ Este arquivo apresenta informações biográficas e genealógicas sobre figuras 
 ## Herodes (Herodes)
 **Significado:** "heroico" (nome grego, Ἡρῴδης, *Hērōdēs*)
 **Origem:** NASCIDO (c. 73/72 AEC)
+**Ano de nascimento:** 73 AEC (HISTORICAL / ARCHAEOLOGICAL — VERIFICADO; Josefo, *AJ* 14.158; *BJ* 1.203)
+**Ano de morte:** 4 AEC (HISTORICAL / ARCHAEOLOGICAL — VERIFICADO; Josefo, *AJ* 17.190; *BJ* 1.665)
+**Tempo de vida:** 69 anos
 **Designação completa:** Herodes, o Grande (Herodes I), rei da Judeia sob autoridade romana
 **Pai:** Antípater, o iduméia
 **Mãe:** Cipros (nabateia)
@@ -208,8 +220,8 @@ Este arquivo apresenta informações biográficas e genealógicas sobre figuras 
 **Status de historicidade:** VERIFICADO — um dos governantes mais documentados do Oriente Médio antigo; seu reinado, família e projetos de construção são extensamente atestados em Josefo, epigrafia, numismática e arqueologia
 **Livros em que aparece:** Mateus 2; Lucas 1:5
 **Arco do personagem:** Mateus o apresenta no seu fim: um rei que construiu um império mas é desfeito pelo relato de um recém-nascido rival; ele se move de inquérito perturbado, para diplomacia enganosa, para infanticídio em massa, para a morte — um retrato comprimido do poder respondendo à ameaça percebida com força letal.
-**Ano histórico:** -73 (nascimento aproximado, AEC)
-**Ano histórico — fim:** -4 (morte, AEC)
+**Ano histórico:** -73
+**Ano histórico — fim:** -4
 
 **Nota:** O Herodes histórico reinou em 37-4 AEC (Josefo, *AJ* 17.191; *BJ* 1.665). Sua morte em 4 AEC situa o nascimento de Jesus antes dessa data — a datação tradicional de "1 EC" é um erro de cálculo posterior de Dionísio, o Exíguo (séc. VI). A TT não harmoniza a narrativa mateana com a cronologia externa no texto principal; discrepâncias são notadas conforme Regra 13.
 
@@ -218,6 +230,9 @@ Este arquivo apresenta informações biográficas e genealógicas sobre figuras 
 ## Yochanan o Imersor (João Batista)
 **Significado:** "YHWH é gracioso" (hebraico יוֹחָנָן, *Yochanan*); "o Imersor" traduz βαπτιστής (*baptistēs*) conforme glossário travado (imersão, não "batismo" transliterado)
 **Origem:** NASCIDO (sem narrativa de nascimento em Mateus; cf. Lc 1)
+**Ano de nascimento:** c. 5 AEC (TEXTUAL — POSSÍVEL; Lc 1:36 o torna ~6 meses mais velho que Yeshua, situando o nascimento ligeiramente antes de c. 4 AEC)
+**Ano de morte:** c. 30 EC (HISTORICAL / ARCHAEOLOGICAL — PROVÁVEL; Josefo *AJ* 18.116–119; antes da morte de Yeshua)
+**Tempo de vida:** ~35 anos
 **Pai:** não declarado em Mateus (Lc 1:5 — Zacarias/Zekaryah)
 **Mãe:** não declarado em Mateus (Lc 1:5 — Isabel/Elisheva)
 **Cônjuge(s):** nenhum declarado
@@ -239,8 +254,8 @@ Este arquivo apresenta informações biográficas e genealógicas sobre figuras 
 **Status de historicidade:** PROVÁVEL — atestado independentemente em Josefo; o núcleo de sua carreira de pregação e execução sob Antipas é amplamente aceito pelos estudiosos como histórico
 **Livros em que aparece:** Mateus 3; 11; 14; 17; 21; Marcos 1; 6; 8; 11; Lucas 1; 3; 7; 9; 16; 20; João 1; 3; 10; Atos 1; 10; 13; 18; 19
 **Arco do personagem:** Ele chega completamente formado — profeta, pregador, imersor — e em Mateus 1-3 é definido por dois atos: sua proclamação intransigente à elite religiosa, e sua capitulação relutante ao pedido de Jesus de imersão. Ambos revelam um homem que conhece seu papel com precisão e se submete ao que não compreende totalmente.
-**Ano histórico:** -5 (nascimento aproximado, AEC — situado ligeiramente antes de Jesus)
-**Ano histórico — fim:** 28 (ano aproximado de execução, EC; alguns estudiosos preferem 29-30 EC)
+**Ano histórico:** -5
+**Ano histórico — fim:** 28
 
 **Nota:** Mateus não narra o nascimento ou contexto familiar de João (em contraste com Lucas 1). Sua introdução em 3:1 é abrupta — ele simplesmente "apareceu." A descrição de sua vestimenta (3:4) ecoa a descrição de Elias em 2 Reis 1:8 (cinto de couro, veste de pelos). Mateus posteriormente faz a identificação com Elias explícita (11:14; 17:12-13), mas a TT não importa passagens posteriores para a tradução do capítulo 3.
 
@@ -254,6 +269,6 @@ Este arquivo apresenta informações biográficas e genealógicas sobre figuras 
 - **PRIMARY** — Biblia Hebraica Stuttgartensia (BHS), 5ª ed. (Deutsche Bibelgesellschaft, 1997). Usada para citações do AT e etimologias de nomes.
 - **PRIMARY** — Josefo, *Antiquitates Judaicae* (AJ) e *Bellum Judaicum* (BJ), ed. Niese. Usado para figuras históricas (Herodes, Archelaos).
 - **PEER-REVIEWED (lexicon)** — BDAG, *A Greek-English Lexicon of the New Testament*, 3ª ed.; HALOT, *The Hebrew and Aramaic Lexicon of the Old Testament*.
-- **PEER-REVIEWED (commentary)** — Davies, W.D. e Allison, D.C., *A Critical and Exegetical Commentary on the Gospel of Matthew* (ICC, 1988); Luz, U., *Matthew 1--7* (Hermeneia, 2007).
+- **PEER-REVIEWED (commentary)** â Davies, W.D. e Allison, D.C., *A Critical and Exegetical Commentary on the Gospel of Matthew* (ICC, 1988); Luz, U., *Matthew 1–7* (Hermeneia, 2007).
 
 > **Proveniência editorial:** Redigido por Claude Opus 4.6 (contexto 1M) em 2026-04-27. Ainda não revisado. Este arquivo é um recurso acadêmico provisório governado pela Regra 29 da TT. Referências cruzadas a genesis/PEOPLE.md vinculam a entradas existentes em vez de duplicar conteúdo.

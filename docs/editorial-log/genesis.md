@@ -1448,3 +1448,22 @@ Applied from consolidated external proposals (`docs/audit/GENESIS-1-EN-PROPOSAL.
 ---
 
 *Phase 6B pilot — Rule 29 §Tier 2 Relocation Protocol validated. 12 edits across Gen 9 in 4 locales (3 notes × 4 locales). Oversize notes 7 → 4 per locale. Technique documented. Remaining chapters deferred. [Updated 2026-05-09]*
+
+---
+
+## Entry 2026-05-09-101 — Numeric-anchor convention (project-wide)
+
+- **Verse:** PEOPLE.md numeric anchor fields across all books (Genesis 1–12 today; binding on Genesis 13–50, John, samuel/kings/etc. when authored)
+- **Language(s) affected:** EN, PT-BR, DE, ES
+- **Rule(s) invoked:** Rule 28 (review workflow — project-wide convention); Rule 29 (Companion Governance — file scope)
+- **Decision:** **Numeric anchor fields are bare integers.** The four PEOPLE.md timeline-anchor fields — `**Year from creation:**` / `**Year from creation — end:**` / `**Historical year:**` / `**Historical year — end:**` (and per-locale equivalents) — MUST contain only integer values, with optional leading minus sign for BCE. The parser uses `Number.parseInt(value, 10)`; strings with non-integer leading characters (e.g. `c. -20`, `c. -25`, `not precisely calculable (...)`) parse to `NaN` and silently exclude the figure from the SVG bar chart in `people-timeline.tsx`.
+- **What goes where (convention):**
+  - **Numeric anchor fields:** bare integer only (e.g. `**Historical year:** -4`). No prose, no `c.`, no parentheticals.
+  - **Lifespan / Birth year / Death year fields:** free-form text — the natural place for approximation (`c. 4 BCE`), confidence tokens (`POSSIBLE`, `PROBABLE`), claim-type labels (`TEXTUAL`, `LATER RECEPTION`), source citations, and qualification (`assumes ~14 at conception`).
+  - **Editorial-log entries:** the reasoning + sources.
+- **Why this matters for Genesis 13–50:** Phase 12 will add Sarai (AM 1958–2085 per Gen 17:17 + 23:1), Yitschaq, Ya'aqov, Yosef, and many more. Each of their AM-year anchors must be authored as bare integers from the start. Approximation prose belongs in lifespan / birth-year / death-year text. The same applies to John PEOPLE.md (Phase 10 — Yochanan, Andreas, Kefa, etc.).
+- **Existing pre-existing parseInt failures (Genesis Shem + Cham across 4 locales = 8 lines):** `**Year from creation:**` was authored as descriptive prose (`not precisely calculable (born when Noah was approximately 500, Gen 5:32)` and locale equivalents). Both figures are silently absent from the Genesis SVG timeline. **Tracked in `docs/feedback/DEFERRED_TASKS.md` Phase 6.6 forward-tracking item A** for content-author follow-up — choices: (a) compute a plausible bare integer; (b) replace value with "not stated" exact text and move qualification to lifespan; (c) remove the line entirely. Decision deferred to project lead.
+- **Alternatives considered:** Pre-process the value-string in the parser to strip leading non-digit prefixes (rejected — silent normalization hides authoring errors; the convention is clearer); accept any `NaN` and let the chart silently exclude (rejected — current behavior, but the gap was invisible until 6.6G's audit revealed Miryam + Yosef were missing from the Matthew chart; explicit convention prevents future authors from re-introducing the same bug).
+- **AI provenance:** claude-opus-4-7, 2026-05-09, Phase 6.6G of `docs/audit/NEW_PLAN.md`. Convention surfaced via auditor §3.2 of `docs/audit/AUDIT_NEW_PLAN.md` post-revision review.
+- **Status:** applied (project-wide convention; binds future authoring)
+- **Cross-references:** `docs/editorial-log/matthew.md` Entry M-014 (the original Matthew-applied entry where the convention was first enforced + Miryam/Yosef format fix); `docs/audit/AUDIT_NEW_PLAN.md` §3.2 (auditor's identification of the parseInt-failure execution-blocker); `docs/feedback/DEFERRED_TASKS.md` Phase 6.6 forward-tracking item A (8 Genesis Shem/Cham parseInt failures awaiting content-author judgment); `src/infrastructure/content/people-parser.ts` `parseInt10()` helper

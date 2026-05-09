@@ -83,7 +83,7 @@ export default async function BookPage({
           <IntroductionView
             data={introduction}
             sectionLabels={sectionLabels}
-            title={t("introduction.title")}
+            readingNoteLabel={t("introduction.readingNote")}
             labelMaps={labelMaps}
           />
         )}

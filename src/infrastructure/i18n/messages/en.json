@@ -166,10 +166,17 @@
       "flood": "The Flood",
       "babel": "Babel",
       "avram-call": "Avram's call"
+    },
+    "crossBookSee": "See full bio in",
+    "inBook": {
+      "genesis": "In Genesis",
+      "matthew": "In Matthew",
+      "john": "In John"
     }
   },
   "introduction": {
     "title": "Book Introduction",
+    "readingNote": "Reading note",
     "section": {
       "overview": "Overview",
       "authorship": "Authorship and Composition",

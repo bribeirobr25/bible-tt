@@ -210,3 +210,64 @@ Option B (slash) is adopted instead because: (a) the project's Prime Directive p
 - **Status:** provisional
 - **Reviewers:** PT-BR editor unassigned; ES editor unassigned; Hellenist unassigned
 - **Cross-references:** `docs/audit/FIX_IMPLEMENTATION.md` Phase 6A audit closure; `docs/editorial-log/genesis.md` Entry 2026-05-09-099 (parent decision); `docs/editorial-log/john.md` Entry J-018 (sister entry); `docs/feedback/FEEDBACK.md` item 14
+
+---
+
+## Entry M-014
+
+- **Verse:** Matthew PEOPLE.md — Yeshua, Miryam, Yosef, Herodes, Yochanan the Immerser (5 entries × 4 locales)
+- **Language(s) affected:** EN, PT-BR, DE, ES
+- **Rule(s) invoked:** Rule 13 (uncertainty levels), Rule 29 (claim-type + confidence dual-label per Companion Governance), Rule 3 (no imported theology)
+- **Decision:** Three changes per entry per locale:
+  1. **Added explicit `**Birth year:**`, `**Death year:**`, and `**Lifespan:**` fields.** These were previously absent for the 5 NT figures (only Genesis figures had them). Each value carries a Rule 13 confidence token (PROBABLE / POSSIBLE / UNCERTAIN / VERIFIED) and a Rule 29 claim-type label (TEXTUAL / POSSIBLE INFERENCE / LATER RECEPTION / HISTORICAL — ARCHAEOLOGICAL). Sources cited: Matt 2:1 (Yeshua birth), Mark + Luke chronology vs. Johannine three-Passover schema (Yeshua death), Josephus *AJ* 14.158 + 17.190 + *BJ* 1.203 + 1.665 (Herod birth + death — VERIFIED), Josephus *AJ* 18.116–119 (Yochanan death — PROBABLE).
+  2. **Numeric-anchor convention adopted (parseInt-safe).** `historicalYear`, `historicalYearEnd`, `yearFromCreation`, and `yearFromCreationEnd` are now bare integers (with optional leading minus for BCE). Approximation, qualification, and confidence tokens belong in `lifespan`, `birthYear`, and `deathYear` text fields, NOT in numeric anchor fields. Two existing values failed `Number.parseInt` and silently excluded their figures from the timeline: `c. -20` (Miryam) and `c. -25` (Yosef). Both normalized to `-20` and `-25` respectively. After fix, both figures now appear on the Matthew timeline.
+  3. **Herod claim-type corrected to `HISTORICAL / ARCHAEOLOGICAL — VERIFIED`.** Per Rule 29 dual-label semantics, `DOCUMENTED` confidence pairs only with `LATER RECEPTION` claim-type. Josephus citations of Herod's birth (*AJ* 14.158, *BJ* 1.203) and death (*AJ* 17.190, *BJ* 1.665) are HISTORICAL evidence, not reception tradition; the appropriate confidence is `VERIFIED` given the cross-corroboration with epigraphy + numismatics + archaeology.
+- **Alternatives considered:** Speculate dates more aggressively (rejected — Rule 3, Prime Directive: don't clarify what the text leaves silent). Leave Yosef's `c. -25` as-is (rejected — silently broken; parseInt returns NaN; figure invisible on timeline).
+- **Justification:** 6.6D added explicit Field rows for birthYear/deathYear/lifespan in `person-card.tsx`; the content authoring here is the data backing those rows. The numeric-anchor convention is now a project-wide standard documented for future authoring. Pre-existing parseInt-failures in genesis/PEOPLE.md (Shem, Cham — `Year from creation: not precisely calculable...`) and a separate ES-Matthew Yochanan `Año histórico — fin` line with double-encoded UTF-8 mojibake (line 243) remain — flagged for 6.6H audit and DEFERRED_TASKS.md.
+- **AI provenance:** claude-opus-4-7, 2026-05-09, Phase 6.6G of `docs/audit/NEW_PLAN.md`
+- **Status:** provisional (date estimates for NT figures are heavily debated; reviewed Josephus and standard chronological reconstructions)
+- **Reviewers:** Hellenist unassigned; PT-BR / DE / ES editors unassigned
+- **Cross-references:** `docs/audit/NEW_PLAN.md` §6.6G; `docs/rules/RULES-CORE.md` Rule 29 dual-label semantics
+
+---
+
+## Entry M-015
+
+- **Verse:** Matthew + Genesis PEOPLE.md — important-women timeline visibility audit (Phase 6.6H)
+- **Language(s) affected:** EN, PT-BR, DE, ES
+- **Rule(s) invoked:** Prime Directive ("do not clarify what the source text leaves ambiguous"); Rule 28 (review workflow — file-scope decisions)
+- **Decision:** Three governance decisions for women in genesis/PEOPLE.md and matthew/PEOPLE.md timeline:
+  1. **Eve / Sarai (genesis/PEOPLE.md): Option-1 — accept-the-gap.** Both stay in the expandable bio list but receive NO speculative timeline anchors.
+     - Eve: Genesis gives no birth or death year. Adding speculative anchors would invent dates the text does not state — direct violation of the Prime Directive.
+     - Sarai: Sarai's dates ARE computable from Gen 17:17 + 23:1 (born AM 1958 per Avram's birth at AM 1948 + 90 years; died AM 2085 per age 127), but those verses are outside Gen 1–12 file scope. Importing data outside the file's documented scope is a Rule 28 governance decision; deferred to Phase 12 (Gen 13–50 content cycle), where Genesis 17–23 enters canonical scope and Sarai's anchor can be authored alongside the chapters that state it.
+  2. **Bat-Sheva (matthew/PEOPLE.md): intentionally absent.** The Matthew narrative deliberately uses circumlocution — "the *one* of Uriyah" (τῆς τοῦ Οὐρίου, 1:6) — avoiding her name. Authoring a Bat-Sheva entry in matthew/PEOPLE.md would conflict with the text's own treatment. Her bio belongs in `samuel/PEOPLE.md` or `kings/PEOPLE.md` when those books enter the canonical scope.
+  3. **Tamar / Rachav / Rut (matthew/PEOPLE.md): no timeline anchors.** These genealogy women have entries with cross-references to Genesis/Joshua/Ruth but no `historicalYear` field — text-stated dates for these figures fall outside Matthew 1–3 file scope (Gen 38 / Josh 2 / Ruth 1). Per Option-1 reasoning, they remain in the expandable list but absent from the SVG bar chart. Anchoring is deferred to Phase 12 / future content cycles.
+  4. **Miryam / Yosef (matthew/PEOPLE.md): historicalYear-only (no end).** With 6.6G's normalization, both have parseInt-safe `historicalYear` (-20 / -25 respectively) but `historicalYearEnd` is "not stated in NT". `pickAnchor()` requires both start and end years for chart inclusion, so they too remain expandable-only. This is the correct behavior per Option-1 (do not speculate end years where the text gives none).
+- **Audit deliverable:** comprehensive cross-locale parseInt-safety scan via `Number.parseInt` reproduction across 24 PEOPLE.md files (4 locales × 3 books, where John is currently empty per PENDING.md). Findings reported with 0 issues in matthew/PEOPLE.md (post-6.6G) and 8 pre-existing issues in genesis/PEOPLE.md (Shem + Cham across 4 locales — descriptive prose where bare integer is required). The 8 Genesis issues are tracked in `docs/feedback/DEFERRED_TASKS.md` (Phase 6.6 forward-tracking section A) as content-author follow-up under Rule 28.
+- **Alternatives considered:** Compute Sarai's anchor now from Gen 17:17 + 23:1 (rejected — file-scope discipline; Phase 12). Author a Bat-Sheva entry from 2 Sam 11 (rejected — directly contradicts Matthew's circumlocution). Speculate end years for Miryam / Yosef per LATER RECEPTION traditions (rejected — would visualize speculative bars on a chart whose meaning is "what the text says happened when").
+- **Justification:** Timeline visibility is an explicit communication channel about what the text states vs. what it leaves silent. Adding speculative bars would dilute that signal. The expandable bio list remains the place for full coverage including text-silent figures.
+- **AI provenance:** claude-opus-4-7, 2026-05-09, Phase 6.6H of `docs/audit/NEW_PLAN.md`
+- **Status:** applied (governance decision; no content speculation introduced)
+- **Reviewers:** project lead approval pending
+- **Cross-references:** `docs/audit/NEW_PLAN.md` §6.6H Eve/Sarai Option-1 + Bat-Sheva edge case; `docs/editorial-log/matthew.md` Entry M-014 (parent — numeric-anchor convention); `docs/feedback/DEFERRED_TASKS.md` Phase 6.6 forward-tracking (Genesis Shem/Cham + ES Matthew Yochanan line 243 mojibake)
+
+---
+
+## Entry M-016
+
+- **Verse:** Book Introduction view (cross-book — affects genesis, john, matthew introductions in all 4 locales)
+- **Language(s) affected:** EN, PT-BR, DE, ES
+- **Rule(s) invoked:** Rule 29 §792 (Book introductions follow the same dual-label system AND disclaimer requirement as chapter companions)
+- **Decision:** The mandatory Rule 29 disclaimer block at the top of each introduction is now wrapped in a collapsed-by-default HTML-native `<details>` element labeled with a locale-translated "Reading note" / "Nota de leitura" / "Hinweis zum Lesen" / "Nota de lectura" summary. The page-header lede ("Book Introduction" + tagline) dominates the visual hierarchy. The H2 "Introduction" title that previously appeared between page-header and disclaimer was removed (redundant with H1).
+- **Alternatives considered:**
+  - Footer placement of the disclaimer (rejected — visually de-emphasizes it more than necessary; Rule 29 reviewers may push back on apparent burying of governance content).
+  - Shrink + lower opacity in place (rejected — does not address the duplicate-framing concern; reader still sees two intro blurbs).
+  - Remove the disclaimer entirely from introductions on the grounds that Rule 29's disclaimer requirement targets chapter companions, not book introductions (rejected — verified directly against `docs/rules/RULES-CORE.md` line 792: "Book introductions provide historical, compositional, and textual-transmission context at the book level. They follow the same dual-label system **and disclaimer requirement** as chapter companions"; the disclaimer applies equally).
+- **Justification:** Two governance constraints are jointly satisfied:
+  1. **Rule 29 §792 compliance** — the disclaimer remains in the DOM (not `display:none`), is keyboard-accessible (native `<details>` + Tab/Space toggle), and is fully visible when the reader expands the "Reading note" summary. The governance content is one click away, not hidden.
+  2. **Reader-experience anti-duplication** — the previous layout rendered the page-header lede ("Book Introduction" + description from `nav.bookIntroductionDescription`) immediately followed by a near-equivalent Rule 29 disclaimer block at full prominence, which read as duplicative framing of the same idea ("this is contextual material, not the translation"). Collapsing the disclaimer removes the visual repetition while preserving the policy commitment.
+- **Implementation:** new i18n key `introduction.readingNote` added in all 4 locales; `IntroductionView` prop renamed `title` → `readingNoteLabel`; the H2 title node deleted from `IntroductionView`; both callsites (book landing `src/app/[locale]/[book]/page.tsx` + introduction page `src/app/[locale]/[book]/introduction/page.tsx`) updated to pass the new prop. The disclaimer paragraph is unchanged — only its visual wrapper changes.
+- **AI provenance:** claude-opus-4-7, 2026-05-09, Phase 6.6C of `docs/audit/NEW_PLAN.md`
+- **Status:** applied (governance + UX decision; no claim/translation content modified)
+- **Reviewers:** Rule 29 reviewer pending; PT-BR / DE / ES editor sign-off on the locale-translated "Reading note" labels
+- **Cross-references:** `docs/audit/NEW_PLAN.md` §6.6C decision; `docs/rules/RULES-CORE.md` line 792 (introduction disclaimer requirement); `docs/audit/AUDIT_NEW_PLAN.md` §4.3 (auditor self-corrected on this point in second pass)

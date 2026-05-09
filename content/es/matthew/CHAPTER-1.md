@@ -62,21 +62,21 @@
 
 ---
 
-^1^*El* libro de la génesis de Yeshua el ungido, hijo de David, hijo de Avraham.
+¹*El* libro de la génesis de Yeshua el ungido, hijo de David, hijo de Avraham.
 
-^2^Avraham engendró a Yitschaq, y Yitschaq engendró a Ya'aqov, y Ya'aqov engendró a Yehudah y a sus hermanos, ^3^y Yehudah engendró a Perets y a Zerach de Tamar, y Perets engendró a Chetsron, y Chetsron engendró a Aram, ^4^y Aram engendró a Amminadav, y Amminadav engendró a Nachshon, y Nachshon engendró a Salmon, ^5^y Salmon engendró a Bo'az de Rachav, y Bo'az engendró a Oved de Rut, y Oved engendró a Yishai, ^6^y Yishai engendró a David el rey.
+²Avraham engendró a Yitschaq, y Yitschaq engendró a Ya'aqov, y Ya'aqov engendró a Yehudah y a sus hermanos, ³y Yehudah engendró a Perets y a Zerach de Tamar, y Perets engendró a Chetsron, y Chetsron engendró a Aram, ⁴y Aram engendró a Amminadav, y Amminadav engendró a Nachshon, y Nachshon engendró a Salmon, ⁵y Salmon engendró a Bo'az de Rachav, y Bo'az engendró a Oved de Rut, y Oved engendró a Yishai, ⁶y Yishai engendró a David el rey.
 
-Y David engendró a Shelomoh de la *esposa* de Uriyah, ^7^y Shelomoh engendró a Rechav'am, y Rechav'am engendró a Aviyah, y Aviyah engendró a Asa, ^8^y Asa engendró a Yehoshaphat, y Yehoshaphat engendró a Yoram, y Yoram engendró a Uzziyah, ^9^y Uzziyah engendró a Yotam, y Yotam engendró a Achaz, y Achaz engendró a Chizkiyahu, ^10^y Chizkiyahu engendró a Menasheh, y Menasheh engendró a Amon, y Amon engendró a Yoshiyahu, ^11^y Yoshiyahu engendró a Yekhonyah y a sus hermanos, en *el tiempo del* exilio a Bavel.
+Y David engendró a Shelomoh de la *esposa* de Uriyah, ⁷y Shelomoh engendró a Rechav'am, y Rechav'am engendró a Aviyah, y Aviyah engendró a Asa, ⁸y Asa engendró a Yehoshaphat, y Yehoshaphat engendró a Yoram, y Yoram engendró a Uzziyah, ⁹y Uzziyah engendró a Yotam, y Yotam engendró a Achaz, y Achaz engendró a Chizkiyahu, ¹⁰y Chizkiyahu engendró a Menasheh, y Menasheh engendró a Amon, y Amon engendró a Yoshiyahu, ¹¹y Yoshiyahu engendró a Yekhonyah y a sus hermanos, en *el tiempo del* exilio a Bavel.
 
-^12^Y después del exilio a Bavel, Yekhonyah engendró a She'altiel, y She'altiel engendró a Zerubbavel, ^13^y Zerubbavel engendró a Avihud, y Avihud engendró a Elyaqim, y Elyaqim engendró a Azor, ^14^y Azor engendró a Tsadoq, y Tsadoq engendró a Yakhin, y Yakhin engendró a Elihud, ^15^y Elihud engendró a El'azar, y El'azar engendró a Mattan, y Mattan engendró a Ya'aqov, ^16^y Ya'aqov engendró a Yosef el esposo de Miryam, de la cual fue nacido Yeshua, quien es llamado *el* ungido.
+¹²Y después del exilio a Bavel, Yekhonyah engendró a She'altiel, y She'altiel engendró a Zerubbavel, ¹³y Zerubbavel engendró a Avihud, y Avihud engendró a Elyaqim, y Elyaqim engendró a Azor, ¹⁴y Azor engendró a Tsadoq, y Tsadoq engendró a Yakhin, y Yakhin engendró a Elihud, ¹⁵y Elihud engendró a El'azar, y El'azar engendró a Mattan, y Mattan engendró a Ya'aqov, ¹⁶y Ya'aqov engendró a Yosef el esposo de Miryam, de la cual fue nacido Yeshua, quien es llamado *el* ungido.
 
-^17^Así que todas las generaciones desde Avraham hasta David *son* catorce generaciones, y desde David hasta el exilio a Bavel *son* catorce generaciones, y desde el exilio a Bavel hasta el ungido *son* catorce generaciones.
+¹⁷Así que todas las generaciones desde Avraham hasta David *son* catorce generaciones, y desde David hasta el exilio a Bavel *son* catorce generaciones, y desde el exilio a Bavel hasta el ungido *son* catorce generaciones.
 
-^18^Ahora bien, la génesis de Yeshua el ungido fue así: su madre Miryam, habiendo sido desposada con Yosef, antes de que se unieran, fue hallada *que estaba* encinta *del* viento/espíritu santo. ^19^Y Yosef su esposo, siendo justo y no queriendo exponerla públicamente, planeó liberarla en secreto. ^20^Pero *mientras* él consideraba estas cosas, miren, un mensajero del Señor se le apareció en un sueño, diciendo: "Yosef, hijo de David, no temas tomar a Miryam *como* tu esposa, porque *lo* concebido en ella es *del* viento/espíritu santo. ^21^Y ella dará a luz un hijo, y llamarás su nombre Yeshua, porque él salvará a su pueblo de sus pecados."
+¹⁸Ahora bien, la génesis de Yeshua el ungido fue así: su madre Miryam, habiendo sido desposada con Yosef, antes de que se unieran, fue hallada *que estaba* encinta *del* viento/espíritu santo. ¹⁹Y Yosef su esposo, siendo justo y no queriendo exponerla públicamente, planeó liberarla en secreto. ²⁰Pero *mientras* él consideraba estas cosas, miren, un mensajero del Señor se le apareció en un sueño, diciendo: "Yosef, hijo de David, no temas tomar a Miryam *como* tu esposa, porque *lo* concebido en ella es *del* viento/espíritu santo. ²¹Y ella dará a luz un hijo, y llamarás su nombre Yeshua, porque él salvará a su pueblo de sus pecados."
 
-^22^Y todo esto sucedió para que se cumpliera lo dicho por el Señor a través del profeta, diciendo: ^23^"Miren, la virgen/joven mujer concebirá y dará a luz un hijo, y lo llamarán Immanu'el" — que es, traducido, "Dios con nosotros."
+²²Y todo esto sucedió para que se cumpliera lo dicho por el Señor a través del profeta, diciendo: ²³"Miren, la virgen/joven mujer concebirá y dará a luz un hijo, y lo llamarán Immanu'el" — que es, traducido, "Dios con nosotros."
 
-^24^Y Yosef, habiendo sido despertado del sueño, hizo como el mensajero del Señor le mandó, y tomó a su esposa, ^25^y no la conoció hasta que ella dio a luz un hijo; y llamó su nombre Yeshua.
+²⁴Y Yosef, habiendo sido despertado del sueño, hizo como el mensajero del Señor le mandó, y tomó a su esposa, ²⁵y no la conoció hasta que ella dio a luz un hijo; y llamó su nombre Yeshua.
 
 ---
 

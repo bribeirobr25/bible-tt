@@ -37,7 +37,7 @@ export interface LabelMaps {
 interface IntroductionViewProps {
   data: IntroductionData;
   sectionLabels: Record<string, string>;
-  title: string;
+  readingNoteLabel: string;
   labelMaps: LabelMaps;
 }
 
@@ -81,18 +81,20 @@ function IntroductionEntry({
 export function IntroductionView({
   data,
   sectionLabels,
-  title,
+  readingNoteLabel,
   labelMaps,
 }: IntroductionViewProps) {
   return (
     <div className="space-y-4">
-      <h2 className="font-[family-name:var(--font-reading)] text-xl md:text-2xl font-light text-text-primary">
-        {title}
-      </h2>
       {data.disclaimer && (
-        <p className="text-xs text-text-muted italic leading-relaxed border-l-2 border-border pl-3">
-          {data.disclaimer}
-        </p>
+        <details className="group border border-border-muted rounded-md">
+          <summary className="px-3 py-2 cursor-pointer text-xs uppercase tracking-wider text-text-muted hover:text-text-secondary transition-colors duration-150 focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2 rounded-md">
+            {readingNoteLabel}
+          </summary>
+          <p className="px-3 pb-3 text-xs text-text-muted italic leading-relaxed">
+            {data.disclaimer}
+          </p>
+        </details>
       )}
       <div className="space-y-2">
         {data.sections

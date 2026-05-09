@@ -6,11 +6,11 @@ The Transparent Translation (TT) — a multilingual Bible translation project wi
 
 ## Verified state (2026-05-09)
 
-- **Tests:** 789 passing across 6 files (chapter parser 576, enrichment 117, prophecy 23, people 44, introduction 17, render-markdown-safe 12).
+- **Tests:** 796 passing across 6 files (chapter parser 576, enrichment 117, prophecy 23, people 51, introduction 17, render-markdown-safe 12).
 - **Rules:** RULES-CORE at v3.3 (added §Punctuation Governance, §Idiom Policy, §Glossary Expansion Procedure, formalized §Editorial Log Specification, added John 1:1c worked quadrilingual example). RULES-HB / RULES-GS unchanged at v3.2 lock for proper-name tables and source-language-specific rules.
 - **Content scope verified:** Genesis 1–12 + INTRODUCTION + PEOPLE in all four locales; John 1–3 + INTRODUCTION in all four locales (no PEOPLE.md authored yet); Matthew 1–3 + INTRODUCTION + PEOPLE in all four locales.
-- **Editorial logs:** `genesis.md` (now Entry 100), `john.md` (J-018), `matthew.md` (M-013), `transliteration-decisions.md` — all present. Phase 6 added 4 new entries (Almeida Option B, Title-cap Option 2, Tier 2 note bloat pilot).
-- **Execution status:** Phases 0–6 closed 2026-05-09. Phase 5.5 landed Ruleset v3.3. Phase 6A re-verified the 9 NOT VERIFIED audit items (7 already-resolved + 2 actioned: PT-BR Almeida Option B logged + 18-file front-matter cascade; *charis* slash policy enforced in EN/DE/ES John 1; Item 14 title-capitalization Option 2 normalized PT-BR/ES verse text to lowercase). Phase 6B piloted the Rule 29 §734 Tier 2 Relocation Protocol on Genesis 9 across all 4 locales (4 notes tightened with companion-section pointers; technique validated and documented). All blocking content-lint rules pass. Phases 7–11 remain.
+- **Editorial logs:** `genesis.md` (now Entry 100), `john.md` (J-018), `matthew.md` (M-015), `transliteration-decisions.md` — all present. Phase 6.6 added 2 new entries (M-014 Matthew people lifespan + dates + numeric-anchor convention; M-015 women timeline visibility audit + Bat-Sheva intentional absence).
+- **Execution status:** Phases 0–6.6 closed 2026-05-09. Phase 5.5 landed Ruleset v3.3. Phase 6A re-verified the 9 NOT VERIFIED audit items. Phase 6B piloted the Rule 29 §734 Tier 2 Relocation Protocol on Genesis 9. Phase 6.6 (post-Phase-6 UX + content polish) landed across 9 sub-phases: 6.6A (numeric-range en-dash sweep across all 4 locales × 3 books); 6.6B (people-parser auto-extracts familiar name from heading + 4 new tests); 6.6C (introduction-view disclaimer in collapsed `<details>` "Reading note"); 6.6D (person-card biographical-fields reorder + birthYear/deathYear Field rows); 6.6E (HTML-native single-expand accordion via `name` attribute); 6.6F (chapter-view breadcrumb to book landing); 6.6G (Matthew 5 NT figures × 4 locales — explicit birthYear/deathYear/lifespan + numeric-anchor convention + Herod claim-type correction); 6.6H (women timeline audit — Eve/Sarai Option-1 + Bat-Sheva intentional absence documented); 6.6I (dead-code/content audit — 12 categories scanned, 0 actionable removals; all candidates KEEP-with-reason as forward-API or dynamic-reference). All blocking content-lint rules pass. Phases 7–13 remain.
 - **FEEDBACK status (2026-05-09):** 23 RESOLVED / 3 PARTIAL (8 PT-BR archaic register; 19 Tier 2 note bloat pilot complete + propagation deferred; 33 John PEOPLE.md governance) / 12 NOT VERIFIED / 0 STILL OPEN of 38 prior-audit items.
 - **Known open items** (see `docs/audit/{PENDING,FIX_IMPLEMENTATION}.md` and `docs/feedback/{FEEDBACK,DEFERRED_TASKS}.md` for full detail):
   - John PEOPLE.md not authored in any locale (Phase 10).
@@ -72,7 +72,7 @@ Old URLs (`/{locale}/{book}/{n}`) redirect automatically to the new `/chapter/{n
 
 - `pnpm dev` — start dev server with Turbopack (http://localhost:3000)
 - `pnpm build` — production build
-- `pnpm test` — run all unit tests (789 tests: chapter parser, enrichment parser, people parser, prophecy parser, introduction parser, render-markdown-safe)
+- `pnpm test` — run all unit tests (792 tests: chapter parser, enrichment parser, people parser, prophecy parser, introduction parser, render-markdown-safe)
 - `pnpm lint` — run Biome linter
 - `pnpm content:lint` — run hardened content lint (Phase 0 — see `docs/audit/FIX_IMPLEMENTATION.md`); allow-list at `scripts/lint-allowlist.txt`
 - `pnpm content:lint:warn` — same lint in non-blocking mode (warns only, exit 0)
@@ -149,5 +149,5 @@ All decisions logged in `docs/editorial-log/` (genesis.md, john.md, matthew.md, 
 - Tailwind CSS v4 with OKLCH color tokens
 - next-intl for i18n
 - Lucide for icons (1.5px stroke)
-- Vitest for testing (789 tests)
+- Vitest for testing (792 tests)
 - Biome for linting

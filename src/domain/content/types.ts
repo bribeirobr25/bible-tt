@@ -218,6 +218,8 @@ export interface PersonEntry {
   curiosities?: CuriosityEntry[];
   generationsFrom?: GenerationEntry[];
   regionsByText?: RegionByText[];
+  crossBookSee?: string;
+  inBook?: string;
 }
 
 export interface PeopleData {
