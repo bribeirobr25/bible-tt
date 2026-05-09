@@ -1,8 +1,8 @@
-import { describe, it, expect, vi } from "vitest";
 import fs from "node:fs/promises";
 import path from "node:path";
-import { parseIntroductionMarkdown } from "../enrichment-parser";
+import { describe, expect, it, vi } from "vitest";
 import type { ConfidenceLevel } from "@/domain/content/types";
+import { parseIntroductionMarkdown } from "../enrichment-parser";
 
 const ROOT = path.resolve(process.cwd(), "content");
 
@@ -75,7 +75,12 @@ describe("Introduction Parser", () => {
 
   describe("DOCUMENTED regression tests", () => {
     const VALID_CONFIDENCE: ConfidenceLevel[] = [
-      "VERIFIED", "PROBABLE", "POSSIBLE", "UNCERTAIN", "SPECULATIVE", "DOCUMENTED",
+      "VERIFIED",
+      "PROBABLE",
+      "POSSIBLE",
+      "UNCERTAIN",
+      "SPECULATIVE",
+      "DOCUMENTED",
     ];
 
     it("parses DOCUMENTED confidence in introduction context", () => {
@@ -102,7 +107,7 @@ describe("Introduction Parser", () => {
       const data = parseIntroductionMarkdown(md, "genesis");
       expect(data.sections[0].entries[0].confidence).toBe("POSSIBLE");
       expect(spy).toHaveBeenCalledWith(
-        expect.stringContaining("Unrecognized confidence label")
+        expect.stringContaining("Unrecognized confidence label"),
       );
       spy.mockRestore();
     });

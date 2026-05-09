@@ -5,7 +5,7 @@
 
 **Capítulo:** Genesis 3
 **Idioma:** Português Brasileiro
-**Regras:** v3.0 (Regra 29 governa este arquivo)
+**Regras:** v3.3 (Regra 29 governa este arquivo)
 **Status:** provisório
 
 ---
@@ -20,10 +20,10 @@
 **Notas de cumprimento:**
 **Leituras:**
 - **Judaica**: O versículo descreve a inimizade contínua entre a humanidade e as serpentes. Algumas tradições rabínicas leem "semente da mulher" como referência a um redentor futuro, mas esta não é a leitura dominante. [DOCUMENTADO]
-- **Cristã**: Este é o *protoevangelium* — o primeiro anúncio do Evangelho. "A semente dela" (singular) é lida como Cristo; a serpente é Satanás. O golpe na cabeça é a vitória de Cristo sobre o mal; o golpe no calcanhar é a crucificação. Esta leitura é atestada desde Ireneu (séc. II d.C.) em diante. [DOCUMENTADO]
+- **Cristã**: Este é o *protoevangelium* (latim: "primeiro anúncio de boas novas" — um rótulo tradicional para este versículo) — o primeiro anúncio do Evangelho. "A semente dela" (singular) é lida como Cristo; a serpente é Satanás. O golpe na cabeça é a vitória de Cristo sobre o mal; o golpe no calcanhar é a crucificação. Esta leitura é atestada desde Ireneu (séc. II d.C.) em diante. [DOCUMENTADO]
 - **Islâmica**: O Alcorão não faz referência direta a este versículo. A tradição islâmica reconhece a inimizade entre Iblis (Satanás) e a humanidade, mas não a deriva de Genesis 3:15 especificamente. [DOCUMENTADO]
 
-**Nota acadêmica:** O hebraico *hu* ("ele") é masculino singular, referindo-se gramaticalmente a "semente" (*zera*, masc.). Se o singular implica um indivíduo ou a descendência coletiva é INCERTO. A LXX usa *autos* (masc.) em vez de *auto* (neutro, que corresponderia ao neutro *sperma*), sugerindo que os tradutores podem ter lido um referente individual. [POSSÍVEL]
+**Nota acadêmica:** O hebraico *hu* ("ele") é masculino singular, referindo-se gramaticalmente a "semente" (*zera*, masc.). Se o singular implica um indivíduo ou a descendência coletiva é INCERTO. A LXX (a Septuaginta, a antiga tradução grega da Bíblia Hebraica) usa *autos* (masc.) em vez de *auto* (neutro, que corresponderia ao neutro *sperma*), sugerindo que os tradutores podem ter lido um referente individual. [POSSÍVEL]
 
 ---
 

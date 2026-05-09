@@ -12,25 +12,95 @@ const READING_LINE = /^- \*\*(.+?)(?:\s*\/\s*(.+?))?\*\*:\s*(.+)\s*\[(.+?)\]$/;
 
 function parseConfidenceLabel(raw: string): ConfidenceLevel {
   const n = raw.trim().toUpperCase();
-  if (n.includes("VERIFIED") || n.includes("VERIFIZIERT") || n.includes("VERIFICADO")) return "VERIFIED";
-  if (n.includes("PROBABLE") || n.includes("WAHRSCHEINLICH") || n.includes("PROVÁVEL") || n.includes("PROVAVEL")) return "PROBABLE";
-  if (n.includes("POSSIBLE") || n.includes("MÖGLICH") || n.includes("POSSÍVEL") || n.includes("POSSIVEL") || n.includes("POSIBLE")) return "POSSIBLE";
-  if (n.includes("UNCERTAIN") || n.includes("UNSICHER") || n.includes("INCERTO") || n.includes("INCIERTO")) return "UNCERTAIN";
-  if (n.includes("SPECULATIVE") || n.includes("SPEKULATIV") || n.includes("ESPECULATIVO")) return "SPECULATIVE";
-  if (n.includes("DOCUMENTED") || n.includes("DOKUMENTIERT") || n.includes("DOCUMENTADO")) return "DOCUMENTED";
-  console.warn(`Unrecognized prophecy confidence label: "${raw}", falling back to POSSIBLE`);
+  if (
+    n.includes("VERIFIED") ||
+    n.includes("VERIFIZIERT") ||
+    n.includes("VERIFICADO")
+  )
+    return "VERIFIED";
+  if (
+    n.includes("PROBABLE") ||
+    n.includes("WAHRSCHEINLICH") ||
+    n.includes("PROVÁVEL") ||
+    n.includes("PROVAVEL")
+  )
+    return "PROBABLE";
+  if (
+    n.includes("POSSIBLE") ||
+    n.includes("MÖGLICH") ||
+    n.includes("POSSÍVEL") ||
+    n.includes("POSSIVEL") ||
+    n.includes("POSIBLE")
+  )
+    return "POSSIBLE";
+  if (
+    n.includes("UNCERTAIN") ||
+    n.includes("UNSICHER") ||
+    n.includes("INCERTO") ||
+    n.includes("INCIERTO")
+  )
+    return "UNCERTAIN";
+  if (
+    n.includes("SPECULATIVE") ||
+    n.includes("SPEKULATIV") ||
+    n.includes("ESPECULATIVO")
+  )
+    return "SPECULATIVE";
+  if (
+    n.includes("DOCUMENTED") ||
+    n.includes("DOKUMENTIERT") ||
+    n.includes("DOCUMENTADO")
+  )
+    return "DOCUMENTED";
+  console.warn(
+    `Unrecognized prophecy confidence label: "${raw}", falling back to POSSIBLE`,
+  );
   return "POSSIBLE";
 }
 
 function parseFulfillmentStatus(raw: string): FulfillmentStatus {
   const n = raw.trim().toUpperCase();
-  if (n.includes("MULTI_STAGE") || n.includes("MULTI-STAGE") || n.includes("MEHRPHASIG") || n.includes("MÚLTIPLES ETAPAS") || n.includes("MÚLTIPLAS ETAPAS")) return "MULTI_STAGE";
-  if (n.includes("PARTIAL") || n.includes("TEILWEISE") || n.includes("PARCIAL")) return "PARTIAL";
-  if (n.includes("UNFULFILLED") || n.includes("UNERFÜLLT") || n.includes("NO CUMPLIDA") || n.includes("NÃO CUMPRIDA")) return "UNFULFILLED";
-  if (n.includes("FULFILLED") || n.includes("ERFÜLLT") || n.includes("CUMPLIDA") || n.includes("CUMPRIDA")) return "FULFILLED";
-  if (n.includes("CLAIMED") || n.includes("BEANSPRUCHT") || n.includes("RECLAMADA") || n.includes("REIVINDICADA")) return "CLAIMED";
-  if (n.includes("DEBATED") || n.includes("DEBATTIERT") || n.includes("DEBATIDA") || n.includes("DEBATIDO")) return "DEBATED";
-  console.warn(`Unrecognized fulfillment status: "${raw}", falling back to DEBATED`);
+  if (
+    n.includes("MULTI_STAGE") ||
+    n.includes("MULTI-STAGE") ||
+    n.includes("MEHRPHASIG") ||
+    n.includes("MÚLTIPLES ETAPAS") ||
+    n.includes("MÚLTIPLAS ETAPAS")
+  )
+    return "MULTI_STAGE";
+  if (n.includes("PARTIAL") || n.includes("TEILWEISE") || n.includes("PARCIAL"))
+    return "PARTIAL";
+  if (
+    n.includes("UNFULFILLED") ||
+    n.includes("UNERFÜLLT") ||
+    n.includes("NO CUMPLIDA") ||
+    n.includes("NÃO CUMPRIDA")
+  )
+    return "UNFULFILLED";
+  if (
+    n.includes("FULFILLED") ||
+    n.includes("ERFÜLLT") ||
+    n.includes("CUMPLIDA") ||
+    n.includes("CUMPRIDA")
+  )
+    return "FULFILLED";
+  if (
+    n.includes("CLAIMED") ||
+    n.includes("BEANSPRUCHT") ||
+    n.includes("RECLAMADA") ||
+    n.includes("REIVINDICADA")
+  )
+    return "CLAIMED";
+  if (
+    n.includes("DEBATED") ||
+    n.includes("DEBATTIERT") ||
+    n.includes("DEBATIDA") ||
+    n.includes("DEBATIDO")
+  )
+    return "DEBATED";
+  console.warn(
+    `Unrecognized fulfillment status: "${raw}", falling back to DEBATED`,
+  );
   return "DEBATED";
 }
 
@@ -42,13 +112,15 @@ export function parseProphecyMarkdown(
   const lines = raw.split("\n");
   const entries: ProphecyEntry[] = [];
 
-  let current: Partial<ProphecyEntry> & { readings: ProphecyReading[] } | null = null;
+  let current:
+    | (Partial<ProphecyEntry> & { readings: ProphecyReading[] })
+    | null = null;
   let inReadings = false;
 
   for (const line of lines) {
     const entryMatch = line.match(ENTRY_HEADER);
     if (entryMatch) {
-      if (current && current.verseRef) {
+      if (current?.verseRef) {
         entries.push(finalizeEntry(current));
       }
       current = {
@@ -67,19 +139,52 @@ export function parseProphecyMarkdown(
       const key = fieldMatch[1].trim().toLowerCase();
       const value = fieldMatch[2].trim();
 
-      if (key.includes("verse") || key.includes("versículo") || key.includes("vers")) {
+      if (
+        key.includes("verse") ||
+        key.includes("versículo") ||
+        key.includes("vers")
+      ) {
         current.verseRef = value;
-      } else if (key.includes("text says") || key.includes("texto dice") || key.includes("texto diz") || key.includes("text sagt")) {
+      } else if (
+        key.includes("text says") ||
+        key.includes("texto dice") ||
+        key.includes("texto diz") ||
+        key.includes("text sagt")
+      ) {
         current.textSays = value;
-      } else if (key.includes("context") || key.includes("contexto") || key.includes("kontext")) {
+      } else if (
+        key.includes("context") ||
+        key.includes("contexto") ||
+        key.includes("kontext")
+      ) {
         current.context = value;
-      } else if (key.includes("subject") || key.includes("sujeto") || key.includes("sujeito") || key.includes("gegenstand")) {
+      } else if (
+        key.includes("subject") ||
+        key.includes("sujeto") ||
+        key.includes("sujeito") ||
+        key.includes("gegenstand")
+      ) {
         current.subject = value;
-      } else if (key.includes("fulfillment status") || key.includes("estado de cumplimiento") || key.includes("estado de cumprimento") || key.includes("erfüllungsstatus") || key.includes("erfullungsstatus")) {
+      } else if (
+        key.includes("fulfillment status") ||
+        key.includes("estado de cumplimiento") ||
+        key.includes("estado de cumprimento") ||
+        key.includes("erfüllungsstatus") ||
+        key.includes("erfullungsstatus")
+      ) {
         current.fulfillmentStatus = parseFulfillmentStatus(value);
-      } else if (key.includes("fulfillment notes") || key.includes("notas") || key.includes("anmerkungen")) {
+      } else if (
+        key.includes("fulfillment notes") ||
+        key.includes("notas") ||
+        key.includes("anmerkungen")
+      ) {
         current.fulfillmentNotes = value;
-      } else if (key.includes("readings") || key.includes("lecturas") || key.includes("leituras") || key.includes("lesarten")) {
+      } else if (
+        key.includes("readings") ||
+        key.includes("lecturas") ||
+        key.includes("leituras") ||
+        key.includes("lesarten")
+      ) {
         inReadings = true;
       }
       continue;
@@ -100,7 +205,7 @@ export function parseProphecyMarkdown(
     }
   }
 
-  if (current && current.verseRef) {
+  if (current?.verseRef) {
     entries.push(finalizeEntry(current));
   }
 

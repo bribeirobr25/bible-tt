@@ -2,11 +2,23 @@ import { useTranslations } from "next-intl";
 import type { EnrichmentData } from "@/domain/content/types";
 import { NarrativeSection } from "./narrative-section";
 
+const HIGHLIGHT_SECTIONS = new Set([
+  "curiosities",
+  "world-at-the-time",
+  "scientific",
+]);
+
+const SECTION_ORDER = ["curiosities", "world-at-the-time", "scientific"];
+
 export function ExploreView({ data }: { data: EnrichmentData }) {
   const t = useTranslations();
-  const displaySections = data.sections.filter(
-    (s) => s.entries.length > 0 && s.id !== "sources",
-  );
+  const displaySections = data.sections
+    .filter((s) => s.entries.length > 0 && HIGHLIGHT_SECTIONS.has(s.id))
+    .sort((a, b) => {
+      const aIdx = SECTION_ORDER.indexOf(a.id);
+      const bIdx = SECTION_ORDER.indexOf(b.id);
+      return (aIdx === -1 ? 999 : aIdx) - (bIdx === -1 ? 999 : bIdx);
+    });
 
   if (displaySections.length === 0) {
     return (

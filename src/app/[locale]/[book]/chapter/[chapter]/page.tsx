@@ -1,6 +1,12 @@
 import { notFound } from "next/navigation";
 import { setRequestLocale } from "next-intl/server";
-import { getChapterData, getEnrichmentData, getProphecyData, getAvailableChapters, getAllChapterParams } from "@/lib/content-loader";
+import {
+  getAllChapterParams,
+  getAvailableChapters,
+  getChapterData,
+  getEnrichmentData,
+  getProphecyData,
+} from "@/lib/content-loader";
 import type { Locale } from "@/lib/i18n";
 import { ChapterView } from "@/ui/shared/chapter-view";
 
@@ -27,10 +33,25 @@ export default async function ChapterPage({
     notFound();
   }
 
-  const enrichment = await getEnrichmentData(locale as Locale, book, chapterNum);
+  const enrichment = await getEnrichmentData(
+    locale as Locale,
+    book,
+    chapterNum,
+  );
   const prophecy = await getProphecyData(locale as Locale, book, chapterNum);
   const chapters = await getAvailableChapters(locale, book);
-  const totalChapters = chapters.length > 0 ? Math.max(...chapters) : chapterNum;
+  const totalChapters =
+    chapters.length > 0 ? Math.max(...chapters) : chapterNum;
 
-  return <ChapterView data={data} enrichment={enrichment} prophecy={prophecy} locale={locale} book={book} chapterNum={chapterNum} totalChapters={totalChapters} />;
+  return (
+    <ChapterView
+      data={data}
+      enrichment={enrichment}
+      prophecy={prophecy}
+      locale={locale}
+      book={book}
+      chapterNum={chapterNum}
+      totalChapters={totalChapters}
+    />
+  );
 }

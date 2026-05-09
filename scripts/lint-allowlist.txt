@@ -1,0 +1,71 @@
+# content-lint.sh allow-list
+#
+# Format: RULE_ID|FILE|EXACT_TEXT
+# Where EXACT_TEXT is the matched content WITHOUT the leading line number
+# (the script's awk strips file: and lineno: before comparing).
+# Lines starting with # are comments and ignored.
+#
+# Each entry suppresses one specific match that the lint rule would
+# otherwise flag. Use only for legitimate cases that are intentional
+# (e.g. transliteration genuinely equals the target-language familiar form).
+#
+# Bugs should be FIXED, not allow-listed.
+
+# §0.1 — Stale ruleset version stamp
+# These entries are NOT bugs: the editorial-log entry text describes the
+# version-stamp sweep and necessarily contains the literal pattern strings.
+# The lint is not markdown-aware so it can't tell that the v3.0 references
+# are inside backtick-wrapped pattern descriptions.
+
+0.1|docs/editorial-log/genesis.md|  - **2A — Ruleset version stamps v3.0/v3.1 → v3.2.** Swept all chapter front matter (`**Methodology:** ... (Ruleset v3.0)` and locale variants), all PEOPLE.md / INTRODUCTION.md / companion / prophecy front matter (`**Ruleset:** v3.0` and locale-bolded variants `**Regelwerk:**`, `**Reglas:**`, `**Regras:**`, `**Conjunto de Regras:**`, `**Conjunto de reglas:**`), parenthetical body references (`(v3.0)` / `(v3.1)`), `**Ruleset version in force:**` lines in editorial logs, and `**Format:** per v3.X Editorial Log Specification` headers. ~179 files touched. Lint rule §0.1 baseline 173 → 0.
+
+# legacy "Vosotros forms" — ES biblical-text citations
+# These lines quote Spanish biblical texts (Isaiah 51:2, Exodus 22:21) which
+# legitimately use vosotros/vuestro forms (Reina-Valera tradition). The TT's
+# own ES translation does NOT use vosotros (pan-Hispanic neutral standard);
+# these are explicit quotations from cited sources.
+
+legacy|content/es/genesis/study/CHAPTER-12-CONTEXT.md|Para los exiliados judíos en Babilonia (586-539 a. e. c.), la llamada de Avram (Abrán) en Génesis 12:1 — "deja tu tierra, tu lugar de nacimiento y la casa de tu padre, y ve a la tierra que te mostraré" — era una imagen especular de su propia situación. Ellos habían sido trasladados por la fuerza de su tierra; Abrán partió voluntariamente por mandato divino. El exilio llamaba a la comunidad a discernir si su desplazamiento era castigo o vocación. El Segundo Isaías (c. 550 a. e. c.) invoca explícitamente la promesa abrahámica en exactamente este contexto: "Mirad a Abraham vuestro padre, y a Sara que os dio a luz; porque lo llamé cuando era uno solo, y lo bendije y lo multipliqué" (Is 51:2). Leyendo Génesis 12 en Babilonia, la llamada y el viaje no eran historia pasada sino posibilidad presente.
+legacy|content/es/genesis/study/CHAPTER-12-CONTEXT.md|Para los siglos IV-III a. e. c., las comunidades judías en Judea, Babilonia y Egipto eran predominantemente sedentarias — urbanas o agrícolas, no pastorales. El semi-nomadismo de Avram (Abrán) — vivir en tiendas, construir altares, moverse entre asentamientos establecidos — era un modo ancestral, no uno contemporáneo. La Yehud del período persa era una pequeña provincia agrícola; las comunidades judías helenísticas en Alejandría eran urbanas e integradas comercialmente. Leyendo el retrato de Génesis 12 de un patriarca como viajero sin tierra en este contexto: el texto preserva una identidad fundacional que está en tensión con la vida sedentaria real de la comunidad. El antepasado era un *ger* (extranjero) — y la tradición legal derivada de su ejemplo (Éx 22:21: "porque vosotros fuisteis extranjeros en la tierra de Egipto") moldeó la ética de Israel hacia los extranjeros mucho después de que el estilo de vida semi-nómada hubiera terminado.
+
+# §0.5 — PT-BR `unigênito`
+# Phase 4A replaced active TT rendering with `único-nascido`. The remaining
+# `unigênito` references are intentional: they describe the *rejected*
+# traditional rendering (Vulgata `unigenitus` → "unigênito" in the credal
+# sense) that the TT explicitly avoids. Each is a meta-commentary line
+# in a Tier 2 note, glossary table, or D1/A3 companion entry.
+
+0.5|content/pt-br/john/CHAPTER-1.md|> - **μονογενής** (*monogenēs*) = "único-nascido" ou "único do seu tipo" — de μόνος (único) + γένος (tipo/nascimento). A TT evita o tradicional "unigênito" (latim *unigenitus* da Vulgata) no sentido credal posterior que importa γεννάω (*gennaō* = gerar). A palavra descreve singularidade de relação. A TT traduz "único" no v.14 e "único-nascido" no v.18 onde a variante textual acrescenta *theos* (Deus).
+0.5|content/pt-br/john/CHAPTER-1.md|| μονογενής (*monogenēs*) | único / único-nascido | De μόνος + γένος. NÃO o tradicional "unigênito" no sentido posterior (que importa *gennao*). |
+0.5|content/pt-br/john/study/CHAPTER-1-CONTEXT.md|O composto μονογενής (*monogenēs*) aparece no Novo Testamento cinco vezes (Jo 1:14, 1:18, 3:16, 3:18; 1 Jo 4:9) e uma vez em Hebreus 11:17 (de Isaque). Fora do NT, aparece na LXX (Juízes 11:34, da filha de Jefté; Salmo 21:21 LXX; Tobias 3:15, 6:11, 8:17) e no grego clássico (p. ex., Hesíodo, Parmênides). Em todo uso não teológico, o significado é "único do seu tipo" ou "descendente único" — não "unigênito" no sentido de um modo único de geração. A mudança para "unigênito" no sentido de geração única entrou através do *unigenitus* de Jerônimo na Vulgata e foi cimentada pelo uso de μονογενῆ no Credo Niceno para afirmar a geração única do Filho a partir do Pai (γεννηθέντα οὐ ποιηθέντα, "gerado, não feito"). A evidência lexicográfica (BDAG, LSJ) confirma a base etimológica em *genos* (tipo/classe), não *gennao* (gerar). A TT segue a evidência lexical, traduzindo "único-nascido" e evitando o peso teológico pós-niceno do tradicional "unigênito".
+0.5|content/pt-br/john/study/CHAPTER-3-CONTEXT.md|O adjetivo μονογενής (*monogenēs*) aparece duas vezes neste capítulo (3:16, 3:18) e duas vezes anteriormente (1:14, 1:18). A palavra é composta de μόνος (*monos*, "único") e γένος (*genos*, "tipo/descendência") — não de γεννάω (*gennaō*, "gerar"), embora a tradução tradicional "unigênito" (do latim *unigenitus* da Vulgata) tenha dominado a história da tradução desde Jerônimo. A Septuaginta usa *monogenēs* para traduzir o hebraico יָחִיד (*yachid*, "único, singular") — aplicado à filha de Yiftach (Jz 11:34) e a Yitschak no sentido do filho único da aliança de Abraão (cf. Hb 11:17, onde Yitschak é chamado *monogenēs* apesar de Abraão ter outros filhos). A TT traduz "único-nascido" conforme glossário fixo, preservando o sentido etimológico μόνος + γένος sem importar o quadro teológico niceno posterior cristalizado no termo "unigênito". Veja o companheiro de João 1 (D1) para a discussão etimológica completa.
+
+# §0.8 — PEOPLE.md heading transliteration=familiar collision
+# These entries are NOT bugs: the source-language transliteration genuinely
+# matches the target-language familiar form for the given locale.
+
+# Hebrew Bible names — transliteration = locale familiar
+0.8|content/de/genesis/PEOPLE.md|## Adam (Adam)
+0.8|content/de/genesis/PEOPLE.md|## Mahalalel (Mahalalel)
+0.8|content/de/genesis/PEOPLE.md|## Nimrod (Nimrod)
+0.8|content/de/genesis/PEOPLE.md|## Terach (Terach)
+0.8|content/de/genesis/PEOPLE.md|## Haran (Haran)
+0.8|content/de/genesis/PEOPLE.md|## Sarai (Sarai)
+0.8|content/de/genesis/PEOPLE.md|## Lot (Lot)
+0.8|content/es/genesis/PEOPLE.md|## Nimrod (Nimrod)
+0.8|content/es/genesis/PEOPLE.md|## Sarai (Sarai)
+0.8|content/es/genesis/PEOPLE.md|## Lot (Lot)
+0.8|content/pt-br/genesis/PEOPLE.md|## Nimrod (Nimrod)
+0.8|content/pt-br/genesis/PEOPLE.md|## Sarai (Sarai)
+
+# Greek / NT names — transliteration = locale familiar
+0.8|content/de/matthew/PEOPLE.md|## Tamar (Tamar)
+0.8|content/de/matthew/PEOPLE.md|## Rut (Rut)
+0.8|content/de/matthew/PEOPLE.md|## David (David)
+0.8|content/de/matthew/PEOPLE.md|## Herodes (Herodes)
+0.8|content/es/matthew/PEOPLE.md|## Tamar (Tamar)
+0.8|content/es/matthew/PEOPLE.md|## Rut (Rut)
+0.8|content/es/matthew/PEOPLE.md|## David (David)
+0.8|content/es/matthew/PEOPLE.md|## Herodes (Herodes)
+0.8|content/pt-br/matthew/PEOPLE.md|## Tamar (Tamar)
+0.8|content/pt-br/matthew/PEOPLE.md|## Herodes (Herodes)

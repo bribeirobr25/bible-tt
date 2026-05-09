@@ -1,6 +1,6 @@
 # THE TRANSPARENT TRANSLATION (TT)
 ## Core Translation Governance System
-### Ruleset v3.0 — Layered Architecture (CORE + source-language supplements)
+### Ruleset v3.3 — Layered Architecture (CORE + source-language supplements)
 
 ---
 
@@ -375,6 +375,24 @@ When source text **lacks** article where expected, preserve or note the absence 
 
 See source-language supplement for article system specifics per source language.
 
+**Idiom policy:** Target-language idioms may replace source-text literal forms when the literal rendering is unintelligible or misleading in the target language. Editorial-log entries are required only when the substitution materially changes source structure, obscures a source-language idiom, or resolves ambiguity that the source text preserves. Rule 11 marking (italics) applies only when words are added beyond grammatical necessity — routine idiomatic phrasing does not require Rule 11 marking.
+
+**Name rendering policy (v3.2):** Proper names (persons, places, groups) use the familiar target-language form as default throughout the text. The transliterated source-language form appears ONCE at first occurrence per section, with the familiar form in parentheses: e.g., "Yochanan (John)." All subsequent occurrences within that section use the familiar form only: "John."
+
+"First occurrence" resets per section within a chapter page — overview, continuous reading, each companion section, each prophecy entry, each people entry are treated as independent sections. A reader entering any section cold will see the transliterated form glossed at least once.
+
+Applies to all content: verse text, overviews, companion entries, prophecy entries, people entries, cross-chapter tracking. Applies across all 4 locales with locale-appropriate familiar forms.
+
+**Exceptions:**
+- **YHWH / JHWH:** Retains transliterated form throughout (Rule 25 policy)
+- **Yehudim:** Retains transliterated form throughout (GS §Ioudaioi Policy — transliteration exists to avoid reception-history baggage)
+- **Technical transliterations** (raqia, tohu vavohu, bara, nephilim, tebah, etc.): These are strategic-term transliterations per Rule 4, not names. They remain transliterated with inline glosses.
+- **Names without a clean familiar form** in a given locale: Retain transliterated form throughout (no exception, just no reversal for that name in that locale)
+
+**Group names:** All group names get familiar-form treatment EXCEPT Yehudim. Perushim → Pharisees, Tsduqim → Sadducees, Pelishtim → Philistines, Kena'anim → Canaanites, Mitsrim → Egyptians.
+
+See source-language supplement proper-name tables for complete name mappings per locale.
+
 ---
 
 #### **Rule 18: Numbers & Ordinals**
@@ -420,6 +438,22 @@ German: "der Geist Gottes" - both nouns capitalized grammatically
 English: "the spirit of God" - lowercase unless proper name
 Portuguese: "o espírito de Deus" - lowercase unless proper name
 Spanish: "el espíritu de Dios" - lowercase unless proper name (same policy as EN/PT)
+```
+
+**Titular and Relational Nouns (EN/PT/ES):**
+Relational and titular nouns are lowercase by default in English, Portuguese, and Spanish:
+- "son of God," "son of man," "father" (titular/relational usage), "king of Israel," "the anointed one"
+- "God" remains capitalized (proper noun, not titular)
+- Escape hatch: capitalize when target-language grammar, sentence position, or an explicitly governed title exception requires it
+- Heading-case style (Title Case Initial Caps) is preserved in section headers; body-text lowercase applies only to inline references and verse text
+- German is exempt — grammatical noun capitalization governs
+
+**Examples:**
+```
+EN: "you are the son of God" (not "Son of God")
+PT: "tu és o filho de Deus" (not "Filho de Deus")
+ES: "tú eres el hijo de Dios" (not "Hijo de Dios")
+DE: "du bist der Sohn Gottes" (grammatical capitalization — no change)
 ```
 
 ---
@@ -484,6 +518,12 @@ Every published rendering must declare its edition type
 - Readability priority within honest constraints
 
 **Target Audience:** General readers seeking accurate but readable translation
+
+**PUNCTUATION GOVERNANCE:**
+- **Speech-boundary policy:** When the source text leaves speaker attribution open (e.g., whether a passage is direct speech or narrator commentary), target-language punctuation (quotation marks, paragraph breaks) must not resolve the ambiguity. If the Greek or Hebrew does not settle who is speaking, the translation's typography must not settle it either. A Tier 2 note identifies the ambiguity.
+- **Em-dashes:** Use according to target-language conventions. EN uses em-dash (—); PT uses em-dash or travessão; DE uses Gedankenstrich (—); ES uses raya (—).
+- **Comma and semicolon conventions:** Follow target-language norms. Do not impose English comma conventions on other languages.
+- **Direct speech punctuation:** Follow target-language norms for quotation marks, speech attribution, and dialogue formatting.
 
 **ANTI-DRIFT SAFEGUARD:**
 Reader Edition may smooth syntax and punctuation.
@@ -588,7 +628,7 @@ Every contextual claim carries two labels:
 
 DOCUMENTED is for LATER RECEPTION entries where the tradition is historically attested. It is distinct from VERIFIED (textual fact) — DOCUMENTED means "this reception tradition exists and is well-attested," not "the interpretation is textually correct."
 
-**Companion file sections (A–H) — AVAILABLE, NOT ALL MANDATORY:**
+**Companion file sections (A–I) — AVAILABLE, NOT ALL MANDATORY:**
 - **A.** Source Text Features Exposed by TT
 - **B.** Ancient Parallels
 - **C.** Historical and Archaeological Context
@@ -597,18 +637,41 @@ DOCUMENTED is for LATER RECEPTION entries where the tradition is historically at
 - **F.** Later Reception in Other Traditions
 - **G.** Curiosities and Open Questions
 - **H.** Sources Consulted — **MANDATORY**
+- **I.** The World at the Time
+
+Section I provides a panoramic view of the world during the period the text describes or was composed. It answers: "What was life actually like for the people in and around this story?"
+
+**Boundary with Section C:** Section C covers archaeological evidence and historical facts that directly illuminate the specific text (e.g., "inscription X confirms king Y mentioned in verse Z," "excavation at site W shows a fortification matching the description in verse N"). Section I covers the broader world that the text existed within — even when the text doesn't mention it directly. If a reader needs the entry to understand a specific verse, it belongs in C. If a reader needs the entry to understand the world the verse was written in, it belongs in I.
+
+Sub-entries cover:
+
+- **I1. Political landscape** — Who ruled the region? What kind of governance (tribal, city-state, empire, vassal system)? Who were the major powers (Egypt, Assyria, Babylon, Persia, Rome)? What was the relationship between the local population and the ruling power? Were there recent conquests, treaties, or political upheavals?
+- **I2. Economy and trade** — What did people produce and trade? What trade routes passed through the region (incense route, King's Highway, Via Maris)? Was the economy agricultural, pastoral, urban, or mixed? What was used as currency (barter, silver weights, coins)? What was the wealth distribution? Who controlled economic resources?
+- **I3. Population and daily life** — Estimated population of the region and key cities. What did people eat (diet, agriculture, animal husbandry)? What did houses look like? What was a typical day? How were families structured (nuclear, extended, clan-based)? Marriage customs, childbearing patterns, inheritance rules.
+- **I4. Social structure and class** — Who had power and who didn't? Was there slavery, and what form did it take? What were the social classes (nobility, priests, free citizens, servants, slaves)? What was the status of women, children, foreigners? How was justice administered?
+- **I5. Education, literacy, and communication** — What percentage of the population could read and write? How was knowledge transmitted (oral tradition, scribal schools, apprenticeship)? What languages were spoken in the region? Was there a lingua franca (Akkadian, Aramaic, Greek, Latin)? How did people communicate across distances?
+- **I6. Military and conflicts** — What wars or military campaigns were active or recent? What weapons, armor, and fortifications existed? How were armies organized (standing army, militia, conscription, mercenaries)? What were the major military threats to the region?
+- **I7. Arts, literature, and philosophy** — What were people writing and creating? What literary traditions existed? What philosophical or intellectual movements were active (wisdom literature, Greek philosophy, prophetic tradition)? What artistic styles were prevalent (architecture, pottery, metalwork, textiles)?
+- **I8. Science, technology, and medicine** — What inventions and techniques were available (irrigation, metallurgy, construction, navigation)? What was the state of medical knowledge? What diseases were common? What was the average life expectancy? How did people understand the natural world?
+- **I9. Religion and worldview** — What did surrounding peoples believe and practice? What temples, rituals, and festivals were active? What cosmological assumptions were common (flat earth, dome sky, divine council)? How did the local religious practice compare to or interact with the text's theological claims?
+- **I10. Neighboring peoples and international relations** — Who lived in the surrounding regions? What were the diplomatic, commercial, and military relationships? Were there migrations, invasions, or cultural exchanges that shaped the period?
+
+Not every sub-entry applies to every chapter. Include only when substantive sourced content exists. Each sub-entry uses the standard claim-type and confidence labels.
+
+Additional sections (J, K, L...) may be added as the project grows. The parser accepts any uppercase letter (A-Z).
 
 **Companion File Research Checklist:**
 
 When composing a companion file, systematically research each applicable category below. Route findings to the appropriate section. Not every category applies to every chapter — include only when there is substantive, sourced content.
 
-*Historical & Social Context (→ Section C):*
-- Calendar and timekeeping: What calendar system was in use? What time of year does the narrative suggest? (Note: calendar systems applicable to the book's narrated period belong in the book introduction Section D. Per-chapter notes should reference the introduction, only adding chapter-specific calendrical observations.)
-- Social customs and daily life: What customs, norms, or daily-life details illuminate the text? (e.g., water-drawing times, hospitality obligations, mourning practices, marriage customs, honor-shame dynamics)
-- Political context: What political relationships, tensions, or power structures are relevant? (e.g., Jewish-Samaritan relations, vassal-suzerain dynamics, imperial occupation)
-- Economic context: What economic system, trade routes, or material conditions are relevant?
-- Legal context: What legal systems, customs, or codes are relevant? (e.g., ANE law codes, Roman law, Sanhedrin procedures)
-- Geographic context: What geographic features, distances, travel routes, or regional characteristics matter?
+*Historical & Archaeological Context (→ Section C):*
+- Archaeological evidence: Are there excavations, inscriptions, seals, or artifacts that directly illuminate specific verses or events in this chapter?
+- Geographic identification: Can places mentioned in the text be identified with known archaeological sites? What do those sites reveal?
+- Calendar and timekeeping: Does the text give specific dates or times? What calendar system applies? (Book-level calendar overview belongs in the introduction Section D.)
+- Social customs that illuminate specific verses: What customs or norms explain a character's behavior in a specific passage? (e.g., water-drawing times explain the Samaritan woman's isolation in John 4; levirate marriage explains Tamar's situation in Genesis 38)
+- Legal context tied to specific verses: What legal codes or customs explain a specific legal act in the text? (e.g., ANE adoption law explains Avram's heir arrangement in Genesis 15)
+
+Note: Broad political, economic, social, and cultural context of the period belongs in Section I ("The World at the Time"), not in Section C. Section C answers "what evidence touches THIS verse?" while Section I answers "what was the world like when this was written?"
 
 *External Attestation (→ Section C):*
 - Non-biblical attestation: Do independent historical sources mention people, places, or events in this chapter? (e.g., Tacitus, Josephus, Suetonius, Mara bar Serapion, inscriptions, seals)
@@ -638,6 +701,18 @@ When composing a companion file, systematically research each applicable categor
 - What are the scholarly positions on the claim? (various confidence levels)
 - What remains genuinely open? (→ Section G)
 
+*The World at the Time (→ Section I):*
+- I1. Political landscape: Who ruled? What governance system? What empires were active? Recent conquests or treaties? Relationship between local population and ruling power?
+- I2. Economy and trade: What was produced and traded? What routes (incense, King's Highway, Via Maris)? Currency or barter? Wealth distribution? Who controlled resources?
+- I3. Population and daily life: Estimated population? Diet and agriculture? Housing? Family structure (nuclear, extended, clan)? Marriage customs? Inheritance rules?
+- I4. Social structure and class: Who had power? Slavery (what form)? Social classes? Status of women, children, foreigners? How was justice administered?
+- I5. Education, literacy, and communication: Literacy rates? Knowledge transmission (oral, scribal schools)? Languages spoken? Lingua franca? Long-distance communication?
+- I6. Military and conflicts: Active wars? Weapons and fortifications? Army organization? Major threats to the region?
+- I7. Arts, literature, and philosophy: Literary traditions? Intellectual movements? Artistic styles (architecture, pottery, metalwork)?
+- I8. Science, technology, and medicine: Inventions? Medical knowledge? Common diseases? Life expectancy? Understanding of the natural world?
+- I9. Religion and worldview: Surrounding peoples' beliefs and practices? Temples, rituals, festivals? Cosmological assumptions? Interaction with the text's theology?
+- I10. Neighboring peoples: Who lived nearby? Diplomatic, commercial, military relationships? Migrations, invasions, cultural exchanges?
+
 *Cross-Chapter & Cross-Book Connections:*
 - Does this passage quote, echo, or allude to earlier passages?
 - Is this passage quoted or alluded to later in the same book or in other books?
@@ -655,6 +730,20 @@ When composing a companion file, systematically research each applicable categor
 **Readability standard:** Companion content in Explore and Context views must be accessible to a general reader without academic background. Avoid: Latin terms without explanation (e.g., use "direct command" not "fiat"), formal/archaic vocabulary when a common word exists (e.g., use "doesn't have" not "lacks/carece"), and complex sentence structures that require re-reading. Technical terms from Hebrew, Greek, or scholarly fields should be briefly glossed on first use. The goal: a curious person who has never studied theology or ancient languages can read any companion entry and understand what it says.
 
 **Tracing popular content to source.** When evaluating claims from social media, popular books, or short-form video: (a) identify the underlying scholarly work, denominational document, or ancient text — cite the source, not the social-media derivative; (b) document with provenance label (PEER-REVIEWED / ACADEMIC POPULAR / POPULAR / PRIMARY); (c) distinguish what the source claims from what popular amplification adds; (d) apply Rule 3 corollary symmetrically — neither dismiss the tradition because of overclaim, nor adopt the overclaim because the tradition is real; (e) place in the appropriate companion section (F for reception, E for science, Prophecy view for prophecy); (f) refuse the amplification's overclaim.
+
+**Tier 2 Relocation Protocol:** Tier 2 notes should normally stay under 3 sentences. Move material to companion files when it contains: ANE parallels, later reception history, statistical analysis, theological trajectories, extended archaeology/history, multiple scholarly positions, modern scientific comparison, or anti-misuse discussion that requires more than a short warning. Before moving: (1) identify the source verse; (2) choose the receiving companion section; (3) preserve a short Tier 2 pointer ("For fuller discussion, see the chapter companion, Section B/C/F"); (4) add or update Section H source provenance in the companion; (5) log the relocation in the editorial log if it changes interpretive framing.
+
+**Companion file pre-submission checklist:**
+- [ ] Opening disclaimer present
+- [ ] Claim-type and confidence labels used correctly
+- [ ] TEXTUAL — VERIFIED limited to direct source-text facts (not inference, evaluation, or intent claims)
+- [ ] Later reception separated from textual claims
+- [ ] Scientific comparison routed to Section E
+- [ ] Section H uses Rule 29 provenance labels (ALL CAPS: PRIMARY, PEER-REVIEWED, ACADEMIC POPULAR, POPULAR; sub-type qualifiers in parentheses permitted, e.g., "PEER-REVIEWED (commentary)")
+- [ ] AI/editorial provenance block complete per Rule 28 format
+- [ ] High-risk decisions logged in editorial log
+
+Note: "How to Use This Companion" sections apply to introduction files; companion files satisfy this requirement via the disclaimer block.
 
 **Quadrilingual implementation:** EN-first pilot; PT-BR, DE, and ES after pilot review.
 
@@ -737,34 +826,228 @@ A book may belong to multiple genres (e.g., Daniel is both narrative and apocaly
 - **Book:** [Book Name] ([Hebrew/Greek title])
 - **Language:** [Language]
 - **Introduction to:** `[locale]/[book]/` (Transparent Edition)
-- **Ruleset:** v3.0 (Rule 29 governs this file)
+- **Ruleset:** v3.3 (Rule 29 governs this file)
 - **Status:** provisional
+
+---
+
+## PUNCTUATION GOVERNANCE
+
+*Added v3.3 (2026-05-08). See `docs/rules/proposals/v3.3-24-punctuation-governance.md` for proposal artifact.*
+
+Punctuation choices are interpretive. The TT sets the following conventions to prevent typography from resolving ambiguity the source text preserves.
+
+### §P1. Em-dash convention
+
+- **Em-dash (—, U+2014)** for narrative breaks, mid-sentence asides, and parenthetical clarifications in main text.
+- **Two hyphens (`--`)** in raw markdown source ARE permitted ONLY in: (a) date/verse ranges (`Gen 5:21–27`); (b) markdown horizontal rules (`---`). All other ` -- ` instances are bugs.
+- Lint rule §0.2 in `scripts/content-lint.sh` enforces this.
+
+### §P2. Speech boundaries (Tier 1 main text)
+
+- The Hebrew and Greek source texts use no quotation marks. The TT inserts quotation marks **only where the source unambiguously marks speech** through narrative framing (e.g. "X said:"). When the boundary is debated (e.g. where Yeshua's discourse ends and the narrator's commentary begins in Jn 3:16–21, Jn 3:31–36), main text uses quotation marks for the narrowest defensible boundary, with a Tier 2 note flagging the alternative.
+- Locale-specific quotation conventions: EN/ES use `"…"`; PT-BR uses `"…"` (modern); DE uses `„…"` (lower-then-upper). All four are acceptable; do not mix within a chapter.
+
+### §P3. Comma and semicolon
+
+- Use commas to separate items in narrative lists; use semicolons to separate items where each contains internal commas or where the items are clausal.
+- Do NOT use commas to resolve grammatical ambiguity the source preserves (e.g. attaching a phrase to one antecedent over another).
+
+### §P4. Spanish minimal-pair accents
+
+Spanish has minimal pairs distinguished only by an acute accent: `el/él`, `mas/más`, `tu/tú`, `mi/mí`, `que/qué` (interrogative vs. relative), `como/cómo`, `cuando/cuándo`, `donde/dónde`. The TT main text MUST mark the accented form whenever the word functions as the accented sense; absence is a bug, not a stylistic choice. Lint rule §0.3 (ES NT diacritic loss) enforces a subset; broader compliance is an editor responsibility.
+
+### §P5. German verb-period and capitalization
+
+- German nouns are grammatically capitalized — this is NOT theological capitalization (Rule 20 exemption is documented in this file's Rule 20).
+- German final periods after dependent clauses follow standard convention; the TT does not impose abnormal punctuation patterns even in elevated register.
+
+### §P6. Editorial-log entry trigger
+
+A new editorial-log entry is required when:
+- A non-default quotation boundary is chosen for a debated passage.
+- A locale-specific punctuation choice diverges from cross-language alignment (Rule 16).
+
+---
+
+## IDIOM POLICY
+
+*Added v3.3 (2026-05-08). See `docs/rules/proposals/v3.3-25-idiom-policy.md` for proposal artifact.*
+
+Target-language idioms interact with Rule 5 (literal-form preservation) on a controlled gradient. This policy specifies when literal preservation yields and when it holds.
+
+### §I1. Default: preserve source structure
+
+The default rendering preserves source-text structure (Rule 5). When the literal form is grammatically functional in the target language — even if slightly archaic or elevated — it stays.
+
+**Examples preserved:**
+- Hebrew `מוֹת תָּמוּת` ("dying you shall die") → EN "dying you shall die" (Gen 2:17). The doubled construction is grammatical in elevated EN; not flattened.
+- Hebrew `וְעַל־פְּנֵי הַתְּהוֹם` ("and on the face of the deep") → EN "on the face of the deep". The "face" idiom is recognizable in EN through Authorized Version legacy.
+
+### §I2. Yield when literal form misleads
+
+The literal form yields to idiomatic rendering ONLY when the literal would parse as a different referent in the target language and create a meaning the source did not intend. The source meaning is rendered idiomatically; a Tier 2 note records the source construction.
+
+**Examples idiomatized:**
+- Hebrew `מִיָּדוֹ` ("from his hand") meaning "from him" — when context makes the body-part reading impossible (e.g. context of theft or exchange of property), render "from him" with a note: "Hebrew literally: 'from his hand' — idiomatic for direct possession or agency."
+- Greek `λαμβάνω πρόσωπον` ("to take/receive face") meaning "to favor partially" (Lev 19:15 LXX, Lk 20:21) — render the meaning with a note explaining the Hebrew calque (`nasa panim`).
+
+### §I3. Glossary terms never yield to idiom
+
+Locked glossary entries (Rule 1) render consistently regardless of whether the literal form is idiomatic in the target. `nephesh` is "soul/being" / "alma/ser" / "Seele/Wesen" / "alma/ser" everywhere it appears; no idiomatic substitution permitted.
+
+### §I4. Prime Directive supremacy
+
+When a literal construction creates ambiguity the source text preserves, idiom NEVER overrides. The ambiguity stays, even at the cost of awkward target-language flow.
+
+**Example: ambiguity preserved over idiom.**
+- Greek `ἄνωθεν` (anōthen, Jn 3:3) means both "from above" (spatial) and "again" (temporal). Both senses are active in the source's wordplay (Nikodemos misunderstands one sense). The TT renders "from above/again" with the slash (Rule 2). EN idiom would prefer "from above" or "born again" but neither preserves the ambiguity. Slash wins.
+
+### §I5. Editorial-log entry trigger
+
+A new editorial-log entry is required when:
+- A literal form is judged misleading and idiomatized (§I2 invocation).
+- A debated case is decided against the locale editor's initial preference.
+- The same source idiom is rendered differently across locales — explain why.
+
+### §I6. Cross-language consistency
+
+Idiom decisions favor cross-locale alignment per Rule 16. If EN idiomatizes a construction, PT/DE/ES should consider doing so too unless target-language structure differs materially. Divergence requires an editorial-log entry.
+
+---
+
+## GLOSSARY EXPANSION PROCEDURE
+
+*Added v3.3 (2026-05-08). See `docs/rules/proposals/v3.3-29-glossary-expansion-procedure.md` for proposal artifact.*
+
+The locked glossary is the project's cross-language consistency anchor. Adding a new term requires explicit procedure to prevent drift.
+
+### §G1. Threshold for proposing a new locked entry
+
+A term is a candidate for the locked glossary when:
+- It appears **3 or more times** across the currently-authored corpus AND
+- It is rendered **inconsistently** across those occurrences OR across the four locales AND
+- The inconsistency is interpretive (translation choice), not orthographic.
+
+Or:
+- The term appears once but is **theologically loaded** in receiving traditions (e.g. *monogenēs*, *ekklesia*, *agape*) — locking the entry pre-empts importation per Rule 3.
+
+Single-occurrence non-loaded terms do NOT require a glossary entry; they are handled per-verse via Tier 2 note.
+
+### §G2. Proposal format
+
+Glossary additions require a written proposal in `docs/rules/proposals/glossary-<term>.md` containing:
+- **Source-language form** (Hebrew/Greek with vocalization where relevant)
+- **Transliterated form**
+- **Proposed renderings per locale** (EN / PT-BR / DE / ES)
+- **Cross-supplement alignment** if the term has both HB and GS occurrences
+- **Editorial-log entries triggered** (which existing or upcoming entries reference the term)
+- **Affected verses** — list of occurrences in current and planned content
+- **Justification** — why each rendering was chosen
+- **Alternatives considered**
+
+### §G3. Approval
+
+A glossary addition is approved when:
+- The relevant source-language scholar (Hebraist for HB; Hellenist for GS) reviews and agrees with the proposed renderings.
+- Each locale editor reviews and confirms the locale-specific form.
+- The project lead signs off on cross-supplement alignment if both HB and GS apply.
+
+In Hybrid mode (per `docs/audit/FIX_IMPLEMENTATION.md` Phase 5.5): the proposal is written, reviewers are CC'd via the editorial log, and the change lands without a calendar window. Reviewers may flag for revision post-landing; revisions are tracked as new editorial-log entries.
+
+### §G4. Locking
+
+Once approved, the term is added to:
+- `RULES-CORE.md` §LOCKED GLOSSARY (universal terms) OR
+- `RULES-HB.md` §Locked Glossary — Hebrew (HB-specific) OR
+- `RULES-GS.md` §Locked Glossary — Greek (GS-specific)
+
+Cross-supplement-aligned terms are recorded in BOTH supplements with a "see also" pointer.
+
+### §G5. Subsequent deviations
+
+After locking, any deviation from the locked rendering in a specific verse triggers an editorial-log entry per Rule 1. Deviations require justification stronger than a glossary addition; "this verse's context demands a different sense" must cite specific source-text features or reception history.
+
+### §G6. Removing or revising a glossary entry
+
+Removing or revising a locked entry follows the full Amendment & Lock Protocol (this file's §Amendment & Lock Protocol). Glossary removal is rare and signals that the project's stance on the term has materially shifted; signed-off verses using the prior locked form must be re-reviewed.
 
 ---
 
 ## EDITORIAL LOG SPECIFICATION
 
+*Formalized v3.3 (2026-05-08). See `docs/rules/proposals/v3.3-30-editorial-log-schema.md` for proposal artifact. The schema below tightens the normative spec but is backward-compatible with all ~120 existing log entries.*
+
 The editorial log is the operational backbone of the ruleset.
 
-**Location:** `docs/editorial-log/` (one file per book)
+**Location:** `docs/editorial-log/<book>.md` (one file per book) plus the cross-book file `docs/editorial-log/transliteration-decisions.md`.
 
-**Entry schema:** See editorial log files for format.
+**File-level required header (every editorial-log file):**
 
-**Required entry triggers:**
+```markdown
+# Editorial Log — <Book Name>
+
+**Ruleset version in force:** v<X.Y>     [must match current RULES-CORE.md version]
+**Book:** <Book Name>
+**Maintainer:** Project Lead
+**Format:** per v<X.Y> Editorial Log Specification
+```
+
+**Entry schema (normative):**
+
+Every editorial-log entry MUST include the following fields, in this order:
+
+| Field | Type | Required? | Description |
+|-------|------|-----------|-------------|
+| **Heading** | `## Entry <ID>` | yes | Stable ID per book log: `## Entry 2026-MM-DD-NNN` (Genesis) or `## Entry J-NN` (John) or `## Entry M-NN` (Matthew). New ID formats may be added per book by editorial decision. |
+| **Verse** | string | yes | The verse(s) affected (e.g., "Genesis 1:2") or "edition-wide / book-wide" for policy decisions. |
+| **Language(s) affected** | comma-list | yes | EN, PT-BR, DE, ES, or subset. |
+| **Rule(s) invoked** | comma-list | yes | "CORE Rule N" / "HB §Section" / "GS §Section". |
+| **Decision** | string | yes | What was decided and what the translation says (or what the policy now is). |
+| **Alternatives considered** | bulleted list | yes | What other renderings were considered, each with a one-line reason for rejection. |
+| **Justification** | string | yes | Why this rendering was chosen over alternatives. |
+| **AI provenance** | string | required for AI-drafted entries | Model identifier, version, date, optional prompt summary. Required by Rule 28. |
+| **Status** | enum | yes | `provisional` / `signed-off` / `superseded`. |
+| **Reviewers** | string | yes | "Hebraist: name | EN editor: name | Cross-alignment: name" or "unassigned" if not yet reviewed. |
+| **Cross-references** | comma-list | optional | Related editorial-log entries (`see Entry J-013`), related rule sections, related plan documents. |
+
+**Trailing separator:** every entry ends with `---` on its own line.
+
+### §L1. Required entry triggers
+
+A new entry is required when ANY of the following occurs:
+
 1. A glossary term is rendered against its default (Rule 1 deviation).
 2. A formula (Rule 7) is varied across occurrences.
 3. An edition policy is interpreted (Rule 24).
 4. A textual variant is noted (Rule 22) or selected (Rule 26).
 5. A source-language gender mismatch or target-language grammatical issue is documented.
-6. A tradition relationship policy is set or revisited (Luther, Reina-Valera, or future).
+6. A tradition relationship policy is set or revisited (Luther, Reina-Valera, Almeida, or future).
 7. A divine name policy is set or revisited (Rule 25).
 8. A Rule 19 priority resolution is invoked.
 9. A reviewer disagreement is escalated.
+10. A glossary expansion proposal is approved (per §GLOSSARY EXPANSION PROCEDURE).
+11. A non-default punctuation choice is made for a debated passage (per §PUNCTUATION GOVERNANCE §P2).
+12. An idiom yields literal preservation (per §IDIOM POLICY §I2).
 
-**Post-v3.0 citation convention:**
-- Universal rules: "CORE Rule N"
-- Source-specific content: "HB §Section Name" or "GS §Section Name"
-- Historical entries referencing "RULES.md" remain valid as historical records.
+### §L2. Status workflow
+
+- New entries land as `provisional`.
+- Reviewer matrix sign-off promotes the entry (and its referenced verses) to `signed-off`.
+- A subsequent decision that overrides an earlier decision marks the earlier as `superseded` with a forward-pointer to the superseding entry.
+- Once `signed-off`, an entry's verses cannot be retranslated without invoking the Amendment & Lock Protocol.
+
+### §L3. Cross-book references
+
+- Entries in `genesis.md` may reference entries in `john.md` or `matthew.md` via the entry ID. The receiving log adds a "see also" line in its own affected entry.
+- The cross-book log `transliteration-decisions.md` is the canonical place for transliteration decisions that span books.
+
+### §L4. Post-v3.0 citation convention
+
+- Universal rules: "CORE Rule N" (e.g., "CORE Rule 28")
+- Source-specific content: "HB §<Section Name>" or "GS §<Section Name>"
+- v3.3+ universal-policy sections: "CORE §<Section Name>" (e.g., "CORE §Punctuation Governance")
+- Historical entries referencing "RULES.md" (pre-v3.0) remain valid as historical records.
 
 ---
 
@@ -780,7 +1063,31 @@ The editorial log is the operational backbone of the ruleset.
 5. Affected verses re-reviewed
 
 ### **Emergency amendment**
-Bug fixes may be patched as point releases without full proposal cycle, but must be logged.
+Bug fixes and audit-driven hardening may be patched as point releases without full proposal cycle, but must be logged. Applies when no signed-off verses are affected and all changes are additive (no existing rules modified).
+
+### **Glossary expansion policy**
+Any contributor may propose a new glossary term. A term qualifies for addition when it appears 3 or more times in the translation scope OR is theologically significant enough that inconsistent rendering would violate Rule 1. Approval requires project lead + source-language reviewer agreement. The addition must be logged in the editorial log with the same entry schema as any Rule 1 deviation.
+
+---
+
+## PORTUGUESE PRE-TRANSLATION REQUIREMENT
+
+**Before beginning Brazilian Portuguese translation, the following decision must be documented:**
+
+### **Almeida Tradition Relationship Policy**
+
+This decision affects editorial framing and marketing positioning, **NOT** core translation methodology. The Portuguese TT is built from source text using TT rules regardless of Almeida stance.
+
+**Background:** The João Ferreira de Almeida Bible (1681/ARA 1993/ARC 2009/NVI 2000) has enormous cultural weight in Brazilian Protestant contexts. Catholic readers are more familiar with the CNBB translation. The Portuguese-speaking world spans Brazil, Portugal, Angola, Mozambique, and other countries with distinct linguistic registers.
+
+**Three Options:**
+- **A. Complete Independence** — no comparative notes; clean break
+- **B. Selective Acknowledgment** — note convergences/divergences in supplementary materials
+- **C. Explicit Alternative** — position as transparency counter to Almeida's choices
+
+**Register Note:** Brazilian Portuguese and European Portuguese differ significantly in register, pronoun systems, and verb usage. The TT targets contemporary formal Brazilian Portuguese (Rule 10). European Portuguese readers should be aware that register choices reflect Brazilian norms.
+
+**REQUIREMENT:** Document chosen option before starting Portuguese translation. Record in editorial log. This is editorial framing, not methodology.
 
 ---
 
@@ -864,6 +1171,51 @@ This decision affects editorial framing and marketing positioning, **NOT** core 
 - [ ] Aposiopesis or incomplete sentences preserved, not smoothed?
 
 See source-language supplement for additional source-specific checklist items.
+
+---
+
+## WORKED QUADRILINGUAL EXAMPLE
+
+**Genesis 1:2 — ruach elohim**
+
+Hebrew: וְר֣וּחַ אֱלֹהִ֔ים מְרַחֶ֖פֶת עַל־פְּנֵ֥י הַמָּֽיִם
+
+| Language | Transparent Edition | Rules Applied |
+|----------|-------------------|---------------|
+| **EN** | and *the* wind/spirit of God *was* hovering over the face of the waters | Rule 2 (wind/spirit slash), Rule 11 (italics: *the*, *was* added), Rule 1 (ruach → wind/spirit per HB glossary), Rule 17 (no article on ruach — italicized addition) |
+| **PT** | e *o* vento/espírito de Deus pairava sobre a face das águas | Rule 2 (vento/espírito slash), Rule 11 (italics: *o* added), Rule 16 (cross-language alignment), PT advantage: gerund "pairando" available for participle |
+| **DE** | und *der* Wind/Geist Gottes schwebte über der Fläche der Wasser | Rule 2 (Wind/Geist slash), Rule 11 (italics: *der* added), Rule 20 (German grammatical capitalization — not theological), Rule 10 (contemporary German, not Luther archaism) |
+| **ES** | y *el* viento/espíritu de Dios se cernía sobre la faz de las aguas | Rule 2 (viento/espíritu slash), Rule 11 (italics: *el* added), Rule 16 (cross-language alignment) |
+
+**What this example demonstrates:**
+- The same slash (Rule 2) appears in all 4 languages for the same Hebrew ambiguity
+- All 4 languages mark the added article with Rule 11 italics (Hebrew has no article on ruach)
+- German capitalizes nouns grammatically (Rule 20 exemption) — not for theological emphasis
+- The participle merachefet is rendered with the closest target-language equivalent in each language
+- No language resolves the wind/spirit ambiguity that the Hebrew preserves
+
+---
+
+**John 1:1c — *theos ēn ho logos*** *(GS-side companion example, added v3.3)*
+
+Greek: καὶ θεὸς ἦν ὁ λόγος
+
+| Language | Transparent Edition | Rules Applied |
+|----------|---------------------|---------------|
+| **EN** | and the word was God | CORE Rule 1 (logos = "word", lowercase per GS glossary), CORE Rule 13 (Tier 2 note: "Probable" — Colwell's Rule supports the predicate-nominative reading, but a quality-focused alternative remains grammatically possible), CORE Rule 21 (no theological emphasis via capitalization in main text), GS §Greek Article System (anarthrous predicate nominative — see Tier 2 note) |
+| **PT-BR** | e a palavra era Deus | CORE Rule 1, Rule 16 (cross-language alignment with EN), Rule 21 (no capitalization), GS §Greek Article System |
+| **DE** | und das Wort war Gott | CORE Rule 1, Rule 16, Rule 20 (German nouns capitalized grammatically — `Gott` and `Wort` both capitalized; this is grammatical, not theological), GS §Greek Article System |
+| **ES** | y la palabra era Dios | CORE Rule 1, Rule 16, Rule 21, GS §Greek Article System |
+
+**What this example demonstrates:**
+
+- **GS-specific behavior:** Greek's anarthrous predicate nominative (`θεὸς` without article) requires a Tier 2 grammatical note in all four locales — see GS §Greek Article System.
+- **Rule 13 confidence labelling:** the predicate-nominative reading is `[Probable]` — Colwell's Rule supports it; a quality-focused alternative reading remains grammatically defensible. The TT renders one option in main text and notes the alternative.
+- **Rule 21 (no smuggled commentary):** capitalizing `Word` would import the Johannine theological referent through typography. The TT renders lowercase `word` so the reader meets the term without that prejudicial signal.
+- **DE Rule 20 exemption:** `Gott` and `Wort` are capitalized in DE — this is German orthography (all nouns), not theological emphasis. The exemption is documented in Rule 20.
+- **Rule 16 (cross-language alignment):** all four locales render the same predicate structure (`<copula> <article-noun>`); the article + lowercase pattern is consistent.
+- **§Punctuation Governance §P2:** the verse begins as a continuation of `Ἐν ἀρχῇ ἦν ὁ λόγος…` — the comma (or its absence) before `θεὸς ἦν ὁ λόγος` does not change the parsing in the Greek source. The TT preserves the implicit clause boundary without adding emphatic punctuation.
+- **§Idiom Policy §I3:** `λόγος` is a locked glossary term — never yields to idiom. Future temptation to render as "Logos" (capital, untranslated) is rejected per Rule 4 (transliteration threshold not met) and Rule 21.
 
 ---
 
@@ -1018,6 +1370,14 @@ See source-language supplement for additional post-translation checks.
 
 ## VERSION HISTORY
 
+**v3.3** (2026-05-08) - GOVERNANCE EXPANSION
+- Added §PUNCTUATION GOVERNANCE (em-dash convention, speech boundaries, Spanish minimal-pair accents, German capitalization). See `docs/rules/proposals/v3.3-24-punctuation-governance.md`.
+- Added §IDIOM POLICY (when literal-form preservation yields to idiom; never overrides Prime Directive). See `docs/rules/proposals/v3.3-25-idiom-policy.md`.
+- Added §GLOSSARY EXPANSION PROCEDURE (proposal format, approval, locking, deviation tracking). See `docs/rules/proposals/v3.3-29-glossary-expansion-procedure.md`.
+- Formalized §EDITORIAL LOG SPECIFICATION (entry-schema field types, required vs. optional fields, status workflow, citation convention). Backward-compatible with all ~120 existing log entries. See `docs/rules/proposals/v3.3-30-editorial-log-schema.md`.
+- Added second §WORKED QUADRILINGUAL EXAMPLE (John 1:1c — *theos ēn ho logos* — exercises GS §Greek Article System, Rule 13 confidence labelling, Rule 21, Rule 20 DE exemption, plus the new §Punctuation §P2 and §Idiom §I3 policies). See `docs/rules/proposals/v3.3-31-worked-quadrilingual-example.md`.
+- Lock Protocol invocation: **Hybrid (Emergency-with-proposals)** per `docs/audit/FIX_IMPLEMENTATION.md` Phase 5.5. Proposal artifacts retained in `docs/rules/proposals/`; 14-day window skipped because no signed-off verses are affected. All additions are additive — no existing rule modified.
+
 **v3.0** (2026-04-25) - LAYERED ARCHITECTURE
 - Restructured RULES.md into three files: RULES-CORE.md (universal), RULES-HB.md (Hebrew Bible), RULES-GS.md (Greek Scriptures stub)
 - Zero rule-content changes — same 29 rules, same glossary, same policies
@@ -1081,7 +1441,7 @@ See source-language supplement for additional post-translation checks.
 
 ---
 
-**END OF CORE RULESET v3.0**
+**END OF CORE RULESET v3.3**
 
 *"The least dishonest version we could build."*
 *"A versão menos desonesta que pudemos construir."*

@@ -48,11 +48,16 @@ const OVERVIEW_SECTIONS = new Set([
 
 function classifyNoteType(emoji: string): NoteType {
   switch (emoji) {
-    case "🔴": return "CRITICAL";
-    case "🟢": return "LEXICAL";
-    case "🔵": return "GRAMMATICAL";
-    case "🟡": return "THEOLOGICAL";
-    default: return "LEXICAL";
+    case "🔴":
+      return "CRITICAL";
+    case "🟢":
+      return "LEXICAL";
+    case "🔵":
+      return "GRAMMATICAL";
+    case "🟡":
+      return "THEOLOGICAL";
+    default:
+      return "LEXICAL";
   }
 }
 
@@ -61,7 +66,10 @@ interface RawSection {
   content: string;
 }
 
-function splitIntoSections(raw: string): { preamble: string; sections: RawSection[] } {
+function splitIntoSections(raw: string): {
+  preamble: string;
+  sections: RawSection[];
+} {
   const lines = raw.split("\n");
   const sections: RawSection[] = [];
   let preamble = "";
@@ -72,7 +80,10 @@ function splitIntoSections(raw: string): { preamble: string; sections: RawSectio
     const match = line.match(SECTION_HEADER);
     if (match) {
       if (currentTitle) {
-        sections.push({ title: currentTitle, content: currentLines.join("\n") });
+        sections.push({
+          title: currentTitle,
+          content: currentLines.join("\n"),
+        });
       } else {
         preamble = currentLines.join("\n");
       }
@@ -89,7 +100,11 @@ function splitIntoSections(raw: string): { preamble: string; sections: RawSectio
   return { preamble, sections };
 }
 
-function extractMetadata(preamble: string, book: string, chapter: number): ChapterMetadata {
+function extractMetadata(
+  preamble: string,
+  book: string,
+  chapter: number,
+): ChapterMetadata {
   const meta: Record<string, string> = {};
   for (const line of preamble.split("\n")) {
     const match = line.match(METADATA_LINE);
@@ -101,21 +116,29 @@ function extractMetadata(preamble: string, book: string, chapter: number): Chapt
   return {
     book,
     chapter,
-    edition: meta["Edition"] || meta["Edição"] || meta["Ausgabe"] || "Transparent",
-    language: meta["Language"] || meta["Idioma"] || meta["Sprache"] || "",
-    baseText: meta["Base Text"] || meta["Texto Base"] || meta["Grundtext"] || "",
-    status: meta["Status"] || "provisional",
-    methodology: meta["Methodology"] || meta["Metodologia"] || meta["Metodología"] || meta["Methodik"] || "",
-    divineNamePolicy: meta["Divine Name Policy (Rule 25)"] || meta["Política do Nome Divino (Regra 25)"] || meta["Politica del Nombre Divino (Regla 25)"] || meta["Política del Nombre Divino (Regla 25)"] || meta["Gottesname-Politik (Regel 25)"] || "",
+    edition: meta.Edition || meta.Edição || meta.Ausgabe || "Transparent",
+    language: meta.Language || meta.Idioma || meta.Sprache || "",
+    baseText: meta["Base Text"] || meta["Texto Base"] || meta.Grundtext || "",
+    status: meta.Status || "provisional",
+    methodology:
+      meta.Methodology ||
+      meta.Metodologia ||
+      meta.Metodología ||
+      meta.Methodik ||
+      "",
+    divineNamePolicy:
+      meta["Divine Name Policy (Rule 25)"] ||
+      meta["Política do Nome Divino (Regra 25)"] ||
+      meta["Politica del Nombre Divino (Regla 25)"] ||
+      meta["Política del Nombre Divino (Regla 25)"] ||
+      meta["Gottesname-Politik (Regel 25)"] ||
+      "",
   };
 }
 
 function extractContinuousReading(content: string): Paragraph[] {
   const cleaned = content.replace(/^---\s*$/gm, "").trim();
-  const textBlock = cleaned.replace(
-    /^\*.*?\*\s*$/gm,
-    ""
-  ).trim();
+  const textBlock = cleaned.replace(/^\*.*?\*\s*$/gm, "").trim();
 
   return textBlock
     .split(/\n\n+/)
@@ -148,7 +171,10 @@ function extractVerses(content: string): Verse[] {
     let inNotes = false;
 
     for (const line of block.lines) {
-      if (line.startsWith("> ") || (inNotes && (line === ">" || line.startsWith(">")))) {
+      if (
+        line.startsWith("> ") ||
+        (inNotes && (line === ">" || line.startsWith(">")))
+      ) {
         inNotes = true;
         noteLines.push(line);
       } else if (line === "---") {
@@ -189,7 +215,10 @@ function parseNotes(lines: string[]): Note[] {
       }
       currentType = classifyNoteType(match[1]);
       currentTitle = match[2].replace(/\*\*/g, "").trim();
-      const rest = line.slice(line.indexOf(match[2]) + match[2].length).replace(/\*\*/g, "").trim();
+      const rest = line
+        .slice(line.indexOf(match[2]) + match[2].length)
+        .replace(/\*\*/g, "")
+        .trim();
       currentContent = rest ? [rest] : [];
     } else if (line.trim() && currentTitle) {
       currentContent.push(line);
@@ -246,11 +275,15 @@ function isSkipped(title: string): boolean {
 }
 
 function isReadingGuide(title: string): boolean {
-  return /READING GUIDE|GUIA DE LEITURA|LESEANLEITUNG|GUIA DE LECTURA|GUÍA DE LECTURA/i.test(title);
+  return /READING GUIDE|GUIA DE LEITURA|LESEANLEITUNG|GUIA DE LECTURA|GUÍA DE LECTURA/i.test(
+    title,
+  );
 }
 
 function isTitleSection(title: string): boolean {
-  return /Transparent Translation|Tradução Transparente|Transparente Übersetzung/i.test(title);
+  return /Transparent Translation|Tradução Transparente|Transparente Übersetzung/i.test(
+    title,
+  );
 }
 
 export function parseChapterMarkdown(

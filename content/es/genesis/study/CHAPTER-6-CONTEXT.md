@@ -10,7 +10,7 @@
 **Capítulo:** Génesis 6
 **Idioma:** Español
 **Compañero de:** `es/genesis/CHAPTER-6.md` (Edición Transparente)
-**Reglas:** v3.0 (la Regla 29 gobierna este archivo)
+**Reglas:** v3.3 (la Regla 29 gobierna este archivo)
 **Status:** provisional
 
 ---
@@ -25,7 +25,7 @@ La TT rinde *bene ha-elohim* con una barra: "hijos de Dios/los dioses." Esto pre
 ### A2. Nephilim transliterado — no "gigantes"
 **[TEXTUAL — VERIFICADO]**
 
-La TT mantiene *nephilim* como transliteración según la Regla 4. "Gigantes" importa la traducción de la LXX (*gigantes*) que en griego significaba "nacidos de la tierra", no "altos." La raíz hebrea *n-p-l* (caer) puede o no ser la etimología real. El texto NO dice que los nephilim son la descendencia de la unión de los bene-elohim — dice que estaban "en la tierra en aquellos días, y también después."
+La TT mantiene *nephilim* como transliteración según la Regla 4. "Gigantes" importa la traducción de la Septuaginta (la antigua traducción griega de la Biblia Hebrea, abreviada LXX) (*gigantes*) que en griego significaba "nacidos de la tierra", no "altos." La raíz hebrea *n-p-l* (caer) puede o no ser la etimología real. El texto NO dice que los nephilim son la descendencia de la unión de los bene-elohim — dice que estaban "en la tierra en aquellos días, y también después."
 
 ### A3. *Yadon* — verbo genuinamente incierto
 **[TEXTUAL — INCIERTO]**
@@ -90,7 +90,7 @@ vv.1-8: **YHWH** (el narrador describe la respuesta emocional divina — arrepen
 ### B1. "Hijos de Dios" y el concilio divino
 **[PARALELO COMPARATIVO — VERIFICADO]**
 
-*Bene elohim* tiene paralelos exactos en ugarítico (*b'n il*, "hijos de El") y textos fenicios, refiriéndose a miembros del concilio divino. El Salmo 82 presenta a Dios presidiendo una asamblea de *elohim*: "Yo dije: 'Vosotros sois dioses, hijos del Altísimo'" (Sal 82:6). El marco del concilio divino está bien atestiguado en todo el ACO.
+*Bene elohim* tiene paralelos exactos en ugarítico (*b'n il*, "hijos de El") y textos fenicios, refiriéndose a miembros del concilio divino. El Salmo 82 presenta a Dios presidiendo una asamblea de *elohim*: "Yo dije: 'Vosotros sois dioses, hijos del Altísimo'" (Sal 82:6). El marco del concilio divino está bien atestiguado en todo el Antiguo Cercano Oriente (ACO).
 
 **Fuente:** Smith, M.S., *The Origins of Biblical Monotheism*, Oxford, 2001; Heiser, M., *The Unseen Realm*, Lexham, 2015.
 
@@ -207,7 +207,7 @@ Génesis 6:8: "Nóaj (*nun-jet*) halló jen (*jet-nun*) a los ojos de YHWH." El 
 ### G2. El silencio de Nóaj
 **[TEXTUAL — VERIFICADO]**
 
-Dios habla a Nóaj extensamente (6:13-21). La respuesta de Nóaj: "Y Nóaj hizo conforme a todo lo que Dios le mandó; así lo hizo" (6:22). Ningún discurso registrado de Nóaj hasta 9:25 — la maldición de Kenaan. Sus primeras palabras son una maldición. El silencio está textualmente presente y es narrativamente llamativo.
+Dios habla a Nóaj extensamente (6:13-21). La respuesta de Nóaj: "Y Nóaj hizo conforme a todo lo que Dios le mandó; así lo hizo" (6:22). Ningún discurso registrado de Nóaj hasta 9:25 — la maldición de Canaán. Sus primeras palabras son una maldición. El silencio está textualmente presente y es narrativamente llamativo.
 
 ### G3. 120 años — ¿esperanza de vida o cuenta regresiva?
 **[TEXTUAL — POSIBLE]**
@@ -218,6 +218,78 @@ Gn 6:3: "sus días serán 120 años." Dos lecturas: (1) límite futuro de la esp
 **[TEXTUAL — INCIERTO]**
 
 El texto dice: "Los nephilim estaban en la tierra en aquellos días, **y también después**, cuando los hijos de Dios/los dioses vinieron a las hijas del humano, y ellas les dieron a luz." El "y también después" y la estructura sintáctica hacen que la relación entre los nephilim y la unión divino-humana sea **genuinamente poco clara**. Pueden ser los mismos, pueden ser grupos separados que coexistieron. El texto no resuelve esto.
+
+---
+
+## I. El Mundo en Esa Época
+
+La datación de la composición del Génesis es debatida. Esta sección presenta "el mundo en la época" para cada escenario principal, para que lectores con cualquier posición puedan ver el contexto histórico que aplicaría al relato de Génesis 6 sobre la violencia generalizada, la transgresión de la frontera divino-humana, el anuncio del diluvio, las instrucciones para la construcción del barco y el primer lenguaje de alianza. La TT no toma partido sobre cuándo se compuso el Génesis. Para el contexto político, económico y social completo de 10 categorías de cada escenario, vea el compañero de Génesis 1, Sección I.
+
+---
+
+### Escenario A: Si fue compuesto durante el período mosaico (~s. XIII a.C.)
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]** *(Atribución tradicional)*
+
+**I-A1. La frontera divino-humana en el Bronce Tardío**
+Las culturas del Bronce Tardío estaban saturadas de cruces de la frontera divino-humana: los faraones egipcios eran dioses encarnados; los reyes mesopotámicos eran designados por los dioses y a veces reclamaban parentesco divino; los mitos ugaríticos (el Ciclo de Baal) representaban a los dioses interactuando con los humanos en guerra, amor y conflicto. Los *bene ha-elohim* que toman esposas humanas en Génesis 6:1-4 serían inmediatamente reconocibles — no como una afirmación sin precedentes, sino como un relato del tipo de entrelazamiento divino-humano que el mundo circundante daba por sentado.
+
+**I-A2. La violencia y el argumento moral para la destrucción**
+La guerra en el Bronce Tardío era total y brutal. Las Cartas de Amarna (s. XIV a.C.) documentan a ciudades-estado cananeas escribiendo al Faraón pidiendo ayuda contra saqueadores (*'apiru*) y rivales internos — un cuadro de violencia regional apenas contenida por la supervisión egipcia. Los restos esqueléticos de este período en todo el Levante muestran altas tasas de muerte violenta. La afirmación de Génesis 6 de que "la tierra estaba llena de violencia (*jamás*)" describiría condiciones que las audiencias reconocían de la memoria viva.
+
+**I-A3. La tecnología de construcción naval en el Bronce Tardío**
+Se construían y documentaban grandes embarcaciones. Los barcos de comercio marítimo egipcio transportaban grano, madera y bienes de lujo por el Mediterráneo y por la costa del Mar Rojo. Biblos era un importante puerto maderero. Las especificaciones de la *tevah* en Génesis 6:15 (300 × 50 × 30 codos) describen una embarcación mayor que cualquiera atestiguada — pero una audiencia del Bronce Tardío entendería las categorías de construcción: contenedor sellado, impermeabilización con betún, múltiples cubiertas, carga de animales.
+
+**I-A4. La tradición del diluvio en el mundo de Moisés**
+La Epopeya de Atrahasis (~1800 a.C.) y las tradiciones del diluvio relacionadas eran ya antiguas en el s. XIII a.C. La educación escribal egipcia incluía formas literarias mesopotámicas. Si Moisés fue educado en la corte egipcia (Éxodo 2), habría tenido acceso a tradiciones sobre la frustración divina con la humanidad, un superviviente advertido y un diluvio destructor del mundo. Las diferencias distintivas del relato del Génesis — causa moral (*jamás*), un único Dios, una caja en lugar de un barco, alianza en lugar de supervivencia del suministro de alimentos divino — contrastarían marcadamente.
+
+---
+
+### Escenario B: Si fue compuesto durante el período monárquico (~ss. X-IX a.C.)
+**[HISTÓRICO / ARQUEOLÓGICO — POSIBLE]**
+
+**I-B1. El concilio divino y la ideología real**
+La monarquía israelita se desarrolló en estrecho contacto con la cultura fenicia y cananea. El concepto de concilio divino (*bene ha-elohim* como miembros de una asamblea celestial) está atestiguado en textos ugaríticos y se refleja en el Salmo 82 ("Dios está en pie en la asamblea divina"). En el período monárquico, esta cosmología sería una cuestión teológica viva: ¿operan los seres divinos de manera independiente? ¿Es la autoridad de YHWH sobre ellos absoluta o disputada? Génesis 6:1-4 plantea el problema de la violación de la frontera en un mundo donde el concilio divino era un concepto real.
+
+**I-B2. La alianza (*berit*) en el contexto monárquico**
+El lenguaje de alianza en los ss. X-IX a.C. era principalmente político: tratados entre reyes, entre un gran rey y sus estados vasallos. El análisis de Mendenhall muestra que la estructura de la alianza bíblica refleja la forma de los tratados hititas. El primer uso de *berit* en Génesis 6:18 resonaría en una cultura donde la alianza era el lenguaje de la obligación vinculante entre partes de poder desigual. YHWH se compromete antes de que se enuncien los términos — un movimiento distintivo en comparación con las convenciones de los tratados.
+
+**I-B3. La violencia y la paciencia divina — una pregunta monárquica**
+La monarquía dividida fue un período de guerra constante, asesinato y violencia política. Reyes como Acab enfrentaron requisitorias proféticas por injusticia y derramamiento de sangre. La pregunta teológica que plantea Génesis 6 — ¿en qué punto alcanza su límite la paciencia divina? — sería inmediatamente relevante para una sociedad cuya historia política era una serie de fracasos cada vez más violentos.
+
+---
+
+### Escenario C: Si fue compuesto/finalizado durante el período exílico/postexílico (~ss. VI-V a.C.)
+**[HISTÓRICO / ARQUEOLÓGICO — PROBABLE]** *(Consenso académico para la forma final)*
+
+**I-C1. Las narrativas del diluvio en Babilonia**
+Los judíos exiliados en Babilonia vivían en una cultura donde las tradiciones del diluvio se mantenían activamente. El festival babilónico de Año Nuevo (Akitu) incluía la recitación del Enuma Elish. El Atrahasis y Gilgamesh XI eran textos de las escuelas escribales — los escribas los copiaban como parte de la formación estándar. La comunidad exiliada habría encontrado la historia del diluvio en su forma babilónica y estado en posición de entender — y contrastar deliberadamente — su propia tradición. Las diferencias son marcadas: causa moral, no irritación divina por el ruido; un Dios comprometido, no un confuso concilio divino; compromiso de alianza, no arrepentimiento divino por perder un suministro de alimentos.
+
+**I-C2. La frontera divino-humana bajo la religión babilónica**
+La religión babilónica presentaba a los *apkallu* — siete sabios semidivinos que transmitieron la civilización a la humanidad antes del diluvio. Semidioses como Gilgamesh (dos tercios divino, un tercio humano) difuminaban la línea divino-humana como algo habitual. El relato de Génesis 6:1-4 sobre la transgresión divino-humana y su consecuencia abordaría este contexto directamente. La insistencia de la comunidad exiliada en una frontera divino-humana nítida refleja la presión teológica de vivir dentro de una cultura donde esa frontera se disolvía rutinariamente.
+
+**I-C3. La violencia como acusación teológica bajo el Imperio**
+La conquista babilónica de Judá (597 y 586 a.C.) fue vivida como violencia devastadora — la destrucción del templo, la deportación masiva y la muerte de los hijos de Sedequías ante sus ojos (2 Re 25:7). En este contexto, el diagnóstico de Génesis 6 de un mundo "lleno de violencia (*jamás*)" y la decisión divina de destruirlo tiene peso no como teología abstracta, sino como comentario sobre la experiencia reciente de la comunidad: la violencia destruye el mundo y ningún Imperio es inmune.
+
+**I-C4. La primera alianza (*berit*) y los conceptos babilónicos de alianza**
+Las tradiciones de tratados mesopotámicos (tratados de suzeranía entre un gran rey y un vasallo) proporcionaron el modelo estructural para el lenguaje de alianza. En el contexto exílico, la primera aparición de *berit* en Génesis 6:18 — Dios comprometiéndose con una alianza con un solo hombre antes del diluvio — se leería como el fundamento de una teología que convierte la fidelidad de alianza de YHWH en la contraclamación al poder imperial babilónico: la obligación vinculante real no es con Nabucodonosor, sino con el Dios que se comprometió con Noé.
+
+---
+
+### Escenario D: Si fue redactado durante el período persa/helenístico temprano (~ss. IV-III a.C.)
+**[HISTÓRICO / ARQUEOLÓGICO — POSIBLE]** *(Asociado con la configuración final del Pentateuco)*
+
+**I-D1. La narrativa del diluvio como literatura transcultural**
+Para los ss. IV-III a.C., las tradiciones del diluvio circulaban ampliamente. Beroso de Babilonia (c. 278 a.C.) escribió un relato griego del diluvio babilónico para audiencias helenísticas, presentando al héroe Xisutro (= Ziusudra). La tradición griega tenía su propio héroe del diluvio en Deucalión. En este contexto, el relato del diluvio del Génesis se entendería como una contribución a un género reconocido de historia primordial — pero con un contenido teológico distintivo: un único Dios, causa moral, desenlace de alianza.
+
+**I-D2. Las relaciones divino-humanas en el contexto filosófico griego**
+La filosofía griega (el *Timeo* de Platón, la teología de Aristóteles) debatía la relación entre lo divino y lo humano de formas nuevas. El período helenístico presenció debates filosóficos sobre si los dioses intervenían en los asuntos humanos, si los seres divinos podían desear a los humanos y cuál era la relación apropiada entre lo eterno y lo temporal. El relato de Génesis 6:1-4 sobre la transgresión de la frontera divino-humana y sus consecuencias catastróficas abordaría estas preguntas — aunque desde un punto de partida teológico muy diferente.
+
+**I-D3. La violencia, la alianza y la ética imperial persa**
+La ideología imperial persa bajo los reyes aqueménidas (Ciro, Darío, Artajerjes) incluía reclamaciones de orden cósmico — el rey persa como agente de Ahura Mazda, manteniendo el *asha* (verdad/orden) contra el *druj* (caos/falsedad). La violencia contra el orden establecido se enmarcaba como transgresión cósmica. La afirmación de Génesis 6 de que la violencia (*jamás*) viola el orden creado — y que Dios responde a ella — resonaría como la afirmación de que el orden moral de YHWH supera el orden imperial, incluida la teología imperial persa.
+
+---
+
+*Para el contexto político, económico, social, militar y religioso completo de cada escenario, vea el compañero de Génesis 1, Sección I.*
 
 ---
 

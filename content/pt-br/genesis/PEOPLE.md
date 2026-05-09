@@ -1,16 +1,15 @@
-# Gênesis — Pessoas e Genealogia
-## The Transparent Translation (TT)
-
 ---
 
 **Livro:** Gênesis
 **Idioma:** Português Brasileiro
-**Regras:** v3.0 (Regra 29 rege este arquivo)
+**Regras:** v3.3 (Regra 29 rege este arquivo)
 **Status:** provisório
 
 ---
 
-**Escopo:** Gênesis 1--12. Apenas figuras principais. Dados genealógicos extraídos do Texto Massorético (BHS). Anos de nascimento/morte são calculados a partir da aritmética interna do TM (Anno Mundi, ano desde a criação). Onde o texto não declara um valor, o campo indica "não declarado." Transliterações seguem a convenção TT (Regras 4, 25).
+Este arquivo apresenta informações biográficas e genealógicas sobre figuras que aparecem em Gênesis. Todas as afirmações são rotuladas por tipo e confiança. Este material é conteúdo de estudo contextual regido pela Regra 29.
+
+**Escopo:** Gênesis 1--12. Apenas figuras principais. Dados genealógicos extraídos do Texto Massorético (o texto hebraico padrão usado na maioria das traduções; abreviado TM ou BHS). Anos de nascimento/morte são calculados a partir da aritmética interna do TM (Anno Mundi, ano desde a criação). Onde o texto não declara um valor, o campo indica "não declarado." Transliterações seguem a tabela de nomes próprios fixada (RULES-HB.md / RULES-GS.md).
 
 **Abreviações:** AM = Anno Mundi (ano desde a criação, conforme aritmética do TM). Gn = Gênesis. v./vv. = versículo(s).
 
@@ -25,12 +24,28 @@
 **Tempo de vida:** 930 anos (Gn 5:5)
 **Pai:** nenhum (formado por YHWH Elohim do pó do solo, Gn 2:7)
 **Mãe:** nenhuma
-**Cônjuge(s):** Chava
-**Filhos:** Qayin, Hevel, Shet; "filhos e filhas" (Gn 5:4)
+**Cônjuge(s):** Eva
+**Filhos:** Caim, Abel, Sete; "filhos e filhas" (Gn 5:4)
 **Local(is):** Jardim do Éden; expulso para o leste (Gn 3:24); o solo (*adamah*)
 **Primeira menção:** Gn 1:26--27 (como "humano"); Gn 2:7 (formado); Gn 5:1 (como nome próprio "Adam")
 **Mencionado em:** Gn 1:26--27; 2:7--25; 3:1--24; 4:1, 25; 5:1--5
-**Eventos-chave:** Criado à imagem de Deus (1:26--27); formado do pó, sopro de vida (2:7); colocado no jardim para trabalhar e guardar (2:15); ordenado a não comer da árvore do conhecimento (2:16--17); nomeou os animais (2:19--20); sono profundo, lado/costela retirada (2:21); comeu da árvore proibida (3:6); expulso do Éden (3:23--24); conheceu Chava, gerou Qayin (4:1); gerou Shet aos 130 anos (5:3); morreu aos 930 (5:5)
+**Eventos-chave:** Criado à imagem de Deus (1:26--27); formado do pó, sopro de vida (2:7); colocado no jardim para trabalhar e guardar (2:15); ordenado a não comer da árvore do conhecimento (2:16--17); nomeou os animais (2:19--20); sono profundo, lado/costela retirada (2:21); comeu da árvore proibida (3:6); expulso do Éden (3:23--24); conheceu Eva, gerou Caim (4:1); gerou Sete aos 130 anos (5:3); morreu aos 930 (5:5)
+
+**Nome familiar:** Adão
+**Profissão:** agricultor / guardião do jardim (Gn 2:15; 3:23; 4:2)
+**Classe social:** não aplicável (primeiro humano; nenhuma hierarquia social declarada)
+**Cidade natal:** Jardim do Éden
+**Locais onde viveu:** Jardim do Éden; depois o solo (*adamah*) a leste do Éden (Gn 3:23--24)
+**Idade ao tornar-se pai:** 130 (no nascimento de Sete, Gn 5:3; filhos anteriores Caim e Abel sem idade declarada)
+**Causa da morte:** não declarada (Gn 5:5 simplesmente registra "e morreu")
+**Irmãos:** nenhum
+**Evidência arqueológica:** Nenhuma evidência arqueológica direta
+**Menções extra-bíblicas:** Josefo, *Antiguidades* I.1--2; Corão, Sura 2:30--39 (Adão como khalifa); 2 Esdras 3:4--7; Vida de Adão e Eva (apócrifo do Segundo Templo)
+**Status de historicidade:** LITERÁRIO
+**Livros em que aparece:** Gênesis; 1 Crônicas 1:1; Lucas 3:38; Romanos 5:12--14; 1 Coríntios 15:22, 45; 1 Timóteo 2:13--14; Judas 1:14
+**Arco do personagem:** Criado em perfeita relação com YHWH, ele quebra o único mandamento que lhe foi dado e é expulso; continua a lavrar a terra no exílio, mas perde a intimidade divina direta.
+**Ano desde a criação:** 0 (por definição, AM 1 no cômputo do TM)
+**Ano desde a criação — fim:** 930
 
 **Nota:** O texto usa *ha-adam* (o humano, com artigo) ao longo de Gn 2--4. A transição para o nome próprio "Adam" (sem artigo) ocorre em Gn 4:25 e é consolidada em 5:1. Ver entrada 081 do registro editorial.
 
@@ -46,51 +61,99 @@
 **Pai:** nenhum
 **Mãe:** nenhuma
 **Cônjuge(s):** Adam
-**Filhos:** Qayin (Gn 4:1); Hevel (Gn 4:2); Shet (Gn 4:25); outros implícitos
+**Filhos:** Caim (Gn 4:1); Abel (Gn 4:2); Sete (Gn 4:25); outros implícitos
 **Local(is):** Jardim do Éden; expulsa com Adam (Gn 3:23--24)
-**Primeira menção:** Gn 2:22 (como "mulher"); Gn 3:20 (nomeada Chava pelo humano)
+**Primeira menção:** Gn 2:22 (como "mulher"); Gn 3:20 (nomeada Eva pelo humano)
 **Mencionado em:** Gn 2:21--25; 3:1--20; 4:1--2, 25
-**Eventos-chave:** Construída do lado/costela de Adam (2:21--22); "osso dos meus ossos" (2:23); conversou com a serpente (3:1--5); comeu da árvore e deu ao seu homem (3:6); trabalho de parto e gestação pronunciados (3:16); nomeada Chava pelo humano (3:20); deu à luz Qayin (4:1); deu à luz Hevel (4:2); deu à luz Shet (4:25)
+**Eventos-chave:** Construída do lado/costela de Adam (2:21--22); "osso dos meus ossos" (2:23); conversou com a serpente (3:1--5); comeu da árvore e deu ao seu homem (3:6); trabalho de parto e gestação pronunciados (3:16); nomeada Eva pelo humano (3:20); deu à luz Caim (4:1); deu à luz Abel (4:2); deu à luz Sete (4:25)
 
-**Nota:** O TT renderiza o nome como "Chava" (Gn 3:20, 4:1) conforme transliteração hebraica. O tradicional português "Eva" deriva do LXX *Eua* via latim.
+**Nome familiar:** Eva
+**Profissão:** não declarada (implícita co-guardiã do jardim junto com Adam)
+**Classe social:** não aplicável (nenhuma hierarquia social declarada)
+**Cidade natal:** Jardim do Éden
+**Locais onde viveu:** Jardim do Éden; depois a leste do Éden (expulsa com Adam, Gn 3:23--24)
+**Idade ao tornar-se pai:** não aplicável
+**Causa da morte:** não declarada
+**Irmãos:** nenhum (criada, não nascida)
+**Evidência arqueológica:** Nenhuma evidência arqueológica direta
+**Menções extra-bíblicas:** Josefo, *Antiguidades* I.1--2; Corão, Sura 2:35--36 (parceira não nomeada de Adão); Vida de Adão e Eva (apócrifo do Segundo Templo); 2 Coríntios 11:3; 1 Timóteo 2:13
+**Status de historicidade:** LITERÁRIO
+**Livros em que aparece:** Gênesis; 2 Coríntios 11:3; 1 Timóteo 2:13
+**Arco do personagem:** A primeira mulher e a primeira a falar com um ser que não seja Adam ou YHWH; ela raciocina, decide e age, e então recebe uma nova vocação no trabalho de parto e na maternidade.
+**Ano desde a criação:** não declarado
+**Ano desde a criação — fim:** não declarado
+
+**Nota:** O TT renderiza o nome como "Eva" (Gn 3:20, 4:1) conforme transliteração hebraica. O tradicional português "Eva" deriva do LXX (a Septuaginta, a antiga tradução grega da Bíblia Hebraica) *Eua* via latim.
 
 ---
 
 ## Qayin (Caim)
 
-**Significado:** "adquirido" / "obtido" (Gn 4:1; Chava diz "Adquiri [*qaniti*] um homem com YHWH")
+**Significado:** "adquirido" / "obtido" (Gn 4:1; Eva diz "Adquiri [*qaniti*] um homem com YHWH")
 **Origem:** NASCIDO
 **Ano de nascimento:** não declarado (após AM 1, antes de AM 130)
 **Ano de morte:** não declarado
 **Tempo de vida:** não declarado
 **Pai:** Adam (Gn 4:1)
-**Mãe:** Chava (Gn 4:1)
+**Mãe:** Eva (Gn 4:1)
 **Cônjuge(s):** mulher sem nome (Gn 4:17)
-**Filhos:** Chanokh (Cainita, Gn 4:17)
+**Filhos:** Enoque (Cainita, Gn 4:17)
 **Local(is):** solo (*adamah*); o campo (4:8); terra de Nod, a leste do Éden (4:16); construiu uma cidade (4:17)
 **Primeira menção:** Gn 4:1
 **Mencionado em:** Gn 4:1--17, 24--25
-**Eventos-chave:** Nascido como primeiro filho (4:1); trabalhador do solo (4:2); trouxe oferta do fruto do solo (4:3); oferta não considerada por YHWH (4:5); advertido por YHWH sobre o pecado agachado à porta (4:6--7); matou Hevel no campo (4:8); confrontado por YHWH, "Sou eu o guardião do meu irmão?" (4:9); amaldiçoado do solo (4:11--12); declarado errante e fugitivo (4:12); marcado por YHWH para proteção, vingança sétupla (4:15); assentou-se em Nod (4:16); gerou Chanokh, construiu uma cidade (4:17)
+**Eventos-chave:** Nascido como primeiro filho (4:1); trabalhador do solo (4:2); trouxe oferta do fruto do solo (4:3); oferta não considerada por YHWH (4:5); advertido por YHWH sobre o pecado agachado à porta (4:6--7); matou Abel no campo (4:8); confrontado por YHWH, "Sou eu o guardião do meu irmão?" (4:9); amaldiçoado do solo (4:11--12); declarado errante e fugitivo (4:12); marcado por YHWH para proteção, vingança sétupla (4:15); assentou-se em Nod (4:16); gerou Enoque, construiu uma cidade (4:17)
+
+**Nome familiar:** Caim
+**Profissão:** trabalhador do solo / agricultor (Gn 4:2)
+**Classe social:** não declarada
+**Cidade natal:** a leste do Éden (Gn 4:16 — terra de Nod)
+**Locais onde viveu:** a leste do Éden; o campo (Gn 4:8); terra de Nod (Gn 4:16); construiu uma cidade (Gn 4:17)
+**Idade ao tornar-se pai:** não declarada
+**Causa da morte:** não declarada (a marca protege contra o assassinato, mas nenhuma morte é registrada)
+**Irmãos:** Abel (Hevel), Sete (Shet); "filhos e filhas" implícitos (Gn 5:4)
+**Evidência arqueológica:** Nenhuma evidência arqueológica direta
+**Menções extra-bíblicas:** Josefo, *Antiguidades* I.2; 1 João 3:12; Judas 1:11; Corão, Sura 5:27--31 (história dos filhos de Adão, nomes não dados); Targum Pseudo-Jonathan sobre Gn 4
+**Status de historicidade:** LITERÁRIO
+**Livros em que aparece:** Gênesis; Hebreus 11:4; 1 João 3:12; Judas 1:11
+**Arco do personagem:** O primogênito da humanidade começa como agricultor e ofertante; a rejeição de sua oferta leva a um ressentimento sem controle, ao fratricídio, ao exílio e, por fim, à construção de uma cidade — o primeiro fundador de civilização humana.
+**Ano desde a criação:** não declarado (nascido após AM 1, antes de AM 130)
+**Ano desde a criação — fim:** não declarado
 
 ---
 
 ## Lemekh (Lameque) — linha cainita
 
-**Significado:** mesmo nome que o Lemekh Setita, mas da linhagem de Qayin (significado INCERTO; ver Lemekh [Setita])
+**Significado:** mesmo nome que o Lameque Setita, mas da linhagem de Caim (significado INCERTO; ver Lameque [Setita])
 **Origem:** NASCIDO
 **Ano de nascimento:** não declarado
 **Ano de morte:** não declarado
 **Tempo de vida:** não declarado
 **Pai:** Metusha'el (Gn 4:18)
 **Mãe:** não declarada
-**Cônjuge(s):** Adah, Tsillah (Gn 4:19 -- primeira poligamia registrada)
+**Cônjuge(s):** Adah, Tsillah (Gn 4:19 — primeira poligamia registrada)
 **Filhos:** Yaval (por Adah, Gn 4:20); Yuval (por Adah, Gn 4:21); Tuval-Qayin (por Tsillah, Gn 4:22); Na'amah (por Tsillah, Gn 4:22)
 **Local(is):** não especificado
 **Primeira menção:** Gn 4:18
 **Mencionado em:** Gn 4:18--24
-**Eventos-chave:** Primeiro polígamo registrado (4:19); seu filho Yaval é pai dos que habitam em tendas e criam gado (4:20); seu filho Yuval é pai dos que tocam lira e flauta (4:21); seu filho Tuval-Qayin forja instrumentos de bronze e ferro (4:22); cantou o cântico da violência escalada para suas esposas (4:23--24) -- vangloria-se de ter matado um homem por feri-lo e um jovem por golpeá-lo; reivindica vingança de 77 vezes contra a proteção sétupla de YHWH sobre Qayin
+**Eventos-chave:** Primeiro polígamo registrado (4:19); seu filho Yaval é pai dos que habitam em tendas e criam gado (4:20); seu filho Yuval é pai dos que tocam lira e flauta (4:21); seu filho Tuval-Qayin forja instrumentos de bronze e ferro (4:22); cantou o cântico da violência escalada para suas esposas (4:23--24) — vangloria-se de ter matado um homem por feri-lo e um jovem por golpeá-lo; reivindica vingança de 77 vezes contra a proteção sétupla de YHWH sobre Caim
 
-**Nota:** Não deve ser confundido com o Lemekh Setita (Gn 5:25--31), pai de Noach. O Lemekh Cainita é o sétimo a partir de Adam na linhagem de Qayin. Seu cântico (4:23--24) inverte e escala o decreto protetor de YHWH sobre Qayin (4:15), passando da contenção divina à jactância humana.
+**Nome familiar:** Lameque (Cainita)
+**Profissão:** não declarada
+**Classe social:** não declarada
+**Cidade natal:** não declarada
+**Locais onde viveu:** não especificado
+**Idade ao tornar-se pai:** não declarada
+**Causa da morte:** não declarada
+**Irmãos:** não declarados
+**Evidência arqueológica:** Nenhuma evidência arqueológica direta
+**Menções extra-bíblicas:** Josefo, *Antiguidades* I.2 (mencionado brevemente); várias tradições rabínicas sobre seu assassinato de Caim (Midrash Tanchuma)
+**Status de historicidade:** LITERÁRIO
+**Livros em que aparece:** Gênesis
+**Arco do personagem:** A sétima geração de Adam na linhagem de Caim; seu cântico de vingança desproporcional marca o nadir moral da genealogia cainita, invertendo a contenção protetora de YHWH em jactância humana.
+**Ano desde a criação:** não declarado
+**Ano desde a criação — fim:** não declarado
+
+**Nota:** Não deve ser confundido com o Lameque Setita (Gn 5:25--31), pai de Noé. O Lameque Cainita é o sétimo a partir de Adam na linhagem de Caim. Seu cântico (4:23--24) inverte e escala o decreto protetor de YHWH sobre Caim (4:15), passando da contenção divina à jactância humana.
 
 ---
 
@@ -99,36 +162,68 @@
 **Significado:** "sopro" / "vapor" / "futilidade" (*hevel*)
 **Origem:** NASCIDO
 **Ano de nascimento:** não declarado
-**Ano de morte:** não declarado (morto por Qayin antes do nascimento de Shet)
+**Ano de morte:** não declarado (morto por Caim antes do nascimento de Sete)
 **Tempo de vida:** não declarado
 **Pai:** Adam (Gn 4:2)
-**Mãe:** Chava (Gn 4:2)
+**Mãe:** Eva (Gn 4:2)
 **Cônjuge(s):** nenhum declarado
 **Filhos:** nenhum declarado (morto antes de qualquer registro)
 **Local(is):** o campo (4:8)
 **Primeira menção:** Gn 4:2
 **Mencionado em:** Gn 4:2--11, 25
-**Eventos-chave:** Nascido como segundo filho, irmão de Qayin (4:2); pastor de rebanho (4:2); trouxe oferta dos primogênitos do seu rebanho e da gordura deles (4:4); oferta considerada por YHWH (4:4); morto por Qayin no campo (4:8); seus sangues clamam do solo (4:10); Shet nascido como substituto (4:25)
+**Eventos-chave:** Nascido como segundo filho, irmão de Caim (4:2); pastor de rebanho (4:2); trouxe oferta dos primogênitos do seu rebanho e da gordura deles (4:4); oferta considerada por YHWH (4:4); morto por Caim no campo (4:8); seus sangues clamam do solo (4:10); Sete nascido como substituto (4:25)
+
+**Nome familiar:** Abel
+**Profissão:** pastor de rebanho (Gn 4:2)
+**Classe social:** não declarada
+**Cidade natal:** não declarada
+**Locais onde viveu:** o campo (Gn 4:8); nenhum local fixo dado
+**Idade ao tornar-se pai:** não aplicável (morreu sem filhos)
+**Causa da morte:** morto por seu irmão Caim no campo (Gn 4:8)
+**Irmãos:** Caim (Qayin); posteriormente Sete (Shet)
+**Evidência arqueológica:** Nenhuma evidência arqueológica direta
+**Menções extra-bíblicas:** Josefo, *Antiguidades* I.2; Mateus 23:35; Lucas 11:51; Hebreus 11:4; 1 João 3:12; Corão, Sura 5:27--31 (filho justo sem nome)
+**Status de historicidade:** LITERÁRIO
+**Livros em que aparece:** Gênesis; Mateus 23:35; Lucas 11:51; Hebreus 11:4; 1 João 3:12
+**Arco do personagem:** O arco mais curto da narrativa: nasce, oferta fielmente, é morto; sua única voz duradoura é o sangue que clama do solo.
+**Ano desde a criação:** não declarado
+**Ano desde a criação — fim:** não declarado (morto antes de AM 130)
 
 ---
 
 ## Shet (Sete)
 
-**Significado:** "posto" / "designado" (Gn 4:25; Chava diz "Deus pôs [*shat*] para mim outra semente no lugar de Hevel")
+**Significado:** "posto" / "designado" (Gn 4:25; Eva diz "Deus pôs [*shat*] para mim outra semente no lugar de Abel")
 **Origem:** NASCIDO
-**Ano de nascimento:** AM 130 (Gn 5:3; Adam tinha 130 quando gerou Shet)
+**Ano de nascimento:** AM 130 (Gn 5:3; Adam tinha 130 quando gerou Sete)
 **Ano de morte:** AM 1042 (130 + 912; Gn 5:8)
 **Tempo de vida:** 912 anos (Gn 5:8)
 **Pai:** Adam (Gn 4:25; 5:3)
-**Mãe:** Chava (Gn 4:25)
+**Mãe:** Eva (Gn 4:25)
 **Cônjuge(s):** não declarado
 **Filhos:** Enosh (Gn 5:6); "filhos e filhas" (Gn 5:7)
 **Local(is):** não especificado
 **Primeira menção:** Gn 4:25
 **Mencionado em:** Gn 4:25--26; 5:3--8
-**Eventos-chave:** Nascido como substituto de Hevel (4:25); gerado à semelhança de Adam, conforme a sua imagem (5:3); gerou Enosh aos 105 anos (5:6); morreu aos 912 (5:8)
+**Eventos-chave:** Nascido como substituto de Abel (4:25); gerado à semelhança de Adam, conforme a sua imagem (5:3); gerou Enosh aos 105 anos (5:6); morreu aos 912 (5:8)
 
-**Nota:** O nascimento de Shet marca a transição para a linhagem abençoada. A geração do seu filho Enosh começa a invocar o nome de YHWH (4:26).
+**Nome familiar:** Sete
+**Profissão:** não declarada
+**Classe social:** não declarada
+**Cidade natal:** não declarada
+**Locais onde viveu:** não especificado
+**Idade ao tornar-se pai:** 105 (no nascimento de Enosh, Gn 5:6)
+**Causa da morte:** não declarada (Gn 5:8 simplesmente registra "e morreu")
+**Irmãos:** Caim (Qayin), Abel (Hevel); "filhos e filhas" (Gn 5:4)
+**Evidência arqueológica:** Nenhuma evidência arqueológica direta
+**Menções extra-bíblicas:** Josefo, *Antiguidades* I.2--3; Lucas 3:38; várias tradições do Segundo Templo e rabínicas ligando Sete à sabedoria e à retidão
+**Status de historicidade:** LITERÁRIO
+**Livros em que aparece:** Gênesis; 1 Crônicas 1:1; Lucas 3:38
+**Arco do personagem:** Nascido como substituto de Abel, torna-se a raiz da linhagem da qual descende Noé (e por fim Israel); a geração de seu filho Enosh começa a invocar o nome de YHWH.
+**Ano desde a criação:** 130
+**Ano desde a criação — fim:** 1042
+
+**Nota:** O nascimento de Sete marca a transição para a linhagem abençoada. A geração do seu filho Enosh começa a invocar o nome de YHWH (4:26).
 
 ---
 
@@ -139,14 +234,30 @@
 **Ano de nascimento:** AM 235 (130 + 105; Gn 5:6)
 **Ano de morte:** AM 1140 (235 + 905; Gn 5:11)
 **Tempo de vida:** 905 anos (Gn 5:11)
-**Pai:** Shet (Gn 5:6)
+**Pai:** Sete (Gn 5:6)
 **Mãe:** não declarada
 **Cônjuge(s):** não declarado
 **Filhos:** Qenan (Gn 5:9); "filhos e filhas" (Gn 5:10)
 **Local(is):** não especificado
 **Primeira menção:** Gn 4:26
 **Mencionado em:** Gn 4:26; 5:6--11
-**Eventos-chave:** Nascido de Shet (4:26); em seu tempo "começou-se a invocar o nome de YHWH" (4:26); gerou Qenan aos 90 anos (5:9); morreu aos 905 (5:11)
+**Eventos-chave:** Nascido de Sete (4:26); em seu tempo "começou-se a invocar o nome de YHWH" (4:26); gerou Qenan aos 90 anos (5:9); morreu aos 905 (5:11)
+
+**Nome familiar:** Enos
+**Profissão:** não declarada
+**Classe social:** não declarada
+**Cidade natal:** não declarada
+**Locais onde viveu:** não especificado
+**Idade ao tornar-se pai:** 90 (no nascimento de Qenan, Gn 5:9)
+**Causa da morte:** não declarada
+**Irmãos:** "filhos e filhas" de Sete implícitos (Gn 5:7)
+**Evidência arqueológica:** Nenhuma evidência arqueológica direta
+**Menções extra-bíblicas:** Lucas 3:38; Josefo, *Antiguidades* I.3
+**Status de historicidade:** LITERÁRIO
+**Livros em que aparece:** Gênesis; 1 Crônicas 1:1; Lucas 3:38
+**Arco do personagem:** Sua geração é aquela em que começa a invocação do nome de YHWH; nenhuma narrativa pessoal é dada além da genealogia.
+**Ano desde a criação:** 235
+**Ano desde a criação — fim:** 1140
 
 ---
 
@@ -164,6 +275,22 @@
 **Primeira menção:** Gn 5:9
 **Mencionado em:** Gn 5:9--14
 **Eventos-chave:** Gerou Mahalalel aos 70 anos (5:12); morreu aos 910 (5:14)
+
+**Nome familiar:** Cainã
+**Profissão:** não declarada
+**Classe social:** não declarada
+**Cidade natal:** não declarada
+**Locais onde viveu:** não especificado
+**Idade ao tornar-se pai:** 70 (no nascimento de Mahalalel, Gn 5:12)
+**Causa da morte:** não declarada
+**Irmãos:** "filhos e filhas" de Enosh implícitos (Gn 5:10)
+**Evidência arqueológica:** Nenhuma evidência arqueológica direta
+**Menções extra-bíblicas:** Lucas 3:37; Josefo, *Antiguidades* I.3
+**Status de historicidade:** LITERÁRIO
+**Livros em que aparece:** Gênesis; 1 Crônicas 1:2; Lucas 3:37
+**Arco do personagem:** Figura de transição na genealogia antediluviana; sem narrativa pessoal.
+**Ano desde a criação:** 325
+**Ano desde a criação — fim:** 1235
 
 ---
 
@@ -183,6 +310,22 @@
 **Mencionado em:** Gn 5:12--17
 **Eventos-chave:** Gerou Yered aos 65 anos (5:15); morreu aos 895 (5:17)
 
+**Nome familiar:** Maalaleel
+**Profissão:** não declarada
+**Classe social:** não declarada
+**Cidade natal:** não declarada
+**Locais onde viveu:** não especificado
+**Idade ao tornar-se pai:** 65 (no nascimento de Yered, Gn 5:15)
+**Causa da morte:** não declarada
+**Irmãos:** "filhos e filhas" de Cainã implícitos (Gn 5:13)
+**Evidência arqueológica:** Nenhuma evidência arqueológica direta
+**Menções extra-bíblicas:** Lucas 3:37; Josefo, *Antiguidades* I.3
+**Status de historicidade:** LITERÁRIO
+**Livros em que aparece:** Gênesis; 1 Crônicas 1:2; Lucas 3:37
+**Arco do personagem:** Figura de transição na genealogia antediluviana; sem narrativa pessoal.
+**Ano desde a criação:** 395
+**Ano desde a criação — fim:** 1290
+
 ---
 
 ## Yered (Jarede)
@@ -195,11 +338,27 @@
 **Pai:** Mahalalel (Gn 5:15)
 **Mãe:** não declarada
 **Cônjuge(s):** não declarado
-**Filhos:** Chanokh (Gn 5:18); "filhos e filhas" (Gn 5:19)
+**Filhos:** Enoque (Gn 5:18); "filhos e filhas" (Gn 5:19)
 **Local(is):** não especificado
 **Primeira menção:** Gn 5:15
 **Mencionado em:** Gn 5:15--20
-**Eventos-chave:** Gerou Chanokh aos 162 anos (5:18); morreu aos 962 (5:20)
+**Eventos-chave:** Gerou Enoque aos 162 anos (5:18); morreu aos 962 (5:20)
+
+**Nome familiar:** Jarede
+**Profissão:** não declarada
+**Classe social:** não declarada
+**Cidade natal:** não declarada
+**Locais onde viveu:** não especificado
+**Idade ao tornar-se pai:** 162 (no nascimento de Enoque, Gn 5:18)
+**Causa da morte:** não declarada
+**Irmãos:** "filhos e filhas" de Maalaleel implícitos (Gn 5:16)
+**Evidência arqueológica:** Nenhuma evidência arqueológica direta
+**Menções extra-bíblicas:** Lucas 3:37; Josefo, *Antiguidades* I.3; 1 Enoque 6 (nomeia Jarede como pai de Enoque, consistente com o TM)
+**Status de historicidade:** LITERÁRIO
+**Livros em que aparece:** Gênesis; 1 Crônicas 1:2; Lucas 3:37
+**Arco do personagem:** Figura de transição na genealogia antediluviana; notável apenas como pai de Enoque, a figura tomada por Deus.
+**Ano desde a criação:** 460
+**Ano desde a criação — fim:** 1422
 
 ---
 
@@ -213,71 +372,135 @@
 **Pai:** Yered (Gn 5:18)
 **Mãe:** não declarada
 **Cônjuge(s):** não declarado
-**Filhos:** Metushelach (Gn 5:21); "filhos e filhas" (Gn 5:22)
+**Filhos:** Matusalém (Gn 5:21); "filhos e filhas" (Gn 5:22)
 **Local(is):** não especificado
-**Primeira menção:** Gn 5:18 (Chanokh Setita); cf. Gn 4:17 (Chanokh Cainita, filho de Qayin)
+**Primeira menção:** Gn 5:18 (Enoque Setita); cf. Gn 4:17 (Enoque Cainita, filho de Caim)
 **Mencionado em:** Gn 5:18--24
-**Eventos-chave:** Gerou Metushelach aos 65 anos (5:21); "andou com Deus" por 300 anos após gerar Metushelach (5:22); total de dias: 365 anos (5:23); "andou com Deus, e ele não foi mais, pois Deus o tomou" (5:24)
+**Eventos-chave:** Gerou Matusalém aos 65 anos (5:21); "andou com Deus" por 300 anos após gerar Matusalém (5:22); total de dias: 365 anos (5:23); "andou com Deus, e ele não foi mais, pois Deus o tomou" (5:24)
 
-**Nota:** A fórmula "e morreu" está ausente. O tempo de vida de 365 anos equivale ao número de dias em um ano solar. Chanokh é o sétimo desde Adam na linhagem Setita. Um Chanokh Cainita (filho de Qayin) também aparece em Gn 4:17 -- pessoa diferente, mesmo nome.
+**Nome familiar:** Enoque
+**Profissão:** não declarada
+**Classe social:** não declarada
+**Cidade natal:** não declarada
+**Locais onde viveu:** não especificado; "andou com Deus" sugere uma relação única que transcende a geografia
+**Idade ao tornar-se pai:** 65 (no nascimento de Matusalém, Gn 5:21)
+**Causa da morte:** não aplicável — "Deus o tomou" (Gn 5:24); nenhuma morte registrada
+**Irmãos:** "filhos e filhas" de Jarede implícitos (Gn 5:19)
+**Evidência arqueológica:** Nenhuma evidência arqueológica direta
+**Menções extra-bíblicas:** Josefo, *Antiguidades* I.3; Hebreus 11:5; Judas 1:14--15 (cita 1 Enoque); Eclesiástico 44:16; 49:14; 1 Enoque (extensa literatura do Segundo Templo); Corão, Sura 19:56--57 (Idris, identificado por algumas tradições islâmicas com Enoque)
+**Status de historicidade:** LITERÁRIO
+**Livros em que aparece:** Gênesis; 1 Crônicas 1:3; Lucas 3:37; Hebreus 11:5; Judas 1:14
+**Arco do personagem:** O único patriarca antediluviano que não morre; seu "caminhar com Deus" duas vezes (5:22, 24) o distingue, e seu desaparecimento — tomado em vez de morrer — se destaca de cada outra entrada genealógica.
+**Ano desde a criação:** 622
+**Ano desde a criação — fim:** 987 (ano em que foi "tomado," não morte)
+
+**Nota:** A fórmula "e morreu" está ausente. O tempo de vida de 365 anos equivale ao número de dias em um ano solar. Enoque é o sétimo desde Adam na linhagem Setita. Um Enoque Cainita (filho de Caim) também aparece em Gn 4:17 — pessoa diferente, mesmo nome.
 
 ---
 
 ## Metushelach (Matusalém)
 
-**Significado:** INCERTO ("homem da arma/projétil" de *mat* + *shelach*; ou "sua morte enviará" -- etimologia popular)
+**Significado:** INCERTO ("homem da arma/projétil" de *mat* + *shelach*; ou "sua morte enviará" — etimologia popular)
 **Origem:** NASCIDO
 **Ano de nascimento:** AM 687 (622 + 65; Gn 5:21)
 **Ano de morte:** AM 1656 (687 + 969; Gn 5:27)
-**Tempo de vida:** 969 anos (Gn 5:27) -- tempo de vida mais longo registrado no TM
-**Pai:** Chanokh (Gn 5:21)
+**Tempo de vida:** 969 anos (Gn 5:27) — tempo de vida mais longo registrado no TM
+**Pai:** Enoque (Gn 5:21)
 **Mãe:** não declarada
 **Cônjuge(s):** não declarado
-**Filhos:** Lemekh (Setita, Gn 5:25); "filhos e filhas" (Gn 5:26)
+**Filhos:** Lameque (Setita, Gn 5:25); "filhos e filhas" (Gn 5:26)
 **Local(is):** não especificado
 **Primeira menção:** Gn 5:21
 **Mencionado em:** Gn 5:21--27
-**Eventos-chave:** Gerou Lemekh aos 187 anos (5:25); morreu aos 969 (5:27)
+**Eventos-chave:** Gerou Lameque aos 187 anos (5:25); morreu aos 969 (5:27)
 
-**Nota:** Pela aritmética do próprio TM, o ano da morte de Metushelach (AM 1656) coincide exatamente com o ano do dilúvio (Noach tinha 600 anos no dilúvio [Gn 7:6]; Noach nasceu AM 1056; 1056 + 600 = 1656). O texto não comenta esta coincidência.
+**Nome familiar:** Matusalém
+**Profissão:** não declarada
+**Classe social:** não declarada
+**Cidade natal:** não declarada
+**Locais onde viveu:** não especificado
+**Idade ao tornar-se pai:** 187 (no nascimento de Lameque, Gn 5:25)
+**Causa da morte:** não declarada (Gn 5:27 registra "e morreu"; pela aritmética do TM sua morte coincide com o ano do dilúvio)
+**Irmãos:** "filhos e filhas" de Enoque implícitos (Gn 5:22)
+**Evidência arqueológica:** Nenhuma evidência arqueológica direta
+**Menções extra-bíblicas:** Josefo, *Antiguidades* I.3; Lucas 3:37; várias tradições rabínicas sobre o significado do seu ano de morte
+**Status de historicidade:** LITERÁRIO
+**Livros em que aparece:** Gênesis; 1 Crônicas 1:3; Lucas 3:37
+**Arco do personagem:** A pessoa de vida mais longa no TM; sua vida se estende da geração de Enoque (tomado por Deus) até o ano do dilúvio, coincidência aritmética que o texto deixa sem comentário.
+**Ano desde a criação:** 687
+**Ano desde a criação — fim:** 1656
+
+**Nota:** Pela aritmética do próprio TM, o ano da morte de Matusalém (AM 1656) coincide exatamente com o ano do dilúvio (Noé tinha 600 anos no dilúvio [Gn 7:6]; Noé nasceu AM 1056; 1056 + 600 = 1656). O texto não comenta esta coincidência.
 
 ---
 
 ## Lemekh (Lameque) — linha setita
 
-**Significado:** INCERTO (possivelmente "poderoso" ou "humilde" -- debatido)
+**Significado:** INCERTO (possivelmente "poderoso" ou "humilde" — debatido)
 **Origem:** NASCIDO
 **Ano de nascimento:** AM 874 (687 + 187; Gn 5:25)
 **Ano de morte:** AM 1651 (874 + 777; Gn 5:31)
 **Tempo de vida:** 777 anos (Gn 5:31)
-**Pai:** Metushelach (Gn 5:25)
+**Pai:** Matusalém (Gn 5:25)
 **Mãe:** não declarada
 **Cônjuge(s):** não declarado
-**Filhos:** Noach (Gn 5:29); "filhos e filhas" (Gn 5:30)
+**Filhos:** Noé (Gn 5:29); "filhos e filhas" (Gn 5:30)
 **Local(is):** não especificado
 **Primeira menção:** Gn 5:25
 **Mencionado em:** Gn 5:25--31
-**Eventos-chave:** Gerou Noach aos 182 anos (5:28--29); nomeou Noach com as palavras "Este nos consolará do nosso trabalho e da labuta das nossas mãos, por causa do solo que YHWH amaldiçoou" (5:29); morreu aos 777 (5:31)
+**Eventos-chave:** Gerou Noé aos 182 anos (5:28--29); nomeou Noé com as palavras "Este nos consolará do nosso trabalho e da labuta das nossas mãos, por causa do solo que YHWH amaldiçoou" (5:29); morreu aos 777 (5:31)
 
-**Nota:** Não confundir com o Lemekh Cainita (Gn 4:18--24), que tomou duas esposas (Adah e Tsillah) e proferiu o cântico de violência escalada (4:23--24). O Lemekh Setita morre cinco anos antes do dilúvio (AM 1651 vs. dilúvio em AM 1656).
+**Nome familiar:** Lameque (Setita)
+**Profissão:** não declarada
+**Classe social:** não declarada
+**Cidade natal:** não declarada
+**Locais onde viveu:** não especificado
+**Idade ao tornar-se pai:** 182 (no nascimento de Noé, Gn 5:28--29)
+**Causa da morte:** não declarada (Gn 5:31 registra "e morreu"; pela aritmética do TM ele morre cinco anos antes do dilúvio)
+**Irmãos:** "filhos e filhas" de Matusalém implícitos (Gn 5:26)
+**Evidência arqueológica:** Nenhuma evidência arqueológica direta
+**Menções extra-bíblicas:** Josefo, *Antiguidades* I.3; Lucas 3:36
+**Status de historicidade:** LITERÁRIO
+**Livros em que aparece:** Gênesis; 1 Crônicas 1:3; Lucas 3:36
+**Arco do personagem:** Ele nomeia seu filho Noé com uma esperança ligada ao solo amaldiçoado; morre antes do dilúvio que seu filho sobreviverá, e o texto registra que sua esperança não foi em vão.
+**Ano desde a criação:** 874
+**Ano desde a criação — fim:** 1651
+
+**Nota:** Não confundir com o Lameque Cainita (Gn 4:18--24), que tomou duas esposas (Adah e Tsillah) e proferiu o cântico de violência escalada (4:23--24). O Lameque Setita morre cinco anos antes do dilúvio (AM 1651 vs. dilúvio em AM 1656).
 
 ---
 
 ## Noach (Noé)
 
-**Significado:** "descanso" / "consolo" (Gn 5:29; etimologia do nome de *nacham*, consolar/arrepender-se -- a mesma raiz reaparece em Gn 6:6 como "arrependimento" divino)
+**Significado:** "descanso" / "consolo" (Gn 5:29; etimologia do nome de *nacham*, consolar/arrepender-se — a mesma raiz reaparece em Gn 6:6 como "arrependimento" divino)
 **Origem:** NASCIDO
 **Ano de nascimento:** AM 1056 (874 + 182; Gn 5:28--29)
 **Ano de morte:** AM 2006 (1056 + 950; Gn 9:29)
 **Tempo de vida:** 950 anos (Gn 9:29)
-**Pai:** Lemekh (Setita, Gn 5:28--29)
+**Pai:** Lameque (Setita, Gn 5:28--29)
 **Mãe:** não declarada
 **Cônjuge(s):** sem nome ("tua mulher," Gn 6:18)
-**Filhos:** Shem, Cham, Yafet (Gn 5:32; 6:10)
+**Filhos:** Shem, Cam, Jafé (Gn 5:32; 6:10)
 **Local(is):** a tebah (arca); terra pós-dilúvio; plantou uma vinha (Gn 9:20)
 **Primeira menção:** Gn 5:29
 **Mencionado em:** Gn 5:28--32; 6:8--22; 7:1--24; 8:1--22; 9:1--29; 10:1, 32
-**Eventos-chave:** Nomeado com esperança ligada ao solo amaldiçoado (5:29); achou favor aos olhos de YHWH (6:8); justo, íntegro em suas gerações, andou com Deus (6:9); gerou Shem, Cham, Yafet aos 500 anos (5:32); ordenado a construir a tebah (6:14--16); entrou na tebah com família e animais (7:1--9); sobreviveu ao dilúvio (7:17--8:19); construiu um altar, ofereceu holocaustos (8:20); recebeu a aliança Noaíca, incluindo o sinal do arco-íris (9:1--17); plantou uma vinha, embriagou-se, descobriu-se (9:20--21); amaldiçoou Kenaan, abençoou Shem, abençoou/expandiu Yafet (9:25--27); viveu 350 anos após o dilúvio (9:28); morreu aos 950 (9:29)
+**Eventos-chave:** Nomeado com esperança ligada ao solo amaldiçoado (5:29); achou favor aos olhos de YHWH (6:8); justo, íntegro em suas gerações, andou com Deus (6:9); gerou Shem, Cam, Jafé aos 500 anos (5:32); ordenado a construir a tebah (6:14--16); entrou na tebah com família e animais (7:1--9); sobreviveu ao dilúvio (7:17--8:19); construiu um altar, ofereceu holocaustos (8:20); recebeu a aliança Noaíca, incluindo o sinal do arco-íris (9:1--17); plantou uma vinha, embriagou-se, descobriu-se (9:20--21); amaldiçoou Canaã, abençoou Shem, abençoou/expandiu Jafé (9:25--27); viveu 350 anos após o dilúvio (9:28); morreu aos 950 (9:29)
+
+**Nome familiar:** Noé
+**Profissão:** agricultor / viticultor (Gn 9:20); construtor (da tebah, Gn 6:14)
+**Classe social:** não declarada (funciona como patriarca e destinatário da aliança)
+**Cidade natal:** não declarada (pré-dilúvio); assentou-se pós-dilúvio, plantou uma vinha (Gn 9:20)
+**Locais onde viveu:** terra pré-dilúvio (não especificada); a tebah (arca) durante o dilúvio; terra pós-dilúvio
+**Idade ao tornar-se pai:** 500 (gerou Shem, Cam, Jafé, Gn 5:32)
+**Causa da morte:** não declarada (Gn 9:29 simplesmente registra "e morreu")
+**Irmãos:** "filhos e filhas" de Lameque implícitos (Gn 5:30)
+**Evidência arqueológica:** Nenhuma evidência arqueológica direta. Estratos de depósitos de inundação foram identificados em vários sítios mesopotâmicos (Ur, Shuruppak, Kish), mas nenhum é contemporâneo ou ligado exclusivamente a um único evento de dilúvio correspondente à narrativa do Gênesis.
+**Menções extra-bíblicas:** Josefo, *Antiguidades* I.3--4; Corão, Sura 11:25--49 (Nuh, narrativa extensa); Hebreus 11:7; 1 Pedro 3:20; 2 Pedro 2:5; 3:6; Eclesiástico 44:17--18; 1 Enoque 106--107; Oráculos Sibilinos; Epopeia de Atrahasis e Tábua XI de Gilgamesh (figuras do dilúvio mesopotâmico Atrahasis/Utnapishtim comparadas por estudiosos)
+**Status de historicidade:** INCERTO
+**Livros em que aparece:** Gênesis; Isaías 54:9; Ezequiel 14:14, 20; 1 Crônicas 1:4; Mateus 24:37--38; Lucas 3:36; 17:26--27; Hebreus 11:7; 1 Pedro 3:20; 2 Pedro 2:5
+**Arco do personagem:** Encontrado justo numa geração corrupta, Noé é escolhido para preservar a vida através do dilúvio; após a catástrofe ele constrói um altar, recebe uma aliança, e então planta uma vinha — uma cena de embriaguez e conflito familiar que complexifica sua retidão.
+**Ano desde a criação:** 1056
+**Ano desde a criação — fim:** 2006
 
 ---
 
@@ -285,59 +508,107 @@
 
 **Significado:** "nome" (*shem*)
 **Origem:** NASCIDO
-**Ano de nascimento:** AM 1558 (Shem tinha 100 anos dois anos após o dilúvio [Gn 11:10]; dilúvio em AM 1656; portanto nascido AM 1558; isto coloca seu nascimento quando Noach tinha 502, não 500 -- uma tensão interna que o texto não resolve)
+**Ano de nascimento:** AM 1558 (Shem tinha 100 anos dois anos após o dilúvio [Gn 11:10]; dilúvio em AM 1656; portanto nascido AM 1558; isto coloca seu nascimento quando Noé tinha 502, não 500 — uma tensão interna que o texto não resolve)
 **Ano de morte:** AM 2158 (1558 + 600; Gn 11:10--11)
 **Tempo de vida:** 600 anos (Gn 11:10--11)
-**Pai:** Noach (Gn 5:32)
+**Pai:** Noé (Gn 5:32)
 **Mãe:** não declarada
 **Cônjuge(s):** não declarado
 **Filhos:** Arpakhshad (Gn 11:10); Elam, Ashshur, Lud, Aram (Gn 10:22); "filhos e filhas" (Gn 11:11)
 **Local(is):** a tebah; terra pós-dilúvio
 **Primeira menção:** Gn 5:32
 **Mencionado em:** Gn 5:32; 6:10; 7:13; 9:18, 23, 26--27; 10:1, 21--31; 11:10--11
-**Eventos-chave:** Nascido de Noach (5:32); entrou na tebah (7:13); cobriu a nudez do pai com Yafet (9:23); abençoado por Noach -- "Bendito seja YHWH, Deus de Shem" (9:26); pai de todos os filhos de Ever (10:21); gerou Arpakhshad aos 100 anos, dois anos após o dilúvio (11:10); morreu aos 600 (11:11)
+**Eventos-chave:** Nascido de Noé (5:32); entrou na tebah (7:13); cobriu a nudez do pai com Jafé (9:23); abençoado por Noé — "Bendito seja YHWH, Deus de Shem" (9:26); pai de todos os filhos de Ever (10:21); gerou Arpakhshad aos 100 anos, dois anos após o dilúvio (11:10); morreu aos 600 (11:11)
 
-**Nota:** Shem é listado primeiro entre os filhos de Noach, mas pode não ser o mais velho -- Gn 10:21 chama Yafet de "o mais velho" (embora isto seja ambíguo: "o irmão de Yafet o mais velho" pode modificar tanto Shem quanto Yafet). A linhagem abençoada passa por Shem até Avram.
+**Nome familiar:** Sem
+**Profissão:** não declarada
+**Classe social:** não declarada
+**Cidade natal:** não declarada (nascido pré-dilúvio; assentou-se pós-dilúvio)
+**Locais onde viveu:** a tebah durante o dilúvio; terra pós-dilúvio (não especificada)
+**Idade ao tornar-se pai:** 100 (no nascimento de Arpakhshad, dois anos após o dilúvio, Gn 11:10)
+**Causa da morte:** não declarada (Gn 11:11 registra "e morreu")
+**Irmãos:** Cam (Cham), Jafé (Yafet)
+**Evidência arqueológica:** Nenhuma evidência arqueológica direta
+**Menções extra-bíblicas:** Josefo, *Antiguidades* I.4--6; Lucas 3:36; várias tradições de origem semítica conectando "Shem" aos povos semíticos
+**Status de historicidade:** INCERTO
+**Livros em que aparece:** Gênesis; 1 Crônicas 1:4, 17; Lucas 3:36
+**Arco do personagem:** Ele cobre a nudez do pai com honra, é abençoado como aquele em cujo Deus habita, e torna-se o ancestral através do qual a linha da aliança chega a Abrão.
+**Ano desde a criação:** 1558
+**Ano desde a criação — fim:** 2158
+
+**Nota:** Shem é listado primeiro entre os filhos de Noé, mas pode não ser o mais velho — Gn 10:21 chama Jafé de "o mais velho" (embora isto seja ambíguo: "o irmão de Jafé o mais velho" pode modificar tanto Shem quanto Jafé). A linhagem abençoada passa por Shem até Abrão.
 
 ---
 
 ## Cham (Cam)
 
-**Significado:** INCERTO ("quente" / "escuro" -- debatido, nenhuma etimologia dada no texto)
+**Significado:** INCERTO ("quente" / "escuro" — debatido, nenhuma etimologia dada no texto)
 **Origem:** NASCIDO
-**Ano de nascimento:** não calculável com precisão (nascido quando Noach tinha aproximadamente 500, Gn 5:32; chamado "filho mais novo" em 9:24)
+**Ano de nascimento:** não calculável com precisão (nascido quando Noé tinha aproximadamente 500, Gn 5:32; chamado "filho mais novo" em 9:24)
 **Ano de morte:** não declarado
 **Tempo de vida:** não declarado
-**Pai:** Noach (Gn 5:32)
+**Pai:** Noé (Gn 5:32)
 **Mãe:** não declarada
 **Cônjuge(s):** não declarado
-**Filhos:** Kush, Mitsrayim, Put, Kenaan (Gn 10:6)
+**Filhos:** Kush, Egito, Put, Canaã (Gn 10:6)
 **Local(is):** a tebah; terra pós-dilúvio
 **Primeira menção:** Gn 5:32
 **Mencionado em:** Gn 5:32; 6:10; 7:13; 9:18, 22; 10:1, 6--20
-**Eventos-chave:** Nascido de Noach (5:32); entrou na tebah (7:13); "pai de Kenaan" (9:18, 22); viu a nudez do pai e contou aos dois irmãos (9:22); Noach amaldiçoou Kenaan (não Cham diretamente) em resposta (9:25)
+**Eventos-chave:** Nascido de Noé (5:32); entrou na tebah (7:13); "pai de Canaã" (9:18, 22); viu a nudez do pai e contou aos dois irmãos (9:22); Noé amaldiçoou Canaã (não Cam diretamente) em resposta (9:25)
 
-**Nota:** Gn 9:24 chama Cham de "seu filho mais novo" (*beno ha-qatan*). A maldição recai sobre Kenaan, não sobre o próprio Cham -- o texto não explica por quê.
+**Nome familiar:** Cam
+**Profissão:** não declarada
+**Classe social:** não declarada
+**Cidade natal:** não declarada (nascido pré-dilúvio; assentou-se pós-dilúvio)
+**Locais onde viveu:** a tebah durante o dilúvio; terra pós-dilúvio (não especificada); seus descendentes associados à África e às regiões meridionais (Gn 10:6--20)
+**Idade ao tornar-se pai:** não declarada
+**Causa da morte:** não declarada
+**Irmãos:** Shem, Jafé (Yafet); chamado "o mais novo" (Gn 9:24)
+**Evidência arqueológica:** Nenhuma evidência arqueológica direta
+**Menções extra-bíblicas:** Josefo, *Antiguidades* I.4--6; várias tradições posteriores associando Cam à África e ao Egito (Mitsrayim = Egito é o nome do seu filho)
+**Status de historicidade:** INCERTO
+**Livros em que aparece:** Gênesis; 1 Crônicas 1:4, 8; Salmo 78:51; 105:23, 27; 106:22
+**Arco do personagem:** Ele vê a nudez do pai e conta aos irmãos; seu filho Canaã, não o próprio Cam, recebe a maldição — uma lacuna narrativa que o texto deixa sem explicação.
+**Ano desde a criação:** não calculável com precisão (nascido quando Noé tinha aproximadamente 500, Gn 5:32)
+**Ano desde a criação — fim:** não declarado
+
+**Nota:** Gn 9:24 chama Cam de "seu filho mais novo" (*beno ha-qatan*). A maldição recai sobre Canaã, não sobre o próprio Cam — o texto não explica por quê.
 
 ---
 
 ## Yafet (Jafé)
 
-**Significado:** "alargamento" / "que ele alargue" (Gn 9:27; jogo de palavras -- "que Deus alargue [*yaft*] Yafet")
+**Significado:** "alargamento" / "que ele alargue" (Gn 9:27; jogo de palavras — "que Deus alargue [*yaft*] Jafé")
 **Origem:** NASCIDO
-**Ano de nascimento:** não calculável com precisão (nascido quando Noach tinha aproximadamente 500, Gn 5:32; possivelmente o mais velho -- ver nota sobre Shem)
+**Ano de nascimento:** não calculável com precisão (nascido quando Noé tinha aproximadamente 500, Gn 5:32; possivelmente o mais velho — ver nota sobre Shem)
 **Ano de morte:** não declarado
 **Tempo de vida:** não declarado
-**Pai:** Noach (Gn 5:32)
+**Pai:** Noé (Gn 5:32)
 **Mãe:** não declarada
 **Cônjuge(s):** não declarado
 **Filhos:** Gomer, Magog, Madai, Yavan, Tuval, Meshekh, Tiras (Gn 10:2)
 **Local(is):** a tebah; terra pós-dilúvio; povos costeiros se espalharam de sua linhagem (Gn 10:5)
 **Primeira menção:** Gn 5:32
 **Mencionado em:** Gn 5:32; 6:10; 7:13; 9:18, 23, 27; 10:1--5
-**Eventos-chave:** Nascido de Noach (5:32); entrou na tebah (7:13); cobriu a nudez do pai com Shem (9:23); abençoado por Noach -- "Que Deus alargue Yafet, e que ele habite nas tendas de Shem" (9:27)
+**Eventos-chave:** Nascido de Noé (5:32); entrou na tebah (7:13); cobriu a nudez do pai com Shem (9:23); abençoado por Noé — "Que Deus alargue Jafé, e que ele habite nas tendas de Shem" (9:27)
 
-**Nota:** O sujeito de "que ele habite nas tendas de Shem" (9:27) é ambíguo -- pode ser Yafet ou Deus. O TT preserva esta ambiguidade.
+**Nome familiar:** Jafé
+**Profissão:** não declarada
+**Classe social:** não declarada
+**Cidade natal:** não declarada (nascido pré-dilúvio; assentou-se pós-dilúvio)
+**Locais onde viveu:** a tebah durante o dilúvio; terra pós-dilúvio; litoral se espalhou de seus descendentes (Gn 10:5)
+**Idade ao tornar-se pai:** não declarada
+**Causa da morte:** não declarada
+**Irmãos:** Shem, Cam (Cham); possivelmente o mais velho (Gn 10:21, embora ambíguo)
+**Evidência arqueológica:** Nenhuma evidência arqueológica direta
+**Menções extra-bíblicas:** Josefo, *Antiguidades* I.4--6; tradições posteriores associando Jafé aos povos indo-europeus e às regiões setentrionais/ocidentais
+**Status de historicidade:** INCERTO
+**Livros em que aparece:** Gênesis; 1 Crônicas 1:4--5
+**Arco do personagem:** Ele caminha de costas com Shem para cobrir o pai, age com honra e recebe a bênção do alargamento — um papel breve mas digno numa cena de crise familiar.
+**Ano desde a criação:** não calculável com precisão (nascido quando Noé tinha aproximadamente 500, Gn 5:32)
+**Ano desde a criação — fim:** não declarado
+
+**Nota:** O sujeito de "que ele habite nas tendas de Shem" (9:27) é ambíguo — pode ser Jafé ou Deus. O TT preserva esta ambiguidade.
 
 ---
 
@@ -348,22 +619,38 @@
 **Ano de nascimento:** não declarado
 **Ano de morte:** não declarado
 **Tempo de vida:** não declarado
-**Pai:** Cham (Gn 10:6)
+**Pai:** Cam (Gn 10:6)
 **Mãe:** não declarada
 **Cônjuge(s):** não declarado
 **Filhos:** Tsidon, Chet, e os povos listados em Gn 10:15--18; seu território descrito em Gn 10:19
-**Local(is):** Kenaan (território epônimo, Gn 10:19)
+**Local(is):** Canaã (território epônimo, Gn 10:19)
 **Primeira menção:** Gn 9:18
 **Mencionado em:** Gn 9:18, 22, 25--27; 10:6, 15--19
-**Eventos-chave:** Nomeado como filho de Cham e ancestral epônimo dos povos Kenaani (9:18); Noach amaldiçoou Kenaan após o ato de Cham de ver sua nudez (9:25) -- "Maldito seja Kenaan; servo dos servos será ele para seus irmãos"; a bênção de Noach sobre Shem e Yafet reiterada em termos da subjugação de Kenaan (9:26--27); os limites de seu território dados em Gn 10:19
+**Eventos-chave:** Nomeado como filho de Cam e ancestral epônimo dos povos Kenaani (9:18); Noé amaldiçoou Canaã após o ato de Cam de ver sua nudez (9:25) — "Maldito seja Canaã; servo dos servos será ele para seus irmãos"; a bênção de Noé sobre Shem e Jafé reiterada em termos da subjugação de Canaã (9:26--27); os limites de seu território dados em Gn 10:19
 
-**Nota:** A maldição recai sobre Kenaan, não sobre Cham que praticou o ato (9:22, 25). O texto não explica o deslocamento. Kenaan é destacado apesar de ser listado como apenas um dos quatro filhos de Cham (10:6).
+**Nome familiar:** Canaã
+**Profissão:** não declarada
+**Classe social:** ancestral epônimo; seus descendentes formam povos distintos (Gn 10:15--18)
+**Cidade natal:** Canaã (o território recebe seu nome, Gn 10:19)
+**Locais onde viveu:** Canaã (território descrito em Gn 10:19)
+**Idade ao tornar-se pai:** não declarada
+**Causa da morte:** não declarada
+**Irmãos:** Kush, Egito, Put (Gn 10:6)
+**Evidência arqueológica:** Nenhuma evidência arqueológica direta para o indivíduo; os povos cananeus e suas cidades (Sidon, etc.) são extensamente atestados arqueologicamente
+**Menções extra-bíblicas:** Josefo, *Antiguidades* I.6; tradições posteriores ligando Canaã aos povos cananeus do Levante
+**Status de historicidade:** LITERÁRIO (figura de ancestral epônimo)
+**Livros em que aparece:** Gênesis; Josué (como território/povos); 1 Crônicas 1:8, 13
+**Arco do personagem:** Ele aparece apenas como destinatário de uma maldição que não ganhou pessoalmente; seu papel é estrutural — explicar através da genealogia a subordinação dos cananeus a Israel e seus vizinhos.
+**Ano desde a criação:** não declarado
+**Ano desde a criação — fim:** não declarado
+
+**Nota:** A maldição recai sobre Canaã, não sobre Cam que praticou o ato (9:22, 25). O texto não explica o deslocamento. Canaã é destacado apesar de ser listado como apenas um dos quatro filhos de Cam (10:6).
 
 ---
 
 ## Nimrod (Nimrod)
 
-**Significado:** possivelmente "nos rebelaremos" (de *marad*, rebelar-se -- etimologia popular; INCERTO)
+**Significado:** possivelmente "nos rebelaremos" (de *marad*, rebelar-se — etimologia popular; INCERTO)
 **Origem:** NASCIDO
 **Ano de nascimento:** não declarado
 **Ano de morte:** não declarado
@@ -372,52 +659,100 @@
 **Mãe:** não declarada
 **Cônjuge(s):** não declarado
 **Filhos:** não declarado
-**Local(is):** Bavel, Erekh, Akkad, Kalneh na terra de Shinar (Gn 10:10); Ashshur -- Nineveh, Rechovot-Ir, Kelach, Resen (Gn 10:11--12)
+**Local(is):** Bavel, Erekh, Akkad, Kalneh na terra de Shinar (Gn 10:10); Ashshur — Nineveh, Rechovot-Ir, Kelach, Resen (Gn 10:11--12)
 **Primeira menção:** Gn 10:8
 **Mencionado em:** Gn 10:8--12
-**Eventos-chave:** Começou a ser um poderoso (*gibbor*) na terra (10:8); poderoso caçador diante de YHWH -- proverbial: "Como Nimrod, poderoso caçador diante de YHWH" (10:9); seu reino começou em Bavel (10:10); construiu Nineveh e outras cidades (10:11--12)
+**Eventos-chave:** Começou a ser um poderoso (*gibbor*) na terra (10:8); poderoso caçador diante de YHWH — proverbial: "Como Nimrod, poderoso caçador diante de YHWH" (10:9); seu reino começou em Bavel (10:10); construiu Nineveh e outras cidades (10:11--12)
 
-**Nota:** "Diante de YHWH" (10:9) é ambíguo -- pode indicar aprovação divina ou desafio divino. O texto não resolve isto. A passagem de Nimrod é a única expansão narrativa na tabela das nações, que é de resto orientada por listas.
+**Nome familiar:** Nimrod
+**Profissão:** caçador; rei / construtor de império (Gn 10:8--12; "seu reino" implica governo)
+**Classe social:** guerreiro-rei / poderoso (*gibbor*, Gn 10:8)
+**Cidade natal:** Bavel (Babel) / terra de Shinar (Gn 10:10)
+**Locais onde viveu:** Shinar (Bavel, Erekh, Akkad, Kalneh, Gn 10:10); Ashshur / Nineveh e outras cidades (Gn 10:11--12)
+**Idade ao tornar-se pai:** não declarada
+**Causa da morte:** não declarada
+**Irmãos:** não declarados (outros filhos de Kush listados em Gn 10:7, mas sua relação com Nimrod é apenas como pai)
+**Evidência arqueológica:** Nenhuma evidência arqueológica direta para um indivíduo chamado Nimrod. As cidades mencionadas (Nineveh, Calá/Kalhu, Erech/Uruk, Babilônia/Babel) são extensamente atestadas arqueologicamente. Alguns estudiosos propõem conexões com reis mesopotâmicos (Tukulti-Ninurta I, Sargão de Akkad, Gilgamesh), mas estas permanecem INCERTAS e especulativas.
+**Menções extra-bíblicas:** Josefo, *Antiguidades* I.4 (Nimrod como tirano que se opunha a YHWH); Miquéias 5:6 ("terra de Nimrod"); 1 Crônicas 1:10; várias tradições rabínicas (Nimrod como construtor de Babel, opressor de Abraão — não está no próprio Gênesis); o Corão não nomeia Nimrod, mas as tradições o conectam às narrativas abraâmicas
+**Status de historicidade:** INCERTO
+**Livros em que aparece:** Gênesis; 1 Crônicas 1:10; Miquéias 5:6
+**Arco do personagem:** Ele aparece subitamente como "poderoso caçador" e construtor de cidades, e depois desaparece; sua relação ambígua com YHWH ("diante de YHWH" em 10:9) e sua construção de Babel (10:10) preparam a narrativa de Babel sem que o texto torne explícita a conexão.
+**Ano desde a criação:** não declarado
+**Ano desde a criação — fim:** não declarado
+
+**Nota:** "Diante de YHWH" (10:9) é ambíguo — pode indicar aprovação divina ou desafio divino. O texto não resolve isto. A passagem de Nimrod é a única expansão narrativa na tabela das nações, que é de resto orientada por listas.
 
 ---
 
 ## Terach (Terá)
 
-**Significado:** INCERTO (possivelmente "íbex" ou "demora" -- debatido)
+**Significado:** INCERTO (possivelmente "íbex" ou "demora" — debatido)
 **Origem:** NASCIDO
-**Ano de nascimento:** AM 1878 (Nachor tinha 29 anos quando gerou Terach; Gn 11:24)
-**Ano de morte:** AM 2083 (Gn 11:32 -- viveu 205 anos; 1878 + 205 = 2083)
+**Ano de nascimento:** AM 1878 (Naor tinha 29 anos quando gerou Terá; Gn 11:24)
+**Ano de morte:** AM 2083 (Gn 11:32 — viveu 205 anos; 1878 + 205 = 2083)
 **Tempo de vida:** 205 anos (Gn 11:32)
-**Pai:** Nachor (Gn 11:24)
+**Pai:** Naor (Gn 11:24)
 **Mãe:** não declarada
 **Cônjuge(s):** não declarado
-**Filhos:** Avram, Nachor (II), Haran (Gn 11:26--27)
+**Filhos:** Abrão, Naor (II), Haran (Gn 11:26--27)
 **Local(is):** Ur dos Kasdim (Gn 11:28, 31); Charan (Gn 11:31)
 **Primeira menção:** Gn 11:24
 **Mencionado em:** Gn 11:24--32
-**Eventos-chave:** Gerou Avram, Nachor (II) e Haran (11:26); sua própria fórmula de toledot -- "Estas são as toledot de Terach" (11:27); levou Avram, Lot e Sarai de Ur dos Kasdim para ir a Kenaan; chegaram a Charan e se estabeleceram ali (11:31); morreu em Charan aos 205 (11:32)
+**Eventos-chave:** Gerou Abrão, Naor (II) e Haran (11:26); sua própria fórmula de toledot — "Estas são as toledot de Terá" (11:27); levou Abrão, Lot e Sarai de Ur dos Kasdim para ir a Canaã; chegaram a Charan e se estabeleceram ali (11:31); morreu em Charan aos 205 (11:32)
 
-**Nota:** A partida de Terach de Ur é dirigida a Kenaan, mas ele para em Charan e morre ali. A jornada é completada por Avram sozinho em Gn 12:4--5. A fórmula de toledot em 11:27 enquadra a história de Avram como inserida na de Terach, e não o contrário.
+**Nome familiar:** Terá
+**Profissão:** não declarada em Gênesis (Josefo e Josué 24:2 sugerem idolatria; não está no próprio texto de Gênesis)
+**Classe social:** patriarca / chefe de família
+**Cidade natal:** Ur dos Kasdim (Gn 11:28, 31)
+**Locais onde viveu:** Ur dos Kasdim; Charan (Gn 11:31; morreu ali)
+**Idade ao tornar-se pai:** 70 (no nascimento do primeiro filho, Gn 11:26; ver nota sobre a tensão com a idade de Abrão)
+**Causa da morte:** não declarada (Gn 11:32 registra "e Terá morreu")
+**Irmãos:** não declarados
+**Evidência arqueológica:** Nenhuma evidência arqueológica direta
+**Menções extra-bíblicas:** Josefo, *Antiguidades* I.6--7; Josué 24:2 (sua família "servia outros deuses" — não está no próprio Gênesis); Atos 7:2--4 (discurso de Estevão); várias tradições rabínicas que o retratam como fabricante de ídolos
+**Status de historicidade:** INCERTO
+**Livros em que aparece:** Gênesis; Josué 24:2; 1 Crônicas 1:26; Lucas 3:34; Atos 7:2--4
+**Arco do personagem:** Ele inicia a jornada de Ur em direção a Canaã, mas para em Charan e morre ali; seu filho Abrão completa a jornada que ele começou, inserindo a vocação do patriarca num movimento familiar mais amplo que se deteve.
+**Ano desde a criação:** 1878
+**Ano desde a criação — fim:** 2083
+
+**Nota:** A partida de Terá de Ur é dirigida a Canaã, mas ele para em Charan e morre ali. A jornada é completada por Abrão sozinho em Gn 12:4--5. A fórmula de toledot em 11:27 enquadra a história de Abrão como inserida na de Terá, e não o contrário.
 
 ---
 
 ## Haran (Harã)
 
-**Significado:** INCERTO (possivelmente "montanhês" -- debatido)
+**Significado:** INCERTO (possivelmente "montanhês" — debatido)
 **Origem:** NASCIDO
 **Ano de nascimento:** não declarado
-**Ano de morte:** não declarado (morreu em Ur dos Kasdim antes de seu pai Terach; Gn 11:28)
+**Ano de morte:** não declarado (morreu em Ur dos Kasdim antes de seu pai Terá; Gn 11:28)
 **Tempo de vida:** não declarado
-**Pai:** Terach (Gn 11:26)
+**Pai:** Terá (Gn 11:26)
 **Mãe:** não declarada
 **Cônjuge(s):** não declarado
 **Filhos:** Lot (Gn 11:27); Milkah (Gn 11:29); Yiskah (Gn 11:29)
 **Local(is):** Ur dos Kasdim (Gn 11:28)
 **Primeira menção:** Gn 11:26
 **Mencionado em:** Gn 11:26--29
-**Eventos-chave:** Nomeado como terceiro filho de Terach ao lado de Avram e Nachor (II) (11:26); morreu em Ur dos Kasdim na presença de seu pai Terach (11:28) -- primeira morte registrada de um filho antes de seu pai em Gênesis; pai de Lot, Milkah e Yiskah (11:27, 29)
+**Eventos-chave:** Nomeado como terceiro filho de Terá ao lado de Abrão e Naor (II) (11:26); morreu em Ur dos Kasdim na presença de seu pai Terá (11:28) — primeira morte registrada de um filho antes de seu pai em Gênesis; pai de Lot, Milkah e Yiskah (11:27, 29)
 
-**Nota:** A morte de Haran antes de seu pai (11:28) é a razão declarada para o apego de Lot a Avram. Milkah torna-se a esposa de Nachor (II), irmão de Avram (11:29). Yiskah não é mais mencionada em Gn 1--12.
+**Nome familiar:** Harã
+**Profissão:** não declarada
+**Classe social:** não declarada
+**Cidade natal:** Ur dos Kasdim (Gn 11:28)
+**Locais onde viveu:** Ur dos Kasdim (morreu ali, Gn 11:28)
+**Idade ao tornar-se pai:** não declarada
+**Causa da morte:** não declarada; morreu em Ur dos Kasdim na presença de seu pai Terá (Gn 11:28) — a única descrição do texto é a nota incomum de morrer antes do pai
+**Irmãos:** Abrão (Avram), Naor (II)
+**Evidência arqueológica:** Nenhuma evidência arqueológica direta
+**Menções extra-bíblicas:** Josefo, *Antiguidades* I.6 (mencionado de passagem)
+**Status de historicidade:** INCERTO
+**Livros em que aparece:** Gênesis
+**Arco do personagem:** Ele aparece apenas na genealogia e na nota de sua morte prematura; seu significado é estrutural — sua morte orfa Lot e une Lot a Abrão.
+**Ano desde a criação:** não declarado
+**Ano desde a criação — fim:** não declarado (morreu antes de AM 1948, antes do nascimento de Abrão)
+
+**Nota:** A morte de Haran antes de seu pai (11:28) é a razão declarada para o apego de Lot a Abrão. Milkah torna-se a esposa de Naor (II), irmão de Abrão (11:29). Yiskah não é mais mencionada em Gn 1--12.
 
 ---
 
@@ -425,19 +760,35 @@
 
 **Significado:** "pai exaltado" (*av* + *ram*)
 **Origem:** NASCIDO
-**Ano de nascimento:** AM 1948 (conforme aritmética do TM: Shem 1558 + Arpakhshad aos 100 [=1658] + Shelach aos 35 [=1693] + Ever aos 30 [=1723] + Peleg aos 34 [=1757] + Re'u aos 30 [=1787] + Serug aos 32 [=1819] + Nachor aos 30 [=1849] + Terach aos 29 [=1878] + Avram aos 70 [=1948]; mas ver nota)
+**Ano de nascimento:** AM 1948 (conforme aritmética do TM: Shem 1558 + Arpakhshad aos 100 [=1658] + Shelach aos 35 [=1693] + Ever aos 30 [=1723] + Peleg aos 34 [=1757] + Re'u aos 30 [=1787] + Serug aos 32 [=1819] + Naor aos 30 [=1849] + Terá aos 29 [=1878] + Abrão aos 70 [=1948]; mas ver nota)
 **Ano de morte:** não declarado dentro de Gn 1--12
 **Tempo de vida:** não declarado dentro de Gn 1--12
-**Pai:** Terach (Gn 11:26--27)
+**Pai:** Terá (Gn 11:26--27)
 **Mãe:** não declarada
 **Cônjuge(s):** Sarai (Gn 11:29; 12:11--13)
 **Filhos:** nenhum ainda dentro de Gn 1--12 (Sarai é estéril, Gn 11:30)
-**Local(is):** Ur dos Kasdim (Gn 11:28, 31); Charan (Gn 11:31; 12:4); terra de Kenaan (12:5); Shekhem, carvalho de Moreh (12:6); região montanhosa entre Beyt-El e Ai (12:8); o Negev (12:9); Egito (12:10--20)
+**Local(is):** Ur dos Kasdim (Gn 11:28, 31); Charan (Gn 11:31; 12:4); terra de Canaã (12:5); Siquém, carvalho de Moreh (12:6); região montanhosa entre Betel e Ai (12:8); o Negev (12:9); Egito (12:10--20)
 **Primeira menção:** Gn 11:26
 **Mencionado em:** Gn 11:26--32; 12:1--20
-**Eventos-chave:** Nascido de Terach (11:26); casou-se com Sarai (11:29); partiu de Ur com Terach, Sarai e Lot rumo a Kenaan, assentou-se em Charan (11:31); chamado por YHWH -- *lekh lekha* (12:1); recebeu a promessa quíntupla (12:2--3); partiu de Charan aos 75 anos (12:4); chegou em Kenaan (12:5); passou até Shekhem, YHWH apareceu e prometeu a terra à sua semente (12:6--7); construiu altares em Shekhem e entre Beyt-El e Ai (12:7--8); invocou o nome de YHWH (12:8); desceu ao Egito por causa da fome (12:10); disse a Sarai que dissesse ser sua irmã (12:11--13); Faraó atingido por pragas por causa de Sarai (12:17); repreendido por Faraó e mandado embora (12:18--20)
+**Eventos-chave:** Nascido de Terá (11:26); casou-se com Sarai (11:29); partiu de Ur com Terá, Sarai e Lot rumo a Canaã, assentou-se em Charan (11:31); chamado por YHWH — *lekh lekha* (12:1); recebeu a promessa quíntupla (12:2--3); partiu de Charan aos 75 anos (12:4); chegou em Canaã (12:5); passou até Siquém, YHWH apareceu e prometeu a terra à sua semente (12:6--7); construiu altares em Siquém e entre Betel e Ai (12:7--8); invocou o nome de YHWH (12:8); desceu ao Egito por causa da fome (12:10); disse a Sarai que dissesse ser sua irmã (12:11--13); Faraó atingido por pragas por causa de Sarai (12:17); repreendido por Faraó e mandado embora (12:18--20)
 
-**Nota:** Se Avram é o primogênito de Terach (listado primeiro em 11:26) e Terach tinha 70 anos ao nascimento de seu primeiro filho, então Avram nasceu em AM 1948. Porém, Gn 12:4 declara que Avram tinha 75 anos quando saiu de Charan, e Gn 11:32 declara que Terach morreu em Charan aos 205. Se Avram partiu após a morte de Terach, Avram nasceu quando Terach tinha 130 (205 - 75), não 70. O texto não harmoniza estes números. Aqui é listado o cálculo assumindo que Terach tinha 70 no nascimento de Avram, mas a tensão é registrada.
+**Nome familiar:** Abrão (nome mudado para Abraão em Gn 17, fora do escopo deste arquivo)
+**Profissão:** pastor / pastoreiro rico (Gn 12:16; 13:2); construtor de altares; chamado a ser uma nação (Gn 12:2)
+**Classe social:** patriarca rico; proprietário de servos, gado, prata e ouro (Gn 12:16; 13:2)
+**Cidade natal:** Ur dos Kasdim (Gn 11:28, 31)
+**Locais onde viveu:** Ur dos Kasdim; Charan (Gn 11:31; 12:4); terra de Canaã (Gn 12:5); Siquém (Gn 12:6); região montanhosa entre Betel e Ai (Gn 12:8); o Negev (Gn 12:9); Egito (Gn 12:10--20)
+**Idade ao tornar-se pai:** não alcançada dentro de Gn 1--12 (Sarai estéril; primeiro filho Ismael nasce em Gn 16, fora do escopo)
+**Causa da morte:** não declarada dentro de Gn 1--12
+**Irmãos:** não declarados em Gn 1--12 (Gn 20:12 revela depois que Sarai é sua meia-irmã — mesmo pai, mãe diferente)
+**Evidência arqueológica:** Nenhuma evidência arqueológica direta para Abrão como indivíduo. O período patriarcal (Bronze Médio, c. 2000--1550 a.C.) é consistente com alguns costumes sociais e jurídicos mencionados (práticas do herdeiro-servo, tábuas de Nuzi). A identificação permanece INCERTA e debatida.
+**Menções extra-bíblicas:** Josefo, *Antiguidades* I.7--8; Corão, Sura 2:124--129; 6:74--83; 19:41--50; 21:51--73 (Ibrahim, narrativa extensa); Atos 7:2--8; Romanos 4; Gálatas 3; Hebreus 11:8--19; Tiago 2:21--23
+**Status de historicidade:** INCERTO
+**Livros em que aparece:** Gênesis; Josué 24:2--3; Neemias 9:7; Isaías 29:22; 41:8; 51:2; Romanos 4; Gálatas 3; Hebreus 11:8--19; e muitos outros
+**Arco do personagem:** Ele deixa sua terra ao chamado de YHWH com uma promessa e sem mapa, constrói altares, e percorre a fome até o Egito — onde imediatamente compromete Sarai por sua própria segurança; a lacuna entre vocação e caráter é estabelecida desde o primeiro episódio.
+**Ano desde a criação:** 1948
+**Ano desde a criação — fim:** 2123 (AM; mas sua morte não é registrada em Gn 1--12; tempo de vida completo de 175 anos, Gn 25:7, está fora do escopo deste arquivo)
+
+**Nota:** Se Abrão é o primogênito de Terá (listado primeiro em 11:26) e Terá tinha 70 anos ao nascimento de seu primeiro filho, então Abrão nasceu em AM 1948. Porém, Gn 12:4 declara que Abrão tinha 75 anos quando saiu de Charan, e Gn 11:32 declara que Terá morreu em Charan aos 205. Se Abrão partiu após a morte de Terá, Abrão nasceu quando Terá tinha 130 (205 - 75), não 70. O texto não harmoniza estes números. Aqui é listado o cálculo assumindo que Terá tinha 70 no nascimento de Abrão, mas a tensão é registrada.
 
 ---
 
@@ -448,14 +799,30 @@
 **Ano de nascimento:** não declarado
 **Ano de morte:** não declarado dentro de Gn 1--12
 **Tempo de vida:** não declarado dentro de Gn 1--12
-**Pai:** não declarado em Gn 1--12 (Gn 20:12 depois a identifica como meia-irmã de Avram)
+**Pai:** não declarado em Gn 1--12 (Gn 20:12 depois a identifica como meia-irmã de Abrão)
 **Mãe:** não declarada
-**Cônjuge(s):** Avram (Gn 11:29)
+**Cônjuge(s):** Abrão (Gn 11:29)
 **Filhos:** nenhum dentro de Gn 1--12 (estéril, Gn 11:30)
-**Local(is):** Ur dos Kasdim (Gn 11:31); Charan (Gn 11:31); Kenaan (Gn 12:5); Egito (Gn 12:11--20)
+**Local(is):** Ur dos Kasdim (Gn 11:31); Charan (Gn 11:31); Canaã (Gn 12:5); Egito (Gn 12:11--20)
 **Primeira menção:** Gn 11:29
 **Mencionado em:** Gn 11:29--31; 12:5, 11--17
-**Eventos-chave:** Nomeada como esposa de Avram (11:29); declarada estéril (11:30); partiu de Ur com Terach e Avram (11:31); levada ao Egito com Avram (12:5); Avram pediu que ela dissesse ser sua irmã (12:11--13); levada à casa de Faraó (12:15); YHWH atingiu Faraó com pragas por causa dela (12:17)
+**Eventos-chave:** Nomeada como esposa de Abrão (11:29); declarada estéril (11:30); partiu de Ur com Terá e Abrão (11:31); levada ao Egito com Abrão (12:5); Abrão pediu que ela dissesse ser sua irmã (12:11--13); levada à casa de Faraó (12:15); YHWH atingiu Faraó com pragas por causa dela (12:17)
+
+**Nome familiar:** Sarai (nome mudado para Sara em Gn 17:15, fora do escopo deste arquivo)
+**Profissão:** não declarada
+**Classe social:** esposa de um patriarca rico; levada à casa de Faraó (Gn 12:15), implicando beleza e status reconhecidos
+**Cidade natal:** Ur dos Kasdim (Gn 11:31)
+**Locais onde viveu:** Ur dos Kasdim; Charan (Gn 11:31); terra de Canaã (Gn 12:5); Egito (Gn 12:11--20)
+**Idade ao tornar-se pai:** não aplicável
+**Causa da morte:** não declarada dentro de Gn 1--12
+**Irmãos:** não declarados em Gn 1--12 (Gn 20:12 revela depois que ela é meia-irmã de Abrão)
+**Evidência arqueológica:** Nenhuma evidência arqueológica direta
+**Menções extra-bíblicas:** Josefo, *Antiguidades* I.8; Corão (Sara sem nome, mas presente nas narrativas de Ibrahim, Sura 11:71--73); Hebreus 11:11; 1 Pedro 3:6
+**Status de historicidade:** INCERTO
+**Livros em que aparece:** Gênesis; Isaías 51:2; Romanos 4:19; 9:9; Hebreus 11:11; 1 Pedro 3:6
+**Arco do personagem:** Apresentada como estéril e bela, ela é duas vezes colocada em risco pelo engano autoprotetor de Abrão; dentro de Gn 1--12 ela é inteiramente objeto e não agente, mas sua esterilidade impulsiona a tensão narrativa na direção da promessa.
+**Ano desde a criação:** não declarado
+**Ano desde a criação — fim:** não declarado dentro de Gn 1--12
 
 ---
 
@@ -470,16 +837,32 @@
 **Mãe:** não declarada
 **Cônjuge(s):** não declarado dentro de Gn 1--12
 **Filhos:** não declarado dentro de Gn 1--12
-**Local(is):** Ur dos Kasdim (Gn 11:28, 31); Charan (Gn 11:31); Kenaan (Gn 12:5)
+**Local(is):** Ur dos Kasdim (Gn 11:28, 31); Charan (Gn 11:31); Canaã (Gn 12:5)
 **Primeira menção:** Gn 11:27
 **Mencionado em:** Gn 11:27, 31; 12:4--5
-**Eventos-chave:** Nascido de Haran (11:27); seu pai Haran morreu em Ur (11:28); levado por Terach de Ur rumo a Kenaan (11:31); foi com Avram de Charan a Kenaan (12:4--5)
+**Eventos-chave:** Nascido de Haran (11:27); seu pai Haran morreu em Ur (11:28); levado por Terá de Ur rumo a Canaã (11:31); foi com Abrão de Charan a Canaã (12:4--5)
 
-**Nota:** Lot é sobrinho de Avram (filho do irmão de Avram, Haran). Sua separação de Avram e a narrativa de Sedom ocorrem em Gn 13--19, fora do escopo deste arquivo.
+**Nome familiar:** Ló
+**Profissão:** não declarada dentro de Gn 1--12 (mostrado depois como pastor próspero em Gn 13)
+**Classe social:** não declarada; viaja com Abrão como sobrinho dependente
+**Cidade natal:** Ur dos Kasdim (Gn 11:28)
+**Locais onde viveu:** Ur dos Kasdim; Charan (Gn 11:31); terra de Canaã (Gn 12:5)
+**Idade ao tornar-se pai:** não declarada dentro de Gn 1--12
+**Causa da morte:** não declarada
+**Irmãos:** Milkah, Yiskah (Gn 11:29)
+**Evidência arqueológica:** Nenhuma evidência arqueológica direta
+**Menções extra-bíblicas:** Josefo, *Antiguidades* I.8--11; Corão, Sura 7:80--84; 11:77--83; 15:59--77 (Lut, narrativa extensa); 2 Pedro 2:7
+**Status de historicidade:** INCERTO
+**Livros em que aparece:** Gênesis; Lucas 17:28--32; 2 Pedro 2:7
+**Arco do personagem:** Órfão em Ur, ele se apega a Abrão e viaja com ele; dentro de Gn 1--12 ele é um dependente que ainda não fez nenhuma escolha independente — sua provação vem depois.
+**Ano desde a criação:** não declarado
+**Ano desde a criação — fim:** não declarado
+
+**Nota:** Lot é sobrinho de Abrão (filho do irmão de Abrão, Haran). Sua separação de Abrão e a narrativa de Sedom ocorrem em Gn 13--19, fora do escopo deste arquivo.
 
 ---
 
-## Genealogia Shem-a-Avram (Gn 11:10--26) -- Tabela Resumida
+## Genealogia Shem-a-Avram (Gn 11:10--26) — Tabela Resumida
 
 Todas as datas AM, conforme aritmética do Texto Massorético.
 
@@ -491,30 +874,41 @@ Todas as datas AM, conforme aritmética do Texto Massorético.
 | Ever | 1723 | 34 | Peleg | 430 | 2187 | 464 |
 | Peleg | 1757 | 30 | Re'u | 209 | 1996 | 239 |
 | Re'u | 1787 | 32 | Serug | 207 | 2026 | 239 |
-| Serug | 1819 | 30 | Nachor | 200 | 2049 | 230 |
-| Nachor | 1849 | 29 | Terach | 119 | 1997 | 148 |
-| Terach | 1878 | 70 | Avram (ver nota) | 135 | 2083 | 205 |
-| Avram | 1948 | -- | -- | -- | -- | -- |
+| Serug | 1819 | 30 | Naor | 200 | 2049 | 230 |
+| Naor | 1849 | 29 | Terá | 119 | 1997 | 148 |
+| Terá | 1878 | 70 | Abrão (ver nota) | 135 | 2083 | 205 |
+| Abrão | 1948 | — | — | — | — | — |
 
-**Nota:** Os tempos de vida caem drasticamente do período pré-dilúvio para o pós-dilúvio. Os patriarcas pré-dilúvio vivem 777--969 anos; a linhagem pós-dilúvio cai de 600 (Shem) para 148 (Nachor). O texto registra os números sem comentário.
+**Nota:** Os tempos de vida caem drasticamente do período pré-dilúvio para o pós-dilúvio. Os patriarcas pré-dilúvio vivem 777--969 anos; a linhagem pós-dilúvio cai de 600 (Shem) para 148 (Naor). O texto registra os números sem comentário.
 
 ---
 
-## Genealogia Adam-a-Noach (Gn 5) -- Tabela Resumida
+## Genealogia Adam-a-Noach (Gn 5) — Tabela Resumida
 
 Todas as datas AM, conforme aritmética do Texto Massorético.
 
 | Pessoa | Nascido AM | Idade ao primogênito | Filho | Anos restantes | Morreu AM | Tempo de vida total |
 |---|---|---|---|---|---|---|
-| Adam | 1 | 130 | Shet | 800 | 930 | 930 |
-| Shet | 130 | 105 | Enosh | 807 | 1042 | 912 |
+| Adam | 1 | 130 | Sete | 800 | 930 | 930 |
+| Sete | 130 | 105 | Enosh | 807 | 1042 | 912 |
 | Enosh | 235 | 90 | Qenan | 815 | 1140 | 905 |
 | Qenan | 325 | 70 | Mahalalel | 840 | 1235 | 910 |
 | Mahalalel | 395 | 65 | Yered | 830 | 1290 | 895 |
-| Yered | 460 | 162 | Chanokh | 800 | 1422 | 962 |
-| Chanokh | 622 | 65 | Metushelach | 300 | -- (tomado) | 365 |
-| Metushelach | 687 | 187 | Lemekh | 782 | 1656 | 969 |
-| Lemekh | 874 | 182 | Noach | 595 | 1651 | 777 |
-| Noach | 1056 | 500 | Shem, Cham, Yafet | 450 | 2006 | 950 |
+| Yered | 460 | 162 | Enoque | 800 | 1422 | 962 |
+| Enoque | 622 | 65 | Matusalém | 300 | — (tomado) | 365 |
+| Matusalém | 687 | 187 | Lameque | 782 | 1656 | 969 |
+| Lameque | 874 | 182 | Noé | 595 | 1651 | 777 |
+| Noé | 1056 | 500 | Shem, Cam, Jafé | 450 | 2006 | 950 |
 
-**Nota:** O dilúvio ocorre em AM 1656 (Noach aos 600 anos, Gn 7:6). Pela aritmética do TM, Metushelach morre no ano do dilúvio. Lemekh morre cinco anos antes do dilúvio. Adam morre em AM 930 -- bem antes do dilúvio, mas sobrepondo-se ao tempo de vida de Lemekh (nascido AM 874).
+---
+
+## H. Fontes Consultadas
+
+- **Texto primário:** Biblia Hebraica Stuttgartensia (BHS), 5ª ed. (Deutsche Bibelgesellschaft, 1997). Toda a aritmética genealógica deriva das cifras do TM.
+- **Léxicos:** HALOT (Hebrew and Aramaic Lexicon of the Old Testament); BDB (Brown-Driver-Briggs).
+- **Comentários:** Westermann, C., *Genesis 1--11* (Augsburg, 1984); Hamilton, V., *The Book of Genesis* (NICOT, 1990); Wenham, G., *Genesis 1--15* (WBC, 1987).
+- **Cronologia:** Hasel, G., "The Meaning of the Chronogenealogies of Genesis 5 and 11," *Origins* 7 (1980): 53--70.
+
+> **Proveniência editorial:** Redigido por Claude Opus 4.6 (contexto 1M) em 2026-04-27. Ainda não revisado. Este arquivo é um recurso acadêmico provisório governado pela Regra 29 da TT.
+
+**Nota:** O dilúvio ocorre em AM 1656 (Noé aos 600 anos, Gn 7:6). Pela aritmética do TM, Matusalém morre no ano do dilúvio. Lameque morre cinco anos antes do dilúvio. Adam morre em AM 930 — bem antes do dilúvio, mas sobrepondo-se ao tempo de vida de Lameque (nascido AM 874).

@@ -37,7 +37,12 @@
 | σταυρός (*stauros*) | cross/stake | cruz/estaca | Kreuz/Pfahl | cruz/estaca | Slash per Rule 2 at first occurrence with note on physical referent. The Greek denotes a vertical wooden implement. |
 | βάπτισμα (*baptisma*) | immersion | imersão | Untertauchen | inmersión | The Greek has clear semantic content: 'dipping/immersion.' Rule 4 transliteration threshold not met — the meaning is translatable. Note at first occurrence. |
 | παράκλητος (*parakletos*) | advocate | advogado | Beistand | abogado | NOT transliterated. Translate the meaning. Note semantic range (comforter/helper/advocate/called-alongside) in Tier 2. |
-| ψυχή (*psyche*) | life/being | vida/ser | Leben/Wesen | vida/ser | Maps to HB נֶפֶשׁ (*nephesh*). MUST match HB rendering Broader than English 'soul' has become in post-Platonic philosophical usage. Covers the whole living self.. |
+| ψυχή (*psyche*) | life/being | vida/ser | Leben/Wesen | vida/ser | Maps to HB נֶפֶשׁ (*nephesh*). MUST match HB rendering. Broader than English 'soul' has become in post-Platonic philosophical usage. Covers the whole living self. |
+| μονογενής (*monogenēs*) | only-born | unigênito | einziggeboren | único-nacido | NOT "only-begotten" in EN (imports *gennaō* etymology the Greek does not require). PT-BR retains "unigênito" (established locked decision — the morphology μόνος + γένος maps directly). Calque renderings for Transparent Edition source-transparency; Reader Edition may use more idiomatic alternatives. |
+| ζωὴ αἰώνιος (*zōē aiōnios*) | life of the age | vida da era | Leben des Zeitalters | vida de la era | NOT "eternal life" as default — *aiōnios* derives from *aiōn* (age/era). The rendering does not deny duration; it describes quality/character. Note at first occurrence. |
+| ἄνωθεν (*anōthen*) | from above/again | de cima/de novo | von oben/wieder | de arriba/de nuevo | Slash-eligible per Rule 2 at John 3:3 and 3:7 ONLY. The Greek is genuinely ambiguous between spatial ("from above") and temporal ("again/anew"). |
+| ὑψόω (*hypsoō*) | lift up | levantar | erhöhen | levantar | Double meaning: physical lifting AND exaltation. Both senses active in John (3:14, 8:28, 12:32–34). Track the double meaning across occurrences. |
+| πάσχα (*pascha*) | Pesach | Pesach | Pesach | Pesach | Governed exception via HB→GS cross-supplement alignment (Rule 16). Preserves Jewish festival continuity and avoids Easter anachronism in PT/ES (*Páscoa*/*Pascua* can mean Easter in modern usage). Note at first occurrence explains Greek πάσχα and Hebrew/Aramaic פֶּסַח background. NOT a general rule that Greek terms are rendered through Hebrew — future similar cases require their own editorial-log entries. |
 
 **Transliteration note:** Unlike the HB glossary (which transliterates *raqia*, *nephilim*, *tebah*, *gopher*, *mabbul*), no GS glossary term crosses the Rule 4 transliteration threshold. All Greek terms have clear semantic content that can be rendered in target languages. The GS glossary is about *which meaning* to render, not *whether to render*.
 
@@ -63,6 +68,62 @@ When the Greek Scriptures quote or allude to Hebrew Bible passages containing th
 - When quoting an OT passage that contains YHWH: note MUST identify the OT source and state that the underlying Hebrew has the Tetragrammaton.
 - When *kyrios* refers to Jesus or a human lord (not an OT YHWH quotation): no YHWH note needed.
 - The distinction must be tracked per verse. Ambiguous cases (where the referent of *kyrios* is debated) are flagged per Rule 13.
+
+---
+
+## GREEK ARTICLE SYSTEM (extends CORE Rule 17)
+
+Greek article presence and absence must be evaluated faithfully according to Greek syntax. Target-language articles should not be mechanically inserted or omitted where doing so creates false meaning. The Greek article does not map one-to-one onto English, Portuguese, German, or Spanish articles.
+
+### Articular vs. Anarthrous Nouns
+
+When the Greek text includes the article (ὁ, ἡ, τό), the noun is typically definite or previously identified. When the article is absent, the noun may be qualitative, indefinite, or definite by context. Translation must evaluate each case by Greek syntax, not by importing target-language article defaults.
+
+### Predicate Nominative Without Article
+
+When a predicate nominative lacks the article while the subject retains it, the predicate is typically qualitative — describing the nature or character of the subject, not identifying it as the same entity.
+
+**Key case — John 1:1c:** θεὸς ἦν ὁ λόγος (*theos ēn ho logos*). The article on λόγος identifies it as the subject; anarthrous θεός is the predicate. The construction asserts something about the *nature* of the logos, not a simple identity equation. Tier 2 note required explaining the grammatical significance (Colwell's rule, qualitative predicate).
+
+### Anarthrous Sacred/Theological Terms
+
+When Greek uses a theologically significant term without the article (e.g., πνεῦμα ἅγιον at Matt 1:18, 1:20), target-language translations that add an article (EN "the," DE "vom" = "von dem") must mark the addition per Rule 11 (italics for grammatical additions). German article contractions ("vom," "zum") that embed a definite article not present in the Greek are documented as grammatical necessity with Rule 11 marking.
+
+### Translation Principle
+
+The article distinction informs translation but does not alone determine theology. The presence or absence of the article is a grammatical feature to be faithfully represented, not a doctrinal lever to be pulled. When article status is theologically debated (e.g., John 1:1c, 1 John 5:20), a Tier 2 note explains the grammatical options without resolving the theological question.
+
+---
+
+## IOUDAIOI POLICY — οἱ Ἰουδαῖοι IN THE GREEK SCRIPTURES
+
+The term οἱ Ἰουδαῖοι (*hoi Ioudaioi*) appears with varying referential scope across the GS, particularly in the Gospel of John. This term has a documented history of anti-Jewish misuse in reception history. The TT handles it as follows:
+
+### Rendering
+
+Transliterate as **Yehudim** (*the Yehudim*) in all four target languages at every occurrence. This preserves the source-language term without importing either the neutral modern English "Jews" or the historically charged traditions of anti-Jewish translation.
+
+### Three-Sense Decision Tree
+
+At each occurrence, a Tier 2 note identifies which sense is active:
+
+| Sense | Description | Example |
+|-------|-------------|---------|
+| **A. Jerusalem authorities** | The term refers to the religious leadership in Jerusalem, particularly those opposing Jesus's claims. This is the most common Johannine usage. | John 1:19 — "the Yehudim sent priests and Levites from Yerushalayim" |
+| **B. Broader Jewish people** | The term refers to Jewish people generally, without specifically targeting leadership. | John 4:9 — "Yehudim do not associate with Samaritans" |
+| **C. Geographic/ethnic identifier** | The term functions as an ethnic or regional designation without negative connotation. | John 2:6 — "according to the purification of the Yehudim" |
+
+When the sense is ambiguous, the note states "sense debated" and lists the plausible readings per Rule 13.
+
+### Anti-Misuse Safeguard
+
+At first occurrence in each book, a Tier 2 note states: "The Greek term *hoi Ioudaioi* has been used in reception history to fuel anti-Jewish sentiment. The TT transliterates the term and identifies its referential scope at each occurrence. The term in its original context does not license blanket hostility toward Jewish people."
+
+### Locked Glossary Entry
+
+| Greek | English | Portuguese | German | Spanish | Policy Notes |
+|-------|---------|------------|--------|---------|-------------|
+| οἱ Ἰουδαῖοι (*hoi Ioudaioi*) | the Yehudim | os Yehudim | die Jehudim | los Yehudim | Transliterated. Tier 2 note at every occurrence identifies sense (A/B/C). Anti-misuse note at first occurrence per book. |
 
 ---
 
@@ -247,6 +308,40 @@ When a GS chapter contains substantive references to specific HB passages, inclu
 
 ---
 
+## PROPER-NAME TABLE — GREEK SCRIPTURES
+
+**Locked cross-language proper-name forms with familiar equivalents (v3.2).** Per CORE §Name Rendering Policy: first occurrence per section shows "Transliterated (Familiar)"; all subsequent occurrences use the familiar form only.
+
+Names shared with HB (Avraham, Mosheh, Yerushalayim, etc.) are governed by the HB table. This table covers names unique to or first appearing in GS scope.
+
+### Person Names
+
+| Greek | Transliterated | EN Familiar | PT Familiar | DE Familiar | ES Familiar |
+|-------|---------------|-------------|-------------|-------------|-------------|
+| Ἰωάννης (*Iōannēs*) | Yochanan | John | João | Johannes | Juan |
+| Ἰησοῦς (*Iēsous*) | Yeshua | Jesus | Jesus | Jesus | Jesús |
+| Κηφᾶς (*Kēphas*) | Kefa | Peter | Pedro | Petrus | Pedro |
+| Σίμων (*Simōn*) | Shimon | Simon | Simão | Simon | Simón |
+| Ἀνδρέας (*Andreas*) | Andreas | Andrew | André | Andreas | Andrés |
+| Φίλιππος (*Philippos*) | Philippos | Philip | Filipe | Philippus | Felipe |
+| Ναθαναήλ (*Nathanaēl*) | Nathanael | Nathanael | Natanael | Nathanael | Natanael |
+| Νικόδημος (*Nikodēmos*) | Nikodemos | Nicodemus | Nicodemos | Nikodemus | Nicodemo |
+| Ἰωσήφ (*Iōsēph*) | Yosef | Joseph | José | Josef | José |
+| Μαριάμ (*Mariam*) | Miryam | Mary | Maria | Maria | María |
+| Ἡρῴδης (*Hērōdēs*) | Herodes | Herod | Herodes | Herodes | Herodes |
+| Ἠλίας (*Ēlias*) | Eliyahu | Elijah | Elias | Elia | Elías |
+| Ἠσαΐας (*Ēsaias*) | Yeshayahu | Isaiah | Isaías | Jesaja | Isaías |
+
+### Place Names (GS-specific)
+
+| Greek | Transliterated | EN Familiar | PT Familiar | DE Familiar | ES Familiar |
+|-------|---------------|-------------|-------------|-------------|-------------|
+| Βηθανία (*Bēthania*) | Beyt-Anyah | Bethany | Betânia | Bethanien | Betania |
+| Βηθσαϊδά (*Bēthsaida*) | Beyt-Tsaidah | Bethsaida | Betsaida | Bethsaida | Betsaida |
+| Καφαρναούμ (*Kapharnaoum*) | Kfar Nachum | Capernaum | Cafarnaum | Kapernaum | Cafarnaún |
+
+---
+
 ## GS QUALITY CHECKLIST
 
 Before any GS chapter is marked for review:
@@ -281,3 +376,4 @@ Per-verse steps for Greek source text (parallel to HB workflow):
 
 **Version history:**
 - v3.0 (2026-04-28): All 10 structural decisions resolved. Glossary drafted (21 terms × 4 languages). Divine name policy adopted (Option C). Starting book declared (John). Ready for first verse.
+- v3.1 (2026-05-06): Emergency Amendment — audit-driven hardening. Added: Greek Article System (extends Rule 17), Ioudaioi Policy (hoi Ioudaioi three-sense decision tree + anti-misuse safeguard), 6 new glossary entries (monogenēs, zōē aiōnios, anōthen, hypsoō, pascha). Fixed ψυχή typo.

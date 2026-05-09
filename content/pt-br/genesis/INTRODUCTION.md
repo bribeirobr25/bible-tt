@@ -10,7 +10,7 @@
 **Livro:** Gênesis (בְּרֵאשִׁית, *Bereshit* — "No princípio")
 **Idioma:** Português Brasileiro
 **Introdução para:** `pt-br/genesis/` (Edição Transparente)
-**Regras:** v3.0 (Regra 29 governa este arquivo)
+**Regras:** v3.3 (Regra 29 governa este arquivo)
 **Status:** provisório
 
 ---
@@ -46,7 +46,7 @@ Este arquivo contém material de contextualização organizado por tópico. Cada
 ### A1. O que é Gênesis
 **[TEXTUAL — VERIFICADO]**
 
-Gênesis é o primeiro livro da Torá (Pentateuco) e da Bíblia Hebraica (Tanakh). Seu título hebraico בְּרֵאשִׁית (*Bereshit*) é extraído de sua palavra de abertura, significando "no princípio de." Seu título em português "Gênesis" deriva do grego Γένεσις (*Genesis*, "origem, vir a ser"), que é a tradução da Septuaginta para o tema do livro, e não uma tradução de seu nome hebraico.
+Gênesis é o primeiro livro da Torá (Pentateuco) e da Bíblia Hebraica (Tanakh). Seu título hebraico בְּרֵאשִׁית (*Bereshit*) é extraído de sua palavra de abertura, significando "no princípio de." Seu título em português "Gênesis" deriva do grego Γένεσις (*Genesis*, "origem, vir a ser"), que é a tradução da Septuaginta (a antiga tradução grega da Bíblia Hebraica, frequentemente abreviada LXX) para o tema do livro, e não uma tradução de seu nome hebraico.
 
 O livro contém cinquenta capítulos e funciona como o prólogo narrativo ao corpus legal da Torá. Não narra códigos de lei e não prescreve rituais — estabelece o mundo narrativo no qual a legislação sinaítica será entregue.
 
@@ -140,7 +140,7 @@ Essas observações não surgiram de hostilidade ao texto, mas da leitura atenta
 
 A partir da observação de Astruc sobre os nomes divinos, estudiosos do século XIX desenvolveram modelos de crítica das fontes do Pentateuco. A formulação clássica:
 
-**A Hipótese Documentária de Wellhausen (JEDP):**
+**A Hipótese Documentária (uma teoria acadêmica de que Gênesis foi compilado a partir de quatro fontes escritas separadas) de Wellhausen (JEDP):**
 
 | Fonte | Data aproximada | Características principais |
 |--------|-----------------|--------------|
@@ -282,24 +282,17 @@ Gênesis se envolve com questões que eram ativas em todas as culturas literári
 
 O texto hebraico de Gênesis foi transmitido por uma cadeia de cópia e cuidado editorial que se estendeu por mais de dois milênios:
 
-```
-Composição (data incerta)
-     ↓
-Tradições orais e/ou escritas
-     ↓
-Compilação editorial (período pré-exílico ao período persa)
-     ↓
-Cópias do período do Segundo Templo (séc. III a.C. – séc. I d.C.)
-  ├── Manuscritos do Mar Morto (Qumran, ca. 250 a.C. – 68 d.C.)
-  ├── Tradição do Pentateuco Samaritano (diverge ca. séc. II a.C.)
-  └── Tradução da Septuaginta (séc. III a.C., a partir de uma Vorlage hebraica)
-     ↓
-Padronização proto-masorética (séc. I–II d.C.)
-     ↓
-Tradição masorética (séc. VI–X d.C.)
-  ├── Códice de Alepo (ca. 930 d.C.)
-  └── Códice de Leningrado (1009 d.C.) → BHS → edições críticas padrão
-```
+- Composição (data incerta)
+- Tradições orais e/ou escritas
+- Compilação editorial (período pré-exílico ao período persa)
+- Cópias do período do Segundo Templo (séc. III a.C. – séc. I d.C.):
+  - Manuscritos do Mar Morto (Qumran, ca. 250 a.C. – 68 d.C.)
+  - Tradição do Pentateuco Samaritano (diverge ca. séc. II a.C.)
+  - Tradução da Septuaginta (séc. III a.C., a partir de uma Vorlage hebraica)
+- Padronização proto-masorética (séc. I–II d.C.)
+- Tradição masorética (séc. VI–X d.C.):
+  - Códice de Alepo (ca. 930 d.C.)
+  - Códice de Leningrado (1009 d.C.) → BHS → edições críticas padrão
 
 ### E2. Principais testemunhos manuscritos
 **[HISTÓRICO / ARQUEOLÓGICO — VERIFICADO]**
@@ -347,6 +340,11 @@ A divisão em cinco livros é antiga — a Septuaginta já a reflete — mas os 
 
 **Fonte:** Tov, *Textual Criticism of the Hebrew Bible* (3ª ed., 2012); Ulrich, *The Dead Sea Scrolls and the Origins of the Bible* (1999).
 
+### E6. Variação canônica entre tradições cristãs
+**[HISTÓRICO / ARQUEOLÓGICO — VERIFICADO]**
+
+O cânone da Bíblia Hebraica utilizado como texto-base da TT (BHS / Texto Masorético) reflete o cânone rabínico judaico, seguido também pelo protestantismo. Outras tradições cristãs incluem livros adicionais: os cânones católico e ortodoxo oriental incluem os livros deuterocanônicos (Tobias, Judite, Sabedoria de Salomão, Eclesiástico/Sirácide, Baruque, 1–2 Macabeus, acréscimos a Ester e Daniel). O cânone mais amplo da Igreja Ortodoxa Etíope Tewahedo inclui adicionalmente *1 Enoque*, *Jubileus* e vários outros textos. "O que conta como Bíblia" não está definido de forma uniforme em todo o cristianismo global. A literatura pseudepigráfica (textos antigos escritos sob nomes assumidos, como *Vida de Adão e Eva*, *1 Enoque*, *Caverna dos Tesouros*) é amplamente lida em contextos acadêmicos e populares, mas não é canônica na maioria das tradições. Para leitores que desejam se engajar diretamente com esses textos, as edições acadêmicas padrão com revisão por pares são Charlesworth, *The Old Testament Pseudepigrapha* (Doubleday, 1983–85), Nickelsburg-VanderKam, *1 Enoch* (Fortress Press, 2004), e Stone-Anderson, sinopse da literatura de Adão e Eva (SBL, 1999).
+
 ---
 
 ## F. Lendo Gênesis na TT
@@ -354,7 +352,7 @@ A divisão em cinco livros é antiga — a Septuaginta já a reflete — mas os 
 ### F1. Regras ativas com aplicações específicas para Gênesis
 **[TEXTUAL — VERIFICADO]**
 
-As seguintes regras do conjunto de regras da TT (v3.0) têm relevância particular para Gênesis:
+As seguintes regras do conjunto de regras da TT (v3.3) têm relevância particular para Gênesis:
 
 | Regra | Nome | Aplicação específica para Gênesis |
 |------|------|------------------------------|

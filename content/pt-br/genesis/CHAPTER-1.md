@@ -7,10 +7,11 @@
 **Texto Base:** Biblia Hebraica Stuttgartensia, 5ª ed. rev. (Stuttgart: Deutsche Bibelgesellschaft, 1997)
 **Edição:** Edição Transparente
 **Idioma:** Português Brasileiro
-**Metodologia:** Sistema de Governança de 29 Regras (Conjunto de Regras v3.0)
+**Metodologia:** Sistema de Governança de 29 Regras (Conjunto de Regras v3.3)
 **Política do Nome Divino (Regra 25):** Opção A — Consonantal (YHWH). Não acionada em Gênesis 1; declarada para Gênesis 2+.
 **Status:** provisório — aguardando revisão por pares (Regra 28)
 **Revisores:** Hebraísta: não atribuído | Editor PT: não atribuído | Alinhamento cruzado: não atribuído
+**Relação com Almeida (Regra CORE):** Opção B — Reconhecimento seletivo. Notam-se convergências/divergências em materiais suplementares.
 
 ---
 
@@ -42,9 +43,9 @@
 
 ## VISÃO GERAL DO CAPÍTULO
 
-**O que acontece:** Deus cria o mundo ordenado em seis dias e descansa no sétimo. A criação avança por meio da fala divina ("e Deus disse"), separação (luz/trevas, águas acima/abaixo, mar/terra), povoamento (vegetação, luminares, criaturas, humanos) e bênção (fertilidade, domínio, descanso).
+**O que acontece:** Deus cria o mundo ordenado em seis dias. A criação avança por meio da fala divina ("e Deus disse"), separação (luz/trevas, águas acima/abaixo, mar/terra), povoamento (vegetação, luminares, criaturas, humanos) e bênção (fertilidade, domínio). O capítulo termina no sexto dia; o descanso do sétimo dia aparece em 2:1–3.
 
-**Temas-chave:** Ordem a partir do caos (*tohu vavohu*); criação pela palavra; o *raqia* como estrutura cósmica; reprodução "segundo a sua espécie"; a humanidade à imagem (*tselem*) de Deus; dieta vegetariana atribuída; o descanso do sétimo dia.
+**Temas-chave:** Ordem a partir do caos (*tohu vavohu*); criação pela palavra; o *raqia* como estrutura cósmica; reprodução "segundo a sua espécie"; a humanidade à imagem (*tselem*) de Deus; dieta vegetariana atribuída.
 
 **Observe:** O refrão "e Deus viu que bom" (6x, depois "muito bom"); a mudança de "Deus" (*Elohim*) ao longo de todo o capítulo — YHWH não aparece até o Capítulo 2; o plural "façamos" (1:26); domínio sobre as criaturas, mas não sobre as águas como domínio cósmico.
 
@@ -89,7 +90,7 @@ Em princípio, Deus criou os céus e a terra.
 > 
 > 🟢 **TERMOS-CHAVE**
 > - **אֵת** (*et*) aparece 2x—marcador de objeto direto intraduzível, único ao hebraico
-> - **בָּרָא** (*bara*) = termo específico de criação divina, **possivelmente** criação do nada; distinto de **עָשָׂה** (*asah* = fazer/formar)
+> - **בָּרָא** (*bara*) = usado distintivamente para a ação criativa divina; seu escopo preciso (se implica criação do nada ou remodelação de material existente) é debatido (POSSÍVEL); distinto de **עָשָׂה** (*asah* = fazer/formar)
 > - **שָׁמַיִם** (*shamayim*) = céu físico (plural); NÃO "Céu" espiritual
 > - **אֶרֶץ** (*eretz*) = terra/solo; NÃO planeta "Terra"
 
@@ -175,7 +176,7 @@ E Deus fez o raqia, e separou entre as águas que debaixo do raqia e entre as á
 > **📝 NOTAS**
 > 
 > 🟢 **MUDANÇA DE VERBO**
-> - **בָּרָא** (*bara* = criou, v.1) vs. **עָשָׂה** (*asah* = fez, v.7)—ambos usados para ação divina; distinção **POSSÍVEL**: criação do nada vs. formação de material existente
+> - **בָּרָא** (*bara* = criou, v.1) vs. **עָשָׂה** (*asah* = fez, v.7)—ambos usados para ação divina; distinção **POSSÍVEL**: o escopo preciso de *bara* (se implica criação do nada ou remodelação de material existente) é debatido
 > 
 > 🔵 **FÓRMULA INTRODUZIDA**
 > - "E foi assim" (**וַיְהִי־כֵן**) aparece pela primeira vez; repete em vv.9, 11, 15, 24, 30
@@ -189,7 +190,7 @@ E Deus chamou ao raqia "Céu." E foi tarde, e foi manhã, segundo dia.
 > **📝 NOTAS**
 > 
 > 🔴 **CRÍTICO - RAQIA = IDENTIFICAÇÃO COM CÉU**
-> - Deus explicitamente identifica **raqia = shamayim (céu)**—confirma raqia refere-se ao céu/expansão visível acima, NÃO conceito abstrato ou camada cosmológica separada
+> - Deus explicitamente identifica **raqia = shamayim (céu)**—o texto confirma que *raqia* refere-se ao céu/expansão visível acima. O alcance semântico de *raqia* (da raiz "martelar/bater") permanece debatido; intérpretes antigos o entenderam variadamente como abóbada sólida, expansão atmosférica ou camada-limite. A nomeação aqui ancora o termo no domínio celeste sem resolver essas questões.
 > - Versículos subsequentes usando "raqia" (vv.14-20) mantêm esta identificação
 > 
 > 🔵 **DIA 2 ORDINAL**
@@ -430,7 +431,7 @@ E Deus disse: "Façamos *um* humano à nossa imagem, conforme a nossa semelhanç
 > 🔴 **IMAGEM & SEMELHANÇA**
 > - **צֶלֶם** (*tselem*) = imagem; **דְּמוּת** (*demut*) = semelhança
 > - Ambos = representação/semelhança; pareados para ênfase, NÃO significado idêntico
-> - **Referência cruzada:** O par reaparece em **Gn 5:1–3** onde se diz que Adão gerou Sete *"em sua semelhança, conforme a sua imagem"*—invertendo a ordem divino-humana para descendência humano-humana e encadeando a linguagem da criação através das gerações.
+> - **Referência cruzada:** O par reaparece em **Gn 5:3** — Adão gera Shet (Sete) "em sua semelhança, conforme a sua imagem," invertendo a ordem divino-humana para descendência humano-humana. Para discussão mais completa, veja o companheiro Seção A12b.
 > 
 > 🟢 **DOMÍNIO = GOVERNO FUNCIONAL**
 > - **רָדָה** (*radah*) = dominar/governar—autoridade funcional, **NÃO propriedade**
@@ -475,7 +476,7 @@ E Deus os abençoou, e Deus lhes disse: "Frutificai e multiplicai-vos, e enchei 
 > - **רָדָה** (*radah*) agora como imperativo—governo funcional sobre animais, NÃO propriedade absoluta
 >
 > 🔵 **REFERÊNCIA CRUZADA: REPETIÇÃO PÓS-DILÚVIO**
-> - O comando "frutificai e multiplicai-vos e enchei a terra" reaparece literalmente em **Gn 9:1** a Noé e seus filhos após o dilúvio—o mandato da criação renovado após a narrativa do dilúvio. A linguagem de domínio lá (Gn 9:2) muda de tom (animais *temem* humanos), e a permissão dietética se expande (Gn 9:3, carne permitida). Mesmo comando estrutural; relação ecológica alterada.
+> - O comando "frutificai e multiplicai-vos e enchei a terra" reaparece literalmente em **Gn 9:1** após o dilúvio — o mandato da criação renovado. A linguagem de domínio em 9:2 muda de tom (animais *temem* humanos) e a permissão dietética se expande (9:3). Para discussão mais completa, veja o companheiro Seção G5b.
 
 ---
 
@@ -562,7 +563,7 @@ E Deus viu tudo o que havia feito, e eis que muito bom. E foi tarde, e foi manh�
 
 **Fórmulas Travadas (Múltiplas Ocorrências):**
 - "E Deus disse..." (10x)
-- "E foi assim" (7x)
+- "E foi assim" (6x)
 - "E Deus viu que bom" (6x) + "muito bom" (1x em v.31)
 - "E foi tarde, e foi manhã, [X] dia" (6x)
 - "E Deus os abençoou" (2x: vv.22, 28)
@@ -597,10 +598,8 @@ Dispositivo poético hebraico mostrando geração interna:
 | v.25 | Animais terrestres | fez | *asah* |
 | v.27 | Humano (3x ênfase) | **criou** | *bara* |
 
-**Padrão:** *Bara* (criou) para criação inicial, seres vivos, humanos. *Asah* (fez) para raqia, luminares, animais terrestres. Distinção **POSSÍVEL**: criação do nada vs. formação.
+**Padrão:** *Bara* (criou) para criação inicial, seres vivos, humanos. *Asah* (fez) para raqia, luminares, animais terrestres. O escopo preciso de *bara* (se implica criação do nada ou remodelação de material existente) é debatido (POSSÍVEL).
 
 ---
 
 **FIM DE GÊNESIS 1 - A TRADUÇÃO TRANSPARENTE (PORTUGUÊS BRASILEIRO)**
-
-*"A versão menos desonesta que pudemos construir."*

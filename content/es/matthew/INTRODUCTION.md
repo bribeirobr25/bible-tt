@@ -10,8 +10,8 @@
 **Libro:** Mateo (Μαθθαῖος, *Maththaios*)
 **Idioma:** Español
 **Introducción a:** `es/matthew/` (Edición Transparente)
-**Reglas:** v3.0 (La Regla 29 gobierna este archivo)
-**Status:** borrador
+**Reglas:** v3.3 (La Regla 29 gobierna este archivo)
+**Status:** provisorio
 
 ---
 
@@ -46,22 +46,22 @@ Este archivo contiene material de contexto organizado por tema. Cada entrada lle
 ### A1. Qué es el Evangelio de Mateo
 **[TEXTUAL — VERIFICADO]**
 
-El Evangelio de Mateo es el primer libro del canon del Nuevo Testamento. Es el más judío de los cuatro Evangelios — profundamente enraizado en la Biblia Hebrea, estructurado alrededor de citas de cumplimiento, y preocupado por la observancia de la Torá, el papel de Israel y la identidad de Yeshua como el Mesías de la expectativa judía. Contiene 28 capítulos y aproximadamente 1.071 versículos.
+El Evangelio de Mateo es el primer libro del canon del Nuevo Testamento. Es el más judío de los cuatro Evangelios — profundamente enraizado en la Biblia Hebrea, estructurado alrededor de citas de cumplimiento, y preocupado por la observancia de la Torá, el papel de Israel y la identidad de Jesús como el Mesías de la expectativa judía. Contiene 28 capítulos y aproximadamente 1.071 versículos.
 
-Mateo comparte material sustancial con Marcos y Lucas (el "Problema Sinóptico") pero se distingue por su estructura organizativa, su énfasis en Yeshua como maestro y su extenso compromiso con las Escrituras Hebreas. Incluye material ausente de los otros Sinópticos: la genealogía que traza el linaje de Yeshua a través de David hasta Avraham (1:1--17), la narrativa del nacimiento con los sueños de Yosef y los magos (1:18--2:23), y bloques significativos de material de enseñanza único de Mateo.
+Mateo comparte material sustancial con Marcos y Lucas (el "Problema Sinóptico") pero se distingue por su estructura organizativa, su énfasis en Jesús como maestro y su extenso compromiso con las Escrituras Hebreas. Incluye material ausente de los otros Sinópticos: la genealogía que traza el linaje de Jesús a través de David hasta Abraham (1:1--17), la narrativa del nacimiento con los sueños de José y los magos (1:18--2:23), y bloques significativos de material de enseñanza único de Mateo.
 
 **Fuente:** Davies y Allison, *A Critical and Exegetical Commentary on the Gospel According to Saint Matthew* (ICC, 1988--1997), I.1--58; Luz, *Matthew* (Hermeneia, 2001--2007), I.1--20.
 
 ### A2. Estructura literaria — Cinco discursos
 **[TEXTUAL — VERIFICADO]**
 
-Mateo se organiza alrededor de cinco bloques de discurso principales, cada uno concluido por la fórmula "y sucedió cuando Yeshua terminó estas palabras/dichos" (καὶ ἐγένετο ὅτε ἐτέλεσεν ὁ Ἰησοῦς τοὺς λόγους τούτους, o variante). Esta estructura quíntuple ha sido ampliamente señalada desde B. W. Bacon (1918):
+Mateo se organiza alrededor de cinco bloques de discurso principales, cada uno concluido por la fórmula "y sucedió cuando Jesús terminó estas palabras/dichos" (καὶ ἐγένετο ὅτε ἐτέλεσεν ὁ Ἰησοῦς τοὺς λόγους τούτους, o variante). Esta estructura quíntuple ha sido ampliamente señalada desde B. W. Bacon (1918):
 
 **Discurso 1 — Sermón del Monte (capítulos 5--7):** Ética del reino. Las Bienaventuranzas, las antítesis ("han oído... pero yo les digo"), la Oración del Señor, instrucción sobre la justicia que excede la de los escribas y fariseos.
 
 **Discurso 2 — Discurso de Misión (capítulo 10):** Instrucciones a los doce apóstoles para su misión. Advertencias de persecución, seguridades de cuidado divino, el costo del discipulado.
 
-**Discurso 3 — Discurso de Parábolas (capítulo 13):** Siete parábolas del reino de los cielos — el sembrador, el trigo y la cizaña, la semilla de mostaza, la levadura, el tesoro escondido, la perla, la red. Enseñanza sobre por qué Yeshua habla en parábolas (13:10--17).
+**Discurso 3 — Discurso de Parábolas (capítulo 13):** Siete parábolas del reino de los cielos — el sembrador, el trigo y la cizaña, la semilla de mostaza, la levadura, el tesoro escondido, la perla, la red. Enseñanza sobre por qué Jesús habla en parábolas (13:10--17).
 
 **Discurso 4 — Discurso Comunitario (capítulo 18):** Instrucciones para la vida dentro de la comunidad de discípulos. El mayor en el reino, la oveja perdida, la corrección fraterna, el perdón (setenta veces siete), la parábola del siervo que no perdona.
 
@@ -76,13 +76,13 @@ Cada discurso está precedido por una sección narrativa, creando un ritmo de na
 
 El arco narrativo de Mateo se mueve a través de cuatro fases principales:
 
-**Orígenes y preparación (1:1--4:16):** Genealogía (1:1--17), narrativa del nacimiento (1:18--2:23), ministerio de Yochanan el Inmersor (3:1--12), inmersión y prueba de Yeshua (3:13--4:11), retirada a Galilea (4:12--16).
+**Orígenes y preparación (1:1--4:16):** Genealogía (1:1--17), narrativa del nacimiento (1:18--2:23), ministerio de Juan el Inmersor (3:1--12), inmersión y prueba de Jesús (3:13--4:11), retirada a Galileaea (4:12--16).
 
-**Ministerio galileo (4:17--16:20):** Enseñanza pública y sanación, comenzando con "Desde entonces Yeshua comenzó a proclamar" (4:17). Los cinco discursos caen principalmente dentro de esta sección. La confesión de Kefa en Cesarea de Filipo (16:13--20) marca un punto de inflexión.
+**Ministerio galileo (4:17--16:20):** Enseñanza pública y sanación, comenzando con "Desde entonces Jesús comenzó a proclamar" (4:17). Los cinco discursos caen principalmente dentro de esta sección. La confesión de Pedro en Cesarea de Filipo (16:13--20) marca un punto de inflexión.
 
-**Viaje a Yerushalayim y pasión (16:21--27:66):** Predicciones de la pasión, entrada en Yerushalayim, controversias en el templo, el discurso escatológico, la última cena, arresto, juicio, crucifixión, sepultura.
+**Viaje a Jerusalén y pasión (16:21--27:66):** Predicciones de la pasión, entrada en Jerusalén, controversias en el templo, el discurso escatológico, la última cena, arresto, juicio, crucifixión, sepultura.
 
-**Resurrección y comisión (28:1--20):** La tumba vacía, aparición a las mujeres, la Gran Comisión en el monte en Galilea.
+**Resurrección y comisión (28:1--20):** La tumba vacía, aparición a las mujeres, la Gran Comisión en el monte en Galileaea.
 
 **Fuente:** Kingsbury, *Matthew: Structure, Christology, Kingdom*, 7--25; Davies y Allison, *Matthew* (ICC), I.58--72.
 
@@ -121,7 +121,7 @@ La mayoría de los académicos contemporáneos dudan que el apóstol Mateo escri
 - **Referencia en tercera persona:** El llamado de Mateo (9:9) se narra en tercera persona, sin indicación de que el autor esté describiendo su propia experiencia.
 - **Indicadores post-70:** Referencias que presuponen la destrucción del Templo (ver C1) sitúan la composición después de los eventos que un apóstol habría podido antedatar.
 
-El autor fue probablemente un cristiano judío de habla griega con fuerte formación escribal, profundo conocimiento de las Escrituras Hebreas (tanto en hebreo como en formas de la LXX), y acceso al Evangelio de Marcos y a tradición adicional (Q o equivalente).
+El autor fue probablemente un cristiano judío de habla griega con fuerte formación escribal, profundo conocimiento de las Escrituras Hebreas (tanto en hebreo como en formas de la Septuaginta, la antigua traducción griega de la Biblia Hebrea, abreviada LXX), y acceso al Evangelio de Marcos y a tradición adicional (Q o equivalente).
 
 **Fuente:** Stendahl, *The School of St. Matthew* (1954); Luz, *Matthew* (Hermeneia), I.47--54; Hagner, *Matthew* (WBC, 1993--1995), I.lxxiii--lxxv.
 
@@ -152,7 +152,7 @@ Una minoría de académicos argumenta por una fecha pre-70, notando que 22:7 pod
 
 El Evangelio de Mateo refleja una comunidad judía en identidad pero cada vez más distinta del movimiento rabínico emergente. Indicadores clave:
 
-- **Afirmación de la Torá:** Yeshua declara que vino "no a abolir sino a cumplir" la Torá y los Profetas (5:17). Ni una iota ni un trazo pasará de la Torá (5:18). Los discípulos deben practicar y enseñar cada mandamiento (5:19). Esta postura positiva hacia la Torá distingue a Mateo del cristianismo gentil posterior, con su relación más ambivalente con la ley judía.
+- **Afirmación de la Torá:** Jesús declara que vino "no a abolir sino a cumplir" la Torá y los Profetas (5:17). Ni una iota ni un trazo pasará de la Torá (5:18). Los discípulos deben practicar y enseñar cada mandamiento (5:19). Esta postura positiva hacia la Torá distingue a Mateo del cristianismo gentil posterior, con su relación más ambivalente con la ley judía.
 - **Polémica anti-farisaica:** El capítulo 23 contiene el prolongado discurso "ay de ustedes, escribas y fariseos" — el material anti-farisaico más extenso de cualquier Evangelio. Esta polémica probablemente refleja competencia real entre la comunidad mateana y el movimiento farisaico/rabínico por el liderazgo del judaísmo post-Templo.
 - **"Sus sinagogas":** El uso consistente de "sus" señala que la comunidad del autor ya no está dentro de la sinagoga, aunque permanece en diálogo (y conflicto) con ella.
 
@@ -165,7 +165,7 @@ Una tradición académica significativa sitúa la composición de Mateo en Antio
 - Ignacio de Antioquía (c. 110 e.c.) parece conocer el Evangelio de Mateo, proporcionando un terminus ante quem consistente con composición antioquena.
 - La doble preocupación del Evangelio con la identidad judía y la misión gentil encaja con una comunidad mixta en un centro urbano importante.
 
-Esto sigue siendo una hipótesis — el Evangelio no nombra su lugar de composición, y otras ubicaciones (Galilea, Cesarea Marítima, Alejandría) han sido propuestas.
+Esto sigue siendo una hipótesis — el Evangelio no nombra su lugar de composición, y otras ubicaciones (Galileaea, Cesarea Marítima, Alejandría) han sido propuestas.
 
 **Fuente:** Meier, "Antioch," en Brown y Meier, *Antioch and Rome* (1983), 12--86; Sim, *The Gospel of Matthew and Christian Judaism* (1998).
 
@@ -174,7 +174,7 @@ Esto sigue siendo una hipótesis — el Evangelio no nombra su lugar de composic
 
 Mateo presupone un público lector con profunda familiaridad con las Escrituras y prácticas judías:
 
-- La genealogía (1:1--17) estructura el linaje de Yeshua a través de Avraham y David — figuras cuya importancia no requiere explicación.
+- La genealogía (1:1--17) estructura el linaje de Jesús a través de Abraham y David — figuras cuya importancia no requiere explicación.
 - Las citas de cumplimiento suponen que los lectores reconocerán los pasajes del AT y se interesarán por su realización.
 - Las costumbres judías se mencionan sin explicación (contraste Marcos 7:3--4, que explica el lavado de manos farisaico para una audiencia presumiblemente gentil).
 - El debate sobre la observancia de la Torá (5:17--20; 23:2--3) presupone una audiencia para quien la autoridad de la Torá es axiomática, no extraña.
@@ -190,28 +190,22 @@ Al mismo tiempo, la Gran Comisión (28:19--20) dirige la misión "a todas las na
 
 El texto griego del Evangelio de Mateo fue transmitido a través de la misma tradición manuscrita que los otros Evangelios:
 
-```
-Composición (c. 80--90 e.c.)
-     ↓
-Copias tempranas (siglos II--III e.c.)
-  ├── P1 (s. III) — Mt 1:1--9, 12, 14--20
-  ├── P45 (s. III) — porciones de los cuatro Evangelios + Hechos
-  ├── P64+67 (fines s. II) — Mt 3, 5, 26
-  └── P104 (s. II) — Mt 21:34--37, 43, 45
-     ↓
-Códices principales (siglos IV--V e.c.)
-  ├── Códice Sinaítico (א, s. IV)
-  ├── Códice Vaticano (B, s. IV)
-  ├── Códice Alejandrino (A, s. V)
-  └── Códice Bezae (D, s. V)
-     ↓
-Tradición bizantina (siglos V--XV)
-     ↓
-Ediciones impresas
-  ├── Erasmo (1516)
-  ├── Tradición del Textus Receptus (siglos XVI--XIX)
-  └── Ediciones críticas: NA28 / UBS5 (estándar actual)
-```
+- Composición (c. 80--90 e.c.)
+- Copias tempranas (siglos II--III e.c.):
+  - P1 (s. III) — Mt 1:1--9, 12, 14--20
+  - P45 (s. III) — porciones de los cuatro Evangelios + Hechos
+  - P64+67 (fines s. II) — Mt 3, 5, 26
+  - P104 (s. II) — Mt 21:34--37, 43, 45
+- Códices principales (siglos IV--V e.c.):
+  - Códice Sinaítico (א, s. IV)
+  - Códice Vaticano (B, s. IV)
+  - Códice Alejandrino (A, s. V)
+  - Códice Bezae (D, s. V)
+- Tradición bizantina (siglos V--XV)
+- Ediciones impresas:
+  - Erasmo (1516)
+  - Tradición del Textus Receptus (siglos XVI--XIX)
+  - Ediciones críticas: NA28 / UBS5 (estándar actual)
 
 ### E2. Testigos manuscritos clave
 **[HISTÓRICO / ARQUEOLÓGICO — VERIFICADO]**
@@ -229,7 +223,7 @@ Ediciones impresas
 ### E3. Estabilidad textual
 **[HISTÓRICO / ARQUEOLÓGICO — VERIFICADO]**
 
-El Evangelio de Mateo no tiene una disrupción textual comparable a la Perícopa de la Adúltera de Juan (Jn 7:53--8:11) o el final largo de Marcos (Mc 16:9--20). El texto es relativamente estable a través de la tradición manuscrita. Variantes notables incluyen:
+El Evangelio de Mateo no tiene una disrupción textual comparable al pasaje de la Adúltera de Juan (Jn 7:53--8:11) o el final largo de Marcos (Mc 16:9--20). El texto es relativamente estable a través de la tradición manuscrita. Variantes notables incluyen:
 
 - **Mt 1:16:** Algunos manuscritos siríacos antiguos leen "José, a quien estaba desposada María la virgen, engendró a Jesús" — una lectura que entra en conflicto con la narrativa del nacimiento virginal en 1:18--25. El texto griego estándar lee "José el esposo de María, de la cual fue nacido Jesús."
 - **Mt 27:16--17:** Algunos manuscritos dan el nombre del prisionero liberado como "Jesús Barrabás" (Ἰησοῦν Βαραββᾶν), lo cual Orígenes notó. Si "Jesús" es original (accidentalmente eliminado debido al nombre sagrado) o una adición escribal es debatido.
@@ -254,18 +248,18 @@ Según la política de transliteración de la TT, los nombres propios clave en M
 
 | Español tradicional | Forma TT | Original |
 |--------------------|----------|----------|
-| Jesús | Yeshua | Ἰησοῦς (*Iēsous*) ← hebreo/arameo יֵשׁוּעַ (*Yeshua*) |
-| María (madre) | Miryam | Μαρία/Μαριάμ (*Maria/Mariam*) ← hebreo מִרְיָם (*Miryam*) |
-| José | Yosef | Ἰωσήφ (*Iōsēph*) ← hebreo יוֹסֵף (*Yosef*) |
-| Juan el Bautista | Yochanan el Inmersor | Ἰωάννης (*Iōannēs*) ← hebreo יוֹחָנָן (*Yochanan*); βαπτιστής traducido como "Inmersor" según glosario fijado |
-| Abraham | Avraham | Ἀβραάμ (*Abraam*) ← hebreo אַבְרָהָם (*Avraham*) |
-| Isaac | Yitschaq | Ἰσαάκ (*Isaak*) ← hebreo יִצְחָק (*Yitschaq*) |
-| Jacob | Ya'aqov | Ἰακώβ (*Iakōb*) ← hebreo יַעֲקֹב (*Ya'aqov*) |
-| Judá | Yehudah | Ἰούδας (*Ioudas*) ← hebreo יְהוּדָה (*Yehudah*) |
+| Jesús | Jesús | Ἰησοῦς (*Iēsous*) ← hebreo/arameo יֵשׁוּעַ (*Jesús*) |
+| María (madre) | María | Μαρία/Μαριάμ (*Maria/Mariam*) ← hebreo מִרְיָם (*María*) |
+| José | José | Ἰωσήφ (*Iōsēph*) ← hebreo יוֹסֵף (*José*) |
+| Juan el Bautista | Juan el Inmersor | Ἰωάννης (*Iōannēs*) ← hebreo יוֹחָנָן (*Juan*); βαπτιστής traducido como "Inmersor" según glosario fijado |
+| Abraham | Abraham | Ἀβραάμ (*Abraam*) ← hebreo אַבְרָהָם (*Abraham*) |
+| Isaac | Isaac | Ἰσαάκ (*Isaak*) ← hebreo יִצְחָק (*Isaac*) |
+| Jacob | Jacob | Ἰακώβ (*Iakōb*) ← hebreo יַעֲקֹב (*Jacob*) |
+| Judá | Judá | Ἰούδας (*Ioudas*) ← hebreo יְהוּדָה (*Judá*) |
 | David | David | Δαυίδ (*Dauid*) ← hebreo דָּוִד (*David*) |
-| Salomón | Shelomoh | Σολομών (*Solomōn*) ← hebreo שְׁלֹמֹה (*Shelomoh*) |
+| Salomón | Salomón | Σολομών (*Solomōn*) ← hebreo שְׁלֹמֹה (*Salomón*) |
 | Herodes | Herodes | Ἡρῴδης (*Hērōdēs*) — nombre griego/latín, retenido en transliteración |
-| Pedro | Kefa | Κηφᾶς (*Kēphas*) ← arameo כֵּיפָא (*Kefa*, "roca"); griego Πέτρος (*Petros*) |
+| Pedro | Pedro | Κηφᾶς (*Kēphas*) ← arameo כֵּיפָא (*Pedro*, "roca"); griego Πέτρος (*Petros*) |
 
 ### F3. Citas del Antiguo Testamento — la fórmula de cumplimiento
 **[TEXTUAL — VERIFICADO]**
@@ -277,8 +271,8 @@ Citas de cumplimiento clave en la narrativa del nacimiento y los capítulos temp
 | Pasaje | Fuente AT | Contenido |
 |--------|-----------|-----------|
 | 1:22--23 | Is 7:14 | "La *parthenos* concebirá" — ver F4 abajo |
-| 2:5--6 | Miq 5:2 (+ 2 Sam 5:2) | Beyt-Lechem como lugar de nacimiento |
-| 2:15 | Os 11:1 | "De Mitsrayim llamé a mi hijo" |
+| 2:5--6 | Miq 5:2 (+ 2 Sam 5:2) | Belén como lugar de nacimiento |
+| 2:15 | Os 11:1 | "De Egipto llamé a mi hijo" |
 | 2:17--18 | Jer 31:15 | Raquel llorando por sus hijos |
 | 2:23 | Desconocido / compuesto | "Será llamado Natsri" |
 | 3:3 | Is 40:3 | Voz que clama en el desierto |
@@ -304,7 +298,7 @@ Cuando Mateo cita pasajes de la Biblia Hebrea que contienen el Tetragrama (YHWH)
 
 - El texto principal traduce *kyrios* como "el Señor" en contextos de citas del AT.
 - Una nota identifica la fuente del AT y declara que el hebreo subyacente tiene el Tetragrama.
-- Cuando *kyrios* se refiere a Yeshua o a un señor humano (no una cita del AT con YHWH), no se necesita nota de YHWH.
+- Cuando *kyrios* se refiere a Jesús o a un señor humano (no una cita del AT con YHWH), no se necesita nota de YHWH.
 - Los casos ambiguos se señalan según la Regla 13.
 
 Esto es particularmente relevante en Mateo dada la alta densidad de citas del AT. Instancias clave: 3:3 (citando Is 40:3); 4:7, 10 (citando Dt 6:16; 6:13); 22:37 (citando Dt 6:5); 22:44 (citando Sal 110:1).
@@ -314,15 +308,17 @@ Esto es particularmente relevante en Mateo dada la alta densidad de citas del AT
 
 | Regla | Nombre | Aplicación específica a Mateo |
 |-------|--------|-------------------------------|
-| 1 | Directiva Principal | No simplificar la estructura de la genealogía (tres conjuntos de catorce) ni resolver sus tensiones históricas. |
+| *(sin número)* | Directiva Principal | No simplificar la estructura de la genealogía (tres conjuntos de catorce) ni resolver sus tensiones históricas. No aplanar la fórmula de cumplimiento en un solo marco interpretativo. |
+| 1 | Consistencia Léxica Controlada | Términos del glosario fijado (*basileia*, *ekklesia*, *dikaiosynē*, *pascha*, etc.) se traducen consistentemente en todos los capítulos de Mateo según glosario GS. |
+| 2 | Preservación de Ambigüedad | Traducciones con barra preservan ambigüedad genuina del griego en vez de elegir un sentido. |
 | 3 | No importar teología | La narrativa del nacimiento se traduce tal como el texto la presenta — sin importar teología mariana posterior ni desestimar la narrativa como mito. Restricción en ambos sentidos. |
-| 4 | No paráfrasis interpretativa | "Reino de los cielos" traducido literalmente, no parafraseado como "reino celestial" o "reino de Dios." |
-| 7 | Preservar rango semántico | *Parthenos* en 1:23 lleva su rango semántico griego completo (joven mujer/virgen); anotado en vez de colapsado. |
+| 4 | Transliterar Términos Estratégicos | "Reino de los cielos" traducido literalmente, no parafraseado como "reino celestial" o "reino de Dios." Umbral de la Regla 4 no superado para βασιλεία. |
+| 7 | Preservar Estructura Paralela | La estructura quíntuple de discursos y el patrón recurrente de la fórmula de cumplimiento se preservan entre capítulos. *Parthenos* en 1:23 lleva su rango semántico griego completo. |
 | 11 | Marcar adiciones gramaticales | Palabras agregadas para la gramática española aparecen en cursiva. |
-| 13 | Niveles de incertidumbre | Términos debatidos y cuestiones genealógicas llevan etiquetas de confianza. |
-| 14 | Notas del texto fuente | Términos griegos clave preservados en transliteración donde son semánticamente significativos. |
-| 22 | Sin encabezados de sección interpretativos | Las divisiones de sección no imponen una lectura sobre el texto. |
-| 25 | YHWH traducido consonánticamente | Aplicado en contextos de citas del AT según la Política del Nombre Divino (F5). |
+| 13 | Niveles de incertidumbre | Términos debatidos y cuestiones genealógicas llevan etiquetas de confianza (Probable / Posible / Incierto). |
+| 14 | Anotar Juegos de Palabras | Términos griegos clave anotados en Nivel 2 donde campo semántico o juego de palabras es significativo. |
+| 22 | Restricción Textual-Crítica | Variantes textuales (ej., Mt 1:16 variante siríaca, Mt 27:16-17 "Jesús Barrabás") anotadas en Nivel 2 sin adopción silenciosa. |
+| 25 | Política del Nombre Divino — GS aplica Opción C | κύριος traducido como "el Señor" en contextos de cita del AT, con nota en Nivel 2 identificando YHWH en el hebreo subyacente. Ver Política del Nombre Divino (F5). |
 
 ---
 

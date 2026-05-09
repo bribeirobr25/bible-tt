@@ -7,10 +7,11 @@
 **Texto Base:** Biblia Hebraica Stuttgartensia, 5a ed. rev. (Stuttgart: Deutsche Bibelgesellschaft, 1997)
 **Edición:** Edición Transparente
 **Idioma:** Español
-**Metodología:** Sistema de Gobernanza de 29 Reglas (Reglas v3.0)
+**Metodología:** Sistema de Gobernanza de 29 Reglas (Reglas v3.3)
 **Política del Nombre Divino (Regla 25):** Opción A — Consonantal (YHWH).
-**Status:** borrador — pendiente de revisión por pares (Regla 28)
-**Revisores:** Hebraista: no asignado | Editor ES: no asignado | Alineación cruzada: no asignado
+**Status:** provisorio — pendiente de revisión por pares (Regla 28)
+**Revisores:** Hebraísta: no asignado | Editor ES: no asignado | Alineación cruzada: no asignado
+**Relación con Reina-Valera (Regla CORE):** Opción B — Reconocimiento selectivo. Se notan convergencias/divergencias en materiales suplementarios.
 
 ---
 
@@ -38,19 +39,19 @@
 - 🔵 **GRAMATICAL** - Estructura hebrea, formas verbales, sintaxis
 - 🟡 **TEOLÓGICO** - Opciones interpretativas, preservación de ambigüedad
 
-**Este capítulo contiene la narrativa de la Torre de Bavel (11:1–9) y la genealogía de Sem (11:10–32).** La narrativa de Bavel completa la historia primordial con una segunda dispersión — la primera fue geográfica (Cap. 10, tabla de naciones); esta es lingüística. El "hagamos" (*havah*) humano de 11:3–4 hace eco del "hagamos" de Dios en 1:26 — pero dirigido hacia la auto-elevación. La genealogía tiende un puente entre la historia primordial y las narrativas patriarcales: diez generaciones de Sem a Avram, con esperanzas de vida que declinan de 600 a 205. El *toledot* de Teraj (11:27) introduce a Avram, y el capítulo termina a mitad de camino — la familia sale de Ur hacia Kenaan pero se detiene en Jarán.
+**Este capítulo contiene la narrativa de la Torre de Bavel (11:1–9) y la genealogía de Sem (11:10–32).** La narrativa de Bavel completa la historia primordial con una segunda dispersión — la primera fue geográfica (Cap. 10, tabla de naciones); esta es lingüística. El "hagamos" (*havah*) humano de 11:3–4 hace eco del "hagamos" de Dios en 1:26 — pero dirigido hacia la auto-elevación. La genealogía tiende un puente entre la historia primordial y las narrativas patriarcales: diez generaciones de Sem a Avram (Abrán), con esperanzas de vida que declinan de 600 a 205. El *toledot* de Teraj (Taré) (11:27) introduce a Abrán, y el capítulo termina a mitad de camino — la familia sale de Ur hacia Kenaan (Canaán) pero se detiene en Jarán.
 
 ---
 
 ## VISIÓN GENERAL DEL CAPÍTULO
 
-**Qué sucede:** Toda la tierra tiene un solo labio y unas mismas palabras. La humanidad migra hacia el oriente a la llanura de Shinar, donde deciden construir una ciudad y una torre con su cúspide en los cielos, para "hacerse un nombre" y evitar ser dispersados. YHWH desciende para ver la ciudad y la torre, observa que "nada les será vedado," confunde su labio y los dispersa — el mismísimo resultado que temían. La ciudad es llamada Bavel, porque allí YHWH confundió (*balal*) el labio de toda la tierra. Luego la genealogía de Sem traza diez generaciones con esperanzas de vida declinantes: Sem → Arpakhshad → Shelaj → Ever → Peleg → Re'u → Serug → Najor → Teraj → Avram. El *toledot* de Teraj introduce a Avram, Najor y Harán; registra la muerte de Harán en Ur de los Kasdim; nota la esterilidad de Sarai; y termina con Teraj llevando a la familia de Ur hacia Kenaan — pero asentándose en Jarán, donde Teraj muere.
+**Qué sucede:** Toda la tierra tiene un solo labio y unas mismas palabras. La humanidad migra hacia el oriente a la llanura de Shinar, donde deciden construir una ciudad y una torre con su cúspide en los cielos, para "hacerse un nombre" y evitar ser dispersados. YHWH desciende para ver la ciudad y la torre, observa que "nada les será vedado," confunde su labio y los dispersa — el mismísimo resultado que temían. La ciudad es llamada Bavel, porque allí YHWH confundió (*balal*) el labio de toda la tierra. Luego la genealogía de Sem traza diez generaciones con esperanzas de vida declinantes: Sem → Arpakhshad → Shelaj → Ever → Peleg → Re'u → Serug → Najor (Nacor) → Taré → Abrán. El *toledot* de Taré introduce a Abrán, Nacor y Harán; registra la muerte de Harán en Ur de los Kasdim; nota la esterilidad de Sarai; y termina con Taré llevando a la familia de Ur hacia Canaán — pero asentándose en Jarán, donde Taré muere.
 
 **Temas clave:** Unidad humana y disrupción divina; el "hagamos" de la humanidad (11:3–4) reflejando e invirtiendo el "hagamos" de Dios (1:26); la reversión irónica — construyen para evitar la dispersión y son dispersados; el juego de palabras Bavel/balal; la torre "en los cielos" (*ba-shamayim* — misma palabra que Gn 1:1); *shem* (nombre) como tanto la meta de los constructores como el nombre personal Sem; la genealogía como puente de lo primordial a lo patriarcal; esperanzas de vida declinantes señalando un mundo cambiante; la esterilidad de Sarai como problema narrativo que impulsará Gn 12+.
 
 **Observe:** *Havah* ("vengan/hagamos") aparece tres veces — dos de los humanos (11:3, 11:4) y una de YHWH (11:7), reflejando estructuralmente la iniciativa humana; "YHWH descendió" (11:5) — lenguaje antropomórfico: la torre que alcanza los cielos aún requiere que Dios *descienda* para verla; el cambio de *Elohim* (genealogía) a *YHWH* (narrativa de Bavel) sigue el patrón establecido de nombres divinos; el nombre de Peleg significa "división" (10:25) — su generación es cuando la tierra fue dividida; la fórmula genealógica coincide con Gn 5 pero omite "y murió" de la mayoría de las entradas.
 
-**Conexión:** La dispersión en Bavel distribuye las naciones listadas en la tabla de naciones (Cap. 10). El llamado de Avram (Gn 12:1–3) responde directamente a la crisis de Bavel: donde la humanidad buscó "hacerse un nombre" (*shem*) y fue dispersada, Dios "engrandecerá" el nombre (*shem*) de Avram y a través de él bendecirá "a todas las familias del suelo." El viaje de Ur a Kenaan, dejado incompleto en 11:31, se reanuda en 12:4–5.
+**Conexión:** La dispersión en Bavel distribuye las naciones listadas en la tabla de naciones (Cap. 10). El llamado de Abrán (Gn 12:1–3) responde directamente a la crisis de Bavel: donde la humanidad buscó "hacerse un nombre" (*shem*) y fue dispersada, Dios "engrandecerá" el nombre (*shem*) de Abrán y a través de él bendecirá "a todas las familias del suelo." El viaje de Ur a Canaán, dejado incompleto en 11:31, se reanuda en 12:4–5.
 
 ---
 
@@ -76,13 +77,13 @@
 
 ²⁰Y Re'u vivió treinta y dos años, y engendró a Serug. ²¹Y Re'u vivió después de engendrar a Serug doscientos siete años, y engendró hijos e hijas.
 
-²²Y Serug vivió treinta años, y engendró a Najor. ²³Y Serug vivió después de engendrar a Najor doscientos años, y engendró hijos e hijas.
+²²Y Serug vivió treinta años, y engendró a Nacor. ²³Y Serug vivió después de engendrar a Nacor doscientos años, y engendró hijos e hijas.
 
-²⁴Y Najor vivió veintinueve años, y engendró a Teraj. ²⁵Y Najor vivió después de engendrar a Teraj ciento diecinueve años, y engendró hijos e hijas.
+²⁴Y Nacor vivió veintinueve años, y engendró a Taré. ²⁵Y Nacor vivió después de engendrar a Taré ciento diecinueve años, y engendró hijos e hijas.
 
-²⁶Y Teraj vivió setenta años, y engendró a Avram, Najor y Harán.
+²⁶Y Taré vivió setenta años, y engendró a Abrán, Nacor y Harán.
 
-²⁷Y estas *son* las generaciones de Teraj. Teraj engendró a Avram, Najor y Harán; y Harán engendró a Lot. ²⁸Y Harán murió en presencia de Teraj su padre, en la tierra de su nacimiento, en Ur de los Kasdim. ²⁹Y Avram y Najor tomaron para sí esposas; el nombre de la esposa de Avram *fue* Sarai, y el nombre de la esposa de Najor *fue* Milkah, hija de Harán, padre de Milkah y padre de Yiskah. ³⁰Y Sarai era estéril; no tenía hijo. ³¹Y Teraj tomó a Avram su hijo, y a Lot hijo de Harán, su nieto, y a Sarai su nuera, la esposa de Avram su hijo; y salieron con ellos de Ur de los Kasdim para ir a la tierra de Kenaan; y llegaron hasta Jarán, y se asentaron allí. ³²Y los días de Teraj fueron doscientos cinco años, y Teraj murió en Jarán.
+²⁷Y estas *son* las generaciones de Taré. Taré engendró a Abrán, Nacor y Harán; y Harán engendró a Lot. ²⁸Y Harán murió en presencia de Taré su padre, en la tierra de su nacimiento, en Ur de los Kasdim. ²⁹Y Abrán y Nacor tomaron para sí esposas; el nombre de la esposa de Abrán *fue* Sarai, y el nombre de la esposa de Nacor *fue* Milkah, hija de Harán, padre de Milkah y padre de Yiskah. ³⁰Y Sarai era estéril; no tenía hijo. ³¹Y Taré tomó a Abrán su hijo, y a Lot hijo de Harán, su nieto, y a Sarai su nuera, la esposa de Abrán su hijo; y salieron con ellos de Ur de los Kasdim para ir a la tierra de Canaán; y llegaron hasta Jarán, y se asentaron allí. ³²Y los días de Taré fueron doscientos cinco años, y Taré murió en Jarán.
 
 ---
 
@@ -93,6 +94,9 @@
 Y toda la tierra era *de* un solo labio y unas mismas palabras.
 
 > **📝 NOTAS**
+>
+> 🟡 **NIVEL 2 — NOTA DE RECEPCIÓN**
+> - La narrativa de Babel no debe leerse como una condena general de la tecnología, la civilización urbana o la diversidad lingüística. Vea el compañero Sección F para contexto histórico sobre lecturas erróneas documentadas.
 >
 > 🔴 **CRÍTICO — "UN SOLO LABIO" (*saphah ejat*)**
 > - **שָׂפָה אֶחָת וּדְבָרִים אֲחָדִים** = "un labio y unas/mismas palabras." El hebreo usa *saphah* (labio), no *lashon* (lengua/idioma). Regla 1: traduzca lo que el texto dice. "Labio" es el vehículo — lengua es el tenor. La TT rinde "labio" para preservar la metáfora corporal hebrea. La mayoría de traducciones aplanan esto a "idioma."
@@ -149,7 +153,7 @@ Y dijeron: "Vengan, edifiquemos para nosotros una ciudad y una torre, y su cúsp
 > - **וְרֹאשׁוֹ בַשָּׁמַיִם** = "y su cúspide en los cielos." *Shamayim* — la misma palabra que Gn 1:1 ("En el principio Dios creó los cielos y la tierra"). La torre aspira a alcanzar los *shamayim* — el dominio que pertenece al acto creativo de Dios. Si esto es hipérbole, ambición o sacrilegio, el texto no lo dice — registra la aspiración.
 >
 > 🔴 **"HAGÁMONOS UN NOMBRE" (*na'aseh lanu shem*)**
-> - **נַעֲשֶׂה־לָּנוּ שֵׁם** = "hagámonos un nombre (*shem*)." Múltiples niveles: (1) *shem* = nombre/reputación — buscan fama; (2) *shem* es el nombre personal Sem, hijo de Noaj — la misma palabra; (3) *na'aseh* ("hagamos") hace eco del *na'aseh* de Dios ("hagamos") en Gn 1:26 ("hagamos un humano a nuestra imagen"). El "hagamos" humano busca rivalizar con el "hagamos" divino.
+> - **נַעֲשֶׂה־לָּנוּ שֵׁם** = "hagámonos un nombre (*shem*)." Múltiples niveles: (1) *shem* = nombre/reputación — buscan fama; (2) *shem* es el nombre personal Sem, hijo de Noé — la misma palabra; (3) *na'aseh* ("hagamos") hace eco del *na'aseh* de Dios ("hagamos") en Gn 1:26 ("hagamos un humano a nuestra imagen"). El "hagamos" humano busca rivalizar con el "hagamos" divino.
 >
 > 🟡 **"NO SEA QUE SEAMOS DISPERSADOS" (*pen naphuts*)**
 > - **פֶּן־נָפוּץ** = "no sea que seamos dispersados." La ironía es total: lo mismo que construyen para prevenir (dispersión) es lo que Dios les hace (11:8–9). El temor nombra el resultado. Nótese también: el mandato de Dios fue "llenar la tierra" (Gn 1:28, 9:1) — su resistencia a la dispersión es resistencia al mandato divino.
@@ -242,7 +246,7 @@ Estas *son* las generaciones de Sem. Sem tenía cien años, y engendró a Arpakh
 > - **אֵלֶּה תּוֹלְדֹת שֵׁם** = "Estas *son* las generaciones de Sem." La quinta fórmula *toledot* en Génesis (después de 2:4, 5:1, 6:9, 10:1). Esta genealogía es paralela a Gn 5 en estructura pero con diferencias clave: las esperanzas de vida son más cortas y declinantes, y el estribillo "y murió" está ausente de la mayoría de las entradas.
 >
 > 🔵 **"DOS AÑOS DESPUÉS DEL DILUVIO"**
-> - **שְׁנָתַיִם אַחַר הַמַּבּוּל** = "dos años después del diluvio." Esto crea una tensión aritmética: si Sem tenía 100 dos años después del diluvio, y Noaj tenía 600 en el diluvio (7:6), entonces Noaj tenía 502 cuando nació Sem — pero 5:32 dice que Noaj tenía 500 cuando engendró a Sem. La discrepancia de dos años se nota, no se resuelve.
+> - **שְׁנָתַיִם אַחַר הַמַּבּוּל** = "dos años después del diluvio." Esto crea una tensión aritmética: si Sem tenía 100 dos años después del diluvio, y Noé tenía 600 en el diluvio (7:6), entonces Noé tenía 502 cuando nació Sem — pero 5:32 dice que Noé tenía 500 cuando engendró a Sem. La discrepancia de dos años se nota, no se resuelve.
 
 ---
 
@@ -253,7 +257,7 @@ Y Sem vivió después de engendrar a Arpakhshad quinientos años, y engendró hi
 > **📝 NOTAS**
 >
 > 🔵 **FÓRMULA GENEALÓGICA — MODIFICADA**
-> - La fórmula de Gn 11 difiere de Gn 5: (1) no se declara la esperanza de vida total; (2) "y murió" está ausente. La fórmula es: "X vivió Y años, engendró a Z. X vivió después de engendrar a Z, W años, engendró hijos e hijas." La compresión señala una transición — el narrador se dirige hacia Avram.
+> - La fórmula de Gn 11 difiere de Gn 5: (1) no se declara la esperanza de vida total; (2) "y murió" está ausente. La fórmula es: "X vivió Y años, engendró a Z. X vivió después de engendrar a Z, W años, engendró hijos e hijas." La compresión señala una transición — el narrador se dirige hacia Abrán.
 
 ---
 
@@ -288,7 +292,7 @@ Y Ever vivió treinta y cuatro años, y engendró a Peleg.
 > **📝 NOTAS**
 >
 > 🟢 **EVER (*Ever*)**
-> - **עֵבֶר** = Ever/Eber. El antepasado epónimo de los *Ivrim* (Hebreos). El nombre está relacionado con la raíz *avar* (cruzar, pasar a través). "Hebreo" (*Ivrí*) probablemente significa "el que cruzó" — una designación que se aplicará a Avram (Gn 14:13, "Avram el hebreo").
+> - **עֵבֶר** = Ever/Eber. El antepasado epónimo de los *Ivrim* (Hebreos). El nombre está relacionado con la raíz *avar* (cruzar, pasar a través). "Hebreo" (*Ivrí*) probablemente significa "el que cruzó" — una designación que se aplicará a Abrán (Gn 14:13, "Abrán el hebreo").
 
 ---
 
@@ -334,25 +338,25 @@ Y Re'u vivió después de engendrar a Serug doscientos siete años, y engendró 
 
 ### **Versículo 22**
 
-Y Serug vivió treinta años, y engendró a Najor.
+Y Serug vivió treinta años, y engendró a Nacor.
 
 ---
 
 ### **Versículo 23**
 
-Y Serug vivió después de engendrar a Najor doscientos años, y engendró hijos e hijas.
+Y Serug vivió después de engendrar a Nacor doscientos años, y engendró hijos e hijas.
 
 ---
 
 ### **Versículo 24**
 
-Y Najor vivió veintinueve años, y engendró a Teraj.
+Y Nacor vivió veintinueve años, y engendró a Taré.
 
 ---
 
 ### **Versículo 25**
 
-Y Najor vivió después de engendrar a Teraj ciento diecinueve años, y engendró hijos e hijas.
+Y Nacor vivió después de engendrar a Taré ciento diecinueve años, y engendró hijos e hijas.
 
 > **📝 NOTAS**
 >
@@ -363,40 +367,40 @@ Y Najor vivió después de engendrar a Teraj ciento diecinueve años, y engendr�
 
 ### **Versículo 26**
 
-Y Teraj vivió setenta años, y engendró a Avram, Najor y Harán.
+Y Taré vivió setenta años, y engendró a Abrán, Nacor y Harán.
 
 > **📝 NOTAS**
 >
 > 🔴 **CRÍTICO — TRES HIJOS**
-> - El patrón hace eco de Gn 5:32 ("Noaj... engendró a Sem, Cam y Yafet"). Ambas genealogías terminan con un padre que produce tres hijos nombrados. Los tres hijos de Noaj poblaron el mundo postdiluviano; los tres hijos de Teraj poblarán las narrativas patriarcales.
+> - El patrón hace eco de Gn 5:32 ("Noé... engendró a Sem, Cam y Jafet"). Ambas genealogías terminan con un padre que produce tres hijos nombrados. Los tres hijos de Noé poblaron el mundo postdiluviano; los tres hijos de Taré poblarán las narrativas patriarcales.
 >
-> 🟢 **AVRAM (*Avram*)**
-> - **אַבְרָם** = Avram, que significa "padre exaltado." Todavía no Avraham — el cambio de nombre ocurre en Gn 17:5. La TT rinde el nombre tal como aparece en el texto en este punto.
+> 🟢 **AVRAM (*Abrán*)**
+> - **אַבְרָם** = Abrán, que significa "padre exaltado." Todavía no Abraham — el cambio de nombre ocurre en Gn 17:5. La TT rinde el nombre tal como aparece en el texto en este punto.
 
 ---
 
 ### **Versículo 27**
 
-Y estas *son* las generaciones de Teraj. Teraj engendró a Avram, Najor y Harán; y Harán engendró a Lot.
+Y estas *son* las generaciones de Taré. Taré engendró a Abrán, Nacor y Harán; y Harán engendró a Lot.
 
 > **📝 NOTAS**
 >
 > 🔴 ***TOLEDOT* — "GENERACIONES DE TERAJ"**
-> - **אֵלֶּה תּוֹלְדוֹת תֶּרַח** = "estas son las generaciones de Teraj." La sexta fórmula *toledot*. Nota: el *toledot* es de **Teraj**, no de Avram — la narrativa patriarcal comienza bajo el encabezado del padre, así como Gn 6:9 comenzó la narrativa de Noaj bajo su propio *toledot*.
+> - **אֵלֶּה תּוֹלְדוֹת תֶּרַח** = "estas son las generaciones de Taré." La sexta fórmula *toledot*. Nota: el *toledot* es de **Taré**, no de Abrán — la narrativa patriarcal comienza bajo el encabezado del padre, así como Gn 6:9 comenzó la narrativa de Noé bajo su propio *toledot*.
 >
 > 🟢 **HARÁN (*Harán*)**
-> - **הָרָן** = Harán, hijo de Teraj. No es la misma palabra que **חָרָן** (Jarán), la ciudad — consonantes iniciales diferentes (ה vs. ח). La TT distingue las dos: Harán (persona) vs. Jarán (ciudad).
+> - **הָרָן** = Harán, hijo de Taré. No es la misma palabra que **חָרָן** (Jarán), la ciudad — consonantes iniciales diferentes (ה vs. ח). La TT distingue las dos: Harán (persona) vs. Jarán (ciudad).
 
 ---
 
 ### **Versículo 28**
 
-Y Harán murió en presencia de Teraj su padre, en la tierra de su nacimiento, en Ur de los Kasdim.
+Y Harán murió en presencia de Taré su padre, en la tierra de su nacimiento, en Ur de los Kasdim.
 
 > **📝 NOTAS**
 >
 > 🔴 **"MURIÓ EN PRESENCIA DE" (*al penei*)**
-> - **עַל־פְּנֵי תֶּרַח אָבִיו** = "sobre el rostro de / en presencia de Teraj su padre." Harán muere *antes que* su padre — la primera vez registrada que un hijo muere antes que un padre en Génesis. La frase *al penei* ("sobre el rostro de") puede significar "durante la vida de" o "ante los ojos de." El texto marca esto como una inversión del orden natural.
+> - **עַל־פְּנֵי תֶּרַח אָבִיו** = "sobre el rostro de / en presencia de Taré su padre." Harán muere *antes que* su padre — la primera vez registrada que un hijo muere antes que un padre en Génesis. La frase *al penei* ("sobre el rostro de") puede significar "durante la vida de" o "ante los ojos de." El texto marca esto como una inversión del orden natural.
 >
 > 🟢 **"UR DE LOS KASDIM" (*Ur Kasdim*)**
 > - **אוּר כַּשְׂדִּים** = Ur de los Kasdim (Caldeos). Ur es la ciudad sumeria en Mesopotamia meridional. *Kasdim* = Caldeos — una designación anacrónica (los Caldeos surgen más tarde), aplicada retrospectivamente para identificar la ubicación para la audiencia.
@@ -405,7 +409,7 @@ Y Harán murió en presencia de Teraj su padre, en la tierra de su nacimiento, e
 
 ### **Versículo 29**
 
-Y Avram y Najor tomaron para sí esposas; el nombre de la esposa de Avram *fue* Sarai, y el nombre de la esposa de Najor *fue* Milkah, hija de Harán, padre de Milkah y padre de Yiskah.
+Y Abrán y Nacor tomaron para sí esposas; el nombre de la esposa de Abrán *fue* Sarai, y el nombre de la esposa de Nacor *fue* Milkah, hija de Harán, padre de Milkah y padre de Yiskah.
 
 > **📝 NOTAS**
 >
@@ -413,7 +417,7 @@ Y Avram y Najor tomaron para sí esposas; el nombre de la esposa de Avram *fue* 
 > - **שָׂרַי** = Sarai, que significa "mi princesa" o "princesa." Todavía no Sarah — el cambio de nombre ocurre en Gn 17:15.
 >
 > 🟢 **MILKAH (*Milkah*)**
-> - **מִלְכָּה** = Milkah, que significa "reina" (de la raíz *m-l-k*, rey/reinar). Ella es la esposa de Najor y también hija de Harán — Najor se casa con su sobrina. Este matrimonio dentro de la familia se registra sin evaluación.
+> - **מִלְכָּה** = Milkah, que significa "reina" (de la raíz *m-l-k*, rey/reinar). Ella es la esposa de Nacor y también hija de Harán — Nacor se casa con su sobrina. Este matrimonio dentro de la familia se registra sin evaluación.
 >
 > 🟢 **YISKAH (*Yiskah*)**
 > - **יִסְכָּה** = Yiskah. Mencionada una vez y nunca más. La tradición rabínica identifica a Yiskah con Sarai (Meguilá 14a), pero el texto no hace esta identificación.
@@ -433,32 +437,32 @@ Y Sarai era estéril; no tenía hijo.
 
 ### **Versículo 31**
 
-Y Teraj tomó a Avram su hijo, y a Lot hijo de Harán, su nieto, y a Sarai su nuera, la esposa de Avram su hijo; y salieron con ellos de Ur de los Kasdim para ir a la tierra de Kenaan; y llegaron hasta Jarán, y se asentaron allí.
+Y Taré tomó a Abrán su hijo, y a Lot hijo de Harán, su nieto, y a Sarai su nuera, la esposa de Abrán su hijo; y salieron con ellos de Ur de los Kasdim para ir a la tierra de Canaán; y llegaron hasta Jarán, y se asentaron allí.
 
 > **📝 NOTAS**
 >
 > 🔴 **CRÍTICO — VIAJE INCOMPLETO**
-> - El destino es Kenaan — pero la familia se detiene en **Jarán** y se asienta allí. El viaje queda incompleto bajo la iniciativa de Teraj. Requerirá un llamado divino (Gn 12:1, "Ve de tu tierra...") para completar lo que Teraj comenzó. El suspenso narrativo: el destino se nombra, el viaje se inicia, y el capítulo termina con la familia detenida antes de la meta.
+> - El destino es Canaán — pero la familia se detiene en **Jarán** y se asienta allí. El viaje queda incompleto bajo la iniciativa de Taré. Requerirá un llamado divino (Gn 12:1, "Ve de tu tierra...") para completar lo que Taré comenzó. El suspenso narrativo: el destino se nombra, el viaje se inicia, y el capítulo termina con la familia detenida antes de la meta.
 >
 > 🟢 **JARÁN (*Jarán*)**
 > - **חָרָן** = Jarán (Harrán), una ciudad en la Alta Mesopotamia (moderna Turquía suroriental). Palabra diferente de Harán la persona (הָרָן). Un importante centro comercial en la ruta entre Mesopotamia y Canaán.
 >
 > 🔵 **"SU NIETO" (*ben beno*)**
-> - **בֶּן־בְּנוֹ** = literalmente "hijo de su hijo" — es decir, nieto. Lot es hijo de Harán y nieto de Teraj. El texto especifica las relaciones cuidadosamente: Teraj lidera la unidad familiar.
+> - **בֶּן־בְּנוֹ** = literalmente "hijo de su hijo" — es decir, nieto. Lot es hijo de Harán y nieto de Taré. El texto especifica las relaciones cuidadosamente: Taré lidera la unidad familiar.
 
 ---
 
 ### **Versículo 32**
 
-Y los días de Teraj fueron doscientos cinco años, y Teraj murió en Jarán.
+Y los días de Taré fueron doscientos cinco años, y Taré murió en Jarán.
 
 > **📝 NOTAS**
 >
 > 🔵 **MUERTE EN JARÁN — NO EN KENAAN**
-> - Teraj muere en Jarán, no en Kenaan. Nunca llega al destino. El hombre que comenzó el viaje no lo completa. La completación recae en Avram (Gn 12:4–5).
+> - Taré muere en Jarán, no en Canaán. Nunca llega al destino. El hombre que comenzó el viaje no lo completa. La completación recae en Abrán (Gn 12:4–5).
 >
 > 🔵 **NOTA CRONOLÓGICA**
-> - Si Teraj tenía 70 cuando nació Avram (11:26) y Teraj murió a los 205, entonces Teraj murió cuando Avram tenía 135. Pero Gn 12:4 dice que Avram salió de Jarán a los 75. Esto significa que: (1) Avram se fue antes de que Teraj muriera (Teraj aún vivo por 60 años más), o (2) Avram no nació cuando Teraj tenía 70 — puede estar listado primero por prominencia, no por orden de nacimiento (como con Sem en 5:32). La aritmética no se resuelve limpiamente.
+> - Si Taré tenía 70 cuando nació Abrán (11:26) y Taré murió a los 205, entonces Taré murió cuando Abrán tenía 135. Pero Gn 12:4 dice que Abrán salió de Jarán a los 75. Esto significa que: (1) Abrán se fue antes de que Taré muriera (Taré aún vivo por 60 años más), o (2) Abrán no nació cuando Taré tenía 70 — puede estar listado primero por prominencia, no por orden de nacimiento (como con Sem en 5:32). La aritmética no se resuelve limpiamente.
 
 ---
 
@@ -473,7 +477,7 @@ Y los días de Teraj fueron doscientos cinco años, y Teraj murió en Jarán.
 | לְבֵנָה | ladrillo | De la raíz *lavan* (blanco). Material de construcción mesopotámico que reemplaza la piedra. |
 | חֵמָר | betún/alquitrán | Argamasa mesopotámica. Cf. el *kofer* (brea) en la *tebah* (6:14). |
 | הָבָה | ¡vengan! | Partícula exhortativa. Tres apariciones: humanos 2× (vv.3–4), YHWH 1× (v.7). |
-| תּוֹלְדוֹת | generaciones | Fórmula *toledot* — dos apariciones en este capítulo (Sem, Teraj). |
+| תּוֹלְדוֹת | generaciones | Fórmula *toledot* — dos apariciones en este capítulo (Sem, Taré). |
 | עֵבֶר | Ever | Antepasado epónimo de los *Ivrim* (Hebreos). Raíz *avar* = cruzar. |
 | פֶּלֶג | Peleg/división | "En sus días la tierra fue dividida." Nombre = división. |
 | אוּר כַּשְׂדִּים | Ur de los Kasdim | Ciudad sumeria; *Kasdim* = Caldeos (designación anacrónica). |
@@ -509,14 +513,14 @@ El mandato divino de llenar/esparcirse es resistido en Bavel y ejecutado por YHW
 
 **Comparación genealógica — Gn 5 vs. Gn 11:**
 
-| Rasgo | Gn 5 (Adán → Noaj) | Gn 11 (Sem → Avram) |
+| Rasgo | Gn 5 (Adán → Noé) | Gn 11 (Sem → Abrán) |
 |-------|---------------------|---------------------|
 | Fórmula | "X vivió Y años, engendró a Z, vivió W más años, engendró hijos e hijas, todos sus días fueron N, y murió" | "X vivió Y años, engendró a Z, vivió W más años, engendró hijos e hijas" |
-| "Y murió" | Presente en cada entrada (excepto Janoj) | Ausente hasta Teraj (v.32) |
+| "Y murió" | Presente en cada entrada (excepto Janoj) | Ausente hasta Taré (v.32) |
 | Esperanza de vida total declarada | Sí | No (calculable pero no declarada) |
 | Esperanzas de vida | 365–969 años | 148–600 años (declinantes) |
-| Generaciones | 10 (Adán → Noaj) | 10 (Sem → Avram) |
-| Termina con | Tres hijos (Sem, Cam, Yafet) | Tres hijos (Avram, Najor, Harán) |
+| Generaciones | 10 (Adán → Noé) | 10 (Sem → Abrán) |
+| Termina con | Tres hijos (Sem, Cam, Jafet) | Tres hijos (Abrán, Nacor, Harán) |
 | Pausa narrativa | Janoj ("Dios lo tomó") | Ninguna — pero la esterilidad de Sarai es la nueva crisis |
 
 Ambas genealogías abarcan diez generaciones y terminan con un padre de tres hijos nombrados. La crisis de Gn 5 es la muerte (resuelta por preservación a través del diluvio); la crisis de Gn 11 es la esterilidad (a ser resuelta por la promesa divina en Gn 12+).
@@ -526,21 +530,21 @@ Ambas genealogías abarcan diez generaciones y terminan con un padre de tres hij
 - 9:26: "Bendito sea YHWH, Dios de Sem (*Shem*)"
 - 11:4: "hagámonos un nombre (*shem*)" — los constructores de Bavel
 - 11:10: "Estas son las generaciones de Sem (*Shem*)"
-- 12:2: "Engrandeceré tu nombre (*shem*)" — la promesa de Dios a Avram
+- 12:2: "Engrandeceré tu nombre (*shem*)" — la promesa de Dios a Abrán
 
-Los constructores de Bavel buscan un *shem* (nombre) por su propio esfuerzo y fracasan. Dios dará a Avram un *shem* (nombre) por promesa divina y tendrá éxito. La palabra *shem* atraviesa como un marcador del deseo humano de significación y la prerrogativa divina de concederla.
+Los constructores de Bavel buscan un *shem* (nombre) por su propio esfuerzo y fracasan. Dios dará a Abrán un *shem* (nombre) por promesa divina y tendrá éxito. La palabra *shem* atraviesa como un marcador del deseo humano de significación y la prerrogativa divina de concederla.
 
 **Distribución del nombre divino en Gn 11:**
 - 11:1–9 (narrativa de Bavel): **YHWH** a lo largo — personal, intervencionista, relacional
 - 11:10–26 (genealogía de Sem): ningún nombre — fórmula genealógica desnuda
-- 11:27–32 (*toledot* de Teraj): ningún nombre — narrativa sin discurso divino
+- 11:27–32 (*toledot* de Taré): ningún nombre — narrativa sin discurso divino
 
-Patrón: YHWH actúa en la narrativa de Bavel (juicio/intervención), luego se retira de la genealogía y la narrativa de Teraj. El silencio prepara para el discurso divino que abre Gn 12.
+Patrón: YHWH actúa en la narrativa de Bavel (juicio/intervención), luego se retira de la genealogía y la narrativa de Taré. El silencio prepara para el discurso divino que abre Gn 12.
 
 **Transición primordial-patriarcal:**
 - Gn 1–11: historia universal (toda la humanidad, todas las naciones)
 - Gn 12+: historia particular (una familia, una promesa)
-- Gn 11:27–32 es la bisagra: el último *toledot* de la historia primordial introduce a la primera familia de la historia patriarcal. La historia de Avram comienza en Ur, bajo el *toledot* de Teraj, antes de que Dios hable.
+- Gn 11:27–32 es la bisagra: el último *toledot* de la historia primordial introduce a la primera familia de la historia patriarcal. La historia de Abrán comienza en Ur, bajo el *toledot* de Taré, antes de que Dios hable.
 
 ---
 

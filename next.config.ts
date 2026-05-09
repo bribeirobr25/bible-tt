@@ -7,6 +7,15 @@ const nextConfig: NextConfig = {
   outputFileTracingIncludes: {
     "/*": ["./content/en/**/*.md", "./content/pt-br/**/*.md", "./content/de/**/*.md", "./content/es/**/*.md"],
   },
+  async redirects() {
+    return [
+      {
+        source: "/:locale/:book/:chapter(\\d+)",
+        destination: "/:locale/:book/chapter/:chapter",
+        permanent: true,
+      },
+    ];
+  },
   async headers() {
     return [
       {

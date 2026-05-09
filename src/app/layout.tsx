@@ -1,9 +1,10 @@
-import type { ReactNode } from "react";
 import type { Metadata } from "next";
+import type { ReactNode } from "react";
 
 export const metadata: Metadata = {
   title: "The Transparent Translation",
-  description: "A translation with nothing hidden. Hebrew Bible and Greek Scriptures in English, Portuguese, German, and Spanish.",
+  description:
+    "A translation with nothing hidden. Hebrew Bible and Greek Scriptures in English, Portuguese, German, and Spanish.",
   icons: {
     icon: "/favicon.svg",
   },

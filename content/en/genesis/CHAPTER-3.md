@@ -7,7 +7,7 @@
 **Base Text:** Biblia Hebraica Stuttgartensia, 5th rev. ed. (Stuttgart: Deutsche Bibelgesellschaft, 1997)
 **Edition:** Transparent Edition
 **Language:** English
-**Methodology:** 29-Rule Governance System (Ruleset v3.0)
+**Methodology:** 29-Rule Governance System (Ruleset v3.3)
 **Divine Name Policy (Rule 25):** Option A — Consonantal (YHWH).
 **Status:** provisional — pending reviewer sign-off (Rule 28)
 **Reviewers:** Hebraist: unassigned | EN editor: unassigned | Cross-alignment: unassigned
@@ -47,11 +47,11 @@
 
 **What happens:** The serpent, described as *arum* (crafty/shrewd), engages the woman in dialogue about the forbidden tree. Both humans eat. Their eyes are opened — they know they are naked. YHWH God questions them, pronounces consequences on the serpent, the woman, and the man, makes garments of skin, and expels them from the garden with cherubim guarding the way to the tree of life.
 
-**Key themes:** The *arum/arom* wordplay (crafty/naked) bridging Chapters 2–3; the serpent's rhetoric; the woman's modification of the command; knowledge of good and evil — promised and delivered, but not as expected; shame, fear, blame as a sequence; consequences vs. curses (only the serpent and the ground are cursed, not the humans); the broken sentence at 3:22 (aposiopesis).
+**Key themes:** The *arum/arom* wordplay (crafty/naked) bridging Chapters 2–3; the serpent's rhetoric; the woman's modification of the command; knowledge of good and evil — promised and delivered, but not as expected; shame, fear, blame as a sequence; consequences vs. curses (only the serpent and the ground are cursed, not the humans); the broken sentence at 3:22 (a sentence that stops mid-thought without completing itself — aposiopesis).
 
-**Watch for:** The serpent uses only "Elohim," never "YHWH Elohim"; the man was "with her" during the dialogue (3:6); "dying you shall die" (2:17) vs. "you will not dying die" (3:4) — same grammatical construction, negated; God confirms the serpent's prediction at 3:22; "dust you *are*" (present tense, not future) — mortality as intrinsic, not newly imposed.
+**Watch for:** The serpent uses only "Elohim," never "YHWH Elohim"; the man was "with her" during the dialogue (3:6); "dying you shall die" (2:17) vs. "you will not dying die" (3:4) — same grammatical construction, negated; the text's own words at 3:22 echo the serpent's claim at 3:5 ("knowing good and evil"), while the narrative context shows consequences the serpent did not mention; "dust you *are*" uses present-tense language that can be read as describing an existing condition rather than imposing a new one — whether mortality is intrinsic or newly imposed is debated.
 
-**Connection:** The expulsion from the garden leads directly into Cain and Abel (Chapter 4). The curse on the ground (3:17) echoes through 5:29 (Noach's naming) and 8:21 (YHWH's post-flood resolution).
+**Connection:** The expulsion from the garden leads directly into Cain and Abel (Chapter 4). The curse on the ground (3:17) echoes through 5:29 (Noach (Noah)'s naming) and 8:21 (YHWH's post-flood resolution).
 
 ---
 
@@ -73,7 +73,7 @@
 
 ¹⁷And to the human he said, "Because you have listened to the voice of your woman, and have eaten from the tree which I commanded you, saying, 'You shall not eat from it,' cursed *is* the ground because of you; in toil you shall eat *from it* all the days of your life. ¹⁸And thorn and thistle it shall bring forth to you, and you shall eat the herb of the field. ¹⁹In the sweat of your face you shall eat bread, until your returning to the ground, for from it you were taken; for dust you *are*, and to dust you shall return."
 
-²⁰And the human called the name of his woman Chava, for she was mother of all the living. ²¹And YHWH Elohim made for the human and for his woman garments of skin, and he clothed them.
+²⁰And the human called the name of his woman Chava (Eve), for she was mother of all the living. ²¹And YHWH Elohim made for the human and for his woman garments of skin, and he clothed them.
 
 ²²And YHWH Elohim said, "See, the human has become like one of us to know good and evil; and now, lest he stretch out his hand and take also from the tree of the life, and eat, and live forever…" ²³And YHWH Elohim sent him out from the garden of Eden to work the ground from which he was taken. ²⁴And he drove out the human; and he caused to dwell at the east of the garden of Eden the cherubim, and the flame of the sword turning, to guard the way of the tree of the life.
 
@@ -286,10 +286,10 @@ And enmity I will set between you and between the woman, and between your seed a
 > - **זֶרַע** (*zera*) = "seed / offspring." Collective singular — one word, can denote one or many descendants.
 >
 > 🟢 **UNUSUAL: "HER SEED"**
-> - **זַרְעָהּ** (*zar'ah*) = "her seed" — attribution of *zera* to a **female** line is **grammatically unusual** in the Hebrew Bible. The term elsewhere is attached to male descent (reflecting ancient biological assumption). Genesis 3:15 is one of very few places where seed traces through the woman. The observation is philological, not interpretive — do not extend to later Christian readings (virgin-birth foreshadowing) that are post-biblical. Cross-reference: Gen 4:25 where Chava is given *"another seed"* (*zera acher*) after Abel's death — continuing the woman's-seed thread at textual level without theological resolution.
+> - **זַרְעָהּ** (*zar'ah*) = "her seed" — attribution of *zera* to a **female** line is **grammatically unusual** in the Hebrew Bible, where the term is normally attached to male descent. Genesis 3:15 is one of very few places where seed traces through the woman (**POSSIBLE** philological observation, not interpretive claim). Cross-reference: Gen 4:25 — Chava (Eve) receives *"another seed"* (*zera acher*) continuing the woman's-seed thread. For fuller discussion, see companion Section A10.
 >
 > 🟡 **INTERPRETIVE RESTRAINT**
-> - Later Christian tradition reads this verse as "protoevangelium" (first gospel). That reading is **POST-BIBLICAL**; the Hebrew text gives a statement of enduring enmity between serpent and woman's offspring. Rule 3: no imported theology. No capitalization of "He." No resolution of gender/number ambiguity toward any particular later identification.
+> - The Hebrew text gives a statement of enduring enmity between serpent and woman's offspring. Later Christian tradition's "protoevangelium" reading is **POST-BIBLICAL** (Rule 3). No capitalization of "He." No resolution of gender/number ambiguity toward any particular later identification.
 
 ---
 
@@ -347,13 +347,13 @@ In the sweat of your face you shall eat bread, until your returning to the groun
 > **📝 NOTES**
 >
 > 🔴 **DUST TO DUST**
-> - **עָפָר אַתָּה וְאֶל־עָפָר תָּשׁוּב** (*afar atah ve-el afar tashuv*) = "dust you *are* and to dust you shall return." Closes the frame opened at 2:7 (*"dust from the ground"*). Mortality is the human condition stated, not invented, here.
+> - **עָפָר אַתָּה וְאֶל־עָפָר תָּשׁוּב** (*afar atah ve-el afar tashuv*) = "dust you *are* and to dust you shall return." Closes the frame opened at 2:7 (*"dust from the ground"*). The text uses present-tense language ("dust you *are*"), which can be read as describing an existing condition rather than imposing a new one. Whether mortality is intrinsic to the human's dusty constitution or newly imposed here is debated; the Hebrew wording does not settle the question.
 
 ---
 
 ### **Verse 20**
 
-And the human called the name of his woman Chava, for she was mother of all the living.
+And the human called the name of his woman Chava (Eve), for she was mother of all the living.
 
 > **📝 NOTES**
 >
@@ -393,10 +393,8 @@ And YHWH Elohim said, "See, the human has become like one of us to know good and
 > - **כְּאַחַד מִמֶּנּוּ** (*ke'achad mimmennu*) — plural "us" echoes Gen 1:26 *"let us make a human."* **POSSIBLE** interpretations: royal plural, divine council, literary plural. Do not impose Trinitarian reading (Rule 3).
 >
 > 🟡 **NARRATIVE RESONANCE WITH 3:5**
-> - The serpent at **3:5**: *"you shall be like God/gods (*ke-elohim*), knowing good and evil."*
-> - YHWH Elohim at **3:22**: *"the human has become like one of us (*ke'achad mimmennu*) to know good and evil."*
-> - The text allows the serpent's prediction to stand as **partially accurate at the narrative level** — the humans did in fact come to "know good and evil." The text does not resolve whether this means the serpent spoke truth, or whether the god-like-knowing is itself the judgment. Rule 2 — preserve the ambiguity; do not resolve.
-> - The remaining deception (3:4 *"not dying you shall die"* vs. eventual mortality) stands on different ground.
+> - The serpent at **3:5**: *"you shall be like God/gods, knowing good and evil."* YHWH Elohim at **3:22**: *"the human has become like one of us to know good and evil."*
+> - The text allows the serpent's prediction to stand as **partially accurate** at the narrative level. Rule 2 — preserve the ambiguity; the text does not resolve whether this means the serpent spoke truth or whether the god-like-knowing is itself the judgment. For fuller discussion, see companion Section A8.
 
 ---
 
@@ -478,12 +476,10 @@ And he drove out the human; and he caused to dwell at the east of the garden of 
 - First question from God to human (v.9)
 - First curse (*arur*, v.14)
 - First prediction of enmity (v.15)
-- First naming of woman as individual (v.20 — Chava)
+- First naming of woman as individual (v.20 — Chava (Eve))
 - First garments (v.21)
 - First expulsion (v.23–24)
 
 ---
 
 **END OF GENESIS 3 - THE TRANSPARENT TRANSLATION (ENGLISH)**
-
-*"The least dishonest version we could build."*

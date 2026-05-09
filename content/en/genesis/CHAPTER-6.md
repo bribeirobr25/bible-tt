@@ -7,7 +7,7 @@
 **Base Text:** Biblia Hebraica Stuttgartensia, 5th rev. ed. (Stuttgart: Deutsche Bibelgesellschaft, 1997)
 **Edition:** Transparent Edition
 **Language:** English
-**Methodology:** 29-Rule Governance System (Ruleset v3.0)
+**Methodology:** 29-Rule Governance System (Ruleset v3.3)
 **Divine Name Policy (Rule 25):** Option A — Consonantal (YHWH).
 **Status:** provisional — pending reviewer sign-off (Rule 28)
 **Reviewers:** Hebraist: unassigned | EN editor: unassigned | Cross-alignment: unassigned
@@ -45,13 +45,13 @@
 
 ## CHAPTER OVERVIEW
 
-**What happens:** The "sons of God/the gods" (*bene ha-elohim*) take human wives. YHWH limits human lifespan to 120 years. The nephilim are on the land. YHWH sees total human evil, regrets making humanity, and resolves to destroy. But Noach finds favor. God instructs Noach to build a *tebah* (box/ark) with specific dimensions, announces the flood, establishes the first covenant (*berit*), and commands Noach to bring animals aboard.
+**What happens:** The "sons of God/the gods" (*bene ha-elohim*) take human wives. YHWH limits human lifespan to 120 years. The nephilim are on the land. YHWH sees total human evil, regrets making humanity, and resolves to destroy. But Noach (Noah) finds favor. God instructs Noah to build a *tebah* (box/ark) with specific dimensions, announces the flood, establishes the first covenant (*berit*), and commands Noah to bring animals aboard.
 
-**Key themes:** The *bene ha-elohim* — triple ambiguity preserved (divine beings, rulers, Sethite line); the nephilim (transliterated, not "giants"); *yadon* — genuinely uncertain verb (remain/contend); divine regret (*nacham* — same root as Noach's name); "God saw" inverted (creation: "saw that good" → here: "saw that great was the evil"); *chamas* (violence) as the named sin; the *tebah* as a sealed container, not a ship; *kopher/kippur* wordplay (pitch/atonement).
+**Key themes:** The *bene ha-elohim* — three possible meanings preserved (divine beings, human rulers, or the line of Seth); the nephilim (transliterated, not "giants"); *yadon* — genuinely uncertain verb (remain/contend); divine regret (*nacham* — same root as Noah's name); "God saw" inverted (creation: "saw that good" → here: "saw that great was the evil"); *chamas* (violence) as the named sin; the *tebah* as a sealed container, not a ship; *kopher/kippur* wordplay (the word for the pitch sealant shares its root with the word for ritual atonement).
 
 **Watch for:** The destruction order (6:7) reverses the creation order; YHWH appears in vv.1–8 (emotional, relational), Elohim in vv.9–22 (instructional, covenantal); the first occurrence of *berit* (covenant) in the Bible — announced before its terms are disclosed; "two from all" (6:19) vs. "seven pairs" of clean animals (7:2) — an internal tension the TT preserves.
 
-**Connection:** The *nacham* root links 5:29 (Noach = comfort) with 6:6 (YHWH regretted). The flood reverses Day 2's water-separation (1:6–7), making the flood a de-creation event continued in Chapters 7–8.
+**Connection:** The *nacham* root links 5:29 (Noah = comfort) with 6:6 (YHWH regretted). The flood reverses Day 2's water-separation (1:6–7), making the flood a de-creation event continued in Chapters 7–8.
 
 ---
 
@@ -63,13 +63,13 @@
 
 ¹And it was when the human began to multiply on the face of the ground, and daughters were born to them, ²and the sons of God/the gods saw the daughters of the human, that they *were* good, and they took for themselves women from all whom they chose. ³And YHWH said, "My spirit shall not remain/contend in the human forever, in that he *is* also flesh; and his days shall be one hundred and twenty years." ⁴The nephilim were on the land in those days, and also afterward, when the sons of God/the gods came to the daughters of the human, and they bore to them — they *are* the mighty ones who *were* from of old, men of the name.
 
-⁵And YHWH saw that great *was* the evil of the human on the land, and every inclination of the thoughts of his heart *was* only evil all the day. ⁶And YHWH regretted that he had made the human on the land, and it grieved him to his heart. ⁷And YHWH said, "I will wipe the human whom I created from upon the face of the ground, from human to livestock to creeping thing to bird of the sky, for I regret that I made them." ⁸But Noach found favor in the eyes of YHWH.
+⁵And YHWH saw that great *was* the evil of the human on the land, and every inclination of the thoughts of his heart *was* only evil all the day. ⁶And YHWH regretted that he had made the human on the land, and it grieved him to his heart. ⁷And YHWH said, "I will wipe the human whom I created from upon the face of the ground, from human to livestock to creeping thing to bird of the sky, for I regret that I made them." ⁸But Noach (Noah) found favor in the eyes of YHWH.
 
-⁹These *are* the generations of Noach. Noach *was* a righteous man, whole in his generations; with God walked Noach. ¹⁰And Noach begot three sons: Shem, Cham, and Yafet. ¹¹And the land was corrupt before God, and the land was filled with violence. ¹²And God saw the land, and see, it was corrupt, for all flesh had corrupted its way upon the land. ¹³And God said to Noach, "The end of all flesh has come before me, for the land is filled with violence because of them, and see, I *am* destroying them with the land.
+⁹These *are* the generations of Noah. Noah *was* a righteous man, whole in his generations; with God walked Noah. ¹⁰And Noah begot three sons: Shem, Cham (Ham), and Yafet (Japheth). ¹¹And the land was corrupt before God, and the land was filled with violence. ¹²And God saw the land, and see, it was corrupt, for all flesh had corrupted its way upon the land. ¹³And God said to Noah, "The end of all flesh has come before me, for the land is filled with violence because of them, and see, I *am* destroying them with the land.
 
 ¹⁴Make for yourself a tebah of gopher wood; rooms you shall make *in* the tebah, and you shall cover it inside and outside with kopher. ¹⁵And this *is how* you shall make it: three hundred cubits the length of the tebah, fifty cubits its breadth, and thirty cubits its height. ¹⁶A tsohar you shall make for the tebah, and to a cubit you shall finish it from above, and the door of the tebah you shall set in its side; lower, second, and third *decks* you shall make it.
 
-¹⁷And I, see, I *am* bringing the flood of waters upon the land, to destroy all flesh in which *is* breath of life from under the sky; everything which *is* on the land shall die. ¹⁸But I will establish my covenant with you, and you shall come into the tebah — you and your sons and your woman and the women of your sons with you. ¹⁹And from all the living, from all flesh, two from all you shall bring into the tebah to keep alive with you; male and female they shall be. ²⁰From the bird to its kind, and from the livestock to its kind, from every creeping thing of the ground to its kind, two from all shall come to you to keep alive. ²¹And you, take for yourself from all food which is eaten, and gather *it* to yourself, and it shall be for food for you and for them." ²²And Noach did according to all that God commanded him; so he did.
+¹⁷And I, see, I *am* bringing the flood of waters upon the land, to destroy all flesh in which *is* breath of life from under the sky; everything which *is* on the land shall die. ¹⁸But I will establish my covenant with you, and you shall come into the tebah — you and your sons and your woman and the women of your sons with you. ¹⁹And from all the living, from all flesh, two from all you shall bring into the tebah to keep alive with you; male and female they shall be. ²⁰From the bird to its kind, and from the livestock to its kind, from every creeping thing of the ground to its kind, two from all shall come to you to keep alive. ²¹And you, take for yourself from all food which is eaten, and gather *it* to yourself, and it shall be for food for you and for them." ²²And Noah did according to all that God commanded him; so he did.
 
 ---
 
@@ -93,11 +93,8 @@ and the sons of God/the gods saw the daughters of the human, that they *were* go
 > **📝 NOTES**
 >
 > 🔴 **CRITICAL — "SONS OF GOD/THE GODS"**
-> - **בְּנֵי הָאֱלֹהִים** (*bene ha-elohim*) — one of the most contested phrases in Genesis. *Elohim* is grammatically plural; *bene* = "sons of." Three major readings, all **POSSIBLE**:
->   1. **Divine/angelic beings** — "sons of God" as heavenly beings (cf. Job 1:6, 2:1, 38:7 where the same phrase describes angels/divine council members)
->   2. **Rulers/nobles** — "sons of the gods" as powerful human rulers claiming divine status (ANE royal ideology)
->   3. **Sethite line** — "sons of God" as the godly line of Seth marrying the ungodly line of Cain (later Jewish/Christian reading)
-> - Rule 2: slash preserves the ambiguity. Rule 3: no single reading imposed.
+> - **בְּנֵי הָאֱלֹהִים** (*bene ha-elohim*) — one of the most contested phrases in Genesis. Three major readings are all **POSSIBLE**: (1) divine/angelic beings (cf. Job 1:6, 2:1, 38:7); (2) rulers/nobles claiming divine status (ANE royal ideology); (3) the godly Sethite line marrying the Cainite line (later Jewish/Christian reading).
+> - Rule 2: slash preserves the ambiguity. Rule 3: no single reading imposed. For fuller discussion of each option, see companion Section A1.
 >
 > 🔵 **"THAT THEY WERE GOOD"**
 > - **כִּי טֹבֹת הֵנָּה** (*ki tovot hennah*) = "that they *were* good/beautiful." Echo of Gen 1's *ki tov* ("that good") — but applied to human desire rather than divine evaluation.
@@ -125,11 +122,11 @@ The nephilim were on the land in those days, and also afterward, when the sons o
 > **📝 NOTES**
 >
 > 🔴 **CRITICAL — NEPHILIM TRANSLITERATED**
-> - **נְפִילִים** (*nephilim*) — transliterated per Rule 4 (no accurate equivalent exists). "Giants" imports LXX *gigantes*; "fallen ones" is folk etymology from root נ-פ-ל (*n-p-l*, "to fall") that may not be the actual derivation. The word appears only here and Num 13:33 in the Hebrew Bible.
-> - The text does NOT say the nephilim are the offspring of the bene-elohim union. It says they were "on the land in those days, and also afterward" — a separate statement. Whether they are related to the divine-human union or a distinct group is **UNCERTAIN**.
+> - **נְפִילִים** (*nephilim*) — transliterated per Rule 4. "Giants" imports LXX (the ancient Greek translation) *gigantes*; "fallen ones" is folk etymology from root נ-פ-ל that may not reflect the actual derivation. The word appears only here and Num 13:33 in the Hebrew Bible. Meaning **UNCERTAIN**.
+> - The text does NOT say the nephilim are the offspring of the bene-elohim union — they are introduced as a separate statement ("on the land in those days, and also afterward"). Whether they are related to the divine-human union or a distinct group is **UNCERTAIN**. For fuller discussion, see companion Section A2.
 >
 > 🟢 **"MEN OF THE NAME"**
-> - **אַנְשֵׁי הַשֵּׁם** (*anshei ha-shem*) = "men of the name" — i.e., famous/renowned. *Shem* = "name" (same word as Noah's son Shem in 5:32).
+> - **אַנְשֵׁי הַשֵּׁם** (*anshei ha-shem*) = "men of the name" — i.e., famous/renowned. *Shem* = "name" (same word as Noach (Noah)'s son Shem in 5:32).
 
 ---
 
@@ -172,35 +169,35 @@ And YHWH said, "I will wipe the human whom I created from upon the face of the g
 
 ### **Verse 8**
 
-But Noach found favor in the eyes of YHWH.
+But Noach (Noah) found favor in the eyes of YHWH.
 
 > **📝 NOTES**
 >
 > 🟢 **CHEN = FAVOR/GRACE**
-> - **חֵן** (*chen*) = favor/grace. First occurrence. Noach finds *chen* — note the reverse spelling: **Noach** (נ-ח) / **chen** (ח-נ). Whether this is deliberate wordplay is POSSIBLE.
+> - **חֵן** (*chen*) = favor/grace. First occurrence. Noah finds *chen* — note the reverse spelling: **Noach** (נ-ח) / **chen** (ח-נ). Whether this is deliberate wordplay is POSSIBLE.
 
 ---
 
 ### **Verse 9**
 
-These *are* the generations of Noach. Noach *was* a righteous man, whole in his generations; with God walked Noach.
+These *are* the generations of Noach (Noah). Noah *was* a righteous man, whole in his generations; with God walked Noah.
 
 > **📝 NOTES**
 >
 > 🔴 **TOLEDOT FORMULA — THIRD OCCURRENCE**
-> - **אֵלֶּה תּוֹלְדוֹת נֹחַ** = "These are the generations of Noach." Third *toledot* marker (2:4, 5:1, 6:9).
+> - **אֵלֶּה תּוֹלְדוֹת נֹחַ** = "These are the generations of Noah." Third *toledot* marker (2:4, 5:1, 6:9).
 >
 > 🟢 **"RIGHTEOUS" AND "WHOLE"**
 > - **צַדִּיק** (*tsaddiq*) = righteous. **תָּמִים** (*tamim*) = whole/blameless/complete. First use of both terms for a human. "In his generations" — ambiguous: (1) among his contemporaries (relative righteousness); (2) throughout his lifetime. Both POSSIBLE.
 >
 > 🔵 **"WITH GOD WALKED NOACH"**
-> - **אֶת־הָאֱלֹהִים הִתְהַלֶּךְ נֹחַ** — same phrase as Chanokh (5:22, 24). Object fronted for emphasis. Only two people in Genesis "walk with God."
+> - **אֶת־הָאֱלֹהִים הִתְהַלֶּךְ נֹחַ** — same phrase as Chanokh (Enoch) (5:22, 24). Object fronted for emphasis. Only two people in Genesis "walk with God."
 
 ---
 
 ### **Verse 10**
 
-And Noach begot three sons: Shem, Cham, and Yafet.
+And Noach (Noah) begot three sons: Shem, Cham (Ham), and Yafet (Japheth).
 
 ---
 
@@ -212,6 +209,9 @@ And the land was corrupt before God, and the land was filled with violence.
 >
 > 🟢 **VIOLENCE**
 > - **חָמָס** (*chamas*) = violence/wrongdoing. The same word appears at v.13. The corruption is specifically *chamas* — not abstract evil but active violence.
+>
+> 🟢 **ERETZ — LAND OR EARTH (FIRST TRACKING NOTE)**
+> - **הָאָרֶץ** (*ha-aretz*) = "the land" — can mean a specific region ("the land") or the whole world ("the earth"). The TT uses "land" throughout but preserves the ambiguity. Whether the corruption was local or global is not resolved by the text. **The same word (*eretz*) is tracked through Genesis 6–9**; readers should note that every occurrence of "land" in the flood narrative carries this ambiguity.
 
 ---
 
@@ -228,7 +228,7 @@ And God saw the land, and see, it was corrupt, for all flesh had corrupted its w
 
 ### **Verse 13**
 
-And God said to Noach, "The end of all flesh has come before me, for the land is filled with violence because of them, and see, I *am* destroying them with the land.
+And God said to Noach (Noah), "The end of all flesh has come before me, for the land is filled with violence because of them, and see, I *am* destroying them with the land.
 
 > **📝 NOTES**
 >
@@ -249,8 +249,9 @@ Make for yourself a tebah of gopher wood; rooms you shall make *in* the tebah, a
 > 🟢 **GOPHER — UNKNOWN WOOD**
 > - **עֲצֵי־גֹפֶר** (*atsei-gopher*) = "gopher wood." Species UNKNOWN — appears only here in the Hebrew Bible. "Cypress" is a common guess but unsupported. Transliterated per Rule 4.
 >
-> 🔴 **KOPHER / KIPPUR WORDPLAY**
-> - **כֹּפֶר** (*kopher*) = pitch/covering material. Root: כ-פ-ר (*k-p-r*) — the SAME root as **כִּפּוּר** (*kippur*, atonement/covering, as in Yom Kippur). The tebah is "covered" (*kaphar*) with *kopher* — the covering that saves from destruction shares the root of the covering that atones. Rule 14 wordplay flagged.
+> 🔴 **KOPHER — PITCH/COATING MATERIAL**
+> - **כֹּפֶר** (*kopher*) = pitch/coating material. The *tebah* is waterproofed inside and outside with *kopher* — a construction material, not a theological symbol.
+> - **LINGUISTIC OBSERVATION:** Root כ-פ-ר (*k-p-r*) = cover/atone — same root as **כִּפּוּר** (*kippur*, Yom Kippur). The tebah is "covered" (*kaphar*) with *kopher*. Rule 14 wordplay flagged: shared root is a feature of the Hebrew; this verse is about waterproofing, not atonement. For fuller discussion, see companion Section A10.
 
 ---
 
@@ -334,12 +335,12 @@ And you, take for yourself from all food which is eaten, and gather *it* to your
 
 ### **Verse 22**
 
-And Noach did according to all that God commanded him; so he did.
+And Noach (Noah) did according to all that God commanded him; so he did.
 
 > **📝 NOTES**
 >
 > 🔵 **OBEDIENCE FORMULA**
-> - **וַיַּעַשׂ נֹחַ כְּכֹל אֲשֶׁר צִוָּה אֹתוֹ אֱלֹהִים כֵּן עָשָׂה** = "And Noach did according to all that God commanded him; so he did." Emphatic double statement of compliance. This formula repeats at 7:5, 7:9, 7:16. Noach's response is silent obedience — no recorded speech from Noach until 9:25.
+> - **וַיַּעַשׂ נֹחַ כְּכֹל אֲשֶׁר צִוָּה אֹתוֹ אֱלֹהִים כֵּן עָשָׂה** = "And Noah did according to all that God commanded him; so he did." Emphatic double statement of compliance. This formula repeats at 7:5, 7:9, 7:16. Noah's response is silent obedience — no recorded speech from Noah until 9:25.
 
 ---
 
@@ -367,15 +368,15 @@ And Noach did according to all that God commanded him; so he did.
 **Toledot chain:**
 - 2:4: "generations of the skies and the land"
 - 5:1: "book of the generations of Adam"
-- 6:9: "generations of Noach"
+- 6:9: "generations of Noach (Noah)"
 
 **"Walking with God":**
-- 5:22,24: Chanokh "walked with God" — and was taken
-- 6:9: Noach "walked with God" — and was saved
+- 5:22,24: Chanokh (Enoch) "walked with God" — and was taken
+- 6:9: Noah "walked with God" — and was saved
 - Only two people receive this phrase in Genesis.
 
 **Nacham root (comfort/regret):**
-- 5:29: Lemekh names son Noach hoping for *nacham* (comfort)
+- 5:29: Lemekh (Lamech) names son Noah hoping for *nacham* (comfort)
 - 6:6: YHWH *nacham* (regretted) making humans
 - 6:7: "for I regret (*nachamti*) that I made them"
 - Same root, opposite emotional direction: human hope for comfort → divine regret.
@@ -389,7 +390,7 @@ And Noach did according to all that God commanded him; so he did.
 
 **Divine name distribution in Gen 6:**
 - vv.1–8: **YHWH** (narrator describes YHWH's emotional response)
-- vv.9–22: **God/Elohim** (narrator describes God's instructions to Noach)
+- vv.9–22: **God/Elohim** (narrator describes God's instructions to Noah)
 - This alternation is a textual feature. The TT preserves it without importing source-hypothesis framing.
 
 **"Two from all" vs. "seven pairs":**

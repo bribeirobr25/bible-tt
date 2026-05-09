@@ -5,7 +5,7 @@
 
 **Capítulo:** Genesis 3
 **Idioma:** Español
-**Reglas:** v3.0 (Regla 29 rige este archivo)
+**Reglas:** v3.3 (Regla 29 rige este archivo)
 **Estado:** provisional
 
 ---
@@ -20,10 +20,10 @@
 **Notas de cumplimiento:**
 **Lecturas:**
 - **Judía**: El versículo describe la enemistad continua entre la humanidad y las serpientes. Algunas tradiciones rabínicas leen "simiente de la mujer" como referencia a un redentor futuro, pero esta no es la lectura dominante. [DOCUMENTADO]
-- **Cristiana**: Este es el *protoevangelium* — el primer anuncio del Evangelio. "Su simiente" (singular) se lee como Cristo; la serpiente es Satanás. El golpe en la cabeza es la victoria de Cristo sobre el mal; el golpe en el talón es la crucifixión. Esta lectura está atestiguada desde Ireneo (s. II d.C.) en adelante. [DOCUMENTADO]
+- **Cristiana**: Este es el *protoevangelium* (latín: 'primer anuncio de buenas nuevas') — el primer anuncio del Evangelio. "Su simiente" (singular) se lee como Cristo; la serpiente es Satanás. El golpe en la cabeza es la victoria de Cristo sobre el mal; el golpe en el talón es la crucifixión. Esta lectura está atestiguada desde Ireneo (s. II d.C.) en adelante. [DOCUMENTADO]
 - **Islámica**: El Corán no hace referencia directa a este versículo. La tradición islámica reconoce la enemistad entre Iblis (Satanás) y la humanidad, pero no la deriva de Genesis 3:15 específicamente. [DOCUMENTADO]
 
-**Nota académica:** El hebreo *hu* ("él") es masculino singular, refiriéndose gramaticalmente a "simiente" (*zera*, masc.). Si el singular implica un individuo o la descendencia colectiva es INCIERTO. La LXX usa *autos* (masc.) en lugar de *auto* (neutro, que correspondería al neutro *sperma*), lo que sugiere que los traductores pudieron haber leído un referente individual. [POSIBLE]
+**Nota académica:** El hebreo *hu* ("él") es masculino singular, refiriéndose gramaticalmente a "simiente" (*zera*, masc.). Si el singular implica un individuo o la descendencia colectiva es INCIERTO. La Septuaginta (la antigua traducción griega de la Biblia Hebrea, frecuentemente abreviada LXX) usa *autos* (masc.) en lugar de *auto* (neutro, que correspondería al neutro *sperma*), lo que sugiere que los traductores pudieron haber leído un referente individual. [POSIBLE]
 
 ---
 

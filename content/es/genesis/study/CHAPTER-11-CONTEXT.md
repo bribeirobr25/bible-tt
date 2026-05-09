@@ -10,7 +10,7 @@
 **Capítulo:** Génesis 11
 **Idioma:** Español
 **Compañero de:** `es/genesis/CHAPTER-11.md` (Edición Transparente)
-**Reglas:** v3.0 (la Regla 29 gobierna este archivo)
+**Reglas:** v3.3 (la Regla 29 gobierna este archivo)
 **Status:** provisional
 
 ---
@@ -53,12 +53,17 @@ Gn 11:4: "no sea que seamos dispersados (*pen-nafuts*) sobre la faz de toda la t
 La genealogía de Sem (11:10-26) usa la misma fórmula que la genealogía de Adán (Gn 5): "X vivió Y años y engendró a Z. Y X vivió después de engendrar a Z W años y engendró hijos e hijas." Pero tres rasgos la distinguen:
 1. **No hay "y murió"** — Gn 5 termina cada entrada con "y murió" (un redoble de mortalidad). Gn 11 omite esta frase por completo.
 2. **No hay esperanza de vida total** — Gn 5 suma los años de cada patriarca ("todos los días de X fueron N años"). Gn 11 no lo hace.
-3. **Edades declinantes** — las esperanzas de vida disminuyen constantemente: Sem (600), Arpakhshad (438), Shelaj (433), Ever (464 — un pico), Peleg (239), Re'u (239), Serug (230), Najor (148), Teraj (205). La trayectoria se mueve de la escala antediluviana hacia esperanzas de vida humanas reconocibles.
+3. **Edades declinantes** — las esperanzas de vida disminuyen constantemente: Sem (600), Arpakhshad (438), Shelaj (433), Ever (464 — un pico), Peleg (239), Re'u (239), Serug (230), Nacor (148), Taré (205). La trayectoria se mueve de la escala antediluviana hacia esperanzas de vida humanas reconocibles.
 
 ### A7. La esterilidad de Sarai — declarada sin explicación
 **[TEXTUAL — VERIFICADO]**
 
-Gn 11:30: "Sarai era estéril — no tenía hijo." La declaración es doblemente enfática: estéril (*aqarah*) Y "no tenía hijo" (*ein lah valad*). No se da ninguna causa. No se ofrece ninguna explicación teológica. Este hecho textual desnudo — colocado al final de la genealogía de Teraj, justo antes de que comience la narrativa de Avram — establece toda la tensión del ciclo de Abraham (Gn 12–25). La TT rinde la doble declaración tal como está escrita.
+Gn 11:30: "Sarai era estéril — no tenía hijo." La declaración es doblemente enfática: estéril (*aqarah*) Y "no tenía hijo" (*ein lah valad*). No se da ninguna causa. No se ofrece ninguna explicación teológica. Este hecho textual desnudo — colocado al final de la genealogía de Taré, justo antes de que comience la narrativa de Abrán — establece toda la tensión del ciclo de Abraham (Gn 12–25). La TT rinde la doble declaración tal como está escrita.
+
+### A8. LXX Kainán — generación extra en la Septuaginta
+**[TEXTUAL — VERIFICADO]**
+
+La Septuaginta (la antigua traducción griega de la Biblia Hebrea, frecuentemente abreviada LXX) inserta un Kainán (Καϊνάν) entre Arpakhshad y Shelaj en la genealogía de Shem (LXX Gn 10:24, 11:13), produciendo 11 generaciones postdiluvianas en la línea Shem→Abrán en lugar de las 10 del TM. El Pentateuco Samaritano también incluye esta figura. Lucas 3:36 en el Nuevo Testamento sigue la lectura de la LXX. La TT traduce el TM conforme a la Regla 22 (política de texto base), por lo que Kainán no aparece. Esta variante se anota aquí conforme a la disposición de la Regla 22 de que las variantes textuales significativas "pueden ser anotadas" en el material complementario. La diferencia afecta la aritmética genealógica y el conteo total de generaciones postdiluvianas.
 
 ---
 
@@ -92,7 +97,7 @@ La Lista Real Sumeria registra reyes prediluvianos reinando por decenas de miles
 ### C1. Ur de los Kasdim — debate de identificación
 **[HISTÓRICO / ARQUEOLÓGICO — INCIERTO]**
 
-Gn 11:28, 31: Teraj y su familia parten de "Ur de los Kasdim." Dos candidatos dominan el debate de identificación:
+Gn 11:28, 31: Taré y su familia parten de "Ur de los Kasdim." Dos candidatos dominan el debate de identificación:
 1. **Ur meridional** — Tell el-Muqayyar en el sur de Irak, excavada por Woolley (1922-1934). Una importante ciudad sumeria con un zigurat bien preservado. La identificación tradicional desde Woolley.
 2. **Ur septentrional** — Urfa (moderna Sanliurfa en Turquía) o un sitio cerca de Jarán en la Alta Mesopotamia. Apoyada por el hecho de que Jarán es la siguiente parada en el itinerario (11:31) — una Ur septentrional hace la ruta lógica, mientras que la Ur meridional requiere un desvío de 1.600 km al norte hacia Jarán.
 
@@ -103,7 +108,7 @@ Los Kasdim (Caldeos) no están atestiguados en la Mesopotamia meridional antes d
 ### C2. Jarán — centro comercial en el río Balij
 **[HISTÓRICO / ARQUEOLÓGICO — VERIFICADO]**
 
-Gn 11:31-32: Teraj se asienta en Jarán (חָרָן, *Jarán*). El sitio se identifica con Harrán en el sureste de Turquía, en el río Balij (un afluente del Éufrates). La excavación arqueológica confirma ocupación continua desde al menos el tercer milenio a.C. Jarán era un importante centro comercial en la ruta entre Mesopotamia y el Mediterráneo, y un centro de culto del dios lunar Sin — la misma deidad adorada en Ur. El movimiento de la familia de Teraj de Ur a Jarán puede reflejar movimiento entre dos ciudades que comparten una tradición religiosa común. Los textos de Mari (siglo XVIII a.C.) atestiguan la importancia comercial de la ciudad.
+Gn 11:31-32: Taré se asienta en Jarán (חָרָן, *Jarán*). El sitio se identifica con Harrán en el sureste de Turquía, en el río Balij (un afluente del Éufrates). La excavación arqueológica confirma ocupación continua desde al menos el tercer milenio a.C. Jarán era un importante centro comercial en la ruta entre Mesopotamia y el Mediterráneo, y un centro de culto del dios lunar Sin — la misma deidad adorada en Ur. El movimiento de la familia de Taré de Ur a Jarán puede reflejar movimiento entre dos ciudades que comparten una tradición religiosa común. Los textos de Mari (siglo XVIII a.C.) atestiguan la importancia comercial de la ciudad.
 
 **Fuente:** Lloyd, S. & Brice, W., "Harran," *Anatolian Studies* 1 (1951), pp. 77-111; Gadd, C.J., "The Harran Inscriptions of Nabonidus," *AnSt* 8 (1958).
 
@@ -144,28 +149,96 @@ La tradición tipológica cristiana lee Hechos 2 (Pentecostés) como una reversi
 ### F2. Las 70 naciones y 70 lenguas — tradición rabínica
 **[RECEPCIÓN POSTERIOR — DOCUMENTADO]**
 
-La tradición rabínica (Talmud Babilónico, Sukkah 55b; Targum Pseudo-Jonatán sobre Gn 11:7-8) conecta la Tabla de las Naciones en Gn 10 (70 descendientes de Noaj) con la dispersión de Bavel en Gn 11 para producir una tradición de 70 naciones hablando 70 lenguas. El número 70 se vuelve paradigmático: 70 ancianos (Ex 24:1), 70 miembros del Sanedrín, y la tradición de la Septuaginta de 70 (o 72) traductores que rindieron la Torá al griego. El texto mismo no declara el número de lenguas producidas en Bavel; la tradición de las 70 lenguas es una síntesis midrásica de Gn 10 y Gn 11.
+La tradición rabínica (Talmud Babilónico, Sukkah 55b; Targum Pseudo-Jonatán sobre Gn 11:7-8) conecta la Tabla de las Naciones en Gn 10 (70 descendientes de Noé) con la dispersión de Bavel en Gn 11 para producir una tradición de 70 naciones hablando 70 lenguas. El número 70 se vuelve paradigmático: 70 ancianos (Ex 24:1), 70 miembros del Sanedrín, y la tradición de la Septuaginta de 70 (o 72) traductores que rindieron la Torá al griego. El texto mismo no declara el número de lenguas producidas en Bavel; la tradición de las 70 lenguas es una síntesis midrásica de Gn 10 y Gn 11.
 
 **Fuente:** Talmud Babilónico, Sukkah 55b; Targum Pseudo-Jonatán sobre Gn 11:7-8; Ginzberg, L., *Legends of the Jews*, vol. 1, 1909.
+
+### F3. Declaración anti-uso indebido — la narrativa de Babel
+**[INFERENCIA FUERTE — PROBABLE]**
+
+La narrativa de Babel ha sido utilizada para condenar la tecnología, las ciudades, la ambición cultural y la diversidad lingüística. El propio texto es más matizado: el proyecto de los constructores es interrumpido, pero la diversidad lingüística resultante y la dispersión por la tierra cumplen el mandato divino anterior de "llenar la tierra" (1:28; 9:1). La narrativa presenta una interrupción divina, no un veredicto anti-civilización comprehensivo. La respuesta de YHWH no es un castigo por la impiedad en abstracto, sino una intervención específica contra un proyecto específico de auto-elevación y anti-dispersión. El texto no pronuncia la diversidad lingüística humana como una maldición, la vida urbana como inherentemente corrupta, ni la ambición tecnológica como categóricamente prohibida.
 
 ---
 
 ## G. Curiosidades y Preguntas Abiertas
 
-### G1. ¿Por qué la genealogía se detiene en Teraj, no en Avram?
+### G1. ¿Por qué la genealogía se detiene en Taré, no en Abrán?
 **[TEXTUAL — VERIFICADO]**
 
-Gn 11:27: "Estas son las generaciones (*toledot*) de Teraj." La fórmula genealógica nombra a Teraj — no a Avram — como el encabezado estructural. El toledot es "de Teraj," así como las secciones precedentes son "de Sem" (11:10) y "de Noaj" (6:9). Avram no recibe su propio encabezado de toledot en ningún lugar de Génesis. Aparece dentro del toledot de Teraj. Esta es una decisión estructural del texto: la narrativa de Abraham está formalmente contenida dentro de "las generaciones de Teraj." El patriarca que se convierte en la figura más trascendente de Génesis es introducido como hijo de alguien, no como un encabezado por derecho propio.
+Gn 11:27: "Estas son las generaciones (*toledot*) de Taré." La fórmula genealógica nombra a Taré — no a Abrán — como el encabezado estructural. El toledot es "de Taré," así como las secciones precedentes son "de Sem" (11:10) y "de Noé" (6:9). Abrán no recibe su propio encabezado de toledot en ningún lugar de Génesis. Aparece dentro del toledot de Taré. Esta es una decisión estructural del texto: la narrativa de Abraham está formalmente contenida dentro de "las generaciones de Taré." El patriarca que se convierte en la figura más trascendente de Génesis es introducido como hijo de alguien, no como un encabezado por derecho propio.
 
-### G2. El viaje de Teraj — Kenaan pretendido, Jarán alcanzado
+### G2. El viaje de Taré — Canaán pretendido, Jarán alcanzado
 **[TEXTUAL — POSIBLE]**
 
-Gn 11:31: "Salieron con ellos de Ur de los Kasdim para ir a la tierra de Kenaan, y llegaron hasta Jarán y se asentaron allí." El texto declara que el destino era Kenaan. El texto declara que se detuvieron en Jarán. El texto no explica por qué. ¿Envejeció Teraj? ¿Hubo una razón económica? ¿El llamado divino (12:1) vino solo a Avram, haciendo de la continuación del viaje la misión exclusiva de Avram? El texto guarda silencio. El viaje está incompleto — y la completación recae en Avram en Gn 12. La TT rinde los hechos declarados sin llenar el vacío.
+Gn 11:31: "Salieron con ellos de Ur de los Kasdim para ir a la tierra de Canaán, y llegaron hasta Jarán y se asentaron allí." El texto declara que el destino era Canaán. El texto declara que se detuvieron en Jarán. El texto no explica por qué. ¿Envejeció Taré? ¿Hubo una razón económica? ¿El llamado divino (12:1) vino solo a Abrán, haciendo de la continuación del viaje la misión exclusiva de Abrán? El texto guarda silencio. El viaje está incompleto — y la completación recae en Abrán en Gn 12. La TT rinde los hechos declarados sin llenar el vacío.
 
-### G3. El problema aritmético — la edad de Teraj y la partida de Avram
+### G3. El problema aritmético — la edad de Taré y la partida de Abrán
 **[TEXTUAL — VERIFICADO]**
 
-Gn 11:26: "Teraj vivió setenta años y engendró a Avram, Najor y Harán." Gn 11:32: "Los días de Teraj fueron doscientos cinco años, y Teraj murió en Jarán." Gn 12:4: "Avram tenía setenta y cinco años cuando salió de Jarán." Si Teraj tenía 70 cuando nació Avram (11:26) y Avram salió de Jarán a los 75 (12:4), Teraj debería haber tenido 145 cuando Avram partió — dejando 60 años antes de la muerte de Teraj a los 205. Sin embargo, Esteban en Hechos 7:4 declara que Avram salió de Jarán "después de que su padre murió." El Pentateuco Samaritano resuelve esto registrando la esperanza de vida de Teraj como 145 años (haciendo coincidir muerte y partida). El Texto Masorético no armoniza; los números se mantienen tal como son. Posibles resoluciones: (1) Avram no era el primogénito a pesar de ser listado primero — puede haber nacido cuando Teraj tenía 130, no 70; (2) Esteban siguió la tradición samaritana u otra variante textual; (3) las cronologías sirven diferentes propósitos narrativos y no fueron pensadas para ser armonizadas aritméticamente. La TT rinde los números del TM.
+Gn 11:26: "Taré vivió setenta años y engendró a Abrán, Nacor y Harán." Gn 11:32: "Los días de Taré fueron doscientos cinco años, y Taré murió en Jarán." Gn 12:4: "Abrán tenía setenta y cinco años cuando salió de Jarán." Si Taré tenía 70 cuando nació Abrán (11:26) y Abrán salió de Jarán a los 75 (12:4), Taré debería haber tenido 145 cuando Abrán partió — dejando 60 años antes de la muerte de Taré a los 205. Sin embargo, Esteban en Hechos 7:4 declara que Abrán salió de Jarán "después de que su padre murió." El Pentateuco Samaritano resuelve esto registrando la esperanza de vida de Taré como 145 años (haciendo coincidir muerte y partida). El Texto Masorético (el texto hebreo estándar utilizado en la mayoría de las traducciones) no armoniza; los números se mantienen tal como son. Posibles resoluciones: (1) Abrán no era el primogénito a pesar de ser listado primero — puede haber nacido cuando Taré tenía 130, no 70; (2) Esteban siguió la tradición samaritana u otra variante textual; (3) las cronologías sirven diferentes propósitos narrativos y no fueron pensadas para ser armonizadas aritméticamente. La TT rinde los números del TM.
+
+---
+
+## I. El Mundo en Esa Época
+
+La datación de la composición del Génesis es debatida. Esta sección presenta "el mundo en esa época" para cada escenario principal, de modo que los lectores que sostengan cualquier posición puedan ver el contexto histórico relevante para los temas específicos de Génesis 11: la arquitectura de torres y zigurats, la ideología de la civilización urbana, la diversidad lingüística en el mundo antiguo, los patrones de migración y las ciudades de Ur y Jarán como lugares reales en el mapa antiguo. Para el panorama político, económico y social completo de cada período, véase el compañero de Génesis 1 (Sección I).
+
+---
+
+### Escenario A: Si fue compuesto durante el período mosaico (~siglo XIII a. e. c.)
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]** *(Atribución tradicional)*
+
+**I-A1. Los zigurats tal como los conocía la audiencia**
+Para el siglo XIII a. e. c., los zigurats se habían construido en toda Mesopotamia durante más de mil años. Ur-Nammu de la Tercera Dinastía de Ur (c. 2112-2095 a. e. c.) construyó el gran zigurat de Ur, cuyas ruinas aún se encuentran en pie. Los zigurats de Eridú, Nippur, Asur y otras ciudades eran hitos antiguos. Una audiencia israelita, incluso en el Sinaí o el Canaán temprano, podría haber conocido los zigurats por su reputación a través de los contactos asiáticos de Egipto — los textos egipcios mencionan ciudades mesopotámicas y su arquitectura monumental. Los materiales de construcción de la narrativa de Babel (ladrillo cocido, betún — ambos distintivamente mesopotámicos, en contraste con la piedra usada en Canaán y Egipto) habrían señalado a una audiencia informada: esta historia está ambientada en el corazón de la civilización, y se está describiendo la forma arquitectónica característica de esa civilización.
+
+**I-A2. La diversidad lingüística en la Edad del Bronce Tardío**
+La Edad del Bronce Tardío fue un período de multilingüismo agresivo. Las Cartas de Amarna (siglo XIV a. e. c.) muestran a reyes de ciudades cananeas escribiendo al Faraón egipcio en acadio (la lengua diplomática) con glosas cananeas insertadas. Los escribas hititas usaban la cuneiforme para el hitita, el acadio, el sumerio, el luvita y el hurrita simultáneamente. La escuela escribal de Ugarit enseñaba múltiples sistemas de escritura. La diversidad de lenguas era una realidad práctica para cualquiera que se dedicara al comercio o la diplomacia. La explicación de Génesis 11 de la diversidad lingüística como originada en la intervención divina en Babel habría abordado una pregunta que todo corresponsal diplomático multilingüe enfrentaba implícitamente: ¿por qué necesitamos tantos traductores?
+
+**I-A3. La ambición urbana versus la vida en el desierto**
+La narrativa mosaica enmarca a Israel como un pueblo llamado fuera de las ciudades de Egipto y la esclavitud que conllevan, sustentado por la provisión divina en el desierto, destinado a una tierra que cultivará. El impulso anti-urbano de la narrativa de Babel — construir una ciudad para hacerse un nombre, resistido por YHWH — habría tenido resonancia inmediata. Egipto era una civilización de construcción monumental (las pirámides ya tenían 1.000 años en tiempos de Moisés). El impulso de los constructores de Babel de crear un monumento arquitectónico a sí mismos refleja el programa de construcción faraónico que Israel había servido como trabajo esclavo. La perturbación de Babel por parte de YHWH es estructuralmente paralela a la liberación de Egipto por parte de YHWH: en ambos casos, la intervención divina interrumpe un proyecto de auto-elevación humana.
+
+---
+
+### Escenario B: Si fue compuesto durante el período monárquico (~siglos X-IX a. e. c.)
+**[HISTÓRICO / ARQUEOLÓGICO — POSIBLE]** *(Algunos eruditos sitúan aquí las tradiciones de las fuentes tempranas)*
+
+**I-B1. El programa de construcción de Salomón y el eco de Babel**
+El período monárquico vio la primera construcción monumental significativa de Israel: el templo de Salomón (siete años), el palacio (trece años) y las ciudades fortificadas. La oración de dedicación del templo (1 Re 8:27) pregunta: "¿Pero acaso Dios morará verdaderamente en la tierra? He aquí que los cielos, y los cielos de los cielos, no te pueden contener." La tensión entre la trascendencia divina y la aspiración arquitectónica humana se plantea explícitamente en la propia tradición de Salomón. Los constructores de Babel quieren una torre "con su cúspide en el cielo" (11:4) y una ciudad que preservará su nombre (11:4). Salomón construye una casa para el nombre de YHWH (1 Re 8:16-20). El período monárquico estaba ocupado exactamente con esta pregunta: ¿cuál es la relación apropiada entre la construcción humana y la presencia divina?
+
+**I-B2. La urbanización y el mandato de la dispersión**
+El período monárquico vio a Israel hacer la transición de una confederación tribal laxa a un estado centralizado con capital, templo y aparato administrativo. La perturbación divina de la urbanización en la narrativa de Babel — el objetivo de los constructores era evitar la dispersión (11:4); la respuesta de YHWH fue dispersarlos (11:8) — habría planteado preguntas incisivas en este contexto. ¿Era Jerusalén otro Babel? ¿Era el templo otra torre? Los profetas que desafiaron a Salomón y sus sucesores (Natán, Elías, Amós) se basaron precisamente en esta tradición contra-urbana. La historia de Babel proporcionó la narrativa fundacional para el escepticismo sobre el poder político y religioso concentrado.
+
+**I-B3. Las ciudades mesopotámicas como el imperio que amenazaba a Israel**
+En el siglo IX a. e. c., Asiria (cuyas ciudades fundacionales — Nínive, Calaj/Kélaj — aparecen en Génesis 10:11-12, la lista de Nimrod que precede a este capítulo) estaba comenzando su expansión hacia el oeste. El Monolito de Kurkh (853 a. e. c.) registra las campañas de Salmanasar III en Siria y la coalición levantina que lo resistió. Babilonia era una ciudad-estado subordinada en este tiempo pero retenía prestigio cultural como la ciudad más antigua y famosa del mundo. Leyendo la narrativa de la torre de Génesis 11 contra este trasfondo: las grandes ciudades de Mesopotamia — Babel, Asur, Nínive — se presentan no como centros de bendición divina sino como el producto de un proyecto que YHWH interrumpió. Su grandeza no confiere legitimidad; su fundación es el resultado del juicio divino.
+
+---
+
+### Escenario C: Si fue compuesto durante el período exílico/postexílico (~siglos VI-V a. e. c.)
+**[HISTÓRICO / ARQUEOLÓGICO — PROBABLE]** *(Consenso académico para la forma final)*
+
+**I-C1. El Etemenanki — la torre de Babel como hito conocido**
+Los exiliados judíos en Babilonia (586-539 a. e. c.) podían ver el zigurat del Etemenanki en persona. Heródoto (1.181-183) lo describe como una torre escalonada masiva con un templo en la cima, usada para el descenso del dios Marduk a la tierra. La inscripción de Nabucodonosor II describe su restauración del Etemenanki: "Elevé la cima del Etemenanki para que rivalizara con el cielo." La frase "rivalizara con el cielo" coincide casi exactamente con el "su cúspide en el cielo" de Génesis 11:4. Para los exiliados judíos en Babilonia, la narrativa de Babel no era una leyenda antigua — era una descripción del monumento visible desde la ciudad en que vivían. La ironía del descenso de YHWH para ver una torre construida para alcanzar el cielo (11:5) habría sido inmediatamente legible para cualquiera que hubiera estado realmente al pie del Etemenanki.
+
+**I-C2. La lengua como identidad bajo la presión imperial**
+La administración imperial babilónica y persa requería la asimilación lingüística. El arameo se convirtió en la *lingua franca* del Imperio Persa (Esd 4:7; Dn 2:4 — el texto cambia al arameo en el punto donde hablan los oficiales babilónicos). El hebreo era cada vez más una lengua literaria y litúrgica en lugar de una cotidiana. Los exiliados judíos en Babilonia navegaban un mundo de múltiples lenguas exactamente como Génesis 11 describe su secuela: diferentes pueblos, diferentes lenguas, incapaces de comunicarse plenamente. La narrativa de Babel, leída en este contexto, explica la fragmentación lingüística del imperio no como un desarrollo natural sino como acción divina — e implícitamente sugiere que la unidad que la diversidad lingüística impide es recuperable, dado que una vez existió.
+
+**I-C3. La migración: desde Ur y Jarán como geografía ancestral de los exiliados**
+Génesis 11:31 describe a la familia de Téraj trasladándose de Ur de los Kasdim (caldeos) a Jarán. "Ur de los Kasdim" — Ur de los caldeos — usa el nombre de la dinastía gobernante de Babilonia (los caldeos, el Imperio Neobabilónico). Para los exiliados en Babilonia, el punto de partida ancestral estaba dentro de la tierra natal de sus actuales captores. La ruta de migración de Ur a Jarán seguía el Éufrates hacia el noroeste — el mismo corredor general que los exiliados recorrerían en sentido inverso al regresar a Canaán bajo el decreto de Ciro (Esd 1-2). La geografía ancestral de Génesis 11 mapeó las rutas que los propios exiliados conocían: Mesopotamia → alto Éufrates → Canaán.
+
+---
+
+### Escenario D: Si fue redactado durante el período persa/helenístico temprano (~siglos IV-III a. e. c.)
+**[HISTÓRICO / ARQUEOLÓGICO — POSIBLE]** *(Asociado con la configuración final del Pentateuco)*
+
+**I-D1. La urbanización helenística y la pregunta de Babel**
+Las campañas de Alejandro (334-323 a. e. c.) produjeron uno de los mayores programas de construcción urbana de la historia: Alejandría en Egipto, Alejandría Éscate en Asia Central, Antioquía en Siria, Seleucia sobre el Tigris — nuevas ciudades fundadas y nombradas en honor de sus fundadores humanos. Los constructores de Babel querían "hacerse un nombre" (11:4). Los fundadores de ciudades helenísticos hicieron exactamente esto, a una escala sin precedentes. Para una comunidad judía que finalizaba el Pentateuco en los siglos IV-III a. e. c., la narrativa de Babel ofrecía una crítica teológica fundacional de la ideología de la civilización mediante la fundación de ciudades que encarnaban sus gobernantes helenísticos. La dispersión de los constructores de Babel es el relato de origen de la diversidad que el imperio de Alejandro estaba tratando de revertir mediante la homogeneización cultural griega.
+
+**I-D2. La diversidad lingüística en un imperio multilingüe**
+El período helenístico estuvo definido por la difusión del griego (*koiné*) como lengua común en un vasto mundo multilingüe. La traducción de la Torá al griego en la Septuaginta (datada tradicionalmente en el siglo III a. e. c. en Alejandría) es en sí misma evidencia de que las comunidades judías necesitaban el texto sagrado en la lengua común del imperio. En este contexto, la narrativa de Babel sobre la diversidad lingüística tiene un doble filo: explica por qué hay tantas lenguas (acción divina), e implícitamente cuestiona el proyecto de homogeneización lingüística (que el imperio helenístico, como Babel, estaba persiguiendo). La Torá estaba siendo traducida a la lengua del imperio; pero la propia narrativa de la Torá decía que la lengua del imperio era una de las muchas resultantes de la perturbación divina de exactamente este tipo de proyecto unificador.
+
+---
+
+*Para el contexto político, económico, social, militar y religioso completo de cada escenario, véase el compañero de Génesis 1, Sección I.*
 
 ---
 

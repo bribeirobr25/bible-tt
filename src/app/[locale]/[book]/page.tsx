@@ -1,11 +1,17 @@
-import { getTranslations, setRequestLocale } from "next-intl/server";
+import { BookMarked, BookOpen, Users } from "lucide-react";
 import { notFound } from "next/navigation";
-import { Link } from "@/ui/navigation/locale-link";
-import { getAvailableBooks, getAvailableChapters, getIntroductionData, getPeopleData } from "@/lib/content-loader";
-import type { Locale } from "@/infrastructure/i18n/config";
-import { IntroductionView } from "@/ui/enrichment/introduction-view";
+import { getTranslations, setRequestLocale } from "next-intl/server";
 import type { ClaimType, ConfidenceLevel } from "@/domain/content/types";
-import { Users } from "lucide-react";
+import type { Locale } from "@/infrastructure/i18n/config";
+import {
+  getAvailableBooks,
+  getAvailableChapters,
+  getIntroductionData,
+  getIntroductionOverview,
+  getPeopleData,
+} from "@/lib/content-loader";
+import { IntroductionView } from "@/ui/enrichment/introduction-view";
+import { Link } from "@/ui/navigation/locale-link";
 
 export async function generateStaticParams() {
   const books = await getAvailableBooks("en");
@@ -27,7 +33,11 @@ export default async function BookPage({
 
   const t = await getTranslations();
   const chapters = await getAvailableChapters(locale, book);
-  const introduction = await getIntroductionData(locale as Locale, book);
+  // Phase 5: landing page renders Section A (Overview) only via getIntroductionOverview;
+  // full introduction lives at /{book}/introduction.
+  const introduction = await getIntroductionOverview(locale as Locale, book);
+  const hasFullIntroduction =
+    (await getIntroductionData(locale as Locale, book)) != null;
   const people = await getPeopleData(locale as Locale, book);
 
   const sectionLabels: Record<string, string> = {
@@ -42,14 +52,14 @@ export default async function BookPage({
 
   const labelMaps = {
     claimTypes: {
-      "TEXTUAL": t("claimType.textual"),
+      TEXTUAL: t("claimType.textual"),
       "STRONG INFERENCE": t("claimType.strongInference"),
       "POSSIBLE INFERENCE": t("claimType.possibleInference"),
       "COMPARATIVE PARALLEL": t("claimType.comparativeParallel"),
       "LATER RECEPTION": t("claimType.laterReception"),
       "HISTORICAL / ARCHAEOLOGICAL": t("claimType.historicalArchaeological"),
       "SCIENTIFIC COMPARISON": t("claimType.scientificComparison"),
-      "SPECULATION": t("claimType.speculation"),
+      SPECULATION: t("claimType.speculation"),
     } as Record<ClaimType, string>,
     confidence: {
       VERIFIED: t("confidence.verified"),
@@ -77,31 +87,54 @@ export default async function BookPage({
             labelMaps={labelMaps}
           />
         )}
-        {people && people.entries.length > 0 && (
-          <details className="border border-border rounded-lg">
-            <summary className="flex items-center gap-3 px-4 py-3 cursor-pointer hover:bg-bg-surface transition-colors duration-150 rounded-lg">
-              <Users size={18} strokeWidth={1.5} className="text-text-muted shrink-0" />
+        <div className="flex flex-col sm:flex-row gap-3">
+          {hasFullIntroduction && (
+            <Link
+              href={`/${book}/introduction`}
+              className="flex-1 flex items-center gap-3 min-h-11 px-4 py-3 rounded-lg border border-border hover:border-accent/40 hover:bg-bg-surface transition-colors duration-200 focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2"
+            >
+              <BookMarked
+                size={18}
+                strokeWidth={1.5}
+                className="text-text-muted shrink-0"
+              />
+              <span className="font-[family-name:var(--font-ui)] text-sm font-medium text-text-primary">
+                {t("nav.bookIntroduction")}
+              </span>
+            </Link>
+          )}
+          {people && people.entries.length > 0 && (
+            <Link
+              href={`/${book}/people`}
+              className="flex-1 flex items-center gap-3 min-h-11 px-4 py-3 rounded-lg border border-border hover:border-accent/40 hover:bg-bg-surface transition-colors duration-200 focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2"
+            >
+              <Users
+                size={18}
+                strokeWidth={1.5}
+                className="text-text-muted shrink-0"
+              />
               <span className="font-[family-name:var(--font-ui)] text-sm font-medium text-text-primary">
                 {t("people.title")}
               </span>
-              <span className="text-xs text-text-muted ml-auto">{people.entries.length}</span>
-            </summary>
-            <div className="px-4 pb-4 space-y-3">
-              {people.entries.map((person) => (
-                <div key={person.slug} className="border-l-2 border-border pl-3 py-1">
-                  <p className="text-sm font-semibold text-text-primary">{person.name}</p>
-                  {person.nameMeaning && (
-                    <p className="text-xs text-text-muted">{t("people.meaning")}: {person.nameMeaning}</p>
-                  )}
-                  <p className="text-xs text-text-secondary">
-                    {person.lifespan && <span>{t("people.lifespan")}: {person.lifespan}</span>}
-                    {person.firstMention && <span className="ml-2">({person.firstMention})</span>}
-                  </p>
-                </div>
-              ))}
-            </div>
-          </details>
-        )}
+              <span className="text-xs text-text-muted ml-auto">
+                {people.entries.length}
+              </span>
+            </Link>
+          )}
+          <Link
+            href={`/${book}/context`}
+            className="flex-1 flex items-center gap-3 min-h-11 px-4 py-3 rounded-lg border border-border hover:border-accent/40 hover:bg-bg-surface transition-colors duration-200 focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2"
+          >
+            <BookOpen
+              size={18}
+              strokeWidth={1.5}
+              className="text-text-muted shrink-0"
+            />
+            <span className="font-[family-name:var(--font-ui)] text-sm font-medium text-text-primary">
+              {t("nav.bookContext")}
+            </span>
+          </Link>
+        </div>
         <div>
           <p className="text-sm text-text-muted mb-3">
             {t("nav.selectChapter")}
@@ -110,7 +143,7 @@ export default async function BookPage({
             {chapters.map((ch) => (
               <Link
                 key={ch}
-                href={`/${book}/${ch}`}
+                href={`/${book}/chapter/${ch}`}
                 className="block px-5 py-4 rounded-lg border border-border hover:border-accent/40 hover:bg-bg-surface transition-colors duration-200 focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2 active:scale-[0.99]"
               >
                 <span className="font-medium">

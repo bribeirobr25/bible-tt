@@ -10,7 +10,7 @@
 **Capítulo:** Genesis 4
 **Idioma:** Português Brasileiro
 **Acompanha:** `pt-br/genesis/CHAPTER-4.md` (Edição Transparente)
-**Regras:** v3.0 (Regra 29 governa este arquivo)
+**Regras:** v3.3 (Regra 29 governa este arquivo)
 **Status:** provisório
 
 ---
@@ -20,7 +20,7 @@
 ### A1. Jogo de palavras Qayin/qanah — nome como narrativa
 **[TEXTUAL — VERIFICADO]**
 
-Genesis 4:1: Chava diz "Eu adquiri (*qaniti*) um homem." O nome Qayin (קַיִן) faz um trocadilho com *qanah* (קָנָה, adquirir). A TT preserva o nome transliterado para que o vínculo sonoro seja visível. Camada adicional: a raiz *qyn* em línguas semíticas cognatas significa "ferreiro/metalúrgico" — conectando-se ao descendente de Qayin, Tuval-Qayin, o metalúrgico (4:22).
+Genesis 4:1: Eva diz "Eu adquiri (*qaniti*) um homem." O nome Qayin (קַיִן) faz um trocadilho com *qanah* (קָנָה, adquirir). A TT preserva o nome transliterado para que o vínculo sonoro seja visível. Camada adicional: a raiz *qyn* em línguas semíticas cognatas significa "ferreiro/metalúrgico" — conectando-se ao descendente de Caim, Tuval-Qayin, o metalúrgico (4:22).
 
 **Fonte:** Alter, R., *Genesis: Translation and Commentary*, Norton, 1996, p. 16.
 
@@ -51,7 +51,7 @@ Genesis 4:7: *chatat* (pecado) é o sujeito de um verbo — "o pecado **agacha-s
 ### A6. Lacuna textual em 4:8 — o que Caim disse?
 **[TEXTUAL — VERIFICADO]**
 
-TM: "E Qayin disse a Hevel seu irmão…" — sem conteúdo de fala. A frase parece incompleta. A LXX e o Pentateuco Samaritano acrescentam "Vamos ao campo." A TT segue o TM com "…" e nota a variante conforme a Regra 22.
+TM: "E Caim disse a Abel seu irmão…" — sem conteúdo de fala. A frase parece incompleta. A LXX (a Septuaginta, a antiga tradução grega da Bíblia Hebraica) e o Pentateuco Samaritano acrescentam "Vamos ao campo." A TT segue o TM com "…" e nota a variante conforme a Regra 22.
 
 ### A7. "Sangues" plural — não singular
 **[TEXTUAL — VERIFICADO]**
@@ -61,22 +61,22 @@ Genesis 4:10: *demei* (דְּמֵי) é construto plural — "sangues," não "sa
 ### A8. Avon — pecado E punição em uma só palavra
 **[TEXTUAL — VERIFICADO]**
 
-Genesis 4:13: עָוֹן (*avon*) significa tanto "culpa/pecado" quanto "punição/consequência." O clamor de Qayin é genuinamente ambíguo: "Meu pecado é grande demais para suportar" OU "Minha punição é grande demais para suportar." A TT preserva ambos via barra.
+Genesis 4:13: עָוֹן (*avon*) significa tanto "culpa/pecado" quanto "punição/consequência." O clamor de Caim é genuinamente ambíguo: "Meu pecado é grande demais para suportar" OU "Minha punição é grande demais para suportar." A TT preserva ambos via barra.
 
 ### A9. Leste como exílio — o padrão continua
 **[TEXTUAL — VERIFICADO]**
 
-3:24: querubins a leste do Éden. 4:16: Qayin habita a leste do Éden na terra de Nod (*nod* = errância). O padrão de movimento para o leste = deslocamento da presença divina.
+3:24: querubins a leste do Éden. 4:16: Caim habita a leste do Éden na terra de Nod (*nod* = errância). O padrão de movimento para o leste = deslocamento da presença divina.
 
 ### A10. Adam se torna nome próprio em 4:25
 **[TEXTUAL — VERIFICADO]**
 
-Genesis 4:25: primeiro *adam* anártrico em um contexto genealógico/de nomeação. A TT muda de "o humano" para "Adam" aqui, sinalizado com uma nota 🔴 CRÍTICA. Esta é a decisão do registro editorial (entrada 081).
+Genesis 4:25: primeiro *adam* anártrico (sem o artigo definido no hebraico) em um contexto genealógico/de nomeação. A TT muda de "o humano" para "Adam" aqui, sinalizado com uma nota 🔴 CRÍTICA. Esta é a decisão do registro editorial (entrada 081).
 
 ### A11. "Outra semente" — a linhagem da mulher continua
 **[TEXTUAL — VERIFICADO]**
 
-Genesis 4:25: *zera acher* ("outra semente") — Chava recebe Seth como substituto de Abel. Continua o fio de "sua semente" de 3:15 e 3:20. A linhagem da mulher persiste através da violência e da perda.
+Genesis 4:25: *zera acher* ("outra semente") — Eva recebe Seth como substituto de Abel. Continua o fio de "sua semente" de 3:15 e 3:20. A linhagem da mulher persiste através da violência e da perda.
 
 ### A12. Primeira invocação de YHWH pelo nome
 **[TEXTUAL — VERIFICADO]**
@@ -90,7 +90,7 @@ Genesis 4:26: "Então se começou a invocar o nome de YHWH." Construção passiv
 ### B1. Dumuzi e Enkimdu — o conflito pastor-agricultor
 **[PARALELO COMPARATIVO — VERIFICADO]**
 
-O poema sumério "Inanna Prefere o Agricultor" (preservado no ETCSL, Oxford) apresenta um paralelo estrutural: o deus-pastor Dumuzi e o deus-agricultor Enkimdu competem pelo favor da deusa Inanna — a mesma tensão pastoral-vs-agrícola de Qayin (agricultor) e Hevel (pastor).
+O poema sumério "Inanna Prefere o Agricultor" (preservado no ETCSL, Oxford) apresenta um paralelo estrutural: o deus-pastor Dumuzi e o deus-agricultor Enkimdu competem pelo favor da deusa Inanna — a mesma tensão pastoral-vs-agrícola de Caim (agricultor) e Abel (pastor).
 
 **Diferença crucial:** A versão suméria se resolve pacificamente através de comércio e amizade. Genesis inverte isto — escalando para fratricídio e maldição divina. O autor bíblico pode estar deliberadamente subvertendo um tropo cultural conhecido.
 
@@ -99,14 +99,14 @@ O poema sumério "Inanna Prefere o Agricultor" (preservado no ETCSL, Oxford) apr
 ### B2. Genealogia cainita e origens da civilização no AOP
 **[PARALELO COMPARATIVO — VERIFICADO]**
 
-Genesis 4:17-22 atribui os fundamentos da civilização à linhagem de Qayin: pastoralismo (Yaval), música (Yuval), metalurgia (Tuval-Qayin). Na tradição mesopotâmica, esses avanços eram atribuídos a seres divinos — os *apkallu* (sete sábios enviados pelos deuses). Genesis é distinto: inovações culturais vêm de humanos comuns e amaldiçoados, não de agentes divinos.
+Genesis 4:17-22 atribui os fundamentos da civilização à linhagem de Caim: pastoralismo (Yaval), música (Yuval), metalurgia (Tuval-Qayin). Na tradição mesopotâmica, esses avanços eram atribuídos a seres divinos — os *apkallu* (sete sábios enviados pelos deuses). Genesis é distinto: inovações culturais vêm de humanos comuns e amaldiçoados, não de agentes divinos.
 
 **Fonte:** Clifford, R.J., *Creation Accounts in the ANE and Bible*, 1994.
 
 ### B3. Vingança de sangue e o "sinal de Caim"
 **[PARALELO COMPARATIVO — PROVÁVEL]**
 
-Culturas do AOP praticavam vingança de sangue (*go'el ha-dam* — resgatador por parentesco obrigado a vingar assassinato). A proteção divina sétupla para Qayin (4:15) estabelece dissuasão excedendo a proporcionalidade normal da vingança. O *ot* (sinal) funciona como proteção divina anti-vingança. O que o sinal fisicamente era é INCERTO — propostas incluem marca tribal, radiância divina ou sinal de aviso visível a outros.
+Culturas do AOP praticavam vingança de sangue (*go'el ha-dam* — resgatador por parentesco obrigado a vingar assassinato). A proteção divina sétupla para Caim (4:15) estabelece dissuasão excedendo a proporcionalidade normal da vingança. O *ot* (sinal) funciona como proteção divina anti-vingança. O que o sinal fisicamente era é INCERTO — propostas incluem marca tribal, radiância divina ou sinal de aviso visível a outros.
 
 ---
 
@@ -126,7 +126,7 @@ A Revolução Neolítica no Levante (c. 12.000-8.000 AEC) produziu exatamente a 
 ### D1. Qayin — três camadas etimológicas
 **[TEXTUAL / PARALELO COMPARATIVO — VERIFICADO]**
 
-1. **Etimologia bíblica:** *qanah* (adquirir) — o trocadilho explícito de Chava em 4:1
+1. **Etimologia bíblica:** *qanah* (adquirir) — o trocadilho explícito de Eva em 4:1
 2. **Semítico cognato:** raiz *qyn* = "ferreiro/metalúrgico" — conecta-se a Tuval-Qayin (4:22)
 3. **Nome tribal:** "Quenita" (*Qeni*) — uma tribo associada à metalurgia (Jz 4:11)
 
@@ -137,7 +137,7 @@ Todas as três camadas podem estar ativas no texto simultaneamente.
 ### D2. Cântico de Lemekh — poesia hebraica arcaica
 **[TEXTUAL — VERIFICADO]**
 
-Genesis 4:23-24 é amplamente reconhecido como um dos poemas hebraicos mais antigos da Bíblia. Características: paralelismo sinonímico (ouvi/dai ouvido; voz/fala; homem/criança; ferida/contusão), dicção poética distinta, possível aliteração no hebraico. Duas leituras: (1) jactância de violência desproporcional; (2) alegação de legítima defesa. De qualquer forma, a violência escala do assassinato único de Qayin para a jactância militarista de Lemekh.
+Genesis 4:23-24 é amplamente reconhecido como um dos poemas hebraicos mais antigos da Bíblia. Características: paralelismo sinonímico (ouvi/dai ouvido; voz/fala; homem/criança; ferida/contusão), dicção poética distinta, possível aliteração no hebraico. Duas leituras: (1) jactância de violência desproporcional; (2) alegação de legítima defesa. De qualquer forma, a violência escala do assassinato único de Caim para a jactância militarista de Lameque.
 
 ---
 
@@ -155,8 +155,8 @@ Genesis 4 apresenta o primeiro assassinato como surgido de rivalidade entre irm�
 ### F1. Recepção judaica
 **[RECEPÇÃO POSTERIOR — DOCUMENTADO]**
 
-- **Bereshit Rabbah:** discussão extensa sobre por que YHWH rejeitou a oferta de Qayin (qualidade? atitude? momento?)
-- **Pirke de-Rabbi Eliezer:** após o assassinato, um corvo ensinou Qayin como enterrar o corpo de seu irmão
+- **Bereshit Rabbah:** discussão extensa sobre por que YHWH rejeitou a oferta de Caim (qualidade? atitude? momento?)
+- **Pirke de-Rabbi Eliezer:** após o assassinato, um corvo ensinou Caim como enterrar o corpo de seu irmão
 - **"Sangues" plural** (4:10): a tradição rabínica lê isto como o sangue de Abel mais o sangue de todos os seus descendentes potenciais
 
 ### F2. Recepção cristã
@@ -187,7 +187,7 @@ O relato de Genesis 4 sobre Caim matando Abel é notoriamente lacônico — "Cai
 ### G1. De onde veio a esposa de Caim?
 **[TEXTUAL — INFERÊNCIA POSSÍVEL]**
 
-Genesis 4:17: "Qayin conheceu sua mulher" — mas nenhuma origem da esposa é declarada. Gen 5:4 nota que Adam "gerou filhos e filhas." O texto pressupõe uma população humana maior sem narrar sua origem. Isto é uma lacuna narrativa, não uma contradição — o texto é seletivo no que narra.
+Genesis 4:17: "Caim conheceu sua mulher" — mas nenhuma origem da esposa é declarada. Gen 5:4 nota que Adam "gerou filhos e filhas." O texto pressupõe uma população humana maior sem narrar sua origem. Isto é uma lacuna narrativa, não uma contradição — o texto é seletivo no que narra.
 
 ### G2. A primeira cidade — construída por um assassino
 **[TEXTUAL — VERIFICADO]**
@@ -197,24 +197,97 @@ Gen 4:17: o fratricida exilado constrói a primeira cidade. O texto não faz ava
 ### G3. Escalada de violência: 7 → 77
 **[TEXTUAL — VERIFICADO]**
 
-YHWH promete proteção sétupla para Qayin (4:15). Lemekh reivindica setenta e sete vezes para si mesmo (4:24). A vingança humana se apropria e infla a prerrogativa divina.
+YHWH promete proteção sétupla para Caim (4:15). Lameque reivindica setenta e sete vezes para si mesmo (4:24). A vingança humana se apropria e infla a prerrogativa divina.
 
 ### G4. Dois Lemekhs, dois Chanokhs
 **[TEXTUAL — VERIFICADO]**
 
-A linhagem cainita (Gen 4) e a linhagem setita (Gen 5) compartilham dois nomes: Chanokh e Lemekh. Indivíduos diferentes, mesmos nomes. O Lemekh cainita se vangloria de matar (4:23-24); o Lemekh setita espera por consolo (5:29). Nomes espelhados, trajetórias opostas.
+A linhagem cainita (Gen 4) e a linhagem setita (Gen 5) compartilham dois nomes: Enoque e Lameque. Indivíduos diferentes, mesmos nomes. O Lameque cainita se vangloria de matar (4:23-24); o Lameque setita espera por consolo (5:29). Nomes espelhados, trajetórias opostas.
 
 ### G5. "Sou eu o guardião do meu irmão?" — a questão ética fundacional
 **[INFERÊNCIA POSSÍVEL — PROVÁVEL]**
 
-A resposta de Caim ao "Onde está Hevel teu irmão?" de YHWH é a pergunta *ha-shomer achi anokhi* — "Sou eu o guardião do meu irmão?" (4:9). O texto a deixa sem resposta. Na ética, esta é a questão da responsabilidade moral pelo outro: a obrigação se estende além do dano direto ao dever positivo de cuidado? Levinas lê o encontro com o rosto do Outro como constituindo responsabilidade infinita. O texto não responde à pergunta de Caim filosoficamente — YHWH responde não com um princípio, mas com evidência ("a voz dos sangues do teu irmão clama a mim do solo"). O silêncio sobre o princípio, combinado com a consequência imediata, implica responsabilidade sem articular uma teoria dela. Esta pergunta sem resposta se torna um dos problemas fundacionais da ética social.
+A resposta de Caim ao "Onde está Abel teu irmão?" de YHWH é a pergunta *ha-shomer achi anokhi* — "Sou eu o guardião do meu irmão?" (4:9). O texto a deixa sem resposta. Na ética, esta é a questão da responsabilidade moral pelo outro: a obrigação se estende além do dano direto ao dever positivo de cuidado? Levinas lê o encontro com o rosto do Outro como constituindo responsabilidade infinita. O texto não responde à pergunta de Caim filosoficamente — YHWH responde não com um princípio, mas com evidência ("a voz dos sangues do teu irmão clama a mim do solo"). O silêncio sobre o princípio, combinado com a consequência imediata, implica responsabilidade sem articular uma teoria dela. Esta pergunta sem resposta se torna um dos problemas fundacionais da ética social.
 
 ### G6. A cidade de Caim e a genealogia de Lemekh — civilização e violência
 **[INFERÊNCIA POSSÍVEL — PROVÁVEL]**
 
-Genesis 4:17–22 situa as origens da civilização na linhagem de Caim: construção de cidades (4:17, Chanokh), habitação em tendas e criação de gado (4:20, Yaval), música (4:21, Yuval), e metalurgia em bronze e ferro (4:22, Tuval-Qayin). O texto associa urbanização, economia pastoril, artes e metalurgia com a linhagem do primeiro assassino — e a genealogia culmina no cântico de violência escalonada de Lemekh (4:23–24). Na sociologia urbana, Lewis Mumford (*The City in History*, 1961) observou que as primeiras cidades combinavam especialização produtiva com violência institucionalizada — muralhas de fortificação estão entre as mais antigas arquiteturas monumentais. O texto não argumenta que a civilização causa violência, nem que a violência invalida a civilização. Ele coloca ambas na mesma árvore genealógica e deixa o leitor observar o padrão.
+Genesis 4:17–22 situa as origens da civilização na linhagem de Caim: construção de cidades (4:17, Enoque), habitação em tendas e criação de gado (4:20, Yaval), música (4:21, Yuval), e metalurgia em bronze e ferro (4:22, Tuval-Qayin). O texto associa urbanização, economia pastoril, artes e metalurgia com a linhagem do primeiro assassino — e a genealogia culmina no cântico de violência escalonada de Lameque (4:23–24). Na sociologia urbana, Lewis Mumford (*The City in History*, 1961) observou que as primeiras cidades combinavam especialização produtiva com violência institucionalizada — muralhas de fortificação estão entre as mais antigas arquiteturas monumentais. O texto não argumenta que a civilização causa violência, nem que a violência invalida a civilização. Ele coloca ambas na mesma árvore genealógica e deixa o leitor observar o padrão.
 
 **Fonte:** Mumford, L., *The City in History*, Harcourt, 1961.
+
+---
+
+## I. O Mundo na Época
+
+A datação da composição de Gênesis é debatida. Esta seção apresenta "o mundo na época" para cada cenário principal, para que leitores com qualquer posição possam ver o contexto histórico que se aplicaria. A TT não toma partido sobre quando Gênesis foi composto — apresenta todas as posições acadêmicas principais e deixa o leitor avaliar. O contexto político, econômico e social geral de cada cenário é idêntico ao de Gênesis 1 — os mesmos impérios, as mesmas civilizações, os mesmos períodos. O foco aqui é como o conteúdo específico de Gênesis 4 — a agricultura versus o pastoralismo, as práticas de sacrifício e oferenda, o fratricídio, a marca de Caim, a construção de cidades e a genealogia cultural culminando em Tuval-Qayin — se conecta a cada mundo histórico. Para o contexto completo das 10 categorias, veja o companheiro de Gênesis 1 Seção I.
+
+---
+
+### Cenário A: Se composto durante o período mosaico (~séc. XIII a.C.)
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]** *(Atribuição tradicional)*
+
+**I-A1. Sacrifício e oferenda na prática da Idade do Bronze Tardio**
+Caim traz uma oferenda (*minchah*) de "fruto do solo" e Abel traz "dos primogênitos do seu rebanho e das suas porções gordas" (4:3-4). Na Canaã e no Egito da Idade do Bronze Tardio, tanto oferendas agrícolas quanto animais eram praticadas. A religião egípcia dos templos distinguia entre oferendas de grão, oferendas de pão e sacrifícios de animais dependendo da divindade e da ocasião. Os textos ugaríticos (aproximadamente contemporâneos ao cenário mosaico) documentam sacrifício de animais a El e Baal com regras específicas sobre qualidade e tipo de oferenda. A narrativa não explica por que YHWH considera a oferenda de Abel diferente — o texto deixa isso sem explicação, gerando séculos de debate. O que o público original reconheceria imediatamente: qualidade da oferenda (porções gordas versus fruto genérico) e o princípio dos primogênitos (o melhor, não qualquer excedente) eram distinções conhecidas no sacrifício do antigo Oriente Próximo.
+
+**I-A2. Fratricídio e lei clânica na sociedade nômade**
+Em um contexto tribal e nômade (o cenário mosaico), o fratricídio estava entre as violações mais graves da ordem social, pois destruía a unidade de parentesco da qual dependia a sobrevivência. Códigos legais do antigo Oriente Próximo desta época (o Código de Hammurabi, aproximadamente séc. XVII a.C.) não tratam especificamente do fratricídio, mas a retaliação baseada em clã pelo assassinato (*vingança de sangue*, *go'el ha-dam*) era o mecanismo operativo de justiça em sociedades sem tribunais centralizados. A proteção de YHWH sobre Caim com uma marca (4:15) — impedindo a vendeta — representa intervenção divina em um sistema que de outra forma mandataria retaliação. O *ot* (marca) substitui a sanção divina pela justiça de clã.
+
+**I-A3. Economias pastorais versus agrícolas no Sinai e no Levante**
+A tensão entre Caim (agricultor) e Abel (pastor) reflete uma fricção socioeconômica real visível no cenário mosaico: os israelitas eram pastores seminômades, enquanto Canaã tinha comunidades agrícolas sedentárias. A literatura suméria já havia formalizado essa tensão no "Debate entre a Ovelha e o Grão" — um concurso literário entre os dois modos de produção. No deserto do Sinai, os israelitas mantinham rebanhos; entrar em Canaã significava fazer a transição para a agricultura de grãos. A dinâmica Caim-Abel mapeia essa transição: ambos os modos são legítimos, ambos produzem oferendas, mas o conflito entre eles é mortal.
+
+*Para o contexto histórico completo deste período com todas as 10 categorias, veja o companheiro de Gênesis 1 Seção I, Cenário A.*
+
+---
+
+### Cenário B: Se composto durante o período monárquico (~séc. X–IX a.C.)
+**[HISTÓRICO / ARQUEOLÓGICO — POSSÍVEL]** *(Alguns estudiosos situam as tradições das fontes primitivas aqui)*
+
+**I-B1. Construção de cidades e legitimidade real**
+Gênesis 4:17 apresenta Caim construindo a primeira cidade e nomeando-a em homenagem a seu filho. No período monárquico, a construção de cidades era uma prerrogativa real e um ato primordial de legitimação. Davi capturou Jerusalém; Salomão construiu o complexo do templo e do palácio; Onri construiu Samaria. Inscrições reais em todo o antigo Oriente Próximo vangloriavam-se de fundar cidades e construir muralhas. A narrativa do Gênesis situa a origem da construção de cidades não em um fundador justo, mas no primeiro assassino — uma narrativa que questiona implicitamente a ideologia da expansão urbana real. Que o texto diz que Caim "estava construindo" (particípio, construção contínua) sem registrar sua conclusão é uma ambiguidade sutil: a cidade permanece inacabada no texto.
+
+**I-B2. Metalurgia e a conexão quenita**
+Tuval-Qayin (4:22), ancestral dos metalúrgicos, tem um nome cognato com *Qayin* (Caim) e possivelmente com os quenitas (*qeni*), um clã metalúrgico associado ao sogro de Moisés, Jetro (Jz 1:16; 4:11). No Israel da Idade do Ferro, a metalurgia era um ofício especializado, frequentemente praticado por artesãos itinerantes. A conexão entre os quenitas (ferreiros aliados a Israel) e Caim (o assassino amaldiçoado) é um enigma textual que a narrativa não resolve — o mesmo nome de raiz cobre tanto um ancestral amaldiçoado quanto um clã aliado. Essa ambiguidade é uma característica do texto, não um erro.
+
+**I-B3. Vingança de sangue e os limites da lei**
+O cântico de Lemec (4:23-24) escala a proteção de Caim: "Se Caim é vingado sete vezes, então Lemec setenta e sete vezes." No período monárquico, a tensão entre a vingança de clã (*vingador de sangue*) e a autoridade real/judicial estava viva. O reinado de Davi inclui múltiplos episódios de vingança de sangue (2 Sm 3, 14, 21). As cidades de refúgio (Nm 35; Dt 19) representam uma tentativa legal de regular o sistema de vendeta. A jactância de Lemec, situada na linhagem de Caim, representa uma escalada de violência com a qual a elaboração de leis não consegue acompanhar — uma tensão que o público monárquico reconheceria como atual.
+
+*Para o contexto histórico completo deste período com todas as 10 categorias, veja o companheiro de Gênesis 1 Seção I, Cenário B.*
+
+---
+
+### Cenário C: Se composto durante o período exílico/pós-exílico (~séc. VI–V a.C.)
+**[HISTÓRICO / ARQUEOLÓGICO — PROVÁVEL]** *(Consenso acadêmico para a forma final)*
+
+**I-C1. A tradição dos *apkallu* e a genealogia cultural de Caim**
+A tradição babilônica atribuía as origens da civilização — escrita, agricultura, arquitetura, música, metalurgia — aos *apkallu*: sete sábios semidivinos enviados por Enki/Ea antes do dilúvio para ensinar a humanidade. A genealogia cultural de Gênesis 4 (vida em tendas, música, metalurgia todas se originando na linhagem de Caim) cobre categorias civilizacionais semelhantes, mas as atribui não a sábios divinos, mas aos descendentes do primeiro assassino. Judeus no exílio vivendo na Babilônia, onde a tradição dos *apkallu* era ativamente mantida, reconheceriam o paralelo e a inversão: a civilização é humana, não semidivina; ela emerge de uma linhagem falha, não como um dom divino.
+
+**I-C2. Economias agrícolas e pastorais na Babilônia**
+O vale do Tigre-Eufrates no período exílico era intensamente agrícola — fazendas com irrigação por canais produzindo cevada, tâmaras e legumes. A pastagem operava nas regiões de estepe a leste e oeste dos sistemas fluviais. O arquivo Murashu (séc. V a.C.) mostra famílias judaicas na Babilônia envolvidas no arrendamento agrícola e no comércio de commodities — estavam integradas na economia agrícola de seus captores. A tensão Caim-Abel seria legível não como pré-história antiga, mas como realidade estrutural da economia ao redor deles: o agricultor e o pastor, em competição.
+
+**I-C3. Fratricídio e trauma nacional**
+Para uma comunidade que havia experimentado a destruição de Jerusalém, o assassinato dos filhos do rei Zedequias diante de seus olhos (2 Rs 25:7) e a dispersão de famílias pela Babilônia e pelo Egito, a narrativa de Gênesis 4 do irmão matando o irmão carregava o peso da memória nacional recente. A pergunta "Onde está seu irmão?" (4:9) — e a evasão de Caim — ressoava em uma comunidade que vira famílias destruídas, aliados mortos e o tecido social do parentesco despedaçado pela conquista imperial. A narrativa de Caim não é apenas história primordial nesse contexto; é uma lente sobre o presente.
+
+**I-C4. A marca de Caim e a prática administrativa persa**
+O Império Persa administrava seus vastos territórios em parte por meio de marcas de identificação, selos e fichas administrativas que rastreavam indivíduos e seu status. O *ot* (marca, sinal, ficha) em 4:15 é a mesma palavra usada para sinais astronômicos (Gn 1:14), circuncisão (*brit ot*, Gn 17:11) e o sangue da Páscoa nas ombreiras das portas (Êx 12:13). Em cada caso, o *ot* marca uma pessoa ou lugar como sob proteção ou status de aliança especial. A marca de Caim não é uma marca de vergonha — o texto é explícito: é uma proteção. Em um contexto administrativo persa, uma marca autorizada que impede outros de agir contra seu portador era uma forma reconhecível de proteção imperial.
+
+*Para o contexto histórico completo deste período com todas as 10 categorias, veja o companheiro de Gênesis 1 Seção I, Cenário C.*
+
+---
+
+### Cenário D: Se redacionado durante o período persa/início do período helenístico (~séc. IV–III a.C.)
+**[HISTÓRICO / ARQUEOLÓGICO — POSSÍVEL]** *(Associado à configuração final do Pentateuco)*
+
+**I-D1. Literatura genealógica grega e origens culturais**
+A tradição literária grega atribuía as origens das artes, ofícios e civilização a inventores lendários (*heuretai* — "primeiros descobridores"). Hesíodo atribuiu o fogo a Prometeu; tradições gregas posteriores catalogaram o primeiro inventor da música, da escrita, da agricultura e da metalurgia. O período helenístico produziu listas elaboradas de progenitores culturais. A genealogia de Gênesis 4 da linhagem de Caim — com fundadores nomeados para a vida em tendas/pastoralismo, música e metalurgia — participa do mesmo gênero intelectual, diferindo em seu enquadramento: esses inventores não são heróis ou semideuses, mas os descendentes do primeiro assassino. As origens da civilização são moralmente complicadas, e não heroicamente puras.
+
+**I-D2. Sacrifício no judaísmo do Segundo Templo**
+No período persa/helenístico, o sacrifício no Segundo Templo (reconstruído c. 515 a.C.) era o ato central da religião israelita. As regras que governavam o que constituía uma oferenda aceitável — o princípio dos primogênitos, as porções gordas, a distinção entre animais manchados e sem mancha — foram formalizadas em Levítico e Números. Ler Gênesis 4:3-4 nesse contexto colocou a oferenda rejeitada de Caim dentro de um sistema reconhecível: ele trouxe *algum* fruto, não os primeiros frutos; Abel trouxe especificamente os primogênitos e suas porções gordas. Os requisitos rituais que os judeus do Segundo Templo entendiam como regendo a adoração aceitável eram retrospectivamente visíveis na narrativa primordial.
+
+**I-D3. Urbanização e a cidade helenística (*polis*)**
+O período helenístico foi a grande era de fundação de cidades: Alexandre fundou Alexandria e dezenas de outras cidades; os selêucidas e os ptolomeus construíram e renomearam cidades em todo o Oriente Próximo. A *polis* — a cidade-estado grega com sua ágora, templos, ginásio e instituições cívicas — era o modelo de vida civilizada. A atribuição do Gênesis 4:17 da primeira cidade ao primeiro assassino teria peso satírico nesse contexto: a tradição da *polis* rastreava suas origens a legisladores ideais (Sólon, Licurgo); a tradição do Gênesis rastreia a urbanização a Caim. A contranarrativa é implícita, mas contundente.
+
+*Para o contexto histórico completo deste período com todas as 10 categorias, veja o companheiro de Gênesis 1 Seção I, Cenário D.*
 
 ---
 

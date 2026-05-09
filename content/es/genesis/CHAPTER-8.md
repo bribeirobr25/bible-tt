@@ -5,12 +5,13 @@
 ---
 
 **Texto Base:** Biblia Hebraica Stuttgartensia, 5a ed. rev. (Stuttgart: Deutsche Bibelgesellschaft, 1997)
+**Declaración:** Esta es una traducción nueva e independiente del hebreo. No es la Reina-Valera ni ninguna revisión de ella.
 **Edición:** Edición Transparente
 **Idioma:** Español
-**Metodología:** Sistema de Gobernanza de 29 Reglas (Reglas v3.0)
+**Metodología:** Sistema de Gobernanza de 29 Reglas (Reglas v3.3)
 **Política del Nombre Divino (Regla 25):** Opción A — Consonantal (YHWH).
-**Status:** borrador — pendiente de revisión por pares (Regla 28)
-**Revisores:** Hebraista: no asignado | Editor ES: no asignado | Alineación cruzada: no asignado
+**Status:** provisorio — pendiente de revisión por pares (Regla 28)
+**Revisores:** Hebraísta: no asignado | Editor ES: no asignado | Alineación cruzada: no asignado
 
 ---
 
@@ -28,7 +29,7 @@
 
 **📖 Texto Principal:** Traducción primaria — legible pero fiel a la estructura hebrea
 **📝 Notas:** Rasgos hebreos esenciales inmediatamente debajo de cada versículo
-***Cursiva:*** Palabras anadidas para la gramática del espanol (no estan en el texto hebreo)
+***Cursiva:*** Palabras anadidas para la gramática del español (no estan en el texto hebreo)
 **"Comillas":** Discurso divino directo
 **YHWH:** Tetragrama rendido consonantalmente (Regla 25, Opción A)
 
@@ -38,17 +39,17 @@
 - 🔵 **GRAMATICAL** - Estructura hebrea, formas verbales, sintaxis
 - 🟡 **TEOLÓGICO** - Opciónes interpretativas, preservacíon de ambigüedad
 
-**Este capítulo narra la recesion del diluvio y la re-emergencia de la vida.** La estructura refleja Génesis 1 — viento/espíritu sobre las aguas, tierra seca apareciendo, vida renovada. El capítulo culmina con la resolución interna de YHWH de nunca más maldecirél suelo, usando un lenguaje casí idéntico al juicio de 6:5 pero llegando a la conclusion opuesta.
+**Este capítulo narra la recesion del diluvio y la re-emergencia de la vida.** La estructura refleja Génesis 1 — viento/espíritu sobre las aguas, tierra seca apareciendo, vida renovada. El capítulo culmina con la resolución interna de YHWH de nunca más maldecir el suelo, usando un lenguaje casí idéntico al juicio de 6:5 pero llegando a la conclusion opuesta.
 
 ---
 
 ## VISIÓN GENERAL DEL CAPÍTULO
 
-**Qué sucede:** Dios recuerda a Noaj. Las aguas retroceden: fuentes y ventanas se cierran, un viento pasa sobre la tierra. La *tebah* reposa sobre Ararat. Noaj envía un cuervo (va y viene), luego una paloma tres veces (regresa, regresa con hoja de olivo, no regresa). Noaj retira la cubierta, ve suelo seco. Dios ordena la salida. Noaj construye un altar y sacrifica. YHWH huele el aroma de descanso y resuelve "nunca más" — usando el mismo diagnóstico (inclinación al mal) que provocó el diluvio.
+**Qué sucede:** Dios recuerda a Noaj (Noé). Las aguas retroceden: fuentes y ventanas se cierran, un viento pasa sobre la tierra. La *tebah* reposa sobre Ararat. Noé envía un cuervo (va y viene), luego una paloma tres veces (regresa, regresa con hoja de olivo, no regresa). Noé retira la cubierta, ve suelo seco. Dios ordena la salida. Noé construye un altar y sacrifica. YHWH huele el aroma de descanso y resuelve "nunca más" — usando el mismo diagnóstico (inclinación al mal) que provocó el diluvio.
 
-**Temas clave:** "Dios recordó" (*vayyizkor*) como el punto de giro narrativo; la recesión del diluvio refleja la creación (viento sobre las aguas, tierra seca apareciendo); el cuervo y la paloma como exploradores; la hoja de olivo como signo de recuperación; el primer altar (*mizbeach*); el juego de palabras *nichoach* (aroma de descanso / nombre de Noaj); la paradoja de 8:21 — la inclinación al mal ahora motiva la restricción, no la destrucción.
+**Temas clave:** "Dios recordó" (*vayyizkor*) como el punto de giro narrativo; la recesión del diluvio refleja la creación (viento sobre las aguas, tierra seca apareciendo); el cuervo y la paloma como exploradores; la hoja de olivo como signo de recuperación; el primer altar (*mizbeach*); el juego de palabras *nichoach* (aroma de descanso / nombre de Noé); la paradoja de 8:21 — la inclinación al mal ahora motiva la restricción, no la destrucción.
 
-**Observe:** La recesión invierte el diluvio en el mismo orden en que el diluvio invirtió la creación — una estructura narrativa de tres capas (creación a des-creación a re-creación); las fechas específicas se retoman (8:4, 5, 13, 14) — el diluvio abarca exactamente un año; "dijo en su corazón" (8:21) — interioridad divina, no declaración pública; la promesa de "nunca más" precede la ceremonia de pacto del Capítulo 9.
+**Observe:** La recesión invierte el diluvio en el mismo orden en que el diluvio invirtió la creación — una estructura narrativa de tres capas (creación a des-creación a re-creación); las fechas específicas se retoman (8:4, 5, 13, 14) — el diluvio abarca aproximadamente un año solar (370–371 días según la propia aritmética del texto); "dijo en su corazón" (8:21) — interioridad divina, no declaración pública; la promesa de "nunca más" precede la ceremonia de pacto del Capítulo 9.
 
 **Conexión:** El altar y el sacrificio (8:20) anticipan el pacto formal del Capítulo 9. La raíz *nacham* reaparece implícitamente — aquel llamado "consuelo" (5:29) ha sobrevivido al evento del "pesar" divino (6:6).
 
@@ -60,15 +61,15 @@
 
 ---
 
-¹Y Dios se acordo de Noaj y de todo ser vivo y de todoél ganado que *estaban* conél en la tebah, y Dios hizo pasar un viento/espíritu sobre la tierra, y las aguas menguaron. ²Y las fuentes del abismo y las ventanas del cielo fueron cerradas, y la lluvia del cielo fue contenida. ³Y las aguas volvieron de sobre la tierra, yendo y volviendo, y las aguas disminuyeron al cabo de ciento cincuenta dias. ⁴Y la tebah descanso en el septimo mes, en el día diecisiete del mes, sobre los montes de Ararat. ⁵Y las aguas iban yendo y disminuyendo hastaél decimo mes; en el decimo *mes*,él primero del mes, aparecieron las cimás de los montes.
+¹Y Dios se acordó de Noé y de todo ser vivo y de todo el ganado que *estaban* con él en la tebah, y Dios hizo pasar un viento/espíritu sobre la tierra, y las aguas menguaron. ²Y las fuentes del abismo y las ventanas del cielo fueron cerradas, y la lluvia del cielo fue contenida. ³Y las aguas volvieron de sobre la tierra, yendo y volviendo, y las aguas disminuyeron al cabo de ciento cincuenta dias. ⁴Y la tebah descansó en el septimo mes, en el día diecisiete del mes, sobre los montes de Ararat. ⁵Y las aguas iban yendo y disminuyendo hasta el décimo mes; en el décimo *mes*, el primero del mes, aparecieron las cimás de los montes.
 
-⁶Y fue al cabo de cuarenta días, y Noaj abrió la ventana de la tebah que había hecho. ⁷Y envió al cuervo, y salió, saliendo y volviendo, hasta que las aguas se secaron de sobre la tierra. ⁸Y envió a la paloma de con el, para ver si las aguas habian disminuido de sobre la faz del suelo. ⁹Y la paloma no hallo lugar de descanso para la planta de su pie, y volvió aél a la tebah, pues aguas *habia* sobre la faz de toda la tierra; yél extendió su mano y la tomó y la trajo aél a la tebah. ¹⁰Y espero aun siete días más, y de nuevo envió a la paloma desde la tebah. ¹¹Y la paloma vino aél a la hora de la tarde, y he aquí, una hoja de olivo recien arrancada *estaba* en su boca; y Noaj supo que las aguas habian disminuido de sobre la tierra. ¹²Y espero aun siete días más, y envió a la paloma, y ella no volvió aél otra vez.
+⁶Y fue al cabo de cuarenta días, y Noé abrió la ventana de la tebah que había hecho. ⁷Y envió al cuervo, y salió, saliendo y volviendo, hasta que las aguas se secaron de sobre la tierra. ⁸Y envió a la paloma de con el, para ver si las aguas habian disminuido de sobre la faz del suelo. ⁹Y la paloma no halló lugar de descanso para la planta de su pie, y volvió a él a la tebah, pues aguas *habia* sobre la faz de toda la tierra; y él extendió su mano y la tomó y la trajo a él a la tebah. ¹⁰Y esperó aun siete días más, y de nuevo envió a la paloma desde la tebah. ¹¹Y la paloma vino a él a la hora de la tarde, y he aquí, una hoja de olivo recien arrancada *estaba* en su boca; y Noé supo que las aguas habian disminuido de sobre la tierra. ¹²Y esperó aun siete días más, y envió a la paloma, y ella no volvió a él otra vez.
 
-¹³Y fue en el año seiscientos uno, en el primer *mes*,él primero del mes, las aguas se secaron de sobre la tierra; y Noaj quito la cubierta de la tebah y miro, y he aquí, la faz del suelo se había secado. ¹⁴Y en el segundo mes, en el día veintisiete del mes, la tierra estaba seca.
+¹³Y fue en el año seiscientos uno, en el primer *mes*, el primero del mes, las aguas se secaron de sobre la tierra; y Noé quito la cubierta de la tebah y miro, y he aquí, la faz del suelo se había secado. ¹⁴Y en el segundo mes, en el día veintisiete del mes, la tierra estaba seca.
 
-¹⁵Y Dios habló a Noaj, diciendo, ¹⁶"Sal de la tebah, tu y tu mujer y tus hijos y las mujeres de tus hijos contigo. ¹⁷Todo ser vivo que *esta* contigo de toda carne —él ave yél ganado y todo lo que se arrastra que se arrastra sobre la tierra — sacalos contigo, y que pululen en la tierra, y sean fecundos y se multipliquen sobre la tierra." ¹⁸Y Noaj salió, y sus hijos y su mujer y las mujeres de sus hijos con el. ¹⁹Todo ser vivo, todo lo que se arrastra y toda ave, todo lo que se mueve sobre la tierra, por sus familias salieron de la tebah.
+¹⁵Y Dios habló a Noé, diciendo, ¹⁶"Sal de la tebah, tu y tu mujer y tus hijos y las mujeres de tus hijos contigo. ¹⁷Todo ser vivo que *esta* contigo de toda carne — el ave y el ganado y todo lo que se arrastra que se arrastra sobre la tierra — sacalos contigo, y que pululen en la tierra, y sean fecundos y se multipliquen sobre la tierra." ¹⁸Y Noé salió, y sus hijos y su mujer y las mujeres de sus hijos con el. ¹⁹Todo ser vivo, todo lo que se arrastra y toda ave, todo lo que se mueve sobre la tierra, por sus familias salieron de la tebah.
 
-²⁰Y Noaj construyó un altar a YHWH, y tomó de todo ganado limpio y de toda ave limpia, y ofreció ofrendas quemadas sobreél altar. ²¹Y YHWH olioél aroma apaciguante, y YHWH dijo en su corazón, "No volvere a maldecirél suelo por causa del humano, pues la inclinación del corazón del humano *es* mala desde su juventud; y no volvere a golpear a todo ser vivo como he hecho. ²²Mientras aun *sean* todos los días de la tierra, siembra y cosecha, y frio y calor, y verano e invierno, y día y noche no cesaran."
+²⁰Y Noé construyó un altar a YHWH, y tomó de todo ganado limpio y de toda ave limpia, y ofreció ofrendas quemadas sobre el altar. ²¹Y YHWH olió el aroma apaciguante, y YHWH dijo en su corazón, "No volveré a maldecir el suelo por causa del humano, pues la inclinación del corazón del humano *es* mala desde su juventud; y no volveré a golpear a todo ser vivo como he hecho. ²²Mientras aun *sean* todos los días de la tierra, siembra y cosecha, y frio y calor, y verano e invierno, y día y noche no cesaran."
 
 ---
 
@@ -76,17 +77,17 @@
 
 ### **Versículo 1**
 
-Y Dios se acordo de Noaj y de todo ser vivo y de todoél ganado que *estaban* conél en la tebah, y Dios hizo pasar un viento/espíritu sobre la tierra, y las aguas menguaron.
+Y Dios se acordó de Noé y de todo ser vivo y de todo el ganado que *estaban* con él en la tebah, y Dios hizo pasar un viento/espíritu sobre la tierra, y las aguas menguaron.
 
 > **📝 NOTAS**
 >
-> 🔴 **CRÍTICO — "DIOS SE ACORDO" (*vayyizkor*)**
-> - **וַיִּזְכֹּר אֱלֹהִים** (*vayyizkor elohim*) = "Y Dios se acordo." En hebreo,él "acordarse" divino no implica olvido. Significa que Dios dirigio su atención para actuar. Mismo verbo usado para Dios "acordandose" de Rajel (Gn 30:22) e Israel en Egipto (Ex 2:24).
+> 🔴 **CRÍTICO — "DIOS SE ACORDÓ" (*vayyizkor*)**
+> - **וַיִּזְכֹּר אֱלֹהִים** (*vayyizkor elohim*) = "Y Dios se acordó." En hebreo, el "acordarse" divino no implica olvido. Significa que Dios dirigio su atención para actuar. Mismo verbo usado para Dios "acordandose" de Rajel (Gn 30:22) e Israel en Egipto (Ex 2:24).
 >
 > 🔴 **CRÍTICO — RUACH SOBRE LAS AGUAS — RE-CREACION**
-> - **וַיַּעֲבֵר אֱלֹהִים רוּחַ עַל־הָאָרֶץ** = "Dios hizo pasar un *ruach* sobre la tierra." Eco directo de Gn 1:2: "y *ruach* de Dios cerniendose sobre la faz de las aguas." La misma palabra (*ruach* = viento/espíritu) en el mismo contexto cosmico: viento/espíritu sobre agua. La recesion del diluvio replica fielmente como comenzó la creación — *ruach* sobre agua. Re-creación.
-> - Barra de la Regla 2 preservada: viento/espíritu.
-> - Nota sobre genero: *ruach* es femenino en hebreo; "viento" y "espíritu" son masculinos en espanol.
+> - **וַיַּעֲבֵר אֱלֹהִים רוּחַ עַל־הָאָרֶץ** = "Dios hizo pasar un *ruach* sobre la tierra." Eco directo de Gn 1:2: "y *ruach* de Dios cerniendose sobre la faz de las aguas" — la misma palabra en el mismo contexto cosmico justifica la barra Regla 2: viento/espíritu.
+> - Nota sobre genero: *ruach* es femenino en hebreo; "viento" y "espíritu" son masculinos en español.
+> - Para una discusión más completa, vea el compañero Sección A.
 
 ---
 
@@ -114,21 +115,21 @@ Y las aguas volvieron de sobre la tierra, yendo y volviendo, y las aguas disminu
 
 ### **Versículo 4**
 
-Y la tebah descanso en el septimo mes, en el día diecisiete del mes, sobre los montes de Ararat.
+Y la tebah descansó en el septimo mes, en el día diecisiete del mes, sobre los montes de Ararat.
 
 > **📝 NOTAS**
 >
 > 🟢 **"MONTES DE ARARAT"**
-> - **הָרֵי אֲרָרָט** (*hare Ararat*) = "montes de Ararat" — una cadena montanosa, no un pico unico. Ararat =él antiguo reino de Urartu (Turquia oriental/Armenia). El texto dice "montes" (plural), no "Monte Ararat" (singular).
+> - **הָרֵי אֲרָרָט** (*hare Ararat*) = "montes de Ararat" — una cadena montanosa, no un pico unico. Ararat = el antiguo reino de Urartu (Turquia oriental/Armenia). El texto dice "montes" (plural), no "Monte Ararat" (singular).
 >
 > 🟢 **"DESCANSO" (*tanach*)**
-> - **וַתָּנַח** (*vattanach*) = "y descanso." Raiz: נ-ו-ח (*n-w-ch*) — la MISMA raíz queél nombre de **Noaj**. La tebah "*noaj*-eo" en los montes. El significado del nombre ("descanso/consuelo") se actualiza en la narrativa.
+> - **וַתָּנַח** (*vattanach*) = "y descansó." Raiz: נ-ו-ח (*n-w-ch*) — la MISMA raíz que el nombre hebreo *Noaj* (Noé). La tebah "*noaj*-eo" en los montes. El significado del nombre ("descanso/consuelo") se actualiza en la narrativa.
 
 ---
 
 ### **Versículo 5**
 
-Y las aguas iban yendo y disminuyendo hastaél decimo mes; en el decimo *mes*,él primero del mes, aparecieron las cimás de los montes.
+Y las aguas iban yendo y disminuyendo hasta el décimo mes; en el décimo *mes*, el primero del mes, aparecieron las cimás de los montes.
 
 > **📝 NOTAS**
 >
@@ -139,12 +140,12 @@ Y las aguas iban yendo y disminuyendo hastaél decimo mes; en el decimo *mes*,é
 
 ### **Versículo 6**
 
-Y fue al cabo de cuarenta días, y Noaj abrió la ventana de la tebah que había hecho.
+Y fue al cabo de cuarenta días, y Noé abrió la ventana de la tebah que había hecho.
 
 > **📝 NOTAS**
 >
 > 🔵 **"VENTANA" (*challon*)**
-> - **חַלּוֹן** (*challon*) = ventana. Una palabra diferente de **צֹהַר** (*tsohar*) en 6:16 (abertura en el techo/fuente de luz, INCIERTO). Noaj abre un *challon* (una ventana regular), noél *tsohar*.
+> - **חַלּוֹן** (*challon*) = ventana. Una palabra diferente de **צֹהַר** (*tsohar*) en 6:16 (abertura en el techo/fuente de luz, INCIERTO). Noé abre un *challon* (una ventana regular), no el *tsohar*.
 
 ---
 
@@ -155,7 +156,7 @@ Y envió al cuervo, y salió, saliendo y volviendo, hasta que las aguas se secar
 > **📝 NOTAS**
 >
 > 🟢 **EL CUERVO (*orev*)**
-> - **הָעֹרֵב** (*ha-orev*) =él cuervo. Enviado primero. "Saliendo y volviendo" es ambiguo: circulando sin posarse, volviendo a la tebah, o yendose permanentemente mientras las aguas "vuelven." No se reporta resultado — la paloma se convierte en la prueba efectiva.
+> - **הָעֹרֵב** (*ha-orev*) = el cuervo. Enviado primero. "Saliendo y volviendo" es ambiguo: circulando sin posarse, volviendo a la tebah, o yendose permanentemente mientras las aguas "vuelven." No se reporta resultado — la paloma se convierte en la prueba efectiva.
 
 ---
 
@@ -172,24 +173,24 @@ Y envió a la paloma de con el, para ver si las aguas habian disminuido de sobre
 
 ### **Versículo 9**
 
-Y la paloma no hallo lugar de descanso para la planta de su pie, y volvió aél a la tebah, pues aguas *habia* sobre la faz de toda la tierra; yél extendió su mano y la tomó y la trajo aél a la tebah.
+Y la paloma no halló lugar de descanso para la planta de su pie, y volvió a él a la tebah, pues aguas *habia* sobre la faz de toda la tierra; y él extendió su mano y la tomó y la trajo a él a la tebah.
 
 > **📝 NOTAS**
 >
 > 🟢 **"LUGAR DE DESCANSO" (*manoach*)**
-> - **מָנוֹחַ** (*manoach*) = lugar de descanso. Raiz: נ-ו-ח — nuevamente la misma raíz que **Noaj**. La paloma no puede encontrar *manoach* — un "lugar-Noaj." Tercera aparición de la raíz n-w-ch en este capítulo (después del v.4 *tanach* yél nombre Noaj mismo).
+> - **מָנוֹחַ** (*manoach*) = lugar de descanso. Raiz: נ-ו-ח — nuevamente la misma raíz que el nombre hebreo *Noaj* (Noé). La paloma no puede encontrar *manoach* — un "lugar-Noé." Tercera aparición de la raíz n-w-ch en este capítulo (después del v.4 *tanach* y el nombre Noé mismo).
 
 ---
 
 ### **Versículo 10**
 
-Y espero aun siete días más, y de nuevo envió a la paloma desde la tebah.
+Y esperó aun siete días más, y de nuevo envió a la paloma desde la tebah.
 
 ---
 
 ### **Versículo 11**
 
-Y la paloma vino aél a la hora de la tarde, y he aquí, una hoja de olivo recien arrancada *estaba* en su boca; y Noaj supo que las aguas habian disminuido de sobre la tierra.
+Y la paloma vino a él a la hora de la tarde, y he aquí, una hoja de olivo recien arrancada *estaba* en su boca; y Noé supo que las aguas habian disminuido de sobre la tierra.
 
 > **📝 NOTAS**
 >
@@ -200,7 +201,7 @@ Y la paloma vino aél a la hora de la tarde, y he aquí, una hoja de olivo recie
 
 ### **Versículo 12**
 
-Y espero aun siete días más, y envió a la paloma, y ella no volvió aél otra vez.
+Y esperó aun siete días más, y envió a la paloma, y ella no volvió a él otra vez.
 
 > **📝 NOTAS**
 >
@@ -211,12 +212,12 @@ Y espero aun siete días más, y envió a la paloma, y ella no volvió aél otra
 
 ### **Versículo 13**
 
-Y fue en el año seiscientos uno, en el primer *mes*,él primero del mes, las aguas se secaron de sobre la tierra; y Noaj quito la cubierta de la tebah y miro, y he aquí, la faz del suelo se había secado.
+Y fue en el año seiscientos uno, en el primer *mes*, el primero del mes, las aguas se secaron de sobre la tierra; y Noé quito la cubierta de la tebah y miro, y he aquí, la faz del suelo se había secado.
 
 > **📝 NOTAS**
 >
 > 🔵 **"PRIMER MES, PRIMER DIA" — NUEVO COMIENZO**
-> - Ano 601, Mes 1, Dia 1. La tierra seca coincide con un nuevo comienzo calendarico —él primer día del primer mes de un nuevo ano. Sea coincidencia o diseno narrativo:él texto alinea la nueva tierra con un nuevo ciclo temporal.
+> - Ano 601, Mes 1, Dia 1. La tierra seca coincide con un nuevo comienzo calendarico — el primer día del primer mes de un nuevo ano. Sea coincidencia o diseno narrativo: el texto alinea la nueva tierra con un nuevo ciclo temporal.
 
 ---
 
@@ -233,7 +234,7 @@ Y en el segundo mes, en el día veintisiete del mes, la tierra estaba seca.
 
 ### **Versículo 15**
 
-Y Dios habló a Noaj, diciendo,
+Y Dios habló a Noé, diciendo,
 
 ---
 
@@ -244,24 +245,24 @@ Y Dios habló a Noaj, diciendo,
 > **📝 NOTAS**
 >
 > 🔵 **"SAL" — MANDATO DIVINO**
-> - Noaj esperoél mandato de Dios para salir, tal como esperoél mandato de Dios para entrar (7:1). No actua por juicio propio a pesar de ver la tierra seca (v.13). La obediencia silenciosa continua.
+> - Noé esperó el mandato de Dios para salir, tal como esperó el mandato de Dios para entrar (7:1). No actua por juicio propio a pesar de ver la tierra seca (v.13). La obediencia silenciosa continua.
 
 ---
 
 ### **Versículo 17**
 
-Todo ser vivo que *esta* contigo de toda carne —él ave yél ganado y todo lo que se arrastra que se arrastra sobre la tierra — sacalos contigo, y que pululen en la tierra, y sean fecundos y se multipliquen sobre la tierra."
+Todo ser vivo que *esta* contigo de toda carne — el ave y el ganado y todo lo que se arrastra que se arrastra sobre la tierra — sacalos contigo, y que pululen en la tierra, y sean fecundos y se multipliquen sobre la tierra."
 
 > **📝 NOTAS**
 >
 > 🔴 **"SEAN FECUNDOS Y SE MULTIPLIQUEN" — ECO DE GN 1**
-> - **וּפָרוּ וְרָבוּ** (*u-faru ve-ravu*) = "y sean fecundos y se multipliquen." Mismo mandato que en Gn 1:22 (a las criaturas) y 1:28 (a los humanos). El paralelo con la re-creación es explícito:él mundo post-diluviano recibe la misma bendición que la creación original. La vida comienza de nuevo.
+> - **וּפָרוּ וְרָבוּ** (*u-faru ve-ravu*) = "y sean fecundos y se multipliquen." Mismo mandato que en Gn 1:22 (a las criaturas) y 1:28 (a los humanos). El paralelo con la re-creación es explícito: el mundo post-diluviano recibe la misma bendición que la creación original. La vida comienza de nuevo.
 
 ---
 
 ### **Versículo 18**
 
-Y Noaj salió, y sus hijos y su mujer y las mujeres de sus hijos con el.
+Y Noé salió, y sus hijos y su mujer y las mujeres de sus hijos con el.
 
 ---
 
@@ -278,31 +279,31 @@ Todo ser vivo, todo lo que se arrastra y toda ave, todo lo que se mueve sobre la
 
 ### **Versículo 20**
 
-Y Noaj construyó un altar a YHWH, y tomó de todo ganado limpio y de toda ave limpia, y ofreció ofrendas quemadas sobreél altar.
+Y Noé construyó un altar a YHWH, y tomó de todo ganado limpio y de toda ave limpia, y ofreció ofrendas quemadas sobre el altar.
 
 > **📝 NOTAS**
 >
 > 🔴 **PRIMER ALTAR (*mizbeach*)**
-> - **מִזְבֵּחַ** (*mizbeach*) = altar. Primera aparición. De la raíz ז-ב-ח (*z-b-ch*, degollar/sacrificar). Noaj construyeél primer altar en la narrativa. Sacrifica "de todo *limpio*" — por esto se tomaron "siete siete" de animales limpios: los extras son paraél sacrificio.
+> - **מִזְבֵּחַ** (*mizbeach*) = altar. Primera aparición. De la raíz ז-ב-ח (*z-b-ch*, degollar/sacrificar). Noé construye el primer altar en la narrativa. Sacrifica "de todo *limpio*" — por esto se tomaron "siete siete" de animales limpios: los extras son para el sacrificio.
 >
 > 🔵 **"A YHWH" — CAMBIO DE NOMBRE**
-> - Despues de capítulos de narración con "Dios/Elohim" (7:9-8:19),él nombre YHWH regresa para la escena del sacrificio. El sacrificio se dirige a YHWH, no a Elohim. El nombre intimo regresa paraél acto intimo.
+> - Despues de capítulos de narración con "Dios/Elohim" (7:9-8:19), el nombre YHWH regresa para la escena del sacrificio. El sacrificio se dirige a YHWH, no a Elohim. El nombre intimo regresa para el acto intimo.
 
 ---
 
 ### **Versículo 21**
 
-Y YHWH olioél aroma apaciguante, y YHWH dijo en su corazón, "No volvere a maldecirél suelo por causa del humano, pues la inclinación del corazón del humano *es* mala desde su juventud; y no volvere a golpear a todo ser vivo como he hecho.
+Y YHWH olió el aroma apaciguante, y YHWH dijo en su corazón, "No volveré a maldecir el suelo por causa del humano, pues la inclinación del corazón del humano *es* mala desde su juventud; y no volveré a golpear a todo ser vivo como he hecho.
 
 > **📝 NOTAS**
 >
 > 🔴 **CRÍTICO — "AROMA APACIGUANTE" (*reach ha-nichoach*)**
-> - **רֵיחַ הַנִּיחֹחַ** (*reach ha-nichoach*) = "aroma de lo apaciguante/agradable." Raiz de *nichoach*: נ-ו-ח — la MISMA raíz que **Noaj** y "descanso." El sacrificio de Noaj produce un aroma *nichoach*. El juego de palabras conél nombre satura este capítulo.
+> - **רֵיחַ הַנִּיחֹחַ** (*reach ha-nichoach*) = "aroma de lo apaciguante/agradable." Raiz de *nichoach*: נ-ו-ח — la MISMA raíz que el nombre hebreo *Noaj* (Noé) y "descanso." El sacrificio de Noé produce un aroma *nichoach*. El juego de palabras con el nombre satura este capítulo.
 >
 > 🔴 **CRÍTICO — MISMO DIAGNOSTICO, CONCLUSION OPUESTA**
-> - Gn 6:5: "toda inclinación de los pensamientos de su corazón era solo mala todoél dia" → JUICIO (diluvio).
+> - Gn 6:5: "toda inclinación de los pensamientos de su corazón era solo mala todo el día" → JUICIO (diluvio).
 > - Gn 8:21: "la inclinación del corazón del humano es mala desde su juventud" → MISERICORDIA (nunca mas).
-> - La version de 8:21 es **más suave**: omite "toda" (*kol*), omite "solo" (*raq*), omite "todoél dia" (*kol ha-yom*), anade "desde su juventud" (*mine'urav*). La condición humana es la misma, pero la respuesta se invierte.
+> - La version de 8:21 es **más suave**: omite "toda" (*kol*), omite "solo" (*raq*), omite "todo el día" (*kol ha-yom*), anade "desde su juventud" (*mine'urav*). La condición humana es la misma, pero la respuesta se invierte.
 >
 > 🟡 **"DIJO EN SU CORAZON"**
 > - **וַיֹּאמֶר יהוה אֶל־לִבּוֹ** = "YHWH dijo a su corazón" — discurso divino interno, no una declaración publica. La resolución es privada. Este compromiso interno precede al pacto publico de Gn 9.
@@ -316,7 +317,7 @@ Mientras aun *sean* todos los días de la tierra, siembra y cosecha, y frio y ca
 > **📝 NOTAS**
 >
 > 🔵 **RITMOS DE LA CREACION RESTAURADOS**
-> - Seis pares opuestos: siembra/cosecha, frio/calor, verano/invierno, dia/noche. El último par refleja Gn 1:5 ("Dios llamó a la luz Día, y a la oscuridad llamó Noche"). El diluvio interrumpioél orden creado; este versículo garantiza su continuidad. La re-creación se sella con ritmo temporal.
+> - Seis pares opuestos: siembra/cosecha, frio/calor, verano/invierno, dia/noche. El último par refleja Gn 1:5 ("Dios llamó a la luz Día, y a la oscuridad llamó Noche"). El diluvio interrumpió el orden creado; este versículo garantiza su continuidad. La re-creación se sella con ritmo temporal.
 >
 > 🟢 **"MIENTRAS AUN SEAN TODOS LOS DIAS DE LA TIERRA" (*od kol yemei ha-aretz*)**
 > - **עֹד כָּל־יְמֵי הָאָרֶץ** = "mientras aun todos los días de la tierra" — es decir, mientras la tierra perdure. Una garantia indefinida pero delimitada.
@@ -329,12 +330,12 @@ Mientras aun *sean* todos los días de la tierra, siembra y cosecha, y frio y ca
 |--------|---------|-------|
 | עֹרֵב | cuervo | Primera ave enviada; vuelve sin resultado. |
 | יוֹנָה | paloma | Ave de prueba; tres envios con resultados progresivos. |
-| מָנוֹחַ | lugar de descanso | Raiz n-w-ch — misma que Noaj. La paloma busca "noaj." |
+| מָנוֹחַ | lugar de descanso | Raiz n-w-ch — misma que Noé. La paloma busca "noaj." |
 | חַלּוֹן | ventana | Distinto de *tsohar* (6:16, incierto). |
 | אֲרָרָט | Ararat | Cadena montanosa (plural), no pico unico. Antiguo Urartu. |
 | מִזְבֵּחַ | altar | Primera aparición (8:20). De la raíz z-b-ch (sacrificar). |
 | עֹלָה | ofrenda quemada | Primera aparición (8:20). Completamente consumida en el altar. |
-| נִיחֹחַ | apaciguante/agradable | Raiz n-w-ch — misma que Noaj. Aroma de "descanso." |
+| נִיחֹחַ | apaciguante/agradable | Raiz n-w-ch — misma que Noé. Aroma de "descanso." |
 
 ---
 
@@ -347,19 +348,19 @@ Mientras aun *sean* todos los días de la tierra, siembra y cosecha, y frio y ca
 - Gn 1:5: dia/noche establecidos → Gn 8:22: dia/noche "no cesaran"
 
 **Saturación de la raíz N-W-CH en Gn 8:**
-- Noaj (nombre = descanso/consuelo)
+- Noé (nombre = descanso/consuelo)
 - 8:4: la tebah *tanach* (descanso) en Ararat
 - 8:9: la paloma no encuentra *manoach* (lugar de descanso)
 - 8:21: YHWH huele *nichoach* (aroma apaciguante)
 - Cuatro apariciones de la raíz n-w-ch en un capítulo — todas conectadas al portador del nombre.
 
 **Comparación del yetser (6:5 vs 8:21):**
-- 6:5: "**toda** inclinación... **solo** mala **todoél dia**" → diluvio
+- 6:5: "**toda** inclinación... **solo** mala **todo el día**" → diluvio
 - 8:21: "la inclinación... mala **desde su juventud**" → nunca mas
 - Misma palabra (*yetser*), marco más suave, respuesta divina opuesta
 
 **Marco cronologico (linea temporal del diluvio):**
-- 7:11:él diluvio comienza — Ano 600, Mes 2, Dia 17
+- 7:11: el diluvio comienza — Ano 600, Mes 2, Dia 17
 - 7:24: las aguas prevalecen 150 dias
 - 8:4: la tebah descansa — Mes 7, Dia 17 (exactamente 150 días después)
 - 8:5: cimás visibles — Mes 10, Dia 1
@@ -377,12 +378,12 @@ Mientras aun *sean* todos los días de la tierra, siembra y cosecha, y frio y ca
 - Patron: Elohim para estructura/mandatos; YHWH para relación/sacrificio
 
 **Primer altar y primer sacrificio:**
-- 8:20: Noaj construyeél primer *mizbeach* y ofrece *olah* (ofrenda quemada)
-- Esto explica los "siete siete" de animales limpios (7:2): los extras son paraél sacrificio
-- El sacrificio post-diluviano tiene paralelo conél sacrificio de Utnapishtim en Gilgamesh XI, pero con respuesta divina diferente
+- 8:20: Noé construye el primer *mizbeach* y ofrece *olah* (ofrenda quemada)
+- Esto explica los "siete siete" de animales limpios (7:2): los extras son para el sacrificio
+- El sacrificio post-diluviano tiene paralelo con el sacrificio de Utnapishtim en Gilgamesh XI, pero con respuesta divina diferente
 
 ---
 
-**FIN DE GENESIS 8 — LA TRADUCCIÓN TRANSPARENTE (ESPANOL)**
+**FIN DE GENESIS 8 — LA TRADUCCIÓN TRANSPARENTE (ESPAÑOL)**
 
 *"Una traducción sin nada oculto."*

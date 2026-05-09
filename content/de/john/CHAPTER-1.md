@@ -7,7 +7,7 @@
 **Grundtext:** Nestle-Aland, *Novum Testamentum Graece*, 28. rev. Aufl. (Stuttgart: Deutsche Bibelgesellschaft, 2012)
 **Ausgabe:** Transparente Ausgabe (GS-Ausgabe unabhängig deklariert gemäß CORE-Regel 24)
 **Sprache:** Deutsch
-**Methodik:** 29-Regeln-Governance-System (Regelwerk v3.0)
+**Methodik:** 29-Regeln-Governance-System (Regelwerk v3.3)
 **Gottesname-Politik (Regel 25 / GS-Politik):** Option C — κύριος (kyrios) als „der Herr" wiedergegeben, wenn alttestamentliche JHWH-Stellen zitiert werden; in Stufe 2 vermerkt.
 **Status:** provisorisch — ausstehende Begutachtung (Regel 28)
 **Begutachter:** Hellenist: nicht zugewiesen | DE-Redakteur: nicht zugewiesen | Sprachübergreifender Abgleich: nicht zugewiesen
@@ -39,19 +39,19 @@
 - 🔵 **GRAMMATISCH** - Griechische Struktur, Verbaspekt, Syntax
 - 🟡 **THEOLOGISCH** - Interpretationsoptionen, Ambiguitätsbewahrung
 
-**Dies ist das erste Kapitel der Griechischen Schriften im TT-Projekt.** Der Prolog (1,1–18) gehört zu den theologisch dichtesten Abschnitten der Griechischen Schriften. Der Begriff *logos* („Wort") trägt ein Bedeutungsspektrum, das weit über jedes einzelne deutsche Wort hinausgeht. Die TT gibt ihn als „Wort" (Kleinschreibung) wieder, mit einer kritischen Notiz bei V.1 zum Bedeutungsspektrum. Eigennamen folgen der TT-Transliteration: Yochanan (nicht Johannes), Yeshua (nicht Jesus), Kefa (nicht Petrus), Philippos, Nathanael, Andreas. Das Verbaspekt-System unterscheidet sich vom hebräischen Tempussystem in Genesis — im Griechischen ist der Aspekt (wie der Sprecher die Handlung betrachtet) primär, nicht die Zeit.
+**Dies ist das erste Kapitel der Griechischen Schriften im TT-Projekt.** Der Prolog (1,1–18) gehört zu den theologisch dichtesten Abschnitten der Griechischen Schriften. Der Begriff *logos* („Wort") trägt ein Bedeutungsspektrum, das weit über jedes einzelne deutsche Wort hinausgeht. Die TT gibt ihn als „Wort" (Kleinschreibung) wieder, mit einer kritischen Notiz bei V.1 zum Bedeutungsspektrum. Eigennamen folgen der TT-Transliteration: Yochanan (Johannes), Yeshua (Jesus), Kefa (Petrus), Philippos (Philippus), Nathanael, Andreas. Das Verbaspekt-System unterscheidet sich vom hebräischen Tempussystem in Genesis — im Griechischen ist der Aspekt (wie der Sprecher die Handlung betrachtet) primär, nicht die Zeit.
 
 ---
 
 ## KAPITELÜBERSICHT
 
-**Was geschieht:** Das Kapitel beginnt mit einem kosmologischen Prolog, der das „Wort" (*logos*) mit dem Anfang der Schöpfung, mit Gott und mit allem, was ins Dasein kam, verbindet. Das Wort wird Fleisch und wohnt unter den Menschen. Yochanan der Untertaucher wird als Zeuge des Lichtes eingeführt, nicht als das Licht selbst. Er bezeugt vor Priestern und Leviten, die aus Yerushalayim gesandt wurden, und verneint, dass er der Gesalbte, Eliyahu oder der Prophet sei. Am nächsten Tag identifiziert Yochanan Yeshua als „das Lamm Gottes, das die Sünde der Welt hinwegnimmt" und bezeugt, den Wind/Geist wie eine Taube auf ihn herabsteigen gesehen zu haben. Zwei von Yochanans Nachfolgern beginnen Yeshua zu folgen — Andreas und ein ungenannter Nachfolger. Andreas bringt seinen Bruder Shimon, den Yeshua in Kefa („Fels") umbenennt. Yeshua findet Philippos, der Nathanael findet. Nathanaels Skepsis weicht der Erkenntnis, und Yeshua verspricht Größeres — den geöffneten Himmel und die Boten Gottes, die über dem Menschensohn auf- und absteigen.
+**Was geschieht:** Das Kapitel beginnt mit einem kosmologischen Prolog, der das „Wort" (*logos*) mit dem Anfang der Schöpfung, mit Gott und mit allem, was ins Dasein kam, verbindet. Das Wort wird Fleisch und wohnt unter den Menschen. Johannes (Johannes) der Untertaucher wird als Zeuge des Lichtes eingeführt, nicht als das Licht selbst. Er bezeugt vor Priestern und Leviten, die aus Jerusalem (Jerusalem) gesandt wurden, und verneint, dass er der Gesalbte, Elia (Elia) oder der Prophet sei. Am nächsten Tag identifiziert Johannes Jesus (Jesus) als „das Lamm Gottes, das die Sünde der Welt hinwegnimmt" und bezeugt, den Wind/Geist wie eine Taube auf ihn herabsteigen gesehen zu haben. Zwei von Johannes' Nachfolgern beginnen Jesus zu folgen — Andreas und ein ungenannter Nachfolger. Andreas bringt seinen Bruder Simon (Simon), den Jesus in Petrus (Petrus) („Fels") umbenennt. Jesus findet Philippus (Philippus), der Nathanael findet. Nathanaels Skepsis weicht der Erkenntnis, und Jesus verspricht Größeres — den geöffneten Himmel und die Boten Gottes, die über dem Menschensohn auf- und absteigen.
 
-**Zentrale Themen:** Der *logos* als vor-existenter Schöpfungsagent; Licht gegen Finsternis; Zeugnis (*martyria*) als Hauptfunktion des Untertauchers; „Fleisch" (*sarx*) — das griechische *sarx* umfasst physische, sterbliche, leibliche Existenz. Einige paulinische Interpretationstraditionen geben es als „sündige Natur" wieder (Kontext von Römer 7–8); bei Johannes ist *sarx* durchgehend physisch/sterblich; Gnade und Wahrheit (*charis kai alētheia*) durch Yeshua den Gesalbten gegenüber dem Gesetz durch Mosheh; „Niemand hat Gott je gesehen" — eine theologische Grenzaussage; das Lamm Gottes; der herabsteigende Wind/Geist; die Sammlung der ersten Nachfolger; das Jakobsleiter-Echo (Gen 28,12) in V.51.
+**Zentrale Themen:** Der *logos* als vor-existenter Schöpfungsagent; Licht gegen Finsternis; Zeugnis (*martyria*) als Hauptfunktion des Untertauchers; „Fleisch" (*sarx*) — das griechische *sarx* umfasst physische, sterbliche, leibliche Existenz. Einige paulinische Interpretationstraditionen geben es als „sündige Natur" wieder (Kontext von Römer 7–8); bei Johannes ist *sarx* durchgehend physisch/sterblich; Gnade/Gunst und Wahrheit (*charis kai alētheia*) durch Jesus den Gesalbten gegenüber dem Gesetz durch Mose (Mose); „Niemand hat Gott je gesehen" — eine theologische Grenzaussage; das Lamm Gottes; der herabsteigende Wind/Geist; die Sammlung der ersten Nachfolger; das Jakobsleiter-Echo (Gen 28,12) in V.51.
 
-**Worauf achten:** Das Imperfekt *ēn* („war") in V.1 — fortdauerndes Sein, im Kontrast zum Aorist *egeneto* („kam ins Dasein") in V.3; die mehrdeutige Satzgrenze in VV.3–4 (was gehört wohin); „in ihm war Leben" oder „was ins Dasein kam — in ihm war Leben" — beide Lesarten vermerkt; der Wechsel vom kosmischen Prolog (VV.1–18) zur narrativen Bezeugung (VV.19–51); die dreifache Verneinung Yochanans (nicht der Gesalbte, nicht Eliyahu, nicht der Prophet); der mosaische Prophet aus Dtn 18,15 hinter „dem Propheten"; die Umbenennung Shimons zu Kefa (Echo von Avram → Avraham); „Kann aus Natseret etwas Gutes kommen?" — Nathanaels Skepsis; der Menschensohn-Titel (erste Verwendung in diesem Evangelium).
+**Worauf achten:** Das Imperfekt *ēn* („war") in V.1 — fortdauerndes Sein, im Kontrast zum Aorist *egeneto* („kam ins Dasein") in V.3; die mehrdeutige Satzgrenze in VV.3–4 (was gehört wohin); „in ihm war Leben" oder „was ins Dasein kam — in ihm war Leben" — beide Lesarten vermerkt; der Wechsel vom kosmischen Prolog (VV.1–18) zur narrativen Bezeugung (VV.19–51); die dreifache Verneinung Johannes' (nicht der Gesalbte, nicht Elia, nicht der Prophet); der mosaische Prophet aus Dtn 18,15 hinter „dem Propheten"; die Umbenennung Simons zu Petrus (Echo von Abram (Abram) → Abraham (Abraham)); „Kann aus Nazareth (Nazareth) etwas Gutes kommen?" — Nathanaels Skepsis; der Menschensohn-Titel (erste Verwendung in diesem Evangelium).
 
-**Verbindung:** Das Anfangswort „Im Anfang" (ἐν ἀρχῇ) ist ein direktes Echo von Gen 1,1 (בְּרֵאשִׁית). Die Schöpfung durch Rede in Gen 1 („Und Gott sprach") findet ihr theologisches Gegenstück im *logos*, durch den alles ins Dasein kam. Licht und Finsternis (Gen 1,3–5) erscheinen als kosmische Kategorien wieder. Der Wind/Geist (*pneuma*), der über den Wassern schwebte (Gen 1,2), verbindet sich mit dem Wind/Geist, der bei der Untertauchung auf Yeshua herabsteigt. Die auf- und absteigenden Boten (V.51) zitieren direkt Yaaqovs Leitervision (Gen 28,12).
+**Verbindung:** Das Anfangswort „Im Anfang" (ἐν ἀρχῇ) ist ein direktes Echo von Gen 1,1 (בְּרֵאשִׁית). Die Schöpfung durch Rede in Gen 1 („Und Gott sprach") findet ihr theologisches Gegenstück im *logos*, durch den alles ins Dasein kam. Licht und Finsternis (Gen 1,3–5) erscheinen als kosmische Kategorien wieder. Der Wind/Geist (*pneuma*), der über den Wassern schwebte (Gen 1,2), verbindet sich mit dem Wind/Geist, der bei der Untertauchung auf Jesus herabsteigt. Die auf- und absteigenden Boten (V.51) zitieren direkt Yaaqovs Leitervision (Gen 28,12).
 
 ---
 
@@ -61,25 +61,25 @@
 
 ---
 
-¹Im Anfang war das Wort, und das Wort war bei Gott, und Gott war das Wort. ²Dieses war im Anfang bei Gott. ³Alle Dinge kamen durch ihn ins Dasein, und ohne ihn kam nicht ein einziges Ding ins Dasein. Was ins Dasein gekommen ist — ⁴in ihm war Leben, und das Leben war das Licht der Menschen. ⁵Und das Licht scheint in der Finsternis, und die Finsternis hat es nicht überwältigt.
+¹Im Anfang war das Wort, und das Wort war bei Gott, und das Wort war Gott. ²Dieses war im Anfang bei Gott. ³Alle Dinge kamen durch ihn ins Dasein, und ohne ihn kam nicht ein einziges Ding ins Dasein. Was ins Dasein gekommen ist — ⁴in ihm war Leben, und das Leben war das Licht der Menschen. ⁵Und das Licht scheint in der Finsternis, und die Finsternis hat es nicht überwältigt.
 
-⁶Es kam ein Mensch ins Dasein, gesandt von Gott — sein Name *war* Yochanan. ⁷Dieser kam zum Zeugnis, damit er über das Licht Zeugnis ablege, damit alle durch ihn vertrauen. ⁸Er war nicht das Licht, sondern *kam*, damit er über das Licht Zeugnis ablege. ⁹Das wahre Licht, das jeden Menschen erleuchtet, kam in die Welt. ¹⁰Er war in der Welt, und die Welt kam durch ihn ins Dasein, und die Welt erkannte ihn nicht. ¹¹Er kam in das Seine, und die Seinen nahmen ihn nicht auf. ¹²Aber so viele ihn aufnahmen, denen gab er das Recht, Kinder Gottes zu werden — denen, die auf seinen Namen vertrauen, ¹³die nicht aus Bluten geboren wurden, noch aus dem Willen des Fleisches, noch aus dem Willen eines Mannes, sondern aus Gott.
+⁶Es kam ein Mensch ins Dasein, gesandt von Gott — sein Name *war* Johannes (Johannes). ⁷Dieser kam zum Zeugnis, damit er über das Licht Zeugnis ablege, damit alle durch ihn vertrauen. ⁸Er war nicht das Licht, sondern *kam*, damit er über das Licht Zeugnis ablege. ⁹Das wahre Licht, das jeden Menschen erleuchtet, kam in die Welt. ¹⁰Er war in der Welt, und die Welt kam durch ihn ins Dasein, und die Welt erkannte ihn nicht. ¹¹Er kam in das Seine, und die Seinen nahmen ihn nicht auf. ¹²Aber so viele ihn aufnahmen, denen gab er das Recht, Kinder Gottes zu werden — denen, die auf seinen Namen vertrauen, ¹³die nicht aus Bluten geboren wurden, noch aus dem Willen des Fleisches, noch aus dem Willen eines Mannes, sondern aus Gott.
 
-¹⁴Und das Wort wurde Fleisch und wohnte unter uns, und wir sahen seine Herrlichkeit — Herrlichkeit wie eines Einziggeborenen von einem Vater — voll Gnade und Wahrheit. ¹⁵Yochanan legt Zeugnis ab über ihn und hat ausgerufen und gesagt: „Dieser war es, von dem ich sagte: ‚Der nach mir Kommende ist vor mir geworden, denn er war eher als ich.'" ¹⁶Denn aus seiner Fülle haben wir alle empfangen, und *zwar* Gnade um Gnade. ¹⁷Denn das Gesetz wurde durch Mosheh gegeben; die Gnade und die Wahrheit kamen durch Yeshua, den Gesalbten, ins Dasein. ¹⁸Gott hat niemand je gesehen; der einzig-geborene Gott, der im Schoß des Vaters ist — der hat *ihn* kundgetan.
+¹⁴Und das Wort wurde Fleisch und wohnte unter uns, und wir sahen seine Herrlichkeit — Herrlichkeit wie eines Einziggeborenen von einem Vater — voll Gnade/Gunst und Wahrheit. ¹⁵Johannes legt Zeugnis ab über ihn und hat ausgerufen und gesagt: „Dieser war es, von dem ich sagte: ‚Der nach mir Kommende ist vor mir geworden, denn er war eher als ich.'" ¹⁶Denn aus seiner Fülle haben wir alle empfangen, und *zwar* Gnade/Gunst um Gnade/Gunst. ¹⁷Denn das Gesetz wurde durch Mose (Mose) gegeben; die Gnade/Gunst und die Wahrheit kamen durch Jesus (Jesus), den Gesalbten, ins Dasein. ¹⁸Gott hat niemand je gesehen; der einzig-geborene Gott, der im Schoß des Vaters ist — der hat *ihn* kundgetan.
 
-¹⁹Und dies ist das Zeugnis Yochanans, als die Yehudim Priester und Leviten aus Yerushalayim sandten, um ihn zu fragen: „Wer bist du?" ²⁰Und er bekannte und leugnete nicht, und er bekannte: „Ich bin nicht der Gesalbte." ²¹Und sie fragten ihn: „Was dann? Bist du Eliyahu?" Und er sagt: „Ich bin es nicht." „Bist du der Prophet?" Und er antwortete: „Nein." ²²Da sagten sie zu ihm: „Wer bist du? — damit wir denen Antwort geben können, die uns gesandt haben. Was sagst du über dich selbst?" ²³Er sagte: „Ich *bin* eine Stimme, die in der Wüste ruft: ‚Macht gerade den Weg des Herrn'" — wie der Prophet Yeshayahu sagte.
+¹⁹Und dies ist das Zeugnis Johannes', als die Yehudim Priester und Leviten aus Jerusalem (Jerusalem) sandten, um ihn zu fragen: „Wer bist du?" ²⁰Und er bekannte und leugnete nicht, und er bekannte: „Ich bin nicht der Gesalbte." ²¹Und sie fragten ihn: „Was dann? Bist du Elia (Elia)?" Und er sagt: „Ich bin es nicht." „Bist du der Prophet?" Und er antwortete: „Nein." ²²Da sagten sie zu ihm: „Wer bist du? — damit wir denen Antwort geben können, die uns gesandt haben. Was sagst du über dich selbst?" ²³Er sagte: „Ich *bin* eine Stimme, die in der Wüste ruft: ‚Macht gerade den Weg des Herrn'" — wie der Prophet Jesaja (Jesaja) sagte.
 
-²⁴Und die Gesandten waren von den Perushim. ²⁵Und sie fragten ihn und sagten zu ihm: „Warum tauchst du dann unter, wenn du nicht der Gesalbte bist, noch Eliyahu, noch der Prophet?" ²⁶Yochanan antwortete ihnen und sagte: „Ich tauche in Wasser unter; in eurer Mitte steht einer, den ihr nicht kennt — ²⁷der nach mir Kommende, dem die Riemen seiner Sandale zu lösen ich nicht würdig bin." ²⁸Dies geschah in Beyt-Anyah jenseits des Yarden, wo Yochanan untertauchte.
+²⁴Und die Gesandten waren von den Pharisäer. ²⁵Und sie fragten ihn und sagten zu ihm: „Warum tauchst du dann unter, wenn du nicht der Gesalbte bist, noch Elia, noch der Prophet?" ²⁶Johannes antwortete ihnen und sagte: „Ich tauche in Wasser unter; in eurer Mitte steht einer, den ihr nicht kennt — ²⁷der nach mir Kommende, dem die Riemen seiner Sandale zu lösen ich nicht würdig bin." ²⁸Dies geschah in Bethanien (Bethanien) jenseits des Jordan (Jordan), wo Johannes untertauchte.
 
-²⁹Am nächsten Tag sieht er Yeshua auf sich zukommen und sagt: „Siehe, das Lamm Gottes, das die Sünde der Welt hinwegnimmt. ³⁰Dieser ist es, über den ich sagte: ‚Nach mir kommt ein Mann, der vor mir geworden ist, denn er war eher als ich.' ³¹Und ich kannte ihn nicht, aber damit er Yisrael offenbart werde — deswegen kam ich, in Wasser unterzutauchen." ³²Und Yochanan bezeugte und sagte: „Ich habe den Wind/Geist herabsteigen sehen wie eine Taube aus dem Himmel, und er blieb auf ihm. ³³Und ich kannte ihn nicht, aber der mich sandte, in Wasser unterzutauchen, der sagte zu mir: ‚Auf wen du den Wind/Geist herabsteigen und auf ihm bleiben siehst — dieser ist es, der im heiligen Wind/Geist untertaucht.' ³⁴Und ich habe gesehen, und ich habe bezeugt, dass dieser der Sohn Gottes ist."
+²⁹Am nächsten Tag sieht er Jesus auf sich zukommen und sagt: „Siehe, das Lamm Gottes, das die Sünde der Welt hinwegnimmt. ³⁰Dieser ist es, über den ich sagte: ‚Nach mir kommt ein Mann, der vor mir geworden ist, denn er war eher als ich.' ³¹Und ich kannte ihn nicht, aber damit er Yisrael offenbart werde — deswegen kam ich, in Wasser unterzutauchen." ³²Und Johannes bezeugte und sagte: „Ich habe den Wind/Geist herabsteigen sehen wie eine Taube aus dem Himmel, und er blieb auf ihm. ³³Und ich kannte ihn nicht, aber der mich sandte, in Wasser unterzutauchen, der sagte zu mir: ‚Auf wen du den Wind/Geist herabsteigen und auf ihm bleiben siehst — dieser ist es, der im heiligen Wind/Geist untertaucht.' ³⁴Und ich habe gesehen, und ich habe bezeugt, dass dieser der Sohn Gottes ist."
 
-³⁵Am nächsten Tag stand Yochanan wieder *da*, und *zwei* seiner Nachfolger, ³⁶und er blickte auf Yeshua, der vorüberging, und sagt: „Siehe, das Lamm Gottes." ³⁷Und die zwei Nachfolger hörten ihn reden und folgten Yeshua. ³⁸Und Yeshua wandte sich um, und als er sie folgen sah, sagt er zu ihnen: „Was sucht ihr?" Und sie sagten zu ihm: „Rabbi" — was, übersetzt, Lehrer bedeutet — „wo wohnst du?" ³⁹Er sagt zu ihnen: „Kommt und seht." Sie kamen und sahen, wo er wohnte, und blieben bei ihm jenen Tag; *es war* um die zehnte Stunde.
+³⁵Am nächsten Tag stand Johannes wieder *da*, und *zwei* seiner Nachfolger, ³⁶und er blickte auf Jesus, der vorüberging, und sagt: „Siehe, das Lamm Gottes." ³⁷Und die zwei Nachfolger hörten ihn reden und folgten Jesus. ³⁸Und Jesus wandte sich um, und als er sie folgen sah, sagt er zu ihnen: „Was sucht ihr?" Und sie sagten zu ihm: „Rabbi" — was, übersetzt, Lehrer bedeutet — „wo wohnst du?" ³⁹Er sagt zu ihnen: „Kommt und seht." Sie kamen und sahen, wo er wohnte, und blieben bei ihm jenen Tag; *es war* um die zehnte Stunde.
 
-⁴⁰Andreas, der Bruder Shimon Kefas, war einer der zwei, die von Yochanan gehört hatten und ihm gefolgt waren. ⁴¹Dieser findet zuerst seinen eigenen Bruder Shimon und sagt zu ihm: „Wir haben den Messias gefunden" — was, übersetzt, *der* Gesalbte *heißt*. ⁴²Er brachte ihn zu Yeshua. Yeshua blickte ihn an *und* sagte: „Du bist Shimon, der Sohn Yochanans; du wirst Kefa genannt werden" — was übersetzt „Fels" *bedeutet*.
+⁴⁰Andreas, der Bruder Simon (Simon) Petrus', war einer der zwei, die von Johannes gehört hatten und ihm gefolgt waren. ⁴¹Dieser findet zuerst seinen eigenen Bruder Simon und sagt zu ihm: „Wir haben den Messias gefunden" — was, übersetzt, *der* Gesalbte *heißt*. ⁴²Er brachte ihn zu Jesus. Jesus blickte ihn an *und* sagte: „Du bist Simon, der Sohn Johannes'; du wirst Petrus (Petrus) genannt werden" — was übersetzt „Fels" *bedeutet*.
 
-⁴³Am nächsten Tag wollte er in den Galil aufbrechen, und er findet Philippos. Und Yeshua sagt zu ihm: „Folge mir." ⁴⁴Und Philippos war aus Beyt-Tsaidah, aus der Stadt des Andreas und des Kefa. ⁴⁵Philippos findet Nathanael und sagt zu ihm: „Den, über den Mosheh im Gesetz geschrieben hat, und die Propheten — den haben wir gefunden: Yeshua, Sohn des Yosef, aus Natseret." ⁴⁶Und Nathanael sagte zu ihm: „Kann aus Natseret etwas Gutes kommen?" Philippos sagt zu ihm: „Komm und sieh."
+⁴³Am nächsten Tag wollte er in den Galiläa (Galiläa) aufbrechen, und er findet Philippus (Philippus). Und Jesus sagt zu ihm: „Folge mir." ⁴⁴Und Philippus war aus Beyt-Tsaidah, aus der Stadt des Andreas und des Petrus. ⁴⁵Philippus findet Nathanael und sagt zu ihm: „Den, über den Mose im Gesetz geschrieben hat, und die Propheten — den haben wir gefunden: Jesus, Sohn des Josef (Josef), aus Nazareth (Nazareth)." ⁴⁶Und Nathanael sagte zu ihm: „Kann aus Nazareth etwas Gutes kommen?" Philippus sagt zu ihm: „Komm und sieh."
 
-⁴⁷Yeshua sah Nathanael auf sich zukommen und sagt über ihn: „Siehe, wahrhaftig ein Yisraeli, in dem kein Trug ist." ⁴⁸Nathanael sagt zu ihm: „Woher kennst du mich?" Yeshua antwortete und sagte zu ihm: „Bevor Philippos dich rief, *als du* unter dem Feigenbaum *warst*, sah ich dich." ⁴⁹Nathanael antwortete ihm: „Rabbi, du bist der Sohn Gottes; du bist der König Yisraels." ⁵⁰Yeshua antwortete und sagte zu ihm: „Weil ich dir sagte, dass ich dich unter dem Feigenbaum sah, vertraust du? Du wirst Größeres sehen als dies." ⁵¹Und er sagt zu ihm: „Amen, amen, ich sage euch: Ihr werdet den Himmel geöffnet sehen und die Boten Gottes aufsteigen und herabsteigen über dem Menschensohn."
+⁴⁷Jesus sah Nathanael auf sich zukommen und sagt über ihn: „Siehe, wahrhaftig ein Yisraeli, in dem kein Trug ist." ⁴⁸Nathanael sagt zu ihm: „Woher kennst du mich?" Jesus antwortete und sagte zu ihm: „Bevor Philippus dich rief, *als du* unter dem Feigenbaum *warst*, sah ich dich." ⁴⁹Nathanael antwortete ihm: „Rabbi, du bist der Sohn Gottes; du bist der König Yisraels." ⁵⁰Jesus antwortete und sagte zu ihm: „Weil ich dir sagte, dass ich dich unter dem Feigenbaum sah, vertraust du? Du wirst Größeres sehen als dies." ⁵¹Und er sagt zu ihm: „Amen, amen, ich sage euch: Ihr werdet den Himmel geöffnet sehen und die Boten Gottes aufsteigen und herabsteigen über dem Menschensohn."
 
 ---
 
@@ -87,17 +87,17 @@
 
 ### **Vers 1**
 
-Im Anfang war das Wort, und das Wort war bei Gott, und Gott war das Wort.
+Im Anfang war das Wort, und das Wort war bei Gott, und das Wort war Gott.
 
 > **📝 NOTIZEN**
 >
 > 🔴 **KRITISCH — *LOGOS* („WORT")**
-> - **Ἐν ἀρχῇ ἦν ὁ λόγος** (*En archē ēn ho logos*) = „Im Anfang war das Wort." Der Begriff λόγος (*logos*) hat ein außergewöhnlich breites Bedeutungsspektrum: Wort, Rede, Vernunft, Rechenschaft, Verhältnis, Grundsatz. In der griechischen philosophischen Tradition (Heraklit, Stoiker) ist *logos* = das rationale Ordnungsprinzip des Kosmos. In der jüdischen Weisheitstradition entspricht er חָכְמָה (*chokhmah*, Weisheit), personifiziert in Sprüche 8 und Sirach 24. In den Targumim dient מֵימְרָא (*memra*, „Wort") als Umschreibung göttlichen Handelns. Die TT gibt „Wort" (Kleinschreibung) als die direkteste Übersetzung des Griechischen wieder und bewahrt die direkte Etymologie von *logos* (die Substantivform von *legō*, „sprechen"), wobei das Echo von Genesis 1, wo Gott spricht und Schöpfung geschieht, erhalten bleibt. Großschreibung („Wort" als Titel) ist ein typographisches Mittel, das einige Traditionen verwenden, um den einzigartigen Referenten zu signalisieren; die TT überlässt dies dem Interpretationsrahmen des Lesers. Die theologische Identifikation gehört in Notizen und Begleitdateien, nicht in den Haupttext.
+> - **Ἐν ἀρχῇ ἦν ὁ λόγος** (*En archē ēn ho logos*) = „Im Anfang war das Wort." Der Begriff λόγος (*logos*) trägt ein außergewöhnlich breites Bedeutungsspektrum: Wort, Rede, Vernunft, Rechenschaft, Grundsatz — mit Bezügen zur griechischen philosophischen Tradition (Heraklit, Stoiker), zur jüdischen Weisheitstradition (*chokhmah*, Sprüche 8) und zu den Targumim (*memra*, „Wort" als Umschreibung göttlichen Handelns). Die TT gibt „Wort" (Kleinschreibung) als die direkteste Übersetzung wieder und bewahrt die Etymologie von *logos* (Substantivform von *legō*, „sprechen"), wobei das Echo von Genesis 1 erhalten bleibt. Großschreibung als Titel bleibt dem Interpretationsrahmen des Lesers überlassen. Für ausführlichere Diskussion siehe Begleitmaterial Abschnitt A.
 >
 > 🔴 **KRITISCH — DREI SÄTZE, DREI AUSSAGEN**
 > - Satz 1: **ἐν ἀρχῇ ἦν ὁ λόγος** — „Im Anfang war das Wort." Der *logos* existierte am Anfang. Das Verb **ἦν** (*ēn*) ist Imperfekt — fortdauerndes Sein, kein Ursprungspunkt. Kontrast zu **ἐγένετο** (*egeneto*, Aorist, „kam ins Dasein") in V.3.
 > - Satz 2: **καὶ ὁ λόγος ἦν πρὸς τὸν θεόν** — „und das Wort war bei Gott." Die Präposition **πρός** (*pros*) + Akkusativ = „zu, gegenüber, in der Gegenwart von" — impliziert Beziehung, nicht bloße räumliche Nähe.
-> - Satz 3: **καὶ θεὸς ἦν ὁ λόγος** — „und Gott war das Wort." Griechische Wortstellung: „und Gott war das Wort." **θεός** (*theos*) ist artikellos — als Prädikativum verwendet. Das Fehlen des Artikels vor *theos* ist grammatisch zu erwarten bei einer Prädikativ-Konstruktion (Colwells Regel). Es bedeutet NICHT „ein Gott" (das erforderte den unbestimmten Artikel); es beschreibt das Wesen/die Qualität des *logos*. Der Text behauptet Wesensidentität, während der zweite Satz die Personenunterscheidung bewahrt.
+> - Satz 3: **καὶ θεὸς ἦν ὁ λόγος** — „und das Wort war Gott." θεός steht artikellos als Prädikativum (das beschreibende Substantiv vor dem Verb) — grammatisch zu erwarten (Colwells Regel); es bedeutet NICHT „ein Gott," sondern beschreibt das Wesen/die Qualität des *logos*. Die TT gibt „das Wort war Gott" wieder, um das Subjekt zu bewahren. Für ausführlichere Diskussion der Artikelfrage und ihrer theologischen Implikationen siehe Begleitmaterial Abschnitt A.
 >
 > 🔵 **IMPERFEKT *ĒN* — FORTDAUERNDES SEIN**
 > - **ἦν** (*ēn*) = Imperfekt von εἰμί („sein"). Dreimal in V.1 verwendet. Der imperfektive Aspekt betrachtet den Zustand als fortdauernd, kontinuierlich, ohne Anfang oder Ende im Blick. Dies kontrastiert scharf mit dem Aorist **ἐγένετο** (*egeneto*) in V.3, der die Schöpfungshandlung als abgeschlossenes Ganzes betrachtet.
@@ -157,7 +157,7 @@ Und das Licht scheint in der Finsternis, und die Finsternis hat es nicht überw�
 > **📝 NOTIZEN**
 >
 > 🔴 **KRITISCH — *KATELABEN* (NICHT ÜBERWÄLTIGT / NICHT BEGRIFFEN)**
-> - **ἡ σκοτία αὐτὸ οὐ κατέλαβεν** = „die Finsternis hat es nicht überwältigt." Das Verb **κατέλαβεν** (*katelaben*) von καταλαμβάνω hat zwei Bedeutungen: (1) „ergreifen/überwältigen/bezwingen" und (2) „begreifen/erfassen (geistig)." Beide Bedeutungen sind hier **WAHRSCHEINLICH** — die Finsternis hat das Licht weder bezwungen noch verstanden. Die TT gibt „überwältigt" als primäre Bedeutung im Haupttext wieder (die Kampfbildsprache passt zum Licht-Finsternis-Gegensatz), aber die Doppeldeutigkeit wird vermerkt. Dies ist eine echte Regel-2-Ambiguität.
+> - **ἡ σκοτία αὐτὸ οὐ κατέλαβεν** = „die Finsternis hat es nicht überwältigt." **κατέλαβεν** (*katelaben*) von καταλαμβάνω trägt zwei Bedeutungen: (1) „ergreifen/überwältigen" und (2) „begreifen/erfassen" — beide sind hier **WAHRSCHEINLICH** (Regel 2). Die TT gibt „überwältigt" als primäre Bedeutung im Haupttext wieder, vermerkt aber die Doppeldeutigkeit. Für ausführlichere Diskussion der Ambiguität siehe Begleitmaterial Abschnitt A.
 >
 > 🔵 **PRÄSENS *PHAINEI* — „SCHEINT"**
 > - **φαίνει** (*phainei*) = Präsens — „scheint" (fortdauernd). Das Scheinen des Lichts ist kontinuierlich. Das Scheitern der Finsternis, es zu überwältigen, steht im Aorist (*katelaben*) — als Ganzes betrachtet, eine feststehende Tatsache.
@@ -166,15 +166,15 @@ Und das Licht scheint in der Finsternis, und die Finsternis hat es nicht überw�
 
 ### **Vers 6**
 
-Es kam ein Mensch ins Dasein, gesandt von Gott — sein Name *war* Yochanan.
+Es kam ein Mensch ins Dasein, gesandt von Gott — sein Name *war* Johannes (Johannes).
 
 > **📝 NOTIZEN**
 >
 > 🔵 **AORIST *EGENETO* — WECHSEL VOM EWIGEN ZUM HISTORISCHEN**
-> - **Ἐγένετο ἄνθρωπος** = „Es kam ein Mensch ins Dasein." Dasselbe Verb (*egeneto*), das in V.3 für die Schöpfung verwendet wird, führt nun eine historische Gestalt ein. Yochanan „kam ins Dasein" — er ist Geschöpf, nicht Schöpfer. Der aspektuelle Kontrast zum *logos* (der „war," Imperfekt) ist beabsichtigt.
+> - **Ἐγένετο ἄνθρωπος** = „Es kam ein Mensch ins Dasein." Dasselbe Verb (*egeneto*), das in V.3 für die Schöpfung verwendet wird, führt nun eine historische Gestalt ein. Johannes „kam ins Dasein" — er ist Geschöpf, nicht Schöpfer. Der aspektuelle Kontrast zum *logos* (der „war," Imperfekt) ist beabsichtigt.
 >
 > 🟢 **YOCHANAN — TT-TRANSLITERATION**
-> - **Ἰωάννης** (*Iōannēs*) = griechische Form des hebräischen יוֹחָנָן (*Yochanan*, „JHWH ist gnädig"). Die TT gibt die hebräische Form gemäß Transliterationspolitik wieder. Dies ist Yochanan der Untertaucher, nicht der Autor (Autorschaft ist eine Begleitdatei-Frage, keine Übersetzungsfrage).
+> - **Ἰωάννης** (*Iōannēs*) = griechische Form des hebräischen יוֹחָנָן (*Johannes*, „JHWH ist gnädig"). Die TT gibt die hebräische Form gemäß Transliterationspolitik wieder. Dies ist Johannes der Untertaucher, nicht der Autor (Autorschaft ist eine Begleitdatei-Frage, keine Übersetzungsfrage).
 
 ---
 
@@ -185,7 +185,7 @@ Dieser kam zum Zeugnis, damit er über das Licht Zeugnis ablege, damit alle durc
 > **📝 NOTIZEN**
 >
 > 🟢 **„ZEUGNIS" / „ZEUGNIS ABLEGEN" — *MARTYRIA* / *MARTYREŌ***
-> - **μαρτυρία** (*martyria*) = Zeugnis, Bezeugung, Beweis. **μαρτυρέω** (*martyreō*) = bezeugen, Zeugnis ablegen. Die rechtliche/gerichtliche Konnotation ist vorhanden — Yochanans Rolle ist die eines Zeugen, der Beweis vorlegt. Die Wortfamilie dominiert dieses Kapitel (VV.7, 8, 15, 19, 32, 34).
+> - **μαρτυρία** (*martyria*) = Zeugnis, Bezeugung, Beweis. **μαρτυρέω** (*martyreō*) = bezeugen, Zeugnis ablegen. Die rechtliche/gerichtliche Konnotation ist vorhanden — Johannes' Rolle ist die eines Zeugen, der Beweis vorlegt. Die Wortfamilie dominiert dieses Kapitel (VV.7, 8, 15, 19, 32, 34).
 >
 > 🟢 **„VERTRAUEN" — *PISTEUŌ***
 > - **πιστεύσωσιν** (*pisteusōsin*) = Aorist Konjunktiv von πιστεύω. Als „vertrauen" wiedergegeben gemäß dem festgelegten Glossar (*pistis* = Vertrauen/Treue). Das griechische *pisteuō* umfasst sowohl den Akt des Vertrauens als auch die Eigenschaft der Vertrauenswürdigkeit — breiter als das moderne „glauben" sich verengt hat. Die TT bewahrt die relationale Dimension.
@@ -199,7 +199,7 @@ Er war nicht das Licht, sondern *kam*, damit er über das Licht Zeugnis ablege.
 > **📝 NOTIZEN**
 >
 > 🟡 **NEGATIVE DEFINITION YOCHANANS**
-> - Der Erzähler definiert Yochanan durch das, was er NICHT ist, bevor er definiert, was er ist. Er ist nicht das Licht — er bezeugt das Licht. Dieses Bestehen (wiederholt in VV.20–21) mag eine historische Situation widerspiegeln, in der einige Yochanan als die Hauptfigur betrachteten.
+> - Der Erzähler definiert Johannes durch das, was er NICHT ist, bevor er definiert, was er ist. Er ist nicht das Licht — er bezeugt das Licht. Dieses Bestehen (wiederholt in VV.20–21) mag eine historische Situation widerspiegeln, in der einige Johannes als die Hauptfigur betrachteten.
 
 ---
 
@@ -269,7 +269,7 @@ die nicht aus Bluten geboren wurden, noch aus dem Willen des Fleisches, noch aus
 
 ### **Vers 14**
 
-Und das Wort wurde Fleisch und wohnte unter uns, und wir sahen seine Herrlichkeit — Herrlichkeit wie eines Einziggeborenen von einem Vater — voll Gnade und Wahrheit.
+Und das Wort wurde Fleisch und wohnte unter uns, und wir sahen seine Herrlichkeit — Herrlichkeit wie eines Einziggeborenen von einem Vater — voll Gnade/Gunst und Wahrheit.
 
 > **📝 NOTIZEN**
 >
@@ -289,7 +289,7 @@ Und das Wort wurde Fleisch und wohnte unter uns, und wir sahen seine Herrlichkei
 
 ### **Vers 15**
 
-Yochanan legt Zeugnis ab über ihn und hat ausgerufen und gesagt: „Dieser war es, von dem ich sagte: ‚Der nach mir Kommende ist vor mir geworden, denn er war eher als ich.'"
+Johannes legt Zeugnis ab über ihn und hat ausgerufen und gesagt: „Dieser war es, von dem ich sagte: ‚Der nach mir Kommende ist vor mir geworden, denn er war eher als ich.'"
 
 > **📝 NOTIZEN**
 >
@@ -297,35 +297,35 @@ Yochanan legt Zeugnis ab über ihn und hat ausgerufen und gesagt: „Dieser war 
 > - **μαρτυρεῖ** (*martyrei*) = Präsens — „legt Zeugnis ab" (fortdauernd). **κέκραγεν** (*kekragen*) = Perfekt — „hat ausgerufen" (abgeschlossene Handlung mit fortdauerndem Ergebnis). **ἦν** (*ēn*) = Imperfekt — „war" (vorgängiges Sein). Die Schichtung der Tempora verdichtet vergangenes Zeugnis in gegenwärtige Bezeugung.
 >
 > 🟡 **„EHER ALS ICH" — *PRŌTOS MOU***
-> - **πρῶτός μου ἦν** = „er war eher als ich." Der Vorrang ist zeitlich (er existierte vor mir) und möglicherweise im Rang. Yochanan kam chronologisch zuerst, erkennt aber den *logos*-geworden-Fleisch als vorgängig an.
+> - **πρῶτός μου ἦν** = „er war eher als ich." Der Vorrang ist zeitlich (er existierte vor mir) und möglicherweise im Rang. Johannes kam chronologisch zuerst, erkennt aber den *logos*-geworden-Fleisch als vorgängig an.
 
 ---
 
 ### **Vers 16**
 
-Denn aus seiner Fülle haben wir alle empfangen, und *zwar* Gnade um Gnade.
+Denn aus seiner Fülle haben wir alle empfangen, und *zwar* Gnade/Gunst um Gnade/Gunst.
 
 > **📝 NOTIZEN**
 >
 > 🟢 **„GNADE UM GNADE" — *CHARIN ANTI CHARITOS***
-> - **χάριν ἀντὶ χάριτος** = wörtlich „Gnade anstelle von Gnade" oder „Gnade um Gnade." Die Präposition **ἀντί** (*anti*) = „anstelle von," „im Tausch gegen," „um." Drei Lesarten: (1) Gnade, die Gnade ablöst (aufeinanderfolgende Wellen), (2) Gnade, die Gnade entspricht (korrespondierend), (3) Gnade des neuen Bundes, die Gnade des alten Bundes ablöst. Die TT gibt „Gnade um Gnade" als die am wenigsten interpretative Option wieder.
+> - **χάριν ἀντὶ χάριτος** = wörtlich „Gnade/Gunst anstelle von Gnade/Gunst" oder „Gnade/Gunst um Gnade/Gunst." Die Präposition **ἀντί** (*anti*) = „anstelle von," „im Tausch gegen," „um." Drei Lesarten: (1) Gnade/Gunst, die Gnade/Gunst ablöst (aufeinanderfolgende Wellen), (2) Gnade/Gunst, die Gnade/Gunst entspricht (korrespondierend), (3) Gnade/Gunst des neuen Bundes, die Gnade/Gunst des alten Bundes ablöst. Die TT gibt „Gnade/Gunst um Gnade/Gunst" als die am wenigsten interpretative Option wieder.
 
 ---
 
 ### **Vers 17**
 
-Denn das Gesetz wurde durch Mosheh gegeben; die Gnade und die Wahrheit kamen durch Yeshua, den Gesalbten, ins Dasein.
+Denn das Gesetz wurde durch Mose (Mose) gegeben; die Gnade/Gunst und die Wahrheit kamen durch Jesus (Jesus), den Gesalbten, ins Dasein.
 
 > **📝 NOTIZEN**
 >
 > 🔴 **KRITISCH — MOSHEH UND YESHUA**
-> - **ὁ νόμος διὰ Μωϋσέως ἐδόθη** = „das Gesetz wurde durch Mosheh gegeben" (Aorist Passiv). **ἡ χάρις καὶ ἡ ἀλήθεια διὰ Ἰησοῦ Χριστοῦ ἐγένετο** = „die Gnade und die Wahrheit kamen durch Yeshua den Gesalbten ins Dasein" (Aorist). Die Parallelstruktur lädt zum Vergleich ein, stellt aber NICHT ausdrücklich einen Gegensatz fest. Das „Gesetz" wird nicht abgewertet — es „wurde gegeben" (Passiv, impliziert göttlichen Geber). Gnade und Wahrheit „kamen ins Dasein" — dasselbe Verb (*egeneto*), das für die Schöpfung verwendet wird.
+> - **ὁ νόμος διὰ Μωϋσέως ἐδόθη** = „das Gesetz wurde durch Mose gegeben" (Aorist Passiv); **ἡ χάρις καὶ ἡ ἀλήθεια διὰ Ἰησοῦ Χριστοῦ ἐγένετο** = „die Gnade/Gunst und die Wahrheit kamen durch Jesus den Gesalbten ins Dasein" (Aorist). Die Parallelstruktur lädt zum Vergleich ein, stellt aber NICHT ausdrücklich einen Gegensatz fest. Das „Gesetz" wird nicht abgewertet — es „wurde gegeben" (Passiv, impliziert göttlichen Geber); Gnade/Gunst und Wahrheit „kamen ins Dasein" — dasselbe Verb (*egeneto*) wie in der Schöpfungserzählung.
 >
 > 🟢 **„YESHUA" — TT-TRANSLITERATION**
-> - **Ἰησοῦς** (*Iēsous*) = griechische Form des hebräischen יֵשׁוּעַ (*Yeshua*, „er rettet" / Kurzform von Yehoshua). Die TT gibt die hebräische/aramäische Form wieder.
+> - **Ἰησοῦς** (*Iēsous*) = griechische Form des hebräischen יֵשׁוּעַ (*Jesus*, „er rettet" / Kurzform von Yehoshua). Die TT gibt die hebräische/aramäische Form wieder.
 >
 > 🟢 **„GESALBTER" — *CHRISTOS***
-> - **Χριστός** (*Christos*) = „Gesalbter." Gemäß festgelegtem Glossar: Kleinschreibung, wenn als Beschreibung. Hier folgt er dem Eigennamen als Titel/Beschreibung — „Yeshua, der Gesalbte." Entspricht dem HB מָשִׁיחַ (*mashiach*).
+> - **Χριστός** (*Christos*) = „Gesalbter." Gemäß festgelegtem Glossar: Kleinschreibung, wenn als Beschreibung. Hier folgt er dem Eigennamen als Titel/Beschreibung — „Jesus, der Gesalbte." Entspricht dem HB מָשִׁיחַ (*mashiach*).
 
 ---
 
@@ -345,15 +345,15 @@ Gott hat niemand je gesehen; der einzig-geborene Gott, der im Schoß des Vaters 
 
 ### **Vers 19**
 
-Und dies ist das Zeugnis Yochanans, als die Yehudim Priester und Leviten aus Yerushalayim sandten, um ihn zu fragen: „Wer bist du?"
+Und dies ist das Zeugnis Johannes', als die Yehudim Priester und Leviten aus Jerusalem (Jerusalem) sandten, um ihn zu fragen: „Wer bist du?"
 
 > **📝 NOTIZEN**
 >
 > 🔴 **KRITISCH — *HOI IOUDAIOI* („DIE YEHUDIM")**
-> - **οἱ Ἰουδαῖοι** (*hoi Ioudaioi*) = wörtlich „die Judäer" — diejenigen aus Yehudah/Judäa. Im Johannesevangelium funktioniert dieser Begriff auf mehrere Weisen: (1) ethnisch/geographisch („Bewohner Judäas"), (2) religiöse Autoritäten („die judäische Führung"), (3) allgemeiner „das jüdische Volk." Die TT gibt „die Yehudim" wieder — transliteriert statt übersetzt — um die Ambiguität zu bewahren. Der Begriff bedeutet NICHT „die Juden" im modernen ethnischen/religiösen Sinne ohne Einschränkung. Der Kontext muss den Bezug je Vers bestimmen. Erstauftreten-Notiz.
+> - **οἱ Ἰουδαῖοι** (*hoi Ioudaioi*) = wörtlich „die Judäer" — im Johannesevangelium mehrdeutig: (1) ethnisch/geographisch, (2) religiöse Autoritäten Judäas, (3) allgemeiner „das jüdische Volk." Die TT gibt „die Yehudim" transliteriert wieder, um die Ambiguität zu bewahren; der Kontext muss den Bezug je Vers bestimmen. Für ausführlichere Diskussion des Begriffs und seiner Forschungsgeschichte im Johannesevangelium siehe Begleitmaterial Abschnitt D.
 >
 > 🟢 **YERUSHALAYIM — TT-TRANSLITERATION**
-> - **Ἱεροσόλυμα** (*Hierosolyma*) = griechische Form des hebräischen יְרוּשָׁלַיִם (*Yerushalayim*). Die TT gibt die hebräische Form wieder.
+> - **Ἱεροσόλυμα** (*Hierosolyma*) = griechische Form des hebräischen יְרוּשָׁלַיִם (*Jerusalem*). Die TT gibt die hebräische Form wieder.
 
 ---
 
@@ -364,18 +364,18 @@ Und er bekannte und leugnete nicht, und er bekannte: „Ich bin nicht der Gesalb
 > **📝 NOTIZEN**
 >
 > 🔵 **DOPPELTES BEKENNTNIS — EMPHATISCHE VERNEINUNG**
-> - **ὡμολόγησεν καὶ οὐκ ἠρνήσατο, καὶ ὡμολόγησεν** = „er bekannte und leugnete nicht, und er bekannte." Die dreifach geschichtete Bejahung (bekannt + nicht geleugnet + bekannt) ist emphatisch redundant. Der Erzähler stellt sicher, dass keine Ambiguität über Yochanans Selbstverständnis besteht.
+> - **ὡμολόγησεν καὶ οὐκ ἠρνήσατο, καὶ ὡμολόγησεν** = „er bekannte und leugnete nicht, und er bekannte." Die dreifach geschichtete Bejahung (bekannt + nicht geleugnet + bekannt) ist emphatisch redundant. Der Erzähler stellt sicher, dass keine Ambiguität über Johannes' Selbstverständnis besteht.
 
 ---
 
 ### **Vers 21**
 
-Und sie fragten ihn: „Was dann? Bist du Eliyahu?" Und er sagt: „Ich bin es nicht." „Bist du der Prophet?" Und er antwortete: „Nein."
+Und sie fragten ihn: „Was dann? Bist du Elia (Elia)?" Und er sagt: „Ich bin es nicht." „Bist du der Prophet?" Und er antwortete: „Nein."
 
 > **📝 NOTIZEN**
 >
 > 🟡 **DREI VERNEINUNGEN — DREI ERWARTETE FIGUREN**
-> - (1) Der Gesalbte (*christos*) — der erwartete davidische König. (2) Eliyahu — erwartet, vor dem großen Tag zurückzukehren (Mal 3,23 [4,5]). (3) Der Prophet — „ein Prophet wie Mosheh" (Dtn 18,15). Yochanan verneint, alle drei zu sein. Beachte: Die synoptischen Evangelien identifizieren Yochanan mit Eliyahu (Mt 11,14; 17,12–13); das Johannesevangelium lässt Yochanan es verneinen. Die TT gibt jeden Text wieder, wie er steht, ohne zu harmonisieren.
+> - (1) Der Gesalbte (*christos*) — der erwartete davidische König. (2) Elia — erwartet, vor dem großen Tag zurückzukehren (Mal 3,23 [4,5]). (3) Der Prophet — „ein Prophet wie Mose" (Dtn 18,15). Johannes verneint, alle drei zu sein. Beachte: Die synoptischen Evangelien identifizieren Johannes mit Elia (Mt 11,14; 17,12–13); das Johannesevangelium lässt Johannes es verneinen. Die TT gibt jeden Text wieder, wie er steht, ohne zu harmonisieren.
 >
 > 🔵 **HISTORISCHES PRÄSENS — *LEGEI* („ER SAGT")**
 > - **λέγει** (*legei*) = Präsens in vergangener Erzählung — das „historische Präsens," üblich in griechischer Erzählung, besonders bei Johannes. Vermittelt Lebhaftigkeit und Unmittelbarkeit. Die TT bewahrt es als „er sagt," anstatt es ins Präteritum umzuwandeln.
@@ -395,32 +395,32 @@ Da sagten sie zu ihm: „Wer bist du? — damit wir denen Antwort geben können,
 
 ### **Vers 23**
 
-Er sagte: „Ich *bin* eine Stimme, die in der Wüste ruft: ‚Macht gerade den Weg des Herrn'" — wie der Prophet Yeshayahu sagte.
+Er sagte: „Ich *bin* eine Stimme, die in der Wüste ruft: ‚Macht gerade den Weg des Herrn'" — wie der Prophet Jesaja (Jesaja) sagte.
 
 > **📝 NOTIZEN**
 >
 > 🔴 **KRITISCH — „DER HERR" (κύριος) ZITIERT ALTTESTAMENTLICHE JHWH-STELLE**
-> - **εὐθύνατε τὴν ὁδὸν κυρίου** = „Macht gerade den Weg des Herrn." Dies zitiert Jesaja 40,3 (LXX). Das zugrundeliegende Hebräisch hat das Tetragrammaton: **פַּנּוּ דֶּרֶךְ יהוה** = „Bereitet den Weg JHWHs." Gemäß GS-Gottesname-Politik (Option C): Der griechische Grundtext sagt κύριος, daher gibt die TT „der Herr" im Haupttext wieder. Die alttestamentliche Quelle wird hier vermerkt: Die Stelle bezieht sich im hebräischen Original auf JHWH. Der GS-Grundtext ist Griechisch; das Griechische sagt *kyrios*; die TT übersetzt, was der Text sagt. Nicht gewählte Alternativen: (A) Rückübertragung zu JHWH (würde ein Wort übersetzen, das nicht im griechischen Grundtext steht), (B) Übersetzung ohne Notiz (würde die alttestamentliche Verbindung verbergen).
+> - **εὐθύνατε τὴν ὁδὸν κυρίου** = „Macht gerade den Weg des Herrn." Dies zitiert Jesaja 40,3 in der Septuaginta (LXX — der antiken griechischen Bibelübersetzung); das zugrundeliegende Hebräisch hat das Tetragrammaton (יהוה). Gemäß GS-Gottesname-Politik (Option C): Der griechische Grundtext sagt κύριος, daher gibt die TT „der Herr" wieder — eine Rückübertragung zu JHWH würde ein Wort übersetzen, das nicht im griechischen Grundtext steht. Für ausführlichere Diskussion der Gottesname-Politik und ihrer Anwendung auf AT-Zitate siehe Begleitmaterial Abschnitt D.
 >
 > 🟢 **YESHAYAHU — TT-TRANSLITERATION**
-> - **Ἠσαΐας** (*Ēsaias*) = griechische Form des hebräischen יְשַׁעְיָהוּ (*Yeshayahu*). Die TT gibt die hebräische Form wieder.
+> - **Ἠσαΐας** (*Ēsaias*) = griechische Form des hebräischen יְשַׁעְיָהוּ (*Jesaja*). Die TT gibt die hebräische Form wieder.
 
 ---
 
 ### **Vers 24**
 
-Und die Gesandten waren von den Perushim.
+Und die Gesandten waren von den Pharisäer.
 
 > **📝 NOTIZEN**
 >
 > 🟢 **PERUSHIM — TT-TRANSLITERATION**
-> - **Φαρισαῖοι** (*Pharisaioi*) = griechische Form des hebräischen פְּרוּשִׁים (*Perushim*, „Abgesonderte"). Die TT gibt die hebräische Form wieder. Die Gruppe ist eine Bewegung des Zweiten Tempels, die Torahobservanz und mündliche Überlieferung betont.
+> - **Φαρισαῖοι** (*Pharisaioi*) = griechische Form des hebräischen פְּרוּשִׁים (*Pharisäer*, „Abgesonderte"). Die TT gibt die hebräische Form wieder. Die Gruppe ist eine Bewegung des Zweiten Tempels, die Torahobservanz und mündliche Überlieferung betont.
 
 ---
 
 ### **Vers 25**
 
-Und sie fragten ihn und sagten zu ihm: „Warum tauchst du dann unter, wenn du nicht der Gesalbte bist, noch Eliyahu, noch der Prophet?"
+Und sie fragten ihn und sagten zu ihm: „Warum tauchst du dann unter, wenn du nicht der Gesalbte bist, noch Elia, noch der Prophet?"
 
 > **📝 NOTIZEN**
 >
@@ -431,7 +431,7 @@ Und sie fragten ihn und sagten zu ihm: „Warum tauchst du dann unter, wenn du n
 
 ### **Vers 26**
 
-Yochanan antwortete ihnen und sagte: „Ich tauche in Wasser unter; in eurer Mitte steht einer, den ihr nicht kennt —
+Johannes antwortete ihnen und sagte: „Ich tauche in Wasser unter; in eurer Mitte steht einer, den ihr nicht kennt —
 
 > **📝 NOTIZEN**
 >
@@ -447,18 +447,18 @@ der nach mir Kommende, dem die Riemen seiner Sandale zu lösen ich nicht würdig
 > **📝 NOTIZEN**
 >
 > 🟡 **SANDALENRIEMEN — KNECHTISCHE AUFGABE**
-> - Einen Sandalenriemen zu lösen galt als zu niedrig selbst für einen hebräischen Diener (b. Ketubbot 96a). Yochanan stellt sich unter den Status eines Dieners gegenüber dem Kommenden.
+> - Einen Sandalenriemen zu lösen galt als zu niedrig selbst für einen hebräischen Diener (b. Ketubbot 96a). Johannes stellt sich unter den Status eines Dieners gegenüber dem Kommenden.
 
 ---
 
 ### **Vers 28**
 
-Dies geschah in Beyt-Anyah jenseits des Yarden, wo Yochanan untertauchte.
+Dies geschah in Bethanien (Bethanien) jenseits des Jordan (Jordan), wo Johannes untertauchte.
 
 > **📝 NOTIZEN**
 >
 > 🟢 **BEYT-ANYAH JENSEITS DES YARDEN**
-> - **Βηθανία** (*Bēthania*) = griechische Form des hebräischen/aramäischen בֵּית עַנְיָה (*Beyt-Anyah*, „Haus der Armut" oder „Haus der Armen"). Dies ist NICHT das Beyt-Anyah nahe Yerushalayim (11,1). Der Ort liegt östlich des Yarden.
+> - **Βηθανία** (*Bēthania*) = griechische Form des hebräischen/aramäischen בֵּית עַנְיָה (*Bethanien*, „Haus der Armut" oder „Haus der Armen"). Dies ist NICHT das Bethanien nahe Jerusalem (11,1). Der Ort liegt östlich des Jordan.
 >
 > 🔴 **KRITISCH — TEXTVARIANTE: *BĒTHANIA* vs. *BĒTHABARA***
 > - Die meisten Handschriften lesen Βηθανία (*Bēthania*). Origenes bevorzugte Βηθαβαρά (*Bēthabara*, „Haus der Überquerung"), da kein Bethanien östlich des Jordan bekannt war. NA28 behält *Bēthania* als die besser bezeugte Lesart bei.
@@ -467,7 +467,7 @@ Dies geschah in Beyt-Anyah jenseits des Yarden, wo Yochanan untertauchte.
 
 ### **Vers 29**
 
-Am nächsten Tag sieht er Yeshua auf sich zukommen und sagt: „Siehe, das Lamm Gottes, das die Sünde der Welt hinwegnimmt.
+Am nächsten Tag sieht er Jesus auf sich zukommen und sagt: „Siehe, das Lamm Gottes, das die Sünde der Welt hinwegnimmt.
 
 > **📝 NOTIZEN**
 >
@@ -489,7 +489,7 @@ Dieser ist es, über den ich sagte: ‚Nach mir kommt ein Mann, der vor mir gewo
 > **📝 NOTIZEN**
 >
 > 🔵 **WIEDERHOLUNG VON V.15**
-> - Nahezu identisch mit V.15. Die Wiederholung innerhalb der Erzählung (VV.15, 30) verstärkt Yochanans beständiges Zeugnis.
+> - Nahezu identisch mit V.15. Die Wiederholung innerhalb der Erzählung (VV.15, 30) verstärkt Johannes' beständiges Zeugnis.
 
 ---
 
@@ -500,13 +500,13 @@ Und ich kannte ihn nicht, aber damit er Yisrael offenbart werde — deswegen kam
 > **📝 NOTIZEN**
 >
 > 🟡 **ZWECK DER UNTERTAUCHUNG — OFFENBARUNG, NICHT UMKEHR**
-> - Yochanan erklärt, seine Untertauchung habe einen offenbarenden Zweck gehabt: „damit er Yisrael offenbart werde." Die synoptische Betonung der Umkehr-Untertauchung steht hier nicht im Vordergrund. Jeder Text präsentiert seine eigene Betonung.
+> - Johannes erklärt, seine Untertauchung habe einen offenbarenden Zweck gehabt: „damit er Yisrael offenbart werde." Die synoptische Betonung der Umkehr-Untertauchung steht hier nicht im Vordergrund. Jeder Text präsentiert seine eigene Betonung.
 
 ---
 
 ### **Vers 32**
 
-Und Yochanan bezeugte und sagte: „Ich habe den Wind/Geist herabsteigen sehen wie eine Taube aus dem Himmel, und er blieb auf ihm.
+Und Johannes bezeugte und sagte: „Ich habe den Wind/Geist herabsteigen sehen wie eine Taube aus dem Himmel, und er blieb auf ihm.
 
 > **📝 NOTIZEN**
 >
@@ -514,7 +514,7 @@ Und Yochanan bezeugte und sagte: „Ich habe den Wind/Geist herabsteigen sehen w
 > - **τὸ πνεῦμα** (*to pneuma*) = Wind/Geist. Gemäß festgelegtem Glossar und Querverweisabgleich mit HB רוּחַ (*ruach*): dieselbe Schrägstrich-Politik. Das Neutrum des griechischen *pneuma* kontrastiert mit dem Femininum des hebräischen *ruach*; der Genuswechsel wird vermerkt, beeinflusst aber nicht die Übersetzung.
 >
 > 🔵 **PERFEKT *TETHEAMAI* — „ICH HABE GESEHEN"**
-> - **τεθέαμαι** (*tetheamai*) = Perfekt von θεάομαι („sehen/beobachten"). Das Perfekt betont das fortdauernde Ergebnis: „Ich habe gesehen (und das Sehen bleibt bei mir)." Yochanans Zeugnis gründet sich auf eine abgeschlossene Beobachtung mit bleibender Wirkung.
+> - **τεθέαμαι** (*tetheamai*) = Perfekt von θεάομαι („sehen/beobachten"). Das Perfekt betont das fortdauernde Ergebnis: „Ich habe gesehen (und das Sehen bleibt bei mir)." Johannes' Zeugnis gründet sich auf eine abgeschlossene Beobachtung mit bleibender Wirkung.
 >
 > 🟢 **„WIE EINE TAUBE" — ὡσεὶ περιστεράν**
 > - Der Vergleich ist „wie eine Taube" — beschreibt die Art des Herabsteigens, nicht die Behauptung, der Wind/Geist sei eine Taube. Ob „wie eine Taube" das Herabsteigen oder das Aussehen modifiziert, ist im Griechischen mehrdeutig.
@@ -545,7 +545,7 @@ Und ich habe gesehen, und ich habe bezeugt, dass dieser der Sohn Gottes ist.
 
 ### **Vers 35**
 
-Am nächsten Tag stand Yochanan wieder *da*, und *zwei* seiner Nachfolger,
+Am nächsten Tag stand Johannes wieder *da*, und *zwei* seiner Nachfolger,
 
 > **📝 NOTIZEN**
 >
@@ -556,7 +556,7 @@ Am nächsten Tag stand Yochanan wieder *da*, und *zwei* seiner Nachfolger,
 
 ### **Vers 36**
 
-und er blickte auf Yeshua, der vorüberging, und sagt: „Siehe, das Lamm Gottes."
+und er blickte auf Jesus, der vorüberging, und sagt: „Siehe, das Lamm Gottes."
 
 > **📝 NOTIZEN**
 >
@@ -567,13 +567,13 @@ und er blickte auf Yeshua, der vorüberging, und sagt: „Siehe, das Lamm Gottes
 
 ### **Vers 37**
 
-Und die zwei Nachfolger hörten ihn reden und folgten Yeshua.
+Und die zwei Nachfolger hörten ihn reden und folgten Jesus.
 
 ---
 
 ### **Vers 38**
 
-Und Yeshua wandte sich um, und als er sie folgen sah, sagt er zu ihnen: „Was sucht ihr?" Und sie sagten zu ihm: „Rabbi" — was, übersetzt, Lehrer bedeutet — „wo wohnst du?"
+Und Jesus wandte sich um, und als er sie folgen sah, sagt er zu ihnen: „Was sucht ihr?" Und sie sagten zu ihm: „Rabbi" — was, übersetzt, Lehrer bedeutet — „wo wohnst du?"
 
 > **📝 NOTIZEN**
 >
@@ -581,7 +581,7 @@ Und Yeshua wandte sich um, und als er sie folgen sah, sagt er zu ihnen: „Was s
 > - **Ῥαββί** (*Rhabbi*) = bereits eine Transliteration im Griechischen aus dem Hebräischen/Aramäischen רַבִּי (*rabbi*, „mein Großer" → „mein Lehrer"). Der Erzähler übersetzt es für griechische Leser: „was, übersetzt, Lehrer bedeutet." Die TT bewahrt die Glosse des Erzählers.
 >
 > 🔵 **ERSTE WORTE YESHUAS BEI JOHANNES — „WAS SUCHT IHR?"**
-> - Yeshuas erste gesprochene Worte in diesem Evangelium sind eine Frage, keine Erklärung. Das Muster, dass Yeshua Fragen stellt, bevor er antwortet, wiederholt sich im gesamten Johannesevangelium.
+> - Jesu erste gesprochene Worte in diesem Evangelium sind eine Frage, keine Erklärung. Das Muster, dass Jesus Fragen stellt, bevor er antwortet, wiederholt sich im gesamten Johannesevangelium.
 
 ---
 
@@ -598,7 +598,7 @@ Er sagt zu ihnen: „Kommt und seht." Sie kamen und sahen, wo er wohnte, und bli
 
 ### **Vers 40**
 
-Andreas, der Bruder Shimon Kefas, war einer der zwei, die von Yochanan gehört hatten und ihm gefolgt waren.
+Andreas, der Bruder Simon (Simon) Petrus', war einer der zwei, die von Johannes gehört hatten und ihm gefolgt waren.
 
 > **📝 NOTIZEN**
 >
@@ -609,7 +609,7 @@ Andreas, der Bruder Shimon Kefas, war einer der zwei, die von Yochanan gehört h
 
 ### **Vers 41**
 
-Dieser findet zuerst seinen eigenen Bruder Shimon und sagt zu ihm: „Wir haben den Messias gefunden" — was, übersetzt, *der* Gesalbte *heißt*.
+Dieser findet zuerst seinen eigenen Bruder Simon und sagt zu ihm: „Wir haben den Messias gefunden" — was, übersetzt, *der* Gesalbte *heißt*.
 
 > **📝 NOTIZEN**
 >
@@ -620,32 +620,32 @@ Dieser findet zuerst seinen eigenen Bruder Shimon und sagt zu ihm: „Wir haben 
 
 ### **Vers 42**
 
-Er brachte ihn zu Yeshua. Yeshua blickte ihn an *und* sagte: „Du bist Shimon, der Sohn Yochanans; du wirst Kefa genannt werden" — was übersetzt „Fels" *bedeutet*.
+Er brachte ihn zu Jesus. Jesus blickte ihn an *und* sagte: „Du bist Simon, der Sohn Johannes'; du wirst Petrus (Petrus) genannt werden" — was übersetzt „Fels" *bedeutet*.
 
 > **📝 NOTIZEN**
 >
 > 🟢 **KEFA — TT-TRANSLITERATION**
-> - **Κηφᾶς** (*Kēphas*) = griechische Transliteration des aramäischen כֵּיפָא (*Kefa*, „Fels"). Der Erzähler fügt die griechische Übersetzung hinzu: Πέτρος (*Petros*, „Fels"). Die TT verwendet „Kefa" und gibt die Bedeutung „Fels" wieder, wie es der Erzähler tut.
+> - **Κηφᾶς** (*Kēphas*) = griechische Transliteration des aramäischen כֵּיפָא (*Petrus*, „Fels"). Der Erzähler fügt die griechische Übersetzung hinzu: Πέτρος (*Petros*, „Fels"). Die TT verwendet „Petrus" und gibt die Bedeutung „Fels" wieder, wie es der Erzähler tut.
 >
 > 🟡 **UMBENENNUNG — ECHOS VON AVRAM → AVRAHAM**
-> - Yeshua benennt Shimon in Kefa um, so wie Gott Avram in Avraham umbenannte (Gen 17,5) und Yaaqov in Yisrael (Gen 32,28 [29]). Umbenennung signalisiert eine neue Identität und Berufung.
+> - Jesus benennt Simon in Petrus um, so wie Gott Abram (Abram) in Abraham (Abraham) umbenannte (Gen 17,5) und Yaaqov in Yisrael (Gen 32,28 [29]). Umbenennung signalisiert eine neue Identität und Berufung.
 
 ---
 
 ### **Vers 43**
 
-Am nächsten Tag wollte er in den Galil aufbrechen, und er findet Philippos. Und Yeshua sagt zu ihm: „Folge mir."
+Am nächsten Tag wollte er in den Galiläa (Galiläa) aufbrechen, und er findet Philippus (Philippus). Und Jesus sagt zu ihm: „Folge mir."
 
 > **📝 NOTIZEN**
 >
 > 🟢 **GALIL — TT-TRANSLITERATION**
-> - **Γαλιλαία** (*Galilaia*) = griechische Form des hebräischen גָּלִיל (*Galil*, „Kreis/Bezirk"). Die TT gibt die hebräische Form wieder.
+> - **Γαλιλαία** (*Galiläaaia*) = griechische Form des hebräischen גָּלִיל (*Galiläa*, „Kreis/Bezirk"). Die TT gibt die hebräische Form wieder.
 
 ---
 
 ### **Vers 44**
 
-Und Philippos war aus Beyt-Tsaidah, aus der Stadt des Andreas und des Kefa.
+Und Philippus war aus Beyt-Tsaidah, aus der Stadt des Andreas und des Petrus.
 
 > **📝 NOTIZEN**
 >
@@ -656,48 +656,48 @@ Und Philippos war aus Beyt-Tsaidah, aus der Stadt des Andreas und des Kefa.
 
 ### **Vers 45**
 
-Philippos findet Nathanael und sagt zu ihm: „Den, über den Mosheh im Gesetz geschrieben hat, und die Propheten — den haben wir gefunden: Yeshua, Sohn des Yosef, aus Natseret."
+Philippus findet Nathanael und sagt zu ihm: „Den, über den Mose im Gesetz geschrieben hat, und die Propheten — den haben wir gefunden: Jesus, Sohn des Josef (Josef), aus Nazareth (Nazareth)."
 
 > **📝 NOTIZEN**
 >
 > 🟡 **„MOSHEH SCHRIEB IM GESETZ, UND DIE PROPHETEN"**
-> - Philippos identifiziert Yeshua mit der Gestalt, die in Torah und Propheten angekündigt wird — ohne zu spezifizieren, welche Stellen. Die Behauptung ist umfassend, aber undetailliert. „Sohn des Yosef" ist die soziale Identifikation; der Erzähler korrigiert oder qualifiziert sie hier nicht.
+> - Philippus identifiziert Jesus mit der Gestalt, die in Torah und Propheten angekündigt wird — ohne zu spezifizieren, welche Stellen. Die Behauptung ist umfassend, aber undetailliert. „Sohn des Josef" ist die soziale Identifikation; der Erzähler korrigiert oder qualifiziert sie hier nicht.
 >
 > 🟢 **NATSERET — TT-TRANSLITERATION**
-> - **Ναζαρέτ** (*Nazaret*) = griechische Form des hebräischen נָצְרַת (*Natseret*). Die TT gibt die hebräische Form wieder.
+> - **Ναζαρέτ** (*Nazaret*) = griechische Form des hebräischen נָצְרַת (*Nazareth*). Die TT gibt die hebräische Form wieder.
 
 ---
 
 ### **Vers 46**
 
-Und Nathanael sagte zu ihm: „Kann aus Natseret etwas Gutes kommen?" Philippos sagt zu ihm: „Komm und sieh."
+Und Nathanael sagte zu ihm: „Kann aus Nazareth etwas Gutes kommen?" Philippus sagt zu ihm: „Komm und sieh."
 
 > **📝 NOTIZEN**
 >
 > 🟡 **NATSERET-SKEPSIS**
-> - Nathanaels Frage spiegelt entweder die Bedeutungslosigkeit Natserets oder ein bestimmtes Vorurteil wider. Der Text erklärt die Grundlage der Skepsis nicht — er zeichnet sie einfach auf. „Komm und sieh" — Philippos argumentiert nicht; er lädt zur direkten Begegnung ein.
+> - Nathanaels Frage spiegelt entweder die Bedeutungslosigkeit Nazareths oder ein bestimmtes Vorurteil wider. Der Text erklärt die Grundlage der Skepsis nicht — er zeichnet sie einfach auf. „Komm und sieh" — Philippus argumentiert nicht; er lädt zur direkten Begegnung ein.
 
 ---
 
 ### **Vers 47**
 
-Yeshua sah Nathanael auf sich zukommen und sagt über ihn: „Siehe, wahrhaftig ein Yisraeli, in dem kein Trug ist."
+Jesus sah Nathanael auf sich zukommen und sagt über ihn: „Siehe, wahrhaftig ein Yisraeli, in dem kein Trug ist."
 
 > **📝 NOTIZEN**
 >
 > 🟡 **ECHO YAAQOVS — „KEIN TRUG"**
-> - **δόλος** (*dolos*) = Trug, Arglist, Hinterlist. Yaaqov („Fersenhalter/Überlister") war durch Trug gekennzeichnet (Gen 27). Yeshua beschreibt Nathanael als einen wahren Yisraeli — einen *ohne* den Trug, der mit dem Patriarchen verbunden ist, dessen Name Yisrael trägt. Die Anspielung kehrt die Yaaqov-Tradition um.
+> - **δόλος** (*dolos*) = Trug, Arglist, Hinterlist. Yaaqov („Fersenhalter/Überlister") war durch Trug gekennzeichnet (Gen 27). Jesus beschreibt Nathanael als einen wahren Yisraeli — einen *ohne* den Trug, der mit dem Patriarchen verbunden ist, dessen Name Yisrael trägt. Die Anspielung kehrt die Yaaqov-Tradition um.
 
 ---
 
 ### **Vers 48**
 
-Nathanael sagt zu ihm: „Woher kennst du mich?" Yeshua antwortete und sagte zu ihm: „Bevor Philippos dich rief, *als du* unter dem Feigenbaum *warst*, sah ich dich."
+Nathanael sagt zu ihm: „Woher kennst du mich?" Jesus antwortete und sagte zu ihm: „Bevor Philippus dich rief, *als du* unter dem Feigenbaum *warst*, sah ich dich."
 
 > **📝 NOTIZEN**
 >
 > 🟡 **„UNTER DEM FEIGENBAUM"**
-> - Der Feigenbaum wird in der rabbinischen Tradition mit Torahstudium assoziiert. Ob dies hier die Anspielung ist, ist unsicher. Der Text stellt Yeshuas Wissen um Nathanaels Aufenthaltsort als Zeichen übernatürlicher Wahrnehmung dar, ohne zu erklären, wie.
+> - Der Feigenbaum wird in der rabbinischen Tradition mit Torahstudium assoziiert. Ob dies hier die Anspielung ist, ist unsicher. Der Text stellt Jesu Wissen um Nathanaels Aufenthaltsort als Zeichen übernatürlicher Wahrnehmung dar, ohne zu erklären, wie.
 
 ---
 
@@ -714,7 +714,7 @@ Nathanael antwortete ihm: „Rabbi, du bist der Sohn Gottes; du bist der König 
 
 ### **Vers 50**
 
-Yeshua antwortete und sagte zu ihm: „Weil ich dir sagte, dass ich dich unter dem Feigenbaum sah, vertraust du? Du wirst Größeres sehen als dies."
+Jesus antwortete und sagte zu ihm: „Weil ich dir sagte, dass ich dich unter dem Feigenbaum sah, vertraust du? Du wirst Größeres sehen als dies."
 
 > **📝 NOTIZEN**
 >
@@ -736,7 +736,7 @@ Und er sagt zu ihm: „Amen, amen, ich sage euch: Ihr werdet den Himmel geöffne
 > - **ἄγγελοι** (*angeloi*) = Boten. Das Griechische bedeutet „Bote/Gesandter" — es umfasst sowohl menschliche als auch göttliche Boten. Die TT gibt „Boten" wieder, um die HB-Wiedergabe von מַלְאָכִים (*malakhim*) in Genesis zu entsprechen.
 >
 > 🟢 **„MENSCHENSOHN" — *HUIOS TOU ANTHRŌPOU***
-> - **ὁ υἱὸς τοῦ ἀνθρώπου** = „der Sohn des Menschen" / „der Menschensohn." Der Titel spiegelt Dan 7,13 wider (בַּר אֱנָשׁ, „einer wie ein Menschensohn") und wird in den Evangelien als Yeshuas Selbstbezeichnung verwendet. Die TT gibt die traditionelle Form „Menschensohn" wieder, da sie die anerkannte Übersetzung des aramäischen/griechischen Ausdrucks geworden ist. Erstes Auftreten in diesem Evangelium.
+> - **ὁ υἱὸς τοῦ ἀνθρώπου** = „der Sohn des Menschen" / „der Menschensohn." Der Titel spiegelt Dan 7,13 wider (בַּר אֱנָשׁ, „einer wie ein Menschensohn") und wird in den Evangelien als Jesu Selbstbezeichnung verwendet. Die TT gibt die traditionelle Form „Menschensohn" wieder, da sie die anerkannte Übersetzung des aramäischen/griechischen Ausdrucks geworden ist. Erstes Auftreten in diesem Evangelium.
 >
 > 🟢 **„AMEN, AMEN" — DOPPELTE BESTÄTIGUNG**
 > - **ἀμὴν ἀμήν** = „Amen, amen" — bereits eine Transliteration im Griechischen aus dem Hebräischen אָמֵן (*amen*, „wahrhaftig/fest"). Die Doppelform ist kennzeichnend für das Johannesevangelium (25 Vorkommen); die Synoptiker verwenden einfaches *amen*. Sie leitet feierliche Erklärungen ein.
@@ -797,8 +797,8 @@ In Genesis wird Licht geschaffen und als erster Akt der Ordnung von der Finstern
 | Element | Gen 1,2 | Joh 1,32–33 |
 |---------|---------|--------------|
 | Begriff | רוּחַ אֱלֹהִים (*ruach elohim*) = Wind/Geist Gottes | τὸ πνεῦμα (*to pneuma*) = der Wind/Geist |
-| Handlung | Schwebend über der Fläche der Wasser | Herabsteigend wie eine Taube, bleibend auf Yeshua |
-| Kontext | Vor-schöpfliches Chaos | Yeshuas Identifikation am Yarden |
+| Handlung | Schwebend über der Fläche der Wasser | Herabsteigend wie eine Taube, bleibend auf Jesus (Jesus) |
+| Kontext | Vor-schöpfliches Chaos | Jesu Identifikation am Jordan (Jordan) |
 | Funktion | Vorläufer der Schöpfung durch Rede | Markiert den, der im heiligen Wind/Geist untertauchen wird |
 
 Der Wind/Geist, der über den Urwassern schwebte, steigt nun bei den Wassern der Untertauchung herab. Beide Szenen gehen einem neuen Anfang voraus.
@@ -807,13 +807,13 @@ Der Wind/Geist, der über den Urwassern schwebte, steigt nun bei den Wassern der
 
 | Element | Gen 28,12 | Joh 1,51 |
 |---------|-----------|----------|
-| Vision | Yaaqovs Traum in Beyt-El | Yeshuas Verheißung an Nathanael |
+| Vision | Yaaqovs Traum in Bethel (Bethel) | Jesu Verheißung an Nathanael |
 | Struktur | Leiter (*sullam*), auf der Erde aufgestellt, die Spitze zum Himmel reichend | Der geöffnete Himmel |
 | Boten | Boten Gottes, aufsteigend und herabsteigend darauf | Boten Gottes, aufsteigend und herabsteigend über dem Menschensohn |
-| Ort | Beyt-El („Haus Gottes") | Nicht angegeben |
+| Ort | Bethel („Haus Gottes") | Nicht angegeben |
 | Bedeutung | Der Kontaktpunkt zwischen Himmel und Erde ist die Leiter | Der Kontaktpunkt zwischen Himmel und Erde ist der Menschensohn |
 
-Der Menschensohn ersetzt die Leiter. Wo Yaaqov eine Struktur sah, die Himmel und Erde verbindet, verheißt Yeshua, dass die Verbindung eine Person ist.
+Der Menschensohn ersetzt die Leiter. Wo Yaaqov eine Struktur sah, die Himmel und Erde verbindet, verheißt Jesus, dass die Verbindung eine Person ist.
 
 **Gen 1 Schöpfung-durch-Rede → Joh 1 Schöpfung-durch-Logos:**
 

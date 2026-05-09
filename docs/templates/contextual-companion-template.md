@@ -136,6 +136,21 @@
 
 ---
 
+## I. The World at the Time
+
+*What was happening in the world when this text was written or set? Politics, trade, daily life, wars, art, philosophy — the context beyond the text itself. Include only when substantive sourced content exists.*
+
+### [Topic]
+**[HISTORICAL / ARCHAEOLOGICAL — confidence level]**
+
+[Description covering political landscape, economy, population, military, arts, science, or religion of the period. Each sub-topic gets its own entry (I1, I2, etc.).]
+
+| Source | Type | Used in sections |
+|--------|------|-----------------|
+| [Author, Title, Year] | [Primary / Secondary / Ancient text] | [A, B, D, ...] |
+
+---
+
 **Editorial provenance:**
 - Drafted by: [human / AI model + version]
 - Date: [YYYY-MM-DD]

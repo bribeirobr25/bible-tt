@@ -1,7 +1,7 @@
 "use client";
 
-import { useEffect, useState } from "react";
 import { useTranslations } from "next-intl";
+import { useEffect, useState } from "react";
 
 export function ReadingProgress() {
   const [progress, setProgress] = useState(0);
@@ -10,7 +10,8 @@ export function ReadingProgress() {
   useEffect(() => {
     function handleScroll() {
       const scrollTop = window.scrollY;
-      const docHeight = document.documentElement.scrollHeight - window.innerHeight;
+      const docHeight =
+        document.documentElement.scrollHeight - window.innerHeight;
       if (docHeight > 0) {
         setProgress(Math.min((scrollTop / docHeight) * 100, 100));
       }

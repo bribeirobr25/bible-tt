@@ -10,7 +10,7 @@
 **Capítulo:** Genesis 7
 **Idioma:** Português Brasileiro
 **Acompanha:** `pt-br/genesis/CHAPTER-7.md` (Edição Transparente)
-**Regras:** v3.0 (Regra 29 governa este arquivo)
+**Regras:** v3.3 (Regra 29 governa este arquivo)
 **Status:** provisório
 
 ---
@@ -55,7 +55,7 @@ Gn 7:16: "como Deus lhe ordenou; e YHWH fechou atrás dele." Ambos os nomes divi
 ### A8. Fórmula de obediência — quatro ocorrências
 **[TEXTUAL — VERIFICADO]**
 
-A fórmula "Noach fez conforme tudo o que [Deus/YHWH] ordenou" aparece em 6:22, 7:5, 7:9, 7:16 — com alternância de nomes divinos. A repetição é uma característica estrutural: a resposta de Noach a todo comando é obediência silenciosa. Nenhuma fala registrada de Noach até 9:25.
+A fórmula "Noé fez conforme tudo o que [Deus/YHWH] ordenou" aparece em 6:22, 7:5, 7:9, 7:16 — com alternância de nomes divinos. A repetição é uma característica estrutural: a resposta de Noé a todo comando é obediência silenciosa. Nenhuma fala registrada de Noé até 9:25.
 
 ---
 
@@ -92,7 +92,7 @@ As tradições mesopotâmicas de dilúvio não distinguem entre animais limpos e
 ### B5. O Gênesis de Eridu (Ziusudra) — a mais antiga tradição do dilúvio
 **[PARALELO COMPARATIVO — VERIFICADO]**
 
-A narrativa de dilúvio sobrevivente mais antiga é o Gênesis de Eridu sumério (c. 1600 AEC para a tábua existente, originando-se anteriormente). Ziusudra ("Vida de Longos Dias") é o herói sumério do dilúvio, correspondendo ao acadiano Utnapishtim ("ele encontrou vida") e Atrahasis ("excessivamente sábio"). Características-chave: o dilúvio dura sete dias (correspondendo a Gn 7:4,10); após o dilúvio Utu (o sol) aparece e Ziusudra abre uma janela e oferece sacrifício — estruturalmente paralelo a Noach abrindo o *challon* (8:6) e construindo o altar (8:20); Ziusudra é levado para viver para sempre em Dilmun (o paraíso sumério) — Gênesis não concede imortalidade a Noach; ele morre aos 950. Estes paralelos mostram um discurso compartilhado do dilúvio antigo. A direção da dependência e o mecanismo de transmissão são debatidos; a TT não adjudica.
+A narrativa de dilúvio sobrevivente mais antiga é o Gênesis de Eridu sumério (c. 1600 AEC para a tábua existente, originando-se anteriormente). Ziusudra ("Vida de Longos Dias") é o herói sumério do dilúvio, correspondendo ao acadiano Utnapishtim ("ele encontrou vida") e Atrahasis ("excessivamente sábio"). Características-chave: o dilúvio dura sete dias (correspondendo a Gn 7:4,10); após o dilúvio Utu (o sol) aparece e Ziusudra abre uma janela e oferece sacrifício — estruturalmente paralelo a Noé abrindo o *challon* (8:6) e construindo o altar (8:20); Ziusudra é levado para viver para sempre em Dilmun (o paraíso sumério) — Gênesis não concede imortalidade a Noé; ele morre aos 950. Estes paralelos mostram um discurso compartilhado do dilúvio antigo. A direção da dependência e o mecanismo de transmissão são debatidos; a TT não adjudica.
 
 **Fonte:** Jacobsen, T., *The Harps That Once: Sumerian Poetry in Translation*, Yale, 1987; ETCSL, University of Oxford, "The Flood Story" (1.7.4).
 
@@ -133,7 +133,7 @@ A cronologia precisa da narrativa do dilúvio (marcadores de mês/dia em 7:11, 8
 ### D3. Limpo/impuro como categoria cúltica pré-mosaica
 **[TEXTUAL — VERIFICADO]**
 
-A distinção entre animais "limpos" (*tahor*) e "impuros" aparece em Gn 7:2, muito antes da legislação detalhada de Levítico 11 e Deuteronômio 14. O texto a apresenta como uma categoria já conhecida, não como uma revelação nova. O propósito primário neste estágio é sacrificial e não dietético: animais limpos são necessários para os holocaustos que Noach oferecerá após o dilúvio (8:20). Isto explica a assimetria numérica — "sete sete" de animais limpos fornece o excedente necessário para o sacrifício enquanto preserva pares reprodutivos. A TT anota a distinção sem importar categorias haláquicas posteriores.
+A distinção entre animais "limpos" (*tahor*) e "impuros" aparece em Gn 7:2, muito antes da legislação detalhada de Levítico 11 e Deuteronômio 14. O texto a apresenta como uma categoria já conhecida, não como uma revelação nova. O propósito primário neste estágio é sacrificial e não dietético: animais limpos são necessários para os holocaustos que Noé oferecerá após o dilúvio (8:20). Isto explica a assimetria numérica — "sete sete" de animais limpos fornece o excedente necessário para o sacrifício enquanto preserva pares reprodutivos. A TT anota a distinção sem importar categorias haláquicas posteriores.
 
 **Fonte:** Milgrom, J., *Leviticus 1-16*, Anchor Bible Commentary, 1991, pp. 718-736.
 
@@ -167,7 +167,7 @@ Alguns divulgadores criacionistas da Terra jovem propuseram que um "dossel de va
 ### F1. Recepção judaica — o remanescente justo
 **[RECEPÇÃO POSTERIOR — DOCUMENTADO]**
 
-A tradição rabínica (Genesis Rabbah 32:8) debate se Noach era justo de forma absoluta ou apenas relativa à sua geração corrupta. A frase "em suas gerações" (6:9) é lida como elogio (justo mesmo numa era ímpia) ou qualificação (justo apenas por comparação). A TT traduz a frase sem adjudicar.
+A tradição rabínica (Genesis Rabbah 32:8) debate se Noé era justo de forma absoluta ou apenas relativa à sua geração corrupta. A frase "em suas gerações" (6:9) é lida como elogio (justo mesmo numa era ímpia) ou qualificação (justo apenas por comparação). A TT traduz a frase sem adjudicar.
 
 O Midrash enfatiza o período de espera de 7 dias (7:4) como uma semana de luto — Deus esperou sete dias por possível arrependimento antes de enviar o dilúvio.
 
@@ -209,7 +209,79 @@ Gn 7:11: o dilúvio começa no Mês 2, Dia 17. Gn 8:4: a tebah repousa no Mês 7
 ### G4. A cronologia do dilúvio — precisão calendárica
 **[TEXTUAL — PROVÁVEL]**
 
-A narrativa do dilúvio fornece datas calendáricas exatas: início no segundo mês, décimo sétimo dia (7:11); águas prevalecem 150 dias (7:24); a arca repousa nos montes de Ararat no sétimo mês, décimo sétimo dia (8:4); topos das montanhas visíveis no décimo mês, primeiro dia (8:5); terra seca no segundo mês, vigésimo sétimo dia do ano 601 de Noach (8:14). A duração total do início à terra seca abrange exatamente um ano solar mais dez dias — ou precisamente um ano lunar (354 dias) mais um mês adicional, dependendo do sistema calendárico utilizado. Este nível de precisão calendárica em uma narrativa antiga intersecta com a história da cronometragem: se a cronologia do dilúvio preserva um calendário solar (365 dias), um calendário lunar (354 dias) ou um calendário esquemático de 360 dias (atestado na Mesopotâmia e no posterior Livro dos Jubileus) é debatido. A precisão em si é a característica textual — a narrativa não é vaga quanto ao tempo.
+A narrativa do dilúvio fornece datas calendáricas exatas: início no segundo mês, décimo sétimo dia (7:11); águas prevalecem 150 dias (7:24); a arca repousa nos montes de Ararat no sétimo mês, décimo sétimo dia (8:4); topos das montanhas visíveis no décimo mês, primeiro dia (8:5); terra seca no segundo mês, vigésimo sétimo dia do ano 601 de Noé (8:14). A duração total do início à terra seca abrange exatamente um ano solar mais dez dias — ou precisamente um ano lunar (354 dias) mais um mês adicional, dependendo do sistema calendárico utilizado. Este nível de precisão calendárica em uma narrativa antiga intersecta com a história da cronometragem: se a cronologia do dilúvio preserva um calendário solar (365 dias), um calendário lunar (354 dias) ou um calendário esquemático de 360 dias (atestado na Mesopotâmia e no posterior Livro dos Jubileus) é debatido. A precisão em si é a característica textual — a narrativa não é vaga quanto ao tempo.
+
+---
+
+## I. O Mundo na Época
+
+A datação da composição de Gênesis é debatida. Esta seção apresenta "o mundo na época" para cada cenário principal, de modo que leitores em qualquer posição possam ver o contexto histórico que se aplicaria aos temas do Gênesis 7: o mecanismo do dilúvio, os sistemas de medição, o manejo de animais, a cosmologia das águas e a precisão calendárica. A TT não toma partido sobre quando Gênesis foi composto. Para o contexto político, econômico e social completo das 10 categorias de cada cenário, ver o companheiro de Gênesis 1, Seção I.
+
+---
+
+### Cenário A: Se composto durante o período mosaico (~séc. XIII a.C.)
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]** *(Atribuição tradicional)*
+
+**I-A1. Cosmologia das águas na Idade do Bronze Tardio**
+O mecanismo do dilúvio em Gênesis 7:11 — "todas as fontes do grande abismo irromperam e as janelas dos céus se abriram" — reflete um modelo cosmológico de três camadas: águas acima da abóbada celeste, a terra habitável e águas subterrâneas abaixo. Esse modelo era compartilhado em todo o antigo Oriente Próximo. A cosmologia egípcia retratava uma deusa-céu arqueada sobre a terra com águas acima e abaixo; a cosmologia mesopotâmica tinha o oceano primordial (*Apsu*) embaixo e uma abóbada celestial sólida acima. Num contexto do período mosaico, a descrição do dilúvio evocaria uma estrutura cosmológica que o público já conhecia.
+
+**I-A2. Medições em côvados e sua variação**
+Gênesis 6:15 fornece as dimensões da *tevah* em côvados. O côvado (o comprimento do cotovelo até a ponta do dedo médio) variava por cultura e período: o côvado egípcio padrão era de aproximadamente 45,7 cm; o côvado real, de aproximadamente 52,5 cm; os côvados mesopotâmicos também variavam. No século XIII a.C., medições padronizadas de côvados já estavam em uso para construções monumentais no Egito e no Levante. O uso de côvados pelo texto situa o relato em um mundo de medição prática e construção organizada.
+
+**I-A3. Manejo de animais e grandes rebanhos**
+A instrução de trazer animais "dois a dois" ou "sete sete" dos limpos (Gn 7:2-3) pressupõe familiaridade com a pecuária em larga escala. O Levante da Idade do Bronze Tardio mantinha rebanhos de bovinos, ovelhas, cabras e jumentos como principais fontes de alimento, lã e tração. Papiros administrativos egípcios registram estábulos reais com centenas de cavalos e rebanhos de bovinos. O manejo de múltiplas espécies animais a bordo de uma grande embarcação seria compreendido contra esse pano de fundo de manejo de animais em nível de grandes propriedades, mesmo que a escala em Gênesis exceda qualquer coisa atestada.
+
+**I-A4. Períodos de sete dias e o cômputo lunar**
+O período de espera de sete dias antes do dilúvio (7:4, 7:10) e os múltiplos marcadores temporais do dilúvio refletem um mundo organizado por ciclos de sete dias e meses lunares. O calendário mesopotâmico já utilizava uma estrutura de sete dias, com o sétimo dia como significativo. Calendários lunares egípcios acompanhavam os ciclos mensais. A precisão calendárica de Gênesis 7 — marcadores de mês e dia — reflete práticas de controle administrativo do tempo familiares em todo o antigo Oriente Próximo.
+
+---
+
+### Cenário B: Se composto durante o período monárquico (~séc. X-IX a.C.)
+**[HISTÓRICO / ARQUEOLÓGICO — POSSÍVEL]**
+
+**I-B1. A experiência das cheias na Mesopotâmia e no Levante**
+O Tigre e o Eufrates transbordavam regularmente, às vezes de forma catastrófica. Camadas arqueológicas de inundação em Shuruppak e Kish (c. 2900-2800 a.C.) correspondem ao período em que as tradições mesopotâmicas de dilúvio tomavam forma literária. No Levante, as chuvas de inverno e as inundações relâmpago em wadis eram eventos anuais. As cheias sazonais do rio Jordão ameaçavam assentamentos no vale. Um público do período monárquico compreenderia a narrativa do dilúvio contra o conhecimento pessoal e cultural do que as águas crescentes faziam de fato a assentamentos, colheitas e rebanhos.
+
+**I-B2. Distinções entre puro e impuro no Israel pré-exílico**
+A distinção entre animais puros e impuros (7:2) antes do Sinai sugere uma categoria cultual pré-mosaica. No período monárquico, a prática sacrificial estava ativa em múltiplos sítios — Jerusalém, Betel, Dã e lugares altos rurais. Sacerdotes e fiéis saberiam imediatamente quais animais eram aceitáveis para o sacrifício. Os "sete sete" dos animais limpos no relato do dilúvio seria entendido como fornecimento do excedente necessário para o sacrifício pós-dilúvio, consistente com a prática cultual cotidiana.
+
+**I-B3. O fechamento divino como proteção singular**
+A afirmação em Gênesis 7:16 de que "YHWH fechou atrás dele" — Deus pessoalmente selando a *tevah* — não tem paralelo nos relatos mesopotâmicos de dilúvio, nos quais um artesão ou guarda realiza o fechamento. Num contexto monárquico em que o envolvimento pessoal de YHWH na proteção de Israel era uma reivindicação teológica viva (YHWH como guerreiro, protetor do rei, guardião de Jerusalém), o detalhe de que YHWH mesmo fecha a porta carrega o peso do compromisso divino pessoal com o sobrevivente da aliança.
+
+---
+
+### Cenário C: Se composto/finalizado durante o período Exílico/Pós-Exílico (~séc. VI-V a.C.)
+**[HISTÓRICO / ARQUEOLÓGICO — PROVÁVEL]** *(Consenso acadêmico para a forma final)*
+
+**I-C1. A experiência das cheias mesopotâmicas como contexto vivido**
+Os exilados judeus na Babilônia viviam em uma civilização fluvial definida pelas inundações. O Eufrates e o Tigre podiam subir dramaticamente com o degelo das neves da primavera nos montes Taurus e Zagros. As cidades babilônicas mantinham sistemas de diques, redes de canais e infraestrutura de controle de cheias. Um público exílico que lia Gênesis 7 compreenderia o mecanismo do dilúvio — "fontes do abismo" + "janelas dos céus" — contra a experiência direta de um ambiente sujeito a inundações e a linguagem cosmológica que seus vizinhos usavam para explicá-lo.
+
+**I-C2. Sistemas de medição babilônicos**
+A educação escribal babilônica incluía treinamento sistemático em medição: o côvado (*ammatu*), o cálamo (seis côvados) e unidades maiores para medição de campo. O cálculo astronômico usava o mesmo sistema de base 60 para tempo e distância. A precisão da cronologia do dilúvio — marcadores de mês e dia, períodos de 150 dias correspondentes a cinco meses de 30 dias — reflete exatamente os meses administrativos de 30 dias e o calendário esquemático de 360 dias usados na prática administrativa babilônica. A comunidade exílica leria essa precisão à luz de seu conhecimento do cômputo do tempo babilônico.
+
+**I-C3. Des-criação e re-criação cosmológica**
+O mecanismo do dilúvio em Gênesis 7:11 — fontes do abismo + janelas dos céus — reverte precisamente a separação do Dia 2 em Gênesis 1:6-7. Num contexto exílico, em que a destruição de Jerusalém podia ser vivida como des-criação cósmica (o templo desaparecido, a cidade santa incendiada, a comunidade da aliança dispersa), a estrutura da narrativa do dilúvio — des-criação seguida de re-criação — carregaria ressonância teológica imediata. Os exilados viviam no rescaldo do desfazimento de seu próprio mundo.
+
+**I-C4. Preservação dos animais e a continuidade da criação**
+A ênfase em preservar cada espécie — "dois de todo ser vivo", puros e impuros — reflete uma teologia do valor intrínseco da criação. Nos relatos babilônicos de dilúvio, os animais embarcam na nave principalmente como suprimento de alimento. Gênesis 7 apresenta sua preservação como imperativo divino: as categorias e a diversidade da criação devem sobreviver. Numa comunidade exílica ansiosa sobre se sua identidade, suas práticas e os propósitos de seu Deus sobreviveriam, a imagem do cuidado divino pela continuidade de cada criatura carregava peso específico.
+
+---
+
+### Cenário D: Se redatado durante o período Persa/proto-Helenístico (~séc. IV-III a.C.)
+**[HISTÓRICO / ARQUEOLÓGICO — POSSÍVEL]** *(Associado à configuração pentateucal final)*
+
+**I-D1. Cronologia comparada do dilúvio e disputas calendáricas**
+Nos séculos IV-III a.C., diferentes grupos judaicos usavam diferentes calendários: o calendário lunar padrão na Babilônia, o calendário de 364 dias refletido em Jubileus e 1 Enoque, e o calendário solar que pode estar subjacente à cronologia do dilúvio. As datas precisas da narrativa do dilúvio (Gn 7:11; 8:4, 5, 13, 14) eram aparentemente lidas de forma diferente dependendo do sistema calendárico utilizado. A própria precisão pode ter sido concebida para ancorar a narrativa dentro de uma tradição calendárica específica — questão viva nas comunidades escribais do período.
+
+**I-D2. Tradições universais de dilúvio num contexto comparativo helenístico**
+A *Babyloniaca* de Berossus (c. 278 a.C.) e a tradição grega de Deucalião circulavam simultaneamente com a Torá. Num contexto helenístico em que narrativas de dilúvio eram reconhecidas como um gênero transcultural, as características distintivas de Gênesis 7 — mecanismo cosmológico, datas precisas, fechamento divino — seriam lidas como marcadoras das reivindicações teológicas da tradição israelita em contraste com o pano de fundo comparativo. A pergunta "qual relato de dilúvio é autorizado?" era viva num mundo em que múltiplas tradições competiam.
+
+**I-D3. Cosmologia das águas no pensamento judaico tardio**
+O modelo cosmológico de três camadas (águas acima, terra, águas abaixo) recebia atenção teológica crescente na literatura judaica do Segundo Templo tardio. O *Livro dos Jubileus* (~séc. II a.C.) reconta o dilúvio com as mesmas premissas cosmológicas. As seções astronômicas de *1 Enoque* descrevem as janelas dos céus como comportas físicas. A linguagem cosmológica de Gênesis 7 — *tehom rabbah*, *arubbot ha-shamayim* — não era simplesmente texto herdado, mas vocabulário cosmológico vivo em uso ativo.
+
+---
+
+*Para o contexto político, econômico, social, militar e religioso completo de cada cenário, ver o companheiro de Gênesis 1, Seção I.*
 
 ---
 

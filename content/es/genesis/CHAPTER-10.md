@@ -7,10 +7,11 @@
 **Texto Base:** Biblia Hebraica Stuttgartensia, 5a ed. rev. (Stuttgart: Deutsche Bibelgesellschaft, 1997)
 **Edición:** Edición Transparente
 **Idioma:** Español
-**Metodología:** Sistema de Gobernanza de 29 Reglas (Reglas v3.0)
+**Metodología:** Sistema de Gobernanza de 29 Reglas (Reglas v3.3)
 **Política del Nombre Divino (Regla 25):** Opción A — Consonantal (YHWH).
-**Status:** borrador — pendiente de revisión por pares (Regla 28)
-**Revisores:** Hebraista: no asignado | Editor ES: no asignado | Alineación cruzada: no asignado
+**Status:** provisorio — pendiente de revisión por pares (Regla 28)
+**Revisores:** Hebraísta: no asignado | Editor ES: no asignado | Alineación cruzada: no asignado
+**Relación con Reina-Valera (Regla CORE):** Opción B — Reconocimiento selectivo. Se notan convergencias/divergencias en materiales suplementarios.
 
 ---
 
@@ -38,19 +39,19 @@
 - 🔵 **GRAMATICAL** - Estructura hebrea, formas verbales, sintaxis
 - 🟡 **TEOLÓGICO** - Opciones interpretativas, preservación de ambigüedad
 
-**Este capítulo es la Tabla de las Naciones — un catálogo genealógico-geográfico de los descendientes de los tres hijos de Noaj: Sem, Cam y Yafet.** Se abre con la cuarta fórmula *toledot* (10:1) y traza el mapa del mundo humano postdiluviano a través de linaje, lengua, territorio y nación. La mayor parte del capítulo es lista genealógica; la sección de Nimrod (10:8–12) es la principal excepción narrativa. YHWH aparece solo una vez (10:9). El capítulo cierra con una fórmula resumida (10:32) que hace eco de la estructura *toledot*. Los nombres aquí son simultáneamente personas, pueblos y lugares — el texto no siempre distingue entre el antepasado y la nación que lleva ese nombre.
+**Este capítulo es la Tabla de las Naciones — un catálogo genealógico-geográfico de los descendientes de los tres hijos de Noaj (Noé): Sem, Cam y Yafet (Jafet).** Se abre con la cuarta fórmula *toledot* (10:1) y traza el mapa del mundo humano postdiluviano a través de linaje, lengua, territorio y nación. La mayor parte del capítulo es lista genealógica; la sección de Nimrod (10:8–12) es la principal excepción narrativa. YHWH aparece solo una vez (10:9). El capítulo cierra con una fórmula resumida (10:32) que hace eco de la estructura *toledot*. Los nombres aquí son simultáneamente personas, pueblos y lugares — el texto no siempre distingue entre el antepasado y la nación que lleva ese nombre.
 
 ---
 
 ## VISIÓN GENERAL DEL CAPÍTULO
 
-**Qué sucede:** Los hijos de Noaj — Sem, Cam y Yafet — generan las naciones del mundo conocido. La línea de Yafet (vv.2–5) puebla las costas e islas. La línea de Cam (vv.6–20) incluye a Kush, Mitsrayim, Put y Kenaan, y contiene la digresión de Nimrod — un "poderoso" y cazador "ante YHWH" que construye Bavel, Erekh, Akkad, Kalneh, Nínive y otras grandes ciudades. La línea de Sem (vv.21–31) traza desde Arpakhshad hasta Ever (antepasado de los hebreos) e incluye la ramificación Peleg/Yoqtan. El capítulo termina con un resumen: estos son los clanes de los hijos de Noaj, por sus generaciones, en sus naciones, y de estos se dispersaron las naciones sobre la tierra después del diluvio.
+**Qué sucede:** Los hijos de Noé — Sem, Cam y Jafet — generan las naciones del mundo conocido. La línea de Jafet (vv.2–5) puebla las costas e islas. La línea de Cam (vv.6–20) incluye a Kush, Mitsrayim (Egipto), Put y Kenaan (Canaán), y contiene la digresión de Nimrod — un "poderoso" y cazador "ante YHWH" que construye Bavel, Erekh, Akkad, Kalneh, Nínive y otras grandes ciudades. La línea de Sem (vv.21–31) traza desde Arpakhshad hasta Ever (antepasado de los hebreos) e incluye la ramificación Peleg/Yoqtan. El capítulo termina con un resumen: estos son los clanes de los hijos de Noé, por sus generaciones, en sus naciones, y de estos se dispersaron las naciones sobre la tierra después del diluvio.
 
 **Temas clave:** La unidad y diversidad de la humanidad postdiluviana — todos descienden de una familia, pero el texto cataloga la diferenciación por clan (*mishpajot*), lengua (*leshonot*), tierra y nación. La Tabla de las Naciones es etnográfica, no puramente genealógica — traza realidades políticas y geográficas sobre un árbol familiar. La sección de Nimrod introduce la construcción de imperios, la fundación de ciudades y el primer "poderoso" (*gibbor*) después del diluvio.
 
 **Observe:** La digresión de Nimrod (10:8–12) — la única expansión narrativa en un capítulo dominado por listas; "ante YHWH" (10:9) — la única aparición de YHWH, y su ambigüedad (¿aprobación o desafío?); el juego de palabras de Peleg en 10:25 ("en sus días la tierra fue dividida"); la estructura de tres columnas — la lista de cada hijo termina con una fórmula: "estos son los hijos de X, por sus clanes, por sus lenguas, en sus tierras, por sus naciones"; la tensión entre genealogía y geografía (nombres = tanto personas como pueblos).
 
-**Conexión:** El *toledot* de los hijos de Noaj (10:1) continúa desde el *toledot* de Noaj (6:9). Las tres líneas establecidas por la bendición/maldición de Noaj en 9:25–27 ahora se trazan geográficamente. El capítulo prepara el escenario para Bavel (Cap. 11), que explicará cómo la "una lengua" (11:1) se convirtió en las muchas lenguas listadas aquí. La línea de Sem (10:21–31) será reducida en 11:10–26 a la línea abrahámica.
+**Conexión:** El *toledot* de los hijos de Noé (10:1) continúa desde el *toledot* de Noé (6:9). Las tres líneas establecidas por la bendición/maldición de Noé en 9:25–27 ahora se trazan geográficamente. El capítulo prepara el escenario para Bavel (Cap. 11), que explicará cómo la "una lengua" (11:1) se convirtió en las muchas lenguas listadas aquí. La línea de Sem (10:21–31) será reducida en 11:10–26 a la línea abrahámica.
 
 ---
 
@@ -60,15 +61,15 @@
 
 ---
 
-¹Y estas *son* las generaciones de los hijos de Noaj — Sem, Cam y Yafet; y les nacieron hijos después del diluvio.
+¹Y estas *son* las generaciones de los hijos de Noé — Sem, Cam y Jafet; y les nacieron hijos después del diluvio.
 
-²Los hijos de Yafet: Gomer, y Magog, y Madai, y Yavan, y Tuval, y Meshekh, y Tiras. ³Y los hijos de Gomer: Ashkenaz, y Rifat, y Togarmah. ⁴Y los hijos de Yavan: Elishah, y Tarshish, Kittim, y Dodanim. ⁵De estos se dispersaron los pueblos costeros en sus tierras, cada uno por su lengua, por sus clanes, en sus naciones.
+²Los hijos de Jafet: Gomer, y Magog, y Madai, y Yavan, y Tuval, y Meshekh, y Tiras. ³Y los hijos de Gomer: Ashkenaz, y Rifat, y Togarmah. ⁴Y los hijos de Yavan: Elishah, y Tarshish, Kittim, y Dodanim. ⁵De estos se dispersaron los pueblos costeros en sus tierras, cada uno por su lengua, por sus clanes, en sus naciones.
 
-⁶Y los hijos de Cam: Kush, y Mitsrayim, y Put, y Kenaan. ⁷Y los hijos de Kush: Seva, y Javilah, y Savtah, y Ramah, y Savtekha; y los hijos de Ramah: Sheva, y Dedan. ⁸Y Kush engendró a Nimrod; él comenzó a ser un poderoso en la tierra. ⁹Él fue un poderoso cazador ante YHWH; por eso se dice: "Como Nimrod, poderoso cazador ante YHWH." ¹⁰Y el principio de su reino fue Bavel, y Erekh, y Akkad, y Kalneh, en la tierra de Shinar. ¹¹De aquella tierra salió *hacia* Ashshur, y construyó Nínive, y Rejovot-Ir, y Kelaj, ¹²y Resen entre Nínive y entre Kelaj — esa *es* la gran ciudad. ¹³Y Mitsrayim engendró a los Ludim, y a los Anamim, y a los Lehavim, y a los Naftujim, ¹⁴y a los Patrusim, y a los Kaslujim — de quienes salieron los Pelishtim — y a los Kaftorim. ¹⁵Y Kenaan engendró a Tsidón su primogénito, y a Jet, ¹⁶y al Yevusí, y al Emorí, y al Girgashí, ¹⁷y al Jivví, y al Arqí, y al Siní, ¹⁸y al Arvadí, y al Tsemarí, y al Jamatí; y después los clanes del Kenaaní se dispersaron. ¹⁹Y el límite del Kenaaní fue desde Tsidón *al ir* hacia Gerar, hasta Azzah; *al ir* hacia Sedom y Amorah y Admah y Tsevoyim, hasta Lasha. ²⁰Estos *son* los hijos de Cam, por sus clanes, por sus lenguas, en sus tierras, en sus naciones.
+⁶Y los hijos de Cam: Kush, y Egipto, y Put, y Canaán. ⁷Y los hijos de Kush: Seva, y Javilah, y Savtah, y Ramah, y Savtekha; y los hijos de Ramah: Sheva, y Dedan. ⁸Y Kush engendró a Nimrod; él comenzó a ser un poderoso en la tierra. ⁹Él fue un poderoso cazador ante YHWH; por eso se dice: "Como Nimrod, poderoso cazador ante YHWH." ¹⁰Y el principio de su reino fue Bavel, y Erekh, y Akkad, y Kalneh, en la tierra de Shinar. ¹¹De aquella tierra salió *hacia* Ashshur, y construyó Nínive, y Rejovot-Ir, y Kelaj, ¹²y Resen entre Nínive y entre Kelaj — esa *es* la gran ciudad. ¹³Y Egipto engendró a los Ludim, y a los Anamim, y a los Lehavim, y a los Naftujim, ¹⁴y a los Patrusim, y a los Kaslujim — de quienes salieron los Pelishtim — y a los Kaftorim. ¹⁵Y Canaán engendró a Tsidón su primogénito, y a Jet, ¹⁶y al Yevusí, y al Emorí, y al Girgashí, ¹⁷y al Jivví, y al Arqí, y al Siní, ¹⁸y al Arvadí, y al Tsemarí, y al Jamatí; y después los clanes del cananeo se dispersaron. ¹⁹Y el límite del cananeo fue desde Tsidón al ir hacia Gerar, hasta Azzah; al ir hacia Sedom y Amorah y Admah y Tsevoyim, hasta Lasha. ²⁰Estos *son* los hijos de Cam, por sus clanes, por sus lenguas, en sus tierras, en sus naciones.
 
-²¹Y a Sem también le nacieron *hijos* — el padre de todos los hijos de Ever, el hermano de Yafet el mayor. ²²Los hijos de Sem: Elam, y Ashshur, y Arpakhshad, y Lud, y Aram. ²³Y los hijos de Aram: Uts, y Jul, y Geter, y Mash. ²⁴Y Arpakhshad engendró a Shelaj, y Shelaj engendró a Ever. ²⁵Y a Ever le nacieron dos hijos: el nombre de uno *fue* Peleg, porque en sus días la tierra fue dividida; y el nombre de su hermano *fue* Yoqtan. ²⁶Y Yoqtan engendró a Almodad, y a Shelef, y a Jatsarmavet, y a Yeraj, ²⁷y a Hadoram, y a Uzal, y a Diqlah, ²⁸y a Oval, y a Avimael, y a Sheva, ²⁹y a Ofir, y a Javilah, y a Yovav; todos estos *fueron* los hijos de Yoqtan. ³⁰Y su morada fue desde Mesha *al ir* hacia Sefar, la montaña del oriente. ³¹Estos *son* los hijos de Sem, por sus clanes, por sus lenguas, en sus tierras, por sus naciones.
+²¹Y a Sem también le nacieron *hijos* — el padre de todos los hijos de Ever, el hermano de Jafet el mayor. ²²Los hijos de Sem: Elam, y Ashshur, y Arpakhshad, y Lud, y Aram. ²³Y los hijos de Aram: Uts, y Jul, y Geter, y Mash. ²⁴Y Arpakhshad engendró a Shelaj, y Shelaj engendró a Ever. ²⁵Y a Ever le nacieron dos hijos: el nombre de uno *fue* Peleg, porque en sus días la tierra fue dividida; y el nombre de su hermano *fue* Yoqtan. ²⁶Y Yoqtan engendró a Almodad, y a Shelef, y a Jatsarmavet, y a Yeraj, ²⁷y a Hadoram, y a Uzal, y a Diqlah, ²⁸y a Oval, y a Avimael, y a Sheva, ²⁹y a Ofir, y a Javilah, y a Yovav; todos estos *fueron* los hijos de Yoqtan. ³⁰Y su morada fue desde Mesha al ir hacia Sefar, la montaña del oriente. ³¹Estos *son* los hijos de Sem, por sus clanes, por sus lenguas, en sus tierras, por sus naciones.
 
-³²Estos *son* los clanes de los hijos de Noaj, por sus generaciones, en sus naciones; y de estos se dispersaron las naciones en la tierra después del diluvio.
+³²Estos *son* los clanes de los hijos de Noé, por sus generaciones, en sus naciones; y de estos se dispersaron las naciones en la tierra después del diluvio.
 
 ---
 
@@ -76,12 +77,15 @@
 
 ### **Versículo 1**
 
-Y estas *son* las generaciones de los hijos de Noaj — Sem, Cam y Yafet; y les nacieron hijos después del diluvio.
+Y estas *son* las generaciones de los hijos de Noé — Sem, Cam y Jafet; y les nacieron hijos después del diluvio.
 
 > **📝 NOTAS**
 >
+> 🟡 **NIVEL 2 — ADVERTENCIA DE ETNOGÉNESIS**
+> - El marco genealógico de este capítulo no debe usarse para construir jerarquías étnicas, raciales o nacionales modernas. La Tabla de las Naciones es un documento político-geográfico antiguo, no una taxonomía biológica de los pueblos modernos. Vea el compañero Sección F para contexto histórico sobre el uso indebido documentado.
+>
 > 🔴 **FÓRMULA TOLEDOT — CUARTA APARICIÓN**
-> - **וְאֵלֶּה תּוֹלְדֹת בְּנֵי־נֹחַ** = "Y estas son las generaciones de los hijos de Noaj." Cuarto marcador *toledot* en Génesis (2:4, 5:1, 6:9, 10:1). Los *toledot* anteriores fueron de "los cielos y la tierra" (2:4), "Adán" (5:1) y "Noaj" (6:9). Este es único: no de una sola persona sino de "los hijos de Noaj" — sujeto plural. El *toledot* gobierna todo el capítulo.
+> - **וְאֵלֶּה תּוֹלְדֹת בְּנֵי־נֹחַ** = "Y estas son las generaciones de los hijos de Noé." Cuarto marcador *toledot* en Génesis (2:4, 5:1, 6:9, 10:1). Los *toledot* anteriores fueron de "los cielos y la tierra" (2:4), "Adán" (5:1) y "Noé" (6:9). Este es único: no de una sola persona sino de "los hijos de Noé" — sujeto plural. El *toledot* gobierna todo el capítulo.
 >
 > 🔵 **"DESPUÉS DEL DILUVIO"**
 > - **אַחַר הַמַּבּוּל** = "después del diluvio (*mabbul*)." El *mabbul* funciona como la línea divisoria. Este capítulo traza el mapa del mundo postdiluviano — la tierra repoblada.
@@ -90,12 +94,12 @@ Y estas *son* las generaciones de los hijos de Noaj — Sem, Cam y Yafet; y les 
 
 ### **Versículo 2**
 
-Los hijos de Yafet: Gomer, y Magog, y Madai, y Yavan, y Tuval, y Meshekh, y Tiras.
+Los hijos de Jafet: Gomer, y Magog, y Madai, y Yavan, y Tuval, y Meshekh, y Tiras.
 
 > **📝 NOTAS**
 >
 > 🔴 **LÍNEA DE YAFET — LOS PUEBLOS DEL NORTE Y DEL OESTE**
-> - Siete hijos de Yafet. Identificaciones estándar (todas PROBABLES salvo indicación): **Gomer** = Cimerios (acadio *Gimirri*); **Magog** = incierto (asociado con escitas o pueblos anatolios — POSIBLE); **Madai** = Medos; **Yavan** (יָוָן) = Jonios / Grecia (correspondencia bien atestiguada); **Tuval** = Tabal (Anatolia oriental); **Meshekh** = Mushki (Anatolia/Frigia); **Tiras** = incierto (¿Tracios? ¿Tirrenos? — POSIBLE para ambos).
+> - Siete hijos de Jafet. Identificaciones estándar (todas PROBABLES salvo indicación): **Gomer** = Cimerios (acadio *Gimirri*); **Magog** = incierto (asociado con escitas o pueblos anatolios — POSIBLE); **Madai** = Medos; **Yavan** (יָוָן) = Jonios / Grecia (correspondencia bien atestiguada); **Tuval** = Tabal (Anatolia oriental); **Meshekh** = Mushki (Anatolia/Frigia); **Tiras** = incierto (¿Tracios? ¿Tirrenos? — POSIBLE para ambos).
 >
 > 🟢 **"YAVAN" — TRANSLITERACIÓN**
 > - Hebreo **יָוָן** rendido como *Yavan* según Regla 4. El tradicional "Javán" refleja convención española a través del latín. El yod hebreo = /j/ como en "yes." Identificación común: Grecia / los Jonios.
@@ -134,7 +138,7 @@ De estos se dispersaron los pueblos costeros en sus tierras, cada uno por su len
 > **📝 NOTAS**
 >
 > 🟢 **"PUEBLOS COSTEROS" (*iyyei ha-goyim*)**
-> - **אִיֵּי הַגּוֹיִם** = "las costas/islas de las naciones." *Iyyim* (אִיִּים) = costas, islas, regiones marítimas. Los descendientes de Yafet son los pueblos marítimos — los que se dispersaron por costas e islas. Este término aparece frecuentemente en la literatura profética (Is 42:4, 49:1) para pueblos distantes.
+> - **אִיֵּי הַגּוֹיִם** = "las costas/islas de las naciones." *Iyyim* (אִיִּים) = costas, islas, regiones marítimas. Los descendientes de Jafet son los pueblos marítimos — los que se dispersaron por costas e islas. Este término aparece frecuentemente en la literatura profética (Is 42:4, 49:1) para pueblos distantes.
 >
 > 🔵 **FÓRMULA RESUMIDA — PRIMERA DE TRES**
 > - Este versículo establece la fórmula que cerrará la sección de cada hijo: diferenciación por **lengua** (*lashon*), **clan** (*mishpajah*), **tierra** (*eretz*) y **nación** (*goy*). El capítulo organiza a la humanidad según cuatro ejes: lingüístico, de parentesco, territorial y político.
@@ -146,15 +150,15 @@ De estos se dispersaron los pueblos costeros en sus tierras, cada uno por su len
 
 ### **Versículo 6**
 
-Y los hijos de Cam: Kush, y Mitsrayim, y Put, y Kenaan.
+Y los hijos de Cam: Kush, y Egipto, y Put, y Canaán.
 
 > **📝 NOTAS**
 >
 > 🔴 **LÍNEA DE CAM — LOS PUEBLOS DEL SUR Y DEL ESTE**
-> - Cuatro hijos de Cam. Identificaciones: **Kush** (כּוּשׁ) = Nubia / región del alto Nilo (PROBABLE; frecuentemente rendido "Etiopía" en traducciones antiguas, pero esto es engañoso — el antiguo Kush ≠ la Etiopía moderna). **Mitsrayim** (מִצְרַיִם) = Egipto (bien atestiguado; el nombre hebreo estándar para Egipto; la forma dual *-ayim* puede reflejar el Alto y Bajo Egipto). **Put** (פּוּט) = Libia o Punt (POSIBLE para ambos; identificación debatida). **Kenaan** (כְּנַעַן) = los Cananeos / tierra de Canaán.
+> - Cuatro hijos de Cam. Identificaciones: **Kush** (כּוּשׁ) = Nubia / región del alto Nilo (PROBABLE; frecuentemente rendido "Etiopía" en traducciones antiguas, pero esto es engañoso — el antiguo Kush ≠ la Etiopía moderna). **Egipto** (מִצְרַיִם) = Egipto (bien atestiguado; el nombre hebreo estándar para Egipto; la forma dual *-ayim* puede reflejar el Alto y Bajo Egipto). **Put** (פּוּט) = Libia o Punt (POSIBLE para ambos; identificación debatida). **Canaán** (כְּנַעַן) = los Cananeos / tierra de Canaán.
 >
 > 🟢 **POLÍTICA DE TRANSLITERACIÓN**
-> - Según la Regla 4 y el registro editorial (Entrada 2026-04-17-004): nombres propios transliterados desde la forma hebrea. Kush (no "Cus" ni "Etiopía"), Mitsrayim (no "Egipto"), Kenaan (no "Canaán"). Las identificaciones geográficas tradicionales se proporcionan en las notas. El texto presenta estos como personas/antepasados; las notas identifican los pueblos/regiones que representan.
+> - Según la Regla 4 y el registro editorial (Entrada 2026-04-17-004): nombres propios transliterados desde la forma hebrea, con forma familiar entre paréntesis en primera mención. Kush (no "Cus" ni "Etiopía"), Mitsrayim (Egipto) en primera mención luego "Egipto", Kenaan (Canaán) en primera mención luego "Canaán". Las identificaciones geográficas tradicionales se proporcionan en las notas. El texto presenta estos como personas/antepasados; las notas identifican los pueblos/regiones que representan.
 
 ---
 
@@ -253,7 +257,7 @@ y Resen entre Nínive y entre Kelaj — esa *es* la gran ciudad.
 
 ### **Versículo 13**
 
-Y Mitsrayim engendró a los Ludim, y a los Anamim, y a los Lehavim, y a los Naftujim,
+Y Egipto engendró a los Ludim, y a los Anamim, y a los Lehavim, y a los Naftujim,
 
 > **📝 NOTAS**
 >
@@ -278,12 +282,12 @@ y a los Patrusim, y a los Kaslujim — de quienes salieron los Pelishtim — y a
 
 ### **Versículo 15**
 
-Y Kenaan engendró a Tsidón su primogénito, y a Jet,
+Y Canaán engendró a Tsidón su primogénito, y a Jet,
 
 > **📝 NOTAS**
 >
 > 🟢 **LÍNEA DE KENAAN**
-> - **Tsidón** (צִידוֹן) = Sidón, la ciudad costera fenicia (bien atestiguada). Nombrado como **primogénito** (*bekhor*) de Kenaan. **Jet** (חֵת) = antepasado de los Hititas / Jittim (cf. Gn 23, los Hititas de Hebrón). La relación entre el Jet bíblico y el imperio hitita de Anatolia es debatida (POSIBLE conexión, no probada).
+> - **Tsidón** (צִידוֹן) = Sidón, la ciudad costera fenicia (bien atestiguada). Nombrado como **primogénito** (*bekhor*) de Canaán. **Jet** (חֵת) = antepasado de los Hititas / Jittim (cf. Gn 23, los Hititas de Hebrón). La relación entre el Jet bíblico y el imperio hitita de Anatolia es debatida (POSIBLE conexión, no probada).
 
 ---
 
@@ -311,7 +315,7 @@ y al Jivví, y al Arqí, y al Siní,
 
 ### **Versículo 18**
 
-y al Arvadí, y al Tsemarí, y al Jamatí; y después los clanes del Kenaaní se dispersaron.
+y al Arvadí, y al Tsemarí, y al Jamatí; y después los clanes del cananeo se dispersaron.
 
 > **📝 NOTAS**
 >
@@ -325,12 +329,12 @@ y al Arvadí, y al Tsemarí, y al Jamatí; y después los clanes del Kenaaní se
 
 ### **Versículo 19**
 
-Y el límite del Kenaaní fue desde Tsidón *al ir* hacia Gerar, hasta Azzah; *al ir* hacia Sedom y Amorah y Admah y Tsevoyim, hasta Lasha.
+Y el límite del cananeo fue desde Tsidón al ir hacia Gerar, hasta Azzah; al ir hacia Sedom y Amorah y Admah y Tsevoyim, hasta Lasha.
 
 > **📝 NOTAS**
 >
 > 🔵 **FÓRMULA DE LÍMITE GEOGRÁFICO**
-> - Este versículo traza los límites del territorio del Kenaaní — la única descripción detallada de fronteras en la Tabla de las Naciones. El territorio abarca: Tsidón (norte) → Gerar / Azzah (suroeste, hacia la costa) → Sedom, Amorah, Admah, Tsevoyim (sureste, región del Mar Muerto) → Lasha (ubicación INCIERTA).
+> - Este versículo traza los límites del territorio del cananeo — la única descripción detallada de fronteras en la Tabla de las Naciones. El territorio abarca: Tsidón (norte) → Gerar / Azzah (suroeste, hacia la costa) → Sedom, Amorah, Admah, Tsevoyim (sureste, región del Mar Muerto) → Lasha (ubicación INCIERTA).
 >
 > 🟢 **IDENTIFICACIONES DE LUGARES**
 > - **Gerar** = al sur de Gaza, en el Negev (cf. Gn 20:1, 26:1). **Azzah** (עַזָּה) = Gaza. **Sedom** = Sodoma. **Amorah** = Gomorra. **Admah** y **Tsevoyim** = ciudades de la llanura destruidas con Sodoma (cf. Gn 14:2, Dt 29:22). **Lasha** = no identificada (INCIERTO).
@@ -344,21 +348,21 @@ Estos *son* los hijos de Cam, por sus clanes, por sus lenguas, en sus tierras, e
 > **📝 NOTAS**
 >
 > 🔵 **FÓRMULA RESUMIDA — SEGUNDA DE TRES**
-> - Cierra la sección de Cam con la misma fórmula de cuatro ejes: clanes (*mishpajot*), lenguas (*leshonot*), tierras (*artsot*), naciones (*goyim*). Estructura idéntica a v.5 (Yafet) y v.31 (Sem).
+> - Cierra la sección de Cam con la misma fórmula de cuatro ejes: clanes (*mishpajot*), lenguas (*leshonot*), tierras (*artsot*), naciones (*goyim*). Estructura idéntica a v.5 (Jafet) y v.31 (Sem).
 
 ---
 
 ### **Versículo 21**
 
-Y a Sem también le nacieron *hijos* — el padre de todos los hijos de Ever, el hermano de Yafet el mayor.
+Y a Sem también le nacieron *hijos* — el padre de todos los hijos de Ever, el hermano de Jafet el mayor.
 
 > **📝 NOTAS**
 >
 > 🔴 **SEM — "PADRE DE TODOS LOS HIJOS DE EVER"**
-> - **אֲבִי כָּל־בְּנֵי עֵבֶר** = "el padre de todos los hijos de Ever." Este título distingue a Ever — antepasado de los *Ivrim* (Hebreos). El narrador identifica al descendiente más significativo de Sem antes de listar a sus hijos. El propósito genealógico de la sección de Sem es llegar a Ever y, finalmente, a Avram (11:26).
+> - **אֲבִי כָּל־בְּנֵי עֵבֶר** = "el padre de todos los hijos de Ever." Este título distingue a Ever — antepasado de los *Ivrim* (Hebreos). El narrador identifica al descendiente más significativo de Sem antes de listar a sus hijos. El propósito genealógico de la sección de Sem es llegar a Ever y, finalmente, a Avram (Abrán) (11:26).
 >
 > 🔵 **"YAFET EL MAYOR" — ¿O "EL HERMANO MAYOR DE YAFET"?**
-> - **אֲחִי יֶפֶת הַגָּדוֹל** = ambiguo: (1) "el hermano de Yafet el mayor" (Yafet es mayor que Sem); (2) "el hermano mayor de Yafet" (Sem es el mayor). El orden hebreo permite ambas lecturas. El orden de la lista Sem-Cam-Yafet puede reflejar importancia, no orden de nacimiento (cf. 9:24, "su hijo menor"). La TT rinde "el hermano de Yafet el mayor" y nota la ambigüedad.
+> - **אֲחִי יֶפֶת הַגָּדוֹל** = ambiguo: (1) "el hermano de Jafet el mayor" (Jafet es mayor que Sem); (2) "el hermano mayor de Jafet" (Sem es el mayor). El orden hebreo permite ambas lecturas. El orden de la lista Sem-Cam-Jafet puede reflejar importancia, no orden de nacimiento (cf. 9:24, "su hijo menor"). La TT rinde "el hermano de Jafet el mayor" y nota la ambigüedad.
 
 ---
 
@@ -369,7 +373,7 @@ Los hijos de Sem: Elam, y Ashshur, y Arpakhshad, y Lud, y Aram.
 > **📝 NOTAS**
 >
 > 🟢 **IDENTIFICACIONES**
-> - **Elam** = reino elamita al este de Mesopotamia (bien atestiguado; capital Susa). **Ashshur** (אַשּׁוּר) = Asiria (bien atestiguada). Nota: Ashshur aparece tanto en la línea de Sem (aquí) como asociado con la actividad constructora de Nimrod (v.11) — la superposición es deliberada o refleja relaciones históricas complejas. **Arpakhshad** = identificación debatida (INCIERTO; posiblemente Arrapaquitis cerca de Kirkuk, o un nombre compuesto). Esta es la línea genealógicamente crítica — que conduce a Ever, Peleg, Avram. **Lud** = Lidia en Anatolia occidental (POSIBLE). **Aram** = Arameos (bien atestiguados; Siria/Alta Mesopotamia).
+> - **Elam** = reino elamita al este de Mesopotamia (bien atestiguado; capital Susa). **Ashshur** (אַשּׁוּר) = Asiria (bien atestiguada). Nota: Ashshur aparece tanto en la línea de Sem (aquí) como asociado con la actividad constructora de Nimrod (v.11) — la superposición es deliberada o refleja relaciones históricas complejas. **Arpakhshad** = identificación debatida (INCIERTO; posiblemente Arrapaquitis cerca de Kirkuk, o un nombre compuesto). Esta es la línea genealógicamente crítica — que conduce a Ever, Peleg, Abrán. **Lud** = Lidia en Anatolia occidental (POSIBLE). **Aram** = Arameos (bien atestiguados; Siria/Alta Mesopotamia).
 
 ---
 
@@ -391,7 +395,7 @@ Y Arpakhshad engendró a Shelaj, y Shelaj engendró a Ever.
 > **📝 NOTAS**
 >
 > 🔵 **LA LÍNEA GENEALÓGICA HACIA AVRAM**
-> - Este versículo comienza la descendencia crítica: Arpakhshad → Shelaj → Ever. Esta línea continuará en 11:10–26: Ever → Peleg → ... → Teraj → Avram. El capítulo reduce el enfoque de setenta naciones a un solo linaje.
+> - Este versículo comienza la descendencia crítica: Arpakhshad → Shelaj → Ever. Esta línea continuará en 11:10–26: Ever → Peleg → ... → Taré → Abrán. El capítulo reduce el enfoque de setenta naciones a un solo linaje.
 
 ---
 
@@ -458,12 +462,12 @@ y a Ofir, y a Javilah, y a Yovav; todos estos *fueron* los hijos de Yoqtan.
 
 ### **Versículo 30**
 
-Y su morada fue desde Mesha *al ir* hacia Sefar, la montaña del oriente.
+Y su morada fue desde Mesha al ir hacia Sefar, la montaña del oriente.
 
 > **📝 NOTAS**
 >
 > 🔵 **RANGO GEOGRÁFICO**
-> - **Mesha** = incierto (posiblemente en Arabia septentrional). **Sefar** = incierto (posiblemente Zafar en Yemen, POSIBLE). **"La montaña del oriente"** (*har ha-qedem*) = una cadena montañosa en Arabia oriental/suroriental. Los pueblos yoqtanitas ocupan la península arábiga de noroeste a sureste — el único rango geográfico dado para los descendientes de Sem (cf. los límites detallados de Kenaan en v.19).
+> - **Mesha** = incierto (posiblemente en Arabia septentrional). **Sefar** = incierto (posiblemente Zafar en Yemen, POSIBLE). **"La montaña del oriente"** (*har ha-qedem*) = una cadena montañosa en Arabia oriental/suroriental. Los pueblos yoqtanitas ocupan la península arábiga de noroeste a sureste — el único rango geográfico dado para los descendientes de Sem (cf. los límites detallados de Canaán en v.19).
 
 ---
 
@@ -474,18 +478,18 @@ Estos *son* los hijos de Sem, por sus clanes, por sus lenguas, en sus tierras, p
 > **📝 NOTAS**
 >
 > 🔵 **FÓRMULA RESUMIDA — TERCERA DE TRES**
-> - Cierra la sección de Sem con la misma fórmula que vv.5 y 20. La triple repetición completa la estructura: Yafet (vv.2–5), Cam (vv.6–20), Sem (vv.21–31) — cada una cerrada por la fórmula clanes/lenguas/tierras/naciones.
+> - Cierra la sección de Sem con la misma fórmula que vv.5 y 20. La triple repetición completa la estructura: Jafet (vv.2–5), Cam (vv.6–20), Sem (vv.21–31) — cada una cerrada por la fórmula clanes/lenguas/tierras/naciones.
 
 ---
 
 ### **Versículo 32**
 
-Estos *son* los clanes de los hijos de Noaj, por sus generaciones, en sus naciones; y de estos se dispersaron las naciones en la tierra después del diluvio.
+Estos *son* los clanes de los hijos de Noé, por sus generaciones, en sus naciones; y de estos se dispersaron las naciones en la tierra después del diluvio.
 
 > **📝 NOTAS**
 >
 > 🔴 **RESUMEN FINAL — ECO DEL TOLEDOT**
-> - Este versículo refleja la apertura (v.1) y forma una inclusión. "Por sus generaciones" (*le-toledotam*) hace eco de la fórmula *toledot* del v.1 — enmarcando el capítulo.
+> - Este versículo refleja la apertura (v.1) y forma una inclusión (un marco literario donde la misma frase abre y cierra una sección). "Por sus generaciones" (*le-toledotam*) hace eco de la fórmula *toledot* del v.1 — enmarcando el capítulo.
 >
 > 🟢 **"LAS NACIONES SE DISPERSARON" (*nifretsu ha-goyim*)**
 > - **נִפְרְדוּ הַגּוֹיִם** = "las naciones se dividieron/dispersaron." Raíz פ-ר-ד (*parad*) = separar, dividir. Raíz diferente del juego de palabras de Peleg (פ-ל-ג) y de la dispersión de Bavel (פ-ו-צ, *puts*). Tres raíces hebreas diferentes describen el mismo fenómeno de dispersión humana — cada una con un matiz diferente: *palag* (dividir), *parad* (separar), *puts* (esparcir).
@@ -503,7 +507,7 @@ Estos *son* los clanes de los hijos de Noaj, por sus generaciones, en sus nacion
 | גִּבּוֹר | poderoso / guerrero | Nimrod (10:8–9). Mismo término que los *gibborim* de 6:4. |
 | צַיִד | caza / cazador | "Poderoso cazador ante YHWH" (10:9). |
 | מַמְלָכָה | reino | Primera aparición bíblica (10:10). Dominio de Nimrod. |
-| אִיִּים | costas / islas | Regiones marítimas; descendientes de Yafet (10:5). |
+| אִיִּים | costas / islas | Regiones marítimas; descendientes de Jafet (10:5). |
 | מִשְׁפָּחוֹת | clanes / familias | Unidad de organización de parentesco en las fórmulas resumidas. |
 | לְשֹׁנוֹת | lenguas / idiomas | Diferenciación lingüística; anticipa Bavel (Cap. 11). |
 | גּוֹי / גּוֹיִם | nación / naciones | Unidad político-étnica en las fórmulas resumidas. |
@@ -513,15 +517,15 @@ Estos *son* los clanes de los hijos de Noaj, por sus generaciones, en sus nacion
 
 ## SEGUIMIENTO ENTRE CAPÍTULOS (Gn 9 → Gn 10)
 
-**Las líneas de los tres hijos y el oráculo de Noaj (9:25–27):**
+**Las líneas de los tres hijos y el oráculo de Noé (9:25–27):**
 
-| Hijo | Palabra de Noaj (9:25–27) | Tabla de las Naciones (Cap. 10) |
+| Hijo | Palabra de Noé (9:25–27) | Tabla de las Naciones (Cap. 10) |
 |------|---------------------------|-------------------------------|
 | Sem | "Bendito sea YHWH, Dios de Sem" | La línea de Sem lleva a Ever (antepasado de los Hebreos) — la línea genealógicamente crítica |
-| Cam | Kenaan maldecido ("siervo de siervos") | La línea de Cam incluye a Nimrod (constructor de imperios), Mitsrayim, Kenaan — la sección narrativamente más expandida |
-| Yafet | "Que Dios ensanche a Yafet" | La línea de Yafet puebla las costas — geográficamente el territorio más amplio ("ensanchado") |
+| Cam | Canaán maldecido ("siervo de siervos") | La línea de Cam incluye a Nimrod (constructor de imperios), Egipto, Canaán — la sección narrativamente más expandida |
+| Jafet | "Que Dios ensanche a Jafet" | La línea de Jafet puebla las costas — geográficamente el territorio más amplio ("ensanchado") |
 
-El oráculo de Noaj se refleja en la Tabla de las Naciones: Yafet es ensanchado (expansión marítima), Sem lleva la conexión con YHWH (línea hacia Avram), y la línea de Cam incluye tanto el poder imperial (Nimrod) como el maldito Kenaan.
+El oráculo de Noé se refleja en la Tabla de las Naciones: Jafet es ensanchado (expansión marítima), Sem lleva la conexión con YHWH (línea hacia Abrán), y la línea de Cam incluye tanto el poder imperial (Nimrod) como el maldito Canaán.
 
 **Cadena de gibbor:**
 - 6:4: *gibborim* — "los poderosos que fueron desde antiguo, hombres del nombre." Prediluvianos.
@@ -531,7 +535,7 @@ El oráculo de Noaj se refleja en la Tabla de las Naciones: Yafet es ensanchado 
 **Distribución del nombre divino en Gn 10:**
 - 10:9: **YHWH** — única aparición. "Poderoso cazador ante YHWH." Usado en lo que puede ser una expresión proverbial.
 - Resto del capítulo: ningún nombre divino. La Tabla de las Naciones es etnográfica, no teológica — Dios está presente solo en el aparte sobre Nimrod.
-- Patrón: Gn 9 usó Elohim para el pacto (9:1–17) y YHWH para la bendición de Noaj (9:26). Gn 10 usa YHWH una vez, para la enigmática descripción de Nimrod.
+- Patrón: Gn 9 usó Elohim para el pacto (9:1–17) y YHWH para la bendición de Noé (9:26). Gn 10 usa YHWH una vez, para la enigmática descripción de Nimrod.
 
 **Vocabulario de dispersión:**
 - 9:19: **נָפְצָה** (*naftsah*) — "se esparció" (raíz פ-ו-צ)
@@ -544,16 +548,16 @@ El oráculo de Noaj se refleja en la Tabla de las Naciones: Yafet es ensanchado 
 **Cadena de toledot:**
 - 2:4 — *toledot* de los cielos y la tierra
 - 5:1 — *sefer toledot* de Adán
-- 6:9 — *toledot* de Noaj
-- **10:1** — *toledot* de los hijos de Noaj
+- 6:9 — *toledot* de Noé
+- **10:1** — *toledot* de los hijos de Noé
 - 11:10 — *toledot* de Sem (siguiente)
 
-**Kenaan a través de Gn 9–10:**
-- 9:18: "Cam es el padre de Kenaan" (anticipatorio)
-- 9:22: "Cam, el padre de Kenaan, vio..." (repetido antes de la ofensa)
-- 9:25–27: Kenaan maldecido tres veces ("siervo de siervos," "siervo para ellos" ×2)
-- 10:15–19: Los descendientes de Kenaan listados — Tsidón, Jet, y los pueblos cananeos, con descripción detallada de fronteras
-- El narrador traza la línea de Kenaan con más precisión geográfica que cualquier otra — la línea "maldita" es trazada con más cuidado, anticipando los futuros reclamos territoriales de Israel.
+**Canaán a través de Gn 9–10:**
+- 9:18: "Cam es el padre de Canaán" (anticipatorio)
+- 9:22: "Cam, el padre de Canaán, vio..." (repetido antes de la ofensa)
+- 9:25–27: Canaán maldecido tres veces ("siervo de siervos," "siervo para ellos" ×2)
+- 10:15–19: Los descendientes de Canaán listados — Tsidón, Jet, y los pueblos cananeos, con descripción detallada de fronteras
+- El narrador traza la línea de Canaán con más precisión geográfica que cualquier otra — la línea "maldita" es trazada con más cuidado, anticipando los futuros reclamos territoriales de Israel.
 
 **Nombres superpuestos entre linajes:**
 - **Javilah** = en la línea de Kush (10:7, Cam) Y en la línea de Yoqtan (10:29, Sem)

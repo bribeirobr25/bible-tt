@@ -7,10 +7,11 @@
 **Texto Base:** Biblia Hebraica Stuttgartensia, 5ª ed. rev. (Stuttgart: Deutsche Bibelgesellschaft, 1997)
 **Edição:** Edição Transparente
 **Idioma:** Português Brasileiro
-**Metodologia:** Sistema de Governança de 29 Regras (Conjunto de Regras v3.0)
+**Metodologia:** Sistema de Governança de 29 Regras (Conjunto de Regras v3.3)
 **Política do Nome Divino (Regra 25):** Opção A — Consonantal (YHWH).
 **Status:** provisório — aguardando revisão por pares (Regra 28)
 **Revisores:** Hebraísta: não atribuído | Editor PT: não atribuído | Alinhamento cruzado: não atribuído
+**Relação com Almeida (Regra CORE):** Opção B — Reconhecimento seletivo. Notam-se convergências/divergências em materiais suplementares.
 
 ---
 
@@ -31,7 +32,7 @@
 ***Itálico:*** Palavras adicionadas para a gramática portuguesa (não presentes no texto hebraico)
 **"Aspas":** Discurso divino direto ou fala humana
 **YHWH:** Tetragrama transliterado consonantalmente (Regra 25, Opção A)
-**Chava, nachash, etc.:** Termos hebraicos transliterados (explicados nas notas)
+**Chava (Eva), nachash, etc.:** Termos hebraicos transliterados (explicados nas notas)
 
 **Ícones das Notas:**
 - 🔴 **CRÍTICO** - Decisões textuais ou tradutórias importantes
@@ -47,11 +48,11 @@
 
 **O que acontece:** A serpente, descrita como *arum* (astuta/sagaz), dialoga com a mulher sobre a árvore proibida. Ambos os humanos comem. Seus olhos se abrem — sabem que estão nus. YHWH Elohim os questiona, pronuncia consequências sobre a serpente, a mulher e o homem, faz vestes de pele e os expulsa do jardim, com querubins guardando o caminho para a árvore da vida.
 
-**Temas-chave:** O jogo de palavras *arum/arom* (astuto/nu) conectando os Capítulos 2–3; a retórica da serpente; a modificação do mandamento pela mulher; conhecimento do bem e do mal — prometido e entregue, mas não como esperado; vergonha, medo, culpabilização como sequência; consequências vs. maldições (apenas a serpente e o solo são amaldiçoados, não os humanos); a frase interrompida em 3:22 (aposiopese).
+**Temas-chave:** O jogo de palavras *arum/arom* (astuto/nu) conectando os Capítulos 2–3; a retórica da serpente; a modificação do mandamento pela mulher; conhecimento do bem e do mal — prometido e entregue, mas não como esperado; vergonha, medo, culpabilização como sequência; consequências vs. maldições (apenas a serpente e o solo são amaldiçoados, não os humanos); a frase interrompida em 3:22 (aposiopese — uma frase que simplesmente para, deixando o pensamento suspenso).
 
-**Observe:** A serpente usa apenas "Elohim," nunca "YHWH Elohim"; o homem estava "com ela" durante o diálogo (3:6); "morrendo morrerás" (2:17) vs. "não morrendo morrereis" (3:4) — mesma construção gramatical, negada; Deus confirma a previsão da serpente em 3:22; "pó *és*" (tempo presente, não futuro) — mortalidade como intrínseca, não recém-imposta.
+**Observe:** A serpente usa apenas "Elohim," nunca "YHWH Elohim"; o homem estava "com ela" durante o diálogo (3:6); "morrendo morrerás" (2:17) vs. "não morrendo morrereis" (3:4) — mesma construção gramatical, negada; as palavras do texto em 3:22 ecoam a afirmação da serpente em 3:5, enquanto o contexto narrativo mostra consequências que a serpente não mencionou; "pó *és*" (tempo presente, não futuro) — mortalidade como condição declarada no texto.
 
-**Conexão:** A expulsão do jardim leva diretamente a Qayin e Hevel (Capítulo 4). A maldição sobre o solo (3:17) ecoa em 5:29 (a nomeação de Noach) e 8:21 (a resolução pós-dilúvio de YHWH).
+**Conexão:** A expulsão do jardim leva diretamente a Qayin (Caim) e Hevel (Abel) (Capítulo 4). A maldição sobre o solo (3:17) ecoa em 5:29 (a nomeação de Noach (Noé)) e 8:21 (a resolução pós-dilúvio de YHWH).
 
 ---
 
@@ -73,7 +74,7 @@
 
 ¹⁷E ao humano disse: "Porque ouviste a voz de tua mulher, e comeste da árvore que te ordenei, dizendo: 'Não comerás dela,' maldita *é* a terra por causa de ti; em fadiga comerás *dela* todos os dias de tua vida. ¹⁸E espinho e cardo ela fará brotar para ti, e comerás a erva do campo. ¹⁹No suor do teu rosto comerás pão, até o teu retornar ao solo, porque dele foste tomado; porque pó *és*, e ao pó retornarás."
 
-²⁰E o humano chamou o nome de sua mulher Chava, porque era mãe de todo vivente. ²¹E YHWH Elohim fez para o humano e para sua mulher vestes de pele, e os vestiu.
+²⁰E o humano chamou o nome de sua mulher Chava (Eva), porque era mãe de todo vivente. ²¹E YHWH Elohim fez para o humano e para sua mulher vestes de pele, e os vestiu.
 
 ²²E YHWH Elohim disse: "Eis que o humano tornou-se como um de nós, conhecendo o bem e o mal; e agora, para que não estenda a sua mão e tome também da árvore da vida, e coma, e viva para sempre…" ²³E YHWH Elohim o enviou para fora do jardim de Éden, para lavrar o solo de que havia sido tomado. ²⁴E expulsou o humano; e fez habitar ao oriente do jardim de Éden os querubins, e a chama da espada que se volta, para guardar o caminho da árvore da vida.
 
@@ -286,7 +287,7 @@ E inimizade porei entre ti e entre a mulher, e entre a tua semente e entre a sem
 > - **זֶרַע** (*zera*) = "semente / descendência." Singular coletivo—uma palavra pode denotar um ou muitos descendentes.
 >
 > 🟢 **INCOMUM: "A SEMENTE DELA"**
-> - **זַרְעָהּ** (*zar'ah*) = "a semente dela" — a atribuição de *zera* a uma linha **feminina** é **gramaticalmente incomum** na Bíblia Hebraica. O termo alhures está ligado à descendência masculina (refletindo pressuposto biológico antigo). Gênesis 3:15 é um dos poucos lugares onde a semente se traça pela mulher. A observação é filológica, não interpretativa — não estender a leituras cristãs posteriores (prenúncio de nascimento virginal) que são pós-bíblicas. Referência cruzada: Gn 4:25 onde a Chava recebe *"outra semente"* (*zera acher*) após a morte de Abel — continuando o fio da semente-da-mulher em nível textual, sem resolução teológica.
+> - **זַרְעָהּ** (*zar'ah*) = "a semente dela" — a atribuição de *zera* a uma linha **feminina** é **gramaticalmente incomum** na Bíblia Hebraica, onde o termo está normalmente ligado à descendência masculina. Gênesis 3:15 é um dos poucos lugares onde a semente se traça pela mulher (**POSSÍVEL** observação filológica, não interpretativa). Referência cruzada: Gn 4:25 — Chava recebe *"outra semente"* (*zera acher*) continuando o fio da semente-da-mulher. Para discussão mais completa, veja o companheiro Seção A10.
 >
 > 🟡 **CONTENÇÃO INTERPRETATIVA**
 > - A tradição cristã posterior lê este versículo como "proto-evangelho" (primeiro evangelho). Essa leitura é **PÓS-BÍBLICA**; o texto hebraico dá uma declaração de inimizade contínua entre a serpente e a descendência da mulher. Regra 3: sem teologia importada. Sem capitalização de "Ele." Sem resolução da ambiguidade de gênero/número rumo a qualquer identificação posterior particular.
@@ -347,19 +348,19 @@ No suor do teu rosto comerás pão, até o teu retornar ao solo, porque dele fos
 > **📝 NOTAS**
 >
 > 🔴 **PÓ AO PÓ**
-> - **עָפָר אַתָּה וְאֶל־עָפָר תָּשׁוּב** (*afar atah ve-el afar tashuv*) = "pó *és* e ao pó retornarás." Fecha o enquadramento aberto em 2:7 (*"pó do solo"*). A mortalidade é a condição humana declarada, não inventada, aqui.
+> - **עָפָר אַתָּה וְאֶל־עָפָר תָּשׁוּב** (*afar atah ve-el afar tashuv*) = "pó *és* e ao pó retornarás." Fecha o enquadramento aberto em 2:7 (*"pó do solo"*). O texto usa o presente (*és*, não "serás") — se a mortalidade é aqui declarada como condição já existente ou como uma consequência recém-imposta é debatido (POSSÍVEL); ambas as leituras são lexicalmente compatíveis com o tempo presente hebraico.
 
 ---
 
 ### **Versículo 20**
 
-E o humano chamou o nome de sua mulher Chava, porque era mãe de todo vivente.
+E o humano chamou o nome de sua mulher Chava (Eva), porque era mãe de todo vivente.
 
 > **📝 NOTAS**
 >
 > 🔴 **CRÍTICO - NOMEAÇÃO DE CHAVA**
 > - **חַוָּה** (*Chavvah*, transliterado *Chava*) = nome próprio. A tradução tradicional "Eva" segue a Septuaginta *Εὔα* (*Heua*) via Vulgata *Heva*.
-> - Transliterado aqui para preservar a forma hebraica. Tradução tradicional "Eva" é aceitável na Edição do Leitor; a Edição Transparente mantém *Chava* com nota.
+> - Transliterado aqui para preservar a forma hebraica. Tradução tradicional "Eva" é aceitável na Edição do Leitor; a Edição Transparente mantém *Eva* com nota.
 > - Jogo de palavras: **חַי** (*chay*) = "vivente"; *Chava* se assemelha à raiz. Etimologia popular ou real, mas o texto faz a conexão ("mãe de todo vivente").
 >
 > 🔵 **"SUA MULHER"**
@@ -386,17 +387,15 @@ E YHWH Elohim disse: "Eis que o humano tornou-se como um de nós, conhecendo o b
 > **📝 NOTAS**
 >
 > 🔴 **APOSIOPESE** *(interrupção deliberada)*
-> - A frase hebraica **quebra-se inacabada**—sem oração principal após a sequência de "para que não." Tecnicamente **aposiopese** (σιωπή, "silêncio") — uma quebra retórica deliberada, mais que um mero anacoluto sintático. O falante interrompe-se antes de declarar a consequência. A reticência (…) preserva a construção quebrada. A completude é narrativa, não gramatical: v.23 é a apódose implícita (*portanto YHWH Elohim o enviou para fora…*).
+> - A frase hebraica **quebra-se inacabada**—sem oração principal após a sequência de "para que não." Tecnicamente **aposiopese** (σιωπή, "silêncio" — uma frase que simplesmente para, deixando o pensamento suspenso) — uma quebra retórica deliberada, mais que um mero anacoluto sintático. O falante interrompe-se antes de declarar a consequência. A reticência (…) preserva a construção quebrada. A completude é narrativa, não gramatical: v.23 é a apódose implícita (*portanto YHWH Elohim o enviou para fora…*).
 > - Muitas traduções suavizam isso com orações principais inseridas. Regra 5—não suavizar.
 >
 > 🔴 **"COMO UM DE NÓS"**
 > - **כְּאַחַד מִמֶּנּוּ** (*ke'achad mimmennu*)—"nós" plural ecoa Gn 1:26 *"façamos um humano."* Interpretações **POSSÍVEIS**: plural majestático, conselho divino, plural literário. Não impor leitura trinitária (Regra 3).
 >
 > 🟡 **RESSONÂNCIA NARRATIVA COM 3:5**
-> - A serpente em **3:5**: *"sereis como Deus/deuses (*ke-elohim*), conhecendo o bem e o mal."*
-> - YHWH Elohim em **3:22**: *"o humano tornou-se como um de nós (*ke'achad mimmennu*), conhecendo o bem e o mal."*
-> - O texto permite que a predição da serpente se mantenha **parcialmente acurada no nível narrativo** — os humanos de fato vieram a "conhecer o bem e o mal." O texto não resolve se isso significa que a serpente falou verdade, ou se o próprio conhecer-como-deus é o juízo. Regra 2 — preservar a ambiguidade; não resolver.
-> - O engano restante (3:4 *"não morrendo morrereis"* vs. mortalidade eventual) fica em terreno diferente.
+> - A serpente em **3:5**: *"sereis como Deus/deuses, conhecendo o bem e o mal."* YHWH Elohim em **3:22**: *"o humano tornou-se como um de nós, conhecendo o bem e o mal."*
+> - O texto permite que a predição da serpente se mantenha **parcialmente acurada no nível narrativo**. O texto não resolve se a serpente falou verdade, ou se o próprio conhecer-como-deus é o juízo. Regra 2 — preservar a ambiguidade; não resolver. Para discussão mais completa, veja o companheiro Seção A8.
 
 ---
 
@@ -478,7 +477,7 @@ E expulsou o humano; e fez habitar ao oriente do jardim de Éden os querubins, e
 - Primeira pergunta de Deus ao humano (v.9)
 - Primeira maldição (*arur*, v.14)
 - Primeira predição de inimizade (v.15)
-- Primeira nomeação da mulher como indivíduo (v.20—Chava)
+- Primeira nomeação da mulher como indivíduo (v.20—Chava (Eva))
 - Primeiras vestes (v.21)
 - Primeira expulsão (v.23–24)
 

@@ -7,7 +7,7 @@
 **Base Text:** Biblia Hebraica Stuttgartensia, 5th rev. ed. (Stuttgart: Deutsche Bibelgesellschaft, 1997)
 **Edition:** Transparent Edition
 **Language:** English
-**Methodology:** 29-Rule Governance System (Ruleset v3.0)
+**Methodology:** 29-Rule Governance System (Ruleset v3.3)
 **Divine Name Policy (Rule 25):** Option A — Consonantal (YHWH).
 **Status:** provisional — pending reviewer sign-off (Rule 28)
 **Reviewers:** Hebraist: unassigned | EN editor: unassigned | Cross-alignment: unassigned
@@ -45,9 +45,9 @@
 
 ## CHAPTER OVERVIEW
 
-**What happens:** YHWH commands Noach to enter the *tebah* with his family and the animals — clean animals by sevens, others by twos. After seven days, the flood begins: fountains of the deep burst open and the windows of the sky open. Waters rise for 40 days, covering all high mountains. Every land-breathing creature outside the *tebah* dies. Waters prevail for 150 days.
+**What happens:** YHWH commands Noach (Noah) to enter the *tebah* with his family and the animals — clean animals by sevens, others by twos. After seven days, the flood begins: fountains of the deep burst open and the windows of the sky open. Waters rise for 40 days, covering all high mountains. Every land-breathing creature outside the *tebah* dies. Waters prevail for 150 days.
 
-**Key themes:** Clean/unclean distinction predating Sinai; the flood as cosmological reversal — waters above and below the *raqia* (Day 2) reunite; the *mabbul* (flood — a word used only for this event); specific calendar dates throughout; YHWH closes the door (7:16 — Noach does not seal himself in); total destruction of land life.
+**Key themes:** Clean/unclean distinction predating Sinai; the flood as cosmological reversal — waters above and below the *raqia* (Day 2) reunite; the *mabbul* (flood — a word used only for this event); specific calendar dates throughout; YHWH closes the door (7:16 — Noah does not seal himself in); total destruction of land life.
 
 **Watch for:** "Seven seven" for clean animals (7:2) after "two from all" (6:19–20) — the TT preserves both without harmonization; the flood dates create a precise chronology spanning one solar year; "YHWH closed behind him" (7:16) — the divine name appears at the moment of sealing; the phrase "all the high mountains under all the skies" (7:19) — the text's own scope claim.
 
@@ -61,13 +61,13 @@
 
 ---
 
-¹And YHWH said to Noach, "Come, you and all your household, into the tebah, for you I have seen *as* righteous before me in this generation. ²From all the clean livestock you shall take for yourself seven seven, a man and his woman, and from the livestock which *is* not clean, two, a man and his woman. ³Also from the bird of the sky, seven seven, male and female, to keep alive seed on the face of all the land. ⁴For in yet seven days I *am* sending rain upon the land, forty days and forty nights, and I will wipe every standing thing which I made from upon the face of the ground." ⁵And Noach did according to all that YHWH commanded him.
+¹And YHWH said to Noach (Noah), "Come, you and all your household, into the tebah, for you I have seen *as* righteous before me in this generation. ²From all the clean livestock you shall take for yourself seven seven, a man and his woman, and from the livestock which *is* not clean, two, a man and his woman. ³Also from the bird of the sky, seven seven, male and female, to keep alive seed on the face of all the land. ⁴For in yet seven days I *am* sending rain upon the land, forty days and forty nights, and I will wipe every standing thing which I made from upon the face of the ground." ⁵And Noah did according to all that YHWH commanded him.
 
-⁶And Noach *was* six hundred years old, and the flood of waters was upon the land. ⁷And Noach went, and his sons and his woman and the women of his sons with him, into the tebah, from the face of the waters of the flood. ⁸From the clean livestock and from the livestock which *is* not clean, and from the bird, and *from* everything that creeps upon the ground, ⁹two two they came to Noach into the tebah, male and female, as God commanded Noach. ¹⁰And it was at seven of the days, and the waters of the flood were upon the land.
+⁶And Noah *was* six hundred years old, and the flood of waters was upon the land. ⁷And Noah went, and his sons and his woman and the women of his sons with him, into the tebah, from the face of the waters of the flood. ⁸From the clean livestock and from the livestock which *is* not clean, and from the bird, and *from* everything that creeps upon the ground, ⁹two two they came to Noah into the tebah, male and female, as God commanded Noah. ¹⁰And it was at seven of the days, and the waters of the flood were upon the land.
 
-¹¹In the six hundredth year of the life of Noach, in the second month, on the seventeenth day of the month, on this day all the fountains of the great deep burst open, and the windows of the sky were opened. ¹²And the rain was upon the land forty days and forty nights. ¹³On this very day Noach entered, and Shem and Cham and Yafet, the sons of Noach, and the woman of Noach and the three women of his sons with them, into the tebah — ¹⁴they, and every living thing to its kind, and every livestock to its kind, and every creeping thing that creeps upon the land to its kind, and every bird to its kind, every winged thing. ¹⁵And they came to Noach into the tebah, two two from all the flesh in which *is* breath of life. ¹⁶And those coming, male and female from all flesh they came, as God commanded him; and YHWH shut *it* behind him.
+¹¹In the six hundredth year of the life of Noah, in the second month, on the seventeenth day of the month, on this day all the fountains of the great deep burst open, and the windows of the sky were opened. ¹²And the rain was upon the land forty days and forty nights. ¹³On this very day Noah entered, and Shem and Cham (Ham) and Yafet (Japheth), the sons of Noah, and the woman of Noah and the three women of his sons with them, into the tebah — ¹⁴they, and every living thing to its kind, and every livestock to its kind, and every creeping thing that creeps upon the land to its kind, and every bird to its kind, every winged thing. ¹⁵And they came to Noah into the tebah, two two from all the flesh in which *is* breath of life. ¹⁶And those coming, male and female from all flesh they came, as God commanded him; and YHWH shut *it* behind him.
 
-¹⁷And the flood was forty days upon the land, and the waters increased and lifted the tebah, and it rose from upon the land. ¹⁸And the waters prevailed and increased greatly upon the land, and the tebah went upon the face of the waters. ¹⁹And the waters prevailed very very upon the land, and all the high mountains which *were* under all the sky were covered. ²⁰Fifteen cubits upward the waters prevailed, and the mountains were covered. ²¹And all flesh that moves upon the land perished — the bird and the livestock and the living thing and every swarming thing that swarms upon the land, and every human. ²²Everything which *had* breath of the wind/spirit of life in its nostrils, from all which *was* on the dry ground, died. ²³And he wiped every standing thing which *was* on the face of the ground, from human to livestock to creeping thing to bird of the sky, and they were wiped from the land; and only Noach remained, and those with him in the tebah. ²⁴And the waters prevailed upon the land one hundred and fifty days.
+¹⁷And the flood was forty days upon the land, and the waters increased and lifted the tebah, and it rose from upon the land. ¹⁸And the waters prevailed and increased greatly upon the land, and the tebah went upon the face of the waters. ¹⁹And the waters prevailed very very upon the land, and all the high mountains which *were* under all the sky were covered. ²⁰Fifteen cubits upward the waters prevailed, and the mountains were covered. ²¹And all flesh that moves upon the land perished — the bird and the livestock and the living thing and every swarming thing that swarms upon the land, and every human. ²²Everything which *had* breath of the wind/spirit of life in its nostrils, from all which *was* on the dry ground, died. ²³And he wiped every standing thing which *was* on the face of the ground, from human to livestock to creeping thing to bird of the sky, and they were wiped from the land; and only Noah remained, and those with him in the tebah. ²⁴And the waters prevailed upon the land one hundred and fifty days.
 
 ---
 
@@ -75,7 +75,7 @@
 
 ### **Verse 1**
 
-And YHWH said to Noach, "Come, you and all your household, into the tebah, for you I have seen *as* righteous before me in this generation.
+And YHWH said to Noach (Noah), "Come, you and all your household, into the tebah, for you I have seen *as* righteous before me in this generation.
 
 > **📝 NOTES**
 >
@@ -96,6 +96,9 @@ From all the clean livestock you shall take for yourself seven seven, a man and 
 > 🔴 **CRITICAL — "SEVEN SEVEN" vs. "TWO FROM ALL" (6:19)**
 > - **שִׁבְעָה שִׁבְעָה** (*shiv'ah shiv'ah*) = "seven seven" — distributive repetition. Ambiguous: (1) seven individual animals of each clean kind; (2) seven pairs (fourteen total). The Hebrew does not say "seven pairs" — it says "seven seven." The TT preserves the literal repetition.
 > - **Tension with Gen 6:19:** Gen 6:19 says "two from all." Gen 7:2 says "seven seven" of the clean. This is the most visible numerical tension in the flood narrative. Rule 22 + No-Harmonization Principle: both are translated as MT reads them.
+>
+> 🟢 **"A MAN AND HIS WOMAN" — SOCIAL-PAIR LANGUAGE**
+> - **אִישׁ וְאִשְׁתּוֹ** (*ish ve-ishto*) = "a man and his woman" — social/relational pair language, used specifically for clean animals in v.2. Contrast with **זָכָר וּנְקֵבָה** (*zakhar u-neqevah*, "male and female") — biological-sex categories used for birds (v.3) and the general animal entry (vv.9, 16). The TT renders each phrase as MT reads it; the two idioms are not harmonized. For fuller discussion, see companion Section A9.
 >
 > 🟢 **"CLEAN" — BEFORE SINAI**
 > - **הַטְּהוֹרָה** (*hat-tehorah*) = "the clean." The clean/unclean distinction appears here before the Levitical legislation (Lev 11). The text assumes the reader knows the distinction — or the distinction is presented as pre-Sinai.
@@ -129,7 +132,7 @@ For in yet seven days I *am* sending rain upon the land, forty days and forty ni
 
 ### **Verse 5**
 
-And Noach did according to all that YHWH commanded him.
+And Noah did according to all that YHWH commanded him.
 
 > **📝 NOTES**
 >
@@ -140,18 +143,18 @@ And Noach did according to all that YHWH commanded him.
 
 ### **Verse 6**
 
-And Noach *was* six hundred years old, and the flood of waters was upon the land.
+And Noah *was* six hundred years old, and the flood of waters was upon the land.
 
 > **📝 NOTES**
 >
 > 🔵 **CHRONOLOGICAL PRECISION**
-> - The flood narrative provides exact dates: Noach's age (600), month/day at 7:11. This precision continues through 8:4,5,13,14. The chronological framework is a structural feature of the text.
+> - The flood narrative provides exact dates: Noah's age (600), month/day at 7:11. This precision continues through 8:4,5,13,14. The chronological framework is a structural feature of the text.
 
 ---
 
 ### **Verse 7**
 
-And Noach went, and his sons and his woman and the women of his sons with him, into the tebah, from the face of the waters of the flood.
+And Noah went, and his sons and his woman and the women of his sons with him, into the tebah, from the face of the waters of the flood.
 
 ---
 
@@ -163,7 +166,7 @@ From the clean livestock and from the livestock which *is* not clean, and from t
 
 ### **Verse 9**
 
-two two they came to Noach into the tebah, male and female, as God commanded Noach.
+two two they came to Noah into the tebah, male and female, as God commanded Noah.
 
 > **📝 NOTES**
 >
@@ -183,7 +186,7 @@ And it was at seven of the days, and the waters of the flood were upon the land.
 
 ### **Verse 11**
 
-In the six hundredth year of the life of Noach, in the second month, on the seventeenth day of the month, on this day all the fountains of the great deep burst open, and the windows of the sky were opened.
+In the six hundredth year of the life of Noah, in the second month, on the seventeenth day of the month, on this day all the fountains of the great deep burst open, and the windows of the sky were opened.
 
 > **📝 NOTES**
 >
@@ -205,7 +208,7 @@ And the rain was upon the land forty days and forty nights.
 
 ### **Verse 13**
 
-On this very day Noach entered, and Shem and Cham and Yafet, the sons of Noach, and the woman of Noach and the three women of his sons with them, into the tebah —
+On this very day Noah entered, and Shem and Ham and Japheth, the sons of Noah, and the woman of Noah and the three women of his sons with them, into the tebah —
 
 > **📝 NOTES**
 >
@@ -227,7 +230,7 @@ they, and every living thing to its kind, and every livestock to its kind, and e
 
 ### **Verse 15**
 
-And they came to Noach into the tebah, two two from all the flesh in which *is* breath of life.
+And they came to Noah into the tebah, two two from all the flesh in which *is* breath of life.
 
 ---
 
@@ -306,14 +309,14 @@ Everything which *had* breath of the wind/spirit of life in its nostrils, from a
 
 ### **Verse 23**
 
-And he wiped every standing thing which *was* on the face of the ground, from human to livestock to creeping thing to bird of the sky, and they were wiped from the land; and only Noach remained, and those with him in the tebah.
+And he wiped every standing thing which *was* on the face of the ground, from human to livestock to creeping thing to bird of the sky, and they were wiped from the land; and only Noah remained, and those with him in the tebah.
 
 > **📝 NOTES**
 >
 > 🟢 **"WIPED" (*machah*) — FULFILLMENT**
 > - 6:7: "I will wipe (*emcheh*)"; 7:4: "I will wipe (*machah*)"; 7:23: "he wiped (*vayyimach*)." Promise → restatement → fulfillment. Same verb throughout.
 >
-> 🔵 **"ONLY NOACH REMAINED"**
+> 🔵 **"ONLY NOAH REMAINED"**
 > - **וַיִּשָּׁאֶר אַךְ־נֹחַ** = "and remained only Noach." The particle *akh* (only/surely) emphasizes isolation. The entire living world outside the tebah is gone.
 
 ---
@@ -345,9 +348,9 @@ And the waters prevailed upon the land one hundred and fifty days.
 ## CROSS-CHAPTER TRACKING (Gen 6 → Gen 7)
 
 **Obedience formula chain:**
-- 6:22: "Noach did according to all that God commanded him; so he did"
-- 7:5: "Noach did according to all that YHWH commanded him"
-- 7:9: "as God commanded Noach"
+- 6:22: "Noah did according to all that God commanded him; so he did"
+- 7:5: "Noah did according to all that YHWH commanded him"
+- 7:9: "as God commanded Noah"
 - 7:16: "as God commanded him"
 - Note the divine name alternation within the formula: God (6:22) → YHWH (7:5) → God (7:9, 7:16a) → YHWH closes the ark (7:16b).
 
@@ -374,7 +377,7 @@ And the waters prevailed upon the land one hundred and fifty days.
 - 7:22: "everything which had *nishmat ruach chayyim*" (breath of the wind/spirit of life) — the most expanded form, combining both earlier phrases
 
 **Divine name distribution in Gen 7:**
-- vv.1–5: YHWH (personal command to Noach)
+- vv.1–5: YHWH (personal command to Noah)
 - vv.7–10: no divine name (narrative)
 - v.9: God/Elohim ("as God commanded")
 - v.16a: God/Elohim ("as God commanded him")

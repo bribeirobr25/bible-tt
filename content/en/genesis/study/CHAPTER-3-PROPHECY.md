@@ -5,7 +5,7 @@
 
 **Chapter:** Genesis 3
 **Language:** English
-**Ruleset:** v3.0 (Rule 29 governs this file)
+**Ruleset:** v3.3 (Rule 29 governs this file)
 **Status:** provisional
 
 ---
@@ -23,7 +23,7 @@
 - **Christian**: This is the *protoevangelium* — the first announcement of the Gospel. "Her seed" (singular) is read as Christ; the serpent is Satan. The head-striking is Christ's victory over evil; the heel-striking is the crucifixion. This reading is attested from Irenaeus (2nd c. CE) onward. [DOCUMENTED]
 - **Islamic**: The Quran does not directly reference this verse. Islamic tradition acknowledges enmity between Iblis (Satan) and humanity but does not derive it from Genesis 3:15 specifically. [DOCUMENTED]
 
-**Scholarly note:** The Hebrew *hu* ("he") is masculine singular, referring grammatically to "seed" (*zera*, masc.). Whether the singular implies an individual or the collective offspring is UNCERTAIN. The LXX uses *autos* (masc.) rather than *auto* (neut., which would match the neut. *sperma*), suggesting the translators may have read an individual referent. [POSSIBLE]
+**Scholarly note:** The Hebrew *hu* ("he") is masculine singular, referring grammatically to "seed" (*zera*, masc.). Whether the singular implies an individual or the collective offspring is UNCERTAIN. The LXX (the ancient Greek translation) uses *autos* (masc.) rather than *auto* (neut., which would match the neut. *sperma*), suggesting the translators may have read an individual referent. [POSSIBLE]
 
 ---
 

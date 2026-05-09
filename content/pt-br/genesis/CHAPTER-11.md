@@ -7,10 +7,11 @@
 **Texto Base:** Biblia Hebraica Stuttgartensia, 5ª ed. rev. (Stuttgart: Deutsche Bibelgesellschaft, 1997)
 **Edição:** Edição Transparente
 **Idioma:** Português Brasileiro
-**Metodologia:** Sistema de Governança de 29 Regras (Conjunto de Regras v3.0)
+**Metodologia:** Sistema de Governança de 29 Regras (Conjunto de Regras v3.3)
 **Política do Nome Divino (Regra 25):** Opção A — Consonantal (YHWH).
 **Status:** provisório — aguardando revisão por pares (Regra 28)
 **Revisores:** Hebraísta: não atribuído | Editor PT: não atribuído | Alinhamento cruzado: não atribuído
+**Relação com Almeida (Regra CORE):** Opção B — Reconhecimento seletivo. Notam-se convergências/divergências em materiais suplementares.
 
 ---
 
@@ -76,13 +77,13 @@
 
 ²⁰E Re'u viveu trinta e dois anos, e gerou Serug. ²¹E Re'u viveu depois que gerou Serug duzentos e sete anos, e gerou filhos e filhas.
 
-²²E Serug viveu trinta anos, e gerou Nachor. ²³E Serug viveu depois que gerou Nachor duzentos anos, e gerou filhos e filhas.
+²²E Serug viveu trinta anos, e gerou Nachor (Naor). ²³E Serug viveu depois que gerou Naor duzentos anos, e gerou filhos e filhas.
 
-²⁴E Nachor viveu vinte e nove anos, e gerou Terach. ²⁵E Nachor viveu depois que gerou Terach cento e dezenove anos, e gerou filhos e filhas.
+²⁴E Naor viveu vinte e nove anos, e gerou Terach (Terá). ²⁵E Naor viveu depois que gerou Terá cento e dezenove anos, e gerou filhos e filhas.
 
-²⁶E Terach viveu setenta anos, e gerou Avram, Nachor e Haran.
+²⁶E Terá viveu setenta anos, e gerou Avram (Abrão), Naor e Haran.
 
-²⁷E estas *são* as gerações de Terach. Terach gerou Avram, Nachor e Haran; e Haran gerou Lot. ²⁸E Haran morreu na presença de Terach, seu pai, na terra do seu nascimento, em Ur dos Kasdim. ²⁹E Avram e Nachor tomaram para si esposas; o nome da esposa de Avram *era* Sarai, e o nome da esposa de Nachor *era* Milkah, filha de Haran, pai de Milkah e pai de Yiskah. ³⁰E Sarai era estéril; não tinha filhos. ³¹E Terach tomou Avram seu filho, e Lot filho de Haran, seu neto, e Sarai sua nora, esposa de Avram seu filho; e saíram com eles de Ur dos Kasdim para ir à terra de Kenaan; e chegaram até Charan, e ali se estabeleceram. ³²E os dias de Terach foram duzentos e cinco anos, e Terach morreu em Charan.
+²⁷E estas *são* as gerações de Terá. Terá gerou Abrão, Naor e Haran; e Haran gerou Lot. ²⁸E Haran morreu na presença de Terá, seu pai, na terra do seu nascimento, em Ur dos Kasdim. ²⁹E Abrão e Naor tomaram para si esposas; o nome da esposa de Abrão *era* Sarai, e o nome da esposa de Naor *era* Milkah, filha de Haran, pai de Milkah e pai de Yiskah. ³⁰E Sarai era estéril; não tinha filhos. ³¹E Terá tomou Abrão seu filho, e Lot filho de Haran, seu neto, e Sarai sua nora, esposa de Abrão seu filho; e saíram com eles de Ur dos Kasdim para ir à terra de Kenaan (Canaã); e chegaram até Charan, e ali se estabeleceram. ³²E os dias de Terá foram duzentos e cinco anos, e Terá morreu em Charan.
 
 ---
 
@@ -93,6 +94,9 @@
 E toda a terra era *de* um lábio e de um *conjunto de* palavras.
 
 > **📝 NOTAS**
+>
+> 🟡 **NÍVEL 2 — NOTA DE RECEPÇÃO**
+> - A narrativa de Babel não deve ser lida como condenação geral de tecnologia, civilização urbana ou diversidade linguística. Veja o companheiro Seção F para contexto histórico sobre leituras equivocadas documentadas.
 >
 > 🔴 **CRÍTICO — "UM LÁBIO" (*saphah echat*)**
 > - **שָׂפָה אֶחָת וּדְבָרִים אֲחָדִים** = "um lábio e um/mesmas palavras." O hebraico usa *saphah* (lábio), não *lashon* (língua/idioma). Regra 1: traduzir o que o texto diz. "Lábio" é o veículo — a língua é o conteúdo. A TT traduz "lábio" para preservar a metáfora corporal hebraica. A maioria das traduções achata isto para "linguagem."
@@ -109,7 +113,7 @@ E aconteceu que quando viajaram do oriente, encontraram um vale na terra de Shin
 > **📝 NOTAS**
 >
 > 🟢 **"DO ORIENTE" (*mi-qedem*)**
-> - **מִקֶּדֶם** = "do oriente" ou "rumo ao oriente." A mesma ambiguidade direcional de Gn 3:24 (os querubins colocados *mi-qedem* do Éden). O movimento para o oriente em Gênesis é consistentemente movimento para longe da presença divina: Adam expulso para o oriente (3:24), Caim vai para o oriente (4:16), Lot vai para o oriente (13:11). Aqui a humanidade migra para o oriente — continuando o padrão.
+> - **מִקֶּדֶם** = "do oriente" ou "rumo ao oriente" (ambíguo). O movimento para o oriente em Gênesis está associado ao afastamento da presença divina (3:24, 4:16). Para discussão mais completa, veja o companheiro Seção [B].
 >
 > 🟢 **"VALE" (*biq'ah*)**
 > - **בִּקְעָה** = vale, planície ampla, fenda. Não uma montanha — um lugar baixo. Eles descem a uma planície, e então constroem para cima.
@@ -129,7 +133,7 @@ E disseram, cada um ao seu próximo: "Vinde, façamos tijolos e queimemo-los com
 > - **הָבָה** (*havah*) = "vinde!" — uma partícula exortativa. Esta é a primeira de três ocorrências na narrativa de Babel: os humanos dizem *havah* em 11:3 e 11:4; YHWH diz *havah* em 11:7. O espelhamento estrutural é deliberado: o "vinde, façamos" da humanidade é respondido pelo "vinde, façamos" de Deus.
 >
 > 🟢 **"TIJOLOS" (*levenim*) E "QUEIMAR COMPLETAMENTE" (*nisrephah li-serephah*)**
-> - **לְבֵנִים** (*levenim*) = tijolos, da raiz *lavan* (branco). **נִשְׂרְפָה לִשְׂרֵפָה** = "queimemo-los até queimar" — uma construção de acusativo cognato enfatizando rigor. Materiais de construção mesopotâmicos: tijolos e betume substituem a pedra e argamassa de Canaã. O narrador explica a substituição — uma nota para uma audiência familiarizada com a construção em pedra.
+> - **לְבֵנִים** (*levenim*) = tijolos, da raiz *lavan* (branco). **נִשְׂרְפָה לִשְׂרֵפָה** = "queimemo-los até queimar" — acusativo cognato enfatizando rigor. O narrador explica que tijolos e betume (materiais mesopotâmicos) substituem pedra e argamassa. Para contexto do Antigo Oriente Próximo (ACO) adicional, veja o companheiro Seção [B].
 >
 > 🟢 **"BETUME" (*chemar*)**
 > - **חֵמָר** = betume, alcatrão. Mesmo material usado na tebah (Gn 6:14, onde *kopher* é usado — mas betume é o equivalente mesopotâmico). Depósitos de asfalto natural na região de Shinar/Babilônia.
@@ -253,7 +257,7 @@ E Shem viveu depois que gerou Arpakhshad quinhentos anos, e gerou filhos e filha
 > **📝 NOTAS**
 >
 > 🔵 **FÓRMULA GENEALÓGICA — MODIFICADA**
-> - A fórmula de Gn 11 difere de Gn 5: (1) nenhuma expectativa de vida total é declarada; (2) "e morreu" está ausente. A fórmula é: "X viveu Y anos, gerou Z. X viveu depois que gerou Z, W anos, gerou filhos e filhas." A compressão sinaliza uma transição — o narrador está se movendo em direção a Avram.
+> - A fórmula de Gn 11 difere de Gn 5: (1) nenhuma expectativa de vida total é declarada; (2) "e morreu" está ausente. A fórmula é: "X viveu Y anos, gerou Z. X viveu depois que gerou Z, W anos, gerou filhos e filhas." A compressão sinaliza uma transição — o narrador está se movendo em direção a Avram (Abrão).
 
 ---
 
@@ -334,25 +338,25 @@ E Re'u viveu depois que gerou Serug duzentos e sete anos, e gerou filhos e filha
 
 ### **Versículo 22**
 
-E Serug viveu trinta anos, e gerou Nachor.
+E Serug viveu trinta anos, e gerou Nachor (Naor).
 
 ---
 
 ### **Versículo 23**
 
-E Serug viveu depois que gerou Nachor duzentos anos, e gerou filhos e filhas.
+E Serug viveu depois que gerou Naor duzentos anos, e gerou filhos e filhas.
 
 ---
 
 ### **Versículo 24**
 
-E Nachor viveu vinte e nove anos, e gerou Terach.
+E Naor viveu vinte e nove anos, e gerou Terach (Terá).
 
 ---
 
 ### **Versículo 25**
 
-E Nachor viveu depois que gerou Terach cento e dezenove anos, e gerou filhos e filhas.
+E Naor viveu depois que gerou Terá cento e dezenove anos, e gerou filhos e filhas.
 
 > **📝 NOTAS**
 >
@@ -363,12 +367,12 @@ E Nachor viveu depois que gerou Terach cento e dezenove anos, e gerou filhos e f
 
 ### **Versículo 26**
 
-E Terach viveu setenta anos, e gerou Avram, Nachor e Haran.
+E Terá viveu setenta anos, e gerou Abrão, Naor e Haran.
 
 > **📝 NOTAS**
 >
 > 🔴 **CRÍTICO — TRÊS FILHOS**
-> - O padrão ecoa Gn 5:32 ("Noach... gerou Shem, Cham e Yafet"). Ambas as genealogias terminam com um pai gerando três filhos nomeados. Os três filhos de Noach povoaram o mundo pós-dilúvio; os três filhos de Terach povoarão as narrativas patriarcais.
+> - O padrão ecoa Gn 5:32 ("Noach (Noé)... gerou Shem, Cham (Cam) e Yafet (Jafé)"). Ambas as genealogias terminam com um pai gerando três filhos nomeados. Os três filhos de Noé povoaram o mundo pós-dilúvio; os três filhos de Terá povoarão as narrativas patriarcais.
 >
 > 🟢 **AVRAM (*Avram*)**
 > - **אַבְרָם** = Avram, significando "pai exaltado." Ainda não Avraham — a mudança de nome ocorre em Gn 17:5. A TT traduz o nome como aparece no texto neste ponto.
@@ -377,7 +381,7 @@ E Terach viveu setenta anos, e gerou Avram, Nachor e Haran.
 
 ### **Versículo 27**
 
-E estas *são* as gerações de Terach. Terach gerou Avram, Nachor e Haran; e Haran gerou Lot.
+E estas *são* as gerações de Terá. Terá gerou Abrão, Naor e Haran; e Haran gerou Lot.
 
 > **📝 NOTAS**
 >
@@ -391,7 +395,7 @@ E estas *são* as gerações de Terach. Terach gerou Avram, Nachor e Haran; e Ha
 
 ### **Versículo 28**
 
-E Haran morreu na presença de Terach, seu pai, na terra do seu nascimento, em Ur dos Kasdim.
+E Haran morreu na presença de Terá, seu pai, na terra do seu nascimento, em Ur dos Kasdim.
 
 > **📝 NOTAS**
 >
@@ -405,7 +409,7 @@ E Haran morreu na presença de Terach, seu pai, na terra do seu nascimento, em U
 
 ### **Versículo 29**
 
-E Avram e Nachor tomaram para si esposas; o nome da esposa de Avram *era* Sarai, e o nome da esposa de Nachor *era* Milkah, filha de Haran, pai de Milkah e pai de Yiskah.
+E Abrão e Naor tomaram para si esposas; o nome da esposa de Abrão *era* Sarai, e o nome da esposa de Naor *era* Milkah, filha de Haran, pai de Milkah e pai de Yiskah.
 
 > **📝 NOTAS**
 >
@@ -433,12 +437,12 @@ E Sarai era estéril; não tinha filhos.
 
 ### **Versículo 31**
 
-E Terach tomou Avram seu filho, e Lot filho de Haran, seu neto, e Sarai sua nora, esposa de Avram seu filho; e saíram com eles de Ur dos Kasdim para ir à terra de Kenaan; e chegaram até Charan, e ali se estabeleceram.
+E Terá tomou Abrão seu filho, e Lot filho de Haran, seu neto, e Sarai sua nora, esposa de Abrão seu filho; e saíram com eles de Ur dos Kasdim para ir à terra de Kenaan (Canaã); e chegaram até Charan, e ali se estabeleceram.
 
 > **📝 NOTAS**
 >
 > 🔴 **CRÍTICO — JORNADA INCOMPLETA**
-> - O destino é Kenaan — mas a família para em **Charan** e ali se estabelece. A jornada fica incompleta sob a iniciativa de Terach. Será necessário um chamado divino (Gn 12:1, "Vai-te da tua terra...") para completar o que Terach começou. O suspense narrativo: o destino é nomeado, a jornada é iniciada, e o capítulo termina com a família parada aquém do objetivo.
+> - O destino é Canaã — mas a família para em **Charan** e ali se estabelece. A jornada fica incompleta sob a iniciativa de Terá. Será necessário um chamado divino (Gn 12:1, "Vai-te da tua terra...") para completar o que Terá começou. O suspense narrativo: o destino é nomeado, a jornada é iniciada, e o capítulo termina com a família parada aquém do objetivo.
 >
 > 🟢 **CHARAN (*Charan*)**
 > - **חָרָן** = Charan (Harrã), uma cidade na Alta Mesopotâmia (moderna Turquia sudeste). Palavra diferente de Haran, a pessoa (הָרָן). Um importante centro comercial na rota entre Mesopotâmia e Canaã.
@@ -450,15 +454,15 @@ E Terach tomou Avram seu filho, e Lot filho de Haran, seu neto, e Sarai sua nora
 
 ### **Versículo 32**
 
-E os dias de Terach foram duzentos e cinco anos, e Terach morreu em Charan.
+E os dias de Terá foram duzentos e cinco anos, e Terá morreu em Charan.
 
 > **📝 NOTAS**
 >
 > 🔵 **MORTE EM CHARAN — NÃO EM KENAAN**
-> - Terach morre em Charan, não em Kenaan. Ele nunca chega ao destino. O homem que começou a jornada não a completa. A conclusão cabe a Avram (Gn 12:4–5).
+> - Terá morre em Charan, não em Canaã. Ele nunca chega ao destino. O homem que começou a jornada não a completa. A conclusão cabe a Abrão (Gn 12:4–5).
 >
 > 🔵 **NOTA CRONOLÓGICA**
-> - Se Terach tinha 70 quando Avram nasceu (11:26) e Terach morreu aos 205, então Terach morreu quando Avram tinha 135. Mas Gn 12:4 diz que Avram deixou Charan aos 75. Isto significa ou: (1) Avram partiu antes de Terach morrer (Terach ainda vivo por mais 60 anos), ou (2) Avram não nasceu quando Terach tinha 70 — pode estar listado primeiro por proeminência, não por ordem de nascimento (como Shem em 5:32). A aritmética não se resolve de forma limpa.
+> - A aritmética de 11:26, 11:32 e 12:4 não se resolve de forma limpa: Terá morreu aos 205 mas Abrão partiu aos 75 — criando uma discrepância de ~60 anos. O texto não harmoniza. Para discussão mais completa, veja o companheiro Seção [B].
 
 ---
 
@@ -528,19 +532,19 @@ Ambas as genealogias abrangem dez gerações e terminam com um pai de três filh
 - 11:10: "Estas são as gerações de Shem (*Shem*)"
 - 12:2: "Farei grande o teu nome (*shem*)" — promessa de Deus a Avram
 
-Os construtores em Babel buscam um *shem* (nome) por esforço próprio e fracassam. Deus dará a Avram um *shem* (nome) por promessa divina e terá sucesso. A palavra *shem* percorre o texto como um marcador do desejo humano de significância e da prerrogativa divina de concedê-la.
+Os construtores em Babel buscam um *shem* (nome) por esforço próprio e fracassam. Deus dará a Avram (Abrão) um *shem* (nome) por promessa divina e terá sucesso. A palavra *shem* percorre o texto como um marcador do desejo humano de significância e da prerrogativa divina de concedê-la.
 
 **Distribuição do nome divino em Gn 11:**
 - 11:1–9 (narrativa de Babel): **YHWH** ao longo de todo — pessoal, intervencionista, relacional
 - 11:10–26 (genealogia de Shem): nenhum nome — fórmula genealógica nua
-- 11:27–32 (*toledot* de Terach): nenhum nome — narrativa sem fala divina
+- 11:27–32 (*toledot* de Terach (Terá)): nenhum nome — narrativa sem fala divina
 
-Padrão: YHWH age na narrativa de Babel (julgamento/intervenção), então se retira da genealogia e da narrativa de Terach. O silêncio prepara para a fala divina que abre Gn 12.
+Padrão: YHWH age na narrativa de Babel (julgamento/intervenção), então se retira da genealogia e da narrativa de Terá. O silêncio prepara para a fala divina que abre Gn 12.
 
 **Transição primevo-patriarcal:**
 - Gn 1–11: história universal (toda a humanidade, todas as nações)
 - Gn 12+: história particular (uma família, uma promessa)
-- Gn 11:27–32 é a articulação: o último *toledot* da história primeva introduz a primeira família da história patriarcal. A história de Avram começa em Ur, sob o *toledot* de Terach, antes de Deus falar.
+- Gn 11:27–32 é a articulação: o último *toledot* da história primeva introduz a primeira família da história patriarcal. A história de Abrão começa em Ur, sob o *toledot* de Terá, antes de Deus falar.
 
 ---
 

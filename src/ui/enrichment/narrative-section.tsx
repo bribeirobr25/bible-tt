@@ -1,5 +1,10 @@
 import { useTranslations } from "next-intl";
-import type { EnrichmentSection, EnrichmentEntry, ConfidenceLevel } from "@/domain/content/types";
+import {
+  type ConfidenceLevel,
+  type EnrichmentEntry,
+  type EnrichmentSection,
+  sortByConfidence,
+} from "@/domain/content/types";
 import { ConfidenceIndicator } from "./confidence-indicator";
 
 const SECTION_INTRO_KEYS: Record<string, string> = {
@@ -10,6 +15,7 @@ const SECTION_INTRO_KEYS: Record<string, string> = {
   scientific: "enrichment.introScientific",
   "later-reception": "enrichment.introReception",
   curiosities: "enrichment.introCuriosities",
+  "world-at-the-time": "enrichment.introWorldAtTheTime",
 };
 
 const HEDGE_START_KEYS: Partial<Record<ConfidenceLevel, string>> = {
@@ -42,13 +48,21 @@ function narrativeContent(entry: EnrichmentEntry): string {
       if ((shortened + s).length > 500) break;
       shortened += (shortened ? " " : "") + s;
     }
-    text = shortened || text.slice(0, 500) + "…";
+    text = shortened || `${text.slice(0, 500)}…`;
   }
 
   return text;
 }
 
-function EntryParagraph({ entry, isFirst, t }: { entry: EnrichmentEntry; isFirst: boolean; t: ReturnType<typeof useTranslations> }) {
+function EntryParagraph({
+  entry,
+  isFirst,
+  t,
+}: {
+  entry: EnrichmentEntry;
+  isFirst: boolean;
+  t: ReturnType<typeof useTranslations>;
+}) {
   const hedgeKeys = isFirst ? HEDGE_START_KEYS : HEDGE_MID_KEYS;
   const hedgeKey = hedgeKeys[entry.confidence];
   const prefix = hedgeKey ? t(hedgeKey) : "";
@@ -56,7 +70,10 @@ function EntryParagraph({ entry, isFirst, t }: { entry: EnrichmentEntry; isFirst
 
   return (
     <div className="flex gap-3 items-start">
-      <ConfidenceIndicator level={entry.confidence} label={t(`confidence.${entry.confidence.toLowerCase()}`)} />
+      <ConfidenceIndicator
+        level={entry.confidence}
+        label={t(`confidence.${entry.confidence.toLowerCase()}`)}
+      />
       <p className="font-[family-name:var(--font-reading)] text-base md:text-lg leading-[1.8] text-text-primary">
         {prefix && <span className="text-text-secondary">{prefix}</span>}
         {content}
@@ -84,8 +101,13 @@ export function NarrativeSection({ section }: { section: EnrichmentSection }) {
           {t(introKey)}
         </p>
       )}
-      {section.entries.map((entry, i) => (
-        <EntryParagraph key={`${section.id}-${i}`} entry={entry} isFirst={i === 0} t={t} />
+      {sortByConfidence(section.entries).map((entry, i) => (
+        <EntryParagraph
+          key={`${section.id}-${i}`}
+          entry={entry}
+          isFirst={i === 0}
+          t={t}
+        />
       ))}
     </section>
   );

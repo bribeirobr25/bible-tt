@@ -7,10 +7,11 @@
 **Texto Base:** Biblia Hebraica Stuttgartensia, 5ª ed. rev. (Stuttgart: Deutsche Bibelgesellschaft, 1997)
 **Edição:** Edição Transparente
 **Idioma:** Português Brasileiro
-**Metodologia:** Sistema de Governança de 29 Regras (Conjunto de Regras v3.0)
+**Metodologia:** Sistema de Governança de 29 Regras (Conjunto de Regras v3.3)
 **Política do Nome Divino (Regra 25):** Opção A — Consonantal (YHWH).
 **Status:** provisório — aguardando revisão por pares (Regra 28)
 **Revisores:** Hebraísta: não atribuído | Editor PT: não atribuído | Alinhamento cruzado: não atribuído
+**Relação com Almeida (Regra CORE):** Opção B — Reconhecimento seletivo. Notam-se convergências/divergências em materiais suplementares.
 
 ---
 
@@ -45,11 +46,11 @@
 
 **O que acontece:** Os "filhos de Deus/dos deuses" (*bene ha-elohim*) tomam mulheres humanas. YHWH limita a vida humana a 120 anos. Os nephilim estão sobre a terra. YHWH vê a maldade total do humano, arrepende-se de ter feito a humanidade e resolve destruir. Mas Noach encontra favor. Deus instrui Noach a construir uma *tebah* (caixa/arca) com dimensões específicas, anuncia o dilúvio, estabelece a primeira aliança (*berit*) e ordena a Noach trazer animais a bordo.
 
-**Temas-chave:** Os *bene ha-elohim* — tripla ambiguidade preservada (seres divinos, governantes, linhagem setita); os nephilim (transliterado, não "gigantes"); *yadon* — verbo genuinamente incerto (permanecer/contender); arrependimento divino (*nacham* — mesma raiz do nome de Noach); "Deus viu" invertido (criação: "viu que bom"; aqui: "viu que grande era a maldade"); *chamas* (violência) como o pecado nomeado; a *tebah* como recipiente selado, não um navio; jogo de palavras *kopher/kippur* (betume/expiação).
+**Temas-chave:** Os *bene ha-elohim* — tripla ambiguidade preservada (seres divinos, governantes, linhagem setita); os nephilim (transliterado, não "gigantes"); *yadon* — verbo genuinamente incerto (permanecer/contender); arrependimento divino (*nacham* — mesma raiz do nome de Noach (Noé)); "Deus viu" invertido (criação: "viu que bom"; aqui: "viu que grande era a maldade"); *chamas* (violência) como o pecado nomeado; a *tebah* como recipiente selado, não um navio; jogo de palavras *kopher/kippur* (betume/expiação).
 
 **Observe:** A ordem de destruição (6:7) inverte a ordem da criação; YHWH aparece nos vv.1–8 (emocional, relacional), Elohim nos vv.9–22 (instrucional, aliancístico); a primeira ocorrência de *berit* (aliança) na Bíblia — anunciada antes de seus termos serem revelados; "dois de todos" (6:19) vs. "sete pares" de animais limpos (7:2) — uma tensão interna que a TT preserva.
 
-**Conexão:** A raiz *nacham* liga 5:29 (Noach = conforto) a 6:6 (YHWH se arrependeu). O dilúvio reverte a separação das águas do Dia 2 (1:6–7), fazendo do dilúvio um evento de des-criação continuado nos Capítulos 7–8.
+**Conexão:** A raiz *nacham* liga 5:29 (Noé = conforto) a 6:6 (YHWH se arrependeu). O dilúvio reverte a separação das águas do Dia 2 (1:6–7), fazendo do dilúvio um evento de des-criação continuado nos Capítulos 7–8.
 
 ---
 
@@ -61,13 +62,13 @@
 
 ¹E foi quando o humano começou a multiplicar-se sobre a face do solo, e filhas lhes nasceram, ²e os filhos de Deus/dos deuses viram as filhas do humano, que *eram* boas, e tomaram para si mulheres dentre todas as que escolheram. ³E YHWH disse: "Meu espírito não permanecerá/contenderá no humano para sempre, pois ele *é* também carne; e os seus dias serão cento e vinte anos." ⁴Os nephilim estavam sobre a terra naqueles dias, e também depois, quando os filhos de Deus/dos deuses entraram às filhas do humano, e elas lhes geraram — eles *são* os poderosos que *foram* desde a antiguidade, homens do nome.
 
-⁵E YHWH viu que grande *era* a maldade do humano sobre a terra, e toda inclinação dos pensamentos do seu coração *era* somente mal o dia todo. ⁶E YHWH se arrependeu de ter feito o humano sobre a terra, e entristeceu-se até o seu coração. ⁷E YHWH disse: "Apagarei o humano que criei de sobre a face do solo, desde o humano até o gado, até o réptil, até a ave dos céus, pois me arrependo de os ter feito." ⁸Mas Noach encontrou favor aos olhos de YHWH.
+⁵E YHWH viu que grande *era* a maldade do humano sobre a terra, e toda inclinação dos pensamentos do seu coração *era* somente mal o dia todo. ⁶E YHWH se arrependeu de ter feito o humano sobre a terra, e entristeceu-se até o seu coração. ⁷E YHWH disse: "Apagarei o humano que criei de sobre a face do solo, desde o humano até o gado, até o réptil, até a ave dos céus, pois me arrependo de os ter feito." ⁸Mas Noach (Noé) encontrou favor aos olhos de YHWH.
 
-⁹Estas *são* as gerações de Noach. Noach *era* um homem justo, íntegro em suas gerações; com Deus andou Noach. ¹⁰E Noach gerou três filhos: Shem, Cham e Yafet. ¹¹E a terra estava corrompida diante de Deus, e a terra estava cheia de violência. ¹²E Deus viu a terra, e eis que estava corrompida, pois toda carne havia corrompido o seu caminho sobre a terra. ¹³E Deus disse a Noach: "O fim de toda carne veio diante de mim, pois a terra está cheia de violência por causa deles, e eis que eu *os* destruo com a terra.
+⁹Estas *são* as gerações de Noé. Noé *era* um homem justo, íntegro em suas gerações; com Deus andou Noé. ¹⁰E Noé gerou três filhos: Shem, Cham (Cam) e Yafet (Jafé). ¹¹E a terra estava corrompida diante de Deus, e a terra estava cheia de violência. ¹²E Deus viu a terra, e eis que estava corrompida, pois toda carne havia corrompido o seu caminho sobre a terra. ¹³E Deus disse a Noé: "O fim de toda carne veio diante de mim, pois a terra está cheia de violência por causa deles, e eis que eu *os* destruo com a terra.
 
 ¹⁴Faze para ti uma tebah de madeira de gopher; compartimentos farás *na* tebah, e a cobrirás por dentro e por fora com kopher. ¹⁵E assim *é como* a farás: trezentos côvados o comprimento da tebah, cinquenta côvados a sua largura, e trinta côvados a sua altura. ¹⁶Um tsohar farás para a tebah, e a um côvado a terminarás por cima, e a porta da tebah porás na sua lateral; andar inferior, segundo e terceiro a farás.
 
-¹⁷E eu, eis que eu *estou* trazendo o dilúvio de águas sobre a terra, para destruir toda carne em que *há* fôlego de vida debaixo dos céus; tudo o que *está* sobre a terra morrerá. ¹⁸Mas estabelecerei a minha aliança contigo, e entrarás na tebah — tu e teus filhos e tua mulher e as mulheres de teus filhos contigo. ¹⁹E de todo vivente, de toda carne, dois de todos trarás à tebah para manter vivos contigo; macho e fêmea serão. ²⁰Da ave segundo a sua espécie, e do gado segundo a sua espécie, de todo réptil do solo segundo a sua espécie, dois de todos virão a ti para manter vivos. ²¹E tu, toma para ti de todo alimento que se come, e ajunta para ti, e será para alimento para ti e para eles." ²²E Noach fez conforme tudo o que Deus lhe ordenou; assim fez.
+¹⁷E eu, eis que eu *estou* trazendo o dilúvio de águas sobre a terra, para destruir toda carne em que *há* fôlego de vida debaixo dos céus; tudo o que *está* sobre a terra morrerá. ¹⁸Mas estabelecerei a minha aliança contigo, e entrarás na tebah — tu e teus filhos e tua mulher e as mulheres de teus filhos contigo. ¹⁹E de todo vivente, de toda carne, dois de todos trarás à tebah para manter vivos contigo; macho e fêmea serão. ²⁰Da ave segundo a sua espécie, e do gado segundo a sua espécie, de todo réptil do solo segundo a sua espécie, dois de todos virão a ti para manter vivos. ²¹E tu, toma para ti de todo alimento que se come, e ajunta para ti, e será para alimento para ti e para eles." ²²E Noé fez conforme tudo o que Deus lhe ordenou; assim fez.
 
 ---
 
@@ -91,11 +92,8 @@ e os filhos de Deus/dos deuses viram as filhas do humano, que *eram* boas, e tom
 > **📝 NOTAS**
 >
 > 🔴 **CRÍTICO — "FILHOS DE DEUS/DOS DEUSES"**
-> - **בְּנֵי הָאֱלֹהִים** (*bene ha-elohim*) — uma das frases mais contestadas de Gênesis. *Elohim* é gramaticalmente plural; *bene* = "filhos de." Três leituras principais, todas **POSSÍVEIS**:
->   1. **Seres divinos/angélicos** — "filhos de Deus" como seres celestiais (cf. Jó 1:6, 2:1, 38:7 onde a mesma frase descreve anjos/membros do conselho divino)
->   2. **Governantes/nobres** — "filhos dos deuses" como governantes humanos poderosos reivindicando status divino (ideologia real do AOP)
->   3. **Linhagem setita** — "filhos de Deus" como a linhagem piedosa de Shet casando com a linhagem ímpia de Qayin (leitura judaica/cristã posterior)
-> - Regra 2: barra preserva a ambiguidade. Regra 3: nenhuma leitura única imposta.
+> - **בְּנֵי הָאֱלֹהִים** (*bene ha-elohim*) — uma das frases mais contestadas de Gênesis. Três leituras principais, todas **POSSÍVEIS**: (1) seres divinos/angélicos (cf. Jó 1:6, 2:1, 38:7); (2) governantes/nobres reivindicando status divino (ideologia real do AOP); (3) linhagem setita casando com a linhagem cainita (leitura judaica/cristã posterior).
+> - Regra 2: barra preserva a ambiguidade. Regra 3: nenhuma leitura única imposta. Para discussão mais completa de cada opção, veja o companheiro Seção A1.
 >
 > 🔵 **"QUE ERAM BOAS"**
 > - **כִּי טֹבֹת הֵנָּה** (*ki tovot hennah*) = "que *eram* boas/belas." Eco do *ki tov* ("que bom") de Gn 1 — mas aplicado ao desejo humano em vez de avaliação divina.
@@ -123,8 +121,8 @@ Os nephilim estavam sobre a terra naqueles dias, e também depois, quando os fil
 > **📝 NOTAS**
 >
 > 🔴 **CRÍTICO — NEPHILIM TRANSLITERADO**
-> - **נְפִילִים** (*nephilim*) — transliterado conforme Regra 4 (não existe equivalente preciso). "Gigantes" importa a LXX *gigantes*; "caídos" é etimologia popular da raiz נ-פ-ל (*n-p-l*, "cair") que pode não ser a derivação real. A palavra aparece apenas aqui e em Nm 13:33 na Bíblia Hebraica.
-> - O texto NÃO diz que os nephilim são a prole da união dos bene-elohim. Diz que estavam "sobre a terra naqueles dias, e também depois" — uma declaração separada. Se estão relacionados à união divino-humana ou são um grupo distinto é **INCERTO**.
+> - **נְפִילִים** (*nephilim*) — transliterado conforme Regra 4. "Gigantes" importa a LXX (Septuaginta, a antiga tradução grega) *gigantes*; "caídos" é etimologia popular da raiz נ-פ-ל que pode não ser a derivação real. A palavra aparece apenas aqui e em Nm 13:33. Significado **INCERTO**.
+> - O texto NÃO diz que os nephilim são a prole da união dos bene-elohim — estavam "sobre a terra naqueles dias, e também depois" como declaração separada. Se relacionados à união divino-humana ou grupo distinto é **INCERTO**. Para discussão mais completa, veja o companheiro Seção A2.
 >
 > 🟢 **"HOMENS DO NOME"**
 > - **אַנְשֵׁי הַשֵּׁם** (*anshei ha-shem*) = "homens do nome" — i.e., famosos/renomados. *Shem* = "nome" (mesma palavra que o filho de Noach, Shem, em 5:32).
@@ -170,7 +168,7 @@ E YHWH disse: "Apagarei o humano que criei de sobre a face do solo, desde o huma
 
 ### **Versículo 8**
 
-Mas Noach encontrou favor aos olhos de YHWH.
+Mas Noach (Noé) encontrou favor aos olhos de YHWH.
 
 > **📝 NOTAS**
 >
@@ -181,7 +179,7 @@ Mas Noach encontrou favor aos olhos de YHWH.
 
 ### **Versículo 9**
 
-Estas *são* as gerações de Noach. Noach *era* um homem justo, íntegro em suas gerações; com Deus andou Noach.
+Estas *são* as gerações de Noé. Noé *era* um homem justo, íntegro em suas gerações; com Deus andou Noé.
 
 > **📝 NOTAS**
 >
@@ -198,7 +196,7 @@ Estas *são* as gerações de Noach. Noach *era* um homem justo, íntegro em sua
 
 ### **Versículo 10**
 
-E Noach gerou três filhos: Shem, Cham e Yafet.
+E Noé gerou três filhos: Shem, Cham (Cam) e Yafet (Jafé).
 
 ---
 
@@ -226,7 +224,7 @@ E Deus viu a terra, e eis que estava corrompida, pois toda carne havia corrompid
 
 ### **Versículo 13**
 
-E Deus disse a Noach: "O fim de toda carne veio diante de mim, pois a terra está cheia de violência por causa deles, e eis que eu *os* destruo com a terra.
+E Deus disse a Noé: "O fim de toda carne veio diante de mim, pois a terra está cheia de violência por causa deles, e eis que eu *os* destruo com a terra.
 
 > **📝 NOTAS**
 >
@@ -248,7 +246,7 @@ Faze para ti uma tebah de madeira de gopher; compartimentos farás *na* tebah, e
 > - **עֲצֵי־גֹפֶר** (*atsei-gopher*) = "madeira de gopher." Espécie DESCONHECIDA — aparece apenas aqui na Bíblia Hebraica. "Cipreste" é uma suposição comum, mas sem apoio. Transliterada conforme Regra 4.
 >
 > 🔴 **JOGO DE PALAVRAS KOPHER / KIPPUR**
-> - **כֹּפֶר** (*kopher*) = betume/material de cobertura. Raiz: כ-פ-ר (*k-p-r*) — a MESMA raiz de **כִּפּוּר** (*kippur*, expiação/cobertura, como em Yom Kippur). A tebah é "coberta" (*kaphar*) com *kopher* — a cobertura que salva da destruição compartilha a raiz da cobertura que expia. Jogo de palavras sinalizado conforme Regra 14.
+> - **כֹּפֶר** (*kopher*) = betume/material de cobertura. Raiz: כ-פ-ר (*k-p-r*) — a MESMA raiz de **כִּפּוּר** (*kippur*, expiação/cobertura, como em Yom Kippur). A tebah é "coberta" (*kaphar*) com *kopher*. Regra 14: jogo de palavras sinalizado — este versículo trata de impermeabilização, não de expiação. Para discussão mais completa, veja o companheiro Seção A10.
 
 ---
 
@@ -332,7 +330,7 @@ E tu, toma para ti de todo alimento que se come, e ajunta para ti, e será para 
 
 ### **Versículo 22**
 
-E Noach fez conforme tudo o que Deus lhe ordenou; assim fez.
+E Noé fez conforme tudo o que Deus lhe ordenou; assim fez.
 
 > **📝 NOTAS**
 >
@@ -365,15 +363,15 @@ E Noach fez conforme tudo o que Deus lhe ordenou; assim fez.
 **Cadeia toledot:**
 - 2:4: "gerações dos céus e da terra"
 - 5:1: "livro das gerações de Adão"
-- 6:9: "gerações de Noach"
+- 6:9: "gerações de Noach (Noé)"
 
 **"Andar com Deus":**
-- 5:22,24: Chanokh "andou com Deus" — e foi tomado
-- 6:9: Noach "andou com Deus" — e foi salvo
+- 5:22,24: Chanokh (Enoque) "andou com Deus" — e foi tomado
+- 6:9: Noé "andou com Deus" — e foi salvo
 - Apenas duas pessoas recebem esta frase em Gênesis.
 
 **Raiz nacham (consolo/arrependimento):**
-- 5:29: Lemekh nomeia o filho Noach esperando *nacham* (consolo)
+- 5:29: Lemekh (Lameque) nomeia o filho Noé esperando *nacham* (consolo)
 - 6:6: YHWH *nacham* (arrependeu-se) de ter feito os humanos
 - 6:7: "pois me arrependo (*nachamti*) de os ter feito"
 - Mesma raiz, direção emocional oposta: esperança humana de consolo → arrependimento divino.
@@ -387,7 +385,7 @@ E Noach fez conforme tudo o que Deus lhe ordenou; assim fez.
 
 **Distribuição do nome divino em Gn 6:**
 - vv.1–8: **YHWH** (narrador descreve a resposta emocional de YHWH)
-- vv.9–22: **Deus/Elohim** (narrador descreve as instruções de Deus a Noach)
+- vv.9–22: **Deus/Elohim** (narrador descreve as instruções de Deus a Noé)
 - Esta alternância é uma característica textual. A TT a preserva sem importar enquadramento de hipótese de fontes.
 
 **"Dois de todos" vs. "sete pares":**

@@ -7,7 +7,7 @@
 **Grundtext:** Biblia Hebraica Stuttgartensia, 5. rev. Aufl. (Stuttgart: Deutsche Bibelgesellschaft, 1997)
 **Ausgabe:** Transparente Ausgabe
 **Sprache:** Deutsch
-**Methodik:** 29-Regeln-Governance-System (Regelwerk v3.0)
+**Methodik:** 29-Regeln-Governance-System (Regelwerk v3.3)
 **Gottesname-Politik (Regel 25):** Option A — Konsonantisch (JHWH). In Genesis 1 nicht ausgelöst; für Genesis 2+ erklärt.
 **Luther-Bibel-Verhältnis:** Option B — Selektive Anerkennung. Übersetzung aus dem Hebräischen nach TT-Regeln; Konvergenzen und Divergenzen mit Luther in Begleitmaterialien dokumentiert. Entscheidung geloggt 2026-04-18.
 **Status:** provisorisch — ausstehende Begutachtung (Regel 28)
@@ -44,9 +44,9 @@
 
 ## KAPITELÜBERSICHT
 
-**Was geschieht:** Gott erschafft die geordnete Welt in sechs Tagen und ruht am siebten. Die Schöpfung schreitet voran durch göttliche Rede („und Gott sprach"), Trennung (Licht/Finsternis, Wasser oben/unten, Meer/Land), Bevölkerung (Vegetation, Lichter, Lebewesen, Menschen) und Segen (Fruchtbarkeit, Herrschaft, Ruhe).
+**Was geschieht:** Gott erschafft die geordnete Welt in sechs Tagen. Die Schöpfung schreitet voran durch göttliche Rede („und Gott sprach"), Trennung (Licht/Finsternis, Wasser oben/unten, Meer/Land), Bevölkerung (Vegetation, Lichter, Lebewesen, Menschen) und Segen (Fruchtbarkeit, Herrschaft). Der siebte Tag und die Ruhe werden in Gn 2:1–3 erzählt.
 
-**Zentrale Themen:** Ordnung aus Chaos (*tohu vavohu*); Schöpfung durch Rede; das *raqia* als kosmische Struktur; Vermehrung „nach seiner Art"; die Menschheit im Bild (*tselem*) Gottes; vegetarische Nahrung zugewiesen; die Ruhe des siebten Tages.
+**Zentrale Themen:** Ordnung aus Chaos (*tohu vavohu*); Schöpfung durch Rede; das *raqia* als kosmische Struktur; Vermehrung „nach seiner Art"; die Menschheit im Bild (*tselem*) Gottes; vegetarische Nahrung zugewiesen.
 
 **Achten Sie auf:** Den Refrain „und Gott sah, dass gut" (6×, dann „sehr gut"); den durchgehenden Wechsel von „Gott" (*Elohim*) — JHWH erscheint erst in Kapitel 2; den Plural „lasst uns machen" (1:26); Herrschaft über Lebewesen, aber nicht über die Wasser als kosmischen Bereich.
 
@@ -87,11 +87,11 @@ Im Anfang schuf Gott den Himmel und das Land.
 > 
 > - Sieben-Wort-Struktur im Hebräischen (symbolische Zahl) geht in Übersetzung verloren
 > - **בְּרֵאשִׁית** (*bereshit*) = „in Anfang" — im Hebräischen OHNE bestimmten Artikel. Die deutsche Wiedergabe „Im Anfang" enthält den Artikel notwendigerweise (*im* = *in dem*), da „In Anfang" nicht idiomatisch ist. Dies ist eine grammatisch erzwungene Abweichung gemäß Regel 17 (deutsche Artikel-Erweiterung), nicht interpretativ. Im Redaktionslog dokumentiert.
-> - Grammatische Struktur erlaubt ZWEI Lesungen: (1) V.1 als eigenständiger Satz (traditionell, hier befolgt gemäß masoretischer Interpunktion), oder (2) V.1 als Titel/Überschrift mit Narrativbeginn V.2. **MÖGLICH**, dass V.1 als Kapitelüberschrift fungiert.
+> - Grammatische Struktur erlaubt ZWEI Lesungen: (1) V.1 als eigenständiger Satz (traditionell, hier befolgt gemäß masoretischer Interpunktion), oder (2) V.1 als Titel/Überschrift mit Narrativbeginn V.2. **MÖGLICH**. Für ausführlichere Diskussion der Strukturoptionen siehe Begleitmaterial Abschnitt B.
 > 
 > 🟢 **SCHLÜSSELBEGRIFFE**
 > - **אֵת** (*et*) erscheint 2x—unübersetzbares Akkusativobjekt-Marker einzigartig im Hebräischen
-> - **בָּרָא** (*bara*) = spezifischer göttlicher Schöpfungsbegriff, **möglicherweise** Schöpfung aus dem Nichts; unterscheidet sich von **עָשָׂה** (*asah* = machen/formen)
+> - **בָּרָא** (*bara*) = wird distinktiv für göttliches Schöpfungshandeln verwendet; der genaue Umfang (ob Schöpfung aus dem Nichts oder Umgestaltung vorhandenen Materials) ist umstritten (MÖGLICH); unterscheidet sich von **עָשָׂה** (*asah* = machen/formen)
 > - **שָׁמַיִם** (*shamayim*) = physischer Himmel (Plural); NICHT geistliches „Himmelreich"
 > - **אֶרֶץ** (*eretz*) = Land/Boden; NICHT Planet „Erde"
 > 
@@ -168,7 +168,7 @@ Und Gott sprach: „Es werde *ein* raqia (Ausdehnung) inmitten der Wasser, und *
 > **📝 NOTIZEN**
 > 
 > 🔴 **KRITISCH - RAQIA-EINFÜHRUNG**
-> - Hebräisch **רָקִיעַ** (*raqia*) von Wurzel **ר-ק-ע** = „hämmern/schlagen"—beschreibt gehämmerte oder ausgeschlagene Struktur
+> - Hebräisch **רָקִיעַ** (*raqia*) von Wurzel **ר-ק-ע** = „hämmern/schlagen/ausbreiten"—der semantische Bereich des Wortes ist umstritten; antike Ausleger verstanden es unterschiedlich als solides Gewölbe, atmosphärische Ausdehnung oder Grenzschicht
 > - **TRANSLITERIERT** in Genesis 1, um falsche kosmologische Präzision zu vermeiden
 > - Vers 8 wird **raqia = shamayim (Himmel)** identifizieren
 > 
@@ -185,7 +185,7 @@ Und Gott machte das raqia, und er trennte zwischen den Wassern, die unter dem ra
 > **📝 NOTIZEN**
 > 
 > 🟢 **VERBWECHSEL**
-> - **בָּרָא** (*bara* = schuf, V.1) vs. **עָשָׂה** (*asah* = machte, V.7)—beide für göttliche Handlung verwendet; **MÖGLICHER** Unterschied: Schöpfung aus dem Nichts vs. Formung
+> - **בָּרָא** (*bara* = schuf, V.1) vs. **עָשָׂה** (*asah* = machte, V.7)—beide für göttliche Handlung verwendet; **MÖGLICHER** Unterschied zwischen den Verben; der genaue Umfang von *bara* (Schöpfung aus dem Nichts oder Umgestaltung vorhandenen Materials) ist umstritten
 > 
 > 🔵 **FORMEL EINGEFÜHRT**
 > - „Und es war so" (**וַיְהִי־כֵן**) erscheint zum ersten Mal; wiederholt sich in Vv.9, 11, 15, 24, 30
@@ -199,7 +199,7 @@ Und Gott nannte das raqia „Himmel". Und *es* war Abend, und *es* war Morgen, z
 > **📝 NOTIZEN**
 > 
 > 🔴 **KRITISCH - RAQIA = HIMMEL-IDENTIFIKATION**
-> - Gott identifiziert explizit **raqia = shamayim (Himmel)**—bestätigt raqia bezieht sich auf sichtbaren Himmel/Ausdehnung oben, NICHT abstraktes Konzept oder separate kosmologische Schicht
+> - Gott identifiziert explizit **raqia = shamayim (Himmel)**—der Text verankert *raqia* im Bereich des sichtbaren Himmels. Der semantische Bereich von *raqia* (von der Wurzel „hämmern/ausbreiten") bleibt unter Gelehrten umstritten; antike Ausleger verstanden es unterschiedlich als solides Gewölbe, atmosphärische Ausdehnung oder Grenzschicht. Diese Identifizierung legt den Himmelsbereich fest, ohne jene Fragen zu lösen.
 > - Nachfolgende Verse mit „raqia" (Vv.14-20) behalten diese Identifikation bei
 > 
 > 🔵 **TAG 2 ORDINALZAHL**
@@ -488,7 +488,7 @@ Und Gott segnete sie, und Gott sprach zu ihnen: „Seid fruchtbar und mehret euc
 > - **רָדָה** (*radah*) jetzt als Imperativ—funktionale Herrschaft über Tiere, NICHT absolutes Eigentum
 >
 > 🔵 **QUERVERWEIS: NACH-FLUT-WIEDERHOLUNG**
-> - Der Befehl „seid fruchtbar und mehret euch und füllet das Land" erscheint wörtlich erneut in **Gn 9:1** an Noah und seine Söhne nach der Flut—das Schöpfungsmandat nach der Flutnarrative erneuert. Die Herrschaftssprache dort (Gn 9:2) wechselt den Ton (Tiere *fürchten* Menschen), und die Ernährungserlaubnis erweitert sich (Gn 9:3, Fleisch erlaubt). Gleicher struktureller Befehl; veränderte ökologische Beziehung.
+> - Der Befehl „seid fruchtbar und mehret euch und füllet das Land" erscheint wörtlich erneut in **Gn 9:1**—das Schöpfungsmandat nach der Flut erneuert, aber mit veränderter ökologischer Beziehung. Für ausführlichere Diskussion der Parallelen und Unterschiede (Gn 9:2–3) siehe Begleitmaterial Abschnitt C.
 
 ---
 
@@ -575,7 +575,7 @@ Und Gott sah alles, was er gemacht hatte, und siehe, *es war* sehr gut. Und *es*
 
 **Gesperrte Formeln (Mehrfaches Auftreten):**
 - „Und Gott sprach..." (10x) — Transparente Ausgabe nach Regel 7 (v2.4); Leserausgabe würde „sagte" verwenden
-- „Und es war so" (7x)
+- „Und es war so" (6x)
 - „Und Gott sah, dass gut" (6x) + „sehr gut" (1x bei V.31)
 - „Und es war Abend, und es war Morgen, [X] Tag" (6x)
 - „Und Gott segnete sie" (2x: Vv.22, 28)
@@ -610,7 +610,7 @@ Hebräisches poetisches Mittel, das interne Generation zeigt:
 | V.25 | Landtiere | machte | *asah* |
 | V.27 | Mensch (3x Betonung) | **schuf** | *bara* |
 
-**Muster:** *Bara* (schuf) für anfängliche Schöpfung, lebendige Wesen, Menschen. *Asah* (machte) für raqia, Lichter, Landtiere. **MÖGLICHER** Unterschied: Schöpfung aus dem Nichts vs. Formung.
+**Muster:** *Bara* (schuf) für anfängliche Schöpfung, lebendige Wesen, Menschen. *Asah* (machte) für raqia, Lichter, Landtiere. **MÖGLICHER** Unterschied zwischen den Verben; der genaue Umfang von *bara* (Schöpfung aus dem Nichts oder Umgestaltung vorhandenen Materials) ist umstritten.
 
 ---
 
@@ -632,4 +632,3 @@ Hebräisches poetisches Mittel, das interne Generation zeigt:
 
 **ENDE VON GENESIS 1 - DIE TRANSPARENTE ÜBERSETZUNG (DEUTSCH)**
 
-*„Die am wenigsten unehrliche Version, die wir bauen konnten."*

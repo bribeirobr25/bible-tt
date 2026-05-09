@@ -21,7 +21,6 @@ export default async function RulesPage({
   return (
     <main className="min-h-screen px-6 py-16 md:py-24">
       <div className="max-w-2xl mx-auto">
-
         {/* Header */}
         <header className="mb-16 text-center">
           <h1 className="font-[family-name:var(--font-reading)] text-3xl md:text-5xl font-light tracking-tight">
@@ -46,7 +45,9 @@ export default async function RulesPage({
           <ol className="space-y-4">
             {([1, 2, 3, 4] as const).map((n) => (
               <li key={n} className="flex gap-3 items-start">
-                <span className="text-accent font-bold text-sm mt-0.5">{n}.</span>
+                <span className="text-accent font-bold text-sm mt-0.5">
+                  {n}.
+                </span>
                 <p className="font-[family-name:var(--font-reading)] text-base leading-relaxed text-text-primary">
                   {t(`landing.rulesPrime${n}`)}
                 </p>
@@ -62,7 +63,10 @@ export default async function RulesPage({
           </h2>
           <div className="space-y-8">
             {RULES_WITH_EXAMPLES.map(({ ruleKey, ruleNum }) => (
-              <div key={ruleKey} className="border-l-3 border-accent pl-5 space-y-2">
+              <div
+                key={ruleKey}
+                className="border-l-3 border-accent pl-5 space-y-2"
+              >
                 <div className="flex items-baseline gap-2">
                   <span className="text-xs font-bold text-text-muted uppercase tracking-wider">
                     {t("landing.rulePrefix", { n: ruleNum })}
@@ -97,8 +101,12 @@ export default async function RulesPage({
                   {num}
                 </span>
                 <div>
-                  <p className="text-sm font-medium text-text-primary">{t(`landing.rule${num}name`)}</p>
-                  <p className="text-xs text-text-secondary mt-0.5">{t(`landing.rule${num}short`)}</p>
+                  <p className="text-sm font-medium text-text-primary">
+                    {t(`landing.rule${num}name`)}
+                  </p>
+                  <p className="text-xs text-text-secondary mt-0.5">
+                    {t(`landing.rule${num}short`)}
+                  </p>
                 </div>
               </div>
             ))}
@@ -114,13 +122,12 @@ export default async function RulesPage({
             {t("landing.cta")}
           </Link>
         </section>
-
       </div>
     </main>
   );
 }
 
 const ALL_RULE_NUMS = [
-  1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15,
-  16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29,
+  1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22,
+  23, 24, 25, 26, 27, 28, 29,
 ] as const;

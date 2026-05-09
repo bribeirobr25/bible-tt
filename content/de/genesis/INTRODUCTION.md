@@ -10,7 +10,7 @@
 **Buch:** Genesis (בְּרֵאשִׁית, *Bereshit* — „Am Anfang")
 **Sprache:** Deutsch
 **Einleitung zu:** `de/genesis/` (Transparente Ausgabe)
-**Regelwerk:** v3.0 (Regel 29 regelt diese Datei)
+**Regelwerk:** v3.3 (Regel 29 regelt diese Datei)
 **Status:** provisorisch
 
 ---
@@ -46,7 +46,7 @@ Diese Datei enthält Hintergrundmaterial, nach Themen geordnet. Jeder Eintrag tr
 ### A1. Was Genesis ist
 **[TEXTUELL — VERIFIZIERT]**
 
-Genesis ist das erste Buch der Tora (Pentateuch) und der Hebräischen Bibel (Tanach). Sein hebräischer Titel בְּרֵאשִׁית (*Bereshit*) leitet sich von seinem ersten Wort ab und bedeutet „am Anfang von". Sein deutscher Titel „Genesis" stammt aus dem Griechischen Γένεσις (*Genesis*, „Ursprung, Entstehung"), was die Wiedergabe des Buchinhalts durch die Septuaginta darstellt und nicht eine Übersetzung seines hebräischen Namens.
+Genesis ist das erste Buch der Tora (Pentateuch) und der Hebräischen Bibel (Tanach). Sein hebräischer Titel בְּרֵאשִׁית (*Bereshit*) leitet sich von seinem ersten Wort ab und bedeutet „am Anfang von". Sein deutscher Titel „Genesis" stammt aus dem Griechischen Γένεσις (*Genesis*, „Ursprung, Entstehung"), was die Wiedergabe des Buchinhalts durch die Septuaginta (die antike griechische Übersetzung der Hebräischen Bibel, oft als LXX abgekürzt) darstellt und nicht eine Übersetzung seines hebräischen Namens.
 
 Das Buch umfasst fünfzig Kapitel und fungiert als erzählerischer Prolog zum Gesetzeskorpus der Tora. Es enthält keine Gesetzessammlungen und schreibt keine Rituale vor — es schafft die narrative Welt, in die hinein die sinaitische Gesetzgebung verkündet werden wird.
 
@@ -135,12 +135,12 @@ Diese Beobachtungen entstanden nicht aus Feindseligkeit gegenüber dem Text, son
 
 **Quelle:** Spinoza, *Tractatus* (1670), Kap. 8; Astruc, *Conjectures sur les mémoires originaux dont il parait que Moïse s'est servi pour composer le livre de la Genèse* (1753).
 
-### B4. Die Dokumentenhypothese und ihre Nachfolger
+### B4. Die Dokumentenhypothese (eine wissenschaftliche Theorie, dass Genesis aus vier separaten schriftlichen Quellen zusammengestellt wurde) und ihre Nachfolger
 **[VERGLEICHENDE PARALLELE — WAHRSCHEINLICH]**
 
 Aufbauend auf Astrucs Beobachtung zu den Gottesnamen entwickelten Gelehrte des 19. Jahrhunderts quellenkritische Modelle des Pentateuch. Die klassische Formulierung:
 
-**Die Wellhausensche Dokumentenhypothese (JEDP):**
+**Die Wellhausensche Dokumentenhypothese (JEDP — nach den vier postulierten Quellen: Jahwist, Elohist, Deuteronomist, Priesterschrift):**
 
 | Quelle | Ungefähre Datierung | Wesentliche Merkmale |
 |--------|---------------------|---------------------|
@@ -282,24 +282,17 @@ Genesis beschäftigt sich mit Fragen, die in den literarischen Kulturen des gesa
 
 Der hebräische Text der Genesis wurde durch eine Kette des Kopierens und der redaktionellen Sorgfalt über mehr als zwei Jahrtausende überliefert:
 
-```
-Komposition (unbestimmtes Datum)
-     ↓
-Mündliche und/oder schriftliche Traditionen
-     ↓
-Redaktionelle Zusammenstellung (vorexilisch bis Perserzeit)
-     ↓
-Abschriften der Zeit des Zweiten Tempels (3. Jh. v. Chr. – 1. Jh. n. Chr.)
-  ├── Schriftrollen vom Toten Meer (Qumran, ca. 250 v. Chr. – 68 n. Chr.)
-  ├── Samaritanische Pentateuch-Tradition (divergiert ca. 2. Jh. v. Chr.)
-  └── Septuaginta-Übersetzung (3. Jh. v. Chr., aus einer hebräischen Vorlage)
-     ↓
-Proto-masoretische Standardisierung (1.–2. Jh. n. Chr.)
-     ↓
-Masoretische Tradition (6.–10. Jh. n. Chr.)
-  ├── Aleppo-Kodex (ca. 930 n. Chr.)
-  └── Codex Leningrad (1009 n. Chr.) → BHS → Standard-kritische Ausgaben
-```
+- Komposition (unbestimmtes Datum)
+- Mündliche und/oder schriftliche Traditionen
+- Redaktionelle Zusammenstellung (vorexilisch bis Perserzeit)
+- Abschriften der Zeit des Zweiten Tempels (3. Jh. v. Chr. – 1. Jh. n. Chr.):
+  - Schriftrollen vom Toten Meer (Qumran, ca. 250 v. Chr. – 68 n. Chr.)
+  - Samaritanische Pentateuch-Tradition (divergiert ca. 2. Jh. v. Chr.)
+  - Septuaginta-Übersetzung (3. Jh. v. Chr., aus einer hebräischen Vorlage)
+- Proto-masoretische Standardisierung (1.–2. Jh. n. Chr.)
+- Masoretische Tradition (6.–10. Jh. n. Chr.):
+  - Aleppo-Kodex (ca. 930 n. Chr.)
+  - Codex Leningrad (1009 n. Chr.) → BHS → Standard-kritische Ausgaben
 
 ### E2. Wichtige Handschriftenzeugen
 **[HISTORISCH / ARCHÄOLOGISCH — VERIFIZIERT]**
@@ -347,6 +340,11 @@ Die Einteilung in fünf Bücher ist alt — die Septuaginta spiegelt sie bereits
 
 **Quelle:** Tov, *Textual Criticism of the Hebrew Bible* (3. Aufl., 2012); Ulrich, *The Dead Sea Scrolls and the Origins of the Bible* (1999).
 
+### E6. Kanonvariation zwischen christlichen Traditionen
+**[HISTORISCH / ARCHÄOLOGISCH — VERIFIZIERT]**
+
+Der hebräische Bibelkanon, der als Textbasis der TT dient (BHS / Masoretischer Text), spiegelt den jüdisch-rabbinischen Kanon wider, dem auch der protestantische Zweig des Christentums folgt. Andere christliche Traditionen umfassen zusätzliche Bücher: Die katholischen und ostorthodoxen Kanones schließen die deuterokanonischen Bücher ein (Tobit, Judit, Weisheit Salomos, Sirach, Baruch, 1–2 Makkabäer sowie Ergänzungen zu Ester und Daniel). Der breitere Kanon der Äthiopisch-Orthodoxen Tewahedo-Kirche enthält darüber hinaus *1 Henoch*, *Jubiläen* und mehrere weitere Texte. „Was als Bibel gilt" ist im globalen Christentum nicht einheitlich festgelegt. Pseudepigraphische Literatur (antike Texte, die unter fiktiven Namen verfasst wurden, wie *Leben Adams und Evas*, *1 Henoch*, *Höhle der Schätze*) wird in wissenschaftlichen und populären Kontexten breit rezipiert, ist in den meisten Traditionen jedoch nicht kanonisch. Für Leserinnen und Leser, die diese Texte direkt erschließen möchten, sind die wissenschaftlichen Standardausgaben Charlesworth, *The Old Testament Pseudepigrapha* (Doubleday, 1983–85), Nickelsburg-VanderKam, *1 Enoch* (Fortress Press, 2004) sowie Stone-Anderson, Synopsis der Adamsüberlieferungen (SBL, 1999).
+
 ---
 
 ## F. Genesis lesen in der TT
@@ -354,7 +352,7 @@ Die Einteilung in fünf Bücher ist alt — die Septuaginta spiegelt sie bereits
 ### F1. Aktive Regeln mit Genesis-spezifischen Anwendungen
 **[TEXTUELL — VERIFIZIERT]**
 
-Die folgenden Regeln aus dem TT-Regelwerk (v3.0) haben besondere Relevanz für Genesis:
+Die folgenden Regeln aus dem TT-Regelwerk (v3.3) haben besondere Relevanz für Genesis:
 
 | Regel | Name | Genesis-spezifische Anwendung |
 |-------|------|-------------------------------|

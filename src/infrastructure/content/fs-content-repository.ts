@@ -1,11 +1,20 @@
 import fs from "node:fs/promises";
 import path from "node:path";
-import type { ChapterData, EnrichmentData, IntroductionData, ProphecyData, PeopleData } from "@/domain/content/types";
+import type {
+  ChapterData,
+  EnrichmentData,
+  IntroductionData,
+  PeopleData,
+  ProphecyData,
+} from "@/domain/content/types";
 import type { Locale } from "@/infrastructure/i18n/config";
+import {
+  parseEnrichmentMarkdown,
+  parseIntroductionMarkdown,
+} from "./enrichment-parser";
 import { parseChapterMarkdown } from "./markdown-parser";
-import { parseEnrichmentMarkdown, parseIntroductionMarkdown } from "./enrichment-parser";
-import { parseProphecyMarkdown } from "./prophecy-parser";
 import { parsePeopleMarkdown } from "./people-parser";
+import { parseProphecyMarkdown } from "./prophecy-parser";
 
 const CONTENT_ROOT = path.join(process.cwd(), "content");
 
@@ -14,7 +23,12 @@ export async function readChapter(
   book: string,
   chapter: number,
 ): Promise<ChapterData | null> {
-  const filePath = path.join(CONTENT_ROOT, locale, book, `CHAPTER-${chapter}.md`);
+  const filePath = path.join(
+    CONTENT_ROOT,
+    locale,
+    book,
+    `CHAPTER-${chapter}.md`,
+  );
   try {
     const raw = await fs.readFile(filePath, "utf-8");
     return parseChapterMarkdown(raw, book, chapter);
@@ -28,7 +42,13 @@ export async function readEnrichment(
   book: string,
   chapter: number,
 ): Promise<EnrichmentData | null> {
-  const filePath = path.join(CONTENT_ROOT, locale, book, "study", `CHAPTER-${chapter}-CONTEXT.md`);
+  const filePath = path.join(
+    CONTENT_ROOT,
+    locale,
+    book,
+    "study",
+    `CHAPTER-${chapter}-CONTEXT.md`,
+  );
   try {
     const raw = await fs.readFile(filePath, "utf-8");
     return parseEnrichmentMarkdown(raw, book, chapter);
@@ -55,7 +75,13 @@ export async function readProphecy(
   book: string,
   chapter: number,
 ): Promise<ProphecyData | null> {
-  const filePath = path.join(CONTENT_ROOT, locale, book, "study", `CHAPTER-${chapter}-PROPHECY.md`);
+  const filePath = path.join(
+    CONTENT_ROOT,
+    locale,
+    book,
+    "study",
+    `CHAPTER-${chapter}-PROPHECY.md`,
+  );
   try {
     const raw = await fs.readFile(filePath, "utf-8");
     return parseProphecyMarkdown(raw, book, chapter);
@@ -83,8 +109,14 @@ export async function listBooks(locale: string): Promise<string[]> {
     const entries = await fs.readdir(localePath, { withFileTypes: true });
     const books: string[] = [];
     for (const entry of entries) {
-      if (entry.isDirectory() && !entry.name.startsWith(".") && entry.name !== "study") {
-        const chapterFiles = await fs.readdir(path.join(localePath, entry.name));
+      if (
+        entry.isDirectory() &&
+        !entry.name.startsWith(".") &&
+        entry.name !== "study"
+      ) {
+        const chapterFiles = await fs.readdir(
+          path.join(localePath, entry.name),
+        );
         if (chapterFiles.some((f) => /^CHAPTER-\d+\.md$/.test(f))) {
           books.push(entry.name);
         }
@@ -105,7 +137,9 @@ export async function listChapters(
     const files = await fs.readdir(dirPath);
     return files
       .filter((f) => /^CHAPTER-\d+\.md$/.test(f))
-      .map((f) => Number.parseInt(f.replace("CHAPTER-", "").replace(".md", ""), 10))
+      .map((f) =>
+        Number.parseInt(f.replace("CHAPTER-", "").replace(".md", ""), 10),
+      )
       .sort((a, b) => a - b);
   } catch {
     return [];

@@ -10,7 +10,7 @@
 **Book:** John (Ἰωάννης, *Iōannēs*)
 **Language:** English
 **Introduction to:** `en/john/` (Transparent Edition)
-**Ruleset:** v3.0 (Rule 29 governs this file)
+**Ruleset:** v3.3 (Rule 29 governs this file)
 **Status:** provisional
 
 ---
@@ -46,9 +46,9 @@ This file contains background material organized by topic. Each entry carries **
 ### A1. What the Gospel of John is
 **[TEXTUAL — VERIFIED]**
 
-The Gospel of John is the fourth book of the New Testament canon. It is distinct from the Synoptic Gospels (Matthew, Mark, Luke) in structure, style, vocabulary, and theological emphasis. Where the Synoptics share a broadly common narrative framework (the "Synoptic Problem"), John follows an independent literary path — omitting much Synoptic material (no birth narrative, no Sermon on the Mount, no parables in the Synoptic sense, no institution of the Lord's Supper) and including extended discourses, dialogues, and symbolic narratives absent from the other three.
+The Gospel of John is the fourth book of the New Testament canon. It is distinct from the Synoptic Gospels (Matthew, Mark, and Luke — the three Gospels that share a similar structure) in structure, style, vocabulary, and theological emphasis. Where the Synoptics share a broadly common narrative framework (the "Synoptic Problem" — the question of why Matthew, Mark, and Luke overlap so extensively), John follows an independent literary path — omitting much Synoptic material (no birth narrative, no Sermon on the Mount, no parables in the Synoptic sense, no institution of the Lord's Supper) and including extended discourses, dialogues, and symbolic narratives absent from the other three.
 
-The Gospel contains 21 chapters and approximately 879 verses. It is known for its theological depth, its extended discourses of Yeshua, and its distinctive literary character — including the seven "I am" (ἐγώ εἰμι, *egō eimi*) sayings, the farewell discourse (chapters 13–17), and the prologue's identification of Yeshua with the *logos* (1:1–18).
+The Gospel contains 21 chapters and approximately 879 verses. It is known for its theological depth, its extended discourses of Yeshua (Jesus), and its distinctive literary character, including the seven "I am" (ἐγώ εἰμι, *egō eimi*) sayings, the farewell discourse (chapters 13–17), and the prologue's identification of Jesus with the *logos* (1:1–18).
 
 **Source:** Brown, *The Gospel According to John* (AB, 1966–1970), I.lxvii–civ; Barrett, *The Gospel According to St John* (2nd ed., 1978), 3–15.
 
@@ -57,11 +57,11 @@ The Gospel contains 21 chapters and approximately 879 verses. It is known for it
 
 The Gospel divides into four major sections that differ in scope, audience, and literary register:
 
-**Prologue (1:1–18):** A theologically dense hymnic introduction identifying the *logos* with God and with the incarnate Yeshua. Stands apart from the rest of the Gospel in style and genre — closer to a prose hymn than to narrative.
+**Prologue (1:1–18):** A theologically dense hymnic introduction identifying the *logos* with God and with the incarnate Yeshua (Jesus). Stands apart from the rest of the Gospel in style and genre, closer to a prose hymn than to narrative.
 
-**Book of Signs (1:19–12:50):** Narrates Yeshua's public ministry organized around a series of "signs" (σημεῖα, *sēmeia*) — miraculous actions that function as revelatory events. Seven signs are commonly identified: water to wine at Cana (2:1–11), healing the official's son (4:46–54), healing at the pool of Bethesda (5:1–9), feeding the five thousand (6:1–14), walking on water (6:16–21), healing the man born blind (9:1–7), and raising of Lazarus (11:1–44). Each sign is typically followed by a discourse or dialogue that interprets its significance.
+**Book of Signs (1:19–12:50):** Narrates Jesus's public ministry organized around a series of "signs" (σημεῖα, *sēmeia*) — miraculous actions that function as revelatory events. Seven signs are commonly identified: water to wine at Cana (2:1–11), healing the official's son (4:46–54), healing at the pool of Bethesda (5:1–9), feeding the five thousand (6:1–14), walking on water (6:16–21), healing the man born blind (9:1–7), and raising of Lazarus (11:1–44). Each sign is typically followed by a discourse or dialogue that interprets its significance.
 
-**Book of Glory (13:1–20:31):** Narrates the farewell discourse (13–17), arrest, trial, crucifixion, and resurrection. The tone shifts from public ministry to private instruction of the disciples. Chapters 13–17 are without parallel in the Synoptics — an extended farewell in which Yeshua prepares his followers for his departure, introduces the *paraklētos* (advocate/helper), and prays for the community.
+**Book of Glory (13:1–20:31):** Narrates the farewell discourse (13–17), arrest, trial, crucifixion, and resurrection. The tone shifts from public ministry to private instruction of the disciples. Chapters 13–17 are without parallel in the Synoptics: an extended farewell in which Jesus prepares his followers for his departure, introduces the *paraklētos* (advocate/helper), and prays for the community.
 
 **Epilogue (21:1–25):** A supplementary chapter narrating a post-resurrection appearance in Galilee, the restoration of Kefa (Peter), and the concluding testimony of the beloved disciple. Widely regarded as an addition to an earlier edition that ended at 20:30–31.
 
@@ -72,11 +72,11 @@ The Gospel divides into four major sections that differ in scope, audience, and 
 
 Several features distinguish John from the Synoptic tradition:
 
-**The "I am" sayings:** Seven declarations in which Yeshua identifies himself using the formula ἐγώ εἰμι (*egō eimi*) with a predicate: "I am the bread of life" (6:35), "the light of the world" (8:12), "the gate" (10:7), "the good shepherd" (10:11), "the resurrection and the life" (11:25), "the way, the truth, and the life" (14:6), "the true vine" (15:1). Additionally, several absolute uses of ἐγώ εἰμι without a predicate (8:24, 28, 58; 13:19) may echo the divine self-identification in Exodus 3:14 (LXX: ἐγώ εἰμι ὁ ὤν).
+**The "I am" sayings:** Seven declarations in which Yeshua (Jesus) identifies himself using the formula ἐγώ εἰμι (*egō eimi*) with a predicate: "I am the bread of life" (6:35), "the light of the world" (8:12), "the gate" (10:7), "the good shepherd" (10:11), "the resurrection and the life" (11:25), "the way, the truth, and the life" (14:6), "the true vine" (15:1). Additionally, several absolute uses of ἐγώ εἰμι without a predicate (8:24, 28, 58; 13:19) may echo the divine self-identification in Exodus 3:14 (LXX: ἐγώ εἰμι ὁ ὤν).
 
-**Extended discourses:** Unlike the Synoptic pattern of short sayings and parables, John presents Yeshua's teaching in long, theologically elaborate discourses — the Bread of Life discourse (ch. 6), the Light of the World discourse (ch. 8), the Good Shepherd discourse (ch. 10), and the farewell discourse (chs. 13–17).
+**Extended discourses:** Unlike the Synoptic pattern of short sayings and parables, John presents Jesus's teaching in long, theologically rich discourses: the Bread of Life discourse (ch. 6), the Light of the World discourse (ch. 8), the Good Shepherd discourse (ch. 10), and the farewell discourse (chs. 13–17).
 
-**Different chronology:** John places the temple action early in Yeshua's ministry (2:13–22) rather than in the final week, narrates three Passovers (suggesting a ministry of at least two to three years), and places the crucifixion on the day of preparation for Passover (19:14) rather than on Passover day itself (Mark 14:12).
+**Different chronology:** John places the temple action early in Jesus's ministry (2:13–22) rather than in the final week, narrates three Passovers (suggesting a ministry of at least two to three years), and places the crucifixion on the day of preparation for Passover (19:14) rather than on Passover day itself (Mark 14:12).
 
 **Source:** Smith, *John Among the Gospels* (2nd ed., 2001); Kysar, *Voyages with John* (2005), 1–27.
 
@@ -87,9 +87,9 @@ Several features distinguish John from the Synoptic tradition:
 ### B1. What the text itself says
 **[TEXTUAL — VERIFIED]**
 
-The Gospel claims to be based on the testimony of "the disciple whom Yeshua loved" (ὁ μαθητής ὃν ἠγάπα ὁ Ἰησοῦς, 21:24: "This is the disciple who testifies about these things and who wrote these things, and we know that his testimony is true"). This disciple appears at the last supper (13:23), at the cross (19:26–27), at the empty tomb (20:2–10), and in the epilogue (21:7, 20–24).
+The Gospel claims to be based on the testimony of "the disciple whom Yeshua (Jesus) loved" (ὁ μαθητής ὃν ἠγάπα ὁ Ἰησοῦς, 21:24: "This is the disciple who testifies about these things and who wrote these things, and we know that his testimony is true"). This disciple appears at the last supper (13:23), at the cross (19:26–27), at the empty tomb (20:2–10), and in the epilogue (21:7, 20–24).
 
-The Gospel does not name this disciple. The identification remains an inference, not a textual statement. The first-person plural "we know" in 21:24 suggests a community vouching for the disciple's testimony, and the transition to "I suppose" in 21:25 introduces yet another voice. The text thus presents a layered authorial situation — a beloved disciple as source, a community as guarantor, and at least one editorial hand.
+The Gospel does not name this disciple. The identification remains an inference, not a textual statement. The first-person plural "we know" in 21:24 suggests a community vouching for the disciple's testimony, and the transition to "I suppose" in 21:25 introduces yet another voice. The text thus presents a layered authorial situation: a beloved disciple as source, a community as guarantor, and at least one editorial hand.
 
 ### B2. Traditional attribution
 **[LATER RECEPTION — DOCUMENTED]**
@@ -110,9 +110,9 @@ This attribution was essentially unquestioned in Christian tradition until the m
 
 Modern scholarship has proposed multiple composition theories:
 
-**The Johannine community hypothesis:** The Gospel emerged from a distinct community with its own theological traditions, social tensions (particularly with the synagogue), and literary history. Raymond Brown proposed a four-stage development: (1) an originating tradition from the beloved disciple, (2) development within the community, (3) the evangelist's composition, (4) a final redactor (responsible for ch. 21 and other additions). This model has been influential but is increasingly questioned as scholars debate whether the evidence supports a distinct "community" rather than a network, school, or literary circle.
+**The community associated with John's Gospel (the Johannine community hypothesis):** The Gospel emerged from a distinct community with its own theological traditions, social tensions (particularly with the synagogue), and literary history. Raymond Brown proposed a four-stage development: (1) an originating tradition from the beloved disciple, (2) development within the community, (3) the evangelist's composition, (4) a final redactor (responsible for ch. 21 and other additions). This model has been influential but is increasingly questioned as scholars debate whether the evidence supports a distinct "community" rather than a network, school, or literary circle.
 
-**Multiple editions:** J. Louis Martyn and others argued that the Gospel was composed in stages, with earlier material revised in light of the community's evolving situation — particularly the expulsion from the synagogue (*aposynagōgos*, 9:22; 12:42; 16:2). Whether this reflects a specific historical event or a more general social process is debated.
+**Multiple editions:** J. Louis Martyn and others argued that the Gospel was composed in stages, with earlier material revised in light of the community's evolving situation, particularly the expulsion from the synagogue (*aposynagōgos*, 9:22; 12:42; 16:2). Whether this reflects a specific historical event or a more general social process is debated.
 
 **Relationship to 1–3 John:** The Johannine Epistles share vocabulary, theology, and concerns with the Gospel but differ in significant ways. Most scholars regard them as products of the same literary circle but not necessarily the same author. The relationship between the Gospel and the Epistles bears on questions of authorship, dating, and community history.
 
@@ -127,8 +127,8 @@ Modern scholarship has proposed multiple composition theories:
 
 Most scholars date the Gospel of John to approximately 90–100 CE, based on several converging considerations:
 
-- **Developed theology:** The prologue's *logos* christology, the high christological claims throughout, and the elaborated pneumatology (Spirit/Advocate teaching) suggest a later stage of theological reflection.
-- **Possible reference to synagogue expulsion:** The term ἀποσυνάγωγος (*aposynagōgos*, "expelled from the synagogue," 9:22; 12:42; 16:2) has been linked to the Birkat ha-Minim (a benediction against sectarians added to the synagogue liturgy, traditionally dated c. 85–90 CE). This connection is debated — the Birkat ha-Minim may have been more gradual and variable than a single datable decree.
+- **Developed theology:** The prologue's *logos* christology, the high christological claims throughout, and the developed Spirit/Advocate teaching suggest a later stage of theological reflection.
+- **Possible reference to synagogue expulsion:** The term ἀποσυνάγωγος (*aposynagōgos*, "expelled from the synagogue," 9:22; 12:42; 16:2) has been linked to the Birkat ha-Minim (a benediction against sectarians added to the synagogue liturgy, traditionally dated c. 85–90 CE). This connection is debated. The Birkat ha-Minim may have been more gradual and variable than a single datable decree.
 - **Relationship to 1 John:** If 1 John responds to a crisis that postdates the Gospel (a schism within the Johannine community, 1 John 2:19), the Gospel must precede the epistle. Most date 1 John to c. 100–110 CE, placing the Gospel somewhat earlier.
 - **Independence from the Synoptics:** Whether John knew the Synoptic Gospels is debated. If independent, the developed parallel traditions suggest comparable dating (Mark c. 65–75 CE, Matthew and Luke c. 80–90 CE, John c. 90–100 CE).
 
@@ -154,18 +154,18 @@ P52 demonstrates that the Gospel of John was circulating in Egypt by the early-t
 
 The Gospel of John reflects a world shaped by the destruction of the Jerusalem Temple in 70 CE. The tensions between the Johannine community and the synagogue, visible in the *aposynagōgos* passages (9:22; 12:42; 16:2), belong to the post-70 period when both Judaism and the Jesus movement were redefining their identities without the Temple as a shared institutional center.
 
-The Gospel's replacement theology — in which Yeshua himself becomes the new temple (2:19–22), the new source of living water (4:10–14; 7:37–39), and the true vine replacing Israel's vine imagery — may reflect this post-Temple context, though the theological motifs likely have pre-70 roots.
+The Gospel's replacement theology (in which Yeshua (Jesus) himself becomes the new temple (2:19–22), the new source of living water (4:10–14; 7:37–39), and the true vine replacing Israel's vine imagery) may reflect this post-Temple context, though the theological motifs likely have pre-70 roots.
 
 ### D2. "The Yehudim" in John
 **[TEXTUAL — PROBABLE]**
 
-The Gospel uses the term οἱ Ἰουδαῖοι (*hoi Ioudaioi*) approximately 70 times — far more frequently than any other Gospel. The term is complex and context-dependent:
+The Gospel uses the term οἱ Ἰουδαῖοι (*hoi Ioudaioi*) approximately 70 times, far more frequently than any other Gospel. The term is complex and context-dependent:
 
 - In some passages it refers to Judean authorities or leaders in Jerusalem (e.g., 1:19; 5:10; 7:13; 9:22).
 - In other passages it appears to refer to the Jewish people more broadly (e.g., 4:9, 22).
 - In yet others it functions as a cultural or religious identifier without negative connotation (e.g., 2:6 — "the purification of the Yehudim"; 4:22 — "salvation is from the Yehudim").
 
-The TT renders this term as "the Yehudim" (transliterated, per the locked glossary) with notes distinguishing the referent in context. This avoids both the anachronism of reading modern categories into a first-century intra-Jewish dispute and the flattening of a term that the text itself uses in multiple senses.
+The TT renders this term as "the Yehudim" (transliterated, per the locked glossary) with notes distinguishing the referent in context. This avoids both the mistake of reading modern categories into a first-century dispute within Judaism, and the flattening of a term that the text itself uses in multiple senses.
 
 **Source:** Reinhartz, *Cast Out of the Covenant: Jews and Anti-Judaism in the Gospel of John* (2018); Bieringer, Pollefeyt, and Vandecasteele-Vanneuville, eds., *Anti-Judaism and the Fourth Gospel* (2001).
 
@@ -176,7 +176,7 @@ The Gospel's prologue (1:1–18) opens with the concept of λόγος (*logos*),
 
 - In **Heraclitus** (6th–5th c. BCE), *logos* denotes the rational principle governing the cosmos.
 - In **Stoic philosophy**, *logos* is the immanent rational order pervading all things.
-- In **Philo of Alexandria** (1st c. CE), *logos* functions as an intermediary between the transcendent God and the material world — a concept that blends Jewish wisdom tradition with Greek philosophy.
+- In **Philo of Alexandria** (1st c. CE), *logos* functions as a go-between connecting the transcendent God and the material world, a concept that blends Jewish wisdom tradition with Greek philosophy.
 
 Whether the Johannine prologue draws directly on any of these traditions, or whether *logos* functions primarily within a Jewish framework (cf. the "word of YHWH" in the Hebrew Bible; the personified Wisdom of Proverbs 8 and Sirach 24), is a long-standing debate. The TT translates *logos* as "word" (per the locked glossary) and provides notes on the semantic range.
 
@@ -187,7 +187,7 @@ Whether the Johannine prologue draws directly on any of these traditions, or whe
 
 Irenaeus (*Adversus Haereses* 3.1.1) locates the composition of the Gospel at Ephesus in the province of Asia. This tradition associates John son of Zebedee with a long residence in Ephesus. Ephesus was a major urban center with both a significant Jewish community and a strong Greco-Roman intellectual environment, which would be consistent with the Gospel's dual engagement with Jewish and Hellenistic thought.
 
-However, the Ephesus tradition is not independently confirmed by the Gospel text itself, which mentions no place of composition. Alternative settings — Syria, Alexandria, Palestine — have been proposed. The question remains open.
+However, the Ephesus tradition is not independently confirmed by the Gospel text itself, which mentions no place of composition. Alternative settings (Syria, Alexandria, Palestine) have been proposed. The question remains open.
 
 **Source:** Hengel, *The Johannine Question*, 1–23; Trebilco, *The Early Christians in Ephesus from Paul to Ignatius* (2004).
 
@@ -200,27 +200,21 @@ However, the Ephesus tradition is not independently confirmed by the Gospel text
 
 The Greek text of the Gospel of John was transmitted through a chain of copying spanning nearly two millennia:
 
-```
-Composition (c. 90–100 CE)
-     ↓
-Early copies (2nd century CE)
-  ├── P52 (c. 125 CE) — John 18:31–33, 37–38
-  ├── P66 (c. 200 CE) — nearly complete Gospel of John
-  └── P75 (c. 200–225 CE) — John 1–15 (+ Luke)
-     ↓
-Major codices (4th–5th century CE)
-  ├── Codex Sinaiticus (א, 4th c.)
-  ├── Codex Vaticanus (B, 4th c.)
-  ├── Codex Alexandrinus (A, 5th c.)
-  └── Codex Bezae (D, 5th c.)
-     ↓
-Byzantine tradition (5th–15th c.)
-     ↓
-Printed editions
-  ├── Erasmus (1516)
-  ├── Textus Receptus tradition (16th–19th c.)
-  └── Critical editions: NA28 / UBS5 (current standard)
-```
+- Composition (c. 90–100 CE)
+- Early copies (2nd century CE):
+  - P52 (c. 125 CE) — John 18:31–33, 37–38
+  - P66 (c. 200 CE) — nearly complete Gospel of John
+  - P75 (c. 200–225 CE) — John 1–15 (+ Luke)
+- Major codices (4th–5th century CE):
+  - Codex Sinaiticus (א, 4th c.)
+  - Codex Vaticanus (B, 4th c.)
+  - Codex Alexandrinus (A, 5th c.)
+  - Codex Bezae (D, 5th c.)
+- Byzantine tradition (5th–15th c.)
+- Printed editions:
+  - Erasmus (1516)
+  - Textus Receptus tradition (16th–19th c.)
+  - Critical editions: NA28 (Nestle-Aland 28th edition — the standard scholarly Greek text) / UBS5 (current standard)
 
 ### E2. Key manuscript witnesses
 **[HISTORICAL / ARCHAEOLOGICAL — VERIFIED]**
@@ -240,14 +234,14 @@ Printed editions
 
 **The Pericope Adulterae (7:53–8:11):** The passage narrating the woman caught in adultery is absent from the earliest and best manuscripts of John (P66, P75, Sinaiticus, Vaticanus). It does not appear in the Gospel of John until the late 4th–5th century manuscripts, and some manuscripts place it after John 21:25, after Luke 21:38, or after John 7:36. The passage's style and vocabulary differ from the rest of John. The TT includes the passage with a note indicating its textual status — it is not silently omitted, but its absence from the earliest witnesses is documented.
 
-**The ending question:** Unlike Mark (where the longer ending, 16:9–20, is textually disputed), John does not have a major ending variant. Chapter 21 is likely an addition to an original ending at 20:30–31, but it is present in all surviving manuscripts — the addition, if it is one, was made before the text entered the manuscript tradition as we have it.
+**The ending question:** Unlike Mark (where the longer ending, 16:9–20, is textually disputed), John does not have a major ending variant. Chapter 21 is likely an addition to an original ending at 20:30–31, but it is present in all surviving manuscripts. The addition, if it is one, was made before the text entered the manuscript tradition as we have it.
 
 **Source:** Metzger, *A Textual Commentary on the Greek New Testament* (2nd ed., 1994), 187–189; Parker, *The Living Text of the Gospels* (1997), 95–122.
 
 ### E4. The critical text and NA28
 **[HISTORICAL / ARCHAEOLOGICAL — VERIFIED]**
 
-The Transparent Translation works from the Greek text as represented in the Nestle-Aland *Novum Testamentum Graece* (28th edition, NA28), which is the standard critical edition of the Greek New Testament. The NA28 is an eclectic text — it does not follow any single manuscript but reconstructs the earliest recoverable text by weighing manuscript evidence, text-type analysis, and internal criteria (which reading best explains the origin of the others).
+The Transparent Translation works from the Greek text as represented in the Nestle-Aland *Novum Testamentum Graece* (28th edition, NA28), which is the standard critical edition of the Greek New Testament. The NA28 is an eclectic text (assembled from multiple sources). It does not follow any single manuscript but reconstructs the earliest recoverable text by weighing manuscript evidence, text-type analysis, and internal criteria (which reading best explains the origin of the others).
 
 Where the text is ambiguous or where significant variants exist, the TT follows the NA28 reading and notes the variant rather than silently emending.
 
@@ -258,18 +252,20 @@ Where the text is ambiguous or where significant variants exist, the TT follows 
 ### F1. Active rules with John-specific applications
 **[TEXTUAL — VERIFIED]**
 
-The following rules from the TT ruleset (v3.0) have particular bearing on the Gospel of John:
+The following rules from the TT ruleset (v3.3) have particular bearing on the Gospel of John:
 
 | Rule | Name | John-specific application |
 |------|------|---------------------------|
-| 1 | Prime Directive | Do not simplify what the Greek leaves complex. The *logos* prologue (1:1–18) preserves the full semantic range of the term without collapsing it into a single theological reading. |
-| 4 | No interpretive paraphrase | The "I am" sayings are translated without importing later christological definitions. ἐγώ εἰμι is rendered as spoken, not as theologized. |
-| 7 | Preserve semantic range | *Logos* as both "word" and its broader semantic field — the TT marks the range rather than choosing one sense. |
-| 11 | Mark grammatical additions | Words added for English grammar appear in italics, distinguishing them from translated content. |
-| 13 | Uncertainty levels | Debated terms and passages carry confidence labels (Probable / Possible / Uncertain). |
-| 14 | Source-text notes | Key Greek terms preserved in transliteration where semantically significant. |
-| 22 | No interpretive section headings | Section divisions do not impose a reading on the text. |
-| 25 | YHWH rendered consonantally | Not directly applicable in the Greek source text, but relevant when John quotes OT YHWH passages — see Divine Name Policy below. |
+| *(unnumbered)* | Prime Directive | Do not simplify what the Greek leaves complex. The *logos* prologue (1:1–18) preserves the full semantic range of the term without collapsing it into a single theological reading. |
+| 1 | Controlled Lexical Consistency | Locked glossary terms (*logos*, *pneuma*, *charis*, *monogenēs*, *pascha*, etc.) are rendered consistently across all John chapters per GS glossary. |
+| 2 | Ambiguity Preservation | Slash renderings (*wind/spirit*, *grace/favor*, *from above/again*) preserve genuine Greek ambiguity rather than choosing one sense. |
+| 4 | Transliterate Strategic Terms | The "I am" sayings are translated, not transliterated — ἐγώ εἰμι has translatable semantic content. Rule 4 threshold not crossed. |
+| 7 | Preserve Parallel Structure | Johannine repetition patterns (light/darkness, life/death, above/below) are preserved across passages. |
+| 11 | Mark Grammatical Additions | Words added for English grammar appear in italics, distinguishing them from translated content. |
+| 13 | Uncertainty Levels | Debated terms and passages carry confidence labels (Probable / Possible / Uncertain). |
+| 14 | Annotate Wordplay | Key Greek terms noted in Tier 2 where semantic range or wordplay is significant. |
+| 22 | Text-Critical Restraint | Textual variants (e.g., John 1:18 μονογενὴς θεός vs. μονογενὴς υἱός, John 1:34) noted in Tier 2 without silent adoption. |
+| 25 | Divine Name Policy | GS applies Option C: κύριος rendered as "the Lord" in OT quotation contexts, with Tier 2 note identifying YHWH in the underlying Hebrew. See Divine Name Policy below. |
 
 ### F2. Locked glossary — Greek Scriptures terms active in John
 **[TEXTUAL — VERIFIED]**
@@ -292,10 +288,10 @@ When the Gospel of John quotes or alludes to Hebrew Bible passages containing th
 
 - The main text renders *kyrios* as "the Lord" in OT quotation contexts.
 - A note identifies the OT source and states that the underlying Hebrew has the Tetragrammaton.
-- When *kyrios* refers to Yeshua or a human lord (not an OT YHWH quotation), no YHWH note is needed.
+- When *kyrios* refers to Yeshua (Jesus) or a human lord (not an OT YHWH quotation), no YHWH note is needed.
 - Ambiguous cases are flagged per Rule 13.
 
-No extant Greek NT manuscript contains the Tetragrammaton. Placing YHWH in the main text of John would translate a word that is not there — a Rule 22 violation. The OT YHWH connection belongs in a note per Rule 14.
+No extant Greek NT manuscript contains the Tetragrammaton. Placing YHWH in the main text of John would translate a word that is not there, a Rule 22 violation. The OT YHWH connection belongs in a note per Rule 14.
 
 ### F4. Verb aspect system
 **[TEXTUAL — VERIFIED]**
@@ -314,12 +310,12 @@ Per the TT's transliteration policy, key proper names in John are rendered from 
 
 | Traditional EN | TT rendering | Original |
 |----------------|-------------|----------|
-| John (the Baptist / the disciple) | Yochanan | Ἰωάννης (*Iōannēs*) ← Hebrew יוֹחָנָן (*Yochanan*) |
-| Jesus | Yeshua | Ἰησοῦς (*Iēsous*) ← Hebrew/Aramaic יֵשׁוּעַ (*Yeshua*) |
-| Peter | Kefa | Κηφᾶς (*Kēphas*) ← Aramaic כֵּיפָא (*Kefa*, "rock"); Greek Πέτρος (*Petros*) |
-| Mary | Miryam | Μαρία/Μαριάμ (*Maria/Mariam*) ← Hebrew מִרְיָם (*Miryam*) |
+| John (the Baptist / the disciple) | Yochanan (John) | Ἰωάννης (*Iōannēs*) ← Hebrew יוֹחָנָן (*Yochanan*) |
+| Jesus | Yeshua (Jesus) | Ἰησοῦς (*Iēsous*) ← Hebrew/Aramaic יֵשׁוּעַ (*Yeshua*) |
+| Peter | Kefa (Peter) | Κηφᾶς (*Kēphas*) ← Aramaic כֵּיפָא (*Kefa*, "rock"); Greek Πέτρος (*Petros*) |
+| Mary | Miryam (Mary) | Μαρία/Μαριάμ (*Maria/Mariam*) ← Hebrew מִרְיָם (*Miryam*) |
 | Lazarus | Elazar | Λάζαρος (*Lazaros*) ← Hebrew אֶלְעָזָר (*Elazar*) |
-| Nicodemus | Nikodemos | Νικόδημος (*Nikodēmos*) — Greek name, retained in transliteration |
+| Nicodemus | Nikodemos (Nicodemus) | Νικόδημος (*Nikodēmos*) — Greek name, retained in transliteration |
 | Pontius Pilate | Pontius Pilatus | Πόντιος Πιλᾶτος (*Pontios Pilatos*) — Latin name, retained |
 | Thomas | Toma | Θωμᾶς (*Thōmas*) ← Aramaic תָּאוֹמָא (*Toma*, "twin") |
 
@@ -327,13 +323,13 @@ Per the TT's transliteration policy, key proper names in John are rendered from 
 **[TEXTUAL — PROBABLE]**
 
 **John 1:1 — The *logos* clause:**
-The clause καὶ θεὸς ἦν ὁ λόγος (*kai theos ēn ho logos*) is syntactically precise in Greek but notoriously difficult to render in English. The anarthrous θεός (*theos*, "God" without the definite article) in predicate position has generated extensive grammatical and theological debate. The TT renders the clause and provides a note on the syntactic options without resolving the debate.
+The clause καὶ θεὸς ἦν ὁ λόγος (*kai theos ēn ho logos*) is syntactically precise in Greek but notoriously difficult to render in English. The word θεός (*theos*, "God") appears here without the definite article ("the") and in predicate position, which has generated extensive grammatical and theological debate. The TT renders the clause and provides a note on the syntactic options without resolving the debate.
 
 **The *paraklētos*:**
-The term παράκλητος (*paraklētos*, 14:16, 26; 15:26; 16:7) has no single English equivalent. Its semantic range includes "advocate," "helper," "comforter," and "one called alongside." The TT renders it as "advocate" (per the locked glossary) with notes on the full range. The term is unique to the Johannine corpus in the NT (also 1 John 2:1, applied to Yeshua himself).
+The term παράκλητος (*paraklētos*, 14:16, 26; 15:26; 16:7) has no single English equivalent. Its semantic range includes "advocate," "helper," "comforter," and "one called alongside." The TT renders it as "advocate" (per the locked glossary) with notes on the full range. The term is unique to the Johannine corpus in the NT (also 1 John 2:1, applied to Yeshua (Jesus) himself).
 
 **Dualistic language:**
-John employs pervasive dualistic contrasts — light/darkness, above/below, spirit/flesh, life/death, truth/lie. These function literarily and theologically within the Gospel's own framework. The TT translates them as the text presents them, without importing later Gnostic or metaphysical categories.
+John employs pervasive paired contrasts: light/darkness, above/below, spirit/flesh, life/death, truth/lie. These function literarily and theologically within the Gospel's own framework. The TT translates them as the text presents them, without importing later Gnostic (an early religious movement emphasizing hidden knowledge) or abstract philosophical categories.
 
 ---
 

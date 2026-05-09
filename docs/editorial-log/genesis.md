@@ -1,9 +1,9 @@
 # Editorial Log — Genesis
 
-**Ruleset version in force:** v3.0
+**Ruleset version in force:** v3.3
 **Book:** Genesis
 **Maintainer:** Project Lead
-**Format:** per v3.0 Editorial Log Specification
+**Format:** per v3.3 Editorial Log Specification
 
 This log records consistency decisions, justified exceptions, text-critical choices, and any deviations from the default ruleset. Backfilled entries for decisions already encoded in `en/genesis/`, `pt-br/genesis/`, `de/genesis/`, and `es/genesis/` Chapter 1 are included below for traceability.
 
@@ -1088,7 +1088,7 @@ Applied from consolidated external proposals (`docs/audit/GENESIS-1-EN-PROPOSAL.
   - Where TT and RV diverge, the divergence is documented with reasoning (where RV smoothed, theologized, or interpreted beyond what Hebrew requires).
   - This is editorial framing, not methodology. The translation does not change.
 - **Alternatives considered:** Option A (Complete Independence — rejected as unrealistic; RV is the dominant Protestant tradition and widely known among all Spanish-speaking Bible readers). Option C (Explicit Alternative — rejected as risk of appearing polemical; Spanish-speaking world is denominationally diverse, and framing TT against a primarily Protestant tradition could alienate Catholic readers who don't identify with RV. Per Rule 3 corollary, "restraint matters both ways").
-- **Justification:** Option B mirrors the German Luther decision (Entry 2026-04-22-078) and applies the TT transparency philosophy: honest about the tradition it operates within, without deference to it. Additional consideration: RV is primarily Protestant while the Spanish-speaking world is majority Catholic — Option B allows acknowledgment across traditions without favoring either.
+- **Justification:** Option B mirrors the German Luther decision (Entry 2026-04-18-071) and applies the TT transparency philosophy: honest about the tradition it operates within, without deference to it. Additional consideration: RV is primarily Protestant while the Spanish-speaking world is majority Catholic — Option B allows acknowledgment across traditions without favoring either.
 - **Status:** decided — project lead
 - **Applied to:** All future ES chapter files (front matter will reference this decision).
 
@@ -1298,3 +1298,153 @@ Applied from consolidated external proposals (`docs/audit/GENESIS-1-EN-PROPOSAL.
 ---
 
 *Phase 6 (landing page), Phase 9 (domain renames), Phase 11 (John 1) complete. First Greek Scriptures content live. 745 tests passing. [Updated 2026-04-29]*
+
+---
+
+## Entry 2026-05-08-095
+
+- **Verse:** project-wide (PEOPLE.md heading-convention sweep)
+- **Language(s) affected:** PT-BR, DE, ES (Genesis + Matthew)
+- **Rule(s) invoked:** Rule 1 (Controlled Lexical Consistency), Rule 4 (Transliterate Strategic Terms), v3.2 Name-Rendering Policy
+- **Decision:** PEOPLE.md H2 entry headings normalised to `## Transliteration (Familiar)` form across all non-EN files. 40 entries corrected (e.g. DE `## Henoch (Henoch)` → `## Chanokh (Henoch)`; ES `## Eva (Eva)` → `## Chava (Eva)`; ES `## Abrán (Abrán)` → `## Avram (Abrán)`; DE Matthew `## Jesus (Jesus)` → `## Yeshua (Jesus)`; etc.). 22 entries are genuine same-form (e.g. DE `## Adam (Adam)`, ES `## Lot (Lot)`, all-locales `## Tamar (Tamar)`) and added to `scripts/lint-allowlist.txt` rule §0.8.
+- **Alternatives considered:** Per-entry case-by-case retention of familiar-as-primary form (rejected: violates v3.2 name-rendering policy, which requires the source-language transliteration to lead).
+- **Justification:** No translation choice changed — only the *order* of `Translit (Familiar)` enforced per the v3.2 name-rendering policy. The familiar form remains visible in parentheses. The transliteration is canonical (taken from EN PEOPLE.md, which has not changed).
+- **Lint protection:** `scripts/content-lint.sh` rule §0.8 catches regression; allow-list at `scripts/lint-allowlist.txt` documents the genuine same-form cases.
+- **AI provenance:** claude-opus-4-7, 2026-05-08, Phase 1C of `docs/audit/FIX_IMPLEMENTATION.md`
+- **Status:** provisional (pending target-language editor sign-off per Rule 28)
+- **Reviewers:** unassigned
+- **Cross-references:** `docs/audit/FIX_IMPLEMENTATION.md` Phase 1C; `scripts/lint-allowlist.txt`
+
+---
+
+## Entry 2026-05-08-096
+
+- **Verse:** project-wide (PersonEntry data-model expansion)
+- **Language(s) affected:** EN, PT-BR, DE, ES
+- **Rule(s) invoked:** Rule 29 (Companion Governance), anti-ethnogenesis safeguard (`RULES-CORE.md` + Gen 9 §F5 + Gen 10 §F1)
+- **Decision:** `src/domain/content/types.ts` PersonEntry extended with three new optional fields:
+  - `curiosities?: CuriosityEntry[]` — claim-type + confidence labelled per-figure observations, parsed from a `### Curiosities` H3 subsection within an entry (each curiosity an H4).
+  - `generationsFrom?: GenerationEntry[]` — descendant generation count from canonical reference figures (Adam, Noach, Avram, Mosheh, David at present; extensible). Reference type is plain string with locale-aware label registry in `src/domain/content/generation-references.ts`.
+  - `regionsByText?: RegionByText[]` — regions and peoples that the biblical text *itself* names (Cush, Mitsrayim, Kenaan, Bavel, etc.). **Constrained: no speculative modern descent claims.**
+- **Anti-ethnogenesis enforcement (constraint on `regionsByText`):** field accepts only what the biblical text directly names. The PersonCard UI renders a fixed safeguard banner above any `regionsByText` block in all four locales: "Restricted to regions and peoples the biblical text itself names. Per the anti-misuse safeguards in Genesis 9 and 10, this section MUST NOT be read as descent claims about modern peoples or nations." Lint rule §0.10 (path-scoped to PEOPLE.md, warn-only) flags candidate violations of the modern-mapping pattern (Russia, Europe, Africa, Slavic, Aryan, Hamitic, Japhetic peoples, Semitic peoples) for reviewer review.
+- **Alternatives considered:** Speculative "father-of-nation X" / "lived in modern country Y" framing for `regionsByText` (rejected: directly violates the anti-ethnogenesis safeguard the project hardened in Gen 9 §F5 and Gen 10 §F1); discriminated-union type for `GenerationReference` enumerating only current figures (rejected: would require a code change to author Phase 12 entries for new patriarchs).
+- **Provenance categories applied:** All three field types use the existing `ClaimType` and `ConfidenceLevel` vocabularies — no new label system invented (Rule 29 compliance).
+- **Tests:** `src/infrastructure/content/__tests__/people-parser.test.ts` grew from 22 to 40 tests covering exact-match alias resolution per locale, no-overwrite invariant on `father` vs `ageAtFatherhood`, TT-H2 negative test, and Phase 1H new-field parsing for all three fields.
+- **AI provenance:** claude-opus-4-7, 2026-05-08, Phase 1H of `docs/audit/FIX_IMPLEMENTATION.md`
+- **Status:** applied (parser, types, UI, i18n landed; content authoring of new fields is opportunistic — Phase 10 John PEOPLE.md and Phase 12 Genesis 13–50 will populate them)
+- **Cross-references:** `docs/audit/FIX_IMPLEMENTATION.md` Phase 1H; `docs/audit/AUDIT_FIX.md` §3.3 (extensibility), §4.2 (Curiosities format), §4.9 (safeguard pointer); `content/en/genesis/study/CHAPTER-9-CONTEXT.md` §F5; `content/en/genesis/study/CHAPTER-10-CONTEXT.md` §F1
+
+---
+
+*Phase 1 (People-surface foundation) complete. 785 tests passing; build clean (122 static pages); content-lint rules §0.7 + §0.8 cleared, §0.10 surfaces 3 warn-only items for reviewer review. [Updated 2026-05-08]*
+
+---
+
+## Entry 2026-05-08-097
+
+- **Verse:** project-wide (Phase 2 mechanical content sweeps)
+- **Language(s) affected:** EN, PT-BR, DE, ES (chapters, companions, introductions, PEOPLE.md, editorial logs)
+- **Rule(s) invoked:** none (mechanical update; no translation choice changed)
+- **Decision:** Three mechanical sweeps + one tooling fix:
+  - **2A — Ruleset version stamps v3.0/v3.1 → v3.2.** Swept all chapter front matter (`**Methodology:** ... (Ruleset v3.0)` and locale variants), all PEOPLE.md / INTRODUCTION.md / companion / prophecy front matter (`**Ruleset:** v3.0` and locale-bolded variants `**Regelwerk:**`, `**Reglas:**`, `**Regras:**`, `**Conjunto de Regras:**`, `**Conjunto de reglas:**`), parenthetical body references (`(v3.0)` / `(v3.1)`), `**Ruleset version in force:**` lines in editorial logs, and `**Format:** per v3.X Editorial Log Specification` headers. ~179 files touched. Lint rule §0.1 baseline 173 → 0.
+  - **2B — RULES-GS.md ψυχή typo.** Verified already fixed; line 40 reads correctly with proper sentence boundaries. No-op.
+  - **2C — Em-dash sweep.** Replaced ` -- ` (raw double-hyphen-with-spaces) with ` — ` (em-dash) across 43 files: EN Matthew chapters + companions, DE Genesis companions, DE Matthew chapters + companions, PT-BR Matthew chapters + companions, ES Genesis/John/Matthew chapters + companions. Date ranges (`Gen 5:21--27`) and markdown horizontal rules (`---`) untouched. Lint rule §0.2 baseline 3,583 → 0.
+  - **2D — Biome config migration.** `biome.json` migrated from schema 2.0.0 → 2.4.14 via `biome migrate`. Auto-fixed ~150 diagnostics (formatting, import ordering, optional chaining, template literals, unused imports/vars). Disabled two project-justified rules with rationale: `security/noDangerouslySetInnerHtml` (committed-markdown content per STANDARDS §8) and `suspicious/noArrayIndexKey` (static content with stable indices). Added `aria-hidden="true"` to two decorative chevron SVGs (a11y compliance). Excluded `*.css` from Biome (Tailwind v4 `@theme inline` syntax not supported). `pnpm lint` now exits 0 — first time this cycle.
+- **AI provenance:** claude-opus-4-7, 2026-05-08, Phase 2 of `docs/audit/FIX_IMPLEMENTATION.md`
+- **Status:** applied (mechanical, no Rule-28 reviewer matrix required)
+- **Cross-references:** `docs/audit/FIX_IMPLEMENTATION.md` Phase 2; `scripts/content-lint.sh` rules §0.1 + §0.2; `biome.json`
+
+---
+
+*Phase 2 (mechanical content fixes + Biome migration) complete. 789 tests passing; build clean (122 static pages); content-lint §0.1 + §0.2 cleared (in addition to Phase 1's §0.7 + §0.8); pnpm lint passing (Biome 2.4.14 schema). Remaining open: §0.3 (37 ES NT diacritics), §0.4 (6 ES NT Reina-Valera), §0.5 (22 PT-BR unigênito) — all targeted in Phases 3 + 4. [Updated 2026-05-08]*
+
+---
+
+## Entry 2026-05-09-098
+
+- **Verse:** edition-wide (PT-BR)
+- **Language(s) affected:** PT-BR (chapter front matter across Genesis, John, Matthew)
+- **Rule(s) invoked:** RULES-CORE.md §Almeida Tradition Relationship Policy (Portuguese Pre-Translation Requirement)
+- **Decision:** **Almeida Tradition Relationship Policy = Option B (Selective Acknowledgment).**
+  - Translation itself is built from Hebrew/Greek using TT rules, independent of Almeida.
+  - Supplementary materials (appendix, study edition, preface) will acknowledge Almeida's influence on Brazilian Portuguese Bible tradition.
+  - Where TT and Almeida converge, the convergence is noted as both accurately rendering the source.
+  - Where TT and Almeida diverge, the divergence is documented with reasoning (where Almeida smoothed, theologized, or interpreted beyond what the source requires).
+  - This is editorial framing, not methodology. The translation does not change.
+- **Alternatives considered:** Option A (Complete Independence — rejected as unrealistic for Brazilian audience; Almeida ARA/ARC/NVI dominate Brazilian Protestant reading and Catholic readers know it indirectly through cultural reference). Option C (Explicit Alternative — rejected as risk of appearing polemical; "restraint matters both ways" per Rule 3 corollary; the Portuguese-speaking world is denominationally diverse and framing TT against Almeida could alienate Catholic readers tied to CNBB).
+- **Justification:** Option B mirrors the Luther decision (Entry 2026-04-18-071) and the Reina-Valera decision (Entry 2026-04-25-083), applying the same TT transparency philosophy to PT-BR positioning: honest about the tradition it operates within, without deference to it. Almeida 1681 was a full-Bible translation — Old Testament and New — so the policy applies uniformly across PT-BR Genesis, John, and Matthew chapters.
+- **AI provenance:** claude-opus-4-7, 2026-05-09, Phase 6A of `docs/audit/FIX_IMPLEMENTATION.md` (gap surfaced when re-verifying NOT VERIFIED item 13 — RULES-CORE.md required the decision before PT-BR translation began but it was never logged or cascaded to front matter while DE Luther + ES Reina-Valera were)
+- **Status:** decided — project lead
+- **Applied to:** All 12 PT-BR Genesis chapter files + 3 PT-BR John chapter files + 3 PT-BR Matthew chapter files (front matter — line `**Relação com Almeida (Regra CORE):** Opção B — Reconhecimento seletivo. Notam-se convergências/divergências em materiais suplementares.` inserted after the `**Revisores:**` line, mirroring the placement of the Luther line in DE chapters and the RV line in ES chapters). Cross-book applied-to entries: `docs/editorial-log/john.md` (J-017), `docs/editorial-log/matthew.md` (M-012).
+- **Cross-references:** `docs/rules/RULES-CORE.md` §Almeida Tradition Relationship Policy; Luther Entry 2026-04-18-071; Reina-Valera Entry 2026-04-25-083.
+
+---
+
+*Phase 6A — gap closed. Almeida policy now decided and cascaded; all three tradition-relationship policies (Luther DE, RV ES, Almeida PT-BR) at parity. [Updated 2026-05-09]*
+
+---
+
+## Entry 2026-05-09-099
+
+- **Verse:** PT-BR + ES — verse text + overview prose across John 1–3 and Matthew 1–3 (44 instances normalized)
+- **Language(s) affected:** PT-BR, ES
+- **Rule(s) invoked:** RULES-CORE.md Rule 20 (Capitalization) — strict no-theological-capitalization in verse text; Rule 20 escape-hatch (line 447) reserved for explicitly governed exceptions
+- **Decision:** **Cross-locale verse-text title capitalization = Option 2 (normalize PT-BR/ES to lowercase).** EN already uses lowercase ("the son of man", "the son of God", "the lamb of God") in verse text; DE is governed by grammatical noun capitalization (Rule 20 exemption — no change). PT-BR + ES verse text now matches EN — `filho do homem` / `hijo del hombre`, `filho de Deus` / `hijo de Dios`, `o filho` / `el hijo` (when standalone reference to Jesus/the Son). **Title Case retained inside notes (`> -` blockquoted commentary) and headings (`#`) when discussing the title as a scholarly object** — this preserves the EN convention where capitalized "Son of Man" appears in notes as "the recognized translation" (per EN John 1:51 note: "the TT renders the traditional form 'Son of Man' as it has become the recognized translation"). DE remains untouched (German grammatical noun capitalization governs).
+- **Alternatives considered:**
+  - Option 1 (Normalize EN to Title Case) — rejected: would import recognized-title convention into verse text, violating Rule 20's strict reading "Don't capitalize interpretive terms beyond what the source text justifies." Greek source has no capitalization.
+  - Option 3 (Document the asymmetry as per-locale governance choice) — rejected: cross-locale inconsistency without principled basis would re-create the surface inconsistency the project's editorial-log workflow exists to prevent. Allowing each locale a different title convention would also confuse cross-alignment review.
+- **Justification:** EN already implements the strictest Rule 20 reading (lowercase "the son of man" in verse text; Title Case "Son of Man" in scholarly notes). PT-BR/ES had been exercising the Rule 20 line-447 escape hatch ("target-language convention for fixed titles") *without* an editorial-log entry — that's the governance gap the Phase 6A audit surfaced. Choosing Option 2 aligns all four locales (EN strict + DE grammatical-exempt + PT-BR/ES strict-aligned) and removes the asymmetry. Note-context Title Case preservation matches EN's "recognized translation" exception.
+- **Application — perl per-line discrimination:** Lines starting with `>` (blockquote/note), `#` (heading), or `|` (table row) were skipped; only verse text + overview prose lowercased. Patterns applied:
+  - PT-BR: `Filho do Homem` → `filho do homem`; `Filho de Deus` → `filho de Deus`; `Filho Único` → `filho único`; `o Filho ` → `o filho ` (standalone reference)
+  - ES: `Hijo del Hombre` → `hijo del hombre`; `Hijo de Dios` → `hijo de Dios`; `Hijo Único` → `hijo único`; `el Hijo ` → `el hijo ` (standalone reference)
+  - Sentence-initial cases (e.g., `O Filho do Homem substitui...` at line start) lowercased the title only — the article (`O` / `El`) stays capitalized as sentence-start, yielding correct `O filho do homem...` / `El hijo del hombre...`.
+- **Files touched:** `content/{pt-br,es}/{john,matthew}/CHAPTER-{1,2,3}.md` + `content/{pt-br,es}/{john,matthew}/study/CHAPTER-{1,2,3}-CONTEXT.md` (24 files surveyed; replacements applied where present).
+- **Counts:**
+  - PT-BR verse-text `filho do homem`: 22 standalone occurrences (was 36 capitalized; 14 inside notes preserved)
+  - ES verse-text `hijo del hombre`: 22 standalone occurrences (was 36 capitalized; 14 inside notes preserved)
+  - PT-BR `filho de Deus`: 7 → 0 capitalized in verse text
+  - ES `hijo de Dios`: 8 → 0 capitalized in verse text
+- **Untouched (intentionally):**
+  - DE — grammatical noun capitalization governs (Rule 20 exemption, line 449 + 456 explicit example)
+  - `Senhor` / `Señor` (64 / 65 occurrences) — Rule 25 / Option C YHWH-substitute in OT-quotation contexts; legitimately capitalized
+  - `Cristo` (2 PT-BR + 2 ES), `Messias` (5 PT-BR), `Verbo` (1 each — grammar-term in glossary tables) — all in note/companion/table contexts, no change
+  - `Theotokos`, `Logos` (when transliterated source-language preservation) — proper-noun transliterations, no change
+- **AI provenance:** claude-opus-4-7, 2026-05-09, Phase 6A audit follow-up of `docs/audit/FIX_IMPLEMENTATION.md` (gap surfaced in Phase 6A audit pass when initial closure incorrectly claimed cross-locale lowercase parity)
+- **Status:** decided — project lead (Option 2 selected 2026-05-09)
+- **Applied to:** PT-BR + ES John 1–3 chapters + companions; PT-BR + ES Matthew 1–3 chapters + companions. Cross-book applied-to entries: `docs/editorial-log/john.md` (J-018), `docs/editorial-log/matthew.md` (M-013).
+- **Cross-references:** `docs/rules/RULES-CORE.md` Rule 20 (line 419+); `docs/audit/FIX_IMPLEMENTATION.md` Phase 6A audit closure (2026-05-09); `docs/feedback/FEEDBACK.md` item 14.
+
+---
+
+*Phase 6A audit — item 14 closed. EN strict + DE grammatical-exempt + PT-BR/ES strict-aligned. Cross-locale title capitalization governance now coherent. [Updated 2026-05-09]*
+
+---
+
+## Entry 2026-05-09-100
+
+- **Verse:** Genesis 9:1, 9:13, 9:24 (across all 4 locales)
+- **Language(s) affected:** EN, PT-BR, DE, ES
+- **Rule(s) invoked:** Rule 29 §Tier 2 Relocation Protocol (line 734) — "Tier 2 notes should normally stay under 3 sentences. Move material to companion files when it contains: ANE parallels, later reception history, statistical analysis, theological trajectories, extended archaeology/history, multiple scholarly positions, modern scientific comparison, or anti-misuse discussion that requires more than a short warning."
+- **Decision:** **Phase 6B pilot — Tier 2 note bloat protocol validated on Genesis 9.** No translation choice changed; mechanical condense-and-pointer. Three representative oversize notes (4-sentence each) tightened to ≤3 sentences with explicit pointer to the companion section that already carries the fuller material:
+  - **9:1 — *פְּרוּ וּרְבוּ* "Be fruitful and multiply"** → companion §A1 (re-creation comparison Gen 1:28 vs Gen 9:1, full intertextual analysis)
+  - **9:13 — *קַשְׁתִּי* "my bow"** → companion §A5 + §D1 (war-bow martial semantics; full HB lexical evidence)
+  - **9:24 — *בְּנוֹ הַקָּטָן* "his youngest son"** → companion §G3 (birth-order puzzle; multiple proposals enumerated)
+- **Technique documented (per Rule 29 §734 protocol):**
+  1. **Identify candidate notes** — `python3` regex over `^> - \*\*` blockquote bullets; flag those with ≥4 sentence-end punctuation tokens (`. ` / `? ` / `! ` followed by space or end of string).
+  2. **Inspect content type** — does the note carry companion-grade material (ANE parallels, multiple scholarly positions, intertextual analysis, etc. per the protocol's enumerated list)?
+  3. **Locate receiving companion section** — search the chapter's `study/CHAPTER-N-CONTEXT.md` for an existing entry that covers the material; if absent, choose the section that fits (A textual / B ANE / C historical / D linguistic / E scientific / F reception / G curiosities / I world-at-the-time).
+  4. **Tighten Tier 2** — reduce to ≤3 sentences; preserve glossary term, Hebrew, transliteration, and core takeaway.
+  5. **Append explicit pointer** — `→ For [topic], see companion §X` (locale-translated: `companheiro §X`, `Begleiter §X`, `compañero §X`).
+  6. **Cross-locale propagate** — apply the same condense-and-pointer to PT-BR / DE / ES with locale-appropriate wording.
+  7. **Validate** — re-run the oversize-note detector; verify count drops; run `pnpm test`, `pnpm content:lint`.
+- **Counts (Genesis 9, post-pilot):** 7 oversize notes per locale → 4 oversize per locale. The 4 remaining (lines ~161 *שִׁרְצוּ*, ~181 *מֵקִים*, ~327 *הַשִּׂמְלָה*, ~355 *אָרוּר כְּנָעַן*) are borderline (4-sentence) lexical/grammatical notes — they don't carry the companion-grade content types Rule 29 §734 enumerates as relocation-triggering. Tightening these without relocation is a separate readability pass (Phase 7 territory).
+- **Companion sections receiving the relocations:** all three target sections (§A1, §A5, §D1, §G3) already exist with fuller content authored in earlier chapter cycles. **No companion file was edited** in this pilot — the receiving sections were already in place. The Rule-29 §734 step (4) "Update Section H source provenance" is therefore not triggered for these three notes (no new sources cited that weren't already in §H).
+- **PT-BR §B → §G3 reference fix:** PT-BR Gen 9 *beno haqatan* note carried a stale pointer ("veja o companheiro Seção [B]") — corrected to `§G3` as part of this pilot.
+- **AI provenance:** claude-opus-4-7, 2026-05-09, Phase 6B pilot of `docs/audit/FIX_IMPLEMENTATION.md`
+- **Status:** applied (mechanical relocation; no translation choice or interpretive framing changed — Rule 29 §734 step 5 not triggered)
+- **Cross-references:** `docs/audit/FIX_IMPLEMENTATION.md` Phase 6B; `docs/rules/RULES-CORE.md` Rule 29 §Tier 2 Relocation Protocol (line 734); `content/en/genesis/study/CHAPTER-9-CONTEXT.md` §A1/A5/D1/G3
+- **Deferred:** propagation to remaining 17 chapters (Genesis 1–8, 10–12 + John 1–3 + Matthew 1–3 = 17). Rule 29 §734 protocol now validated; chapter-by-chapter propagation is a future phase per FIX_IMPLEMENTATION.md Phase 6B estimate (~27h across 18 chapters; pilot took ~1h for 1 chapter × 4 locales).
+
+---
+
+*Phase 6B pilot — Rule 29 §Tier 2 Relocation Protocol validated. 12 edits across Gen 9 in 4 locales (3 notes × 4 locales). Oversize notes 7 → 4 per locale. Technique documented. Remaining chapters deferred. [Updated 2026-05-09]*

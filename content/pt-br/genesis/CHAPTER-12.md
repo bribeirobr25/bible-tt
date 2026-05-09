@@ -7,10 +7,11 @@
 **Texto Base:** Biblia Hebraica Stuttgartensia, 5ª ed. rev. (Stuttgart: Deutsche Bibelgesellschaft, 1997)
 **Edição:** Edição Transparente
 **Idioma:** Português Brasileiro
-**Metodologia:** Sistema de Governança de 29 Regras (Conjunto de Regras v3.0)
+**Metodologia:** Sistema de Governança de 29 Regras (Conjunto de Regras v3.3)
 **Política do Nome Divino (Regra 25):** Opção A — Consonantal (YHWH).
 **Status:** provisório — aguardando revisão por pares (Regra 28)
 **Revisores:** Hebraísta: não atribuído | Editor PT: não atribuído | Alinhamento cruzado: não atribuído
+**Relação com Almeida (Regra CORE):** Opção B — Reconhecimento seletivo. Notam-se convergências/divergências em materiais suplementares.
 
 ---
 
@@ -44,13 +45,13 @@
 
 ## VISÃO GERAL DO CAPÍTULO
 
-**O que acontece:** YHWH ordena a Avram que deixe a sua terra, o seu nascimento e a casa de seu pai, rumo a um destino não nomeado — três separações ascendentes em intimidade. A promessa é quíntupla: grande nação, bênção, grande nome, bênção para outros, e todas as famílias do solo abençoadas/abençoando-se nele. Avram parte, levando Sarai, Lot, posses e as pessoas que haviam feito em Charan. Ele passa por Kenaan até Shekhem, ao carvalho de Moreh, onde YHWH aparece e promete a terra à sua semente. Avram constrói um altar. Ele se move para a região montanhosa entre Beyt-El e Ai, constrói outro altar e invoca o nome de YHWH. Ele viaja rumo ao Negev. Uma fome o envia ao Egito. Ele diz a Sarai que diga ser sua irmã. Faraó toma Sarai; Avram prospera. YHWH fere Faraó com grandes pragas. Faraó repreende Avram e o manda embora.
+**O que acontece:** YHWH ordena a Avram (Abrão) que deixe a sua terra, o seu nascimento e a casa de seu pai, rumo a um destino não nomeado — três separações ascendentes em intimidade. A promessa é quíntupla: grande nação, bênção, grande nome, bênção para outros, e todas as famílias do solo abençoadas/abençoando-se nele. Abrão parte, levando Sarai, Lot, posses e as pessoas que haviam feito em Charan. Ele passa por Kenaan (Canaã) até Shekhem (Siquém), ao carvalho de Moreh, onde YHWH aparece e promete a terra à sua semente. Abrão constrói um altar. Ele se move para a região montanhosa entre Beyt-El (Betel) e Ai, constrói outro altar e invoca o nome de YHWH. Ele viaja rumo ao Negev. Uma fome o envia ao Egito. Ele diz a Sarai que diga ser sua irmã. Faraó toma Sarai; Abrão prospera. YHWH fere Faraó com grandes pragas. Faraó repreende Abrão e o manda embora.
 
 **Temas-chave:** O comando *lekh lekha* (reflexivo enfático — "vai-te"); o destino não nomeado (a confiança precede o conhecimento); a bênção quíntupla como semente da vocação de Israel; a cadeia *adamah* continua — "famílias da *adamah*" (12:3); *nivrekhu* — passivo "serão abençoados" ou reflexivo "se abençoarão" (genuinamente ambíguo); construção de altares como reivindicação pela adoração, não pela conquista; "o Kenaani estava então na terra" — o aparte do narrador; a primeira descida ao Egito; o motivo esposa-irmã; os *nega'im* de Faraó prefigurando o Êxodo.
 
 **Observe:** A estrutura de separação em três partes em 12:1 (terra → nascimento → casa do pai); a mudança da fala de Elohim (primevo) para a fala de YHWH (patriarcal); "as pessoas que haviam feito em Charan" (12:5) — *nephesh* usado para pessoas, *asah* (fazer) para adquiri-las; o comentário do narrador "o Kenaani estava então na terra" (12:6) — notado por Ibn Ezra como possivelmente pós-mosaico; as duas palavras de maldição *qalal*/*arar* em 12:3 — maldição leve e maldição pesada, raízes diferentes; a repreensão de Faraó ecoa o padrão de perguntas das confrontações divinas (3:13, 4:10).
 
-**Conexão:** Gn 11:31–32 estabelece a família de Avram em Charan após deixar Ur. Gn 12 cumpre a partida insinuada em 11:31. A *berakhah* de 12:2–3 responde à *arar* de 3:17 e 5:29 — a bênção agora entra como contra-força à maldição sobre a *adamah*. A construção de altares em Shekhem e Beyt-El estabelece sítios que recorrem ao longo de Gênesis (33:18–20, 28:10–22, 35:1–7). A descida ao Egito prefigura o padrão do Êxodo: fome → descida → pragas → partida com riquezas.
+**Conexão:** Gn 11:31–32 estabelece a família de Abrão em Charan após deixar Ur. Gn 12 cumpre a partida insinuada em 11:31. A *berakhah* de 12:2–3 responde à *arar* de 3:17 e 5:29 — a bênção agora entra como contra-força à maldição sobre a *adamah*. A construção de altares em Siquém e Betel estabelece sítios que recorrem ao longo de Gênesis (33:18–20, 28:10–22, 35:1–7). A descida ao Egito prefigura o padrão do Êxodo: fome → descida → pragas → partida com riquezas.
 
 ---
 
@@ -60,17 +61,17 @@
 
 ---
 
-¹E YHWH disse a Avram: "Vai-te da tua terra e do teu nascimento e da casa de teu pai, para a terra que eu te mostrarei. ²E eu farei de ti uma grande nação, e te abençoarei, e engrandecerei o teu nome — e sê uma bênção. ³E abençoarei os que te abençoarem, e o que te amaldiçoar eu amaldiçoarei, e todas as famílias do solo serão abençoadas / se abençoarão em ti."
+¹E YHWH disse a Avram (Abrão): "Vai-te da tua terra e do teu nascimento e da casa de teu pai, para a terra que eu te mostrarei. ²E eu farei de ti uma grande nação, e te abençoarei, e engrandecerei o teu nome — e sê uma bênção. ³E abençoarei os que te abençoarem, e o que te amaldiçoar eu amaldiçoarei, e todas as famílias do solo serão abençoadas / se abençoarão em ti."
 
-⁴E Avram foi como YHWH lhe havia falado, e Lot foi com ele; e Avram *tinha* setenta e cinco anos, filho de, quando saiu de Charan. ⁵E Avram tomou Sarai sua esposa, e Lot o filho de seu irmão, e todos os seus bens que haviam acumulado, e as pessoas que haviam feito em Charan, e saíram para ir à terra de Kenaan, e chegaram à terra de Kenaan.
+⁴E Abrão foi como YHWH lhe havia falado, e Lot foi com ele; e Abrão *tinha* setenta e cinco anos, filho de, quando saiu de Charan. ⁵E Abrão tomou Sarai sua esposa, e Lot o filho de seu irmão, e todos os seus bens que haviam acumulado, e as pessoas que haviam feito em Charan, e saíram para ir à terra de Kenaan (Canaã), e chegaram à terra de Canaã.
 
-⁶E Avram passou pela terra até o lugar de Shekhem, até o carvalho de Moreh; e o Kenaani *estava* então na terra. ⁷E YHWH apareceu a Avram e disse: "À tua semente darei esta terra." E ele construiu ali um altar a YHWH que lhe havia aparecido. ⁸E ele se moveu dali para a região montanhosa a leste de Beyt-El e armou a sua tenda — Beyt-El *ficava* a oeste e Ai *ficava* a leste — e ele construiu ali um altar a YHWH e invocou o nome de YHWH. ⁹E Avram viajou, indo e viajando rumo ao Negev.
+⁶E Abrão passou pela terra até o lugar de Shekhem (Siquém), até o carvalho de Moreh; e o Kenaani *estava* então na terra. ⁷E YHWH apareceu a Abrão e disse: "À tua semente darei esta terra." E ele construiu ali um altar a YHWH que lhe havia aparecido. ⁸E ele se moveu dali para a região montanhosa a leste de Beyt-El (Betel) e armou a sua tenda — Betel *ficava* a oeste e Ai *ficava* a leste — e ele construiu ali um altar a YHWH e invocou o nome de YHWH. ⁹E Abrão viajou, indo e viajando rumo ao Negev.
 
-¹⁰E houve fome na terra, e Avram desceu ao Egito para peregrinar ali, pois a fome *era* pesada na terra. ¹¹E aconteceu que quando se aproximou para entrar no Egito, ele disse a Sarai sua esposa: "Eis que eu sei que tu *és* uma mulher bela de aparência. ¹²E será que quando os egípcios te virem, e dirão: 'Esta *é* a esposa dele,' e me matarão, e a ti deixarão viver. ¹³Dize, por favor, *que* tu *és* minha irmã, para que me vá bem por tua causa, e a minha vida viva por causa de ti."
+¹⁰E houve fome na terra, e Abrão desceu ao Egito para peregrinar ali, pois a fome *era* pesada na terra. ¹¹E aconteceu que quando se aproximou para entrar no Egito, ele disse a Sarai sua esposa: "Eis que eu sei que tu *és* uma mulher bela de aparência. ¹²E será que quando os egípcios te virem, e dirão: 'Esta *é* a esposa dele,' e me matarão, e a ti deixarão viver. ¹³Dize, por favor, *que* tu *és* minha irmã, para que me vá bem por tua causa, e a minha vida viva por causa de ti."
 
-¹⁴E aconteceu que quando Avram veio ao Egito, os egípcios viram a mulher, que era muito bela. ¹⁵E os oficiais de Faraó a viram e a louvaram a Faraó, e a mulher foi tomada *para* a casa de Faraó. ¹⁶E a Avram ele fez bem por causa dela, e ele teve rebanho e gado e jumentos e servos e servas e jumentas e camelos.
+¹⁴E aconteceu que quando Abrão veio ao Egito, os egípcios viram a mulher, que era muito bela. ¹⁵E os oficiais de Faraó a viram e a louvaram a Faraó, e a mulher foi tomada *para* a casa de Faraó. ¹⁶E a Abrão ele fez bem por causa dela, e ele teve rebanho e gado e jumentos e servos e servas e jumentas e camelos.
 
-¹⁷E YHWH feriu Faraó *com* grandes pragas, e a sua casa, por causa de Sarai, a esposa de Avram. ¹⁸E Faraó chamou Avram e disse: "Que *é* isto que me fizeste? Por que não me disseste que ela *é* tua esposa? ¹⁹Por que disseste: 'Ela *é* minha irmã,' e eu a tomei para mim como esposa? E agora, eis a tua esposa — toma-a e vai." ²⁰E Faraó ordenou homens a seu respeito, e o mandaram embora, e a sua esposa, e tudo o que *era* seu.
+¹⁷E YHWH feriu Faraó *com* grandes pragas, e a sua casa, por causa de Sarai, a esposa de Abrão. ¹⁸E Faraó chamou Abrão e disse: "Que *é* isto que me fizeste? Por que não me disseste que ela *é* tua esposa? ¹⁹Por que disseste: 'Ela *é* minha irmã,' e eu a tomei para mim como esposa? E agora, eis a tua esposa — toma-a e vai." ²⁰E Faraó ordenou homens a seu respeito, e o mandaram embora, e a sua esposa, e tudo o que *era* seu.
 
 ---
 
@@ -78,7 +79,7 @@
 
 ### **Versículo 1**
 
-E YHWH disse a Avram: "Vai-te da tua terra e do teu nascimento e da casa de teu pai, para a terra que eu te mostrarei.
+E YHWH disse a Avram (Abrão): "Vai-te da tua terra e do teu nascimento e da casa de teu pai, para a terra que eu te mostrarei.
 
 > **📝 NOTAS**
 >
@@ -86,7 +87,7 @@ E YHWH disse a Avram: "Vai-te da tua terra e do teu nascimento e da casa de teu 
 > - **לֶךְ־לְךָ** (*lekh lekha*) = "Vai-te" / "Vai para ti mesmo." A forma dupla — imperativo de *halakh* (ir) mais o *lamed* + pronome de segunda pessoa — é enfática e rara. Aparece apenas aqui e em Gn 22:2 (*lekh lekha* para a amarração de Yitschaq). A força reflexiva/enfática é debatida: "vai para ti" (para teu benefício), "vai por ti mesmo" (sozinho), ou simplesmente um intensificador. A TT traduz "Vai-te" para preservar algo do duplo *lekh* sem importar uma única interpretação.
 >
 > 🔴 **TRÊS SEPARAÇÕES — INTIMIDADE ASCENDENTE**
-> - "Da tua terra (*me-artsekha*) e do teu nascimento (*u-mi-moladetekha*) e da casa de teu pai (*u-mi-beyt avikha*)." A estrutura tripartite se move do amplo ao estreito, do público ao íntimo: país → clã/grupo de parentesco → família. Cada separação é mais custosa que a anterior. O destino não nomeado ("a terra que eu te mostrarei") intensifica a exigência: a Avram é dito o que deixar mas não para onde vai.
+> - "Da tua terra (*me-artsekha*) e do teu nascimento (*u-mi-moladetekha*) e da casa de teu pai (*u-mi-beyt avikha*)." A estrutura tripartite se move do amplo ao estreito: país → clã → família. O destino não nomeado ("a terra que eu te mostrarei") intensifica a exigência — Avram é dito o que deixar mas não para onde vai. Para discussão mais completa, veja o companheiro Seção [C].
 >
 > 🟡 **YHWH FALA — NÃO ELOHIM**
 > - A história primeva (Gn 1–11) usa ambos os nomes divinos, mas o chamado patriarcal começa com YHWH — o nome pessoal, relacional. A mudança marca a transição da narrativa cósmica para a aliancial.
@@ -100,7 +101,7 @@ E eu farei de ti uma grande nação, e te abençoarei, e engrandecerei o teu nom
 > **📝 NOTAS**
 >
 > 🔴 **PROMESSA QUÍNTUPLA (12:2–3)**
-> - A promessa se desdobra ao longo dos vv.2–3 em cinco cláusulas: (1) "Farei de ti uma grande nação"; (2) "Te abençoarei"; (3) "Engrandecerei o teu nome"; (4) "Sê uma bênção"; (5) "Todas as famílias do solo serão abençoadas / se abençoarão em ti." A estrutura muda em (4) de declarativa ("Eu farei...") para imperativa ("sê uma bênção") — Avram se torna o agente, não meramente o recipiente.
+> - A promessa se desdobra ao longo dos vv.2–3 em cinco cláusulas: (1) "Farei de ti uma grande nação"; (2) "Te abençoarei"; (3) "Engrandecerei o teu nome"; (4) "Sê uma bênção"; (5) "Todas as famílias do solo serão abençoadas / se abençoarão em ti." A estrutura muda em (4) de declarativa ("Eu farei...") para imperativa ("sê uma bênção") — Abrão se torna o agente, não meramente o recipiente.
 >
 > 🟢 **"GRANDE NOME" (*gadol*)**
 > - **וַאֲגַדְּלָה שְׁמֶךָ** = "e engrandecerei o teu nome." Ecoa Gn 11:4 onde os construtores de Babel dizem "façamos para nós um nome (*shem*)." O que eles arrebataram, Deus agora concede. O jogo de palavras com *shem* (nome) continua a partir do filho de Noach, Shem (9:26).
@@ -117,16 +118,16 @@ E abençoarei os que te abençoarem, e o que te amaldiçoar eu amaldiçoarei, e 
 > - "O que te amaldiçoar (*meqallelekha*) eu amaldiçoarei (*a'or*)." Duas raízes diferentes: **קָלַל** (*qalal*) = tratar levianamente, desprezar, amaldiçoar (mais leve); **אָרַר** (*arar*) = amaldiçoar (pesada, formal, a mesma raiz de Gn 3:14, 3:17, 4:11, 9:25). Aqueles que tratarem Avram levianamente receberão a maldição mais pesada. A assimetria é deliberada: a resposta excede a provocação.
 >
 > 🔴 **CRÍTICO — *NIVREKHU* (PASSIVO OU REFLEXIVO?)**
-> - **וְנִבְרְכוּ בְךָ כֹּל מִשְׁפְּחֹת הָאֲדָמָה** = "e todas as famílias do solo *nivrekhu* em ti." A forma nifal *nivrekhu* é genuinamente ambígua: (1) passiva — "serão abençoadas" (Deus abençoa todas as famílias através de Avram); (2) reflexiva — "se abençoarão" (todas as famílias usarão Avram como padrão de bênção). Ambas as leituras têm apoio antigo. A TT preserva a ambiguidade com uma barra conforme Regra 22: "serão abençoadas / se abençoarão."
+> - **וְנִבְרְכוּ בְךָ כֹּל מִשְׁפְּחֹת הָאֲדָמָה** = "e todas as famílias do solo *nivrekhu* em ti." A forma nifal *nivrekhu* é genuinamente ambígua: passiva ("serão abençoadas") ou reflexiva ("se abençoarão"). Ambas as leituras têm apoio textual antigo — POSSÍVEL para ambas. A TT preserva a ambiguidade com barra conforme Regra 22. Para discussão mais completa, veja o companheiro Seção [C].
 >
 > 🟢 **"FAMÍLIAS DO SOLO" (*mishpechot ha-adamah*)**
-> - *Adamah* — não *erets* (terra). "Solo" — a mesma *adamah* da qual *adam* foi formado (2:7), que foi amaldiçoada (3:17), que clamou com o sangue de Hevel (4:10), da qual Noach deveria consolar (5:29). A bênção a "todas as famílias da *adamah*" é uma contra-força direta à maldição sobre a *adamah*. A cadeia continua.
+> - *Adamah* — não *erets* (terra). "Solo" — a mesma *adamah* da qual *adam* foi formado (2:7), que foi amaldiçoada (3:17), que clamou com o sangue de Hevel (Abel) (4:10), da qual Noach (Noé) deveria consolar (5:29). A bênção a "todas as famílias da *adamah*" é uma contra-força direta à maldição sobre a *adamah*. A cadeia continua.
 
 ---
 
 ### **Versículo 4**
 
-E Avram foi como YHWH lhe havia falado, e Lot foi com ele; e Avram *tinha* setenta e cinco anos, filho de, quando saiu de Charan.
+E Abrão foi como YHWH lhe havia falado, e Lot foi com ele; e Abrão *tinha* setenta e cinco anos, filho de, quando saiu de Charan.
 
 > **📝 NOTAS**
 >
@@ -140,7 +141,7 @@ E Avram foi como YHWH lhe havia falado, e Lot foi com ele; e Avram *tinha* seten
 
 ### **Versículo 5**
 
-E Avram tomou Sarai sua esposa, e Lot o filho de seu irmão, e todos os seus bens que haviam acumulado, e as pessoas que haviam feito em Charan, e saíram para ir à terra de Kenaan, e chegaram à terra de Kenaan.
+E Abrão tomou Sarai sua esposa, e Lot o filho de seu irmão, e todos os seus bens que haviam acumulado, e as pessoas que haviam feito em Charan, e saíram para ir à terra de Kenaan (Canaã), e chegaram à terra de Canaã.
 
 > **📝 NOTAS**
 >
@@ -148,18 +149,18 @@ E Avram tomou Sarai sua esposa, e Lot o filho de seu irmão, e todos os seus ben
 > - **וְאֶת־הַנֶּפֶשׁ אֲשֶׁר־עָשׂוּ בְחָרָן** = "e as pessoas (*nephesh*) que haviam feito (*asu*) em Charan." *Nephesh* aqui = pessoas. *Asah* = fazer/adquirir. O verbo "fazer" para adquirir pessoas é marcante — provavelmente se refere a servos ou membros da casa ganhos em Charan. Targum Onqelos: "almas que haviam convertido." O texto diz "feito."
 >
 > 🔵 **"E CHEGARAM À TERRA DE KENAAN"**
-> - A repetição — "saíram para ir à terra de Kenaan, e chegaram à terra de Kenaan" — emoldura a jornada. 11:31: Terach "saiu... para ir à terra de Kenaan, e chegaram a Charan e ali se estabeleceram." Terach parou antes. Avram completa o que Terach não completou.
+> - A repetição — "saíram para ir à terra de Canaã, e chegaram à terra de Canaã" — emoldura a jornada. 11:31: Terach (Terá) "saiu... para ir à terra de Canaã, e chegaram a Charan e ali se estabeleceram." Terá parou antes. Abrão completa o que Terá não completou.
 
 ---
 
 ### **Versículo 6**
 
-E Avram passou pela terra até o lugar de Shekhem, até o carvalho de Moreh; e o Kenaani *estava* então na terra.
+E Abrão passou pela terra até o lugar de Shekhem (Siquém), até o carvalho de Moreh; e o Kenaani *estava* então na terra.
 
 > **📝 NOTAS**
 >
 > 🟢 **SHEKHEM**
-> - **שְׁכֶם** (*Shekhem*) = primeiro local nomeado na jornada de Avram por Kenaan. O sítio recorre: Yaakov compra terra ali (33:18–19), os ossos de Yosef são ali sepultados (Js 24:32), e a renovação da aliança de Yehoshua ocorre ali (Js 24:1). A primeira parada de Avram se torna um sítio crítico na memória de Israel.
+> - **שְׁכֶם** (*Shekhem*) = primeiro local nomeado na jornada de Avram por Kenaan. Sítio recorrente na narrativa bíblica subsequente (33:18–19, Js 24). Para discussão mais completa, veja o companheiro Seção [C].
 >
 > 🟢 **"CARVALHO DE MOREH" (*elon Moreh*)**
 > - **אֵלוֹן מוֹרֶה** = "carvalho de Moreh" ou "grande árvore de Moreh." *Elon* = carvalho ou terebinto (árvore grande). *Moreh* = mestre/ensino/oráculo (da raiz י-ר-ה, ensinar/dirigir). Se "Moreh" é um nome pessoal, um topônimo, ou uma descrição ("a árvore do ensino" / "o carvalho do oráculo") é INCERTO. A TT translitera e nota.
@@ -171,7 +172,7 @@ E Avram passou pela terra até o lugar de Shekhem, até o carvalho de Moreh; e o
 
 ### **Versículo 7**
 
-E YHWH apareceu a Avram e disse: "À tua semente darei esta terra." E ele construiu ali um altar a YHWH que lhe havia aparecido.
+E YHWH apareceu a Abrão e disse: "À tua semente darei esta terra." E ele construiu ali um altar a YHWH que lhe havia aparecido.
 
 > **📝 NOTAS**
 >
@@ -188,7 +189,7 @@ E YHWH apareceu a Avram e disse: "À tua semente darei esta terra." E ele constr
 
 ### **Versículo 8**
 
-E ele se moveu dali para a região montanhosa a leste de Beyt-El e armou a sua tenda — Beyt-El *ficava* a oeste e Ai *ficava* a leste — e ele construiu ali um altar a YHWH e invocou o nome de YHWH.
+E ele se moveu dali para a região montanhosa a leste de Beyt-El (Betel) e armou a sua tenda — Betel *ficava* a oeste e Ai *ficava* a leste — e ele construiu ali um altar a YHWH e invocou o nome de YHWH.
 
 > **📝 NOTAS**
 >
@@ -199,13 +200,13 @@ E ele se moveu dali para a região montanhosa a leste de Beyt-El e armou a sua t
 > - **וַיִּקְרָא בְּשֵׁם יהוה** = "e ele invocou o nome de YHWH." Mesma frase de Gn 4:26 ("então *se* começou a invocar o nome de YHWH") e 13:4 (Avram retorna a este altar). A frase vincula a adoração de Avram à adoração humana mais antiga registrada em Gênesis.
 >
 > 🔵 **DOIS ALTARES**
-> - Shekhem (v.7): altar construído em resposta à aparição de YHWH. Beyt-El (v.8): altar construído, e Avram invoca o nome de YHWH. Dois altares, dois atos de adoração — Avram marca a terra com adoração antes de qualquer reivindicação de posse.
+> - Siquém (v.7): altar construído em resposta à aparição de YHWH. Betel (v.8): altar construído, e Abrão invoca o nome de YHWH. Dois altares, dois atos de adoração — Abrão marca a terra com adoração antes de qualquer reivindicação de posse.
 
 ---
 
 ### **Versículo 9**
 
-E Avram viajou, indo e viajando rumo ao Negev.
+E Abrão viajou, indo e viajando rumo ao Negev.
 
 > **📝 NOTAS**
 >
@@ -219,15 +220,15 @@ E Avram viajou, indo e viajando rumo ao Negev.
 
 ### **Versículo 10**
 
-E houve fome na terra, e Avram desceu ao Egito para peregrinar ali, pois a fome *era* pesada na terra.
+E houve fome na terra, e Abrão desceu ao Egito para peregrinar ali, pois a fome *era* pesada na terra.
 
 > **📝 NOTAS**
 >
 > 🔴 **PRIMEIRA FOME, PRIMEIRA DESCIDA AO EGITO**
-> - **וַיְהִי רָעָב בָּאָרֶץ** = "E houve fome na terra." Primeira fome em Gênesis. A terra prometida não pode sustentar Avram. A ironia: Deus promete a terra (v.7), então a fome o expele dela. Isto se torna um padrão: a fome move os patriarcas (26:1, Yitschaq; 42:1–2, os filhos de Yaakov).
+> - **וַיְהִי רָעָב בָּאָרֶץ** = "E houve fome na terra." Primeira fome em Gênesis — a ironia: Deus promete a terra (v.7) e a fome o expele dela. A fome como motor narrativo patriarcal e o padrão de prefiguração do Êxodo são discutidos no companheiro. Para discussão mais completa, veja o companheiro Seção [C].
 >
 > 🔵 **"DESCEU" (*vayyered*)**
-> - **וַיֵּרֶד** = "e ele desceu." O Egito é sempre "abaixo" de Kenaan — geográfica e teologicamente. *Yarad* (descer) para ir ao Egito; *alah* (subir) para retornar. A primeira descida ao Egito prefigura a grande descida (Yaakov, Gn 46) e o Êxodo.
+> - **וַיֵּרֶד** = "e ele desceu." *Yarad* (descer) para o Egito; *alah* (subir) para retornar — o padrão direcional é consistente. Para discussão mais completa, veja o companheiro Seção [C].
 >
 > 🟢 **"PEREGRINAR" (*lagur*)**
 > - **לָגוּר** = "peregrinar." Um *ger* (peregrino) é um residente temporário sem direitos sobre a terra. Avram vai não para se estabelecer mas para sobreviver. A palavra *ger* definirá a identidade de Israel no Egito (Êx 22:20, 23:9).
@@ -252,7 +253,7 @@ E será que quando os egípcios te virem, e dirão: 'Esta *é* a esposa dele,' e
 > **📝 NOTAS**
 >
 > 🔵 **O MEDO DE AVRAM**
-> - A lógica é explícita: os egípcios matarão o marido para tomar a esposa. Avram antecipa assassinato. O texto não avalia se seu medo é justificado — registra seu raciocínio.
+> - A lógica é explícita: os egípcios matarão o marido para tomar a esposa. Abrão antecipa assassinato. O texto não avalia se seu medo é justificado — registra seu raciocínio.
 
 ---
 
@@ -262,8 +263,11 @@ Dize, por favor, *que* tu *és* minha irmã, para que me vá bem por tua causa, 
 
 > **📝 NOTAS**
 >
+> 🟡 **NÍVEL 2 — NOTA DE RECEPÇÃO**
+> - Esta passagem tem história de recepção documentada. Veja o companheiro Seção F para contexto sobre o episódio esposa-irmã, incluindo seu uso para justificar o engano e suas implicações para a agência de Sarai.
+>
 > 🔴 **O PEDIDO ESPOSA-IRMÃ**
-> - **אִמְרִי־נָא אֲחֹתִי אָתְּ** = "Dize, por favor, minha irmã tu *és*." Avram pede a Sarai que deturpe sua relação. O *na* (por favor) é uma partícula de cortesia — ele pede, não ordena. O motivo declarado é autopreservação: "para que me vá bem... e a minha vida viva por causa de ti." Este padrão se repete: Gn 20:2 (Avraham e Avimelekh), Gn 26:7 (Yitschaq e Rivqah). O texto relata sem comentário moral.
+> - **אִמְרִי־נָא אֲחֹתִי אָתְּ** = "Dize, por favor, minha irmã tu *és*." O *na* (por favor) é partícula de cortesia — Avram pede, não ordena. O motivo declarado é autopreservação. O padrão se repete em 20:2 e 26:7 — debate histórico-literário discutido no companheiro. O texto relata sem comentário moral.
 >
 > 🟡 **O SILÊNCIO DE SARAI**
 > - Sarai não fala neste capítulo. Falam sobre ela (v.11), falam para ela (v.13), é tomada (v.15) e devolvida (v.19) — mas suas palavras não são registradas. O texto não fornece a perspectiva dela.
@@ -272,7 +276,7 @@ Dize, por favor, *que* tu *és* minha irmã, para que me vá bem por tua causa, 
 
 ### **Versículo 14**
 
-E aconteceu que quando Avram veio ao Egito, os egípcios viram a mulher, que era muito bela.
+E aconteceu que quando Abrão veio ao Egito, os egípcios viram a mulher, que era muito bela.
 
 ---
 
@@ -292,7 +296,7 @@ E os oficiais de Faraó a viram e a louvaram a Faraó, e a mulher foi tomada *pa
 
 ### **Versículo 16**
 
-E a Avram ele fez bem por causa dela, e ele teve rebanho e gado e jumentos e servos e servas e jumentas e camelos.
+E a Abrão ele fez bem por causa dela, e ele teve rebanho e gado e jumentos e servos e servas e jumentas e camelos.
 
 > **📝 NOTAS**
 >
@@ -306,7 +310,7 @@ E a Avram ele fez bem por causa dela, e ele teve rebanho e gado e jumentos e ser
 
 ### **Versículo 17**
 
-E YHWH feriu Faraó *com* grandes pragas, e a sua casa, por causa de Sarai, a esposa de Avram.
+E YHWH feriu Faraó *com* grandes pragas, e a sua casa, por causa de Sarai, a esposa de Abrão.
 
 > **📝 NOTAS**
 >
@@ -314,16 +318,16 @@ E YHWH feriu Faraó *com* grandes pragas, e a sua casa, por causa de Sarai, a es
 > - **וַיְנַגַּע יהוה אֶת־פַּרְעֹה נְגָעִים גְּדֹלִים** = "E YHWH feriu Faraó *com* grandes pragas (*nega'im*)." A raiz נ-ג-ע (*n-g-a*) = ferir, tocar, afligir. *Nega'im* = pragas/aflições. A mesma raiz aparece nas pragas do Êxodo. YHWH fere Faraó para proteger Sarai — intervenção divina onde o plano de Avram a colocou em risco. O texto não descreve quais eram as pragas.
 >
 > 🟡 **YHWH AGE — AVRAM NÃO**
-> - Avram criou a situação; YHWH a resolve. O padrão: falha humana → resgate divino. O texto não registra Avram orando, arrependendo-se, ou agindo. YHWH intervém sem ser pedido.
+> - Avram criou a situação; YHWH a resolve. O padrão: fracasso humano → resgate divino. O texto não registra Avram orando, arrependendo-se ou agindo. YHWH intervém sem ser solicitado.
 >
 > 🔵 **"POR CAUSA DE SARAI, A ESPOSA DE AVRAM"**
-> - **עַל־דְּבַר שָׂרַי אֵשֶׁת אַבְרָם** = "por causa de Sarai, a esposa de Avram." O narrador restaura sua identidade — ela é "a esposa de Avram," não uma aquisição de Faraó. A designação completa corrige a distorção da situação.
+> - **עַל־דְּבַר שָׂרַי אֵשֶׁת אַבְרָם** = "por causa de Sarai, a esposa de Avram." O narrador restaura a identidade de Sarai — ela é "a esposa de Avram," não uma aquisição de Faraó. A designação completa corrige a distorção da situação.
 
 ---
 
 ### **Versículo 18**
 
-E Faraó chamou Avram e disse: "Que *é* isto que me fizeste? Por que não me disseste que ela *é* tua esposa?
+E Faraó chamou Abrão e disse: "Que *é* isto que me fizeste? Por que não me disseste que ela *é* tua esposa?
 
 > **📝 NOTAS**
 >
@@ -353,7 +357,7 @@ E Faraó ordenou homens a seu respeito, e o mandaram embora, e a sua esposa, e t
 > - Faraó ordena uma escolta — não execução, não prisão. "O mandaram embora" (*vayeshallechu*) — piel de *shalach* (enviar). Avram deixa o Egito com sua esposa e todos os seus bens (incluindo os ganhos no v.16). Ele parte mais rico do que chegou. O eco do Êxodo: Israel também deixará o Egito com riquezas egípcias (Êx 12:35–36).
 >
 > 🟡 **O SILÊNCIO DE AVRAM**
-> - Avram não responde à repreensão de Faraó. Sem defesa, sem desculpa, sem explicação. O capítulo termina com Avram sendo mandado embora — passivo, silencioso e rico.
+> - Abrão não responde à repreensão de Faraó. Sem defesa, sem desculpa, sem explicação. O capítulo termina com Abrão sendo mandado embora — passivo, silencioso e rico.
 
 ---
 
@@ -387,7 +391,7 @@ E Faraó ordenou homens a seu respeito, e o mandaram embora, e a sua esposa, e t
 | Chegada | "chegaram a Charan e ali se estabeleceram" | "chegaram à terra de Kenaan" |
 | Completude | Parou antes | Jornada completada |
 
-Terach pretendia Kenaan mas se estabeleceu em Charan. Avram completa a jornada que seu pai não terminou. Os ecos verbais são deliberados: linguagem de destino idêntica, resultados diferentes.
+Terach (Terá) pretendia Kenaan (Canaã) mas se estabeleceu em Charan. Avram (Abrão) completa a jornada que seu pai não terminou. Os ecos verbais são deliberados: linguagem de destino idêntica, resultados diferentes.
 
 **Cadeia de bênção e maldição:**
 
@@ -411,7 +415,7 @@ Gn 12:2–3 introduz *berakhah* como contra-força à cadeia de *arar* que domin
 | 12:7 | Avram | Shekhem | Resposta à aparição de YHWH e promessa da terra |
 | 12:8 | Avram | Entre Beyt-El e Ai | Invoca o nome de YHWH |
 
-A construção de altares de Avram ecoa a de Noach. Mas Noach construiu um altar após o dilúvio; Avram constrói dois em um único capítulo. Ele marca a terra com adoração — não com muros ou armas.
+A construção de altares de Abrão ecoa a de Noach (Noé). Mas Noé construiu um altar após o dilúvio; Abrão constrói dois em um único capítulo. Ele marca a terra com adoração — não com muros ou armas.
 
 **Prefiguração do Egito — Gn 12 e o Êxodo:**
 
@@ -429,17 +433,17 @@ Os paralelos são extensos o suficiente para sugerir que Gn 12:10–20 é uma an
 
 **Distribuição do nome divino:**
 - 12:1: YHWH fala o chamado
-- 12:4: YHWH (Avram obedece ao que YHWH falou)
+- 12:4: YHWH (Abrão obedece ao que YHWH falou)
 - 12:7: YHWH aparece, promete a terra
 - 12:8: YHWH (altar, invocar o nome)
 - 12:17: YHWH fere Faraó
 
-Gn 12 usa YHWH exclusivamente — nenhum Elohim. A narrativa patriarcal começa sob o nome pessoal. O Elohim cósmico de Gn 1 dá lugar ao YHWH aliancial do ciclo de Avraham.
+Gn 12 usa YHWH exclusivamente — nenhum Elohim. A narrativa patriarcal começa sob o nome pessoal. O Elohim cósmico de Gn 1 dá lugar ao YHWH aliancial do ciclo de Avraham (Abraão).
 
 **Cadeia dos nomes:**
 - 11:4: Construtores de Babel: "façamos para nós um nome (*shem*)"
 - 12:2: YHWH a Avram: "Engrandecerei o teu nome (*shimkha*)"
-- O que Babel arrebatou pela construção, Avram recebe pela obediência. O nome que a ambição humana não pôde assegurar, a promessa divina concede.
+- O que Babel arrebatou pela construção, Abrão recebe pela obediência. O nome que a ambição humana não pôde assegurar, a promessa divina concede.
 
 ---
 

@@ -7,7 +7,7 @@
 **Grundtext:** Biblia Hebraica Stuttgartensia, 5. rev. Aufl. (Stuttgart: Deutsche Bibelgesellschaft, 1997)
 **Ausgabe:** Transparente Ausgabe
 **Sprache:** Deutsch
-**Methodik:** 29-Regeln-Governance-System (Regelwerk v3.0)
+**Methodik:** 29-Regeln-Governance-System (Regelwerk v3.3)
 **Gottesname-Politik (Regel 25):** Option A — Konsonantisch (JHWH).
 **Luther-Bibel-Verhältnis:** Option B — Selektive Anerkennung. Übersetzung aus dem Hebräischen nach TT-Regeln; Konvergenzen und Divergenzen mit Luther in Begleitmaterialien dokumentiert.
 **Status:** provisorisch — ausstehende Begutachtung (Regel 28)
@@ -43,9 +43,9 @@
 
 ## KAPITELÜBERSICHT
 
-**Was geschieht:** Gott gedenkt Noachs. Die Wasser gehen zurück: Quellen und Fenster werden verschlossen, Wind fährt über das Land. Die *Tebah* ruht auf Ararat. Noach sendet einen Raben (geht hin und her), dann dreimal eine Taube (kehrt zurück, kehrt mit Olivenblatt zurück, kehrt nicht zurück). Noach entfernt die Bedeckung, sieht trockenen Boden. Gott gebietet den Auszug. Noach baut einen Altar und opfert. JHWH riecht den beruhigenden Duft und beschließt „nie wieder" — unter Verwendung derselben Diagnose (böse Neigung), die die Flut ausgelöst hatte.
+**Was geschieht:** Gott gedenkt Noahs. Die Wasser gehen zurück: Quellen und Fenster werden verschlossen, Wind fährt über das Land. Die *Tebah* ruht auf Ararat. Noah (Noah) sendet einen Raben (geht hin und her), dann dreimal eine Taube (kehrt zurück, kehrt mit Olivenblatt zurück, kehrt nicht zurück). Noah entfernt die Bedeckung, sieht trockenen Boden. Gott gebietet den Auszug. Noah baut einen Altar und opfert. JHWH riecht den beruhigenden Duft und beschließt „nie wieder" — unter Verwendung derselben Diagnose (böse Neigung), die die Flut ausgelöst hatte.
 
-**Zentrale Themen:** „Gott gedachte" (*vayyizkor*) als erzählerischer Wendepunkt; der Rückgang der Flut spiegelt die Schöpfung (Wind über den Wassern, trockenes Land erscheint); der Rabe und die Taube als Kundschafter; das Olivenblatt als Zeichen der Erholung; der erste Altar (*Mizbeach*); das Wortspiel *nichoach* (beruhigender Duft / Noachs Name); das Paradox von 8:21 — die böse Neigung bewirkt nun Zurückhaltung, nicht Vernichtung.
+**Zentrale Themen:** „Gott gedachte" (*vayyizkor*) als erzählerischer Wendepunkt; der Rückgang der Flut spiegelt die Schöpfung (Wind über den Wassern, trockenes Land erscheint); der Rabe und die Taube als Kundschafter; das Olivenblatt als Zeichen der Erholung; der erste Altar (*Mizbeach*); das Wortspiel *nichoach* (beruhigender Duft / Noahs Name); das Paradox von 8:21 — die böse Neigung bewirkt nun Zurückhaltung, nicht Vernichtung.
 
 **Achten Sie auf:** Der Rückgang kehrt die Flut in derselben Reihenfolge um, in der die Flut die Schöpfung umkehrte — eine dreischichtige Erzählstruktur (Schöpfung → Ent-Schöpfung → Neu-Schöpfung); die spezifischen Daten setzen sich fort (8:4, 5, 13, 14) — die Flut umspannt exakt ein Jahr; „sprach in seinem Herzen" (8:21) — göttliche Innerlichkeit, keine öffentliche Erklärung; die Nie-wieder-Verheißung geht der Bundeszeremonie von Kapitel 9 voraus.
 
@@ -59,15 +59,15 @@
 
 ---
 
-¹Und Gott gedachte Noachs und alles Lebewesens und alles Viehs, das mit ihm in der Tebah *war*, und Gott ließ einen Wind/Geist über das Land fahren, und die Wasser sanken. ²Und die Quellen der Tiefe und die Fenster des Himmels wurden verschlossen, und der Regen vom Himmel wurde zurückgehalten. ³Und die Wasser kehrten zurück von auf dem Land, gehend und zurückkehrend, und die Wasser verminderten sich am Ende von einhundertfünfzig Tagen. ⁴Und die Tebah ruhte im siebten Monat, am siebzehnten Tag des Monats, auf den Bergen von Ararat. ⁵Und die Wasser waren gehend und sich vermindernd bis zum zehnten Monat; im zehnten *Monat*, am ersten des Monats, erschienen die Spitzen der Berge.
+¹Und Gott gedachte Noahs und alles Lebewesens und alles Viehs, das mit ihm in der Tebah *war*, und Gott ließ einen Wind/Geist über das Land fahren, und die Wasser sanken. ²Und die Quellen der Tiefe und die Fenster des Himmels wurden verschlossen, und der Regen vom Himmel wurde zurückgehalten. ³Und die Wasser kehrten zurück von auf dem Land, gehend und zurückkehrend, und die Wasser verminderten sich am Ende von einhundertfünfzig Tagen. ⁴Und die Tebah ruhte im siebten Monat, am siebzehnten Tag des Monats, auf den Bergen von Ararat. ⁵Und die Wasser waren gehend und sich vermindernd bis zum zehnten Monat; im zehnten *Monat*, am ersten des Monats, erschienen die Spitzen der Berge.
 
-⁶Und es war am Ende von vierzig Tagen, und Noach öffnete das Fenster der Tebah, das er gemacht hatte. ⁷Und er sandte den Raben aus, und er ging aus, ausgehend und zurückkehrend, bis die Wasser trockneten von auf dem Land. ⁸Und er sandte die Taube aus von bei ihm, um zu sehen, ob die Wasser sich gelöst hatten von auf dem Angesicht des Bodens. ⁹Und die Taube fand keinen Ruheplatz für die Sohle ihres Fußes, und sie kehrte zu ihm zurück zur Tebah, denn Wasser *waren* auf dem Angesicht des ganzen Landes; und er streckte seine Hand aus und nahm sie und brachte sie zu sich in die Tebah. ¹⁰Und er wartete noch sieben weitere Tage, und abermals sandte er die Taube aus der Tebah. ¹¹Und die Taube kam zu ihm zur Abendzeit, und siehe, ein frisch gepflücktes Olivenblatt *war* in ihrem Schnabel; und Noach erkannte, dass die Wasser sich gelöst hatten von auf dem Land. ¹²Und er wartete noch sieben weitere Tage, und er sandte die Taube aus, und sie kehrte nicht wieder zu ihm zurück.
+⁶Und es war am Ende von vierzig Tagen, und Noah (Noah) öffnete das Fenster der Tebah, das er gemacht hatte. ⁷Und er sandte den Raben aus, und er ging aus, ausgehend und zurückkehrend, bis die Wasser trockneten von auf dem Land. ⁸Und er sandte die Taube aus von bei ihm, um zu sehen, ob die Wasser sich gelöst hatten von auf dem Angesicht des Bodens. ⁹Und die Taube fand keinen Ruheplatz für die Sohle ihres Fußes, und sie kehrte zu ihm zurück zur Tebah, denn Wasser *waren* auf dem Angesicht des ganzen Landes; und er streckte seine Hand aus und nahm sie und brachte sie zu sich in die Tebah. ¹⁰Und er wartete noch sieben weitere Tage, und abermals sandte er die Taube aus der Tebah. ¹¹Und die Taube kam zu ihm zur Abendzeit, und siehe, ein frisch gepflücktes Olivenblatt *war* in ihrem Schnabel; und Noah erkannte, dass die Wasser sich gelöst hatten von auf dem Land. ¹²Und er wartete noch sieben weitere Tage, und er sandte die Taube aus, und sie kehrte nicht wieder zu ihm zurück.
 
-¹³Und es war im sechshundertundersten Jahr, im ersten *Monat*, am ersten des Monats, die Wasser trockneten von auf dem Land; und Noach entfernte die Bedeckung der Tebah und schaute, und siehe, das Angesicht des Bodens hatte getrocknet. ¹⁴Und im zweiten Monat, am siebenundzwanzigsten Tag des Monats, war das Land trocken.
+¹³Und es war im sechshundertundeersten Jahr, im ersten *Monat*, am ersten des Monats, die Wasser trockneten von auf dem Land; und Noah entfernte die Bedeckung der Tebah und schaute, und siehe, das Angesicht des Bodens hatte getrocknet. ¹⁴Und im zweiten Monat, am siebenundzwanzigsten Tag des Monats, war das Land trocken.
 
-¹⁵Und Gott sprach zu Noach und sagte: ¹⁶„Gehe hinaus aus der Tebah, du und deine Frau und deine Söhne und die Frauen deiner Söhne mit dir. ¹⁷Jedes Lebewesen, das mit dir *ist*, von allem Fleisch — den Vogel und das Vieh und jedes Kriechende, das auf dem Land kriecht — bringe hinaus mit dir, und sie sollen wimmeln auf dem Land, und fruchtbar sein und sich mehren auf dem Land." ¹⁸Und Noach ging hinaus, und seine Söhne und seine Frau und die Frauen seiner Söhne mit ihm. ¹⁹Jedes Lebewesen, jedes Kriechende und jeder Vogel, alles, was sich auf dem Land bewegt, zu ihren Sippen gingen sie hinaus aus der Tebah.
+¹⁵Und Gott sprach zu Noah und sagte: ¹⁶„Gehe hinaus aus der Tebah, du und deine Frau und deine Söhne und die Frauen deiner Söhne mit dir. ¹⁷Jedes Lebewesen, das mit dir *ist*, von allem Fleisch — den Vogel und das Vieh und jedes Kriechende, das auf dem Land kriecht — bringe hinaus mit dir, und sie sollen wimmeln auf dem Land, und fruchtbar sein und sich mehren auf dem Land." ¹⁸Und Noah ging hinaus, und seine Söhne und seine Frau und die Frauen seiner Söhne mit ihm. ¹⁹Jedes Lebewesen, jedes Kriechende und jeder Vogel, alles, was sich auf dem Land bewegt, zu ihren Sippen gingen sie hinaus aus der Tebah.
 
-²⁰Und Noach baute einen Altar für JHWH, und er nahm von jedem reinen Vieh und von jedem reinen Vogel, und er brachte Brandopfer dar auf dem Altar. ²¹Und JHWH roch den beruhigenden Duft, und JHWH sprach in seinem Herzen: „Ich werde nicht wieder den Boden verfluchen um des Menschen willen, denn die Neigung des Herzens des Menschen *ist* böse von seiner Jugend an; und ich werde nicht wieder alles Lebende schlagen, wie ich getan habe. ²²Solange noch alle Tage des Landes *sind*, sollen Saat und Ernte, und Kälte und Hitze, und Sommer und Winter, und Tag und Nacht nicht aufhören."
+²⁰Und Noah baute einen Altar für JHWH, und er nahm von jedem reinen Vieh und von jedem reinen Vogel, und er brachte Brandopfer dar auf dem Altar. ²¹Und JHWH roch den beruhigenden Duft, und JHWH sprach in seinem Herzen: „Ich werde nicht wieder den Boden verfluchen um des Menschen willen, denn die Neigung des Herzens des Menschen *ist* böse von seiner Jugend an; und ich werde nicht wieder alles Lebende schlagen, wie ich getan habe. ²²Solange noch alle Tage des Landes *sind*, sollen Saat und Ernte, und Kälte und Hitze, und Sommer und Winter, und Tag und Nacht nicht aufhören."
 
 ---
 
@@ -75,7 +75,7 @@
 
 ### **Vers 1**
 
-Und Gott gedachte Noachs und alles Lebewesens und alles Viehs, das mit ihm in der Tebah *war*, und Gott ließ einen Wind/Geist über das Land fahren, und die Wasser sanken.
+Und Gott gedachte Noahs und alles Lebewesens und alles Viehs, das mit ihm in der Tebah *war*, und Gott ließ einen Wind/Geist über das Land fahren, und die Wasser sanken.
 
 > **📝 NOTIZEN**
 >
@@ -83,8 +83,9 @@ Und Gott gedachte Noachs und alles Lebewesens und alles Viehs, das mit ihm in de
 > - **וַיִּזְכֹּר אֱלֹהִים** (*vayyizkor elohim*) = „Und Gott gedachte." Im Hebräischen bedeutet göttliches „Gedenken" nicht Vergessen-Haben. Es bedeutet, Gott wandte seine Aufmerksamkeit zu, um zu handeln. Dasselbe Verb verwendet für Gottes „Gedenken" an Rachel (Gn 30:22) und Israel in Ägypten (Ex 2:24).
 >
 > 🔴 **KRITISCH — RUACH ÜBER DEN WASSERN — NEU-SCHÖPFUNG**
-> - **וַיַּעֲבֵר אֱלֹהִים רוּחַ עַל־הָאָרֶץ** = „Gott ließ einen *Ruach* über das Land fahren." Direktes Echo von Gn 1:2: „und *Ruach* Gottes schwebend über dem Angesicht der Wasser." Dasselbe Wort (*Ruach* = Wind/Geist) im selben kosmischen Kontext: Wind/Geist über Wasser. Der Rückgang der Flut beginnt eng an den Beginn der Schöpfung erinnernd — *Ruach* über Wasser. Neu-Schöpfung.
-> - Regel 2 Schrägstrich bewahrt: Wind/Geist.
+> - **וַיַּעֲבֵר אֱלֹהִים רוּחַ עַל־הָאָרֶץ** = „Gott ließ einen *Ruach* über das Land fahren." Direktes Echo von Gn 1:2 (*Ruach* Gottes über den Wassern) — dieselbe Neu-Schöpfungs-Parallele. Regel 2 Schrägstrich bewahrt: Wind/Geist.
+>
+> Für ausführlichere Diskussion siehe Begleitmaterial Abschnitt [C].
 
 ---
 
@@ -120,7 +121,7 @@ Und die Tebah ruhte im siebten Monat, am siebzehnten Tag des Monats, auf den Ber
 > - **הָרֵי אֲרָרָט** (*hare Ararat*) = „Berge von Ararat" — ein Gebirge, kein einzelner Gipfel. Ararat = das antike Königreich Urartu (östliche Türkei/Armenien). Der Text sagt „Berge" (Plural), nicht „Berg Ararat" (Singular).
 >
 > 🟢 **„RUHTE" (*tanach*)**
-> - **וַתָּנַח** (*vattanach*) = „und ruhte." Wurzel: נ-ו-ח (*n-w-ch*) — DIESELBE Wurzel wie **Noach**s Name. Die Tebah „*noach*-te" auf den Bergen. Die Namensbedeutung („Ruhe/Trost") wird in der Erzählung verwirklicht.
+> - **וַתָּנַח** (*vattanach*) = „und ruhte." Wurzel: נ-ו-ח (*n-w-ch*) — DIESELBE Wurzel wie **Noah (Noah)**s Name. Die Tebah „*noach*-te" auf den Bergen. Die Namensbedeutung („Ruhe/Trost") wird in der Erzählung verwirklicht.
 
 ---
 
@@ -137,12 +138,12 @@ Und die Wasser waren gehend und sich vermindernd bis zum zehnten Monat; im zehnt
 
 ### **Vers 6**
 
-Und es war am Ende von vierzig Tagen, und Noach öffnete das Fenster der Tebah, das er gemacht hatte.
+Und es war am Ende von vierzig Tagen, und Noah öffnete das Fenster der Tebah, das er gemacht hatte.
 
 > **📝 NOTIZEN**
 >
 > 🔵 **„FENSTER" (*challon*)**
-> - **חַלּוֹן** (*challon*) = Fenster. Ein anderes Wort als **צֹהַר** (*Tsohar*) in 6:16 (Dachöffnung/Lichtquelle, UNGEWISS). Noach öffnet ein *challon* (ein gewöhnliches Fenster), nicht den *Tsohar*.
+> - **חַלּוֹן** (*challon*) = Fenster. Ein anderes Wort als **צֹהַר** (*Tsohar*) in 6:16 (Dachöffnung/Lichtquelle, UNGEWISS). Noah öffnet ein *challon* (ein gewöhnliches Fenster), nicht den *Tsohar*.
 
 ---
 
@@ -176,7 +177,7 @@ Und die Taube fand keinen Ruheplatz für die Sohle ihres Fußes, und sie kehrte 
 > **📝 NOTIZEN**
 >
 > 🟢 **„RUHEPLATZ" (*manoach*)**
-> - **מָנוֹחַ** (*manoach*) = Ruheplatz. Wurzel: נ-ו-ח — abermals dieselbe Wurzel wie **Noach**. Die Taube kann keinen *manoach* finden — einen „Noach-Platz." Drittes Auftreten der n-w-ch-Wurzel in diesem Kapitel (nach V.4 *tanach* und dem Namen Noach selbst).
+> - **מָנוֹחַ** (*manoach*) = Ruheplatz. Wurzel: נ-ו-ח — abermals dieselbe Wurzel wie **Noah**. Die Taube kann keinen *manoach* finden — einen „Noah-Platz." Drittes Auftreten der n-w-ch-Wurzel in diesem Kapitel (nach V.4 *tanach* und dem Namen Noah selbst).
 
 ---
 
@@ -188,7 +189,7 @@ Und er wartete noch sieben weitere Tage, und abermals sandte er die Taube aus de
 
 ### **Vers 11**
 
-Und die Taube kam zu ihm zur Abendzeit, und siehe, ein frisch gepflücktes Olivenblatt *war* in ihrem Schnabel; und Noach erkannte, dass die Wasser sich gelöst hatten von auf dem Land.
+Und die Taube kam zu ihm zur Abendzeit, und siehe, ein frisch gepflücktes Olivenblatt *war* in ihrem Schnabel; und Noah erkannte, dass die Wasser sich gelöst hatten von auf dem Land.
 
 > **📝 NOTIZEN**
 >
@@ -210,7 +211,7 @@ Und er wartete noch sieben weitere Tage, und er sandte die Taube aus, und sie ke
 
 ### **Vers 13**
 
-Und es war im sechshundertundersten Jahr, im ersten *Monat*, am ersten des Monats, die Wasser trockneten von auf dem Land; und Noach entfernte die Bedeckung der Tebah und schaute, und siehe, das Angesicht des Bodens hatte getrocknet.
+Und es war im sechshundertundeersten Jahr, im ersten *Monat*, am ersten des Monats, die Wasser trockneten von auf dem Land; und Noah entfernte die Bedeckung der Tebah und schaute, und siehe, das Angesicht des Bodens hatte getrocknet.
 
 > **📝 NOTIZEN**
 >
@@ -232,7 +233,7 @@ Und im zweiten Monat, am siebenundzwanzigsten Tag des Monats, war das Land trock
 
 ### **Vers 15**
 
-Und Gott sprach zu Noach und sagte:
+Und Gott sprach zu Noah und sagte:
 
 ---
 
@@ -243,7 +244,7 @@ Und Gott sprach zu Noach und sagte:
 > **📝 NOTIZEN**
 >
 > 🔵 **„GEHE HINAUS" — GÖTTLICHER BEFEHL**
-> - Noach wartete auf Gottes Befehl zum Hinausgehen, genau wie er auf Gottes Befehl zum Eintreten wartete (7:1). Er handelt nicht nach eigenem Ermessen, obwohl er den trockenen Boden sieht (V.13). Schweigender Gehorsam setzt sich fort.
+> - Noah wartete auf Gottes Befehl zum Hinausgehen, genau wie er auf Gottes Befehl zum Eintreten wartete (7:1). Er handelt nicht nach eigenem Ermessen, obwohl er den trockenen Boden sieht (V.13). Schweigender Gehorsam setzt sich fort.
 
 ---
 
@@ -260,7 +261,7 @@ Jedes Lebewesen, das mit dir *ist*, von allem Fleisch — den Vogel und das Vieh
 
 ### **Vers 18**
 
-Und Noach ging hinaus, und seine Söhne und seine Frau und die Frauen seiner Söhne mit ihm.
+Und Noah ging hinaus, und seine Söhne und seine Frau und die Frauen seiner Söhne mit ihm.
 
 ---
 
@@ -277,12 +278,12 @@ Jedes Lebewesen, jedes Kriechende und jeder Vogel, alles, was sich auf dem Land 
 
 ### **Vers 20**
 
-Und Noach baute einen Altar für JHWH, und er nahm von jedem reinen Vieh und von jedem reinen Vogel, und er brachte Brandopfer dar auf dem Altar.
+Und Noah baute einen Altar für JHWH, und er nahm von jedem reinen Vieh und von jedem reinen Vogel, und er brachte Brandopfer dar auf dem Altar.
 
 > **📝 NOTIZEN**
 >
 > 🔴 **ERSTER ALTAR (*mizbeach*)**
-> - **מִזְבֵּחַ** (*mizbeach*) = Altar. Erstes Auftreten. Von der Wurzel ז-ב-ח (*z-b-ch*, schlachten/opfern). Noach baut den ersten Altar in der Erzählung. Er opfert „von jedem reinen" Tier — deshalb wurden „sieben sieben" der reinen Tiere genommen: die Überzähligen sind für das Opfer.
+> - **מִזְבֵּחַ** (*mizbeach*) = Altar. Erstes Auftreten. Von der Wurzel ז-ב-ח (*z-b-ch*, schlachten/opfern). Noah baut den ersten Altar in der Erzählung. Er opfert „von jedem reinen" Tier — deshalb wurden „sieben sieben" der reinen Tiere genommen: die Überzähligen sind für das Opfer.
 >
 > 🔵 **„FÜR JHWH" — NAMENSWECHSEL**
 > - Nach Kapiteln der „Gott/Elohim"-Erzählung (7:9–8:19) kehrt der Name JHWH für die Opferszene zurück. Das Opfer wird an JHWH gerichtet, nicht an Elohim. Der intime Name kehrt für den intimen Akt zurück.
@@ -296,15 +297,15 @@ Und JHWH roch den beruhigenden Duft, und JHWH sprach in seinem Herzen: „Ich we
 > **📝 NOTIZEN**
 >
 > 🔴 **KRITISCH — „BERUHIGENDER DUFT" (*reach ha-nichoach*)**
-> - **רֵיחַ הַנִּיחֹחַ** (*reach ha-nichoach*) = „Duft des Beruhigenden/Wohlgefälligen." Wurzel von *nichoach*: נ-ו-ח — DIESELBE Wurzel wie **Noach** und „Ruhe." Das Opfer Noachs erzeugt einen *nichoach*-Duft. Das Namens-Wortspiel durchdringt dieses Kapitel.
+> - **רֵיחַ הַנִּיחֹחַ** (*reach ha-nichoach*) = „Duft des Beruhigenden/Wohlgefälligen." Wurzel von *nichoach*: נ-ו-ח — DIESELBE Wurzel wie **Noah** und „Ruhe." Das Opfer Noahs erzeugt einen *nichoach*-Duft. Das Namens-Wortspiel durchdringt dieses Kapitel.
 >
 > 🔴 **KRITISCH — SELBE DIAGNOSE, ENTGEGENGESETZTER SCHLUSS**
-> - Gn 6:5: „jede Neigung der Gedanken seines Herzens war nur böse den ganzen Tag" → GERICHT (Flut).
-> - Gn 8:21: „die Neigung des Herzens des Menschen ist böse von seiner Jugend an" → GNADE (nie wieder).
-> - Die Version von 8:21 ist **milder**: lässt „jede" (*kol*) weg, lässt „nur" (*raq*) weg, lässt „den ganzen Tag" (*kol ha-yom*) weg, fügt „von seiner Jugend an" (*mine'urav*) hinzu. Der menschliche Zustand ist derselbe, aber die Antwort kehrt sich um.
+> - Gn 6:5: „jede Neigung... nur böse den ganzen Tag" → GERICHT (Flut). Gn 8:21: „die Neigung... böse von seiner Jugend an" → GNADE (nie wieder). Die Version von 8:21 ist milder: lässt „jede," „nur" und „den ganzen Tag" weg; fügt „von seiner Jugend an" hinzu. Derselbe menschliche Zustand, umgekehrte göttliche Antwort.
 >
 > 🟡 **„SPRACH IN SEINEM HERZEN"**
-> - **וַיֹּאמֶר יהוה אֶל־לִבּוֹ** = „JHWH sprach zu seinem Herzen" — innere göttliche Rede, keine öffentliche Erklärung. Der Entschluss ist privat. Diese innere Verpflichtung geht dem öffentlichen Bund von Gn 9 voraus.
+> - **וַיֹּאמֶר יהוה אֶל־לִבּוֹ** = innere göttliche Rede, keine öffentliche Erklärung. Diese innere Verpflichtung geht dem öffentlichen Bund von Gn 9 voraus.
+>
+> Für ausführlichere Diskussion der Yetser-Parallele und ihrer Wirkungsgeschichte siehe Begleitmaterial Abschnitt [B].
 
 ---
 
@@ -328,12 +329,12 @@ Solange noch alle Tage des Landes *sind*, sollen Saat und Ernte, und Kälte und 
 |-----------|---------|-------------|
 | עֹרֵב | Rabe | Erster ausgesandter Vogel; kehrt ohne Ergebnis zurück. |
 | יוֹנָה | Taube | Prüfvogel; drei Aussendungen mit fortschreitenden Ergebnissen. |
-| מָנוֹחַ | Ruheplatz | Wurzel n-w-ch — wie Noach. Die Taube sucht „Noach." |
+| מָנוֹחַ | Ruheplatz | Wurzel n-w-ch — wie Noah (Noah). Die Taube sucht „Noah." |
 | חַלּוֹן | Fenster | Unterschieden von *Tsohar* (6:16, ungewiss). |
 | אֲרָרָט | Ararat | Gebirge (Plural), kein einzelner Gipfel. Antikes Urartu. |
 | מִזְבֵּחַ | Altar | Erstes Auftreten (8:20). Von der Wurzel z-b-ch (opfern). |
 | עֹלָה | Brandopfer | Erstes Auftreten (8:20). Wird vollständig auf dem Altar verbrannt. |
-| נִיחֹחַ | beruhigend/wohlgefällig | Wurzel n-w-ch — wie Noach. Duft der „Ruhe." |
+| נִיחֹחַ | beruhigend/wohlgefällig | Wurzel n-w-ch — wie Noah. Duft der „Ruhe." |
 
 ---
 
@@ -346,7 +347,7 @@ Solange noch alle Tage des Landes *sind*, sollen Saat und Ernte, und Kälte und 
 - Gn 1:5: Tag/Nacht eingesetzt → Gn 8:22: Tag/Nacht „sollen nicht aufhören"
 
 **N-W-CH-Wurzel-Sättigung in Gn 8:**
-- Noach (Name = Ruhe/Trost)
+- Noah (Noah) (Name = Ruhe/Trost)
 - 8:4: Tebah *tanach* (ruhte) auf Ararat
 - 8:9: Taube kann keinen *manoach* (Ruheplatz) finden
 - 8:21: JHWH riecht *nichoach* (beruhigenden/wohlgefälligen Duft)
@@ -376,7 +377,7 @@ Solange noch alle Tage des Landes *sind*, sollen Saat und Ernte, und Kälte und 
 - Muster: Elohim für Struktur/Befehle; JHWH für Beziehung/Opfer
 
 **Erster Altar und erstes Opfer:**
-- 8:20: Noach baut den ersten *mizbeach* und bringt *olah* (Brandopfer) dar
+- 8:20: Noah baut den ersten *mizbeach* und bringt *olah* (Brandopfer) dar
 - Dies erklärt die „sieben sieben" der reinen Tiere (7:2): die Überzähligen sind für das Opfer
 - Nachsintflutliches Opfer parallelt Utnapischtims Opfer in Gilgamesch XI, aber mit anderer göttlicher Antwort
 

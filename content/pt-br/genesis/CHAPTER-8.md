@@ -7,10 +7,11 @@
 **Texto Base:** Biblia Hebraica Stuttgartensia, 5ª ed. rev. (Stuttgart: Deutsche Bibelgesellschaft, 1997)
 **Edição:** Edição Transparente
 **Idioma:** Português Brasileiro
-**Metodologia:** Sistema de Governança de 29 Regras (Conjunto de Regras v3.0)
+**Metodologia:** Sistema de Governança de 29 Regras (Conjunto de Regras v3.3)
 **Política do Nome Divino (Regra 25):** Opção A — Consonantal (YHWH).
 **Status:** provisório — aguardando revisão por pares (Regra 28)
 **Revisores:** Hebraísta: não atribuído | Editor PT: não atribuído | Alinhamento cruzado: não atribuído
+**Relação com Almeida (Regra CORE):** Opção B — Reconhecimento seletivo. Notam-se convergências/divergências em materiais suplementares.
 
 ---
 
@@ -42,11 +43,11 @@
 
 ## VISÃO GERAL DO CAPÍTULO
 
-**O que acontece:** Deus lembra-se de Noach. As águas recuam: fontes e janelas são tapadas, o vento passa sobre a terra. A *tebah* repousa sobre Ararat. Noach envia um corvo (vai e volta), depois uma pomba três vezes (retorna, retorna com folha de oliveira, não retorna). Noach remove a cobertura, vê o chão seco. Deus ordena a saída. Noach constrói um altar e sacrifica. YHWH sente o aroma agradável e resolve "nunca mais" — usando o mesmo diagnóstico (inclinação má) que motivou o dilúvio.
+**O que acontece:** Deus lembra-se de Noach (Noé). As águas recuam: fontes e janelas são tapadas, o vento passa sobre a terra. A *tebah* repousa sobre Ararat. Noé envia um corvo (vai e volta), depois uma pomba três vezes (retorna, retorna com folha de oliveira, não retorna). Noé remove a cobertura, vê o chão seco. Deus ordena a saída. Noé constrói um altar e sacrifica. YHWH sente o aroma agradável e resolve "nunca mais" — usando o mesmo diagnóstico (inclinação má) que motivou o dilúvio.
 
 **Temas-chave:** "Deus lembrou-se" (*vayyizkor*) como ponto de virada narrativo; a recessão do dilúvio espelha a criação (vento sobre águas, terra seca aparecendo); o corvo e a pomba como batedores; a folha de oliveira como sinal de recuperação; o primeiro altar (*mizbeach*); o jogo de palavras *nichoach* (aroma agradável / nome de Noach); o paradoxo de 8:21 — a inclinação má agora motiva contenção, não destruição.
 
-**Observe:** A recessão reverte o dilúvio na mesma ordem em que o dilúvio reverteu a criação — uma estrutura narrativa em três camadas (criação, des-criação, re-criação); as datas específicas são retomadas (8:4, 5, 13, 14) — o dilúvio abrange exatamente um ano; "disse em seu coração" (8:21) — interioridade divina, não declaração pública; a promessa de "nunca mais" precede a cerimônia da aliança do Capítulo 9.
+**Observe:** A recessão reverte o dilúvio na mesma ordem em que o dilúvio reverteu a criação — uma estrutura narrativa em três camadas (criação, des-criação, re-criação); as datas específicas são retomadas (8:4, 5, 13, 14) — o dilúvio abrange aproximadamente um ano solar (370–371 dias pela aritmética do próprio texto); "disse em seu coração" (8:21) — interioridade divina, não declaração pública; a promessa de "nunca mais" precede a cerimônia da aliança do Capítulo 9.
 
 **Conexão:** O altar e o sacrifício (8:20) antecipam a aliança formal do Capítulo 9. A raiz *nacham* reaparece implicitamente — aquele que recebeu o nome de "conforto" (5:29) sobreviveu ao evento do "arrependimento" divino (6:6).
 
@@ -58,15 +59,15 @@
 
 ---
 
-¹E Deus lembrou-se de Noach e de todo vivente e de todo gado que *estavam* com ele na tebah, e Deus fez passar um vento/espírito sobre a terra, e as águas baixaram. ²E as fontes do abismo e as janelas dos céus foram tapadas, e a chuva dos céus foi contida. ³E as águas retornaram de sobre a terra, indo e voltando, e as águas diminuíram ao fim de cento e cinquenta dias. ⁴E a tebah repousou no sétimo mês, no décimo sétimo dia do mês, sobre os montes de Ararat. ⁵E as águas foram indo e diminuindo até o décimo mês; no décimo *mês*, no primeiro do mês, os topos dos montes apareceram.
+¹E Deus lembrou-se de Noach (Noé) e de todo vivente e de todo gado que *estavam* com ele na tebah, e Deus fez passar um vento/espírito sobre a terra, e as águas baixaram. ²E as fontes do abismo e as janelas dos céus foram tapadas, e a chuva dos céus foi contida. ³E as águas retornaram de sobre a terra, indo e voltando, e as águas diminuíram ao fim de cento e cinquenta dias. ⁴E a tebah repousou no sétimo mês, no décimo sétimo dia do mês, sobre os montes de Ararat. ⁵E as águas foram indo e diminuindo até o décimo mês; no décimo *mês*, no primeiro do mês, os topos dos montes apareceram.
 
-⁶E foi ao fim de quarenta dias, e Noach abriu a janela da tebah que havia feito. ⁷E enviou o corvo, e ele saiu, saindo e voltando, até que as águas secaram de sobre a terra. ⁸E enviou a pomba de junto de si, para ver se as águas tinham diminuído de sobre a face do solo. ⁹E a pomba não encontrou lugar de repouso para a planta do seu pé, e ela voltou a ele à tebah, pois águas *estavam* sobre a face de toda a terra; e ele estendeu a mão e a tomou e a trouxe para junto de si à tebah. ¹⁰E esperou mais sete dias, e novamente enviou a pomba da tebah. ¹¹E a pomba veio a ele ao tempo da tarde, e eis que uma folha de oliveira recém-arrancada *estava* em sua boca; e Noach soube que as águas tinham diminuído de sobre a terra. ¹²E esperou mais sete dias, e enviou a pomba, e ela não voltou a ele mais.
+⁶E foi ao fim de quarenta dias, e Noé abriu a janela da tebah que havia feito. ⁷E enviou o corvo, e ele saiu, saindo e voltando, até que as águas secaram de sobre a terra. ⁸E enviou a pomba de junto de si, para ver se as águas tinham diminuído de sobre a face do solo. ⁹E a pomba não encontrou lugar de repouso para a planta do seu pé, e ela voltou a ele à tebah, pois águas *estavam* sobre a face de toda a terra; e ele estendeu a mão e a tomou e a trouxe para junto de si à tebah. ¹⁰E esperou mais sete dias, e novamente enviou a pomba da tebah. ¹¹E a pomba veio a ele ao tempo da tarde, e eis que uma folha de oliveira recém-arrancada *estava* em sua boca; e Noé soube que as águas tinham diminuído de sobre a terra. ¹²E esperou mais sete dias, e enviou a pomba, e ela não voltou a ele mais.
 
-¹³E foi no ano seiscentos e um, no primeiro *mês*, no primeiro do mês, as águas secaram de sobre a terra; e Noach removeu a cobertura da tebah e olhou, e eis que a face do solo havia secado. ¹⁴E no segundo mês, no vigésimo sétimo dia do mês, a terra estava seca.
+¹³E foi no ano seiscentos e um, no primeiro *mês*, no primeiro do mês, as águas secaram de sobre a terra; e Noé removeu a cobertura da tebah e olhou, e eis que a face do solo havia secado. ¹⁴E no segundo mês, no vigésimo sétimo dia do mês, a terra estava seca.
 
-¹⁵E Deus falou a Noach, dizendo: ¹⁶"Sai da tebah, tu e tua mulher e teus filhos e as mulheres de teus filhos contigo. ¹⁷Todo vivente que *está* contigo de toda carne — a ave e o gado e todo réptil que se arrasta sobre a terra — faze sair contigo, e fervilhem sobre a terra, e frutifiquem e multipliquem-se sobre a terra." ¹⁸E Noach saiu, e seus filhos e sua mulher e as mulheres de seus filhos com ele. ¹⁹Todo vivente, todo réptil e toda ave, tudo o que se move sobre a terra, segundo as suas famílias saíram da tebah.
+¹⁵E Deus falou a Noé, dizendo: ¹⁶"Sai da tebah, tu e tua mulher e teus filhos e as mulheres de teus filhos contigo. ¹⁷Todo vivente que *está* contigo de toda carne — a ave e o gado e todo réptil que se arrasta sobre a terra — faze sair contigo, e fervilhem sobre a terra, e frutifiquem e multipliquem-se sobre a terra." ¹⁸E Noé saiu, e seus filhos e sua mulher e as mulheres de seus filhos com ele. ¹⁹Todo vivente, todo réptil e toda ave, tudo o que se move sobre a terra, segundo as suas famílias saíram da tebah.
 
-²⁰E Noach construiu um altar a YHWH, e tomou de todo gado limpo e de toda ave limpa, e ofereceu holocaustos sobre o altar. ²¹E YHWH cheirou o aroma agradável, e YHWH disse em seu coração: "Não tornarei a amaldiçoar o solo por causa do humano, pois a inclinação do coração do humano *é* má desde a sua juventude; e não tornarei a ferir todo vivente como fiz. ²²Enquanto durarem todos os dias da terra, sementeira e colheita, e frio e calor, e verão e inverno, e dia e noite não cessarão."
+²⁰E Noé construiu um altar a YHWH, e tomou de todo gado limpo e de toda ave limpa, e ofereceu holocaustos sobre o altar. ²¹E YHWH cheirou o aroma agradável, e YHWH disse em seu coração: "Não tornarei a amaldiçoar o solo por causa do humano, pois a inclinação do coração do humano *é* má desde a sua juventude; e não tornarei a ferir todo vivente como fiz. ²²Enquanto durarem todos os dias da terra, sementeira e colheita, e frio e calor, e verão e inverno, e dia e noite não cessarão."
 
 ---
 
@@ -74,7 +75,7 @@
 
 ### **Versículo 1**
 
-E Deus lembrou-se de Noach e de todo vivente e de todo gado que *estavam* com ele na tebah, e Deus fez passar um vento/espírito sobre a terra, e as águas baixaram.
+E Deus lembrou-se de Noach (Noé) e de todo vivente e de todo gado que *estavam* com ele na tebah, e Deus fez passar um vento/espírito sobre a terra, e as águas baixaram.
 
 > **📝 NOTAS**
 >
@@ -136,7 +137,7 @@ E as águas foram indo e diminuindo até o décimo mês; no décimo *mês*, no p
 
 ### **Versículo 6**
 
-E foi ao fim de quarenta dias, e Noach abriu a janela da tebah que havia feito.
+E foi ao fim de quarenta dias, e Noé abriu a janela da tebah que havia feito.
 
 > **📝 NOTAS**
 >
@@ -189,7 +190,7 @@ E esperou mais sete dias, e novamente enviou a pomba da tebah.
 
 ### **Versículo 11**
 
-E a pomba veio a ele ao tempo da tarde, e eis que uma folha de oliveira recém-arrancada *estava* em sua boca; e Noach soube que as águas tinham diminuído de sobre a terra.
+E a pomba veio a ele ao tempo da tarde, e eis que uma folha de oliveira recém-arrancada *estava* em sua boca; e Noé soube que as águas tinham diminuído de sobre a terra.
 
 > **📝 NOTAS**
 >
@@ -211,7 +212,7 @@ E esperou mais sete dias, e enviou a pomba, e ela não voltou a ele mais.
 
 ### **Versículo 13**
 
-E foi no ano seiscentos e um, no primeiro *mês*, no primeiro do mês, as águas secaram de sobre a terra; e Noach removeu a cobertura da tebah e olhou, e eis que a face do solo havia secado.
+E foi no ano seiscentos e um, no primeiro *mês*, no primeiro do mês, as águas secaram de sobre a terra; e Noé removeu a cobertura da tebah e olhou, e eis que a face do solo havia secado.
 
 > **📝 NOTAS**
 >
@@ -233,7 +234,7 @@ E no segundo mês, no vigésimo sétimo dia do mês, a terra estava seca.
 
 ### **Versículo 15**
 
-E Deus falou a Noach, dizendo:
+E Deus falou a Noé, dizendo:
 
 ---
 
@@ -244,7 +245,7 @@ E Deus falou a Noach, dizendo:
 > **📝 NOTAS**
 >
 > 🔵 **"SAI" — COMANDO DIVINO**
-> - Noach esperou pelo comando de Deus para sair, assim como esperou pelo comando de Deus para entrar (7:1). Ele não age por seu próprio julgamento apesar de ver o chão seco (v.13). A obediência silenciosa continua.
+> - Noé esperou pelo comando de Deus para sair, assim como esperou pelo comando de Deus para entrar (7:1). Ele não age por seu próprio julgamento apesar de ver o chão seco (v.13). A obediência silenciosa continua.
 
 ---
 
@@ -261,7 +262,7 @@ Todo vivente que *está* contigo de toda carne — a ave e o gado e todo réptil
 
 ### **Versículo 18**
 
-E Noach saiu, e seus filhos e sua mulher e as mulheres de seus filhos com ele.
+E Noé saiu, e seus filhos e sua mulher e as mulheres de seus filhos com ele.
 
 ---
 
@@ -278,7 +279,7 @@ Todo vivente, todo réptil e toda ave, tudo o que se move sobre a terra, segundo
 
 ### **Versículo 20**
 
-E Noach construiu um altar a YHWH, e tomou de todo gado limpo e de toda ave limpa, e ofereceu holocaustos sobre o altar.
+E Noé construiu um altar a YHWH, e tomou de todo gado limpo e de toda ave limpa, e ofereceu holocaustos sobre o altar.
 
 > **📝 NOTAS**
 >
@@ -347,7 +348,7 @@ Enquanto durarem todos os dias da terra, sementeira e colheita, e frio e calor, 
 - Gn 1:5: dia/noite estabelecidos → Gn 8:22: dia/noite "não cessarão"
 
 **Saturação da raiz N-W-CH em Gn 8:**
-- Noach (nome = repouso/consolo)
+- Noach (Noé) (nome = repouso/consolo)
 - 8:4: tebah *tanach* (repousou) em Ararat
 - 8:9: pomba não encontra *manoach* (lugar de repouso)
 - 8:21: YHWH cheira *nichoach* (aroma agradável/apaziguante)
@@ -377,7 +378,7 @@ Enquanto durarem todos os dias da terra, sementeira e colheita, e frio e calor, 
 - Padrão: Elohim para estrutura/comandos; YHWH para relação/sacrifício
 
 **Primeiro altar e primeiro sacrifício:**
-- 8:20: Noach constrói o primeiro *mizbeach* e oferece *olah* (holocausto)
+- 8:20: Noé constrói o primeiro *mizbeach* e oferece *olah* (holocausto)
 - Isto explica os "sete sete" dos animais limpos (7:2): os extras são para o sacrifício
 - Sacrifício pós-dilúvio paralelo ao sacrifício de Utnapishtim em Gilgamesh XI, mas com resposta divina diferente
 

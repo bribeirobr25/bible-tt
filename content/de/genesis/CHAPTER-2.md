@@ -7,7 +7,7 @@
 **Grundtext:** Biblia Hebraica Stuttgartensia, 5. rev. Aufl. (Stuttgart: Deutsche Bibelgesellschaft, 1997)
 **Ausgabe:** Transparente Ausgabe
 **Sprache:** Deutsch
-**Methodik:** 29-Regeln-Governance-System (Regelwerk v3.0)
+**Methodik:** 29-Regeln-Governance-System (Regelwerk v3.3)
 **Gottesname-Politik (Regel 25):** Option A — Konsonantisch (JHWH). **In diesem Kapitel ausgelöst in V.4.**
 **Luther-Bibel-Verhältnis:** Option B — Selektive Anerkennung. Übersetzung aus dem Hebräischen nach TT-Regeln; Konvergenzen und Divergenzen mit Luther in Begleitmaterialien dokumentiert. Entscheidung geloggt 2026-04-18.
 **Status:** provisorisch — ausstehende Begutachtung (Regel 28)
@@ -65,7 +65,7 @@
 
 ¹Und vollendet wurden der Himmel und das Land und ihr ganzes Heer. ²Und Gott vollendete am siebten Tag sein Werk, das er gemacht hatte, und er ruhte am siebten Tag von all seinem Werk, das er gemacht hatte. ³Und Gott segnete den siebten Tag und heiligte ihn, denn an ihm ruhte er von all seinem Werk, das Gott geschaffen hatte, zu machen.
 
-⁴Dies *sind* die *Toledot* des Himmels und des Landes, als sie geschaffen wurden, am Tag, als JHWH Elohim Land und Himmel machte. ⁵Und jeder Strauch des Feldes *war* noch nicht auf dem Land, und jedes Kraut des Feldes noch nicht sprossend, denn JHWH Elohim hatte nicht regnen lassen auf das Land, und *ein* Mensch war nicht, den Boden zu bearbeiten. ⁶Und *ein* Dunst stieg auf vom Land und bewässerte *die* ganze Fläche des Bodens. ⁷Und JHWH Elohim formte den Menschen, Staub vom Boden, und hauchte in seine Nase *den* Atem des Lebens, und der Mensch wurde *zu einem* lebendigen Wesen.
+⁴Dies *sind* die Geschlechterfolgen des Himmels und des Landes, als sie geschaffen wurden, am Tag, als JHWH Elohim Land und Himmel machte. ⁵Und jeder Strauch des Feldes war noch nicht auf dem Land, und jedes Kraut des Feldes noch nicht sprossend, denn JHWH Elohim hatte nicht regnen lassen auf das Land, und *ein* Mensch war nicht, den Boden zu bearbeiten. ⁶Und *ein* Dunst stieg auf vom Land und bewässerte die ganze Fläche des Bodens. ⁷Und JHWH Elohim formte den Menschen, Staub vom Boden, und hauchte in seine Nase *den* Atem des Lebens, und der Mensch wurde *zu einem* lebendigen Wesen.
 
 ⁸Und JHWH Elohim pflanzte einen Garten in Eden, im Osten, und setzte dort den Menschen, den er geformt hatte. ⁹Und JHWH Elohim ließ sprossen aus dem Boden jeden Baum, lieblich anzusehen und gut zur Speise, und den Baum des Lebens in der Mitte des Gartens, und den Baum der Erkenntnis des Guten und Bösen. ¹⁰Und *ein* Strom ging aus von Eden, den Garten zu bewässern, und von dort teilte er sich und wurde zu vier Häuptern. ¹¹Der Name des einen *ist* Pischon; *er ist* der, welcher umfließt das ganze Land Hawila, wo das Gold *ist*. ¹²Und das Gold jenes Landes *ist* gut; dort *ist* das Bedolach und der Stein Schoham. ¹³Und der Name des zweiten Stroms *ist* Gichon; *er ist* der, welcher umfließt das ganze Land Kusch. ¹⁴Und der Name des dritten Stroms *ist* Hiddekel; *er ist* der, welcher östlich von Aschschur fließt. Und der vierte Strom, das *ist* Perat.
 
@@ -101,7 +101,7 @@ Und Gott vollendete am siebten Tag sein Werk, das er gemacht hatte, und er ruhte
 > **📝 NOTIZEN**
 >
 > 🔴 **KRITISCH - TEXTVARIANTE**
-> - MT (Masoretischer Text) liest **בַּיּוֹם הַשְּׁבִיעִי** (*bayom hashvi'i*) = „am siebten Tag" für die *Vollendung*. LXX und Samaritanischer Pentateuch lesen „am sechsten Tag" (wahrscheinlich Harmonisierung, da Vollenden und Ruhen am selben Tag theologisch unbequem ist).
+> - MT (Masoretischer Text) liest **בַּיּוֹם הַשְּׁבִיעִי** (*bayom hashvi'i*) = „am siebten Tag" für die *Vollendung*. Die Septuaginta (LXX — die antike griechische Bibelübersetzung) und der Samaritanische Pentateuch lesen „am sechsten Tag" (wahrscheinlich Harmonisierung, da Vollenden und Ruhen am selben Tag theologisch unbequem ist).
 > - **Gemäß Regel 22:** MT im Haupttext übersetzen; Variante in Notiz. LXX/SP nicht stillschweigend übernehmen.
 > - **WAHRSCHEINLICHE** Auflösung des scheinbaren Widerspruchs: *kalah* bedeutet hier „zur Vollendung gebracht" als andauernder Zustand, nicht als letzter Arbeitsschlag am Tag 7.
 >
@@ -126,30 +126,27 @@ Und Gott segnete den siebten Tag und heiligte ihn, denn an ihm ruhte er von all 
 
 ### **Vers 4**
 
-Dies *sind* die *Toledot* des Himmels und des Landes, als sie geschaffen wurden, am Tag, als JHWH Elohim Land und Himmel machte.
+Dies *sind* die Geschlechterfolgen des Himmels und des Landes, als sie geschaffen wurden, am Tag, als JHWH Elohim Land und Himmel machte.
 
 > **📝 NOTIZEN**
 >
 > 🔴 **KRITISCH - ERSTES JHWH (Tetragrammaton)**
-> - **יהוה** (JHWH) erscheint hier zum ersten Mal in der Bibel.
-> - **Gemäß Regel 25, Option A** (im Vorspann erklärt): **konsonantisch als JHWH** wiedergegeben, ohne rekonstruierte Vokale zu ergänzen oder „HERR" zu substituieren. Erwogene, aber nicht gewählte Alternativen: *Jahwe* (vokalisierte Rekonstruktion), *der HERR* (traditionelle Substitution), *Adonai* (jüdische Lesetradition).
-> - Erstes Auftreten der Verbindung **יהוה אֱלֹהִים** (*JHWH Elohim*) = „JHWH Elohim," eine charakteristische Paarung, die in Gn 2–3 stark verwendet wird. **Niemals zu „Herr Gott" zusammengezogen** — das würde zwei verschiedene Lexeme verbergen.
+> - **יהוה** (JHWH) erscheint hier zum ersten Mal in der Bibel. **Gemäß Regel 25, Option A:** konsonantisch als JHWH wiedergegeben, ohne rekonstruierte Vokale oder die Substitution „HERR." Niemals zu „Herr Gott" mit *Elohim* zusammengezogen — das würde zwei verschiedene Lexeme verbergen.
 >
 > 🔴 **TOLEDOT-FORMEL**
-> - **אֵלֶּה תּוֹלְדוֹת** (*eleh toledot*) = „dies *sind* die Zeugungen/Ursprünge/Berichte"—struktureller Hauptmarker in Genesis. Erscheint 11× im Buch und gliedert es in Abschnitte.
-> - Wurzel **י-ל-ד** (*y-l-d*) = zeugen/gebären; *toledot* wörtlich = „Zeugungen." Bedeutung reicht über Genealogie hinaus zu „Ursprungsbericht" oder „was hervorgegangen ist."
+> - **אֵלֶּה תּוֹלְדוֹת** (*eleh toledot*) = „dies *sind* die Zeugungen/Ursprünge/Berichte"—struktureller Hauptmarker in Genesis. Erscheint 11× im Buch. Wurzel **י-ל-ד** (*y-l-d*) = zeugen/gebären; *toledot* wörtlich = „Zeugungen." Bedeutung reicht über Genealogie hinaus zu „Ursprungsbericht."
 >
 > 🔵 **REIHENFOLGE-UMKEHR**
 > - Gn 1:1 Reihenfolge: **Himmel und Land**. Gn 2:4b Reihenfolge: **Land und Himmel**. **MÖGLICHER** Marker für Gattungs-/Perspektivwechsel: Gn 1 ist kosmisch-von-oben; Gn 2 ist erd-nah.
 >
 > 🔵 **„AM TAG" (Idiom)**
-> - **בְּיוֹם** (*beyom*) = „am Tag" — hebräische temporale Redewendung mit der Bedeutung *„als / zu der Zeit, da"*, kein wörtlicher 24-Stunden-Marker. Gilt überall, wo *beyom* in diesem und im nächsten Kapitel erscheint (2:4, 2:17, 3:5). Die Übersetzung behält „am Tag" wörtlich; das Idiom wird hier und in 2:17 signalisiert.
+> - **בְּיוֹם** (*beyom*) = „am Tag" — hebräische temporale Redewendung mit der Bedeutung *„als / zu der Zeit, da"*, kein wörtlicher 24-Stunden-Marker. Gilt überall, wo *beyom* in diesem und im nächsten Kapitel erscheint (2:4, 2:17, 3:5). Die Übersetzung behält „am Tag" wörtlich. Für ausführlichere Diskussion der *beyom*-Interpretationsoptionen siehe Begleitmaterial Abschnitt B.
 
 ---
 
 ### **Vers 5**
 
-Und jeder Strauch des Feldes *war* noch nicht auf dem Land, und jedes Kraut des Feldes noch nicht sprossend, denn JHWH Elohim hatte nicht regnen lassen auf das Land, und *ein* Mensch war nicht, den Boden zu bearbeiten.
+Und jeder Strauch des Feldes war noch nicht auf dem Land, und jedes Kraut des Feldes noch nicht sprossend, denn JHWH Elohim hatte nicht regnen lassen auf das Land, und *ein* Mensch war nicht, den Boden zu bearbeiten.
 
 > **📝 NOTIZEN**
 >
@@ -163,7 +160,7 @@ Und jeder Strauch des Feldes *war* noch nicht auf dem Land, und jedes Kraut des 
 
 ### **Vers 6**
 
-Und *ein* Dunst stieg auf vom Land und bewässerte *die* ganze Fläche des Bodens.
+Und *ein* Dunst stieg auf vom Land und bewässerte die ganze Fläche des Bodens.
 
 > **📝 NOTIZEN**
 >
@@ -185,12 +182,10 @@ Und JHWH Elohim formte den Menschen, Staub vom Boden, und hauchte in seine Nase 
 > - Im Haupttext durch das Paar *Mensch* + *Boden* bewahrt; die klangliche Verbindung geht im Deutschen verloren. **Notiz gemäß Regel 14:** Hebräisches Wortspiel kann im Deutschen nicht vollständig wiedergegeben werden.
 >
 > 🟢 **NEUES VERB - *yatzar***
-> - **וַיִּיצֶר** (*vayyitzer*) = „und er formte"—Wurzel **י-צ-ר** (*y-tz-r*), Töpferverb. Unterscheidet sich von *bara* (schaffen, Gn 1:1) und *asah* (machen, Gn 1:7).
-> - Zum Glossar für Genesis 2+ hinzugefügt. **MÖGLICHE** Unterscheidung: *bara* = aus dem Nichts beginnen; *yatzar* = aus vorhandenem Material formen; *asah* = machen/fertigen.
+> - **וַיִּיצֶר** (*vayyitzer*) = „und er formte"—Wurzel **י-צ-ר** (*y-tz-r*), Töpferverb; Töpfer formt aus vorhandenem Material. Unterscheidet sich von *bara* (schaffen, Gn 1:1) und *asah* (machen, Gn 1:7). Zum Glossar hinzugefügt.
 >
 > 🟢 **NEFESH CHAYAH KEHRT ZURÜCK**
-> - **נֶפֶשׁ חַיָּה** (*nefesh chayah*) = „lebendiges Wesen"—zuvor in Gn 1:20, 21, 24, 30 auf Tiere angewendet. Hier auf den Menschen angewendet. Dieselbe Kategorie; Menschen teilen sie mit anderen lebendigen Geschöpfen.
-> - **NICHT „Seele"** im späteren philosophischen Sinne (siehe Glossar).
+> - **נֶפֶשׁ חַיָּה** (*nefesh chayah*) = „lebendiges Wesen"—zuvor in Gn 1:20, 21, 24, 30 auf Tiere angewendet, nun auf den Menschen. Dieselbe Kategorie; Menschen teilen sie mit anderen lebendigen Geschöpfen. **NICHT „Seele"** im späteren philosophischen Sinne (siehe Glossar).
 
 ---
 
@@ -314,8 +309,7 @@ Aber vom Baum der Erkenntnis des Guten und Bösen, nicht sollst du essen davon, 
 > - Die parallele Form (positiv in V.16, negativ/tödlich hier) verstärkt den Kontrast. Bewahrung ist erforderlich.
 >
 > 🟡 **„AM TAG"**
-> - **בְּיוֹם** (*beyom*) = „am Tag"—kann wörtlichen Tag oder Idiom für „zu der Zeit, da" bedeuten. Die scheinbare Spannung mit Gn 3 (sie sterben nicht am selben Tag, an dem sie essen) ist altes interpretatorisches Rätsel; Hebräisch bewahren, nicht auflösen.
-> - **Weitere Ausdehnung:** **Gn 5:5** berichtet, dass Adam **930 Jahre** lebte, bevor er starb—weit nach dem „Tag" des Essens. Historische interpretative Lösungen alle **MÖGLICH**, keine auferlegt: (1) *beyom* als idiomatisches „als"; (2) Tod als Prozess/Sterblichkeit, aktiviert beim Essen, später vollendet; (3) „Tag" als Tag göttlichen Maßstabs (vgl. Ps 90:4); (4) geistlicher Tod vor leiblichem Tod. Regel 2—die Spannung bewahren; Optionen ohne Bevorzugung auflisten.
+> - **בְּיוֹם** (*beyom*) = „am Tag"—kann wörtlichen Tag oder Idiom für „zu der Zeit, da" bedeuten (vgl. V.4). Die scheinbare Spannung mit Gn 3 und der Lebensspanne Adams (Gn 5:5) ist ein altes interpretatorisches Rätsel. Regel 2—Hebräisch bewahren, Spannung nicht auflösen. Für ausführlichere Diskussion der Interpretationsoptionen siehe Begleitmaterial Abschnitt B.
 
 ---
 
@@ -327,16 +321,15 @@ Und JHWH Elohim sprach: „Nicht gut, dass der Mensch allein *sei*; ich will ihm
 >
 > 🔴 **KRITISCH - *ezer kenegdo***
 > - **עֵזֶר כְּנֶגְדּוֹ** (*ezer kenegdo*) = „Hilfe als sein Gegenüber."
-> - **עֵזֶר** (*ezer*) = Hilfe/Helfer. **Das Wort erscheint ~21× in der Hebräischen Bibel; ~16 dieser Vorkommen beziehen sich auf Gott als Helfer Israels** in militärischen / Rettungs-Kontexten (z.B. Dtn 33:7, 33:26, 33:29; Ps 20:2, 33:20, 115:9–11, 121:1–2, 124:8, 146:5; Hos 13:9). Nur 2 Vorkommen beziehen sich auf die Frau (Gn 2:18, 2:20). Das statistische Profil von *ezer* ist **überwiegend übergeordnete Hilfe**, nicht untergeordnete Hilfe. Keine hierarchische Kraft im hebräischen Lexem.
+> - **עֵזֶר** (*ezer*) = Hilfe/Helfer. Das statistische Profil des Wortes in der Hebräischen Bibel zeigt überwiegend **übergeordnete Hilfe** (Gott als Helfer Israels), nicht untergeordnete Hilfe. Keine hierarchische Kraft im hebräischen Lexem. Für ausführlichere Diskussion der Belegstellen siehe Begleitmaterial Abschnitt D.
 > - **כְּנֶגְדּוֹ** (*kenegdo*) = „wie ihm gegenüber" / „als sein Gegenüber / als ihm entsprechend" — Präposition **נֶגֶד** (*neged*) = „vor, gegenüber, entsprechend."
-> - **NICHT „Gehilfin"** oder „Hilfsgefährtin," die eine KJV-zeitgenössische Komprimierung importieren, die im Hebräischen nicht vorhanden ist.
-> - **MÖGLICHE** Bedeutungen: „Helfer, der ihm entspricht" / „Gegenüber für ihn." Gegenseitig, nicht untergeordnet.
+> - **NICHT „Gehilfin"** oder „Hilfsgefährtin"—KJV-zeitgenössische Komprimierung, die im Hebräischen nicht vorhanden ist. **MÖGLICHE** Bedeutungen: „Helfer, der ihm entspricht" / „Gegenüber für ihn." Gegenseitig, nicht untergeordnet.
 >
 > 🔵 **ERSTES „NICHT GUT"**
 > - Kontrastiert scharf mit den wiederholten „gut" und „sehr gut" aus Genesis 1. Erstes *לֹא־טוֹב* (*lo tov*) in der Bibel.
 >
 > 🔴 **GESCHLECHTSANMERKUNG**
-> - *ezer* ist im Hebräischen grammatisch maskulin; „Hilfe" im Deutschen ist feminin. Dies ist grammatisches Geschlecht, nicht ontologisches Attribut. Ebenfalls: das *Gegenüber* ist im Deutschen neutral. Ambiguität über das Geschlecht der Hilfe ist im Hebräischen durch *kenegdo* (maskuline Endung „-o", passt zum Bezug auf den Menschen) bereits durch die Bezugnahme zurück auf den männlichen Adressaten gerichtet.
+> - *ezer* ist im Hebräischen grammatisch maskulin; „Hilfe" im Deutschen ist feminin. Dies ist grammatisches Geschlecht, nicht ontologisches Attribut.
 
 ---
 
@@ -378,8 +371,7 @@ Und JHWH Elohim ließ einen tiefen Schlaf auf den Menschen fallen, und er schlie
 > - **תַּרְדֵּמָה** (*tardemah*) = „tiefer Schlaf"—unterscheidet sich vom gewöhnlichen Schlaf; später für göttlich induzierten Schlaf verwendet (z.B. Abraham, Gn 15:12). Keine Trance, kein Tod.
 >
 > 🔴 **AMBIGUITÄT - *tsela***
-> - **צֵלָע** (*tsela*) = „Seite / Rippe / Flanke." Das Wort erscheint **~41× in der Hebräischen Bibel. Die große Mehrheit (~35) bezieht sich auf architektonische Seite** — Wände der Stiftshütte, Tafeln der Lade, Tempelkammern (Ex 25–27, 36–38; 1 Kön 6–7; Ez 41). Nur ~2 beziehen sich auf menschliche Anatomie (hier und die Parallele in V.22). „Rippe" ist die traditionelle, aber **statistisch marginale** Wiedergabe.
-> - **Beide bewahrt** im Haupttext durch Schrägstrich (Regel 2). Die Frau wird aus einer *Seite* (substantiell) oder einer *Rippe* (anatomisch) des Menschen gebaut; das Hebräische erlaubt beides.
+> - **צֵלָע** (*tsela*) = „Seite / Rippe / Flanke." In der Hebräischen Bibel überwiegt die architektonische Verwendung (Wände, Kammern) bei weitem die anatomische. „Rippe" ist die traditionelle, aber statistisch marginale Wiedergabe. **Beide bewahrt** im Haupttext durch Schrägstrich (Regel 2). Für ausführlichere Diskussion der Belegstellen siehe Begleitmaterial Abschnitt D.
 
 ---
 

@@ -7,7 +7,7 @@
 **Grundtext:** Biblia Hebraica Stuttgartensia, 5. rev. Aufl. (Stuttgart: Deutsche Bibelgesellschaft, 1997)
 **Ausgabe:** Transparente Ausgabe
 **Sprache:** Deutsch
-**Methodik:** 29-Regeln-Governance-System (Regelwerk v3.0)
+**Methodik:** 29-Regeln-Governance-System (Regelwerk v3.3)
 **Gottesname-Politik (Regel 25):** Option A — Konsonantisch (JHWH).
 **Luther-Bibel-Verhältnis:** Option B — Selektive Anerkennung. Übersetzung aus dem Hebräischen nach TT-Regeln; Konvergenzen und Divergenzen mit Luther in Begleitmaterialien dokumentiert.
 **Status:** provisorisch — ausstehende Begutachtung (Regel 28)
@@ -44,9 +44,9 @@
 
 ## KAPITELÜBERSICHT
 
-**Was geschieht:** JHWH gebietet Noach, mit seiner Familie und den Tieren in die *Tebah* einzutreten — reine Tiere zu siebent, andere zu zweit. Nach sieben Tagen beginnt die Flut: Die Quellen der großen Tiefe brechen auf und die Fenster des Himmels werden geöffnet. Die Wasser steigen vierzig Tage, bedecken alle hohen Berge. Jedes landatmende Lebewesen außerhalb der *Tebah* stirbt. Die Wasser herrschen einhundertfünfzig Tage.
+**Was geschieht:** JHWH gebietet Noah (Noah), mit seiner Familie und den Tieren in die *Tebah* einzutreten — reine Tiere zu siebent, andere zu zweit. Nach sieben Tagen beginnt die Flut: Die Quellen der großen Tiefe brechen auf und die Fenster des Himmels werden geöffnet. Die Wasser steigen vierzig Tage, bedecken alle hohen Berge. Jedes landatmende Lebewesen außerhalb der *Tebah* stirbt. Die Wasser herrschen einhundertfünfzig Tage.
 
-**Zentrale Themen:** Die Unterscheidung rein/unrein vor Sinai; die Flut als kosmologische Umkehrung — die Wasser über und unter dem *raqia* (Tag 2) vereinigen sich wieder; der *Mabbul* (Flut — ein Wort, das nur für dieses Ereignis verwendet wird); spezifische Kalenderdaten durchgehend; JHWH schließt die Tür (7:16 — Noach versiegelt sich nicht selbst); totale Vernichtung des Landlebens.
+**Zentrale Themen:** Die Unterscheidung rein/unrein vor Sinai; die Flut als kosmologische Umkehrung — die Wasser über und unter dem *raqia* (Tag 2) vereinigen sich wieder; der *Mabbul* (Flut — ein Wort, das nur für dieses Ereignis verwendet wird); spezifische Kalenderdaten durchgehend; JHWH schließt die Tür (7:16 — Noah versiegelt sich nicht selbst); totale Vernichtung des Landlebens.
 
 **Achten Sie auf:** „Sieben sieben" für reine Tiere (7:2) nach „zwei von allem" (6:19–20) — die TT bewahrt beides ohne Harmonisierung; die Flutdaten ergeben eine präzise Chronologie, die ein Sonnenjahr umspannt; „JHWH schloss hinter ihm zu" (7:16) — der Gottesname erscheint im Moment der Versiegelung; die Wendung „alle hohen Berge unter dem ganzen Himmel" (7:19) — die Reichweitebehauptung des Textes selbst.
 
@@ -60,13 +60,13 @@
 
 ---
 
-¹Und JHWH sprach zu Noach: „Komm, du und dein ganzes Haus, in die Tebah, denn dich habe ich *als* gerecht vor mir gesehen in diesem Geschlecht. ²Von allem reinen Vieh sollst du dir nehmen sieben sieben, einen Mann und seine Frau, und von dem Vieh, das nicht rein *ist*, zwei, einen Mann und seine Frau. ³Auch vom Vogel des Himmels sieben sieben, männlich und weiblich, um Samen am Leben zu erhalten auf dem Angesicht des ganzen Landes. ⁴Denn in noch sieben Tagen *bin ich am* Regnen-Senden auf das Land, vierzig Tage und vierzig Nächte, und ich werde jedes Stehende, das ich gemacht habe, auslöschen von auf dem Angesicht des Bodens." ⁵Und Noach tat nach allem, was JHWH ihm geboten hatte.
+¹Und JHWH sprach zu Noah (Noah): „Komm, du und dein ganzes Haus, in die Tebah, denn dich habe ich *als* gerecht vor mir gesehen in diesem Geschlecht. ²Von allem reinen Vieh sollst du dir nehmen sieben sieben, einen Mann und seine Frau, und von dem Vieh, das nicht rein *ist*, zwei, einen Mann und seine Frau. ³Auch vom Vogel des Himmels sieben sieben, männlich und weiblich, um Samen am Leben zu erhalten auf dem Angesicht des ganzen Landes. ⁴Denn in noch sieben Tagen *bin ich am* Regnen-Senden auf das Land, vierzig Tage und vierzig Nächte, und ich werde jedes Stehende, das ich gemacht habe, auslöschen von auf dem Angesicht des Bodens." ⁵Und Noah tat nach allem, was JHWH ihm geboten hatte.
 
-⁶Und Noach *war* sechshundert Jahre alt, und die Flut von Wassern war auf dem Land. ⁷Und Noach ging, und seine Söhne und seine Frau und die Frauen seiner Söhne mit ihm, in die Tebah, vor dem Angesicht der Wasser der Flut. ⁸Vom reinen Vieh und vom Vieh, das nicht rein *ist*, und vom Vogel, und *von* allem, was auf dem Boden kriecht, ⁹zwei zwei kamen sie zu Noach in die Tebah, männlich und weiblich, wie Gott Noach geboten hatte. ¹⁰Und es war nach sieben der Tage, und die Wasser der Flut waren auf dem Land.
+⁶Und Noah *war* sechshundert Jahre alt, und die Flut von Wassern war auf dem Land. ⁷Und Noah ging, und seine Söhne und seine Frau und die Frauen seiner Söhne mit ihm, in die Tebah, vor dem Angesicht der Wasser der Flut. ⁸Vom reinen Vieh und vom Vieh, das nicht rein *ist*, und vom Vogel, und *von* allem, was auf dem Boden kriecht, ⁹zwei zwei kamen sie zu Noah in die Tebah, männlich und weiblich, wie Gott Noah geboten hatte. ¹⁰Und es war nach sieben der Tage, und die Wasser der Flut waren auf dem Land.
 
-¹¹Im sechshundertsten Jahr des Lebens Noachs, im zweiten Monat, am siebzehnten Tag des Monats, an diesem Tag brachen alle Quellen der großen Tiefe auf, und die Fenster des Himmels wurden geöffnet. ¹²Und der Regen war auf dem Land vierzig Tage und vierzig Nächte. ¹³An eben diesem Tag trat Noach ein, und Shem und Cham und Yafet, die Söhne Noachs, und die Frau Noachs und die drei Frauen seiner Söhne mit ihnen, in die Tebah — ¹⁴sie, und jedes Lebewesen nach seiner Art, und alles Vieh nach seiner Art, und jedes Kriechende, das auf dem Land kriecht, nach seiner Art, und jeder Vogel nach seiner Art, jedes Geflügelte. ¹⁵Und sie kamen zu Noach in die Tebah, zwei zwei von allem Fleisch, in dem Atem des Lebens *ist*. ¹⁶Und die Kommenden, männlich und weiblich von allem Fleisch kamen sie, wie Gott ihm geboten hatte; und JHWH schloss *es* hinter ihm zu.
+¹¹Im sechshundertsten Jahr des Lebens Noahs, im zweiten Monat, am siebzehnten Tag des Monats, an diesem Tag brachen alle Quellen der großen Tiefe auf, und die Fenster des Himmels wurden geöffnet. ¹²Und der Regen war auf dem Land vierzig Tage und vierzig Nächte. ¹³An eben diesem Tag trat Noah ein, und Shem und Ham (Ham) und Yafet (Jafet), die Söhne Noahs, und die Frau Noahs und die drei Frauen seiner Söhne mit ihnen, in die Tebah — ¹⁴sie, und jedes Lebewesen nach seiner Art, und alles Vieh nach seiner Art, und jedes Kriechende, das auf dem Land kriecht, nach seiner Art, und jeder Vogel nach seiner Art, jedes Geflügelte. ¹⁵Und sie kamen zu Noah in die Tebah, zwei zwei von allem Fleisch, in dem Atem des Lebens *ist*. ¹⁶Und die Kommenden, männlich und weiblich von allem Fleisch kamen sie, wie Gott ihm geboten hatte; und JHWH schloss *es* hinter ihm zu.
 
-¹⁷Und die Flut war vierzig Tage auf dem Land, und die Wasser mehrten sich und hoben die Tebah, und sie erhob sich von auf dem Land. ¹⁸Und die Wasser überwältigten und mehrten sich sehr auf dem Land, und die Tebah ging auf dem Angesicht der Wasser. ¹⁹Und die Wasser überwältigten sehr sehr auf dem Land, und alle hohen Berge, die unter dem ganzen Himmel *waren*, wurden bedeckt. ²⁰Fünfzehn Ellen aufwärts überwältigten die Wasser, und die Berge wurden bedeckt. ²¹Und alles Fleisch, das sich auf dem Land bewegt, verschied — der Vogel und das Vieh und das Lebewesen und jedes Wimmelnde, das auf dem Land wimmelt, und jeder Mensch. ²²Alles, was Atem des Windes/Geistes des Lebens in seinen Nüstern *hatte*, von allem, was auf dem Trockenen *war*, starb. ²³Und er löschte jedes Stehende aus, das auf dem Angesicht des Bodens *war*, vom Menschen bis zum Vieh bis zum Kriechenden bis zum Vogel des Himmels, und sie wurden ausgelöscht vom Land; und nur Noach blieb übrig, und die mit ihm in der Tebah. ²⁴Und die Wasser überwältigten auf dem Land einhundertfünfzig Tage.
+¹⁷Und die Flut war vierzig Tage auf dem Land, und die Wasser mehrten sich und hoben die Tebah, und sie erhob sich von auf dem Land. ¹⁸Und die Wasser überwältigten und mehrten sich sehr auf dem Land, und die Tebah ging auf dem Angesicht der Wasser. ¹⁹Und die Wasser überwältigten sehr sehr auf dem Land, und alle hohen Berge, die unter dem ganzen Himmel *waren*, wurden bedeckt. ²⁰Fünfzehn Ellen aufwärts überwältigten die Wasser, und die Berge wurden bedeckt. ²¹Und alles Fleisch, das sich auf dem Land bewegt, verschied — der Vogel und das Vieh und das Lebewesen und jedes Wimmelnde, das auf dem Land wimmelt, und jeder Mensch. ²²Alles, was Atem des Windes/Geistes des Lebens in seinen Nüstern *hatte*, von allem, was auf dem Trockenen *war*, starb. ²³Und er löschte jedes Stehende aus, das auf dem Angesicht des Bodens *war*, vom Menschen bis zum Vieh bis zum Kriechenden bis zum Vogel des Himmels, und sie wurden ausgelöscht vom Land; und nur Noah blieb übrig, und die mit ihm in der Tebah. ²⁴Und die Wasser überwältigten auf dem Land einhundertfünfzig Tage.
 
 ---
 
@@ -74,7 +74,7 @@
 
 ### **Vers 1**
 
-Und JHWH sprach zu Noach: „Komm, du und dein ganzes Haus, in die Tebah, denn dich habe ich *als* gerecht vor mir gesehen in diesem Geschlecht.
+Und JHWH sprach zu Noah (Noah): „Komm, du und dein ganzes Haus, in die Tebah, denn dich habe ich *als* gerecht vor mir gesehen in diesem Geschlecht.
 
 > **📝 NOTIZEN**
 >
@@ -128,7 +128,7 @@ Denn in noch sieben Tagen *bin ich am* Regnen-Senden auf das Land, vierzig Tage 
 
 ### **Vers 5**
 
-Und Noach tat nach allem, was JHWH ihm geboten hatte.
+Und Noah tat nach allem, was JHWH ihm geboten hatte.
 
 > **📝 NOTIZEN**
 >
@@ -139,18 +139,18 @@ Und Noach tat nach allem, was JHWH ihm geboten hatte.
 
 ### **Vers 6**
 
-Und Noach *war* sechshundert Jahre alt, und die Flut von Wassern war auf dem Land.
+Und Noah *war* sechshundert Jahre alt, und die Flut von Wassern war auf dem Land.
 
 > **📝 NOTIZEN**
 >
 > 🔵 **CHRONOLOGISCHE PRÄZISION**
-> - Die Fluterzählung liefert genaue Daten: Noachs Alter (600), Monat/Tag bei 7:11. Diese Präzision setzt sich fort bei 8:4,5,13,14. Der chronologische Rahmen ist ein strukturelles Merkmal des Textes.
+> - Die Fluterzählung liefert genaue Daten: Noahs Alter (600), Monat/Tag bei 7:11. Diese Präzision setzt sich fort bei 8:4,5,13,14. Der chronologische Rahmen ist ein strukturelles Merkmal des Textes.
 
 ---
 
 ### **Vers 7**
 
-Und Noach ging, und seine Söhne und seine Frau und die Frauen seiner Söhne mit ihm, in die Tebah, vor dem Angesicht der Wasser der Flut.
+Und Noah ging, und seine Söhne und seine Frau und die Frauen seiner Söhne mit ihm, in die Tebah, vor dem Angesicht der Wasser der Flut.
 
 ---
 
@@ -162,7 +162,7 @@ Vom reinen Vieh und vom Vieh, das nicht rein *ist*, und vom Vogel, und *von* all
 
 ### **Vers 9**
 
-zwei zwei kamen sie zu Noach in die Tebah, männlich und weiblich, wie Gott Noach geboten hatte.
+zwei zwei kamen sie zu Noah in die Tebah, männlich und weiblich, wie Gott Noah geboten hatte.
 
 > **📝 NOTIZEN**
 >
@@ -182,14 +182,15 @@ Und es war nach sieben der Tage, und die Wasser der Flut waren auf dem Land.
 
 ### **Vers 11**
 
-Im sechshundertsten Jahr des Lebens Noachs, im zweiten Monat, am siebzehnten Tag des Monats, an diesem Tag brachen alle Quellen der großen Tiefe auf, und die Fenster des Himmels wurden geöffnet.
+Im sechshundertsten Jahr des Lebens Noahs, im zweiten Monat, am siebzehnten Tag des Monats, an diesem Tag brachen alle Quellen der großen Tiefe auf, und die Fenster des Himmels wurden geöffnet.
 
 > **📝 NOTIZEN**
 >
 > 🔴 **KRITISCH — KOSMOLOGISCHER MECHANISMUS**
 > - **מַעְיְנֹת תְּהוֹם רַבָּה** (*ma'yenot tehom rabbah*) = „Quellen der großen Tiefe." *Tehom* = die urzeitliche Tiefe aus Gn 1:2. Die unterirdischen Wasser brechen nach oben auf.
-> - **אֲרֻבֹּת הַשָּׁמַיִם** (*arubbot ha-shamayim*) = „Fenster des Himmels." Der Himmel hat Öffnungen, durch die die Wasser oberhalb des Raqia herabsteigen.
-> - Dies **kehrt Gn 1:6–7 um**: Das Raqia wurde eingesetzt, um die Wasser oben von den Wassern unten zu trennen. Die Flut **macht Tag 2 rückgängig** — die kosmische Wassergrenze wird von beiden Seiten durchbrochen. Ent-Schöpfung.
+> - **אֲרֻבֹּת הַשָּׁמַיִם** (*arubbot ha-shamayim*) = „Fenster des Himmels." Der Himmel hat Öffnungen, durch die die Wasser oberhalb des Raqia herabsteigen. Dies kehrt Gn 1:6–7 um: die Flut macht die Raqia-Trennung (Tag 2) von beiden Seiten rückgängig — Ent-Schöpfung.
+>
+> Für ausführlichere Diskussion siehe Begleitmaterial Abschnitt [C].
 >
 > 🔵 **GENAUES DATUM**
 > - Zweiter Monat, siebzehnter Tag. Die Wasser gehen zurück im selben kalendarischen Rahmen (8:4,5,13,14). Die Flut hat einen Beginn und ein Ende auf derselben Zeitlinie.
@@ -204,7 +205,7 @@ Und der Regen war auf dem Land vierzig Tage und vierzig Nächte.
 
 ### **Vers 13**
 
-An eben diesem Tag trat Noach ein, und Shem und Cham und Yafet, die Söhne Noachs, und die Frau Noachs und die drei Frauen seiner Söhne mit ihnen, in die Tebah —
+An eben diesem Tag trat Noah ein, und Shem und Ham (Ham) und Yafet (Jafet), die Söhne Noahs, und die Frau Noahs und die drei Frauen seiner Söhne mit ihnen, in die Tebah —
 
 > **📝 NOTIZEN**
 >
@@ -226,7 +227,7 @@ sie, und jedes Lebewesen nach seiner Art, und alles Vieh nach seiner Art, und je
 
 ### **Vers 15**
 
-Und sie kamen zu Noach in die Tebah, zwei zwei von allem Fleisch, in dem Atem des Lebens *ist*.
+Und sie kamen zu Noah in die Tebah, zwei zwei von allem Fleisch, in dem Atem des Lebens *ist*.
 
 ---
 
@@ -305,7 +306,7 @@ Alles, was Atem des Windes/Geistes des Lebens in seinen Nüstern *hatte*, von al
 
 ### **Vers 23**
 
-Und er löschte jedes Stehende aus, das auf dem Angesicht des Bodens *war*, vom Menschen bis zum Vieh bis zum Kriechenden bis zum Vogel des Himmels, und sie wurden ausgelöscht vom Land; und nur Noach blieb übrig, und die mit ihm in der Tebah.
+Und er löschte jedes Stehende aus, das auf dem Angesicht des Bodens *war*, vom Menschen bis zum Vieh bis zum Kriechenden bis zum Vogel des Himmels, und sie wurden ausgelöscht vom Land; und nur Noah blieb übrig, und die mit ihm in der Tebah.
 
 > **📝 NOTIZEN**
 >
@@ -313,7 +314,7 @@ Und er löschte jedes Stehende aus, das auf dem Angesicht des Bodens *war*, vom 
 > - 6:7: „Ich werde auslöschen (*emcheh*)"; 7:4: „Ich werde auslöschen (*machah*)"; 7:23: „er löschte aus (*vayyimach*)." Verheißung → Wiederholung → Erfüllung. Dasselbe Verb durchgehend.
 >
 > 🔵 **„NUR NOACH BLIEB ÜBRIG"**
-> - **וַיִּשָּׁאֶר אַךְ־נֹחַ** = „und es blieb übrig nur Noach." Das Partikel *akh* (nur/allein) betont die Isolation. Die gesamte lebende Welt außerhalb der Tebah ist dahin.
+> - **וַיִּשָּׁאֶר אַךְ־נֹחַ** = „und es blieb übrig nur Noah." Das Partikel *akh* (nur/allein) betont die Isolation. Die gesamte lebende Welt außerhalb der Tebah ist dahin.
 
 ---
 
@@ -344,9 +345,9 @@ Und die Wasser überwältigten auf dem Land einhundertfünfzig Tage.
 ## KAPITELÜBERGREIFENDE VERFOLGUNG (Gn 6 → Gn 7)
 
 **Gehorsamsformel-Kette:**
-- 6:22: „Noach tat nach allem, was Gott ihm geboten hatte; so tat er"
-- 7:5: „Noach tat nach allem, was JHWH ihm geboten hatte"
-- 7:9: „wie Gott Noach geboten hatte"
+- 6:22: „Noah (Noah) tat nach allem, was Gott ihm geboten hatte; so tat er"
+- 7:5: „Noah tat nach allem, was JHWH ihm geboten hatte"
+- 7:9: „wie Gott Noah geboten hatte"
 - 7:16: „wie Gott ihm geboten hatte"
 - Beachte den Wechsel der Gottesnamen innerhalb der Formel: Gott (6:22) → JHWH (7:5) → Gott (7:9, 7:16a) → JHWH schließt die Tebah (7:16b).
 
@@ -373,7 +374,7 @@ Und die Wasser überwältigten auf dem Land einhundertfünfzig Tage.
 - 7:22: „alles, was *nishmat ruach chayyim* hatte" (Atem des Windes/Geistes des Lebens) — die am weitesten entfaltete Form, die beide früheren Wendungen verbindet
 
 **Verteilung der Gottesnamen in Gn 7:**
-- VV.1–5: JHWH (persönlicher Befehl an Noach)
+- VV.1–5: JHWH (persönlicher Befehl an Noah)
 - VV.7–10: kein Gottesname (Erzählung)
 - V.9: Gott/Elohim („wie Gott gebot")
 - V.16a: Gott/Elohim („wie Gott ihm gebot")

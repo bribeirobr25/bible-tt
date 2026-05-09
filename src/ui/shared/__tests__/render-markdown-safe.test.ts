@@ -1,10 +1,13 @@
-import { describe, it, expect } from "vitest";
+import { describe, expect, it } from "vitest";
 import { renderMarkdownSafe } from "../render-markdown-safe";
 
 describe("renderMarkdownSafe", () => {
   describe("HTML escaping", () => {
     it("escapes < and > before applying transforms", () => {
-      const result = renderMarkdownSafe("The phrase <Hebrew> is uncommon", "prose");
+      const result = renderMarkdownSafe(
+        "The phrase <Hebrew> is uncommon",
+        "prose",
+      );
       expect(result).toContain("&lt;Hebrew&gt;");
       expect(result).not.toContain("<Hebrew>");
     });
@@ -50,7 +53,10 @@ describe("renderMarkdownSafe", () => {
     });
 
     it("converts list items", () => {
-      const result = renderMarkdownSafe("intro\n- item one\n- item two", "note");
+      const result = renderMarkdownSafe(
+        "intro\n- item one\n- item two",
+        "note",
+      );
       expect(result).toContain("• item one");
       expect(result).toContain("• item two");
     });

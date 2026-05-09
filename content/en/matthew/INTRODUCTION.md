@@ -10,7 +10,7 @@
 **Book:** Matthew (Μαθθαῖος, *Maththaios*)
 **Language:** English
 **Introduction to:** `en/matthew/` (Transparent Edition)
-**Ruleset:** v3.0 (Rule 29 governs this file)
+**Ruleset:** v3.3 (Rule 29 governs this file)
 **Status:** provisional
 
 ---
@@ -46,22 +46,22 @@ This file contains background material organized by topic. Each entry carries **
 ### A1. What the Gospel of Matthew is
 **[TEXTUAL — VERIFIED]**
 
-The Gospel of Matthew is the first book of the New Testament canon. It is the most Jewish of the four Gospels — deeply rooted in the Hebrew Bible, structured around fulfillment citations, and concerned with Torah observance, the role of Israel, and the identity of Yeshua as the Messiah of Jewish expectation. It contains 28 chapters and approximately 1,071 verses.
+The Gospel of Matthew is the first book of the New Testament canon. It is the most Jewish of the four Gospels — deeply rooted in the Hebrew Bible, structured around fulfillment citations, and concerned with Torah observance, the role of Israel, and the identity of Yeshua (Jesus) as the Messiah of Jewish expectation. It contains 28 chapters and approximately 1,071 verses.
 
-Matthew shares substantial material with Mark and Luke (the "Synoptic Problem") but is distinguished by its organizational structure, its emphasis on Yeshua as teacher, and its extensive engagement with the Hebrew Scriptures. It includes material absent from the other Synoptics: the genealogy tracing Yeshua through David to Avraham (1:1--17), the birth narrative with Yosef's dreams and the magi (1:18--2:23), and significant blocks of teaching material unique to Matthew.
+Matthew shares substantial material with Mark and Luke — the three together are called the Synoptic Gospels (from Greek *syn* + *opsis*, "seen together"), because they follow a similar structure and often share the same wording. The question of why they overlap so extensively is called the "Synoptic Problem." Matthew is distinguished from the other Synoptics by its organizational structure, its emphasis on Jesus as teacher, and its extensive engagement with the Hebrew Scriptures. It includes material absent from the other Synoptics: the genealogy tracing Jesus through David to Avraham (Abraham) (1:1--17), the birth narrative with Yosef (Joseph)'s dreams and the magi (1:18--2:23), and significant blocks of teaching material unique to Matthew.
 
 **Source:** Davies and Allison, *A Critical and Exegetical Commentary on the Gospel According to Saint Matthew* (ICC, 1988--1997), I.1--58; Luz, *Matthew* (Hermeneia, 2001--2007), I.1--20.
 
 ### A2. Literary structure — Five discourses
 **[TEXTUAL — VERIFIED]**
 
-Matthew is organized around five major discourse blocks, each concluded by the formula "and it happened when Yeshua finished these words/sayings" (καὶ ἐγένετο ὅτε ἐτέλεσεν ὁ Ἰησοῦς τοὺς λόγους τούτους, or variant). This fivefold structure has been widely noted since B. W. Bacon (1918):
+Matthew is organized around five major discourse blocks, each concluded by the formula "and it happened when Yeshua (Jesus) finished these words/sayings" (καὶ ἐγένετο ὅτε ἐτέλεσεν ὁ Ἰησοῦς τοὺς λόγους τούτους, or variant). This fivefold structure has been widely noted since B. W. Bacon (1918):
 
 **Discourse 1 — Sermon on the Mount (chapters 5--7):** Ethics of the kingdom. The Beatitudes, the antitheses ("you have heard... but I say to you"), the Lord's Prayer, instruction on righteousness exceeding that of the scribes and Pharisees.
 
 **Discourse 2 — Mission Discourse (chapter 10):** Instructions to the twelve apostles for their mission. Warnings of persecution, assurances of divine care, the cost of discipleship.
 
-**Discourse 3 — Parable Discourse (chapter 13):** Seven parables of the kingdom of the skies — sower, wheat and weeds, mustard seed, leaven, hidden treasure, pearl, dragnet. Teaching on why Yeshua speaks in parables (13:10--17).
+**Discourse 3 — Parable Discourse (chapter 13):** Seven parables of the kingdom of the skies — sower, wheat and weeds, mustard seed, leaven, hidden treasure, pearl, dragnet. Teaching on why Jesus speaks in parables (13:10--17).
 
 **Discourse 4 — Community Discourse (chapter 18):** Instructions for life within the community of disciples. The greatest in the kingdom, the lost sheep, fraternal correction, forgiveness (seventy times seven), the parable of the unforgiving servant.
 
@@ -76,11 +76,11 @@ Each discourse is preceded by a narrative section, creating a rhythm of narrativ
 
 The narrative arc of Matthew moves through four major phases:
 
-**Origins and preparation (1:1--4:16):** Genealogy (1:1--17), birth narrative (1:18--2:23), Yochanan the Immerser's ministry (3:1--12), Yeshua's immersion and testing (3:13--4:11), withdrawal to Galilee (4:12--16).
+**Origins and preparation (1:1--4:16):** Genealogy (1:1--17), birth narrative (1:18--2:23), Yochanan (John) the Immerser's ministry (3:1--12), Yeshua (Jesus)'s immersion and testing (3:13--4:11), withdrawal to Galilee (4:12--16).
 
-**Galilean ministry (4:17--16:20):** Public teaching and healing, beginning with "From then Yeshua began to proclaim" (4:17). The five discourses fall primarily within this section. The confession of Kefa at Caesarea Philippi (16:13--20) marks a turning point.
+**Galilean ministry (4:17--16:20):** Public teaching and healing, beginning with "From then Jesus began to proclaim" (4:17). The five discourses fall primarily within this section. The confession of Kefa (Peter) at Caesarea Philippi (16:13--20) marks a turning point.
 
-**Journey to Yerushalayim and passion (16:21--27:66):** Passion predictions, entry into Yerushalayim, temple controversies, the eschatological discourse, the last supper, arrest, trial, crucifixion, burial.
+**Journey to Yerushalayim (Jerusalem) and passion (16:21--27:66):** Passion predictions, entry into Jerusalem, temple controversies, the eschatological discourse, the last supper, arrest, trial, crucifixion, burial.
 
 **Resurrection and commission (28:1--20):** The empty tomb, appearance to the women, the Great Commission on the mountain in Galilee.
 
@@ -121,7 +121,7 @@ Most contemporary scholars doubt that the apostle Matthew wrote the Gospel in it
 - **Third-person reference:** The call of Matthew (9:9) is narrated in the third person, without any indication that the author is describing his own experience.
 - **Post-70 indicators:** References that presuppose the destruction of the Temple (see C1) place the composition after the events an apostle might have pre-dated.
 
-The author was likely a Greek-speaking Jewish Christian with strong scribal training, deep knowledge of the Hebrew Scriptures (in both Hebrew and LXX forms), and access to Mark's Gospel and additional tradition (Q or equivalent).
+The author was likely a Greek-speaking Jewish Christian with strong scribal training, deep knowledge of the Hebrew Scriptures (in both Hebrew and LXX — the ancient Greek translation — forms), and access to Mark's Gospel and additional tradition (Q or equivalent).
 
 **Source:** Stendahl, *The School of St. Matthew* (1954); Luz, *Matthew* (Hermeneia), I.47--54; Hagner, *Matthew* (WBC, 1993--1995), I.lxxiii--lxxv.
 
@@ -152,7 +152,7 @@ A minority of scholars argue for a pre-70 date, noting that 22:7 could be prophe
 
 The Gospel of Matthew reflects a community that is Jewish in identity but increasingly distinct from the emerging rabbinic movement. Key indicators:
 
-- **Torah affirmation:** Yeshua declares that he came "not to abolish but to fulfill" the Torah and Prophets (5:17). Not one iota or stroke will pass from the Torah (5:18). The disciples are to practice and teach every commandment (5:19). This Torah-positive stance distinguishes Matthew from later Gentile Christianity's more ambivalent relationship with Jewish law.
+- **Torah affirmation:** Yeshua (Jesus) declares that he came "not to abolish but to fulfill" the Torah and Prophets (5:17). Not one iota or stroke will pass from the Torah (5:18). The disciples are to practice and teach every commandment (5:19). This Torah-positive stance distinguishes Matthew from later Gentile Christianity's more ambivalent relationship with Jewish law.
 - **Anti-Pharisaic polemic:** Chapter 23 contains the sustained "woe to you, scribes and Pharisees" discourse — the most extensive anti-Pharisaic material in any Gospel. This polemic likely reflects real competition between the Matthean community and the Pharisaic/rabbinic movement for leadership of post-Temple Judaism.
 - **"Their synagogues":** The consistent use of "their" signals that the author's community is no longer inside the synagogue, though it remains in dialogue (and conflict) with it.
 
@@ -174,7 +174,7 @@ This remains a hypothesis — the Gospel does not name its place of composition,
 
 Matthew presupposes a readership with deep familiarity with Jewish Scripture and practice:
 
-- The genealogy (1:1--17) structures Yeshua's lineage through Avraham and David — figures whose significance requires no explanation.
+- The genealogy (1:1--17) structures Yeshua (Jesus)'s lineage through Avraham (Abraham) and David — figures whose significance requires no explanation.
 - Fulfillment citations assume readers will recognize the OT passages and care about their realization.
 - Jewish customs are mentioned without explanation (contrast Mark 7:3--4, which explains Pharisaic hand-washing for a presumably Gentile audience).
 - The debate about Torah observance (5:17--20; 23:2--3) presupposes an audience for whom Torah authority is axiomatic, not foreign.
@@ -190,28 +190,22 @@ At the same time, the Great Commission (28:19--20) directs the mission "to all t
 
 The Greek text of the Gospel of Matthew was transmitted through the same manuscript tradition as the other Gospels:
 
-```
-Composition (c. 80--90 CE)
-     ↓
-Early copies (2nd--3rd century CE)
-  ├── P1 (3rd c.) — Matt 1:1--9, 12, 14--20
-  ├── P45 (3rd c.) — portions of all four Gospels + Acts
-  ├── P64+67 (late 2nd c.) — Matt 3, 5, 26
-  └── P104 (2nd c.) — Matt 21:34--37, 43, 45
-     ↓
-Major codices (4th--5th century CE)
-  ├── Codex Sinaiticus (א, 4th c.)
-  ├── Codex Vaticanus (B, 4th c.)
-  ├── Codex Alexandrinus (A, 5th c.)
-  └── Codex Bezae (D, 5th c.)
-     ↓
-Byzantine tradition (5th--15th c.)
-     ↓
-Printed editions
-  ├── Erasmus (1516)
-  ├── Textus Receptus tradition (16th--19th c.)
-  └── Critical editions: NA28 / UBS5 (current standard)
-```
+- Composition (c. 80--90 CE)
+- Early copies (2nd--3rd century CE):
+  - P1 (3rd c.) — Matt 1:1--9, 12, 14--20
+  - P45 (3rd c.) — portions of all four Gospels + Acts
+  - P64+67 (late 2nd c.) — Matt 3, 5, 26
+  - P104 (2nd c.) — Matt 21:34--37, 43, 45
+- Major codices (4th--5th century CE):
+  - Codex Sinaiticus (א, 4th c.)
+  - Codex Vaticanus (B, 4th c.)
+  - Codex Alexandrinus (A, 5th c.)
+  - Codex Bezae (D, 5th c.)
+- Byzantine tradition (5th--15th c.)
+- Printed editions:
+  - Erasmus (1516)
+  - Textus Receptus tradition (16th--19th c.)
+  - Critical editions: NA28 (Nestle-Aland 28th edition — the standard scholarly Greek text) / UBS5 (current standard)
 
 ### E2. Key manuscript witnesses
 **[HISTORICAL / ARCHAEOLOGICAL — VERIFIED]**
@@ -254,18 +248,18 @@ Per the TT's transliteration policy, key proper names in Matthew are rendered fr
 
 | Traditional EN | TT rendering | Original |
 |----------------|-------------|----------|
-| Jesus | Yeshua | Ἰησοῦς (*Iēsous*) ← Hebrew/Aramaic יֵשׁוּעַ (*Yeshua*) |
-| Mary (mother) | Miryam | Μαρία/Μαριάμ (*Maria/Mariam*) ← Hebrew מִרְיָם (*Miryam*) |
-| Joseph | Yosef | Ἰωσήφ (*Iōsēph*) ← Hebrew יוֹסֵף (*Yosef*) |
-| John the Baptist | Yochanan the Immerser | Ἰωάννης (*Iōannēs*) ← Hebrew יוֹחָנָן (*Yochanan*); βαπτιστής rendered as "Immerser" per locked glossary |
-| Abraham | Avraham | Ἀβραάμ (*Abraam*) ← Hebrew אַבְרָהָם (*Avraham*) |
-| Isaac | Yitschaq | Ἰσαάκ (*Isaak*) ← Hebrew יִצְחָק (*Yitschaq*) |
-| Jacob | Ya'aqov | Ἰακώβ (*Iakōb*) ← Hebrew יַעֲקֹב (*Ya'aqov*) |
-| Judah | Yehudah | Ἰούδας (*Ioudas*) ← Hebrew יְהוּדָה (*Yehudah*) |
+| Jesus | Yeshua (Jesus) | Ἰησοῦς (*Iēsous*) ← Hebrew/Aramaic יֵשׁוּעַ (*Yeshua*) |
+| Mary (mother) | Miryam (Mary) | Μαρία/Μαριάμ (*Maria/Mariam*) ← Hebrew מִרְיָם (*Miryam*) |
+| Joseph | Yosef (Joseph) | Ἰωσήφ (*Iōsēph*) ← Hebrew יוֹסֵף (*Yosef*) |
+| John the Baptist | Yochanan (John) the Immerser | Ἰωάννης (*Iōannēs*) ← Hebrew יוֹחָנָן (*Yochanan*); βαπτιστής rendered as "Immerser" per locked glossary |
+| Abraham | Avraham (Abraham) | Ἀβραάμ (*Abraam*) ← Hebrew אַבְרָהָם (*Avraham*) |
+| Isaac | Yitschaq (Isaac) | Ἰσαάκ (*Isaak*) ← Hebrew יִצְחָק (*Yitschaq*) |
+| Jacob | Ya'aqov (Jacob) | Ἰακώβ (*Iakōb*) ← Hebrew יַעֲקֹב (*Ya'aqov*) |
+| Judah | Yehudah (Judah) | Ἰούδας (*Ioudas*) ← Hebrew יְהוּדָה (*Yehudah*) |
 | David | David | Δαυίδ (*Dauid*) ← Hebrew דָּוִד (*David*) |
-| Solomon | Shelomoh | Σολομών (*Solomōn*) ← Hebrew שְׁלֹמֹה (*Shelomoh*) |
-| Herod | Herodes | Ἡρῴδης (*Hērōdēs*) — Greek/Latin name, retained in transliteration |
-| Peter | Kefa | Κηφᾶς (*Kēphas*) ← Aramaic כֵּיפָא (*Kefa*, "rock"); Greek Πέτρος (*Petros*) |
+| Solomon | Shelomoh (Solomon) | Σολομών (*Solomōn*) ← Hebrew שְׁלֹמֹה (*Shelomoh*) |
+| Herod | Herodes (Herod) | Ἡρῴδης (*Hērōdēs*) — Greek/Latin name, retained in transliteration |
+| Peter | Kefa (Peter) | Κηφᾶς (*Kēphas*) ← Aramaic כֵּיפָא (*Kefa*, "rock"); Greek Πέτρος (*Petros*) |
 
 ### F3. Old Testament quotations — the fulfillment formula
 **[TEXTUAL — VERIFIED]**
@@ -304,7 +298,7 @@ When Matthew quotes Hebrew Bible passages containing the Tetragrammaton (YHWH), 
 
 - The main text renders *kyrios* as "the Lord" in OT quotation contexts.
 - A note identifies the OT source and states that the underlying Hebrew has the Tetragrammaton.
-- When *kyrios* refers to Yeshua or a human lord (not an OT YHWH quotation), no YHWH note is needed.
+- When *kyrios* refers to Yeshua (Jesus) or a human lord (not an OT YHWH quotation), no YHWH note is needed.
 - Ambiguous cases are flagged per Rule 13.
 
 This is particularly relevant in Matthew given the high density of OT quotations. Key instances: 3:3 (quoting Isa 40:3); 4:7, 10 (quoting Deut 6:16; 6:13); 22:37 (quoting Deut 6:5); 22:44 (quoting Ps 110:1).
@@ -314,15 +308,17 @@ This is particularly relevant in Matthew given the high density of OT quotations
 
 | Rule | Name | Matthew-specific application |
 |------|------|-------------------------------|
-| 1 | Prime Directive | Do not simplify the genealogy's structure (three sets of fourteen) or resolve its historical tensions. |
+| *(unnumbered)* | Prime Directive | Do not simplify the genealogy's structure (three sets of fourteen) or resolve its historical tensions. Do not flatten the fulfillment formula into a single interpretive framework. |
+| 1 | Controlled Lexical Consistency | Locked glossary terms (*basileia*, *ekklesia*, *dikaiosynē*, *pascha*, etc.) are rendered consistently across all Matthew chapters per GS glossary. |
+| 2 | Ambiguity Preservation | Slash renderings preserve genuine Greek ambiguity rather than choosing one sense. |
 | 3 | No imported theology | The birth narrative is translated as the text presents it — without importing later Marian theology or dismissing the narrative as myth. Restraint both ways. |
-| 4 | No interpretive paraphrase | "Kingdom of the skies" rendered literally, not paraphrased as "kingdom of heaven" or "God's kingdom." |
-| 7 | Preserve semantic range | *Parthenos* at 1:23 carries its full Greek semantic range (young woman/virgin); noted rather than collapsed. |
-| 11 | Mark grammatical additions | Words added for English grammar appear in italics. |
-| 13 | Uncertainty levels | Debated terms and genealogical questions carry confidence labels. |
-| 14 | Source-text notes | Key Greek terms preserved in transliteration where semantically significant. |
-| 22 | No interpretive section headings | Section divisions do not impose a reading on the text. |
-| 25 | YHWH rendered consonantally | Applied in OT quotation contexts per the Divine Name Policy (F5). |
+| 4 | Transliterate Strategic Terms | "Kingdom of the skies" rendered literally, not paraphrased as "kingdom of heaven" or "God's kingdom." Rule 4 threshold not crossed for βασιλεία. |
+| 7 | Preserve Parallel Structure | The fivefold discourse structure and recurring fulfillment formula pattern are preserved across chapters. *Parthenos* at 1:23 carries its full Greek semantic range. |
+| 11 | Mark Grammatical Additions | Words added for English grammar appear in italics. |
+| 13 | Uncertainty Levels | Debated terms and genealogical questions carry confidence labels (Probable / Possible / Uncertain). |
+| 14 | Annotate Wordplay | Key Greek terms noted in Tier 2 where semantic range or wordplay is significant. |
+| 22 | Text-Critical Restraint | Textual variants (e.g., Matt 1:16 Syriac variant, Matt 27:16–17 "Jesus Barabbas") noted in Tier 2 without silent adoption. |
+| 25 | Divine Name Policy — GS applies Option C | κύριος rendered as "the Lord" in OT quotation contexts, with Tier 2 note identifying YHWH in the underlying Hebrew. See Divine Name Policy (F5). |
 
 ---
 

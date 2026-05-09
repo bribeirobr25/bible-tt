@@ -1,8 +1,11 @@
-import { describe, it, expect, vi } from "vitest";
 import fs from "node:fs/promises";
 import path from "node:path";
+import { describe, expect, it, vi } from "vitest";
+import type {
+  ConfidenceLevel,
+  FulfillmentStatus,
+} from "@/domain/content/types";
 import { parseProphecyMarkdown } from "../prophecy-parser";
-import type { ConfidenceLevel, FulfillmentStatus } from "@/domain/content/types";
 
 const ROOT = path.resolve(process.cwd(), "content");
 

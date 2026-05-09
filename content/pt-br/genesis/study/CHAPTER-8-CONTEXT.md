@@ -10,7 +10,7 @@
 **Capítulo:** Genesis 8
 **Idioma:** Português Brasileiro
 **Acompanha:** `pt-br/genesis/CHAPTER-8.md` (Edição Transparente)
-**Regras:** v3.0 (Regra 29 governa este arquivo)
+**Regras:** v3.3 (Regra 29 governa este arquivo)
 **Status:** provisório
 
 ---
@@ -35,7 +35,7 @@ Gn 7:11: fontes "se romperam" (*nivqe'u*), janelas "se abriram" (*niftchu*). Gn 
 ### A4. A tebah "repousou" (*tanach*) — raiz n-w-ch
 **[TEXTUAL — VERIFICADO]**
 
-Gn 8:4: וַתָּנַח הַתֵּבָה (*vattanach ha-tebah*) = "a tebah repousou." Raiz: נ-ו-ח (*n-w-ch*) — a mesma raiz do nome de Noach. A tebah "*noach*-ou" nos montes. Esta é a segunda ocorrência de n-w-ch na narrativa do dilúvio, após o próprio nome.
+Gn 8:4: וַתָּנַח הַתֵּבָה (*vattanach ha-tebah*) = "a tebah repousou." Raiz: נ-ו-ח (*n-w-ch*) — a mesma raiz do nome de Noé. A tebah "*noach*-ou" nos montes. Esta é a segunda ocorrência de n-w-ch na narrativa do dilúvio, após o próprio nome.
 
 ### A5. Saturação da raiz N-W-CH — quatro ocorrências
 **[TEXTUAL — VERIFICADO]**
@@ -68,11 +68,11 @@ A palavra *yetser* (inclinação) em si deriva da raiz י-צ-ר (*y-ts-r*, "form
 ### A9. O macro-quiasmo de Gn 6:9–9:29
 **[TEXTUAL — VERIFICADO]**
 
-A narrativa do dilúvio é organizada como um quiasmo em larga escala com "Deus lembrou-se de Noach" (8:1) como o ponto de virada estrutural preciso. Esta arquitetura literária, documentada por Wenham e Radday, revela que cada unidade antes de 8:1 espelha uma unidade correspondente depois dele:
+A narrativa do dilúvio é organizada como um quiasmo (estrutura espelhada) em larga escala com "Deus lembrou-se de Noé" (8:1) como o ponto de virada estrutural preciso. Esta arquitetura literária, documentada por Wenham e Radday, revela que cada unidade antes de 8:1 espelha uma unidade correspondente depois dele:
 
 | Antes de 8:1 | Pivô | Depois de 8:1 |
 |---|---|---|
-| Discurso divino de julgamento (6:13–21) | **Deus lembrou-se de Noach (8:1)** | Discurso divino de compromisso (8:21–22; 9:1–17) |
+| Discurso divino de julgamento (6:13–21) | **Deus lembrou-se de Noé (8:1)** | Discurso divino de compromisso (8:21–22; 9:1–17) |
 | "Entristeceu-se em seu coração" (6:6) | | "YHWH disse em seu coração" (8:21) |
 | Aliança anunciada, sem termos (6:18) | | Aliança estabelecida com termos (9:9–17) |
 | "Entra na tebah" (7:1) | | "Sai da tebah" (8:16) |
@@ -91,7 +91,7 @@ O quiasmo mostra que 8:1 não é meramente uma transição narrativa, mas o cent
 ### B1. Envio de pássaros — Gilgamesh vs Gênesis
 **[PARALELO COMPARATIVO — VERIFICADO]**
 
-Gilgamesh XI:145-154: Utnapishtim envia uma pomba (retorna), uma andorinha (retorna), um corvo (não retorna — encontra alimento). Gênesis 8:7-12: Noach envia um corvo (vai e volta), depois uma pomba três vezes (retorna vazia → retorna com folha de oliveira → não retorna).
+Gilgamesh XI:145-154: Utnapishtim envia uma pomba (retorna), uma andorinha (retorna), um corvo (não retorna — encontra alimento). Gênesis 8:7-12: Noé envia um corvo (vai e volta), depois uma pomba três vezes (retorna vazia → retorna com folha de oliveira → não retorna).
 
 Diferenças-chave: (1) ordem invertida dos pássaros; (2) Gênesis tem três missões da pomba com resultados progressivos; (3) em Gilgamesh, o não retorno do corvo sinaliza sucesso — em Gênesis, o comportamento do corvo é inconclusivo. A sequência de três estágios da pomba em Gênesis é estruturalmente mais desenvolvida.
 
@@ -116,15 +116,15 @@ O contraste é marcante: múltiplos deuses se reunindo "como moscas" (famintos, 
 ### B4. Comparação dos heróis do dilúvio
 **[PARALELO COMPARATIVO — VERIFICADO]**
 
-| Característica | Ziusudra (sumério) | Utnapishtim (acadiano) | Atrahasis | Noach (Gênesis) |
+| Característica | Ziusudra (sumério) | Utnapishtim (acadiano) | Atrahasis | Noé (Gênesis) |
 |---|---|---|---|---|
 | Como é avisado | Visão divina | Deus fala através da parede | Deus fala diretamente | Deus fala diretamente |
 | Papel | Rei e sacerdote | Rei | Homem sábio | Homem justo (*tsaddiq*) |
 | Destino pós-dilúvio | Vida eterna em Dilmun | Vida eterna no fim do mundo | Incerto | Mortal — morre aos 950 |
-| Fala pós-dilúvio | Adoração ao deus sol | Narrativa a Gilgamesh | Nenhuma registrada | Maldição sobre Kenaan (9:25) |
+| Fala pós-dilúvio | Adoração ao deus sol | Narrativa a Gilgamesh | Nenhuma registrada | Maldição sobre Canaã (9:25) |
 | Significado do nome | "Vida de Longos Dias" | "Ele encontrou vida" | "Excessivamente sábio" | "Repouso/consolo" (*n-w-ch*) |
 
-Gênesis é distintivo: Noach não alcança imortalidade; seu nome está enraizado na experiência humana e não em um atributo divino; e sua única fala registrada é uma maldição, não louvor. A observação da TT de que o silêncio de Noach (6:9–9:24) e sua primeira fala (9:25) são estruturalmente deliberados é reforçada por este contexto comparativo.
+Gênesis é distintivo: Noé não alcança imortalidade; seu nome está enraizado na experiência humana e não em um atributo divino; e sua única fala registrada é uma maldição, não louvor. A observação da TT de que o silêncio de Noé (6:9–9:24) e sua primeira fala (9:25) são estruturalmente deliberados é reforçada por este contexto comparativo.
 
 **Fonte:** George, A.R., *The Babylonian Gilgamesh Epic*, Oxford, 2003; Jacobsen, T., *The Harps That Once*, Yale, 1987.
 
@@ -142,7 +142,7 @@ A oliveira (*zayit*) é nativa do Mediterrâneo oriental e prospera no Levante. 
 ### C2. Primeiro altar — *mizbeach* no contexto arqueológico
 **[HISTÓRICO / ARQUEOLÓGICO — PROVÁVEL]**
 
-Gn 8:20: Noach constrói o primeiro *mizbeach* (altar) na narrativa bíblica. A evidência arqueológica mais antiga de instalações sacrificiais estruturadas no Oriente Próximo data do Neolítico Pré-Cerâmico (c. 9000-7000 AEC). Altares ao ar livre feitos de pedra não lavrada são a forma mais simples e antiga.
+Gn 8:20: Noé constrói o primeiro *mizbeach* (altar) na narrativa bíblica. A evidência arqueológica mais antiga de instalações sacrificiais estruturadas no Oriente Próximo data do Neolítico Pré-Cerâmico (c. 9000-7000 AEC). Altares ao ar livre feitos de pedra não lavrada são a forma mais simples e antiga.
 
 ---
 
@@ -151,7 +151,7 @@ Gn 8:20: Noach constrói o primeiro *mizbeach* (altar) na narrativa bíblica. A 
 ### D1. *Nichoach* — o aroma de "repouso"
 **[TEXTUAL — VERIFICADO]**
 
-Gn 8:21: רֵיחַ הַנִּיחֹחַ (*reach ha-nichoach*). A palavra *nichoach* é da raiz נ-ו-ח — a mesma raiz do nome de Noach. O aroma agradável/apaziguante é literalmente um aroma de "repouso." O sacrifício de Noach produz um *aroma-Noach*. Este jogo de palavras é invisível na maioria das traduções que traduzem "aroma agradável" sem conectá-lo ao nome do protagonista.
+Gn 8:21: רֵיחַ הַנִּיחֹחַ (*reach ha-nichoach*). A palavra *nichoach* é da raiz נ-ו-ח — a mesma raiz do nome de Noé. O aroma agradável/apaziguante é literalmente um aroma de "repouso." O sacrifício de Noé produz um *aroma-Noach*. Este jogo de palavras é invisível na maioria das traduções que traduzem "aroma agradável" sem conectá-lo ao nome do protagonista.
 
 ### D2. *Manoach* — onde a pomba não pode repousar
 **[TEXTUAL — VERIFICADO]**
@@ -184,7 +184,7 @@ A folha de oliveira (8:11) tornou-se um símbolo duradouro de paz. Mas o texto n
 ### G3. "Disse em seu coração" — interioridade divina
 **[TEXTUAL — VERIFICADO]**
 
-Gn 8:21: "YHWH disse em seu coração" (*el-libbo*). Este é discurso divino interno — Deus resolvendo consigo mesmo, não falando a Noach. O leitor humano recebe acesso ao pensamento interior de Deus. Isto se resolve privadamente; a aliança pública segue em Gn 9. A resolução interna precede e fundamenta o compromisso externo.
+Gn 8:21: "YHWH disse em seu coração" (*el-libbo*). Este é discurso divino interno — Deus resolvendo consigo mesmo, não falando a Noé. O leitor humano recebe acesso ao pensamento interior de Deus. Isto se resolve privadamente; a aliança pública segue em Gn 9. A resolução interna precede e fundamenta o compromisso externo.
 
 O monólogo interior divino é uma convenção literária reconhecida em textos do AOP. Na Teologia Menfita egípcia, o deus Ptah cria através do pensamento "no coração" antes do comando verbal. O recurso retrata a tomada de decisão divina como deliberada e racional, não impulsiva. A TT o traduz literalmente, preservando o retrato antropomórfico mas digno.
 
@@ -202,6 +202,78 @@ Genesis 8:21–22 apresenta YHWH fazendo um compromisso interno ("disse em seu c
 **[COMPARAÇÃO CIENTÍFICA — POSSÍVEL]**
 
 Genesis 8:6–12 envia dois pássaros: o corvo (*orev*) "saiu, saindo e voltando" (8:7) sem resolução; a pomba (*yonah*) retorna sem encontrar repouso (8:8–9), depois retorna com uma folha de oliveira (8:10–11), depois não retorna (8:12). Na ornitologia, corvos (*Corvus corax*) são onívoros necrófagos capazes de se alimentar de carniça flutuante e detritos — podem sobreviver sem terra firme. Pombas (*Columba*) são granívoras e necessitam de solo seco com vegetação para alimentação. O comportamento diferente de cada pássaro — o corvo sustentando-se sobre a água, a pomba necessitando de terra — alinha-se com seus nichos ecológicos reais. Paralelos do antigo Oriente Próximo mostram motivos semelhantes de envio de pássaros (Gilgamesh XI envia pomba, andorinha, corvo), sugerindo uma tradição narrativa compartilhada. Se o autor de Genesis conhecia a ecologia dos pássaros empiricamente, herdou o motivo da tradição, ou ambos, o texto seleciona pássaros cujo comportamento real corresponde à sua função narrativa.
+
+---
+
+## I. O Mundo na Época
+
+A datação da composição de Gênesis é debatida. Esta seção apresenta "o mundo na época" para cada cenário principal, de modo que leitores em qualquer posição possam ver o contexto histórico que se aplicaria aos temas do Gênesis 8: a sequência de re-criação, a augúrio por pássaros, a construção do altar e o sacrifício, a formação da aliança e a retomada da agricultura. A TT não toma partido sobre quando Gênesis foi composto. Para o contexto político, econômico e social completo das 10 categorias de cada cenário, ver o companheiro de Gênesis 1, Seção I.
+
+---
+
+### Cenário A: Se composto durante o período mosaico (~séc. XIII a.C.)
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]** *(Atribuição tradicional)*
+
+**I-A1. Augúrio por pássaros na Idade do Bronze Tardio**
+Soltar pássaros para determinar condições era uma prática reconhecida em todo o antigo Oriente Próximo. Textos de presságios mesopotâmicos incluíam augúrio por pássaros — observar o voo, o comportamento e o retorno de aves como sinais de comunicação divina. Textos rituais egípcios e hititas também usavam o comportamento de pássaros como indicadores divinatórios. A sequência do corvo e da pomba em Gênesis 8:6-12 seria imediatamente inteligível para um público da Idade do Bronze Tardio como um método de reconhecimento ambiental — que o texto retrata como observação prática, não como adivinhação ritual.
+
+**I-A2. Sacrifício e construção de altar após uma jornada**
+Na Idade do Bronze Tardio, oferecer sacrifícios ao término de uma jornada significativa, campanha militar ou libertação era prática padrão. Governantes egípcios ofereciam a Amun após vitórias; reis hititas sacrificavam após confirmações de tratados; textos cananeus (o Ciclo de Baal) incluem festins e oferendas pós-vitória. O primeiro ato de Noach (Noé) após deixar a *tevah* — construir um altar e oferecer holocaustos de todos os animais e pássaros limpos (8:20) — seria reconhecido como a resposta adequada ao resgate divino.
+
+**I-A3. Aliança e bênção agrícola nas convenções de tratados**
+Os tratados da Idade do Bronze Tardio (tratados de suserania hititas) tipicamente concluíam com fórmulas de bênção: fertilidade, chuvas e colheitas prometidas ao vassalo fiel. O compromisso de YHWH em Gênesis 8:22 — "sementeira e ceifa, frio e calor, verão e inverno, dia e noite não cessarão" — é paralelo à posição estrutural das bênçãos nas convenções de tratados do AOP. A promessa é especificamente agrícola e cósmica, abordando as duas coisas que um agricultor do antigo Oriente Próximo precisava garantidas: estações regulares e colheitas confiáveis.
+
+**I-A4. Recuperação agrícola após catástrofe**
+O ciclo das cheias do Nilo (inundação anual seguida de recuperação agrícola) era o ritmo definidor da vida egípcia. Os manuais agrícolas mesopotâmicos (o Almanaque do Agricultor Sumério, c. 1700 a.C., mas refletindo práticas mais antigas) detalhavam a sequência de preparação pós-cheia: quebrar torrões, limpar canais, plantar cevada. A transição de Gênesis 8 do dilúvio à "sementeira e ceifa" (8:22) ressoaria com um público para quem a recuperação agrícola após a catástrofe das águas era uma realidade anual vivida.
+
+---
+
+### Cenário B: Se composto durante o período monárquico (~séc. X-IX a.C.)
+**[HISTÓRICO / ARQUEOLÓGICO — POSSÍVEL]**
+
+**I-B1. Construção de altar como ato fundador da aliança**
+No período monárquico, os altares marcavam locais de encontro divino e aliança. Abraão construiu altares em Siquém, Betel e Hebrom (Gn 12:7-8; 13:18); Isaque em Berseba (26:25); Jacó em Betel (35:7). O altar de Noach (Noé) em 8:20 é o primeiro na narrativa bíblica. Num contexto em que os locais legítimos de altar eram politicamente contestados (os santuários rivais de Betel e Dã vs. Jerusalém), o estabelecimento da tradição do altar em Noé — fora de qualquer reivindicação política ou tribal — carrega peso teológico: o primeiro altar não pertence a nenhuma dinastia.
+
+**I-B2. A autolimitação divina como reivindicação teológica monárquica**
+A afirmação de Gênesis 8:21 — "YHWH disse em seu coração" e resolveu nunca mais destruir — apresenta Deus limitando voluntariamente seu próprio julgamento em resposta à realidade moral humana. Num contexto monárquico em que os profetas desafiavam o poder real em nome da justiça de YHWH, esta passagem apresenta um Deus que já se comprometeu com a contenção. O propósito divino de 8:21-22 fundamenta a estabilidade do mundo numa decisão divina interna, não na obediência humana ou no mérito real.
+
+**I-B3. As estações como categoria teológica**
+A promessa de "sementeira e ceifa, frio e calor, verão e inverno, dia e noite" (8:22) corresponde ao calendário agrícola que estruturava a vida israelita. O Calendário de Gezer (c. séc. X a.C.) documenta um ciclo agrícola de doze meses: dois meses de colheita, dois de plantio, dois de plantio tardio, um mês de linho, um de cevada, um de colheita e medição, dois meses de vinha, um de fruta de verão. As estações prometidas em 8:22 não são abstrações — são os ciclos específicos dos quais dependia a sobrevivência israelita.
+
+---
+
+### Cenário C: Se composto/finalizado durante o período Exílico/Pós-Exílico (~séc. VI-V a.C.)
+**[HISTÓRICO / ARQUEOLÓGICO — PROVÁVEL]** *(Consenso acadêmico para a forma final)*
+
+**I-C1. Sacrifício sem templo**
+A comunidade exílica enfrentava uma crise definidora: como adorar a YHWH sem o templo de Jerusalém. O altar de Noach (Noé) em 8:20 — construído a céu aberto, sem templo, sem sacerdócio, sem culto estabelecido — fornecia um precedente teológico: o sacrifício a YHWH era possível antes da existência do templo e fora de qualquer edifício sagrado. A resposta divina ao sacrifício de Noé ("YHWH aspirou o aroma agradável") fundamenta o culto na aceitação divina, não na execução do ritual no edifício correto.
+
+**I-C2. A promessa agrícola como esperança pós-catástrofe**
+Após 586 a.C., a comunidade exílica enfrentou o colapso de tudo que havia estruturado sua existência. A promessa divina de 8:22 — "sementeira e ceifa não cessarão" — carregaria enorme peso como compromisso de que a própria ordem criada permaneceria estável, independentemente de catástrofes políticas. O mundo que YHWH não destruiria novamente inclui os ciclos regulares da agricultura e do dia e da noite. A aliança é cósmica, não meramente pessoal.
+
+**I-C3. O padrão de re-criação e o retorno do exílio**
+A sequência de Gênesis 8 — *ruach* sobre as águas (8:1, ecoando 1:2), terra seca surgindo, criaturas liberadas para "frutificar e multiplicar" (8:17, ecoando 1:22, 1:28) — estrutura as consequências do dilúvio como uma nova criação. Para a comunidade exílica que antevia o retorno da Babilônia, esse padrão ressoaria com a linguagem de re-criação do Dêutero-Isaías (Is 43:16-21: "Eis que faço coisa nova… um caminho no deserto"). As consequências do dilúvio são o modelo da restauração após a catástrofe.
+
+**I-C4. Augúrio por pássaros e a cultura de presságios babilônica**
+A ciência dos presságios babilônica era altamente desenvolvida. A extispicina (exame das entranhas de animais) e o augúrio (observação de pássaros) eram praticados por sacerdotes especializados. As tábuas de presságios classificavam centenas de comportamentos de pássaros como sinais positivos ou negativos. Exilados judeus vivendo na Babilônia estavam cercados por essa cultura. O envio de pássaros em Gênesis 8 é prático — Noé usa pássaros para determinar o estado da terra — não divinatório. O contraste com a cultura babilônica de augúrio pode ser deliberado: Noé lê os pássaros como repórteres ecológicos, não como sinais oraculares.
+
+---
+
+### Cenário D: Se redatado durante o período Persa/proto-Helenístico (~séc. IV-III a.C.)
+**[HISTÓRICO / ARQUEOLÓGICO — POSSÍVEL]** *(Associado à configuração pentateucal final)*
+
+**I-D1. Aliança como documento constitucional**
+Na província persa de Yehud, a Torá funcionava como documento constitucional para a comunidade judaica sob governança imperial. O propósito divino interno de Gênesis 8:21-22 — "nunca mais" — precede e fundamenta a aliança explícita de Gênesis 9. Numa comunidade cuja existência política dependia da continuidade da permissão imperial persa, o compromisso divino cósmico de não destruir o mundo novamente seria lido como o fundamento mais profundo possível para a estabilidade comunitária.
+
+**I-D2. Tradições comparativas de sacrifício**
+No período helenístico, a prática sacrificial estava sendo comparada e discutida entre culturas. As tradições filosóficas gregas (Platão, Teofrasto) discutiam se os deuses precisavam de sacrifícios ou se o sacrifício era uma instituição humana. O relato de Berossus sobre Xisutro (o herói babilônico do dilúvio) inclui sacrifício pós-dilúvio paralelo a Gênesis 8:20. A especificidade do relato de Gênesis — holocaustos de animais limpos, resposta divina de propósito em vez de fome — marca uma posição teológica num mundo em que o significado e o propósito do sacrifício era uma questão aberta.
+
+**I-D3. Cômputo calendárico e o fim do dilúvio**
+A data do fim do dilúvio (Mês 2, Dia 27 do 601º ano de Noé) e sua complexa cronologia eram objetos de debate ativo nas disputas calendáricas do Segundo Templo. O livro dos Jubileus (~séc. II a.C.) recalcula a cronologia do dilúvio segundo seu calendário solar de 364 dias, chegando a datas diferentes. A precisão dos dois estágios de secagem em Gênesis 8:13-14 (superfície seca no Mês 1, Dia 1; completamente seca no Mês 2, Dia 27) reflete uma tradição que insiste na exatidão — uma precisão sobre a qual comunidades posteriores debateriam como evidência para seu sistema calendárico preferido.
+
+---
+
+*Para o contexto político, econômico, social, militar e religioso completo de cada cenário, ver o companheiro de Gênesis 1, Seção I.*
 
 ---
 

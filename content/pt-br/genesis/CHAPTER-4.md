@@ -7,10 +7,11 @@
 **Texto Base:** Biblia Hebraica Stuttgartensia, 5ª ed. rev. (Stuttgart: Deutsche Bibelgesellschaft, 1997)
 **Edição:** Edição Transparente
 **Idioma:** Português Brasileiro
-**Metodologia:** Sistema de Governança de 29 Regras (Conjunto de Regras v3.0)
+**Metodologia:** Sistema de Governança de 29 Regras (Conjunto de Regras v3.3)
 **Política do Nome Divino (Regra 25):** Opção A — Consonantal (YHWH).
 **Status:** provisório — aguardando revisão por pares (Regra 28)
 **Revisores:** Hebraísta: não atribuído | Editor PT: não atribuído | Alinhamento cruzado: não atribuído
+**Relação com Almeida (Regra CORE):** Opção B — Reconhecimento seletivo. Notam-se convergências/divergências em materiais suplementares.
 
 ---
 
@@ -42,11 +43,11 @@
 
 ## VISÃO GERAL DO CAPÍTULO
 
-**O que acontece:** Qayin (agricultor) e Hevel (pastor) trazem ofertas; YHWH olha para a de Hevel, mas não para a de Qayin. Apesar do aviso divino, Qayin mata Hevel. YHWH confronta Qayin, declara-o errante, marca-o para proteção, e Qayin se estabelece na terra de Nod. Segue-se a genealogia de Qayin: construção de cidades, economia pastoril, música, metalurgia — culminando no cântico de Lemekh de violência escalada. O capítulo encerra com o nascimento de Shet e o início da invocação do nome de YHWH.
+**O que acontece:** Qayin (Caim) (agricultor) e Hevel (Abel) (pastor) trazem ofertas; YHWH olha para a de Abel, mas não para a de Caim. Apesar do aviso divino, Caim mata Abel. YHWH confronta Caim, declara-o errante, marca-o para proteção, e Caim se estabelece na terra de Nod. Segue-se a genealogia de Caim: construção de cidades, economia pastoril, música, metalurgia — culminando no cântico de Lemekh (Lameque) de violência escalada. O capítulo encerra com o nascimento de Shet (Sete) e o início da invocação do nome de YHWH.
 
-**Temas-chave:** A primeira oferta e o primeiro assassinato; aviso divino desobedecido (4:6–7, "o pecado se agacha à porta"); "Sou eu o guardador do meu irmão?"; sangue clamando desde o solo (*adamah* novamente); a marca de Qayin como proteção; as origens da civilização na linhagem do assassino; escalada de violência (7 vezes para 77 vezes); Shet como linhagem substituta.
+**Temas-chave:** A primeira oferta e o primeiro assassinato; aviso divino desobedecido (4:6–7, "o pecado se agacha à porta"); "Sou eu o guardador do meu irmão?"; sangue clamando desde o solo (*adamah* novamente); a marca de Caim como proteção; as origens da civilização na linhagem do assassino; escalada de violência (7 vezes para 77 vezes); Sete como linhagem substituta.
 
-**Observe:** O texto nunca explica *por que* YHWH olhou para a oferta de Hevel e não para a de Qayin — a lacuna é o gatilho da narrativa; o castigo de Qayin ecoa o de Adão (ambos expulsos da *adamah*); o cântico de Lemekh (4:23–24) inverte a proteção de YHWH de 7 vezes em vingança de 77 vezes; dois Chanokhs e dois Lemekhs aparecem nas genealogias paralelas (Cap. 4 vs. Cap. 5).
+**Observe:** O texto nunca explica *por que* YHWH olhou para a oferta de Abel e não para a de Caim — a lacuna é o gatilho da narrativa; o castigo de Caim ecoa o de Adão (ambos expulsos da *adamah*); o cântico de Lameque (4:23–24) inverte a proteção de YHWH de 7 vezes em vingança de 77 vezes; dois Chanokhs (Enoques) e dois Lameques aparecem nas genealogias paralelas (Cap. 4 vs. Cap. 5).
 
 **Conexão:** A genealogia cainita (Capítulo 4) é paralela à genealogia setita (Capítulo 5). A violência que começa aqui enche a terra até o Capítulo 6, desencadeando o dilúvio.
 
@@ -58,17 +59,17 @@
 
 ---
 
-¹E o humano conheceu Chava, sua mulher, e ela concebeu e deu à luz Qayin, e disse: "Adquiri um homem com YHWH." ²E ela deu à luz novamente, seu irmão Hevel. E Hevel era *um* pastor de rebanho, e Qayin era *um* lavrador do solo.
+¹E o humano conheceu Chava (Eva), sua mulher, e ela concebeu e deu à luz Qayin (Caim), e disse: "Adquiri um homem com YHWH." ²E ela deu à luz novamente, seu irmão Hevel (Abel). E Abel era *um* pastor de rebanho, e Caim era *um* lavrador do solo.
 
-³E foi ao fim dos dias, e Qayin trouxe do fruto do solo uma oferta a YHWH. ⁴E Hevel, ele também trouxe dos primogênitos de seu rebanho e de sua gordura. E YHWH olhou para Hevel e para sua oferta, ⁵mas para Qayin e para sua oferta não olhou. E ardeu a Qayin grandemente, e seu rosto caiu. ⁶E YHWH disse a Qayin: "Por que *te* arde, e por que caiu o teu rosto? ⁷Se fizeres bem, *não há* elevação? E se não fizeres bem, à porta o pecado se agacha, e para ti *é* o seu desejo/inclinação, mas tu deves dominar sobre ele."
+³E foi ao fim dos dias, e Caim trouxe do fruto do solo uma oferta a YHWH. ⁴E Abel, ele também trouxe dos primogênitos de seu rebanho e de sua gordura. E YHWH olhou para Abel e para sua oferta, ⁵mas para Caim e para sua oferta não olhou. E ardeu a Caim grandemente, e seu rosto caiu. ⁶E YHWH disse a Caim: "Por que *te* arde, e por que caiu o teu rosto? ⁷Se fizeres bem, *não há* elevação? E se não fizeres bem, à porta o pecado se agacha, e para ti *é* o seu desejo/inclinação, mas tu deves dominar sobre ele."
 
-⁸E Qayin disse a Hevel, seu irmão… E foi quando estavam no campo, e Qayin se levantou contra Hevel, seu irmão, e o matou. ⁹E YHWH disse a Qayin: "Onde *está* Hevel, teu irmão?" E ele disse: "Não sei. *Sou* eu o guardador de meu irmão?" ¹⁰E ele disse: "Que fizeste? A voz dos sangues de teu irmão *está* clamando a mim desde o solo. ¹¹E agora, maldito *és* tu desde o solo que abriu a sua boca para receber os sangues de teu irmão da tua mão. ¹²Quando lavrares o solo, ele não dará mais a sua força a ti. Errante e fugitivo serás sobre a terra." ¹³E Qayin disse a YHWH: "Meu pecado/castigo *é* grande demais para suportar. ¹⁴Eis que me expulsaste hoje de sobre a face do solo, e da tua face serei escondido, e serei errante e fugitivo sobre a terra, e será *que* qualquer um que me encontrar me matará." ¹⁵E YHWH lhe disse: "Portanto, qualquer um que matar Qayin, sete vezes será vingado." E YHWH pôs para Qayin um sinal, para que qualquer um que o encontrasse não o ferisse. ¹⁶E Qayin saiu da face de YHWH, e habitou na terra de Nod, a leste de Éden.
+⁸E Caim disse a Abel, seu irmão… E foi quando estavam no campo, e Caim se levantou contra Abel, seu irmão, e o matou. ⁹E YHWH disse a Caim: "Onde *está* Abel, teu irmão?" E ele disse: "Não sei. *Sou* eu o guardador de meu irmão?" ¹⁰E ele disse: "Que fizeste? A voz dos sangues de teu irmão *está* clamando a mim desde o solo. ¹¹E agora, maldito *és* tu desde o solo que abriu a sua boca para receber os sangues de teu irmão da tua mão. ¹²Quando lavrares o solo, ele não dará mais a sua força a ti. Errante e fugitivo serás sobre a terra." ¹³E Caim disse a YHWH: "Meu pecado/castigo *é* grande demais para suportar. ¹⁴Eis que me expulsaste hoje de sobre a face do solo, e da tua face serei escondido, e serei errante e fugitivo sobre a terra, e será *que* qualquer um que me encontrar me matará." ¹⁵E YHWH lhe disse: "Portanto, qualquer um que matar Caim, sete vezes será vingado." E YHWH pôs para Caim um sinal, para que qualquer um que o encontrasse não o ferisse. ¹⁶E Caim saiu da face de YHWH, e habitou na terra de Nod, a leste de Éden.
 
-¹⁷E Qayin conheceu sua mulher, e ela concebeu e deu à luz Chanokh. E ele estava construindo uma cidade, e chamou o nome da cidade conforme o nome de seu filho, Chanokh. ¹⁸E a Chanokh nasceu Irad, e Irad gerou Mechuya'el, e Mechuya'el gerou Metusha'el, e Metusha'el gerou Lemekh. ¹⁹E Lemekh tomou para si duas mulheres; o nome da primeira *era* Adah, e o nome da segunda *era* Tsillah. ²⁰E Adah deu à luz Yaval; ele foi o pai dos que habitam em tenda e *com* rebanho. ²¹E o nome de seu irmão *era* Yuval; ele foi o pai de todos os que empunham lira e flauta. ²²E Tsillah, ela também deu à luz Tuval-Qayin, *um* forjador de toda ferramenta cortante de bronze e ferro. E a irmã de Tuval-Qayin *era* Na'amah.
+¹⁷E Caim conheceu sua mulher, e ela concebeu e deu à luz Chanokh (Enoque). E ele estava construindo uma cidade, e chamou o nome da cidade conforme o nome de seu filho, Enoque. ¹⁸E a Enoque nasceu Irad, e Irad gerou Mechuya'el, e Mechuya'el gerou Metusha'el, e Metusha'el gerou Lemekh (Lameque). ¹⁹E Lameque tomou para si duas mulheres; o nome da primeira *era* Adah, e o nome da segunda *era* Tsillah. ²⁰E Adah deu à luz Yaval; ele foi o pai dos que habitam em tenda e *com* rebanho. ²¹E o nome de seu irmão *era* Yuval; ele foi o pai de todos os que empunham lira e flauta. ²²E Tsillah, ela também deu à luz Tuval-Qayin, *um* forjador de toda ferramenta cortante de bronze e ferro. E a irmã de Tuval-Qayin *era* Na'amah.
 
-²³E Lemekh disse às suas mulheres: "Adah e Tsillah, ouvi minha voz; mulheres de Lemekh, dai ouvidos à minha fala: Pois um homem matei pela minha ferida, e um jovem pelo meu machucado. ²⁴Pois sete vezes Qayin será vingado, e Lemekh setenta e sete."
+²³E Lameque disse às suas mulheres: "Adah e Tsillah, ouvi minha voz; mulheres de Lameque, dai ouvidos à minha fala: Pois um homem matei pela minha ferida, e um jovem pelo meu machucado. ²⁴Pois sete vezes Caim será vingado, e Lameque setenta e sete."
 
-²⁵E Adão conheceu sua mulher novamente, e ela deu à luz um filho e chamou o seu nome Shet: "Porque Deus pôs para mim outra semente em lugar de Hevel, pois Qayin o matou." ²⁶E a Shet, também a ele nasceu um filho, e ele chamou o seu nome Enosh. Então *se* começou a invocar o nome de YHWH.
+²⁵E Adão conheceu sua mulher novamente, e ela deu à luz um filho e chamou o seu nome Shet (Sete): "Porque Deus pôs para mim outra semente em lugar de Abel, pois Caim o matou." ²⁶E a Sete, também a ele nasceu um filho, e ele chamou o seu nome Enosh. Então *se* começou a invocar o nome de YHWH.
 
 ---
 
@@ -76,7 +77,7 @@
 
 ### **Versículo 1**
 
-E o humano conheceu Chava, sua mulher, e ela concebeu e deu à luz Qayin, e disse: "Adquiri um homem com YHWH."
+E o humano conheceu Chava (Eva), sua mulher, e ela concebeu e deu à luz Qayin (Caim), e disse: "Adquiri um homem com YHWH."
 
 > **📝 NOTAS**
 >
@@ -93,7 +94,7 @@ E o humano conheceu Chava, sua mulher, e ela concebeu e deu à luz Qayin, e diss
 
 ### **Versículo 2**
 
-E ela deu à luz novamente, seu irmão Hevel. E Hevel era *um* pastor de rebanho, e Qayin era *um* lavrador do solo.
+E ela deu à luz novamente, seu irmão Hevel (Abel). E Abel era *um* pastor de rebanho, e Caim era *um* lavrador do solo.
 
 > **📝 NOTAS**
 >
@@ -107,7 +108,7 @@ E ela deu à luz novamente, seu irmão Hevel. E Hevel era *um* pastor de rebanho
 
 ### **Versículo 3**
 
-E foi ao fim dos dias, e Qayin trouxe do fruto do solo uma oferta a YHWH.
+E foi ao fim dos dias, e Caim trouxe do fruto do solo uma oferta a YHWH.
 
 > **📝 NOTAS**
 >
@@ -118,18 +119,18 @@ E foi ao fim dos dias, e Qayin trouxe do fruto do solo uma oferta a YHWH.
 
 ### **Versículo 4**
 
-E Hevel, ele também trouxe dos primogênitos de seu rebanho e de sua gordura. E YHWH olhou para Hevel e para sua oferta,
+E Abel, ele também trouxe dos primogênitos de seu rebanho e de sua gordura. E YHWH olhou para Abel e para sua oferta,
 
 > **📝 NOTAS**
 >
 > 🟡 **POR QUE OLHOU?**
-> - O texto diz que YHWH olhou para a oferta de Hevel, mas NÃO diz por quê. "Primogênitos" e "gordura" (melhores porções) podem indicar diferença de qualidade — mas o texto não afirma isso como razão. Regra 12 — não explicar demais o que o texto deixa inexplicado.
+> - O texto diz que YHWH olhou para a oferta de Abel, mas NÃO diz por quê. "Primogênitos" e "gordura" (melhores porções) podem indicar diferença de qualidade — mas o texto não afirma isso como razão. Regra 12 — não explicar demais o que o texto deixa inexplicado.
 
 ---
 
 ### **Versículo 5**
 
-mas para Qayin e para sua oferta não olhou. E ardeu a Qayin grandemente, e seu rosto caiu.
+mas para Caim e para sua oferta não olhou. E ardeu a Caim grandemente, e seu rosto caiu.
 
 > **📝 NOTAS**
 >
@@ -140,7 +141,7 @@ mas para Qayin e para sua oferta não olhou. E ardeu a Qayin grandemente, e seu 
 
 ### **Versículo 6**
 
-E YHWH disse a Qayin: "Por que *te* arde, e por que caiu o teu rosto?
+E YHWH disse a Caim: "Por que *te* arde, e por que caiu o teu rosto?
 
 ---
 
@@ -155,7 +156,7 @@ Se fizeres bem, *não há* elevação? E se não fizeres bem, à porta o pecado 
 >
 > 🔴 **CRÍTICO — RETORNO DE TESHUQAH DE 3:16**
 > - **תְּשׁוּקָתוֹ** (*teshuqato*) = "seu desejo/inclinação." MESMA palavra de Gn 3:16 (*teshuqah* — "desejo/inclinação" da mulher para o seu homem, "e ele dominará sobre ti"). Estrutura idêntica: "*X* tem *teshuqah* para *Y*, mas *Y* deve *mashal* (dominar) sobre *X*." Preservada com a mesma barra conforme Regra 1 (consistência lexical).
-> - O paralelo: 3:16 mulher/homem → 4:7 pecado/Qayin. Se isso implica a mesma dinâmica relacional é POSSÍVEL, mas o texto não resolve.
+> - O paralelo: 3:16 mulher/homem → 4:7 pecado/Caim. Se isso implica a mesma dinâmica relacional é POSSÍVEL, mas o texto não resolve.
 >
 > 🔵 **"ELEVAÇÃO"**
 > - **שְׂאֵת** (*se'et*) = "elevação/exaltação/aceitação." Ambíguo — elevação do rosto (aceitação), elevação da oferta, ou exaltação. INCERTO.
@@ -164,12 +165,12 @@ Se fizeres bem, *não há* elevação? E se não fizeres bem, à porta o pecado 
 
 ### **Versículo 8**
 
-E Qayin disse a Hevel, seu irmão… E foi quando estavam no campo, e Qayin se levantou contra Hevel, seu irmão, e o matou.
+E Caim disse a Abel, seu irmão… E foi quando estavam no campo, e Caim se levantou contra Abel, seu irmão, e o matou.
 
 > **📝 NOTAS**
 >
 > 🔴 **CRÍTICO — VARIANTE TEXTUAL (LACUNA)**
-> - TM: "E Qayin disse a Hevel, seu irmão" — frase aparenta estar **incompleta**. Nenhum conteúdo de fala registrado. LXX e Pentateuco Samaritano acrescentam: "Vamos ao campo" (*nelkha ha-sadeh*).
+> - TM (Texto Massorético): "E Caim disse a Abel, seu irmão" — frase aparenta estar **incompleta**. Nenhum conteúdo de fala registrado. LXX (Septuaginta, a antiga tradução grega da Bíblia Hebraica) e Pentateuco Samaritano acrescentam: "Vamos ao campo" (*nelkha ha-sadeh*).
 > - **Conforme Regra 22:** traduzir o TM (reticências preservadas); notar a variante. As "…" marcam a lacuna textual honestamente.
 >
 > 🟢 **PRIMEIRA MORTE**
@@ -179,12 +180,12 @@ E Qayin disse a Hevel, seu irmão… E foi quando estavam no campo, e Qayin se l
 
 ### **Versículo 9**
 
-E YHWH disse a Qayin: "Onde *está* Hevel, teu irmão?" E ele disse: "Não sei. *Sou* eu o guardador de meu irmão?"
+E YHWH disse a Caim: "Onde *está* Abel, teu irmão?" E ele disse: "Não sei. *Sou* eu o guardador de meu irmão?"
 
 > **📝 NOTAS**
 >
 > 🔵 **ECO DE 3:9**
-> - "Onde está Hevel?" ecoa "Onde *estás*?" (3:9 *ayyekkah*). Ambas são perguntas divinas que inauguram sequências de interrogação. Ambas são retóricas (Deus sabe a resposta).
+> - "Onde está Abel?" ecoa "Onde *estás*?" (3:9 *ayyekkah*). Ambas são perguntas divinas que inauguram sequências de interrogação. Ambas são retóricas (Deus sabe a resposta).
 >
 > 🟢 **"GUARDADOR"**
 > - **שֹׁמֵר** (*shomer*) = guardador/vigia. Mesma raiz שׁ-מ-ר de Gn 2:15 (*leshomrah* — "guardar" o jardim) e 3:24 (querubins "para guardar" o caminho). A pergunta de Qayin usa o vocabulário da vocação do jardim que ele deveria ter herdado.
@@ -201,7 +202,7 @@ E ele disse: "Que fizeste? A voz dos sangues de teu irmão *está* clamando a mi
 > - **דְּמֵי** (*demei*) = "sangues" (construto plural). NÃO singular "sangue." O hebraico usa plural — significados POSSÍVEIS: múltiplos derramamentos de sangue, sangue vital em sua plenitude, ou (tradição rabínica) o sangue de seus descendentes que nunca existirão. Plural preservado.
 >
 > 🔵 **SOLO NOVAMENTE**
-> - *Adamah* (solo) retorna — o solo que recebeu o sangue de Hevel se recusará a produzir para Qayin (v.12). A relação adam/adamah agora está rompida pela violência.
+> - *Adamah* (solo) retorna — o solo que recebeu o sangue de Abel se recusará a produzir para Caim (v.12). A relação adam/adamah agora está rompida pela violência.
 
 ---
 
@@ -232,7 +233,7 @@ Quando lavrares o solo, ele não dará mais a sua força a ti. Errante e fugitiv
 
 ### **Versículo 13**
 
-E Qayin disse a YHWH: "Meu pecado/castigo *é* grande demais para suportar.
+E Caim disse a YHWH: "Meu pecado/castigo *é* grande demais para suportar.
 
 > **📝 NOTAS**
 >
@@ -248,13 +249,13 @@ Eis que me expulsaste hoje de sobre a face do solo, e da tua face serei escondid
 > **📝 NOTAS**
 >
 > 🟡 **"DA TUA FACE"**
-> - A queixa de Qayin nomeia dois exílios: do solo (vocação) e da face de Deus (presença divina). O segundo é o maior — 4:16 confirmará que ele "saiu da face de YHWH."
+> - A queixa de Caim nomeia dois exílios: do solo (vocação) e da face de Deus (presença divina). O segundo é o maior — 4:16 confirmará que ele "saiu da face de YHWH."
 
 ---
 
 ### **Versículo 15**
 
-E YHWH lhe disse: "Portanto, qualquer um que matar Qayin, sete vezes será vingado." E YHWH pôs para Qayin um sinal, para que qualquer um que o encontrasse não o ferisse.
+E YHWH lhe disse: "Portanto, qualquer um que matar Caim, sete vezes será vingado." E YHWH pôs para Caim um sinal, para que qualquer um que o encontrasse não o ferisse.
 
 > **📝 NOTAS**
 >
@@ -268,12 +269,12 @@ E YHWH lhe disse: "Portanto, qualquer um que matar Qayin, sete vezes será vinga
 
 ### **Versículo 16**
 
-E Qayin saiu da face de YHWH, e habitou na terra de Nod, a leste de Éden.
+E Caim saiu da face de YHWH, e habitou na terra de Nod, a leste de Éden.
 
 > **📝 NOTAS**
 >
 > 🔴 **"A LESTE DE ÉDEN" — DIREÇÃO DO EXÍLIO CONTINUA**
-> - Gn 3:24: querubins ao oriente de Éden. Gn 4:16: Qayin habita a leste de Éden. O movimento para o leste = **padrão de deslocamento**. Referência cruzada sinalizada.
+> - Gn 3:24: querubins ao oriente de Éden. Gn 4:16: Caim habita a leste de Éden. O movimento para o leste = **padrão de deslocamento**. Referência cruzada sinalizada.
 >
 > 🟢 **NOD = ERRÂNCIA**
 > - **נוֹד** (*Nod*) da raiz נ-ו-ד = "vagar/errar." A "terra da Errância" — jogo de palavras com *na va-nad* (errante e fugitivo, v.12). Se Nod é um lugar literal ou um nome narrativo é INCERTO.
@@ -282,7 +283,7 @@ E Qayin saiu da face de YHWH, e habitou na terra de Nod, a leste de Éden.
 
 ### **Versículo 17**
 
-E Qayin conheceu sua mulher, e ela concebeu e deu à luz Chanokh. E ele estava construindo uma cidade, e chamou o nome da cidade conforme o nome de seu filho, Chanokh.
+E Caim conheceu sua mulher, e ela concebeu e deu à luz Chanokh (Enoque). E ele estava construindo uma cidade, e chamou o nome da cidade conforme o nome de seu filho, Enoque.
 
 > **📝 NOTAS**
 >
@@ -293,18 +294,18 @@ E Qayin conheceu sua mulher, e ela concebeu e deu à luz Chanokh. E ele estava c
 
 ### **Versículo 18**
 
-E a Chanokh nasceu Irad, e Irad gerou Mechuya'el, e Mechuya'el gerou Metusha'el, e Metusha'el gerou Lemekh.
+E a Enoque nasceu Irad, e Irad gerou Mechuya'el, e Mechuya'el gerou Metusha'el, e Metusha'el gerou Lemekh (Lameque).
 
 ---
 
 ### **Versículo 19**
 
-E Lemekh tomou para si duas mulheres; o nome da primeira *era* Adah, e o nome da segunda *era* Tsillah.
+E Lameque tomou para si duas mulheres; o nome da primeira *era* Adah, e o nome da segunda *era* Tsillah.
 
 > **📝 NOTAS**
 >
 > 🟢 **PRIMEIRA POLIGAMIA**
-> - O texto registra as duas esposas de Lemekh sem avaliação explícita. Primeiro afastamento registrado do padrão "uma só carne" de 2:24.
+> - O texto registra as duas esposas de Lameque sem avaliação explícita. Primeiro afastamento registrado do padrão "uma só carne" de 2:24.
 
 ---
 
@@ -327,13 +328,13 @@ E Tsillah, ela também deu à luz Tuval-Qayin, *um* forjador de toda ferramenta 
 > **📝 NOTAS**
 >
 > 🟢 **ORIGENS DA TECNOLOGIA**
-> - Três "pais" da civilização: Yaval (nomadismo pastoril), Yuval (música), Tuval-Qayin (metalurgia). Todos descendem da linhagem exilada de Qayin. O texto registra origens civilizacionais sem avaliá-las.
+> - Três "pais" da civilização: Yaval (nomadismo pastoril), Yuval (música), Tuval-Qayin (metalurgia). Todos descendem da linhagem exilada de Caim. O texto registra origens civilizacionais sem avaliá-las.
 
 ---
 
 ### **Versículo 23**
 
-E Lemekh disse às suas mulheres: "Adah e Tsillah, ouvi minha voz; mulheres de Lemekh, dai ouvidos à minha fala: Pois um homem matei pela minha ferida, e um jovem pelo meu machucado.
+E Lameque disse às suas mulheres: "Adah e Tsillah, ouvi minha voz; mulheres de Lameque, dai ouvidos à minha fala: Pois um homem matei pela minha ferida, e um jovem pelo meu machucado.
 
 > **📝 NOTAS**
 >
@@ -341,24 +342,24 @@ E Lemekh disse às suas mulheres: "Adah e Tsillah, ouvi minha voz; mulheres de L
 > - Isto é **poesia** inserida na narrativa. Estrutura paralela (ouvi/dai ouvidos; voz/fala; homem/jovem; ferida/machucado) — Regra 6 preservada. Primeiro poema por um humano na Bíblia (após 2:23).
 >
 > 🔵 **ESCALADA**
-> - Qayin matou um homem. Lemekh se vangloria de matar por uma mera ferida. A violência escala ao longo das gerações.
+> - Caim matou um homem. Lameque se vangloria de matar por uma mera ferida. A violência escala ao longo das gerações.
 
 ---
 
 ### **Versículo 24**
 
-Pois sete vezes Qayin será vingado, e Lemekh setenta e sete."
+Pois sete vezes Caim será vingado, e Lameque setenta e sete."
 
 > **📝 NOTAS**
 >
 > 🔵 **SETE → SETENTA E SETE**
-> - YHWH prometeu proteção sete vezes para Qayin (v.15). Lemekh reivindica **setenta e sete vezes** para si mesmo — apropriando-se da prerrogativa divina para vingança pessoal. Escalada numérica: 7 → 77.
+> - YHWH prometeu proteção sete vezes para Caim (v.15). Lameque reivindica **setenta e sete vezes** para si mesmo — apropriando-se da prerrogativa divina para vingança pessoal. Escalada numérica: 7 → 77.
 
 ---
 
 ### **Versículo 25**
 
-E Adão conheceu sua mulher novamente, e ela deu à luz um filho e chamou o seu nome Shet: "Porque Deus pôs para mim outra semente em lugar de Hevel, pois Qayin o matou."
+E Adão conheceu sua mulher novamente, e ela deu à luz um filho e chamou o seu nome Shet (Sete): "Porque Deus pôs para mim outra semente em lugar de Abel, pois Caim o matou."
 
 > **📝 NOTAS**
 >
@@ -375,7 +376,7 @@ E Adão conheceu sua mulher novamente, e ela deu à luz um filho e chamou o seu 
 
 ### **Versículo 26**
 
-E a Shet, também a ele nasceu um filho, e ele chamou o seu nome Enosh. Então *se* começou a invocar o nome de YHWH.
+E a Sete, também a ele nasceu um filho, e ele chamou o seu nome Enosh. Então *se* começou a invocar o nome de YHWH.
 
 > **📝 NOTAS**
 >
@@ -412,7 +413,7 @@ E a Shet, também a ele nasceu um filho, e ele chamou o seu nome Enosh. Então *
 
 **Leste como exílio:**
 - 3:24: querubins colocados "ao oriente do jardim de Éden"
-- 4:16: Qayin habita "na terra de Nod, a leste de Éden"
+- 4:16: Qayin (Caim) habita "na terra de Nod, a leste de Éden"
 - Para o leste = afastamento da presença divina.
 
 **Escalada da maldição:**
@@ -424,18 +425,18 @@ E a Shet, também a ele nasceu um filho, e ele chamou o seu nome Enosh. Então *
 **Fio adam/adamah:**
 - 2:7: humano formado do solo
 - 3:17-19: solo maldito, humano retorna ao pó
-- 4:2: Qayin lavra o solo
+- 4:2: Caim lavra o solo
 - 4:10-12: solo recebe o sangue, depois se recusa a produzir
 
 **Fio semente/zera:**
 - 3:15: "a semente dela" vs. semente da serpente
-- 4:25: "outra semente (*zera acher*) em lugar de Hevel" — Shet como substituto
+- 4:25: "outra semente (*zera acher*) em lugar de Hevel (Abel)" — Shet (Sete) como substituto
 - Continuidade da linhagem da mulher.
 
 **Escalada da violência:**
 - 3:24: expulsão (ato divino não violento)
 - 4:8: primeiro assassinato (violência humana)
-- 4:23-24: Lemekh se vangloria de matar por uma ferida (violência escalada)
+- 4:23-24: Lemekh (Lameque) se vangloria de matar por uma ferida (violência escalada)
 - 4:15 → 4:24: sete vezes divino → setenta e sete vezes humano
 
 **Primeiras ocorrências em Gênesis 4:**

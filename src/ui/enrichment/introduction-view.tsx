@@ -1,14 +1,23 @@
 import {
+  BookMarked,
   BookOpen,
-  Users,
   Calendar,
+  Eye,
   MapPin,
   ScrollText,
-  Eye,
-  BookMarked,
+  Users,
 } from "lucide-react";
-import type { IntroductionData, EnrichmentEntry, ClaimType, ConfidenceLevel } from "@/domain/content/types";
-import { renderMarkdownSafe } from "@/ui/shared/render-markdown-safe";
+import {
+  type ClaimType,
+  type ConfidenceLevel,
+  type EnrichmentEntry,
+  type IntroductionData,
+  sortByConfidence,
+} from "@/domain/content/types";
+import {
+  renderInlineSafe,
+  renderMarkdownSafe,
+} from "@/ui/shared/render-markdown-safe";
 
 const SECTION_ICONS: Record<string, typeof BookOpen> = {
   overview: BookOpen,
@@ -32,7 +41,13 @@ interface IntroductionViewProps {
   labelMaps: LabelMaps;
 }
 
-function IntroductionEntry({ entry, labelMaps }: { entry: EnrichmentEntry; labelMaps: LabelMaps }) {
+function IntroductionEntry({
+  entry,
+  labelMaps,
+}: {
+  entry: EnrichmentEntry;
+  labelMaps: LabelMaps;
+}) {
   return (
     <div className="border-l-3 border-l-border bg-bg-muted rounded-r-md px-4 py-3">
       <div className="flex items-center gap-2 mb-2 flex-wrap">
@@ -43,9 +58,10 @@ function IntroductionEntry({ entry, labelMaps }: { entry: EnrichmentEntry; label
           {labelMaps.confidence[entry.confidence] || entry.confidence}
         </span>
       </div>
-      <h4 className="font-[family-name:var(--font-ui)] text-sm font-semibold mb-1.5">
-        {entry.title}
-      </h4>
+      <h4
+        className="font-[family-name:var(--font-ui)] text-sm font-semibold mb-1.5"
+        dangerouslySetInnerHTML={{ __html: renderInlineSafe(entry.title) }}
+      />
       <div
         className="text-sm leading-relaxed text-text-primary"
         dangerouslySetInnerHTML={{
@@ -53,7 +69,10 @@ function IntroductionEntry({ entry, labelMaps }: { entry: EnrichmentEntry; label
         }}
       />
       {entry.source && (
-        <p className="mt-2 text-xs text-text-muted italic">{entry.source}</p>
+        <p
+          className="mt-2 text-xs text-text-muted italic"
+          dangerouslySetInnerHTML={{ __html: renderInlineSafe(entry.source) }}
+        />
       )}
     </div>
   );
@@ -90,7 +109,11 @@ export function IntroductionView({
                 className="group border border-border rounded-lg"
               >
                 <summary className="flex items-center gap-3 px-4 py-3 cursor-pointer hover:bg-bg-surface transition-colors duration-150 rounded-lg">
-                  <Icon size={18} strokeWidth={1.5} className="text-text-muted shrink-0" />
+                  <Icon
+                    size={18}
+                    strokeWidth={1.5}
+                    className="text-text-muted shrink-0"
+                  />
                   <span className="font-[family-name:var(--font-ui)] text-sm font-medium text-text-primary">
                     {label}
                   </span>
@@ -99,7 +122,7 @@ export function IntroductionView({
                   </span>
                 </summary>
                 <div className="px-4 pb-4 space-y-3">
-                  {section.entries.map((entry, i) => (
+                  {sortByConfidence(section.entries).map((entry, i) => (
                     <IntroductionEntry
                       key={`${section.id}-${i}`}
                       entry={entry}

@@ -7,7 +7,7 @@
 **Base Text:** Biblia Hebraica Stuttgartensia, 5th rev. ed. (Stuttgart: Deutsche Bibelgesellschaft, 1997)
 **Edition:** Transparent Edition
 **Language:** English
-**Methodology:** 29-Rule Governance System (Ruleset v3.0)
+**Methodology:** 29-Rule Governance System (Ruleset v3.3)
 **Divine Name Policy (Rule 25):** Option A — Consonantal (YHWH). Not triggered in Genesis 1; declared for Genesis 2+.
 **Status:** provisional — pending reviewer sign-off (Rule 28)
 **Reviewers:** Hebraist: unassigned | EN editor: unassigned | Cross-alignment: unassigned
@@ -42,9 +42,9 @@
 
 ## CHAPTER OVERVIEW
 
-**What happens:** God creates the ordered world in six days and rests on the seventh. Creation proceeds through divine speech ("and God said"), separation (light/dark, waters above/below, sea/land), population (vegetation, luminaries, creatures, humans), and blessing (fertility, dominion, rest).
+**What happens:** God creates the ordered world in six days. Creation proceeds through divine speech ("and God said"), separation (light/dark, waters above/below, sea/land), population (vegetation, luminaries, creatures, humans), and blessing (fertility, dominion).
 
-**Key themes:** Order from chaos (*tohu vavohu*); creation by speech; the *raqia* as cosmic structure; reproduction "to its kind"; humanity in the image (*tselem*) of God; vegetarian diet assigned; the seventh-day rest.
+**Key themes:** Order from chaos (*tohu vavohu*); creation by speech; the *raqia* as cosmic structure; reproduction "to its kind"; humanity in the image (*tselem*) of God; vegetarian diet assigned.
 
 **Watch for:** The refrain "and God saw that good" (6×, then "very good"); the shift from "God" (*Elohim*) throughout — YHWH does not appear until Chapter 2; the plural "let us make" (1:26); dominion over creatures but not over waters as cosmic domain.
 
@@ -89,7 +89,7 @@ In beginning, God created the skies and the land.
 > 
 > 🟢 **KEY TERMS**
 > - **אֵת** (*et*) appears 2x—untranslatable direct object marker unique to Hebrew
-> - **בָּרָא** (*bara*) = specific divine creation term, **possibly** creation-from-nothing; distinct from **עָשָׂה** (*asah* = make/form)
+> - **בָּרָא** (*bara*) = specific divine creation term used distinctively for divine creative action; its precise scope (whether it implies creation from nothing or reshaping existing material) is debated (**POSSIBLE**); distinct from **עָשָׂה** (*asah* = make/form)
 > - **שָׁמַיִם** (*shamayim*) = physical sky (plural); NOT spiritual "Heaven"
 > - **אֶרֶץ** (*eretz*) = land/ground; NOT planet "Earth"
 
@@ -174,7 +174,7 @@ And God made the raqia, and he separated between the waters which *were* under t
 > **📝 NOTES**
 > 
 > 🟢 **VERB SHIFT**
-> - **בָּרָא** (*bara* = created, v.1) vs. **עָשָׂה** (*asah* = made, v.7)—both used for divine action; **POSSIBLE** distinction: creation-from-nothing vs. formation of existing material
+> - **בָּרָא** (*bara* = created, v.1) vs. **עָשָׂה** (*asah* = made, v.7)—both used for divine action; **POSSIBLE** distinction: *bara* is used distinctively for divine creative action; its precise scope (whether it implies creation from nothing or reshaping existing material) is debated
 > 
 > 🔵 **FORMULA INTRODUCED**
 > - "And it was so" (**וַיְהִי־כֵן**) appears for first time; repeats in vv.9, 11, 15, 24, 30
@@ -188,7 +188,7 @@ And God called to the raqia "Sky." And was evening, and was morning, second day.
 > **📝 NOTES**
 > 
 > 🔴 **CRITICAL - RAQIA = SKY IDENTIFICATION**
-> - God explicitly identifies **raqia = shamayim (sky)**—confirms raqia refers to visible sky/expanse above, NOT abstract concept or separate cosmological layer
+> - God explicitly identifies **raqia = shamayim (sky)**—the text equates raqia with the visible sky/expanse above. The semantic range of raqia (from root "to hammer/beat out") remains debated; ancient interpreters understood it variously as a solid vault, an atmospheric expanse, or a boundary layer. The naming here grounds the term in the sky domain without resolving those questions.
 > - Subsequent verses using "raqia" (vv.14-20) maintain this identification
 > 
 > 🔵 **DAY 2 ORDINAL**
@@ -291,7 +291,7 @@ And God made the two great lights: the greater light for dominion of the day, an
 > 
 > 🔴 **CRITICAL - UNNAMED LUMINARIES**
 > - Sun and moon **LEFT UNNAMED**—described only as "greater light" and "lesser light"
-> - Ancient Near Eastern context: avoiding deity names used in surrounding cultures
+> - It has been noted that Genesis 1:16 avoids the common Hebrew words for sun (*shemesh*) and moon (*yareach*), which are also names of deities in the ancient Near East. Whether this avoidance is deliberate is debated (**POSSIBLE**).
 > - Transparent Edition resists identifying them by name
 > 
 > 🟢 **DOMINION = TEMPORAL RULE**
@@ -429,7 +429,7 @@ And God said, "Let us make *a* human in our image, according to our likeness, an
 > 🔴 **IMAGE & LIKENESS**
 > - **צֶלֶם** (*tselem*) = image; **דְּמוּת** (*demut*) = likeness
 > - Both = representation/resemblance; paired for emphasis, NOT identical meaning
-> - **Cross-reference:** The pair re-appears in **Gen 5:1–3** where Adam is said to beget Seth *"in his likeness, according to his image"* — inverting the divine-human order to a human-human descent and chaining the creation-language through the generations.
+> - **Cross-reference:** The pair re-appears at **Gen 5:3** — Adam begets Seth "in his likeness, according to his image," inverting the divine-human order into human-human descent. For fuller discussion, see companion Section A12b.
 > 
 > 🟢 **DOMINION = FUNCTIONAL RULE**
 > - **רָדָה** (*radah*) = have dominion/rule/govern—functional authority, **NOT ownership**
@@ -474,7 +474,7 @@ And God blessed them, and God said to them, "Be fruitful and multiply, and fill 
 > - **רָדָה** (*radah*) now as imperative—functional rule over animals, NOT absolute ownership
 >
 > 🔵 **CROSS-REFERENCE: POST-FLOOD REPETITION**
-> - The "be fruitful and multiply and fill the land" command re-appears verbatim at **Gen 9:1** to Noah and sons after the flood — the creation-mandate renewed after the flood narrative. The dominion language there (Gen 9:2) shifts tone (animals *fear* humans), and diet permission expands (Gen 9:3, meat permitted). Same structural command; altered ecological relationship.
+> - The "be fruitful and multiply and fill the land" command re-appears verbatim at **Gen 9:1** — the creation-mandate renewed after the flood. The dominion language in 9:2 shifts tone (animals *fear* humans) and diet permission expands (9:3, meat permitted). For fuller discussion, see companion Section G5b.
 
 ---
 
@@ -561,7 +561,7 @@ And God saw all that he had made, and see, *it was* very good. And was evening, 
 
 **Locked Formulas (Multiple Occurrences):**
 - "And God said..." (10x)
-- "And it was so" (7x)
+- "And it was so" (6x — vv.7, 9, 11, 15, 24, 30)
 - "And God saw that good" (6x) + "very good" (1x at v.31)
 - "And was evening, and was morning, [X] day" (6x)
 - "And God blessed them" (2x: vv.22, 28)
@@ -596,10 +596,8 @@ Hebrew poetic device showing internal generation:
 | v.25 | Land animals | made | *asah* |
 | v.27 | Human (3x emphasis) | **created** | *bara* |
 
-**Pattern:** *Bara* (created) for initial creation, living beings, humans. *Asah* (made) for raqia, lights, land animals. **POSSIBLE** distinction: creation-from-nothing vs. formation.
+**Pattern:** *Bara* (created) for initial creation, living beings, humans. *Asah* (made) for raqia, lights, land animals. **POSSIBLE** distinction: *bara* is used distinctively for divine creative action; its precise scope (whether it implies creation from nothing or reshaping existing material) is debated.
 
 ---
 
 **END OF GENESIS 1 - THE TRANSPARENT TRANSLATION (ENGLISH)**
-
-*"The least dishonest version we could build."*

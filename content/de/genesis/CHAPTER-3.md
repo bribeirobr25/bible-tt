@@ -7,7 +7,7 @@
 **Grundtext:** Biblia Hebraica Stuttgartensia, 5. rev. Aufl. (Stuttgart: Deutsche Bibelgesellschaft, 1997)
 **Ausgabe:** Transparente Ausgabe
 **Sprache:** Deutsch
-**Methodik:** 29-Regeln-Governance-System (Regelwerk v3.0)
+**Methodik:** 29-Regeln-Governance-System (Regelwerk v3.3)
 **Gottesname-Politik (Regel 25):** Option A — Konsonantisch (JHWH).
 **Luther-Bibel-Verhältnis:** Option B — Selektive Anerkennung. Übersetzung aus dem Hebräischen nach TT-Regeln; Konvergenzen und Divergenzen mit Luther in Begleitmaterialien dokumentiert. Entscheidung geloggt 2026-04-18.
 **Status:** provisorisch — ausstehende Begutachtung (Regel 28)
@@ -33,7 +33,7 @@
 ***Kursiv:*** Wörter für deutsche Grammatik hinzugefügt (nicht im hebräischen Text)
 **„Anführungszeichen":** Direkte göttliche Rede oder menschliche Rede
 **JHWH:** Tetragrammaton konsonantisch transliteriert (Regel 25, Option A)
-**Chava, nachash, usw.:** Transliterierte hebräische Begriffe (in Notizen erklärt)
+**Eva (Eva), nachash, usw.:** Transliterierte hebräische Begriffe (in Notizen erklärt)
 
 **Notizen-Symbole:**
 - 🔴 **KRITISCH** - Wichtige textliche oder Übersetzungsentscheidungen
@@ -49,11 +49,11 @@
 
 **Was geschieht:** Die Schlange, als *arum* (listig/klug) beschrieben, führt einen Dialog mit der Frau über den verbotenen Baum. Beide Menschen essen. Ihre Augen werden aufgetan — sie erkennen, dass sie nackt sind. JHWH Gott befragt sie, spricht Konsequenzen aus über die Schlange, die Frau und den Mann, fertigt Gewänder aus Fell und vertreibt sie aus dem Garten, wobei Cherubim den Weg zum Baum des Lebens bewachen.
 
-**Zentrale Themen:** Das Wortspiel *arum/arom* (listig/nackt) als Brücke zwischen Kapitel 2–3; die Rhetorik der Schlange; die Abwandlung des Gebots durch die Frau; Erkenntnis des Guten und Bösen — versprochen und eingetroffen, aber nicht wie erwartet; Scham, Furcht, Schuldzuweisung als Abfolge; Konsequenzen versus Flüche (nur die Schlange und der Boden werden verflucht, nicht die Menschen); der abgebrochene Satz bei 3:22 (Aposiopese).
+**Zentrale Themen:** Das Wortspiel *arum/arom* (listig/nackt) als Brücke zwischen Kapitel 2–3; die Rhetorik der Schlange; die Abwandlung des Gebots durch die Frau; Erkenntnis des Guten und Bösen — versprochen und eingetroffen, aber nicht wie erwartet; Scham, Furcht, Schuldzuweisung als Abfolge; Konsequenzen versus Flüche (nur die Schlange und der Boden werden verflucht, nicht die Menschen); der abgebrochene Satz bei 3:22 (Aposiopese — ein Satz, der einfach abbricht und den Gedanken offen lässt).
 
-**Achten Sie auf:** Die Schlange verwendet nur „Elohim", nie „JHWH Elohim"; der Mann war „mit ihr" während des Dialogs (3:6); „sterbend wirst du sterben" (2:17) versus „nicht sterbend werdet ihr sterben" (3:4) — dieselbe grammatische Konstruktion, verneint; Gott bestätigt die Vorhersage der Schlange bei 3:22; „Staub *bist* du" (Präsens, nicht Futur) — Sterblichkeit als inhärent, nicht neu auferlegt.
+**Achten Sie auf:** Die Schlange verwendet nur „Elohim", nie „JHWH Elohim"; der Mann war „mit ihr" während des Dialogs (3:6); „sterbend wirst du sterben" (2:17) versus „nicht sterbend werdet ihr sterben" (3:4) — dieselbe grammatische Konstruktion, verneint; die Worte des Textes in 3:22 greifen die Behauptung der Schlange in 3:5 auf, während der Erzählkontext Konsequenzen zeigt, die die Schlange nicht erwähnt hat; „Staub *bist* du" (Präsens, nicht Futur) — Sterblichkeit als inhärent, nicht neu auferlegt.
 
-**Verbindung:** Die Vertreibung aus dem Garten führt direkt zu Qayin und Hevel (Kapitel 4). Der Fluch über den Boden (3:17) hallt wider in 5:29 (Noachs Benennung) und 8:21 (JHWHs Entschluss nach der Flut).
+**Verbindung:** Die Vertreibung aus dem Garten führt direkt zu Kain (Kain) und Abel (Abel) (Kapitel 4). Der Fluch über den Boden (3:17) hallt wider in 5:29 (Noahs Benennung) und 8:21 (JHWHs Entschluss nach der Flut).
 
 ---
 
@@ -75,7 +75,7 @@
 
 ¹⁷Und zum Menschen sprach er: „Weil du auf die Stimme deiner Frau gehört hast und vom Baum gegessen hast, von dem ich dir geboten hatte, sprechend: 'Du sollst nicht davon essen,' verflucht *ist* der Boden um deinetwillen; in Mühsal wirst du *davon* essen alle Tage deines Lebens. ¹⁸Und Dorn und Distel wird er dir hervorbringen, und du wirst das Kraut des Feldes essen. ¹⁹Im Schweiße deines Angesichts wirst du Brot essen, bis du zum Boden zurückkehrst, denn von ihm wurdest du genommen; denn Staub *bist* du, und zum Staub wirst du zurückkehren."
 
-²⁰Und der Mensch nannte den Namen seiner Frau Chava, denn sie war Mutter alles Lebendigen. ²¹Und JHWH Elohim machte dem Menschen und seiner Frau Gewänder aus Fell, und er kleidete sie.
+²⁰Und der Mensch nannte den Namen seiner Frau Eva (Eva), denn sie war Mutter alles Lebendigen. ²¹Und JHWH Elohim machte dem Menschen und seiner Frau Gewänder aus Fell, und er kleidete sie.
 
 ²²Und JHWH Elohim sprach: „Siehe, der Mensch ist geworden wie einer von uns, Gutes und Böses zu erkennen; und nun, damit er nicht seine Hand ausstrecke und auch vom Baum des Lebens nehme und esse und lebe in Ewigkeit…" ²³Und JHWH Elohim schickte ihn hinaus aus dem Garten Eden, den Boden zu bearbeiten, von dem er genommen worden war. ²⁴Und er vertrieb den Menschen; und er ließ östlich vom Garten Eden wohnen die Cherubim und die Flamme des sich wendenden Schwertes, um den Weg des Baumes des Lebens zu bewachen.
 
@@ -94,14 +94,14 @@ Und die Schlange war listiger als jedes Lebewesen des Feldes, das JHWH Elohim ge
 > - Notiz gemäß Regel 14: Wortspiel kann im Deutschen nicht wiedergegeben werden; hier und in 2:25 signalisiert.
 >
 > 🟢 **SCHLANGE**
-> - **נָחָשׁ** (*nachash*) = „Schlange." **NICHT** „Satan," „der Teufel," oder irgendeine spätere theologische Identifikation. Der hebräische Text identifiziert ein *Lebewesen des Feldes* (d.h. ein von Gott gemachtes Geschöpf, wie V.14 fortführt). Jede dämonologische Lesung ist nachbiblisch.
+> - **נָחָשׁ** (*nachash*) = „Schlange." **NICHT** „Satan" oder irgendeine spätere dämonologische Identifikation—nachbiblisch. Der hebräische Text identifiziert ein *Lebewesen des Feldes* (ein von Gott gemachtes Geschöpf, wie V.14 fortführt).
 >
 > 🔴 **SCHLANGE VERWENDET „ELOHIM," NICHT „JHWH ELOHIM"**
-> - Der Erzähler verwendet *JHWH Elohim* (V.1a), aber die Schlange sagt nur *Elohim* (V.1b, V.3, V.5). Auch die Frau verwendet nur *Elohim*. **MÖGLICHE** narrative Bedeutung: Unterscheidung des Gottesnamens vom Autor beibehalten; Schlange/Frau-Dialog außerhalb des *JHWH-Elohim*-Bundesregisters.
+> - Der Erzähler verwendet *JHWH Elohim* (V.1a), die Schlange sagt nur *Elohim* (V.1b, V.3, V.5); ebenso die Frau. **MÖGLICHE** narrative Bedeutung: Schlange/Frau-Dialog außerhalb des *JHWH-Elohim*-Bundesregisters.
 >
 > 🔵 **„HAT GOTT WIRKLICH GESAGT"**
-> - **אַף כִּי־אָמַר אֱלֹהִים** (*af ki amar elohim*) — syntaktisch schwieriger Einleitungssatz. **MÖGLICHE** Lesungen: (1) Fragend „Hat Gott wirklich gesagt…?"; (2) ungläubig „Hat Gott also gesagt…!"; (3) konditional „Selbst wenn Gott gesagt hat…". Ambiguität bewahrt.
-> - Die Frage der Schlange verzerrt das Gebot auch: Original (2:16) war „von jedem Baum… essend sollst du essen"; die Schlange kehrt um zu „nicht von jedem Baum."
+> - **אַף כִּי־אָמַר אֱלֹהִים** (*af ki amar elohim*) — syntaktisch schwieriger Einleitungssatz. **MÖGLICHE** Lesungen: (1) Fragend; (2) ungläubig; (3) konditional. Ambiguität bewahrt.
+> - Die Frage verzerrt das Gebot: Original (2:16) war „von jedem Baum… essend sollst du essen"; die Schlange kehrt um zu „nicht von jedem Baum." Für ausführlichere Diskussion der Syntax-Optionen siehe Begleitmaterial Abschnitt B.
 
 ---
 
@@ -194,13 +194,13 @@ Und sie hörten die Stimme von JHWH Elohim, einhergehend im Garten beim Wind des
 > **📝 NOTIZEN**
 >
 > 🟢 **QOL — STIMME ODER LAUT?**
-> - **קוֹל** (*qol*) = „Stimme / Laut / Geräusch." Der semantische Bereich des Wortes ist breiter als jede einzelne deutsche Wiedergabe. In Gn 3:8 beschreibt *qol*, was von JHWH Elohim beim *Einhergehen* gehört wird — möglicherweise eher ein **Laut** als eine **Stimme**. In Gn 3:10 ist *qol*, was der Mensch hörte und worauf er reagierte — möglicherweise eine **Stimme**. Beide Vorkommen verwenden dasselbe hebräische Wort. Der Haupttext gibt „Stimme" konsistent wieder (Regel 1); der breitere Bereich wird hier signalisiert. Der Text löst nicht auf, ob Gott sprach, Schrittgeräusche verursachte oder etwas anderes.
+> - **קוֹל** (*qol*) = „Stimme / Laut / Geräusch." Semantischer Bereich breiter als jede einzelne deutsche Wiedergabe. Der Haupttext gibt „Stimme" konsistent wieder (Regel 1); der breitere Bereich wird hier signalisiert.
 >
 > 🔴 **„WIND DES TAGES"**
-> - **לְרוּחַ הַיּוֹם** (*le-ruach hayom*) = „beim / zum Wind des Tages." Traditionelle Wiedergabe „bei der Kühle des Tages" ist interpretativ (liest *ruach* als Abendbrise, also kühl). Regel 12 (keine falsche Präzision) — wörtlich wiedergeben; in der Notiz erklären, dass die Wendung traditionell als Abendwindzeit interpretiert wird, aber das Hebräische nur „Wind des Tages" sagt.
+> - **לְרוּחַ הַיּוֹם** (*le-ruach hayom*) = „beim Wind des Tages." Traditionelle Wiedergabe „bei der Kühle des Tages" ist interpretativ (*ruach* als Abendbrise). Regel 12—wörtlich wiedergeben; „Wind des Tages" bewahrt. Für ausführlichere Diskussion der Bedeutungsoptionen siehe Begleitmaterial Abschnitt B.
 >
 > 🟢 **„INMITTEN DES BAUMES"**
-> - Singular **עֵץ הַגָּן** (*etz hagan*, „der Baum des Gartens")—Kollektiv-Singular, d.h. Baumdecke des Gartens. Kein spezifischer Baum. Im Deutschen singular bewahrt, um die hebräische Form zu zeigen.
+> - Singular **עֵץ הַגָּן** (*etz hagan*)—Kollektiv-Singular, d.h. Baumdecke des Gartens, kein spezifischer Baum. Im Deutschen singular bewahrt.
 
 ---
 
@@ -288,10 +288,10 @@ Und Feindschaft werde ich setzen zwischen dich und zwischen die Frau, und zwisch
 > - **זֶרַע** (*zera*) = „Samen / Nachkommen." Kollektiv-Singular—ein Wort, kann einen oder viele Nachkommen bezeichnen.
 >
 > 🟢 **UNGEWÖHNLICH: „IHR SAMEN"**
-> - **זַרְעָהּ** (*zar'ah*) = „ihr Samen" — die Zuschreibung von *zera* zu einer **weiblichen** Linie ist in der Hebräischen Bibel **grammatisch ungewöhnlich**. Der Begriff ist anderswo an männliche Abstammung gebunden (was die antike biologische Voraussetzung widerspiegelt). Genesis 3:15 ist einer der wenigen Orte, an denen der Samen durch die Frau verfolgt wird. Die Beobachtung ist philologisch, nicht interpretativ — sie sollte nicht auf spätere christliche Lesungen (Vorandeutung der Jungfrauengeburt) ausgedehnt werden, die nachbiblisch sind. Querverweis: Gn 4:25, wo Chava *„einen anderen Samen"* (*zera acher*) erhält nach dem Tod Abels — Fortführung des Faden des Frauen-Samens auf textueller Ebene, ohne theologische Auflösung.
+> - **זַרְעָהּ** (*zar'ah*) = „ihr Samen" — die Zuschreibung von *zera* zu einer **weiblichen** Linie ist grammatisch ungewöhnlich; der Begriff ist anderswo an männliche Abstammung gebunden. Die Beobachtung ist philologisch, nicht interpretativ. Für ausführlichere Diskussion und Querverweise (Gn 4:25) siehe Begleitmaterial Abschnitt D.
 >
 > 🟡 **INTERPRETATIVE ZURÜCKHALTUNG**
-> - Die spätere christliche Tradition liest diesen Vers als „Protoevangelium" (erstes Evangelium). Diese Lesung ist **NACHBIBLISCH**; der hebräische Text gibt eine Aussage über anhaltende Feindschaft zwischen Schlange und Nachkommen der Frau. Regel 3: keine importierte Theologie. Keine Großschreibung von „Er." Keine Auflösung der Geschlechts-/Zahl-Ambiguität hin zu einer bestimmten späteren Identifikation.
+> - Spätere christliche Tradition liest diesen Vers als „Protoevangelium"—**NACHBIBLISCH**. Der hebräische Text gibt eine Aussage über anhaltende Feindschaft zwischen Schlange und Nachkommen der Frau. Regel 3: keine importierte Theologie; keine Auflösung der Geschlechts-/Zahl-Ambiguität.
 
 ---
 
@@ -305,15 +305,13 @@ Zur Frau sprach er: „Mehrend werde ich mehren deine Mühsal und deine Schwange
 > - **הַרְבָּה אַרְבֶּה** (*harbah arbeh*) = „mehrend werde ich mehren"—emphatischer Infinitivus absolutus. Strukturell bewahrt gemäß Regel 5.
 >
 > 🔴 **KRITISCH - *teshuqah***
-> - **תְּשׁוּקָה** (*teshuqah*) = **UNGEWISS**. Traditionelles „Verlangen" dominiert; jüngere Forschung schlägt „Hinwendung / Orientierung / Impuls zu" vor. Wurzel **שׁ-ו-ק** (*sh-w-q*). Erscheint nur 3× in der Hebräischen Bibel (hier, 4:7, Hld 7:11).
-> - Regel 2: beide Lesungen durch Schrägstrich bewahren „Verlangen/Hinwendung."
-> - Der parallele Gebrauch in Gn 4:7 („der Sünde *teshuqah* ist auf dich, aber du sollst sie beherrschen") färbt die Interpretation stark, löst aber die hebräische Ambiguität nicht auf.
+> - **תְּשׁוּקָה** (*teshuqah*) = **UNGEWISS**. Traditionelles „Verlangen" dominiert; jüngere Forschung schlägt „Hinwendung / Orientierung" vor. Erscheint nur 3× in der Hebräischen Bibel (hier, 4:7, Hld 7:11). Regel 2: Schrägstrich bewahrt beide Lesungen. Für ausführlichere Diskussion der Forschungsposition und des Vergleichs mit 4:7 siehe Begleitmaterial Abschnitt D.
 >
 > 🟢 **„IN MÜHSAL"**
-> - **עִצָּבוֹן** (*itsabon*) / **עֶצֶב** (*etsev*) — „Mühsal / Schmerz / Kummer / Arbeit." Dieselbe Wurzel verwendet für die Frau und (in V.17) für den Menschen. Die Übersetzung behält denselben deutschen Stamm „Mühsal", um den Widerhall zu bewahren. Nicht ausschließlich „Geburtsschmerz."
+> - **עִצָּבוֹן** (*itsabon*) = „Mühsal / Schmerz / Arbeit." Dieselbe Wurzel für Frau (hier) und Mensch (V.17). Übersetzung behält denselben deutschen Stamm „Mühsal", um den Widerhall zu bewahren. Nicht ausschließlich „Geburtsschmerz."
 >
 > 🟢 **WURZEL-WIDERHALL - *mashal***
-> - **מָשַׁל** (*mashal*) = „herrschen." Teilt die Wurzel **מ-שׁ-ל** (*m-sh-l*) mit **מֶמְשֶׁלֶת** (*memsheleth*, „Herrschaft") in **Gn 1:16, 1:18** für die zwei großen Lichter, die über Tag und Nacht herrschen. Unterschiedliche grammatische Formen (Verb hier, Substantiv dort) — keine Verletzung der Regel 1 — aber der **Wurzel-Widerhall** verbindet die Hierarchie in menschlichen Beziehungen hier mit der kosmischen Hierarchie dort. Der Text stellt den Widerhall fest; bewertet ihn nicht.
+> - **מָשַׁל** (*mashal*) = „herrschen." Teilt die Wurzel mit **מֶמְשֶׁלֶת** (*memsheleth*, „Herrschaft") in Gn 1:16, 1:18 für die großen Lichter. Der Text stellt den Widerhall fest; bewertet ihn nicht.
 
 ---
 
@@ -349,20 +347,20 @@ Im Schweiße deines Angesichts wirst du Brot essen, bis du zum Boden zurückkehr
 > **📝 NOTIZEN**
 >
 > 🔴 **STAUB ZU STAUB**
-> - **עָפָר אַתָּה וְאֶל־עָפָר תָּשׁוּב** (*afar atah ve-el afar tashuv*) = „Staub *bist* du und zum Staub wirst du zurückkehren." Schließt den in 2:7 geöffneten Rahmen („Staub vom Boden"). Sterblichkeit ist die hier erklärte, nicht erfundene menschliche Verfasstheit.
+> - **עָפָר אַתָּה וְאֶל־עָפָר תָּשׁוּב** (*afar atah ve-el afar tashuv*) = „Staub *bist* du und zum Staub wirst du zurückkehren." Schließt den in 2:7 geöffneten Rahmen („Staub vom Boden"). Ob Sterblichkeit dem Menschen als neue Konsequenz auferlegt oder hier als inhärente Verfasstheit bestätigt wird, ist umstritten (MÖGLICH); der Text lässt beide Lesungen zu.
 
 ---
 
 ### **Vers 20**
 
-Und der Mensch nannte den Namen seiner Frau Chava, denn sie war Mutter alles Lebendigen.
+Und der Mensch nannte den Namen seiner Frau Eva (Eva), denn sie war Mutter alles Lebendigen.
 
 > **📝 NOTIZEN**
 >
 > 🔴 **KRITISCH - BENENNUNG CHAVAS**
-> - **חַוָּה** (*Chavvah*, transliteriert *Chava*) = Eigenname. Die traditionelle Wiedergabe „Eva" folgt der Septuaginta *Εὔα* (*Heua*) über die Vulgata *Heva*.
-> - Hier transliteriert, um die hebräische Form zu bewahren. Traditionelles „Eva" ist in der Leserausgabe zulässig; die Transparente Ausgabe behält *Chava* mit Notiz.
-> - Wortspiel: **חַי** (*chay*) = „lebendig"; *Chava* ähnelt der Wurzel. Etymologie volkstümlich oder echt, aber der Text stellt die Verbindung her („Mutter alles Lebendigen").
+> - **חַוָּה** (*Chavvah*, transliteriert *Eva*) = Eigenname. Die traditionelle Wiedergabe „Eva" folgt der Septuaginta (der antiken griechischen Bibelübersetzung, oft als LXX abgekürzt) *Εὔα* (*Heua*) über die Vulgata *Heva*.
+> - Hier transliteriert, um die hebräische Form zu bewahren. Traditionelles „Eva" ist in der Leserausgabe zulässig; die Transparente Ausgabe behält *Eva* mit Notiz.
+> - Wortspiel: **חַי** (*chay*) = „lebendig"; *Eva* ähnelt der Wurzel. Etymologie volkstümlich oder echt, aber der Text stellt die Verbindung her („Mutter alles Lebendigen").
 >
 > 🔵 **„SEINE FRAU"**
 > - Sie ist seit 2:22 *ishah* (seine Frau). Hier erhält sie einen persönlichen Namen. Der Mensch hingegen bleibt in V.21 *ha-adam*.
@@ -388,17 +386,13 @@ Und JHWH Elohim sprach: „Siehe, der Mensch ist geworden wie einer von uns, Gut
 > **📝 NOTIZEN**
 >
 > 🔴 **APOSIOPESE** *(bewusster Abbruch)*
-> - Der hebräische Satz **bricht unvollendet ab**—keine Hauptklausel nach der „damit nicht"-Reihe. Technisch **Aposiopese** (σιωπή, „Schweigen") — ein bewusster rhetorischer Abbruch, nicht bloß ein syntaktisches Anakoluth. Der Sprecher hält inne, bevor er die Konsequenz ausspricht. Die Auslassungspunkte (…) bewahren die gebrochene Konstruktion. Die Vollendung ist erzählerisch, nicht grammatisch: V.23 ist die implizite Apodosis (*darum schickte JHWH Elohim ihn hinaus…*).
-> - Viele Übersetzungen glätten dies mit eingefügten Hauptklauseln. Regel 5—nicht glätten.
+> - Der hebräische Satz **bricht unvollendet ab**—keine Hauptklausel nach der „damit nicht"-Reihe. Rhetorischer Abbruch, nicht Schreibfehler. Die Auslassungspunkte (…) bewahren die gebrochene Konstruktion; V.23 ist die implizite Apodosis. Viele Übersetzungen glätten dies. Regel 5—nicht glätten.
 >
 > 🔴 **„WIE EINER VON UNS"**
 > - **כְּאַחַד מִמֶּנּוּ** (*ke'achad mimmennu*)—plural „uns" klingt nach Gn 1:26 *„lasst uns einen Menschen machen."* **MÖGLICHE** Interpretationen: Pluralis Majestatis, göttlicher Rat, literarischer Plural. Keine trinitarische Lesung auferlegen (Regel 3).
 >
 > 🟡 **NARRATIVER WIDERHALL MIT 3:5**
-> - Die Schlange in **3:5**: *„ihr werdet sein wie Gott/Götter (*ke-elohim*), erkennend Gutes und Böses."*
-> - JHWH Elohim in **3:22**: *„der Mensch ist geworden wie einer von uns (*ke'achad mimmennu*), Gutes und Böses zu erkennen."*
-> - Der Text lässt die Vorhersage der Schlange **auf der erzählerischen Ebene teilweise zutreffend** stehen — die Menschen sind tatsächlich dazu gekommen, „Gutes und Böses zu erkennen." Der Text löst nicht auf, ob dies bedeutet, dass die Schlange Wahrheit gesprochen hat, oder ob das gottähnliche Erkennen selbst das Urteil ist. Regel 2 — Ambiguität bewahren; nicht auflösen.
-> - Die verbleibende Täuschung (3:4 *„nicht sterbend werdet ihr sterben"* vs. letztliche Sterblichkeit) steht auf anderem Grund.
+> - 3:5 (Schlange): *„ihr werdet sein wie Gott/Götter, erkennend Gutes und Böses."* 3:22 (JHWH Elohim): *„der Mensch ist geworden wie einer von uns, Gutes und Böses zu erkennen."* Die Vorhersage der Schlange steht erzählerisch **teilweise zutreffend**; der Text löst nicht auf, ob dies Wahrheit oder Urteil ist. Regel 2—Ambiguität bewahren. Für ausführlichere Diskussion der narrativen Spannung mit 3:4 siehe Begleitmaterial Abschnitt C.
 
 ---
 
@@ -442,7 +436,7 @@ Und er vertrieb den Menschen; und er ließ östlich vom Garten Eden wohnen die C
 | תְּשׁוּקָה | Verlangen / Hinwendung | **UNGEWISS**. 3× HB. Regel 2: Schrägstrich bewahrt Ambiguität. |
 | מָשַׁל | herrschen | 3:16—funktionale Herrschaft, kein Eigentum. Parallel zu *radah* (1:26, 1:28). |
 | עִצָּבוֹן / עֶצֶב | Mühsal / Schmerz / Kummer | Dieselbe Wurzel für die Frau (3:16) und den Menschen (3:17). Widerhall bewahren. |
-| חַוָּה | Chava | Eigenname, 3:20. Traditionelles *Eva* in der Leserausgabe zulässig. Wortspiel mit *chay* (lebendig). |
+| חַוָּה | Eva (Eva) | Eigenname, 3:20. Traditionelles *Eva* in der Leserausgabe zulässig. Wortspiel mit *chay* (lebendig). |
 | כְּרוּב | Cherub | Zusammengesetzte Schutzfigur; transliteriert als Plural *Cherubim*. |
 | לַהַט | Flamme | 3:24—Konstrukt „Flamme des Schwertes." |
 
@@ -480,7 +474,7 @@ Und er vertrieb den Menschen; und er ließ östlich vom Garten Eden wohnen die C
 - Erste Frage Gottes an den Menschen (V.9)
 - Erster Fluch (*arur*, V.14)
 - Erste Feindschaftsvorhersage (V.15)
-- Erste Benennung der Frau als Individuum (V.20—Chava)
+- Erste Benennung der Frau als Individuum (V.20—Eva (Eva))
 - Erste Gewänder (V.21)
 - Erste Vertreibung (V.23–24)
 

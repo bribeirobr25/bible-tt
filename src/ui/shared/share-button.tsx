@@ -1,7 +1,7 @@
 "use client";
 
-import { useTranslations } from "next-intl";
 import { Share2 } from "lucide-react";
+import { useTranslations } from "next-intl";
 
 interface ShareButtonProps {
   title: string;
@@ -10,9 +10,15 @@ interface ShareButtonProps {
   className?: string;
 }
 
-export function ShareButton({ title, text, url, className = "" }: ShareButtonProps) {
+export function ShareButton({
+  title,
+  text,
+  url,
+  className = "",
+}: ShareButtonProps) {
   const t = useTranslations();
-  const shareUrl = url || (typeof window !== "undefined" ? window.location.href : "");
+  const shareUrl =
+    url || (typeof window !== "undefined" ? window.location.href : "");
 
   const handleShare = async () => {
     const shareData = { title, text, url: shareUrl };

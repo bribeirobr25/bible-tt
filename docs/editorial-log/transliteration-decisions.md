@@ -2,6 +2,7 @@
 
 **Purpose:** Record why each Hebrew term crossed or did not cross the Rule 4 transliteration threshold.
 **Rule 4 criterion:** Transliterate when (1) no accurate target-language equivalent exists, (2) common translation carries misleading baggage, or (3) the term is structurally/cosmologically critical.
+**Scope (v3.2 clarification):** This log governs **technical terms** (raqia, ish/ishah, nephilim, tebah, etc.) — not proper names. Proper names (persons, places, groups) are governed by the v3.2 Name Rendering Policy in RULES-CORE.md, with familiar-form tables in RULES-HB.md and RULES-GS.md.
 **Created:** 2026-04-17 (v2.4.2)
 
 ---

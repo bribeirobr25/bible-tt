@@ -7,7 +7,7 @@
 **Base Text:** Biblia Hebraica Stuttgartensia, 5th rev. ed. (Stuttgart: Deutsche Bibelgesellschaft, 1997)
 **Edition:** Transparent Edition
 **Language:** English
-**Methodology:** 29-Rule Governance System (Ruleset v3.0)
+**Methodology:** 29-Rule Governance System (Ruleset v3.3)
 **Divine Name Policy (Rule 25):** Option A — Consonantal (YHWH). **Triggered in this chapter at v.4.**
 **Status:** provisional — pending reviewer sign-off (Rule 28)
 **Reviewers:** Hebraist: unassigned | EN editor: unassigned | Cross-alignment: unassigned
@@ -63,7 +63,7 @@
 
 ¹And were finished the skies and the land and all their host. ²And God finished on the seventh day his work which he had made, and he rested on the seventh day from all his work which he had made. ³And God blessed the seventh day and sanctified it, for on it he rested from all his work which God created to make.
 
-⁴These *are* the generations of the skies and the land when they were created, in the day YHWH Elohim made land and skies. ⁵And every shrub of the field not yet *was* on the land, and every herb of the field not yet sprouted, for YHWH Elohim had not caused rain upon the land, and a human there was not to work the ground. ⁶And *a* mist went up from the land and watered *all* the face of the ground. ⁷And YHWH Elohim formed the human, dust from the ground, and breathed into his nostrils breath of life, and the human became *a* living being.
+⁴These *are* the generations of the skies and the land when they were created, in the day YHWH Elohim made land and skies. ⁵And every shrub of the field not yet was on the land, and every herb of the field not yet sprouted, for YHWH Elohim had not caused rain upon the land, and a human there was not to work the ground. ⁶And *a* mist went up from the land and watered all the face of the ground. ⁷And YHWH Elohim formed the human, dust from the ground, and breathed into his nostrils breath of life, and the human became *a* living being.
 
 ⁸And YHWH Elohim planted a garden in Eden from east, and placed there the human whom he had formed. ⁹And YHWH Elohim caused to sprout from the ground every tree pleasant to the sight and good for food, and the tree of the life in the midst of the garden, and the tree of the knowledge of good and evil. ¹⁰And *a* river going out from Eden to water the garden, and from there it divided and became four heads. ¹¹The name of the one *is* Pishon; it *is* the one going around all the land of Havilah, where *the* gold *is*. ¹²And the gold of that land *is* good; there *is* the bdellium and the stone shoham. ¹³And the name of the second river *is* Gihon; it *is* the one going around all the land of Cush. ¹⁴And the name of the third river *is* Hiddeqel; it *is* the one going east of Asshur. And the fourth river, that *is* Perat.
 
@@ -98,7 +98,7 @@ And God finished on the seventh day his work which he had made, and he rested on
 > **📝 NOTES**
 >
 > 🔴 **CRITICAL - TEXTUAL VARIANT**
-> - MT reads **בַּיּוֹם הַשְּׁבִיעִי** (*bayom hashvi'i*) = "on the seventh day" for the *finishing*. LXX and Samaritan Pentateuch read "on the sixth day" (likely harmonizing, since finishing and resting on the same day is theologically awkward).
+> - MT reads **בַּיּוֹם הַשְּׁבִיעִי** (*bayom hashvi'i*) = "on the seventh day" for the *finishing*. The LXX (the ancient Greek translation) and Samaritan Pentateuch read "on the sixth day" (likely harmonizing, since finishing and resting on the same day is theologically awkward).
 > - **Per Rule 22:** translate MT in main text; note variant. Do not silently adopt LXX/SP.
 > - **PROBABLE** resolution of the apparent contradiction: *kalah* here means "brought to completion" as an ongoing state rather than a final stroke of work on day 7.
 >
@@ -146,12 +146,13 @@ These *are* the generations of the skies and the land when they were created, in
 
 ### **Verse 5**
 
-And every shrub of the field not yet *was* on the land, and every herb of the field not yet sprouted, for YHWH Elohim had not caused rain upon the land, and a human there was not to work the ground.
+And every shrub of the field not yet was on the land, and every herb of the field not yet sprouted, for YHWH Elohim had not caused rain upon the land, and a human there was not to work the ground.
 
 > **📝 NOTES**
 >
 > 🔵 **NEGATIVE-PRECREATION SERIES**
 > - Chain of "not yet" clauses sets a pre-creation state before the narrative acts. Hebrew **טֶרֶם** (*terem*) = "not yet/before."
+> - **Note on "was":** The Hebrew **יִהְיֶה** (*yihyeh*, from root **ה-י-ה**) is the expressed verb here — "not yet was/shall be." "Was" translates the Hebrew verb directly and is therefore not in italics (contrast with nominal clauses elsewhere where no Hebrew verb is present).
 >
 > 🟢 **WORK THE GROUND**
 > - **לַעֲבֹד אֶת־הָאֲדָמָה** (*la'avod et-ha'adamah*) = "to work/serve the ground"—first mention of human *work* precedes the human's creation. Root **ע-ב-ד** (*'-b-d*) = serve/work (same root as "servant" and "worship").
@@ -160,7 +161,7 @@ And every shrub of the field not yet *was* on the land, and every herb of the fi
 
 ### **Verse 6**
 
-And *a* mist went up from the land and watered *all* the face of the ground.
+And *a* mist went up from the land and watered all the face of the ground.
 
 > **📝 NOTES**
 >
@@ -183,7 +184,7 @@ And YHWH Elohim formed the human, dust from the ground, and breathed into his no
 >
 > 🟢 **NEW VERB - *yatzar***
 > - **וַיִּיצֶר** (*vayyitzer*) = "and he formed"—root **י-צ-ר** (*y-tz-r*), potter's verb. Distinct from *bara* (create, Gen 1:1) and *asah* (make, Gen 1:7).
-> - Added to glossary for Genesis 2+. **POSSIBLE** distinction: *bara* = initiate from nothing; *yatzar* = shape from existing material; *asah* = make/fabricate.
+> - Added to glossary for Genesis 2+. *bara* is used distinctively for divine creative action; its precise scope (including whether it implies creation from nothing) is debated. *yatzar* describes hands-on shaping/forming — a different verb for a different action. *asah* = make/fabricate.
 >
 > 🟢 **NEFESH CHAYAH RETURNS**
 > - **נֶפֶשׁ חַיָּה** (*nefesh chayah*) = "living being"—previously applied in Gen 1:20, 21, 24, 30 to animals. Here applied to the human. The same category; humans share it with other living creatures.
@@ -312,7 +313,7 @@ But from the tree of the knowledge of good and evil, you shall not eat from it, 
 >
 > 🟡 **"IN THE DAY"**
 > - **בְּיוֹם** (*beyom*) = "in the day"—can mean literal day or idiom for "at the time that." The apparent tension with Gen 3 (they do not die the same day they eat) is an old interpretive crux; preserve the Hebrew, do not resolve.
-> - **Further extension:** **Gen 5:5** reports Adam lived **930 years** before dying — much later than "the day" of eating. Historic interpretive solutions all **POSSIBLE**, none imposed: (1) *beyom* as idiomatic "when"; (2) death as process/mortality activated at eating, consummated later; (3) "day" as divine-scale day (cf. Ps 90:4); (4) spiritual death preceding physical death. Rule 2 — preserve the tension; list options without privileging one.
+> - Gen 5:5 reports Adam lived 930 years before dying — much later than "the day" of eating. Multiple interpretive solutions are all **POSSIBLE**, none imposed: *beyom* as idiomatic "when"; death as process activated at eating but consummated later; "day" as divine-scale time (cf. Ps 90:4); spiritual death preceding physical death. For fuller discussion, see companion Section D4.
 
 ---
 
@@ -323,11 +324,9 @@ And YHWH Elohim said, "Not good the being of the human alone; I will make for hi
 > **📝 NOTES**
 >
 > 🔴 **CRITICAL - *ezer kenegdo***
-> - **עֵזֶר כְּנֶגְדּוֹ** (*ezer kenegdo*) = "helper as his counterpart."
-> - **עֵזֶר** (*ezer*) = help/helper. **The word appears ~21× in the Hebrew Bible; ~16 of those refer to God as Israel's helper** in military / rescue contexts (e.g., Deut 33:7, 33:26, 33:29; Ps 20:2, 33:20, 115:9–11, 121:1–2, 124:8, 146:5; Hos 13:9). Only 2 occurrences refer to the woman (Gen 2:18, 2:20). The statistical profile of *ezer* is **predominantly superior-help**, not subordinate-help. No hierarchical force in the Hebrew lexeme.
-> - **כְּנֶגְדּוֹ** (*kenegdo*) = "as opposite him" / "as his counterpart / as corresponding to him" — preposition **נֶגֶד** (*neged*) = "in front of, opposite, corresponding."
-> - **NOT "helpmate,"** which imports a KJV-era compression absent from the Hebrew.
-> - **POSSIBLE** meanings: "a helper corresponding to him" / "a counterpart for him." Mutual, not subordinate.
+> - **עֵזֶר כְּנֶגְדּוֹ** (*ezer kenegdo*) = "helper as his counterpart." **NOT "helpmate,"** which imports a KJV-era compression absent from the Hebrew.
+> - **עֵזֶר** (*ezer*) = help/helper — appears ~21× in the Hebrew Bible, ~16 of those referring to God as Israel's helper in military/rescue contexts; only 2 refer to the woman (Gen 2:18, 2:20). The statistical profile of *ezer* is **predominantly superior-help**, not subordinate-help. **POSSIBLE** meanings: "a helper corresponding to him" / "a counterpart for him." Mutual, not subordinate. For fuller discussion, see companion Section A6.
+> - **כְּנֶגְדּוֹ** (*kenegdo*) = "as opposite him" / "as his counterpart" — preposition **נֶגֶד** (*neged*) = "in front of, opposite, corresponding." **PROBABLE**: mutual and complementary, not hierarchical.
 >
 > 🔵 **FIRST "NOT GOOD"**
 > - Contrasts sharply with Gen 1's repeated "good" and "very good." First *לֹא־טוֹב* (*lo tov*) in the Bible.
@@ -482,5 +481,3 @@ And they were both of them naked, the human and his woman, and they were not ash
 ---
 
 **END OF GENESIS 2 - THE TRANSPARENT TRANSLATION (ENGLISH)**
-
-*"The least dishonest version we could build."*

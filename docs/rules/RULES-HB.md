@@ -420,6 +420,82 @@ Literal: "And-saw God that good"
 
 ---
 
+## PROPER-NAME TABLE — GENESIS 1-12
+
+**Locked cross-language proper-name forms with familiar equivalents (v3.2).** Per CORE §Name Rendering Policy: first occurrence per section shows "Transliterated (Familiar)"; all subsequent occurrences use the familiar form only.
+
+### Person Names
+
+| Hebrew | Transliterated | EN Familiar | PT Familiar | DE Familiar | ES Familiar |
+|--------|---------------|-------------|-------------|-------------|-------------|
+| אָדָם (*Adam*) | Adam | Adam | Adão | Adam | Adán |
+| חַוָּה (*Chava*) | Chava | Eve | Eva | Eva | Eva |
+| קַיִן (*Qayin*) | Qayin | Cain | Caim | Kain | Caín |
+| הֶבֶל (*Hevel*) | Hevel | Abel | Abel | Abel | Abel |
+| שֵׁת (*Shet*) | Shet | Seth | Sete | Set | Set |
+| אֱנוֹשׁ (*Enosh*) | Enosh | Enosh | Enos | Enosch | Enós |
+| קֵינָן (*Qenan*) | Qenan | Kenan | Cainã | Kenan | Cainán |
+| מַהֲלַלְאֵל (*Mahalalel*) | Mahalalel | Mahalalel | Maalalel | Mahalalel | Mahalalel |
+| יֶרֶד (*Yered*) | Yered | Jared | Jarede | Jered | Jared |
+| חֲנוֹךְ (*Chanokh*) | Chanokh | Enoch | Enoque | Henoch | Enoc |
+| מְתוּשֶׁלַח (*Metushelach*) | Metushelach | Methuselah | Matusalém | Methusalem | Matusalén |
+| לֶמֶךְ (*Lemekh*) | Lemekh | Lamech | Lameque | Lamech | Lamec |
+| נֹחַ (*Noach*) | Noach | Noah | Noé | Noah | Noé |
+| שֵׁם (*Shem*) | Shem | Shem | Sem | Sem | Sem |
+| חָם (*Cham*) | Cham | Ham | Cam | Ham | Cam |
+| יֶפֶת (*Yefet*) | Yefet | Japheth | Jafé | Jafet | Jafet |
+| נִמְרֹד (*Nimrod*) | Nimrod | Nimrod | Ninrode | Nimrod | Nimrod |
+| אַבְרָם (*Avram*) | Avram | Abram | Abrão | Abram | Abrán |
+| שָׂרַי (*Sarai*) | Sarai | Sarai | Sarai | Sarai | Sarai |
+| לוֹט (*Lot*) | Lot | Lot | Ló | Lot | Lot |
+| תֶּרַח (*Terach*) | Terach | Terah | Terá | Terach | Taré |
+| הָרָן (*Haran*) | Haran | Haran | Harã | Haran | Harán |
+| נָחוֹר (*Nachor*) | Nachor | Nahor | Naor | Nahor | Nacor |
+| מִלְכָּה (*Milkah*) | Milkah | Milcah | Milca | Milka | Milca |
+| יִסְכָּה (*Yiskah*) | Yiskah | Iscah | Iscá | Jiska | Iscá |
+| כְּנַעַן (*Kenaan*) | Kenaan | Canaan | Canaã | Kanaan | Canaán |
+| פַּרְעֹה (*Par'oh*) | Par'oh | Pharaoh | Faraó | Pharao | Faraón |
+| עָדָה (*Adah*) | Adah | Adah | Ada | Ada | Adá |
+| צִלָּה (*Tsillah*) | Tsillah | Zillah | Zilá | Zilla | Zilá |
+| יָבָל (*Yaval*) | Yaval | Jabal | Jabal | Jabal | Jabal |
+| יוּבָל (*Yuval*) | Yuval | Jubal | Jubal | Jubal | Jubal |
+| תּוּבַל קַיִן (*Tuval-Qayin*) | Tuval-Qayin | Tubal-Cain | Tubal-Caim | Tubal-Kain | Tubal-Caín |
+| נַעֲמָה (*Naamah*) | Naamah | Naamah | Naamá | Naama | Naamá |
+| עִירָד (*Irad*) | Irad | Irad | Irade | Irad | Irad |
+| מְחוּיָאֵל (*Mechuyael*) | Mechuyael | Mehujael | Meujael | Mehujael | Mehujael |
+| מְתוּשָׁאֵל (*Metushael*) | Metushael | Methushael | Metusael | Methuschael | Metusael |
+| מֹשֶׁה (*Mosheh*) | Mosheh | Moses | Moisés | Mose | Moisés |
+| אֵלִיָּהוּ (*Eliyahu*) | Eliyahu | Elijah | Elias | Elia | Elías |
+
+### Place Names
+
+| Hebrew | Transliterated | EN Familiar | PT Familiar | DE Familiar | ES Familiar |
+|--------|---------------|-------------|-------------|-------------|-------------|
+| יְרוּשָׁלַיִם (*Yerushalayim*) | Yerushalayim | Jerusalem | Jerusalém | Jerusalem | Jerusalén |
+| יַרְדֵּן (*Yarden*) | Yarden | Jordan | Jordão | Jordan | Jordán |
+| מִצְרַיִם (*Mitsrayim*) | Mitsrayim | Egypt | Egito | Ägypten | Egipto |
+| בֵּית אֵל (*Beyt-El*) | Beyt-El | Bethel | Betel | Bethel | Betel |
+| שְׁכֶם (*Shekhem*) | Shekhem | Shechem | Siquém | Sichem | Siquem |
+| בֵּית לֶחֶם (*Beyt-Lechem*) | Beyt-Lechem | Bethlehem | Belém | Bethlehem | Belén |
+| גָּלִיל (*Galil*) | Galil | Galilee | Galileia | Galiläa | Galilea |
+| נָצְרַת (*Natseret*) | Natseret | Nazareth | Nazaré | Nazareth | Nazaret |
+
+### Group Names
+
+| Hebrew/Greek | Transliterated | EN Familiar | PT Familiar | DE Familiar | ES Familiar | Note |
+|-------------|---------------|-------------|-------------|-------------|-------------|------|
+| פְּרוּשִׁים (*Perushim*) | Perushim | Pharisees | Fariseus | Pharisäer | Fariseos | Familiar-form default |
+| צְדוּקִים (*Tsduqim*) | Tsduqim | Sadducees | Saduceus | Sadduzäer | Saduceos | Familiar-form default |
+| οἱ Ἰουδαῖοι (*hoi Ioudaioi*) | Yehudim | — | — | — | — | EXCEPTION: retains transliterated form (§Ioudaioi Policy) |
+
+**Notes:**
+- Names where the familiar form is identical to the transliterated form (e.g., Sarai, Lot, Nimrod, David) use the transliterated form throughout — no parenthetical needed.
+- German uses J for Hebrew י when followed by a vowel, and sch for Hebrew שׁ (phonologically motivated).
+- Spanish uses J for Hebrew ח and accents per Spanish stress rules.
+- Names not listed here (e.g., obscure Genesis 10 peoples): retain transliterated form throughout.
+
+---
+
 ## HB QUALITY CHECKLIST
 
 Source-language-specific items (supplements CORE Quality Control Checklist):

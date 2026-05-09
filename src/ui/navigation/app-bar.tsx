@@ -1,9 +1,9 @@
 "use client";
 
-import { useLocale, useTranslations } from "next-intl";
 import { usePathname } from "next/navigation";
-import { locales, type Locale } from "@/lib/i18n";
+import { useLocale, useTranslations } from "next-intl";
 import { AVAILABLE_BOOKS } from "@/domain/books/registry";
+import { type Locale, locales } from "@/lib/i18n";
 
 export function AppBar() {
   const locale = useLocale() as Locale;
@@ -33,7 +33,9 @@ export function AppBar() {
 
           {breadcrumb && (
             <>
-              <span className="text-border" aria-hidden="true">/</span>
+              <span className="text-border" aria-hidden="true">
+                /
+              </span>
               <a
                 href={breadcrumb.href}
                 className="text-sm text-text-muted hover:text-accent transition-colors duration-150 focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2 rounded flex items-center gap-1"
@@ -43,8 +45,15 @@ export function AppBar() {
               </a>
               {breadcrumb.current && (
                 <>
-                  <span className="text-border hidden sm:inline" aria-hidden="true">/</span>
-                  <span className="text-sm text-text-secondary hidden sm:inline">{breadcrumb.current}</span>
+                  <span
+                    className="text-border hidden sm:inline"
+                    aria-hidden="true"
+                  >
+                    /
+                  </span>
+                  <span className="text-sm text-text-secondary hidden sm:inline">
+                    {breadcrumb.current}
+                  </span>
                 </>
               )}
             </>
@@ -64,7 +73,9 @@ export function AppBar() {
               }`}
             >
               <span className="hidden sm:inline">{loc.toUpperCase()}</span>
-              <span className="sm:hidden">{loc === "pt-br" ? "PT" : loc.toUpperCase()}</span>
+              <span className="sm:hidden">
+                {loc === "pt-br" ? "PT" : loc.toUpperCase()}
+              </span>
             </a>
           ))}
         </div>

@@ -1,6 +1,20 @@
-import { locales, type Locale } from "@/infrastructure/i18n/config";
-import { readChapter, readEnrichment, readIntroduction, readProphecy, readPeople, listBooks, listChapters } from "@/infrastructure/content/fs-content-repository";
-import type { ChapterData, EnrichmentData, IntroductionData, ProphecyData, PeopleData } from "@/domain/content/types";
+import type {
+  ChapterData,
+  EnrichmentData,
+  IntroductionData,
+  PeopleData,
+  ProphecyData,
+} from "@/domain/content/types";
+import {
+  listBooks,
+  listChapters,
+  readChapter,
+  readEnrichment,
+  readIntroduction,
+  readPeople,
+  readProphecy,
+} from "@/infrastructure/content/fs-content-repository";
+import { type Locale, locales } from "@/infrastructure/i18n/config";
 
 export async function getChapterData(
   locale: Locale,
@@ -23,6 +37,25 @@ export async function getIntroductionData(
   book: string,
 ): Promise<IntroductionData | null> {
   return readIntroduction(locale, book);
+}
+
+/**
+ * Phase 5 (Book Introduction split, AUDIT §3.5): book landing page renders
+ * Section A (Overview) only; the full introduction lives at /{book}/introduction.
+ * Disclaimer is cleared because it belongs on the dedicated introduction page,
+ * not the landing.
+ */
+export async function getIntroductionOverview(
+  locale: Locale,
+  book: string,
+): Promise<IntroductionData | null> {
+  const full = await readIntroduction(locale, book);
+  if (!full) return null;
+  return {
+    ...full,
+    disclaimer: "",
+    sections: full.sections.filter((s) => s.id === "overview"),
+  };
 }
 
 export async function getProphecyData(

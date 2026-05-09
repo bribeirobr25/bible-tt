@@ -7,10 +7,11 @@
 **Texto Base:** Biblia Hebraica Stuttgartensia, 5ª ed. rev. (Stuttgart: Deutsche Bibelgesellschaft, 1997)
 **Edição:** Edição Transparente
 **Idioma:** Português Brasileiro
-**Metodologia:** Sistema de Governança de 29 Regras (Conjunto de Regras v3.0)
+**Metodologia:** Sistema de Governança de 29 Regras (Conjunto de Regras v3.3)
 **Política do Nome Divino (Regra 25):** Opção A — Consonantal (YHWH).
 **Status:** provisório — aguardando revisão por pares (Regra 28)
 **Revisores:** Hebraísta: não atribuído | Editor PT: não atribuído | Alinhamento cruzado: não atribuído
+**Relação com Almeida (Regra CORE):** Opção B — Reconhecimento seletivo. Notam-se convergências/divergências em materiais suplementares.
 
 ---
 
@@ -42,13 +43,13 @@
 
 ## VISÃO GERAL DO CAPÍTULO
 
-**O que acontece:** Deus abençoa a família de Noach com um mandato de criação renovado — mas alterado: "temor e pavor" substitui domínio, o consumo de carne é permitido com proibição do sangue, e o assassinato é respondido com responsabilização capital. Deus estabelece uma aliança com toda a vida, colocando o arco (*qesheth* — uma arma) nas nuvens como sinal. Noach planta uma vinha, bebe vinho e fica descoberto. Cham vê a nudez de seu pai; Shem e Yafet o cobrem sem olhar. Noach desperta, amaldiçoa Kenaan (não Cham) e abençoa Shem e Yafet. Noach morre aos 950 anos.
+**O que acontece:** Deus abençoa a família de Noach (Noé) com um mandato de criação renovado — mas alterado: "temor e pavor" substitui domínio, o consumo de carne é permitido com proibição do sangue, e o assassinato é respondido com responsabilização capital. Deus estabelece uma aliança com toda a vida, colocando o arco (*qesheth* — uma arma) nas nuvens como sinal. Noé planta uma vinha, bebe vinho e fica descoberto. Cham (Cam) vê a nudez de seu pai; Shem e Yafet (Jafé) o cobrem sem olhar. Noé desperta, amaldiçoa Kenaan (Canaã) (não Cam) e abençoa Shem e Jafé. Noé morre aos 950 anos.
 
 **Temas-chave:** Re-criação com alteração (1:28 vs. 9:1–7 — mesmas palavras, mundo diferente); sangue = *nephesh* (força vital); o *tselem* (imagem de Deus) persiste através do dilúvio como base da dignidade humana; a aliança unilateral e universal com toda a vida; o arco (*qesheth*) como arma deposta; a cena da tenda — cultura de honra/vergonha; a maldição recai sobre Kenaan, não sobre o ofensor Cham; as primeiras palavras de Noach são uma maldição.
 
-**Observe:** "Todo ser que se move, que é vivo, será para alimento" (9:3) — a primeira permissão de carne, contrastando com a dieta exclusivamente vegetal de 1:29; a estrutura quiástica de 9:6 (o ato se dobra sobre o agente); "o meu arco" — possessivo, implicando que era a arma de Deus; a ambiguidade de "que habite nas tendas de Shem" (9:27 — Yafet ou Deus?); Noach está em silêncio desde 6:9 — sua primeira fala registrada é esta maldição.
+**Observe:** "Todo ser que se move, que é vivo, será para alimento" (9:3) — a primeira permissão de carne, contrastando com a dieta exclusivamente vegetal de 1:29; a estrutura quiástica de 9:6 (o ato se dobra sobre o agente); "o meu arco" — possessivo, implicando que era a arma de Deus; a ambiguidade de "que habite nas tendas de Shem" (9:27 — Jafé ou Deus?); Noé está em silêncio desde 6:9 — sua primeira fala registrada é esta maldição.
 
-**Conexão:** Os mandamentos noaicos (9:1–7) funcionam como um quadro universal que precede e fundamenta a aliança abraâmica (Cap. 12+). A tábua das nações (Cap. 10) traça as linhagens de Shem, Cham e Yafet aqui estabelecidas.
+**Conexão:** Os mandamentos noaicos (9:1–7) funcionam como um quadro universal que precede e fundamenta a aliança abraâmica (Cap. 12+). A tábua das nações (Cap. 10) traça as linhagens de Shem, Cam e Jafé aqui estabelecidas.
 
 ---
 
@@ -58,19 +59,19 @@
 
 ---
 
-¹E Deus abençoou Noach e seus filhos e disse-lhes: "Frutificai e multiplicai-vos e enchei a terra. ²E o temor de vós e o pavor de vós serão sobre todo vivente da terra, e sobre toda ave dos céus, em tudo em que o solo fervilha, e em todos os peixes do mar; em vossa mão são entregues. ³Todo ser que se move, que *é* vivo, será para alimento para vós; como a erva verde, dei-vos tudo. ⁴Somente carne com a sua vida — o seu sangue — não comereis. ⁵E certamente o vosso sangue das vossas vidas requererei; da mão de todo vivente o requererei, e da mão do humano, da mão de um homem, do seu irmão, requererei a vida do humano. ⁶Quem derramar o sangue do humano, pelo humano o seu sangue será derramado, pois à imagem de Deus fez o humano. ⁷E vós, frutificai e multiplicai-vos, fervilhai sobre a terra e multiplicai-vos nela."
+¹E Deus abençoou Noach (Noé) e seus filhos e disse-lhes: "Frutificai e multiplicai-vos e enchei a terra. ²E o temor de vós e o pavor de vós serão sobre todo vivente da terra, e sobre toda ave dos céus, em tudo em que o solo fervilha, e em todos os peixes do mar; em vossa mão são entregues. ³Todo ser que se move, que *é* vivo, será para alimento para vós; como a erva verde, dei-vos tudo. ⁴Somente carne com a sua vida — o seu sangue — não comereis. ⁵E certamente o vosso sangue das vossas vidas requererei; da mão de todo vivente o requererei, e da mão do humano, da mão de um homem, do seu irmão, requererei a vida do humano. ⁶Quem derramar o sangue do humano, pelo humano o seu sangue será derramado, pois à imagem de Deus fez o humano. ⁷E vós, frutificai e multiplicai-vos, fervilhai sobre a terra e multiplicai-vos nela."
 
-⁸E Deus disse a Noach e a seus filhos com ele, dizendo: ⁹"E eu, eis que eu *estou* estabelecendo a minha aliança convosco e com a vossa semente após vós, ¹⁰e com todo ser vivente que *está* convosco — a ave, o gado e todo vivente da terra convosco — de todos os que saem da tebah, a todo vivente da terra. ¹¹E estabelecerei a minha aliança convosco, e toda carne não será mais eliminada pelas águas do dilúvio, e não haverá mais dilúvio para destruir a terra."
+⁸E Deus disse a Noé e a seus filhos com ele, dizendo: ⁹"E eu, eis que eu *estou* estabelecendo a minha aliança convosco e com a vossa semente após vós, ¹⁰e com todo ser vivente que *está* convosco — a ave, o gado e todo vivente da terra convosco — de todos os que saem da tebah, a todo vivente da terra. ¹¹E estabelecerei a minha aliança convosco, e toda carne não será mais eliminada pelas águas do dilúvio, e não haverá mais dilúvio para destruir a terra."
 
-¹²E Deus disse: "Este *é* o sinal da aliança que eu *estou* dando entre mim e entre vós e entre todo ser vivente que *está* convosco, para gerações de perpetuidade: ¹³o meu arco coloquei na nuvem, e será para sinal da aliança entre mim e entre a terra. ¹⁴E será quando eu trouxer nuvens sobre a terra, e o arco aparecer na nuvem, ¹⁵e eu me lembrarei da minha aliança que *está* entre mim e entre vós e entre todo ser vivente em toda carne, e as águas não se tornarão mais em dilúvio para destruir toda carne. ¹⁶E o arco estará na nuvem, e eu o verei para lembrar a aliança de perpetuidade entre Deus e entre todo ser vivente em toda carne que *está* sobre a terra." ¹⁷E Deus disse a Noach: "Este *é* o sinal da aliança que eu estabeleci entre mim e entre toda carne que *está* sobre a terra."
+¹²E Deus disse: "Este *é* o sinal da aliança que eu *estou* dando entre mim e entre vós e entre todo ser vivente que *está* convosco, para gerações de perpetuidade: ¹³o meu arco coloquei na nuvem, e será para sinal da aliança entre mim e entre a terra. ¹⁴E será quando eu trouxer nuvens sobre a terra, e o arco aparecer na nuvem, ¹⁵e eu me lembrarei da minha aliança que *está* entre mim e entre vós e entre todo ser vivente em toda carne, e as águas não se tornarão mais em dilúvio para destruir toda carne. ¹⁶E o arco estará na nuvem, e eu o verei para lembrar a aliança de perpetuidade entre Deus e entre todo ser vivente em toda carne que *está* sobre a terra." ¹⁷E Deus disse a Noé: "Este *é* o sinal da aliança que eu estabeleci entre mim e entre toda carne que *está* sobre a terra."
 
-¹⁸E os filhos de Noach que saíram da tebah foram Shem e Cham e Yafet; e Cham *é* o pai de Kenaan. ¹⁹Estes três *são* os filhos de Noach, e destes toda a terra se espalhou.
+¹⁸E os filhos de Noé que saíram da tebah foram Shem e Cham (Cam) e Yafet (Jafé); e Cam *é* o pai de Kenaan (Canaã). ¹⁹Estes três *são* os filhos de Noé, e destes toda a terra se espalhou.
 
-²⁰E Noach começou *como* homem do solo e plantou uma vinha. ²¹E bebeu do vinho e embriagou-se, e descobriu-se no meio da sua tenda. ²²E Cham, o pai de Kenaan, viu a nudez do seu pai, e contou aos seus dois irmãos lá fora. ²³E Shem e Yafet tomaram a veste e a colocaram sobre o ombro dos dois, e andaram de costas, e cobriram a nudez do seu pai; e os seus rostos *estavam* voltados para trás, e a nudez do seu pai não viram.
+²⁰E Noé começou *como* homem do solo e plantou uma vinha. ²¹E bebeu do vinho e embriagou-se, e descobriu-se no meio da sua tenda. ²²E Cam, o pai de Canaã, viu a nudez do seu pai, e contou aos seus dois irmãos lá fora. ²³E Shem e Jafé tomaram a veste e a colocaram sobre o ombro dos dois, e andaram de costas, e cobriram a nudez do seu pai; e os seus rostos *estavam* voltados para trás, e a nudez do seu pai não viram.
 
-²⁴E Noach despertou do seu vinho, e soube o que seu filho mais novo lhe havia feito. ²⁵E disse: "Maldito *seja* Kenaan; servo de servos será para os seus irmãos." ²⁶E disse: "Bendito *seja* YHWH, Deus de Shem, e que Kenaan seja servo deles. ²⁷Alargue Deus a Yafet, e habite ele nas tendas de Shem, e que Kenaan seja servo deles."
+²⁴E Noé despertou do seu vinho, e soube o que seu filho mais novo lhe havia feito. ²⁵E disse: "Maldito *seja* Canaã; servo de servos será para os seus irmãos." ²⁶E disse: "Bendito *seja* YHWH, Deus de Shem, e que Canaã seja servo deles. ²⁷Alargue Deus a Jafé, e habite ele nas tendas de Shem, e que Canaã seja servo deles."
 
-²⁸E Noach viveu após o dilúvio trezentos e cinquenta anos. ²⁹E todos os dias de Noach foram novecentos e cinquenta anos, e morreu.
+²⁸E Noé viveu após o dilúvio trezentos e cinquenta anos. ²⁹E todos os dias de Noé foram novecentos e cinquenta anos, e morreu.
 
 ---
 
@@ -78,12 +79,12 @@
 
 ### **Versículo 1**
 
-E Deus abençoou Noach e seus filhos e disse-lhes: "Frutificai e multiplicai-vos e enchei a terra.
+E Deus abençoou Noach (Noé) e seus filhos e disse-lhes: "Frutificai e multiplicai-vos e enchei a terra.
 
 > **📝 NOTAS**
 >
 > 🔴 **"FRUTIFICAI E MULTIPLICAI-VOS" — GN 1:28 REPETIDO**
-> - **פְּרוּ וּרְבוּ וּמִלְאוּ אֶת־הָאָרֶץ** = "Frutificai e multiplicai-vos e enchei a terra." Quase idêntico a Gn 1:28. A re-criação é explicitada: a humanidade pós-dilúvio recebe a mesma bênção que a primeira humanidade. Mas note o que está ausente: Gn 1:28 inclui "e sujeitai-a (*kivshuha*) e dominai (*urdu*)." Gn 9:1 omite ambos. A linguagem de domínio desaparece.
+> - **פְּרוּ וּרְבוּ וּמִלְאוּ אֶת־הָאָרֶץ** = "Frutificai e multiplicai-vos e enchei a terra." Quase idêntico a Gn 1:28, mas Gn 9:1 omite a linguagem de domínio ("sujeitai-a" *kivshuha* + "dominai" *urdu*). → Para comparação completa de re-criação, veja o companheiro §A1.
 
 ---
 
@@ -142,7 +143,7 @@ Quem derramar o sangue do humano, pelo humano o seu sangue será derramado, pois
 > **📝 NOTAS**
 >
 > 🔴 **CRÍTICO — ESTRUTURA QUIÁSTICA**
-> - **שֹׁפֵךְ דַּם הָאָדָם בָּאָדָם דָּמוֹ יִשָּׁפֵךְ** = quiasmo A-B-C / C'-B'-A'. "Derramador-de / sangue-de / o-humano // pelo-humano / o-seu-sangue / será-derramado." O hebraico espelha o ato em sua estrutura: a sentença se dobra sobre si mesma como a retribuição que descreve. Intraduzível em português — anotado.
+> - **שֹׁפֵךְ דַּם הָאָדָם בָּאָדָם דָּמוֹ יִשָּׁפֵךְ** = quiasmo (estrutura espelhada) A-B-C / C'-B'-A'. "Derramador-de / sangue-de / o-humano // pelo-humano / o-seu-sangue / será-derramado." O hebraico espelha o ato em sua estrutura: a sentença se dobra sobre si mesma como a retribuição que descreve. Intraduzível em português — anotado.
 >
 > 🔴 **"IMAGEM DE DEUS" — RETORNO A GN 1:27**
 > - **כִּי בְּצֶלֶם אֱלֹהִים עָשָׂה אֶת־הָאָדָם** = "pois à imagem (*tselem*) de Deus fez o humano." A sacralidade da vida humana se fundamenta em Gn 1:27. O *tselem* (imagem) sobrevive ao dilúvio — não foi apagado pela corrupção. Após o dilúvio, após "toda inclinação má," a imagem de Deus permanece como base para a dignidade humana.
@@ -162,7 +163,7 @@ E vós, frutificai e multiplicai-vos, fervilhai sobre a terra e multiplicai-vos 
 
 ### **Versículo 8**
 
-E Deus disse a Noach e a seus filhos com ele, dizendo:
+E Deus disse a Noé e a seus filhos com ele, dizendo:
 
 ---
 
@@ -215,8 +216,7 @@ o meu arco coloquei na nuvem, e será para sinal da aliança entre mim e entre a
 > **📝 NOTAS**
 >
 > 🔴 **CRÍTICO — "MEU ARCO" (*qashti*)**
-> - **קַשְׁתִּי** (*qashti*) = "meu arco." A palavra **קֶשֶׁת** (*qesheth*) predominantemente na Bíblia Hebraica significa um **arco de guerra** — uma arma. A imagem é: Deus depõe uma arma no céu, apontada para cima (longe da terra), como sinal de paz. "Meu arco" — possessivo: este era o arco de Deus, o instrumento da tempestade do dilúvio. Agora está pendurado.
-> - Se os ouvintes antigos entendiam "arco-íris" ou "arco de guerra" é POSSÍVEL para ambos. A TT traduz "arco" (não "arco-íris") e anota a semântica marcial.
+> - **קַשְׁתִּי** (*qashti*) = "meu arco." A palavra **קֶשֶׁת** (*qesheth*) predominantemente significa **arco de guerra** na BH; Deus depõe sua arma no céu como sinal de paz. A TT traduz "arco" — **POSSÍVEL** para ambos os sentidos ('arco-íris' / 'arco de guerra') ao ouvinte antigo. → Para discussão completa da semântica marcial, veja o companheiro §A5 + §D1.
 >
 > 🟢 **"ENTRE MIM E ENTRE A TERRA"**
 > - O sinal é entre Deus e **a terra** (*ha-aretz*) — não entre Deus e a humanidade. A própria terra é parte deste sinal da aliança.
@@ -253,30 +253,30 @@ E o arco estará na nuvem, e eu o verei para lembrar a aliança de perpetuidade 
 
 ### **Versículo 17**
 
-E Deus disse a Noach: "Este *é* o sinal da aliança que eu estabeleci entre mim e entre toda carne que *está* sobre a terra."
+E Deus disse a Noé: "Este *é* o sinal da aliança que eu estabeleci entre mim e entre toda carne que *está* sobre a terra."
 
 ---
 
 ### **Versículo 18**
 
-E os filhos de Noach que saíram da tebah foram Shem e Cham e Yafet; e Cham *é* o pai de Kenaan.
+E os filhos de Noé que saíram da tebah foram Shem e Cham (Cam) e Yafet (Jafé); e Cam *é* o pai de Kenaan (Canaã).
 
 > **📝 NOTAS**
 >
 > 🔵 **"CHAM É O PAI DE KENAAN"**
-> - Esta nota parentética antecipa o incidente de Cham/Kenaan (vv.20–27). O narrador nomeia Kenaan antes do evento — identificando a linhagem que será amaldiçoada. A inserção é prospectiva: prepara o leitor para o que se segue.
+> - Esta nota parentética antecipa o incidente de Cam/Canaã (vv.20–27). O narrador nomeia Canaã antes do evento — identificando a linhagem que será amaldiçoada. A inserção é prospectiva: prepara o leitor para o que se segue.
 
 ---
 
 ### **Versículo 19**
 
-Estes três *são* os filhos de Noach, e destes toda a terra se espalhou.
+Estes três *são* os filhos de Noé, e destes toda a terra se espalhou.
 
 ---
 
 ### **Versículo 20**
 
-E Noach começou *como* homem do solo e plantou uma vinha.
+E Noé começou *como* homem do solo e plantou uma vinha.
 
 > **📝 NOTAS**
 >
@@ -301,16 +301,13 @@ E bebeu do vinho e embriagou-se, e descobriu-se no meio da sua tenda.
 
 ### **Versículo 22**
 
-E Cham, o pai de Kenaan, viu a nudez do seu pai, e contou aos seus dois irmãos lá fora.
+E Cam, o pai de Canaã, viu a nudez do seu pai, e contou aos seus dois irmãos lá fora.
 
 > **📝 NOTAS**
 >
 > 🔴 **CRÍTICO — "VIU A NUDEZ"**
-> - **וַיַּרְא… אֵת עֶרְוַת אָבִיו** (*vayyar… et ervat aviv*) = "e *ele* viu a nudez do seu pai." O texto diz **VIU**. Duas leituras acadêmicas principais:
->   1. **Voyeurismo/desrespeito** — Cham olhou e não cobriu seu pai; a ofensa é desrespeito e humilhação pública (peshat/leitura simples)
->   2. **Violação sexual** — "descobrir a nudez" (גלה ערוה, *galah ervah*) em Lv 18 e 20 é um eufemismo para atos sexuais. Mas: o texto aqui usa ראה (viu), não גלה (descobriu).
-> - Leituras adicionais (incesto materno, etc.) são discutidas no complementar contextual.
-> - A TT traduz o texto de superfície: "viu a nudez do seu pai." Regra 2: o texto diz "viu." Traduzimos "viu." A ambiguidade do que este ato implicou é anotada, não resolvida.
+> - **וַיַּרְא… אֵת עֶרְוַת אָבִיו** (*vayyar… et ervat aviv*) = "e *ele* viu a nudez do seu pai." O texto diz **VIU** — não גלה (*galah*, descobriu), que é o verbo eufemístico de Lv 18–20 para atos sexuais. A TT traduz o texto de superfície: "viu." Regra 2: o texto diz "viu," traduzimos "viu." As leituras secundárias (voyeurismo, violação sexual, incesto materno) e o debate acadêmico associado são discutidos no companheiro.
+> - Para discussão mais completa, veja o companheiro Seção [B].
 >
 > 🔵 **"E CONTOU"**
 > - **וַיַּגֵּד** (*vayyagged*) = "e contou/relatou." O segundo ato de Cham: contar aos irmãos. Se isto é relatar, gabar-se ou zombar — o texto não especifica a maneira ou o motivo.
@@ -319,12 +316,12 @@ E Cham, o pai de Kenaan, viu a nudez do seu pai, e contou aos seus dois irmãos 
 
 ### **Versículo 23**
 
-E Shem e Yafet tomaram a veste e a colocaram sobre o ombro dos dois, e andaram de costas, e cobriram a nudez do seu pai; e os seus rostos *estavam* voltados para trás, e a nudez do seu pai não viram.
+E Shem e Jafé tomaram a veste e a colocaram sobre o ombro dos dois, e andaram de costas, e cobriram a nudez do seu pai; e os seus rostos *estavam* voltados para trás, e a nudez do seu pai não viram.
 
 > **📝 NOTAS**
 >
 > 🔵 **CONTRASTE DELIBERADO**
-> - Cham: viu. Shem e Yafet: andaram de costas, rostos voltados, não viram. O contraste é total e deliberado. O ato deles repara o que o ato de Cham danificou.
+> - Cam: viu. Shem e Jafé: andaram de costas, rostos voltados, não viram. O contraste é total e deliberado. O ato deles repara o que o ato de Cam danificou.
 >
 > 🔵 **"A VESTE" (*ha-simlah*)**
 > - **הַשִּׂמְלָה** (*ha-simlah*) — "a veste," artigo definido. Qual veste? Possivelmente a própria veste de Noach. O artigo definido implica uma veste específica, conhecida — talvez aquela que Noach removeu quando se descobriu.
@@ -333,12 +330,12 @@ E Shem e Yafet tomaram a veste e a colocaram sobre o ombro dos dois, e andaram d
 
 ### **Versículo 24**
 
-E Noach despertou do seu vinho, e soube o que seu filho mais novo lhe havia feito.
+E Noé despertou do seu vinho, e soube o que seu filho mais novo lhe havia feito.
 
 > **📝 NOTAS**
 >
 > 🔴 **"SEU FILHO MAIS NOVO" (*beno ha-qatan*)**
-> - **בְּנוֹ הַקָּטָן** = "seu filho mais novo/menor." Cham é listado como o filho do meio em toda enumeração (Shem, Cham, Yafet). Se Cham é o do meio, por que "mais novo"? Possibilidades: (1) *qatan* aqui significa "mais novo" e a ordem de nascimento difere da ordem de listagem; (2) *qatan* significa "pequeno/insignificante" (julgamento moral, não ordem de nascimento); (3) a ordem de listagem não é a de nascimento. O texto não resolve isto.
+> - **בְּנוֹ הַקָּטָן** = "seu filho mais novo/menor." Cham é listado como filho do meio em toda genealogia (Shem, Cham, Yafet); chamá-lo *qatan* aqui cria uma aparente contradição. → Para as propostas (leitura por ordem de nascimento vs. status moral), veja o companheiro §G3.
 >
 > 🔵 **"SOUBE" (*vayyeda*)**
 > - **וַיֵּדַע** = "e soube." Noach não foi informado — ele **soube**. Como soube o que aconteceu enquanto estava inconsciente é inexplicado. O texto assume o conhecimento sem explicar sua fonte.
@@ -347,21 +344,24 @@ E Noach despertou do seu vinho, e soube o que seu filho mais novo lhe havia feit
 
 ### **Versículo 25**
 
-E disse: "Maldito *seja* Kenaan; servo de servos será para os seus irmãos."
+E disse: "Maldito *seja* Canaã; servo de servos será para os seus irmãos."
 
 > **📝 NOTAS**
 >
 > 🔴 **CRÍTICO — KENAAN AMALDIÇOADO, NÃO CHAM**
-> - **אָרוּר כְּנָעַן** = "Maldito Kenaan." Cham agiu; Kenaan é amaldiçoado. Por quê? O texto não explica. As duas possibilidades mais fortes: (1) punição através da descendência — a linhagem é amaldiçoada, não o indivíduo; (2) etiológico — explica a posterior subjugação de Canaã por Israel. Teorias adicionais são discutidas no complementar contextual.
+> - **אָרוּר כְּנָעַן** = "Maldito Kenaan." O texto não explica por que Kenaan, e não Cham, foi amaldiçoado; principais propostas (punição-através-da-descendência; etiológica — subjugação posterior de Canaã por Israel). **POSSÍVEL**; nenhuma comprovada. → Para discussão completa, veja o companheiro §G1.
+>
+> ⚠️ **NOTA DE RECEPÇÃO (Nível 2)**
+> Esta passagem tem história de recepção documentada envolvendo uso prejudicial. Veja o companheiro Seção F para contexto histórico.
 >
 > 🔴 **PRIMEIRA FALA DE NOACH**
-> - De Gn 6:9 a 9:25, Noach esteve em silêncio. Suas primeiras palavras registradas são uma **maldição**. Capítulos de obediência silenciosa, e quando finalmente fala, é para amaldiçoar seu neto. O texto registra sem avaliar.
+> - De Gn 6:9 a 9:25, Noé esteve em silêncio. Suas primeiras palavras registradas são uma **maldição**. Capítulos de obediência silenciosa, e quando finalmente fala, é para amaldiçoar seu neto. O texto registra sem avaliar.
 
 ---
 
 ### **Versículo 26**
 
-E disse: "Bendito *seja* YHWH, Deus de Shem, e que Kenaan seja servo deles.
+E disse: "Bendito *seja* YHWH, Deus de Shem, e que Canaã seja servo deles.
 
 > **📝 NOTAS**
 >
@@ -375,7 +375,7 @@ E disse: "Bendito *seja* YHWH, Deus de Shem, e que Kenaan seja servo deles.
 
 ### **Versículo 27**
 
-Alargue Deus a Yafet, e habite ele nas tendas de Shem, e que Kenaan seja servo deles.
+Alargue Deus a Jafé, e habite ele nas tendas de Shem, e que Canaã seja servo deles.
 
 > **📝 NOTAS**
 >
@@ -383,24 +383,24 @@ Alargue Deus a Yafet, e habite ele nas tendas de Shem, e que Kenaan seja servo d
 > - **יַפְתְּ אֱלֹהִים לְיֶפֶת** (*yaft elohim le-Yefet*) = "alargue Deus a *Yefet*." O verbo *yaft* (alargar, da raiz פ-ת-ה) é um jogo com o nome Yafet/Yefet. Assim como com Noach/nacham e Shem/shem, o nome carrega o destino.
 >
 > 🔴 **"E HABITE ELE NAS TENDAS DE SHEM" — QUEM É "ELE"?**
-> - **וְיִשְׁכֹּן בְּאָהֳלֵי שֵׁם** = "e habite ele nas tendas de Shem." O sujeito é ambíguo: (1) Que Yafet habite nas tendas de Shem (Yafet se beneficia da morada de Shem); (2) Que Deus habite nas tendas de Shem (presença divina com a linhagem de Shem). Ambos gramaticalmente POSSÍVEIS. A TT preserva a ambiguidade traduzindo "ele" sem especificar o referente.
+> - **וְיִשְׁכֹּן בְּאָהֳלֵי שֵׁם** = "e habite ele nas tendas de Shem." O sujeito é ambíguo: (1) Que Yafet habite nas tendas de Shem (Yafet se beneficia da morada de Shem); (2) Que Deus habite nas tendas de Shem (presença divina com a linhagem de Shem). Gramaticalmente **POSSÍVEL** para ambos os referentes. A TT preserva a ambiguidade traduzindo "ele" sem especificar o referente.
 
 ---
 
 ### **Versículo 28**
 
-E Noach viveu após o dilúvio trezentos e cinquenta anos.
+E Noé viveu após o dilúvio trezentos e cinquenta anos.
 
 ---
 
 ### **Versículo 29**
 
-E todos os dias de Noach foram novecentos e cinquenta anos, e morreu.
+E todos os dias de Noé foram novecentos e cinquenta anos, e morreu.
 
 > **📝 NOTAS**
 >
 > 🔵 **FÓRMULA DE MORTE**
-> - Mesma fórmula da genealogia de Gn 5: "todos os dias de X foram Y anos, e morreu." A vida de Noach se conclui com a mesma estrutura de seus ancestrais. A cadeia genealógica continua.
+> - Mesma fórmula da genealogia de Gn 5: "todos os dias de X foram Y anos, e morreu." A vida de Noé se conclui com a mesma estrutura de seus ancestrais. A cadeia genealógica continua.
 
 ---
 
@@ -441,20 +441,20 @@ A bênção pós-dilúvio é uma re-criação modificada: mesmo mandato de ferti
 - 9:12–17: sinal dado (o arco na nuvem)
 - Esta é a primeira sequência completa de aliança: anúncio → termos → sinal
 
-**Fala e silêncio de Noach:**
-- 6:9–9:24: Noach fala **zero** palavras registradas. Mais de 15 capítulos de obediência silenciosa.
-- 9:25–27: sua primeira e única fala — uma maldição sobre Kenaan e bênçãos.
+**Fala e silêncio de Noach (Noé):**
+- 6:9–9:24: Noé fala **zero** palavras registradas. Mais de 15 capítulos de obediência silenciosa.
+- 9:25–27: sua primeira e única fala — uma maldição sobre Kenaan (Canaã) e bênçãos.
 - O contraste é profundo: o "homem justo" (6:9) que obedientemente salvou a criação fala pela primeira vez para amaldiçoar.
 
 **Cadeia de jogos de palavras com nomes em Gn 6–9:**
 - **Noach** (*n-w-ch*): repouso/consolo — 5:29 nomeação, 8:4 tebah repousa, 8:9 lugar de repouso da pomba, 8:21 aroma agradável
 - **Shem** = "nome" — 6:4 "homens do nome," 9:26 "Deus de Shem/Nome"
-- **Cham** = "quente/cálido" — possível conexão com 9:21 (vinho, calor)
-- **Yafet** = "alargar/belo" — 9:27 "alargue Deus a Yefet"
+- **Cham (Cam)** = "quente/cálido" — possível conexão com 9:21 (vinho, calor)
+- **Yafet (Jafé)** = "alargar/belo" — 9:27 "alargue Deus a Jafé"
 
 **Distribuição do nome divino em Gn 9:**
 - 9:1–17: **Deus/Elohim** em todo o trecho (aliança = cósmico, estrutural)
-- 9:26: **YHWH** (bênção de Noach: "Bendito seja YHWH, Deus de Shem")
+- 9:26: **YHWH** (bênção de Noé: "Bendito seja YHWH, Deus de Shem")
 - O padrão continua: Elohim para discurso de ordem-criação, YHWH para pessoal/relacional
 
 **Cadeia do tselem (imagem):**

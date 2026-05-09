@@ -1,7 +1,12 @@
 "use client";
 
 import { useTranslations } from "next-intl";
-import type { ProphecyData, ProphecyEntry, FulfillmentStatus, ConfidenceLevel } from "@/domain/content/types";
+import type {
+  ConfidenceLevel,
+  FulfillmentStatus,
+  ProphecyData,
+  ProphecyEntry,
+} from "@/domain/content/types";
 import { renderMarkdownSafe } from "@/ui/shared/render-markdown-safe";
 
 const FULFILLMENT_COLORS: Record<FulfillmentStatus, string> = {
@@ -41,7 +46,9 @@ function ProphecyCard({ entry }: { entry: ProphecyEntry }) {
           <h3 className="font-[family-name:var(--font-ui)] text-sm font-semibold">
             {entry.title}
           </h3>
-          <span className={`text-xs font-semibold uppercase px-2 py-0.5 rounded ${FULFILLMENT_COLORS[entry.fulfillmentStatus]}`}>
+          <span
+            className={`text-xs font-semibold uppercase px-2 py-0.5 rounded ${FULFILLMENT_COLORS[entry.fulfillmentStatus]}`}
+          >
             {t(FULFILLMENT_KEYS[entry.fulfillmentStatus])}
           </span>
         </div>
@@ -78,7 +85,8 @@ function ProphecyCard({ entry }: { entry: ProphecyEntry }) {
                 <div key={`r-${i}`} className="pl-3 border-l-2 border-border">
                   <div className="flex items-center gap-2 mb-0.5">
                     <span className="text-xs font-bold text-text-secondary">
-                      {r.tradition}{r.subTradition ? ` / ${r.subTradition}` : ""}
+                      {r.tradition}
+                      {r.subTradition ? ` / ${r.subTradition}` : ""}
                     </span>
                     <span className="text-xs px-1.5 py-0.5 rounded bg-bg-muted text-text-muted">
                       {t(CONFIDENCE_KEYS[r.confidence])}

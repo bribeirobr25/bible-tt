@@ -5,7 +5,7 @@
 
 **Kapitel:** Genesis 3
 **Sprache:** Deutsch
-**Regelwerk:** v3.0 (Regel 29 regelt diese Datei)
+**Regelwerk:** v3.3 (Regel 29 regelt diese Datei)
 **Status:** vorläufig
 
 ---
@@ -23,7 +23,7 @@
 - **Christlich**: Dies ist das *Protoevangelium* — die erste Ankündigung des Evangeliums. "Ihr Same" (Singular) wird als Christus gelesen; die Schlange ist Satan. Das Treffen am Kopf ist Christi Sieg über das Böse; das Treffen an der Ferse ist die Kreuzigung. Diese Lesart ist seit Irenäus (2. Jh. n. Chr.) bezeugt. [DOKUMENTIERT]
 - **Islamisch**: Der Koran nimmt nicht direkt auf diesen Vers Bezug. Die islamische Tradition anerkennt die Feindschaft zwischen Iblis (Satan) und der Menschheit, leitet sie jedoch nicht spezifisch aus Genesis 3:15 ab. [DOKUMENTIERT]
 
-**Wissenschaftliche Anmerkung:** Das hebräische *hu* ("er") ist maskulin Singular und bezieht sich grammatisch auf "Same" (*zera*, mask.). Ob der Singular ein Individuum oder die kollektive Nachkommenschaft impliziert, ist UNSICHER. Die LXX verwendet *autos* (mask.) statt *auto* (Neutrum, das dem Neutrum *sperma* entsprechen würde), was darauf hindeutet, dass die Übersetzer möglicherweise einen individuellen Referenten gelesen haben. [MÖGLICH]
+**Wissenschaftliche Anmerkung:** Das hebräische *hu* ("er") ist maskulin Singular und bezieht sich grammatisch auf "Same" (*zera*, mask.). Ob der Singular ein Individuum oder die kollektive Nachkommenschaft impliziert, ist UNSICHER. Die Septuaginta (LXX — die antike griechische Bibelübersetzung) verwendet *autos* (mask.) statt *auto* (Neutrum, das dem Neutrum *sperma* entsprechen würde), was darauf hindeutet, dass die Übersetzer möglicherweise einen individuellen Referenten gelesen haben. [MÖGLICH]
 
 ---
 

@@ -1,0 +1,64 @@
+# Changelog — Ruleset v3.2 → v3.3
+
+**Date:** 2026-05-08
+**Amendment type:** Emergency Amendment with retained proposal artifacts (Hybrid path per `docs/audit/FIX_IMPLEMENTATION.md` Phase 5.5)
+**Rationale:** Audit cycle 2026-05-08 surfaced governance gaps in five areas — punctuation, idiom, glossary expansion, editorial-log schema formalization, and worked quadrilingual examples. All five are purely additive (no existing rule modified). No signed-off verses are affected (all current TT content is `provisional` per Rule 28). The 14-day window of the standard Lock Protocol is skipped because there is no stakeholder pool for whom it would create signal; the proposal artifact discipline is preserved by retaining all five proposals in `docs/rules/proposals/`.
+
+---
+
+## RULES-CORE.md
+
+| Addition | Description |
+|----------|-------------|
+| **§PUNCTUATION GOVERNANCE** | Six sub-sections: §P1 em-dash convention; §P2 speech boundaries (Tier 1 main text); §P3 comma and semicolon; §P4 Spanish minimal-pair accents; §P5 German verb-period and capitalization; §P6 editorial-log entry trigger. Lint rule §0.2 enforces §P1; §0.3 enforces a subset of §P4. Source: `docs/rules/proposals/v3.3-24-punctuation-governance.md`. |
+| **§IDIOM POLICY** | Six sub-sections: §I1 default literal preservation; §I2 yield when literal misleads; §I3 glossary terms never yield; §I4 Prime Directive supremacy; §I5 editorial-log entry trigger; §I6 cross-language consistency. Source: `docs/rules/proposals/v3.3-25-idiom-policy.md`. |
+| **§GLOSSARY EXPANSION PROCEDURE** | Six sub-sections: §G1 threshold for proposing a new locked entry (3+ occurrences with inconsistency, OR theologically-loaded single occurrence); §G2 proposal format; §G3 approval workflow (source-language scholar + locale editors + project lead); §G4 locking; §G5 subsequent deviations; §G6 removal/revision (full Lock Protocol). Source: `docs/rules/proposals/v3.3-29-glossary-expansion-procedure.md`. |
+| **§EDITORIAL LOG SPECIFICATION** (formalized) | Existing section refined with: file-level header template; entry-schema field-type table (Type, Required?, Description columns); §L1 expanded entry triggers (12 vs. previous 9, adding glossary-expansion / punctuation-deviation / idiom-yield triggers); §L2 status workflow (provisional → signed-off → superseded); §L3 cross-book references; §L4 citation convention (CORE Rule N / HB §Section / GS §Section / CORE §Section). Backward-compatible with all ~120 existing log entries. Source: `docs/rules/proposals/v3.3-30-editorial-log-schema.md`. |
+| **§WORKED QUADRILINGUAL EXAMPLE** (augmented) | Added second example: John 1:1c — *theos ēn ho logos*. Demonstrates GS §Greek Article System, Rule 13 confidence labelling, Rule 21 (no smuggled commentary via capitalization), Rule 20 DE exemption, Rule 16 cross-language alignment, plus the new §Punctuation §P2 and §Idiom §I3 policies. The existing Gen 1:2 *ruach elohim* example (HB-side) is preserved alongside. Source: `docs/rules/proposals/v3.3-31-worked-quadrilingual-example.md`. |
+
+## RULES-HB.md
+
+| Change | Description |
+|--------|-------------|
+| (no changes) | RULES-HB.md is unchanged in v3.3. The Hebrew-Bible-specific rules and proper-name table remain at v3.2 lock. The proper-name-table version stamp (line 425: "(v3.2)") records the lock-version of that table; v3.3 does not modify it. |
+
+## RULES-GS.md
+
+| Change | Description |
+|--------|-------------|
+| (no changes) | RULES-GS.md is unchanged in v3.3. The Greek-Scriptures-specific rules and proper-name table remain at v3.2 lock. Same convention as RULES-HB.md. |
+
+---
+
+## Cascade requirements
+
+After this changelog, the following content cascades MUST be applied:
+
+1. **Content version stamps** — chapter front matter, PEOPLE.md, INTRODUCTION.md, companions, prophecy files, editorial-log `Ruleset version in force:` lines, editorial-log `Format: per v<X.Y>` lines: bump `v3.2` → `v3.3`. Done as Phase 5.5D.
+2. **Phase 0 §0.1 lint pattern** — extend to flag `v3.0`, `v3.1`, AND `v3.2` (anything older than v3.3). Done as Phase 5.5D.
+3. **CLAUDE.md** — update verified-state section ("Rules: RULES-CORE / RULES-HB / RULES-GS at v3.X") to v3.3.
+4. **`docs/feedback/FEEDBACK.md`** items 24, 25, 29, 30, 31 — mark as RESOLVED.
+
+## Proposal artifacts (retained per Hybrid Lock-Protocol path)
+
+- `docs/rules/proposals/v3.3-24-punctuation-governance.md`
+- `docs/rules/proposals/v3.3-25-idiom-policy.md`
+- `docs/rules/proposals/v3.3-29-glossary-expansion-procedure.md`
+- `docs/rules/proposals/v3.3-30-editorial-log-schema.md`
+- `docs/rules/proposals/v3.3-31-worked-quadrilingual-example.md`
+
+These artifacts are preserved permanently as part of the Lock Protocol's documentary discipline. Future audits can trace each policy to its proposal text, alternatives considered, and rationale.
+
+## What was NOT changed
+
+- The 29 numbered Rules retain their meaning. No rule was modified.
+- The locked glossary in `RULES-CORE.md` and the per-supplement glossaries in `RULES-HB.md` / `RULES-GS.md` are unchanged.
+- All four target-language pre-translation requirement sections (Luther, Reina-Valera, Almeida-pending) are unchanged.
+- Rule 17's "Name rendering policy (v3.2)" wording is unchanged — v3.3 does not touch it; the (v3.2) parenthetical correctly attributes the policy to its lock version.
+
+## Reviewer audit trail
+
+- Hellenist sign-off: pending. The §Worked Quadrilingual Example (John 1:1c) is the only v3.3 addition that materially exercises GS-specific reasoning; it documents existing practice rather than introducing new GS interpretation.
+- Hebraist sign-off: pending. None of the v3.3 additions modify HB-specific reasoning.
+- Locale-editor sign-off: pending per locale. The §Punctuation §P4 Spanish minimal-pair section and §P5 German section bear directly on locale practice; ES/DE editors should confirm.
+- Project lead sign-off: this changelog stands as the project lead's record of the Hybrid invocation.

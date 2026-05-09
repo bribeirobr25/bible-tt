@@ -10,7 +10,7 @@
 **Capítulo:** Genesis 3
 **Idioma:** Português Brasileiro
 **Acompanha:** `pt-br/genesis/CHAPTER-3.md` (Edição Transparente)
-**Regras:** v3.0 (Regra 29 governa este arquivo)
+**Regras:** v3.3 (Regra 29 governa este arquivo)
 **Status:** provisório
 
 ---
@@ -157,7 +157,7 @@ Estes paralelos sugerem um motivo compartilhado do antigo Oriente Próximo de hu
 ### B3. A árvore da vida na arte mesopotâmica
 **[PARALELO COMPARATIVO — VERIFICADO]**
 
-"Árvores sagradas" estilizadas aparecem em toda a arte mesopotâmica, frequentemente ladeadas por figuras guardiãs (cf. Genesis 3:24 querubins). Estas são atestadas em relevos de palácios assírios, selos cilíndricos e decorações de templos. Se elas representam um conceito de "árvore da vida" paralelo a Genesis é debatido; o paralelo visual é inegável.
+"Árvores sagradas" estilizadas aparecem em toda a arte mesopotâmica, frequentemente ladeadas por figuras guardiãs (cf. Genesis 3:24 querubins). Estas são atestadas em relevos de palácios assírios, selos cilíndricos e decorações de templos. Se elas representam um conceito de "árvore da vida" paralelo a Genesis é debatido; o paralelo visual é marcante e amplamente reconhecido pelos estudiosos.
 
 **Fonte:** Parpola, S., "The Assyrian Tree of Life," *JNES* 52 (1993): 161–208.
 
@@ -251,7 +251,7 @@ Esta é uma das divergências judaico-cristãs mais nítidas sobre o mesmo texto
 
 - **Paulo** (Romanos 5:12–21): "por um homem o pecado entrou no mundo" — Genesis 3 lido como origem da pecaminosidade humana universal
 - **Agostinho** (séc. IV–V): desenvolve a doutrina do *pecado original* — toda a humanidade herda a culpa de Adão por descendência biológica
-- **Irineu** (séc. II): lê Gen 3:15 como *protoevangelium* (primeiro evangelho) — "ele ferirá tua cabeça" interpretado como Cristo derrotando Satanás
+- **Irineu** (séc. II): lê Gen 3:15 como *protoevangelium* (latim: "primeiro anúncio de boas novas" — um rótulo tradicional para este versículo) — "ele ferirá tua cabeça" interpretado como Cristo derrotando Satanás
 
 Estas leituras são **RECEPÇÃO POSTERIOR** — são teologicamente significativas mas pós-bíblicas. O texto hebraico de Genesis 3 não contém as palavras "queda," "pecado" (o substantivo aparece pela primeira vez em Gen 4:7), "Satanás," ou "pecado original." O material preliminar da TT exclui explicitamente este vocabulário da tradução.
 
@@ -281,7 +281,7 @@ Genesis 3:1: *af ki amar elohim* — as palavras de abertura da pergunta da serp
 ### G2. Nenhum "paraíso" no hebraico
 **[TEXTUAL — VERIFICADO]**
 
-A palavra hebraica *pardes* (jardim/parque, do persa) não aparece em Genesis 1–3. O texto diz *gan eden* (jardim de Éden). "Paraíso" entra via grego *paradeisos* (tradução da LXX de *gan*) e se torna padrão na tradição ocidental. A TT preserva "jardim de Éden" sem importar "paraíso."
+A palavra hebraica *pardes* (jardim/parque, do persa) não aparece em Genesis 1–3. O texto diz *gan eden* (jardim de Éden). "Paraíso" entra via grego *paradeisos* (tradução da LXX — a Septuaginta, a antiga tradução grega da Bíblia Hebraica — de *gan*) e se torna padrão na tradição ocidental. A TT preserva "jardim de Éden" sem importar "paraíso."
 
 ### G3. O homem estava "com ela"
 **[TEXTUAL — VERIFICADO]**
@@ -319,6 +319,84 @@ O discurso da serpente em 3:1–5 segue uma estrutura retórica de quatro etapas
 **[INFERÊNCIA POSSÍVEL — POSSÍVEL]**
 
 Genesis 3:7: os humanos fazem coberturas de folhas de figo (*te'enah*). Genesis 3:21: YHWH Deus faz vestes de pele (*or*). O texto comprime o que a antropologia rastreia como o desenvolvimento de materiais à base de plantas para materiais à base de animais — uma transição que no registro arqueológico se estende por milênios. A mudança também envolve uma morte implícita: peles de animais requerem que um animal morra. Esta é a primeira morte implícita na narrativa, ocorrendo antes de qualquer morte humana explícita (que vem em Gn 4:8). O texto não comenta esta implicação — simplesmente registra que Deus fez vestes de pele. Se o leitor vê aqui a origem do sacrifício animal, o primeiro derramamento de sangue, ou simplesmente provisão prática depende do que o leitor traz ao texto. O texto narra; não teologiza a vestimenta.
+
+### G9. Morte introduzida aos humanos, mas e o restante da criação?
+**[TEXTUAL — VERIFICADO]**
+
+Gênesis 2:17: "no dia em que comeres dela, morrendo morrerás" — dirigido ao humano (*adam*). Gênesis 3:19: "pó tu és, e ao pó retornarás" — também ao humano. A linguagem de mortalidade em Gênesis 2-3 é dirigida exclusivamente aos humanos. Animais, plantas e o restante da criação nunca são informados de que morrerão, nem seu estado pré-queda é descrito como imortal. O texto silencia sobre se a morte animal e vegetal existia antes da transgressão humana. A tradição posterior (especialmente Romanos 5:12: "por meio de um ser humano, o pecado entrou no mundo, e por meio do pecado, a morte") aplica isso à humanidade. Paulo diz "a morte se estendeu a todos os *humanos*" (eis pantas anthropous), não a todas as criaturas. Romanos 8:20-22 fala da criação "sujeita à futilidade" e "gemendo", o que algumas tradições interpretam como a morte cósmica entrando pela queda — mas Gênesis em si não faz essa afirmação. A TT observa: a linguagem de morte em Gênesis 2-3 é antropocêntrica. Se isso significa que a morte estava ausente do mundo não humano antes da queda é uma questão que o texto não aborda.
+
+---
+
+## I. O Mundo na Época
+
+A datação da composição de Gênesis é debatida. Esta seção apresenta "o mundo na época" para cada cenário principal, para que leitores com qualquer posição possam ver o contexto histórico que se aplicaria. A TT não toma partido sobre quando Gênesis foi composto — apresenta todas as posições acadêmicas principais e deixa o leitor avaliar. O contexto político, econômico e social geral de cada cenário é idêntico ao de Gênesis 1 — os mesmos impérios, as mesmas civilizações, os mesmos períodos. O foco aqui é como o conteúdo específico de Gênesis 3 — a serpente, o conhecimento proibido, a morte, a nudez e a vergonha, a maldição e a expulsão — se conecta a cada mundo histórico. Para o contexto completo das 10 categorias, veja o companheiro de Gênesis 1 Seção I.
+
+---
+
+### Cenário A: Se composto durante o período mosaico (~séc. XIII a.C.)
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]** *(Atribuição tradicional)*
+
+**I-A1. Serpentes na religião e na vida cotidiana da Idade do Bronze Tardio**
+No Egito e em Canaã do século XIII a.C., a serpente era simultaneamente perigosa e sagrada. O *uraeus* egípcio (cobra) adornava a coroa do Faraó como símbolo de proteção divina e poder soberano. O deus Apófis — uma enorme serpente — encarnava o caos que ameaçava a ordem solar. Ao mesmo tempo, cobras reais eram um perigo letal para trabalhadores agrícolas e viajantes do deserto. Encantamentos contra serpentes estão entre os textos mágicos mais comuns desse período. Para uma comunidade que havia acabado de sair do Egito, a serpente em Gênesis 3 carregaria associações imediatas: poder divino, caos e ameaça física — nenhuma das quais o texto força a uma única leitura.
+
+**I-A2. Conhecimento, sabedoria e segredos divinos no pensamento da Idade do Bronze Tardio**
+O *Épico de Gilgamesh* (cópias do século XIII a.C. em circulação ampla) apresenta conhecimento e mortalidade entrelaçados: o companheiro de Gilgamesh, Enkidu, é trazido da selvageria animal à sabedoria humana por uma mulher, e então enfrenta a morte. O desejo por conhecimento divino — e o perigo de obtê-lo — era um topos reconhecido em toda a literatura do antigo Oriente Próximo. As tradições de sabedoria egípcias e mesopotâmicas reconheciam que o conhecimento pleno pertencia aos deuses; a sabedoria humana era parcial e delimitada. O "conhecer o bem e o mal" em Gênesis 3 — seja lá o que signifique precisamente — opera em um ambiente cultural onde o desejo por conhecimento de nível divino era reconhecido como transgressor.
+
+**I-A3. Nudez e vergonha no contexto nômade/desértico**
+Para uma comunidade no deserto do Sinai, a mudança da nudez para a vestimenta carregava peso prático e social imediato. A roupa marcava status social, protegia do ambiente e distinguia os humanos dos animais. O ato de costurar folhas de figueira (3:7) e a subsequente provisão de vestimentas de pele por YHWH (3:21) ressoaria em um mundo onde roupa decente era sinal de cuidado, provisão e dignidade — não um símbolo abstrato de inocência perdida, mas um marcador concreto de status transformado.
+
+*Para o contexto histórico completo deste período com todas as 10 categorias, veja o companheiro de Gênesis 1 Seção I, Cenário A.*
+
+---
+
+### Cenário B: Se composto durante o período monárquico (~séc. X–IX a.C.)
+**[HISTÓRICO / ARQUEOLÓGICO — POSSÍVEL]** *(Alguns estudiosos situam as tradições das fontes primitivas aqui)*
+
+**I-B1. Iconografia da serpente na religião israelita e cananeia**
+Escavações arqueológicas em estratos do Israel da Idade do Ferro (século X–IX a.C.) recuperaram figurinas de serpente de bronze em sítios incluindo Megido, Guézer e Hazor — indicando que a veneração da serpente era praticada no Levante nesse período. A serpente de bronze (*nejushtã*) no templo ainda era adorada na época de Ezequias (2 Rs 18:4), quando ele a destruiu. Uma narrativa que rebaixa a serpente — tornando-a o mais *amaldiçoado* dos animais, destinada a comer pó — em um ambiente cultural onde serpentes às vezes eram objetos de veneração carrega peso polêmico que se perde nos leitores modernos.
+
+**I-B2. Literatura de sabedoria e os limites da sabedoria**
+O período monárquico é tradicionalmente associado à tradição de sabedoria de Israel (Provérbios, porções dos Salmos, tradições primitivas do Eclesiastes). A literatura de sabedoria tanto em Israel quanto no Egito enquadra a sabedoria como um dom divino, acessível pelo temor a YHWH, não pela apreensão ou autoafirmação. A narrativa de Gênesis 3 — na qual os humanos apreendem a sabedoria em desafio a uma proibição divina e a encontram transformadora, mas desorientadora — envolve a questão central da tradição da sabedoria: qual é a relação adequada entre a busca humana pelo conhecimento e a autoridade divina?
+
+**I-B3. Expulsão e deserdamento no direito antigo**
+Códigos legais do antigo Oriente Próximo e a lei israelita reconheciam a expulsão como sanção legal. Uma pessoa expulsa de uma cidade ou propriedade perdia acesso à terra, à comunidade e às estruturas protetoras da sociedade. No período monárquico, a posse da terra estava intimamente ligada à identidade familiar — ser expulso da terra era perder a herança. A expulsão do Éden em 3:23-24 carrega essa ressonância legal: o humano perde o patrimônio onde foi colocado para trabalhar. Os *querubins* e a espada flamejante não são decorativos; eles impõem um limite de propriedade.
+
+*Para o contexto histórico completo deste período com todas as 10 categorias, veja o companheiro de Gênesis 1 Seção I, Cenário B.*
+
+---
+
+### Cenário C: Se composto durante o período exílico/pós-exílico (~séc. VI–V a.C.)
+**[HISTÓRICO / ARQUEOLÓGICO — PROVÁVEL]** *(Consenso acadêmico para a forma final)*
+
+**I-C1. Exílio como expulsão — o paralelo estrutural**
+Para a comunidade deportada para a Babilônia (597 e 586 a.C.), a linguagem de Gênesis 3:23-24 não era narrativa distante — era história recente expressa em forma mitológica. Eles haviam sido "enviados para fora" de sua terra, seu templo destruído, seu acesso à presença de YHWH interrompido. A deportação no mundo antigo significava mais do que deslocamento geográfico: significava ruína econômica (terra abandonada), dissolução social (comunidade dispersa) e crise teológica (deus aparentemente derrotado). A expulsão do Éden mapeia todas essas dimensões simultaneamente. Se os escribas exilados moldaram conscientemente a história ou reconheceram uma ressonância estrutural preexistente, o paralelo teria sido impossível de ignorar — e consolador: se Adão e Eva sobreviveram à expulsão, talvez Israel também sobrevivesse.
+
+**I-C2. Simbolismo babilônico da serpente e o *mushhushshu***
+Na Babilônia, o *mushhushshu* (uma serpente-dragão composta) era o animal sagrado de Marduque, retratado proeminentemente no Portão de Ishtar (construído sob Nabucodonosor II, c. 575 a.C. — visível aos exilados). A associação da serpente com o deus-chefe de seus captores teria dado à serpente amaldiçoada de Gênesis 3 uma carga polêmica adicional: a criatura associada ao poder divino babilônico é colocada de barriga no chão e forçada a comer pó na narrativa israelita. A serpente rebaixada de Gênesis 3 não é a criatura de Marduque; é um animal amaldiçoado, subordinado à semente da mulher.
+
+**I-C3. O "conhecimento do bem e do mal" e a tradição de sabedoria babilônica**
+A educação escriba babilônica usava o conceito de *nemequ* ("sabedoria") como atributo divino — os deuses possuíam conhecimento completo; os humanos acessavam sabedoria parcial por meio dos *apkallu* (sábios semidivinos que ensinaram artes e civilização antes do dilúvio). A noção de humanos apreendendo ilegalmente o conhecimento de nível divino ressoa em um contexto babilônico onde tal conhecimento era considerado prerrogativa divina restrita. O mito de Adapa — uma história acádia sobre um sábio que recebe a imortalidade mas a recusa por mal-entendido, confirmando assim a mortalidade humana — explora território semelhante: conhecimento divino, limites humanos e o limiar entre eles.
+
+**I-C4. Mortalidade e o corpo no pensamento do período persa**
+O zoroastrismo persa (cada vez mais influente no período exílico e pós-exílico) tinha um dualismo cósmico acentuado: Ahura Mazda (bem, luz, vida) versus Angra Mainyu (mal, trevas, morte). A narrativa de Gênesis 3 — com seu único Deus que tanto planta o jardim quanto pronuncia a maldição — resiste a esse dualismo. A morte entra não por um deus do mal rival, mas por uma criatura que YHWH fez e uma proibição que YHWH estabeleceu. A ausência de um adversário cósmico equivalente a Angra Mainyu é uma característica estrutural do texto.
+
+*Para o contexto histórico completo deste período com todas as 10 categorias, veja o companheiro de Gênesis 1 Seção I, Cenário C.*
+
+---
+
+### Cenário D: Se redacionado durante o período persa/início do período helenístico (~séc. IV–III a.C.)
+**[HISTÓRICO / ARQUEOLÓGICO — POSSÍVEL]** *(Associado à configuração final do Pentateuco)*
+
+**I-D1. Interesse filosófico grego na origem do mal e da morte**
+No século IV a.C., a filosofia grega vinha debatendo a origem do mal, do sofrimento e da morte há gerações. O *Timeu* de Platão (c. 360 a.C.) atribui o mal à matéria e ao *demiurgo* imperfeito; o mito de Pandora (Hesíodo, muito anterior, mas amplamente conhecido) atribui o sofrimento humano a uma mulher que abre um recipiente proibido. A narrativa de Gênesis 3 — um jardim, uma proibição, uma mulher, uma árvore proibida, uma transgressão consequente — intersecta estruturalmente com esses tratamentos gregos, diferindo fundamentalmente: o Deus em Gênesis 3 não é um artesão inferior, a mulher não é a fonte do mal por natureza, e as consequências não são caos cósmico, mas ruptura relacional e mortalidade para as pessoas específicas envolvidas.
+
+**I-D2. Vestimenta e estratificação social na sociedade helenística**
+O mundo helenístico era acentuadamente estratificado pela vestimenta. A vida cívica grega atribuía roupas específicas a cidadãos versus escravos, livres versus não livres, homens versus mulheres. YHWH provendo vestimentas de pele em substituição às folhas de figueira (3:21) — um deus vestindo humanos — era um gesto de provisão e dignidade em um mundo onde a roupa marcava status. Na prática da corte persa, o presente de um manto pelo rei era um ato formal de favor e elevação. A provisão divina de vestimentas, imediatamente após a maldição, complica uma leitura puramente punitiva: mesmo no exílio, YHWH veste os humanos que está enviando para fora.
+
+**I-D3. Os querubins e a Árvore da Vida como símbolos da era da Torá**
+Nos períodos persa e helenístico, os *querubins* (*keruvim*) haviam se associado à Arca da Aliança (Êx 25:18-22) e ao templo de Jerusalém. A colocação dos querubins para guardar a entrada do Éden (3:24) teria ressoado com uma comunidade que conhecia os querubins como guardiões da presença divina. A Árvore da Vida, bloqueada pelos querubins e pela espada flamejante, teria convidado a uma leitura tipológica: o próprio templo, guardado por figuras de querubins, continha acesso a YHWH que era condicional e mediado. A narrativa do Éden, lida nesse período, mapeava-se sobre a arquitetura do sagrado — e sobre a questão de se o Israel pós-exílico havia restaurado o acesso ao que foi perdido.
+
+*Para o contexto histórico completo deste período com todas as 10 categorias, veja o companheiro de Gênesis 1 Seção I, Cenário D.*
 
 ---
 

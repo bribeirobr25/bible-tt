@@ -1,4 +1,4 @@
-# Genesis 2 -- Kontextuelle Studienbegleitung
+# Genesis 2 — Kontextuelle Studienbegleitung
 ## Die Transparente Übersetzung (TT)
 
 ---
@@ -10,7 +10,7 @@
 **Kapitel:** Genesis 2
 **Sprache:** Deutsch
 **Begleitdatei zu:** `de/genesis/CHAPTER-2.md` (Transparente Ausgabe)
-**Regelwerk:** v3.0 (Regel 29 regelt diese Datei)
+**Regelwerk:** v3.3 (Regel 29 regelt diese Datei)
 **Status:** provisorisch
 
 ---
@@ -27,27 +27,27 @@ Der Masoretische Text liest „Gott vollendete am **siebten** Tag sein Werk" —
 
 Genesis 2:25: *arom* (עֲרוֹם, nackt). Genesis 3:1 öffnet mit: *arum* (עָרוּם, listig/klug). Gleiche Konsonanten, andere Vokalisierung. Die Kapitelgrenze fällt zwischen diese beiden Wörter und schafft ein bewusstes klangliches Scharnier. Die TT signalisiert dieses Wortspiel in beiden Kapiteldateien (Notiz bei 2:25 + Notiz bei 3:1) als unübersetzbar in allen vier Zielsprachen.
 
-### A1. Erstes JHWH -- das Tetragrammaton tritt bei 2:4 ein
+### A1. Erstes JHWH — das Tetragrammaton tritt bei 2:4 ein
 **[TEXTUELL — VERIFIZIERT]**
 
-Genesis 1:1-2:3 verwendet nur *Elohim* (Gott). Genesis 2:4 führt **JHWH Elohim** zum ersten Mal ein -- eine Zusammensetzung, die Genesis 2-3 dominiert. Die TT gibt dies konsonantisch wieder (JHWH, nicht "der HERR") gemäss Regel 25 Option A, wodurch der Gottesnamen-Wechsel sichtbar wird. Die meisten Übersetzungen ersetzen das Tetragrammaton durch den Titel "der HERR Gott".
+Genesis 1:1-2:3 verwendet nur *Elohim* (Gott). Genesis 2:4 führt **JHWH Elohim** zum ersten Mal ein — eine Zusammensetzung, die Genesis 2-3 dominiert. Die TT gibt dies konsonantisch wieder (JHWH, nicht "der HERR") gemäss Regel 25 Option A, wodurch der Gottesnamen-Wechsel sichtbar wird. Die meisten Übersetzungen ersetzen das Tetragrammaton durch den Titel "der HERR Gott".
 
-### A2. Vier Schöpfungsverben -- nicht eins
+### A2. Vier Schöpfungsverben — nicht eins
 **[TEXTUELL — VERIFIZIERT]**
 
-Genesis 1 verwendet zwei Schöpfungsverben: *bara* (schuf, 3x) und *asah* (machte, 7x). Genesis 2 führt zwei weitere ein: *yatzar* (formte, 2:7 Mensch, 2:19 Tiere -- das Töpferverb) und *banah* (baute, 2:22 Frau -- das Bauverb). Die TT bewahrt diese Unterscheidungen in allen drei Sprachen. Die meisten Übersetzungen vermischen sie beliebig zu "machte" oder "formte".
+Genesis 1 verwendet zwei Schöpfungsverben: *bara* (schuf, 3x) und *asah* (machte, 7x). Genesis 2 führt zwei weitere ein: *yatzar* (formte, 2:7 Mensch, 2:19 Tiere — das Töpferverb) und *banah* (baute, 2:22 Frau — das Bauverb). Die TT bewahrt diese Unterscheidungen in allen drei Sprachen. Die meisten Übersetzungen vermischen sie beliebig zu "machte" oder "formte".
 
 ### A3. Umkehrung der Reihenfolge: "Land und Himmel" (nicht "Himmel und Land")
 **[TEXTUELL — VERIFIZIERT]**
 
 Genesis 1:1: "die Himmel und das Land" (kosmisch, von oben nach unten). Genesis 2:4b: "Land und Himmel" (terrestrisch, auf Bodenhöhe). Die TT bewahrt diese Umkehrung. Ob sie eine andere Quelle, einen Perspektivwechsel oder eine literarische Rahmenwahl signalisiert, ist umstritten; der Text macht beides.
 
-### A4. *adam* von *adamah* -- der Mensch vom Erdboden
+### A4. *adam* von *adamah* — der Mensch vom Erdboden
 **[TEXTUELL — VERIFIZIERT]**
 
-Genesis 2:7: JHWH Elohim formte den *adam* (Menschen), Staub vom *adamah* (Erdboden). Die klangliche Verbindung (*adam/adamah*) ist das eigene Wortspiel des Textes -- die TT-Anmerkungen kennzeichnen es als unübersetzbar in allen drei Sprachen. Die Verbindung ist aktiv bis Genesis 3:19 ("zum Staub sollst du zurückkehren") und 3:23 ("den Erdboden zu bearbeiten, von dem er genommen war").
+Genesis 2:7: JHWH Elohim formte den *adam* (Menschen), Staub vom *adamah* (Erdboden). Die klangliche Verbindung (*adam/adamah*) ist das eigene Wortspiel des Textes — die TT-Anmerkungen kennzeichnen es als unübersetzbar in allen drei Sprachen. Die Verbindung ist aktiv bis Genesis 3:19 ("zum Staub sollst du zurückkehren") und 3:23 ("den Erdboden zu bearbeiten, von dem er genommen war").
 
-### A5. *nefesh chayah* -- Menschen teilen die Kategorie mit Tieren
+### A5. *nefesh chayah* — Menschen teilen die Kategorie mit Tieren
 **[TEXTUELL — VERIFIZIERT]**
 
 Genesis 2:7: Der Mensch wird ein *nefesh chayah* (lebendiges Wesen). Dieselbe Wendung wurde auf Tiere angewendet in Gen 1:20, 21, 24, 30. Die TT-Anmerkung bei 2:7 macht dies explizit: Menschen und Tiere teilen dieselbe Kategorie. Dies ist ein Textmerkmal, kein theologischer Anspruch über Seelen.
@@ -59,17 +59,17 @@ Genesis 2:7: JHWH Elohim formte den Menschen „Staub vom Erdboden" und „blies
 
 Der Text erwähnt nicht: Seele als separate Substanz, Geist als eigenständige Entität, Bewusstsein als dritte Komponente oder irgendeine dreiteilige Struktur (Körper-Seele-Geist). Spätere Traditionen — griechische Philosophie (Platons dreiteilige Seele), rabbinische Anthropologie (*nefesh/ruach/neshamah* als verschiedene Stufen), christliche Theologie (Körper-Seele-Geist gemäss 1 Thess 5:23) — entwickeln diese Rahmenwerke. Der hebräische Text von Gen 2:7 sagt: Staub + Atem = lebendiges Wesen. Alles darüber hinaus ist spätere Interpretation.
 
-### A6. *ezer kenegdo* -- "Hilfe" ist in der Hebräischen Bibel überwiegend göttlich
+### A6. *ezer kenegdo* — "Hilfe" ist in der Hebräischen Bibel überwiegend göttlich
 **[TEXTUELL / STARKE SCHLUSSFOLGERUNG — VERIFIZIERT]**
 
 Das Wort *ezer* (Hilfe/Beistand) erscheint ca. 21 Mal in der Hebräischen Bibel. Ca. 16 davon beziehen sich auf Gott als Israels Beistand in militärischen/rettenden Kontexten (Dtn 33:7, 33:26, 33:29; Ps 20:2, 33:20, 115:9-11, 121:1-2, 124:8, 146:5; Hos 13:9). Nur 2 beziehen sich auf die Frau (Gen 2:18, 2:20). Das statistische Profil ist überwiegend überlegene Hilfe, nicht untergeordnete Hilfe. Die TT bewahrt "Hilfe als sein Gegenüber" mit einer Anmerkung, die dies explizit macht.
 
-### A7. *tsela* -- "Seite", nicht "Rippe" im überwiegenden biblischen Gebrauch
+### A7. *tsela* — "Seite", nicht "Rippe" im überwiegenden biblischen Gebrauch
 **[TEXTUELL — VERIFIZIERT]**
 
 Das Wort *tsela* erscheint ca. 41 Mal in der Hebräischen Bibel. Ca. 35 beziehen sich auf eine architektonische Seite (Wände der Stiftshütte, Paneele der Lade, Kammern des Tempels). Nur ca. 2 beziehen sich auf menschliche Anatomie (Gen 2:21-22). "Rippe" ist die traditionelle, aber statistisch marginale Wiedergabe. Die TT bewahrt "Seite/Rippe" mit Schrägstrich gemäss Regel 2.
 
-### A8. Erste menschliche Rede -- und sie ist Dichtung
+### A8. Erste menschliche Rede — und sie ist Dichtung
 **[TEXTUELL — VERIFIZIERT]**
 
 Genesis 2:23 ist die erste überlieferte menschliche Rede in der Bibel, und sie ist eine strukturierte pötische Äußerung: drei parallele Zeilen, verankert durch *Knochen/Fleisch* und gipfelnd im *ish/ishah*-Wortspiel. Die TT transliteriert *ish/ishah*, um das Klangpaar zu bewahren.
@@ -77,12 +77,12 @@ Genesis 2:23 ist die erste überlieferte menschliche Rede in der Bibel, und sie 
 ### A9. Zwei Bäume als doppelter narrativer Fokus
 **[TEXTUELL — VERIFIZIERT]**
 
-Genesis 2:9: Sowohl der Baum des Lebens (*etz ha-chayyim*) als auch der Baum der Erkenntnis von Gut und Böse (*etz hada'at tov va-ra*) werden "in der Mitte des Gartens" platziert. Diese doppelte Platzierung strukturiert die gesamte Erzählspannung von Genesis 2-3: Ein Baum bietet Leben, der andere bietet Erkenntnis -- und nur einer ist verboten. Die räumliche Zusammenstellung (beide "in der Mitte") macht sie zu parallelen Optionen, nicht zu entfernten Alternativen.
+Genesis 2:9: Sowohl der Baum des Lebens (*etz ha-chayyim*) als auch der Baum der Erkenntnis von Gut und Böse (*etz hada'at tov va-ra*) werden "in der Mitte des Gartens" platziert. Diese doppelte Platzierung strukturiert die gesamte Erzählspannung von Genesis 2-3: Ein Baum bietet Leben, der andere bietet Erkenntnis — und nur einer ist verboten. Die räumliche Zusammenstellung (beide "in der Mitte") macht sie zu parallelen Optionen, nicht zu entfernten Alternativen.
 
-### A10. Bearbeiten und Hüten -- Verwalterschaft als doppelte Berufung
+### A10. Bearbeiten und Hüten — Verwalterschaft als doppelte Berufung
 **[TEXTUELL — VERIFIZIERT]**
 
-Genesis 2:15: *la'avdah ulshomrah* -- "ihn zu bearbeiten und ihn zu hüten." Zwei gepaarte Infinitive mit unterschiedlichen Funktionen: *avod* (ע-ב-ד) = dienen, bebaün, bearbeiten (aktive Umgestaltung); *shamar* (שׁ-מ-ר) = hüten, bewahren, beachten (schützende Erhaltung). Zusammen definieren sie die menschliche Berufung als **Verwalterschaft** -- sowohl Entwickeln als auch Bewahren des Gartens. Dies ist ein Doppelauftrag (Nutzen UND Schützen), kein einzelnes Gebot.
+Genesis 2:15: *la'avdah ulshomrah* — "ihn zu bearbeiten und ihn zu hüten." Zwei gepaarte Infinitive mit unterschiedlichen Funktionen: *avod* (ע-ב-ד) = dienen, bebaün, bearbeiten (aktive Umgestaltung); *shamar* (שׁ-מ-ר) = hüten, bewahren, beachten (schützende Erhaltung). Zusammen definieren sie die menschliche Berufung als **Verwalterschaft** — sowohl Entwickeln als auch Bewahren des Gartens. Dies ist ein Doppelauftrag (Nutzen UND Schützen), kein einzelnes Gebot.
 
 ---
 
@@ -91,11 +91,11 @@ Genesis 2:15: *la'avdah ulshomrah* -- "ihn zu bearbeiten und ihn zu hüten." Zwe
 ### B0. Garten als begrenzter kultivierter Raum
 **[VERGLEICHENDE PARALLELE — WAHRSCHEINLICH]**
 
-Hebräisch *gan* (Garten) impliziert einen **umschlossenen, begrenzten, kultivierten Raum** -- unterschieden von Wildnis (*midbar*) oder offenem Land (*sadeh*, Feld). In altorientalischer Tradition symbolisieren göttliche und königliche Gärten Ordnung, die dem Chaos auferlegt wird:
+Hebräisch *gan* (Garten) impliziert einen **umschlossenen, begrenzten, kultivierten Raum** — unterschieden von Wildnis (*midbar*) oder offenem Land (*sadeh*, Feld). In altorientalischer Tradition symbolisieren göttliche und königliche Gärten Ordnung, die dem Chaos auferlegt wird:
 - Mesopotamische Königsgareten (z.B. Sanheribs Palastgärten) als Symbole von Herrschaft und Überfluss
 - Der Garten existiert als Zone der Ordnung zwischen göttlicher Gegenwart und unkultivierter Welt
 
-Genesis 2:8 platziert den Garten "in Eden" -- einen begrenzten, kultivierten Raum innerhalb einer benannten Region. Der Mensch wird dorthin gesetzt, um seine begrenzte Ordnung aufrechtzürhalten (*avod* und *shamar*). Vertreibung aus dem Garten (3:23-24) bedeutet Rückkehr zu unbegartetem Boden.
+Genesis 2:8 platziert den Garten "in Eden" — einen begrenzten, kultivierten Raum innerhalb einer benannten Region. Der Mensch wird dorthin gesetzt, um seine begrenzte Ordnung aufrechtzürhalten (*avod* und *shamar*). Vertreibung aus dem Garten (3:23-24) bedeutet Rückkehr zu unbegartetem Boden.
 
 **Quelle:** Stordalen, T., *Echoes of Eden*, 2000.
 
@@ -107,7 +107,7 @@ Mehrere altorientalische Traditionen beschreiben die Formung des Menschen aus ir
 - **Enki und Ninmah** (Sumerisch): Menschen von göttlichen Handwerkern aus Ton geformt
 - **Ägyptische Tradition:** Chnum formt Menschen auf einer Töpferscheibe
 
-Genesis 2:7 teilt das Ton/Erde-Motiv, weicht aber ab: kein göttliches Blut, keine Töpferscheibe -- JHWH Elohim formt direkt, und das belebende Element ist göttlicher Atem (*neshamah*), nicht göttliches Blut.
+Genesis 2:7 teilt das Ton/Erde-Motiv, weicht aber ab: kein göttliches Blut, keine Töpferscheibe — JHWH Elohim formt direkt, und das belebende Element ist göttlicher Atem (*neshamah*), nicht göttliches Blut.
 
 **Quelle:** Clifford, R.J., *Creation Accounts in the Ancient Near East and in the Bible*, 1994, S. 135-165.
 
@@ -119,7 +119,7 @@ Göttliche oder königliche Gärten erscheinen in der gesamten altorientalischen
 - **Gilgamesch-Epos** (Tafel IX): ein juwelenbesetzter Garten am Rand der Welt
 - Mesopotamische Königsgareten als Symbole für Ordnung und Überfluss
 
-Genesis 2:8 beschreibt einen Garten "in Eden, von Osten" -- einen bestimmten Ort mit Flüssen, Bäumen und göttlicher Gegenwart. Das hebräische *pardes* (Garten/Park) erscheint hier nicht; das Wort ist *gan* (umschlossener Garten). Die TT bewahrt "Garten" ohne Import von "Paradies"-Vokabular.
+Genesis 2:8 beschreibt einen Garten "in Eden, von Osten" — einen bestimmten Ort mit Flüssen, Bäumen und göttlicher Gegenwart. Das hebräische *pardes* (Garten/Park) erscheint hier nicht; das Wort ist *gan* (umschlossener Garten). Die TT bewahrt "Garten" ohne Import von "Paradies"-Vokabular.
 
 **Quelle:** Stordalen, T., *Echoes of Eden: Genesis 2-3 and Symbolism of the Eden Garden in Biblical Hebrew Literature*, 2000.
 
@@ -134,7 +134,7 @@ In altorientalischer Tradition drückt Benennung Autorität über das Benannte a
 
 ## C. Historischer und Archäologischer Kontext
 
-### C1. Die vier Flüsse -- zwei bekannt, zwei unbekannt
+### C1. Die vier Flüsse — zwei bekannt, zwei unbekannt
 **[HISTORISCH / ARCHÄOLOGISCH — WAHRSCHEINLICH (teilweise)]**
 
 Genesis 2:10-14 benennt vier Flüsse:
@@ -170,17 +170,17 @@ Der Sieben-Tage-Schöpfungs-/Ruhezyklus könnte auch altorientalischen Tempelwei
 
 ## D. Linguistische und Philologische Vertiefungen
 
-### D1. *yatzar* (יָצַר) -- das Töpferverb
+### D1. *yatzar* (יָצַר) — das Töpferverb
 **[TEXTUELL — VERIFIZIERT]**
 
 Wurzel: י-צ-ר (*y-tz-r*). Verwendet für Töpferei (Jer 18:3-4, Jes 29:16, 45:9). In Genesis 2:7 und 2:19 beschreibt es die göttliche Formung von Menschen und Tieren aus vorhandenem Material (Boden/Staub). Unterschieden von *bara* (schöpferisches Einleiten) und *asah* (allgemeines Machen).
 
-Das Verb impliziert praktisches Formen -- intimer als *bara*, handwerklicher als *asah*.
+Das Verb impliziert praktisches Formen — intimer als *bara*, handwerklicher als *asah*.
 
-### D1b. *Banah* + *tsela* -- die architektonische Metapherkette
+### D1b. *Banah* + *tsela* — die architektonische Metapherkette
 **[TEXTUELL — VERIFIZIERT]**
 
-Genesis 2:21-22: Gott entnimmt eine *tsela* (Seite -- ca. 35 von 41 biblischen Vorkommen sind architektonisch) und *banah* (baut) sie zu einer Frau. Beide Begriffe sind architektonisch: *tsela* = strukturelles Seitenpaneel; *banah* = Bauverb. Der Text präsentiert eine **geschichtete architektonische Metapher** -- Gott entnimmt eine Strukturkomponente aus einer Konstruktion (dem Menschen) und baut eine neü Struktur (die Frau) daraus. Kein anderes Schöpfungsverb (*bara*, *asah*, *yatzar*) trägt diese Bauresonanz.
+Genesis 2:21-22: Gott entnimmt eine *tsela* (Seite — ca. 35 von 41 biblischen Vorkommen sind architektonisch) und *banah* (baut) sie zu einer Frau. Beide Begriffe sind architektonisch: *tsela* = strukturelles Seitenpaneel; *banah* = Bauverb. Der Text präsentiert eine **geschichtete architektonische Metapher** — Gott entnimmt eine Strukturkomponente aus einer Konstruktion (dem Menschen) und baut eine neü Struktur (die Frau) daraus. Kein anderes Schöpfungsverb (*bara*, *asah*, *yatzar*) trägt diese Bauresonanz.
 
 ### D1c. Infinitivus absolutus — emphatische Erlaubnis und Drohung (2:16–17)
 **[TEXTUELL — VERIFIZIERT]**
@@ -200,31 +200,31 @@ Die ursprüngliche Aussprache von יהוה (JHWH) ist **tatsächlich verloren**.
 
 **Die TT gibt JHWH konsonantal wieder, eben weil die Aussprache verloren ist.** Jede Vokalisierung (Jahwe, Jehova oder Atemklang) ist eine Rekonstruktion, keine Wiedergewinnung.
 
-### D2. *ed* (אֵד) -- ein wirklich ungewisses Wort
+### D2. *ed* (אֵד) — ein wirklich ungewisses Wort
 **[TEXTUELL — UNGEWISS]**
 
 Dieses Wort erscheint nur zweimal in der Hebräischen Bibel (Gen 2:6, Hiob 36:27). Die Bedeutung ist wirklich UNGEWISS. Vorschläge: Nebel, Dunst, Quelle, Strom, unterirdischer Bach. Akkadisches Kognat *edū* deutet auf "Flut/Strom" hin. Die TT gibt "Nebel" mit einer Unsicherheitsanmerkung wieder; "Strom" wäre gleich vertretbar.
 
-### D3. *toledot* (תּוֹלְדוֹת) -- die Strukturmarkierung
+### D3. *toledot* (תּוֹלְדוֹת) — die Strukturmarkierung
 **[TEXTUELL — VERIFIZIERT]**
 
 Genesis 2:4: "Dies sind die *toledot* (Geschlechter/Ursprünge) der Himmel und des Landes." Diese Wendung erscheint 11 Mal in Genesis und fungiert als grosse strukturelle Gliederung. Wurzel: *y-l-d* (zeugen/gebären). Die TT gibt "Geschlechter" wieder mit einer Anmerkung zur strukturellen Funktion.
 
-### D4. *beyom* (בְּיוֹם) -- "am Tag" als zeitliches Idiom
+### D4. *beyom* (בְּיוֹם) — "am Tag" als zeitliches Idiom
 **[TEXTUELL — VERIFIZIERT]**
 
-Hebräisch *beyom* kann einen wörtlichen 24-Stunden-Tag oder ein idiomatisches "als/zur Zeit" bedeuten. Es erscheint bei 2:4 ("am Tag, als JHWH Elohim machte...") und 2:17 ("am Tag deines Essens davon..."). Die TT bewahrt die wörtliche Wiedergabe mit einer Anmerkung, die den idiomatischen Bereich kennzeichnet -- besonders wichtig für die scheinbare Spannung zwischen 2:17 ("am Tag, da du davon isst... sterbend wirst du sterben") und Gen 5:5 (Adam lebt 930 Jahre).
+Hebräisch *beyom* kann einen wörtlichen 24-Stunden-Tag oder ein idiomatisches "als/zur Zeit" bedeuten. Es erscheint bei 2:4 ("am Tag, als JHWH Elohim machte...") und 2:17 ("am Tag deines Essens davon..."). Die TT bewahrt die wörtliche Wiedergabe mit einer Anmerkung, die den idiomatischen Bereich kennzeichnet — besonders wichtig für die scheinbare Spannung zwischen 2:17 ("am Tag, da du davon isst... sterbend wirst du sterben") und Gen 5:5 (Adam lebt 930 Jahre).
 
 ---
 
 ## E. Wissenschaftliche Entsprechung und Nicht-Entsprechung
 
-### E1. Formung aus Staub -- Elemente und Zusammensetzung
+### E1. Formung aus Staub — Elemente und Zusammensetzung
 **[WISSENSCHAFTLICHER VERGLEICH — MÖGLICH]**
 
 Genesis 2:7: "formte den Menschen, Staub vom Erdboden." Die moderne Chemie stellt fest, dass der menschliche Körper aus gängigen Elementen der Erdkruste zusammengesetzt ist (Kohlenstoff, Saürstoff, Wasserstoff, Stickstoff, Kalzium, Phosphor usw.). Dies ist eine Beobachtung, kein Konkordismus-Anspruch. Der Text beschreibt *Formung* aus Erde, nicht chemische Zusammensetzung.
 
-### E2. Das Flusssystem -- Hydrologie
+### E2. Das Flusssystem — Hydrologie
 **[WISSENSCHAFTLICHER VERGLEICH — MOEGLICH]**
 
 Genesis 2:10-14 beschreibt einen Fluss, der aus Eden hervorgeht und sich in vier Hauptströme teilt. Die moderne Hydrologie kennt kein Einzelqüll-Flusssystem, das dieser Beschreibung entspricht. Die zwei identifizierbaren Flüsse (Tigris, Euphrat) haben getrennte Quellen. Ob der Text eine vorsintflutliche Geographie, eine symbolische Geographie oder eine narrative Geographie beschreibt, ist ungelöst.
@@ -243,7 +243,7 @@ Genesis 2:18 verzeichnet das einzige „nicht gut" (*lo tov*) in der Schöpfungs
 ### F1. Jüdische Rezeption
 **[SPÄTERE REZEPTION — DOKUMENTIERT]**
 
-- **Rabbinische Tradition** diskutiert ausführlich die Benennung der Tiere (Gen 2:19-20) als Demonstration menschlicher Weisheit -- die erste Tat des Intellekts.
+- **Rabbinische Tradition** diskutiert ausführlich die Benennung der Tiere (Gen 2:19-20) als Demonstration menschlicher Weisheit — die erste Tat des Intellekts.
 - **Lilith-Tradition** (Alphabet des Ben Sira, mittelalterlich): Einige rabbinische Texte setzen eine "erste Frau" vor Eva voraus, basierend auf Spannungen zwischen Gen 1:27 ("männlich und weiblich schuf er sie") und Gen 2:22 (Frau aus der Seite/Rippe gebaut). Dies ist **LATER RECEPTION**, nicht im hebräischen Text enthalten.
 - **Gen 2:24** ("darum wird ein Mann seinen Vater verlassen...") wird als Einsetzung der Ehe durch die Tora gelesen.
 
@@ -252,12 +252,12 @@ Genesis 2:18 verzeichnet das einzige „nicht gut" (*lo tov*) in der Schöpfungs
 
 - **Paulus** (Eph 5:31-32) liest Gen 2:24 als Typologie für Christus und die Gemeinde.
 - **Augustinus** liest den "tiefen Schlaf" (*tardemah*) als Vorausdeutung von Tod und Auferstehung.
-- Das *ish/ishah*-Paar wird in der christlichen Theologie weit zitiert als Grundlage für komplementäre oder egalitäre Sichtweisen -- beide zitieren denselben Text. Das Hebräische löst diese Debatte nicht.
+- Das *ish/ishah*-Paar wird in der christlichen Theologie weit zitiert als Grundlage für komplementäre oder egalitäre Sichtweisen — beide zitieren denselben Text. Das Hebräische löst diese Debatte nicht.
 
 ### F3. Islamische Rezeption
 **[SPÄTERE REZEPTION — DOKUMENTIERT]**
 
-Der Koran beschreibt Adams Erschaffung aus Ton (*tin*, Sure 15:26) und das Lehren der Namen an Adam (Sure 2:31) -- parallel zu Gen 2:7 und 2:19-20. Der koranische Bericht enthält nicht das *ish/ishah*-Wortspiel oder die spezifische *tsela*-Erzählung (Seite/Rippe).
+Der Koran beschreibt Adams Erschaffung aus Ton (*tin*, Sure 15:26) und das Lehren der Namen an Adam (Sure 2:31) — parallel zu Gen 2:7 und 2:19-20. Der koranische Bericht enthält nicht das *ish/ishah*-Wortspiel oder die spezifische *tsela*-Erzählung (Seite/Rippe).
 
 **Quelle:** Wheeler, B.M., *Prophets in the Quran: An Introduction to the Quran and Muslim Exegesis*, 2002.
 
@@ -268,27 +268,27 @@ Der Koran beschreibt Adams Erschaffung aus Ton (*tin*, Sure 15:26) und das Lehre
 ### G0. Benennung als kognitive Ordnung
 **[TEXTUELL / STARKE SCHLUSSFOLGERUNG — WAHRSCHEINLICH]**
 
-Genesis 2:19-20: JHWH Elohim bringt die Tiere zum Menschen, "um zu sehen, was er zu ihm rufen würde." Der Mensch benennt jedes Vieh, jeden Vogel und jedes Lebewesen. In altorientalischer Tradition drückt Benennung kognitive Autorität aus -- der Benennende klassifiziert, kategorisiert und ordnet das Benannte. Dies ist die **erste intellektuelle Tat** des Menschen: dem Tierreich sprachliche Struktur aufzürlegen. Sie geht der Suche nach einem Gegenüber voraus (2:20) -- die Benennung offenbart, dass kein Tier in Frage kommt.
+Genesis 2:19-20: JHWH Elohim bringt die Tiere zum Menschen, "um zu sehen, was er zu ihm rufen würde." Der Mensch benennt jedes Vieh, jeden Vogel und jedes Lebewesen. In altorientalischer Tradition drückt Benennung kognitive Autorität aus — der Benennende klassifiziert, kategorisiert und ordnet das Benannte. Dies ist die **erste intellektuelle Tat** des Menschen: dem Tierreich sprachliche Struktur aufzürlegen. Sie geht der Suche nach einem Gegenüber voraus (2:20) — die Benennung offenbart, dass kein Tier in Frage kommt.
 
 ### G1. Das erste "nicht gut" in der Bibel
 **[TEXTUELL — VERIFIZIERT]**
 
-Genesis 2:18: "Nicht gut das Alleinsein des Menschen." Nach sechs "gut"-Bewertungen und einem "sehr gut" in Genesis 1 erscheint das erste *lo tov* (nicht gut) hier. Der Text erklärt nicht, *warum* Einsamkeit nicht gut ist -- er sagt es als göttliche Beurteilung.
+Genesis 2:18: "Nicht gut das Alleinsein des Menschen." Nach sechs "gut"-Bewertungen und einem "sehr gut" in Genesis 1 erscheint das erste *lo tov* (nicht gut) hier. Der Text erklärt nicht, *warum* Einsamkeit nicht gut ist — er sagt es als göttliche Beurteilung.
 
 ### G2. Gott als Chirurg
 **[TEXTUELL / MÖGLICHE SCHLUSSFOLGERUNG — MOEGLICH]**
 
-Genesis 2:21: JHWH Elohim versetzt in *tardemah* (tiefen Schlaf), entnimmt eine *tsela* (Seite/Rippe) und schliesst das Fleisch. Dies ist die einzige biblische Stelle, die beschreibt, was einem chirurgischen Eingriff durch Gott gleichkommt. Die *tardemah* ist kein gewöhniicher Schlaf -- sie wird später für Abraham (Gen 15:12) in einem Bundeszusammenhang verwendet.
+Genesis 2:21: JHWH Elohim versetzt in *tardemah* (tiefen Schlaf), entnimmt eine *tsela* (Seite/Rippe) und schliesst das Fleisch. Dies ist die einzige biblische Stelle, die beschreibt, was einem chirurgischen Eingriff durch Gott gleichkommt. Die *tardemah* ist kein gewöhniicher Schlaf — sie wird später für Abraham (Gen 15:12) in einem Bundeszusammenhang verwendet.
 
 ### G3. Die Frau "gebaut", nicht "gemacht" oder "geschaffen"
 **[TEXTUELL — VERIFIZIERT]**
 
-Genesis 2:22 verwendet *banah* (baute) -- das Bauverb. Nicht *bara* (schuf, Gen 1:1), nicht *asah* (machte, Gen 1:7), nicht *yatzar* (formte, Gen 2:7). Dies ist die einzige Stelle in den Schöpfungserzählungen, an der Gottes Handeln als *Baün* beschrieben wird. Die architektonische Metapher verbindet sich mit *tsela* (Seite -- anderswo überwiegend architektonisch).
+Genesis 2:22 verwendet *banah* (baute) — das Bauverb. Nicht *bara* (schuf, Gen 1:1), nicht *asah* (machte, Gen 1:7), nicht *yatzar* (formte, Gen 2:7). Dies ist die einzige Stelle in den Schöpfungserzählungen, an der Gottes Handeln als *Baün* beschrieben wird. Die architektonische Metapher verbindet sich mit *tsela* (Seite — anderswo überwiegend architektonisch).
 
-### G4. Ein Fleisch -- dasselbe Wort wie an Tag 1
+### G4. Ein Fleisch — dasselbe Wort wie an Tag 1
 **[TEXTUELL — VERIFIZIERT]**
 
-Genesis 2:24: *basar echad* ("ein Fleisch"). Das Adjektiv *echad* (eins) ist dasselbe Wort, das bei Gen 1:5 verwendet wird ("Tag eins" / *yom echad*). In beiden Fällen markiert es etwas Einzigartiges und Grundlegendes -- der erste Tag, die erste Verbindung.
+Genesis 2:24: *basar echad* ("ein Fleisch"). Das Adjektiv *echad* (eins) ist dasselbe Wort, das bei Gen 1:5 verwendet wird ("Tag eins" / *yom echad*). In beiden Fällen markiert es etwas Einzigartiges und Grundlegendes — der erste Tag, die erste Verbindung.
 
 ### G6. Die *tardemah* — tiefer Schlaf als Anästhesie vor einem Eingriff
 **[MÖGLICHE SCHLUSSFOLGERUNG — MÖGLICH]**
@@ -299,6 +299,81 @@ Genesis 2:21: „JHWH Gott liess einen tiefen Schlaf (*tardemah*) auf den Mensch
 **[MÖGLICHE SCHLUSSFOLGERUNG — MÖGLICH]**
 
 Der „Baum der Erkenntnis von Gut und Böse" (2:9, 17) benennt ein Konzept, das der Text nie definiert. „Gut und Böse erkennen" erscheint in der Hebräischen Bibel an weiteren Stellen in Dtn 1:39 (Kinder, die es noch nicht kennen) und 2 Sam 19:36 (ein alter Mann, der es nicht mehr unterscheiden kann) — beide deuten auf erfahrungsbezogene Reife oder moralische Urteilskraft hin, nicht auf abstraktes ethisches Wissen. In der Moralphilosophie entsprechen die Optionen ungefähr: (a) moralische Autonomie (Kant — die Fähigkeit, sich selbst das moralische Gesetz zu geben), (b) erfahrungsbasiertes Wissen (Aristoteles — praktische Weisheit, erworben durch Erleben), (c) Verlust der Unschuld (der Übergang vom vor-moralischen zum moralischen Bewusstsein). Der Text präsentiert den Baum als verboten, ohne zu erklären, was die Erkenntnis *ist*, und überlässt es dem Leser, zwischen der Fähigkeit zum moralischen Urteil und der Anmassung moralischer Autorität zu unterscheiden.
+
+---
+
+## I. Die Welt zur damaligen Zeit
+
+Die Datierung der Abfassung von Genesis ist umstritten. Dieser Abschnitt präsentiert „die Welt zur damaligen Zeit" für jedes wichtige Szenario, damit Leser mit jeder Position den historischen Kontext sehen können, der für Genesis 2 am relevantesten ist. Der breite politische, wirtschaftliche und soziale Hintergrund für jedes Szenario ist identisch mit dem in Genesis 1 — dieselben Imperien, dieselben Zivilisationen, dieselben Zeitperioden. Dieser Abschnitt konzentriert sich darauf, wie der spezifische Inhalt von Genesis 2 — der Garten, die Landwirtschaft, die Bewässerung, die Ehe, das Benennen, die *tardema*-Operation — mit jeder historischen Welt zusammenhängt. Für den vollständigen historischen Kontext mit allen 10 Kategorien siehe Genesis 1 Begleitmaterial Abschnitt I.
+
+---
+
+### Szenario A: Falls während der mosaischen Periode verfasst (~13. Jh. v. Chr.)
+**[HISTORISCH / ARCHÄOLOGISCH — DOKUMENTIERT]** *(Traditionelle Zuschreibung)*
+
+**I-A1. Garten und Bewässerung in der spätbronzezeitlichen Ägypten und Kanaan**
+Das Bild eines ummauerten Gartens (*gan*), gespeist von einem sich teilenden Fluss, hätte in zwei Richtungen resoniert: Ägyptische Königsgärten (belegt in neureichszeitlichen Malereien in Theben) waren Prestigeräume mit Bewässerungskanälen und exotischen Bäumen — Lustgärten für die Elite. Gleichzeitig machte die jährliche Nilflut die ägyptische Landwirtschaft nahezu selbstbewässernd, eine Beobachtung, die jeder Israelit, der in Ägypten gearbeitet hatte, erkannt hätte. Tigris und Euphrat (in 2:14 namentlich genannt) hatten seit Jahrtausenden kanalgespeiste Felder bewässert. Für eine Gemeinschaft in der Sinai-Wüste stellte ein selbstbewässernder Garten den Gegensatz zur aktuellen Landschaft dar.
+
+**I-A2. Benennung und Taxonomie in spätbronzezeitlichen Kulturen**
+Genesis 2:19-20 lässt den Menschen (*adam*) jedes Lebewesen benennen. In Ägypten brachte die Schreibertradition umfangreiche Tierlisten (*Onomastika*) hervor — kategorisierte Inventare von Tieren, Pflanzen und Orten, die sowohl für praktische als auch rituelle Zwecke verwendet wurden. Das Onomastikon des Amenope (ca. 1100 v. Chr., nahe dieser Periode) listet Himmel, Wasser, Erde, Personen, Orte und Tiere systematisch auf. Das Benennen als Form der Herrschaft und Kategorisierung war in allen altorientalischen Kulturen verstanden. Der Akt des Benennens aller Lebewesen, ohne eine geeignete Entsprechung (*ezer kenegdo*) zu finden, nutzt diese Tradition: Der Mensch übt Herrschaft durch Benennen aus, doch die Übung selbst offenbart eine Lücke, die das Benennen allein nicht füllen kann.
+
+**I-A3. Heiratsgebräuche in der Späten Bronzezeit**
+In der spätbronzezeitlichen Kanaan und Ägypten war die Ehe eine wirtschaftliche Transaktion zwischen Familien. Verlobungsverträge regelten Brautpreis (*mohar*) und Mitgift. Frauen heirateten in der Regel als Teenager. Die meisten Gesellschaften waren patrilokal — die Braut zog in die Familie des Mannes. Die Aussage in 2:24, dass ein Mann „seinen Vater und seine Mutter verlässt", ist daher sozial umgekehrt: In der Praxis verließ die Frau ihre Familie. Ob dies einen älteren Brauch, eine idealisierte Norm oder eine theologische Priorität der Ehebindung über die Herkunftsfamilie widerspiegelt, ist ungeklärt.
+
+**Quelle:** Borowski, O., *Agriculture in Iron Age Israel*, 1987; Westbrook, R., *Old Babylonian Marriage Law*, 1988.
+
+*Für den vollständigen historischen Kontext dieses Zeitraums mit allen 10 Kategorien siehe Genesis 1 Begleitmaterial Abschnitt I, Szenario A.*
+
+---
+
+### Szenario B: Falls während der monarchischen Periode verfasst (~10.–9. Jh. v. Chr.)
+**[HISTORISCH / ARCHÄOLOGISCH — MÖGLICH]** *(Einige Gelehrte verorten frühe Quelltraditionen hier)*
+
+**I-B1. Königsgärten und Paradiesideologie**
+Das mit „Garten" übersetzte Wort (*gan*) ist mit dem persischen *pairi-daēza* („Paradies", ein ummauertes Gehege) verwandt, aber das Konzept eines königlichen umfriedeten Gartens war in der Levante bereits vor der Perserzeit vorhanden. Salomo werden Gärten und Obstgärten zugeschrieben (Prediger 2:5-6); assyrische Könige wie Assurnasirpal II. rühmten sich, exotische Bäume aus eroberten Gebieten in ihren Palastgärten anzupflanzen. Der Garten in Genesis 2 folgt der strukturellen Logik des Königsgartens: ein abgegrenzter, bewässerter Raum, in dem ideale Vegetation unter göttlichem Eigentum wächst. In der monarchischen Periode gelesen, könnte er eine implizite Kritik bieten: Dieser ideale Garten gehörte nicht Salomo; er gehörte JHWH.
+
+**I-B2. Bewässerungstechnologie im eisenzeitlichen Israel**
+Das Israel der Monarchieperiode betrieb sowohl regengespeiste Hügellandwirtschaft (Terrassierung, Getreide, Reben, Oliven) als auch kleinräumige Bewässerung, wo Quellen es ermöglichten. Die Gihon-Quelle in Jerusalem (in 2:13 als einer der Eden-Flüsse genannt) war die Wasserquelle der Stadt — der Warren-Schacht, der Wassertunnel und später der Hiskia-Tunnel wurden gebaut, um sie zu sichern. Der Pischon und Gihon als zwei der vier Eden-Flüsse hätten für ein Jerusalemer Publikum unmittelbare geographische Resonanz getragen: Der Gihon floss unter ihren Füßen. Die Vier-Fluss-Geographie Edens positioniert den Garten am Ursprungspunkt der Wassersysteme der Welt — den Gegensatz zur chronischen Wasserunsicherheit Israels.
+
+**I-B3. Die *tsela* und körperbasierte soziale Metaphern**
+Die Extraktion einer *tsela* („Seite", oft als „Rippe" übersetzt) in Genesis 2:21-22, um die Frau zu erbauen, spiegelt eine körperbasierte Metapher für soziale Einheit wider, die in der antiken Rhetorik verbreitet war. Verwandtschaft in der antiken Welt wurde in Körperbegriffen beschrieben: „Bein von meinen Beinen und Fleisch von meinem Fleisch" (2:23) ist die Sprache des Bündnisses und der Verwandtschaft (*vgl.* 2. Samuel 5:1, „wir sind dein Bein und Fleisch"). In der Monarchieperiode strukturierte diese Sprache diplomatische und Stammesbeziehungen. Die Frau ist nicht von Natur aus untergeordnet aufgrund ihrer Herkunft — dieselbe Formel wird verwendet, wenn Stämme einem König Loyalität schwören.
+
+*Für den vollständigen historischen Kontext dieses Zeitraums mit allen 10 Kategorien siehe Genesis 1 Begleitmaterial Abschnitt I, Szenario B.*
+
+---
+
+### Szenario C: Falls während der exilischen/nachexilischen Periode verfasst (~6.–5. Jh. v. Chr.)
+**[HISTORISCH / ARCHÄOLOGISCH — WAHRSCHEINLICH]** *(Wissenschaftlicher Konsens für die Endgestalt)*
+
+**I-C1. Mesopotamische Agrarmythologie und das *edinu* (die Ebene)**
+Das Wort *Eden* könnte vom sumerischen/akkadischen *edinu* abstammen, „Ebene" oder „Steppe" — das unkultivierte Land zwischen Städten in Mesopotamien. Die mesopotamische Mythologie kennt ein voragrarisches Paradies: Im Mythos von *Enki und Ninhursag* gibt es ein heiliges Land (Dilmun), in dem es keine Krankheit, keine Jagd und Pflanzen ohne Arbeit gibt. Jüdische Exilanten, die in Babylonien lebten, hätten Echos von Dilmun in Eden gehört. Aber die Texte divergieren: Dilmun ist eine göttliche Wohnung, die von den Göttern wiederhergestellt wird; Eden in Genesis 2 ist ein menschlicher Wohnort, der für den *adam* geschaffen wurde, um darin zu arbeiten. Der Mensch wird in den Garten gesetzt als sein Arbeiter und Hüter — ein Arbeiter im Paradies, kein passiver Bewohner.
+
+**I-C2. Flüsse und Geographie in der babylonischen Kosmologie**
+Die Vier-Fluss-Geographie Edens (2:10-14) nennt Tigris (*Hiddekel*) und Euphrat ausdrücklich — die zwei Flüsse, die für jüdische Exilanten die mesopotamische Geographie definierten. Pischon und Gihon bleiben unidentifiziert und haben antike und moderne Spekulation ausgelöst. Im babylonischen Denken waren Flüsse göttlich — der Tigris war mit dem Gott Ea/Enki assoziiert, und Quellen galten als göttliche Sprache. Exilierte Schreiber, die den Ursprung aller Flüsse in einer einzigen Edensischen Quelle platzierten, präsentierten eine Gegenkosmologie: Die Flüsse, die die Babylonier verehrten, fließen aus einem Garten, den JHWH gepflanzt hat. Ihre heiligen Flüsse entspringen in JHWHs Raum.
+
+**I-C3. Eherecht im judentum der Perserzeit**
+Esra 9-10 und Nehemia 13 zeigen die jüdische Gemeinschaft der Perserzeit in akuter Krise wegen Mischehen mit nicht-jüdischen Frauen. In diesem Kontext trägt die Aussage von Genesis 2:24, dass ein Mann „Vater und Mutter verlässt und an seiner Frau hängt, und sie werden ein Fleisch", erhöhte Bedeutung: Die grundlegende Definition der Ehe betrifft, wer eine rechte Verbindung bildet. Die Spannung zwischen dem Universalismus des Textes (die Frau wird aus dem Mann genommen; sie sind von Natur aus „ein Fleisch") und der ethnischen Grenzziehung der Gemeinschaft (Esra löst Mischehen auf) ist ungelöst — der Text urteilt nicht. Er definiert die Struktur der Beziehung; die Gemeinschaft stritt darüber, wer sich qualifizierte.
+
+**I-C4. Benennung in der Weisheitstradition**
+Die babylonische Schreibertradition pflegte systematische Listen von Tieren, Pflanzen, Steinen und Berufen (*urra = hubullu*-Serie). Jüdische Exilschreiber wären mit dieser Tradition vertraut gewesen. Genesis 2:19-20, wo der Mensch alle Lebewesen benennt, ohne einen Partner zu finden, positioniert den Menschen als Träger taxonomischer Intelligenz — aber die durch Benennen erzeugte Weisheit reicht nicht aus, um das tiefste Bedürfnis zu befriedigen. Dies ist ein charakteristischer Zug: Benennen ist Weisheit, aber Weisheit ist unzureichend. Nur was JHWH aus dem eigenen Körper des Menschen baut, erfüllt.
+
+*Für den vollständigen historischen Kontext dieses Zeitraums mit allen 10 Kategorien siehe Genesis 1 Begleitmaterial Abschnitt I, Szenario C.*
+
+---
+
+### Szenario D: Falls während der persischen/frühen hellenistischen Periode redigiert (~4.–3. Jh. v. Chr.)
+**[HISTORISCH / ARCHÄOLOGISCH — MÖGLICH]** *(Verbunden mit der abschließenden Pentateuchgestaltung)*
+
+**I-D1. Paradiesgärten in der persischen Kaiserkultur**
+Der persische *pairi-daēza* (ummaurter Garten) war eine kaiserliche Institution. Persische Könige legten im gesamten Reich aufwändige Gehegegärten an — sie waren gleichzeitig Symbole königlicher Macht, botanische Sammlungen und Jagdgründe. Kyros der Große pflegte seinen eigenen Garten in Pasargadai. Für jüdische Gemeinschaften unter persischer Herrschaft würde die Eden-Erzählung mit dieser bekannten Kulturform in Berührung kommen: JHWHs Garten geht dem persischen Königsgarten voraus und übertrifft ihn. Der *gan be-eden* („Garten in Eden") ist kein königliches Lustgelände, sondern der Ursprungspunkt menschlicher Behausung — ein Gegenanspruch zur persischen Paradiesideologie.
+
+**I-D2. Griechisches anatomisches und philosophisches Interesse am Körper**
+Im 4. Jahrhundert v. Chr. theoretisierte die griechische Hippokratische Medizin den Körper systematisch. Aristoteles' Biologie (*Historia Animalium*, *De Partibus Animalium*) klassifizierte Tiere und beschrieb anatomische Strukturen. Die Genesis-2-Erzählung — ein Gott, der etwas ausführt, das strukturell wie eine Operation aussieht (*tardema*, Öffnung, Extraktion, Verschluss), um die Frau hervorzubringen — wäre für einen hellenistisch bewussten Leser als eine Form göttlichen Handwerks am Körper lesbar gewesen. Der Text verwendet keine medizinische Sprache; er beschreibt einen göttlichen Schöpfungsakt. Aber der kulturelle Moment, in dem Menschen begannen, Körper systematisch zu analysieren, ist auch der Moment, in dem die verfahrensähnliche Abfolge des Textes besonders auffällig wird.
+
+**I-D3. Kanonischer Status und die Autorität des Gründungsnarrativs**
+In der persischen und frühen hellenistischen Periode gewann die Tora ihren Status als Verfassungsdokument jüdischer Identität. Der Bericht von Genesis 2 über den Ursprung der Ehe, des Benennens und der menschlichen Berufung („ihn zu bearbeiten und ihn zu bewahren") hätte nicht nur als Geschichte funktioniert, sondern als Grundlagenrecht. Streitigkeiten über Ehe, Arbeitspflichten und das menschliche Verhältnis zum Land wären gegen diesen Text abgewogen worden. Die Septuaginta-Übersetzung ins Griechische (3. Jh. v. Chr.) deutet darauf hin, dass Diasporagemeinden den Text in der Hauptsprache zugänglich benötigten — der Bericht von Genesis 2 über die Ursprünge wurde von dieser Periode an im gesamten Mittelmeerraum auf Griechisch gelesen.
+
+*Für den vollständigen historischen Kontext dieses Zeitraums mit allen 10 Kategorien siehe Genesis 1 Begleitmaterial Abschnitt I, Szenario D.*
 
 ---
 

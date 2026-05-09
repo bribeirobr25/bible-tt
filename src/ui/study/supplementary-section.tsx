@@ -1,7 +1,11 @@
 import type { SupplementarySection } from "@/domain/content/types";
 import { renderMarkdownSafe } from "@/ui/shared/render-markdown-safe";
 
-export function SupplementaryPanel({ sections }: { sections: SupplementarySection[] }) {
+export function SupplementaryPanel({
+  sections,
+}: {
+  sections: SupplementarySection[];
+}) {
   if (sections.length === 0) return null;
 
   return (

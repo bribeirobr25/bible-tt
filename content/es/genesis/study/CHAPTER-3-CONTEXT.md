@@ -10,7 +10,7 @@
 **Capítulo:** Génesis 3
 **Idioma:** Español
 **Compañero de:** `es/genesis/CHAPTER-3.md` (Edición Transparente)
-**Reglas:** v3.0 (la Regla 29 gobierna este archivo)
+**Reglas:** v3.3 (la Regla 29 gobierna este archivo)
 **Status:** provisional
 
 ---
@@ -137,7 +137,7 @@ Génesis 3:24: querubines colocados "al este del jardín de Edén." En la geogra
 ### B1. Iconografía de la serpiente en el ACO
 **[PARALELO COMPARATIVO — VERIFICADO]**
 
-Las serpientes aparecen ampliamente en la literatura y el arte del ACO:
+Las serpientes aparecen ampliamente en la literatura y el arte del Antiguo Cercano Oriente (ACO):
 - **Epopeya de Gilgamesh** (Tablilla XI): una serpiente roba la planta de la juventud eterna de Gilgamesh — pérdida de la inmortalidad a través de una serpiente, paralelo a Génesis 3
 - **Tradición egipcia:** serpientes como figuras tanto protectoras (uraeus) como amenazantes (Apofis)
 - **Arte mesopotámico:** serpientes asociadas con sabiduría, sanación y el inframundo
@@ -159,7 +159,7 @@ Estos paralelos sugieren un motivo compartido del ACO de humanos que se aproxima
 ### B3. El árbol de la vida en el arte mesopotámico
 **[PARALELO COMPARATIVO — VERIFICADO]**
 
-"Árboles sagrados" estilizados aparecen a lo largo del arte mesopotámico, frecuentemente flanqueados por figuras guardianas (cf. Génesis 3:24 querubines). Estos están atestiguados en relieves de palacios asirios, sellos cilíndricos y decoraciones de templos. Si representan un concepto de "árbol de la vida" paralelo a Génesis es debatido; el paralelo visual es innegable.
+"Árboles sagrados" estilizados aparecen a lo largo del arte mesopotámico, frecuentemente flanqueados por figuras guardianas (cf. Génesis 3:24 querubines). Estos están atestiguados en relieves de palacios asirios, sellos cilíndricos y decoraciones de templos. Si representan un concepto de "árbol de la vida" paralelo a Génesis es debatido; el paralelo visual es llamativo y ampliamente reconocido por los estudiosos.
 
 **Fuente:** Parpola, S., "The Assyrian Tree of Life," *JNES* 52 (1993): 161–208.
 
@@ -283,7 +283,7 @@ Génesis 3:1: *af ki amar elohim* — las palabras iniciales de la pregunta de l
 ### G2. No hay "paraíso" en el hebreo
 **[TEXTUAL — VERIFICADO]**
 
-La palabra hebrea *pardes* (jardín/parque, del persa) no aparece en Génesis 1–3. El texto dice *gan eden* (jardín de Edén). "Paraíso" entra a través del griego *paradeisos* (traducción de la LXX de *gan*) y se convierte en estándar en la tradición occidental. La TT preserva "jardín de Edén" sin importar "paraíso."
+La palabra hebrea *pardes* (jardín/parque, del persa) no aparece en Génesis 1–3. El texto dice *gan eden* (jardín de Edén). "Paraíso" entra a través del griego *paradeisos* (traducción de la LXX — la Septuaginta, la antigua traducción griega — de *gan*) y se convierte en estándar en la tradición occidental. La TT preserva "jardín de Edén" sin importar "paraíso."
 
 ### G3. El hombre estaba "con ella"
 **[TEXTUAL — VERIFICADO]**
@@ -321,6 +321,84 @@ El discurso de la serpiente en 3:1–5 sigue una estructura retórica de cuatro 
 **[INFERENCIA POSIBLE — POSIBLE]**
 
 Génesis 3:7: los humanos hacen coberturas de hojas de higuera (*te'enah*). Génesis 3:21: YHWH Dios hace vestiduras de piel (*or*). El texto comprime lo que la antropología rastrea como el desarrollo de materiales de origen vegetal a materiales de origen animal — una transición que en el registro arqueológico abarca milenios. El cambio también involucra una muerte implícita: las pieles de animal requieren que un animal muera. Esta es la primera muerte implícita en la narrativa, ocurriendo antes de cualquier muerte humana explícita (que viene en Gn 4:8). El texto no comenta sobre esta implicación — simplemente registra que Dios hizo vestiduras de piel. Si el lector ve aquí el origen del sacrificio animal, el primer derramamiento de sangre, o simplemente una provisión práctica depende de lo que el lector aporte al texto. El texto narra; no teologiza la vestimenta.
+
+### G9. Muerte introducida a los humanos, pero ¿qué pasa con el resto de la creación?
+**[TEXTUAL — VERIFICADO]**
+
+Génesis 2:17: "el día que comas de él, muriendo morirás" — dirigido al humano (*adam*). Génesis 3:19: "polvo eres, y al polvo volverás" — también al humano. El lenguaje de mortalidad en Génesis 2-3 se dirige exclusivamente a los humanos. A los animales, las plantas y el resto de la creación nunca se les dice que morirán, ni su estado previo a la caída se describe como libre de muerte. El texto guarda silencio sobre si la muerte animal y vegetal existía antes de la transgresión humana. La tradición posterior (especialmente Romanos 5:12: "por medio de un ser humano, el pecado entró en el mundo, y por medio del pecado, la muerte") aplica esto a la humanidad. Pablo dice "la muerte se extendió a todos los *humanos*" (eis pantas anthropous), no a todas las criaturas. Romanos 8:20-22 habla de la creación "sometida a la futilidad" y "gimiendo", lo que algunas tradiciones leen como la muerte cósmica entrando a través de la caída — pero Génesis mismo no hace esta afirmación. La TT observa: el lenguaje de muerte en Génesis 2-3 es antropocéntrico. Si esto significa que la muerte estaba ausente del mundo no humano antes de la caída es una pregunta que el texto no aborda.
+
+---
+
+## I. El Mundo en Esa Época
+
+La datación de la composición del Génesis es debatida. Esta sección presenta "el mundo en la época" para cada escenario principal, para que lectores con cualquier posición puedan ver el contexto histórico más relevante para Génesis 3. El contexto político, económico y social general de cada escenario es idéntico al de Génesis 1 — los mismos imperios, las mismas civilizaciones, los mismos períodos. Lo que esta sección enfoca es cómo el contenido específico de Génesis 3 — la serpiente, el conocimiento prohibido, la muerte, la desnudez y la vergüenza, la maldición y la expulsión — se conecta con cada mundo histórico. Para el contexto completo de 10 categorías, vea el compañero de Génesis 1, Sección I.
+
+---
+
+### Escenario A: Si fue compuesto durante el período mosaico (~s. XIII a.C.)
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]** *(Atribución tradicional)*
+
+**I-A1. Las serpientes en la religión y la vida cotidiana del Bronce Tardío**
+En el Egipto y Canaán del s. XIII a.C., la serpiente era simultáneamente peligrosa y sagrada. El *uraeus* egipcio (cobra) adornaba la corona del Faraón como símbolo de protección divina y poder soberano. El dios Apofis — una serpiente gigante — encarnaba el caos que amenazaba el orden solar. Al mismo tiempo, las serpientes reales eran un peligro mortal para los trabajadores agrícolas y los viajeros del desierto. Los encantamientos contra serpientes se cuentan entre los textos mágicos más comunes de este período. Para una comunidad que acababa de salir de Egipto, la serpiente de Génesis 3 habría traído asociaciones inmediatas: poder divino, caos y amenaza física — ninguna de las cuales el texto fuerza a una única lectura.
+
+**I-A2. El conocimiento, la sabiduría y los secretos divinos en el pensamiento del Bronce Tardío**
+La Epopeya de Gilgamesh (copias del s. XIII a.C. de amplia circulación) presenta el conocimiento y la mortalidad como entrelazados: el compañero de Gilgamesh, Enkidu, pasa de la salvajería animal a la sabiduría humana mediante una mujer, y luego enfrenta la muerte. El deseo de conocimiento divino — y el peligro de obtenerlo — era un tópico reconocido en la literatura del antiguo Oriente Próximo. Las tradiciones sapienciales egipcias y mesopotámicas reconocían que el conocimiento pleno pertenecía a los dioses; la sabiduría humana era parcial y limitada. El "conocer el bien y el mal" de Génesis 3 — sea cual sea su significado preciso — opera en un entorno cultural donde el deseo de conocimiento al nivel divino era reconocido como transgresor.
+
+**I-A3. La desnudez y la vergüenza en el contexto desértico/nómada**
+Para una comunidad en el desierto del Sinaí, el paso de la desnudez a la vestimenta tenía un peso práctico y social inmediato. La ropa marcaba el estatus social, protegía del entorno y distinguía a los humanos de los animales. El acto de coser hojas de higuera (3:7) y la subsiguiente provisión de vestiduras de piel por parte de YHWH (3:21) habrían resonado en un mundo donde la ropa decente era señal de cuidado, provisión y dignidad — no un símbolo abstracto de la inocencia perdida, sino un marcador concreto de un estatus transformado.
+
+*Para el contexto histórico completo de este período con las 10 categorías, vea el compañero de Génesis 1, Sección I, Escenario A.*
+
+---
+
+### Escenario B: Si fue compuesto durante el período monárquico (~ss. X-IX a.C.)
+**[HISTÓRICO / ARQUEOLÓGICO — POSIBLE]** *(Algunos eruditos sitúan aquí las tradiciones de fuentes tempranas)*
+
+**I-B1. La iconografía de la serpiente en la religión israelita y cananea**
+Las excavaciones arqueológicas en estratos del Israel de la Edad del Hierro (ss. X-IX a.C.) han recuperado figurillas de serpientes de bronce en sitios como Meguido, Guézer y Hazor — lo que indica que la veneración de serpientes se practicaba en el Levante durante este período. La serpiente de bronce (*nejushtán*) del templo era supuestamente aún objeto de culto en tiempos de Ezequías (2 Re 18:4), cuando él la destruyó. Una narrativa que degrada a la serpiente — convirtiéndola en el animal más *maldito*, destinado a comer polvo — en un entorno cultural donde las serpientes eran a veces objeto de veneración tiene un peso polémico que los lectores modernos no perciben.
+
+**I-B2. La literatura sapiencial y los límites de la sabiduría**
+El período monárquico está asociado tradicionalmente con la tradición sapiencial de Israel (Proverbios, partes de los Salmos, tradiciones tempranas del Eclesiastés). La literatura sapiencial tanto de Israel como de Egipto enmarca la sabiduría como un don divino, accesible mediante el temor a YHWH, no mediante la apropiación o la autoafirmación. La narrativa de Génesis 3 — en la que los seres humanos se apoderan de la sabiduría en desafío de una prohibición divina y la encuentran transformadora pero desorientadora — aborda la pregunta central de la tradición sapiencial: ¿cuál es la relación apropiada entre la búsqueda humana del conocimiento y la autoridad divina? Proverbios 3:7 ("no seas sabio a tus propios ojos") puede ser un eco lejano de esta tensión.
+
+**I-B3. La expulsión y la desheredación en el derecho antiguo**
+Los códigos legales del antiguo Oriente Próximo y el derecho israelita reconocían la expulsión como sanción legal. Una persona expulsada de una ciudad o una hacienda perdía el acceso a la tierra, a la comunidad y a las estructuras protectoras de la sociedad. En el período monárquico, la tenencia de la tierra estaba íntimamente vinculada a la identidad familiar — ser expulsado de la tierra era perder la herencia. La expulsión del Edén en 3:23-24 lleva esta resonancia jurídica: el ser humano pierde la hacienda en la que fue colocado para trabajar. Los *querubines* y la espada flamígera no son decorativos; ejecutan el lindero de una propiedad.
+
+*Para el contexto histórico completo de este período con las 10 categorías, vea el compañero de Génesis 1, Sección I, Escenario B.*
+
+---
+
+### Escenario C: Si fue compuesto durante el período exílico/postexílico (~ss. VI-V a.C.)
+**[HISTÓRICO / ARQUEOLÓGICO — PROBABLE]** *(Consenso académico para la forma final)*
+
+**I-C1. El exilio como expulsión — el paralelo estructural**
+Para la comunidad deportada a Babilonia (597 y 586 a.C.), el lenguaje de Génesis 3:23-24 no era una narrativa lejana — era historia reciente en forma mitológica. Ellos mismos habían sido "enviados fuera" de su tierra, su templo destruido, su acceso a la presencia de YHWH interrumpido. La deportación en el mundo antiguo significaba más que un desplazamiento geográfico: supponía la ruina económica (tierra abandonada), la disolución social (comunidad dispersa) y la crisis teológica (el dios aparentemente derrotado). La expulsión del Edén se corresponde con todas estas dimensiones simultáneamente. Tanto si los escribas exiliados dieron conscientemente forma a la historia como si reconocieron una resonancia estructural preexistente, el paralelo habría sido imposible de ignorar y consolador: si Adán y Eva sobrevivieron a la expulsión, quizás Israel también lo haría.
+
+**I-C2. El simbolismo babilónico de la serpiente y el *mushhushshu***
+En Babilonia, el *mushhushshu* (un dragón-serpiente compuesto) era el animal sagrado de Marduk, representado prominentemente en la Puerta de Ishtar (construida bajo Nabucodonosor II, c. 575 a.C. — visible para los exiliados). La asociación de la serpiente con el dios principal de sus captores habría dado a la serpiente maldita de Génesis 3 una carga polémica adicional: la criatura asociada con el poder divino babilónico es puesta a caminar sobre su vientre y condenada a comer polvo en la narrativa israelita. La serpiente degradada de Génesis 3 no es la criatura de Marduk; es un animal maldito subordinado a la descendencia de la mujer.
+
+**I-C3. El "conocimiento del bien y del mal" y la tradición sapiencial babilónica**
+La educación escribal babilónica usaba el concepto de *nemequ* ("sabiduría") como atributo divino — los dioses poseían el conocimiento completo; los humanos accedían a la sabiduría parcial a través de los *apkallu* (sabios semidivinos) que habían enseñado las artes y la civilización antes del diluvio. La noción de que los seres humanos se apoderan ilícitamente del conocimiento al nivel divino resuena en un contexto babilónico donde tal conocimiento se consideraba una prerrogativa divina restringida. El mito de Adapa — una historia acadia sobre un sabio al que se le ofrece la inmortalidad pero la rechaza por malentendido, confirmando así la mortalidad humana — explora un territorio similar: el conocimiento divino, los límites humanos y el umbral entre ambos.
+
+**I-C4. La mortalidad y el cuerpo en el pensamiento de la época persa**
+El zoroastrismo persa (con creciente influencia en el período exílico y postexílico) tenía un dualismo cósmico tajante: Ahura Mazda (bien, luz, vida) contra Angra Mainyu (mal, oscuridad, muerte). La narrativa de Génesis 3 — con su único Dios que tanto planta el jardín como pronuncia la maldición — resiste este dualismo. La muerte entra no a través de un dios malvado rival, sino mediante una criatura que YHWH hizo y una prohibición que YHWH estableció. La ausencia de un adversario cósmico equivalente a Angra Mainyu es un rasgo estructural del texto. Si esto es una respuesta implícita a la influencia zoroástrica o simplemente refleja los compromisos monoteístas del texto, es una cuestión debatida.
+
+*Para el contexto histórico completo de este período con las 10 categorías, vea el compañero de Génesis 1, Sección I, Escenario C.*
+
+---
+
+### Escenario D: Si fue redactado durante el período persa/helenístico temprano (~ss. IV-III a.C.)
+**[HISTÓRICO / ARQUEOLÓGICO — POSIBLE]** *(Asociado con la configuración final del Pentateuco)*
+
+**I-D1. El interés filosófico griego por el origen del mal y la muerte**
+Para el s. IV a.C., la filosofía griega llevaba generaciones debatiendo el origen del mal, el sufrimiento y la muerte. El *Timeo* de Platón (c. 360 a.C.) atribuye el mal a la materia y al *demiurgo* imperfecto; el mito de Pandora (Hesíodo, mucho anterior pero ampliamente conocido) atribuye el sufrimiento humano a una mujer que abre un recipiente prohibido. La narrativa de Génesis 3 — un jardín, una prohibición, una mujer, un árbol prohibido, una transgresión de consecuencias — se intersecta estructuralmente con estos tratamientos griegos mientras difiere fundamentalmente: el Dios de Génesis 3 no es un artesano inferior, la mujer no es la fuente del mal por naturaleza, y las consecuencias no son un caos cósmico sino una ruptura relacional y la mortalidad de las personas involucradas.
+
+**I-D2. La vestimenta y la estratificación social en la sociedad helenística**
+El mundo helenístico estaba fuertemente estratificado por la indumentaria. La vida cívica griega asignaba vestimentas específicas a ciudadanos frente a esclavos, libres frente a no libres, hombres frente a mujeres. YHWH proveyendo vestiduras de piel para reemplazar las hojas de higuera (3:21) — un dios vistiendo a los seres humanos — era un gesto de provisión y dignidad en un mundo donde la ropa marcaba el estatus. En la práctica de la corte persa, el regalo de una túnica por parte del rey era un acto formal de favor y elevación. La provisión divina de vestiduras, inmediatamente después de la maldición, complica una lectura meramente punitiva: incluso en la expulsión, YHWH viste a los seres humanos que está enviando fuera.
+
+**I-D3. Los querubines y el Árbol de la Vida como símbolos de la época de la Torá**
+Para los períodos persa y helenístico temprano, los *querubines* (*keruvim*) se habían asociado con el Arca de la Alianza (Éx 25:18-22) y el templo de Jerusalén. La colocación de querubines para custodiar el acceso al Edén (3:24) habría resonado en una comunidad que conocía los querubines como guardianes de la presencia divina. El Árbol de la Vida, bloqueado por los querubines y la espada flamígera, habría invitado a la lectura tipológica: el propio templo, custodiado por figuras de querubines, contenía un acceso a YHWH que era condicional y mediado. La narrativa del Edén, leída en este período, se proyectaba sobre la arquitectura de lo sagrado — y sobre la pregunta de si el Israel postexílico había restaurado el acceso a lo que se había perdido.
+
+*Para el contexto histórico completo de este período con las 10 categorías, vea el compañero de Génesis 1, Sección I, Escenario D.*
 
 ---
 

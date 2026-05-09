@@ -1,7 +1,7 @@
-import { getTranslations, setRequestLocale } from "next-intl/server";
-import { Link } from "@/ui/navigation/locale-link";
-import { getAvailableBooks } from "@/lib/content-loader";
 import { BookOpen } from "lucide-react";
+import { getTranslations, setRequestLocale } from "next-intl/server";
+import { getAvailableBooks } from "@/lib/content-loader";
+import { Link } from "@/ui/navigation/locale-link";
 
 export default async function BooksPage({
   params,
@@ -30,7 +30,10 @@ export default async function BooksPage({
                 href={`/${book}`}
                 className="flex items-center gap-4 px-5 py-5 rounded-lg border border-border hover:border-accent/40 hover:bg-bg-surface transition-colors duration-200 focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2 active:scale-[0.99]"
               >
-                <BookOpen className="w-5 h-5 text-text-muted shrink-0" strokeWidth={1.5} />
+                <BookOpen
+                  className="w-5 h-5 text-text-muted shrink-0"
+                  strokeWidth={1.5}
+                />
                 <span className="font-[family-name:var(--font-reading)] text-lg font-light">
                   {t(`book.${book}`)}
                 </span>

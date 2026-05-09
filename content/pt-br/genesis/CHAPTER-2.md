@@ -7,10 +7,11 @@
 **Texto Base:** Biblia Hebraica Stuttgartensia, 5ª ed. rev. (Stuttgart: Deutsche Bibelgesellschaft, 1997)
 **Edição:** Edição Transparente
 **Idioma:** Português Brasileiro
-**Metodologia:** Sistema de Governança de 29 Regras (Conjunto de Regras v3.0)
+**Metodologia:** Sistema de Governança de 29 Regras (Conjunto de Regras v3.3)
 **Política do Nome Divino (Regra 25):** Opção A — Consonantal (YHWH). **Acionada neste capítulo no v.4.**
 **Status:** provisório — aguardando revisão por pares (Regra 28)
 **Revisores:** Hebraísta: não atribuído | Editor PT: não atribuído | Alinhamento cruzado: não atribuído
+**Relação com Almeida (Regra CORE):** Opção B — Reconhecimento seletivo. Notam-se convergências/divergências em materiais suplementares.
 
 ---
 
@@ -63,7 +64,7 @@
 
 ¹E foram acabados os céus e a terra e todo o seu exército. ²E Deus acabou no sétimo dia a sua obra que havia feito, e descansou no sétimo dia de toda a sua obra que havia feito. ³E Deus abençoou o sétimo dia e o santificou, porque nele descansou de toda a sua obra que Deus criou *para* fazer.
 
-⁴Estas *são* as gerações dos céus e da terra quando foram criados, no dia em que YHWH Elohim fez terra e céus. ⁵E todo arbusto do campo ainda não *estava* na terra, e toda erva do campo ainda não brotara, porque YHWH Elohim não fizera chover sobre a terra, e humano não havia para lavrar o solo. ⁶E *um* vapor subia da terra e regava *toda* a face do solo. ⁷E YHWH Elohim formou o humano, pó do solo, e soprou em suas narinas fôlego de vida, e o humano tornou-se *um* ser vivo.
+⁴Estas *são* as gerações dos céus e da terra quando foram criados, no dia em que YHWH Elohim fez terra e céus. ⁵E todo arbusto do campo ainda não estava na terra, e toda erva do campo ainda não brotara, porque YHWH Elohim não fizera chover sobre a terra, e humano não havia para lavrar o solo. ⁶E *um* vapor subia da terra e regava toda a face do solo. ⁷E YHWH Elohim formou o humano, pó do solo, e soprou em suas narinas fôlego de vida, e o humano tornou-se *um* ser vivo.
 
 ⁸E YHWH Elohim plantou um jardim em Éden, ao oriente, e colocou ali o humano que havia formado. ⁹E YHWH Elohim fez brotar do solo toda árvore agradável à vista e boa para comida, e a árvore da vida no meio do jardim, e a árvore do conhecimento do bem e do mal. ¹⁰E *um* rio saindo de Éden para regar o jardim, e de lá se dividia e se tornava quatro cabeças. ¹¹O nome do primeiro *é* Pisom; *é* o que rodeia toda a terra de Havilá, onde *há o* ouro. ¹²E o ouro daquela terra *é* bom; ali *há* o bdélio e a pedra shoham. ¹³E o nome do segundo rio *é* Giom; *é* o que rodeia toda a terra de Cush. ¹⁴E o nome do terceiro rio *é* Hiddequel; *é* o que corre ao oriente de Assur. E o quarto rio, esse *é* Perat.
 
@@ -98,7 +99,7 @@ E Deus acabou no sétimo dia a sua obra que havia feito, e descansou no sétimo 
 > **📝 NOTAS**
 >
 > 🔴 **CRÍTICO - VARIANTE TEXTUAL**
-> - TM (Texto Massorético) lê **בַּיּוֹם הַשְּׁבִיעִי** (*bayom hashvi'i*) = "no sétimo dia" para o *acabamento*. LXX e Pentateuco Samaritano leem "no sexto dia" (provável harmonização, pois acabar e descansar no mesmo dia é teologicamente desconfortável).
+> - TM (Texto Massorético — o texto hebraico padrão) lê **בַּיּוֹם הַשְּׁבִיעִי** (*bayom hashvi'i*) = "no sétimo dia" para o *acabamento*. LXX (Septuaginta, a antiga tradução grega) e Pentateuco Samaritano leem "no sexto dia" (provável harmonização, pois acabar e descansar no mesmo dia é teologicamente desconfortável).
 > - **Conforme Regra 22:** traduzir TM no texto principal; registrar variante. Não adotar silenciosamente LXX/SP.
 > - Resolução **PROVÁVEL** da aparente contradição: *kalah* aqui significa "levado à completude" como estado contínuo, não como um ato final de trabalho no dia 7.
 >
@@ -146,7 +147,7 @@ Estas *são* as gerações dos céus e da terra quando foram criados, no dia em 
 
 ### **Versículo 5**
 
-E todo arbusto do campo ainda não *estava* na terra, e toda erva do campo ainda não brotara, porque YHWH Elohim não fizera chover sobre a terra, e humano não havia para lavrar o solo.
+E todo arbusto do campo ainda não estava na terra, e toda erva do campo ainda não brotara, porque YHWH Elohim não fizera chover sobre a terra, e humano não havia para lavrar o solo.
 
 > **📝 NOTAS**
 >
@@ -163,7 +164,7 @@ E todo arbusto do campo ainda não *estava* na terra, e toda erva do campo ainda
 
 ### **Versículo 6**
 
-E *um* vapor subia da terra e regava *toda* a face do solo.
+E *um* vapor subia da terra e regava toda a face do solo.
 
 > **📝 NOTAS**
 >
@@ -186,7 +187,7 @@ E YHWH Elohim formou o humano, pó do solo, e soprou em suas narinas fôlego de 
 >
 > 🟢 **NOVO VERBO - *yatzar***
 > - **וַיִּיצֶר** (*vayyitzer*) = "e formou"—raiz **י-צ-ר** (*y-tz-r*), verbo do oleiro. Distinto de *bara* (criar, Gn 1:1) e *asah* (fazer, Gn 1:7).
-> - Adicionado ao glossário para Gênesis 2+. Distinção **POSSÍVEL**: *bara* = iniciar do nada; *yatzar* = moldar de material existente; *asah* = fazer/fabricar.
+> - Adicionado ao glossário para Gênesis 2+. *Bara* é usado distintivamente para a ação criativa divina; seu escopo preciso (se implica criação do nada ou remodelação de material existente) é debatido (POSSÍVEL). *Yatzar* = moldar (como um oleiro); *asah* = fazer/fabricar.
 >
 > 🟢 **NEFESH CHAYAH RETORNA**
 > - **נֶפֶשׁ חַיָּה** (*nefesh chayah*) = "ser vivo"—previamente aplicado em Gn 1:20, 21, 24, 30 aos animais. Aqui aplicado ao humano. A mesma categoria; humanos a compartilham com outras criaturas vivas.
@@ -315,7 +316,7 @@ Mas da árvore do conhecimento do bem e do mal não comerás dela, porque no dia
 >
 > 🟡 **"NO DIA"**
 > - **בְּיוֹם** (*beyom*) = "no dia"—pode significar dia literal ou idioma para "no tempo em que." A aparente tensão com Gn 3 (eles não morrem no mesmo dia em que comem) é antigo enigma interpretativo; preservar o hebraico, não resolver.
-> - **Extensão adicional:** **Gn 5:5** relata que Adão viveu **930 anos** antes de morrer—muito depois do "dia" do comer. Soluções interpretativas históricas todas **POSSÍVEIS**, nenhuma imposta: (1) *beyom* como idiomático "quando"; (2) morte como processo/mortalidade ativada no comer, consumada depois; (3) "dia" como dia em escala divina (cf. Sl 90:4); (4) morte espiritual precedendo morte física. Regra 2—preservar a tensão; listar opções sem privilegiar uma.
+> - Gn 5:5 relata que Adão viveu 930 anos antes de morrer — muito depois do "dia" do comer. Múltiplas soluções são todas **POSSÍVEIS**, nenhuma imposta. Para discussão mais completa, veja o companheiro Seção D4.
 
 ---
 
@@ -326,11 +327,9 @@ E YHWH Elohim disse: "Não bom o ser do humano sozinho; farei para ele *um* ajud
 > **📝 NOTAS**
 >
 > 🔴 **CRÍTICO - *ezer kenegdo***
-> - **עֵזֶר כְּנֶגְדּוֹ** (*ezer kenegdo*) = "ajudador como seu correspondente."
-> - **עֵזֶר** (*ezer*) = ajuda/ajudador. **A palavra aparece ~21× na Bíblia Hebraica; ~16 dessas ocorrências referem-se a Deus como ajudador de Israel** em contextos militares / de resgate (p.ex. Dt 33:7, 33:26, 33:29; Sl 20:2, 33:20, 115:9–11, 121:1–2, 124:8, 146:5; Os 13:9). Apenas 2 ocorrências referem-se à mulher (Gn 2:18, 2:20). O perfil estatístico de *ezer* é **predominantemente ajuda-superior**, não ajuda-subordinada. Sem força hierárquica no lexema hebraico.
-> - **כְּנֶגְדּוֹ** (*kenegdo*) = "como oposto a ele" / "como seu correspondente / como correspondendo a ele"—preposição **נֶגֶד** (*neged*) = "em frente a, oposto, correspondente."
-> - **NÃO "auxiliadora idônea"** nem "ajudante submissa," que importam compressões alheias ao hebraico.
-> - Significados **POSSÍVEIS**: "ajudador correspondendo a ele" / "contraparte para ele." Mútuo, não subordinado.
+> - **עֵזֶר כְּנֶגְדּוֹ** (*ezer kenegdo*) = "ajudador como seu correspondente." **NÃO "auxiliadora idônea"**, que importa compressão alheia ao hebraico.
+> - **עֵזֶר** (*ezer*) = ajuda/ajudador — aparece ~21× na Bíblia Hebraica, com a maioria das ocorrências referindo-se a Deus como ajudador de Israel em contextos militares/de resgate. O perfil de *ezer* é **predominantemente ajuda-superior**, não ajuda-subordinada. Sem força hierárquica no lexema.
+> - **כְּנֶגְדּוֹ** (*kenegdo*) = "como seu correspondente"—preposição **נֶגֶד** (*neged*) = "em frente a, oposto, correspondente." Significados **POSSÍVEIS**: "ajudador correspondendo a ele" / "contraparte para ele." Para discussão mais completa, veja o companheiro Seção A6.
 >
 > 🔵 **PRIMEIRO "NÃO BOM"**
 > - Contrasta fortemente com os repetidos "bom" e "muito bom" de Gênesis 1. Primeiro *לֹא־טוֹב* (*lo tov*) na Bíblia.

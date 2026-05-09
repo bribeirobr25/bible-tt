@@ -1,6 +1,6 @@
-import { describe, it, expect } from "vitest";
 import fs from "node:fs/promises";
 import path from "node:path";
+import { describe, expect, it } from "vitest";
 import { parseChapterMarkdown } from "../markdown-parser";
 
 const ROOT = path.resolve(process.cwd(), "content");
@@ -8,7 +8,20 @@ const ROOT = path.resolve(process.cwd(), "content");
 const LOCALES = ["en", "pt-br", "de", "es"] as const;
 const CHAPTERS = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12] as const;
 
-const EXPECTED_VERSE_COUNTS: Record<number, number> = { 1: 31, 2: 25, 3: 24, 4: 26, 5: 32, 6: 22, 7: 24, 8: 22, 9: 29, 10: 32, 11: 32, 12: 20 };
+const EXPECTED_VERSE_COUNTS: Record<number, number> = {
+  1: 31,
+  2: 25,
+  3: 24,
+  4: 26,
+  5: 32,
+  6: 22,
+  7: 24,
+  8: 22,
+  9: 29,
+  10: 32,
+  11: 32,
+  12: 20,
+};
 
 async function loadChapter(locale: string, chapter: number) {
   const filePath = path.join(ROOT, locale, "genesis", `CHAPTER-${chapter}.md`);
@@ -57,13 +70,21 @@ describe("Markdown Parser", () => {
 
         it("extracts at least one note across all verses", async () => {
           const data = await loadChapter(locale, chapter);
-          const totalNotes = data.verses.reduce((sum, v) => sum + v.notes.length, 0);
+          const totalNotes = data.verses.reduce(
+            (sum, v) => sum + v.notes.length,
+            0,
+          );
           expect(totalNotes).toBeGreaterThan(0);
         });
 
         it("every note has a valid type", async () => {
           const data = await loadChapter(locale, chapter);
-          const validTypes = ["CRITICAL", "LEXICAL", "GRAMMATICAL", "THEOLOGICAL"];
+          const validTypes = [
+            "CRITICAL",
+            "LEXICAL",
+            "GRAMMATICAL",
+            "THEOLOGICAL",
+          ];
           for (const verse of data.verses) {
             for (const note of verse.notes) {
               expect(validTypes).toContain(note.type);

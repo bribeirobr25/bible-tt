@@ -1,9 +1,9 @@
-import type { ReactNode } from "react";
+import { Geist, Geist_Mono, Newsreader } from "next/font/google";
+import { notFound } from "next/navigation";
 import { NextIntlClientProvider } from "next-intl";
 import { setRequestLocale } from "next-intl/server";
-import { notFound } from "next/navigation";
-import { Newsreader, Geist, Geist_Mono } from "next/font/google";
-import { locales, type Locale, loadMessages } from "@/lib/i18n";
+import type { ReactNode } from "react";
+import { type Locale, loadMessages, locales } from "@/lib/i18n";
 import { AppBar } from "@/ui/navigation/app-bar";
 import "@/app/globals.css";
 
@@ -47,13 +47,14 @@ export default async function LocaleLayout({
   const messages = await loadMessages(locale);
 
   return (
-    <html lang={locale} className={`${newsreader.variable} ${geist.variable} ${geistMono.variable}`}>
+    <html
+      lang={locale}
+      className={`${newsreader.variable} ${geist.variable} ${geistMono.variable}`}
+    >
       <body className="bg-bg-paper text-text-primary font-[family-name:var(--font-ui)] min-h-screen">
         <NextIntlClientProvider locale={locale} messages={messages}>
           <AppBar />
-          <div className="pt-12">
-            {children}
-          </div>
+          <div className="pt-12">{children}</div>
         </NextIntlClientProvider>
       </body>
     </html>

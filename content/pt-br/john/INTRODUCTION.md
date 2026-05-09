@@ -10,7 +10,7 @@
 **Livro:** João (Ἰωάννης, *Iōannēs*)
 **Idioma:** Português Brasileiro
 **Introdução para:** `pt-br/john/` (Edição Transparente)
-**Regras:** v3.0 (Regra 29 governa este arquivo)
+**Regras:** v3.3 (Regra 29 governa este arquivo)
 **Status:** provisório
 
 ---
@@ -48,7 +48,7 @@ Este arquivo contém material de contextualização organizado por tópico. Cada
 
 O Evangelho de João é o quarto livro do cânon do Novo Testamento. Distingue-se dos Evangelhos Sinóticos (Mateus, Marcos, Lucas) em estrutura, estilo, vocabulário e ênfase teológica. Onde os Sinóticos compartilham uma estrutura narrativa amplamente comum (o "Problema Sinótico"), João segue um caminho literário independente — omitindo muito material sinótico (sem narrativa de nascimento, sem Sermão da Montanha, sem parábolas no sentido sinótico, sem instituição da Ceia) e incluindo discursos extensos, diálogos e narrativas simbólicas ausentes dos outros três.
 
-O Evangelho contém 21 capítulos e aproximadamente 879 versículos. É conhecido por sua profundidade teológica, seus discursos estendidos de Yeshua e seu caráter literário distintivo — incluindo os sete ditos "Eu sou" (ἐγώ εἰμι, *egō eimi*), o discurso de despedida (capítulos 13–17) e a identificação de Yeshua com o *logos* no prólogo (1:1–18).
+O Evangelho contém 21 capítulos e aproximadamente 879 versículos. É conhecido por sua profundidade teológica, seus discursos estendidos de Jesus e seu caráter literário distintivo — incluindo os sete ditos "Eu sou" (ἐγώ εἰμι, *egō eimi*), o discurso de despedida (capítulos 13–17) e a identificação de Jesus com o *logos* no prólogo (1:1–18).
 
 **Fonte:** Brown, *The Gospel According to John* (AB, 1966–1970), I.lxvii–civ; Barrett, *The Gospel According to St John* (2a ed., 1978), 3–15.
 
@@ -57,13 +57,13 @@ O Evangelho contém 21 capítulos e aproximadamente 879 versículos. É conhecid
 
 O Evangelho divide-se em quatro seções principais que diferem em escopo, público e registro literário:
 
-**Prólogo (1:1–18):** Uma introdução hímnica teologicamente densa, identificando o *logos* com Deus e com o Yeshua encarnado. Distingue-se do restante do Evangelho em estilo e gênero — mais próxima de um hino em prosa do que de narrativa.
+**Prólogo (1:1–18):** Uma introdução hímnica teologicamente densa, identificando o *logos* com Deus e com o Jesus encarnado. Distingue-se do restante do Evangelho em estilo e gênero — mais próxima de um hino em prosa do que de narrativa.
 
-**Livro dos Sinais (1:19–12:50):** Narra o ministério público de Yeshua organizado em torno de uma série de "sinais" (σημεῖα, *sēmeia*) — ações miraculosas que funcionam como eventos revelatórios. Sete sinais são comumente identificados: água em vinho em Caná (2:1–11), cura do filho do oficial (4:46–54), cura na piscina de Betesda (5:1–9), alimentação dos cinco mil (6:1–14), caminhar sobre as águas (6:16–21), cura do cego de nascença (9:1–7) e ressurreição de Lázaro (11:1–44). Cada sinal é tipicamente seguido por um discurso ou diálogo que interpreta seu significado.
+**Livro dos Sinais (1:19–12:50):** Narra o ministério público de Jesus organizado em torno de uma série de "sinais" (σημεῖα, *sēmeia*) — ações miraculosas que funcionam como eventos revelatórios. Sete sinais são comumente identificados: água em vinho em Caná (2:1–11), cura do filho do oficial (4:46–54), cura na piscina de Betesda (5:1–9), alimentação dos cinco mil (6:1–14), caminhar sobre as águas (6:16–21), cura do cego de nascença (9:1–7) e ressurreição de Lázaro (11:1–44). Cada sinal é tipicamente seguido por um discurso ou diálogo que interpreta seu significado.
 
-**Livro da Glória (13:1–20:31):** Narra o discurso de despedida (13–17), prisão, julgamento, crucificação e ressurreição. O tom muda do ministério público para instrução privada aos discípulos. Os capítulos 13–17 não têm paralelo nos Sinóticos — uma despedida estendida na qual Yeshua prepara seus seguidores para sua partida, apresenta o *paraklētos* (advogado/auxiliador) e ora pela comunidade.
+**Livro da Glória (13:1–20:31):** Narra o discurso de despedida (13–17), prisão, julgamento, crucificação e ressurreição. O tom muda do ministério público para instrução privada aos discípulos. Os capítulos 13–17 não têm paralelo nos Sinóticos — uma despedida estendida na qual Jesus prepara seus seguidores para sua partida, apresenta o *paraklētos* (advogado/auxiliador) e ora pela comunidade.
 
-**Epílogo (21:1–25):** Um capítulo suplementar narrando uma aparição pós-ressurreição na Galileia, a restauração de Kefa (Pedro) e o testemunho conclusivo do discípulo amado. Amplamente considerado como adição a uma edição anterior que terminava em 20:30–31.
+**Epílogo (21:1–25):** Um capítulo suplementar narrando uma aparição pós-ressurreição na Galileia, a restauração de Pedro e o testemunho conclusivo do discípulo amado. Amplamente considerado como adição a uma edição anterior que terminava em 20:30–31.
 
 **Fonte:** Dodd, *The Interpretation of the Fourth Gospel* (1953), 289–443; Brown, *John* (AB), I.cxxxviii–cxliv.
 
@@ -72,11 +72,11 @@ O Evangelho divide-se em quatro seções principais que diferem em escopo, públ
 
 Várias características distinguem João da tradição sinótica:
 
-**Os ditos "Eu sou":** Sete declarações nas quais Yeshua se identifica usando a fórmula ἐγώ εἰμι (*egō eimi*) com um predicado: "Eu sou o pão da vida" (6:35), "a luz do mundo" (8:12), "a porta" (10:7), "o bom pastor" (10:11), "a ressurreição e a vida" (11:25), "o caminho, a verdade e a vida" (14:6), "a videira verdadeira" (15:1). Além disso, vários usos absolutos de ἐγώ εἰμι sem predicado (8:24, 28, 58; 13:19) podem ecoar a autoidentificação divina em Êxodo 3:14 (LXX: ἐγώ εἰμι ὁ ὤν).
+**Os ditos "Eu sou":** Sete declarações nas quais Jesus se identifica usando a fórmula ἐγώ εἰμι (*egō eimi*) com um predicado: "Eu sou o pão da vida" (6:35), "a luz do mundo" (8:12), "a porta" (10:7), "o bom pastor" (10:11), "a ressurreição e a vida" (11:25), "o caminho, a verdade e a vida" (14:6), "a videira verdadeira" (15:1). Além disso, vários usos absolutos de ἐγώ εἰμι sem predicado (8:24, 28, 58; 13:19) podem ecoar a autoidentificação divina em Êxodo 3:14 (LXX — a Septuaginta, antiga tradução grega da Bíblia Hebraica: ἐγώ εἰμι ὁ ὤν).
 
-**Discursos estendidos:** Diferentemente do padrão sinótico de ditos curtos e parábolas, João apresenta o ensino de Yeshua em discursos longos e teologicamente elaborados — o discurso do Pão da Vida (cap. 6), o discurso da Luz do Mundo (cap. 8), o discurso do Bom Pastor (cap. 10) e o discurso de despedida (caps. 13–17).
+**Discursos estendidos:** Diferentemente do padrão sinótico de ditos curtos e parábolas, João apresenta o ensino de Jesus em discursos longos e teologicamente elaborados — o discurso do Pão da Vida (cap. 6), o discurso da Luz do Mundo (cap. 8), o discurso do Bom Pastor (cap. 10) e o discurso de despedida (caps. 13–17).
 
-**Cronologia diferente:** João coloca a ação no templo no início do ministério de Yeshua (2:13–22) em vez de na semana final, narra três Páscoas (sugerindo um ministério de pelo menos dois a três anos) e situa a crucificação no dia de preparação para a Páscoa (19:14) em vez de no próprio dia da Páscoa (Marcos 14:12).
+**Cronologia diferente:** João coloca a ação no templo no início do ministério de Jesus (2:13–22) em vez de na semana final, narra três Páscoas (sugerindo um ministério de pelo menos dois a três anos) e situa a crucificação no dia de preparação para a Páscoa (19:14) em vez de no próprio dia da Páscoa (Marcos 14:12).
 
 **Fonte:** Smith, *John Among the Gospels* (2a ed., 2001); Kysar, *Voyages with John* (2005), 1–27.
 
@@ -87,14 +87,14 @@ Várias características distinguem João da tradição sinótica:
 ### B1. O que o próprio texto diz
 **[TEXTUAL — VERIFICADO]**
 
-O Evangelho afirma basear-se no testemunho de "o discípulo a quem Yeshua amava" (ὁ μαθητής ὃν ἠγάπα ὁ Ἰησοῦς, 21:24: "Este é o discípulo que testifica sobre essas coisas e que escreveu essas coisas, e sabemos que seu testemunho é verdadeiro"). Este discípulo aparece na última ceia (13:23), na cruz (19:26–27), no túmulo vazio (20:2–10) e no epílogo (21:7, 20–24).
+O Evangelho afirma basear-se no testemunho de "o discípulo a quem Jesus amava" (ὁ μαθητής ὃν ἠγάπα ὁ Ἰησοῦς, 21:24: "Este é o discípulo que testifica sobre essas coisas e que escreveu essas coisas, e sabemos que seu testemunho é verdadeiro"). Este discípulo aparece na última ceia (13:23), na cruz (19:26–27), no túmulo vazio (20:2–10) e no epílogo (21:7, 20–24).
 
 O Evangelho não identifica este discípulo pelo nome. A identificação permanece uma inferência, não uma declaração textual. O plural da primeira pessoa "sabemos" em 21:24 sugere uma comunidade atestando o testemunho do discípulo, e a transição para "suponho" em 21:25 introduz ainda outra voz. O texto apresenta, portanto, uma situação autoral em camadas — um discípulo amado como fonte, uma comunidade como garantidora e pelo menos uma mão editorial.
 
 ### B2. Atribuição tradicional
 **[RECEPÇÃO POSTERIOR — DOCUMENTADO]**
 
-A atribuição do Quarto Evangelho a Yochanan (João) filho de Zebedeu tornou-se padrão a partir do final do segundo século:
+A atribuição do Quarto Evangelho a João filho de Zebedeu tornou-se padrão a partir do final do segundo século:
 
 - **Ireneu** (*Adversus Haereses* 3.1.1, c. 180 d.C.) afirma: "João, o discípulo do Senhor, que também se reclinou sobre seu peito, publicou ele mesmo o Evangelho, enquanto vivia em Éfeso na Ásia." Ireneu afirma ter recebido essa tradição através de Policarpo, que conheceu João.
 - **O Fragmento Muratoriano** (final do séc. II) atribui o Evangelho a João e acrescenta uma narrativa sobre sua composição.
@@ -152,9 +152,9 @@ P52 demonstra que o Evangelho de João circulava no Egito pelo início a meados 
 ### D1. Judaísmo pós-Templo
 **[HISTÓRICO / ARQUEOLÓGICO — PROVÁVEL]**
 
-O Evangelho de João reflete um mundo moldado pela destruição do Templo de Jerusalém em 70 d.C. As tensões entre a comunidade joanina e a sinagoga, visíveis nas passagens sobre *aposynagōgos* (9:22; 12:42; 16:2), pertencem ao período pós-70, quando tanto o judaísmo quanto o movimento de Yeshua estavam redefinindo suas identidades sem o Templo como centro institucional compartilhado.
+O Evangelho de João reflete um mundo moldado pela destruição do Templo de Jerusalém em 70 d.C. As tensões entre a comunidade joanina e a sinagoga, visíveis nas passagens sobre *aposynagōgos* (9:22; 12:42; 16:2), pertencem ao período pós-70, quando tanto o judaísmo quanto o movimento de Jesus estavam redefinindo suas identidades sem o Templo como centro institucional compartilhado.
 
-A teologia de substituição do Evangelho — na qual o próprio Yeshua se torna o novo templo (2:19–22), a nova fonte de água viva (4:10–14; 7:37–39) e a videira verdadeira — pode refletir esse contexto pós-Templo, embora os motivos teológicos provavelmente tenham raízes pré-70.
+A teologia de substituição do Evangelho — na qual o próprio Jesus se torna o novo templo (2:19–22), a nova fonte de água viva (4:10–14; 7:37–39) e a videira verdadeira — pode refletir esse contexto pós-Templo, embora os motivos teológicos provavelmente tenham raízes pré-70.
 
 ### D2. "Os Yehudim" em João
 **[TEXTUAL — PROVÁVEL]**
@@ -200,27 +200,21 @@ Contudo, a tradição efesina não é confirmada independentemente pelo próprio
 
 O texto grego do Evangelho de João foi transmitido através de uma cadeia de cópias ao longo de quase dois milênios:
 
-```
-Composição (c. 90–100 d.C.)
-     ↓
-Cópias primitivas (séc. II d.C.)
-  ├── P52 (c. 125 d.C.) — João 18:31–33, 37–38
-  ├── P66 (c. 200 d.C.) — Evangelho de João quase completo
-  └── P75 (c. 200–225 d.C.) — João 1–15 (+ Lucas)
-     ↓
-Grandes códices (séc. IV–V d.C.)
-  ├── Codex Sinaiticus (א, séc. IV)
-  ├── Codex Vaticanus (B, séc. IV)
-  ├── Codex Alexandrinus (A, séc. V)
-  └── Codex Bezae (D, séc. V)
-     ↓
-Tradição bizantina (séc. V–XV)
-     ↓
-Edições impressas
-  ├── Erasmo (1516)
-  ├── Tradição do Textus Receptus (séc. XVI–XIX)
-  └── Edições críticas: NA28 / UBS5 (padrão atual)
-```
+- Composição (c. 90–100 d.C.)
+- Cópias primitivas (séc. II d.C.):
+  - P52 (c. 125 d.C.) — João 18:31–33, 37–38
+  - P66 (c. 200 d.C.) — Evangelho de João quase completo
+  - P75 (c. 200–225 d.C.) — João 1–15 (+ Lucas)
+- Grandes códices (séc. IV–V d.C.):
+  - Codex Sinaiticus (א, séc. IV)
+  - Codex Vaticanus (B, séc. IV)
+  - Codex Alexandrinus (A, séc. V)
+  - Codex Bezae (D, séc. V)
+- Tradição bizantina (séc. V–XV)
+- Edições impressas:
+  - Erasmo (1516)
+  - Tradição do Textus Receptus (séc. XVI–XIX)
+  - Edições críticas: NA28 / UBS5 (padrão atual)
 
 ### E2. Principais testemunhos manuscritos
 **[HISTÓRICO / ARQUEOLÓGICO — VERIFICADO]**
@@ -258,18 +252,20 @@ Onde o texto é ambíguo ou onde existem variantes significativas, a TT segue a 
 ### F1. Regras ativas com aplicações específicas a João
 **[TEXTUAL — VERIFICADO]**
 
-As seguintes regras do conjunto de regras da TT (v3.0) têm incidência particular sobre o Evangelho de João:
+As seguintes regras do conjunto de regras da TT (v3.3) têm incidência particular sobre o Evangelho de João:
 
 | Regra | Nome | Aplicação específica a João |
 |-------|------|----------------------------|
-| 1 | Diretiva Principal | Não simplifique o que o grego deixa complexo. O prólogo do *logos* (1:1–18) preserva todo o campo semântico do termo sem colapsá-lo em uma única leitura teológica. |
-| 4 | Sem paráfrase interpretativa | Os ditos "Eu sou" são traduzidos sem importar definições cristológicas posteriores. ἐγώ εἰμι é traduzido como dito, não como teologizado. |
-| 7 | Preservar campo semântico | *Logos* como "palavra" e seu campo semântico mais amplo — a TT marca a amplitude em vez de escolher um sentido. |
+| *(sem número)* | Diretiva Principal | Não simplifique o que o grego deixa complexo. O prólogo do *logos* (1:1–18) preserva todo o campo semântico do termo sem colapsá-lo em uma única leitura teológica. |
+| 1 | Consistência Lexical Controlada | Termos do glossário travado (*logos*, *pneuma*, *charis*, *monogenēs*, *pascha*, etc.) são traduzidos consistentemente em todos os capítulos de João conforme glossário GS. |
+| 2 | Preservação de Ambiguidade | Traduções com barra (*vento/espírito*, *graça/favor*, *de cima/de novo*) preservam ambiguidade genuína do grego em vez de escolher um sentido. |
+| 4 | Transliterar Termos Estratégicos | Os ditos "Eu sou" são traduzidos, não transliterados — ἐγώ εἰμι tem conteúdo semântico traduzível. Limiar da Regra 4 não ultrapassado. |
+| 7 | Preservar Estrutura Paralela | Padrões de repetição joaninos (luz/trevas, vida/morte, acima/abaixo) são preservados entre passagens. |
 | 11 | Marcar adições gramaticais | Palavras adicionadas por exigência gramatical aparecem em itálico, distinguindo-as do conteúdo traduzido. |
 | 13 | Níveis de incerteza | Termos e passagens debatidos carregam rótulos de confiança (Provável / Possível / Incerto). |
-| 14 | Notas do texto-fonte | Termos gregos-chave preservados em transliteração onde semanticamente significativos. |
-| 22 | Sem títulos de seção interpretativos | Divisões de seção não impõem uma leitura ao texto. |
-| 25 | YHWH em forma consonantal | Não diretamente aplicável ao texto-fonte grego, mas relevante quando João cita passagens do AT com YHWH — ver Política do Nome Divino abaixo. |
+| 14 | Anotar Jogos de Palavras | Termos gregos-chave anotados em Nível 2 onde campo semântico ou jogo de palavras é significativo. |
+| 22 | Restrição Textual-Crítica | Variantes textuais (ex., João 1:18 μονογενὴς θεός vs. μονογενὴς υἱός, João 1:34) anotadas em Nível 2 sem adoção silenciosa. |
+| 25 | Política do Nome Divino — GS aplica Opção C | κύριος traduzido como "o Senhor" em contextos de citação do AT, com nota em Nível 2 identificando YHWH no hebraico subjacente. Ver Política do Nome Divino abaixo. |
 
 ### F2. Glossário fixo — termos das Escrituras Gregas ativos em João
 **[TEXTUAL — VERIFICADO]**
@@ -292,7 +288,7 @@ Quando o Evangelho de João cita ou alude a passagens da Bíblia Hebraica conten
 
 - O texto principal traduz *kyrios* como "o Senhor" em contextos de citação do AT.
 - Uma nota identifica a fonte do AT e declara que o hebraico subjacente contém o Tetragrama.
-- Quando *kyrios* se refere a Yeshua ou a um senhor humano (não uma citação do AT com YHWH), nenhuma nota sobre YHWH é necessária.
+- Quando *kyrios* se refere a Jesus ou a um senhor humano (não uma citação do AT com YHWH), nenhuma nota sobre YHWH é necessária.
 - Casos ambíguos são sinalizados conforme a Regra 13.
 
 Nenhum manuscrito grego do NT contém o Tetragrama. Colocar YHWH no texto principal de João seria traduzir uma palavra que não está ali — uma violação da Regra 22.
@@ -330,7 +326,7 @@ Conforme a política de transliteração da TT, nomes próprios-chave em João s
 A cláusula καὶ θεὸς ἦν ὁ λόγος (*kai theos ēn ho logos*) é sintaticamente precisa em grego, mas notoriamente difícil de traduzir em português. O θεός (*theos*, "Deus" sem artigo definido) anartro em posição predicativa gerou extenso debate gramatical e teológico. A TT traduz a cláusula e fornece nota sobre as opções sintáticas sem resolver o debate.
 
 **O *paraklētos*:**
-O termo παράκλητος (*paraklētos*, 14:16, 26; 15:26; 16:7) não tem um único equivalente em português. Seu campo semântico inclui "advogado," "auxiliador," "consolador" e "chamado ao lado." A TT traduz como "advogado" (conforme o glossário fixo) com notas sobre a amplitude total. O termo é exclusivo do corpus joanino no NT (também 1 João 2:1, aplicado ao próprio Yeshua).
+O termo παράκλητος (*paraklētos*, 14:16, 26; 15:26; 16:7) não tem um único equivalente em português. Seu campo semântico inclui "advogado," "auxiliador," "consolador" e "chamado ao lado." A TT traduz como "advogado" (conforme o glossário fixo) com notas sobre a amplitude total. O termo é exclusivo do corpus joanino no NT (também 1 João 2:1, aplicado ao próprio Jesus).
 
 **Linguagem dualística:**
 João emprega contrastes dualísticos pervasivos — luz/trevas, acima/abaixo, espírito/carne, vida/morte, verdade/mentira. Estes funcionam literária e teologicamente dentro do próprio quadro do Evangelho. A TT os traduz como o texto os apresenta, sem importar categorias gnósticas ou metafísicas posteriores.

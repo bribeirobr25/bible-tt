@@ -1,36 +1,706 @@
 import type {
+  ClaimType,
+  ConfidenceLevel,
+  CuriosityEntry,
+  GenerationEntry,
+  HistoricityStatus,
   OriginType,
   PeopleData,
   PersonEntry,
+  RegionByText,
 } from "@/domain/content/types";
 
 const ENTRY_HEADER = /^## (.+)$/;
-const FIELD_LINE = /^\*\*(.+?):\*\*\s*(.+)$/;
+const FIELD_LINE = /^\*\*(.+?):\*\*\s*(.*)$/;
+const SUBSECTION_HEADER = /^### (.+)$/;
+const CURIOSITY_HEADER = /^#### (.+)$/;
+
+// H2 names matching any of these patterns are NOT person entries.
+const SKIP_NAME_PATTERNS: RegExp[] = [
+  /^H\./,
+  /Summary Table/i,
+  /Genealogy \(Gen/i,
+  /^Sources/i,
+  /^Quellen/i,
+  /^Fuentes/i,
+  /Tabela/i,
+  /Genealogia/i,
+  /Stammbaum/i,
+  /Transparent Translation/i, // Phase 1A — even if the H2 has not been stripped yet
+  /Tradução Transparente/i,
+  /Transparente Übersetzung/i,
+  /Traducción Transparente/i,
+];
+
+type FieldId =
+  | "nameMeaning"
+  | "originType"
+  | "birthYear"
+  | "deathYear"
+  | "lifespan"
+  | "ageAtFatherhood"
+  | "father"
+  | "mother"
+  | "spouses"
+  | "children"
+  | "siblings"
+  | "inLaws"
+  | "locations"
+  | "firstMention"
+  | "mentionedIn"
+  | "keyEvents"
+  | "familiarName"
+  | "profession"
+  | "socialClass"
+  | "hometown"
+  | "placesLived"
+  | "causeOfDeath"
+  | "languagesSpoken"
+  | "archaeologicalEvidence"
+  | "extraBiblicalMentions"
+  | "historicityStatus"
+  | "booksAppearingIn"
+  | "keySpeeches"
+  | "characterArc"
+  | "yearFromCreation"
+  | "yearFromCreationEnd"
+  | "historicalYear"
+  | "historicalYearEnd"
+  | "generationsFrom"
+  | "regionsByText";
+
+// Per-field exact-match aliases.
+//
+// Resolution strategy (resolves AUDIT §4.1):
+//   1. Lower-case the label, strip trailing colon and whitespace.
+//   2. Look up in the EXACT_LOOKUP map. If hit, dispatch — done.
+//   3. Otherwise, walk FALLBACK_PATTERNS (longest-alias first) and use
+//      substring containment as a fallback. This handles file labels we
+//      have not yet seen explicitly without the substring-collision bug,
+//      because more-specific aliases are always tested first.
+//
+// Aliases are drawn from the actual field labels observed in
+// content/{en,pt-br,de,es}/{genesis,matthew}/PEOPLE.md as of 2026-05-08.
+// Add new locale labels here when they appear.
+const EXACT_LABEL_ALIASES: Record<FieldId, string[]> = {
+  nameMeaning: ["meaning", "significado", "bedeutung"],
+  originType: ["origin", "origem", "ursprung", "herkunft", "origen"],
+  birthYear: [
+    "birth year",
+    "ano de nascimento",
+    "geburtsjahr",
+    "año de nacimiento",
+  ],
+  deathYear: ["death year", "ano de morte", "todesjahr", "año de muerte"],
+  lifespan: ["lifespan", "tempo de vida", "lebensdauer", "tiempo de vida"],
+  ageAtFatherhood: [
+    "age when became father",
+    "age at fatherhood",
+    "idade ao tornar-se pai",
+    "idade ao ser pai",
+    "idade ao tornar-se mãe",
+    "alter bei erster vaterschaft",
+    "alter bei vaterschaft",
+    "alter bei erster mutterschaft",
+    "alter bei mutterschaft",
+    "edad al hacerse padre",
+    "edad al ser padre",
+    "edad al hacerse madre",
+  ],
+  father: ["father", "pai", "vater", "padre"],
+  mother: ["mother", "mãe", "mutter", "madre"],
+  spouses: [
+    "spouse(s)",
+    "spouse",
+    "cônjuge(s)",
+    "cônjuge",
+    "ehepartner",
+    "cónyuge(s)",
+    "cónyuge",
+  ],
+  children: ["children", "filhos", "kinder", "hijos"],
+  siblings: ["siblings", "irmãos", "geschwister", "hermanos"],
+  inLaws: [
+    "in-laws",
+    "parentes por afinidade",
+    "angeheiratete",
+    "parientes políticos",
+  ],
+  locations: [
+    "location(s)",
+    "locations",
+    "local(is)",
+    "ort(e)",
+    "ubicación(es)",
+    "ubicación",
+    "ubicaciones",
+  ],
+  firstMention: [
+    "first mention",
+    "primeira menção",
+    "erste erwähnung",
+    "primera mención",
+  ],
+  mentionedIn: ["mentioned in", "mencionado em", "erwähnt in", "mencionado en"],
+  keyEvents: [
+    "key events",
+    "eventos-chave",
+    "eventos clave",
+    "wichtige ereignisse",
+  ],
+  familiarName: [
+    "familiar name",
+    "nome familiar",
+    "vertrauter name",
+    "nombre familiar",
+  ],
+  profession: ["profession", "profissão", "beruf", "profesión"],
+  socialClass: [
+    "social class",
+    "classe social",
+    "gesellschaftliche schicht",
+    "soziale klasse",
+    "clase social",
+  ],
+  hometown: [
+    "hometown",
+    "cidade natal",
+    "heimatort",
+    "heimatstadt",
+    "ciudad natal",
+  ],
+  placesLived: [
+    "places lived",
+    "locais onde viveu",
+    "orte, an denen er lebte",
+    "orte, an denen sie lebte",
+    "lebensorte",
+    "lugares donde vivió",
+    "lugares vividos",
+  ],
+  causeOfDeath: [
+    "cause of death",
+    "causa da morte",
+    "todesursache",
+    "causa de muerte",
+  ],
+  languagesSpoken: [
+    "languages spoken",
+    "languages",
+    "idiomas falados",
+    "sprachen",
+    "lenguas",
+  ],
+  archaeologicalEvidence: [
+    "archaeological evidence",
+    "evidência arqueológica",
+    "archäologische belege",
+    "archäologische evidenz",
+    "evidencia arqueológica",
+  ],
+  extraBiblicalMentions: [
+    "extra-biblical mentions",
+    "menções extra-bíblicas",
+    "außerbiblische erwähnungen",
+    "menciones extrabíblicas",
+    "menciones extra-bíblicas",
+  ],
+  historicityStatus: [
+    "historicity status",
+    "status de historicidade",
+    "historischer status",
+    "estado de historicidad",
+  ],
+  booksAppearingIn: [
+    "books appearing in",
+    "livros em que aparece",
+    "bücher, in denen er vorkommt",
+    "bücher, in denen sie vorkommt",
+    "libros en que aparece",
+  ],
+  keySpeeches: [
+    "key speeches",
+    "discursos importantes",
+    "wichtige reden",
+    "discursos clave",
+  ],
+  characterArc: [
+    "character arc",
+    "arco do personagem",
+    "charakterbogen",
+    "charakterentwicklung",
+    "arco del personaje",
+  ],
+  yearFromCreation: [
+    "year from creation",
+    "ano desde a criação",
+    "jahr seit der schöpfung",
+    "año desde la creación",
+  ],
+  yearFromCreationEnd: [
+    "year from creation end",
+    "year from creation — end",
+    "ano desde a criação — fim",
+    "jahr seit der schöpfung — ende",
+    "año desde la creación — fin",
+  ],
+  historicalYear: [
+    "historical year",
+    "ano histórico",
+    "historisches jahr",
+    "año histórico",
+  ],
+  historicalYearEnd: [
+    "historical year end",
+    "historical year — end",
+    "ano histórico — fim",
+    "historisches jahr — ende",
+    "año histórico — fin",
+  ],
+  generationsFrom: [
+    "generations from",
+    "gerações de",
+    "gerações desde",
+    "generationen seit",
+    "generationen ab",
+    "generaciones desde",
+  ],
+  regionsByText: [
+    "regions by text",
+    "regiões por texto",
+    "regionen laut text",
+    "regiones por texto",
+  ],
+};
+
+// Build O(1) exact lookup at module load.
+const EXACT_LOOKUP: Map<string, FieldId> = (() => {
+  const m = new Map<string, FieldId>();
+  for (const fieldKey of Object.keys(EXACT_LABEL_ALIASES) as FieldId[]) {
+    for (const alias of EXACT_LABEL_ALIASES[fieldKey]) {
+      m.set(alias, fieldKey);
+    }
+  }
+  return m;
+})();
+
+// Sorted by length desc for fallback substring matching (longest first).
+const FALLBACK_PATTERNS: Array<{ alias: string; field: FieldId }> = (() => {
+  const all: Array<{ alias: string; field: FieldId }> = [];
+  for (const fieldKey of Object.keys(EXACT_LABEL_ALIASES) as FieldId[]) {
+    for (const alias of EXACT_LABEL_ALIASES[fieldKey]) {
+      all.push({ alias, field: fieldKey });
+    }
+  }
+  return all.sort((a, b) => b.alias.length - a.alias.length);
+})();
+
+function normalizeLabel(label: string): string {
+  return label.trim().toLowerCase();
+}
+
+function resolveField(label: string): FieldId | undefined {
+  const norm = normalizeLabel(label);
+  const exact = EXACT_LOOKUP.get(norm);
+  if (exact) return exact;
+  for (const { alias, field } of FALLBACK_PATTERNS) {
+    if (norm.includes(alias)) return field;
+  }
+  return undefined;
+}
 
 function parseOriginType(raw: string): OriginType {
   const n = raw.trim().toUpperCase();
-  if (n.includes("BORN") || n.includes("NASCIDO") || n.includes("NASCIDA") || n.includes("GEBOREN") || n.includes("NACIDO") || n.includes("NACIDA")) return "BORN";
-  if (n.includes("CREATED") || n.includes("CRIADO") || n.includes("CRIADA") || n.includes("ERSCHAFFEN") || n.includes("CREADO") || n.includes("CREADA")) return "CREATED";
-  if (n.includes("APPEARS") || n.includes("APARECE") || n.includes("ERSCHEINT")) return "APPEARS";
+  if (
+    n.includes("BORN") ||
+    n.includes("NASCID") ||
+    n.includes("GEBOREN") ||
+    n.includes("NACID")
+  )
+    return "BORN";
+  if (
+    n.includes("CREATED") ||
+    n.includes("CRIAD") ||
+    n.includes("ERSCHAFFEN") ||
+    n.includes("CREAD")
+  )
+    return "CREATED";
+  if (n.includes("APPEARS") || n.includes("APARECE") || n.includes("ERSCHEINT"))
+    return "APPEARS";
   return "UNCERTAIN";
 }
 
-export function parsePeopleMarkdown(
-  raw: string,
-  book: string,
-): PeopleData {
+function parseHistoricityStatus(raw: string): HistoricityStatus {
+  const n = raw.trim().toUpperCase();
+  if (
+    n.includes("VERIFIED") ||
+    n.includes("VERIFICADO") ||
+    n.includes("VERIFIZIERT")
+  )
+    return "VERIFIED";
+  if (
+    n.includes("PROBABLE") ||
+    n.includes("PROVÁVEL") ||
+    n.includes("WAHRSCHEINLICH")
+  )
+    return "PROBABLE";
+  if (
+    n.includes("POSSIBLE") ||
+    n.includes("POSSÍVEL") ||
+    n.includes("MÖGLICH") ||
+    n.includes("POSIBLE")
+  )
+    return "POSSIBLE";
+  if (
+    n.includes("LITERARY") ||
+    n.includes("LITERÁRIO") ||
+    n.includes("LITERARISCH") ||
+    n.includes("LITERARIO")
+  )
+    return "LITERARY";
+  return "UNCERTAIN";
+}
+
+function parseInt10(raw: string): number | undefined {
+  const n = Number.parseInt(raw, 10);
+  return Number.isNaN(n) ? undefined : n;
+}
+
+const CLAIM_TYPES: ClaimType[] = [
+  "TEXTUAL",
+  "STRONG INFERENCE",
+  "POSSIBLE INFERENCE",
+  "COMPARATIVE PARALLEL",
+  "LATER RECEPTION",
+  "HISTORICAL / ARCHAEOLOGICAL",
+  "SCIENTIFIC COMPARISON",
+  "SPECULATION",
+];
+
+const CONFIDENCE_LEVELS: ConfidenceLevel[] = [
+  "VERIFIED",
+  "PROBABLE",
+  "POSSIBLE",
+  "UNCERTAIN",
+  "SPECULATIVE",
+  "DOCUMENTED",
+];
+
+function parseClaimType(raw: string): ClaimType {
+  const n = raw.trim().toUpperCase();
+  for (const ct of CLAIM_TYPES) {
+    if (n === ct) return ct;
+  }
+  // Lenient match
+  if (n.includes("TEXTUAL")) return "TEXTUAL";
+  if (n.includes("STRONG")) return "STRONG INFERENCE";
+  if (n.includes("POSSIBLE INFERENCE")) return "POSSIBLE INFERENCE";
+  if (n.includes("COMPARATIVE")) return "COMPARATIVE PARALLEL";
+  if (n.includes("RECEPTION")) return "LATER RECEPTION";
+  if (n.includes("HISTORICAL") || n.includes("ARCHAEOLOG"))
+    return "HISTORICAL / ARCHAEOLOGICAL";
+  if (n.includes("SCIENTIFIC")) return "SCIENTIFIC COMPARISON";
+  if (n.includes("SPECULATION")) return "SPECULATION";
+  return "TEXTUAL";
+}
+
+function parseConfidence(raw: string): ConfidenceLevel {
+  const n = raw.trim().toUpperCase();
+  for (const cl of CONFIDENCE_LEVELS) {
+    if (n === cl) return cl;
+  }
+  if (
+    n.includes("VERIFIED") ||
+    n.includes("VERIFICADO") ||
+    n.includes("VERIFIZIERT")
+  )
+    return "VERIFIED";
+  if (
+    n.includes("PROBABLE") ||
+    n.includes("PROVÁVEL") ||
+    n.includes("WAHRSCHEINLICH")
+  )
+    return "PROBABLE";
+  if (
+    n.includes("POSSIBLE") ||
+    n.includes("POSSÍVEL") ||
+    n.includes("MÖGLICH") ||
+    n.includes("POSIBLE")
+  )
+    return "POSSIBLE";
+  if (
+    n.includes("DOCUMENTED") ||
+    n.includes("DOCUMENTADO") ||
+    n.includes("DOKUMENTIERT")
+  )
+    return "DOCUMENTED";
+  if (n.includes("SPECULATIVE")) return "SPECULATIVE";
+  if (
+    n.includes("UNCERTAIN") ||
+    n.includes("INCERTO") ||
+    n.includes("UNGEWISS") ||
+    n.includes("INCIERTO")
+  )
+    return "UNCERTAIN";
+  return "UNCERTAIN";
+}
+
+// Parses "adam (15, via Seth, Gen 5); noach (5, via Shem)" into GenerationEntry[]
+function parseGenerationsFrom(raw: string): GenerationEntry[] {
+  const result: GenerationEntry[] = [];
+  for (const segment of raw.split(";")) {
+    const m = segment.trim().match(/^(\S+)\s*\(([^)]+)\)\s*$/);
+    if (!m) continue;
+    const reference = m[1].trim().toLowerCase();
+    const inner = m[2].split(",").map((s) => s.trim());
+    if (inner.length === 0) continue;
+    const count = Number.parseInt(inner[0], 10);
+    if (Number.isNaN(count)) continue;
+    const entry: GenerationEntry = { reference, count };
+    if (inner.length >= 2) entry.line = inner[1];
+    if (inner.length >= 3) entry.source = inner.slice(2).join(", ");
+    result.push(entry);
+  }
+  return result;
+}
+
+// Parses "Cush (Gen 10:6, DOCUMENTED); Mitsrayim (Gen 10:6, DOCUMENTED)" into RegionByText[]
+function parseRegionsByText(raw: string): RegionByText[] {
+  const result: RegionByText[] = [];
+  for (const segment of raw.split(";")) {
+    const m = segment.trim().match(/^([^()]+?)\s*\(([^)]+)\)\s*$/);
+    if (!m) continue;
+    const region = m[1].trim();
+    const parts = m[2].split(",").map((s) => s.trim());
+    if (parts.length === 0) continue;
+    const verse = parts[0];
+    const confidence: ConfidenceLevel =
+      parts.length >= 2 ? parseConfidence(parts[1]) : "DOCUMENTED";
+    const note = parts.length >= 3 ? parts.slice(2).join(", ") : undefined;
+    result.push({ region, verse, confidence, note });
+  }
+  return result;
+}
+
+function isSkipName(name: string): boolean {
+  return SKIP_NAME_PATTERNS.some((re) => re.test(name));
+}
+
+// Curiosity heading match across locales (via flexible text match)
+function isCuriosityHeading(headingText: string): boolean {
+  const n = headingText.trim().toLowerCase();
+  return (
+    n === "curiosities" ||
+    n === "curiosidades" ||
+    n === "kuriositäten" ||
+    n === "kuriositaeten"
+  );
+}
+
+// Strip surrounding asterisks from a value (e.g. **TEXTUAL** → TEXTUAL)
+function stripBold(s: string): string {
+  return s.replace(/^\*+|\*+$/g, "").trim();
+}
+
+interface ParseState {
+  current: Partial<PersonEntry> | null;
+  inCuriosities: boolean;
+  curiosity: Partial<CuriosityEntry> | null;
+}
+
+function applyField(
+  current: Partial<PersonEntry>,
+  field: FieldId,
+  value: string,
+): void {
+  switch (field) {
+    case "nameMeaning":
+      current.nameMeaning = value;
+      break;
+    case "originType":
+      current.originType = parseOriginType(value);
+      break;
+    case "birthYear":
+      current.birthYear = value;
+      break;
+    case "deathYear":
+      current.deathYear = value;
+      break;
+    case "lifespan":
+      current.lifespan = value;
+      break;
+    case "ageAtFatherhood":
+      current.ageAtFatherhood = value;
+      break;
+    case "father":
+      current.father = value;
+      break;
+    case "mother":
+      current.mother = value;
+      break;
+    case "spouses":
+      current.spouses = value
+        .split(",")
+        .map((s) => s.trim())
+        .filter(Boolean);
+      break;
+    case "children":
+      current.children = value
+        .split(",")
+        .map((s) => s.trim())
+        .filter(Boolean);
+      break;
+    case "siblings":
+      current.siblings = value
+        .split(",")
+        .map((s) => s.trim())
+        .filter(Boolean);
+      break;
+    case "inLaws":
+      current.inLaws = value
+        .split(",")
+        .map((s) => s.trim())
+        .filter(Boolean);
+      break;
+    case "locations":
+      current.locations = value
+        .split(",")
+        .map((s) => s.trim())
+        .filter(Boolean);
+      break;
+    case "firstMention":
+      current.firstMention = value;
+      break;
+    case "mentionedIn":
+      current.mentionedIn = value
+        .split(",")
+        .map((s) => s.trim())
+        .filter(Boolean);
+      break;
+    case "keyEvents":
+      current.keyEvents = value
+        .split(";")
+        .map((s) => s.trim())
+        .filter(Boolean);
+      break;
+    case "familiarName":
+      current.familiarName = value;
+      break;
+    case "profession":
+      current.profession = value;
+      break;
+    case "socialClass":
+      current.socialClass = value;
+      break;
+    case "hometown":
+      current.hometown = value;
+      break;
+    case "placesLived":
+      current.placesLived = value
+        .split(",")
+        .map((s) => s.trim())
+        .filter(Boolean);
+      break;
+    case "causeOfDeath":
+      current.causeOfDeath = value;
+      break;
+    case "languagesSpoken":
+      current.languagesSpoken = value
+        .split(",")
+        .map((s) => s.trim())
+        .filter(Boolean);
+      break;
+    case "archaeologicalEvidence":
+      current.archaeologicalEvidence = value;
+      break;
+    case "extraBiblicalMentions":
+      current.extraBiblicalMentions = value;
+      break;
+    case "historicityStatus":
+      current.historicityStatus = parseHistoricityStatus(value);
+      break;
+    case "booksAppearingIn":
+      current.booksAppearingIn = value
+        .split(",")
+        .map((s) => s.trim())
+        .filter(Boolean);
+      break;
+    case "keySpeeches":
+      current.keySpeeches = value
+        .split(";")
+        .map((s) => s.trim())
+        .filter(Boolean);
+      break;
+    case "characterArc":
+      current.characterArc = value;
+      break;
+    case "yearFromCreation":
+      current.yearFromCreation = parseInt10(value);
+      current.timelineAnchor = "creation";
+      break;
+    case "yearFromCreationEnd":
+      current.yearFromCreationEnd = parseInt10(value);
+      break;
+    case "historicalYear":
+      current.historicalYear = parseInt10(value);
+      current.timelineAnchor = "historical";
+      break;
+    case "historicalYearEnd":
+      current.historicalYearEnd = parseInt10(value);
+      break;
+    case "generationsFrom":
+      current.generationsFrom = parseGenerationsFrom(value);
+      break;
+    case "regionsByText":
+      current.regionsByText = parseRegionsByText(value);
+      break;
+  }
+}
+
+function flushCuriosity(state: ParseState): void {
+  if (!state.curiosity || !state.current) return;
+  const c = state.curiosity;
+  if (!c.title || !c.claimType || !c.confidence || !c.content) {
+    state.curiosity = null;
+    return;
+  }
+  if (!state.current.curiosities) state.current.curiosities = [];
+  state.current.curiosities.push({
+    title: c.title,
+    claimType: c.claimType,
+    confidence: c.confidence,
+    content: c.content,
+    source: c.source,
+  });
+  state.curiosity = null;
+}
+
+function flushEntry(state: ParseState, entries: PersonEntry[]): void {
+  flushCuriosity(state);
+  if (state.current?.name) {
+    entries.push(finalizeEntry(state.current));
+  }
+  state.current = null;
+  state.inCuriosities = false;
+}
+
+export function parsePeopleMarkdown(raw: string, book: string): PeopleData {
   const lines = raw.split("\n");
   const entries: PersonEntry[] = [];
-  let current: Partial<PersonEntry> | null = null;
+  const state: ParseState = {
+    current: null,
+    inCuriosities: false,
+    curiosity: null,
+  };
 
   for (const line of lines) {
+    // Entry boundary (H2)
     const entryMatch = line.match(ENTRY_HEADER);
     if (entryMatch) {
-      if (current && current.name) {
-        entries.push(finalizeEntry(current));
-      }
       const name = entryMatch[1].trim();
-      current = {
+      flushEntry(state, entries);
+      if (isSkipName(name)) continue;
+      state.current = {
         name,
         slug: name.toLowerCase().replace(/\s+/g, "-"),
         originType: "UNCERTAIN",
@@ -39,46 +709,76 @@ export function parsePeopleMarkdown(
       continue;
     }
 
-    if (!current) continue;
+    if (!state.current) continue;
 
-    const fieldMatch = line.match(FIELD_LINE);
-    if (fieldMatch) {
-      const key = fieldMatch[1].trim().toLowerCase();
-      const value = fieldMatch[2].trim();
+    // H3 — subsection within an entry
+    const subMatch = line.match(SUBSECTION_HEADER);
+    if (subMatch) {
+      flushCuriosity(state);
+      state.inCuriosities = isCuriosityHeading(subMatch[1]);
+      continue;
+    }
 
-      if (key.includes("meaning") || key.includes("significado") || key.includes("bedeutung")) {
-        current.nameMeaning = value;
-      } else if (key.includes("origin") || key.includes("origem") || key.includes("ursprung") || key.includes("herkunft") || key.includes("origen")) {
-        current.originType = parseOriginType(value);
-      } else if (key.includes("birth") || key.includes("nascimento") || key.includes("geburt") || key.includes("nacimiento")) {
-        current.birthYear = value;
-      } else if (key.includes("death") || key.includes("morte") || key.includes("tod") || key.includes("muerte")) {
-        current.deathYear = value;
-      } else if (key.includes("lifespan") || key.includes("vida") || key.includes("lebensdauer")) {
-        current.lifespan = value;
-      } else if (key.includes("father") || key.includes("pai") || key.includes("vater") || key.includes("padre")) {
-        current.father = value;
-      } else if (key.includes("mother") || key.includes("mãe") || key.includes("mutter") || key.includes("madre")) {
-        current.mother = value;
-      } else if (key.includes("spouse") || key.includes("cônjuge") || key.includes("ehepartner") || key.includes("cónyuge")) {
-        current.spouses = value.split(",").map((s) => s.trim());
-      } else if (key.includes("children") || key.includes("filhos") || key.includes("kinder") || key.includes("hijos")) {
-        current.children = value.split(",").map((s) => s.trim());
-      } else if (key.includes("location") || key.includes("local") || key.includes("ort") || key.includes("ubicación")) {
-        current.locations = value.split(",").map((s) => s.trim());
-      } else if (key.includes("first mention") || key.includes("primeira menção") || key.includes("erste erwähnung") || key.includes("primera mención")) {
-        current.firstMention = value;
-      } else if (key.includes("mentioned in") || key.includes("mencionado em") || key.includes("erwähnt in") || key.includes("mencionado en")) {
-        current.mentionedIn = value.split(",").map((s) => s.trim());
-      } else if (key.includes("key events") || key.includes("eventos") || key.includes("ereignisse")) {
-        current.keyEvents = value.split(";").map((s) => s.trim());
+    // H4 — only meaningful inside a Curiosities subsection
+    const curMatch = line.match(CURIOSITY_HEADER);
+    if (curMatch) {
+      if (state.inCuriosities) {
+        flushCuriosity(state);
+        state.curiosity = { title: curMatch[1].trim() };
       }
+      continue;
+    }
+
+    // Field line
+    const fieldMatch = line.match(FIELD_LINE);
+    if (!fieldMatch) continue;
+    const labelRaw = fieldMatch[1];
+    const value = fieldMatch[2].trim();
+
+    // Inside a curiosity, fields populate the curiosity, not the entry
+    if (state.inCuriosities && state.curiosity) {
+      const norm = normalizeLabel(labelRaw);
+      if (
+        norm === "claim type" ||
+        norm === "tipo de afirmação" ||
+        norm === "anspruchstyp" ||
+        norm === "tipo de afirmación"
+      ) {
+        state.curiosity.claimType = parseClaimType(stripBold(value));
+      } else if (
+        norm === "confidence" ||
+        norm === "confiança" ||
+        norm === "konfidenz" ||
+        norm === "confianza"
+      ) {
+        state.curiosity.confidence = parseConfidence(stripBold(value));
+      } else if (
+        norm === "content" ||
+        norm === "conteúdo" ||
+        norm === "inhalt" ||
+        norm === "contenido"
+      ) {
+        state.curiosity.content = value;
+      } else if (
+        norm === "source" ||
+        norm === "fonte" ||
+        norm === "quelle" ||
+        norm === "fuente"
+      ) {
+        state.curiosity.source = value;
+      }
+      continue;
+    }
+
+    // Otherwise, dispatch to entry field
+    const fieldId = resolveField(labelRaw);
+    if (fieldId) {
+      applyField(state.current, fieldId, value);
     }
   }
 
-  if (current && current.name) {
-    entries.push(finalizeEntry(current));
-  }
+  // Flush trailing entry/curiosity
+  flushEntry(state, entries);
 
   return { book, entries };
 }
@@ -87,6 +787,7 @@ function finalizeEntry(raw: Partial<PersonEntry>): PersonEntry {
   return {
     slug: raw.slug || raw.name?.toLowerCase().replace(/\s+/g, "-") || "",
     name: raw.name || "",
+    familiarName: raw.familiarName,
     nameMeaning: raw.nameMeaning,
     originType: raw.originType || "UNCERTAIN",
     birthYear: raw.birthYear,
@@ -96,9 +797,33 @@ function finalizeEntry(raw: Partial<PersonEntry>): PersonEntry {
     mother: raw.mother,
     spouses: raw.spouses,
     children: raw.children,
+    siblings: raw.siblings,
     locations: raw.locations,
     firstMention: raw.firstMention || "",
     mentionedIn: raw.mentionedIn || [],
     keyEvents: raw.keyEvents,
+    profession: raw.profession,
+    socialClass: raw.socialClass,
+    hometown: raw.hometown,
+    placesLived: raw.placesLived,
+    ageAtFatherhood: raw.ageAtFatherhood,
+    causeOfDeath: raw.causeOfDeath,
+    languagesSpoken: raw.languagesSpoken,
+    inLaws: raw.inLaws,
+    archaeologicalEvidence: raw.archaeologicalEvidence,
+    extraBiblicalMentions: raw.extraBiblicalMentions,
+    historicityStatus: raw.historicityStatus,
+    booksAppearingIn: raw.booksAppearingIn,
+    keySpeeches: raw.keySpeeches,
+    verseCount: raw.verseCount,
+    characterArc: raw.characterArc,
+    timelineAnchor: raw.timelineAnchor,
+    yearFromCreation: raw.yearFromCreation,
+    yearFromCreationEnd: raw.yearFromCreationEnd,
+    historicalYear: raw.historicalYear,
+    historicalYearEnd: raw.historicalYearEnd,
+    curiosities: raw.curiosities,
+    generationsFrom: raw.generationsFrom,
+    regionsByText: raw.regionsByText,
   };
 }

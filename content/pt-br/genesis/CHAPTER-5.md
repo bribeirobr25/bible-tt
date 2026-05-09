@@ -7,10 +7,11 @@
 **Texto Base:** Biblia Hebraica Stuttgartensia, 5ª ed. rev. (Stuttgart: Deutsche Bibelgesellschaft, 1997)
 **Edição:** Edição Transparente
 **Idioma:** Português Brasileiro
-**Metodologia:** Sistema de Governança de 29 Regras (Conjunto de Regras v3.0)
-**Política do Nome Divino (Regra 25):** Opção A — Consonantal (YHWH). Não acionada neste capítulo (apenas Elohim é usado).
+**Metodologia:** Sistema de Governança de 29 Regras (Conjunto de Regras v3.3)
+**Política do Nome Divino (Regra 25):** Opção A — Consonantal (YHWH). Acionada no v.29 (fala de Lemekh (Lameque)); caso contrário, apenas Elohim é usado ao longo do capítulo.
 **Status:** provisório — aguardando revisão por pares (Regra 28)
 **Revisores:** Hebraísta: não atribuído | Editor PT: não atribuído | Alinhamento cruzado: não atribuído
+**Relação com Almeida (Regra CORE):** Opção B — Reconhecimento seletivo. Notam-se convergências/divergências em materiais suplementares.
 
 ---
 
@@ -43,13 +44,13 @@
 
 ## VISÃO GERAL DO CAPÍTULO
 
-**O que acontece:** O *toledot* de Adão — uma genealogia de dez gerações de Adão a Noach, estruturada por uma fórmula travada: "X viveu Y anos, gerou Z, viveu W anos mais, gerou filhos e filhas, todos os seus dias foram N anos, e morreu." Duas entradas quebram a fórmula: Chanokh ("ele não foi mais, porque Deus o tomou") e Noach (cuja entrada faz a transição para a narrativa do dilúvio).
+**O que acontece:** O *toledot* de Adão — uma genealogia de dez gerações de Adão a Noach (Noé), estruturada por uma fórmula travada: "X viveu Y anos, gerou Z, viveu W anos mais, gerou filhos e filhas, todos os seus dias foram N anos, e morreu." Duas entradas quebram a fórmula: Chanokh (Enoque) ("ele não foi mais, porque Deus o tomou") e Noé (cuja entrada faz a transição para a narrativa do dilúvio).
 
-**Temas-chave:** O *sefer toledot* (livro das gerações) — o único *toledot* com o prefixo "livro"; a cadeia imagem/semelhança (Deus, Adão, Shet); o refrão implacável "e morreu"; a translação de Chanokh — "andou com Deus" e "não foi mais"; a etimologia do nome de Noach (*nacham*, conforto/arrependimento); longevidades extraordinárias (365–969 anos).
+**Temas-chave:** O *sefer toledot* (livro das gerações) — o único *toledot* com o prefixo "livro"; a cadeia imagem/semelhança (Deus, Adão, Shet (Sete)); o refrão implacável "e morreu"; a translação de Enoque — "andou com Deus" e "não foi mais"; a etimologia do nome de Noé (*nacham*, conforto/arrependimento); longevidades extraordinárias (365–969 anos).
 
-**Observe:** Chanokh é o sétimo a partir de Adão (paralelo a Enmeduranki, sétimo rei antediluviano na tradição suméria); Chanokh vive 365 anos (número do ano solar, o mais curto da lista); o ano da morte de Metushelach coincide exatamente com o ano do dilúvio pela aritmética do próprio texto; o capítulo usa *Elohim* ao longo de todo o texto, exceto no v.29, onde a fala de Lemekh nomeia YHWH.
+**Observe:** Enoque é o sétimo a partir de Adão (paralelo a Enmeduranki, sétimo rei antediluviano na tradição suméria); Enoque vive 365 anos (número do ano solar, o mais curto da lista); o ano da morte de Metushelach (Matusalém) coincide exatamente com o ano do dilúvio pela aritmética do próprio texto; o capítulo usa *Elohim* ao longo de todo o texto, exceto no v.29, onde a fala de Lemekh (Lameque) nomeia YHWH.
 
-**Conexão:** Lemekh dá o nome Noach com uma esperança vinculada ao solo amaldiçoado (5:29, ecoando 3:17). A raiz *nacham* no nome de Noach reaparece em 6:6 como "arrependimento" divino — conforto e arrependimento compartilhando a mesma raiz.
+**Conexão:** Lameque dá o nome Noé com uma esperança vinculada ao solo amaldiçoado (5:29, ecoando 3:17). A raiz *nacham* no nome de Noé reaparece em 6:6 como "arrependimento" divino — conforto e arrependimento compartilhando a mesma raiz.
 
 ---
 
@@ -59,25 +60,25 @@
 
 ---
 
-¹Este *é* o livro das gerações de Adão. No dia em que Deus criou *um* humano, à semelhança de Deus ele o fez. ²Macho e fêmea ele os criou, e os abençoou, e chamou o nome deles Humano no dia em que foram criados. ³E Adão viveu cento e trinta anos, e gerou à sua semelhança, conforme a sua imagem, e chamou o seu nome Shet. ⁴E os dias de Adão depois que gerou Shet *foram* oitocentos anos, e gerou filhos e filhas. ⁵E todos os dias de Adão que ele viveu *foram* novecentos e trinta anos, e morreu.
+¹Este *é* o livro das gerações de Adão. No dia em que Deus criou *um* humano, à semelhança de Deus ele o fez. ²Macho e fêmea ele os criou, e os abençoou, e chamou o nome deles Humano no dia em que foram criados. ³E Adão viveu cento e trinta anos, e gerou à sua semelhança, conforme a sua imagem, e chamou o seu nome Shet (Sete). ⁴E os dias de Adão depois que gerou Sete foram oitocentos anos, e gerou filhos e filhas. ⁵E todos os dias de Adão que ele viveu foram novecentos e trinta anos, e morreu.
 
-⁶E Shet viveu cento e cinco anos, e gerou Enosh. ⁷E Shet viveu depois que gerou Enosh oitocentos e sete anos, e gerou filhos e filhas. ⁸E todos os dias de Shet *foram* novecentos e doze anos, e morreu.
+⁶E Sete viveu cento e cinco anos, e gerou Enosh. ⁷E Sete viveu depois que gerou Enosh oitocentos e sete anos, e gerou filhos e filhas. ⁸E todos os dias de Sete foram novecentos e doze anos, e morreu.
 
-⁹E Enosh viveu noventa anos, e gerou Qenan. ¹⁰E Enosh viveu depois que gerou Qenan oitocentos e quinze anos, e gerou filhos e filhas. ¹¹E todos os dias de Enosh *foram* novecentos e cinco anos, e morreu.
+⁹E Enosh viveu noventa anos, e gerou Qenan. ¹⁰E Enosh viveu depois que gerou Qenan oitocentos e quinze anos, e gerou filhos e filhas. ¹¹E todos os dias de Enosh foram novecentos e cinco anos, e morreu.
 
-¹²E Qenan viveu setenta anos, e gerou Mahalalel. ¹³E Qenan viveu depois que gerou Mahalalel oitocentos e quarenta anos, e gerou filhos e filhas. ¹⁴E todos os dias de Qenan *foram* novecentos e dez anos, e morreu.
+¹²E Qenan viveu setenta anos, e gerou Mahalalel. ¹³E Qenan viveu depois que gerou Mahalalel oitocentos e quarenta anos, e gerou filhos e filhas. ¹⁴E todos os dias de Qenan foram novecentos e dez anos, e morreu.
 
-¹⁵E Mahalalel viveu sessenta e cinco anos, e gerou Yered. ¹⁶E Mahalalel viveu depois que gerou Yered oitocentos e trinta anos, e gerou filhos e filhas. ¹⁷E todos os dias de Mahalalel *foram* oitocentos e noventa e cinco anos, e morreu.
+¹⁵E Mahalalel viveu sessenta e cinco anos, e gerou Yered. ¹⁶E Mahalalel viveu depois que gerou Yered oitocentos e trinta anos, e gerou filhos e filhas. ¹⁷E todos os dias de Mahalalel foram oitocentos e noventa e cinco anos, e morreu.
 
-¹⁸E Yered viveu cento e sessenta e dois anos, e gerou Chanokh. ¹⁹E Yered viveu depois que gerou Chanokh oitocentos anos, e gerou filhos e filhas. ²⁰E todos os dias de Yered *foram* novecentos e sessenta e dois anos, e morreu.
+¹⁸E Yered viveu cento e sessenta e dois anos, e gerou Chanokh (Enoque). ¹⁹E Yered viveu depois que gerou Enoque oitocentos anos, e gerou filhos e filhas. ²⁰E todos os dias de Yered foram novecentos e sessenta e dois anos, e morreu.
 
-²¹E Chanokh viveu sessenta e cinco anos, e gerou Metushelach. ²²E Chanokh andou com Deus depois que gerou Metushelach trezentos anos, e gerou filhos e filhas. ²³E todos os dias de Chanokh *foram* trezentos e sessenta e cinco anos. ²⁴E Chanokh andou com Deus, e não *estava* mais, porque Deus o tomou.
+²¹E Enoque viveu sessenta e cinco anos, e gerou Metushelach (Matusalém). ²²E Enoque andou com Deus depois que gerou Matusalém trezentos anos, e gerou filhos e filhas. ²³E todos os dias de Enoque foram trezentos e sessenta e cinco anos. ²⁴E Enoque andou com Deus, e não estava mais, porque Deus o tomou.
 
-²⁵E Metushelach viveu cento e oitenta e sete anos, e gerou Lemekh. ²⁶E Metushelach viveu depois que gerou Lemekh setecentos e oitenta e dois anos, e gerou filhos e filhas. ²⁷E todos os dias de Metushelach *foram* novecentos e sessenta e nove anos, e morreu.
+²⁵E Matusalém viveu cento e oitenta e sete anos, e gerou Lemekh (Lameque). ²⁶E Matusalém viveu depois que gerou Lameque setecentos e oitenta e dois anos, e gerou filhos e filhas. ²⁷E todos os dias de Matusalém foram novecentos e sessenta e nove anos, e morreu.
 
-²⁸E Lemekh viveu cento e oitenta e dois anos, e gerou um filho. ²⁹E chamou o seu nome Noach, dizendo: "Este *nos* consolará de nossa obra e da fadiga de nossas mãos, do solo que YHWH amaldiçoou." ³⁰E Lemekh viveu depois que gerou Noach quinhentos e noventa e cinco anos, e gerou filhos e filhas. ³¹E todos os dias de Lemekh *foram* setecentos e setenta e sete anos, e morreu.
+²⁸E Lameque viveu cento e oitenta e dois anos, e gerou um filho. ²⁹E chamou o seu nome Noach (Noé), dizendo: "Este *nos* consolará de nossa obra e da fadiga de nossas mãos, do solo que YHWH amaldiçoou." ³⁰E Lameque viveu depois que gerou Noé quinhentos e noventa e cinco anos, e gerou filhos e filhas. ³¹E todos os dias de Lameque foram setecentos e setenta e sete anos, e morreu.
 
-³²E Noach tinha quinhentos anos, e Noach gerou Shem, Cham e Yafet.
+³²E Noé tinha quinhentos anos, e Noé gerou Shem, Cham (Cam) e Yafet (Jafé).
 
 ---
 
@@ -96,7 +97,7 @@ Este *é* o livro das gerações de Adão. No dia em que Deus criou *um* humano,
 > - **אָדָם** (*Adam*) — anartro (sem artigo), contexto genealógico. Nome próprio travado deste versículo em diante (conforme entrada 081 do log editorial). O mesmo versículo então usa "humano" (*adam*) genericamente na frase de recordação da criação: "no dia em que Deus criou *um* humano."
 >
 > 🔵 **IMAGEM/SEMELHANÇA RECORDADA**
-> - "À semelhança de Deus ele o fez" — ecoa Gn 1:26–27. Usa *demut* (semelhança) e *asah* (fez). Referência cruzada ao v.3 onde a linguagem se inverte: Adão gera Shet "à sua semelhança, conforme a sua imagem."
+> - "À semelhança de Deus ele o fez" — ecoa Gn 1:26–27. Usa *demut* (semelhança) e *asah* (fez). Referência cruzada ao v.3 onde a linguagem se inverte: Adão gera Shet (Sete) "à sua semelhança, conforme a sua imagem."
 
 ---
 
@@ -113,27 +114,27 @@ Macho e fêmea ele os criou, e os abençoou, e chamou o nome deles Humano no dia
 
 ### **Versículo 3**
 
-E Adão viveu cento e trinta anos, e gerou à sua semelhança, conforme a sua imagem, e chamou o seu nome Shet.
+E Adão viveu cento e trinta anos, e gerou à sua semelhança, conforme a sua imagem, e chamou o seu nome Sete.
 
 > **📝 NOTAS**
 >
 > 🔴 **IMAGEM/SEMELHANÇA INVERTIDA**
-> - Gn 1:26–27: Deus cria o humano "à nossa imagem, conforme a nossa semelhança." Gn 5:3: Adão gera Shet "à **sua** semelhança, conforme a **sua** imagem." A linguagem de criação divino-para-humano é **encadeada à descendência humano-para-humano**. O par *tselem/demut* continua através das gerações.
+> - Gn 1:26–27: Deus cria o humano "à nossa imagem, conforme a nossa semelhança." Gn 5:3: Adão gera Sete "à **sua** semelhança, conforme a **sua** imagem." A linguagem de criação divino-para-humano é **encadeada à descendência humano-para-humano**. O par *tselem/demut* continua através das gerações.
 >
 > 🟢 **130 ANOS**
-> - Gn 2:17 advertiu "morrendo morrerás." Gn 3:19 declarou "pó és." Agora Adão vive 130 anos antes de Shet — depois morre aos 930 (v.5). A tensão do "no dia" (2:17 vs. 5:5) está textualmente presente. Referência cruzada à entrada do log editorial para as opções interpretativas de *beyom*.
+> - Gn 2:17 advertiu "morrendo morrerás." Gn 3:19 declarou "pó és." Agora Adão vive 130 anos antes de Sete — depois morre aos 930 (v.5). A tensão do "no dia" (2:17 vs. 5:5) está textualmente presente. Referência cruzada à entrada do log editorial para as opções interpretativas de *beyom*.
 
 ---
 
 ### **Versículo 4**
 
-E os dias de Adão depois que gerou Shet *foram* oitocentos anos, e gerou filhos e filhas.
+E os dias de Adão depois que gerou Sete foram oitocentos anos, e gerou filhos e filhas.
 
 ---
 
 ### **Versículo 5**
 
-E todos os dias de Adão que ele viveu *foram* novecentos e trinta anos, e morreu.
+E todos os dias de Adão que ele viveu foram novecentos e trinta anos, e morreu.
 
 > **📝 NOTAS**
 >
@@ -147,19 +148,19 @@ E todos os dias de Adão que ele viveu *foram* novecentos e trinta anos, e morre
 
 ### **Versículo 6**
 
-E Shet viveu cento e cinco anos, e gerou Enosh.
+E Sete viveu cento e cinco anos, e gerou Enosh.
 
 ---
 
 ### **Versículo 7**
 
-E Shet viveu depois que gerou Enosh oitocentos e sete anos, e gerou filhos e filhas.
+E Sete viveu depois que gerou Enosh oitocentos e sete anos, e gerou filhos e filhas.
 
 ---
 
 ### **Versículo 8**
 
-E todos os dias de Shet *foram* novecentos e doze anos, e morreu.
+E todos os dias de Sete foram novecentos e doze anos, e morreu.
 
 ---
 
@@ -177,7 +178,7 @@ E Enosh viveu depois que gerou Qenan oitocentos e quinze anos, e gerou filhos e 
 
 ### **Versículo 11**
 
-E todos os dias de Enosh *foram* novecentos e cinco anos, e morreu.
+E todos os dias de Enosh foram novecentos e cinco anos, e morreu.
 
 ---
 
@@ -195,7 +196,7 @@ E Qenan viveu depois que gerou Mahalalel oitocentos e quarenta anos, e gerou fil
 
 ### **Versículo 14**
 
-E todos os dias de Qenan *foram* novecentos e dez anos, e morreu.
+E todos os dias de Qenan foram novecentos e dez anos, e morreu.
 
 ---
 
@@ -213,67 +214,67 @@ E Mahalalel viveu depois que gerou Yered oitocentos e trinta anos, e gerou filho
 
 ### **Versículo 17**
 
-E todos os dias de Mahalalel *foram* oitocentos e noventa e cinco anos, e morreu.
+E todos os dias de Mahalalel foram oitocentos e noventa e cinco anos, e morreu.
 
 ---
 
 ### **Versículo 18**
 
-E Yered viveu cento e sessenta e dois anos, e gerou Chanokh.
+E Yered viveu cento e sessenta e dois anos, e gerou Chanokh (Enoque).
 
 ---
 
 ### **Versículo 19**
 
-E Yered viveu depois que gerou Chanokh oitocentos anos, e gerou filhos e filhas.
+E Yered viveu depois que gerou Enoque oitocentos anos, e gerou filhos e filhas.
 
 ---
 
 ### **Versículo 20**
 
-E todos os dias de Yered *foram* novecentos e sessenta e dois anos, e morreu.
+E todos os dias de Yered foram novecentos e sessenta e dois anos, e morreu.
 
 ---
 
 ### **Versículo 21**
 
-E Chanokh viveu sessenta e cinco anos, e gerou Metushelach.
+E Enoque viveu sessenta e cinco anos, e gerou Metushelach (Matusalém).
 
 ---
 
 ### **Versículo 22**
 
-E Chanokh andou com Deus depois que gerou Metushelach trezentos anos, e gerou filhos e filhas.
+E Enoque andou com Deus depois que gerou Matusalém trezentos anos, e gerou filhos e filhas.
 
 > **📝 NOTAS**
 >
 > 🔴 **"ANDOU COM DEUS" — QUEBRA DA FÓRMULA**
-> - A fórmula padrão é "X viveu… e gerou." Para Chanokh, a fórmula muda: "Chanokh **andou com Deus** (*vayyithalekh Chanokh et-ha-Elohim*)." Isso rompe o padrão — a primeira vez que alguém é dito "andar com" Deus. A única outra pessoa que recebe esta frase é Noach (6:9).
+> - A fórmula padrão é "X viveu… e gerou." Para Enoque, a fórmula muda: "Enoque **andou com Deus** (*vayyithalekh Enoque et-ha-Elohim*)." Isso rompe o padrão — a primeira vez que alguém é dito "andar com" Deus. A única outra pessoa que recebe esta frase é Noach (Noé) (6:9).
 >
 > 🔵 **"COM DEUS" (ELOHIM, NÃO YHWH)**
-> - Nota: Chanokh anda com *Elohim*, não *YHWH*. Este capítulo usa apenas *Elohim* exceto no v.29 (a fala de Lemekh menciona "o solo que YHWH amaldiçoou"). A distribuição do nome divino é relevante.
+> - Nota: Enoque anda com *Elohim*, não *YHWH*. Este capítulo usa apenas *Elohim* exceto no v.29 (a fala de Lemekh (Lameque) menciona "o solo que YHWH amaldiçoou"). A distribuição do nome divino é relevante.
 
 ---
 
 ### **Versículo 23**
 
-E todos os dias de Chanokh *foram* trezentos e sessenta e cinco anos.
+E todos os dias de Enoque foram trezentos e sessenta e cinco anos.
 
 > **📝 NOTAS**
 >
 > 🟢 **365 ANOS — VIDA MAIS CURTA**
-> - Os 365 anos de Chanokh são de longe a vida mais curta nesta genealogia (os demais variam de 777 a 969). No entanto, ele é quem "andou com Deus." O número 365 = dias em um ano solar; se isso é significativo é POSSÍVEL mas não resolvido.
+> - Os 365 anos de Enoque são de longe a vida mais curta nesta genealogia (os demais variam de 777 a 969). No entanto, ele é quem "andou com Deus." O número 365 = dias em um ano solar; se isso é significativo é POSSÍVEL mas não resolvido.
 
 ---
 
 ### **Versículo 24**
 
-E Chanokh andou com Deus, e não *estava* mais, porque Deus o tomou.
+E Enoque andou com Deus, e não estava mais, porque Deus o tomou.
 
 > **📝 NOTAS**
 >
 > 🔴 **CRÍTICO — FÓRMULA "E MORREU" AUSENTE**
-> - Toda outra entrada nesta genealogia termina com "e morreu." A entrada de Chanokh termina: **"e não estava mais, porque Deus o tomou"** (*ve-einennu ki laqach oto Elohim*). A fórmula de morte é **conspicuamente substituída**. O texto não diz que ele morreu, não diz que foi ao céu, não explica aonde foi. Diz que Deus o **tomou**. Qualquer coisa além disso é interpretação posterior.
+> - Toda outra entrada nesta genealogia termina com "e morreu." A entrada de Enoque termina: **"e não estava mais, porque Deus o tomou"** (*ve-einennu ki laqach oto Elohim*). A fórmula de morte é **conspicuamente substituída**. O texto não diz que ele morreu, não diz que foi ao céu, não explica aonde foi. Diz que Deus o **tomou**. Qualquer coisa além disso é interpretação posterior.
 >
 > 🟢 **"NÃO ESTAVA MAIS"**
 > - **אֵינֶנּוּ** (*einennu*) = "não estava mais" / "não é mais." A mesma palavra usada para algo que cessou de estar presente. A simplicidade é deliberada — o texto se recusa a elaborar.
@@ -282,36 +283,36 @@ E Chanokh andou com Deus, e não *estava* mais, porque Deus o tomou.
 
 ### **Versículo 25**
 
-E Metushelach viveu cento e oitenta e sete anos, e gerou Lemekh.
+E Matusalém viveu cento e oitenta e sete anos, e gerou Lameque.
 
 ---
 
 ### **Versículo 26**
 
-E Metushelach viveu depois que gerou Lemekh setecentos e oitenta e dois anos, e gerou filhos e filhas.
+E Matusalém viveu depois que gerou Lameque setecentos e oitenta e dois anos, e gerou filhos e filhas.
 
 ---
 
 ### **Versículo 27**
 
-E todos os dias de Metushelach *foram* novecentos e sessenta e nove anos, e morreu.
+E todos os dias de Matusalém foram novecentos e sessenta e nove anos, e morreu.
 
 > **📝 NOTAS**
 >
 > 🟢 **IDADE MAIS AVANÇADA REGISTRADA**
-> - Metushelach (Matusalém) aos 969 anos é a pessoa de vida mais longa no registro bíblico. Pela aritmética cronológica, seu ano de morte coincide aproximadamente com o ano do dilúvio (Gn 7). O texto não torna esta conexão explícita.
+> - Matusalém aos 969 anos é a pessoa de vida mais longa no registro bíblico. Pela aritmética cronológica, seu ano de morte coincide aproximadamente com o ano do dilúvio (Gn 7). O texto não torna esta conexão explícita.
 
 ---
 
 ### **Versículo 28**
 
-E Lemekh viveu cento e oitenta e dois anos, e gerou um filho.
+E Lameque viveu cento e oitenta e dois anos, e gerou um filho.
 
 ---
 
 ### **Versículo 29**
 
-E chamou o seu nome Noach, dizendo: "Este *nos* consolará de nossa obra e da fadiga de nossas mãos, do solo que YHWH amaldiçoou."
+E chamou o seu nome Noé, dizendo: "Este *nos* consolará de nossa obra e da fadiga de nossas mãos, do solo que YHWH amaldiçoou."
 
 > **📝 NOTAS**
 >
@@ -319,7 +320,7 @@ E chamou o seu nome Noach, dizendo: "Este *nos* consolará de nossa obra e da fa
 > - **נֹחַ** (*Noach*) = Noé. **נָחַם** (*nacham*) = consolar/arrepender-se. A etimologia do nome conecta Noach a consolo/alívio. Jogo de palavras sinalizado conforme Regra 14 — o vínculo sonoro é aproximado (n-ch vs. n-ch-m), não exato.
 >
 > 🔴 **"O SOLO QUE YHWH AMALDIÇOOU"**
-> - A fala de Lemekh referencia explicitamente Gn 3:17 (solo amaldiçoado por causa do humano). Este é o ÚNICO versículo em Gn 5 que usa **YHWH** (o restante usa *Elohim*). A maldição do solo está vinculada ao registro do nome YHWH.
+> - A fala de Lameque referencia explicitamente Gn 3:17 (solo amaldiçoado por causa do humano). Este é o ÚNICO versículo em Gn 5 que usa **YHWH** (o restante usa *Elohim*). A maldição do solo está vinculada ao registro do nome YHWH.
 >
 > 🔵 **ITSABON — MESMA RAIZ DE 3:16–17**
 > - **עִצָּבוֹן** (*itsabon*) = "fadiga" — mesma palavra usada tanto para a fadiga da mulher (3:16) quanto para a fadiga do humano (3:17). Lemekh espera que Noach traga alívio do mesmo *itsabon* que foi declarado nas consequências do jardim.
@@ -328,29 +329,29 @@ E chamou o seu nome Noach, dizendo: "Este *nos* consolará de nossa obra e da fa
 
 ### **Versículo 30**
 
-E Lemekh viveu depois que gerou Noach quinhentos e noventa e cinco anos, e gerou filhos e filhas.
+E Lameque viveu depois que gerou Noé quinhentos e noventa e cinco anos, e gerou filhos e filhas.
 
 ---
 
 ### **Versículo 31**
 
-E todos os dias de Lemekh *foram* setecentos e setenta e sete anos, e morreu.
+E todos os dias de Lameque foram setecentos e setenta e sete anos, e morreu.
 
 > **📝 NOTAS**
 >
 > 🟢 **777 — ECOANDO 4:24**
-> - Lemekh, filho de Metushelach, vive 777 anos. O OUTRO Lemekh (Gn 4:24, linhagem cainita) reivindicou vingança de "setenta e sete" (*shiv'im ve-shiv'ah*). O eco numérico 777 / 77 entre os dois Lemekhs está textualmente presente — se é espelhamento estrutural intencional ou coincidência é POSSÍVEL mas não resolvido.
+> - Lameque, filho de Matusalém, vive 777 anos. O OUTRO Lameque (Gn 4:24, linhagem cainita) reivindicou vingança de "setenta e sete" (*shiv'im ve-shiv'ah*). O eco numérico 777 / 77 entre os dois Lameques está textualmente presente — se é espelhamento estrutural intencional ou coincidência é POSSÍVEL mas não resolvido.
 
 ---
 
 ### **Versículo 32**
 
-E Noach tinha quinhentos anos, e Noach gerou Shem, Cham e Yafet.
+E Noé tinha quinhentos anos, e Noé gerou Shem, Cham (Cam) e Yafet (Jafé).
 
 > **📝 NOTAS**
 >
 > 🔵 **TRÊS FILHOS — QUEBRA DA FÓRMULA**
-> - A fórmula padrão lista um filho por entrada. A entrada de Noach nomeia **três filhos** — rompendo o padrão. Isso prepara a Tábua das Nações (Gn 10) e a estrutura narrativa pós-dilúvio.
+> - A fórmula padrão lista um filho por entrada. A entrada de Noé nomeia **três filhos** — rompendo o padrão. Isso prepara a Tábua das Nações (Gn 10) e a estrutura narrativa pós-dilúvio.
 
 ---
 
@@ -369,28 +370,28 @@ E Noach tinha quinhentos anos, e Noach gerou Shem, Cham e Yafet.
 ## RASTREAMENTO ENTRE CAPÍTULOS (Gn 4 → Gn 5)
 
 **Duas genealogias, duas linhagens:**
-- Gn 4:17–22: Linhagem cainita (Qayin → Chanokh → ... → Lemekh → Yaval/Yuval/Tuval-Qayin)
-- Gn 5:1–32: Linhagem setita (Adão → Shet → ... → Lemekh → Noach)
-- Nomes compartilhados entre as linhagens: Chanokh, Lemekh (indivíduos diferentes, mesmos nomes)
+- Gn 4:17–22: Linhagem cainita (Qayin (Caim) → Chanokh (Enoque) → ... → Lemekh (Lameque) → Yaval/Yuval/Tuval-Qayin)
+- Gn 5:1–32: Linhagem setita (Adão → Shet (Sete) → ... → Lameque → Noach (Noé))
+- Nomes compartilhados entre as linhagens: Enoque, Lameque (indivíduos diferentes, mesmos nomes)
 
 **Cadeia imagem/semelhança:**
 - 1:26–27: Deus cria o humano à imagem/semelhança divina (*tselem/demut*)
 - 5:1: Recorda "à semelhança de Deus ele o fez"
-- 5:3: Adão gera Shet "à sua semelhança, conforme a sua imagem" — linguagem invertida de divino-para-humano para humano-para-humano
+- 5:3: Adão gera Sete "à sua semelhança, conforme a sua imagem" — linguagem invertida de divino-para-humano para humano-para-humano
 
 **"E morreu" como confirmação da mortalidade:**
 - 2:17: "morrendo morrerás"
 - 3:19: "pó és, e ao pó retornarás"
 - 5:5,8,11,14,17,20,27,31: "e morreu" (refrão 8×)
-- 5:24: Chanokh — "e não estava mais, porque Deus o tomou" (fórmula conspicuamente ausente)
+- 5:24: Enoque — "e não estava mais, porque Deus o tomou" (fórmula conspicuamente ausente)
 
 **Cadeia da fórmula toledot:**
 - 2:4: "gerações dos céus e da terra"
 - 5:1: "livro das gerações de Adão"
-- Próximo: 6:9 "gerações de Noach"
+- Próximo: 6:9 "gerações de Noé"
 
 **Distribuição YHWH vs. Elohim:**
-- Gn 5 usa *Elohim* ao longo de todo o capítulo — EXCETO no v.29 (fala de Lemekh: "o solo que **YHWH** amaldiçoou")
+- Gn 5 usa *Elohim* ao longo de todo o capítulo — EXCETO no v.29 (fala de Lameque: "o solo que **YHWH** amaldiçoou")
 - Isso espelha o uso exclusivo de *Elohim* em Gn 1 vs. *YHWH Elohim* e *YHWH* em Gn 2–4
 
 **Fio itsabon:**

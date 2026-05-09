@@ -6,14 +6,21 @@ export function GlossaryPanel({ entries }: { entries: GlossaryEntry[] }) {
   return (
     <div className="space-y-2 pt-1">
       {entries.map((entry, i) => (
-        <div key={`g-${i}`} className="flex items-start gap-3 text-sm py-1.5 border-b border-border-muted last:border-0">
+        <div
+          key={`g-${i}`}
+          className="flex items-start gap-3 text-sm py-1.5 border-b border-border-muted last:border-0"
+        >
           <span className="source-word font-semibold text-text-primary min-w-[4rem] text-right shrink-0">
             {entry.sourceWord}
           </span>
           <span className="text-text-primary">{entry.translation}</span>
           {entry.notes && (
-            <span title={entry.notes} className="text-text-muted text-xs ml-auto shrink-0 max-w-[10rem] text-right">
-              {entry.notes.slice(0, 60)}{entry.notes.length > 60 ? "…" : ""}
+            <span
+              title={entry.notes}
+              className="text-text-muted text-xs ml-auto shrink-0 max-w-[10rem] text-right"
+            >
+              {entry.notes.slice(0, 60)}
+              {entry.notes.length > 60 ? "…" : ""}
             </span>
           )}
         </div>

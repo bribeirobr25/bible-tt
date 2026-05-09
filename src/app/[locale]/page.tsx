@@ -1,6 +1,12 @@
+import {
+  BookOpen,
+  Compass,
+  Layers,
+  NotebookPen,
+  ScrollText,
+} from "lucide-react";
 import { getTranslations, setRequestLocale } from "next-intl/server";
 import { Link } from "@/ui/navigation/locale-link";
-import { BookOpen, NotebookPen, Compass, Layers, ScrollText } from "lucide-react";
 import { renderMarkdownSafe } from "@/ui/shared/render-markdown-safe";
 
 export default async function LandingPage({
@@ -14,7 +20,6 @@ export default async function LandingPage({
 
   return (
     <main className="min-h-screen">
-
       {/* Hero */}
       <section className="min-h-[85vh] flex flex-col items-center justify-center px-6 py-16 text-center">
         <p className="text-text-muted text-sm uppercase tracking-[0.2em] mb-6 font-[family-name:var(--font-ui)]">
@@ -72,7 +77,10 @@ export default async function LandingPage({
               <blockquote
                 className="font-[family-name:var(--font-reading)] text-lg leading-[1.8] text-text-primary border-l-3 border-accent pl-5 [&_em]:text-text-secondary"
                 dangerouslySetInnerHTML={{
-                  __html: renderMarkdownSafe(t("landing.transparentVerse"), "prose"),
+                  __html: renderMarkdownSafe(
+                    t("landing.transparentVerse"),
+                    "prose",
+                  ),
                 }}
               />
             </div>
@@ -103,17 +111,22 @@ export default async function LandingPage({
             {t("landing.howTitle")}
           </h2>
           <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-8 text-left">
-            {([
-              { icon: BookOpen, mode: "readingMode", desc: "howReading" },
-              { icon: NotebookPen, mode: "studyMode", desc: "howStudy" },
-              { icon: Compass, mode: "exploreMode", desc: "howExplore" },
-              { icon: Layers, mode: "contextMode", desc: "howContext" },
-              { icon: ScrollText, mode: "prophecyMode", desc: "howProphecy" },
-            ] as const).map(({ icon: Icon, mode, desc }) => (
+            {(
+              [
+                { icon: BookOpen, mode: "readingMode", desc: "howReading" },
+                { icon: NotebookPen, mode: "studyMode", desc: "howStudy" },
+                { icon: Compass, mode: "exploreMode", desc: "howExplore" },
+                { icon: Layers, mode: "contextMode", desc: "howContext" },
+                { icon: ScrollText, mode: "prophecyMode", desc: "howProphecy" },
+              ] as const
+            ).map(({ icon: Icon, mode, desc }) => (
               <div key={mode} className="space-y-3">
                 <div className="flex items-center gap-3">
                   <span className="w-9 h-9 rounded-full bg-bg-paper border border-border flex items-center justify-center">
-                    <Icon className="w-4 h-4 text-text-muted" strokeWidth={1.5} />
+                    <Icon
+                      className="w-4 h-4 text-text-muted"
+                      strokeWidth={1.5}
+                    />
                   </span>
                   <span className="text-sm font-semibold uppercase tracking-wider text-text-secondary">
                     {t(`nav.${mode}`)}
@@ -172,9 +185,7 @@ export default async function LandingPage({
 
       {/* Footer */}
       <footer className="px-6 py-10 border-t border-border-muted text-center">
-        <p className="text-xs text-text-muted">
-          {t("site.title")}
-        </p>
+        <p className="text-xs text-text-muted">{t("site.title")}</p>
       </footer>
     </main>
   );

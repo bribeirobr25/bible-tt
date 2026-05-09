@@ -10,7 +10,7 @@
 **Buch:** Johannes (Ἰωάννης, *Iōannēs*)
 **Sprache:** Deutsch
 **Einleitung zu:** `de/john/` (Transparente Ausgabe)
-**Regelwerk:** v3.0 (Regel 29 regelt diese Datei)
+**Regelwerk:** v3.3 (Regel 29 regelt diese Datei)
 **Status:** provisorisch
 
 ---
@@ -63,7 +63,7 @@ Das Evangelium gliedert sich in vier Hauptteile, die sich in Umfang, Adressatenk
 
 **Buch der Herrlichkeit (13:1–20:31):** Erzählt die Abschiedsrede (13–17), Verhaftung, Prozess, Kreuzigung und Auferstehung. Der Ton wechselt vom öffentlichen Wirken zur privaten Unterweisung der Jünger. Die Kapitel 13–17 haben keine Parallele in den Synoptikern — ein ausgedehnter Abschied, in dem Jeschua seine Nachfolger auf seinen Weggang vorbereitet, den *Paraklētos* (Beistand/Helfer) einführt und für die Gemeinschaft betet.
 
-**Epilog (21:1–25):** Ein ergänzendes Kapitel mit einer nachösterlichen Erscheinung in Galiläa, der Wiederherstellung des Kefa (Petrus) und dem abschließenden Zeugnis des geliebten Jüngers. Weithin als Ergänzung einer früheren Fassung betrachtet, die mit 20:30–31 endete.
+**Epilog (21:1–25):** Ein ergänzendes Kapitel mit einer nachösterlichen Erscheinung in Galiläa, der Wiederherstellung des Petrus (Petrus) und dem abschließenden Zeugnis des geliebten Jüngers. Weithin als Ergänzung einer früheren Fassung betrachtet, die mit 20:30–31 endete.
 
 **Quelle:** Dodd, *The Interpretation of the Fourth Gospel* (1953), 289–443; Brown, *John* (AB), I.cxxxviii–cxliv.
 
@@ -72,7 +72,7 @@ Das Evangelium gliedert sich in vier Hauptteile, die sich in Umfang, Adressatenk
 
 Mehrere Merkmale unterscheiden Johannes von der synoptischen Tradition:
 
-**Die „Ich bin"-Worte:** Sieben Erklärungen, in denen Jeschua sich mit der Formel ἐγώ εἰμι (*egō eimi*) und einem Prädikat identifiziert: „Ich bin das Brot des Lebens" (6:35), „das Licht der Welt" (8:12), „die Tür" (10:7), „der gute Hirte" (10:11), „die Auferstehung und das Leben" (11:25), „der Weg, die Wahrheit und das Leben" (14:6), „der wahre Weinstock" (15:1). Darüber hinaus können mehrere absolute Verwendungen von ἐγώ εἰμι ohne Prädikat (8:24, 28, 58; 13:19) die göttliche Selbstvorstellung in Exodus 3:14 (LXX: ἐγώ εἰμι ὁ ὤν) widerspiegeln.
+**Die „Ich bin"-Worte:** Sieben Erklärungen, in denen Jeschua sich mit der Formel ἐγώ εἰμι (*egō eimi*) und einem Prädikat identifiziert: „Ich bin das Brot des Lebens" (6:35), „das Licht der Welt" (8:12), „die Tür" (10:7), „der gute Hirte" (10:11), „die Auferstehung und das Leben" (11:25), „der Weg, die Wahrheit und das Leben" (14:6), „der wahre Weinstock" (15:1). Darüber hinaus können mehrere absolute Verwendungen von ἐγώ εἰμι ohne Prädikat (8:24, 28, 58; 13:19) die göttliche Selbstvorstellung in Exodus 3:14 (LXX — die Septuaginta, die antike griechische Übersetzung: ἐγώ εἰμι ὁ ὤν) widerspiegeln.
 
 **Ausgedehnte Reden:** Anders als das synoptische Muster kurzer Sprüche und Gleichnisse präsentiert Johannes die Lehre Jeschuas in langen, theologisch elaborierten Reden — die Brotrede (Kap. 6), die Lichtrede (Kap. 8), die Hirtenrede (Kap. 10) und die Abschiedsrede (Kap. 13–17).
 
@@ -200,27 +200,21 @@ Die ephesische Tradition wird jedoch nicht unabhängig vom Evangeliumstext selbs
 
 Der griechische Text des Johannesevangeliums wurde über eine Kopierkette von nahezu zwei Jahrtausenden überliefert:
 
-```
-Entstehung (ca. 90–100 n. Chr.)
-     ↓
-Frühe Abschriften (2. Jh. n. Chr.)
-  ├── P52 (ca. 125 n. Chr.) — Johannes 18:31–33, 37–38
-  ├── P66 (ca. 200 n. Chr.) — nahezu vollständiges Johannesevangelium
-  └── P75 (ca. 200–225 n. Chr.) — Johannes 1–15 (+ Lukas)
-     ↓
-Große Kodizes (4.–5. Jh. n. Chr.)
-  ├── Codex Sinaiticus (א, 4. Jh.)
-  ├── Codex Vaticanus (B, 4. Jh.)
-  ├── Codex Alexandrinus (A, 5. Jh.)
-  └── Codex Bezae (D, 5. Jh.)
-     ↓
-Byzantinische Tradition (5.–15. Jh.)
-     ↓
-Druckausgaben
-  ├── Erasmus (1516)
-  ├── Textus-Receptus-Tradition (16.–19. Jh.)
-  └── Kritische Ausgaben: NA28 / UBS5 (heutiger Standard)
-```
+- Entstehung (ca. 90–100 n. Chr.)
+- Frühe Abschriften (2. Jh. n. Chr.):
+  - P52 (ca. 125 n. Chr.) — Johannes 18:31–33, 37–38
+  - P66 (ca. 200 n. Chr.) — nahezu vollständiges Johannesevangelium
+  - P75 (ca. 200–225 n. Chr.) — Johannes 1–15 (+ Lukas)
+- Große Kodizes (4.–5. Jh. n. Chr.):
+  - Codex Sinaiticus (א, 4. Jh.)
+  - Codex Vaticanus (B, 4. Jh.)
+  - Codex Alexandrinus (A, 5. Jh.)
+  - Codex Bezae (D, 5. Jh.)
+- Byzantinische Tradition (5.–15. Jh.)
+- Druckausgaben:
+  - Erasmus (1516)
+  - Textus-Receptus-Tradition (16.–19. Jh.)
+  - Kritische Ausgaben: NA28 / UBS5 (heutiger Standard)
 
 ### E2. Wichtige Handschriftenzeugen
 **[HISTORISCH / ARCHÄOLOGISCH — VERIFIZIERT]**
@@ -238,7 +232,7 @@ Druckausgaben
 ### E3. Wichtige Textvarianten
 **[HISTORISCH / ARCHÄOLOGISCH — VERIFIZIERT]**
 
-**Die Perikope von der Ehebrecherin (7:53–8:11):** Die Erzählung von der beim Ehebruch ertappten Frau fehlt in den ältesten und besten Handschriften des Johannes (P66, P75, Sinaiticus, Vaticanus). Sie erscheint im Johannesevangelium erst in Handschriften des späten 4.–5. Jahrhunderts, und einige Handschriften platzieren sie nach Johannes 21:25, nach Lukas 21:38 oder nach Johannes 7:36. Stil und Vokabular der Passage unterscheiden sich vom übrigen Johannes. Die TT nimmt die Passage mit einer Anmerkung zu ihrem textkritischen Status auf — sie wird nicht stillschweigend ausgelassen, aber ihr Fehlen in den ältesten Zeugen wird dokumentiert.
+**Die Perikope (Textabschnitt) von der Ehebrecherin (7:53–8:11):** Die Erzählung von der beim Ehebruch ertappten Frau fehlt in den ältesten und besten Handschriften des Johannes (P66, P75, Sinaiticus, Vaticanus). Sie erscheint im Johannesevangelium erst in Handschriften des späten 4.–5. Jahrhunderts, und einige Handschriften platzieren sie nach Johannes 21:25, nach Lukas 21:38 oder nach Johannes 7:36. Stil und Vokabular der Passage unterscheiden sich vom übrigen Johannes. Die TT nimmt die Passage mit einer Anmerkung zu ihrem textkritischen Status auf — sie wird nicht stillschweigend ausgelassen, aber ihr Fehlen in den ältesten Zeugen wird dokumentiert.
 
 **Die Schlussfrage:** Anders als bei Markus (wo der längere Schluss, 16:9–20, textkritisch umstritten ist) hat Johannes keine große Schlussvariante. Kapitel 21 ist wahrscheinlich eine Ergänzung zu einem ursprünglichen Schluss bei 20:30–31, ist aber in allen erhaltenen Handschriften vorhanden — die Ergänzung, falls es eine war, wurde vorgenommen, bevor der Text in die Handschriftentradition einging.
 
@@ -258,18 +252,20 @@ Wo der Text mehrdeutig ist oder bedeutende Varianten existieren, folgt die TT de
 ### F1. Aktive Regeln mit johannesspezifischen Anwendungen
 **[TEXTUELL — VERIFIZIERT]**
 
-Die folgenden Regeln des TT-Regelwerks (v3.0) haben besondere Bedeutung für das Johannesevangelium:
+Die folgenden Regeln des TT-Regelwerks (v3.3) haben besondere Bedeutung für das Johannesevangelium:
 
 | Regel | Name | Johannesspezifische Anwendung |
 |-------|------|-------------------------------|
-| 1 | Hauptdirektive | Vereinfache nicht, was das Griechische komplex lässt. Der *Logos*-Prolog (1:1–18) bewahrt das gesamte semantische Feld des Begriffs, ohne es auf eine einzelne theologische Lesart zu verengen. |
-| 4 | Keine interpretative Paraphrase | Die „Ich bin"-Worte werden übersetzt, ohne spätere christologische Definitionen einzutragen. ἐγώ εἰμι wird wiedergegeben, wie es gesprochen wird, nicht theologisiert. |
-| 7 | Semantisches Feld bewahren | *Logos* als „Wort" und sein breiteres semantisches Feld — die TT markiert die Breite, anstatt einen Sinn zu wählen. |
+| *(ohne Nummer)* | Erste Direktive | Vereinfache nicht, was das Griechische komplex lässt. Der *Logos*-Prolog (1:1–18) bewahrt das gesamte semantische Feld des Begriffs, ohne es auf eine einzelne theologische Lesart zu verengen. |
+| 1 | Kontrollierte Lexikalische Konsistenz | Begriffe des gesperrten Glossars (*logos*, *pneuma*, *charis*, *monogenēs*, *pascha* usw.) werden in allen Johannes-Kapiteln einheitlich gemäß GS-Glossar wiedergegeben. |
+| 2 | Ambiguitätsbewahrung | Schrägstrich-Wiedergaben (*Wind/Geist*, *Gnade/Gunst*, *von oben/von neuem*) bewahren echte griechische Mehrdeutigkeit, anstatt einen Sinn zu wählen. |
+| 4 | Strategische Begriffe Transliterieren | Die „Ich bin"-Worte werden übersetzt, nicht transliteriert — ἐγώ εἰμι hat übersetzbaren semantischen Inhalt. Schwelle der Regel 4 nicht überschritten. |
+| 7 | Parallele Struktur Bewahren | Johanneische Wiederholungsmuster (Licht/Finsternis, Leben/Tod, oben/unten) werden passagenübergreifend bewahrt. |
 | 11 | Grammatische Ergänzungen markieren | Für die deutsche Grammatik ergänzte Wörter erscheinen in Kursivschrift. |
 | 13 | Unsicherheitsstufen | Umstrittene Begriffe und Passagen tragen Vertrauenskennzeichnungen (Wahrscheinlich / Möglich / Unsicher). |
-| 14 | Quelltext-Anmerkungen | Wichtige griechische Begriffe in Transliteration bewahrt, wo semantisch bedeutsam. |
-| 22 | Keine interpretativen Abschnittsüberschriften | Abschnittsteilungen legen dem Text keine Lesart auf. |
-| 25 | JHWH in Konsonantenform | Nicht direkt auf den griechischen Quelltext anwendbar, aber relevant, wenn Johannes AT-Passagen mit JHWH zitiert — siehe Politik des göttlichen Namens unten. |
+| 14 | Wortspiele Annotieren | Wichtige griechische Begriffe in Stufe 2 annotiert, wo semantisches Feld oder Wortspiel bedeutsam ist. |
+| 22 | Textkritische Zurückhaltung | Textvarianten (z.B. Johannes 1:18 μονογενὴς θεός vs. μονογενὴς υἱός, Johannes 1:34) in Stufe 2 vermerkt, ohne stillschweigende Übernahme. |
+| 25 | Politik des Göttlichen Namens — GS wendet Option C an | κύριος als „der Herr" in AT-Zitatskontexten wiedergegeben, mit Stufe-2-Anmerkung, die JHWH im zugrundeliegenden Hebräischen identifiziert. Siehe Politik des göttlichen Namens unten. |
 
 ### F2. Festes Glossar — Begriffe der Griechischen Schriften, aktiv in Johannes
 **[TEXTUELL — VERIFIZIERT]**
@@ -316,10 +312,10 @@ Gemäß der Transliterationspolitik der TT werden wichtige Eigennamen in Johanne
 |----------------|--------------|----------|
 | Johannes (der Täufer / der Jünger) | Jochanan | Ἰωάννης (*Iōannēs*) ← Hebräisch יוֹחָנָן (*Jochanan*) |
 | Jesus | Jeschua | Ἰησοῦς (*Iēsous*) ← Hebräisch/Aramäisch יֵשׁוּעַ (*Jeschua*) |
-| Petrus | Kefa | Κηφᾶς (*Kēphas*) ← Aramäisch כֵּיפָא (*Kefa*, „Fels"); Griechisch Πέτρος (*Petros*) |
+| Petrus | Petrus | Κηφᾶς (*Kēphas*) ← Aramäisch כֵּיפָא (*Petrus*, „Fels"); Griechisch Πέτρος (*Petros*) |
 | Maria | Mirjam | Μαρία/Μαριάμ (*Maria/Mariam*) ← Hebräisch מִרְיָם (*Mirjam*) |
 | Lazarus | Elazar | Λάζαρος (*Lazaros*) ← Hebräisch אֶלְעָזָר (*Elazar*) |
-| Nikodemus | Nikodemos | Νικόδημος (*Nikodēmos*) — Griechischer Name, in Transliteration beibehalten |
+| Nikodemus | Nikodemus | Νικόδημος (*Nikodēmos*) — Griechischer Name, in Transliteration beibehalten |
 | Pontius Pilatus | Pontius Pilatus | Πόντιος Πιλᾶτος (*Pontios Pilatos*) — Lateinischer Name, beibehalten |
 | Thomas | Toma | Θωμᾶς (*Thōmas*) ← Aramäisch תָּאוֹמָא (*Toma*, „Zwilling") |
 

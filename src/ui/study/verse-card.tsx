@@ -1,8 +1,8 @@
+import { ChevronRight } from "lucide-react";
 import { useTranslations } from "next-intl";
 import type { Verse } from "@/domain/content/types";
 import { renderMarkdownSafe } from "@/ui/shared/render-markdown-safe";
 import { NoteBlock } from "./note-block";
-import { ChevronRight } from "lucide-react";
 
 export function VerseCard({ verse }: { verse: Verse }) {
   const t = useTranslations();

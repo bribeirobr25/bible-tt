@@ -66,6 +66,25 @@ export type ConfidenceLevel =
   | "SPECULATIVE"
   | "DOCUMENTED";
 
+export const CONFIDENCE_SORT_ORDER: Record<ConfidenceLevel, number> = {
+  VERIFIED: 0,
+  DOCUMENTED: 1,
+  PROBABLE: 2,
+  POSSIBLE: 3,
+  UNCERTAIN: 4,
+  SPECULATIVE: 5,
+};
+
+export function sortByConfidence(
+  entries: EnrichmentEntry[],
+): EnrichmentEntry[] {
+  return [...entries].sort(
+    (a, b) =>
+      (CONFIDENCE_SORT_ORDER[a.confidence] ?? 5) -
+      (CONFIDENCE_SORT_ORDER[b.confidence] ?? 5),
+  );
+}
+
 export interface EnrichmentEntry {
   title: string;
   claimType: ClaimType;
@@ -127,9 +146,41 @@ export interface ProphecyData {
 
 export type OriginType = "BORN" | "CREATED" | "APPEARS" | "UNCERTAIN";
 
+export type HistoricityStatus =
+  | "VERIFIED"
+  | "PROBABLE"
+  | "POSSIBLE"
+  | "UNCERTAIN"
+  | "LITERARY";
+
+export interface CuriosityEntry {
+  title: string;
+  claimType: ClaimType;
+  confidence: ConfidenceLevel;
+  content: string;
+  source?: string;
+}
+
+export type GenerationReference = string;
+
+export interface GenerationEntry {
+  reference: GenerationReference;
+  count: number;
+  line?: string;
+  source?: string;
+}
+
+export interface RegionByText {
+  region: string;
+  verse: string;
+  confidence: ConfidenceLevel;
+  note?: string;
+}
+
 export interface PersonEntry {
   slug: string;
   name: string;
+  familiarName?: string;
   nameMeaning?: string;
   originType: OriginType;
   birthYear?: string;
@@ -139,10 +190,34 @@ export interface PersonEntry {
   mother?: string;
   spouses?: string[];
   children?: string[];
+  siblings?: string[];
   locations?: string[];
   firstMention: string;
   mentionedIn: string[];
   keyEvents?: string[];
+  profession?: string;
+  socialClass?: string;
+  hometown?: string;
+  placesLived?: string[];
+  ageAtFatherhood?: string;
+  causeOfDeath?: string;
+  languagesSpoken?: string[];
+  inLaws?: string[];
+  archaeologicalEvidence?: string;
+  extraBiblicalMentions?: string;
+  historicityStatus?: HistoricityStatus;
+  booksAppearingIn?: string[];
+  keySpeeches?: string[];
+  verseCount?: number;
+  characterArc?: string;
+  timelineAnchor?: "creation" | "historical";
+  yearFromCreation?: number;
+  yearFromCreationEnd?: number;
+  historicalYear?: number;
+  historicalYearEnd?: number;
+  curiosities?: CuriosityEntry[];
+  generationsFrom?: GenerationEntry[];
+  regionsByText?: RegionByText[];
 }
 
 export interface PeopleData {

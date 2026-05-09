@@ -1,6 +1,6 @@
 "use client";
 
-import { locales, type Locale } from "@/lib/i18n";
+import { locales } from "@/lib/i18n";
 
 export function LanguageSwitcher({
   currentLocale,
@@ -16,7 +16,7 @@ export function LanguageSwitcher({
       {locales.map((locale) => (
         <a
           key={locale}
-          href={`/${locale}/${book}/${chapter}`}
+          href={`/${locale}/${book}/chapter/${chapter}`}
           className={`min-h-8 inline-flex items-center justify-center px-2.5 py-1 rounded-md transition-colors duration-150 focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2 ${
             locale === currentLocale
               ? "bg-accent/10 text-accent font-medium"

@@ -1,15 +1,21 @@
-import { describe, it, expect, vi } from "vitest";
 import fs from "node:fs/promises";
 import path from "node:path";
-import { parseEnrichmentMarkdown } from "../enrichment-parser";
+import { describe, expect, it, vi } from "vitest";
 import type { ConfidenceLevel } from "@/domain/content/types";
+import { parseEnrichmentMarkdown } from "../enrichment-parser";
 
 const ROOT = path.resolve(process.cwd(), "content");
 
 describe("Enrichment Parser", () => {
   describe("en/genesis/study/CHAPTER-1-CONTEXT.md", () => {
     async function loadEnrichment() {
-      const filePath = path.join(ROOT, "en", "genesis", "study", "CHAPTER-1-CONTEXT.md");
+      const filePath = path.join(
+        ROOT,
+        "en",
+        "genesis",
+        "study",
+        "CHAPTER-1-CONTEXT.md",
+      );
       const raw = await fs.readFile(filePath, "utf-8");
       return parseEnrichmentMarkdown(raw, "genesis", 1);
     }
@@ -38,16 +44,18 @@ describe("Enrichment Parser", () => {
 
     it("section A is Hebrew Text Features", async () => {
       const data = await loadEnrichment();
-      const sectionA = data.sections.find((s) => s.id === "source-text-features");
+      const sectionA = data.sections.find(
+        (s) => s.id === "source-text-features",
+      );
       expect(sectionA).toBeDefined();
-      expect(sectionA!.entries.length).toBeGreaterThan(0);
+      expect(sectionA?.entries.length).toBeGreaterThan(0);
     });
 
     it("section B is ANE Parallels", async () => {
       const data = await loadEnrichment();
       const sectionB = data.sections.find((s) => s.id === "ane-parallels");
       expect(sectionB).toBeDefined();
-      expect(sectionB!.entries.length).toBeGreaterThan(0);
+      expect(sectionB?.entries.length).toBeGreaterThan(0);
     });
 
     it("entries have claim types and confidence levels", async () => {
@@ -67,7 +75,7 @@ describe("Enrichment Parser", () => {
       if (ane) {
         for (const entry of ane.entries) {
           expect(entry.source).toBeDefined();
-          expect(entry.source!.length).toBeGreaterThan(0);
+          expect(entry.source?.length).toBeGreaterThan(0);
         }
       }
     });
@@ -81,7 +89,13 @@ describe("Enrichment Parser", () => {
 
   describe("es/genesis/study/CHAPTER-1-CONTEXT.md", () => {
     async function loadEnrichment() {
-      const filePath = path.join(ROOT, "es", "genesis", "study", "CHAPTER-1-CONTEXT.md");
+      const filePath = path.join(
+        ROOT,
+        "es",
+        "genesis",
+        "study",
+        "CHAPTER-1-CONTEXT.md",
+      );
       const raw = await fs.readFile(filePath, "utf-8");
       return parseEnrichmentMarkdown(raw, "genesis", 1);
     }
@@ -114,7 +128,12 @@ describe("Enrichment Parser", () => {
 
   describe("confidence tier parsing", () => {
     const ALL_LEVELS: ConfidenceLevel[] = [
-      "VERIFIED", "PROBABLE", "POSSIBLE", "UNCERTAIN", "SPECULATIVE", "DOCUMENTED",
+      "VERIFIED",
+      "PROBABLE",
+      "POSSIBLE",
+      "UNCERTAIN",
+      "SPECULATIVE",
+      "DOCUMENTED",
     ];
 
     it("parses all 6 EN confidence tiers", () => {
@@ -185,7 +204,7 @@ describe("Enrichment Parser", () => {
       const data = parseEnrichmentMarkdown(md, "genesis", 1);
       expect(data.sections[0].entries[0].confidence).toBe("POSSIBLE");
       expect(spy).toHaveBeenCalledWith(
-        expect.stringContaining("Unrecognized confidence label")
+        expect.stringContaining("Unrecognized confidence label"),
       );
       spy.mockRestore();
     });
@@ -228,7 +247,7 @@ describe("Enrichment Parser", () => {
       const data = parseEnrichmentMarkdown(md, "genesis", 1);
       expect(data.sections[0].entries[0].claimType).toBe("TEXTUAL");
       expect(spy).toHaveBeenCalledWith(
-        expect.stringContaining("Unrecognized claim type label")
+        expect.stringContaining("Unrecognized claim type label"),
       );
       spy.mockRestore();
     });
@@ -239,7 +258,12 @@ describe("Enrichment Parser", () => {
     const CHAPTERS = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12] as const;
 
     const VALID_CONFIDENCE: ConfidenceLevel[] = [
-      "VERIFIED", "PROBABLE", "POSSIBLE", "UNCERTAIN", "SPECULATIVE", "DOCUMENTED",
+      "VERIFIED",
+      "PROBABLE",
+      "POSSIBLE",
+      "UNCERTAIN",
+      "SPECULATIVE",
+      "DOCUMENTED",
     ];
 
     for (const locale of LOCALES) {
@@ -248,7 +272,13 @@ describe("Enrichment Parser", () => {
 
         it(`${label} parses without error`, async () => {
           const spy = vi.spyOn(console, "warn").mockImplementation(() => {});
-          const filePath = path.join(ROOT, locale, "genesis", "study", `CHAPTER-${chapter}-CONTEXT.md`);
+          const filePath = path.join(
+            ROOT,
+            locale,
+            "genesis",
+            "study",
+            `CHAPTER-${chapter}-CONTEXT.md`,
+          );
           const raw = await fs.readFile(filePath, "utf-8");
           const data = parseEnrichmentMarkdown(raw, "genesis", chapter);
           expect(data).toBeDefined();
@@ -258,7 +288,13 @@ describe("Enrichment Parser", () => {
 
         it(`${label} entries have valid confidence levels`, async () => {
           const spy = vi.spyOn(console, "warn").mockImplementation(() => {});
-          const filePath = path.join(ROOT, locale, "genesis", "study", `CHAPTER-${chapter}-CONTEXT.md`);
+          const filePath = path.join(
+            ROOT,
+            locale,
+            "genesis",
+            "study",
+            `CHAPTER-${chapter}-CONTEXT.md`,
+          );
           const raw = await fs.readFile(filePath, "utf-8");
           const data = parseEnrichmentMarkdown(raw, "genesis", chapter);
           const entries = data.sections.flatMap((s) => s.entries);

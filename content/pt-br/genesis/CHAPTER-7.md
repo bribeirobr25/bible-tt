@@ -7,10 +7,11 @@
 **Texto Base:** Biblia Hebraica Stuttgartensia, 5ª ed. rev. (Stuttgart: Deutsche Bibelgesellschaft, 1997)
 **Edição:** Edição Transparente
 **Idioma:** Português Brasileiro
-**Metodologia:** Sistema de Governança de 29 Regras (Conjunto de Regras v3.0)
+**Metodologia:** Sistema de Governança de 29 Regras (Conjunto de Regras v3.3)
 **Política do Nome Divino (Regra 25):** Opção A — Consonantal (YHWH).
 **Status:** provisório — aguardando revisão por pares (Regra 28)
 **Revisores:** Hebraísta: não atribuído | Editor PT: não atribuído | Alinhamento cruzado: não atribuído
+**Relação com Almeida (Regra CORE):** Opção B — Reconhecimento seletivo. Notam-se convergências/divergências em materiais suplementares.
 
 ---
 
@@ -43,9 +44,9 @@
 
 ## VISÃO GERAL DO CAPÍTULO
 
-**O que acontece:** YHWH ordena a Noach que entre na *tebah* com sua família e os animais — animais limpos aos sete, os demais aos pares. Após sete dias, o dilúvio começa: as fontes do grande abismo se rompem e as janelas dos céus se abrem. As águas sobem por 40 dias, cobrindo todos os montes altos. Toda criatura que respira em terra seca fora da *tebah* morre. As águas prevalecem por 150 dias.
+**O que acontece:** YHWH ordena a Noach (Noé) que entre na *tebah* com sua família e os animais — animais limpos aos sete, os demais aos pares. Após sete dias, o dilúvio começa: as fontes do grande abismo se rompem e as janelas dos céus se abrem. As águas sobem por 40 dias, cobrindo todos os montes altos. Toda criatura que respira em terra seca fora da *tebah* morre. As águas prevalecem por 150 dias.
 
-**Temas-chave:** Distinção limpo/impuro anterior ao Sinai; o dilúvio como reversão cosmológica — as águas acima e abaixo do *raqia* (Dia 2) se reúnem; o *mabbul* (dilúvio — palavra usada apenas para este evento); datas calendárias específicas ao longo do capítulo; YHWH fecha a porta (7:16 — Noach não se sela a si mesmo); destruição total da vida terrestre.
+**Temas-chave:** Distinção limpo/impuro anterior ao Sinai; o dilúvio como reversão cosmológica — as águas acima e abaixo do *raqia* (Dia 2) se reúnem; o *mabbul* (dilúvio — palavra usada apenas para este evento); datas calendárias específicas ao longo do capítulo; YHWH fecha a porta (7:16 — Noé não se sela a si mesmo); destruição total da vida terrestre.
 
 **Observe:** "Sete sete" para animais limpos (7:2) após "dois de todos" (6:19–20) — a TT preserva ambos sem harmonização; as datas do dilúvio criam uma cronologia precisa abrangendo um ano solar; "YHWH fechou atrás dele" (7:16) — o nome divino aparece no momento da selagem; a frase "todos os montes altos debaixo de todos os céus" (7:19) — a própria reivindicação de escopo do texto.
 
@@ -59,13 +60,13 @@
 
 ---
 
-¹E YHWH disse a Noach: "Vem, tu e toda a tua casa, à tebah, pois a ti vi *como* justo diante de mim nesta geração. ²De todo o gado limpo tomarás para ti sete sete, macho e sua fêmea, e do gado que não *é* limpo, dois, macho e sua fêmea. ³Também da ave dos céus, sete sete, macho e fêmea, para manter viva semente sobre a face de toda a terra. ⁴Pois em mais sete dias eu *estou* enviando chuva sobre a terra, quarenta dias e quarenta noites, e apagarei todo ser que se levanta, que fiz, de sobre a face do solo." ⁵E Noach fez conforme tudo o que YHWH lhe ordenou.
+¹E YHWH disse a Noach (Noé): "Vem, tu e toda a tua casa, à tebah, pois a ti vi *como* justo diante de mim nesta geração. ²De todo o gado limpo tomarás para ti sete sete, macho e sua fêmea, e do gado que não *é* limpo, dois, macho e sua fêmea. ³Também da ave dos céus, sete sete, macho e fêmea, para manter viva semente sobre a face de toda a terra. ⁴Pois em mais sete dias eu *estou* enviando chuva sobre a terra, quarenta dias e quarenta noites, e apagarei todo ser que se levanta, que fiz, de sobre a face do solo." ⁵E Noé fez conforme tudo o que YHWH lhe ordenou.
 
-⁶E Noach *tinha* seiscentos anos, e o dilúvio de águas foi sobre a terra. ⁷E Noach entrou, e seus filhos e sua mulher e as mulheres de seus filhos com ele, na tebah, por causa das águas do dilúvio. ⁸Do gado limpo e do gado que não *é* limpo, e da ave, e *de* tudo o que se arrasta sobre o solo, ⁹dois dois vieram a Noach à tebah, macho e fêmea, como Deus ordenou a Noach. ¹⁰E foi aos sete dos dias, e as águas do dilúvio foram sobre a terra.
+⁶E Noé *tinha* seiscentos anos, e o dilúvio de águas foi sobre a terra. ⁷E Noé entrou, e seus filhos e sua mulher e as mulheres de seus filhos com ele, na tebah, por causa das águas do dilúvio. ⁸Do gado limpo e do gado que não *é* limpo, e da ave, e *de* tudo o que se arrasta sobre o solo, ⁹dois dois vieram a Noé à tebah, macho e fêmea, como Deus ordenou a Noé. ¹⁰E foi aos sete dos dias, e as águas do dilúvio foram sobre a terra.
 
-¹¹No ano seiscentos da vida de Noach, no segundo mês, no décimo sétimo dia do mês, neste dia todas as fontes do grande abismo se romperam, e as janelas dos céus se abriram. ¹²E a chuva foi sobre a terra quarenta dias e quarenta noites. ¹³Neste mesmo dia Noach entrou, e Shem e Cham e Yafet, os filhos de Noach, e a mulher de Noach e as três mulheres de seus filhos com eles, na tebah — ¹⁴eles, e todo vivente segundo a sua espécie, e todo gado segundo a sua espécie, e todo réptil que se arrasta sobre a terra segundo a sua espécie, e toda ave segundo a sua espécie, todo ser alado. ¹⁵E vieram a Noach à tebah, dois dois de toda carne em que *há* fôlego de vida. ¹⁶E os que vieram, macho e fêmea de toda carne vieram, como Deus lhe ordenou; e YHWH fechou *a porta* atrás dele.
+¹¹No ano seiscentos da vida de Noé, no segundo mês, no décimo sétimo dia do mês, neste dia todas as fontes do grande abismo se romperam, e as janelas dos céus se abriram. ¹²E a chuva foi sobre a terra quarenta dias e quarenta noites. ¹³Neste mesmo dia Noé entrou, e Shem e Cham (Cam) e Yafet (Jafé), os filhos de Noé, e a mulher de Noé e as três mulheres de seus filhos com eles, na tebah — ¹⁴eles, e todo vivente segundo a sua espécie, e todo gado segundo a sua espécie, e todo réptil que se arrasta sobre a terra segundo a sua espécie, e toda ave segundo a sua espécie, todo ser alado. ¹⁵E vieram a Noé à tebah, dois dois de toda carne em que *há* fôlego de vida. ¹⁶E os que vieram, macho e fêmea de toda carne vieram, como Deus lhe ordenou; e YHWH fechou *a porta* atrás dele.
 
-¹⁷E o dilúvio foi quarenta dias sobre a terra, e as águas aumentaram e levantaram a tebah, e ela se elevou de sobre a terra. ¹⁸E as águas prevaleceram e aumentaram muito sobre a terra, e a tebah ia sobre a face das águas. ¹⁹E as águas prevaleceram muito muito sobre a terra, e todos os montes altos que *estavam* debaixo de todos os céus foram cobertos. ²⁰Quinze côvados acima prevaleceram as águas, e os montes foram cobertos. ²¹E toda carne que se movia sobre a terra pereceu — a ave e o gado e o vivente e todo ser que fervilha, que fervilha sobre a terra, e todo humano. ²²Tudo o que *tinha* fôlego do vento/espírito de vida em suas narinas, de tudo o que *estava* sobre o chão seco, morreu. ²³E ele apagou todo ser que se levanta, que *estava* sobre a face do solo, desde o humano até o gado, até o réptil, até a ave dos céus, e foram apagados da terra; e restou somente Noach, e os que *estavam* com ele na tebah. ²⁴E as águas prevaleceram sobre a terra cento e cinquenta dias.
+¹⁷E o dilúvio foi quarenta dias sobre a terra, e as águas aumentaram e levantaram a tebah, e ela se elevou de sobre a terra. ¹⁸E as águas prevaleceram e aumentaram muito sobre a terra, e a tebah ia sobre a face das águas. ¹⁹E as águas prevaleceram muito muito sobre a terra, e todos os montes altos que *estavam* debaixo de todos os céus foram cobertos. ²⁰Quinze côvados acima prevaleceram as águas, e os montes foram cobertos. ²¹E toda carne que se movia sobre a terra pereceu — a ave e o gado e o vivente e todo ser que fervilha, que fervilha sobre a terra, e todo humano. ²²Tudo o que *tinha* fôlego do vento/espírito de vida em suas narinas, de tudo o que *estava* sobre o chão seco, morreu. ²³E ele apagou todo ser que se levanta, que *estava* sobre a face do solo, desde o humano até o gado, até o réptil, até a ave dos céus, e foram apagados da terra; e restou somente Noé, e os que *estavam* com ele na tebah. ²⁴E as águas prevaleceram sobre a terra cento e cinquenta dias.
 
 ---
 
@@ -73,7 +74,7 @@
 
 ### **Versículo 1**
 
-E YHWH disse a Noach: "Vem, tu e toda a tua casa, à tebah, pois a ti vi *como* justo diante de mim nesta geração.
+E YHWH disse a Noach (Noé): "Vem, tu e toda a tua casa, à tebah, pois a ti vi *como* justo diante de mim nesta geração.
 
 > **📝 NOTAS**
 >
@@ -127,7 +128,7 @@ Pois em mais sete dias eu *estou* enviando chuva sobre a terra, quarenta dias e 
 
 ### **Versículo 5**
 
-E Noach fez conforme tudo o que YHWH lhe ordenou.
+E Noé fez conforme tudo o que YHWH lhe ordenou.
 
 > **📝 NOTAS**
 >
@@ -138,18 +139,18 @@ E Noach fez conforme tudo o que YHWH lhe ordenou.
 
 ### **Versículo 6**
 
-E Noach *tinha* seiscentos anos, e o dilúvio de águas foi sobre a terra.
+E Noé *tinha* seiscentos anos, e o dilúvio de águas foi sobre a terra.
 
 > **📝 NOTAS**
 >
 > 🔵 **PRECISÃO CRONOLÓGICA**
-> - A narrativa do dilúvio fornece datas exatas: idade de Noach (600), mês/dia em 7:11. Esta precisão continua em 8:4,5,13,14. O enquadramento cronológico é uma característica estrutural do texto.
+> - A narrativa do dilúvio fornece datas exatas: idade de Noé (600), mês/dia em 7:11. Esta precisão continua em 8:4,5,13,14. O enquadramento cronológico é uma característica estrutural do texto.
 
 ---
 
 ### **Versículo 7**
 
-E Noach entrou, e seus filhos e sua mulher e as mulheres de seus filhos com ele, na tebah, por causa das águas do dilúvio.
+E Noé entrou, e seus filhos e sua mulher e as mulheres de seus filhos com ele, na tebah, por causa das águas do dilúvio.
 
 ---
 
@@ -161,7 +162,7 @@ Do gado limpo e do gado que não *é* limpo, e da ave, e *de* tudo o que se arra
 
 ### **Versículo 9**
 
-dois dois vieram a Noach à tebah, macho e fêmea, como Deus ordenou a Noach.
+dois dois vieram a Noé à tebah, macho e fêmea, como Deus ordenou a Noé.
 
 > **📝 NOTAS**
 >
@@ -181,7 +182,7 @@ E foi aos sete dos dias, e as águas do dilúvio foram sobre a terra.
 
 ### **Versículo 11**
 
-No ano seiscentos da vida de Noach, no segundo mês, no décimo sétimo dia do mês, neste dia todas as fontes do grande abismo se romperam, e as janelas dos céus se abriram.
+No ano seiscentos da vida de Noé, no segundo mês, no décimo sétimo dia do mês, neste dia todas as fontes do grande abismo se romperam, e as janelas dos céus se abriram.
 
 > **📝 NOTAS**
 >
@@ -203,7 +204,7 @@ E a chuva foi sobre a terra quarenta dias e quarenta noites.
 
 ### **Versículo 13**
 
-Neste mesmo dia Noach entrou, e Shem e Cham e Yafet, os filhos de Noach, e a mulher de Noach e as três mulheres de seus filhos com eles, na tebah —
+Neste mesmo dia Noé entrou, e Shem e Cham (Cam) e Yafet (Jafé), os filhos de Noé, e a mulher de Noé e as três mulheres de seus filhos com eles, na tebah —
 
 > **📝 NOTAS**
 >
@@ -225,7 +226,7 @@ eles, e todo vivente segundo a sua espécie, e todo gado segundo a sua espécie,
 
 ### **Versículo 15**
 
-E vieram a Noach à tebah, dois dois de toda carne em que *há* fôlego de vida.
+E vieram a Noé à tebah, dois dois de toda carne em que *há* fôlego de vida.
 
 ---
 
@@ -304,7 +305,7 @@ Tudo o que *tinha* fôlego do vento/espírito de vida em suas narinas, de tudo o
 
 ### **Versículo 23**
 
-E ele apagou todo ser que se levanta, que *estava* sobre a face do solo, desde o humano até o gado, até o réptil, até a ave dos céus, e foram apagados da terra; e restou somente Noach, e os que *estavam* com ele na tebah.
+E ele apagou todo ser que se levanta, que *estava* sobre a face do solo, desde o humano até o gado, até o réptil, até a ave dos céus, e foram apagados da terra; e restou somente Noé, e os que *estavam* com ele na tebah.
 
 > **📝 NOTAS**
 >
@@ -343,9 +344,9 @@ E as águas prevaleceram sobre a terra cento e cinquenta dias.
 ## RASTREAMENTO ENTRE CAPÍTULOS (Gn 6 → Gn 7)
 
 **Cadeia da fórmula de obediência:**
-- 6:22: "Noach fez conforme tudo o que Deus lhe ordenou; assim fez"
-- 7:5: "Noach fez conforme tudo o que YHWH lhe ordenou"
-- 7:9: "como Deus ordenou a Noach"
+- 6:22: "Noach (Noé) fez conforme tudo o que Deus lhe ordenou; assim fez"
+- 7:5: "Noé fez conforme tudo o que YHWH lhe ordenou"
+- 7:9: "como Deus ordenou a Noé"
 - 7:16: "como Deus lhe ordenou"
 - Note a alternância do nome divino dentro da fórmula: Deus (6:22) → YHWH (7:5) → Deus (7:9, 7:16a) → YHWH fecha a arca (7:16b).
 
@@ -372,7 +373,7 @@ E as águas prevaleceram sobre a terra cento e cinquenta dias.
 - 7:22: "tudo o que tinha *nishmat ruach chayyim*" (fôlego do vento/espírito de vida) — a forma mais expandida, combinando ambas as frases anteriores
 
 **Distribuição do nome divino em Gn 7:**
-- vv.1–5: YHWH (comando pessoal a Noach)
+- vv.1–5: YHWH (comando pessoal a Noé)
 - vv.7–10: sem nome divino (narrativa)
 - v.9: Deus/Elohim ("como Deus ordenou")
 - v.16a: Deus/Elohim ("como Deus lhe ordenou")
