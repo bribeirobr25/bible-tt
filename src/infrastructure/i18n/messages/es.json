@@ -24,6 +24,9 @@
     "bookIntroductionDescription": "Autoría, datación, transmisión manuscrita y cómo leer este libro en la TT.",
     "comingSoon": "Contenido próximamente."
   },
+  "bookContext": {
+    "chapters": "Capítulos"
+  },
   "chapter": {
     "prev": "Capítulo anterior",
     "next": "Siguiente capítulo",
@@ -124,7 +127,8 @@
       "context": "Contexto",
       "subject": "Sujeto",
       "readings": "Lecturas tradicionales",
-      "status": "Estado de cumplimiento"
+      "status": "Estado de cumplimiento",
+      "scholarlyNote": "Nota académica"
     }
   },
   "people": {

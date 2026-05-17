@@ -435,6 +435,13 @@ Die alternative Analyse von *bereshit* als "um des Ersten willen" erzeugte reich
 
 **Quelle:** Freedman, H. & Simon, M. (Übers.), *Midrash Rabbah: Genesis*, Soncino, 1939 (PEER-REVIEWED); Kugel, J.L., *Traditions of the Bible*, Harvard, 1998 (PEER-REVIEWED).
 
+### F5. Die *et* / Alef-Taw-Lesart — messianisch-jüdische und kabbalistisch-vorgängige Tradition
+**[LATER RECEPTION — SPECULATIVE]**
+
+Einige messianisch-jüdische und "hebräisch-verwurzelte" christliche Lesarten — gestützt auf ältere kabbalistische Spekulationen über das symbolische Gewicht der Buchstaben *Aleph* und *Taw* (der erste und der letzte Buchstabe des hebräischen Alphabets) — finden in den beiden Vorkommen der Partikel אֵת (*et*) in Genesis 1,1 ("bereshit bara Elohim *et* hashamayim ve-*et* ha'aretz") eine verborgene christologische Signatur. Die Lesart bemerkt, dass *et* mit Aleph + Taw geschrieben wird, und stellt eine Parallele zum griechischen "Alpha und Omega" in Offenbarung 1,8 her, mit dem Vorschlag, dass die *et*-Partikeln den Messias stillschweigend als gegenwärtig bei der Schöpfung markieren, Anfang und Ende. Die mittelalterlichen kabbalistischen Vorläufer behandeln das Aleph-Taw-Paar als göttliches Ideogramm und nicht spezifisch christologisch; die messianisch-christologische Lesart ist eine neuere nachneutestamentliche Entwicklung. *et* ist der Standardmarker für das direkte Objekt (*nota accusativi*) im Biblischen Hebräisch und kommt tausende Male in jeder syntaktischen Umgebung vor, die ein definites direktes Objekt erfordert — einschließlich tausender Vorkommen, die kein Verfechter der Tradition christologisch liest —, daher ist die Lesart als SPECULATIVE etikettiert: Sie hat keine textliche oder philologische Grundlage im Hebräischen selbst, ist hier aber als Phänomen späterer Rezeption dokumentiert.
+
+**Quelle:** Patai, R. (Hrsg.), *The Messiah Texts: Jewish Legends of Three Thousand Years*, Wayne State, 1979 (Hintergrund zur kabbalistischen *Aleph-Taw*-Typologie); Waltke, B. K. & O'Connor, M., *An Introduction to Biblical Hebrew Syntax*, Eisenbrauns, 1990, §10.3 (philologische Behandlung von *et* als *nota accusativi*).
+
 ---
 
 ## G. Kuriositäten und Offene Fragen

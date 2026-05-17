@@ -1,4 +1,5 @@
 import type {
+  BookContextData,
   ChapterData,
   EnrichmentData,
   IntroductionData,
@@ -8,6 +9,7 @@ import type {
 import {
   listBooks,
   listChapters,
+  readBookContext,
   readChapter,
   readEnrichment,
   readIntroduction,
@@ -71,6 +73,13 @@ export async function getPeopleData(
   book: string,
 ): Promise<PeopleData | null> {
   return readPeople(locale, book);
+}
+
+export async function getBookContextData(
+  locale: Locale,
+  book: string,
+): Promise<BookContextData | null> {
+  return readBookContext(locale, book);
 }
 
 export async function getAvailableBooks(locale: string): Promise<string[]> {

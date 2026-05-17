@@ -167,7 +167,7 @@ The formula says each patriarch "begot sons and daughters" — but no daughter i
 
 ## I. The World at the Time
 
-The dating of Genesis's composition is debated. This section presents "the world at the time" for each major scenario, so readers holding any position can see the historical context that would apply to Genesis 5's genealogy, its extraordinary lifespans, its number system, and its ancestor-record conventions. The TT does not take sides on when Genesis was composed. For the full 10-category political, economic, and social context of each scenario, see the Genesis 1 companion, Section I.
+> **Cross-reference:** For the full four-scenario, ten-category world context (Political, Economy, Daily Life, Social Structure, Education, Military, Arts, Science, Religion, Neighboring Peoples), see the Genesis 1 companion (Section I, `en/genesis/study/CHAPTER-1-CONTEXT.md`). The entries below address the historical circumstances specifically foregrounded in Genesis 5 — the genealogy, extraordinary lifespans, the number system, and ancestor-record conventions.
 
 ---
 

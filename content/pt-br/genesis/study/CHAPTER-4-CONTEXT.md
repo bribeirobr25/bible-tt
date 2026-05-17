@@ -220,7 +220,7 @@ Genesis 4:17–22 situa as origens da civilização na linhagem de Caim: constru
 
 ## I. O Mundo na Época
 
-A datação da composição de Gênesis é debatida. Esta seção apresenta "o mundo na época" para cada cenário principal, para que leitores com qualquer posição possam ver o contexto histórico que se aplicaria. A TT não toma partido sobre quando Gênesis foi composto — apresenta todas as posições acadêmicas principais e deixa o leitor avaliar. O contexto político, econômico e social geral de cada cenário é idêntico ao de Gênesis 1 — os mesmos impérios, as mesmas civilizações, os mesmos períodos. O foco aqui é como o conteúdo específico de Gênesis 4 — a agricultura versus o pastoralismo, as práticas de sacrifício e oferenda, o fratricídio, a marca de Caim, a construção de cidades e a genealogia cultural culminando em Tuval-Qayin — se conecta a cada mundo histórico. Para o contexto completo das 10 categorias, veja o companheiro de Gênesis 1 Seção I.
+> **Referência cruzada:** Para o contexto mundial completo (quatro cenários, dez categorias — Político, Economia, Vida Cotidiana, Estrutura Social, Educação, Militar, Artes, Ciência, Religião, Povos Vizinhos), veja o companheiro de Gênesis 1 (Seção I, `pt-br/genesis/study/CHAPTER-1-CONTEXT.md`). As entradas abaixo abordam as circunstâncias históricas especificamente destacadas em Gênesis 4 — a agricultura versus o pastoralismo, as práticas de sacrifício e oferenda, o fratricídio, a marca de Caim, a construção de cidades e a genealogia cultural culminando em Tuval-Qayin.
 
 ---
 
@@ -235,6 +235,10 @@ Em um contexto tribal e nômade (o cenário mosaico), o fratricídio estava entr
 
 **I-A3. Economias pastorais versus agrícolas no Sinai e no Levante**
 A tensão entre Caim (agricultor) e Abel (pastor) reflete uma fricção socioeconômica real visível no cenário mosaico: os israelitas eram pastores seminômades, enquanto Canaã tinha comunidades agrícolas sedentárias. A literatura suméria já havia formalizado essa tensão no "Debate entre a Ovelha e o Grão" — um concurso literário entre os dois modos de produção. No deserto do Sinai, os israelitas mantinham rebanhos; entrar em Canaã significava fazer a transição para a agricultura de grãos. A dinâmica Caim-Abel mapeia essa transição: ambos os modos são legítimos, ambos produzem oferendas, mas o conflito entre eles é mortal.
+
+**I-A7. Tradições de origem das artes — música e metalurgia**
+**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
+Gênesis 4 atribui a fundação das artes culturais a ancestrais nomeados específicos: Yaval = ancestral de pastores que vivem em tendas (4:20); Yuval = ancestral dos tocadores de lira e flauta (4:21); Tuval-Qayin = forjador de ferramentas de bronze e ferro (4:22). Este é um catálogo de gênese cultural típico da literatura sapiencial do Antigo Oriente Próximo. Tradições comparáveis incluem o hino sumério "Inanna e Enki", onde os *me* (artes culturais: realeza, escribaria, metalurgia, música, etc.) são transferidos de Enki para Inanna e daí para Uruk; os *apkallu* acádios (sete sábios antediluvianos) creditados como fundadores dos ofícios; e as tradições gregas de Hefesto / Dédalo como originadores nomeados de ofícios. No cenário mosaico, os israelitas tinham experiência recente das oficinas metalúrgicas egípcias (cobre em Timna; ferramentas de bronze em toda parte) e teriam compreendido a metalurgia como uma especialidade de alta habilidade aprendida em centros geográficos — tornando a localização geográfica do ofício de Tuval-Qayin em uma linhagem específica culturalmente inteligível. **Fonte:** Westenholz, J.G., "Heroes of Akkad," *Journal of the American Oriental Society* 103 (1983); Foster, B.R., *Before the Muses: An Anthology of Akkadian Literature*, 3ª ed., CDL Press, 2005 (tradições dos apkallu). **[ANE COMPARATIVE — DOCUMENTED]**
 
 *Para o contexto histórico completo deste período com todas as 10 categorias, veja o companheiro de Gênesis 1 Seção I, Cenário A.*
 

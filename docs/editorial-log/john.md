@@ -274,3 +274,150 @@ This log records consistency decisions, justified exceptions, text-critical choi
 - **Status:** provisional
 - **Reviewers:** PT-BR editor unassigned; ES editor unassigned; Hellenist unassigned
 - **Cross-references:** `docs/audit/FIX_IMPLEMENTATION.md` Phase 6A audit closure; `docs/editorial-log/genesis.md` Entry 2026-05-09-099 (parent decision); `docs/editorial-log/matthew.md` Entry M-013 (sister entry); `docs/feedback/FEEDBACK.md` item 14
+
+---
+
+## Entry J-019
+
+- **Verse:** John 1–3 companion CONTEXT files + INTRODUCTION across 4 locales (16 files: 4 locales × 3 chapter companions + 4 locales × 1 introduction)
+- **Language(s) affected:** EN, PT-BR, DE, ES
+- **Rule(s) invoked:** Rule 29 §Companion Pre-Submission Checklist (grandmother-test standard); Rule 28 (review workflow)
+- **Decision:** Phase 7 readability sweep applied to all John companion CONTEXT files + INTRODUCTION across 4 locales per the per-locale gloss decision table in `docs/audit/archive/PHASE_7_PLAN.md` §4. Technical terms glossed on first use per file where the term is not already explained in surrounding prose (permissive reading per audit §4.2). Existing in-context discussions (e.g., John 1 CONTEXT §A6 *monogenēs* etymology, §A8 Colwell's Rule detailed treatment, §C2 *hoi Ioudaioi* three-sense breakdown) are kept intact; Phase 7 adds parenthetical glosses ONLY where missing.
+- **Terms glossed at first use across the locales:** NA28, Tetragrammaton, Synoptic Gospels, Hasmonean (period/dynasty), halakhic, Septuagint. Each rendered per the §4 locale-translated phrasing.
+- **Per-file edits (John block):**
+  - EN John 1: NA28 + Hasmonean + Tetragrammaton + Synoptic + halakhic glosses added
+  - EN John 2: Synoptic gloss added at §A1
+  - EN John 3: Septuagint + Synoptic glosses added
+  - EN John INTRODUCTION: Tetragrammaton gloss added
+  - PT-BR John 1: NA28 + hasmoneu + Sinóticos + halákico glosses added
+  - PT-BR John 2: Sinóticos gloss added at §A1
+  - PT-BR John 3: Septuaginta + Sinóticos glosses added
+  - PT-BR John INTRODUCTION: Tetragrama gloss added
+  - DE John 1: NA28 + hasmonäisch + halachisch + **synoptische Evangelien** glosses added (Tetragramm not present in DE §D0). The synoptische Evangelien gloss at §A-amen-amen passage line 124 was caught in the post-execution audit pass — initial Phase 7.5 grep used `Synoptik` (capitalized noun form) and missed `synoptisch` (lowercase adjectival form).
+  - DE John 2: synoptische Evangelien gloss added at §A1 + **halachisch** gloss added at §C-stone-vessels passage (caught in post-execution audit pass)
+  - DE John 3: Septuaginta + synoptische Evangelien glosses added
+  - DE John INTRODUCTION: Tetragramm gloss added
+  - ES John 1: NA28 + hasmoneo + halájico + **Sinopticos** glosses added. The Sinopticos gloss at §A-amen-amen passage line 124 was caught in the post-execution audit pass — initial Phase 7.6 grep used `Sinópticos` (with diacritic) and missed the pre-existing diacritic-less spelling `Sinopticos` in the ES source (a known ES-diacritic-loss issue per `docs/audit/PENDING.md`; preserving the existing spelling to avoid scope creep into Phase 3A's broader ES diacritic remediation).
+  - ES John 2: Sinópticos gloss added at §B-Scenario passage
+  - ES John 3: no edits required (Sinópticos not used in this file; Septuaginta already glossed at §A3)
+  - ES John INTRODUCTION: Tetragrama gloss added
+  - PT-BR John 2: **halakhic** gloss added at §C-stone-vessels passage (caught in post-execution audit pass — original PT-BR audit grep used `halác` and missed the surfaced spelling `halakhicamente` at line 143)
+- **Allowlist update:** one entry in `scripts/lint-allowlist.txt` for §0.5 (PT-BR *unigênito* — pending Phase 4 alignment) was modified to match the new line content after the Septuaginta gloss was inserted into PT-BR John 3 CONTEXT §A3. The allowlist still suppresses the same intentional *unigênito* discussion; only the matching text was updated.
+- **Alternatives considered:**
+  - Per-section first-use rule (rejected — would 3-5× the gloss count and require a corresponding Genesis pass for cross-book consistency per audit §5.3; per-file matches existing Genesis precedent)
+  - Cross-reference target for *tektōn* in editorial-log Entry M-001 (rejected per audit §3.1 — M-001 is "Fulfillment Formula Policy", unrelated; *tektōn* gloss is inline at every first-use per file instead)
+  - Strict parenthetical-format only, ignoring contextual prose (rejected per audit §4.2 — would create redundancy on top of existing well-written explanations; permissive reading better serves grandmother test)
+- **Justification:** The 16 files now satisfy the grandmother-test standard (`docs/feedback/DEFERRED_TASKS.md` Task 2) — a literate non-specialist reading any John companion or the introduction should not encounter an unexplained technical term. Cross-locale consistency: every term in the §4 inventory uses the same locale-translated gloss at every first-use occurrence within that locale.
+- **Aorist/imperfect/perfect-tense glosses (audit §5.4):** these tense terms remain glossed in existing prose at first use (e.g., John 1 CONTEXT §A4 introduces and explains the aorist contextually). The §4 parenthetical glosses for tense terms (e.g., "Greek simple-past tense; treats the action as a single completed event") were NOT applied additionally because the surrounding prose already explains the term — adding the parenthetical would be redundant. The aorist gloss prioritizes accessibility over technical precision. Aspectual-vs-temporal debates among Greek grammarians (Porter, *Verbal Aspect in the Greek of the New Testament*; Fanning, *Verbal Aspect in New Testament Greek*; Campbell, *Verbal Aspect, the Indicative Mood, and Narrative*) are documented but not resolved in the glosses. Hellenist reviewer at Rule 28 sign-off may flag this; if so, the surrounding prose can be adjusted to lead with aspect ("a Greek verbal aspect treating the action as a single whole, regardless of when it occurred").
+- **AI provenance:** claude-opus-4-7, 2026-05-13, Phase 7 execution of `docs/audit/archive/PHASE_7_PLAN.md`
+- **Status:** provisional
+- **Reviewers:** EN editor unassigned; PT-BR editor unassigned; DE editor unassigned; ES editor unassigned; Hellenist unassigned
+- **Cross-references:** `docs/audit/archive/PHASE_7_PLAN.md` (plan source); `docs/audit/archive/AUDIT_PHASE_7_PLAN.md` (independent audit absorbed pre-execution); `docs/audit/archive/NEW_PLAN.md` Phase 6.6 closure (chronological predecessor per audit §5.5); `docs/editorial-log/matthew.md` Entry M-017 (sister entry, Matthew block); `docs/feedback/DEFERRED_TASKS.md` Task 2 (now RESOLVED for John+Matthew per Phase 7); `docs/rules/RULES-CORE.md` §Companion Pre-Submission Checklist (grandmother-test standard)
+
+---
+
+## Entry J-020
+
+- **Verse:** John 3:14–15 (the Son of Man "lifted up" — Numbers 21 parallel)
+- **Language(s) affected:** EN, PT-BR, DE, ES
+- **Rule(s) invoked:** Rule 13 (uncertainty levels); Rule 29 (Companion Governance — Tier 2 prophecy companion file); Rule 3 (no imported theology — typological reading framed as Matthew/John's claim, not TT endorsement); Prime Directive (do not resolve what the text leaves uncertain — Jewish/Christian/Islamic readings preserved with [DOCUMENTED] confidence).
+- **Decision:** Phase 11 Option C authored `content/{en,pt-br,de,es}/john/study/CHAPTER-3-PROPHECY.md` (4 files; one prophecy entry each). The single entry covers John 3:14–15's typological connection to Numbers 21:8–9 (Mosheh lifting the bronze serpent → the Son of Man being "lifted up"). Fulfillment status: **CLAIMED** (Christian typological reading); DEBATED (Jewish reading). The cross-reference target for full lexical and historical analysis is John 3 companion §A6 (*Hypsōthēnai* double meaning) + §B2 (bronze serpent background). Three readings (Jewish / Christian / Islamic) per Genesis prophecy precedent, all labeled [DOCUMENTED].
+- **Alternatives considered:**
+  - **Option A (no PROPHECY files at all)** — rejected because Prophecy view-mode would stay dark for all of John when this typological claim is one of the most narratively central in the Fourth Gospel.
+  - **Option B (every prophetic statement in John)** — rejected because it duplicates content already in chapter companions (e.g., John 1:51 Jacob's-ladder echo is fully treated in §G2 of CHAPTER-1-CONTEXT; no additional value from re-housing in a prophecy file).
+  - **Pre-Phase-11 plan: scholarly content in a `**Scholarly note:**` field** — rejected after round-1 audit. The parser silently drops that key. Scholarly content + cross-reference to John 3 CONTEXT §A6/§B2 now lives inside `**Fulfillment notes:**` (audit C1/C2 fix).
+- **Justification:** John 3:14–15 is the densest prophetic statement in John 1–3 and the foundational text for typological cross-reading. Authoring this file lights up Prophecy view-mode for John 3 without committing to the full Option B coverage burden. The cross-reference to the existing rich chapter-companion §A6/§B2 prevents content duplication.
+- **AI provenance:** claude-opus-4-7, 2026-05-13, Phase 11 Option C execution of `docs/audit/archive/PHASE_11_PLAN.md`
+- **Status:** provisional
+- **Reviewers:** EN editor unassigned; PT-BR editor unassigned; DE editor unassigned; ES editor unassigned; Hellenist unassigned; Jewish-tradition reviewer unassigned (for Jewish reading line); Islamic-tradition reviewer unassigned (for Islamic reading line)
+- **Cross-references:** `docs/audit/archive/PHASE_11_PLAN.md` (plan source, including both audit rounds); `docs/audit/archive/AUDIT_PHASE_11_PLAN.md` (two rounds of independent audit absorbed pre-execution; round 1: C1/C2 scholarly-note dropped + cross-refs dropped; round 2: R2.1 single-line fulfillmentNotes + R2.2 `--` em-dash blocker + R2.3 stale UNFULFILLED test comment + R2.4 missing-ruleset DoD); `docs/editorial-log/john.md` Entry J-019 (Phase 7 closure, chronological predecessor); `docs/editorial-log/matthew.md` Entry M-018 (sister entry, Matthew block — Phase 11 same closure); `content/en/john/study/CHAPTER-3-CONTEXT.md` §A6 (*Hypsōthēnai* double meaning) + §B2 (bronze serpent background) — cross-reference target from the prophecy entry's fulfillmentNotes; `src/infrastructure/content/prophecy-parser.ts` + `src/ui/prophecy/prophecy-view.tsx` (parser + UI both unchanged — schema fits existing infrastructure).
+
+---
+
+## Entry J-021
+
+- **Verse:** John 1-3 (book-wide, PEOPLE.md authoring)
+- **Language(s) affected:** EN, PT-BR, DE, ES
+- **Rule(s) invoked:** Rule 29 (Companion Governance — PEOPLE.md is a companion file); Rule 13 (uncertainty levels — applied per PersonEntry field, e.g., POSSIBLE INFERENCE for inferred birth years; LATER RECEPTION for tradition-only death years); Rule 28 (review workflow — provisional status pending reviewer sign-off); GS Ioudaioi Policy (governs the Yehudim group entry); RULES-GS proper-name table (transliterated names per locked table).
+- **Decision:** Phase 10 authored `content/{en,pt-br,de,es}/john/PEOPLE.md` (4 files; 11 entries each — 44 entries total across locales). The 11-entry structure consists of: 2 see-only cross-book pointers to `matthew/PEOPLE.md` (Yochanan, Yeshua — canonical biographies live there per Phase 6.6G to avoid duplication); 5 full PersonEntry profiles (Andreas, Shimon Kefa, Philippos, Nathanael, Nikodemos — the named first-disciples + the night visitor); 1 group entry (Yehudim — Ioudaioi Policy 3-sense breakdown carried in the `**Character arc:**` field per audit Significant #2 fix, since the originally-planned `**Senses:**`/`**Cross-reference:**`/`**Group entry:**` field-keys are not in the parser's EXACT_LABEL_ALIASES and would be silently dropped); 3 see-only stubs to future books (Mosheh→exodus/PEOPLE.md, Eliyahu→kings/PEOPLE.md, Yeshayahu→isaiah/PEOPLE.md — dangling cross-book pointers render gracefully via `parseCrossBookSlug` fallback until Phase 12+ authors those books). Verified post-execution: 801 tests pass; pnpm build succeeds with `/{locale}/john/people` in static paths for all 4 locales; HTTP 200 across all 4 locales at runtime; Yehudim 3-sense breakdown renders correctly per locale; cross-book pointers render as links to existing matthew/PEOPLE.md entries (Yochanan, Yeshua) and as plain text for dangling exodus/kings/isaiah pointers.
+- **Alternatives considered:**
+  - **Full Yochanan + Yeshua biographies in john/PEOPLE.md** (rejected — would duplicate the rich matthew/PEOPLE.md Phase 6.6G entries; the see-only pattern is the Phase 6.6 precedent and was reaffirmed in the Phase 10 audit Significant #4)
+  - **New PersonEntry field-keys for the Yehudim group entry** (`**Senses:**`, `**Cross-reference:**`, `**Group entry:**` — rejected after audit Significant #2 verified these keys are silently dropped by the parser and not rendered by PersonCard; chose instead to repurpose three already-rendered fields: `**Character arc:**` for the 3-sense breakdown, `**Archaeological evidence:**` for the anti-misuse safeguard, `**Extra-biblical mentions:**` for the attestation sources)
+  - **Skip the OT see-only stubs entirely** (rejected — Mosheh/Eliyahu/Yeshayahu are referenced narratively in John 1-3 and a reader landing on John PEOPLE.md should see structural pointers to where the canonical biographies will live, even if the target files don't yet exist; the `parseCrossBookSlug` graceful-fallback handles dangling pointers without breaking the page)
+- **Justification:** John PEOPLE.md authoring was the highest-leverage remaining John deliverable per `docs/audit/PENDING.md` and `docs/feedback/DEFERRED_TASKS.md` (Item 33). The cross-book see-only pattern (established in Phase 6.6G for Matthew→Genesis pointers, reversed here for John→Matthew) keeps canonical biographies in one place while making the figures discoverable from John's people page. The Yehudim group entry is the technically novel piece — it required schema deviation from the standard PersonEntry shape to fit the Ioudaioi Policy 3-sense breakdown into rendered fields without parser changes. The audit-then-execute discipline (8 findings absorbed pre-execution: 5 Significant + 2 PV-must-fix + 1 Minor) caught the silent-drop schema problem before it shipped.
+- **AI provenance:** claude-opus-4-7, 2026-05-14, Phase 10 execution of `docs/audit/archive/PHASE_10_PLAN.md`
+- **Status:** provisional
+- **Reviewers:** EN editor unassigned; PT-BR editor unassigned; DE editor unassigned; ES editor unassigned; Hellenist unassigned (for Greek name etymologies + Ioudaioi Policy alignment)
+- **Cross-references:** `docs/audit/archive/PHASE_10_PLAN.md` (plan source, including absorbed audit findings); `docs/audit/archive/AUDIT_PHASE_10_PLAN.md` (independent audit absorbed pre-execution); `docs/editorial-log/john.md` Entry J-006 (Ioudaioi Policy parent, governs the Yehudim group entry); `docs/editorial-log/john.md` Entry J-020 (Phase 11 closure, chronological predecessor); `docs/editorial-log/matthew.md` Entry M-014 (Yochanan canonical entry, referenced from John see-only pointer); `docs/rules/RULES-GS.md` §Ioudaioi Policy + §Proper-Name Table; `docs/rules/RULES-CORE.md` Rule 29 §Companion Pre-Submission Checklist (governs PEOPLE.md authoring); `docs/feedback/DEFERRED_TASKS.md` Item 33 (now RESOLVED for John per Phase 10); `src/infrastructure/content/people-parser.ts` + `src/ui/people/person-card.tsx` (parser + PersonCard unchanged — Yehudim entry repurposes existing rendered fields rather than introducing new ones).
+
+---
+
+## Entry J-022
+
+- **Verse:** John 2 Section I (Scenario A, new entry IA-7 Arts)
+- **Language(s) affected:** EN, PT-BR, DE, ES
+- **Rule(s) invoked:** Rule 29 §The World at the Time (I7 Arts sub-entry); Rule 13 (confidence label `[HISTORICAL / ARCHAEOLOGICAL — VERIFIED]`); Rule 28 (provisional review status).
+- **Decision:** Phase 8 added `#### IA-7. Arts — Galilean stone vessel industry as purity-driven craft` to `content/{en,pt-br,de,es}/john/study/CHAPTER-2-CONTEXT.md` Scenario A. The entry covers the stone-vessel workshops at Hizma, Reina, and Mount Scopus / Mount Hatzofim — Late Second Temple Galilean industrial archaeology driven by Pharisaic halakha (stone vessels are insusceptible to ritual impurity per m. Kelim 10:1). The Qanah (Cana) jars in John 2:6 are precisely datable cultural-material artifacts of pre-70 Galilee; the industry effectively ended by mid-2nd century after the Temple-centered purity system collapsed. This is the only (i) Genuine gap surfaced by Phase 8 triage for John — the chapter's narrative-specific stone-vessel industry detail cannot be covered by the John 1 anchor's generic Galilean-economy entry. (Other Phase 8 triage candidates for John 3 — rabbinic night-Torah + anōthen polemic — were post-triage reclassified as already-covered by existing IA-1 Education + IA-3/IA-4 Religion entries.)
+- **Alternatives considered:**
+  - Add the entry under Scenario B as well (Post-70) — rejected because the stone-vessel industry effectively ended after 70, making the IA-only placement narratively correct.
+  - Inline the stone-vessel detail into the existing IA-1 Economy entry — rejected because the craft is structurally distinct (Arts/industrial archaeology vs. broader Temple-economy framing) and merits its own labeled I7 sub-entry per the canonical 10-category schema.
+- **Justification:** Phase 8 Option A Maximal closed every (i) Genuine gap across all chapters. John 2's stone-vessel industry is a narrative-specific detail (2:6 explicitly names six stone water jars) that the John 1 anchor cannot adequately address — the anchor covers generic Herodian architecture and Diaspora art, not Galilean purity-craft industry.
+- **AI provenance:** claude-opus-4-7, 2026-05-14, Phase 8 execution of `docs/audit/archive/PHASE_8_PLAN.md`
+- **Status:** provisional
+- **Reviewers:** EN editor unassigned; PT-BR editor unassigned; DE editor unassigned; ES editor unassigned; Hellenist unassigned (for Second Temple craft-archaeology framing).
+- **Cross-references:** `docs/editorial-log/genesis.md` Entry 2026-05-14-103 (anchor entry for Phase 8 closure across all 3 books); `docs/audit/archive/PHASE_8_PLAN.md`; `docs/audit/archive/PHASE_8_DIAGNOSTIC.md`; `docs/audit/archive/PHASE_8_TRIAGE.md`; `content/{locale}/john/study/CHAPTER-2-CONTEXT.md` (the four files patched).
+
+---
+
+## Entry J-023
+
+- **Verse:** John 1, 2, 3 (book-wide, ES locale only — chapter files + CONTEXT companions)
+- **Language(s) affected:** ES
+- **Rule(s) invoked:** None directly; this is a mechanical orthographic correction restoring diacritics that had been stripped in prior authoring or import. RULES-CORE.md §Locked Glossary and proper-name tables remain unchanged.
+- **Decision:** Restored Spanish-language diacritics across 7 ES files (`content/es/john/CHAPTER-{1,2,3}.md`; `content/es/john/study/CHAPTER-{1,2,3}-CONTEXT.md`; `content/es/genesis/CHAPTER-1.md` minor sweep): **1,128 total replacements across 4 passes** using a curated diacritic-restoration script (`/tmp/es_diacritic_fix.py`). Categories of replacement: (a) -ción/-sión word family (creación, declaración, traducción, purificación, etc.); (b) ñ words (señal, español, compañero, año, enseñanza); (c) accented adjectives + adverbs (técnico, semítico, crítico, léxico, único, histórica); (d) place + book names (Génesis, Heráclito); (e) high-frequency words (espíritu × 46, Día, día, etc.); (f) CAPS forms (ÍNDICE, GUÍA, CRÍTICO, TEOLÓGICA); (g) idiomatic phrases (más allá, sí mismo, aún no). Ambiguous diacritics (mas/más, esta/está, aun/aún outside phrases, amplia/amplía, etc.) were deliberately left untouched because case-by-case disambiguation requires reader context.
+- **Verified post-execution:** 801 tests pass; `pnpm content:lint` passes (1 pre-existing warning unrelated); `pnpm build` compiles successfully. Spot-checks of ES John 1 line 96 (logos discussion) + ES John 2 line 53 (gynai discussion) + ES John 2-CONTEXT.md confirm proper Spanish orthography restored.
+- **Alternatives considered:**
+  - **Manual line-by-line review** — rejected as impractical given ~1,100+ instances across 7 files.
+  - **Blanket replacement including ambiguous patterns (mas, esta, aun, amplia)** — rejected because false-positive risk is high (e.g., "este" demonstrative vs. "esté" verb).
+  - **Reverting to original PT-BR/EN source and re-translating** — rejected because that would discard the actual ES translation work already done; the diacritic issue is a transcription/normalization artifact, not a translation defect.
+- **Justification:** PENDING.md flagged the ES John diacritic loss as a MEDIUM priority cleanup. The actual scope was significantly larger than the originally-flagged front-matter issues — body-text diacritic loss across all 3 chapters + their companions had not previously been audited. The Python-script approach with iterative passes + word-boundary regex provides a maintainable, idempotent fix without false positives.
+- **AI provenance:** claude-opus-4-7, 2026-05-14, post-Phase-8 small-wins-bundle cleanup
+- **Status:** provisional
+- **Reviewers:** ES editor unassigned (for confirmation that no semantic content was inadvertently changed by the orthographic restoration); Hellenist unassigned (for confirmation that no Greek transliteration was inadvertently touched).
+- **Cross-references:** `docs/audit/PENDING.md` "ES John diacritics" item (now RESOLVED); `docs/feedback/DEFERRED_TASKS.md` (not previously tracked there); `/tmp/es_diacritic_fix.py` (the restoration script — kept ephemeral, not committed); `docs/editorial-log/john.md` Entry J-022 (Phase 8 closure — chronological predecessor).
+
+---
+
+## Entry J-024
+
+- **Verse:** John 1–3 (book-level cross-chapter motifs).
+- **Language(s) affected:** EN, PT-BR, DE, ES.
+- **Rule(s) invoked:** Rule 29 §Companion Pre-Submission Checklist; Rule 13 (confidence labels); Rule 2 (preserve ambiguity — referenced by J-M1 *anōthen* / *pneuma* / *hypsōthēnai* double meanings); RULES-GS §Locked Glossary (governs *monogenēs*, *anōthen*, *sēmeion* renderings).
+- **Decision:** Phase 9 added `content/{en,pt-br,de,es}/john/CONTEXT.md` — 6 motifs × 4 locales = 24 motif entries. **J-M1** wordplay double-meanings (*katelaben*, *anōthen*, *pneuma*, *hypsōthēnai*); **J-M2** *monogenēs* — etymology + cross-reference network (Jn 1:14, 1:18, 3:16, 3:18); **J-M3** *sēmeion* sequence opens at Cana (forward-trajectory to Jn 4, 6, 9, 11); **J-M4** *hōra* motif "not yet come" → "has come" (forward-trajectory through Jn 7, 8, 12, 13, 17); **J-M5** light/darkness contrast (Jn 1:5, 3:19–21); **J-M6** water/spirit/rebirth progression (Jn 1:26–33 → 2:1–11 → 3:5). J-M6 was originally listed in Phase 9 plan §4.4 illustrative motif list, dropped at draft, restored at step 9.2 user-review per stronger in-scope evidence than J-M3/J-M4 (three in-scope chapters vs. one each). J-M3 + J-M4 retain the explicit single-in-scope-chapter framing per audit §4.2.
+- **Alternatives considered:**
+  - **Substitute J-M6 for J-M4** (rather than add as 6th motif) — rejected at user-review: the *hōra* motif is theologically too significant to drop; John 6 motifs is within the 4–6 target.
+  - **Forward-trajectory chapters in the `chapters[]` array** (e.g., J-M3 with chapters [2, 4, 6, 9, 11]) — rejected per audit §4.2: `chapters[]` strictly records authored chapters; forward-trajectory references live in body text.
+- **Justification:** John 1–3 is dense with cross-chapter literary devices that the per-chapter Context view cannot meaningfully surface — five double-meanings within 3 chapters (J-M1 catalogue); a four-occurrence *monogenēs* trajectory (J-M2); two forward-trajectory motifs that introduce patterns developing across the full Gospel (J-M3, J-M4); two typological frames spanning all 3 in-scope chapters (J-M5, J-M6).
+- **AI provenance:** claude-opus-4-7, 2026-05-15, Phase 9 execution of `docs/audit/archive/PHASE_9_PLAN.md`.
+- **Status:** provisional.
+- **Reviewers:** EN editor unassigned; PT-BR editor unassigned; DE editor unassigned; ES editor unassigned; Hellenist unassigned (for Greek terms + reception-history claims in J-M1, J-M2, J-M6).
+- **Cross-references:** `docs/editorial-log/genesis.md` Entry 2026-05-15-104 (anchor entry for Phase 9 closure across all 3 books); `docs/editorial-log/matthew.md` Entry M-021 (sister entry, Matthew block); `docs/audit/archive/PHASE_9_PLAN.md` + `PHASE_9_MOTIF_CANDIDATES.md`; `content/{locale}/john/CONTEXT.md` (the four files authored).
+
+---
+
+## Entry J-025
+
+- **Verse:** John INTRODUCTION §E (Manuscript Transmission) — section-level addition; references P52, P66, P75 already documented in §C2 + §E1–E2.
+- **Language(s) affected:** EN, PT-BR, DE, ES.
+- **Rule(s) invoked:** Rule 3 (no imported theology — the new sub-section is purely descriptive about transmission-interval data, with explicit anti-apologetic Rule-3 safeguards built into the prose); Rule 29 (companion governance — INTRODUCTION §E discipline; Pre-Submission Checklist applied); Rule 28 (this log entry).
+- **Decision:** Added `### E5. Comparative transmission interval` to `content/{en,pt-br,de,es}/john/INTRODUCTION.md` as a new sub-section within the existing §E (Manuscript Transmission), placed immediately after `### E4. The critical text and NA28`. The paragraph compares the John composition-to-first-witness gap (c. 90–100 CE composition; P52 c. 100–150 CE) with two ancient-historiography reference points: Arrian's *Anabasis of Alexander* (c. 130–135 CE composition, ~450-year gap from Alexander's death) and Tacitus's *Annales* (c. 116 CE composition, ~80–100-year gap from earliest events). Two load-bearing Rule-3 safeguards are built into the prose per `STEP_3_PREREQUISITES_DRAFT.md` and Q-C1/Q-C2 decisions: (a) a bolded disclaimer sentence — *"This does not bear on the historical accuracy of the Gospel's contents; it bears only on the textual-transmission gap between composition and first surviving witness"* — explicitly excludes the apologetic inference; (b) a closing sentence — *"The same data is sometimes deployed apologetically — that is not the TT's frame: the comparison is descriptive, not evidential"* — names the apologetic use that exists elsewhere in the literature (specifically: the Wesley Huff source from `docs/feedback/possible-content.md` Topic 5) and explicitly distances the TT from that framing. P52 wording mirrors `john/INTRODUCTION.md` §C2:142 exactly: "c. 100–150 CE" with range, not midpoint, preserving the Nongbri 2005 scholarly caution. Two new rows appended to §G "Sources Consulted": Arrian + Bosworth commentary; Tacitus + Goodyear commentary.
+- **Alternatives considered:**
+  - **Option A (Q3.A) — add Quran 4:157 cross-tradition note in addition to comparative-transmission data:** rejected per Q3 decision (B-but-conservative). Adding a Quran note would require creating a new §F (Later Reception in Other Traditions) sub-section in INTRODUCTION — INTRODUCTION currently doesn't have a §F. Real structural addition deferred to a future "Islamic reception of NT Jesus" pass.
+  - **Option C (Q3.C) — skip Topic 5 entirely:** considered as a safer fallback if any prerequisite couldn't resolve cleanly. Rejected after all three prerequisites discharged: (a) P52 framing matched §C2:142 verified anchor exactly; (b) Arrian (Bosworth 1980/1995) + Tacitus (Goodyear 1972/1981) §G citation rows drafted and approved; (c) the descriptive non-apologetic framing draft passed project-lead review with Q-C1/Q-C2 = "keep stronger form" + "keep apologetic-acknowledgment closing sentence."
+  - **Softer disclaimer (Q-C1.B "The textual-transmission interval bears on the gap...not on the historical accuracy..."):** rejected per Q-C1. The stronger "does not bear / bears only" form makes the Rule-3 safeguard explicit; readers familiar with the apologetic framing need that signposting.
+  - **Drop the closing "deployed apologetically" sentence (Q-C2.B/C):** rejected per Q-C2. Naming the apologetic use externally is the TT's distinctive transparency move — austere §E discipline elsewhere is preserved by the sentence's brevity.
+- **Justification:** Topic 5 from `docs/feedback/possible-content.md` flagged the textual-transmission comparative data as substantive scholarship worth absorbing, but explicitly noted (and the v1 + v2 audits confirmed) that the source's apologetic framing must not transfer to the TT. The new §E5 sub-section is the descriptive reframing — same data points, explicit anti-apologetic safeguards, full §G citation. The §E5 placement (within §E, not a new section header) was discipline-pinned in plan v2 audit §2.4 absorption pass.
+- **AI provenance:** claude-opus-4-7, 2026-05-16, executing `docs/audit/POSSIBLE_CONTENT_BUNDLE_PLAN.md` Step 3 (after the three prerequisites in `docs/audit/STEP_3_PREREQUISITES_DRAFT.md` discharged via project-lead approval); pre-execution audits absorbed at `docs/audit/AUDIT_POSSIBLE_CONTENT_BUNDLE_PLAN.md` (content-governance + Rule 3/13/28/29) and `docs/audit/AUDIT_POSSIBLE_CONTENT_BUNDLE_PLAN_v2.md` (architecture + parser + design-system).
+- **Status:** provisional.
+- **Reviewers:** EN editor unassigned; PT-BR editor unassigned; DE editor unassigned; ES editor unassigned; Hellenist unassigned (for the P52/P66/P75 paleographic-dating treatment); Classicist unassigned (for the Arrian/Tacitus comparative dating + Bosworth/Goodyear citation accuracy).
+- **Cross-references:** `docs/audit/POSSIBLE_CONTENT_BUNDLE_PLAN.md` (plan with Q1–Q5 locked + Q-C1/Q-C2/Q-C3 prerequisites discharged); `docs/audit/STEP_3_PREREQUISITES_DRAFT.md` (project-lead-approved drafts for prerequisites (a)/(b)/(c)); `docs/audit/AUDIT_POSSIBLE_CONTENT_BUNDLE_PLAN.md` (v1 audit absorbed pre-execution); `docs/audit/AUDIT_POSSIBLE_CONTENT_BUNDLE_PLAN_v2.md` (v2 architecture audit absorbed pre-execution); `docs/feedback/possible-content.md` Topic 5 (source, with apologetic framing rejected); `docs/editorial-log/matthew.md` Entry M-023 (sister entry — parallel addition to matthew/INTRODUCTION.md); `content/{en,pt-br,de,es}/john/INTRODUCTION.md` §E5 + §G (the four files patched).

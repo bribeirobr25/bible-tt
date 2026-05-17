@@ -435,6 +435,13 @@ A análise alternativa de *bereshit* como "por causa do primeiro" gerou ricas tr
 
 **Fonte:** Freedman, H. & Simon, M. (trad.), *Midrash Rabbah: Genesis*, Soncino, 1939 (PEER-REVIEWED); Kugel, J.L., *Traditions of the Bible*, Harvard, 1998 (PEER-REVIEWED).
 
+### F5. A leitura *et* / alef-tav — tradição messiânica-judaica e precedentes cabalísticos
+**[LATER RECEPTION — SPECULATIVE]**
+
+Algumas leituras messiânicas-judaicas e cristãs de "raízes hebraicas" — apoiando-se em especulação cabalística anterior sobre o peso simbólico das letras *aleph* e *tav* (a primeira e a última letra do alfabeto hebraico) — encontram uma assinatura cristológica oculta nas duas ocorrências da partícula אֵת (*et*) em Gênesis 1:1 ("bereshit bara Elohim *et* hashamayim ve-*et* ha'aretz"). A leitura observa que *et* é grafada aleph + tav, e estabelece paralelo com o "Alfa e Ômega" grego de Apocalipse 1:8, propondo que as partículas *et* marcam silenciosamente o Messias como presente na criação, princípio e fim. Os precedentes cabalísticos medievais tratam o par aleph-tav como ideograma divino, e não como especificamente cristológico; a leitura messiânica-cristológica é um desenvolvimento pós-NT mais recente. *et* é o marcador padrão de objeto direto (*nota accusativi*) no hebraico bíblico, aparecendo milhares de vezes em todo ambiente sintático que requer um objeto direto definido — incluindo milhares de ocorrências que nenhum defensor da tradição lê como cristológicas —, portanto a leitura é rotulada SPECULATIVE: não tem fundamentação textual ou filológica no hebraico em si, mas é documentada aqui como fenômeno de recepção posterior.
+
+**Fonte:** Patai, R. (ed.), *The Messiah Texts: Jewish Legends of Three Thousand Years*, Wayne State, 1979 (contexto sobre a tipologia cabalística *aleph-tav*); Waltke, B. K. & O'Connor, M., *An Introduction to Biblical Hebrew Syntax*, Eisenbrauns, 1990, §10.3 (tratamento filológico de *et* como *nota accusativi*).
+
 ---
 
 ## G. Curiosidades e Questões Abertas

@@ -24,6 +24,9 @@
     "bookIntroductionDescription": "Authorship, dating, manuscript transmission, and how to read this book in the TT.",
     "comingSoon": "Content coming soon."
   },
+  "bookContext": {
+    "chapters": "Chapters"
+  },
   "chapter": {
     "prev": "Previous chapter",
     "next": "Next chapter",
@@ -124,7 +127,8 @@
       "context": "Context",
       "subject": "Subject",
       "readings": "Traditional readings",
-      "status": "Fulfillment status"
+      "status": "Fulfillment status",
+      "scholarlyNote": "Scholarly note"
     }
   },
   "people": {

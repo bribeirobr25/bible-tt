@@ -220,7 +220,7 @@ The flood narrative provides exact calendar dates: onset on the second month, se
 
 ## I. The World at the Time
 
-The dating of Genesis's composition is debated. This section presents "the world at the time" for each major scenario, so readers holding any position can see the historical context that would apply to Genesis 7's flood mechanism, measurement systems, animal management, water cosmology, and calendrical precision. The TT does not take sides on when Genesis was composed. For the full 10-category political, economic, and social context of each scenario, see the Genesis 1 companion, Section I.
+> **Cross-reference:** For the full four-scenario, ten-category world context (Political, Economy, Daily Life, Social Structure, Education, Military, Arts, Science, Religion, Neighboring Peoples), see the Genesis 1 companion (Section I, `en/genesis/study/CHAPTER-1-CONTEXT.md`). The entries below address the historical circumstances specifically foregrounded in Genesis 7 — the flood mechanism, measurement systems, animal management, water cosmology, and calendrical precision.
 
 ---
 

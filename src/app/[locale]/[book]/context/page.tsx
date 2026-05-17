@@ -1,7 +1,9 @@
 import { ChevronLeft } from "lucide-react";
 import { notFound } from "next/navigation";
 import { getTranslations, setRequestLocale } from "next-intl/server";
-import { getAvailableBooks } from "@/lib/content-loader";
+import type { Locale } from "@/infrastructure/i18n/config";
+import { getAvailableBooks, getBookContextData } from "@/lib/content-loader";
+import { BookContextView } from "@/ui/enrichment/book-context-view";
 import { Link } from "@/ui/navigation/locale-link";
 
 export async function generateStaticParams() {
@@ -23,6 +25,7 @@ export default async function BookContextPage({
   }
 
   const t = await getTranslations();
+  const data = await getBookContextData(locale as Locale, book);
 
   return (
     <main className="min-h-screen flex flex-col items-center px-6 py-12">
@@ -43,11 +46,15 @@ export default async function BookContextPage({
           </p>
         </div>
 
-        <div className="py-16 text-center">
-          <p className="text-sm text-text-muted italic">
-            {t("nav.comingSoon")}
-          </p>
-        </div>
+        {data ? (
+          <BookContextView data={data} />
+        ) : (
+          <div className="py-16 text-center">
+            <p className="text-sm text-text-muted italic">
+              {t("nav.comingSoon")}
+            </p>
+          </div>
+        )}
       </div>
     </main>
   );

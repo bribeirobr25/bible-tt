@@ -7,6 +7,7 @@ const nextConfig: NextConfig = {
   outputFileTracingIncludes: {
     "/*": ["./content/en/**/*.md", "./content/pt-br/**/*.md", "./content/de/**/*.md", "./content/es/**/*.md"],
   },
+  allowedDevOrigins: ["host.docker.internal"],
   async redirects() {
     return [
       {

@@ -34,6 +34,12 @@ Este arquivo apresenta informações biográficas e genealógicas sobre figuras 
 
 ---
 
+## Iakobos (Tiago)
+**Ver:** acts/PEOPLE.md
+**Em Mateus:** Nomeado como um dos quatro irmãos de Yeshua em Mateus 13:55 (ao lado de Yosef/José, Shimon/Simão e Yehudah/Judas), e referido indiretamente em Mateus 12:46–50 ("mãe e irmãos" de Yeshua chegando para procurá-lo). Distinto de Ya'aqov, o patriarca nomeado na genealogia em Mateus 1:2 — mesma raiz hebraica יַעֲקֹב, mesma forma grega Ἰάκωβος, mas pessoa diferente; os dois são desambiguados aqui pela transliteração de fonte hebraica (*Ya'aqov*) para o patriarca do AT e pela transliteração de fonte grega (*Iakobos*) para o irmão de Yeshua no NT. A biografia mais completa — liderança da igreja de Jerusalém (Atos 15; Gálatas 1:19; 2:9; 2:12), o relato de Josefo sobre sua morte em 62 EC sob Ananus (*Antiquitates Judaicae* 20.197–203), a tradição da aparição de ressurreição em 1 Coríntios 15:7 e a questão da autoria da epístola — pertence aos livros nos quais seu papel é substantivo: Atos, Gálatas, Tiago. Entrada canônica adiada.
+
+---
+
 ## Yehudah (Judá)
 **Ver:** genesis/PEOPLE.md
 **Em Mateus:** Nomeado na genealogia (1:2-3) como filho de Jacó e pai de Perets e Zerach por Tamar. Mateus especifica "Judá e seus irmãos" — a única entrada genealógica que menciona irmãos, marcando a seleção da linhagem judaíta.

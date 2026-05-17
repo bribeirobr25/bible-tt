@@ -1,4 +1,4 @@
-# GENESIS 1
+# GÉNESIS 1
 ## La Traducción Transparente (TT)
 ### Edición Transparente - Español
 
@@ -27,7 +27,7 @@
 
 ---
 
-## GUIA DE LECTURA
+## GUÍA DE LECTURA
 
 **Texto Principal:** Traducción primaria--legible pero fiel a la estructura hebrea
 **Notas:** Características hebreas esenciales inmediatamente debajo de cada versículo
@@ -93,23 +93,23 @@ En principio, Dios creó los cielos y la tierra.
 > 
 > 🟢 **TERMINOS CLAVE**
 > - **בָּרָא** (*bara*) = término específico de creación divina; su alcance preciso (si implica creación de la nada o remodelación de material existente) es debatido (**POSIBLE**); distinto de **עָשָׂה** (*asah* = hacer/formar)
-> - **שָׁמַיִם** (*shamayim*) = cielo fisico (plural); NO "Cielo" espíritual
+> - **שָׁמַיִם** (*shamayim*) = cielo físico (plural); NO "Cielo" espíritual
 > - **אֶרֶץ** (*eretz*) = tierra/suelo; NO el planeta "Tierra"
 
 ---
 
 ### **Versículo 2**
 
-Y la tierra era caos y vacío, y tinieblas *habia* sobre la faz del abismo, y viento/espíritu de Dios *se cernia* sobre la faz de las aguas.
+Y la tierra era caos y vacío, y tinieblas *había* sobre la faz del abismo, y viento/espíritu de Dios *se cernia* sobre la faz de las aguas.
 
 > **NOTAS**
 > 
 > 🟡 **AMBIGUEDAD PRESERVADA**
-> - **תֹהוּ וָבֹהוּ** (*tohu vavohu*) = frase rara (aparece solo 3 veces en la Biblia); significado exacto **INCIERTO**; asociada con destrucción/desolación. "Caos y vacío" es traducción **POSIBLE**. Evitar especulación cosmologica elaborada.
+> - **תֹהוּ וָבֹהוּ** (*tohu vavohu*) = frase rara (aparece solo 3 veces en la Biblia); significado exacto **INCIERTO**; asociada con destrucción/desolación. "Caos y vacío" es traducción **POSIBLE**. Evitar especulación cosmológica elaborada.
 > - **רוּחַ אֱלֹהִים** (*ruach elohim*) = viento/espíritu/aliento de Dios--las TRES acepciones presentes; gramaticalmente femenino en hebreo. **Nota ES:** *ruach* es femenino en hebreo pero *espíritu* es masculino en español y *viento* es masculino; el cambio de género es inevitable en la traducción.
 > 
 > 🟢 **TERMINOS CLAVE**
-> - **תְהוֹם** (*tehom*) = el abismo/masa de agua profunda; traducción **PROBABLE**; evitar "oceano cosmico" (falsa precision). **Nota ES:** *tehom* es femenino en hebreo; *abismo* es masculino en español.
+> - **תְהוֹם** (*tehom*) = el abismo/masa de agua profunda; traducción **PROBABLE**; evitar "oceano cósmico" (falsa precision). **Nota ES:** *tehom* es femenino en hebreo; *abismo* es masculino en español.
 > - **מְרַחֶפֶת** (*merachefet*) = participio presente (acción continua)--NO preterito simple; posiblemente "empollando" o "cubriendo"
 
 ---
@@ -122,7 +122,7 @@ Y Dios dijo: "Haya luz," y luz fue.
 > 
 > 🔵 **YUSIVO Y VAV CONVERSIVO** (Explicado aquí; no se repite en versículos posteriores)
 > - **יְהִי** (*yehi*) = forma futura/yusiva usada como mandato divino--literalmente "haya" en español, el subjuntivo desnudo preserva la fuerza del yusivo hebreo
-> - **Vav conversivo (ו)** en **וַיְהִי** (*vayehi*) cambia futuro "habra" a narrativo pasado "y fue"--caracteristica única del hebreo bíblico que impulsa la narrativa. Este patron continua a lo largo de Génesis 1.
+> - **Vav conversivo (ו)** en **וַיְהִי** (*vayehi*) cambia futuro "habra" a narrativo pasado "y fue"--característica única del hebreo bíblico que impulsa la narrativa. Este patron continua a lo largo de Génesis 1.
 
 ---
 
@@ -144,11 +144,11 @@ Y Dios llamó a la luz "Día," y a las tinieblas llamó "Noche." Y fue tarde, y 
 
 > **NOTAS**
 > 
-> 🔴 **CRÍTICO - Dia UNO, No PRIMERO**
+> 🔴 **CRÍTICO - Día UNO, No PRIMERO**
 > - Hebreo **יוֹם אֶחָד** (*yom echad*) = "día UNO" (número cardinal)--NO ordinal **רִאשׁוֹן** (*rishon* = "primero"). Los días 2-6 usan ordinales (segundo, tercero, cuarto, quinto, sexto). **El día 1 es tratado de forma diferente lingüísticamente--esto es significativo.**
 > 
 > 🔵 **FORMULA DE CIERRE DEL DIA**
-> - "Y fue tarde, y fue mañana, [X] dia" = formula FIJA; se repite exactamente en vv.8, 13, 19, 23, 31
+> - "Y fue tarde, y fue mañana, [X] día" = formula FIJA; se repite exactamente en vv.8, 13, 19, 23, 31
 > - El orden tarde-mañana refleja el día hebreo comenzando al atardecer
 
 ---
@@ -159,9 +159,9 @@ Y Dios dijo: "Haya *un* raqia (extensión) en medio de las aguas, y sea separand
 
 > **NOTAS**
 > 
-> 🔴 **CRÍTICO - INTRODUCCION DEL RAQIA**
+> 🔴 **CRÍTICO - INTRODUCCIÓN DEL RAQIA**
 > - Hebreo **רָקִיעַ** (*raqia*) de la raíz **ר-ק-ע** = "martillar/batir"--describe una estructura martillada o batida
-> - **TRANSLITERADO** a lo largo de Génesis 1 para evitar falsa precision cosmologica
+> - **TRANSLITERADO** a lo largo de Génesis 1 para evitar falsa precision cosmológica
 > - El versículo 8 identificara **raqia = shamayim (cielo)**
 > 
 > 🔵 **ESTRUCTURA**
@@ -195,7 +195,7 @@ Y Dios llamó al raqia "Cielo." Y fue tarde, y fue mañana, segundo día.
 > - Para una discusión más completa sobre cosmología del *raqia*, vea el compañero Sección B.
 > 
 > 🔵 **DIA 2 ORDINAL**
-> - **יוֹם שֵׁנִי** (*yom sheni*) = "segundo dia" (ordinal)--a diferencia del cardinal "uno" del Dia 1
+> - **יוֹם שֵׁנִי** (*yom sheni*) = "segundo día" (ordinal)--a diferencia del cardinal "uno" del Día 1
 
 ---
 
@@ -222,7 +222,7 @@ Y Dios llamó a la tierra seca "Tierra," y a la reunión de las aguas llamó "Ma
 > 
 > 🟢 **SINGULAR vs. PLURAL**
 > - **אֶרֶץ** (*eretz*) = tierra (SINGULAR masa terrestre conectada); **יַמִּים** (*yamim*) = mares (PLURAL cuerpos de agua separados)
-> - El hebreo distingue una tierra de multiples mares (Mediterraneo + Mar Rojo separados en la geografia antigua)
+> - El hebreo distingue una tierra de multiples mares (Mediterraneo + Mar Rojo separados en la geografía antigua)
 
 ---
 
@@ -233,12 +233,12 @@ Y Dios dijo: "Produzca la tierra hierba, hierbas semillando semilla, árboles fr
 > **NOTAS**
 > 
 > 🟢 **VERBO RARO - "PRODUCIR HIERBA"**
-> - **תַּדְשֵׁא** (*tadsheh*) = verbo creado del sustantivo **דֶּשֶׁא** (hierba)--similar a "enherbar." SI, suena extrano--**preservacíon intenciónal del estilo poético hebreo.**
+> - **תַּדְשֵׁא** (*tadsheh*) = verbo creado del sustantivo **דֶּשֶׁא** (hierba)--similar a "enherbar." SI, suena extraño--**preservacíon intenciónal del estilo poético hebreo.**
 > 
 > 🔴 **PATRONES DE DUPLICACION DE RAIZ** (Recurso poético hebreo)
 > - **מַזְרִיעַ זֶרַע** (*mazria zera*) = "semillando semilla"; **עֹשֶׂה פְרִי** (*oseh pri*) = "haciendo fruto"
 > - Muestra producción/generación interna--**preservado a pesar de sonar forzado**
-> - **דֶּשֶׁא עֵשֶׂב** (*deshe esev*) = "hierba, hierbas" (par de sinonimos por efecto estilistico)
+> - **דֶּשֶׁא עֵשֶׂב** (*deshe esev*) = "hierba, hierbas" (par de sinonimos por efecto estilístico)
 > 
 > 🟢 **PATRON DE REPRODUCCION**
 > - **לְמִינוֹ** (*lemino*) = "según su especie/tipo"--describe patron de reproducción
@@ -339,7 +339,7 @@ Y Dios dijo: "Pululen las aguas *de* enjambres de seres vivos, y aves vuelen sob
 > **NOTAS**
 > 
 > 🔴 **CRÍTICO - SERES VIVOS INTRODUCIDOS**
-> - **נֶפֶשׁ חַיָּה** (*nefesh chayah*) = ser(es) vivo(s)--literalmente "aliento/garganta/alma viviente"; **NO "alma" en el sentido filosofico posterior**
+> - **נֶפֶשׁ חַיָּה** (*nefesh chayah*) = ser(es) vivo(s)--literalmente "aliento/garganta/alma viviente"; **NO "alma" en el sentido filosófico posterior**
 > - Anadido al glosario; usado en vv.21, 24, 30
 > 
 > 🟢 **DUPLICACION DE RAIZ**
@@ -361,7 +361,7 @@ Y Dios creó las grandes criaturas marinas, y todo ser vivo, los que se mueven q
 > - **בָּרָא** (*bara* = creo) regresa por primera vez desde v.1--usado para seres vivos, NO para luminares o plantas; sugiere distinción de significado
 > 
 > 🟢 **CRIATURAS MARINAS**
-> - **תַּנִּינִים** (*taninim*) = grandes criaturas marinas/grandes animales acuaticos--evitar "monstruos marinos" o "dragones" (superposición mitologica)
+> - **תַּנִּינִים** (*taninim*) = grandes criaturas marinas/grandes animales acuaticos--evitar "monstruos marinos" o "dragones" (superposición mitológica)
 > - **לְמִינֵהֶם/לְמִינֵהוּ** (*leminehem/leminehu*) = "según sus especies"--patron de reproducción como en v.11
 
 ---
@@ -373,11 +373,11 @@ Y Dios los bendijo, diciendo: "Sean fecundos y multiplíquense, y llenen las agu
 > **NOTAS**
 > 
 > 🔴 **PRIMERA FORMULA DE BENDICION**
-> - **וַיְבָרֶךְ** (*vayvarekh*) = "y los bendijo" (primera ocurrencia)--recurrira: v.28 (humanos), Génesis 2:3 (septimo dia)
+> - **וַיְבָרֶךְ** (*vayvarekh*) = "y los bendijo" (primera ocurrencia)--recurrira: v.28 (humanos), Génesis 2:3 (septimo día)
 > 
 > 🔵 **TRIPLE IMPERATIVO**
 > - **פְּרוּ** (*peru*) = sean fecundos; **וּרְבוּ** (*urvu*) = multiplíquense; **וּמִלְאוּ** (*umil'u*) = llenen
-> - **לֵאמֹר** (*lemor* = "diciendo") introduce discurso divino directo a las criaturas--caracteristica narrativa inusual
+> - **לֵאמֹר** (*lemor* = "diciendo") introduce discurso divino directo a las criaturas--característica narrativa inusual
 
 ---
 
@@ -398,7 +398,7 @@ Y Dios dijo: "Produzca la tierra seres vivos según su especie: ganado y cosas q
 > 
 > 🔵 **TRES CATEGORIAS**
 > - **בְּהֵמָה** (*behemah*) = ganado; **רֶמֶשׂ** (*remes*) = lo que se arrastra; **חַיְתוֹ־אֶרֶץ** (*chayeto-eretz*) = animales de la tierra/animales salvajes
-> - El patron es paralelo a la vegetación del Dia 3: la tierra produce por mandato divino
+> - El patron es paralelo a la vegetación del Día 3: la tierra produce por mandato divino
 
 ---
 
@@ -411,7 +411,7 @@ Y Dios hizo los animales de la tierra según su especie, y el ganado según su e
 > 🟢 **SUELO vs. TIERRA**
 > - **אֲדָמָה** (*adamah*) = suelo (PRIMERA ocurrencia)--distinto de **אֶרֶץ** (*eretz* = tierra)
 > - **עָשָׂה** (*asah* = hizo), NO **בָּרָא** (*bara* = creo)
-> - Mandato (v.24) - cumplimiento (v.25) como en los Dias 3-4
+> - Mandato (v.24) - cumplimiento (v.25) como en los Días 3-4
 
 ---
 
@@ -427,11 +427,11 @@ Y Dios dijo: "Hagamos *un* humano a nuestra imagen, conforme a nuestra semejanza
 > - La nota marca **INCERTIDUMBRE**--NO impone interpretación trinitaria
 > 
 > 🟢 **HUMANO = GENERICO**
-> - **אָדָם** (*adam*) SIN artículo = humano/humanidad generica--NO todavía nombre propio "Adan"
+> - **אָדָם** (*adam*) SIN artículo = humano/humanidad genérica--NO todavía nombre propio "Adan"
 > 
 > 🔴 **IMAGEN Y SEMEJANZA**
 > - **צֶלֶם** (*tselem*) = imagen; **דְּמוּת** (*demut*) = semejanza
-> - Ambos = representacion/parecido; emparejados para enfasis, NO significado idéntico
+> - Ambos = representación/parecido; emparejados para enfasis, NO significado idéntico
 > - **Referencia cruzada:** El par reaparece en **Gen 5:1-3** donde Adan engendra a Set *"a su semejanza, conforme a su imagen"* — invirtiendo el orden divino-humano a un descenso humano-humano y encadenando el lenguaje de creación a través de las generaciónes.
 > 
 > 🟢 **DOMINIO = GOBIERNO FUNCIONAL**
@@ -522,21 +522,21 @@ Y Dios vio todo lo que había hecho, y he aquí, *era* muy bueno. Y fue tarde, y
 > 🔴 **CRÍTICO - CAMBIO DE EVALUACION: MUY BUENO**
 > - **טוֹב מְאֹד** (*tov me'od*) = "MUY bueno" vs. simple **טוֹב** (*tov* = "bueno") en TODOS los días anteriores
 > - **UNICA ocurrencia** de "muy bueno" en el relato de la creación--muestra evaluación positiva integral tras la creación humana
-> - **ESTO NO ES VARIACION ESTILISTICA--ES SIGNIFICACION TEOLOGICA**
+> - **ESTO NO ES VARIACION ESTILISTICA--ES SIGNIFICACION TEOLÓGICA**
 > 
 > 🔵 **HINEH = Atencion**
 > - **הִנֵּה** (*hineh* = "he aquí") aparece con la evaluación--llama la atención sobre la bondad integral
 > - "Todo lo que había hecho"--toda la creación revisada
 > 
 > 🔴 **CRÍTICO - ARTICULO EN "EL SEXTO DIA"**
-> - **יוֹם הַשִּׁשִּׁי** (*yom hashishi*) = "EL sexto dia" con artículo definido **ה**
-> - **UNICO entre los seis dias** (Dias 1-5 NO tienen artículo)
+> - **יוֹם הַשִּׁשִּׁי** (*yom hashishi*) = "EL sexto día" con artículo definido **ה**
+> - **UNICO entre los seis días** (Días 1-5 NO tienen artículo)
 > - **POSIBLE** significado: enfasis de culminación, importancia de la creación humana, o preparación para el Sabado (Génesis 2:1-3)
 > - **Muchas traducciónes omiten esta distinción**
 
 ---
 
-## GLOSARIO - GENESIS 1
+## GLOSARIO - GÉNESIS 1
 
 | Hebreo | Español | Notas |
 |--------|---------|-------|
@@ -566,13 +566,13 @@ Y Dios vio todo lo que había hecho, y he aquí, *era* muy bueno. Y fue tarde, y
 - "Y Dios dijo..." (10x)
 - "Y fue así" (6x — vv.7, 9, 11, 15, 24, 30)
 - "Y Dios vio que bueno" (6x) + "muy bueno" (1x en v.31)
-- "Y fue tarde, y fue mañana, [X] dia" (6x)
+- "Y fue tarde, y fue mañana, [X] día" (6x)
 - "Y Dios los bendijo" (2x: vv.22, 28)
 - "Sean fecundos y multiplíquense" (2x: vv.22, 28)
 
 **Variaciones Significativas:**
 - v.5: "día uno" (cardinal) vs. vv.8,13,19,23,31 (ordinales)
-- v.31: "muy bueno" (NO simple "bueno") + "EL sexto dia" (artículo unico)
+- v.31: "muy bueno" (NO simple "bueno") + "EL sexto día" (artículo único)
 
 ---
 
@@ -603,4 +603,4 @@ Recurso poético hebreo que muestra generación interna:
 
 ---
 
-**FIN DE GENESIS 1 - LA TRADUCCIÓN TRANSPARENTE (ESPAÑOL)**
+**FIN DE GÉNESIS 1 - LA TRADUCCIÓN TRANSPARENTE (ESPAÑOL)**

@@ -440,6 +440,13 @@ The alternative parsing of *bereshit* as "on account of the first" generated ric
 
 **Source:** Freedman, H. & Simon, M. (trans.), *Midrash Rabbah: Genesis*, Soncino, 1939 (PEER-REVIEWED); Kugel, J.L., *Traditions of the Bible*, Harvard, 1998 (PEER-REVIEWED).
 
+### F5. The *et* / alef-tav reading — Messianic-Jewish and Kabbalistic-precedent tradition
+**[LATER RECEPTION — SPECULATIVE]**
+
+Some Messianic-Jewish and Hebrew-roots Christian readings — drawing on earlier Kabbalistic speculation about the symbolic weight of the letters *aleph* and *tav* (the first and last letters of the Hebrew alphabet) — find a hidden christological signature in the two occurrences of the particle אֵת (*et*) in Genesis 1:1 ("bereshit bara Elohim *et* hashamayim ve-*et* ha'aretz"). The reading notes that *et* is spelled aleph + tav, and parallels Revelation 1:8's Greek "Alpha and Omega," proposing that the *et* particles silently mark the Messiah as present at creation, beginning and end. The medieval Kabbalistic precedents treat the aleph-tav pairing as a divine ideogram rather than specifically christological; the messianic-christological reading is a more recent post-NT development. *et* is the standard *nota accusativi* (direct-object marker) in Biblical Hebrew, appearing thousands of times across every syntactic environment that requires a definite direct object — including thousands of instances no advocate of the tradition reads as christological — so the reading is labeled SPECULATIVE: it has no textual or philological grounding in the Hebrew itself, but is documented here as a phenomenon of later reception.
+
+**Source:** Patai, R. (ed.), *The Messiah Texts: Jewish Legends of Three Thousand Years*, Wayne State, 1979 (background on Kabbalistic *aleph-tav* typology); Waltke, B. K. & O'Connor, M., *An Introduction to Biblical Hebrew Syntax*, Eisenbrauns, 1990, §10.3 (philological treatment of *et* as *nota accusativi*).
+
 ---
 
 ## G. Curiosities and Open Questions

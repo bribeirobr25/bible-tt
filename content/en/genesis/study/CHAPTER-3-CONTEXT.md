@@ -331,7 +331,7 @@ Genesis 2:17: "in the day of your eating from it, dying you shall die" — addre
 
 ## I. The World at the Time
 
-The dating of Genesis's composition is debated. This section presents "the world at the time" for each major scenario, so readers holding any position can see the historical context most relevant to Genesis 3. The broad political, economic, and social background for each scenario is identical to that of Genesis 1 — the same empires, the same civilizations, the same time periods. What this section focuses on is how Genesis 3's specific content — the serpent, forbidden knowledge, death, nakedness and shame, the curse, and expulsion — connects to each historical world. For the full 10-category background, see Genesis 1 companion Section I.
+> **Cross-reference:** For the full four-scenario, ten-category world context (Political, Economy, Daily Life, Social Structure, Education, Military, Arts, Science, Religion, Neighboring Peoples), see the Genesis 1 companion (Section I, `en/genesis/study/CHAPTER-1-CONTEXT.md`). The entries below address the historical circumstances specifically foregrounded in Genesis 3 — the serpent, forbidden knowledge, death, nakedness and shame, the curse, and expulsion.
 
 ---
 

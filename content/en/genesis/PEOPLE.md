@@ -536,7 +536,7 @@ This file presents biographical and genealogical information about figures appea
 
 **Meaning:** UNCERTAIN ("hot" / "dark" — debated, no etymology given in text)
 **Origin:** BORN
-**Birth year:** not precisely calculable (born when Noach (Noah) was approximately 500, Gen 5:32; called "youngest son" at 9:24)
+**Birth year:** AM 1559 (computed: Gen 5:32 begins Noach's begetting at age 500; Gen 11:10 places Shem at AM 1558; Gen 9:24 calls Cham "youngest son" — one year after Shem is the minimum-commit reading consistent with the text's three-brothers-begun-at-500 frame)
 **Death year:** not stated
 **Lifespan:** not stated
 **Father:** Noah (Gen 5:32)
@@ -561,7 +561,7 @@ This file presents biographical and genealogical information about figures appea
 **Historicity status:** UNCERTAIN
 **Books appearing in:** Genesis; 1 Chronicles 1:4, 8; Psalm 78:51; 105:23, 27; 106:22
 **Character arc:** He sees his father's nakedness and tells his brothers; his son Canaan, not Ham himself, receives the curse — a narrative gap the text leaves unexplained.
-**Year from creation:** not precisely calculable (born when Noah was approximately 500, Gen 5:32)
+**Year from creation:** 1559
 **Year from creation end:** not stated
 **Regions by text:** Kush (Gen 10:6, DOCUMENTED); Mitsrayim (Gen 10:6, DOCUMENTED); Put (Gen 10:6, DOCUMENTED); Kenaan (Gen 10:6, DOCUMENTED)
 
@@ -573,7 +573,7 @@ This file presents biographical and genealogical information about figures appea
 
 **Meaning:** "enlargement" / "may he enlarge" (Gen 9:27; wordplay — "may God enlarge [*yaft*] Yafet (Japheth)")
 **Origin:** BORN
-**Birth year:** not precisely calculable (born when Noach (Noah) was approximately 500, Gen 5:32; possibly the eldest — see note on Shem)
+**Birth year:** AM 1556 (computed: Gen 5:32 begins Noach's begetting at age 500; Gen 10:21 reads most naturally as "Yafet the elder" — making Yafet the firstborn; Shem then born AM 1558 per Gen 11:10, Cham AM 1559 per Gen 9:24 "youngest")
 **Death year:** not stated
 **Lifespan:** not stated
 **Father:** Noah (Gen 5:32)
@@ -598,7 +598,7 @@ This file presents biographical and genealogical information about figures appea
 **Historicity status:** UNCERTAIN
 **Books appearing in:** Genesis; 1 Chronicles 1:4–5
 **Character arc:** He walks backward with Shem to cover their father, acts with honor, and receives the blessing of enlargement — a brief but dignified role in a scene of family crisis.
-**Year from creation:** not precisely calculable (born when Noah was approximately 500, Gen 5:32)
+**Year from creation:** 1556
 **Year from creation end:** not stated
 
 **Note:** The subject of "may he dwell in the tents of Shem" (9:27) is ambiguous — it could be Japheth or God. The TT preserves this ambiguity.

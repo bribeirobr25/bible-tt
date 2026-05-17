@@ -223,7 +223,7 @@ El texto dice: "Los nephilim estaban en la tierra en aquellos días, **y tambié
 
 ## I. El Mundo en Esa Época
 
-La datación de la composición del Génesis es debatida. Esta sección presenta "el mundo en la época" para cada escenario principal, para que lectores con cualquier posición puedan ver el contexto histórico que aplicaría al relato de Génesis 6 sobre la violencia generalizada, la transgresión de la frontera divino-humana, el anuncio del diluvio, las instrucciones para la construcción del barco y el primer lenguaje de alianza. La TT no toma partido sobre cuándo se compuso el Génesis. Para el contexto político, económico y social completo de 10 categorías de cada escenario, vea el compañero de Génesis 1, Sección I.
+> **Referencia cruzada:** Para el contexto mundial completo (cuatro escenarios, diez categorías — Político, Economía, Vida Cotidiana, Estructura Social, Educación, Militar, Artes, Ciencia, Religión, Pueblos Vecinos), véase el companion de Génesis 1 (Sección I, `es/genesis/study/CHAPTER-1-CONTEXT.md`). Las entradas a continuación abordan las circunstancias históricas específicamente destacadas en Génesis 6 — la violencia generalizada, la transgresión de la frontera divino-humana, el anuncio del diluvio, las instrucciones para la construcción del barco y el primer lenguaje de alianza.
 
 ---
 

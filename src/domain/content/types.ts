@@ -136,6 +136,7 @@ export interface ProphecyEntry {
   readings: ProphecyReading[];
   fulfillmentStatus: FulfillmentStatus;
   fulfillmentNotes?: string;
+  scholarlyNote?: string;
 }
 
 export interface ProphecyData {
@@ -225,4 +226,26 @@ export interface PersonEntry {
 export interface PeopleData {
   book: string;
   entries: PersonEntry[];
+}
+
+// Phase 9 — Book Context: cross-chapter motifs surface.
+// One CONTEXT.md per book per locale; flat motif list (no section grouping).
+// claimType uses the existing 8-member ClaimType union per Q5 Path A semantic remap
+// (STRUCTURAL → TEXTUAL, LINGUISTIC → TEXTUAL, TYPOLOGICAL → COMPARATIVE PARALLEL,
+// NARRATIVE → STRONG INFERENCE). Motifs render in authoring order (no sortByConfidence).
+export interface BookContextMotif {
+  slug: string;
+  title: string;
+  claimType: ClaimType;
+  confidence: ConfidenceLevel;
+  chapters: number[];
+  body: string;
+  source?: string;
+}
+
+export interface BookContextData {
+  book: string;
+  locale: string;
+  disclaimer: string;
+  motifs: BookContextMotif[];
 }

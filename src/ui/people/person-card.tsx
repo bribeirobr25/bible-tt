@@ -77,7 +77,12 @@ function ListField({
   return (
     <div className="flex gap-2 text-xs">
       <span className="font-medium text-text-muted shrink-0 w-28">{label}</span>
-      <span className="text-text-secondary">{values.join(", ")}</span>
+      <span
+        className="text-text-secondary"
+        dangerouslySetInnerHTML={{
+          __html: renderInlineSafe(values.join(", ")),
+        }}
+      />
     </div>
   );
 }

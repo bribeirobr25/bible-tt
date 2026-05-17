@@ -1,6 +1,7 @@
 import fs from "node:fs/promises";
 import path from "node:path";
 import type {
+  BookContextData,
   ChapterData,
   EnrichmentData,
   IntroductionData,
@@ -8,6 +9,7 @@ import type {
   ProphecyData,
 } from "@/domain/content/types";
 import type { Locale } from "@/infrastructure/i18n/config";
+import { parseBookContextMarkdown } from "./book-context-parser";
 import {
   parseEnrichmentMarkdown,
   parseIntroductionMarkdown,
@@ -98,6 +100,19 @@ export async function readPeople(
   try {
     const raw = await fs.readFile(filePath, "utf-8");
     return parsePeopleMarkdown(raw, book);
+  } catch {
+    return null;
+  }
+}
+
+export async function readBookContext(
+  locale: Locale,
+  book: string,
+): Promise<BookContextData | null> {
+  const filePath = path.join(CONTENT_ROOT, locale, book, "CONTEXT.md");
+  try {
+    const raw = await fs.readFile(filePath, "utf-8");
+    return parseBookContextMarkdown(raw, book, locale);
   } catch {
     return null;
   }

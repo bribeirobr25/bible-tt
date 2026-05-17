@@ -544,7 +544,7 @@ Este arquivo apresenta informações biográficas e genealógicas sobre figuras 
 
 **Significado:** INCERTO ("quente" / "escuro" — debatido, nenhuma etimologia dada no texto)
 **Origem:** NASCIDO
-**Ano de nascimento:** não calculável com precisão (nascido quando Noé tinha aproximadamente 500, Gn 5:32; chamado "filho mais novo" em 9:24)
+**Ano de nascimento:** AM 1559 (calculado: Gn 5:32 inicia a procriação de Noé aos 500 anos; Gn 11:10 situa Shem em AM 1558; Gn 9:24 chama Cam de "filho mais novo" — um ano depois de Shem é a leitura de menor-comprometimento consistente com o quadro dos três irmãos começados aos 500)
 **Ano de morte:** não declarado
 **Tempo de vida:** não declarado
 **Pai:** Noé (Gn 5:32)
@@ -569,7 +569,7 @@ Este arquivo apresenta informações biográficas e genealógicas sobre figuras 
 **Status de historicidade:** INCERTO
 **Livros em que aparece:** Gênesis; 1 Crônicas 1:4, 8; Salmo 78:51; 105:23, 27; 106:22
 **Arco do personagem:** Ele vê a nudez do pai e conta aos irmãos; seu filho Canaã, não o próprio Cam, recebe a maldição — uma lacuna narrativa que o texto deixa sem explicação.
-**Ano desde a criação:** não calculável com precisão (nascido quando Noé tinha aproximadamente 500, Gn 5:32)
+**Ano desde a criação:** 1559
 **Ano desde a criação — fim:** não declarado
 
 **Nota:** Gn 9:24 chama Cam de "seu filho mais novo" (*beno ha-qatan*). A maldição recai sobre Canaã, não sobre o próprio Cam — o texto não explica por quê.
@@ -580,7 +580,7 @@ Este arquivo apresenta informações biográficas e genealógicas sobre figuras 
 
 **Significado:** "alargamento" / "que ele alargue" (Gn 9:27; jogo de palavras — "que Deus alargue [*yaft*] Jafé")
 **Origem:** NASCIDO
-**Ano de nascimento:** não calculável com precisão (nascido quando Noé tinha aproximadamente 500, Gn 5:32; possivelmente o mais velho — ver nota sobre Shem)
+**Ano de nascimento:** AM 1556 (calculado: Gn 5:32 inicia a procriação de Noé aos 500 anos; Gn 10:21 lê-se naturalmente como "Jafé o mais velho" — tornando Jafé o primogênito; Shem então nascido AM 1558 por Gn 11:10, Cam AM 1559 por Gn 9:24 "filho mais novo")
 **Ano de morte:** não declarado
 **Tempo de vida:** não declarado
 **Pai:** Noé (Gn 5:32)
@@ -605,7 +605,7 @@ Este arquivo apresenta informações biográficas e genealógicas sobre figuras 
 **Status de historicidade:** INCERTO
 **Livros em que aparece:** GÃªnesis; 1 CrÃ´nicas 1:4–5
 **Arco do personagem:** Ele caminha de costas com Shem para cobrir o pai, age com honra e recebe a bênção do alargamento — um papel breve mas digno numa cena de crise familiar.
-**Ano desde a criação:** não calculável com precisão (nascido quando Noé tinha aproximadamente 500, Gn 5:32)
+**Ano desde a criação:** 1556
 **Ano desde a criação — fim:** não declarado
 
 **Nota:** O sujeito de "que ele habite nas tendas de Shem" (9:27) é ambíguo — pode ser Jafé ou Deus. O TT preserva esta ambiguidade.

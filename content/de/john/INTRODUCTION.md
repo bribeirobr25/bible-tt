@@ -245,6 +245,13 @@ Die Transparente Übersetzung arbeitet mit dem griechischen Text, wie er im Nest
 
 Wo der Text mehrdeutig ist oder bedeutende Varianten existieren, folgt die TT der NA28-Lesart und vermerkt die Variante, anstatt stillschweigend zu emendieren.
 
+### E5. Vergleichendes Überlieferungsintervall
+**[HISTORISCH / ARCHÄOLOGISCH — VERIFIZIERT]**
+
+Das Intervall zwischen der Abfassung des Johannesevangeliums (ca. 90–100 u.Z.) und den frühesten erhaltenen Handschriftenzeugen (P52, ca. 100–150 u.Z. für Johannes 18,31–33 + 18,37–38; P66 + P75, ca. 200–225 u.Z. für umfangreiche Teile des Johannesevangeliums) ist nach den Maßstäben antiker Historiographie relativ kurz. Zum Vergleich: Arrians *Anabasis Alexandrou*, die umfassendste erhaltene Biographie Alexanders des Großen (gest. 323 v.u.Z.), wurde ca. 130–135 u.Z. verfasst — eine Lücke von etwa 450 Jahren zwischen Person und Biographie. Tacitus' *Annalen*, die Ereignisse ab 14 u.Z. behandeln, wurden ca. 116 u.Z. verfasst — eine Lücke von etwa 80–100 Jahren zwischen Ereignissen und Erzählung. Das Überlieferungsintervall des Neuen Testaments liegt am kürzeren Ende der für antike Erzählliteratur über historische Personen typischen Bandbreite. **Dies betrifft nicht die historische Genauigkeit des Inhalts des Evangeliums; es betrifft nur die textüberlieferungsbezogene Lücke zwischen Abfassung und erstem erhaltenen Zeugen.** Dieselben Daten werden zuweilen apologetisch eingesetzt — das ist nicht die Perspektive der TT: der Vergleich ist deskriptiv, nicht beweisführend.
+
+**Quelle:** Nongbri, „The Use and Abuse of P52," *HTR* 98 (2005): 23–48; Roberts, *An Unpublished Fragment of the Fourth Gospel in the John Rylands Library* (1935); Arrian, *Anabasis Alexandrou*, Vorrede; vgl. Bosworth, *A Historical Commentary on Arrian's History of Alexander*, OUP, Bde. I (1980) + II (1995); Tacitus, *Annalen*; vgl. Goodyear, *The Annals of Tacitus*, Cambridge, Bde. I (1972) + II (1981).
+
 ---
 
 ## F. Johannes in der TT lesen
@@ -284,7 +291,7 @@ Die folgenden Einträge des festen Glossars aus RULES-GS.md gelten durchgehend i
 ### F3. Politik des göttlichen Namens bei Johannes
 **[TEXTUELL — VERIFIZIERT]**
 
-Wenn das Johannesevangelium Passagen der Hebräischen Bibel zitiert oder auf sie anspielt, die das Tetragramm (JHWH) enthalten, verwendet der griechische Text κύριος (*Kyrios*). Gemäß der Politik des göttlichen Namens der TT (Option C, RULES-GS.md):
+Wenn das Johannesevangelium Passagen der Hebräischen Bibel zitiert oder auf sie anspielt, die das Tetragramm (der vierbuchstabige hebräische Gottesname יהוה, transliteriert JHWH) enthalten, verwendet der griechische Text κύριος (*Kyrios*). Gemäß der Politik des göttlichen Namens der TT (Option C, RULES-GS.md):
 
 - Der Haupttext gibt *Kyrios* als „der Herr" wieder in Kontexten alttestamentlicher Zitate.
 - Eine Anmerkung identifiziert die AT-Quelle und stellt fest, dass das zugrundeliegende Hebräische das Tetragramm enthält.
@@ -357,6 +364,8 @@ Johannes verwendet durchgehend dualistische Kontraste — Licht/Finsternis, oben
 | Nongbri, B. „The Use and Abuse of P52," *HTR* 98 (2005) | P52-Datierung | C, E |
 | Metzger, B. M. *A Textual Commentary on the Greek New Testament* (2. Aufl., 1994) | Textkritik | E |
 | Parker, D. C. *The Living Text of the Gospels* (1997) | Textkritik | E |
+| Arrian. *Anabasis Alexandrou*. Vorrede (ca. 130–135 u.Z.); vgl. Bosworth, A. B. *A Historical Commentary on Arrian's History of Alexander*, OUP, Bde. I (1980) + II (1995) | Vergleich antiker Historiographie | E |
+| Tacitus. *Annalen*. Loeb Classical Library ed.; vgl. Goodyear, F. R. D. *The Annals of Tacitus*, Cambridge, Bde. I (1972) + II (1981) | Vergleich antiker Historiographie | E |
 
 ---
 

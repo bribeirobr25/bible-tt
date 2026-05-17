@@ -265,7 +265,7 @@ Genesis 9:20–21: Noach (Noah) "planted a vineyard, and he drank of the wine an
 
 ## I. The World at the Time
 
-The dating of Genesis's composition is debated. This section presents "the world at the time" for each major scenario, so readers holding any position can see the historical context relevant to Genesis 9's specific themes: post-flood covenant concepts, the origins of viticulture, nakedness and honor-shame codes, blessing and cursing in ANE society, and divine-warrior bow symbolism. For the full political, economic, and social landscape of each period, see the Genesis 1 companion (Section I).
+> **Cross-reference:** For the full four-scenario, ten-category world context (Political, Economy, Daily Life, Social Structure, Education, Military, Arts, Science, Religion, Neighboring Peoples), see the Genesis 1 companion (Section I, `en/genesis/study/CHAPTER-1-CONTEXT.md`). The entries below address the historical circumstances specifically foregrounded in Genesis 9 — post-flood covenant concepts, the origins of viticulture, nakedness and honor-shame codes, blessing and cursing in ANE society, and divine-warrior bow symbolism.
 
 ---
 
@@ -283,6 +283,14 @@ The Noachic covenant (9:8-17) follows a recognizable pattern: divine announcemen
 
 **I-A4. Bow symbolism in ANE warrior culture**
 In Late Bronze Age iconography, the war bow was the quintessential divine weapon. Egyptian Pharaohs were depicted as archers — Ramesses II's battle reliefs show him as the sole warrior with a bow against the Hittites. Canaanite storm gods (Baal, Hadad) were warrior archers. Mesopotamian deity Ninurta carried a bow. The image in Genesis 9:13 — "my bow I have set in the cloud" — positions YHWH as a divine warrior who has hung up his weapon. For a Late Bronze Age audience fluent in this iconographic language, the gesture carries clear meaning: the war is over, the weapon is retired, the warrior has stood down.
+
+**I-A9. Post-flood religion — blood prohibition and bow-laid-down imagery**
+**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
+Genesis 9's religious framework introduces two innovations distinct from the creation-era religion of Genesis 1. First, the explicit equation of life with blood (9:4: "flesh with its life — its blood — you shall not eat") parallels but differs from contemporaneous Levantine sacrificial systems: Hittite ritual texts treat blood as the offering substance proper but do not forbid its consumption per se; the Canaanite *zebach* offerings collected blood in basins for ritual sprinkling but did not necessarily exclude it from cultic feasting. The Genesis 9 prohibition is a category-marker: the post-flood human is permitted animal flesh but barred from the substance equated with life. Second, the rainbow-as-laid-down-bow (9:13) finds its closest parallel in the Akkadian *Atrahasis* epic, where after the flood the goddess Nintu lifts up her necklace of *lapis lazuli* to commemorate the disaster — a permanent celestial token of the gods' regret. In both traditions, an item visible in the sky becomes a memorial pledge against re-doing the destruction. **Source:** Levine, B.A., *Leviticus* (JPS Torah Commentary), Jewish Publication Society, 1989 (blood-and-life equation in ANE sacrificial systems); Lambert, W.G. and Millard, A.R., *Atrahasis: The Babylonian Story of the Flood*, Eisenbrauns, 1969. **[ANE COMPARATIVE — DOCUMENTED]**
+
+**I-A10. Three-branch ethnogenesis schema (Shem / Cham / Yafet)**
+**[HISTORICAL / ARCHAEOLOGICAL — POSSIBLE]**
+The naming of Noach's three sons as ancestors of three branches of post-flood humanity (9:18–19, with the genealogical fan-out in Gen 10) is a structurally unusual schema in ANE literature. The Akkadian *Atrahasis* epic names a single flood-survivor (Atrahasis / Ziusudra / Utnapishtim depending on tradition) and continues directly to repopulation without a three-son schema. Sumerian King List traditions trace post-flood kingship as a continuous institution descending from one city to the next, not through a three-branch genealogy. The Greek tradition's closest parallel — Hellen as ancestor of Dorians, Aeolians, and Ionians + Achaeans — is structurally similar (one ancestor → three or four named lineage-branches) but is centuries later than the textual layers most scholars assign to Gen 9–10. Possible function: the three-branch schema may serve a covenantal-blessing logic specific to the Mosaic-period Israelite worldview, where Shem (→ Avraham → Israel) is privileged within a triadic frame that places Israel as the inheritor of a particular post-flood lineage among legitimate alternatives. **Source:** Day, J., *From Creation to Babel: Studies in Genesis 1–11*, Bloomsbury T&T Clark, 2013, ch. 6 (sons of Noah). **[PEER-REVIEWED — DOCUMENTED]**
 
 ---
 

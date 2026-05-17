@@ -314,7 +314,7 @@ Genesis 2:21: "YHWH God caused a deep sleep (*tardemah*) to fall upon the human,
 
 ## I. The World at the Time
 
-The dating of Genesis's composition is debated. This section presents "the world at the time" for each major scenario, so readers holding any position can see the historical context most relevant to Genesis 2. The broad political, economic, and social background for each scenario is identical to that of Genesis 1 — the same empires, the same civilizations, the same time periods. What this section focuses on is how Genesis 2's specific content — the garden, agriculture, irrigation, marriage, naming, the *tardemah* surgery — connects to each historical world. For the full 10-category background, see Genesis 1 companion Section I.
+> **Cross-reference:** For the full four-scenario, ten-category world context (Political, Economy, Daily Life, Social Structure, Education, Military, Arts, Science, Religion, Neighboring Peoples), see the Genesis 1 companion (Section I, `en/genesis/study/CHAPTER-1-CONTEXT.md`). The entries below address the historical circumstances specifically foregrounded in Genesis 2 — the garden, agriculture, irrigation, marriage, naming, and the *tardemah* surgery.
 
 ---
 

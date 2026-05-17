@@ -331,7 +331,7 @@ Génesis 2:17: "el día que comas de él, muriendo morirás" — dirigido al hum
 
 ## I. El Mundo en Esa Época
 
-La datación de la composición del Génesis es debatida. Esta sección presenta "el mundo en la época" para cada escenario principal, para que lectores con cualquier posición puedan ver el contexto histórico más relevante para Génesis 3. El contexto político, económico y social general de cada escenario es idéntico al de Génesis 1 — los mismos imperios, las mismas civilizaciones, los mismos períodos. Lo que esta sección enfoca es cómo el contenido específico de Génesis 3 — la serpiente, el conocimiento prohibido, la muerte, la desnudez y la vergüenza, la maldición y la expulsión — se conecta con cada mundo histórico. Para el contexto completo de 10 categorías, vea el compañero de Génesis 1, Sección I.
+> **Referencia cruzada:** Para el contexto mundial completo (cuatro escenarios, diez categorías — Político, Economía, Vida Cotidiana, Estructura Social, Educación, Militar, Artes, Ciencia, Religión, Pueblos Vecinos), véase el companion de Génesis 1 (Sección I, `es/genesis/study/CHAPTER-1-CONTEXT.md`). Las entradas a continuación abordan las circunstancias históricas específicamente destacadas en Génesis 3 — la serpiente, el conocimiento prohibido, la muerte, la desnudez y la vergüenza, la maldición y la expulsión.
 
 ---
 

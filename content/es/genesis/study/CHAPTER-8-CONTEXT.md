@@ -209,7 +209,7 @@ Génesis 8:6–12 envía dos aves: el cuervo (*orev*) "salió, saliendo y volvie
 
 ## I. El Mundo en Esa Época
 
-La datación de la composición del Génesis es debatida. Esta sección presenta "el mundo en esa época" para cada escenario principal, de modo que los lectores que sostengan cualquier posición puedan ver el contexto histórico relevante para la secuencia de re-creación de Génesis 8, la auguración con aves, la construcción de altares y el sacrificio, la formación del pacto y la reanudación de la agricultura. La TT no toma partido sobre cuándo fue compuesto el Génesis. Para el contexto político, económico y social completo de 10 categorías de cada escenario, véase el compañero de Génesis 1, Sección I.
+> **Referencia cruzada:** Para el contexto mundial completo (cuatro escenarios, diez categorías — Político, Economía, Vida Cotidiana, Estructura Social, Educación, Militar, Artes, Ciencia, Religión, Pueblos Vecinos), véase el companion de Génesis 1 (Sección I, `es/genesis/study/CHAPTER-1-CONTEXT.md`). Las entradas a continuación abordan las circunstancias históricas específicamente destacadas en Génesis 8 — la secuencia de re-creación, la auguración con aves, la construcción de altares y el sacrificio, la formación del pacto y la reanudación de la agricultura.
 
 ---
 

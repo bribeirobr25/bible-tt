@@ -108,6 +108,11 @@ function ProphecyCard({ entry }: { entry: ProphecyEntry }) {
             {entry.fulfillmentNotes}
           </p>
         )}
+        {entry.scholarlyNote && (
+          <p className="text-xs text-text-muted italic mt-2 pt-2 border-t border-border-muted">
+            {entry.scholarlyNote}
+          </p>
+        )}
       </div>
     </div>
   );

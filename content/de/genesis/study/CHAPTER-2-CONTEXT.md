@@ -304,7 +304,7 @@ Der „Baum der Erkenntnis von Gut und Böse" (2:9, 17) benennt ein Konzept, das
 
 ## I. Die Welt zur damaligen Zeit
 
-Die Datierung der Abfassung von Genesis ist umstritten. Dieser Abschnitt präsentiert „die Welt zur damaligen Zeit" für jedes wichtige Szenario, damit Leser mit jeder Position den historischen Kontext sehen können, der für Genesis 2 am relevantesten ist. Der breite politische, wirtschaftliche und soziale Hintergrund für jedes Szenario ist identisch mit dem in Genesis 1 — dieselben Imperien, dieselben Zivilisationen, dieselben Zeitperioden. Dieser Abschnitt konzentriert sich darauf, wie der spezifische Inhalt von Genesis 2 — der Garten, die Landwirtschaft, die Bewässerung, die Ehe, das Benennen, die *tardema*-Operation — mit jeder historischen Welt zusammenhängt. Für den vollständigen historischen Kontext mit allen 10 Kategorien siehe Genesis 1 Begleitmaterial Abschnitt I.
+> **Querverweis:** Für den vollständigen Welt-Kontext (vier Szenarien, zehn Kategorien — Politik, Wirtschaft, Alltagsleben, Sozialstruktur, Bildung, Militär, Kunst, Wissenschaft, Religion, Nachbarvölker), siehe den Genesis-1-Begleitkommentar (Abschnitt I, `de/genesis/study/CHAPTER-1-CONTEXT.md`). Die folgenden Einträge behandeln die historischen Umstände, die in Genesis 2 spezifisch hervorgehoben werden — der Garten, die Landwirtschaft, die Bewässerung, die Ehe, das Benennen und die *tardema*-Operation.
 
 ---
 

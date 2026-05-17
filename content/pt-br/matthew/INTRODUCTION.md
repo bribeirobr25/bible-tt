@@ -205,7 +205,7 @@ O texto grego do Evangelho de Mateus foi transmitido através da mesma tradiçã
 - Edições impressas:
   - Erasmo (1516)
   - Tradição do Textus Receptus (sécs. XVI-XIX)
-  - Edições críticas: NA28 / UBS5 (padrão atual)
+  - Edições críticas: NA28 (Nestle-Aland 28ª edição, a edição crítica padrão do Novo Testamento grego) / UBS5 (padrão atual)
 
 ### E2. Testemunhos manuscritos principais
 **[HISTÓRICO / ARQUEOLÓGICO — VERIFICADO]**
@@ -229,6 +229,13 @@ O Evangelho de Mateus não tem uma perturbação textual comparável à Perícop
 - **Mt 27:16-17:** Alguns manuscritos dão o nome do prisioneiro libertado como "Jesus Barrabás" (Ἰησοῦν Βαραββᾶν), o que Orígenes notou. Se "Jesus" é original (acidentalmente retirado por causa do nome sagrado) ou uma adição escribal é debatido.
 
 **Fonte:** Metzger, *A Textual Commentary on the Greek New Testament* (2ª ed., 1994), 1-56.
+
+### E4. Intervalo de transmissão comparativo
+**[HISTÓRICO / ARQUEOLÓGICO — VERIFICADO]**
+
+O intervalo entre a composição do Evangelho de Mateus (c. 70–90 EC) e as testemunhas manuscritas mais antigas sobreviventes (P64 + P67, final do séc. II para Mt 3, 5, 26; P104, final do séc. II para Mt 21; P45, meados do séc. III para a coleção dos quatro Evangelhos) é, pelos padrões da historiografia antiga, relativamente curto. Para comparação: a *Anabasis de Alexandre* de Arriano, a biografia mais abrangente sobrevivente de Alexandre o Grande (m. 323 AEC), foi composta c. 130–135 EC — uma lacuna de aproximadamente 450 anos entre sujeito e biografia. Os *Anais* de Tácito, cobrindo eventos a partir de 14 EC, foram compostos c. 116 EC — uma lacuna de aproximadamente 80–100 anos entre eventos e narrativa. O intervalo de transmissão do NT está no extremo mais curto do intervalo típico para a literatura narrativa antiga sobre figuras históricas. **Isto não diz respeito à exatidão histórica do conteúdo do Evangelho; diz respeito apenas à lacuna de transmissão textual entre composição e primeira testemunha sobrevivente.** Os mesmos dados às vezes são empregados apologeticamente — esse não é o enquadramento da TT: a comparação é descritiva, não evidencial.
+
+**Fonte:** Metzger, *A Textual Commentary on the Greek New Testament* (2ª ed., 1994); Arriano, *Anabasis de Alexandre*, Prefácio; cf. Bosworth, *A Historical Commentary on Arrian's History of Alexander*, OUP, vols. I (1980) + II (1995); Tácito, *Anais*; cf. Goodyear, *The Annals of Tacitus*, Cambridge, vols. I (1972) + II (1981).
 
 ---
 
@@ -294,7 +301,7 @@ Esta é uma decisão de tradução, não uma posição teológica. A TT document
 ### F5. Kyrios — Política do Nome Divino em Mateus
 **[TEXTUAL — VERIFICADO]**
 
-Quando Mateus cita passagens da Bíblia Hebraica contendo o Tetragrama (YHWH), o texto grego usa κύριος (*kyrios*). Conforme a Política do Nome Divino da TT (Opção C, RULES-GS.md):
+Quando Mateus cita passagens da Bíblia Hebraica contendo o Tetragrama (o nome divino hebraico de quatro letras יהוה, transliterado YHWH), o texto grego usa κύριος (*kyrios*). Conforme a Política do Nome Divino da TT (Opção C, RULES-GS.md):
 
 - O texto principal traduz *kyrios* como "o Senhor" em contextos de citação do AT.
 - Uma nota identifica a fonte do AT e declara que o hebraico subjacente tem o Tetragrama.
@@ -335,6 +342,8 @@ Isto é particularmente relevante em Mateus dada a alta densidade de citações 
 | Meier, J.P. "Antioch," em Brown e Meier, *Antioch and Rome* (1983) | Contexto | D |
 | Sim, D.C. *The Gospel of Matthew and Christian Judaism* (1998) | Contexto | D |
 | Metzger, B.M. *A Textual Commentary on the Greek New Testament* (2ª ed., 1994) | Crítica textual | E |
+| Arriano. *Anabasis de Alexandre*. Prefácio (c. 130–135 EC); cf. Bosworth, A. B. *A Historical Commentary on Arrian's History of Alexander*, OUP, vols. I (1980) + II (1995) | Comparativo de história antiga | E |
+| Tácito. *Anais*. Loeb Classical Library ed.; cf. Goodyear, F. R. D. *The Annals of Tacitus*, Cambridge, vols. I (1972) + II (1981) | Comparativo de história antiga | E |
 
 ---
 

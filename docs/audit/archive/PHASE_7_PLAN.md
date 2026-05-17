@@ -1,14 +1,14 @@
 # Phase 7 — Readability Sweep on John & Matthew Companions
 
 **Created:** 2026-05-09
-**Revised:** 2026-05-09 post-audit (`docs/audit/AUDIT_PHASE_7_PLAN.md`) — 6 required items + 5 minor improvements absorbed.
+**Revised:** 2026-05-09 post-audit (`docs/audit/archive/AUDIT_PHASE_7_PLAN.md`) — 6 required items + 5 minor improvements absorbed.
 **Source:** `docs/audit/FIX_IMPLEMENTATION.md` Phase 7; `docs/feedback/DEFERRED_TASKS.md` Task 2; `docs/audit/PENDING.md` "Readability sweep on John / Matthew companions"
 **Status:** drafted; revised post-audit; awaiting project-lead approval before execution
 **Scope:** companion CONTEXT files + book introductions for John and Matthew (Genesis already broadly compliant per DEFERRED_TASKS.md re-check)
 
 ## Audit revisions absorbed (2026-05-09)
 
-Independent audit (`docs/audit/AUDIT_PHASE_7_PLAN.md`) found 1 critical execution-blocker + 5 governance/correctness items + 5 minor improvements. All 6 required items absorbed:
+Independent audit (`docs/audit/archive/AUDIT_PHASE_7_PLAN.md`) found 1 critical execution-blocker + 5 governance/correctness items + 5 minor improvements. All 6 required items absorbed:
 
 - **§3.1 critical — *tektōn* cross-reference target wrong.** Plan claimed M-001 contained the *tektōn* discussion; verified false (M-001 is "Fulfillment Formula Policy"). The actual gloss lives in `content/en/matthew/PEOPLE.md` Yosef-entry Profession field. **Resolution:** dropped the cross-reference target; *tektōn* glosses inline at first use per file (only ~4 occurrences across 3 files; cheap). See §4 below.
 - **§4.1 — file count corrected from 30 to 32.** 4 locales × 2 introductions = **8** intros, not 6. Effort estimate revised. Matthew PEOPLE.md per-file readability sweep added as forward-tracked item in `DEFERRED_TASKS.md`.
@@ -180,7 +180,7 @@ Two entries:
 - `docs/editorial-log/john.md` Entry **J-019** — Phase 7 readability sweep applied; cite the term inventory, the per-locale decision table, the first-use-per-file rule, and the explicit decision to leave existing in-context discussions intact (audit §5.2).
 - `docs/editorial-log/matthew.md` Entry **M-017** — same; cross-reference J-019 as parent.
 
-Both entries' Cross-references field MUST include `docs/audit/NEW_PLAN.md Phase 6.6 closure` — establishes the chronological link between Phase 6.6 (M-014 through M-016) and Phase 7 (audit §5.5).
+Both entries' Cross-references field MUST include `docs/audit/archive/NEW_PLAN.md Phase 6.6 closure` — establishes the chronological link between Phase 6.6 (M-014 through M-016) and Phase 7 (audit §5.5).
 
 Both entries' Alternatives Considered or Status field SHOULD pre-empt the predictable Hellenist-reviewer pushback on tense glosses (audit §5.4):
 
@@ -243,5 +243,5 @@ Genesis editorial log gets one cross-reference entry pointing forward to confirm
 ---
 
 **Plan author:** claude-opus-4-7, 2026-05-09 (revised post-audit same day)
-**Audit:** `docs/audit/AUDIT_PHASE_7_PLAN.md` — verdict "Plan is mostly sound. One critical execution-blocking error (cross-reference target misidentified). Five significant concerns. Four minor issues." All resolved post-revision.
-**Cross-references:** `docs/audit/FIX_IMPLEMENTATION.md` Phase 7; `docs/audit/AUDIT_PHASE_7_PLAN.md` (independent audit); `docs/feedback/DEFERRED_TASKS.md` Task 2 + Phase 6.6 forward-tracking item D (Matthew PEOPLE.md sweep); `docs/audit/PENDING.md` "Readability sweep on John / Matthew companions"; `docs/rules/RULES-CORE.md` §Companion Pre-Submission Checklist (grandmother-test standard); `docs/audit/NEW_PLAN.md` Phase 6.6 closure (chronological predecessor).
+**Audit:** `docs/audit/archive/AUDIT_PHASE_7_PLAN.md` — verdict "Plan is mostly sound. One critical execution-blocking error (cross-reference target misidentified). Five significant concerns. Four minor issues." All resolved post-revision.
+**Cross-references:** `docs/audit/FIX_IMPLEMENTATION.md` Phase 7; `docs/audit/archive/AUDIT_PHASE_7_PLAN.md` (independent audit); `docs/feedback/DEFERRED_TASKS.md` Task 2 + Phase 6.6 forward-tracking item D (Matthew PEOPLE.md sweep); `docs/audit/PENDING.md` "Readability sweep on John / Matthew companions"; `docs/rules/RULES-CORE.md` §Companion Pre-Submission Checklist (grandmother-test standard); `docs/audit/archive/NEW_PLAN.md` Phase 6.6 closure (chronological predecessor).

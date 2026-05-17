@@ -544,7 +544,7 @@ Diese Datei enthält biografische und genealogische Informationen über Personen
 
 **Bedeutung:** UNSICHER („heiß" / „dunkel" — umstritten, keine Etymologie im Text angegeben)
 **Ursprung:** GEBOREN
-**Geburtsjahr:** nicht genau berechenbar (geboren, als Noah ungefähr 500 war, Gen 5:32; bei 9:24 „jüngster Sohn" genannt)
+**Geburtsjahr:** AM 1559 (berechnet: Gen 5:32 beginnt Noahs Zeugung im Alter von 500; Gen 11:10 setzt Shem auf AM 1558; Gen 9:24 nennt Cham „jüngster Sohn" — ein Jahr nach Shem ist die Mindest-Festlegungs-Lesart, die mit dem Drei-Brüder-Begonnen-bei-500-Rahmen vereinbar ist)
 **Todesjahr:** nicht angegeben
 **Lebensdauer:** nicht angegeben
 **Vater:** Noah (Gen 5:32)
@@ -569,7 +569,7 @@ Diese Datei enthält biografische und genealogische Informationen über Personen
 **Historischer Status:** UNSICHER
 **Bücher, in denen er vorkommt:** Genesis; 1. Chronik 1:4, 8; Psalm 78:51; 105:23, 27; 106:22
 **Charakterbogen:** Er sieht die Blöße seines Vaters und erzählt es seinen Brüdern; sein Sohn Kanaan, nicht Ham selbst, erhält den Fluch — eine Erzähllücke, die der Text unerklärt lässt.
-**Jahr seit der Schöpfung:** nicht genau berechenbar (geboren, als Noah ungefähr 500 war, Gen 5:32)
+**Jahr seit der Schöpfung:** 1559
 **Jahr seit der Schöpfung — Ende:** nicht angegeben
 
 **Anmerkung:** Gen 9:24 nennt Ham „seinen jüngsten Sohn" (*beno ha-qatan*). Der Fluch trifft Kanaan, nicht Ham selbst — der Text erklärt nicht, warum.
@@ -580,7 +580,7 @@ Diese Datei enthält biografische und genealogische Informationen über Personen
 
 **Bedeutung:** „Erweiterung" / „er möge erweitern" (Gen 9:27; Wortspiel — „Gott möge Yafet erweitern [*yaft*]")
 **Ursprung:** GEBOREN
-**Geburtsjahr:** nicht genau berechenbar (geboren, als Noah ungefähr 500 war, Gen 5:32; möglicherweise der Älteste — siehe Anmerkung zu Shem)
+**Geburtsjahr:** AM 1556 (berechnet: Gen 5:32 beginnt Noahs Zeugung im Alter von 500; Gen 10:21 liest sich am natürlichsten als „Yafet der Ältere" — was Yafet zum Erstgeborenen macht; Shem dann geboren AM 1558 nach Gen 11:10, Cham AM 1559 nach Gen 9:24 „jüngster Sohn")
 **Todesjahr:** nicht angegeben
 **Lebensdauer:** nicht angegeben
 **Vater:** Noah (Gen 5:32)
@@ -605,7 +605,7 @@ Diese Datei enthält biografische und genealogische Informationen über Personen
 **Historischer Status:** UNSICHER
 **BÃ¼cher, in denen er vorkommt:** Genesis; 1. Chronik 1:4–5
 **Charakterbogen:** Er geht rückwärts mit Shem, um den Vater zu bedecken, handelt ehrenhaft und empfängt den Segen der Erweiterung — eine kurze, aber würdevolle Rolle in einer Szene der Familienkrise.
-**Jahr seit der Schöpfung:** nicht genau berechenbar (geboren, als Noah ungefähr 500 war, Gen 5:32)
+**Jahr seit der Schöpfung:** 1556
 **Jahr seit der Schöpfung — Ende:** nicht angegeben
 
 **Anmerkung:** Das Subjekt von „er möge wohnen in den Zelten Shems" (9:27) ist mehrdeutig — es könnte Yafet oder Gott sein. Das TT bewahrt diese Mehrdeutigkeit.

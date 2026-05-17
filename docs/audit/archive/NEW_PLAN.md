@@ -6,11 +6,11 @@
 
 ## Audit revisions (2026-05-09)
 
-Independent audit (`docs/audit/AUDIT_NEW_PLAN.md`) surfaced 2 execution blockers + 4 governance/correctness fixes + 6 minor improvements. All agreed-upon fixes incorporated below. One disagreement noted (§3 footnote on 6.6C disclaimer requirement).
+Independent audit (`docs/audit/archive/AUDIT_NEW_PLAN.md`) surfaced 2 execution blockers + 4 governance/correctness fixes + 6 minor improvements. All agreed-upon fixes incorporated below. One disagreement noted (§3 footnote on 6.6C disclaimer requirement).
 
 **User-requested addition (2026-05-09 second pass):** sub-phase **6.6I — Dead code + dead content audit** added at the end of the execution sequence. The original plan was purely additive; the user requested an explicit cleanup pass with strong "no errors, regressions, or side-effects" guardrails. 6.6I is a conservative, gated audit (detect → classify → act per item, never auto-remove) covering 6 low-risk + 6 medium-risk categories (12 total); 5 high-risk categories (markdown sections within parsed files, Domain types, dangling cross-references, allow-list entries, CHANGELOG files) explicitly deferred to future passes.
 
-**Post-revision audit (2026-05-09 third pass):** independent re-audit of the revised plan + 6.6I addition (`docs/audit/AUDIT_NEW_PLAN.md` §"Post-revision review"). Auditor verdict: "Plan is ready for execution." Three small refinements (R1, R2, R3) absorbed:
+**Post-revision audit (2026-05-09 third pass):** independent re-audit of the revised plan + 6.6I addition (`docs/audit/archive/AUDIT_NEW_PLAN.md` §"Post-revision review"). Auditor verdict: "Plan is ready for execution." Three small refinements (R1, R2, R3) absorbed:
 - **R1** — 6.6I effort estimate bumped from 1.5–2h → **2.5–3h** (test cycle realism, i18n script complexity, knip FP volume on `PersonEntry` fields)
 - **R2** — §7 Risks table gained an 8th row for 6.6I auto-removal false-positives
 - **R3** — 6.6I closure documentation redirected from editorial-log to `FIX_IMPLEMENTATION.md` per Rule 28 / §EDITORIAL LOG SPECIFICATION §L1 (editorial log records translation/governance decisions, NOT code-cleanup audits)
@@ -621,8 +621,8 @@ After all sub-phases close, run:
 
 **Plan author:** claude-opus-4-7, 2026-05-09, post Phase 6 closure
 **Audits:**
-1. First pass — `docs/audit/AUDIT_NEW_PLAN.md` §1–§7 (claude-opus-4-7, 2026-05-09): 2 execution-blockers + 4 governance/correctness items + 6 minor improvements absorbed; auditor §4.3 was incorrect — verified against RULES-CORE.md line 792.
+1. First pass — `docs/audit/archive/AUDIT_NEW_PLAN.md` §1–§7 (claude-opus-4-7, 2026-05-09): 2 execution-blockers + 4 governance/correctness items + 6 minor improvements absorbed; auditor §4.3 was incorrect — verified against RULES-CORE.md line 792.
 2. User-requested addition (2026-05-09): 6.6I dead-code/content cleanup sub-phase added.
-3. Second pass — `docs/audit/AUDIT_NEW_PLAN.md` §"Post-revision review" (claude-opus-4-7, 2026-05-09): verdict "Plan is ready for execution"; R1/R2/R3 refinements absorbed; FT1/FT2 forward-tracking items absorbed; auditor self-corrected on §4.3.
+3. Second pass — `docs/audit/archive/AUDIT_NEW_PLAN.md` §"Post-revision review" (claude-opus-4-7, 2026-05-09): verdict "Plan is ready for execution"; R1/R2/R3 refinements absorbed; FT1/FT2 forward-tracking items absorbed; auditor self-corrected on §4.3.
 **Status:** Plan revised through three audit passes. All decisions resolved. **APPROVED for execution.**
 **Next action:** execute in recommended order (§4) with per-sub-phase audit + meta-doc sync; final cross-cutting integrity sweep on closure.

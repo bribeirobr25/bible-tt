@@ -219,7 +219,7 @@ La narrativa del diluvio proporciona fechas de calendario exactas: inicio en el 
 
 ## I. El Mundo en Esa Época
 
-La datación de la composición del Génesis es debatida. Esta sección presenta "el mundo en esa época" para cada escenario principal, de modo que los lectores que sostengan cualquier posición puedan ver el contexto histórico relevante para el mecanismo del diluvio en Génesis 7, los sistemas de medición, el manejo de animales, la cosmología del agua y la precisión calendárica. La TT no toma partido sobre cuándo fue compuesto el Génesis. Para el contexto político, económico y social completo de 10 categorías de cada escenario, véase el compañero de Génesis 1, Sección I.
+> **Referencia cruzada:** Para el contexto mundial completo (cuatro escenarios, diez categorías — Político, Economía, Vida Cotidiana, Estructura Social, Educación, Militar, Artes, Ciencia, Religión, Pueblos Vecinos), véase el companion de Génesis 1 (Sección I, `es/genesis/study/CHAPTER-1-CONTEXT.md`). Las entradas a continuación abordan las circunstancias históricas específicamente destacadas en Génesis 7 — el mecanismo del diluvio, los sistemas de medición, el manejo de animales, la cosmología del agua y la precisión calendárica.
 
 ---
 

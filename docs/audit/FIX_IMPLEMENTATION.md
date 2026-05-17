@@ -2,13 +2,13 @@
 
 **Created:** 2026-05-08
 **Updated:** 2026-05-08 — folded in topics 1, 2, 3.1–3.11 from the People & Genealogy / Book Context / Book Introduction discussion.
-**Revised:** 2026-05-08 (post-audit) — incorporated the 7 blockers and 9 significant concerns from `docs/audit/AUDIT_FIX.md`. New Phase 5.5 extracted for rule amendments. Phase 1 sub-items respecified (matching strategy, period algorithm, Curiosities format, generation-reference extensibility, safeguard-pointer UI). Phase 0 lint rules path-scoped and allow-list mechanism specified. CLAUDE.md sync added to per-phase Definition of Done. Per-phase git tagging added for rollback.
+**Revised:** 2026-05-08 (post-audit) — incorporated the 7 blockers and 9 significant concerns from `docs/audit/archive/AUDIT_FIX.md`. New Phase 5.5 extracted for rule amendments. Phase 1 sub-items respecified (matching strategy, period algorithm, Curiosities format, generation-reference extensibility, safeguard-pointer UI). Phase 0 lint rules path-scoped and allow-list mechanism specified. CLAUDE.md sync added to per-phase Definition of Done. Per-phase git tagging added for rollback.
 
 **Authoritative inputs:**
 - `docs/feedback/FEEDBACK.md` — verified re-audit (2026-05-08)
 - `docs/audit/PENDING.md` — verified open items (2026-05-08)
 - `docs/feedback/DEFERRED_TASKS.md` — verified deferred tasks (2026-05-08)
-- `docs/audit/AUDIT_FIX.md` — independent audit of the 2026-05-08 plan (Claude Opus 4.7)
+- `docs/audit/archive/AUDIT_FIX.md` — independent audit of the 2026-05-08 plan (Claude Opus 4.7)
 - `docs/rules/RULES-CORE.md` + `RULES-HB.md` + `RULES-GS.md` (v3.2) — translation governance
 - `docs/architecture/STANDARDS.md` — DDD, TypeScript, testing, dependencies
 - `docs/design/TT-DESIGN-SYSTEM.md` — visual / interaction standards
@@ -102,8 +102,8 @@ Flag any ES NT chapter file whose front matter lacks `Reina-Valera`.
 ### 0.5 PT-BR `unigênito` (BLOCKING — until Phase 4 lands)
 Flag occurrences in PT-BR John chapters and CONTEXT companions.
 
-### 0.6 John PEOPLE.md absence (BLOCKING — after Phase 10)
-Fail if `content/<locale>/john/` exists without `PEOPLE.md`.
+### 0.6 John PEOPLE.md absence (BLOCKING — ACTIVATED 2026-05-14 post-Phase 10 closure)
+Fail if `content/<locale>/john/` exists without `PEOPLE.md`. Activated in `scripts/content-lint.sh` after Phase 10 (`docs/audit/archive/PHASE_10_PLAN.md`) closed 2026-05-14 with all 4 locales authored.
 
 ### 0.7 PEOPLE.md "TT" leftover heading + H1 disposition (BLOCKING)
 
@@ -851,7 +851,7 @@ Phase 6 is closed. This is the single-paragraph synthesis of Phases 6A + 6B + th
 
 **Phase 6B — Tier 2 note bloat pilot on Genesis 9.** Rule 29 §Tier 2 Relocation Protocol (line 734) validated by tightening 4 oversize Tier 2 notes across all 4 locales (EN / PT-BR / DE / ES) with explicit pointers to existing companion sections: 9:1 *פְּרוּ וּרְבוּ* → §A1 (re-creation comparison); 9:13 *קַשְׁתִּי* → §A5 + §D1 (war-bow martial semantics); 9:24 *בְּנוֹ הַקָּטָן* → §G3 (birth-order puzzle); 9:25 *אָרוּר כְּנָעַן* → §G1 (cursed-Kenaan proposals — added during audit). Oversize note count dropped 7 → 3 per locale (PT-BR=4 by heuristic-edge artifact; visually 3 fact-bearing sentences + tag + pointer). Receiving sections were already authored — no `Section H` provenance update triggered. PT-BR's stale `Seção [B]` pointer corrected to specific `§G1`. The 7-step technique recipe (diagnostic regex → content-type triage → receiving-section identification → tighten ≤3 sentences → append pointer → cross-locale propagate → re-validate) is documented in `docs/editorial-log/genesis.md` Entry 2026-05-09-100. The Phase 6B audit pass surfaced 2 findings: (a) Rule 13 confidence-label form regression in PT-BR + ES (plural `POSSÍVEIS` / `POSIBLES` instead of singular tag-form) — fixed in 3 instances including 1 pre-existing case at line 386; (b) the *arur kena'an* note was the most oversize (5 sentences, multiple-positions trigger) but had been missed by the initial pilot — included in audit fix with §G1 pointer. Both regression patterns added to the recipe as hardening notes for future-chapter propagation. Remaining 17 chapters (Gen 1–8, 10–12 + John 1–3 + Matt 1–3) deferred to a dedicated propagation phase (~25h estimated).
 
-**Aggregate FEEDBACK.md state (post Phase 6 closure):** 23 RESOLVED (1, 2, 3, 4, 5, 6, 7, 9, 10, 11, 12, 13, 14, 17, 18, 21, 22, 23, 26, 34, 36, 37, 38) + 2 PARTIAL (8 PT-BR archaic register; 33 Genesis/Matthew PEOPLE.md governance hardening — John PEOPLE.md still missing) + 13 NOT VERIFIED (15, 16, 19, 20, 24, 25, 27, 28, 29, 30, 31, 32, 35) + 0 STILL OPEN = 38 ✓. Item 19 sub-status: pilot complete; propagation deferred.
+**Aggregate FEEDBACK.md state (post Phase 6 closure):** 23 RESOLVED (1, 2, 3, 4, 5, 6, 7, 9, 10, 11, 12, 13, 14, 17, 18, 21, 22, 23, 26, 34, 36, 37, 38) + 2 PARTIAL (8 PT-BR archaic register; 33 Genesis/Matthew PEOPLE.md governance hardening — John PEOPLE.md still missing) + 13 NOT VERIFIED (15, 16, 19, 20, 24, 25, 27, 28, 29, 30, 31, 32, 35) + 0 STILL OPEN = 38 ✓. Item 19 sub-status: pilot complete; propagation deferred. **Update 2026-05-14 (post Phase 10):** Item 33 (John PEOPLE.md authoring) closed via Phase 10 (4 locales × 11 entries; see `docs/editorial-log/john.md` Entry J-021). Aligned with CLAUDE.md / FEEDBACK.md current ledger (item 19 reclassified PARTIAL in Phase 6B per "pilot complete; propagation deferred"): **24 RESOLVED / 2 PARTIAL (8 PT-BR archaic register; 19 Tier 2 propagation deferred) / 12 NOT VERIFIED (15, 16, 20, 24, 25, 27, 28, 29, 30, 31, 32, 35) / 0 STILL OPEN = 38 ✓**.
 
 **Editorial-log entries added in Phase 6:**
 - `genesis.md` 2026-05-09-098 (PT-BR Almeida Option B — parent decision)
@@ -904,15 +904,15 @@ Files (24): `content/{en,pt-br,de,es}/{john,matthew}/study/CHAPTER-{1,2,3}-CONTE
 
 ---
 
-## Phase 8 — Section I 10-category coverage audit
+## Phase 8 — Section I 10-category coverage audit — CLOSED 2026-05-14
 
-72 files. EN-first. Per file, per scenario, list which of the 10 categories are addressed; identify gaps; author missing or add cross-reference; apply Phase 7 readability standard; apply Rule 29 dual-label.
-
-**Estimated effort:** ~50–70 hours.
+**Closure summary:** Phase 8 executed under **Interpretation A** (anchor + cross-reference convention by design) + **Option A Maximal** (every (i) Genuine gap closed in one phase). The diagnostic (`docs/audit/archive/PHASE_8_DIAGNOSTIC.md`) revealed the I1–I4-only authoring pattern across 16 of 18 chapters and identified Gen 1 + John 1 as the canonical period anchors. The triage (`docs/audit/archive/PHASE_8_TRIAGE.md`) classified the 380 absent cells: 90 NT-chapter cells already documented via explicit `> **Cross-reference:**` quote-blocks; 290 Gen 2–12 cells implicitly covered but undocumented; 8 narrative-specific (i) Genuine gap cells warranting authored entries. Two work products landed: (a) 44 cross-reference quote-blocks added to Gen 2–12 × 4 locales (bringing OT into structural parity with NT); (b) 8 narrative-specific (i) entries × 4 locales = 32 entries across gen/4 IA-7, gen/9 IA-9 + IA-10, gen/10 IA-10, gen/11 IA-5, gen/12 IA-10, john/2 IA-7, matt/3 IA-5. 801 tests pass; pnpm content:lint passes; pnpm build compiles; HTTP 200 across all 28 affected routes (4 locales × 7 changed chapters). Total elapsed: ~14h (down from pre-diagnostic 50–70h estimate due to anchor-convention discovery). See `docs/editorial-log/genesis.md` Entry 2026-05-14-103 (anchor) + `docs/editorial-log/john.md` Entry J-022 + `docs/editorial-log/matthew.md` Entry M-020.
 
 ---
 
-## Phase 9 — Book Context page content cycle (Topic 1, Option A)
+## Phase 9 — Book Context page content cycle (Topic 1, Option A) — CLOSED 2026-05-15
+
+**Closure summary:** Phase 9 executed per `docs/audit/archive/PHASE_9_PLAN.md` with Q1=Medium / Q2=Flat / Q3=Canary / Q4=Reuse EnrichmentEntryCard / Q5=Path A (existing ClaimType union). Diagnostic + final motif list at `docs/audit/archive/PHASE_9_MOTIF_CANDIDATES.md` (20 motifs total: 9 Genesis + 6 John + 5 Matthew, after user-review revisions dropping G-M10 / restoring J-M6 / sharpening M-M5 / adding G-M6↔G-M7 cross-references / making J-M3/J-M4 single-in-scope-chapter framing explicit). Code infrastructure: new `BookContextData` + `BookContextMotif` domain types; `book-context-parser.ts` with 15 parser tests (816 total, up from 801); `readBookContext()` + `getBookContextData()` extensions; `book-context-view.tsx` reusing EnrichmentEntryCard; placeholder page replaced. Content: 12 CONTEXT.md files × ~300 words/motif at Medium depth = ~24,000 words total. §0.10 lint extended via new `$CONTEXT_FILES` variable. i18n `bookContext.chapters` key added to all 4 locales. HTTP 200 across all 12 routes; cross-locale parity confirmed (motif count + chapter lists identical). See `docs/editorial-log/genesis.md` Entry 2026-05-15-104 (anchor) + `docs/editorial-log/john.md` Entry J-024 + `docs/editorial-log/matthew.md` Entry M-021.
 
 ### Dependency reduction (resolves AUDIT §3.6)
 
@@ -955,7 +955,9 @@ New parser test file with ≥ 8 cases.
 
 ---
 
-## Phase 10 — Author John PEOPLE.md (NEW issue N3 + DEFERRED_TASKS Task 6 finish)
+## Phase 10 — Author John PEOPLE.md (NEW issue N3 + DEFERRED_TASKS Task 6 finish) — CLOSED 2026-05-14
+
+**Closure summary:** Phase 10 executed per `docs/audit/archive/PHASE_10_PLAN.md` (8 audit findings absorbed pre-execution: 5 Significant + 2 PV-must-fix + 1 Minor). All 4 locale files authored at `content/{en,pt-br,de,es}/john/PEOPLE.md` — 11 entries each × 4 locales = 44 entries: 2 see-only cross-book pointers to `matthew/PEOPLE.md` (Yochanan, Yeshua); 5 full PersonEntry profiles (Andreas, Shimon Kefa, Philippos, Nathanael, Nikodemos); 1 Yehudim group entry (Ioudaioi Policy 3-sense breakdown carried in `**Character arc:**` field per audit Significant #2 fix — the originally planned `**Senses:**`/`**Cross-reference:**`/`**Group entry:**` field-keys are not in EXACT_LABEL_ALIASES and would be silently dropped); 3 see-only stubs to future books (Mosheh→exodus, Eliyahu→kings, Yeshayahu→isaiah — dangling-pointer fallback verified). Lint §0.6 activated; `$PEOPLE_FILES` + `$NON_EN_PEOPLE_FILES` extended with 4 + 3 john paths respectively. 801 tests pass; pnpm build succeeds; HTTP 200 across 4 locales. See `docs/editorial-log/john.md` Entry J-021.
 
 ### Schema reference (resolves AUDIT §5.4)
 
@@ -1265,7 +1267,7 @@ The audit cycle is closed when:
 
 The plan is now ready for execution after Phase 5.5 path decision (Standard vs Emergency vs Hybrid).
 
-- **2026-05-09 (Phase 6.6 closed)** — post-Phase-6 UX + content polish landed across 9 sub-phases (per `docs/audit/NEW_PLAN.md`):
+- **2026-05-09 (Phase 6.6 closed)** — post-Phase-6 UX + content polish landed across 9 sub-phases (per `docs/audit/archive/NEW_PLAN.md`):
   - **6.6A** — en-dash content sweep. Numeric/scriptural ranges `--` → `–` (U+2013) across all 4 locales × 3 books; perl one-liner anchored on digits to avoid touching markdown horizontal rules and word-range em-dashes; ES per-locale pre-audit confirmed regex coverage; dual residue check (`[0-9]+--[0-9]+` returns 0; word-ranges manually classified — anchor slugs preserved, sentence em-dashes deferred). Plus targeted manual fix: Roman numeral page range `lxxiii--lxxv` in EN/ES Matthew INTRODUCTION.
   - **6.6B** — person heading parser fix. `## Name (Familiar)` heading now auto-extracts `name + familiarName` via `(.+?)\s*\(([^)]+)\)` regex; explicit `**Familiar name:**` field still allowed and overrides via line-order processing. Fixes the `Adam (Adam) (Adam)` display bug. +4 parser tests (792 → 796); slug-anchor audit verified slug used only as React `key`, no URL impact.
   - **6.6C** — introduction layout dedup. Disclaimer now wrapped in collapsed `<details>` labeled "Reading note" / "Nota de leitura" / "Hinweis zum Lesen" / "Nota de lectura" at top of `IntroductionView`; H2 title removed (page H1 dominates). Rule 29 §792 disclaimer requirement preserved (DOM-accessible, keyboard-navigable, visible when expanded). New i18n key `introduction.readingNote` in all 4 locales; `IntroductionView` prop changed from `title` to `readingNoteLabel`; both callsites updated (introduction page + book landing).
@@ -1290,3 +1292,11 @@ The plan is now ready for execution after Phase 5.5 path decision (Standard vs E
   - **Final verification:** 796 tests passing (792 baseline + 4 new in 6.6B), Biome clean, content-lint exit 0 (1 pre-existing warn-only modern-mapping signal unchanged), `pnpm build` static-generates all routes cleanly across 4 locales × 3 books.
 
 - **2026-05-09 (Phase 6.6 post-closure follow-up — Matthew verse-marker fix)** — surfaced via user browser-check after Phase 6.6 closure. Symptom: Matthew chapters in EN, DE, ES rendered raw `^1^` `^2^` ... `^25^` text inline next to verses instead of superscript verse numbers; PT-BR Matthew rendered correctly. Root cause: authoring inconsistency — EN/DE/ES Matthew CHAPTER-1/2/3 used markdown caret-superscript syntax (`^N^`, a CommonMark/GFM extension), but the project's `render-markdown-safe.ts` does not implement that extension, so the markers leaked as literal text. PT-BR Matthew + all locales for Genesis + John already used Unicode superscript characters directly (`¹` `²` ... `²⁵`), which render natively without any markdown extension. **Fix:** Python regex `\^(\d+)\^` → per-digit Unicode superscript mapping (`0`→`⁰` through `9`→`⁹`; multi-digit translates each digit) applied across the 9 affected files. **195 caret-syntax occurrences converted** (EN-1: 25, EN-2: 23, EN-3: 17, DE-1: 25, DE-2: 23, DE-3: 17, ES-1: 25, ES-2: 23, ES-3: 17). Residue grep `\^[0-9]+\^` returns 0; tests 796/796; lint clean; build clean. Closure entry recorded in this implementation log per Rule 28 §EDITORIAL LOG SPECIFICATION §L1 — content-format mechanical fix, no translation/governance decision involved, so no editorial-log entry. The convention going forward: **all Bible verse markers in `content/*/*/CHAPTER-N.md` files use Unicode superscript characters, never markdown caret-superscript syntax** — author tooling should produce `¹²³⁴⁵⁶⁷⁸⁹⁰` directly.
+
+- **2026-05-13 (Phase 11 closed — Option C)** — John & Matthew prophecy material decision resolved via hybrid Option C (`docs/audit/archive/PHASE_11_PLAN.md`, plan revised through two audit rounds in `docs/audit/archive/AUDIT_PHASE_11_PLAN.md`).
+  - **Files authored:** 12 PROPHECY files = 3 chapters × 4 locales. `content/{en,pt-br,de,es}/john/study/CHAPTER-3-PROPHECY.md` (1 entry each — Numbers 21 / lifted-Son-of-Man typological parallel). `content/{en,pt-br,de,es}/matthew/study/CHAPTER-1-PROPHECY.md` (1 entry each — Isa 7:14 *parthenos*/*almah*). `content/{en,pt-br,de,es}/matthew/study/CHAPTER-2-PROPHECY.md` (4 entries each — Mic 5:1+2 Sam 5:2 Bethlehem composite; Hos 11:1 typological exodus; Jer 31:15 Rachel weeping temporal-resultive; Mt 2:23 Natsri unresolved source). Total: 6 prophecy entries per locale; 24 entries authored across all locales.
+  - **Fulfillment statuses:** 4×CLAIMED (Yeshua-lifted, Isa 7:14, Hos 11:1, Jer 31:15); 1×PARTIAL (Mic 5:1+2 Sam 5:2 — broader Davidic-from-Bethlehem expectation); 1×DEBATED (Mt 2:23 Natsri — source itself genuinely unidentified).
+  - **All entries** include three readings (Jewish / Christian / Islamic) per Genesis prophecy precedent, all labeled [DOCUMENTED]; all cross-reference upstream policy entries (M-001 for the four fulfillment-formula types; M-002 for *parthenos*/*almah*; John 3 CONTEXT §A6 + §B2 for *Hypsōthēnai* / bronze-serpent). Cross-references live in `**Fulfillment notes:**` (the parser-recognized field) per round-1 audit C1/C2 fix.
+  - **Plan-audit findings absorbed:** round 1 — C1 scholarly-note-dropped, C2 cross-refs-in-scholarly-note-dropped, S1 subject-not-rendered, S2 readings-single-line, S3 baseline-re-verify, S4 DoD-wording. Round 2 — R2.1 single-line-fulfillmentNotes (CRITICAL silent data loss), R2.2 `--` em-dash-content-lint blocker (CRITICAL build blocker), R2.3 stale UNFULFILLED test comment (fixed in `prophecy-parser.test.ts` line 112), R2.4 missing-Ruleset DoD check.
+  - **Post-execution audit (R2.1 + R2.2 + R2.4):** custom Python script verified all 12 files: 0 empty `**Fulfillment notes:**` values (R2.1 silent-data-loss check); 0 ` -- ` em-dash residue (R2.2 build-blocker check); all 12 files have `**Ruleset:** v3.3` or locale-translated equivalent in front-matter (R2.4 missing-ruleset check).
+  - **Final verification:** 796 tests passing (same baseline — no new tests required since schema unchanged); prophecy-parser 23/23 still passing; Biome clean; content-lint exit 0 (1 pre-existing warn-only signal unchanged); `pnpm build` static-generates all routes cleanly. Prophecy tab now visible at `/{locale}/{john,matthew}/chapter/{3,1,2}` across 4 locales × 3 chapters = 12 newly-lit Prophecy-view-mode pages. Editorial-log entries J-020 + M-018 logged.

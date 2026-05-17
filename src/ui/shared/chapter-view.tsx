@@ -101,7 +101,7 @@ export function ChapterView({
           </div>
 
           <div
-            className="flex gap-1 bg-bg-muted rounded-lg p-1 w-fit"
+            className="flex gap-1 bg-bg-muted rounded-lg p-1 w-fit max-w-full overflow-x-auto"
             role="tablist"
           >
             {availableModes.map(({ mode: m, labelKey }) => (

@@ -48,7 +48,7 @@ Este archivo contiene material de contexto organizado por tema. Cada entrada lle
 
 El Evangelio de Mateo es el primer libro del canon del Nuevo Testamento. Es el más judío de los cuatro Evangelios — profundamente enraizado en la Biblia Hebrea, estructurado alrededor de citas de cumplimiento, y preocupado por la observancia de la Torá, el papel de Israel y la identidad de Jesús como el Mesías de la expectativa judía. Contiene 28 capítulos y aproximadamente 1.071 versículos.
 
-Mateo comparte material sustancial con Marcos y Lucas (el "Problema SinÃ³ptico") pero se distingue por su estructura organizativa, su Ã©nfasis en JesÃºs como maestro y su extenso compromiso con las Escrituras Hebreas. Incluye material ausente de los otros SinÃ³pticos: la genealogÃ­a que traza el linaje de JesÃºs a travÃ©s de David hasta Abraham (1:1–17), la narrativa del nacimiento con los sueÃ±os de JosÃ© y los magos (1:18–2:23), y bloques significativos de material de enseÃ±anza Ãºnico de Mateo.
+Mateo comparte material sustancial con Marcos y Lucas (el "Problema Sinóptico") pero se distingue por su estructura organizativa, su énfasis en Jesús como maestro y su extenso compromiso con las Escrituras Hebreas. Incluye material ausente de los otros Sinópticos: la genealogía que traza el linaje de Jesús a través de David hasta Abraham (1:1–17), la narrativa del nacimiento con los sueños de José y los magos (1:18–2:23), y bloques significativos de material de enseñanza único de Mateo.
 
 **Fuente:** Davies y Allison, *A Critical and Exegetical Commentary on the Gospel According to Saint Matthew* (ICC, 1988–1997), I.1–58; Luz, *Matthew* (Hermeneia, 2001–2007), I.1–20.
 
@@ -57,15 +57,15 @@ Mateo comparte material sustancial con Marcos y Lucas (el "Problema SinÃ³ptico
 
 Mateo se organiza alrededor de cinco bloques de discurso principales, cada uno concluido por la fórmula "y sucedió cuando Jesús terminó estas palabras/dichos" (καὶ ἐγένετο ὅτε ἐτέλεσεν ὁ Ἰησοῦς τοὺς λόγους τούτους, o variante). Esta estructura quíntuple ha sido ampliamente señalada desde B. W. Bacon (1918):
 
-**Discurso 1 â SermÃ³n del Monte (capÃ­tulos 5–7):** Ãtica del reino. Las Bienaventuranzas, las antÃ­tesis ("han oÃ­do... pero yo les digo"), la OraciÃ³n del SeÃ±or, instrucciÃ³n sobre la justicia que excede la de los escribas y fariseos.
+**Discurso 1 — Sermón del Monte (capítulos 5–7):** Ética del reino. Las Bienaventuranzas, las antítesis ("han oído... pero yo les digo"), la Oración del Señor, instrucción sobre la justicia que excede la de los escribas y fariseos.
 
 **Discurso 2 — Discurso de Misión (capítulo 10):** Instrucciones a los doce apóstoles para su misión. Advertencias de persecución, seguridades de cuidado divino, el costo del discipulado.
 
-**Discurso 3 â Discurso de ParÃ¡bolas (capÃ­tulo 13):** Siete parÃ¡bolas del reino de los cielos â el sembrador, el trigo y la cizaÃ±a, la semilla de mostaza, la levadura, el tesoro escondido, la perla, la red. EnseÃ±anza sobre por quÃ© JesÃºs habla en parÃ¡bolas (13:10–17).
+**Discurso 3 — Discurso de Parábolas (capítulo 13):** Siete parábolas del reino de los cielos — el sembrador, el trigo y la cizaña, la semilla de mostaza, la levadura, el tesoro escondido, la perla, la red. Enseñanza sobre por qué Jesús habla en parábolas (13:10–17).
 
 **Discurso 4 — Discurso Comunitario (capítulo 18):** Instrucciones para la vida dentro de la comunidad de discípulos. El mayor en el reino, la oveja perdida, la corrección fraterna, el perdón (setenta veces siete), la parábola del siervo que no perdona.
 
-**Discurso 5 â Discurso EscatolÃ³gico (capÃ­tulos 24–25):** La destrucciÃ³n del Templo, seÃ±ales del fin, parÃ¡bolas de preparaciÃ³n (diez vÃ­rgenes, talentos), el juicio de las naciones.
+**Discurso 5 — Discurso Escatológico (capítulos 24–25):** La destrucción del Templo, señales del fin, parábolas de preparación (diez vírgenes, talentos), el juicio de las naciones.
 
 Cada discurso está precedido por una sección narrativa, creando un ritmo de narrativa-discurso-narrativa-discurso a lo largo del Evangelio. El patrón quíntuple ha invitado comparación con los cinco libros de la Torá, aunque si Mateo pretendió conscientemente este paralelo o si es una observación moderna leída retrospectivamente sobre el texto es debatido.
 
@@ -76,13 +76,13 @@ Cada discurso está precedido por una sección narrativa, creando un ritmo de na
 
 El arco narrativo de Mateo se mueve a través de cuatro fases principales:
 
-**OrÃ­genes y preparaciÃ³n (1:1–4:16):** GenealogÃ­a (1:1–17), narrativa del nacimiento (1:18–2:23), ministerio de Juan el Inmersor (3:1–12), inmersiÃ³n y prueba de JesÃºs (3:13–4:11), retirada a Galileaea (4:12–16).
+**Orígenes y preparación (1:1–4:16):** Genealogía (1:1–17), narrativa del nacimiento (1:18–2:23), ministerio de Juan el Inmersor (3:1–12), inmersión y prueba de Jesús (3:13–4:11), retirada a Galileaea (4:12–16).
 
-**Ministerio galileo (4:17–16:20):** EnseÃ±anza pÃºblica y sanaciÃ³n, comenzando con "Desde entonces JesÃºs comenzÃ³ a proclamar" (4:17). Los cinco discursos caen principalmente dentro de esta secciÃ³n. La confesiÃ³n de Pedro en Cesarea de Filipo (16:13–20) marca un punto de inflexiÃ³n.
+**Ministerio galileo (4:17–16:20):** Enseñanza pública y sanación, comenzando con "Desde entonces Jesús comenzó a proclamar" (4:17). Los cinco discursos caen principalmente dentro de esta sección. La confesión de Pedro en Cesarea de Filipo (16:13–20) marca un punto de inflexión.
 
-**Viaje a JerusalÃ©n y pasiÃ³n (16:21–27:66):** Predicciones de la pasiÃ³n, entrada en JerusalÃ©n, controversias en el templo, el discurso escatolÃ³gico, la Ãºltima cena, arresto, juicio, crucifixiÃ³n, sepultura.
+**Viaje a Jerusalén y pasión (16:21–27:66):** Predicciones de la pasión, entrada en Jerusalén, controversias en el templo, el discurso escatológico, la última cena, arresto, juicio, crucifixión, sepultura.
 
-**ResurrecciÃ³n y comisiÃ³n (28:1–20):** La tumba vacÃ­a, apariciÃ³n a las mujeres, la Gran ComisiÃ³n en el monte en Galileaea.
+**Resurrección y comisión (28:1–20):** La tumba vacía, aparición a las mujeres, la Gran Comisión en el monte en Galileaea.
 
 **Fuente:** Kingsbury, *Matthew: Structure, Christology, Kingdom*, 7–25; Davies y Allison, *Matthew* (ICC), I.58–72.
 
@@ -100,7 +100,7 @@ El texto sí menciona a "Mateo" (Μαθθαῖος) en 9:9 (el llamado de un rec
 ### B2. Atribución tradicional
 **[RECEPCIÓN POSTERIOR — DOCUMENTADO]**
 
-La atribuciÃ³n de este Evangelio a Mateo (identificado con el apÃ³stol y recaudador de impuestos) proviene principalmente de **PapÃ­as de HierÃ¡polis** (c. 60–130 e.c.), citado por Eusebio (*Historia Ecclesiastica* 3.39.16): "Mateo ordenÃ³ los dichos (*logia*) en el dialecto hebreo (*Hebraidi dialektÅ*), y cada persona los interpretÃ³ como pudo."
+La atribución de este Evangelio a Mateo (identificado con el apóstol y recaudador de impuestos) proviene principalmente de **Papías de Hierápolis** (c. 60–130 e.c.), citado por Eusebio (*Historia Ecclesiastica* 3.39.16): "Mateo ordenó los dichos (*logia*) en el dialecto hebreo (*Hebraidi dialektō*), y cada persona los interpretó como pudo."
 
 Este testimonio ha generado extenso debate:
 - ¿Significa *logia* "dichos" (una colección de dichos), "oráculos" (textos de prueba del AT), o "Evangelio" (la narrativa completa)?
@@ -123,7 +123,7 @@ La mayoría de los académicos contemporáneos dudan que el apóstol Mateo escri
 
 El autor fue probablemente un cristiano judío de habla griega con fuerte formación escribal, profundo conocimiento de las Escrituras Hebreas (tanto en hebreo como en formas de la Septuaginta, la antigua traducción griega de la Biblia Hebrea, abreviada LXX), y acceso al Evangelio de Marcos y a tradición adicional (Q o equivalente).
 
-**Fuente:** Stendahl, *The School of St. Matthew* (1954); Luz, *Matthew* (Hermeneia), I.47â54; Hagner, *Matthew* (WBC, 1993â1995), I.lxxiii–lxxv.
+**Fuente:** Stendahl, *The School of St. Matthew* (1954); Luz, *Matthew* (Hermeneia), I.47–54; Hagner, *Matthew* (WBC, 1993–1995), I.lxxiii–lxxv.
 
 ---
 
@@ -132,10 +132,10 @@ El autor fue probablemente un cristiano judío de habla griega con fuerte formac
 ### C1. Datación de composición
 **[HISTÓRICO / ARQUEOLÓGICO — PROBABLE]**
 
-La mayorÃ­a de los acadÃ©micos datan el Evangelio de Mateo aproximadamente al 80–90 e.c., basÃ¡ndose en varias consideraciones convergentes:
+La mayoría de los académicos datan el Evangelio de Mateo aproximadamente al 80–90 e.c., basándose en varias consideraciones convergentes:
 
 - **Dependencia de Marcos:** Marcos generalmente se data en c. 65–70 e.c. El uso de Marcos como fuente por parte de Mateo requiere una fecha posterior.
-- **Indicadores post-Templo:** La parÃ¡bola del banquete de bodas (22:1–14) incluye el detalle de que "el rey... enviÃ³ sus ejÃ©rcitos y destruyÃ³ a aquellos asesinos y quemÃ³ su ciudad" (22:7). Este lenguaje refleja de cerca la destrucciÃ³n romana de JerusalÃ©n en el 70 e.c. y es ampliamente leÃ­do como una referencia post factum. El paralelo en Lucas 14:15–24 carece de este detalle.
+- **Indicadores post-Templo:** La parábola del banquete de bodas (22:1–14) incluye el detalle de que "el rey... envió sus ejércitos y destruyó a aquellos asesinos y quemó su ciudad" (22:7). Este lenguaje refleja de cerca la destrucción romana de Jerusalén en el 70 e.c. y es ampliamente leído como una referencia post factum. El paralelo en Lucas 14:15–24 carece de este detalle.
 - **Eclesiología desarrollada:** El uso de ἐκκλησία (*ekklesia*, "asamblea," 16:18; 18:17) — único entre los Evangelios — sugiere una etapa de organización comunitaria más allá del período más temprano.
 - **Tensión con la sinagoga:** La frase "sus sinagogas" (4:23; 9:35; 10:17; 12:9; 13:54; 23:34) implica una perspectiva desde fuera de la sinagoga, consistente con una separación posterior al 70.
 
@@ -161,7 +161,7 @@ El Evangelio de Mateo refleja una comunidad judía en identidad pero cada vez m�
 
 Una tradición académica significativa sitúa la composición de Mateo en Antioquía (actual Antakya, Turquía). Los argumentos:
 
-- AntioquÃ­a tenÃ­a una gran comunidad judÃ­a y una presencia cristiana temprana y significativa (Hechos 11:19–26).
+- Antioquía tenía una gran comunidad judía y una presencia cristiana temprana y significativa (Hechos 11:19–26).
 - Ignacio de Antioquía (c. 110 e.c.) parece conocer el Evangelio de Mateo, proporcionando un terminus ante quem consistente con composición antioquena.
 - La doble preocupación del Evangelio con la identidad judía y la misión gentil encaja con una comunidad mixta en un centro urbano importante.
 
@@ -174,12 +174,12 @@ Esto sigue siendo una hipótesis — el Evangelio no nombra su lugar de composic
 
 Mateo presupone un público lector con profunda familiaridad con las Escrituras y prácticas judías:
 
-- La genealogÃ­a (1:1–17) estructura el linaje de JesÃºs a travÃ©s de Abraham y David â figuras cuya importancia no requiere explicaciÃ³n.
+- La genealogía (1:1–17) estructura el linaje de Jesús a través de Abraham y David — figuras cuya importancia no requiere explicación.
 - Las citas de cumplimiento suponen que los lectores reconocerán los pasajes del AT y se interesarán por su realización.
-- Las costumbres judÃ­as se mencionan sin explicaciÃ³n (contraste Marcos 7:3–4, que explica el lavado de manos farisaico para una audiencia presumiblemente gentil).
-- El debate sobre la observancia de la TorÃ¡ (5:17–20; 23:2–3) presupone una audiencia para quien la autoridad de la TorÃ¡ es axiomÃ¡tica, no extraÃ±a.
+- Las costumbres judías se mencionan sin explicación (contraste Marcos 7:3–4, que explica el lavado de manos farisaico para una audiencia presumiblemente gentil).
+- El debate sobre la observancia de la Torá (5:17–20; 23:2–3) presupone una audiencia para quien la autoridad de la Torá es axiomática, no extraña.
 
-Al mismo tiempo, la Gran ComisiÃ³n (28:19–20) dirige la misiÃ³n "a todas las naciones" (*panta ta ethnÄ*), y el Evangelio incluye pasajes que afirman la inclusiÃ³n gentil (8:11–12; 15:21–28; 21:43). La comunidad es judÃ­a pero no exclusivista.
+Al mismo tiempo, la Gran Comisión (28:19–20) dirige la misión "a todas las naciones" (*panta ta ethnē*), y el Evangelio incluye pasajes que afirman la inclusión gentil (8:11–12; 15:21–28; 21:43). La comunidad es judía pero no exclusivista.
 
 ---
 
@@ -190,12 +190,12 @@ Al mismo tiempo, la Gran ComisiÃ³n (28:19–20) dirige la misiÃ³n "a todas l
 
 El texto griego del Evangelio de Mateo fue transmitido a través de la misma tradición manuscrita que los otros Evangelios:
 
-- ComposiciÃ³n (c. 80–90 e.c.)
+- Composición (c. 80–90 e.c.)
 - Copias tempranas (siglos II--III e.c.):
-  - P1 (s. III) â Mt 1:1–9, 12, 14–20
+  - P1 (s. III) — Mt 1:1–9, 12, 14–20
   - P45 (s. III) — porciones de los cuatro Evangelios + Hechos
   - P64+67 (fines s. II) — Mt 3, 5, 26
-  - P104 (s. II) â Mt 21:34–37, 43, 45
+  - P104 (s. II) — Mt 21:34–37, 43, 45
 - Códices principales (siglos IV--V e.c.):
   - Códice Sinaítico (א, s. IV)
   - Códice Vaticano (B, s. IV)
@@ -205,15 +205,15 @@ El texto griego del Evangelio de Mateo fue transmitido a través de la misma tra
 - Ediciones impresas:
   - Erasmo (1516)
   - Tradición del Textus Receptus (siglos XVI--XIX)
-  - Ediciones críticas: NA28 / UBS5 (estándar actual)
+  - Ediciones críticas: NA28 (Nestle-Aland 28ª edición, la edición crítica estándar del Nuevo Testamento griego) / UBS5 (estándar actual)
 
 ### E2. Testigos manuscritos clave
 **[HISTÓRICO / ARQUEOLÓGICO — VERIFICADO]**
 
 | Testigo | Fecha | Contenido relevante para Mateo | Importancia |
 |---------|-------|-------------------------------|------------|
-| P1 (Papiro de Oxirrinco 2) | s. III e.c. | Mt 1:1–9, 12, 14–20 | Papiro sustancial mÃ¡s temprano de Mateo |
-| P64+67 (Papiro Magdalen) | fines s. II e.c. | Mt 3:9, 15; 5:20–22, 25–28; 26:7–8, 10, 14–15, 22–23, 31–33 | Entre los testigos mÃ¡s tempranos; la controvertida dataciÃ³n temprana de Carsten Thiede (mediados s. I) no es ampliamente aceptada |
+| P1 (Papiro de Oxirrinco 2) | s. III e.c. | Mt 1:1–9, 12, 14–20 | Papiro sustancial más temprano de Mateo |
+| P64+67 (Papiro Magdalen) | fines s. II e.c. | Mt 3:9, 15; 5:20–22, 25–28; 26:7–8, 10, 14–15, 22–23, 31–33 | Entre los testigos más tempranos; la controvertida datación temprana de Carsten Thiede (mediados s. I) no es ampliamente aceptada |
 | P104 | s. II e.c. | Mt 21:34–37, 43, 45 | Fragmento muy temprano |
 | P45 (Chester Beatty I) | s. III e.c. | Porciones de Mt, Mc, Lc, Jn, Hch | Códice multi-Evangelio más temprano |
 | Códice Sinaítico (א) | s. IV e.c. | Mateo completo | Uno de los dos testigos mayúsculos más importantes |
@@ -223,12 +223,19 @@ El texto griego del Evangelio de Mateo fue transmitido a través de la misma tra
 ### E3. Estabilidad textual
 **[HISTÓRICO / ARQUEOLÓGICO — VERIFICADO]**
 
-El Evangelio de Mateo no tiene una disrupciÃ³n textual comparable al pasaje de la AdÃºltera de Juan (Jn 7:53–8:11) o el final largo de Marcos (Mc 16:9–20). El texto es relativamente estable a travÃ©s de la tradiciÃ³n manuscrita. Variantes notables incluyen:
+El Evangelio de Mateo no tiene una disrupción textual comparable al pasaje de la Adúltera de Juan (Jn 7:53–8:11) o el final largo de Marcos (Mc 16:9–20). El texto es relativamente estable a través de la tradición manuscrita. Variantes notables incluyen:
 
-- **Mt 1:16:** Algunos manuscritos sirÃ­acos antiguos leen "JosÃ©, a quien estaba desposada MarÃ­a la virgen, engendrÃ³ a JesÃºs" â una lectura que entra en conflicto con la narrativa del nacimiento virginal en 1:18–25. El texto griego estÃ¡ndar lee "JosÃ© el esposo de MarÃ­a, de la cual fue nacido JesÃºs."
-- **Mt 27:16–17:** Algunos manuscritos dan el nombre del prisionero liberado como "JesÃºs BarrabÃ¡s" (á¼¸Î·ÏÎ¿á¿¦Î½ ÎÎ±ÏÎ±Î²Î²á¾¶Î½), lo cual OrÃ­genes notÃ³. Si "JesÃºs" es original (accidentalmente eliminado debido al nombre sagrado) o una adiciÃ³n escribal es debatido.
+- **Mt 1:16:** Algunos manuscritos siríacos antiguos leen "José, a quien estaba desposada María la virgen, engendró a Jesús" — una lectura que entra en conflicto con la narrativa del nacimiento virginal en 1:18–25. El texto griego estándar lee "José el esposo de María, de la cual fue nacido Jesús."
+- **Mt 27:16–17:** Algunos manuscritos dan el nombre del prisionero liberado como "Jesús Barrabás" (Ἰησοῦν Βαραββᾶν), lo cual Orígenes notó. Si "Jesús" es original (accidentalmente eliminado debido al nombre sagrado) o una adición escribal es debatido.
 
-**Fuente:** Metzger, *A Textual Commentary on the Greek New Testament* (2.Âª ed., 1994), 1–56.
+**Fuente:** Metzger, *A Textual Commentary on the Greek New Testament* (2.ª ed., 1994), 1–56.
+
+### E4. Intervalo de transmisión comparativo
+**[HISTÓRICO / ARQUEOLÓGICO — VERIFICADO]**
+
+El intervalo entre la composición del Evangelio de Mateo (c. 70–90 EC) y los testigos manuscritos más antiguos sobrevivientes (P64 + P67, finales del s. II para Mt 3, 5, 26; P104, finales del s. II para Mt 21; P45, mediados del s. III para la colección de los cuatro Evangelios) es, según los estándares de la historiografía antigua, relativamente corto. Para comparación: la *Anábasis de Alejandro* de Arriano, la biografía más completa sobreviviente de Alejandro Magno (m. 323 AEC), fue compuesta c. 130–135 EC — un lapso de aproximadamente 450 años entre sujeto y biografía. Los *Anales* de Tácito, que cubren eventos desde el año 14 EC, fueron compuestos c. 116 EC — un lapso de aproximadamente 80–100 años entre eventos y narrativa. El intervalo de transmisión del NT se sitúa en el extremo más corto del rango típico para la literatura narrativa antigua sobre figuras históricas. **Esto no tiene que ver con la exactitud histórica del contenido del Evangelio; tiene que ver únicamente con el lapso de transmisión textual entre composición y primer testigo sobreviviente.** Los mismos datos a veces se despliegan apologéticamente — ese no es el enfoque de la TT: la comparación es descriptiva, no probatoria.
+
+**Fuente:** Metzger, *A Textual Commentary on the Greek New Testament* (2a ed., 1994); Arriano, *Anábasis de Alejandro*, Prefacio; cf. Bosworth, *A Historical Commentary on Arrian's History of Alexander*, OUP, vols. I (1980) + II (1995); Tácito, *Anales*; cf. Goodyear, *The Annals of Tacitus*, Cambridge, vols. I (1972) + II (1981).
 
 ---
 
@@ -264,14 +271,14 @@ Según la política de transliteración de la TT, los nombres propios clave en M
 ### F3. Citas del Antiguo Testamento — la fórmula de cumplimiento
 **[TEXTUAL — VERIFICADO]**
 
-Mateo contiene mÃ¡s de 60 citas o alusiones a la Biblia Hebrea â mÃ¡s que cualquier otro Evangelio. Una caracterÃ­stica distintiva es la "fÃ³rmula de cumplimiento" (Reflexionszitat): "Esto sucediÃ³ para que se cumpliera lo dicho a travÃ©s del profeta" (á¼µÎ½Î±/á½ÏÏÏ ÏÎ»Î·ÏÏÎ¸á¿ Ïá½¸ á¿¥Î·Î¸á½²Î½ Î´Î¹á½° ÏÎ¿á¿¦ ÏÏÎ¿ÏÎ®ÏÎ¿Ï). Esta fÃ³rmula aparece aproximadamente 10–14 veces (dependiendo de los criterios de conteo), frecuentemente introduciendo citas que no aparecen en los paralelos marcanos.
+Mateo contiene más de 60 citas o alusiones a la Biblia Hebrea — más que cualquier otro Evangelio. Una característica distintiva es la "fórmula de cumplimiento" (Reflexionszitat): "Esto sucedió para que se cumpliera lo dicho a través del profeta" (ἵνα/ὅπως πληρωθῇ τὸ ῥηθὲν διὰ τοῦ προφήτου). Esta fórmula aparece aproximadamente 10–14 veces (dependiendo de los criterios de conteo), frecuentemente introduciendo citas que no aparecen en los paralelos marcanos.
 
 Citas de cumplimiento clave en la narrativa del nacimiento y los capítulos tempranos:
 
 | Pasaje | Fuente AT | Contenido |
 |--------|-----------|-----------|
-| 1:22–23 | Is 7:14 | "La *parthenos* concebirÃ¡" â ver F4 abajo |
-| 2:5–6 | Miq 5:2 (+ 2 Sam 5:2) | BelÃ©n como lugar de nacimiento |
+| 1:22–23 | Is 7:14 | "La *parthenos* concebirá" — ver F4 abajo |
+| 2:5–6 | Miq 5:2 (+ 2 Sam 5:2) | Belén como lugar de nacimiento |
 | 2:15 | Os 11:1 | "De Egipto llamé a mi hijo" |
 | 2:17–18 | Jer 31:15 | Raquel llorando por sus hijos |
 | 2:23 | Desconocido / compuesto | "Será llamado Natsri" |
@@ -294,7 +301,7 @@ Esta es una decisión de traducción, no una posición teológica. La TT documen
 ### F5. Kyrios — Política del Nombre Divino en Mateo
 **[TEXTUAL — VERIFICADO]**
 
-Cuando Mateo cita pasajes de la Biblia Hebrea que contienen el Tetragrama (YHWH), el texto griego usa κύριος (*kyrios*). Según la Política del Nombre Divino de la TT (Opción C, RULES-GS.md):
+Cuando Mateo cita pasajes de la Biblia Hebrea que contienen el Tetragrama (el nombre divino hebreo de cuatro letras יהוה, transliterado YHWH), el texto griego usa κύριος (*kyrios*). Según la Política del Nombre Divino de la TT (Opción C, RULES-GS.md):
 
 - El texto principal traduce *kyrios* como "el Señor" en contextos de citas del AT.
 - Una nota identifica la fuente del AT y declara que el hebreo subyacente tiene el Tetragrama.
@@ -335,6 +342,8 @@ Esto es particularmente relevante en Mateo dada la alta densidad de citas del AT
 | Meier, J. P. "Antioch," en Brown y Meier, *Antioch and Rome* (1983) | Contexto | D |
 | Sim, D. C. *The Gospel of Matthew and Christian Judaism* (1998) | Contexto | D |
 | Metzger, B. M. *A Textual Commentary on the Greek New Testament* (2.ª ed., 1994) | Crítica textual | E |
+| Arriano. *Anábasis de Alejandro*. Prefacio (c. 130–135 EC); cf. Bosworth, A. B. *A Historical Commentary on Arrian's History of Alexander*, OUP, vols. I (1980) + II (1995) | Comparativo de historia antigua | E |
+| Tácito. *Anales*. Loeb Classical Library ed.; cf. Goodyear, F. R. D. *The Annals of Tacitus*, Cambridge, vols. I (1972) + II (1981) | Comparativo de historia antigua | E |
 
 ---
 

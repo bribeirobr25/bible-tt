@@ -2,7 +2,7 @@
 
 **Date:** 2026-05-09
 **Auditor:** Claude Opus 4.7 (independent review)
-**Scope:** `docs/audit/PHASE_7_PLAN.md` — 8 sub-phases (7.1 through 7.7) covering technical-term glosses across John and Matthew companion CONTEXT files and book introductions, with a per-locale gloss decision table.
+**Scope:** `docs/audit/archive/PHASE_7_PLAN.md` — 8 sub-phases (7.1 through 7.7) covering technical-term glosses across John and Matthew companion CONTEXT files and book introductions, with a per-locale gloss decision table.
 **Method:** Verified plan claims against actual files: file scope tree under `content/{en,pt-br,de,es}/{john,matthew}/`, `content/en/john/study/CHAPTER-1-CONTEXT.md`, `content/en/matthew/study/CHAPTER-1-CONTEXT.md`, `content/en/matthew/PEOPLE.md`, `content/en/genesis/INTRODUCTION.md`, `docs/editorial-log/john.md`, `docs/editorial-log/matthew.md`, `docs/editorial-log/transliteration-decisions.md`. Cross-checked every named cross-reference target.
 **Status:** Plan is mostly sound. One critical execution-blocking error (cross-reference target misidentified). Five significant concerns. Four minor issues.
 
@@ -207,7 +207,7 @@ This pre-empts the predictable Hellenist push-back without changing the gloss no
 
 Phase 6.6 ended with M-014/15/16 covering content authoring + governance + UX work. Phase 7 starts with content polish on John/Matthew. The two phases are sequential; the editorial-log entry J-019 / M-017 should briefly cite "follows Phase 6.6 closure" so the reader of the log can see the phase ordering.
 
-**Suggested:** §7 entries should add to their Cross-references field: `docs/audit/NEW_PLAN.md Phase 6.6 closure` — establishes the chronological link.
+**Suggested:** §7 entries should add to their Cross-references field: `docs/audit/archive/NEW_PLAN.md Phase 6.6 closure` — establishes the chronological link.
 
 ---
 

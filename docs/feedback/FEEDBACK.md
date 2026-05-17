@@ -82,7 +82,7 @@ Where a status is **NEW**, the issue surfaced during re-audit (mostly version-dr
 |---|-------|----------|----------|
 | N1 | **Ruleset version drift between rules and content.** RULES-CORE/HB/GS are at **v3.2**. Across `content/`, 180 references say `v3.0` and 4 say `v3.1` — **zero references to v3.2.** Editorial logs say `v3.0` (genesis) or `v3.1` (john, matthew). | High (governance) | `grep -r "v3\." content/` |
 | N2 | **ES John 1–3 has heavy diacritic loss.** `content/es/john/CHAPTER-1.md` front matter says `Traduccion`, `Edicion`, `Espanol`, `Politica`, `Senor`, `segun`; body says `el` for `él`, `llego` for `llegó`, `vencio` for `venció`, `dia` for `día`, `Senor` throughout. ES Genesis and ES Matthew front-matter/body do not have this issue. | High | `grep -E '(Traduccion\|Edicion\|Espanol\|Politica\|Senor)' content/es/john/CHAPTER-*.md` returns 127 / 83 / 106 matches in chapters 1 / 2 / 3. |
-| N3 | **John has no PEOPLE.md in any locale.** Genesis and Matthew have full PEOPLE.md with biographical and historicity fields; John 1–3 lacks one even though Yochanan, Yeshua, Andreas, Kefa, Philippos, Nathanael, Nikodemos, Yehudim are introduced in chapters 1–3. | Medium | `ls content/*/john/PEOPLE.md` → no matches |
+| N3 | **John has no PEOPLE.md in any locale.** Genesis and Matthew have full PEOPLE.md with biographical and historicity fields; John 1–3 lacks one even though Yochanan, Yeshua, Andreas, Kefa, Philippos, Nathanael, Nikodemos, Yehudim are introduced in chapters 1–3. — **RESOLVED 2026-05-14 via Phase 10** (`docs/audit/archive/PHASE_10_PLAN.md`). All 4 locales now have `content/{en,pt-br,de,es}/john/PEOPLE.md` (11 entries each). See `docs/editorial-log/john.md` Entry J-021. | Medium | (closed) |
 | N4 | **Em-dash / `--` propagation incomplete in non-EN companions.** EN Matthew companions still contain raw `--` (3 files). DE companions: 12 files. PT-BR: 3. ES: 5. The accessibility/em-dash sweep is not complete across all locales. | Medium | `grep -l ' -- ' content/*/{genesis,john,matthew}/study/*.md` |
 | N5 | **John has no PROPHECY files.** Genesis has CHAPTER-3-PROPHECY, CHAPTER-9-PROPHECY, CHAPTER-12-PROPHECY across locales. John 1–3 contain prophetic statements (1:51, 2:19–22, 3:14) but no prophecy file is authored. Matthew 1–3 likewise has none, though Matthew has fulfilment-formula material that arguably belongs in a prophecy file or is intentionally housed elsewhere via the M-001 entry. | Medium | `ls content/*/john/study/CHAPTER-*-PROPHECY.md` → none |
 | N6 | **Readability sweep partial.** Genesis EN INTRODUCTION glosses Masoretic Text, Septuagint, JEDP, etc. on first use. John 1 EN companion still uses `Colwell` (5×), `predicate nominative`, `anarthrous` — terms that the readability standard requires to be glossed for a non-specialist reader on first use. | Medium | `grep -c 'Colwell' content/en/john/study/CHAPTER-1-CONTEXT.md` → 5 |
@@ -93,7 +93,7 @@ Where a status is **NEW**, the issue surfaced during re-audit (mostly version-dr
 
 Of the 38 prior-audit issues catalogued in §1–§3 (counts as of 2026-05-09 after Phase 6 closure):
 - **RESOLVED:** 23 (1, 2, 3, 4, 5, 6, 7, 9, 10, 11, 12, 13, 14, 17, 18, 21, 22, 23, 26, 34, 36, 37, 38) — Phase 6A added 9 closures (13, 14, 17, 22, 23, 26, 34, 36, 38) and the audit pass added 2 prior-phase reconciliations (12 ES NT RV from Phase 3B; 18 PT-BR + ES *monogenēs* from Phase 4A)
-- **PARTIAL:** 3 (8 PT-BR archaic register; 19 Tier 2 note bloat — Genesis 9 pilot complete, propagation deferred; 33 Genesis/Matthew PEOPLE.md governance hardening — John PEOPLE.md still missing)
+- **PARTIAL:** 2 (8 PT-BR archaic register; 19 Tier 2 note bloat — Genesis 9 pilot complete, propagation deferred). Item 33 closed via Phase 10 (John PEOPLE.md authored 2026-05-14).
 - **NOT VERIFIED (still potentially open):** 12 (15, 16, 20, 24, 25, 27, 28, 29, 30, 31, 32, 35) — items 24/25/29/30/31 likely also resolved by Ruleset v3.3 cascade in Phase 5.5; not re-audited here.
 - **STILL OPEN:** 0 (item 18 closed via Phase 4A + audit extension to ES; item 14 closed via project-lead Option 2 decision)
 
@@ -110,7 +110,7 @@ Of the 6 NEW issues, **N1 (version drift)** is the highest-impact governance fin
 Updated 2026-05-09 (post Phase 6 closure) — most items closed across Phases 0–6. Remaining open work, in rough priority order:
 
 1. **19** — Tier 2 note bloat → companion relocation. Active subject of Phase 6B (one-chapter pilot).
-2. **N3** — author John PEOPLE.md (EN-first, then PT-BR, DE, ES). Phase 10.
+2. ~~**N3** — author John PEOPLE.md (EN-first, then PT-BR, DE, ES). Phase 10.~~ RESOLVED 2026-05-14.
 3. **N6** — apply the readability standard to John/Matthew companions (gloss `Colwell`, `predicate nominative`, `anarthrous`, etc. on first use). Phase 7.
 4. **N5** — decide whether John 1–3 / Matthew 1–3 prophecy material should be split out or whether the editorial-log entries are the canonical home. Phase 11 (Option C recommended).
 5. **15, 16, 20, 27, 28, 35** — NOT VERIFIED items deferred to Phases 7–11 or to a dedicated re-audit pass after content work lands.

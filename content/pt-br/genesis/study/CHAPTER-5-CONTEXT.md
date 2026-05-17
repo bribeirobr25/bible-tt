@@ -167,7 +167,7 @@ A fórmula diz que cada patriarca "gerou filhos e filhas" — mas nenhuma filha 
 
 ## I. O Mundo na Época
 
-A datação da composição de Gênesis é debatida. Esta seção apresenta "o mundo na época" para cada cenário principal, para que leitores com qualquer posição possam ver o contexto histórico que se aplicaria. A TT não toma partido sobre quando Gênesis foi composto — apresenta todas as posições acadêmicas principais e deixa o leitor avaliar. O contexto político, econômico e social geral de cada cenário é idêntico ao de Gênesis 1 — os mesmos impérios, as mesmas civilizações, os mesmos períodos. O foco aqui é como o conteúdo específico de Gênesis 5 — sua genealogia, os tempos de vida extraordinários, seu sistema numérico e as convenções de registro de ancestrais — se conecta a cada mundo histórico. Para o contexto completo das 10 categorias, veja o companheiro de Gênesis 1 Seção I.
+> **Referência cruzada:** Para o contexto mundial completo (quatro cenários, dez categorias — Político, Economia, Vida Cotidiana, Estrutura Social, Educação, Militar, Artes, Ciência, Religião, Povos Vizinhos), veja o companheiro de Gênesis 1 (Seção I, `pt-br/genesis/study/CHAPTER-1-CONTEXT.md`). As entradas abaixo abordam as circunstâncias históricas especificamente destacadas em Gênesis 5 — a genealogia, os tempos de vida extraordinários, o sistema numérico e as convenções de registro de ancestrais.
 
 ---
 

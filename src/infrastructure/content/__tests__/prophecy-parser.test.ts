@@ -80,6 +80,77 @@ describe("Prophecy Parser", () => {
     });
   });
 
+  // Phase 11.5 — scholarlyNote field (audit Critical: verifies round-trip
+  // through finalizeEntry; audit Minor 1: per-locale dispatch + absent-field invariant)
+  describe("scholarlyNote field parsing (Phase 11.5)", () => {
+    function makeEntry(scholarlyLine: string): string {
+      return [
+        "## Test Entry",
+        "**Verse:** Genesis 1:1",
+        "**Text says:** The text.",
+        "**Context:** Some context.",
+        "**Subject:** Some subject.",
+        "**Fulfillment status:** CLAIMED",
+        scholarlyLine,
+        "**Readings:**",
+        "- **Jewish**: test reading [DOCUMENTED]",
+        "",
+      ].join("\n");
+    }
+
+    it("EN: **Scholarly note:** populates scholarlyNote (round-trips through finalizeEntry)", () => {
+      const data = parseProphecyMarkdown(
+        makeEntry("**Scholarly note:** EN note."),
+        "genesis",
+        1,
+      );
+      expect(data.entries[0].scholarlyNote).toBe("EN note.");
+    });
+
+    it("PT-BR: **Nota acadêmica:** populates scholarlyNote", () => {
+      const data = parseProphecyMarkdown(
+        makeEntry("**Nota acadêmica:** Nota PT-BR."),
+        "genesis",
+        1,
+      );
+      expect(data.entries[0].scholarlyNote).toBe("Nota PT-BR.");
+    });
+
+    it("DE: **Wissenschaftliche Anmerkung:** populates scholarlyNote", () => {
+      const data = parseProphecyMarkdown(
+        makeEntry("**Wissenschaftliche Anmerkung:** DE-Anmerkung."),
+        "genesis",
+        1,
+      );
+      expect(data.entries[0].scholarlyNote).toBe("DE-Anmerkung.");
+    });
+
+    it("ES: **Nota académica:** populates scholarlyNote", () => {
+      const data = parseProphecyMarkdown(
+        makeEntry("**Nota académica:** Nota ES."),
+        "genesis",
+        1,
+      );
+      expect(data.entries[0].scholarlyNote).toBe("Nota ES.");
+    });
+
+    it("scholarlyNote is undefined when the field is absent (absent-field invariant)", () => {
+      const noScholarly = [
+        "## Test Entry",
+        "**Verse:** Genesis 1:1",
+        "**Text says:** The text.",
+        "**Context:** Some context.",
+        "**Subject:** Some subject.",
+        "**Fulfillment status:** CLAIMED",
+        "**Readings:**",
+        "- **Jewish**: test reading [DOCUMENTED]",
+        "",
+      ].join("\n");
+      const data = parseProphecyMarkdown(noScholarly, "genesis", 1);
+      expect(data.entries[0].scholarlyNote).toBeUndefined();
+    });
+  });
+
   describe("fulfillment status parsing", () => {
     function makeEntry(status: string): string {
       return [
@@ -109,12 +180,13 @@ describe("Prophecy Parser", () => {
       expect(data.entries[0].fulfillmentStatus).toBe("CLAIMED");
     });
 
-    it("UNFULFILLED: known parser limitation — all forms collide with FULFILLED check", () => {
-      // Parser bug: parseFulfillmentStatus checks FULFILLED (and its localized
-      // forms ERFÜLLT, CUMPLIDA, CUMPRIDA) before UNFULFILLED. Every known
-      // localized form of UNFULFILLED contains a substring that fires the
-      // FULFILLED branch first, making UNFULFILLED unreachable. This test
-      // documents the current behavior so any future fix is immediately visible.
+    it("parses UNFULFILLED", () => {
+      // Note: parseFulfillmentStatus checks UNFULFILLED (and its localized forms
+      // UNERFÜLLT, NO CUMPLIDA, NÃO CUMPRIDA) BEFORE FULFILLED, so the earlier
+      // dispatch-order bug (FULFILLED-first matching UNFULFILLED's substring) is
+      // resolved. Status correctly routes to UNFULFILLED.
+      // Phase 11 (`docs/audit/archive/AUDIT_PHASE_11_PLAN.md` round-2 audit R2.3)
+      // surfaced the stale comment; updated 2026-05-13.
       const data = parseProphecyMarkdown(
         makeEntry("UNFULFILLED"),
         "genesis",

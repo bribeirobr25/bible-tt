@@ -245,6 +245,13 @@ The Transparent Translation works from the Greek text as represented in the Nest
 
 Where the text is ambiguous or where significant variants exist, the TT follows the NA28 reading and notes the variant rather than silently emending.
 
+### E5. Comparative transmission interval
+**[HISTORICAL / ARCHAEOLOGICAL — VERIFIED]**
+
+The interval between the composition of the Gospel of John (c. 90–100 CE) and the earliest surviving manuscript witnesses (P52, c. 100–150 CE for John 18:31–33, 37–38; P66 + P75, c. 200–225 CE for substantial portions of John) is, by the standards of ancient historiography, relatively short. For comparison: Arrian's *Anabasis of Alexander*, the most comprehensive surviving biography of Alexander the Great (d. 323 BCE), was composed c. 130–135 CE — a gap of approximately 450 years between subject and biography. Tacitus's *Annales*, covering events from 14 CE onward, was composed c. 116 CE — a gap of approximately 80–100 years between events and narrative. The NT's transmission interval sits at the shorter end of the range typical for ancient narrative literature about historical figures. **This does not bear on the historical accuracy of the Gospel's contents; it bears only on the textual-transmission gap between composition and first surviving witness.** The same data is sometimes deployed apologetically — that is not the TT's frame: the comparison is descriptive, not evidential.
+
+**Source:** Nongbri, "The Use and Abuse of P52," *HTR* 98 (2005): 23–48; Roberts, *An Unpublished Fragment of the Fourth Gospel in the John Rylands Library* (1935); Arrian, *Anabasis of Alexander*, Preface; cf. Bosworth, *A Historical Commentary on Arrian's History of Alexander*, OUP, vols. I (1980) + II (1995); Tacitus, *Annales*; cf. Goodyear, *The Annals of Tacitus*, Cambridge, vols. I (1972) + II (1981).
+
 ---
 
 ## F. Reading John in the TT
@@ -284,7 +291,7 @@ The following locked glossary entries from RULES-GS.md apply throughout the Gosp
 ### F3. Divine Name Policy in John
 **[TEXTUAL — VERIFIED]**
 
-When the Gospel of John quotes or alludes to Hebrew Bible passages containing the Tetragrammaton (YHWH), the Greek text uses κύριος (*kyrios*). Per the TT's Divine Name Policy (Option C, RULES-GS.md):
+When the Gospel of John quotes or alludes to Hebrew Bible passages containing the Tetragrammaton (the four-letter Hebrew divine name יהוה, transliterated YHWH), the Greek text uses κύριος (*kyrios*). Per the TT's Divine Name Policy (Option C, RULES-GS.md):
 
 - The main text renders *kyrios* as "the Lord" in OT quotation contexts.
 - A note identifies the OT source and states that the underlying Hebrew has the Tetragrammaton.
@@ -357,6 +364,8 @@ John employs pervasive paired contrasts: light/darkness, above/below, spirit/fle
 | Nongbri, B. "The Use and Abuse of P52," *HTR* 98 (2005) | P52 dating | C, E |
 | Metzger, B. M. *A Textual Commentary on the Greek New Testament* (2nd ed., 1994) | Text criticism | E |
 | Parker, D. C. *The Living Text of the Gospels* (1997) | Text criticism | E |
+| Arrian. *Anabasis of Alexander*. Preface (c. 130–135 CE); cf. Bosworth, A. B. *A Historical Commentary on Arrian's History of Alexander*, OUP, vols. I (1980) + II (1995) | Ancient-history comparator | E |
+| Tacitus. *Annales*. Loeb Classical Library ed.; cf. Goodyear, F. R. D. *The Annals of Tacitus*, Cambridge, vols. I (1972) + II (1981) | Ancient-history comparator | E |
 
 ---
 

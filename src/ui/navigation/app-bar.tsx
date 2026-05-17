@@ -103,10 +103,49 @@ function getBreadcrumb(
   }
 
   if (segments.length === 2 && validBooks.includes(segments[0])) {
+    const sub = segments[1];
+    // Sub-route pages under a book — pick the correct label by sub-route name.
+    if (sub === "context") {
+      return {
+        href: `/${locale}/${segments[0]}`,
+        label: t(`book.${segments[0]}`),
+        current: t("nav.bookContext"),
+      };
+    }
+    if (sub === "introduction") {
+      return {
+        href: `/${locale}/${segments[0]}`,
+        label: t(`book.${segments[0]}`),
+        current: t("nav.bookIntroduction"),
+      };
+    }
+    if (sub === "people") {
+      return {
+        href: `/${locale}/${segments[0]}`,
+        label: t(`book.${segments[0]}`),
+        current: t("people.title"),
+      };
+    }
+    // Fallback: legacy URL pattern `/{book}/{n}` where segment[1] is a chapter number.
+    if (/^\d+$/.test(sub)) {
+      return {
+        href: `/${locale}/${segments[0]}`,
+        label: t(`book.${segments[0]}`),
+        current: t("chapter.chapterN", { n: sub }),
+      };
+    }
+  }
+
+  // `/{book}/chapter/{n}` — current URL pattern for chapter pages (Phase 6.6F).
+  if (
+    segments.length === 3 &&
+    validBooks.includes(segments[0]) &&
+    segments[1] === "chapter"
+  ) {
     return {
       href: `/${locale}/${segments[0]}`,
       label: t(`book.${segments[0]}`),
-      current: t("chapter.chapterN", { n: segments[1] }),
+      current: t("chapter.chapterN", { n: segments[2] }),
     };
   }
 

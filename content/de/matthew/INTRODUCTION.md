@@ -205,7 +205,7 @@ Der griechische Text des Matthäusevangeliums wurde durch dieselbe Handschriften
 - Druckausgaben:
   - Erasmus (1516)
   - Textus-Receptus-Tradition (16.-19. Jh.)
-  - Kritische Ausgaben: NA28 / UBS5 (gegenwärtiger Standard)
+  - Kritische Ausgaben: NA28 (Nestle-Aland 28. Auflage, die kritische Standardausgabe des griechischen Neuen Testaments) / UBS5 (gegenwärtiger Standard)
 
 ### E2. Wichtige Handschriftenzeugen
 **[HISTORISCH / ARCHÄOLOGISCH — VERIFIZIERT]**
@@ -229,6 +229,13 @@ Das Matthäusevangelium hat keine textliche Störung vergleichbar mit der Periko
 - **Mt 27,16-17:** Einige Handschriften geben den Namen des freigelassenen Gefangenen als „Jesus Barabbas" (Ἰησοῦν Βαραββᾶν), was Origenes vermerkte. Ob „Jesus" ursprünglich ist (versehentlich aufgrund des heiligen Namens getilgt) oder eine Schreiberhinzufügung, wird diskutiert.
 
 **Quelle:** Metzger, *A Textual Commentary on the Greek New Testament* (2. Aufl., 1994), 1-56.
+
+### E4. Vergleichendes Überlieferungsintervall
+**[HISTORISCH / ARCHÄOLOGISCH — VERIFIZIERT]**
+
+Das Intervall zwischen der Abfassung des Matthäusevangeliums (ca. 70–90 u.Z.) und den frühesten erhaltenen Handschriftenzeugen (P64 + P67, spätes 2. Jh. für Mt 3, 5, 26; P104, spätes 2. Jh. für Mt 21; P45, Mitte des 3. Jh. für die Vier-Evangelien-Sammlung) ist nach den Maßstäben antiker Historiographie relativ kurz. Zum Vergleich: Arrians *Anabasis Alexandrou*, die umfassendste erhaltene Biographie Alexanders des Großen (gest. 323 v.u.Z.), wurde ca. 130–135 u.Z. verfasst — eine Lücke von etwa 450 Jahren zwischen Person und Biographie. Tacitus' *Annalen*, die Ereignisse ab 14 u.Z. behandeln, wurden ca. 116 u.Z. verfasst — eine Lücke von etwa 80–100 Jahren zwischen Ereignissen und Erzählung. Das Überlieferungsintervall des Neuen Testaments liegt am kürzeren Ende der für antike Erzählliteratur über historische Personen typischen Bandbreite. **Dies betrifft nicht die historische Genauigkeit des Inhalts des Evangeliums; es betrifft nur die textüberlieferungsbezogene Lücke zwischen Abfassung und erstem erhaltenen Zeugen.** Dieselben Daten werden zuweilen apologetisch eingesetzt — das ist nicht die Perspektive der TT: der Vergleich ist deskriptiv, nicht beweisführend.
+
+**Quelle:** Metzger, *A Textual Commentary on the Greek New Testament* (2. Aufl., 1994); Arrian, *Anabasis Alexandrou*, Vorrede; vgl. Bosworth, *A Historical Commentary on Arrian's History of Alexander*, OUP, Bde. I (1980) + II (1995); Tacitus, *Annalen*; vgl. Goodyear, *The Annals of Tacitus*, Cambridge, Bde. I (1972) + II (1981).
 
 ---
 
@@ -294,7 +301,7 @@ Dies ist eine Übersetzungsentscheidung, keine theologische Position. Die TT dok
 ### F5. Kyrios — Gottesname-Politik in Matthäus
 **[TEXTUELL — VERIFIZIERT]**
 
-Wenn Matthäus Stellen der Hebräischen Bibel zitiert, die das Tetragramm (JHWH) enthalten, verwendet der griechische Text κύριος (*kyrios*). Gemäß der TT-Gottesname-Politik (Option C, RULES-GS.md):
+Wenn Matthäus Stellen der Hebräischen Bibel zitiert, die das Tetragramm (der vierbuchstabige hebräische Gottesname יהוה, transliteriert JHWH) enthalten, verwendet der griechische Text κύριος (*kyrios*). Gemäß der TT-Gottesname-Politik (Option C, RULES-GS.md):
 
 - Der Haupttext gibt *kyrios* als „der Herr" in Kontexten alttestamentlicher Zitate wieder.
 - Eine Anmerkung identifiziert die AT-Quelle und stellt fest, dass das zugrundeliegende Hebräische das Tetragramm hat.
@@ -335,6 +342,8 @@ Dies ist besonders relevant in Matthäus angesichts der hohen Dichte alttestamen
 | Meier, J. P. „Antioch," in Brown und Meier, *Antioch and Rome* (1983) | Kontext | D |
 | Sim, D. C. *The Gospel of Matthew and Christian Judaism* (1998) | Kontext | D |
 | Metzger, B. M. *A Textual Commentary on the Greek New Testament* (2. Aufl., 1994) | Textkritik | E |
+| Arrian. *Anabasis Alexandrou*. Vorrede (ca. 130–135 u.Z.); vgl. Bosworth, A. B. *A Historical Commentary on Arrian's History of Alexander*, OUP, Bde. I (1980) + II (1995) | Vergleich antiker Historiographie | E |
+| Tacitus. *Annalen*. Loeb Classical Library ed.; vgl. Goodyear, F. R. D. *The Annals of Tacitus*, Cambridge, Bde. I (1972) + II (1981) | Vergleich antiker Historiographie | E |
 
 ---
 

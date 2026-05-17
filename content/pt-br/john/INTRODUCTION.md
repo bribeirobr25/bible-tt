@@ -245,6 +245,13 @@ A Tradução Transparente trabalha a partir do texto grego conforme representado
 
 Onde o texto é ambíguo ou onde existem variantes significativas, a TT segue a leitura do NA28 e anota a variante em vez de emendar silenciosamente.
 
+### E5. Intervalo de transmissão comparativo
+**[HISTÓRICO / ARQUEOLÓGICO — VERIFICADO]**
+
+O intervalo entre a composição do Evangelho de João (c. 90–100 EC) e as testemunhas manuscritas mais antigas sobreviventes (P52, c. 100–150 EC para João 18:31–33 + 18:37–38; P66 + P75, c. 200–225 EC para porções substanciais de João) é, pelos padrões da historiografia antiga, relativamente curto. Para comparação: a *Anabasis de Alexandre* de Arriano, a biografia mais abrangente sobrevivente de Alexandre o Grande (m. 323 AEC), foi composta c. 130–135 EC — uma lacuna de aproximadamente 450 anos entre sujeito e biografia. Os *Anais* de Tácito, cobrindo eventos a partir de 14 EC, foram compostos c. 116 EC — uma lacuna de aproximadamente 80–100 anos entre eventos e narrativa. O intervalo de transmissão do NT está no extremo mais curto do intervalo típico para a literatura narrativa antiga sobre figuras históricas. **Isto não diz respeito à exatidão histórica do conteúdo do Evangelho; diz respeito apenas à lacuna de transmissão textual entre composição e primeira testemunha sobrevivente.** Os mesmos dados às vezes são empregados apologeticamente — esse não é o enquadramento da TT: a comparação é descritiva, não evidencial.
+
+**Fonte:** Nongbri, "The Use and Abuse of P52," *HTR* 98 (2005): 23–48; Roberts, *An Unpublished Fragment of the Fourth Gospel in the John Rylands Library* (1935); Arriano, *Anabasis de Alexandre*, Prefácio; cf. Bosworth, *A Historical Commentary on Arrian's History of Alexander*, OUP, vols. I (1980) + II (1995); Tácito, *Anais*; cf. Goodyear, *The Annals of Tacitus*, Cambridge, vols. I (1972) + II (1981).
+
 ---
 
 ## F. Lendo João na TT
@@ -284,7 +291,7 @@ As seguintes entradas do glossário fixo de RULES-GS.md aplicam-se ao longo do E
 ### F3. Política do Nome Divino em João
 **[TEXTUAL — VERIFICADO]**
 
-Quando o Evangelho de João cita ou alude a passagens da Bíblia Hebraica contendo o Tetragrama (YHWH), o texto grego usa κύριος (*kyrios*). Conforme a Política do Nome Divino da TT (Opção C, RULES-GS.md):
+Quando o Evangelho de João cita ou alude a passagens da Bíblia Hebraica contendo o Tetragrama (o nome divino hebraico de quatro letras יהוה, transliterado YHWH), o texto grego usa κύριος (*kyrios*). Conforme a Política do Nome Divino da TT (Opção C, RULES-GS.md):
 
 - O texto principal traduz *kyrios* como "o Senhor" em contextos de citação do AT.
 - Uma nota identifica a fonte do AT e declara que o hebraico subjacente contém o Tetragrama.
@@ -357,6 +364,8 @@ João emprega contrastes dualísticos pervasivos — luz/trevas, acima/abaixo, e
 | Nongbri, B. "The Use and Abuse of P52," *HTR* 98 (2005) | Datação do P52 | C, E |
 | Metzger, B. M. *A Textual Commentary on the Greek New Testament* (2a ed., 1994) | Crítica textual | E |
 | Parker, D. C. *The Living Text of the Gospels* (1997) | Crítica textual | E |
+| Arriano. *Anabasis de Alexandre*. Prefácio (c. 130–135 EC); cf. Bosworth, A. B. *A Historical Commentary on Arrian's History of Alexander*, OUP, vols. I (1980) + II (1995) | Comparativo de história antiga | E |
+| Tácito. *Anais*. Loeb Classical Library ed.; cf. Goodyear, F. R. D. *The Annals of Tacitus*, Cambridge, vols. I (1972) + II (1981) | Comparativo de história antiga | E |
 
 ---
 

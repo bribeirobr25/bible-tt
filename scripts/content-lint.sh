@@ -20,8 +20,10 @@ done
 
 CONTENT_DIRS="content/en/genesis content/pt-br/genesis content/de/genesis content/es/genesis content/en/john content/pt-br/john content/de/john content/es/john content/en/matthew content/pt-br/matthew content/de/matthew content/es/matthew"
 STUDY_DIRS="content/en/genesis/study content/pt-br/genesis/study content/de/genesis/study content/es/genesis/study content/en/john/study content/pt-br/john/study content/de/john/study content/es/john/study content/en/matthew/study content/pt-br/matthew/study content/de/matthew/study content/es/matthew/study"
-PEOPLE_FILES="content/en/genesis/PEOPLE.md content/pt-br/genesis/PEOPLE.md content/de/genesis/PEOPLE.md content/es/genesis/PEOPLE.md content/en/matthew/PEOPLE.md content/pt-br/matthew/PEOPLE.md content/de/matthew/PEOPLE.md content/es/matthew/PEOPLE.md"
-NON_EN_PEOPLE_FILES="content/pt-br/genesis/PEOPLE.md content/de/genesis/PEOPLE.md content/es/genesis/PEOPLE.md content/pt-br/matthew/PEOPLE.md content/de/matthew/PEOPLE.md content/es/matthew/PEOPLE.md"
+PEOPLE_FILES="content/en/genesis/PEOPLE.md content/pt-br/genesis/PEOPLE.md content/de/genesis/PEOPLE.md content/es/genesis/PEOPLE.md content/en/matthew/PEOPLE.md content/pt-br/matthew/PEOPLE.md content/de/matthew/PEOPLE.md content/es/matthew/PEOPLE.md content/en/john/PEOPLE.md content/pt-br/john/PEOPLE.md content/de/john/PEOPLE.md content/es/john/PEOPLE.md"
+NON_EN_PEOPLE_FILES="content/pt-br/genesis/PEOPLE.md content/de/genesis/PEOPLE.md content/es/genesis/PEOPLE.md content/pt-br/matthew/PEOPLE.md content/de/matthew/PEOPLE.md content/es/matthew/PEOPLE.md content/pt-br/john/PEOPLE.md content/de/john/PEOPLE.md content/es/john/PEOPLE.md"
+# Phase 9 — CONTEXT.md per book per locale (book-level cross-chapter motifs).
+CONTEXT_FILES="content/en/genesis/CONTEXT.md content/pt-br/genesis/CONTEXT.md content/de/genesis/CONTEXT.md content/es/genesis/CONTEXT.md content/en/john/CONTEXT.md content/pt-br/john/CONTEXT.md content/de/john/CONTEXT.md content/es/john/CONTEXT.md content/en/matthew/CONTEXT.md content/pt-br/matthew/CONTEXT.md content/de/matthew/CONTEXT.md content/es/matthew/CONTEXT.md"
 ES_NT_DIRS="content/es/john content/es/matthew"
 ES_NT_CHAPTER_FILES="content/es/john/CHAPTER-1.md content/es/john/CHAPTER-2.md content/es/john/CHAPTER-3.md content/es/matthew/CHAPTER-1.md content/es/matthew/CHAPTER-2.md content/es/matthew/CHAPTER-3.md"
 PTBR_JOHN_FILES="content/pt-br/john/CHAPTER-1.md content/pt-br/john/CHAPTER-2.md content/pt-br/john/CHAPTER-3.md content/pt-br/john/study/CHAPTER-1-CONTEXT.md content/pt-br/john/study/CHAPTER-2-CONTEXT.md content/pt-br/john/study/CHAPTER-3-CONTEXT.md"
@@ -170,9 +172,14 @@ check_pattern "0.5" "PT-BR 'unigênito' — pending Phase 4 alignment with EN/DE
   "unigênito|unigenito" \
   "$PTBR_JOHN_FILES"
 
-# §0.6 — John PEOPLE.md absence — DEFERRED until after Phase 10.
-# Activated post-Phase 10:
-#   for each locale, fail if content/<loc>/john/ exists without PEOPLE.md.
+# §0.6 — John PEOPLE.md presence per locale — ACTIVATED 2026-05-14 (Phase 10 closure).
+# Fails if any locale's content/<loc>/john/ directory exists without a PEOPLE.md file.
+for loc in en pt-br de es; do
+  if [ -d "content/$loc/john" ] && [ ! -f "content/$loc/john/PEOPLE.md" ]; then
+    echo "FAIL §0.6 — John PEOPLE.md must exist in every locale: missing content/$loc/john/PEOPLE.md"
+    ERRORS=$((ERRORS + 1))
+  fi
+done
 
 # §0.7a — PEOPLE.md "TT" leftover heading
 check_pattern "0.7" "PEOPLE.md leftover 'Transparent Translation' H2 (Phase 1A removes it)" \
@@ -189,10 +196,14 @@ check_heading_collision "0.8" "$NON_EN_PEOPLE_FILES"
 
 # §0.9 — covered by §0.2
 
-# §0.10 — Modern-mapping smell-test (PEOPLE.md only, warn-only by default)
-check_pattern_warn "0.10" "Modern-mapping smell-test in PEOPLE.md (anti-ethnogenesis review)" \
+# §0.10 — Modern-mapping smell-test (PEOPLE.md + CONTEXT.md, warn-only by default)
+# Phase 9 closure (audit §4.1 / PV.1): extended to also cover CONTEXT.md, since
+# Book Context motifs can include entries about neighboring peoples (Genesis
+# Table-of-Nations motif, John Yehudim references, etc.) that should be subject
+# to the same anti-ethnogenesis safeguard.
+check_pattern_warn "0.10" "Modern-mapping smell-test in PEOPLE.md + CONTEXT.md (anti-ethnogenesis review)" \
   "\b(Russia|Europe|Africa|Asia|Slavic|Aryan|Caucasian|Hamitic|Japhetic peoples|Semitic peoples)\b" \
-  "$PEOPLE_FILES"
+  "$PEOPLE_FILES $CONTEXT_FILES"
 
 # ============================================================
 # Legacy rules (pre-Phase 0)

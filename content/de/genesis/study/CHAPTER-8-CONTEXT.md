@@ -207,7 +207,7 @@ Genesis 8:21–22 präsentiert JHWH bei einer inneren Verpflichtung („sprach i
 
 ## I. Die Welt zur damaligen Zeit
 
-Die Datierung der Entstehung der Genesis ist umstritten. Dieser Abschnitt stellt für jedes Hauptszenario „die Welt zur damaligen Zeit" vor, damit Lesende jeder Position den historischen Kontext sehen können, der auf die Themen von Genesis 8 zutrifft: die Neu-Schöpfungssequenz, Vogelauguration, Altarbau und Opfer, Bundesschluss und landwirtschaftliche Wiederaufnahme. Die TT bezieht keine Stellung dazu, wann Genesis verfasst wurde. Den vollständigen politischen, wirtschaftlichen und sozialen Kontext der 10 Kategorien für jedes Szenario findet sich im Genesis-1-Begleitheft, Abschnitt I.
+> **Querverweis:** Für den vollständigen Welt-Kontext (vier Szenarien, zehn Kategorien — Politik, Wirtschaft, Alltagsleben, Sozialstruktur, Bildung, Militär, Kunst, Wissenschaft, Religion, Nachbarvölker), siehe den Genesis-1-Begleitkommentar (Abschnitt I, `de/genesis/study/CHAPTER-1-CONTEXT.md`). Die folgenden Einträge behandeln die historischen Umstände, die in Genesis 8 spezifisch hervorgehoben werden — die Neu-Schöpfungssequenz, Vogelauguration, Altarbau und Opfer, Bundesschluss und landwirtschaftliche Wiederaufnahme.
 
 ---
 

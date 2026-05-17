@@ -2,7 +2,7 @@
 
 **Date:** 2026-05-09
 **Auditor:** Claude Opus 4.7 (independent review)
-**Scope:** `docs/audit/NEW_PLAN.md` — 8 sub-phases (6.6A through 6.6H) covering en-dash sweep, person-card parser fix, introduction-page disclaimer placement, field reorder + birth/death rendering, native HTML accordion, chapter breadcrumb, Matthew people lifespan authoring, women timeline visibility audit.
+**Scope:** `docs/audit/archive/NEW_PLAN.md` — 8 sub-phases (6.6A through 6.6H) covering en-dash sweep, person-card parser fix, introduction-page disclaimer placement, field reorder + birth/death rendering, native HTML accordion, chapter breadcrumb, Matthew people lifespan authoring, women timeline visibility audit.
 **Method:** Verified plan claims against actual files: `src/infrastructure/content/people-parser.ts`, `src/ui/people/person-card.tsx`, `src/ui/people/people-timeline.tsx`, `src/ui/shared/chapter-view.tsx`, `src/ui/enrichment/introduction-view.tsx`, `src/app/[locale]/[book]/introduction/page.tsx`, `content/en/genesis/PEOPLE.md`, `content/en/matthew/PEOPLE.md`. Cross-checked Rule 29 disclaimer requirement and Prime Directive.
 **Status:** Plan is mostly sound. Two critical execution-blocking issues that the plan does not catch. Several minor concerns worth resolving.
 

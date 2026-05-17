@@ -215,7 +215,7 @@ Die Fluterzählung liefert exakte Kalenderdaten: Beginn am zweiten Monat, siebze
 
 ## I. Die Welt zur damaligen Zeit
 
-Die Datierung der Entstehung der Genesis ist umstritten. Dieser Abschnitt stellt für jedes Hauptszenario „die Welt zur damaligen Zeit" vor, damit Lesende jeder Position den historischen Kontext sehen können, der auf die Themen von Genesis 7 zutrifft: den Flutmechanismus, Maßsysteme, Tierhaltung, Wasserkosmologie und kalendarische Präzision. Die TT bezieht keine Stellung dazu, wann Genesis verfasst wurde. Den vollständigen politischen, wirtschaftlichen und sozialen Kontext der 10 Kategorien für jedes Szenario findet sich im Genesis-1-Begleitheft, Abschnitt I.
+> **Querverweis:** Für den vollständigen Welt-Kontext (vier Szenarien, zehn Kategorien — Politik, Wirtschaft, Alltagsleben, Sozialstruktur, Bildung, Militär, Kunst, Wissenschaft, Religion, Nachbarvölker), siehe den Genesis-1-Begleitkommentar (Abschnitt I, `de/genesis/study/CHAPTER-1-CONTEXT.md`). Die folgenden Einträge behandeln die historischen Umstände, die in Genesis 7 spezifisch hervorgehoben werden — den Flutmechanismus, Maßsysteme, Tierhaltung, Wasserkosmologie und kalendarische Präzision.
 
 ---
 

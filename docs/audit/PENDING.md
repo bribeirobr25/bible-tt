@@ -1,8 +1,8 @@
 # Pending & Deferred Items
 
 **Original date:** 2026-05-05
-**Re-verified:** 2026-05-09 against current code, content, and rules (post Phase 6.6 closure).
-**Execution underway:** Phases 0–6.6 closed 2026-05-09. Phase 5.5 landed Ruleset v3.3. Phase 6A re-verified the 9 NOT VERIFIED audit items (7 already-resolved + 2 actioned: PT-BR Almeida Option B + 18-file cascade; *charis* slash compliance in EN/DE/ES John 1; Item 14 cross-locale title-cap normalized via Option 2 to PT-BR/ES verse text lowercase). Phase 6B piloted Rule 29 §734 Tier 2 Relocation Protocol on Genesis 9 across all 4 locales (4 notes tightened with companion-section pointers; technique validated and documented in `docs/editorial-log/genesis.md` Entry 100). Phase 6.6 (post-Phase-6 UX + content polish) landed across 9 sub-phases: 6.6A en-dash sweep; 6.6B people-parser auto-extracts familiar name (+4 tests, 792→796); 6.6C introduction disclaimer in collapsed `<details>` "Reading note"; 6.6D person-card biographical-fields reorder + birthYear/deathYear rows; 6.6E HTML-native single-expand accordion; 6.6F chapter breadcrumb; 6.6G Matthew 5 NT figures × 4 locales authored with birthYear/deathYear/lifespan + numeric-anchor convention adopted (Entry 2026-05-09-101 / M-014); 6.6H women timeline audit (Eve/Sarai Option-1 + Bat-Sheva intentional absence — M-015); 6.6I dead-code/content audit (12 categories, 0 actionable removals, all KEEP-with-reason). M-016 logs the Rule 29 §792 disclaimer-placement governance decision. All blocking content-lint rules pass. FEEDBACK status: 23 RESOLVED / 2 PARTIAL / 13 NOT VERIFIED / 0 STILL OPEN of 38 items.
+**Re-verified:** 2026-05-13 against current code, content, and rules (post Phase 11 closure).
+**Execution underway:** Phases 0–6.6 closed 2026-05-09; Phase 7 closed 2026-05-13; Phase 11 (Option C) closed 2026-05-13. Phase 5.5 landed Ruleset v3.3. Phase 6A re-verified the 9 NOT VERIFIED audit items (7 already-resolved + 2 actioned: PT-BR Almeida Option B + 18-file cascade; *charis* slash compliance in EN/DE/ES John 1; Item 14 cross-locale title-cap normalized via Option 2 to PT-BR/ES verse text lowercase). Phase 6B piloted Rule 29 §734 Tier 2 Relocation Protocol on Genesis 9 across all 4 locales (4 notes tightened with companion-section pointers; technique validated and documented in `docs/editorial-log/genesis.md` Entry 100). Phase 6.6 (post-Phase-6 UX + content polish) landed across 9 sub-phases: 6.6A en-dash sweep; 6.6B people-parser auto-extracts familiar name (+4 tests, 792→796); 6.6C introduction disclaimer in collapsed `<details>` "Reading note"; 6.6D person-card biographical-fields reorder + birthYear/deathYear rows; 6.6E HTML-native single-expand accordion; 6.6F chapter breadcrumb; 6.6G Matthew 5 NT figures × 4 locales authored with birthYear/deathYear/lifespan + numeric-anchor convention adopted (Entry 2026-05-09-101 / M-014); 6.6H women timeline audit (Eve/Sarai Option-1 + Bat-Sheva intentional absence — M-015); 6.6I dead-code/content audit (12 categories, 0 actionable removals, all KEEP-with-reason). M-016 logs the Rule 29 §792 disclaimer-placement governance decision. All blocking content-lint rules pass. FEEDBACK status: 23 RESOLVED / 2 PARTIAL / 13 NOT VERIFIED / 0 STILL OPEN of 38 items.
 
 ---
 
@@ -68,21 +68,59 @@ The current per-book PEOPLE.md model is unchanged. Refactor to cross-book canoni
 
 ES Genesis 1–12 declare Option B (Reconocimiento selectivo) in front matter. ES John 1–3 and ES Matthew 1–3 do not. Add the declaration to all 6 NT front-matter blocks.
 
-### John PEOPLE.md missing — MEDIUM PRIORITY
+### John PEOPLE.md missing — RESOLVED 2026-05-14 (Phase 10)
 
-Genesis and Matthew have PEOPLE.md across all four locales. John has none. Author EN-first (Yochanan, Yeshua, Andreas, Kefa, Philippos, Nathanael, Nikodemos, Yehudim, Eliyahu, Mosheh, etc. as introduced in John 1–3), then PT-BR / DE / ES.
+Phase 10 (`docs/audit/archive/PHASE_10_PLAN.md`) closed 2026-05-14. All 4 locales now have `content/{en,pt-br,de,es}/john/PEOPLE.md` (11 entries each × 4 locales = 44 entries): 2 see-only cross-book pointers to `matthew/PEOPLE.md` (Yochanan, Yeshua); 5 full PersonEntry profiles (Andreas, Shimon Kefa, Philippos, Nathanael, Nikodemos); 1 group entry (Yehudim — Ioudaioi Policy 3-sense breakdown in `**Character arc:**` field per audit Significant #2 fix); 3 see-only stubs to future books (Mosheh→exodus, Eliyahu→kings, Yeshayahu→isaiah — dangling-pointer fallback verified). 801 tests pass; pnpm build succeeds; HTTP 200 across 4 locales. See `docs/editorial-log/john.md` Entry J-021.
 
 ### PT-BR monogenēs cross-language inconsistency — MEDIUM PRIORITY
 
 `content/pt-br/john/CHAPTER-3.md` uses `unigênito` 10×; `CHAPTER-1.md` 7×. EN renders "only-born", DE "einziggeborenen", ES "único-nacido". Decide on a cross-language-aligned rendering for PT-BR (e.g. `único-nascido` or `unigerado`) and apply.
 
-### Readability sweep on John / Matthew companions — MEDIUM PRIORITY
+### Readability sweep on John / Matthew companions — RESOLVED 2026-05-13
 
-Genesis INTRODUCTION already glosses Masoretic Text, Septuagint, JEDP on first use. John/Matthew companions still use unglossed `Colwell` (5× in EN John 1 companion), `predicate nominative`, `anarthrous`, `chiastic`, etc. Apply the grandmother/teenager test (`docs/feedback/DEFERRED_TASKS.md` Task 2) to these files.
+Phase 7 (`docs/audit/archive/PHASE_7_PLAN.md`) closed 2026-05-13. All 32 in-scope files (24 chapter companions + 8 introductions × 4 locales) now satisfy the grandmother-test standard. See `docs/editorial-log/john.md` Entry J-019 and `docs/editorial-log/matthew.md` Entry M-017 for the per-file edit log; `docs/feedback/DEFERRED_TASKS.md` Task 2 verdict updated to RESOLVED.
 
-### John / Matthew prophecy material — DECISION NEEDED
+### John / Matthew prophecy material — RESOLVED 2026-05-13 (Phase 11 Option C)
 
-Genesis has CHAPTER-3-PROPHECY, CHAPTER-9-PROPHECY, CHAPTER-12-PROPHECY in all locales. John 1–3 has prophetic statements (1:51, 2:19–22, 3:14) but no prophecy file. Matthew 1–3's fulfilment-formula material is currently housed in editorial-log entry M-001. Decide whether this content should also be exposed via PROPHECY files for Prophecy view-mode coverage.
+Phase 11 (`docs/audit/archive/PHASE_11_PLAN.md`) closed 2026-05-13 with Option C. 12 PROPHECY files authored (3 chapters × 4 locales): John 3 (Numbers 21 / Yeshua-lifted parallel); Matthew 1 (Isa 7:14 *parthenos*/*almah*); Matthew 2 (Mic 5:1+2 Sam 5:2, Hos 11:1, Jer 31:15, Natsri-unresolved). 6 prophecy entries per locale, 24 entries total across all locales. Prophecy view-mode now lit for John 3 + Matt 1 + Matt 2. John 1:51, John 2:19–22, and Matt 3:3 deliberately deferred (their content is already fully treated in chapter companions; not dense enough to warrant dedicated prophecy files). See `docs/editorial-log/john.md` Entry J-020 and `docs/editorial-log/matthew.md` Entry M-018.
+
+---
+
+## Content seeds registered from `docs/feedback/possible-content.md` (2026-05-15 review)
+
+Pieces of the `possible-content.md` source file that survived a per-topic accuracy + Rule-3/13/29 audit but fall outside the current authoring scope. Each is queued to the chapter / book where it would naturally land, with the audit verdict that places it.
+
+### Genesis 22 — Akedah → Crucifixion typological parallels — DEFERRED to Phase 12
+
+Verbal and structural parallels between Gen 22 (Avraham/Yitschaq, Mount Moriah, the ram caught by horns, the wood carried by the son) and the Passion narratives have been catalogued in Christian typological tradition since at least Origen. Place in **Gen 22 CONTEXT §F (Later Reception in Other Traditions)** when Genesis 22 is authored. Required label: `LATER RECEPTION — PROBABLE` for the verbal parallels (wood, only son, Mount Moriah = traditional Temple-Mount identification); the typology itself is `LATER RECEPTION — POSSIBLE`. Do **not** present as TEXTUAL or as authorial intent of Gen 22. Reject the popular "Isaac was 33" claim — rabbinic tradition (Gen Rabbah 56:8) puts him at ~37; "33" is post-hoc Christian retrofit. Source file: `docs/feedback/possible-content.md` Topic 1, second half.
+
+### Exodus 34 — Moses *karan* (קָרַן) ambiguity + Jerome's *cornuta* + horn iconography — DEFERRED to Phase 14+
+
+Strong scholarly content (Hebrew root QRN = "horn"/"emit rays" semantic field; Jerome's Vulgate "cornuta" choice at Exod 34:29–35; Ezekiel-commentary evidence that Jerome understood the metaphorical sense; medieval and Renaissance horned-Moses art; ANE bull / ram horn iconography of divinity). Belongs in **Exod 34 CONTEXT** when authored — §C (Linguistic and Philological Deep Dives) for the QRN ambiguity; §B (ANE Parallels) for horn-as-divinity iconography; §F (Later Reception) for the Vulgate → Michelangelo art-history chain. Compatible with Rules 2 + 14 (preserve ambiguity + annotate wordplay). When Gen 22 is authored, add a forward-pointer note from the "ram caught by horns" verse linking forward to the *karan* / horn-symbolism thread in Exod 34. Source file: `docs/feedback/possible-content.md` Topic 8.
+
+### Luke 1 — Mary as new Ark of the Covenant typology — DEFERRED to Luke authoring (post-Phase 14)
+
+Verbal parallels between Luke 1:39–56 and 2 Samuel 6 (LXX): "hill country of Judea" (Luke 1:39 ↔ 2 Sam 6:2); 3-month stay (Luke 1:56 ↔ 2 Sam 6:11); leaping (Luke 1:41 παιδίον ἐσκίρτησεν ↔ 2 Sam 6:14 LXX — different verb but parallel motif); "overshadow" (Luke 1:35 ἐπισκιάσει ↔ Exod 40:35 LXX of the tabernacle). The verbal parallels are real but the typological identification of Mary with the Ark is Catholic / Marian tradition, not authorial intent of Luke. Place in **Luke 1 CONTEXT §F (Later Reception in Other Traditions)** when Luke is authored. Required label: `LATER RECEPTION — PROBABLE` for the verbal parallels; the Mary-as-Ark identification itself is `LATER RECEPTION — POSSIBLE`. Source file: `docs/feedback/possible-content.md` Topic 1, middle.
+
+### ~~ES Matthew diacritic loss (parallel to the resolved ES John issue)~~ — RESOLVED 2026-05-17
+
+Surfaced 2026-05-16 during Step 1 authoring of the Possible-Content Bundle. The existing `## Ya'aqov (Jacob)` entry at `content/es/matthew/PEOPLE.md` contained pre-existing UTF-8 mojibake (`genealogÃ­a` instead of `genealogía`, `JudÃ¡` instead of `Judá`) plus broader corruption across `content/es/matthew/INTRODUCTION.md` (29 affected lines) and `content/es/matthew/PEOPLE.md` (33 affected lines). Same double-encoding pattern as the ES John sweep (J-023, RESOLVED 2026-05-14).
+
+**Fix applied 2026-05-17:** ran `ftfy.fix_text` on both files. ES INTRODUCTION recovered 29 lines (Spanish diacritics, em-dashes, Greek script in §A2's `καὶ ἐγένετο ὅτε ἐτέλεσεν ὁ Ἰησοῦς τοὺς λόγους τούτους`), ES PEOPLE.md recovered 33 lines. Bundle's Iakobos see-only stub (line 37–39) verified unchanged. 817/817 tests pass, build clean, lint clean. Visual validation via MCP browser confirmed all corrupted glyphs now render correctly. See `docs/editorial-log/matthew.md` Entry M-024.
+
+### ~~EN Matthew INTRODUCTION pre-existing mojibake (sibling finding to ES sweep)~~ — RESOLVED 2026-05-17
+
+Surfaced 2026-05-17 during the Possible-Content Bundle visual-validation loop (MCP browser inspection of `/en/matthew/introduction` route). The EN matthew INTRODUCTION + PEOPLE.md authored in commit `a95186d4` (2026-05-09) contained pre-existing UTF-8 mojibake on em-dashes (`â` instead of `—`) and Greek script (`á¼¸Î·ÏÎ¿á¿¦Î½` instead of `Ἰησοῦν` at line 229, `á¼µÎ½Î± / á½ÏÏÏ ÏÎ»Î·ÏÏÎ¸á¿` instead of `ἵνα/ὅπως πληρωθῇ` at line 274, plus 12 other affected lines in INTRODUCTION and 19 in PEOPLE.md).
+
+**Fix applied 2026-05-17:** ran `ftfy.fix_text` on both files. EN INTRODUCTION recovered 14 lines, EN PEOPLE.md recovered 19 lines (mostly em-dashes plus Papias quote's `Hebraidi dialektō`, Great Commission's `panta ta ethnē`, and the Matt 27:16–17 Greek). Bundle's §E4 addition (lines 233–238) verified unchanged. 817/817 tests pass, build clean, lint clean. Visual validation via MCP browser confirmed Matt 1:16 em-dash and Matt 27:16–17 Greek `Ἰησοῦν Βαραββᾶν` now render correctly. See `docs/editorial-log/matthew.md` Entry M-024.
+
+DE Matthew INTRODUCTION + PEOPLE.md confirmed byte-clean (no fix needed). PT-BR Matthew confirmed byte-clean (the earlier broad regex matched only legitimate Portuguese diacritics).
+
+### people-parser slug collision detection — DEFERRED (small parser improvement)
+
+The people-parser at `src/infrastructure/content/people-parser.ts` derives PersonEntry slugs via `name.toLowerCase().replace(/\s+/g, "-")` (line 740) where `name` is everything before the first parenthesis in the H2 heading. The parser has **no duplicate-slug detection**. Two homonymous transliterated source-names (e.g., both `Ya'aqov` headings for the patriarch and James-brother-of-Yeshua) would silently collide on the slug `ya'aqov`, with one entry overwriting the other or both producing the same React key — depending on accumulation order in the entries array. This gap was surfaced by the v2 audit of `POSSIBLE_CONTENT_BUNDLE_PLAN.md` (`docs/audit/AUDIT_POSSIBLE_CONTENT_BUNDLE_PLAN_v2.md §7.6`).
+
+Proposed improvement (out of bundle scope): add a duplicate-slug check inside `flushEntry`, emitting `console.warn` when a slug already exists in the entries array. Estimated effort: ~30 minutes (small addition + 1 new vitest case). Trigger this task when (a) Phase 12 authoring of Genesis 13+ creates more cross-book canonical-name candidates (e.g., the Avram → Avraham renaming, Sarai → Sarah), or (b) the Phase 13 cross-book canonical PEOPLE structure work begins (which will refactor the per-book PEOPLE.md model anyway). Until then, the bundle plan's Q5 (`Iakobos` for the brother of Yeshua, ASCII source-language disambiguation) avoids the collision via authoring convention.
 
 ---
 
@@ -93,10 +131,17 @@ Genesis has CHAPTER-3-PROPHECY, CHAPTER-9-PROPHECY, CHAPTER-12-PROPHECY in all l
 | Genesis 13–50 content | STILL OPEN |
 | Em-dash / accessibility sweep | PARTIAL (EN Matt + non-EN remain) |
 | Cross-book canonical PEOPLE | STILL OPEN |
-| **NEW:** v3.2 version stamp sweep | OPEN |
-| **NEW:** ES John diacritics | OPEN |
-| **NEW:** ES NT Reina-Valera declaration | OPEN |
-| **NEW:** John PEOPLE.md | OPEN |
-| **NEW:** PT-BR monogenēs | OPEN |
-| **NEW:** Readability on John/Matt companions | OPEN |
-| **NEW:** John/Matt prophecy file decision | OPEN |
+| Akedah → Crucifixion typology (Gen 22 §F) | DEFERRED to Phase 12 |
+| Moses *karan* / horns (Exod 34) | DEFERRED to Phase 14+ |
+| Mary as new Ark typology (Luke 1 §F) | DEFERRED to Luke authoring |
+| ES Matthew diacritic loss (parallel to resolved ES John issue) | RESOLVED 2026-05-17 (ftfy sweep; see matthew.md M-024) |
+| EN Matthew INTRODUCTION em-dash + Greek mojibake (sibling) | RESOLVED 2026-05-17 (ftfy sweep; see matthew.md M-024) |
+| people-parser slug-collision detection | DEFERRED (small parser improvement) |
+| **NEW:** v3.2 version stamp sweep | RESOLVED (already at v3.3 across 200 content references — completed in prior phase) |
+| **NEW:** ES John diacritics | RESOLVED 2026-05-14 (1,128 replacements across 7 files; see `docs/editorial-log/john.md` Entry J-023) |
+| **NEW:** ES NT Reina-Valera declaration | RESOLVED (all 6 NT chapter front-matter blocks already have Option B declaration — completed in prior phase) |
+| **NEW:** John PEOPLE.md | RESOLVED 2026-05-14 (Phase 10) |
+| **NEW:** PT-BR monogenēs | RESOLVED (PT-BR main text already renders as `único-nascido` consistent with EN/DE/ES; remaining 4 `unigênito` references are intentional scholarly metadiscussion explaining why the term is avoided) |
+| **NEW:** Readability on John/Matt companions | RESOLVED 2026-05-13 (Phase 7) |
+| **NEW:** John/Matt prophecy file decision | RESOLVED 2026-05-13 (Phase 11 Option C) |
+| **NEW:** Section I 10-category coverage audit | RESOLVED 2026-05-14 (Phase 8) |

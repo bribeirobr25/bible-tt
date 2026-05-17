@@ -220,7 +220,7 @@ Genesis 4:17–22 places the origins of civilization in Cain's line: city-buildi
 
 ## I. The World at the Time
 
-The dating of Genesis's composition is debated. This section presents "the world at the time" for each major scenario, so readers holding any position can see the historical context most relevant to Genesis 4. The broad political, economic, and social background for each scenario is identical to that of Genesis 1 — the same empires, the same civilizations, the same time periods. What this section focuses on is how Genesis 4's specific content — agriculture versus pastoralism, sacrifice and offering practices, fratricide, the mark of Cain, city-building, and the cultural genealogy culminating in Tuval-Qayin — connects to each historical world. For the full 10-category background, see Genesis 1 companion Section I.
+> **Cross-reference:** For the full four-scenario, ten-category world context (Political, Economy, Daily Life, Social Structure, Education, Military, Arts, Science, Religion, Neighboring Peoples), see the Genesis 1 companion (Section I, `en/genesis/study/CHAPTER-1-CONTEXT.md`). The entries below address the historical circumstances specifically foregrounded in Genesis 4 — agriculture versus pastoralism, sacrifice and offering practices, fratricide, the mark of Cain, city-building, and the cultural genealogy culminating in Tuval-Qayin.
 
 ---
 
@@ -235,6 +235,10 @@ In a tribal and nomadic context (the Mosaic scenario), fratricide was among the 
 
 **I-A3. Pastoral versus agricultural economies in the Sinai and Levant**
 The tension between Cain (farmer) and Abel (shepherd) reflects a real socioeconomic friction visible in the Mosaic scenario: the Israelites were semi-nomadic pastoralists, while Canaan had settled agricultural communities. Sumerian literature had already formalized this tension in the "Debate between Sheep and Grain" — a literary contest between the two modes of production. In the Sinai wilderness, the Israelites kept flocks; entering Canaan meant transitioning to grain agriculture. The Cain-Abel dynamic maps onto this transition: both modes are legitimate, both produce offerings, but the conflict between them is deadly.
+
+**I-A7. Origin-of-the-arts traditions — music and metallurgy**
+**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
+Genesis 4 attributes the founding of cultural arts to specific named ancestors: Yaval = ancestor of tent-dwelling pastoralists (4:20); Yuval = ancestor of lyre and pipe players (4:21); Tuval-Qayin = forger of bronze and iron tools (4:22). This is a culture-genesis catalogue typical of Ancient Near Eastern wisdom literature. Comparable traditions include the Sumerian "Inanna and Enki" hymn, where the *me* (cultural arts: kingship, scribecraft, metalwork, music, etc.) are transferred from Enki to Inanna and from there to Uruk; the Akkadian *apkallu* (seven antediluvian sages) credited with founding crafts; and the Greek Hephaestus / Daedalus traditions of named craft-originators. In the Mosaic scenario, the Israelites had recent experience of Egyptian metallurgical workshops (copper at Timna; bronze tools throughout) and would have understood metalwork as a high-skill specialty learned in geographic centers — making the geographic localization of Tuval-Qayin's craft to a specific lineage culturally legible. **Source:** Westenholz, J.G., "Heroes of Akkad," *Journal of the American Oriental Society* 103 (1983); Foster, B.R., *Before the Muses: An Anthology of Akkadian Literature*, 3rd ed., CDL Press, 2005 (apkallu traditions). **[ANE COMPARATIVE — DOCUMENTED]**
 
 *For the full 10-category historical context of this period, see Genesis 1 companion Section I, Scenario A.*
 

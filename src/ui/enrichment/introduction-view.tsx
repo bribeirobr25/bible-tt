@@ -91,9 +91,12 @@ export function IntroductionView({
           <summary className="px-3 py-2 cursor-pointer text-xs uppercase tracking-wider text-text-muted hover:text-text-secondary transition-colors duration-150 focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2 rounded-md">
             {readingNoteLabel}
           </summary>
-          <p className="px-3 pb-3 text-xs text-text-muted italic leading-relaxed">
-            {data.disclaimer}
-          </p>
+          <p
+            className="px-3 pb-3 text-xs text-text-muted italic leading-relaxed"
+            dangerouslySetInnerHTML={{
+              __html: renderInlineSafe(data.disclaimer),
+            }}
+          />
         </details>
       )}
       <div className="space-y-2">

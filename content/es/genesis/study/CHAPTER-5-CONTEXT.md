@@ -167,7 +167,7 @@ La formula dice que cada patriarca "engendro hijos e hijas" — pero ninguna hij
 
 ## I. El Mundo en Esa Época
 
-La datación de la composición del Génesis es debatida. Esta sección presenta "el mundo en la época" para cada escenario principal, para que lectores con cualquier posición puedan ver el contexto histórico que aplicaría a la genealogía de Génesis 5, sus extraordinarias longevidades, su sistema numérico y sus convenciones de registro ancestral. La TT no toma partido sobre cuándo se compuso el Génesis. Para el contexto político, económico y social completo de 10 categorías de cada escenario, vea el compañero de Génesis 1, Sección I.
+> **Referencia cruzada:** Para el contexto mundial completo (cuatro escenarios, diez categorías — Político, Economía, Vida Cotidiana, Estructura Social, Educación, Militar, Artes, Ciencia, Religión, Pueblos Vecinos), véase el companion de Génesis 1 (Sección I, `es/genesis/study/CHAPTER-1-CONTEXT.md`). Las entradas a continuación abordan las circunstancias históricas específicamente destacadas en Génesis 5 — la genealogía, las extraordinarias longevidades, el sistema numérico y las convenciones de registro ancestral.
 
 ---
 

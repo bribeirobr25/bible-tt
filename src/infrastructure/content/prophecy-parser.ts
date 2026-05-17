@@ -180,6 +180,13 @@ export function parseProphecyMarkdown(
       ) {
         current.fulfillmentNotes = value;
       } else if (
+        key.includes("scholarly note") ||
+        key.includes("nota acadêmica") ||
+        key.includes("nota académica") ||
+        key.includes("wissenschaftliche anmerkung")
+      ) {
+        current.scholarlyNote = value;
+      } else if (
         key.includes("readings") ||
         key.includes("lecturas") ||
         key.includes("leituras") ||
@@ -224,5 +231,6 @@ function finalizeEntry(
     readings: raw.readings,
     fulfillmentStatus: raw.fulfillmentStatus || "DEBATED",
     fulfillmentNotes: raw.fulfillmentNotes,
+    scholarlyNote: raw.scholarlyNote,
   };
 }

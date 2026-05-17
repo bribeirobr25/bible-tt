@@ -329,7 +329,7 @@ Genesis 2:17: „am Tag, da du davon isst, wirst du des Todes sterben" — an de
 
 ## I. Die Welt zur damaligen Zeit
 
-Die Datierung der Abfassung von Genesis ist umstritten. Dieser Abschnitt präsentiert „die Welt zur damaligen Zeit" für jedes wichtige Szenario, damit Leser mit jeder Position den historischen Kontext sehen können, der für Genesis 3 am relevantesten ist. Der breite politische, wirtschaftliche und soziale Hintergrund für jedes Szenario ist identisch mit dem in Genesis 1 — dieselben Imperien, dieselben Zivilisationen, dieselben Zeitperioden. Dieser Abschnitt konzentriert sich darauf, wie der spezifische Inhalt von Genesis 3 — die Schlange, verbotenes Wissen, Tod, Nacktheit und Scham, der Fluch und die Vertreibung — mit jeder historischen Welt zusammenhängt. Für den vollständigen historischen Kontext mit allen 10 Kategorien siehe Genesis 1 Begleitmaterial Abschnitt I.
+> **Querverweis:** Für den vollständigen Welt-Kontext (vier Szenarien, zehn Kategorien — Politik, Wirtschaft, Alltagsleben, Sozialstruktur, Bildung, Militär, Kunst, Wissenschaft, Religion, Nachbarvölker), siehe den Genesis-1-Begleitkommentar (Abschnitt I, `de/genesis/study/CHAPTER-1-CONTEXT.md`). Die folgenden Einträge behandeln die historischen Umstände, die in Genesis 3 spezifisch hervorgehoben werden — die Schlange, verbotenes Wissen, Tod, Nacktheit und Scham, der Fluch und die Vertreibung.
 
 ---
 

@@ -24,6 +24,9 @@
     "bookIntroductionDescription": "Autorschaft, Datierung, Handschriftenüberlieferung und wie man dieses Buch in der TT liest.",
     "comingSoon": "Inhalt kommt bald."
   },
+  "bookContext": {
+    "chapters": "Kapitel"
+  },
   "chapter": {
     "prev": "Vorheriges Kapitel",
     "next": "Nächstes Kapitel",
@@ -124,7 +127,8 @@
       "context": "Kontext",
       "subject": "Gegenstand",
       "readings": "Traditionelle Lesarten",
-      "status": "Erfüllungsstatus"
+      "status": "Erfüllungsstatus",
+      "scholarlyNote": "Wissenschaftliche Anmerkung"
     }
   },
   "people": {

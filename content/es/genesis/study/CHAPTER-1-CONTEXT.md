@@ -435,6 +435,13 @@ El análisis alternativo de *bereshit* como "por causa del primero" generó rica
 
 **Fuente:** Freedman, H. & Simon, M. (trad.), *Midrash Rabbah: Genesis*, Soncino, 1939 (PEER-REVIEWED); Kugel, J.L., *Traditions of the Bible*, Harvard, 1998 (PEER-REVIEWED).
 
+### F5. La lectura *et* / alef-tav — tradición mesiánico-judía y precedentes cabalísticos
+**[LATER RECEPTION — SPECULATIVE]**
+
+Algunas lecturas mesiánico-judías y cristianas de "raíces hebreas" — apoyándose en especulación cabalística anterior sobre el peso simbólico de las letras *aleph* y *tav* (la primera y la última letra del alfabeto hebreo) — encuentran una firma cristológica oculta en las dos apariciones de la partícula אֵת (*et*) en Génesis 1:1 ("bereshit bara Elohim *et* hashamayim ve-*et* ha'aretz"). La lectura observa que *et* se escribe aleph + tav, y establece paralelismo con el "Alfa y Omega" griego de Apocalipsis 1:8, proponiendo que las partículas *et* marcan silenciosamente al Mesías como presente en la creación, principio y fin. Los precedentes cabalísticos medievales tratan el par aleph-tav como ideograma divino, no como específicamente cristológico; la lectura mesiánico-cristológica es un desarrollo post-NT más reciente. *et* es el marcador estándar del objeto directo (*nota accusativi*) en el hebreo bíblico, apareciendo miles de veces en todo entorno sintáctico que requiere un objeto directo definido — incluidas miles de apariciones que ningún defensor de la tradición lee como cristológicas —, por lo que la lectura se etiqueta SPECULATIVE: no tiene fundamentación textual ni filológica en el hebreo mismo, pero se documenta aquí como fenómeno de recepción posterior.
+
+**Fuente:** Patai, R. (ed.), *The Messiah Texts: Jewish Legends of Three Thousand Years*, Wayne State, 1979 (contexto sobre la tipología cabalística *aleph-tav*); Waltke, B. K. & O'Connor, M., *An Introduction to Biblical Hebrew Syntax*, Eisenbrauns, 1990, §10.3 (tratamiento filológico de *et* como *nota accusativi*).
+
 ---
 
 ## G. Curiosidades y preguntas abiertas

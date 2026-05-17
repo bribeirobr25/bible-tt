@@ -545,7 +545,7 @@ Este archivo presenta información biográfica y genealógica sobre figuras que 
 
 **Significado:** INCIERTO ("caliente" / "oscuro" — debatido, ninguna etimología dada en el texto)
 **Origen:** NACIDO
-**Año de nacimiento:** no calculable con precisión (nacido cuando Noé tenía aproximadamente 500, Gn 5:32; llamado "hijo menor" en 9:24)
+**Año de nacimiento:** AM 1559 (calculado: Gn 5:32 inicia la procreación de Noé a los 500 años; Gn 11:10 sitúa a Shem en AM 1558; Gn 9:24 llama a Cam "hijo menor" — un año después de Shem es la lectura de menor-compromiso consistente con el marco de los tres hermanos comenzados a los 500)
 **Año de muerte:** no declarado
 **Tiempo de vida:** no declarado
 **Padre:** Noé (Gn 5:32)
@@ -570,7 +570,7 @@ Este archivo presenta información biográfica y genealógica sobre figuras que 
 **Estado de historicidad:** INCIERTO
 **Libros en que aparece:** Génesis; 1 Crónicas 1:4, 8; Salmo 78:51; 105:23, 27; 106:22
 **Arco del personaje:** Ve la desnudez de su padre y se lo cuenta a sus hermanos; su hijo Canaán, no el propio Cam, recibe la maldición — una laguna narrativa que el texto deja sin explicación.
-**Año desde la creación:** no calculable con precisión (nacido cuando Noé tenía aproximadamente 500, Gn 5:32)
+**Año desde la creación:** 1559
 **Año desde la creación — fin:** no declarado
 
 **Nota:** Gn 9:24 llama a Cam "su hijo menor" (*beno ha-qatan*). La maldición recae sobre Canaán, no sobre el propio Cam — el texto no explica por qué.
@@ -581,7 +581,7 @@ Este archivo presenta información biográfica y genealógica sobre figuras que 
 
 **Significado:** "ensanchamiento" / "que él ensanche" (Gn 9:27; juego de palabras — "que Dios ensanche [*yaft*] a Yafet")
 **Origen:** NACIDO
-**Año de nacimiento:** no calculable con precisión (nacido cuando Noé tenía aproximadamente 500, Gn 5:32; posiblemente el mayor — ver nota sobre Shem)
+**Año de nacimiento:** AM 1556 (calculado: Gn 5:32 inicia la procreación de Noé a los 500 años; Gn 10:21 se lee más naturalmente como "Jafet el mayor" — haciendo a Jafet el primogénito; Shem entonces nacido AM 1558 por Gn 11:10, Cam AM 1559 por Gn 9:24 "hijo menor")
 **Año de muerte:** no declarado
 **Tiempo de vida:** no declarado
 **Padre:** Noé (Gn 5:32)
@@ -606,7 +606,7 @@ Este archivo presenta información biográfica y genealógica sobre figuras que 
 **Estado de historicidad:** INCIERTO
 **Libros en que aparece:** GÃ©nesis; 1 CrÃ³nicas 1:4–5
 **Arco del personaje:** Camina hacia atrás con Shem para cubrir al padre, actúa con honor y recibe la bendición del ensanchamiento — un papel breve pero digno en una escena de crisis familiar.
-**Año desde la creación:** no calculable con precisión (nacido cuando Noé tenía aproximadamente 500, Gn 5:32)
+**Año desde la creación:** 1556
 **Año desde la creación — fin:** no declarado
 
 **Nota:** El sujeto de "que habite en las tiendas de Shem" (9:27) es ambiguo — puede ser Yafet o Dios. El TT preserva esta ambigüedad.

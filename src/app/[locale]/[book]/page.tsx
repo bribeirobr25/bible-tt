@@ -147,7 +147,7 @@ export default async function BookPage({
                 className="block px-5 py-4 rounded-lg border border-border hover:border-accent/40 hover:bg-bg-surface transition-colors duration-200 focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2 active:scale-[0.99]"
               >
                 <span className="font-medium">
-                  {t("nav.chapters")} {ch}
+                  {t("chapter.chapterN", { n: ch })}
                 </span>
               </Link>
             ))}

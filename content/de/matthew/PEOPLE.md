@@ -34,6 +34,12 @@ Diese Datei enthält biografische und genealogische Informationen über Personen
 
 ---
 
+## Iakobos (Jakobus)
+**Siehe:** acts/PEOPLE.md
+**In Matthäus:** Als einer der vier Brüder Yeshuas in Matthäus 13,55 genannt (neben Yosef/Josef, Shimon/Simon und Yehudah/Judas), und indirekt in Matthäus 12,46–50 erwähnt (Yeshuas "Mutter und Brüder" kommen, um ihn zu suchen). Zu unterscheiden von Ya'aqov, dem in der Genealogie in Matthäus 1,2 genannten Patriarchen — dieselbe hebräische Wurzel יַעֲקֹב, dieselbe griechische Form Ἰάκωβος, aber eine andere Person; die beiden werden hier durch hebräisch-quelltextliche Transliteration (*Ya'aqov*) für den AT-Patriarchen und griechisch-quelltextliche Transliteration (*Iakobos*) für den NT-Bruder Yeshuas unterschieden. Die umfassendere Biografie — Leitung der Jerusalemer Gemeinde (Apostelgeschichte 15; Galater 1,19; 2,9; 2,12), Josephus' Bericht über seinen Tod im Jahr 62 u.Z. unter Ananus (*Antiquitates Judaicae* 20.197–203), die Auferstehungs-Erscheinungstradition in 1. Korinther 15,7 und die Frage der Briefverfasserschaft — gehört zu den Büchern, in denen seine Rolle substanziell ist: Apostelgeschichte, Galater, Jakobusbrief. Kanonischer Eintrag aufgeschoben.
+
+---
+
 ## Yehudah (Juda)
 **Siehe:** genesis/PEOPLE.md
 **In Matthäus:** In der Genealogie (1,2-3) als Sohn Jakobs und Vater von Perets und Zerach durch Tamar genannt. Matthäus präzisiert „Juda und seine Brüder" — der einzige Genealogieeintrag, der Geschwister erwähnt, was die Auswahl der judäischen Linie markiert.
@@ -227,7 +233,7 @@ Diese Datei enthält biografische und genealogische Informationen über Personen
 
 ---
 
-## Johannes der Eintaucher (Johannes der Täufer)
+## Yochanan der Eintaucher (Johannes der Täufer)
 **Bedeutung:** „JHWH ist gnädig" (Hebräisch יוֹחָנָן, *Johannes*); „der Eintaucher" gibt βαπτιστής (*baptistēs*) gemäß gesperrtem Glossar wieder (Eintauchen, nicht transliteriertes „Taufe")
 **Herkunft:** GEBOREN (keine Geburtserzählung in Matthäus; vgl. Lk 1)
 **Geburtsjahr:** ca. 5 v.u.Z. (TEXTUAL — MÖGLICH; Lk 1,36 macht ihn ~6 Monate älter als Yeshua, was die Geburt knapp vor ca. 4 v.u.Z. ansetzt)

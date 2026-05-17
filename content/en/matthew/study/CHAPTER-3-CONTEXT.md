@@ -85,7 +85,7 @@ The TT's choice brings out the thinking-centered emphasis of the Greek term. *Me
 
 Ritual immersion (*tevilah*) in a *mikveh* (ritual immersion pool) was a widespread Jewish practice in the Second Temple period. Archaeological evidence is extensive:
 
-- **Mikva'ot at Yerushalayim (Jerusalem):** Dozens of stepped immersion pools have been excavated near the Temple Mount, in the Jewish Quarter, and at priestly residences. These date to the Hasmonean and Herodian periods.
+- **Mikva'ot at Yerushalayim (Jerusalem):** Dozens of stepped immersion pools have been excavated near the Temple Mount, in the Jewish Quarter, and at priestly residences. These date to the Hasmonean (the Jewish dynasty that ruled Judea c. 140–37 BCE) and Herodian periods.
 - **Function:** Purification from various forms of ritual impurity (*tumah*) — contact with a corpse, menstruation, seminal emission, skin disease, etc. (Lev 11-15). Immersion marked the transition from impure to pure status.
 - **Proselyte immersion:** By the first century CE, immersion was part of the conversion process for Gentiles entering Judaism (along with circumcision for males and sacrifice). See b. Yevamot 46a-47b.
 
@@ -256,6 +256,11 @@ The people who came to John at the Jordan were not abstract spiritual seekers �
 Matthew 3:7 describes Pharisees and Sadducees coming together to John's immersion — a pairing that is historically unusual. The two groups were theological rivals (on resurrection, oral Torah, and Temple authority) and socially distinct (Pharisees were largely a lay movement; Sadducees were drawn from the priestly aristocracy). John's address to them as a single group — "brood of vipers, who warned you to flee from the coming wrath?" — treats them as a unified religious establishment facing divine judgment, regardless of their internal differences. This rhetorical bracketing has parallels in prophetic tradition (the prophets regularly addressed competing factions within Israel together), but it collapses distinctions that the groups themselves carefully maintained. A pre-70 reader would feel the irony: the two groups whose rivalry structurally defined Jewish institutional religion are addressed as equals under judgment.
 
 **Source:** Sanders, E.P., *Judaism: Practice and Belief, 63 BCE–66 CE*, SCM Press, 1992; Mason, S., "Pharisees," in *Anchor Bible Dictionary*, vol. 5, Doubleday, 1992.
+
+#### IA-5. Arts — The prophet-mantle as material-culture code
+**[HISTORICAL / ARCHAEOLOGICAL — PROBABLE]**
+
+Yochanan (John)'s camel-hair garment with a leather belt (3:4) is not incidental clothing description — it is a deliberate iconographic citation of Eliyahu (Elijah) per 2 Kings 1:8 ("a hairy man, with a leather belt around his waist"). The phrase used of Eliyahu, *ish ba'al se'ar*, was read in later prophetic tradition as describing his characteristic hair-mantle (cf. Zech 13:4: "the prophets will be ashamed... they shall not wear a hairy mantle to deceive"). The visual code communicated a specific claim — that the wearer was making himself legible within the prophetic tradition by adopting its material-culture marker. Camel-hair textile was a coarse, dark fabric produced in pastoral regions (especially the Negev, Sinai, and Transjordan); leather belts were the standard fastening for outer garments across all classes, but the combination signaled the wilderness-prophet category in particular. By the 1st century, the prophet-mantle had become a recognized visual sign: when Mark 1:6 echoes the same description, no explanation is needed. The garment functioned as a deliberate piece of public-facing communication, comparable to the way a 21st-century religious habit signals an order before any words are exchanged. Matthew's audience would have recognized Yochanan's appearance as a claim — the rebuilt-from-2-Kings-1 prophetic uniform — before evaluating his message. **Source:** Wright, B.G., "Wilderness Traditions in Second Temple Judaism," in *Eerdmans Dictionary of Early Judaism*, Eerdmans, 2010; King, P.J. and Stager, L.E., *Life in Biblical Israel*, Westminster John Knox, 2001, ch. 8 (textiles + dress). **[PEER-REVIEWED — PROBABLE]**
 
 ---
 

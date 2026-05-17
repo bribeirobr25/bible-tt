@@ -149,6 +149,8 @@ const EXACT_LABEL_ALIASES: Record<FieldId, string[]> = {
     "eventos-chave",
     "eventos clave",
     "wichtige ereignisse",
+    "hauptereignisse",
+    "schlüsselereignisse",
   ],
   familiarName: [
     "familiar name",

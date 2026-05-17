@@ -48,7 +48,7 @@ This file contains background material organized by topic. Each entry carries **
 
 The Gospel of Matthew is the first book of the New Testament canon. It is the most Jewish of the four Gospels — deeply rooted in the Hebrew Bible, structured around fulfillment citations, and concerned with Torah observance, the role of Israel, and the identity of Yeshua (Jesus) as the Messiah of Jewish expectation. It contains 28 chapters and approximately 1,071 verses.
 
-Matthew shares substantial material with Mark and Luke â the three together are called the Synoptic Gospels (from Greek *syn* + *opsis*, "seen together"), because they follow a similar structure and often share the same wording. The question of why they overlap so extensively is called the "Synoptic Problem." Matthew is distinguished from the other Synoptics by its organizational structure, its emphasis on Jesus as teacher, and its extensive engagement with the Hebrew Scriptures. It includes material absent from the other Synoptics: the genealogy tracing Jesus through David to Avraham (Abraham) (1:1–17), the birth narrative with Yosef (Joseph)'s dreams and the magi (1:18–2:23), and significant blocks of teaching material unique to Matthew.
+Matthew shares substantial material with Mark and Luke — the three together are called the Synoptic Gospels (from Greek *syn* + *opsis*, "seen together"), because they follow a similar structure and often share the same wording. The question of why they overlap so extensively is called the "Synoptic Problem." Matthew is distinguished from the other Synoptics by its organizational structure, its emphasis on Jesus as teacher, and its extensive engagement with the Hebrew Scriptures. It includes material absent from the other Synoptics: the genealogy tracing Jesus through David to Avraham (Abraham) (1:1–17), the birth narrative with Yosef (Joseph)'s dreams and the magi (1:18–2:23), and significant blocks of teaching material unique to Matthew.
 
 **Source:** Davies and Allison, *A Critical and Exegetical Commentary on the Gospel According to Saint Matthew* (ICC, 1988–1997), I.1–58; Luz, *Matthew* (Hermeneia, 2001–2007), I.1–20.
 
@@ -57,15 +57,15 @@ Matthew shares substantial material with Mark and Luke â the three together
 
 Matthew is organized around five major discourse blocks, each concluded by the formula "and it happened when Yeshua (Jesus) finished these words/sayings" (καὶ ἐγένετο ὅτε ἐτέλεσεν ὁ Ἰησοῦς τοὺς λόγους τούτους, or variant). This fivefold structure has been widely noted since B. W. Bacon (1918):
 
-**Discourse 1 â Sermon on the Mount (chapters 5–7):** Ethics of the kingdom. The Beatitudes, the antitheses ("you have heard... but I say to you"), the Lord's Prayer, instruction on righteousness exceeding that of the scribes and Pharisees.
+**Discourse 1 — Sermon on the Mount (chapters 5–7):** Ethics of the kingdom. The Beatitudes, the antitheses ("you have heard... but I say to you"), the Lord's Prayer, instruction on righteousness exceeding that of the scribes and Pharisees.
 
 **Discourse 2 — Mission Discourse (chapter 10):** Instructions to the twelve apostles for their mission. Warnings of persecution, assurances of divine care, the cost of discipleship.
 
-**Discourse 3 â Parable Discourse (chapter 13):** Seven parables of the kingdom of the skies â sower, wheat and weeds, mustard seed, leaven, hidden treasure, pearl, dragnet. Teaching on why Jesus speaks in parables (13:10–17).
+**Discourse 3 — Parable Discourse (chapter 13):** Seven parables of the kingdom of the skies — sower, wheat and weeds, mustard seed, leaven, hidden treasure, pearl, dragnet. Teaching on why Jesus speaks in parables (13:10–17).
 
 **Discourse 4 — Community Discourse (chapter 18):** Instructions for life within the community of disciples. The greatest in the kingdom, the lost sheep, fraternal correction, forgiveness (seventy times seven), the parable of the unforgiving servant.
 
-**Discourse 5 â Eschatological Discourse (chapters 24–25):** The destruction of the Temple, signs of the end, parables of readiness (ten virgins, talents), the judgment of the nations.
+**Discourse 5 — Eschatological Discourse (chapters 24–25):** The destruction of the Temple, signs of the end, parables of readiness (ten virgins, talents), the judgment of the nations.
 
 Each discourse is preceded by a narrative section, creating a rhythm of narrative-discourse-narrative-discourse throughout the Gospel. The fivefold pattern has invited comparison with the five books of the Torah, though whether Matthew consciously intended this parallel or whether it is a modern observation read back onto the text is debated.
 
@@ -100,7 +100,7 @@ The text does mention "Matthew" (Μαθθαῖος) at 9:9 (the call of a tax co
 ### B2. Traditional attribution
 **[LATER RECEPTION — DOCUMENTED]**
 
-The attribution of this Gospel to Matthew (identified with the apostle and tax collector) derives primarily from **Papias of Hierapolis** (c. 60–130 CE), as quoted by Eusebius (*Historia Ecclesiastica* 3.39.16): "Matthew arranged the sayings (*logia*) in the Hebrew dialect (*Hebraidi dialektÅ*), and each person interpreted them as he was able."
+The attribution of this Gospel to Matthew (identified with the apostle and tax collector) derives primarily from **Papias of Hierapolis** (c. 60–130 CE), as quoted by Eusebius (*Historia Ecclesiastica* 3.39.16): "Matthew arranged the sayings (*logia*) in the Hebrew dialect (*Hebraidi dialektō*), and each person interpreted them as he was able."
 
 This testimony has generated extensive debate:
 - Does *logia* mean "sayings" (a sayings collection), "oracles" (OT proof-texts), or "Gospel" (the full narrative)?
@@ -123,7 +123,7 @@ Most contemporary scholars doubt that the apostle Matthew wrote the Gospel in it
 
 The author was likely a Greek-speaking Jewish Christian with strong scribal training, deep knowledge of the Hebrew Scriptures (in both Hebrew and LXX — the ancient Greek translation — forms), and access to Mark's Gospel and additional tradition (Q or equivalent).
 
-**Source:** Stendahl, *The School of St. Matthew* (1954); Luz, *Matthew* (Hermeneia), I.47â54; Hagner, *Matthew* (WBC, 1993â1995), I.lxxiii–lxxv.
+**Source:** Stendahl, *The School of St. Matthew* (1954); Luz, *Matthew* (Hermeneia), I.47–54; Hagner, *Matthew* (WBC, 1993–1995), I.lxxiii–lxxv.
 
 ---
 
@@ -174,12 +174,12 @@ This remains a hypothesis — the Gospel does not name its place of composition,
 
 Matthew presupposes a readership with deep familiarity with Jewish Scripture and practice:
 
-- The genealogy (1:1–17) structures Yeshua (Jesus)'s lineage through Avraham (Abraham) and David â figures whose significance requires no explanation.
+- The genealogy (1:1–17) structures Yeshua (Jesus)'s lineage through Avraham (Abraham) and David — figures whose significance requires no explanation.
 - Fulfillment citations assume readers will recognize the OT passages and care about their realization.
 - Jewish customs are mentioned without explanation (contrast Mark 7:3–4, which explains Pharisaic hand-washing for a presumably Gentile audience).
 - The debate about Torah observance (5:17–20; 23:2–3) presupposes an audience for whom Torah authority is axiomatic, not foreign.
 
-At the same time, the Great Commission (28:19–20) directs the mission "to all the nations" (*panta ta ethnÄ*), and the Gospel includes passages affirming Gentile inclusion (8:11–12; 15:21–28; 21:43). The community is Jewish but not exclusivist.
+At the same time, the Great Commission (28:19–20) directs the mission "to all the nations" (*panta ta ethnē*), and the Gospel includes passages affirming Gentile inclusion (8:11–12; 15:21–28; 21:43). The community is Jewish but not exclusivist.
 
 ---
 
@@ -192,10 +192,10 @@ The Greek text of the Gospel of Matthew was transmitted through the same manuscr
 
 - Composition (c. 80–90 CE)
 - Early copies (2nd--3rd century CE):
-  - P1 (3rd c.) â Matt 1:1–9, 12, 14–20
+  - P1 (3rd c.) — Matt 1:1–9, 12, 14–20
   - P45 (3rd c.) — portions of all four Gospels + Acts
   - P64+67 (late 2nd c.) — Matt 3, 5, 26
-  - P104 (2nd c.) â Matt 21:34–37, 43, 45
+  - P104 (2nd c.) — Matt 21:34–37, 43, 45
 - Major codices (4th--5th century CE):
   - Codex Sinaiticus (א, 4th c.)
   - Codex Vaticanus (B, 4th c.)
@@ -225,10 +225,17 @@ The Greek text of the Gospel of Matthew was transmitted through the same manuscr
 
 The Gospel of Matthew does not have a textual disruption comparable to John's Pericope Adulterae (John 7:53–8:11) or Mark's longer ending (Mark 16:9–20). The text is relatively stable across the manuscript tradition. Notable variants include:
 
-- **Matt 1:16:** Some Old Syriac manuscripts read "Joseph, to whom was betrothed Mary the virgin, begot Jesus" â a reading that conflicts with the virgin birth narrative in 1:18–25. The standard Greek text reads "Joseph the husband of Mary, from whom was born Jesus."
-- **Matt 27:16–17:** Some manuscripts give the name of the released prisoner as "Jesus Barabbas" (á¼¸Î·ÏÎ¿á¿¦Î½ ÎÎ±ÏÎ±Î²Î²á¾¶Î½), which Origen noted. Whether "Jesus" is original (accidentally dropped due to the sacred name) or a scribal addition is debated.
+- **Matt 1:16:** Some Old Syriac manuscripts read "Joseph, to whom was betrothed Mary the virgin, begot Jesus" — a reading that conflicts with the virgin birth narrative in 1:18–25. The standard Greek text reads "Joseph the husband of Mary, from whom was born Jesus."
+- **Matt 27:16–17:** Some manuscripts give the name of the released prisoner as "Jesus Barabbas" (Ἰησοῦν Βαραββᾶν), which Origen noted. Whether "Jesus" is original (accidentally dropped due to the sacred name) or a scribal addition is debated.
 
 **Source:** Metzger, *A Textual Commentary on the Greek New Testament* (2nd ed., 1994), 1–56.
+
+### E4. Comparative transmission interval
+**[HISTORICAL / ARCHAEOLOGICAL — VERIFIED]**
+
+The interval between the composition of the Gospel of Matthew (c. 70–90 CE) and the earliest surviving manuscript witnesses (P64 + P67, late 2nd c. for Matt 3, 5, 26; P104, late 2nd c. for Matt 21; P45, mid-3rd c. for the four-Gospel collection) is, by the standards of ancient historiography, relatively short. For comparison: Arrian's *Anabasis of Alexander*, the most comprehensive surviving biography of Alexander the Great (d. 323 BCE), was composed c. 130–135 CE — a gap of approximately 450 years between subject and biography. Tacitus's *Annales*, covering events from 14 CE onward, was composed c. 116 CE — a gap of approximately 80–100 years between events and narrative. The NT's transmission interval sits at the shorter end of the range typical for ancient narrative literature about historical figures. **This does not bear on the historical accuracy of the Gospel's contents; it bears only on the textual-transmission gap between composition and first surviving witness.** The same data is sometimes deployed apologetically — that is not the TT's frame: the comparison is descriptive, not evidential.
+
+**Source:** Metzger, *A Textual Commentary on the Greek New Testament* (2nd ed., 1994); Arrian, *Anabasis of Alexander*, Preface; cf. Bosworth, *A Historical Commentary on Arrian's History of Alexander*, OUP, vols. I (1980) + II (1995); Tacitus, *Annales*; cf. Goodyear, *The Annals of Tacitus*, Cambridge, vols. I (1972) + II (1981).
 
 ---
 
@@ -264,13 +271,13 @@ Per the TT's transliteration policy, key proper names in Matthew are rendered fr
 ### F3. Old Testament quotations — the fulfillment formula
 **[TEXTUAL — VERIFIED]**
 
-Matthew contains more than 60 quotations from or allusions to the Hebrew Bible â more than any other Gospel. A distinctive feature is the "fulfillment formula" (Reflexionszitat): "This happened so that what was spoken through the prophet might be fulfilled" (á¼µÎ½Î±/á½ÏÏÏ ÏÎ»Î·ÏÏÎ¸á¿ Ïá½¸ á¿¥Î·Î¸á½²Î½ Î´Î¹á½° ÏÎ¿á¿¦ ÏÏÎ¿ÏÎ®ÏÎ¿Ï). This formula occurs approximately 10–14 times (depending on counting criteria), often introducing quotations that do not appear in the Markan parallels.
+Matthew contains more than 60 quotations from or allusions to the Hebrew Bible — more than any other Gospel. A distinctive feature is the "fulfillment formula" (Reflexionszitat): "This happened so that what was spoken through the prophet might be fulfilled" (ἵνα/ὅπως πληρωθῇ τὸ ῥηθὲν διὰ τοῦ προφήτου). This formula occurs approximately 10–14 times (depending on counting criteria), often introducing quotations that do not appear in the Markan parallels.
 
 Key fulfillment citations in the birth narrative and early chapters:
 
 | Passage | OT Source | Content |
 |---------|-----------|---------|
-| 1:22–23 | Isa 7:14 | "The *parthenos* will conceive" â see F4 below |
+| 1:22–23 | Isa 7:14 | "The *parthenos* will conceive" — see F4 below |
 | 2:5–6 | Mic 5:2 (+ 2 Sam 5:2) | Bethlehem as birthplace |
 | 2:15 | Hos 11:1 | "Out of Egypt I called my son" |
 | 2:17–18 | Jer 31:15 | Rachel weeping for her children |
@@ -294,7 +301,7 @@ This is a translation decision, not a theological position. The TT documents the
 ### F5. Kyrios — Divine Name Policy in Matthew
 **[TEXTUAL — VERIFIED]**
 
-When Matthew quotes Hebrew Bible passages containing the Tetragrammaton (YHWH), the Greek text uses κύριος (*kyrios*). Per the TT's Divine Name Policy (Option C, RULES-GS.md):
+When Matthew quotes Hebrew Bible passages containing the Tetragrammaton (the four-letter Hebrew divine name יהוה, transliterated YHWH), the Greek text uses κύριος (*kyrios*). Per the TT's Divine Name Policy (Option C, RULES-GS.md):
 
 - The main text renders *kyrios* as "the Lord" in OT quotation contexts.
 - A note identifies the OT source and states that the underlying Hebrew has the Tetragrammaton.
@@ -335,6 +342,8 @@ This is particularly relevant in Matthew given the high density of OT quotations
 | Meier, J. P. "Antioch," in Brown and Meier, *Antioch and Rome* (1983) | Setting | D |
 | Sim, D. C. *The Gospel of Matthew and Christian Judaism* (1998) | Setting | D |
 | Metzger, B. M. *A Textual Commentary on the Greek New Testament* (2nd ed., 1994) | Text criticism | E |
+| Arrian. *Anabasis of Alexander*. Preface (c. 130–135 CE); cf. Bosworth, A. B. *A Historical Commentary on Arrian's History of Alexander*, OUP, vols. I (1980) + II (1995) | Ancient-history comparator | E |
+| Tacitus. *Annales*. Loeb Classical Library ed.; cf. Goodyear, F. R. D. *The Annals of Tacitus*, Cambridge, vols. I (1972) + II (1981) | Ancient-history comparator | E |
 
 ---
 
