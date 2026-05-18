@@ -4,20 +4,20 @@
 
 The Transparent Translation (TT) — a multilingual Bible translation project with a web application for reading, studying, and exploring contextual enrichment. The translation currently covers Genesis 1–12, John 1–3, and Matthew 1–3 in English, Brazilian Portuguese, German, and Spanish, governed by a 29-rule system (v3.3) that prioritizes source-text fidelity, ambiguity preservation, and theological restraint.
 
-## Verified state (2026-05-14)
+## Verified state (2026-05-18)
 
-- **Tests:** 816 passing across 7 files (chapter parser 576, enrichment 117, prophecy 28, people 51, introduction 17, render-markdown-safe 12, book-context 15).
+- **Tests:** 819 passing across 8 files (chapter parser 576, enrichment 117, people 53, prophecy 28, introduction 17, book-context 15, render-markdown-safe 12, book-context-real 1).
 - **Rules:** RULES-CORE at v3.3 (added §Punctuation Governance, §Idiom Policy, §Glossary Expansion Procedure, formalized §Editorial Log Specification, added John 1:1c worked quadrilingual example). RULES-HB at **v3.3.1** (2026-05-18 emergency amendment — DE name-rendering clarification appended to §PROPER-NAME TABLE notes; proposal at `docs/rules/proposals/v3.3.1-emergency-DE-name-rendering-clarification.md`). RULES-GS unchanged at v3.2 lock.
 - **Content scope verified:** Genesis 1–12 + INTRODUCTION + PEOPLE in all four locales; John 1–3 + INTRODUCTION + PEOPLE in all four locales; Matthew 1–3 + INTRODUCTION + PEOPLE in all four locales.
 - **Editorial logs:** `genesis.md` (Entry 2026-05-15-104), `john.md` (J-024), `matthew.md` (M-021), `transliteration-decisions.md` — all present. Phase 10 added john.md J-021 (John PEOPLE.md across 4 locales). Post-Phase-10 audit cleanup added matthew.md M-019 (DE/ES matthew Yochanan heading + DE `keyEvents` parser alias). Phase 8 added genesis.md 2026-05-14-103 + john.md J-022 + matthew.md M-020 (Section I coverage — 44 cross-reference quote-blocks + 8 narrative-specific entries × 4 locales = 32 entries). Post-Phase-8 small-wins bundle added john.md J-023 (1,128 ES diacritic replacements). **Phase 9 added genesis.md 2026-05-15-104 (anchor entry — Book Context page; 12 CONTEXT.md files; 20 motifs × 4 locales = 80 motif entries; new domain type + parser + UI + page replacement; +15 parser tests, baseline 801→816) + john.md J-024 + matthew.md M-021 (sister entries).**
 - **Execution status:** Phases 0–6.6 closed 2026-05-09; Phase 7 closed 2026-05-13; Phase 11 (Option C) closed 2026-05-13; Phase 11.5 closed 2026-05-13; Phase 10 closed 2026-05-14; Phase 8 closed 2026-05-14 (`docs/audit/archive/PHASE_8_PLAN.md` executed under Interpretation A + Option A Maximal; `docs/audit/archive/PHASE_8_DIAGNOSTIC.md` + `docs/audit/archive/PHASE_8_TRIAGE.md` produced; 44 cross-reference quote-blocks added to Gen 2–12 × 4 locales bringing OT into structural parity with NT chapters; 8 narrative-specific (i) entries × 4 locales = 32 new I-A entries across gen/4, gen/9 ×2, gen/10, gen/11, gen/12, john/2, matt/3). Phase 5.5 landed Ruleset v3.3. Phase 6A re-verified the 9 NOT VERIFIED audit items. Phase 6B piloted the Rule 29 §734 Tier 2 Relocation Protocol on Genesis 9. Phase 6.6 (post-Phase-6 UX + content polish) landed across 9 sub-phases: 6.6A (numeric-range en-dash sweep across all 4 locales × 3 books); 6.6B (people-parser auto-extracts familiar name from heading + 4 new tests); 6.6C (introduction-view disclaimer in collapsed `<details>` "Reading note"); 6.6D (person-card biographical-fields reorder + birthYear/deathYear Field rows); 6.6E (HTML-native single-expand accordion via `name` attribute); 6.6F (chapter-view breadcrumb to book landing); 6.6G (Matthew 5 NT figures × 4 locales — explicit birthYear/deathYear/lifespan + numeric-anchor convention + Herod claim-type correction); 6.6H (women timeline audit — Eve/Sarai Option-1 + Bat-Sheva intentional absence documented); 6.6I (dead-code/content audit — 12 categories scanned, 0 actionable removals; all candidates KEEP-with-reason as forward-API or dynamic-reference). All blocking content-lint rules pass. Phase 9 closed 2026-05-15 (`docs/audit/archive/PHASE_9_PLAN.md` executed; `PHASE_9_MOTIF_CANDIDATES.md` step 9.1 diagnostic + step 9.2 finalized list; new `BookContextData` domain type + `book-context-parser.ts` + `book-context-view.tsx`; placeholder route replaced; 20 motifs × 4 locales = 80 motif entries authored at Q1 Medium depth; §0.10 lint extended to cover CONTEXT.md). **Possible-Content Bundle (Topics 2/5/10 from `docs/feedback/possible-content.md`) closed 2026-05-16** (`docs/audit/POSSIBLE_CONTENT_BUNDLE_PLAN.md` executed under Q1=B/Q2=B+SPECULATIVE/Q3=B/Q4=accepted/Q5=B; v1 + v2 audits absorbed pre-execution; three content additions × 4 locales each — Iakobos see-only PEOPLE.md stub, *et*/alef-tav §F5 SPECULATIVE catalogue, comparative-transmission §E5/§E4 with Rule-3 anti-apologetic safeguards; four editorial-log entries appended: M-022 + M-023 + J-025 + `2026-05-16-105`; ES Matthew mojibake side-finding logged to PENDING.md). **DE familiar-names sweep (FEEDBACK item 35) closed 2026-05-18** (`docs/audit/DE_FAMILIAR_NAMES_PLAN.md` executed under Q1=Hybrid/Q2=All DE chapter files/Q3=Emergency-amendment pathway; v1 audit absorbed pre-execution including 3 critical blockers; 259 redundant-parens occurrences swept across 17 DE chapter files + 1 study file; RULES-HB.md amended via v3.3.1 emergency amendment with proposal artifact; three editorial-log entries appended: genesis.md `2026-05-18-107` anchor + john.md J-026 + matthew.md M-025). **Tier 2 note bloat propagation (FEEDBACK item 19) closed 2026-05-18** (`docs/audit/TIER_2_NOTE_BLOAT_PLAN.md` executed under Q1=By book/Q2=Pilot-scope/Q3=Per-chapter all-locales/Q4=Pointer+expansion/Q5=Per-book anchor/Q6=Project-lead commits; v1 audit absorbed pre-execution; three sub-sweeps in one workflow — Genesis 6 relocations × 4 = 22 edits + John 2 × 4 = 8 + Matthew 1 EN-only + 1 × 4 = 5; total 35 edits across 14 chapter files; strict §734 review reduced heuristic 64 RELOCATE candidates → 10 real relocations (15.6%) showing book-specific pilot rates vary widely from Gen-9's 43%; three editorial-log entries appended: genesis.md `2026-05-18-108` anchor + john.md J-027 + matthew.md M-026). **Phase 13 — Cross-Book Canonical PEOPLE formalization closed 2026-05-18** (`docs/audit/PHASE_13_PLAN.md` executed under Q1=A allow-list + warn-only §0.12 lint / Q2=A v3.3.2 emergency amendment / Q3=A mention transitions in parent authoring entry / Q4=C DEFER README to separate phase / Q5=A add CLAUDE.md paragraph; audit v1 absorbed pre-execution with 1 critical + 2 significant + 4 minor findings + 1 documented partial dissent; RULES-CORE.md Rule 29 §People and Genealogy Files extended with cross-book canonical-entry convention + 5-change new-book activation checklist; new warn-only §0.12 content-lint rule validates pointer slugs against 7-item allow-list; genesis.md Entry `2026-05-18-109` anchor). Phase 12 remains.
-- **FEEDBACK status (2026-05-14):** 24 RESOLVED / 2 PARTIAL (8 PT-BR archaic register; 19 Tier 2 note bloat pilot complete + propagation deferred) / 12 NOT VERIFIED / 0 STILL OPEN of 38 prior-audit items. Item 33 (John PEOPLE.md governance) now RESOLVED via Phase 10.
+- **FEEDBACK status (2026-05-18):** 24 RESOLVED / 2 PARTIAL (8 PT-BR archaic register; 19 Tier 2 note bloat — pilot + propagation both complete, but 17 chapters intentionally out-of-pilot-scope per `docs/audit/TIER_2_NOTE_BLOAT_PLAN.md`) / 12 NOT VERIFIED / 0 STILL OPEN actionable of 38 prior-audit items. Item 33 (John PEOPLE.md governance) RESOLVED via Phase 10; item 35 (DE familiar-names) RESOLVED via v3.3.1 sweep.
 - **Known open items** (see `docs/audit/{PENDING,FIX_IMPLEMENTATION}.md` and `docs/feedback/{FEEDBACK,DEFERRED_TASKS}.md` for full detail):
   - ~~John PEOPLE.md not authored in any locale~~ — RESOLVED 2026-05-14 via Phase 10 (`docs/audit/archive/PHASE_10_PLAN.md`).
   - ~~Readability sweep partial~~ — RESOLVED 2026-05-13 via Phase 7 (`docs/audit/archive/PHASE_7_PLAN.md`).
   - ~~Section I 10-category coverage audit per chapter~~ — RESOLVED 2026-05-14 via Phase 8 (`docs/audit/archive/PHASE_8_PLAN.md`).
   - ~~Book Context page content cycle (Phase 9)~~ — RESOLVED 2026-05-15 via Phase 9 (`docs/audit/archive/PHASE_9_PLAN.md`).
-  - Tier 2 note bloat propagation: 17 chapters remain after Genesis 9 pilot (~25h estimated).
+  - ~~Tier 2 note bloat propagation~~ — RESOLVED 2026-05-18 via `docs/audit/TIER_2_NOTE_BLOAT_PLAN.md` (Genesis 6 + John 2 + Matthew 1 sub-sweeps; 35 edits; strict §734 review reduced 64 heuristic candidates → 10 real relocations; residual borderline 4-sentence lexical notes deferred to Phase 7 readability prose-economy pass).
   - ~~John/Matthew prophecy material decision~~ — RESOLVED 2026-05-13 via Phase 11 Option C (`docs/audit/archive/PHASE_11_PLAN.md`).
   - Genesis 13–50 not yet authored (Phase 12).
   - ~~13 prior-audit items still NOT VERIFIED~~ — RESOLVED 2026-05-17 via dedicated re-audit pass: 7 → RESOLVED (16, 24, 25, 29, 30, 31, 32 — most via v3.3 cascade); 3 → PARTIAL with documented mitigation (20 John 3:16-21 speech-boundary; 27 Section H Type-tag taxonomy; 28 AI/editorial provenance compliance ratio); 1 → legitimately DEFERRED (15, Matt 4+ not authored); 1 → STILL OPEN actionable (35 DE Matthew familiar-names redundant-parens, ~2–3h sweep, tracked in PENDING.md). See `docs/feedback/FEEDBACK.md` §5 statistical summary. Item 19 (Tier 2 note bloat) remains PARTIAL with pilot complete (separate item; 17-chapter propagation ~25h).
@@ -47,9 +47,9 @@ bible-tt/
 │   └── templates/           # Companion file template + book introduction template
 ├── src/                     # Next.js web application
 │   ├── app/                 # App Router pages
-│   │   └── [locale]/[book]/ # Book landing, chapter/, people/, context/ sub-pages
+│   │   └── [locale]/[book]/ # Book landing, chapter/, introduction/, people/, context/ sub-pages
 │   ├── domain/              # Pure domain types (no framework deps)
-│   ├── infrastructure/      # Adapters (markdown parser, enrichment parser, people parser, i18n)
+│   ├── infrastructure/      # Adapters (5 parser files: markdown, enrichment, people, prophecy, book-context; i18n; fs-content-repository)
 │   ├── ui/                  # Presentation (reading/, study/, enrichment/, people/, navigation/, shared/)
 │   ├── hooks/               # React hooks
 │   └── lib/                 # Utilities and content loader
@@ -64,7 +64,7 @@ bible-tt/
 | `/{locale}/{book}/introduction` | Full book introduction — Authorship, Dating, Manuscript Transmission, Reading-in-TT, Sources |
 | `/{locale}/{book}/chapter/{n}` | Chapter with 5 view modes |
 | `/{locale}/{book}/people` | People & Genealogy — expanded profiles + SVG timeline |
-| `/{locale}/{book}/context` | Book-level context (placeholder — future content) |
+| `/{locale}/{book}/context` | Book-level context — cross-chapter motifs (authored Phase 9: 20 motifs × 4 locales per book at Q1 Medium depth) |
 
 Old URLs (`/{locale}/{book}/{n}`) redirect automatically to the new `/chapter/{n}` pattern.
 
@@ -72,7 +72,7 @@ Old URLs (`/{locale}/{book}/{n}`) redirect automatically to the new `/chapter/{n
 
 - `pnpm dev` — start dev server with Turbopack (http://localhost:3000)
 - `pnpm build` — production build
-- `pnpm test` — run all unit tests (792 tests: chapter parser, enrichment parser, people parser, prophecy parser, introduction parser, render-markdown-safe)
+- `pnpm test` — run all unit tests (819 tests across 8 files: chapter parser, enrichment parser, people parser, prophecy parser, introduction parser, book-context parser, book-context-real, render-markdown-safe)
 - `pnpm lint` — run Biome linter
 - `pnpm content:lint` — run hardened content lint (Phase 0 — see `docs/audit/FIX_IMPLEMENTATION.md`); allow-list at `scripts/lint-allowlist.txt`
 - `pnpm content:lint:warn` — same lint in non-blocking mode (warns only, exit 0)
@@ -83,12 +83,11 @@ Governed by `docs/architecture/STANDARDS.md`. Key decisions:
 
 - **Static-first:** Authored markdown parsed at build time. No database. No API. Pages served from CDN.
 - **DDD layers:** `domain/` (pure types) → `infrastructure/` (adapters) → `ui/` (components) → `app/` (routing). Domain knows nothing about Next.js.
-- **Content pipeline:** Six parsers in `src/infrastructure/content/`:
+- **Content pipeline:** 5 parser files in `src/infrastructure/content/` exporting 6 parse functions:
   - `markdown-parser.ts` — chapter files → `ChapterData` (verses, notes, glossary, cross-chapter tracking)
-  - `enrichment-parser.ts` — companion files → `EnrichmentData` (sections A–I with claim-type + confidence labels)
+  - `enrichment-parser.ts` — companion files → `EnrichmentData` (sections A–I with claim-type + confidence labels). Also hosts `parseIntroductionMarkdown` → `IntroductionData` (book-level intros) — no standalone `introduction-parser.ts` file.
   - `people-parser.ts` — PEOPLE.md files → `PeopleData` (biographical entries with timeline data)
   - `prophecy-parser.ts` — prophecy files → `ProphecyData` (fulfillment tracking)
-  - `introduction-parser.ts` — INTRODUCTION.md files → `IntroductionData` (book-level intros)
   - `book-context-parser.ts` — CONTEXT.md files → `BookContextData` (cross-chapter motifs, Phase 9)
 - **Cross-book PEOPLE pattern (RULES-CORE.md Rule 29 §People and Genealogy Files, v3.3.2):** when a person appears in multiple books, a single canonical entry lives in one book's PEOPLE.md (the "canonical home"); other books use a **see-only stub** with `**See:** {book}/PEOPLE.md` + `**In <Current Book>:** [narrative role]`. The parser, UI (`CrossBookSeeField` in `person-card.tsx`), and `bookLabels` map handle this with a graceful dangling-pointer fallback for forward references to unauthored books. See RULES-CORE.md for the 5-change new-book activation checklist (content + bookLabels + parser aliases + i18n key + lint allow-list) before adding any new book's PEOPLE.md.
 - **i18n:** URL-based locale routing (`/en/genesis/chapter/1`, `/pt-br/genesis/chapter/1`). Content translation in .md files; UI strings in `src/infrastructure/i18n/messages/`.
@@ -152,5 +151,5 @@ All decisions logged in `docs/editorial-log/` (genesis.md, john.md, matthew.md, 
 - Tailwind CSS v4 with OKLCH color tokens
 - next-intl for i18n
 - Lucide for icons (1.5px stroke)
-- Vitest for testing (792 tests)
+- Vitest for testing (819 tests across 8 files)
 - Biome for linting

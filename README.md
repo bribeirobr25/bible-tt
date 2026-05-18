@@ -65,7 +65,7 @@ Dedicated sub-page per book (`/{locale}/{book}/people`) with:
 - SVG timeline infographic showing lifespans and overlaps (Masoretic Text chronology for OT; historical dates for NT)
 - Character arcs and key speeches
 
-Currently authored for **Genesis** and **Matthew** in all four locales. The John PEOPLE.md is not yet authored — see `docs/audit/PENDING.md`.
+Currently authored for **Genesis**, **John**, and **Matthew** in all four locales. Cross-book canonical-entry convention (RULES-CORE.md Rule 29 §People and Genealogy Files, v3.3.2): when a person appears in multiple books, a single canonical entry lives in one book's PEOPLE.md and other books use a see-only stub (`**See:** {book}/PEOPLE.md` + `**In <Book>:** [role]`). The UI renders see-only stubs with a clickable cross-book link and a graceful dangling-pointer fallback for forward references to unauthored books.
 
 ## Languages
 
@@ -118,11 +118,11 @@ All decisions logged in the editorial logs ([genesis.md](docs/editorial-log/gene
 | Typography | Newsreader serif + Geist sans + Geist Mono |
 | Icons | Lucide (1.5px stroke) |
 | i18n | next-intl (URL-based routing) |
-| Content | Markdown parsed at build time (4 parsers) |
-| Testing | Vitest (796 tests across 6 files) |
+| Content | Markdown parsed at build time (5 parser files; 6 parse functions) |
+| Testing | Vitest (819 tests across 8 files) |
 | Linting | Biome |
 
-> **Project state (2026-05-09):** Genesis 1–12, John 1–3, Matthew 1–3 in EN/PT-BR/DE/ES. Content carries `provisional` status pending reviewer sign-off (Rule 28). The 2026-05-08–09 audit cycle (Phases 0–6 in `docs/audit/FIX_IMPLEMENTATION.md`) closed governance gaps — version-stamp drift, ES NT diacritics + Reina-Valera, PT-BR Almeida Option B, PT-BR + ES `monogenēs`, em-dash sweep, Biome migration, Book Introduction split, Ruleset v3.3 amendments, *charis* cross-locale slash compliance, cross-locale verse-text title capitalization (Rule 20 strict reading), and a Genesis 9 Rule 29 §734 Tier 2 Relocation Protocol pilot. Of 38 prior-audit issues, 23 are RESOLVED, 3 PARTIAL, 12 NOT VERIFIED, 0 STILL OPEN. Remaining work — John PEOPLE.md authoring, readability sweep on John/Matthew companions, Section I 10-category audit, Book Context page content cycle, Tier 2 propagation to remaining 17 chapters, prophecy decision, Genesis 13–50 — is tracked in `docs/audit/PENDING.md` and `docs/feedback/`.
+> **Project state (2026-05-18):** Genesis 1–12, John 1–3, Matthew 1–3 in EN/PT-BR/DE/ES, with INTRODUCTION + PEOPLE + Book Context per book and study companions per chapter. Content carries `provisional` status pending reviewer sign-off (Rule 28). Multi-phase governance + content audit closed across 2026-05-08 through 2026-05-18: Ruleset v3.3 amendments (§Punctuation Governance, §Idiom Policy, §Glossary Expansion, formalized Editorial Log Specification, John 1:1c worked example); Phase 7 readability sweep on John/Matthew companions; Phase 8 Section I 10-category coverage parity (44 cross-reference quote-blocks + 8 narrative-specific entries × 4 locales); Phase 9 Book Context cycle (20 motifs × 4 locales + new `BookContextData` domain type + parser + page); Phase 10 John PEOPLE.md authoring (11 entries × 4 locales); Phase 11 Option C prophecy authoring (3 chapters × 4 locales); v3.3.1 emergency amendment + DE familiar-names sweep (259 redundant-parens occurrences corrected); Tier 2 note bloat propagation pilot (35 edits across Genesis 6 + John 2 + Matthew 1); Phase 13 cross-book PEOPLE formalization via v3.3.2 emergency amendment (markdown convention + locale-translation table + 7-slug allow-list + 5-change new-book activation checklist + warn-only §0.12 content-lint rule). Of 38 prior-audit issues, 24 are RESOLVED, 2 PARTIAL, 12 NOT VERIFIED, 0 STILL OPEN actionable. Largest remaining piece: Genesis 13–50 authoring (Phase 12). Full ledger in `docs/audit/PENDING.md` and `docs/feedback/`.
 
 ## Project structure
 
@@ -141,10 +141,10 @@ bible-tt/
 │   ├── feedback/            # Consolidated audit record + future work
 │   └── templates/           # Companion and introduction templates
 ├── src/
-│   ├── domain/              # Pure types (Chapter, Verse, Note, Enrichment, Person, Prophecy)
-│   ├── infrastructure/      # 4 parsers + i18n config
+│   ├── domain/              # Pure types (Chapter, Verse, Note, Enrichment, Introduction, Person, Prophecy, BookContext)
+│   ├── infrastructure/      # 5 parser files (markdown, enrichment, people, prophecy, book-context) + i18n config
 │   ├── ui/                  # Components (reading, study, enrichment, people, navigation, shared)
-│   └── app/                 # Next.js pages ([locale]/[book]/chapter/[chapter], people, context)
+│   └── app/                 # Next.js pages ([locale]/[book]/{chapter, introduction, people, context})
 └── public/                  # Static assets
 ```
 
