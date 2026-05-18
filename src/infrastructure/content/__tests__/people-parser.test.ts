@@ -1,6 +1,6 @@
 import * as fs from "node:fs";
 import * as path from "node:path";
-import { describe, expect, it } from "vitest";
+import { describe, expect, it, vi } from "vitest";
 import { parsePeopleMarkdown } from "../people-parser";
 
 const CONTENT_ROOT = path.join(process.cwd(), "content");
@@ -466,6 +466,30 @@ describe("people-parser", () => {
       const r = parsePeopleMarkdown(md, "genesis");
       expect(r.entries[0].name).toBe("Avraham");
       expect(r.entries[0].familiarName).toBe("Abraham (the father of nations)");
+    });
+  });
+
+  describe("duplicate-slug detection (parser hardening)", () => {
+    it("emits console.warn when two entries share the same slug", () => {
+      const md = `## Ya'aqov (Jacob)\n\n**First mention:** Gn 25:26\n**Mentioned in:** Gn 25–50\n\n## Ya'aqov (James)\n\n**First mention:** Mt 13:55\n**Mentioned in:** Mt 13:55\n`;
+      const warnSpy = vi.spyOn(console, "warn").mockImplementation(() => {});
+      const r = parsePeopleMarkdown(md, "matthew");
+      expect(r.entries).toHaveLength(2);
+      expect(warnSpy).toHaveBeenCalledWith(
+        expect.stringContaining('Duplicate slug "ya\'aqov"'),
+      );
+      warnSpy.mockRestore();
+    });
+
+    it("does NOT warn when two homonymous source-names use different transliterations (the documented mitigation)", () => {
+      const md = `## Ya'aqov (Jacob)\n\n**First mention:** Gn 25:26\n**Mentioned in:** Gn 25–50\n\n## Iakobos (James)\n\n**See:** acts/PEOPLE.md\n**In Matthew:** Named at Matt 13:55.\n`;
+      const warnSpy = vi.spyOn(console, "warn").mockImplementation(() => {});
+      const r = parsePeopleMarkdown(md, "matthew");
+      expect(r.entries).toHaveLength(2);
+      expect(r.entries[0].slug).toBe("ya'aqov");
+      expect(r.entries[1].slug).toBe("iakobos");
+      expect(warnSpy).not.toHaveBeenCalled();
+      warnSpy.mockRestore();
     });
   });
 });

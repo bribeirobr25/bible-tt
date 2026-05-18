@@ -39,19 +39,19 @@
 - 🔵 **GRAMMATISCH** - Griechische Struktur, Verbaspekt, Syntax
 - 🟡 **THEOLOGISCH** - Interpretationsoptionen, Ambiguitätsbewahrung
 
-**Dieses Kapitel ist das am stärksten alttestamentlich geprägte Kapitel der Geburtserzählung.** Vier Erfüllungszitate („damit erfüllt werde, was gesprochen wurde") bestimmen die Erzählung: Micha 5,1 (Bethlehem (Bethlehem)), Hosea 11,1 (aus Ägypten (Ägypten)), Jeremia 31,15 (Rachel weint) und ein geheimnisvolles „Er wird ein Natsri genannt werden" ohne eindeutige alttestamentliche Quelle. Jedes Zitat verwendet kyrios Option C mit vermerkter alttestamentlicher JHWH-Verbindung. Eigennamen folgen der TT-Transliteration: Herodes (nicht Herodes der Große), Bethlehem, Ägypten, Nazareth (Nazareth).
+**Dieses Kapitel ist das am stärksten alttestamentlich geprägte Kapitel der Geburtserzählung.** Vier Erfüllungszitate („damit erfüllt werde, was gesprochen wurde") bestimmen die Erzählung: Micha 5,1 (Beyt-Lechem (Bethlehem)), Hosea 11,1 (aus Mitsrayim (Ägypten)), Jeremia 31,15 (Rachel weint) und ein geheimnisvolles „Er wird ein Natsri genannt werden" ohne eindeutige alttestamentliche Quelle. Jedes Zitat verwendet kyrios Option C mit vermerkter alttestamentlicher JHWH-Verbindung. Eigennamen folgen der TT-Transliteration: Herodes (Translit = Vertraut; ohne Epitheton, nicht „Herodes der Große"), Beyt-Lechem (Bethlehem), Mitsrayim (Ägypten), Natseret (Nazareth).
 
 ---
 
 ## KAPITELÜBERSICHT
 
-**Was geschieht:** *Magoi* (Weise/Sterndeuter) aus dem Osten kommen nach Jerusalem (Jerusalem) und fragen, wo der König der Yehudim geboren wurde, denn sie haben seinen Stern bei seinem Aufgang gesehen. Herodes, der König, wird beunruhigt und versammelt die Hohenpriester und Schriftgelehrten, die Bethlehem (Bethlehem) aus Micha 5,1 identifizieren. Herodes ruft die *Magoi* heimlich, erfährt die Zeit der Sternerscheinung und sendet sie nach Bethlehem. Der Stern führt sie zum Kind; sie bringen Gold, Weihrauch und Myrrhe dar und reisen dann auf anderem Weg ab, gewarnt im Traum. Ein Bote des Herrn erscheint Josef (Josef) im Traum: Fliehe nach Ägypten (Ägypten) mit dem Kind und seiner Mutter. Josef gehorcht. Der Erzähler zitiert Hosea 11,1: „Aus Ägypten rief ich meinen Sohn." Herodes, als er erkennt, dass die *Magoi* ihn überlistet haben, befiehlt die Tötung aller männlichen Kinder in Bethlehem und Umgebung, zwei Jahre und jünger. Der Erzähler zitiert Jeremia 31,15: Rachel weint über ihre Kinder. Nach dem Tod des Herodes erscheint wieder ein Bote im Traum: Kehre zurück ins Land Yisra'el. Josef kehrt zurück, aber aus Furcht vor Herodes' Sohn Archelaos in Juda (Juda) weicht er in den Galiläa (Galiläa) aus und lässt sich in Nazareth (Nazareth) nieder. Die letzte Formel des Erzählers: „damit erfüllt werde, was durch die Propheten geredet worden war: ‚Er wird ein Natsri genannt werden.'"
+**Was geschieht:** *Magoi* (Weise/Sterndeuter) aus dem Osten kommen nach Yerushalayim (Jerusalem) und fragen, wo der König der Yehudim geboren wurde, denn sie haben seinen Stern bei seinem Aufgang gesehen. Herodes, der König, wird beunruhigt und versammelt die Hohenpriester und Schriftgelehrten, die Beyt-Lechem (Bethlehem) aus Micha 5,1 identifizieren. Herodes ruft die *Magoi* heimlich, erfährt die Zeit der Sternerscheinung und sendet sie nach Bethlehem. Der Stern führt sie zum Kind; sie bringen Gold, Weihrauch und Myrrhe dar und reisen dann auf anderem Weg ab, gewarnt im Traum. Ein Bote des Herrn erscheint Yosef (Josef) im Traum: Fliehe nach Mitsrayim (Ägypten) mit dem Kind und seiner Mutter. Josef gehorcht. Der Erzähler zitiert Hosea 11,1: „Aus Ägypten rief ich meinen Sohn." Herodes, als er erkennt, dass die *Magoi* ihn überlistet haben, befiehlt die Tötung aller männlichen Kinder in Bethlehem und Umgebung, zwei Jahre und jünger. Der Erzähler zitiert Jeremia 31,15: Rachel weint über ihre Kinder. Nach dem Tod des Herodes erscheint wieder ein Bote im Traum: Kehre zurück ins Land Yisra'el. Josef kehrt zurück, aber aus Furcht vor Herodes' Sohn Archelaos in Yehudah (Juda) weicht er in den Galil (Galiläa) aus und lässt sich in Natseret (Nazareth) nieder. Die letzte Formel des Erzählers: „damit erfüllt werde, was durch die Propheten geredet worden war: ‚Er wird ein Natsri genannt werden.'"
 
 **Zentrale Themen:** Vier alttestamentliche Erfüllungsformeln als Strukturprinzip der Erzählung; die *Magoi* als heidnische Anbeter, die erkennen, was Jerusalem nicht erkennt; Herodes als bedrohter König (Mose/Pharao-Parallele); die Flucht nach und Rückkehr aus Ägypten (Exodus-Typologie); die geheimnisvolle „Natsri"-Bezeichnung ohne identifizierbare einzelne alttestamentliche Quelle; Josef als Träumer, der göttliche Weisung empfängt (vier Träume insgesamt: 1,20; 2,13; 2,19; 2,22).
 
 **Achten Sie auf:** Die *Magoi* werden nicht gezählt und nicht Könige genannt — „drei" stammt von den drei Gaben, nicht vom Text; das Verhalten des Sterns (er „ging vor ihnen her" und „blieb stehen" über dem Ort) wird ohne wissenschaftliche Erklärung erzählt; Herodes' Berechnung von „zwei Jahren und jünger" impliziert, dass der Stern einige Zeit vor Ankunft der *Magoi* erschien; das Hosea-11,1-Zitat bezieht sich in seinem ursprünglichen Kontext auf Israels Auszug aus Ägypten, nicht auf einen künftigen Messias — Matthäus liest es typologisch; das „Natsri"-Zitat nennt „die Propheten" (Plural), nicht einen einzelnen Propheten, und kein bekannter alttestamentlicher Vers stimmt genau überein.
 
-**Verbindung:** Die vier Träume Josefs setzen die Patriarch-Josef-Typologie aus Kapitel 1 fort. Die Flucht nach Ägypten und die Rückkehr rekapitulieren die Exodus-Erzählung. Die Erfüllungszitate etablieren Matthäus' Muster, Jesus (Jesus)' Leben als Wiederholung der Geschichte Israels zu lesen. Die *Magoi* aus dem Osten nehmen die spätere Bewegung des Evangeliums hin zur Einbeziehung der Heidenvölker vorweg.
+**Verbindung:** Die vier Träume Josefs setzen die Patriarch-Josef-Typologie aus Kapitel 1 fort. Die Flucht nach Ägypten und die Rückkehr rekapitulieren die Exodus-Erzählung. Die Erfüllungszitate etablieren Matthäus' Muster, Yeshua (Jesus)' Leben als Wiederholung der Geschichte Israels zu lesen. Die *Magoi* aus dem Osten nehmen die spätere Bewegung des Evangeliums hin zur Einbeziehung der Heidenvölker vorweg.
 
 ---
 
@@ -61,19 +61,19 @@
 
 ---
 
-¹*Nachdem* nun Jesus (Jesus) in Bethlehem (Bethlehem) in Juda (Juda) geboren war, in den Tagen des Herodes, des Königs, siehe, *Magoi* aus *dem* Osten kamen nach Jerusalem (Jerusalem), ²und sprachen: „Wo ist der geborene König der Yehudim? Denn wir sahen seinen Stern bei *seinem* Aufgang und kamen, um vor ihm niederzufallen." ³Und Herodes, der König, als er *das* hörte, wurde beunruhigt, und ganz Jerusalem mit ihm. ⁴Und er versammelte alle Hohenpriester und Schriftgelehrten des Volkes und erkundigte sich bei ihnen, wo der Gesalbte geboren werde. ⁵Und sie sprachen zu ihm: „In Bethlehem in Juda, denn so ist geschrieben worden durch den Propheten:
+¹*Nachdem* nun Yeshua (Jesus) in Beyt-Lechem (Bethlehem) in Yehudah (Juda) geboren war, in den Tagen des Herodes, des Königs, siehe, *Magoi* aus *dem* Osten kamen nach Yerushalayim (Jerusalem), ²und sprachen: „Wo ist der geborene König der Yehudim? Denn wir sahen seinen Stern bei *seinem* Aufgang und kamen, um vor ihm niederzufallen." ³Und Herodes, der König, als er *das* hörte, wurde beunruhigt, und ganz Jerusalem mit ihm. ⁴Und er versammelte alle Hohenpriester und Schriftgelehrten des Volkes und erkundigte sich bei ihnen, wo der Gesalbte geboren werde. ⁵Und sie sprachen zu ihm: „In Bethlehem in Juda, denn so ist geschrieben worden durch den Propheten:
 
 ⁶‚Und du, Bethlehem, Land Judas, bist keineswegs die geringste unter den Fürsten Judas; denn aus dir wird ein Herrscher hervorgehen, der mein Volk Yisra'el weiden wird.'"
 
-⁷Da rief Herodes die *Magoi* heimlich zu sich und erforschte von ihnen genau die Zeit des erscheinenden Sterns. ⁸Und er sandte sie nach Bethlehem und sprach: „Geht und forscht sorgfältig nach dem Kind, und wenn ihr *es* findet, berichtet mir, damit auch ich komme und vor ihm niederfalle." ⁹Und als sie den König gehört hatten, gingen sie, und siehe, der Stern, den sie bei *seinem* Aufgang gesehen hatten, ging vor ihnen her, bis er kam und *über dem Ort* stehen blieb, wo das Kind war. ¹⁰Und als sie den Stern sahen, freuten sie sich *mit* überaus großer Freude. ¹¹Und sie kamen in das Haus und sahen das Kind mit Maria (Maria), seiner Mutter, und sie fielen vor ihm nieder, und sie öffneten ihre Schätze und brachten ihm Gaben dar: Gold und Weihrauch und Myrrhe. ¹²Und im Traum gewarnt, nicht zu Herodes zurückzukehren, zogen sie auf einem anderen Weg ab in ihr Land.
+⁷Da rief Herodes die *Magoi* heimlich zu sich und erforschte von ihnen genau die Zeit des erscheinenden Sterns. ⁸Und er sandte sie nach Bethlehem und sprach: „Geht und forscht sorgfältig nach dem Kind, und wenn ihr *es* findet, berichtet mir, damit auch ich komme und vor ihm niederfalle." ⁹Und als sie den König gehört hatten, gingen sie, und siehe, der Stern, den sie bei *seinem* Aufgang gesehen hatten, ging vor ihnen her, bis er kam und *über dem Ort* stehen blieb, wo das Kind war. ¹⁰Und als sie den Stern sahen, freuten sie sich *mit* überaus großer Freude. ¹¹Und sie kamen in das Haus und sahen das Kind mit Miryam (Maria), seiner Mutter, und sie fielen vor ihm nieder, und sie öffneten ihre Schätze und brachten ihm Gaben dar: Gold und Weihrauch und Myrrhe. ¹²Und im Traum gewarnt, nicht zu Herodes zurückzukehren, zogen sie auf einem anderen Weg ab in ihr Land.
 
-¹³*Nachdem* sie nun abgezogen waren, siehe, ein Bote des Herrn erscheint Josef (Josef) im Traum und spricht: „Steh auf, nimm das Kind und seine Mutter, und flieh nach Ägypten (Ägypten), und sei dort, bis ich dir sage, denn Herodes ist im Begriff, das Kind zu suchen, um es zu vernichten." ¹⁴Und er stand auf *und* nahm das Kind und seine Mutter bei Nacht und zog fort nach Ägypten, ¹⁵und war dort bis zum Tod des Herodes, damit erfüllt werde, was vom Herrn durch den Propheten geredet worden war, der da sagt: „Aus Ägypten rief ich meinen Sohn."
+¹³*Nachdem* sie nun abgezogen waren, siehe, ein Bote des Herrn erscheint Yosef (Josef) im Traum und spricht: „Steh auf, nimm das Kind und seine Mutter, und flieh nach Mitsrayim (Ägypten), und sei dort, bis ich dir sage, denn Herodes ist im Begriff, das Kind zu suchen, um es zu vernichten." ¹⁴Und er stand auf *und* nahm das Kind und seine Mutter bei Nacht und zog fort nach Ägypten, ¹⁵und war dort bis zum Tod des Herodes, damit erfüllt werde, was vom Herrn durch den Propheten geredet worden war, der da sagt: „Aus Ägypten rief ich meinen Sohn."
 
 ¹⁶Da ließ Herodes, als er sah, dass er von den *Magoi* überlistet worden war, überaus zornig *werden*, und er sandte *hin* und tötete alle männlichen Kinder in Bethlehem und in seinem ganzen Gebiet, von zwei Jahren und darunter, nach der Zeit, die er von den *Magoi* genau erfragt hatte. ¹⁷Da wurde erfüllt, was durch den Propheten Yirmeyahu geredet worden war, der da sagt:
 
 ¹⁸„Eine Stimme in Ramah wurde gehört, Weinen und viel Wehklagen — Rachel weint über ihre Kinder, und sie wollte sich nicht trösten lassen, weil sie nicht mehr sind."
 
-¹⁹*Nachdem* nun Herodes gestorben war, siehe, ein Bote des Herrn erscheint im Traum dem Josef in Ägypten, ²⁰und spricht: „Steh auf, nimm das Kind und seine Mutter, und geh in das Land Yisra'el, denn die *dem* Kind *nach dem* Leben trachteten, sind gestorben." ²¹Und er stand auf *und* nahm das Kind und seine Mutter und kam in das Land Yisra'el. ²²Als er aber hörte, dass Archelaos über Juda herrsche an Stelle seines Vaters Herodes, fürchtete er sich, dorthin zu gehen, und im Traum gewarnt, zog er sich in die Gebiete des Galiläa (Galiläa) zurück. ²³Und er kam und ließ sich nieder in einer Stadt genannt Nazareth (Nazareth), damit erfüllt werde, was durch die Propheten geredet worden war: „Er wird ein Natsri genannt werden."
+¹⁹*Nachdem* nun Herodes gestorben war, siehe, ein Bote des Herrn erscheint im Traum dem Josef in Ägypten, ²⁰und spricht: „Steh auf, nimm das Kind und seine Mutter, und geh in das Land Yisra'el, denn die *dem* Kind *nach dem* Leben trachteten, sind gestorben." ²¹Und er stand auf *und* nahm das Kind und seine Mutter und kam in das Land Yisra'el. ²²Als er aber hörte, dass Archelaos über Juda herrsche an Stelle seines Vaters Herodes, fürchtete er sich, dorthin zu gehen, und im Traum gewarnt, zog er sich in die Gebiete des Galil (Galiläa) zurück. ²³Und er kam und ließ sich nieder in einer Stadt genannt Natseret (Nazareth), damit erfüllt werde, was durch die Propheten geredet worden war: „Er wird ein Natsri genannt werden."
 
 ---
 
@@ -81,7 +81,7 @@
 
 ### **Vers 1**
 
-*Nachdem* nun Jesus (Jesus) in Bethlehem (Bethlehem) in Juda (Juda) geboren war, in den Tagen des Herodes, des Königs, siehe, *Magoi* aus *dem* Osten kamen nach Jerusalem (Jerusalem),
+*Nachdem* nun Yeshua (Jesus) in Beyt-Lechem (Bethlehem) in Yehudah (Juda) geboren war, in den Tagen des Herodes, des Königs, siehe, *Magoi* aus *dem* Osten kamen nach Yerushalayim (Jerusalem),
 
 > **Notizen**
 >
@@ -209,7 +209,7 @@ Und als sie den Stern sahen, freuten sie sich *mit* überaus großer Freude.
 
 ### **Vers 11**
 
-Und sie kamen in das Haus und sahen das Kind mit Maria (Maria), seiner Mutter, und sie fielen vor ihm nieder, und sie öffneten ihre Schätze und brachten ihm Gaben dar: Gold und Weihrauch und Myrrhe.
+Und sie kamen in das Haus und sahen das Kind mit Miryam (Maria), seiner Mutter, und sie fielen vor ihm nieder, und sie öffneten ihre Schätze und brachten ihm Gaben dar: Gold und Weihrauch und Myrrhe.
 
 > **Notizen**
 >
@@ -237,7 +237,7 @@ Und im Traum gewarnt, nicht zu Herodes zurückzukehren, zogen sie auf einem ande
 
 ### **Vers 13**
 
-*Nachdem* sie nun abgezogen waren, siehe, ein Bote des Herrn erscheint Josef (Josef) im Traum und spricht: „Steh auf, nimm das Kind und seine Mutter, und flieh nach Ägypten (Ägypten), und sei dort, bis ich dir sage, denn Herodes ist im Begriff, das Kind zu suchen, um es zu vernichten."
+*Nachdem* sie nun abgezogen waren, siehe, ein Bote des Herrn erscheint Yosef (Josef) im Traum und spricht: „Steh auf, nimm das Kind und seine Mutter, und flieh nach Mitsrayim (Ägypten), und sei dort, bis ich dir sage, denn Herodes ist im Begriff, das Kind zu suchen, um es zu vernichten."
 
 > **Notizen**
 >
@@ -337,7 +337,7 @@ und spricht: „Steh auf, nimm das Kind und seine Mutter, und geh in das Land Yi
 > **Notizen**
 >
 > 🔴 **KRITISCH — EXODUS-4,19-ANKLANG**
-> - Der Wortlaut entspricht eng **Exodus 4,19** (LXX): „Geh, kehre zurück nach Ägypten, denn alle, die dir nach dem Leben trachteten, sind gestorben" — JHWHs Anweisung an Mose (Mose), nach Ägypten zurückzukehren. Matthäus kehrt die Richtung um (von Ägypten nach Yisra'el), bewahrt aber das sprachliche Muster. Die Mosetypologie setzt sich fort: Wie Mose gesagt wurde zurückzukehren, weil seine Verfolger gestorben waren, so wird Josef gesagt zurückzukehren, weil Herodes gestorben ist.
+> - Der Wortlaut entspricht eng **Exodus 4,19** (LXX): „Geh, kehre zurück nach Ägypten, denn alle, die dir nach dem Leben trachteten, sind gestorben" — JHWHs Anweisung an Mosheh (Mose), nach Ägypten zurückzukehren. Matthäus kehrt die Richtung um (von Ägypten nach Yisra'el), bewahrt aber das sprachliche Muster. Die Mosetypologie setzt sich fort: Wie Mose gesagt wurde zurückzukehren, weil seine Verfolger gestorben waren, so wird Josef gesagt zurückzukehren, weil Herodes gestorben ist.
 >
 > 🟢 **„DIE TRACHTETEN" — PLURAL**
 > - **οἱ ζητοῦντες** (*hoi zētountes*) = „die Trachtenden" (Plural), obwohl nur Herodes als Bedrohung genannt wurde. Der Plural könnte dem Wortlaut von Exodus 4,19 folgen oder andeuten, dass auch Herodes' Beauftragte gemeint sind.
@@ -357,7 +357,7 @@ Und er stand auf *und* nahm das Kind und seine Mutter und kam in das Land Yisra'
 
 ### **Vers 22**
 
-Als er aber hörte, dass Archelaos über Juda herrsche an Stelle seines Vaters Herodes, fürchtete er sich, dorthin zu gehen, und im Traum gewarnt, zog er sich in die Gebiete des Galiläa (Galiläa) zurück.
+Als er aber hörte, dass Archelaos über Juda herrsche an Stelle seines Vaters Herodes, fürchtete er sich, dorthin zu gehen, und im Traum gewarnt, zog er sich in die Gebiete des Galil (Galiläa) zurück.
 
 > **Notizen**
 >
@@ -371,7 +371,7 @@ Als er aber hörte, dass Archelaos über Juda herrsche an Stelle seines Vaters H
 
 ### **Vers 23**
 
-Und er kam und ließ sich nieder in einer Stadt genannt Nazareth (Nazareth), damit erfüllt werde, was durch die Propheten geredet worden war: „Er wird ein Natsri genannt werden."
+Und er kam und ließ sich nieder in einer Stadt genannt Natseret (Nazareth), damit erfüllt werde, was durch die Propheten geredet worden war: „Er wird ein Natsri genannt werden."
 
 > **Notizen**
 >

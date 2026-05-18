@@ -116,11 +116,17 @@ Surfaced 2026-05-17 during the Possible-Content Bundle visual-validation loop (M
 
 DE Matthew INTRODUCTION + PEOPLE.md confirmed byte-clean (no fix needed). PT-BR Matthew confirmed byte-clean (the earlier broad regex matched only legitimate Portuguese diacritics).
 
-### people-parser slug collision detection — DEFERRED (small parser improvement)
+### ~~DE Matthew familiar-names first-occurrence non-compliance~~ — RESOLVED 2026-05-18 (FEEDBACK item 35)
 
-The people-parser at `src/infrastructure/content/people-parser.ts` derives PersonEntry slugs via `name.toLowerCase().replace(/\s+/g, "-")` (line 740) where `name` is everything before the first parenthesis in the H2 heading. The parser has **no duplicate-slug detection**. Two homonymous transliterated source-names (e.g., both `Ya'aqov` headings for the patriarch and James-brother-of-Yeshua) would silently collide on the slug `ya'aqov`, with one entry overwriting the other or both producing the same React key — depending on accumulation order in the entries array. This gap was surfaced by the v2 audit of `POSSIBLE_CONTENT_BUNDLE_PLAN.md` (`docs/audit/AUDIT_POSSIBLE_CONTENT_BUNDLE_PLAN_v2.md §7.6`).
+Surfaced 2026-05-17 during the re-audit pass of the 12 NOT VERIFIED FEEDBACK items. DE chapter files violated the existing RULES-HB.md §PROPER-NAME TABLE note rule via 335 redundant-parens occurrences (`Name (Name)` identical-word) across DE Matthew 1-3 (96), DE John 1-3 (82), DE Genesis 1-12 (152), plus 1 stray in `de/john/study/CHAPTER-1-CONTEXT.md`. Cross-locale check confirmed DE-only — PT-BR/EN/ES were already compliant.
 
-Proposed improvement (out of bundle scope): add a duplicate-slug check inside `flushEntry`, emitting `console.warn` when a slug already exists in the entries array. Estimated effort: ~30 minutes (small addition + 1 new vitest case). Trigger this task when (a) Phase 12 authoring of Genesis 13+ creates more cross-book canonical-name candidates (e.g., the Avram → Avraham renaming, Sarai → Sarah), or (b) the Phase 13 cross-book canonical PEOPLE structure work begins (which will refactor the per-book PEOPLE.md model anyway). Until then, the bundle plan's Q5 (`Iakobos` for the brother of Yeshua, ASCII source-language disambiguation) avoids the collision via authoring convention.
+**Resolved 2026-05-18** via `docs/audit/DE_FAMILIAR_NAMES_PLAN.md` (Q1=Hybrid, Q2=All DE chapter files, Q3=Emergency-amendment pathway). 259 in-scope occurrences swept; 76 left in out-of-scope GLOSSAR + KAPITELÜBERGREIFENDE VERFOLGUNG tables (correctly preserved per plan). RULES-HB.md §PROPER-NAME TABLE notes amended via v3.3.1 emergency amendment with proposal artifact at `docs/rules/proposals/v3.3.1-emergency-DE-name-rendering-clarification.md`. See `docs/editorial-log/genesis.md` Entry 2026-05-18-107 (anchor) + `docs/editorial-log/john.md` Entry J-026 + `docs/editorial-log/matthew.md` Entry M-025 for full execution log. 819 tests pass (unchanged baseline); `pnpm build` + `pnpm lint` + `pnpm content:lint` clean.
+
+### ~~people-parser slug collision detection~~ — RESOLVED 2026-05-17
+
+The people-parser at `src/infrastructure/content/people-parser.ts` derives PersonEntry slugs via `name.toLowerCase().replace(/\s+/g, "-")` (line 740) where `name` is everything before the first parenthesis in the H2 heading. The parser previously had **no duplicate-slug detection** — two homonymous transliterated source-names (e.g., both `Ya'aqov` headings) would silently collide on the slug `ya'aqov`. Gap was surfaced by `docs/audit/AUDIT_POSSIBLE_CONTENT_BUNDLE_PLAN_v2.md §7.6`.
+
+**Fix applied 2026-05-17:** added a duplicate-slug check inside `flushEntry` at `people-parser.ts:707-720`. When a slug already exists in the `entries` array, the parser emits `console.warn` with the colliding name and an actionable mitigation hint ("Disambiguate by using a different transliteration form in the heading"). Two new vitest cases (positive + negative) cover the collision-warning path and verify that the documented `Iakobos`/`Ya'aqov` mitigation (used by Possible-Content Bundle Q5) does NOT trigger the warning. 819/819 tests pass; build clean; lint clean.
 
 ---
 
@@ -129,19 +135,22 @@ Proposed improvement (out of bundle scope): add a duplicate-slug check inside `f
 | Item | Status |
 |------|--------|
 | Genesis 13–50 content | STILL OPEN |
-| Em-dash / accessibility sweep | PARTIAL (EN Matt + non-EN remain) |
+| Em-dash / accessibility sweep | PARTIAL — Matt sweep done 2026-05-17 (M-024); Genesis pt-br/de/es PEOPLE + de chapter-3-context done 2026-05-17 (genesis 2026-05-17-106); remaining: deliberate non-en authoring future work |
 | Cross-book canonical PEOPLE | STILL OPEN |
 | Akedah → Crucifixion typology (Gen 22 §F) | DEFERRED to Phase 12 |
 | Moses *karan* / horns (Exod 34) | DEFERRED to Phase 14+ |
 | Mary as new Ark typology (Luke 1 §F) | DEFERRED to Luke authoring |
 | ES Matthew diacritic loss (parallel to resolved ES John issue) | RESOLVED 2026-05-17 (ftfy sweep; see matthew.md M-024) |
 | EN Matthew INTRODUCTION em-dash + Greek mojibake (sibling) | RESOLVED 2026-05-17 (ftfy sweep; see matthew.md M-024) |
-| people-parser slug-collision detection | DEFERRED (small parser improvement) |
+| people-parser slug-collision detection | RESOLVED 2026-05-17 (console.warn + 2 vitest cases at `people-parser.ts:707-720`) |
+| DE Matthew familiar-names redundant parens (FEEDBACK item 35) | RESOLVED 2026-05-18 (335 occurrences, 259 swept in-scope; v3.3.1 emergency amendment; see genesis.md 2026-05-18-107 anchor) |
 | **NEW:** v3.2 version stamp sweep | RESOLVED (already at v3.3 across 200 content references — completed in prior phase) |
 | **NEW:** ES John diacritics | RESOLVED 2026-05-14 (1,128 replacements across 7 files; see `docs/editorial-log/john.md` Entry J-023) |
 | **NEW:** ES NT Reina-Valera declaration | RESOLVED (all 6 NT chapter front-matter blocks already have Option B declaration — completed in prior phase) |
 | **NEW:** John PEOPLE.md | RESOLVED 2026-05-14 (Phase 10) |
 | **NEW:** PT-BR monogenēs | RESOLVED (PT-BR main text already renders as `único-nascido` consistent with EN/DE/ES; remaining 4 `unigênito` references are intentional scholarly metadiscussion explaining why the term is avoided) |
+| **NEW:** PT-BR + DE + ES Genesis PEOPLE.md mojibake | RESOLVED 2026-05-17 (ftfy sweep on 4 files; see `genesis.md` Entry 2026-05-17-106) |
+| **NEW:** DE Genesis CHAPTER-3-CONTEXT.md Hebrew script mojibake | RESOLVED 2026-05-17 (same sweep — `אַיֶּכָּה` *ayyekkah* at Gen 3:9 recovered) |
 | **NEW:** Readability on John/Matt companions | RESOLVED 2026-05-13 (Phase 7) |
 | **NEW:** John/Matt prophecy file decision | RESOLVED 2026-05-13 (Phase 11 Option C) |
 | **NEW:** Section I 10-category coverage audit | RESOLVED 2026-05-14 (Phase 8) |

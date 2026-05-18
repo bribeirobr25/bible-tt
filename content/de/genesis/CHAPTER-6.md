@@ -44,7 +44,7 @@
 
 ## KAPITELÜBERSICHT
 
-**Was geschieht:** Die „Söhne Gottes/der Götter" (*bene ha-elohim*) nehmen Menschentöchter zu Frauen. JHWH begrenzt die menschliche Lebensspanne auf 120 Jahre. Die Nephilim sind auf dem Land. JHWH sieht die totale menschliche Bosheit, bereut die Erschaffung der Menschheit und beschließt die Vernichtung. Doch Noah (Noah) findet Gunst. Gott weist Noah an, eine *Tebah* (Kasten/Arche) mit bestimmten Maßen zu bauen, kündigt die Flut an, richtet den ersten Bund (*Berit*) auf und gebietet Noah, Tiere an Bord zu bringen.
+**Was geschieht:** Die „Söhne Gottes/der Götter" (*bene ha-elohim*) nehmen Menschentöchter zu Frauen. JHWH begrenzt die menschliche Lebensspanne auf 120 Jahre. Die Nephilim sind auf dem Land. JHWH sieht die totale menschliche Bosheit, bereut die Erschaffung der Menschheit und beschließt die Vernichtung. Doch Noach (Noah) findet Gunst. Gott weist Noah an, eine *Tebah* (Kasten/Arche) mit bestimmten Maßen zu bauen, kündigt die Flut an, richtet den ersten Bund (*Berit*) auf und gebietet Noah, Tiere an Bord zu bringen.
 
 **Zentrale Themen:** Die *bene ha-elohim* — dreifache Mehrdeutigkeit bewahrt (göttliche Wesen, Herrscher, sethitische Linie); die Nephilim (transliteriert, nicht „Riesen"); *yadon* — ein genuines Unsicherheitsverb (verbleiben/streiten); göttliche Reue (*nacham* — dieselbe Wurzel wie Noahs Name); „Gott sah" verkehrt (Schöpfung: „sah, dass gut" → hier: „sah, dass groß war die Bosheit"); *chamas* (Gewalt) als benannte Sünde; die *Tebah* als versiegelter Behälter, nicht als Schiff; das Wortspiel *kopher/kippur* (Pech/Sühne).
 
@@ -62,9 +62,9 @@
 
 ¹Und es war, als der Mensch begann, sich zu mehren auf dem Angesicht des Bodens, und Töchter ihnen geboren wurden, ²und die Söhne Gottes/der Götter sahen die Töchter des Menschen, dass sie gut *waren*, und sie nahmen sich Frauen von allen, die sie wählten. ³Und JHWH sprach: „Mein Geist soll nicht verbleiben/streiten im Menschen in Ewigkeit, darin dass er auch Fleisch *ist*; und seine Tage sollen einhundertzwanzig Jahre sein." ⁴Die Nephilim waren auf dem Land in jenen Tagen, und auch danach, als die Söhne Gottes/der Götter zu den Töchtern des Menschen kamen, und sie ihnen gebaren — sie *sind* die Mächtigen, die *waren* von Urzeit her, Männer des Namens.
 
-⁵Und JHWH sah, dass groß *war* die Bosheit des Menschen auf dem Land, und jede Neigung der Gedanken seines Herzens *war* nur böse den ganzen Tag. ⁶Und JHWH bereute, dass er den Menschen auf dem Land gemacht hatte, und es bekümmerte ihn zu seinem Herzen. ⁷Und JHWH sprach: „Ich werde den Menschen, den ich erschaffen habe, auslöschen von auf dem Angesicht des Bodens, vom Menschen bis zum Vieh, bis zum Kriechenden, bis zum Vogel des Himmels, denn ich bereue, dass ich sie gemacht habe." ⁸Aber Noah (Noah) fand Gunst in den Augen JHWHs.
+⁵Und JHWH sah, dass groß *war* die Bosheit des Menschen auf dem Land, und jede Neigung der Gedanken seines Herzens *war* nur böse den ganzen Tag. ⁶Und JHWH bereute, dass er den Menschen auf dem Land gemacht hatte, und es bekümmerte ihn zu seinem Herzen. ⁷Und JHWH sprach: „Ich werde den Menschen, den ich erschaffen habe, auslöschen von auf dem Angesicht des Bodens, vom Menschen bis zum Vieh, bis zum Kriechenden, bis zum Vogel des Himmels, denn ich bereue, dass ich sie gemacht habe." ⁸Aber Noach (Noah) fand Gunst in den Augen JHWHs.
 
-⁹Dies *sind* die Geschlechterfolgen Noahs. Noah *war* ein gerechter Mann, untadelig in seinen Geschlechtern; mit Gott wandelte Noah. ¹⁰Und Noah zeugte drei Söhne: Shem, Ham (Ham) und Yafet (Jafet). ¹¹Und das Land war verderbt vor Gott, und das Land war erfüllt mit Gewalt. ¹²Und Gott sah das Land, und siehe, es war verderbt, denn alles Fleisch hatte seinen Weg verderbt auf dem Land. ¹³Und Gott sprach zu Noah: „Das Ende alles Fleisches ist vor mich gekommen, denn das Land ist erfüllt mit Gewalt um ihretwillen, und siehe, ich *bin am* Vernichten von ihnen mit dem Land.
+⁹Dies *sind* die Geschlechterfolgen Noahs. Noah *war* ein gerechter Mann, untadelig in seinen Geschlechtern; mit Gott wandelte Noah. ¹⁰Und Noah zeugte drei Söhne: Shem, Cham (Ham) und Yafet (Jafet). ¹¹Und das Land war verderbt vor Gott, und das Land war erfüllt mit Gewalt. ¹²Und Gott sah das Land, und siehe, es war verderbt, denn alles Fleisch hatte seinen Weg verderbt auf dem Land. ¹³Und Gott sprach zu Noah: „Das Ende alles Fleisches ist vor mich gekommen, denn das Land ist erfüllt mit Gewalt um ihretwillen, und siehe, ich *bin am* Vernichten von ihnen mit dem Land.
 
 ¹⁴Mache dir eine Tebah aus Gofer-Holz; Räume sollst du machen *in* der Tebah, und du sollst sie bedecken innen und außen mit Kofer. ¹⁵Und dies *ist, wie* du sie machen sollst: dreihundert Ellen die Länge der Tebah, fünfzig Ellen ihre Breite und dreißig Ellen ihre Höhe. ¹⁶Einen Tsohar sollst du machen für die Tebah, und auf eine Elle sollst du ihn abschließen von oben, und die Tür der Tebah sollst du in ihre Seite setzen; unteres, zweites und drittes *Stockwerk* sollst du sie machen.
 
@@ -92,7 +92,7 @@ und die Söhne Gottes/der Götter sahen die Töchter des Menschen, dass sie gut 
 > **📝 NOTIZEN**
 >
 > 🔴 **KRITISCH — „SÖHNE GOTTES/DER GÖTTER"**
-> - **בְּנֵי הָאֱלֹהִים** (*bene ha-elohim*) — eine der umstrittensten Wendungen in Genesis. Drei Hauptlesungen, alle **MÖGLICH**: (1) göttliche/engelhafte Wesen (vgl. Ijob 1:6); (2) menschliche Herrscher, die göttlichen Status beanspruchen; (3) Set (Set)-Linie heiratet Kain (Kain)-Linie. Regel 2: Schrägstrich bewahrt die Mehrdeutigkeit. Für ausführlichere Diskussion der Lesungen und Parallelen aus dem Alten Orient (ANE) siehe Begleitmaterial Abschnitt D.
+> - **בְּנֵי הָאֱלֹהִים** (*bene ha-elohim*) — eine der umstrittensten Wendungen in Genesis. Drei Hauptlesungen, alle **MÖGLICH**: (1) göttliche/engelhafte Wesen (vgl. Ijob 1:6); (2) menschliche Herrscher, die göttlichen Status beanspruchen; (3) Shet (Set)-Linie heiratet Qayin (Kain)-Linie. Regel 2: Schrägstrich bewahrt die Mehrdeutigkeit. Für ausführlichere Diskussion der Lesungen und Parallelen aus dem Alten Orient (ANE) siehe Begleitmaterial Abschnitt D.
 >
 > 🔵 **„DASS SIE GUT WAREN"**
 > - **כִּי טֹבֹת הֵנָּה** (*ki tovot hennah*) = „dass sie gut/schön *waren*." Echo von Gn 1s *ki tov* („dass gut") — aber auf menschliches Begehren angewandt statt auf göttliche Bewertung.
@@ -146,7 +146,7 @@ Und JHWH bereute, dass er den Menschen auf dem Land gemacht hatte, und es beküm
 > **📝 NOTIZEN**
 >
 > 🔴 **KRITISCH — GÖTTLICHES BEREUEN**
-> - **וַיִּנָּחֶם יהוה** (*vayyinnachem JHWH*) = „und JHWH bereute/war betrübt." Wurzel: **נ-ח-ם** (*n-ch-m*) — DIESELBE Wurzel wie Noah (Noah)/nacham (5:29 trösten). Wortspiel: Derjenige, dessen Name „Trost" bedeutet, kommt aus dem Moment göttlichen „Bereuens" — dieselbe konsonantische Wurzel.
+> - **וַיִּנָּחֶם יהוה** (*vayyinnachem JHWH*) = „und JHWH bereute/war betrübt." Wurzel: **נ-ח-ם** (*n-ch-m*) — DIESELBE Wurzel wie Noach (Noah)/nacham (5:29 trösten). Wortspiel: Derjenige, dessen Name „Trost" bedeutet, kommt aus dem Moment göttlichen „Bereuens" — dieselbe konsonantische Wurzel.
 > - Der Text schreibt JHWH emotionale Zustände zu (Bereuen, Kummer). Regel 12 — wörtlich übersetzen; nicht in abstrakte Theologie glätten.
 
 ---
@@ -189,13 +189,13 @@ Dies *sind* die Geschlechterfolgen Noahs. Noah *war* ein gerechter Mann, untadel
 > - **צַדִּיק** (*tsaddiq*) = gerecht. **תָּמִים** (*tamim*) = untadelig/ganz/vollständig. Erste Verwendung beider Begriffe für einen Menschen. „In seinen Geschlechtern" — mehrdeutig: (1) unter seinen Zeitgenossen (relative Gerechtigkeit); (2) während seines ganzen Lebens. Beide MÖGLICH.
 >
 > 🔵 **„MIT GOTT WANDELTE NOACH"**
-> - **אֶת־הָאֱלֹהִים הִתְהַלֶּךְ נֹחַ** — dieselbe Wendung wie Henoch (Henoch) (5:22, 24). Objekt zur Betonung vorangestellt. Nur zwei Menschen in Genesis „wandeln mit Gott."
+> - **אֶת־הָאֱלֹהִים הִתְהַלֶּךְ נֹחַ** — dieselbe Wendung wie Chanokh (Henoch) (5:22, 24). Objekt zur Betonung vorangestellt. Nur zwei Menschen in Genesis „wandeln mit Gott."
 
 ---
 
 ### **Vers 10**
 
-Und Noah zeugte drei Söhne: Shem, Ham (Ham) und Yafet (Jafet).
+Und Noah zeugte drei Söhne: Shem, Cham (Ham) und Yafet (Jafet).
 
 ---
 

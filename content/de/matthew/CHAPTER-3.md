@@ -39,19 +39,19 @@
 - 🔵 **GRAMMATISCH** - Griechische Struktur, Verbaspekt, Syntax
 - 🟡 **THEOLOGISCH** - Interpretationsoptionen, Ambiguitätsbewahrung
 
-**Dieses Kapitel führt Johannes (Johannes) den Eintaucher und das „Königreich der Himmel" ein.** Die Wendung *basileia tōn ouranōn* („Königreich der Himmel") erscheint hier zum ersten Mal in Matthäus — eine Wendung, die nur in diesem Evangelium vorkommt (die anderen Evangelien verwenden „Königreich Gottes"). Die TT gibt *ouranōn* als „Himmel" wieder, in Übereinstimmung mit dem hebräischen *shamayim*. Johannes' Praxis des *baptisma* wird als „Eintauchen" wiedergegeben, gemäß gesperrtem Glossar. Eigennamen folgen der TT-Transliteration: Johannes (Johannes der Täufer), Pharisäer (nicht Pharisäer), Sadduzäer (nicht Sadduzäer), Jordan (Jordan).
+**Dieses Kapitel führt Yochanan (Johannes) den Eintaucher und das „Königreich der Himmel" ein.** Die Wendung *basileia tōn ouranōn* („Königreich der Himmel") erscheint hier zum ersten Mal in Matthäus — eine Wendung, die nur in diesem Evangelium vorkommt (die anderen Evangelien verwenden „Königreich Gottes"). Die TT gibt *ouranōn* als „Himmel" wieder, in Übereinstimmung mit dem hebräischen *shamayim*. Johannes' Praxis des *baptisma* wird als „Eintauchen" wiedergegeben, gemäß gesperrtem Glossar. Eigennamen folgen der TT-Transliteration: Yochanan (Johannes der Täufer), Pharisäer (nicht Perushim), Sadduzäer (nicht Tsduqim), Yarden (Jordan).
 
 ---
 
 ## KAPITELÜBERSICHT
 
-**Was geschieht:** Johannes (Johannes) der Eintaucher erscheint in der Wüste Judas und predigt: „Ändert *euren* Sinn, denn das Königreich der Himmel hat sich genähert." Der Erzähler identifiziert ihn als die Stimme, die in Jesaja 40,3 prophezeit wird. Johannes trägt Kamelhaarkleider mit einem Ledergürtel und isst Heuschrecken und wilden Honig. Menschen aus Jerusalem (Jerusalem), ganz Juda (Juda) und der Jordanregion kommen zu ihm, werden im Jordan (Jordan) eingetaucht und bekennen ihre Sünden. Als Pharisäer und Sadduzäer zur Eintauchung kommen, prangert Johannes sie an: „Otternbrut... bringt Frucht hervor, die der Sinnesänderung würdig ist... die Axt liegt schon an der Wurzel der Bäume." Er unterscheidet seine eigene Eintauchung (in Wasser, zur Sinnesänderung) von dem, der nach ihm kommt, der in heiligem Wind/Geist und Feuer eintauchen wird. Der Kommende hat seine Worfschaufel, wird seinen Weizen sammeln und die Spreu mit unauslöschlichem Feuer verbrennen. Dann kommt Jesus (Jesus) vom Galiläa (Galiläa) an den Jordan, um von Johannes eingetaucht zu werden. Johannes wehrt ab: „Ich habe nötig, von dir eingetaucht zu werden." Jesus antwortet: „Lass *es* jetzt *zu*, denn so gebührt es uns, alle Gerechtigkeit zu erfüllen." Johannes lässt es zu. Eingetaucht, steigt Jesus aus dem Wasser auf, und siehe, die Himmel wurden ihm geöffnet, und er sah den Wind/Geist Gottes herabsteigen wie eine Taube und auf ihn kommen. Und siehe, eine Stimme aus den Himmeln: „Dieser ist mein Sohn, der Geliebte, an dem ich Wohlgefallen habe."
+**Was geschieht:** Yochanan (Johannes) der Eintaucher erscheint in der Wüste Judas und predigt: „Ändert *euren* Sinn, denn das Königreich der Himmel hat sich genähert." Der Erzähler identifiziert ihn als die Stimme, die in Jesaja 40,3 prophezeit wird. Johannes trägt Kamelhaarkleider mit einem Ledergürtel und isst Heuschrecken und wilden Honig. Menschen aus Yerushalayim (Jerusalem), ganz Yehudah (Juda) und der Jordanregion kommen zu ihm, werden im Yarden (Jordan) eingetaucht und bekennen ihre Sünden. Als Pharisäer und Sadduzäer zur Eintauchung kommen, prangert Johannes sie an: „Otternbrut... bringt Frucht hervor, die der Sinnesänderung würdig ist... die Axt liegt schon an der Wurzel der Bäume." Er unterscheidet seine eigene Eintauchung (in Wasser, zur Sinnesänderung) von dem, der nach ihm kommt, der in heiligem Wind/Geist und Feuer eintauchen wird. Der Kommende hat seine Worfschaufel, wird seinen Weizen sammeln und die Spreu mit unauslöschlichem Feuer verbrennen. Dann kommt Yeshua (Jesus) vom Galil (Galiläa) an den Jordan, um von Johannes eingetaucht zu werden. Johannes wehrt ab: „Ich habe nötig, von dir eingetaucht zu werden." Jesus antwortet: „Lass *es* jetzt *zu*, denn so gebührt es uns, alle Gerechtigkeit zu erfüllen." Johannes lässt es zu. Eingetaucht, steigt Jesus aus dem Wasser auf, und siehe, die Himmel wurden ihm geöffnet, und er sah den Wind/Geist Gottes herabsteigen wie eine Taube und auf ihn kommen. Und siehe, eine Stimme aus den Himmeln: „Dieser ist mein Sohn, der Geliebte, an dem ich Wohlgefallen habe."
 
 **Zentrale Themen:** Das Königreich der Himmel als matthäische Sonderwendung (erstes Vorkommen); *metanoia* als „Sinnesänderung" statt emotionaler „Buße"; das Jesaja-40,3-Zitat mit kyrios/JHWH-Vermerk; *baptisma* als Eintauchen; Johannes' elijaähnliches Erscheinungsbild (2 Kön 1,8); die Pharisäer und Sadduzäer als verschiedene Gruppen, die eine einzige Warnung erhalten; Eintauchen in Wasser vs. Eintauchen in heiligem Wind/Geist und Feuer; die Bat Qol (Stimme vom Himmel); die dreifache Theophanie bei Jesu Eintauchung (Himmel öffnen sich, Wind/Geist steigt herab, Stimme spricht).
 
 **Achten Sie auf:** „Königreich der Himmel" ist einzigartig für Matthäus — Markus und Lukas verwenden „Königreich Gottes." Das *ouranōn* (der Himmel) entspricht dem hebräischen *shamayim* (Himmel), das die konkrete räumliche Bedeutung bewahrt. Das Jesaja-40,3-Zitat im MT liest: „Die Stimme eines Rufenden: In der Wüste bereitet den Weg JHWHs" — Matthäus' Griechisch folgt der Septuaginta (LXX — die antike griechische Bibelübersetzung), die *kyrios* anwendet. Johannes' „Ich habe nötig, von dir eingetaucht zu werden" (V.14) wirft die Frage auf, warum Jesus der Eintauchung bedarf — der Text liefert die Antwort („alle Gerechtigkeit zu erfüllen"), ohne zu erklären, was das bedeutet. Die Bat Qol („Dieser ist mein Sohn, der Geliebte") klingt an Psalm 2,7 („Du bist mein Sohn") und Jesaja 42,1 („mein Knecht... an dem mein Wesen Gefallen hat") an.
 
-**Verbindung:** Johannes' Wüstenpredigt erinnert an die prophetische Tradition der hebräischen Bibel. Seine Kleidung klingt an Elia (Elia) (2 Kön 1,8) an. Die Eintauchungsszene verbindet sich mit der jüdischen Mikwe-Praxis und den Reinigungsriten von Qumran. Die Stimme aus den Himmeln führt die Vater-Sohn-Sprache ein, die durch das Evangelium zieht. Der herabsteigende Wind/Geist erinnert an Genesis 1,2 (*ruach elohim* schwebend). Die Wendung „Königreich der Himmel" wird in Matthäus noch 32 weitere Male erscheinen.
+**Verbindung:** Johannes' Wüstenpredigt erinnert an die prophetische Tradition der hebräischen Bibel. Seine Kleidung klingt an Eliyahu (Elia) (2 Kön 1,8) an. Die Eintauchungsszene verbindet sich mit der jüdischen Mikwe-Praxis und den Reinigungsriten von Qumran. Die Stimme aus den Himmeln führt die Vater-Sohn-Sprache ein, die durch das Evangelium zieht. Der herabsteigende Wind/Geist erinnert an Genesis 1,2 (*ruach elohim* schwebend). Die Wendung „Königreich der Himmel" wird in Matthäus noch 32 weitere Male erscheinen.
 
 ---
 
@@ -61,13 +61,13 @@
 
 ---
 
-¹In jenen Tagen kommt Johannes (Johannes) der Eintaucher und predigt in der Wüste Judas, ²und spricht: „Ändert *euren* Sinn, denn das Königreich der Himmel hat sich genähert." ³Denn dieser ist der, von dem durch den Propheten Yesha'yahu (Jesaja) geredet wurde, der da sagt: „Stimme eines Rufenden in der Wüste: ‚Bereitet den Weg des Herrn, macht gerade seine Pfade.'"
+¹In jenen Tagen kommt Yochanan (Johannes) der Eintaucher und predigt in der Wüste Judas, ²und spricht: „Ändert *euren* Sinn, denn das Königreich der Himmel hat sich genähert." ³Denn dieser ist der, von dem durch den Propheten Yesha'yahu (Jesaja) geredet wurde, der da sagt: „Stimme eines Rufenden in der Wüste: ‚Bereitet den Weg des Herrn, macht gerade seine Pfade.'"
 
-⁴Und Johannes selbst hatte seine Kleidung aus Kamelhaar und einen Ledergürtel um seine Hüften, und seine Nahrung waren Heuschrecken und wilder Honig. ⁵Da ging Jerusalem (Jerusalem) zu ihm hinaus, und ganz Juda (Juda), und die ganze Gegend um den Jordan (Jordan), ⁶und sie wurden von ihm im Jordan eingetaucht, wobei sie ihre Sünden bekannten.
+⁴Und Johannes selbst hatte seine Kleidung aus Kamelhaar und einen Ledergürtel um seine Hüften, und seine Nahrung waren Heuschrecken und wilder Honig. ⁵Da ging Yerushalayim (Jerusalem) zu ihm hinaus, und ganz Yehudah (Juda), und die ganze Gegend um den Yarden (Jordan), ⁶und sie wurden von ihm im Jordan eingetaucht, wobei sie ihre Sünden bekannten.
 
-⁷Und als er viele der Pharisäer und Sadduzäer zur Eintauchung kommen sah, sprach er zu ihnen: „Otternbrut, wer hat euch gewiesen, dem kommenden Zorn zu entfliehen? ⁸Bringt nun Frucht hervor, die der Sinnesänderung würdig ist, ⁹und denkt nicht, bei euch selbst zu sagen: ‚Wir haben Abraham (Abraham) *zum* Vater,' denn ich sage euch, dass Gott vermag, aus diesen Steinen dem Abraham Kinder zu erwecken. ¹⁰Schon aber liegt die Axt an der Wurzel der Bäume; jeder Baum nun, der nicht gute Frucht bringt, wird abgehauen und ins Feuer geworfen. ¹¹Ich tauche euch ein in Wasser zur Sinnesänderung, aber der nach mir Kommende ist stärker als ich, dessen Sandalen zu tragen ich nicht würdig bin; er wird euch eintauchen in heiligem Wind/Geist und Feuer. ¹²Seine Worfschaufel *ist* in seiner Hand, und er wird seine Tenne gründlich reinigen, und er wird seinen Weizen in die Scheune sammeln, aber die Spreu wird er verbrennen *mit* unauslöschlichem Feuer."
+⁷Und als er viele der Pharisäer und Sadduzäer zur Eintauchung kommen sah, sprach er zu ihnen: „Otternbrut, wer hat euch gewiesen, dem kommenden Zorn zu entfliehen? ⁸Bringt nun Frucht hervor, die der Sinnesänderung würdig ist, ⁹und denkt nicht, bei euch selbst zu sagen: ‚Wir haben Avraham (Abraham) *zum* Vater,' denn ich sage euch, dass Gott vermag, aus diesen Steinen dem Abraham Kinder zu erwecken. ¹⁰Schon aber liegt die Axt an der Wurzel der Bäume; jeder Baum nun, der nicht gute Frucht bringt, wird abgehauen und ins Feuer geworfen. ¹¹Ich tauche euch ein in Wasser zur Sinnesänderung, aber der nach mir Kommende ist stärker als ich, dessen Sandalen zu tragen ich nicht würdig bin; er wird euch eintauchen in heiligem Wind/Geist und Feuer. ¹²Seine Worfschaufel *ist* in seiner Hand, und er wird seine Tenne gründlich reinigen, und er wird seinen Weizen in die Scheune sammeln, aber die Spreu wird er verbrennen *mit* unauslöschlichem Feuer."
 
-¹³Da kommt Jesus (Jesus) vom Galiläa (Galiläa) an den Jordan, zu Johannes, um von ihm eingetaucht zu werden. ¹⁴Aber Johannes hinderte ihn und sprach: „Ich habe nötig, von dir eingetaucht zu werden, und du kommst zu mir?" ¹⁵Und Jesus antwortete und sprach zu ihm: „Lass *es* jetzt *zu*, denn so gebührt es uns, alle Gerechtigkeit zu erfüllen." Da lässt er ihn *gewähren*. ¹⁶Und Jesus, eingetaucht, stieg sogleich aus dem Wasser herauf, und siehe, die Himmel wurden ihm geöffnet, und er sah den Wind/Geist Gottes herabsteigen wie eine Taube und auf ihn kommen. ¹⁷Und siehe, eine Stimme aus den Himmeln, die spricht: „Dieser ist mein Sohn, der Geliebte, an dem ich Wohlgefallen habe."
+¹³Da kommt Yeshua (Jesus) vom Galil (Galiläa) an den Jordan, zu Johannes, um von ihm eingetaucht zu werden. ¹⁴Aber Johannes hinderte ihn und sprach: „Ich habe nötig, von dir eingetaucht zu werden, und du kommst zu mir?" ¹⁵Und Jesus antwortete und sprach zu ihm: „Lass *es* jetzt *zu*, denn so gebührt es uns, alle Gerechtigkeit zu erfüllen." Da lässt er ihn *gewähren*. ¹⁶Und Jesus, eingetaucht, stieg sogleich aus dem Wasser herauf, und siehe, die Himmel wurden ihm geöffnet, und er sah den Wind/Geist Gottes herabsteigen wie eine Taube und auf ihn kommen. ¹⁷Und siehe, eine Stimme aus den Himmeln, die spricht: „Dieser ist mein Sohn, der Geliebte, an dem ich Wohlgefallen habe."
 
 ---
 
@@ -75,7 +75,7 @@
 
 ### **Vers 1**
 
-In jenen Tagen kommt Johannes (Johannes) der Eintaucher und predigt in der Wüste Judas,
+In jenen Tagen kommt Yochanan (Johannes) der Eintaucher und predigt in der Wüste Judas,
 
 > **Notizen**
 >
@@ -114,7 +114,7 @@ Denn dieser ist der, von dem durch den Propheten Yesha'yahu (Jesaja) geredet wur
 > **Notizen**
 >
 > 🔴 **KRITISCH — JESAJA-40,3-ZITAT — KYRIOS/JHWH**
-> - Das Zitat stammt aus **Jesaja 40,3**; Matthäus folgt der LXX mit zwei Verschiebungen gegenüber dem MT: (1) „in der Wüste" modifiziert „rufend" (LXX) statt „bereitet" (MT); (2) JHWH wird zu *kyrios*. Gemäß GS Option C: „der Herr" im Haupttext, JHWH als ursprünglicher Bezug vermerkt. Matthäus wendet den Text auf Jesus (Jesus) an — die Identifikation geschieht durch Nebeneinanderstellung, nicht durch eine ausdrückliche Erzähleraussage. Für ausführlichere Diskussion der Syntax-Verschiebung und der JHWH-Identifikation in der matthäischen Theologie siehe Begleitmaterial Abschnitt B.
+> - Das Zitat stammt aus **Jesaja 40,3**; Matthäus folgt der LXX mit zwei Verschiebungen gegenüber dem MT: (1) „in der Wüste" modifiziert „rufend" (LXX) statt „bereitet" (MT); (2) JHWH wird zu *kyrios*. Gemäß GS Option C: „der Herr" im Haupttext, JHWH als ursprünglicher Bezug vermerkt. Matthäus wendet den Text auf Yeshua (Jesus) an — die Identifikation geschieht durch Nebeneinanderstellung, nicht durch eine ausdrückliche Erzähleraussage. Für ausführlichere Diskussion der Syntax-Verschiebung und der JHWH-Identifikation in der matthäischen Theologie siehe Begleitmaterial Abschnitt B.
 >
 > 🟢 **YESHA'YAHU — TT-TRANSLITERATION**
 > - **Ἠσαΐου** (*Ēsaiou*) = Yesha'yahu (Hebräisch: **יְשַׁעְיָהוּ**, *Yesha'yahu*, „JHWH rettet"). Vertraut: Jesaja.
@@ -128,7 +128,7 @@ Und Johannes selbst hatte seine Kleidung aus Kamelhaar und einen Ledergürtel um
 > **Notizen**
 >
 > 🟡 **ELIYAHU-ANKLANG — KLEIDUNG**
-> - **2 Könige 1,8** beschreibt Elia (Elia): „ein Mann mit einem Haarkleid und einem Ledergürtel um seine Hüften gebunden." Johannes' Kleidung klingt an den Propheten Elia an. Maleachi 3,23 [4,5] verheißt, dass JHWH Elia senden wird vor dem großen und schrecklichen Tag. Matthäus wird Johannes später ausdrücklich als die Eliafigur identifizieren (Mt 11,14; 17,12-13). Die Kleidung ist das erste Signal.
+> - **2 Könige 1,8** beschreibt Eliyahu (Elia): „ein Mann mit einem Haarkleid und einem Ledergürtel um seine Hüften gebunden." Johannes' Kleidung klingt an den Propheten Elia an. Maleachi 3,23 [4,5] verheißt, dass JHWH Elia senden wird vor dem großen und schrecklichen Tag. Matthäus wird Johannes später ausdrücklich als die Eliafigur identifizieren (Mt 11,14; 17,12-13). Die Kleidung ist das erste Signal.
 >
 > 🟢 **HEUSCHRECKEN UND WILDER HONIG**
 > - **ἀκρίδες** (*akrides*) = Heuschrecken — erlaubte Nahrung nach dem Levitischen Gesetz (Lev 11,22). **μέλι ἄγριον** (*meli agrion*) = wilder Honig. Die Ernährung kennzeichnet Johannes als Wüstenasketen, unabhängig von sesshafter Landwirtschaft oder Tempelwirtschaft.
@@ -137,7 +137,7 @@ Und Johannes selbst hatte seine Kleidung aus Kamelhaar und einen Ledergürtel um
 
 ### **Vers 5**
 
-Da ging Jerusalem (Jerusalem) zu ihm hinaus, und ganz Juda (Juda), und die ganze Gegend um den Jordan (Jordan),
+Da ging Yerushalayim (Jerusalem) zu ihm hinaus, und ganz Yehudah (Juda), und die ganze Gegend um den Yarden (Jordan),
 
 > **Notizen**
 >
@@ -189,7 +189,7 @@ Bringt nun Frucht hervor, die der Sinnesänderung würdig ist,
 
 ### **Vers 9**
 
-und denkt nicht, bei euch selbst zu sagen: ‚Wir haben Abraham (Abraham) *zum* Vater,' denn ich sage euch, dass Gott vermag, aus diesen Steinen dem Abraham Kinder zu erwecken.
+und denkt nicht, bei euch selbst zu sagen: ‚Wir haben Avraham (Abraham) *zum* Vater,' denn ich sage euch, dass Gott vermag, aus diesen Steinen dem Abraham Kinder zu erwecken.
 
 > **Notizen**
 >
@@ -245,7 +245,7 @@ Seine Worfschaufel *ist* in seiner Hand, und er wird seine Tenne gründlich rein
 
 ### **Vers 13**
 
-Da kommt Jesus vom Galiläa (Galiläa) an den Jordan, zu Johannes, um von ihm eingetaucht zu werden.
+Da kommt Jesus vom Galil (Galiläa) an den Jordan, zu Johannes, um von ihm eingetaucht zu werden.
 
 > **Notizen**
 >

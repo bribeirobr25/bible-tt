@@ -38,13 +38,13 @@
 - 🔵 **GRAMMATISCH** - Hebräische Struktur, Verbformen, Syntax
 - 🟡 **THEOLOGISCH** - Interpretationsoptionen, Ambiguitätsbewahrung
 
-**Dieses Kapitel markiert den Übergang von der Urgeschichte zur Vätererzählung.** JHWH beruft Abram (Abram) aus Charan mit einem Befehl, der kein Ziel nennt, und einer Verheißung, die den Rest der Torah prägen wird. Der fünffache Segen (12:2–3) führt *Berakhah* als narrativen Antrieb ein. Abram zieht durch Kanaan (Kanaan) — Sichem (Sichem), die Eiche von Moreh, Bethel (Bethel) — baut Altäre und ruft den Namen JHWHs an. Eine Hungersnot treibt ihn nach Ägypten, wo die Ehefrau-Schwester-Episode ein Muster einführt, das bei 20:2 und 26:7 wiederkehrt. Pharao wird mit Plagen (*nega'im*) geschlagen — dieselbe Wurzel, die im Exodus wiederkehren wird.
+**Dieses Kapitel markiert den Übergang von der Urgeschichte zur Vätererzählung.** JHWH beruft Avram (Abram) aus Charan mit einem Befehl, der kein Ziel nennt, und einer Verheißung, die den Rest der Torah prägen wird. Der fünffache Segen (12:2–3) führt *Berakhah* als narrativen Antrieb ein. Abram zieht durch Kenaan (Kanaan) — Shekhem (Sichem), die Eiche von Moreh, Beyt-El (Bethel) — baut Altäre und ruft den Namen JHWHs an. Eine Hungersnot treibt ihn nach Ägypten, wo die Ehefrau-Schwester-Episode ein Muster einführt, das bei 20:2 und 26:7 wiederkehrt. Pharao wird mit Plagen (*nega'im*) geschlagen — dieselbe Wurzel, die im Exodus wiederkehren wird.
 
 ---
 
 ## KAPITELÜBERSICHT
 
-**Was geschieht:** JHWH befiehlt Abram (Abram), sein Land, seine Geburtsstätte und das Haus seines Vaters zu verlassen, für ein ungenanntes Ziel — drei Trennungen aufsteigend in der Intimität. Die Verheißung ist fünffach: große Nation, Segen, großer Name, Segen für andere und alle Sippen des Bodens gesegnet/sich segnend in ihm. Abram geht, nimmt Sarai, Lot, Besitz und die Personen, die sie in Charan gemacht hatten, mit. Er durchzieht Kanaan (Kanaan) bis Sichem (Sichem), zur Eiche von Moreh, wo JHWH erscheint und das Land seinem Samen verheißt. Abram baut einen Altar. Er zieht ins Bergland zwischen Bethel (Bethel) und Ai, baut einen weiteren Altar und ruft den Namen JHWHs an. Er zieht Richtung Negev. Eine Hungersnot schickt ihn nach Ägypten. Er sagt Sarai, sie solle sagen, sie sei seine Schwester. Pharao nimmt Sarai; Abram gedeiht. JHWH schlägt Pharao mit großen Plagen. Pharao tadelt Abram und schickt ihn weg.
+**Was geschieht:** JHWH befiehlt Avram (Abram), sein Land, seine Geburtsstätte und das Haus seines Vaters zu verlassen, für ein ungenanntes Ziel — drei Trennungen aufsteigend in der Intimität. Die Verheißung ist fünffach: große Nation, Segen, großer Name, Segen für andere und alle Sippen des Bodens gesegnet/sich segnend in ihm. Abram geht, nimmt Sarai, Lot, Besitz und die Personen, die sie in Charan gemacht hatten, mit. Er durchzieht Kenaan (Kanaan) bis Shekhem (Sichem), zur Eiche von Moreh, wo JHWH erscheint und das Land seinem Samen verheißt. Abram baut einen Altar. Er zieht ins Bergland zwischen Beyt-El (Bethel) und Ai, baut einen weiteren Altar und ruft den Namen JHWHs an. Er zieht Richtung Negev. Eine Hungersnot schickt ihn nach Ägypten. Er sagt Sarai, sie solle sagen, sie sei seine Schwester. Pharao nimmt Sarai; Abram gedeiht. JHWH schlägt Pharao mit großen Plagen. Pharao tadelt Abram und schickt ihn weg.
 
 **Zentrale Themen:** Der *Lekh-lekha*-Befehl (emphatisch reflexiv — „geh, du selbst"); das ungenannte Ziel (Vertrauen geht Wissen voraus); der fünffache Segen als Same von Israels Berufung; *Adamah*-Kette geht weiter — „Sippen der *Adamah*" (12:3); *nivrekhu* — passiv „gesegnet werden" oder reflexiv „sich segnen" (echt mehrdeutig); Altarbau als Anspruch durch Anbetung, nicht durch Eroberung; „der Kanaani war damals im Land" — die Randbemerkung des Erzählers; der erste Abstieg nach Ägypten; das Ehefrau-Schwester-Motiv; Pharaos *nega'im* als Vorschattung des Exodus.
 
@@ -60,11 +60,11 @@
 
 ---
 
-¹Und JHWH sprach zu Abram (Abram): „Geh, du selbst, aus deinem Land und aus deiner Geburtsstätte und aus dem Haus deines Vaters, in das Land, das ich dir zeigen werde. ²Und ich werde dich zu einer großen Nation machen, und ich werde dich segnen, und ich werde deinen Namen groß machen — und sei ein Segen. ³Und ich werde segnen, die dich segnen, und wer dich verachtet, den werde ich verfluchen, und alle Sippen des Bodens werden gesegnet werden / werden sich segnen in dir."
+¹Und JHWH sprach zu Avram (Abram): „Geh, du selbst, aus deinem Land und aus deiner Geburtsstätte und aus dem Haus deines Vaters, in das Land, das ich dir zeigen werde. ²Und ich werde dich zu einer großen Nation machen, und ich werde dich segnen, und ich werde deinen Namen groß machen — und sei ein Segen. ³Und ich werde segnen, die dich segnen, und wer dich verachtet, den werde ich verfluchen, und alle Sippen des Bodens werden gesegnet werden / werden sich segnen in dir."
 
-⁴Und Abram ging, wie JHWH zu ihm gesprochen hatte, und Lot ging mit ihm; und Abram *war* fünfundsiebzig Jahre, ein Sohn von, als er aus Charan auszog. ⁵Und Abram nahm Sarai, seine Frau, und Lot, den Sohn seines Bruders, und all ihren Besitz, den sie gesammelt hatten, und die Personen, die sie in Charan gemacht hatten, und sie zogen aus, um in das Land Kanaan (Kanaan) zu gehen, und sie kamen in das Land Kanaan.
+⁴Und Abram ging, wie JHWH zu ihm gesprochen hatte, und Lot ging mit ihm; und Abram *war* fünfundsiebzig Jahre, ein Sohn von, als er aus Charan auszog. ⁵Und Abram nahm Sarai, seine Frau, und Lot, den Sohn seines Bruders, und all ihren Besitz, den sie gesammelt hatten, und die Personen, die sie in Charan gemacht hatten, und sie zogen aus, um in das Land Kenaan (Kanaan) zu gehen, und sie kamen in das Land Kanaan.
 
-⁶Und Abram durchzog das Land bis zum Ort Sichem (Sichem), zur Eiche von Moreh; und der Kanaani *war* damals im Land. ⁷Und JHWH erschien dem Abram und sprach: „Deinem Samen werde ich dieses Land geben." Und er baute dort einen Altar für JHWH, der ihm erschienen war. ⁸Und er brach auf von dort zum Bergland östlich von Bethel (Bethel) und schlug sein Zelt auf — Bethel *war* im Westen und Ai *war* im Osten — und er baute dort einen Altar für JHWH und rief den Namen JHWHs an. ⁹Und Abram brach auf, ziehend und reisend Richtung Negev.
+⁶Und Abram durchzog das Land bis zum Ort Shekhem (Sichem), zur Eiche von Moreh; und der Kanaani *war* damals im Land. ⁷Und JHWH erschien dem Abram und sprach: „Deinem Samen werde ich dieses Land geben." Und er baute dort einen Altar für JHWH, der ihm erschienen war. ⁸Und er brach auf von dort zum Bergland östlich von Beyt-El (Bethel) und schlug sein Zelt auf — Bethel *war* im Westen und Ai *war* im Osten — und er baute dort einen Altar für JHWH und rief den Namen JHWHs an. ⁹Und Abram brach auf, ziehend und reisend Richtung Negev.
 
 ¹⁰Und es war eine Hungersnot im Land, und Abram stieg hinab nach Ägypten, um dort als Fremdling zu weilen, denn die Hungersnot *war* schwer im Land. ¹¹Und es geschah, als er sich näherte, nach Ägypten einzutreten, und er sprach zu Sarai, seiner Frau: „Siehe, ich weiß, dass du *eine* Frau *bist*, schön von Aussehen. ¹²Und es wird sein, wenn die Ägypter dich sehen, und sie werden sagen: ‚Dies *ist* seine Frau,' und sie werden mich töten, und dich werden sie am Leben lassen. ¹³Sag doch, *dass* du meine Schwester *bist*, damit es mir wohl ergehe deinetwegen, und mein Leben lebe um deinetwillen."
 
@@ -78,7 +78,7 @@
 
 ### **Vers 1**
 
-Und JHWH sprach zu Abram (Abram): „Geh, du selbst, aus deinem Land und aus deiner Geburtsstätte und aus dem Haus deines Vaters, in das Land, das ich dir zeigen werde.
+Und JHWH sprach zu Avram (Abram): „Geh, du selbst, aus deinem Land und aus deiner Geburtsstätte und aus dem Haus deines Vaters, in das Land, das ich dir zeigen werde.
 
 > **📝 NOTIZEN**
 >
@@ -133,7 +133,7 @@ Und Abram ging, wie JHWH zu ihm gesprochen hatte, und Lot ging mit ihm; und Abra
 > **📝 NOTIZEN**
 >
 > 🔵 **„UND AVRAM GING" — KEIN DIALOG**
-> - **וַיֵּלֶךְ אַבְרָם** = „Und Abram ging." JHWH spricht fünf Segensklauseln; Abram antwortet mit null Worten. Er geht einfach. Wie Noah (Noah) (6:22: „und Noah tat es"), ist die Antwort Handlung, nicht Rede.
+> - **וַיֵּלֶךְ אַבְרָם** = „Und Abram ging." JHWH spricht fünf Segensklauseln; Abram antwortet mit null Worten. Er geht einfach. Wie Noach (Noah) (6:22: „und Noah tat es"), ist die Antwort Handlung, nicht Rede.
 >
 > 🔵 **ALTERSFORMEL**
 > - **וְאַבְרָם בֶּן־חָמֵשׁ שָׁנִים וְשִׁבְעִים שָׁנָה** = „und Abram war ein Sohn von fünf und siebzig Jahren." Terach war 70, als er zu zeugen begann (11:26); er lebte bis 205 (11:32). Wenn Abram mit 75 aufbrach, wirft die Chronologie Fragen auf, ob Terach noch am Leben war. Der Text harmonisiert nicht — er verzeichnet.
@@ -142,7 +142,7 @@ Und Abram ging, wie JHWH zu ihm gesprochen hatte, und Lot ging mit ihm; und Abra
 
 ### **Vers 5**
 
-Und Abram nahm Sarai, seine Frau, und Lot, den Sohn seines Bruders, und all ihren Besitz, den sie gesammelt hatten, und die Personen, die sie in Charan gemacht hatten, und sie zogen aus, um in das Land Kanaan (Kanaan) zu gehen, und sie kamen in das Land Kanaan.
+Und Abram nahm Sarai, seine Frau, und Lot, den Sohn seines Bruders, und all ihren Besitz, den sie gesammelt hatten, und die Personen, die sie in Charan gemacht hatten, und sie zogen aus, um in das Land Kenaan (Kanaan) zu gehen, und sie kamen in das Land Kanaan.
 
 > **📝 NOTIZEN**
 >
@@ -156,7 +156,7 @@ Und Abram nahm Sarai, seine Frau, und Lot, den Sohn seines Bruders, und all ihre
 
 ### **Vers 6**
 
-Und Abram durchzog das Land bis zum Ort Sichem (Sichem), zur Eiche von Moreh; und der Kanaani *war* damals im Land.
+Und Abram durchzog das Land bis zum Ort Shekhem (Sichem), zur Eiche von Moreh; und der Kanaani *war* damals im Land.
 
 > **📝 NOTIZEN**
 >
@@ -190,7 +190,7 @@ Und JHWH erschien dem Abram und sprach: „Deinem Samen werde ich dieses Land ge
 
 ### **Vers 8**
 
-Und er brach auf von dort zum Bergland östlich von Bethel (Bethel) und schlug sein Zelt auf — Bethel *war* im Westen und Ai *war* im Osten — und er baute dort einen Altar für JHWH und rief den Namen JHWHs an.
+Und er brach auf von dort zum Bergland östlich von Beyt-El (Bethel) und schlug sein Zelt auf — Bethel *war* im Westen und Ai *war* im Osten — und er baute dort einen Altar für JHWH und rief den Namen JHWHs an.
 
 > **📝 NOTIZEN**
 >
@@ -226,7 +226,7 @@ Und es war eine Hungersnot im Land, und Abram stieg hinab nach Ägypten, um dort
 > **📝 NOTIZEN**
 >
 > 🔴 **ERSTE HUNGERSNOT, ERSTER ABSTIEG NACH ÄGYPTEN**
-> - **וַיְהִי רָעָב בָּאָרֶץ** = „Und es war eine Hungersnot im Land." Erste Hungersnot in Genesis. Das verheißene Land kann Abram nicht ernähren. Die Ironie: Gott verheißt das Land (V.7), dann vertreibt Hungersnot ihn daraus. Dies wird ein Muster: Hungersnot treibt die Patriarchen (26:1, Isaak (Isaak); 42:1–2, Yaakobs Söhne).
+> - **וַיְהִי רָעָב בָּאָרֶץ** = „Und es war eine Hungersnot im Land." Erste Hungersnot in Genesis. Das verheißene Land kann Abram nicht ernähren. Die Ironie: Gott verheißt das Land (V.7), dann vertreibt Hungersnot ihn daraus. Dies wird ein Muster: Hungersnot treibt die Patriarchen (26:1, Yitschaq (Isaak); 42:1–2, Yaakobs Söhne).
 >
 > 🔵 **„STIEG HINAB" (*vayyered*)**
 > - **וַיֵּרֶד** = „und er stieg hinab." Ägypten ist immer „hinab" von Kanaan — geographisch und theologisch. *Yarad* (hinabsteigen) für das Gehen nach Ägypten; *alah* (hinaufsteigen) für die Rückkehr. Der erste Abstieg nach Ägypten schattiert den großen Abstieg vor (Yaakov, Gn 46) und den Exodus.

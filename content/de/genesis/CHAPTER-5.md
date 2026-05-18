@@ -45,13 +45,13 @@
 
 ## KAPITELÜBERSICHT
 
-**Was geschieht:** Die Geschlechterfolgen Adams — eine Zehn-Generationen-Genealogie von Adam bis Noah (Noah), strukturiert durch eine gesperrte Formel: „X lebte Y Jahre, zeugte Z, lebte W weitere Jahre, zeugte Söhne und Töchter, alle seine Tage waren N Jahre, und er starb." Zwei Einträge durchbrechen die Formel: Henoch (Henoch) („er war nicht, denn Gott nahm ihn") und Noah (dessen Eintrag in die Fluterzählung überleitet).
+**Was geschieht:** Die Geschlechterfolgen Adams — eine Zehn-Generationen-Genealogie von Adam bis Noach (Noah), strukturiert durch eine gesperrte Formel: „X lebte Y Jahre, zeugte Z, lebte W weitere Jahre, zeugte Söhne und Töchter, alle seine Tage waren N Jahre, und er starb." Zwei Einträge durchbrechen die Formel: Chanokh (Henoch) („er war nicht, denn Gott nahm ihn") und Noah (dessen Eintrag in die Fluterzählung überleitet).
 
-**Zentrale Themen:** Das *Sefer Toledot* (Buch der Geschlechterfolgen) — die einzige *Toledot* mit dem Präfix „Buch"; die Bild/Gleichheit-Kette (Gott → Adam → Set (Set)); der unablässige „und er starb"-Refrain; Henochs Entrückung — „wandelte mit Gott" und „war nicht"; Noahs Namensetymologie (*nacham*, Trost/Reue); außerordentliche Lebensspannen (365–969 Jahre).
+**Zentrale Themen:** Das *Sefer Toledot* (Buch der Geschlechterfolgen) — die einzige *Toledot* mit dem Präfix „Buch"; die Bild/Gleichheit-Kette (Gott → Adam → Shet (Set)); der unablässige „und er starb"-Refrain; Henochs Entrückung — „wandelte mit Gott" und „war nicht"; Noahs Namensetymologie (*nacham*, Trost/Reue); außerordentliche Lebensspannen (365–969 Jahre).
 
 **Achten Sie auf:** Henoch ist der Siebte von Adam (parallel zu Enmeduranki, dem siebten vorsintflutlichen König in sumerischer Tradition); Henoch lebt 365 Jahre (Sonnenjahreszahl, kürzeste in der Liste); Methusalems Todesjahr fällt nach der eigenen Arithmetik des Textes exakt mit dem Flutjahr zusammen; das Kapitel verwendet durchgehend *Elohim*, außer in V.29, wo Lamechs Rede JHWH nennt.
 
-**Verbindung:** Lamech (Lamech) benennt Noah mit einer Hoffnung, die an den verfluchten Boden geknüpft ist (5:29, als Echo von 3:17). Die Wurzel *nacham* in Noahs Namen taucht in 6:6 als göttliche „Reue" wieder auf — Trost und Reue teilen eine Wurzel.
+**Verbindung:** Lemekh (Lamech) benennt Noah mit einer Hoffnung, die an den verfluchten Boden geknüpft ist (5:29, als Echo von 3:17). Die Wurzel *nacham* in Noahs Namen taucht in 6:6 als göttliche „Reue" wieder auf — Trost und Reue teilen eine Wurzel.
 
 ---
 
@@ -61,7 +61,7 @@
 
 ---
 
-¹Dies *ist* das Buch der Geschlechterfolgen Adams. Am Tag, da Gott *einen* Menschen erschuf, in der Gleichheit Gottes machte er ihn. ²Männlich und weiblich erschuf er sie, und er segnete sie, und er nannte ihren Namen Mensch am Tag, da sie erschaffen wurden. ³Und Adam lebte einhundertunddreißig Jahre, und er zeugte in seiner Gleichheit, nach seinem Bild, und er nannte seinen Namen Set (Set). ⁴Und die Tage Adams nach *dem, als* er Set gezeugt hatte, waren achthundert Jahre, und er zeugte Söhne und Töchter. ⁵Und alle Tage Adams, die er lebte, waren neunhundertunddreißig Jahre, und er starb.
+¹Dies *ist* das Buch der Geschlechterfolgen Adams. Am Tag, da Gott *einen* Menschen erschuf, in der Gleichheit Gottes machte er ihn. ²Männlich und weiblich erschuf er sie, und er segnete sie, und er nannte ihren Namen Mensch am Tag, da sie erschaffen wurden. ³Und Adam lebte einhundertunddreißig Jahre, und er zeugte in seiner Gleichheit, nach seinem Bild, und er nannte seinen Namen Shet (Set). ⁴Und die Tage Adams nach *dem, als* er Set gezeugt hatte, waren achthundert Jahre, und er zeugte Söhne und Töchter. ⁵Und alle Tage Adams, die er lebte, waren neunhundertunddreißig Jahre, und er starb.
 
 ⁶Und Set lebte einhundertundfünf Jahre, und er zeugte Enosh. ⁷Und Set lebte, nachdem er Enosh gezeugt hatte, achthundertundsieben Jahre, und er zeugte Söhne und Töchter. ⁸Und alle Tage Sets waren neunhundertundzwölf Jahre, und er starb.
 
@@ -71,15 +71,15 @@
 
 ¹⁵Und Mahalalel lebte fünfundsechzig Jahre, und er zeugte Yered. ¹⁶Und Mahalalel lebte, nachdem er Yered gezeugt hatte, achthundertunddreißig Jahre, und er zeugte Söhne und Töchter. ¹⁷Und alle Tage Mahalalels waren achthundertundfünfundneunzig Jahre, und er starb.
 
-¹⁸Und Yered lebte einhundertzweiundsechzig Jahre, und er zeugte Henoch (Henoch). ¹⁹Und Yered lebte, nachdem er Henoch gezeugt hatte, achthundert Jahre, und er zeugte Söhne und Töchter. ²⁰Und alle Tage Yereds waren neunhundertzweiundsechzig Jahre, und er starb.
+¹⁸Und Yered lebte einhundertzweiundsechzig Jahre, und er zeugte Chanokh (Henoch). ¹⁹Und Yered lebte, nachdem er Henoch gezeugt hatte, achthundert Jahre, und er zeugte Söhne und Töchter. ²⁰Und alle Tage Yereds waren neunhundertzweiundsechzig Jahre, und er starb.
 
-²¹Und Henoch lebte fünfundsechzig Jahre, und er zeugte Methusalem (Methusalem). ²²Und Henoch wandelte mit Gott, nachdem er Methusalem gezeugt hatte, dreihundert Jahre, und er zeugte Söhne und Töchter. ²³Und alle Tage Henochs waren dreihundertundfünfundsechzig Jahre. ²⁴Und Henoch wandelte mit Gott, und er war nicht *mehr*, denn Gott nahm ihn.
+²¹Und Henoch lebte fünfundsechzig Jahre, und er zeugte Metushelach (Methusalem). ²²Und Henoch wandelte mit Gott, nachdem er Methusalem gezeugt hatte, dreihundert Jahre, und er zeugte Söhne und Töchter. ²³Und alle Tage Henochs waren dreihundertundfünfundsechzig Jahre. ²⁴Und Henoch wandelte mit Gott, und er war nicht *mehr*, denn Gott nahm ihn.
 
-²⁵Und Methusalem lebte einhundertsiebenundachtzig Jahre, und er zeugte Lamech (Lamech). ²⁶Und Methusalem lebte, nachdem er Lamech gezeugt hatte, siebenhundertzweiundachtzig Jahre, und er zeugte Söhne und Töchter. ²⁷Und alle Tage Methusalems waren neunhundertneunundsechzig Jahre, und er starb.
+²⁵Und Methusalem lebte einhundertsiebenundachtzig Jahre, und er zeugte Lemekh (Lamech). ²⁶Und Methusalem lebte, nachdem er Lamech gezeugt hatte, siebenhundertzweiundachtzig Jahre, und er zeugte Söhne und Töchter. ²⁷Und alle Tage Methusalems waren neunhundertneunundsechzig Jahre, und er starb.
 
-²⁸Und Lamech lebte einhundertzweiundachtzig Jahre, und er zeugte einen Sohn. ²⁹Und er nannte seinen Namen Noah (Noah), sprechend: „Dieser wird uns trösten von unserer Arbeit und von der Mühsal unserer Hände, vom Boden, den JHWH verflucht hat." ³⁰Und Lamech lebte, nachdem er Noah gezeugt hatte, fünfhundertfünfundneunzig Jahre, und er zeugte Söhne und Töchter. ³¹Und alle Tage Lamechs waren siebenhundertsiebenundsiebzig Jahre, und er starb.
+²⁸Und Lamech lebte einhundertzweiundachtzig Jahre, und er zeugte einen Sohn. ²⁹Und er nannte seinen Namen Noach (Noah), sprechend: „Dieser wird uns trösten von unserer Arbeit und von der Mühsal unserer Hände, vom Boden, den JHWH verflucht hat." ³⁰Und Lamech lebte, nachdem er Noah gezeugt hatte, fünfhundertfünfundneunzig Jahre, und er zeugte Söhne und Töchter. ³¹Und alle Tage Lamechs waren siebenhundertsiebenundsiebzig Jahre, und er starb.
 
-³²Und Noah war fünfhundert Jahre alt, und Noah zeugte Shem, Ham (Ham) und Yafet (Jafet).
+³²Und Noah war fünfhundert Jahre alt, und Noah zeugte Shem, Cham (Ham) und Yafet (Jafet).
 
 ---
 
@@ -98,7 +98,7 @@ Dies *ist* das Buch der Geschlechterfolgen Adams. Am Tag, da Gott *einen* Mensch
 > - **אָדָם** (*Adam*) — artikellos (ohne Artikel), genealogischer Kontext. Eigenname ab diesem Vers festgelegt (gemäß Redaktionsprotokoll Eintrag 081). Derselbe Vers verwendet dann „Mensch" (*adam*) generisch im Schöpfungserinnerungssatz: „am Tag, da Gott *einen* Menschen erschuf."
 >
 > 🔵 **BILD/GLEICHHEIT ERINNERT**
-> - „In der Gleichheit Gottes machte er ihn" — Echo von Gn 1:26–27. Verwendet *demut* (Gleichheit) und *asah* (machte). Querverweis zu V.3, wo die Sprache sich umkehrt: Adam zeugt Set (Set) „in seiner Gleichheit, nach seinem Bild."
+> - „In der Gleichheit Gottes machte er ihn" — Echo von Gn 1:26–27. Verwendet *demut* (Gleichheit) und *asah* (machte). Querverweis zu V.3, wo die Sprache sich umkehrt: Adam zeugt Shet (Set) „in seiner Gleichheit, nach seinem Bild."
 
 ---
 
@@ -140,7 +140,7 @@ Und alle Tage Adams, die er lebte, waren neunhundertunddreißig Jahre, und er st
 > **📝 NOTIZEN**
 >
 > 🔴 **„UND ER STARB" — DER REFRAIN**
-> - **וַיָּמֹת** (*vayyamot*) = „und er starb." Diese Wendung schließt jeden genealogischen Eintrag als **festgelegte Formel** (Regel 7). Sie wiederholt sich 8 Mal in diesem Kapitel (VV. 5, 8, 11, 14, 17, 20, 27, 31). Die EINE Ausnahme ist Henoch (Henoch) (V.24) — wo die Formel auffällig fehlt.
+> - **וַיָּמֹת** (*vayyamot*) = „und er starb." Diese Wendung schließt jeden genealogischen Eintrag als **festgelegte Formel** (Regel 7). Sie wiederholt sich 8 Mal in diesem Kapitel (VV. 5, 8, 11, 14, 17, 20, 27, 31). Die EINE Ausnahme ist Chanokh (Henoch) (V.24) — wo die Formel auffällig fehlt.
 >
 > 🟡 **930 JAHRE**
 > - Die Alter in diesem Kapitel sind nach modernen Maßstäben außergewöhnlich. Der Text stellt sie als Tatsache innerhalb seiner Erzählwelt dar. Die TT gibt sie ohne Harmonisierung oder Erklärung wieder — weder verteidigend noch erklärend. Die Studienbegleitdatei erörtert die Alter im Kontext (Abschnitt E, G).
@@ -239,7 +239,7 @@ Und alle Tage Yereds waren neunhundertzweiundsechzig Jahre, und er starb.
 
 ### **Vers 21**
 
-Und Henoch lebte fünfundsechzig Jahre, und er zeugte Methusalem (Methusalem).
+Und Henoch lebte fünfundsechzig Jahre, und er zeugte Metushelach (Methusalem).
 
 ---
 
@@ -250,7 +250,7 @@ Und Henoch wandelte mit Gott, nachdem er Methusalem gezeugt hatte, dreihundert J
 > **📝 NOTIZEN**
 >
 > 🔴 **„WANDELTE MIT GOTT" — FORMELBRUCH**
-> - Die Standardformel lautet „X lebte… und er zeugte." Bei Henoch verschiebt sich die Formel: „Henoch **wandelte mit Gott** (*vayyithalekh Henoch et-ha-Elohim*)." Dies durchbricht das Muster — das erste Mal, dass von jemandem gesagt wird, er „wandle mit" Gott. Die einzige andere Person, die diese Wendung erhält, ist Noah (Noah) (6:9).
+> - Die Standardformel lautet „X lebte… und er zeugte." Bei Henoch verschiebt sich die Formel: „Henoch **wandelte mit Gott** (*vayyithalekh Henoch et-ha-Elohim*)." Dies durchbricht das Muster — das erste Mal, dass von jemandem gesagt wird, er „wandle mit" Gott. Die einzige andere Person, die diese Wendung erhält, ist Noach (Noah) (6:9).
 >
 > 🔵 **„MIT GOTT" (ELOHIM, NICHT JHWH)**
 > - Hinweis: Henoch wandelt mit *Elohim*, nicht mit *JHWH*. Dieses Kapitel verwendet ausschließlich *Elohim*, außer in V.29 (Lamechs Rede erwähnt „den Boden, den JHWH verflucht hat"). Die Verteilung der Gottesnamen ist von Bedeutung.
@@ -284,7 +284,7 @@ Und Henoch wandelte mit Gott, und er war nicht *mehr*, denn Gott nahm ihn.
 
 ### **Vers 25**
 
-Und Methusalem lebte einhundertsiebenundachtzig Jahre, und er zeugte Lamech (Lamech).
+Und Methusalem lebte einhundertsiebenundachtzig Jahre, und er zeugte Lemekh (Lamech).
 
 ---
 
@@ -347,7 +347,7 @@ Und alle Tage Lamechs waren siebenhundertsiebenundsiebzig Jahre, und er starb.
 
 ### **Vers 32**
 
-Und Noah war fünfhundert Jahre alt, und Noah zeugte Shem, Ham (Ham) und Yafet (Jafet).
+Und Noah war fünfhundert Jahre alt, und Noah zeugte Shem, Cham (Ham) und Yafet (Jafet).
 
 > **📝 NOTIZEN**
 >

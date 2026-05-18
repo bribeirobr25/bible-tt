@@ -205,6 +205,17 @@ check_pattern_warn "0.10" "Modern-mapping smell-test in PEOPLE.md + CONTEXT.md (
   "\b(Russia|Europe|Africa|Asia|Slavic|Aryan|Caucasian|Hamitic|Japhetic peoples|Semitic peoples)\b" \
   "$PEOPLE_FILES $CONTEXT_FILES"
 
+# §0.11 — DE chapter redundant-parens regression check (warn-only)
+# Added 2026-05-18 alongside the DE familiar-names sweep (FEEDBACK item 35).
+# Catches Name (Name) identical-word patterns that violate the RULES-HB.md
+# §PROPER-NAME TABLE note as clarified in the v3.3.1 emergency amendment.
+# Scope is /content/de/ chapter files only — not study/, not GLOSSAR or
+# KAPITELÜBERGREIFENDE tables (those have different semantics; see plan).
+# Warn-only: etymological asides in notes may legitimately repeat names.
+check_pattern_warn "0.11" "DE chapter redundant-parens regression — see genesis.md Entry 2026-05-18-107 + RULES-HB.md v3.3.1 amendment" \
+  "([A-ZÄÖÜ][a-zäöüß']+) \(\1\)" \
+  "content/de/genesis/CHAPTER-*.md content/de/john/CHAPTER-*.md content/de/matthew/CHAPTER-*.md"
+
 # ============================================================
 # Legacy rules (pre-Phase 0)
 # ============================================================

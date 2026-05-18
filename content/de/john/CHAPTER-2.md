@@ -45,7 +45,7 @@
 
 ## KAPITELÜBERSICHT
 
-**Was geschieht:** Am dritten Tag besucht Jesus (Jesus) eine Hochzeit in Qanah in Galiläa, und die Mutter Jesu ist dort. Als der Wein ausgeht, sagt seine Mutter es ihm; er antwortet mit einer distanzierenden Wendung („Was mir und dir, Frau?") und erklärt, dass seine Stunde noch nicht gekommen sei. Seine Mutter sagt den Dienern, sie sollen tun, was er ihnen sage. Sechs steinerne Wasserkrüge, die für die Reinigungsriten der Jehudim bestimmt waren, werden mit Wasser gefüllt; als die Diener schöpfen und es dem Speisemeister bringen, ist es Wein geworden. Der Speisemeister, der die Herkunft nicht kennt, bemerkt, dass der gute Wein bis jetzt aufbewahrt wurde. Der Erzähler benennt dies als den Anfang der Zeichen und sagt, seine Nachfolger vertrauten auf ihn. Nach einem kurzen Aufenthalt in Kapernaum (Kapernaum) geht Jesus hinauf nach Jerusalem (Jerusalem) zum Pessach. Er findet jene, die Rinder, Schafe und Tauben im Tempelkomplex verkaufen, und die Geldwechsler sitzend. Er fertigt eine Peitsche aus Stricken, treibt sie alle hinaus und stößt die Tische um. Als die Jehudim ein Zeichen seiner Vollmacht fordern, antwortet er: „Reißt dieses Heiligtum nieder, und in drei Tagen werde ich es aufrichten." Sie wenden ein, dass das Heiligtum sechsundvierzig Jahre gebaut wurde. Der Erzähler erklärt rückblickend, dass er vom Heiligtum seines Leibes sprach. Das Kapitel endet damit, dass viele in Jerusalem auf seinen Namen vertrauten wegen der Zeichen, Jesus sich ihnen aber nicht anvertraute — weil er wusste, was im Menschen war.
+**Was geschieht:** Am dritten Tag besucht Yeshua (Jesus) eine Hochzeit in Qanah in Galiläa, und die Mutter Jesu ist dort. Als der Wein ausgeht, sagt seine Mutter es ihm; er antwortet mit einer distanzierenden Wendung („Was mir und dir, Frau?") und erklärt, dass seine Stunde noch nicht gekommen sei. Seine Mutter sagt den Dienern, sie sollen tun, was er ihnen sage. Sechs steinerne Wasserkrüge, die für die Reinigungsriten der Jehudim bestimmt waren, werden mit Wasser gefüllt; als die Diener schöpfen und es dem Speisemeister bringen, ist es Wein geworden. Der Speisemeister, der die Herkunft nicht kennt, bemerkt, dass der gute Wein bis jetzt aufbewahrt wurde. Der Erzähler benennt dies als den Anfang der Zeichen und sagt, seine Nachfolger vertrauten auf ihn. Nach einem kurzen Aufenthalt in Kfar Nachum (Kapernaum) geht Jesus hinauf nach Yerushalayim (Jerusalem) zum Pessach. Er findet jene, die Rinder, Schafe und Tauben im Tempelkomplex verkaufen, und die Geldwechsler sitzend. Er fertigt eine Peitsche aus Stricken, treibt sie alle hinaus und stößt die Tische um. Als die Jehudim ein Zeichen seiner Vollmacht fordern, antwortet er: „Reißt dieses Heiligtum nieder, und in drei Tagen werde ich es aufrichten." Sie wenden ein, dass das Heiligtum sechsundvierzig Jahre gebaut wurde. Der Erzähler erklärt rückblickend, dass er vom Heiligtum seines Leibes sprach. Das Kapitel endet damit, dass viele in Jerusalem auf seinen Namen vertrauten wegen der Zeichen, Jesus sich ihnen aber nicht anvertraute — weil er wusste, was im Menschen war.
 
 **Zentrale Themen:** Zeichen (*sēmeion*) als offenbarendes Handeln, nicht bloße Machtdemonstration; die „Stunde" (*hōra*), die noch nicht gekommen ist — ein Motiv, das sich durch das Evangelium bis 12,23 und 13,1 zieht; die Mutter Jesu (im Johannesevangelium unbenannt); der Tempel als umstrittener Raum; der Leib als Heiligtum; Jesu Kenntnis der menschlichen Natur; Vertrauen (*pistis*), das oberflächlich ist, gegenüber Vertrauen, das echt ist.
 
@@ -61,13 +61,13 @@
 
 ---
 
-¹Und am dritten Tag fand eine Hochzeit statt in Qanah in Galiläa, und die Mutter Jesu war dort. ²Und auch Jesus (Jesus) war eingeladen, und seine Nachfolger, zur Hochzeit. ³Und *als* der Wein ausging, sagt die Mutter Jesu zu ihm: „Sie haben keinen Wein." ⁴Und Jesus sagt zu ihr: „Was mir und dir, Frau? Meine Stunde ist noch nicht gekommen." ⁵Seine Mutter sagt zu den Dienern: „Was immer er euch sagt, tut *es*."
+¹Und am dritten Tag fand eine Hochzeit statt in Qanah in Galiläa, und die Mutter Jesu war dort. ²Und auch Yeshua (Jesus) war eingeladen, und seine Nachfolger, zur Hochzeit. ³Und *als* der Wein ausging, sagt die Mutter Jesu zu ihm: „Sie haben keinen Wein." ⁴Und Jesus sagt zu ihr: „Was mir und dir, Frau? Meine Stunde ist noch nicht gekommen." ⁵Seine Mutter sagt zu den Dienern: „Was immer er euch sagt, tut *es*."
 
 ⁶Es standen dort aber sechs steinerne Wasserkrüge, gemäß der Reinigung *der* Jehudim, *die* je zwei oder drei Maß fassten. ⁷Jesus sagt zu ihnen: „Füllt die Krüge mit Wasser." Und sie füllten sie bis oben. ⁸Und er sagt zu ihnen: „Schöpft nun und bringt *es* dem Speisemeister." Und sie brachten *es*. ⁹Und als der Speisemeister das Wasser kostete, *das* Wein geworden war — und nicht wusste, woher es war, aber die Diener, die das Wasser geschöpft hatten, wussten *es* — ruft der Speisemeister den Bräutigam ¹⁰und sagt zu ihm: „Jeder Mensch setzt den guten Wein zuerst vor, und wenn *sie* betrunken geworden sind, den geringeren. Du hast den guten Wein bis jetzt aufbewahrt."
 
-¹¹Diesen Anfang der Zeichen tat Jesus in Qanah in Galiläa und offenbarte seine Herrlichkeit, und seine Nachfolger vertrauten auf ihn. ¹²Danach ging er hinab nach Kapernaum (Kapernaum) — er und seine Mutter und seine Brüder und seine Nachfolger — und sie blieben dort nicht viele Tage.
+¹¹Diesen Anfang der Zeichen tat Jesus in Qanah in Galiläa und offenbarte seine Herrlichkeit, und seine Nachfolger vertrauten auf ihn. ¹²Danach ging er hinab nach Kfar Nachum (Kapernaum) — er und seine Mutter und seine Brüder und seine Nachfolger — und sie blieben dort nicht viele Tage.
 
-¹³Und das Pessach der Jehudim war nahe, und Jesus ging hinauf nach Jerusalem (Jerusalem). ¹⁴Und er fand im *Tempelkomplex* jene, die Rinder und Schafe und Tauben verkauften, und die Geldwechsler sitzend. ¹⁵Und *nachdem er* eine Peitsche aus Stricken gemacht hatte, trieb er sie alle aus dem *Tempelkomplex* hinaus, sowohl die Schafe als auch die Rinder, und er schüttete die Münzen der Geldwechsler aus und stieß die Tische um. ¹⁶Und zu den Taubenverkäufern sagte er: „Nehmt diese *Dinge* von hier weg; macht das Haus meines Vaters nicht zu einem Haus des Handels." ¹⁷Seine Nachfolger erinnerten sich, dass geschrieben steht: „Der Eifer um dein Haus wird mich verzehren."
+¹³Und das Pessach der Jehudim war nahe, und Jesus ging hinauf nach Yerushalayim (Jerusalem). ¹⁴Und er fand im *Tempelkomplex* jene, die Rinder und Schafe und Tauben verkauften, und die Geldwechsler sitzend. ¹⁵Und *nachdem er* eine Peitsche aus Stricken gemacht hatte, trieb er sie alle aus dem *Tempelkomplex* hinaus, sowohl die Schafe als auch die Rinder, und er schüttete die Münzen der Geldwechsler aus und stieß die Tische um. ¹⁶Und zu den Taubenverkäufern sagte er: „Nehmt diese *Dinge* von hier weg; macht das Haus meines Vaters nicht zu einem Haus des Handels." ¹⁷Seine Nachfolger erinnerten sich, dass geschrieben steht: „Der Eifer um dein Haus wird mich verzehren."
 
 ¹⁸Da antworteten die Jehudim und sagten zu ihm: „Was für ein Zeichen zeigst du uns, *angesichts dessen*, dass du diese Dinge tust?" ¹⁹Jesus antwortete und sagte zu ihnen: „Reißt dieses Heiligtum nieder, und in drei Tagen werde ich es aufrichten." ²⁰Da sagten die Jehudim: „Dieses Heiligtum wurde *in* sechsundvierzig Jahren erbaut, und du wirst es in drei Tagen aufrichten?" ²¹Er aber sprach vom Heiligtum seines Leibes. ²²Als er nun von *den* Toten auferweckt wurde, erinnerten sich seine Nachfolger, dass er dies gesagt hatte, und sie vertrauten der Schrift und dem Wort, das Jesus gesprochen hatte.
 
@@ -84,10 +84,10 @@ Und am dritten Tag fand eine Hochzeit statt in Qanah in Galiläa, und die Mutter
 > **📝 NOTIZEN**
 >
 > 🔵 **„AM DRITTEN TAG" — τῇ ἡμέρᾳ τῇ τρίτῃ**
-> - Der Ausdruck τῇ ἡμέρᾳ τῇ τρίτῃ (*tē hēmera tē tritē*) = „am dritten Tag." Gezählt vom letzten erzählten Ereignis in Kap. 1 (die Berufung von Philippus (Philippus) und Nathanael). Die akkumulierten Tagesmarkierungen in 1,29; 1,35; 1,43 und nun 2,1 erzeugen eine Abfolge, die ungefähr eine Woche umfasst — ein Echo der siebentägigen Schöpfungsstruktur von Gen 1. Ob dieses Echo beabsichtigt oder zufällig ist, wird diskutiert. Der Ausdruck „am dritten Tag" wird in V.19 mit anderer Bedeutung wiederkehren (die Auferstehungsankündigung).
+> - Der Ausdruck τῇ ἡμέρᾳ τῇ τρίτῃ (*tē hēmera tē tritē*) = „am dritten Tag." Gezählt vom letzten erzählten Ereignis in Kap. 1 (die Berufung von Philippos (Philippus) und Nathanael). Die akkumulierten Tagesmarkierungen in 1,29; 1,35; 1,43 und nun 2,1 erzeugen eine Abfolge, die ungefähr eine Woche umfasst — ein Echo der siebentägigen Schöpfungsstruktur von Gen 1. Ob dieses Echo beabsichtigt oder zufällig ist, wird diskutiert. Der Ausdruck „am dritten Tag" wird in V.19 mit anderer Bedeutung wiederkehren (die Auferstehungsankündigung).
 >
 > 🟢 **QANAH — TT-TRANSLITERATION**
-> - **Κανά** (*Kana*) = griechische Form des hebräischen/aramäischen קָנָה (*Qanah*). Die TT gibt die semitische Form wieder. Der Ort wird traditionell mit Kafr Kanna (nahe Nazareth (Nazareth)) oder Khirbet Qana (9 km nördlich von Nazareth) identifiziert. Archäologische Funde in Khirbet Qana umfassen ein großes Dorf mit Belegen jüdischer Besiedlung im ersten Jahrhundert u. Z. und späterer christlicher Wallfahrt zu einer Höhle, die als Ort des Zeichens verehrt wurde.
+> - **Κανά** (*Kana*) = griechische Form des hebräischen/aramäischen קָנָה (*Qanah*). Die TT gibt die semitische Form wieder. Der Ort wird traditionell mit Kafr Kanna (nahe Natseret (Nazareth)) oder Khirbet Qana (9 km nördlich von Nazareth) identifiziert. Archäologische Funde in Khirbet Qana umfassen ein großes Dorf mit Belegen jüdischer Besiedlung im ersten Jahrhundert u. Z. und späterer christlicher Wallfahrt zu einer Höhle, die als Ort des Zeichens verehrt wurde.
 >
 > 🟡 **„DIE MUTTER YESHUAS" — UNBENANNT**
 > - Das vierte Evangelium benennt Jesu Mutter nie namentlich. Sie erscheint hier und am Kreuz (19,25–27), wird aber nie „Miriam" oder „Maria" genannt. Der Text identifiziert sie relational — „die Mutter Jesu" — nicht persönlich. Ob diese Auslassung theologisch motiviert, kompositorisch zufällig oder Ausdruck einer Tradition ist, in der ihr persönlicher Name für die Erzählung nicht zentral war, ist aus dem Text allein nicht zu klären.
@@ -96,12 +96,12 @@ Und am dritten Tag fand eine Hochzeit statt in Qanah in Galiläa, und die Mutter
 
 ### **Vers 2**
 
-Und auch Jesus (Jesus) war eingeladen, und seine Nachfolger, zur Hochzeit.
+Und auch Yeshua (Jesus) war eingeladen, und seine Nachfolger, zur Hochzeit.
 
 > **📝 NOTIZEN**
 >
 > 🟢 **„NACHFOLGER" — μαθηταί (*mathētai*)**
-> - **μαθηταί** (*mathētai*) = Lernende, Schüler, Nachfolger. Der Begriff beschreibt jene, die einem Lehrer folgen, um zu lernen. An diesem Punkt der Erzählung (nach 1,35–51) hat Jesus mindestens fünf Nachfolger versammelt: Andreas, den unbenannten Nachfolger, Simon (Simon) Petrus (Petrus), Philippus und Nathanael.
+> - **μαθηταί** (*mathētai*) = Lernende, Schüler, Nachfolger. Der Begriff beschreibt jene, die einem Lehrer folgen, um zu lernen. An diesem Punkt der Erzählung (nach 1,35–51) hat Jesus mindestens fünf Nachfolger versammelt: Andreas, den unbenannten Nachfolger, Shimon (Simon) Kefa (Petrus), Philippus und Nathanael.
 
 ---
 
@@ -143,7 +143,7 @@ Seine Mutter sagt zu den Dienern: „Was immer er euch sagt, tut *es*."
 > **📝 NOTIZEN**
 >
 > 🔵 **ECHO VON GEN 41,55 — „TUT, WAS ER SAGT"**
-> - Die Anweisung der Mutter an die Diener — ὅ τι ἂν λέγῃ ὑμῖν ποιήσατε (*ho ti an legē hymin poiēsate*) — bildet ein Echo von Pharaos Anweisung bezüglich Josef (Josef) in Gen 41,55 LXX: πορεύεσθε πρὸς Ιωσηφ καὶ ὃ ἐὰν εἴπῃ ὑμῖν ποιήσατε („geht zu Josef, und was immer er euch sagt, tut *es*"). Ob das Echo beabsichtigt ist, wird diskutiert; die wörtliche Übereinstimmung ist eng genug, um vermerkt zu werden. In beiden Fällen weist eine autoritäre Figur Untergebene an, den Anweisungen desjenigen zu gehorchen, der versorgen wird.
+> - Die Anweisung der Mutter an die Diener — ὅ τι ἂν λέγῃ ὑμῖν ποιήσατε (*ho ti an legē hymin poiēsate*) — bildet ein Echo von Pharaos Anweisung bezüglich Yosef (Josef) in Gen 41,55 LXX: πορεύεσθε πρὸς Ιωσηφ καὶ ὃ ἐὰν εἴπῃ ὑμῖν ποιήσατε („geht zu Josef, und was immer er euch sagt, tut *es*"). Ob das Echo beabsichtigt ist, wird diskutiert; die wörtliche Übereinstimmung ist eng genug, um vermerkt zu werden. In beiden Fällen weist eine autoritäre Figur Untergebene an, den Anweisungen desjenigen zu gehorchen, der versorgen wird.
 >
 > 🟡 **DIE ROLLE DER MUTTER — MITTLERIN ODER AUSLÖSERIN?**
 > - Trotz Jesu distanzierender Antwort handelt die Mutter so, als würde die Bitte erfüllt werden. Der Text erklärt ihr Vertrauen nicht. Sie wiederholt weder ihre Bitte noch argumentiert sie — sie lenkt die Diener auf Jesu Autorität. Ihre erzählerische Rolle im Johannesevangelium ist auslösend (hier) und empfangend (am Kreuz, 19,26–27), nie lehrend.
@@ -239,7 +239,7 @@ Diesen Anfang der Zeichen tat Jesus in Qanah in Galiläa und offenbarte seine He
 
 ### **Vers 12**
 
-Danach ging er hinab nach Kapernaum (Kapernaum) — er und seine Mutter und seine Brüder und seine Nachfolger — und sie blieben dort nicht viele Tage.
+Danach ging er hinab nach Kfar Nachum (Kapernaum) — er und seine Mutter und seine Brüder und seine Nachfolger — und sie blieben dort nicht viele Tage.
 
 > **📝 NOTIZEN**
 >
@@ -256,7 +256,7 @@ Danach ging er hinab nach Kapernaum (Kapernaum) — er und seine Mutter und sein
 
 ### **Vers 13**
 
-Und das Pessach der Jehudim war nahe, und Jesus ging hinauf nach Jerusalem (Jerusalem).
+Und das Pessach der Jehudim war nahe, und Jesus ging hinauf nach Yerushalayim (Jerusalem).
 
 > **📝 NOTIZEN**
 >
@@ -438,7 +438,7 @@ und weil er nicht nötig hatte, dass jemand Zeugnis über den Menschen ablege �
 > - **τί ἦν ἐν τῷ ἀνθρώπῳ** = „was im Menschen war." Der Artikel **τῷ** (*tō*) ist generisch — „der Mensch" als Gattung, nicht eine bestimmte Person. Jesu Wissen beschränkt sich nicht auf bestimmte Einzelne; es erstreckt sich auf die menschliche Natur selbst. Die Aussage ist anthropologisch: er weiß, was Menschen sind. Das Kapitel, das mit einer Hochzeit begann, endet mit einer Aussage über die Unzuverlässigkeit der menschlichen Natur.
 >
 > 🟢 **„ZEUGNIS ABLEGEN" — μαρτυρήσῃ**
-> - **μαρτυρέω** (*martyreō*) = Zeugnis ablegen — dieselbe Wortfamilie, die in 1,7 für Johannes (Johannes)' Rolle eingeführt wurde. Jesus braucht keine äußeren Zeugen, die ihm von Menschen berichten — er weiß unmittelbar. Die juristische/Zeugnis-Sprache setzt sich fort.
+> - **μαρτυρέω** (*martyreō*) = Zeugnis ablegen — dieselbe Wortfamilie, die in 1,7 für Yochanan (Johannes)' Rolle eingeführt wurde. Jesus braucht keine äußeren Zeugen, die ihm von Menschen berichten — er weiß unmittelbar. Die juristische/Zeugnis-Sprache setzt sich fort.
 
 ---
 

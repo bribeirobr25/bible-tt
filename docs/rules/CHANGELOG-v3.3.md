@@ -62,3 +62,17 @@ These artifacts are preserved permanently as part of the Lock Protocol's documen
 - Hebraist sign-off: pending. None of the v3.3 additions modify HB-specific reasoning.
 - Locale-editor sign-off: pending per locale. The §Punctuation §P4 Spanish minimal-pair section and §P5 German section bear directly on locale practice; ES/DE editors should confirm.
 - Project lead sign-off: this changelog stands as the project lead's record of the Hybrid invocation.
+
+---
+
+## v3.3.1 emergency amendment — 2026-05-18
+
+- **Target:** RULES-HB.md §PROPER-NAME TABLE — GENESIS 1-12 (notes section).
+- **Path:** Emergency amendment per RULES-CORE.md §AMENDMENT & LOCK PROTOCOL — bug fix / audit-driven hardening, no signed-off verses affected, additive clarification only.
+- **Proposal artifact:** `docs/rules/proposals/v3.3.1-emergency-DE-name-rendering-clarification.md`.
+- **Change:** Appended a single bullet to the §PROPER-NAME TABLE notes clarifying that the no-parenthetical-needed rule applies bidirectionally for German. When `<Translit> == <DE Familiar>` (e.g., `Adam`, `David`, `Andreas`), the bare form is used throughout — no parens. When `<Translit> != <DE Familiar>` (e.g., `Avraham` / `Abraham`; `Yerushalayim` / `Jerusalem`; `Yeshua` / `Jesus`), the form is `<Translit> (<DE Familiar>)` at first occurrence per section, then `<DE Familiar>` thereafter. Never produce redundant `Name (Name)` where the parenthetical equals the leading word.
+- **Trigger:** FEEDBACK item 35 (STILL OPEN as of 2026-05-17 re-audit; resolved 2026-05-18 via `docs/audit/DE_FAMILIAR_NAMES_PLAN.md`).
+- **Content remediation:** 259 occurrences corrected across 17 DE chapter files + 1 study file in scope of sweep. 76 remaining occurrences in out-of-scope GLOSSAR + KAPITELÜBERGREIFENDE VERFOLGUNG tables left alone (table semantics differ from prose first-occurrence).
+- **Editorial-log entries:** `docs/editorial-log/genesis.md` Entry 2026-05-18-107 (anchor) + `docs/editorial-log/john.md` Entry J-026 + `docs/editorial-log/matthew.md` Entry M-025.
+- **Verification:** 819 tests pass (unchanged baseline); `pnpm build` clean; `pnpm content:lint` baseline clean; `pnpm lint` clean.
+- **Project lead sign-off:** approved 2026-05-18 via the Q1/Q2/Q3 decision lock recorded in `docs/audit/DE_FAMILIAR_NAMES_PLAN.md` §10.

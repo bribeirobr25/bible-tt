@@ -38,13 +38,13 @@
 - 🔵 **GRAMMATISCH** - Hebräische Struktur, Verbformen, Syntax
 - 🟡 **THEOLOGISCH** - Interpretationsoptionen, Ambiguitätsbewahrung
 
-**Dieses Kapitel enthält die Turmbauerzählung von Bavel (11:1–9) und die Genealogie Shems (11:10–32).** Die Bavel-Erzählung schließt die Urgeschichte mit einer zweiten Zerstreuung ab — die erste war geographisch (Kap. 10, Völkertafel); diese ist sprachlich. Das menschliche „lasst uns" (*havah*) von 11:3–4 echot Gottes „lasst uns" von 1:26 — aber auf Selbsterhöhung gerichtet. Die Genealogie überbrückt die Urgeschichte zu den Vätererzählungen: zehn Generationen von Shem zu Abram (Abram), mit sinkenden Lebensspannen von 600 auf 205. Terachs *Toledot* (11:27) führt Abram ein, und das Kapitel endet mitten in der Reise — die Familie verlässt Ur in Richtung Kanaan (Kanaan), hält aber in Charan an.
+**Dieses Kapitel enthält die Turmbauerzählung von Bavel (11:1–9) und die Genealogie Shems (11:10–32).** Die Bavel-Erzählung schließt die Urgeschichte mit einer zweiten Zerstreuung ab — die erste war geographisch (Kap. 10, Völkertafel); diese ist sprachlich. Das menschliche „lasst uns" (*havah*) von 11:3–4 echot Gottes „lasst uns" von 1:26 — aber auf Selbsterhöhung gerichtet. Die Genealogie überbrückt die Urgeschichte zu den Vätererzählungen: zehn Generationen von Shem zu Avram (Abram), mit sinkenden Lebensspannen von 600 auf 205. Terachs *Toledot* (11:27) führt Abram ein, und das Kapitel endet mitten in der Reise — die Familie verlässt Ur in Richtung Kenaan (Kanaan), hält aber in Charan an.
 
 ---
 
 ## KAPITELÜBERSICHT
 
-**Was geschieht:** Das ganze Land hat eine Lippe und ein *Satz von* Worten. Die Menschheit wandert ostwärts zur Ebene von Shinar, wo sie beschließen, eine Stadt und einen Turm mit seiner Spitze in den Himmeln zu bauen, um sich „einen Namen zu machen" und die Zerstreuung zu vermeiden. JHWH kommt herab, um die Stadt und den Turm zu sehen, stellt fest, dass „nichts ihnen verwehrt sein wird," verwirrt ihre Lippe und zerstreut sie — genau das Ergebnis, das sie fürchteten. Die Stadt wird Bavel genannt, denn dort verwirrte JHWH (*balal*) die Lippe des ganzen Landes. Dann verfolgt die Genealogie Shems zehn Generationen mit sinkenden Lebensspannen: Shem → Arpakhshad → Shelach → Ever → Peleg → Re'u → Serug → Nahor (Nahor) → Terach → Abram (Abram). Terachs *Toledot* führt Abram, Nahor und Haran ein; verzeichnet Harans Tod in Ur der Kasdim; vermerkt Sarais Unfruchtbarkeit; und endet damit, dass Terach die Familie von Ur in Richtung Kanaan (Kanaan) mitnimmt — aber sich in Charan niederlässt, wo Terach stirbt.
+**Was geschieht:** Das ganze Land hat eine Lippe und ein *Satz von* Worten. Die Menschheit wandert ostwärts zur Ebene von Shinar, wo sie beschließen, eine Stadt und einen Turm mit seiner Spitze in den Himmeln zu bauen, um sich „einen Namen zu machen" und die Zerstreuung zu vermeiden. JHWH kommt herab, um die Stadt und den Turm zu sehen, stellt fest, dass „nichts ihnen verwehrt sein wird," verwirrt ihre Lippe und zerstreut sie — genau das Ergebnis, das sie fürchteten. Die Stadt wird Bavel genannt, denn dort verwirrte JHWH (*balal*) die Lippe des ganzen Landes. Dann verfolgt die Genealogie Shems zehn Generationen mit sinkenden Lebensspannen: Shem → Arpakhshad → Shelach → Ever → Peleg → Re'u → Serug → Nachor (Nahor) → Terach → Avram (Abram). Terachs *Toledot* führt Abram, Nahor und Haran ein; verzeichnet Harans Tod in Ur der Kasdim; vermerkt Sarais Unfruchtbarkeit; und endet damit, dass Terach die Familie von Ur in Richtung Kenaan (Kanaan) mitnimmt — aber sich in Charan niederlässt, wo Terach stirbt.
 
 **Zentrale Themen:** Menschliche Einheit und göttliche Unterbrechung; das „lasst uns" der Menschheit (11:3–4) spiegelt und kehrt das „lasst uns" Gottes (1:26) um; die ironische Umkehr — sie bauen, um Zerstreuung zu vermeiden, und werden zerstreut; das Bavel/balal-Wortspiel; der Turm „in den Himmeln" (*ba-shamayim* — selbes Wort wie Gn 1:1); *Shem* (Name) sowohl als Ziel der Erbauer als auch als Eigenname Shem; die Genealogie als Brücke von der Urgeschichte zu den Vätererzählungen; sinkende Lebensspannen signalisieren eine veränderte Welt; Sarais Unfruchtbarkeit als narratives Problem, das Gn 12+ antreiben wird.
 
@@ -76,13 +76,13 @@
 
 ²⁰Und Re'u lebte zweiunddreißig Jahre, und er zeugte Serug. ²¹Und Re'u lebte, nachdem er Serug gezeugt hatte, zweihundertsieben Jahre, und er zeugte Söhne und Töchter.
 
-²²Und Serug lebte dreißig Jahre, und er zeugte Nahor (Nahor). ²³Und Serug lebte, nachdem er Nahor gezeugt hatte, zweihundert Jahre, und er zeugte Söhne und Töchter.
+²²Und Serug lebte dreißig Jahre, und er zeugte Nachor (Nahor). ²³Und Serug lebte, nachdem er Nahor gezeugt hatte, zweihundert Jahre, und er zeugte Söhne und Töchter.
 
 ²⁴Und Nahor lebte neunundzwanzig Jahre, und er zeugte Terach. ²⁵Und Nahor lebte, nachdem er Terach gezeugt hatte, hundertneunzehn Jahre, und er zeugte Söhne und Töchter.
 
-²⁶Und Terach lebte siebzig Jahre, und er zeugte Abram (Abram), Nahor und Haran.
+²⁶Und Terach lebte siebzig Jahre, und er zeugte Avram (Abram), Nahor und Haran.
 
-²⁷Und dies *sind* die Geschlechterfolgen Terachs. Terach zeugte Abram, Nahor und Haran; und Haran zeugte Lot. ²⁸Und Haran starb im Angesicht Terachs, seines Vaters, im Land seiner Geburt, in Ur der Kasdim. ²⁹Und Abram und Nahor nahmen sich Frauen; der Name der Frau Abrams *war* Sarai, und der Name der Frau Nahors *war* Milkah, Tochter Harans, des Vaters von Milkah und des Vaters von Yiskah. ³⁰Und Sarai war unfruchtbar; sie hatte kein Kind. ³¹Und Terach nahm Abram, seinen Sohn, und Lot, den Sohn Harans, seinen Enkel, und Sarai, seine Schwiegertochter, die Frau Abrams, seines Sohnes; und sie zogen mit ihnen aus von Ur der Kasdim, um in das Land Kanaan (Kanaan) zu gehen; und sie kamen bis Charan, und sie ließen sich dort nieder. ³²Und die Tage Terachs waren zweihundertfünf Jahre, und Terach starb in Charan.
+²⁷Und dies *sind* die Geschlechterfolgen Terachs. Terach zeugte Abram, Nahor und Haran; und Haran zeugte Lot. ²⁸Und Haran starb im Angesicht Terachs, seines Vaters, im Land seiner Geburt, in Ur der Kasdim. ²⁹Und Abram und Nahor nahmen sich Frauen; der Name der Frau Abrams *war* Sarai, und der Name der Frau Nahors *war* Milkah, Tochter Harans, des Vaters von Milkah und des Vaters von Yiskah. ³⁰Und Sarai war unfruchtbar; sie hatte kein Kind. ³¹Und Terach nahm Abram, seinen Sohn, und Lot, den Sohn Harans, seinen Enkel, und Sarai, seine Schwiegertochter, die Frau Abrams, seines Sohnes; und sie zogen mit ihnen aus von Ur der Kasdim, um in das Land Kenaan (Kanaan) zu gehen; und sie kamen bis Charan, und sie ließen sich dort nieder. ³²Und die Tage Terachs waren zweihundertfünf Jahre, und Terach starb in Charan.
 
 ---
 
@@ -256,7 +256,7 @@ Und Shem lebte, nachdem er Arpakhshad gezeugt hatte, fünfhundert Jahre, und er 
 > **📝 NOTIZEN**
 >
 > 🔵 **GENEALOGISCHE FORMEL — MODIFIZIERT**
-> - Die Gn-11-Formel unterscheidet sich von Gn 5: (1) keine Gesamtlebensspanne wird angegeben; (2) „und er starb" fehlt. Die Formel lautet: „X lebte Y Jahre, zeugte Z. X lebte nach der Zeugung von Z W Jahre, zeugte Söhne und Töchter." Die Verknappung signalisiert einen Übergang — der Erzähler bewegt sich auf Abram (Abram) zu.
+> - Die Gn-11-Formel unterscheidet sich von Gn 5: (1) keine Gesamtlebensspanne wird angegeben; (2) „und er starb" fehlt. Die Formel lautet: „X lebte Y Jahre, zeugte Z. X lebte nach der Zeugung von Z W Jahre, zeugte Söhne und Töchter." Die Verknappung signalisiert einen Übergang — der Erzähler bewegt sich auf Avram (Abram) zu.
 
 ---
 
@@ -337,7 +337,7 @@ Und Re'u lebte, nachdem er Serug gezeugt hatte, zweihundertsieben Jahre, und er 
 
 ### **Vers 22**
 
-Und Serug lebte dreißig Jahre, und er zeugte Nahor (Nahor).
+Und Serug lebte dreißig Jahre, und er zeugte Nachor (Nahor).
 
 ---
 
@@ -371,10 +371,10 @@ Und Terach lebte siebzig Jahre, und er zeugte Abram, Nahor und Haran.
 > **📝 NOTIZEN**
 >
 > 🔴 **KRITISCH — DREI SÖHNE**
-> - Das Muster echot Gn 5:32 („Noah (Noah)... zeugte Shem, Ham (Ham) und Yafet (Jafet)"). Beide Genealogien enden damit, dass ein Vater drei namentlich genannte Söhne hervorbringt. Noahs drei Söhne besiedelten die nachsintflutliche Welt; Terachs drei Söhne werden die Vätererzählungen bevölkern.
+> - Das Muster echot Gn 5:32 („Noach (Noah)... zeugte Shem, Cham (Ham) und Yafet (Jafet)"). Beide Genealogien enden damit, dass ein Vater drei namentlich genannte Söhne hervorbringt. Noahs drei Söhne besiedelten die nachsintflutliche Welt; Terachs drei Söhne werden die Vätererzählungen bevölkern.
 >
 > 🟢 **AVRAM (*Abram*)**
-> - **אַבְרָם** = Abram, Bedeutung „erhabener Vater." Noch nicht Abraham (Abraham) — die Namensänderung erfolgt bei Gn 17:5. Die TT gibt den Namen wieder, wie er an dieser Stelle im Text erscheint.
+> - **אַבְרָם** = Abram, Bedeutung „erhabener Vater." Noch nicht Avraham (Abraham) — die Namensänderung erfolgt bei Gn 17:5. Die TT gibt den Namen wieder, wie er an dieser Stelle im Text erscheint.
 
 ---
 
@@ -436,7 +436,7 @@ Und Sarai war unfruchtbar; sie hatte kein Kind.
 
 ### **Vers 31**
 
-Und Terach nahm Abram, seinen Sohn, und Lot, den Sohn Harans, seinen Enkel, und Sarai, seine Schwiegertochter, die Frau Abrams, seines Sohnes; und sie zogen mit ihnen aus von Ur der Kasdim, um in das Land Kanaan (Kanaan) zu gehen; und sie kamen bis Charan, und sie ließen sich dort nieder.
+Und Terach nahm Abram, seinen Sohn, und Lot, den Sohn Harans, seinen Enkel, und Sarai, seine Schwiegertochter, die Frau Abrams, seines Sohnes; und sie zogen mit ihnen aus von Ur der Kasdim, um in das Land Kenaan (Kanaan) zu gehen; und sie kamen bis Charan, und sie ließen sich dort nieder.
 
 > **📝 NOTIZEN**
 >

@@ -39,13 +39,13 @@
 - 🔵 **GRAMMATISCH** - Griechische Struktur, Verbaspekt, Syntax
 - 🟡 **THEOLOGISCH** - Interpretationsoptionen, Ambiguitätsbewahrung
 
-**Dieses Kapitel eröffnet das erste Buch in der Ordnung des griechischen Schriftenkanons.** Matthäus 1 beginnt nicht mit einem kosmologischen Prolog (wie bei Johannes), sondern mit einer Genealogie — einem *biblos geneseōs* („Buch der Genesis/des Ursprungs"), das eine Linie von Abraham (Abraham) über David bis Jesus (Jesus) nachzeichnet. Die Genealogie ist in drei Sätze von je vierzehn Generationen gegliedert. Vier Frauen werden genannt — Tamar, Rachav, Rut und die Frau des Uriyah — jede mit einem ungewöhnlichen oder überraschenden Eintritt in die Abstammungslinie. Eigennamen folgen der TT-Transliteration: Jesus, Josef (Josef), Maria (Maria), Abraham usw. Vertraute deutsche Formen werden beim ersten Vorkommen vermerkt. Der Geburtsbericht (V.18-25) führt die Jungfrau-/junge-Frau-Ambiguität aus Jesaja 7,14 ein. Das griechische *pneuma hagion* wird als „heiliger Wind/Geist" wiedergegeben nach dem gesperrten Glossar.
+**Dieses Kapitel eröffnet das erste Buch in der Ordnung des griechischen Schriftenkanons.** Matthäus 1 beginnt nicht mit einem kosmologischen Prolog (wie bei Johannes), sondern mit einer Genealogie — einem *biblos geneseōs* („Buch der Genesis/des Ursprungs"), das eine Linie von Avraham (Abraham) über David bis Yeshua (Jesus) nachzeichnet. Die Genealogie ist in drei Sätze von je vierzehn Generationen gegliedert. Vier Frauen werden genannt — Tamar, Rachav, Rut und die Frau des Uriyah — jede mit einem ungewöhnlichen oder überraschenden Eintritt in die Abstammungslinie. Eigennamen folgen der TT-Transliteration: Yeshua (Jesus), Yosef (Josef), Miryam (Maria), Avraham (Abraham) usw. Vertraute deutsche Formen werden beim ersten Vorkommen vermerkt. Der Geburtsbericht (V.18-25) führt die Jungfrau-/junge-Frau-Ambiguität aus Jesaja 7,14 ein. Das griechische *pneuma hagion* wird als „heiliger Wind/Geist" wiedergegeben nach dem gesperrten Glossar.
 
 ---
 
 ## KAPITELÜBERSICHT
 
-**Was geschieht:** Das Kapitel eröffnet mit einem genealogischen Verzeichnis (*biblos geneseōs*), das Jesu Abstammung über drei Sätze von je vierzehn Generationen nachzeichnet: von Abraham (Abraham) bis David, von David bis zum babylonischen Exil, und vom Exil bis zum Gesalbten. Die Genealogie folgt der männlichen Linie, nennt aber vier Frauen — Tamar, Rachav, Rut und die Frau des Uriyah — jede verbunden mit ungewöhnlichen oder irregulären Umständen. In V.16 wechselt das aktive Verb „zeugte" (*egennēsen*) zum Passiv „wurde geboren" (*egennēthē*): Jakob (Jakob) zeugte Josef (Josef), aber Jesus (Jesus) „wurde geboren" von Maria (Maria). Die zweite Hälfte (V.18-25) berichtet die Umstände von Jesu Geburt: Maria wird schwanger befunden vom heiligen Wind/Geist, bevor sie und Josef zusammenkommen. Josef, der gerecht ist, plant sie heimlich freizulassen. Ein Bote des Herrn erscheint ihm im Traum und weist ihn an, Maria als seine Frau zu nehmen und das Kind Jesus zu nennen, „denn er wird sein Volk retten von ihren Sünden." Der Erzähler rahmt dies als Erfüllung von Jesaja 7,14: „Siehe, die Jungfrau/junge Frau wird empfangen und einen Sohn gebären, und sie werden seinen Namen Immanu'el nennen" — „Gott mit uns." Josef gehorcht, benennt das Kind und erkennt Maria nicht, bis sie einen Sohn gebiert.
+**Was geschieht:** Das Kapitel eröffnet mit einem genealogischen Verzeichnis (*biblos geneseōs*), das Jesu Abstammung über drei Sätze von je vierzehn Generationen nachzeichnet: von Avraham (Abraham) bis David, von David bis zum babylonischen Exil, und vom Exil bis zum Gesalbten. Die Genealogie folgt der männlichen Linie, nennt aber vier Frauen — Tamar, Rachav, Rut und die Frau des Uriyah — jede verbunden mit ungewöhnlichen oder irregulären Umständen. In V.16 wechselt das aktive Verb „zeugte" (*egennēsen*) zum Passiv „wurde geboren" (*egennēthē*): Ya'aqov (Jakob) zeugte Yosef (Josef), aber Yeshua (Jesus) „wurde geboren" von Miryam (Maria). Die zweite Hälfte (V.18-25) berichtet die Umstände von Jesu Geburt: Maria wird schwanger befunden vom heiligen Wind/Geist, bevor sie und Josef zusammenkommen. Josef, der gerecht ist, plant sie heimlich freizulassen. Ein Bote des Herrn erscheint ihm im Traum und weist ihn an, Maria als seine Frau zu nehmen und das Kind Jesus zu nennen, „denn er wird sein Volk retten von ihren Sünden." Der Erzähler rahmt dies als Erfüllung von Jesaja 7,14: „Siehe, die Jungfrau/junge Frau wird empfangen und einen Sohn gebären, und sie werden seinen Namen Immanu'el nennen" — „Gott mit uns." Josef gehorcht, benennt das Kind und erkennt Maria nicht, bis sie einen Sohn gebiert.
 
 **Zentrale Themen:** Der *biblos geneseōs*-Widerhall von Genesis; die Drei-mal-vierzehn-Struktur als bewusste numerologische Gestaltung (Davids Name im Hebräischen = 4+6+4 = 14); die Aufnahme nicht-israelitischer und irregulärer Frauen in die messianische Linie; der Wechsel vom aktiven „zeugte" zum passiven „wurde geboren" in V.16; die Jungfrau/junge Frau (*parthenos*/*almah*)-Ambiguität im Jesaja-Zitat; die doppelte Benennung — Jesus („er rettet") und Immanu'el („Gott mit uns"); die JHWH-Engel-Tradition hinter *angelos kyriou*; Josef als Empfänger göttlicher Mitteilung durch Träume (Widerhall des Patriarchen Josef aus Genesis).
 
@@ -61,13 +61,13 @@
 
 ---
 
-¹*Das* Buch der Genesis des Jesus (Jesus), des Gesalbten, Sohn Davids, Sohn Abrahams.
+¹*Das* Buch der Genesis des Yeshua (Jesus), des Gesalbten, Sohn Davids, Sohn Abrahams.
 
-²Abraham (Abraham) zeugte Isaak (Isaak), und Isaak zeugte Jakob (Jakob), und Jakob zeugte Juda (Juda) und seine Brüder, ³und Juda zeugte Perets und Zerach von Tamar, und Perets zeugte Chetsron, und Chetsron zeugte Aram, ⁴und Aram zeugte Amminadav, und Amminadav zeugte Nachshon, und Nachshon zeugte Salmon, ⁵und Salmon zeugte Bo'az von Rachav, und Bo'az zeugte Oved von Rut, und Oved zeugte Yishai, ⁶und Yishai zeugte David, den König.
+²Avraham (Abraham) zeugte Yitschaq (Isaak), und Isaak zeugte Ya'aqov (Jakob), und Jakob zeugte Yehudah (Juda) und seine Brüder, ³und Juda zeugte Perets und Zerach von Tamar, und Perets zeugte Chetsron, und Chetsron zeugte Aram, ⁴und Aram zeugte Amminadav, und Amminadav zeugte Nachshon, und Nachshon zeugte Salmon, ⁵und Salmon zeugte Bo'az von Rachav, und Bo'az zeugte Oved von Rut, und Oved zeugte Yishai, ⁶und Yishai zeugte David, den König.
 
-Und David zeugte Salomo (Salomo) von der *Frau* des Uriyah, ⁷und Salomo zeugte Rechav'am, und Rechav'am zeugte Aviyah, und Aviyah zeugte Asa, ⁸und Asa zeugte Yehoshaphat, und Yehoshaphat zeugte Yoram, und Yoram zeugte Uzziyah, ⁹und Uzziyah zeugte Yotam, und Yotam zeugte Achaz, und Achaz zeugte Chizkiyahu, ¹⁰und Chizkiyahu zeugte Menasheh, und Menasheh zeugte Amon, und Amon zeugte Yoshiyahu, ¹¹und Yoshiyahu zeugte Yekhonyah und seine Brüder, *zur Zeit* des Exils nach Bavel.
+Und David zeugte Shelomoh (Salomo) von der *Frau* des Uriyah, ⁷und Salomo zeugte Rechav'am, und Rechav'am zeugte Aviyah, und Aviyah zeugte Asa, ⁸und Asa zeugte Yehoshaphat, und Yehoshaphat zeugte Yoram, und Yoram zeugte Uzziyah, ⁹und Uzziyah zeugte Yotam, und Yotam zeugte Achaz, und Achaz zeugte Chizkiyahu, ¹⁰und Chizkiyahu zeugte Menasheh, und Menasheh zeugte Amon, und Amon zeugte Yoshiyahu, ¹¹und Yoshiyahu zeugte Yekhonyah und seine Brüder, *zur Zeit* des Exils nach Bavel.
 
-¹²Und nach dem Exil nach Bavel zeugte Yekhonyah She'altiel, und She'altiel zeugte Zerubbavel, ¹³und Zerubbavel zeugte Avihud, und Avihud zeugte Elyaqim, und Elyaqim zeugte Azor, ¹⁴und Azor zeugte Tsadoq, und Tsadoq zeugte Yakhin, und Yakhin zeugte Elihud, ¹⁵und Elihud zeugte El'azar, und El'azar zeugte Mattan, und Mattan zeugte Jakob, ¹⁶und Jakob zeugte Josef (Josef), den Mann der Maria (Maria), von der geboren wurde Jesus, der *der* Gesalbte genannt wird.
+¹²Und nach dem Exil nach Bavel zeugte Yekhonyah She'altiel, und She'altiel zeugte Zerubbavel, ¹³und Zerubbavel zeugte Avihud, und Avihud zeugte Elyaqim, und Elyaqim zeugte Azor, ¹⁴und Azor zeugte Tsadoq, und Tsadoq zeugte Yakhin, und Yakhin zeugte Elihud, ¹⁵und Elihud zeugte El'azar, und El'azar zeugte Mattan, und Mattan zeugte Jakob, ¹⁶und Jakob zeugte Yosef (Josef), den Mann der Miryam (Maria), von der geboren wurde Jesus, der *der* Gesalbte genannt wird.
 
 ¹⁷So sind alle Geschlechter von Abraham bis David vierzehn Geschlechter, und von David bis zum Exil nach Bavel vierzehn Geschlechter, und vom Exil nach Bavel bis zum Gesalbten vierzehn Geschlechter.
 
@@ -83,7 +83,7 @@ Und David zeugte Salomo (Salomo) von der *Frau* des Uriyah, ⁷und Salomo zeugte
 
 ### **Vers 1**
 
-*Das* Buch der Genesis des Jesus (Jesus), des Gesalbten, Sohn Davids, Sohn Abrahams.
+*Das* Buch der Genesis des Yeshua (Jesus), des Gesalbten, Sohn Davids, Sohn Abrahams.
 
 > **Notizen**
 >
@@ -97,7 +97,7 @@ Und David zeugte Salomo (Salomo) von der *Frau* des Uriyah, ⁷und Salomo zeugte
 > - **Ἰησοῦς** (*Iēsous*) = griechische Form des hebräischen **Jesus** (*Jesus*, „er rettet" / Kurzform von Yehoshua). Die TT verwendet die hebräisch-aramäische Form. Die Etymologie wird in V.21 bedeutsam („er wird sein Volk retten"). Vertraut: Jesus.
 >
 > 🟡 **„SOHN DAVIDS, SOHN AVRAHAMS" — DOPPELTER ABSTAMMUNGSANSPRUCH**
-> - Die Reihenfolge ist umgekehrt-chronologisch: David zuerst (königlich/messianisch), dann Abraham (Abraham) (bundesbezogen). Die Genealogie wird Abraham-bis-David (V.2-6) und David-bis-Jesus (V.6-16) nachzeichnen und beide Ansprüche bestätigen. „Sohn Davids" ist der primäre messianische Titel in jüdischer Erwartung (2 Sam 7,12-16, Jes 11,1, Jer 23,5). „Sohn Abrahams" verwurzelt Jesus im Abrahamischen Bund (Gen 12,1-3, 22,18).
+> - Die Reihenfolge ist umgekehrt-chronologisch: David zuerst (königlich/messianisch), dann Avraham (Abraham) (bundesbezogen). Die Genealogie wird Abraham-bis-David (V.2-6) und David-bis-Jesus (V.6-16) nachzeichnen und beide Ansprüche bestätigen. „Sohn Davids" ist der primäre messianische Titel in jüdischer Erwartung (2 Sam 7,12-16, Jes 11,1, Jer 23,5). „Sohn Abrahams" verwurzelt Jesus im Abrahamischen Bund (Gen 12,1-3, 22,18).
 >
 > 🟢 **AVRAHAM — TT-TRANSLITERATION**
 > - **Ἀβραάμ** (*Abraam*) = griechische Form des hebräischen **Abraham** (*Abraham*, „Vater einer Menge", Gen 17,5). Vertraute deutsche Form: Abraham.
@@ -106,7 +106,7 @@ Und David zeugte Salomo (Salomo) von der *Frau* des Uriyah, ⁷und Salomo zeugte
 
 ### **Vers 2**
 
-Abraham zeugte Isaak (Isaak), und Isaak zeugte Jakob (Jakob), und Jakob zeugte Juda (Juda) und seine Brüder,
+Abraham zeugte Yitschaq (Isaak), und Isaak zeugte Ya'aqov (Jakob), und Jakob zeugte Yehudah (Juda) und seine Brüder,
 
 > **Notizen**
 >
@@ -166,7 +166,7 @@ und Salmon zeugte Bo'az von Rachav, und Bo'az zeugte Oved von Rut, und Oved zeug
 
 und Yishai zeugte David, den König.
 
-Und David zeugte Salomo (Salomo) von der *Frau* des Uriyah,
+Und David zeugte Shelomoh (Salomo) von der *Frau* des Uriyah,
 
 > **Notizen**
 >
@@ -279,13 +279,13 @@ und Elihud zeugte El'azar, und El'azar zeugte Mattan, und Mattan zeugte Jakob,
 > **Notizen**
 >
 > 🔵 **ANNÄHERUNG AN DEN HÖHEPUNKT**
-> - Die letzten drei Generationen vor Josef (Josef). Der Name Jakob spiegelt den Patriarchen — das letzte „zeugte" bevor das Muster in V.16 bricht.
+> - Die letzten drei Generationen vor Yosef (Josef). Der Name Jakob spiegelt den Patriarchen — das letzte „zeugte" bevor das Muster in V.16 bricht.
 
 ---
 
 ### **Vers 16**
 
-und Jakob zeugte Josef, den Mann der Maria (Maria), von der geboren wurde Jesus, der *der* Gesalbte genannt wird.
+und Jakob zeugte Josef, den Mann der Miryam (Maria), von der geboren wurde Jesus, der *der* Gesalbte genannt wird.
 
 > **Notizen**
 >
@@ -430,7 +430,7 @@ und er erkannte sie nicht, bis sie einen Sohn gebar; und er nannte seinen Namen 
 > **Notizen**
 >
 > 🟡 **„ERKANNTE SIE NICHT" — SEXUELLER EUPHEMISMUS**
-> - **οὐκ ἐγίνωσκεν αὐτήν** (*ouk eginōsken autēn*) = „er erkannte sie nicht" — Imperfekt, andauernder Zustand. Das Verb γινώσκω (*ginōskō*, „erkennen") trägt hier den semitischen sexuellen Sinn (vgl. Gen 4,1 LXX, „Adam erkannte Eva (Eva), seine Frau"). Das Imperfekt beschreibt einen andauernden Zustand, der „bis" (*heōs hou*) zur Geburt eines Sohnes dauerte.
+> - **οὐκ ἐγίνωσκεν αὐτήν** (*ouk eginōsken autēn*) = „er erkannte sie nicht" — Imperfekt, andauernder Zustand. Das Verb γινώσκω (*ginōskō*, „erkennen") trägt hier den semitischen sexuellen Sinn (vgl. Gen 4,1 LXX, „Adam erkannte Chava (Eva), seine Frau"). Das Imperfekt beschreibt einen andauernden Zustand, der „bis" (*heōs hou*) zur Geburt eines Sohnes dauerte.
 >
 > 🔴 **KRITISCH — „BIS" (*HEŌS HOU*) — WAS GESCHIEHT DANACH?**
 > - **ἕως οὗ** (*heōs hou*) = „bis." Ob das „bis" impliziert, dass Josef Maria danach erkannte, ist grammatisch umstritten — in einigen Konstruktionen bestimmt es nur den betrachteten Zeitraum ohne Änderung danach (vgl. Mt 28,20), in anderen impliziert es Veränderung. Der Text löst dies nicht auf; die TT löst es ebenfalls nicht auf. Für ausführlichere Diskussion der grammatischen Frage und ihrer theologischen Verwendung in der Auslegungsgeschichte siehe Begleitmaterial Abschnitt F.

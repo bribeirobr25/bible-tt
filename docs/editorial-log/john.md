@@ -421,3 +421,18 @@ This log records consistency decisions, justified exceptions, text-critical choi
 - **Status:** provisional.
 - **Reviewers:** EN editor unassigned; PT-BR editor unassigned; DE editor unassigned; ES editor unassigned; Hellenist unassigned (for the P52/P66/P75 paleographic-dating treatment); Classicist unassigned (for the Arrian/Tacitus comparative dating + Bosworth/Goodyear citation accuracy).
 - **Cross-references:** `docs/audit/POSSIBLE_CONTENT_BUNDLE_PLAN.md` (plan with Q1–Q5 locked + Q-C1/Q-C2/Q-C3 prerequisites discharged); `docs/audit/STEP_3_PREREQUISITES_DRAFT.md` (project-lead-approved drafts for prerequisites (a)/(b)/(c)); `docs/audit/AUDIT_POSSIBLE_CONTENT_BUNDLE_PLAN.md` (v1 audit absorbed pre-execution); `docs/audit/AUDIT_POSSIBLE_CONTENT_BUNDLE_PLAN_v2.md` (v2 architecture audit absorbed pre-execution); `docs/feedback/possible-content.md` Topic 5 (source, with apologetic framing rejected); `docs/editorial-log/matthew.md` Entry M-023 (sister entry — parallel addition to matthew/INTRODUCTION.md); `content/{en,pt-br,de,es}/john/INTRODUCTION.md` §E5 + §G (the four files patched).
+
+---
+
+## Entry J-026 — DE John redundant-parens sweep (sister entry; v3.3.1 emergency amendment)
+
+- **Verse:** John 1-3 (DE locale chapter files + `de/john/study/CHAPTER-1-CONTEXT.md:183`). Naming-policy decision; no per-verse translation decision.
+- **Language(s) affected:** DE only (PT-BR, EN, ES already-compliant).
+- **Rule(s) invoked:** see anchor entry `docs/editorial-log/genesis.md` Entry 2026-05-18-107 — same rule set (CORE Rule 17, RULES-HB.md §PROPER-NAME TABLE notes per v3.3.1 amendment, RULES-GS.md §PROPER-NAME TABLE — GREEK SCRIPTURES, RULES-CORE.md §AMENDMENT & LOCK PROTOCOL, Rule 28).
+- **Decision:** DE John CHAPTER-{1,2,3}.md had 82 redundant-parens occurrences (44+21+17 pre-sweep). Per the anchor entry's Q1=Hybrid policy, the sweep converted first-section-occurrence `Name (Name)` → `<Translit> (<Name>)` (e.g., `Jesus (Jesus)` → `Yeshua (Jesus)`, `Johannes (Johannes)` → `Yochanan (Johannes)`, `Petrus (Petrus)` → `Kefa (Petrus)`, `Philippus (Philippus)` → `Philippos (Philippus)`, `Jerusalem (Jerusalem)` → `Yerushalayim (Jerusalem)`, `Mose (Mose)` → `Mosheh (Mose)`, `Nikodemus (Nikodemus)` → `Nikodemos (Nikodemus)`, `Jesaja (Jesaja)` → `Yeshayahu (Jesaja)`, `Kapernaum (Kapernaum)` → `Kfar Nachum (Kapernaum)`, etc.) and subsequent-occurrence `Name (Name)` → bare `Name`. The 1 stray occurrence in `de/john/study/CHAPTER-1-CONTEXT.md:183` (`Nazareth (Nazareth)`) was also swept (Class A → `Natseret (Nazareth)`). DE John CHAPTER-{1,2,3} overviews were already correctly written (`Eigennamen folgen der TT-Transliteration: Yochanan (Johannes), Yeshua (Jesus), Kefa (Petrus), Philippos (Philippus), Nathanael, Andreas.`) and required no overview-text correction — the body now matches the overview's stated policy.
+- **Alternatives considered:** see anchor entry.
+- **Justification:** see anchor entry.
+- **AI provenance:** see anchor entry.
+- **Status:** provisional.
+- **Reviewers:** DE editor unassigned (DE John 1-3 verification); Hellenist unassigned (the GS-source transliteration choices Yeshua/Yochanan/Kefa/Philippos/Nikodemos/Yeshayahu — all confirmed against RULES-GS.md proper-name table). Project lead: approved 2026-05-18 via Q1/Q2/Q3 decision lock.
+- **Cross-references:** `docs/editorial-log/genesis.md` Entry 2026-05-18-107 (anchor); `docs/editorial-log/matthew.md` Entry M-025 (sister); `docs/audit/DE_FAMILIAR_NAMES_PLAN.md`; `docs/audit/AUDIT_DE_FAMILIAR_NAMES_PLAN.md`; `docs/audit/DE_FAMILIAR_NAMES_CLASSIFICATION.md`; `docs/rules/proposals/v3.3.1-emergency-DE-name-rendering-clarification.md`; `content/de/john/CHAPTER-{1,2,3}.md` + `content/de/john/study/CHAPTER-1-CONTEXT.md` (the four files swept).

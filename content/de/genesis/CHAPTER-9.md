@@ -39,11 +39,11 @@
 - 🔵 **GRAMMATISCH** - Hebräische Struktur, Verbformen, Syntax
 - 🟡 **THEOLOGISCH** - Interpretationsoptionen, Ambiguitätsbewahrung
 
-**Dieses Kapitel enthält den nachsintflutlichen Bund, das Blutverbot und den Ham (Ham)/Kanaan (Kanaan)-Vorfall.** Der Segen von 9:1 echot Gn 1:28. Der Bund (9:8–17) ist der erste vollständig offenbarte *Berit*, mit dem Bogen (*Qesheth*) als Zeichen. Noahs erste aufgezeichnete Rede (9:25–27) — nach Kapiteln des Schweigens — ist ein Fluch. Der Text sagt, Ham „sah die Blöße seines Vaters"; die TT gibt wieder, was der Text sagt, nicht was er bedeuten könnte.
+**Dieses Kapitel enthält den nachsintflutlichen Bund, das Blutverbot und den Cham (Ham)/Kenaan (Kanaan)-Vorfall.** Der Segen von 9:1 echot Gn 1:28. Der Bund (9:8–17) ist der erste vollständig offenbarte *Berit*, mit dem Bogen (*Qesheth*) als Zeichen. Noahs erste aufgezeichnete Rede (9:25–27) — nach Kapiteln des Schweigens — ist ein Fluch. Der Text sagt, Ham „sah die Blöße seines Vaters"; die TT gibt wieder, was der Text sagt, nicht was er bedeuten könnte.
 
 ## KAPITELÜBERSICHT
 
-**Was geschieht:** Gott segnet Noahs Familie mit einem erneuerten Schöpfungsauftrag — aber verändert: „Furcht und Schrecken" ersetzt Herrschaft, Fleischessen wird mit einem Blutverbot erlaubt, und Mord wird mit Rechenschaftspflicht beantwortet. Gott richtet einen Bund mit allem Lebendigen auf und setzt den Bogen (*Qesheth* — eine Waffe) in die Wolken als dessen Zeichen. Noah (Noah) pflanzt einen Weinberg, trinkt Wein und liegt entblößt da. Ham (Ham) sieht die Blöße seines Vaters; Shem und Yafet (Jafet) bedecken ihn, ohne hinzuschauen. Noah erwacht, verflucht Kanaan (Kanaan) (nicht Ham) und segnet Shem und Jafet. Noah stirbt mit 950 Jahren.
+**Was geschieht:** Gott segnet Noahs Familie mit einem erneuerten Schöpfungsauftrag — aber verändert: „Furcht und Schrecken" ersetzt Herrschaft, Fleischessen wird mit einem Blutverbot erlaubt, und Mord wird mit Rechenschaftspflicht beantwortet. Gott richtet einen Bund mit allem Lebendigen auf und setzt den Bogen (*Qesheth* — eine Waffe) in die Wolken als dessen Zeichen. Noach (Noah) pflanzt einen Weinberg, trinkt Wein und liegt entblößt da. Cham (Ham) sieht die Blöße seines Vaters; Shem und Yafet (Jafet) bedecken ihn, ohne hinzuschauen. Noah erwacht, verflucht Kenaan (Kanaan) (nicht Ham) und segnet Shem und Jafet. Noah stirbt mit 950 Jahren.
 
 **Zentrale Themen:** Neu-Schöpfung mit Veränderung (1:28 vs. 9:1–7 — gleiche Worte, andere Welt); Blut = *Nephesh* (Lebenskraft); das *Tselem* (Bild Gottes) überdauert die Flut als Grundlage der Menschenwürde; der einseitige, universale Bund mit allem Lebendigen; der Bogen (*Qesheth*) als abgelegte Waffe; die Zeltszene — Ehre-/Scham-Kultur; der Fluch trifft Kanaan, nicht den Täter Ham; Noahs erste Worte sind ein Fluch.
 
@@ -59,17 +59,17 @@
 
 ---
 
-¹Und Gott segnete Noah (Noah) und seine Söhne und sprach zu ihnen: „Seid fruchtbar und mehrt euch und füllt das Land. ²Und die Furcht vor euch und der Schrecken vor euch soll sein auf jedem Lebewesen des Landes und auf jedem Vogel des Himmels, in allem, womit der Boden wimmelt, und in allen Fischen des Meeres; in eure Hand sind sie gegeben. ³Jedes Sich-Bewegende, das lebendig *ist*, soll euch zur Speise sein; wie die grüne Pflanze habe ich euch alles gegeben. ⁴Nur Fleisch mit seinem Leben — seinem Blut — sollt ihr nicht essen. ⁵Und gewiss, euer Blut eurer Leben werde ich fordern; von der Hand jedes Lebewesens werde ich es fordern, und von der Hand des Menschen, von der Hand eines Mannes, seines Bruders, werde ich das Leben des Menschen fordern. ⁶Wer das Blut des Menschen vergießt, durch den Menschen soll sein Blut vergossen werden, denn im Bild Gottes machte er den Menschen. ⁷Und ihr, seid fruchtbar und mehrt euch, wimmelt auf dem Land und mehrt euch darauf."
+¹Und Gott segnete Noach (Noah) und seine Söhne und sprach zu ihnen: „Seid fruchtbar und mehrt euch und füllt das Land. ²Und die Furcht vor euch und der Schrecken vor euch soll sein auf jedem Lebewesen des Landes und auf jedem Vogel des Himmels, in allem, womit der Boden wimmelt, und in allen Fischen des Meeres; in eure Hand sind sie gegeben. ³Jedes Sich-Bewegende, das lebendig *ist*, soll euch zur Speise sein; wie die grüne Pflanze habe ich euch alles gegeben. ⁴Nur Fleisch mit seinem Leben — seinem Blut — sollt ihr nicht essen. ⁵Und gewiss, euer Blut eurer Leben werde ich fordern; von der Hand jedes Lebewesens werde ich es fordern, und von der Hand des Menschen, von der Hand eines Mannes, seines Bruders, werde ich das Leben des Menschen fordern. ⁶Wer das Blut des Menschen vergießt, durch den Menschen soll sein Blut vergossen werden, denn im Bild Gottes machte er den Menschen. ⁷Und ihr, seid fruchtbar und mehrt euch, wimmelt auf dem Land und mehrt euch darauf."
 
 ⁸Und Gott sprach zu Noah und zu seinen Söhnen mit ihm und sagte: ⁹„Und ich, siehe, ich *bin am* Aufrichten meines Bundes mit euch und mit eurem Samen nach euch, ¹⁰und mit jedem lebenden Wesen, das mit euch *ist* — dem Vogel, dem Vieh, und jedem Lebewesen des Landes mit euch — von allem, was aus der Tebah ging, bis zu jedem Lebewesen des Landes. ¹¹Und ich werde meinen Bund mit euch aufrichten, und alles Fleisch soll nicht wieder abgeschnitten werden durch die Wasser der Flut, und es soll nicht wieder eine Flut sein, um das Land zu vernichten."
 
 ¹²Und Gott sprach: „Dies *ist* das Zeichen des Bundes, den ich gebe zwischen mir und zwischen euch und zwischen jedem lebenden Wesen, das mit euch *ist*, für Geschlechter der Ewigkeit: ¹³Meinen Bogen habe ich gesetzt in die Wolke, und er soll sein zum Zeichen des Bundes zwischen mir und zwischen dem Land. ¹⁴Und es soll sein, wenn ich Wolken bringe über das Land und der Bogen in der Wolke erscheint, ¹⁵und ich werde meines Bundes gedenken, der zwischen mir und zwischen euch und zwischen jedem lebenden Wesen in allem Fleisch *ist*, und die Wasser sollen nicht wieder zu einer Flut werden, um alles Fleisch zu vernichten. ¹⁶Und der Bogen soll in der Wolke sein, und ich werde ihn sehen, um des Bundes der Ewigkeit zu gedenken zwischen Gott und zwischen jedem lebenden Wesen in allem Fleisch, das auf dem Land *ist*." ¹⁷Und Gott sprach zu Noah: „Dies *ist* das Zeichen des Bundes, den ich aufgerichtet habe zwischen mir und zwischen allem Fleisch, das auf dem Land *ist*."
 
-¹⁸Und die Söhne Noahs, die aus der Tebah gingen, waren Shem und Ham (Ham) und Yafet (Jafet); und Ham *ist* der Vater Kanaans. ¹⁹Diese drei *sind* die Söhne Noahs, und von diesen breitete sich das ganze Land aus.
+¹⁸Und die Söhne Noahs, die aus der Tebah gingen, waren Shem und Cham (Ham) und Yafet (Jafet); und Ham *ist* der Vater Kanaans. ¹⁹Diese drei *sind* die Söhne Noahs, und von diesen breitete sich das ganze Land aus.
 
 ²⁰Und Noah begann *als* ein Mann des Bodens und pflanzte einen Weinberg. ²¹Und er trank vom Wein und wurde betrunken, und er entblößte sich in der Mitte seines Zeltes. ²²Und Ham, der Vater Kanaans, sah die Blöße seines Vaters, und er berichtete *es* seinen zwei Brüdern draußen. ²³Und Shem und Jafet nahmen das Gewand und legten *es* auf die Schulter ihrer beider, und sie gingen rückwärts, und sie bedeckten die Blöße ihres Vaters; und ihre Gesichter *waren* rückwärts, und die Blöße ihres Vaters sahen sie nicht.
 
-²⁴Und Noah erwachte von seinem Wein, und er erkannte, was sein jüngster Sohn ihm getan hatte. ²⁵Und er sprach: „Verflucht *sei* Kanaan (Kanaan); ein Knecht der Knechte soll er sein seinen Brüdern." ²⁶Und er sprach: „Gesegnet *sei* JHWH, Gott Shems, und Kanaan sei ein Knecht ihnen. ²⁷Gott mache weit den Jafet, und er wohne in den Zelten Shems, und Kanaan sei ein Knecht ihnen."
+²⁴Und Noah erwachte von seinem Wein, und er erkannte, was sein jüngster Sohn ihm getan hatte. ²⁵Und er sprach: „Verflucht *sei* Kenaan (Kanaan); ein Knecht der Knechte soll er sein seinen Brüdern." ²⁶Und er sprach: „Gesegnet *sei* JHWH, Gott Shems, und Kanaan sei ein Knecht ihnen. ²⁷Gott mache weit den Jafet, und er wohne in den Zelten Shems, und Kanaan sei ein Knecht ihnen."
 
 ²⁸Und Noah lebte nach der Flut dreihundertfünfzig Jahre. ²⁹Und alle Tage Noahs waren neunhundertfünfzig Jahre, und er starb.
 
@@ -79,7 +79,7 @@
 
 ### **Vers 1**
 
-Und Gott segnete Noah (Noah) und seine Söhne und sprach zu ihnen: „Seid fruchtbar und mehrt euch und füllt das Land.
+Und Gott segnete Noach (Noah) und seine Söhne und sprach zu ihnen: „Seid fruchtbar und mehrt euch und füllt das Land.
 
 > **📝 NOTIZEN**
 >
@@ -259,12 +259,12 @@ Und Gott sprach zu Noah: „Dies *ist* das Zeichen des Bundes, den ich aufgerich
 
 ### **Vers 18**
 
-Und die Söhne Noahs, die aus der Tebah gingen, waren Shem und Ham (Ham) und Yafet (Jafet); und Ham *ist* der Vater Kanaans.
+Und die Söhne Noahs, die aus der Tebah gingen, waren Shem und Cham (Ham) und Yafet (Jafet); und Ham *ist* der Vater Kanaans.
 
 > **📝 NOTIZEN**
 >
 > 🔵 **„CHAM IST DER VATER KENAANS"**
-> - Dieser Einschub nimmt den Ham/Kanaan (Kanaan)-Vorfall vorweg (VV.20–27). Der Erzähler nennt Kanaan vor dem Ereignis — er identifiziert die Linie, die verflucht werden wird. Der Einschub ist prospektiv: er bereitet den Leser auf das Folgende vor.
+> - Dieser Einschub nimmt den Ham/Kenaan (Kanaan)-Vorfall vorweg (VV.20–27). Der Erzähler nennt Kanaan vor dem Ereignis — er identifiziert die Linie, die verflucht werden wird. Der Einschub ist prospektiv: er bereitet den Leser auf das Folgende vor.
 
 ---
 
@@ -383,7 +383,7 @@ Gott mache weit den Jafet, und er wohne in den Zelten Shems, und Kanaan sei ein 
 > **📝 NOTIZEN**
 >
 > 🟢 **„WEIT MACHEN" (*yaft*) — WORTSPIEL**
-> - **יַפְתְּ אֱלֹהִים לְיֶפֶת** (*yaft elohim le-Jafet (Jafet)*) = „Gott mache *yaft* (weit) den *Jafet*." Das Verb *yaft* (weit machen, von der Wurzel פ-ת-ה) ist ein Wortspiel mit dem Namen Jafet/Jafet. Wie bei Noah/nacham und Shem/shem trägt der Name sein Schicksal.
+> - **יַפְתְּ אֱלֹהִים לְיֶפֶת** (*yaft elohim le-Yefet (Jafet)*) = „Gott mache *yaft* (weit) den *Jafet*." Das Verb *yaft* (weit machen, von der Wurzel פ-ת-ה) ist ein Wortspiel mit dem Namen Jafet/Jafet. Wie bei Noah/nacham und Shem/shem trägt der Name sein Schicksal.
 >
 > 🔴 **„UND ER WOHNE IN DEN ZELTEN SHEMS" — WER IST „ER"?**
 > - **וְיִשְׁכֹּן בְּאָהֳלֵי שֵׁם** = „und er wohne in den Zelten Shems." Das Subjekt ist mehrdeutig: (1) Jafet wohne in den Zelten Shems (Jafet profitiert von Shems Wohnstätte); (2) Gott wohne in den Zelten Shems (göttliche Gegenwart bei Shems Linie). Beides grammatisch MÖGLICH. Die TT bewahrt die Mehrdeutigkeit, indem sie „er" übersetzt, ohne den Referenten zu spezifizieren.

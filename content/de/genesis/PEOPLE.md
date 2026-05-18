@@ -9,7 +9,7 @@
 
 Diese Datei enthält biografische und genealogische Informationen über Personen in Genesis. Alle Angaben sind nach Typ und Konfidenz gekennzeichnet. Dieses Material ist kontextuelles Studienmaterial gemäß Regel 29.
 
-**Umfang:** Genesis 1–12. Nur Hauptfiguren. Genealogische Daten aus dem Masoretischen Text (BHS). Geburts-/Todesjahre sind aus der internen Arithmetik des MT berechnet (Anno Mundi, Jahr seit der SchÃ¶pfung). Wo der Text keine Angabe macht, lautet das Feld ânicht angegeben." Transliterationen folgen der gesperrten Eigennamentabelle (RULES-HB.md / RULES-GS.md).
+**Umfang:** Genesis 1–12. Nur Hauptfiguren. Genealogische Daten aus dem Masoretischen Text (BHS). Geburts-/Todesjahre sind aus der internen Arithmetik des MT berechnet (Anno Mundi, Jahr seit der Schöpfung). Wo der Text keine Angabe macht, lautet das Feld „nicht angegeben." Transliterationen folgen der gesperrten Eigennamentabelle (RULES-HB.md / RULES-GS.md).
 
 **Abkürzungen:** AM = Anno Mundi (Jahr seit der Schöpfung, nach MT-Arithmetik). Gen = Genesis. V./Vv. = Vers(e).
 
@@ -27,27 +27,27 @@ Diese Datei enthält biografische und genealogische Informationen über Personen
 **Ehepartner:** Eva
 **Kinder:** Kain, Abel, Set; „Söhne und Töchter" (Gen 5:4)
 **Ort(e):** Garten Eden; nach Osten vertrieben (Gen 3:24); der Erdboden (*adamah*)
-**Erste ErwÃ¤hnung:** Gen 1:26–27 (als âMensch"); Gen 2:7 (geformt); Gen 5:1 (als Eigenname âAdam")
-**ErwÃ¤hnt in:** Gen 1:26–27; 2:7–25; 3:1–24; 4:1, 25; 5:1–5
-**Wichtige Ereignisse:** Geschaffen im Bild Gottes (1:26–27); geformt aus Staub, Atem des Lebens (2:7); in den Garten gesetzt, um ihn zu bearbeiten und zu bewahren (2:15); geboten, nicht vom Baum der Erkenntnis zu essen (2:16–17); benannte die Tiere (2:19–20); tiefer Schlaf, Seite/Rippe entnommen (2:21); aÃ vom verbotenen Baum (3:6); aus Eden vertrieben (3:23–24); erkannte Eva, zeugte Kain (4:1); zeugte Set im Alter von 130 (5:3); starb mit 930 (5:5)
+**Erste Erwähnung:** Gen 1:26–27 (als „Mensch"); Gen 2:7 (geformt); Gen 5:1 (als Eigenname „Adam")
+**Erwähnt in:** Gen 1:26–27; 2:7–25; 3:1–24; 4:1, 25; 5:1–5
+**Wichtige Ereignisse:** Geschaffen im Bild Gottes (1:26–27); geformt aus Staub, Atem des Lebens (2:7); in den Garten gesetzt, um ihn zu bearbeiten und zu bewahren (2:15); geboten, nicht vom Baum der Erkenntnis zu essen (2:16–17); benannte die Tiere (2:19–20); tiefer Schlaf, Seite/Rippe entnommen (2:21); aß vom verbotenen Baum (3:6); aus Eden vertrieben (3:23–24); erkannte Eva, zeugte Kain (4:1); zeugte Set im Alter von 130 (5:3); starb mit 930 (5:5)
 
 **Vertrauter Name:** Adam
 **Beruf:** Bauer / Hüter des Gartens (Gen 2:15; 3:23; 4:2)
 **Gesellschaftliche Schicht:** nicht zutreffend (erster Mensch; keine soziale Hierarchie angegeben)
 **Heimatort:** Garten Eden
-**Orte, an denen er lebte:** Garten Eden; dann der Erdboden (*adamah*) Ã¶stlich von Eden (Gen 3:23–24)
+**Orte, an denen er lebte:** Garten Eden; dann der Erdboden (*adamah*) östlich von Eden (Gen 3:23–24)
 **Alter bei erster Vaterschaft:** 130 (bei Sets Geburt, Gen 5:3; frühere Söhne Kain und Abel ohne Altersangabe)
 **Todesursache:** nicht angegeben (Gen 5:5 vermerkt nur „und er starb")
 **Geschwister:** keine
 **Archäologische Belege:** Keine direkten archäologischen Belege
-**AuÃerbiblische ErwÃ¤hnungen:** Josephus, *AltertÃ¼mer* I.1–2; Koran, Sure 2:30–39 (Adam als Khalifa); 2. Esra 3:4–7; Leben Adams und Evas (Apokryphen der Zweiten-Tempel-Zeit)
+**Außerbiblische Erwähnungen:** Josephus, *Altertümer* I.1–2; Koran, Sure 2:30–39 (Adam als Khalifa); 2. Esra 3:4–7; Leben Adams und Evas (Apokryphen der Zweiten-Tempel-Zeit)
 **Historischer Status:** LITERARISCH
-**BÃ¼cher, in denen er vorkommt:** Genesis; 1. Chronik 1:1; Lukas 3:38; RÃ¶mer 5:12–14; 1. Korinther 15:22, 45; 1. Timotheus 2:13–14; Judas 1:14
+**Bücher, in denen er vorkommt:** Genesis; 1. Chronik 1:1; Lukas 3:38; Römer 5:12–14; 1. Korinther 15:22, 45; 1. Timotheus 2:13–14; Judas 1:14
 **Charakterbogen:** Geschaffen in vollkommener Beziehung zu JHWH, bricht er das einzige ihm gegebene Gebot und wird vertrieben; er setzt das Ackern im Exil fort, verliert aber die unmittelbare göttliche Vertrautheit.
 **Jahr seit der Schöpfung:** 0 (per Definition, AM 1 nach MT-Rechnung)
 **Jahr seit der Schöpfung — Ende:** 930
 
-**Anmerkung:** Der Text verwendet *ha-adam* (der Mensch, mit Artikel) durch Gen 2–4. Der Ãbergang zum Eigennamen âAdam" (ohne Artikel) erfolgt bei Gen 4:25 und ist bei 5:1 fixiert. Siehe Eintrag 081 im Redaktionsprotokoll.
+**Anmerkung:** Der Text verwendet *ha-adam* (der Mensch, mit Artikel) durch Gen 2–4. Der Übergang zum Eigennamen „Adam" (ohne Artikel) erfolgt bei Gen 4:25 und ist bei 5:1 fixiert. Siehe Eintrag 081 im Redaktionsprotokoll.
 
 ---
 
@@ -64,19 +64,19 @@ Diese Datei enthält biografische und genealogische Informationen über Personen
 **Kinder:** Kain (Gen 4:1); Abel (Gen 4:2); Set (Gen 4:25); weitere impliziert
 **Ort(e):** Garten Eden; mit Adam vertrieben (Gen 3:23–24)
 **Erste Erwähnung:** Gen 2:22 (als „Frau"); Gen 3:20 (von dem Menschen Eva benannt)
-**ErwÃ¤hnt in:** Gen 2:21–25; 3:1–20; 4:1–2, 25
-**Wichtige Ereignisse:** Gebaut aus Adams Seite/Rippe (2:21–22); âGebein von meinem Gebein" (2:23); sprach mit der Schlange (3:1–5); aÃ vom Baum und gab ihrem Mann (3:6); MÃ¼hsal bei Schwangerschaft und Geburt ausgesprochen (3:16); von dem Menschen Eva benannt (3:20); gebar Kain (4:1); gebar Abel (4:2); gebar Set (4:25)
+**Erwähnt in:** Gen 2:21–25; 3:1–20; 4:1–2, 25
+**Wichtige Ereignisse:** Gebaut aus Adams Seite/Rippe (2:21–22); „Gebein von meinem Gebein" (2:23); sprach mit der Schlange (3:1–5); aß vom Baum und gab ihrem Mann (3:6); Mühsal bei Schwangerschaft und Geburt ausgesprochen (3:16); von dem Menschen Eva benannt (3:20); gebar Kain (4:1); gebar Abel (4:2); gebar Set (4:25)
 
 **Vertrauter Name:** Eva
 **Beruf:** nicht angegeben (implizit Mithüterin des Gartens neben Adam)
 **Gesellschaftliche Schicht:** nicht zutreffend (keine soziale Hierarchie angegeben)
 **Heimatort:** Garten Eden
-**Orte, an denen sie lebte:** Garten Eden; dann Ã¶stlich von Eden (mit Adam vertrieben, Gen 3:23–24)
+**Orte, an denen sie lebte:** Garten Eden; dann östlich von Eden (mit Adam vertrieben, Gen 3:23–24)
 **Alter bei erster Mutterschaft:** nicht zutreffend
 **Todesursache:** nicht angegeben
 **Geschwister:** keine (erschaffen, nicht geboren)
 **Archäologische Belege:** Keine direkten archäologischen Belege
-**AuÃerbiblische ErwÃ¤hnungen:** Josephus, *AltertÃ¼mer* I.1–2; Koran, Sure 2:35–36 (namenlose GefÃ¤hrtin Adams); Leben Adams und Evas (Apokryphen der Zweiten-Tempel-Zeit); 2. Korinther 11:3; 1. Timotheus 2:13
+**Außerbiblische Erwähnungen:** Josephus, *Altertümer* I.1–2; Koran, Sure 2:35–36 (namenlose Gefährtin Adams); Leben Adams und Evas (Apokryphen der Zweiten-Tempel-Zeit); 2. Korinther 11:3; 1. Timotheus 2:13
 **Historischer Status:** LITERARISCH
 **Bücher, in denen sie vorkommt:** Genesis; 2. Korinther 11:3; 1. Timotheus 2:13
 **Charakterbogen:** Die erste Frau und die erste, die mit einem anderen Wesen als Adam oder JHWH spricht; sie überlegt, entscheidet und handelt, und erhält dann eine neue Berufung in Geburtsmühsal und Mutterschaft.
@@ -100,8 +100,8 @@ Diese Datei enthält biografische und genealogische Informationen über Personen
 **Kinder:** Henoch (Kainit, Gen 4:17)
 **Ort(e):** Erdboden (*adamah*); das Feld (4:8); Land Nod, östlich von Eden (4:16); baute eine Stadt (4:17)
 **Erste Erwähnung:** Gen 4:1
-**ErwÃ¤hnt in:** Gen 4:1–17, 24–25
-**Wichtige Ereignisse:** Als erster Sohn geboren (4:1); Bearbeiter des Erdbodens (4:2); brachte Opfergabe von der Frucht des Erdbodens (4:3); Opfergabe von JHWH nicht beachtet (4:5); von JHWH gewarnt Ã¼ber die SÃ¼nde, die vor der TÃ¼r kauert (4:6–7); tÃ¶tete Abel auf dem Feld (4:8); von JHWH konfrontiert, âBin ich der HÃ¼ter meines Bruders?" (4:9); vom Erdboden verflucht (4:11–12); zum Umherirrer und FlÃ¼chtling erklÃ¤rt (4:12); von JHWH zum Schutz gezeichnet, siebenfache Rache (4:15); lieÃ sich in Nod nieder (4:16); zeugte Henoch, baute eine Stadt (4:17)
+**Erwähnt in:** Gen 4:1–17, 24–25
+**Wichtige Ereignisse:** Als erster Sohn geboren (4:1); Bearbeiter des Erdbodens (4:2); brachte Opfergabe von der Frucht des Erdbodens (4:3); Opfergabe von JHWH nicht beachtet (4:5); von JHWH gewarnt über die Sünde, die vor der Tür kauert (4:6–7); tötete Abel auf dem Feld (4:8); von JHWH konfrontiert, „Bin ich der Hüter meines Bruders?" (4:9); vom Erdboden verflucht (4:11–12); zum Umherirrer und Flüchtling erklärt (4:12); von JHWH zum Schutz gezeichnet, siebenfache Rache (4:15); ließ sich in Nod nieder (4:16); zeugte Henoch, baute eine Stadt (4:17)
 
 **Vertrauter Name:** Kain
 **Beruf:** Bearbeiter des Erdbodens / Bauer (Gen 4:2)
@@ -112,7 +112,7 @@ Diese Datei enthält biografische und genealogische Informationen über Personen
 **Todesursache:** nicht angegeben (das Zeichen schützt vor Tötung, aber kein Tod wird verzeichnet)
 **Geschwister:** Abel, Set; „Söhne und Töchter" impliziert (Gen 5:4)
 **Archäologische Belege:** Keine direkten archäologischen Belege
-**AuÃerbiblische ErwÃ¤hnungen:** Josephus, *AltertÃ¼mer* I.2; 1. Johannes 3:12; Judas 1:11; Koran, Sure 5:27–31 (Geschichte von Adams SÃ¶hnen, Namen nicht genannt); Targum Pseudo-Jonathan zu Gen 4
+**Außerbiblische Erwähnungen:** Josephus, *Altertümer* I.2; 1. Johannes 3:12; Judas 1:11; Koran, Sure 5:27–31 (Geschichte von Adams Söhnen, Namen nicht genannt); Targum Pseudo-Jonathan zu Gen 4
 **Historischer Status:** LITERARISCH
 **Bücher, in denen er vorkommt:** Genesis; Hebräer 11:4; 1. Johannes 3:12; Judas 1:11
 **Charakterbogen:** Der Erstgeborene der Menschheit beginnt als Bauer und Opfernder; die Ablehnung seines Opfers führt zu unkontrolliertem Groll, Brudermord, Exil und schließlich Stadtbau — er ist der erste Gründer menschlicher Zivilisation.
@@ -134,8 +134,8 @@ Diese Datei enthält biografische und genealogische Informationen über Personen
 **Kinder:** Yaval (von Adah, Gen 4:20); Yuval (von Adah, Gen 4:21); Tuval-Kain (von Tsillah, Gen 4:22); Na'amah (von Tsillah, Gen 4:22)
 **Ort(e):** nicht angegeben
 **Erste Erwähnung:** Gen 4:18
-**ErwÃ¤hnt in:** Gen 4:18–24
-**Wichtige Ereignisse:** Erster aufgezeichneter Polygamist (4:19); sein Sohn Yaval ist Vater der Zeltnomaden und Viehhalter (4:20); sein Sohn Yuval ist Vater der Leier- und FlÃ¶tenspieler (4:21); sein Sohn Tuval-Kain schmiedet GerÃ¤te aus Bronze und Eisen (4:22); sang das Lied der gesteigerten Gewalt fÃ¼r seine Frauen (4:23–24) â rÃ¼hmt sich, einen Mann fÃ¼r eine Wunde getÃ¶tet zu haben und einen JÃ¼ngling fÃ¼r einen Schlag; beansprucht 77-fache Rache gegen JHWH's 7-fachen Schutz Ã¼ber Kain
+**Erwähnt in:** Gen 4:18–24
+**Wichtige Ereignisse:** Erster aufgezeichneter Polygamist (4:19); sein Sohn Yaval ist Vater der Zeltnomaden und Viehhalter (4:20); sein Sohn Yuval ist Vater der Leier- und Flötenspieler (4:21); sein Sohn Tuval-Kain schmiedet Geräte aus Bronze und Eisen (4:22); sang das Lied der gesteigerten Gewalt für seine Frauen (4:23–24) — rühmt sich, einen Mann für eine Wunde getötet zu haben und einen Jüngling für einen Schlag; beansprucht 77-fache Rache gegen JHWH's 7-fachen Schutz über Kain
 
 **Vertrauter Name:** Lamech (Kainit)
 **Beruf:** nicht angegeben
@@ -153,7 +153,7 @@ Diese Datei enthält biografische und genealogische Informationen über Personen
 **Jahr seit der Schöpfung:** nicht angegeben
 **Jahr seit der Schöpfung — Ende:** nicht angegeben
 
-**Anmerkung:** Nicht zu verwechseln mit dem sethitischen Lamech (Gen 5:25–31), dem Vater von Noah. Der kainitische Lamech ist der Siebte von Adam an in Qaiyns Linie. Sein Lied (4:23–24) kehrt JHWHs Schutzdekret Ã¼ber Kain (4:15) um und steigert es â von gÃ¶ttlicher ZurÃ¼ckhaltung zu menschlichem Prahlen.
+**Anmerkung:** Nicht zu verwechseln mit dem sethitischen Lamech (Gen 5:25–31), dem Vater von Noah. Der kainitische Lamech ist der Siebte von Adam an in Qaiyns Linie. Sein Lied (4:23–24) kehrt JHWHs Schutzdekret über Kain (4:15) um und steigert es — von göttlicher Zurückhaltung zu menschlichem Prahlen.
 
 ---
 
@@ -170,7 +170,7 @@ Diese Datei enthält biografische und genealogische Informationen über Personen
 **Kinder:** keine angegeben (getötet, bevor welche verzeichnet sind)
 **Ort(e):** das Feld (4:8)
 **Erste Erwähnung:** Gen 4:2
-**ErwÃ¤hnt in:** Gen 4:2–11, 25
+**Erwähnt in:** Gen 4:2–11, 25
 **Wichtige Ereignisse:** Als zweiter Sohn geboren, Bruder von Kain (4:2); Hüter der Herde (4:2); brachte Opfergabe von den Erstlingen seiner Herde und ihrem Fett (4:4); Opfergabe von JHWH beachtet (4:4); von Kain auf dem Feld getötet (4:8); seine Blute schreien vom Erdboden (4:10); Set als Ersatz geboren (4:25)
 
 **Vertrauter Name:** Abel
@@ -182,7 +182,7 @@ Diese Datei enthält biografische und genealogische Informationen über Personen
 **Todesursache:** von seinem Bruder Kain auf dem Feld getötet (Gen 4:8)
 **Geschwister:** Kain; später Set
 **Archäologische Belege:** Keine direkten archäologischen Belege
-**AuÃerbiblische ErwÃ¤hnungen:** Josephus, *AltertÃ¼mer* I.2; MatthÃ¤us 23:35; Lukas 11:51; HebrÃ¤er 11:4; 1. Johannes 3:12; Koran, Sure 5:27–31 (namenloser gerechter Sohn)
+**Außerbiblische Erwähnungen:** Josephus, *Altertümer* I.2; Matthäus 23:35; Lukas 11:51; Hebräer 11:4; 1. Johannes 3:12; Koran, Sure 5:27–31 (namenloser gerechter Sohn)
 **Historischer Status:** LITERARISCH
 **Bücher, in denen er vorkommt:** Genesis; Matthäus 23:35; Lukas 11:51; Hebräer 11:4; 1. Johannes 3:12
 **Charakterbogen:** Der kürzeste Bogen in der Erzählung: geboren, opfert treu, wird getötet; seine einzige bleibende Stimme ist sein Blut, das vom Erdboden schreit.
@@ -204,7 +204,7 @@ Diese Datei enthält biografische und genealogische Informationen über Personen
 **Kinder:** Enosh (Gen 5:6); „Söhne und Töchter" (Gen 5:7)
 **Ort(e):** nicht angegeben
 **Erste Erwähnung:** Gen 4:25
-**ErwÃ¤hnt in:** Gen 4:25–26; 5:3–8
+**Erwähnt in:** Gen 4:25–26; 5:3–8
 **Wichtige Ereignisse:** Als Ersatz für Abel geboren (4:25); gezeugt in Adams Gleichnis, nach seinem Bild (5:3); zeugte Enosh im Alter von 105 (5:6); starb mit 912 (5:8)
 
 **Vertrauter Name:** Set
@@ -216,7 +216,7 @@ Diese Datei enthält biografische und genealogische Informationen über Personen
 **Todesursache:** nicht angegeben (Gen 5:8 vermerkt nur „und er starb")
 **Geschwister:** Kain, Abel; „Söhne und Töchter" (Gen 5:4)
 **Archäologische Belege:** Keine direkten archäologischen Belege
-**AuÃerbiblische ErwÃ¤hnungen:** Josephus, *AltertÃ¼mer* I.2–3; Lukas 3:38; verschiedene Zweiten-Tempel- und rabbinische Ãberlieferungen, die Set mit Weisheit und Gerechtigkeit verbinden
+**Außerbiblische Erwähnungen:** Josephus, *Altertümer* I.2–3; Lukas 3:38; verschiedene Zweiten-Tempel- und rabbinische Überlieferungen, die Set mit Weisheit und Gerechtigkeit verbinden
 **Historischer Status:** LITERARISCH
 **Bücher, in denen er vorkommt:** Genesis; 1. Chronik 1:1; Lukas 3:38
 **Charakterbogen:** Als Ersatz für Abel geboren, wird er zur Wurzel der Linie, aus der Noah (und schließlich Israel) abstammt; die Generation seines Sohnes Enosch beginnt, den Namen JHWHs anzurufen.
@@ -240,7 +240,7 @@ Diese Datei enthält biografische und genealogische Informationen über Personen
 **Kinder:** Qenan (Gen 5:9); „Söhne und Töchter" (Gen 5:10)
 **Ort(e):** nicht angegeben
 **Erste Erwähnung:** Gen 4:26
-**ErwÃ¤hnt in:** Gen 4:26; 5:6–11
+**Erwähnt in:** Gen 4:26; 5:6–11
 **Wichtige Ereignisse:** Set geboren (4:26); zu seiner Zeit „wurde begonnen, den Namen JHWHs anzurufen" (4:26); zeugte Qenan im Alter von 90 (5:9); starb mit 905 (5:11)
 
 **Vertrauter Name:** Enosch
@@ -273,7 +273,7 @@ Diese Datei enthält biografische und genealogische Informationen über Personen
 **Kinder:** Mahalalel (Gen 5:12); „Söhne und Töchter" (Gen 5:13)
 **Ort(e):** nicht angegeben
 **Erste Erwähnung:** Gen 5:9
-**ErwÃ¤hnt in:** Gen 5:9–14
+**Erwähnt in:** Gen 5:9–14
 **Wichtige Ereignisse:** Zeugte Mahalalel im Alter von 70 (5:12); starb mit 910 (5:14)
 
 **Vertrauter Name:** Kenan
@@ -307,7 +307,7 @@ Diese Datei enthält biografische und genealogische Informationen über Personen
 **Kinder:** Yered (Gen 5:15); „Söhne und Töchter" (Gen 5:16)
 **Ort(e):** nicht angegeben
 **Erste Erwähnung:** Gen 5:12
-**ErwÃ¤hnt in:** Gen 5:12–17
+**Erwähnt in:** Gen 5:12–17
 **Wichtige Ereignisse:** Zeugte Yered im Alter von 65 (5:15); starb mit 895 (5:17)
 
 **Vertrauter Name:** Mahalalel
@@ -341,7 +341,7 @@ Diese Datei enthält biografische und genealogische Informationen über Personen
 **Kinder:** Henoch (Gen 5:18); „Söhne und Töchter" (Gen 5:19)
 **Ort(e):** nicht angegeben
 **Erste Erwähnung:** Gen 5:15
-**ErwÃ¤hnt in:** Gen 5:15–20
+**Erwähnt in:** Gen 5:15–20
 **Wichtige Ereignisse:** Zeugte Henoch im Alter von 162 (5:18); starb mit 962 (5:20)
 
 **Vertrauter Name:** Jered
@@ -375,7 +375,7 @@ Diese Datei enthält biografische und genealogische Informationen über Personen
 **Kinder:** Methusalem (Gen 5:21); „Söhne und Töchter" (Gen 5:22)
 **Ort(e):** nicht angegeben
 **Erste Erwähnung:** Gen 5:18 (Sethitischer Henoch); vgl. Gen 4:17 (Kainitischer Henoch, Sohn von Kain)
-**ErwÃ¤hnt in:** Gen 5:18–24
+**Erwähnt in:** Gen 5:18–24
 **Wichtige Ereignisse:** Zeugte Methusalem im Alter von 65 (5:21); „wandelte mit Gott" 300 Jahre nach der Zeugung von Methusalem (5:22); Gesamtzahl der Tage: 365 Jahre (5:23); „wandelte mit Gott, und er war nicht mehr, denn Gott nahm ihn" (5:24)
 
 **Vertrauter Name:** Henoch
@@ -387,7 +387,7 @@ Diese Datei enthält biografische und genealogische Informationen über Personen
 **Todesursache:** nicht zutreffend — „Gott nahm ihn" (Gen 5:24); kein Tod verzeichnet
 **Geschwister:** „Söhne und Töchter" Jereds impliziert (Gen 5:19)
 **Archäologische Belege:** Keine direkten archäologischen Belege
-**AuÃerbiblische ErwÃ¤hnungen:** Josephus, *AltertÃ¼mer* I.3; HebrÃ¤er 11:5; Judas 1:14–15 (zitiert 1. Henoch); Sirach 44:16; 49:14; 1. Henoch (umfangreiche Zweiten-Tempel-Literatur); Koran, Sure 19:56–57 (Idris, von einigen islamischen Ãberlieferungen mit Henoch gleichgesetzt)
+**Außerbiblische Erwähnungen:** Josephus, *Altertümer* I.3; Hebräer 11:5; Judas 1:14–15 (zitiert 1. Henoch); Sirach 44:16; 49:14; 1. Henoch (umfangreiche Zweiten-Tempel-Literatur); Koran, Sure 19:56–57 (Idris, von einigen islamischen Überlieferungen mit Henoch gleichgesetzt)
 **Historischer Status:** LITERARISCH
 **Bücher, in denen er vorkommt:** Genesis; 1. Chronik 1:3; Lukas 3:37; Hebräer 11:5; Judas 1:14
 **Charakterbogen:** Der einzige vorsintflutliche Patriarch, der nicht stirbt; sein „Wandeln mit Gott" (5:22, 24) zweimal hebt ihn hervor, und sein Verschwinden — genommen statt sterbend — sticht aus jedem anderen Genealogieeintrag heraus.
@@ -411,7 +411,7 @@ Diese Datei enthält biografische und genealogische Informationen über Personen
 **Kinder:** Lamech (Sethit, Gen 5:25); „Söhne und Töchter" (Gen 5:26)
 **Ort(e):** nicht angegeben
 **Erste Erwähnung:** Gen 5:21
-**ErwÃ¤hnt in:** Gen 5:21–27
+**Erwähnt in:** Gen 5:21–27
 **Wichtige Ereignisse:** Zeugte Lamech im Alter von 187 (5:25); starb mit 969 (5:27)
 
 **Vertrauter Name:** Methusalem
@@ -447,8 +447,8 @@ Diese Datei enthält biografische und genealogische Informationen über Personen
 **Kinder:** Noah (Gen 5:29); „Söhne und Töchter" (Gen 5:30)
 **Ort(e):** nicht angegeben
 **Erste Erwähnung:** Gen 5:25
-**ErwÃ¤hnt in:** Gen 5:25–31
-**Wichtige Ereignisse:** Zeugte Noah im Alter von 182 (5:28–29); benannte Noah mit den Worten âDieser wird uns trÃ¶sten von unserer Arbeit und von der MÃ¼hsal unserer HÃ¤nde, wegen des Erdbodens, den JHWH verflucht hat" (5:29); starb mit 777 (5:31)
+**Erwähnt in:** Gen 5:25–31
+**Wichtige Ereignisse:** Zeugte Noah im Alter von 182 (5:28–29); benannte Noah mit den Worten „Dieser wird uns trösten von unserer Arbeit und von der Mühsal unserer Hände, wegen des Erdbodens, den JHWH verflucht hat" (5:29); starb mit 777 (5:31)
 
 **Vertrauter Name:** Lamech (Sethit)
 **Beruf:** nicht angegeben
@@ -466,7 +466,7 @@ Diese Datei enthält biografische und genealogische Informationen über Personen
 **Jahr seit der Schöpfung:** 874
 **Jahr seit der Schöpfung — Ende:** 1651
 
-**Anmerkung:** Nicht zu verwechseln mit dem kainitischen Lamech (Gen 4:18–24), der zwei Frauen nahm (Adah und Tsillah) und das Lied der eskalierten Gewalt sprach (4:23–24). Der sethitische Lamech stirbt fÃ¼nf Jahre vor der Flut (AM 1651 vs. Flut bei AM 1656).
+**Anmerkung:** Nicht zu verwechseln mit dem kainitischen Lamech (Gen 4:18–24), der zwei Frauen nahm (Adah und Tsillah) und das Lied der eskalierten Gewalt sprach (4:23–24). Der sethitische Lamech stirbt fünf Jahre vor der Flut (AM 1651 vs. Flut bei AM 1656).
 
 ---
 
@@ -483,8 +483,8 @@ Diese Datei enthält biografische und genealogische Informationen über Personen
 **Kinder:** Shem, Ham, Yafet (Gen 5:32; 6:10)
 **Ort(e):** die Tebah (Arche); Land nach der Flut; pflanzte einen Weinberg (Gen 9:20)
 **Erste Erwähnung:** Gen 5:29
-**ErwÃ¤hnt in:** Gen 5:28–32; 6:8–22; 7:1–24; 8:1–22; 9:1–29; 10:1, 32
-**Wichtige Ereignisse:** Benannt mit Hoffnung, die an den verfluchten Erdboden geknÃ¼pft ist (5:29); fand Gunst in den Augen JHWHs (6:8); gerecht, untadelig in seinen Generationen, wandelte mit Gott (6:9); zeugte Shem, Ham, Yafet im Alter von 500 (5:32); befohlen, die Tebah zu bauen (6:14–16); betrat die Tebah mit Familie und Tieren (7:1–9); Ã¼berlebte die Flut (7:17–8:19); baute einen Altar, brachte Brandopfer dar (8:20); empfing den Noahidischen Bund, einschlieÃlich des Regenbogenzeichens (9:1–17); pflanzte einen Weinberg, wurde betrunken, entblÃ¶Ãte sich (9:20–21); verfluchte Kanaan, segnete Shem, segnete/vergrÃ¶Ãerte Yafet (9:25–27); lebte 350 Jahre nach der Flut (9:28); starb mit 950 (9:29)
+**Erwähnt in:** Gen 5:28–32; 6:8–22; 7:1–24; 8:1–22; 9:1–29; 10:1, 32
+**Wichtige Ereignisse:** Benannt mit Hoffnung, die an den verfluchten Erdboden geknüpft ist (5:29); fand Gunst in den Augen JHWHs (6:8); gerecht, untadelig in seinen Generationen, wandelte mit Gott (6:9); zeugte Shem, Ham, Yafet im Alter von 500 (5:32); befohlen, die Tebah zu bauen (6:14–16); betrat die Tebah mit Familie und Tieren (7:1–9); überlebte die Flut (7:17–8:19); baute einen Altar, brachte Brandopfer dar (8:20); empfing den Noahidischen Bund, einschließlich des Regenbogenzeichens (9:1–17); pflanzte einen Weinberg, wurde betrunken, entblößte sich (9:20–21); verfluchte Kanaan, segnete Shem, segnete/vergrößerte Yafet (9:25–27); lebte 350 Jahre nach der Flut (9:28); starb mit 950 (9:29)
 
 **Vertrauter Name:** Noah
 **Beruf:** Bauer / Winzer (Gen 9:20); Baumeister (der Tebah, Gen 6:14)
@@ -495,9 +495,9 @@ Diese Datei enthält biografische und genealogische Informationen über Personen
 **Todesursache:** nicht angegeben (Gen 9:29 vermerkt nur „und er starb")
 **Geschwister:** „Söhne und Töchter" Lamechs impliziert (Gen 5:30)
 **Archäologische Belege:** Keine direkten archäologischen Belege. Flutablagerungsschichten wurden an verschiedenen mesopotamischen Fundstätten identifiziert (Ur, Shuruppak, Kisch), aber keine ist zeitgleich oder eindeutig mit einem einzigen Flutereignis verbunden, das der Genesis-Erzählung entspricht.
-**AuÃerbiblische ErwÃ¤hnungen:** Josephus, *AltertÃ¼mer* I.3–4; Koran, Sure 11:25–49 (Nuh, ausfÃ¼hrliche ErzÃ¤hlung); HebrÃ¤er 11:7; 1. Petrus 3:20; 2. Petrus 2:5; 3:6; Sirach 44:17–18; 1. Henoch 106–107; Sibyllinische Orakel; Atrahasis-Epos und Gilgamesch-Tafel XI (mesopotamische Flutfiguren Atrahasis/Utnapishtim von Wissenschaftlern verglichen)
+**Außerbiblische Erwähnungen:** Josephus, *Altertümer* I.3–4; Koran, Sure 11:25–49 (Nuh, ausführliche Erzählung); Hebräer 11:7; 1. Petrus 3:20; 2. Petrus 2:5; 3:6; Sirach 44:17–18; 1. Henoch 106–107; Sibyllinische Orakel; Atrahasis-Epos und Gilgamesch-Tafel XI (mesopotamische Flutfiguren Atrahasis/Utnapishtim von Wissenschaftlern verglichen)
 **Historischer Status:** UNSICHER
-**BÃ¼cher, in denen er vorkommt:** Genesis; Jesaja 54:9; Hesekiel 14:14, 20; 1. Chronik 1:4; MatthÃ¤us 24:37–38; Lukas 3:36; 17:26–27; HebrÃ¤er 11:7; 1. Petrus 3:20; 2. Petrus 2:5
+**Bücher, in denen er vorkommt:** Genesis; Jesaja 54:9; Hesekiel 14:14, 20; 1. Chronik 1:4; Matthäus 24:37–38; Lukas 3:36; 17:26–27; Hebräer 11:7; 1. Petrus 3:20; 2. Petrus 2:5
 **Charakterbogen:** Als gerecht in einer verderbten Generation befunden, wird Noah auserwählt, das Leben durch die Flut zu bewahren; nach der Katastrophe baut er einen Altar, empfängt einen Bund und pflanzt dann einen Weinberg — eine Szene von Trunkenheit und Familienkonflikt, die seine Gerechtigkeit verkompliziert.
 **Jahr seit der Schöpfung:** 1056
 **Jahr seit der Schöpfung — Ende:** 2006
@@ -517,7 +517,7 @@ Diese Datei enthält biografische und genealogische Informationen über Personen
 **Kinder:** Arpakhshad (Gen 11:10); Elam, Ashshur, Lud, Aram (Gen 10:22); „Söhne und Töchter" (Gen 11:11)
 **Ort(e):** die Tebah; Land nach der Flut
 **Erste Erwähnung:** Gen 5:32
-**ErwÃ¤hnt in:** Gen 5:32; 6:10; 7:13; 9:18, 23, 26–27; 10:1, 21–31; 11:10–11
+**Erwähnt in:** Gen 5:32; 6:10; 7:13; 9:18, 23, 26–27; 10:1, 21–31; 11:10–11
 **Wichtige Ereignisse:** Noah geboren (5:32); betrat die Tebah (7:13); bedeckte die Blöße seines Vaters mit Yafet (9:23); von Noah gesegnet — „Gesegnet sei JHWH, der Gott Shems" (9:26); Vater aller Söhne Evers (10:21); zeugte Arpakhshad im Alter von 100, zwei Jahre nach der Flut (11:10); starb mit 600 (11:11)
 
 **Vertrauter Name:** Sem
@@ -529,7 +529,7 @@ Diese Datei enthält biografische und genealogische Informationen über Personen
 **Todesursache:** nicht angegeben (Gen 11:11 vermerkt „und er starb")
 **Geschwister:** Ham, Yafet (Jafet)
 **Archäologische Belege:** Keine direkten archäologischen Belege
-**AuÃerbiblische ErwÃ¤hnungen:** Josephus, *AltertÃ¼mer* I.4–6; Lukas 3:36; verschiedene semitische UrsprungsÃ¼berlieferungen, die âShem" mit den semitischen VÃ¶lkern verbinden
+**Außerbiblische Erwähnungen:** Josephus, *Altertümer* I.4–6; Lukas 3:36; verschiedene semitische Ursprungsüberlieferungen, die „Shem" mit den semitischen Völkern verbinden
 **Historischer Status:** UNSICHER
 **Bücher, in denen er vorkommt:** Genesis; 1. Chronik 1:4, 17; Lukas 3:36
 **Charakterbogen:** Er bedeckt die Blöße seines Vaters mit Ehre, wird als derjenige gesegnet, in dessen Gott wohnt, und wird zum Vorfahren, durch den die Bundeslinie Abram erreicht.
@@ -553,19 +553,19 @@ Diese Datei enthält biografische und genealogische Informationen über Personen
 **Kinder:** Kush, Ägypten, Put, Kanaan (Gen 10:6)
 **Ort(e):** die Tebah; Land nach der Flut
 **Erste Erwähnung:** Gen 5:32
-**ErwÃ¤hnt in:** Gen 5:32; 6:10; 7:13; 9:18, 22; 10:1, 6–20
+**Erwähnt in:** Gen 5:32; 6:10; 7:13; 9:18, 22; 10:1, 6–20
 **Wichtige Ereignisse:** Noah geboren (5:32); betrat die Tebah (7:13); „Vater Kanaans" (9:18, 22); sah die Blöße seines Vaters und erzählte es seinen zwei Brüdern (9:22); Noah verfluchte Kanaan (nicht Ham direkt) als Antwort (9:25)
 
 **Vertrauter Name:** Ham
 **Beruf:** nicht angegeben
 **Gesellschaftliche Schicht:** nicht angegeben
 **Heimatort:** nicht angegeben (vor der Flut geboren; siedelte sich nachsintflutlich an)
-**Orte, an denen er lebte:** die Tebah wÃ¤hrend der Flut; nachsintflutliches Land (unangegeben); seine Nachkommen mit Afrika und sÃ¼dlichen Regionen verbunden (Gen 10:6–20)
+**Orte, an denen er lebte:** die Tebah während der Flut; nachsintflutliches Land (unangegeben); seine Nachkommen mit Afrika und südlichen Regionen verbunden (Gen 10:6–20)
 **Alter bei erster Vaterschaft:** nicht angegeben
 **Todesursache:** nicht angegeben
 **Geschwister:** Shem, Yafet (Jafet); „jüngster" genannt (Gen 9:24)
 **Archäologische Belege:** Keine direkten archäologischen Belege
-**AuÃerbiblische ErwÃ¤hnungen:** Josephus, *AltertÃ¼mer* I.4–6; spÃ¤tere Ãberlieferungen, die Ham mit Afrika und Ãgypten verbinden (Mitsrajim = Ãgypten ist der Name seines Sohnes)
+**Außerbiblische Erwähnungen:** Josephus, *Altertümer* I.4–6; spätere Überlieferungen, die Ham mit Afrika und Ägypten verbinden (Mitsrajim = Ägypten ist der Name seines Sohnes)
 **Historischer Status:** UNSICHER
 **Bücher, in denen er vorkommt:** Genesis; 1. Chronik 1:4, 8; Psalm 78:51; 105:23, 27; 106:22
 **Charakterbogen:** Er sieht die Blöße seines Vaters und erzählt es seinen Brüdern; sein Sohn Kanaan, nicht Ham selbst, erhält den Fluch — eine Erzähllücke, die der Text unerklärt lässt.
@@ -589,7 +589,7 @@ Diese Datei enthält biografische und genealogische Informationen über Personen
 **Kinder:** Gomer, Magog, Madai, Yavan, Tuval, Meshekh, Tiras (Gen 10:2)
 **Ort(e):** die Tebah; Land nach der Flut; Küstenvölker breiteten sich von seiner Linie aus (Gen 10:5)
 **Erste Erwähnung:** Gen 5:32
-**ErwÃ¤hnt in:** Gen 5:32; 6:10; 7:13; 9:18, 23, 27; 10:1–5
+**Erwähnt in:** Gen 5:32; 6:10; 7:13; 9:18, 23, 27; 10:1–5
 **Wichtige Ereignisse:** Noah geboren (5:32); betrat die Tebah (7:13); bedeckte die Blöße seines Vaters mit Shem (9:23); von Noah gesegnet — „Gott möge Yafet erweitern, und er möge wohnen in den Zelten Shems" (9:27)
 
 **Vertrauter Name:** Jafet
@@ -601,9 +601,9 @@ Diese Datei enthält biografische und genealogische Informationen über Personen
 **Todesursache:** nicht angegeben
 **Geschwister:** Shem, Ham; möglicherweise der Älteste (Gen 10:21, obwohl mehrdeutig)
 **Archäologische Belege:** Keine direkten archäologischen Belege
-**AuÃerbiblische ErwÃ¤hnungen:** Josephus, *AltertÃ¼mer* I.4–6; spÃ¤tere Ãberlieferungen, die Jafet mit indoeuropÃ¤ischen VÃ¶lkern und nÃ¶rdlichen/westlichen Regionen verbinden
+**Außerbiblische Erwähnungen:** Josephus, *Altertümer* I.4–6; spätere Überlieferungen, die Jafet mit indoeuropäischen Völkern und nördlichen/westlichen Regionen verbinden
 **Historischer Status:** UNSICHER
-**BÃ¼cher, in denen er vorkommt:** Genesis; 1. Chronik 1:4–5
+**Bücher, in denen er vorkommt:** Genesis; 1. Chronik 1:4–5
 **Charakterbogen:** Er geht rückwärts mit Shem, um den Vater zu bedecken, handelt ehrenhaft und empfängt den Segen der Erweiterung — eine kurze, aber würdevolle Rolle in einer Szene der Familienkrise.
 **Jahr seit der Schöpfung:** 1556
 **Jahr seit der Schöpfung — Ende:** nicht angegeben
@@ -622,15 +622,15 @@ Diese Datei enthält biografische und genealogische Informationen über Personen
 **Vater:** Ham (Gen 10:6)
 **Mutter:** nicht angegeben
 **Ehepartner:** nicht angegeben
-**Kinder:** Tsidon, Chet und die in Gen 10:15–18 aufgefÃ¼hrten VÃ¶lker; sein Territorium beschrieben in Gen 10:19
+**Kinder:** Tsidon, Chet und die in Gen 10:15–18 aufgeführten Völker; sein Territorium beschrieben in Gen 10:19
 **Ort(e):** Kanaan (eponymer Landstrich, Gen 10:19)
 **Erste Erwähnung:** Gen 9:18
-**ErwÃ¤hnt in:** Gen 9:18, 22, 25–27; 10:6, 15–19
-**Wichtige Ereignisse:** Als Sohn Hams und eponymem Vorfahren der Kanaani-VÃ¶lker benannt (9:18); Noah verfluchte Kanaan nach Hams Tat des Erblickens seiner BlÃ¶Ãe (9:25) â âVerflucht sei Kanaan; Knecht der Knechte soll er seinen BrÃ¼dern sein"; Noahs Segen Ã¼ber Shem und Yafet in Bezug auf Kanaans Unterwerfung bekrÃ¤ftigt (9:26–27); die Grenzen seines Territoriums in Gen 10:19 angegeben
+**Erwähnt in:** Gen 9:18, 22, 25–27; 10:6, 15–19
+**Wichtige Ereignisse:** Als Sohn Hams und eponymem Vorfahren der Kanaani-Völker benannt (9:18); Noah verfluchte Kanaan nach Hams Tat des Erblickens seiner Blöße (9:25) — „Verflucht sei Kanaan; Knecht der Knechte soll er seinen Brüdern sein"; Noahs Segen über Shem und Yafet in Bezug auf Kanaans Unterwerfung bekräftigt (9:26–27); die Grenzen seines Territoriums in Gen 10:19 angegeben
 
 **Vertrauter Name:** Kanaan
 **Beruf:** nicht angegeben
-**Gesellschaftliche Schicht:** eponymer Vorfahre; seine Nachkommen bilden eigenstÃ¤ndige VÃ¶lker (Gen 10:15–18)
+**Gesellschaftliche Schicht:** eponymer Vorfahre; seine Nachkommen bilden eigenständige Völker (Gen 10:15–18)
 **Heimatort:** Kanaan (das Gebiet trägt seinen Namen, Gen 10:19)
 **Orte, an denen er lebte:** Kanaan (Territorium beschrieben Gen 10:19)
 **Alter bei erster Vaterschaft:** nicht angegeben
@@ -659,16 +659,16 @@ Diese Datei enthält biografische und genealogische Informationen über Personen
 **Mutter:** nicht angegeben
 **Ehepartner:** nicht angegeben
 **Kinder:** nicht angegeben
-**Ort(e):** Bavel, Erekh, Akkad, Kalneh im Land Shinar (Gen 10:10); Ashshur â Nineveh, Rechovot-Ir, Kelach, Resen (Gen 10:11–12)
+**Ort(e):** Bavel, Erekh, Akkad, Kalneh im Land Shinar (Gen 10:10); Ashshur — Nineveh, Rechovot-Ir, Kelach, Resen (Gen 10:11–12)
 **Erste Erwähnung:** Gen 10:8
-**ErwÃ¤hnt in:** Gen 10:8–12
-**Wichtige Ereignisse:** Begann, ein MÃ¤chtiger (*gibbor*) auf der Erde zu sein (10:8); mÃ¤chtiger JÃ¤ger vor JHWH â sprichwÃ¶rtlich: âWie Nimrod, ein mÃ¤chtiger JÃ¤ger vor JHWH" (10:9); sein KÃ¶nigreich begann bei Bavel (10:10); baute Nineveh und andere StÃ¤dte (10:11–12)
+**Erwähnt in:** Gen 10:8–12
+**Wichtige Ereignisse:** Begann, ein Mächtiger (*gibbor*) auf der Erde zu sein (10:8); mächtiger Jäger vor JHWH — sprichwörtlich: „Wie Nimrod, ein mächtiger Jäger vor JHWH" (10:9); sein Königreich begann bei Bavel (10:10); baute Nineveh und andere Städte (10:11–12)
 
 **Vertrauter Name:** Nimrod
-**Beruf:** JÃ¤ger; KÃ¶nig / Reichsbauer (Gen 10:8–12; âsein KÃ¶nigreich" impliziert Herrschaft)
+**Beruf:** Jäger; König / Reichsbauer (Gen 10:8–12; „sein Königreich" impliziert Herrschaft)
 **Gesellschaftliche Schicht:** Krieger-König / Mächtiger (*gibbor*, Gen 10:8)
 **Heimatort:** Bavel (Babel) / Land Schinar (Gen 10:10)
-**Orte, an denen er lebte:** Schinar (Bavel, Erekh, Akkad, Kalneh, Gen 10:10); Aschschur / Nineveh und andere StÃ¤dte (Gen 10:11–12)
+**Orte, an denen er lebte:** Schinar (Bavel, Erekh, Akkad, Kalneh, Gen 10:10); Aschschur / Nineveh und andere Städte (Gen 10:11–12)
 **Alter bei erster Vaterschaft:** nicht angegeben
 **Todesursache:** nicht angegeben
 **Geschwister:** nicht angegeben (andere Söhne Kushs in Gen 10:7 aufgeführt, aber ihre Beziehung zu Nimrod nur als Vater)
@@ -697,7 +697,7 @@ Diese Datei enthält biografische und genealogische Informationen über Personen
 **Kinder:** Abram, Nahor (II), Haran (Gen 11:26–27)
 **Ort(e):** Ur der Kasdim (Gen 11:28, 31); Charan (Gen 11:31)
 **Erste Erwähnung:** Gen 11:24
-**ErwÃ¤hnt in:** Gen 11:24–32
+**Erwähnt in:** Gen 11:24–32
 **Wichtige Ereignisse:** Zeugte Abram, Nahor (II) und Haran (11:26); seine eigene Toledot-Formel — „Dies sind die Toledot Terachs" (11:27); führte Abram, Lot und Sarai aus Ur der Kasdim heraus, um nach Kanaan zu ziehen; sie kamen nach Charan und ließen sich dort nieder (11:31); starb in Charan mit 205 Jahren (11:32)
 
 **Vertrauter Name:** Terach
@@ -709,9 +709,9 @@ Diese Datei enthält biografische und genealogische Informationen über Personen
 **Todesursache:** nicht angegeben (Gen 11:32 vermerkt „und Terach starb")
 **Geschwister:** nicht angegeben
 **Archäologische Belege:** Keine direkten archäologischen Belege
-**AuÃerbiblische ErwÃ¤hnungen:** Josephus, *AltertÃ¼mer* I.6–7; Josua 24:2 (seine Familie âdiente anderen GÃ¶ttern" â nicht in Genesis selbst); Apostelgeschichte 7:2–4 (Stephanus-Rede); verschiedene rabbinische Ãberlieferungen, die ihn als GÃ¶tzenbildhersteller darstellen
+**Außerbiblische Erwähnungen:** Josephus, *Altertümer* I.6–7; Josua 24:2 (seine Familie „diente anderen Göttern" — nicht in Genesis selbst); Apostelgeschichte 7:2–4 (Stephanus-Rede); verschiedene rabbinische Überlieferungen, die ihn als Götzenbildhersteller darstellen
 **Historischer Status:** UNSICHER
-**BÃ¼cher, in denen er vorkommt:** Genesis; Josua 24:2; 1. Chronik 1:26; Lukas 3:34; Apostelgeschichte 7:2–4
+**Bücher, in denen er vorkommt:** Genesis; Josua 24:2; 1. Chronik 1:26; Lukas 3:34; Apostelgeschichte 7:2–4
 **Charakterbogen:** Er beginnt die Reise von Ur nach Kanaan, hält aber in Charan an und stirbt dort; sein Sohn Abram vollendet die Reise, die er begann, und bettet die Berufung des Patriarchen in eine größere Familienbewegung ein, die stecken blieb.
 **Jahr seit der Schöpfung:** 1878
 **Jahr seit der Schöpfung — Ende:** 2083
@@ -733,7 +733,7 @@ Diese Datei enthält biografische und genealogische Informationen über Personen
 **Kinder:** Lot (Gen 11:27); Milkah (Gen 11:29); Yiskah (Gen 11:29)
 **Ort(e):** Ur der Kasdim (Gen 11:28)
 **Erste Erwähnung:** Gen 11:26
-**ErwÃ¤hnt in:** Gen 11:26–29
+**Erwähnt in:** Gen 11:26–29
 **Wichtige Ereignisse:** Als dritter Sohn Terachs neben Abram und Nahor (II) benannt (11:26); starb in Ur der Kasdim in Anwesenheit seines Vaters Terach (11:28) — erster aufgezeichneter Tod eines Sohnes vor seinem Vater in der Genesis; Vater von Lot, Milkah und Yiskah (11:27, 29)
 
 **Vertrauter Name:** Haran
@@ -752,7 +752,7 @@ Diese Datei enthält biografische und genealogische Informationen über Personen
 **Jahr seit der Schöpfung:** nicht angegeben
 **Jahr seit der Schöpfung — Ende:** nicht angegeben (starb vor AM 1948, vor Abrams Geburt)
 
-**Anmerkung:** Harans Tod vor seinem Vater (11:28) ist der genannte Grund fÃ¼r Lots Bindung an Abram. Milkah wird die Frau von Nahor (II), Abrams Bruder (11:29). Yiskah wird in Gen 1–12 nicht mehr erwÃ¤hnt.
+**Anmerkung:** Harans Tod vor seinem Vater (11:28) ist der genannte Grund für Lots Bindung an Abram. Milkah wird die Frau von Nahor (II), Abrams Bruder (11:29). Yiskah wird in Gen 1–12 nicht mehr erwähnt.
 
 ---
 
@@ -767,26 +767,26 @@ Diese Datei enthält biografische und genealogische Informationen über Personen
 **Mutter:** nicht angegeben
 **Ehepartner:** Sarai (Gen 11:29; 12:11–13)
 **Kinder:** noch keine innerhalb Gen 1–12 (Sarai ist unfruchtbar, Gen 11:30)
-**Ort(e):** Ur der Kasdim (Gen 11:28, 31); Charan (Gen 11:31; 12:4); Land Kanaan (12:5); Sichem, Eiche von Moreh (12:6); Bergland zwischen Bethel und Ai (12:8); der Negev (12:9); Ãgypten (12:10–20)
+**Ort(e):** Ur der Kasdim (Gen 11:28, 31); Charan (Gen 11:31; 12:4); Land Kanaan (12:5); Sichem, Eiche von Moreh (12:6); Bergland zwischen Bethel und Ai (12:8); der Negev (12:9); Ägypten (12:10–20)
 **Erste Erwähnung:** Gen 11:26
-**ErwÃ¤hnt in:** Gen 11:26–32; 12:1–20
-**Wichtige Ereignisse:** Terach geboren (11:26); heiratete Sarai (11:29); zog von Ur mit Terach, Sarai und Lot Richtung Kanaan, lieÃ sich in Charan nieder (11:31); von JHWH berufen â *lekh lekha* (12:1); empfing die fÃ¼nffache VerheiÃung (12:2–3); verlieÃ Charan im Alter von 75 (12:4); kam in Kanaan an (12:5); zog durch bis Sichem, JHWH erschien und verhieÃ das Land seinem Samen (12:6–7); baute AltÃ¤re bei Sichem und zwischen Bethel und Ai (12:7–8); rief den Namen JHWHs an (12:8); zog nach Ãgypten hinab wegen Hungersnot (12:10); bat Sarai zu sagen, sie sei seine Schwester (12:11–13); Pharao mit Plagen geschlagen wegen Sarai (12:17); von Pharao zurechtgewiesen und weggeschickt (12:18–20)
+**Erwähnt in:** Gen 11:26–32; 12:1–20
+**Wichtige Ereignisse:** Terach geboren (11:26); heiratete Sarai (11:29); zog von Ur mit Terach, Sarai und Lot Richtung Kanaan, ließ sich in Charan nieder (11:31); von JHWH berufen — *lekh lekha* (12:1); empfing die fünffache Verheißung (12:2–3); verließ Charan im Alter von 75 (12:4); kam in Kanaan an (12:5); zog durch bis Sichem, JHWH erschien und verhieß das Land seinem Samen (12:6–7); baute Altäre bei Sichem und zwischen Bethel und Ai (12:7–8); rief den Namen JHWHs an (12:8); zog nach Ägypten hinab wegen Hungersnot (12:10); bat Sarai zu sagen, sie sei seine Schwester (12:11–13); Pharao mit Plagen geschlagen wegen Sarai (12:17); von Pharao zurechtgewiesen und weggeschickt (12:18–20)
 
 **Vertrauter Name:** Abram (Name wird zu Abraham in Gen 17 geändert, außerhalb des Umfangs dieser Datei)
 **Beruf:** Hirte / wohlhabender Herde-Besitzer (Gen 12:16; 13:2); Altarbauer; berufen, eine Nation zu werden (Gen 12:2)
 **Gesellschaftliche Schicht:** wohlhabender Patriarch; Besitzer von Dienern, Vieh, Silber und Gold (Gen 12:16; 13:2)
 **Heimatort:** Ur der Kasdim (Gen 11:28, 31)
-**Orte, an denen er lebte:** Ur der Kasdim; Charan (Gen 11:31; 12:4); Land Kanaan (Gen 12:5); Sichem (Gen 12:6); Bergland zwischen Bethel und Ai (Gen 12:8); der Negev (Gen 12:9); Ãgypten (Gen 12:10–20)
-**Alter bei erster Vaterschaft:** nicht erreicht innerhalb Gen 1–12 (Sarai unfruchtbar; erster Sohn Ismael geboren in Gen 16, auÃerhalb des Umfangs)
+**Orte, an denen er lebte:** Ur der Kasdim; Charan (Gen 11:31; 12:4); Land Kanaan (Gen 12:5); Sichem (Gen 12:6); Bergland zwischen Bethel und Ai (Gen 12:8); der Negev (Gen 12:9); Ägypten (Gen 12:10–20)
+**Alter bei erster Vaterschaft:** nicht erreicht innerhalb Gen 1–12 (Sarai unfruchtbar; erster Sohn Ismael geboren in Gen 16, außerhalb des Umfangs)
 **Todesursache:** nicht angegeben innerhalb Gen 1–12
-**Geschwister:** nicht angegeben in Gen 1–12 (Gen 20:12 enthÃ¼llt spÃ¤ter, dass Sarai seine Halbschwester ist â gleicher Vater, andere Mutter)
-**ArchÃ¤ologische Belege:** Keine direkten archÃ¤ologischen Belege fÃ¼r Abram als Individuum. Die Patriarchenzeit (Mittlere Bronzezeit, ca. 2000–1550 v. Chr.) ist mit einigen erwÃ¤hnten sozialen und rechtlichen BrÃ¤uchen konsistent (Erben-Praktiken, Nuzi-Tafeln). Die Identifizierung bleibt UNSICHER und umstritten.
-**AuÃerbiblische ErwÃ¤hnungen:** Josephus, *AltertÃ¼mer* I.7–8; Koran, Sure 2:124–129; 6:74–83; 19:41–50; 21:51–73 (Ibrahim, ausfÃ¼hrliche ErzÃ¤hlung); Apostelgeschichte 7:2–8; RÃ¶mer 4; Galater 3; HebrÃ¤er 11:8–19; Jakobus 2:21–23
+**Geschwister:** nicht angegeben in Gen 1–12 (Gen 20:12 enthüllt später, dass Sarai seine Halbschwester ist — gleicher Vater, andere Mutter)
+**Archäologische Belege:** Keine direkten archäologischen Belege für Abram als Individuum. Die Patriarchenzeit (Mittlere Bronzezeit, ca. 2000–1550 v. Chr.) ist mit einigen erwähnten sozialen und rechtlichen Bräuchen konsistent (Erben-Praktiken, Nuzi-Tafeln). Die Identifizierung bleibt UNSICHER und umstritten.
+**Außerbiblische Erwähnungen:** Josephus, *Altertümer* I.7–8; Koran, Sure 2:124–129; 6:74–83; 19:41–50; 21:51–73 (Ibrahim, ausführliche Erzählung); Apostelgeschichte 7:2–8; Römer 4; Galater 3; Hebräer 11:8–19; Jakobus 2:21–23
 **Historischer Status:** UNSICHER
-**BÃ¼cher, in denen er vorkommt:** Genesis; Josua 24:2–3; Nehemia 9:7; Jesaja 29:22; 41:8; 51:2; RÃ¶mer 4; Galater 3; HebrÃ¤er 11:8–19; und viele andere
+**Bücher, in denen er vorkommt:** Genesis; Josua 24:2–3; Nehemia 9:7; Jesaja 29:22; 41:8; 51:2; Römer 4; Galater 3; Hebräer 11:8–19; und viele andere
 **Charakterbogen:** Er verlässt seine Heimat auf JHWHs Ruf mit einer Verheißung und ohne Karte, baut Altäre und reist durch Hungersnot nach Ägypten — wo er sofort Sarai aus Eigeninteresse gefährdet; die Lücke zwischen Berufung und Charakter ist vom ersten Einsatz an etabliert.
 **Jahr seit der Schöpfung:** 1948
-**Jahr seit der SchÃ¶pfung â Ende:** 2123 (AM; aber sein Tod ist in Gen 1–12 nicht verzeichnet; volle Lebensdauer 175 Jahre, Gen 25:7, auÃerhalb des Umfangs dieser Datei)
+**Jahr seit der Schöpfung — Ende:** 2123 (AM; aber sein Tod ist in Gen 1–12 nicht verzeichnet; volle Lebensdauer 175 Jahre, Gen 25:7, außerhalb des Umfangs dieser Datei)
 
 **Anmerkung:** Wenn Abram Terachs Erstgeborener ist (zuerst aufgeführt bei 11:26) und Terach bei der Geburt seines ersten Sohnes 70 war, dann wurde Abram AM 1948 geboren. Allerdings erklärt Gen 12:4, dass Abram 75 war, als er Charan verließ, und Gen 11:32, dass Terach in Charan mit 205 starb. Wenn Abram nach Terachs Tod aufbrach, wurde Abram geboren, als Terach 130 war (205 - 75), nicht 70. Der Text harmonisiert diese Zahlen nicht. Hier aufgeführt ist die Berechnung unter der Annahme, dass Terach bei Abrams Geburt 70 war, aber die Spannung wird vermerkt.
 
@@ -799,30 +799,30 @@ Diese Datei enthält biografische und genealogische Informationen über Personen
 **Geburtsjahr:** nicht angegeben
 **Todesjahr:** nicht angegeben innerhalb Gen 1–12
 **Lebensdauer:** nicht angegeben innerhalb Gen 1–12
-**Vater:** nicht angegeben in Gen 1–12 (Gen 20:12 identifiziert sie spÃ¤ter als Abrams Halbschwester)
+**Vater:** nicht angegeben in Gen 1–12 (Gen 20:12 identifiziert sie später als Abrams Halbschwester)
 **Mutter:** nicht angegeben
 **Ehepartner:** Abram (Gen 11:29)
 **Kinder:** keine innerhalb Gen 1–12 (unfruchtbar, Gen 11:30)
-**Ort(e):** Ur der Kasdim (Gen 11:31); Charan (Gen 11:31); Kanaan (Gen 12:5); Ãgypten (Gen 12:11–20)
+**Ort(e):** Ur der Kasdim (Gen 11:31); Charan (Gen 11:31); Kanaan (Gen 12:5); Ägypten (Gen 12:11–20)
 **Erste Erwähnung:** Gen 11:29
-**ErwÃ¤hnt in:** Gen 11:29–31; 12:5, 11–17
-**Wichtige Ereignisse:** Als Frau Abrams benannt (11:29); als unfruchtbar erklÃ¤rt (11:30); zog von Ur mit Terach und Abram (11:31); mit Abram nach Ãgypten gebracht (12:5); Abram bat sie zu sagen, sie sei seine Schwester (12:11–13); in Pharaos Haus genommen (12:15); JHWH schlug Pharao mit Plagen ihretwegen (12:17)
+**Erwähnt in:** Gen 11:29–31; 12:5, 11–17
+**Wichtige Ereignisse:** Als Frau Abrams benannt (11:29); als unfruchtbar erklärt (11:30); zog von Ur mit Terach und Abram (11:31); mit Abram nach Ägypten gebracht (12:5); Abram bat sie zu sagen, sie sei seine Schwester (12:11–13); in Pharaos Haus genommen (12:15); JHWH schlug Pharao mit Plagen ihretwegen (12:17)
 
 **Vertrauter Name:** Sarai (Name wird zu Sarah in Gen 17:15 geändert, außerhalb des Umfangs dieser Datei)
 **Beruf:** nicht angegeben
 **Gesellschaftliche Schicht:** Frau eines wohlhabenden Patriarchen; in Pharaos Haushalt aufgenommen (Gen 12:15), was anerkannte Schönheit und Status impliziert
 **Heimatort:** Ur der Kasdim (Gen 11:31)
-**Orte, an denen sie lebte:** Ur der Kasdim; Charan (Gen 11:31); Land Kanaan (Gen 12:5); Ãgypten (Gen 12:11–20)
+**Orte, an denen sie lebte:** Ur der Kasdim; Charan (Gen 11:31); Land Kanaan (Gen 12:5); Ägypten (Gen 12:11–20)
 **Alter bei erster Mutterschaft:** nicht zutreffend
 **Todesursache:** nicht angegeben innerhalb Gen 1–12
-**Geschwister:** nicht angegeben in Gen 1–12 (Gen 20:12 enthÃ¼llt spÃ¤ter, dass sie Abrams Halbschwester ist)
+**Geschwister:** nicht angegeben in Gen 1–12 (Gen 20:12 enthüllt später, dass sie Abrams Halbschwester ist)
 **Archäologische Belege:** Keine direkten archäologischen Belege
-**AuÃerbiblische ErwÃ¤hnungen:** Josephus, *AltertÃ¼mer* I.8; Koran (Sarah namenlos, aber in Ibrahim-ErzÃ¤hlungen prÃ¤sent, Sure 11:71–73); HebrÃ¤er 11:11; 1. Petrus 3:6
+**Außerbiblische Erwähnungen:** Josephus, *Altertümer* I.8; Koran (Sarah namenlos, aber in Ibrahim-Erzählungen präsent, Sure 11:71–73); Hebräer 11:11; 1. Petrus 3:6
 **Historischer Status:** UNSICHER
 **Bücher, in denen sie vorkommt:** Genesis; Jesaja 51:2; Römer 4:19; 9:9; Hebräer 11:11; 1. Petrus 3:6
-**Charakterbogen:** Als unfruchtbar und schÃ¶n eingefÃ¼hrt, wird sie zweimal durch Abrams selbstschÃ¼tzende TÃ¤uschung gefÃ¤hrdet; innerhalb Gen 1–12 ist sie vollstÃ¤ndig Objekt statt Akteurin, aber ihre Unfruchtbarkeit treibt die ErzÃ¤hlspannung in die VerheiÃung.
+**Charakterbogen:** Als unfruchtbar und schön eingeführt, wird sie zweimal durch Abrams selbstschützende Täuschung gefährdet; innerhalb Gen 1–12 ist sie vollständig Objekt statt Akteurin, aber ihre Unfruchtbarkeit treibt die Erzählspannung in die Verheißung.
 **Jahr seit der Schöpfung:** nicht angegeben
-**Jahr seit der SchÃ¶pfung â Ende:** nicht angegeben innerhalb Gen 1–12
+**Jahr seit der Schöpfung — Ende:** nicht angegeben innerhalb Gen 1–12
 
 ---
 
@@ -839,11 +839,11 @@ Diese Datei enthält biografische und genealogische Informationen über Personen
 **Kinder:** nicht angegeben innerhalb Gen 1–12
 **Ort(e):** Ur der Kasdim (Gen 11:28, 31); Charan (Gen 11:31); Kanaan (Gen 12:5)
 **Erste Erwähnung:** Gen 11:27
-**ErwÃ¤hnt in:** Gen 11:27, 31; 12:4–5
+**Erwähnt in:** Gen 11:27, 31; 12:4–5
 **Wichtige Ereignisse:** Haran geboren (11:27); sein Vater Haran starb in Ur (11:28); von Terach von Ur Richtung Kanaan mitgenommen (11:31); ging mit Abram von Charan nach Kanaan (12:4–5)
 
 **Vertrauter Name:** Lot
-**Beruf:** nicht angegeben innerhalb Gen 1–12 (spÃ¤ter als wohlhabender Hirte in Gen 13 dargestellt)
+**Beruf:** nicht angegeben innerhalb Gen 1–12 (später als wohlhabender Hirte in Gen 13 dargestellt)
 **Gesellschaftliche Schicht:** nicht angegeben; reist mit Abram als abhängiger Neffe
 **Heimatort:** Ur der Kasdim (Gen 11:28)
 **Orte, an denen er lebte:** Ur der Kasdim; Charan (Gen 11:31); Land Kanaan (Gen 12:5)
@@ -851,18 +851,18 @@ Diese Datei enthält biografische und genealogische Informationen über Personen
 **Todesursache:** nicht angegeben
 **Geschwister:** Milkah, Yiskah (Gen 11:29)
 **Archäologische Belege:** Keine direkten archäologischen Belege
-**AuÃerbiblische ErwÃ¤hnungen:** Josephus, *AltertÃ¼mer* I.8–11; Koran, Sure 7:80–84; 11:77–83; 15:59–77 (Lut, ausfÃ¼hrliche ErzÃ¤hlung); 2. Petrus 2:7
+**Außerbiblische Erwähnungen:** Josephus, *Altertümer* I.8–11; Koran, Sure 7:80–84; 11:77–83; 15:59–77 (Lut, ausführliche Erzählung); 2. Petrus 2:7
 **Historischer Status:** UNSICHER
-**BÃ¼cher, in denen er vorkommt:** Genesis; Lukas 17:28–32; 2. Petrus 2:7
-**Charakterbogen:** In Ur verwaist, schlieÃt er sich Abram an und reist mit ihm; innerhalb Gen 1–12 ist er ein AbhÃ¤ngiger, der noch keine eigenstÃ¤ndige Wahl getroffen hat â seine PrÃ¼fung kommt spÃ¤ter.
+**Bücher, in denen er vorkommt:** Genesis; Lukas 17:28–32; 2. Petrus 2:7
+**Charakterbogen:** In Ur verwaist, schließt er sich Abram an und reist mit ihm; innerhalb Gen 1–12 ist er ein Abhängiger, der noch keine eigenständige Wahl getroffen hat — seine Prüfung kommt später.
 **Jahr seit der Schöpfung:** nicht angegeben
 **Jahr seit der Schöpfung — Ende:** nicht angegeben
 
-**Anmerkung:** Lot ist Abrams Neffe (Sohn von Abrams Bruder Haran). Seine Trennung von Abram und die Sedom-ErzÃ¤hlung finden sich in Gen 13–19, auÃerhalb des Umfangs dieser Datei.
+**Anmerkung:** Lot ist Abrams Neffe (Sohn von Abrams Bruder Haran). Seine Trennung von Abram und die Sedom-Erzählung finden sich in Gen 13–19, außerhalb des Umfangs dieser Datei.
 
 ---
 
-## Genealogie Shem-bis-Abram (Gen 11:10–26) â Ãbersichtstabelle
+## Genealogie Shem-bis-Abram (Gen 11:10–26) — Übersichtstabelle
 
 Alle Daten AM, nach Arithmetik des Masoretischen Textes.
 
@@ -879,7 +879,7 @@ Alle Daten AM, nach Arithmetik des Masoretischen Textes.
 | Terach | 1878 | 70 | Abram (siehe Anm.) | 135 | 2083 | 205 |
 | Abram | 1948 | — | — | — | — | — |
 
-**Anmerkung:** Die Lebensdauern fallen vom vorsintflutlichen zum nachsintflutlichen Zeitraum stark ab. Die vorsintflutlichen Patriarchen leben 777–969 Jahre; die nachsintflutliche Linie fÃ¤llt von 600 (Shem) auf 148 (Nahor). Der Text verzeichnet die Zahlen ohne Kommentar.
+**Anmerkung:** Die Lebensdauern fallen vom vorsintflutlichen zum nachsintflutlichen Zeitraum stark ab. Die vorsintflutlichen Patriarchen leben 777–969 Jahre; die nachsintflutliche Linie fällt von 600 (Shem) auf 148 (Nahor). Der Text verzeichnet die Zahlen ohne Kommentar.
 
 ---
 

@@ -707,7 +707,13 @@ function flushCuriosity(state: ParseState): void {
 function flushEntry(state: ParseState, entries: PersonEntry[]): void {
   flushCuriosity(state);
   if (state.current?.name) {
-    entries.push(finalizeEntry(state.current));
+    const entry = finalizeEntry(state.current);
+    if (entries.some((existing) => existing.slug === entry.slug)) {
+      console.warn(
+        `[people-parser] Duplicate slug "${entry.slug}" — entries "${entry.name}" and an earlier homonym will collide on slug-derived React keys and cross-references. Disambiguate by using a different transliteration form in the heading (e.g., source-language form for one + familiar form in parentheses).`,
+      );
+    }
+    entries.push(entry);
   }
   state.current = null;
   state.inCuriosities = false;

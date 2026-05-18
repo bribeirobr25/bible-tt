@@ -33,7 +33,7 @@
 ***Kursiv:*** Wörter für deutsche Grammatik hinzugefügt (nicht im hebräischen Text)
 **„Anführungszeichen":** Direkte göttliche Rede oder menschliche Rede
 **JHWH:** Tetragrammaton konsonantisch transliteriert (Regel 25, Option A)
-**Eva (Eva), nachash, usw.:** Transliterierte hebräische Begriffe (in Notizen erklärt)
+**Chava (Eva), nachash, usw.:** Transliterierte hebräische Begriffe (in Notizen erklärt)
 
 **Notizen-Symbole:**
 - 🔴 **KRITISCH** - Wichtige textliche oder Übersetzungsentscheidungen
@@ -53,7 +53,7 @@
 
 **Achten Sie auf:** Die Schlange verwendet nur „Elohim", nie „JHWH Elohim"; der Mann war „mit ihr" während des Dialogs (3:6); „sterbend wirst du sterben" (2:17) versus „nicht sterbend werdet ihr sterben" (3:4) — dieselbe grammatische Konstruktion, verneint; die Worte des Textes in 3:22 greifen die Behauptung der Schlange in 3:5 auf, während der Erzählkontext Konsequenzen zeigt, die die Schlange nicht erwähnt hat; „Staub *bist* du" (Präsens, nicht Futur) — Sterblichkeit als inhärent, nicht neu auferlegt.
 
-**Verbindung:** Die Vertreibung aus dem Garten führt direkt zu Kain (Kain) und Abel (Abel) (Kapitel 4). Der Fluch über den Boden (3:17) hallt wider in 5:29 (Noahs Benennung) und 8:21 (JHWHs Entschluss nach der Flut).
+**Verbindung:** Die Vertreibung aus dem Garten führt direkt zu Qayin (Kain) und Hevel (Abel) (Kapitel 4). Der Fluch über den Boden (3:17) hallt wider in 5:29 (Noahs Benennung) und 8:21 (JHWHs Entschluss nach der Flut).
 
 ---
 
@@ -75,7 +75,7 @@
 
 ¹⁷Und zum Menschen sprach er: „Weil du auf die Stimme deiner Frau gehört hast und vom Baum gegessen hast, von dem ich dir geboten hatte, sprechend: 'Du sollst nicht davon essen,' verflucht *ist* der Boden um deinetwillen; in Mühsal wirst du *davon* essen alle Tage deines Lebens. ¹⁸Und Dorn und Distel wird er dir hervorbringen, und du wirst das Kraut des Feldes essen. ¹⁹Im Schweiße deines Angesichts wirst du Brot essen, bis du zum Boden zurückkehrst, denn von ihm wurdest du genommen; denn Staub *bist* du, und zum Staub wirst du zurückkehren."
 
-²⁰Und der Mensch nannte den Namen seiner Frau Eva (Eva), denn sie war Mutter alles Lebendigen. ²¹Und JHWH Elohim machte dem Menschen und seiner Frau Gewänder aus Fell, und er kleidete sie.
+²⁰Und der Mensch nannte den Namen seiner Frau Chava (Eva), denn sie war Mutter alles Lebendigen. ²¹Und JHWH Elohim machte dem Menschen und seiner Frau Gewänder aus Fell, und er kleidete sie.
 
 ²²Und JHWH Elohim sprach: „Siehe, der Mensch ist geworden wie einer von uns, Gutes und Böses zu erkennen; und nun, damit er nicht seine Hand ausstrecke und auch vom Baum des Lebens nehme und esse und lebe in Ewigkeit…" ²³Und JHWH Elohim schickte ihn hinaus aus dem Garten Eden, den Boden zu bearbeiten, von dem er genommen worden war. ²⁴Und er vertrieb den Menschen; und er ließ östlich vom Garten Eden wohnen die Cherubim und die Flamme des sich wendenden Schwertes, um den Weg des Baumes des Lebens zu bewachen.
 
@@ -353,7 +353,7 @@ Im Schweiße deines Angesichts wirst du Brot essen, bis du zum Boden zurückkehr
 
 ### **Vers 20**
 
-Und der Mensch nannte den Namen seiner Frau Eva (Eva), denn sie war Mutter alles Lebendigen.
+Und der Mensch nannte den Namen seiner Frau Chava (Eva), denn sie war Mutter alles Lebendigen.
 
 > **📝 NOTIZEN**
 >

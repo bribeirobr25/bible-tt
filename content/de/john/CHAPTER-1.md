@@ -45,11 +45,11 @@
 
 ## KAPITELÜBERSICHT
 
-**Was geschieht:** Das Kapitel beginnt mit einem kosmologischen Prolog, der das „Wort" (*logos*) mit dem Anfang der Schöpfung, mit Gott und mit allem, was ins Dasein kam, verbindet. Das Wort wird Fleisch und wohnt unter den Menschen. Johannes (Johannes) der Untertaucher wird als Zeuge des Lichtes eingeführt, nicht als das Licht selbst. Er bezeugt vor Priestern und Leviten, die aus Jerusalem (Jerusalem) gesandt wurden, und verneint, dass er der Gesalbte, Elia (Elia) oder der Prophet sei. Am nächsten Tag identifiziert Johannes Jesus (Jesus) als „das Lamm Gottes, das die Sünde der Welt hinwegnimmt" und bezeugt, den Wind/Geist wie eine Taube auf ihn herabsteigen gesehen zu haben. Zwei von Johannes' Nachfolgern beginnen Jesus zu folgen — Andreas und ein ungenannter Nachfolger. Andreas bringt seinen Bruder Simon (Simon), den Jesus in Petrus (Petrus) („Fels") umbenennt. Jesus findet Philippus (Philippus), der Nathanael findet. Nathanaels Skepsis weicht der Erkenntnis, und Jesus verspricht Größeres — den geöffneten Himmel und die Boten Gottes, die über dem Menschensohn auf- und absteigen.
+**Was geschieht:** Das Kapitel beginnt mit einem kosmologischen Prolog, der das „Wort" (*logos*) mit dem Anfang der Schöpfung, mit Gott und mit allem, was ins Dasein kam, verbindet. Das Wort wird Fleisch und wohnt unter den Menschen. Yochanan (Johannes) der Untertaucher wird als Zeuge des Lichtes eingeführt, nicht als das Licht selbst. Er bezeugt vor Priestern und Leviten, die aus Yerushalayim (Jerusalem) gesandt wurden, und verneint, dass er der Gesalbte, Eliyahu (Elia) oder der Prophet sei. Am nächsten Tag identifiziert Johannes Yeshua (Jesus) als „das Lamm Gottes, das die Sünde der Welt hinwegnimmt" und bezeugt, den Wind/Geist wie eine Taube auf ihn herabsteigen gesehen zu haben. Zwei von Johannes' Nachfolgern beginnen Jesus zu folgen — Andreas und ein ungenannter Nachfolger. Andreas bringt seinen Bruder Shimon (Simon), den Jesus in Kefa (Petrus) („Fels") umbenennt. Jesus findet Philippos (Philippus), der Nathanael findet. Nathanaels Skepsis weicht der Erkenntnis, und Jesus verspricht Größeres — den geöffneten Himmel und die Boten Gottes, die über dem Menschensohn auf- und absteigen.
 
-**Zentrale Themen:** Der *logos* als vor-existenter Schöpfungsagent; Licht gegen Finsternis; Zeugnis (*martyria*) als Hauptfunktion des Untertauchers; „Fleisch" (*sarx*) — das griechische *sarx* umfasst physische, sterbliche, leibliche Existenz. Einige paulinische Interpretationstraditionen geben es als „sündige Natur" wieder (Kontext von Römer 7–8); bei Johannes ist *sarx* durchgehend physisch/sterblich; Gnade/Gunst und Wahrheit (*charis kai alētheia*) durch Jesus den Gesalbten gegenüber dem Gesetz durch Mose (Mose); „Niemand hat Gott je gesehen" — eine theologische Grenzaussage; das Lamm Gottes; der herabsteigende Wind/Geist; die Sammlung der ersten Nachfolger; das Jakobsleiter-Echo (Gen 28,12) in V.51.
+**Zentrale Themen:** Der *logos* als vor-existenter Schöpfungsagent; Licht gegen Finsternis; Zeugnis (*martyria*) als Hauptfunktion des Untertauchers; „Fleisch" (*sarx*) — das griechische *sarx* umfasst physische, sterbliche, leibliche Existenz. Einige paulinische Interpretationstraditionen geben es als „sündige Natur" wieder (Kontext von Römer 7–8); bei Johannes ist *sarx* durchgehend physisch/sterblich; Gnade/Gunst und Wahrheit (*charis kai alētheia*) durch Jesus den Gesalbten gegenüber dem Gesetz durch Mosheh (Mose); „Niemand hat Gott je gesehen" — eine theologische Grenzaussage; das Lamm Gottes; der herabsteigende Wind/Geist; die Sammlung der ersten Nachfolger; das Jakobsleiter-Echo (Gen 28,12) in V.51.
 
-**Worauf achten:** Das Imperfekt *ēn* („war") in V.1 — fortdauerndes Sein, im Kontrast zum Aorist *egeneto* („kam ins Dasein") in V.3; die mehrdeutige Satzgrenze in VV.3–4 (was gehört wohin); „in ihm war Leben" oder „was ins Dasein kam — in ihm war Leben" — beide Lesarten vermerkt; der Wechsel vom kosmischen Prolog (VV.1–18) zur narrativen Bezeugung (VV.19–51); die dreifache Verneinung Johannes' (nicht der Gesalbte, nicht Elia, nicht der Prophet); der mosaische Prophet aus Dtn 18,15 hinter „dem Propheten"; die Umbenennung Simons zu Petrus (Echo von Abram (Abram) → Abraham (Abraham)); „Kann aus Nazareth (Nazareth) etwas Gutes kommen?" — Nathanaels Skepsis; der Menschensohn-Titel (erste Verwendung in diesem Evangelium).
+**Worauf achten:** Das Imperfekt *ēn* („war") in V.1 — fortdauerndes Sein, im Kontrast zum Aorist *egeneto* („kam ins Dasein") in V.3; die mehrdeutige Satzgrenze in VV.3–4 (was gehört wohin); „in ihm war Leben" oder „was ins Dasein kam — in ihm war Leben" — beide Lesarten vermerkt; der Wechsel vom kosmischen Prolog (VV.1–18) zur narrativen Bezeugung (VV.19–51); die dreifache Verneinung Johannes' (nicht der Gesalbte, nicht Elia, nicht der Prophet); der mosaische Prophet aus Dtn 18,15 hinter „dem Propheten"; die Umbenennung Simons zu Petrus (Echo von Avram (Abram) → Avraham (Abraham)); „Kann aus Natseret (Nazareth) etwas Gutes kommen?" — Nathanaels Skepsis; der Menschensohn-Titel (erste Verwendung in diesem Evangelium).
 
 **Verbindung:** Das Anfangswort „Im Anfang" (ἐν ἀρχῇ) ist ein direktes Echo von Gen 1,1 (בְּרֵאשִׁית). Die Schöpfung durch Rede in Gen 1 („Und Gott sprach") findet ihr theologisches Gegenstück im *logos*, durch den alles ins Dasein kam. Licht und Finsternis (Gen 1,3–5) erscheinen als kosmische Kategorien wieder. Der Wind/Geist (*pneuma*), der über den Wassern schwebte (Gen 1,2), verbindet sich mit dem Wind/Geist, der bei der Untertauchung auf Jesus herabsteigt. Die auf- und absteigenden Boten (V.51) zitieren direkt Yaaqovs Leitervision (Gen 28,12).
 
@@ -63,21 +63,21 @@
 
 ¹Im Anfang war das Wort, und das Wort war bei Gott, und das Wort war Gott. ²Dieses war im Anfang bei Gott. ³Alle Dinge kamen durch ihn ins Dasein, und ohne ihn kam nicht ein einziges Ding ins Dasein. Was ins Dasein gekommen ist — ⁴in ihm war Leben, und das Leben war das Licht der Menschen. ⁵Und das Licht scheint in der Finsternis, und die Finsternis hat es nicht überwältigt.
 
-⁶Es kam ein Mensch ins Dasein, gesandt von Gott — sein Name *war* Johannes (Johannes). ⁷Dieser kam zum Zeugnis, damit er über das Licht Zeugnis ablege, damit alle durch ihn vertrauen. ⁸Er war nicht das Licht, sondern *kam*, damit er über das Licht Zeugnis ablege. ⁹Das wahre Licht, das jeden Menschen erleuchtet, kam in die Welt. ¹⁰Er war in der Welt, und die Welt kam durch ihn ins Dasein, und die Welt erkannte ihn nicht. ¹¹Er kam in das Seine, und die Seinen nahmen ihn nicht auf. ¹²Aber so viele ihn aufnahmen, denen gab er das Recht, Kinder Gottes zu werden — denen, die auf seinen Namen vertrauen, ¹³die nicht aus Bluten geboren wurden, noch aus dem Willen des Fleisches, noch aus dem Willen eines Mannes, sondern aus Gott.
+⁶Es kam ein Mensch ins Dasein, gesandt von Gott — sein Name *war* Yochanan (Johannes). ⁷Dieser kam zum Zeugnis, damit er über das Licht Zeugnis ablege, damit alle durch ihn vertrauen. ⁸Er war nicht das Licht, sondern *kam*, damit er über das Licht Zeugnis ablege. ⁹Das wahre Licht, das jeden Menschen erleuchtet, kam in die Welt. ¹⁰Er war in der Welt, und die Welt kam durch ihn ins Dasein, und die Welt erkannte ihn nicht. ¹¹Er kam in das Seine, und die Seinen nahmen ihn nicht auf. ¹²Aber so viele ihn aufnahmen, denen gab er das Recht, Kinder Gottes zu werden — denen, die auf seinen Namen vertrauen, ¹³die nicht aus Bluten geboren wurden, noch aus dem Willen des Fleisches, noch aus dem Willen eines Mannes, sondern aus Gott.
 
-¹⁴Und das Wort wurde Fleisch und wohnte unter uns, und wir sahen seine Herrlichkeit — Herrlichkeit wie eines Einziggeborenen von einem Vater — voll Gnade/Gunst und Wahrheit. ¹⁵Johannes legt Zeugnis ab über ihn und hat ausgerufen und gesagt: „Dieser war es, von dem ich sagte: ‚Der nach mir Kommende ist vor mir geworden, denn er war eher als ich.'" ¹⁶Denn aus seiner Fülle haben wir alle empfangen, und *zwar* Gnade/Gunst um Gnade/Gunst. ¹⁷Denn das Gesetz wurde durch Mose (Mose) gegeben; die Gnade/Gunst und die Wahrheit kamen durch Jesus (Jesus), den Gesalbten, ins Dasein. ¹⁸Gott hat niemand je gesehen; der einzig-geborene Gott, der im Schoß des Vaters ist — der hat *ihn* kundgetan.
+¹⁴Und das Wort wurde Fleisch und wohnte unter uns, und wir sahen seine Herrlichkeit — Herrlichkeit wie eines Einziggeborenen von einem Vater — voll Gnade/Gunst und Wahrheit. ¹⁵Johannes legt Zeugnis ab über ihn und hat ausgerufen und gesagt: „Dieser war es, von dem ich sagte: ‚Der nach mir Kommende ist vor mir geworden, denn er war eher als ich.'" ¹⁶Denn aus seiner Fülle haben wir alle empfangen, und *zwar* Gnade/Gunst um Gnade/Gunst. ¹⁷Denn das Gesetz wurde durch Mosheh (Mose) gegeben; die Gnade/Gunst und die Wahrheit kamen durch Yeshua (Jesus), den Gesalbten, ins Dasein. ¹⁸Gott hat niemand je gesehen; der einzig-geborene Gott, der im Schoß des Vaters ist — der hat *ihn* kundgetan.
 
-¹⁹Und dies ist das Zeugnis Johannes', als die Yehudim Priester und Leviten aus Jerusalem (Jerusalem) sandten, um ihn zu fragen: „Wer bist du?" ²⁰Und er bekannte und leugnete nicht, und er bekannte: „Ich bin nicht der Gesalbte." ²¹Und sie fragten ihn: „Was dann? Bist du Elia (Elia)?" Und er sagt: „Ich bin es nicht." „Bist du der Prophet?" Und er antwortete: „Nein." ²²Da sagten sie zu ihm: „Wer bist du? — damit wir denen Antwort geben können, die uns gesandt haben. Was sagst du über dich selbst?" ²³Er sagte: „Ich *bin* eine Stimme, die in der Wüste ruft: ‚Macht gerade den Weg des Herrn'" — wie der Prophet Jesaja (Jesaja) sagte.
+¹⁹Und dies ist das Zeugnis Johannes', als die Yehudim Priester und Leviten aus Yerushalayim (Jerusalem) sandten, um ihn zu fragen: „Wer bist du?" ²⁰Und er bekannte und leugnete nicht, und er bekannte: „Ich bin nicht der Gesalbte." ²¹Und sie fragten ihn: „Was dann? Bist du Eliyahu (Elia)?" Und er sagt: „Ich bin es nicht." „Bist du der Prophet?" Und er antwortete: „Nein." ²²Da sagten sie zu ihm: „Wer bist du? — damit wir denen Antwort geben können, die uns gesandt haben. Was sagst du über dich selbst?" ²³Er sagte: „Ich *bin* eine Stimme, die in der Wüste ruft: ‚Macht gerade den Weg des Herrn'" — wie der Prophet Yeshayahu (Jesaja) sagte.
 
-²⁴Und die Gesandten waren von den Pharisäer. ²⁵Und sie fragten ihn und sagten zu ihm: „Warum tauchst du dann unter, wenn du nicht der Gesalbte bist, noch Elia, noch der Prophet?" ²⁶Johannes antwortete ihnen und sagte: „Ich tauche in Wasser unter; in eurer Mitte steht einer, den ihr nicht kennt — ²⁷der nach mir Kommende, dem die Riemen seiner Sandale zu lösen ich nicht würdig bin." ²⁸Dies geschah in Bethanien (Bethanien) jenseits des Jordan (Jordan), wo Johannes untertauchte.
+²⁴Und die Gesandten waren von den Pharisäer. ²⁵Und sie fragten ihn und sagten zu ihm: „Warum tauchst du dann unter, wenn du nicht der Gesalbte bist, noch Elia, noch der Prophet?" ²⁶Johannes antwortete ihnen und sagte: „Ich tauche in Wasser unter; in eurer Mitte steht einer, den ihr nicht kennt — ²⁷der nach mir Kommende, dem die Riemen seiner Sandale zu lösen ich nicht würdig bin." ²⁸Dies geschah in Beyt-Anyah (Bethanien) jenseits des Yarden (Jordan), wo Johannes untertauchte.
 
 ²⁹Am nächsten Tag sieht er Jesus auf sich zukommen und sagt: „Siehe, das Lamm Gottes, das die Sünde der Welt hinwegnimmt. ³⁰Dieser ist es, über den ich sagte: ‚Nach mir kommt ein Mann, der vor mir geworden ist, denn er war eher als ich.' ³¹Und ich kannte ihn nicht, aber damit er Yisrael offenbart werde — deswegen kam ich, in Wasser unterzutauchen." ³²Und Johannes bezeugte und sagte: „Ich habe den Wind/Geist herabsteigen sehen wie eine Taube aus dem Himmel, und er blieb auf ihm. ³³Und ich kannte ihn nicht, aber der mich sandte, in Wasser unterzutauchen, der sagte zu mir: ‚Auf wen du den Wind/Geist herabsteigen und auf ihm bleiben siehst — dieser ist es, der im heiligen Wind/Geist untertaucht.' ³⁴Und ich habe gesehen, und ich habe bezeugt, dass dieser der Sohn Gottes ist."
 
 ³⁵Am nächsten Tag stand Johannes wieder *da*, und *zwei* seiner Nachfolger, ³⁶und er blickte auf Jesus, der vorüberging, und sagt: „Siehe, das Lamm Gottes." ³⁷Und die zwei Nachfolger hörten ihn reden und folgten Jesus. ³⁸Und Jesus wandte sich um, und als er sie folgen sah, sagt er zu ihnen: „Was sucht ihr?" Und sie sagten zu ihm: „Rabbi" — was, übersetzt, Lehrer bedeutet — „wo wohnst du?" ³⁹Er sagt zu ihnen: „Kommt und seht." Sie kamen und sahen, wo er wohnte, und blieben bei ihm jenen Tag; *es war* um die zehnte Stunde.
 
-⁴⁰Andreas, der Bruder Simon (Simon) Petrus', war einer der zwei, die von Johannes gehört hatten und ihm gefolgt waren. ⁴¹Dieser findet zuerst seinen eigenen Bruder Simon und sagt zu ihm: „Wir haben den Messias gefunden" — was, übersetzt, *der* Gesalbte *heißt*. ⁴²Er brachte ihn zu Jesus. Jesus blickte ihn an *und* sagte: „Du bist Simon, der Sohn Johannes'; du wirst Petrus (Petrus) genannt werden" — was übersetzt „Fels" *bedeutet*.
+⁴⁰Andreas, der Bruder Shimon (Simon) Petrus', war einer der zwei, die von Johannes gehört hatten und ihm gefolgt waren. ⁴¹Dieser findet zuerst seinen eigenen Bruder Simon und sagt zu ihm: „Wir haben den Messias gefunden" — was, übersetzt, *der* Gesalbte *heißt*. ⁴²Er brachte ihn zu Jesus. Jesus blickte ihn an *und* sagte: „Du bist Simon, der Sohn Johannes'; du wirst Kefa (Petrus) genannt werden" — was übersetzt „Fels" *bedeutet*.
 
-⁴³Am nächsten Tag wollte er in den Galiläa (Galiläa) aufbrechen, und er findet Philippus (Philippus). Und Jesus sagt zu ihm: „Folge mir." ⁴⁴Und Philippus war aus Beyt-Tsaidah, aus der Stadt des Andreas und des Petrus. ⁴⁵Philippus findet Nathanael und sagt zu ihm: „Den, über den Mose im Gesetz geschrieben hat, und die Propheten — den haben wir gefunden: Jesus, Sohn des Josef (Josef), aus Nazareth (Nazareth)." ⁴⁶Und Nathanael sagte zu ihm: „Kann aus Nazareth etwas Gutes kommen?" Philippus sagt zu ihm: „Komm und sieh."
+⁴³Am nächsten Tag wollte er in den Galil (Galiläa) aufbrechen, und er findet Philippos (Philippus). Und Jesus sagt zu ihm: „Folge mir." ⁴⁴Und Philippus war aus Beyt-Tsaidah, aus der Stadt des Andreas und des Petrus. ⁴⁵Philippus findet Nathanael und sagt zu ihm: „Den, über den Mose im Gesetz geschrieben hat, und die Propheten — den haben wir gefunden: Jesus, Sohn des Yosef (Josef), aus Natseret (Nazareth)." ⁴⁶Und Nathanael sagte zu ihm: „Kann aus Nazareth etwas Gutes kommen?" Philippus sagt zu ihm: „Komm und sieh."
 
 ⁴⁷Jesus sah Nathanael auf sich zukommen und sagt über ihn: „Siehe, wahrhaftig ein Yisraeli, in dem kein Trug ist." ⁴⁸Nathanael sagt zu ihm: „Woher kennst du mich?" Jesus antwortete und sagte zu ihm: „Bevor Philippus dich rief, *als du* unter dem Feigenbaum *warst*, sah ich dich." ⁴⁹Nathanael antwortete ihm: „Rabbi, du bist der Sohn Gottes; du bist der König Yisraels." ⁵⁰Jesus antwortete und sagte zu ihm: „Weil ich dir sagte, dass ich dich unter dem Feigenbaum sah, vertraust du? Du wirst Größeres sehen als dies." ⁵¹Und er sagt zu ihm: „Amen, amen, ich sage euch: Ihr werdet den Himmel geöffnet sehen und die Boten Gottes aufsteigen und herabsteigen über dem Menschensohn."
 
@@ -166,7 +166,7 @@ Und das Licht scheint in der Finsternis, und die Finsternis hat es nicht überw�
 
 ### **Vers 6**
 
-Es kam ein Mensch ins Dasein, gesandt von Gott — sein Name *war* Johannes (Johannes).
+Es kam ein Mensch ins Dasein, gesandt von Gott — sein Name *war* Yochanan (Johannes).
 
 > **📝 NOTIZEN**
 >
@@ -314,7 +314,7 @@ Denn aus seiner Fülle haben wir alle empfangen, und *zwar* Gnade/Gunst um Gnade
 
 ### **Vers 17**
 
-Denn das Gesetz wurde durch Mose (Mose) gegeben; die Gnade/Gunst und die Wahrheit kamen durch Jesus (Jesus), den Gesalbten, ins Dasein.
+Denn das Gesetz wurde durch Mosheh (Mose) gegeben; die Gnade/Gunst und die Wahrheit kamen durch Yeshua (Jesus), den Gesalbten, ins Dasein.
 
 > **📝 NOTIZEN**
 >
@@ -345,7 +345,7 @@ Gott hat niemand je gesehen; der einzig-geborene Gott, der im Schoß des Vaters 
 
 ### **Vers 19**
 
-Und dies ist das Zeugnis Johannes', als die Yehudim Priester und Leviten aus Jerusalem (Jerusalem) sandten, um ihn zu fragen: „Wer bist du?"
+Und dies ist das Zeugnis Johannes', als die Yehudim Priester und Leviten aus Yerushalayim (Jerusalem) sandten, um ihn zu fragen: „Wer bist du?"
 
 > **📝 NOTIZEN**
 >
@@ -370,7 +370,7 @@ Und er bekannte und leugnete nicht, und er bekannte: „Ich bin nicht der Gesalb
 
 ### **Vers 21**
 
-Und sie fragten ihn: „Was dann? Bist du Elia (Elia)?" Und er sagt: „Ich bin es nicht." „Bist du der Prophet?" Und er antwortete: „Nein."
+Und sie fragten ihn: „Was dann? Bist du Eliyahu (Elia)?" Und er sagt: „Ich bin es nicht." „Bist du der Prophet?" Und er antwortete: „Nein."
 
 > **📝 NOTIZEN**
 >
@@ -395,7 +395,7 @@ Da sagten sie zu ihm: „Wer bist du? — damit wir denen Antwort geben können,
 
 ### **Vers 23**
 
-Er sagte: „Ich *bin* eine Stimme, die in der Wüste ruft: ‚Macht gerade den Weg des Herrn'" — wie der Prophet Jesaja (Jesaja) sagte.
+Er sagte: „Ich *bin* eine Stimme, die in der Wüste ruft: ‚Macht gerade den Weg des Herrn'" — wie der Prophet Yeshayahu (Jesaja) sagte.
 
 > **📝 NOTIZEN**
 >
@@ -453,7 +453,7 @@ der nach mir Kommende, dem die Riemen seiner Sandale zu lösen ich nicht würdig
 
 ### **Vers 28**
 
-Dies geschah in Bethanien (Bethanien) jenseits des Jordan (Jordan), wo Johannes untertauchte.
+Dies geschah in Beyt-Anyah (Bethanien) jenseits des Yarden (Jordan), wo Johannes untertauchte.
 
 > **📝 NOTIZEN**
 >
@@ -598,7 +598,7 @@ Er sagt zu ihnen: „Kommt und seht." Sie kamen und sahen, wo er wohnte, und bli
 
 ### **Vers 40**
 
-Andreas, der Bruder Simon (Simon) Petrus', war einer der zwei, die von Johannes gehört hatten und ihm gefolgt waren.
+Andreas, der Bruder Shimon (Simon) Petrus', war einer der zwei, die von Johannes gehört hatten und ihm gefolgt waren.
 
 > **📝 NOTIZEN**
 >
@@ -620,7 +620,7 @@ Dieser findet zuerst seinen eigenen Bruder Simon und sagt zu ihm: „Wir haben d
 
 ### **Vers 42**
 
-Er brachte ihn zu Jesus. Jesus blickte ihn an *und* sagte: „Du bist Simon, der Sohn Johannes'; du wirst Petrus (Petrus) genannt werden" — was übersetzt „Fels" *bedeutet*.
+Er brachte ihn zu Jesus. Jesus blickte ihn an *und* sagte: „Du bist Simon, der Sohn Johannes'; du wirst Kefa (Petrus) genannt werden" — was übersetzt „Fels" *bedeutet*.
 
 > **📝 NOTIZEN**
 >
@@ -628,13 +628,13 @@ Er brachte ihn zu Jesus. Jesus blickte ihn an *und* sagte: „Du bist Simon, der
 > - **Κηφᾶς** (*Kēphas*) = griechische Transliteration des aramäischen כֵּיפָא (*Petrus*, „Fels"). Der Erzähler fügt die griechische Übersetzung hinzu: Πέτρος (*Petros*, „Fels"). Die TT verwendet „Petrus" und gibt die Bedeutung „Fels" wieder, wie es der Erzähler tut.
 >
 > 🟡 **UMBENENNUNG — ECHOS VON AVRAM → AVRAHAM**
-> - Jesus benennt Simon in Petrus um, so wie Gott Abram (Abram) in Abraham (Abraham) umbenannte (Gen 17,5) und Yaaqov in Yisrael (Gen 32,28 [29]). Umbenennung signalisiert eine neue Identität und Berufung.
+> - Jesus benennt Simon in Petrus um, so wie Gott Avram (Abram) in Avraham (Abraham) umbenannte (Gen 17,5) und Yaaqov in Yisrael (Gen 32,28 [29]). Umbenennung signalisiert eine neue Identität und Berufung.
 
 ---
 
 ### **Vers 43**
 
-Am nächsten Tag wollte er in den Galiläa (Galiläa) aufbrechen, und er findet Philippus (Philippus). Und Jesus sagt zu ihm: „Folge mir."
+Am nächsten Tag wollte er in den Galil (Galiläa) aufbrechen, und er findet Philippos (Philippus). Und Jesus sagt zu ihm: „Folge mir."
 
 > **📝 NOTIZEN**
 >
@@ -656,7 +656,7 @@ Und Philippus war aus Beyt-Tsaidah, aus der Stadt des Andreas und des Petrus.
 
 ### **Vers 45**
 
-Philippus findet Nathanael und sagt zu ihm: „Den, über den Mose im Gesetz geschrieben hat, und die Propheten — den haben wir gefunden: Jesus, Sohn des Josef (Josef), aus Nazareth (Nazareth)."
+Philippus findet Nathanael und sagt zu ihm: „Den, über den Mose im Gesetz geschrieben hat, und die Propheten — den haben wir gefunden: Jesus, Sohn des Yosef (Josef), aus Natseret (Nazareth)."
 
 > **📝 NOTIZEN**
 >

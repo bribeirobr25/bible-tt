@@ -43,9 +43,9 @@
 
 ## KAPITELÜBERSICHT
 
-**Was geschieht:** Kain (Kain) (Bauer) und Abel (Abel) (Hirte) bringen Gaben dar; JHWH blickt auf Abels, aber nicht auf Kains. Trotz göttlicher Warnung tötet Kain Abel. JHWH stellt Kain zur Rede, erklärt ihn zum Umherirrenden, zeichnet ihn zum Schutz und Kain lässt sich im Land Nod nieder. Kains Genealogie folgt: Städtebau, Viehwirtschaft, Musik, Metallbearbeitung — gipfelnd in Lamechs Lied eskalierter Gewalt. Das Kapitel schließt mit Sets Geburt und dem Beginn des Anrufens von JHWHs Namen.
+**Was geschieht:** Qayin (Kain) (Bauer) und Hevel (Abel) (Hirte) bringen Gaben dar; JHWH blickt auf Abels, aber nicht auf Kains. Trotz göttlicher Warnung tötet Kain Abel. JHWH stellt Kain zur Rede, erklärt ihn zum Umherirrenden, zeichnet ihn zum Schutz und Kain lässt sich im Land Nod nieder. Kains Genealogie folgt: Städtebau, Viehwirtschaft, Musik, Metallbearbeitung — gipfelnd in Lamechs Lied eskalierter Gewalt. Das Kapitel schließt mit Sets Geburt und dem Beginn des Anrufens von JHWHs Namen.
 
-**Zentrale Themen:** Die erste Gabe und der erste Mord; göttliche Warnung unbeachtet (4:6–7, „die Sünde lagert an der Tür"); „Bin ich der Hüter meines Bruders?"; Blut, das vom Boden schreit (*adamah* erneut); das Zeichen Kains als Schutz; die Ursprünge der Zivilisation in der Linie des Mörders; Gewalteskalation (7-fach → 77-fach); Set (Set) als Ersatzlinie.
+**Zentrale Themen:** Die erste Gabe und der erste Mord; göttliche Warnung unbeachtet (4:6–7, „die Sünde lagert an der Tür"); „Bin ich der Hüter meines Bruders?"; Blut, das vom Boden schreit (*adamah* erneut); das Zeichen Kains als Schutz; die Ursprünge der Zivilisation in der Linie des Mörders; Gewalteskalation (7-fach → 77-fach); Shet (Set) als Ersatzlinie.
 
 **Achten Sie auf:** Der Text erklärt nie, *warum* JHWH auf Abels Gabe blickte und nicht auf Kains — die Leerstelle ist der Auslöser der Erzählung; Kains Strafe spiegelt die Adams (beide vom *adamah* vertrieben); Lamechs Lied (4:23–24) verkehrt JHWHs 7-fachen Schutz in 77-fache Rache; zwei Henochs und zwei Lamechs erscheinen in den parallelen Genealogien (Kap. 4 vs. Kap. 5).
 
@@ -59,17 +59,17 @@
 
 ---
 
-¹Und der Mensch erkannte Eva (Eva), seine Frau, und sie wurde schwanger und gebar Kain (Kain), und sie sprach: „Ich habe einen Mann erworben mit JHWH." ²Und sie gebar abermals, seinen Bruder Abel (Abel). Und Abel war *ein* Hüter der Herde, und Kain war *ein* Bearbeiter des Bodens.
+¹Und der Mensch erkannte Chava (Eva), seine Frau, und sie wurde schwanger und gebar Qayin (Kain), und sie sprach: „Ich habe einen Mann erworben mit JHWH." ²Und sie gebar abermals, seinen Bruder Hevel (Abel). Und Abel war *ein* Hüter der Herde, und Kain war *ein* Bearbeiter des Bodens.
 
 ³Und es war am Ende der Tage, und Kain brachte von der Frucht des Bodens eine Gabe für JHWH. ⁴Und Abel, auch er brachte von den Erstgeborenen seiner Herde und von ihrem Fett. Und JHWH blickte auf Abel und seine Gabe, ⁵aber auf Kain und seine Gabe blickte er nicht. Und es entbrannte dem Kain sehr, und sein Angesicht fiel. ⁶Und JHWH sprach zu Kain: „Warum entbrennt *es* dir, und warum ist dein Angesicht gefallen? ⁷Wenn du recht tust, *ist da* nicht Erhebung? Und wenn du nicht recht tust, an der Tür lagert die Sünde, und zu dir *ist* ihr Verlangen/ihre Hinwendung, aber du musst über sie herrschen."
 
 ⁸Und Kain sprach zu Abel, seinem Bruder… Und es war, als sie auf dem Feld waren, und Kain erhob sich gegen Abel, seinen Bruder, und tötete ihn. ⁹Und JHWH sprach zu Kain: „Wo *ist* Abel, dein Bruder?" Und er sprach: „Ich weiß nicht. *Bin* ich der Hüter meines Bruders?" ¹⁰Und er sprach: „Was hast du getan? Die Stimme der Blute deines Bruders schreit zu mir vom Boden. ¹¹Und nun, verflucht *bist* du vom Boden, der seinen Mund aufgetan hat, die Blute deines Bruders von deiner Hand zu empfangen. ¹²Wenn du den Boden bearbeitest, wird er dir nicht mehr seine Kraft geben. Ein Umherirrender und ein Flüchtling wirst du sein auf dem Land." ¹³Und Kain sprach zu JHWH: „Meine Sünde/Strafe *ist* zu groß zum Tragen. ¹⁴Siehe, du hast mich heute vertrieben von auf dem Angesicht des Bodens, und vor deinem Angesicht werde ich verborgen sein, und ich werde ein Umherirrender und ein Flüchtling sein auf dem Land, und es wird *sein, dass* jeder, der mich findet, mich töten wird." ¹⁵Und JHWH sprach zu ihm: „Darum, jeder, der Kain tötet, siebenfach soll es gerächt werden." Und JHWH setzte dem Kain ein Zeichen, damit nicht jeder, der ihn fände, ihn schlüge. ¹⁶Und Kain ging hinaus vom Angesicht JHWHs und wohnte im Land Nod, östlich von Eden.
 
-¹⁷Und Kain erkannte seine Frau, und sie wurde schwanger und gebar Henoch (Henoch). Und er baute eine Stadt, und er nannte den Namen der Stadt nach dem Namen seines Sohnes, Henoch. ¹⁸Und dem Henoch wurde Irad geboren, und Irad zeugte Mechuya'el, und Mechuya'el zeugte Metusha'el, und Metusha'el zeugte Lamech (Lamech). ¹⁹Und Lamech nahm sich zwei Frauen; der Name der einen *war* Adah, und der Name der zweiten *war* Tsillah. ²⁰Und Adah gebar Yaval; er war der Vater derer, die in Zelt und Vieh wohnen. ²¹Und der Name seines Bruders *war* Yuval; er war der Vater aller, die Leier und Flöte ergreifen. ²²Und Tsillah, auch sie gebar Tuval-Kain, *einen* Hämmerer jedes Schneidewerkzeugs aus Bronze und Eisen. Und die Schwester Tuval-Kains *war* Na'amah.
+¹⁷Und Kain erkannte seine Frau, und sie wurde schwanger und gebar Chanokh (Henoch). Und er baute eine Stadt, und er nannte den Namen der Stadt nach dem Namen seines Sohnes, Henoch. ¹⁸Und dem Henoch wurde Irad geboren, und Irad zeugte Mechuya'el, und Mechuya'el zeugte Metusha'el, und Metusha'el zeugte Lemekh (Lamech). ¹⁹Und Lamech nahm sich zwei Frauen; der Name der einen *war* Adah, und der Name der zweiten *war* Tsillah. ²⁰Und Adah gebar Yaval; er war der Vater derer, die in Zelt und Vieh wohnen. ²¹Und der Name seines Bruders *war* Yuval; er war der Vater aller, die Leier und Flöte ergreifen. ²²Und Tsillah, auch sie gebar Tuval-Kain, *einen* Hämmerer jedes Schneidewerkzeugs aus Bronze und Eisen. Und die Schwester Tuval-Kains *war* Na'amah.
 
 ²³Und Lamech sprach zu seinen Frauen: „Adah und Tsillah, hört meine Stimme; Frauen Lamechs, gebt Gehör meiner Rede: Denn einen Mann habe ich getötet für meine Wunde, und ein Kind für meine Beule. ²⁴Denn siebenfach soll Kain gerächt werden, und Lamech siebenundsiebzigfach."
 
-²⁵Und Adam erkannte seine Frau abermals, und sie gebar einen Sohn und nannte seinen Namen Set (Set): „Denn Gott hat mir einen anderen Samen gesetzt anstelle von Abel, denn Kain hat ihn getötet." ²⁶Und dem Set, auch ihm wurde ein Sohn geboren, und er nannte seinen Namen Enosh. Damals wurde *es* begonnen, den Namen JHWHs anzurufen.
+²⁵Und Adam erkannte seine Frau abermals, und sie gebar einen Sohn und nannte seinen Namen Shet (Set): „Denn Gott hat mir einen anderen Samen gesetzt anstelle von Abel, denn Kain hat ihn getötet." ²⁶Und dem Set, auch ihm wurde ein Sohn geboren, und er nannte seinen Namen Enosh. Damals wurde *es* begonnen, den Namen JHWHs anzurufen.
 
 ---
 
@@ -77,7 +77,7 @@
 
 ### **Vers 1**
 
-Und der Mensch erkannte Eva (Eva), seine Frau, und sie wurde schwanger und gebar Kain (Kain), und sie sprach: „Ich habe einen Mann erworben mit JHWH."
+Und der Mensch erkannte Chava (Eva), seine Frau, und sie wurde schwanger und gebar Qayin (Kain), und sie sprach: „Ich habe einen Mann erworben mit JHWH."
 
 > **📝 NOTIZEN**
 >
@@ -94,7 +94,7 @@ Und der Mensch erkannte Eva (Eva), seine Frau, und sie wurde schwanger und gebar
 
 ### **Vers 2**
 
-Und sie gebar abermals, seinen Bruder Abel (Abel). Und Abel war *ein* Hüter der Herde, und Kain war *ein* Bearbeiter des Bodens.
+Und sie gebar abermals, seinen Bruder Hevel (Abel). Und Abel war *ein* Hüter der Herde, und Kain war *ein* Bearbeiter des Bodens.
 
 > **📝 NOTIZEN**
 >
@@ -282,7 +282,7 @@ Und Kain ging hinaus vom Angesicht JHWHs und wohnte im Land Nod, östlich von Ed
 
 ### **Vers 17**
 
-Und Kain erkannte seine Frau, und sie wurde schwanger und gebar Henoch (Henoch). Und er baute eine Stadt, und er nannte den Namen der Stadt nach dem Namen seines Sohnes, Henoch.
+Und Kain erkannte seine Frau, und sie wurde schwanger und gebar Chanokh (Henoch). Und er baute eine Stadt, und er nannte den Namen der Stadt nach dem Namen seines Sohnes, Henoch.
 
 > **📝 NOTIZEN**
 >
@@ -293,7 +293,7 @@ Und Kain erkannte seine Frau, und sie wurde schwanger und gebar Henoch (Henoch).
 
 ### **Vers 18**
 
-Und dem Henoch wurde Irad geboren, und Irad zeugte Mechuya'el, und Mechuya'el zeugte Metusha'el, und Metusha'el zeugte Lamech (Lamech).
+Und dem Henoch wurde Irad geboren, und Irad zeugte Mechuya'el, und Mechuya'el zeugte Metusha'el, und Metusha'el zeugte Lemekh (Lamech).
 
 ---
 
@@ -358,7 +358,7 @@ Denn siebenfach soll Kain gerächt werden, und Lamech siebenundsiebzigfach."
 
 ### **Vers 25**
 
-Und Adam erkannte seine Frau abermals, und sie gebar einen Sohn und nannte seinen Namen Set (Set): „Denn Gott hat mir einen anderen Samen gesetzt anstelle von Abel, denn Kain hat ihn getötet."
+Und Adam erkannte seine Frau abermals, und sie gebar einen Sohn und nannte seinen Namen Shet (Set): „Denn Gott hat mir einen anderen Samen gesetzt anstelle von Abel, denn Kain hat ihn getötet."
 
 > **📝 NOTIZEN**
 >

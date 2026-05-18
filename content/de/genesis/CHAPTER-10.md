@@ -38,19 +38,19 @@
 - 🔵 **GRAMMATISCH** - Hebräische Struktur, Verbformen, Syntax
 - 🟡 **THEOLOGISCH** - Interpretationsoptionen, Ambiguitätsbewahrung
 
-**Dieses Kapitel ist die Völkertafel — ein genealogisch-geographischer Katalog der Nachkommen von Noahs drei Söhnen: Shem, Ham (Ham) und Yafet (Jafet).** Es eröffnet mit der vierten *Toledot*-Formel (10:1) und kartiert die nachsintflutliche Menschenwelt durch Abstammung, Sprache, Gebiet und Nation. Der Großteil des Kapitels ist genealogische Auflistung; der Nimrod-Abschnitt (10:8–12) ist die bedeutende narrative Ausnahme. JHWH erscheint nur einmal (10:9). Das Kapitel endet mit einer Zusammenfassungsformel (10:32), die die *Toledot*-Struktur echot. Namen sind hier gleichzeitig Personen, Völker und Orte — der Text unterscheidet nicht immer zwischen dem Vorfahren und der Nation, die diesen Namen trägt.
+**Dieses Kapitel ist die Völkertafel — ein genealogisch-geographischer Katalog der Nachkommen von Noahs drei Söhnen: Shem, Cham (Ham) und Yafet (Jafet).** Es eröffnet mit der vierten *Toledot*-Formel (10:1) und kartiert die nachsintflutliche Menschenwelt durch Abstammung, Sprache, Gebiet und Nation. Der Großteil des Kapitels ist genealogische Auflistung; der Nimrod-Abschnitt (10:8–12) ist die bedeutende narrative Ausnahme. JHWH erscheint nur einmal (10:9). Das Kapitel endet mit einer Zusammenfassungsformel (10:32), die die *Toledot*-Struktur echot. Namen sind hier gleichzeitig Personen, Völker und Orte — der Text unterscheidet nicht immer zwischen dem Vorfahren und der Nation, die diesen Namen trägt.
 
 ---
 
 ## KAPITELÜBERSICHT
 
-**Was geschieht:** Die Söhne Noahs — Shem, Ham (Ham) und Yafet (Jafet) — bringen die Nationen der bekannten Welt hervor. Jafets Linie (Vv.2–5) besiedelt die Küstenländer und Inseln. Hams Linie (Vv.6–20) umfasst Kusch, Ägypten (Ägypten), Put und Kanaan (Kanaan) und enthält den Nimrod-Exkurs — ein „Mächtiger" und Jäger „vor JHWH", der Bavel, Erekh, Akkad, Kalneh, Nineveh und andere große Städte baut. Shems Linie (Vv.21–31) führt durch Arpakhshad zu Ever (Vorfahre der Hebräer) und enthält die Peleg/Yoqtan-Verzweigung. Das Kapitel endet mit einer Zusammenfassung: Dies sind die Sippen der Söhne Noahs, nach ihren Geschlechterfolgen, in ihren Nationen, und von diesen haben sich die Nationen auf dem Land nach der Flut ausgebreitet.
+**Was geschieht:** Die Söhne Noahs — Shem, Cham (Ham) und Yafet (Jafet) — bringen die Nationen der bekannten Welt hervor. Jafets Linie (Vv.2–5) besiedelt die Küstenländer und Inseln. Hams Linie (Vv.6–20) umfasst Kusch, Mitsrayim (Ägypten), Put und Kenaan (Kanaan) und enthält den Nimrod-Exkurs — ein „Mächtiger" und Jäger „vor JHWH", der Bavel, Erekh, Akkad, Kalneh, Nineveh und andere große Städte baut. Shems Linie (Vv.21–31) führt durch Arpakhshad zu Ever (Vorfahre der Hebräer) und enthält die Peleg/Yoqtan-Verzweigung. Das Kapitel endet mit einer Zusammenfassung: Dies sind die Sippen der Söhne Noahs, nach ihren Geschlechterfolgen, in ihren Nationen, und von diesen haben sich die Nationen auf dem Land nach der Flut ausgebreitet.
 
 **Zentrale Themen:** Die Einheit und Vielfalt der nachsintflutlichen Menschheit — alle stammen von einer Familie ab, dennoch katalogisiert der Text die Differenzierung nach Sippe (*Mishpachot*), Zunge (*Leshonot*), Land und Nation. Die Völkertafel ist ethnographisch, nicht rein genealogisch — sie bildet politische und geographische Realitäten auf einen Stammbaum ab. Der Nimrod-Abschnitt führt Reichsbildung, Stadtgründung und den ersten „Mächtigen" (*Gibbor*) nach der Flut ein.
 
 **Achten Sie auf:** Den Nimrod-Exkurs (10:8–12) — die einzige narrative Erweiterung in einem ansonsten listengetriebenen Kapitel; „vor JHWH" (10:9) — das einzige JHWH-Vorkommen und seine Mehrdeutigkeit (Billigung oder Trotz?); das Peleg-Wortspiel bei 10:25 („in seinen Tagen wurde das Land geteilt"); die Drei-Spalten-Struktur — jede Sohnesliste endet mit einer Formel: „dies sind die Söhne von X, nach ihren Sippen, nach ihren Zungen, in ihren Ländern, nach ihren Nationen"; die Spannung zwischen Genealogie und Geographie (Namen = sowohl Personen als auch Völker).
 
-**Verbindung:** Die *Toledot* der Söhne Noahs (10:1) setzt die Noah (Noah)-*Toledot* (6:9) fort. Die drei Linien, die durch Noahs Segen/Fluch in 9:25–27 begründet wurden, werden nun geographisch verfolgt. Das Kapitel bereitet Bavel (Kap. 11) vor, das erklärt, wie die „eine Sprache" (11:1) zu den vielen Zungen wurde, die hier aufgelistet sind. Shems Linie (10:21–31) wird in 11:10–26 auf die abrahamitische Linie verengt.
+**Verbindung:** Die *Toledot* der Söhne Noahs (10:1) setzt die Noach (Noah)-*Toledot* (6:9) fort. Die drei Linien, die durch Noahs Segen/Fluch in 9:25–27 begründet wurden, werden nun geographisch verfolgt. Das Kapitel bereitet Bavel (Kap. 11) vor, das erklärt, wie die „eine Sprache" (11:1) zu den vielen Zungen wurde, die hier aufgelistet sind. Shems Linie (10:21–31) wird in 11:10–26 auf die abrahamitische Linie verengt.
 
 ---
 
@@ -60,11 +60,11 @@
 
 ---
 
-¹Und dies *sind* die Geschlechterfolgen der Söhne Noahs — Shem, Ham (Ham) und Yafet (Jafet); und Söhne wurden ihnen geboren nach der Flut.
+¹Und dies *sind* die Geschlechterfolgen der Söhne Noahs — Shem, Cham (Ham) und Yafet (Jafet); und Söhne wurden ihnen geboren nach der Flut.
 
 ²Die Söhne Jafets: Gomer und Magog und Madai und Yavan und Tuval und Meshekh und Tiras. ³Und die Söhne Gomers: Ashkenaz und Rifat und Togarmah. ⁴Und die Söhne Yavans: Elishah und Tarshish, Kittim und Dodanim. ⁵Von diesen breiteten sich die Küstenvölker aus in ihren Ländern, jeder nach seiner Zunge, nach ihren Sippen, in ihren Nationen.
 
-⁶Und die Söhne Hams: Kusch und Ägypten (Ägypten) und Put und Kanaan (Kanaan). ⁷Und die Söhne Kuschs: Seva und Chavilah und Savtah und Ramah und Savtekha; und die Söhne Ramahs: Sheva und Dedan. ⁸Und Kusch zeugte Nimrod; er begann, ein Mächtiger auf dem Land zu sein. ⁹Er war ein mächtiger Jäger vor JHWH; darum wird gesagt: „Wie Nimrod, ein mächtiger Jäger vor JHWH." ¹⁰Und der Anfang seines Königreichs war Bavel und Erekh und Akkad und Kalneh, im Land Shinar. ¹¹Aus jenem Land zog er aus *nach* Ashshur, und er baute Nineveh und Rechovot-Ir und Kelach ¹²und Resen zwischen Nineveh und zwischen Kelach — das *ist* die große Stadt. ¹³Und Ägypten zeugte die Ludim und die Anamim und die Lehavim und die Naftuchim ¹⁴und die Patrusim und die Kasluchim — von denen die Pelishtim ausgingen — und die Kaftorim. ¹⁵Und Kanaan zeugte Tsidon, seinen Erstgeborenen, und Chet, ¹⁶und den Yevusi und den Emori und den Girgashi ¹⁷und den Chivvi und den Arqi und den Sini ¹⁸und den Arvadi und den Tsemari und den Hamati; und danach breiteten sich die Sippen der Kanaani aus. ¹⁹Und die Grenze der Kanaani war von Tsidon, wenn man geht Richtung Gerar, bis Azzah; wenn man geht Richtung Sedom und Amorah und Admah und Tsevoyim, bis Lasha. ²⁰Dies *sind* die Söhne Hams, nach ihren Sippen, nach ihren Zungen, in ihren Ländern, in ihren Nationen.
+⁶Und die Söhne Hams: Kusch und Mitsrayim (Ägypten) und Put und Kenaan (Kanaan). ⁷Und die Söhne Kuschs: Seva und Chavilah und Savtah und Ramah und Savtekha; und die Söhne Ramahs: Sheva und Dedan. ⁸Und Kusch zeugte Nimrod; er begann, ein Mächtiger auf dem Land zu sein. ⁹Er war ein mächtiger Jäger vor JHWH; darum wird gesagt: „Wie Nimrod, ein mächtiger Jäger vor JHWH." ¹⁰Und der Anfang seines Königreichs war Bavel und Erekh und Akkad und Kalneh, im Land Shinar. ¹¹Aus jenem Land zog er aus *nach* Ashshur, und er baute Nineveh und Rechovot-Ir und Kelach ¹²und Resen zwischen Nineveh und zwischen Kelach — das *ist* die große Stadt. ¹³Und Ägypten zeugte die Ludim und die Anamim und die Lehavim und die Naftuchim ¹⁴und die Patrusim und die Kasluchim — von denen die Pelishtim ausgingen — und die Kaftorim. ¹⁵Und Kanaan zeugte Tsidon, seinen Erstgeborenen, und Chet, ¹⁶und den Yevusi und den Emori und den Girgashi ¹⁷und den Chivvi und den Arqi und den Sini ¹⁸und den Arvadi und den Tsemari und den Hamati; und danach breiteten sich die Sippen der Kanaani aus. ¹⁹Und die Grenze der Kanaani war von Tsidon, wenn man geht Richtung Gerar, bis Azzah; wenn man geht Richtung Sedom und Amorah und Admah und Tsevoyim, bis Lasha. ²⁰Dies *sind* die Söhne Hams, nach ihren Sippen, nach ihren Zungen, in ihren Ländern, in ihren Nationen.
 
 ²¹Und auch Shem wurden *Kinder* geboren — dem Vater aller Söhne Evers, dem Bruder Jafets, des Älteren. ²²Die Söhne Shems: Elam und Ashshur und Arpakhshad und Lud und Aram. ²³Und die Söhne Arams: Uts und Chul und Geter und Mash. ²⁴Und Arpakhshad zeugte Shelach, und Shelach zeugte Ever. ²⁵Und dem Ever wurden zwei Söhne geboren: der Name des einen *war* Peleg, denn in seinen Tagen wurde das Land geteilt; und der Name seines Bruders *war* Yoqtan. ²⁶Und Yoqtan zeugte Almodad und Shelef und Chatsarmavet und Yerach ²⁷und Hadoram und Uzal und Diqlah ²⁸und Oval und Avimael und Sheva ²⁹und Ofir und Chavilah und Yovav; alle diese *waren* die Söhne Yoqtans. ³⁰Und ihre Wohnstätte war von Mesha, wenn man geht Richtung Sefar, dem Berg des Ostens. ³¹Dies *sind* die Söhne Shems, nach ihren Sippen, nach ihren Zungen, in ihren Ländern, nach ihren Nationen.
 
@@ -76,7 +76,7 @@
 
 ### **Vers 1**
 
-Und dies *sind* die Geschlechterfolgen der Söhne Noahs — Shem, Ham (Ham) und Yafet (Jafet); und Söhne wurden ihnen geboren nach der Flut.
+Und dies *sind* die Geschlechterfolgen der Söhne Noahs — Shem, Cham (Ham) und Yafet (Jafet); und Söhne wurden ihnen geboren nach der Flut.
 
 > **📝 NOTIZEN**
 >
@@ -84,7 +84,7 @@ Und dies *sind* die Geschlechterfolgen der Söhne Noahs — Shem, Ham (Ham) und 
 > - Der genealogische Rahmen dieses Kapitels darf nicht zur Konstruktion moderner ethnischer, rassischer oder nationaler Hierarchien verwendet werden. Die Völkertafel ist ein antikes politisch-geographisches Dokument, keine biologische Taxonomie moderner Völker. Siehe Begleitmaterial Abschnitt F für historischen Kontext.
 >
 > 🔴 **TOLEDOT-FORMEL — VIERTES VORKOMMEN**
-> - **וְאֵלֶּה תּוֹלְדֹת בְּנֵי־נֹחַ** = „Und dies sind die *Toledot* der Söhne Noahs." Vierter *Toledot*-Marker in Genesis (2:4, 5:1, 6:9, 10:1). Frühere *Toledot* waren von „den Himmeln und dem Land" (2:4), „Adam" (5:1) und „Noah (Noah)" (6:9). Dieses ist einzigartig: nicht von einer einzelnen Person, sondern von „den Söhnen Noahs" — Pluralsubjekt. Die *Toledot* regiert das gesamte Kapitel.
+> - **וְאֵלֶּה תּוֹלְדֹת בְּנֵי־נֹחַ** = „Und dies sind die *Toledot* der Söhne Noahs." Vierter *Toledot*-Marker in Genesis (2:4, 5:1, 6:9, 10:1). Frühere *Toledot* waren von „den Himmeln und dem Land" (2:4), „Adam" (5:1) und „Noach (Noah)" (6:9). Dieses ist einzigartig: nicht von einer einzelnen Person, sondern von „den Söhnen Noahs" — Pluralsubjekt. Die *Toledot* regiert das gesamte Kapitel.
 >
 > 🔵 **„NACH DER FLUT"**
 > - **אַחַר הַמַּבּוּל** = „nach der Flut (*Mabbul*)." Die *Mabbul* fungiert als Trennlinie. Dieses Kapitel kartiert die nachsintflutliche Welt — das wiederbesiedelte Land.
@@ -148,7 +148,7 @@ Von diesen breiteten sich die Küstenvölker aus in ihren Ländern, jeder nach s
 
 ### **Vers 6**
 
-Und die Söhne Hams: Kusch und Ägypten (Ägypten) und Put und Kanaan (Kanaan).
+Und die Söhne Hams: Kusch und Mitsrayim (Ägypten) und Put und Kenaan (Kanaan).
 
 > **📝 NOTIZEN**
 >
@@ -362,7 +362,7 @@ Und auch Shem wurden *Kinder* geboren — dem Vater aller Söhne Evers, dem Brud
 > **📝 NOTIZEN**
 >
 > 🔴 **SHEM — „VATER ALLER SÖHNE EVERS"**
-> - **אֲבִי כָּל־בְּנֵי עֵבֶר** = „der Vater aller Söhne Evers." Dieser Titel hebt Ever hervor — Vorfahre der *Ivrim* (Hebräer). Der Erzähler identifiziert Shems bedeutendsten Nachkommen, bevor er seine Söhne auflistet. Der genealogische Zweck von Shems Abschnitt ist es, zu Ever und letztlich zu Abram (Abram) (11:26) zu gelangen.
+> - **אֲבִי כָּל־בְּנֵי עֵבֶר** = „der Vater aller Söhne Evers." Dieser Titel hebt Ever hervor — Vorfahre der *Ivrim* (Hebräer). Der Erzähler identifiziert Shems bedeutendsten Nachkommen, bevor er seine Söhne auflistet. Der genealogische Zweck von Shems Abschnitt ist es, zu Ever und letztlich zu Avram (Abram) (11:26) zu gelangen.
 >
 > 🔵 **„YAFET DER ÄLTERE" — ODER „DER ÄLTERE BRUDER YAFETS"?**
 > - **אֲחִי יֶפֶת הַגָּדוֹל** = mehrdeutig: (1) „der Bruder Jafets, des Älteren" (Jafet ist älter als Shem); (2) „der ältere Bruder Jafets" (Shem ist der Älteste). Die hebräische Wortstellung lässt beides zu. Die Reihenfolge Shem-Ham-Jafet mag Bedeutung widerspiegeln, nicht Geburtsreihenfolge (vgl. 9:24, „sein jüngster Sohn"). Die TT gibt wieder „dem Bruder Jafets, des Älteren" und vermerkt die Mehrdeutigkeit.
