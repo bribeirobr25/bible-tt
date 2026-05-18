@@ -289,7 +289,7 @@ And enmity I will set between you and between the woman, and between your seed a
 > - **זַרְעָהּ** (*zar'ah*) = "her seed" — attribution of *zera* to a **female** line is **grammatically unusual** in the Hebrew Bible, where the term is normally attached to male descent. Genesis 3:15 is one of very few places where seed traces through the woman (**POSSIBLE** philological observation, not interpretive claim). Cross-reference: Gen 4:25 — Chava (Eve) receives *"another seed"* (*zera acher*) continuing the woman's-seed thread. For fuller discussion, see companion Section A10.
 >
 > 🟡 **INTERPRETIVE RESTRAINT**
-> - The Hebrew text gives a statement of enduring enmity between serpent and woman's offspring. Later Christian tradition's "protoevangelium" reading is **POST-BIBLICAL** (Rule 3). No capitalization of "He." No resolution of gender/number ambiguity toward any particular later identification.
+> - The Hebrew gives a statement of enduring enmity between serpent and woman's offspring; later Christian tradition's "protoevangelium" reading is **POST-BIBLICAL** (Rule 3). The TT preserves gender/number ambiguity without capitalization or identification. → For protoevangelium reception history, see chapter companion §F.
 
 ---
 
@@ -358,9 +358,8 @@ And the human called the name of his woman Chava (Eve), for she was mother of al
 > **📝 NOTES**
 >
 > 🔴 **CRITICAL - NAMING OF CHAVA**
-> - **חַוָּה** (*Chavvah*, transliterated *Chava*) = proper name. Traditional rendering "Eve" follows the Septuagint *Εὔα* (*Heua*) via Vulgate *Heva*.
-> - Transliterated here to preserve Hebrew form. Traditional "Eve" is acceptable in Reader Edition; Transparent Edition keeps *Chava* with note.
-> - Wordplay: **חַי** (*chay*) = "living"; *Chava* resembles the root. Etymology folk or real, but the text makes the connection ("mother of all the living").
+> - **חַוָּה** (*Chavvah*, transliterated *Chava*) = proper name. Transparent Edition keeps *Chava*; Reader Edition may use "Eve" (Septuagint *Εὔα* via Vulgate *Heva*). → For the LXX→Vulgate→traditional-rendering reception history, see chapter companion §F.
+> - Wordplay: **חַי** (*chay*) = "living"; *Chava* resembles the root. The text makes the connection ("mother of all the living") regardless of whether the etymology is folk or true.
 >
 > 🔵 **"HIS WOMAN"**
 > - She has been *ishah* (his woman) since 2:22. Here she receives a personal name. The human, by contrast, remains *ha-adam* in v.21.
@@ -390,7 +389,7 @@ And YHWH Elohim said, "See, the human has become like one of us to know good and
 > - Many translations smooth this with inserted main clauses. Rule 5 — do not smooth.
 >
 > 🔴 **"LIKE ONE OF US"**
-> - **כְּאַחַד מִמֶּנּוּ** (*ke'achad mimmennu*) — plural "us" echoes Gen 1:26 *"let us make a human."* **POSSIBLE** interpretations: royal plural, divine council, literary plural. Do not impose Trinitarian reading (Rule 3).
+> - **כְּאַחַד מִמֶּנּוּ** (*ke'achad mimmennu*) — plural "us" echoes Gen 1:26. **POSSIBLE** readings: royal plural, divine council, literary plural; Rule 3 — no Trinitarian reading imposed. → For divine-council scholarship and reception, see chapter companion §F.
 >
 > 🟡 **NARRATIVE RESONANCE WITH 3:5**
 > - The serpent at **3:5**: *"you shall be like God/gods, knowing good and evil."* YHWH Elohim at **3:22**: *"the human has become like one of us to know good and evil."*

@@ -168,9 +168,7 @@ Y *una* niebla subia de la tierra y regaba toda la faz del suelo.
 > **NOTAS**
 >
 > 🟡 **INCIERTO - *ed***
-> - **אֵד** (*ed*) = palabra rara; aparece solo dos veces en la Biblia hebrea (aquí + Job 36:27). Significado **INCIERTO**. **POSIBLE**: niebla, vapor, manantial, flujo, corriente subterranea.
-> - "Niebla" sigue una tradición principal; "corriente/flujo" sigue el cognado acadio *edu*. De cualquier modo, la función es clara: agua sube a la superficie antes de que se mencione la lluvia.
-> - Evitar falsa precision (Regla 12).
+> - **אֵד** (*ed*) = palabra rara; aparece dos veces en la Biblia hebrea (aquí + Job 36:27). Significado **INCIERTO** — glosas **POSIBLES**: niebla, vapor, manantial, flujo. → Para el cognado acadio *edû* y la tradición ANE sobre fuentes de agua, vea el compañero del capítulo §B.
 
 ---
 
@@ -274,8 +272,7 @@ Y el nombre del tercer rio *es* Hiddeqel; él *es* el que va al oriente de Asur.
 > **NOTAS**
 >
 > 🟢 **RIOS IDENTIFICABLES**
-> - **חִדֶּקֶל** (*Hiddeqel*) = Tigris. **פְּרָת** (*Perat*) = Eufrates. Transliterados en el texto principal para coincidir con la forma hebrea; identificación dada en nota.
-> - Rios 1-2 (Pishon, Gihon) **INCIERTOS**; rios 3-4 son los dos grandes rios de Mesopotamia.
+> - **חִדֶּקֶל** (*Hiddeqel*) = Tigris; **פְּרָת** (*Perat*) = Eufrates. Ríos 1–2 (Pishon, Gihon) **INCIERTOS**. → Para la geografía de los ríos mesopotámicos y contexto ANE, vea el compañero del capítulo §B.
 
 ---
 
@@ -286,8 +283,7 @@ Y YHWH Elohim tomó al humano y lo puso en el jardín de Eden para trabajarlo y 
 > **NOTAS**
 >
 > 🔴 **TRABAJAR Y GUARDAR**
-> - **לְעָבְדָהּ וּלְשָׁמְרָהּ** (*le'ovdah ulshomrah*) = "para trabajarlo y para guardarlo" — sufijos femeninos (**INCIERTO**: *gan* como femenino, o referencia a *adamah*). Infinitivos emparejados: **ע-ב-ד** = servir/trabajar; **שׁ-מ-ר** = guardar/custodiar/observar.
-> - Los mismos dos verbos aparecen para deberes sacerdotales en el Tabernáculo (Num 3:7-8). Para una discusión más completa, vea el compañero Sección C.
+> - **לְעָבְדָהּ וּלְשָׁמְרָהּ** (*le'ovdah ulshomrah*) = "para trabajarlo y para guardarlo" — sufijos femeninos (antecedente **INCIERTO** — **POSIBLE**: *gan* o *adamah*). Infinitivos emparejados: **ע-ב-ד** (servir/trabajar), **שׁ-מ-ר** (guardar/custodiar/observar). → Para el eco del Tabernáculo (Núm 3:7–8, 8:26) y el intertexto sacerdotal-vocacional, vea el compañero del capítulo §C.
 
 ---
 

@@ -218,7 +218,7 @@ Y entrando en la casa, vieron al niño con Miryam su madre, y cayendo, se postra
 > - **τὴν οἰκίαν** (*tēn oikian*) = "la casa." Mateo dice casa, no establo ni pesebre. El pesebre (*phatnē*) aparece solo en Lucas 2:7. Los *magoi* encuentran al niño en una casa — o la familia se ha mudado desde el nacimiento, o el relato de Mateo difiere del de Lucas en el escenario. La TT traduce cada Evangelio en sus propios términos sin armonizar.
 >
 > 🟢 **TRES REGALOS — ORO, INCIENSO, MIRRA**
-> - **χρυσὸν καὶ λίβανον καὶ σμύρναν** (*chryson kai libanon kai smyrnan*). Tres regalos, no tres *magoi* — el texto no especifica un número de visitantes. Oro = tributo real. Incienso (*libanos*) = incienso sacerdotal/litúrgico (cf. Lv 2:1). Mirra (*smyrna*) = especia funeraria (cf. Jn 19:39). La tradición posterior lee significado simbólico en cada regalo; el texto los enumera sin interpretación.
+> - **χρυσὸν καὶ λίβανον καὶ σμύρναν** (*chryson kai libanon kai smyrnan*). Tres regalos (el texto no especifica un número de *magoi*): oro = tributo real; incienso (*libanos*) = incienso sacerdotal/litúrgico (cf. Lv 2:1); mirra (*smyrna*) = especia funeraria (cf. Jn 19:39). → Para la tradición recepcional del significado simbólico (Orígenes y lecturas cristianas posteriores), vea el compañero del capítulo §F.
 >
 > 🔵 **"EL NIÑO" — *TO PAIDION***
 > - **τὸ παιδίον** (*to paidion*) = "el niño" (diminutivo de *pais*). No "bebé" (*brephos*, Lc 2:12). El término sugiere un niño pequeño, no un recién nacido — consistente con el tiempo transcurrido implícito en los "dos años para abajo" de Herodes (v.16).

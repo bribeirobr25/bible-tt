@@ -224,7 +224,7 @@ Amen, amen, I say to you, we speak what we know and we testify *to* what we have
 > **📝 NOTES**
 >
 > 🔵 **SHIFT TO PLURAL — "WE SPEAK... WE TESTIFY"**
-> - **λαλοῦμεν... μαρτυροῦμεν** = first person plural. Yeshua (Jesus) shifts from "I" to "we." Who is included in the "we"? Proposed readings: (a) Jesus and the Father; (b) Jesus and his followers; (c) the Johannine community addressing the synagogue (if vv.11–21 reflect a later discourse layer). The ambiguity is unresolved.
+> - **λαλοῦμεν... μαρτυροῦμεν** = first person plural. Yeshua (Jesus) shifts from "I" to "we"; the ambiguity is unresolved. → For proposed readings of the "we" (Jesus + Father / Jesus + followers / Johannine community addressing the synagogue) and the source-layer-discourse scholarship, see chapter companion §C.
 >
 > 🟢 **"TESTIMONY" / "RECEIVE" — *MARTYRIA* / *LAMBANŌ***
 > - The *martyria* (testimony) word group continues from ch. 1. **λαμβάνω** (*lambanō*) = receive, take. "You do not receive our testimony" — the same verb used for the world not receiving the *logos* at 1:11.

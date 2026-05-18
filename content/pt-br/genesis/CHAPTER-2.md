@@ -169,9 +169,7 @@ E *um* vapor subia da terra e regava toda a face do solo.
 > **📝 NOTAS**
 >
 > 🟡 **INCERTO - *ed***
-> - **אֵד** (*ed*) = palavra rara; aparece apenas duas vezes na Bíblia Hebraica (aqui + Jó 36:27). Significado **INCERTO**. **POSSÍVEL**: vapor, névoa, fonte, fluxo, corrente subterrânea.
-> - "Vapor" segue uma tradição principal; "fluxo/corrente" segue o cognato acadiano *edû*. De qualquer modo, a função é clara: água sobe à superfície antes de a chuva ser mencionada.
-> - Evitar falsa precisão (Regra 12).
+> - **אֵד** (*ed*) = palavra rara; aparece duas vezes na Bíblia Hebraica (aqui + Jó 36:27). Significado **INCERTO** — glosas **POSSÍVEIS**: vapor, névoa, fonte, fluxo. → Para o cognato acadiano *edû* e a tradição ANE sobre fontes de água, veja o companheiro do capítulo §B.
 
 ---
 
@@ -275,8 +273,7 @@ E o nome do terceiro rio *é* Hiddequel; *é* o que corre ao oriente de Assur. E
 > **📝 NOTAS**
 >
 > 🟢 **RIOS IDENTIFICÁVEIS**
-> - **חִדֶּקֶל** (*Hiddequel*) = Tigre. **פְּרָת** (*Perat*) = Eufrates. Transliterados no texto principal para corresponder à forma hebraica; identificação fornecida na nota.
-> - Rios 1–2 (Pisom, Giom) **INCERTOS**; rios 3–4 são os dois grandes rios da Mesopotâmia.
+> - **חִדֶּקֶל** (*Hiddequel*) = Tigre; **פְּרָת** (*Perat*) = Eufrates. Rios 1–2 (Pisom, Giom) **INCERTOS**. → Para a geografia dos rios mesopotâmicos e contexto ANE, veja o companheiro do capítulo §B.
 
 ---
 
@@ -287,8 +284,7 @@ E YHWH Elohim tomou o humano e o colocou no jardim de Éden para lavrá-lo e gua
 > **📝 NOTAS**
 >
 > 🔴 **LAVRAR E GUARDAR**
-> - **לְעָבְדָהּ וּלְשָׁמְרָהּ** (*le'ovdah ulshomrah*) = "para lavrá-lo/servi-lo e para guardá-lo"—sufixos femininos. Concordância exata **INCERTA** — explicações **POSSÍVEIS** incluem: (1) *gan* (jardim) tratado como antecedente feminino via *gan* → *ganah*; (2) referência a *adamah* (solo, feminino). Infinitivos pareados: **ע-ב-ד** = servir/trabalhar; **שׁ-מ-ר** = guardar/observar.
-> - Os mesmos dois verbos descrevem mais tarde deveres sacerdotais no Tabernáculo (Nm 3:7–8, 8:26); a vocação do jardim ecoa função sacerdotal posterior. Notar ressonância; não importar para o texto principal.
+> - **לְעָבְדָהּ וּלְשָׁמְרָהּ** (*le'ovdah ulshomrah*) = "para lavrá-lo/servi-lo e para guardá-lo"—sufixos femininos (antecedente **INCERTO** — **POSSÍVEL**: *gan* ou *adamah*). Infinitivos pareados: **ע-ב-ד** (servir/trabalhar), **שׁ-מ-ר** (guardar/observar). → Para o eco do Tabernáculo (Nm 3:7–8, 8:26) e o intertexto sacerdotal-vocacional, veja o companheiro do capítulo §C.
 
 ---
 

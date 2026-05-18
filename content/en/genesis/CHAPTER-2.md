@@ -166,9 +166,7 @@ And *a* mist went up from the land and watered all the face of the ground.
 > **📝 NOTES**
 >
 > 🟡 **UNCERTAIN - *ed***
-> - **אֵד** (*ed*) = rare word; appears only twice in the Hebrew Bible (here + Job 36:27). Meaning **UNCERTAIN**. **POSSIBLE**: mist, vapor, spring, flow, underground stream.
-> - "Mist" follows one major tradition; "stream/flood" follows Akkadian cognate *edû*. Either way, the function is clear: water rises to the surface before rain is mentioned.
-> - Avoid false precision (Rule 12).
+> - **אֵד** (*ed*) = rare word; appears twice in the Hebrew Bible (here + Job 36:27). Meaning **UNCERTAIN** — **POSSIBLE** glosses: mist, vapor, spring, stream. → For the Akkadian cognate *edû* and ANE water-source tradition, see chapter companion §B.
 
 ---
 
@@ -272,8 +270,7 @@ And the name of the third river *is* Hiddeqel; it *is* the one going east of Ass
 > **📝 NOTES**
 >
 > 🟢 **IDENTIFIABLE RIVERS**
-> - **חִדֶּקֶל** (*Hiddeqel*) = Tigris. **פְּרָת** (*Perat*) = Euphrates. Transliterated in main text to match Hebrew form; identification given in note.
-> - Rivers 1–2 (Pishon, Gihon) **UNCERTAIN**; rivers 3–4 are the two great rivers of Mesopotamia.
+> - **חִדֶּקֶל** (*Hiddeqel*) = Tigris; **פְּרָת** (*Perat*) = Euphrates. Rivers 1–2 (Pishon, Gihon) **UNCERTAIN**. → For Mesopotamian river geography and ANE context, see chapter companion §B.
 
 ---
 
@@ -284,8 +281,7 @@ And YHWH Elohim took the human and placed him in the garden of Eden to work it a
 > **📝 NOTES**
 >
 > 🔴 **TO WORK AND TO KEEP**
-> - **לְעָבְדָהּ וּלְשָׁמְרָהּ** (*le'ovdah ulshomrah*) = "to work it and to keep it"—feminine suffixes. Exact agreement **UNCERTAIN** — **POSSIBLE** explanations include: (1) *gan* (garden) treated as feminine antecedent via *gan* → *ganah*; (2) referring to *adamah* (ground, feminine). Paired infinitives: **ע-ב-ד** = serve/work; **שׁ-מ-ר** = keep/guard/observe.
-> - The same two verbs later describe priestly duties in the Tabernacle (Num 3:7–8, 8:26); the garden vocation echoes later priestly function. Note the resonance; do not import it into the main text.
+> - **לְעָבְדָהּ וּלְשָׁמְרָהּ** (*le'ovdah ulshomrah*) = "to work it and to keep it"—feminine suffixes (antecedent **UNCERTAIN** — **POSSIBLE**: *gan* or *adamah*). Paired infinitives: **ע-ב-ד** (serve/work), **שׁ-מ-ר** (keep/guard/observe). → For the Tabernacle echo (Num 3:7–8, 8:26) and priestly-vocation intertext, see chapter companion §C.
 
 ---
 

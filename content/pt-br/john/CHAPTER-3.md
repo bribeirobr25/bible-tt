@@ -230,7 +230,7 @@ Amém, amém, eu te digo, falamos o que sabemos e testemunhamos *do* que vimos, 
 > **📝 NOTAS**
 >
 > 🔵 **MUDANÇA PARA O PLURAL — "FALAMOS... TESTEMUNHAMOS"**
-> - **λαλοῦμεν... μαρτυροῦμεν** = primeira pessoa do plural. Jesus muda de "eu" para "nós." Quem está incluído no "nós"? Leituras propostas: (a) Jesus e o Pai; (b) Jesus e seus seguidores; (c) a comunidade joanina dirigindo-se à sinagoga (se vv.11–21 refletem uma camada de discurso posterior). A ambiguidade é irresolvida.
+> - **λαλοῦμεν... μαρτυροῦμεν** = primeira pessoa do plural. Jesus muda de "eu" para "nós"; a ambiguidade é irresolvida. → Para as leituras propostas do "nós" (Jesus + Pai / Jesus + seguidores / comunidade joanina dirigindo-se à sinagoga) e a discussão sobre camadas de discurso, veja o companheiro do capítulo §C.
 >
 > 🟢 **"TESTEMUNHO" / "RECEBER" — *MARTYRIA* / *LAMBANŌ***
 > - O grupo de palavras de *martyria* (testemunho) continua do cap. 1. **λαμβάνω** (*lambanō*) = receber, tomar. "Não recebeis o nosso testemunho" — o mesmo verbo usado para o mundo não recebendo o *logos* em 1:11.

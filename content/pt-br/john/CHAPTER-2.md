@@ -248,7 +248,7 @@ Depois disso ele desceu a Kfar Nachum (Cafarnaum) — ele e sua mãe e seus irm�
 > - **Καφαρναούμ** (*Kapharnaoum*) = forma grega do hebraico/aramaico כְּפַר נַחוּם (*Kfar Nachum*, "aldeia de Nachum"). A TT preserva a forma semítica. Cafarnaum era uma aldeia de pescadores na margem noroeste do Kinneret (Mar da Galileia). Os Sinóticos a apresentam como a base do ministério galileu de Jesus.
 >
 > 🟡 **"SEUS IRMÃOS" — οἱ ἀδελφοὶ αὐτοῦ**
-> - **ἀδελφοί** (*adelphoi*) = irmãos. O termo pode significar irmãos consanguíneos, meio-irmãos, enteados ou parentes dependendo do contexto e da tradição. O texto não especifica a relação além disso. Tradições teológicas posteriores (virgindade perpétua de Maria) leem *adelphoi* como "primos" ou "enteados" (de um casamento anterior de Yosef). O próprio texto usa a palavra padrão para "irmãos" sem qualificação.
+> - **ἀδελφοί** (*adelphoi*) = irmãos. O termo pode significar irmãos consanguíneos, meio-irmãos, enteados ou parentes dependendo do contexto; o texto usa a palavra padrão sem qualificação adicional. → Para tradições teológicas posteriores (virgindade perpétua de Maria lendo *adelphoi* como "primos" ou "enteados") e a história recepcional, veja o companheiro do capítulo §F.
 >
 > 🔵 **"DESCEU" — κατέβη**
 > - **κατέβη** (*katebē*) = "desceu." Geograficamente preciso: Qanah fica nas terras altas da Galileia; Cafarnaum fica na margem do Kinneret, aproximadamente 200 metros abaixo do nível do mar. As referências geográficas de João são consistentemente precisas em relação ao terreno.

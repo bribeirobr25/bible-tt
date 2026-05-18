@@ -248,7 +248,7 @@ Después de esto bajo a Kfar Najum — el y su madre y sus hermanos y sus seguid
 > - **Kapharnaoum** (*Kapharnaoum*) = forma griega del hebreo/arameo Kfar Najum (*Kfar Najum*, "aldea de Najum"). La TT usa la forma semítica. Kfar Najum era una aldea pesquera en la costa noroeste del Kinneret (Mar de Galilea). Los Sinópticos lo presentan como la base del ministerio galileo de Yeshua.
 >
 > 🟡 **"SUS HERMANOS" — hoi adelphoi autou**
-> - **adelphoi** (*adelphoi*) = hermanos. El término puede significar hermanos carnales, medio hermanos, hermanastros o parientes dependiendo del contexto y la tradición. El texto no especifica la relación más allá. Tradiciones teológicas posteriores (virginidad perpetua de Maria) leen *adelphoi* como "primos" o "hermanastros" (de un matrimonio previo de Yosef). El texto mismo usa la palabra estandar para "hermanos" sin calificación.
+> - **adelphoi** (*adelphoi*) = hermanos. El término puede significar hermanos carnales, medio hermanos, hermanastros o parientes dependiendo del contexto; el texto usa la palabra estándar sin calificación adicional. → Para tradiciones teológicas posteriores (virginidad perpetua de María leyendo *adelphoi* como "primos" o "hermanastros") y la historia recepcional, vea el compañero del capítulo §F.
 >
 > 🔵 **"BAJO" — katebe**
 > - **katebe** (*katebe*) = "bajo." Geograficamente preciso: Qanah esta en las tierras altas galileas; Kfar Najum esta en la orilla del Kinneret, aproximadamente 200 metros bajo el nivel del mar. Las referencias geograficas de Juan son consistentemente precisas respecto al terreno.

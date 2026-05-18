@@ -358,9 +358,8 @@ Und der Mensch nannte den Namen seiner Frau Chava (Eva), denn sie war Mutter all
 > **📝 NOTIZEN**
 >
 > 🔴 **KRITISCH - BENENNUNG CHAVAS**
-> - **חַוָּה** (*Chavvah*, transliteriert *Eva*) = Eigenname. Die traditionelle Wiedergabe „Eva" folgt der Septuaginta (der antiken griechischen Bibelübersetzung, oft als LXX abgekürzt) *Εὔα* (*Heua*) über die Vulgata *Heva*.
-> - Hier transliteriert, um die hebräische Form zu bewahren. Traditionelles „Eva" ist in der Leserausgabe zulässig; die Transparente Ausgabe behält *Eva* mit Notiz.
-> - Wortspiel: **חַי** (*chay*) = „lebendig"; *Eva* ähnelt der Wurzel. Etymologie volkstümlich oder echt, aber der Text stellt die Verbindung her („Mutter alles Lebendigen").
+> - **חַוָּה** (*Chavvah*, transliteriert *Eva*) = Eigenname. Die Transparente Ausgabe behält *Eva*; die Leserausgabe darf „Eva" verwenden (Septuaginta *Εὔα* über die Vulgata *Heva*). → Für die LXX→Vulgata→traditionelle-Wiedergabe-Rezeptionsgeschichte siehe Begleitmaterial Abschnitt F.
+> - Wortspiel: **חַי** (*chay*) = „lebendig"; *Eva* ähnelt der Wurzel. Der Text stellt die Verbindung her („Mutter alles Lebendigen"), unabhängig von volkstümlicher oder echter Etymologie.
 >
 > 🔵 **„SEINE FRAU"**
 > - Sie ist seit 2:22 *ishah* (seine Frau). Hier erhält sie einen persönlichen Namen. Der Mensch hingegen bleibt in V.21 *ha-adam*.
@@ -389,7 +388,7 @@ Und JHWH Elohim sprach: „Siehe, der Mensch ist geworden wie einer von uns, Gut
 > - Der hebräische Satz **bricht unvollendet ab**—keine Hauptklausel nach der „damit nicht"-Reihe. Rhetorischer Abbruch, nicht Schreibfehler. Die Auslassungspunkte (…) bewahren die gebrochene Konstruktion; V.23 ist die implizite Apodosis. Viele Übersetzungen glätten dies. Regel 5—nicht glätten.
 >
 > 🔴 **„WIE EINER VON UNS"**
-> - **כְּאַחַד מִמֶּנּוּ** (*ke'achad mimmennu*)—plural „uns" klingt nach Gn 1:26 *„lasst uns einen Menschen machen."* **MÖGLICHE** Interpretationen: Pluralis Majestatis, göttlicher Rat, literarischer Plural. Keine trinitarische Lesung auferlegen (Regel 3).
+> - **כְּאַחַד מִמֶּנּוּ** (*ke'achad mimmennu*) — plural „uns" klingt nach Gn 1:26. **MÖGLICHE** Lesarten: Pluralis Majestatis, göttlicher Rat, literarischer Plural; Regel 3 — keine trinitarische Lesung auferlegt. → Für die wissenschaftliche Diskussion zum göttlichen Rat und zur Rezeption siehe Begleitmaterial Abschnitt F.
 >
 > 🟡 **NARRATIVER WIDERHALL MIT 3:5**
 > - 3:5 (Schlange): *„ihr werdet sein wie Gott/Götter, erkennend Gutes und Böses."* 3:22 (JHWH Elohim): *„der Mensch ist geworden wie einer von uns, Gutes und Böses zu erkennen."* Die Vorhersage der Schlange steht erzählerisch **teilweise zutreffend**; der Text löst nicht auf, ob dies Wahrheit oder Urteil ist. Regel 2—Ambiguität bewahren. Für ausführlichere Diskussion der narrativen Spannung mit 3:4 siehe Begleitmaterial Abschnitt C.

@@ -290,7 +290,7 @@ E inimizade porei entre ti e entre a mulher, e entre a tua semente e entre a sem
 > - **זַרְעָהּ** (*zar'ah*) = "a semente dela" — a atribuição de *zera* a uma linha **feminina** é **gramaticalmente incomum** na Bíblia Hebraica, onde o termo está normalmente ligado à descendência masculina. Gênesis 3:15 é um dos poucos lugares onde a semente se traça pela mulher (**POSSÍVEL** observação filológica, não interpretativa). Referência cruzada: Gn 4:25 — Chava recebe *"outra semente"* (*zera acher*) continuando o fio da semente-da-mulher. Para discussão mais completa, veja o companheiro Seção A10.
 >
 > 🟡 **CONTENÇÃO INTERPRETATIVA**
-> - A tradição cristã posterior lê este versículo como "proto-evangelho" (primeiro evangelho). Essa leitura é **PÓS-BÍBLICA**; o texto hebraico dá uma declaração de inimizade contínua entre a serpente e a descendência da mulher. Regra 3: sem teologia importada. Sem capitalização de "Ele." Sem resolução da ambiguidade de gênero/número rumo a qualquer identificação posterior particular.
+> - A tradição cristã posterior lê este versículo como "proto-evangelho"—leitura **PÓS-BÍBLICA**; o texto hebraico dá uma declaração de inimizade contínua. Regra 3: sem teologia importada, sem capitalização de "Ele", sem resolução da ambiguidade. → Para a história recepcional do protoevangelium, veja o companheiro do capítulo §F.
 
 ---
 
@@ -359,9 +359,8 @@ E o humano chamou o nome de sua mulher Chava (Eva), porque era mãe de todo vive
 > **📝 NOTAS**
 >
 > 🔴 **CRÍTICO - NOMEAÇÃO DE CHAVA**
-> - **חַוָּה** (*Chavvah*, transliterado *Chava*) = nome próprio. A tradução tradicional "Eva" segue a Septuaginta *Εὔα* (*Heua*) via Vulgata *Heva*.
-> - Transliterado aqui para preservar a forma hebraica. Tradução tradicional "Eva" é aceitável na Edição do Leitor; a Edição Transparente mantém *Eva* com nota.
-> - Jogo de palavras: **חַי** (*chay*) = "vivente"; *Chava* se assemelha à raiz. Etimologia popular ou real, mas o texto faz a conexão ("mãe de todo vivente").
+> - **חַוָּה** (*Chavvah*, transliterado *Chava*) = nome próprio. A Edição Transparente mantém *Chava*; a Edição do Leitor pode usar "Eva" (Septuaginta *Εὔα* via Vulgata *Heva*). → Para a história recepcional LXX→Vulgata→tradicional, veja o companheiro do capítulo §F.
+> - Jogo de palavras: **חַי** (*chay*) = "vivente"; *Chava* se assemelha à raiz. O texto faz a conexão ("mãe de todo vivente"), independentemente de a etimologia ser popular ou real.
 >
 > 🔵 **"SUA MULHER"**
 > - Ela tem sido *ishah* (sua mulher) desde 2:22. Aqui recebe um nome pessoal. O humano, em contraste, permanece *ha-adam* em v.21.
@@ -391,7 +390,7 @@ E YHWH Elohim disse: "Eis que o humano tornou-se como um de nós, conhecendo o b
 > - Muitas traduções suavizam isso com orações principais inseridas. Regra 5—não suavizar.
 >
 > 🔴 **"COMO UM DE NÓS"**
-> - **כְּאַחַד מִמֶּנּוּ** (*ke'achad mimmennu*)—"nós" plural ecoa Gn 1:26 *"façamos um humano."* Interpretações **POSSÍVEIS**: plural majestático, conselho divino, plural literário. Não impor leitura trinitária (Regra 3).
+> - **כְּאַחַד מִמֶּנּוּ** (*ke'achad mimmennu*) — "nós" plural ecoa Gn 1:26. Leituras **POSSÍVEIS**: plural majestático, conselho divino, plural literário; Regra 3 — sem leitura trinitária imposta. → Para a discussão acadêmica do conselho divino e recepção, veja o companheiro do capítulo §F.
 >
 > 🟡 **RESSONÂNCIA NARRATIVA COM 3:5**
 > - A serpente em **3:5**: *"sereis como Deus/deuses, conhecendo o bem e o mal."* YHWH Elohim em **3:22**: *"o humano tornou-se como um de nós, conhecendo o bem e o mal."*

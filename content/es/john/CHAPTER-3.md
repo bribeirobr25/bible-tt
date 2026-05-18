@@ -230,7 +230,7 @@ Amen, amen, te digo, hablamos lo que sabemos y testificamos *de* lo que hemos vi
 > **📝 NOTAS**
 >
 > 🔵 **CAMBIO AL PLURAL — "HABLAMOS... TESTIFICAMOS"**
-> - **laloumen... martyroumen** = primera persona plural. Yeshua cambia de "yo" a "nosotros." ¿Quién esta incluido en el "nosotros"? Lecturas propuestas: (a) Yeshua y el Padre; (b) Yeshua y sus seguidores; (c) la comunidad joanica dirigiendose a la sinagoga (si vv.11-21 reflejan una capa de discurso posterior). La ambiguedad no se resuelve.
+> - **laloumen... martyroumen** = primera persona plural. Yeshua cambia de "yo" a "nosotros"; la ambigüedad no se resuelve. → Para las lecturas propuestas del "nosotros" (Yeshua + Padre / Yeshua + seguidores / comunidad joánica dirigiéndose a la sinagoga) y la discusión sobre capas de discurso, vea el compañero del capítulo §C.
 >
 > 🟢 **"TESTIMONIO" / "RECIBIR" — *MARTYRIA* / *LAMBANO***
 > - El grupo de palabras de *martyria* (testimonio) continua desde el cap. 1. **lambano** (*lambano*) = recibir, tomar. "Ustedes no reciben nuestro testimonio" — el mismo verbo usado para el mundo no recibiendo al *logos* en 1:11.

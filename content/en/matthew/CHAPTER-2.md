@@ -223,7 +223,7 @@ And coming into the house, they saw the child with Miryam (Mary) his mother, and
 > - **τὴν οἰκίαν** (*tēn oikian*) = "the house." Matthew says house, not stable or manger. The manger (*phatnē*) appears only in Luke 2:7. The *magoi* find the child in a house — either the family has moved since the birth, or Matthew's account differs from Luke's in setting. The TT translates each Gospel on its own terms without harmonizing.
 >
 > 🟢 **THREE GIFTS — GOLD, FRANKINCENSE, MYRRH**
-> - **χρυσὸν καὶ λίβανον καὶ σμύρναν** (*chryson kai libanon kai smyrnan*). Three gifts, not three *magoi* — the text does not specify a number of visitors. Gold = royal tribute. Frankincense (*libanos*) = priestly/liturgical incense (cf. Lev 2:1). Myrrh (*smyrna*) = burial spice (cf. John 19:39). Later tradition reads symbolic significance into each gift; the text lists them without interpretation.
+> - **χρυσὸν καὶ λίβανον καὶ σμύρναν** (*chryson kai libanon kai smyrnan*). Three gifts (the text does not specify a number of *magoi*): gold = royal tribute; frankincense (*libanos*) = priestly/liturgical incense (cf. Lev 2:1); myrrh (*smyrna*) = burial spice (cf. John 19:39). → For the symbolic-significance reception tradition (Origen and later Christian readings), see chapter companion §F.
 >
 > 🔵 **"THE CHILD" — *TO PAIDION***
 > - **τὸ παιδίον** (*to paidion*) = "the child" (diminutive of *pais*). Not "baby" (*brephos*, Luke 2:12). The term suggests a young child, not a newborn — consistent with the time elapsed implied by Herodes (Herod)'s "two years and under" (v.16).

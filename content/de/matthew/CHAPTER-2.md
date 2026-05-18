@@ -217,7 +217,7 @@ Und sie kamen in das Haus und sahen das Kind mit Miryam (Maria), seiner Mutter, 
 > - **τὴν οἰκίαν** (*tēn oikian*) = „das Haus." Matthäus sagt Haus, nicht Stall oder Krippe. Die Krippe (*phatnē*) erscheint nur in Lukas 2,7. Die *Magoi* finden das Kind in einem Haus — entweder ist die Familie seit der Geburt umgezogen, oder Matthäus' Bericht unterscheidet sich von dem des Lukas in der Szenerie. Die TT übersetzt jedes Evangelium zu seinen eigenen Bedingungen, ohne zu harmonisieren.
 >
 > 🟢 **DREI GABEN — GOLD, WEIHRAUCH, MYRRHE**
-> - **χρυσὸν καὶ λίβανον καὶ σμύρναν** (*chryson kai libanon kai smyrnan*). Drei Gaben, nicht drei *Magoi* — der Text gibt keine Besucherzahl an. Gold = königlicher Tribut. Weihrauch (*libanos*) = priesterlicher/liturgischer Weihrauch (vgl. Lev 2,1). Myrrhe (*smyrna*) = Begräbnisgewürz (vgl. Joh 19,39). Spätere Tradition liest symbolische Bedeutung in jede Gabe; der Text listet sie ohne Deutung auf.
+> - **χρυσὸν καὶ λίβανον καὶ σμύρναν** (*chryson kai libanon kai smyrnan*). Drei Gaben (der Text gibt keine *Magoi*-Zahl an): Gold = königlicher Tribut; Weihrauch (*libanos*) = priesterlicher/liturgischer Weihrauch (vgl. Lev 2,1); Myrrhe (*smyrna*) = Begräbnisgewürz (vgl. Joh 19,39). → Für die symbolische-Bedeutung-Rezeptionstradition (Origenes und spätere christliche Lesarten) siehe Begleitmaterial Abschnitt F.
 >
 > 🔵 **„DAS KIND" — *TO PAIDION***
 > - **τὸ παιδίον** (*to paidion*) = „das Kind" (Diminutiv von *pais*). Nicht „Baby" (*brephos*, Lk 2,12). Der Ausdruck deutet auf ein Kleinkind, nicht auf ein Neugeborenes — konsistent mit der implizierten Zeitspanne durch Herodes' „zwei Jahre und jünger" (V.16).

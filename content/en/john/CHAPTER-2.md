@@ -247,7 +247,7 @@ After this he went down to Kfar Nachum (Capernaum) — he and his mother and his
 > - **Καφαρναούμ** (*Kapharnaoum*) = Greek form of Hebrew/Aramaic כְּפַר נַחוּם (*Kfar Nachum*, "village of Nachum"). TT renders the Semitic form. Kfar Nachum was a fishing village on the northwest shore of the Kinneret (Sea of Galilee). The Synoptics present it as the base of Yeshua (Jesus)'s Galilean ministry.
 >
 > 🟡 **"HIS BROTHERS" — οἱ ἀδελφοὶ αὐτοῦ**
-> - **ἀδελφοί** (*adelphoi*) = brothers. The term can mean full siblings, half-siblings, step-siblings, or kinsmen depending on context and tradition. The text does not specify the relationship further. Later theological traditions (perpetual virginity of Mary) read *adelphoi* as "cousins" or "step-brothers" (from a prior marriage of Yosef). The text itself uses the standard word for "brothers" without qualification.
+> - **ἀδελφοί** (*adelphoi*) = brothers. The term can mean full siblings, half-siblings, step-siblings, or kinsmen depending on context; the text uses the standard word without further qualification. → For later theological traditions (perpetual virginity of Mary reading *adelphoi* as "cousins" or "step-brothers") and the reception history, see chapter companion §F.
 >
 > 🔵 **"WENT DOWN" — κατέβη**
 > - **κατέβη** (*katebē*) = "went down." Geographically accurate: Qanah is in the Galilean highlands; Kfar Nachum is on the shore of the Kinneret, approximately 200 meters below sea level. John's geographical references are consistently accurate to the terrain.

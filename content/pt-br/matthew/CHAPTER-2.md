@@ -224,7 +224,7 @@ E entrando na casa, viram a criança com Miryam (Maria) sua mãe, e caindo, pros
 > - **τὴν οἰκίαν** (*tēn oikian*) = "a casa." Mateus diz casa, não estábulo ou manjedoura. A manjedoura (*phatnē*) aparece apenas em Lucas 2:7. Os *magoi* encontram a criança em uma casa — ou a família se mudou desde o nascimento, ou o relato de Mateus difere do de Lucas no cenário. A TT traduz cada Evangelho em seus próprios termos sem harmonizar.
 >
 > 🟢 **TRÊS PRESENTES — OURO, INCENSO, MIRRA**
-> - **χρυσὸν καὶ λίβανον καὶ σμύρναν** (*chryson kai libanon kai smyrnan*). Três presentes, não três *magoi* — o texto não especifica o número de visitantes. Ouro = tributo real. Incenso (*libanos*) = incenso sacerdotal/litúrgico (cf. Lv 2:1). Mirra (*smyrna*) = especiaria funerária (cf. Jo 19:39). A tradição posterior lê significado simbólico em cada presente; o texto os lista sem interpretação.
+> - **χρυσὸν καὶ λίβανον καὶ σμύρναν** (*chryson kai libanon kai smyrnan*). Três presentes (o texto não especifica o número de *magoi*): ouro = tributo real; incenso (*libanos*) = incenso sacerdotal/litúrgico (cf. Lv 2:1); mirra (*smyrna*) = especiaria funerária (cf. Jo 19:39). → Para a tradição recepcional do significado simbólico (Orígenes e leituras cristãs posteriores), veja o companheiro do capítulo §F.
 >
 > 🔵 **"A CRIANÇA" — *TO PAIDION***
 > - **τὸ παιδίον** (*to paidion*) = "a criança" (diminutivo de *pais*). Não "bebê" (*brephos*, Lc 2:12). O termo sugere uma criança pequena, não um recém-nascido — consistente com o tempo decorrido implicado pelo "dois anos para baixo" de Herodes (v.16).

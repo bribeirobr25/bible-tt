@@ -165,9 +165,7 @@ Und *ein* Dunst stieg auf vom Land und bewässerte die ganze Fläche des Bodens.
 > **📝 NOTIZEN**
 >
 > 🟡 **UNGEWISS - *ed***
-> - **אֵד** (*ed*) = seltenes Wort; erscheint nur zweimal in der Hebräischen Bibel (hier + Hi 36:27). Bedeutung **UNGEWISS**. **MÖGLICH**: Dunst, Nebel, Quelle, Strom, unterirdischer Wasserlauf.
-> - „Dunst" folgt einer Haupttradition; „Strom/Flut" folgt dem akkadischen Kognat *edû*. In beiden Fällen ist die Funktion klar: Wasser steigt an die Oberfläche, bevor Regen erwähnt wird.
-> - Falsche Präzision vermeiden (Regel 12).
+> - **אֵד** (*ed*) = seltenes Wort; erscheint zweimal in der Hebräischen Bibel (hier + Hi 36:27). Bedeutung **UNGEWISS** — **MÖGLICH**e Wiedergaben: Dunst, Nebel, Quelle, Strom. → Für den akkadischen Kognat *edû* und die ANE-Tradition zu Wasserquellen siehe Begleitmaterial Abschnitt B.
 
 ---
 
@@ -269,8 +267,7 @@ Und der Name des dritten Stroms *ist* Hiddekel; *er ist* der, welcher östlich v
 > **📝 NOTIZEN**
 >
 > 🟢 **IDENTIFIZIERBARE STRÖME**
-> - **חִדֶּקֶל** (*Hiddekel*) = Tigris. **פְּרָת** (*Perat*) = Euphrat. Im Haupttext transliteriert, um der hebräischen Form zu entsprechen; Identifikation in der Notiz gegeben.
-> - Ströme 1–2 (Pischon, Gichon) **UNGEWISS**; Ströme 3–4 sind die beiden großen Ströme Mesopotamiens.
+> - **חִדֶּקֶל** (*Hiddekel*) = Tigris; **פְּרָת** (*Perat*) = Euphrat. Ströme 1–2 (Pischon, Gichon) **UNGEWISS**. → Für die mesopotamische Flussgeographie und ANE-Kontext siehe Begleitmaterial Abschnitt B.
 
 ---
 
@@ -281,8 +278,7 @@ Und JHWH Elohim nahm den Menschen und setzte ihn in den Garten Eden, ihn zu bear
 > **📝 NOTIZEN**
 >
 > 🔴 **BEARBEITEN UND HÜTEN**
-> - **לְעָבְדָהּ וּלְשָׁמְרָהּ** (*le'ovdah ulshomrah*) = „ihn zu bearbeiten/dienen und ihn zu hüten"—feminine Suffixe. Genaue Kongruenz **UNGEWISS** — **MÖGLICHE** Erklärungen: (1) *gan* (Garten) als feminines Antezedens über *gan* → *ganah* behandelt; (2) Bezug auf *adamah* (Boden, feminin). Gepaarte Infinitive: **ע-ב-ד** = dienen/arbeiten; **שׁ-מ-ר** = hüten/bewahren/beobachten.
-> - Dieselben zwei Verben beschreiben später priesterliche Aufgaben im Stiftszelt (Num 3:7–8, 8:26); die Garten-Berufung klingt in späterer priesterlicher Funktion nach. Resonanz notieren; nicht in den Haupttext importieren.
+> - **לְעָבְדָהּ וּלְשָׁמְרָהּ** (*le'ovdah ulshomrah*) = „ihn zu bearbeiten/dienen und ihn zu hüten"—feminine Suffixe (Antezedens **UNGEWISS** — **MÖGLICH**: *gan* oder *adamah*). Gepaarte Infinitive: **ע-ב-ד** (dienen/arbeiten), **שׁ-מ-ר** (hüten/bewahren/beobachten). → Für den Stiftszelt-Anklang (Num 3,7–8; 8,26) und das priesterlich-berufungs-bezogene Intertext siehe Begleitmaterial Abschnitt C.
 
 ---
 

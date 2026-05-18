@@ -247,7 +247,7 @@ Danach ging er hinab nach Kfar Nachum (Kapernaum) — er und seine Mutter und se
 > - **Καφαρναούμ** (*Kapharnaoum*) = griechische Form des hebräischen/aramäischen כְּפַר נַחוּם (*Kapernaum*, „Dorf des Nachum"). Die TT gibt die semitische Form wieder. Kapernaum war ein Fischerdorf am Nordwestufer des Kinneret (See Gennesaret). Die Synoptiker stellen es als Basis von Jesu galiläischem Wirken dar.
 >
 > 🟡 **„SEINE BRÜDER" — οἱ ἀδελφοὶ αὐτοῦ**
-> - **ἀδελφοί** (*adelphoi*) = Brüder. Der Begriff kann je nach Kontext und Tradition leibliche Geschwister, Halbgeschwister, Stiefgeschwister oder Verwandte bezeichnen. Der Text spezifiziert die Beziehung nicht weiter. Spätere theologische Traditionen (immerwährende Jungfräulichkeit Marias) lesen *adelphoi* als „Cousins" oder „Stiefbrüder" (aus einer früheren Ehe Josefs). Der Text selbst verwendet das Standardwort für „Brüder" ohne Einschränkung.
+> - **ἀδελφοί** (*adelphoi*) = Brüder. Der Begriff kann je nach Kontext leibliche Geschwister, Halbgeschwister, Stiefgeschwister oder Verwandte bezeichnen; der Text verwendet das Standardwort ohne weitere Einschränkung. → Für spätere theologische Traditionen (immerwährende Jungfräulichkeit Marias mit Lesart „Cousins" oder „Stiefbrüder") und die Rezeptionsgeschichte siehe Begleitmaterial Abschnitt F.
 >
 > 🔵 **„GING HINAB" — κατέβη**
 > - **κατέβη** (*katebē*) = „ging hinab." Geographisch korrekt: Qanah liegt im galiläischen Hochland; Kapernaum liegt am Ufer des Kinneret, etwa 200 Meter unter dem Meeresspiegel. Die geographischen Bezüge im Johannesevangelium sind durchweg präzise in Bezug auf das Gelände.

@@ -224,7 +224,7 @@ Amen, amen, ich sage dir, wir reden, was wir wissen, und wir bezeugen, was wir g
 > **📝 NOTIZEN**
 >
 > 🔵 **WECHSEL ZUM PLURAL — „WIR REDEN ... WIR BEZEUGEN"**
-> - **λαλοῦμεν... μαρτυροῦμεν** = erste Person Plural. Jesus wechselt von „ich" zu „wir." Wer ist im „wir" eingeschlossen? Vorgeschlagene Lesarten: (a) Jesus und der Vater; (b) Jesus und seine Nachfolger; (c) die johanneische Gemeinschaft, die sich an die Synagoge wendet (wenn VV.11–21 eine spätere Diskursschicht widerspiegeln). Die Ambiguität ist ungelöst.
+> - **λαλοῦμεν... μαρτυροῦμεν** = erste Person Plural. Jesus wechselt von „ich" zu „wir"; die Ambiguität bleibt ungelöst. → Für die vorgeschlagenen Lesarten des „wir" (Jesus + Vater / Jesus + Nachfolger / johanneische Gemeinschaft an die Synagoge) und die Diskussion über Diskursschichten siehe Begleitmaterial Abschnitt C.
 >
 > 🟢 **„ZEUGNIS" / „ANNEHMEN" — *MARTYRIA* / *LAMBANŌ***
 > - Die *martyria*-Wortgruppe (Zeugnis) setzt sich aus Kap. 1 fort. **λαμβάνω** (*lambanō*) = empfangen, annehmen. „Ihr nehmt unser Zeugnis nicht an" — dasselbe Verb, das in 1,11 für das Nicht-Aufnehmen des *Logos* durch die Welt verwendet wird.

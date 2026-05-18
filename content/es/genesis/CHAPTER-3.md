@@ -362,9 +362,8 @@ Y el humano llamó el nombre de su mujer Eva, porque ella fue madre de todo lo v
 > **NOTAS**
 >
 > 🔴 **CRÍTICO - NOMBRAMIENTO DE CHAVA**
-> - **חַוָּה** (*Chavvah*, transliterada *Chava*) = nombre propio. Rendimiento tradicional "Eva" sigue la Septuaginta (la antigua traducción griega de la Biblia Hebrea, abreviada LXX) *Εὔα* (*Heua*) via Vulgata *Heva*.
-> - Transliterada aquí para preservar la forma hebrea. El tradicional "Eva" es aceptable en Edición de Lectura; la Edición Transparente mantiene *Chava* con nota.
-> - Juego de palabras: **חַי** (*chay*) = "viviente"; *Chava* se asemeja a la raíz. Etimologia folclorica o real, pero el texto hace la conexion ("madre de todo lo viviente").
+> - **חַוָּה** (*Chavvah*, transliterada *Chava*) = nombre propio. La Edición Transparente mantiene *Chava*; la Edición de Lectura puede usar "Eva" (Septuaginta *Εὔα* vía Vulgata *Heva*). → Para la historia recepcional LXX→Vulgata→tradicional, vea el compañero del capítulo §F.
+> - Juego de palabras: **חַי** (*chay*) = "viviente"; *Chava* se asemeja a la raíz. El texto hace la conexión ("madre de todo lo viviente"), independientemente de si la etimología es folclórica o real.
 >
 > 🔵 **"SU MUJER"**
 > - Ella ha sido *ishah* (su mujer) desde 2:22. Aqui recibe un nombre personal. El humano, en contraste, permanece *ha-adam* en v.21.
@@ -394,7 +393,7 @@ Y YHWH Elohim dijo: "He aquí, el humano ha llegado a ser como uno de nosotros p
 > - Muchas traducciones suavizan esto con cláusulas principales insertadas. Regla 5 — no suavizar.
 >
 > 🔴 **"COMO UNO DE NOSOTROS"**
-> - **כְּאַחַד מִמֶּנּוּ** (*ke'achad mimmennu*) — plural "nosotros" resuena con Gen 1:26 *"hagamos un humano."* Interpretaciones **POSIBLES**: plural mayestatico, consejo divino, plural literario. No imponer lectura trinitaria (Regla 3).
+> - **כְּאַחַד מִמֶּנּוּ** (*ke'achad mimmennu*) — plural "nosotros" resuena con Gen 1:26. Lecturas **POSIBLES**: plural mayestático, consejo divino, plural literario; Regla 3 — sin lectura trinitaria impuesta. → Para la discusión académica del consejo divino y recepción, vea el compañero del capítulo §F.
 >
 > 🟡 **RESONANCIA NARRATIVA CON 3:5**
 > - La serpiente (3:5): *"seran como Dios/dioses, conociendo el bien y el mal."* YHWH Elohim (3:22): *"el humano ha llegado a ser como uno de nosotros para conocer el bien y el mal."*
