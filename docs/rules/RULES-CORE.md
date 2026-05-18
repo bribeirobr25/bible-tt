@@ -787,6 +787,60 @@ Structured data tracking individuals mentioned in the text.
 
 **Ethnogenesis prohibition:** Linking biblical peoples to modern ethnic groups, nations, or political entities is PROHIBITED unless every link carries archaeological or genetic verification with the corresponding source documented in Section H. Speculative ethnogenesis claims are not permitted regardless of confidence label.
 
+**Cross-Book Canonical Entries (v3.3.2 amendment, 2026-05-18):** When a person appears in multiple books, a SINGLE canonical entry lives in one book's PEOPLE.md (the "canonical home" — typically the book where the person's narrative arc is most substantive), and the OTHER books that mention the person use a **see-only stub** that references the canonical home.
+
+**Markdown convention:**
+
+```markdown
+## <Transliterated> (<Familiar>)
+**See:** <canonical-book-slug>/PEOPLE.md
+**In <Current Book>:** <2-4 sentence narrative role in the current book's scope>
+```
+
+Examples in production:
+- `content/en/matthew/PEOPLE.md`: `## Avraham (Abraham)` → `**See:** genesis/PEOPLE.md` → `**In Matthew:** First in the genealogy (1:2)...`
+- `content/en/john/PEOPLE.md`: `## Mosheh (Moses)` → `**See:** exodus/PEOPLE.md` → `**In John:** Referenced as the giver of the Torah (1:17)...`
+
+**Locale-translation table for label aliases** (parser accepts these case-insensitively at `src/infrastructure/content/people-parser.ts`):
+
+| Field | EN | PT-BR | DE | ES |
+|---|---|---|---|---|
+| `See` (crossBookSee) | `See` | `Ver` | `Siehe` | `Ver` |
+| `In <Book>` (inBook) | `In Matthew`, `In Genesis`, `In John` (+ future books) | `Em Mateus`, `Em Gênesis`, `Em João` | `In Matthäus`, `In Genesis`, `In Johannes` | `En Mateo`, `En Génesis`, `En Juan` |
+
+**Allow-list of valid `**See:**` target slugs (v3.3.2 published list):**
+
+| Slug | Status |
+|---|---|
+| `genesis` | Currently authored — resolves to active link |
+| `matthew` | Currently authored — resolves to active link |
+| `john` | Currently authored — resolves to active link |
+| `acts` | Forward-tracked — Phase 14+ — renders as plain-text fallback until authored |
+| `exodus` | Forward-tracked — Phase 12+ Pentateuch — renders as plain-text fallback until authored |
+| `kings` | Forward-tracked — Phase 14+ — renders as plain-text fallback until authored |
+| `isaiah` | Forward-tracked — Phase 14+ — renders as plain-text fallback until authored |
+
+Adding a new target slug to the allow-list is part of the new-book activation checklist below.
+
+**When to use see-only stub vs. full canonical entry:**
+
+- **See-only stub** when the person's canonical biographical material lives in another book (e.g., OT patriarchs appearing in Matthew 1's genealogy → see-only pointing to `genesis`), AND the current book's narrative role is limited to references or brief mentions (≤4 sentences fits the `**In <Book>:**` field comfortably).
+- **Full canonical entry** when the person's substantive narrative arc lives in the current book, OR when the person's canonical-home book is not yet authored AND the current book has the most substantive material currently available (e.g., Rachav and Rut appear in Matthew's genealogy; their canonical OT homes Joshua and Ruth are not yet authored; matthew/PEOPLE.md carries full entries until those OT books land).
+
+**New-book activation checklist — 5 SYNCHRONIZED CHANGES required when adding a new book's PEOPLE.md:**
+
+1. **Author content** — `content/{en,pt-br,de,es}/{new-book}/PEOPLE.md` (all 4 locales).
+2. **Extend bookLabels** — `src/app/[locale]/[book]/people/page.tsx`: add `{new-book}: t("book.{new-book}")` to the `bookLabels` map.
+3. **Extend parser aliases** — `src/infrastructure/content/people-parser.ts` `EXACT_LABEL_ALIASES.inBook`: add 4 locale forms (e.g., `"in kings"`, `"em reis"`, `"in könige"`, `"en reyes"`). Without this, `**In {New Book}:**` fields will silently parse as `undefined`.
+4. **Add i18n key** — `src/infrastructure/i18n/messages/{en,pt-br,de,es}.json`: add `people.inBook.{new-book}` translation string in each locale file.
+5. **Extend lint allow-list** — `scripts/content-lint.sh` §0.12 rule: add `{new-book}` to the cross-book PEOPLE pointer allow-list.
+
+All five changes should land in the same commit or PR.
+
+**Content-lint enforcement (warn-only §0.12):** `scripts/content-lint.sh` validates that every `**See:** {slug}/PEOPLE.md` (and locale aliases `Ver`/`Siehe`) refers to a slug in the allow-list above. Typos like `**See:** geneis/PEOPLE.md` produce a warn-only lint finding. The dangling-pointer UI fallback in `CrossBookSeeField` (`src/ui/people/person-card.tsx`) provides a second-layer defense at render time (plain text instead of broken link).
+
+**Cross-book canonical-entry transition logging:** when a future authoring phase adds a full canonical entry that resolves an existing see-only stub (e.g., Phase 12 Genesis 13-50 adds full Yitschaq/Ya'aqov/Yosef bios, resolving the Matthew see-only stubs), the parent authoring entry's editorial-log entry should include a cross-reference line: `"Resolves see-only stubs at {book}/PEOPLE.md × 4 locales."` No separate transition log entry needed — the resolution is automatic via the parser + UI.
+
 **Book-Level Introductions:**
 
 Book introductions provide historical, compositional, and textual-transmission context at the book level. They follow the same dual-label system and disclaimer requirement as chapter companions.

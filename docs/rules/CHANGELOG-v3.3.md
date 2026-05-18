@@ -76,3 +76,17 @@ These artifacts are preserved permanently as part of the Lock Protocol's documen
 - **Editorial-log entries:** `docs/editorial-log/genesis.md` Entry 2026-05-18-107 (anchor) + `docs/editorial-log/john.md` Entry J-026 + `docs/editorial-log/matthew.md` Entry M-025.
 - **Verification:** 819 tests pass (unchanged baseline); `pnpm build` clean; `pnpm content:lint` baseline clean; `pnpm lint` clean.
 - **Project lead sign-off:** approved 2026-05-18 via the Q1/Q2/Q3 decision lock recorded in `docs/audit/DE_FAMILIAR_NAMES_PLAN.md` §10.
+
+---
+
+## v3.3.2 emergency amendment — 2026-05-18
+
+- **Target:** RULES-CORE.md Rule 29 §People and Genealogy Files bold-paragraph block.
+- **Path:** Emergency amendment per RULES-CORE.md §AMENDMENT & LOCK PROTOCOL — bug fix / audit-driven formalization, no signed-off verses affected, additive clarification only.
+- **Proposal artifact:** `docs/rules/proposals/v3.3.2-cross-book-PEOPLE-formalization.md`.
+- **Change:** Formalized the cross-book see-only PEOPLE.md pattern that has been in production use since Phase 6 (2026-05-09) and was extended by Phase 10 (John PEOPLE.md, 2026-05-14) + the Possible-Content Bundle (2026-05-16, Iakobos see-only stub). Documented: the markdown convention (`**See:** {book}/PEOPLE.md` + `**In <Book>:** [narrative role]`), the locale-translation table for parser aliases, the v3.3.2-published allow-list of 7 valid target slugs (genesis, matthew, john, acts, exodus, kings, isaiah), the see-only-vs-full-canonical decision criteria, the 5-change new-book activation checklist (content + bookLabels + parser aliases + i18n keys + lint allow-list), the cross-book canonical-entry transition logging convention, and the warn-only `§0.12` content-lint rule for cross-book PEOPLE pointer validity.
+- **Trigger:** `docs/audit/PHASE_13_PLAN.md` (Q1=A allow-list + §0.12 lint / Q2=A v3.3.2 emergency amendment / Q3=A mention transitions in parent authoring entry / Q4=C DEFER README to separate phase / Q5=A add CLAUDE.md paragraph). Audit absorption (`docs/audit/AUDIT_PHASE_13_PLAN.md`) identified 1 critical (stub count) + 2 significant (parser-alias forward-tracked gap; 5-change new-book checklist) + 4 minor findings; all addressed pre-execution. 1 partial dissent documented (audit's misspelling claim).
+- **Content remediation:** zero — documentation + lint + CLAUDE.md only. No content files touched. No code changes to `PersonEntry`, `people-parser.ts`, `person-card.tsx`, `fs-content-repository.ts`.
+- **Editorial-log entry:** `docs/editorial-log/genesis.md` Phase 13 closure entry (date-based ID).
+- **Verification:** 819 tests pass (unchanged baseline); `pnpm build` clean; `pnpm lint` clean; `pnpm content:lint` baseline 2 warnings (§0.10 + §0.11) + new §0.12 warn-only rule produces 0 warnings on current production content (all 7 allow-listed slugs are in use).
+- **Project lead sign-off:** approved 2026-05-18 via the Q1/Q2/Q3/Q4/Q5 decision lock recorded in `docs/audit/PHASE_13_PLAN.md` §10.

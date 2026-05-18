@@ -216,6 +216,38 @@ check_pattern_warn "0.11" "DE chapter redundant-parens regression — see genesi
   "([A-ZÄÖÜ][a-zäöüß']+) \(\1\)" \
   "content/de/genesis/CHAPTER-*.md content/de/john/CHAPTER-*.md content/de/matthew/CHAPTER-*.md"
 
+# §0.12 — Cross-book PEOPLE.md pointer validity (warn-only)
+# Added 2026-05-18 alongside Phase 13 cross-book PEOPLE formalization (v3.3.2 amendment).
+# Validates every `**See:** <slug>/PEOPLE.md` (and locale aliases Ver/Siehe)
+# against the published allow-list of valid target slugs (RULES-CORE.md Rule 29
+# §People and Genealogy Files v3.3.2 amendment). Catches typos like
+# `**See:** geneis/PEOPLE.md` that would otherwise pass silently via the
+# CrossBookSeeField graceful-dangling-pointer UI fallback.
+# Warn-only: legitimate new forward references should not break the build.
+# To add a new allowed slug, update both this allow-list AND the proper-name
+# entries per the 5-change new-book activation checklist in RULES-CORE.md.
+check_cross_book_pointers() {
+  local rule_id="0.12"
+  local matches
+  matches=$(perl -ne '
+    if (eof) { close ARGV; }
+    # Match: **See:** slug/PEOPLE.md  (or Ver: / Siehe:)
+    if (/^\*\*(?:See|Ver|Siehe):\*\*\s+([a-z][a-z-]*)\/PEOPLE\.md/i) {
+      my $slug = lc($1);
+      my %allowed = (
+        genesis => 1, matthew => 1, john => 1,
+        acts => 1, exodus => 1, kings => 1, isaiah => 1,
+      );
+      unless ($allowed{$slug}) {
+        chomp;
+        print "$ARGV:$.:$_  [slug not in allow-list: $slug]\n";
+      }
+    }
+  ' content/*/genesis/PEOPLE.md content/*/john/PEOPLE.md content/*/matthew/PEOPLE.md 2>/dev/null | filter_allowlist "$rule_id")
+  emit_warn "$rule_id" "Cross-book PEOPLE.md pointer slug not in allow-list — see RULES-CORE.md Rule 29 §People and Genealogy Files v3.3.2 allow-list" "$matches"
+}
+check_cross_book_pointers
+
 # ============================================================
 # Legacy rules (pre-Phase 0)
 # ============================================================
