@@ -248,6 +248,23 @@ check_cross_book_pointers() {
 }
 check_cross_book_pointers
 
+# §0.13 — Source-analysis persona/name leakage guard (warn-only)
+# Added 2026-06-03 alongside the source-analysis methodology formalization
+# (docs/source-analysis/). Guards USER-FACING surfaces (content/ + src/) so the
+# external contributor's name and the original video/channel persona prose never
+# appear there. The internal corpus (docs/source-analysis/) is intentionally NOT
+# scanned — it may legitimately retain provenance or "Elan Ramon" (the astronaut,
+# a different person). Warn-only. See docs/audit/SOURCE_ANALYSIS_METHODOLOGY_PLAN.md.
+check_source_persona_leak() {
+  local rule_id="0.13"
+  local matches name_hits persona_hits
+  name_hits=$(grep -rnE "\bElan\b" content/ src/ 2>/dev/null)
+  persona_hits=$(grep -rinE "thank you for watching|stay with me|my channel|native hebrew speaker|notification bell|see you next time|hit the subscribe" content/ src/ 2>/dev/null)
+  matches=$(printf '%s\n%s\n' "$name_hits" "$persona_hits" | grep -v '^[[:space:]]*$' | filter_allowlist "$rule_id")
+  emit_warn "$rule_id" "Source-analysis contributor name or video persona prose in user-facing content/ or src/ — keep it internal (docs/source-analysis/ only); see docs/source-analysis/README.md" "$matches"
+}
+check_source_persona_leak
+
 # ============================================================
 # Legacy rules (pre-Phase 0)
 # ============================================================

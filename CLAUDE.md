@@ -2,58 +2,49 @@
 
 ## What this project is
 
-The Transparent Translation (TT) — a multilingual Bible translation project with a web application for reading, studying, and exploring contextual enrichment. The translation currently covers Genesis 1–12, John 1–3, and Matthew 1–3 in English, Brazilian Portuguese, German, and Spanish, governed by a 29-rule system (v3.3) that prioritizes source-text fidelity, ambiguity preservation, and theological restraint.
+The Transparent Translation (TT) — a multilingual Bible translation project with a web application for reading, studying, and exploring contextual enrichment. The translation currently covers Genesis 1–12, John 1–3, and Matthew 1–3 in English, Brazilian Portuguese, German, and Spanish, governed by a 29-rule system that prioritizes source-text fidelity, ambiguity preservation, and theological restraint.
 
-## Verified state (2026-05-18)
+## Verified state
 
-- **Tests:** 819 passing across 8 files (chapter parser 576, enrichment 117, people 53, prophecy 28, introduction 17, book-context 15, render-markdown-safe 12, book-context-real 1).
-- **Rules:** RULES-CORE at v3.3 (added §Punctuation Governance, §Idiom Policy, §Glossary Expansion Procedure, formalized §Editorial Log Specification, added John 1:1c worked quadrilingual example). RULES-HB at **v3.3.1** (2026-05-18 emergency amendment — DE name-rendering clarification appended to §PROPER-NAME TABLE notes; proposal at `docs/rules/proposals/v3.3.1-emergency-DE-name-rendering-clarification.md`). RULES-GS unchanged at v3.2 lock.
-- **Content scope verified:** Genesis 1–12 + INTRODUCTION + PEOPLE in all four locales; John 1–3 + INTRODUCTION + PEOPLE in all four locales; Matthew 1–3 + INTRODUCTION + PEOPLE in all four locales.
-- **Editorial logs:** `genesis.md` (Entry 2026-05-15-104), `john.md` (J-024), `matthew.md` (M-021), `transliteration-decisions.md` — all present. Phase 10 added john.md J-021 (John PEOPLE.md across 4 locales). Post-Phase-10 audit cleanup added matthew.md M-019 (DE/ES matthew Yochanan heading + DE `keyEvents` parser alias). Phase 8 added genesis.md 2026-05-14-103 + john.md J-022 + matthew.md M-020 (Section I coverage — 44 cross-reference quote-blocks + 8 narrative-specific entries × 4 locales = 32 entries). Post-Phase-8 small-wins bundle added john.md J-023 (1,128 ES diacritic replacements). **Phase 9 added genesis.md 2026-05-15-104 (anchor entry — Book Context page; 12 CONTEXT.md files; 20 motifs × 4 locales = 80 motif entries; new domain type + parser + UI + page replacement; +15 parser tests, baseline 801→816) + john.md J-024 + matthew.md M-021 (sister entries).**
-- **Execution status:** Phases 0–6.6 closed 2026-05-09; Phase 7 closed 2026-05-13; Phase 11 (Option C) closed 2026-05-13; Phase 11.5 closed 2026-05-13; Phase 10 closed 2026-05-14; Phase 8 closed 2026-05-14 (`docs/audit/archive/PHASE_8_PLAN.md` executed under Interpretation A + Option A Maximal; `docs/audit/archive/PHASE_8_DIAGNOSTIC.md` + `docs/audit/archive/PHASE_8_TRIAGE.md` produced; 44 cross-reference quote-blocks added to Gen 2–12 × 4 locales bringing OT into structural parity with NT chapters; 8 narrative-specific (i) entries × 4 locales = 32 new I-A entries across gen/4, gen/9 ×2, gen/10, gen/11, gen/12, john/2, matt/3). Phase 5.5 landed Ruleset v3.3. Phase 6A re-verified the 9 NOT VERIFIED audit items. Phase 6B piloted the Rule 29 §734 Tier 2 Relocation Protocol on Genesis 9. Phase 6.6 (post-Phase-6 UX + content polish) landed across 9 sub-phases: 6.6A (numeric-range en-dash sweep across all 4 locales × 3 books); 6.6B (people-parser auto-extracts familiar name from heading + 4 new tests); 6.6C (introduction-view disclaimer in collapsed `<details>` "Reading note"); 6.6D (person-card biographical-fields reorder + birthYear/deathYear Field rows); 6.6E (HTML-native single-expand accordion via `name` attribute); 6.6F (chapter-view breadcrumb to book landing); 6.6G (Matthew 5 NT figures × 4 locales — explicit birthYear/deathYear/lifespan + numeric-anchor convention + Herod claim-type correction); 6.6H (women timeline audit — Eve/Sarai Option-1 + Bat-Sheva intentional absence documented); 6.6I (dead-code/content audit — 12 categories scanned, 0 actionable removals; all candidates KEEP-with-reason as forward-API or dynamic-reference). All blocking content-lint rules pass. Phase 9 closed 2026-05-15 (`docs/audit/archive/PHASE_9_PLAN.md` executed; `PHASE_9_MOTIF_CANDIDATES.md` step 9.1 diagnostic + step 9.2 finalized list; new `BookContextData` domain type + `book-context-parser.ts` + `book-context-view.tsx`; placeholder route replaced; 20 motifs × 4 locales = 80 motif entries authored at Q1 Medium depth; §0.10 lint extended to cover CONTEXT.md). **Possible-Content Bundle (Topics 2/5/10 from `docs/feedback/possible-content.md`) closed 2026-05-16** (`docs/audit/POSSIBLE_CONTENT_BUNDLE_PLAN.md` executed under Q1=B/Q2=B+SPECULATIVE/Q3=B/Q4=accepted/Q5=B; v1 + v2 audits absorbed pre-execution; three content additions × 4 locales each — Iakobos see-only PEOPLE.md stub, *et*/alef-tav §F5 SPECULATIVE catalogue, comparative-transmission §E5/§E4 with Rule-3 anti-apologetic safeguards; four editorial-log entries appended: M-022 + M-023 + J-025 + `2026-05-16-105`; ES Matthew mojibake side-finding logged to PENDING.md). **DE familiar-names sweep (FEEDBACK item 35) closed 2026-05-18** (`docs/audit/DE_FAMILIAR_NAMES_PLAN.md` executed under Q1=Hybrid/Q2=All DE chapter files/Q3=Emergency-amendment pathway; v1 audit absorbed pre-execution including 3 critical blockers; 259 redundant-parens occurrences swept across 17 DE chapter files + 1 study file; RULES-HB.md amended via v3.3.1 emergency amendment with proposal artifact; three editorial-log entries appended: genesis.md `2026-05-18-107` anchor + john.md J-026 + matthew.md M-025). **Tier 2 note bloat propagation (FEEDBACK item 19) closed 2026-05-18** (`docs/audit/TIER_2_NOTE_BLOAT_PLAN.md` executed under Q1=By book/Q2=Pilot-scope/Q3=Per-chapter all-locales/Q4=Pointer+expansion/Q5=Per-book anchor/Q6=Project-lead commits; v1 audit absorbed pre-execution; three sub-sweeps in one workflow — Genesis 6 relocations × 4 = 22 edits + John 2 × 4 = 8 + Matthew 1 EN-only + 1 × 4 = 5; total 35 edits across 14 chapter files; strict §734 review reduced heuristic 64 RELOCATE candidates → 10 real relocations (15.6%) showing book-specific pilot rates vary widely from Gen-9's 43%; three editorial-log entries appended: genesis.md `2026-05-18-108` anchor + john.md J-027 + matthew.md M-026). **Phase 13 — Cross-Book Canonical PEOPLE formalization closed 2026-05-18** (`docs/audit/PHASE_13_PLAN.md` executed under Q1=A allow-list + warn-only §0.12 lint / Q2=A v3.3.2 emergency amendment / Q3=A mention transitions in parent authoring entry / Q4=C DEFER README to separate phase / Q5=A add CLAUDE.md paragraph; audit v1 absorbed pre-execution with 1 critical + 2 significant + 4 minor findings + 1 documented partial dissent; RULES-CORE.md Rule 29 §People and Genealogy Files extended with cross-book canonical-entry convention + 5-change new-book activation checklist; new warn-only §0.12 content-lint rule validates pointer slugs against 7-item allow-list; genesis.md Entry `2026-05-18-109` anchor). Phase 12 remains.
-- **FEEDBACK status (2026-05-18):** 24 RESOLVED / 2 PARTIAL (8 PT-BR archaic register; 19 Tier 2 note bloat — pilot + propagation both complete, but 17 chapters intentionally out-of-pilot-scope per `docs/audit/TIER_2_NOTE_BLOAT_PLAN.md`) / 12 NOT VERIFIED / 0 STILL OPEN actionable of 38 prior-audit items. Item 33 (John PEOPLE.md governance) RESOLVED via Phase 10; item 35 (DE familiar-names) RESOLVED via v3.3.1 sweep.
-- **Known open items** (see `docs/audit/{PENDING,FIX_IMPLEMENTATION}.md` and `docs/feedback/{FEEDBACK,DEFERRED_TASKS}.md` for full detail):
-  - ~~John PEOPLE.md not authored in any locale~~ — RESOLVED 2026-05-14 via Phase 10 (`docs/audit/archive/PHASE_10_PLAN.md`).
-  - ~~Readability sweep partial~~ — RESOLVED 2026-05-13 via Phase 7 (`docs/audit/archive/PHASE_7_PLAN.md`).
-  - ~~Section I 10-category coverage audit per chapter~~ — RESOLVED 2026-05-14 via Phase 8 (`docs/audit/archive/PHASE_8_PLAN.md`).
-  - ~~Book Context page content cycle (Phase 9)~~ — RESOLVED 2026-05-15 via Phase 9 (`docs/audit/archive/PHASE_9_PLAN.md`).
-  - ~~Tier 2 note bloat propagation~~ — RESOLVED 2026-05-18 via `docs/audit/TIER_2_NOTE_BLOAT_PLAN.md` (Genesis 6 + John 2 + Matthew 1 sub-sweeps; 35 edits; strict §734 review reduced 64 heuristic candidates → 10 real relocations; residual borderline 4-sentence lexical notes deferred to Phase 7 readability prose-economy pass).
-  - ~~John/Matthew prophecy material decision~~ — RESOLVED 2026-05-13 via Phase 11 Option C (`docs/audit/archive/PHASE_11_PLAN.md`).
-  - Genesis 13–50 not yet authored (Phase 12).
-  - ~~13 prior-audit items still NOT VERIFIED~~ — RESOLVED 2026-05-17 via dedicated re-audit pass: 7 → RESOLVED (16, 24, 25, 29, 30, 31, 32 — most via v3.3 cascade); 3 → PARTIAL with documented mitigation (20 John 3:16-21 speech-boundary; 27 Section H Type-tag taxonomy; 28 AI/editorial provenance compliance ratio); 1 → legitimately DEFERRED (15, Matt 4+ not authored); 1 → STILL OPEN actionable (35 DE Matthew familiar-names redundant-parens, ~2–3h sweep, tracked in PENDING.md). See `docs/feedback/FEEDBACK.md` §5 statistical summary. Item 19 (Tier 2 note bloat) remains PARTIAL with pilot complete (separate item; 17-chapter propagation ~25h).
+- **Scope:** Genesis 1–12, John 1–3, Matthew 1–3 — all four locales (EN, PT-BR, DE, ES); each book has chapters + INTRODUCTION + PEOPLE + study companions (CONTEXT, and PROPHECY where warranted).
+- **Rulesets:** RULES-CORE **v3.3** · RULES-HB **v3.3.1** · RULES-GS **v3.2** (lock). 29 rules total.
+- **Tests:** 819 passing (`pnpm test`); `pnpm build`, `pnpm lint`, `pnpm content:lint` all clean.
+- **Next up:** Genesis 13–50 (Phase 12); cross-book canonical PEOPLE source-merge; README staleness.
+
+Pointers (do not duplicate their content here):
+- Execution history (completed phases/bundles + ruleset trail) → `docs/audit/EXECUTION_HISTORY.md`
+- Open items → `docs/audit/PENDING.md` · feedback re-audit → `docs/feedback/FEEDBACK.md` · deferred tasks → `docs/feedback/DEFERRED_TASKS.md`
+- Per-decision rationale → `docs/editorial-log/` (genesis.md, john.md, matthew.md, transliteration-decisions.md)
+- Source-language analysis method + worked-example corpus → `docs/source-analysis/` (internal)
+
+*Update protocol: when work lands, refresh the scope/test lines above and record the detail in the editorial log + `EXECUTION_HISTORY.md`. Keep this section a compact snapshot — do not let it grow back into a changelog.*
 
 ## Project structure
 
 ```
 bible-tt/
-├── content/                 # All content files (moved from project root for NFT tracing)
-│   ├── en/genesis/          # CHAPTER-1..12, INTRODUCTION, PEOPLE
-│   │   └── study/           # CHAPTER-N-CONTEXT × 12; CHAPTER-{3,9,12}-PROPHECY
-│   ├── en/john/             # CHAPTER-1..3, INTRODUCTION, PEOPLE
-│   │   └── study/           # CHAPTER-N-CONTEXT × 3
-│   ├── en/matthew/          # CHAPTER-1..3, INTRODUCTION, PEOPLE
-│   │   └── study/           # CHAPTER-N-CONTEXT × 3
-│   ├── pt-br/{genesis,john,matthew}/  # Brazilian Portuguese — same structure
-│   ├── de/{genesis,john,matthew}/     # German — same structure
-│   └── es/{genesis,john,matthew}/     # Spanish — same structure
+├── content/{en,pt-br,de,es}/{genesis,john,matthew}/   # CHAPTER-N, INTRODUCTION, PEOPLE
+│   └── study/                                          # CHAPTER-N-CONTEXT; CHAPTER-N-PROPHECY (where warranted)
+│   └── CONTEXT.md                                      # book-level cross-chapter motifs
 ├── docs/
-│   ├── rules/               # RULES-CORE.md (v3.3) + RULES-HB.md + RULES-GS.md (v3.2 lock) + CHANGELOG-v3.1/v3.2/v3.3.md (29 rules total)
-│   ├── architecture/        # STANDARDS.md (DDD, code standards, TypeScript, testing)
-│   ├── design/              # TT-DESIGN-SYSTEM.md (UI/UX, typography, color, accessibility)
-│   ├── audit/               # PENDING.md (verified open items)
-│   ├── editorial-log/       # Decision log (genesis.md, john.md, matthew.md, transliteration-decisions.md)
-│   ├── feedback/            # FEEDBACK.md (verified re-audit), DEFERRED_TASKS.md (verified deferred tasks)
-│   ├── implementation/      # PLAN.md, SCHEMA-FUTURE.sql
-│   └── templates/           # Companion file template + book introduction template
-├── src/                     # Next.js web application
-│   ├── app/                 # App Router pages
-│   │   └── [locale]/[book]/ # Book landing, chapter/, introduction/, people/, context/ sub-pages
-│   ├── domain/              # Pure domain types (no framework deps)
-│   ├── infrastructure/      # Adapters (5 parser files: markdown, enrichment, people, prophecy, book-context; i18n; fs-content-repository)
-│   ├── ui/                  # Presentation (reading/, study/, enrichment/, people/, navigation/, shared/)
-│   ├── hooks/               # React hooks
-│   └── lib/                 # Utilities and content loader
-└── public/                  # Static assets (favicon)
+│   ├── rules/                # RULES-CORE.md + RULES-HB.md + RULES-GS.md + CHANGELOG-v3.x + proposals/
+│   ├── source-analysis/      # METHOD.md (source-analysis method) + hebrew/greek/aramaic worked-example corpus (internal)
+│   ├── architecture/         # STANDARDS.md (DDD, code standards, TypeScript, testing)
+│   ├── design/               # TT-DESIGN-SYSTEM.md (UI/UX, typography, color, accessibility)
+│   ├── audit/                # PENDING.md, FIX_IMPLEMENTATION.md, EXECUTION_HISTORY.md, plans, archive/
+│   ├── editorial-log/        # Decision logs (genesis, john, matthew, transliteration-decisions)
+│   ├── feedback/             # FEEDBACK.md, DEFERRED_TASKS.md, possible-content.md
+│   ├── implementation/       # PLAN.md, SCHEMA-FUTURE.sql
+│   ├── guides/               # HOW-TO-READ-TT.md
+│   └── templates/            # Companion + book-introduction templates
+├── src/                      # Next.js web application
+│   ├── app/[locale]/[book]/  # Book landing, chapter/, introduction/, people/, context/ sub-pages
+│   ├── domain/               # Pure domain types (no framework deps)
+│   ├── infrastructure/       # Adapters (5 parsers; i18n; fs-content-repository)
+│   ├── ui/                   # Presentation (reading/, study/, enrichment/, people/, navigation/, shared/)
+│   ├── hooks/                # React hooks
+│   └── lib/                  # Utilities and content loader
+└── public/                   # Static assets
 ```
 
 ## URL structure
@@ -61,95 +52,70 @@ bible-tt/
 | Route | Content |
 |-------|---------|
 | `/{locale}/{book}/` | Book landing — Overview + chapter list + 3 entry points (Introduction / People / Context) |
-| `/{locale}/{book}/introduction` | Full book introduction — Authorship, Dating, Manuscript Transmission, Reading-in-TT, Sources |
+| `/{locale}/{book}/introduction` | Full book introduction |
 | `/{locale}/{book}/chapter/{n}` | Chapter with 5 view modes |
 | `/{locale}/{book}/people` | People & Genealogy — expanded profiles + SVG timeline |
-| `/{locale}/{book}/context` | Book-level context — cross-chapter motifs (authored Phase 9: 20 motifs × 4 locales per book at Q1 Medium depth) |
+| `/{locale}/{book}/context` | Book-level context — cross-chapter motifs |
 
-Old URLs (`/{locale}/{book}/{n}`) redirect automatically to the new `/chapter/{n}` pattern.
+Old URLs (`/{locale}/{book}/{n}`) redirect automatically to `/chapter/{n}`.
 
 ## Commands
 
-- `pnpm dev` — start dev server with Turbopack (http://localhost:3000)
+- `pnpm dev` — dev server with Turbopack (http://localhost:3000)
 - `pnpm build` — production build
-- `pnpm test` — run all unit tests (819 tests across 8 files: chapter parser, enrichment parser, people parser, prophecy parser, introduction parser, book-context parser, book-context-real, render-markdown-safe)
-- `pnpm lint` — run Biome linter
-- `pnpm content:lint` — run hardened content lint (Phase 0 — see `docs/audit/FIX_IMPLEMENTATION.md`); allow-list at `scripts/lint-allowlist.txt`
-- `pnpm content:lint:warn` — same lint in non-blocking mode (warns only, exit 0)
+- `pnpm test` — all unit tests (8 files: chapter, enrichment, people, prophecy, introduction, book-context parsers + render-markdown-safe + book-context-real)
+- `pnpm lint` — Biome linter
+- `pnpm content:lint` — hardened content lint (Phase 0 rules; see `docs/audit/FIX_IMPLEMENTATION.md`); allow-list at `scripts/lint-allowlist.txt`
+- `pnpm content:lint:warn` — same lint, non-blocking (exit 0)
 
 ## Architecture
 
 Governed by `docs/architecture/STANDARDS.md`. Key decisions:
 
-- **Static-first:** Authored markdown parsed at build time. No database. No API. Pages served from CDN.
+- **Static-first:** authored markdown parsed at build time. No database, no API; pages served from CDN.
 - **DDD layers:** `domain/` (pure types) → `infrastructure/` (adapters) → `ui/` (components) → `app/` (routing). Domain knows nothing about Next.js.
-- **Content pipeline:** 5 parser files in `src/infrastructure/content/` exporting 6 parse functions:
-  - `markdown-parser.ts` — chapter files → `ChapterData` (verses, notes, glossary, cross-chapter tracking)
-  - `enrichment-parser.ts` — companion files → `EnrichmentData` (sections A–I with claim-type + confidence labels). Also hosts `parseIntroductionMarkdown` → `IntroductionData` (book-level intros) — no standalone `introduction-parser.ts` file.
-  - `people-parser.ts` — PEOPLE.md files → `PeopleData` (biographical entries with timeline data)
-  - `prophecy-parser.ts` — prophecy files → `ProphecyData` (fulfillment tracking)
-  - `book-context-parser.ts` — CONTEXT.md files → `BookContextData` (cross-chapter motifs, Phase 9)
-- **Cross-book PEOPLE pattern (RULES-CORE.md Rule 29 §People and Genealogy Files, v3.3.2):** when a person appears in multiple books, a single canonical entry lives in one book's PEOPLE.md (the "canonical home"); other books use a **see-only stub** with `**See:** {book}/PEOPLE.md` + `**In <Current Book>:** [narrative role]`. The parser, UI (`CrossBookSeeField` in `person-card.tsx`), and `bookLabels` map handle this with a graceful dangling-pointer fallback for forward references to unauthored books. See RULES-CORE.md for the 5-change new-book activation checklist (content + bookLabels + parser aliases + i18n key + lint allow-list) before adding any new book's PEOPLE.md.
-- **i18n:** URL-based locale routing (`/en/genesis/chapter/1`, `/pt-br/genesis/chapter/1`). Content translation in .md files; UI strings in `src/infrastructure/i18n/messages/`.
-- **Five view modes:** Reading (continuous prose) | Study (verse-by-verse with notes) | Explore (curated highlights: curiosities, world-at-the-time, scientific) | Context (full enrichment companion) | Prophecy (prophecy tracking)
+- **Content pipeline:** 5 parser files in `src/infrastructure/content/` → `markdown-parser` (chapters → `ChapterData`), `enrichment-parser` (companions → `EnrichmentData`; also hosts `parseIntroductionMarkdown` → `IntroductionData`), `people-parser` (PEOPLE.md → `PeopleData`), `prophecy-parser` (→ `ProphecyData`), `book-context-parser` (CONTEXT.md → `BookContextData`).
+- **Cross-book PEOPLE pattern (RULES-CORE.md Rule 29, v3.3.2):** when a person spans books, one canonical entry lives in the "canonical home" book's PEOPLE.md; other books use a see-only stub (`**See:** {book}/PEOPLE.md` + `**In <Book>:** [role]`). Parser, UI (`CrossBookSeeField`), and `bookLabels` map handle this with a dangling-pointer fallback. See RULES-CORE.md for the 5-change new-book activation checklist before adding any new book's PEOPLE.md.
+- **i18n:** URL-based locale routing; content in `.md` files, UI strings in `src/infrastructure/i18n/messages/`.
+- **Five view modes:** Reading | Study | Explore (curated highlights) | Context (full enrichment) | Prophecy.
 
 ## Design system
 
-Governed by `docs/design/TT-DESIGN-SYSTEM.md`. Key standards:
-
-- **Typography:** Newsreader (serif, reading) + Geist (sans, UI) + Geist Mono (data). Minimum 14px for prose, 12px for mono labels only.
-- **Color:** OKLCH tokens. Warm paper background. No hardcoded hex. No pure black/white.
-- **Icons:** Lucide at 1.5px stroke. Never emoji as UI icons.
-- **Accessibility:** WCAG 2.2 AA. Focus rings on all interactive elements. 44×44px tap targets. `prefers-reduced-motion` respected.
-- **Anti-slop:** No religious clichés, no gradient orbs, no card soup, no decorative animation.
+Governed by `docs/design/TT-DESIGN-SYSTEM.md`. Essentials: Newsreader (serif reading) + Geist (UI) + Geist Mono (data), 14px min for prose; OKLCH tokens only (no hardcoded hex, no pure black/white); Lucide icons at 1.5px stroke (never emoji); WCAG 2.2 AA (focus rings, 44×44px tap targets, `prefers-reduced-motion`); anti-slop (no religious clichés, gradient orbs, card soup, or decorative animation).
 
 ## Translation rules
 
-Governed by `docs/rules/RULES-CORE.md` (v3.3) + `docs/rules/RULES-HB.md` + `docs/rules/RULES-GS.md` (v3.2 lock — proper-name tables and source-language-specific rules). 29 rules total. Key principles:
+Governed by `docs/rules/RULES-CORE.md` + `RULES-HB.md` + `RULES-GS.md` (29 rules). Must-know principles:
 
-- **Prime Directive:** Do not simplify what the source text keeps complex; do not clarify what the source text leaves ambiguous.
-- **Rule 25 (YHWH):** Rendered consonantally (YHWH in EN/PT/ES, JHWH in DE), not as "LORD."
-- **Rule 3 + corollary:** No imported theology; restraint matters both ways (anti-traditional reflex is also dishonest).
-- **Rule 11:** Additions for grammar marked in italics.
-- **Rule 13:** Uncertainty levels (Probable / Possible / Uncertain) on all debated terms.
-- **Rule 29:** Contextual enrichment in companion files only, labeled by claim-type + confidence. Tier 2 notes max 3 sentences; excess relocated to companion with pointer. Companion pre-submission checklist governs quality.
-- **Name rendering (v3.2):** Familiar target-language names as default. Transliterated form shown once per section. Exceptions: YHWH/JHWH, Yehudim, technical transliterations.
-- **Greek Article System:** GS-specific policy for articular vs. anarthrous nouns.
-- **Ioudaioi Policy:** Three-sense decision tree for hoi Ioudaioi with anti-misuse safeguard.
+- **Prime Directive:** do not simplify what the source keeps complex; do not clarify what it leaves ambiguous.
+- **Rule 25 (divine name):** rendered consonantally — YHWH (EN/PT/ES), JHWH (DE) — never "LORD."
+- **Rule 3 + corollary:** no imported theology; restraint cuts both ways (anti-traditional reflex is also dishonest).
+- **Rule 11:** grammatical additions marked in italics. **Rule 13:** uncertainty levels (Probable / Possible / Uncertain) on debated terms.
+- **Rule 29:** enrichment lives in companion files only, dual-labeled (claim-type + confidence); Tier 2 notes max 3 sentences, excess relocated with a pointer.
+- **Name rendering (v3.2):** familiar target-language form as default, transliterated form once per section; exceptions: YHWH/JHWH, Yehudim, technical transliterations. See RULES-HB/GS proper-name tables.
+- **GS specifics:** Greek Article System (articular vs. anarthrous); Ioudaioi three-sense policy with anti-misuse safeguard.
 
-All decisions logged in `docs/editorial-log/` (genesis.md, john.md, matthew.md, transliteration-decisions.md).
+Log every decision in `docs/editorial-log/{book}.md` (schema in RULES-CORE.md §Editorial Log Specification).
+
+**Source-language analysis:** the lexeme-level method behind Tier 1/2 rendering + the worked-example corpus live in `docs/source-analysis/` (`METHOD.md` + `hebrew/`/`greek/`/`aramaic/`) — internal-only; feeds main text, Tier 2 notes, and companion §A/§D.
 
 ## Content authoring
 
 **New chapter:**
-1. Create `content/{locale}/{book}/CHAPTER-N.md` following the existing structure.
-2. Create `content/{locale}/{book}/study/CHAPTER-N-CONTEXT.md` using `docs/templates/contextual-companion-template.md`.
-3. Include Section I (The World at the Time) with multi-scenario composition framing (see existing chapters for template).
-4. Parser auto-discovers new files via filesystem scan.
-5. Run `pnpm test` → `pnpm build` to verify.
+1. Create `content/{locale}/{book}/CHAPTER-N.md` following existing structure.
+2. Create `content/{locale}/{book}/study/CHAPTER-N-CONTEXT.md` from `docs/templates/contextual-companion-template.md`.
+3. Include Section I (The World at the Time) with multi-scenario composition framing (see existing chapters).
+4. Parser auto-discovers new files. Run `pnpm test` → `pnpm build`.
 
 **New book introduction:**
-1. Create `content/{locale}/{book}/INTRODUCTION.md` using `docs/templates/book-introduction-template.md`.
-2. Sections A–F are AVAILABLE (include only with substantive content); Section G (Sources) is MANDATORY.
-3. Follow the dual-label system (claim-type + confidence) and include the disclaimer block.
-4. EN-first, then PT-BR, DE, and ES follow.
+1. Create `content/{locale}/{book}/INTRODUCTION.md` from `docs/templates/book-introduction-template.md`.
+2. Sections A–F AVAILABLE (include only with substantive content); Section G (Sources) MANDATORY.
+3. Follow the dual-label system and include the disclaimer block.
 
-**Name rendering:**
-- First occurrence per section: "Transliterated (Familiar)" — e.g., "Yochanan (John)"
-- All subsequent: familiar form only — e.g., "John"
-- Exceptions: YHWH/JHWH (always transliterated), Yehudim (always transliterated), technical terms (raqia, bara, etc.)
-- See proper-name tables in RULES-HB.md and RULES-GS.md for all locale mappings.
+**Name rendering:** first occurrence per section "Transliterated (Familiar)" (e.g. "Yochanan (John)"); subsequent: familiar only. Exceptions: YHWH/JHWH, Yehudim, technical terms (raqia, bara…). Never produce redundant `Name (Name)` (v3.3.1). See proper-name tables in RULES-HB/GS.
 
-**Translation decisions:**
-- Log in the appropriate `docs/editorial-log/{book}.md` before drafting.
-- New glossary terms added via glossary expansion policy (RULES-CORE.md).
-- EN-first, then PT-BR, DE, and ES follow.
+**Translation decisions:** log in `docs/editorial-log/{book}.md` before drafting; new glossary terms via the glossary expansion procedure (RULES-CORE.md). **EN-first, then PT-BR, DE, ES.**
 
 ## Tech stack
 
-- Next.js 16 (App Router, React Server Components, Turbopack)
-- Tailwind CSS v4 with OKLCH color tokens
-- next-intl for i18n
-- Lucide for icons (1.5px stroke)
-- Vitest for testing (819 tests across 8 files)
-- Biome for linting
+Next.js 16 (App Router, RSC, Turbopack) · Tailwind CSS v4 (OKLCH tokens) · next-intl · Lucide (1.5px) · Vitest · Biome.

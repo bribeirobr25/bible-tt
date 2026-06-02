@@ -7,6 +7,7 @@
 **Base Text:** Masoretic Text (Biblia Hebraica Stuttgartensia, 5th ed., 1997 / Biblia Hebraica Quinta, fascicles as published)
 **Scope:** Genesis through Malachi (all books originally composed in Hebrew or Aramaic)
 **Status:** LOCKED for current translation cycle (inherits CORE lock protocol)
+**Source-analysis method:** see `../source-analysis/METHOD.md`; Hebrew worked-example corpus at `../source-analysis/hebrew/` (Genesis 1:1–1:13 + word studies). This supplement is also the governance home for Aramaic (see §Aramaic Appendix).
 
 ---
 
@@ -551,6 +552,7 @@ Aramaic is a related Semitic language sharing much grammar with Hebrew. For thes
 - Aramaic-specific verb forms and constructions should be noted in Tier 2
 - The base text remains BHS/BHQ (Aramaic sections are included in the Masoretic tradition)
 - Transliteration follows the same conventions as Hebrew terms
+- The source-analysis method applies unchanged (`../source-analysis/METHOD.md`); Aramaic worked examples are archived at `../source-analysis/aramaic/`, and this appendix is their governance home — there is no separate RULES-Aramaic file
 
 ---
 

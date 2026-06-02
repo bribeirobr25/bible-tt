@@ -2,6 +2,8 @@
 
 These are the execution plans and round-1/round-2 audit memos for Phases that have been **CLOSED**. They are retained because editorial-log entries cite them as the AI-provenance trail required by Rule 28.
 
+For the full chronological record of all completed phases and bundles (including post-Phase-11.5 work whose plans live in the parent directory, not here), see `../EXECUTION_HISTORY.md`.
+
 ## What's here
 
 | File | Phase | Closed |
@@ -16,10 +18,23 @@ These are the execution plans and round-1/round-2 audit memos for Phases that ha
 | `PHASE_11_PLAN.md` + `AUDIT_PHASE_11_PLAN.md` | John & Matthew prophecy material (Option C) | 2026-05-13 |
 | `PHASE_11_5_PLAN.md` + `AUDIT_PHASE_11_5_PLAN.md` | `scholarlyNote` parser+UI fix + Cham/Yafet AM-year compute | 2026-05-13 |
 
+## Closed after Phase 11.5 (plans retained in the parent directory)
+
+Phases 8, 9, 10 and the later bundles closed after this archive's table was first written; their
+plan + audit artifacts were left in `docs/audit/` rather than moved here:
+
+- `../PHASE_13_PLAN.md` (+ `../AUDIT_PHASE_13_PLAN.md`) — Cross-Book Canonical PEOPLE formalization (v3.3.2), closed 2026-05-18
+- `../POSSIBLE_CONTENT_BUNDLE_PLAN.md` (+ audits) — Topics 2/5/10, closed 2026-05-16
+- `../DE_FAMILIAR_NAMES_PLAN.md` (+ audit, classification) — FEEDBACK item 35 (v3.3.1), closed 2026-05-18
+- `../TIER_2_NOTE_BLOAT_PLAN.md` (+ audit, classification) — FEEDBACK item 19, closed 2026-05-18
+
+See `../EXECUTION_HISTORY.md` for the consolidated timeline.
+
 ## Still active in the parent directory
 
-- `../PENDING.md` — open-item tracker (Phase 12, Phase 13, remaining em-dash sweep, PT-BR `monogenēs`)
+- `../PENDING.md` — open-item tracker (Phase 12, cross-book PEOPLE source-merge, README staleness, deferred content seeds)
 - `../FIX_IMPLEMENTATION.md` — contains Phase 12 (Genesis 13–50) and Phase 13 (cross-book canonical PEOPLE) specs
+- `../DAAT_IDIOM_AND_JESUS_BROTHERS_PLAN.md` — DRAFT, awaiting project-lead audit
 
 ## Do not delete
 

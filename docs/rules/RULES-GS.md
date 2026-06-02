@@ -8,6 +8,7 @@
 **Scope:** Matthew through Revelation (all books composed in Koine Greek)
 **Starting Book:** Gospel of John
 **Status:** RESOLVED — all structural decisions documented below. Ready for first verse.
+**Source-analysis method:** see `../source-analysis/METHOD.md` (universal process + per-language adaptation table); Greek worked-example corpus (stub, filled on authoring) at `../source-analysis/greek/`. Any Greek worked example is an AI-assisted draft pending Hellenist review (Rule 28).
 
 ---
 

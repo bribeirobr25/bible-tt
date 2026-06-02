@@ -157,3 +157,6 @@ The people-parser at `src/infrastructure/content/people-parser.ts` derives Perso
 | **NEW:** Readability on John/Matt companions | RESOLVED 2026-05-13 (Phase 7) |
 | **NEW:** John/Matt prophecy file decision | RESOLVED 2026-05-13 (Phase 11 Option C) |
 | **NEW:** Section I 10-category coverage audit | RESOLVED 2026-05-14 (Phase 8) |
+| Source-Analysis Methodology formalization (`docs/source-analysis/`) | RESOLVED 2026-06-03 — TT Source-Analysis Method + Hebrew corpus (Gen 1:1–1:13 distilled) + Greek/Aramaic stubs + contributor anonymization + §0.13 guard. See `docs/audit/SOURCE_ANALYSIS_METHODOLOGY_PLAN.md` + genesis.md Entry 2026-06-03-110. |
+| Source-analysis Gen 1:1–1:13 corpus vs. shipped Gen 1 content/log cross-check (Q6) | DEFERRED — separate validation pass: confirm the distilled notes match shipped Gen 1 content + editorial log; report/fix/log gaps. |
+| Source-analysis Greek + Aramaic corpus fills (Q5) | DEFERRED — `greek/` filled when Greek books are authored/extended (Hellenist per Rule 28); `aramaic/` when Daniel/Ezra reached. Stubs in place. |

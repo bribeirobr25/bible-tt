@@ -1410,6 +1410,8 @@ Subjunctive naturally handles jussive, grammatical gender preserves source disti
 9. [ ] Run quality control checklist
 10. [ ] Document any justified exceptions in editorial log
 
+For the lexeme-level source-analysis process behind steps 1–3 (morphology → semantic range → cross-textual attestation → literal-then-smoothed rendering → uncertainty labeling), see `docs/source-analysis/METHOD.md`.
+
 See source-language supplement for additional per-verse steps.
 
 ### **Post-Translation:**
@@ -1481,15 +1483,12 @@ See source-language supplement for additional post-translation checks.
 ## PROJECT METADATA
 
 **Developers:** Bar (Project Lead) & Claude (AI Assistant)
-**Source Analysis:** Video transcripts by Elan (Hebrew speaker)
+**Source analysis:** External source-language contributor; the process is formalized as the project-owned TT Source-Analysis Method (`docs/source-analysis/METHOD.md`). Internal provenance: `docs/source-analysis/README.md`.
 **Methodology:** Collaborative iterative development with critical feedback
 **Languages:** English, Brazilian Portuguese, German, Spanish (expandable)
-**Status:** Genesis 1–9 drafted in all four languages; awaiting reviewer sign-off. Greek Scriptures expansion planned (RULES-GS.md stub created).
-**Completed:** Genesis 1–9 EN, PT-BR, DE, ES (drafts). Luther: Option B. Reina-Valera: Option B. YHWH: Option A (consonantal).
-**Pending:**
-- Genesis 10+ in all languages
-- Reviewer roles: Source-language scholar, EN editor, PT editor, DE editor, ES editor, cross-alignment reviewer (Rule 28)
-- Greek Scriptures expansion (RULES-GS.md)
+**Status:** Genesis 1–12, John 1–3, Matthew 1–3 drafted in all four locales (provisional, pending reviewer sign-off). Full execution history: `docs/audit/EXECUTION_HISTORY.md`.
+**Completed:** Genesis 1–12 + John 1–3 + Matthew 1–3 (EN/PT-BR/DE/ES). Tradition policies: Luther / Reina-Valera / Almeida all Option B. YHWH: Option A (consonantal). Rulesets through v3.3.2.
+**Pending:** Genesis 13–50 (Phase 12); reviewer-role assignments (Rule 28); open items in `docs/audit/PENDING.md`.
 
 **Audit trail:** External audits performed 2026-04-15 (Rules v2.4), 2026-04-25 (refactoring plan v3). Results in `docs/audit/`.
 
