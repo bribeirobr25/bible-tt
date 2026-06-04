@@ -60,7 +60,7 @@
 
 ¹In beginning, God created the skies and the land. ²And the land was chaos and void, and darkness *was* over the face of the deep, and wind/spirit of God *was* hovering over the face of the waters. ³And God said, "Shall be light," and light was. ⁴And God saw the light, that good, and God separated between the light and between the darkness. ⁵And God called to the light "Day," and to the darkness he called "Night." And was evening, and was morning, one day.
 
-⁶And God said, "Shall be *a* raqia (expanse) in the midst of the waters, and *it* shall be separating between waters to waters." ⁷And God made the raqia, and he separated between the waters which *were* under the raqia and between the waters which *were* above the raqia. And it was so. ⁸And God called to the raqia "Sky." And was evening, and was morning, second day.
+⁶And God said, "Shall be *a* raqia (expanse) within the waters, and *it* shall be a separator between waters to waters." ⁷And God made the raqia, and he separated between the waters which *were* under the raqia and between the waters which *were* above the raqia. And it was so. ⁸And God called to the raqia "Sky." And was evening, and was morning, second day.
 
 ⁹And God said, "Shall be gathered the waters from under the sky to one place, and shall be seen the dry ground." And it was so. ¹⁰And God called to the dry ground "Land," and to the gathering of the waters he called "Seas." And God saw that good. ¹¹And God said, "Shall grass the land grass, herbs seeding seed, fruit trees making fruit to its kind, which its seed *is* in it, upon the land." And it was so. ¹²And the land brought out grass, herbs seeding seed to its kind, and trees making fruit which its seed *is* in it, to its kind. And God saw that good. ¹³And was evening, and was morning, third day.
 
@@ -152,7 +152,7 @@ And God called to the light "Day," and to the darkness he called "Night." And wa
 
 ### **Verse 6**
 
-And God said, "Shall be *a* raqia (expanse) in the midst of the waters, and *it* shall be separating between waters to waters."
+And God said, "Shall be *a* raqia (expanse) within the waters, and *it* shall be a separator between waters to waters."
 
 > **📝 NOTES**
 > 
@@ -162,8 +162,8 @@ And God said, "Shall be *a* raqia (expanse) in the midst of the waters, and *it*
 > - Verse 8 will identify **raqia = shamayim (sky)**
 > 
 > 🔵 **STRUCTURE**
-> - Created **WITHIN** waters, then separates waters above from waters below
-> - **מַבְדִּיל** (*mavdil*) = participle "separating" (ongoing action)—not completed "separate"
+> - **בְּתוֹךְ** (*betoch*) = "within/inside" the waters (the raqia forms inside the water mass)—not "amid/among"
+> - **מַבְדִּיל** (*mavdil*) = Hiphil participle used substantivally: "a separator/divider"—not the finite "separates" or the infinitive "to separate"
 
 ---
 

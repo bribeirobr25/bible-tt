@@ -13,7 +13,7 @@ The Transparent Translation (TT) — a multilingual Bible translation project wi
 
 Pointers (do not duplicate their content here):
 - Execution history (completed phases/bundles + ruleset trail) → `docs/audit/EXECUTION_HISTORY.md`
-- Open items → `docs/audit/PENDING.md` · feedback re-audit → `docs/feedback/FEEDBACK.md` · deferred tasks → `docs/feedback/DEFERRED_TASKS.md`
+- Open items → `docs/audit/PENDING.md` (single forward-looking tracker) · closed audit records (feedback re-audit, deferred tasks) → `docs/feedback/archive/`
 - Per-decision rationale → `docs/editorial-log/` (genesis.md, john.md, matthew.md, transliteration-decisions.md)
 - Source-language analysis method + worked-example corpus → `docs/source-analysis/` (internal)
 
@@ -33,7 +33,7 @@ bible-tt/
 │   ├── design/               # TT-DESIGN-SYSTEM.md (UI/UX, typography, color, accessibility)
 │   ├── audit/                # PENDING.md, FIX_IMPLEMENTATION.md, EXECUTION_HISTORY.md, plans, archive/
 │   ├── editorial-log/        # Decision logs (genesis, john, matthew, transliteration-decisions)
-│   ├── feedback/             # FEEDBACK.md, DEFERRED_TASKS.md, possible-content.md
+│   ├── feedback/             # possible-content.md + archive/ (closed feedback re-audit + deferred-tasks records)
 │   ├── implementation/       # PLAN.md, SCHEMA-FUTURE.sql
 │   ├── guides/               # HOW-TO-READ-TT.md
 │   └── templates/            # Companion + book-introduction templates

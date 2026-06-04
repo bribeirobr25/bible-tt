@@ -61,7 +61,7 @@
 
 ¹Em princípio, Deus criou os céus e a terra. ²E a terra estava caos e vazio, e trevas sobre a face do abismo, e vento/espírito de Deus pairando sobre a face das águas. ³E Deus disse: "Haja luz," e luz foi. ⁴E Deus viu a luz, que bom, e Deus separou entre a luz e entre as trevas. ⁵E Deus chamou à luz "Dia," e às trevas chamou "Noite." E foi tarde, e foi manhã, um dia.
 
-⁶E Deus disse: "Haja raqia (expansão) no meio das águas, e seja separando entre águas e águas." ⁷E Deus fez o raqia, e separou entre as águas que debaixo do raqia e entre as águas que acima do raqia. E foi assim. ⁸E Deus chamou ao raqia "Céu." E foi tarde, e foi manhã, segundo dia.
+⁶E Deus disse: "Haja raqia (expansão) dentro das águas, e seja um separador entre águas e águas." ⁷E Deus fez o raqia, e separou entre as águas que debaixo do raqia e entre as águas que acima do raqia. E foi assim. ⁸E Deus chamou ao raqia "Céu." E foi tarde, e foi manhã, segundo dia.
 
 ⁹E Deus disse: "Sejam ajuntadas as águas de debaixo do céu a um lugar, e seja vista a terra seca." E foi assim. ¹⁰E Deus chamou à terra seca "Terra," e ao ajuntamento das águas chamou "Mares." E Deus viu que bom. ¹¹E Deus disse: "Produza a terra relva, ervas semeando semente, árvores frutíferas fazendo fruto segundo a sua espécie, cuja semente nela, sobre a terra." E foi assim. ¹²E a terra produziu relva, ervas semeando semente segundo a sua espécie, e árvores fazendo fruto cuja semente nela, segundo a sua espécie. E Deus viu que bom. ¹³E foi tarde, e foi manhã, terceiro dia.
 
@@ -154,7 +154,7 @@ E Deus chamou à luz "Dia," e às trevas chamou "Noite." E foi tarde, e foi manh
 
 ### **Versículo 6**
 
-E Deus disse: "Haja raqia (expansão) no meio das águas, e seja separando entre águas e águas."
+E Deus disse: "Haja raqia (expansão) dentro das águas, e seja um separador entre águas e águas."
 
 > **📝 NOTAS**
 > 
@@ -164,8 +164,8 @@ E Deus disse: "Haja raqia (expansão) no meio das águas, e seja separando entre
 > - Versículo 8 identificará **raqia = shamayim (céu)**
 > 
 > 🔵 **ESTRUTURA**
-> - Criado **DENTRO** das águas, depois separa águas acima das águas abaixo
-> - **מַבְדִּיל** (*mavdil*) = particípio "separando" (ação contínua)—não "separar" completado
+> - **בְּתוֹךְ** (*betoch*) = "dentro" das águas (o raqia forma-se dentro da massa de água)—não "no meio de/entre"
+> - **מַבְדִּיל** (*mavdil*) = particípio Hifil usado substantivamente: "um separador/divisor"—não o finito "separa" nem o infinitivo "separar"
 
 ---
 

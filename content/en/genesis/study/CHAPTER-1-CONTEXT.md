@@ -75,7 +75,7 @@ Humans rule over *creatures* in every domain (sea, sky, land). But the seas *as 
 ### A4. Cosmos bounded by waters above and below the raqia
 **[TEXTUAL — VERIFIED]**
 
-Genesis 1:6–7: the *raqia* is placed "in the midst of the waters" to separate "waters which were under the raqia" from "waters which were above the raqia." The narrative presents ordered space with water above the visible sky and water below (gathered into seas).
+Genesis 1:6–7: the *raqia* is placed "within the waters" to separate "waters which were under the raqia" from "waters which were above the raqia." The narrative presents ordered space with water above the visible sky and water below (gathered into seas).
 
 This is the textual basis for the ancient Near Eastern three-tier cosmological picture. The TT preserves this by keeping *raqia* (transliterated) rather than substituting "firmament" (medieval) or "expanse" (modern smoothing).
 

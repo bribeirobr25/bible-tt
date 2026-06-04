@@ -63,7 +63,7 @@
 
 ¹En principio, Dios creó los cielos y la tierra. ²Y la tierra era caos y vacío, y tinieblas sobre la faz del abismo, y viento/espíritu de Dios *se cernia* sobre la faz de las aguas. ³Y Dios dijo: "Haya luz," y luz fue. ⁴Y Dios vio la luz, que bueno, y Dios separó entre la luz y entre las tinieblas. ⁵Y Dios llamó a la luz "Día," y a las tinieblas llamó "Noche." Y fue tarde, y fue mañana, día uno.
 
-⁶Y Dios dijo: "Haya *un* raqia (extensión) en medio de las aguas, y sea separando entre aguas y aguas." ⁷Y Dios hizo el raqia, y separó entre las aguas que *estaban* debajo del raqia y entre las aguas que *estaban* sobre el raqia. Y fue así. ⁸Y Dios llamó al raqia "Cielo." Y fue tarde, y fue mañana, segundo día.
+⁶Y Dios dijo: "Haya *un* raqia (extensión) dentro de las aguas, y sea un separador entre aguas y aguas." ⁷Y Dios hizo el raqia, y separó entre las aguas que *estaban* debajo del raqia y entre las aguas que *estaban* sobre el raqia. Y fue así. ⁸Y Dios llamó al raqia "Cielo." Y fue tarde, y fue mañana, segundo día.
 
 ⁹Y Dios dijo: "Sean reunidas las aguas de debajo del cielo a un lugar, y sea vista la tierra seca." Y fue así. ¹⁰Y Dios llamó a la tierra seca "Tierra," y a la reunión de las aguas llamó "Mares." Y Dios vio que bueno. ¹¹Y Dios dijo: "Produzca la tierra hierba, hierbas semillando semilla, árboles frutales haciendo fruto según su especie, cuya semilla *esta* en el, sobre la tierra." Y fue así. ¹²Y la tierra produjo hierba, hierbas semillando semilla según su especie, y árboles haciendo fruto cuya semilla *esta* en el, según su especie. Y Dios vio que bueno. ¹³Y fue tarde, y fue mañana, tercer día.
 
@@ -155,7 +155,7 @@ Y Dios llamó a la luz "Día," y a las tinieblas llamó "Noche." Y fue tarde, y 
 
 ### **Versículo 6**
 
-Y Dios dijo: "Haya *un* raqia (extensión) en medio de las aguas, y sea separando entre aguas y aguas."
+Y Dios dijo: "Haya *un* raqia (extensión) dentro de las aguas, y sea un separador entre aguas y aguas."
 
 > **NOTAS**
 > 
@@ -165,8 +165,8 @@ Y Dios dijo: "Haya *un* raqia (extensión) en medio de las aguas, y sea separand
 > - El versículo 8 identificara **raqia = shamayim (cielo)**
 > 
 > 🔵 **ESTRUCTURA**
-> - Creado **DENTRO** de las aguas, luego separa aguas de arriba de aguas de abajo
-> - **מַבְדִּיל** (*mavdil*) = participio "separando" (acción continua)--no "separo" completado
+> - **בְּתוֹךְ** (*betoch*) = "dentro" de las aguas (el raqia se forma dentro de la masa de agua)—no "en medio de/entre"
+> - **מַבְדִּיל** (*mavdil*) = participio Hifil usado sustantivamente: "un separador/divisor"—no el finito "separa" ni el infinitivo "separar"
 
 ---
 

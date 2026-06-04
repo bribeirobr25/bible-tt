@@ -109,11 +109,12 @@ export function PeopleTimeline({
       </h3>
       <div className="overflow-x-auto border border-border rounded-lg bg-bg-paper p-4">
         <svg
-          width={svgWidth}
-          height={svgHeight}
+          width="100%"
           viewBox={`0 0 ${svgWidth} ${svgHeight}`}
+          preserveAspectRatio="xMinYMin meet"
           role="img"
           aria-label={title}
+          style={{ maxWidth: svgWidth, height: "auto" }}
         >
           {ticks.map((tick) => (
             <g key={tick}>

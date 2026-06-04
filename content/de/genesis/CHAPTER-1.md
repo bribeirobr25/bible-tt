@@ -62,7 +62,7 @@
 
 ¹Im Anfang schuf Gott den Himmel und das Land. ²Und das Land war Chaos und Leere, und Finsternis *war* über der Fläche der Tiefe, und Wind/Geist Gottes schwebend über der Fläche der Wasser. ³Und Gott sprach: „Es werde Licht," und Licht war. ⁴Und Gott sah das Licht, dass gut, und Gott trennte zwischen dem Licht und zwischen der Finsternis. ⁵Und Gott nannte das Licht „Tag", und die Finsternis nannte er „Nacht". Und *es* war Abend, und *es* war Morgen, Tag eins.
 
-⁶Und Gott sprach: „Es werde *ein* raqia (Ausdehnung) inmitten der Wasser, und *es* sei trennend zwischen Wasser und Wasser." ⁷Und Gott machte das raqia, und er trennte zwischen den Wassern, die unter dem raqia *waren*, und zwischen den Wassern, die über dem raqia *waren*. Und *es* war so. ⁸Und Gott nannte das raqia „Himmel". Und *es* war Abend, und *es* war Morgen, zweiter Tag.
+⁶Und Gott sprach: „Es werde *ein* raqia (Ausdehnung) innerhalb der Wasser, und *es* sei eine Scheidewand zwischen Wasser und Wasser." ⁷Und Gott machte das raqia, und er trennte zwischen den Wassern, die unter dem raqia *waren*, und zwischen den Wassern, die über dem raqia *waren*. Und *es* war so. ⁸Und Gott nannte das raqia „Himmel". Und *es* war Abend, und *es* war Morgen, zweiter Tag.
 
 ⁹Und Gott sprach: „Die Wasser unter dem Himmel sollen sich sammeln an einen Ort, und das trockene *Land* werde gesehen." Und *es* war so. ¹⁰Und Gott nannte das trockene *Land* „Land", und die Ansammlung der Wasser nannte er „Meere". Und Gott sah, dass gut. ¹¹Und Gott sprach: „Das Land lasse grünen Grün, Kräuter samend Samen, Fruchtbäume Frucht-machend nach seiner Art, deren Samen in ihm *ist*, auf dem Land." Und *es* war so. ¹²Und das Land brachte hervor Grün, Kräuter samend Samen nach ihrer Art, und Bäume Frucht-machend, deren Samen in ihm *ist*, nach ihrer Art. Und Gott sah, dass gut. ¹³Und *es* war Abend, und *es* war Morgen, dritter Tag.
 
@@ -163,7 +163,7 @@ Und Gott nannte das Licht „Tag", und die Finsternis nannte er „Nacht". Und *
 
 ### **Vers 6**
 
-Und Gott sprach: „Es werde *ein* raqia (Ausdehnung) inmitten der Wasser, und *es* sei trennend zwischen Wasser und Wasser."
+Und Gott sprach: „Es werde *ein* raqia (Ausdehnung) innerhalb der Wasser, und *es* sei eine Scheidewand zwischen Wasser und Wasser."
 
 > **📝 NOTIZEN**
 > 
@@ -173,8 +173,8 @@ Und Gott sprach: „Es werde *ein* raqia (Ausdehnung) inmitten der Wasser, und *
 > - Vers 8 wird **raqia = shamayim (Himmel)** identifizieren
 > 
 > 🔵 **STRUKTUR**
-> - Geschaffen **INNERHALB** der Wasser, dann trennt Wasser oben von Wasser unten
-> - **מַבְדִּיל** (*mavdil*) = Partizip „trennend" (fortlaufende Handlung)—nicht abgeschlossenes „trennen"
+> - **בְּתוֹךְ** (*betoch*) = „innerhalb/im Innern" der Wasser (das raqia bildet sich innerhalb der Wassermasse)—nicht „mitten unter"
+> - **מַבְדִּיל** (*mavdil*) = substantivisch gebrauchtes Hifil-Partizip: „eine Scheidewand"—nicht das finite „trennt" oder der Infinitiv „trennen"
 
 ---
 

@@ -15,11 +15,12 @@
 ### betoch — בְּתוֹךְ
 - **Morphology:** *be-* "in" + *toch* "midst/inside."
 - **Range:** best = "inside / within" (not "in the midst of"). Evidence: *betoch* most often = within/inside (cf. Mic 3:3 meat inside a cauldron). So *raqia* is made **within** the water — initially submerged.
-- **TT status:** Tier 2 note; "within the water."
+- **TT status:** SHIPPED 2026-06-04 — Gen 1:6 Tier 1 now reads "within the waters" (all 4 locales) + v6 note rewritten + companion §A4 harmonized; see genesis.md Entry 2026-06-04-111 (Q6 §2.1 reconciliation).
 
 ### mavdil — מַבְדִּיל
 - **Morphology:** root *b-d-l*; **not** the infinitive (which would be *le-havdil*) → here a **noun**, "a separator/divider," not the verb "to separate."
 - **Smoothed:** "shall be a separator." (Subtle but real: separator vs. to-separate.)
+- **TT status:** SHIPPED 2026-06-04 — Gen 1:6 Tier 1 now reads "a separator" (EN) / "um separador" (PT) / "eine Scheidewand" (DE — locale-editor confirmation pending) / "un separador" (ES); v6 note updated (substantival Hiphil participle); see genesis.md Entry 2026-06-04-111 (Q6 §2.2 reconciliation).
 
 ### bein mayim la-mayim — בֵּין מַיִם לָמָיִם
 - *bein* "between" + *mayim* "water," then *la-mayim* ("to-the water"); the *bein…uvein* frame here uses *le-* not a second *bein*. By the *nikud*: "between water to-the-water." Drop the pointing and it reads "between water to water." Two bodies of water are implied.

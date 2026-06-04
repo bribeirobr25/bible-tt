@@ -1668,3 +1668,20 @@ Applied from consolidated external proposals (`docs/audit/GENESIS-1-EN-PROPOSAL.
 - **Cross-references:** `docs/audit/SOURCE_ANALYSIS_METHODOLOGY_PLAN.md` (plan + decision locks §Decision); `docs/audit/AUDIT_SOURCE_ANALYSIS_METHODOLOGY_PLAN.md` + `docs/audit/FEEDBACK_SOURCE_ANALYSIS_METHODOLOGY_PLAN.md` (audit + feedback absorbed); `docs/source-analysis/` (METHOD.md + README.md + `hebrew/` corpus + `greek/`/`aramaic/` stubs); `docs/rules/RULES-CORE.md` (§Implementation Workflow pointer + §PROJECT METADATA refresh); `docs/rules/RULES-HB.md` + `docs/rules/RULES-GS.md` (pointers); `scripts/content-lint.sh` §0.13; `CLAUDE.md` (tree entry + pointer); `docs/audit/EXECUTION_HISTORY.md` + `docs/audit/PENDING.md` (synced).
 
 ---
+
+## Entry 2026-06-04-111 — Genesis 1:6 *betoch* + *mavdil* reconciliation (Q6 Part A)
+
+- **Verse:** Genesis 1:6 (the *raqia* clause).
+- **Language(s) affected:** EN, PT-BR, DE, ES.
+- **Rule(s) invoked:** CORE Rule 2 (slash reserved for source-text ambiguity — declined here for target-language synonyms); Rule 5 (literal-form); Rule 8 (verb/participle); Rule 16 (cross-locale alignment); Rule 28 (provisional; project-lead authority, Hebraist pending).
+- **Decision:** Per the Q6 validation BAR decisions (`docs/audit/SOURCE_ANALYSIS_Q6_VALIDATION.md` §2.1, §2.2), reconciled two Gen 1:6 renderings to match the source-analysis reading. **(1) *betoch* → "within/inside":** Tier 1 changed from "in the midst of the waters" to **"within the waters"** (EN) / "dentro das águas" (PT) / "innerhalb der Wasser" (DE) / "dentro de las aguas" (ES) — both Tier-1 occurrences per file, the v6 Tier-2 note rewritten (*betoch* = within/inside, not "amid/among"), and the companion §A4 quote harmonized in all four locales. **(2) *mavdil* → substantival noun "a separator":** Tier 1 changed from "shall be separating" to **"shall be a separator"** (EN) / "seja um separador" (PT) / "sei eine Scheidewand" (DE) / "sea un separador" (ES); v6 note updated (Hiphil participle used substantivally: "a separator/divider", not the finite "separates" or infinitive "to separate"). Slash forms ("within/inside", "separator/divider") were **declined in Tier 1** — Rule 2 slashes are for source-text ambiguity, not target-language synonyms; the synonyms live in the Tier 2 note.
+- **Alternatives considered:**
+  - Slash renderings in Tier 1 — rejected (Rule 2 misuse; the Hebrew has one sense, not a preserved ambiguity).
+  - Keep "in the midst of" / "separating" — rejected; Q6 found internal tension (the v6 note already read "WITHIN", and the participle was one of two valid readings the project lead chose against).
+- **Justification:** aligns Tier 1 with the distilled source-analysis corpus and resolves the Tier-1-vs-note tension Q6 flagged. *betoch* "within" disambiguates "inside" from "amid"; *mavdil* as substantival participle is grammatically valid and matches the corpus's preferred rendering.
+- **AI provenance:** claude-opus-4-8 (1M context), 2026-06-04, executing `docs/audit/SOURCE_ANALYSIS_FOLLOWUP_PLAN.md` Part A under Q1=A/Q2=A/Q3=A/Q4=A locks. Validation: 819 tests pass; `pnpm build` success; `pnpm lint` clean; `pnpm content:lint` baseline.
+- **Status:** provisional.
+- **Reviewers:** Project lead — authorized the rendering change per Rule 28 (2026-06-04). Hebraist unassigned (verify *betoch*/*mavdil* grammar). **DE locale-editor unassigned — "eine Scheidewand" for *mavdil* needs confirmation** (flagged in the plan as the one tricky cross-locale form). EN/PT-BR/ES locale-editors unassigned.
+- **Cross-references:** `docs/audit/SOURCE_ANALYSIS_FOLLOWUP_PLAN.md` (Part A); `docs/audit/SOURCE_ANALYSIS_Q6_VALIDATION.md` §2.1 + §2.2 (marked RESOLVED); `docs/source-analysis/hebrew/genesis-1-06-08.md` (corpus TT-status updated); `content/{en,pt-br,de,es}/genesis/CHAPTER-1.md` v6 (Tier 1 ×2 + note) + `study/CHAPTER-1-CONTEXT.md` §A4.
+
+---

@@ -75,7 +75,7 @@ Os humanos governam sobre *criaturas* em cada domínio (mar, céu, terra). Mas o
 ### A4. Cosmos delimitado por águas acima e abaixo do raqia
 **[TEXTUAL — VERIFICADO]**
 
-Genesis 1:6–7: o *raqia* é colocado "no meio das águas" para separar "as águas que estavam debaixo do raqia" das "águas que estavam acima do raqia." A narrativa apresenta espaço ordenado com água acima do céu visível e água abaixo (reunida em mares).
+Genesis 1:6–7: o *raqia* é colocado "dentro das águas" para separar "as águas que estavam debaixo do raqia" das "águas que estavam acima do raqia." A narrativa apresenta espaço ordenado com água acima do céu visível e água abaixo (reunida em mares).
 
 Esta é a base textual para a imagem cosmológica de três camadas do antigo Oriente Próximo. A TT preserva isso mantendo *raqia* (transliterado) em vez de substituir por "firmamento" (medieval) ou "expansão" (suavização moderna).
 

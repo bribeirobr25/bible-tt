@@ -75,7 +75,7 @@ Menschen herrschen über *Lebewesen* in jeder Sphäre (Meer, Himmel, Land). Aber
 ### A4. Kosmos begrenzt durch Wasser oberhalb und unterhalb des Raqia
 **[TEXTUELL — VERIFIZIERT]**
 
-Genesis 1:6-7: Das *Raqia* wird "inmitten der Wasser" platziert, um "Wasser, die unter dem Raqia waren" von "Wasser, die über dem Raqia waren" zu trennen. Die Erzählung stellt geordneten Raum dar, mit Wasser über dem sichtbaren Himmel und Wasser darunter (in Meere gesammelt).
+Genesis 1:6-7: Das *Raqia* wird "innerhalb der Wasser" platziert, um "Wasser, die unter dem Raqia waren" von "Wasser, die über dem Raqia waren" zu trennen. Die Erzählung stellt geordneten Raum dar, mit Wasser über dem sichtbaren Himmel und Wasser darunter (in Meere gesammelt).
 
 Dies ist die textliche Grundlage für das altorientalische dreistufige kosmologische Bild. Die TT bewahrt dies, indem sie *Raqia* (transliteriert) beibehält, anstatt "Firmament" (mittelalterlich) oder "Ausdehnung" (moderne Glättung) einzusetzen.
 

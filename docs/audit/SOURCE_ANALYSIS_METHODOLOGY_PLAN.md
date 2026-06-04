@@ -91,6 +91,7 @@ docs/source-analysis/
 - **C:** Put `METHOD.md` in `docs/guides/`.
 
 *Recommendation: A. Self-contained, keeps bulky raw material out of the rulesets, links cleanly. B scatters the asset; C mixes it with reader-facing guides.*
+- **BAR decision =** approved option A
 
 ### Q2 — Anonymization depth (the core ask)
 
@@ -99,6 +100,7 @@ docs/source-analysis/
 - **C:** Total erasure — remove the name everywhere including internal docs; provenance recorded only as "external source-language contributor."
 
 *Recommendation: A. Satisfies "nothing shows to users" while preserving a minimal internal provenance trail (Rule 28 honesty). B leaves the name in governance docs you may not want it in; C sacrifices the audit trail. If you prefer zero internal trace, choose C.*
+- **BAR decision =** approved option A
 
 ### Q3 — Corpus treatment
 
@@ -107,6 +109,7 @@ docs/source-analysis/
 - **C:** **Distill** each file into structured per-verse notes (lexeme · root/morphology · semantic range · cross-textual attestation · traditional-translation contrast · uncertainty), discarding all prose.
 
 *Recommendation: A as the floor. But the corpus's stated purpose is to feed Phase 12 / GS / Aramaic authoring, and lightly-cleaned ASR prose serves that poorly — so **C is the higher-value lock for that purpose** (most reusable, fully de-personalized); A is acceptable only if the corpus is kept purely for archival provenance. C can be staged (A now as a safety move, C as the immediately-following pass) if the 5–8 h envelope is tight.*
+- **BAR decision =** keep executed **option C** (confirmed 2026-06-04). The corpus is already structured per-verse notes; the earlier "option A" annotation was a ratification slip and is superseded. Matches §Decision locks & closure (Q3=C).
 
 ### Q4 — Touch locked `RULES-CORE.md`?
 
@@ -115,6 +118,7 @@ docs/source-analysis/
 - **C:** Touch CORE only to reword the credit (no method pointer).
 
 *Recommendation: A. The method is genuinely universal, so CORE is its natural anchor; the metadata reword is part of the scrub. If you want CORE left fully stable, B (and handle the credit via Q2 elsewhere).*
+- **BAR decision =** approved option A
 
 ### Q5 — Greek / Aramaic now or deferred
 
@@ -123,6 +127,7 @@ docs/source-analysis/
 - **C:** Defer entirely; HB-only this cycle, no stubs.
 
 *Recommendation: A. Establishes the cross-language architecture without inventing Greek substance that needs a Hellenist (Rule 28). B is a nice proof-of-portability if you want it; note any GS worked example is AI-draft pending Hellenist review.*
+- **BAR decision =** approved option A with option B when possible. When doing option B we could review/audit the already shipped work against the updated rules and methods.
 
 ### Q6 — Validation cross-check (the earlier "Option B")
 
@@ -130,6 +135,7 @@ docs/source-analysis/
 - **B:** Bundle the cross-check into this effort.
 
 *Recommendation: A. Keeps this effort focused on method + anonymization; the content QA is a distinct task with its own (small) risk surface.*
+- **BAR decision =** approved option A
 
 ### Q7 — Permanent leakage guard
 
@@ -137,6 +143,7 @@ docs/source-analysis/
 - **B:** One-time grep verification only, no permanent guard.
 
 *Recommendation: A. Matches the existing §0.x lint discipline and prevents regression — exactly the mechanism that caught the version-stamp drift.*
+- **BAR decision =** approved option A
 
 ### Q8 — Editorial-log entry
 
@@ -144,6 +151,7 @@ docs/source-analysis/
 - **B:** No entry (treat as docs-only infrastructure).
 
 *Recommendation: A. The anonymization and the method's elevation to a governed asset are governance decisions worth logging.*
+- **BAR decision =** approved option A
 
 ---
 

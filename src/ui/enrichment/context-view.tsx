@@ -12,6 +12,7 @@ import {
 } from "lucide-react";
 import { useTranslations } from "next-intl";
 import { type EnrichmentData, sortByConfidence } from "@/domain/content/types";
+import { renderInlineSafe } from "@/ui/shared/render-markdown-safe";
 import { EnrichmentEntryCard } from "./enrichment-entry";
 
 const SECTION_ICONS: Record<string, LucideIcon> = {
@@ -60,9 +61,14 @@ export function ContextView({ data }: { data: EnrichmentData }) {
 
   return (
     <div className="max-w-3xl mx-auto">
-      <div className="mb-10 px-4 py-3 border border-border-muted rounded-md bg-bg-surface text-xs text-text-muted leading-relaxed italic">
-        {data.disclaimer || t("enrichment.contextDisclaimer")}
-      </div>
+      <div
+        className="mb-10 px-4 py-3 border border-border-muted rounded-md bg-bg-surface text-xs text-text-muted leading-relaxed italic"
+        dangerouslySetInnerHTML={{
+          __html: renderInlineSafe(
+            data.disclaimer || t("enrichment.contextDisclaimer"),
+          ),
+        }}
+      />
 
       <div className="space-y-4">
         {displaySections.map((section) => {
