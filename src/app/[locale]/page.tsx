@@ -5,9 +5,30 @@ import {
   NotebookPen,
   ScrollText,
 } from "lucide-react";
+import type { Metadata } from "next";
 import { getTranslations, setRequestLocale } from "next-intl/server";
+import { seoMetadata, truncateDescription, websiteJsonLd } from "@/lib/seo";
 import { Link } from "@/ui/navigation/locale-link";
+import { JsonLd } from "@/ui/shared/json-ld";
 import { renderMarkdownSafe } from "@/ui/shared/render-markdown-safe";
+
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ locale: string }>;
+}): Promise<Metadata> {
+  const { locale } = await params;
+  const t = await getTranslations({ locale });
+  return seoMetadata({
+    locale,
+    path: "",
+    title: t("site.title"),
+    description: truncateDescription(
+      `${t("site.subtitle")} ${t("landing.hook")}`,
+    ),
+    absolute: true,
+  });
+}
 
 export default async function LandingPage({
   params,
@@ -20,6 +41,7 @@ export default async function LandingPage({
 
   return (
     <main className="min-h-screen">
+      <JsonLd data={websiteJsonLd(locale)} />
       {/* Hero */}
       <section className="min-h-[85vh] flex flex-col items-center justify-center px-6 py-16 text-center">
         <p className="text-text-muted text-sm uppercase tracking-[0.2em] mb-6 font-[family-name:var(--font-ui)]">

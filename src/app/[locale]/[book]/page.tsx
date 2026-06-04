@@ -1,6 +1,8 @@
 import { BookMarked, BookOpen, Users } from "lucide-react";
+import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { getTranslations, setRequestLocale } from "next-intl/server";
+import { AVAILABLE_BOOKS } from "@/domain/books/registry";
 import type { ClaimType, ConfidenceLevel } from "@/domain/content/types";
 import type { Locale } from "@/infrastructure/i18n/config";
 import {
@@ -10,12 +12,41 @@ import {
   getIntroductionOverview,
   getPeopleData,
 } from "@/lib/content-loader";
+import {
+  bookJsonLd,
+  breadcrumbJsonLd,
+  canonicalUrl,
+  seoMetadata,
+  truncateDescription,
+} from "@/lib/seo";
 import { IntroductionView } from "@/ui/enrichment/introduction-view";
 import { Link } from "@/ui/navigation/locale-link";
+import { JsonLd } from "@/ui/shared/json-ld";
 
 export async function generateStaticParams() {
   const books = await getAvailableBooks("en");
   return books.map((book) => ({ book }));
+}
+
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ locale: string; book: string }>;
+}): Promise<Metadata> {
+  const { locale, book } = await params;
+  if (!(AVAILABLE_BOOKS as readonly string[]).includes(book)) return {};
+  const t = await getTranslations({ locale });
+  const title = t(`book.${book}`);
+  const intro = await getIntroductionOverview(locale as Locale, book);
+  const overview = intro?.sections[0]?.entries[0]?.content;
+  return seoMetadata({
+    locale,
+    path: book,
+    title,
+    description: overview
+      ? truncateDescription(overview)
+      : truncateDescription(`${title} — ${t("site.subtitle")}`),
+  });
 }
 
 export default async function BookPage({
@@ -73,6 +104,16 @@ export default async function BookPage({
 
   return (
     <main className="min-h-screen flex flex-col items-center px-6 py-12">
+      <JsonLd
+        data={[
+          bookJsonLd({ locale, book, name: t(`book.${book}`) }),
+          breadcrumbJsonLd([
+            { name: t("site.title"), url: canonicalUrl(locale, "") },
+            { name: t("nav.selectBook"), url: canonicalUrl(locale, "books") },
+            { name: t(`book.${book}`), url: canonicalUrl(locale, book) },
+          ]),
+        ]}
+      />
       <div className="max-w-lg w-full space-y-8">
         <div className="text-center">
           <h1 className="font-[family-name:var(--font-reading)] text-3xl md:text-4xl font-light">

@@ -1,7 +1,30 @@
 import { BookOpen } from "lucide-react";
+import type { Metadata } from "next";
 import { getTranslations, setRequestLocale } from "next-intl/server";
 import { getAvailableBooks } from "@/lib/content-loader";
+import {
+  breadcrumbJsonLd,
+  canonicalUrl,
+  seoMetadata,
+  truncateDescription,
+} from "@/lib/seo";
 import { Link } from "@/ui/navigation/locale-link";
+import { JsonLd } from "@/ui/shared/json-ld";
+
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ locale: string }>;
+}): Promise<Metadata> {
+  const { locale } = await params;
+  const t = await getTranslations({ locale });
+  return seoMetadata({
+    locale,
+    path: "books",
+    title: t("nav.selectBook"),
+    description: truncateDescription(t("site.subtitle")),
+  });
+}
 
 export default async function BooksPage({
   params,
@@ -15,6 +38,12 @@ export default async function BooksPage({
 
   return (
     <main className="min-h-screen flex flex-col items-center px-6 py-12">
+      <JsonLd
+        data={breadcrumbJsonLd([
+          { name: t("site.title"), url: canonicalUrl(locale, "") },
+          { name: t("nav.selectBook"), url: canonicalUrl(locale, "books") },
+        ])}
+      />
       <div className="max-w-lg w-full space-y-8">
         <div className="text-center">
           <h1 className="font-[family-name:var(--font-reading)] text-3xl md:text-4xl font-light">

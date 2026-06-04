@@ -1,9 +1,17 @@
 import { ChevronLeft } from "lucide-react";
+import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { getTranslations, setRequestLocale } from "next-intl/server";
+import { AVAILABLE_BOOKS } from "@/domain/books/registry";
 import type { PersonEntry } from "@/domain/content/types";
 import type { Locale } from "@/infrastructure/i18n/config";
 import { getAvailableBooks, getPeopleData } from "@/lib/content-loader";
+import {
+  breadcrumbJsonLd,
+  canonicalUrl,
+  seoMetadata,
+  truncateDescription,
+} from "@/lib/seo";
 import { Link } from "@/ui/navigation/locale-link";
 import {
   GENESIS_GAP_THRESHOLD_YEARS,
@@ -11,6 +19,7 @@ import {
 } from "@/ui/people/genesis-watersheds";
 import { PeopleTimeline } from "@/ui/people/people-timeline";
 import { PersonCard } from "@/ui/people/person-card";
+import { JsonLd } from "@/ui/shared/json-ld";
 
 export async function generateStaticParams() {
   const books = await getAvailableBooks("en");
@@ -83,6 +92,24 @@ function buildRenderItems(
   return out;
 }
 
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ locale: string; book: string }>;
+}): Promise<Metadata> {
+  const { locale, book } = await params;
+  if (!(AVAILABLE_BOOKS as readonly string[]).includes(book)) return {};
+  const t = await getTranslations({ locale });
+  return seoMetadata({
+    locale,
+    path: `${book}/people`,
+    title: `${t(`book.${book}`)} — ${t("people.title")}`,
+    description: truncateDescription(
+      `${t("people.title")} — ${t(`book.${book}`)}. ${t("site.subtitle")}`,
+    ),
+  });
+}
+
 export default async function PeoplePage({
   params,
 }: {
@@ -147,6 +174,17 @@ export default async function PeoplePage({
 
   return (
     <main className="min-h-screen flex flex-col items-center px-6 py-12">
+      <JsonLd
+        data={breadcrumbJsonLd([
+          { name: t("site.title"), url: canonicalUrl(locale, "") },
+          { name: t("nav.selectBook"), url: canonicalUrl(locale, "books") },
+          { name: t(`book.${book}`), url: canonicalUrl(locale, book) },
+          {
+            name: t("people.title"),
+            url: canonicalUrl(locale, `${book}/people`),
+          },
+        ])}
+      />
       <div className="max-w-3xl w-full space-y-8">
         <div>
           <Link

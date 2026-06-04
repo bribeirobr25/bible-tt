@@ -1,5 +1,13 @@
+import type { Metadata } from "next";
 import { getTranslations, setRequestLocale } from "next-intl/server";
+import {
+  breadcrumbJsonLd,
+  canonicalUrl,
+  seoMetadata,
+  truncateDescription,
+} from "@/lib/seo";
 import { Link } from "@/ui/navigation/locale-link";
+import { JsonLd } from "@/ui/shared/json-ld";
 
 const RULES_WITH_EXAMPLES = [
   { ruleKey: "rule1", ruleNum: 1 },
@@ -8,6 +16,21 @@ const RULES_WITH_EXAMPLES = [
   { ruleKey: "rule11", ruleNum: 11 },
   { ruleKey: "rule25", ruleNum: 25 },
 ] as const;
+
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ locale: string }>;
+}): Promise<Metadata> {
+  const { locale } = await params;
+  const t = await getTranslations({ locale });
+  return seoMetadata({
+    locale,
+    path: "rules",
+    title: t("landing.rulesPageTitle"),
+    description: truncateDescription(t("landing.rulesPageSubtitle")),
+  });
+}
 
 export default async function RulesPage({
   params,
@@ -20,6 +43,15 @@ export default async function RulesPage({
 
   return (
     <main className="min-h-screen px-6 py-16 md:py-24">
+      <JsonLd
+        data={breadcrumbJsonLd([
+          { name: t("site.title"), url: canonicalUrl(locale, "") },
+          {
+            name: t("landing.rulesPageTitle"),
+            url: canonicalUrl(locale, "rules"),
+          },
+        ])}
+      />
       <div className="max-w-2xl mx-auto">
         {/* Header */}
         <header className="mb-16 text-center">

@@ -1,15 +1,40 @@
 import { ChevronLeft } from "lucide-react";
+import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { getTranslations, setRequestLocale } from "next-intl/server";
+import { AVAILABLE_BOOKS } from "@/domain/books/registry";
 import type { ClaimType, ConfidenceLevel } from "@/domain/content/types";
 import type { Locale } from "@/infrastructure/i18n/config";
 import { getAvailableBooks, getIntroductionData } from "@/lib/content-loader";
+import {
+  breadcrumbJsonLd,
+  canonicalUrl,
+  seoMetadata,
+  truncateDescription,
+} from "@/lib/seo";
 import { IntroductionView } from "@/ui/enrichment/introduction-view";
 import { Link } from "@/ui/navigation/locale-link";
+import { JsonLd } from "@/ui/shared/json-ld";
 
 export async function generateStaticParams() {
   const books = await getAvailableBooks("en");
   return books.map((book) => ({ book }));
+}
+
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ locale: string; book: string }>;
+}): Promise<Metadata> {
+  const { locale, book } = await params;
+  if (!(AVAILABLE_BOOKS as readonly string[]).includes(book)) return {};
+  const t = await getTranslations({ locale });
+  return seoMetadata({
+    locale,
+    path: `${book}/introduction`,
+    title: `${t(`book.${book}`)} — ${t("nav.bookIntroduction")}`,
+    description: truncateDescription(t("nav.bookIntroductionDescription")),
+  });
 }
 
 export default async function BookIntroductionPage({
@@ -65,6 +90,17 @@ export default async function BookIntroductionPage({
 
   return (
     <main className="min-h-screen flex flex-col items-center px-6 py-12">
+      <JsonLd
+        data={breadcrumbJsonLd([
+          { name: t("site.title"), url: canonicalUrl(locale, "") },
+          { name: t("nav.selectBook"), url: canonicalUrl(locale, "books") },
+          { name: t(`book.${book}`), url: canonicalUrl(locale, book) },
+          {
+            name: t("nav.bookIntroduction"),
+            url: canonicalUrl(locale, `${book}/introduction`),
+          },
+        ])}
+      />
       <div className="max-w-3xl w-full space-y-8">
         <div>
           <Link
