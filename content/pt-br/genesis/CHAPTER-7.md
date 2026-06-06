@@ -44,7 +44,7 @@
 
 ## VISÃO GERAL DO CAPÍTULO
 
-**O que acontece:** YHWH ordena a Noach (Noé) que entre na *tebah* com sua família e os animais — animais limpos aos sete, os demais aos pares. Após sete dias, o dilúvio começa: as fontes do grande abismo se rompem e as janelas dos céus se abrem. As águas sobem por 40 dias, cobrindo todos os montes altos. Toda criatura que respira em terra seca fora da *tebah* morre. As águas prevalecem por 150 dias.
+**O que acontece:** YHWH ordena a Noé que entre na *tebah* com sua família e os animais — animais limpos aos sete, os demais aos pares. Após sete dias, o dilúvio começa: as fontes do grande abismo se rompem e as janelas dos céus se abrem. As águas sobem por 40 dias, cobrindo todos os montes altos. Toda criatura que respira em terra seca fora da *tebah* morre. As águas prevalecem por 150 dias.
 
 **Temas-chave:** Distinção limpo/impuro anterior ao Sinai; o dilúvio como reversão cosmológica — as águas acima e abaixo do *raqia* (Dia 2) se reúnem; o *mabbul* (dilúvio — palavra usada apenas para este evento); datas calendárias específicas ao longo do capítulo; YHWH fecha a porta (7:16 — Noé não se sela a si mesmo); destruição total da vida terrestre.
 

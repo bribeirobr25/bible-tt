@@ -1,3 +1,12 @@
+import {
+  emitBookContext,
+  emitChapter,
+  emitEnrichment,
+  emitIntroduction,
+  emitPeople,
+  emitProphecy,
+  type StructuredUnit,
+} from "@/domain/content/structured";
 import type {
   BookContextData,
   ChapterData,
@@ -41,25 +50,6 @@ export async function getIntroductionData(
   return readIntroduction(locale, book);
 }
 
-/**
- * Phase 5 (Book Introduction split, AUDIT §3.5): book landing page renders
- * Section A (Overview) only; the full introduction lives at /{book}/introduction.
- * Disclaimer is cleared because it belongs on the dedicated introduction page,
- * not the landing.
- */
-export async function getIntroductionOverview(
-  locale: Locale,
-  book: string,
-): Promise<IntroductionData | null> {
-  const full = await readIntroduction(locale, book);
-  if (!full) return null;
-  return {
-    ...full,
-    disclaimer: "",
-    sections: full.sections.filter((s) => s.id === "overview"),
-  };
-}
-
 export async function getProphecyData(
   locale: Locale,
   book: string,
@@ -80,6 +70,39 @@ export async function getBookContextData(
   book: string,
 ): Promise<BookContextData | null> {
   return readBookContext(locale, book);
+}
+
+/**
+ * Phase 2 — structured layer (P2-Q2/Q3). Assembles every {@link StructuredUnit}
+ * for a book in a locale by reusing the existing parsers + emitters. Derived,
+ * additive, and locale-keyed; markdown stays the source of truth. Consumed by
+ * future phases (addressable views, build-time search index). Faithfulness is
+ * guarded by `infrastructure/content/__tests__/conservation.test.ts`.
+ */
+export async function getStructuredBook(
+  locale: Locale,
+  book: string,
+): Promise<StructuredUnit[]> {
+  const units: StructuredUnit[] = [];
+
+  const chapters = await listChapters(locale, book);
+  for (const ch of chapters) {
+    const chapter = await readChapter(locale, book, ch);
+    if (chapter) units.push(...emitChapter(chapter));
+    const enrichment = await readEnrichment(locale, book, ch);
+    if (enrichment) units.push(...emitEnrichment(enrichment));
+    const prophecy = await readProphecy(locale, book, ch);
+    if (prophecy) units.push(...emitProphecy(prophecy));
+  }
+
+  const introduction = await readIntroduction(locale, book);
+  if (introduction) units.push(...emitIntroduction(introduction));
+  const people = await readPeople(locale, book);
+  if (people) units.push(...emitPeople(people));
+  const bookContext = await readBookContext(locale, book);
+  if (bookContext) units.push(...emitBookContext(bookContext));
+
+  return units;
 }
 
 export async function getAvailableBooks(locale: string): Promise<string[]> {
@@ -109,4 +132,33 @@ export async function getAllChapterParams(): Promise<
   }
 
   return params;
+}
+
+/**
+ * Phase 3 — chapters that have a "Deeper" door, i.e. enrichment sections or
+ * prophecy entries. Used by the deeper route's generateStaticParams so we only
+ * build pages that have content (gated like the old `availableModes`).
+ */
+export async function hasDeeperContent(
+  locale: Locale,
+  book: string,
+  chapter: number,
+): Promise<boolean> {
+  const enrichment = await readEnrichment(locale, book, chapter);
+  if (enrichment && enrichment.sections.length > 0) return true;
+  const prophecy = await readProphecy(locale, book, chapter);
+  return !!prophecy && prophecy.entries.length > 0;
+}
+
+export async function getDeeperChapterParams(): Promise<
+  { locale: string; book: string; chapter: string }[]
+> {
+  const all = await getAllChapterParams();
+  const out: { locale: string; book: string; chapter: string }[] = [];
+  for (const p of all) {
+    if (await hasDeeperContent(p.locale as Locale, p.book, Number(p.chapter))) {
+      out.push(p);
+    }
+  }
+  return out;
 }

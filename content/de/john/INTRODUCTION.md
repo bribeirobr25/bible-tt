@@ -15,6 +15,14 @@
 
 ---
 
+<!-- CARD -->
+**Was:** Ein theologisches Evangelium, das Jesus als das ewige fleischgewordene „Wort" darstellt.
+**Wann:** Ereignisse um 28–30 n. Chr.; verfasst gegen Ende des ersten Jahrhunderts (~90–100 n. Chr.).
+**Wer:** Johannes zugeschrieben, „dem Jünger, den Jesus liebte"; die Verfasserschaft ist umstritten.
+**Für wen:** Eine Gemeinde des späten ersten Jahrhunderts, gerichtet an Glaubende wie an Zweifelnde an Jesu Identität.
+**Warum:** „Damit ihr glaubt, dass Jesus der Gesalbte ist, der Sohn Gottes — und Leben habt in seinem Namen" (20,31).
+<!-- /CARD -->
+
 ## VERWENDUNG DIESER EINLEITUNG
 
 Diese Datei enthält Hintergrundmaterial, nach Themen geordnet. Jeder Eintrag trägt **zwei Kennzeichnungen:**

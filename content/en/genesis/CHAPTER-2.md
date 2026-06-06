@@ -47,11 +47,11 @@
 
 **What happens:** A second creation account begins at 2:4 with a different sequence and focus. YHWH God forms the human from dust, plants a garden in Eden with two named trees, places the human there to work and keep it, gives the command about the tree of knowledge, declares "not good" for the human to be alone, forms animals, and builds the woman from the human's side.
 
-**Key themes:** The *toledot* formula (2:4); YHWH God (combined divine name); formation from *adamah* (ground) — the *adam/adamah* wordplay; the garden as bounded space; the tree of knowledge and the tree of life; the command and its consequence ("dying you shall die"); naming as ordering; "one flesh."
+**Key themes:** The "generations" formula (2:4); YHWH God (combined divine name); formation from the ground — the wordplay between the human and the ground (adam / adamah); the garden as bounded space; the tree of knowledge and the tree of life; the command and its consequence ("dying you shall die"); naming as ordering; "one flesh."
 
-**Watch for:** The divine name shifts to YHWH Elohim (2:4 onward); the different creation order from Chapter 1 (human before animals in 2:7, 19); the "not good" — the only negative assessment in creation; the *tardemah* (deep sleep); "bone of my bones" as the first human speech.
+**Watch for:** The divine name shifts to YHWH Elohim (2:4 onward); the different creation order from Chapter 1 (human before animals in 2:7, 19); the "not good" — the only negative assessment in creation; the deep sleep; "bone of my bones" as the first human speech.
 
-**Connection:** The trees introduced here — knowledge and life — drive the narrative of Chapter 3. The relationship between the human and the ground (*adam/adamah*) becomes the basis for the curse in 3:17–19.
+**Connection:** The trees introduced here — knowledge and life — drive the narrative of Chapter 3. The relationship between the human and the ground becomes the basis for the curse in 3:17–19.
 
 ---
 

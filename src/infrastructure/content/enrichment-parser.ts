@@ -1,4 +1,5 @@
 import type {
+  BookCardField,
   ClaimType,
   ConfidenceLevel,
   EnrichmentData,
@@ -256,6 +257,20 @@ export function parseEnrichmentMarkdown(
   return { book, chapter, disclaimer, sections };
 }
 
+// Phase 5b — extract the book "tight card" from a language-neutral
+// HTML-comment block (`<!-- CARD --> **Label:** value … <!-- /CARD -->`).
+// Parsed by position so it never depends on a localized heading.
+function parseBookCard(raw: string): BookCardField[] | undefined {
+  const block = raw.match(/<!--\s*CARD\s*-->([\s\S]*?)<!--\s*\/CARD\s*-->/);
+  if (!block) return undefined;
+  const fields: BookCardField[] = [];
+  for (const line of block[1].split("\n")) {
+    const m = line.match(/^\s*\*\*(.+?):\*\*\s*(.+?)\s*$/);
+    if (m) fields.push({ label: m[1].trim(), value: m[2].trim() });
+  }
+  return fields.length > 0 ? fields : undefined;
+}
+
 export function parseIntroductionMarkdown(
   raw: string,
   book: string,
@@ -264,7 +279,7 @@ export function parseIntroductionMarkdown(
     raw,
     INTRODUCTION_SECTION_IDS,
   );
-  return { book, disclaimer, sections };
+  return { book, disclaimer, sections, card: parseBookCard(raw) };
 }
 
 const INLINE_LABEL = /\*?\*?\[[^\]]+\s*(?:—|--|–)\s*[^\]]+\]\*?\*?/g;

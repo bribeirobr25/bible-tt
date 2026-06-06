@@ -15,6 +15,14 @@
 
 ---
 
+<!-- CARD -->
+**O quê:** Um Evangelho teológico que apresenta Jesus como a "palavra" eterna feita carne.
+**Quando:** Eventos por volta de 28–30 d.C.; escrito no fim do primeiro século (~90–100 d.C.).
+**Quem:** Atribuído a João, "o discípulo a quem Jesus amava"; a autoria é debatida.
+**Para quem:** Uma comunidade do fim do primeiro século, dirigindo-se a crentes e a céticos quanto à identidade de Jesus.
+**Por quê:** "Para que vocês creiam que Jesus é o ungido, o filho de Deus — e tenham vida em seu nome" (20:31).
+<!-- /CARD -->
+
 ## COMO USAR ESTA INTRODUÇÃO
 
 Este arquivo contém material de contextualização organizado por tópico. Cada entrada carrega **dois rótulos:**

@@ -15,6 +15,14 @@
 
 ---
 
+<!-- CARD -->
+**Was:** Die Ursprungsgeschichte — des Kosmos, der Menschheit und der Familie, die zu Israel wird.
+**Wann:** Erzählt von der Schöpfung bis zu Israels Abstieg nach Ägypten; ihre Endform erreichte sie um das 6.–5. Jahrhundert v. Chr.
+**Wer:** Traditionell Mose; die kritische Forschung sieht eine Komposition älterer, über Jahrhunderte redigierter Quellen.
+**Für wen:** Das alte Israel, das über seine Ursprünge, seinen Gott und seinen Anspruch auf das Land nachdenkt.
+**Warum:** Um Israels Identität, Bund und Verheißungen in der Ur- und Vätergeschichte zu verankern.
+<!-- /CARD -->
+
 ## VERWENDUNG DIESER EINLEITUNG
 
 Diese Datei enthält Hintergrundmaterial, nach Themen geordnet. Jeder Eintrag trägt **zwei Kennzeichnungen:**

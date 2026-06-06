@@ -18,10 +18,10 @@
 | # | Phase | Goal | Depends on | Decisions to lock |
 |---|-------|------|-----------|-------------------|
 | **1** | **SEO baseline** | Discoverability + shareability; fast, mostly independent | — | P1-Q (OG images) |
-| 2 | Structured-layer pilot + stable IDs | Prove β content model on one book; durable IDs | 1 | tool/format; pilot book; migration mechanism |
-| 3 | Addressable views + 3-door IA | Real URLs for views/verses; collapse 5 modes → Read·Notes·Deeper | 2 (IDs), 1 (canonical) | URL scheme (path vs query); "Context" rename |
-| 4 | De-dup text + lazy "Deeper" payload | Single source for verse/continuous; stream enrichment | 2, 3 | derive-direction |
-| 5 | UX finish | Color tokens, landing copy, reading-plan onboarding, overview rewrites | 1–3 | accent color; copy; plan progress (localStorage) |
+| 2 | ✅ Structured-layer pilot + stable IDs | Prove β content model on one book; durable IDs | 1 | ✅ DONE 2026-06-04 — see `PHASE_2_STRUCTURED_LAYER_PLAN.md` |
+| 3 | ✅ Addressable views + 3-door IA | Real URLs for views/verses; collapse 5 modes → Read·Notes·Deeper | 2 (IDs), 1 (canonical) | ✅ DONE 2026-06-05 — see `PHASE_3_ADDRESSABLE_VIEWS_PLAN.md` |
+| 4 | ✅ De-dup text + lazy "Deeper" payload | Single source for verse/continuous; stream enrichment | 2, 3 | ✅ DONE 2026-06-05 (re-scoped) — derivation deferred as unsafe; lazy-payload done by Phase 3; content-QA pass + guard instead. See `PHASE_4_TEXT_QA_PLAN.md` |
+| 5 | ◑ UX finish | Color tokens, landing copy, reading-plan onboarding, overview rewrites | 1–3 | ◑ 5a/5c/5d + **5b-EN** DONE 2026-06-06 (teal accent · civilizational landing · `/start` plan · 18 EN overviews de-jargoned); **remaining: PT/DE/ES de-jargon + book tight-cards**. See `PHASE_5_UX_FINISH_PLAN.md` |
 | 6 | Search | Build-time index (Pagefind) | 2 | — |
 | — | Naming · Enoch/Tier-2 scope | slotted when ready | — | name pick; Tier-2 inclusion |
 | — | DB / CMS | **deferred** (keep portable) | user features | — |

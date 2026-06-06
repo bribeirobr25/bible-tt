@@ -8,8 +8,13 @@ The Transparent Translation (TT) — a multilingual Bible translation project wi
 
 - **Scope:** Genesis 1–12, John 1–3, Matthew 1–3 — all four locales (EN, PT-BR, DE, ES); each book has chapters + INTRODUCTION + PEOPLE + study companions (CONTEXT, and PROPHECY where warranted).
 - **Rulesets:** RULES-CORE **v3.3** · RULES-HB **v3.3.1** · RULES-GS **v3.2** (lock). 29 rules total.
-- **Tests:** 819 passing (`pnpm test`); `pnpm build`, `pnpm lint`, `pnpm content:lint` all clean.
-- **Next up:** Genesis 13–50 (Phase 12); cross-book canonical PEOPLE source-merge; README staleness.
+- **Tests:** 827 passing (`pnpm test`); `pnpm build`, `pnpm lint`, `pnpm content:lint` all clean.
+- **Structured layer (UX/Structure Phase 2, 2026-06-04, uncommitted):** derived, additive `StructuredUnit` layer (`domain/content/ids.ts` + `structured.ts` + `content-loader.getStructuredBook()`) with stable IDs; conservation gate (`__tests__/conservation.test.ts`) proves zero content loss across all 204 files (10,057 units). Markdown stays source of truth.
+- **3-door IA (UX/Structure Phase 3, 2026-06-05, uncommitted):** 5 hash view-modes → 3 real URL doors **Read · Notes · Deeper** (`ChapterShell` + `DoorNav` + `NotesView` + `DeeperView`); `/context`→`/background`; verse `#v{n}` anchors. See URL table below.
+- **Text QA (UX/Structure Phase 4, 2026-06-05, uncommitted):** de-dup-by-derivation deferred as unsafe (views differ by per-section name rendering + quotation flow); lazy-payload already done by Phase 3. Content-QA pass fixed a functional bug (ES John 1–3 unaccented headers → empty Notes/overview, now 51/25/36 verses) + ES/EN consistency typos; added chapter-completeness guard.
+- **UX finish (Phase 5 — 5a/5c/5d + 5b-EN, 2026-06-06, uncommitted):** deep **teal/petrol accent** (`#006475`) replacing amber; **civilizational landing** ("Read the originals…" + Start reading / New here?Start here); new **`/start` reading-plan** page (roadmap + available-now); **18 EN chapter overviews de-jargoned** (familiar names + plain English; main text untouched). **Remaining 5b:** PT-BR/DE/ES de-jargon + book tight-cards.
+- **Book tight-cards (Phase 5b, 2026-06-06, uncommitted):** book landing leads with an at-a-glance **What·When·Who·To-whom·Why** card (`<!-- CARD -->` block in INTRODUCTION.md → `IntroductionData.card` → `BookCard`), replacing the overview dump.
+- **Next up:** Phase 5b remainder = **Pattern C only** (non-EN overview inline technical-term glossing); then Phase 6 (search); Genesis 13–50 (Phase 12); cross-book canonical PEOPLE source-merge; README staleness.
 
 Pointers (do not duplicate their content here):
 - Execution history (completed phases/bundles + ruleset trail) → `docs/audit/EXECUTION_HISTORY.md`
@@ -51,19 +56,22 @@ bible-tt/
 
 | Route | Content |
 |-------|---------|
-| `/{locale}/{book}/` | Book landing — Overview + chapter list + 3 entry points (Introduction / People / Context) |
+| `/{locale}/start` | "Start here" reading plan — "Why this order?" + 7-step roadmap (available-now links + coming-soon) |
+| `/{locale}/{book}/` | Book landing — **at-a-glance card** (What·When·Who·To-whom·Why) + Read-full-intro link + **Start reading** CTA + chapter list + entry points (People / Background) |
 | `/{locale}/{book}/introduction` | Full book introduction |
-| `/{locale}/{book}/chapter/{n}` | Chapter with 5 view modes |
+| `/{locale}/{book}/chapter/{n}` | Chapter — **Read** door (continuous reading; the 3-door default) |
+| `/{locale}/{book}/chapter/{n}/notes` | **Notes** door — verse-by-verse cards (+ `#v{n}` deep-link anchors), glossary, supplementary |
+| `/{locale}/{book}/chapter/{n}/deeper` | **Deeper** door — enrichment + prophecy sub-tabs + People link (only where enrichment/prophecy exists) |
 | `/{locale}/{book}/people` | People & Genealogy — expanded profiles + SVG timeline |
-| `/{locale}/{book}/context` | Book-level context — cross-chapter motifs |
+| `/{locale}/{book}/background` | Book-level background — cross-chapter motifs (was `/context`) |
 
-Old URLs (`/{locale}/{book}/{n}`) redirect automatically to `/chapter/{n}`.
+Old URLs (`/{locale}/{book}/{n}`) redirect to `/chapter/{n}`; `/{book}/context` redirects to `/{book}/background`. Pre-Phase-3 hash deep links (`#study`/`#context`/…) are mapped to the new door paths client-side.
 
 ## Commands
 
 - `pnpm dev` — dev server with Turbopack (http://localhost:3000)
 - `pnpm build` — production build
-- `pnpm test` — all unit tests (8 files: chapter, enrichment, people, prophecy, introduction, book-context parsers + render-markdown-safe + book-context-real)
+- `pnpm test` — all unit tests (9 files: chapter, enrichment, people, prophecy, introduction, book-context parsers + render-markdown-safe + book-context-real + conservation [Phase 2 structured-layer gate])
 - `pnpm lint` — Biome linter
 - `pnpm content:lint` — hardened content lint (Phase 0 rules; see `docs/audit/FIX_IMPLEMENTATION.md`); allow-list at `scripts/lint-allowlist.txt`
 - `pnpm content:lint:warn` — same lint, non-blocking (exit 0)
@@ -77,7 +85,7 @@ Governed by `docs/architecture/STANDARDS.md`. Key decisions:
 - **Content pipeline:** 5 parser files in `src/infrastructure/content/` → `markdown-parser` (chapters → `ChapterData`), `enrichment-parser` (companions → `EnrichmentData`; also hosts `parseIntroductionMarkdown` → `IntroductionData`), `people-parser` (PEOPLE.md → `PeopleData`), `prophecy-parser` (→ `ProphecyData`), `book-context-parser` (CONTEXT.md → `BookContextData`).
 - **Cross-book PEOPLE pattern (RULES-CORE.md Rule 29, v3.3.2):** when a person spans books, one canonical entry lives in the "canonical home" book's PEOPLE.md; other books use a see-only stub (`**See:** {book}/PEOPLE.md` + `**In <Book>:** [role]`). Parser, UI (`CrossBookSeeField`), and `bookLabels` map handle this with a dangling-pointer fallback. See RULES-CORE.md for the 5-change new-book activation checklist before adding any new book's PEOPLE.md.
 - **i18n:** URL-based locale routing; content in `.md` files, UI strings in `src/infrastructure/i18n/messages/`.
-- **Five view modes:** Reading | Study | Explore (curated highlights) | Context (full enrichment) | Prophecy.
+- **Three-door IA (Phase 3):** **Read** (continuous) | **Notes** (verse cards + glossary + supplementary) | **Deeper** (enrichment + prophecy sub-tabs + People link) — each a real, crawlable URL, not a client hash mode.
 
 ## Design system
 

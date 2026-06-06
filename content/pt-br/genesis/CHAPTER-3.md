@@ -52,7 +52,7 @@
 
 **Observe:** A serpente usa apenas "Elohim," nunca "YHWH Elohim"; o homem estava "com ela" durante o diálogo (3:6); "morrendo morrerás" (2:17) vs. "não morrendo morrereis" (3:4) — mesma construção gramatical, negada; as palavras do texto em 3:22 ecoam a afirmação da serpente em 3:5, enquanto o contexto narrativo mostra consequências que a serpente não mencionou; "pó *és*" (tempo presente, não futuro) — mortalidade como condição declarada no texto.
 
-**Conexão:** A expulsão do jardim leva diretamente a Qayin (Caim) e Hevel (Abel) (Capítulo 4). A maldição sobre o solo (3:17) ecoa em 5:29 (a nomeação de Noach (Noé)) e 8:21 (a resolução pós-dilúvio de YHWH).
+**Conexão:** A expulsão do jardim leva diretamente a Caim e Abel (Capítulo 4). A maldição sobre o solo (3:17) ecoa em 5:29 (a nomeação de Noé) e 8:21 (a resolução pós-dilúvio de YHWH).
 
 ---
 

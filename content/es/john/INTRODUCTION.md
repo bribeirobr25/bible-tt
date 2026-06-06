@@ -15,6 +15,14 @@
 
 ---
 
+<!-- CARD -->
+**Qué:** Un Evangelio teológico que presenta a Jesús como la "palabra" eterna hecha carne.
+**Cuándo:** Sucesos hacia 28–30 e. c.; escrito a finales del primer siglo (~90–100 e. c.).
+**Quién:** Atribuido a Juan, "el discípulo a quien Jesús amaba"; la autoría se debate.
+**Para quién:** Una comunidad de finales del primer siglo, dirigida a creyentes y a escépticos sobre la identidad de Jesús.
+**Por qué:** "Para que crean que Jesús es el ungido, el hijo de Dios — y tengan vida en su nombre" (20:31).
+<!-- /CARD -->
+
 ## CÓMO USAR ESTA INTRODUCCIÓN
 
 Este archivo contiene material de trasfondo organizado por tema. Cada entrada lleva **dos etiquetas:**

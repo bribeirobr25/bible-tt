@@ -44,7 +44,7 @@
 
 ## KAPITELÜBERSICHT
 
-**Was geschieht:** Die „Söhne Gottes/der Götter" (*bene ha-elohim*) nehmen Menschentöchter zu Frauen. JHWH begrenzt die menschliche Lebensspanne auf 120 Jahre. Die Nephilim sind auf dem Land. JHWH sieht die totale menschliche Bosheit, bereut die Erschaffung der Menschheit und beschließt die Vernichtung. Doch Noach (Noah) findet Gunst. Gott weist Noah an, eine *Tebah* (Kasten/Arche) mit bestimmten Maßen zu bauen, kündigt die Flut an, richtet den ersten Bund (*Berit*) auf und gebietet Noah, Tiere an Bord zu bringen.
+**Was geschieht:** Die „Söhne Gottes/der Götter" nehmen Menschentöchter zu Frauen. JHWH begrenzt die menschliche Lebensspanne auf 120 Jahre. Die Nephilim sind auf dem Land. JHWH sieht die totale menschliche Bosheit, bereut die Erschaffung der Menschheit und beschließt die Vernichtung. Doch Noah findet Gunst. Gott weist Noah an, eine *Tebah* (Kasten/Arche) mit bestimmten Maßen zu bauen, kündigt die Flut an, richtet den ersten Bund auf und gebietet Noah, Tiere an Bord zu bringen.
 
 **Zentrale Themen:** Die *bene ha-elohim* — dreifache Mehrdeutigkeit bewahrt (göttliche Wesen, Herrscher, sethitische Linie); die Nephilim (transliteriert, nicht „Riesen"); *yadon* — ein genuines Unsicherheitsverb (verbleiben/streiten); göttliche Reue (*nacham* — dieselbe Wurzel wie Noahs Name); „Gott sah" verkehrt (Schöpfung: „sah, dass gut" → hier: „sah, dass groß war die Bosheit"); *chamas* (Gewalt) als benannte Sünde; die *Tebah* als versiegelter Behälter, nicht als Schiff; das Wortspiel *kopher/kippur* (Pech/Sühne).
 

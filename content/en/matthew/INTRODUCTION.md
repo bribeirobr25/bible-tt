@@ -15,6 +15,14 @@
 
 ---
 
+<!-- CARD -->
+**What:** A Gospel presenting Jesus as Israel's promised messiah and a new Moses.
+**When:** Events around 28–30 CE; written roughly 80–90 CE.
+**Who:** Traditionally Matthew the tax-collector; authorship is debated.
+**To whom:** A largely Jewish-Christian audience, shown Jesus as the fulfilment of Israel's scriptures.
+**Why:** To present Jesus as the messiah and teacher who fulfils the Law and the Prophets.
+<!-- /CARD -->
+
 ## HOW TO USE THIS INTRODUCTION
 
 This file contains background material organized by topic. Each entry carries **two labels:**

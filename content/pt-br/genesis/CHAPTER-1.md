@@ -45,9 +45,9 @@
 
 **O que acontece:** Deus cria o mundo ordenado em seis dias. A criação avança por meio da fala divina ("e Deus disse"), separação (luz/trevas, águas acima/abaixo, mar/terra), povoamento (vegetação, luminares, criaturas, humanos) e bênção (fertilidade, domínio). O capítulo termina no sexto dia; o descanso do sétimo dia aparece em 2:1–3.
 
-**Temas-chave:** Ordem a partir do caos (*tohu vavohu*); criação pela palavra; o *raqia* como estrutura cósmica; reprodução "segundo a sua espécie"; a humanidade à imagem (*tselem*) de Deus; dieta vegetariana atribuída.
+**Temas-chave:** Ordem a partir do caos; criação pela palavra; o *raqia* como estrutura cósmica; reprodução "segundo a sua espécie"; a humanidade à imagem de Deus; dieta vegetariana atribuída.
 
-**Observe:** O refrão "e Deus viu que bom" (6x, depois "muito bom"); a mudança de "Deus" (*Elohim*) ao longo de todo o capítulo — YHWH não aparece até o Capítulo 2; o plural "façamos" (1:26); domínio sobre as criaturas, mas não sobre as águas como domínio cósmico.
+**Observe:** O refrão "e Deus viu que bom" (6x, depois "muito bom"); a mudança de "Deus" ao longo de todo o capítulo — YHWH não aparece até o Capítulo 2; o plural "façamos" (1:26); domínio sobre as criaturas, mas não sobre as águas como domínio cósmico.
 
 **Conexão:** Este capítulo estabelece o mundo ordenado que o Capítulo 2 revisitará sob outro ângulo, e que os Capítulos 6–9 des-criarão e re-criarão através do dilúvio.
 

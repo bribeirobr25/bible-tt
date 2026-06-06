@@ -45,13 +45,13 @@
 
 ## CHAPTER OVERVIEW
 
-**What happens:** The "sons of God/the gods" (*bene ha-elohim*) take human wives. YHWH limits human lifespan to 120 years. The nephilim are on the land. YHWH sees total human evil, regrets making humanity, and resolves to destroy. But Noach (Noah) finds favor. God instructs Noah to build a *tebah* (box/ark) with specific dimensions, announces the flood, establishes the first covenant (*berit*), and commands Noah to bring animals aboard.
+**What happens:** The "sons of God/the gods" take human wives. YHWH limits human lifespan to 120 years. The nephilim are on the land. YHWH sees total human evil, regrets making humanity, and resolves to destroy. But Noah finds favor. God instructs Noah to build an ark (a box-like vessel) with specific dimensions, announces the flood, establishes the first covenant, and commands Noah to bring animals aboard.
 
-**Key themes:** The *bene ha-elohim* — three possible meanings preserved (divine beings, human rulers, or the line of Seth); the nephilim (transliterated, not "giants"); *yadon* — genuinely uncertain verb (remain/contend); divine regret (*nacham* — same root as Noah's name); "God saw" inverted (creation: "saw that good" → here: "saw that great was the evil"); *chamas* (violence) as the named sin; the *tebah* as a sealed container, not a ship; *kopher/kippur* wordplay (the word for the pitch sealant shares its root with the word for ritual atonement).
+**Key themes:** The "sons of God" — three possible meanings preserved (divine beings, human rulers, or the line of Seth); the nephilim (kept as the Hebrew term, not "giants"); a genuinely uncertain verb (remain/contend); divine regret (the same root as Noah's name); "God saw" inverted (creation: "saw that good" → here: "saw that great was the evil"); violence as the named sin; the ark as a sealed container, not a ship; a wordplay in which the word for the pitch sealant shares its root with the word for ritual atonement.
 
-**Watch for:** The destruction order (6:7) reverses the creation order; YHWH appears in vv.1–8 (emotional, relational), Elohim in vv.9–22 (instructional, covenantal); the first occurrence of *berit* (covenant) in the Bible — announced before its terms are disclosed; "two from all" (6:19) vs. "seven pairs" of clean animals (7:2) — an internal tension the TT preserves.
+**Watch for:** The destruction order (6:7) reverses the creation order; YHWH appears in vv.1–8 (emotional, relational), Elohim in vv.9–22 (instructional, covenantal); the first occurrence of the word covenant in the Bible — announced before its terms are disclosed; "two from all" (6:19) vs. "seven pairs" of clean animals (7:2) — an internal tension the TT preserves.
 
-**Connection:** The *nacham* root links 5:29 (Noah = comfort) with 6:6 (YHWH regretted). The flood reverses Day 2's water-separation (1:6–7), making the flood a de-creation event continued in Chapters 7–8.
+**Connection:** The "comfort/regret" root links 5:29 (Noah = comfort) with 6:6 (YHWH regretted). The flood reverses Day 2's water-separation (1:6–7), making the flood a de-creation event continued in Chapters 7–8.
 
 ---
 

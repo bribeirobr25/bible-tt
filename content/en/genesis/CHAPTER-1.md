@@ -44,9 +44,9 @@
 
 **What happens:** God creates the ordered world in six days. Creation proceeds through divine speech ("and God said"), separation (light/dark, waters above/below, sea/land), population (vegetation, luminaries, creatures, humans), and blessing (fertility, dominion).
 
-**Key themes:** Order from chaos (*tohu vavohu*); creation by speech; the *raqia* as cosmic structure; reproduction "to its kind"; humanity in the image (*tselem*) of God; vegetarian diet assigned.
+**Key themes:** Order from chaos; creation by speech; the expanse (sky) as cosmic structure; reproduction "to its kind"; humanity in the image of God; vegetarian diet assigned.
 
-**Watch for:** The refrain "and God saw that good" (6×, then "very good"); the shift from "God" (*Elohim*) throughout — YHWH does not appear until Chapter 2; the plural "let us make" (1:26); dominion over creatures but not over waters as cosmic domain.
+**Watch for:** The refrain "and God saw that good" (6×, then "very good"); the shift from the generic "God" to the personal name YHWH, which does not appear until Chapter 2; the plural "let us make" (1:26); dominion over creatures but not over waters as cosmic domain.
 
 **Connection:** This chapter establishes the ordered world that Chapter 2 will revisit from a different angle, and that Chapters 6–9 will de-create and re-create through the flood.
 

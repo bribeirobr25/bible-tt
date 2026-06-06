@@ -43,9 +43,9 @@
 
 ## KAPITELÜBERSICHT
 
-**Was geschieht:** Qayin (Kain) (Bauer) und Hevel (Abel) (Hirte) bringen Gaben dar; JHWH blickt auf Abels, aber nicht auf Kains. Trotz göttlicher Warnung tötet Kain Abel. JHWH stellt Kain zur Rede, erklärt ihn zum Umherirrenden, zeichnet ihn zum Schutz und Kain lässt sich im Land Nod nieder. Kains Genealogie folgt: Städtebau, Viehwirtschaft, Musik, Metallbearbeitung — gipfelnd in Lamechs Lied eskalierter Gewalt. Das Kapitel schließt mit Sets Geburt und dem Beginn des Anrufens von JHWHs Namen.
+**Was geschieht:** Kain (Bauer) und Abel (Hirte) bringen Gaben dar; JHWH blickt auf Abels, aber nicht auf Kains. Trotz göttlicher Warnung tötet Kain Abel. JHWH stellt Kain zur Rede, erklärt ihn zum Umherirrenden, zeichnet ihn zum Schutz und Kain lässt sich im Land Nod nieder. Kains Genealogie folgt: Städtebau, Viehwirtschaft, Musik, Metallbearbeitung — gipfelnd in Lamechs Lied eskalierter Gewalt. Das Kapitel schließt mit Sets Geburt und dem Beginn des Anrufens von JHWHs Namen.
 
-**Zentrale Themen:** Die erste Gabe und der erste Mord; göttliche Warnung unbeachtet (4:6–7, „die Sünde lagert an der Tür"); „Bin ich der Hüter meines Bruders?"; Blut, das vom Boden schreit (*adamah* erneut); das Zeichen Kains als Schutz; die Ursprünge der Zivilisation in der Linie des Mörders; Gewalteskalation (7-fach → 77-fach); Shet (Set) als Ersatzlinie.
+**Zentrale Themen:** Die erste Gabe und der erste Mord; göttliche Warnung unbeachtet (4:6–7, „die Sünde lagert an der Tür"); „Bin ich der Hüter meines Bruders?"; Blut, das vom Boden schreit (*adamah* erneut); das Zeichen Kains als Schutz; die Ursprünge der Zivilisation in der Linie des Mörders; Gewalteskalation (7-fach → 77-fach); Set als Ersatzlinie.
 
 **Achten Sie auf:** Der Text erklärt nie, *warum* JHWH auf Abels Gabe blickte und nicht auf Kains — die Leerstelle ist der Auslöser der Erzählung; Kains Strafe spiegelt die Adams (beide vom *adamah* vertrieben); Lamechs Lied (4:23–24) verkehrt JHWHs 7-fachen Schutz in 77-fache Rache; zwei Henochs und zwei Lamechs erscheinen in den parallelen Genealogien (Kap. 4 vs. Kap. 5).
 

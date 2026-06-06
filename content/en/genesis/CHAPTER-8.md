@@ -44,13 +44,13 @@
 
 ## CHAPTER OVERVIEW
 
-**What happens:** God remembers Noach (Noah). The waters recede: fountains and windows are stopped, wind passes over the land. The *tebah* rests on Ararat. Noah sends a raven (goes back and forth), then a dove three times (returns, returns with olive leaf, does not return). Noah removes the covering, sees dry ground. God commands exit. Noah builds an altar and sacrifices. YHWH smells the resting aroma and resolves "never again" — using the same diagnosis (evil inclination) that prompted the flood.
+**What happens:** God remembers Noah. The waters recede: fountains and windows are stopped, wind passes over the land. The ark rests on Ararat. Noah sends a raven (goes back and forth), then a dove three times (returns, returns with olive leaf, does not return). Noah removes the covering, sees dry ground. God commands exit. Noah builds an altar and sacrifices. YHWH smells the resting aroma and resolves "never again" — using the same diagnosis (evil inclination) that prompted the flood.
 
-**Key themes:** "God remembered" (*vayyizkor*) as the narrative turning point; the flood's recession mirrors creation (wind over waters, dry land appearing); the raven and dove as scouts; the olive leaf as sign of recovery; the first altar (*mizbeach*); the *nichoach* wordplay (the Hebrew word for "resting/soothing" aroma sounds like Noach's name — both share the same consonants); the paradox of 8:21 — evil inclination now prompts restraint, not destruction.
+**Key themes:** "God remembered" as the narrative turning point; the flood's recession mirrors creation (wind over waters, dry land appearing); the raven and dove as scouts; the olive leaf as sign of recovery; the first altar; a wordplay in which the Hebrew for the "resting/soothing" aroma echoes Noah's name (Noach) — they share the same consonants; the paradox of 8:21 — evil inclination now prompts restraint, not destruction.
 
 **Watch for:** The recession reverses the flood in the same order the flood reversed creation — a three-layer narrative structure (creation → de-creation → re-creation); the specific dates resume (8:4, 5, 13, 14) — the flood narrative spans approximately one solar year (370–371 days by the text's own arithmetic); "said in his heart" (8:21) — divine interiority, not public declaration; the never-again promise precedes the covenant ceremony of Chapter 9.
 
-**Connection:** The altar and sacrifice (8:20) anticipate the formal covenant in Chapter 9. The *nacham* root appears again implicitly — Noah, the one named "comfort" (5:29), has survived the event of divine "regret" (6:6).
+**Connection:** The altar and sacrifice (8:20) anticipate the formal covenant in Chapter 9. The "comfort/regret" root appears again implicitly — Noah, the one named "comfort" (5:29), has survived the event of divine "regret" (6:6).
 
 ---
 

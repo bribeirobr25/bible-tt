@@ -1685,3 +1685,50 @@ Applied from consolidated external proposals (`docs/audit/GENESIS-1-EN-PROPOSAL.
 - **Cross-references:** `docs/audit/SOURCE_ANALYSIS_FOLLOWUP_PLAN.md` (Part A); `docs/audit/SOURCE_ANALYSIS_Q6_VALIDATION.md` §2.1 + §2.2 (marked RESOLVED); `docs/source-analysis/hebrew/genesis-1-06-08.md` (corpus TT-status updated); `content/{en,pt-br,de,es}/genesis/CHAPTER-1.md` v6 (Tier 1 ×2 + note) + `study/CHAPTER-1-CONTEXT.md` §A4.
 
 ---
+
+## Entry 2026-06-05-112 — ES Continuous↔Verse consistency fixes (Phase 4 Text QA)
+
+- **Verse:** Genesis 1:2; 7:1, 7:2, 7:3, 7:4, 7:6, 7:7, 7:22; 9:25 (ES locale only).
+- **Language(s) affected:** ES.
+- **Rule(s) invoked:** CORE Rule 16 (cross-locale / cross-view alignment); Rule 11 (italic-marked additions); Rule 28 (project-lead authority).
+- **Decision:** Phase 4 text-QA pass found the ES CONTINUOUS READING and VERSE-BY-VERSE sections had drifted in three chapters; the verse text was corrected to match the (correct) continuous form. **(1) Gen 1:2** — removed the italic copula *había* from the verse ("y tinieblas *había* sobre la faz" → "y tinieblas sobre la faz"), matching the Hebrew verbless clause and the continuous rendering (BAR decision 2026-06-05: drop *había*). **(2) Gen 7** — restored eight dropped Spanish diacritics in the verse text that the continuous side already had correct: *tú* (7:1, subject pronoun), *mí* (7:1), *tomarás* (7:2), *También* (7:3), *aún* / *borraré* (7:4), *tenía* (7:6, 7:22), *él* (7:7). **(3) Gen 9:25** — *será* ("siervo de siervos *será* para sus hermanos").
+- **Justification:** these were unintentional inconsistencies between the two reading views (the verse-by-verse had lost accents / gained an added copula relative to the continuous prose), not editorial choices. Possessive *tu* / article *el* instances were left untouched; only the flagged subject-pronoun / accented-verb forms were corrected.
+- **AI provenance:** claude-opus-4-8 (1M context), 2026-06-05, executing `docs/audit/PHASE_4_TEXT_QA_PLAN.md` (re-scoped Phase 4). Detection: word-level continuous↔verse equivalence probe (61→68 chapters identical after fixes; remaining 4 are intentional name-rendering). Validation: 827 tests (incl. new chapter-completeness guard) · build · lint · content-lint baseline.
+- **Status:** provisional.
+- **Reviewers:** ES locale-editor unassigned (confirm the *había* drop + accent restorations).
+- **Cross-references:** `docs/audit/PHASE_4_TEXT_QA_PLAN.md`; `content/es/genesis/CHAPTER-{1,7,9}.md`; sister entry `docs/editorial-log/john.md` J-028.
+
+## Entry 2026-06-06-113 — EN chapter-overview de-jargon (Phase 5b, EN-first)
+
+- **Verse:** All Genesis 1–12 chapter **overviews** (the CHAPTER OVERVIEW section only; main text, notes, and companions untouched).
+- **Language(s) affected:** EN (PT-BR / DE / ES queued as the next increment per EN-first workflow).
+- **Rule(s) invoked:** UX-REVIEW Q6 (overview de-jargon — "transliterations live in the verse notes, not the summary"); Q1=C (broad, newcomer-facing positioning); CORE Rule 25 (YHWH retained); Rule 28 (project-lead authority).
+- **Decision:** De-jargoned every EN chapter overview: (1) **proper names → familiar form only** in the summary (e.g. "Noach (Noah)" → "Noah", "Yeshua (Jesus)" → "Jesus", "Beyt-Lechem (Bethlehem)" → "Bethlehem"); (2) **technical transliterations removed in favour of plain English** (e.g. "(*tohu vavohu*)" dropped; "the *raqia*" → "the expanse (sky)"; "image (*tselem*)" → "image"); (3) **wordplays/features kept as plain-English signposts** rather than bare transliteration (e.g. "the *arum/arom* wordplay (crafty/naked)" → "the crafty/naked wordplay"; "the Bavel/balal wordplay" → "the Babel/confuse (Bavel/balal) wordplay"). YHWH retained per Rule 25. The full transliterated forms remain in the chapter text and notes — only the summary was simplified.
+- **Justification:** the overview is the newcomer's first contact with each chapter; dense unexplained transliteration (10–24 per overview) contradicted the broad-audience positioning. Residual italic count dropped to ~4 per overview (mostly Rule-11 added-word emphasis + a few original-language cross-refs). Changes confined to the overview slice via a scripted, count-checked pass; no main-text name-rendering altered.
+- **AI provenance:** claude-opus-4-8 (1M context), 2026-06-06, executing `docs/audit/PHASE_5_UX_FINISH_PLAN.md` 5b (EN-first). Validation: 827 tests (chapter-overview=72 conserved) · build · lint · content-lint baseline.
+- **Status:** provisional (EN complete; PT-BR/DE/ES + book tight-cards queued).
+- **Reviewers:** EN editor unassigned.
+- **Cross-references:** `docs/audit/PHASE_5_UX_FINISH_PLAN.md`; sister entries across genesis/john/matthew logs (same pass); `content/en/{genesis,john,matthew}/CHAPTER-*.md` overview sections.
+
+## Entry 2026-06-06-114 — PT/DE/ES chapter-overview de-jargon: names + bare glosses (Phase 5b)
+
+- **Verse:** All Genesis 1–12 chapter **overviews**, PT-BR / DE / ES (overview slice only; main text/notes/companions untouched — confinement verified against git for every file).
+- **Language(s) affected:** PT-BR, DE, ES (EN done earlier — see 2026-06-06-113).
+- **Rule(s) invoked:** UX-REVIEW Q6 (overview de-jargon); Q1=C (broad positioning); CORE Rule 25 (YHWH/JHWH retained); Rule 28.
+- **Decision:** Applied the EN de-jargon pattern to the non-EN overviews in two confined, count-checked passes: **(A)** removed pure bare-gloss transliteration parentheticals (e.g. `(*tohu vavohu*)`, `(*tselem*)`, `(*Elohim*)`); **(B)** collapsed `Translit (Familiar)` name pairs to the locale familiar form; **(B2)** converted **bare** transliterated names to the locale familiar form (ES overviews used bare transliterations throughout — Yeshua→Jesús, Avraham→Abraham, Yosef→José, Miryam→María, etc.), protecting etymology contexts (`Yeshua/Yehoshua` preserved). Names are now consistently familiar across all four locales.
+- **Justification:** completes the newcomer-facing name de-jargon for the non-EN overviews (ES was the most transliteration-heavy). **Inline technical terms (Pattern C — *raqia*, *adamah*, *toledot*, *logos*, *pneuma*, *biblos geneseōs*, etc.) remain transliterated in the non-EN overviews** and are queued as a separate per-locale glossing pass (EN already glosses these); they need locale-correct plain renderings + grammar agreement and were deliberately not automated.
+- **AI provenance:** claude-opus-4-8 (1M context), 2026-06-06, `PHASE_5_UX_FINISH_PLAN.md` 5b. A scripted pass introduced one accent-boundary corruption (`\bGalil\b` matched inside DE `Galiläa` → `Galiläaäa` in 3 files) — **caught in review and fixed**. Validation: 827 tests (chapter-overview=72 conserved) · build · lint · content-lint baseline; confinement re-verified.
+- **Status:** provisional (names + bare glosses done; Pattern C inline terms pending).
+- **Reviewers:** PT-BR / DE / ES locale-editors unassigned.
+- **Cross-references:** `docs/audit/PHASE_5_UX_FINISH_PLAN.md`; EN sister entry 2026-06-06-113; `content/{pt-br,de,es}/genesis/CHAPTER-*.md` overview sections.
+
+## Entry 2026-06-06-115 — Book "tight card" authored (Phase 5b)
+
+- **Verse:** Book-level (INTRODUCTION.md), all 4 locales.
+- **Language(s) affected:** EN, PT-BR, DE, ES.
+- **Rule(s) invoked:** UX-REVIEW Q6 / item 7 (book overview → tight card); Q1=C (newcomer-facing); Rule 28.
+- **Decision:** Added an at-a-glance "tight card" — **What · When · Who · To whom · Why** — to Genesis's INTRODUCTION.md in all 4 locales, stored as a language-neutral `<!-- CARD -->` block (localized `**Label:** value` lines, parsed by position). The book landing now leads with this card + "Read the full introduction →", replacing the long Section-A overview dump (kills card-soup). Values are concise summaries drawn from the existing introduction (authorship/dating hedged to standard scholarly ranges; traditional + critical attributions both noted, per Rule 3 restraint).
+- **AI provenance:** claude-opus-4-8 (1M context), 2026-06-06, `docs/audit/PHASE_5B_BOOK_CARDS_PLAN.md`. New: `BookCardField` type + `parseBookCard` + `BookCard` UI + landing rewire + parser tests (840 total). Validation: build · lint · content-lint baseline; runtime-verified card renders in all locales.
+- **Status:** provisional.
+- **Reviewers:** locale-editors unassigned (verify the summary wording per locale).
+- **Cross-references:** `docs/audit/PHASE_5B_BOOK_CARDS_PLAN.md`; `content/{en,pt-br,de,es}/genesis/INTRODUCTION.md` (CARD block).

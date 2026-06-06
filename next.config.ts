@@ -15,6 +15,12 @@ const nextConfig: NextConfig = {
         destination: "/:locale/:book/chapter/:chapter",
         permanent: true,
       },
+      {
+        // Phase 3: "Context" book page renamed to "Background".
+        source: "/:locale/:book/context",
+        destination: "/:locale/:book/background",
+        permanent: true,
+      },
     ];
   },
   async headers() {

@@ -45,7 +45,7 @@
 
 ## VISIÓN GENERAL DEL CAPÍTULO
 
-**Qué sucede:** YHWH ordena a Noaj (Noé) entrar en la *tebah* con su familia y los animales — animales limpios de siete en siete, los demás de dos en dos. Después de siete días, el diluvio comienza: las fuentes del abismo se abren y las ventanas del cielo se abren. Las aguas suben durante 40 días, cubriendo todas las montañas altas. Toda criatura que respira en tierra fuera de la *tebah* muere. Las aguas prevalecen durante 150 días.
+**Qué sucede:** YHWH ordena a Noé entrar en la *tebah* con su familia y los animales — animales limpios de siete en siete, los demás de dos en dos. Después de siete días, el diluvio comienza: las fuentes del abismo se abren y las ventanas del cielo se abren. Las aguas suben durante 40 días, cubriendo todas las montañas altas. Toda criatura que respira en tierra fuera de la *tebah* muere. Las aguas prevalecen durante 150 días.
 
 **Temas clave:** La distinción limpio/impuro anterior al Sinaí; el diluvio como inversión cosmológica — las aguas sobre y bajo el *raqia* (Día 2) se reúnen; el *mabbul* (diluvio — palabra usada solo para este evento); fechas calendáricas específicas a lo largo del relato; YHWH cierra la puerta (7:16 — Noé no se sella a sí mismo dentro); destrucción total de la vida terrestre.
 
@@ -75,7 +75,7 @@
 
 ### **Versículo 1**
 
-Y YHWH dijo a Noé, "Ven, tu y toda tu casa, a la tebah, pues a ti he visto *como* justo ante mi en esta generación.
+Y YHWH dijo a Noé, "Ven, tú y toda tu casa, a la tebah, pues a ti he visto *como* justo ante mí en esta generación.
 
 > **📝 NOTAS**
 >
@@ -89,7 +89,7 @@ Y YHWH dijo a Noé, "Ven, tu y toda tu casa, a la tebah, pues a ti he visto *com
 
 ### **Versículo 2**
 
-De todo el ganado limpio tomaras para ti siete siete, macho y su hembra, y del ganado que no *es* limpio, dos, macho y su hembra.
+De todo el ganado limpio tomarás para ti siete siete, macho y su hembra, y del ganado que no *es* limpio, dos, macho y su hembra.
 
 > **📝 NOTAS**
 >
@@ -104,7 +104,7 @@ De todo el ganado limpio tomaras para ti siete siete, macho y su hembra, y del g
 
 ### **Versículo 3**
 
-Tambien del ave del cielo, siete siete, macho y hembra, para mantener viva simiente sobre la faz de toda la tierra.
+También del ave del cielo, siete siete, macho y hembra, para mantener viva simiente sobre la faz de toda la tierra.
 
 > **📝 NOTAS**
 >
@@ -115,7 +115,7 @@ Tambien del ave del cielo, siete siete, macho y hembra, para mantener viva simie
 
 ### **Versículo 4**
 
-Pues en aun siete días yo *estoy* enviando lluvia sobre la tierra, cuarenta días y cuarenta noches, y borrare toda cosa existente que hice de sobre la faz del suelo."
+Pues en aún siete días yo *estoy* enviando lluvia sobre la tierra, cuarenta días y cuarenta noches, y borraré toda cosa existente que hice de sobre la faz del suelo."
 
 > **📝 NOTAS**
 >
@@ -140,7 +140,7 @@ Y Noé hizo conforme a todo lo que YHWH le ordenó.
 
 ### **Versículo 6**
 
-Y Noé *tenia* seiscientos años, y el diluvio de aguas fue sobre la tierra.
+Y Noé *tenía* seiscientos años, y el diluvio de aguas fue sobre la tierra.
 
 > **📝 NOTAS**
 >
@@ -151,7 +151,7 @@ Y Noé *tenia* seiscientos años, y el diluvio de aguas fue sobre la tierra.
 
 ### **Versículo 7**
 
-Y Noé fue, y sus hijos y su mujer y las mujeres de sus hijos con el, a la tebah, de la faz de las aguas del diluvio.
+Y Noé fue, y sus hijos y su mujer y las mujeres de sus hijos con él, a la tebah, de la faz de las aguas del diluvio.
 
 ---
 
@@ -292,7 +292,7 @@ Y pereció toda carne que se mueve sobre la tierra — el ave y el ganado y el s
 
 ### **Versículo 22**
 
-Todo lo que *tenia* aliento del viento/espíritu de vida en sus narices, de todo lo que *estaba* sobre lo seco, murió.
+Todo lo que *tenía* aliento del viento/espíritu de vida en sus narices, de todo lo que *estaba* sobre lo seco, murió.
 
 > **📝 NOTAS**
 >

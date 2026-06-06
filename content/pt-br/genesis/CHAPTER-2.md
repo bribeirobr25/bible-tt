@@ -52,7 +52,7 @@
 
 **Observe:** O nome divino muda para YHWH Elohim (a partir de 2:4); a ordem de criação difere do Capítulo 1 (humano antes dos animais em 2:7, 19); o "não bom" — a única avaliação negativa na criação; a *tardemah* (sono profundo); "osso dos meus ossos" como a primeira fala humana.
 
-**Conexão:** As árvores introduzidas aqui — conhecimento e vida — conduzem a narrativa do Capítulo 3. A relação entre o humano e o solo (*adam/adamah*) torna-se a base para a maldição em 3:17–19.
+**Conexão:** As árvores introduzidas aqui — conhecimento e vida — conduzem a narrativa do Capítulo 3. A relação entre o humano e o solo torna-se a base para a maldição em 3:17–19.
 
 ---
 

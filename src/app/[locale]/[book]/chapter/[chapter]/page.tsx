@@ -6,8 +6,7 @@ import {
   getAllChapterParams,
   getAvailableChapters,
   getChapterData,
-  getEnrichmentData,
-  getProphecyData,
+  hasDeeperContent,
 } from "@/lib/content-loader";
 import type { Locale } from "@/lib/i18n";
 import {
@@ -17,7 +16,8 @@ import {
   seoMetadata,
   truncateDescription,
 } from "@/lib/seo";
-import { ChapterView } from "@/ui/shared/chapter-view";
+import { ContinuousReading } from "@/ui/reading/continuous-reading";
+import { ChapterShell } from "@/ui/shared/chapter-shell";
 import { JsonLd } from "@/ui/shared/json-ld";
 
 export async function generateStaticParams() {
@@ -66,15 +66,10 @@ export default async function ChapterPage({
     notFound();
   }
 
-  const enrichment = await getEnrichmentData(
-    locale as Locale,
-    book,
-    chapterNum,
-  );
-  const prophecy = await getProphecyData(locale as Locale, book, chapterNum);
   const chapters = await getAvailableChapters(locale, book);
   const totalChapters =
     chapters.length > 0 ? Math.max(...chapters) : chapterNum;
+  const hasDeeper = await hasDeeperContent(locale as Locale, book, chapterNum);
 
   const bookName = t(`book.${book}`);
   return (
@@ -102,15 +97,17 @@ export default async function ChapterPage({
           ]),
         ]}
       />
-      <ChapterView
-        data={data}
-        enrichment={enrichment}
-        prophecy={prophecy}
+      <ChapterShell
         locale={locale}
         book={book}
         chapterNum={chapterNum}
         totalChapters={totalChapters}
-      />
+        data={data}
+        active="read"
+        hasDeeper={hasDeeper}
+      >
+        <ContinuousReading paragraphs={data.continuousReading} />
+      </ChapterShell>
     </>
   );
 }

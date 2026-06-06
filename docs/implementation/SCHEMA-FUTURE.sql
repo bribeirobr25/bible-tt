@@ -6,6 +6,8 @@
 
 **Architecture Note:** Content (books, chapters, verses) remains in markdown → SSG. This database stores **user data only**.
 
+**Phase 2 stable-ID note (2026-06-04):** The structured layer (`src/domain/content/ids.ts` + `structured.ts`) now assigns every content unit a stable, locale-independent, deterministic ID — e.g. `genesis.1.3` (verse), `genesis.1.3#n2` (note), `genesis.people#adam` (person), `genesis.context#<slug>` (motif). These IDs are the natural **primary keys** for the reference content tables below and the **foreign keys** for any future user-data row that points at content (a bookmark → `genesis.1.3`, a community note → `genesis.1.3#n2`). Keeping content in markdown stays correct (Q7 = defer DB); the IDs make a later migration portable without a re-keying pass.
+
 ---
 
 ## PostgreSQL Schema

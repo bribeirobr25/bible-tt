@@ -43,11 +43,11 @@
 
 ## VISÃO GERAL DO CAPÍTULO
 
-**O que acontece:** Qayin (Caim) (agricultor) e Hevel (Abel) (pastor) trazem ofertas; YHWH olha para a de Abel, mas não para a de Caim. Apesar do aviso divino, Caim mata Abel. YHWH confronta Caim, declara-o errante, marca-o para proteção, e Caim se estabelece na terra de Nod. Segue-se a genealogia de Caim: construção de cidades, economia pastoril, música, metalurgia — culminando no cântico de Lemekh (Lameque) de violência escalada. O capítulo encerra com o nascimento de Shet (Sete) e o início da invocação do nome de YHWH.
+**O que acontece:** Caim (agricultor) e Abel (pastor) trazem ofertas; YHWH olha para a de Abel, mas não para a de Caim. Apesar do aviso divino, Caim mata Abel. YHWH confronta Caim, declara-o errante, marca-o para proteção, e Caim se estabelece na terra de Nod. Segue-se a genealogia de Caim: construção de cidades, economia pastoril, música, metalurgia — culminando no cântico de Lameque de violência escalada. O capítulo encerra com o nascimento de Sete e o início da invocação do nome de YHWH.
 
 **Temas-chave:** A primeira oferta e o primeiro assassinato; aviso divino desobedecido (4:6–7, "o pecado se agacha à porta"); "Sou eu o guardador do meu irmão?"; sangue clamando desde o solo (*adamah* novamente); a marca de Caim como proteção; as origens da civilização na linhagem do assassino; escalada de violência (7 vezes para 77 vezes); Sete como linhagem substituta.
 
-**Observe:** O texto nunca explica *por que* YHWH olhou para a oferta de Abel e não para a de Caim — a lacuna é o gatilho da narrativa; o castigo de Caim ecoa o de Adão (ambos expulsos da *adamah*); o cântico de Lameque (4:23–24) inverte a proteção de YHWH de 7 vezes em vingança de 77 vezes; dois Chanokhs (Enoques) e dois Lameques aparecem nas genealogias paralelas (Cap. 4 vs. Cap. 5).
+**Observe:** O texto nunca explica *por que* YHWH olhou para a oferta de Abel e não para a de Caim — a lacuna é o gatilho da narrativa; o castigo de Caim ecoa o de Adão (ambos expulsos da *adamah*); o cântico de Lameque (4:23–24) inverte a proteção de YHWH de 7 vezes em vingança de 77 vezes; dois Enoques e dois Lameques aparecem nas genealogias paralelas (Cap. 4 vs. Cap. 5).
 
 **Conexão:** A genealogia cainita (Capítulo 4) é paralela à genealogia setita (Capítulo 5). A violência que começa aqui enche a terra até o Capítulo 6, desencadeando o dilúvio.
 

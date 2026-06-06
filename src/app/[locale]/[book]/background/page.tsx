@@ -30,7 +30,7 @@ export async function generateMetadata({
   const t = await getTranslations({ locale });
   return seoMetadata({
     locale,
-    path: `${book}/context`,
+    path: `${book}/background`,
     title: `${t(`book.${book}`)} — ${t("nav.bookContext")}`,
     description: truncateDescription(t("nav.bookContextDescription")),
   });
@@ -61,7 +61,7 @@ export default async function BookContextPage({
           { name: t(`book.${book}`), url: canonicalUrl(locale, book) },
           {
             name: t("nav.bookContext"),
-            url: canonicalUrl(locale, `${book}/context`),
+            url: canonicalUrl(locale, `${book}/background`),
           },
         ])}
       />

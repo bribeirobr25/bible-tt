@@ -15,6 +15,14 @@
 
 ---
 
+<!-- CARD -->
+**Qué:** Un Evangelio que presenta a Jesús como el mesías prometido de Israel y un nuevo Moisés.
+**Cuándo:** Sucesos hacia 28–30 e. c.; escrito aproximadamente entre 80–90 e. c.
+**Quién:** Tradicionalmente Mateo, el recaudador de impuestos; la autoría se debate.
+**Para quién:** Un público mayormente judeocristiano, al que se muestra a Jesús como cumplimiento de las Escrituras de Israel.
+**Por qué:** Para presentar a Jesús como el mesías y maestro que cumple la Ley y los Profetas.
+<!-- /CARD -->
+
 ## CÓMO USAR ESTA INTRODUCCIÓN
 
 Este archivo contiene material de contexto organizado por tema. Cada entrada lleva **dos etiquetas:**

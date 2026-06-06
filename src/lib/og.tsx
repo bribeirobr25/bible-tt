@@ -8,7 +8,7 @@ export const OG_CONTENT_TYPE = "image/png";
 const PAPER = "#F5F1E8"; // --color-bg-paper
 const INK = "#2A2620"; // --color-text-primary
 const SECONDARY = "#5C554B"; // --color-text-secondary
-const ACCENT = "#B0712E"; // --color-accent
+const ACCENT = "#1F6A7D"; // --color-accent (Phase 5: deep teal/petrol)
 
 function clamp(text: string, max: number): string {
   const t = text.replace(/\s+/g, " ").trim();

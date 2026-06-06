@@ -45,13 +45,13 @@
 
 ## CHAPTER OVERVIEW
 
-**What happens:** YHWH commands Noach (Noah) to enter the *tebah* with his family and the animals — clean animals by sevens, others by twos. After seven days, the flood begins: fountains of the deep burst open and the windows of the sky open. Waters rise for 40 days, covering all high mountains. Every land-breathing creature outside the *tebah* dies. Waters prevail for 150 days.
+**What happens:** YHWH commands Noah to enter the ark with his family and the animals — clean animals by sevens, others by twos. After seven days, the flood begins: fountains of the deep burst open and the windows of the sky open. Waters rise for 40 days, covering all high mountains. Every land-breathing creature outside the ark dies. Waters prevail for 150 days.
 
-**Key themes:** Clean/unclean distinction predating Sinai; the flood as cosmological reversal — waters above and below the *raqia* (Day 2) reunite; the *mabbul* (flood — a word used only for this event); specific calendar dates throughout; YHWH closes the door (7:16 — Noah does not seal himself in); total destruction of land life.
+**Key themes:** Clean/unclean distinction predating Sinai; the flood as cosmological reversal — the waters above and below the expanse (Day 2) reunite; the flood (a Hebrew word used only for this event); specific calendar dates throughout; YHWH closes the door (7:16 — Noah does not seal himself in); total destruction of land life.
 
 **Watch for:** "Seven seven" for clean animals (7:2) after "two from all" (6:19–20) — the TT preserves both without harmonization; the flood dates create a precise chronology spanning one solar year; "YHWH closed behind him" (7:16) — the divine name appears at the moment of sealing; the phrase "all the high mountains under all the skies" (7:19) — the text's own scope claim.
 
-**Connection:** The flood mechanism (7:11) precisely reverses Genesis 1:6–7 (the *raqia* separating waters). Chapter 8 will reverse the flood, re-establishing Day 2's separation.
+**Connection:** The flood mechanism (7:11) precisely reverses Genesis 1:6–7 (the expanse separating the waters). Chapter 8 will reverse the flood, re-establishing Day 2's separation.
 
 ---
 

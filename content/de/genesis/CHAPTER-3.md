@@ -53,7 +53,7 @@
 
 **Achten Sie auf:** Die Schlange verwendet nur „Elohim", nie „JHWH Elohim"; der Mann war „mit ihr" während des Dialogs (3:6); „sterbend wirst du sterben" (2:17) versus „nicht sterbend werdet ihr sterben" (3:4) — dieselbe grammatische Konstruktion, verneint; die Worte des Textes in 3:22 greifen die Behauptung der Schlange in 3:5 auf, während der Erzählkontext Konsequenzen zeigt, die die Schlange nicht erwähnt hat; „Staub *bist* du" (Präsens, nicht Futur) — Sterblichkeit als inhärent, nicht neu auferlegt.
 
-**Verbindung:** Die Vertreibung aus dem Garten führt direkt zu Qayin (Kain) und Hevel (Abel) (Kapitel 4). Der Fluch über den Boden (3:17) hallt wider in 5:29 (Noahs Benennung) und 8:21 (JHWHs Entschluss nach der Flut).
+**Verbindung:** Die Vertreibung aus dem Garten führt direkt zu Kain und Abel (Kapitel 4). Der Fluch über den Boden (3:17) hallt wider in 5:29 (Noahs Benennung) und 8:21 (JHWHs Entschluss nach der Flut).
 
 ---
 

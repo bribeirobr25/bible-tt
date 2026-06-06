@@ -105,7 +105,7 @@ function getBreadcrumb(
   if (segments.length === 2 && validBooks.includes(segments[0])) {
     const sub = segments[1];
     // Sub-route pages under a book — pick the correct label by sub-route name.
-    if (sub === "context") {
+    if (sub === "background") {
       return {
         href: `/${locale}/${segments[0]}`,
         label: t(`book.${segments[0]}`),
@@ -146,6 +146,25 @@ function getBreadcrumb(
       href: `/${locale}/${segments[0]}`,
       label: t(`book.${segments[0]}`),
       current: t("chapter.chapterN", { n: segments[2] }),
+    };
+  }
+
+  // Phase 3: `/{book}/chapter/{n}/{notes|deeper}` — chapter door pages.
+  if (
+    segments.length === 4 &&
+    validBooks.includes(segments[0]) &&
+    segments[1] === "chapter"
+  ) {
+    const door = segments[3];
+    return {
+      href: `/${locale}/${segments[0]}/chapter/${segments[2]}`,
+      label: t("chapter.chapterN", { n: segments[2] }),
+      current:
+        door === "notes"
+          ? t("nav.doorNotes")
+          : door === "deeper"
+            ? t("nav.doorDeeper")
+            : t("chapter.chapterN", { n: segments[2] }),
     };
   }
 

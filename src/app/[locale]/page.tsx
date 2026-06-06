@@ -1,10 +1,4 @@
-import {
-  BookOpen,
-  Compass,
-  Layers,
-  NotebookPen,
-  ScrollText,
-} from "lucide-react";
+import { BookOpen, Layers, NotebookPen } from "lucide-react";
 import type { Metadata } from "next";
 import { getTranslations, setRequestLocale } from "next-intl/server";
 import { seoMetadata, truncateDescription, websiteJsonLd } from "@/lib/seo";
@@ -24,7 +18,7 @@ export async function generateMetadata({
     path: "",
     title: t("site.title"),
     description: truncateDescription(
-      `${t("site.subtitle")} ${t("landing.hook")}`,
+      `${t("landing.heroHeadline")} ${t("landing.heroSub")}`,
     ),
     absolute: true,
   });
@@ -45,31 +39,37 @@ export default async function LandingPage({
       {/* Hero */}
       <section className="min-h-[85vh] flex flex-col items-center justify-center px-6 py-16 text-center">
         <p className="text-text-muted text-sm uppercase tracking-[0.2em] mb-6 font-[family-name:var(--font-ui)]">
-          {t("landing.languageTagline")}
+          {t("site.title")}
         </p>
         <h1 className="font-[family-name:var(--font-reading)] text-4xl md:text-6xl font-light tracking-tight text-text-primary max-w-3xl leading-[1.15]">
-          {t("site.title")}
+          {t("landing.heroHeadline")}
         </h1>
-        <p className="mt-6 text-text-secondary text-lg md:text-xl italic font-[family-name:var(--font-reading)] max-w-xl">
-          {t("site.subtitle")}
+        <p className="mt-6 text-text-secondary text-lg md:text-xl italic font-[family-name:var(--font-reading)] max-w-2xl">
+          {t("landing.heroSub")}
         </p>
-        <p className="mt-8 text-text-primary text-base md:text-lg max-w-lg leading-relaxed">
-          {t("landing.hook")}
+        <p className="mt-8 text-text-primary text-base md:text-lg max-w-xl leading-relaxed">
+          {t("landing.heroSupport")}
         </p>
         <div className="mt-10 flex flex-col sm:flex-row gap-4">
           <Link
             href="/books"
-            className="min-h-12 inline-flex items-center justify-center px-8 py-3 rounded-md bg-text-primary text-bg-paper font-medium text-sm hover:bg-accent active:scale-95 transition-all duration-200 focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2"
+            className="min-h-12 inline-flex items-center justify-center px-8 py-3 rounded-md bg-accent text-bg-paper font-medium text-sm hover:bg-accent-hover active:scale-95 transition-all duration-200 focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2"
           >
             {t("landing.cta")}
           </Link>
           <Link
-            href="/rules"
+            href="/start"
             className="min-h-12 inline-flex items-center justify-center px-8 py-3 rounded-md border border-border text-text-secondary font-medium text-sm hover:border-accent hover:text-accent active:scale-95 transition-all duration-200 focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2"
           >
-            {t("landing.ctaRules")}
+            {t("landing.ctaStartHere")}
           </Link>
         </div>
+        <Link
+          href="/rules"
+          className="mt-6 text-sm text-text-muted hover:text-accent underline underline-offset-4 transition-colors duration-150 focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2 rounded"
+        >
+          {t("landing.ctaRules")}
+        </Link>
       </section>
 
       {/* The Difference */}
@@ -135,11 +135,9 @@ export default async function LandingPage({
           <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-8 text-left">
             {(
               [
-                { icon: BookOpen, mode: "readingMode", desc: "howReading" },
-                { icon: NotebookPen, mode: "studyMode", desc: "howStudy" },
-                { icon: Compass, mode: "exploreMode", desc: "howExplore" },
-                { icon: Layers, mode: "contextMode", desc: "howContext" },
-                { icon: ScrollText, mode: "prophecyMode", desc: "howProphecy" },
+                { icon: BookOpen, mode: "doorRead", desc: "howReading" },
+                { icon: NotebookPen, mode: "doorNotes", desc: "howStudy" },
+                { icon: Layers, mode: "doorDeeper", desc: "howDeeper" },
               ] as const
             ).map(({ icon: Icon, mode, desc }) => (
               <div key={mode} className="space-y-3">
@@ -197,7 +195,7 @@ export default async function LandingPage({
           <div className="mt-10">
             <Link
               href="/books"
-              className="min-h-12 inline-flex items-center justify-center px-10 py-4 rounded-md bg-text-primary text-bg-paper font-medium hover:bg-accent active:scale-95 transition-all duration-200 focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2"
+              className="min-h-12 inline-flex items-center justify-center px-10 py-4 rounded-md bg-accent text-bg-paper font-medium hover:bg-accent-hover active:scale-95 transition-all duration-200 focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2"
             >
               {t("landing.cta")}
             </Link>

@@ -46,7 +46,7 @@
 
 ## VISIÓN GENERAL DEL CAPÍTULO
 
-**Qué sucede:** El *toledot* de Adán — una genealogía de diez generaciones desde Adán hasta Noé, estructurada por una fórmula fija: "X vivió Y años, engendró a Z, vivió W años más, engendró hijos e hijas, todos sus días fueron N años, y murió." Dos entradas rompen la fórmula: Chanokh (Enoc) ("no fue más, porque Dios lo tomó") y Noé (cuya entrada transiciona al relato del diluvio).
+**Qué sucede:** El *toledot* de Adán — una genealogía de diez generaciones desde Adán hasta Noé, estructurada por una fórmula fija: "X vivió Y años, engendró a Z, vivió W años más, engendró hijos e hijas, todos sus días fueron N años, y murió." Dos entradas rompen la fórmula: Enoc ("no fue más, porque Dios lo tomó") y Noé (cuya entrada transiciona al relato del diluvio).
 
 **Temas clave:** El *sefer toledot* (libro de generaciones) — el único *toledot* con el prefijo "libro"; la cadena imagen/semejanza (Dios a Adán a Set); el implacable estribillo "y murió"; la traslación de Enoc — "caminó con Dios" y "no fue más"; la etimología del nombre de Noé (*nacham*, consuelo/pesar); longevidades extraordinarias (365–969 años).
 

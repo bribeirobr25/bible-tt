@@ -1,6 +1,10 @@
 import type { MetadataRoute } from "next";
 import { locales } from "@/infrastructure/i18n/config";
-import { getAvailableBooks, getAvailableChapters } from "@/lib/content-loader";
+import {
+  getAvailableBooks,
+  getAvailableChapters,
+  hasDeeperContent,
+} from "@/lib/content-loader";
 import { languageAlternates, SITE_URL } from "@/lib/seo";
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
@@ -19,6 +23,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   add(""); // home
   add("books");
   add("rules");
+  add("start");
 
   // Book availability is locale-independent (same files across locales); enumerate via "en".
   const books = await getAvailableBooks("en");
@@ -26,9 +31,15 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     add(book);
     add(`${book}/introduction`);
     add(`${book}/people`);
-    add(`${book}/context`);
+    add(`${book}/background`);
     const chapters = await getAvailableChapters("en", book);
-    for (const ch of chapters) add(`${book}/chapter/${ch}`);
+    for (const ch of chapters) {
+      add(`${book}/chapter/${ch}`);
+      add(`${book}/chapter/${ch}/notes`);
+      if (await hasDeeperContent("en", book, ch)) {
+        add(`${book}/chapter/${ch}/deeper`);
+      }
+    }
   }
 
   return entries;

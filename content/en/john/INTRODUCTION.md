@@ -15,6 +15,14 @@
 
 ---
 
+<!-- CARD -->
+**What:** A theological Gospel presenting Jesus as the eternal "word" made flesh.
+**When:** Events around 28–30 CE; written near the end of the first century (~90–100 CE).
+**Who:** Attributed to John, "the disciple whom Jesus loved"; authorship is debated.
+**To whom:** A late-first-century community, addressing both believers and doubters of Jesus's identity.
+**Why:** "That you may trust that Jesus is the anointed one, the son of God — and have life in his name" (20:31).
+<!-- /CARD -->
+
 ## HOW TO USE THIS INTRODUCTION
 
 This file contains background material organized by topic. Each entry carries **two labels:**

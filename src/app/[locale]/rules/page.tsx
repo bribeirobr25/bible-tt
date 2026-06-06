@@ -149,7 +149,7 @@ export default async function RulesPage({
         <section className="text-center py-10 border-t border-border-muted">
           <Link
             href="/books"
-            className="inline-block px-10 py-4 rounded-md bg-text-primary text-bg-paper font-medium hover:bg-accent transition-colors duration-200"
+            className="inline-block px-10 py-4 rounded-md bg-accent text-bg-paper font-medium hover:bg-accent-hover transition-colors duration-200"
           >
             {t("landing.cta")}
           </Link>

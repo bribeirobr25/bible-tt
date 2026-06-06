@@ -45,7 +45,7 @@
 
 ## VISIÓN GENERAL DEL CAPÍTULO
 
-**Qué sucede:** Los "hijos de Dios/los dioses" (*bene ha-elohim*) toman esposas humanas. YHWH limita la vida humana a 120 años. Los nephilim están en la tierra. YHWH ve la maldad humana total, lamenta haber hecho a la humanidad y resuelve destruir. Pero Noaj (Noé) halla favor. Dios instruye a Noé para construir una *tebah* (caja/arca) con dimensiones específicas, anuncia el diluvio, establece el primer pacto (*berit*) y ordena a Noé llevar animales a bordo.
+**Qué sucede:** Los "hijos de Dios/los dioses" toman esposas humanas. YHWH limita la vida humana a 120 años. Los nephilim están en la tierra. YHWH ve la maldad humana total, lamenta haber hecho a la humanidad y resuelve destruir. Pero Noé halla favor. Dios instruye a Noé para construir una *tebah* (caja/arca) con dimensiones específicas, anuncia el diluvio, establece el primer pacto y ordena a Noé llevar animales a bordo.
 
 **Temas clave:** Los *bene ha-elohim* — triple ambigüedad preservada (seres divinos, gobernantes, línea setita); los nephilim (transliterados, no "gigantes"); *yadon* — verbo genuinamente incierto (permanecer/contender); pesar divino (*nacham* — misma raíz que el nombre de Noé); "Dios vio" invertido (creación: "vio que bueno" a aquí: "vio que grande era la maldad"); *chamas* (violencia) como el pecado nombrado; la *tebah* como contenedor sellado, no un barco; juego de palabras *kopher/kippur* (brea/expiación).
 

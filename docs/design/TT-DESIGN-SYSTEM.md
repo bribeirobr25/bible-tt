@@ -96,10 +96,11 @@ All OKLCH tokens in `src/app/globals.css`. **Hardcoded hex forbidden.**
 | `--color-bg-paper` | `oklch(0.97 0.01 85)` | Warm off-white paper |
 | `--color-bg-surface` | `oklch(0.99 0.005 85)` | Cards/surfaces |
 | `--color-bg-muted` | `oklch(0.94 0.01 85)` | Toggle tracks, details |
-| `--color-text-primary` | `oklch(0.25 0.02 50)` | Body text |
-| `--color-text-secondary` | `oklch(0.45 0.02 50)` | Metadata |
-| `--color-text-muted` | `oklch(0.6 0.01 50)` | Placeholders |
-| `--color-accent` | `oklch(0.55 0.15 55)` | Links, active states |
+| `--color-text-primary` | `oklch(0.23 0.02 50)` | Body text (deepened, Phase 5) |
+| `--color-text-secondary` | `oklch(0.43 0.02 50)` | Metadata |
+| `--color-text-muted` | `oklch(0.58 0.01 50)` | Placeholders |
+| `--color-accent` | `oklch(0.46 0.1 213)` | Deep teal/petrol — links, active door, wordmark, CTAs (Phase 5, P5-Q1) |
+| `--color-accent-hover` | `oklch(0.4 0.1 213)` | Accent hover/pressed |
 
 ### Note type colors
 | Type | Icon | Border | Background |

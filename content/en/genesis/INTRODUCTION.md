@@ -15,6 +15,14 @@
 
 ---
 
+<!-- CARD -->
+**What:** The origin story — of the cosmos, of humanity, and of the family that becomes Israel.
+**When:** Set from creation to Israel's descent into Egypt; reaching its final form by roughly the 6th–5th century BCE.
+**Who:** Traditionally Moses; critical scholarship sees a composite of older sources edited over centuries.
+**To whom:** Ancient Israel, reflecting on its origins, its God, and its claim to the land.
+**Why:** To ground Israel's identity, covenant, and promises in primeval and ancestral history.
+<!-- /CARD -->
+
 ## HOW TO USE THIS INTRODUCTION
 
 This file contains background material organized by topic. Each entry carries **two labels:**

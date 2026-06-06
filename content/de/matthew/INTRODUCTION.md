@@ -15,6 +15,14 @@
 
 ---
 
+<!-- CARD -->
+**Was:** Ein Evangelium, das Jesus als Israels verheißenen Messias und neuen Mose darstellt.
+**Wann:** Ereignisse um 28–30 n. Chr.; verfasst etwa 80–90 n. Chr.
+**Wer:** Traditionell Matthäus, der Zöllner; die Verfasserschaft ist umstritten.
+**Für wen:** Ein überwiegend judenchristliches Publikum, dem Jesus als Erfüllung der Schriften Israels gezeigt wird.
+**Warum:** Um Jesus als den Messias und Lehrer darzustellen, der das Gesetz und die Propheten erfüllt.
+<!-- /CARD -->
+
 ## WIE DIESE EINFÜHRUNG ZU VERWENDEN IST
 
 Diese Datei enthält Hintergrundmaterial, geordnet nach Themen. Jeder Eintrag trägt **zwei Kennzeichnungen:**

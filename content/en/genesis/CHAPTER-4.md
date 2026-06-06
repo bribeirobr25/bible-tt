@@ -42,11 +42,11 @@
 
 ## CHAPTER OVERVIEW
 
-**What happens:** Qayin (Cain) (farmer) and Hevel (Abel) (shepherd) bring offerings; YHWH regards Abel's but not Cain's. Despite divine warning, Cain kills Abel. YHWH confronts Cain, pronounces him a wanderer, marks him for protection, and Cain settles in the land of Nod. Cain's genealogy follows: city-building, pastoral economy, music, metalworking — culminating in Lemekh (Lamech)'s song of escalated violence. The chapter closes with Shet (Seth)'s birth and the beginning of calling on YHWH's name.
+**What happens:** Cain (farmer) and Abel (shepherd) bring offerings; YHWH regards Abel's but not Cain's. Despite divine warning, Cain kills Abel. YHWH confronts Cain, pronounces him a wanderer, marks him for protection, and Cain settles in the land of Nod. Cain's genealogy follows: city-building, pastoral economy, music, metalworking — culminating in Lamech's song of escalated violence. The chapter closes with Seth's birth and the beginning of calling on YHWH's name.
 
-**Key themes:** The first offering and the first murder; divine warning unheeded (4:6–7, "sin crouching at the door"); "Am I my brother's keeper?"; blood crying from the ground (*adamah* again); the mark of Cain as protection; civilization's origins in the murderer's line; violence escalation (7-fold → 77-fold); Seth as replacement line.
+**Key themes:** The first offering and the first murder; divine warning unheeded (4:6–7, "sin crouching at the door"); "Am I my brother's keeper?"; blood crying from the ground; the mark of Cain as protection; civilization's origins in the murderer's line; violence escalation (7-fold → 77-fold); Seth as replacement line.
 
-**Watch for:** The text never explains *why* YHWH regarded Abel's offering and not Cain's — the gap is the narrative's trigger; Cain's punishment echoes Adam's (both driven from the *adamah*); Lamech's song (4:23–24) inverts YHWH's 7-fold protection into 77-fold vengeance; two Chanokhs (Enochs) and two Lamechs appear in the parallel genealogies (Ch 4 vs. Ch 5).
+**Watch for:** The text never explains *why* YHWH regarded Abel's offering and not Cain's — the gap is the narrative's trigger; Cain's punishment echoes Adam's (both driven from the ground); Lamech's song (4:23–24) inverts YHWH's 7-fold protection into 77-fold vengeance; two Enochs and two Lamechs appear in the parallel genealogies (Ch 4 vs. Ch 5).
 
 **Connection:** The Cainite genealogy (Chapter 4) parallels the Sethite genealogy (Chapter 5). The violence that begins here fills the earth by Chapter 6, triggering the flood.
 

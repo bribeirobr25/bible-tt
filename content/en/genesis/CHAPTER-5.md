@@ -43,13 +43,13 @@
 
 ## CHAPTER OVERVIEW
 
-**What happens:** The *toledot* of Adam — a ten-generation genealogy from Adam to Noach (Noah), structured by a locked formula: "X lived Y years, begot Z, lived W more years, begot sons and daughters, all his days were N years, and he died." Two entries break the formula in distinct ways: Chanokh (Enoch) breaks the death refrain — instead of "and he died," the text reads "he walked with God and was not, for God took him"; Noah breaks the pattern differently — Lemekh (Lamech) names him with a speech (a name-etymology rather than a death notice), and v.32 names three sons rather than one, launching the flood narrative rather than closing with death.
+**What happens:** The generations of Adam — a ten-generation genealogy from Adam to Noah, structured by a locked formula: "X lived Y years, begot Z, lived W more years, begot sons and daughters, all his days were N years, and he died." Two entries break the formula in distinct ways: Enoch breaks the death refrain — instead of "and he died," the text reads "he walked with God and was not, for God took him"; Noah breaks the pattern differently — Lamech names him with a speech (a name-etymology rather than a death notice), and v.32 names three sons rather than one, launching the flood narrative rather than closing with death.
 
-**Key themes:** The *sefer toledot* (book of generations — *sefer* = "book") — the only *toledot* with the prefix "book"; the image/likeness chain (God → Adam → Shet (Seth)); the relentless "and he died" refrain; Enoch's departure without dying — "walked with God" and "was not" (traditionally called a "translation," meaning God took him before death); Noah's name-etymology (*nacham*, comfort/regret); extraordinary lifespans (365–969 years).
+**Key themes:** The "book of generations" — the only such heading prefixed with "book"; the image/likeness chain (God → Adam → Seth); the relentless "and he died" refrain; Enoch's departure without dying — "walked with God" and "was not" (traditionally called a "translation," meaning God took him before death); Noah's name-explanation (comfort/regret); extraordinary lifespans (365–969 years).
 
-**Watch for:** Enoch is the seventh from Adam (parallel to Enmeduranki, seventh pre-flood king in Sumerian tradition); Enoch lives 365 years (solar-year number, shortest in the list); Metushelach (Methuselah)'s death year coincides exactly with the flood year by the text's own arithmetic; the chapter uses *Elohim* throughout except v.29, where Lamech's speech names YHWH.
+**Watch for:** Enoch is the seventh from Adam (parallel to Enmeduranki, seventh pre-flood king in Sumerian tradition); Enoch lives 365 years (solar-year number, shortest in the list); Methuselah's death year coincides exactly with the flood year by the text's own arithmetic; the chapter uses the generic "God" throughout except v.29, where Lamech's speech names YHWH.
 
-**Connection:** Lamech names Noah with a hope tied to the cursed ground (5:29, echoing 3:17). The *nacham* root in Noah's name reappears at 6:6 as divine "regret" — comfort and regret sharing a root.
+**Connection:** Lamech names Noah with a hope tied to the cursed ground (5:29, echoing 3:17). The "comfort/regret" root in Noah's name reappears at 6:6 as divine "regret" — comfort and regret sharing a root.
 
 ---
 

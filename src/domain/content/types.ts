@@ -106,10 +106,18 @@ export interface EnrichmentData {
   sections: EnrichmentSection[];
 }
 
+// Phase 5b — book "tight card" (What·When·Who·To-whom·Why). Authored as an
+// HTML-comment-delimited block in INTRODUCTION.md; labels localized in-content.
+export interface BookCardField {
+  label: string;
+  value: string;
+}
+
 export interface IntroductionData {
   book: string;
   disclaimer: string;
   sections: EnrichmentSection[];
+  card?: BookCardField[];
 }
 
 export type FulfillmentStatus =

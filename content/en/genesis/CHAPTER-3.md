@@ -45,13 +45,13 @@
 
 ## CHAPTER OVERVIEW
 
-**What happens:** The serpent, described as *arum* (crafty/shrewd), engages the woman in dialogue about the forbidden tree. Both humans eat. Their eyes are opened — they know they are naked. YHWH God questions them, pronounces consequences on the serpent, the woman, and the man, makes garments of skin, and expels them from the garden with cherubim guarding the way to the tree of life.
+**What happens:** The serpent, described as crafty/shrewd, engages the woman in dialogue about the forbidden tree. Both humans eat. Their eyes are opened — they know they are naked. YHWH God questions them, pronounces consequences on the serpent, the woman, and the man, makes garments of skin, and expels them from the garden with cherubim guarding the way to the tree of life.
 
-**Key themes:** The *arum/arom* wordplay (crafty/naked) bridging Chapters 2–3; the serpent's rhetoric; the woman's modification of the command; knowledge of good and evil — promised and delivered, but not as expected; shame, fear, blame as a sequence; consequences vs. curses (only the serpent and the ground are cursed, not the humans); the broken sentence at 3:22 (a sentence that stops mid-thought without completing itself — aposiopesis).
+**Key themes:** The crafty/naked wordplay bridging Chapters 2–3; the serpent's rhetoric; the woman's modification of the command; knowledge of good and evil — promised and delivered, but not as expected; shame, fear, blame as a sequence; consequences vs. curses (only the serpent and the ground are cursed, not the humans); the broken sentence at 3:22 (a sentence that stops mid-thought without completing itself — aposiopesis).
 
 **Watch for:** The serpent uses only "Elohim," never "YHWH Elohim"; the man was "with her" during the dialogue (3:6); "dying you shall die" (2:17) vs. "you will not dying die" (3:4) — same grammatical construction, negated; the text's own words at 3:22 echo the serpent's claim at 3:5 ("knowing good and evil"), while the narrative context shows consequences the serpent did not mention; "dust you *are*" uses present-tense language that can be read as describing an existing condition rather than imposing a new one — whether mortality is intrinsic or newly imposed is debated.
 
-**Connection:** The expulsion from the garden leads directly into Cain and Abel (Chapter 4). The curse on the ground (3:17) echoes through 5:29 (Noach (Noah)'s naming) and 8:21 (YHWH's post-flood resolution).
+**Connection:** The expulsion from the garden leads directly into Cain and Abel (Chapter 4). The curse on the ground (3:17) echoes through 5:29 (Noah's naming) and 8:21 (YHWH's post-flood resolution).
 
 ---
 

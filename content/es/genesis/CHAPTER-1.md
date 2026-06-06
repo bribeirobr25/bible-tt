@@ -47,9 +47,9 @@
 
 **Qué sucede:** Dios crea el mundo ordenado en seis días. La creación procede mediante habla divina ("y dijo Dios"), separación (luz/oscuridad, aguas de arriba/abajo, mar/tierra), población (vegetación, luminarias, criaturas, humanos) y bendición (fertilidad, dominio).
 
-**Temas clave:** Orden a partir del caos (*tohu vavohu*); creación por habla; el *raqia* como estructura cósmica; reproducción "según su especie"; la humanidad a imagen (*tselem*) de Dios; dieta vegetariana asignada.
+**Temas clave:** Orden a partir del caos; creación por habla; el *raqia* como estructura cósmica; reproducción "según su especie"; la humanidad a imagen de Dios; dieta vegetariana asignada.
 
-**Observe:** El estribillo "y vio Dios que bueno" (6 veces, luego "muy bueno"); el uso de "Dios" (*Elohim*) a lo largo del capítulo — YHWH no aparece hasta el Capítulo 2; el plural "hagamos" (1:26); dominio sobre las criaturas pero no sobre las aguas como dominio cósmico.
+**Observe:** El estribillo "y vio Dios que bueno" (6 veces, luego "muy bueno"); el uso de "Dios" a lo largo del capítulo — YHWH no aparece hasta el Capítulo 2; el plural "hagamos" (1:26); dominio sobre las criaturas pero no sobre las aguas como dominio cósmico.
 
 **Conexión:** Este capítulo establece el mundo ordenado que el Capítulo 2 revisitará desde otro ángulo, y que los Capítulos 6–9 des-crearán y re-crearán mediante el diluvio.
 
@@ -100,7 +100,7 @@ En principio, Dios creó los cielos y la tierra.
 
 ### **Versículo 2**
 
-Y la tierra era caos y vacío, y tinieblas *había* sobre la faz del abismo, y viento/espíritu de Dios *se cernia* sobre la faz de las aguas.
+Y la tierra era caos y vacío, y tinieblas sobre la faz del abismo, y viento/espíritu de Dios *se cernia* sobre la faz de las aguas.
 
 > **NOTAS**
 > 

@@ -20,6 +20,8 @@
 **Cross-book / infrastructure:**
 - **Cross-book canonical PEOPLE source-merge** (C3). *(detail §3)*
 - **README.md staleness** — targeted ~30-min fix. *(detail §3)*
+- **DE enrichment claim-type labels unrecognized** — surfaced by the Phase 2 conservation gate. *(detail §3)*
+- **Chapter metadata block unparsed (all locales)** — surfaced by the Phase 4 review. *(detail §3)*
 
 **Deferred content seeds** (drop into the named section when that book is authored): *(detail §4)*
 - Akedah → Crucifixion typology → Gen 22 §F (Phase 12)
@@ -61,6 +63,8 @@ Plan: `docs/audit/SOURCE_ANALYSIS_FOLLOWUP_PLAN.md` (Part A + C executed 2026-06
   - Build-time pre-merge (static-first) vs. render-time fetch; graceful dangling-pointer fallback for not-yet-authored homes; merge UI design; cross-locale slug normalization.
   - Est. ~6–10h implementation + ~3–5h merge-UI design. Best landed **after** Phase 12 (so all referents exist).
 - **README.md staleness** — ~5 confirmed-stale lines (John PEOPLE.md status, parser count, test count, project-state snapshot, parser tree comment). ~30-min targeted fix + quick scan (Phase 13 Q4=C deferral).
+- **DE enrichment claim-type labels unrecognized by the parser** — Phase 2's conservation gate surfaced the parser logging `Unrecognized claim type label: "SCHLUSSFOLGERUNG"` and `"KOMPARATIVES PARALLEL"` (German for STRONG INFERENCE / COMPARATIVE PARALLEL), silently falling back to `TEXTUAL`. Pre-existing (not introduced by Phase 2). The enrichment-parser's claim-type label map needs the German (and likely PT-BR/ES) variants added so DE companion claim-types render with correct dual-labels. Small, localized fix in `enrichment-parser.ts`; verify with the conservation gate + a parser unit test. Note: the *structured layer is faithful* — it conserves whatever the parser emits, including the TEXTUAL fallback; this is a parser-fidelity gap, not a structured-layer gap.
+- **Chapter metadata block never parsed (all locales, pre-existing)** — surfaced by the Phase 4 review. `markdown-parser.ts` `extractMetadata` reads only the *preamble* (content before the first `##`), but the `**Base Text:**` / `**Methodology:**` / `**Divine Name Policy:**` / `**Edition:**` lines live inside the `## The Transparent Translation (TT)` title section. So `baseText`/`methodology`/`divineNamePolicy`/`language` come back empty and `edition`/`status` show fallbacks ("Transparent"/"provisional") for **every chapter in every locale** — the chapter metadata `<details>` is sparse everywhere. Fix: have `extractMetadata` also scan the title-section content (or include it in the preamble), with the localized label keys already present in the map; add a guard asserting `baseText` is non-empty per chapter. Not an ES- or Phase-4-specific issue.
 
 ## 4. Deferred content seeds
 
@@ -73,6 +77,11 @@ Audited candidates from `docs/feedback/possible-content.md` that passed Rule-3/1
 ## 5. Minor / partial (low-priority)
 
 Documented in the archived re-audit (`docs/feedback/archive/FEEDBACK.md`):
+- **Phase 5b — remaining (queued):** EN overview de-jargon **DONE 2026-06-06**; PT/DE/ES **names + bare-gloss** de-jargon **DONE 2026-06-06** (see EXECUTION_HISTORY). Book **"tight cards"** DONE 2026-06-06 (all 12 INTRODUCTION.md; landing leads with the card). *(Minor: the card content is not yet emitted into the Phase-2 structured layer — wire it in when Phase 6 search lands so cards are indexed.)* **Only remaining 5b item:** Pattern C — **inline technical-term glossing in the non-EN overviews** (*raqia*, *adamah*, *toledot*, *logos*, *pneuma*, *biblos geneseōs*, *magoi*, etc. → locale plain renderings + wordplay signposts; EN already does this; bespoke per-locale, deliberately not automated after the Phase-5b name-pass near-misses).
+- **Pre-existing DE typo (found 2026-06-06):** `content/de/matthew/INTRODUCTION.md` has `Galiläaäischer` (should be `Galiläischer`/"Galilean") — predates this work (in HEAD); fix in a DE cleanup pass.
+- **Phase 5 orphaned i18n keys (2026-06-06):** the landing rewrite left `landing.hook` and `landing.languageTagline` unused (joining the Phase-3 orphans `landing.howExplore/howContext/howProphecy`, `nav.exploreMode/contextMode`, `enrichment.explore*`). Harmless; sweep them in the 5b copy pass.
+- **Phase 4 follow-ups (2026-06-05):** (a) **ES Tier-2 note diacritic cleanup** — the Phase-4 QA pass fixed the *main-text* continuous↔verse drift, but the probe also surfaced unaccented words inside ES Tier-2 **notes** (out of scope; e.g. es/genesis/7 note "Aqui/integro/omision/generaciónes/se cernia") — queue an ES diacritic sweep of note text. (b) **De-dup-by-derivation deferred** (unsafe — per-section name rendering + cross-verse quotation flow); revisit only if a name-rendering+quotation engine is ever built (see `CONTENT-STRUCTURE-REVIEW` Q5 revised + `PHASE_4_TEXT_QA_PLAN.md`).
+- **Phase 3 follow-ups (2026-06-05):** (a) i18n keys orphaned by the 3-door collapse — `landing.howExplore`/`howContext`/`howProphecy`, `nav.exploreMode`/`contextMode`, `enrichment.explore*` — harmless but dead; sweep during the Phase 5 copy pass. (b) "Background" non-EN labels shipped (`pt-br`/`es` "Panorama", `de` "Hintergrund"); optional locale-editor confirm. (c) Verse anchors live in **Notes** only (verse-discrete); Read stays continuous (paragraphs don't map 1:1 to verses) — by design.
 - **Item 8** — PT-BR archaic register cleanup (PARTIAL; concentrated in scriptural-quotation contexts).
 - **Non-EN em-dash sweep** — remaining instances are deliberate future-authoring territory, not regressions.
 - **Items 20 / 27 / 28** — PARTIAL with documented mitigation (John 3:16–21 speech-boundary; Section H Type-tag taxonomy; AI/editorial provenance ratio).

@@ -281,7 +281,7 @@ function isReadingGuide(title: string): boolean {
 }
 
 function isTitleSection(title: string): boolean {
-  return /Transparent Translation|Tradução Transparente|Transparente Übersetzung/i.test(
+  return /Transparent Translation|Tradução Transparente|Transparente Übersetzung|Traducción Transparente/i.test(
     title,
   );
 }

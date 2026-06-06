@@ -53,7 +53,7 @@
 
 **Achten Sie auf:** Der Gottesname wechselt zu JHWH Elohim (ab 2:4); die unterschiedliche Schöpfungsreihenfolge gegenüber Kapitel 1 (Mensch vor Tieren in 2:7, 19); das „nicht gut" — die einzige negative Bewertung in der Schöpfung; die *Tardemah* (tiefer Schlaf); „Bein von meinen Beinen" als erste menschliche Rede.
 
-**Verbindung:** Die hier eingeführten Bäume — Erkenntnis und Leben — treiben die Erzählung von Kapitel 3 voran. Die Beziehung zwischen dem Menschen und dem Boden (*adam/adamah*) wird zur Grundlage des Fluchs in 3:17–19.
+**Verbindung:** Die hier eingeführten Bäume — Erkenntnis und Leben — treiben die Erzählung von Kapitel 3 voran. Die Beziehung zwischen dem Menschen und dem Boden wird zur Grundlage des Fluchs in 3:17–19.
 
 ---
 

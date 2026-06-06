@@ -44,7 +44,7 @@
 
 ## KAPITELÜBERSICHT
 
-**Was geschieht:** JHWH gebietet Noach (Noah), mit seiner Familie und den Tieren in die *Tebah* einzutreten — reine Tiere zu siebent, andere zu zweit. Nach sieben Tagen beginnt die Flut: Die Quellen der großen Tiefe brechen auf und die Fenster des Himmels werden geöffnet. Die Wasser steigen vierzig Tage, bedecken alle hohen Berge. Jedes landatmende Lebewesen außerhalb der *Tebah* stirbt. Die Wasser herrschen einhundertfünfzig Tage.
+**Was geschieht:** JHWH gebietet Noah, mit seiner Familie und den Tieren in die *Tebah* einzutreten — reine Tiere zu siebent, andere zu zweit. Nach sieben Tagen beginnt die Flut: Die Quellen der großen Tiefe brechen auf und die Fenster des Himmels werden geöffnet. Die Wasser steigen vierzig Tage, bedecken alle hohen Berge. Jedes landatmende Lebewesen außerhalb der *Tebah* stirbt. Die Wasser herrschen einhundertfünfzig Tage.
 
 **Zentrale Themen:** Die Unterscheidung rein/unrein vor Sinai; die Flut als kosmologische Umkehrung — die Wasser über und unter dem *raqia* (Tag 2) vereinigen sich wieder; der *Mabbul* (Flut — ein Wort, das nur für dieses Ereignis verwendet wird); spezifische Kalenderdaten durchgehend; JHWH schließt die Tür (7:16 — Noah versiegelt sich nicht selbst); totale Vernichtung des Landlebens.
 

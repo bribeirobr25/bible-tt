@@ -55,6 +55,31 @@ describe("Introduction Parser", () => {
       const sources = data.sections.find((s) => s.id === "sources");
       expect(sources).toBeDefined();
     });
+
+    it("parses the book card (5 labelled fields)", async () => {
+      const data = await loadIntroduction();
+      expect(data.card).toBeDefined();
+      expect(data.card?.length).toBe(5);
+      for (const f of data.card ?? []) {
+        expect(f.label.length).toBeGreaterThan(0);
+        expect(f.value.length).toBeGreaterThan(0);
+      }
+    });
+  });
+
+  describe("book card parses for all books × locales", () => {
+    for (const locale of ["en", "pt-br", "de", "es"] as const) {
+      for (const book of ["genesis", "john", "matthew"] as const) {
+        it(`${locale}/${book} has a 5-field card`, async () => {
+          const raw = await fs.readFile(
+            path.join(ROOT, locale, book, "INTRODUCTION.md"),
+            "utf-8",
+          );
+          const data = parseIntroductionMarkdown(raw, book);
+          expect(data.card?.length).toBe(5);
+        });
+      }
+    }
   });
 
   describe("all 4 locales parse without error", () => {

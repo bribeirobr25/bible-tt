@@ -2,6 +2,7 @@ import { ChevronRight } from "lucide-react";
 import { useTranslations } from "next-intl";
 import type { Verse } from "@/domain/content/types";
 import { renderMarkdownSafe } from "@/ui/shared/render-markdown-safe";
+import { CopyVerseLink } from "./copy-verse-link";
 import { NoteBlock } from "./note-block";
 
 export function VerseCard({ verse }: { verse: Verse }) {
@@ -9,13 +10,14 @@ export function VerseCard({ verse }: { verse: Verse }) {
 
   return (
     <section
-      id={`verse-${verse.number}`}
-      className="scroll-mt-24 border-b border-border-muted pb-6 mb-6 last:border-0"
+      id={`v${verse.number}`}
+      className="verse-anchor group/verse scroll-mt-24 border-b border-border-muted pb-6 mb-6 last:border-0"
     >
-      <div className="flex items-baseline gap-3 mb-3">
+      <div className="flex items-baseline gap-2 mb-3">
         <span className="font-[family-name:var(--font-ui)] text-sm font-bold text-text-muted min-w-[2rem] tabular-nums">
           {verse.number}
         </span>
+        <CopyVerseLink verseNumber={verse.number} />
         <p
           className="font-[family-name:var(--font-reading)] text-lg leading-[1.7] text-text-primary flex-1 [&_em]:text-text-secondary"
           dangerouslySetInnerHTML={{

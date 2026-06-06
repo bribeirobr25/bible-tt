@@ -15,6 +15,14 @@
 
 ---
 
+<!-- CARD -->
+**O quê:** A história das origens — do cosmos, da humanidade e da família que se torna Israel.
+**Quando:** Ambientado da criação até a descida de Israel ao Egito; alcançando sua forma final por volta dos séculos VI–V a.C.
+**Quem:** Tradicionalmente Moisés; a crítica vê uma composição de fontes mais antigas editadas ao longo de séculos.
+**Para quem:** O antigo Israel, refletindo sobre suas origens, seu Deus e sua reivindicação da terra.
+**Por quê:** Para fundamentar a identidade, a aliança e as promessas de Israel na história primeva e ancestral.
+<!-- /CARD -->
+
 ## COMO USAR ESTA INTRODUÇÃO
 
 Este arquivo contém material de contextualização organizado por tópico. Cada entrada carrega **dois rótulos:**
