@@ -1732,3 +1732,25 @@ Applied from consolidated external proposals (`docs/audit/GENESIS-1-EN-PROPOSAL.
 - **Status:** provisional.
 - **Reviewers:** locale-editors unassigned (verify the summary wording per locale).
 - **Cross-references:** `docs/audit/PHASE_5B_BOOK_CARDS_PLAN.md`; `content/{en,pt-br,de,es}/genesis/INTRODUCTION.md` (CARD block).
+
+## Entry 2026-06-06-116 — DE claim-type label normalization (Gen 11 §F3)
+
+- **Verse:** Genesis 11 companion (CHAPTER-11-CONTEXT.md §F3), DE only.
+- **Language(s) affected:** DE.
+- **Rule(s) invoked:** Rule 29 (dual-label system); Rule 28.
+- **Decision:** The DE companion used a non-standard claim-type label `[SCHLUSSFOLGERUNG — WAHRSCHEINLICH]` (bare "inference") that the parser did not recognize → it silently fell back to TEXTUAL. Normalized to `[STARKE SCHLUSSFOLGERUNG — WAHRSCHEINLICH]` to match the EN parallel (`STRONG INFERENCE — PROBABLE`, en gen/11 §F3). A guard test now fails the build on any unrecognized claim-type label.
+- **AI provenance:** claude-opus-4-8 (1M context), 2026-06-06. Validation: 841 tests (incl. new claim-label guard) · build · lint · content-lint baseline.
+- **Status:** provisional.
+- **Reviewers:** DE locale-editor unassigned.
+- **Cross-references:** EXECUTION_HISTORY 2026-06-06 latent parser-bug fixes; sister `docs/editorial-log/matthew.md` M-030.
+
+## Entry 2026-06-06-117 — Pattern C: non-EN overview inline technical-term glossing
+
+- **Verse:** All Genesis 1–12 chapter **overviews**, PT-BR / DE / ES (overview slice only; git-confirmed confined).
+- **Language(s) affected:** PT-BR, DE, ES (EN done earlier).
+- **Rule(s) invoked:** UX-REVIEW Q6 (overview de-jargon); Q1=C; Rule 25 (YHWH/JHWH kept); Rule 28.
+- **Decision:** Glossed **26 foreign technical terms** in the non-EN overviews to locale plain renderings via a curated allowlist (literal `*token*` matching, never local-language Rule-11 italics) — e.g. *raqia*→firmamento/Firmament, *toledot*→gerações/Generationen/generaciones, *logos*→palavra/Wort/palabra, *tebah*→arca/Arche, *pneuma*/*ruach*→vento·viento/espírito·espíritu/Wind·Geist, *sarx*→carne/Fleisch, *magoi*→magos/Magier, *kosmos*→mundo/Welt, *naos*→inneres Heiligtum etc. Redundant "term (gloss)" parentheticals collapsed; article/gender + verb-agreement corrected where the substitution changed grammar (notably *toledot*→plural gerações/generaciones: "As gerações de Terach introduzem…"). A handful of **wordplay / grammar-sensitive / Greek-grammar-discussion terms remain transliterated** (e.g. *adamah* [gender], *arum/arom*, *nacham*-paired wordplays, *anothen*, *egeneto*, *sefer toledot*, *lekh lekha*, *ti emoi kai soi*, *bene ha-elohim*) — deferred as genuinely bespoke per-locale phrasing.
+- **AI provenance:** claude-opus-4-8 (1M context), 2026-06-06, `PHASE_5_UX_FINISH_PLAN.md` 5b Pattern C. Heavy verification: 0 corruption / 0 redundancy / 0 gender mismatch; non-overview byte-identical to HEAD; 841 tests · build · lint · content-lint baseline.
+- **Status:** provisional (clean noun-terms glossed; bespoke wordplay/grammar terms deferred).
+- **Reviewers:** PT-BR / DE / ES locale-editors unassigned.
+- **Cross-references:** `docs/audit/PHASE_5_UX_FINISH_PLAN.md`; `content/{pt-br,de,es}/genesis/CHAPTER-*.md` overview sections.

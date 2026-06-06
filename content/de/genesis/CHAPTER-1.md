@@ -46,7 +46,7 @@
 
 **Was geschieht:** Gott erschafft die geordnete Welt in sechs Tagen. Die Schöpfung schreitet voran durch göttliche Rede („und Gott sprach"), Trennung (Licht/Finsternis, Wasser oben/unten, Meer/Land), Bevölkerung (Vegetation, Lichter, Lebewesen, Menschen) und Segen (Fruchtbarkeit, Herrschaft). Der siebte Tag und die Ruhe werden in Gn 2:1–3 erzählt.
 
-**Zentrale Themen:** Ordnung aus Chaos; Schöpfung durch Rede; das *raqia* als kosmische Struktur; Vermehrung „nach seiner Art"; die Menschheit im Bild Gottes; vegetarische Nahrung zugewiesen.
+**Zentrale Themen:** Ordnung aus Chaos; Schöpfung durch Rede; das Firmament als kosmische Struktur; Vermehrung „nach seiner Art"; die Menschheit im Bild Gottes; vegetarische Nahrung zugewiesen.
 
 **Achten Sie auf:** Den Refrain „und Gott sah, dass gut" (6×, dann „sehr gut"); den durchgehenden Wechsel von „Gott" — JHWH erscheint erst in Kapitel 2; den Plural „lasst uns machen" (1:26); Herrschaft über Lebewesen, aber nicht über die Wasser als kosmischen Bereich.
 

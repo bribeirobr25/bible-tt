@@ -1,6 +1,6 @@
 import fs from "node:fs/promises";
 import path from "node:path";
-import { describe, expect, it } from "vitest";
+import { describe, expect, it, vi } from "vitest";
 import {
   emitBookContext,
   emitChapter,
@@ -143,8 +143,17 @@ async function emitFile(file: ContentFile): Promise<{
         expected: {
           "enrichment-disclaimer": d.disclaimer.trim() ? [d.disclaimer] : [],
           "enrichment-section": d.sections.map((s) => s.title),
+          // §I group entries conserve their scenario heading (no own prose);
+          // single-level entries conserve their body.
           "enrichment-entry": d.sections.flatMap((s) =>
-            s.entries.map((e) => e.content),
+            s.entries.map((e) =>
+              e.subEntries && e.subEntries.length > 0 ? e.title : e.content,
+            ),
+          ),
+          "enrichment-subentry": d.sections.flatMap((s) =>
+            s.entries.flatMap((e) =>
+              (e.subEntries ?? []).map((se) => se.content),
+            ),
           ),
         },
       };
@@ -362,6 +371,7 @@ describe("Phase 4 — chapter completeness guard", () => {
     const emptyContinuous: string[] = [];
     const missingOverview: string[] = [];
     const titleLeak: string[] = [];
+    const emptyMetadata: string[] = [];
     // A title/edition block leaking into supplementary (e.g. an unrecognized
     // localized "TT" title) would render as a junk study card.
     const TITLE_RE =
@@ -378,6 +388,11 @@ describe("Phase 4 — chapter completeness guard", () => {
       if (d.supplementarySections.some((s) => TITLE_RE.test(s.title))) {
         titleLeak.push(file.relPath);
       }
+      // Metadata block lives in the title section; guard against it silently
+      // not parsing (Base Text / Methodology must be populated).
+      if (!d.metadata.baseText || !d.metadata.methodology) {
+        emptyMetadata.push(file.relPath);
+      }
     }
 
     expect(emptyVerses, "chapters with 0 parsed verses").toEqual([]);
@@ -386,5 +401,31 @@ describe("Phase 4 — chapter completeness guard", () => {
     expect(titleLeak, "title block leaked into supplementary sections").toEqual(
       [],
     );
+    expect(
+      emptyMetadata,
+      "chapters with empty Base Text / Methodology metadata",
+    ).toEqual([]);
+  });
+
+  it("no enrichment/introduction file has an unrecognized claim-type label", async () => {
+    // parseClaimType warns + falls back to TEXTUAL on an unknown label
+    // (e.g. a localized variant the parser doesn't know). Fail if any warn.
+    const warn = vi.spyOn(console, "warn").mockImplementation(() => {});
+    const allMd = await walk(CONTENT_ROOT);
+    for (const absPath of allMd) {
+      const file = classify(absPath);
+      if (!file) continue;
+      const raw = await fs.readFile(absPath, "utf-8");
+      if (file.fileKind === "enrichment") {
+        parseEnrichmentMarkdown(raw, file.book, file.chapter as number);
+      } else if (file.fileKind === "introduction") {
+        parseIntroductionMarkdown(raw, file.book);
+      }
+    }
+    const unrecognized = warn.mock.calls
+      .map((c) => String(c[0]))
+      .filter((m) => m.includes("Unrecognized claim type label"));
+    warn.mockRestore();
+    expect(unrecognized, unrecognized.join("\n")).toEqual([]);
   });
 });

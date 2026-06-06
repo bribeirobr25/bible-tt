@@ -44,13 +44,13 @@
 
 ## VISÃO GERAL DO CAPÍTULO
 
-**O que acontece:** Os "filhos de Deus/dos deuses" tomam mulheres humanas. YHWH limita a vida humana a 120 anos. Os nephilim estão sobre a terra. YHWH vê a maldade total do humano, arrepende-se de ter feito a humanidade e resolve destruir. Mas Noé encontra favor. Deus instrui Noé a construir uma *tebah* (caixa/arca) com dimensões específicas, anuncia o dilúvio, estabelece a primeira aliança e ordena a Noé trazer animais a bordo.
+**O que acontece:** Os "filhos de Deus/dos deuses" tomam mulheres humanas. YHWH limita a vida humana a 120 anos. Os nephilim estão sobre a terra. YHWH vê a maldade total do humano, arrepende-se de ter feito a humanidade e resolve destruir. Mas Noé encontra favor. Deus instrui Noé a construir uma arca (caixa/arca) com dimensões específicas, anuncia o dilúvio, estabelece a primeira aliança e ordena a Noé trazer animais a bordo.
 
-**Temas-chave:** Os *bene ha-elohim* — tripla ambiguidade preservada (seres divinos, governantes, linhagem setita); os nephilim (transliterado, não "gigantes"); *yadon* — verbo genuinamente incerto (permanecer/contender); arrependimento divino (*nacham* — mesma raiz do nome de Noé); "Deus viu" invertido (criação: "viu que bom"; aqui: "viu que grande era a maldade"); *chamas* (violência) como o pecado nomeado; a *tebah* como recipiente selado, não um navio; jogo de palavras *kopher/kippur* (betume/expiação).
+**Temas-chave:** Os *bene ha-elohim* — tripla ambiguidade preservada (seres divinos, governantes, linhagem setita); os nephilim (transliterado, não "gigantes"); *yadon* — verbo genuinamente incerto (permanecer/contender); arrependimento divino (mesma raiz do nome de Noé); "Deus viu" invertido (criação: "viu que bom"; aqui: "viu que grande era a maldade"); violência como o pecado nomeado; a arca como recipiente selado, não um navio; jogo de palavras *kopher/kippur* (betume/expiação).
 
-**Observe:** A ordem de destruição (6:7) inverte a ordem da criação; YHWH aparece nos vv.1–8 (emocional, relacional), Elohim nos vv.9–22 (instrucional, aliancístico); a primeira ocorrência de *berit* (aliança) na Bíblia — anunciada antes de seus termos serem revelados; "dois de todos" (6:19) vs. "sete pares" de animais limpos (7:2) — uma tensão interna que a TT preserva.
+**Observe:** A ordem de destruição (6:7) inverte a ordem da criação; YHWH aparece nos vv.1–8 (emocional, relacional), Elohim nos vv.9–22 (instrucional, aliancístico); a primeira ocorrência de aliança na Bíblia — anunciada antes de seus termos serem revelados; "dois de todos" (6:19) vs. "sete pares" de animais limpos (7:2) — uma tensão interna que a TT preserva.
 
-**Conexão:** A raiz *nacham* liga 5:29 (Noé = conforto) a 6:6 (YHWH se arrependeu). O dilúvio reverte a separação das águas do Dia 2 (1:6–7), fazendo do dilúvio um evento de des-criação continuado nos Capítulos 7–8.
+**Conexão:** A raiz consolo/pesar liga 5:29 (Noé = conforto) a 6:6 (YHWH se arrependeu). O dilúvio reverte a separação das águas do Dia 2 (1:6–7), fazendo do dilúvio um evento de des-criação continuado nos Capítulos 7–8.
 
 ---
 

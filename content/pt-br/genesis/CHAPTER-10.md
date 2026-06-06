@@ -51,7 +51,7 @@
 
 **Observe:** A digressão sobre Nimrod (10:8–12) — a única expansão narrativa em um capítulo que de resto é puramente listagem; "diante de YHWH" (10:9) — a única ocorrência de YHWH, e sua ambiguidade (aprovação ou desafio?); o jogo de palavras com Peleg em 10:25 ("em seus dias a terra foi dividida"); a estrutura de três colunas — cada lista de filho termina com uma fórmula: "estes são os filhos de X, por seus clãs, por suas línguas, em suas terras, por suas nações"; a tensão entre genealogia e geografia (nomes = tanto pessoas quanto povos).
 
-**Conexão:** O *toledot* dos filhos de Noé (10:1) continua a partir do *toledot* de Noé (6:9). As três linhagens estabelecidas pela bênção/maldição de Noé em 9:25–27 são agora traçadas geograficamente. O capítulo prepara o cenário para Babel (Cap. 11), que explicará como a "uma língua" (11:1) se tornou as muitas línguas listadas aqui. A linhagem de Shem (10:21–31) será estreitada em 11:10–26 para a linhagem abraâmica.
+**Conexão:** As gerações dos filhos de Noé (10:1) continuam a partir das gerações de Noé (6:9). As três linhagens estabelecidas pela bênção/maldição de Noé em 9:25–27 são agora traçadas geograficamente. O capítulo prepara o cenário para Babel (Cap. 11), que explicará como a "uma língua" (11:1) se tornou as muitas línguas listadas aqui. A linhagem de Shem (10:21–31) será estreitada em 11:10–26 para a linhagem abraâmica.
 
 ---
 

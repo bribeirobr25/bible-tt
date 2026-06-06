@@ -48,7 +48,7 @@
 
 **O que acontece:** Um segundo relato da criação começa em 2:4, com sequência e foco diferentes. YHWH Elohim forma o humano do pó, planta um jardim em Éden com duas árvores nomeadas, coloca o humano ali para lavrá-lo e guardá-lo, dá o mandamento sobre a árvore do conhecimento, declara "não bom" que o humano esteja só, forma os animais e constrói a mulher a partir do lado do humano.
 
-**Temas-chave:** A fórmula *toledot* (2:4); YHWH Elohim (nome divino combinado); formação a partir da *adamah* (solo) — o jogo de palavras *adam/adamah*; o jardim como espaço delimitado; a árvore do conhecimento e a árvore da vida; o mandamento e sua consequência ("morrendo morrerás"); nomeação como ordenação; "uma só carne."
+**Temas-chave:** A fórmula das gerações (2:4); YHWH Elohim (nome divino combinado); formação a partir da *adamah* (solo) — o jogo de palavras *adam/adamah*; o jardim como espaço delimitado; a árvore do conhecimento e a árvore da vida; o mandamento e sua consequência ("morrendo morrerás"); nomeação como ordenação; "uma só carne."
 
 **Observe:** O nome divino muda para YHWH Elohim (a partir de 2:4); a ordem de criação difere do Capítulo 1 (humano antes dos animais em 2:7, 19); o "não bom" — a única avaliação negativa na criação; a *tardemah* (sono profundo); "osso dos meus ossos" como a primeira fala humana.
 

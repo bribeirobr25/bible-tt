@@ -47,7 +47,7 @@
 
 **Qué sucede:** Dios crea el mundo ordenado en seis días. La creación procede mediante habla divina ("y dijo Dios"), separación (luz/oscuridad, aguas de arriba/abajo, mar/tierra), población (vegetación, luminarias, criaturas, humanos) y bendición (fertilidad, dominio).
 
-**Temas clave:** Orden a partir del caos; creación por habla; el *raqia* como estructura cósmica; reproducción "según su especie"; la humanidad a imagen de Dios; dieta vegetariana asignada.
+**Temas clave:** Orden a partir del caos; creación por habla; el firmamento como estructura cósmica; reproducción "según su especie"; la humanidad a imagen de Dios; dieta vegetariana asignada.
 
 **Observe:** El estribillo "y vio Dios que bueno" (6 veces, luego "muy bueno"); el uso de "Dios" a lo largo del capítulo — YHWH no aparece hasta el Capítulo 2; el plural "hagamos" (1:26); dominio sobre las criaturas pero no sobre las aguas como dominio cósmico.
 

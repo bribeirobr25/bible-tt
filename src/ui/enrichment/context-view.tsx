@@ -87,7 +87,10 @@ export function ContextView({ data }: { data: EnrichmentData }) {
                   {section.title}
                 </h2>
                 <span className="text-xs text-text-muted tabular-nums">
-                  {section.entries.length}
+                  {section.entries.reduce(
+                    (n, e) => n + (e.subEntries?.length || 1),
+                    0,
+                  )}
                 </span>
                 <svg
                   className="w-4 h-4 text-text-muted transition-transform duration-200 group-open:rotate-90"
@@ -105,12 +108,41 @@ export function ContextView({ data }: { data: EnrichmentData }) {
                 </svg>
               </summary>
               <div className="px-5 pb-5 pt-2 space-y-4 border-t border-border-muted">
-                {sortByConfidence(section.entries).map((entry, i) => (
-                  <EnrichmentEntryCard
-                    key={`${section.id}-${i}`}
-                    entry={entry}
-                  />
-                ))}
+                {section.entries.some((e) => e.subEntries?.length)
+                  ? // §I "World at the Time": preserve the authored scenario
+                    // order and render each `#### IA-x` sub-dimension as its own
+                    // dual-labelled card under its scenario heading.
+                    section.entries.map((entry, i) =>
+                      entry.subEntries?.length ? (
+                        <div key={`${section.id}-${i}`} className="space-y-3">
+                          <h3
+                            className="font-[family-name:var(--font-ui)] text-sm font-semibold text-text-primary"
+                            dangerouslySetInnerHTML={{
+                              __html: renderInlineSafe(entry.title),
+                            }}
+                          />
+                          <div className="space-y-4 pl-3 border-l border-border-muted">
+                            {entry.subEntries.map((sub, j) => (
+                              <EnrichmentEntryCard
+                                key={`${section.id}-${i}-${j}`}
+                                entry={sub}
+                              />
+                            ))}
+                          </div>
+                        </div>
+                      ) : (
+                        <EnrichmentEntryCard
+                          key={`${section.id}-${i}`}
+                          entry={entry}
+                        />
+                      ),
+                    )
+                  : sortByConfidence(section.entries).map((entry, i) => (
+                      <EnrichmentEntryCard
+                        key={`${section.id}-${i}`}
+                        entry={entry}
+                      />
+                    ))}
               </div>
             </details>
           );

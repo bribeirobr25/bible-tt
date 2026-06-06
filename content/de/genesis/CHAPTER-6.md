@@ -46,11 +46,11 @@
 
 **Was geschieht:** Die „Söhne Gottes/der Götter" nehmen Menschentöchter zu Frauen. JHWH begrenzt die menschliche Lebensspanne auf 120 Jahre. Die Nephilim sind auf dem Land. JHWH sieht die totale menschliche Bosheit, bereut die Erschaffung der Menschheit und beschließt die Vernichtung. Doch Noah findet Gunst. Gott weist Noah an, eine *Tebah* (Kasten/Arche) mit bestimmten Maßen zu bauen, kündigt die Flut an, richtet den ersten Bund auf und gebietet Noah, Tiere an Bord zu bringen.
 
-**Zentrale Themen:** Die *bene ha-elohim* — dreifache Mehrdeutigkeit bewahrt (göttliche Wesen, Herrscher, sethitische Linie); die Nephilim (transliteriert, nicht „Riesen"); *yadon* — ein genuines Unsicherheitsverb (verbleiben/streiten); göttliche Reue (*nacham* — dieselbe Wurzel wie Noahs Name); „Gott sah" verkehrt (Schöpfung: „sah, dass gut" → hier: „sah, dass groß war die Bosheit"); *chamas* (Gewalt) als benannte Sünde; die *Tebah* als versiegelter Behälter, nicht als Schiff; das Wortspiel *kopher/kippur* (Pech/Sühne).
+**Zentrale Themen:** Die *bene ha-elohim* — dreifache Mehrdeutigkeit bewahrt (göttliche Wesen, Herrscher, sethitische Linie); die Nephilim (transliteriert, nicht „Riesen"); *yadon* — ein genuines Unsicherheitsverb (verbleiben/streiten); göttliche Reue (dieselbe Wurzel wie Noahs Name); „Gott sah" verkehrt (Schöpfung: „sah, dass gut" → hier: „sah, dass groß war die Bosheit"); Gewalt als benannte Sünde; die *Tebah* als versiegelter Behälter, nicht als Schiff; das Wortspiel *kopher/kippur* (Pech/Sühne).
 
 **Achten Sie auf:** Die Vernichtungsreihenfolge (6:7) kehrt die Schöpfungsreihenfolge um; JHWH erscheint in VV.1–8 (emotional, relational), Elohim in VV.9–22 (belehrend, bundesbezogen); das erste Vorkommen von *Berit* (Bund) in der Bibel — angekündigt bevor seine Bedingungen offenbart werden; „zwei von allem" (6:19) versus „sieben Paare" der reinen Tiere (7:2) — eine innertextliche Spannung, die die TT bewahrt.
 
-**Verbindung:** Die Wurzel *nacham* verknüpft 5:29 (Noah = Trost) mit 6:6 (JHWH bereute). Die Flut kehrt die Wassertrennung des zweiten Tages (1:6–7) um und macht die Flut zu einem Ent-Schöpfungsereignis, das in Kapitel 7–8 fortgesetzt wird.
+**Verbindung:** Die Wurzel Trost/Reue verknüpft 5:29 (Noah = Trost) mit 6:6 (JHWH bereute). Die Flut kehrt die Wassertrennung des zweiten Tages (1:6–7) um und macht die Flut zu einem Ent-Schöpfungsereignis, das in Kapitel 7–8 fortgesetzt wird.
 
 ---
 

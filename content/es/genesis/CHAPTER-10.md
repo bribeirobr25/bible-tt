@@ -51,7 +51,7 @@
 
 **Observe:** La digresión de Nimrod (10:8–12) — la única expansión narrativa en un capítulo dominado por listas; "ante YHWH" (10:9) — la única aparición de YHWH, y su ambigüedad (¿aprobación o desafío?); el juego de palabras de Peleg en 10:25 ("en sus días la tierra fue dividida"); la estructura de tres columnas — la lista de cada hijo termina con una fórmula: "estos son los hijos de X, por sus clanes, por sus lenguas, en sus tierras, por sus naciones"; la tensión entre genealogía y geografía (nombres = tanto personas como pueblos).
 
-**Conexión:** El *toledot* de los hijos de Noé (10:1) continúa desde el *toledot* de Noé (6:9). Las tres líneas establecidas por la bendición/maldición de Noé en 9:25–27 ahora se trazan geográficamente. El capítulo prepara el escenario para Bavel (Cap. 11), que explicará cómo la "una lengua" (11:1) se convirtió en las muchas lenguas listadas aquí. La línea de Sem (10:21–31) será reducida en 11:10–26 a la línea abrahámica.
+**Conexión:** Las generaciones de los hijos de Noé (10:1) continúan desde las generaciones de Noé (6:9). Las tres líneas establecidas por la bendición/maldición de Noé en 9:25–27 ahora se trazan geográficamente. El capítulo prepara el escenario para Bavel (Cap. 11), que explicará cómo la "una lengua" (11:1) se convirtió en las muchas lenguas listadas aquí. La línea de Sem (10:21–31) será reducida en 11:10–26 a la línea abrahámica.
 
 ---
 

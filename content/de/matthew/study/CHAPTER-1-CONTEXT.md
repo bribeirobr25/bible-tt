@@ -250,7 +250,7 @@ Die rechtliche Situation in Matthäus 1,18–25 dreht sich um die Besonderheiten
 **Quelle:** Ilan, T., *Jewish Women in Greco-Roman Palestine*, Hendrickson, 1995; Yaron, R., *Introduction to the Law of the Aramaic Papyri*, Clarendon Press, 1961.
 
 #### IA-3. Religion — Göttliche Geburtserzählungen im AO und jüdischer Widerstand
-**[KOMPARATIVES PARALLEL — WAHRSCHEINLICH]**
+**[VERGLEICHENDE PARALLELE — WAHRSCHEINLICH]**
 
 Der Alte Orient und die griechisch-römische Welt verfügten über ein gut entwickeltes Vokabular von Geburtserzählungen bedeutender Personen, in denen göttliche Beteiligung (oder göttlicher Vaterstatus) einen großen Herrscher auszeichnete. Sueton berichtet, dass Augustus' Mutter vor der Empfängnis des Augustus im Apollontempel von einer Schlange besucht wurde (*Caesarenleben* 2,94); Plutarch berichtet eine ähnliche Tradition für Alexander den Großen. Diese Erzählungen dienten der politischen Legitimation: Die außergewöhnliche Herkunft des Herrschers erklärte sein außergewöhnliches Schicksal. Die jüdische Tradition war in Bezug auf dieses Genre zwiespältig. Der Bericht des Matthäus ist in mehrfacher Hinsicht unverwechselbar: Als Handelnder wird ausdrücklich der Heilige Geist genannt (kein heidnischer Gott oder Halbgott), es wird keine sexuelle Vereinigung beschrieben oder impliziert, der Bericht wird als Erfüllung hebräischer Prophetie präsentiert (Jes 7,14 via LXX), und der Schwerpunkt liegt auf Josefs rechtlicher Anerkennung, nicht auf Legitimation durch göttliche Vaterschaft. Die Paralleltraditionen beleuchten das kulturelle Vokabular, innerhalb und gegen das Matthäus arbeitet.
 

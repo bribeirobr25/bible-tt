@@ -45,13 +45,13 @@
 
 ## VISIÓN GENERAL DEL CAPÍTULO
 
-**Qué sucede:** Dios recuerda a Noé. Las aguas retroceden: fuentes y ventanas se cierran, un viento pasa sobre la tierra. La *tebah* reposa sobre Ararat. Noé envía un cuervo (va y viene), luego una paloma tres veces (regresa, regresa con hoja de olivo, no regresa). Noé retira la cubierta, ve suelo seco. Dios ordena la salida. Noé construye un altar y sacrifica. YHWH huele el aroma de descanso y resuelve "nunca más" — usando el mismo diagnóstico (inclinación al mal) que provocó el diluvio.
+**Qué sucede:** Dios recuerda a Noé. Las aguas retroceden: fuentes y ventanas se cierran, un viento pasa sobre la tierra. La arca reposa sobre Ararat. Noé envía un cuervo (va y viene), luego una paloma tres veces (regresa, regresa con hoja de olivo, no regresa). Noé retira la cubierta, ve suelo seco. Dios ordena la salida. Noé construye un altar y sacrifica. YHWH huele el aroma de descanso y resuelve "nunca más" — usando el mismo diagnóstico (inclinación al mal) que provocó el diluvio.
 
 **Temas clave:** "Dios recordó" como el punto de giro narrativo; la recesión del diluvio refleja la creación (viento sobre las aguas, tierra seca apareciendo); el cuervo y la paloma como exploradores; la hoja de olivo como signo de recuperación; el primer altar; el juego de palabras *nichoach* (aroma de descanso / nombre de Noé); la paradoja de 8:21 — la inclinación al mal ahora motiva la restricción, no la destrucción.
 
 **Observe:** La recesión invierte el diluvio en el mismo orden en que el diluvio invirtió la creación — una estructura narrativa de tres capas (creación a des-creación a re-creación); las fechas específicas se retoman (8:4, 5, 13, 14) — el diluvio abarca aproximadamente un año solar (370–371 días según la propia aritmética del texto); "dijo en su corazón" (8:21) — interioridad divina, no declaración pública; la promesa de "nunca más" precede la ceremonia de pacto del Capítulo 9.
 
-**Conexión:** El altar y el sacrificio (8:20) anticipan el pacto formal del Capítulo 9. La raíz *nacham* reaparece implícitamente — aquel llamado "consuelo" (5:29) ha sobrevivido al evento del "pesar" divino (6:6).
+**Conexión:** El altar y el sacrificio (8:20) anticipan el pacto formal del Capítulo 9. La raíz consuelo/pesar reaparece implícitamente — aquel llamado "consuelo" (5:29) ha sobrevivido al evento del "pesar" divino (6:6).
 
 ---
 

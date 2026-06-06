@@ -43,13 +43,13 @@
 
 ## VISÃO GERAL DO CAPÍTULO
 
-**O que acontece:** Deus lembra-se de Noé. As águas recuam: fontes e janelas são tapadas, o vento passa sobre a terra. A *tebah* repousa sobre Ararat. Noé envia um corvo (vai e volta), depois uma pomba três vezes (retorna, retorna com folha de oliveira, não retorna). Noé remove a cobertura, vê o chão seco. Deus ordena a saída. Noé constrói um altar e sacrifica. YHWH sente o aroma agradável e resolve "nunca mais" — usando o mesmo diagnóstico (inclinação má) que motivou o dilúvio.
+**O que acontece:** Deus lembra-se de Noé. As águas recuam: fontes e janelas são tapadas, o vento passa sobre a terra. A arca repousa sobre Ararat. Noé envia um corvo (vai e volta), depois uma pomba três vezes (retorna, retorna com folha de oliveira, não retorna). Noé remove a cobertura, vê o chão seco. Deus ordena a saída. Noé constrói um altar e sacrifica. YHWH sente o aroma agradável e resolve "nunca mais" — usando o mesmo diagnóstico (inclinação má) que motivou o dilúvio.
 
 **Temas-chave:** "Deus lembrou-se" como ponto de virada narrativo; a recessão do dilúvio espelha a criação (vento sobre águas, terra seca aparecendo); o corvo e a pomba como batedores; a folha de oliveira como sinal de recuperação; o primeiro altar; o jogo de palavras *nichoach* (aroma agradável / nome de Noé); o paradoxo de 8:21 — a inclinação má agora motiva contenção, não destruição.
 
 **Observe:** A recessão reverte o dilúvio na mesma ordem em que o dilúvio reverteu a criação — uma estrutura narrativa em três camadas (criação, des-criação, re-criação); as datas específicas são retomadas (8:4, 5, 13, 14) — o dilúvio abrange aproximadamente um ano solar (370–371 dias pela aritmética do próprio texto); "disse em seu coração" (8:21) — interioridade divina, não declaração pública; a promessa de "nunca mais" precede a cerimônia da aliança do Capítulo 9.
 
-**Conexão:** O altar e o sacrifício (8:20) antecipam a aliança formal do Capítulo 9. A raiz *nacham* reaparece implicitamente — aquele que recebeu o nome de "conforto" (5:29) sobreviveu ao evento do "arrependimento" divino (6:6).
+**Conexão:** O altar e o sacrifício (8:20) antecipam a aliança formal do Capítulo 9. A raiz consolo/pesar reaparece implicitamente — aquele que recebeu o nome de "conforto" (5:29) sobreviveu ao evento do "arrependimento" divino (6:6).
 
 ---
 

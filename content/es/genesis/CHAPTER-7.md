@@ -45,13 +45,13 @@
 
 ## VISIÓN GENERAL DEL CAPÍTULO
 
-**Qué sucede:** YHWH ordena a Noé entrar en la *tebah* con su familia y los animales — animales limpios de siete en siete, los demás de dos en dos. Después de siete días, el diluvio comienza: las fuentes del abismo se abren y las ventanas del cielo se abren. Las aguas suben durante 40 días, cubriendo todas las montañas altas. Toda criatura que respira en tierra fuera de la *tebah* muere. Las aguas prevalecen durante 150 días.
+**Qué sucede:** YHWH ordena a Noé entrar en la arca con su familia y los animales — animales limpios de siete en siete, los demás de dos en dos. Después de siete días, el diluvio comienza: las fuentes del abismo se abren y las ventanas del cielo se abren. Las aguas suben durante 40 días, cubriendo todas las montañas altas. Toda criatura que respira en tierra fuera de la arca muere. Las aguas prevalecen durante 150 días.
 
-**Temas clave:** La distinción limpio/impuro anterior al Sinaí; el diluvio como inversión cosmológica — las aguas sobre y bajo el *raqia* (Día 2) se reúnen; el *mabbul* (diluvio — palabra usada solo para este evento); fechas calendáricas específicas a lo largo del relato; YHWH cierra la puerta (7:16 — Noé no se sella a sí mismo dentro); destrucción total de la vida terrestre.
+**Temas clave:** La distinción limpio/impuro anterior al Sinaí; el diluvio como inversión cosmológica — las aguas sobre y bajo el firmamento (Día 2) se reúnen; el diluvio (palabra usada solo para este evento); fechas calendáricas específicas a lo largo del relato; YHWH cierra la puerta (7:16 — Noé no se sella a sí mismo dentro); destrucción total de la vida terrestre.
 
 **Observe:** "Siete siete" para animales limpios (7:2) después de "dos de todos" (6:19–20) — la TT preserva ambas cifras sin armonización; las fechas del diluvio crean una cronología precisa que abarca exactamente un año solar; "YHWH cerró tras él" (7:16) — el nombre divino aparece en el momento del sellado; la frase "todas las montañas altas bajo todos los cielos" (7:19) — la declaración de alcance del propio texto.
 
-**Conexión:** El mecanismo del diluvio (7:11) invierte precisamente Génesis 1:6–7 (el *raqia* separando las aguas). El Capítulo 8 invertirá el diluvio, restableciendo la separación del Día 2.
+**Conexión:** El mecanismo del diluvio (7:11) invierte precisamente Génesis 1:6–7 (el firmamento separando las aguas). El Capítulo 8 invertirá el diluvio, restableciendo la separación del Día 2.
 
 ---
 

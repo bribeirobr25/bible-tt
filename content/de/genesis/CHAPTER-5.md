@@ -47,11 +47,11 @@
 
 **Was geschieht:** Die Geschlechterfolgen Adams — eine Zehn-Generationen-Genealogie von Adam bis Noah, strukturiert durch eine gesperrte Formel: „X lebte Y Jahre, zeugte Z, lebte W weitere Jahre, zeugte Söhne und Töchter, alle seine Tage waren N Jahre, und er starb." Zwei Einträge durchbrechen die Formel: Henoch („er war nicht, denn Gott nahm ihn") und Noah (dessen Eintrag in die Fluterzählung überleitet).
 
-**Zentrale Themen:** Das *Sefer Toledot* (Buch der Geschlechterfolgen) — die einzige *Toledot* mit dem Präfix „Buch"; die Bild/Gleichheit-Kette (Gott → Adam → Set); der unablässige „und er starb"-Refrain; Henochs Entrückung — „wandelte mit Gott" und „war nicht"; Noahs Namensetymologie (*nacham*, Trost/Reue); außerordentliche Lebensspannen (365–969 Jahre).
+**Zentrale Themen:** Das *Sefer Toledot* (Buch der Geschlechterfolgen) — die einzige *Toledot* mit dem Präfix „Buch"; die Bild/Gleichheit-Kette (Gott → Adam → Set); der unablässige „und er starb"-Refrain; Henochs Entrückung — „wandelte mit Gott" und „war nicht"; Noahs Namensetymologie (Trost/Reue); außerordentliche Lebensspannen (365–969 Jahre).
 
 **Achten Sie auf:** Henoch ist der Siebte von Adam (parallel zu Enmeduranki, dem siebten vorsintflutlichen König in sumerischer Tradition); Henoch lebt 365 Jahre (Sonnenjahreszahl, kürzeste in der Liste); Methusalems Todesjahr fällt nach der eigenen Arithmetik des Textes exakt mit dem Flutjahr zusammen; das Kapitel verwendet durchgehend *Elohim*, außer in V.29, wo Lamechs Rede JHWH nennt.
 
-**Verbindung:** Lamech benennt Noah mit einer Hoffnung, die an den verfluchten Boden geknüpft ist (5:29, als Echo von 3:17). Die Wurzel *nacham* in Noahs Namen taucht in 6:6 als göttliche „Reue" wieder auf — Trost und Reue teilen eine Wurzel.
+**Verbindung:** Lamech benennt Noah mit einer Hoffnung, die an den verfluchten Boden geknüpft ist (5:29, als Echo von 3:17). Die Wurzel Trost/Reue in Noahs Namen taucht in 6:6 als göttliche „Reue" wieder auf — Trost und Reue teilen eine Wurzel.
 
 ---
 

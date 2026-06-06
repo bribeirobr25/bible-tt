@@ -49,7 +49,7 @@
 
 **Achten Sie auf:** Der Rückgang kehrt die Flut in derselben Reihenfolge um, in der die Flut die Schöpfung umkehrte — eine dreischichtige Erzählstruktur (Schöpfung → Ent-Schöpfung → Neu-Schöpfung); die spezifischen Daten setzen sich fort (8:4, 5, 13, 14) — die Flut umspannt exakt ein Jahr; „sprach in seinem Herzen" (8:21) — göttliche Innerlichkeit, keine öffentliche Erklärung; die Nie-wieder-Verheißung geht der Bundeszeremonie von Kapitel 9 voraus.
 
-**Verbindung:** Der Altar und das Opfer (8:20) antizipieren den formalen Bund in Kapitel 9. Die Wurzel *nacham* erscheint erneut implizit — derjenige, der „Trost" genannt wurde (5:29), hat das Ereignis der göttlichen „Reue" (6:6) überlebt.
+**Verbindung:** Der Altar und das Opfer (8:20) antizipieren den formalen Bund in Kapitel 9. Die Wurzel Trost/Reue erscheint erneut implizit — derjenige, der „Trost" genannt wurde (5:29), hat das Ereignis der göttlichen „Reue" (6:6) überlebt.
 
 ---
 

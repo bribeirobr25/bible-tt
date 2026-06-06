@@ -10,6 +10,7 @@ import type {
 
 const SECTION_HEADER = /^## ([A-Z])(?:_\w+)?\.\s+(.+)$/;
 const ENTRY_HEADER = /^### (.+)$/;
+const SUBENTRY_HEADER = /^#### (.+)$/;
 const LABEL_LINE = /^\*\*\[(.+?)\s*(?:—|--)\s*(.+?)\]\*\*$/;
 const SOURCE_LINE = /^\*\*(?:Source|Quelle|Fonte|Fuente):\*\*\s*(.+)$/;
 
@@ -57,7 +58,8 @@ function parseClaimType(raw: string): ClaimType {
   if (
     normalized.includes("COMPARATIVE") ||
     normalized.includes("COMPARATIVO") ||
-    normalized.includes("VERGLEICHENDE")
+    normalized.includes("VERGLEICHENDE") ||
+    normalized.includes("KOMPARATIV")
   )
     return "COMPARATIVE PARALLEL";
   if (
@@ -178,17 +180,24 @@ function parseMarkdownSections(
     title: string;
     entries: EnrichmentEntry[];
   } | null = null;
-  let currentEntry: {
-    title: string;
-    claimType: ClaimType;
-    confidence: ConfidenceLevel;
-    contentLines: string[];
-    source?: string;
-  } | null = null;
+  let currentEntry: RawEntry | null = null;
+  // `#### IA-x` sub-dimension currently being accumulated under currentEntry
+  // (the §I "World at the Time" two-level structure). null outside §I.
+  let currentSub: RawEntry | null = null;
+
+  // Fold the open sub-entry into its parent group entry.
+  const flushSub = () => {
+    if (currentEntry && currentSub) {
+      currentEntry.subEntries ??= [];
+      currentEntry.subEntries.push(finalizeEntry(currentSub));
+      currentSub = null;
+    }
+  };
 
   for (const line of lines) {
     const sectionMatch = line.match(SECTION_HEADER);
     if (sectionMatch) {
+      flushSub();
       if (currentEntry && currentSection) {
         currentSection.entries.push(finalizeEntry(currentEntry));
         currentEntry = null;
@@ -206,6 +215,7 @@ function parseMarkdownSections(
 
     const entryMatch = line.match(ENTRY_HEADER);
     if (entryMatch && currentSection) {
+      flushSub();
       if (currentEntry) {
         currentSection.entries.push(finalizeEntry(currentEntry));
       }
@@ -218,26 +228,42 @@ function parseMarkdownSections(
       continue;
     }
 
-    if (currentEntry) {
+    const subMatch = line.match(SUBENTRY_HEADER);
+    if (subMatch && currentEntry) {
+      flushSub();
+      currentSub = {
+        title: subMatch[1].trim(),
+        claimType: "TEXTUAL",
+        confidence: "POSSIBLE",
+        contentLines: [],
+      };
+      continue;
+    }
+
+    // Route label/source/content to the open sub-entry if there is one,
+    // otherwise to the open entry.
+    const target = currentSub ?? currentEntry;
+    if (target) {
       const labelMatch = line.match(LABEL_LINE);
       if (labelMatch) {
-        currentEntry.claimType = parseClaimType(labelMatch[1]);
-        currentEntry.confidence = parseConfidence(labelMatch[2]);
+        target.claimType = parseClaimType(labelMatch[1]);
+        target.confidence = parseConfidence(labelMatch[2]);
         continue;
       }
 
       const sourceMatch = line.match(SOURCE_LINE);
       if (sourceMatch) {
-        currentEntry.source = sourceMatch[1].trim();
+        target.source = sourceMatch[1].trim();
         continue;
       }
 
       if (line.trim() !== "---" && line.trim().length > 0) {
-        currentEntry.contentLines.push(line);
+        target.contentLines.push(line);
       }
     }
   }
 
+  flushSub();
   if (currentEntry && currentSection) {
     currentSection.entries.push(finalizeEntry(currentEntry));
   }
@@ -284,15 +310,47 @@ export function parseIntroductionMarkdown(
 
 const INLINE_LABEL = /\*?\*?\[[^\]]+\s*(?:—|--|–)\s*[^\]]+\]\*?\*?/g;
 
-function finalizeEntry(raw: {
+// Some entries author the citation inline at the END of the body paragraph —
+// "… prose. **Source:** <cite>. **[PEER-REVIEWED — …]**" — instead of on its own
+// line. We lift such a trailing citation into the source field ONLY when the
+// entry has a single source marker that runs to the very end on one line
+// (`(.+)$`, no newline after). Composite entries with several per-item
+// "**Source:**" lines (e.g. Genesis §I scenario blobs) keep them inline — they
+// cannot collapse into one source field. TRAILING_LABEL drops the optional
+// source-quality bracket tag (never rendered).
+const SOURCE_MARKER = /\*\*(?:Source|Quelle|Fonte|Fuente):\*\*/g;
+const SOURCE_INLINE =
+  /^([\s\S]*?)\*\*(?:Source|Quelle|Fonte|Fuente):\*\*\s*(.+)$/;
+const TRAILING_LABEL = /\s*\*\*\[[^\]]*\]\*\*\s*$/;
+
+interface RawEntry {
   title: string;
   claimType: ClaimType;
   confidence: ConfidenceLevel;
   contentLines: string[];
   source?: string;
-}): EnrichmentEntry {
-  const content = raw.contentLines
-    .join("\n")
+  subEntries?: EnrichmentEntry[];
+}
+
+function finalizeEntry(raw: RawEntry): EnrichmentEntry {
+  let body = raw.contentLines.join("\n");
+  let source = raw.source;
+
+  // Own-line "**Source:**" is captured at parse time (raw.source). Only when it
+  // is absent do we look for an inline trailing citation and lift it out, so the
+  // 1000+ well-formed own-line sources are left exactly as before.
+  if (!source) {
+    const markers = body.match(SOURCE_MARKER);
+    if (markers && markers.length === 1) {
+      const m = body.match(SOURCE_INLINE);
+      if (m) {
+        source = m[2].replace(TRAILING_LABEL, "").trim();
+        body = m[1];
+      }
+    }
+  }
+
+  const content = body
     .replace(INLINE_LABEL, "")
     .replace(/\s{2,}/g, " ")
     .trim();
@@ -301,7 +359,10 @@ function finalizeEntry(raw: {
     claimType: raw.claimType,
     confidence: raw.confidence,
     content,
-    source: raw.source,
+    source,
+    ...(raw.subEntries && raw.subEntries.length > 0
+      ? { subEntries: raw.subEntries }
+      : {}),
   };
 }
 

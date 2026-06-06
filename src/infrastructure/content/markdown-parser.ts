@@ -100,39 +100,45 @@ function splitIntoSections(raw: string): {
   return { preamble, sections };
 }
 
+// `source` should include the title-section content (the `**Base Text:** …`
+// metadata block lives there, not in the preamble). Keys are matched by
+// substring so label variants ("Divine Name Policy (Rule 25 / GS Policy)") and
+// all four locales resolve.
 function extractMetadata(
-  preamble: string,
+  source: string,
   book: string,
   chapter: number,
 ): ChapterMetadata {
   const meta: Record<string, string> = {};
-  for (const line of preamble.split("\n")) {
+  for (const line of source.split("\n")) {
     const match = line.match(METADATA_LINE);
     if (match) {
       meta[match[1].trim()] = match[2].trim();
     }
   }
+  const keys = Object.keys(meta);
+  const pick = (...needles: string[]): string => {
+    for (const key of keys) {
+      const lower = key.toLowerCase();
+      if (needles.some((n) => lower.includes(n))) return meta[key];
+    }
+    return "";
+  };
 
   return {
     book,
     chapter,
-    edition: meta.Edition || meta.Edição || meta.Ausgabe || "Transparent",
-    language: meta.Language || meta.Idioma || meta.Sprache || "",
-    baseText: meta["Base Text"] || meta["Texto Base"] || meta.Grundtext || "",
-    status: meta.Status || "provisional",
-    methodology:
-      meta.Methodology ||
-      meta.Metodologia ||
-      meta.Metodología ||
-      meta.Methodik ||
-      "",
-    divineNamePolicy:
-      meta["Divine Name Policy (Rule 25)"] ||
-      meta["Política do Nome Divino (Regra 25)"] ||
-      meta["Politica del Nombre Divino (Regla 25)"] ||
-      meta["Política del Nombre Divino (Regla 25)"] ||
-      meta["Gottesname-Politik (Regel 25)"] ||
-      "",
+    edition: pick("edition", "edição", "edición", "ausgabe") || "Transparent",
+    language: pick("language", "idioma", "sprache"),
+    baseText: pick("base text", "texto base", "grundtext"),
+    status: pick("status") || "provisional",
+    methodology: pick("methodology", "metodologia", "metodología", "methodik"),
+    divineNamePolicy: pick(
+      "divine name",
+      "nome divino",
+      "nombre divino",
+      "gottesname",
+    ),
   };
 }
 
@@ -292,7 +298,15 @@ export function parseChapterMarkdown(
   chapter: number,
 ): ChapterData {
   const { preamble, sections } = splitIntoSections(raw);
-  const metadata = extractMetadata(preamble, book, chapter);
+  // Metadata lives inside the title section (`## The Transparent Translation`),
+  // not the preamble — include it so Base Text / Methodology / Divine Name parse.
+  const titleContent =
+    sections.find((s) => isTitleSection(s.title))?.content ?? "";
+  const metadata = extractMetadata(
+    `${preamble}\n${titleContent}`,
+    book,
+    chapter,
+  );
 
   let overview: string | null = null;
   let readingGuide: string | null = null;

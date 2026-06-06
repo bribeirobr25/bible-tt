@@ -91,6 +91,12 @@ export interface EnrichmentEntry {
   confidence: ConfidenceLevel;
   content: string;
   source?: string;
+  /**
+   * Two-level §I "World at the Time" structure: a `### SCENARIO` group entry
+   * carries its `#### IA-x` sub-dimensions here (each its own dual-labelled
+   * card). Absent on ordinary single-level entries (sections A–H, Genesis §I).
+   */
+  subEntries?: EnrichmentEntry[];
 }
 
 export interface EnrichmentSection {

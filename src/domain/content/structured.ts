@@ -18,6 +18,7 @@ import {
   enrichmentDisclaimerId,
   enrichmentEntryId,
   enrichmentSectionId,
+  enrichmentSubEntryId,
   glossaryId,
   introDisclaimerId,
   introEntryId,
@@ -52,6 +53,7 @@ export type StructuredKind =
   | "enrichment-disclaimer"
   | "enrichment-section"
   | "enrichment-entry"
+  | "enrichment-subentry"
   | "intro-disclaimer"
   | "intro-section"
   | "intro-entry"
@@ -171,17 +173,36 @@ export function emitEnrichment(data: EnrichmentData): StructuredUnit[] {
       meta: { sectionId: section.id },
     });
     section.entries.forEach((e, ei) => {
+      const entryId = enrichmentEntryId(book, chapter, section.id, ei);
+      const isGroup = !!e.subEntries && e.subEntries.length > 0;
       units.push({
-        id: enrichmentEntryId(book, chapter, section.id, ei),
+        id: entryId,
         kind: "enrichment-entry",
-        text: e.content,
+        // A §I group entry owns no prose of its own — its scenario heading is
+        // the conserved text; ordinary entries conserve their body.
+        text: isGroup ? e.title : e.content,
         parentId: secId,
         meta: {
           title: e.title,
           claimType: e.claimType,
           confidence: e.confidence,
           source: e.source,
+          ...(isGroup ? { isGroup: true } : {}),
         },
+      });
+      e.subEntries?.forEach((se, si) => {
+        units.push({
+          id: enrichmentSubEntryId(book, chapter, section.id, ei, si),
+          kind: "enrichment-subentry",
+          text: se.content,
+          parentId: entryId,
+          meta: {
+            title: se.title,
+            claimType: se.claimType,
+            confidence: se.confidence,
+            source: se.source,
+          },
+        });
       });
     });
   });

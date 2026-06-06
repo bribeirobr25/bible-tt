@@ -46,11 +46,11 @@
 
 **Was geschieht:** JHWH gebietet Noah, mit seiner Familie und den Tieren in die *Tebah* einzutreten — reine Tiere zu siebent, andere zu zweit. Nach sieben Tagen beginnt die Flut: Die Quellen der großen Tiefe brechen auf und die Fenster des Himmels werden geöffnet. Die Wasser steigen vierzig Tage, bedecken alle hohen Berge. Jedes landatmende Lebewesen außerhalb der *Tebah* stirbt. Die Wasser herrschen einhundertfünfzig Tage.
 
-**Zentrale Themen:** Die Unterscheidung rein/unrein vor Sinai; die Flut als kosmologische Umkehrung — die Wasser über und unter dem *raqia* (Tag 2) vereinigen sich wieder; der *Mabbul* (Flut — ein Wort, das nur für dieses Ereignis verwendet wird); spezifische Kalenderdaten durchgehend; JHWH schließt die Tür (7:16 — Noah versiegelt sich nicht selbst); totale Vernichtung des Landlebens.
+**Zentrale Themen:** Die Unterscheidung rein/unrein vor Sinai; die Flut als kosmologische Umkehrung — die Wasser über und unter dem Firmament (Tag 2) vereinigen sich wieder; der *Mabbul* (Flut — ein Wort, das nur für dieses Ereignis verwendet wird); spezifische Kalenderdaten durchgehend; JHWH schließt die Tür (7:16 — Noah versiegelt sich nicht selbst); totale Vernichtung des Landlebens.
 
 **Achten Sie auf:** „Sieben sieben" für reine Tiere (7:2) nach „zwei von allem" (6:19–20) — die TT bewahrt beides ohne Harmonisierung; die Flutdaten ergeben eine präzise Chronologie, die ein Sonnenjahr umspannt; „JHWH schloss hinter ihm zu" (7:16) — der Gottesname erscheint im Moment der Versiegelung; die Wendung „alle hohen Berge unter dem ganzen Himmel" (7:19) — die Reichweitebehauptung des Textes selbst.
 
-**Verbindung:** Der Flutmechanismus (7:11) kehrt Genesis 1:6–7 präzise um (das *raqia*, das die Wasser trennt). Kapitel 8 wird die Flut umkehren und die Trennung des zweiten Tages wiederherstellen.
+**Verbindung:** Der Flutmechanismus (7:11) kehrt Genesis 1:6–7 präzise um (das Firmament, das die Wasser trennt). Kapitel 8 wird die Flut umkehren und die Trennung des zweiten Tages wiederherstellen.
 
 ---
 

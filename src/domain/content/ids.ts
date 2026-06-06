@@ -109,6 +109,16 @@ export function enrichmentEntryId(
   return `${enrichmentSectionId(book, chapter, sectionId)}.e${entryIndex + 1}`;
 }
 
+export function enrichmentSubEntryId(
+  book: string,
+  chapter: number,
+  sectionId: string,
+  entryIndex: number,
+  subIndex: number,
+): string {
+  return `${enrichmentEntryId(book, chapter, sectionId, entryIndex)}.s${subIndex + 1}`;
+}
+
 export function enrichmentDisclaimerId(book: string, chapter: number): string {
   return `${chapterId(book, chapter)}.ctx#disclaimer`;
 }

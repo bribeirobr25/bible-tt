@@ -8,13 +8,13 @@ The Transparent Translation (TT) — a multilingual Bible translation project wi
 
 - **Scope:** Genesis 1–12, John 1–3, Matthew 1–3 — all four locales (EN, PT-BR, DE, ES); each book has chapters + INTRODUCTION + PEOPLE + study companions (CONTEXT, and PROPHECY where warranted).
 - **Rulesets:** RULES-CORE **v3.3** · RULES-HB **v3.3.1** · RULES-GS **v3.2** (lock). 29 rules total.
-- **Tests:** 827 passing (`pnpm test`); `pnpm build`, `pnpm lint`, `pnpm content:lint` all clean.
+- **Tests:** 841 passing (`pnpm test`); `pnpm build`, `pnpm lint`, `pnpm content:lint` all clean.
 - **Structured layer (UX/Structure Phase 2, 2026-06-04, uncommitted):** derived, additive `StructuredUnit` layer (`domain/content/ids.ts` + `structured.ts` + `content-loader.getStructuredBook()`) with stable IDs; conservation gate (`__tests__/conservation.test.ts`) proves zero content loss across all 204 files (10,057 units). Markdown stays source of truth.
 - **3-door IA (UX/Structure Phase 3, 2026-06-05, uncommitted):** 5 hash view-modes → 3 real URL doors **Read · Notes · Deeper** (`ChapterShell` + `DoorNav` + `NotesView` + `DeeperView`); `/context`→`/background`; verse `#v{n}` anchors. See URL table below.
 - **Text QA (UX/Structure Phase 4, 2026-06-05, uncommitted):** de-dup-by-derivation deferred as unsafe (views differ by per-section name rendering + quotation flow); lazy-payload already done by Phase 3. Content-QA pass fixed a functional bug (ES John 1–3 unaccented headers → empty Notes/overview, now 51/25/36 verses) + ES/EN consistency typos; added chapter-completeness guard.
 - **UX finish (Phase 5 — 5a/5c/5d + 5b-EN, 2026-06-06, uncommitted):** deep **teal/petrol accent** (`#006475`) replacing amber; **civilizational landing** ("Read the originals…" + Start reading / New here?Start here); new **`/start` reading-plan** page (roadmap + available-now); **18 EN chapter overviews de-jargoned** (familiar names + plain English; main text untouched). **Remaining 5b:** PT-BR/DE/ES de-jargon + book tight-cards.
 - **Book tight-cards (Phase 5b, 2026-06-06, uncommitted):** book landing leads with an at-a-glance **What·When·Who·To-whom·Why** card (`<!-- CARD -->` block in INTRODUCTION.md → `IntroductionData.card` → `BookCard`), replacing the overview dump.
-- **Next up:** Phase 5b remainder = **Pattern C only** (non-EN overview inline technical-term glossing); then Phase 6 (search); Genesis 13–50 (Phase 12); cross-book canonical PEOPLE source-merge; README staleness.
+- **Next up:** Phase 6 (search) — UX/Structure Phases 1–5 essentially complete (Pattern C glossed 26 non-EN terms; a small bespoke wordplay/grammar residual deferred, see PENDING); then Genesis 13–50 (Phase 12); cross-book canonical PEOPLE source-merge; README staleness; §I `#### IA-x` sub-entry decision.
 
 Pointers (do not duplicate their content here):
 - Execution history (completed phases/bundles + ruleset trail) → `docs/audit/EXECUTION_HISTORY.md`

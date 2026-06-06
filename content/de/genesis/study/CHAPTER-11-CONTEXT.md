@@ -154,7 +154,7 @@ Die rabbinische Tradition (Babylonischer Talmud, Sukkah 55b; Targum Pseudo-Jonat
 **Quelle:** Babylonischer Talmud, Sukkah 55b; Targum Pseudo-Jonathan zu Gn 11:7-8; Ginzberg, L., *Legends of the Jews*, Bd. 1, 1909.
 
 ### F3. Anti-Missbrauch-Erklärung — die Babel-Erzählung
-**[SCHLUSSFOLGERUNG — WAHRSCHEINLICH]**
+**[STARKE SCHLUSSFOLGERUNG — WAHRSCHEINLICH]**
 
 Die Babel-Erzählung wurde benutzt, um Technologie, Städte, kulturellen Ehrgeiz und sprachliche Vielfalt zu verurteilen. Der Text selbst ist nuancierter: Das Projekt der Erbauer wird unterbrochen, aber die daraus resultierende Vielfalt der Sprachen und die Zerstreuung über die Erde erfüllt den früheren göttlichen Auftrag, „die Erde zu füllen" (1:28; 9:1). Die Erzählung stellt göttliche Unterbrechung dar, kein umfassendes Urteil gegen Zivilisation. JHWHs Reaktion ist keine Bestrafung für Gottlosigkeit im Allgemeinen, sondern ein spezifisches Eingreifen gegen ein spezifisches Projekt der Selbsterhöhung und des Anti-Zerstreut-Werdens. Der Text urteilt nicht, dass menschliche Sprachvielfalt ein Fluch ist, städtisches Leben inhärent korrumpiert oder technologischer Ehrgeiz kategorisch verboten ist.
 

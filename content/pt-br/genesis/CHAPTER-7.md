@@ -44,13 +44,13 @@
 
 ## VISÃO GERAL DO CAPÍTULO
 
-**O que acontece:** YHWH ordena a Noé que entre na *tebah* com sua família e os animais — animais limpos aos sete, os demais aos pares. Após sete dias, o dilúvio começa: as fontes do grande abismo se rompem e as janelas dos céus se abrem. As águas sobem por 40 dias, cobrindo todos os montes altos. Toda criatura que respira em terra seca fora da *tebah* morre. As águas prevalecem por 150 dias.
+**O que acontece:** YHWH ordena a Noé que entre na arca com sua família e os animais — animais limpos aos sete, os demais aos pares. Após sete dias, o dilúvio começa: as fontes do grande abismo se rompem e as janelas dos céus se abrem. As águas sobem por 40 dias, cobrindo todos os montes altos. Toda criatura que respira em terra seca fora da arca morre. As águas prevalecem por 150 dias.
 
-**Temas-chave:** Distinção limpo/impuro anterior ao Sinai; o dilúvio como reversão cosmológica — as águas acima e abaixo do *raqia* (Dia 2) se reúnem; o *mabbul* (dilúvio — palavra usada apenas para este evento); datas calendárias específicas ao longo do capítulo; YHWH fecha a porta (7:16 — Noé não se sela a si mesmo); destruição total da vida terrestre.
+**Temas-chave:** Distinção limpo/impuro anterior ao Sinai; o dilúvio como reversão cosmológica — as águas acima e abaixo do firmamento (Dia 2) se reúnem; o dilúvio (palavra usada apenas para este evento); datas calendárias específicas ao longo do capítulo; YHWH fecha a porta (7:16 — Noé não se sela a si mesmo); destruição total da vida terrestre.
 
 **Observe:** "Sete sete" para animais limpos (7:2) após "dois de todos" (6:19–20) — a TT preserva ambos sem harmonização; as datas do dilúvio criam uma cronologia precisa abrangendo um ano solar; "YHWH fechou atrás dele" (7:16) — o nome divino aparece no momento da selagem; a frase "todos os montes altos debaixo de todos os céus" (7:19) — a própria reivindicação de escopo do texto.
 
-**Conexão:** O mecanismo do dilúvio (7:11) reverte precisamente Gênesis 1:6–7 (o *raqia* separando águas). O Capítulo 8 reverterá o dilúvio, restabelecendo a separação do Dia 2.
+**Conexão:** O mecanismo do dilúvio (7:11) reverte precisamente Gênesis 1:6–7 (o firmamento separando águas). O Capítulo 8 reverterá o dilúvio, restabelecendo a separação do Dia 2.
 
 ---
 
