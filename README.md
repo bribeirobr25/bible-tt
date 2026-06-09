@@ -19,13 +19,15 @@ pnpm dev
 
 Open [http://localhost:3000](http://localhost:3000) in your browser.
 
-## Five ways to read
+## Three ways to read
 
-### Reading Mode
+Every chapter opens on three doors, each a real, crawlable URL.
 
-Continuous prose with superscript verse numbers. Clean typography. The text speaks; the UI recedes.
+### Read
 
-### Study Mode
+Continuous prose with superscript verse numbers. Clean typography. The text speaks; the UI recedes. (`/{locale}/{book}/chapter/{n}`)
+
+### Notes
 
 Verse-by-verse with expandable color-coded notes:
 - **Critical** — major textual or translation decisions
@@ -33,29 +35,17 @@ Verse-by-verse with expandable color-coded notes:
 - **Grammatical** — Hebrew/Greek structure, verb forms, syntax
 - **Theological** — interpretive options, ambiguity preservation
 
-Plus expandable glossary, cross-chapter tracking, and supplementary analysis.
+Plus expandable glossary, cross-chapter tracking, supplementary analysis, and `#v{n}` verse deep-links. (`/chapter/{n}/notes`)
 
-### Explore Mode
+### Deeper
 
-Curated highlights from the chapter's background research — curiosities, historical context ("The World at the Time"), and scientific observations. Accessible narrative format with confidence indicators.
+Historical and linguistic background, prophecy readings, and the people behind the text — surfaced only where such material exists. (`/chapter/{n}/deeper`) Sub-tabs:
 
-### Context Mode
+- **Background** — the full contextual study companion: Source-Text Features · ANE Parallels · Historical & Archaeological · Linguistic Deep Dives · Scientific Correspondence · Later Reception (Jewish/Christian/Islamic, labeled post-biblical) · Curiosities · The World at the Time (multi-scenario historical context, scenario → sub-dimension cards). Every entry labeled by claim-type and confidence; sources cited; the enrichment draws no conclusions — the reader does.
+- **Prophecies** — prophetic statements with fulfillment status across traditions (Jewish, Christian, Islamic). Each tradition's reading labeled LATER RECEPTION — DOCUMENTED. No tradition privileged over others.
+- **People** — link to the book's People & Genealogy page.
 
-Full contextual study companion with expandable topic sections:
-- **Source Text Features** — what the TT makes visible that traditional translations smooth
-- **ANE Parallels** — Enuma Elish, Atrahasis, Gilgamesh, comparative motifs
-- **Historical & Archaeological** — ANE cosmology, flood evidence, treaty traditions
-- **Linguistic Deep Dives** — rare words, semantic fields, comparative Semitics
-- **Scientific Correspondence** — what the text presents vs. what modern science describes
-- **Later Reception** — Jewish, Christian, Islamic readings (labeled as post-biblical)
-- **Curiosities** — text-linked observations and open questions
-- **The World at the Time** — multi-scenario historical context (what was life like when this was written?)
-
-Every entry labeled by claim-type and confidence level. Sources cited. Entries sorted by confidence (most established first). The enrichment draws no conclusions — the reader does.
-
-### Prophecy Mode
-
-Tracks prophetic statements with fulfillment status across traditions (Jewish, Christian, Islamic). Each tradition's reading labeled as LATER RECEPTION — DOCUMENTED. No tradition privileged over others.
+New readers can also start at `/{locale}/start` — a "Why this order?" reading-plan roadmap.
 
 ## People & Genealogy
 
@@ -119,10 +109,10 @@ All decisions logged in the editorial logs ([genesis.md](docs/editorial-log/gene
 | Icons | Lucide (1.5px stroke) |
 | i18n | next-intl (URL-based routing) |
 | Content | Markdown parsed at build time (5 parser files; 6 parse functions) |
-| Testing | Vitest (819 tests across 8 files) |
+| Testing | Vitest (841 tests across 9 files) |
 | Linting | Biome |
 
-> **Project state (2026-05-18):** Genesis 1–12, John 1–3, Matthew 1–3 in EN/PT-BR/DE/ES, with INTRODUCTION + PEOPLE + Book Context per book and study companions per chapter. Content carries `provisional` status pending reviewer sign-off (Rule 28). Multi-phase governance + content audit closed across 2026-05-08 through 2026-05-18: Ruleset v3.3 amendments (§Punctuation Governance, §Idiom Policy, §Glossary Expansion, formalized Editorial Log Specification, John 1:1c worked example); Phase 7 readability sweep on John/Matthew companions; Phase 8 Section I 10-category coverage parity (44 cross-reference quote-blocks + 8 narrative-specific entries × 4 locales); Phase 9 Book Context cycle (20 motifs × 4 locales + new `BookContextData` domain type + parser + page); Phase 10 John PEOPLE.md authoring (11 entries × 4 locales); Phase 11 Option C prophecy authoring (3 chapters × 4 locales); v3.3.1 emergency amendment + DE familiar-names sweep (259 redundant-parens occurrences corrected); Tier 2 note bloat propagation pilot (35 edits across Genesis 6 + John 2 + Matthew 1); Phase 13 cross-book PEOPLE formalization via v3.3.2 emergency amendment (markdown convention + locale-translation table + 7-slug allow-list + 5-change new-book activation checklist + warn-only §0.12 content-lint rule). Of 38 prior-audit issues, 24 are RESOLVED, 2 PARTIAL, 12 NOT VERIFIED, 0 STILL OPEN actionable. Largest remaining piece: Genesis 13–50 authoring (Phase 12). Full ledger in `docs/audit/PENDING.md` and `docs/feedback/`.
+> **Project state (2026-06-06):** Genesis 1–12, John 1–3, Matthew 1–3 in EN/PT-BR/DE/ES, with INTRODUCTION + PEOPLE + Book Context per book and study companions per chapter. Content carries `provisional` status pending reviewer sign-off (Rule 28). **UX/Structure program (2026-06):** Phase 1 SEO baseline (per-page metadata, sitemap, JSON-LD, OG images); Phase 2 derived structured layer + stable IDs guarded by a conservation gate (zero content loss across all 204 files); Phase 3 three-door IA (**Read · Notes · Deeper**, real URLs) with `/context`→`/background`; Phase 4 content-QA pass; Phase 5 UX finish (teal/petrol accent, civilizational landing, `/start` reading plan, book "tight cards", chapter-overview de-jargon across all locales); §I "World at the Time" two-level scenario→sub-dimension parser+UI support + inline-`**Source:**` lift; latent parser-bug fixes (chapter metadata, DE claim labels). Tests 841 across 9 files. **Earlier — multi-phase governance + content audit closed across 2026-05-08 through 2026-05-18:** Ruleset v3.3 amendments (§Punctuation Governance, §Idiom Policy, §Glossary Expansion, formalized Editorial Log Specification, John 1:1c worked example); Phase 7 readability sweep on John/Matthew companions; Phase 8 Section I 10-category coverage parity (44 cross-reference quote-blocks + 8 narrative-specific entries × 4 locales); Phase 9 Book Context cycle (20 motifs × 4 locales + new `BookContextData` domain type + parser + page); Phase 10 John PEOPLE.md authoring (11 entries × 4 locales); Phase 11 Option C prophecy authoring (3 chapters × 4 locales); v3.3.1 emergency amendment + DE familiar-names sweep (259 redundant-parens occurrences corrected); Tier 2 note bloat propagation pilot (35 edits across Genesis 6 + John 2 + Matthew 1); Phase 13 cross-book PEOPLE formalization via v3.3.2 emergency amendment (markdown convention + locale-translation table + 7-slug allow-list + 5-change new-book activation checklist + warn-only §0.12 content-lint rule). Of 38 prior-audit issues, 24 are RESOLVED, 2 PARTIAL, 12 NOT VERIFIED, 0 STILL OPEN actionable. Largest remaining piece: Genesis 13–50 authoring (Phase 12). Full ledger in `docs/audit/PENDING.md` and `docs/feedback/`.
 
 ## Project structure
 

@@ -46,7 +46,7 @@
 
 **O que acontece:** As gerações de Adão — uma genealogia de dez gerações de Adão a Noé, estruturada por uma fórmula travada: "X viveu Y anos, gerou Z, viveu W anos mais, gerou filhos e filhas, todos os seus dias foram N anos, e morreu." Duas entradas quebram a fórmula: Enoque ("ele não foi mais, porque Deus o tomou") e Noé (cuja entrada faz a transição para a narrativa do dilúvio).
 
-**Temas-chave:** O *sefer toledot* (livro das gerações) — o único *toledot* com o prefixo "livro"; a cadeia imagem/semelhança (Deus, Adão, Sete); o refrão implacável "e morreu"; a translação de Enoque — "andou com Deus" e "não foi mais"; a etimologia do nome de Noé (conforto/arrependimento); longevidades extraordinárias (365–969 anos).
+**Temas-chave:** O livro das gerações — o único com o prefixo "livro"; a cadeia imagem/semelhança (Deus, Adão, Sete); o refrão implacável "e morreu"; a translação de Enoque — "andou com Deus" e "não foi mais"; a etimologia do nome de Noé (conforto/arrependimento); longevidades extraordinárias (365–969 anos).
 
 **Observe:** Enoque é o sétimo a partir de Adão (paralelo a Enmeduranki, sétimo rei antediluviano na tradição suméria); Enoque vive 365 anos (número do ano solar, o mais curto da lista); o ano da morte de Matusalém coincide exatamente com o ano do dilúvio pela aritmética do próprio texto; o capítulo usa *Elohim* ao longo de todo o texto, exceto no v.29, onde a fala de Lameque nomeia YHWH.
 

@@ -46,7 +46,7 @@
 
 **O que acontece:** Os "filhos de Deus/dos deuses" tomam mulheres humanas. YHWH limita a vida humana a 120 anos. Os nephilim estão sobre a terra. YHWH vê a maldade total do humano, arrepende-se de ter feito a humanidade e resolve destruir. Mas Noé encontra favor. Deus instrui Noé a construir uma arca (caixa/arca) com dimensões específicas, anuncia o dilúvio, estabelece a primeira aliança e ordena a Noé trazer animais a bordo.
 
-**Temas-chave:** Os *bene ha-elohim* — tripla ambiguidade preservada (seres divinos, governantes, linhagem setita); os nephilim (transliterado, não "gigantes"); *yadon* — verbo genuinamente incerto (permanecer/contender); arrependimento divino (mesma raiz do nome de Noé); "Deus viu" invertido (criação: "viu que bom"; aqui: "viu que grande era a maldade"); violência como o pecado nomeado; a arca como recipiente selado, não um navio; jogo de palavras *kopher/kippur* (betume/expiação).
+**Temas-chave:** Os filhos de Deus — tripla ambiguidade preservada (seres divinos, governantes, linhagem setita); os nephilim (transliterado, não "gigantes"); um verbo genuinamente incerto (permanecer/contender); arrependimento divino (mesma raiz do nome de Noé); "Deus viu" invertido (criação: "viu que bom"; aqui: "viu que grande era a maldade"); violência como o pecado nomeado; a arca como recipiente selado, não um navio; jogo de palavras entre o betume e a expiação (mesma raiz).
 
 **Observe:** A ordem de destruição (6:7) inverte a ordem da criação; YHWH aparece nos vv.1–8 (emocional, relacional), Elohim nos vv.9–22 (instrucional, aliancístico); a primeira ocorrência de aliança na Bíblia — anunciada antes de seus termos serem revelados; "dois de todos" (6:19) vs. "sete pares" de animais limpos (7:2) — uma tensão interna que a TT preserva.
 

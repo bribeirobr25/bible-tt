@@ -47,9 +47,9 @@
 
 **Qué sucede:** Caín (agricultor) y Abel (pastor) traen ofrendas; YHWH mira con favor la de Abel pero no la de Caín. A pesar de la advertencia divina, Caín mata a Abel. YHWH confronta a Caín, lo declara errante, lo marca para su protección y Caín se establece en la tierra de Nod. Sigue la genealogía de Caín: construcción de ciudades, economía pastoril, música, metalurgia — culminando en el canto de Lemej de violencia escalada. El capítulo cierra con el nacimiento de Set y el comienzo de la invocación del nombre de YHWH.
 
-**Temas clave:** La primera ofrenda y el primer asesinato; advertencia divina desatendida (4:6–7, "el pecado agazapado a la puerta"); "¿Acaso soy yo guardián de mi hermano?"; la sangre clamando desde el suelo (*adamah* de nuevo); la marca de Caín como protección; los orígenes de la civilización en la línea del asesino; escalada de violencia (7 veces a 77 veces); Set como línea de reemplazo.
+**Temas clave:** La primera ofrenda y el primer asesinato; advertencia divina desatendida (4:6–7, "el pecado agazapado a la puerta"); "¿Acaso soy yo guardián de mi hermano?"; la sangre clamando desde el suelo; la marca de Caín como protección; los orígenes de la civilización en la línea del asesino; escalada de violencia (7 veces a 77 veces); Set como línea de reemplazo.
 
-**Observe:** El texto nunca explica *por qué* YHWH miró con favor la ofrenda de Abel y no la de Caín — el vacío es el detonante narrativo; el castigo de Caín refleja el de Adán (ambos expulsados de la *adamah*); el canto de Lemej (4:23–24) invierte la protección de YHWH de 7 veces en venganza de 77 veces; dos Enoc y dos Lemej aparecen en las genealogías paralelas (Cap. 4 vs. Cap. 5).
+**Observe:** El texto nunca explica *por qué* YHWH miró con favor la ofrenda de Abel y no la de Caín — el vacío es el detonante narrativo; el castigo de Caín refleja el de Adán (ambos expulsados del suelo); el canto de Lemej (4:23–24) invierte la protección de YHWH de 7 veces en venganza de 77 veces; dos Enoc y dos Lemej aparecen en las genealogías paralelas (Cap. 4 vs. Cap. 5).
 
 **Conexión:** La genealogía cainita (Capítulo 4) se desarrolla en paralelo con la genealogía setita (Capítulo 5). La violencia que comienza aquí llena la tierra para el Capítulo 6, desencadenando el diluvio.
 

@@ -50,9 +50,9 @@
 
 **Qué sucede:** Un segundo relato de creación comienza en 2:4 con una secuencia y un enfoque diferentes. YHWH Dios forma al humano del polvo, planta un jardín en Edén con dos árboles nombrados, coloca al humano allí para trabajarlo y guardarlo, da el mandato sobre el árbol del conocimiento, declara "no bueno" que el humano esté solo, forma los animales y construye a la mujer del costado del humano.
 
-**Temas clave:** La fórmula de las generaciones (2:4); YHWH Dios (nombre divino combinado); formación a partir de *adamah* (suelo) — el juego de palabras *adam/adamah*; el jardín como espacio delimitado; el árbol del conocimiento y el árbol de la vida; el mandato y su consecuencia ("muriendo morirás"); nombrar como ordenar; "una sola carne."
+**Temas clave:** La fórmula de las generaciones (2:4); YHWH Dios (nombre divino combinado); formación a partir del suelo — el juego de palabras *adam/adamah*; el jardín como espacio delimitado; el árbol del conocimiento y el árbol de la vida; el mandato y su consecuencia ("muriendo morirás"); nombrar como ordenar; "una sola carne."
 
-**Observe:** El nombre divino cambia a YHWH Elohim (desde 2:4); el orden de creación diferente respecto al Capítulo 1 (humano antes que animales en 2:7, 19); el "no bueno" — la única evaluación negativa en la creación; la *tardemah* (sueño profundo); "hueso de mis huesos" como el primer discurso humano.
+**Observe:** El nombre divino cambia a YHWH Elohim (desde 2:4); el orden de creación diferente respecto al Capítulo 1 (humano antes que animales en 2:7, 19); el "no bueno" — la única evaluación negativa en la creación; el sueño profundo; "hueso de mis huesos" como el primer discurso humano.
 
 **Conexión:** Los árboles introducidos aquí — conocimiento y vida — impulsan la narrativa del Capítulo 3. La relación entre el humano y el suelo se convierte en la base de la maldición en 3:17–19.
 

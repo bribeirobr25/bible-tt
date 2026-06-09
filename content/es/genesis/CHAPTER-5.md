@@ -48,7 +48,7 @@
 
 **Qué sucede:** Las generaciones de Adán — una genealogía de diez generaciones desde Adán hasta Noé, estructurada por una fórmula fija: "X vivió Y años, engendró a Z, vivió W años más, engendró hijos e hijas, todos sus días fueron N años, y murió." Dos entradas rompen la fórmula: Enoc ("no fue más, porque Dios lo tomó") y Noé (cuya entrada transiciona al relato del diluvio).
 
-**Temas clave:** El *sefer toledot* (libro de generaciones) — el único *toledot* con el prefijo "libro"; la cadena imagen/semejanza (Dios a Adán a Set); el implacable estribillo "y murió"; la traslación de Enoc — "caminó con Dios" y "no fue más"; la etimología del nombre de Noé (consuelo/pesar); longevidades extraordinarias (365–969 años).
+**Temas clave:** El libro de generaciones — el único con el prefijo "libro"; la cadena imagen/semejanza (Dios a Adán a Set); el implacable estribillo "y murió"; la traslación de Enoc — "caminó con Dios" y "no fue más"; la etimología del nombre de Noé (consuelo/pesar); longevidades extraordinarias (365–969 años).
 
 **Observe:** Enoc es el séptimo desde Adán (paralelo a Enmeduranki, séptimo rey antediluviano en la tradición sumeria); Enoc vive 365 años (número del año solar, el más corto de la lista); el año de muerte de Matusalén coincide exactamente con el año del diluvio según la aritmética del propio texto; el capítulo usa *Elohim* a lo largo excepto en el v.29, donde el discurso de Lamec nombra a YHWH.
 

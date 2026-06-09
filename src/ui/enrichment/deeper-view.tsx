@@ -2,7 +2,7 @@
 
 import { Users } from "lucide-react";
 import { useTranslations } from "next-intl";
-import { useState } from "react";
+import { useRef, useState } from "react";
 import type { EnrichmentData, ProphecyData } from "@/domain/content/types";
 import { ContextView } from "@/ui/enrichment/context-view";
 import { Link } from "@/ui/navigation/locale-link";
@@ -45,6 +45,24 @@ export function DeeperView({
 
   const isTabbed = tabs.length > 1;
 
+  // Roving-tabindex keyboard nav for the tablist (WAI-ARIA pattern, automatic
+  // activation): Left/Up → prev, Right/Down → next (wrapping), Home/End → ends.
+  const tabRefs = useRef<(HTMLButtonElement | null)[]>([]);
+  const onTabKeyDown = (e: React.KeyboardEvent, index: number) => {
+    const count = tabs.length;
+    let next = index;
+    if (e.key === "ArrowRight" || e.key === "ArrowDown")
+      next = (index + 1) % count;
+    else if (e.key === "ArrowLeft" || e.key === "ArrowUp")
+      next = (index - 1 + count) % count;
+    else if (e.key === "Home") next = 0;
+    else if (e.key === "End") next = count - 1;
+    else return;
+    e.preventDefault();
+    setActive(tabs[next].key);
+    tabRefs.current[next]?.focus();
+  };
+
   // When tabbed, wire full tabpanel ARIA; when a single panel, render plainly.
   const panelProps = (key: SubTab) =>
     isTabbed
@@ -64,15 +82,20 @@ export function DeeperView({
           className="flex gap-1 bg-bg-muted rounded-lg p-1 w-fit max-w-full overflow-x-auto"
           role="tablist"
         >
-          {tabs.map(({ key, label }) => (
+          {tabs.map(({ key, label }, i) => (
             <button
               key={key}
               type="button"
               id={`deeper-tab-${key}`}
               role="tab"
+              ref={(el) => {
+                tabRefs.current[i] = el;
+              }}
               aria-selected={active === key}
               aria-controls={`deeper-panel-${key}`}
+              tabIndex={active === key ? 0 : -1}
               onClick={() => setActive(key)}
+              onKeyDown={(e) => onTabKeyDown(e, i)}
               className={`min-h-11 px-4 py-2.5 text-sm font-medium rounded-md transition-all duration-200 focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2 active:scale-95 ${
                 active === key
                   ? "bg-bg-paper text-text-primary shadow-sm"

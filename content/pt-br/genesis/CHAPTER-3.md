@@ -46,9 +46,9 @@
 
 ## VISÃO GERAL DO CAPÍTULO
 
-**O que acontece:** A serpente, descrita como *arum* (astuta/sagaz), dialoga com a mulher sobre a árvore proibida. Ambos os humanos comem. Seus olhos se abrem — sabem que estão nus. YHWH Elohim os questiona, pronuncia consequências sobre a serpente, a mulher e o homem, faz vestes de pele e os expulsa do jardim, com querubins guardando o caminho para a árvore da vida.
+**O que acontece:** A serpente, descrita como astuta/sagaz, dialoga com a mulher sobre a árvore proibida. Ambos os humanos comem. Seus olhos se abrem — sabem que estão nus. YHWH Elohim os questiona, pronuncia consequências sobre a serpente, a mulher e o homem, faz vestes de pele e os expulsa do jardim, com querubins guardando o caminho para a árvore da vida.
 
-**Temas-chave:** O jogo de palavras *arum/arom* (astuto/nu) conectando os Capítulos 2–3; a retórica da serpente; a modificação do mandamento pela mulher; conhecimento do bem e do mal — prometido e entregue, mas não como esperado; vergonha, medo, culpabilização como sequência; consequências vs. maldições (apenas a serpente e o solo são amaldiçoados, não os humanos); a frase interrompida em 3:22 (aposiopese — uma frase que simplesmente para, deixando o pensamento suspenso).
+**Temas-chave:** O jogo de palavras astuto/nu conectando os Capítulos 2–3; a retórica da serpente; a modificação do mandamento pela mulher; conhecimento do bem e do mal — prometido e entregue, mas não como esperado; vergonha, medo, culpabilização como sequência; consequências vs. maldições (apenas a serpente e o solo são amaldiçoados, não os humanos); a frase interrompida em 3:22 (aposiopese — uma frase que simplesmente para, deixando o pensamento suspenso).
 
 **Observe:** A serpente usa apenas "Elohim," nunca "YHWH Elohim"; o homem estava "com ela" durante o diálogo (3:6); "morrendo morrerás" (2:17) vs. "não morrendo morrereis" (3:4) — mesma construção gramatical, negada; as palavras do texto em 3:22 ecoam a afirmação da serpente em 3:5, enquanto o contexto narrativo mostra consequências que a serpente não mencionou; "pó *és*" (tempo presente, não futuro) — mortalidade como condição declarada no texto.
 

@@ -50,7 +50,7 @@
 
 **Achten Sie auf:** Den Nimrod-Exkurs (10:8–12) — die einzige narrative Erweiterung in einem ansonsten listengetriebenen Kapitel; „vor JHWH" (10:9) — das einzige JHWH-Vorkommen und seine Mehrdeutigkeit (Billigung oder Trotz?); das Peleg-Wortspiel bei 10:25 („in seinen Tagen wurde das Land geteilt"); die Drei-Spalten-Struktur — jede Sohnesliste endet mit einer Formel: „dies sind die Söhne von X, nach ihren Sippen, nach ihren Zungen, in ihren Ländern, nach ihren Nationen"; die Spannung zwischen Genealogie und Geographie (Namen = sowohl Personen als auch Völker).
 
-**Verbindung:** Die *Toledot* der Söhne Noahs (10:1) setzt die Noah-*Toledot* (6:9) fort. Die drei Linien, die durch Noahs Segen/Fluch in 9:25–27 begründet wurden, werden nun geographisch verfolgt. Das Kapitel bereitet Bavel (Kap. 11) vor, das erklärt, wie die „eine Sprache" (11:1) zu den vielen Zungen wurde, die hier aufgelistet sind. Shems Linie (10:21–31) wird in 11:10–26 auf die abrahamitische Linie verengt.
+**Verbindung:** Die Generationen der Söhne Noahs (10:1) setzt die Noah-Generationen (6:9) fort. Die drei Linien, die durch Noahs Segen/Fluch in 9:25–27 begründet wurden, werden nun geographisch verfolgt. Das Kapitel bereitet Bavel (Kap. 11) vor, das erklärt, wie die „eine Sprache" (11:1) zu den vielen Zungen wurde, die hier aufgelistet sind. Shems Linie (10:21–31) wird in 11:10–26 auf die abrahamitische Linie verengt.
 
 ---
 

@@ -47,9 +47,9 @@
 
 ## KAPITELÜBERSICHT
 
-**Was geschieht:** Die Schlange, als *arum* (listig/klug) beschrieben, führt einen Dialog mit der Frau über den verbotenen Baum. Beide Menschen essen. Ihre Augen werden aufgetan — sie erkennen, dass sie nackt sind. JHWH Gott befragt sie, spricht Konsequenzen aus über die Schlange, die Frau und den Mann, fertigt Gewänder aus Fell und vertreibt sie aus dem Garten, wobei Cherubim den Weg zum Baum des Lebens bewachen.
+**Was geschieht:** Die Schlange, als listig/klug beschrieben, führt einen Dialog mit der Frau über den verbotenen Baum. Beide Menschen essen. Ihre Augen werden aufgetan — sie erkennen, dass sie nackt sind. JHWH Gott befragt sie, spricht Konsequenzen aus über die Schlange, die Frau und den Mann, fertigt Gewänder aus Fell und vertreibt sie aus dem Garten, wobei Cherubim den Weg zum Baum des Lebens bewachen.
 
-**Zentrale Themen:** Das Wortspiel *arum/arom* (listig/nackt) als Brücke zwischen Kapitel 2–3; die Rhetorik der Schlange; die Abwandlung des Gebots durch die Frau; Erkenntnis des Guten und Bösen — versprochen und eingetroffen, aber nicht wie erwartet; Scham, Furcht, Schuldzuweisung als Abfolge; Konsequenzen versus Flüche (nur die Schlange und der Boden werden verflucht, nicht die Menschen); der abgebrochene Satz bei 3:22 (Aposiopese — ein Satz, der einfach abbricht und den Gedanken offen lässt).
+**Zentrale Themen:** Das Wortspiel listig/nackt als Brücke zwischen Kapitel 2–3; die Rhetorik der Schlange; die Abwandlung des Gebots durch die Frau; Erkenntnis des Guten und Bösen — versprochen und eingetroffen, aber nicht wie erwartet; Scham, Furcht, Schuldzuweisung als Abfolge; Konsequenzen versus Flüche (nur die Schlange und der Boden werden verflucht, nicht die Menschen); der abgebrochene Satz bei 3:22 (Aposiopese — ein Satz, der einfach abbricht und den Gedanken offen lässt).
 
 **Achten Sie auf:** Die Schlange verwendet nur „Elohim", nie „JHWH Elohim"; der Mann war „mit ihr" während des Dialogs (3:6); „sterbend wirst du sterben" (2:17) versus „nicht sterbend werdet ihr sterben" (3:4) — dieselbe grammatische Konstruktion, verneint; die Worte des Textes in 3:22 greifen die Behauptung der Schlange in 3:5 auf, während der Erzählkontext Konsequenzen zeigt, die die Schlange nicht erwähnt hat; „Staub *bist* du" (Präsens, nicht Futur) — Sterblichkeit als inhärent, nicht neu auferlegt.
 

@@ -86,7 +86,7 @@ Der Erzählbogen des Matthäus durchläuft vier große Phasen:
 
 **Ursprünge und Vorbereitung (1,1-4,16):** Genealogie (1,1-17), Geburtserzählung (1,18-2,23), Dienst Johanness des Eintauchers (3,1-12), Jesuss Eintauchung und Versuchung (3,13-4,11), Rückzug nach Galiläa (4,12-16).
 
-**Galiläaäischer Dienst (4,17-16,20):** Öffentliche Lehre und Heilung, beginnend mit „Von da an begann Jesus zu verkündigen" (4,17). Die fünf Reden fallen hauptsächlich in diesen Abschnitt. Das Bekenntnis des Petrus bei Cäsarea Philippi (16,13-20) markiert einen Wendepunkt.
+**Galiläischer Dienst (4,17-16,20):** Öffentliche Lehre und Heilung, beginnend mit „Von da an begann Jesus zu verkündigen" (4,17). Die fünf Reden fallen hauptsächlich in diesen Abschnitt. Das Bekenntnis des Petrus bei Cäsarea Philippi (16,13-20) markiert einen Wendepunkt.
 
 **Weg nach Jerusalem und Passion (16,21-27,66):** Leidensankündigungen, Einzug in Jerusalem, Tempelstreitigkeiten, die eschatologische Rede, das letzte Mahl, Verhaftung, Prozess, Kreuzigung, Begräbnis.
 

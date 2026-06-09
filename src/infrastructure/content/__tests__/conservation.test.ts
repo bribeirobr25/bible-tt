@@ -407,9 +407,10 @@ describe("Phase 4 — chapter completeness guard", () => {
     ).toEqual([]);
   });
 
-  it("no enrichment/introduction file has an unrecognized claim-type label", async () => {
-    // parseClaimType warns + falls back to TEXTUAL on an unknown label
-    // (e.g. a localized variant the parser doesn't know). Fail if any warn.
+  it("no enrichment/introduction file has an unrecognized claim-type or confidence label", async () => {
+    // parseClaimType / parseConfidence each warn + fall back on an unknown label
+    // (e.g. a localized variant the parser doesn't know). Fail if any warn — the
+    // two label dimensions are checked symmetrically so neither can drift.
     const warn = vi.spyOn(console, "warn").mockImplementation(() => {});
     const allMd = await walk(CONTENT_ROOT);
     for (const absPath of allMd) {
@@ -422,10 +423,17 @@ describe("Phase 4 — chapter completeness guard", () => {
         parseIntroductionMarkdown(raw, file.book);
       }
     }
-    const unrecognized = warn.mock.calls
-      .map((c) => String(c[0]))
-      .filter((m) => m.includes("Unrecognized claim type label"));
+    const messages = warn.mock.calls.map((c) => String(c[0]));
+    const unrecognizedClaim = messages.filter((m) =>
+      m.includes("Unrecognized claim type label"),
+    );
+    const unrecognizedConfidence = messages.filter((m) =>
+      m.includes("Unrecognized confidence label"),
+    );
     warn.mockRestore();
-    expect(unrecognized, unrecognized.join("\n")).toEqual([]);
+    expect(unrecognizedClaim, unrecognizedClaim.join("\n")).toEqual([]);
+    expect(unrecognizedConfidence, unrecognizedConfidence.join("\n")).toEqual(
+      [],
+    );
   });
 });

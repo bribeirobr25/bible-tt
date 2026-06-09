@@ -48,9 +48,9 @@
 
 ## VISIÓN GENERAL DEL CAPÍTULO
 
-**Qué sucede:** La serpiente, descrita como *arum* (astuta/sagaz), dialoga con la mujer sobre el árbol prohibido. Ambos humanos comen. Sus ojos se abren — saben que están desnudos. YHWH Dios los interroga, pronuncia consecuencias sobre la serpiente, la mujer y el hombre, hace vestiduras de piel y los expulsa del jardín con querubines guardando el camino al árbol de la vida.
+**Qué sucede:** La serpiente, descrita como astuta/sagaz, dialoga con la mujer sobre el árbol prohibido. Ambos humanos comen. Sus ojos se abren — saben que están desnudos. YHWH Dios los interroga, pronuncia consecuencias sobre la serpiente, la mujer y el hombre, hace vestiduras de piel y los expulsa del jardín con querubines guardando el camino al árbol de la vida.
 
-**Temas clave:** El juego de palabras *arum/arom* (astuto/desnudo) que enlaza los Capítulos 2–3; la retórica de la serpiente; la modificación del mandato por parte de la mujer; conocimiento del bien y del mal — prometido y entregado, pero no como se esperaba; vergüenza, miedo, culpa como secuencia; consecuencias vs. maldiciones (solo la serpiente y el suelo son maldecidos, no los humanos); la oración interrumpida en 3:22 (aposiopesis — una oración que simplemente se detiene, dejando el pensamiento suspendido).
+**Temas clave:** El juego de palabras astuto/desnudo que enlaza los Capítulos 2–3; la retórica de la serpiente; la modificación del mandato por parte de la mujer; conocimiento del bien y del mal — prometido y entregado, pero no como se esperaba; vergüenza, miedo, culpa como secuencia; consecuencias vs. maldiciones (solo la serpiente y el suelo son maldecidos, no los humanos); la oración interrumpida en 3:22 (aposiopesis — una oración que simplemente se detiene, dejando el pensamiento suspendido).
 
 **Observe:** La serpiente usa solo "Elohim," nunca "YHWH Elohim"; el hombre estaba "con ella" durante el diálogo (3:6); "muriendo morirás" (2:17) vs. "no muriendo moriréis" (3:4) — misma construcción gramatical, negada; 3:22 hace eco de la afirmación de la serpiente sobre conocer el bien y el mal sin vindicar el reclamo total de la serpiente ni su motivo (POSIBLE); "polvo *eres*" (tiempo presente, no futuro) — la declaración divina de mortalidad en 3:19 (POSIBLE que sea intrínseca vs. recién impuesta; el texto no lo resuelve).
 

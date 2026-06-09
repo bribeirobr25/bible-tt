@@ -145,6 +145,10 @@
 
 [Description covering political landscape, economy, population, military, arts, science, or religion of the period. Each sub-topic gets its own entry (I1, I2, etc.).]
 
+> **Section I structural variants (documenting existing practice).** The flat `### [Topic]` form above is the default. Two scenario-grouped variants are also in use and are both valid — choose intentionally per book:
+> - **Genesis dating-scenario form:** the 10 categories (I1–I10) are presented under 4 `### Scenario` dating hypotheses (Mosaic / Monarchic / Exilic / Persian), each scenario carrying one scenario-level dual-label that its categories share. The Gen 1 companion holds the full 10×4 grid; chapter files carry a chapter-relevant subset. *(A per-category-labelled `#### ` form — "Option C" — is a planned future enhancement; see `docs/audit/GENESIS_SECTION_I_MIGRATION_PLAN.md` + PENDING.)*
+> - **John/Matthew `#### ` sub-dimension form:** `### SCENARIO` (a historical context, e.g. pre-/post-70 CE) → `#### IA-x` sub-dimensions, **each its own dual-labelled card** with its own claim-type + confidence. Use when each sub-dimension genuinely carries a distinct claim type. Parser-supported (`enrichment-parser.ts` `SUBENTRY_HEADER`).
+
 | Source | Type | Used in sections |
 |--------|------|-----------------|
 | [Author, Title, Year] | [Primary / Secondary / Ancient text] | [A, B, D, ...] |

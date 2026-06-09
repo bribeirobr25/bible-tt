@@ -49,9 +49,9 @@
 
 **Was geschieht:** Ein zweiter Schöpfungsbericht beginnt bei 2:4 mit einer anderen Reihenfolge und einem anderen Fokus. JHWH Gott formt den Menschen aus Staub, pflanzt einen Garten in Eden mit zwei benannten Bäumen, setzt den Menschen dort ein, um ihn zu bearbeiten und zu bewahren, gibt das Gebot bezüglich des Baumes der Erkenntnis, erklärt es für „nicht gut", dass der Mensch allein sei, formt Tiere und baut die Frau aus der Seite des Menschen.
 
-**Zentrale Themen:** Die *Toledot*-Formel (2:4); JHWH Gott (kombinierter Gottesname); Formung aus *adamah* (Boden) — das Wortspiel *adam/adamah*; der Garten als begrenzter Raum; der Baum der Erkenntnis und der Baum des Lebens; das Gebot und seine Konsequenz („sterbend wirst du sterben"); Benennung als Ordnung; „ein Fleisch".
+**Zentrale Themen:** Die Generationen-Formel (2:4); JHWH Gott (kombinierter Gottesname); Formung aus dem Boden — das Wortspiel *adam/adamah*; der Garten als begrenzter Raum; der Baum der Erkenntnis und der Baum des Lebens; das Gebot und seine Konsequenz („sterbend wirst du sterben"); Benennung als Ordnung; „ein Fleisch".
 
-**Achten Sie auf:** Der Gottesname wechselt zu JHWH Elohim (ab 2:4); die unterschiedliche Schöpfungsreihenfolge gegenüber Kapitel 1 (Mensch vor Tieren in 2:7, 19); das „nicht gut" — die einzige negative Bewertung in der Schöpfung; die *Tardemah* (tiefer Schlaf); „Bein von meinen Beinen" als erste menschliche Rede.
+**Achten Sie auf:** Der Gottesname wechselt zu JHWH Elohim (ab 2:4); die unterschiedliche Schöpfungsreihenfolge gegenüber Kapitel 1 (Mensch vor Tieren in 2:7, 19); das „nicht gut" — die einzige negative Bewertung in der Schöpfung; der tiefe Schlaf; „Bein von meinen Beinen" als erste menschliche Rede.
 
 **Verbindung:** Die hier eingeführten Bäume — Erkenntnis und Leben — treiben die Erzählung von Kapitel 3 voran. Die Beziehung zwischen dem Menschen und dem Boden wird zur Grundlage des Fluchs in 3:17–19.
 
