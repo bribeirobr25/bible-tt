@@ -2,14 +2,20 @@
 
 **The single forward-looking tracker.** This file lists only what is *still to be done*. It is **not** a history log — closed/resolved work lives in the editorial logs (`docs/editorial-log/`), the execution history (`docs/audit/EXECUTION_HISTORY.md`), and the archived audit records (`docs/feedback/archive/` + `docs/audit/archive/`).
 
-**Last updated:** 2026-06-04.
+**Last updated:** 2026-06-10.
 
 ---
 
 ## ⭐ Snapshot — everything open, at a glance
 
+**Decision gate (do first — blocks the biggest work):**
+- **Genesis §I "Option C"** (per-category claim labels) — deferred decision that **gates Phase 12 Genesis authoring**; resolve before authoring Gen 13–50 §I. *(detail §3 + `GENESIS_SECTION_I_MIGRATION_PLAN.md`)*
+
 **Content authoring (large):**
 - **Genesis 13–50 (Phase 12)** — the biggest remaining body of work. *(detail §1)*
+
+**Human review gate:**
+- **Rule-28 cross-alignment sign-off** — all 2026-06 content (incl. the completed Pattern C overview de-jargon) ships `provisional`; a credentialed locale-editor / source-language reviewer must sign off to flip status. AI cross-alignment QA done 2026-06-10 (clean). *(see EXECUTION_HISTORY 2026-06-10)*
 
 **Source-analysis follow-ups (2026-06 cycle):**
 - **Part B — companion-research process + Gen-1 §3 enrichment** — *next up*. *(detail §2)*
@@ -19,7 +25,9 @@
 
 **Cross-book / infrastructure:**
 - **Cross-book canonical PEOPLE source-merge** (C3). *(detail §3)*
-- **README.md staleness** — targeted ~30-min fix. *(detail §3)*
+- **Phase 6 (search)** — Pagefind; also wire book-card content into the Phase-2 structured layer. *(CLAUDE "Next up")*
+
+**Recently completed (2026-06-10, see EXECUTION_HISTORY — not pending):** Pattern C overview de-jargon 100% complete across all locales (clean terms + bespoke residual + E-class + D-class + anothen/Iēsous follow-ups); README staleness fixed; §I `#### IA-x` decision = Option A.
 
 **Deferred content seeds** (drop into the named section when that book is authored): *(detail §4)*
 - Akedah → Crucifixion typology → Gen 22 §F (Phase 12)

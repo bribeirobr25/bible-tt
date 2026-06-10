@@ -45,7 +45,7 @@
 
 ## VISIÓN GENERAL DEL CAPÍTULO
 
-**Qué sucede:** Los "hijos de Dios/los dioses" toman esposas humanas. YHWH limita la vida humana a 120 años. Los nephilim están en la tierra. YHWH ve la maldad humana total, lamenta haber hecho a la humanidad y resuelve destruir. Pero Noé halla favor. Dios instruye a Noé para construir una arca (caja/arca) con dimensiones específicas, anuncia el diluvio, establece el primer pacto y ordena a Noé llevar animales a bordo.
+**Qué sucede:** Los "hijos de Dios/los dioses" toman esposas humanas. YHWH limita la vida humana a 120 años. Los nephilim están en la tierra. YHWH ve la maldad humana total, lamenta haber hecho a la humanidad y resuelve destruir. Pero Noé halla favor. Dios instruye a Noé para construir una arca (caja) con dimensiones específicas, anuncia el diluvio, establece el primer pacto y ordena a Noé llevar animales a bordo.
 
 **Temas clave:** Los hijos de Dios — triple ambigüedad preservada (seres divinos, gobernantes, línea setita); los nephilim (transliterados, no "gigantes"); un verbo genuinamente incierto (permanecer/contender); pesar divino (misma raíz que el nombre de Noé); "Dios vio" invertido (creación: "vio que bueno" a aquí: "vio que grande era la maldad"); violencia como el pecado nombrado; la arca como contenedor sellado, no un barco; juego de palabras entre la brea y la expiación (misma raíz).
 
