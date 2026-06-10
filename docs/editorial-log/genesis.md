@@ -1754,3 +1754,15 @@ Applied from consolidated external proposals (`docs/audit/GENESIS-1-EN-PROPOSAL.
 - **Status:** provisional (clean noun-terms glossed; bespoke wordplay/grammar terms deferred).
 - **Reviewers:** PT-BR / DE / ES locale-editors unassigned.
 - **Cross-references:** `docs/audit/PHASE_5_UX_FINISH_PLAN.md`; `content/{pt-br,de,es}/genesis/CHAPTER-*.md` overview sections.
+
+
+## Entry 2026-06-10-118 — Pattern C bespoke residual + E-class + D-class (Genesis overviews)
+
+- **Verse:** Genesis chapter **overviews** (2–12), PT-BR / DE / ES (overview slice only; git-confirmed confined).
+- **Language(s) affected:** PT-BR, DE, ES.
+- **Rule(s) invoked:** Rule 2 (ambiguity), Rule 13 (uncertainty), Rule 14 (wordplay), Rule 16 (cross-language) + v3.2 Name Rendering Policy; Rule 25 (YHWH/JHWH kept); Rule 28; RULES-HB.
+- **Decision:** Finished the deferred bespoke residual, folded in the audit-found **E-class** (*kopher/kippur*), and cleared the **D-class** DE main-pass leftovers — all by **mirror-EN** (drop the transliteration, keep the meaning; both-senses for ambiguity, idiom-meaning for idioms). Examples: *arum/arom*→crafty/naked (plain); *tardemah*→deep sleep; *sefer toledot*→book of generations; *bene ha-elohim*→sons of God/divine beings (both senses); *yadon*→uncertain verb; *nichoach* & *kopher/kippur*→plain wordplay description; *ba-shamayim*→in the skies; *lekh lekha*→"go, yourself" (idiom); *nivrekhu*→both-senses; *asah/qalal/arar*→plain; *nega'im*→plagues; *Havah*→"come/let us"; D-class (DE): *Tebah*→Arche, *Mabbul*→Flut, *Berit*→Bund, *Qesheth*→Bogen, *Nephesh*→Lebenskraft, *Tselem*→Bild, *Toledot*→Generationen, *Berakhah*→Segen. **KEPT (mirror-EN):** the *adam/adamah* wordplay pair + the gen12 *adamah*-chain marker; *shem* (gen11 "name (shem)"); divine names; *elohim* (source-critical).
+- **AI provenance:** claude-opus-4-8 (1M), 2026-06-10, `PATTERN_C_BESPOKE_RESIDUAL_PLAN.md`. Verification: confinement git-proven (overview-only — a replaceAll over-reach into matthew-2 notes + a gen-11 preamble hit were caught and reverted); 0 markdown imbalance; 841 tests · conservation chapter-overview=72 · lint · content-lint · build.
+- **Status:** provisional (Rule 28 cross-alignment review is the gate before sign-off).
+- **Reviewers:** PT-BR / DE / ES locale-editors unassigned.
+- **Cross-references:** `PATTERN_C_BESPOKE_RESIDUAL_PLAN.md`; john.md J-033, matthew.md M-032 (same pass).

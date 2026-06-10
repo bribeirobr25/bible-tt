@@ -512,3 +512,13 @@ This log records consistency decisions, justified exceptions, text-critical choi
 - **Status:** provisional (clean noun-terms glossed; bespoke wordplay/grammar terms deferred).
 - **Reviewers:** PT-BR / DE / ES locale-editors unassigned.
 - **Cross-references:** `docs/audit/PHASE_5_UX_FINISH_PLAN.md`; `content/{pt-br,de,es}/john/CHAPTER-*.md` overview sections.
+
+
+## Entry J-033 — Pattern C bespoke residual + E-class + D-class (John overviews)
+
+- **Verse:** John 1–3 **overviews**, PT-BR / DE / ES (overview slice only; confined).
+- **Rule(s) invoked:** Rule 2, Rule 16, **J-010 (anothen)**, RULES-GS; Rule 28.
+- **Decision:** mirror-EN gloss of the Greek bespoke/E-class terms: *en/ēn*→imperfect "was" (plain); *egeneto*→"came to be" (plainly glossed — **no special treatment, so no new rendering-decision entry needed**); *ti emoi kai soi*→"what to me and to you"; *gynai*→"woman"; *egeiro*→"raise"; *anothen*→both-senses slash, **conforming to J-010** (do not re-decide); *ouk…alla*→"not X but Y"; D-class *logos*→Wort (DE). Greek source-script citations (e.g. `ἐν ἀρχῇ` Gen 1:1 echo) **kept** as EN keeps them. **anothen lexeme follow-up — done 2026-06-10:** the overview's v.3/v.7 wordplay slash was harmonized to J-010's exact main-text lexeme (PT `de cima/de novo`, DE `von oben/wieder`; ES already matched); the **v.31** spatial-only "from above" (`do alto`/`von oben`, not the J-010 wordplay) was deliberately left.
+- **AI provenance:** claude-opus-4-8 (1M), 2026-06-10. Gates green (see genesis 2026-06-10-118).
+- **Status:** provisional. **Reviewers:** locale-editors unassigned.
+- **Cross-references:** genesis.md 2026-06-10-118; `PATTERN_C_BESPOKE_RESIDUAL_PLAN.md`.

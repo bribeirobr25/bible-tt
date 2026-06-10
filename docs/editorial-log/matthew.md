@@ -527,3 +527,13 @@ Option B (slash) is adopted instead because: (a) the project's Prime Directive p
 - **Status:** provisional (clean noun-terms glossed; bespoke wordplay/grammar terms deferred).
 - **Reviewers:** PT-BR / DE / ES locale-editors unassigned.
 - **Cross-references:** `docs/audit/PHASE_5_UX_FINISH_PLAN.md`; `content/{pt-br,de,es}/matthew/CHAPTER-*.md` overview sections.
+
+
+## Entry M-032 — Pattern C bespoke residual + E-class + D-class (Matthew overviews)
+
+- **Verse:** Matthew 1–3 **overviews**, PT-BR / DE / ES (overview slice only; confined).
+- **Rule(s) invoked:** Rule 16, **M-004 (angelos kyriou)**, v3.2 Name Rendering Policy, RULES-GS; Rule 28.
+- **Decision:** mirror-EN gloss: *biblos geneseōs*→"book of the origin"; *egennēsen/egennēthē*→"fathered"/"was born" (plain); *angelos kyriou*→"messenger of the Lord", **conforming to M-004**; *ouranōn*→"of the skies"; D-class *magoi*→magos/Magier (overview only — the ~19 `*Magoi*` in the Matthew-2 **notes** were restored after a replaceAll over-reach, preserving Rule 4). **KEPT (mirror-EN):** *malakh YHWH* (Hebrew formula, M-004), *ruach elohim* (Matt 3 Gen 1:2 cross-ref), divine names, *Yeshua/Yehoshua* (protected etymology). **Iēsous follow-up — done 2026-06-10:** the overview etymology line's *Iēsous* → "the Greek name" (mirror-EN, matching EN matthew1 "the Greek name maps to Hebrew Yeshua/Yehoshua"); the 2 `*Iēsous*` in the **notes** left untouched (Rule 4).
+- **AI provenance:** claude-opus-4-8 (1M), 2026-06-10. Gates green (see genesis 2026-06-10-118).
+- **Status:** provisional. **Reviewers:** locale-editors unassigned.
+- **Cross-references:** genesis.md 2026-06-10-118; `PATTERN_C_BESPOKE_RESIDUAL_PLAN.md`.
