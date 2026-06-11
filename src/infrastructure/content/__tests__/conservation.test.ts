@@ -143,6 +143,9 @@ async function emitFile(file: ContentFile): Promise<{
         expected: {
           "enrichment-disclaimer": d.disclaimer.trim() ? [d.disclaimer] : [],
           "enrichment-section": d.sections.map((s) => s.title),
+          "enrichment-section-intro": d.sections.flatMap((s) =>
+            s.intro ? [s.intro] : [],
+          ),
           // §I group entries conserve their scenario heading (no own prose);
           // single-level entries conserve their body.
           "enrichment-entry": d.sections.flatMap((s) =>

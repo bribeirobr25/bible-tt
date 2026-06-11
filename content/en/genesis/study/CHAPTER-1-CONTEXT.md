@@ -528,142 +528,182 @@ The dating of Genesis's composition is debated. This section presents "the world
 
 ---
 
-### Scenario A: If composed during the Mosaic period (~13th c. BCE)
-**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]** *(Traditional attribution; widely held in Jewish and Christian tradition)*
+### Scenario A: If composed during the Mosaic period (~13th c. BCE) — *Traditional attribution; widely held in Jewish and Christian tradition*
+**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
 
-**I-A1. Political landscape**
+#### I-A1. Political landscape
+**[HISTORICAL / ARCHAEOLOGICAL — VERIFIED]**
 Egypt under Ramesses II (r. ~1279-1213 BCE) dominated the region. The Levant was a patchwork of Canaanite city-states under Egyptian oversight — the Amarna Letters (14th c. BCE) show local rulers writing to Pharaoh for help against rivals and raiders. The Hittite Empire controlled Anatolia and northern Syria; Egypt and the Hittites had recently signed a peace treaty after the Battle of Kadesh (~1274 BCE). Moses and the Israelites, if present in this period, would have left Egypt during its imperial height.
 
-**I-A2. Economy and trade**
+#### I-A2. Economy and trade
+**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
 The Late Bronze Age was a period of international trade. Bronze (copper + tin) was the key industrial metal, requiring long-distance trade networks — tin came from as far as Afghanistan. The incense route connected Arabia to the Mediterranean. Trade passed through Canaanite port cities (Ugarit, Byblos, Tyre). Payment was by weight in silver and gold; no coins existed yet. Agriculture depended on rainfall in the hills and irrigation in river valleys.
 
-**I-A3. Population and daily life**
+#### I-A3. Population and daily life
+**[HISTORICAL / ARCHAEOLOGICAL — PROBABLE]**
 Most people were subsistence farmers or pastoral herders. Families were extended and patriarchal. The Israelites in this scenario were semi-nomadic pastoralists transitioning from Egyptian slavery to wilderness life. Settlements in the Levant were small — major cities like Hazor had perhaps 20,000 people. Life expectancy was roughly 30-40 years, heavily affected by infant mortality. Diet consisted of bread, olive oil, wine, lentils, figs, and occasional meat.
 
-**I-A4. Social structure and class**
+#### I-A4. Social structure and class
+**[HISTORICAL / ARCHAEOLOGICAL — PROBABLE]**
 Egyptian society was highly stratified: Pharaoh, priests, scribes, soldiers, artisans, farmers, slaves. Canaanite city-states had local kings, temple priesthoods, and agricultural laborers. The Israelites in the wilderness narrative are depicted as a tribal society organized by clans under elders, with Moses as leader and Aaron as priest — no monarchy, no permanent temple. Justice was administered by elders at the city gate or by appointed judges.
 
-**I-A5. Education, literacy, and communication**
+#### I-A5. Education, literacy, and communication
+**[HISTORICAL / ARCHAEOLOGICAL — PROBABLE]**
 Writing systems in the 13th century BCE included Egyptian hieratic (for everyday use), cuneiform (dominant in Mesopotamia and diplomacy), and the early alphabetic scripts developing in the Levant (Proto-Sinaitic and Proto-Canaanite). The alphabet was a Levantine invention — simpler than cuneiform or hieroglyphics, potentially allowing wider literacy. Moses, if raised in the Egyptian court (Exodus 2), would have been trained in hieratic writing. The 40 days on Mount Sinai in the biblical tradition is the context in which Moses receives and records divine instruction.
 
-**I-A6. Military and conflicts**
+#### I-A6. Military and conflicts
+**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
 The Late Bronze Age was militarized. Egypt maintained garrisons throughout Canaan. The Hittites fought Egypt for control of Syria. The Sea Peoples (including the Philistines) were beginning to migrate into coastal areas. Weapons were bronze — swords, spears, bows. Chariots were the elite military technology. The Israelites in the wilderness narrative lack these resources, which the text presents as part of their dependence on divine provision.
 
-**I-A7. Arts, literature, and philosophy**
+#### I-A7. Arts, literature, and philosophy
+**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
 The great literary works of the ancient Near East were well established: the Epic of Gilgamesh, the Enuma Elish (Babylonian creation story), the Atrahasis Epic (flood narrative), Egyptian wisdom literature (Instruction of Ptahhotep, Instruction of Amenemope), and the Ugaritic Baal Cycle. If Moses composed Genesis in this period, he would have been aware of Egyptian literary traditions and possibly Mesopotamian ones through cultural exchange.
 
-**I-A8. Science, technology, and medicine**
+#### I-A8. Science, technology, and medicine
+**[HISTORICAL / ARCHAEOLOGICAL — VERIFIED]**
 Bronze metallurgy was advanced. Egyptians had sophisticated medicine (the Edwin Smith Papyrus describes surgical procedures), astronomy (calendar based on Sirius), and engineering (pyramids were already 1,300 years old). Iron smelting was just beginning in Anatolia but not yet widespread. Navigation was coastal. Mathematics used base-60 (from Mesopotamia) and base-10 systems. The natural world was understood through observation mixed with divine causation — no separation between "natural" and "supernatural" in the modern sense.
 
-**I-A9. Religion and worldview**
+#### I-A9. Religion and worldview
+**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
 The Canaanite pantheon was active: El (chief god), Baal (storm god), Asherah (consort of El), Anat (warrior goddess), Mot (death). Egyptian religion centered on Ra, Osiris, Isis, and the divine Pharaoh. Mesopotamian religion featured Marduk (Babylon's chief god), Enlil, Enki, and Ishtar. Temples were the center of civic and economic life, not just worship. Genesis 1's creation-by-speech (not by combat) and its single God (not a pantheon) would stand in sharp contrast to every surrounding culture.
 
-**I-A10. Neighboring peoples**
+#### I-A10. Neighboring peoples
+**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
 Egyptians to the southwest; Canaanite city-states throughout the Levant; Hittites to the north; Arameans emerging in Syria; Midianites and Edomites to the southeast; early Philistines arriving on the coast. Trade, diplomacy, and warfare connected all these groups. The Israelites in the wilderness were surrounded by established civilizations with centuries of written tradition.
 
 ---
 
-### Scenario B: If composed during the Monarchic period (~10th-9th c. BCE)
-**[HISTORICAL / ARCHAEOLOGICAL — POSSIBLE]** *(Some scholars place early source traditions here)*
+### Scenario B: If composed during the Monarchic period (~10th-9th c. BCE) — *Some scholars place early source traditions here*
+**[HISTORICAL / ARCHAEOLOGICAL — POSSIBLE]**
 
-**I-B1. Political landscape**
+#### I-B1. Political landscape
+**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
 The united monarchy under David and Solomon (David ~1010-970 BCE, Solomon ~970-930 BCE) represented Israel's political peak. After Solomon, the kingdom split: Israel (north) and Judah (south). The Assyrian Empire was rising in Mesopotamia under Ashurnasirpal II and Shalmaneser III. Egypt was in a weaker period (Third Intermediate Period). Smaller states like Moab, Ammon, Edom, and Aram-Damascus were active rivals. The Kurkh Monolith (853 BCE) records Ahab of Israel contributing 2,000 chariots to a coalition against Assyria.
 
-**I-B2. Economy and trade**
+#### I-B2. Economy and trade
+**[HISTORICAL / ARCHAEOLOGICAL — PROBABLE]**
 Solomon's reign is described as a period of international trade — the text claims trade with Ophir (gold), Tarshish (metals), and Tyre (timber and skilled labor for the temple). Agriculture was the economic base: grain, wine, olive oil. Taxation supported the monarchy and the temple. Phoenician maritime trade connected the eastern Mediterranean. Iron was now the dominant metal, replacing bronze for tools and weapons.
 
-**I-B3. Population and daily life**
+#### I-B3. Population and daily life
+**[HISTORICAL / ARCHAEOLOGICAL — PROBABLE]**
 Israel and Judah were small agrarian states. Jerusalem under Solomon may have had 5,000-10,000 people. Village life centered on extended families working inherited land. The temple in Jerusalem became a religious and economic center. Marriage was arranged, polygamy was practiced by elites, and inheritance followed the male line. Festivals (Passover, Tabernacles, Weeks) structured the agricultural calendar.
 
-**I-B4. Social structure and class**
+#### I-B4. Social structure and class
+**[HISTORICAL / ARCHAEOLOGICAL — PROBABLE]**
 The monarchy introduced a new social layer: king, court officials, military officers, priests, prophets, landowners, farmers, laborers, slaves. Solomon's building projects required corvée labor (forced service). Tensions between northern tribes and the Davidic dynasty eventually split the kingdom. Prophets like Nathan and Elijah operated as independent voices challenging royal power.
 
-**I-B5. Education, literacy, and communication**
+#### I-B5. Education, literacy, and communication
+**[HISTORICAL / ARCHAEOLOGICAL — PROBABLE]**
 The Hebrew alphabet was now established. Royal scribes served the court — the Bible mentions "the recorder" and "the secretary" as court officials. The extent of popular literacy is debated. Inscriptions from this period (the Gezer Calendar, ~10th c. BCE) suggest some level of writing beyond the scribal elite. Oral tradition remained the primary means of transmitting stories and laws.
 
-**I-B6. Military and conflicts**
+#### I-B6. Military and conflicts
+**[HISTORICAL / ARCHAEOLOGICAL — PROBABLE]**
 Israel fought Philistines, Arameans, Moabites, and Ammonites. Iron weapons were standard. Fortified cities with casemate walls characterized Israelite military architecture. Solomon's chariot cities (Hazor, Megiddo, Gezer) are described in 1 Kings 9:15. The divided kingdom faced constant border tensions and eventually the looming Assyrian threat.
 
-**I-B7. Arts, literature, and philosophy**
+#### I-B7. Arts, literature, and philosophy
+**[HISTORICAL / ARCHAEOLOGICAL — POSSIBLE]**
 Solomon's court is traditionally associated with wisdom literature (Proverbs, Ecclesiastes, Song of Songs). The "Solomonic Enlightenment" (a scholarly hypothesis) suggests a period of literary production during the early monarchy. Psalm composition, court annals, and prophetic oracles were active literary forms. If Genesis source traditions were composed here, they would reflect the concerns of a newly established state defining its identity.
 
-**I-B8. Science, technology, and medicine**
+#### I-B8. Science, technology, and medicine
+**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
 Iron technology was widespread. Agricultural terracing allowed hillside farming. Water systems (such as Warren's Shaft in Jerusalem) provided city defense. Pottery production was sophisticated. Medical knowledge was practical — herbal remedies, wound treatment — but no formal medical texts survive from Israel. Calendar reckoning was based on lunar months adjusted to the solar year.
 
-**I-B9. Religion and worldview**
+#### I-B9. Religion and worldview
+**[HISTORICAL / ARCHAEOLOGICAL — PROBABLE]**
 The tension between YHWH worship and Canaanite religion (Baal, Asherah) was acute. The temple in Jerusalem centralized YHWH worship, but "high places" (local shrines) persisted throughout the countryside. Elijah's contest with the prophets of Baal (1 Kings 18) illustrates the conflict. If Genesis 1 was composed in this context, its insistence on one God creating everything addresses the Baal-vs-YHWH question directly.
 
-**I-B10. Neighboring peoples**
+#### I-B10. Neighboring peoples
+**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
 Phoenicians (Tyre and Sidon) were allies and trade partners. Philistines occupied the coastal plain. Arameans controlled Damascus. Moabites, Ammonites, and Edomites bordered Judah and Israel. Egypt was a fading but still relevant power. Assyria was the growing threat from the northeast.
 
 ---
 
-### Scenario C: If composed during the Exilic/Post-Exilic period (~6th-5th c. BCE)
-**[HISTORICAL / ARCHAEOLOGICAL — PROBABLE]** *(Scholarly consensus for final form)*
+### Scenario C: If composed during the Exilic/Post-Exilic period (~6th-5th c. BCE) — *Scholarly consensus for final form*
+**[HISTORICAL / ARCHAEOLOGICAL — PROBABLE]**
 
-**I-C1. Political landscape**
+#### I-C1. Political landscape
+**[HISTORICAL / ARCHAEOLOGICAL — VERIFIED]**
 Babylon under Nebuchadnezzar II conquered Judah (586 BCE), destroyed the temple, and deported the elite to Mesopotamia. The Persian Empire under Cyrus the Great conquered Babylon in 539 BCE. Cyrus allowed exiled peoples to return — the Cyrus Cylinder documents this policy. The Jewish community rebuilt the temple (completed ~515 BCE) under Persian governance. A text asserting that one God created everything carries political weight when written under Babylonian or Persian imperial rule.
 
-**I-C2. Economy and trade**
+#### I-C2. Economy and trade
+**[HISTORICAL / ARCHAEOLOGICAL — VERIFIED]**
 The Babylonian Empire ran on agriculture (irrigated canal systems), taxation, and temple economies. The Persian Empire introduced standardized coinage (the daric) and a postal system across its vast territory. Jewish exiles in Babylon engaged in agriculture, commerce, and crafts — the Murashu archive (5th c. BCE) shows Jewish families involved in business. Trade routes connected India to the Mediterranean through Persian territory.
 
-**I-C3. Population and daily life**
+#### I-C3. Population and daily life
+**[HISTORICAL / ARCHAEOLOGICAL — PROBABLE]**
 Jewish exiles lived in communities in Babylonia, maintaining their identity through Sabbath observance, dietary laws, and scripture study. The synagogue may have originated in this period as a substitute for temple worship. Families were extended and patriarchal. Life expectancy was similar to earlier periods (~30-40 years). The exile forced a theological crisis: how to worship YHWH without a temple, in a foreign land.
 
-**I-C4. Social structure and class**
+#### I-C4. Social structure and class
+**[HISTORICAL / ARCHAEOLOGICAL — PROBABLE]**
 Babylonian society was stratified: king, priests, scribes, merchants, farmers, slaves. Jewish exiles occupied a middle position — not slaves but not free citizens either. Priestly families maintained genealogies and ritual knowledge. The scribal class became increasingly important as custodians of tradition. Ezra is described as "a scribe skilled in the Torah of Moses" (Ezra 7:6) — a model for the emerging role of the Torah scholar.
 
-**I-C5. Education, literacy, and communication**
+#### I-C5. Education, literacy, and communication
+**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
 Aramaic had become the common language of the empire, replacing Hebrew in everyday speech. Hebrew survived as a literary and liturgical language. Cuneiform was still used in Babylon; alphabetic Aramaic script was spreading. Jewish scribes produced and copied texts in Hebrew, but the community increasingly spoke Aramaic. The Torah began to be read publicly and explained (Nehemiah 8), suggesting a community needing the text translated into their daily language.
 
-**I-C6. Military and conflicts**
+#### I-C6. Military and conflicts
+**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
 The Babylonian conquest of Judah (597 and 586 BCE) was devastating — siege warfare, destruction, deportation. The Persian conquest of Babylon (539 BCE) was relatively bloodless. Under Persian rule, Jewish communities were not militarized. The rebuilding of Jerusalem's walls (Nehemiah) faced local opposition but no major military conflict. The Persian Wars against Greece (490-479 BCE) affected the western empire but not Judea directly.
 
-**I-C7. Arts, literature, and philosophy**
+#### I-C7. Arts, literature, and philosophy
+**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
 Babylonian literature was rich: the Enuma Elish was recited annually at the Akitu (New Year) festival. Jewish exiles living in Babylon heard these stories. If Genesis 1 was finalized in this context, its differences from the Enuma Elish (creation by speech, not combat; one God, not many; humanity in God's image, not made from divine blood) may represent deliberate theological counter-narrative. Greek philosophy (the Pre-Socratics) was emerging simultaneously in Ionia but had little direct contact with Jewish thought at this point.
 
-**I-C8. Science, technology, and medicine**
+#### I-C8. Science, technology, and medicine
+**[HISTORICAL / ARCHAEOLOGICAL — VERIFIED]**
 Babylonian astronomy was advanced — they tracked planetary movements, predicted eclipses, and developed mathematical models (the MUL.APIN star catalogues). Babylonian mathematics used a base-60 system (which survives in our 60-minute hour and 360-degree circle). Medicine mixed empirical observation with incantation. Persian engineering produced the qanat (underground irrigation channel) and the Royal Road communication system. Iron tools were standard.
 
-**I-C9. Religion and worldview**
+#### I-C9. Religion and worldview
+**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
 Babylonian religion centered on Marduk, whose temple Esagila was the most important building in Babylon. The Enuma Elish celebrated Marduk's creation of the world from the body of the slain goddess Tiamat. Persian religion (Zoroastrianism) introduced concepts of cosmic dualism (good vs. evil) that may have influenced later Jewish thought. Genesis 1's monotheistic creation account — one God, no combat, no rival deities — addresses the religious environment of both Babylonian polytheism and emerging Zoroastrian dualism.
 
-**I-C10. Neighboring peoples**
+#### I-C10. Neighboring peoples
+**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
 Babylonians were the imperial power, then Persians. Egyptians under the Saite dynasty maintained independence until Persian conquest (525 BCE). Greeks were emerging as a cultural and military force. Phoenicians continued maritime trade. The Samaritans (northern Israelites who were not exiled) maintained their own version of the Pentateuch and their own temple at Mount Gerizim. Relations between returning exiles and Samaritans were tense.
 
 ---
 
-### Scenario D: If redacted during the Persian/early-Hellenistic period (~4th-3rd c. BCE)
-**[HISTORICAL / ARCHAEOLOGICAL — POSSIBLE]** *(Associated with final Pentateuchal shaping; Schmid, Römer)*
+### Scenario D: If redacted during the Persian/early-Hellenistic period (~4th-3rd c. BCE) — *Associated with final Pentateuchal shaping; Schmid, Römer*
+**[HISTORICAL / ARCHAEOLOGICAL — POSSIBLE]**
 
-**I-D1. Political landscape**
+#### I-D1. Political landscape
+**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
 The Persian Empire continued to govern Judea as the province of Yehud until Alexander the Great's conquest (332 BCE). After Alexander's death (323 BCE), the region fell to the Ptolemaic dynasty (Egypt) and later the Seleucid dynasty (Syria). Judea was a small, semi-autonomous temple community governed by a high priest under imperial oversight. The Torah was gaining authority as the constitutional document of this community.
 
-**I-D2. Economy and trade**
+#### I-D2. Economy and trade
+**[HISTORICAL / ARCHAEOLOGICAL — VERIFIED]**
 Coinage was now widespread. The province of Yehud minted its own small silver coins (the Yehud coins). Hellenistic trade networks connected the entire eastern Mediterranean. Greek merchants, soldiers, and settlers brought new goods and cultural practices. Agriculture remained the base, but urbanization was increasing. Taxation flowed to imperial authorities (Persian or Ptolemaic).
 
-**I-D3. Population and daily life**
+#### I-D3. Population and daily life
+**[HISTORICAL / ARCHAEOLOGICAL — PROBABLE]**
 Jerusalem was small — perhaps 1,500-2,500 people in the Persian period, growing under Hellenistic rule. The community was organized around the temple, which was both religious center and administrative hub. Family life was patriarchal. Jewish communities existed throughout the Persian Empire (the Elephantine papyri document a Jewish military colony in Egypt). Diaspora Jews maintained connections with Jerusalem through pilgrimage and donations.
 
-**I-D4. Social structure and class**
+#### I-D4. Social structure and class
+**[HISTORICAL / ARCHAEOLOGICAL — PROBABLE]**
 The high priest was the most powerful local figure. Priestly families controlled the temple treasury and ritual. A council of elders (later the Sanhedrin) assisted in governance. Scribes and Torah scholars were gaining authority as interpreters of the law. The Torah itself was becoming the unifying document of Jewish identity — a "portable homeland" for diaspora communities.
 
-**I-D5. Education, literacy, and communication**
+#### I-D5. Education, literacy, and communication
+**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
 Aramaic was the common language; Hebrew was increasingly a literary and liturgical language. Greek was spreading as the language of commerce and administration after Alexander. The Septuagint translation of the Torah into Greek (traditionally dated to the 3rd c. BCE in Alexandria) shows that Jewish communities needed the text in Greek. Scribal schools trained copyists who preserved and transmitted biblical texts with increasing precision.
 
-**I-D6. Military and conflicts**
+#### I-D6. Military and conflicts
+**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
 Alexander's campaign through the Levant (332 BCE) brought Greek military power to the region. The Diadochi wars (wars of Alexander's successors) affected the Levant repeatedly. Judea passed between Ptolemaic and Seleucid control. Jewish communities were not major military actors but were caught between empires. The later Maccabean revolt (167 BCE) would arise from resistance to Hellenistic cultural pressure.
 
-**I-D7. Arts, literature, and philosophy**
+#### I-D7. Arts, literature, and philosophy
+**[HISTORICAL / ARCHAEOLOGICAL — PROBABLE]**
 Greek philosophy (Plato, Aristotle) and literature (Homer, the tragedians) were now the dominant intellectual tradition of the eastern Mediterranean. Jewish wisdom literature (Ecclesiastes, portions of Proverbs, later Sirach) shows awareness of Greek philosophical questions. If the final form of Genesis was shaped in this period, it would have been produced by scribes aware of both their own ancient traditions and the Greek intellectual world now surrounding them.
 
-**I-D8. Science, technology, and medicine**
+#### I-D8. Science, technology, and medicine
+**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
 Greek science was advancing rapidly: Aristotle's biology, Euclid's geometry (slightly later, ~300 BCE), Hippocratic medicine. Babylonian astronomical knowledge was being transmitted to Greek astronomers. Iron tools and weapons were standard. Hellenistic cities introduced new urban planning, water systems, and architectural styles. The Library of Alexandria (founded ~300 BCE) would become the greatest repository of ancient knowledge.
 
-**I-D9. Religion and worldview**
+#### I-D9. Religion and worldview
+**[HISTORICAL / ARCHAEOLOGICAL — PROBABLE]**
 The Jerusalem temple was the center of Jewish worship, but Hellenistic religious syncretism was spreading — Greek gods identified with local deities, mystery cults gaining followers. Jewish monotheism became more sharply defined in contrast to this environment. The Torah's authority was being formalized — traditions about Torah reading, interpretation, and observance were crystallizing. Genesis 1's uncompromising monotheism and its ordered, purposeful creation would resonate as a counter-statement to both the chaos-combat mythologies of the ancient Near East and the impersonal cosmologies of Greek philosophy.
 
-**I-D10. Neighboring peoples**
+#### I-D10. Neighboring peoples
+**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
 Greeks were now the dominant cultural presence. Phoenician cities were absorbed into Hellenistic kingdoms. Nabatean Arabs controlled trade routes south of Judea. Samaritans maintained their separate community. Egyptian Judaism (especially in Alexandria) was a major diaspora center. The "clash of civilizations" between Jewish and Greek worldviews — which would eventually produce the Maccabean crisis — was already underway.
 
 ---

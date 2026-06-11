@@ -123,6 +123,14 @@ export function enrichmentDisclaimerId(book: string, chapter: number): string {
   return `${chapterId(book, chapter)}.ctx#disclaimer`;
 }
 
+export function enrichmentSectionIntroId(
+  book: string,
+  chapter: number,
+  sectionId: string,
+): string {
+  return `${enrichmentSectionId(book, chapter, sectionId)}.intro`;
+}
+
 // ─── Introduction ────────────────────────────────────────────────────────────
 
 export function introSectionId(book: string, sectionId: string): string {

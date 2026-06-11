@@ -97,11 +97,25 @@ export interface EnrichmentEntry {
    * card). Absent on ordinary single-level entries (sections A–H, Genesis §I).
    */
   subEntries?: EnrichmentEntry[];
+  /**
+   * True when this entry's dual-label `**[claim — confidence]**` line was
+   * authored explicitly (vs. the parser default). Used by the UI to decide
+   * whether a §I scenario *group* carries its own dating-confidence badge:
+   * Genesis dating-hypothesis scenarios do (→ collapsible badge card); the
+   * John/Matthew time-period scenarios do not (→ plain heading, unchanged).
+   */
+  hasLabel?: boolean;
 }
 
 export interface EnrichmentSection {
   id: string;
   title: string;
+  /**
+   * Prose authored between the `## ` section header and its first `### ` entry —
+   * e.g. the §I "World at the Time" dating-neutrality disclaimer, or a "see the
+   * companion" pointer. Leading `>` blockquote markers are stripped at parse time.
+   */
+  intro?: string;
   entries: EnrichmentEntry[];
 }
 

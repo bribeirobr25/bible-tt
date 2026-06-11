@@ -179,6 +179,7 @@ function parseMarkdownSections(
     letter: string;
     title: string;
     entries: EnrichmentEntry[];
+    introLines: string[];
   } | null = null;
   let currentEntry: RawEntry | null = null;
   // `#### IA-x` sub-dimension currently being accumulated under currentEntry
@@ -209,6 +210,7 @@ function parseMarkdownSections(
         letter: sectionMatch[1],
         title: sectionMatch[2].trim(),
         entries: [],
+        introLines: [],
       };
       continue;
     }
@@ -248,6 +250,7 @@ function parseMarkdownSections(
       if (labelMatch) {
         target.claimType = parseClaimType(labelMatch[1]);
         target.confidence = parseConfidence(labelMatch[2]);
+        target.hasLabel = true;
         continue;
       }
 
@@ -259,6 +262,14 @@ function parseMarkdownSections(
 
       if (line.trim() !== "---" && line.trim().length > 0) {
         target.contentLines.push(line);
+      }
+    } else if (currentSection) {
+      // Prose between a `## ` section header and its first `### ` entry —
+      // previously dropped. Capture it as the section intro (e.g. the §I
+      // dating-neutrality disclaimer); strip leading `>` blockquote markers.
+      const trimmed = line.trim();
+      if (trimmed !== "---" && trimmed.length > 0) {
+        currentSection.introLines.push(line.replace(/^>\s*/, ""));
       }
     }
   }
@@ -330,6 +341,7 @@ interface RawEntry {
   contentLines: string[];
   source?: string;
   subEntries?: EnrichmentEntry[];
+  hasLabel?: boolean;
 }
 
 function finalizeEntry(raw: RawEntry): EnrichmentEntry {
@@ -363,6 +375,7 @@ function finalizeEntry(raw: RawEntry): EnrichmentEntry {
     ...(raw.subEntries && raw.subEntries.length > 0
       ? { subEntries: raw.subEntries }
       : {}),
+    ...(raw.hasLabel ? { hasLabel: true } : {}),
   };
 }
 
@@ -371,12 +384,15 @@ function finalizeSection(
     letter: string;
     title: string;
     entries: EnrichmentEntry[];
+    introLines: string[];
   },
   sectionIds: Record<string, string>,
 ): EnrichmentSection {
+  const intro = raw.introLines.join("\n").trim();
   return {
     id: sectionIds[raw.letter] || raw.letter.toLowerCase(),
     title: raw.title,
+    ...(intro ? { intro } : {}),
     entries: raw.entries,
   };
 }

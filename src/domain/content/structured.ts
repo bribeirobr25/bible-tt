@@ -18,6 +18,7 @@ import {
   enrichmentDisclaimerId,
   enrichmentEntryId,
   enrichmentSectionId,
+  enrichmentSectionIntroId,
   enrichmentSubEntryId,
   glossaryId,
   introDisclaimerId,
@@ -52,6 +53,7 @@ export type StructuredKind =
   | "supplementary"
   | "enrichment-disclaimer"
   | "enrichment-section"
+  | "enrichment-section-intro"
   | "enrichment-entry"
   | "enrichment-subentry"
   | "intro-disclaimer"
@@ -172,6 +174,14 @@ export function emitEnrichment(data: EnrichmentData): StructuredUnit[] {
       text: section.title,
       meta: { sectionId: section.id },
     });
+    if (hasText(section.intro)) {
+      units.push({
+        id: enrichmentSectionIntroId(book, chapter, section.id),
+        kind: "enrichment-section-intro",
+        text: section.intro,
+        parentId: secId,
+      });
+    }
     section.entries.forEach((e, ei) => {
       const entryId = enrichmentEntryId(book, chapter, section.id, ei);
       const isGroup = !!e.subEntries && e.subEntries.length > 0;

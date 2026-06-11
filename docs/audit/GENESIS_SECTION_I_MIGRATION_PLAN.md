@@ -1,7 +1,9 @@
 # Plan — Genesis §I "Scenario" Structure: keep as-is, or migrate to `#### ` sub-entries?
 
 **Date:** 2026-06-06 (rev. 2026-06-07 after a full cross-check against `docs/rules/`, `docs/architecture/`, `docs/design/`, `docs/templates/`, `docs/guides/`, `docs/editorial-log/`; rev. 2026-06-08 incorporating the independent audit `AUDIT_GENESIS_SECTION_I_MIGRATION_PLAN.md`)
-**Status:** ✅ **DECIDED 2026-06-08 — Q1 = Option A (do NOT migrate).** Lead chose A; Genesis §I stays as-is (Rule-29 compliant, design-clean). **Option C (per-category claim labels) is deferred to PENDING as a prerequisite before authoring new Genesis content (Phase 12 / Gen 13–50)** — it carries the only genuine reader-accuracy upside (per-claim confidence) and is best authored alongside new chapters, with design sign-off on card density. Independently **audited 2026-06-08 → APPROVE / Option A** (`AUDIT_GENESIS_SECTION_I_MIGRATION_PLAN.md`); the two Minor accuracy notes are folded in below (§2 subset footnote ¹; design citations by section, §4).
+**Status:** 🔄 **SUPERSEDED 2026-06-11 → Option C ADOPTED (fuller code-backed version).** Lead reversed the A decision: per-category confidence is wanted now, and C is "the normal path" given the rest of the structure work is done. A code-backed pilot (§7 below) is **complete on EN Genesis 1 and awaiting lead's density/label review** before scaling to PT/DE/ES Gen 1 and then Gen 2–12 × 4 locales. The original A rationale + the 2026-06-08 audit are retained below for the record.
+>
+> **Prior status (for the record):** ✅ DECIDED 2026-06-08 — Q1 = Option A (do NOT migrate); C deferred to Phase 12. Independently audited 2026-06-08 → APPROVE / Option A (`AUDIT_GENESIS_SECTION_I_MIGRATION_PLAN.md`); the two Minor accuracy notes are folded in below (§2 subset footnote ¹; design citations by section, §4).
 **Author:** Claude Opus 4.8 (1M context)
 **Parent:** §I two-level parser+UI fix (EXECUTION_HISTORY 2026-06-06) · `docs/audit/PENDING.md` §3.
 
@@ -121,3 +123,62 @@ The companion template (`docs/templates/contextual-companion-template.md` §I) s
 | ~750-category authoring blowout (Option C) | defer into Phase 12; not a standalone pass |
 | Conservation/confinement regression on a large transform | scripted transform + conservation gate + git-scoped confinement |
 | Mis-reading Rule 29 as requiring migration | §3 confirms current §I is compliant; migration is cosmetic |
+
+---
+
+## 7. Option C — fuller code-backed implementation (ADOPTED 2026-06-11)
+
+Lead chose the **fuller code-backed** version of C over a content-only hack. The pilot below is **complete on EN Genesis 1**; PT/DE/ES Gen 1 and Gen 2–12 are pending the density/label review.
+
+### 7.1 The blocker the pilot had to solve
+Genesis scenarios carry a **scenario-level dating-confidence label** (`[HIST/ARCH — DOCUMENTED]`…) that John/Matthew scenarios lack. A naïve `####` conversion **drops it**: `INLINE_LABEL` strips the bracket label and a group entry emits `text = title` only (attribution + dating confidence lost). Verified by parser test before any content change.
+
+### 7.2 Two distinct confidence axes (why per-category labels are *not* redundant)
+- **Scenario badge** = confidence that *Genesis was composed in that period* (the dating hypothesis). Preserved as authored: A=DOCUMENTED, B=POSSIBLE, C=PROBABLE, D=POSSIBLE.
+- **Per-category badge** = how well-attested *that slice of the historical world* is, independent of the dating question. VERIFIED (named artifacts: Amarna Letters, Kurkh Monolith, Cyrus Cylinder, Murashu/Elephantine, Yehud coins, Edwin Smith Papyrus) · DOCUMENTED (broad background) · PROBABLE (demographic estimates, social reconstructions, "depicted as") · POSSIBLE (explicit scholarly hypotheses, e.g. "Solomonic Enlightenment").
+
+### 7.3 Code changes (shared infra; John/Matthew §I unaffected)
+- `domain/content/types.ts` — `EnrichmentEntry.hasLabel?: boolean`.
+- `enrichment-parser.ts` — sets `hasLabel=true` when a `**[claim — confidence]**` line is parsed; emitted in `finalizeEntry`. (No change to *capture* logic — a clean own-line label was already captured.)
+- `ui/enrichment/claim-badge.tsx` — new shared `<ClaimBadge>` (claim+confidence chips) extracted from `enrichment-entry.tsx` (DRY; identical output).
+- `ui/enrichment/context-view.tsx` — a §I group with `hasLabel` renders as a **collapsible `<details>`** with the dating `<ClaimBadge>` + attribution in the `<summary>` and its `#### ` cards inside (named group `group/scen`); a group **without** `hasLabel` (John/Matthew) renders exactly as before. Discriminator = `hasLabel`, so all new behaviour is scoped to Genesis dating scenarios.
+
+### 7.4 Content format (per scenario)
+```
+### Scenario A: … (~13th c. BCE) — *traditional attribution; widely held…*   ← attribution folded into title (italic, conserved)
+**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**                               ← dating label on its own line → group badge
+#### I-A1. Political landscape
+**[HISTORICAL / ARCHAEOLOGICAL — VERIFIED]**                                 ← per-category label (provisional)
+[prose unchanged]
+```
+Transform is a §I-scoped script (`/tmp/convert-gen1-si.mjs`): 4 scenarios folded, 40 categories converted.
+
+### 7.5 Pilot verification (EN Gen 1)
+- Parser: 4 groups, all `hasLabel=true`, dating badges DOCUMENTED/POSSIBLE/PROBABLE/POSSIBLE; 40 sub-entries with per-category confidences; group content empty; no thinned cards.
+- Gates: `pnpm test` 841/841; `enrichment-subentry` 224→264 (+40, conservation green); `pnpm build` clean; `pnpm lint` clean; `pnpm content:lint` clean (2 pre-existing DE `(Name)` warnings).
+- Non-regression: John/Matthew §I groups `hasLabel=false` → original rendering retained.
+- Render (`/en/genesis/chapter/1/deeper`): HTTP 200; 4 `group/scen` collapsibles; italic attribution `<em>` in titles; per-category badges render.
+
+### 7.6 Labels are PROVISIONAL
+All per-category claim/confidence are AI-drafted (claim-type uniform = HISTORICAL / ARCHAEOLOGICAL; confidence from the prose's own hedging) and ship **provisional** pending Rule-28 source-scholar sign-off — that review is the real accuracy gate for C.
+
+### 7.7 Remaining (after lead's pilot review)
+1. PT/DE/ES Gen 1 — same code, same label map (claim+confidence are language-independent), localized attribution fold.
+2. Gen 2–12 × 4 locales (subsets of the 4×10 grid).
+3. Editorial-log entries (genesis.md) + CLAUDE.md scope line + PENDING + EXECUTION_HISTORY once scaled.
+
+### 7.8 Folded-in fix — §I section-intro recovery (2026-06-11)
+
+The self-audit found a **pre-existing content drop**: prose authored between a `## ` section header and its first `### ` entry (the §I dating-neutrality disclaimer; John/Matthew "see the companion" pointers) was silently discarded by the parser and never rendered, on `main`, across all chapters/locales. The conservation gate hadn't caught it (it proves parser→structured, not raw→parser). Lead approved folding the fix into the C work.
+
+**Change (general, not Genesis-only):**
+- `types.ts` — `EnrichmentSection.intro?: string`.
+- `enrichment-parser.ts` — pre-entry, non-`---`, non-blank lines → `section.intro` (leading `>` stripped, mirroring the disclaimer extractor); set in `finalizeSection`.
+- `ids.ts` — `enrichmentSectionIntroId` = `…ctx#<sectionId>.intro`.
+- `structured.ts` — new `enrichment-section-intro` kind, emitted when `section.intro` is present.
+- `conservation.test.ts` — kind registered in the enrichment `expected` map (Gate 2b).
+- `context-view.tsx` — renders `section.intro` (muted italic) above the section's entries.
+
+**Blast radius (measured):** exactly **144** intros = 72 §I + 72 Sources tables (18 chapters × 4 locales × 2); A–G have none. The §I disclaimers/pointers now render. The **Sources Consulted** tables are captured into the structured layer (recovered for conservation/search) but stay **out of the UI** — the `entries.length > 0` filter drops their 0-entry sections. That orphaned-Sources-table rendering is a **separate, larger pre-existing gap** (a table, not intro prose) flagged for its own decision — *not* bundled here.
+
+**Verified:** 841/841 tests; conservation `enrichment-section-intro=144` (total 10614→10758); build clean (284 pages); lint/content-lint clean. Render: EN Gen 1 §I disclaimer shows once (RSC-payload doubling accounts for the raw "2"); John §I pointer clean (no leaked `>`); Sources heading count in DOM = 0 (still hidden).

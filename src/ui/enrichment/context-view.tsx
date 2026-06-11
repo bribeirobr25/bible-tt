@@ -12,7 +12,11 @@ import {
 } from "lucide-react";
 import { useTranslations } from "next-intl";
 import { type EnrichmentData, sortByConfidence } from "@/domain/content/types";
-import { renderInlineSafe } from "@/ui/shared/render-markdown-safe";
+import {
+  renderInlineSafe,
+  renderMarkdownSafe,
+} from "@/ui/shared/render-markdown-safe";
+import { ClaimBadge } from "./claim-badge";
 import { EnrichmentEntryCard } from "./enrichment-entry";
 
 const SECTION_ICONS: Record<string, LucideIcon> = {
@@ -108,28 +112,85 @@ export function ContextView({ data }: { data: EnrichmentData }) {
                 </svg>
               </summary>
               <div className="px-5 pb-5 pt-2 space-y-4 border-t border-border-muted">
+                {section.intro && (
+                  <div
+                    className="text-sm leading-relaxed text-text-muted italic"
+                    dangerouslySetInnerHTML={{
+                      __html: renderMarkdownSafe(section.intro, "note"),
+                    }}
+                  />
+                )}
                 {section.entries.some((e) => e.subEntries?.length)
                   ? // §I "World at the Time": preserve the authored scenario
                     // order and render each `#### IA-x` sub-dimension as its own
-                    // dual-labelled card under its scenario heading.
+                    // dual-labelled card under its scenario heading. Genesis
+                    // dating-hypothesis scenarios (`hasLabel`) collapse into a
+                    // badged disclosure; John/Matthew time-scenarios stay open.
                     section.entries.map((entry, i) =>
                       entry.subEntries?.length ? (
-                        <div key={`${section.id}-${i}`} className="space-y-3">
-                          <h3
-                            className="font-[family-name:var(--font-ui)] text-sm font-semibold text-text-primary"
-                            dangerouslySetInnerHTML={{
-                              __html: renderInlineSafe(entry.title),
-                            }}
-                          />
-                          <div className="space-y-4 pl-3 border-l border-border-muted">
-                            {entry.subEntries.map((sub, j) => (
-                              <EnrichmentEntryCard
-                                key={`${section.id}-${i}-${j}`}
-                                entry={sub}
-                              />
-                            ))}
+                        entry.hasLabel ? (
+                          <details
+                            key={`${section.id}-${i}`}
+                            className="group/scen border border-border-muted rounded-md overflow-hidden"
+                          >
+                            <summary className="flex items-start gap-3 px-4 py-3 cursor-pointer select-none hover:bg-bg-surface transition-colors duration-150 focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2 rounded-md">
+                              <div className="flex-1 space-y-1.5">
+                                <ClaimBadge
+                                  claimType={entry.claimType}
+                                  confidence={entry.confidence}
+                                />
+                                <h3
+                                  className="font-[family-name:var(--font-ui)] text-sm font-semibold text-text-primary"
+                                  dangerouslySetInnerHTML={{
+                                    __html: renderInlineSafe(entry.title),
+                                  }}
+                                />
+                              </div>
+                              <span className="text-xs text-text-muted tabular-nums mt-0.5 shrink-0">
+                                {entry.subEntries.length}
+                              </span>
+                              <svg
+                                className="w-4 h-4 text-text-muted transition-transform duration-200 group-open/scen:rotate-90 mt-0.5 shrink-0"
+                                fill="none"
+                                viewBox="0 0 24 24"
+                                stroke="currentColor"
+                                strokeWidth={2}
+                                aria-hidden="true"
+                              >
+                                <path
+                                  strokeLinecap="round"
+                                  strokeLinejoin="round"
+                                  d="M9 5l7 7-7 7"
+                                />
+                              </svg>
+                            </summary>
+                            <div className="px-4 pb-4 pt-2 space-y-4 border-t border-border-muted">
+                              {entry.subEntries.map((sub, j) => (
+                                <EnrichmentEntryCard
+                                  key={`${section.id}-${i}-${j}`}
+                                  entry={sub}
+                                />
+                              ))}
+                            </div>
+                          </details>
+                        ) : (
+                          <div key={`${section.id}-${i}`} className="space-y-3">
+                            <h3
+                              className="font-[family-name:var(--font-ui)] text-sm font-semibold text-text-primary"
+                              dangerouslySetInnerHTML={{
+                                __html: renderInlineSafe(entry.title),
+                              }}
+                            />
+                            <div className="space-y-4 pl-3 border-l border-border-muted">
+                              {entry.subEntries.map((sub, j) => (
+                                <EnrichmentEntryCard
+                                  key={`${section.id}-${i}-${j}`}
+                                  entry={sub}
+                                />
+                              ))}
+                            </div>
                           </div>
-                        </div>
+                        )
                       ) : (
                         <EnrichmentEntryCard
                           key={`${section.id}-${i}`}
