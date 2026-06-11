@@ -265,8 +265,11 @@ function parseMarkdownSections(
       }
     } else if (currentSection) {
       // Prose between a `## ` section header and its first `### ` entry —
-      // previously dropped. Capture it as the section intro (e.g. the §I
-      // dating-neutrality disclaimer); strip leading `>` blockquote markers.
+      // previously dropped. Capture it as a candidate section intro (e.g. the
+      // §I dating-neutrality disclaimer); strip leading `>` blockquote markers.
+      // finalizeSection keeps it only for sections that actually have entries,
+      // which excludes the orphaned 0-entry §H/§G "Sources Consulted" blocks
+      // (table + internal editorial-provenance) — a separate, out-of-scope gap.
       const trimmed = line.trim();
       if (trimmed !== "---" && trimmed.length > 0) {
         currentSection.introLines.push(line.replace(/^>\s*/, ""));
@@ -388,7 +391,11 @@ function finalizeSection(
   },
   sectionIds: Record<string, string>,
 ): EnrichmentSection {
-  const intro = raw.introLines.join("\n").trim();
+  // An intro only introduces something: keep it solely for sections that have
+  // entries. This drops the orphaned 0-entry "Sources Consulted" pre-entry
+  // content (table + internal editorial-provenance), leaving only genuine
+  // reader-facing intros (the §I "World at the Time" disclaimer / pointer).
+  const intro = raw.entries.length > 0 ? raw.introLines.join("\n").trim() : "";
   return {
     id: sectionIds[raw.letter] || raw.letter.toLowerCase(),
     title: raw.title,
