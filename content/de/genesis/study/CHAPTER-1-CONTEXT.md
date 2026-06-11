@@ -517,142 +517,182 @@ Die Datierung der Abfassung von Genesis ist umstritten. Dieser Abschnitt präsen
 
 ---
 
-### Szenario A: Falls während der mosaischen Periode verfasst (~13. Jh. v. Chr.)
-**[HISTORISCH / ARCHÄOLOGISCH — DOKUMENTIERT]** *(Traditionelle Zuschreibung; in jüdischer und christlicher Tradition weit verbreitet)*
+### Szenario A: Falls während der mosaischen Periode verfasst (~13. Jh. v. Chr.) — *Traditionelle Zuschreibung; in jüdischer und christlicher Tradition weit verbreitet*
+**[HISTORISCH / ARCHÄOLOGISCH — DOKUMENTIERT]**
 
-**I-A1. Politische Landschaft**
+#### I-A1. Politische Landschaft
+**[HISTORISCH / ARCHÄOLOGISCH — VERIFIZIERT]**
 Ägypten unter Ramses II. (reg. ~1279–1213 v. Chr.) beherrschte die Region. Die Levante war ein Flickenteppich kanaanitischer Stadtstaaten unter ägyptischer Aufsicht — die Amarna-Briefe (14. Jh. v. Chr.) zeigen lokale Herrscher, die den Pharao um Hilfe gegen Rivalen und Räuber baten. Das Hethiterreich kontrollierte Anatolien und Nordsyrien; Ägypten und die Hethiter hatten nach der Schlacht von Kadesch (~1274 v. Chr.) kürzlich einen Friedensvertrag geschlossen. Mose und die Israeliten wären, wenn sie in dieser Periode anzusiedeln sind, auf dem Höhepunkt der ägyptischen Kaiserherrschaft aus Ägypten ausgezogen.
 
-**I-A2. Wirtschaft und Handel**
+#### I-A2. Wirtschaft und Handel
+**[HISTORISCH / ARCHÄOLOGISCH — DOKUMENTIERT]**
 Die Späte Bronzezeit war eine Epoche des internationalen Handels. Bronze (Kupfer + Zinn) war das wichtigste Industriemetall und erforderte weitreichende Handelsnetzwerke — Zinn kam aus so weit entfernten Gebieten wie Afghanistan. Die Weihrauchroute verband Arabien mit dem Mittelmeer. Der Handel lief über kanaanitische Hafenstädte (Ugarit, Byblos, Tyros). Zahlungsmittel war Silber und Gold nach Gewicht; Münzen gab es noch nicht. Die Landwirtschaft hing von Niederschlägen in den Hügeln und Bewässerung in Flusstälern ab.
 
-**I-A3. Bevölkerung und Alltagsleben**
+#### I-A3. Bevölkerung und Alltagsleben
+**[HISTORISCH / ARCHÄOLOGISCH — WAHRSCHEINLICH]**
 Die meisten Menschen waren Subsistenzbauern oder Weidehirten. Familien waren Großfamilien und patriarchalisch. Die Israeliten wären in diesem Szenario halbsesshafte Hirten, die vom ägyptischen Sklavenleben zum Leben in der Wüste übergingen. Siedlungen in der Levante waren klein — große Städte wie Hazor hatten vielleicht 20.000 Einwohner. Die Lebenserwartung betrug ungefähr 30–40 Jahre, stark beeinflusst durch die Kindersterblichkeit. Die Ernährung bestand aus Brot, Olivenöl, Wein, Linsen, Feigen und gelegentlichem Fleisch.
 
-**I-A4. Sozialstruktur und Klassen**
+#### I-A4. Sozialstruktur und Klassen
+**[HISTORISCH / ARCHÄOLOGISCH — WAHRSCHEINLICH]**
 Die ägyptische Gesellschaft war stark stratifiziert: Pharao, Priester, Schreiber, Soldaten, Handwerker, Bauern, Sklaven. Kanaanitische Stadtstaaten hatten lokale Könige, Tempelpriesterschaften und landwirtschaftliche Arbeiter. Die Israeliten in der Wüstenerzählung werden als Stammesgesellschaft dargestellt, die nach Clans unter Ältesten organisiert ist, mit Mose als Anführer und Aaron als Priester — keine Monarchie, kein fester Tempel. Recht wurde von den Ältesten am Stadttor oder von eingesetzten Richtern gesprochen.
 
-**I-A5. Bildung, Schriftlichkeit und Kommunikation**
+#### I-A5. Bildung, Schriftlichkeit und Kommunikation
+**[HISTORISCH / ARCHÄOLOGISCH — WAHRSCHEINLICH]**
 Schriftsysteme im 13. Jahrhundert v. Chr. umfassten ägyptisches Hieratisch (für den Alltagsgebrauch), Keilschrift (dominierend in Mesopotamien und der Diplomatie) und die frühen Alphabetschriften, die sich in der Levante entwickelten (Protosinaitisch und Protokanaanitisch). Das Alphabet war eine levantinische Erfindung — einfacher als Keilschrift oder Hieroglyphen und ermöglichte potenziell eine breitere Alphabetisierung. Mose, wenn er am ägyptischen Hof aufgewachsen ist (Exodus 2), wäre in hieratischer Schrift ausgebildet worden. Die 40 Tage auf dem Berg Sinai sind in der biblischen Überlieferung der Kontext, in dem Mose göttliche Unterweisung empfängt und aufzeichnet.
 
-**I-A6. Militär und Konflikte**
+#### I-A6. Militär und Konflikte
+**[HISTORISCH / ARCHÄOLOGISCH — DOKUMENTIERT]**
 Die Späte Bronzezeit war militarisiert. Ägypten unterhielt Garnisonen in ganz Kanaan. Die Hethiter kämpften mit Ägypten um die Vorherrschaft in Syrien. Die Seevölker (darunter die Philister) begannen, in Küstengebiete einzuwandern. Waffen bestanden aus Bronze — Schwerter, Speere, Bögen. Streitwagen waren die Elite-Militärtechnologie. Die Israeliten in der Wüstenerzählung verfügten nicht über diese Mittel, was der Text als Teil ihrer Abhängigkeit von göttlicher Versorgung darstellt.
 
-**I-A7. Kunst, Literatur und Philosophie**
+#### I-A7. Kunst, Literatur und Philosophie
+**[HISTORISCH / ARCHÄOLOGISCH — DOKUMENTIERT]**
 Die großen Literaturwerke des alten Vorderen Orients waren fest etabliert: das Gilgamesch-Epos, das Enuma Elisch (babylonische Schöpfungsgeschichte), das Atrahasis-Epos (Fluterzählung), ägyptische Weisheitsliteratur (Lehre des Ptahhotep, Lehre des Amenemope) und der ugaritische Baal-Zyklus. Wenn Mose die Genesis in dieser Periode verfasste, wäre er mit ägyptischen Literaturtraditionen und möglicherweise durch kulturellen Austausch mit mesopotamischen vertraut gewesen.
 
-**I-A8. Wissenschaft, Technologie und Medizin**
+#### I-A8. Wissenschaft, Technologie und Medizin
+**[HISTORISCH / ARCHÄOLOGISCH — VERIFIZIERT]**
 Die Bronzemetallurgie war weit entwickelt. Die Ägypter besaßen eine hochentwickelte Medizin (der Edwin-Smith-Papyrus beschreibt chirurgische Eingriffe), Astronomie (Kalender basierend auf dem Sirius) und Ingenieurswesen (die Pyramiden waren bereits 1.300 Jahre alt). Die Eisenverhüttung begann gerade erst in Anatolien, war aber noch nicht weit verbreitet. Die Seefahrt war küstennah. Die Mathematik verwendete Basis-60-Systeme (aus Mesopotamien) und Basis-10-Systeme. Die Natur wurde durch Beobachtung, vermischt mit göttlicher Kausalität, verstanden — keine Trennung zwischen „natürlich" und „übernatürlich" im modernen Sinne.
 
-**I-A9. Religion und Weltbild**
+#### I-A9. Religion und Weltbild
+**[HISTORISCH / ARCHÄOLOGISCH — DOKUMENTIERT]**
 Das kanaanitische Pantheon war aktiv: El (Hauptgott), Baal (Sturm-Gott), Aschera (Gefährtin Els), Anat (Kriegsgöttin), Mot (Tod). Die ägyptische Religion zentrierte sich auf Ra, Osiris, Isis und den göttlichen Pharao. Die mesopotamische Religion kannte Marduk (Hauptgott Babylons), Enlil, Enki und Ischtar. Tempel waren das Zentrum des bürgerlichen und wirtschaftlichen Lebens, nicht nur der Verehrung. Die Schöpfung durch das Wort in Genesis 1 (nicht durch Kampf) und ihr einziger Gott (kein Pantheon) würden in scharfem Kontrast zu jeder umgebenden Kultur stehen.
 
-**I-A10. Nachbarvölker**
+#### I-A10. Nachbarvölker
+**[HISTORISCH / ARCHÄOLOGISCH — DOKUMENTIERT]**
 Ägypter im Südwesten; kanaanitische Stadtstaaten in der gesamten Levante; Hethiter im Norden; Aramäer, die in Syrien entstanden; Midianiter und Edomiter im Südosten; frühe Philister, die an der Küste ankamen. Handel, Diplomatie und Kriegsführung verbanden alle diese Gruppen. Die Israeliten in der Wüste waren von etablierten Zivilisationen mit Jahrhunderten schriftlicher Tradition umgeben.
 
 ---
 
-### Szenario B: Falls während der monarchischen Periode verfasst (~10.–9. Jh. v. Chr.)
-**[HISTORISCH / ARCHÄOLOGISCH — MÖGLICH]** *(Einige Gelehrte verorten frühe Quelltraditionen hier)*
+### Szenario B: Falls während der monarchischen Periode verfasst (~10.–9. Jh. v. Chr.) — *Einige Gelehrte verorten frühe Quelltraditionen hier*
+**[HISTORISCH / ARCHÄOLOGISCH — MÖGLICH]**
 
-**I-B1. Politische Landschaft**
+#### I-B1. Politische Landschaft
+**[HISTORISCH / ARCHÄOLOGISCH — DOKUMENTIERT]**
 Die vereinigte Monarchie unter David und Salomo (David ~1010–970 v. Chr., Salomo ~970–930 v. Chr.) stellte den politischen Höhepunkt Israels dar. Nach Salomo spaltete sich das Königreich: Israel (Nord) und Juda (Süd). Das Assyrische Reich wuchs in Mesopotamien unter Assurnasirpal II. und Salmanasser III. heran. Ägypten befand sich in einer schwächeren Periode (Dritte Zwischenzeit). Kleinere Staaten wie Moab, Ammon, Edom und Aram-Damaskus waren aktive Rivalen. Das Kurkh-Monolith (853 v. Chr.) verzeichnet, dass Ahab von Israel 2.000 Streitwagen zu einer Koalition gegen Assyrien beisteuerte.
 
-**I-B2. Wirtschaft und Handel**
+#### I-B2. Wirtschaft und Handel
+**[HISTORISCH / ARCHÄOLOGISCH — WAHRSCHEINLICH]**
 Salomos Regentschaft wird als Periode des internationalen Handels beschrieben — der Text berichtet von Handel mit Ophir (Gold), Tarschisch (Metalle) und Tyros (Holz und Facharbeiter für den Tempel). Die Landwirtschaft war die wirtschaftliche Basis: Getreide, Wein, Olivenöl. Steuern unterstützten die Monarchie und den Tempel. Phönizischer Seehandel verband den östlichen Mittelmeerraum. Eisen war nun das dominierende Metall und ersetzte Bronze für Werkzeuge und Waffen.
 
-**I-B3. Bevölkerung und Alltagsleben**
+#### I-B3. Bevölkerung und Alltagsleben
+**[HISTORISCH / ARCHÄOLOGISCH — WAHRSCHEINLICH]**
 Israel und Juda waren kleine Agrarstaaten. Jerusalem unter Salomo hatte vielleicht 5.000–10.000 Einwohner. Das Dorfleben war um Großfamilien herum organisiert, die ererbtes Land bearbeiteten. Der Tempel in Jerusalem wurde ein religiöses und wirtschaftliches Zentrum. Die Ehe war arrangiert, Polygamie wurde von Eliten praktiziert, und Erbschaft folgte der männlichen Linie. Feste (Pessach, Laubhüttenfest, Wochenfest) strukturierten den landwirtschaftlichen Kalender.
 
-**I-B4. Sozialstruktur und Klassen**
+#### I-B4. Sozialstruktur und Klassen
+**[HISTORISCH / ARCHÄOLOGISCH — WAHRSCHEINLICH]**
 Die Monarchie führte eine neue soziale Schicht ein: König, Hofbeamte, Militäroffiziere, Priester, Propheten, Landbesitzer, Bauern, Arbeiter, Sklaven. Salomos Bauprojekte erforderten Fronarbeit (Pflichtdienst). Spannungen zwischen den nördlichen Stämmen und der davidischen Dynastie spalteten schließlich das Königreich. Propheten wie Nathan und Elija fungierten als unabhängige Stimmen, die die königliche Macht herausforderten.
 
-**I-B5. Bildung, Schriftlichkeit und Kommunikation**
+#### I-B5. Bildung, Schriftlichkeit und Kommunikation
+**[HISTORISCH / ARCHÄOLOGISCH — WAHRSCHEINLICH]**
 Das hebräische Alphabet war nun etabliert. Königliche Schreiber dienten am Hof — die Bibel erwähnt „den Kanzler" und „den Schreiber" als Hofbeamte. Der Umfang der allgemeinen Alphabetisierung ist umstritten. Inschriften aus dieser Periode (der Gezer-Kalender, ~10. Jh. v. Chr.) deuten auf ein gewisses Maß an Schriftkenntnis jenseits der Schreiberelite hin. Die mündliche Überlieferung blieb das primäre Mittel zur Weitergabe von Geschichten und Gesetzen.
 
-**I-B6. Militär und Konflikte**
+#### I-B6. Militär und Konflikte
+**[HISTORISCH / ARCHÄOLOGISCH — WAHRSCHEINLICH]**
 Israel kämpfte gegen Philister, Aramäer, Moabiter und Ammoniter. Eisenwaffen waren Standard. Befestigte Städte mit Kasemattenmauern kennzeichneten die israelitische Militärarchitektur. Salomos Streitwagenstädte (Hazor, Megiddo, Geser) werden in 1. Könige 9:15 beschrieben. Das geteilte Königreich stand unter ständigen Grenzspannungen und sah sich schließlich der aufsteigenden assyrischen Bedrohung gegenüber.
 
-**I-B7. Kunst, Literatur und Philosophie**
+#### I-B7. Kunst, Literatur und Philosophie
+**[HISTORISCH / ARCHÄOLOGISCH — MÖGLICH]**
 Salomos Hof ist traditionell mit der Weisheitsliteratur verbunden (Sprüche, Prediger, Hoheslied). Die „salomonische Aufklärung" (eine wissenschaftliche Hypothese) legt eine Periode literarischer Produktion während der frühen Monarchie nahe. Psalmdichtung, Hofannalen und prophetische Orakel waren aktive Literaturformen. Wenn Genesis-Quelltraditionen hier entstanden, würden sie die Anliegen eines neu gegründeten Staates widerspiegeln, der seine Identität definierte.
 
-**I-B8. Wissenschaft, Technologie und Medizin**
+#### I-B8. Wissenschaft, Technologie und Medizin
+**[HISTORISCH / ARCHÄOLOGISCH — DOKUMENTIERT]**
 Die Eisentechnologie war weit verbreitet. Landwirtschaftliche Terrassierung ermöglichte den Hanganbau. Wassersysteme (wie der Warren-Schacht in Jerusalem) dienten der Stadtverteidigung. Die Keramikproduktion war ausgefeilt. Medizinisches Wissen war praktisch — Kräuterheilmittel, Wundbehandlung — aber keine formellen Medizintexte aus Israel sind überliefert. Die Kalenderberechnung basierte auf Mondmonaten, die auf das Sonnenjahr abgestimmt wurden.
 
-**I-B9. Religion und Weltbild**
+#### I-B9. Religion und Weltbild
+**[HISTORISCH / ARCHÄOLOGISCH — WAHRSCHEINLICH]**
 Die Spannung zwischen JHWH-Verehrung und kanaanitischer Religion (Baal, Aschera) war akut. Der Tempel in Jerusalem zentralisierte die JHWH-Verehrung, aber „Höhen" (lokale Heiligtümer) blieben im ganzen Land bestehen. Elijas Wettstreit mit den Baalspropheten (1. Könige 18) veranschaulicht den Konflikt. Wenn Genesis 1 in diesem Kontext verfasst wurde, beantwortet seine Beharren auf einem einzigen Gott, der alles erschafft, die Baal-contra-JHWH-Frage direkt.
 
-**I-B10. Nachbarvölker**
+#### I-B10. Nachbarvölker
+**[HISTORISCH / ARCHÄOLOGISCH — DOKUMENTIERT]**
 Phönizier (Tyros und Sidon) waren Verbündete und Handelspartner. Philister besetzten die Küstenebene. Aramäer kontrollierten Damaskus. Moabiter, Ammoniter und Edomiter grenzten an Juda und Israel. Ägypten war eine schwindende, aber noch relevante Macht. Assyrien war die wachsende Bedrohung aus dem Nordosten.
 
 ---
 
-### Szenario C: Falls während der exilischen/nachexilischen Periode verfasst (~6.–5. Jh. v. Chr.)
-**[HISTORISCH / ARCHÄOLOGISCH — WAHRSCHEINLICH]** *(Wissenschaftlicher Konsens für die Endgestalt)*
+### Szenario C: Falls während der exilischen/nachexilischen Periode verfasst (~6.–5. Jh. v. Chr.) — *Wissenschaftlicher Konsens für die Endgestalt*
+**[HISTORISCH / ARCHÄOLOGISCH — WAHRSCHEINLICH]**
 
-**I-C1. Politische Landschaft**
+#### I-C1. Politische Landschaft
+**[HISTORISCH / ARCHÄOLOGISCH — VERIFIZIERT]**
 Babylon unter Nebukadnezar II. eroberte Juda (586 v. Chr.), zerstörte den Tempel und deportierte die Elite nach Mesopotamien. Das Persische Reich unter Kyros dem Großen eroberte Babylon im Jahr 539 v. Chr. Kyros erlaubte exilierten Völkern die Rückkehr — der Kyros-Zylinder dokumentiert diese Politik. Die jüdische Gemeinschaft baute den Tempel wieder auf (fertiggestellt ~515 v. Chr.) unter persischer Herrschaft. Ein Text, der behauptet, ein Gott habe alles erschaffen, hat politisches Gewicht, wenn er unter babylonischer oder persischer Kaiserherrschaft geschrieben wird.
 
-**I-C2. Wirtschaft und Handel**
+#### I-C2. Wirtschaft und Handel
+**[HISTORISCH / ARCHÄOLOGISCH — VERIFIZIERT]**
 Das Babylonische Reich lebte von Landwirtschaft (bewässerte Kanalsysteme), Steuern und Tempelwirtschaften. Das Persische Reich führte standardisierte Münzprägung (den Dareikos) und ein Postsystem über sein weites Territorium ein. Jüdische Exilanten in Babylon waren in Landwirtschaft, Handel und Handwerk tätig — das Muraschu-Archiv (5. Jh. v. Chr.) zeigt jüdische Familien im Geschäftsleben. Handelsrouten verbanden Indien mit dem Mittelmeer durch persisches Territorium.
 
-**I-C3. Bevölkerung und Alltagsleben**
+#### I-C3. Bevölkerung und Alltagsleben
+**[HISTORISCH / ARCHÄOLOGISCH — WAHRSCHEINLICH]**
 Jüdische Exilanten lebten in Gemeinschaften in Babylonien und bewahrten ihre Identität durch Sabbatobservanz, Speisegesetze und Schriftstudium. Die Synagoge könnte in dieser Periode als Ersatz für den Tempelgottesdienst entstanden sein. Familien waren Großfamilien und patriarchalisch. Die Lebenserwartung war ähnlich wie in früheren Perioden (~30–40 Jahre). Das Exil löste eine theologische Krise aus: Wie konnte man JHWH ohne Tempel, in einem fremden Land, verehren?
 
-**I-C4. Sozialstruktur und Klassen**
+#### I-C4. Sozialstruktur und Klassen
+**[HISTORISCH / ARCHÄOLOGISCH — WAHRSCHEINLICH]**
 Die babylonische Gesellschaft war stratifiziert: König, Priester, Schreiber, Händler, Bauern, Sklaven. Jüdische Exilanten nahmen eine mittlere Stellung ein — keine Sklaven, aber auch keine freien Bürger. Priesterfamilien bewahrten Genealogien und Ritualwissen. Die Schreiberklasse wurde zunehmend wichtig als Hüterin der Tradition. Esra wird als „ein im Gesetz des Mose kundiger Schreiber" beschrieben (Esra 7:6) — ein Vorbild für die entstehende Rolle des Toragelehrten.
 
-**I-C5. Bildung, Schriftlichkeit und Kommunikation**
+#### I-C5. Bildung, Schriftlichkeit und Kommunikation
+**[HISTORISCH / ARCHÄOLOGISCH — DOKUMENTIERT]**
 Aramäisch war zur gemeinsamen Sprache des Reiches geworden und verdrängte das Hebräische im Alltagsgespräch. Hebräisch überlebte als literarische und liturgische Sprache. Keilschrift wurde noch in Babylon verwendet; alphabetische aramäische Schrift breitete sich aus. Jüdische Schreiber produzierten und kopierten Texte auf Hebräisch, aber die Gemeinschaft sprach zunehmend Aramäisch. Die Tora begann, öffentlich gelesen und erklärt zu werden (Nehemia 8), was auf eine Gemeinschaft hinweist, die den Text in ihre Alltagssprache übersetzt haben musste.
 
-**I-C6. Militär und Konflikte**
+#### I-C6. Militär und Konflikte
+**[HISTORISCH / ARCHÄOLOGISCH — DOKUMENTIERT]**
 Die babylonische Eroberung Judas (597 und 586 v. Chr.) war verheerend — Belagerungskrieg, Zerstörung, Deportation. Die persische Eroberung Babylons (539 v. Chr.) verlief relativ unblutig. Unter persischer Herrschaft waren jüdische Gemeinschaften nicht militarisiert. Der Wiederaufbau der Mauern Jerusalems (Nehemia) stieß auf lokalen Widerstand, aber keinen größeren militärischen Konflikt. Die Perserkriege gegen Griechenland (490–479 v. Chr.) betrafen den westlichen Teil des Reiches, nicht Judäa direkt.
 
-**I-C7. Kunst, Literatur und Philosophie**
+#### I-C7. Kunst, Literatur und Philosophie
+**[HISTORISCH / ARCHÄOLOGISCH — DOKUMENTIERT]**
 Die babylonische Literatur war reich: Das Enuma Elisch wurde jährlich beim Akitu (Neujahrsfest) rezitiert. Jüdische Exilanten, die in Babylon lebten, hörten diese Geschichten. Wenn Genesis 1 in diesem Kontext abgeschlossen wurde, könnten seine Unterschiede zum Enuma Elisch (Schöpfung durch Wort, nicht durch Kampf; ein Gott, nicht viele; der Mensch nach Gottes Bild, nicht aus göttlichem Blut gemacht) eine bewusste theologische Gegenerzählung darstellen. Die griechische Philosophie (die Vorsokratiker) entstand gleichzeitig in Ionien, hatte aber noch keinen direkten Kontakt mit dem jüdischen Denken.
 
-**I-C8. Wissenschaft, Technologie und Medizin**
+#### I-C8. Wissenschaft, Technologie und Medizin
+**[HISTORISCH / ARCHÄOLOGISCH — VERIFIZIERT]**
 Die babylonische Astronomie war weit entwickelt — sie verfolgten Planetenbewegungen, sagten Sonnenfinsternisse voraus und entwickelten mathematische Modelle (die MUL.APIN-Sternkataloge). Die babylonische Mathematik verwendete ein Basis-60-System (das in unserer 60-Minuten-Stunde und dem 360-Grad-Kreis fortlebt). Die Medizin mischte empirische Beobachtung mit Beschwörungsformeln. Persisches Ingenieurswesen schuf den Qanat (unterirdischer Bewässerungskanal) und das Königliche-Straße-Kommunikationssystem. Eisenwerkzeuge waren Standard.
 
-**I-C9. Religion und Weltbild**
+#### I-C9. Religion und Weltbild
+**[HISTORISCH / ARCHÄOLOGISCH — DOKUMENTIERT]**
 Die babylonische Religion zentrierte sich auf Marduk, dessen Tempel Esagila das bedeutendste Bauwerk in Babylon war. Das Enuma Elisch feierte Marduks Erschaffung der Welt aus dem Leib der erschlagenen Göttin Tiamat. Die persische Religion (Zoroastrismus) führte Konzepte des kosmischen Dualismus (Gut gegen Böse) ein, die möglicherweise das spätere jüdische Denken beeinflussten. Der monotheistische Schöpfungsbericht in Genesis 1 — ein Gott, kein Kampf, keine rivalisierenden Gottheiten — befasst sich mit dem religiösen Umfeld sowohl des babylonischen Polytheismus als auch des aufkommenden zoroastrischen Dualismus.
 
-**I-C10. Nachbarvölker**
+#### I-C10. Nachbarvölker
+**[HISTORISCH / ARCHÄOLOGISCH — DOKUMENTIERT]**
 Babylonier waren die Imperialmacht, dann Perser. Ägypter unter der Saitischen Dynastie behielten ihre Unabhängigkeit bis zur persischen Eroberung (525 v. Chr.). Griechen entstanden als kulturelle und militärische Kraft. Phönizier setzten den Seehandel fort. Die Samaritaner (nordisraelitische Bevölkerung, die nicht ins Exil gegangen war) bewahrten ihre eigene Version des Pentateuchs und ihren eigenen Tempel auf dem Berg Garizim. Die Beziehungen zwischen rückkehrenden Exilanten und Samaritanern waren gespannt.
 
 ---
 
-### Szenario D: Falls während der persischen/frühen hellenistischen Periode redigiert (~4.–3. Jh. v. Chr.)
-**[HISTORISCH / ARCHÄOLOGISCH — MÖGLICH]** *(Verbunden mit der abschließenden Pentateuchgestaltung; Schmid, Römer)*
+### Szenario D: Falls während der persischen/frühen hellenistischen Periode redigiert (~4.–3. Jh. v. Chr.) — *Verbunden mit der abschließenden Pentateuchgestaltung; Schmid, Römer*
+**[HISTORISCH / ARCHÄOLOGISCH — MÖGLICH]**
 
-**I-D1. Politische Landschaft**
+#### I-D1. Politische Landschaft
+**[HISTORISCH / ARCHÄOLOGISCH — DOKUMENTIERT]**
 Das Persische Reich regierte Judäa weiterhin als die Provinz Jehud, bis Alexander der Große es im Jahr 332 v. Chr. eroberte. Nach Alexanders Tod (323 v. Chr.) fiel die Region an die Ptolemäische Dynastie (Ägypten) und später an die Seleukidische Dynastie (Syrien). Judäa war eine kleine, halbautonome Tempelgemeinschaft, die von einem Hohenpriester unter kaiserlicher Aufsicht regiert wurde. Die Tora gewann als Verfassungsdokument dieser Gemeinschaft an Autorität.
 
-**I-D2. Wirtschaft und Handel**
+#### I-D2. Wirtschaft und Handel
+**[HISTORISCH / ARCHÄOLOGISCH — VERIFIZIERT]**
 Münzgeld war nun weit verbreitet. Die Provinz Jehud prägte ihre eigenen kleinen Silbermünzen (die Jehud-Münzen). Hellenistische Handelsnetzwerke verbanden den gesamten östlichen Mittelmeerraum. Griechische Händler, Soldaten und Siedler brachten neue Waren und Kulturpraktiken. Die Landwirtschaft blieb die Basis, aber die Verstädterung nahm zu. Steuern flossen an kaiserliche Behörden (persische oder ptolemäische).
 
-**I-D3. Bevölkerung und Alltagsleben**
+#### I-D3. Bevölkerung und Alltagsleben
+**[HISTORISCH / ARCHÄOLOGISCH — WAHRSCHEINLICH]**
 Jerusalem war klein — vielleicht 1.500–2.500 Menschen in der Perserzeit, wachsend unter hellenistischer Herrschaft. Die Gemeinschaft war um den Tempel organisiert, der sowohl religiöses Zentrum als auch Verwaltungszentrum war. Das Familienleben war patriarchalisch. Jüdische Gemeinschaften existierten im ganzen Persischen Reich (die Elephantine-Papyri dokumentieren eine jüdische Militärkolonie in Ägypten). Diasporajuden hielten durch Pilgerfahrten und Spenden Verbindungen zu Jerusalem.
 
-**I-D4. Sozialstruktur und Klassen**
+#### I-D4. Sozialstruktur und Klassen
+**[HISTORISCH / ARCHÄOLOGISCH — WAHRSCHEINLICH]**
 Der Hohepriester war die mächtigste lokale Figur. Priesterfamilien kontrollierten den Tempelschatz und den Ritus. Ein Rat der Ältesten (später der Sanhedrin) half bei der Verwaltung. Schreiber und Toragelehrte gewannen als Gesetzesausleger an Autorität. Die Tora selbst wurde zum vereinigenden Dokument jüdischer Identität — eine „tragbare Heimat" für Diasporagemeinden.
 
-**I-D5. Bildung, Schriftlichkeit und Kommunikation**
+#### I-D5. Bildung, Schriftlichkeit und Kommunikation
+**[HISTORISCH / ARCHÄOLOGISCH — DOKUMENTIERT]**
 Aramäisch war die Gemeinsprache; Hebräisch war zunehmend eine literarische und liturgische Sprache. Griechisch breitete sich nach Alexander als Sprache des Handels und der Verwaltung aus. Die Septuaginta-Übersetzung der Tora ins Griechische (traditionell im 3. Jh. v. Chr. in Alexandria datiert) zeigt, dass jüdische Gemeinschaften den Text auf Griechisch benötigten. Schreiberschulen bildeten Kopisten aus, die biblische Texte mit zunehmender Genauigkeit bewahrten und überlieferten.
 
-**I-D6. Militär und Konflikte**
+#### I-D6. Militär und Konflikte
+**[HISTORISCH / ARCHÄOLOGISCH — DOKUMENTIERT]**
 Alexanders Feldzug durch die Levante (332 v. Chr.) brachte griechische Militärmacht in die Region. Die Diadochenkriege (Kriege von Alexanders Nachfolgern) betrafen die Levante wiederholt. Judäa wechselte zwischen ptolemäischer und seleukidischer Kontrolle. Jüdische Gemeinschaften waren keine großen Militärakteure, wurden aber zwischen Imperien eingeklemmt. Der spätere Makkabäeraufstand (167 v. Chr.) würde aus dem Widerstand gegen hellenistischen Kulturdruck entstehen.
 
-**I-D7. Kunst, Literatur und Philosophie**
+#### I-D7. Kunst, Literatur und Philosophie
+**[HISTORISCH / ARCHÄOLOGISCH — WAHRSCHEINLICH]**
 Die griechische Philosophie (Platon, Aristoteles) und Literatur (Homer, die Tragiker) war nun die dominierende intellektuelle Tradition des östlichen Mittelmeerraums. Jüdische Weisheitsliteratur (Prediger, Teile der Sprüche, später Sirach) zeigt Bewusstsein für griechische philosophische Fragen. Wenn die endgültige Form der Genesis in dieser Periode geprägt wurde, wäre sie von Schreibern produziert worden, die sowohl ihre eigenen alten Traditionen als auch die sie umgebende griechische Geisteswelt kannten.
 
-**I-D8. Wissenschaft, Technologie und Medizin**
+#### I-D8. Wissenschaft, Technologie und Medizin
+**[HISTORISCH / ARCHÄOLOGISCH — DOKUMENTIERT]**
 Die griechische Wissenschaft entwickelte sich rasch: Aristoteles' Biologie, Euklids Geometrie (etwas später, ~300 v. Chr.), hippokratische Medizin. Das babylonische Astronomiewissen wurde an griechische Astronomen weitergegeben. Eisenwerkzeuge und -waffen waren Standard. Hellenistische Städte führten neue Stadtplanung, Wassersysteme und Architekturstile ein. Die Bibliothek von Alexandria (gegründet ~300 v. Chr.) wurde zur größten Wissenssammlung der Antike.
 
-**I-D9. Religion und Weltbild**
+#### I-D9. Religion und Weltbild
+**[HISTORISCH / ARCHÄOLOGISCH — WAHRSCHEINLICH]**
 Der Jerusalemer Tempel war das Zentrum des jüdischen Gottesdienstes, aber der hellenistische religiöse Synkretismus breitete sich aus — griechische Götter wurden mit lokalen Göttern identifiziert, Mysterienkulte gewannen Anhänger. Der jüdische Monotheismus wurde in diesem Umfeld schärfer definiert. Die Autorität der Tora wurde formalisiert — Traditionen über Toralesung, Auslegung und Observanz kristallisierten sich heraus. Wenn Genesis 1 in dieser Periode geformt wurde, resonierte sein kompromissloser Monotheismus und seine geordnete, zweckvolle Schöpfung als Gegenaussage zu den Chaos-Kampf-Mythologien des alten Vorderen Orients und den unpersönlichen Kosmologien der griechischen Philosophie.
 
-**I-D10. Nachbarvölker**
+#### I-D10. Nachbarvölker
+**[HISTORISCH / ARCHÄOLOGISCH — DOKUMENTIERT]**
 Griechen waren nun die dominierende kulturelle Präsenz. Phönizische Städte wurden in hellenistische Königreiche absorbiert. Nabatäische Araber kontrollierten Handelsrouten südlich von Judäa. Samaritaner bewahrten ihre separate Gemeinschaft. Das ägyptische Judentum (besonders in Alexandria) war ein bedeutendes Diasporazentrum. Der „Zusammenstoß der Zivilisationen" zwischen jüdischer und griechischer Weltanschauung — der schließlich die Makkabäerkrise hervorbringen würde — war bereits im Gange.
 
 ---
