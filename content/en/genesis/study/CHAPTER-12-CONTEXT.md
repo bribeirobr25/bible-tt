@@ -187,62 +187,74 @@ Every Pharaoh in Genesis is unnamed: the Pharaoh of Avram (Abram)'s Egypt episod
 
 ---
 
-### Scenario A: If composed during the Mosaic period (~13th c. BCE)
-**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]** *(Traditional attribution)*
+### Scenario A: If composed during the Mosaic period (~13th c. BCE) — *Traditional attribution*
+**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
 
-**I-A1. Pastoral nomadism in Late Bronze Age Canaan**
+#### I-A1. Pastoral nomadism in Late Bronze Age Canaan
+**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
 The Late Bronze Age Levant hosted a recognized category of semi-nomadic peoples moving seasonally with flocks between grazing lands and urban markets. The Amarna Letters (14th c. BCE) describe pastoral groups (*Hapiru* and *Shasu*) operating at the margins of the Canaanite city-state system — not bandits, but a recognized social category with complex relationships to settled communities. Avram (Abram)'s pattern in Genesis 12-13 — tent-dwelling, seasonal movement between Shekhem (Shechem), Bethel, the Negev, and Egypt, trading with settled communities, maintaining a large household — fits this social model precisely. An Israelite audience recently transitioned from Egyptian slavery to wilderness semi-nomadism would have recognized this lifestyle as their own ancestral mode.
 
-**I-A2. Land-grant covenants in ANE legal practice**
+#### I-A2. Land-grant covenants in ANE legal practice
+**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
 Genesis 12:1 pairs a divine command (leave your land) with a divine promise (I will show you the land; I will make you a great nation). This structure — leaving established territory in exchange for a divine land grant — parallels Late Bronze Age land-grant documents known from Nuzi and other sites, where a patron grants land to a client with obligations on both sides. What is distinctive in Genesis 12 is that the grant is entirely unconditional on Avram (Abram)'s side: YHWH announces what he will do, not what Avram must do in return to receive it. The later Abrahamic covenant (Gen 15, 17) will formalize this, but the pattern is established here in the initial call. A Mosaic-period audience familiar with ANE land-grant conventions would have recognized the legal form while noting its asymmetry.
 
-**I-A3. Egypt as destination — Late Bronze Age context**
+#### I-A3. Egypt as destination — Late Bronze Age context
+**[HISTORICAL / ARCHAEOLOGICAL — VERIFIED]**
 Egypt in the 13th century BCE (Ramesses II period) was the dominant regional power, and Canaan was an Egyptian administrative zone. Levantine peoples traveled to Egypt regularly for trade and famine relief. The "Anastasi Papyrus" (13th c. BCE) describes Egyptian border officials recording the entry of Semitic nomadic groups — exactly the kind of entry Genesis 12:10-16 describes. Pharaoh's court receiving a beautiful foreign woman and rewarding her male companion with gifts (12:15-16) reflects a documented practice of Egyptian royal acquisitions. The plagues (*nega'im*, 12:17) prefiguring Exodus are legible against a background where the Exodus audience already knew how YHWH dealt with Pharaoh.
 
-**I-A4. Altar-building as territorial-religious claim**
+#### I-A4. Altar-building as territorial-religious claim
+**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
 Avram (Abram) builds altars at Shekhem (Shechem) (12:7) and between Bethel and Ai (12:8), and calls on the name of YHWH at each. In the Late Bronze Age, altar-building at a location was a standard method of establishing religious claim over territory. Canaanite cities had their own altars and sacred trees (*asherah*) at high places. By building an altar to YHWH in the land that "the Kenaani was then in" (12:6), Avram performs a religious counter-claim: YHWH is present in this land, not merely the Canaanite deities. For a Mosaic-period audience about to enter Canaan and instructed to tear down Canaanite altars (Deut 12:3), Abram's altar-building would have established the precedent.
 
-**I-A10. The Ur — Charan — Canaan — Egypt corridor**
+#### I-A10. The Ur — Charan — Canaan — Egypt corridor
 **[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
 The geography of Genesis 11:31 – 12:20 traces a single migration arc spanning four distinct cultural-political zones: Ur Kasdim (lower Mesopotamia under the Third Dynasty of Ur or its successors), Charan (upper Mesopotamia / Aramean borderlands), Canaan (Late Bronze Age vassal-kingdoms under Egyptian oversight), and Egypt (Middle Kingdom or New Kingdom depending on dating). Each zone had a distinct political, linguistic, and religious profile, and the routes connecting them are independently attested. The Ur-to-Charan leg follows the Euphrates trade corridor — a major artery for tin, copper, and textiles. The Charan-to-Canaan leg follows the Fertile Crescent's western branch, crossing through Aramean tribal territory documented in the Mari letters (18th c. BCE) and later in Hittite-period correspondence. The Canaan-to-Egypt leg uses the "Way of the Sea" along the Mediterranean coast or the more southerly "Way of Shur" through the Negev — both attested by Egyptian frontier-fortress records. The Beni Hasan tomb paintings (c. 1890 BCE) at Beni Hasan, Egypt, depict a delegation of 37 "Asiatics" (sand-dwellers) led by a man labeled "Abisha the *hyksos*-prince" arriving in Egypt — a contemporary visual record of exactly the kind of pastoral-clan migration Genesis 12:10 narrates. The detailed multi-zone geography in a single chapter is unmatched elsewhere in Genesis 1–11 and reflects deep knowledge of the actual migratory corridors of the Middle and Late Bronze Age. **Source:** Hoffmeier, J.K., *Israel in Egypt: The Evidence for the Authenticity of the Exodus Tradition*, Oxford University Press, 1996 (Beni Hasan + Egyptian frontier records); Hess, R.S., *Israelite Religions*, Baker Academic, 2007, ch. 4 (Avrahamic-period geography); Kitchen, K.A., *On the Reliability of the Old Testament*, Eerdmans, 2003. **[PEER-REVIEWED — DOCUMENTED]**
 
 ---
 
-### Scenario B: If composed during the Monarchic period (~10th-9th c. BCE)
-**[HISTORICAL / ARCHAEOLOGICAL — POSSIBLE]** *(Some scholars place early source traditions here)*
+### Scenario B: If composed during the Monarchic period (~10th-9th c. BCE) — *Some scholars place early source traditions here*
+**[HISTORICAL / ARCHAEOLOGICAL — POSSIBLE]**
 
-**I-B1. The patriarchal journey as legitimation of the land claim**
+#### I-B1. The patriarchal journey as legitimation of the land claim
+**[HISTORICAL / ARCHAEOLOGICAL — PROBABLE]**
 In the Monarchic period, Israel's claim to the land of Canaan was contested by Philistines, Arameans, and memories of Canaanite dispossession. Genesis 12's narrative — Avram (Abram) traveling through the land, building altars, receiving the promise "to your seed I will give this land" (12:7) — provided ancestral title to the territory. Royal land-grant ideology in the ancient Near East worked by establishing prior divine promise: the gods gave this land to our ancestor, therefore it belongs to us. Avram's traversal of the land (Shekhem, Bethel, the Negev) covers the breadth of what will become Israelite territory. The narrative stakes the claim before any military conquest, tracing it to divine promise rather than military achievement.
 
-**I-B2. Egypt as political variable in Monarchic Israel**
+#### I-B2. Egypt as political variable in Monarchic Israel
+**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
 Egypt's role in Monarchic Israelite politics was complex: ally (Solomon's Egyptian wife, 1 Kings 3:1), refuge (Jeroboam fled to Egypt, 1 Kings 11:40), and threat (Shishak's campaign, 1 Kings 14:25-26). Avram (Abram)'s episode in Egypt — entering under Pharaoh's power, YHWH intervening through plagues, Abram leaving with wealth — prefigured both the Joseph story and the Exodus, establishing a narrative pattern. For a Monarchic audience navigating the ambiguous relationship with Egypt, the Genesis 12 episode said: our ancestors were in Egypt before, YHWH was with them, and they came out enriched. The pattern holds.
 
-**I-B3. Wife-sister ambiguity and social customs**
+#### I-B3. Wife-sister ambiguity and social customs
+**[HISTORICAL / ARCHAEOLOGICAL — PROBABLE]**
 The wife-sister episode (12:10-20) would have raised questions for a Monarchic audience familiar with marriage customs and legal practice. Half-sibling marriage was not unheard of in the ancient Near East (Amnon and Tamar, 2 Sam 13, are half-siblings — the marriage is presented as possibly legal). The Nuzi tablets (15th c. BCE) attest to a legal category of *ahatu* (sistership) associated with elevated social status in marriage contexts. Whether the Monarchic audience understood Avram (Abram)'s claim as a half-truth (confirmed in Gen 20:12), a social-legal formula, or straightforward deception is unclear. The text's silence on moral evaluation — no divine rebuke to Abram, only plagues on Pharaoh — is itself a significant feature.
 
 ---
 
-### Scenario C: If composed during the Exilic/Post-Exilic period (~6th-5th c. BCE)
-**[HISTORICAL / ARCHAEOLOGICAL — PROBABLE]** *(Scholarly consensus for final form)*
+### Scenario C: If composed during the Exilic/Post-Exilic period (~6th-5th c. BCE) — *Scholarly consensus for final form*
+**[HISTORICAL / ARCHAEOLOGICAL — PROBABLE]**
 
-**I-C1. The call to leave as resonant pattern for exilic community**
+#### I-C1. The call to leave as resonant pattern for exilic community
+**[HISTORICAL / ARCHAEOLOGICAL — PROBABLE]**
 For Jewish exiles in Babylon (586-539 BCE), Avram (Abram)'s call in Genesis 12:1 — "leave your land, your birthplace, and your father's house and go to the land I will show you" — was a mirror image of their own situation. They had been forcibly removed from their land; Abram left voluntarily at divine command. The exile called the community to discern whether its displacement was punishment or calling. Second Isaiah (ca. 550 BCE) explicitly invokes the Abrahamic promise in exactly this context: "Look to Abraham your father and to Sarah who bore you; for he was but one when I called him, and I blessed him and increased him" (Isa 51:2). Reading Genesis 12 in Babylon, the call and journey were not past history but present possibility.
 
-**I-C2. Land-grant covenant as theological anchor without territory**
+#### I-C2. Land-grant covenant as theological anchor without territory
+**[HISTORICAL / ARCHAEOLOGICAL — PROBABLE]**
 The exilic community had lost the land. Genesis 12:7 — "to your seed I will give this land" — was a promise that had been fulfilled (the settlement under Joshua), forfeited (the exile), and, under Cyrus's decree (539 BCE), potentially reinstated. The unconditional form of the promise in Genesis 12 — no conditions stated, no obligations imposed on Avram (Abram) — made it theologically resilient: the promise did not depend on Israel's performance, because it was given before Israel existed, to one man, without conditions. Post-exilic theology leaned heavily on the Abrahamic promises precisely because they were unconditional in a way the Sinai covenant was not.
 
-**I-C3. Egypt as persistent archetype**
+#### I-C3. Egypt as persistent archetype
+**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
 In exilic and post-exilic theology, Egypt functioned as an archetype of oppression, refuge, and complicated return. Jewish communities settled in Egypt after the destruction of Jerusalem (Jer 43-44). The Elephantine papyri document a Jewish military colony in Egypt in the 5th century BCE. For these communities, Avram (Abram)'s descent into Egypt (12:10) and departure with wealth (12:16, 20) — with YHWH intervening against Pharaoh — was not just ancestral history but a template. The pattern (famine → Egypt → divine intervention → departure with wealth) recurs: Joseph, Moses, and now potentially the Jewish diaspora in Egypt. The repetition is theological: YHWH's pattern with his people does not change.
 
 ---
 
-### Scenario D: If redacted during the Persian/early-Hellenistic period (~4th-3rd c. BCE)
-**[HISTORICAL / ARCHAEOLOGICAL — POSSIBLE]** *(Associated with final Pentateuchal shaping)*
+### Scenario D: If redacted during the Persian/early-Hellenistic period (~4th-3rd c. BCE) — *Associated with final Pentateuchal shaping*
+**[HISTORICAL / ARCHAEOLOGICAL — POSSIBLE]**
 
-**I-D1. Pastoral nomadism as ancestral identity in a settled world**
+#### I-D1. Pastoral nomadism as ancestral identity in a settled world
+**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
 By the 4th-3rd centuries BCE, Jewish communities in Judea, Babylon, and Egypt were predominantly settled — urban or agricultural, not pastoralists. Avram (Abram)'s tent-dwelling, altar-building semi-nomadism was an ancestral mode, not a contemporary one. Persian-period Yehud was a small agricultural province; Hellenistic Jewish communities in Alexandria were urban and commercially integrated. Reading Genesis 12's portrait of a patriarch as a mobile, landless sojourner in this context: the text preserves a founding identity that stands in tension with the community's actual settled life. The ancestor was a *ger* (sojourner) — and the legal tradition derived from his example (Exod 22:21: "you were sojourners in the land of Egypt") shaped Israel's ethics toward foreigners long after the semi-nomadic lifestyle had ended.
 
-**I-D2. The Abrahamic promise and Hellenistic universal claims**
+#### I-D2. The Abrahamic promise and Hellenistic universal claims
+**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
 Hellenistic rulers made universal claims: Alexander was proclaimed son of Zeus-Ammon, ruler of all peoples. The Ptolemies and Seleucids positioned themselves as universal sovereigns. Genesis 12:3b — "all families of the ground will be blessed in you" (or "will bless themselves by you") — made a counter-claim: the universal blessing of humanity passes through one man and his seed, not through any Macedonian dynasty. Paul's later reading of this verse (Gal 3:8 — the original announcement of the gospel) draws on exactly this universal dimension. In the 4th-3rd century BCE context, the Abrahamic promise offered Jewish communities a theological basis for their own significance within a world being reorganized around Hellenistic power: the universal story ran through their ancestor, not through Alexander.
 
 ---

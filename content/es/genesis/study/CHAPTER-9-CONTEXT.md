@@ -264,69 +264,82 @@ Génesis 9:20–21: Nóaj "plantó una viña, y bebió del vino y se embriagó, 
 
 ---
 
-### Escenario A: Si fue compuesto durante el período mosaico (~siglo XIII a. e. c.)
-**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]** *(Atribución tradicional)*
+### Escenario A: Si fue compuesto durante el período mosaico (~siglo XIII a. e. c.) — *Atribución tradicional*
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 
-**I-A1. La viticultura en la Edad del Bronce Tardío**
+#### I-A1. La viticultura en la Edad del Bronce Tardío
+**[HISTÓRICO / ARQUEOLÓGICO — VERIFICADO]**
 El cultivo de la uva y la producción de vino ya eran tecnologías antiguas en el siglo XIII a. e. c. Las pinturas de tumbas del Reino Nuevo de Egipto muestran la gestión de viñedos y el prensado de uvas como actividades de prestigio. Las ciudades cananeas producían vino para la economía de guarnición egipcia — las Cartas de Amarna (siglo XIV a. e. c.) incluyen solicitudes de vino entre los artículos de tributo. El sur del Cáucaso y el este de Anatolia (la región de Ararat en el Génesis) están confirmados arqueológicamente como las zonas productoras de vino más antiguas (Hajji Firuz Tepe, c. 5400 a. e. c.). Una audiencia israelita en el período del Sinaí o del Canaán temprano habría conocido el vino como marcador de civilización sedentaria — exactamente el contexto que Génesis 9:20-21 implica para el "hombre de la tierra" post-diluvio.
 
-**I-A2. La cultura del honor-vergüenza y la ley sobre la desnudez**
+#### I-A2. La cultura del honor-vergüenza y la ley sobre la desnudez
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 Los códigos legales de la Edad del Bronce Tardío trataban la exposición de un padre como un evento de vergüenza comunitaria que requería una respuesta ritual. Las Leyes Hititas (§§187-200) abordan las violaciones sexuales que involucran a miembros de la familia; las Leyes Asirias Medias imponen severas penas por la falta de respeto sexual. En los hogares patriarcales egipcios y cananeos, el cuerpo del patriarca llevaba el honor de todo el clan. El acto de Jam (Cam) — ver y luego difundir — habría sido legible para las audiencias del período mosaico como una doble transgresión: tanto el ver como el contar violaban las normas de honor del hogar. La marcha hacia atrás de Shem y Yafet (Jafet) (9:23) es un gesto de restauración del honor coreografiado, inteligible en cualquier contexto cultural de la Edad del Bronce Tardío.
 
-**I-A3. La estructura del pacto en la Edad del Bronce Tardío**
+#### I-A3. La estructura del pacto en la Edad del Bronce Tardío
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 El pacto noájico (9:8-17) sigue un patrón reconocible: anuncio divino, contenido, señal. Los tratados de soberanía hititas de los siglos XIV-XIII a. e. c. usaban exactamente esta estructura — preámbulo, estipulaciones, testigos, bendiciones y maldiciones. Lo que hace que el pacto noájico sea inusual en este contexto es la ausencia total de obligaciones humanas. Los tratados de la Edad del Bronce Tardío eran bilaterales; este pacto es completamente unilateral. Una audiencia israelita recién salida del pacto bilateral del Sinaí (Éx 19-24) habría registrado el contraste inmediatamente: YHWH se compromete a sí mismo sin exigir nada del lado humano.
 
-**I-A4. El simbolismo del arco en la cultura guerrera del ACO**
+#### I-A4. El simbolismo del arco en la cultura guerrera del ACO
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 En la iconografía de la Edad del Bronce Tardío, el arco de guerra era el arma divina por excelencia. Los faraones egipcios eran representados como arqueros — los relieves de batalla de Ramsés II lo muestran como el único guerrero con un arco contra los hititas. Los dioses de la tormenta cananeos (Baal, Hadad) eran arqueros guerreros. La deidad mesopotámica Ninurta llevaba un arco. La imagen en Génesis 9:13 — "mi arco he puesto en la nube" — posiciona a YHWH como un guerrero divino que ha colgado su arma. Para una audiencia de la Edad del Bronce Tardío fluida en este lenguaje iconográfico, el gesto tiene un significado claro: la guerra ha terminado, el arma ha sido retirada, el guerrero se ha retirado.
 
-**I-A9. Religión post-diluvio — prohibición de la sangre e imaginería del arco depuesto**
+#### I-A9. Religión post-diluvio — prohibición de la sangre e imaginería del arco depuesto
 **[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
 El marco religioso de Génesis 9 introduce dos innovaciones distintas de la religión de la era de la creación de Génesis 1. Primero, la ecuación explícita de vida con sangre (9:4: "carne con su vida — su sangre — no comeréis") paraleliza pero difiere de los sistemas sacrificiales levantinos contemporáneos: los textos rituales hititas tratan la sangre como la sustancia de ofrenda propia pero no prohíben su consumo per se; las ofrendas cananeas *zebach* recogían sangre en cuencos para aspersión ritual pero no necesariamente la excluían del banquete cúltico. La prohibición de Génesis 9 es un marcador de categoría: al humano post-diluvio se le permite carne animal pero se le veda la sustancia equiparada con la vida. Segundo, el arco-iris-como-arco-depuesto (9:13) encuentra su paralelo más cercano en el épico acadio *Atrahasis*, donde tras el diluvio la diosa Nintu eleva su collar de *lapislázuli* para conmemorar el desastre — una señal celestial permanente del arrepentimiento de los dioses. En ambas tradiciones, un objeto visible en el cielo se convierte en una prenda memorial contra repetir la destrucción. **Fuente:** Levine, B.A., *Leviticus* (JPS Torah Commentary), Jewish Publication Society, 1989 (ecuación sangre-vida en los sistemas sacrificiales del ACO); Lambert, W.G. y Millard, A.R., *Atrahasis: The Babylonian Story of the Flood*, Eisenbrauns, 1969. **[ANE COMPARATIVE — DOCUMENTED]**
 
-**I-A10. Esquema de etnogénesis de tres ramas (Sem / Cam / Yafet)**
+#### I-A10. Esquema de etnogénesis de tres ramas (Sem / Cam / Yafet)
 **[HISTORICAL / ARCHAEOLOGICAL — POSSIBLE]**
 La nominación de los tres hijos de Noach como antepasados de tres ramas de la humanidad post-diluviana (9:18-19, con la expansión genealógica en Gn 10) es un esquema estructuralmente inusual en la literatura del ACO. El épico acadio *Atrahasis* nombra un único superviviente del diluvio (Atrahasis / Ziusudra / Utnapishtim según la tradición) y avanza directamente hacia la repoblación sin un esquema de tres hijos. Las tradiciones de la Lista Real Sumeria trazan la realeza post-diluviana como una institución continua que desciende de una ciudad a la siguiente, no a través de una genealogía de tres ramas. El paralelo más cercano de la tradición griega — Heleno como antepasado de los dorios, eolios y jonios + aqueos — es estructuralmente similar (un ancestro → tres o cuatro ramas de linaje nombradas) pero siglos posterior a las capas textuales que la mayoría de los eruditos asigna a Gn 9-10. Función posible: el esquema de tres ramas puede servir a una lógica de bendición-pacto específica de la cosmovisión israelita del período mosaico, donde Sem (→ Avraham → Israel) está privilegiado dentro de un marco triádico que sitúa a Israel como heredero de un linaje post-diluviano particular entre alternativas legítimas. **Fuente:** Day, J., *From Creation to Babel: Studies in Genesis 1-11*, Bloomsbury T&T Clark, 2013, cap. 6 (hijos de Noach). **[PEER-REVIEWED — DOCUMENTED]**
 
 ---
 
-### Escenario B: Si fue compuesto durante el período monárquico (~siglos X-IX a. e. c.)
-**[HISTÓRICO / ARQUEOLÓGICO — POSIBLE]** *(Algunos eruditos sitúan aquí las tradiciones de las fuentes tempranas)*
+### Escenario B: Si fue compuesto durante el período monárquico (~siglos X-IX a. e. c.) — *Algunos eruditos sitúan aquí las tradiciones de las fuentes tempranas*
+**[HISTÓRICO / ARQUEOLÓGICO — POSIBLE]**
 
-**I-B1. La viticultura como economía real**
+#### I-B1. La viticultura como economía real
+**[HISTÓRICO / ARQUEOLÓGICO — VERIFICADO]**
 El período monárquico vio cómo la viticultura se integraba en la economía estatal israelita. Los distritos administrativos de Salomón (1 Re 4) incluían regiones de producción de vino. Los socios comerciales fenicios exportaban vino levantino por todo el Mediterráneo. Los Ostraca de Samaria (siglo IX a. e. c.) registran entregas de vino a la casa real. El viñedo de Noaj (Noé) en Génesis 9:20-21 resonaría con una audiencia monárquica como el acto fundacional de una economía civilizada: el primer patriarca del mundo post-diluvio planta el cultivo que sostiene la vida real. La moderación del texto — sin veredicto moral sobre el vino en sí — coincide con la cultura de su presunto período de composición, en el que el vino era normal.
 
-**I-B2. La maldición y la bendición como discurso político**
+#### I-B2. La maldición y la bendición como discurso político
+**[HISTÓRICO / ARQUEOLÓGICO — VERIFICADO]**
 El oráculo de Noaj (Noé) (9:25-27) combina una maldición formal sobre Kenáan (Canaán) con bendiciones sobre Shem y Yafet (Jafet). En el período monárquico, la bendición y la maldición eran actos de discurso político activos. Las inscripciones reales invocaban bendiciones divinas sobre los sucesores y maldiciones sobre quienes vandalicaran los monumentos (la Estela de Mesa, siglo IX a. e. c., incluye ambas). Los oráculos proféticos de bendición y maldición (Natán a David, Elías contra Ajab) se entendían como palabras vinculantes que configuraban la realidad. Una audiencia en la monarquía unida o dividida habría escuchado el oráculo de Noé como un discurso constitucional: la palabra patriarcal fundacional que establece el orden jerárquico entre las naciones de sus descendientes.
 
-**I-B3. Kenáan en el paisaje político**
+#### I-B3. Kenáan en el paisaje político
+**[HISTÓRICO / ARQUEOLÓGICO — PROBABLE]**
 Durante el período monárquico, las ciudades-estado cananeas habían sido en gran medida absorbidas, desplazadas o subordinadas por el asentamiento israelita y la presencia filistea. La "maldición de Canaán" (9:25) habría tenido resonancia política inmediata: explicaba y legitimaba la relación de Israel con los antiguos habitantes de la tierra. Esto no significa que la maldición fuera inventada con este propósito — puede ser más antigua — pero su preservación y transmisión en el período monárquico cumplía una función ideológica clara: la subyugación de Canaán estaba escrita en la narrativa fundacional de toda la humanidad, rastreada antes de Abraham, antes de Moisés, hasta el primer patriarca del mundo.
 
 ---
 
-### Escenario C: Si fue compuesto durante el período exílico/postexílico (~siglos VI-V a. e. c.)
-**[HISTÓRICO / ARQUEOLÓGICO — PROBABLE]** *(Consenso académico para la forma final)*
+### Escenario C: Si fue compuesto durante el período exílico/postexílico (~siglos VI-V a. e. c.) — *Consenso académico para la forma final*
+**[HISTÓRICO / ARQUEOLÓGICO — PROBABLE]**
 
-**I-C1. La teología del pacto bajo la dominación imperial**
+#### I-C1. La teología del pacto bajo la dominación imperial
+**[HISTÓRICO / ARQUEOLÓGICO — PROBABLE]**
 Los exiliados judíos en Babilonia (586-539 a. e. c.) vivían bajo el dominio de Nabucodonosor y luego del persa Ciro. El alcance universal del pacto noájico — hecho con "todo ser viviente" y "todas las generaciones de la perpetuidad" — tendría peso teológico en este contexto. Afirmaba que el Dios de la comunidad exiliada y sin templo era el mismo Dios que había hecho un pacto con toda la humanidad después del diluvio, que se había comprometido a no destruir nunca más la creación. Las inundaciones de conquista de Babilonia no podían invalidar este pacto. La señal del arco iris no era una promesa solo para Israel; precedía a Abraham, a Moisés y al pacto del Sinaí. Las audiencias exílicas podían encontrar en Génesis 9 un fundamento que se sostenía independientemente del templo destruido.
 
-**I-C2. El arco como contra-imagen de la mitología del guerrero divino babilónico**
+#### I-C2. El arco como contra-imagen de la mitología del guerrero divino babilónico
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 Marduk en el Enuma Elish (recitado anualmente en el festival de Año Nuevo babilónico) blandía su arco como una constelación — lo colocó en el cielo como trofeo tras derrotar a Tiamat. El arco en los cielos era un símbolo babilónico de conquista divina y dominio cósmico continuo. Génesis 9:13 — "mi arco he puesto en la nube" — usa la misma imagen pero invierte completamente su significado: el arco de YHWH no es un trofeo de conquista sino una señal de auto-moderación y pacto. Para los exiliados judíos que escuchaban ambos textos en Babilonia, esta reinterpretación era contundente. El arco celeste pertenece a YHWH, y significa lo contrario de lo que Babilonia decía que significaba.
 
-**I-C3. Los orígenes universales y la identidad étnica en la diáspora**
+#### I-C3. Los orígenes universales y la identidad étnica en la diáspora
+**[HISTÓRICO / ARQUEOLÓGICO — PROBABLE]**
 Génesis 9:18-19 presenta un mundo poblado enteramente desde tres hermanos. Para las comunidades judías en Babilonia, Egipto y Persia — que vivían entre babilonios, persas y egipcios — el marco de la Tabla de Naciones (establecido aquí) proporcionaba un mapa de los pueblos del mundo derivado de una sola familia. Los babilonios (las ciudades de Nimrod — Babel, Erekh, Akkad) estaban en el árbol familiar. Los persas (Madai, la línea de Yafet (Jafet)) estaban en el árbol familiar. Esto no era una afirmación de que todos los pueblos eran iguales — las bendiciones noájicas diferencian las líneas — pero era una afirmación de que todos los pueblos compartían un origen común, y ese origen estaba narrado en la tradición de Israel, no en la de Babilonia.
 
 ---
 
-### Escenario D: Si fue redactado durante el período persa/helenístico temprano (~siglos IV-III a. e. c.)
-**[HISTÓRICO / ARQUEOLÓGICO — POSIBLE]** *(Asociado con la configuración final del Pentateuco)*
+### Escenario D: Si fue redactado durante el período persa/helenístico temprano (~siglos IV-III a. e. c.) — *Asociado con la configuración final del Pentateuco*
+**[HISTÓRICO / ARQUEOLÓGICO — POSIBLE]**
 
-**I-D1. La viticultura en el mundo helenístico**
+#### I-D1. La viticultura en el mundo helenístico
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 Para los siglos IV-III a. e. c., la vid era un símbolo cultural en todo el mundo mediterráneo. La cultura griega del vino se extendía a través de las redes comerciales helenísticas. Dionisio (el dios griego del vino) era una de las deidades más ampliamente veneradas en el mundo helenístico. En este contexto, la identificación de Noé en Génesis 9:20 como el primer viticultor llevaba una afirmación implícita: los orígenes del vino pertenecen a la narrativa del Dios de Israel y del primer patriarca de la humanidad, no a la mitología griega. La moderación del texto — sin condenación teológica del vino, sin celebración como don divino — es distintiva en un mundo donde ambas actitudes eran prominentes.
 
-**I-D2. La desnudez, la vergüenza y la cultura corporal helenística**
+#### I-D2. La desnudez, la vergüenza y la cultura corporal helenística
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 La cultura griega celebraba el cuerpo masculino sin ropa — el desnudo (*gymnos*) era un marcador de virtud atlética y ciudadanía libre. Esto contrastaba fuertemente con la cultura de honor-vergüenza del antiguo Oriente Próximo e israelita, donde la desnudez pública era exposición y vulnerabilidad. El cuidadoso tratamiento en Génesis 9:22-23 de la desnudez de Noé — transgresión, ojos desviados, cobertura — habría ido a contracorriente de la ideología corporal helenística. Para una comunidad judía que navegaba la presión cultural helenística en los siglos IV-III a. e. c., la narrativa de Noé codificaba un sistema de valores diferente: el cuerpo no es un espectáculo público sino un lugar de honor y vergüenza familiar que requiere protección.
 
-**I-D3. El concepto de pacto en un mundo de tratados imperiales**
+#### I-D3. El concepto de pacto en un mundo de tratados imperiales
+**[HISTÓRICO / ARQUEOLÓGICO — VERIFICADO]**
 La administración imperial persa y helenística temprana operaba a través de tratados, cartas y decretos administrativos. El Cilindro de Ciro (539 a. e. c.) ejemplifica el género: una declaración real unilateral que otorga derechos a un pueblo sujeto. El pacto noájico comparte rasgos estructurales con este género — un soberano poderoso haciendo un compromiso unilateral con un grupo subordinado — pero invierte la relación de poder. Aquí el soberano universal hace un compromiso incondicional de no destruir lo que creó. Para una comunidad cuya existencia dependía de la buena voluntad imperial, la afirmación de que una soberanía superior ya se había comprometido con la no-destrucción del orden creado ofrecía un ancla teológica que ningún decreto persa o helenístico podía revocar.
 
 ---

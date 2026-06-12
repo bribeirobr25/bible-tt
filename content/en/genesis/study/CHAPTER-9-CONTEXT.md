@@ -269,69 +269,82 @@ Genesis 9:20–21: Noach (Noah) "planted a vineyard, and he drank of the wine an
 
 ---
 
-### Scenario A: If composed during the Mosaic period (~13th c. BCE)
-**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]** *(Traditional attribution)*
+### Scenario A: If composed during the Mosaic period (~13th c. BCE) — *Traditional attribution*
+**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
 
-**I-A1. Viticulture in the Late Bronze Age**
+#### I-A1. Viticulture in the Late Bronze Age
+**[HISTORICAL / ARCHAEOLOGICAL — VERIFIED]**
 Grape cultivation and wine production were already ancient technologies in the 13th century BCE. Egypt's New Kingdom tomb paintings show vineyard management and wine pressing as prestige activities. Canaanite cities produced wine for the Egyptian garrison economy — the Amarna Letters (14th c. BCE) include requests for wine among tribute items. The South Caucasus and eastern Anatolia (the Ararat region of Genesis) are archaeologically confirmed as the oldest wine-producing zones (Hajji Firuz Tepe, c. 5400 BCE). An Israelite audience in the Sinai or early Canaan period would have known wine as a marker of settled civilization — exactly the context Genesis 9:20-21 implies for the post-flood "man of the ground."
 
-**I-A2. Honor-shame culture and nakedness law**
+#### I-A2. Honor-shame culture and nakedness law
+**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
 Late Bronze Age law codes treated a father's exposure as a communal shame event requiring ritual response. The Hittite Laws (§§187-200) address sexual violations involving family members; the Middle Assyrian Laws impose severe penalties for sexual disrespect. In Egyptian and Canaanite patriarchal households, the patriarch's body carried the honor of the entire clan. Cham (Ham)'s act — seeing and then broadcasting — would have been legible to Mosaic-period audiences as a double transgression: both the seeing and the telling violated household honor norms. Shem and Yafet (Japheth)'s backward walk (9:23) is a choreographed honor-restoration gesture intelligible in any Late Bronze Age cultural context.
 
-**I-A3. Covenant structure in the Late Bronze Age**
+#### I-A3. Covenant structure in the Late Bronze Age
+**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
 The Noachic covenant (9:8-17) follows a recognizable pattern: divine announcement, content, sign. Hittite suzerainty treaties of the 14th-13th centuries BCE used exactly this structure — preamble, stipulations, witnesses, blessings and curses. What makes the Noachic covenant unusual in this context is its complete absence of human obligations. Late Bronze Age treaties were bilateral; this covenant is entirely unilateral. An Israelite audience freshly out of the bilateral Sinai covenant (Exod 19-24) would have registered the contrast immediately: YHWH binds himself without demanding anything from the human side.
 
-**I-A4. Bow symbolism in ANE warrior culture**
+#### I-A4. Bow symbolism in ANE warrior culture
+**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
 In Late Bronze Age iconography, the war bow was the quintessential divine weapon. Egyptian Pharaohs were depicted as archers — Ramesses II's battle reliefs show him as the sole warrior with a bow against the Hittites. Canaanite storm gods (Baal, Hadad) were warrior archers. Mesopotamian deity Ninurta carried a bow. The image in Genesis 9:13 — "my bow I have set in the cloud" — positions YHWH as a divine warrior who has hung up his weapon. For a Late Bronze Age audience fluent in this iconographic language, the gesture carries clear meaning: the war is over, the weapon is retired, the warrior has stood down.
 
-**I-A9. Post-flood religion — blood prohibition and bow-laid-down imagery**
+#### I-A9. Post-flood religion — blood prohibition and bow-laid-down imagery
 **[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
 Genesis 9's religious framework introduces two innovations distinct from the creation-era religion of Genesis 1. First, the explicit equation of life with blood (9:4: "flesh with its life — its blood — you shall not eat") parallels but differs from contemporaneous Levantine sacrificial systems: Hittite ritual texts treat blood as the offering substance proper but do not forbid its consumption per se; the Canaanite *zebach* offerings collected blood in basins for ritual sprinkling but did not necessarily exclude it from cultic feasting. The Genesis 9 prohibition is a category-marker: the post-flood human is permitted animal flesh but barred from the substance equated with life. Second, the rainbow-as-laid-down-bow (9:13) finds its closest parallel in the Akkadian *Atrahasis* epic, where after the flood the goddess Nintu lifts up her necklace of *lapis lazuli* to commemorate the disaster — a permanent celestial token of the gods' regret. In both traditions, an item visible in the sky becomes a memorial pledge against re-doing the destruction. **Source:** Levine, B.A., *Leviticus* (JPS Torah Commentary), Jewish Publication Society, 1989 (blood-and-life equation in ANE sacrificial systems); Lambert, W.G. and Millard, A.R., *Atrahasis: The Babylonian Story of the Flood*, Eisenbrauns, 1969. **[ANE COMPARATIVE — DOCUMENTED]**
 
-**I-A10. Three-branch ethnogenesis schema (Shem / Cham / Yafet)**
+#### I-A10. Three-branch ethnogenesis schema (Shem / Cham / Yafet)
 **[HISTORICAL / ARCHAEOLOGICAL — POSSIBLE]**
 The naming of Noach's three sons as ancestors of three branches of post-flood humanity (9:18–19, with the genealogical fan-out in Gen 10) is a structurally unusual schema in ANE literature. The Akkadian *Atrahasis* epic names a single flood-survivor (Atrahasis / Ziusudra / Utnapishtim depending on tradition) and continues directly to repopulation without a three-son schema. Sumerian King List traditions trace post-flood kingship as a continuous institution descending from one city to the next, not through a three-branch genealogy. The Greek tradition's closest parallel — Hellen as ancestor of Dorians, Aeolians, and Ionians + Achaeans — is structurally similar (one ancestor → three or four named lineage-branches) but is centuries later than the textual layers most scholars assign to Gen 9–10. Possible function: the three-branch schema may serve a covenantal-blessing logic specific to the Mosaic-period Israelite worldview, where Shem (→ Avraham → Israel) is privileged within a triadic frame that places Israel as the inheritor of a particular post-flood lineage among legitimate alternatives. **Source:** Day, J., *From Creation to Babel: Studies in Genesis 1–11*, Bloomsbury T&T Clark, 2013, ch. 6 (sons of Noah). **[PEER-REVIEWED — DOCUMENTED]**
 
 ---
 
-### Scenario B: If composed during the Monarchic period (~10th-9th c. BCE)
-**[HISTORICAL / ARCHAEOLOGICAL — POSSIBLE]** *(Some scholars place early source traditions here)*
+### Scenario B: If composed during the Monarchic period (~10th-9th c. BCE) — *Some scholars place early source traditions here*
+**[HISTORICAL / ARCHAEOLOGICAL — POSSIBLE]**
 
-**I-B1. Viticulture as royal economy**
+#### I-B1. Viticulture as royal economy
+**[HISTORICAL / ARCHAEOLOGICAL — VERIFIED]**
 The Monarchic period saw viticulture become integral to the Israelite state economy. Solomon's administrative districts (1 Kings 4) included wine production regions. Phoenician trade partners exported Levantine wine across the Mediterranean. The Samaria Ostraca (9th c. BCE) record wine deliveries to the royal house. Noah's vineyard in Genesis 9:20-21 would resonate with a Monarchic audience as the founding act of a civilized economy: the first patriarch of the post-flood world plants the crop that sustains royal life. The text's restraint — no moral verdict on the wine itself — matches the culture of its presumed composition period, where wine was normal.
 
-**I-B2. Cursing and blessing as political speech**
+#### I-B2. Cursing and blessing as political speech
+**[HISTORICAL / ARCHAEOLOGICAL — VERIFIED]**
 Noach (Noah)'s oracle (9:25-27) combines a formal curse on Kenaan (Canaan) with blessings on Shem and Yafet (Japheth). In the Monarchic period, blessing and cursing were active political speech acts. Royal inscriptions invoked divine blessings on successors and curses on those who would vandalize monuments (the Mesha Stele, 9th c. BCE, includes both). Prophetic oracles of blessing and cursing (Nathan to David, Elijah against Ahab) were understood as binding reality-shaping words. An audience in the united or divided monarchy would have heard Noah's oracle as a constitutional speech: the founding patriarchal word establishing the hierarchical order among his descendants' nations.
 
-**I-B3. Kenaan in the political landscape**
+#### I-B3. Kenaan in the political landscape
+**[HISTORICAL / ARCHAEOLOGICAL — PROBABLE]**
 During the Monarchic period, the Canaanite city-states had largely been absorbed, displaced, or subordinated by Israelite settlement and the Philistine presence. The "curse of Canaan" (9:25) would have carried immediate political resonance: it explained and legitimized Israel's relationship to the former inhabitants of the land. This does not mean the curse was invented for this purpose — it may be older — but its preservation and transmission in the Monarchic period served a clear ideological function: the subjugation of Canaan was written into the founding narrative of all humanity, traced back before Abraham, before Moses, to the world's first patriarch.
 
 ---
 
-### Scenario C: If composed during the Exilic/Post-Exilic period (~6th-5th c. BCE)
-**[HISTORICAL / ARCHAEOLOGICAL — PROBABLE]** *(Scholarly consensus for final form)*
+### Scenario C: If composed during the Exilic/Post-Exilic period (~6th-5th c. BCE) — *Scholarly consensus for final form*
+**[HISTORICAL / ARCHAEOLOGICAL — PROBABLE]**
 
-**I-C1. Covenant theology under imperial domination**
+#### I-C1. Covenant theology under imperial domination
+**[HISTORICAL / ARCHAEOLOGICAL — PROBABLE]**
 Jewish exiles in Babylon (586-539 BCE) were living under the rule of Nebuchadnezzar and then the Persian Cyrus. The Noachic covenant's universal scope — made with "every living being" and "all generations of perpetuity" — would carry theological weight in this context. It asserted that the God of the exiled, temple-less community was the same God who had covenanted with all humanity after the flood, who had committed himself never again to destroy creation. Babylon's floods of conquest could not invalidate this covenant. The rainbow sign was not a promise to Israel alone; it preceded Abraham, Moses, and the Sinai covenant. Exilic audiences could find in Genesis 9 a foundation that stood independent of the destroyed temple.
 
-**I-C2. The bow as counter-image to Babylonian divine-warrior mythology**
+#### I-C2. The bow as counter-image to Babylonian divine-warrior mythology
+**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
 Marduk in the Enuma Elish (recited annually at the Babylonian New Year festival) wielded his bow as a constellation — he placed it in the sky as a trophy after defeating Tiamat. The bow in the heavens was a Babylonian symbol of divine conquest and ongoing cosmic dominance. Genesis 9:13 — "my bow I have set in the cloud" — uses the same image but inverts its meaning entirely: YHWH's bow is not a trophy of conquest but a sign of self-restraint and covenant. For Jewish exiles hearing both texts in Babylon, this reinterpretation was pointed. The sky-bow belongs to YHWH, and it means the opposite of what Babylon said it meant.
 
-**I-C3. Universal origins and ethnic identity in diaspora**
+#### I-C3. Universal origins and ethnic identity in diaspora
+**[HISTORICAL / ARCHAEOLOGICAL — PROBABLE]**
 Genesis 9:18-19 presents a world populated entirely from three brothers. For Jewish communities in Babylon, Egypt, and Persia — living among Babylonians, Persians, and Egyptians — the Table of Nations framework (set up here) provided a map of the world's peoples derived from one family. The Babylonians (Nimrod's cities — Babel, Erekh, Akkad) were in the family tree. The Persians (Madai, Yafet (Japheth)'s line) were in the family tree. This was not a claim that all peoples were equal — the Noachic blessings differentiate the lines — but it was a claim that all peoples shared a common origin, and that origin was narrated in terms of Israel's tradition, not Babylon's.
 
 ---
 
-### Scenario D: If redacted during the Persian/early-Hellenistic period (~4th-3rd c. BCE)
-**[HISTORICAL / ARCHAEOLOGICAL — POSSIBLE]** *(Associated with final Pentateuchal shaping)*
+### Scenario D: If redacted during the Persian/early-Hellenistic period (~4th-3rd c. BCE) — *Associated with final Pentateuchal shaping*
+**[HISTORICAL / ARCHAEOLOGICAL — POSSIBLE]**
 
-**I-D1. Viticulture in the Hellenistic world**
+#### I-D1. Viticulture in the Hellenistic world
+**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
 By the 4th-3rd centuries BCE, the vine was a cultural symbol across the Mediterranean world. Greek wine culture was spreading through Hellenistic trade networks. Dionysus (the Greek god of wine) was one of the most widely worshipped deities in the Hellenistic world. In this context, Genesis 9:20's identification of Noah as the first viticulturist carried an implicit claim: wine's origins belong to the narrative of Israel's God and humanity's first patriarch, not to Greek mythology. The text's restraint — no theological condemnation of wine, no celebration of it as divine gift — is distinctive in a world where both attitudes were prominent.
 
-**I-D2. Nakedness, shame, and Hellenistic body culture**
+#### I-D2. Nakedness, shame, and Hellenistic body culture
+**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
 Greek culture celebrated the unclothed male body — the nude (*gymnos*) was a marker of athletic virtue and free citizenship. This stood in sharp contrast to ancient Near Eastern and Israelite honor-shame culture, where public nakedness was exposure and vulnerability. Genesis 9:22-23's careful treatment of Noah's nakedness — transgression, averted eyes, covering — would have read against the grain of Hellenistic body ideology. For a Jewish community navigating Hellenistic cultural pressure in the 4th-3rd century BCE, the Noah narrative encoded a different value system: the body is not a public spectacle but a site of family honor and shame requiring protection.
 
-**I-D3. The covenant concept in a world of imperial treaties**
+#### I-D3. The covenant concept in a world of imperial treaties
+**[HISTORICAL / ARCHAEOLOGICAL — VERIFIED]**
 Persian and early Hellenistic imperial administration operated through treaties, charters, and administrative decrees. The Cyrus Cylinder (539 BCE) exemplifies the genre: a unilateral royal declaration granting rights to a subject people. The Noachic covenant shares structural features with this genre — a powerful sovereign making a unilateral commitment to a subordinate group — but inverts the power relationship. Here the universal sovereign makes an unconditional commitment not to destroy what he created. For a community whose existence depended on imperial goodwill, the assertion that a higher sovereignty had already committed to non-destruction of the created order offered a theological anchor that no Persian or Hellenistic decree could revoke.
 
 ---

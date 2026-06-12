@@ -211,19 +211,23 @@ Genesis 8:21–22 präsentiert JHWH bei einer inneren Verpflichtung („sprach i
 
 ---
 
-### Szenario A: Wenn während der mosaischen Periode verfasst (~13. Jh. v. Chr.)
-**[HISTORISCH / ARCHÄOLOGISCH — DOKUMENTIERT]** *(Traditionelle Zuschreibung)*
+### Szenario A: Wenn während der mosaischen Periode verfasst (~13. Jh. v. Chr.) — *Traditionelle Zuschreibung*
+**[HISTORISCH / ARCHÄOLOGISCH — DOKUMENTIERT]**
 
-**I-A1. Vogelauguration in der späten Bronzezeit**
+#### I-A1. Vogelauguration in der späten Bronzezeit
+**[HISTORISCH / ARCHÄOLOGISCH — DOKUMENTIERT]**
 Das Aussenden von Vögeln zur Erkundung der Bedingungen war eine anerkannte Praxis im gesamten Alten Orient. Mesopotamische Omintexte enthielten Vogelauguration — das Beobachten von Flug, Verhalten und Rückkehr der Vögel als Zeichen göttlicher Mitteilung. Auch ägyptische und hethitische Ritualtexte nutzten das Vogelverhalten als divinatorische Indikatoren. Die Raben-und-Taube-Sequenz in Genesis 8:6–12 wäre einem spätbronzezeitlichen Publikum sofort verständlich gewesen als Methode ökologischer Erkundung — eine, die der Text als praktische Beobachtung darstellt, nicht als rituelle Divination.
 
-**I-A2. Opfer und Altarbau nach einer Reise**
+#### I-A2. Opfer und Altarbau nach einer Reise
+**[HISTORISCH / ARCHÄOLOGISCH — DOKUMENTIERT]**
 In der späten Bronzezeit war das Darbringen von Opfern am Ende einer bedeutenden Reise, eines Feldzugs oder einer Errettung übliche Praxis. Ägyptische Herrscher opferten Amun nach Siegen; hethitische Könige brachten nach Vertragsbestätigungen Opfer dar; kanaanäische Texte (der Baal-Zyklus) enthalten Feiermahle und Opfer nach Siegen. Noachs erster Akt nach dem Verlassen der Tebah — das Errichten eines Altars und das Darbringen von Brandopfern von jedem reinen Tier und Vogel (8:20) — wäre als angemessene Reaktion auf göttliche Errettung erkannt worden.
 
-**I-A3. Bund und landwirtschaftlicher Segen in Vertragskonventionen**
+#### I-A3. Bund und landwirtschaftlicher Segen in Vertragskonventionen
+**[HISTORISCH / ARCHÄOLOGISCH — DOKUMENTIERT]**
 Spätbronzezeitliche Verträge (hethitische Vasallenverträge) schlossen in der Regel mit Segensformeln: Fruchtbarkeit, Regen und Ernte für den treuen Vasallen. JHWHs Zusage in Genesis 8:22 — „Saat und Ernte, Kälte und Hitze, Sommer und Winter, Tag und Nacht sollen nicht aufhören" — entspricht der strukturellen Position der Segenswünsche in altorientalischen Vertragskonventionen. Die Verheißung ist spezifisch landwirtschaftlich und kosmisch und spricht die zwei Dinge an, die ein altorientalischer Bauer garantiert brauchte: regelmäßige Jahreszeiten und zuverlässige Ernten.
 
-**I-A4. Landwirtschaftliche Erholung nach einer Katastrophe**
+#### I-A4. Landwirtschaftliche Erholung nach einer Katastrophe
+**[HISTORISCH / ARCHÄOLOGISCH — DOKUMENTIERT]**
 Der Nilflutkreislauf (jährliche Überschwemmung gefolgt von landwirtschaftlicher Erholung) war der prägende Rhythmus ägyptischen Lebens. Mesopotamische Landwirtschaftshandbücher (das sumerische Bauernalmanach, ca. 1700 v. Chr., aber ältere Praxis widerspiegelnd) beschrieben die Abfolge der Erholung nach der Flut: Aufbrechen von Schollen, Räumen von Kanälen, Aussäen von Gerste. Der Übergang von Genesis 8 von der Flut zu „Saat und Ernte" (8:22) würde bei einem Publikum Resonanz finden, für das landwirtschaftliche Erholung nach einer Wasserkatastrophe eine gelebte jährliche Realität war.
 
 ---
@@ -231,44 +235,54 @@ Der Nilflutkreislauf (jährliche Überschwemmung gefolgt von landwirtschaftliche
 ### Szenario B: Wenn während der Königszeit verfasst (~10.–9. Jh. v. Chr.)
 **[HISTORISCH / ARCHÄOLOGISCH — MÖGLICH]**
 
-**I-B1. Altarbau als bundesstiftender Akt**
+#### I-B1. Altarbau als bundesstiftender Akt
+**[HISTORISCH / ARCHÄOLOGISCH — WAHRSCHEINLICH]**
 In der Königszeit markierten Altäre Orte göttlicher Begegnung und des Bundes. Abraham baute Altäre in Šekhem (Sichem), Bethel und Hebron (Gen 12:7–8, 13:18); Isaak in Beerscheba (26:25); Jakob in Bethel (35:7). Noachs Altar in 8:20 ist der erste in der biblischen Erzählung. In einem Kontext, in dem legitime Altarstätten politisch umstritten waren (die rivalisierenden Heiligtümer in Bethel und Dan gegenüber Jerusalem), trägt die Gründung der Altartradition in Noach — außerhalb jedes politischen oder Stammesanspruchs — theologisches Gewicht: Der erste Altar gehört keiner Dynastie.
 
-**I-B2. Göttliche Selbstbeschränkung als königszeitliche theologische Aussage**
+#### I-B2. Göttliche Selbstbeschränkung als königszeitliche theologische Aussage
+**[HISTORISCH / ARCHÄOLOGISCH — WAHRSCHEINLICH]**
 Die Aussage von Genesis 8:21 — „JHWH sprach in seinem Herzen" und beschloss, nie wieder zu vernichten — stellt einen Gott vor, der sein eigenes Urteil freiwillig angesichts der menschlichen moralischen Wirklichkeit einschränkt. In einem königszeitlichen Kontext, in dem Propheten königliche Macht im Namen von JHWHs Gerechtigkeit herausforderten, zeigt diese Stelle einen Gott, der sich bereits zur Zurückhaltung verpflichtet hat. Der göttliche Beschluss von 8:21–22 gründet die Stabilität der Welt in einer inneren göttlichen Entscheidung, nicht in menschlichem Gehorsam oder königlichem Verdienst.
 
-**I-B3. Die Jahreszeiten als theologische Kategorie**
+#### I-B3. Die Jahreszeiten als theologische Kategorie
+**[HISTORISCH / ARCHÄOLOGISCH — VERIFIZIERT]**
 Die Verheißung von „Saat und Ernte, Kälte und Hitze, Sommer und Winter, Tag und Nacht" (8:22) entspricht dem landwirtschaftlichen Kalender, der das israelitische Leben strukturierte. Der Gezer-Kalender (ca. 10. Jh. v. Chr.) dokumentiert einen zwölfmonatigen landwirtschaftlichen Zyklus: zwei Monate Ernte, zwei Monate Pflanzung, zwei Monate Spätsaat, einen Monat Flachs, einen Monat Gerste, einen Monat Ernte und Messung, zwei Monate Weinpflege, einen Monat Sommerfrucht. Die in 8:22 verheißenen Jahreszeiten sind keine Abstraktionen — sie sind die spezifischen Zyklen, von denen das israelitische Überleben abhing.
 
 ---
 
-### Szenario C: Wenn während der Exils-/Nachexilszeit verfasst/abgeschlossen (~6.–5. Jh. v. Chr.)
-**[HISTORISCH / ARCHÄOLOGISCH — WAHRSCHEINLICH]** *(Wissenschaftlicher Konsens für die Endgestalt)*
+### Szenario C: Wenn während der Exils-/Nachexilszeit verfasst/abgeschlossen (~6.–5. Jh. v. Chr.) — *Wissenschaftlicher Konsens für die Endgestalt*
+**[HISTORISCH / ARCHÄOLOGISCH — WAHRSCHEINLICH]**
 
-**I-C1. Opfer ohne Tempel**
+#### I-C1. Opfer ohne Tempel
+**[HISTORISCH / ARCHÄOLOGISCH — WAHRSCHEINLICH]**
 Die Exilsgemeinschaft stand vor einer prägenden Krise: Wie sollte man JHWH ohne den Jerusalemer Tempel anbeten? Noachs Altar in 8:20 — errichtet im Freien, ohne Tempel, ohne Priesterschaft, ohne etablierten Kultus — bot einen theologischen Präzedenzfall: Opfer für JHWH war möglich, bevor der Tempel existierte, und außerhalb eines jeden heiligen Gebäudes. Die göttliche Reaktion auf Noachs Opfer („JHWH roch den beruhigenden Duft") gründet die Anbetung in göttlicher Annahme, nicht im Vollzug eines Rituals im richtigen Gebäude.
 
-**I-C2. Landwirtschaftliche Verheißung als Hoffnung nach der Katastrophe**
+#### I-C2. Landwirtschaftliche Verheißung als Hoffnung nach der Katastrophe
+**[HISTORISCH / ARCHÄOLOGISCH — WAHRSCHEINLICH]**
 Nach 586 v. Chr. stand die Exilsgemeinschaft vor dem Zusammenbruch von allem, was ihre Existenz strukturiert hatte. Die göttliche Verheißung von 8:22 — „Saat und Ernte sollen nicht aufhören" — würde enormes Gewicht tragen als Zusage, dass die Schöpfungsordnung selbst stabil bleiben würde, ungeachtet politischer Katastrophen. Die Welt, die JHWH nicht wieder vernichten würde, schließt die regelmäßigen Zyklen der Landwirtschaft und von Tag und Nacht ein. Der Bund ist kosmisch, nicht bloß persönlich.
 
-**I-C3. Das Neu-Schöpfungs-Muster und die Rückkehr aus dem Exil**
+#### I-C3. Das Neu-Schöpfungs-Muster und die Rückkehr aus dem Exil
+**[HISTORISCH / ARCHÄOLOGISCH — WAHRSCHEINLICH]**
 Die Sequenz von Genesis 8 — *Ruach* über den Wassern (8:1, anspielend auf 1:2), das Erscheinen trockenen Landes, Geschöpfe, die entlassen werden, „fruchtbar zu sein und sich zu mehren" (8:17, anspielend auf 1:22, 1:28) — strukturiert das Nachspiel der Flut als Neu-Schöpfung. Für die Exilsgemeinschaft, die auf die Rückkehr aus Babylon wartete, würde dieses Muster mit Deuterojesajas Neu-Schöpfungs-Sprache resonieren (Jes 43:16–21: „Ich tue etwas Neues … einen Weg in der Wüste"). Das Nachspiel der Flut ist die Vorlage für die Wiederherstellung nach der Katastrophe.
 
-**I-C4. Vogelauguration und babylonische Omenkultur**
+#### I-C4. Vogelauguration und babylonische Omenkultur
+**[HISTORISCH / ARCHÄOLOGISCH — DOKUMENTIERT]**
 Die babylonische Omenwissenschaft war hochentwickelt. Extispizium (Untersuchung von Tiereingeweiden) und Auguration (Vogelbeobachtung) wurden von Spezialpriestern praktiziert. Omentafeln klassifizierten Hunderte von Vogelverhaltensweisen als positive oder negative Zeichen. Jüdische Exilanten in Babylon wären von dieser Kultur umgeben gewesen. Das Aussenden von Vögeln in Genesis 8 ist praktisch — Noach nutzt Vögel, um den Zustand des Landes zu bestimmen — nicht divinatorisch. Der Kontrast zur babylonischen Augurationskultur könnte beabsichtigt sein: Noach liest die Vögel als ökologische Berichterstatter, nicht als Orakelzeichen.
 
 ---
 
-### Szenario D: Wenn während der persischen/früh-hellenistischen Zeit redigiert (~4.–3. Jh. v. Chr.)
-**[HISTORISCH / ARCHÄOLOGISCH — MÖGLICH]** *(Mit der abschließenden Pentateuchgestaltung verbunden)*
+### Szenario D: Wenn während der persischen/früh-hellenistischen Zeit redigiert (~4.–3. Jh. v. Chr.) — *Mit der abschließenden Pentateuchgestaltung verbunden*
+**[HISTORISCH / ARCHÄOLOGISCH — MÖGLICH]**
 
-**I-D1. Bund als konstitutionelles Dokument**
+#### I-D1. Bund als konstitutionelles Dokument
+**[HISTORISCH / ARCHÄOLOGISCH — DOKUMENTIERT]**
 In der persischen Provinz Jehud fungierte die Tora als konstitutionelles Dokument der jüdischen Gemeinschaft unter kaiserlicher Verwaltung. Der innere göttliche Beschluss von Genesis 8:21–22 — „ich werde nicht wieder" — geht dem expliziten Bund von Genesis 9 voraus und begründet ihn. In einer Gemeinschaft, deren politische Existenz von der Kontinuität persischer imperialer Erlaubnis abhing, würde die kosmische göttliche Zusage, die Welt nicht wieder zu vernichten, als tiefst mögliches Fundament für Gemeinschaftsstabilität gelesen werden.
 
-**I-D2. Vergleichende Opfertraditionen**
+#### I-D2. Vergleichende Opfertraditionen
+**[HISTORISCH / ARCHÄOLOGISCH — DOKUMENTIERT]**
 In der hellenistischen Zeit wurde Opferpraxis kulturgrenzenüberschreitend verglichen und diskutiert. Griechische philosophische Traditionen (Platon, Theophrast) erörterten, ob die Götter Opfer benötigten oder ob Opfer eine menschliche Institution war. Berossos' Bericht über Xisuthros (den babylonischen Fluthelden) enthält ein Opfer nach der Flut, das Genesis 8:20 entspricht. Die Spezifizität des Genesisberichts — Brandopfer von reinen Tieren, göttliche Reaktion des Beschlusses statt des Hungers — markiert eine theologische Position in einer Welt, in der Bedeutung und Zweck des Opfers eine offene Frage waren.
 
-**I-D3. Kalenderrechnung und das Ende der Flut**
+#### I-D3. Kalenderrechnung und das Ende der Flut
+**[HISTORISCH / ARCHÄOLOGISCH — DOKUMENTIERT]**
 Das Enddatum der Flut (Monat 2, Tag 27 von Noachs 601. Lebensjahr) und seine komplexe Chronologie waren Gegenstand aktiver Debatten in den Kalenderstreitigkeiten des Zweiten Tempels. Das Buch der Jubiläen (~2. Jh. v. Chr.) berechnet die Flutchronologie gemäß seinem 364-tägigen Sonnenkalender neu und kommt zu anderen Daten. Die Präzision der zweistufigen Austrocknung in Genesis 8:13–14 (Oberfläche trocken am 1. des 1. Monats; vollständig trocken am 27. des 2. Monats) spiegelt eine Tradition wider, die auf Exaktheit besteht — eine Präzision, über die spätere Gemeinschaften als Beweis für ihr bevorzugtes Kalendersystem stritten.
 
 ---

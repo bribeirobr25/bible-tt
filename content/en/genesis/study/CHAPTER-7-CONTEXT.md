@@ -224,19 +224,23 @@ The flood narrative provides exact calendar dates: onset on the second month, se
 
 ---
 
-### Scenario A: If composed during the Mosaic period (~13th c. BCE)
-**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]** *(Traditional attribution)*
+### Scenario A: If composed during the Mosaic period (~13th c. BCE) — *Traditional attribution*
+**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
 
-**I-A1. Water cosmology in the Late Bronze Age**
+#### I-A1. Water cosmology in the Late Bronze Age
+**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
 Genesis 7:11's flood mechanism — "all the fountains of the great deep burst open, and the windows of the sky were opened" — reflects a three-tier cosmological model: waters above the sky-dome, the inhabitable earth, and subterranean waters below. This model was shared across the ancient Near East. Egyptian cosmology depicted a sky-goddess arching over the earth with waters above and below; Mesopotamian cosmology had the ocean-deep (*Apsu*) below and a solid heavenly vault above. In a Mosaic-period context, the flood's description would invoke a cosmological structure the audience already held.
 
-**I-A2. Cubit measurements and their variation**
+#### I-A2. Cubit measurements and their variation
+**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
 Genesis 6:15 gives the tebah's dimensions in cubits. The cubit (the length from elbow to fingertip) varied by culture and period: the standard Egyptian cubit was approximately 45.7 cm; the royal cubit approximately 52.5 cm; Mesopotamian cubits also varied. By the 13th century BCE, standardized cubit measurements were in use for monumental construction across Egypt and the Levant. The text's use of cubits situates the account in a world of practical measurement and organized building.
 
-**I-A3. Animal management and large herds**
+#### I-A3. Animal management and large herds
+**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
 The instruction to bring animals "two from all" or "seven seven" of the clean (Gen 7:2-3) assumes familiarity with large-scale animal husbandry. The Late Bronze Age Levant maintained herds of cattle, sheep, goats, and donkeys as primary sources of food, wool, and traction. Egyptian administrative papyri record palace stables with hundreds of horses and herds of cattle. The management of multiple animal species aboard a single large vessel would be understood against this background of estate-level animal management, even if the scale in Genesis exceeds anything attested.
 
-**I-A4. Seven-day periods and lunar reckoning**
+#### I-A4. Seven-day periods and lunar reckoning
+**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
 The seven-day waiting period before the flood (7:4, 7:10) and the flood's multiple time-markers reflect a world organized by seven-day cycles and lunar months. The Mesopotamian calendar already used a seven-day structure with the seventh day as significant. Egyptian lunar calendars tracked monthly cycles. The calendrical precision of Genesis 7 — month and day markers — reflects administrative timekeeping practices familiar across the ancient Near East.
 
 ---
@@ -244,44 +248,54 @@ The seven-day waiting period before the flood (7:4, 7:10) and the flood's multip
 ### Scenario B: If composed during the Monarchic period (~10th-9th c. BCE)
 **[HISTORICAL / ARCHAEOLOGICAL — POSSIBLE]**
 
-**I-B1. Flood experience in Mesopotamia and the Levant**
+#### I-B1. Flood experience in Mesopotamia and the Levant
+**[HISTORICAL / ARCHAEOLOGICAL — VERIFIED]**
 The Tigris and Euphrates regularly flooded, sometimes catastrophically. Archaeological flood layers at Shuruppak and Kish (c. 2900-2800 BCE) correspond to the period when Mesopotamian flood traditions were taking literary form. In the Levant, winter rains and flash floods in wadis were annual events. The Jordan River's seasonal flooding threatened Jordan Valley settlements. An audience in the monarchic period would understand the flood narrative against personal and cultural knowledge of what rising waters actually did to settlements, crops, and livestock.
 
-**I-B2. Clean/unclean distinctions in pre-exilic Israel**
+#### I-B2. Clean/unclean distinctions in pre-exilic Israel
+**[HISTORICAL / ARCHAEOLOGICAL — PROBABLE]**
 The distinction between clean and unclean animals (7:2) appearing before Sinai suggests a pre-Mosaic cultic category. In the monarchic period, sacrificial practice was active at multiple sites — Jerusalem, Bethel, Dan, and rural high places. Priests and worshippers would know immediately which animals were acceptable for sacrifice. The "seven seven" of clean animals in the flood account would be understood as providing the surplus needed for post-flood sacrifice, consistent with everyday cultic practice.
 
-**I-B3. Divine sealing as unique protection**
+#### I-B3. Divine sealing as unique protection
+**[HISTORICAL / ARCHAEOLOGICAL — PROBABLE]**
 Genesis 7:16's statement that "YHWH shut behind him" — God personally sealing the tebah — has no parallel in Mesopotamian flood accounts, where a craftsman or gate-keeper performs the sealing. In a monarchic context where YHWH's personal involvement in Israel's protection was a live theological claim (YHWH as warrior, protector of the king, guardian of Jerusalem), the detail that YHWH himself closes the door carries the weight of divine personal commitment to the covenant survivor.
 
 ---
 
-### Scenario C: If composed/finalized during the Exilic/Post-Exilic period (~6th-5th c. BCE)
-**[HISTORICAL / ARCHAEOLOGICAL — PROBABLE]** *(Scholarly consensus for final form)*
+### Scenario C: If composed/finalized during the Exilic/Post-Exilic period (~6th-5th c. BCE) — *Scholarly consensus for final form*
+**[HISTORICAL / ARCHAEOLOGICAL — PROBABLE]**
 
-**I-C1. Mesopotamian flood experience as lived context**
+#### I-C1. Mesopotamian flood experience as lived context
+**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
 Jewish exiles in Babylon lived in a river civilization defined by flooding. The Euphrates and Tigris could rise dramatically with spring snowmelt from the Taurus and Zagros mountains. Babylonian cities maintained dike systems, canal networks, and flood-management infrastructure. An exilic audience reading Genesis 7 would understand the flood's mechanism — "fountains of the deep" + "windows of the sky" — against direct experience of a flood-prone environment and the cosmological language their neighbors used to explain it.
 
-**I-C2. Babylonian measurement systems**
+#### I-C2. Babylonian measurement systems
+**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
 Babylonian scribal education included systematic training in measurement: the cubit (*ammatu*), the reed (six cubits), and larger units for field measurement. Astronomical calculation used the same base-60 system for time and distance. The flood chronology's precision (month and day markers, 150-day periods corresponding to five 30-day months) reflects exactly the 30-day administrative months and 360-day schematic calendar used in Babylonian administrative practice. The exilic community would read this precision against their knowledge of Babylonian timekeeping.
 
-**I-C3. Cosmological de-creation and re-creation**
+#### I-C3. Cosmological de-creation and re-creation
+**[HISTORICAL / ARCHAEOLOGICAL — PROBABLE]**
 The flood's mechanism in Genesis 7:11 — fountains of the deep + windows of the sky — precisely reverses Genesis 1:6-7's Day 2 separation. In an exilic context, where the destruction of Jerusalem could be experienced as cosmic de-creation (the temple gone, the holy city burned, the covenant community scattered), the flood narrative's structure — de-creation followed by re-creation — would carry immediate theological resonance. The exiles lived in the aftermath of their own world's undoing.
 
-**I-C4. Animal preservation and the continuity of creation**
+#### I-C4. Animal preservation and the continuity of creation
+**[HISTORICAL / ARCHAEOLOGICAL — PROBABLE]**
 The emphasis on preserving every species — "two from all," clean and unclean — reflects a theology of creation's inherent worth. In Babylonian flood accounts, animals board the vessel primarily as food supply. Genesis 7 presents their preservation as a divine imperative: the categories and diversity of creation must survive. In an exilic community anxious about whether their identity, their practices, and their God's purposes would survive, the image of divine care for every creature's continuity carried specific weight.
 
 ---
 
-### Scenario D: If redacted during the Persian/early-Hellenistic period (~4th-3rd c. BCE)
-**[HISTORICAL / ARCHAEOLOGICAL — POSSIBLE]** *(Associated with final Pentateuchal shaping)*
+### Scenario D: If redacted during the Persian/early-Hellenistic period (~4th-3rd c. BCE) — *Associated with final Pentateuchal shaping*
+**[HISTORICAL / ARCHAEOLOGICAL — POSSIBLE]**
 
-**I-D1. Comparative flood chronology and calendar disputes**
+#### I-D1. Comparative flood chronology and calendar disputes
+**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
 By the 4th-3rd centuries BCE, different Jewish groups used different calendars: the lunar calendar standard in Babylon, the 364-day calendar reflected in Jubilees and 1 Enoch, and the solar calendar that may underlie the flood chronology. The flood narrative's precise dates (Gen 7:11, 8:4, 8:5, 8:13, 8:14) were apparently read differently depending on which calendar system one used. The precision itself may have been designed to anchor the flood narrative within a specific calendrical tradition — a question alive in the scribal communities of this period.
 
-**I-D2. Universal flood traditions in a Hellenistic comparative context**
+#### I-D2. Universal flood traditions in a Hellenistic comparative context
+**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
 Berossus's *Babyloniaca* (c. 278 BCE) and the Greek Deucalion tradition were circulating simultaneously with the Torah. In a Hellenistic context where flood narratives were recognized as a cross-cultural genre, Genesis 7's distinctive features — cosmological mechanism, precise dates, divine sealing — would be read as marking the Israelite tradition's theological claims against the comparative backdrop. The question "whose flood account is authoritative?" was live in a world where multiple traditions competed.
 
-**I-D3. Water cosmology in late antique Jewish thought**
+#### I-D3. Water cosmology in late antique Jewish thought
+**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
 The three-tier cosmological model (waters above, earth, waters below) was receiving increasing theological attention in late Second Temple Jewish literature. The *Book of Jubilees* (~2nd c. BCE) retells the flood with the same cosmological assumptions. *1 Enoch*'s astronomical sections describe the windows of heaven as physical sluice-gates. The Genesis 7 account's cosmological language — *tehom rabbah*, *arubbot ha-shamayim* — was not simply inherited text but living cosmological vocabulary in active use.
 
 ---

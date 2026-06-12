@@ -195,62 +195,74 @@ Todo Faraó em Gênesis é sem nome: o Faraó do episódio egípcio de Abrão (c
 
 ---
 
-### Cenário A: Se composto durante o período mosaico (~séc. XIII a.C.)
-**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]** *(Atribuição tradicional)*
+### Cenário A: Se composto durante o período mosaico (~séc. XIII a.C.) — *Atribuição tradicional*
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 
-**I-A1. Nomadismo pastoral no Canaã da Idade do Bronze Tardio**
+#### I-A1. Nomadismo pastoral no Canaã da Idade do Bronze Tardio
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 O Levante da Idade do Bronze Tardio abrigava uma categoria reconhecida de povos seminômades que se deslocavam sazonalmente com rebanhos entre pastagens e mercados urbanos. As Cartas de Amarna (séc. XIV a.C.) descrevem grupos pastorais (*Hapiru* e *Shasu*) operando nas margens do sistema de cidades-estado cananéias — não bandidos, mas uma categoria social reconhecida com relações complexas com comunidades sedentárias. O padrão de Avram (Abraão) em Gênesis 12-13 — vida em tendas, deslocamento sazonal entre Shekhem (Siquém), Betel, o Negev e o Egito, comercializando com comunidades sedentárias, mantendo uma grande casa — se encaixa precisamente nesse modelo social. Um público israelita recentemente transicionado da escravidão egípcia para o seminomadismo no deserto teria reconhecido esse estilo de vida como o modo ancestral de seus próprios antepassados.
 
-**I-A2. Alianças de concessão de terra na prática jurídica do AOP**
+#### I-A2. Alianças de concessão de terra na prática jurídica do AOP
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 Gênesis 12:1 associa um comando divino (deixe sua terra) a uma promessa divina (mostrarei a terra; farei de você uma grande nação). Essa estrutura — deixar território estabelecido em troca de uma concessão divina de terra — é paralela a documentos de concessão de terra da Idade do Bronze Tardio conhecidos de Nuzi e outros sítios, onde um patrono concede terra a um cliente com obrigações de ambos os lados. O que é distintivo em Gênesis 12 é que a concessão é inteiramente incondicional do lado de Avram: YHWH anuncia o que fará, não o que Avram deve fazer em troca para recebê-la. A aliança abraâmica posterior (Gn 15; 17) formalizará isso, mas o padrão está estabelecido aqui na chamada inicial. Um público do período mosaico familiarizado com as convenções de concessão de terra do AOP teria reconhecido a forma jurídica ao notar sua assimetria.
 
-**I-A3. O Egito como destino — contexto da Idade do Bronze Tardio**
+#### I-A3. O Egito como destino — contexto da Idade do Bronze Tardio
+**[HISTÓRICO / ARQUEOLÓGICO — VERIFICADO]**
 O Egito no século XIII a.C. (período de Ramsés II) era a potência regional dominante, e Canaã era uma zona administrativa egípcia. Povos levantinos viajavam ao Egito regularmente para comércio e alívio de fome. O "Papiro de Anastasi" (séc. XIII a.C.) descreve funcionários de fronteira egípcios registrando a entrada de grupos nômades semíticos — exatamente o tipo de entrada que Gênesis 12:10-16 descreve. A corte do faraó recebendo uma mulher estrangeira bonita e recompensando seu companheiro masculino com presentes (12:15-16) reflete uma prática documentada de aquisições reais egípcias. As pragas (*nega'im*, 12:17) que prefiguram o Êxodo são legíveis contra um pano de fundo em que o público do Êxodo já sabia como YHWH lidava com o faraó.
 
-**I-A4. Construção de altares como reivindicação territorial-religiosa**
+#### I-A4. Construção de altares como reivindicação territorial-religiosa
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 Avram (Abraão) constrói altares em Shekhem (Siquém) (12:7) e entre Betel e Ai (12:8), e invoca o nome de YHWH em cada um. Na Idade do Bronze Tardio, a construção de altar num local era um método padrão de estabelecer reivindicação religiosa sobre território. As cidades cananéias tinham seus próprios altares e árvores sagradas (*asherá*) em lugares altos. Ao construir um altar a YHWH na terra que "o canaaneu estava então habitando" (12:6), Avram realiza uma contrarreivindicação religiosa: YHWH está presente nessa terra, não apenas as divindades cananéias. Para um público do período mosaico prestes a entrar em Canaã e instruído a derrubar altares cananeus (Dt 12:3), a construção de altares por Abraão teria estabelecido o precedente.
 
-**I-A10. O corredor Ur — Charan — Canaã — Egito**
+#### I-A10. O corredor Ur — Charan — Canaã — Egito
 **[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
 A geografia de Gênesis 11:31 – 12:20 traça um único arco migratório abrangendo quatro zonas político-culturais distintas: Ur Kasdim (baixa Mesopotâmia sob a Terceira Dinastia de Ur ou seus sucessores), Charan (alta Mesopotâmia / fronteira aramaica), Canaã (reinos vassalos da Idade do Bronze Tardio sob supervisão egípcia) e Egito (Médio Reino ou Novo Reino dependendo da datação). Cada zona tinha um perfil político, linguístico e religioso distinto, e as rotas conectando-as são independentemente atestadas. O trecho Ur-a-Charan segue o corredor comercial do Eufrates — uma artéria principal para estanho, cobre e têxteis. O trecho Charan-a-Canaã segue o ramo ocidental do Crescente Fértil, atravessando território tribal aramaico documentado nas cartas de Mari (séc. XVIII AEC) e mais tarde na correspondência do período hitita. O trecho Canaã-a-Egito usa o "Caminho do Mar" ao longo da costa mediterrânea ou o mais meridional "Caminho de Shur" através do Negev — ambos atestados por registros das fortalezas fronteiriças egípcias. As pinturas tumulares de Beni Hassan (c. 1890 AEC) em Beni Hassan, Egito, retratam uma delegação de 37 "asiáticos" (habitantes de areia) liderada por um homem rotulado "Abisha o príncipe *hyksos*" chegando ao Egito — um registro visual contemporâneo exatamente do tipo de migração pastoral de clã que Gênesis 12:10 narra. A geografia multi-zona detalhada em um único capítulo é incomparável em Gênesis 1-11 e reflete conhecimento profundo dos corredores migratórios reais das Idades Média e Tardia do Bronze. **Fonte:** Hoffmeier, J.K., *Israel in Egypt: The Evidence for the Authenticity of the Exodus Tradition*, Oxford University Press, 1996 (Beni Hassan + registros fronteiriços egípcios); Hess, R.S., *Israelite Religions*, Baker Academic, 2007, cap. 4 (geografia do período avraâmico); Kitchen, K.A., *On the Reliability of the Old Testament*, Eerdmans, 2003. **[PEER-REVIEWED — DOCUMENTED]**
 
 ---
 
-### Cenário B: Se composto durante o período monárquico (~séc. X-IX a.C.)
-**[HISTÓRICO / ARQUEOLÓGICO — POSSÍVEL]** *(Alguns estudiosos situam aqui as tradições das fontes primitivas)*
+### Cenário B: Se composto durante o período monárquico (~séc. X-IX a.C.) — *Alguns estudiosos situam aqui as tradições das fontes primitivas*
+**[HISTÓRICO / ARQUEOLÓGICO — POSSÍVEL]**
 
-**I-B1. A jornada patriarcal como legitimação da reivindicação territorial**
+#### I-B1. A jornada patriarcal como legitimação da reivindicação territorial
+**[HISTÓRICO / ARQUEOLÓGICO — PROVÁVEL]**
 No período monárquico, a reivindicação de Israel à terra de Canaã era contestada por filisteus, arameus e memórias da desapropriação cananéia. A narrativa de Gênesis 12 — Avram percorrendo a terra, construindo altares, recebendo a promessa "à tua descendência darei esta terra" (12:7) — fornecia título ancestral ao território. A ideologia de concessão real de terra no antigo Oriente Próximo funcionava estabelecendo promessa divina prévia: os deuses deram esta terra a nosso ancestral, portanto ela nos pertence. O percurso de Avram pela terra (Siquém, Betel, o Negev) cobre a extensão do que se tornaria território israelita. A narrativa estabelece a reivindicação antes de qualquer conquista militar, rastreando-a à promessa divina em vez de ao feito militar.
 
-**I-B2. O Egito como variável política no Israel monárquico**
+#### I-B2. O Egito como variável política no Israel monárquico
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 O papel do Egito na política israelita monárquica era complexo: aliado (a esposa egípcia de Salomão, 1 Rs 3:1), refúgio (Jeroboão fugiu ao Egito, 1 Rs 11:40) e ameaça (a campanha de Sisaque, 1 Rs 14:25-26). O episódio de Avram no Egito — entrando sob o poder do faraó, YHWH intervindo por meio de pragas, Abraão saindo com riqueza — prefigurava tanto a história de José quanto o Êxodo, estabelecendo um padrão narrativo. Para um público monárquico navegando a relação ambígua com o Egito, o episódio de Gênesis 12 dizia: nossos antepassados já estiveram no Egito, YHWH estava com eles e saíram enriquecidos. O padrão se mantém.
 
-**I-B3. Ambiguidade esposa-irmã e costumes sociais**
+#### I-B3. Ambiguidade esposa-irmã e costumes sociais
+**[HISTÓRICO / ARQUEOLÓGICO — PROVÁVEL]**
 O episódio esposa-irmã (12:10-20) teria suscitado questões para um público monárquico familiarizado com costumes matrimoniais e prática jurídica. O casamento entre meios-irmãos não era desconhecido no antigo Oriente Próximo (Amnom e Tamar, 2 Sm 13, são meios-irmãos — o casamento é apresentado como possivelmente legal). As tábuas de Nuzi (séc. XV a.C.) atestam uma categoria legal de *ahatu* (condição de irmã) associada a status social elevado em contextos matrimoniais. Se o público monárquico entendia a afirmação de Avram como meia-verdade (confirmada em Gn 20:12), uma fórmula jurídico-social ou engano direto não é claro. O silêncio do texto sobre avaliação moral — nenhuma repreensão divina a Abraão, apenas pragas sobre o faraó — é em si um traço significativo.
 
 ---
 
-### Cenário C: Se composto durante o período Exílico/Pós-Exílico (~séc. VI-V a.C.)
-**[HISTÓRICO / ARQUEOLÓGICO — PROVÁVEL]** *(Consenso acadêmico para a forma final)*
+### Cenário C: Se composto durante o período Exílico/Pós-Exílico (~séc. VI-V a.C.) — *Consenso acadêmico para a forma final*
+**[HISTÓRICO / ARQUEOLÓGICO — PROVÁVEL]**
 
-**I-C1. O chamado para partir como padrão ressonante para a comunidade exílica**
+#### I-C1. O chamado para partir como padrão ressonante para a comunidade exílica
+**[HISTÓRICO / ARQUEOLÓGICO — PROVÁVEL]**
 Para os exilados judeus na Babilônia (586-539 a.C.), o chamado de Avram em Gênesis 12:1 — "sai da tua terra, do teu lugar de nascimento e da casa de teu pai, e vai à terra que te mostrarei" — era uma imagem espelhada de sua própria situação. Eles haviam sido removidos à força de sua terra; Abraão partiu voluntariamente a mando divino. O exílio chamava a comunidade a discernir se seu deslocamento era punição ou chamado. O Dêutero-Isaías (c. 550 a.C.) invoca explicitamente a promessa abraâmica exatamente nesse contexto: "Olhai para Abraão, vosso pai, e para Sara, que vos gerou; porque era um só quando o chamei, eu o abençoei e o multipliquei" (Is 51:2). Ao ler Gênesis 12 na Babilônia, o chamado e a jornada não eram história passada, mas possibilidade presente.
 
-**I-C2. A aliança de concessão de terra como âncora teológica sem território**
+#### I-C2. A aliança de concessão de terra como âncora teológica sem território
+**[HISTÓRICO / ARQUEOLÓGICO — PROVÁVEL]**
 A comunidade exílica havia perdido a terra. Gênesis 12:7 — "à tua descendência darei esta terra" — era uma promessa que havia sido cumprida (o assentamento sob Josué), perdida (o exílio) e, sob o decreto de Ciro (539 a.C.), potencialmente reinstaurada. A forma incondicional da promessa em Gênesis 12 — sem condições declaradas, sem obrigações impostas a Avram — tornava-a teologicamente resiliente: a promessa não dependia do desempenho de Israel, porque foi dada antes de Israel existir, a um único homem, sem condições. A teologia pós-exílica se apoiava fortemente nas promessas abraâmicas precisamente porque eram incondicionais de uma forma que a aliança do Sinai não era.
 
-**I-C3. O Egito como arquétipo persistente**
+#### I-C3. O Egito como arquétipo persistente
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 Na teologia exílica e pós-exílica, o Egito funcionava como arquétipo de opressão, refúgio e retorno complicado. Comunidades judaicas se assentaram no Egito após a destruição de Jerusalém (Jr 43-44). Os Papiros de Elefantina documentam uma colônia militar judaica no Egito no século V a.C. Para essas comunidades, a descida de Avram ao Egito (12:10) e sua partida com riqueza (12:16, 20) — com YHWH intervindo contra o faraó — não era apenas história ancestral, mas um modelo. O padrão (fome → Egito → intervenção divina → partida com riqueza) se repete: José, Moisés, e agora potencialmente a diáspora judaica no Egito. A repetição é teológica: o padrão de YHWH com seu povo não muda.
 
 ---
 
-### Cenário D: Se redatado durante o período Persa/proto-Helenístico (~séc. IV-III a.C.)
-**[HISTÓRICO / ARQUEOLÓGICO — POSSÍVEL]** *(Associado à configuração pentateucal final)*
+### Cenário D: Se redatado durante o período Persa/proto-Helenístico (~séc. IV-III a.C.) — *Associado à configuração pentateucal final*
+**[HISTÓRICO / ARQUEOLÓGICO — POSSÍVEL]**
 
-**I-D1. O nomadismo pastoral como identidade ancestral num mundo sedentário**
+#### I-D1. O nomadismo pastoral como identidade ancestral num mundo sedentário
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 Nos séculos IV-III a.C., as comunidades judaicas na Judeia, na Babilônia e no Egito eram predominantemente sedentárias — urbanas ou agrícolas, não pastoralistas. O seminomadismo de Avram — vida em tendas, construção de altares, deslocamentos entre assentamentos estabelecidos — era um modo ancestral, não contemporâneo. O Yehud do período persa era uma pequena província agrícola; as comunidades judaicas helenísticas em Alexandria eram urbanas e comercialmente integradas. Ao ler o retrato de Gênesis 12 de um patriarca como sojourner móvel e sem terra nesse contexto: o texto preserva uma identidade fundadora que está em tensão com a vida sedentária real da comunidade. O ancestral era um *ger* (estrangeiro residente) — e a tradição jurídica derivada de seu exemplo (Êx 22:21: "porque fostes estrangeiros na terra do Egito") moldou a ética de Israel em relação aos estrangeiros muito depois do término do estilo de vida seminômade.
 
-**I-D2. A promessa abraâmica e as reivindicações universais helenísticas**
+#### I-D2. A promessa abraâmica e as reivindicações universais helenísticas
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 Os governantes helenísticos faziam reivindicações universais: Alexandre foi proclamado filho de Zeus-Ammon, governante de todos os povos. Os Ptolomeus e os Selêucidas se posicionavam como soberanos universais. Gênesis 12:3b — "em ti serão abençoadas todas as famílias da terra" (ou "se abençoarão por ti") — fazia uma contrarreivindicação: a bênção universal da humanidade passa por um homem e sua descendência, não por nenhuma dinastia macedônia. A leitura posterior de Paulo desse versículo (Gl 3:8 — o anúncio original do evangelho) se apoia exatamente nessa dimensão universal. No contexto dos séculos IV-III a.C., a promessa abraâmica oferecia às comunidades judaicas uma base teológica para seu próprio significado dentro de um mundo sendo reorganizado em torno do poder helenístico: a história universal corria por seu ancestral, não por Alexandre.
 
 ---

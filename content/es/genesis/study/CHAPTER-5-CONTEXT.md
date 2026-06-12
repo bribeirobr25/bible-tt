@@ -171,19 +171,23 @@ La formula dice que cada patriarca "engendro hijos e hijas" — pero ninguna hij
 
 ---
 
-### Escenario A: Si fue compuesto durante el período mosaico (~s. XIII a.C.)
-**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]** *(Atribución tradicional)*
+### Escenario A: Si fue compuesto durante el período mosaico (~s. XIII a.C.) — *Atribución tradicional*
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 
-**I-A1. Los registros genealógicos en el Bronce Tardío**
+#### I-A1. Los registros genealógicos en el Bronce Tardío
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 Las listas que rastreaban linajes reales o sacerdotales eran documentos administrativos estándar. Los faraones egipcios trazaban su descendencia desde los dioses mediante listas de reyes inscritas en las paredes de los templos. Los tratados de estado hititas incluían preámbulos ancestrales que establecían la continuidad dinástica. En este contexto, una genealogía escrita que traza una línea de alianza desde Adán hasta Noé funcionaría como un documento fundacional de identidad — estableciendo de quién desciende Israel y por qué.
 
-**I-A2. La Lista de Reyes Sumerios y la tradición antediluviana**
+#### I-A2. La Lista de Reyes Sumerios y la tradición antediluviana
+**[HISTÓRICO / ARQUEOLÓGICO — VERIFICADO]**
 La Lista de Reyes Sumerios (atestiguada en el Prisma de Weld-Blundell, c. 1800 a.C., pero que refleja tradiciones mucho más antiguas) era ya antigua en el s. XIII a.C. Si la tradición israelita entró en contacto con la cultura escribal mesopotámica a través de intermediarios egipcios o durante el período patriarcal, la genealogía antediluviana de Génesis 5 habría dialogado con una tradición ya existente de listas de antepasados prediluviales con longevidades extraordinarias.
 
-**I-A3. Los números y el calendario en el antiguo Oriente Próximo**
+#### I-A3. Los números y el calendario en el antiguo Oriente Próximo
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 Las matemáticas mesopotámicas usaban un sistema de base 60 (sexagesimal); el 7 tenía significado sagrado en múltiples culturas. Para el s. XIII a.C., el calendario solar de 365 días era estándar en Egipto (vinculado al ciclo de inundación del Nilo), mientras Mesopotamia usaba calendarios lunares ajustados periódicamente al año solar. Una longevidad de 365 años — la de Janoj (Enoc) — habría resonado como el número de días de un año solar para las audiencias de ambas tradiciones.
 
-**I-A4. El "séptimo de" como posición de honor**
+#### I-A4. El "séptimo de" como posición de honor
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 En las tradiciones genealógicas y de listas de reyes del antiguo Oriente Próximo, la séptima figura frecuentemente ostentaba un estatus especial: el sabio sumerio Utuabzu, consejero del séptimo rey prediluviano Enmeduranki, se decía que había "ascendido al cielo". El propio Enmeduranki estaba asociado con el dios del sol y los secretos divinos. En un contexto del período mosaico, la séptima posición de Janoj (Enoc) en la lista de Génesis 5 habría sido reconocida de inmediato como una posición de honor, no una ubicación incidental.
 
 ---
@@ -191,44 +195,54 @@ En las tradiciones genealógicas y de listas de reyes del antiguo Oriente Próxi
 ### Escenario B: Si fue compuesto durante el período monárquico (~ss. X-IX a.C.)
 **[HISTÓRICO / ARQUEOLÓGICO — POSIBLE]**
 
-**I-B1. Las genealogías reales como legitimación**
+#### I-B1. Las genealogías reales como legitimación
+**[HISTÓRICO / ARQUEOLÓGICO — PROBABLE]**
 La genealogía de David (Rut 4:18-22) y los registros de la corte de Salomón representan el tipo de listas de antepasados legitimadoras que producían los escribas monárquicos. En este contexto, la genealogía de Génesis 5 — que traza una línea directa desde Adán a través de Set hasta Noé — funcionaría como fundamento ideológico: la identidad de alianza de Israel se traza no a través del linaje constructivo de ciudades de Caín, sino a través de la línea que culmina en el único hombre que "caminó con Dios".
 
-**I-B2. Los antepasados longevos y la tradición oral**
+#### I-B2. Los antepasados longevos y la tradición oral
+**[HISTÓRICO / ARQUEOLÓGICO — PROBABLE]**
 En las culturas orales con escritura limitada, las longevidades extraordinarias de los antepasados servían como dispositivo mnemónico y de autoridad. Se podía decir que una figura de 969 años (Matusalén) era el puente sobre brechas de otro modo insalvables entre la creación y el diluvio. En una sociedad que transitaba de la transmisión oral al registro escribal real, los números extremos de la genealogía preservan el peso de una tradición que se remonta más allá de la memoria viva.
 
-**I-B3. La tradición de Enoc en un contexto preexílico**
+#### I-B3. La tradición de Enoc en un contexto preexílico
+**[HISTÓRICO / ARQUEOLÓGICO — PROBABLE]**
 Antes de la elaborada literatura de Enoc del período del Segundo Templo, la breve nota de que Janoj (Enoc) "caminó con Dios y desapareció, porque Dios se lo llevó" (5:24) se habría entendido en el contexto de figuras que fueron arrebatadas o trasladadas — análogo al posterior Elías (2 Reyes 2:11). La sobriedad del texto del Génesis contrasta marcadamente con lo que las culturas circundantes decían sobre sus sabios de la séptima generación.
 
 ---
 
-### Escenario C: Si fue compuesto/finalizado durante el período exílico/postexílico (~ss. VI-V a.C.)
-**[HISTÓRICO / ARQUEOLÓGICO — PROBABLE]** *(Consenso académico para la forma final)*
+### Escenario C: Si fue compuesto/finalizado durante el período exílico/postexílico (~ss. VI-V a.C.) — *Consenso académico para la forma final*
+**[HISTÓRICO / ARQUEOLÓGICO — PROBABLE]**
 
-**I-C1. Las genealogías bajo la cultura imperial babilónica**
+#### I-C1. Las genealogías bajo la cultura imperial babilónica
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 Las escuelas escribales babilónicas mantenían elaboradas listas de reyes, registros astronómicos y documentos de linaje. Los judíos exiliados que vivían en Babilonia los habrían encontrado como herramientas de identidad administrativa. En este contexto, la genealogía escrita de Génesis 5 (*sefer toledot Adam*, "libro de las generaciones de Adán") afirmaría que la historia de Israel es rastreable, documentada y continua — una contraclamación a las tradiciones babilónicas que solo los reyes poseían una ascendencia legitimadora.
 
-**I-C2. La Lista de Reyes Sumerios como tradición conocida**
+#### I-C2. La Lista de Reyes Sumerios como tradición conocida
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 Para el s. VI a.C., la Lista de Reyes Sumerios y las tradiciones del Atrahasis estaban plenamente establecidas en la cultura escribal mesopotámica. Los eruditos babilónicos en ciudades como Nippur y Babilonia mantenían y copiaban estos textos. Los escribas judíos que vivían en Babilonia podían haberlos encontrado directamente. Las similitudes de la genealogía de Génesis 5 (figuras antediluvianas, edades extraordinarias, el diluvio como evento divisorio, el declive postdiluviano) y sus diferencias (línea de alianza frente a legitimación de la realeza) habrían sido visibles para cualquiera familiarizado con ambas tradiciones.
 
-**I-C3. El cómputo del calendario y el sistema sexagesimal**
+#### I-C3. El cómputo del calendario y el sistema sexagesimal
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 La ciencia astronómica babilónica — la más avanzada del mundo antiguo — usaba un sistema de base 60 para el cálculo y rastreaba el tiempo con gran precisión. El calendario babilónico usaba meses lunares ajustados al año solar. En este entorno intelectual, los números de Génesis 5 (expresables como combinaciones de 60 y 7, según Cassuto) habrían tenido resonancia inmediata. Los 365 años de Janoj (Enoc) registrarían como el número de días de un año solar para una comunidad que ahora vivía dentro de la cultura calendárica más avanzada de la antigüedad.
 
-**I-C4. Los registros de antepasados y la identidad poscatastrófica**
+#### I-C4. Los registros de antepasados y la identidad poscatastrófica
+**[HISTÓRICO / ARQUEOLÓGICO — PROBABLE]**
 Tras la destrucción babilónica de Jerusalén (586 a.C.), los registros genealógicos se volvieron críticos para establecer el linaje sacerdotal, los derechos sobre la tierra y la pertenencia a la comunidad. Esdras 2 y Nehemías 7 conservan listas de exiliados que regresan organizados por familia. En este contexto, la genealogía escrita de Adán a Noé tendría una resonancia práctica urgente: es un registro de quién pertenece a la línea de alianza, preservado a través de la catástrofe del diluvio, igual que la comunidad exiliada intentaba preservar su identidad a través de la catástrofe de la deportación.
 
 ---
 
-### Escenario D: Si fue redactado durante el período persa/helenístico temprano (~ss. IV-III a.C.)
-**[HISTÓRICO / ARQUEOLÓGICO — POSIBLE]** *(Asociado con la configuración final del Pentateuco)*
+### Escenario D: Si fue redactado durante el período persa/helenístico temprano (~ss. IV-III a.C.) — *Asociado con la configuración final del Pentateuco*
+**[HISTÓRICO / ARQUEOLÓGICO — POSIBLE]**
 
-**I-D1. La Torá como genealogía constitucional**
+#### I-D1. La Torá como genealogía constitucional
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 En la provincia persa de Yehud, la Torá se estaba convirtiendo en el documento fundacional de la identidad judía. Una genealogía que va de Adán a Noé servía como la primera declaración de "¿quiénes somos?" de la Torá — trazando no solo la ascendencia de Israel, sino la de la humanidad. En un período en que las comunidades judías estaban dispersas por el mundo persa y luego helenístico, la respuesta a "¿quiénes somos?" requería un linaje que se remontara al principio.
 
-**I-D2. El interés griego y mesopotámico en la historia antediluviana**
+#### I-D2. El interés griego y mesopotámico en la historia antediluviana
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 Para los ss. IV-III a.C., los historiógrafos griegos y los eruditos sacerdotales babilónicos (notablemente Beroso, quien escribió su *Babiloniaca* c. 278 a.C. para un público griego) recopilaban y transmitían activamente tradiciones antediluvianas. La lista de Beroso de diez reyes antediluvianos, cada uno con un reinado de decenas de miles de años, refleja directamente la lista de diez generaciones de Génesis 5. En este entorno intelectual, el *sefer toledot Adam* se habría entendido como la contribución de Israel al género de la historia primordial.
 
-**I-D3. Los números como lenguaje filosófico y simbólico**
+#### I-D3. Los números como lenguaje filosófico y simbólico
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 Las tradiciones filosóficas griegas (Pitágoras, Platón) investían los números de significado cósmico. El cálculo astronómico babilónico alcanzaba su máxima sofisticación. En un período en que los números llevaban peso filosófico en ambas culturas circundantes, los patrones numerológicos de Génesis 5 (las combinaciones de 60 y 7 de Cassuto, los 365 del año solar de Enoc, el cálculo del año de la muerte de Matusalén) habrían sido leídos por escribas y eruditos como un diseño intencional, no como coincidencia.
 
 ---

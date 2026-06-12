@@ -171,19 +171,23 @@ The formula says each patriarch "begot sons and daughters" — but no daughter i
 
 ---
 
-### Scenario A: If composed during the Mosaic period (~13th c. BCE)
-**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]** *(Traditional attribution)*
+### Scenario A: If composed during the Mosaic period (~13th c. BCE) — *Traditional attribution*
+**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
 
-**I-A1. Genealogical records in the Late Bronze Age**
+#### I-A1. Genealogical records in the Late Bronze Age
+**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
 Lists tracing royal or priestly lineages were standard administrative documents. Egyptian Pharaohs traced descent from the gods through king-lists inscribed on temple walls. Hittite state treaties included ancestral preambles establishing dynastic continuity. In this context, a written genealogy tracing a covenant line from Adam to Noach (Noah) would function as a foundational identity document — establishing who Israel descends from and why.
 
-**I-A2. The Sumerian King List and antediluvian tradition**
+#### I-A2. The Sumerian King List and antediluvian tradition
+**[HISTORICAL / ARCHAEOLOGICAL — VERIFIED]**
 The Sumerian King List (attested on the Weld-Blundell Prism, c. 1800 BCE, but reflecting much older traditions) was already ancient by the 13th century BCE. If Israelite tradition encountered Mesopotamian scribal culture through Egyptian intermediaries or during the patriarchal period, the antediluvian genealogy in Genesis 5 would have engaged an already-existing tradition of pre-flood ancestor lists with extraordinary lifespans.
 
-**I-A3. Numbers and calendar in the ancient Near East**
+#### I-A3. Numbers and calendar in the ancient Near East
+**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
 Mesopotamian mathematics used a base-60 (sexagesimal) system; 7 carried sacred significance across cultures. By the 13th century BCE, a 365-day solar calendar was standard in Egypt (linked to the Nile flood cycle), while Mesopotamia used lunar-based calendars adjusted periodically to the solar year. A lifespan of 365 years — Chanokh (Enoch)'s — would resonate as a solar-year number to audiences in either tradition.
 
-**I-A4. "Seventh from" as a position of honor**
+#### I-A4. "Seventh from" as a position of honor
+**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
 In ANE genealogical and king-list traditions, the seventh figure often holds special status: the Sumerian sage Utuabzu, adviser to the seventh pre-flood king Enmeduranki, was said to have "ascended to heaven." Enmeduranki himself was associated with the sun-god and with divine secrets. In a Mosaic-period context, the seventh position of Chanokh (Enoch) in Genesis 5's list would have been immediately recognized as a position of honor, not an incidental placement.
 
 ---
@@ -191,44 +195,54 @@ In ANE genealogical and king-list traditions, the seventh figure often holds spe
 ### Scenario B: If composed during the Monarchic period (~10th-9th c. BCE)
 **[HISTORICAL / ARCHAEOLOGICAL — POSSIBLE]**
 
-**I-B1. Royal genealogies as legitimation**
+#### I-B1. Royal genealogies as legitimation
+**[HISTORICAL / ARCHAEOLOGICAL — PROBABLE]**
 David's genealogy (Ruth 4:18-22) and Solomon's court records represent the kind of legitimating ancestor-lists that monarchic scribes produced. In this context, Genesis 5's genealogy — tracing a direct line from Adam through Seth to Noach — would function as an ideological foundation: Israel's covenant identity traces not through Cain's city-building line but through the line that ends in the one man who "walked with God."
 
-**I-B2. Long-lived ancestors and oral tradition**
+#### I-B2. Long-lived ancestors and oral tradition
+**[HISTORICAL / ARCHAEOLOGICAL — PROBABLE]**
 In oral cultures with limited writing, extraordinary ancestor-lifespans served as a mnemonic and authority device. A figure said to have lived 969 years (Metushelach (Methuselah)) could be the bridge across otherwise unbridgeable gaps between the creation and the flood. In a society moving from oral transmission to royal scribal record-keeping, the genealogy's extreme numbers preserve the weight of a tradition reaching back beyond living memory.
 
-**I-B3. The Enoch tradition in a pre-exilic setting**
+#### I-B3. The Enoch tradition in a pre-exilic setting
+**[HISTORICAL / ARCHAEOLOGICAL — PROBABLE]**
 Before the elaborated Enoch literature of the Second Temple period, the brief note that Chanokh (Enoch) "walked with God and was not, for God took him" (5:24) would have been understood against the background of figures who were taken or translated — analogous to later Elijah (2 Kings 2:11). The restraint of the Genesis text contrasts sharply with what surrounding cultures said about their seventh-generation sages.
 
 ---
 
-### Scenario C: If composed/finalized during the Exilic/Post-Exilic period (~6th-5th c. BCE)
-**[HISTORICAL / ARCHAEOLOGICAL — PROBABLE]** *(Scholarly consensus for final form)*
+### Scenario C: If composed/finalized during the Exilic/Post-Exilic period (~6th-5th c. BCE) — *Scholarly consensus for final form*
+**[HISTORICAL / ARCHAEOLOGICAL — PROBABLE]**
 
-**I-C1. Genealogies under Babylonian imperial culture**
+#### I-C1. Genealogies under Babylonian imperial culture
+**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
 Babylonian scribal schools maintained elaborate king-lists, astronomical records, and lineage documents. Jewish exiles living in Babylon would have encountered these as tools of administrative identity. In this context, Genesis 5's written genealogy (*sefer toledot Adam*, "book of the generations of Adam") would assert that Israel's history is traceable, documented, and continuous — a counter-claim to Babylonian traditions that only kings possessed legitimating ancestry.
 
-**I-C2. The Sumerian King List as a known tradition**
+#### I-C2. The Sumerian King List as a known tradition
+**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
 By the 6th century BCE, the Sumerian King List and Atrahasis traditions were fully established in Mesopotamian scribal culture. Babylonian scholars in cities like Nippur and Babylon maintained and copied these texts. Jewish scribes living in Babylon could have encountered them directly. The Genesis 5 genealogy's similarities (antediluvian figures, extraordinary ages, flood as dividing event, post-flood decline) and its differences (covenant line vs. legitimating kingship) would have been visible to anyone familiar with both traditions.
 
-**I-C3. Calendar reckoning and the sexagesimal system**
+#### I-C3. Calendar reckoning and the sexagesimal system
+**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
 Babylonian astronomical science — the most advanced in the ancient world — used a base-60 system for calculation and tracked time with great precision. The Babylonian calendar used lunar months adjusted to the solar year. In this intellectual environment, the numbers of Genesis 5 (expressible as combinations of 60 and 7, per Cassuto) would carry immediate resonance. Chanokh (Enoch)'s 365 years would register as a solar-year number to a community now living inside the most advanced calendrical culture of antiquity.
 
-**I-C4. Ancestor records and post-catastrophe identity**
+#### I-C4. Ancestor records and post-catastrophe identity
+**[HISTORICAL / ARCHAEOLOGICAL — PROBABLE]**
 After the Babylonian destruction of Jerusalem (586 BCE), genealogical records became critical for establishing priestly lineage, land rights, and community membership. Ezra 2 and Nehemiah 7 preserve lists of returning exiles organized by family. In this context, the written genealogy from Adam to Noah would carry urgent practical resonance: it is a record of who belongs to the covenant line, preserved across the catastrophe of the flood just as the exilic community was trying to preserve identity across the catastrophe of deportation.
 
 ---
 
-### Scenario D: If redacted during the Persian/early-Hellenistic period (~4th-3rd c. BCE)
-**[HISTORICAL / ARCHAEOLOGICAL — POSSIBLE]** *(Associated with final Pentateuchal shaping)*
+### Scenario D: If redacted during the Persian/early-Hellenistic period (~4th-3rd c. BCE) — *Associated with final Pentateuchal shaping*
+**[HISTORICAL / ARCHAEOLOGICAL — POSSIBLE]**
 
-**I-D1. The Torah as constitutional genealogy**
+#### I-D1. The Torah as constitutional genealogy
+**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
 In the Persian province of Yehud, the Torah was becoming the foundational document of Jewish identity. A genealogy running from Adam to Noach (Noah) served as the Torah's first "who are we" statement — tracing not just Israel's ancestry but humanity's. In a period when Jewish communities were scattered across the Persian and then Hellenistic world, the answer to "who are we?" required a lineage going back to the beginning.
 
-**I-D2. Greek and Mesopotamian interest in antediluvian history**
+#### I-D2. Greek and Mesopotamian interest in antediluvian history
+**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
 By the 4th-3rd centuries BCE, Greek historiographers and Babylonian priest-scholars (notably Berossus, who wrote his *Babyloniaca* c. 278 BCE for a Greek audience) were actively collecting and transmitting antediluvian traditions. Berossus's list of ten antediluvian kings, each with reign-lengths of tens of thousands of years, directly parallels Genesis 5's ten-generation list. In this intellectual environment, the *sefer toledot Adam* would have been understood as Israel's contribution to the genre of primordial history.
 
-**I-D3. Numbers as philosophical and symbolic language**
+#### I-D3. Numbers as philosophical and symbolic language
+**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
 Greek philosophical traditions (Pythagoras, Plato) invested numbers with cosmic significance. Babylonian astronomical calculation was reaching its peak of sophistication. In a period when numbers carried philosophical weight in both surrounding cultures, the numerological patterns of Genesis 5 (Cassuto's 60-and-7 combinations, Enoch's solar-year 365, Methuselah's death-year calculation) would have been read by scribes and scholars as intentional design, not coincidence.
 
 ---

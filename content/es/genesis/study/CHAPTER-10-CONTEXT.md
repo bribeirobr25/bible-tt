@@ -167,59 +167,70 @@ El recuento tradicional de los nombres en Génesis 10 arroja aproximadamente 70 
 
 ---
 
-### Escenario A: Si fue compuesto durante el período mosaico (~siglo XIII a. e. c.)
-**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]** *(Atribución tradicional)*
+### Escenario A: Si fue compuesto durante el período mosaico (~siglo XIII a. e. c.) — *Atribución tradicional*
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 
-**I-A1. El mundo conocido desde una perspectiva levantina de la Edad del Bronce Tardío**
+#### I-A1. El mundo conocido desde una perspectiva levantina de la Edad del Bronce Tardío
+**[HISTÓRICO / ARQUEOLÓGICO — VERIFICADO]**
 El horizonte geográfico de Génesis 10 se corresponde estrechamente con el mundo conocido por un observador levantino del siglo XIII a. e. c. Las grandes potencias — Mitsráyim (Egipto), Asur (Asiria), los hititas (posiblemente Tuval o Togarmah), las ciudades-estado cananeas y los pueblos marítimos de la costa mediterránea — estaban todas activas. Erekh (Uruk) y Akkad eran antiguos centros mesopotámicos. Tsidón (Sidón) era un puerto fenicio en funcionamiento. Los "pueblos de las costas" (10:5) — asociados con Yavan (Jonia/Grecia), Kittim (Chipre) y Tarsis — representan el extremo occidental de los contactos comerciales ya documentados en la Edad del Bronce Tardío a través del naufragio de Uluburun (c. 1300 a. e. c.) y la correspondencia de Amarna. Génesis 10 mapea el mundo tal como lo conocía un observador informado de este período.
 
-**I-A2. Cómo los pueblos de la Edad del Bronce Tardío clasificaban a otros pueblos**
+#### I-A2. Cómo los pueblos de la Edad del Bronce Tardío clasificaban a otros pueblos
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 Los textos egipcios clasificaban a los pueblos por los cuatro puntos cardinales: asiáticos (sirios/cananeos) al noreste, libios al oeste, nubios al sur y asiáticos del lejano oriente. Los registros hititas organizaban a los pueblos sujetos por territorio y obligaciones de tributo. Las Cartas de Amarna (siglo XIV a. e. c.) muestran un sistema de grandes reyes y reyes vasallos, con zonas geográficas correspondientes. La taxonomía cuádruple de Génesis 10 — clanes, lenguas, tierras, naciones (10:5, 20, 31) — es más sofisticada que el modelo egipcio direccional o el modelo hitita de tributo: reconoce que lo que hace a un pueblo son múltiples factores entrelazados, no solo la geografía o la lealtad política.
 
-**I-A3. Las rutas comerciales que conectan los pueblos de Génesis 10**
+#### I-A3. Las rutas comerciales que conectan los pueblos de Génesis 10
+**[HISTÓRICO / ARQUEOLÓGICO — VERIFICADO]**
 La Edad del Bronce Tardío fue un período de comercio internacional intensivo. El naufragio de Uluburun (recuperado frente a la costa sur de Turquía) llevaba carga de al menos once culturas diferentes: vino y aceite de oliva cananeos, joyería egipcia, cobre de Chipre, estaño de Asia Central, ébano de África, ámbar del Báltico. Los pueblos nombrados en Génesis 10 — Tsidón, Mitsráyim (Egipto), Shevá (Saba/Yemen), Tarsis, Kittim (Chipre) — marcan nodos en esta red. La Tabla de Naciones no es un documento de aislamiento sino de conectividad: estos pueblos se conocían, comerciaban entre sí y competían entre sí. El marco genealógico que los mapea como familia se superpone a una realidad económica de profunda interdependencia.
 
-**I-A10. La Tabla de Naciones como esquema etnográfico**
+#### I-A10. La Tabla de Naciones como esquema etnográfico
 **[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
 Génesis 10 lista aproximadamente 70 pueblos (el conteo varía por tradición — el Texto Masorético produce 70; la Septuaginta incluye a Elisha y produce 72; la tradición rabínica se estabiliza en 70 como el conteo canónico). Este es el catálogo etnográfico más extenso de la Biblia Hebrea y uno de los documentos estructuralmente más inusuales en la literatura del ACO. **No existe paralelo directo en el ACO para una etnografía genealógica tripartita del mundo conocido.** Los textos de execración egipcios listan enemigos por ciudad y región; los "Tratados Geográficos" acadios catalogan topónimos; los textos sumerios "Lugal-banda" listan pueblos encontrados en viajes mitológicos — pero ninguno combina (a) un único ancestro a la cabeza, (b) tres hijos primarios produciendo tres ramas primarias, (c) descendientes secundarios nombrados extendiéndose hasta periferias, y (d) una cobertura aproximadamente comprehensiva del mundo conocido. El alcance geográfico de la Tabla (Mediterráneo oriental → Mesopotamia → Arabia → Egipto → Norte de África → suroeste de Europa) mapea el mundo del que un escriba egipcio o levantino de la Edad del Bronce Tardío tendría conocimiento creíble. La innovación estructural de la Tabla — parentesco genealógico como esquema organizador para la diferencia política-étnica — codifica una cosmovisión en la que todos los pueblos comparten una ancestralidad común, distinguidos por rama de linaje en lugar de por categoría ontológica (como en egipcio "asiáticos vs. egipcios vs. africanos" o mesopotámico "civilizado vs. bárbaro"). Esta cosmovisión de parentesco lleva peso teológico: el llamado avraámico en Gn 12 es a una rama dentro de una humanidad que es genealógicamente continua. **Fuente:** Hess, R.S., *Studies in the Personal Names of Genesis 1-11*, AOAT 234, Neukirchener Verlag, 1993; Lipiński, E., "Les Japhétites selon Gen 10,2-4 et 1 Chr 1,5-7," *Zeitschrift für Althebraistik* 3 (1990); Day, J., *From Creation to Babel*, 2013, cap. 7 (Tabla de Naciones). **[PEER-REVIEWED — DOCUMENTED]**
 
 ---
 
-### Escenario B: Si fue compuesto durante el período monárquico (~siglos X-IX a. e. c.)
-**[HISTÓRICO / ARQUEOLÓGICO — POSIBLE]** *(Algunos eruditos sitúan aquí las tradiciones de las fuentes tempranas)*
+### Escenario B: Si fue compuesto durante el período monárquico (~siglos X-IX a. e. c.) — *Algunos eruditos sitúan aquí las tradiciones de las fuentes tempranas*
+**[HISTÓRICO / ARQUEOLÓGICO — POSIBLE]**
 
-**I-B1. Nimrod y la crítica del imperio**
+#### I-B1. Nimrod y la crítica del imperio
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 La digresión sobre Nimrod (10:8-12) describe la fundación de Babel, Erekh (Uruk), Akkad y Nínive — las capitales de los principales imperios mesopotámicos que precedieron y rodearon a Israel. En el período monárquico, Asiria era la superpotencia emergente al noreste (el Monolito de Kurkh, 853 a. e. c., registra que Ajab de Israel contribuyó 2.000 carros a una coalición contra Salmanasar III). Una audiencia israelita que observaba la expansión del poder asirio habría leído la trayectoria de Nimrod — de cazador a rey y constructor de ciudades — como una descripción condensada de la ambición imperial mesopotámica. La ambigüedad del texto sobre Nimrod ("ante YHWH" — ¿aprobación o desafío?) puede reflejar la propia ambivalencia del período monárquico sobre la realeza: poderosa, impresionante y potencialmente transgresora.
 
-**I-B2. La Tabla de Naciones como mapa geopolítico de Israel**
+#### I-B2. La Tabla de Naciones como mapa geopolítico de Israel
+**[HISTÓRICO / ARQUEOLÓGICO — PROBABLE]**
 La correspondencia diplomática de Salomón (1 Re 4-5, 10) conectaba a Israel con Egipto, Tiro, Saba y Ofir. El período monárquico fue la primera vez que Israel operó como un estado reconocible en las relaciones internacionales. La Tabla de Naciones de Génesis 10, leída en este contexto, funciona como un mapa geopolítico del mundo conocido de Israel expresado en términos genealógicos. Mitsráyim (Egipto) es un socio comercial y adversario ocasional (de la línea de Jam/Cam). Tsidón (Sidón) es un aliado (Hiram de Tiro; 1 Re 5). Asur (Asiria) es la creciente amenaza nororiental. La Tabla sitúa todas estas relaciones dentro de un marco familiar único — proporcionando fundamentación teológica para la política exterior de Israel al remontar todas las naciones a un origen común.
 
-**I-B3. Las tradiciones de fundación de ciudades y el programa de construcción salomónico**
+#### I-B3. Las tradiciones de fundación de ciudades y el programa de construcción salomónico
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 El período monárquico vio el primer edificio monumental significativo de Israel: el templo de Salomón, el palacio y las ciudades fortificadas (Hazor, Megido, Guézer — 1 Re 9:15). La fundación de ciudades era un acto real en todo el antiguo Oriente Próximo. La lista de ciudades fundadas por Nimrod (10:10-12) refleja el lenguaje de las inscripciones reales mesopotámicas que celebraban a los reyes como constructores de ciudades, templos y murallas. Un lector israelita del período del programa de construcción de Salomón habría reconocido la fundación de ciudades de Nimrod como un acto de auto-afirmación real — el imperio expresado en piedra. La moderación del texto (sin condenación explícita del programa de construcción de Nimrod) refleja la propia ambivalencia de la tradición monárquica sobre sus proyectos de construcción.
 
 ---
 
-### Escenario C: Si fue compuesto durante el período exílico/postexílico (~siglos VI-V a. e. c.)
-**[HISTÓRICO / ARQUEOLÓGICO — PROBABLE]** *(Consenso académico para la forma final)*
+### Escenario C: Si fue compuesto durante el período exílico/postexílico (~siglos VI-V a. e. c.) — *Consenso académico para la forma final*
+**[HISTÓRICO / ARQUEOLÓGICO — PROBABLE]**
 
-**I-C1. Babel, Erekh, Akkad, Nínive — leer la Tabla desde dentro de Mesopotamia**
+#### I-C1. Babel, Erekh, Akkad, Nínive — leer la Tabla desde dentro de Mesopotamia
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 Los exiliados judíos en Babilonia (586-539 a. e. c.) vivían dentro del mundo descrito en Génesis 10:10-12. Babilonia era la capital imperial. Nippur (¿cerca del antiguo Nippur/Kalneh?) era un centro de asentamiento judío (atestiguado por el archivo Murashu). Los nombres en la lista de ciudades de Nimrod — Babel, Erekh (Uruk), Akkad, Nínive — no eran historia antigua sino geografía presente. Leer que estas ciudades fueron fundadas por un descendiente de Jam (Cam), bajo la ambigua frase "ante YHWH", daba a los exiliados un marco teológico para sus captores: el poder de Babilonia estaba genealógicamente ubicado, históricamente delimitado y evaluado ambiguamente. No era eterno; era una rama de un árbol familiar cuya raíz era Noaj (Noé).
 
-**I-C2. La clasificación etnográfica y la cuestión de la identidad en la diáspora**
+#### I-C2. La clasificación etnográfica y la cuestión de la identidad en la diáspora
+**[HISTÓRICO / ARQUEOLÓGICO — PROBABLE]**
 La taxonomía cuádruple de Génesis 10 — clanes, lenguas, tierras, naciones — era prácticamente relevante para los exiliados judíos que navegaban la sociedad imperial babilónica y luego persa. ¿Qué hacía a un pueblo? En la práctica administrativa babilónica, los pueblos se clasificaban por territorio y categoría de tributo. En la práctica imperial persa, los pueblos sujetos se clasificaban por lengua y costumbre religiosa (el Cilindro de Ciro reconocía los dioses de cada pueblo). Génesis 10 ofrecía una respuesta diferente: un pueblo está definido por parentesco, lengua, territorio e identidad política conjuntamente. Los exiliados judíos que mantenían su identidad en Babilonia — usando el hebreo litúrgicamente mientras hablaban arameo a diario, manteniendo genealogías familiares mientras vivían en tierra extranjera — estaban poniendo en práctica la taxonomía cuádruple de Génesis 10.
 
-**I-C3. La familia universal como afirmación teológica contra el universalismo imperial**
+#### I-C3. La familia universal como afirmación teológica contra el universalismo imperial
+**[HISTÓRICO / ARQUEOLÓGICO — PROBABLE]**
 Babilonia afirmaba ser el centro del mundo — *Bab-ili*, la "Puerta de Dios", el punto de encuentro del cielo y la tierra. El Enuma Elish presentaba a Marduk como el creador de todos los pueblos y a Babilonia como la capital divinamente ordenada. La Tabla de Naciones de Génesis 10 es una contra-narrativa: todos los pueblos, incluida Babilonia, se originan de una familia, y la historia de esa familia está narrada en la tradición de Israel, no en la de Babilonia. Los babilonios (a través de Nimrod y las ciudades de Shinar) aparecen en la tabla — pero como descendientes de Jam (Cam), colocados a mitad de la tabla, evaluados ambiguamente. La familia universal tiene un centro, pero no es Babilonia.
 
 ---
 
-### Escenario D: Si fue redactado durante el período persa/helenístico temprano (~siglos IV-III a. e. c.)
-**[HISTÓRICO / ARQUEOLÓGICO — POSIBLE]** *(Asociado con la configuración final del Pentateuco)*
+### Escenario D: Si fue redactado durante el período persa/helenístico temprano (~siglos IV-III a. e. c.) — *Asociado con la configuración final del Pentateuco*
+**[HISTÓRICO / ARQUEOLÓGICO — POSIBLE]**
 
-**I-D1. La Tabla de Naciones y el mundo helenístico en expansión**
+#### I-D1. La Tabla de Naciones y el mundo helenístico en expansión
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 Para los siglos IV-III a. e. c., las conquistas de Alejandro habían extendido dramáticamente el mundo conocido hacia el este (hasta el valle del Indo) y habían reforzado la conciencia griega de toda la cuenca mediterránea. El horizonte geográfico de Génesis 10 — desde Tarsis en el oeste hasta Elam en el este, desde Kush en el sur hasta Togarmah en el norte — era ahora completamente legible desde una perspectiva helenística. Yavan (Jonia/Grecia), listado como hijo de Yafet (Jafet) (10:2), era para este período la potencia cultural dominante. Los escribas judíos que finalizaban el texto en este período habrían sido conscientes de que Yavan, ubicado relativamente periféricamente en la tabla como pueblo costero (10:4-5), se había convertido en la fuerza cultural más poderosa del mundo — un contraste que no requería comentario pero que habría registrado inmediatamente.
 
-**I-D2. Cómo la etnografía griega se comparaba con Génesis 10**
+#### I-D2. Cómo la etnografía griega se comparaba con Génesis 10
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 Los historiadores y geógrafos griegos estaban desarrollando sus propias tradiciones etnográficas en los siglos IV-III a. e. c. Heródoto (siglo V a. e. c.) organizaba a los pueblos por geografía y costumbre; Hecateo mapeó el mundo conocido; Aristóteles teorizó sobre las capacidades naturales de los diferentes pueblos. La etnografía genealógica de Génesis 10 — todos los pueblos como familia, organizados por parentesco, lengua, territorio e identidad política — difería fundamentalmente del modelo griego, que usaba el determinismo ambiental (los climas cálidos producen pueblos apasionados; los climas fríos producen pueblos perezosos) para explicar la diversidad étnica. El modelo hebreo atribuía la diversidad humana al descenso histórico de una sola familia, no al clima o a la naturaleza. Esta era una diferencia intelectual sustantiva, no meramente estilística.
 
 ---

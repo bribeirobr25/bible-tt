@@ -223,19 +223,23 @@ La narrativa del diluvio proporciona fechas de calendario exactas: inicio en el 
 
 ---
 
-### Escenario A: Si fue compuesto durante el período mosaico (~siglo XIII a. e. c.)
-**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]** *(Atribución tradicional)*
+### Escenario A: Si fue compuesto durante el período mosaico (~siglo XIII a. e. c.) — *Atribución tradicional*
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 
-**I-A1. La cosmología del agua en la Edad del Bronce Tardío**
+#### I-A1. La cosmología del agua en la Edad del Bronce Tardío
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 El mecanismo del diluvio en Génesis 7:11 — "todas las fuentes del gran abismo irrumpieron, y las ventanas del cielo fueron abiertas" — refleja un modelo cosmológico de tres niveles: aguas sobre la bóveda celeste, la tierra habitable y aguas subterráneas debajo. Este modelo era compartido en todo el antiguo Oriente Próximo. La cosmología egipcia representaba a una diosa del cielo arqueándose sobre la tierra con aguas arriba y abajo; la cosmología mesopotámica tenía el océano profundo (*Apsu*) abajo y una bóveda celeste sólida arriba. En un contexto del período mosaico, la descripción del diluvio invocaría una estructura cosmológica que la audiencia ya sostenía.
 
-**I-A2. Las medidas en codos y sus variaciones**
+#### I-A2. Las medidas en codos y sus variaciones
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 Génesis 6:15 da las dimensiones de la *tebá* en codos. El codo (la longitud desde el codo hasta la punta del dedo) variaba según la cultura y el período: el codo egipcio estándar era de aproximadamente 45,7 cm; el codo real de aproximadamente 52,5 cm; los codos mesopotámicos también variaban. Para el siglo XIII a. e. c., las medidas de codos estandarizadas se usaban en construcciones monumentales en todo Egipto y el Levante. El uso de codos en el texto sitúa el relato en un mundo de medición práctica y construcción organizada.
 
-**I-A3. El manejo de animales y los grandes rebaños**
+#### I-A3. El manejo de animales y los grandes rebaños
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 La instrucción de llevar animales "dos de todos" o "siete siete" de los limpios (Gn 7:2-3) supone familiaridad con la ganadería a gran escala. El Levante de la Edad del Bronce Tardío mantenía rebaños de ganado vacuno, ovejas, cabras y asnos como fuentes primarias de alimento, lana y tracción. Los papiros administrativos egipcios registran establos palaciegos con cientos de caballos y rebaños de ganado. El manejo de múltiples especies animales a bordo de una gran embarcación se entendería contra este trasfondo de gestión animal a escala de hacienda, aunque la escala en el Génesis supere todo lo atestiguado.
 
-**I-A4. Los períodos de siete días y el cómputo lunar**
+#### I-A4. Los períodos de siete días y el cómputo lunar
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 El período de espera de siete días antes del diluvio (7:4, 7:10) y los múltiples marcadores temporales del diluvio reflejan un mundo organizado por ciclos de siete días y meses lunares. El calendario mesopotámico ya usaba una estructura de siete días con el séptimo día como significativo. Los calendarios lunares egipcios seguían los ciclos mensuales. La precisión calendárica de Génesis 7 — marcadores de mes y día — refleja prácticas de cronometraje administrativo familiares en todo el antiguo Oriente Próximo.
 
 ---
@@ -243,44 +247,54 @@ El período de espera de siete días antes del diluvio (7:4, 7:10) y los múltip
 ### Escenario B: Si fue compuesto durante el período monárquico (~siglos X-IX a. e. c.)
 **[HISTÓRICO / ARQUEOLÓGICO — POSIBLE]**
 
-**I-B1. La experiencia del diluvio en Mesopotamia y el Levante**
+#### I-B1. La experiencia del diluvio en Mesopotamia y el Levante
+**[HISTÓRICO / ARQUEOLÓGICO — VERIFICADO]**
 El Tigris y el Éufrates inundaban regularmente, a veces de forma catastrófica. Las capas arqueológicas de inundación en Shuruppak y Kish (c. 2900-2800 a. e. c.) corresponden al período en que las tradiciones mesopotámicas del diluvio estaban tomando forma literaria. En el Levante, las lluvias invernales y las inundaciones repentinas en los wadis eran eventos anuales. Las inundaciones estacionales del río Jordán amenazaban los asentamientos del valle. Una audiencia del período monárquico entendería la narrativa del diluvio a partir del conocimiento personal y cultural de lo que el agua que sube realmente hacía a los asentamientos, los cultivos y el ganado.
 
-**I-B2. Las distinciones limpio/impuro en el Israel preexílico**
+#### I-B2. Las distinciones limpio/impuro en el Israel preexílico
+**[HISTÓRICO / ARQUEOLÓGICO — PROBABLE]**
 La distinción entre animales limpios e impuros (7:2) que aparece antes del Sinaí sugiere una categoría cúltica pre-mosaica. En el período monárquico, la práctica sacrificial estaba activa en múltiples sitios: Jerusalén, Betel, Dan y los lugares altos rurales. Los sacerdotes y adoradores sabrían inmediatamente qué animales eran aceptables para el sacrificio. Los "siete siete" de animales limpios en el relato del diluvio se entenderían como la provisión del excedente necesario para el sacrificio posterior al diluvio, coherente con la práctica cúltica cotidiana.
 
-**I-B3. El sellado divino como protección única**
+#### I-B3. El sellado divino como protección única
+**[HISTÓRICO / ARQUEOLÓGICO — PROBABLE]**
 La afirmación de Génesis 7:16 de que "YHWH cerró tras él" — Dios sellando personalmente la *tebá* — no tiene paralelo en los relatos mesopotámicos del diluvio, donde un artesano o portero realiza el sellado. En un contexto monárquico donde la participación personal de YHWH en la protección de Israel era una afirmación teológica viva (YHWH como guerrero, protector del rey, guardián de Jerusalén), el detalle de que YHWH mismo cierra la puerta lleva el peso del compromiso personal divino con el sobreviviente del pacto.
 
 ---
 
-### Escenario C: Si fue compuesto/finalizado durante el período exílico/postexílico (~siglos VI-V a. e. c.)
-**[HISTÓRICO / ARQUEOLÓGICO — PROBABLE]** *(Consenso académico para la forma final)*
+### Escenario C: Si fue compuesto/finalizado durante el período exílico/postexílico (~siglos VI-V a. e. c.) — *Consenso académico para la forma final*
+**[HISTÓRICO / ARQUEOLÓGICO — PROBABLE]**
 
-**I-C1. La experiencia del diluvio mesopotámico como contexto vivido**
+#### I-C1. La experiencia del diluvio mesopotámico como contexto vivido
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 Los exiliados judíos en Babilonia vivían en una civilización fluvial definida por las inundaciones. El Éufrates y el Tigris podían crecer dramáticamente con el deshielo primaveral de los montes Tauro y Zagros. Las ciudades babilónicas mantenían sistemas de diques, redes de canales e infraestructura de gestión de inundaciones. Una audiencia exílica que leyera Génesis 7 entendería el mecanismo del diluvio — "fuentes del abismo" + "ventanas del cielo" — a partir de la experiencia directa de un entorno propenso a inundaciones y del lenguaje cosmológico que sus vecinos usaban para explicarlo.
 
-**I-C2. Los sistemas de medición babilónicos**
+#### I-C2. Los sistemas de medición babilónicos
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 La educación escribal babilónica incluía formación sistemática en medición: el codo (*ammatu*), la caña (seis codos) y unidades mayores para la medición de campos. El cálculo astronómico usaba el mismo sistema de base 60 para el tiempo y la distancia. La precisión de la cronología del diluvio (marcadores de mes y día, períodos de 150 días correspondientes a cinco meses de 30 días) refleja exactamente los meses administrativos de 30 días y el calendario esquemático de 360 días usado en la práctica administrativa babilónica. La comunidad exílica leería esta precisión a la luz de su conocimiento de la cronometría babilónica.
 
-**I-C3. La des-creación y re-creación cosmológica**
+#### I-C3. La des-creación y re-creación cosmológica
+**[HISTÓRICO / ARQUEOLÓGICO — PROBABLE]**
 El mecanismo del diluvio en Génesis 7:11 — fuentes del abismo + ventanas del cielo — invierte con precisión la separación del Día 2 en Génesis 1:6-7. En un contexto exílico, donde la destrucción de Jerusalén podía experimentarse como des-creación cósmica (el templo destruido, la ciudad santa quemada, la comunidad del pacto dispersada), la estructura de la narrativa del diluvio — des-creación seguida de re-creación — tendría resonancia teológica inmediata. Los exiliados vivían en las secuelas del desmoronamiento de su propio mundo.
 
-**I-C4. La preservación de animales y la continuidad de la creación**
+#### I-C4. La preservación de animales y la continuidad de la creación
+**[HISTÓRICO / ARQUEOLÓGICO — PROBABLE]**
 El énfasis en preservar cada especie — "dos de todos", limpios e impuros — refleja una teología del valor inherente de la creación. En los relatos babilónicos del diluvio, los animales suben a la embarcación principalmente como reserva de alimentos. Génesis 7 presenta su preservación como un imperativo divino: las categorías y la diversidad de la creación deben sobrevivir. En una comunidad exílica ansiosa por si su identidad, sus prácticas y los propósitos de su Dios sobrevivirían, la imagen del cuidado divino por la continuidad de cada criatura tenía un peso específico.
 
 ---
 
-### Escenario D: Si fue redactado durante el período persa/helenístico temprano (~siglos IV-III a. e. c.)
-**[HISTÓRICO / ARQUEOLÓGICO — POSIBLE]** *(Asociado con la configuración final del Pentateuco)*
+### Escenario D: Si fue redactado durante el período persa/helenístico temprano (~siglos IV-III a. e. c.) — *Asociado con la configuración final del Pentateuco*
+**[HISTÓRICO / ARQUEOLÓGICO — POSIBLE]**
 
-**I-D1. La cronología comparada del diluvio y las disputas calendáricas**
+#### I-D1. La cronología comparada del diluvio y las disputas calendáricas
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 Para los siglos IV-III a. e. c., diferentes grupos judíos usaban diferentes calendarios: el calendario lunar estándar en Babilonia, el calendario de 364 días reflejado en el Libro de los Jubileos y en 1 Enoc, y el calendario solar que puede subyacer a la cronología del diluvio. Las fechas precisas de la narrativa del diluvio (Gn 7:11, 8:4, 8:5, 8:13, 8:14) aparentemente se leían de forma diferente según el sistema calendárico que se utilizara. La propia precisión puede haber sido diseñada para anclar la narrativa del diluvio dentro de una tradición calendárica específica — una cuestión viva en las comunidades escribales de este período.
 
-**I-D2. Las tradiciones universales del diluvio en un contexto comparativo helenístico**
+#### I-D2. Las tradiciones universales del diluvio en un contexto comparativo helenístico
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 La *Babiloniaca* de Beroso (c. 278 a. e. c.) y la tradición griega de Deucalión circulaban simultáneamente con la Torá. En un contexto helenístico donde las narrativas del diluvio eran reconocidas como un género transcultural, los rasgos distintivos de Génesis 7 — mecanismo cosmológico, fechas precisas, sellado divino — se leerían como marcadores de las afirmaciones teológicas de la tradición israelita frente al telón de fondo comparativo. La pregunta "¿qué relato del diluvio es autoritativo?" estaba viva en un mundo donde múltiples tradiciones competían.
 
-**I-D3. La cosmología del agua en el pensamiento judío tardoantiguo**
+#### I-D3. La cosmología del agua en el pensamiento judío tardoantiguo
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 El modelo cosmológico de tres niveles (aguas arriba, tierra, aguas abajo) estaba recibiendo atención teológica creciente en la literatura judía del Segundo Templo tardío. El *Libro de los Jubileos* (~siglo II a. e. c.) narra de nuevo el diluvio con los mismos supuestos cosmológicos. Las secciones astronómicas de *1 Enoc* describen las ventanas del cielo como compuertas físicas. El lenguaje cosmológico del relato de Génesis 7 — *tehom rabbah*, *arubbot ha-shamayim* — no era simplemente texto heredado sino vocabulario cosmológico vivo en uso activo.
 
 ---

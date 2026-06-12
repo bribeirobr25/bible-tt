@@ -226,19 +226,22 @@ Genesis 4:17–22 verortet die Ursprünge der Zivilisation in Kains Linie: Städ
 
 ---
 
-### Szenario A: Falls während der mosaischen Periode verfasst (~13. Jh. v. Chr.)
-**[HISTORISCH / ARCHÄOLOGISCH — DOKUMENTIERT]** *(Traditionelle Zuschreibung)*
+### Szenario A: Falls während der mosaischen Periode verfasst (~13. Jh. v. Chr.) — *Traditionelle Zuschreibung*
+**[HISTORISCH / ARCHÄOLOGISCH — DOKUMENTIERT]**
 
-**I-A1. Opfer und Darbringung in der spätbronzezeitlichen Praxis**
+#### I-A1. Opfer und Darbringung in der spätbronzezeitlichen Praxis
+**[HISTORISCH / ARCHÄOLOGISCH — DOKUMENTIERT]**
 Kain bringt eine Opfergabe (*mincha*) von „der Frucht des Erdbodens" und Abel bringt „von den Erstlingen seiner Herde und von ihrem Fett" (4:3-4). In der spätbronzezeitlichen Kanaan und Ägypten wurden sowohl landwirtschaftliche als auch tierische Opfergaben praktiziert. Ägyptische Tempelreligion unterschied je nach Gottheit und Anlass zwischen Getreide-, Brot- und Tieropfern. Ugaritische Texte (ungefähr zeitgleich mit dem mosaischen Szenario) dokumentieren Tieropfer für El und Baal mit spezifischen Regeln über Qualität und Art der Opfergabe. Die Erzählung erklärt nicht, warum JHWH Abels Opfergabe anders betrachtet — der Text lässt dies unerklärt und hat Jahrhunderte der Debatte ausgelöst. Was das ursprüngliche Publikum sofort erkannt hätte: Opferqualität (Fettteile gegenüber generischer Frucht) und das Erstlinge-Prinzip (das Beste, nicht irgendein Überschuss) waren bekannte Unterscheidungen im altorientalischen Opferkult.
 
-**I-A2. Brudermord und Clanrecht in der nomadischen Gesellschaft**
+#### I-A2. Brudermord und Clanrecht in der nomadischen Gesellschaft
+**[HISTORISCH / ARCHÄOLOGISCH — DOKUMENTIERT]**
 In einem tribalen und nomadischen Kontext (das mosaische Szenario) war Brudermord unter den schwerwiegendsten Verletzungen der sozialen Ordnung, weil er die Verwandtschaftseinheit zerstörte, von der das Überleben abhing. Altorientalische Gesetzessammlungen aus dieser Ära (der Codex Hammurabi, ca. 17. Jh. v. Chr.) behandeln Brudermord nicht spezifisch, aber clanbasierte Blutrache (*go'el ha-dam*) war der operative Rechtsmechanismus in Gesellschaften ohne zentralisierte Gerichte. JHWHs Schutz Kains durch ein Zeichen (4:15) — das Vendetta verhindert — stellt einen göttlichen Eingriff in ein System dar, das sonst Vergeltung mandatierte. Das „Zeichen" (*ot*) ersetzt clanbasierte Gerechtigkeit durch göttliche Sanktion.
 
-**I-A3. Hirten- versus Ackerbaukulturen im Sinai und in der Levante**
+#### I-A3. Hirten- versus Ackerbaukulturen im Sinai und in der Levante
+**[HISTORISCH / ARCHÄOLOGISCH — DOKUMENTIERT]**
 Die Spannung zwischen Kain (Bauer) und Abel (Hirte) spiegelt eine reale sozioökonomische Reibung wider, die im mosaischen Szenario sichtbar ist: Die Israeliten waren halbsesshafte Hirten, während Kanaan sesshafte Ackerbaugemeinden hatte. Die sumerische Literatur hatte diese Spannung in der „Debatte zwischen Schaf und Getreide" bereits formalisiert — ein literarischer Wettstreit zwischen den zwei Produktionsweisen. In der Sinai-Wüste hielten die Israeliten Herden; der Einzug in Kanaan bedeutete den Übergang zur Getreidewirtschaft. Die Kain-Abel-Dynamik bildet diesen Übergang ab: Beide Lebensweisen sind legitim, beide bringen Opfergaben, aber der Konflikt zwischen ihnen ist tödlich.
 
-**I-A7. Ursprungstraditionen der Künste — Musik und Metallurgie**
+#### I-A7. Ursprungstraditionen der Künste — Musik und Metallurgie
 **[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
 Genesis 4 schreibt die Gründung kultureller Künste benannten Ahnen zu: Yaval = Stammvater zeltbewohnender Hirten (4:20); Yuval = Stammvater der Leier- und Flötenspieler (4:21); Tuval-Kain = Schmied von Bronze- und Eisenwerkzeugen (4:22). Dies ist ein Kultur-Genese-Katalog, wie er in der Weisheitsliteratur des Alten Orients typisch ist. Vergleichbare Traditionen umfassen die sumerische „Inanna und Enki"-Hymne, in der die *me* (kulturelle Künste: Königtum, Schreibkunst, Metallarbeit, Musik usw.) von Enki an Inanna und von dort nach Uruk übertragen werden; die akkadischen *apkallu* (sieben antediluvianische Weise), denen die Gründung der Handwerke zugeschrieben wird; und die griechischen Hephaistos-/Daidalos-Traditionen benannter Handwerksbegründer. Im mosaischen Szenario hatten die Israeliten unmittelbare Erfahrung mit ägyptischen Metallurgiewerkstätten (Kupfer in Timna; Bronzewerkzeuge überall) und hätten Metallarbeit als hochspezialisierte Tätigkeit verstanden, die in geographischen Zentren erlernt wird — wodurch die geographische Verortung des Handwerks von Tuval-Kain in einer bestimmten Linie kulturell verständlich wurde. **Quelle:** Westenholz, J.G., „Heroes of Akkad," *Journal of the American Oriental Society* 103 (1983); Foster, B.R., *Before the Muses: An Anthology of Akkadian Literature*, 3. Aufl., CDL Press, 2005 (apkallu-Traditionen). **[ANE COMPARATIVE — DOCUMENTED]**
 
@@ -246,51 +249,61 @@ Genesis 4 schreibt die Gründung kultureller Künste benannten Ahnen zu: Yaval =
 
 ---
 
-### Szenario B: Falls während der monarchischen Periode verfasst (~10.–9. Jh. v. Chr.)
-**[HISTORISCH / ARCHÄOLOGISCH — MÖGLICH]** *(Einige Gelehrte verorten frühe Quelltraditionen hier)*
+### Szenario B: Falls während der monarchischen Periode verfasst (~10.–9. Jh. v. Chr.) — *Einige Gelehrte verorten frühe Quelltraditionen hier*
+**[HISTORISCH / ARCHÄOLOGISCH — MÖGLICH]**
 
-**I-B1. Stadtbau und königliche Legitimation**
+#### I-B1. Stadtbau und königliche Legitimation
+**[HISTORISCH / ARCHÄOLOGISCH — DOKUMENTIERT]**
 Genesis 4:17 stellt Kain als den Erbauer der ersten Stadt dar und benennt sie nach seinem Sohn. In der Monarchieperiode war Stadtbau ein königliches Vorrecht und ein primärer Legitimationsakt. David eroberte Jerusalem; Salomo baute den Tempel- und Palastkomplex; Omri baute Samaria. Königliche Inschriften im gesamten Alten Orient rühmten sich der Stadtgründung und des Mauerbaus. Die Genesis-Erzählung platziert den Ursprung des Städtebaus nicht bei einem rechtschaffenen Gründer, sondern beim ersten Mörder — eine Erzählung, die implizit die Ideologie königlicher Stadterweiterung in Frage stellt. Dass der Text sagt, Kain „baute" (Partizip, laufender Bau), ohne den Abschluss zu verzeichnen, ist eine subtile Zweideutigkeit: Die Stadt bleibt im Text unvollendet.
 
-**I-B2. Metallverarbeitung und die Kenitenverbindung**
+#### I-B2. Metallverarbeitung und die Kenitenverbindung
+**[HISTORISCH / ARCHÄOLOGISCH — WAHRSCHEINLICH]**
 Tuval-Kain (4:22), Vorfahre der Metallarbeiter, hat einen Namen, der mit *Kain* (Qayin) verwandt ist und möglicherweise mit den Kenitern (*qeni*), einem Metallarbeiterclans, der mit Moses Schwiegervater Jitro assoziiert ist (Richter 1:16; 4:11). Im eisenzeitlichen Israel war Metallverarbeitung ein Spezialhandwerk, das oft von umherziehenden Handwerkern ausgeübt wurde. Die Verbindung zwischen den Kenitern (Schmiede, die mit Israel verbündet waren) und Kain (dem verfluchten Mörder) ist ein Texträtsel, das die Erzählung nicht auflöst — dieselbe Grundwurzel des Namens deckt sowohl einen verfluchten Vorfahren als auch einen verbündeten Clan ab. Diese Ambiguität ist ein Merkmal des Textes, kein Fehler.
 
-**I-B3. Blutrache und die Grenzen des Gesetzes**
+#### I-B3. Blutrache und die Grenzen des Gesetzes
+**[HISTORISCH / ARCHÄOLOGISCH — DOKUMENTIERT]**
 Lamechs Lied (4:23-24) steigert Kains Schutz: „Wenn Kain siebenfach gerächt wird, dann Lamech siebenundsiebzigfach." In der Monarchieperiode war die Spannung zwischen clanbasierter Rache (*Bluträcher*) und königlicher/juristischer Autorität akut. Davids Herrschaft umfasst mehrere Blutrache-Episoden (2. Sam 3, 14, 21). Die Zufluchtsstädte (Num 35; Dtn 19) stellen einen rechtlichen Versuch dar, das Vendetta-System zu regulieren. Lamechs Prahlerei, in der kainitischen Linie platziert, stellt eine Gewalteskalation dar, mit der die Gesetzgebung nicht Schritt halten kann — eine Spannung, die das Monarchiepublikum als aktuell erkannt hätte.
 
 *Für den vollständigen historischen Kontext dieses Zeitraums mit allen 10 Kategorien siehe Genesis 1 Begleitmaterial Abschnitt I, Szenario B.*
 
 ---
 
-### Szenario C: Falls während der exilischen/nachexilischen Periode verfasst (~6.–5. Jh. v. Chr.)
-**[HISTORISCH / ARCHÄOLOGISCH — WAHRSCHEINLICH]** *(Wissenschaftlicher Konsens für die Endgestalt)*
+### Szenario C: Falls während der exilischen/nachexilischen Periode verfasst (~6.–5. Jh. v. Chr.) — *Wissenschaftlicher Konsens für die Endgestalt*
+**[HISTORISCH / ARCHÄOLOGISCH — WAHRSCHEINLICH]**
 
-**I-C1. Die *Apkallu*-Tradition und die kainitische Kulturgenealögie**
+#### I-C1. Die *Apkallu*-Tradition und die kainitische Kulturgenealögie
+**[HISTORISCH / ARCHÄOLOGISCH — DOKUMENTIERT]**
 Die babylonische Tradition schrieb den Ursprüngen der Zivilisation — Schreiben, Landwirtschaft, Architektur, Musik, Metallverarbeitung — den *Apkallu* zu: sieben halbgöttlichen Weisen, die von Enki/Ea vor der Flut gesandt wurden, um die Menschheit zu unterweisen. Die Kulturgenealögie in Genesis 4 (Zeltleben, Musik, Metallverarbeitung, alle in Kains Linie entspringend) deckt ähnliche zivilisatorische Kategorien ab, schreibt sie aber nicht göttlichen Weisen, sondern den Nachkommen des ersten Mörders zu. Jüdische Exilanten, die in Babylon lebten, wo die *Apkallu*-Tradition aktiv gepflegt wurde, hätten die Parallele und die Umkehrung erkannt: Zivilisation ist menschlich, nicht halbgöttlich; sie entsteht aus einer fehlerhaften Abstammungslinie, nicht als göttliches Geschenk.
 
-**I-C2. Landwirtschaftliche und hirtenbasierte Wirtschaften in Babylonien**
+#### I-C2. Landwirtschaftliche und hirtenbasierte Wirtschaften in Babylonien
+**[HISTORISCH / ARCHÄOLOGISCH — VERIFIZIERT]**
 Das Tigris-Euphrat-Tal in der exilischen Periode war intensiv landwirtschaftlich geprägt — bewässerter Kanalbau produzierte Gerste, Datteln und Gemüse. Hirtenwirtschaft betrieb in den Steppenregionen östlich und westlich der Flusssysteme. Das Muraschu-Archiv (5. Jh. v. Chr.) zeigt jüdische Familien in Babylonien, die in landwirtschaftliche Pachtverträge und Warenhandel eingebunden waren — sie waren in die Landwirtschaft ihrer Unterdrücker eingebettet. Die Kain-Abel-Spannung wäre nicht als ferne Urgeschichte lesbar gewesen, sondern als strukturelle Realität der sie umgebenden Wirtschaft: der Bauer und der Hirte, im Wettbewerb.
 
-**I-C3. Brudermord und nationales Trauma**
+#### I-C3. Brudermord und nationales Trauma
+**[HISTORISCH / ARCHÄOLOGISCH — WAHRSCHEINLICH]**
 Für eine Gemeinschaft, die die Zerstörung Jerusalems erlebt hatte, die Ermordung der Söhne König Zedekias vor seinen Augen (2. Könige 25:7) und die Zerstreuung von Familien über Babylon und Ägypten, trug die Genesis-4-Erzählung vom Bruder, der den Bruder tötet, das Gewicht jüngster nationaler Erinnerung. Die Frage „Wo ist dein Bruder?" (4:9) — und Kains Ausweichen — resonierte in einer Gemeinschaft, die gesehen hatte, wie Familien zerstört, Verbündete getötet und das soziale Gefüge der Verwandtschaft durch imperiale Eroberung zerrissen worden war. Die Kain-Erzählung ist in diesem Kontext nicht nur Urgeschichte; sie ist eine Linse auf die Gegenwart.
 
-**I-C4. Das Zeichen Kains und persische Verwaltungspraxis**
+#### I-C4. Das Zeichen Kains und persische Verwaltungspraxis
+**[HISTORISCH / ARCHÄOLOGISCH — WAHRSCHEINLICH]**
 Das Persische Reich verwaltete seine weiten Territorien teilweise durch Identifikationszeichen, Siegel und Verwaltungsmarken, die Individuen und ihren Status verfolgten. Das *ot* (Zeichen, Mal, Marke) in 4:15 ist dasselbe Wort, das für astronomische Zeichen (Gen 1:14), Beschneidung (*brit ot*, Gen 17:11) und das Passah-Blut an den Türpfosten (Exodus 12:13) verwendet wird. In jedem Fall markiert das *ot* eine Person oder einen Ort als unter besonderem Schutz oder Bundesstatus stehend. Das Zeichen Kains ist keine Brandmarkung der Schande — der Text ist explizit, dass es ein Schutz ist. In einem persischen Verwaltungskontext war eine autoritative Marke, die andere daran hindert, gegen den Träger vorzugehen, eine erkennbare Form kaiserlichen Schutzes.
 
 *Für den vollständigen historischen Kontext dieses Zeitraums mit allen 10 Kategorien siehe Genesis 1 Begleitmaterial Abschnitt I, Szenario C.*
 
 ---
 
-### Szenario D: Falls während der persischen/frühen hellenistischen Periode redigiert (~4.–3. Jh. v. Chr.)
-**[HISTORISCH / ARCHÄOLOGISCH — MÖGLICH]** *(Verbunden mit der abschließenden Pentateuchgestaltung)*
+### Szenario D: Falls während der persischen/frühen hellenistischen Periode redigiert (~4.–3. Jh. v. Chr.) — *Verbunden mit der abschließenden Pentateuchgestaltung*
+**[HISTORISCH / ARCHÄOLOGISCH — MÖGLICH]**
 
-**I-D1. Griechische Genealogieliteratur und Kulturanfänge**
+#### I-D1. Griechische Genealogieliteratur und Kulturanfänge
+**[HISTORISCH / ARCHÄOLOGISCH — DOKUMENTIERT]**
 Die griechische Literaturtradition schrieb den Ursprüngen von Künsten, Handwerk und Zivilisation legendären Erfindern (*heuretai* — „erste Entdecker") zu. Hesiod schrieb das Feuer Prometheus zu; spätere griechische Traditionen katalogisierten den ersten Erfinder von Musik, Schreiben, Landwirtschaft und Metallurgie. Die hellenistische Periode produzierte elaborierte Listen kultureller Stammeltern. Die Genealogie von Kains Linie in Genesis 4 — mit benannten Gründern für Zeltleben/Hirtentum, Musik und Metallverarbeitung — nimmt am selben intellektuellen Genre teil, unterscheidet sich aber in ihrer Rahmung: Diese Erfinder sind keine Helden oder Halbgötter, sondern Nachkommen des ersten Mörders. Die Ursprünge der Zivilisation sind moralisch komplex statt heroisch rein.
 
-**I-D2. Opfer im Judentum des Zweiten Tempels**
+#### I-D2. Opfer im Judentum des Zweiten Tempels
+**[HISTORISCH / ARCHÄOLOGISCH — DOKUMENTIERT]**
 In der persischen/hellenistischen Periode war das Opfer im Zweiten Tempel (wieder aufgebaut ~515 v. Chr.) der zentrale Akt der israelitischen Religion. Die Regeln, die ein akzeptables Opfer ausmachten — das Erstlinge-Prinzip, die Fettteile, die Unterscheidung zwischen fehlerlosem und fehlerhaftem Tier — waren in Levitikus und Numeri formalisiert. Die Lektüre von Genesis 4:3-4 in diesem Kontext platzierte Kains abgelehntes Opfer in einem erkennbaren System: Er brachte *irgendwelche* Früchte, nicht die Erstfrüchte; Abel brachte spezifisch die Erstlinge und ihre Fettteile. Die Ritualanforderungen, die Juden des Zweiten Tempels als für akzeptable Verehrung maßgebend verstanden, waren rückblickend in der Urerzählung sichtbar.
 
-**I-D3. Urbanisierung und die hellenistische Stadt (*Polis*)**
+#### I-D3. Urbanisierung und die hellenistische Stadt (*Polis*)
+**[HISTORISCH / ARCHÄOLOGISCH — DOKUMENTIERT]**
 Die hellenistische Periode war das große Zeitalter der Stadtgründung: Alexander gründete Alexandria und Dutzende anderer Städte; Seleukiden und Ptolemäer bauten und benannten Städte im gesamten Nahen Osten um. Die *Polis* — der griechische Stadtstaat mit seiner Agora, seinen Tempeln, seinem Gymnasium und seinen Bürgereinrichtungen — war das Modell des zivilisierten Lebens. Die Zuschreibung der ersten Stadt an den ersten Mörder in Genesis 4:17 hätte in diesem Kontext satirisches Gewicht getragen: Die *Polis*-Tradition verfolgte ihre Ursprünge auf ideale Gesetzgeber (Solon, Lykurg) zurück; die Genesis-Tradition führt die Urbanisierung auf Kain zurück. Die Gegenerzählung ist implizit, aber pointiert.
 
 *Für den vollständigen historischen Kontext dieses Zeitraums mit allen 10 Kategorien siehe Genesis 1 Begleitmaterial Abschnitt I, Szenario D.*

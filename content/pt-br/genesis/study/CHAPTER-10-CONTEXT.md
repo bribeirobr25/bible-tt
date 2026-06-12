@@ -171,59 +171,70 @@ A contagem tradicional dos nomes em Gênesis 10 produz aproximadamente 70 povos 
 
 ---
 
-### Cenário A: Se composto durante o período mosaico (~séc. XIII a.C.)
-**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]** *(Atribuição tradicional)*
+### Cenário A: Se composto durante o período mosaico (~séc. XIII a.C.) — *Atribuição tradicional*
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 
-**I-A1. O mundo conhecido da perspectiva levantina da Idade do Bronze Tardio**
+#### I-A1. O mundo conhecido da perspectiva levantina da Idade do Bronze Tardio
+**[HISTÓRICO / ARQUEOLÓGICO — VERIFICADO]**
 O horizonte geográfico de Gênesis 10 mapeia de perto o mundo conhecido por um observador levantino no século XIII a.C. As grandes potências — Mitsrayim (Egito), Asshur (Assíria), os hititas (possivelmente Tubal ou Togarmah), as cidades-estado cananéias e os povos marítimos da costa mediterrânea — estavam todas ativas. Erekh (Uruk) e Acade eram centros mesopotâmicos antigos. Tsidon (Sídon) era um porto fenício em funcionamento. Os "povos das costas" (10:5) — associados a Yavan (Jônia/Grécia), Kittim (Chipre) e Tarshish — representam a borda ocidental extrema dos contatos comerciais já documentados na Idade do Bronze Tardio pelo naufrágio de Uluburun (c. 1300 a.C.) e pela correspondência de Amarna. Gênesis 10 mapeia o mundo tal como era conhecido por um observador culto desse período.
 
-**I-A2. Como os povos da Idade do Bronze Tardio classificavam outros povos**
+#### I-A2. Como os povos da Idade do Bronze Tardio classificavam outros povos
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 Textos egípcios classificavam os povos pelos quatro pontos cardeais: asiáticos (sírios/cananeus) ao nordeste, líbios ao oeste, núbios ao sul e asiáticos do extremo leste. Os registros hititas organizavam os povos sujeitos por território e obrigações de tributo. As Cartas de Amarna (séc. XIV a.C.) mostram um sistema de grandes reis e reis vassalos, com zonas geográficas correspondentes. A taxonomia quádrupla de Gênesis 10 — clãs, línguas, terras, nações (10:5, 20, 31) — é mais sofisticada do que o modelo direcional egípcio ou o modelo de tributo hitita: ela reconhece que o que faz um povo são múltiplos fatores entrelaçados, não apenas geografia ou lealdade política.
 
-**I-A3. Rotas comerciais conectando os povos de Gênesis 10**
+#### I-A3. Rotas comerciais conectando os povos de Gênesis 10
+**[HISTÓRICO / ARQUEOLÓGICO — VERIFICADO]**
 A Idade do Bronze Tardio foi um período de intenso comércio internacional. O naufrágio de Uluburun (recuperado ao largo do sul da Turquia) carregava carga de pelo menos onze culturas diferentes: vinho e azeite de oliva cananeus, joias egípcias, cobre de Chipre, estanho da Ásia Central, ébano da África, âmbar do Báltico. Os povos nomeados em Gênesis 10 — Tsidon, Mitsrayim (Egito), Sheva (Sabá/Iêmen), Tarshish, Kittim (Chipre) — marcam nós nessa rede. A Tábua das Nações não é um documento de isolamento, mas de conectividade: esses povos se conheciam, comercializavam entre si e competiam. O enquadramento genealógico que os mapeia como família está sobreposto a uma realidade econômica de profunda interdependência.
 
-**I-A10. A Tábua das Nações como esquema etnográfico**
+#### I-A10. A Tábua das Nações como esquema etnográfico
 **[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
 Gênesis 10 lista aproximadamente 70 povos (a contagem varia por tradição — o Texto Massorético produz 70; a Septuaginta inclui Elisha e produz 72; a tradição rabínica estabiliza em 70 como a contagem canônica). Este é o catálogo etnográfico mais extenso da Bíblia Hebraica e um dos documentos estruturalmente mais incomuns da literatura do AOP. **Não existe paralelo direto no AOP para uma etnografia genealógica tripartida do mundo conhecido.** Os textos de execração egípcios listam inimigos por cidade e região; os "Tratados Geográficos" acádios catalogam topônimos; os textos sumérios "Lugal-banda" listam povos encontrados em viagens mitológicas — mas nenhum combina (a) um único ancestral à cabeça, (b) três filhos primários produzindo três ramos primários, (c) descendentes secundários nomeados estendendo-se até periferias, e (d) uma cobertura aproximadamente abrangente do mundo conhecido. O alcance geográfico da Tábua (Mediterrâneo Oriental → Mesopotâmia → Arábia → Egito → Norte da África → sudoeste da Europa) mapeia o mundo do qual um escriba egípcio ou levantino da Idade do Bronze Tardio teria conhecimento crível. A inovação estrutural da Tábua — parentesco genealógico como esquema organizador para a diferença política-étnica — codifica uma cosmovisão na qual todos os povos compartilham uma ancestralidade comum, distinguidos por ramo de linhagem em vez de por categoria ontológica (como em egípcio "asiáticos vs. egípcios vs. africanos" ou mesopotâmico "civilizado vs. bárbaro"). Esta cosmovisão de parentesco carrega peso teológico: o chamado avraâmico em Gn 12 é a um ramo dentro de uma humanidade que é genealogicamente contínua. **Fonte:** Hess, R.S., *Studies in the Personal Names of Genesis 1-11*, AOAT 234, Neukirchener Verlag, 1993; Lipiński, E., "Les Japhétites selon Gen 10,2-4 et 1 Chr 1,5-7," *Zeitschrift für Althebraistik* 3 (1990); Day, J., *From Creation to Babel*, 2013, cap. 7 (Tábua das Nações). **[PEER-REVIEWED — DOCUMENTED]**
 
 ---
 
-### Cenário B: Se composto durante o período monárquico (~séc. X-IX a.C.)
-**[HISTÓRICO / ARQUEOLÓGICO — POSSÍVEL]** *(Alguns estudiosos situam aqui as tradições das fontes primitivas)*
+### Cenário B: Se composto durante o período monárquico (~séc. X-IX a.C.) — *Alguns estudiosos situam aqui as tradições das fontes primitivas*
+**[HISTÓRICO / ARQUEOLÓGICO — POSSÍVEL]**
 
-**I-B1. Nimrod e a crítica do império**
+#### I-B1. Nimrod e a crítica do império
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 A digressão sobre Nimrod (10:8-12) descreve a fundação de Babel, Erekh (Uruk), Acade e Nínive — as capitais dos grandes impérios mesopotâmicos que precederam e cercaram Israel. No período monárquico, a Assíria era a superpotência emergente ao nordeste (o Monólito de Kurh, 853 a.C., registra Acabe de Israel contribuindo 2.000 carros de guerra para uma coalizão contra Salmaneser III). Um público israelita que assistia à expansão do poder assírio teria lido a trajetória de Nimrod — de caçador a rei a fundador de cidades — como uma descrição comprimida da ambição imperial mesopotâmica. A ambiguidade do texto sobre Nimrod ("diante de YHWH" — aprovação ou desafio?) pode refletir a própria ambivalência do período monárquico sobre a realeza: poderosa, impressionante e potencialmente transgressora.
 
-**I-B2. A Tábua das Nações como mapa geopolítico de Israel**
+#### I-B2. A Tábua das Nações como mapa geopolítico de Israel
+**[HISTÓRICO / ARQUEOLÓGICO — PROVÁVEL]**
 A correspondência diplomática de Salomão (1 Rs 4-5; 10) conectava Israel ao Egito, Tiro, Sabá e Ofir. O período monárquico foi a primeira vez que Israel operou como Estado reconhecível nas relações internacionais. A Tábua das Nações de Gênesis 10, lida nesse contexto, funciona como um mapa geopolítico do mundo conhecido de Israel expresso em termos genealógicos. Mitsrayim (Egito) é parceiro comercial e adversário ocasional (linhagem de Cam). Tsidon (Sídon) é aliado (Hiram de Tiro; 1 Rs 5). Asshur (Assíria) é a crescente ameaça nordestina. A Tábua coloca todas essas relações dentro de um único enquadramento familiar — fornecendo fundamento teológico para a política externa de Israel ao traçar todas as nações de volta a uma única origem.
 
-**I-B3. Tradições de fundação de cidades e o programa de construção salomônico**
+#### I-B3. Tradições de fundação de cidades e o programa de construção salomônico
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 O período monárquico viu a primeira construção monumental significativa de Israel: o templo de Salomão, o palácio e as cidades fortificadas (Hazor, Megido, Gezer — 1 Rs 9:15). A fundação de cidades era um ato real em todo o antigo Oriente Próximo. A lista de cidades fundadas por Nimrod (10:10-12) espelha a linguagem das inscrições reais mesopotâmicas que celebravam reis como construtores de cidades, templos e muralhas. Um leitor israelita no período do programa de construção de Salomão teria reconhecido a fundação de cidades por Nimrod como um ato de autoafirmação real — o império expresso em pedra. A contenção do texto (sem condenação explícita do programa de construção de Nimrod) espelha a própria ambivalência da tradição monárquica em relação aos seus projetos de construção.
 
 ---
 
-### Cenário C: Se composto durante o período Exílico/Pós-Exílico (~séc. VI-V a.C.)
-**[HISTÓRICO / ARQUEOLÓGICO — PROVÁVEL]** *(Consenso acadêmico para a forma final)*
+### Cenário C: Se composto durante o período Exílico/Pós-Exílico (~séc. VI-V a.C.) — *Consenso acadêmico para a forma final*
+**[HISTÓRICO / ARQUEOLÓGICO — PROVÁVEL]**
 
-**I-C1. Babel, Erekh, Acade, Nínive — lendo a Tábua de dentro da Mesopotâmia**
+#### I-C1. Babel, Erekh, Acade, Nínive — lendo a Tábua de dentro da Mesopotâmia
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 Os exilados judeus na Babilônia (586-539 a.C.) viviam dentro do mundo descrito em Gênesis 10:10-12. Babilônia era a capital imperial. Nippur (perto do antigo Nippur/Kalneh?) era um centro de assentamento judeu (atestado pelo Arquivo Murashu). Os nomes na lista de cidades de Nimrod — Babel, Erekh (Uruk), Acade, Nínive — não eram história antiga, mas geografia presente. Ler que essas cidades foram fundadas por um descendente de Cham, sob a frase ambígua "diante de YHWH", dava aos exilados um enquadramento teológico para seus captores: o poder da Babilônia estava genealogicamente localizado, historicamente delimitado e ambiguamente avaliado. Não era eterno; era um ramo de uma árvore genealógica cuja raiz era Noach (Noé).
 
-**I-C2. Classificação etnográfica e a questão da identidade na diáspora**
+#### I-C2. Classificação etnográfica e a questão da identidade na diáspora
+**[HISTÓRICO / ARQUEOLÓGICO — PROVÁVEL]**
 A taxonomia quádrupla de Gênesis 10 — clãs, línguas, terras, nações — era praticamente relevante para exilados judeus que navegavam a sociedade imperial babilônica e depois persa. O que fazia um povo? Na prática administrativa babilônica, os povos eram classificados por território e categoria de tributo. Na prática imperial persa, os povos sujeitos eram classificados por língua e costume religioso (o Cilindro de Ciro reconhecia os deuses de cada povo). Gênesis 10 oferecia uma resposta diferente: um povo é definido por parentesco, língua, território e identidade política conjuntamente. Exilados judeus mantendo identidade na Babilônia — preservando o hebraico liturgicamente enquanto falavam aramaico no cotidiano, mantendo genealogias familiares enquanto viviam em terra estrangeira — estavam praticando a taxonomia quádrupla de Gênesis 10 na prática.
 
-**I-C3. A família universal como reivindicação teológica contra o universalismo imperial**
+#### I-C3. A família universal como reivindicação teológica contra o universalismo imperial
+**[HISTÓRICO / ARQUEOLÓGICO — PROVÁVEL]**
 A Babilônia reivindicava ser o centro do mundo — *Bab-ili*, o "Portão de Deus", o ponto de encontro entre o céu e a terra. A Enuma Elish apresentava Marduk como criador de todos os povos e Babilônia como capital divinamente ordenada. A Tábua das Nações de Gênesis 10 é uma contranarrativa: todos os povos, incluindo a Babilônia, originam-se de uma única família, e a história dessa família é narrada na tradição de Israel, não da Babilônia. Os babilônios (via Nimrod e as cidades de Shinar) aparecem na tábua — mas como descendentes de Cham, colocados no meio da tábua, avaliados ambiguamente. A família universal tem um centro, mas não é Babilônia.
 
 ---
 
-### Cenário D: Se redatado durante o período Persa/proto-Helenístico (~séc. IV-III a.C.)
-**[HISTÓRICO / ARQUEOLÓGICO — POSSÍVEL]** *(Associado à configuração pentateucal final)*
+### Cenário D: Se redatado durante o período Persa/proto-Helenístico (~séc. IV-III a.C.) — *Associado à configuração pentateucal final*
+**[HISTÓRICO / ARQUEOLÓGICO — POSSÍVEL]**
 
-**I-D1. A Tábua das Nações e o mundo helenístico em expansão**
+#### I-D1. A Tábua das Nações e o mundo helenístico em expansão
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 Nos séculos IV-III a.C., as conquistas de Alexandre haviam estendido dramaticamente o mundo conhecido para o leste (até o vale do Indo) e reforçado a consciência grega de toda a bacia mediterrânea. O horizonte geográfico de Gênesis 10 — de Tarshish a oeste até Elam a leste, de Kush ao sul até Togarmah ao norte — era agora inteiramente legível de uma perspectiva helenística. Yavan (Jônia/Grécia), listado como filho de Yafet (10:2), era por esse período a potência cultural dominante. Escribas judeus finalizando o texto nesse período estariam cientes de que Yavan, colocado de forma relativamente periférica na tábua como povo costeiro (10:4-5), havia se tornado a força cultural mais poderosa do mundo — um contraste que não precisava de comentário, mas seria imediatamente registrado.
 
-**I-D2. Como a etnografia grega se comparava a Gênesis 10**
+#### I-D2. Como a etnografia grega se comparava a Gênesis 10
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 Historiadores e geógrafos gregos estavam desenvolvendo suas próprias tradições etnográficas nos séculos IV-III a.C. Heródoto (séc. V a.C.) organizava os povos por geografia e costume; Hecateu mapeou o mundo conhecido; Aristóteles teorizou sobre as capacidades naturais de diferentes povos. A etnografia genealógica de Gênesis 10 — todos os povos como família, organizados por parentesco, língua, território e identidade política — diferia fundamentalmente do modelo grego, que usava o determinismo ambiental (climas quentes produzem povos apaixonados; climas frios, lentos) para explicar a diversidade étnica. O modelo hebraico atribuía a diversidade humana à descendência histórica de uma única família, não ao clima ou à natureza. Era uma diferença intelectual substantiva, não meramente estilística.
 
 ---

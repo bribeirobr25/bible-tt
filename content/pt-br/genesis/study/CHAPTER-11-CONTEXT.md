@@ -195,59 +195,70 @@ Gn 11:26: "Terá viveu setenta anos e gerou Abrão, Naor e Haran." Gn 11:32: "Os
 
 ---
 
-### Cenário A: Se composto durante o período mosaico (~séc. XIII a.C.)
-**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]** *(Atribuição tradicional)*
+### Cenário A: Se composto durante o período mosaico (~séc. XIII a.C.) — *Atribuição tradicional*
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 
-**I-A1. Os zigurates como o público os conhecia**
+#### I-A1. Os zigurates como o público os conhecia
+**[HISTÓRICO / ARQUEOLÓGICO — VERIFICADO]**
 No século XIII a.C., os zigurates já haviam sido construídos por toda a Mesopotâmia por mais de mil anos. Ur-Namu da Terceira Dinastia de Ur (c. 2112-2095 a.C.) construiu o grande zigurate de Ur, cujas ruínas ainda se mantêm. Zigurates em Eridu, Nippur, Assur e outras cidades eram marcos antigos. Um público israelita, mesmo no Sinai ou no início do período em Canaã, poderia ter conhecido os zigurates por reputação, por meio dos contatos asiáticos do Egito — textos egípcios mencionam cidades mesopotâmicas e sua arquitetura monumental. Os materiais de construção da narrativa de Babel (tijolos queimados, betume — ambos distintivamente mesopotâmicos, em oposição à pedra usada em Canaã e no Egito) sinalizariam a um público informado: esta história se passa no coração da civilização, e a forma arquitetônica característica dessa civilização está sendo descrita.
 
-**I-A2. Diversidade linguística na Idade do Bronze Tardio**
+#### I-A2. Diversidade linguística na Idade do Bronze Tardio
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 A Idade do Bronze Tardio foi um período de multilinguismo intensivo. As Cartas de Amarna (séc. XIV a.C.) mostram reis de cidades cananéias escrevendo ao faraó egípcio em acadiano (a língua diplomática) com glosas cananéias inseridas. Escribas hititas usavam a escrita cuneiforme para hitita, acadiano, sumério, luvita e hurrita simultaneamente. A escola escribal de Ugarit ensinava múltiplos sistemas de escrita. A diversidade de línguas era uma realidade prática para qualquer pessoa envolvida em comércio ou diplomacia. A explicação de Gênesis 11 para a diversidade linguística como originada da intervenção divina em Babel teria abordado uma questão que todo correspondente diplomático multilíngue enfrentava implicitamente: por que precisamos de tantos tradutores?
 
-**I-A3. Ambição urbana versus a vida no deserto**
+#### I-A3. Ambição urbana versus a vida no deserto
+**[HISTÓRICO / ARQUEOLÓGICO — PROVÁVEL]**
 A narrativa mosaica enquadra Israel como um povo chamado para sair das cidades do Egito e da escravidão que elas implicam, sustentado pela provisão divina no deserto, destinado a uma terra que cultivariam. O impulso antiurbano da narrativa de Babel — construir uma cidade para fazer um nome, resistido por YHWH — teria ressonância imediata. O Egito era uma civilização de construção monumental (as pirâmides já tinham 1.000 anos na época de Moisés). O impulso dos construtores de Babel de criar um monumento arquitetônico a si mesmos espelha o programa de construção faraônico ao qual Israel havia servido como trabalho escravo. A perturbação de Babel por YHWH é estruturalmente paralela à libertação do Egito por YHWH: em ambos os casos, a intervenção divina perturba um projeto de autoelevação humana.
 
-**I-A5. Origens da diversidade linguística no pensamento do AOP**
+#### I-A5. Origens da diversidade linguística no pensamento do AOP
 **[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
 O relato de Gênesis 11:1-9 sobre a confusão das línguas fornece a única narrativa do AOP sobre como a diversidade linguística humana originou-se como um evento único. O texto comparativo mais próximo é o sumério "Enmerkar e o Senhor de Aratta" (tradição textual do terceiro milênio AEC; preservado em cópias paleobabilônicas c. 1900 AEC), que contém uma breve passagem onde o deus da tempestade Enki perturba a unidade da língua entre "as terras de Subir e Hamazi, de Sumer falando muitas línguas, de Uri, de Martu." No texto sumério, a perturbação aparece como referência passageira dentro de um épico mais longo; em Gênesis 11, é a peça central de uma narrativa etiológica. O mundo escribal da Idade do Bronze Tardio era agudamente consciente do multilinguismo — o acádio servia como língua franca diplomática atestada em centenas de tabletes de barro (as Cartas de Amarna, c. séc. XIV AEC, preservam correspondência egípcia-cananeia-mesopotâmica em acádio); textos administrativos locais usavam hierático egípcio, hitita, ugarítico e vários dialetos cananeus; as escritas alfabéticas emergindo no Levante (proto-sinaítico, proto-cananeu) eram uma inovação regional nessa ecologia multilíngue. Uma audiência israelita do período mosaico teria entendido "uma só língua" de Babel como uma recordação contrafactual: a diversidade linguística é a realidade vivida, e Gênesis 11 explica como ela veio a ser. **Fonte:** Klein, J., "The Marriage of Martu: A Sumerian Composition," in *Bar-Ilan Studies in Assyriology* (1997); Vanstiphout, H., *Epics of Sumerian Kings: The Matter of Aratta*, Society of Biblical Literature, 2003 (texto de Enmerkar); van der Toorn, K., *Scribal Culture and the Making of the Hebrew Bible*, Harvard University Press, 2007 (contexto escribal multilíngue). **[PEER-REVIEWED — DOCUMENTED]**
 
 ---
 
-### Cenário B: Se composto durante o período monárquico (~séc. X-IX a.C.)
-**[HISTÓRICO / ARQUEOLÓGICO — POSSÍVEL]** *(Alguns estudiosos situam aqui as tradições das fontes primitivas)*
+### Cenário B: Se composto durante o período monárquico (~séc. X-IX a.C.) — *Alguns estudiosos situam aqui as tradições das fontes primitivas*
+**[HISTÓRICO / ARQUEOLÓGICO — POSSÍVEL]**
 
-**I-B1. O programa de construção de Salomão e o eco de Babel**
+#### I-B1. O programa de construção de Salomão e o eco de Babel
+**[HISTÓRICO / ARQUEOLÓGICO — PROVÁVEL]**
 O período monárquico viu a primeira construção monumental significativa de Israel: o templo de Salomão (sete anos), o palácio (treze anos) e as cidades fortificadas. A oração de dedicação do templo (1 Rs 8:27) pergunta: "Mas habitará verdadeiramente Deus na terra? Eis que os céus e os céus dos céus não te podem conter." A tensão entre a transcendência divina e a aspiração arquitetônica humana é explicitamente levantada na própria tradição de Salomão. Os construtores de Babel querem uma torre "com seu topo nos céus" (11:4) e uma cidade que preservará seu nome (11:4). Salomão constrói uma casa para o nome de YHWH (1 Rs 8:16-20). O período monárquico estava ocupado exatamente com essa questão: qual é a relação adequada entre a construção humana e a presença divina?
 
-**I-B2. Urbanização e o comando de dispersão**
+#### I-B2. Urbanização e o comando de dispersão
+**[HISTÓRICO / ARQUEOLÓGICO — PROVÁVEL]**
 O período monárquico viu Israel transitar de uma confederação tribal para um Estado centralizado com capital, templo e aparato administrativo. A perturbação divina da urbanização em Babel — o objetivo dos construtores era evitar a dispersão (11:4); a resposta de YHWH foi dispersá-los (11:8) — teria suscitado questões pontuais nesse contexto. Seria Jerusalém outro Babel? Seria o templo outra torre? Os profetas que desafiaram Salomão e seus sucessores (Natã, Elias, Amós) se apoiavam precisamente nessa tradição antiurbana. A história de Babel fornecia a narrativa fundadora do ceticismo em relação ao poder político e religioso concentrado.
 
-**I-B3. As cidades mesopotâmicas como o império que ameaçava Israel**
+#### I-B3. As cidades mesopotâmicas como o império que ameaçava Israel
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 No século IX a.C., a Assíria (cujas cidades fundadoras — Nínive, Calá/Kelach — aparecem em Gênesis 10:11-12, a lista de Nimrod que precede este capítulo) estava iniciando sua expansão para o oeste. O Monólito de Kurh (853 a.C.) registra as campanhas de Salmaneser III na Síria e a coalizão levantina que resistiu a ele. A Babilônia era uma cidade-estado subordinada na época, mas mantinha prestígio cultural como a cidade mais antiga e famosa do mundo. Ler a narrativa da torre de Gênesis 11 contra esse pano de fundo: as grandes cidades da Mesopotâmia — Babel, Assur, Nínive — são apresentadas não como centros de bênção divina, mas como produto de um projeto que YHWH perturbou. Sua grandeza não confere legitimidade; sua fundação é resultado do julgamento divino.
 
 ---
 
-### Cenário C: Se composto durante o período Exílico/Pós-Exílico (~séc. VI-V a.C.)
-**[HISTÓRICO / ARQUEOLÓGICO — PROVÁVEL]** *(Consenso acadêmico para a forma final)*
+### Cenário C: Se composto durante o período Exílico/Pós-Exílico (~séc. VI-V a.C.) — *Consenso acadêmico para a forma final*
+**[HISTÓRICO / ARQUEOLÓGICO — PROVÁVEL]**
 
-**I-C1. Etemenanki — a torre de Babel como monumento conhecido**
+#### I-C1. Etemenanki — a torre de Babel como monumento conhecido
+**[HISTÓRICO / ARQUEOLÓGICO — VERIFICADO]**
 Os exilados judeus na Babilônia (586-539 a.C.) podiam ver o zigurate Etemenanki pessoalmente. Heródoto (1.181-183) o descreve como uma torre escalonada imensa com um templo no topo, usada para a descida do deus Marduk à terra. A inscrição de Nabucodonosor II descreve sua restauração do Etemenanki: "Ergui o topo do Etemenanki para que rivaliza com o céu." A frase "rivaliza com o céu" corresponde quase exatamente a Gênesis 11:4, "seu topo nos céus". Para os exilados judeus na Babilônia, a narrativa de Babel não era lenda antiga — era uma descrição do monumento visível a partir da cidade onde viviam. A ironia da descida de YHWH para ver uma torre construída para alcançar o céu (11:5) seria imediatamente legível para quem já havia estado à base do Etemenanki.
 
-**I-C2. Língua como identidade sob pressão imperial**
+#### I-C2. Língua como identidade sob pressão imperial
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 A administração imperial babilônica e persa exigia assimilação linguística. O aramaico tornou-se a *língua franca* do Império Persa (Ed 4:7; Dn 2:4 — o texto muda para o aramaico no ponto em que funcionários babilônios falam). O hebraico estava se tornando crescentemente uma língua literária e litúrgica em vez de cotidiana. Os exilados judeus na Babilônia navegavam um mundo de múltiplas línguas exatamente como Gênesis 11 descreve seu desfecho: diferentes povos, diferentes línguas, incapazes de comunicação plena. A narrativa de Babel, lida nesse contexto, explica a fragmentação linguística do império não como desenvolvimento natural, mas como ação divina — e implicitamente sugere que a unidade que a diversidade linguística impede é recuperável, já que um dia existiu.
 
-**I-C3. Migração: de Ur e Charan como a geografia ancestral dos exilados**
+#### I-C3. Migração: de Ur e Charan como a geografia ancestral dos exilados
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 Gênesis 11:31 descreve a família de Terach (Terá) se deslocando de Ur dos Kasdim (Caldeus) para Charan. "Ur dos Kasdim" — Ur dos Caldeus — usa o nome da dinastia governante da Babilônia (os Caldeus, o Império Neobabilônico). Para os exilados na Babilônia, o ponto de partida ancestral estava dentro da terra de seus captores atuais. A rota de migração de Ur a Charan seguia o Eufrates para o noroeste — o mesmo corredor geral que os exilados percorreriam em sentido inverso ao retornar a Canaã sob o decreto de Ciro (Ed 1-2). A geografia ancestral de Gênesis 11 mapeava as rotas que os próprios exilados conheciam: Mesopotâmia → alto Eufrates → Canaã.
 
 ---
 
-### Cenário D: Se redatado durante o período Persa/proto-Helenístico (~séc. IV-III a.C.)
-**[HISTÓRICO / ARQUEOLÓGICO — POSSÍVEL]** *(Associado à configuração pentateucal final)*
+### Cenário D: Se redatado durante o período Persa/proto-Helenístico (~séc. IV-III a.C.) — *Associado à configuração pentateucal final*
+**[HISTÓRICO / ARQUEOLÓGICO — POSSÍVEL]**
 
-**I-D1. A urbanização helenística e a questão de Babel**
+#### I-D1. A urbanização helenística e a questão de Babel
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 As campanhas de Alexandre (334-323 a.C.) produziram um dos maiores programas de construção urbana da história: Alexandria no Egito, Alexandria Eschate na Ásia Central, Antioquia na Síria, Selêucia no Tigre — novas cidades fundadas e nomeadas por seus fundadores humanos. Os construtores de Babel queriam "fazer um nome para nós" (11:4). Os fundadores de cidades helenísticas faziam exatamente isso, em escala sem precedentes. Para uma comunidade judaica finalizando o Pentateuco nos séculos IV-III a.C., a narrativa de Babel oferecia uma crítica teológica fundadora da ideologia de civilização-por-fundação-de-cidades que seus governantes helenísticos encarnavam. A dispersão dos construtores de Babel é a história de origem da diversidade que o império de Alexandre estava tentando reverter por meio da homogeneização cultural grega.
 
-**I-D2. Diversidade linguística num império multilíngue**
+#### I-D2. Diversidade linguística num império multilíngue
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 O período helenístico foi definido pela difusão do grego (*koiné*) como língua comum em um vasto mundo multilíngue. A tradução da Torá para o grego na Septuaginta (datada tradicionalmente do século III a.C. em Alexandria) é em si mesma evidência de que comunidades judaicas precisavam do texto sagrado na língua comum do império. Nesse contexto, o relato de Gênesis 11 sobre a diversidade linguística carrega uma dupla aresta: ele explica por que existem tantas línguas (ação divina) e implicitamente questiona o projeto de homogeneização linguística (que o império helenístico, como Babel, estava perseguindo). A Torá estava sendo traduzida para a língua do império; mas a própria narrativa da Torá dizia que a língua do império era uma das muitas resultantes da perturbação divina exatamente desse tipo de projeto unificador.
 
 ---

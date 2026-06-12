@@ -171,19 +171,23 @@ A fórmula diz que cada patriarca "gerou filhos e filhas" — mas nenhuma filha 
 
 ---
 
-### Cenário A: Se composto durante o período mosaico (~séc. XIII a.C.)
-**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]** *(Atribuição tradicional)*
+### Cenário A: Se composto durante o período mosaico (~séc. XIII a.C.) — *Atribuição tradicional*
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 
-**I-A1. Registros genealógicos na Idade do Bronze Tardio**
+#### I-A1. Registros genealógicos na Idade do Bronze Tardio
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 Listas que traçavam linhagens reais ou sacerdotais eram documentos administrativos padrão. Os faraós egípcios traçavam descendência dos deuses por meio de listas de reis inscritas nas paredes dos templos. Tratados de estado hititas incluíam preâmbulos ancestrais estabelecendo continuidade dinástica. Nesse contexto, uma genealogia escrita traçando uma linha de aliança de Adão a Noé funcionaria como um documento de identidade fundamental — estabelecendo de quem Israel descende e por quê.
 
-**I-A2. A Lista de Reis Suméria e a tradição antediluviana**
+#### I-A2. A Lista de Reis Suméria e a tradição antediluviana
+**[HISTÓRICO / ARQUEOLÓGICO — VERIFICADO]**
 A Lista de Reis Suméria (atestada no Prisma Weld-Blundell, c. 1800 a.C., mas refletindo tradições muito mais antigas) já era antiga no século XIII a.C. Se a tradição israelita encontrou a cultura escriba mesopotâmica por intermediários egípcios ou durante o período patriarcal, a genealogia antediluviana em Gênesis 5 teria se engajado com uma tradição já existente de listas de ancestrais pré-diluvianos com tempos de vida extraordinários.
 
-**I-A3. Números e calendário no antigo Oriente Próximo**
+#### I-A3. Números e calendário no antigo Oriente Próximo
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 A matemática mesopotâmica usava um sistema de base 60 (sexagesimal); 7 carregava significado sagrado em várias culturas. No século XIII a.C., um calendário solar de 365 dias era padrão no Egito (ligado ao ciclo de inundação do Nilo), enquanto a Mesopotâmia usava calendários baseados na lua ajustados periodicamente ao ano solar. Um tempo de vida de 365 anos — o de Enoque — ressoaria como um número de ano solar para públicos em qualquer tradição.
 
-**I-A4. "O sétimo a partir de" como posição de honra**
+#### I-A4. "O sétimo a partir de" como posição de honra
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 Nas tradições genealógicas e de listas de reis do antigo Oriente Próximo, a sétima figura frequentemente detém status especial: o sábio sumério Utuabzu, conselheiro do sétimo rei pré-diluviano Enmeduranki, teria "subido ao céu." O próprio Enmeduranki estava associado ao deus-sol e com segredos divinos. Em um contexto do período mosaico, a sétima posição de Enoque na lista de Gênesis 5 seria imediatamente reconhecida como uma posição de honra, não uma colocação incidental.
 
 ---
@@ -191,44 +195,54 @@ Nas tradições genealógicas e de listas de reis do antigo Oriente Próximo, a 
 ### Cenário B: Se composto durante o período monárquico (~séc. X–IX a.C.)
 **[HISTÓRICO / ARQUEOLÓGICO — POSSÍVEL]**
 
-**I-B1. Genealogias reais como legitimação**
+#### I-B1. Genealogias reais como legitimação
+**[HISTÓRICO / ARQUEOLÓGICO — PROVÁVEL]**
 A genealogia de Davi (Rt 4:18-22) e os registros da corte de Salomão representam o tipo de listas de ancestrais legitimadoras que os escribas monárquicos produziam. Nesse contexto, a genealogia de Gênesis 5 — traçando uma linha direta de Adão por meio de Set até Noé — funcionaria como fundamento ideológico: a identidade de aliança de Israel não traça através da linha construtora de cidades de Caim, mas através da linha que termina no único homem que "andou com Deus."
 
-**I-B2. Ancestrais de vida longa e tradição oral**
+#### I-B2. Ancestrais de vida longa e tradição oral
+**[HISTÓRICO / ARQUEOLÓGICO — PROVÁVEL]**
 Em culturas orais com escrita limitada, tempos de vida extraordinários de ancestrais serviam como dispositivo mnemônico e de autoridade. Uma figura que teria vivido 969 anos (Matusalém) poderia ser a ponte através de lacunas de outra forma intransponíveis entre a criação e o dilúvio. Em uma sociedade que transitava da transmissão oral para o registro escriba real, os números extremos da genealogia preservam o peso de uma tradição que alcança além da memória viva.
 
-**I-B3. A tradição de Enoque em um contexto pré-exílico**
+#### I-B3. A tradição de Enoque em um contexto pré-exílico
+**[HISTÓRICO / ARQUEOLÓGICO — PROVÁVEL]**
 Antes da elaborada literatura enoquiana do período do Segundo Templo, a breve nota de que Enoque "andou com Deus e não estava mais, porque Deus o tomou" (5:24) seria entendida contra o pano de fundo de figuras que foram tomadas ou transportadas — análogo ao posterior Elias (2 Rs 2:11). A contenção do texto do Gênesis contrasta fortemente com o que as culturas vizinhas diziam sobre seus sábios da sétima geração.
 
 ---
 
-### Cenário C: Se composto/finalizado durante o período exílico/pós-exílico (~séc. VI–V a.C.)
-**[HISTÓRICO / ARQUEOLÓGICO — PROVÁVEL]** *(Consenso acadêmico para a forma final)*
+### Cenário C: Se composto/finalizado durante o período exílico/pós-exílico (~séc. VI–V a.C.) — *Consenso acadêmico para a forma final*
+**[HISTÓRICO / ARQUEOLÓGICO — PROVÁVEL]**
 
-**I-C1. Genealogias sob a cultura imperial babilônica**
+#### I-C1. Genealogias sob a cultura imperial babilônica
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 As escolas escribas babilônicas mantinham listas de reis elaboradas, registros astronômicos e documentos de linhagem. Os judeus exilados vivendo na Babilônia encontrariam essas como ferramentas de identidade administrativa. Nesse contexto, a genealogia escrita de Gênesis 5 (*sefer toledot Adam*, "livro das gerações de Adão") afirmaria que a história de Israel é rastreável, documentada e contínua — uma contraafirmação às tradições babilônicas de que apenas os reis possuíam ancestralidade legitimadora.
 
-**I-C2. A Lista de Reis Suméria como tradição conhecida**
+#### I-C2. A Lista de Reis Suméria como tradição conhecida
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 No século VI a.C., a Lista de Reis Suméria e as tradições de Atrahasis estavam plenamente estabelecidas na cultura escriba mesopotâmica. Escribas judeus vivendo na Babilônia poderiam tê-las encontrado diretamente. As semelhanças da genealogia de Gênesis 5 (figuras antediluvianas, idades extraordinárias, dilúvio como evento divisor, declínio pós-diluviano) e suas diferenças (linha de aliança versus legitimação da realeza) seriam visíveis para quem conhecesse ambas as tradições.
 
-**I-C3. Cômputo de calendário e o sistema sexagesimal**
+#### I-C3. Cômputo de calendário e o sistema sexagesimal
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 A ciência astronômica babilônica — a mais avançada do mundo antigo — usava um sistema de base 60 para cálculo e rastreava o tempo com grande precisão. Nesse ambiente intelectual, os números de Gênesis 5 (expressáveis como combinações de 60 e 7, segundo Cassuto) carregariam ressonância imediata. Os 365 anos de Enoque registrariam como um número de ano solar para uma comunidade agora vivendo dentro da cultura calendárica mais avançada da antiguidade.
 
-**I-C4. Registros de ancestrais e identidade pós-catástrofe**
+#### I-C4. Registros de ancestrais e identidade pós-catástrofe
+**[HISTÓRICO / ARQUEOLÓGICO — PROVÁVEL]**
 Após a destruição babilônica de Jerusalém (586 a.C.), os registros genealógicos tornaram-se críticos para estabelecer linhagem sacerdotal, direitos sobre a terra e pertencimento à comunidade. Esdras 2 e Neemias 7 preservam listas de exilados que retornam organizadas por família. Nesse contexto, a genealogia escrita de Adão a Noé carregaria ressonância prática urgente: é um registro de quem pertence à linha de aliança, preservado através da catástrofe do dilúvio, assim como a comunidade exílica tentava preservar a identidade através da catástrofe da deportação.
 
 ---
 
-### Cenário D: Se redacionado durante o período persa/início do período helenístico (~séc. IV–III a.C.)
-**[HISTÓRICO / ARQUEOLÓGICO — POSSÍVEL]** *(Associado à configuração final do Pentateuco)*
+### Cenário D: Se redacionado durante o período persa/início do período helenístico (~séc. IV–III a.C.) — *Associado à configuração final do Pentateuco*
+**[HISTÓRICO / ARQUEOLÓGICO — POSSÍVEL]**
 
-**I-D1. A Torá como genealogia constitucional**
+#### I-D1. A Torá como genealogia constitucional
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 Na província persa de Yehud, a Torá estava se tornando o documento fundacional da identidade judaica. Uma genealogia que vai de Adão a Noé serve como a primeira declaração de "quem somos nós" da Torá — traçando não apenas a ancestralidade de Israel, mas a da humanidade. Em um período em que as comunidades judaicas estavam espalhadas pelo mundo persa e depois helenístico, a resposta a "quem somos nós?" exigia uma linhagem que remontasse ao início.
 
-**I-D2. Interesse grego e mesopotâmico na história antediluviana**
+#### I-D2. Interesse grego e mesopotâmico na história antediluviana
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 No século IV–III a.C., historiógrafos gregos e eruditos-sacerdotes babilônicos (notavelmente Berossus, que escreveu sua *Babyloniaca* c. 278 a.C. para um público grego) estavam ativamente coletando e transmitindo tradições antediluvianas. A lista de dez reis antediluvianos de Berossus, cada um com tempos de reinado de dezenas de milhares de anos, paralela diretamente a lista de dez gerações de Gênesis 5. Nesse ambiente intelectual, o *sefer toledot Adam* seria entendido como a contribuição de Israel ao gênero de história primordial.
 
-**I-D3. Números como linguagem filosófica e simbólica**
+#### I-D3. Números como linguagem filosófica e simbólica
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 As tradições filosóficas gregas (Pitágoras, Platão) investiam números de significado cósmico. O cálculo astronômico babilônico estava atingindo seu pico de sofisticação. Em um período em que números carregavam peso filosófico em ambas as culturas vizinhas, os padrões numerológicos de Gênesis 5 (as combinações de 60 e 7 de Cassuto, os 365 do ano solar de Enoque, o cálculo do ano da morte de Matusalém) seriam lidos por escribas e estudiosos como design intencional, não coincidência.
 
 ---

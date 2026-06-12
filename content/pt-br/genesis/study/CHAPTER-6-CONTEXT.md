@@ -227,19 +227,23 @@ O texto diz: "Os nephilim estavam na terra naqueles dias, **e também depois**, 
 
 ---
 
-### Cenário A: Se composto durante o período mosaico (~séc. XIII a.C.)
-**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]** *(Atribuição tradicional)*
+### Cenário A: Se composto durante o período mosaico (~séc. XIII a.C.) — *Atribuição tradicional*
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 
-**I-A1. A fronteira divino-humana na Idade do Bronze Tardio**
+#### I-A1. A fronteira divino-humana na Idade do Bronze Tardio
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 As culturas da Idade do Bronze Tardio estavam saturadas de cruzamentos da fronteira divino-humana: os faraós egípcios eram deuses encarnados; os reis mesopotâmicos eram nomeados pelos deuses e às vezes reivindicavam paternidade divina; os mitos ugaríticos (o Ciclo de Baal) retratavam deuses interagindo com humanos em guerras, amores e conflitos. Os *bene ha-elohim* tomando esposas humanas em Gênesis 6:1-4 seriam imediatamente reconhecíveis — não como uma afirmação sem precedentes, mas como um relato exatamente do tipo de envolvimento divino-humano que o mundo circundante tomava como certo.
 
-**I-A2. Violência e o argumento moral para a destruição**
+#### I-A2. Violência e o argumento moral para a destruição
+**[HISTÓRICO / ARQUEOLÓGICO — VERIFICADO]**
 A guerra na Idade do Bronze Tardio era total e brutal. As Cartas de Amarna (séc. XIV a.C.) documentam cidades-estado cananéias escrevendo ao Faraó implorando por ajuda contra saqueadores (*'apiru*) e rivais internos — um quadro de violência regional mal contida pela supervisão egípcia. Restos esqueléticos deste período no Levante mostram altas taxas de morte violenta. A afirmação de Gênesis 6 de que "a terra estava cheia de violência (*chamas*)" descreveria condições que o público reconhecia da memória viva.
 
-**I-A3. Tecnologia de construção naval na Idade do Bronze Tardio**
+#### I-A3. Tecnologia de construção naval na Idade do Bronze Tardio
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 Grandes embarcações eram construídas e documentadas. Navios de comércio marítimo egípcios transportavam grãos, madeira e produtos de luxo pelo Mediterrâneo e pela costa do Mar Vermelho. Biblos era um importante porto de embarque de madeira. As especificações para a *tebah* em Gênesis 6:15 (300 × 50 × 30 côvados) descrevem uma embarcação maior do que qualquer coisa atestada — mas um público da Idade do Bronze Tardio entenderia as categorias de construção: recipiente selado, impermeabilização com betume, múltiplos conveses, carga de animais.
 
-**I-A4. A tradição do dilúvio no mundo de Moisés**
+#### I-A4. A tradição do dilúvio no mundo de Moisés
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 O Épico de Atrahasis (~1800 a.C.) e as tradições do dilúvio relacionadas já eram antigas no século XIII. A educação escriba egípcia incluía formas literárias mesopotâmicas. Se Moisés foi educado na corte egípcia (Êx 2), teria tido acesso a tradições sobre frustração divina com a humanidade, um sobrevivente advertido e um dilúvio destruidor do mundo. As diferenças distintivas do relato do Gênesis — causa moral (*chamas*), um único Deus, uma caixa e não um barco, aliança em vez de sobrevivência do suprimento de alimentos divino — se destacariam em acentuado contraste.
 
 ---
@@ -247,44 +251,54 @@ O Épico de Atrahasis (~1800 a.C.) e as tradições do dilúvio relacionadas já
 ### Cenário B: Se composto durante o período monárquico (~séc. X–IX a.C.)
 **[HISTÓRICO / ARQUEOLÓGICO — POSSÍVEL]**
 
-**I-B1. Conselho divino e ideologia real**
+#### I-B1. Conselho divino e ideologia real
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 A monarquia israelita se desenvolveu em estreito contato com a cultura fenícia e cananeia. O conceito de conselho divino (*bene ha-elohim* como membros de uma assembleia celestial) está atestado em textos ugaríticos e se reflete no Salmo 82 ("Deus está na assembleia divina"). No período monárquico, essa cosmologia seria uma questão teológica viva: os seres divinos operam independentemente? A autoridade de YHWH sobre eles é absoluta ou contestada? Gênesis 6:1-4 apresenta o problema da violação de fronteira em um mundo onde o conselho divino era um conceito real.
 
-**I-B2. Aliança (*berit*) no contexto monárquico**
+#### I-B2. Aliança (*berit*) no contexto monárquico
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 A linguagem de aliança no século X–IX a.C. era primariamente política: tratados entre reis, entre um grande rei e estados vassalos. A análise de Mendenhall mostra que a estrutura de aliança bíblica segue as formas de tratados hititas. O primeiro uso de *berit* em Gênesis 6:18 ressoaria em uma cultura onde aliança era a linguagem de obrigação vinculante entre partes de poder desigual. YHWH se compromete antes que os termos sejam explicados — um movimento distintivo em comparação com as convenções dos tratados.
 
-**I-B3. Violência e paciência divina — uma questão monárquica**
+#### I-B3. Violência e paciência divina — uma questão monárquica
+**[HISTÓRICO / ARQUEOLÓGICO — PROVÁVEL]**
 A monarquia dividida foi um período de guerra constante, assassinato e violência política. Reis como Acabe enfrentaram indiciamentos proféticos por injustiça e derramamento de sangue. A questão teológica que Gênesis 6 levanta — em que ponto a paciência divina chega ao limite? — seria imediatamente relevante para uma sociedade cuja história política era uma série de fracassos cada vez mais violentos.
 
 ---
 
-### Cenário C: Se composto/finalizado durante o período exílico/pós-exílico (~séc. VI–V a.C.)
-**[HISTÓRICO / ARQUEOLÓGICO — PROVÁVEL]** *(Consenso acadêmico para a forma final)*
+### Cenário C: Se composto/finalizado durante o período exílico/pós-exílico (~séc. VI–V a.C.) — *Consenso acadêmico para a forma final*
+**[HISTÓRICO / ARQUEOLÓGICO — PROVÁVEL]**
 
-**I-C1. Narrativas do dilúvio na Babilônia**
+#### I-C1. Narrativas do dilúvio na Babilônia
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 Os judeus exilados na Babilônia viviam em uma cultura onde as tradições do dilúvio eram ativamente mantidas. O festival babilônico do Ano Novo (Akitu) incluía a recitação do Enuma Elish. Atrahasis e Gilgamesh XI eram textos escolares escribas — os escribas os copiavam como parte do treinamento padrão. A comunidade exílica encontraria a história do dilúvio em sua forma babilônica e estaria em posição de entender — e deliberadamente contrastar — sua própria tradição. As diferenças são nítidas: causa moral, não irritação divina com o barulho; um Deus comprometido, não um conselho divino confuso; resultado de aliança, não arrependimento divino por perder um suprimento de alimentos.
 
-**I-C2. A fronteira divino-humana sob a religião babilônica**
+#### I-C2. A fronteira divino-humana sob a religião babilônica
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 A religião babilônica apresentava *apkallu* — sete sábios semidivinos que transmitiram a civilização à humanidade antes do dilúvio. Semideuses como Gilgamesh (dois terços divino, um terço humano) borravam a linha divino-humana como questão de rotina. O relato de Gênesis 6:1-4 sobre a transgressão divino-humana e suas consequências engajaria esse pano de fundo diretamente. A insistência da comunidade exílica em uma fronteira divino-humana nítida reflete a pressão teológica de viver dentro de uma cultura onde essa fronteira era rotineiramente dissolvida.
 
-**I-C3. Violência como indiciamento teológico sob o império**
+#### I-C3. Violência como indiciamento teológico sob o império
+**[HISTÓRICO / ARQUEOLÓGICO — PROVÁVEL]**
 A conquista babilônica de Judá (597 e 586 a.C.) foi experimentada como violência devastadora — a destruição do templo, deportação em massa e o assassinato dos filhos de Zedequias diante de seus olhos (2 Rs 25:7). Nesse contexto, o diagnóstico de Gênesis 6 de um mundo "cheio de violência (*chamas*)" e a decisão divina de destruí-lo carrega peso não como teologia abstrata, mas como comentário sobre a experiência recente da comunidade: a violência destrói o mundo, e nenhum império está imune.
 
-**I-C4. Primeira aliança (*berit*) e os conceitos babilônicos de aliança**
+#### I-C4. Primeira aliança (*berit*) e os conceitos babilônicos de aliança
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 As tradições de tratados mesopotâmicos (tratados de suserania entre um grande rei e vassalos) forneceram o modelo estrutural para a linguagem de aliança. No contexto exílico, a primeira aparição de *berit* em Gênesis 6:18 — Deus se comprometendo com uma aliança com um único homem antes do dilúvio — seria lida como o fundamento de uma teologia que torna a fidelidade à aliança de YHWH a contraafirmação ao poder imperial babilônico: a obrigação vinculante real não é com Nabucodonosor, mas com o Deus que se comprometeu com Noé.
 
 ---
 
-### Cenário D: Se redacionado durante o período persa/início do período helenístico (~séc. IV–III a.C.)
-**[HISTÓRICO / ARQUEOLÓGICO — POSSÍVEL]** *(Associado à configuração final do Pentateuco)*
+### Cenário D: Se redacionado durante o período persa/início do período helenístico (~séc. IV–III a.C.) — *Associado à configuração final do Pentateuco*
+**[HISTÓRICO / ARQUEOLÓGICO — POSSÍVEL]**
 
-**I-D1. A narrativa do dilúvio como literatura intercultural**
+#### I-D1. A narrativa do dilúvio como literatura intercultural
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 No século IV–III a.C., as tradições do dilúvio circulavam amplamente. Berossus da Babilônia (c. 278 a.C.) escreveu um relato em grego do dilúvio babilônico para públicos helenísticos, apresentando o herói Xísutro (= Ziusudra). A tradição grega tinha seu próprio herói do dilúvio em Deucalião. Nesse contexto, o relato do dilúvio do Gênesis seria entendido como contribuição para um gênero reconhecido de história primordial — mas com conteúdo teológico distintivo: um único Deus, causa moral, resultado de aliança.
 
-**I-D2. Relações divino-humanas no contexto filosófico grego**
+#### I-D2. Relações divino-humanas no contexto filosófico grego
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 A filosofia grega (o *Timeu* de Platão, a teologia de Aristóteles) debatia a relação entre o divino e o humano de novas maneiras. O período helenístico viu debates filosóficos sobre se os deuses intervinham nos assuntos humanos, se os seres divinos podiam desejar humanos e qual seria a relação adequada entre o eterno e o temporal. O relato de Gênesis 6:1-4 sobre a transgressão da fronteira divino-humana e suas consequências catastróficas engajaria essas questões — embora a partir de um ponto de partida teológico muito diferente.
 
-**I-D3. Violência, aliança e a ética imperial persa**
+#### I-D3. Violência, aliança e a ética imperial persa
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 A ideologia imperial persa sob os reis aquemênidas (Ciro, Dario, Artaxerxes) incluía afirmações de ordem cósmica — o rei persa como agente de Ahura Mazda, mantendo *asha* (verdade/ordem) contra *druj* (caos/falsidade). A violência contra a ordem estabelecida era enquadrada como transgressão cósmica. A afirmação de Gênesis 6 de que a violência (*chamas*) viola a ordem criada — e que Deus responde a ela — ressoaria como uma afirmação de que a ordem moral de YHWH supera a ordem imperial, incluindo a teologia imperial persa.
 
 ---

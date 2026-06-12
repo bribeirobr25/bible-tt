@@ -213,19 +213,23 @@ Génesis 8:6–12 envía dos aves: el cuervo (*orev*) "salió, saliendo y volvie
 
 ---
 
-### Escenario A: Si fue compuesto durante el período mosaico (~siglo XIII a. e. c.)
-**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]** *(Atribución tradicional)*
+### Escenario A: Si fue compuesto durante el período mosaico (~siglo XIII a. e. c.) — *Atribución tradicional*
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 
-**I-A1. La auguración con aves en la Edad del Bronce Tardío**
+#### I-A1. La auguración con aves en la Edad del Bronce Tardío
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 Enviar aves para determinar las condiciones era una práctica reconocida en todo el antiguo Oriente Próximo. Los textos de presagios mesopotámicos incluían la auguración de aves — observar el vuelo, el comportamiento y el regreso de las aves como signos de comunicación divina. Los textos rituales egipcios e hititas también usaban el comportamiento de las aves como indicadores de adivinación. La secuencia del cuervo y la paloma en Génesis 8:6-12 sería inmediatamente inteligible para una audiencia de la Edad del Bronce Tardío como un método de reconocimiento ambiental — uno que el texto describe como observación práctica, no como adivinación ritual.
 
-**I-A2. El sacrificio y la construcción de altares tras un viaje**
+#### I-A2. El sacrificio y la construcción de altares tras un viaje
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 En la Edad del Bronce Tardío, ofrecer sacrificio al concluir un viaje significativo, una campaña militar o una liberación era práctica estándar. Los gobernantes egipcios ofrecían a Amón tras las victorias; los reyes hititas sacrificaban tras las confirmaciones de tratados; los textos cananeos (el Ciclo de Baal) incluyen banquetes y ofrendas de postvictoria. El primer acto de Noaj (Noé) al salir de la *tebá* — construir un altar y ofrecer holocaustos de cada animal limpio y ave (8:20) — sería reconocido como la respuesta apropiada al rescate divino.
 
-**I-A3. El pacto y la bendición agrícola en las convenciones de tratados**
+#### I-A3. El pacto y la bendición agrícola en las convenciones de tratados
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 Los tratados de la Edad del Bronce Tardío (tratados de soberanía hititas) concluían típicamente con fórmulas de bendición: fertilidad, lluvia y cosecha prometidas al vasallo fiel. El compromiso de YHWH en Génesis 8:22 — "siembra y siega, frío y calor, verano e invierno, día y noche, no cesarán" — se corresponde con la posición estructural de las bendiciones en las convenciones de tratados del ACO. La promesa es específicamente agrícola y cósmica, abordando las dos cosas que un agricultor del antiguo Oriente Próximo necesitaba garantizadas: estaciones regulares y cosechas confiables.
 
-**I-A4. La recuperación agrícola tras la catástrofe**
+#### I-A4. La recuperación agrícola tras la catástrofe
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 El ciclo de inundación del Nilo (inundación anual seguida de recuperación agrícola) era el ritmo definitorio de la vida egipcia. Los manuales agrícolas mesopotámicos (el Almanaque del Granjero Sumerio, c. 1700 a. e. c., pero que refleja prácticas más antiguas) detallaban la secuencia de preparación post-inundación: romper los terrones, limpiar los canales, plantar cebada. La transición de Génesis 8 del diluvio a "siembra y siega" (8:22) resonaría con una audiencia para quien la recuperación agrícola tras la catástrofe del agua era una realidad anual vivida.
 
 ---
@@ -233,44 +237,54 @@ El ciclo de inundación del Nilo (inundación anual seguida de recuperación agr
 ### Escenario B: Si fue compuesto durante el período monárquico (~siglos X-IX a. e. c.)
 **[HISTÓRICO / ARQUEOLÓGICO — POSIBLE]**
 
-**I-B1. La construcción de altares como acto fundacional del pacto**
+#### I-B1. La construcción de altares como acto fundacional del pacto
+**[HISTÓRICO / ARQUEOLÓGICO — PROBABLE]**
 En el período monárquico, los altares marcaban lugares de encuentro divino y pacto. Avraham construyó altares en Shequem, Betel y Hebrón (Gn 12:7-8, 13:18); Itsjaq en Beersheva (26:25); Yaaqov en Betel (35:7). El altar de Noaj (Noé) en 8:20 es el primero en la narrativa bíblica. En un contexto donde los sitios de altar legítimos eran políticamente disputados (los santuarios rivales en Betel y Dan frente a Jerusalén), la fundación de la tradición del altar en Noé — fuera de cualquier reclamo político o tribal — tiene peso teológico: el primer altar no pertenece a ninguna dinastía.
 
-**I-B2. La auto-limitación divina como afirmación teológica monárquica**
+#### I-B2. La auto-limitación divina como afirmación teológica monárquica
+**[HISTÓRICO / ARQUEOLÓGICO — PROBABLE]**
 La afirmación de Génesis 8:21 — "YHWH dijo en su corazón" y resolvió no volver a destruir — presenta a Dios limitando voluntariamente su propio juicio en respuesta a la realidad moral humana. En un contexto monárquico donde los profetas desafiaban el poder real en nombre de la justicia de YHWH, este pasaje presenta a un Dios que ya se ha comprometido con la moderación. El designio divino de 8:21-22 fundamenta la estabilidad del mundo en una decisión divina interna, no en la obediencia humana o el mérito real.
 
-**I-B3. Las estaciones como categoría teológica**
+#### I-B3. Las estaciones como categoría teológica
+**[HISTÓRICO / ARQUEOLÓGICO — VERIFICADO]**
 La promesa de "siembra y siega, frío y calor, verano e invierno, día y noche" (8:22) corresponde al calendario agrícola que estructuraba la vida israelita. El Calendario de Guézer (c. siglo X a. e. c.) documenta un ciclo agrícola de doce meses: dos meses de cosecha, dos de siembra, dos de siembra tardía, un mes de lino, un mes de cebada, un mes de cosecha y medida, dos meses de cuidado de la vid, un mes de fruta de verano. Las estaciones prometidas en 8:22 no son abstracciones — son los ciclos específicos de los que dependía la supervivencia israelita.
 
 ---
 
-### Escenario C: Si fue compuesto/finalizado durante el período exílico/postexílico (~siglos VI-V a. e. c.)
-**[HISTÓRICO / ARQUEOLÓGICO — PROBABLE]** *(Consenso académico para la forma final)*
+### Escenario C: Si fue compuesto/finalizado durante el período exílico/postexílico (~siglos VI-V a. e. c.) — *Consenso académico para la forma final*
+**[HISTÓRICO / ARQUEOLÓGICO — PROBABLE]**
 
-**I-C1. El sacrificio sin templo**
+#### I-C1. El sacrificio sin templo
+**[HISTÓRICO / ARQUEOLÓGICO — PROBABLE]**
 La comunidad exílica enfrentó una crisis definitoria: cómo adorar a YHWH sin el templo de Jerusalén. El altar de Noaj (Noé) en 8:20 — construido al aire libre, sin templo, sin sacerdocio, sin culto establecido — proporcionó un precedente teológico: el sacrificio a YHWH era posible antes de que existiera el templo y fuera de cualquier edificio sagrado. La respuesta divina al sacrificio de Noé ("YHWH olió el aroma agradable") fundamenta el culto en la aceptación divina, no en la realización del ritual en el edificio correcto.
 
-**I-C2. La promesa agrícola como esperanza post-catástrofe**
+#### I-C2. La promesa agrícola como esperanza post-catástrofe
+**[HISTÓRICO / ARQUEOLÓGICO — PROBABLE]**
 Tras el 586 a. e. c., la comunidad exílica enfrentó el colapso de todo lo que había estructurado su existencia. La promesa divina de 8:22 — "siembra y siega no cesarán" — tendría un peso enorme como compromiso de que el orden creado en sí permanecería estable, independientemente de la catástrofe política. El mundo que YHWH no volvería a destruir incluye los ciclos regulares de la agricultura y el día y la noche. El pacto es cósmico, no meramente personal.
 
-**I-C3. El patrón de re-creación y el retorno del exilio**
+#### I-C3. El patrón de re-creación y el retorno del exilio
+**[HISTÓRICO / ARQUEOLÓGICO — PROBABLE]**
 La secuencia de Génesis 8 — *ruaj* sobre las aguas (8:1, haciendo eco de 1:2), tierra seca que aparece, criaturas liberadas para "ser fecundas y multiplicarse" (8:17, haciendo eco de 1:22, 1:28) — estructura las secuelas del diluvio como una nueva creación. Para la comunidad exílica que anticipaba el retorno de Babilonia, este patrón resonaría con el lenguaje de re-creación del Segundo Isaías (Is 43:16-21: "estoy haciendo algo nuevo… un camino en el desierto"). Las secuelas del diluvio son la plantilla para la restauración después de la catástrofe.
 
-**I-C4. La auguración con aves y la cultura de presagios babilónica**
+#### I-C4. La auguración con aves y la cultura de presagios babilónica
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 La ciencia de los presagios babilónica estaba muy desarrollada. La extispicina (examen de entrañas de animales) y la auguración (observación de aves) eran practicadas por sacerdotes especializados. Las tablillas de presagios clasificaban cientos de comportamientos de aves como signos positivos o negativos. Los exiliados judíos que vivían en Babilonia estarían rodeados de esta cultura. El envío de aves en Génesis 8 es práctico — Noaj usa las aves para determinar el estado de la tierra — no adivinatorio. El contraste con la cultura de presagios babilónica puede ser deliberado: Noaj lee las aves como reporteras ecológicas, no como signos oraculares.
 
 ---
 
-### Escenario D: Si fue redactado durante el período persa/helenístico temprano (~siglos IV-III a. e. c.)
-**[HISTÓRICO / ARQUEOLÓGICO — POSIBLE]** *(Asociado con la configuración final del Pentateuco)*
+### Escenario D: Si fue redactado durante el período persa/helenístico temprano (~siglos IV-III a. e. c.) — *Asociado con la configuración final del Pentateuco*
+**[HISTÓRICO / ARQUEOLÓGICO — POSIBLE]**
 
-**I-D1. El pacto como documento constitucional**
+#### I-D1. El pacto como documento constitucional
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 En la provincia persa de Yehud, la Torá funcionaba como documento constitucional para la comunidad judía bajo la gobernanza imperial. El designio divino interno de Génesis 8:21-22 — "no volveré a" — precede y fundamenta el pacto explícito de Génesis 9. En una comunidad cuya existencia política dependía de la continuidad del permiso imperial persa, el compromiso divino cósmico de no destruir el mundo de nuevo se leería como el fundamento más profundo posible para la estabilidad comunitaria.
 
-**I-D2. Las tradiciones comparadas del sacrificio**
+#### I-D2. Las tradiciones comparadas del sacrificio
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 En el período helenístico, la práctica sacrificial estaba siendo comparada y discutida entre culturas. Las tradiciones filosóficas griegas (Platón, Teofrasto) debatían si los dioses necesitaban sacrificios o si el sacrificio era una institución humana. El relato de Beroso sobre Xisutros (el héroe babilónico del diluvio) incluye sacrificio post-diluvio paralelo a Génesis 8:20. La especificidad del relato del Génesis — holocaustos de animales limpios, respuesta divina de resolución en lugar de hambre — marca una posición teológica en un mundo donde el significado y el propósito del sacrificio eran una pregunta abierta.
 
-**I-D3. El cómputo calendárico y el fin del diluvio**
+#### I-D3. El cómputo calendárico y el fin del diluvio
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 La fecha de fin del diluvio (Mes 2, Día 27 del año 601 de Noé) y su compleja cronología eran sujeto de debate activo en las disputas calendáricas del Segundo Templo. El Libro de los Jubileos (~siglo II a. e. c.) recalcula la cronología del diluvio según su calendario solar de 364 días, llegando a fechas diferentes. La precisión de Génesis 8:13-14 en dos etapas de secado (superficie seca el Mes 1, Día 1; completamente seco el Mes 2, Día 27) refleja una tradición que insiste en la exactitud — una precisión sobre la cual las comunidades posteriores debatirían como evidencia de su sistema calendárico preferido.
 
 ---

@@ -219,19 +219,23 @@ Die Fluterzählung liefert exakte Kalenderdaten: Beginn am zweiten Monat, siebze
 
 ---
 
-### Szenario A: Wenn während der mosaischen Periode verfasst (~13. Jh. v. Chr.)
-**[HISTORISCH / ARCHÄOLOGISCH — DOKUMENTIERT]** *(Traditionelle Zuschreibung)*
+### Szenario A: Wenn während der mosaischen Periode verfasst (~13. Jh. v. Chr.) — *Traditionelle Zuschreibung*
+**[HISTORISCH / ARCHÄOLOGISCH — DOKUMENTIERT]**
 
-**I-A1. Wasserkosmologie in der späten Bronzezeit**
+#### I-A1. Wasserkosmologie in der späten Bronzezeit
+**[HISTORISCH / ARCHÄOLOGISCH — DOKUMENTIERT]**
 Der Flutmechanismus in Genesis 7:11 — „alle Quellen der großen Tiefe brachen auf, und die Schleusen des Himmels öffneten sich" — spiegelt ein dreigliedriges kosmologisches Modell wider: Wasser über der Himmelsscheibe, die bewohnbare Erde und unterirdische Wasser darunter. Dieses Modell war im gesamten Alten Orient verbreitet. Die ägyptische Kosmologie stellte eine Himmelsgöttin dar, die sich über die Erde wölbte, mit Wasser oben und unten; die mesopotamische Kosmologie kannte den Urmeertiefen (*Apsu*) darunter und ein festes Himmelsgewölbe darüber. In einem mosaischen Kontext würde die Flutbeschreibung eine kosmologische Struktur heraufbeschwören, die das Publikum bereits kannte.
 
-**I-A2. Ellenmaße und ihre Schwankungen**
+#### I-A2. Ellenmaße und ihre Schwankungen
+**[HISTORISCH / ARCHÄOLOGISCH — DOKUMENTIERT]**
 Genesis 6:15 gibt die Maße der Tebah in Ellen an. Die Elle (die Länge vom Ellenbogen bis zur Fingerspitze) schwankte nach Kultur und Epoche: Die ägyptische Standardelle betrug etwa 45,7 cm; die Königselle etwa 52,5 cm; mesopotamische Ellen variierten ebenfalls. Im 13. Jahrhundert v. Chr. waren standardisierte Ellenmaße für Monumentalbauten in ganz Ägypten und der Levante in Gebrauch. Die Verwendung von Ellen verankert den Bericht in einer Welt praktischer Messung und organisierter Bautätigkeit.
 
-**I-A3. Tierhaltung und große Herden**
+#### I-A3. Tierhaltung und große Herden
+**[HISTORISCH / ARCHÄOLOGISCH — DOKUMENTIERT]**
 Die Anweisung, Tiere „je zwei von allen" oder „je sieben" der reinen (Gen 7:2–3) zu holen, setzt Vertrautheit mit großflächiger Tierhaltung voraus. Die spätbronzezeitliche Levante hielt Rinder, Schafe, Ziegen und Esel als Haupt-Nahrungsquellen, für Wolle und Zugarbeit. Ägyptische Verwaltungspapyri verzeichnen Palastställe mit Hunderten von Pferden und Rinderherden. Die Betreuung mehrerer Tierarten an Bord eines einzigen großen Schiffes wäre vor dem Hintergrund der Tierhaltung auf Gutsebene verständlich gewesen, auch wenn der Umfang in Genesis alles Bezeugte übersteigt.
 
-**I-A4. Siebentageszeiträume und Mondrechnung**
+#### I-A4. Siebentageszeiträume und Mondrechnung
+**[HISTORISCH / ARCHÄOLOGISCH — DOKUMENTIERT]**
 Der siebentägige Wartezeitraum vor der Flut (7:4, 7:10) und die zahlreichen Zeitmarken der Flut spiegeln eine Welt wider, die durch Siebentagszyklen und Mondmonate strukturiert war. Der mesopotamische Kalender verwendete bereits eine Siebentagsstruktur, bei der der siebte Tag als bedeutsam galt. Ägyptische Mondkalender verfolgten monatliche Zyklen. Die kalendarische Präzision von Genesis 7 — Monats- und Tagesmarkierungen — entspricht Verwaltungskalenderpraktiken, die im gesamten Alten Orient verbreitet waren.
 
 ---
@@ -239,44 +243,54 @@ Der siebentägige Wartezeitraum vor der Flut (7:4, 7:10) und die zahlreichen Zei
 ### Szenario B: Wenn während der Königszeit verfasst (~10.–9. Jh. v. Chr.)
 **[HISTORISCH / ARCHÄOLOGISCH — MÖGLICH]**
 
-**I-B1. Fluterfahrung in Mesopotamien und der Levante**
+#### I-B1. Fluterfahrung in Mesopotamien und der Levante
+**[HISTORISCH / ARCHÄOLOGISCH — VERIFIZIERT]**
 Tigris und Euphrat überschwemmten regelmäßig, manchmal katastrophal. Archäologische Flutschichten in Schuruppak und Kiš (ca. 2900–2800 v. Chr.) entsprechen der Zeit, in der mesopotamische Fluttraditionen literarische Gestalt annahmen. In der Levante waren Winterregen und Sturzfluten in Wadis jährliche Ereignisse. Das saisonale Hochwasser des Jordan bedrohte Siedlungen im Jordantal. Ein Publikum in der Königszeit würde die Fluterzählung vor dem Hintergrund persönlicher und kultureller Kenntnis davon verstehen, was steigende Wasser tatsächlich mit Siedlungen, Ernten und Vieh anrichteten.
 
-**I-B2. Rein-unrein-Unterscheidungen im vorexilischen Israel**
+#### I-B2. Rein-unrein-Unterscheidungen im vorexilischen Israel
+**[HISTORISCH / ARCHÄOLOGISCH — WAHRSCHEINLICH]**
 Die Unterscheidung zwischen reinen und unreinen Tieren (7:2), die vor dem Sinai erscheint, deutet auf eine vormosaische kultische Kategorie hin. In der Königszeit war Opferkult an mehreren Stätten aktiv — Jerusalem, Bethel, Dan und ländlichen Höhenheiligtümern. Priester und Gläubige würden sofort wissen, welche Tiere zum Opfer geeignet waren. Das „je sieben" der reinen Tiere in der Fluterzählung würde als Bereitstellung des für das Opfer nach der Flut benötigten Überschusses verstanden werden, was mit der alltäglichen kultischen Praxis übereinstimmt.
 
-**I-B3. Göttliche Versiegelung als besonderer Schutz**
+#### I-B3. Göttliche Versiegelung als besonderer Schutz
+**[HISTORISCH / ARCHÄOLOGISCH — WAHRSCHEINLICH]**
 Die Aussage in Genesis 7:16, dass „JHWH hinter ihm zuschloss" — Gott versiegelt die Tebah persönlich —, hat in mesopotamischen Flutberichten keine Entsprechung, wo ein Handwerker oder Torhüter die Versiegelung vornimmt. In einem königszeitlichen Kontext, in dem JHWHs persönliches Eingreifen zum Schutz Israels eine lebendige theologische Behauptung war (JHWH als Krieger, Beschützer des Königs, Hüter Jerusalems), trägt das Detail, dass JHWH selbst die Tür schließt, das Gewicht göttlicher persönlicher Verpflichtung gegenüber dem Bundesüberlebenden.
 
 ---
 
-### Szenario C: Wenn während der Exils-/Nachexilszeit verfasst/abgeschlossen (~6.–5. Jh. v. Chr.)
-**[HISTORISCH / ARCHÄOLOGISCH — WAHRSCHEINLICH]** *(Wissenschaftlicher Konsens für die Endgestalt)*
+### Szenario C: Wenn während der Exils-/Nachexilszeit verfasst/abgeschlossen (~6.–5. Jh. v. Chr.) — *Wissenschaftlicher Konsens für die Endgestalt*
+**[HISTORISCH / ARCHÄOLOGISCH — WAHRSCHEINLICH]**
 
-**I-C1. Mesopotamische Fluterfahrung als gelebter Kontext**
+#### I-C1. Mesopotamische Fluterfahrung als gelebter Kontext
+**[HISTORISCH / ARCHÄOLOGISCH — DOKUMENTIERT]**
 Jüdische Exilanten in Babylon lebten in einer Flusszivilisation, die durch Überschwemmungen geprägt war. Euphrat und Tigris konnten mit der Frühjahrsschneeschmelze aus Taurus und Zagros dramatisch anschwellen. Babylonische Städte unterhielten Deichsysteme, Kanalnetzwerke und Hochwasserschutz-Infrastruktur. Ein Exilspublikum, das Genesis 7 las, würde den Flutmechanismus — „Quellen der Tiefe" + „Schleusen des Himmels" — vor der unmittelbaren Erfahrung einer hochwassergefährdeten Umgebung und der kosmologischen Sprache verstehen, mit der ihre Nachbarn ihn erklärten.
 
-**I-C2. Babylonische Maßsysteme**
+#### I-C2. Babylonische Maßsysteme
+**[HISTORISCH / ARCHÄOLOGISCH — DOKUMENTIERT]**
 Die babylonische Schreiberausbildung umfasste systematisches Training in Maßeinheiten: die Elle (*ammatu*), das Rohr (sechs Ellen) und größere Einheiten für Feldmessungen. Astronomische Berechnungen verwendeten dasselbe Sexagesimalsystem für Zeit und Entfernung. Die Präzision der Flutchronologie — Monats- und Tagesmarkierungen, 150-Tage-Perioden entsprechend fünf 30-Tage-Monaten — spiegelt genau die 30-tägigen Verwaltungsmonate und den 360-tägigen Schemakalender der babylonischen Verwaltungspraxis wider. Die Exilsgemeinschaft würde diese Präzision vor dem Hintergrund ihrer Kenntnis babylonischer Zeitrechnung lesen.
 
-**I-C3. Kosmologische Ent-Schöpfung und Neu-Schöpfung**
+#### I-C3. Kosmologische Ent-Schöpfung und Neu-Schöpfung
+**[HISTORISCH / ARCHÄOLOGISCH — WAHRSCHEINLICH]**
 Der Flutmechanismus in Genesis 7:11 — Quellen der Tiefe + Schleusen des Himmels — kehrt genau die Trennung von Genesis 1:6–7 am zweiten Tag um. In einem Exilskontext, wo die Zerstörung Jerusalems als kosmische Ent-Schöpfung erlebt werden konnte (der Tempel weg, die heilige Stadt verbrannt, die Bundesgemeinschaft zerstreut), würde die Struktur der Fluterzählung — Ent-Schöpfung gefolgt von Neu-Schöpfung — unmittelbare theologische Resonanz besitzen. Die Exilanten lebten im Nachgang der Auflösung ihrer eigenen Welt.
 
-**I-C4. Tierbewahrung und die Kontinuität der Schöpfung**
+#### I-C4. Tierbewahrung und die Kontinuität der Schöpfung
+**[HISTORISCH / ARCHÄOLOGISCH — WAHRSCHEINLICH]**
 Die Betonung der Bewahrung jeder Art — „je zwei von allen", rein und unrein — spiegelt eine Theologie vom inneren Wert der Schöpfung wider. In babylonischen Flutberichten steigen Tiere primär als Nahrungsvorrat auf das Schiff. Genesis 7 stellt ihre Bewahrung als göttliches Gebot dar: die Kategorien und die Vielfalt der Schöpfung müssen überleben. In einer Exilsgemeinschaft, die besorgt darum war, ob ihre Identität, ihre Praktiken und die Absichten ihres Gottes überleben würden, trug das Bild göttlicher Fürsorge für die Kontinuität jedes Geschöpfs ein spezifisches Gewicht.
 
 ---
 
-### Szenario D: Wenn während der persischen/früh-hellenistischen Zeit redigiert (~4.–3. Jh. v. Chr.)
-**[HISTORISCH / ARCHÄOLOGISCH — MÖGLICH]** *(Mit der abschließenden Pentateuchgestaltung verbunden)*
+### Szenario D: Wenn während der persischen/früh-hellenistischen Zeit redigiert (~4.–3. Jh. v. Chr.) — *Mit der abschließenden Pentateuchgestaltung verbunden*
+**[HISTORISCH / ARCHÄOLOGISCH — MÖGLICH]**
 
-**I-D1. Vergleichende Flutchronologie und Kalenderstreitigkeiten**
+#### I-D1. Vergleichende Flutchronologie und Kalenderstreitigkeiten
+**[HISTORISCH / ARCHÄOLOGISCH — DOKUMENTIERT]**
 Im 4.–3. Jahrhundert v. Chr. verwendeten verschiedene jüdische Gruppen unterschiedliche Kalender: den in Babylon üblichen Mondkalender, den 364-Tage-Kalender, der in Jubiläen und 1. Henoch aufscheint, und den Sonnenkalender, der der Flutchronologie zugrunde liegen könnte. Die genauen Daten der Fluterzählung (Gen 7:11, 8:4, 8:5, 8:13, 8:14) wurden offenbar je nach verwendetem Kalendersystem unterschiedlich gelesen. Die Präzision selbst könnte dazu gedient haben, die Fluterzählung in einer bestimmten Kalendertradition zu verankern — eine Frage, die in den Schreibergemeinschaften dieser Zeit lebhaft diskutiert wurde.
 
-**I-D2. Universale Fluttraditionen im hellenistischen Vergleichskontext**
+#### I-D2. Universale Fluttraditionen im hellenistischen Vergleichskontext
+**[HISTORISCH / ARCHÄOLOGISCH — DOKUMENTIERT]**
 Berossos' *Babyloniaca* (ca. 278 v. Chr.) und die griechische Deukalion-Tradition kursierten gleichzeitig mit der Tora. In einem hellenistischen Kontext, in dem Fluterzählungen als gattungsübergreifendes Phänomen erkannt wurden, würden die markanten Merkmale von Genesis 7 — kosmologischer Mechanismus, genaue Daten, göttliche Versiegelung — als Kennzeichnung der theologischen Ansprüche der israelitischen Tradition vor dem Vergleichshintergrund gelesen werden. Die Frage „Welcher Flutbericht ist maßgeblich?" war in einer Welt lebendig, in der mehrere Traditionen miteinander konkurrierten.
 
-**I-D3. Wasserkosmologie im spätantiken jüdischen Denken**
+#### I-D3. Wasserkosmologie im spätantiken jüdischen Denken
+**[HISTORISCH / ARCHÄOLOGISCH — DOKUMENTIERT]**
 Das dreigliedrige kosmologische Modell (Wasser oben, Erde, Wasser unten) erhielt in der spätantiken jüdisch-zweiten-Tempel-Literatur zunehmende theologische Aufmerksamkeit. Das *Buch der Jubiläen* (~2. Jh. v. Chr.) überliefert die Flut mit denselben kosmologischen Annahmen. Die astronomischen Abschnitte des *1. Henoch* beschreiben die Himmelsschleusen als physische Schleusengatter. Die kosmologische Sprache des Genesis-7-Berichts — *tehom rabbah*, *arubboth ha-schamajim* — war nicht bloß überlieferter Text, sondern lebendig verwendetes kosmologisches Vokabular.
 
 ---

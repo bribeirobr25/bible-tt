@@ -224,19 +224,22 @@ Genesis 4:17–22 places the origins of civilization in Cain's line: city-buildi
 
 ---
 
-### Scenario A: If composed during the Mosaic period (~13th c. BCE)
-**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]** *(Traditional attribution)*
+### Scenario A: If composed during the Mosaic period (~13th c. BCE) — *Traditional attribution*
+**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
 
-**I-A1. Sacrifice and offering in Late Bronze Age practice**
+#### I-A1. Sacrifice and offering in Late Bronze Age practice
+**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
 Cain brings an offering (*minchah*) of "the fruit of the ground" and Abel brings "from the firstlings of his flock and from their fat portions" (4:3-4). In Late Bronze Age Canaan and Egypt, both agricultural and animal offerings were practiced. Egyptian temple religion distinguished between grain offerings, bread offerings, and animal sacrifices depending on the deity and occasion. Ugaritic texts (roughly contemporary with the Mosaic scenario) document animal sacrifice to El and Baal with specific rules about the quality and type of offering. The narrative does not explain why YHWH regards Abel's offering differently — the text leaves this unexplained, generating centuries of debate. What the original audience would have recognized immediately: offering quality (fat portions vs. generic fruit) and the firstlings principle (the best, not any surplus) were known distinctions in ANE sacrifice.
 
-**I-A2. Fratricide and clan law in nomadic society**
+#### I-A2. Fratricide and clan law in nomadic society
+**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
 In a tribal and nomadic context (the Mosaic scenario), fratricide was among the most severe violations of the social order because it destroyed the kinship unit on which survival depended. ANE legal codes from this era (the Code of Hammurabi, roughly 17th c. BCE) do not address fratricide specifically, but clan-based retaliation for murder (*blood vengeance*, *go'el ha-dam*) was the operative mechanism of justice in societies without centralized courts. YHWH's protection of Cain with a mark (4:15) — preventing vendetta — represents divine intervention into a system that would otherwise mandate retaliation. The "mark" (*ot*) substitutes divine sanction for clan justice.
 
-**I-A3. Pastoral versus agricultural economies in the Sinai and Levant**
+#### I-A3. Pastoral versus agricultural economies in the Sinai and Levant
+**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
 The tension between Cain (farmer) and Abel (shepherd) reflects a real socioeconomic friction visible in the Mosaic scenario: the Israelites were semi-nomadic pastoralists, while Canaan had settled agricultural communities. Sumerian literature had already formalized this tension in the "Debate between Sheep and Grain" — a literary contest between the two modes of production. In the Sinai wilderness, the Israelites kept flocks; entering Canaan meant transitioning to grain agriculture. The Cain-Abel dynamic maps onto this transition: both modes are legitimate, both produce offerings, but the conflict between them is deadly.
 
-**I-A7. Origin-of-the-arts traditions — music and metallurgy**
+#### I-A7. Origin-of-the-arts traditions — music and metallurgy
 **[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
 Genesis 4 attributes the founding of cultural arts to specific named ancestors: Yaval = ancestor of tent-dwelling pastoralists (4:20); Yuval = ancestor of lyre and pipe players (4:21); Tuval-Qayin = forger of bronze and iron tools (4:22). This is a culture-genesis catalogue typical of Ancient Near Eastern wisdom literature. Comparable traditions include the Sumerian "Inanna and Enki" hymn, where the *me* (cultural arts: kingship, scribecraft, metalwork, music, etc.) are transferred from Enki to Inanna and from there to Uruk; the Akkadian *apkallu* (seven antediluvian sages) credited with founding crafts; and the Greek Hephaestus / Daedalus traditions of named craft-originators. In the Mosaic scenario, the Israelites had recent experience of Egyptian metallurgical workshops (copper at Timna; bronze tools throughout) and would have understood metalwork as a high-skill specialty learned in geographic centers — making the geographic localization of Tuval-Qayin's craft to a specific lineage culturally legible. **Source:** Westenholz, J.G., "Heroes of Akkad," *Journal of the American Oriental Society* 103 (1983); Foster, B.R., *Before the Muses: An Anthology of Akkadian Literature*, 3rd ed., CDL Press, 2005 (apkallu traditions). **[ANE COMPARATIVE — DOCUMENTED]**
 
@@ -244,51 +247,61 @@ Genesis 4 attributes the founding of cultural arts to specific named ancestors: 
 
 ---
 
-### Scenario B: If composed during the Monarchic period (~10th–9th c. BCE)
-**[HISTORICAL / ARCHAEOLOGICAL — POSSIBLE]** *(Some scholars place early source traditions here)*
+### Scenario B: If composed during the Monarchic period (~10th–9th c. BCE) — *Some scholars place early source traditions here*
+**[HISTORICAL / ARCHAEOLOGICAL — POSSIBLE]**
 
-**I-B1. City-building and royal legitimacy**
+#### I-B1. City-building and royal legitimacy
+**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
 Genesis 4:17 presents Cain building the first city and naming it after his son. In the Monarchic period, city-building was a royal prerogative and a primary legitimating act. David captured Jerusalem; Solomon built the temple and palace complex; Omri built Samaria. Royal inscriptions throughout the ANE boasted of founding cities and constructing walls. The Genesis narrative places the origin of city-building not with a righteous founder but with the first murderer — a narrative that implicitly questions the ideology of royal urban expansion. That the text says Cain "was building" (participle, ongoing construction) without recording its completion is a subtle ambiguity: the city remains unfinished in the text.
 
-**I-B2. Metalworking and the Kenite connection**
+#### I-B2. Metalworking and the Kenite connection
+**[HISTORICAL / ARCHAEOLOGICAL — PROBABLE]**
 Tuval-Qayin (4:22), ancestor of metalworkers, has a name cognate with *Qayin* (Cain) and possibly with the Kenites (*qeni*), a metalworking clan associated with Moses' father-in-law Jethro (Judg 1:16; 4:11). In Iron Age Israel, metalworking was a specialized trade, often carried by itinerant craftsmen. The connection between the Kenites (smiths allied to Israel) and Cain (the cursed murderer) is a textual puzzle the narrative does not resolve — the same root name covers both a cursed ancestor and an allied clan. This ambiguity is a feature of the text, not an error.
 
-**I-B3. Blood vengeance and the limits of law**
+#### I-B3. Blood vengeance and the limits of law
+**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
 Lamech's song (4:23-24) escalates Cain's protection: "If Cain is avenged sevenfold, then Lamech seventy-seven-fold." In the Monarchic period, the tension between clan-based vengeance (*blood avenger*) and royal/judicial authority was live. David's reign includes multiple blood-vengeance episodes (2 Sam 3, 14, 21). The cities of refuge (Num 35; Deut 19) represent a legal attempt to regulate the vendetta system. Lamech's boast, placed in the Cainite line, represents an escalation of violence that law-making cannot keep pace with — a tension the Monarchic audience would have recognized as current.
 
 *For the full 10-category historical context of this period, see Genesis 1 companion Section I, Scenario B.*
 
 ---
 
-### Scenario C: If composed during the Exilic/Post-Exilic period (~6th–5th c. BCE)
-**[HISTORICAL / ARCHAEOLOGICAL — PROBABLE]** *(Scholarly consensus for final form)*
+### Scenario C: If composed during the Exilic/Post-Exilic period (~6th–5th c. BCE) — *Scholarly consensus for final form*
+**[HISTORICAL / ARCHAEOLOGICAL — PROBABLE]**
 
-**I-C1. The *apkallu* tradition and the Cainite cultural genealogy**
+#### I-C1. The *apkallu* tradition and the Cainite cultural genealogy
+**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
 Babylonian tradition attributed the origins of civilization — writing, agriculture, architecture, music, metalworking — to the *apkallu*: seven semi-divine sages sent by Enki/Ea before the flood to teach humanity. Genesis 4's cultural genealogy (tent-dwelling, music, metalworking all originating in Cain's line) covers similar civilizational categories but attributes them not to divine sages but to the descendants of the first murderer. Exilic Jews living in Babylon, where the *apkallu* tradition was actively maintained, would have recognized the parallel and the inversion: civilization is human, not semi-divine; it emerges from a flawed lineage, not a divine gift.
 
-**I-C2. Agricultural and pastoral economies in Babylonia**
+#### I-C2. Agricultural and pastoral economies in Babylonia
+**[HISTORICAL / ARCHAEOLOGICAL — VERIFIED]**
 The Tigris-Euphrates valley in the exilic period was intensively agricultural — irrigated canal farming producing barley, dates, and vegetables. Pastoral herding operated in the steppe regions east and west of the river systems. The Murashu archive (5th c. BCE) shows Jewish families in Babylonia engaged in agricultural leasing and commodity trade — they were embedded in the agricultural economy of their captors. The Cain-Abel tension would have been legible not as ancient prehistory but as a structural reality of the economy around them: the farmer and the herder, in competition.
 
-**I-C3. Fratricide and national trauma**
+#### I-C3. Fratricide and national trauma
+**[HISTORICAL / ARCHAEOLOGICAL — PROBABLE]**
 For a community that had experienced the destruction of Jerusalem, the killing of king Zedekiah's sons before his eyes (2 Kgs 25:7), and the dispersal of families across Babylon and Egypt, the Genesis 4 narrative of brother killing brother carried the weight of recent national memory. The question "Where is your brother?" (4:9) — and Cain's evasion — resonated in a community that had seen families destroyed, allies killed, and the social fabric of kinship shredded by imperial conquest. The Cain narrative is not just primordial history in this context; it is a lens on the present.
 
-**I-C4. The mark of Cain and Persian administrative practice**
+#### I-C4. The mark of Cain and Persian administrative practice
+**[HISTORICAL / ARCHAEOLOGICAL — PROBABLE]**
 The Persian Empire administered its vast territories partly through identification marks, seals, and administrative tokens that tracked individuals and their status. The *ot* (mark, sign, token) in 4:15 is the same word used for astronomical signs (Gen 1:14), circumcision (*brit ot*, Gen 17:11), and the Passover blood on doorposts (Exod 12:13). In each case, the *ot* marks a person or place as under special protection or covenant status. The mark of Cain is not a brand of shame — the text is explicit that it is a protection. In a Persian administrative context, an authoritative mark that prevents others from taking action against the bearer was a recognizable form of imperial protection.
 
 *For the full 10-category historical context of this period, see Genesis 1 companion Section I, Scenario C.*
 
 ---
 
-### Scenario D: If redacted during the Persian/early-Hellenistic period (~4th–3rd c. BCE)
-**[HISTORICAL / ARCHAEOLOGICAL — POSSIBLE]** *(Associated with final Pentateuchal shaping)*
+### Scenario D: If redacted during the Persian/early-Hellenistic period (~4th–3rd c. BCE) — *Associated with final Pentateuchal shaping*
+**[HISTORICAL / ARCHAEOLOGICAL — POSSIBLE]**
 
-**I-D1. Greek genealogical literature and cultural origins**
+#### I-D1. Greek genealogical literature and cultural origins
+**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
 Greek literary tradition assigned the origins of arts, crafts, and civilization to legendary inventors (*heuretai* — "first discoverers"). Hesiod attributed fire to Prometheus; later Greek traditions catalogued the first inventor of music, writing, agriculture, and metallurgy. The Hellenistic period produced elaborate lists of cultural progenitors. Genesis 4's genealogy of Cain's line — with named founders for tent-dwelling/pastoralism, music, and metalworking — participates in the same intellectual genre while differing in its framing: these inventors are not heroes or demigods but the descendants of the first murderer. Civilization's origins are morally complicated rather than heroically pure.
 
-**I-D2. Sacrifice in Second Temple Judaism**
+#### I-D2. Sacrifice in Second Temple Judaism
+**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
 By the Persian/Hellenistic period, sacrifice at the Second Temple (rebuilt ~515 BCE) was the central act of Israelite religion. The rules governing what constituted an acceptable offering — the firstlings principle, the fat portions, the distinction between blemished and unblemished animals — were formalized in Leviticus and Numbers. Reading Genesis 4:3-4 in this context placed Cain's rejected offering within a recognizable system: he brought *some* of the fruit, not the firstfruits; Abel brought specifically the firstlings and their fat portions. The ritual requirements that Second Temple Jews understood as governing acceptable worship were retroactively visible in the primordial narrative.
 
-**I-D3. Urbanization and the Hellenistic city (*polis*)**
+#### I-D3. Urbanization and the Hellenistic city (*polis*)
+**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
 The Hellenistic period was the great age of city-founding: Alexander founded Alexandria and dozens of other cities; the Seleucids and Ptolemies built and renamed cities throughout the Near East. The *polis* — the Greek city-state with its agora, temples, gymnasium, and civic institutions — was the model of civilized life. Genesis 4:17's attribution of the first city to the first murderer would have carried satirical weight in this context: the *polis* tradition traced its origins to ideal lawgivers (Solon, Lycurgus); the Genesis tradition traces urbanization to Cain. The counter-narrative is implicit but pointed.
 
 *For the full 10-category historical context of this period, see Genesis 1 companion Section I, Scenario D.*

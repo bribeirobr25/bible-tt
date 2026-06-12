@@ -213,19 +213,23 @@ Genesis 8:6–12 sends two birds: the raven (*orev*) "went out, going and return
 
 ---
 
-### Scenario A: If composed during the Mosaic period (~13th c. BCE)
-**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]** *(Traditional attribution)*
+### Scenario A: If composed during the Mosaic period (~13th c. BCE) — *Traditional attribution*
+**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
 
-**I-A1. Bird augury in the Late Bronze Age**
+#### I-A1. Bird augury in the Late Bronze Age
+**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
 Sending birds to determine conditions was a recognized practice across the ancient Near East. Mesopotamian omen texts included bird augury — observing the flight, behavior, and return of birds as signs of divine communication. Egyptian and Hittite ritual texts also used bird behavior as divinatory indicators. The raven and dove sequence in Genesis 8:6-12 would be immediately intelligible to a Late Bronze Age audience as a method of environmental reconnaissance — one the text depicts as practical observation, not ritual divination.
 
-**I-A2. Sacrifice and altar-building after a journey**
+#### I-A2. Sacrifice and altar-building after a journey
+**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
 In the Late Bronze Age, offering sacrifice at the conclusion of a significant journey, military campaign, or deliverance was standard practice. Egyptian rulers offered to Amun after victories; Hittite kings sacrificed after treaty confirmations; Canaanite texts (the Baal Cycle) include post-victory feasts and offerings. Noach (Noah)'s first act after leaving the tebah — building an altar and offering burnt offerings of every clean animal and bird (8:20) — would be recognized as the appropriate response to divine rescue.
 
-**I-A3. Covenant and agricultural blessing in treaty conventions**
+#### I-A3. Covenant and agricultural blessing in treaty conventions
+**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
 Late Bronze Age treaties (Hittite suzerainty treaties) typically concluded with blessing formulas: fertility, rainfall, and harvest promised to the faithful vassal. YHWH's commitment in Genesis 8:22 — "seedtime and harvest, cold and heat, summer and winter, day and night, shall not cease" — parallels the structural position of blessings in ANE treaty conventions. The promise is specifically agricultural and cosmic, addressing the two things an ancient Near Eastern farmer needed guaranteed: regular seasons and reliable harvests.
 
-**I-A4. Agricultural recovery after catastrophe**
+#### I-A4. Agricultural recovery after catastrophe
+**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
 The Nile flood cycle (annual flooding followed by agricultural recovery) was the defining rhythm of Egyptian life. Mesopotamian agricultural manuals (the Sumerian Farmer's Almanac, c. 1700 BCE but reflecting older practice) detailed the sequence of post-flood preparation: breaking up clods, clearing channels, planting barley. Genesis 8's transition from flood to "seedtime and harvest" (8:22) would resonate with an audience for whom agricultural recovery after water catastrophe was a lived annual reality.
 
 ---
@@ -233,44 +237,54 @@ The Nile flood cycle (annual flooding followed by agricultural recovery) was the
 ### Scenario B: If composed during the Monarchic period (~10th-9th c. BCE)
 **[HISTORICAL / ARCHAEOLOGICAL — POSSIBLE]**
 
-**I-B1. Altar-building as covenant founding act**
+#### I-B1. Altar-building as covenant founding act
+**[HISTORICAL / ARCHAEOLOGICAL — PROBABLE]**
 In the monarchic period, altars marked places of divine encounter and covenant. Abraham built altars at Shechem, Bethel, and Hebron (Gen 12:7-8, 13:18); Isaac at Beersheba (26:25); Jacob at Bethel (35:7). Noach (Noah)'s altar at 8:20 is the first in the biblical narrative. In a context where legitimate altar-sites were politically contested (the rival shrines at Bethel and Dan vs. Jerusalem), the founding of the altar tradition in Noah — outside any political or tribal claim — carries theological weight: the first altar belongs to no dynasty.
 
-**I-B2. Divine self-limitation as a monarchic theological claim**
+#### I-B2. Divine self-limitation as a monarchic theological claim
+**[HISTORICAL / ARCHAEOLOGICAL — PROBABLE]**
 Genesis 8:21's statement — "YHWH said in his heart" and resolved never again to destroy — presents God voluntarily limiting his own judgment in response to human moral reality. In a monarchic context where prophets challenged royal power in the name of YHWH's justice, this passage presents a God who has already committed himself to restraint. The divine resolve of 8:21-22 grounds the world's stability in an internal divine decision, not in human obedience or royal merit.
 
-**I-B3. The seasons as theological category**
+#### I-B3. The seasons as theological category
+**[HISTORICAL / ARCHAEOLOGICAL — VERIFIED]**
 The promise of "seedtime and harvest, cold and heat, summer and winter, day and night" (8:22) corresponds to the agricultural calendar that structured Israelite life. The Gezer Calendar (c. 10th c. BCE) documents a twelve-month agricultural cycle: two months of harvest, two of planting, two of late planting, a month of flax, a month of barley, a month of harvest and measure, two months of vine-tending, a month of summer fruit. The seasons promised in 8:22 are not abstractions — they are the specific cycles on which Israelite survival depended.
 
 ---
 
-### Scenario C: If composed/finalized during the Exilic/Post-Exilic period (~6th-5th c. BCE)
-**[HISTORICAL / ARCHAEOLOGICAL — PROBABLE]** *(Scholarly consensus for final form)*
+### Scenario C: If composed/finalized during the Exilic/Post-Exilic period (~6th-5th c. BCE) — *Scholarly consensus for final form*
+**[HISTORICAL / ARCHAEOLOGICAL — PROBABLE]**
 
-**I-C1. Sacrifice without a temple**
+#### I-C1. Sacrifice without a temple
+**[HISTORICAL / ARCHAEOLOGICAL — PROBABLE]**
 The exilic community faced a defining crisis: how to worship YHWH without the Jerusalem temple. Noach (Noah)'s altar in 8:20 — built in the open, with no temple, no priesthood, no established cultus — provided a theological precedent: sacrifice to YHWH was possible before the temple existed and outside of any sacred building. The divine response to Noah's sacrifice ("YHWH smelled the pleasing aroma") grounds worship in divine acceptance, not in the performance of ritual in the correct building.
 
-**I-C2. Agricultural promise as post-catastrophe hope**
+#### I-C2. Agricultural promise as post-catastrophe hope
+**[HISTORICAL / ARCHAEOLOGICAL — PROBABLE]**
 After 586 BCE, the exilic community faced the collapse of everything that had structured their existence. The divine promise of 8:22 — "seedtime and harvest shall not cease" — would carry enormous weight as a commitment that the created order itself would remain stable, regardless of political catastrophe. The world that YHWH would not destroy again includes the regular cycles of agriculture and day and night. The covenant is cosmic, not merely personal.
 
-**I-C3. The re-creation pattern and return from exile**
+#### I-C3. The re-creation pattern and return from exile
+**[HISTORICAL / ARCHAEOLOGICAL — PROBABLE]**
 Genesis 8's sequence — *ruach* over waters (8:1, echoing 1:2), dry land appearing, creatures released to "be fruitful and multiply" (8:17, echoing 1:22, 1:28) — structures the flood's aftermath as a new creation. For the exilic community anticipating return from Babylon, this pattern would resonate with Second Isaiah's re-creation language (Isa 43:16-21: "I am doing a new thing… a way in the wilderness"). The flood's aftermath is the template for restoration after catastrophe.
 
-**I-C4. Bird augury and Babylonian omen culture**
+#### I-C4. Bird augury and Babylonian omen culture
+**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
 Babylonian omen science was highly developed. Extispicy (examining animal entrails) and augury (observing birds) were practiced by specialist priests. Omen tablets classified hundreds of bird behaviors as positive or negative signs. Jewish exiles living in Babylon would have been surrounded by this culture. Genesis 8's bird-sending is practical — Noah uses birds to determine the state of the land — not divinatory. The contrast with Babylonian augury culture may be deliberate: Noah reads the birds as ecological reporters, not oracular signs.
 
 ---
 
-### Scenario D: If redacted during the Persian/early-Hellenistic period (~4th-3rd c. BCE)
-**[HISTORICAL / ARCHAEOLOGICAL — POSSIBLE]** *(Associated with final Pentateuchal shaping)*
+### Scenario D: If redacted during the Persian/early-Hellenistic period (~4th-3rd c. BCE) — *Associated with final Pentateuchal shaping*
+**[HISTORICAL / ARCHAEOLOGICAL — POSSIBLE]**
 
-**I-D1. Covenant as constitutional document**
+#### I-D1. Covenant as constitutional document
+**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
 In the Persian province of Yehud, the Torah was functioning as a constitutional document for the Jewish community under imperial governance. Genesis 8:21-22's divine internal resolve — "I will not again" — precedes and grounds the explicit covenant of Genesis 9. In a community whose political existence depended on the continuity of Persian imperial permission, the cosmic divine commitment to not destroy the world again would be read as the deepest possible foundation for communal stability.
 
-**I-D2. Comparative sacrifice traditions**
+#### I-D2. Comparative sacrifice traditions
+**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
 In the Hellenistic period, sacrificial practice was being compared and discussed across cultures. Greek philosophical traditions (Plato, Theophrastus) discussed whether the gods needed sacrifices or whether sacrifice was a human institution. Berossus's account of Xisuthros (the Babylonian flood hero) includes post-flood sacrifice parallel to Genesis 8:20. The specificity of Genesis's account — burnt offerings of clean animals, divine response of resolve rather than hunger — marks a theological position in a world where the meaning and purpose of sacrifice was an open question.
 
-**I-D3. Calendar reckoning and the end of the flood**
+#### I-D3. Calendar reckoning and the end of the flood
+**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
 The flood's end date (Month 2, Day 27 of Noah's 601st year) and its complex chronology were subjects of active debate in Second Temple calendar disputes. The book of Jubilees (~2nd c. BCE) recalculates the flood chronology according to its 364-day solar calendar, arriving at different dates. The precision of Genesis 8:13-14's two-stage drying (surface-dry on Month 1, Day 1; fully dry on Month 2, Day 27) reflects a tradition insisting on exactness — a precision that later communities would argue over as evidence for their preferred calendar system.
 
 ---

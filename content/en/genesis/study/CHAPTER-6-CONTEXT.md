@@ -227,19 +227,23 @@ The text says: "The nephilim were on the land in those days, **and also afterwar
 
 ---
 
-### Scenario A: If composed during the Mosaic period (~13th c. BCE)
-**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]** *(Traditional attribution)*
+### Scenario A: If composed during the Mosaic period (~13th c. BCE) — *Traditional attribution*
+**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
 
-**I-A1. The divine-human boundary in the Late Bronze Age**
+#### I-A1. The divine-human boundary in the Late Bronze Age
+**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
 Late Bronze Age cultures were saturated with divine-human boundary crossings: Egyptian Pharaohs were gods incarnate; Mesopotamian kings were appointed by gods and sometimes claimed divine parentage; Ugaritic myths (the Baal Cycle) depicted gods interacting with humans in war, love, and conflict. The *bene ha-elohim* taking human wives in Genesis 6:1-4 would be immediately recognizable — not as an unprecedented claim but as a report of exactly the kind of divine-human entanglement that the surrounding world took for granted.
 
-**I-A2. Violence and the moral case for destruction**
+#### I-A2. Violence and the moral case for destruction
+**[HISTORICAL / ARCHAEOLOGICAL — VERIFIED]**
 Warfare in the Late Bronze Age was total and brutal. The Amarna Letters (14th c. BCE) document Canaanite city-states writing to Pharaoh begging for help against raiders (*'apiru*) and internal rivals — a picture of regional violence barely held in check by Egyptian oversight. Skeletal remains from this period across the Levant show high rates of violent death. Genesis 6's claim that "the land was filled with violence (*chamas*)" would describe conditions audiences recognized from living memory.
 
-**I-A3. Boat-building technology in the Late Bronze Age**
+#### I-A3. Boat-building technology in the Late Bronze Age
+**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
 Large vessels were built and documented. Egyptian maritime trade ships carried grain, timber, and luxury goods across the Mediterranean and down the Red Sea coast. Byblos was a major timber-shipping port. The specifications for the tebah in Genesis 6:15 (300 × 50 × 30 cubits) describe a vessel larger than anything attested — but a Late Bronze Age audience would understand the building categories: sealed container, bitumen waterproofing, multiple decks, animal cargo.
 
-**I-A4. The flood tradition in Moses's world**
+#### I-A4. The flood tradition in Moses's world
+**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
 The Atrahasis Epic (~1800 BCE) and related flood traditions were already ancient by the 13th century. Egyptian scribal education included Mesopotamian literary forms. If Moses was educated in the Egyptian court (Exodus 2), he would have had access to traditions about divine frustration with humanity, a warned survivor, and a world-destroying flood. The Genesis account's distinctive differences — moral cause (*chamas*), one God, a box not a boat, covenant rather than survival of divine food supply — would stand in sharp contrast.
 
 ---
@@ -247,44 +251,54 @@ The Atrahasis Epic (~1800 BCE) and related flood traditions were already ancient
 ### Scenario B: If composed during the Monarchic period (~10th-9th c. BCE)
 **[HISTORICAL / ARCHAEOLOGICAL — POSSIBLE]**
 
-**I-B1. Divine council and royal ideology**
+#### I-B1. Divine council and royal ideology
+**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
 The Israelite monarchy developed in close contact with Phoenician and Canaanite culture. The divine council concept (*bene ha-elohim* as members of a heavenly assembly) is attested in Ugaritic texts and is reflected in Psalm 82 ("God stands in the divine assembly"). In the monarchic period, this cosmology would be a live theological question: do divine beings operate independently? Is YHWH's authority over them absolute or contested? Genesis 6:1-4 poses the boundary-violation problem in a world where the divine council was a real concept.
 
-**I-B2. Covenant (*berit*) in monarchic context**
+#### I-B2. Covenant (*berit*) in monarchic context
+**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
 Covenant language in the 10th-9th centuries BCE was primarily political: treaties between kings, between a great king and vassal states. Mendenhall's analysis shows biblical covenant structure parallels Hittite treaty forms. Genesis 6:18's first use of *berit* would resonate in a culture where covenant was the language of binding obligation between parties of unequal power. YHWH commits before the terms are spelled out — a distinctive move compared to treaty conventions.
 
-**I-B3. Violence and divine patience — a monarchic question**
+#### I-B3. Violence and divine patience — a monarchic question
+**[HISTORICAL / ARCHAEOLOGICAL — PROBABLE]**
 The divided monarchy was a period of constant warfare, assassination, and political violence. Kings like Ahab faced prophetic indictments for injustice and bloodshed. The theological question Genesis 6 raises — at what point does divine patience reach its limit? — would be immediately relevant to a society whose political history was a series of increasingly violent failures.
 
 ---
 
-### Scenario C: If composed/finalized during the Exilic/Post-Exilic period (~6th-5th c. BCE)
-**[HISTORICAL / ARCHAEOLOGICAL — PROBABLE]** *(Scholarly consensus for final form)*
+### Scenario C: If composed/finalized during the Exilic/Post-Exilic period (~6th-5th c. BCE) — *Scholarly consensus for final form*
+**[HISTORICAL / ARCHAEOLOGICAL — PROBABLE]**
 
-**I-C1. Flood narratives in Babylon**
+#### I-C1. Flood narratives in Babylon
+**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
 Jewish exiles in Babylon lived in a culture where the flood traditions were actively maintained. The Babylonian New Year festival (Akitu) included recitation of the Enuma Elish. Atrahasis and Gilgamesh XI were scribal school texts — scribes copied them as part of standard training. The exilic community would have encountered the flood story in its Babylonian form and been in a position to understand — and deliberately contrast — their own tradition. The differences are sharp: moral cause, not divine annoyance at noise; one committed God, not a confused divine council; covenant commitment, not divine regret about losing a food supply.
 
-**I-C2. The divine-human boundary under Babylonian religion**
+#### I-C2. The divine-human boundary under Babylonian religion
+**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
 Babylonian religion featured apkallu — seven semi-divine sages who transmitted civilization to humanity before the flood. Demigods like Gilgamesh (two-thirds divine, one-third human) blurred the divine-human line as a matter of course. Genesis 6:1-4's report of divine-human transgression, and its consequence, would engage this background directly. The exilic community's insistence on a sharp divine-human boundary reflects the theological pressure of living inside a culture where that boundary was routinely dissolved.
 
-**I-C3. Violence as theological indictment under empire**
+#### I-C3. Violence as theological indictment under empire
+**[HISTORICAL / ARCHAEOLOGICAL — PROBABLE]**
 Babylonian conquest of Judah (597 and 586 BCE) was experienced as devastating violence — the destruction of the temple, mass deportation, and the killing of Zedekiah's sons before his eyes (2 Kings 25:7). In this context, Genesis 6's diagnosis of a world "filled with violence (*chamas*)" and the divine decision to destroy it carries weight not as abstract theology but as commentary on the community's recent experience: violence destroys the world, and no empire is immune.
 
-**I-C4. First covenant (*berit*) and Babylonian covenant concepts**
+#### I-C4. First covenant (*berit*) and Babylonian covenant concepts
+**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
 Mesopotamian treaty traditions (suzerainty treaties between a great king and vassal) provided the structural model for covenant language. In the exilic context, the first appearance of *berit* in Genesis 6:18 — God committing to a covenant with one man before the flood — would be read as the foundation of a theology that makes YHWH's covenant fidelity the counter-claim to Babylonian imperial power: the real binding obligation is not to Nebuchadnezzar but to the God who committed to Noah.
 
 ---
 
-### Scenario D: If redacted during the Persian/early-Hellenistic period (~4th-3rd c. BCE)
-**[HISTORICAL / ARCHAEOLOGICAL — POSSIBLE]** *(Associated with final Pentateuchal shaping)*
+### Scenario D: If redacted during the Persian/early-Hellenistic period (~4th-3rd c. BCE) — *Associated with final Pentateuchal shaping*
+**[HISTORICAL / ARCHAEOLOGICAL — POSSIBLE]**
 
-**I-D1. The flood narrative as cross-cultural literature**
+#### I-D1. The flood narrative as cross-cultural literature
+**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
 By the 4th-3rd centuries BCE, flood traditions circulated widely. Berossus of Babylon (c. 278 BCE) wrote a Greek-language account of the Babylonian flood for Hellenistic audiences, featuring the hero Xisuthros (= Ziusudra). Greek tradition had its own flood hero in Deucalion. In this context, the Genesis flood account would be understood as a contribution to a recognized genre of primordial history — but with distinctive theological content: one God, moral cause, covenant outcome.
 
-**I-D2. Divine-human relations in Greek philosophical context**
+#### I-D2. Divine-human relations in Greek philosophical context
+**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
 Greek philosophy (Plato's *Timaeus*, Aristotle's theology) was grappling with the relationship between divine and human in new ways. The Hellenistic period saw philosophical debates about whether gods intervened in human affairs, whether divine beings could desire humans, and what the proper relationship between the eternal and the temporal was. Genesis 6:1-4's account of divine-human boundary transgression and its catastrophic consequences would engage these questions — though from a very different theological starting point.
 
-**I-D3. Violence, covenant, and Persian imperial ethics**
+#### I-D3. Violence, covenant, and Persian imperial ethics
+**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
 Persian imperial ideology under Achaemenid kings (Cyrus, Darius, Artaxerxes) included claims of cosmic order — the Persian king as agent of Ahura Mazda, maintaining *asha* (truth/order) against *druj* (chaos/falsehood). Violence against the established order was framed as cosmic transgression. Genesis 6's claim that violence (*chamas*) violates the created order — and that God responds to it — would resonate as a claim that YHWH's moral order supersedes imperial order, including Persian imperial theology.
 
 ---

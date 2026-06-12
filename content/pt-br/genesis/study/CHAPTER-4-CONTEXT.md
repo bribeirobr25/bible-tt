@@ -224,19 +224,22 @@ Genesis 4:17–22 situa as origens da civilização na linhagem de Caim: constru
 
 ---
 
-### Cenário A: Se composto durante o período mosaico (~séc. XIII a.C.)
-**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]** *(Atribuição tradicional)*
+### Cenário A: Se composto durante o período mosaico (~séc. XIII a.C.) — *Atribuição tradicional*
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 
-**I-A1. Sacrifício e oferenda na prática da Idade do Bronze Tardio**
+#### I-A1. Sacrifício e oferenda na prática da Idade do Bronze Tardio
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 Caim traz uma oferenda (*minchah*) de "fruto do solo" e Abel traz "dos primogênitos do seu rebanho e das suas porções gordas" (4:3-4). Na Canaã e no Egito da Idade do Bronze Tardio, tanto oferendas agrícolas quanto animais eram praticadas. A religião egípcia dos templos distinguia entre oferendas de grão, oferendas de pão e sacrifícios de animais dependendo da divindade e da ocasião. Os textos ugaríticos (aproximadamente contemporâneos ao cenário mosaico) documentam sacrifício de animais a El e Baal com regras específicas sobre qualidade e tipo de oferenda. A narrativa não explica por que YHWH considera a oferenda de Abel diferente — o texto deixa isso sem explicação, gerando séculos de debate. O que o público original reconheceria imediatamente: qualidade da oferenda (porções gordas versus fruto genérico) e o princípio dos primogênitos (o melhor, não qualquer excedente) eram distinções conhecidas no sacrifício do antigo Oriente Próximo.
 
-**I-A2. Fratricídio e lei clânica na sociedade nômade**
+#### I-A2. Fratricídio e lei clânica na sociedade nômade
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 Em um contexto tribal e nômade (o cenário mosaico), o fratricídio estava entre as violações mais graves da ordem social, pois destruía a unidade de parentesco da qual dependia a sobrevivência. Códigos legais do antigo Oriente Próximo desta época (o Código de Hammurabi, aproximadamente séc. XVII a.C.) não tratam especificamente do fratricídio, mas a retaliação baseada em clã pelo assassinato (*vingança de sangue*, *go'el ha-dam*) era o mecanismo operativo de justiça em sociedades sem tribunais centralizados. A proteção de YHWH sobre Caim com uma marca (4:15) — impedindo a vendeta — representa intervenção divina em um sistema que de outra forma mandataria retaliação. O *ot* (marca) substitui a sanção divina pela justiça de clã.
 
-**I-A3. Economias pastorais versus agrícolas no Sinai e no Levante**
+#### I-A3. Economias pastorais versus agrícolas no Sinai e no Levante
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 A tensão entre Caim (agricultor) e Abel (pastor) reflete uma fricção socioeconômica real visível no cenário mosaico: os israelitas eram pastores seminômades, enquanto Canaã tinha comunidades agrícolas sedentárias. A literatura suméria já havia formalizado essa tensão no "Debate entre a Ovelha e o Grão" — um concurso literário entre os dois modos de produção. No deserto do Sinai, os israelitas mantinham rebanhos; entrar em Canaã significava fazer a transição para a agricultura de grãos. A dinâmica Caim-Abel mapeia essa transição: ambos os modos são legítimos, ambos produzem oferendas, mas o conflito entre eles é mortal.
 
-**I-A7. Tradições de origem das artes — música e metalurgia**
+#### I-A7. Tradições de origem das artes — música e metalurgia
 **[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
 Gênesis 4 atribui a fundação das artes culturais a ancestrais nomeados específicos: Yaval = ancestral de pastores que vivem em tendas (4:20); Yuval = ancestral dos tocadores de lira e flauta (4:21); Tuval-Qayin = forjador de ferramentas de bronze e ferro (4:22). Este é um catálogo de gênese cultural típico da literatura sapiencial do Antigo Oriente Próximo. Tradições comparáveis incluem o hino sumério "Inanna e Enki", onde os *me* (artes culturais: realeza, escribaria, metalurgia, música, etc.) são transferidos de Enki para Inanna e daí para Uruk; os *apkallu* acádios (sete sábios antediluvianos) creditados como fundadores dos ofícios; e as tradições gregas de Hefesto / Dédalo como originadores nomeados de ofícios. No cenário mosaico, os israelitas tinham experiência recente das oficinas metalúrgicas egípcias (cobre em Timna; ferramentas de bronze em toda parte) e teriam compreendido a metalurgia como uma especialidade de alta habilidade aprendida em centros geográficos — tornando a localização geográfica do ofício de Tuval-Qayin em uma linhagem específica culturalmente inteligível. **Fonte:** Westenholz, J.G., "Heroes of Akkad," *Journal of the American Oriental Society* 103 (1983); Foster, B.R., *Before the Muses: An Anthology of Akkadian Literature*, 3ª ed., CDL Press, 2005 (tradições dos apkallu). **[ANE COMPARATIVE — DOCUMENTED]**
 
@@ -244,51 +247,61 @@ Gênesis 4 atribui a fundação das artes culturais a ancestrais nomeados espec�
 
 ---
 
-### Cenário B: Se composto durante o período monárquico (~séc. X–IX a.C.)
-**[HISTÓRICO / ARQUEOLÓGICO — POSSÍVEL]** *(Alguns estudiosos situam as tradições das fontes primitivas aqui)*
+### Cenário B: Se composto durante o período monárquico (~séc. X–IX a.C.) — *Alguns estudiosos situam as tradições das fontes primitivas aqui*
+**[HISTÓRICO / ARQUEOLÓGICO — POSSÍVEL]**
 
-**I-B1. Construção de cidades e legitimidade real**
+#### I-B1. Construção de cidades e legitimidade real
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 Gênesis 4:17 apresenta Caim construindo a primeira cidade e nomeando-a em homenagem a seu filho. No período monárquico, a construção de cidades era uma prerrogativa real e um ato primordial de legitimação. Davi capturou Jerusalém; Salomão construiu o complexo do templo e do palácio; Onri construiu Samaria. Inscrições reais em todo o antigo Oriente Próximo vangloriavam-se de fundar cidades e construir muralhas. A narrativa do Gênesis situa a origem da construção de cidades não em um fundador justo, mas no primeiro assassino — uma narrativa que questiona implicitamente a ideologia da expansão urbana real. Que o texto diz que Caim "estava construindo" (particípio, construção contínua) sem registrar sua conclusão é uma ambiguidade sutil: a cidade permanece inacabada no texto.
 
-**I-B2. Metalurgia e a conexão quenita**
+#### I-B2. Metalurgia e a conexão quenita
+**[HISTÓRICO / ARQUEOLÓGICO — PROVÁVEL]**
 Tuval-Qayin (4:22), ancestral dos metalúrgicos, tem um nome cognato com *Qayin* (Caim) e possivelmente com os quenitas (*qeni*), um clã metalúrgico associado ao sogro de Moisés, Jetro (Jz 1:16; 4:11). No Israel da Idade do Ferro, a metalurgia era um ofício especializado, frequentemente praticado por artesãos itinerantes. A conexão entre os quenitas (ferreiros aliados a Israel) e Caim (o assassino amaldiçoado) é um enigma textual que a narrativa não resolve — o mesmo nome de raiz cobre tanto um ancestral amaldiçoado quanto um clã aliado. Essa ambiguidade é uma característica do texto, não um erro.
 
-**I-B3. Vingança de sangue e os limites da lei**
+#### I-B3. Vingança de sangue e os limites da lei
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 O cântico de Lemec (4:23-24) escala a proteção de Caim: "Se Caim é vingado sete vezes, então Lemec setenta e sete vezes." No período monárquico, a tensão entre a vingança de clã (*vingador de sangue*) e a autoridade real/judicial estava viva. O reinado de Davi inclui múltiplos episódios de vingança de sangue (2 Sm 3, 14, 21). As cidades de refúgio (Nm 35; Dt 19) representam uma tentativa legal de regular o sistema de vendeta. A jactância de Lemec, situada na linhagem de Caim, representa uma escalada de violência com a qual a elaboração de leis não consegue acompanhar — uma tensão que o público monárquico reconheceria como atual.
 
 *Para o contexto histórico completo deste período com todas as 10 categorias, veja o companheiro de Gênesis 1 Seção I, Cenário B.*
 
 ---
 
-### Cenário C: Se composto durante o período exílico/pós-exílico (~séc. VI–V a.C.)
-**[HISTÓRICO / ARQUEOLÓGICO — PROVÁVEL]** *(Consenso acadêmico para a forma final)*
+### Cenário C: Se composto durante o período exílico/pós-exílico (~séc. VI–V a.C.) — *Consenso acadêmico para a forma final*
+**[HISTÓRICO / ARQUEOLÓGICO — PROVÁVEL]**
 
-**I-C1. A tradição dos *apkallu* e a genealogia cultural de Caim**
+#### I-C1. A tradição dos *apkallu* e a genealogia cultural de Caim
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 A tradição babilônica atribuía as origens da civilização — escrita, agricultura, arquitetura, música, metalurgia — aos *apkallu*: sete sábios semidivinos enviados por Enki/Ea antes do dilúvio para ensinar a humanidade. A genealogia cultural de Gênesis 4 (vida em tendas, música, metalurgia todas se originando na linhagem de Caim) cobre categorias civilizacionais semelhantes, mas as atribui não a sábios divinos, mas aos descendentes do primeiro assassino. Judeus no exílio vivendo na Babilônia, onde a tradição dos *apkallu* era ativamente mantida, reconheceriam o paralelo e a inversão: a civilização é humana, não semidivina; ela emerge de uma linhagem falha, não como um dom divino.
 
-**I-C2. Economias agrícolas e pastorais na Babilônia**
+#### I-C2. Economias agrícolas e pastorais na Babilônia
+**[HISTÓRICO / ARQUEOLÓGICO — VERIFICADO]**
 O vale do Tigre-Eufrates no período exílico era intensamente agrícola — fazendas com irrigação por canais produzindo cevada, tâmaras e legumes. A pastagem operava nas regiões de estepe a leste e oeste dos sistemas fluviais. O arquivo Murashu (séc. V a.C.) mostra famílias judaicas na Babilônia envolvidas no arrendamento agrícola e no comércio de commodities — estavam integradas na economia agrícola de seus captores. A tensão Caim-Abel seria legível não como pré-história antiga, mas como realidade estrutural da economia ao redor deles: o agricultor e o pastor, em competição.
 
-**I-C3. Fratricídio e trauma nacional**
+#### I-C3. Fratricídio e trauma nacional
+**[HISTÓRICO / ARQUEOLÓGICO — PROVÁVEL]**
 Para uma comunidade que havia experimentado a destruição de Jerusalém, o assassinato dos filhos do rei Zedequias diante de seus olhos (2 Rs 25:7) e a dispersão de famílias pela Babilônia e pelo Egito, a narrativa de Gênesis 4 do irmão matando o irmão carregava o peso da memória nacional recente. A pergunta "Onde está seu irmão?" (4:9) — e a evasão de Caim — ressoava em uma comunidade que vira famílias destruídas, aliados mortos e o tecido social do parentesco despedaçado pela conquista imperial. A narrativa de Caim não é apenas história primordial nesse contexto; é uma lente sobre o presente.
 
-**I-C4. A marca de Caim e a prática administrativa persa**
+#### I-C4. A marca de Caim e a prática administrativa persa
+**[HISTÓRICO / ARQUEOLÓGICO — PROVÁVEL]**
 O Império Persa administrava seus vastos territórios em parte por meio de marcas de identificação, selos e fichas administrativas que rastreavam indivíduos e seu status. O *ot* (marca, sinal, ficha) em 4:15 é a mesma palavra usada para sinais astronômicos (Gn 1:14), circuncisão (*brit ot*, Gn 17:11) e o sangue da Páscoa nas ombreiras das portas (Êx 12:13). Em cada caso, o *ot* marca uma pessoa ou lugar como sob proteção ou status de aliança especial. A marca de Caim não é uma marca de vergonha — o texto é explícito: é uma proteção. Em um contexto administrativo persa, uma marca autorizada que impede outros de agir contra seu portador era uma forma reconhecível de proteção imperial.
 
 *Para o contexto histórico completo deste período com todas as 10 categorias, veja o companheiro de Gênesis 1 Seção I, Cenário C.*
 
 ---
 
-### Cenário D: Se redacionado durante o período persa/início do período helenístico (~séc. IV–III a.C.)
-**[HISTÓRICO / ARQUEOLÓGICO — POSSÍVEL]** *(Associado à configuração final do Pentateuco)*
+### Cenário D: Se redacionado durante o período persa/início do período helenístico (~séc. IV–III a.C.) — *Associado à configuração final do Pentateuco*
+**[HISTÓRICO / ARQUEOLÓGICO — POSSÍVEL]**
 
-**I-D1. Literatura genealógica grega e origens culturais**
+#### I-D1. Literatura genealógica grega e origens culturais
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 A tradição literária grega atribuía as origens das artes, ofícios e civilização a inventores lendários (*heuretai* — "primeiros descobridores"). Hesíodo atribuiu o fogo a Prometeu; tradições gregas posteriores catalogaram o primeiro inventor da música, da escrita, da agricultura e da metalurgia. O período helenístico produziu listas elaboradas de progenitores culturais. A genealogia de Gênesis 4 da linhagem de Caim — com fundadores nomeados para a vida em tendas/pastoralismo, música e metalurgia — participa do mesmo gênero intelectual, diferindo em seu enquadramento: esses inventores não são heróis ou semideuses, mas os descendentes do primeiro assassino. As origens da civilização são moralmente complicadas, e não heroicamente puras.
 
-**I-D2. Sacrifício no judaísmo do Segundo Templo**
+#### I-D2. Sacrifício no judaísmo do Segundo Templo
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 No período persa/helenístico, o sacrifício no Segundo Templo (reconstruído c. 515 a.C.) era o ato central da religião israelita. As regras que governavam o que constituía uma oferenda aceitável — o princípio dos primogênitos, as porções gordas, a distinção entre animais manchados e sem mancha — foram formalizadas em Levítico e Números. Ler Gênesis 4:3-4 nesse contexto colocou a oferenda rejeitada de Caim dentro de um sistema reconhecível: ele trouxe *algum* fruto, não os primeiros frutos; Abel trouxe especificamente os primogênitos e suas porções gordas. Os requisitos rituais que os judeus do Segundo Templo entendiam como regendo a adoração aceitável eram retrospectivamente visíveis na narrativa primordial.
 
-**I-D3. Urbanização e a cidade helenística (*polis*)**
+#### I-D3. Urbanização e a cidade helenística (*polis*)
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 O período helenístico foi a grande era de fundação de cidades: Alexandre fundou Alexandria e dezenas de outras cidades; os selêucidas e os ptolomeus construíram e renomearam cidades em todo o Oriente Próximo. A *polis* — a cidade-estado grega com sua ágora, templos, ginásio e instituições cívicas — era o modelo de vida civilizada. A atribuição do Gênesis 4:17 da primeira cidade ao primeiro assassino teria peso satírico nesse contexto: a tradição da *polis* rastreava suas origens a legisladores ideais (Sólon, Licurgo); a tradição do Gênesis rastreia a urbanização a Caim. A contranarrativa é implícita, mas contundente.
 
 *Para o contexto histórico completo deste período com todas as 10 categorias, veja o companheiro de Gênesis 1 Seção I, Cenário D.*

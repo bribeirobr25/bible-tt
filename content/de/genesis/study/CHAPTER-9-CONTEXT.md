@@ -269,69 +269,82 @@ Genesis 9:20–21: Noah „pflanzte einen Weinberg, und er trank vom Wein und wu
 
 ---
 
-### Szenario A: Wenn während der mosaischen Periode verfasst (~13. Jh. v. Chr.)
-**[HISTORISCH / ARCHÄOLOGISCH — DOKUMENTIERT]** *(Traditionelle Zuschreibung)*
+### Szenario A: Wenn während der mosaischen Periode verfasst (~13. Jh. v. Chr.) — *Traditionelle Zuschreibung*
+**[HISTORISCH / ARCHÄOLOGISCH — DOKUMENTIERT]**
 
-**I-A1. Weinbau in der späten Bronzezeit**
+#### I-A1. Weinbau in der späten Bronzezeit
+**[HISTORISCH / ARCHÄOLOGISCH — VERIFIZIERT]**
 Weinanbau und Weinherstellung waren im 13. Jahrhundert v. Chr. bereits alte Technologien. Ägyptische Grabmalereien der Neuen Reichszeit zeigen Weinbergpflege und Weinpressen als Prestige-Aktivitäten. Kanaanäische Städte produzierten Wein für die ägyptische Garnison-Wirtschaft — die Amarna-Briefe (14. Jh. v. Chr.) enthalten Anfragen nach Wein unter den Tributgütern. Der Südkaukasus und Ostanatolien (die Ararat-Region der Genesis) sind archäologisch als älteste Weinproduktionszonen bestätigt (Hadji Firuz Tepe, ca. 5400 v. Chr.). Ein israelitisches Publikum in der Sinai- oder frühkanaanäischen Periode würde Wein als Merkmal der sesshaften Zivilisation gekannt haben — genau der Kontext, den Genesis 9:20–21 für den nachflutlichen „Mann des Erdbodens" andeutet.
 
-**I-A2. Ehre-Scham-Kultur und das Gesetz der Nacktheit**
+#### I-A2. Ehre-Scham-Kultur und das Gesetz der Nacktheit
+**[HISTORISCH / ARCHÄOLOGISCH — DOKUMENTIERT]**
 Spätbronzezeitliche Gesetzbücher behandelten die Entblößung eines Vaters als gemeinschaftliches Schamereignis, das eine rituelle Antwort erforderte. Die hethitischen Gesetze (§§187–200) befassen sich mit sexuellen Vergehen innerhalb der Familie; die mittelassyrischen Gesetze verhängen schwere Strafen für sexuellen Respektbruch. In ägyptischen und kanaanäischen Patriarchatshaushalten trug der Körper des Patriarchen die Ehre des gesamten Clans. Chams Handlung — Sehen und dann Weitererzählen — würde einem mosaischen Publikum als doppelte Übertretung verständlich gewesen sein: Sowohl das Sehen als auch das Reden verstießen gegen die Hausehrenormen. Der rückwärtige Gang von Schem und Jafet (9:23) ist eine choreografierte Ehrenwiederherstellungsgeste, die in jedem spätbronzezeitlichen kulturellen Kontext verständlich ist.
 
-**I-A3. Bundesstruktur in der späten Bronzezeit**
+#### I-A3. Bundesstruktur in der späten Bronzezeit
+**[HISTORISCH / ARCHÄOLOGISCH — DOKUMENTIERT]**
 Der Noachitische Bund (9:8–17) folgt einem erkennbaren Muster: göttliche Ankündigung, Inhalt, Zeichen. Hethitische Vasallenverträge des 14.–13. Jahrhunderts v. Chr. verwendeten genau diese Struktur — Präambel, Bestimmungen, Zeugen, Segen und Flüche. Was den Noachitischen Bund in diesem Kontext ungewöhnlich macht, ist das vollständige Fehlen menschlicher Verpflichtungen. Spätbronzezeitliche Verträge waren bilateral; dieser Bund ist vollständig einseitig. Ein israelitisches Publikum, das gerade aus dem bilateralen Sinai-Bund (Exod 19–24) kommt, würde den Kontrast sofort registriert haben: JHWH bindet sich selbst, ohne irgendetwas von der menschlichen Seite zu verlangen.
 
-**I-A4. Bogensymbolik in der altorientalischen Kriegerkultur**
+#### I-A4. Bogensymbolik in der altorientalischen Kriegerkultur
+**[HISTORISCH / ARCHÄOLOGISCH — DOKUMENTIERT]**
 In der Ikonographie der späten Bronzezeit war der Kriegsbogen die quintessenzielle göttliche Waffe. Ägyptische Pharaonen wurden als Bogenschützen dargestellt — Ramses' II. Schlachtreliefs zeigen ihn als einzigen Krieger mit Bogen gegen die Hethiter. Kanaanäische Sturmgötter (Baal, Hadad) waren Kriegerbogenschützen. Die mesopotamische Gottheit Ninurta trug einen Bogen. Das Bild in Genesis 9:13 — „meinen Bogen habe ich in die Wolke gestellt" — positioniert JHWH als einen göttlichen Krieger, der seine Waffe aufgehängt hat. Für ein spätbronzezeitliches Publikum, das mit dieser ikonografischen Sprache vertraut war, trägt die Geste klare Bedeutung: Der Krieg ist vorbei, die Waffe zurückgelegt, der Krieger hat abgerüstet.
 
-**I-A9. Religion nach der Flut — Blutverbot und niedergelegte-Bogen-Bildsprache**
+#### I-A9. Religion nach der Flut — Blutverbot und niedergelegte-Bogen-Bildsprache
 **[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
 Der religiöse Rahmen von Genesis 9 führt zwei Neuerungen ein, die sich von der schöpfungszeitlichen Religion von Genesis 1 unterscheiden. Erstens parallelisiert die ausdrückliche Gleichsetzung von Leben mit Blut (9:4: „Fleisch mit seinem Leben — seinem Blut — sollt ihr nicht essen") zeitgenössische levantinische Opfersysteme, unterscheidet sich jedoch davon: Hethitische Ritualtexte behandeln Blut als die eigentliche Opfersubstanz, verbieten aber den Verzehr nicht an sich; die kanaanäischen *zebach*-Opfer sammelten Blut in Becken zur rituellen Besprengung, schlossen es aber nicht zwingend vom Kultmahl aus. Das Verbot in Genesis 9 ist ein Kategorienmarker: Der Mensch nach der Flut darf Tierfleisch essen, ist aber von der mit dem Leben gleichgesetzten Substanz ausgeschlossen. Zweitens findet der Regenbogen-als-niedergelegter-Bogen (9:13) seine engste Parallele im akkadischen *Atrahasis*-Epos, wo die Göttin Nintu nach der Flut ihre *Lapislazuli*-Halskette emporhebt, um die Katastrophe in Erinnerung zu rufen — ein dauerhaftes himmlisches Zeichen des Bedauerns der Götter. In beiden Traditionen wird ein am Himmel sichtbares Objekt zu einem Erinnerungspfand gegen die Wiederholung der Zerstörung. **Quelle:** Levine, B.A., *Leviticus* (JPS Torah Commentary), Jewish Publication Society, 1989 (Blut-Leben-Gleichsetzung in altorientalischen Opfersystemen); Lambert, W.G. und Millard, A.R., *Atrahasis: The Babylonian Story of the Flood*, Eisenbrauns, 1969. **[ANE COMPARATIVE — DOCUMENTED]**
 
-**I-A10. Drei-Zweige-Ethnogenese-Schema (Schem / Cham / Jafet)**
+#### I-A10. Drei-Zweige-Ethnogenese-Schema (Schem / Cham / Jafet)
 **[HISTORICAL / ARCHAEOLOGICAL — POSSIBLE]**
 Die Benennung der drei Söhne Noachs als Ahnen dreier Zweige nachflutlicher Menschheit (9,18-19, mit der genealogischen Aufspreizung in Gen 10) ist ein strukturell ungewöhnliches Schema in der altorientalischen Literatur. Das akkadische *Atrahasis*-Epos nennt einen einzigen Flutüberlebenden (Atrahasis / Ziusudra / Utnapischtim je nach Tradition) und schreitet direkt zur Wiederbevölkerung fort, ohne ein Drei-Söhne-Schema. Sumerische Königslisten-Traditionen verfolgen das Königtum nach der Flut als kontinuierliche Institution, die von einer Stadt zur nächsten herabreicht, nicht durch eine Drei-Zweige-Genealogie. Die nächste griechische Parallele — Hellen als Stammvater der Dorer, Aioler und Ionier + Achäer — ist strukturell ähnlich (ein Ahnherr → drei oder vier benannte Linienzweige), aber Jahrhunderte später als die Textschichten, die die meisten Forscher Gen 9–10 zuweisen. Mögliche Funktion: Das Drei-Zweige-Schema könnte einer bündnis-segenstheologischen Logik der mosaisch-zeitlichen israelitischen Weltsicht dienen, in der Schem (→ Avraham → Israel) innerhalb eines triadischen Rahmens privilegiert ist, der Israel als Erbe einer bestimmten nachflutlichen Linie unter legitimen Alternativen positioniert. **Quelle:** Day, J., *From Creation to Babel: Studies in Genesis 1–11*, Bloomsbury T&T Clark, 2013, Kap. 6 (Söhne Noachs). **[PEER-REVIEWED — DOCUMENTED]**
 
 ---
 
-### Szenario B: Wenn während der Königszeit verfasst (~10.–9. Jh. v. Chr.)
-**[HISTORISCH / ARCHÄOLOGISCH — MÖGLICH]** *(Einige Gelehrte verorten frühe Quellentraditionen hier)*
+### Szenario B: Wenn während der Königszeit verfasst (~10.–9. Jh. v. Chr.) — *Einige Gelehrte verorten frühe Quellentraditionen hier*
+**[HISTORISCH / ARCHÄOLOGISCH — MÖGLICH]**
 
-**I-B1. Weinbau als königliche Wirtschaft**
+#### I-B1. Weinbau als königliche Wirtschaft
+**[HISTORISCH / ARCHÄOLOGISCH — VERIFIZIERT]**
 Die Königszeit sah den Weinbau zur integralen Größe der israelitischen Staatswirtschaft werden. Salomos Verwaltungsbezirke (1 Kön 4) schlossen Weinproduktionsregionen ein. Phönizische Handelspartner exportierten levantinischen Wein quer durch das Mittelmeer. Die Samarien-Ostraka (9. Jh. v. Chr.) verzeichnen Weinlieferungen an das Königshaus. Noachs Weinberg in Genesis 9:20–21 würde bei einem königszeitlichen Publikum als Gründungsakt einer zivilisierten Wirtschaft resonieren: Der erste Patriarch der nachflutlichen Welt pflanzt die Frucht, die das königliche Leben trägt. Die Zurückhaltung des Textes — kein moralisches Urteil über den Wein selbst — entspricht der Kultur der vermuteten Entstehungszeit, wo Wein normal war.
 
-**I-B2. Fluchen und Segnen als politische Rede**
+#### I-B2. Fluchen und Segnen als politische Rede
+**[HISTORISCH / ARCHÄOLOGISCH — VERIFIZIERT]**
 Noachs Orakel (9:25–27) verbindet einen formellen Fluch über Kanaan mit Segen für Schem und Jafet. In der Königszeit waren Segen und Fluch aktive politische Sprechakte. Königliche Inschriften riefen göttliche Segen für Nachfolger und Flüche über diejenigen auf, die Denkmäler beschädigen würden (die Mescha-Stele, 9. Jh. v. Chr., enthält beides). Prophetische Orakel von Segen und Fluch (Nathan an David, Elija gegen Ahab) wurden als bindende wirklichkeitsgestaltende Worte verstanden. Ein Publikum in der vereinigten oder geteilten Monarchie würde Noachs Orakel als konstitutionelle Rede gehört haben: das Gründungspatriarchenwort, das die hierarchische Ordnung unter den Nationen seiner Nachkommen festlegt.
 
-**I-B3. Kanaan in der politischen Landschaft**
+#### I-B3. Kanaan in der politischen Landschaft
+**[HISTORISCH / ARCHÄOLOGISCH — WAHRSCHEINLICH]**
 Während der Königszeit waren die kanaanäischen Stadtstaaten größtenteils durch israelitische Besiedlung und die philistäische Präsenz absorbiert, verdrängt oder untergeordnet worden. Der „Fluch Kanaans" (9:25) hätte unmittelbare politische Resonanz getragen: Er erklärte und legitimierte Israels Verhältnis zu den früheren Bewohnern des Landes. Das bedeutet nicht, dass der Fluch für diesen Zweck erfunden wurde — er könnte älter sein —, aber seine Bewahrung und Überlieferung in der Königszeit erfüllte eine klare ideologische Funktion: Die Unterwerfung Kanaans war in die Gründungserzählung der gesamten Menschheit eingeschrieben, zurückgeführt vor Abraham, vor Mose, auf den ersten Patriarchen der Welt.
 
 ---
 
-### Szenario C: Wenn während der Exils-/Nachexilszeit verfasst/abgeschlossen (~6.–5. Jh. v. Chr.)
-**[HISTORISCH / ARCHÄOLOGISCH — WAHRSCHEINLICH]** *(Wissenschaftlicher Konsens für die Endgestalt)*
+### Szenario C: Wenn während der Exils-/Nachexilszeit verfasst/abgeschlossen (~6.–5. Jh. v. Chr.) — *Wissenschaftlicher Konsens für die Endgestalt*
+**[HISTORISCH / ARCHÄOLOGISCH — WAHRSCHEINLICH]**
 
-**I-C1. Bundestheologie unter imperialer Herrschaft**
+#### I-C1. Bundestheologie unter imperialer Herrschaft
+**[HISTORISCH / ARCHÄOLOGISCH — WAHRSCHEINLICH]**
 Jüdische Exilanten in Babylon (586–539 v. Chr.) lebten unter der Herrschaft Nebukadnezars und dann des Persers Kyros. Der universelle Umfang des Noachitischen Bundes — geschlossen mit „allem Lebendigen" und „allen Generationen der Ewigkeit" — würde in diesem Kontext theologisches Gewicht tragen. Er behauptete, dass der Gott der exilierten, tempellosen Gemeinschaft derselbe Gott war, der nach der Flut mit der gesamten Menschheit einen Bund geschlossen hatte und sich verpflichtet hatte, die Schöpfung nie wieder zu vernichten. Babylons Flut der Eroberung konnte diesen Bund nicht ungültig machen. Das Regenbogenzeichen war nicht allein eine Verheißung an Israel; es ging Abraham, Mose und dem Sinai-Bund voraus. Exilspublika konnten in Genesis 9 ein Fundament finden, das unabhängig vom zerstörten Tempel bestand.
 
-**I-C2. Der Bogen als Gegenbild zur babylonischen Götterkrieger-Mythologie**
+#### I-C2. Der Bogen als Gegenbild zur babylonischen Götterkrieger-Mythologie
+**[HISTORISCH / ARCHÄOLOGISCH — DOKUMENTIERT]**
 Marduk im Enuma Elisch (jährlich beim babylonischen Neujahrsfest rezitiert) schwang seinen Bogen als Sternbild — er setzte ihn nach dem Sieg über Tiamat als Trophäe an den Himmel. Der Bogen am Himmel war ein babylonisches Symbol göttlicher Eroberung und fortlaufender kosmischer Herrschaft. Genesis 9:13 — „meinen Bogen habe ich in die Wolke gestellt" — verwendet dasselbe Bild, kehrt aber seine Bedeutung vollständig um: JHWHs Bogen ist keine Siegestrophäe, sondern ein Zeichen der Selbstbeschränkung und des Bundes. Für jüdische Exilanten, die beide Texte in Babylon hörten, war diese Neuinterpretation pointiert. Der Himmelbogen gehört JHWH, und er bedeutet das Gegenteil dessen, was Babylon sagte.
 
-**I-C3. Universale Ursprünge und ethnische Identität in der Diaspora**
+#### I-C3. Universale Ursprünge und ethnische Identität in der Diaspora
+**[HISTORISCH / ARCHÄOLOGISCH — WAHRSCHEINLICH]**
 Genesis 9:18–19 stellt eine Welt vor, die vollständig von drei Brüdern abstammt. Für jüdische Gemeinschaften in Babylon, Ägypten und Persien — die unter Babyloniern, Persern und Ägyptern lebten — bot der Rahmen der Völkertafel (hier vorbereitet) eine Karte der Völker der Welt, abgeleitet von einer Familie. Die Babylonier (Nimrods Städte — Babel, Erech, Akkad) befanden sich im Familienstammbaum. Die Perser (Madai, Linie Jafets) befanden sich im Familienstammbaum. Das war nicht die Behauptung, alle Völker seien gleich — die noachitischen Segen unterscheiden die Linien —, aber es war die Behauptung, alle Völker teilten einen gemeinsamen Ursprung, und dieser Ursprung wurde in den Begriffen von Israels Tradition erzählt, nicht in denen Babylons.
 
 ---
 
-### Szenario D: Wenn während der persischen/früh-hellenistischen Zeit redigiert (~4.–3. Jh. v. Chr.)
-**[HISTORISCH / ARCHÄOLOGISCH — MÖGLICH]** *(Mit der abschließenden Pentateuchgestaltung verbunden)*
+### Szenario D: Wenn während der persischen/früh-hellenistischen Zeit redigiert (~4.–3. Jh. v. Chr.) — *Mit der abschließenden Pentateuchgestaltung verbunden*
+**[HISTORISCH / ARCHÄOLOGISCH — MÖGLICH]**
 
-**I-D1. Weinbau in der hellenistischen Welt**
+#### I-D1. Weinbau in der hellenistischen Welt
+**[HISTORISCH / ARCHÄOLOGISCH — DOKUMENTIERT]**
 Im 4.–3. Jahrhundert v. Chr. war der Weinstock ein kulturelles Symbol in der gesamten Mittelmeerwelt. Die griechische Weinkultur breitete sich durch hellenistische Handelsnetze aus. Dionysos (der griechische Gott des Weines) war eine der am weitesten verehrten Gottheiten in der hellenistischen Welt. In diesem Kontext trug die Identifizierung von Noach als erstem Winzer in Genesis 9:20 einen impliziten Anspruch: Die Ursprünge des Weins gehören zur Erzählung von Israels Gott und dem ersten Patriarchen der Menschheit, nicht zur griechischen Mythologie. Die Zurückhaltung des Textes — keine theologische Verurteilung des Weins, keine Feier als göttliche Gabe — ist kennzeichnend in einer Welt, in der beide Haltungen verbreitet waren.
 
-**I-D2. Nacktheit, Scham und hellenistische Körperkultur**
+#### I-D2. Nacktheit, Scham und hellenistische Körperkultur
+**[HISTORISCH / ARCHÄOLOGISCH — DOKUMENTIERT]**
 Die griechische Kultur feierte den unbekleideten männlichen Körper — der Nackte (*gymnos*) war ein Zeichen athletischer Tugend und freier Bürgerschaft. Dies stand in scharfem Kontrast zur altorientalischen und israelitischen Ehre-Scham-Kultur, in der öffentliche Nacktheit Entblößung und Verletzlichkeit bedeutete. Die sorgfältige Behandlung von Noachs Nacktheit in Genesis 9:22–23 — Übertretung, abgewandte Augen, Bedeckung — würde gegen das Korn der hellenistischen Körperideologie gelesen worden sein. Für eine jüdische Gemeinschaft, die im 4.–3. Jahrhundert v. Chr. hellenistischem Kulturdruck ausgesetzt war, kodierte die Noach-Erzählung ein anderes Wertsystem: Der Körper ist kein öffentliches Schaustück, sondern ein Ort familiärer Ehre und Scham, der Schutz erfordert.
 
-**I-D3. Das Bundeskonzept in einer Welt imperialer Verträge**
+#### I-D3. Das Bundeskonzept in einer Welt imperialer Verträge
+**[HISTORISCH / ARCHÄOLOGISCH — VERIFIZIERT]**
 Die persische und früh-hellenistische imperiale Verwaltung funktionierte durch Verträge, Charten und Verwaltungsdekrete. Der Kyros-Zylinder (539 v. Chr.) exemplifiziert das Genre: eine einseitige königliche Erklärung, die einem Volk Rechte gewährt. Der Noachitische Bund teilt strukturelle Merkmale mit diesem Genre — ein mächtiger Souverän macht einem untergeordneten Volk eine einseitige Zusage —, kehrt aber das Machtverhältnis um. Hier macht der universelle Souverän eine bedingungslose Verpflichtung, das, was er schuf, nicht zu vernichten. Für eine Gemeinschaft, deren Existenz von imperialer Gunst abhing, bot die Behauptung, eine höhere Souveränität habe sich bereits zur Nicht-Vernichtung der Schöpfungsordnung verpflichtet, einen theologischen Anker, den kein persisches oder hellenistisches Dekret widerrufen konnte.
 
 ---

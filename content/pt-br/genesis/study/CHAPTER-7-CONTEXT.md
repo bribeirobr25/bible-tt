@@ -219,19 +219,23 @@ A narrativa do dilúvio fornece datas calendáricas exatas: início no segundo m
 
 ---
 
-### Cenário A: Se composto durante o período mosaico (~séc. XIII a.C.)
-**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]** *(Atribuição tradicional)*
+### Cenário A: Se composto durante o período mosaico (~séc. XIII a.C.) — *Atribuição tradicional*
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 
-**I-A1. Cosmologia das águas na Idade do Bronze Tardio**
+#### I-A1. Cosmologia das águas na Idade do Bronze Tardio
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 O mecanismo do dilúvio em Gênesis 7:11 — "todas as fontes do grande abismo irromperam e as janelas dos céus se abriram" — reflete um modelo cosmológico de três camadas: águas acima da abóbada celeste, a terra habitável e águas subterrâneas abaixo. Esse modelo era compartilhado em todo o antigo Oriente Próximo. A cosmologia egípcia retratava uma deusa-céu arqueada sobre a terra com águas acima e abaixo; a cosmologia mesopotâmica tinha o oceano primordial (*Apsu*) embaixo e uma abóbada celestial sólida acima. Num contexto do período mosaico, a descrição do dilúvio evocaria uma estrutura cosmológica que o público já conhecia.
 
-**I-A2. Medições em côvados e sua variação**
+#### I-A2. Medições em côvados e sua variação
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 Gênesis 6:15 fornece as dimensões da *tevah* em côvados. O côvado (o comprimento do cotovelo até a ponta do dedo médio) variava por cultura e período: o côvado egípcio padrão era de aproximadamente 45,7 cm; o côvado real, de aproximadamente 52,5 cm; os côvados mesopotâmicos também variavam. No século XIII a.C., medições padronizadas de côvados já estavam em uso para construções monumentais no Egito e no Levante. O uso de côvados pelo texto situa o relato em um mundo de medição prática e construção organizada.
 
-**I-A3. Manejo de animais e grandes rebanhos**
+#### I-A3. Manejo de animais e grandes rebanhos
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 A instrução de trazer animais "dois a dois" ou "sete sete" dos limpos (Gn 7:2-3) pressupõe familiaridade com a pecuária em larga escala. O Levante da Idade do Bronze Tardio mantinha rebanhos de bovinos, ovelhas, cabras e jumentos como principais fontes de alimento, lã e tração. Papiros administrativos egípcios registram estábulos reais com centenas de cavalos e rebanhos de bovinos. O manejo de múltiplas espécies animais a bordo de uma grande embarcação seria compreendido contra esse pano de fundo de manejo de animais em nível de grandes propriedades, mesmo que a escala em Gênesis exceda qualquer coisa atestada.
 
-**I-A4. Períodos de sete dias e o cômputo lunar**
+#### I-A4. Períodos de sete dias e o cômputo lunar
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 O período de espera de sete dias antes do dilúvio (7:4, 7:10) e os múltiplos marcadores temporais do dilúvio refletem um mundo organizado por ciclos de sete dias e meses lunares. O calendário mesopotâmico já utilizava uma estrutura de sete dias, com o sétimo dia como significativo. Calendários lunares egípcios acompanhavam os ciclos mensais. A precisão calendárica de Gênesis 7 — marcadores de mês e dia — reflete práticas de controle administrativo do tempo familiares em todo o antigo Oriente Próximo.
 
 ---
@@ -239,44 +243,54 @@ O período de espera de sete dias antes do dilúvio (7:4, 7:10) e os múltiplos 
 ### Cenário B: Se composto durante o período monárquico (~séc. X-IX a.C.)
 **[HISTÓRICO / ARQUEOLÓGICO — POSSÍVEL]**
 
-**I-B1. A experiência das cheias na Mesopotâmia e no Levante**
+#### I-B1. A experiência das cheias na Mesopotâmia e no Levante
+**[HISTÓRICO / ARQUEOLÓGICO — VERIFICADO]**
 O Tigre e o Eufrates transbordavam regularmente, às vezes de forma catastrófica. Camadas arqueológicas de inundação em Shuruppak e Kish (c. 2900-2800 a.C.) correspondem ao período em que as tradições mesopotâmicas de dilúvio tomavam forma literária. No Levante, as chuvas de inverno e as inundações relâmpago em wadis eram eventos anuais. As cheias sazonais do rio Jordão ameaçavam assentamentos no vale. Um público do período monárquico compreenderia a narrativa do dilúvio contra o conhecimento pessoal e cultural do que as águas crescentes faziam de fato a assentamentos, colheitas e rebanhos.
 
-**I-B2. Distinções entre puro e impuro no Israel pré-exílico**
+#### I-B2. Distinções entre puro e impuro no Israel pré-exílico
+**[HISTÓRICO / ARQUEOLÓGICO — PROVÁVEL]**
 A distinção entre animais puros e impuros (7:2) antes do Sinai sugere uma categoria cultual pré-mosaica. No período monárquico, a prática sacrificial estava ativa em múltiplos sítios — Jerusalém, Betel, Dã e lugares altos rurais. Sacerdotes e fiéis saberiam imediatamente quais animais eram aceitáveis para o sacrifício. Os "sete sete" dos animais limpos no relato do dilúvio seria entendido como fornecimento do excedente necessário para o sacrifício pós-dilúvio, consistente com a prática cultual cotidiana.
 
-**I-B3. O fechamento divino como proteção singular**
+#### I-B3. O fechamento divino como proteção singular
+**[HISTÓRICO / ARQUEOLÓGICO — PROVÁVEL]**
 A afirmação em Gênesis 7:16 de que "YHWH fechou atrás dele" — Deus pessoalmente selando a *tevah* — não tem paralelo nos relatos mesopotâmicos de dilúvio, nos quais um artesão ou guarda realiza o fechamento. Num contexto monárquico em que o envolvimento pessoal de YHWH na proteção de Israel era uma reivindicação teológica viva (YHWH como guerreiro, protetor do rei, guardião de Jerusalém), o detalhe de que YHWH mesmo fecha a porta carrega o peso do compromisso divino pessoal com o sobrevivente da aliança.
 
 ---
 
-### Cenário C: Se composto/finalizado durante o período Exílico/Pós-Exílico (~séc. VI-V a.C.)
-**[HISTÓRICO / ARQUEOLÓGICO — PROVÁVEL]** *(Consenso acadêmico para a forma final)*
+### Cenário C: Se composto/finalizado durante o período Exílico/Pós-Exílico (~séc. VI-V a.C.) — *Consenso acadêmico para a forma final*
+**[HISTÓRICO / ARQUEOLÓGICO — PROVÁVEL]**
 
-**I-C1. A experiência das cheias mesopotâmicas como contexto vivido**
+#### I-C1. A experiência das cheias mesopotâmicas como contexto vivido
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 Os exilados judeus na Babilônia viviam em uma civilização fluvial definida pelas inundações. O Eufrates e o Tigre podiam subir dramaticamente com o degelo das neves da primavera nos montes Taurus e Zagros. As cidades babilônicas mantinham sistemas de diques, redes de canais e infraestrutura de controle de cheias. Um público exílico que lia Gênesis 7 compreenderia o mecanismo do dilúvio — "fontes do abismo" + "janelas dos céus" — contra a experiência direta de um ambiente sujeito a inundações e a linguagem cosmológica que seus vizinhos usavam para explicá-lo.
 
-**I-C2. Sistemas de medição babilônicos**
+#### I-C2. Sistemas de medição babilônicos
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 A educação escribal babilônica incluía treinamento sistemático em medição: o côvado (*ammatu*), o cálamo (seis côvados) e unidades maiores para medição de campo. O cálculo astronômico usava o mesmo sistema de base 60 para tempo e distância. A precisão da cronologia do dilúvio — marcadores de mês e dia, períodos de 150 dias correspondentes a cinco meses de 30 dias — reflete exatamente os meses administrativos de 30 dias e o calendário esquemático de 360 dias usados na prática administrativa babilônica. A comunidade exílica leria essa precisão à luz de seu conhecimento do cômputo do tempo babilônico.
 
-**I-C3. Des-criação e re-criação cosmológica**
+#### I-C3. Des-criação e re-criação cosmológica
+**[HISTÓRICO / ARQUEOLÓGICO — PROVÁVEL]**
 O mecanismo do dilúvio em Gênesis 7:11 — fontes do abismo + janelas dos céus — reverte precisamente a separação do Dia 2 em Gênesis 1:6-7. Num contexto exílico, em que a destruição de Jerusalém podia ser vivida como des-criação cósmica (o templo desaparecido, a cidade santa incendiada, a comunidade da aliança dispersa), a estrutura da narrativa do dilúvio — des-criação seguida de re-criação — carregaria ressonância teológica imediata. Os exilados viviam no rescaldo do desfazimento de seu próprio mundo.
 
-**I-C4. Preservação dos animais e a continuidade da criação**
+#### I-C4. Preservação dos animais e a continuidade da criação
+**[HISTÓRICO / ARQUEOLÓGICO — PROVÁVEL]**
 A ênfase em preservar cada espécie — "dois de todo ser vivo", puros e impuros — reflete uma teologia do valor intrínseco da criação. Nos relatos babilônicos de dilúvio, os animais embarcam na nave principalmente como suprimento de alimento. Gênesis 7 apresenta sua preservação como imperativo divino: as categorias e a diversidade da criação devem sobreviver. Numa comunidade exílica ansiosa sobre se sua identidade, suas práticas e os propósitos de seu Deus sobreviveriam, a imagem do cuidado divino pela continuidade de cada criatura carregava peso específico.
 
 ---
 
-### Cenário D: Se redatado durante o período Persa/proto-Helenístico (~séc. IV-III a.C.)
-**[HISTÓRICO / ARQUEOLÓGICO — POSSÍVEL]** *(Associado à configuração pentateucal final)*
+### Cenário D: Se redatado durante o período Persa/proto-Helenístico (~séc. IV-III a.C.) — *Associado à configuração pentateucal final*
+**[HISTÓRICO / ARQUEOLÓGICO — POSSÍVEL]**
 
-**I-D1. Cronologia comparada do dilúvio e disputas calendáricas**
+#### I-D1. Cronologia comparada do dilúvio e disputas calendáricas
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 Nos séculos IV-III a.C., diferentes grupos judaicos usavam diferentes calendários: o calendário lunar padrão na Babilônia, o calendário de 364 dias refletido em Jubileus e 1 Enoque, e o calendário solar que pode estar subjacente à cronologia do dilúvio. As datas precisas da narrativa do dilúvio (Gn 7:11; 8:4, 5, 13, 14) eram aparentemente lidas de forma diferente dependendo do sistema calendárico utilizado. A própria precisão pode ter sido concebida para ancorar a narrativa dentro de uma tradição calendárica específica — questão viva nas comunidades escribais do período.
 
-**I-D2. Tradições universais de dilúvio num contexto comparativo helenístico**
+#### I-D2. Tradições universais de dilúvio num contexto comparativo helenístico
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 A *Babyloniaca* de Berossus (c. 278 a.C.) e a tradição grega de Deucalião circulavam simultaneamente com a Torá. Num contexto helenístico em que narrativas de dilúvio eram reconhecidas como um gênero transcultural, as características distintivas de Gênesis 7 — mecanismo cosmológico, datas precisas, fechamento divino — seriam lidas como marcadoras das reivindicações teológicas da tradição israelita em contraste com o pano de fundo comparativo. A pergunta "qual relato de dilúvio é autorizado?" era viva num mundo em que múltiplas tradições competiam.
 
-**I-D3. Cosmologia das águas no pensamento judaico tardio**
+#### I-D3. Cosmologia das águas no pensamento judaico tardio
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 O modelo cosmológico de três camadas (águas acima, terra, águas abaixo) recebia atenção teológica crescente na literatura judaica do Segundo Templo tardio. O *Livro dos Jubileus* (~séc. II a.C.) reconta o dilúvio com as mesmas premissas cosmológicas. As seções astronômicas de *1 Enoque* descrevem as janelas dos céus como comportas físicas. A linguagem cosmológica de Gênesis 7 — *tehom rabbah*, *arubbot ha-shamayim* — não era simplesmente texto herdado, mas vocabulário cosmológico vivo em uso ativo.
 
 ---
