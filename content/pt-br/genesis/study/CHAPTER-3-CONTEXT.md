@@ -333,67 +333,80 @@ Gênesis 2:17: "no dia em que comeres dela, morrendo morrerás" — dirigido ao 
 
 ---
 
-### Cenário A: Se composto durante o período mosaico (~séc. XIII a.C.)
-**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]** *(Atribuição tradicional)*
+### Cenário A: Se composto durante o período mosaico (~séc. XIII a.C.) — *Atribuição tradicional*
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 
-**I-A1. Serpentes na religião e na vida cotidiana da Idade do Bronze Tardio**
+#### I-A1. Serpentes na religião e na vida cotidiana da Idade do Bronze Tardio
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 No Egito e em Canaã do século XIII a.C., a serpente era simultaneamente perigosa e sagrada. O *uraeus* egípcio (cobra) adornava a coroa do Faraó como símbolo de proteção divina e poder soberano. O deus Apófis — uma enorme serpente — encarnava o caos que ameaçava a ordem solar. Ao mesmo tempo, cobras reais eram um perigo letal para trabalhadores agrícolas e viajantes do deserto. Encantamentos contra serpentes estão entre os textos mágicos mais comuns desse período. Para uma comunidade que havia acabado de sair do Egito, a serpente em Gênesis 3 carregaria associações imediatas: poder divino, caos e ameaça física — nenhuma das quais o texto força a uma única leitura.
 
-**I-A2. Conhecimento, sabedoria e segredos divinos no pensamento da Idade do Bronze Tardio**
+#### I-A2. Conhecimento, sabedoria e segredos divinos no pensamento da Idade do Bronze Tardio
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 O *Épico de Gilgamesh* (cópias do século XIII a.C. em circulação ampla) apresenta conhecimento e mortalidade entrelaçados: o companheiro de Gilgamesh, Enkidu, é trazido da selvageria animal à sabedoria humana por uma mulher, e então enfrenta a morte. O desejo por conhecimento divino — e o perigo de obtê-lo — era um topos reconhecido em toda a literatura do antigo Oriente Próximo. As tradições de sabedoria egípcias e mesopotâmicas reconheciam que o conhecimento pleno pertencia aos deuses; a sabedoria humana era parcial e delimitada. O "conhecer o bem e o mal" em Gênesis 3 — seja lá o que signifique precisamente — opera em um ambiente cultural onde o desejo por conhecimento de nível divino era reconhecido como transgressor.
 
-**I-A3. Nudez e vergonha no contexto nômade/desértico**
+#### I-A3. Nudez e vergonha no contexto nômade/desértico
+**[HISTÓRICO / ARQUEOLÓGICO — PROVÁVEL]**
 Para uma comunidade no deserto do Sinai, a mudança da nudez para a vestimenta carregava peso prático e social imediato. A roupa marcava status social, protegia do ambiente e distinguia os humanos dos animais. O ato de costurar folhas de figueira (3:7) e a subsequente provisão de vestimentas de pele por YHWH (3:21) ressoaria em um mundo onde roupa decente era sinal de cuidado, provisão e dignidade — não um símbolo abstrato de inocência perdida, mas um marcador concreto de status transformado.
 
 *Para o contexto histórico completo deste período com todas as 10 categorias, veja o companheiro de Gênesis 1 Seção I, Cenário A.*
 
 ---
 
-### Cenário B: Se composto durante o período monárquico (~séc. X–IX a.C.)
-**[HISTÓRICO / ARQUEOLÓGICO — POSSÍVEL]** *(Alguns estudiosos situam as tradições das fontes primitivas aqui)*
+### Cenário B: Se composto durante o período monárquico (~séc. X–IX a.C.) — *Alguns estudiosos situam as tradições das fontes primitivas aqui*
+**[HISTÓRICO / ARQUEOLÓGICO — POSSÍVEL]**
 
-**I-B1. Iconografia da serpente na religião israelita e cananeia**
+#### I-B1. Iconografia da serpente na religião israelita e cananeia
+**[HISTÓRICO / ARQUEOLÓGICO — VERIFICADO]**
 Escavações arqueológicas em estratos do Israel da Idade do Ferro (século X–IX a.C.) recuperaram figurinas de serpente de bronze em sítios incluindo Megido, Guézer e Hazor — indicando que a veneração da serpente era praticada no Levante nesse período. A serpente de bronze (*nejushtã*) no templo ainda era adorada na época de Ezequias (2 Rs 18:4), quando ele a destruiu. Uma narrativa que rebaixa a serpente — tornando-a o mais *amaldiçoado* dos animais, destinada a comer pó — em um ambiente cultural onde serpentes às vezes eram objetos de veneração carrega peso polêmico que se perde nos leitores modernos.
 
-**I-B2. Literatura de sabedoria e os limites da sabedoria**
+#### I-B2. Literatura de sabedoria e os limites da sabedoria
+**[HISTÓRICO / ARQUEOLÓGICO — PROVÁVEL]**
 O período monárquico é tradicionalmente associado à tradição de sabedoria de Israel (Provérbios, porções dos Salmos, tradições primitivas do Eclesiastes). A literatura de sabedoria tanto em Israel quanto no Egito enquadra a sabedoria como um dom divino, acessível pelo temor a YHWH, não pela apreensão ou autoafirmação. A narrativa de Gênesis 3 — na qual os humanos apreendem a sabedoria em desafio a uma proibição divina e a encontram transformadora, mas desorientadora — envolve a questão central da tradição da sabedoria: qual é a relação adequada entre a busca humana pelo conhecimento e a autoridade divina?
 
-**I-B3. Expulsão e deserdamento no direito antigo**
+#### I-B3. Expulsão e deserdamento no direito antigo
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 Códigos legais do antigo Oriente Próximo e a lei israelita reconheciam a expulsão como sanção legal. Uma pessoa expulsa de uma cidade ou propriedade perdia acesso à terra, à comunidade e às estruturas protetoras da sociedade. No período monárquico, a posse da terra estava intimamente ligada à identidade familiar — ser expulso da terra era perder a herança. A expulsão do Éden em 3:23-24 carrega essa ressonância legal: o humano perde o patrimônio onde foi colocado para trabalhar. Os *querubins* e a espada flamejante não são decorativos; eles impõem um limite de propriedade.
 
 *Para o contexto histórico completo deste período com todas as 10 categorias, veja o companheiro de Gênesis 1 Seção I, Cenário B.*
 
 ---
 
-### Cenário C: Se composto durante o período exílico/pós-exílico (~séc. VI–V a.C.)
-**[HISTÓRICO / ARQUEOLÓGICO — PROVÁVEL]** *(Consenso acadêmico para a forma final)*
+### Cenário C: Se composto durante o período exílico/pós-exílico (~séc. VI–V a.C.) — *Consenso acadêmico para a forma final*
+**[HISTÓRICO / ARQUEOLÓGICO — PROVÁVEL]**
 
-**I-C1. Exílio como expulsão — o paralelo estrutural**
+#### I-C1. Exílio como expulsão — o paralelo estrutural
+**[HISTÓRICO / ARQUEOLÓGICO — PROVÁVEL]**
 Para a comunidade deportada para a Babilônia (597 e 586 a.C.), a linguagem de Gênesis 3:23-24 não era narrativa distante — era história recente expressa em forma mitológica. Eles haviam sido "enviados para fora" de sua terra, seu templo destruído, seu acesso à presença de YHWH interrompido. A deportação no mundo antigo significava mais do que deslocamento geográfico: significava ruína econômica (terra abandonada), dissolução social (comunidade dispersa) e crise teológica (deus aparentemente derrotado). A expulsão do Éden mapeia todas essas dimensões simultaneamente. Se os escribas exilados moldaram conscientemente a história ou reconheceram uma ressonância estrutural preexistente, o paralelo teria sido impossível de ignorar — e consolador: se Adão e Eva sobreviveram à expulsão, talvez Israel também sobrevivesse.
 
-**I-C2. Simbolismo babilônico da serpente e o *mushhushshu***
+#### I-C2. Simbolismo babilônico da serpente e o *mushhushshu*
+**[HISTÓRICO / ARQUEOLÓGICO — VERIFICADO]**
 Na Babilônia, o *mushhushshu* (uma serpente-dragão composta) era o animal sagrado de Marduque, retratado proeminentemente no Portão de Ishtar (construído sob Nabucodonosor II, c. 575 a.C. — visível aos exilados). A associação da serpente com o deus-chefe de seus captores teria dado à serpente amaldiçoada de Gênesis 3 uma carga polêmica adicional: a criatura associada ao poder divino babilônico é colocada de barriga no chão e forçada a comer pó na narrativa israelita. A serpente rebaixada de Gênesis 3 não é a criatura de Marduque; é um animal amaldiçoado, subordinado à semente da mulher.
 
-**I-C3. O "conhecimento do bem e do mal" e a tradição de sabedoria babilônica**
+#### I-C3. O "conhecimento do bem e do mal" e a tradição de sabedoria babilônica
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 A educação escriba babilônica usava o conceito de *nemequ* ("sabedoria") como atributo divino — os deuses possuíam conhecimento completo; os humanos acessavam sabedoria parcial por meio dos *apkallu* (sábios semidivinos que ensinaram artes e civilização antes do dilúvio). A noção de humanos apreendendo ilegalmente o conhecimento de nível divino ressoa em um contexto babilônico onde tal conhecimento era considerado prerrogativa divina restrita. O mito de Adapa — uma história acádia sobre um sábio que recebe a imortalidade mas a recusa por mal-entendido, confirmando assim a mortalidade humana — explora território semelhante: conhecimento divino, limites humanos e o limiar entre eles.
 
-**I-C4. Mortalidade e o corpo no pensamento do período persa**
+#### I-C4. Mortalidade e o corpo no pensamento do período persa
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 O zoroastrismo persa (cada vez mais influente no período exílico e pós-exílico) tinha um dualismo cósmico acentuado: Ahura Mazda (bem, luz, vida) versus Angra Mainyu (mal, trevas, morte). A narrativa de Gênesis 3 — com seu único Deus que tanto planta o jardim quanto pronuncia a maldição — resiste a esse dualismo. A morte entra não por um deus do mal rival, mas por uma criatura que YHWH fez e uma proibição que YHWH estabeleceu. A ausência de um adversário cósmico equivalente a Angra Mainyu é uma característica estrutural do texto.
 
 *Para o contexto histórico completo deste período com todas as 10 categorias, veja o companheiro de Gênesis 1 Seção I, Cenário C.*
 
 ---
 
-### Cenário D: Se redacionado durante o período persa/início do período helenístico (~séc. IV–III a.C.)
-**[HISTÓRICO / ARQUEOLÓGICO — POSSÍVEL]** *(Associado à configuração final do Pentateuco)*
+### Cenário D: Se redacionado durante o período persa/início do período helenístico (~séc. IV–III a.C.) — *Associado à configuração final do Pentateuco*
+**[HISTÓRICO / ARQUEOLÓGICO — POSSÍVEL]**
 
-**I-D1. Interesse filosófico grego na origem do mal e da morte**
+#### I-D1. Interesse filosófico grego na origem do mal e da morte
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 No século IV a.C., a filosofia grega vinha debatendo a origem do mal, do sofrimento e da morte há gerações. O *Timeu* de Platão (c. 360 a.C.) atribui o mal à matéria e ao *demiurgo* imperfeito; o mito de Pandora (Hesíodo, muito anterior, mas amplamente conhecido) atribui o sofrimento humano a uma mulher que abre um recipiente proibido. A narrativa de Gênesis 3 — um jardim, uma proibição, uma mulher, uma árvore proibida, uma transgressão consequente — intersecta estruturalmente com esses tratamentos gregos, diferindo fundamentalmente: o Deus em Gênesis 3 não é um artesão inferior, a mulher não é a fonte do mal por natureza, e as consequências não são caos cósmico, mas ruptura relacional e mortalidade para as pessoas específicas envolvidas.
 
-**I-D2. Vestimenta e estratificação social na sociedade helenística**
+#### I-D2. Vestimenta e estratificação social na sociedade helenística
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 O mundo helenístico era acentuadamente estratificado pela vestimenta. A vida cívica grega atribuía roupas específicas a cidadãos versus escravos, livres versus não livres, homens versus mulheres. YHWH provendo vestimentas de pele em substituição às folhas de figueira (3:21) — um deus vestindo humanos — era um gesto de provisão e dignidade em um mundo onde a roupa marcava status. Na prática da corte persa, o presente de um manto pelo rei era um ato formal de favor e elevação. A provisão divina de vestimentas, imediatamente após a maldição, complica uma leitura puramente punitiva: mesmo no exílio, YHWH veste os humanos que está enviando para fora.
 
-**I-D3. Os querubins e a Árvore da Vida como símbolos da era da Torá**
+#### I-D3. Os querubins e a Árvore da Vida como símbolos da era da Torá
+**[HISTÓRICO / ARQUEOLÓGICO — PROVÁVEL]**
 Nos períodos persa e helenístico, os *querubins* (*keruvim*) haviam se associado à Arca da Aliança (Êx 25:18-22) e ao templo de Jerusalém. A colocação dos querubins para guardar a entrada do Éden (3:24) teria ressoado com uma comunidade que conhecia os querubins como guardiões da presença divina. A Árvore da Vida, bloqueada pelos querubins e pela espada flamejante, teria convidado a uma leitura tipológica: o próprio templo, guardado por figuras de querubins, continha acesso a YHWH que era condicional e mediado. A narrativa do Éden, lida nesse período, mapeava-se sobre a arquitetura do sagrado — e sobre a questão de se o Israel pós-exílico havia restaurado o acesso ao que foi perdido.
 
 *Para o contexto histórico completo deste período com todas as 10 categorias, veja o companheiro de Gênesis 1 Seção I, Cenário D.*

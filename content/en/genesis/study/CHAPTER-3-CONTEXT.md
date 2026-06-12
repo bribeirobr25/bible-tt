@@ -335,67 +335,80 @@ Genesis 2:17: "in the day of your eating from it, dying you shall die" — addre
 
 ---
 
-### Scenario A: If composed during the Mosaic period (~13th c. BCE)
-**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]** *(Traditional attribution)*
+### Scenario A: If composed during the Mosaic period (~13th c. BCE) — *Traditional attribution*
+**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
 
-**I-A1. Serpents in Late Bronze Age religion and daily life**
+#### I-A1. Serpents in Late Bronze Age religion and daily life
+**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
 In 13th-century BCE Egypt and Canaan, the serpent was simultaneously dangerous and sacred. The Egyptian *uraeus* (cobra) adorned Pharaoh's crown as a symbol of divine protection and sovereign power. The god Apophis — a giant serpent — embodied chaos threatening the solar order. At the same time, actual snakes were a lethal hazard for agricultural workers and desert travelers. Anti-serpent incantations are among the most common magical texts from this period. For a community that had just left Egypt, the serpent in Genesis 3 would have carried immediate associations: divine power, chaos, and physical threat — none of which the text forces to a single reading.
 
-**I-A2. Knowledge, wisdom, and divine secrets in Late Bronze Age thought**
+#### I-A2. Knowledge, wisdom, and divine secrets in Late Bronze Age thought
+**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
 The Epic of Gilgamesh (~13th-century BCE copies circulating widely) presents knowledge and mortality as intertwined: Gilgamesh's companion Enkidu is brought from animal wildness to human wisdom through a woman, then faces death. The desire for divine knowledge — and the danger of obtaining it — was a recognized topos across ANE literature. Egyptian and Mesopotamian wisdom traditions acknowledged that full knowledge belonged to the gods; human wisdom was partial and bounded. Genesis 3's "knowing good and evil" — whatever it means precisely — operates in a cultural environment where the desire for god-level knowledge was recognized as transgressive.
 
-**I-A3. Nakedness and shame in desert/nomadic context**
+#### I-A3. Nakedness and shame in desert/nomadic context
+**[HISTORICAL / ARCHAEOLOGICAL — PROBABLE]**
 For a community in the Sinai wilderness, the shift from nakedness to clothing carried immediate practical and social weight. Clothing marked social status, protected from the environment, and distinguished humans from animals. The act of sewing fig leaves (3:7) and YHWH's subsequent provision of skin garments (3:21) would have resonated in a world where decent clothing was a sign of care, provision, and dignity — not an abstract symbol of lost innocence but a concrete marker of changed status.
 
 *For the full 10-category historical context of this period, see Genesis 1 companion Section I, Scenario A.*
 
 ---
 
-### Scenario B: If composed during the Monarchic period (~10th–9th c. BCE)
-**[HISTORICAL / ARCHAEOLOGICAL — POSSIBLE]** *(Some scholars place early source traditions here)*
+### Scenario B: If composed during the Monarchic period (~10th–9th c. BCE) — *Some scholars place early source traditions here*
+**[HISTORICAL / ARCHAEOLOGICAL — POSSIBLE]**
 
-**I-B1. Serpent iconography in Israelite and Canaanite religion**
+#### I-B1. Serpent iconography in Israelite and Canaanite religion
+**[HISTORICAL / ARCHAEOLOGICAL — VERIFIED]**
 Archaeological excavations in Iron Age Israel (10th–9th c. BCE strata) have recovered bronze serpent figurines at sites including Megiddo, Gezer, and Hazor — indicating that serpent veneration was practiced in the Levant during this period. The bronze serpent (*nehushtan*) in the temple was reportedly still being worshipped in Hezekiah's time (2 Kgs 18:4), when he destroyed it. A narrative that demotes the serpent — making it the most *cursed* of animals, destined to eat dust — in a cultural environment where serpents were sometimes objects of veneration carries polemical weight that is lost on modern readers.
 
-**I-B2. Wisdom literature and the limits of wisdom**
+#### I-B2. Wisdom literature and the limits of wisdom
+**[HISTORICAL / ARCHAEOLOGICAL — PROBABLE]**
 The Monarchic period is traditionally associated with Israel's wisdom tradition (Proverbs, portions of Psalms, early Ecclesiastes traditions). Wisdom literature in both Israel and Egypt frames wisdom as a divine gift, accessible through fear of YHWH, not through seizure or self-assertion. The Genesis 3 narrative — in which humans seize wisdom in defiance of a divine prohibition and find it transformative but disorienting — engages the wisdom tradition's central question: what is the proper relationship between human knowledge-seeking and divine authority? Proverbs 3:7 ("do not be wise in your own eyes") may be a distant echo of this tension.
 
-**I-B3. Expulsion and disinheritance in ancient law**
+#### I-B3. Expulsion and disinheritance in ancient law
+**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
 ANE legal codes and Israelite law recognized expulsion as a legal sanction. A person expelled from a city or estate lost access to land, community, and the protective structures of society. In the Monarchic period, land tenure was intimately connected to family identity — to be driven from the land was to lose your inheritance. The expulsion from Eden in 3:23-24 carries this legal resonance: the human loses the estate he was placed in to work. The *cherubim* and flaming sword are not decorative; they enforce a property boundary.
 
 *For the full 10-category historical context of this period, see Genesis 1 companion Section I, Scenario B.*
 
 ---
 
-### Scenario C: If composed during the Exilic/Post-Exilic period (~6th–5th c. BCE)
-**[HISTORICAL / ARCHAEOLOGICAL — PROBABLE]** *(Scholarly consensus for final form)*
+### Scenario C: If composed during the Exilic/Post-Exilic period (~6th–5th c. BCE) — *Scholarly consensus for final form*
+**[HISTORICAL / ARCHAEOLOGICAL — PROBABLE]**
 
-**I-C1. Exile as expulsion — the structural parallel**
+#### I-C1. Exile as expulsion — the structural parallel
+**[HISTORICAL / ARCHAEOLOGICAL — PROBABLE]**
 For the community deported to Babylon (597 and 586 BCE), the language of Genesis 3:23-24 was not distant narrative — it was recent history rendered in mythological form. They had been "sent out" from their land, their temple destroyed, their access to YHWH's presence disrupted. Deportation in the ancient world meant more than geographic displacement: it meant economic ruin (land abandoned), social dissolution (community scattered), and theological crisis (god apparently defeated). The Eden expulsion maps onto all of these dimensions simultaneously. Whether the exilic scribes consciously shaped the story or recognized a pre-existing structural resonance, the parallel would have been unmissable and consolatory: if Adam and Eve survived expulsion, perhaps Israel would too.
 
-**I-C2. Babylonian serpent symbolism and the *mushhushshu***
+#### I-C2. Babylonian serpent symbolism and the *mushhushshu*
+**[HISTORICAL / ARCHAEOLOGICAL — VERIFIED]**
 In Babylon, the *mushhushshu* (a composite serpent-dragon) was the sacred animal of Marduk, depicted prominently on the Ishtar Gate (built under Nebuchadnezzar II, c. 575 BCE — visible to exiles). The serpent's association with the chief god of their captors would have given Genesis 3's cursed serpent additional polemical charge: the creature associated with Babylonian divine power is placed on its belly and made to eat dust in the Israelite narrative. The demoted serpent of Genesis 3 is not Marduk's creature; it is a cursed animal subordinated to the seed of the woman.
 
-**I-C3. The "knowledge of good and evil" and Babylonian wisdom tradition**
+#### I-C3. The "knowledge of good and evil" and Babylonian wisdom tradition
+**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
 Babylonian scribal education used the concept of *nemequ* ("wisdom") as a divine attribute — the gods possessed complete knowledge; humans accessed partial wisdom through the *apkallu* (semi-divine sages) who had taught arts and civilization before the flood. The notion of humans illicitly seizing divine-level knowledge resonates in a Babylonian context where such knowledge was considered a restricted divine prerogative. The Adapa myth — an Akkadian story about a sage who is offered immortality but refuses it through misunderstanding, thereby confirming human mortality — explores similar territory: divine knowledge, human limits, and the threshold between.
 
-**I-C4. Mortality and the body in Persian-era thought**
+#### I-C4. Mortality and the body in Persian-era thought
+**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
 Persian Zoroastrianism (increasingly influential in the exilic and post-exilic period) had a sharp cosmic dualism: Ahura Mazda (good, light, life) versus Angra Mainyu (evil, darkness, death). The Genesis 3 narrative — with its single God who both plants the garden and pronounces the curse — resists this dualism. Death enters not through a rival evil god but through a creature that YHWH made and a prohibition that YHWH set. The absence of a cosmic adversary equivalent to Angra Mainyu is a structural feature of the text. Whether this is an implicit response to Zoroastrian influence or simply reflects the text's monotheistic commitments is debated.
 
 *For the full 10-category historical context of this period, see Genesis 1 companion Section I, Scenario C.*
 
 ---
 
-### Scenario D: If redacted during the Persian/early-Hellenistic period (~4th–3rd c. BCE)
-**[HISTORICAL / ARCHAEOLOGICAL — POSSIBLE]** *(Associated with final Pentateuchal shaping)*
+### Scenario D: If redacted during the Persian/early-Hellenistic period (~4th–3rd c. BCE) — *Associated with final Pentateuchal shaping*
+**[HISTORICAL / ARCHAEOLOGICAL — POSSIBLE]**
 
-**I-D1. Greek philosophical interest in the origin of evil and death**
+#### I-D1. Greek philosophical interest in the origin of evil and death
+**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
 By the 4th century BCE, Greek philosophy had been wrestling with the origin of evil, suffering, and death for generations. Plato's *Timaeus* (c. 360 BCE) attributes evil to matter and the imperfect *demiurge*; the myth of Pandora (Hesiod, much earlier but widely known) attributes human suffering to a woman opening a forbidden container. The Genesis 3 narrative — a garden, a prohibition, a woman, a forbidden tree, a consequential transgression — intersects structurally with these Greek treatments while differing fundamentally: the God in Genesis 3 is not an inferior craftsman, the woman is not the source of evil by nature, and the consequences are not cosmic chaos but relational disruption and mortality for the specific people involved.
 
-**I-D2. Clothing and social stratification in Hellenistic society**
+#### I-D2. Clothing and social stratification in Hellenistic society
+**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
 The Hellenistic world was sharply stratified by dress. Greek civic life assigned specific garments to citizens versus slaves, free versus non-free, men versus women. YHWH providing skin garments to replace fig leaves (3:21) — a god clothing humans — was a gesture of provision and dignity in a world where clothing marked status. In Persian court practice, the king's gift of a robe was a formal act of favor and elevation. The divine provision of garments, immediately following the curse, complicates a purely punitive reading: even in expulsion, YHWH clothes the humans he is sending out.
 
-**I-D3. The cherubim and the Tree of Life as Torah-era symbols**
+#### I-D3. The cherubim and the Tree of Life as Torah-era symbols
+**[HISTORICAL / ARCHAEOLOGICAL — PROBABLE]**
 By the Persian and Hellenistic periods, the cherubim (*keruvim*) had become associated with the Ark of the Covenant (Exod 25:18-22) and the Jerusalem temple. The placement of cherubim to guard Eden's approach (3:24) would have resonated with a community that knew cherubim as guardians of the divine presence. The Tree of Life, blocked by the cherubim and the flaming sword, would have invited typological reading: the temple itself, guarded by cherubim figures, contained access to YHWH that was conditional and mediated. The Eden narrative, read in this period, mapped onto the architecture of the sacred — and onto the question of whether post-exilic Israel had restored access to what was lost.
 
 *For the full 10-category historical context of this period, see Genesis 1 companion Section I, Scenario D.*

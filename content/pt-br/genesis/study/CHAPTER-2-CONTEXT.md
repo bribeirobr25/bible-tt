@@ -308,16 +308,19 @@ Genesis 2:21: "YHWH Deus fez cair um sono profundo (*tardemah*) sobre o humano, 
 
 ---
 
-### Cenário A: Se composto durante o período mosaico (~séc. XIII a.C.)
-**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]** *(Atribuição tradicional)*
+### Cenário A: Se composto durante o período mosaico (~séc. XIII a.C.) — *Atribuição tradicional*
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 
-**I-A1. Jardim e irrigação no Egito e em Canaã na Idade do Bronze Tardio**
+#### I-A1. Jardim e irrigação no Egito e em Canaã na Idade do Bronze Tardio
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 A imagem de um jardim murado (*gan*) alimentado por um rio que se divide teria ressoado em duas direções: os jardins reais egípcios (atestados em pinturas do Novo Império em Tebas) eram espaços de prestígio com canais de irrigação e árvores exóticas — jardins de prazer para a elite. Simultaneamente, a inundação anual do Nilo tornava a agricultura egípcia quase autorregada, uma observação que qualquer israelita que trabalhasse no Egito teria reconhecido. O Tigre e o Eufrates (nomeados em 2:14) alimentavam terras de lavoura com irrigação por canais há milênios. Para uma comunidade vivendo no deserto do Sinai, um jardim que se rega sozinho representava o antípoda de sua paisagem atual.
 
-**I-A2. Nomeação e taxonomia nas culturas da Idade do Bronze Tardio**
+#### I-A2. Nomeação e taxonomia nas culturas da Idade do Bronze Tardio
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 Gênesis 2:19-20 mostra o humano (*adam*) nomeando cada criatura. No Egito, a tradição escriba produzia extensas listas de animais (*onomástica*) — inventários categorizados de animais, plantas e lugares usados para fins práticos e rituais. O Onomástico de Amenope (c. 1100 a.C., próximo a este período) lista céu, água, terra, pessoas, lugares e animais de forma sistemática. Nomear como forma de domínio e categorização era compreendido em todo o antigo Oriente Próximo. O ato de nomear todas as criaturas sem encontrar um contraparte adequado (*ezer kenegdo*) explora essa tradição: o humano exerce domínio nomeando, mas o próprio exercício revela uma lacuna que apenas nomear não pode preencher.
 
-**I-A3. Costumes matrimoniais na Idade do Bronze Tardio**
+#### I-A3. Costumes matrimoniais na Idade do Bronze Tardio
+**[HISTÓRICO / ARQUEOLÓGICO — PROVÁVEL]**
 Em Canaã e no Egito na Idade do Bronze Tardio, o casamento era uma transação econômica entre famílias. Contratos de noivado especificavam o preço da noiva (*mohar*) e o dote. A maioria das sociedades era patrilocal — a noiva se mudava para a família do marido. A declaração em 2:24 de que um homem "deixa seu pai e sua mãe" é, portanto, socialmente invertida: na prática, era a mulher que saía. Se isso reflete um costume mais antigo, uma norma idealizada ou uma prioridade teológica do vínculo conjugal sobre a família de nascimento é não resolvido.
 
 **Fonte:** Borowski, O., *Agriculture in Iron Age Israel*, 1987; Westbrook, R., *Old Babylonian Marriage Law*, 1988.
@@ -326,51 +329,61 @@ Em Canaã e no Egito na Idade do Bronze Tardio, o casamento era uma transação 
 
 ---
 
-### Cenário B: Se composto durante o período monárquico (~séc. X–IX a.C.)
-**[HISTÓRICO / ARQUEOLÓGICO — POSSÍVEL]** *(Alguns estudiosos situam as tradições das fontes primitivas aqui)*
+### Cenário B: Se composto durante o período monárquico (~séc. X–IX a.C.) — *Alguns estudiosos situam as tradições das fontes primitivas aqui*
+**[HISTÓRICO / ARQUEOLÓGICO — POSSÍVEL]**
 
-**I-B1. Jardins reais e a ideologia do paraíso**
+#### I-B1. Jardins reais e a ideologia do paraíso
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 A palavra traduzida como "jardim" (*gan*) relaciona-se ao persa *pairi-daēza* ("paraíso", um recinto murado), mas o conceito de jardim real fechado já estava presente no Levante antes do período persa. Salomão é creditado com jardins e pomares (Eclesiastes 2:5-6); reis assírios como Assurnasirpal II vangloriavam-se de plantar árvores exóticas de territórios conquistados em seus jardins palacianos. O jardim em Gênesis 2 compartilha a lógica estrutural do jardim real: um espaço delimitado e irrigado onde a vegetação ideal cresce sob propriedade divina. Lido no período monárquico, pode oferecer uma crítica implícita: este jardim ideal não era de Salomão; era de YHWH.
 
-**I-B2. Tecnologia de irrigação no Israel da Idade do Ferro**
+#### I-B2. Tecnologia de irrigação no Israel da Idade do Ferro
+**[HISTÓRICO / ARQUEOLÓGICO — VERIFICADO]**
 O Israel do período monárquico praticava tanto a agricultura de sequeiro nas colinas (terraços, grãos, vinhas, olivais) quanto a irrigação em pequena escala onde havia nascentes. A Fonte de Giom em Jerusalém (nomeada em 2:13 como um dos rios do Éden) era a fonte de água da cidade — o Poço de Warren, o túnel de água e, posteriormente, o Túnel de Ezequias foram construídos para assegurá-la. A geografia dos quatro rios do Éden posiciona o jardim no ponto de origem dos sistemas de água do mundo — o antípoda da crônica insegurança hídrica de Israel.
 
-**I-B3. A *tsela* e as metáforas sociais baseadas no corpo**
+#### I-B3. A *tsela* e as metáforas sociais baseadas no corpo
+**[HISTÓRICO / ARQUEOLÓGICO — PROVÁVEL]**
 A extração de uma *tsela* ("lado", frequentemente traduzida como "costela") em Gênesis 2:21-22 para construir a mulher reflete uma metáfora baseada no corpo para a unidade social, comum na retórica antiga. O parentesco no mundo antigo era descrito em termos corporais: "osso dos meus ossos e carne da minha carne" (2:23) é a linguagem de tratado e aliança de parentesco (*cf.* 2 Sm 5:1, "somos seu osso e sua carne"). No período monárquico, essa linguagem estruturava relacionamentos diplomáticos e tribais. A mulher não é subordinada pela natureza de sua origem — a mesma fórmula é usada quando tribos juram lealdade a um rei.
 
 *Para o contexto histórico completo deste período com todas as 10 categorias, veja o companheiro de Gênesis 1 Seção I, Cenário B.*
 
 ---
 
-### Cenário C: Se composto durante o período exílico/pós-exílico (~séc. VI–V a.C.)
-**[HISTÓRICO / ARQUEOLÓGICO — PROVÁVEL]** *(Consenso acadêmico para a forma final)*
+### Cenário C: Se composto durante o período exílico/pós-exílico (~séc. VI–V a.C.) — *Consenso acadêmico para a forma final*
+**[HISTÓRICO / ARQUEOLÓGICO — PROVÁVEL]**
 
-**I-C1. Mitologia agrícola mesopotâmica e o *edinu* (planície)**
+#### I-C1. Mitologia agrícola mesopotâmica e o *edinu* (planície)
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 A palavra *Éden* pode derivar do sumério/acadiano *edinu*, "planície" ou "estepe" — a terra inculta entre as cidades na Mesopotâmia. A mitologia mesopotâmica tem um paraíso pré-agrícola: no mito de *Enki e Ninhursag*, uma terra sagrada (Dilmun) onde não há doença, predação, e as plantas crescem sem trabalho. Judeus no exílio na Babilônia teriam ouvido ecos de Dilmun no Éden. Mas os textos divergem: Dilmun é uma morada divina restaurada pelos deuses; o Éden em Gênesis 2 é uma habitação humana criada para o *adam* trabalhar. O humano é colocado no jardim como seu trabalhador e guardião — um trabalhador no paraíso, não um residente passivo.
 
-**I-C2. Rios e geografia na cosmologia babilônica**
+#### I-C2. Rios e geografia na cosmologia babilônica
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 A geografia dos quatro rios do Éden (2:10-14) nomeia explicitamente o Tigre (*Hidekel*) e o Eufrates — os dois rios que definiam a geografia mesopotâmica para os judeus exilados. No pensamento babilônico, os rios eram divinos — o Tigre estava associado ao deus Ea/Enki, e as nascentes eram consideradas fala divina. Escribas exilados situando a origem de todos os rios em uma única fonte edênica apresenta uma contracosmologia: os rios que os babilônios veneravam fluem de um jardim que YHWH plantou. Seus rios sagrados se originam no espaço de YHWH.
 
-**I-C3. Lei matrimonial no judaísmo do período persa**
+#### I-C3. Lei matrimonial no judaísmo do período persa
+**[HISTÓRICO / ARQUEOLÓGICO — PROVÁVEL]**
 Esdras 9-10 e Neemias 13 mostram a comunidade judaica do período persa em crise aguda por causa do casamento misto com mulheres não judias. Nesse contexto, a declaração de Gênesis 2:24 de que um homem "deixa pai e mãe e se apega à sua mulher, e se tornam uma só carne" carrega implicações maiores: a definição fundamental de casamento diz respeito a quem constitui a união adequada. A tensão entre o universalismo do texto (a mulher é tirada do homem; eles são "uma só carne" por natureza) e a imposição de fronteiras étnicas da comunidade (Esdras dissolve casamentos mistos) permanece não resolvida.
 
-**I-C4. Nomeação na tradição da sabedoria**
+#### I-C4. Nomeação na tradição da sabedoria
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 A tradição escriba babilônica mantinha listas sistemáticas de animais, plantas, pedras e profissões (série *urra = hubullu*). Escribas judeus exilados estariam cientes dessa tradição. Gênesis 2:19-20, onde o humano nomeia todas as criaturas vivas sem encontrar um parceiro, posiciona o humano como um agente de inteligência taxonômica — mas a sabedoria produzida pela nomeação não satisfaz a necessidade mais profunda. Apenas o que YHWH constrói do próprio corpo do humano satisfaz.
 
 *Para o contexto histórico completo deste período com todas as 10 categorias, veja o companheiro de Gênesis 1 Seção I, Cenário C.*
 
 ---
 
-### Cenário D: Se redacionado durante o período persa/início do período helenístico (~séc. IV–III a.C.)
-**[HISTÓRICO / ARQUEOLÓGICO — POSSÍVEL]** *(Associado à configuração final do Pentateuco)*
+### Cenário D: Se redacionado durante o período persa/início do período helenístico (~séc. IV–III a.C.) — *Associado à configuração final do Pentateuco*
+**[HISTÓRICO / ARQUEOLÓGICO — POSSÍVEL]**
 
-**I-D1. Jardins paradisíacos na cultura imperial persa**
+#### I-D1. Jardins paradisíacos na cultura imperial persa
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 O *pairi-daēza* (jardim murado) persa era uma instituição imperial. Os reis persas construíam elaborados jardins fechados em todo o seu império — eram símbolos de poder real, coleções botânicas e campos de caça simultaneamente. Ciro, o Grande, cuidava de seu próprio jardim em Pasárgada. Para as comunidades judaicas sob domínio persa, a narrativa do Éden intersectaria com essa forma cultural bem conhecida: o jardim de YHWH precede e supera o jardim real persa. O *gan be-eden* ("jardim no Éden") não é uma área de lazer real, mas o ponto de origem da habitação humana — uma contrareivindicação à ideologia persa do paraíso.
 
-**I-D2. Interesse filosófico e anatômico grego no corpo**
+#### I-D2. Interesse filosófico e anatômico grego no corpo
+**[HISTÓRICO / ARQUEOLÓGICO — PROVÁVEL]**
 No século IV a.C., a medicina hipocrática grega teorizava o corpo sistematicamente. A biologia de Aristóteles classificava animais e descrevia estruturas anatômicas. A narrativa de Gênesis 2 — um deus realizando o que parece estruturalmente uma cirurgia (*tardemah*, abertura, extração, fechamento) para produzir a mulher — seria legível para um leitor consciente do helenismo como uma forma de trabalho artesanal divino aplicado ao corpo. O texto não usa linguagem médica; descreve um ato criativo divino. Mas o momento cultural em que as pessoas começavam a analisar corpos sistematicamente é também o momento em que a sequência do texto se torna particularmente impressionante.
 
-**I-D3. Status canônico e a autoridade da narrativa fundacional**
+#### I-D3. Status canônico e a autoridade da narrativa fundacional
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 Nos períodos persa e início do helenístico, a Torá estava ganhando seu status como documento constitucional da identidade judaica. O relato de Gênesis 2 sobre a origem do casamento, da nomeação e da vocação humana ("trabalhá-lo e guardá-lo") funcionaria não apenas como história, mas como lei fundamental. A tradução da Septuaginta para o grego (séc. III a.C.) sugere que as comunidades da diáspora precisavam do texto acessível na língua dominante — o relato de origens de Gênesis 2 estava sendo lido no Mediterrâneo em grego nesse período.
 
 *Para o contexto histórico completo deste período com todas as 10 categorias, veja o companheiro de Gênesis 1 Seção I, Cenário D.*

@@ -318,16 +318,19 @@ Genesis 2:21: "YHWH God caused a deep sleep (*tardemah*) to fall upon the human,
 
 ---
 
-### Scenario A: If composed during the Mosaic period (~13th c. BCE)
-**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]** *(Traditional attribution)*
+### Scenario A: If composed during the Mosaic period (~13th c. BCE) — *Traditional attribution*
+**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
 
-**I-A1. Garden and irrigation in Late Bronze Age Egypt and Canaan**
+#### I-A1. Garden and irrigation in Late Bronze Age Egypt and Canaan
+**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
 The image of a walled garden (*gan*) fed by a dividing river would have resonated in two directions: Egyptian royal gardens (attested in New Kingdom paintings at Thebes) were prestige spaces with irrigation channels and exotic trees — pleasure gardens for the elite. Simultaneously, the Nile's annual flood made Egyptian agriculture nearly self-watering, an observation any Israelite working in Egypt would have recognized. The Tigris and Euphrates (named in 2:14) had fed canal-irrigated farmland for millennia. For a community living in the Sinai desert, a self-watering garden represented the antithesis of their current landscape.
 
-**I-A2. Naming and taxonomy in Late Bronze Age cultures**
+#### I-A2. Naming and taxonomy in Late Bronze Age cultures
+**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
 Genesis 2:19-20 has the human (*adam*) naming every creature. In Egypt, the scribal tradition produced extensive animal lists (*onomastica*) — categorized inventories of animals, plants, and places used for both practical and ritual purposes. The Onomasticon of Amenope (c. 1100 BCE, near this period) lists sky, water, earth, persons, places, and animals in a systematic way. Naming as a form of mastery and categorization was understood across ANE cultures. The act of naming all creatures without finding a suitable counterpart (*ezer kenegdo*) exploits this tradition: the human exercises dominion by naming, yet the exercise itself reveals a gap that naming alone cannot fill.
 
-**I-A3. Marriage customs in the Late Bronze Age**
+#### I-A3. Marriage customs in the Late Bronze Age
+**[HISTORICAL / ARCHAEOLOGICAL — PROBABLE]**
 In Late Bronze Age Canaan and Egypt, marriage was a family-to-family economic transaction. Betrothal contracts specified bride-price (*mohar*) and dowry. Women typically married as teenagers. Most societies were patrilocal — the bride relocated to the husband's family compound. The statement in 2:24 that a man "leaves his father and his mother" is therefore socially inverted: in practice, the woman left. Whether this reflects an older custom, an idealized norm, or a theological priority for the marital bond over birth family is unresolved.
 
 **Source:** Borowski, O., *Agriculture in Iron Age Israel*, 1987; Westbrook, R., *Old Babylonian Marriage Law*, 1988.
@@ -336,51 +339,61 @@ In Late Bronze Age Canaan and Egypt, marriage was a family-to-family economic tr
 
 ---
 
-### Scenario B: If composed during the Monarchic period (~10th–9th c. BCE)
-**[HISTORICAL / ARCHAEOLOGICAL — POSSIBLE]** *(Some scholars place early source traditions here)*
+### Scenario B: If composed during the Monarchic period (~10th–9th c. BCE) — *Some scholars place early source traditions here*
+**[HISTORICAL / ARCHAEOLOGICAL — POSSIBLE]**
 
-**I-B1. Royal gardens and paradise ideology**
+#### I-B1. Royal gardens and paradise ideology
+**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
 The word translated "garden" (*gan*) relates to the Persian *pairi-daēza* ("paradise," a walled enclosure), but the concept of a royal enclosed garden was already present in the Levant before the Persian period. Solomon is credited with gardens and orchards (Ecclesiastes 2:5-6); Assyrian kings like Ashurnasirpal II boasted of planting exotic trees from conquered territories in their palace gardens. The garden in Genesis 2 shares the structural logic of the royal garden: a bounded, watered space where ideal vegetation grows under divine ownership. Read in the Monarchic period, it may offer an implicit critique: this ideal garden was not Solomon's; it was YHWH's.
 
-**I-B2. Irrigation technology in Iron Age Israel**
+#### I-B2. Irrigation technology in Iron Age Israel
+**[HISTORICAL / ARCHAEOLOGICAL — VERIFIED]**
 Monarchic-period Israel practiced both rain-fed hill-country agriculture (terracing, grain, vines, olives) and small-scale irrigation where springs permitted. The Gihon Spring in Jerusalem (named in 2:13 as one of Eden's rivers) was the city's water source — Warren's Shaft, the water tunnel, and later Hezekiah's Tunnel were built to secure it. The Pishon and Gihon as two of Eden's four rivers would carry immediate geographical resonance for a Jerusalem audience: the Gihon ran below their feet. The four-river geography of Eden positions the garden at the origin point of the world's water systems — the antithesis of Israel's chronic water insecurity.
 
-**I-B3. The *tsela* and body-based social metaphors**
+#### I-B3. The *tsela* and body-based social metaphors
+**[HISTORICAL / ARCHAEOLOGICAL — PROBABLE]**
 Genesis 2:21-22's extraction of a *tsela* ("side," often translated "rib") to build the woman reflects a body-based metaphor for social unity common in ancient rhetoric. Kinship in the ancient world was described in body terms: "bone of my bones and flesh of my flesh" (2:23) is the language of treaty and kinship alliance (*cf.* 2 Sam 5:1, "we are your bone and flesh"). In the Monarchic period, this language structured diplomatic and tribal relationships. The woman is not subordinate by nature of origin — the same formula is used when tribes pledge loyalty to a king.
 
 *For the full 10-category historical context of this period, see Genesis 1 companion Section I, Scenario B.*
 
 ---
 
-### Scenario C: If composed during the Exilic/Post-Exilic period (~6th–5th c. BCE)
-**[HISTORICAL / ARCHAEOLOGICAL — PROBABLE]** *(Scholarly consensus for final form)*
+### Scenario C: If composed during the Exilic/Post-Exilic period (~6th–5th c. BCE) — *Scholarly consensus for final form*
+**[HISTORICAL / ARCHAEOLOGICAL — PROBABLE]**
 
-**I-C1. Mesopotamian agricultural mythology and the *edinu* (plain)**
+#### I-C1. Mesopotamian agricultural mythology and the *edinu* (plain)
+**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
 The word *Eden* may derive from Sumerian/Akkadian *edinu*, "plain" or "steppe" — the uncultivated land between cities in Mesopotamia. Mesopotamian mythology has a pre-agricultural paradise: in the myth of *Enki and Ninhursag*, a sacred land (Dilmun) where there is no sickness, no predation, and plants grow without labor. Exilic Jews living in Babylonia would have heard echoes of Dilmun in Eden. But the texts diverge: Dilmun is a divine dwelling restored by the gods; Eden in Genesis 2 is a human habitation created for the *adam* to work. The human is placed in the garden as its worker and keeper — a laborer in paradise, not a passive resident.
 
-**I-C2. Rivers and geography in Babylonian cosmology**
+#### I-C2. Rivers and geography in Babylonian cosmology
+**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
 The four-river geography of Eden (2:10-14) names the Tigris (*Hiddekel*) and Euphrates explicitly — the two rivers that defined Mesopotamian geography for exilic Jews. The Pishon and Gihon remain unidentified, generating ancient and modern speculation. In Babylonian thought, rivers were divine — the Tigris was associated with the god Ea/Enki, and springs were considered divine speech. Exilic scribes placing the origin of all rivers in a single Edenic source presents a counter-cosmology: the rivers the Babylonians worshipped flow from a garden YHWH planted. Their holy rivers originate in YHWH's space.
 
-**I-C3. Marriage law in Persian-period Judaism**
+#### I-C3. Marriage law in Persian-period Judaism
+**[HISTORICAL / ARCHAEOLOGICAL — PROBABLE]**
 Ezra 9-10 and Nehemiah 13 show the Persian-period Jewish community in acute crisis over intermarriage with non-Jewish women. In this context, Genesis 2:24's statement that a man "leaves father and mother and clings to his woman, and they become one flesh" carries heightened stakes: the foundational definition of marriage concerns who constitutes the proper union. The tension between the text's universalism (the woman is taken from the man; they are "one flesh" by nature) and the community's ethnic boundary-enforcement (Ezra dissolves mixed marriages) is unresolved — the text does not adjudicate. It defines the structure of the relationship; the community fought over who qualified.
 
-**I-C4. Naming in the wisdom tradition**
+#### I-C4. Naming in the wisdom tradition
+**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
 The Babylonian scribal tradition maintained systematic lists of animals, plants, stones, and professions (*urra = hubullu* series). Exilic Jewish scribes would have been aware of this tradition. Genesis 2:19-20, where the human names all living creatures without finding a partner, positions the human as an agent of taxonomic intelligence — but the wisdom produced by naming fails to meet the deepest need. This is a distinctive move: naming is wisdom, but wisdom is insufficient. Only what YHWH builds from the human's own body satisfies.
 
 *For the full 10-category historical context of this period, see Genesis 1 companion Section I, Scenario C.*
 
 ---
 
-### Scenario D: If redacted during the Persian/early-Hellenistic period (~4th–3rd c. BCE)
-**[HISTORICAL / ARCHAEOLOGICAL — POSSIBLE]** *(Associated with final Pentateuchal shaping)*
+### Scenario D: If redacted during the Persian/early-Hellenistic period (~4th–3rd c. BCE) — *Associated with final Pentateuchal shaping*
+**[HISTORICAL / ARCHAEOLOGICAL — POSSIBLE]**
 
-**I-D1. Paradise gardens in Persian imperial culture**
+#### I-D1. Paradise gardens in Persian imperial culture
+**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
 The Persian *pairi-daēza* (walled garden) was an imperial institution. Persian kings built elaborate enclosed gardens throughout their empire — they were symbols of royal power, botanical collections, and hunting grounds simultaneously. Cyrus the Great tended his own garden at Pasargadae. For Jewish communities under Persian rule, the Eden narrative would have intersected with this well-known cultural form: YHWH's garden precedes and exceeds the Persian royal garden. The *gan be-eden* ("garden in Eden") is not a king's pleasure-ground but the origin point of human habitation — a counter-claim to Persian paradise ideology.
 
-**I-D2. Greek anatomical and philosophical interest in the body**
+#### I-D2. Greek anatomical and philosophical interest in the body
+**[HISTORICAL / ARCHAEOLOGICAL — PROBABLE]**
 By the 4th century BCE, Greek Hippocratic medicine was theorizing the body systematically. Aristotle's biology (*Historia Animalium*, *De Partibus Animalium*) classified animals and described anatomical structures. The Genesis 2 narrative — a god performing what looks structurally like surgery (*tardemah*, opening, extraction, closure) to produce the woman — would have been legible to a Hellenistic-aware reader as a form of divine craftwork applied to the body. The text does not use medical language; it describes a divine creative act. But the cultural moment when people were beginning to analyze bodies systematically is also the moment when the text's procedure-like sequence becomes particularly striking.
 
-**I-D3. Canonical status and the authority of foundational narrative**
+#### I-D3. Canonical status and the authority of foundational narrative
+**[HISTORICAL / ARCHAEOLOGICAL — DOCUMENTED]**
 In the Persian and early Hellenistic periods, the Torah was gaining its status as the constitutional document of Jewish identity. Genesis 2's account of the origin of marriage, naming, and the human vocation ("to work it and to keep it") would have functioned not merely as story but as foundational law. Disputes about marriage, labor obligations, and the human relationship to the land would have been adjudicated against this text. The Septuagint translation into Greek (3rd c. BCE) suggests that diaspora communities needed the text accessible in the dominant language — Genesis 2's account of origins was being read across the Mediterranean in Greek by this period.
 
 *For the full 10-category historical context of this period, see Genesis 1 companion Section I, Scenario D.*

@@ -308,16 +308,19 @@ Der „Baum der Erkenntnis von Gut und Böse" (2:9, 17) benennt ein Konzept, das
 
 ---
 
-### Szenario A: Falls während der mosaischen Periode verfasst (~13. Jh. v. Chr.)
-**[HISTORISCH / ARCHÄOLOGISCH — DOKUMENTIERT]** *(Traditionelle Zuschreibung)*
+### Szenario A: Falls während der mosaischen Periode verfasst (~13. Jh. v. Chr.) — *Traditionelle Zuschreibung*
+**[HISTORISCH / ARCHÄOLOGISCH — DOKUMENTIERT]**
 
-**I-A1. Garten und Bewässerung in der spätbronzezeitlichen Ägypten und Kanaan**
+#### I-A1. Garten und Bewässerung in der spätbronzezeitlichen Ägypten und Kanaan
+**[HISTORISCH / ARCHÄOLOGISCH — DOKUMENTIERT]**
 Das Bild eines ummauerten Gartens (*gan*), gespeist von einem sich teilenden Fluss, hätte in zwei Richtungen resoniert: Ägyptische Königsgärten (belegt in neureichszeitlichen Malereien in Theben) waren Prestigeräume mit Bewässerungskanälen und exotischen Bäumen — Lustgärten für die Elite. Gleichzeitig machte die jährliche Nilflut die ägyptische Landwirtschaft nahezu selbstbewässernd, eine Beobachtung, die jeder Israelit, der in Ägypten gearbeitet hatte, erkannt hätte. Tigris und Euphrat (in 2:14 namentlich genannt) hatten seit Jahrtausenden kanalgespeiste Felder bewässert. Für eine Gemeinschaft in der Sinai-Wüste stellte ein selbstbewässernder Garten den Gegensatz zur aktuellen Landschaft dar.
 
-**I-A2. Benennung und Taxonomie in spätbronzezeitlichen Kulturen**
+#### I-A2. Benennung und Taxonomie in spätbronzezeitlichen Kulturen
+**[HISTORISCH / ARCHÄOLOGISCH — DOKUMENTIERT]**
 Genesis 2:19-20 lässt den Menschen (*adam*) jedes Lebewesen benennen. In Ägypten brachte die Schreibertradition umfangreiche Tierlisten (*Onomastika*) hervor — kategorisierte Inventare von Tieren, Pflanzen und Orten, die sowohl für praktische als auch rituelle Zwecke verwendet wurden. Das Onomastikon des Amenope (ca. 1100 v. Chr., nahe dieser Periode) listet Himmel, Wasser, Erde, Personen, Orte und Tiere systematisch auf. Das Benennen als Form der Herrschaft und Kategorisierung war in allen altorientalischen Kulturen verstanden. Der Akt des Benennens aller Lebewesen, ohne eine geeignete Entsprechung (*ezer kenegdo*) zu finden, nutzt diese Tradition: Der Mensch übt Herrschaft durch Benennen aus, doch die Übung selbst offenbart eine Lücke, die das Benennen allein nicht füllen kann.
 
-**I-A3. Heiratsgebräuche in der Späten Bronzezeit**
+#### I-A3. Heiratsgebräuche in der Späten Bronzezeit
+**[HISTORISCH / ARCHÄOLOGISCH — WAHRSCHEINLICH]**
 In der spätbronzezeitlichen Kanaan und Ägypten war die Ehe eine wirtschaftliche Transaktion zwischen Familien. Verlobungsverträge regelten Brautpreis (*mohar*) und Mitgift. Frauen heirateten in der Regel als Teenager. Die meisten Gesellschaften waren patrilokal — die Braut zog in die Familie des Mannes. Die Aussage in 2:24, dass ein Mann „seinen Vater und seine Mutter verlässt", ist daher sozial umgekehrt: In der Praxis verließ die Frau ihre Familie. Ob dies einen älteren Brauch, eine idealisierte Norm oder eine theologische Priorität der Ehebindung über die Herkunftsfamilie widerspiegelt, ist ungeklärt.
 
 **Quelle:** Borowski, O., *Agriculture in Iron Age Israel*, 1987; Westbrook, R., *Old Babylonian Marriage Law*, 1988.
@@ -326,51 +329,61 @@ In der spätbronzezeitlichen Kanaan und Ägypten war die Ehe eine wirtschaftlich
 
 ---
 
-### Szenario B: Falls während der monarchischen Periode verfasst (~10.–9. Jh. v. Chr.)
-**[HISTORISCH / ARCHÄOLOGISCH — MÖGLICH]** *(Einige Gelehrte verorten frühe Quelltraditionen hier)*
+### Szenario B: Falls während der monarchischen Periode verfasst (~10.–9. Jh. v. Chr.) — *Einige Gelehrte verorten frühe Quelltraditionen hier*
+**[HISTORISCH / ARCHÄOLOGISCH — MÖGLICH]**
 
-**I-B1. Königsgärten und Paradiesideologie**
+#### I-B1. Königsgärten und Paradiesideologie
+**[HISTORISCH / ARCHÄOLOGISCH — DOKUMENTIERT]**
 Das mit „Garten" übersetzte Wort (*gan*) ist mit dem persischen *pairi-daēza* („Paradies", ein ummauertes Gehege) verwandt, aber das Konzept eines königlichen umfriedeten Gartens war in der Levante bereits vor der Perserzeit vorhanden. Salomo werden Gärten und Obstgärten zugeschrieben (Prediger 2:5-6); assyrische Könige wie Assurnasirpal II. rühmten sich, exotische Bäume aus eroberten Gebieten in ihren Palastgärten anzupflanzen. Der Garten in Genesis 2 folgt der strukturellen Logik des Königsgartens: ein abgegrenzter, bewässerter Raum, in dem ideale Vegetation unter göttlichem Eigentum wächst. In der monarchischen Periode gelesen, könnte er eine implizite Kritik bieten: Dieser ideale Garten gehörte nicht Salomo; er gehörte JHWH.
 
-**I-B2. Bewässerungstechnologie im eisenzeitlichen Israel**
+#### I-B2. Bewässerungstechnologie im eisenzeitlichen Israel
+**[HISTORISCH / ARCHÄOLOGISCH — VERIFIZIERT]**
 Das Israel der Monarchieperiode betrieb sowohl regengespeiste Hügellandwirtschaft (Terrassierung, Getreide, Reben, Oliven) als auch kleinräumige Bewässerung, wo Quellen es ermöglichten. Die Gihon-Quelle in Jerusalem (in 2:13 als einer der Eden-Flüsse genannt) war die Wasserquelle der Stadt — der Warren-Schacht, der Wassertunnel und später der Hiskia-Tunnel wurden gebaut, um sie zu sichern. Der Pischon und Gihon als zwei der vier Eden-Flüsse hätten für ein Jerusalemer Publikum unmittelbare geographische Resonanz getragen: Der Gihon floss unter ihren Füßen. Die Vier-Fluss-Geographie Edens positioniert den Garten am Ursprungspunkt der Wassersysteme der Welt — den Gegensatz zur chronischen Wasserunsicherheit Israels.
 
-**I-B3. Die *tsela* und körperbasierte soziale Metaphern**
+#### I-B3. Die *tsela* und körperbasierte soziale Metaphern
+**[HISTORISCH / ARCHÄOLOGISCH — WAHRSCHEINLICH]**
 Die Extraktion einer *tsela* („Seite", oft als „Rippe" übersetzt) in Genesis 2:21-22, um die Frau zu erbauen, spiegelt eine körperbasierte Metapher für soziale Einheit wider, die in der antiken Rhetorik verbreitet war. Verwandtschaft in der antiken Welt wurde in Körperbegriffen beschrieben: „Bein von meinen Beinen und Fleisch von meinem Fleisch" (2:23) ist die Sprache des Bündnisses und der Verwandtschaft (*vgl.* 2. Samuel 5:1, „wir sind dein Bein und Fleisch"). In der Monarchieperiode strukturierte diese Sprache diplomatische und Stammesbeziehungen. Die Frau ist nicht von Natur aus untergeordnet aufgrund ihrer Herkunft — dieselbe Formel wird verwendet, wenn Stämme einem König Loyalität schwören.
 
 *Für den vollständigen historischen Kontext dieses Zeitraums mit allen 10 Kategorien siehe Genesis 1 Begleitmaterial Abschnitt I, Szenario B.*
 
 ---
 
-### Szenario C: Falls während der exilischen/nachexilischen Periode verfasst (~6.–5. Jh. v. Chr.)
-**[HISTORISCH / ARCHÄOLOGISCH — WAHRSCHEINLICH]** *(Wissenschaftlicher Konsens für die Endgestalt)*
+### Szenario C: Falls während der exilischen/nachexilischen Periode verfasst (~6.–5. Jh. v. Chr.) — *Wissenschaftlicher Konsens für die Endgestalt*
+**[HISTORISCH / ARCHÄOLOGISCH — WAHRSCHEINLICH]**
 
-**I-C1. Mesopotamische Agrarmythologie und das *edinu* (die Ebene)**
+#### I-C1. Mesopotamische Agrarmythologie und das *edinu* (die Ebene)
+**[HISTORISCH / ARCHÄOLOGISCH — DOKUMENTIERT]**
 Das Wort *Eden* könnte vom sumerischen/akkadischen *edinu* abstammen, „Ebene" oder „Steppe" — das unkultivierte Land zwischen Städten in Mesopotamien. Die mesopotamische Mythologie kennt ein voragrarisches Paradies: Im Mythos von *Enki und Ninhursag* gibt es ein heiliges Land (Dilmun), in dem es keine Krankheit, keine Jagd und Pflanzen ohne Arbeit gibt. Jüdische Exilanten, die in Babylonien lebten, hätten Echos von Dilmun in Eden gehört. Aber die Texte divergieren: Dilmun ist eine göttliche Wohnung, die von den Göttern wiederhergestellt wird; Eden in Genesis 2 ist ein menschlicher Wohnort, der für den *adam* geschaffen wurde, um darin zu arbeiten. Der Mensch wird in den Garten gesetzt als sein Arbeiter und Hüter — ein Arbeiter im Paradies, kein passiver Bewohner.
 
-**I-C2. Flüsse und Geographie in der babylonischen Kosmologie**
+#### I-C2. Flüsse und Geographie in der babylonischen Kosmologie
+**[HISTORISCH / ARCHÄOLOGISCH — DOKUMENTIERT]**
 Die Vier-Fluss-Geographie Edens (2:10-14) nennt Tigris (*Hiddekel*) und Euphrat ausdrücklich — die zwei Flüsse, die für jüdische Exilanten die mesopotamische Geographie definierten. Pischon und Gihon bleiben unidentifiziert und haben antike und moderne Spekulation ausgelöst. Im babylonischen Denken waren Flüsse göttlich — der Tigris war mit dem Gott Ea/Enki assoziiert, und Quellen galten als göttliche Sprache. Exilierte Schreiber, die den Ursprung aller Flüsse in einer einzigen Edensischen Quelle platzierten, präsentierten eine Gegenkosmologie: Die Flüsse, die die Babylonier verehrten, fließen aus einem Garten, den JHWH gepflanzt hat. Ihre heiligen Flüsse entspringen in JHWHs Raum.
 
-**I-C3. Eherecht im judentum der Perserzeit**
+#### I-C3. Eherecht im judentum der Perserzeit
+**[HISTORISCH / ARCHÄOLOGISCH — WAHRSCHEINLICH]**
 Esra 9-10 und Nehemia 13 zeigen die jüdische Gemeinschaft der Perserzeit in akuter Krise wegen Mischehen mit nicht-jüdischen Frauen. In diesem Kontext trägt die Aussage von Genesis 2:24, dass ein Mann „Vater und Mutter verlässt und an seiner Frau hängt, und sie werden ein Fleisch", erhöhte Bedeutung: Die grundlegende Definition der Ehe betrifft, wer eine rechte Verbindung bildet. Die Spannung zwischen dem Universalismus des Textes (die Frau wird aus dem Mann genommen; sie sind von Natur aus „ein Fleisch") und der ethnischen Grenzziehung der Gemeinschaft (Esra löst Mischehen auf) ist ungelöst — der Text urteilt nicht. Er definiert die Struktur der Beziehung; die Gemeinschaft stritt darüber, wer sich qualifizierte.
 
-**I-C4. Benennung in der Weisheitstradition**
+#### I-C4. Benennung in der Weisheitstradition
+**[HISTORISCH / ARCHÄOLOGISCH — DOKUMENTIERT]**
 Die babylonische Schreibertradition pflegte systematische Listen von Tieren, Pflanzen, Steinen und Berufen (*urra = hubullu*-Serie). Jüdische Exilschreiber wären mit dieser Tradition vertraut gewesen. Genesis 2:19-20, wo der Mensch alle Lebewesen benennt, ohne einen Partner zu finden, positioniert den Menschen als Träger taxonomischer Intelligenz — aber die durch Benennen erzeugte Weisheit reicht nicht aus, um das tiefste Bedürfnis zu befriedigen. Dies ist ein charakteristischer Zug: Benennen ist Weisheit, aber Weisheit ist unzureichend. Nur was JHWH aus dem eigenen Körper des Menschen baut, erfüllt.
 
 *Für den vollständigen historischen Kontext dieses Zeitraums mit allen 10 Kategorien siehe Genesis 1 Begleitmaterial Abschnitt I, Szenario C.*
 
 ---
 
-### Szenario D: Falls während der persischen/frühen hellenistischen Periode redigiert (~4.–3. Jh. v. Chr.)
-**[HISTORISCH / ARCHÄOLOGISCH — MÖGLICH]** *(Verbunden mit der abschließenden Pentateuchgestaltung)*
+### Szenario D: Falls während der persischen/frühen hellenistischen Periode redigiert (~4.–3. Jh. v. Chr.) — *Verbunden mit der abschließenden Pentateuchgestaltung*
+**[HISTORISCH / ARCHÄOLOGISCH — MÖGLICH]**
 
-**I-D1. Paradiesgärten in der persischen Kaiserkultur**
+#### I-D1. Paradiesgärten in der persischen Kaiserkultur
+**[HISTORISCH / ARCHÄOLOGISCH — DOKUMENTIERT]**
 Der persische *pairi-daēza* (ummaurter Garten) war eine kaiserliche Institution. Persische Könige legten im gesamten Reich aufwändige Gehegegärten an — sie waren gleichzeitig Symbole königlicher Macht, botanische Sammlungen und Jagdgründe. Kyros der Große pflegte seinen eigenen Garten in Pasargadai. Für jüdische Gemeinschaften unter persischer Herrschaft würde die Eden-Erzählung mit dieser bekannten Kulturform in Berührung kommen: JHWHs Garten geht dem persischen Königsgarten voraus und übertrifft ihn. Der *gan be-eden* („Garten in Eden") ist kein königliches Lustgelände, sondern der Ursprungspunkt menschlicher Behausung — ein Gegenanspruch zur persischen Paradiesideologie.
 
-**I-D2. Griechisches anatomisches und philosophisches Interesse am Körper**
+#### I-D2. Griechisches anatomisches und philosophisches Interesse am Körper
+**[HISTORISCH / ARCHÄOLOGISCH — WAHRSCHEINLICH]**
 Im 4. Jahrhundert v. Chr. theoretisierte die griechische Hippokratische Medizin den Körper systematisch. Aristoteles' Biologie (*Historia Animalium*, *De Partibus Animalium*) klassifizierte Tiere und beschrieb anatomische Strukturen. Die Genesis-2-Erzählung — ein Gott, der etwas ausführt, das strukturell wie eine Operation aussieht (*tardema*, Öffnung, Extraktion, Verschluss), um die Frau hervorzubringen — wäre für einen hellenistisch bewussten Leser als eine Form göttlichen Handwerks am Körper lesbar gewesen. Der Text verwendet keine medizinische Sprache; er beschreibt einen göttlichen Schöpfungsakt. Aber der kulturelle Moment, in dem Menschen begannen, Körper systematisch zu analysieren, ist auch der Moment, in dem die verfahrensähnliche Abfolge des Textes besonders auffällig wird.
 
-**I-D3. Kanonischer Status und die Autorität des Gründungsnarrativs**
+#### I-D3. Kanonischer Status und die Autorität des Gründungsnarrativs
+**[HISTORISCH / ARCHÄOLOGISCH — DOKUMENTIERT]**
 In der persischen und frühen hellenistischen Periode gewann die Tora ihren Status als Verfassungsdokument jüdischer Identität. Der Bericht von Genesis 2 über den Ursprung der Ehe, des Benennens und der menschlichen Berufung („ihn zu bearbeiten und ihn zu bewahren") hätte nicht nur als Geschichte funktioniert, sondern als Grundlagenrecht. Streitigkeiten über Ehe, Arbeitspflichten und das menschliche Verhältnis zum Land wären gegen diesen Text abgewogen worden. Die Septuaginta-Übersetzung ins Griechische (3. Jh. v. Chr.) deutet darauf hin, dass Diasporagemeinden den Text in der Hauptsprache zugänglich benötigten — der Bericht von Genesis 2 über die Ursprünge wurde von dieser Periode an im gesamten Mittelmeerraum auf Griechisch gelesen.
 
 *Für den vollständigen historischen Kontext dieses Zeitraums mit allen 10 Kategorien siehe Genesis 1 Begleitmaterial Abschnitt I, Szenario D.*

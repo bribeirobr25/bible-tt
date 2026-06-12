@@ -308,16 +308,19 @@ Génesis 2:21: "YHWH Dios hizo caer un sueño profundo (*tardemah*) sobre el hum
 
 ---
 
-### Escenario A: Si fue compuesto durante el período mosaico (~s. XIII a.C.)
-**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]** *(Atribución tradicional)*
+### Escenario A: Si fue compuesto durante el período mosaico (~s. XIII a.C.) — *Atribución tradicional*
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 
-**I-A1. El jardín y la irrigación en el Bronce Tardío: Egipto y Canaán**
+#### I-A1. El jardín y la irrigación en el Bronce Tardío: Egipto y Canaán
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 La imagen de un jardín amurallado (*gan*) alimentado por un río ramificado habría resonado en dos direcciones: los jardines reales egipcios (atestiguados en pinturas del Imperio Nuevo en Tebas) eran espacios de prestigio con canales de irrigación y árboles exóticos — jardines de placer para la élite. Al mismo tiempo, la inundación anual del Nilo hacía que la agricultura egipcia fuera casi autorregada, una observación que cualquier israelita que hubiera trabajado en Egipto habría reconocido. El Tigris y el Éufrates (nombrados en 2:14) habían alimentado tierras de cultivo con riego de canales durante milenios. Para una comunidad que vivía en el desierto del Sinaí, un jardín autorregado representaba la antítesis de su paisaje actual.
 
-**I-A2. La nomenclatura y la taxonomía en las culturas del Bronce Tardío**
+#### I-A2. La nomenclatura y la taxonomía en las culturas del Bronce Tardío
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 Génesis 2:19-20 presenta al ser humano (*adam*) nombrando a cada criatura. En Egipto, la tradición escribal producía extensas listas de animales (*onomástica*) — inventarios categorizados de animales, plantas y lugares usados tanto con fines prácticos como rituales. El Onomasticon de Amenope (c. 1100 a.C., cercano a este período) enumera el cielo, el agua, la tierra, las personas, los lugares y los animales de manera sistemática. El acto de nombrar como forma de dominio y categorización era comprendido en todas las culturas del antiguo Oriente Próximo. El acto de nombrar a todas las criaturas sin encontrar una contraparte adecuada (*ezer kenegdo*) explota esta tradición: el ser humano ejerce dominio nombrando, pero el ejercicio mismo revela una carencia que el nombrar solo no puede llenar.
 
-**I-A3. Las costumbres matrimoniales en el Bronce Tardío**
+#### I-A3. Las costumbres matrimoniales en el Bronce Tardío
+**[HISTÓRICO / ARQUEOLÓGICO — PROBABLE]**
 En el Canaán y Egipto del Bronce Tardío, el matrimonio era ante todo una transacción económica entre familias. Los contratos de desposorio especificaban el precio de la novia (*mohar*) y la dote. Las mujeres solían casarse en la adolescencia. La mayoría de las sociedades eran patrilocales — la novia se trasladaba al núcleo familiar del esposo. La declaración de 2:24 de que el hombre "deja a su padre y a su madre" está por ello socialmente invertida: en la práctica, era la mujer quien se iba. Si esto refleja una costumbre más antigua, una norma idealizada o una prioridad teológica del vínculo conyugal sobre la familia de origen es una cuestión sin resolver.
 
 **Fuente:** Borowski, O., *Agriculture in Iron Age Israel*, 1987; Westbrook, R., *Old Babylonian Marriage Law*, 1988.
@@ -326,51 +329,61 @@ En el Canaán y Egipto del Bronce Tardío, el matrimonio era ante todo una trans
 
 ---
 
-### Escenario B: Si fue compuesto durante el período monárquico (~ss. X-IX a.C.)
-**[HISTÓRICO / ARQUEOLÓGICO — POSIBLE]** *(Algunos eruditos sitúan aquí las tradiciones de fuentes tempranas)*
+### Escenario B: Si fue compuesto durante el período monárquico (~ss. X-IX a.C.) — *Algunos eruditos sitúan aquí las tradiciones de fuentes tempranas*
+**[HISTÓRICO / ARQUEOLÓGICO — POSIBLE]**
 
-**I-B1. Jardines reales e ideología paradisíaca**
+#### I-B1. Jardines reales e ideología paradisíaca
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 La palabra traducida "jardín" (*gan*) se relaciona con el persa *pairi-daēza* ("paraíso", un recinto amurallado), pero el concepto de jardín real cercado ya estaba presente en el Levante antes del período persa. Se atribuyen a Salomón jardines y huertos (Eclesiastés 2:5-6); reyes asirios como Asurnasirpal II se jactaban de plantar árboles exóticos de territorios conquistados en sus jardines palaciegos. El jardín de Génesis 2 comparte la lógica estructural del jardín real: un espacio delimitado y regado donde crece la vegetación ideal bajo propiedad divina. Leído en el período monárquico, puede ofrecer una crítica implícita: este jardín ideal no era el de Salomón; era el de YHWH.
 
-**I-B2. La tecnología de irrigación en Israel durante la Edad del Hierro**
+#### I-B2. La tecnología de irrigación en Israel durante la Edad del Hierro
+**[HISTÓRICO / ARQUEOLÓGICO — VERIFICADO]**
 El Israel del período monárquico practicaba tanto la agricultura de secano en las colinas (terrazas, cereales, vides, olivos) como la irrigación a pequeña escala donde lo permitían los manantiales. El manantial de Guijón en Jerusalén (nombrado en 2:13 como uno de los ríos del Edén) era la fuente de agua de la ciudad — el Pozo de Warren, el túnel de agua y posteriormente el Túnel de Ezequías fueron construidos para asegurarlo. El Pisón y el Guijón como dos de los cuatro ríos del Edén habrían tenido una resonancia geográfica inmediata para una audiencia de Jerusalén: el Guijón corría bajo sus pies. La geografía cuatrifluvial del Edén sitúa el jardín en el punto de origen de todos los sistemas fluviales del mundo — la antítesis de la crónica inseguridad hídrica de Israel.
 
-**I-B3. La *tsela* y las metáforas sociales basadas en el cuerpo**
+#### I-B3. La *tsela* y las metáforas sociales basadas en el cuerpo
+**[HISTÓRICO / ARQUEOLÓGICO — PROBABLE]**
 La extracción de una *tsela* ("costado", frecuentemente traducida "costilla") en Génesis 2:21-22 para construir a la mujer refleja una metáfora de unidad social basada en el cuerpo, común en la retórica antigua. El parentesco en el mundo antiguo se describía en términos corporales: "hueso de mis huesos y carne de mi carne" (2:23) es el lenguaje de la alianza y el parentesco (*cf.* 2 Sam 5:1, "somos tu hueso y tu carne"). En el período monárquico, este lenguaje estructuraba las relaciones diplomáticas y tribales. La mujer no es subordinada por naturaleza de su origen — la misma fórmula se usa cuando las tribus juran lealtad a un rey.
 
 *Para el contexto histórico completo de este período con las 10 categorías, vea el compañero de Génesis 1, Sección I, Escenario B.*
 
 ---
 
-### Escenario C: Si fue compuesto durante el período exílico/postexílico (~ss. VI-V a.C.)
-**[HISTÓRICO / ARQUEOLÓGICO — PROBABLE]** *(Consenso académico para la forma final)*
+### Escenario C: Si fue compuesto durante el período exílico/postexílico (~ss. VI-V a.C.) — *Consenso académico para la forma final*
+**[HISTÓRICO / ARQUEOLÓGICO — PROBABLE]**
 
-**I-C1. La mitología agrícola mesopotámica y el *edinu* (llanura)**
+#### I-C1. La mitología agrícola mesopotámica y el *edinu* (llanura)
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 La palabra *Edén* puede derivar del sumerio/acadio *edinu*, "llanura" o "estepa" — la tierra sin cultivar entre las ciudades de Mesopotamia. La mitología mesopotámica tiene un paraíso preoagrícola: en el mito de *Enki y Ninhursag*, una tierra sagrada (Dilmun) donde no hay enfermedad, no hay depredación y las plantas crecen sin trabajo. Los judíos exiliados que vivían en Babilonia habrían oído ecos de Dilmun en el Edén. Pero los textos divergen: Dilmun es una morada divina restaurada por los dioses; el Edén de Génesis 2 es una habitación humana creada para que el *adam* trabaje. El ser humano es colocado en el jardín como su trabajador y guardián — un labrador en el paraíso, no un residente pasivo.
 
-**I-C2. Ríos y geografía en la cosmología babilónica**
+#### I-C2. Ríos y geografía en la cosmología babilónica
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 La geografía cuatrifluvial del Edén (2:10-14) nombra explícitamente el Tigris (*Hidekel*) y el Éufrates — los dos ríos que definían la geografía mesopotámica para los judíos exiliados. El Pisón y el Guijón permanecen sin identificar, generando especulación antigua y moderna. En el pensamiento babilónico, los ríos eran divinos — el Tigris estaba asociado con el dios Ea/Enki, y los manantiales eran considerados palabra divina. Los escribas exiliados que sitúan el origen de todos los ríos en una única fuente edénica presentan una contracosmología: los ríos que los babilonios veneraban fluyen desde un jardín que YHWH plantó. Sus ríos sagrados se originan en el espacio de YHWH.
 
-**I-C3. El derecho matrimonial en el judaísmo del período persa**
+#### I-C3. El derecho matrimonial en el judaísmo del período persa
+**[HISTÓRICO / ARQUEOLÓGICO — PROBABLE]**
 Esdras 9-10 y Nehemías 13 muestran a la comunidad judía del período persa en una crisis aguda por los matrimonios mixtos con mujeres no judías. En este contexto, la declaración de Génesis 2:24 de que el hombre "deja a su padre y a su madre y se une a su mujer, y se hacen una sola carne" tiene implicaciones de mayor peso: la definición fundacional del matrimonio atañe a quién constituye la unión apropiada. La tensión entre el universalismo del texto (la mujer es tomada del hombre; son "una sola carne" por naturaleza) y la aplicación de fronteras étnicas de la comunidad (Esdras disuelve los matrimonios mixtos) no se resuelve — el texto no lo dictamina. Define la estructura de la relación; la comunidad disputó sobre quién reunía las condiciones.
 
-**I-C4. La nomenclatura en la tradición sapiencial**
+#### I-C4. La nomenclatura en la tradición sapiencial
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 La tradición escribal babilónica mantenía listas sistemáticas de animales, plantas, piedras y profesiones (la serie *urra = hubullu*). Los escribas judíos exiliados conocerían esta tradición. Génesis 2:19-20, donde el ser humano nombra a todas las criaturas vivas sin encontrar una compañera, sitúa al ser humano como agente de inteligencia taxonómica — pero la sabiduría producida por el nombramiento no satisface la necesidad más profunda. Este es un movimiento distintivo: nombrar es sabiduría, pero la sabiduría es insuficiente. Solo lo que YHWH construye del propio cuerpo del ser humano satisface.
 
 *Para el contexto histórico completo de este período con las 10 categorías, vea el compañero de Génesis 1, Sección I, Escenario C.*
 
 ---
 
-### Escenario D: Si fue redactado durante el período persa/helenístico temprano (~ss. IV-III a.C.)
-**[HISTÓRICO / ARQUEOLÓGICO — POSIBLE]** *(Asociado con la configuración final del Pentateuco)*
+### Escenario D: Si fue redactado durante el período persa/helenístico temprano (~ss. IV-III a.C.) — *Asociado con la configuración final del Pentateuco*
+**[HISTÓRICO / ARQUEOLÓGICO — POSIBLE]**
 
-**I-D1. Los jardines paradisíacos en la cultura imperial persa**
+#### I-D1. Los jardines paradisíacos en la cultura imperial persa
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 El *pairi-daēza* persa (jardín amurallado) era una institución imperial. Los reyes persas construyeron elaborados jardines cercados en todo su Imperio — eran a la vez símbolos de poder real, colecciones botánicas y cotos de caza. Ciro el Grande cuidaba su propio jardín en Pasárgadas. Para las comunidades judías bajo el dominio persa, la narrativa del Edén habría intersectado con esta forma cultural bien conocida: el jardín de YHWH precede y supera al jardín real persa. El *gan be-eden* ("jardín en Edén") no es un lugar de recreo real, sino el punto de origen de la habitación humana — una contraclamación a la ideología paradisíaca persa.
 
-**I-D2. El interés griego por la anatomía y el cuerpo en el período helenístico**
+#### I-D2. El interés griego por la anatomía y el cuerpo en el período helenístico
+**[HISTÓRICO / ARQUEOLÓGICO — PROBABLE]**
 Para el s. IV a.C., la medicina hipocrática griega teorizaba el cuerpo sistemáticamente. La biología de Aristóteles (*Historia Animalium*, *De Partibus Animalium*) clasificaba los animales y describía las estructuras anatómicas. La narrativa de Génesis 2 — un dios realizando lo que parece estructuralmente una cirugía (*tardemah*, apertura, extracción, cierre) para producir a la mujer — habría resultado legible para un lector familiarizado con el helenismo como una forma de obra artesanal divina aplicada al cuerpo. El texto no usa lenguaje médico; describe un acto creativo divino. Pero el momento cultural en que las personas comenzaban a analizar los cuerpos sistemáticamente es también el momento en que la secuencia procedimental del texto se vuelve particularmente llamativa.
 
-**I-D3. Estatus canónico y la autoridad de la narrativa fundacional**
+#### I-D3. Estatus canónico y la autoridad de la narrativa fundacional
+**[HISTÓRICO / ARQUEOLÓGICO — DOCUMENTADO]**
 En los períodos persa y helenístico temprano, la Torá estaba adquiriendo su estatus de documento constitucional de la identidad judía. El relato de Génesis 2 sobre el origen del matrimonio, la nomenclatura y la vocación humana ("para trabajarlo y cuidarlo") habría funcionado no solo como historia sino como ley fundacional. Las disputas sobre el matrimonio, las obligaciones laborales y la relación humana con la tierra habrían sido adjudicadas contra este texto. La traducción de la Septuaginta al griego (s. III a.C.) sugiere que las comunidades de la diáspora necesitaban el texto en la lengua dominante — el relato de los orígenes de Génesis 2 era leído en todo el Mediterráneo en griego en este período.
 
 *Para el contexto histórico completo de este período con las 10 categorías, vea el compañero de Génesis 1, Sección I, Escenario D.*

@@ -333,67 +333,80 @@ Genesis 2:17: „am Tag, da du davon isst, wirst du des Todes sterben" — an de
 
 ---
 
-### Szenario A: Falls während der mosaischen Periode verfasst (~13. Jh. v. Chr.)
-**[HISTORISCH / ARCHÄOLOGISCH — DOKUMENTIERT]** *(Traditionelle Zuschreibung)*
+### Szenario A: Falls während der mosaischen Periode verfasst (~13. Jh. v. Chr.) — *Traditionelle Zuschreibung*
+**[HISTORISCH / ARCHÄOLOGISCH — DOKUMENTIERT]**
 
-**I-A1. Schlangen in der spätbronzezeitlichen Religion und im Alltagsleben**
+#### I-A1. Schlangen in der spätbronzezeitlichen Religion und im Alltagsleben
+**[HISTORISCH / ARCHÄOLOGISCH — DOKUMENTIERT]**
 Im ägypten und Kanaan des 13. Jahrhunderts v. Chr. war die Schlange gleichzeitig gefährlich und heilig. Die ägyptische *Uräus*-Kobra zierte Pharaos Krone als Symbol göttlichen Schutzes und souveräner Macht. Der Gott Apophis — eine riesige Schlange — verkörperte das Chaos, das die Sonnenordnung bedrohte. Gleichzeitig waren echte Schlangen eine tödliche Gefahr für Landarbeiter und Wüstenreisende. Anti-Schlangen-Beschwörungen gehören zu den häufigsten Zaubertexten dieser Periode. Für eine Gemeinschaft, die gerade Ägypten verlassen hatte, würde die Schlange in Genesis 3 unmittelbare Assoziationen tragen: göttliche Macht, Chaos und körperliche Bedrohung — keine davon zwingt der Text zu einer einzigen Lesart.
 
-**I-A2. Wissen, Weisheit und göttliche Geheimnisse im spätbronzezeitlichen Denken**
+#### I-A2. Wissen, Weisheit und göttliche Geheimnisse im spätbronzezeitlichen Denken
+**[HISTORISCH / ARCHÄOLOGISCH — DOKUMENTIERT]**
 Das Gilgamesch-Epos (Kopien aus dem 13. Jahrhundert v. Chr. kursierten weithin) stellt Wissen und Sterblichkeit als miteinander verflochten dar: Gilgameschs Gefährte Enkidu wird durch eine Frau von tierischer Wildheit zu menschlicher Weisheit geführt und muss dann sterben. Das Begehren nach göttlichem Wissen — und die Gefahr, es zu erlangen — war ein anerkanntes Thema in der altorientalischen Literatur. Ägyptische und mesopotamische Weisheitstraditionen anerkannten, dass vollständiges Wissen den Göttern gehörte; menschliche Weisheit war partiell und begrenzt. Das „Erkennen von Gut und Böse" in Genesis 3 — was auch immer es genau bedeutet — operiert in einem kulturellen Umfeld, in dem das Begehren nach gottgleichem Wissen als Übertretung erkannt wurde.
 
-**I-A3. Nacktheit und Scham im Wüsten-/Nomadenkontext**
+#### I-A3. Nacktheit und Scham im Wüsten-/Nomadenkontext
+**[HISTORISCH / ARCHÄOLOGISCH — WAHRSCHEINLICH]**
 Für eine Gemeinschaft in der Sinai-Wüste hatte der Übergang von Nacktheit zu Kleidung unmittelbares praktisches und soziales Gewicht. Kleidung markierte sozialen Status, schützte vor der Umgebung und unterschied Menschen von Tieren. Das Nähen von Feigenblättern (3:7) und JHWHs nachfolgende Bereitstellung von Lederkleidern (3:21) hätten in einer Welt resoniert, in der anständige Kleidung ein Zeichen von Fürsorge, Versorgung und Würde war — kein abstrakter Verlust der Unschuld, sondern ein konkreter Marker des veränderten Status.
 
 *Für den vollständigen historischen Kontext dieses Zeitraums mit allen 10 Kategorien siehe Genesis 1 Begleitmaterial Abschnitt I, Szenario A.*
 
 ---
 
-### Szenario B: Falls während der monarchischen Periode verfasst (~10.–9. Jh. v. Chr.)
-**[HISTORISCH / ARCHÄOLOGISCH — MÖGLICH]** *(Einige Gelehrte verorten frühe Quelltraditionen hier)*
+### Szenario B: Falls während der monarchischen Periode verfasst (~10.–9. Jh. v. Chr.) — *Einige Gelehrte verorten frühe Quelltraditionen hier*
+**[HISTORISCH / ARCHÄOLOGISCH — MÖGLICH]**
 
-**I-B1. Schlangenikonographie in israelitischer und kanaanitischer Religion**
+#### I-B1. Schlangenikonographie in israelitischer und kanaanitischer Religion
+**[HISTORISCH / ARCHÄOLOGISCH — VERIFIZIERT]**
 Archäologische Ausgrabungen in eisenzeitlichen israelitischen Schichten (10.–9. Jh. v. Chr.) haben Bronzeschlangenstatuetten an Orten wie Megiddo, Geser und Hazor gefunden — was darauf hindeutet, dass Schlangenverehrung in der Levante in dieser Periode praktiziert wurde. Die bronzene Schlange (*Nehuschtan*) im Tempel soll bis in die Zeit Hiskias verehrt worden sein (2. Könige 18:4), als er sie zerstörte. Eine Erzählung, die die Schlange herabsetzt — sie zum *verfluchten* aller Tiere macht, das Staub fressen muss — trägt in einem kulturellen Umfeld, in dem Schlangen manchmal Verehrungsobjekte waren, eine polemische Wucht, die modernen Lesern entgeht.
 
-**I-B2. Weisheitsliteratur und die Grenzen der Weisheit**
+#### I-B2. Weisheitsliteratur und die Grenzen der Weisheit
+**[HISTORISCH / ARCHÄOLOGISCH — WAHRSCHEINLICH]**
 Die Monarchieperiode ist traditionell mit Israels Weisheitstradition verbunden (Sprüche, Teile der Psalmen, frühe Predigertraditionen). Weisheitsliteratur sowohl in Israel als auch in Ägypten rahmt Weisheit als göttliches Geschenk, zugänglich durch die Furcht vor JHWH, nicht durch Aneignung oder Selbstbehauptung. Die Genesis-3-Erzählung — in der Menschen Weisheit im Trotz gegen ein göttliches Verbot ergreifen und sie als transformierend, aber desorientierend erleben — befasst sich mit der zentralen Frage der Weisheitstradition: Was ist das richtige Verhältnis zwischen menschlichem Wissensdrang und göttlicher Autorität? Sprüche 3:7 („sei nicht weise in deinen eigenen Augen") könnte ein ferner Widerhall dieser Spannung sein.
 
-**I-B3. Vertreibung und Enterbung im antiken Recht**
+#### I-B3. Vertreibung und Enterbung im antiken Recht
+**[HISTORISCH / ARCHÄOLOGISCH — DOKUMENTIERT]**
 Altorientalische Gesetzessammlungen und israelitisches Recht erkannten Vertreibung als Rechtssanktion an. Eine Person, die aus einer Stadt oder einem Anwesen ausgewiesen wurde, verlor Zugang zu Land, Gemeinschaft und den Schutzstrukturen der Gesellschaft. In der Monarchieperiode war Landbesitz eng mit Familienidentität verbunden — vom Land vertrieben zu werden bedeutete, das Erbe zu verlieren. Die Vertreibung aus Eden in 3:23-24 trägt diese rechtliche Resonanz: Der Mensch verliert das Anwesen, das er eingesetzt wurde zu bearbeiten. Die Kerubim und das flammende Schwert sind nicht dekorativ; sie vollstrecken eine Eigentumsgrenze.
 
 *Für den vollständigen historischen Kontext dieses Zeitraums mit allen 10 Kategorien siehe Genesis 1 Begleitmaterial Abschnitt I, Szenario B.*
 
 ---
 
-### Szenario C: Falls während der exilischen/nachexilischen Periode verfasst (~6.–5. Jh. v. Chr.)
-**[HISTORISCH / ARCHÄOLOGISCH — WAHRSCHEINLICH]** *(Wissenschaftlicher Konsens für die Endgestalt)*
+### Szenario C: Falls während der exilischen/nachexilischen Periode verfasst (~6.–5. Jh. v. Chr.) — *Wissenschaftlicher Konsens für die Endgestalt*
+**[HISTORISCH / ARCHÄOLOGISCH — WAHRSCHEINLICH]**
 
-**I-C1. Exil als Vertreibung — die strukturelle Parallele**
+#### I-C1. Exil als Vertreibung — die strukturelle Parallele
+**[HISTORISCH / ARCHÄOLOGISCH — WAHRSCHEINLICH]**
 Für die nach Babylon deportierte Gemeinschaft (597 und 586 v. Chr.) war die Sprache von Genesis 3:23-24 keine ferne Erzählung — es war jüngste Geschichte in mythologischer Form. Sie waren aus ihrem Land „hinausgeschickt" worden, ihr Tempel zerstört, ihr Zugang zu JHWHs Gegenwart unterbrochen. Deportation in der antiken Welt bedeutete mehr als geographische Versetzung: wirtschaftlichen Ruin (Land aufgegeben), soziale Auflösung (Gemeinschaft zerstreut) und theologische Krise (Gott anscheinend besiegt). Die Eden-Vertreibung bildet all diese Dimensionen gleichzeitig ab. Ob die exilischen Schreiber die Geschichte bewusst gestalteten oder eine bereits bestehende strukturelle Resonanz erkannten, die Parallele wäre unübersehbar und tröstlich gewesen: Wenn Adam und Eva die Vertreibung überlebten, würde vielleicht auch Israel überleben.
 
-**I-C2. Babylonische Schlangensymbolik und der *mushhushshu***
+#### I-C2. Babylonische Schlangensymbolik und der *mushhushshu*
+**[HISTORISCH / ARCHÄOLOGISCH — VERIFIZIERT]**
 In Babylon war der *mushhushshu* (ein zusammengesetzter Schlangendrache) das heilige Tier Marduks, das prominent am Ischtar-Tor abgebildet war (erbaut unter Nebukadnezar II., ca. 575 v. Chr. — für Exilanten sichtbar). Die Assoziation der Schlange mit dem Hauptgott ihrer Unterdrücker hätte der verfluchten Schlange in Genesis 3 zusätzliche polemische Schlagkraft gegeben: Das mit babylonischer göttlicher Macht assoziierte Wesen wird auf seinen Bauch gelegt und muss in der israelitischen Erzählung Staub fressen. Die degradierte Schlange von Genesis 3 ist nicht Marduks Geschöpf; sie ist ein verfluchtes Tier, das dem Samen der Frau unterworfen ist.
 
-**I-C3. Das „Erkennen von Gut und Böse" und die babylonische Weisheitstradition**
+#### I-C3. Das „Erkennen von Gut und Böse" und die babylonische Weisheitstradition
+**[HISTORISCH / ARCHÄOLOGISCH — DOKUMENTIERT]**
 Die babylonische Schreiberausbildung verwendete den Begriff *nemequ* („Weisheit") als göttliches Attribut — die Götter besaßen vollständiges Wissen; Menschen erlangten partielle Weisheit durch die *Apkallu* (halbgöttliche Weise), die vor der Flut Künste und Zivilisation gelehrt hatten. Die Vorstellung, dass Menschen unrechtmäßig gottgleiches Wissen ergreifen, resoniert in einem babylonischen Kontext, in dem solches Wissen als eingeschränktes göttliches Vorrecht galt. Der Adapa-Mythos — eine akkadische Geschichte über einen Weisen, dem Unsterblichkeit angeboten wird, der sie aber durch Missverständnis ablehnt und damit menschliche Sterblichkeit bestätigt — erkundet ähnliches Terrain: göttliches Wissen, menschliche Grenzen und die Schwelle dazwischen.
 
-**I-C4. Sterblichkeit und der Körper im perserzeitlichen Denken**
+#### I-C4. Sterblichkeit und der Körper im perserzeitlichen Denken
+**[HISTORISCH / ARCHÄOLOGISCH — DOKUMENTIERT]**
 Der persische Zoroastrismus (in der exilischen und nachexilischen Periode zunehmend einflussreich) hatte einen scharfen kosmischen Dualismus: Ahura Mazda (Gut, Licht, Leben) gegen Angra Mainyu (Böse, Dunkelheit, Tod). Die Genesis-3-Erzählung — mit ihrem einzigen Gott, der sowohl den Garten pflanzt als auch den Fluch ausspricht — widersteht diesem Dualismus. Der Tod tritt nicht durch einen rivalisierenden bösen Gott ein, sondern durch ein Geschöpf, das JHWH gemacht hat, und ein Verbot, das JHWH gesetzt hat. Das Fehlen eines kosmischen Gegners, der Angra Mainyu entspricht, ist ein strukturelles Merkmal des Textes. Ob dies eine implizite Antwort auf zoroastrischen Einfluss ist oder einfach die monotheistischen Überzeugungen des Textes widerspiegelt, wird debattiert.
 
 *Für den vollständigen historischen Kontext dieses Zeitraums mit allen 10 Kategorien siehe Genesis 1 Begleitmaterial Abschnitt I, Szenario C.*
 
 ---
 
-### Szenario D: Falls während der persischen/frühen hellenistischen Periode redigiert (~4.–3. Jh. v. Chr.)
-**[HISTORISCH / ARCHÄOLOGISCH — MÖGLICH]** *(Verbunden mit der abschließenden Pentateuchgestaltung)*
+### Szenario D: Falls während der persischen/frühen hellenistischen Periode redigiert (~4.–3. Jh. v. Chr.) — *Verbunden mit der abschließenden Pentateuchgestaltung*
+**[HISTORISCH / ARCHÄOLOGISCH — MÖGLICH]**
 
-**I-D1. Griechisches philosophisches Interesse am Ursprung des Bösen und des Todes**
+#### I-D1. Griechisches philosophisches Interesse am Ursprung des Bösen und des Todes
+**[HISTORISCH / ARCHÄOLOGISCH — DOKUMENTIERT]**
 Im 4. Jahrhundert v. Chr. rang die griechische Philosophie seit Generationen mit dem Ursprung von Bösem, Leiden und Tod. Platons *Timaios* (ca. 360 v. Chr.) schreibt das Böse der Materie und dem unvollkommenen *Demiurgen* zu; der Pandora-Mythos (Hesiod, viel früher, aber weithin bekannt) schreibt menschliches Leiden einer Frau zu, die ein verbotenes Behältnis öffnet. Die Genesis-3-Erzählung — ein Garten, ein Verbot, eine Frau, ein verbotener Baum, eine folgenreiche Übertretung — überschneidet sich strukturell mit diesen griechischen Behandlungen, unterscheidet sich aber grundlegend: Der Gott in Genesis 3 ist kein minderwertiger Handwerker, die Frau ist nicht von Natur aus die Quelle des Bösen, und die Konsequenzen sind nicht kosmisches Chaos, sondern eine Beziehungsstörung und Sterblichkeit für die betroffenen Personen.
 
-**I-D2. Kleidung und soziale Schichtung in der hellenistischen Gesellschaft**
+#### I-D2. Kleidung und soziale Schichtung in der hellenistischen Gesellschaft
+**[HISTORISCH / ARCHÄOLOGISCH — DOKUMENTIERT]**
 Die hellenistische Welt war durch Kleidung scharf stratifiziert. Das griechische Stadtleben wies Bürgern bestimmte Kleidungsstücke zu — frei gegenüber unfrei, Männer gegenüber Frauen. JHWHs Bereitstellung von Lederkleider anstelle der Feigenblätter (3:21) — ein Gott kleidet Menschen — war in einer Welt, in der Kleidung Status markierte, eine Geste der Versorgung und Würde. In der persischen Hofpraxis war das Geschenk des Königs in Form eines Gewandes ein formaler Akt der Gunst und Erhöhung. Die göttliche Bereitstellung von Kleidern, unmittelbar nach dem Fluch, kompliziert eine rein strafende Lesart: Selbst in der Vertreibung kleidet JHWH die Menschen, die er hinausschickt.
 
-**I-D3. Die Kerubim und der Baum des Lebens als Symbole der Torära**
+#### I-D3. Die Kerubim und der Baum des Lebens als Symbole der Torära
+**[HISTORISCH / ARCHÄOLOGISCH — WAHRSCHEINLICH]**
 In der persischen und hellenistischen Periode waren die Kerubim (*Keruvim*) mit der Bundeslade assoziiert (Exodus 25:18-22) und dem Jerusalemer Tempel. Die Aufstellung von Kerubim, um den Zugang zu Eden zu bewachen (3:24), hätte in einer Gemeinschaft resoniert, die Kerubim als Wächter der göttlichen Gegenwart kannte. Der Baum des Lebens, von den Kerubim und dem flammenden Schwert blockiert, hätte zu typologischer Lektüre eingeladen: Der Tempel selbst, bewacht von Kerubim-Figuren, enthielt einen Zugang zu JHWH, der bedingt und vermittelt war. Die Eden-Erzählung, in dieser Periode gelesen, bildete die Architektur des Heiligen ab — und die Frage, ob das nachexilische Israel den Zugang zu dem wiederhergestellt hatte, was verloren gegangen war.
 
 *Für den vollständigen historischen Kontext dieses Zeitraums mit allen 10 Kategorien siehe Genesis 1 Begleitmaterial Abschnitt I, Szenario D.*
