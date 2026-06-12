@@ -9,12 +9,12 @@ The Transparent Translation (TT) — a multilingual Bible translation project wi
 - **Scope:** Genesis 1–12, John 1–3, Matthew 1–3 — all four locales (EN, PT-BR, DE, ES); each book has chapters + INTRODUCTION + PEOPLE + study companions (CONTEXT, and PROPHECY where warranted).
 - **Rulesets:** RULES-CORE **v3.3** · RULES-HB **v3.3.1** · RULES-GS **v3.2** (lock). 29 rules total.
 - **Tests:** 841 passing (`pnpm test`); `pnpm build`, `pnpm lint`, `pnpm content:lint` all clean.
-- **UX/Structure program (Phases 1–5, committed 2026-06):** SEO baseline (Phase 1); derived `StructuredUnit` layer + stable IDs guarded by the conservation gate (`__tests__/conservation.test.ts` — proves zero loss in the *parser→structured derivation*; chapter-completeness + inventory guards backstop raw-markdown coverage; markdown stays source of truth) (Phase 2); **3-door IA — Read · Notes · Deeper** (`ChapterShell`/`DoorNav`/`NotesView`/`DeeperView`; `/context`→`/background`; verse `#v{n}` anchors) (Phase 3); content-QA + chapter-completeness guard (Phase 4); UX finish — teal/petrol accent `#006475`, civilizational landing, `/start` reading-plan, book "tight cards" (`<!-- CARD -->`→`BookCard`), and **chapter-overview de-jargon across all locales (Pattern C complete 2026-06-10)** (Phase 5). §I "World at the Time" two-level scenario→sub-dimension parser/UI + inline-`**Source:**` lift also landed. Per-item detail → `docs/audit/EXECUTION_HISTORY.md`.
-- **Next up:** Phase 6 (search) — UX/Structure Phases 1–5 complete (**Pattern C overview de-jargon fully DONE 2026-06-10** across all locales — clean terms + bespoke residual + E-class + D-class; ships provisional pending Rule-28 review); then Genesis 13–50 (Phase 12, gated by the deferred Genesis §I "Option C" decision — see PENDING); cross-book canonical PEOPLE source-merge. (Overview de-jargon **100% complete 2026-06-10** — the final *Iēsous*→"the Greek name" + *anothen*→J-010-lexeme follow-ups landed; §I `#### IA-x` decision **resolved 2026-06-08** = Option A; README staleness **fixed 2026-06-08**.)
+- **UX/Structure program (Phases 1–5, committed 2026-06):** SEO baseline (Phase 1); derived `StructuredUnit` layer + stable IDs guarded by the conservation gate (`__tests__/conservation.test.ts` — proves zero loss in the *parser→structured derivation*; chapter-completeness + inventory guards backstop raw-markdown coverage; markdown stays source of truth) (Phase 2); **3-door IA — Read · Notes · Deeper** (`ChapterShell`/`DoorNav`/`NotesView`/`DeeperView`; `/context`→`/background`; verse `#v{n}` anchors) (Phase 3); content-QA + chapter-completeness guard (Phase 4); UX finish — teal/petrol accent `#006475`, civilizational landing, `/start` reading-plan, book "tight cards" (`<!-- CARD -->`→`BookCard`), and **chapter-overview de-jargon across all locales (Pattern C complete 2026-06-10)** (Phase 5). §I "World at the Time": two-level parser/UI + inline-`**Source:**` lift, then **§I Option C — per-category dating-scenario labels across all of Genesis 1–12 (2026-06-12, provisional)** + §I section-intro recovery. Per-item detail → `docs/audit/EXECUTION_HISTORY.md`.
+- **Next up:** **Genesis 13–50 (Phase 12)** — the largest remaining work; its §I now follows the established Option C structure (collapsible dating scenarios with per-category `**[claim — confidence]**` labels). Then Phase 6 (search) and the cross-book canonical PEOPLE source-merge. All 2026-06 content ships `provisional` pending **Rule-28 sign-off** (the §I per-category confidence labels are the specific source-scholar review item). See `docs/audit/PENDING.md`.
 
 Pointers (do not duplicate their content here):
 - Execution history (completed phases/bundles + ruleset trail) → `docs/audit/EXECUTION_HISTORY.md`
-- Open items → `docs/audit/PENDING.md` (single forward-looking tracker) · closed audit records (feedback re-audit, deferred tasks) → `docs/feedback/archive/`
+- Open items → `docs/audit/PENDING.md` (single forward-looking tracker)
 - Per-decision rationale → `docs/editorial-log/` (genesis.md, john.md, matthew.md, transliteration-decisions.md)
 - Source-language analysis method + worked-example corpus → `docs/source-analysis/` (internal)
 
@@ -28,14 +28,13 @@ bible-tt/
 │   └── study/                                          # CHAPTER-N-CONTEXT; CHAPTER-N-PROPHECY (where warranted)
 │   └── CONTEXT.md                                      # book-level cross-chapter motifs
 ├── docs/
-│   ├── rules/                # RULES-CORE.md + RULES-HB.md + RULES-GS.md + CHANGELOG-v3.x + proposals/
+│   ├── rules/                # RULES-CORE.md + RULES-HB.md + RULES-GS.md + CHANGELOG-v3.x
 │   ├── source-analysis/      # METHOD.md (source-analysis method) + hebrew/greek/aramaic worked-example corpus (internal)
 │   ├── architecture/         # STANDARDS.md (DDD, code standards, TypeScript, testing)
 │   ├── design/               # TT-DESIGN-SYSTEM.md (UI/UX, typography, color, accessibility)
-│   ├── audit/                # PENDING.md, FIX_IMPLEMENTATION.md, EXECUTION_HISTORY.md, plans, archive/
+│   ├── audit/                # PENDING.md + EXECUTION_HISTORY.md (+ DAAT idiom draft, pending)
 │   ├── editorial-log/        # Decision logs (genesis, john, matthew, transliteration-decisions)
-│   ├── feedback/             # possible-content.md + archive/ (closed feedback re-audit + deferred-tasks records)
-│   ├── implementation/       # PLAN.md, SCHEMA-FUTURE.sql
+│   ├── implementation/       # SCHEMA-FUTURE.sql (deferred user-features schema)
 │   ├── guides/               # HOW-TO-READ-TT.md
 │   └── templates/            # Companion + book-introduction templates
 ├── src/                      # Next.js web application
@@ -69,7 +68,7 @@ Old URLs (`/{locale}/{book}/{n}`) redirect to `/chapter/{n}`; `/{book}/context` 
 - `pnpm build` — production build
 - `pnpm test` — all unit tests (9 files: chapter, enrichment, people, prophecy, introduction, book-context parsers + render-markdown-safe + book-context-real + conservation [Phase 2 structured-layer gate])
 - `pnpm lint` — Biome linter
-- `pnpm content:lint` — hardened content lint (Phase 0 rules; see `docs/audit/FIX_IMPLEMENTATION.md`); allow-list at `scripts/lint-allowlist.txt`
+- `pnpm content:lint` — hardened content lint (Phase 0 rules, defined in `scripts/content-lint.sh`); allow-list at `scripts/lint-allowlist.txt`
 - `pnpm content:lint:warn` — same lint, non-blocking (exit 0)
 
 ## Architecture

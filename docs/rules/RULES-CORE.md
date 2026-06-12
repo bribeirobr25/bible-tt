@@ -887,7 +887,7 @@ A book may belong to multiple genres (e.g., Daniel is both narrative and apocaly
 
 ## PUNCTUATION GOVERNANCE
 
-*Added v3.3 (2026-05-08). See `docs/rules/proposals/v3.3-24-punctuation-governance.md` for proposal artifact.*
+*Added v3.3 (2026-05-08).*
 
 Punctuation choices are interpretive. The TT sets the following conventions to prevent typography from resolving ambiguity the source text preserves.
 
@@ -926,7 +926,7 @@ A new editorial-log entry is required when:
 
 ## IDIOM POLICY
 
-*Added v3.3 (2026-05-08). See `docs/rules/proposals/v3.3-25-idiom-policy.md` for proposal artifact.*
+*Added v3.3 (2026-05-08).*
 
 Target-language idioms interact with Rule 5 (literal-form preservation) on a controlled gradient. This policy specifies when literal preservation yields and when it holds.
 
@@ -972,7 +972,7 @@ Idiom decisions favor cross-locale alignment per Rule 16. If EN idiomatizes a co
 
 ## GLOSSARY EXPANSION PROCEDURE
 
-*Added v3.3 (2026-05-08). See `docs/rules/proposals/v3.3-29-glossary-expansion-procedure.md` for proposal artifact.*
+*Added v3.3 (2026-05-08).*
 
 The locked glossary is the project's cross-language consistency anchor. Adding a new term requires explicit procedure to prevent drift.
 
@@ -1007,7 +1007,7 @@ A glossary addition is approved when:
 - Each locale editor reviews and confirms the locale-specific form.
 - The project lead signs off on cross-supplement alignment if both HB and GS apply.
 
-In Hybrid mode (per `docs/audit/FIX_IMPLEMENTATION.md` Phase 5.5): the proposal is written, reviewers are CC'd via the editorial log, and the change lands without a calendar window. Reviewers may flag for revision post-landing; revisions are tracked as new editorial-log entries.
+In Hybrid mode: the proposal is written, reviewers are CC'd via the editorial log, and the change lands without a calendar window. Reviewers may flag for revision post-landing; revisions are tracked as new editorial-log entries.
 
 ### §G4. Locking
 
@@ -1030,7 +1030,7 @@ Removing or revising a locked entry follows the full Amendment & Lock Protocol (
 
 ## EDITORIAL LOG SPECIFICATION
 
-*Formalized v3.3 (2026-05-08). See `docs/rules/proposals/v3.3-30-editorial-log-schema.md` for proposal artifact. The schema below tightens the normative spec but is backward-compatible with all ~120 existing log entries.*
+*Formalized v3.3 (2026-05-08). The schema below tightens the normative spec but is backward-compatible with all ~120 existing log entries.*
 
 The editorial log is the operational backbone of the ruleset.
 
@@ -1427,12 +1427,12 @@ See source-language supplement for additional post-translation checks.
 ## VERSION HISTORY
 
 **v3.3** (2026-05-08) - GOVERNANCE EXPANSION
-- Added §PUNCTUATION GOVERNANCE (em-dash convention, speech boundaries, Spanish minimal-pair accents, German capitalization). See `docs/rules/proposals/v3.3-24-punctuation-governance.md`.
-- Added §IDIOM POLICY (when literal-form preservation yields to idiom; never overrides Prime Directive). See `docs/rules/proposals/v3.3-25-idiom-policy.md`.
-- Added §GLOSSARY EXPANSION PROCEDURE (proposal format, approval, locking, deviation tracking). See `docs/rules/proposals/v3.3-29-glossary-expansion-procedure.md`.
-- Formalized §EDITORIAL LOG SPECIFICATION (entry-schema field types, required vs. optional fields, status workflow, citation convention). Backward-compatible with all ~120 existing log entries. See `docs/rules/proposals/v3.3-30-editorial-log-schema.md`.
-- Added second §WORKED QUADRILINGUAL EXAMPLE (John 1:1c — *theos ēn ho logos* — exercises GS §Greek Article System, Rule 13 confidence labelling, Rule 21, Rule 20 DE exemption, plus the new §Punctuation §P2 and §Idiom §I3 policies). See `docs/rules/proposals/v3.3-31-worked-quadrilingual-example.md`.
-- Lock Protocol invocation: **Hybrid (Emergency-with-proposals)** per `docs/audit/FIX_IMPLEMENTATION.md` Phase 5.5. Proposal artifacts retained in `docs/rules/proposals/`; 14-day window skipped because no signed-off verses are affected. All additions are additive — no existing rule modified.
+- Added §PUNCTUATION GOVERNANCE (em-dash convention, speech boundaries, Spanish minimal-pair accents, German capitalization).
+- Added §IDIOM POLICY (when literal-form preservation yields to idiom; never overrides Prime Directive).
+- Added §GLOSSARY EXPANSION PROCEDURE (proposal format, approval, locking, deviation tracking).
+- Formalized §EDITORIAL LOG SPECIFICATION (entry-schema field types, required vs. optional fields, status workflow, citation convention). Backward-compatible with all ~120 existing log entries.
+- Added second §WORKED QUADRILINGUAL EXAMPLE (John 1:1c — *theos ēn ho logos* — exercises GS §Greek Article System, Rule 13 confidence labelling, Rule 21, Rule 20 DE exemption, plus the new §Punctuation §P2 and §Idiom §I3 policies).
+- Lock Protocol invocation: **Hybrid (Emergency-with-proposals path)**; 14-day window skipped because no signed-off verses are affected. All additions are additive — no existing rule modified.
 
 **v3.0** (2026-04-25) - LAYERED ARCHITECTURE
 - Restructured RULES.md into three files: RULES-CORE.md (universal), RULES-HB.md (Hebrew Bible), RULES-GS.md (Greek Scriptures stub)

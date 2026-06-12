@@ -1,12 +1,13 @@
 # Execution History — Bible TT Project
 
-Canonical chronological record of completed phases and bundles. This is the home for the
-"what was done and when" narrative that used to live in `CLAUDE.md`. Per-decision rationale
-lives in `docs/editorial-log/`; open items live in `docs/audit/PENDING.md`; the feedback
-re-audit status lives in `docs/feedback/FEEDBACK.md`; archived plan + audit artifacts live in
-`docs/audit/archive/` (see its `README.md`).
+Canonical chronological record of completed phases and bundles — the self-contained "what was
+done and when" narrative. Per-decision rationale lives in `docs/editorial-log/`; open items live
+in `docs/audit/PENDING.md`.
 
-**Latest editorial-log anchors:** `genesis.md` Entry `2026-06-03-110` · `john.md` J-027 · `matthew.md` M-026.
+> The **Plan artifact** column references per-phase plan docs removed in the 2026-06-12
+> documentation lean-up (completed plans). The **What it did** column is the authoritative record.
+
+**Latest editorial-log anchors:** `genesis.md` Entry `2026-06-12-119` · `john.md` J-033 · `matthew.md` M-032.
 
 ---
 
@@ -14,6 +15,7 @@ re-audit status lives in `docs/feedback/FEEDBACK.md`; archived plan + audit arti
 
 | Closed | Phase / bundle | What it did | Plan artifact |
 |--------|----------------|-------------|---------------|
+| 2026-06-12 | **§I Option C — per-category dating-scenario labels (Genesis 1–12, all locales)** | Restructured every Genesis §I "World at the Time" dating scenario's `**I-X·n.**` bold categories into `#### ` sub-entries, **each with its own `**[claim — confidence]**` label** (reversing the 2026-06-08 Option-A decision). Scenario = collapsible group with a dating badge (attribution folded into the heading); per-category claim-type uniform HISTORICAL/ARCHAEOLOGICAL, confidence calibrated from the prose (VERIFIED for named excavated artifacts, DOCUMENTED for attested institutions/texts, PROBABLE for interpretive links). Pre-existing per-category labels preserved (not duplicated); their line-terminal inline `**Source:**` citations lift to the footer. **Code (general, John/Matthew §I unaffected):** `EnrichmentEntry.hasLabel` flag + shared `<ClaimBadge>` + collapsible badged group in `context-view.tsx`. **Folded-in fix:** §I section-intro recovery — pre-entry prose (the dating-neutrality disclaimer / cross-ref pointer), previously dropped, now captured as `EnrichmentSection.intro` (new `enrichment-section-intro` kind) and rendered for sections with entries (orphaned 0-entry Sources blocks excluded). Verified: visible §I text byte-identical before/after (zero content loss); capstone sweep over 48 files = 192 labelled groups + 752 sub-entries, 0 invalid confidence / 0 leftover tags / 0 parser warnings; per-chapter headless-browser visual check across locales. Conservation: `enrichment-subentry` 224→976, `enrichment-section-intro`=72. 841 tests · build (284 pages) · lint · content-lint. Ships provisional (per-category confidence = Rule 28 gate). | editorial-log `genesis 2026-06-12-119` |
 | 2026-05-08 | **Phase 5.5** | Landed Ruleset **v3.3** (§Punctuation Governance, §Idiom Policy, §Glossary Expansion Procedure, formalized §Editorial Log Specification, John 1:1c worked example). Hybrid Lock-Protocol path; proposal artifacts retained in `docs/rules/proposals/`. | `FIX_IMPLEMENTATION.md` Phase 5.5 |
 | 2026-05-09 | **Phases 0–6** | Tooling (Phase 0 content-lint §0.x rules), People-surface foundation, mechanical content fixes (version stamps, em-dash, ψυχή typo), ES NT remediation, PT-BR/DE consistency, introduction split. Phase 6A re-verified the 9 NOT VERIFIED audit items (PT-BR Almeida Option B, *charis* slash, title-cap Option 2). Phase 6B piloted the Rule 29 §734 Tier 2 Relocation Protocol on Genesis 9. | `FIX_IMPLEMENTATION.md` Phases 0–6 |
 | 2026-05-09 | **Phase 6.6** (sub-phases A–I) | Post-Phase-6 UX + content polish: en-dash sweep; people-parser familiar-name auto-extract; introduction disclaimer in collapsed `<details>`; person-card field reorder + birth/death rows; HTML-native single-expand accordion; chapter breadcrumb; Matthew 5 NT figures × 4 locales; women-timeline audit; dead-code audit (0 actionable removals). | `archive/NEW_PLAN.md` |
@@ -48,13 +50,12 @@ re-audit status lives in `docs/feedback/FEEDBACK.md`; archived plan + audit arti
 - **v3.3.1** (2026-05-18) — emergency amendment: DE name-rendering clarification (RULES-HB.md).
 - **v3.3.2** (2026-05-18) — emergency amendment: cross-book PEOPLE formalization (RULES-CORE.md Rule 29).
 
-See `docs/rules/CHANGELOG-v3.1.md` / `-v3.2.md` / `-v3.3.md` for full change detail and the proposal artifacts in `docs/rules/proposals/`.
+See `docs/rules/CHANGELOG-v3.1.md` / `-v3.2.md` / `-v3.3.md` for full change detail.
 
 ## Still open
 
 - **Phase 12** — Genesis 13–50 content cycle (not yet authored; parser auto-discovers new files).
 - **Cross-book canonical PEOPLE source-merge** — the deep "fetch full bio from canonical home" implementation (the v3.3.2 see-only-stub pattern is in production; the merge UI is deferred). See `PENDING.md` C3.
-- **README.md staleness** — targeted ~30-min fix deferred per Phase 13 Q4=C.
 - **Deferred content seeds** — Akedah→Crucifixion typology (Gen 22 §F), Moses *karan*/horns (Exod 34), Mary-as-Ark (Luke 1 §F). See `PENDING.md`.
 
-For the full open-item tracker and the 38-item feedback re-audit, see `docs/audit/PENDING.md` and `docs/feedback/FEEDBACK.md`.
+For the full open-item tracker, see `docs/audit/PENDING.md`.

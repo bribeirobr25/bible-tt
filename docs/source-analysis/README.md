@@ -22,4 +22,4 @@ This directory holds the project's **source-language analysis**: the reusable me
 
 ## Provenance
 
-The Hebrew corpus was distilled from word-by-word source-language video analysis by an external native-Hebrew-speaker contributor (Elan), retained here as internal working notes. This single line is the only internal record of the contributor's identity; the material has been re-branded as the project-owned **TT Source-Analysis Method** and fully de-personalized everywhere else. (Per `docs/audit/SOURCE_ANALYSIS_METHODOLOGY_PLAN.md`, decision Q2=A.)
+The Hebrew corpus was distilled from word-by-word source-language video analysis by an external native-Hebrew-speaker contributor (Elan), retained here as internal working notes. This single line is the only internal record of the contributor's identity; the material has been re-branded as the project-owned **TT Source-Analysis Method** and fully de-personalized everywhere else.

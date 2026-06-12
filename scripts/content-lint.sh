@@ -9,7 +9,7 @@
 #   scripts/lint-allowlist.txt — lines RULE_ID|FILE|EXACT_MATCH
 #   Used to suppress legitimate cases that match a rule's pattern.
 #
-# See docs/audit/FIX_IMPLEMENTATION.md Phase 0 for rule definitions.
+# Phase 0 content-lint rules are defined inline in this script.
 
 WARN_ONLY=false
 for arg in "$@"; do
@@ -139,7 +139,7 @@ echo "=== Content Lint ==="
 echo ""
 
 # ============================================================
-# Phase 0 rules — see docs/audit/FIX_IMPLEMENTATION.md §Phase 0
+# Phase 0 content-lint rules (defined inline below)
 # ============================================================
 
 # §0.1 — Stale ruleset version stamps (rules at v3.3 since 2026-05-08)
@@ -254,7 +254,7 @@ check_cross_book_pointers
 # external contributor's name and the original video/channel persona prose never
 # appear there. The internal corpus (docs/source-analysis/) is intentionally NOT
 # scanned — it may legitimately retain provenance or "Elan Ramon" (the astronaut,
-# a different person). Warn-only. See docs/audit/SOURCE_ANALYSIS_METHODOLOGY_PLAN.md.
+# a different person). Warn-only. See docs/source-analysis/README.md.
 check_source_persona_leak() {
   local rule_id="0.13"
   local matches name_hits persona_hits
