@@ -5,26 +5,30 @@ import { renderMarkdownSafe } from "@/ui/shared/render-markdown-safe";
 
 const NOTE_STYLES: Record<
   NoteType,
-  { border: string; bg: string; Icon: LucideIcon }
+  { border: string; bg: string; text: string; Icon: LucideIcon }
 > = {
   CRITICAL: {
     border: "border-l-note-critical",
     bg: "bg-note-critical-bg",
+    text: "text-note-critical",
     Icon: AlertCircle,
   },
   LEXICAL: {
     border: "border-l-note-lexical",
     bg: "bg-note-lexical-bg",
+    text: "text-note-lexical",
     Icon: BookOpen,
   },
   GRAMMATICAL: {
     border: "border-l-note-grammatical",
     bg: "bg-note-grammatical-bg",
+    text: "text-note-grammatical",
     Icon: Code2,
   },
   THEOLOGICAL: {
     border: "border-l-note-theological",
     bg: "bg-note-theological-bg",
+    text: "text-note-theological",
     Icon: Lightbulb,
   },
 };
@@ -37,9 +41,9 @@ export function NoteBlock({ note }: { note: Note }) {
     <div
       className={`border-l-3 ${style.border} ${style.bg} rounded-r-md px-4 py-3`}
     >
-      <div className="flex items-center gap-2 mb-1.5">
-        <Icon className="w-3.5 h-3.5 opacity-70" strokeWidth={1.5} />
-        <span className="text-xs font-semibold uppercase tracking-wider text-text-secondary">
+      <div className={`flex items-center gap-2 mb-1.5 ${style.text}`}>
+        <Icon className="w-3.5 h-3.5" strokeWidth={1.5} />
+        <span className="font-[family-name:var(--font-mono)] text-[12px] font-semibold uppercase tracking-wider">
           {note.title}
         </span>
       </div>

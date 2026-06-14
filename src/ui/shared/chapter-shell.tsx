@@ -51,10 +51,13 @@ export async function ChapterShell({
             <ChevronLeft size={14} strokeWidth={1.5} />
             {bookName}
           </Link>
-          <div className="flex items-center gap-3">
-            <h1 className="font-[family-name:var(--font-reading)] text-2xl md:text-3xl font-light">
+          <div className="flex items-center gap-3 flex-wrap">
+            <h1 className="tt-h2">
               {bookName} {chapterNum}
             </h1>
+            <span className="inline-flex items-center rounded-full border border-border px-2.5 py-0.5 font-[family-name:var(--font-mono)] text-[11px] uppercase tracking-[0.04em] text-text-muted">
+              {data.metadata.status}
+            </span>
             <ShareButton
               title={`${bookName} ${chapterNum}`}
               text={`${bookName} ${chapterNum} — The Transparent Translation`}
@@ -67,6 +70,8 @@ export async function ChapterShell({
             active={active}
             hasDeeper={hasDeeper}
           />
+
+          <hr className="tt-seam" />
 
           <details className="text-xs text-text-muted">
             <summary className="cursor-pointer hover:text-text-secondary transition-colors duration-150 focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2 rounded">

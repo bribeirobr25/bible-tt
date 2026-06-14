@@ -33,6 +33,13 @@ Each phase ends green (test · build · lint · content:lint) + per-locale visua
   legal line, localized from existing keys). Layout offset 48→64px + footer mounted; added `.tt-mark`.
   Invariants held (only nav + layout + globals). Gate green (841 · 284 · lint); verified desktop +
   mobile (390) + DE in-browser — header fits, wordmark collapses, labels localized, no console errors.
+- **P2 — Reading pages (2026-06-14, done).** Read/Notes/Deeper restyle: `chapter-shell.tsx` (serif
+  `tt-h2` title + mono status pill + `tt-seam` motif under the door-nav), `note-block.tsx` (note
+  title + icon now colored by note-type). Read/continuous-reading, verse-card (`#v{n}` anchors +
+  copy-link), glossary/supplementary, and Deeper (enrichment-entry dual-label chips, claim-badge,
+  context-view §I scenarios) already inherit the P0 palette — verified, no further change needed.
+  Invariants held (only chapter-shell + note-block). Gate green (841 · 284 · lint); Read/Notes/Deeper
+  verified in-browser (seam, status pill, colored notes, verse anchors, dual-label chips; no errors).
 
 ## Completed phases & bundles (chronological by closure)
 
