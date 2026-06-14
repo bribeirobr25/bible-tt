@@ -2,6 +2,7 @@
 
 import { usePathname } from "next/navigation";
 import { useLocale, useTranslations } from "next-intl";
+import { useEffect, useState } from "react";
 import { AVAILABLE_BOOKS } from "@/domain/books/registry";
 import { type Locale, locales } from "@/lib/i18n";
 
@@ -15,9 +16,26 @@ export function AppBar() {
 
   const breadcrumb = getBreadcrumb(segments, locale, t);
 
+  // Landing has a full-bleed dark WebGL hero: the header floats transparent over
+  // it (light text), then turns solid cream once scrolled past the hero.
+  const isLanding = segments.length === 0;
+  const [scrolledPastHero, setScrolledPastHero] = useState(false);
+  useEffect(() => {
+    if (!isLanding) return;
+    const onScroll = () => {
+      setScrolledPastHero(window.scrollY > window.innerHeight * 0.8);
+    };
+    onScroll();
+    window.addEventListener("scroll", onScroll, { passive: true });
+    return () => window.removeEventListener("scroll", onScroll);
+  }, [isLanding]);
+  const over = isLanding && !scrolledPastHero;
+
   return (
     <nav
-      className="fixed top-0 left-0 right-0 z-40 h-16 bg-bg-paper border-b border-border"
+      className={`fixed top-0 left-0 right-0 z-40 h-16 transition-colors duration-300 ${
+        over ? "tt-overhero" : "bg-bg-paper border-b border-border"
+      }`}
       aria-label="Main navigation"
     >
       <div className="max-w-5xl mx-auto h-full px-4 md:px-6 flex items-center justify-between gap-3">
@@ -29,7 +47,11 @@ export function AppBar() {
             aria-label={t("nav.home")}
           >
             <span className="tt-mark" aria-hidden="true" />
-            <span className="hidden md:inline font-[family-name:var(--font-mono)] text-[12.5px] font-semibold uppercase tracking-[0.06em] text-text-primary">
+            <span
+              className={`hidden md:inline font-[family-name:var(--font-mono)] text-[12.5px] font-semibold uppercase tracking-[0.06em] ${
+                over ? "text-on-dark" : "text-text-primary"
+              }`}
+            >
               {t("site.title")}
             </span>
           </a>
@@ -68,7 +90,9 @@ export function AppBar() {
         {/* Right: segmented language switcher */}
         {/* biome-ignore lint/a11y/useSemanticElements: a labelled group of locale links, not a form fieldset */}
         <div
-          className="inline-flex shrink-0 rounded-full border border-border overflow-hidden font-[family-name:var(--font-mono)] text-[11px] tracking-[0.03em]"
+          className={`inline-flex shrink-0 rounded-full border overflow-hidden font-[family-name:var(--font-mono)] text-[11px] tracking-[0.03em] ${
+            over ? "border-on-dark-soft/50" : "border-border"
+          }`}
           role="group"
           aria-label="Language"
         >
@@ -81,8 +105,12 @@ export function AppBar() {
                 aria-current={isActive ? "true" : undefined}
                 className={`min-h-8 inline-flex items-center justify-center px-2.5 py-1.5 transition-colors duration-150 focus-visible:outline-2 focus-visible:outline-accent focus-visible:-outline-offset-2 ${
                   isActive
-                    ? "bg-accent text-bg-paper"
-                    : "text-text-muted hover:text-accent"
+                    ? over
+                      ? "underline underline-offset-4 decoration-2"
+                      : "bg-accent text-bg-paper"
+                    : over
+                      ? ""
+                      : "text-text-muted hover:text-accent"
                 }`}
               >
                 {loc === "pt-br" ? "PT" : loc.toUpperCase()}

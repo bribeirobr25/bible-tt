@@ -42,7 +42,7 @@ export default async function RulesPage({
   const t = await getTranslations();
 
   return (
-    <main className="min-h-screen px-6 py-16 md:py-24">
+    <main>
       <JsonLd
         data={breadcrumbJsonLd([
           { name: t("site.title"), url: canonicalUrl(locale, "") },
@@ -52,53 +52,64 @@ export default async function RulesPage({
           },
         ])}
       />
-      <div className="max-w-2xl mx-auto">
-        {/* Header */}
-        <header className="mb-16 text-center">
-          <h1 className="tt-h1">{t("landing.rulesPageTitle")}</h1>
-          <p className="mt-4 text-text-secondary text-lg">
-            {t("landing.rulesPageSubtitle")}
-          </p>
-          <p className="mt-6 text-text-primary text-base leading-relaxed max-w-lg mx-auto">
+
+      {/* Header */}
+      <section className="tt-section">
+        <div className="max-w-[1320px] mx-auto px-6">
+          <p className="tt-kick reveal">{t("landing.rulesPageSubtitle")}</p>
+          <h1 className="tt-display reveal mt-3 max-w-[14ch]" data-d="1">
+            {t("landing.rulesPageTitle")}
+          </h1>
+          <p className="tt-lead reveal mt-6 max-w-[48ch]" data-d="2">
             {t("landing.rulesIntro")}
           </p>
-        </header>
+        </div>
+      </section>
 
-        {/* Prime Directive */}
-        <section className="mb-16 p-6 md:p-8 border border-border rounded-lg bg-bg-surface">
-          <h2 className="font-[family-name:var(--font-reading)] text-xl md:text-2xl font-light mb-2">
-            {t("landing.rulesPrime")}
-          </h2>
-          <p className="text-sm text-text-muted mb-6">
+      {/* Prime Directive */}
+      <section className="tt-section bg-cream2">
+        <div className="max-w-[880px] mx-auto px-6">
+          <p className="tt-kick reveal">{t("landing.rulesPrime")}</p>
+          <h2 className="tt-h1 reveal max-w-[18ch] mb-4" data-d="1">
             {t("landing.rulesPrimeDesc")}
-          </p>
-          <ol className="space-y-4">
+          </h2>
+          <ol className="space-y-5 mt-8">
             {([1, 2, 3, 4] as const).map((n) => (
-              <li key={n} className="flex gap-3 items-start">
-                <span className="text-accent font-bold text-sm mt-0.5">
-                  {n}.
+              <li key={n} className="flex gap-4 items-start reveal">
+                <span className="font-[family-name:var(--font-mono)] text-ochre text-sm mt-1.5">
+                  0{n}
                 </span>
-                <p className="font-[family-name:var(--font-reading)] text-base leading-relaxed text-text-primary">
+                <p className="font-[family-name:var(--font-reading)] text-lg leading-relaxed text-text-primary">
                   {t(`landing.rulesPrime${n}`)}
                 </p>
               </li>
             ))}
           </ol>
-        </section>
+        </div>
+      </section>
 
-        {/* Rules in action */}
-        <section className="mb-16">
-          <h2 className="font-[family-name:var(--font-reading)] text-xl md:text-2xl font-light mb-10 text-center">
-            {t("landing.rulesExamplesTitle")}
-          </h2>
-          <div className="space-y-8">
+      {/* Rules in action */}
+      <section className="tt-section">
+        <div className="max-w-[1320px] mx-auto px-6">
+          <div className="tt-grid-head">
+            <div className="tt-bignum reveal">/</div>
+            <div>
+              <p className="tt-kick reveal">
+                {t("landing.rulesExamplesTitle")}
+              </p>
+              <h2 className="tt-h1 reveal" data-d="1">
+                {t("landing.rulesExamplesTitle")}
+              </h2>
+            </div>
+          </div>
+          <div className="space-y-8 mt-12 max-w-[820px]">
             {RULES_WITH_EXAMPLES.map(({ ruleKey, ruleNum }) => (
               <div
                 key={ruleKey}
-                className="border-l-3 border-accent pl-5 space-y-2"
+                className="border-l-3 border-accent pl-5 space-y-2 reveal"
               >
                 <div className="flex items-baseline gap-2">
-                  <span className="text-xs font-bold text-text-muted uppercase tracking-wider">
+                  <span className="font-[family-name:var(--font-mono)] text-xs font-bold text-text-muted uppercase tracking-wider">
                     {t("landing.rulePrefix", { n: ruleNum })}
                   </span>
                   <h3 className="text-sm font-semibold text-text-primary">
@@ -114,45 +125,55 @@ export default async function RulesPage({
               </div>
             ))}
           </div>
-        </section>
+        </div>
+      </section>
 
-        {/* Full 29 rules list */}
-        <section className="mb-16">
-          <h2 className="font-[family-name:var(--font-reading)] text-xl md:text-2xl font-light mb-6 text-center">
-            {t("landing.rulesAllTitle")}
-          </h2>
-          <div className="grid gap-3">
+      {/* Full 29 rules — dark */}
+      <section className="tt-section bg-dark">
+        <div className="max-w-[1320px] mx-auto px-6">
+          <div className="tt-grid-head">
+            <div
+              className="tt-bignum reveal"
+              style={{ color: "var(--color-petrol)" }}
+            >
+              29
+            </div>
+            <div>
+              <p className="tt-kick reveal text-on-dark-mute">
+                {t("landing.rulesAllTitle")}
+              </p>
+              <h2 className="tt-h1 reveal text-on-dark" data-d="1">
+                {t("landing.rulesAllTitle")}
+              </h2>
+            </div>
+          </div>
+          <div className="grid sm:grid-cols-2 gap-x-10 mt-12">
             {ALL_RULE_NUMS.map((num) => (
               <div
                 key={num}
-                className="flex items-start gap-3 py-2 border-b border-border-muted last:border-0"
+                className="flex items-start gap-3 py-3 border-b border-on-dark-soft/15"
               >
-                <span className="text-xs font-bold text-text-muted min-w-[2rem] text-right mt-0.5">
+                <span className="font-[family-name:var(--font-mono)] text-xs text-ochre min-w-[2rem] text-right mt-0.5">
                   {num}
                 </span>
                 <div>
-                  <p className="text-sm font-medium text-text-primary">
+                  <p className="text-sm font-medium text-on-dark">
                     {t(`landing.rule${num}name`)}
                   </p>
-                  <p className="text-xs text-text-secondary mt-0.5">
+                  <p className="text-xs text-on-dark-soft mt-0.5">
                     {t(`landing.rule${num}short`)}
                   </p>
                 </div>
               </div>
             ))}
           </div>
-        </section>
-
-        {/* CTA */}
-        <section className="text-center py-10 border-t border-border-muted">
-          <Link
-            href="/books"
-            className="inline-block px-10 py-4 rounded-md bg-accent text-bg-paper font-medium hover:bg-accent-hover transition-colors duration-200"
-          >
-            {t("landing.cta")}
-          </Link>
-        </section>
-      </div>
+          <div className="mt-14 reveal">
+            <Link href="/books" className="tt-btn tt-btn-pri">
+              {t("landing.cta")} <span className="arr">→</span>
+            </Link>
+          </div>
+        </div>
+      </section>
     </main>
   );
 }

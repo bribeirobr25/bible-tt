@@ -65,6 +65,21 @@ Each phase ends green (test · build · lint · content:lint) + per-locale visua
   **OG image renders 200/png in the new palette** (4 hex mirrors re-derived); **40 pages (4 locales ×
   10 surfaces) console-clean**; SEO intact (284 static pages incl. sitemap, no route/redirect/JSON-LD
   changes). Full gate green (841 · 284 · lint · content:lint).
+- **P4-refine — Marketing pages to full prototype parity (2026-06-15).** User flagged the marketing
+  pages didn't match the prototype. Finding: the copy was already localized in `messages` (4 locales)
+  — the gap was layout/motion/effects. Rebuilt **landing** (Gen 1:4 verse hero + `mix-blend-difference`
+  over-hero header, intro-statement band, bignum grid-heads, bordered verse-compare + diff cards, dark
+  door cards, serif WHO list, cream-2/dark section rhythm), **rules** (cream Prime Directive → "rules in
+  action" → dark "All 29" with grid-heads), **start** (cream "why" → dark 7-step roadmap with
+  soon/now badges) — all reusing existing localized keys + 5 new landing keys (heroVerse,
+  differenceKicker, howKicker, threeReaders, scopeHeadline) added to all 4 locales. Ported the
+  prototype marketing CSS to `globals.css` (OKLCH). **Critical bug found & fixed: `.reveal.in`
+  (0,2,0) was out-specified by `html.tt-js .reveal` (0,2,1), so revealed content stayed `opacity:0`
+  site-wide** → corrected to `html.tt-js .reveal.in`; also replaced the IntersectionObserver with a
+  rAF scroll check + at-bottom catch so fast scrolls/anchor jumps never leave content hidden (verified
+  0 stuck reveals, all 4 locales, scrolled to true bottom). Bible content/parsers/loader/routes/
+  reading-study components untouched. Gate green (841 · 284 · lint · content:lint); landing/rules/start
+  verified in-browser EN+PT+DE+ES.
 - **Content-accuracy verification (2026-06-15).** Two-layer proof that the migration changed no
   scripture/study content in any locale: (1) **structural** — `git diff main..redesign-migration` for
   `content/**`, all 5 parsers, `src/domain`, `content-loader`, and i18n is **empty** (data path

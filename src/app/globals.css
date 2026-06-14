@@ -294,7 +294,8 @@ html.tt-js .reveal {
   opacity: 0;
   transform: translateY(26px);
 }
-.reveal.in {
+/* must out-specify `html.tt-js .reveal` above, or .in never wins */
+html.tt-js .reveal.in {
   opacity: 1;
   transform: none;
 }
@@ -311,3 +312,100 @@ html.tt-js .reveal {
     transform: none;
   }
 }
+
+/* ============================================================
+   Light & Darkness marketing components — landing / rules / start
+   (ported from the prototype; OKLCH tokens). P4-refine.
+   ============================================================ */
+.tt-section { padding: clamp(72px, 11vh, 150px) 0; }
+.bg-cream2 { background: var(--color-bg-surface); }
+
+.tt-lead {
+  font-family: var(--font-reading);
+  font-size: clamp(1.1rem, 1.9vw, 1.45rem);
+  line-height: 1.6;
+  color: var(--color-text-secondary);
+}
+.bg-dark .tt-lead { color: var(--color-on-dark-soft); }
+.em-accent { color: var(--color-accent); font-style: italic; }
+.bg-dark .em-accent { color: var(--color-ochre); }
+
+/* buttons */
+.tt-btn {
+  display: inline-flex; align-items: center; gap: 10px; min-height: 52px;
+  padding: 0 28px; border-radius: 2px; font-family: var(--font-mono);
+  font-size: 13px; font-weight: 500; text-transform: uppercase; letter-spacing: 0.05em;
+  border: 1.5px solid transparent; white-space: nowrap;
+  transition: background 0.2s, color 0.2s, border-color 0.2s, transform 0.2s var(--ease-out);
+}
+.tt-btn:active { transform: scale(0.97); }
+.tt-btn .arr { transition: transform 0.25s var(--ease-out); }
+.tt-btn:hover .arr { transform: translateX(4px); }
+.tt-btn-pri { background: var(--color-ochre); color: var(--color-dark); }
+.tt-btn-pri:hover { background: var(--color-ochre-soft); }
+.tt-btn-deep { background: var(--color-accent); color: var(--color-bg-paper); }
+.tt-btn-deep:hover { background: var(--color-accent-hover); }
+.tt-btn-ghost { border-color: var(--color-border); color: var(--color-text-primary); }
+.tt-btn-ghost:hover { border-color: var(--color-accent); color: var(--color-accent); }
+.tt-btn-ghost-light { border-color: color-mix(in oklch, var(--color-on-dark) 55%, transparent); color: var(--color-on-dark); }
+.tt-btn-ghost-light:hover { border-color: var(--color-on-dark); }
+
+/* three doors */
+.tt-doors { display: grid; border-top: 1px solid color-mix(in oklch, var(--color-on-dark) 18%, transparent); }
+.tt-door { padding: 38px 0; border-bottom: 1px solid color-mix(in oklch, var(--color-on-dark) 18%, transparent); transition: background 0.25s; }
+.tt-door:hover { background: color-mix(in oklch, var(--color-on-dark) 5%, transparent); }
+.tt-door .idx { font-family: var(--font-mono); font-size: 44px; font-weight: 600; color: var(--color-petrol); line-height: 1; }
+.tt-door .dt { font-family: var(--font-reading); font-size: clamp(1.6rem, 2.4vw, 2.1rem); margin: 16px 0 12px; color: var(--color-on-dark); }
+.tt-door p { font-size: 14.5px; line-height: 1.7; color: var(--color-on-dark-soft); }
+@media (min-width: 760px) {
+  .tt-doors { grid-template-columns: 1fr 1fr 1fr; }
+  .tt-door { padding: 38px 28px; border-bottom: 0; border-right: 1px solid color-mix(in oklch, var(--color-on-dark) 18%, transparent); }
+  .tt-door:last-child { border-right: 0; }
+}
+
+/* verse compare */
+.tt-vcompare { display: grid; grid-template-columns: 1fr; border-top: 2px solid var(--color-text-primary); border-bottom: 2px solid var(--color-text-primary); margin-top: 46px; }
+.tt-vcompare > div { padding: clamp(28px, 3vw, 46px) 0; }
+@media (min-width: 900px) {
+  .tt-vcompare { grid-template-columns: 1fr 1fr; }
+  .tt-vcompare > div:first-child { padding-right: 46px; }
+  .tt-vcompare > div:last-child { padding-left: 46px; border-left: 2px solid var(--color-text-primary); }
+}
+@media (max-width: 899px) { .tt-vcompare > div:last-child { border-top: 2px solid var(--color-text-primary); } }
+
+/* diff grid */
+.tt-diffs { display: grid; border-bottom: 1px solid var(--color-border); }
+@media (min-width: 760px) { .tt-diffs { grid-template-columns: 1fr 1fr; } }
+.tt-diff { padding: 26px 0; border-top: 1px solid var(--color-border); }
+@media (min-width: 760px) {
+  .tt-diff:nth-child(odd) { padding-right: 40px; }
+  .tt-diff:nth-child(even) { padding-left: 40px; border-left: 1px solid var(--color-border); }
+}
+
+/* who list */
+.tt-who p { font-family: var(--font-reading); font-size: clamp(1.5rem, 4.2vw, 2.9rem); line-height: 1.2; padding: 28px 0; border-bottom: 1px solid var(--color-border); display: flex; gap: 18px; align-items: baseline; }
+.tt-who p:first-child { border-top: 1px solid var(--color-border); }
+.tt-who .t { font-size: 13px; color: var(--color-ochre); flex: none; font-family: var(--font-mono); }
+
+/* roadmap (start) */
+.tt-step { display: flex; gap: 20px; padding: 24px 0; border-top: 1px solid color-mix(in oklch, var(--color-on-dark) 18%, transparent); }
+.tt-step .sn { font-family: var(--font-mono); font-size: 13px; color: var(--color-ochre); flex: none; padding-top: 4px; }
+.tt-step .st { font-family: var(--font-reading); font-size: clamp(1.3rem, 2vw, 1.7rem); color: var(--color-on-dark); }
+.tt-step p { color: var(--color-on-dark-soft); font-size: 14.5px; line-height: 1.6; margin-top: 4px; }
+.tt-badge { display: inline-block; margin-top: 10px; font-family: var(--font-mono); font-size: 11px; text-transform: uppercase; letter-spacing: 0.04em; padding: 4px 10px; border-radius: 999px; }
+.tt-badge-soon { color: var(--color-on-dark-mute); border: 1px solid color-mix(in oklch, var(--color-on-dark) 25%, transparent); }
+.tt-badge-now { color: var(--color-dark); background: var(--color-ochre); }
+
+/* over-hero transparent header (landing). mix-blend-difference makes white content
+   self-contrasting across the light/dark hero seam (logged exception; prototype parity). */
+.tt-overhero {
+  background: transparent !important;
+  border-color: transparent !important;
+  mix-blend-mode: difference;
+}
+.tt-overhero a,
+.tt-overhero span,
+.tt-overhero button { color: #fff !important; }
+.tt-overhero .tt-mark { background: #fff !important; }
+.tt-overhero .tt-mark::after { background: #fff !important; }
+.tt-overhero [role="group"] { border-color: rgba(255, 255, 255, 0.5) !important; }
