@@ -65,6 +65,16 @@ Each phase ends green (test · build · lint · content:lint) + per-locale visua
   **OG image renders 200/png in the new palette** (4 hex mirrors re-derived); **40 pages (4 locales ×
   10 surfaces) console-clean**; SEO intact (284 static pages incl. sitemap, no route/redirect/JSON-LD
   changes). Full gate green (841 · 284 · lint · content:lint).
+- **Content-accuracy verification (2026-06-15).** Two-layer proof that the migration changed no
+  scripture/study content in any locale: (1) **structural** — `git diff main..redesign-migration` for
+  `content/**`, all 5 parsers, `src/domain`, `content-loader`, and i18n is **empty** (data path
+  byte-identical to live; every verse/notes/deeper renderer unchanged — only `note-block`/`intro`
+  *colors* differ). (2) **empirical** — `tools/content_render_audit.py` fetched every Read + Notes
+  page from a prod build and checked against the raw source: **1,984 verse-mappings across 18 chapters
+  × 4 locales PASS** — each verse renders in its own `#v{n}` card, in the correct locale, verse counts
+  match source, full Continuous Reading present; **no loss, no mixing, no mis-reference.** Visually
+  spot-checked Genesis 1 Notes in EN/DE/ES (right verse, right place, right language, italics
+  preserved).
 
 ## Completed phases & bundles (chronological by closure)
 
