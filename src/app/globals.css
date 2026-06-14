@@ -64,9 +64,9 @@
   --font-ui: "Geist", sans-serif;
   --font-mono: "Geist Mono", monospace;
 
-  /* Fluid type scale (Light & Darkness) */
-  --text-display: clamp(2.6rem, 6vw, 5.5rem);
-  --text-h1: clamp(2rem, 4vw, 3.4rem);
+  /* Fluid type scale (Light & Darkness) — matches prototype tt.css h-display/.h1/.h2/.h3 */
+  --text-display: clamp(2.6rem, 8vw, 7rem);
+  --text-h1: clamp(2rem, 4.6vw, 3.4rem);
   --text-h2: clamp(1.5rem, 2.6vw, 2.3rem);
   --text-h3: clamp(1.15rem, 1.6vw, 1.45rem);
 
@@ -201,8 +201,8 @@ sup.verse-num {
   line-height: 1.05;
   color: var(--color-text-primary);
 }
-.tt-display { font-size: var(--text-display); }
-.tt-h1 { font-size: var(--text-h1); }
+.tt-display { font-size: var(--text-display); line-height: 0.98; }
+.tt-h1 { font-size: var(--text-h1); line-height: 1.06; }
 .tt-h2 { font-size: var(--text-h2); line-height: 1.1; }
 .tt-h3 { font-size: var(--text-h3); line-height: 1.2; }
 

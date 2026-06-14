@@ -1,5 +1,6 @@
 "use client";
 
+import { Menu, X } from "lucide-react";
 import { usePathname } from "next/navigation";
 import { useLocale, useTranslations } from "next-intl";
 import { useEffect, useState } from "react";
@@ -20,6 +21,7 @@ export function AppBar() {
   // it (light text), then turns solid cream once scrolled past the hero.
   const isLanding = segments.length === 0;
   const [scrolledPastHero, setScrolledPastHero] = useState(false);
+  const [menuOpen, setMenuOpen] = useState(false);
   useEffect(() => {
     if (!isLanding) return;
     const onScroll = () => {
@@ -29,7 +31,19 @@ export function AppBar() {
     window.addEventListener("scroll", onScroll, { passive: true });
     return () => window.removeEventListener("scroll", onScroll);
   }, [isLanding]);
-  const over = isLanding && !scrolledPastHero;
+  // close the mobile menu on navigation
+  // biome-ignore lint/correctness/useExhaustiveDependencies: close menu on route change
+  useEffect(() => setMenuOpen(false), [pathname]);
+  const over = isLanding && !scrolledPastHero && !menuOpen;
+
+  // Marketing pages (no breadcrumb) show the prototype's top-nav links.
+  const showNav = !breadcrumb;
+  const navLinks = [
+    { href: `/${locale}/books`, label: t("nav.books") },
+    { href: `/${locale}/start`, label: t("start.title") },
+    { href: `/${locale}/rules`, label: t("landing.ctaRules") },
+  ];
+  const ctaHref = `/${locale}/genesis/chapter/1`;
 
   return (
     <nav
@@ -87,38 +101,107 @@ export function AppBar() {
           )}
         </div>
 
-        {/* Right: segmented language switcher */}
-        {/* biome-ignore lint/a11y/useSemanticElements: a labelled group of locale links, not a form fieldset */}
-        <div
-          className={`inline-flex shrink-0 rounded-full border overflow-hidden font-[family-name:var(--font-mono)] text-[11px] tracking-[0.03em] ${
-            over ? "border-on-dark-soft/50" : "border-border"
-          }`}
-          role="group"
-          aria-label="Language"
-        >
-          {locales.map((loc) => {
-            const isActive = loc === locale;
-            return (
+        {/* Right cluster: nav links (marketing) + language switcher + mobile menu */}
+        <div className="flex items-center gap-2 md:gap-4">
+          {showNav && (
+            <div className="hidden md:flex items-center gap-1 font-[family-name:var(--font-mono)] text-[12px] tracking-[0.03em]">
+              {navLinks.map((l) => (
+                <a
+                  key={l.href}
+                  href={l.href}
+                  className={`px-2.5 py-1.5 rounded-full transition-colors duration-150 ${
+                    over ? "" : "text-text-secondary hover:text-accent"
+                  }`}
+                >
+                  {l.label}
+                </a>
+              ))}
               <a
-                key={loc}
-                href={`/${loc}${pathWithoutLocale}`}
-                aria-current={isActive ? "true" : undefined}
-                className={`min-h-8 inline-flex items-center justify-center px-2.5 py-1.5 transition-colors duration-150 focus-visible:outline-2 focus-visible:outline-accent focus-visible:-outline-offset-2 ${
-                  isActive
-                    ? over
-                      ? "underline underline-offset-4 decoration-2"
-                      : "bg-accent text-bg-paper"
-                    : over
-                      ? ""
-                      : "text-text-muted hover:text-accent"
+                href={ctaHref}
+                className={`px-3.5 py-1.5 rounded-full border transition-colors duration-150 ${
+                  over
+                    ? "border-on-dark-soft/60"
+                    : "border-accent text-accent hover:bg-accent hover:text-bg-paper"
                 }`}
               >
-                {loc === "pt-br" ? "PT" : loc.toUpperCase()}
+                {t("landing.cta")} →
               </a>
-            );
-          })}
+            </div>
+          )}
+
+          {/* biome-ignore lint/a11y/useSemanticElements: a labelled group of locale links, not a form fieldset */}
+          <div
+            className={`inline-flex shrink-0 rounded-full border overflow-hidden font-[family-name:var(--font-mono)] text-[11px] tracking-[0.03em] ${
+              over ? "border-on-dark-soft/50" : "border-border"
+            }`}
+            role="group"
+            aria-label="Language"
+          >
+            {locales.map((loc) => {
+              const isActive = loc === locale;
+              return (
+                <a
+                  key={loc}
+                  href={`/${loc}${pathWithoutLocale}`}
+                  aria-current={isActive ? "true" : undefined}
+                  className={`min-h-8 inline-flex items-center justify-center px-2.5 py-1.5 transition-colors duration-150 focus-visible:outline-2 focus-visible:outline-accent focus-visible:-outline-offset-2 ${
+                    isActive
+                      ? over
+                        ? "underline underline-offset-4 decoration-2"
+                        : "bg-accent text-bg-paper"
+                      : over
+                        ? ""
+                        : "text-text-muted hover:text-accent"
+                  }`}
+                >
+                  {loc === "pt-br" ? "PT" : loc.toUpperCase()}
+                </a>
+              );
+            })}
+          </div>
+
+          {showNav && (
+            <button
+              type="button"
+              className={`md:hidden inline-flex items-center justify-center w-10 h-10 rounded-md border ${
+                over
+                  ? "border-on-dark-soft/50"
+                  : "border-border text-text-primary"
+              }`}
+              aria-label="Menu"
+              aria-expanded={menuOpen}
+              onClick={() => setMenuOpen((o) => !o)}
+            >
+              {menuOpen ? (
+                <X size={18} strokeWidth={1.5} />
+              ) : (
+                <Menu size={18} strokeWidth={1.5} />
+              )}
+            </button>
+          )}
         </div>
       </div>
+
+      {/* mobile menu panel */}
+      {showNav && menuOpen && (
+        <div className="md:hidden bg-bg-paper border-b border-border px-4 py-3 flex flex-col">
+          {navLinks.map((l) => (
+            <a
+              key={l.href}
+              href={l.href}
+              className="py-3 font-[family-name:var(--font-mono)] text-[13px] uppercase tracking-[0.04em] text-text-secondary hover:text-accent"
+            >
+              {l.label}
+            </a>
+          ))}
+          <a
+            href={ctaHref}
+            className="mt-2 inline-flex w-fit px-4 py-2.5 rounded-full bg-accent text-bg-paper font-[family-name:var(--font-mono)] text-[12px] uppercase tracking-[0.04em]"
+          >
+            {t("landing.cta")} →
+          </a>
+        </div>
+      )}
     </nav>
   );
 }

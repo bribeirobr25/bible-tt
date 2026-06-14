@@ -80,6 +80,20 @@ Each phase ends green (test · build · lint · content:lint) + per-locale visua
   0 stuck reveals, all 4 locales, scrolled to true bottom). Bible content/parsers/loader/routes/
   reading-study components untouched. Gate green (841 · 284 · lint · content:lint); landing/rules/start
   verified in-browser EN+PT+DE+ES.
+- **Landing fidelity pass (2026-06-15).** User compared the local landing to the prototype and found
+  remaining gaps in nav, font, and copy. Verified + fixed: (1) **Font scale** — `tt-display` was
+  clamp(2.6,6vw,5.5rem) vs prototype's clamp(2.6,8vw,7rem); the hero rendered 77px instead of 102px.
+  Aligned `--text-display`→8vw/7rem and `--text-h1`→4.6vw to the prototype's `h-display`/`.h2` (same
+  families/weight all along — Newsreader 300 / Geist). (2) **Nav bar** — the top nav was missing the
+  prototype's links; added **Books · Start here · How we translate · Start reading →** to `app-bar.tsx`
+  (shown on marketing pages where there's no breadcrumb; breadcrumb retained on content pages) + a
+  Lucide mobile hamburger menu (over-hero header goes solid when open). (3) **Copy** — confirmed the
+  copy is already localized in `messages` (non-EN local == prototype non-EN); cleaned the door-card
+  descriptions' redundant lead-in ("Reading — Get the…" → "The full story…") across all 4 locales and
+  removed the duplicated headline prefix from EN `landing.scope`. Residual deltas are intentional
+  (app keeps American spelling vs prototype British; functional door titles Read/Notes/Deeper vs the
+  prototype's marketing Reading/Study). Gate green (841 · 284 · lint · content:lint); EN landing
+  re-diffed against the prototype — only typographic deltas remain. Bible content untouched.
 - **Content-accuracy verification (2026-06-15).** Two-layer proof that the migration changed no
   scripture/study content in any locale: (1) **structural** — `git diff main..redesign-migration` for
   `content/**`, all 5 parsers, `src/domain`, `content-loader`, and i18n is **empty** (data path
