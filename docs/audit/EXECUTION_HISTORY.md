@@ -58,6 +58,13 @@ Each phase ends green (test · build · lint · content:lint) + per-locale visua
   marketing component + three dep only; no content/parser/i18n-wiring/route changes). Gate green
   (841 · 284 · lint); hero verified in-browser EN + PT (localized headline + shader render, no
   console errors).
+- **P5 — Hardening (2026-06-14, done).** Logged the sanctioned design-rule exceptions in
+  `TT-DESIGN-SYSTEM.md` §12 (shader glow/seam, dark surface, 800ms reveals, mix-blend headline,
+  og.tsx hex). Verified: palette AA (P0 computed ratios) + on-dark text ≥5:1 + mix-blend headline
+  contrast-preserving by construction; **three.js isolated to a single lazy chunk** (landing only);
+  **OG image renders 200/png in the new palette** (4 hex mirrors re-derived); **40 pages (4 locales ×
+  10 surfaces) console-clean**; SEO intact (284 static pages incl. sitemap, no route/redirect/JSON-LD
+  changes). Full gate green (841 · 284 · lint · content:lint).
 
 ## Completed phases & bundles (chronological by closure)
 

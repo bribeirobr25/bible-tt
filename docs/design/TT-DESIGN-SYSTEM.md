@@ -318,6 +318,24 @@ role="tablist" + bg-bg-muted rounded-lg p-1
 - Non-keyboard-reachable elements
 - Apologetics or debunking framing in the UI
 
+### Sanctioned exceptions — "Light & Darkness" migration (2026-06-14, lead sign-off)
+Adopted deliberately from the approved prototype (`docs/audit/REDESIGN_MIGRATION_PLAN.md` §6); each
+overrides a NEVER rule above and is allowed **only** in the stated scope:
+- **WebGL shader glow + `.tt-seam` gradient bar** (overrides "no gradient/glow"). Scope: landing hero
+  (`separation-hero.tsx`, the Gen 1:4 separation field) + the slim seam under chapter/section heads.
+  Mitigation: `prefers-reduced-motion` → single static frame; no-WebGL → CSS dark fallback; gated.
+- **Near-black dark duotone surface `--color-dark` #062227 + on-dark text** (overrides "no pure
+  black/white"). Not pure black; on-dark text verified ≥5:1 (cream 12.7 / soft 8.1 / mute 5.0).
+- **800ms scroll reveals** (overrides "≤400ms"). Scope: marketing `.reveal` fade-ins only; fully
+  disabled under `prefers-reduced-motion`.
+- **`mix-blend-difference` hero headline** (white). Contrast-preserving by construction (white XOR
+  any background yields a contrasting result); legible across the light/dark seam. Reading surfaces
+  are unaffected — they stay calm/editorial (the §1 "not a marketing page" identity holds there).
+- **`og.tsx` hardcoded hex** (overrides "OKLCH only") — satori has no OKLCH; the 4 mirrors
+  (paper/ink/secondary/accent) are kept in lockstep with the tokens.
+Still fully enforced everywhere else: OKLCH tokens, 14px-prose/12px-mono floor, Lucide 1.5px,
+44×44 targets, focus rings, reduced-motion.
+
 ### VERIFY PRESENT
 - [x] Warm off-white background
 - [x] Soft warm borders
