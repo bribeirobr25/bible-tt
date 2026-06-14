@@ -5,6 +5,7 @@ import { setRequestLocale } from "next-intl/server";
 import type { ReactNode } from "react";
 import { type Locale, loadMessages, locales } from "@/lib/i18n";
 import { AppBar } from "@/ui/navigation/app-bar";
+import { RevealObserver } from "@/ui/shared/reveal-observer";
 import "@/app/globals.css";
 
 const newsreader = Newsreader({
@@ -54,6 +55,7 @@ export default async function LocaleLayout({
       <body className="bg-bg-paper text-text-primary font-[family-name:var(--font-ui)] min-h-screen">
         <NextIntlClientProvider locale={locale} messages={messages}>
           <AppBar />
+          <RevealObserver />
           <div className="pt-12">{children}</div>
         </NextIntlClientProvider>
       </body>

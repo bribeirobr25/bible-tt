@@ -11,6 +11,22 @@ in `docs/audit/PENDING.md`.
 
 ---
 
+## Redesign migration ("Light & Darkness") — branch `redesign-migration`
+
+Adopting the approved prototype's UI/UX into the production app, presentation-only, per
+`docs/audit/REDESIGN_MIGRATION_PLAN.md` (+ incorporated audit `AUDIT_REDESIGN_MIGRATION_PLAN.md`).
+Each phase ends green (test · build · lint · content:lint) + per-locale visual check.
+
+- **P0 — Foundations (2026-06-14, done).** Retuned `globals.css` semantic tokens to the duotone palette
+  (cream surfaces + ink text) as OKLCH; added petrol/ochre/dark/on-dark tokens, fluid type scale,
+  swiss-grid + `.tt-kick`/`.tt-grid-head`, `.bg-dark`/`.tt-seam`, and the JS-gated `.reveal` system
+  (`src/ui/shared/reveal-observer.tsx`, mounted in `[locale]/layout.tsx`, reduced-motion safe).
+  **Accent retuned to #006475 — supersedes P5-Q1**, AA re-verified 5.2:1 on cream; hue 214 distinct
+  from note hues. Re-derived all 4 `og.tsx` hex mirrors. Invariants held: zero changes to
+  `content/**`, parsers, domain, content-loader, i18n wiring, routes, `next.config.ts`. Gate green
+  (841 tests · 284 pages · lint · content:lint); landing + chapter verified in-browser (new palette,
+  no console errors). New utilities are inert until applied in later phases.
+
 ## Completed phases & bundles (chronological by closure)
 
 | Closed | Phase / bundle | What it did | Plan artifact |

@@ -1,37 +1,74 @@
 @import "tailwindcss";
 
 @theme inline {
-  /* Base palette (OKLCH) */
-  --color-bg-paper: oklch(0.97 0.01 85);
-  --color-bg-surface: oklch(0.99 0.005 85);
-  --color-bg-muted: oklch(0.94 0.01 85);
-  --color-text-primary: oklch(0.23 0.02 50);
-  --color-text-secondary: oklch(0.43 0.02 50);
-  --color-text-muted: oklch(0.58 0.01 50);
-  /* Phase 5 (P5-Q1): confident deep teal/petrol accent — chrome only
-     (active door, links, wordmark, CTAs). AA-safe on warm paper; distinct
-     from all four claim-type note hues (red 25 / green 145 / blue 250 / amber 80). */
-  --color-accent: oklch(0.46 0.1 213);
-  --color-accent-hover: oklch(0.4 0.1 213);
-  --color-border: oklch(0.85 0.01 85);
-  --color-border-muted: oklch(0.9 0.005 85);
+  /* ============================================================
+     Light & Darkness palette (OKLCH) — P0 redesign migration.
+     Semantic token names preserved; values retuned to the
+     prototype duotone (cream surfaces + deep-petrol ink).
+     ============================================================ */
 
-  /* Note type colors */
-  --color-note-critical: oklch(0.55 0.22 25);
-  --color-note-lexical: oklch(0.50 0.15 145);
-  --color-note-grammatical: oklch(0.50 0.12 250);
-  --color-note-theological: oklch(0.60 0.18 80);
+  /* Surfaces — cream */
+  --color-bg-paper: oklch(0.909 0.037 86);    /* #ece0c6 cream */
+  --color-bg-surface: oklch(0.942 0.029 87);  /* #f4ebd6 cream-2 */
+  --color-bg-muted: oklch(0.879 0.040 86);    /* #e3d6ba cream-3 */
+
+  /* Text — ink */
+  --color-text-primary: oklch(0.207 0.019 208);   /* #0d1a1c ink (13.6:1 on cream) */
+  --color-text-secondary: oklch(0.397 0.018 197); /* #3c4a4a ink-soft (7.1:1) */
+  --color-text-muted: oklch(0.572 0.015 179);     /* #6f7b78 ink-mute (3.4:1 — large/UI only) */
+
+  /* Accent — deep petrol. SUPERSEDES P5-Q1 (was oklch 0.46 0.1 213); AA-reverified
+     5.2:1 on cream. Hue 214 distinct from note hues 35/80/150/236. */
+  --color-accent: oklch(0.463 0.082 214);       /* #006475 accent-deep */
+  --color-accent-hover: oklch(0.393 0.069 215); /* #004f5d */
+  --color-petrol: oklch(0.565 0.098 214);       /* #0a8499 brighter petrol (large/UI only) */
+
+  /* Ochre */
+  --color-ochre: oklch(0.682 0.122 69);         /* #c98a3a */
+  --color-ochre-soft: oklch(0.753 0.111 74);    /* #d9a45a */
+
+  /* Dark duotone surfaces + on-dark text (for dark sections / hero) */
+  --color-dark: oklch(0.234 0.034 211);         /* #062227 */
+  --color-dark-2: oklch(0.279 0.041 211);       /* #0a2e34 */
+  --color-dark-3: oklch(0.323 0.048 212);       /* #0e3a42 */
+  --color-on-dark: oklch(0.909 0.037 86);       /* cream on dark (12.7:1) */
+  --color-on-dark-soft: oklch(0.772 0.019 175); /* #a9b9b4 (8.1:1) */
+  --color-on-dark-mute: oklch(0.640 0.023 178); /* #7e918c (5.0:1) */
+
+  /* Borders */
+  --color-border: oklch(0.83 0.012 200);
+  --color-border-muted: oklch(0.88 0.010 90);
+
+  /* Note type colors (retuned to prototype hues) */
+  --color-note-critical: oklch(0.522 0.134 35);     /* #a8472f */
+  --color-note-lexical: oklch(0.535 0.098 150);     /* #3f7d4e */
+  --color-note-grammatical: oklch(0.502 0.069 236); /* #3a6a86 */
+  --color-note-theological: oklch(0.643 0.110 80);  /* #b08534 */
 
   /* Note type backgrounds (very light tints) */
-  --color-note-critical-bg: oklch(0.96 0.03 25);
-  --color-note-lexical-bg: oklch(0.96 0.02 145);
-  --color-note-grammatical-bg: oklch(0.96 0.02 250);
+  --color-note-critical-bg: oklch(0.96 0.03 35);
+  --color-note-lexical-bg: oklch(0.96 0.02 150);
+  --color-note-grammatical-bg: oklch(0.96 0.02 236);
   --color-note-theological-bg: oklch(0.96 0.03 80);
+
+  /* Confidence dot colors (dual-label) */
+  --color-conf-verified: oklch(0.58 0.10 160);
+  --color-conf-documented: oklch(0.50 0.07 236);
+  --color-conf-probable: oklch(0.62 0.07 210);
+  --color-conf-possible: oklch(0.68 0.12 69);
+  --color-conf-uncertain: oklch(0.60 0.09 60);
+  --color-conf-speculative: oklch(0.62 0.010 180);
 
   /* Typography */
   --font-reading: "Newsreader", serif;
   --font-ui: "Geist", sans-serif;
   --font-mono: "Geist Mono", monospace;
+
+  /* Fluid type scale (Light & Darkness) */
+  --text-display: clamp(2.6rem, 6vw, 5.5rem);
+  --text-h1: clamp(2rem, 4vw, 3.4rem);
+  --text-h2: clamp(1.5rem, 2.6vw, 2.3rem);
+  --text-h3: clamp(1.15rem, 1.6vw, 1.45rem);
 
   /* Spacing */
   --spacing-page: 1.5rem;
@@ -42,6 +79,13 @@
   --radius-sm: 0.25rem;
   --radius-md: 0.5rem;
   --radius-lg: 0.75rem;
+
+  /* Layout + motion */
+  --maxw: 1320px;
+  --read-w: 42rem;
+  --header-h: 64px;
+  --ease: cubic-bezier(0.16, 1, 0.3, 1);
+  --ease-out: cubic-bezier(0.22, 0.61, 0.36, 1);
 }
 
 html {
@@ -57,8 +101,14 @@ body {
 }
 
 ::selection {
-  background-color: var(--color-accent);
-  color: var(--color-bg-paper);
+  background-color: var(--color-ochre);
+  color: var(--color-dark);
+}
+
+:focus-visible {
+  outline: 2px solid var(--color-accent);
+  outline-offset: 3px;
+  border-radius: 2px;
 }
 
 @media (prefers-reduced-motion: reduce) {
@@ -110,11 +160,11 @@ details > summary::-webkit-details-marker {
 }
 
 sup.verse-num {
-  font-family: var(--font-ui);
-  font-size: 0.65em;
+  font-family: var(--font-mono);
+  font-size: 0.62em;
   font-weight: 600;
-  color: var(--color-text-muted);
-  margin-right: 0.1em;
+  color: var(--color-accent);
+  margin-right: 0.15em;
   vertical-align: super;
   line-height: 0;
 }
@@ -132,5 +182,112 @@ sup.verse-num {
     transition:
       background-color 0.4s ease,
       box-shadow 0.4s ease;
+  }
+}
+
+/* ============================================================
+   Light & Darkness primitives (P0) — additive utilities used by
+   later phases. Unused until applied → no visual change yet.
+   ============================================================ */
+
+/* Headings — Newsreader 300, tight tracking */
+.tt-display,
+.tt-h1,
+.tt-h2,
+.tt-h3 {
+  font-family: var(--font-reading);
+  font-weight: 300;
+  letter-spacing: -0.02em;
+  line-height: 1.05;
+  color: var(--color-text-primary);
+}
+.tt-display { font-size: var(--text-display); }
+.tt-h1 { font-size: var(--text-h1); }
+.tt-h2 { font-size: var(--text-h2); line-height: 1.1; }
+.tt-h3 { font-size: var(--text-h3); line-height: 1.2; }
+
+/* Eyebrow kicker — Geist Mono with an ochre rule */
+.tt-kick {
+  font-family: var(--font-mono);
+  font-size: 12px;
+  font-weight: 500;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--color-text-muted);
+  display: inline-flex;
+  align-items: center;
+  gap: 0.6em;
+}
+.tt-kick::before {
+  content: "";
+  width: 1.6em;
+  height: 2px;
+  background: var(--color-ochre);
+}
+
+/* Swiss-grid head: big numeral column + heading */
+.tt-grid-head {
+  display: grid;
+  grid-template-columns: 90px 1fr;
+  gap: clamp(12px, 2vw, 28px);
+  align-items: start;
+}
+.tt-bignum {
+  font-family: var(--font-mono);
+  font-size: clamp(2rem, 4vw, 3.2rem);
+  font-weight: 300;
+  color: var(--color-ochre);
+  line-height: 1;
+}
+@media (max-width: 640px) {
+  .tt-grid-head { grid-template-columns: 1fr; }
+  .tt-bignum { font-size: 2rem; }
+}
+
+/* Dark duotone sections */
+.bg-dark {
+  background: var(--color-dark);
+  color: var(--color-on-dark);
+}
+.bg-dark .tt-display,
+.bg-dark .tt-h1,
+.bg-dark .tt-h2,
+.bg-dark .tt-h3,
+.on-dark { color: var(--color-on-dark); }
+.bg-dark .tt-kick { color: var(--color-on-dark-mute); }
+
+/* Light↔dark "seam" motif (logged design-rule exception: gradient) */
+.tt-seam {
+  height: 3px;
+  border: 0;
+  background: linear-gradient(
+    90deg,
+    var(--color-dark),
+    var(--color-accent) 40%,
+    var(--color-ochre) 75%,
+    var(--color-bg-muted)
+  );
+}
+
+/* Scroll reveals — JS-gated (html.tt-js), reduced-motion safe (logged 800ms exception) */
+html.tt-js .reveal {
+  opacity: 0;
+  transform: translateY(26px);
+}
+.reveal.in {
+  opacity: 1;
+  transform: none;
+}
+@media (prefers-reduced-motion: no-preference) {
+  html.tt-js .reveal {
+    transition:
+      opacity 0.8s var(--ease),
+      transform 0.8s var(--ease);
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  html.tt-js .reveal {
+    opacity: 1;
+    transform: none;
   }
 }
