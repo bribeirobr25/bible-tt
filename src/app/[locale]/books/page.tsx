@@ -46,9 +46,7 @@ export default async function BooksPage({
       />
       <div className="max-w-lg w-full space-y-8">
         <div className="text-center">
-          <h1 className="font-[family-name:var(--font-reading)] text-3xl md:text-4xl font-light">
-            {t("nav.selectBook")}
-          </h1>
+          <h1 className="tt-h1">{t("nav.selectBook")}</h1>
         </div>
 
         {books.length > 0 ? (

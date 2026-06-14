@@ -47,6 +47,17 @@ Each phase ends green (test · build · lint · content:lint) + per-locale visua
   token-based, no hardcoded colors → on-palette with no further change. Invariants held (only
   introduction-view). Gate green (841 · 284 · lint); people/intro/prophecy verified in-browser, no
   console errors.
+- **P4 — Marketing + full WebGL hero (2026-06-14, done).** Added `three` dep + `src/ui/marketing/
+  separation-hero.tsx` (Gen 1:4 separation-field shader ported from the prototype; reduced-motion →
+  single static frame, no-WebGL → CSS dark fallback, full cleanup on unmount). Landing
+  (`[locale]/page.tsx`) rebuilt: dark hero with the WebGL canvas + `mix-blend-difference` headline,
+  ochre/outline CTAs, numbered `tt-kick` eyebrows, a dark duotone "How it works" section, `.reveal`
+  scroll-ins; removed the duplicate inline footer (global `SiteFooter` now owns it). books/start/rules
+  headers → `tt-h1`. **Logged design-rule exceptions in play** (shader glow, dark surface, 800ms
+  reveals; mix-blend headline contrast to be WCAG-verified in P5). Invariants held (pages + new
+  marketing component + three dep only; no content/parser/i18n-wiring/route changes). Gate green
+  (841 · 284 · lint); hero verified in-browser EN + PT (localized headline + shader render, no
+  console errors).
 
 ## Completed phases & bundles (chronological by closure)
 

@@ -55,9 +55,7 @@ export default async function RulesPage({
       <div className="max-w-2xl mx-auto">
         {/* Header */}
         <header className="mb-16 text-center">
-          <h1 className="font-[family-name:var(--font-reading)] text-3xl md:text-5xl font-light tracking-tight">
-            {t("landing.rulesPageTitle")}
-          </h1>
+          <h1 className="tt-h1">{t("landing.rulesPageTitle")}</h1>
           <p className="mt-4 text-text-secondary text-lg">
             {t("landing.rulesPageSubtitle")}
           </p>

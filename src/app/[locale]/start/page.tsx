@@ -58,9 +58,7 @@ export default async function StartPage({
       />
       <div className="max-w-2xl mx-auto">
         <header className="text-center mb-12">
-          <h1 className="font-[family-name:var(--font-reading)] text-3xl md:text-5xl font-light tracking-tight">
-            {t("start.title")}
-          </h1>
+          <h1 className="tt-h1">{t("start.title")}</h1>
           <p className="mt-4 text-text-secondary text-lg leading-relaxed">
             {t("start.lead")}
           </p>

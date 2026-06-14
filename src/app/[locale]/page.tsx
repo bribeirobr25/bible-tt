@@ -2,6 +2,7 @@ import { BookOpen, Layers, NotebookPen } from "lucide-react";
 import type { Metadata } from "next";
 import { getTranslations, setRequestLocale } from "next-intl/server";
 import { seoMetadata, truncateDescription, websiteJsonLd } from "@/lib/seo";
+import { SeparationHero } from "@/ui/marketing/separation-hero";
 import { Link } from "@/ui/navigation/locale-link";
 import { JsonLd } from "@/ui/shared/json-ld";
 import { renderMarkdownSafe } from "@/ui/shared/render-markdown-safe";
@@ -36,46 +37,51 @@ export default async function LandingPage({
   return (
     <main className="min-h-screen">
       <JsonLd data={websiteJsonLd(locale)} />
-      {/* Hero */}
-      <section className="min-h-[85vh] flex flex-col items-center justify-center px-6 py-16 text-center">
-        <p className="text-text-muted text-sm uppercase tracking-[0.2em] mb-6 font-[family-name:var(--font-ui)]">
-          {t("site.title")}
-        </p>
-        <h1 className="font-[family-name:var(--font-reading)] text-4xl md:text-6xl font-light tracking-tight text-text-primary max-w-3xl leading-[1.15]">
-          {t("landing.heroHeadline")}
-        </h1>
-        <p className="mt-6 text-text-secondary text-lg md:text-xl italic font-[family-name:var(--font-reading)] max-w-2xl">
-          {t("landing.heroSub")}
-        </p>
-        <p className="mt-8 text-text-primary text-base md:text-lg max-w-xl leading-relaxed">
-          {t("landing.heroSupport")}
-        </p>
-        <div className="mt-10 flex flex-col sm:flex-row gap-4">
-          <Link
-            href="/books"
-            className="min-h-12 inline-flex items-center justify-center px-8 py-3 rounded-md bg-accent text-bg-paper font-medium text-sm hover:bg-accent-hover active:scale-95 transition-all duration-200 focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2"
+      {/* Hero — Gen 1:4 separation-field WebGL (logged design-rule exception) */}
+      <section className="relative isolate overflow-hidden bg-dark min-h-[86vh] flex flex-col items-center justify-center px-6 py-20 text-center">
+        <SeparationHero />
+        <div className="relative z-10 flex flex-col items-center">
+          <p className="tt-kick text-on-dark-mute mb-6">{t("site.title")}</p>
+          <h1
+            className="tt-display max-w-4xl"
+            style={{ color: "#fff", mixBlendMode: "difference" }}
           >
-            {t("landing.cta")}
-          </Link>
+            {t("landing.heroHeadline")}
+          </h1>
+          <p className="mt-6 text-on-dark-soft text-lg md:text-xl italic font-[family-name:var(--font-reading)] max-w-2xl">
+            {t("landing.heroSub")}
+          </p>
+          <p className="mt-6 text-on-dark text-base md:text-lg max-w-xl leading-relaxed">
+            {t("landing.heroSupport")}
+          </p>
+          <div className="mt-10 flex flex-col sm:flex-row gap-4">
+            <Link
+              href="/books"
+              className="min-h-12 inline-flex items-center justify-center px-8 py-3 rounded-md bg-ochre text-dark font-medium text-sm hover:bg-ochre-soft active:scale-95 transition-colors duration-200 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-ochre"
+            >
+              {t("landing.cta")}
+            </Link>
+            <Link
+              href="/start"
+              className="min-h-12 inline-flex items-center justify-center px-8 py-3 rounded-md border border-on-dark-soft/50 text-on-dark font-medium text-sm hover:border-on-dark active:scale-95 transition-colors duration-200 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-on-dark"
+            >
+              {t("landing.ctaStartHere")}
+            </Link>
+          </div>
           <Link
-            href="/start"
-            className="min-h-12 inline-flex items-center justify-center px-8 py-3 rounded-md border border-border text-text-secondary font-medium text-sm hover:border-accent hover:text-accent active:scale-95 transition-all duration-200 focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2"
+            href="/rules"
+            className="mt-6 text-sm text-on-dark-soft hover:text-on-dark underline underline-offset-4 transition-colors duration-150 rounded"
           >
-            {t("landing.ctaStartHere")}
+            {t("landing.ctaRules")}
           </Link>
         </div>
-        <Link
-          href="/rules"
-          className="mt-6 text-sm text-text-muted hover:text-accent underline underline-offset-4 transition-colors duration-150 focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2 rounded"
-        >
-          {t("landing.ctaRules")}
-        </Link>
       </section>
 
       {/* The Difference */}
-      <section className="px-6 py-20 border-t border-border-muted">
+      <section className="px-6 py-20 reveal">
         <div className="max-w-4xl mx-auto">
-          <h2 className="font-[family-name:var(--font-reading)] text-2xl md:text-3xl font-light text-center mb-3">
+          <p className="tt-kick justify-center flex mb-3">01</p>
+          <h2 className="tt-h2 text-center mb-3">
             {t("landing.differenceTitle")}
           </h2>
           <p className="text-text-muted text-center text-sm mb-12">
@@ -126,12 +132,13 @@ export default async function LandingPage({
         </div>
       </section>
 
-      {/* How It Works */}
-      <section className="px-6 py-20 border-t border-border-muted bg-bg-surface">
+      {/* How It Works — dark duotone section */}
+      <section className="px-6 py-20 bg-dark reveal">
         <div className="max-w-3xl mx-auto text-center">
-          <h2 className="font-[family-name:var(--font-reading)] text-2xl md:text-3xl font-light mb-12">
-            {t("landing.howTitle")}
-          </h2>
+          <p className="tt-kick text-on-dark-mute justify-center flex mb-3">
+            02
+          </p>
+          <h2 className="tt-h2 text-on-dark mb-12">{t("landing.howTitle")}</h2>
           <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-8 text-left">
             {(
               [
@@ -142,17 +149,14 @@ export default async function LandingPage({
             ).map(({ icon: Icon, mode, desc }) => (
               <div key={mode} className="space-y-3">
                 <div className="flex items-center gap-3">
-                  <span className="w-9 h-9 rounded-full bg-bg-paper border border-border flex items-center justify-center">
-                    <Icon
-                      className="w-4 h-4 text-text-muted"
-                      strokeWidth={1.5}
-                    />
+                  <span className="w-9 h-9 rounded-full border border-on-dark-soft/40 flex items-center justify-center">
+                    <Icon className="w-4 h-4 text-ochre" strokeWidth={1.5} />
                   </span>
-                  <span className="text-sm font-semibold uppercase tracking-wider text-text-secondary">
+                  <span className="font-[family-name:var(--font-mono)] text-[12px] font-semibold uppercase tracking-wider text-on-dark-soft">
                     {t(`nav.${mode}`)}
                   </span>
                 </div>
-                <p className="text-text-primary text-sm leading-relaxed">
+                <p className="text-on-dark text-sm leading-relaxed">
                   {t(`landing.${desc}`)}
                 </p>
               </div>
@@ -162,11 +166,10 @@ export default async function LandingPage({
       </section>
 
       {/* Who Is This For */}
-      <section className="px-6 py-20 border-t border-border-muted">
+      <section className="px-6 py-20 reveal">
         <div className="max-w-2xl mx-auto">
-          <h2 className="font-[family-name:var(--font-reading)] text-2xl md:text-3xl font-light text-center mb-12">
-            {t("landing.whoTitle")}
-          </h2>
+          <p className="tt-kick justify-center flex mb-3">03</p>
+          <h2 className="tt-h2 text-center mb-12">{t("landing.whoTitle")}</h2>
           <div className="space-y-8">
             {(["who1", "who2", "who3"] as const).map((key) => (
               <p
@@ -181,11 +184,10 @@ export default async function LandingPage({
       </section>
 
       {/* What This Is */}
-      <section className="px-6 py-20 border-t border-border-muted bg-bg-surface">
+      <section className="px-6 py-20 bg-bg-surface reveal">
         <div className="max-w-2xl mx-auto text-center">
-          <h2 className="font-[family-name:var(--font-reading)] text-2xl md:text-3xl font-light mb-8">
-            {t("landing.scopeTitle")}
-          </h2>
+          <p className="tt-kick justify-center flex mb-3">04</p>
+          <h2 className="tt-h2 mb-8">{t("landing.scopeTitle")}</h2>
           <p className="text-text-primary leading-relaxed">
             {t("landing.scope")}
           </p>
@@ -195,18 +197,13 @@ export default async function LandingPage({
           <div className="mt-10">
             <Link
               href="/books"
-              className="min-h-12 inline-flex items-center justify-center px-10 py-4 rounded-md bg-accent text-bg-paper font-medium hover:bg-accent-hover active:scale-95 transition-all duration-200 focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2"
+              className="min-h-12 inline-flex items-center justify-center px-10 py-4 rounded-md bg-accent text-bg-paper font-medium hover:bg-accent-hover active:scale-95 transition-colors duration-200 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-accent"
             >
               {t("landing.cta")}
             </Link>
           </div>
         </div>
       </section>
-
-      {/* Footer */}
-      <footer className="px-6 py-10 border-t border-border-muted text-center">
-        <p className="text-xs text-text-muted">{t("site.title")}</p>
-      </footer>
     </main>
   );
 }
