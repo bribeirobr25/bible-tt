@@ -196,6 +196,14 @@ design system + editorial log (not silently violate the rules):
 - **P6 — Cutover.** Branch + preview deploy → switch (§6.4).
 - **(Deferred) Search** — separate later phase per §4; not in this migration.
 
+### Execution status (2026-06-14)
+**P0–P5 COMPLETE** on branch `redesign-migration` (7 commits; presentation-only, +593/−143 across 16
+`src/` files). Every phase ended green (841 tests · 284 pages · lint · content:lint) + per-locale
+browser validation; invariants held throughout (no `content/**`, parser, domain, i18n-wiring, route,
+or SEO changes). Per-phase detail in `EXECUTION_HISTORY.md`. **P6 cutover is the only remaining step
+and awaits lead authorization** — push `redesign-migration` to GitHub (Vercel preview), review the
+preview, then merge to `main`. (Not done autonomously: pushing/merging is the production-facing switch.)
+
 ---
 
 ## 8. Content-safety & regression strategy (how we *prove* no loss)
