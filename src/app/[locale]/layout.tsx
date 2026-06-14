@@ -5,6 +5,7 @@ import { setRequestLocale } from "next-intl/server";
 import type { ReactNode } from "react";
 import { type Locale, loadMessages, locales } from "@/lib/i18n";
 import { AppBar } from "@/ui/navigation/app-bar";
+import { SiteFooter } from "@/ui/navigation/site-footer";
 import { RevealObserver } from "@/ui/shared/reveal-observer";
 import "@/app/globals.css";
 
@@ -56,7 +57,10 @@ export default async function LocaleLayout({
         <NextIntlClientProvider locale={locale} messages={messages}>
           <AppBar />
           <RevealObserver />
-          <div className="pt-12">{children}</div>
+          <div className="pt-16 min-h-screen flex flex-col">
+            <div className="flex-1">{children}</div>
+            <SiteFooter locale={locale} />
+          </div>
         </NextIntlClientProvider>
       </body>
     </html>

@@ -26,6 +26,13 @@ Each phase ends green (test · build · lint · content:lint) + per-locale visua
   `content/**`, parsers, domain, content-loader, i18n wiring, routes, `next.config.ts`. Gate green
   (841 tests · 284 pages · lint · content:lint); landing + chapter verified in-browser (new palette,
   no console errors). New utilities are inert until applied in later phases.
+- **P1 — Chrome (2026-06-14, done).** Restyled the chrome to the prototype's visual language:
+  `app-bar.tsx` (64px header, brand mark + Geist-Mono wordmark, mono breadcrumb, segmented
+  EN/PT/DE/ES switch with petrol-active), `door-nav.tsx` (bordered pills, petrol-active),
+  `chapter-nav.tsx` (mono pager), + new `site-footer.tsx` (brand blurb + Books/Rules/Start links +
+  legal line, localized from existing keys). Layout offset 48→64px + footer mounted; added `.tt-mark`.
+  Invariants held (only nav + layout + globals). Gate green (841 · 284 · lint); verified desktop +
+  mobile (390) + DE in-browser — header fits, wordmark collapses, labels localized, no console errors.
 
 ## Completed phases & bundles (chronological by closure)
 

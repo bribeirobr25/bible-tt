@@ -17,31 +17,36 @@ export function AppBar() {
 
   return (
     <nav
-      className="fixed top-0 left-0 right-0 z-40 bg-bg-paper/95 backdrop-blur-sm border-b border-border-muted"
+      className="fixed top-0 left-0 right-0 z-40 h-16 bg-bg-paper border-b border-border"
       aria-label="Main navigation"
     >
-      <div className="max-w-5xl mx-auto px-4 md:px-6 flex items-center justify-between min-h-12">
-        {/* Left: Logo + breadcrumb */}
-        <div className="flex items-center gap-3">
+      <div className="max-w-5xl mx-auto h-full px-4 md:px-6 flex items-center justify-between gap-3">
+        {/* Left: brand mark + wordmark + breadcrumb */}
+        <div className="flex items-center gap-3 min-w-0">
           <a
             href={`/${locale}`}
-            className="font-[family-name:var(--font-reading)] text-lg font-light tracking-tight text-text-primary hover:text-accent transition-colors duration-150 focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2 rounded"
+            className="flex items-center gap-2.5 shrink-0 rounded focus-visible:outline-2 focus-visible:outline-accent focus-visible:outline-offset-2"
             aria-label={t("nav.home")}
           >
-            TT
+            <span className="tt-mark" aria-hidden="true" />
+            <span className="hidden md:inline font-[family-name:var(--font-mono)] text-[12.5px] font-semibold uppercase tracking-[0.06em] text-text-primary">
+              {t("site.title")}
+            </span>
           </a>
 
           {breadcrumb && (
-            <>
+            <div className="flex items-center gap-2 min-w-0 font-[family-name:var(--font-mono)] text-[12px] tracking-[0.02em]">
               <span className="text-border" aria-hidden="true">
                 /
               </span>
               <a
                 href={breadcrumb.href}
-                className="text-sm text-text-muted hover:text-accent transition-colors duration-150 focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2 rounded flex items-center gap-1"
+                className="text-text-muted hover:text-accent transition-colors duration-150 rounded flex items-center gap-1 truncate focus-visible:outline-2 focus-visible:outline-accent focus-visible:outline-offset-2"
               >
-                <span className="hidden sm:inline">&larr;</span>
-                <span>{breadcrumb.label}</span>
+                <span className="hidden sm:inline" aria-hidden="true">
+                  &larr;
+                </span>
+                <span className="truncate">{breadcrumb.label}</span>
               </a>
               {breadcrumb.current && (
                 <>
@@ -51,33 +56,39 @@ export function AppBar() {
                   >
                     /
                   </span>
-                  <span className="text-sm text-text-secondary hidden sm:inline">
+                  <span className="text-text-secondary hidden sm:inline truncate">
                     {breadcrumb.current}
                   </span>
                 </>
               )}
-            </>
+            </div>
           )}
         </div>
 
-        {/* Right: Language switcher */}
-        <div className="flex items-center gap-1">
-          {locales.map((loc) => (
-            <a
-              key={loc}
-              href={`/${loc}${pathWithoutLocale}`}
-              className={`min-h-8 min-w-8 inline-flex items-center justify-center px-2 py-1 text-xs font-medium rounded-md transition-colors duration-150 focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2 ${
-                loc === locale
-                  ? "bg-accent/10 text-accent"
-                  : "text-text-muted hover:text-text-secondary hover:bg-bg-muted active:scale-95"
-              }`}
-            >
-              <span className="hidden sm:inline">{loc.toUpperCase()}</span>
-              <span className="sm:hidden">
+        {/* Right: segmented language switcher */}
+        {/* biome-ignore lint/a11y/useSemanticElements: a labelled group of locale links, not a form fieldset */}
+        <div
+          className="inline-flex shrink-0 rounded-full border border-border overflow-hidden font-[family-name:var(--font-mono)] text-[11px] tracking-[0.03em]"
+          role="group"
+          aria-label="Language"
+        >
+          {locales.map((loc) => {
+            const isActive = loc === locale;
+            return (
+              <a
+                key={loc}
+                href={`/${loc}${pathWithoutLocale}`}
+                aria-current={isActive ? "true" : undefined}
+                className={`min-h-8 inline-flex items-center justify-center px-2.5 py-1.5 transition-colors duration-150 focus-visible:outline-2 focus-visible:outline-accent focus-visible:-outline-offset-2 ${
+                  isActive
+                    ? "bg-accent text-bg-paper"
+                    : "text-text-muted hover:text-accent"
+                }`}
+              >
                 {loc === "pt-br" ? "PT" : loc.toUpperCase()}
-              </span>
-            </a>
-          ))}
+              </a>
+            );
+          })}
         </div>
       </div>
     </nav>

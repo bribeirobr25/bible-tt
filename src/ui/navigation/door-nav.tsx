@@ -37,7 +37,7 @@ export async function DoorNav({
     // These are navigation links to distinct URLs (not in-page tabs), so use
     // nav semantics with aria-current="page" — not role="tablist"/"tab".
     <nav
-      className="flex gap-1 bg-bg-muted rounded-lg p-1 w-fit max-w-full overflow-x-auto"
+      className="flex gap-2 w-fit max-w-full overflow-x-auto"
       aria-label={t("nav.chapterViews")}
     >
       {doors.map(({ key, href, label }) => {
@@ -47,10 +47,10 @@ export async function DoorNav({
             key={key}
             href={href}
             aria-current={isActive ? "page" : undefined}
-            className={`min-h-11 px-4 py-2.5 text-sm font-medium rounded-md transition-all duration-200 focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2 active:scale-95 ${
+            className={`min-h-11 inline-flex items-center px-4 py-2.5 text-sm font-medium rounded-full border transition-colors duration-200 focus-visible:outline-2 focus-visible:outline-accent focus-visible:outline-offset-2 active:scale-95 ${
               isActive
-                ? "bg-bg-paper text-text-primary shadow-sm"
-                : "text-text-secondary hover:text-text-primary hover:bg-bg-paper/50"
+                ? "bg-accent text-bg-paper border-accent"
+                : "border-border text-text-secondary hover:text-accent hover:border-accent"
             }`}
           >
             {label}

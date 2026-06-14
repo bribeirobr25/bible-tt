@@ -206,6 +206,26 @@ sup.verse-num {
 .tt-h2 { font-size: var(--text-h2); line-height: 1.1; }
 .tt-h3 { font-size: var(--text-h3); line-height: 1.2; }
 
+/* Brand mark — dark square with an ochre skewed slash */
+.tt-mark {
+  width: 22px;
+  height: 22px;
+  border-radius: 3px;
+  background: var(--color-dark);
+  position: relative;
+  overflow: hidden;
+  flex: none;
+  display: inline-block;
+}
+.tt-mark::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  left: 55%;
+  background: var(--color-ochre);
+  transform: skewX(-12deg);
+}
+
 /* Eyebrow kicker — Geist Mono with an ochre rule */
 .tt-kick {
   font-family: var(--font-mono);

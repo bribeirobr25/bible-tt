@@ -21,7 +21,7 @@ export function ChapterNav({
       {hasPrev ? (
         <Link
           href={`/${locale}/${book}/chapter/${currentChapter - 1}`}
-          className="min-h-11 inline-flex items-center gap-2 px-3 py-2 text-sm text-text-secondary hover:text-accent rounded-md transition-colors duration-150 focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2 active:scale-95"
+          className="min-h-11 inline-flex items-center gap-2 px-3 py-2 font-[family-name:var(--font-mono)] text-[12px] uppercase tracking-[0.04em] text-text-secondary hover:text-accent rounded-md transition-colors duration-150 focus-visible:outline-2 focus-visible:outline-accent focus-visible:outline-offset-2 active:scale-95"
         >
           <span aria-hidden="true">&larr;</span>
           <span>{t("chapter.chapterN", { n: currentChapter - 1 })}</span>
@@ -32,7 +32,7 @@ export function ChapterNav({
       {hasNext ? (
         <Link
           href={`/${locale}/${book}/chapter/${currentChapter + 1}`}
-          className="min-h-11 inline-flex items-center gap-2 px-3 py-2 text-sm text-text-secondary hover:text-accent rounded-md transition-colors duration-150 focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2 active:scale-95"
+          className="min-h-11 inline-flex items-center gap-2 px-3 py-2 font-[family-name:var(--font-mono)] text-[12px] uppercase tracking-[0.04em] text-text-secondary hover:text-accent rounded-md transition-colors duration-150 focus-visible:outline-2 focus-visible:outline-accent focus-visible:outline-offset-2 active:scale-95"
         >
           <span>{t("chapter.chapterN", { n: currentChapter + 1 })}</span>
           <span aria-hidden="true">&rarr;</span>
