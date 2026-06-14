@@ -1,0 +1,117 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<title>Books — The Transparent Translation</title>
+<meta name="description" content="Genesis, John, and Matthew — the Hebrew Bible and Greek Scriptures, shown honestly in four languages." />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Geist:wght@300;400;500;600;700&family=Geist+Mono:wght@400;500;600&family=Newsreader:ital,opsz,wght@0,6..72,200..700;1,6..72,300..600&display=swap" rel="stylesheet" />
+<link rel="stylesheet" href="assets/tt.css" />
+</head>
+<body>
+  <header class="site-header over-hero">
+    <a class="brand" href="index.html"><span class="mark"></span> Transparent Translation</a>
+    <button class="menu-btn" aria-label="Menu" aria-expanded="false"><span></span></button>
+    <nav>
+      <a href="books.html" aria-current="page">Books</a>
+      <a href="start.html">Start here</a>
+      <a href="rules.html">How we translate</a>
+      <a class="nav-cta" href="genesis/chapter-1.html">Start reading →</a>
+    </nav>
+  </header>
+
+  <section style="position:relative;min-height:60svh;display:flex;align-items:flex-end;overflow:hidden;padding-bottom:clamp(40px,7vh,80px)">
+    <canvas id="gl" data-scroll="1" style="position:absolute;inset:0;width:100%;height:100%"></canvas>
+    <div class="wrap" style="position:relative;z-index:2;mix-blend-mode:difference;color:#fff">
+      <p class="mono" style="font-size:12px;letter-spacing:.2em;text-transform:uppercase;margin-bottom:18px">Currently translated</p>
+      <h1 class="h-display" style="max-width:14ch">The Books.</h1>
+      <p class="serif" style="font-style:italic;font-size:clamp(1.1rem,2vw,1.5rem);max-width:42ch;margin-top:18px">Genesis 1–12 · John 1–3 · Matthew 1–3 — each with chapters, study companions, introductions, and people.</p>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="wrap">
+      <p class="kick reveal">Three books, four languages</p>
+
+      <a class="bookcard reveal" href="genesis/index.html">
+        <div class="bc-left">
+          <div class="bc-name serif">Genesis</div>
+          <div class="bc-meta mono">Hebrew Bible · 12 chapters available</div>
+          <span class="badge now">Read now →</span>
+        </div>
+        <dl class="bc-glance">
+          <div><dt>What</dt><dd>The origin story — of the cosmos, of humanity, and of the family that becomes Israel.</dd></div>
+          <div><dt>When</dt><dd>Set from creation to Israel’s descent into Egypt; reaching final form by ~6th–5th c. BCE.</dd></div>
+          <div><dt>Who</dt><dd>Traditionally Moses; critical scholarship sees a composite of older sources edited over centuries.</dd></div>
+          <div><dt>Why</dt><dd>To ground Israel’s identity, covenant, and promises in primeval and ancestral history.</dd></div>
+        </dl>
+      </a>
+
+      <a class="bookcard reveal" data-d="1" href="john/index.html">
+        <div class="bc-left">
+          <div class="bc-name serif">John</div>
+          <div class="bc-meta mono">Greek Scriptures · 3 chapters available</div>
+          <span class="badge now">Read now →</span>
+        </div>
+        <dl class="bc-glance">
+          <div><dt>What</dt><dd>A theological gospel — the <em>logos</em> made flesh, signs, and long discourses.</dd></div>
+          <div><dt>When</dt><dd>Late first century CE; the latest-composed of the four gospels by most reckonings.</dd></div>
+          <div><dt>Who</dt><dd>Attributed to the disciple John; authorship and community debated.</dd></div>
+          <div><dt>Why</dt><dd>“That you may trust” — written to persuade, not merely to report.</dd></div>
+        </dl>
+      </a>
+
+      <a class="bookcard reveal" data-d="2" href="matthew/index.html">
+        <div class="bc-left">
+          <div class="bc-name serif">Matthew</div>
+          <div class="bc-meta mono">Greek Scriptures · 3 chapters available</div>
+          <span class="badge now">Read now →</span>
+        </div>
+        <dl class="bc-glance">
+          <div><dt>What</dt><dd>A gospel rooted in the Hebrew scriptures — genealogy, fulfilment, and teaching.</dd></div>
+          <div><dt>When</dt><dd>Late first century CE; drawing on earlier sources.</dd></div>
+          <div><dt>Who</dt><dd>Attributed to Matthew the tax-collector; authorship debated.</dd></div>
+          <div><dt>Why</dt><dd>To present Yeshua as the continuation of Israel’s story, “kingdom of the skies.”</dd></div>
+        </dl>
+      </a>
+
+      <p class="reveal mono" style="margin-top:36px;color:var(--ink-mute);font-size:12px;letter-spacing:.06em">All content ships <strong style="color:var(--accent-deep)">provisional</strong> — pending source-language scholar sign-off (Rule 28). Genesis 13–50 is the largest work in progress.</p>
+    </div>
+  </section>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <div class="cols">
+        <div><p class="brand-blurb serif">A translation with nothing hidden.</p></div>
+        <div><h4>Read</h4><a href="genesis/index.html">Genesis</a><a href="books.html">All books</a><a href="start.html">Start here</a></div>
+        <div><h4>Method</h4><a href="rules.html">The 29 rules</a><a href="genesis/introduction.html">Book introductions</a><a href="genesis/people.html">People &amp; genealogy</a></div>
+      </div>
+      <div class="legal"><span>© The Transparent Translation · EN · PT · DE · ES</span><span class="badge">Redesign · Light &amp; Darkness</span></div>
+    </div>
+  </footer>
+
+  <style>
+    .bookcard{display:grid;gap:24px;padding:36px 0;border-top:1px solid var(--line);transition:padding-left .3s var(--ease)}
+    .bookcard:first-of-type{border-top:2px solid var(--ink)}
+    .bookcard[href]:hover{padding-left:10px}
+    .bookcard:last-of-type{border-bottom:1px solid var(--line)}
+    @media(min-width:860px){.bookcard{grid-template-columns:300px 1fr;gap:48px;align-items:start}}
+    .bc-name{font-size:clamp(2.2rem,5vw,3.4rem)}
+    .bc-meta{font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--ink-mute);margin:8px 0 16px}
+    .bc-glance{display:grid;gap:0;border-left:1px solid var(--line)}
+    .bc-glance>div{display:grid;grid-template-columns:80px 1fr;gap:16px;padding:14px 0 14px 22px;border-bottom:1px solid var(--line-soft)}
+    .bc-glance>div:last-child{border-bottom:0}
+    .bc-glance dt{font-family:"Geist Mono",monospace;font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--accent-deep);padding-top:3px}
+    .bc-glance dd{font-size:15px;line-height:1.6;color:var(--ink-soft)}
+    .bc-glance em{color:var(--accent-deep);font-style:italic}
+    .badge{display:inline-flex;align-items:center;font-family:"Geist Mono",monospace;font-size:11px;letter-spacing:.06em;text-transform:uppercase;padding:6px 12px;border-radius:999px}
+    .badge.now{color:var(--dark);background:var(--ochre)}
+    .badge.soon{color:var(--ink-mute);border:1px solid var(--line)}
+    @media(max-width:600px){.bc-glance>div{grid-template-columns:1fr;gap:4px;padding-left:16px}}
+  </style>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+  <script src="assets/tt.js"></script>
+</body>
+</html>

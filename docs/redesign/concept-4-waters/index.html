@@ -1,0 +1,256 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<title>Waters · The Transparent Translation — Redesign Concept 4</title>
+<meta name="description" content="A translation with nothing hidden. Atmospheric ambient concept." />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Geist:wght@300;400;500;600&family=Geist+Mono:wght@400;500&family=Newsreader:ital,opsz,wght@0,6..72,200..600;1,6..72,300..500&display=swap" rel="stylesheet" />
+<style>
+  :root{
+    --deep:#06181c;
+    --deep-2:#0a2228;
+    --paper:#f3f0e8;
+    --paper-2:#f9f6ee;
+    --paper-3:#e7e0d2;
+    --ink:#2c2a24;
+    --ink-soft:#585347;
+    --ink-mute:#8a8474;
+    --accent:#3aa7bd;
+    --accent-ink:#006475;
+    --accent-ink-hover:#004f5d;
+    --text-light:#e9eded;
+    --text-light-2:#9fb3b6;
+    --line-light:rgba(233,237,237,.16);
+    --line-dark:rgba(44,42,36,.13);
+    --maxw:1200px;--ease:cubic-bezier(.22,.61,.36,1);
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  html{-webkit-text-size-adjust:100%}
+  body{font-family:"Geist",system-ui,sans-serif;background:var(--deep);color:var(--text-light);line-height:1.6;overflow-x:hidden;-webkit-font-smoothing:antialiased}
+  .serif{font-family:"Newsreader",Georgia,serif}.mono{font-family:"Geist Mono",monospace}
+  a{color:inherit;text-decoration:none}::selection{background:var(--accent);color:var(--deep)}
+  .wrap{max-width:var(--maxw);margin-inline:auto;padding-inline:clamp(22px,5vw,52px)}
+
+  header.bar{position:fixed;top:0;left:0;right:0;z-index:40;display:flex;justify-content:space-between;align-items:center;padding:20px clamp(22px,5vw,52px);color:var(--text-light)}
+  .bar .brand{font-weight:600;letter-spacing:.16em;font-size:13px;text-transform:uppercase}
+  .bar nav{display:flex;gap:26px;font-size:13px}
+  .bar nav a{opacity:.82;transition:opacity .2s}.bar nav a:hover{opacity:1;color:var(--accent)}
+  @media(max-width:720px){.bar nav a:not(.cta){display:none}}
+
+  .hero{position:relative;min-height:100svh;display:flex;align-items:center;overflow:hidden}
+  #gl{position:absolute;inset:0;width:100%;height:100%;display:block}
+  .hero::after{content:"";position:absolute;inset:0;pointer-events:none;background:linear-gradient(to bottom,rgba(6,24,28,.35) 0%,transparent 30%,transparent 62%,var(--deep) 100%)}
+  .hero-inner{position:relative;z-index:2;width:100%;text-align:center}
+  .eyebrow{font-size:12px;letter-spacing:.3em;text-transform:uppercase;color:var(--accent);margin-bottom:26px}
+  h1.hero-title{font-weight:200;font-size:clamp(2.7rem,8vw,6.6rem);line-height:1.04;letter-spacing:-.02em;color:#fff;margin-inline:auto;max-width:15ch}
+  h1.hero-title em{font-style:italic;color:var(--accent)}
+  .hero-sub{margin:26px auto 0;font-style:italic;font-family:"Newsreader",serif;font-size:clamp(1.05rem,2vw,1.45rem);color:var(--text-light-2);max-width:40ch}
+  .hero-quote{margin:18px auto 0;max-width:46ch;color:var(--text-light-2);font-size:.95rem}
+  .cta-row{margin-top:40px;display:flex;flex-wrap:wrap;gap:14px;justify-content:center}
+  .btn{display:inline-flex;align-items:center;gap:10px;min-height:54px;padding:0 32px;border-radius:999px;font-size:14px;font-weight:500;cursor:pointer;border:1px solid transparent;transition:transform .2s var(--ease),background .2s,color .2s,border-color .2s}
+  .btn:active{transform:scale(.97)}
+  .btn-pri{background:var(--accent);color:var(--deep)}.btn-pri:hover{background:#54c0d5}
+  .btn-gho{border-color:var(--line-light);color:var(--text-light)}.btn-gho:hover{border-color:var(--accent);color:var(--accent)}
+  .btn .arr{transition:transform .25s var(--ease)}.btn:hover .arr{transform:translateX(4px)}
+  .scroll-cue{position:absolute;left:50%;bottom:26px;transform:translateX(-50%);z-index:3;font-size:11px;letter-spacing:.26em;text-transform:uppercase;color:var(--text-light-2);display:flex;flex-direction:column;align-items:center;gap:10px;opacity:.8}
+  .scroll-cue .line{width:1px;height:40px;background:linear-gradient(var(--accent),transparent);animation:cue 2.4s var(--ease) infinite}
+  @keyframes cue{0%{transform:scaleY(0);transform-origin:top}45%{transform:scaleY(1);transform-origin:top}55%{transform:scaleY(1);transform-origin:bottom}100%{transform:scaleY(0);transform-origin:bottom}}
+
+  section{position:relative}.pad{padding:clamp(88px,12vh,170px) 0}
+  .light{background:var(--paper);color:var(--ink)}
+  .kicker{font-size:12px;letter-spacing:.26em;text-transform:uppercase;color:var(--accent-ink);margin-bottom:18px}
+  h2{font-family:"Newsreader",serif;font-weight:300;font-size:clamp(1.9rem,4.4vw,3.3rem);line-height:1.12;letter-spacing:-.01em}
+  .reveal{opacity:0;transform:translateY(24px)}
+
+  .vg{display:grid;gap:0;margin-top:54px;border:1px solid var(--line-dark);border-radius:12px;overflow:hidden}
+  @media(min-width:880px){.vg{grid-template-columns:1fr 1fr}}
+  .vc{padding:38px clamp(26px,3vw,44px)}
+  .vc.conv{background:var(--paper-3)}.vc.tt{background:var(--paper-2);border-top:1px solid var(--line-dark)}
+  @media(min-width:880px){.vc.tt{border-top:0;border-left:1px solid var(--line-dark)}}
+  .vc .lab{font-size:11px;letter-spacing:.2em;text-transform:uppercase;color:var(--ink-mute);margin-bottom:18px}.vc.tt .lab{color:var(--accent-ink)}
+  .vc blockquote{font-family:"Newsreader",serif;font-size:clamp(1.12rem,1.7vw,1.4rem);line-height:1.8}
+  .vc.conv blockquote{color:var(--ink-soft)}.vc.tt em{color:var(--accent-ink);font-style:italic}
+  .diffs{display:grid;gap:24px;margin-top:40px}
+  @media(min-width:760px){.diffs{grid-template-columns:1fr 1fr}}
+  .diff{display:flex;gap:16px}.diff .bar{width:2px;flex:none;background:var(--accent-ink);border-radius:2px}
+  .diff h4{font-size:15px;font-weight:600}.diff p{font-size:14.5px;color:var(--ink-soft);margin-top:6px;line-height:1.7}.diff em{color:var(--accent-ink);font-style:italic}
+
+  .doors{display:grid;gap:24px;margin-top:56px}
+  @media(min-width:820px){.doors{grid-template-columns:repeat(3,1fr)}}
+  .door{border:1px solid var(--line-dark);border-radius:14px;padding:36px 30px;background:var(--paper-2);transition:transform .3s var(--ease),box-shadow .3s,border-color .3s}
+  .door:hover{transform:translateY(-6px);box-shadow:0 18px 44px -26px rgba(0,80,93,.5);border-color:var(--accent-ink)}
+  .door .idx{font-family:"Geist Mono",monospace;font-size:12px;color:var(--accent-ink)}
+  .door .dt{font-family:"Newsreader",serif;font-size:1.8rem;margin:16px 0 12px}
+  .door p{font-size:14.5px;color:var(--ink-soft);line-height:1.7}
+
+  .who-list{max-width:62ch;margin:48px auto 0;display:grid;gap:34px}
+  .who-list p{font-family:"Newsreader",serif;font-size:clamp(1.2rem,2.1vw,1.6rem);line-height:1.55;text-align:center}
+  .who-list span{color:var(--accent-ink);font-style:italic}
+
+  .scope{background:var(--deep);color:var(--text-light);text-align:center}
+  .scope .kicker{color:var(--accent)}
+  .scope h2{color:#fff}.scope h2 em{color:var(--accent);font-style:italic}
+  .scope .inner{max-width:60ch;margin-inline:auto}
+  .scope p{font-size:clamp(1.02rem,1.5vw,1.18rem);line-height:1.85;color:var(--text-light-2);margin-top:24px}
+  .scope .not{font-style:italic}
+
+  footer{background:var(--deep);text-align:center;padding:46px 20px;color:var(--text-light-2);font-size:12px;letter-spacing:.16em;text-transform:uppercase}
+  footer .badge{display:inline-block;margin-top:12px;font-size:10px;letter-spacing:.2em;color:var(--accent);border:1px solid var(--line-light);border-radius:999px;padding:6px 14px}
+
+  @media(prefers-reduced-motion:reduce){.reveal{opacity:1;transform:none}.scroll-cue .line{animation:none}*{scroll-behavior:auto!important}}
+</style>
+</head>
+<body>
+  <header class="bar">
+    <div class="brand">The Transparent Translation</div>
+    <nav>
+      <a href="#difference">The difference</a>
+      <a href="#read">How it works</a>
+      <a class="cta" href="#scope" style="color:var(--accent)">Start reading →</a>
+    </nav>
+  </header>
+
+  <section class="hero">
+    <canvas id="gl"></canvas>
+    <div class="hero-inner wrap">
+      <p class="eyebrow" data-h>Genesis 1:2</p>
+      <h1 class="hero-title serif" data-h>A translation with <em>nothing</em> hidden.</h1>
+      <p class="hero-sub" data-h>“…and the wind/spirit of God was hovering over the face of the waters.”</p>
+      <p class="hero-quote" data-h>The source texts, shown honestly — every translation choice visible. For believers, skeptics, and the merely curious alike.</p>
+      <div class="cta-row" data-h>
+        <a class="btn btn-pri" href="#">Start reading <span class="arr">→</span></a>
+        <a class="btn btn-gho" href="#">New here? Start here</a>
+      </div>
+    </div>
+    <div class="scroll-cue"><span>scroll</span><span class="line"></span></div>
+  </section>
+
+  <section class="light pad" id="difference">
+    <div class="wrap">
+      <p class="kicker reveal">The difference</p>
+      <h2 class="reveal" style="max-width:18ch">What translations hide from you</h2>
+      <p class="reveal" style="color:var(--ink-soft);margin-top:12px;max-width:50ch">The same verse. One hides the choices. The other shows them.</p>
+      <div class="vg">
+        <div class="vc conv reveal"><div class="lab">Traditional translation</div><blockquote>Now the serpent was more crafty than any of the wild animals the LORD God had made. He said to the woman, “Did God really say, ‘You must not eat from any tree in the garden’?”</blockquote></div>
+        <div class="vc tt reveal"><div class="lab">Transparent Translation</div><blockquote>And the serpent was <em>arum</em> (crafty/shrewd) from all the living things of the field that YHWH God had made. And it said to the woman: “Indeed, <em>did</em> God say, ‘You shall not eat from any tree of the garden’?”</blockquote></div>
+      </div>
+      <div class="diffs">
+        <div class="diff reveal"><div class="bar"></div><div><h4>The name they replaced</h4><p>The Hebrew says YHWH — four consonants, no vowels. Most Bibles swap it for ‘the LORD.’ We put back what was there.</p></div></div>
+        <div class="diff reveal"><div class="bar"></div><div><h4>A hidden pun</h4><p>‘Crafty’ (<em>arum</em>) sounds almost identical to ‘naked’ (<em>arom</em>) from the verse before. Most translations erase it.</p></div></div>
+        <div class="diff reveal"><div class="bar"></div><div><h4>Both sides lie</h4><p>The serpent exaggerates the rule. The woman corrects it — but quietly changes the original command too. We keep both visible.</p></div></div>
+        <div class="diff reveal"><div class="bar"></div><div><h4>You can see the seams</h4><p>Every word in italics was added to make English work. You always know what is original and what is scaffolding.</p></div></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="light pad" id="read" style="background:var(--paper-2)">
+    <div class="wrap" style="text-align:center">
+      <p class="kicker reveal">How it works</p>
+      <h2 class="reveal" style="margin-inline:auto;max-width:16ch">Three ways to read</h2>
+    </div>
+    <div class="wrap">
+      <div class="doors">
+        <div class="door reveal"><div class="idx">01 — Read</div><div class="dt serif">Reading</div><p>Get the full story as flowing prose on a clean page. No footnotes, no interruptions. Just you and the text.</p></div>
+        <div class="door reveal"><div class="idx">02 — Notes</div><div class="dt serif">Study</div><p>Get the Hebrew behind every word, see where we made choices, and find out why. Verse by verse, color-coded.</p></div>
+        <div class="door reveal"><div class="idx">03 — Deeper</div><div class="dt serif">Deeper</div><p>Historical and linguistic background, prophecy readings, and the people behind the text — each labeled by claim type and confidence.</p></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="light pad" style="background:var(--paper-3)">
+    <div class="wrap" style="text-align:center">
+      <p class="kicker reveal">Who is this for?</p>
+      <div class="who-list">
+        <p class="reveal">You <span>believe</span> — and you want to meet the text as it was actually written, before centuries of translation smoothed it over.</p>
+        <p class="reveal">You <span>doubt</span>, or follow another path entirely — and you are willing to be surprised by what the originals actually say.</p>
+        <p class="reveal">You <span>study</span> these texts and want a translation that shows its work: every choice visible, every uncertainty admitted.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="scope pad" id="scope">
+    <div class="wrap inner">
+      <p class="kicker reveal">What this is</p>
+      <h2 class="serif reveal">Every translation makes choices.<br>Most <em>hide</em> them.</h2>
+      <p class="reveal">This one shows you exactly where — in English, Portuguese, German, and Spanish. It is not a devotional. It is not a replacement for scholarly editions. It is a disciplined attempt to let you see what is actually there.</p>
+      <p class="not reveal">When we don’t know something, we say so. When scholars disagree, we show you both sides.</p>
+      <div class="reveal" style="margin-top:40px"><a class="btn btn-pri" href="#">Start reading <span class="arr">→</span></a></div>
+    </div>
+  </section>
+
+  <footer>
+    <div>The Transparent Translation</div>
+    <div class="badge">Redesign · Concept 4 — Waters</div>
+  </footer>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/ScrollTrigger.min.js"></script>
+<script>
+const REDUCED = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+/* water surface + hovering light shader */
+(function(){
+  const canvas=document.getElementById('gl');if(!window.THREE||!canvas)return;
+  const renderer=new THREE.WebGLRenderer({canvas,antialias:false,alpha:false});
+  renderer.setPixelRatio(Math.min(window.devicePixelRatio,1.6));
+  const scene=new THREE.Scene();const cam=new THREE.OrthographicCamera(-1,1,1,-1,0,1);
+  const uni={u_time:{value:0},u_res:{value:new THREE.Vector2(1,1)},u_mouse:{value:new THREE.Vector2(.5,.62)}};
+  const mat=new THREE.ShaderMaterial({uniforms:uni,
+    vertexShader:`void main(){gl_Position=vec4(position,1.0);}`,
+    fragmentShader:`
+      precision highp float;
+      uniform float u_time;uniform vec2 u_res;uniform vec2 u_mouse;
+      float hash(vec2 p){return fract(sin(dot(p,vec2(127.1,311.7)))*43758.5453);}
+      float noise(vec2 p){vec2 i=floor(p),f=fract(p);vec2 u=f*f*(3.0-2.0*f);
+        return mix(mix(hash(i),hash(i+vec2(1,0)),u.x),mix(hash(i+vec2(0,1)),hash(i+vec2(1,1)),u.x),u.y);}
+      float fbm(vec2 p){float v=0.0,a=0.5;mat2 m=mat2(1.6,1.2,-1.2,1.6);
+        for(int i=0;i<5;i++){v+=a*noise(p);p=m*p;a*=0.5;}return v;}
+      void main(){
+        vec2 uv=gl_FragCoord.xy/u_res;
+        vec2 p=uv;p.x*=u_res.x/u_res.y;
+        float t=u_time*0.06;
+        // moving water ripples
+        vec2 q=vec2(fbm(p*3.0+t),fbm(p*3.0-t+5.2));
+        float w=fbm(p*4.0+q*1.6+vec2(t*1.5,-t));
+        // depth gradient (darker at bottom)
+        vec3 deep=vec3(0.016,0.07,0.085);
+        vec3 mid=vec3(0.04,0.18,0.21);
+        vec3 col=mix(deep,mid,smoothstep(0.0,1.0,uv.y*0.7+w*0.4));
+        // shimmer highlights
+        float shim=smoothstep(0.62,0.78,w);
+        col+=vec3(0.18,0.55,0.62)*shim*0.5;
+        // hovering light above the waters (ruach)
+        vec2 m=u_mouse;m.x*=u_res.x/u_res.y;
+        float dl=distance(p,m);
+        float glow=smoothstep(0.6,0.0,dl);
+        col+=vec3(0.45,0.85,0.9)*glow*0.22;
+        // its reflection trailing on the surface
+        float refl=smoothstep(0.5,0.0,abs(p.x-m.x))*smoothstep(0.0,0.5,m.y-uv.y)*0.12*(0.6+0.4*w);
+        col+=vec3(0.3,0.7,0.78)*refl;
+        gl_FragColor=vec4(col,1.0);
+      }`});
+  scene.add(new THREE.Mesh(new THREE.PlaneGeometry(2,2),mat));
+  function resize(){const w=canvas.clientWidth,h=canvas.clientHeight;renderer.setSize(w,h,false);uni.u_res.value.set(w*renderer.getPixelRatio(),h*renderer.getPixelRatio());}
+  new ResizeObserver(resize).observe(canvas);resize();
+  const tgt={x:.5,y:.62};
+  window.addEventListener('pointermove',e=>{tgt.x=e.clientX/window.innerWidth;tgt.y=1-e.clientY/window.innerHeight;});
+  let raf;function loop(){raf=requestAnimationFrame(loop);uni.u_time.value+=0.016;
+    uni.u_mouse.value.x+=(tgt.x-uni.u_mouse.value.x)*0.03;uni.u_mouse.value.y+=(tgt.y-uni.u_mouse.value.y)*0.03;
+    renderer.render(scene,cam);}
+  if(REDUCED){uni.u_time.value=10;renderer.render(scene,cam);}else loop();
+  document.addEventListener('visibilitychange',()=>{if(REDUCED)return;document.hidden?cancelAnimationFrame(raf):loop();});
+})();
+
+if(!REDUCED){
+  gsap.set('[data-h]',{opacity:0,y:24});
+  gsap.to('[data-h]',{opacity:1,y:0,duration:1.05,ease:'power3.out',stagger:.13,delay:.4});
+}
+(function(){if(REDUCED||!window.ScrollTrigger)return;gsap.registerPlugin(ScrollTrigger);
+  gsap.utils.toArray('.reveal').forEach(el=>gsap.to(el,{opacity:1,y:0,duration:.9,ease:'power3.out',scrollTrigger:{trigger:el,start:'top 88%'}}));})();
+</script>
+</body>
+</html>

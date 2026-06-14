@@ -1,0 +1,135 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<title>Redesign Concepts · The Transparent Translation</title>
+<meta name="description" content="Five landing-page directions for the Transparent Translation redesign." />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Geist:wght@300;400;500;600&family=Geist+Mono:wght@400;500&family=Newsreader:ital,opsz,wght@0,6..72,200..600;1,6..72,300..500&display=swap" rel="stylesheet" />
+<style>
+  :root{
+    --paper:#f4eee2;--paper-2:#faf6ed;--ink:#2a2620;--ink-soft:#5a5347;--ink-mute:#8b8474;
+    --accent:#006475;--line:rgba(42,38,32,.14);--ease:cubic-bezier(.22,.61,.36,1);
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{font-family:"Geist",system-ui,sans-serif;background:var(--paper);color:var(--ink);line-height:1.6;-webkit-font-smoothing:antialiased}
+  .serif{font-family:"Newsreader",serif}.mono{font-family:"Geist Mono",monospace}
+  a{color:inherit;text-decoration:none}
+  ::selection{background:var(--accent);color:var(--paper)}
+  .wrap{max-width:1280px;margin-inline:auto;padding-inline:clamp(20px,5vw,56px)}
+
+  header{padding:70px 0 40px}
+  .eyebrow{font-family:"Geist Mono",monospace;font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:var(--accent);margin-bottom:20px}
+  h1{font-family:"Newsreader",serif;font-weight:300;font-size:clamp(2.2rem,5.5vw,4rem);line-height:1.05;letter-spacing:-.02em;max-width:20ch}
+  header p{margin-top:18px;max-width:60ch;color:var(--ink-soft);font-size:1.05rem}
+
+  .grid{display:grid;gap:26px;padding-bottom:90px}
+  @media(min-width:760px){.grid{grid-template-columns:repeat(2,1fr)}}
+  @media(min-width:1100px){.grid{grid-template-columns:repeat(3,1fr)}}
+
+  .card{display:flex;flex-direction:column;border:1px solid var(--line);border-radius:14px;overflow:hidden;background:var(--paper-2);
+    transition:transform .35s var(--ease),box-shadow .35s,border-color .35s}
+  .card:hover{transform:translateY(-8px);box-shadow:0 26px 60px -34px rgba(42,38,32,.55);border-color:var(--accent)}
+  .thumb{aspect-ratio:16/10;position:relative;overflow:hidden;display:flex;align-items:center;justify-content:center;text-align:center;padding:24px}
+  .thumb .heb{position:absolute;font-family:"Newsreader",serif;font-size:9rem;line-height:1;opacity:.12;pointer-events:none}
+  .thumb h3{position:relative;font-family:"Newsreader",serif;font-weight:300;font-size:1.9rem;letter-spacing:-.01em}
+  .thumb .sub{position:relative;font-family:"Geist Mono",monospace;font-size:11px;letter-spacing:.14em;text-transform:uppercase;margin-top:8px;opacity:.8}
+  /* per-concept thumb palettes */
+  .t1{background:radial-gradient(120% 90% at 60% 40%,#13343a,#0a0e10);color:#eafcff}.t1 .heb{color:#2f9fb4}
+  .t2{background:linear-gradient(160deg,#faf6ed,#ece3d2);color:#2a2620}.t2 .heb{color:#006475}
+  .t3{background:#ece6d8;color:#191712}.t3 .heb{color:#006475;opacity:.16}
+  .t4{background:radial-gradient(120% 120% at 50% 10%,#0a2228,#06181c);color:#e9eded}.t4 .heb{color:#3aa7bd}
+  .t5{background:linear-gradient(100deg,#062227 0%,#062227 46%,#ece0c6 54%,#ece0c6 100%);color:#fff;mix-blend-mode:normal}
+  .t5 h3,.t5 .sub{mix-blend-mode:difference;color:#fff}
+
+  .meta{padding:24px 24px 26px;display:flex;flex-direction:column;gap:12px;flex:1}
+  .meta .name{font-weight:600;font-size:1.05rem}
+  .meta .name span{color:var(--ink-mute);font-weight:400}
+  .meta .desc{font-size:14px;color:var(--ink-soft);line-height:1.65;flex:1}
+  .meta .tags{display:flex;flex-wrap:wrap;gap:6px}
+  .tag{font-family:"Geist Mono",monospace;font-size:10.5px;letter-spacing:.04em;text-transform:uppercase;color:var(--accent);border:1px solid var(--line);border-radius:999px;padding:4px 9px}
+  .open{margin-top:6px;display:inline-flex;align-items:center;gap:8px;font-size:13px;font-weight:500;color:var(--accent)}
+  .open .arr{transition:transform .25s var(--ease)}
+  .card:hover .open .arr{transform:translateX(4px)}
+
+  .note{border-top:1px solid var(--line);padding:34px 0 70px;color:var(--ink-mute);font-size:13px;max-width:75ch}
+  .note b{color:var(--ink-soft)}
+  .note code{font-family:"Geist Mono",monospace;font-size:12px;background:rgba(0,100,117,.08);color:var(--accent);padding:2px 6px;border-radius:4px}
+</style>
+</head>
+<body>
+  <div class="wrap">
+    <header>
+      <p class="eyebrow">The Transparent Translation · Redesign</p>
+      <h1 class="serif">Five directions for an awwwards-worthy landing.</h1>
+      <p>Each is a complete, standalone landing page with its own colour world, typography, motion language, and a signature WebGL / GSAP hero rooted in the text’s own imagery — chaos→order, light/darkness, the wind hovering over the waters. Reading pages will stay calm and legible; this spectacle is for the marketing surfaces. Open each, compare, and pick one — then I’ll build out the rest of the site in the winner.</p>
+    </header>
+
+    <a href="site/index.html" style="display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:16px;margin-bottom:40px;padding:22px 26px;border:1px solid var(--accent);border-radius:14px;background:rgba(0,100,117,.06);transition:background .2s">
+      <div>
+        <div class="mono" style="font-size:11px;letter-spacing:.16em;text-transform:uppercase;color:var(--accent);margin-bottom:6px">★ Selected direction · built out</div>
+        <div class="serif" style="font-size:1.5rem">Concept 5 — Light &amp; Darkness · the full 11-page site</div>
+        <div style="color:var(--ink-soft);font-size:14px;margin-top:4px">Landing · Start · Rules · Books · Genesis (hub, introduction, people, background) · Chapter 1 (Read · Notes · Deeper)</div>
+      </div>
+      <span class="serif" style="color:var(--accent);font-size:1.2rem;white-space:nowrap">Open the site →</span>
+    </a>
+
+    <p class="mono" style="font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--ink-mute);margin-bottom:18px">The original five exploration concepts</p>
+    <section class="grid">
+      <a class="card" href="concept-1-genesis/index.html">
+        <div class="thumb t1"><span class="heb">בְּרֵאשִׁית</span><div><h3>Genesis</h3><div class="sub">Cinematic dark → light</div></div></div>
+        <div class="meta">
+          <div class="name">01 — Genesis <span>· cinematic</span></div>
+          <div class="desc">Deep ink cosmos. Three.js GPU particles begin as formless chaos (<em>tohu va-vohu</em>) and resolve into an ordered dome behind a luminous serif title. Scrolls into warm light.</div>
+          <div class="tags"><span class="tag">Three.js particles</span><span class="tag">GSAP</span><span class="tag">dark→light</span></div>
+          <span class="open">Open concept <span class="arr">→</span></span>
+        </div>
+      </a>
+
+      <a class="card" href="concept-2-codex/index.html">
+        <div class="thumb t2"><span class="heb">א</span><div><h3>Codex</h3><div class="sub">Luminous editorial</div></div></div>
+        <div class="meta">
+          <div class="name">02 — Codex <span>· editorial</span></div>
+          <div class="desc">Warm paper, gallery-grade. Oversized Newsreader rises line by line; a subtle WebGL light + film-grain shader sits behind; the ambiguity slashes (<em>wind/spirit</em>) pulse in petrol.</div>
+          <div class="tags"><span class="tag">WebGL grain</span><span class="tag">kinetic type</span><span class="tag">light</span></div>
+          <span class="open">Open concept <span class="arr">→</span></span>
+        </div>
+      </a>
+
+      <a class="card" href="concept-3-kinetic/index.html">
+        <div class="thumb t3"><span class="heb">בְּרֵאשִׁית</span><div><h3>Kinetic Scripture</h3><div class="sub">Experimental typographic</div></div></div>
+        <div class="meta">
+          <div class="name">03 — Kinetic Scripture <span>· experimental</span></div>
+          <div class="desc">Type-as-art. A giant Hebrew בְּרֵאשִׁית anchors the hero; English headline shatters into kinetic characters; a slash-pair marquee runs the seam. Bold swiss grid, hard rules.</div>
+          <div class="tags"><span class="tag">GSAP split-text</span><span class="tag">marquee</span><span class="tag">high-contrast</span></div>
+          <span class="open">Open concept <span class="arr">→</span></span>
+        </div>
+      </a>
+
+      <a class="card" href="concept-4-waters/index.html">
+        <div class="thumb t4"><span class="heb">מַיִם</span><div><h3>Waters</h3><div class="sub">Atmospheric ambient</div></div></div>
+        <div class="meta">
+          <div class="name">04 — Waters <span>· ambient</span></div>
+          <div class="desc">Calm and meditative. A live water shader ripples in deep petrol while a light “hovers over the face of the waters” (Gen 1:2) and follows your pointer. Premium, slow, immersive.</div>
+          <div class="tags"><span class="tag">Three.js shader</span><span class="tag">pointer-reactive</span><span class="tag">dark</span></div>
+          <span class="open">Open concept <span class="arr">→</span></span>
+        </div>
+      </a>
+
+      <a class="card" href="concept-5-lightdark/index.html">
+        <div class="thumb t5"><div><h3>Light &amp; Darkness</h3><div class="sub">Bold duotone</div></div></div>
+        <div class="meta">
+          <div class="name">05 — Light &amp; Darkness <span>· duotone</span></div>
+          <div class="desc">A shader separation field (Gen 1:4) divides light from darkness, drifting with cursor and scroll; the headline inverts across the seam via blend-mode. Swiss grid, big numerals.</div>
+          <div class="tags"><span class="tag">Three.js shader</span><span class="tag">blend-mode</span><span class="tag">duotone</span></div>
+          <span class="open">Open concept <span class="arr">→</span></span>
+        </div>
+      </a>
+    </section>
+
+    <p class="note"><b>How to view:</b> serve this folder over a local server so the CDN libraries and shaders load cleanly — e.g. <code>cd docs/redesign &amp;&amp; python3 -m http.server 8848</code>, then open <code>http://localhost:8848/</code>. All concepts are mobile-first, responsive across phone / tablet / desktop, and honour <code>prefers-reduced-motion</code> (animation pauses to a static composition). Copy is the live EN brand copy.</p>
+  </div>
+</body>
+</html>
