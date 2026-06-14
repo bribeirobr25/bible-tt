@@ -34,6 +34,17 @@ export interface LabelMaps {
   confidence: Record<ConfidenceLevel, string>;
 }
 
+// Mirror ClaimBadge's confidence colors so the introduction chips render
+// identically to the Deeper dual-label chips (dual-label unification).
+const CONFIDENCE_BADGE_COLORS: Record<ConfidenceLevel, string> = {
+  VERIFIED: "bg-note-lexical/15 text-note-lexical",
+  PROBABLE: "bg-note-lexical/10 text-note-lexical",
+  POSSIBLE: "bg-note-theological/10 text-note-theological",
+  UNCERTAIN: "bg-note-critical/10 text-note-critical",
+  SPECULATIVE: "bg-note-critical/15 text-note-critical",
+  DOCUMENTED: "bg-note-grammatical/15 text-note-grammatical",
+};
+
 interface IntroductionViewProps {
   data: IntroductionData;
   sectionLabels: Record<string, string>;
@@ -54,7 +65,12 @@ function IntroductionEntry({
         <span className="text-xs font-bold uppercase tracking-wider text-text-muted font-[family-name:var(--font-mono)]">
           {labelMaps.claimTypes[entry.claimType] || entry.claimType}
         </span>
-        <span className="text-xs font-semibold uppercase px-1.5 py-0.5 rounded bg-bg-surface text-text-secondary">
+        <span
+          className={`text-xs font-semibold uppercase px-1.5 py-0.5 rounded ${
+            CONFIDENCE_BADGE_COLORS[entry.confidence] ||
+            CONFIDENCE_BADGE_COLORS.POSSIBLE
+          }`}
+        >
           {labelMaps.confidence[entry.confidence] || entry.confidence}
         </span>
       </div>

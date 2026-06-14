@@ -40,6 +40,13 @@ Each phase ends green (test · build · lint · content:lint) + per-locale visua
   context-view §I scenarios) already inherit the P0 palette — verified, no further change needed.
   Invariants held (only chapter-shell + note-block). Gate green (841 · 284 · lint); Read/Notes/Deeper
   verified in-browser (seam, status pill, colored notes, verse anchors, dual-label chips; no errors).
+- **P3 — Study/aux (2026-06-14, done).** `introduction-view.tsx`: confidence chip now colored by
+  level (mirrors `ClaimBadge` → dual-label unified across intro + Deeper). People (`people-timeline`
+  SVG already uses token CSS vars → auto-retuned; 24 person cards), Background (`book-context-view`),
+  Prophecy (`prophecy-view`), `confidence-indicator`, `context-view` §I scenarios — all confirmed
+  token-based, no hardcoded colors → on-palette with no further change. Invariants held (only
+  introduction-view). Gate green (841 · 284 · lint); people/intro/prophecy verified in-browser, no
+  console errors.
 
 ## Completed phases & bundles (chronological by closure)
 
