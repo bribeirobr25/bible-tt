@@ -5,22 +5,33 @@ import { GlossaryPanel } from "@/ui/study/glossary-panel";
 import { SupplementaryPanel } from "@/ui/study/supplementary-section";
 import { VerseCard } from "@/ui/study/verse-card";
 
+const CHIPS = [
+  { key: "critical", color: "var(--color-note-critical)" },
+  { key: "lexical", color: "var(--color-note-lexical)" },
+  { key: "grammatical", color: "var(--color-note-grammatical)" },
+  { key: "theological", color: "var(--color-note-theological)" },
+] as const;
+
 /**
- * Phase 3 — the "Notes" door (formerly the Study mode). Reading guide, glossary,
- * supplementary sections, then verse-by-verse cards with deep-linkable anchors.
+ * Phase 3 — the "Notes" door. Prototype flow: note-type legend → verse-by-verse
+ * cards (deep-linkable anchors) → glossary → supplementary patterns. An optional
+ * reading guide stays at the top as a disclosure.
  */
 export async function NotesView({ data }: { data: ChapterData }) {
   const t = await getTranslations();
 
   return (
-    <div className="space-y-0">
+    <div>
       {data.readingGuide && (
-        <details className="mb-6 border border-border rounded-lg">
-          <summary className="px-4 py-3 cursor-pointer text-sm font-medium text-text-secondary hover:text-text-primary transition-colors duration-150 rounded-lg">
-            {t("nav.readingGuide")}
+        <details className="tt-details max-w-[46rem] mx-auto">
+          <summary>
+            <span>{t("nav.readingGuide")}</span>
+            <span className="chev" aria-hidden="true">
+              ›
+            </span>
           </summary>
           <div
-            className="px-4 pb-4 text-sm leading-relaxed text-text-primary"
+            className="body text-text-primary"
             dangerouslySetInnerHTML={{
               __html: renderMarkdownSafe(data.readingGuide, "note"),
             }}
@@ -28,26 +39,40 @@ export async function NotesView({ data }: { data: ChapterData }) {
         </details>
       )}
 
+      <div className="max-w-[46rem] mx-auto mb-5 flex flex-wrap gap-2.5">
+        {CHIPS.map((c) => (
+          <span
+            key={c.key}
+            className="inline-flex items-center gap-[7px] font-[family-name:var(--font-mono)] text-[10.5px] tracking-[0.06em] uppercase border border-border rounded-full px-2.5 py-1 text-text-muted"
+          >
+            <span
+              className="w-[7px] h-[7px] rounded-full"
+              style={{ background: c.color }}
+              aria-hidden="true"
+            />
+            {t(`notes.${c.key}`)}
+          </span>
+        ))}
+      </div>
+
+      <div className="verses max-w-[46rem] mx-auto">
+        {data.verses.map((verse) => (
+          <VerseCard key={`v-${verse.number}`} verse={verse} />
+        ))}
+      </div>
+
       {data.glossary.length > 0 && (
-        <div className="mb-6">
-          <details className="border border-border rounded-lg">
-            <summary className="px-4 py-3 cursor-pointer text-sm font-semibold uppercase tracking-wider text-text-secondary hover:text-accent transition-colors duration-150 select-none focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2 rounded-lg">
-              {t("glossary.title")}
-            </summary>
-            <div className="px-4 pb-4">
-              <GlossaryPanel entries={data.glossary} />
-            </div>
-          </details>
-        </div>
+        <section className="max-w-[46rem] mx-auto mt-[60px]">
+          <p className="tt-kick">{t("glossary.title")}</p>
+          <GlossaryPanel entries={data.glossary} />
+        </section>
       )}
 
       {data.supplementarySections.length > 0 && (
-        <SupplementaryPanel sections={data.supplementarySections} />
+        <section className="max-w-[46rem] mx-auto mt-[60px]">
+          <SupplementaryPanel sections={data.supplementarySections} />
+        </section>
       )}
-
-      {data.verses.map((verse) => (
-        <VerseCard key={`v-${verse.number}`} verse={verse} />
-      ))}
     </div>
   );
 }

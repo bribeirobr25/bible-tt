@@ -1,6 +1,5 @@
 "use client";
 
-import { Users } from "lucide-react";
 import { useTranslations } from "next-intl";
 import { useRef, useState } from "react";
 import type { EnrichmentData, ProphecyData } from "@/domain/content/types";
@@ -77,11 +76,8 @@ export function DeeperView({
 
   return (
     <div className="space-y-8">
-      {isTabbed && (
-        <div
-          className="flex gap-1 bg-bg-muted rounded-lg p-1 w-fit max-w-full overflow-x-auto"
-          role="tablist"
-        >
+      {tabs.length > 0 && (
+        <div className="tt-subtabs" role="tablist">
           {tabs.map(({ key, label }, i) => (
             <button
               key={key}
@@ -93,18 +89,19 @@ export function DeeperView({
               }}
               aria-selected={active === key}
               aria-controls={`deeper-panel-${key}`}
-              tabIndex={active === key ? 0 : -1}
+              tabIndex={isTabbed ? (active === key ? 0 : -1) : undefined}
               onClick={() => setActive(key)}
               onKeyDown={(e) => onTabKeyDown(e, i)}
-              className={`min-h-11 px-4 py-2.5 text-sm font-medium rounded-md transition-all duration-200 focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2 active:scale-95 ${
-                active === key
-                  ? "bg-bg-paper text-text-primary shadow-sm"
-                  : "text-text-secondary hover:text-text-primary hover:bg-bg-paper/50"
-              }`}
+              className="focus-visible:outline-2 focus-visible:outline-accent focus-visible:outline-offset-2"
             >
               {label}
             </button>
           ))}
+          {hasPeople && (
+            <Link href={`/${book}/people`} className="tablink">
+              {t("people.title")} ↗
+            </Link>
+          )}
         </div>
       )}
 
@@ -119,24 +116,6 @@ export function DeeperView({
       {hasProphecy && prophecy && (
         <div {...panelProps("prophecy")}>
           <ProphecyView data={prophecy} />
-        </div>
-      )}
-
-      {hasPeople && (
-        <div className="max-w-3xl mx-auto pt-4 border-t border-border-muted">
-          <Link
-            href={`/${book}/people`}
-            className="flex items-center gap-3 min-h-11 px-4 py-3 rounded-lg border border-border hover:border-accent/40 hover:bg-bg-surface transition-colors duration-200 focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2"
-          >
-            <Users
-              size={18}
-              strokeWidth={1.5}
-              className="text-text-muted shrink-0"
-            />
-            <span className="font-[family-name:var(--font-ui)] text-sm font-medium text-text-primary">
-              {t("people.title")}
-            </span>
-          </Link>
         </div>
       )}
     </div>

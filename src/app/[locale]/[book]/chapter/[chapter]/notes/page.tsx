@@ -15,6 +15,7 @@ import {
   seoMetadata,
   truncateDescription,
 } from "@/lib/seo";
+import { DoorPager } from "@/ui/navigation/door-pager";
 import { ChapterShell } from "@/ui/shared/chapter-shell";
 import { JsonLd } from "@/ui/shared/json-ld";
 import { NotesView } from "@/ui/study/notes-view";
@@ -94,6 +95,22 @@ export default async function ChapterNotesPage({
         data={data}
         active="notes"
         hasDeeper={hasDeeper}
+        pager={
+          <DoorPager
+            left={{
+              href: `/${book}/chapter/${chapterNum}`,
+              label: t("nav.doorRead"),
+            }}
+            right={
+              hasDeeper
+                ? {
+                    href: `/${book}/chapter/${chapterNum}/deeper`,
+                    label: t("nav.doorDeeper"),
+                  }
+                : undefined
+            }
+          />
+        }
       >
         <NotesView data={data} />
       </ChapterShell>

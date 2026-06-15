@@ -18,6 +18,7 @@ import {
   truncateDescription,
 } from "@/lib/seo";
 import { DeeperView } from "@/ui/enrichment/deeper-view";
+import { DoorPager } from "@/ui/navigation/door-pager";
 import { ChapterShell } from "@/ui/shared/chapter-shell";
 import { JsonLd } from "@/ui/shared/json-ld";
 
@@ -111,6 +112,15 @@ export default async function ChapterDeeperPage({
         data={data}
         active="deeper"
         hasDeeper={true}
+        pager={
+          <DoorPager
+            left={{
+              href: `/${book}/chapter/${chapterNum}`,
+              label: t("nav.doorRead"),
+            }}
+            right={{ href: `/${book}/background`, label: t("nav.bookContext") }}
+          />
+        }
       >
         <DeeperView
           enrichment={enrichment}

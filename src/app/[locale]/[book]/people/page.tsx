@@ -1,4 +1,3 @@
-import { ChevronLeft } from "lucide-react";
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { getTranslations, setRequestLocale } from "next-intl/server";
@@ -173,7 +172,7 @@ export default async function PeoplePage({
   );
 
   return (
-    <main className="min-h-screen flex flex-col items-center px-6 py-12">
+    <>
       <JsonLd
         data={breadcrumbJsonLd([
           { name: t("site.title"), url: canonicalUrl(locale, "") },
@@ -185,54 +184,72 @@ export default async function PeoplePage({
           },
         ])}
       />
-      <div className="max-w-3xl w-full space-y-8">
-        <div>
-          <Link
-            href={`/${book}`}
-            className="inline-flex items-center gap-1 text-sm text-text-muted hover:text-accent transition-colors duration-150 mb-4"
-          >
-            <ChevronLeft size={14} strokeWidth={1.5} />
-            {t(`book.${book}`)}
-          </Link>
-          <h1 className="font-[family-name:var(--font-reading)] text-2xl md:text-3xl font-light">
-            {t("people.title")}
-          </h1>
-          <p className="text-sm text-text-muted mt-2">
-            {t(`book.${book}`)} — {people.entries.length} {t("people.entries")}
-          </p>
+      <div className="tt-chapter-head max-w-[1320px] mx-auto px-[clamp(18px,4vw,52px)]">
+        <nav className="tt-crumb" aria-label="Breadcrumb">
+          <Link href="/">{t("nav.home")}</Link>
+          <span className="sep">/</span>
+          <Link href={`/${book}`}>{t(`book.${book}`)}</Link>
+          <span className="sep">/</span>
+          <span>{t("people.title")}</span>
+        </nav>
+        <div className="tt-title-row">
+          <div>
+            <div className="tt-ref">
+              {t(`book.${book}`)} · {people.entries.length}{" "}
+              {t("people.entries")}
+            </div>
+            <h1 className="tt-chapter-title">{t("people.title")}</h1>
+          </div>
+          <span className="tt-status-pill">
+            <span className="dot" aria-hidden="true" />
+            {t("people.provisional")}
+          </span>
         </div>
-
-        <PeopleTimeline
-          entries={sorted}
-          title={t("people.timeline")}
-          captionCreation={t("people.timelineCaptionCreation")}
-          captionHistorical={t("people.timelineCaptionHistorical")}
-        />
-
-        <div className="space-y-2">
-          {items.map((item) =>
-            item.kind === "person" ? (
-              <PersonCard
-                key={item.person.slug}
-                person={item.person}
-                labels={labels}
-                locale={locale}
-                bookLabels={bookLabels}
-              />
-            ) : (
-              <div key={item.key} className="flex items-center gap-3 py-2 my-2">
-                <span className="h-px flex-1 bg-border" />
-                {item.label ? (
-                  <span className="text-xs uppercase tracking-wider text-text-muted font-[family-name:var(--font-mono)]">
-                    {item.label}
-                  </span>
-                ) : null}
-                <span className="h-px flex-1 bg-border" />
-              </div>
-            ),
-          )}
-        </div>
+        <hr className="tt-seam mt-[26px]" />
       </div>
-    </main>
+      <main
+        className="max-w-[1320px] mx-auto px-[clamp(18px,4vw,52px)]"
+        style={{
+          paddingTop: "clamp(36px,6vh,64px)",
+          paddingBottom: "clamp(48px,8vh,90px)",
+        }}
+      >
+        <div className="space-y-8">
+          <PeopleTimeline
+            entries={sorted}
+            title={t("people.timeline")}
+            captionCreation={t("people.timelineCaptionCreation")}
+            captionHistorical={t("people.timelineCaptionHistorical")}
+          />
+
+          <div className="space-y-2">
+            {items.map((item) =>
+              item.kind === "person" ? (
+                <PersonCard
+                  key={item.person.slug}
+                  person={item.person}
+                  labels={labels}
+                  locale={locale}
+                  bookLabels={bookLabels}
+                />
+              ) : (
+                <div
+                  key={item.key}
+                  className="flex items-center gap-3 py-2 my-2"
+                >
+                  <span className="h-px flex-1 bg-border" />
+                  {item.label ? (
+                    <span className="text-xs uppercase tracking-wider text-text-muted font-[family-name:var(--font-mono)]">
+                      {item.label}
+                    </span>
+                  ) : null}
+                  <span className="h-px flex-1 bg-border" />
+                </div>
+              ),
+            )}
+          </div>
+        </div>
+      </main>
+    </>
   );
 }

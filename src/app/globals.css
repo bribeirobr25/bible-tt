@@ -519,6 +519,15 @@ html.tt-js .reveal.in {
 .tt-details .body { padding: 0 22px 22px; }
 .tt-details .body p { margin-bottom: 12px; line-height: 1.75; }
 
+/* deeper sub-tabs — underline style (Background | Prophecies | People↗) */
+.tt-subtabs { display: flex; gap: 6px; flex-wrap: wrap; border-bottom: 1px solid var(--color-border); }
+.tt-subtabs button,
+.tt-subtabs .tablink { font-family: var(--font-mono); font-size: 12px; letter-spacing: 0.04em; text-transform: uppercase; padding: 12px 14px; color: var(--color-text-secondary); border-bottom: 2px solid transparent; margin-bottom: -1px; transition: color 0.2s, border-color 0.2s; cursor: pointer; white-space: nowrap; }
+.tt-subtabs button[aria-selected="true"] { color: var(--color-accent); border-color: var(--color-accent); }
+.tt-subtabs button:hover,
+.tt-subtabs .tablink:hover { color: var(--color-accent); }
+.tt-subtabs .tablink { margin-left: auto; }
+
 /* over the dark hero the mark square goes white, but the ochre slash stays so
    the logo reads as the same icon everywhere (prototype parity). */
 .tt-overhero .tt-mark { background: #fff !important; }

@@ -104,6 +104,25 @@ Each phase ends green (test · build · lint · content:lint) + per-locale visua
   match source, full Continuous Reading present; **no loss, no mixing, no mis-reference.** Visually
   spot-checked Genesis 1 Notes in EN/DE/ES (right verse, right place, right language, italics
   preserved).
+- **Reading + people pages pixel-match — chapter/notes/deeper/people (2026-06-15).** Reworked the
+  content-page chrome + bodies to the prototype templates across all 4 locales. **Logo:** over-hero
+  header no longer whitens the mark's ochre slash (consistent icon everywhere). **Sub-heroes:**
+  MarketingHero centered (shrink-to-content `w-fit`, matching the prototype flex wrap) so rules/start/
+  books heroes sit centered. **AppBar:** shows the prototype top-nav on every page (Books · {book|Start
+  here} · How we translate · Start reading) — dropped the in-header breadcrumb (now lives in the page
+  head); contextual book-hub link on book pages. **ChapterShell:** rebuilt to the prototype chapter-head
+  (crumb · ref + serif title + short status pill w/ dot · segmented 3-door pill · gradient seam), overview
+  as a styled disclosure (Read only), optional door-aware pager slot; dropped the share button + metadata
+  panel (absent from template). **DoorNav:** single segmented pill (disabled Deeper when absent).
+  **Pagers:** prototype `.tt-pager` — Read → next chapter; Notes → ←Read | →Deeper; Deeper → ←Read |
+  →Background (`DoorPager`). **Reading:** superscript verse numbers colored (sup.verse-num teal).
+  **Notes body:** note-type legend chips → verse cards → glossary → supplementary (prototype order).
+  **Deeper:** underline sub-tabs (Background | Prophecies | People↗). **People:** chapter-head head
+  (crumb/ref/title/pill/seam) + wrap-width body (timeline + profiles). New CSS: tt-crumb/chapter-head/
+  title/ref/status-pill/doornav/pager/details/subtabs + seam gradient. New i18n: chapter.notesRef/
+  deeperRef, people.provisional (4 locales). Validated chapter/notes/deeper/people in EN+PT+DE+ES +
+  mobile via Docker-MCP (chrome translates, pagers, subtabs, no console errors). Bible **content/
+  parsers/loader untouched** — only presentation. Gate green (841 · build · lint · content:lint · parity).
 - **Marketing pages pixel-match — rules/start/books (2026-06-15).** Rebuilt the three marketing
   pages to match their prototype templates (`docs/redesign/site/{rules,start,books}.html`) across all 4
   locales. New shared `MarketingHero` (shorter WebGL separation-field sub-hero, bottom-aligned, blended
