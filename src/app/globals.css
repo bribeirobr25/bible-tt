@@ -45,12 +45,6 @@
   --color-note-grammatical: oklch(0.502 0.069 236); /* #3a6a86 */
   --color-note-theological: oklch(0.643 0.110 80);  /* #b08534 */
 
-  /* Note type backgrounds (very light tints) */
-  --color-note-critical-bg: oklch(0.96 0.03 35);
-  --color-note-lexical-bg: oklch(0.96 0.02 150);
-  --color-note-grammatical-bg: oklch(0.96 0.02 236);
-  --color-note-theological-bg: oklch(0.96 0.03 80);
-
   /* Confidence dot colors (dual-label) */
   --color-conf-verified: oklch(0.58 0.10 160);
   --color-conf-documented: oklch(0.50 0.07 236);

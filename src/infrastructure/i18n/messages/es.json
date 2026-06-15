@@ -24,11 +24,9 @@
     "chapters": "Capítulos",
     "books": "Libros",
     "selectBook": "Seleccionar un libro",
-    "selectChapter": "Seleccionar un capítulo",
     "chapterOverview": "Visión General del Capítulo",
     "readingGuide": "Guía de Lectura",
     "prophecyMode": "Profecías",
-    "share": "Compartir",
     "readingProgress": "Progreso de lectura",
     "bookContext": "Panorama",
     "bookContextDescription": "Una vista panorámica de los temas académicos, históricos y textuales más significativos de todos los capítulos.",
@@ -55,9 +53,6 @@
   "chapter": {
     "prev": "Capítulo anterior",
     "next": "Siguiente capítulo",
-    "notFound": "Este capítulo aún no ha sido traducido.",
-    "reading": "Lectura Continua",
-    "study": "Estudio Verso a Verso",
     "chapterN": "Capítulo {n}",
     "notesRef": "Estudio verso a verso",
     "deeperRef": "Contexto y enriquecimiento",
@@ -76,19 +71,7 @@
     "seeAlso": "Ver también"
   },
   "glossary": {
-    "title": "Glosario",
-    "sourceWord": "Origen",
-    "translation": "Traducción",
-    "notes": "Notas"
-  },
-  "metadata": {
-    "edition": "Edición",
-    "status": "Estado",
-    "baseText": "Texto Base",
-    "methodology": "Metodología",
-    "showDetails": "Mostrar detalles",
-    "hideDetails": "Ocultar detalles",
-    "divineNameLabel": "Política del Nombre Divino"
+    "title": "Glosario"
   },
   "book": {
     "genesis": "Génesis",
@@ -116,29 +99,9 @@
   "enrichment": {
     "source": "Fuente: {source}",
     "emptyContext": "Aún no hay material de estudio contextual disponible para este capítulo.",
-    "contextDisclaimer": "Este material complementario ofrece contenido contextual y comparativo para estudio. No redefine, amplía ni controla la traducción principal. Todas las entradas están clasificadas por tipo y grado de certeza.",
-    "legendEstablished": "bien establecido",
-    "legendPossible": "posible",
-    "legendUncertain": "incierto",
-    "introSourceText": "Leer este capítulo de forma transparente — sin el pulido que la mayoría de las traducciones aplican — revela características del texto fuente que normalmente permanecen invisibles.",
-    "introAneParallels": "El mundo que produjo este texto no estaba vacío de otras historias. Las culturas vecinas contaban sus propios relatos de cómo comenzó todo.",
-    "introHistorical": "¿Qué sabemos realmente sobre el mundo que este texto describe?",
-    "introLinguistic": "Las propias palabras hebreas contienen capas que la traducción inevitablemente comprime.",
-    "introScientific": "La ciencia moderna describe el mundo natural de manera muy diferente a este texto antiguo. Ninguno valida ni invalida al otro — responden a preguntas diferentes.",
-    "introReception": "Este texto ha sido leído durante miles de años. Diferentes comunidades han escuchado cosas diferentes en él.",
-    "introCuriosities": "Algunas cosas en el texto son simplemente llamativas — no porque demuestren algo, sino porque hacen detenerse a pensar.",
-    "introWorldAtTheTime": "¿Qué estaba pasando en el mundo cuando se escribió este texto? Política, comercio, vida cotidiana, guerras, arte, filosofía — el contexto más allá del texto mismo.",
-    "hedgeStartProbable": "La mayoría de los estudiosos coinciden en que ",
-    "hedgeStartPossible": "Una lectura posible sugiere que ",
-    "hedgeStartUncertain": "El significado aquí es genuinamente incierto, pero ",
-    "hedgeStartSpeculative": "Algunos se han preguntado si ",
-    "hedgeMidProbable": "Esto está ampliamente aceptado. ",
-    "hedgeMidPossible": "Esta es una lectura entre otras. ",
-    "hedgeMidUncertain": "Esto sigue siendo genuinamente debatido. ",
-    "hedgeMidSpeculative": "Esto es especulativo. "
+    "contextDisclaimer": "Este material complementario ofrece contenido contextual y comparativo para estudio. No redefine, amplía ni controla la traducción principal. Todas las entradas están clasificadas por tipo y grado de certeza."
   },
   "prophecy": {
-    "title": "Profecías",
     "disclaimer": "Las entradas de profecía presentan lo que el texto dice, cómo las tradiciones lo leen y la evaluación académica del cumplimiento. El lector saca conclusiones; la entrada no.",
     "fulfillment": {
       "fulfilled": "Cumplida",
@@ -151,10 +114,7 @@
     "fields": {
       "textSays": "Lo que dice el texto",
       "context": "Contexto",
-      "subject": "Sujeto",
-      "readings": "Lecturas tradicionales",
-      "status": "Estado de cumplimiento",
-      "scholarlyNote": "Nota académica"
+      "readings": "Lecturas tradicionales"
     }
   },
   "people": {

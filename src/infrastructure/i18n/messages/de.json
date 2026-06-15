@@ -24,11 +24,9 @@
     "chapters": "Kapitel",
     "books": "Bücher",
     "selectBook": "Buch wählen",
-    "selectChapter": "Kapitel wählen",
     "chapterOverview": "Kapitelübersicht",
     "readingGuide": "Leseanleitung",
     "prophecyMode": "Prophetien",
-    "share": "Teilen",
     "readingProgress": "Lesefortschritt",
     "bookContext": "Hintergrund",
     "bookContextDescription": "Ein panoramischer Überblick über die bedeutendsten wissenschaftlichen, historischen und textuellen Themen aller Kapitel.",
@@ -55,9 +53,6 @@
   "chapter": {
     "prev": "Vorheriges Kapitel",
     "next": "Nächstes Kapitel",
-    "notFound": "Dieses Kapitel wurde noch nicht übersetzt.",
-    "reading": "Fortlaufende Lesung",
-    "study": "Vers-für-Vers-Studie",
     "chapterN": "Kapitel {n}",
     "notesRef": "Vers-für-Vers-Studie",
     "deeperRef": "Hintergrund & Vertiefung",
@@ -76,19 +71,7 @@
     "seeAlso": "Siehe auch"
   },
   "glossary": {
-    "title": "Glossar",
-    "sourceWord": "Quelle",
-    "translation": "Übersetzung",
-    "notes": "Notizen"
-  },
-  "metadata": {
-    "edition": "Ausgabe",
-    "status": "Status",
-    "baseText": "Grundtext",
-    "methodology": "Methodik",
-    "showDetails": "Details anzeigen",
-    "hideDetails": "Details ausblenden",
-    "divineNameLabel": "Politik des göttlichen Namens"
+    "title": "Glossar"
   },
   "book": {
     "genesis": "Genesis",
@@ -116,29 +99,9 @@
   "enrichment": {
     "source": "Quelle: {source}",
     "emptyContext": "Für dieses Kapitel ist noch kein kontextuelles Studienmaterial verfügbar.",
-    "contextDisclaimer": "Dieses Begleitmaterial bietet kontextuelles und vergleichendes Studienmaterial. Es definiert die Hauptübersetzung weder um noch erweitert oder steuert sie. Alle Einträge sind nach Typ und Sicherheitsgrad gekennzeichnet.",
-    "legendEstablished": "gut belegt",
-    "legendPossible": "möglich",
-    "legendUncertain": "unsicher",
-    "introSourceText": "Dieses Kapitel transparent zu lesen — ohne die Glättung, die die meisten Übersetzungen vornehmen — offenbart Merkmale des Quelltextes, die normalerweise unsichtbar bleiben.",
-    "introAneParallels": "Die Welt, die diesen Text hervorbrachte, war nicht frei von anderen Erzählungen. Benachbarte Kulturen erzählten ihre eigenen Berichte darüber, wie alles begann.",
-    "introHistorical": "Was wissen wir tatsächlich über die Welt, die dieser Text beschreibt?",
-    "introLinguistic": "Die hebräischen Wörter selbst tragen Schichten, die eine Übersetzung unweigerlich komprimiert.",
-    "introScientific": "Die moderne Wissenschaft beschreibt die natürliche Welt ganz anders als dieser antike Text. Keines bestätigt oder widerlegt das andere — sie beantworten unterschiedliche Fragen.",
-    "introReception": "Dieser Text wird seit Tausenden von Jahren gelesen. Verschiedene Gemeinschaften haben Verschiedenes darin gehört.",
-    "introCuriosities": "Manches im Text ist einfach auffällig — nicht weil es etwas beweist, sondern weil es zum Innehalten bringt.",
-    "introWorldAtTheTime": "Was geschah in der Welt, als dieser Text geschrieben wurde? Politik, Handel, Alltag, Kriege, Kunst, Philosophie — der Kontext jenseits des Textes selbst.",
-    "hedgeStartProbable": "Die meisten Gelehrten sind sich einig, dass ",
-    "hedgeStartPossible": "Eine mögliche Lesart legt nahe, dass ",
-    "hedgeStartUncertain": "Die Bedeutung hier ist wirklich unklar, aber ",
-    "hedgeStartSpeculative": "Manche haben sich gefragt, ob ",
-    "hedgeMidProbable": "Dies ist weithin anerkannt. ",
-    "hedgeMidPossible": "Dies ist eine Lesart unter anderen. ",
-    "hedgeMidUncertain": "Dies bleibt wirklich umstritten. ",
-    "hedgeMidSpeculative": "Dies ist spekulativ. "
+    "contextDisclaimer": "Dieses Begleitmaterial bietet kontextuelles und vergleichendes Studienmaterial. Es definiert die Hauptübersetzung weder um noch erweitert oder steuert sie. Alle Einträge sind nach Typ und Sicherheitsgrad gekennzeichnet."
   },
   "prophecy": {
-    "title": "Prophetien",
     "disclaimer": "Prophetie-Einträge präsentieren, was der Text sagt, wie Traditionen ihn lesen und die wissenschaftliche Bewertung der Erfüllung. Der Leser zieht Schlüsse; der Eintrag nicht.",
     "fulfillment": {
       "fulfilled": "Erfüllt",
@@ -151,10 +114,7 @@
     "fields": {
       "textSays": "Was der Text sagt",
       "context": "Kontext",
-      "subject": "Gegenstand",
-      "readings": "Traditionelle Lesarten",
-      "status": "Erfüllungsstatus",
-      "scholarlyNote": "Wissenschaftliche Anmerkung"
+      "readings": "Traditionelle Lesarten"
     }
   },
   "people": {

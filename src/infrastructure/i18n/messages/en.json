@@ -24,11 +24,9 @@
     "chapters": "Chapters",
     "books": "Books",
     "selectBook": "Select a book",
-    "selectChapter": "Select a chapter",
     "chapterOverview": "Chapter Overview",
     "readingGuide": "Reading Guide",
     "prophecyMode": "Prophecies",
-    "share": "Share",
     "readingProgress": "Reading progress",
     "bookContext": "Background",
     "bookContextDescription": "A panoramic view of the most significant scholarly, historical, and textual topics across all chapters.",
@@ -55,9 +53,6 @@
   "chapter": {
     "prev": "Previous chapter",
     "next": "Next chapter",
-    "notFound": "This chapter has not been translated yet.",
-    "reading": "Continuous Reading",
-    "study": "Verse-by-Verse Study",
     "chapterN": "Chapter {n}",
     "notesRef": "Verse-by-verse study",
     "deeperRef": "Background & enrichment",
@@ -76,19 +71,7 @@
     "seeAlso": "See also"
   },
   "glossary": {
-    "title": "Glossary",
-    "sourceWord": "Source",
-    "translation": "Translation",
-    "notes": "Notes"
-  },
-  "metadata": {
-    "edition": "Edition",
-    "status": "Status",
-    "baseText": "Base Text",
-    "methodology": "Methodology",
-    "showDetails": "Show details",
-    "hideDetails": "Hide details",
-    "divineNameLabel": "Divine Name Policy"
+    "title": "Glossary"
   },
   "book": {
     "genesis": "Genesis",
@@ -116,29 +99,9 @@
   "enrichment": {
     "source": "Source: {source}",
     "emptyContext": "No contextual study material available for this chapter yet.",
-    "contextDisclaimer": "This companion provides contextual and comparative study material. It does not redefine, expand, or control the main translation. All entries are labeled by type and certainty.",
-    "legendEstablished": "well established",
-    "legendPossible": "possible",
-    "legendUncertain": "uncertain",
-    "introSourceText": "Reading this chapter transparently — without the smoothing most translations apply — reveals features of the source text that are usually invisible.",
-    "introAneParallels": "The world that produced this text was not empty of other stories. Neighboring cultures told their own accounts of how things began.",
-    "introHistorical": "What do we actually know about the world this text describes?",
-    "introLinguistic": "The Hebrew words themselves carry layers that translation inevitably compresses.",
-    "introScientific": "Modern science describes the natural world very differently from this ancient text. Neither validates nor invalidates the other — they answer different questions.",
-    "introReception": "This text has been read for thousands of years. Different communities have heard different things in it.",
-    "introCuriosities": "Some things in the text are simply striking — not because they prove anything, but because they make you pause.",
-    "introWorldAtTheTime": "What was happening in the world when this text was written? Politics, trade, daily life, wars, art, philosophy — the context beyond the text itself.",
-    "hedgeStartProbable": "Most scholars agree that ",
-    "hedgeStartPossible": "One possible reading suggests that ",
-    "hedgeStartUncertain": "The meaning here is genuinely unclear, but ",
-    "hedgeStartSpeculative": "Some have wondered whether ",
-    "hedgeMidProbable": "This is widely accepted. ",
-    "hedgeMidPossible": "This is one reading among others. ",
-    "hedgeMidUncertain": "This remains genuinely debated. ",
-    "hedgeMidSpeculative": "This is speculative. "
+    "contextDisclaimer": "This companion provides contextual and comparative study material. It does not redefine, expand, or control the main translation. All entries are labeled by type and certainty."
   },
   "prophecy": {
-    "title": "Prophecies",
     "disclaimer": "Prophecy entries present what the text says, how traditions read it, and the scholarly assessment of fulfillment. The reader draws conclusions; the entry draws none.",
     "fulfillment": {
       "fulfilled": "Fulfilled",
@@ -151,10 +114,7 @@
     "fields": {
       "textSays": "What the text says",
       "context": "Context",
-      "subject": "Subject",
-      "readings": "Traditional readings",
-      "status": "Fulfillment status",
-      "scholarlyNote": "Scholarly note"
+      "readings": "Traditional readings"
     }
   },
   "people": {
