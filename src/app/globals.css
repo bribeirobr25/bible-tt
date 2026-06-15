@@ -163,7 +163,8 @@ sup.verse-num {
   font-family: var(--font-mono);
   font-size: 0.62em;
   font-weight: 600;
-  color: var(--color-accent);
+  /* brighter petrol (prototype sup.vn = --accent), not the deep accent */
+  color: var(--color-petrol);
   margin-right: 0.15em;
   vertical-align: super;
   line-height: 0;
@@ -519,6 +520,28 @@ html.tt-js .reveal.in {
 .tt-details .body { padding: 0 22px 22px; }
 .tt-details .body p { margin-bottom: 12px; line-height: 1.75; }
 
+/* notes door — verse cards + colored note blocks */
+.tt-verse { padding: 26px 0; border-bottom: 1px solid var(--color-border-muted); scroll-margin-top: 90px; }
+.tt-verse .vhead { display: flex; align-items: baseline; gap: 14px; margin-bottom: 12px; }
+.tt-verse .vnum { font-family: var(--font-mono); font-weight: 600; font-size: 14px; color: var(--color-petrol); flex: none; }
+.tt-verse .vtext { font-family: var(--font-reading); font-size: clamp(1.12rem, 1.4vw, 1.28rem); line-height: 1.75; color: var(--color-text-primary); }
+.tt-verse .vtext em { font-style: italic; color: var(--color-text-secondary); }
+.tt-verse .copy { margin-left: auto; font-family: var(--font-mono); font-size: 11px; color: var(--color-text-muted); border: 1px solid var(--color-border); border-radius: 6px; padding: 4px 8px; cursor: pointer; background: none; flex: none; transition: color 0.2s, border-color 0.2s; }
+.tt-verse .copy:hover { color: var(--color-accent); border-color: var(--color-accent); }
+.tt-notes { margin-top: 14px; display: grid; gap: 10px; }
+.tt-note { border-left: 3px solid var(--color-accent); background: var(--color-bg-surface); border-radius: 0 8px 8px 0; padding: 14px 16px; }
+.tt-note .nlab { font-family: var(--font-mono); font-size: 10.5px; letter-spacing: 0.1em; text-transform: uppercase; margin-bottom: 6px; display: flex; align-items: center; gap: 8px; color: var(--color-accent); }
+.tt-note .nlab .dot { width: 7px; height: 7px; border-radius: 50%; flex: none; }
+.tt-note .ntext { font-size: 14px; line-height: 1.65; color: var(--color-text-secondary); }
+.tt-note.critical { border-color: var(--color-note-critical); }
+.tt-note.critical .nlab { color: var(--color-note-critical); }
+.tt-note.lexical { border-color: var(--color-note-lexical); }
+.tt-note.lexical .nlab { color: var(--color-note-lexical); }
+.tt-note.grammatical { border-color: var(--color-note-grammatical); }
+.tt-note.grammatical .nlab { color: var(--color-note-grammatical); }
+.tt-note.theological { border-color: var(--color-note-theological); }
+.tt-note.theological .nlab { color: var(--color-note-theological); }
+
 /* deeper sub-tabs — underline style (Background | Prophecies | People↗) */
 .tt-subtabs { display: flex; gap: 6px; flex-wrap: wrap; border-bottom: 1px solid var(--color-border); }
 .tt-subtabs button,
@@ -527,6 +550,18 @@ html.tt-js .reveal.in {
 .tt-subtabs button:hover,
 .tt-subtabs .tablink:hover { color: var(--color-accent); }
 .tt-subtabs .tablink { margin-left: auto; }
+
+/* deeper / intro / background — data-driven render blocks (prototype parity) */
+.tt-deeper-section { max-width: 48rem; margin: 0 auto; }
+.tt-disclaimer { max-width: 48rem; margin: 0 auto 30px; border: 1px dashed var(--color-border); border-radius: 10px; padding: 18px 20px; font-size: 13.5px; line-height: 1.6; color: var(--color-text-secondary); background: color-mix(in oklch, var(--color-petrol) 5%, transparent); }
+.tt-secintro { font-size: 14.5px; line-height: 1.7; color: var(--color-text-secondary); font-style: italic; margin-bottom: 18px; }
+.tt-enrich { border: 1px solid var(--color-border); border-left: 3px solid var(--color-accent); border-radius: 0 10px 10px 0; padding: 22px; background: var(--color-bg-surface); margin-bottom: 16px; }
+.tt-enrich .etitle { font-family: var(--font-reading); font-size: 1.25rem; margin-bottom: 10px; color: var(--color-text-primary); }
+.tt-enrich .labels { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 12px; }
+.tt-enrich .ebody { font-size: 14.5px; line-height: 1.7; color: var(--color-text-secondary); }
+.tt-enrich .ebody p { margin-bottom: 10px; }
+.tt-enrich .ebody p:last-child { margin-bottom: 0; }
+.tt-enrich .src { margin-top: 10px; font-family: var(--font-mono); font-size: 11px; color: var(--color-text-muted); font-style: normal; }
 
 /* over the dark hero the mark square goes white, but the ochre slash stays so
    the logo reads as the same icon everywhere (prototype parity). */

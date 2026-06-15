@@ -56,7 +56,9 @@
     "study": "Estudio Verso a Verso",
     "chapterN": "Capítulo {n}",
     "notesRef": "Estudio verso a verso",
-    "deeperRef": "Contexto y enriquecimiento"
+    "deeperRef": "Contexto y enriquecimiento",
+    "link": "Enlace",
+    "copied": "Copiado"
   },
   "notes": {
     "title": "Notas",

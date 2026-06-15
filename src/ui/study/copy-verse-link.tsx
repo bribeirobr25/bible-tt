@@ -1,12 +1,12 @@
 "use client";
 
-import { Check, Link2 } from "lucide-react";
 import { useTranslations } from "next-intl";
 import { useState } from "react";
 
 /**
- * Phase 3 (P3-Q4) — copy a stable deep link to a verse (`…#v{n}`). Sets the URL
- * hash so the CSS `:target` highlight fires, and copies the absolute URL.
+ * Phase 3 (P3-Q4) — copy a stable deep link to a verse (`…#v{n}`). A bordered
+ * "Link" pill (prototype `.copy`): sets the URL hash so the `:target` highlight
+ * fires, copies the absolute URL, and flips to "Copied" briefly.
  */
 export function CopyVerseLink({ verseNumber }: { verseNumber: number }) {
   const t = useTranslations();
@@ -31,16 +31,12 @@ export function CopyVerseLink({ verseNumber }: { verseNumber: number }) {
     <button
       type="button"
       onClick={handleClick}
+      className="copy focus-visible:outline-2 focus-visible:outline-accent focus-visible:outline-offset-2"
       aria-label={
         copied ? t("nav.linkCopied") : `${t("nav.copyLink")} — ${verseNumber}`
       }
-      className="opacity-0 group-hover/verse:opacity-100 focus-visible:opacity-100 inline-flex items-center justify-center w-6 h-6 rounded text-text-muted hover:text-accent transition-all duration-150 focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-1"
     >
-      {copied ? (
-        <Check size={13} strokeWidth={2} className="text-accent" />
-      ) : (
-        <Link2 size={13} strokeWidth={1.5} />
-      )}
+      {copied ? t("chapter.copied") : t("chapter.link")}
     </button>
   );
 }

@@ -56,7 +56,9 @@
     "study": "Vers-für-Vers-Studie",
     "chapterN": "Kapitel {n}",
     "notesRef": "Vers-für-Vers-Studie",
-    "deeperRef": "Hintergrund & Vertiefung"
+    "deeperRef": "Hintergrund & Vertiefung",
+    "link": "Link",
+    "copied": "Kopiert"
   },
   "notes": {
     "title": "Notizen",

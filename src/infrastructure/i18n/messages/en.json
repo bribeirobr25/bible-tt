@@ -56,7 +56,9 @@
     "study": "Verse-by-Verse Study",
     "chapterN": "Chapter {n}",
     "notesRef": "Verse-by-verse study",
-    "deeperRef": "Background & enrichment"
+    "deeperRef": "Background & enrichment",
+    "link": "Link",
+    "copied": "Copied"
   },
   "notes": {
     "title": "Notes",
