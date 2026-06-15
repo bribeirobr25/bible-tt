@@ -54,7 +54,9 @@
     "notFound": "Dieses Kapitel wurde noch nicht übersetzt.",
     "reading": "Fortlaufende Lesung",
     "study": "Vers-für-Vers-Studie",
-    "chapterN": "Kapitel {n}"
+    "chapterN": "Kapitel {n}",
+    "notesRef": "Vers-für-Vers-Studie",
+    "deeperRef": "Hintergrund & Vertiefung"
   },
   "notes": {
     "title": "Notizen",

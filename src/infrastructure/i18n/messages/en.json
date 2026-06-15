@@ -54,7 +54,9 @@
     "notFound": "This chapter has not been translated yet.",
     "reading": "Continuous Reading",
     "study": "Verse-by-Verse Study",
-    "chapterN": "Chapter {n}"
+    "chapterN": "Chapter {n}",
+    "notesRef": "Verse-by-verse study",
+    "deeperRef": "Background & enrichment"
   },
   "notes": {
     "title": "Notes",

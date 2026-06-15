@@ -288,12 +288,15 @@ sup.verse-num {
 .tt-seam {
   height: 3px;
   border: 0;
+  border-radius: 2px;
+  opacity: 0.85;
   background: linear-gradient(
     90deg,
-    var(--color-dark),
-    var(--color-accent) 40%,
-    var(--color-ochre) 75%,
-    var(--color-bg-muted)
+    var(--color-dark) 0%,
+    var(--color-accent) 46%,
+    color-mix(in oklch, var(--color-petrol) 35%, white) 50%,
+    var(--color-ochre) 54%,
+    var(--color-bg-surface) 100%
   );
 }
 
@@ -473,6 +476,49 @@ html.tt-js .reveal.in {
 .tt-overhero a,
 .tt-overhero span,
 .tt-overhero button { color: #fff !important; }
+/* ============================================================
+   Reading-page chrome — chapter Read/Notes/Deeper + people (prototype parity)
+   ============================================================ */
+.tt-crumb { font-family: var(--font-mono); font-size: 12px; letter-spacing: 0.04em; color: var(--color-text-muted); display: flex; gap: 8px; align-items: center; flex-wrap: wrap; }
+.tt-crumb a { transition: color 0.2s; }
+.tt-crumb a:hover { color: var(--color-accent); }
+.tt-crumb .sep { opacity: 0.5; }
+
+.tt-chapter-head { padding: 36px 0 0; }
+.tt-chapter-head .tt-crumb { margin-bottom: 26px; }
+.tt-title-row { display: flex; align-items: flex-end; justify-content: space-between; gap: 20px; flex-wrap: wrap; }
+.tt-chapter-title { font-family: var(--font-reading); font-weight: 300; letter-spacing: -0.02em; font-size: clamp(2.4rem, 6vw, 4.4rem); line-height: 0.95; color: var(--color-text-primary); }
+.tt-ref { font-family: var(--font-mono); font-size: 12px; letter-spacing: 0.1em; text-transform: uppercase; color: var(--color-text-muted); margin-bottom: 8px; }
+
+.tt-status-pill { display: inline-flex; align-items: center; gap: 7px; font-family: var(--font-mono); font-size: 11px; text-transform: uppercase; letter-spacing: 0.06em; color: var(--color-ochre); border: 1px solid var(--color-border); border-radius: 999px; padding: 5px 11px; }
+.tt-status-pill .dot { width: 7px; height: 7px; border-radius: 50%; background: var(--color-ochre); flex: none; }
+
+/* segmented 3-door pill */
+.tt-doornav { display: flex; gap: 4px; margin: 26px 0 0; border: 1px solid var(--color-border); border-radius: 999px; padding: 5px; width: max-content; max-width: 100%; background: var(--color-bg-surface); overflow: auto; }
+.tt-doornav a { font-family: var(--font-mono); font-size: 12px; letter-spacing: 0.04em; text-transform: uppercase; padding: 10px 18px; border-radius: 999px; color: var(--color-text-secondary); white-space: nowrap; transition: background 0.2s, color 0.2s; }
+.tt-doornav a[aria-current] { background: var(--color-dark); color: var(--color-on-dark); }
+.tt-doornav a:not([aria-current]):hover { background: color-mix(in oklch, var(--color-petrol) 12%, transparent); color: var(--color-accent); }
+.tt-doornav .disabled { font-family: var(--font-mono); font-size: 12px; letter-spacing: 0.04em; text-transform: uppercase; padding: 10px 18px; color: var(--color-text-muted); opacity: 0.5; cursor: default; white-space: nowrap; }
+
+/* prev/next pager */
+.tt-pager { max-width: 46rem; margin: 48px auto 0; display: flex; justify-content: space-between; gap: 14px; border-top: 1px solid var(--color-border); padding-top: 24px; }
+.tt-pager a { display: flex; flex-direction: column; gap: 4px; font-size: 14px; color: var(--color-text-secondary); transition: color 0.2s; }
+.tt-pager a:hover { color: var(--color-accent); }
+.tt-pager .pl { font-family: var(--font-mono); font-size: 10.5px; letter-spacing: 0.08em; text-transform: uppercase; color: var(--color-text-muted); }
+.tt-pager .right { text-align: right; margin-left: auto; align-items: flex-end; }
+
+/* in-reading transliteration term */
+.reading-text .term { color: var(--color-accent); font-style: italic; }
+
+/* collapsible disclosure (overview, supplementary, sources) */
+.tt-details { border: 1px solid var(--color-border); border-radius: 10px; background: var(--color-bg-surface); margin-bottom: 14px; overflow: hidden; }
+.tt-details > summary { list-style: none; cursor: pointer; padding: 20px 22px; display: flex; align-items: center; justify-content: space-between; gap: 14px; font-weight: 500; color: var(--color-text-secondary); }
+.tt-details > summary::-webkit-details-marker { display: none; }
+.tt-details > summary .chev { transition: transform 0.25s var(--ease); color: var(--color-accent); }
+.tt-details[open] > summary .chev { transform: rotate(90deg); }
+.tt-details .body { padding: 0 22px 22px; }
+.tt-details .body p { margin-bottom: 12px; line-height: 1.75; }
+
 /* over the dark hero the mark square goes white, but the ochre slash stays so
    the logo reads as the same icon everywhere (prototype parity). */
 .tt-overhero .tt-mark { background: #fff !important; }

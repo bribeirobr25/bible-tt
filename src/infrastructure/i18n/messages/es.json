@@ -54,7 +54,9 @@
     "notFound": "Este capítulo aún no ha sido traducido.",
     "reading": "Lectura Continua",
     "study": "Estudio Verso a Verso",
-    "chapterN": "Capítulo {n}"
+    "chapterN": "Capítulo {n}",
+    "notesRef": "Estudio verso a verso",
+    "deeperRef": "Contexto y enriquecimiento"
   },
   "notes": {
     "title": "Notas",

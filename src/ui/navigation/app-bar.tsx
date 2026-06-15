@@ -15,7 +15,9 @@ export function AppBar() {
   const pathWithoutLocale = pathname.replace(`/${locale}`, "") || "/";
   const segments = pathWithoutLocale.split("/").filter(Boolean);
 
-  const breadcrumb = getBreadcrumb(segments, locale, t);
+  const isBookPage =
+    segments.length > 0 &&
+    (AVAILABLE_BOOKS as readonly string[]).includes(segments[0]);
 
   // The landing + marketing pages (rules/start/books) lead with a dark WebGL
   // hero: the header floats transparent over it (light text via mix-blend), then
@@ -38,11 +40,15 @@ export function AppBar() {
   useEffect(() => setMenuOpen(false), [pathname]);
   const over = hasHero && !scrolledPastHero && !menuOpen;
 
-  // Marketing pages (no breadcrumb) show the prototype's top-nav links.
-  const showNav = !breadcrumb;
+  // Every page shows the prototype's top-nav links (the per-page breadcrumb lives
+  // in the page head, e.g. the chapter-head — not in the header). On a book page,
+  // the middle link points at that book's hub instead of "Start here".
+  const showNav = true;
   const navLinks = [
     { href: `/${locale}/books`, label: t("nav.books") },
-    { href: `/${locale}/start`, label: t("start.title") },
+    isBookPage
+      ? { href: `/${locale}/${segments[0]}`, label: t(`book.${segments[0]}`) }
+      : { href: `/${locale}/start`, label: t("start.title") },
     { href: `/${locale}/rules`, label: t("landing.ctaRules") },
   ];
   const ctaHref = `/${locale}/genesis/chapter/1`;
@@ -55,7 +61,7 @@ export function AppBar() {
       aria-label="Main navigation"
     >
       <div className="h-full px-[clamp(18px,4vw,52px)] flex items-center justify-between gap-3">
-        {/* Left: brand mark + wordmark + breadcrumb */}
+        {/* Left: brand mark + wordmark */}
         <div className="flex items-center gap-3 min-w-0">
           <a
             href={`/${locale}`}
@@ -71,39 +77,9 @@ export function AppBar() {
               {t("site.brand")}
             </span>
           </a>
-
-          {breadcrumb && (
-            <div className="flex items-center gap-2 min-w-0 font-[family-name:var(--font-mono)] text-[12px] tracking-[0.02em]">
-              <span className="text-border" aria-hidden="true">
-                /
-              </span>
-              <a
-                href={breadcrumb.href}
-                className="text-text-muted hover:text-accent transition-colors duration-150 rounded flex items-center gap-1 truncate focus-visible:outline-2 focus-visible:outline-accent focus-visible:outline-offset-2"
-              >
-                <span className="hidden sm:inline" aria-hidden="true">
-                  &larr;
-                </span>
-                <span className="truncate">{breadcrumb.label}</span>
-              </a>
-              {breadcrumb.current && (
-                <>
-                  <span
-                    className="text-border hidden sm:inline"
-                    aria-hidden="true"
-                  >
-                    /
-                  </span>
-                  <span className="text-text-secondary hidden sm:inline truncate">
-                    {breadcrumb.current}
-                  </span>
-                </>
-              )}
-            </div>
-          )}
         </div>
 
-        {/* Right cluster: nav links (marketing) + language switcher + mobile menu */}
+        {/* Right cluster: nav links + language switcher + mobile menu */}
         <div className="flex items-center gap-2 md:gap-4">
           {showNav && (
             <div className="hidden md:flex items-center gap-1 font-[family-name:var(--font-mono)] text-[12px] tracking-[0.03em]">
@@ -206,91 +182,4 @@ export function AppBar() {
       )}
     </nav>
   );
-}
-
-function getBreadcrumb(
-  segments: string[],
-  locale: string,
-  t: ReturnType<typeof useTranslations>,
-): { href: string; label: string; current?: string } | null {
-  if (segments.length === 0) return null;
-  if (segments[0] === "books") return null;
-  if (segments[0] === "rules") return null;
-
-  const validBooks: readonly string[] = AVAILABLE_BOOKS;
-
-  if (segments.length === 1 && validBooks.includes(segments[0])) {
-    return {
-      href: `/${locale}/books`,
-      label: t("nav.books"),
-    };
-  }
-
-  if (segments.length === 2 && validBooks.includes(segments[0])) {
-    const sub = segments[1];
-    // Sub-route pages under a book — pick the correct label by sub-route name.
-    if (sub === "background") {
-      return {
-        href: `/${locale}/${segments[0]}`,
-        label: t(`book.${segments[0]}`),
-        current: t("nav.bookContext"),
-      };
-    }
-    if (sub === "introduction") {
-      return {
-        href: `/${locale}/${segments[0]}`,
-        label: t(`book.${segments[0]}`),
-        current: t("nav.bookIntroduction"),
-      };
-    }
-    if (sub === "people") {
-      return {
-        href: `/${locale}/${segments[0]}`,
-        label: t(`book.${segments[0]}`),
-        current: t("people.title"),
-      };
-    }
-    // Fallback: legacy URL pattern `/{book}/{n}` where segment[1] is a chapter number.
-    if (/^\d+$/.test(sub)) {
-      return {
-        href: `/${locale}/${segments[0]}`,
-        label: t(`book.${segments[0]}`),
-        current: t("chapter.chapterN", { n: sub }),
-      };
-    }
-  }
-
-  // `/{book}/chapter/{n}` — current URL pattern for chapter pages (Phase 6.6F).
-  if (
-    segments.length === 3 &&
-    validBooks.includes(segments[0]) &&
-    segments[1] === "chapter"
-  ) {
-    return {
-      href: `/${locale}/${segments[0]}`,
-      label: t(`book.${segments[0]}`),
-      current: t("chapter.chapterN", { n: segments[2] }),
-    };
-  }
-
-  // Phase 3: `/{book}/chapter/{n}/{notes|deeper}` — chapter door pages.
-  if (
-    segments.length === 4 &&
-    validBooks.includes(segments[0]) &&
-    segments[1] === "chapter"
-  ) {
-    const door = segments[3];
-    return {
-      href: `/${locale}/${segments[0]}/chapter/${segments[2]}`,
-      label: t("chapter.chapterN", { n: segments[2] }),
-      current:
-        door === "notes"
-          ? t("nav.doorNotes")
-          : door === "deeper"
-            ? t("nav.doorDeeper")
-            : t("chapter.chapterN", { n: segments[2] }),
-    };
-  }
-
-  return null;
 }
