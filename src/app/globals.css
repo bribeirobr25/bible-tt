@@ -473,6 +473,7 @@ html.tt-js .reveal.in {
 .tt-overhero a,
 .tt-overhero span,
 .tt-overhero button { color: #fff !important; }
+/* over the dark hero the mark square goes white, but the ochre slash stays so
+   the logo reads as the same icon everywhere (prototype parity). */
 .tt-overhero .tt-mark { background: #fff !important; }
-.tt-overhero .tt-mark::after { background: #fff !important; }
 .tt-overhero [role="group"] { border-color: rgba(255, 255, 255, 0.5) !important; }

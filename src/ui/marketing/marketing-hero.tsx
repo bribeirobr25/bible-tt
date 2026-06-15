@@ -28,8 +28,9 @@ export function MarketingHero({
       style={{ minHeight: minH, paddingBottom: "clamp(40px,7vh,80px)" }}
     >
       <SeparationHero />
+      {/* shrink-to-content + centered, matching the prototype's flex-item wrap */}
       <div
-        className="relative z-10 w-full max-w-[1320px] mx-auto px-[clamp(18px,4vw,52px)]"
+        className="relative z-10 w-fit max-w-[1320px] mx-auto px-[clamp(18px,4vw,52px)]"
         style={{ color: "#fff", mixBlendMode: "difference" }}
       >
         <p className="font-[family-name:var(--font-mono)] text-xs uppercase tracking-[0.2em] mb-[18px]">
