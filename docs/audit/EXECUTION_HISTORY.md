@@ -104,6 +104,24 @@ Each phase ends green (test · build · lint · content:lint) + per-locale visua
   match source, full Continuous Reading present; **no loss, no mixing, no mis-reference.** Visually
   spot-checked Genesis 1 Notes in EN/DE/ES (right verse, right place, right language, italics
   preserved).
+- **Marketing pages pixel-match — rules/start/books (2026-06-15).** Rebuilt the three marketing
+  pages to match their prototype templates (`docs/redesign/site/{rules,start,books}.html`) across all 4
+  locales. New shared `MarketingHero` (shorter WebGL separation-field sub-hero, bottom-aligned, blended
+  white kicker+display+italic-tagline); AppBar over-hero now covers landing **+ rules/start/books**
+  (threshold 0.7vh, prototype parity). **rules:** WebGL hero ("Governance · Ruleset v3.3" / "The 29
+  Rules." / tagline), 2-col Prime-Directive grid (roman i–iv + EN em-accent on complex/ambiguous/add/
+  mark), 5 cream example cards (EN strong-accent terms + italic transliterations, prototype-exact), and
+  the 29-card hairline grid on dark — all wired to existing localized keys + 3 new (rulesHeroKicker,
+  rulesExamplesH2, rulesAllKick). **start:** WebGL hero, WHY split (lead sentence as h2 + right-aligned
+  path lead), dark 7-step roadmap with big petrol step numbers, the ↳ interleave note, ochre final step,
+  and "Begin with Genesis 1" CTA; 3 new keys (heroKicker, pathKick, beginCta). **books:** WebGL hero
+  ("The Books."), three rich `tt-bookcard`s (name · corpus+chapter-count meta · "Read now" badge · a
+  What/When/Who/Why glance pulled from the **localized book-intro CARD data** — no new translation, the
+  prototype glance was derived from it) + provisional note; new `books` i18n namespace (9 keys × 4
+  locales). New CSS (tokenized): tt-prime/tt-pd, tt-examples/tt-ex, tt-rules-grid/tt-rule, tt-roadmap/
+  tt-step(rebuilt)/tt-interleave, tt-bookcard/bc-*. Validated every page in EN+PT+DE+ES via Docker-MCP
+  (heroes, sections, counts, translated content) + mobile (no overflow, glance stacks). Bible content/
+  parsers/loader/routes untouched. Gate green (841 · build · lint · content:lint; i18n parity).
 - **Landing pixel-match pass (2026-06-15).** Section-by-section Docker-MCP diff of the local landing
   against the prototype (computed styles + screenshots at 1280px), then closed every remaining gap:
   (1) **Hero** — content is now a shrink-to-content block centered horizontally (h1 capped 15ch) with

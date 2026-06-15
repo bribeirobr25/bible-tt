@@ -1,26 +1,31 @@
 import { ArrowRight } from "lucide-react";
 import type { Metadata } from "next";
 import { getTranslations, setRequestLocale } from "next-intl/server";
-import { AVAILABLE_BOOKS } from "@/domain/books/registry";
 import {
   breadcrumbJsonLd,
   canonicalUrl,
   seoMetadata,
   truncateDescription,
 } from "@/lib/seo";
+import { MarketingHero } from "@/ui/marketing/marketing-hero";
 import { Link } from "@/ui/navigation/locale-link";
 import { JsonLd } from "@/ui/shared/json-ld";
 
-// The "Start here" plan. `books` lists the slugs each step would link to; only
-// those present in AVAILABLE_BOOKS render as live links (rest = "coming soon").
-const STEPS: { key: string; books: string[]; interleaveAfter?: boolean }[] = [
-  { key: "step1", books: [] }, // Psalms
-  { key: "step2", books: [] }, // Proverbs
-  { key: "step3", books: [], interleaveAfter: true }, // Ecclesiastes
-  { key: "step4", books: ["matthew", "john"] }, // Gospels
-  { key: "step5", books: [] }, // rest of NT
-  { key: "step6", books: [] }, // Revelation
-  { key: "step7", books: ["genesis"] }, // Genesis & Torah
+// The "Start here" reading plan. `href` marks a step whose content is live now
+// (renders an "Available now →" badge); the rest are "Coming soon".
+const STEPS: {
+  key: string;
+  href?: string;
+  interleaveAfter?: boolean;
+  final?: boolean;
+}[] = [
+  { key: "step1" }, // Psalms
+  { key: "step2" }, // Proverbs
+  { key: "step3", interleaveAfter: true }, // Ecclesiastes
+  { key: "step4", href: "/books" }, // Gospels
+  { key: "step5" }, // rest of NT
+  { key: "step6" }, // Revelation
+  { key: "step7", href: "/genesis", final: true }, // Genesis & Torah
 ];
 
 export async function generateMetadata({
@@ -46,7 +51,12 @@ export default async function StartPage({
   const { locale } = await params;
   setRequestLocale(locale);
   const t = await getTranslations();
-  const available = new Set<string>(AVAILABLE_BOOKS);
+
+  // The WHY copy is one string: a lead sentence + the reading-path description.
+  const why = t("start.why");
+  const splitAt = why.indexOf(". ");
+  const whyHeadline = splitAt > 0 ? why.slice(0, splitAt + 1) : why;
+  const whyBody = splitAt > 0 ? why.slice(splitAt + 2) : "";
 
   return (
     <main>
@@ -57,51 +67,53 @@ export default async function StartPage({
         ])}
       />
 
-      {/* Header */}
-      <section className="tt-section">
-        <div className="max-w-[1320px] mx-auto px-6">
-          <h1 className="tt-display reveal max-w-[12ch]">{t("start.title")}</h1>
-          <p className="tt-lead reveal mt-6 max-w-[56ch]" data-d="1">
-            {t("start.lead")}
-          </p>
-        </div>
-      </section>
+      <MarketingHero
+        kicker={t("start.heroKicker")}
+        title={`${t("start.title")}.`}
+        tagline={t("start.lead")}
+        titleMaxCh={12}
+        taglineMaxCh={40}
+      />
 
-      {/* Why this order */}
-      <section className="tt-section bg-cream2">
-        <div className="max-w-[1320px] mx-auto px-6">
+      {/* WHY THIS ORDER */}
+      <section className="tt-section">
+        <div className="max-w-[1320px] mx-auto px-[clamp(18px,4vw,52px)]">
           <div className="tt-grid-head">
             <div className="tt-bignum reveal">/</div>
             <div>
               <p className="tt-kick reveal">{t("start.whyTitle")}</p>
               <h2 className="tt-h1 reveal max-w-[20ch]" data-d="1">
-                {t("start.why")}
+                {whyHeadline}
               </h2>
-              <p className="tt-lead reveal mt-5 max-w-[62ch]" data-d="2">
-                {t("start.interleaveNote")}
-              </p>
             </div>
           </div>
+          {whyBody && (
+            <p
+              className="tt-lead reveal ml-auto max-w-[62ch] mt-[30px]"
+              data-d="1"
+            >
+              {whyBody}
+            </p>
+          )}
         </div>
       </section>
 
-      {/* The path — dark roadmap */}
+      {/* THE PATH — dark roadmap */}
       <section className="tt-section bg-dark">
-        <div className="max-w-[880px] mx-auto px-6">
-          <ol>
-            {STEPS.map((step, i) => {
-              const liveBooks = step.books.filter((b) => available.has(b));
-              const live = liveBooks[0];
-              return (
-                <li key={step.key} className="tt-step reveal">
+        <div className="max-w-[1320px] mx-auto px-[clamp(18px,4vw,52px)]">
+          <p className="tt-kick reveal">{t("start.pathKick")}</p>
+          <div className="tt-roadmap">
+            {STEPS.map((step, i) => (
+              <div key={step.key}>
+                <div className={`tt-step reveal${step.final ? " final" : ""}`}>
                   <div className="sn">{String(i + 1).padStart(2, "0")}</div>
-                  <div>
+                  <div className="sc">
                     <div className="st">{t(`start.${step.key}title`)}</div>
                     <p>{t(`start.${step.key}desc`)}</p>
-                    {live ? (
+                    {step.href ? (
                       <Link
-                        href={`/${live}`}
-                        className="tt-badge tt-badge-now inline-flex items-center gap-1.5"
+                        href={step.href}
+                        className="tt-badge tt-badge-now gap-1.5"
                       >
                         {t("start.availableNow")}
                         <ArrowRight size={13} strokeWidth={1.5} />
@@ -112,13 +124,18 @@ export default async function StartPage({
                       </span>
                     )}
                   </div>
-                </li>
-              );
-            })}
-          </ol>
+                </div>
+                {step.interleaveAfter && (
+                  <p className="tt-interleave reveal">
+                    ↳ {t("start.interleaveNote")}
+                  </p>
+                )}
+              </div>
+            ))}
+          </div>
           <div className="mt-12 reveal">
-            <Link href="/books" className="tt-btn tt-btn-pri">
-              {t("landing.cta")} <span className="arr">→</span>
+            <Link href="/genesis/chapter/1" className="tt-btn tt-btn-pri">
+              {t("start.beginCta")} <span className="arr">→</span>
             </Link>
           </div>
         </div>

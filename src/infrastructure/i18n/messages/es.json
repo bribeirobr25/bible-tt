@@ -4,6 +4,17 @@
     "brand": "Transparent Translation",
     "subtitle": "Una traducción sin nada oculto."
   },
+  "books": {
+    "heroKicker": "Actualmente traducido",
+    "heroTitle": "Los Libros.",
+    "heroTagline": "Génesis 1–12 · Juan 1–3 · Mateo 1–3 — cada uno con capítulos, compañeros de estudio, introducciones y personas.",
+    "sectionKick": "Tres libros, cuatro idiomas",
+    "readNow": "Leer ahora",
+    "corpusHebrew": "Biblia Hebrea",
+    "corpusGreek": "Escrituras Griegas",
+    "chaptersAvailable": "{n} capítulos disponibles",
+    "provisional": "Todo el contenido se publica *provisional* — pendiente de la revisión de especialistas en las lenguas originales (Regla 28). Génesis 13–50 es el mayor trabajo en curso."
+  },
   "footer": {
     "read": "Leer",
     "method": "Método"
@@ -232,6 +243,9 @@
     "rulesPageTitle": "Las 29 Reglas",
     "rulesPageSubtitle": "El sistema de gobernanza detrás de la Traducción Transparente.",
     "rulesIntro": "Toda traducción toma decisiones. La mayoría las oculta. Nosotros escribimos las nuestras.",
+    "rulesHeroKicker": "Gobernanza · Conjunto de reglas v3.3",
+    "rulesExamplesH2": "Algunos, hechos concretos",
+    "rulesAllKick": "El conjunto completo",
     "rulesPrime": "La Directiva Principal",
     "rulesPrimeDesc": "Si alguna regla entra en conflicto con estos cuatro principios, los principios prevalecen.",
     "rulesPrime1": "Si el texto original es complejo, lo mantenemos complejo.",
@@ -324,6 +338,9 @@
     "availableNow": "Disponible ahora",
     "comingSoon": "Próximamente",
     "interleaveNote": "Lee uno de cada, en paralelo, hasta terminar los Salmos.",
+    "heroKicker": "Un plan de lectura",
+    "pathKick": "El camino — siete pasos",
+    "beginCta": "Empieza por Génesis 1",
     "step1title": "Salmos",
     "step1desc": "El alma — sentimiento humano puro, dirigido hacia lo alto.",
     "step2title": "Proverbios",

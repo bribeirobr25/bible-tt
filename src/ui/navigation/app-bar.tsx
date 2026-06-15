@@ -17,24 +17,26 @@ export function AppBar() {
 
   const breadcrumb = getBreadcrumb(segments, locale, t);
 
-  // Landing has a full-bleed dark WebGL hero: the header floats transparent over
-  // it (light text), then turns solid cream once scrolled past the hero.
-  const isLanding = segments.length === 0;
+  // The landing + marketing pages (rules/start/books) lead with a dark WebGL
+  // hero: the header floats transparent over it (light text via mix-blend), then
+  // turns solid cream once scrolled past the hero.
+  const hasHero =
+    segments.length === 0 || ["rules", "start", "books"].includes(segments[0]);
   const [scrolledPastHero, setScrolledPastHero] = useState(false);
   const [menuOpen, setMenuOpen] = useState(false);
   useEffect(() => {
-    if (!isLanding) return;
+    if (!hasHero) return;
     const onScroll = () => {
-      setScrolledPastHero(window.scrollY > window.innerHeight * 0.8);
+      setScrolledPastHero(window.scrollY > window.innerHeight * 0.7);
     };
     onScroll();
     window.addEventListener("scroll", onScroll, { passive: true });
     return () => window.removeEventListener("scroll", onScroll);
-  }, [isLanding]);
+  }, [hasHero]);
   // close the mobile menu on navigation
   // biome-ignore lint/correctness/useExhaustiveDependencies: close menu on route change
   useEffect(() => setMenuOpen(false), [pathname]);
-  const over = isLanding && !scrolledPastHero && !menuOpen;
+  const over = hasHero && !scrolledPastHero && !menuOpen;
 
   // Marketing pages (no breadcrumb) show the prototype's top-nav links.
   const showNav = !breadcrumb;

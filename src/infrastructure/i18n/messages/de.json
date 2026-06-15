@@ -4,6 +4,17 @@
     "brand": "Transparent Translation",
     "subtitle": "Eine Übersetzung, die nichts verbirgt."
   },
+  "books": {
+    "heroKicker": "Derzeit übersetzt",
+    "heroTitle": "Die Bücher.",
+    "heroTagline": "Genesis 1–12 · Johannes 1–3 · Matthäus 1–3 — jeweils mit Kapiteln, Studienbegleitern, Einführungen und Personen.",
+    "sectionKick": "Drei Bücher, vier Sprachen",
+    "readNow": "Jetzt lesen",
+    "corpusHebrew": "Hebräische Bibel",
+    "corpusGreek": "Griechische Schriften",
+    "chaptersAvailable": "{n} Kapitel verfügbar",
+    "provisional": "Alle Inhalte erscheinen *vorläufig* — ausstehende Freigabe durch Fachleute der Ursprachen (Regel 28). Genesis 13–50 ist die größte laufende Arbeit."
+  },
   "footer": {
     "read": "Lesen",
     "method": "Methode"
@@ -232,6 +243,9 @@
     "rulesPageTitle": "Die 29 Regeln",
     "rulesPageSubtitle": "Das Governance-System hinter der Transparenten Übersetzung.",
     "rulesIntro": "Jede Übersetzung trifft Entscheidungen. Die meisten verbergen sie. Wir haben unsere aufgeschrieben.",
+    "rulesHeroKicker": "Governance · Regelwerk v3.3",
+    "rulesExamplesH2": "Einige, konkret gemacht",
+    "rulesAllKick": "Der vollständige Satz",
     "rulesPrime": "Die Hauptdirektive",
     "rulesPrimeDesc": "Wenn eine Regel mit diesen vier Prinzipien kollidiert, gewinnen die Prinzipien.",
     "rulesPrime1": "Wenn der Originaltext komplex ist, behalten wir ihn komplex.",
@@ -324,6 +338,9 @@
     "availableNow": "Jetzt verfügbar",
     "comingSoon": "Demnächst",
     "interleaveNote": "Lies je eines davon nebeneinander, bis die Psalmen abgeschlossen sind.",
+    "heroKicker": "Ein Leseplan",
+    "pathKick": "Der Weg — sieben Schritte",
+    "beginCta": "Beginne mit Genesis 1",
     "step1title": "Psalmen",
     "step1desc": "Die Seele — rohes menschliches Empfinden, nach oben gerichtet.",
     "step2title": "Sprüche",

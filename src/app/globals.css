@@ -400,14 +400,68 @@ html.tt-js .reveal.in {
 .tt-who p:first-child { border-top: 1px solid var(--color-border); }
 .tt-who .t { font-size: 13px; color: var(--color-ochre); flex: none; font-family: var(--font-mono); }
 
-/* roadmap (start) */
-.tt-step { display: flex; gap: 20px; padding: 24px 0; border-top: 1px solid color-mix(in oklch, var(--color-on-dark) 18%, transparent); }
-.tt-step .sn { font-family: var(--font-mono); font-size: 13px; color: var(--color-ochre); flex: none; padding-top: 4px; }
-.tt-step .st { font-family: var(--font-reading); font-size: clamp(1.3rem, 2vw, 1.7rem); color: var(--color-on-dark); }
-.tt-step p { color: var(--color-on-dark-soft); font-size: 14.5px; line-height: 1.6; margin-top: 4px; }
-.tt-badge { display: inline-block; margin-top: 10px; font-family: var(--font-mono); font-size: 11px; text-transform: uppercase; letter-spacing: 0.04em; padding: 4px 10px; border-radius: 999px; }
+/* roadmap (start) — big-number step rows on dark */
+.tt-roadmap { margin-top: 40px; border-top: 1px solid color-mix(in oklch, var(--color-on-dark) 15%, transparent); }
+.tt-step { display: grid; grid-template-columns: 64px 1fr; gap: 18px; padding: 30px 0; border-bottom: 1px solid color-mix(in oklch, var(--color-on-dark) 15%, transparent); align-items: start; }
+.tt-step .sn { font-family: var(--font-mono); font-size: clamp(1.6rem, 3vw, 2.4rem); font-weight: 600; color: var(--color-petrol); line-height: 1; }
+.tt-step.final .sn { color: var(--color-ochre); }
+.tt-step .st { font-family: var(--font-reading); font-size: clamp(1.4rem, 3vw, 2.1rem); color: var(--color-on-dark); margin-bottom: 8px; }
+.tt-step .sc p { color: var(--color-on-dark-soft); font-size: 14.5px; line-height: 1.6; max-width: 52ch; margin-bottom: 14px; }
+.tt-interleave { color: var(--color-ochre); font-family: var(--font-mono); font-size: 13px; letter-spacing: 0.04em; padding: 14px 0 14px 64px; border-bottom: 1px solid color-mix(in oklch, var(--color-on-dark) 15%, transparent); }
+@media (max-width: 600px) {
+  .tt-step { grid-template-columns: 48px 1fr; gap: 14px; }
+  .tt-interleave { padding-left: 0; }
+}
+.tt-badge { display: inline-flex; align-items: center; font-family: var(--font-mono); font-size: 11px; text-transform: uppercase; letter-spacing: 0.06em; padding: 6px 12px; border-radius: 999px; }
 .tt-badge-soon { color: var(--color-on-dark-mute); border: 1px solid color-mix(in oklch, var(--color-on-dark) 25%, transparent); }
 .tt-badge-now { color: var(--color-dark); background: var(--color-ochre); }
+.tt-badge-now:hover { background: var(--color-ochre-soft); }
+
+/* rules — prime directive grid */
+.tt-prime { display: grid; gap: 0; margin-top: 40px; border-top: 1px solid var(--color-border); }
+@media (min-width: 760px) { .tt-prime { grid-template-columns: 1fr 1fr; } }
+.tt-pd { display: flex; gap: 18px; align-items: baseline; padding: 28px 0; border-bottom: 1px solid var(--color-border); }
+@media (min-width: 760px) {
+  .tt-pd:nth-child(odd) { padding-right: 36px; }
+  .tt-pd:nth-child(even) { padding-left: 36px; border-left: 1px solid var(--color-border); }
+}
+.tt-pd .pn { font-family: var(--font-mono); font-size: 14px; color: var(--color-ochre); flex: none; width: 2em; }
+.tt-pd p { font-family: var(--font-reading); font-size: clamp(1.2rem, 2.2vw, 1.7rem); line-height: 1.3; }
+.tt-pd em { color: var(--color-accent); font-style: italic; }
+
+/* rules — examples (cream cards) */
+.tt-examples { display: grid; gap: 24px; margin-top: 48px; }
+@media (min-width: 760px) { .tt-examples { grid-template-columns: 1fr 1fr; } }
+.tt-ex { border: 1px solid var(--color-border); border-radius: 10px; padding: 28px; background: var(--color-bg-surface); }
+.tt-ex .exn { font-family: var(--font-mono); font-size: 11px; letter-spacing: 0.1em; text-transform: uppercase; color: var(--color-accent); margin-bottom: 14px; }
+.tt-ex p { font-family: var(--font-reading); font-size: clamp(1.05rem, 1.7vw, 1.3rem); line-height: 1.6; color: var(--color-text-primary); }
+.tt-ex strong { color: var(--color-accent); font-weight: 500; }
+.tt-ex em { color: var(--color-text-secondary); font-style: italic; }
+
+/* rules — full 29 grid (hairline cards on dark) */
+.tt-rules-grid { display: grid; gap: 1px; margin-top: 46px; background: color-mix(in oklch, var(--color-on-dark) 15%, transparent); border: 1px solid color-mix(in oklch, var(--color-on-dark) 15%, transparent); }
+@media (min-width: 640px) { .tt-rules-grid { grid-template-columns: 1fr 1fr; } }
+@media (min-width: 1040px) { .tt-rules-grid { grid-template-columns: 1fr 1fr 1fr; } }
+.tt-rule { background: var(--color-dark); padding: 24px; display: flex; gap: 14px; align-items: flex-start; }
+.tt-rule .rnum { font-family: var(--font-mono); font-size: 12px; color: var(--color-ochre); flex: none; width: 2.4em; padding-top: 3px; }
+.tt-rule .rname { font-family: var(--font-reading); font-size: 1.2rem; color: var(--color-on-dark); margin-bottom: 5px; }
+.tt-rule .rshort { font-size: 13.5px; color: var(--color-on-dark-soft); line-height: 1.55; }
+
+/* books — book cards with at-a-glance */
+.tt-bookcard { display: grid; gap: 24px; padding: 36px 0; border-top: 1px solid var(--color-border); transition: padding-left 0.3s var(--ease); }
+.tt-bookcard:first-of-type { border-top: 2px solid var(--color-text-primary); }
+.tt-bookcard:last-of-type { border-bottom: 1px solid var(--color-border); }
+.tt-bookcard:hover { padding-left: 10px; }
+@media (min-width: 860px) { .tt-bookcard { grid-template-columns: 300px 1fr; gap: 48px; align-items: start; } }
+.tt-bookcard .bc-name { font-family: var(--font-reading); font-size: clamp(2.2rem, 5vw, 3.4rem); color: var(--color-text-primary); }
+.tt-bookcard .bc-meta { font-family: var(--font-mono); font-size: 11px; letter-spacing: 0.08em; text-transform: uppercase; color: var(--color-text-muted); margin: 8px 0 16px; }
+.tt-bookcard .bc-glance { display: grid; gap: 0; border-left: 1px solid var(--color-border); }
+.tt-bookcard .bc-glance > div { display: grid; grid-template-columns: 80px 1fr; gap: 16px; padding: 14px 0 14px 22px; border-bottom: 1px solid var(--color-border-muted); }
+.tt-bookcard .bc-glance > div:last-child { border-bottom: 0; }
+.tt-bookcard .bc-glance dt { font-family: var(--font-mono); font-size: 11px; letter-spacing: 0.08em; text-transform: uppercase; color: var(--color-accent); padding-top: 3px; }
+.tt-bookcard .bc-glance dd { font-size: 15px; line-height: 1.6; color: var(--color-text-secondary); }
+.tt-bookcard .bc-glance em { color: var(--color-accent); font-style: italic; }
+@media (max-width: 600px) { .tt-bookcard .bc-glance > div { grid-template-columns: 1fr; gap: 4px; padding-left: 16px; } }
 
 /* over-hero transparent header (landing). mix-blend-difference makes white content
    self-contrasting across the light/dark hero seam (logged exception; prototype parity). */
