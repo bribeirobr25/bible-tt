@@ -226,42 +226,50 @@ sup.verse-num {
   transform: skewX(-12deg);
 }
 
-/* Eyebrow kicker — Geist Mono with an ochre rule */
+/* Eyebrow kicker — Geist Mono, teal, with an ochre rule (prototype parity) */
 .tt-kick {
   font-family: var(--font-mono);
   font-size: 12px;
-  font-weight: 500;
+  font-weight: 400;
   letter-spacing: 0.14em;
   text-transform: uppercase;
-  color: var(--color-text-muted);
-  display: inline-flex;
+  color: var(--color-accent);
+  margin-bottom: 16px;
+  display: flex;
   align-items: center;
-  gap: 0.6em;
+  gap: 12px;
 }
 .tt-kick::before {
   content: "";
-  width: 1.6em;
+  width: 26px;
   height: 2px;
   background: var(--color-ochre);
+  flex: none;
+}
+.tt-kick .num {
+  color: var(--color-ochre);
+}
+.tt-kick.center {
+  justify-content: center;
 }
 
-/* Swiss-grid head: big numeral column + heading */
+/* Swiss-grid head: big serif numeral column + heading */
 .tt-grid-head {
   display: grid;
-  grid-template-columns: 90px 1fr;
-  gap: clamp(12px, 2vw, 28px);
-  align-items: start;
+  gap: 16px;
 }
 .tt-bignum {
-  font-family: var(--font-mono);
-  font-size: clamp(2rem, 4vw, 3.2rem);
-  font-weight: 300;
+  font-family: var(--font-reading);
+  font-size: clamp(3rem, 7vw, 6rem);
+  font-weight: 400;
   color: var(--color-ochre);
-  line-height: 1;
+  line-height: 0.8;
 }
-@media (max-width: 640px) {
-  .tt-grid-head { grid-template-columns: 1fr; }
-  .tt-bignum { font-size: 2rem; }
+@media (min-width: 900px) {
+  .tt-grid-head {
+    grid-template-columns: 90px 1fr;
+    align-items: end;
+  }
 }
 
 /* Dark duotone sections */
@@ -274,7 +282,7 @@ sup.verse-num {
 .bg-dark .tt-h2,
 .bg-dark .tt-h3,
 .on-dark { color: var(--color-on-dark); }
-.bg-dark .tt-kick { color: var(--color-on-dark-mute); }
+.bg-dark .tt-kick { color: var(--color-petrol); }
 
 /* Light↔dark "seam" motif (logged design-rule exception: gradient) */
 .tt-seam {
@@ -347,8 +355,13 @@ html.tt-js .reveal.in {
 .tt-btn-deep:hover { background: var(--color-accent-hover); }
 .tt-btn-ghost { border-color: var(--color-border); color: var(--color-text-primary); }
 .tt-btn-ghost:hover { border-color: var(--color-accent); color: var(--color-accent); }
-.tt-btn-ghost-light { border-color: color-mix(in oklch, var(--color-on-dark) 55%, transparent); color: var(--color-on-dark); }
-.tt-btn-ghost-light:hover { border-color: var(--color-on-dark); }
+.tt-btn-ghost-light {
+  border-color: color-mix(in oklch, white 50%, transparent);
+  color: white;
+  background: color-mix(in oklch, var(--color-dark) 45%, transparent);
+  backdrop-filter: blur(4px);
+}
+.tt-btn-ghost-light:hover { border-color: white; }
 
 /* three doors */
 .tt-doors { display: grid; border-top: 1px solid color-mix(in oklch, var(--color-on-dark) 18%, transparent); }
@@ -357,10 +370,10 @@ html.tt-js .reveal.in {
 .tt-door .idx { font-family: var(--font-mono); font-size: 44px; font-weight: 600; color: var(--color-petrol); line-height: 1; }
 .tt-door .dt { font-family: var(--font-reading); font-size: clamp(1.6rem, 2.4vw, 2.1rem); margin: 16px 0 12px; color: var(--color-on-dark); }
 .tt-door p { font-size: 14.5px; line-height: 1.7; color: var(--color-on-dark-soft); }
-@media (min-width: 760px) {
+@media (min-width: 860px) {
   .tt-doors { grid-template-columns: 1fr 1fr 1fr; }
-  .tt-door { padding: 38px 28px; border-bottom: 0; border-right: 1px solid color-mix(in oklch, var(--color-on-dark) 18%, transparent); }
-  .tt-door:last-child { border-right: 0; }
+  .tt-door { padding: 44px 32px; border-bottom: 0; border-left: 1px solid color-mix(in oklch, var(--color-on-dark) 18%, transparent); }
+  .tt-door:first-child { border-left: 0; padding-left: 0; }
 }
 
 /* verse compare */

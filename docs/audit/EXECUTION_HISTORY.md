@@ -104,6 +104,28 @@ Each phase ends green (test · build · lint · content:lint) + per-locale visua
   match source, full Continuous Reading present; **no loss, no mixing, no mis-reference.** Visually
   spot-checked Genesis 1 Notes in EN/DE/ES (right verse, right place, right language, italics
   preserved).
+- **Landing pixel-match pass (2026-06-15).** Section-by-section Docker-MCP diff of the local landing
+  against the prototype (computed styles + screenshots at 1280px), then closed every remaining gap:
+  (1) **Hero** — content is now a shrink-to-content block centered horizontally (h1 capped 15ch) with
+  the `mix-blend-difference` on the whole wrap; CTAs moved to a **bottom-center bar outside the blended
+  wrap** so they render in true ochre / translucent-glass (added `background:rgba(dark/35%)+blur(4px)`
+  to `tt-btn-ghost-light`). (2) **Header** — full-width container with `clamp(18px,4vw,52px)` padding
+  (was `max-w-5xl`), brand wordmark "Transparent Translation" (new `site.brand` key, drops "The"), and
+  the language switch moved to lead the right cluster (`order-first`). (3) **Kickers** — teal
+  (`--color-accent`; petrol on dark) with 26px ochre rule, 16px margin, and the ochre `/` numeral on the
+  numbered sections (was muted-grey, no slash). (4) **Bignums** — large Newsreader serif
+  `clamp(3rem,7vw,6rem)` lh .8 (was small Geist Mono); grid-head aligns to baseline (`align-items:end`,
+  900px breakpoint). (5) **Doors** — titles "Reading/Study/Deeper" (new `landing.doorRead/Study/Deeper`
+  keys; EN matches the prototype's hardcoded long forms, others use natural nouns), border-left dividers
+  with first card flush-left. (6) **em-accent** — added EN-only `*…*` emphasis (teal italic) on intro
+  "two thousand years", WHO believe/doubt/study, and a line-broken scope headline with "hide" — exactly
+  mirroring the prototype, which restores em only for EN (`textContent` strips it for other locales);
+  intro/scope statement headlines set to weight 400 to match the prototype's `<p class="h2">`.
+  (7) **Footer** — rebuilt to the prototype's **dark** surface (was light): serif brand blurb + Read /
+  Method link columns + legal line (dropped the prototype-only "Redesign · Light & Darkness" badge).
+  i18n parity verified (all 4 locales identical key sets); non-EN spot-checked (translated door labels,
+  no em-accent). Gate green (841 · build · lint · content:lint). Bible content/parsers/loader/routes
+  untouched.
 
 ## Completed phases & bundles (chronological by closure)
 

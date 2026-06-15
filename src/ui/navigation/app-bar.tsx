@@ -52,7 +52,7 @@ export function AppBar() {
       }`}
       aria-label="Main navigation"
     >
-      <div className="max-w-5xl mx-auto h-full px-4 md:px-6 flex items-center justify-between gap-3">
+      <div className="h-full px-[clamp(18px,4vw,52px)] flex items-center justify-between gap-3">
         {/* Left: brand mark + wordmark + breadcrumb */}
         <div className="flex items-center gap-3 min-w-0">
           <a
@@ -66,7 +66,7 @@ export function AppBar() {
                 over ? "text-on-dark" : "text-text-primary"
               }`}
             >
-              {t("site.title")}
+              {t("site.brand")}
             </span>
           </a>
 
@@ -131,7 +131,7 @@ export function AppBar() {
 
           {/* biome-ignore lint/a11y/useSemanticElements: a labelled group of locale links, not a form fieldset */}
           <div
-            className={`inline-flex shrink-0 rounded-full border overflow-hidden font-[family-name:var(--font-mono)] text-[11px] tracking-[0.03em] ${
+            className={`order-first inline-flex shrink-0 rounded-full border overflow-hidden font-[family-name:var(--font-mono)] text-[11px] tracking-[0.03em] ${
               over ? "border-on-dark-soft/50" : "border-border"
             }`}
             role="group"

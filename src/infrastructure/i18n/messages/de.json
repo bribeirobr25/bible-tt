@@ -1,7 +1,12 @@
 {
   "site": {
     "title": "Die Transparente Übersetzung",
+    "brand": "Transparent Translation",
     "subtitle": "Eine Übersetzung, die nichts verbirgt."
+  },
+  "footer": {
+    "read": "Lesen",
+    "method": "Methode"
   },
   "nav": {
     "home": "Startseite",
@@ -212,6 +217,9 @@
     "diff4title": "Man sieht die Nähte",
     "diff4": "Jedes kursiv gesetzte Wort wurde hinzugefügt, damit Deutsch funktioniert. Es steht nicht im Hebräischen. Man weiß immer, was Original ist und was Gerüst.",
     "howTitle": "Drei Arten zu lesen",
+    "doorRead": "Lesung",
+    "doorStudy": "Studie",
+    "doorDeeper": "Vertiefen",
     "howReading": "Die ganze Geschichte als fließende Prosa auf einer sauberen Seite. Keine Fußnoten, keine Unterbrechungen. Nur Sie und der Text.",
     "howStudy": "Das Hebräische hinter jedem Wort, wo wir Entscheidungen getroffen haben und warum. Vers für Vers, farbkodiert.",
     "whoTitle": "Für wen ist das?",

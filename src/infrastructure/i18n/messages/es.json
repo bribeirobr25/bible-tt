@@ -1,7 +1,12 @@
 {
   "site": {
     "title": "La Traducción Transparente",
+    "brand": "Transparent Translation",
     "subtitle": "Una traducción sin nada oculto."
+  },
+  "footer": {
+    "read": "Leer",
+    "method": "Método"
   },
   "nav": {
     "home": "Inicio",
@@ -212,6 +217,9 @@
     "diff4title": "Se ven las costuras",
     "diff4": "Toda palabra en cursiva fue añadida para que el español funcione. No está en el hebreo. Siempre sabes qué es original y qué es andamiaje.",
     "howTitle": "Tres formas de leer",
+    "doorRead": "Lectura",
+    "doorStudy": "Estudio",
+    "doorDeeper": "Profundizar",
     "howReading": "La historia completa como prosa fluida en una página limpia. Sin notas al pie, sin interrupciones. Solo tú y el texto.",
     "howStudy": "El hebreo detrás de cada palabra, dónde tomamos decisiones y por qué. Verso a verso, codificado por colores.",
     "whoTitle": "¿Para quién es esto?",

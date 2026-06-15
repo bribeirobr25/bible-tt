@@ -1,52 +1,78 @@
 import { getTranslations } from "next-intl/server";
 
 /**
- * Site footer (Light & Darkness). Brand blurb + method links + legal line.
- * Server-rendered; labels from existing i18n keys (no new keys).
+ * Site footer (Light & Darkness). Dark surface, serif brand blurb + two link
+ * columns (Read / Method) + legal line — matches the redesign prototype.
+ * Server-rendered; labels from existing i18n keys.
  */
 export async function SiteFooter({ locale }: { locale: string }) {
   const t = await getTranslations();
-  const links = [
+
+  const read = [
+    { href: `/${locale}/genesis`, label: t("book.genesis") },
     { href: `/${locale}/books`, label: t("nav.books") },
-    { href: `/${locale}/rules`, label: t("landing.ctaRules") },
     { href: `/${locale}/start`, label: t("start.title") },
+  ];
+  const method = [
+    { href: `/${locale}/rules`, label: t("landing.ctaRules") },
+    {
+      href: `/${locale}/genesis/introduction`,
+      label: t("nav.bookIntroduction"),
+    },
+    { href: `/${locale}/genesis/people`, label: t("people.title") },
   ];
 
   return (
-    <footer className="border-t border-border mt-24">
-      <div className="max-w-5xl mx-auto px-4 md:px-6 py-12 grid gap-8 sm:grid-cols-[1.4fr_1fr]">
-        <div>
-          <div className="flex items-center gap-2.5">
-            <span className="tt-mark" aria-hidden="true" />
-            <span className="font-[family-name:var(--font-mono)] text-[12.5px] font-semibold uppercase tracking-[0.06em] text-text-primary">
-              {t("site.title")}
-            </span>
+    <footer className="bg-dark text-on-dark-mute pt-16 pb-12">
+      <div className="max-w-[1320px] mx-auto px-[clamp(18px,4vw,52px)]">
+        <div className="grid gap-9 sm:grid-cols-[2fr_1fr_1fr]">
+          <div>
+            <p className="font-[family-name:var(--font-reading)] text-[clamp(1.3rem,2.4vw,1.8rem)] leading-[1.2] text-on-dark max-w-[22ch]">
+              {t("site.subtitle")}
+            </p>
           </div>
-          <p className="font-[family-name:var(--font-reading)] mt-3 text-text-secondary max-w-sm text-base leading-relaxed">
-            {t("site.subtitle")}
-          </p>
+          <FooterCol
+            title={t("footer.read")}
+            links={read}
+            home={t("nav.home")}
+          />
+          <FooterCol
+            title={t("footer.method")}
+            links={method}
+            home={t("nav.home")}
+          />
         </div>
-        <nav
-          className="flex flex-col gap-2.5 font-[family-name:var(--font-mono)] text-[12px] uppercase tracking-[0.04em]"
-          aria-label={t("nav.home")}
-        >
-          {links.map((l) => (
-            <a
-              key={l.href}
-              href={l.href}
-              className="text-text-secondary hover:text-accent transition-colors duration-150 w-fit focus-visible:outline-2 focus-visible:outline-accent focus-visible:outline-offset-2 rounded"
-            >
-              {l.label}
-            </a>
-          ))}
-        </nav>
-      </div>
-      <div className="border-t border-border-muted">
-        <div className="max-w-5xl mx-auto px-4 md:px-6 py-4 flex flex-wrap gap-2 justify-between font-[family-name:var(--font-mono)] text-[11px] text-text-muted">
+        <div className="mt-12 pt-6 border-t border-on-dark-soft/15 flex flex-wrap gap-3 justify-between font-[family-name:var(--font-mono)] text-[11px] tracking-[0.08em] uppercase text-on-dark-mute">
           <span>© {t("site.title")} · EN · PT · DE · ES</span>
-          <span>Light &amp; Darkness</span>
         </div>
       </div>
     </footer>
+  );
+}
+
+function FooterCol({
+  title,
+  links,
+  home,
+}: {
+  title: string;
+  links: { href: string; label: string }[];
+  home: string;
+}) {
+  return (
+    <nav aria-label={`${home} — ${title}`}>
+      <h4 className="font-[family-name:var(--font-mono)] text-[11px] tracking-[0.14em] uppercase text-on-dark-soft mb-4">
+        {title}
+      </h4>
+      {links.map((l) => (
+        <a
+          key={l.href}
+          href={l.href}
+          className="block text-on-dark-soft text-sm py-[5px] hover:text-petrol transition-colors duration-200 w-fit focus-visible:outline-2 focus-visible:outline-accent focus-visible:outline-offset-2 rounded"
+        >
+          {l.label}
+        </a>
+      ))}
+    </nav>
   );
 }

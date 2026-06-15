@@ -44,19 +44,19 @@ export default async function LandingPage({
   const doors = [
     {
       idx: "01",
-      label: t("nav.doorRead"),
+      label: t("landing.doorRead"),
       desc: t("landing.howReading"),
       href: "/genesis/chapter/1",
     },
     {
       idx: "02",
-      label: t("nav.doorNotes"),
+      label: t("landing.doorStudy"),
       desc: t("landing.howStudy"),
       href: "/genesis/chapter/1/notes",
     },
     {
       idx: "03",
-      label: t("nav.doorDeeper"),
+      label: t("landing.doorDeeper"),
       desc: t("landing.howDeeper"),
       href: "/genesis/chapter/1/deeper",
     },
@@ -73,42 +73,47 @@ export default async function LandingPage({
       {/* HERO — Gen 1:4 separation field (logged design-rule exception).
           -mt-16 cancels the layout's header offset so the hero bleeds under the
           transparent over-hero header. */}
-      <section className="relative isolate overflow-hidden bg-dark min-h-screen -mt-16 flex flex-col justify-center px-6 py-24">
+      <section className="relative isolate overflow-hidden bg-dark min-h-screen -mt-16 flex items-center">
         <SeparationHero />
-        <div className="relative z-10 max-w-[1320px] mx-auto w-full">
-          <p
-            className="font-[family-name:var(--font-mono)] text-xs uppercase tracking-[0.2em] mb-5"
-            style={{ color: "#fff", mixBlendMode: "difference" }}
-          >
+        {/* Shrink-to-content block, centered horizontally; the whole block blends
+            (difference) over the light/dark seam so the white text stays legible. */}
+        <div
+          className="relative z-10 w-fit mx-auto px-[clamp(18px,4vw,52px)]"
+          style={{ color: "#fff", mixBlendMode: "difference" }}
+        >
+          <p className="font-[family-name:var(--font-mono)] text-xs uppercase tracking-[0.2em] mb-[22px]">
             {t("book.genesis")} 1:4
           </p>
           <h1
             className="tt-display max-w-[15ch]"
-            style={{ color: "#fff", mixBlendMode: "difference" }}
             dangerouslySetInnerHTML={{
               __html: renderInlineSafe(t("landing.heroVerse")),
             }}
           />
-          <div className="mt-12 flex flex-wrap gap-3.5">
-            <Link href="/genesis/chapter/1" className="tt-btn tt-btn-pri">
-              {t("landing.cta")} <span className="arr">→</span>
-            </Link>
-            <Link href="/start" className="tt-btn tt-btn-ghost-light">
-              {t("landing.ctaStartHere")}
-            </Link>
-          </div>
+        </div>
+        {/* CTAs pinned bottom-center, outside the blended wrap so they render in
+            true ochre / translucent glass (prototype parity). */}
+        <div className="absolute inset-x-0 bottom-10 z-20 flex flex-wrap gap-3.5 justify-center px-5">
+          <Link href="/genesis/chapter/1" className="tt-btn tt-btn-pri">
+            {t("landing.cta")} <span className="arr">→</span>
+          </Link>
+          <Link href="/start" className="tt-btn tt-btn-ghost-light">
+            {t("landing.ctaStartHere")}
+          </Link>
         </div>
       </section>
 
       {/* INTRO STATEMENT */}
       <section className="tt-section bg-cream2 text-center">
         <div className="max-w-[880px] mx-auto px-6">
-          <p className="tt-kick justify-center flex reveal">
-            {t("site.title")}
-          </p>
-          <p className="tt-h1 reveal mt-3" data-d="1">
-            {t("landing.heroHeadline")}
-          </p>
+          <p className="tt-kick center reveal">{t("site.title")}</p>
+          <p
+            className="tt-h1 reveal font-normal [&_em]:text-accent [&_em]:italic"
+            data-d="1"
+            dangerouslySetInnerHTML={{
+              __html: renderInlineSafe(t("landing.heroHeadline")),
+            }}
+          />
           <p className="tt-lead reveal mt-5" data-d="2">
             {t("landing.heroSub")} {t("landing.heroSupport")}
           </p>
@@ -127,7 +132,9 @@ export default async function LandingPage({
           <div className="tt-grid-head">
             <div className="tt-bignum reveal">01</div>
             <div>
-              <p className="tt-kick reveal">{t("landing.differenceKicker")}</p>
+              <p className="tt-kick reveal">
+                <span className="num">/</span> {t("landing.differenceKicker")}
+              </p>
               <h2 className="tt-h1 reveal max-w-[16ch]" data-d="1">
                 {t("landing.differenceTitle")}
               </h2>
@@ -172,7 +179,7 @@ export default async function LandingPage({
                   {d.title}
                 </h4>
                 <p
-                  className="text-[14.5px] text-text-secondary mt-2 leading-[1.7] [&_em]:text-accent"
+                  className="text-[14.5px] text-text-secondary mt-2 leading-[1.7] [&_em]:text-accent [&_em]:italic"
                   dangerouslySetInnerHTML={{ __html: renderInlineSafe(d.body) }}
                 />
               </div>
@@ -192,8 +199,8 @@ export default async function LandingPage({
               02
             </div>
             <div>
-              <p className="tt-kick reveal text-on-dark-mute">
-                {t("landing.howKicker")}
+              <p className="tt-kick reveal">
+                <span className="num">/</span> {t("landing.howKicker")}
               </p>
               <h2 className="tt-h1 reveal text-on-dark" data-d="1">
                 {t("landing.howTitle")}
@@ -218,7 +225,9 @@ export default async function LandingPage({
           <div className="tt-grid-head">
             <div className="tt-bignum reveal">03</div>
             <div>
-              <p className="tt-kick reveal">{t("landing.whoTitle")}</p>
+              <p className="tt-kick reveal">
+                <span className="num">/</span> {t("landing.whoTitle")}
+              </p>
               <h2 className="tt-h1 reveal" data-d="1">
                 {t("landing.threeReaders")}
               </h2>
@@ -228,7 +237,10 @@ export default async function LandingPage({
             {who.map((w) => (
               <p key={w.t} className="reveal">
                 <span className="t">{w.t}</span>
-                <span>{w.body}</span>
+                <span
+                  className="[&_em]:text-accent [&_em]:italic"
+                  dangerouslySetInnerHTML={{ __html: renderInlineSafe(w.body) }}
+                />
               </p>
             ))}
           </div>
@@ -238,12 +250,19 @@ export default async function LandingPage({
       {/* SCOPE / FINAL */}
       <section className="tt-section bg-cream2 text-center">
         <div className="max-w-[880px] mx-auto px-6">
-          <p className="tt-kick justify-center flex reveal">
-            {t("landing.scopeTitle")}
+          <p className="tt-kick center reveal">
+            <span className="num">/</span> {t("landing.scopeTitle")}
           </p>
-          <h2 className="tt-h1 reveal mt-3" data-d="1">
-            {t("landing.scopeHeadline")}
-          </h2>
+          <h2
+            className="tt-h1 reveal font-normal [&_em]:text-accent [&_em]:italic"
+            data-d="1"
+            dangerouslySetInnerHTML={{
+              __html: renderInlineSafe(t("landing.scopeHeadline")).replace(
+                /\n/g,
+                "<br>",
+              ),
+            }}
+          />
           <p className="tt-lead reveal mt-6" data-d="2">
             {t("landing.scope")}
           </p>

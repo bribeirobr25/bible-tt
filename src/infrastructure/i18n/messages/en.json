@@ -1,7 +1,12 @@
 {
   "site": {
     "title": "The Transparent Translation",
+    "brand": "Transparent Translation",
     "subtitle": "A translation with nothing hidden."
+  },
+  "footer": {
+    "read": "Read",
+    "method": "Method"
   },
   "nav": {
     "home": "Home",
@@ -212,12 +217,15 @@
     "diff4title": "You can see the seams",
     "diff4": "Every word in italics was added to make English work. It is not in the Hebrew. You always know what is original and what is scaffolding.",
     "howTitle": "Three ways to read",
+    "doorRead": "Reading",
+    "doorStudy": "Study",
+    "doorDeeper": "Deeper",
     "howReading": "The full story as flowing prose on a clean page. No footnotes, no interruptions. Just you and the text.",
     "howStudy": "The Hebrew behind every word, where we made choices, and why. Verse by verse, color-coded.",
     "whoTitle": "Who is this for?",
-    "who1": "You believe — and you want to meet the text as it was actually written, before centuries of translation smoothed it over.",
-    "who2": "You doubt, or follow another path entirely — and you are willing to be surprised by what the originals actually say.",
-    "who3": "You study these texts and want a translation that shows its work: every choice visible, every uncertainty admitted.",
+    "who1": "You *believe* — and you want to meet the text as it was actually written, before centuries of translation smoothed it over.",
+    "who2": "You *doubt*, or follow another path entirely — and you are willing to be surprised by what the originals actually say.",
+    "who3": "You *study* these texts and want a translation that shows its work: every choice visible, every uncertainty admitted.",
     "scopeTitle": "What this is",
     "scope": "This one shows you exactly where — in English, Portuguese, German, and Spanish. It is not a devotional. It is not a replacement for scholarly editions. It is a disciplined attempt to let you see what is actually there.",
     "scopeNot": "When we don't know something, we say so. When scholars disagree, we show you both sides.",
@@ -298,7 +306,7 @@
     "rule29name": "Contextual Enrichment",
     "rule29short": "Companion material in separate files, labeled by type and confidence.",
     "howDeeper": "Historical and linguistic background, prophecy readings, and the people behind the text — each labeled by claim type and confidence.",
-    "heroHeadline": "Read the originals behind two thousand years of culture.",
+    "heroHeadline": "Read the originals behind *two thousand years* of culture.",
     "heroSub": "The source texts, shown honestly — every translation choice visible.",
     "heroSupport": "For believers, skeptics, and the merely curious alike — the text without the filter.",
     "ctaStartHere": "New here? Start here",
@@ -306,7 +314,7 @@
     "differenceKicker": "The difference",
     "howKicker": "How it works",
     "threeReaders": "Three readers",
-    "scopeHeadline": "Every translation makes choices. Most hide them."
+    "scopeHeadline": "Every translation makes choices.\nMost *hide* them."
   },
   "start": {
     "title": "Start here",
