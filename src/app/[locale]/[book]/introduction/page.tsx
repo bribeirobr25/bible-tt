@@ -2,7 +2,6 @@ import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { getTranslations, setRequestLocale } from "next-intl/server";
 import { AVAILABLE_BOOKS } from "@/domain/books/registry";
-import type { ClaimType, ConfidenceLevel } from "@/domain/content/types";
 import type { Locale } from "@/infrastructure/i18n/config";
 import { getAvailableBooks, getIntroductionData } from "@/lib/content-loader";
 import {
@@ -69,27 +68,6 @@ export default async function BookIntroductionPage({
     sources: t("introduction.section.sources"),
   };
 
-  const labelMaps = {
-    claimTypes: {
-      TEXTUAL: t("claimType.textual"),
-      "STRONG INFERENCE": t("claimType.strongInference"),
-      "POSSIBLE INFERENCE": t("claimType.possibleInference"),
-      "COMPARATIVE PARALLEL": t("claimType.comparativeParallel"),
-      "LATER RECEPTION": t("claimType.laterReception"),
-      "HISTORICAL / ARCHAEOLOGICAL": t("claimType.historicalArchaeological"),
-      "SCIENTIFIC COMPARISON": t("claimType.scientificComparison"),
-      SPECULATION: t("claimType.speculation"),
-    } as Record<ClaimType, string>,
-    confidence: {
-      VERIFIED: t("confidence.verified"),
-      PROBABLE: t("confidence.probable"),
-      POSSIBLE: t("confidence.possible"),
-      UNCERTAIN: t("confidence.uncertain"),
-      SPECULATIVE: t("confidence.speculative"),
-      DOCUMENTED: t("confidence.documented"),
-    } as Record<ConfidenceLevel, string>,
-  };
-
   const bookName = t(`book.${book}`);
   return (
     <>
@@ -133,12 +111,7 @@ export default async function BookIntroductionPage({
           paddingBottom: "clamp(48px,8vh,90px)",
         }}
       >
-        <IntroductionView
-          data={introduction}
-          sectionLabels={sectionLabels}
-          readingNoteLabel={t("introduction.readingNote")}
-          labelMaps={labelMaps}
-        />
+        <IntroductionView data={introduction} sectionLabels={sectionLabels} />
         <DoorPager
           left={{ href: `/${book}`, label: bookName }}
           right={{ href: `/${book}/chapter/1`, label: `${bookName} 1` }}

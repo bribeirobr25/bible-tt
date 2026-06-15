@@ -1,22 +1,13 @@
 import {
-  type ClaimType,
-  type ConfidenceLevel,
   type IntroductionData,
   sortByConfidence,
 } from "@/domain/content/types";
 import { renderInlineSafe } from "@/ui/shared/render-markdown-safe";
 import { EnrichmentEntryCard } from "./enrichment-entry";
 
-export interface LabelMaps {
-  claimTypes: Record<ClaimType, string>;
-  confidence: Record<ConfidenceLevel, string>;
-}
-
 interface IntroductionViewProps {
   data: IntroductionData;
   sectionLabels: Record<string, string>;
-  readingNoteLabel: string;
-  labelMaps: LabelMaps;
 }
 
 /**
