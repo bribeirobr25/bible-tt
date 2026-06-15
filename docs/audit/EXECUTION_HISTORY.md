@@ -104,6 +104,20 @@ Each phase ends green (test · build · lint · content:lint) + per-locale visua
   match source, full Continuous Reading present; **no loss, no mixing, no mis-reference.** Visually
   spot-checked Genesis 1 Notes in EN/DE/ES (right verse, right place, right language, italics
   preserved).
+- **Book pages + reading-detail colors pixel-match (2026-06-16).** Closed the remaining template
+  gaps. **Verse numbers** (Read) → brighter petrol (prototype `sup.vn` = `--accent`), not the deep
+  accent. **Notes** → verse cards rebuilt to the prototype `.verse`: petrol number + serif text +
+  bordered "Link" pill (`chapter.link/copied`); notes **always-visible** with uniform cream-2 background
+  + colored left border / dot / label per type (no icon). **Deeper** → enrichment cards uniform cream-2
+  + deep-accent left border + serif title → chips → body → source (`tt-enrich`); dashed tinted
+  `tt-disclaimer`; cream section disclosures; underline sub-tabs. **Book hub** (`/[book]`) rebuilt to
+  `index.html` — chapter-head (corpus ref) + at-a-glance `tt-glance` dl + deep/ghost CTAs + chapter grid
+  (`tt-chgrid`) + explore `tt-entrygrid`; new CSS + `nav.explore`/entry-desc keys (4 locales).
+  **Introduction + Background** → chapter-head + door pager + bodies restyled to `tt-disclaimer` + cream
+  `tt-details` sections of `tt-enrich` cards. **People** head → chapter-head (its profile-card internals
+  carried over from P3). New CSS: tt-verse/tt-note/tt-enrich/tt-disclaimer/tt-secintro/tt-glance/
+  tt-chgrid/tt-entry/tt-deeper-section. Validated book hub/intro/background in EN+PT+DE+ES + Read/Notes/
+  Deeper via Docker MCP. Content/parsers/loader untouched. Gate green (841 · build · lint · parity).
 - **Reading + people pages pixel-match — chapter/notes/deeper/people (2026-06-15).** Reworked the
   content-page chrome + bodies to the prototype templates across all 4 locales. **Logo:** over-hero
   header no longer whitens the mark's ochre slash (consistent icon everywhere). **Sub-heroes:**
