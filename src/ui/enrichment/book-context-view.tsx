@@ -20,17 +20,17 @@ export function BookContextView({ data }: { data: BookContextData }) {
   }
 
   return (
-    <div className="space-y-6">
+    <div className="tt-deeper-section">
       {data.disclaimer && (
         <div
-          className="text-xs text-text-muted italic border-l-2 border-border-muted pl-3 py-1"
+          className="tt-disclaimer"
           dangerouslySetInnerHTML={{
             __html: renderInlineSafe(data.disclaimer),
           }}
         />
       )}
 
-      <div className="space-y-4">
+      <div>
         {data.motifs.map((motif) => {
           const entry: EnrichmentEntry = {
             title: motif.title,
