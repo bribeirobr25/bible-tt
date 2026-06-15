@@ -105,7 +105,7 @@ export default async function LandingPage({
 
       {/* INTRO STATEMENT */}
       <section className="tt-section bg-cream2 text-center">
-        <div className="max-w-[880px] mx-auto px-6">
+        <div className="max-w-[880px] mx-auto px-[clamp(18px,4vw,52px)]">
           <p className="tt-kick center reveal">{t("site.title")}</p>
           <p
             className="tt-h1 reveal font-normal [&_em]:text-accent [&_em]:italic"
@@ -128,7 +128,7 @@ export default async function LandingPage({
 
       {/* THE DIFFERENCE */}
       <section className="tt-section">
-        <div className="max-w-[1320px] mx-auto px-6">
+        <div className="max-w-[1320px] mx-auto px-[clamp(18px,4vw,52px)]">
           <div className="tt-grid-head">
             <div className="tt-bignum reveal">01</div>
             <div>
@@ -190,7 +190,7 @@ export default async function LandingPage({
 
       {/* THREE DOORS */}
       <section className="tt-section bg-dark">
-        <div className="max-w-[1320px] mx-auto px-6">
+        <div className="max-w-[1320px] mx-auto px-[clamp(18px,4vw,52px)]">
           <div className="tt-grid-head">
             <div
               className="tt-bignum reveal"
@@ -221,7 +221,7 @@ export default async function LandingPage({
 
       {/* WHO */}
       <section className="tt-section">
-        <div className="max-w-[1320px] mx-auto px-6">
+        <div className="max-w-[1320px] mx-auto px-[clamp(18px,4vw,52px)]">
           <div className="tt-grid-head">
             <div className="tt-bignum reveal">03</div>
             <div>
@@ -249,7 +249,7 @@ export default async function LandingPage({
 
       {/* SCOPE / FINAL */}
       <section className="tt-section bg-cream2 text-center">
-        <div className="max-w-[880px] mx-auto px-6">
+        <div className="max-w-[880px] mx-auto px-[clamp(18px,4vw,52px)]">
           <p className="tt-kick center reveal">
             <span className="num">/</span> {t("landing.scopeTitle")}
           </p>
