@@ -1,4 +1,3 @@
-import { ArrowRight, BookOpen, Layers, Users } from "lucide-react";
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { getTranslations, setRequestLocale } from "next-intl/server";
@@ -17,9 +16,12 @@ import {
   seoMetadata,
   truncateDescription,
 } from "@/lib/seo";
-import { BookCard } from "@/ui/enrichment/book-card";
 import { Link } from "@/ui/navigation/locale-link";
 import { JsonLd } from "@/ui/shared/json-ld";
+import { renderInlineSafe } from "@/ui/shared/render-markdown-safe";
+
+const WRAP = "max-w-[1320px] mx-auto px-[clamp(18px,4vw,52px)]";
+const HEBREW_BIBLE = new Set(["genesis"]);
 
 export async function generateStaticParams() {
   const books = await getAvailableBooks("en");
@@ -61,111 +63,157 @@ export default async function BookPage({
   }
 
   const t = await getTranslations();
+  const bookName = t(`book.${book}`);
   const chapters = await getAvailableChapters(locale, book);
-  // Phase 5b: landing leads with the tight "card" (What·When·Who·To-whom·Why)
-  // + a link to the full introduction; the long overview dump is gone.
   const intro = await getIntroductionData(locale as Locale, book);
-  const card = intro?.card;
-  const hasFullIntroduction = intro != null;
+  const card = intro?.card ?? [];
   const people = await getPeopleData(locale as Locale, book);
+  const corpus = HEBREW_BIBLE.has(book)
+    ? t("books.corpusHebrew")
+    : t("books.corpusGreek");
+
+  const entries = [
+    {
+      href: `/${book}/introduction`,
+      title: t("nav.bookIntroduction"),
+      desc: t("nav.exploreIntroDesc"),
+      show: intro != null,
+    },
+    {
+      href: `/${book}/people`,
+      title: t("people.title"),
+      desc: t("nav.explorePeopleDesc"),
+      show: !!people && people.entries.length > 0,
+    },
+    {
+      href: `/${book}/background`,
+      title: t("nav.bookContext"),
+      desc: t("nav.exploreBackgroundDesc"),
+      show: true,
+    },
+  ].filter((e) => e.show);
 
   return (
-    <main className="min-h-screen flex flex-col items-center px-6 py-12">
+    <>
       <JsonLd
         data={[
-          bookJsonLd({ locale, book, name: t(`book.${book}`) }),
+          bookJsonLd({ locale, book, name: bookName }),
           breadcrumbJsonLd([
             { name: t("site.title"), url: canonicalUrl(locale, "") },
-            { name: t("nav.selectBook"), url: canonicalUrl(locale, "books") },
-            { name: t(`book.${book}`), url: canonicalUrl(locale, book) },
+            { name: t("nav.books"), url: canonicalUrl(locale, "books") },
+            { name: bookName, url: canonicalUrl(locale, book) },
           ]),
         ]}
       />
-      <div className="max-w-lg w-full space-y-8">
-        <div className="text-center">
-          <h1 className="font-[family-name:var(--font-reading)] text-3xl md:text-4xl font-light">
-            {t(`book.${book}`)}
-          </h1>
-        </div>
 
-        {card && card.length > 0 && (
-          <div className="space-y-3">
-            <BookCard fields={card} title={t("nav.atAGlance")} />
-            {hasFullIntroduction && (
-              <Link
-                href={`/${book}/introduction`}
-                className="inline-flex items-center gap-1.5 text-sm text-accent hover:text-accent-hover transition-colors duration-150 focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2 rounded"
-              >
-                {t("nav.readFullIntroduction")}
-                <ArrowRight size={14} strokeWidth={1.5} />
-              </Link>
-            )}
-          </div>
-        )}
-
-        {chapters.length > 0 && (
-          <Link
-            href={`/${book}/chapter/${chapters[0]}`}
-            className="flex items-center justify-center gap-2 min-h-12 px-6 py-3 rounded-lg bg-accent text-bg-paper font-medium hover:bg-accent-hover transition-colors duration-200 focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2 active:scale-[0.99]"
-          >
-            <BookOpen size={18} strokeWidth={1.5} className="shrink-0" />
-            {t("nav.startReading")}
-          </Link>
-        )}
-
-        <div className="flex flex-col sm:flex-row gap-3">
-          {people && people.entries.length > 0 && (
-            <Link
-              href={`/${book}/people`}
-              className="flex-1 flex items-center gap-3 min-h-11 px-4 py-3 rounded-lg border border-border hover:border-accent/40 hover:bg-bg-surface transition-colors duration-200 focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2"
+      <div className={`tt-chapter-head ${WRAP}`}>
+        <nav className="tt-crumb" aria-label="Breadcrumb">
+          <Link href="/">{t("nav.home")}</Link>
+          <span className="sep">/</span>
+          <Link href="/books">{t("nav.books")}</Link>
+          <span className="sep">/</span>
+          <span>{bookName}</span>
+        </nav>
+        <div className="tt-title-row">
+          <div>
+            <div className="tt-ref">{corpus}</div>
+            <h1
+              className="tt-chapter-title"
+              style={{ fontSize: "clamp(2.8rem,8vw,6rem)" }}
             >
-              <Users
-                size={18}
-                strokeWidth={1.5}
-                className="text-text-muted shrink-0"
-              />
-              <span className="font-[family-name:var(--font-ui)] text-sm font-medium text-text-primary">
-                {t("people.title")}
-              </span>
-              <span className="text-xs text-text-muted ml-auto">
-                {people.entries.length}
-              </span>
-            </Link>
-          )}
-          <Link
-            href={`/${book}/background`}
-            className="flex-1 flex items-center gap-3 min-h-11 px-4 py-3 rounded-lg border border-border hover:border-accent/40 hover:bg-bg-surface transition-colors duration-200 focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2"
-          >
-            <Layers
-              size={18}
-              strokeWidth={1.5}
-              className="text-text-muted shrink-0"
-            />
-            <span className="font-[family-name:var(--font-ui)] text-sm font-medium text-text-primary">
-              {t("nav.bookContext")}
-            </span>
-          </Link>
+              {bookName}
+            </h1>
+          </div>
+          <span className="tt-status-pill">
+            <span className="dot" aria-hidden="true" />
+            {t("people.provisional")}
+          </span>
         </div>
-
-        <div>
-          <p className="text-sm text-text-muted mb-3">
-            {t("nav.selectChapter")}
-          </p>
-          <nav className="space-y-3">
-            {chapters.map((ch) => (
-              <Link
-                key={ch}
-                href={`/${book}/chapter/${ch}`}
-                className="block px-5 py-4 rounded-lg border border-border hover:border-accent/40 hover:bg-bg-surface transition-colors duration-200 focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2 active:scale-[0.99]"
-              >
-                <span className="font-medium">
-                  {t("chapter.chapterN", { n: ch })}
-                </span>
-              </Link>
-            ))}
-          </nav>
-        </div>
+        <hr className="tt-seam mt-[26px]" />
       </div>
-    </main>
+
+      <main
+        className={WRAP}
+        style={{
+          paddingTop: "clamp(36px,6vh,64px)",
+          paddingBottom: "clamp(48px,8vh,90px)",
+        }}
+      >
+        {/* at a glance */}
+        {card.length > 0 && (
+          <section className="mb-[clamp(48px,8vh,90px)]">
+            <p className="tt-kick">{t("nav.atAGlance")}</p>
+            <dl className="tt-glance">
+              {card.map((f) => (
+                <div key={f.label}>
+                  <dt>{f.label}</dt>
+                  <dd
+                    dangerouslySetInnerHTML={{
+                      __html: renderInlineSafe(f.value),
+                    }}
+                  />
+                </div>
+              ))}
+            </dl>
+            <div className="mt-[30px] flex flex-wrap gap-3.5">
+              {chapters.length > 0 && (
+                <Link
+                  href={`/${book}/chapter/${chapters[0]}`}
+                  className="tt-btn tt-btn-deep"
+                >
+                  {t("nav.startReading")} <span className="arr">→</span>
+                </Link>
+              )}
+              {intro != null && (
+                <Link
+                  href={`/${book}/introduction`}
+                  className="tt-btn tt-btn-ghost"
+                >
+                  {t("nav.readFullIntroduction")}
+                </Link>
+              )}
+            </div>
+          </section>
+        )}
+
+        {/* chapters */}
+        {chapters.length > 0 && (
+          <section className="mb-[clamp(48px,8vh,90px)]">
+            <p className="tt-kick">{t("nav.chapters")}</p>
+            <div className="tt-chgrid">
+              {chapters.map((ch) => (
+                <Link
+                  key={ch}
+                  href={`/${book}/chapter/${ch}`}
+                  className="tt-ch"
+                >
+                  <span className="cn">{ch}</span>
+                  <span className="cl">{t("nav.doorRead")} →</span>
+                </Link>
+              ))}
+            </div>
+            <p className="mt-4 font-[family-name:var(--font-mono)] text-text-muted text-xs">
+              {t("books.chaptersAvailable", { n: chapters.length })}
+            </p>
+          </section>
+        )}
+
+        {/* entry points */}
+        {entries.length > 0 && (
+          <section>
+            <p className="tt-kick">{t("nav.explore", { book: bookName })}</p>
+            <div className="tt-entrygrid">
+              {entries.map((e) => (
+                <Link key={e.href} href={e.href} className="tt-entry">
+                  <div className="et">{e.title}</div>
+                  <p>{e.desc}</p>
+                  <span className="arr">→</span>
+                </Link>
+              ))}
+            </div>
+          </section>
+        )}
+      </main>
+    </>
   );
 }

@@ -1,4 +1,3 @@
-import { ChevronLeft } from "lucide-react";
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { getTranslations, setRequestLocale } from "next-intl/server";
@@ -12,8 +11,11 @@ import {
   truncateDescription,
 } from "@/lib/seo";
 import { BookContextView } from "@/ui/enrichment/book-context-view";
+import { DoorPager } from "@/ui/navigation/door-pager";
 import { Link } from "@/ui/navigation/locale-link";
 import { JsonLd } from "@/ui/shared/json-ld";
+
+const WRAP = "max-w-[1320px] mx-auto px-[clamp(18px,4vw,52px)]";
 
 export async function generateStaticParams() {
   const books = await getAvailableBooks("en");
@@ -52,46 +54,63 @@ export default async function BookContextPage({
   const t = await getTranslations();
   const data = await getBookContextData(locale as Locale, book);
 
+  const bookName = t(`book.${book}`);
   return (
-    <main className="min-h-screen flex flex-col items-center px-6 py-12">
+    <>
       <JsonLd
         data={breadcrumbJsonLd([
           { name: t("site.title"), url: canonicalUrl(locale, "") },
-          { name: t("nav.selectBook"), url: canonicalUrl(locale, "books") },
-          { name: t(`book.${book}`), url: canonicalUrl(locale, book) },
+          { name: t("nav.books"), url: canonicalUrl(locale, "books") },
+          { name: bookName, url: canonicalUrl(locale, book) },
           {
             name: t("nav.bookContext"),
             url: canonicalUrl(locale, `${book}/background`),
           },
         ])}
       />
-      <div className="max-w-3xl w-full space-y-8">
-        <div>
-          <Link
-            href={`/${book}`}
-            className="inline-flex items-center gap-1 text-sm text-text-muted hover:text-accent transition-colors duration-150 mb-4"
-          >
-            <ChevronLeft size={14} strokeWidth={1.5} />
-            {t(`book.${book}`)}
-          </Link>
-          <h1 className="font-[family-name:var(--font-reading)] text-2xl md:text-3xl font-light">
-            {t("nav.bookContext")}
-          </h1>
-          <p className="text-sm text-text-muted mt-2 italic">
-            {t("nav.bookContextDescription")}
-          </p>
+      <div className={`tt-chapter-head ${WRAP}`}>
+        <nav className="tt-crumb" aria-label="Breadcrumb">
+          <Link href="/">{t("nav.home")}</Link>
+          <span className="sep">/</span>
+          <Link href="/books">{t("nav.books")}</Link>
+          <span className="sep">/</span>
+          <Link href={`/${book}`}>{bookName}</Link>
+          <span className="sep">/</span>
+          <span>{t("nav.bookContext")}</span>
+        </nav>
+        <div className="tt-title-row">
+          <div>
+            <div className="tt-ref">{bookName}</div>
+            <h1 className="tt-chapter-title">{t("nav.bookContext")}</h1>
+          </div>
+          <span className="tt-status-pill">
+            <span className="dot" aria-hidden="true" />
+            {t("people.provisional")}
+          </span>
         </div>
-
+        <hr className="tt-seam mt-[26px]" />
+      </div>
+      <main
+        className={WRAP}
+        style={{
+          paddingTop: "clamp(36px,6vh,64px)",
+          paddingBottom: "clamp(48px,8vh,90px)",
+        }}
+      >
         {data ? (
           <BookContextView data={data} />
         ) : (
-          <div className="py-16 text-center">
+          <div className="tt-deeper-section py-16 text-center">
             <p className="text-sm text-text-muted italic">
               {t("nav.comingSoon")}
             </p>
           </div>
         )}
-      </div>
-    </main>
+        <DoorPager
+          left={{ href: `/${book}/people`, label: t("people.title") }}
+          right={{ href: `/${book}/chapter/1`, label: `${bookName} 1` }}
+        />
+      </main>
+    </>
   );
 }

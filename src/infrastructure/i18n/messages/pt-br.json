@@ -43,7 +43,11 @@
     "linkCopied": "Link copiado",
     "chapterViews": "Visualizações do capítulo",
     "atAGlance": "Em resumo",
-    "readFullIntroduction": "Ler a introdução completa"
+    "readFullIntroduction": "Ler a introdução completa",
+    "explore": "Explorar {book}",
+    "exploreIntroDesc": "Autoria, datação, transmissão do manuscrito e como ler este livro na TT.",
+    "explorePeopleDesc": "Perfis ampliados e uma linha do tempo de vida das figuras deste livro.",
+    "exploreBackgroundDesc": "Motivos e padrões que atravessam os capítulos do livro."
   },
   "bookContext": {
     "chapters": "Capítulos"

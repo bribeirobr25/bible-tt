@@ -43,7 +43,11 @@
     "linkCopied": "Link copied",
     "chapterViews": "Chapter views",
     "atAGlance": "At a glance",
-    "readFullIntroduction": "Read the full introduction"
+    "readFullIntroduction": "Read the full introduction",
+    "explore": "Explore {book}",
+    "exploreIntroDesc": "Authorship, dating, manuscript transmission, and how to read this book in the TT.",
+    "explorePeopleDesc": "Expanded profiles and a lifespan timeline of the figures in this book.",
+    "exploreBackgroundDesc": "Cross-chapter motifs and patterns that span the book."
   },
   "bookContext": {
     "chapters": "Chapters"
