@@ -222,7 +222,7 @@ export default async function PeoplePage({
             captionHistorical={t("people.timelineCaptionHistorical")}
           />
 
-          <div className="space-y-2">
+          <div>
             {items.map((item) =>
               item.kind === "person" ? (
                 <PersonCard

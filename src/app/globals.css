@@ -589,6 +589,20 @@ a.tt-ch:hover .cl { color: var(--color-petrol); }
 .tt-entry p { font-size: 14px; color: var(--color-text-secondary); line-height: 1.6; flex: 1; }
 .tt-entry .arr { color: var(--color-accent); }
 
+/* people — person profile disclosure (prototype .person) */
+.tt-person { border-top: 1px solid var(--color-border); padding: 26px 0; }
+.tt-person > summary { display: flex; flex-wrap: wrap; align-items: baseline; gap: 12px 16px; cursor: pointer; list-style: none; }
+.tt-person > summary::-webkit-details-marker { display: none; }
+.tt-person .pname { font-family: var(--font-reading); font-size: clamp(1.3rem, 2.4vw, 1.8rem); color: var(--color-text-primary); }
+.tt-person .pfam { color: var(--color-text-muted); font-style: italic; }
+.tt-person .plife { font-family: var(--font-mono); font-size: 12px; color: var(--color-text-muted); margin-left: auto; }
+.tt-person .pbody { padding-top: 18px; display: grid; gap: 10px; grid-template-columns: 1fr; }
+@media (min-width: 640px) { .tt-person .pbody { grid-template-columns: 1fr 1fr; } }
+.tt-person .field { font-size: 14px; line-height: 1.6; }
+.tt-person .field.wide { grid-column: 1 / -1; }
+.tt-person .field .fl { font-family: var(--font-mono); font-size: 10.5px; letter-spacing: 0.08em; text-transform: uppercase; color: var(--color-accent); display: block; margin-bottom: 2px; }
+.tt-person .field .fv { color: var(--color-text-secondary); }
+
 /* over the dark hero the mark square goes white, but the ochre slash stays so
    the logo reads as the same icon everywhere (prototype parity). */
 .tt-overhero .tt-mark { background: #fff !important; }
