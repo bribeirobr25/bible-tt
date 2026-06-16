@@ -170,6 +170,10 @@ export default async function PeoplePage({
   const items = buildRenderItems(book, sorted, (id) =>
     t(`people.watershed.${id}`),
   );
+  // Accordion rule: open the first profile, collapse the rest.
+  const firstPersonSlug = items.find(
+    (i): i is Extract<RenderItem, { kind: "person" }> => i.kind === "person",
+  )?.person.slug;
 
   return (
     <>
@@ -231,6 +235,7 @@ export default async function PeoplePage({
                   labels={labels}
                   locale={locale}
                   bookLabels={bookLabels}
+                  open={item.person.slug === firstPersonSlug}
                 />
               ) : (
                 <div

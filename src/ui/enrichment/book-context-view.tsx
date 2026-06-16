@@ -1,19 +1,19 @@
 import { useTranslations } from "next-intl";
-import type { BookContextData, EnrichmentEntry } from "@/domain/content/types";
-import { renderInlineSafe } from "@/ui/shared/render-markdown-safe";
-import { EnrichmentEntryCard } from "./enrichment-entry";
+import type { BookContextData } from "@/domain/content/types";
+import {
+  renderInlineSafe,
+  renderMarkdownSafe,
+} from "@/ui/shared/render-markdown-safe";
+import { ClaimBadge } from "./claim-badge";
 
-// Phase 9 — Book Context view.
-// Renders motifs in AUTHORING ORDER (no sortByConfidence per Phase 9 plan §3.4
-// + audit §3.4 fix). Each motif renders as an EnrichmentEntryCard via the
-// adapter below — Q5 Path A: motif.claimType uses the existing 8-member
-// ClaimType union, so the adapter is a trivial object reshape.
+// Phase 9 — Book Context view. Motifs render in AUTHORING ORDER, each as a
+// collapsible (page-wide `bg-acc` accordion: first open, rest closed, exclusive).
 export function BookContextView({ data }: { data: BookContextData }) {
   const t = useTranslations();
 
   if (data.motifs.length === 0) {
     return (
-      <div className="py-16 text-center">
+      <div className="tt-deeper-section py-16 text-center">
         <p className="text-sm text-text-muted italic">{t("nav.comingSoon")}</p>
       </div>
     );
@@ -30,30 +30,59 @@ export function BookContextView({ data }: { data: BookContextData }) {
         />
       )}
 
-      <div>
-        {data.motifs.map((motif) => {
-          const entry: EnrichmentEntry = {
-            title: motif.title,
-            claimType: motif.claimType,
-            confidence: motif.confidence,
-            content: motif.body,
-            source: motif.source,
-          };
-          return (
-            <div key={motif.slug} className="space-y-1">
+      {data.motifs.map((motif, i) => (
+        <details
+          key={motif.slug}
+          name="bg-acc"
+          className="tt-details"
+          open={i === 0}
+        >
+          <summary>
+            <span className="flex flex-col gap-1">
+              <span
+                className="font-[family-name:var(--font-reading)] text-[1.15rem]"
+                dangerouslySetInnerHTML={{
+                  __html: renderInlineSafe(motif.title),
+                }}
+              />
               {motif.chapters.length > 0 && (
-                <div className="flex items-center gap-1.5 text-xs text-text-muted">
-                  <span className="font-[family-name:var(--font-mono)] uppercase tracking-wider">
-                    {t("bookContext.chapters")}
-                  </span>
-                  <span>{motif.chapters.join(", ")}</span>
-                </div>
+                <span className="font-[family-name:var(--font-mono)] text-[11px] tracking-[0.06em] uppercase text-text-muted">
+                  {t("bookContext.chapters")} {motif.chapters.join(", ")}
+                </span>
               )}
-              <EnrichmentEntryCard entry={entry} />
+            </span>
+            <span className="chev" aria-hidden="true">
+              ›
+            </span>
+          </summary>
+          <div className="body">
+            <div className="tt-enrich">
+              <div className="labels">
+                <ClaimBadge
+                  claimType={motif.claimType}
+                  confidence={motif.confidence}
+                />
+              </div>
+              <div
+                className="ebody [&_em]:italic"
+                dangerouslySetInnerHTML={{
+                  __html: renderMarkdownSafe(motif.body, "note"),
+                }}
+              />
+              {motif.source && (
+                <p
+                  className="src"
+                  dangerouslySetInnerHTML={{
+                    __html: renderInlineSafe(
+                      t("enrichment.source", { source: motif.source }),
+                    ),
+                  }}
+                />
+              )}
             </div>
-          );
-        })}
-      </div>
+          </div>
+        </details>
+      ))}
     </div>
   );
 }

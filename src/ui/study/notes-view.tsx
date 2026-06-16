@@ -13,17 +13,23 @@ const CHIPS = [
 ] as const;
 
 /**
- * Phase 3 — the "Notes" door. Prototype flow: note-type legend → verse-by-verse
- * cards (deep-linkable anchors) → glossary → supplementary patterns. An optional
- * reading guide stays at the top as a disclosure.
+ * Phase 3 — the "Notes" door. Reading guide → note-type legend → (jump-links to
+ * the chapter-wide patterns waiting at the bottom) → verse-by-verse cards →
+ * glossary → supplementary patterns. The reading guide + supplementary share the
+ * page-wide `notes-acc` accordion (first open, rest closed, exclusive).
  */
 export async function NotesView({ data }: { data: ChapterData }) {
   const t = await getTranslations();
+  const supp = data.supplementarySections;
 
   return (
     <div>
       {data.readingGuide && (
-        <details className="tt-details max-w-[46rem] mx-auto">
+        <details
+          name="notes-acc"
+          className="tt-details max-w-[46rem] mx-auto"
+          open
+        >
           <summary>
             <span>{t("nav.readingGuide")}</span>
             <span className="chev" aria-hidden="true">
@@ -55,6 +61,26 @@ export async function NotesView({ data }: { data: ChapterData }) {
         ))}
       </div>
 
+      {supp.length > 0 && (
+        <div className="max-w-[46rem] mx-auto mb-6 rounded-lg border border-border bg-bg-surface px-4 py-3">
+          <p className="font-[family-name:var(--font-mono)] text-[10.5px] tracking-[0.1em] uppercase text-accent mb-2">
+            {t("notes.supplementary")}
+          </p>
+          <div className="flex flex-wrap gap-x-4 gap-y-1.5">
+            {supp.map((s, i) => (
+              <a
+                key={`jump-${i}`}
+                href={`#supp-${i}`}
+                className="inline-flex items-center gap-1 text-sm text-text-secondary hover:text-accent transition-colors duration-150"
+              >
+                <span aria-hidden="true">↓</span>
+                {s.title}
+              </a>
+            ))}
+          </div>
+        </div>
+      )}
+
       <div className="verses max-w-[46rem] mx-auto">
         {data.verses.map((verse) => (
           <VerseCard key={`v-${verse.number}`} verse={verse} />
@@ -68,9 +94,10 @@ export async function NotesView({ data }: { data: ChapterData }) {
         </section>
       )}
 
-      {data.supplementarySections.length > 0 && (
+      {supp.length > 0 && (
         <section className="max-w-[46rem] mx-auto mt-[60px]">
-          <SupplementaryPanel sections={data.supplementarySections} />
+          <p className="tt-kick">{t("notes.supplementary")}</p>
+          <SupplementaryPanel sections={supp} firstOpen={!data.readingGuide} />
         </section>
       )}
     </div>

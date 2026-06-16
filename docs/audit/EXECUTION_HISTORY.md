@@ -104,6 +104,18 @@ Each phase ends green (test · build · lint · content:lint) + per-locale visua
   match source, full Continuous Reading present; **no loss, no mixing, no mis-reference.** Visually
   spot-checked Genesis 1 Notes in EN/DE/ES (right verse, right place, right language, italics
   preserved).
+- **UX improvements — accordion behavior + reading/notes affordances (2026-06-16).** Two global rules
+  for every `<details>` group via the native exclusive-accordion `name` attribute + `open` on the first:
+  (1) first expandable open, rest collapsed; (2) opening one closes the others. Applied to deeper sections
+  (`deeper-acc`), intro sections (`intro-acc`), notes reading-guide + supplementary (`notes-acc`),
+  background motifs (`bg-acc`, now collapsible — previously all-open), and people profiles (`people-acc`,
+  first profile open). **Read:** glossary now also appears at the chapter end (`#glossary` anchor) with a
+  mono jump-link near the overview; in-reading rule-words highlighted — transliterations teal (`.term`),
+  Rule-11 italic additions ochre (`em`). **Notes:** a top "supplementary patterns" panel with jump-links
+  (`#supp-N`) to the chapter-wide sections waiting at the bottom. **Deeper:** Background + People↗ sub-tabs
+  now sit adjacent (dropped `margin-left:auto`). New i18n `notes.supplementary` (4 locales). Validated
+  structurally via curl (accordion attrs, anchors, jump-links) + gate; final screenshots pending Docker-MCP
+  reconnection. Content/parsers/loader untouched. Gate green (841 · build · lint · content:lint · parity).
 - **Book pages + reading-detail colors pixel-match (2026-06-16).** Closed the remaining template
   gaps. **Verse numbers** (Read) → brighter petrol (prototype `sup.vn` = `--accent`), not the deep
   accent. **Notes** → verse cards rebuilt to the prototype `.verse`: petrol number + serif text +

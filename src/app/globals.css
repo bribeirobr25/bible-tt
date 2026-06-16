@@ -502,8 +502,10 @@ html.tt-js .reveal.in {
 .tt-pager .pl { font-family: var(--font-mono); font-size: 10.5px; letter-spacing: 0.08em; text-transform: uppercase; color: var(--color-text-muted); }
 .tt-pager .right { text-align: right; margin-left: auto; align-items: flex-end; }
 
-/* in-reading transliteration term */
+/* in-reading rule-related words, highlighted so the reader sees them clearly:
+   transliterations (teal) and grammatical additions / Rule-11 italics (ochre). */
 .reading-text .term { color: var(--color-accent); font-style: italic; }
+.reading-text em { color: var(--color-ochre); font-style: italic; }
 
 /* collapsible disclosure (overview, supplementary, sources) */
 .tt-details { border: 1px solid var(--color-border); border-radius: 10px; background: var(--color-bg-surface); margin-bottom: 14px; overflow: hidden; }
@@ -543,7 +545,6 @@ html.tt-js .reveal.in {
 .tt-subtabs button[aria-selected="true"] { color: var(--color-accent); border-color: var(--color-accent); }
 .tt-subtabs button:hover,
 .tt-subtabs .tablink:hover { color: var(--color-accent); }
-.tt-subtabs .tablink { margin-left: auto; }
 
 /* deeper / intro / background — data-driven render blocks (prototype parity) */
 .tt-deeper-section { max-width: 48rem; margin: 0 auto; }

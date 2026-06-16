@@ -228,9 +228,11 @@ export function PersonCard({
   labels,
   locale = "en",
   bookLabels,
+  open = false,
 }: {
   person: PersonEntry;
   locale?: string;
+  open?: boolean;
   labels: {
     meaning: string;
     lifespan: string;
@@ -262,7 +264,7 @@ export function PersonCard({
   bookLabels: Record<string, string>;
 }) {
   return (
-    <details className="tt-person">
+    <details name="people-acc" className="tt-person" open={open}>
       <summary>
         <span className="pname">{person.name}</span>
         {person.familiarName && person.familiarName !== person.name && (

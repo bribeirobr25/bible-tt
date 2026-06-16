@@ -39,7 +39,12 @@ export function IntroductionView({
             section.id.replace(/-([a-z])/g, (_, c) => c.toUpperCase())
           ] || section.title;
         return (
-          <details key={section.id} className="tt-details" open={si === 0}>
+          <details
+            key={section.id}
+            name="intro-acc"
+            className="tt-details"
+            open={si === 0}
+          >
             <summary>
               <span>{label}</span>
               <span className="chev" aria-hidden="true">
