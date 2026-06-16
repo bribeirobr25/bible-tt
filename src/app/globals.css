@@ -598,6 +598,20 @@ a.tt-ch:hover .cl { color: var(--color-petrol); }
 .tt-person .field .fl { font-family: var(--font-mono); font-size: 10.5px; letter-spacing: 0.08em; text-transform: uppercase; color: var(--color-accent); display: block; margin-bottom: 2px; }
 .tt-person .field .fv { color: var(--color-text-secondary); }
 
+/* Genealogy summary tables (People page) — prototype .gen-table / .gtable. */
+.tt-gen-table { overflow-x: auto; border: 1px solid var(--color-border); border-radius: 12px; background: var(--color-bg-surface); padding: 18px 18px 4px; margin-bottom: 20px; }
+.tt-gen-table h3 { font-family: var(--font-reading); font-size: 1.3rem; margin-bottom: 4px; color: var(--color-text-primary); }
+.tt-gen-table .cap { font-family: var(--font-mono); font-size: 11px; color: var(--color-text-muted); margin-bottom: 12px; }
+.tt-gen-table .note { font-size: 13px; color: var(--color-text-secondary); line-height: 1.6; margin-top: 6px; }
+.tt-gtable { width: 100%; border-collapse: collapse; font-size: 14px; }
+.tt-gtable th { text-align: left; font-family: var(--font-mono); font-size: 10.5px; letter-spacing: 0.1em; text-transform: uppercase; color: var(--color-text-muted); padding: 10px 12px; border-bottom: 1px solid var(--color-border); white-space: nowrap; }
+.tt-gtable td { padding: 12px; border-bottom: 1px solid var(--color-border-muted); vertical-align: top; color: var(--color-text-secondary); }
+
+/* "Sources consulted" rendered-markdown block (People page). */
+.tt-sources p { margin-bottom: 10px; line-height: 1.7; }
+.tt-sources ul { margin: 0 0 10px 1.1em; line-height: 1.8; list-style: disc; }
+.tt-sources blockquote { border-left: 2px solid var(--color-border); padding-left: 14px; color: var(--color-text-muted); font-size: 13px; line-height: 1.7; }
+
 /* over the dark hero the mark square goes white, but the ochre slash stays so
    the logo reads as the same icon everywhere (prototype parity). */
 .tt-overhero .tt-mark { background: #fff !important; }

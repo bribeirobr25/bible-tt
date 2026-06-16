@@ -164,7 +164,17 @@
       "matthew": "In Matthäus",
       "john": "In Johannes"
     },
-    "provisional": "Vorläufig"
+    "provisional": "Vorläufig",
+    "headingPrefix": "Die Personen von",
+    "refKicker": "Personen & Genealogie",
+    "lead": "Die genealogischen Daten stammen aus dem Masoretischen Text. Geburts- und Sterbejahre werden aus der textinternen Arithmetik berechnet — Anno Mundi, dem Jahr seit der Schöpfung. Wo der Text keine Zahl nennt, sagt das Profil \"nicht angegeben\".",
+    "profiles": "Profile",
+    "figures": "Personen",
+    "genealogyTables": "Genealogische Tabellen",
+    "sourcesConsulted": "Konsultierte Quellen",
+    "note": "Anmerkung",
+    "timelineKicker": "Lebensspannen-Zeitleiste · Adam → Noah",
+    "timelineCaption": "Die Balken umspannen die Lebensspanne jeder Person in Jahren seit der Schöpfung (AM). Der gestrichelte Balken ist Chanokh (Henoch), mit 365 \"hinweggenommen\". Nach der textinternen Arithmetik lebte jede Generation von Adam bis Lemekh noch, als Noah geboren wurde — und die Sintflut (AM 1656) fällt in das Todesjahr Metushelachs."
   },
   "introduction": {
     "title": "Bucheinführung",

@@ -164,7 +164,17 @@
       "matthew": "In Matthew",
       "john": "In John"
     },
-    "provisional": "Provisional"
+    "provisional": "Provisional",
+    "headingPrefix": "The People of",
+    "refKicker": "People & genealogy",
+    "lead": "Genealogical data is drawn from the Masoretic Text. Birth and death years are calculated from the text's own internal arithmetic — Anno Mundi, the year from creation. Where the text gives no figure, the profile says \"not stated.\"",
+    "profiles": "Profiles",
+    "figures": "figures",
+    "genealogyTables": "Genealogy tables",
+    "sourcesConsulted": "Sources consulted",
+    "note": "Note",
+    "timelineKicker": "Lifespan timeline · Adam → Noah",
+    "timelineCaption": "Bars span each figure's lifespan in years from creation (AM). The dashed bar is Chanokh (Enoch), \"taken\" at 365. By the text's own arithmetic, every generation from Adam to Lamech was still alive when Noah was born — and the Flood (AM 1656) falls the year Methuselah dies."
   },
   "introduction": {
     "title": "Book Introduction",

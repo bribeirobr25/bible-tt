@@ -206,10 +206,27 @@ export interface RegionByText {
   note?: string;
 }
 
+/**
+ * One authored `**Label:** value` field, preserved verbatim (label text and
+ * value) and in authored order. Drives the generic person-card render so no
+ * authored field is ever dropped (parity with the redesign prototype, which
+ * renders every field). Typed fields above coexist for the timeline/sort.
+ */
+export interface PersonRawField {
+  label: string;
+  value: string;
+}
+
 export interface PersonEntry {
   slug: string;
   name: string;
   familiarName?: string;
+  /** Trailing heading qualifier, e.g. "Cainite line" in "Lemekh (Lamech) — Cainite line". */
+  suffix?: string;
+  /** Every authored field, verbatim + in order, for the generic card render. */
+  rawFields?: PersonRawField[];
+  /** The authored `**Note:**` field (rendered as a wide field, prototype parity). */
+  note?: string;
   nameMeaning?: string;
   originType: OriginType;
   birthYear?: string;
@@ -251,9 +268,26 @@ export interface PersonEntry {
   inBook?: string;
 }
 
+/**
+ * A genealogy summary table authored as a markdown table under a
+ * "… Genealogy … — Summary Table" H2 in PEOPLE.md (e.g. the Gen 5 and Gen 11
+ * Anno-Mundi chronologies). Surfaced verbatim — no derivation.
+ */
+export interface GenealogyTable {
+  title: string;
+  caption?: string;
+  headers: string[];
+  rows: string[][];
+  note?: string;
+}
+
 export interface PeopleData {
   book: string;
   entries: PersonEntry[];
+  /** Genealogy summary tables authored at the foot of PEOPLE.md. */
+  genealogies?: GenealogyTable[];
+  /** "Sources Consulted" section as raw markdown (rendered to HTML for display). */
+  sources?: string;
 }
 
 // Phase 9 — Book Context: cross-chapter motifs surface.

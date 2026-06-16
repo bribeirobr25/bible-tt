@@ -176,6 +176,79 @@ describe("people-parser", () => {
     });
   });
 
+  // The People-page redesign render relies on rawFields + genealogies + sources
+  // being preserved verbatim. These gates prove no authored content is dropped,
+  // across all four locales (incl. the genealogy-heading skip for DE/ES).
+  describe("redesign no-data-loss extraction", () => {
+    it("all 4 locales yield exactly 24 Genesis person entries (no junk tables)", () => {
+      for (const locale of ["en", "pt-br", "de", "es"]) {
+        const r = parsePeopleMarkdown(readPeople(locale, "genesis"), "genesis");
+        expect(r.entries.length, `${locale} entry count`).toBe(24);
+        // No genealogy-table heading leaked in as a person.
+        expect(
+          r.entries.some((e) =>
+            /genealog|tabela|tabla|übersicht/i.test(e.name),
+          ),
+          `${locale} no genealogy-table person`,
+        ).toBe(false);
+      }
+    });
+
+    it("preserves homonyms via suffix-disambiguated unique slugs", () => {
+      const r = parsePeopleMarkdown(readPeople("en", "genesis"), "genesis");
+      const lemekhs = r.entries.filter((e) => e.name === "Lemekh");
+      expect(lemekhs.length).toBe(2);
+      expect(new Set(lemekhs.map((e) => e.slug)).size).toBe(2);
+      expect(lemekhs.map((e) => e.suffix).sort()).toEqual([
+        "Cainite line",
+        "Sethite line",
+      ]);
+    });
+
+    it("preserves every authored field verbatim in rawFields", () => {
+      const r = parsePeopleMarkdown(readPeople("en", "genesis"), "genesis");
+      const adam = r.entries.find((e) => e.name === "Adam");
+      const labels = adam?.rawFields?.map((f) => f.label) ?? [];
+      // Fields the old curated card silently dropped must now be present.
+      for (const l of [
+        "Origin",
+        "Location(s)",
+        "First mention",
+        "Mentioned in",
+        "Key events",
+      ]) {
+        expect(labels, `Adam rawFields missing ${l}`).toContain(l);
+      }
+      expect(adam?.note).toMatch(/ha-adam/);
+    });
+
+    it("parses both genealogy summary tables across all 4 locales", () => {
+      for (const locale of ["en", "pt-br", "de", "es"]) {
+        const r = parsePeopleMarkdown(readPeople(locale, "genesis"), "genesis");
+        expect(r.genealogies?.length, `${locale} genealogies`).toBe(2);
+        for (const g of r.genealogies ?? []) {
+          expect(g.headers.length, `${locale} headers`).toBe(7);
+          expect(g.rows.length, `${locale} rows`).toBe(10);
+        }
+        // The "Flood … 1656" note text is always preserved — either on its
+        // table (EN/DE/ES) or, where the source misplaces it after the Sources
+        // heading (PT-BR), inside the captured sources block. Never dropped.
+        const noteHaystack =
+          (r.genealogies ?? []).map((g) => g.note ?? "").join(" ") +
+          (r.sources ?? "");
+        expect(noteHaystack, `${locale} flood note preserved`).toMatch(/1656/);
+      }
+    });
+
+    it("captures the Sources Consulted section across all 4 locales", () => {
+      for (const locale of ["en", "pt-br", "de", "es"]) {
+        const r = parsePeopleMarkdown(readPeople(locale, "genesis"), "genesis");
+        expect(r.sources, `${locale} sources`).toBeTruthy();
+        expect(r.sources).toMatch(/BHS|Biblia Hebraica/);
+      }
+    });
+  });
+
   describe("NT people (Matthew)", () => {
     const raw = readPeople("en", "matthew");
     const result = parsePeopleMarkdown(raw, "matthew");

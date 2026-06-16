@@ -164,7 +164,17 @@
       "matthew": "En Mateo",
       "john": "En Juan"
     },
-    "provisional": "Provisional"
+    "provisional": "Provisional",
+    "headingPrefix": "Las personas de",
+    "refKicker": "Personas y genealogía",
+    "lead": "Los datos genealógicos provienen del Texto Masorético. Los años de nacimiento y muerte se calculan a partir de la propia aritmética interna del texto — Anno Mundi, el año desde la creación. Donde el texto no da una cifra, el perfil dice \"no declarado\".",
+    "profiles": "Perfiles",
+    "figures": "figuras",
+    "genealogyTables": "Tablas genealógicas",
+    "sourcesConsulted": "Fuentes consultadas",
+    "note": "Nota",
+    "timelineKicker": "Línea de tiempo de vidas · Adam → Noé",
+    "timelineCaption": "Las barras abarcan el tiempo de vida de cada figura en años desde la creación (AM). La barra discontinua es Chanokh (Enoc), \"llevado\" a los 365. Por la propia aritmética del texto, toda generación de Adam a Lemekh seguía viva cuando nació Noé — y el Diluvio (AM 1656) cae el año en que muere Metushelach."
   },
   "introduction": {
     "title": "Introducción del Libro",
