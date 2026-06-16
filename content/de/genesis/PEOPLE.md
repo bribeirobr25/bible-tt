@@ -900,6 +900,8 @@ Alle Daten AM, nach Arithmetik des Masoretischen Textes.
 | Lamech | 874 | 182 | Noah | 595 | 1651 | 777 |
 | Noah | 1056 | 500 | Shem, Ham, Yafet | 450 | 2006 | 950 |
 
+**Anmerkung:** Die Flut ereignet sich in AM 1656 (Noah im Alter von 600, Gen 7:6). Nach der MT-Arithmetik stirbt Methusalem im Flutjahr. Lamech stirbt fünf Jahre vor der Flut. Adam stirbt AM 930 — weit vor der Flut, aber überlappend mit Lamechs Lebenszeit (geboren AM 874).
+
 ---
 
 ## H. Konsultierte Quellen
@@ -910,5 +912,3 @@ Alle Daten AM, nach Arithmetik des Masoretischen Textes.
 - **Chronologie:** Hasel, G., "The Meaning of the Chronogenealogies of Genesis 5 and 11," *Origins* 7 (1980): 53–70.
 
 > **Redaktionelle Herkunft:** Entworfen von Claude Opus 4.6 (1M Kontext) am 2026-04-27. Noch nicht begutachtet. Diese Datei ist eine provisorische wissenschaftliche Ressource, geregelt durch TT-Regel 29.
-
-**Anmerkung:** Die Flut ereignet sich in AM 1656 (Noah im Alter von 600, Gen 7:6). Nach der MT-Arithmetik stirbt Methusalem im Flutjahr. Lamech stirbt fünf Jahre vor der Flut. Adam stirbt AM 930 — weit vor der Flut, aber überlappend mit Lamechs Lebenszeit (geboren AM 874).

@@ -168,6 +168,7 @@
     "headingPrefix": "Die Personen von",
     "refKicker": "Personen & Genealogie",
     "lead": "Die genealogischen Daten stammen aus dem Masoretischen Text. Geburts- und Sterbejahre werden aus der textinternen Arithmetik berechnet — Anno Mundi, dem Jahr seit der Schöpfung. Wo der Text keine Zahl nennt, sagt das Profil \"nicht angegeben\".",
+    "leadGeneric": "Im Text genannte Personen, mit den Feldern, die die Quelle festhält. Alle Aussagen sind nach Typ und Sicherheit gekennzeichnet; \"nicht angegeben\", wo der Text schweigt.",
     "profiles": "Profile",
     "figures": "Personen",
     "genealogyTables": "Genealogische Tabellen",

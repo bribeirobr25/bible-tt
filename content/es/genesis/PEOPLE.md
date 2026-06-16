@@ -901,6 +901,8 @@ Todas las fechas AM, según aritmética del Texto Masorético.
 | Lamec | 874 | 182 | Noé | 595 | 1651 | 777 |
 | Noé | 1056 | 500 | Shem, Cam, Yafet | 450 | 2006 | 950 |
 
+**Nota:** El diluvio ocurre en AM 1656 (Noé a los 600 años, Gn 7:6). Por la aritmética del TM, Matusalén muere en el año del diluvio. Lamec muere cinco años antes del diluvio. Adam muere en AM 930 — mucho antes del diluvio, pero solapándose con el tiempo de vida de Lamec (nacido AM 874).
+
 ---
 
 ## H. Fuentes Consultadas
@@ -911,5 +913,3 @@ Todas las fechas AM, según aritmética del Texto Masorético.
 - **Cronología:** Hasel, G., "The Meaning of the Chronogenealogies of Genesis 5 and 11," *Origins* 7 (1980): 53–70.
 
 > **Procedencia editorial:** Redactado por Claude Opus 4.6 (contexto 1M) el 27-04-2026. Sin revisión. Este archivo es un recurso académico provisional gobernado por la Regla 29 de la TT.
-
-**Nota:** El diluvio ocurre en AM 1656 (Noé a los 600 años, Gn 7:6). Por la aritmética del TM, Matusalén muere en el año del diluvio. Lamec muere cinco años antes del diluvio. Adam muere en AM 930 — mucho antes del diluvio, pero solapándose con el tiempo de vida de Lamec (nacido AM 874).

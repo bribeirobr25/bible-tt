@@ -222,29 +222,26 @@ describe("people-parser", () => {
       expect(adam?.note).toMatch(/ha-adam/);
     });
 
-    it("parses both genealogy summary tables across all 4 locales", () => {
+    it("parses both genealogy tables — each with its note — across all 4 locales", () => {
       for (const locale of ["en", "pt-br", "de", "es"]) {
         const r = parsePeopleMarkdown(readPeople(locale, "genesis"), "genesis");
         expect(r.genealogies?.length, `${locale} genealogies`).toBe(2);
         for (const g of r.genealogies ?? []) {
           expect(g.headers.length, `${locale} headers`).toBe(7);
           expect(g.rows.length, `${locale} rows`).toBe(10);
+          // Each table keeps its own note (the Gen-5 flood note was misplaced
+          // after the Sources heading in PT/DE/ES — relocated to its table).
+          expect(g.note, `${locale} genealogy note`).toBeTruthy();
         }
-        // The "Flood … 1656" note text is always preserved — either on its
-        // table (EN/DE/ES) or, where the source misplaces it after the Sources
-        // heading (PT-BR), inside the captured sources block. Never dropped.
-        const noteHaystack =
-          (r.genealogies ?? []).map((g) => g.note ?? "").join(" ") +
-          (r.sources ?? "");
-        expect(noteHaystack, `${locale} flood note preserved`).toMatch(/1656/);
       }
     });
 
-    it("captures the Sources Consulted section across all 4 locales", () => {
-      for (const locale of ["en", "pt-br", "de", "es"]) {
-        const r = parsePeopleMarkdown(readPeople(locale, "genesis"), "genesis");
-        expect(r.sources, `${locale} sources`).toBeTruthy();
-        expect(r.sources).toMatch(/BHS|Biblia Hebraica/);
+    it("captures the Sources Consulted section for genesis, matthew and john", () => {
+      for (const book of ["genesis", "matthew", "john"]) {
+        for (const locale of ["en", "pt-br", "de", "es"]) {
+          const r = parsePeopleMarkdown(readPeople(locale, book), book);
+          expect(r.sources, `${locale}/${book} sources`).toBeTruthy();
+        }
       }
     });
   });

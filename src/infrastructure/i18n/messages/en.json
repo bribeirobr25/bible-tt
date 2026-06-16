@@ -168,6 +168,7 @@
     "headingPrefix": "The People of",
     "refKicker": "People & genealogy",
     "lead": "Genealogical data is drawn from the Masoretic Text. Birth and death years are calculated from the text's own internal arithmetic — Anno Mundi, the year from creation. Where the text gives no figure, the profile says \"not stated.\"",
+    "leadGeneric": "Figures named in the text, with the fields the source records. All claims are labelled by type and confidence; \"not stated\" where the text is silent.",
     "profiles": "Profiles",
     "figures": "figures",
     "genealogyTables": "Genealogy tables",

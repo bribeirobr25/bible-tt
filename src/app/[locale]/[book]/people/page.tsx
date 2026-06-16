@@ -127,11 +127,13 @@ export default async function PeoplePage({
         <div className="tt-title-row">
           <div>
             <div className="tt-ref">
-              {t("people.refKicker")} · {bookName}
-              {isGenesis ? " 1–12" : ""}
+              {t("people.refKicker")}
+              {isGenesis ? ` · ${bookName} 1–12` : ""}
             </div>
             <h1 className="tt-chapter-title">
-              {t("people.headingPrefix")} {bookName}
+              {isGenesis
+                ? `${t("people.headingPrefix")} ${bookName}`
+                : t("people.title")}
             </h1>
           </div>
           <span className="tt-status-pill">
@@ -148,19 +150,20 @@ export default async function PeoplePage({
           paddingBottom: "clamp(48px,8vh,90px)",
         }}
       >
-        {isGenesis && <Lead text={t("people.lead")} />}
+        <Lead text={isGenesis ? t("people.lead") : t("people.leadGeneric")} />
 
-        <PeopleTimeline
-          entries={entries}
-          book={book}
-          kicker={isGenesis ? t("people.timelineKicker") : t("people.timeline")}
-          captionCreation={
-            isGenesis
-              ? t("people.timelineCaption")
-              : t("people.timelineCaptionCreation")
-          }
-          captionHistorical={t("people.timelineCaptionHistorical")}
-        />
+        {/* The AM lifespan chart is meaningful only for the Genesis (Gen 5)
+            line; other books show profiles + sources without a timeline
+            (prototype parity — matthew/john people.html have no timeline). */}
+        {isGenesis && (
+          <PeopleTimeline
+            entries={entries}
+            book={book}
+            kicker={t("people.timelineKicker")}
+            captionCreation={t("people.timelineCaption")}
+            captionHistorical={t("people.timelineCaptionHistorical")}
+          />
+        )}
 
         <section>
           <p className="tt-kick">

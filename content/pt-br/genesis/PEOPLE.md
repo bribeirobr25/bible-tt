@@ -900,6 +900,8 @@ Todas as datas AM, conforme aritmética do Texto Massorético.
 | Lameque | 874 | 182 | Noé | 595 | 1651 | 777 |
 | Noé | 1056 | 500 | Shem, Cam, Jafé | 450 | 2006 | 950 |
 
+**Nota:** O dilúvio ocorre em AM 1656 (Noé aos 600 anos, Gn 7:6). Pela aritmética do TM, Matusalém morre no ano do dilúvio. Lameque morre cinco anos antes do dilúvio. Adam morre em AM 930 — bem antes do dilúvio, mas sobrepondo-se ao tempo de vida de Lameque (nascido AM 874).
+
 ---
 
 ## H. Fontes Consultadas
@@ -910,5 +912,3 @@ Todas as datas AM, conforme aritmética do Texto Massorético.
 - **Cronologia:** Hasel, G., "The Meaning of the Chronogenealogies of Genesis 5 and 11," *Origins* 7 (1980): 53–70.
 
 > **Proveniência editorial:** Redigido por Claude Opus 4.6 (contexto 1M) em 2026-04-27. Ainda não revisado. Este arquivo é um recurso acadêmico provisório governado pela Regra 29 da TT.
-
-**Nota:** O dilúvio ocorre em AM 1656 (Noé aos 600 anos, Gn 7:6). Pela aritmética do TM, Matusalém morre no ano do dilúvio. Lameque morre cinco anos antes do dilúvio. Adam morre em AM 930 — bem antes do dilúvio, mas sobrepondo-se ao tempo de vida de Lameque (nascido AM 874).

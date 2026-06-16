@@ -168,6 +168,7 @@
     "headingPrefix": "As pessoas de",
     "refKicker": "Pessoas e genealogia",
     "lead": "Os dados genealógicos vêm do Texto Massorético. Os anos de nascimento e morte são calculados pela própria aritmética interna do texto — Anno Mundi, o ano desde a criação. Onde o texto não dá um número, o perfil diz \"não declarado\".",
+    "leadGeneric": "Figuras nomeadas no texto, com os campos que a fonte registra. Todas as afirmações são rotuladas por tipo e confiança; \"não declarado\" onde o texto é silente.",
     "profiles": "Perfis",
     "figures": "figuras",
     "genealogyTables": "Tabelas genealógicas",
