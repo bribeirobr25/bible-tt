@@ -10,6 +10,7 @@ import {
   seoMetadata,
   truncateDescription,
 } from "@/lib/seo";
+import { DoorPager } from "@/ui/navigation/door-pager";
 import { Link } from "@/ui/navigation/locale-link";
 import { PeopleTimeline } from "@/ui/people/people-timeline";
 import { PersonCard } from "@/ui/people/person-card";
@@ -254,6 +255,19 @@ export default async function PeoplePage({
             </details>
           </section>
         )}
+
+        <DoorPager
+          left={{
+            href: `/${book}`,
+            label: t("people.pagerHub", { book: bookName }),
+            kicker: `← ${t("people.pagerBack")}`,
+          }}
+          right={{
+            href: `/${book}/background`,
+            label: t("nav.bookContext"),
+            kicker: `${t("people.pagerNext")} →`,
+          }}
+        />
       </main>
     </>
   );

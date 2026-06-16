@@ -137,7 +137,10 @@
     "timelineKicker": "Lebensspannen-Zeitleiste · Adam → Noah",
     "timelineCaption": "Die Balken umspannen die Lebensspanne jeder Person in Jahren seit der Schöpfung (AM). Der gestrichelte Balken ist Chanokh (Henoch), mit 365 \"hinweggenommen\". Nach der textinternen Arithmetik lebte jede Generation von Adam bis Lemekh noch, als Noah geboren wurde — und die Sintflut (AM 1656) fällt in das Todesjahr Metushelachs.",
     "timelineFlood": "Sintflut",
-    "timelineTaken": "hinweggenommen"
+    "timelineTaken": "hinweggenommen",
+    "pagerBack": "Zurück zu",
+    "pagerNext": "Weiter",
+    "pagerHub": "{book}-Übersicht"
   },
   "introduction": {
     "title": "Bucheinführung",

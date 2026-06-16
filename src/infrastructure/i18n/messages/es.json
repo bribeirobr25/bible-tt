@@ -137,7 +137,10 @@
     "timelineKicker": "Línea de tiempo de vidas · Adam → Noé",
     "timelineCaption": "Las barras abarcan el tiempo de vida de cada figura en años desde la creación (AM). La barra discontinua es Chanokh (Enoc), \"llevado\" a los 365. Por la propia aritmética del texto, toda generación de Adam a Lemekh seguía viva cuando nació Noé — y el Diluvio (AM 1656) cae el año en que muere Metushelach.",
     "timelineFlood": "Diluvio",
-    "timelineTaken": "llevado"
+    "timelineTaken": "llevado",
+    "pagerBack": "Volver a",
+    "pagerNext": "Siguiente",
+    "pagerHub": "Central de {book}"
   },
   "introduction": {
     "title": "Introducción del Libro",

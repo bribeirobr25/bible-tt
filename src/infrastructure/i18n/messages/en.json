@@ -137,7 +137,10 @@
     "timelineKicker": "Lifespan timeline · Adam → Noah",
     "timelineCaption": "Bars span each figure's lifespan in years from creation (AM). The dashed bar is Chanokh (Enoch), \"taken\" at 365. By the text's own arithmetic, every generation from Adam to Lamech was still alive when Noah was born — and the Flood (AM 1656) falls the year Methuselah dies.",
     "timelineFlood": "Flood",
-    "timelineTaken": "taken"
+    "timelineTaken": "taken",
+    "pagerBack": "Back to",
+    "pagerNext": "Next",
+    "pagerHub": "{book} hub"
   },
   "introduction": {
     "title": "Book Introduction",
