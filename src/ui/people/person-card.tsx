@@ -10,10 +10,54 @@ import type {
 import { renderInlineSafe } from "@/ui/shared/render-markdown-safe";
 
 // Parses a `**See:**` pointer like "genesis/PEOPLE.md" into the source book slug.
-// Returns null if the pointer doesn't match the expected shape.
 function parseCrossBookSlug(pointer: string): string | null {
   const match = pointer.trim().match(/^([a-z][a-z-]*)\/PEOPLE\.md$/i);
   return match ? match[1].toLowerCase() : null;
+}
+
+// Prototype `.person .field`: mono accent label above a muted value.
+function Field({
+  label,
+  value,
+  wide,
+}: {
+  label: string;
+  value?: string | null;
+  wide?: boolean;
+}) {
+  if (!value) return null;
+  return (
+    <div className={`field${wide ? " wide" : ""}`}>
+      <span className="fl">{label}</span>
+      <span
+        className="fv"
+        dangerouslySetInnerHTML={{ __html: renderInlineSafe(value) }}
+      />
+    </div>
+  );
+}
+
+function ListField({
+  label,
+  values,
+  wide,
+}: {
+  label: string;
+  values?: string[] | null;
+  wide?: boolean;
+}) {
+  if (!values || values.length === 0) return null;
+  return (
+    <div className={`field${wide ? " wide" : ""}`}>
+      <span className="fl">{label}</span>
+      <span
+        className="fv"
+        dangerouslySetInnerHTML={{
+          __html: renderInlineSafe(values.join(", ")),
+        }}
+      />
+    </div>
+  );
 }
 
 function CrossBookSeeField({
@@ -28,61 +72,20 @@ function CrossBookSeeField({
   bookLabels: Record<string, string>;
 }) {
   const slug = parseCrossBookSlug(pointer);
-  // Graceful fallback: if pointer shape is unexpected, render plain text.
   if (!slug || !bookLabels[slug]) {
-    return <Field label={label} value={pointer} />;
+    return <Field label={label} value={pointer} wide />;
   }
   return (
-    <div className="flex gap-2 text-xs">
-      <span className="font-medium text-text-muted shrink-0 w-28">{label}</span>
-      <Link
-        href={`/${locale}/${slug}/people`}
-        className="text-accent hover:underline focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent rounded-sm"
-      >
-        {bookLabels[slug]}
-      </Link>
-    </div>
-  );
-}
-
-const HISTORICITY_COLORS: Record<string, string> = {
-  VERIFIED: "bg-note-lexical/15 text-note-lexical",
-  PROBABLE: "bg-note-lexical/10 text-note-lexical",
-  POSSIBLE: "bg-note-theological/10 text-note-theological",
-  UNCERTAIN: "bg-note-critical/10 text-note-critical",
-  LITERARY: "bg-bg-muted text-text-muted",
-};
-
-function Field({ label, value }: { label: string; value?: string | null }) {
-  if (!value) return null;
-  return (
-    <div className="flex gap-2 text-xs">
-      <span className="font-medium text-text-muted shrink-0 w-28">{label}</span>
-      <span
-        className="text-text-secondary"
-        dangerouslySetInnerHTML={{ __html: renderInlineSafe(value) }}
-      />
-    </div>
-  );
-}
-
-function ListField({
-  label,
-  values,
-}: {
-  label: string;
-  values?: string[] | null;
-}) {
-  if (!values || values.length === 0) return null;
-  return (
-    <div className="flex gap-2 text-xs">
-      <span className="font-medium text-text-muted shrink-0 w-28">{label}</span>
-      <span
-        className="text-text-secondary"
-        dangerouslySetInnerHTML={{
-          __html: renderInlineSafe(values.join(", ")),
-        }}
-      />
+    <div className="field wide">
+      <span className="fl">{label}</span>
+      <span className="fv">
+        <Link
+          href={`/${locale}/${slug}/people`}
+          className="text-accent hover:underline focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent rounded-sm"
+        >
+          {bookLabels[slug]}
+        </Link>
+      </span>
     </div>
   );
 }
@@ -98,9 +101,9 @@ function GenerationsBlock({
 }) {
   if (!entries.length) return null;
   return (
-    <div className="flex gap-2 text-xs">
-      <span className="font-medium text-text-muted shrink-0 w-28">{label}</span>
-      <span className="flex flex-wrap gap-1.5">
+    <div className="field wide">
+      <span className="fl">{label}</span>
+      <span className="fv flex flex-wrap gap-1.5">
         {entries.map((g) => (
           <span
             key={`${g.reference}-${g.count}`}
@@ -137,39 +140,30 @@ function CuriositiesBlock({
 }) {
   if (!entries.length) return null;
   return (
-    <div className="mt-3 pt-2 border-t border-border-muted">
-      <div className="text-xs font-semibold uppercase tracking-wider text-text-muted mb-2">
+    <div className="mt-4 pt-3 border-t border-border-muted">
+      <div className="font-[family-name:var(--font-mono)] text-[10.5px] tracking-[0.08em] uppercase text-accent mb-2">
         {label}
       </div>
       <div className="space-y-2">
         {entries.map((c) => (
-          <div
-            key={c.title}
-            className="border-l-2 border-l-border bg-bg-muted/50 rounded-r-md px-3 py-2"
-          >
-            <div className="flex items-center gap-2 mb-1 flex-wrap">
-              <span className="text-[10px] font-bold uppercase tracking-wider text-text-muted font-[family-name:var(--font-mono)]">
-                {c.claimType}
-              </span>
+          <div key={c.title} className="tt-note">
+            <div className="nlab">
+              <span className="font-bold text-text-muted">{c.claimType}</span>
               <span
-                className={`text-[10px] font-semibold uppercase px-1.5 py-0.5 rounded ${CONFIDENCE_TONE[c.confidence] ?? CONFIDENCE_TONE.UNCERTAIN}`}
+                className={`px-1.5 py-0.5 rounded ${CONFIDENCE_TONE[c.confidence] ?? CONFIDENCE_TONE.UNCERTAIN}`}
               >
                 {c.confidence}
               </span>
             </div>
             <div
-              className="text-xs font-semibold text-text-primary mb-1"
+              className="text-sm font-semibold text-text-primary mb-1"
               dangerouslySetInnerHTML={{ __html: renderInlineSafe(c.title) }}
             />
             <div
-              className="text-xs text-text-secondary"
+              className="ntext [&_em]:italic"
               dangerouslySetInnerHTML={{ __html: renderInlineSafe(c.content) }}
             />
-            {c.source && (
-              <div className="text-[10px] text-text-muted italic mt-1">
-                {c.source}
-              </div>
-            )}
+            {c.source && <div className="src">{c.source}</div>}
           </div>
         ))}
       </div>
@@ -188,8 +182,8 @@ function RegionsByTextBlock({
 }) {
   if (!entries.length) return null;
   return (
-    <div className="mt-3 pt-2 border-t border-border-muted">
-      <div className="text-xs font-semibold uppercase tracking-wider text-text-muted mb-2">
+    <div className="mt-4 pt-3 border-t border-border-muted">
+      <div className="font-[family-name:var(--font-mono)] text-[10.5px] tracking-[0.08em] uppercase text-accent mb-2">
         {label}
       </div>
       <div className="flex items-start gap-2 px-3 py-2 mb-2 bg-bg-muted/50 rounded-md border border-border-muted">
@@ -267,50 +261,17 @@ export function PersonCard({
   };
   bookLabels: Record<string, string>;
 }) {
-  const historicityColor =
-    HISTORICITY_COLORS[person.historicityStatus || "UNCERTAIN"] ||
-    HISTORICITY_COLORS.UNCERTAIN;
-
   return (
-    <details
-      name="people-accordion"
-      className="group border border-border rounded-lg overflow-hidden"
-    >
-      <summary className="flex items-center gap-3 px-4 py-3 cursor-pointer select-none hover:bg-bg-surface transition-colors duration-150 focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2 rounded-lg">
-        <div className="flex-1">
-          <span className="font-[family-name:var(--font-reading)] text-sm font-semibold text-text-primary">
-            {person.name}
-          </span>
-          {person.familiarName && person.familiarName !== person.name && (
-            <span className="text-xs text-text-muted ml-2">
-              ({person.familiarName})
-            </span>
-          )}
-        </div>
-        {person.lifespan && (
-          <span className="text-xs text-text-muted tabular-nums">
-            {person.lifespan}
-          </span>
+    <details className="tt-person">
+      <summary>
+        <span className="pname">{person.name}</span>
+        {person.familiarName && person.familiarName !== person.name && (
+          <span className="pfam">({person.familiarName})</span>
         )}
-        {person.historicityStatus && (
-          <span
-            className={`text-[10px] font-semibold uppercase px-1.5 py-0.5 rounded ${historicityColor}`}
-          >
-            {person.historicityStatus}
-          </span>
-        )}
-        <svg
-          className="w-4 h-4 text-text-muted transition-transform duration-200 group-open:rotate-90"
-          fill="none"
-          viewBox="0 0 24 24"
-          stroke="currentColor"
-          strokeWidth={2}
-          aria-hidden="true"
-        >
-          <path strokeLinecap="round" strokeLinejoin="round" d="M9 5l7 7-7 7" />
-        </svg>
+        {person.lifespan && <span className="plife">{person.lifespan}</span>}
       </summary>
-      <div className="px-4 pb-4 pt-2 space-y-1.5 border-t border-border-muted">
+
+      <div className="pbody">
         {person.crossBookSee && (
           <CrossBookSeeField
             label={labels.crossBookSee}
@@ -319,13 +280,8 @@ export function PersonCard({
             bookLabels={bookLabels}
           />
         )}
-        {person.inBook && <Field label={labels.inBook} value={person.inBook} />}
-        {person.generationsFrom && person.generationsFrom.length > 0 && (
-          <GenerationsBlock
-            label={labels.generationsFrom}
-            entries={person.generationsFrom}
-            locale={locale}
-          />
+        {person.inBook && (
+          <Field label={labels.inBook} value={person.inBook} wide />
         )}
         <Field label={labels.meaning} value={person.nameMeaning} />
         <Field label={labels.lifespan} value={person.lifespan} />
@@ -342,34 +298,47 @@ export function PersonCard({
         <ListField label={labels.children} values={person.children} />
         <Field label={labels.ageAtFatherhood} value={person.ageAtFatherhood} />
         <Field label={labels.causeOfDeath} value={person.causeOfDeath} />
-        <Field label={labels.characterArc} value={person.characterArc} />
-        <ListField label={labels.booksIn} values={person.booksAppearingIn} />
-        {(person.archaeologicalEvidence || person.extraBiblicalMentions) && (
-          <div className="mt-3 pt-2 border-t border-border-muted space-y-1.5">
-            <Field
-              label={labels.archaeology}
-              value={person.archaeologicalEvidence}
-            />
-            <Field
-              label={labels.extraBiblical}
-              value={person.extraBiblicalMentions}
-            />
-          </div>
-        )}
-        {person.regionsByText && person.regionsByText.length > 0 && (
-          <RegionsByTextBlock
-            label={labels.regionsByText}
-            safeguardText={labels.regionsByTextSafeguard}
-            entries={person.regionsByText}
-          />
-        )}
-        {person.curiosities && person.curiosities.length > 0 && (
-          <CuriositiesBlock
-            label={labels.curiosities}
-            entries={person.curiosities}
-          />
-        )}
+        <Field label={labels.historicity} value={person.historicityStatus} />
+        <Field label={labels.characterArc} value={person.characterArc} wide />
+        <ListField
+          label={labels.booksIn}
+          values={person.booksAppearingIn}
+          wide
+        />
+        <Field
+          label={labels.archaeology}
+          value={person.archaeologicalEvidence}
+          wide
+        />
+        <Field
+          label={labels.extraBiblical}
+          value={person.extraBiblicalMentions}
+          wide
+        />
       </div>
+
+      {person.generationsFrom && person.generationsFrom.length > 0 && (
+        <div className="pbody pt-3">
+          <GenerationsBlock
+            label={labels.generationsFrom}
+            entries={person.generationsFrom}
+            locale={locale}
+          />
+        </div>
+      )}
+      {person.regionsByText && person.regionsByText.length > 0 && (
+        <RegionsByTextBlock
+          label={labels.regionsByText}
+          safeguardText={labels.regionsByTextSafeguard}
+          entries={person.regionsByText}
+        />
+      )}
+      {person.curiosities && person.curiosities.length > 0 && (
+        <CuriositiesBlock
+          label={labels.curiosities}
+          entries={person.curiosities}
+        />
+      )}
     </details>
   );
 }

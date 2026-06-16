@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<title>Search — The Transparent Translation</title>
+<meta name="description" content="Search across verses, notes, people, background, and rules." />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Geist:wght@300;400;500;600;700&family=Geist+Mono:wght@400;500;600&family=Newsreader:ital,opsz,wght@0,6..72,200..700;1,6..72,300..600&display=swap" rel="stylesheet" />
+<link rel="stylesheet" href="assets/tt.css" />
+</head>
+<body class="has-header" data-localized>
+  <header class="site-header">
+    <a class="brand" href="index.html"><span class="mark"></span> Transparent Translation</a>
+    <button class="menu-btn" aria-label="Menu" aria-expanded="false"><span></span></button>
+    <nav>
+      <a href="books.html" data-i18n="nav.books">Books</a>
+      <a href="start.html" data-i18n="nav.start">Start here</a>
+      <a href="rules.html" data-i18n="nav.rules">How we translate</a>
+      <a class="nav-cta" href="genesis/chapter-1.html" data-i18n="nav.startReading">Start reading →</a>
+    </nav>
+  </header>
+
+  <main class="wrap" style="padding-top:clamp(40px,8vh,90px);padding-bottom:clamp(48px,8vh,90px)">
+    <p class="kick" data-i18n="ui.search">Search</p>
+    <h1 class="h2 serif" style="margin-bottom:8px">Search the translation</h1>
+    <p class="lead" style="max-width:60ch;margin-bottom:24px">Across verses, verse-notes, the Deeper companions, people, background motifs, and the 29 rules. <span style="color:var(--ink-mute)">English content in this preview.</span></p>
+    <div class="search-box">
+      <input id="q" type="search" autofocus autocomplete="off" placeholder="Search verses, notes, people…" data-i18n-ph="ui.searchPlaceholder" aria-label="Search" />
+      <span class="count" id="count"></span>
+    </div>
+    <div id="results" class="results"></div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <div class="cols">
+        <div><p class="brand-blurb serif">A translation with nothing hidden.</p></div>
+        <div><h4>Read</h4><a href="genesis/index.html">Genesis</a><a href="john/index.html">John</a><a href="matthew/index.html">Matthew</a></div>
+        <div><h4 data-i18n="ui.method">Method</h4><a href="rules.html">The 29 rules</a><a href="books.html" data-i18n="ui.allBooks">All books</a><a href="start.html" data-i18n="nav.start">Start here</a></div>
+      </div>
+      <div class="legal"><span>© The Transparent Translation · EN · PT · DE · ES</span><span class="badge">Redesign · Light &amp; Darkness</span></div>
+    </div>
+  </footer>
+
+  <style>
+    .search-box{position:relative;max-width:680px;border-bottom:2px solid var(--ink);display:flex;align-items:center;gap:12px}
+    .search-box input{flex:1;font-family:"Newsreader",serif;font-size:clamp(1.3rem,3vw,2rem);background:none;border:none;padding:10px 0;color:var(--ink);outline:none}
+    .search-box input::placeholder{color:var(--ink-mute);opacity:.7}
+    .search-box .count{font-family:"Geist Mono",monospace;font-size:12px;color:var(--ink-mute);white-space:nowrap}
+    .results{margin-top:10px;max-width:820px}
+    .result{display:block;padding:18px 0;border-bottom:1px solid var(--line);transition:padding-left .2s var(--ease)}
+    .result:hover{padding-left:8px}
+    .result .rk{font-family:"Geist Mono",monospace;font-size:10.5px;letter-spacing:.08em;text-transform:uppercase;color:var(--accent-deep);border:1px solid var(--line);border-radius:999px;padding:3px 9px;margin-right:10px}
+    .result .rt{font-family:"Newsreader",serif;font-size:1.2rem;color:var(--ink)}
+    .result .rx{font-size:14px;color:var(--ink-soft);line-height:1.6;margin-top:6px}
+    .result mark{background:rgba(201,138,58,.32);color:inherit;padding:0 1px;border-radius:2px}
+    .empty{color:var(--ink-mute);font-size:15px;padding:30px 0}
+  </style>
+
+  <script src="assets/data/search-index.js"></script>
+  <script src="assets/tt.js"></script>
+  <script>
+  (function(){
+    const IDX = window.SEARCH_INDEX || [];
+    const q = document.getElementById('q'), res = document.getElementById('results'), cnt = document.getElementById('count');
+    const esc = s => s.replace(/[&<>]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;'}[c]));
+    function snippet(text, toks){
+      const low = text.toLowerCase();
+      let pos = -1; for(const t of toks){ const i = low.indexOf(t); if(i>=0 && (pos<0||i<pos)) pos=i; }
+      let s = pos<0 ? text.slice(0,160) : text.slice(Math.max(0,pos-60), pos+120);
+      s = esc(s);
+      toks.forEach(t=>{ if(t) s = s.replace(new RegExp('('+t.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')+')','ig'), '<mark>$1</mark>'); });
+      return (pos>60?'… ':'') + s + ' …';
+    }
+    function run(){
+      const query = q.value.trim().toLowerCase();
+      if(query.length < 2){ res.innerHTML=''; cnt.textContent=''; return; }
+      const toks = query.split(/\s+/).filter(Boolean);
+      const scored = [];
+      for(const e of IDX){
+        const tl = e.t.toLowerCase(), xl = e.x.toLowerCase();
+        let sc = 0;
+        for(const t of toks){ if(tl.includes(t)) sc += 3; if(xl.includes(t)) sc += 1; }
+        if(sc>0) scored.push([sc, e]);
+      }
+      scored.sort((a,b)=> b[0]-a[0]);
+      cnt.textContent = scored.length + (scored.length===1?' result':' results');
+      if(!scored.length){ res.innerHTML = '<p class="empty">No results. Try fewer or different words.</p>'; return; }
+      res.innerHTML = scored.slice(0,50).map(([,e])=>
+        `<a class="result" href="${e.u}"><span class="rk">${e.k}</span><span class="rt">${esc(e.t)}</span><div class="rx">${snippet(e.x, toks)}</div></a>`
+      ).join('');
+    }
+    q.addEventListener('input', run);
+    // support ?q= deep link
+    const pq = new URLSearchParams(location.search).get('q'); if(pq){ q.value = pq; run(); }
+  })();
+  </script>
+</body>
+</html>

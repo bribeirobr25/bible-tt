@@ -1,10 +1,13 @@
-import { BookOpen, Layers, NotebookPen } from "lucide-react";
 import type { Metadata } from "next";
 import { getTranslations, setRequestLocale } from "next-intl/server";
 import { seoMetadata, truncateDescription, websiteJsonLd } from "@/lib/seo";
+import { SeparationHero } from "@/ui/marketing/separation-hero";
 import { Link } from "@/ui/navigation/locale-link";
 import { JsonLd } from "@/ui/shared/json-ld";
-import { renderMarkdownSafe } from "@/ui/shared/render-markdown-safe";
+import {
+  renderInlineSafe,
+  renderMarkdownSafe,
+} from "@/ui/shared/render-markdown-safe";
 
 export async function generateMetadata({
   params,
@@ -33,71 +36,129 @@ export default async function LandingPage({
   setRequestLocale(locale);
   const t = await getTranslations();
 
+  const diffs = (["diff1", "diff2", "diff3", "diff4"] as const).map((k, i) => ({
+    n: String(i + 1).padStart(2, "0"),
+    title: t(`landing.${k}title`),
+    body: t(`landing.${k}`),
+  }));
+  const doors = [
+    {
+      idx: "01",
+      label: t("landing.doorRead"),
+      desc: t("landing.howReading"),
+      href: "/genesis/chapter/1",
+    },
+    {
+      idx: "02",
+      label: t("landing.doorStudy"),
+      desc: t("landing.howStudy"),
+      href: "/genesis/chapter/1/notes",
+    },
+    {
+      idx: "03",
+      label: t("landing.doorDeeper"),
+      desc: t("landing.howDeeper"),
+      href: "/genesis/chapter/1/deeper",
+    },
+  ];
+  const who = (["who1", "who2", "who3"] as const).map((k, i) => ({
+    t: ["A", "B", "C"][i],
+    body: t(`landing.${k}`),
+  }));
+
   return (
-    <main className="min-h-screen">
+    <main>
       <JsonLd data={websiteJsonLd(locale)} />
-      {/* Hero */}
-      <section className="min-h-[85vh] flex flex-col items-center justify-center px-6 py-16 text-center">
-        <p className="text-text-muted text-sm uppercase tracking-[0.2em] mb-6 font-[family-name:var(--font-ui)]">
-          {t("site.title")}
-        </p>
-        <h1 className="font-[family-name:var(--font-reading)] text-4xl md:text-6xl font-light tracking-tight text-text-primary max-w-3xl leading-[1.15]">
-          {t("landing.heroHeadline")}
-        </h1>
-        <p className="mt-6 text-text-secondary text-lg md:text-xl italic font-[family-name:var(--font-reading)] max-w-2xl">
-          {t("landing.heroSub")}
-        </p>
-        <p className="mt-8 text-text-primary text-base md:text-lg max-w-xl leading-relaxed">
-          {t("landing.heroSupport")}
-        </p>
-        <div className="mt-10 flex flex-col sm:flex-row gap-4">
-          <Link
-            href="/books"
-            className="min-h-12 inline-flex items-center justify-center px-8 py-3 rounded-md bg-accent text-bg-paper font-medium text-sm hover:bg-accent-hover active:scale-95 transition-all duration-200 focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2"
-          >
-            {t("landing.cta")}
+
+      {/* HERO — Gen 1:4 separation field (logged design-rule exception).
+          -mt-16 cancels the layout's header offset so the hero bleeds under the
+          transparent over-hero header. */}
+      <section className="relative isolate overflow-hidden bg-dark min-h-screen -mt-16 flex items-center">
+        <SeparationHero />
+        {/* Shrink-to-content block, centered horizontally; the whole block blends
+            (difference) over the light/dark seam so the white text stays legible. */}
+        <div
+          className="relative z-10 w-fit mx-auto px-[clamp(18px,4vw,52px)]"
+          style={{ color: "#fff", mixBlendMode: "difference" }}
+        >
+          <p className="font-[family-name:var(--font-mono)] text-xs uppercase tracking-[0.2em] mb-[22px]">
+            {t("book.genesis")} 1:4
+          </p>
+          <h1
+            className="tt-display max-w-[15ch]"
+            dangerouslySetInnerHTML={{
+              __html: renderInlineSafe(t("landing.heroVerse")),
+            }}
+          />
+        </div>
+        {/* CTAs pinned bottom-center, outside the blended wrap so they render in
+            true ochre / translucent glass (prototype parity). */}
+        <div className="absolute inset-x-0 bottom-10 z-20 flex flex-wrap gap-3.5 justify-center px-5">
+          <Link href="/genesis/chapter/1" className="tt-btn tt-btn-pri">
+            {t("landing.cta")} <span className="arr">→</span>
           </Link>
-          <Link
-            href="/start"
-            className="min-h-12 inline-flex items-center justify-center px-8 py-3 rounded-md border border-border text-text-secondary font-medium text-sm hover:border-accent hover:text-accent active:scale-95 transition-all duration-200 focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2"
-          >
+          <Link href="/start" className="tt-btn tt-btn-ghost-light">
             {t("landing.ctaStartHere")}
           </Link>
         </div>
-        <Link
-          href="/rules"
-          className="mt-6 text-sm text-text-muted hover:text-accent underline underline-offset-4 transition-colors duration-150 focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2 rounded"
-        >
-          {t("landing.ctaRules")}
-        </Link>
       </section>
 
-      {/* The Difference */}
-      <section className="px-6 py-20 border-t border-border-muted">
-        <div className="max-w-4xl mx-auto">
-          <h2 className="font-[family-name:var(--font-reading)] text-2xl md:text-3xl font-light text-center mb-3">
-            {t("landing.differenceTitle")}
-          </h2>
-          <p className="text-text-muted text-center text-sm mb-12">
-            {t("landing.differenceDesc")}
+      {/* INTRO STATEMENT */}
+      <section className="tt-section bg-cream2 text-center">
+        <div className="max-w-[880px] mx-auto px-[clamp(18px,4vw,52px)]">
+          <p className="tt-kick center reveal">{t("site.title")}</p>
+          <p
+            className="tt-h1 reveal font-normal [&_em]:text-accent [&_em]:italic"
+            data-d="1"
+            dangerouslySetInnerHTML={{
+              __html: renderInlineSafe(t("landing.heroHeadline")),
+            }}
+          />
+          <p className="tt-lead reveal mt-5" data-d="2">
+            {t("landing.heroSub")} {t("landing.heroSupport")}
           </p>
+          <p
+            className="font-[family-name:var(--font-mono)] reveal mt-6 tracking-[0.12em] text-text-muted text-[13px]"
+            data-d="2"
+          >
+            {t("landing.languageTagline")}
+          </p>
+        </div>
+      </section>
 
-          <div className="grid md:grid-cols-2 gap-8">
-            <div className="space-y-4">
-              <p className="text-xs uppercase tracking-widest text-text-muted font-[family-name:var(--font-ui)]">
-                {t("landing.conventional")}
+      {/* THE DIFFERENCE */}
+      <section className="tt-section">
+        <div className="max-w-[1320px] mx-auto px-[clamp(18px,4vw,52px)]">
+          <div className="tt-grid-head">
+            <div className="tt-bignum reveal">01</div>
+            <div>
+              <p className="tt-kick reveal">
+                <span className="num">/</span> {t("landing.differenceKicker")}
               </p>
-              <blockquote className="font-[family-name:var(--font-reading)] text-lg leading-[1.8] text-text-secondary border-l-3 border-border-muted pl-5">
+              <h2 className="tt-h1 reveal max-w-[16ch]" data-d="1">
+                {t("landing.differenceTitle")}
+              </h2>
+              <p className="tt-lead reveal mt-3.5 max-w-[46ch]" data-d="2">
+                {t("landing.differenceDesc")}
+              </p>
+            </div>
+          </div>
+
+          <div className="tt-vcompare">
+            <div className="reveal">
+              <div className="font-[family-name:var(--font-mono)] text-[11px] tracking-[0.16em] uppercase text-text-muted mb-4">
+                {t("landing.conventional")}
+              </div>
+              <blockquote className="font-[family-name:var(--font-reading)] text-[clamp(1.15rem,1.8vw,1.5rem)] leading-[1.7] text-text-secondary">
                 {t("landing.conventionalVerse")}
               </blockquote>
             </div>
-
-            <div className="space-y-4">
-              <p className="text-xs uppercase tracking-widest text-accent font-[family-name:var(--font-ui)]">
+            <div className="reveal" data-d="1">
+              <div className="font-[family-name:var(--font-mono)] text-[11px] tracking-[0.16em] uppercase text-accent mb-4">
                 {t("landing.transparent")}
-              </p>
+              </div>
               <blockquote
-                className="font-[family-name:var(--font-reading)] text-lg leading-[1.8] text-text-primary border-l-3 border-accent pl-5 [&_em]:text-text-secondary"
+                className="font-[family-name:var(--font-reading)] text-[clamp(1.15rem,1.8vw,1.5rem)] leading-[1.7] text-text-primary [&_em]:text-accent [&_em]:not-italic"
                 dangerouslySetInnerHTML={{
                   __html: renderMarkdownSafe(
                     t("landing.transparentVerse"),
@@ -108,105 +169,119 @@ export default async function LandingPage({
             </div>
           </div>
 
-          <div className="grid sm:grid-cols-2 gap-6 mt-12">
-            {(["diff1", "diff2", "diff3", "diff4"] as const).map((key) => (
-              <div key={key} className="flex gap-3">
-                <div className="w-1 bg-accent rounded-full shrink-0" />
-                <div>
-                  <p className="text-sm font-semibold text-text-primary">
-                    {t(`landing.${key}title`)}
-                  </p>
-                  <p className="text-sm text-text-secondary mt-0.5 leading-relaxed">
-                    {t(`landing.${key}`)}
-                  </p>
-                </div>
+          <div className="tt-diffs">
+            {diffs.map((d) => (
+              <div key={d.n} className="tt-diff reveal">
+                <h4 className="font-[family-name:var(--font-ui)] text-base font-semibold flex gap-3 items-baseline">
+                  <span className="font-[family-name:var(--font-mono)] text-[13px] text-ochre">
+                    {d.n}
+                  </span>
+                  {d.title}
+                </h4>
+                <p
+                  className="text-[14.5px] text-text-secondary mt-2 leading-[1.7] [&_em]:text-accent [&_em]:italic"
+                  dangerouslySetInnerHTML={{ __html: renderInlineSafe(d.body) }}
+                />
               </div>
             ))}
           </div>
         </div>
       </section>
 
-      {/* How It Works */}
-      <section className="px-6 py-20 border-t border-border-muted bg-bg-surface">
-        <div className="max-w-3xl mx-auto text-center">
-          <h2 className="font-[family-name:var(--font-reading)] text-2xl md:text-3xl font-light mb-12">
-            {t("landing.howTitle")}
-          </h2>
-          <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-8 text-left">
-            {(
-              [
-                { icon: BookOpen, mode: "doorRead", desc: "howReading" },
-                { icon: NotebookPen, mode: "doorNotes", desc: "howStudy" },
-                { icon: Layers, mode: "doorDeeper", desc: "howDeeper" },
-              ] as const
-            ).map(({ icon: Icon, mode, desc }) => (
-              <div key={mode} className="space-y-3">
-                <div className="flex items-center gap-3">
-                  <span className="w-9 h-9 rounded-full bg-bg-paper border border-border flex items-center justify-center">
-                    <Icon
-                      className="w-4 h-4 text-text-muted"
-                      strokeWidth={1.5}
-                    />
-                  </span>
-                  <span className="text-sm font-semibold uppercase tracking-wider text-text-secondary">
-                    {t(`nav.${mode}`)}
-                  </span>
-                </div>
-                <p className="text-text-primary text-sm leading-relaxed">
-                  {t(`landing.${desc}`)}
-                </p>
-              </div>
+      {/* THREE DOORS */}
+      <section className="tt-section bg-dark">
+        <div className="max-w-[1320px] mx-auto px-[clamp(18px,4vw,52px)]">
+          <div className="tt-grid-head">
+            <div
+              className="tt-bignum reveal"
+              style={{ color: "var(--color-petrol)" }}
+            >
+              02
+            </div>
+            <div>
+              <p className="tt-kick reveal">
+                <span className="num">/</span> {t("landing.howKicker")}
+              </p>
+              <h2 className="tt-h1 reveal text-on-dark" data-d="1">
+                {t("landing.howTitle")}
+              </h2>
+            </div>
+          </div>
+          <div className="tt-doors mt-12">
+            {doors.map((d) => (
+              <Link key={d.idx} href={d.href} className="tt-door reveal">
+                <div className="idx">{d.idx}</div>
+                <div className="dt">{d.label}</div>
+                <p>{d.desc}</p>
+              </Link>
             ))}
           </div>
         </div>
       </section>
 
-      {/* Who Is This For */}
-      <section className="px-6 py-20 border-t border-border-muted">
-        <div className="max-w-2xl mx-auto">
-          <h2 className="font-[family-name:var(--font-reading)] text-2xl md:text-3xl font-light text-center mb-12">
-            {t("landing.whoTitle")}
-          </h2>
-          <div className="space-y-8">
-            {(["who1", "who2", "who3"] as const).map((key) => (
-              <p
-                key={key}
-                className="font-[family-name:var(--font-reading)] text-lg leading-relaxed text-text-primary text-center"
-              >
-                {t(`landing.${key}`)}
+      {/* WHO */}
+      <section className="tt-section">
+        <div className="max-w-[1320px] mx-auto px-[clamp(18px,4vw,52px)]">
+          <div className="tt-grid-head">
+            <div className="tt-bignum reveal">03</div>
+            <div>
+              <p className="tt-kick reveal">
+                <span className="num">/</span> {t("landing.whoTitle")}
+              </p>
+              <h2 className="tt-h1 reveal" data-d="1">
+                {t("landing.threeReaders")}
+              </h2>
+            </div>
+          </div>
+          <div className="tt-who mt-4">
+            {who.map((w) => (
+              <p key={w.t} className="reveal">
+                <span className="t">{w.t}</span>
+                <span
+                  className="[&_em]:text-accent [&_em]:italic"
+                  dangerouslySetInnerHTML={{ __html: renderInlineSafe(w.body) }}
+                />
               </p>
             ))}
           </div>
         </div>
       </section>
 
-      {/* What This Is */}
-      <section className="px-6 py-20 border-t border-border-muted bg-bg-surface">
-        <div className="max-w-2xl mx-auto text-center">
-          <h2 className="font-[family-name:var(--font-reading)] text-2xl md:text-3xl font-light mb-8">
-            {t("landing.scopeTitle")}
-          </h2>
-          <p className="text-text-primary leading-relaxed">
+      {/* SCOPE / FINAL */}
+      <section className="tt-section bg-cream2 text-center">
+        <div className="max-w-[880px] mx-auto px-[clamp(18px,4vw,52px)]">
+          <p className="tt-kick center reveal">
+            <span className="num">/</span> {t("landing.scopeTitle")}
+          </p>
+          <h2
+            className="tt-h1 reveal font-normal [&_em]:text-accent [&_em]:italic"
+            data-d="1"
+            dangerouslySetInnerHTML={{
+              __html: renderInlineSafe(t("landing.scopeHeadline")).replace(
+                /\n/g,
+                "<br>",
+              ),
+            }}
+          />
+          <p className="tt-lead reveal mt-6" data-d="2">
             {t("landing.scope")}
           </p>
-          <p className="mt-4 text-text-secondary italic">
+          <p className="reveal mt-4 italic text-text-secondary" data-d="2">
             {t("landing.scopeNot")}
           </p>
-          <div className="mt-10">
-            <Link
-              href="/books"
-              className="min-h-12 inline-flex items-center justify-center px-10 py-4 rounded-md bg-accent text-bg-paper font-medium hover:bg-accent-hover active:scale-95 transition-all duration-200 focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2"
-            >
-              {t("landing.cta")}
+          <div
+            className="reveal mt-10 flex gap-3.5 justify-center flex-wrap"
+            data-d="3"
+          >
+            <Link href="/genesis/chapter/1" className="tt-btn tt-btn-deep">
+              {t("landing.cta")} <span className="arr">→</span>
+            </Link>
+            <Link href="/rules" className="tt-btn tt-btn-ghost">
+              {t("landing.ctaRules")}
             </Link>
           </div>
         </div>
       </section>
-
-      {/* Footer */}
-      <footer className="px-6 py-10 border-t border-border-muted text-center">
-        <p className="text-xs text-text-muted">{t("site.title")}</p>
-      </footer>
     </main>
   );
 }

@@ -1,9 +1,7 @@
-import { ChevronLeft } from "lucide-react";
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { getTranslations, setRequestLocale } from "next-intl/server";
 import { AVAILABLE_BOOKS } from "@/domain/books/registry";
-import type { ClaimType, ConfidenceLevel } from "@/domain/content/types";
 import type { Locale } from "@/infrastructure/i18n/config";
 import { getAvailableBooks, getIntroductionData } from "@/lib/content-loader";
 import {
@@ -13,8 +11,11 @@ import {
   truncateDescription,
 } from "@/lib/seo";
 import { IntroductionView } from "@/ui/enrichment/introduction-view";
+import { DoorPager } from "@/ui/navigation/door-pager";
 import { Link } from "@/ui/navigation/locale-link";
 import { JsonLd } from "@/ui/shared/json-ld";
+
+const WRAP = "max-w-[1320px] mx-auto px-[clamp(18px,4vw,52px)]";
 
 export async function generateStaticParams() {
   const books = await getAvailableBooks("en");
@@ -67,64 +68,55 @@ export default async function BookIntroductionPage({
     sources: t("introduction.section.sources"),
   };
 
-  const labelMaps = {
-    claimTypes: {
-      TEXTUAL: t("claimType.textual"),
-      "STRONG INFERENCE": t("claimType.strongInference"),
-      "POSSIBLE INFERENCE": t("claimType.possibleInference"),
-      "COMPARATIVE PARALLEL": t("claimType.comparativeParallel"),
-      "LATER RECEPTION": t("claimType.laterReception"),
-      "HISTORICAL / ARCHAEOLOGICAL": t("claimType.historicalArchaeological"),
-      "SCIENTIFIC COMPARISON": t("claimType.scientificComparison"),
-      SPECULATION: t("claimType.speculation"),
-    } as Record<ClaimType, string>,
-    confidence: {
-      VERIFIED: t("confidence.verified"),
-      PROBABLE: t("confidence.probable"),
-      POSSIBLE: t("confidence.possible"),
-      UNCERTAIN: t("confidence.uncertain"),
-      SPECULATIVE: t("confidence.speculative"),
-      DOCUMENTED: t("confidence.documented"),
-    } as Record<ConfidenceLevel, string>,
-  };
-
+  const bookName = t(`book.${book}`);
   return (
-    <main className="min-h-screen flex flex-col items-center px-6 py-12">
+    <>
       <JsonLd
         data={breadcrumbJsonLd([
           { name: t("site.title"), url: canonicalUrl(locale, "") },
-          { name: t("nav.selectBook"), url: canonicalUrl(locale, "books") },
-          { name: t(`book.${book}`), url: canonicalUrl(locale, book) },
+          { name: t("nav.books"), url: canonicalUrl(locale, "books") },
+          { name: bookName, url: canonicalUrl(locale, book) },
           {
             name: t("nav.bookIntroduction"),
             url: canonicalUrl(locale, `${book}/introduction`),
           },
         ])}
       />
-      <div className="max-w-3xl w-full space-y-8">
-        <div>
-          <Link
-            href={`/${book}`}
-            className="inline-flex items-center gap-1 text-sm text-text-muted hover:text-accent transition-colors duration-150 mb-4"
-          >
-            <ChevronLeft size={14} strokeWidth={1.5} />
-            {t(`book.${book}`)}
-          </Link>
-          <h1 className="font-[family-name:var(--font-reading)] text-2xl md:text-3xl font-light">
-            {t("nav.bookIntroduction")}
-          </h1>
-          <p className="text-sm text-text-muted mt-2 italic">
-            {t("nav.bookIntroductionDescription")}
-          </p>
+      <div className={`tt-chapter-head ${WRAP}`}>
+        <nav className="tt-crumb" aria-label="Breadcrumb">
+          <Link href="/">{t("nav.home")}</Link>
+          <span className="sep">/</span>
+          <Link href="/books">{t("nav.books")}</Link>
+          <span className="sep">/</span>
+          <Link href={`/${book}`}>{bookName}</Link>
+          <span className="sep">/</span>
+          <span>{t("nav.bookIntroduction")}</span>
+        </nav>
+        <div className="tt-title-row">
+          <div>
+            <div className="tt-ref">{bookName}</div>
+            <h1 className="tt-chapter-title">{t("nav.bookIntroduction")}</h1>
+          </div>
+          <span className="tt-status-pill">
+            <span className="dot" aria-hidden="true" />
+            {t("people.provisional")}
+          </span>
         </div>
-
-        <IntroductionView
-          data={introduction}
-          sectionLabels={sectionLabels}
-          readingNoteLabel={t("introduction.readingNote")}
-          labelMaps={labelMaps}
-        />
+        <hr className="tt-seam mt-[26px]" />
       </div>
-    </main>
+      <main
+        className={WRAP}
+        style={{
+          paddingTop: "clamp(36px,6vh,64px)",
+          paddingBottom: "clamp(48px,8vh,90px)",
+        }}
+      >
+        <IntroductionView data={introduction} sectionLabels={sectionLabels} />
+        <DoorPager
+          left={{ href: `/${book}`, label: bookName }}
+          right={{ href: `/${book}/chapter/1`, label: `${bookName} 1` }}
+        />
+      </main>
+    </>
   );
 }

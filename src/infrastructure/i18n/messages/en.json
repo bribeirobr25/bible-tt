@@ -1,18 +1,32 @@
 {
   "site": {
     "title": "The Transparent Translation",
+    "brand": "Transparent Translation",
     "subtitle": "A translation with nothing hidden."
+  },
+  "books": {
+    "heroKicker": "Currently translated",
+    "heroTitle": "The Books.",
+    "heroTagline": "Genesis 1–12 · John 1–3 · Matthew 1–3 — each with chapters, study companions, introductions, and people.",
+    "sectionKick": "Three books, four languages",
+    "readNow": "Read now",
+    "corpusHebrew": "Hebrew Bible",
+    "corpusGreek": "Greek Scriptures",
+    "chaptersAvailable": "{n} chapters available",
+    "provisional": "All content ships *provisional* — pending source-language scholar sign-off (Rule 28). Genesis 13–50 is the largest work in progress."
+  },
+  "footer": {
+    "read": "Read",
+    "method": "Method"
   },
   "nav": {
     "home": "Home",
     "chapters": "Chapters",
     "books": "Books",
     "selectBook": "Select a book",
-    "selectChapter": "Select a chapter",
     "chapterOverview": "Chapter Overview",
     "readingGuide": "Reading Guide",
     "prophecyMode": "Prophecies",
-    "share": "Share",
     "readingProgress": "Reading progress",
     "bookContext": "Background",
     "bookContextDescription": "A panoramic view of the most significant scholarly, historical, and textual topics across all chapters.",
@@ -27,7 +41,11 @@
     "linkCopied": "Link copied",
     "chapterViews": "Chapter views",
     "atAGlance": "At a glance",
-    "readFullIntroduction": "Read the full introduction"
+    "readFullIntroduction": "Read the full introduction",
+    "explore": "Explore {book}",
+    "exploreIntroDesc": "Authorship, dating, manuscript transmission, and how to read this book in the TT.",
+    "explorePeopleDesc": "Expanded profiles and a lifespan timeline of the figures in this book.",
+    "exploreBackgroundDesc": "Cross-chapter motifs and patterns that span the book."
   },
   "bookContext": {
     "chapters": "Chapters"
@@ -35,10 +53,11 @@
   "chapter": {
     "prev": "Previous chapter",
     "next": "Next chapter",
-    "notFound": "This chapter has not been translated yet.",
-    "reading": "Continuous Reading",
-    "study": "Verse-by-Verse Study",
-    "chapterN": "Chapter {n}"
+    "chapterN": "Chapter {n}",
+    "notesRef": "Verse-by-verse study",
+    "deeperRef": "Background & enrichment",
+    "link": "Link",
+    "copied": "Copied"
   },
   "notes": {
     "title": "Notes",
@@ -52,19 +71,7 @@
     "seeAlso": "See also"
   },
   "glossary": {
-    "title": "Glossary",
-    "sourceWord": "Source",
-    "translation": "Translation",
-    "notes": "Notes"
-  },
-  "metadata": {
-    "edition": "Edition",
-    "status": "Status",
-    "baseText": "Base Text",
-    "methodology": "Methodology",
-    "showDetails": "Show details",
-    "hideDetails": "Hide details",
-    "divineNameLabel": "Divine Name Policy"
+    "title": "Glossary"
   },
   "book": {
     "genesis": "Genesis",
@@ -92,29 +99,9 @@
   "enrichment": {
     "source": "Source: {source}",
     "emptyContext": "No contextual study material available for this chapter yet.",
-    "contextDisclaimer": "This companion provides contextual and comparative study material. It does not redefine, expand, or control the main translation. All entries are labeled by type and certainty.",
-    "legendEstablished": "well established",
-    "legendPossible": "possible",
-    "legendUncertain": "uncertain",
-    "introSourceText": "Reading this chapter transparently — without the smoothing most translations apply — reveals features of the source text that are usually invisible.",
-    "introAneParallels": "The world that produced this text was not empty of other stories. Neighboring cultures told their own accounts of how things began.",
-    "introHistorical": "What do we actually know about the world this text describes?",
-    "introLinguistic": "The Hebrew words themselves carry layers that translation inevitably compresses.",
-    "introScientific": "Modern science describes the natural world very differently from this ancient text. Neither validates nor invalidates the other — they answer different questions.",
-    "introReception": "This text has been read for thousands of years. Different communities have heard different things in it.",
-    "introCuriosities": "Some things in the text are simply striking — not because they prove anything, but because they make you pause.",
-    "introWorldAtTheTime": "What was happening in the world when this text was written? Politics, trade, daily life, wars, art, philosophy — the context beyond the text itself.",
-    "hedgeStartProbable": "Most scholars agree that ",
-    "hedgeStartPossible": "One possible reading suggests that ",
-    "hedgeStartUncertain": "The meaning here is genuinely unclear, but ",
-    "hedgeStartSpeculative": "Some have wondered whether ",
-    "hedgeMidProbable": "This is widely accepted. ",
-    "hedgeMidPossible": "This is one reading among others. ",
-    "hedgeMidUncertain": "This remains genuinely debated. ",
-    "hedgeMidSpeculative": "This is speculative. "
+    "contextDisclaimer": "This companion provides contextual and comparative study material. It does not redefine, expand, or control the main translation. All entries are labeled by type and certainty."
   },
   "prophecy": {
-    "title": "Prophecies",
     "disclaimer": "Prophecy entries present what the text says, how traditions read it, and the scholarly assessment of fulfillment. The reader draws conclusions; the entry draws none.",
     "fulfillment": {
       "fulfilled": "Fulfilled",
@@ -127,10 +114,7 @@
     "fields": {
       "textSays": "What the text says",
       "context": "Context",
-      "subject": "Subject",
-      "readings": "Traditional readings",
-      "status": "Fulfillment status",
-      "scholarlyNote": "Scholarly note"
+      "readings": "Traditional readings"
     }
   },
   "people": {
@@ -178,7 +162,8 @@
       "genesis": "In Genesis",
       "matthew": "In Matthew",
       "john": "In John"
-    }
+    },
+    "provisional": "Provisional"
   },
   "introduction": {
     "title": "Book Introduction",
@@ -212,37 +197,43 @@
     "diff4title": "You can see the seams",
     "diff4": "Every word in italics was added to make English work. It is not in the Hebrew. You always know what is original and what is scaffolding.",
     "howTitle": "Three ways to read",
-    "howReading": "Reading — Get the full story as flowing prose on a clean page. No footnotes, no interruptions. Just you and the text.",
-    "howStudy": "Study — Get the Hebrew behind every word, see where we made choices, and find out why. Verse by verse, color-coded.",
+    "doorRead": "Reading",
+    "doorStudy": "Study",
+    "doorDeeper": "Deeper",
+    "howReading": "The full story as flowing prose on a clean page. No footnotes, no interruptions. Just you and the text.",
+    "howStudy": "The Hebrew behind every word, where we made choices, and why. Verse by verse, color-coded.",
     "whoTitle": "Who is this for?",
-    "who1": "You believe — and you want to meet the text as it was actually written, before centuries of translation smoothed it over.",
-    "who2": "You doubt, or follow another path entirely — and you are willing to be surprised by what the originals actually say.",
-    "who3": "You study these texts and want a translation that shows its work: every choice visible, every uncertainty admitted.",
+    "who1": "You *believe* — and you want to meet the text as it was actually written, before centuries of translation smoothed it over.",
+    "who2": "You *doubt*, or follow another path entirely — and you are willing to be surprised by what the originals actually say.",
+    "who3": "You *study* these texts and want a translation that shows its work: every choice visible, every uncertainty admitted.",
     "scopeTitle": "What this is",
-    "scope": "Every translation makes choices. Most hide them. This one shows you exactly where — in English, Portuguese, German, and Spanish. It is not a devotional. It is not a replacement for scholarly editions. It is a disciplined attempt to let you see what is actually there.",
+    "scope": "This one shows you exactly where — in English, Portuguese, German, and Spanish. It is not a devotional. It is not a replacement for scholarly editions. It is a disciplined attempt to let you see what is actually there.",
     "scopeNot": "When we don't know something, we say so. When scholars disagree, we show you both sides.",
     "rulesPageTitle": "The 29 Rules",
     "rulesPageSubtitle": "The governance system behind the Transparent Translation.",
     "rulesIntro": "Every translation makes choices. Most hide them. We wrote ours down.",
+    "rulesHeroKicker": "Governance · Ruleset v3.3",
+    "rulesExamplesH2": "A few, made concrete",
+    "rulesAllKick": "The complete set",
     "rulesPrime": "The Prime Directive",
     "rulesPrimeDesc": "If any rule conflicts with these four principles, the principles win.",
-    "rulesPrime1": "If the original text is complex, we keep it complex.",
-    "rulesPrime2": "If the original text is ambiguous, we keep it ambiguous.",
-    "rulesPrime3": "We do not add words the source text does not say — unless the target language physically cannot form a sentence without them.",
-    "rulesPrime4": "When we do add a word, we mark it so you can see it.",
+    "rulesPrime1": "If the original text is *complex*, we keep it complex.",
+    "rulesPrime2": "If the original text is *ambiguous*, we keep it ambiguous.",
+    "rulesPrime3": "We do not *add* words the source text does not say — unless the target language physically cannot form a sentence without them.",
+    "rulesPrime4": "When we do add a word, we *mark* it so you can see it.",
     "rulesAllTitle": "All 29 rules",
     "rulePrefix": "Rule {n}",
     "rulesExamplesTitle": "Rules in action",
     "rulesFullLink": "Read the complete ruleset",
     "rule1name": "Controlled Lexical Consistency",
     "rule1short": "Same source word → same translation, by default.",
-    "rule1example": "Hebrew אֶרֶץ (eretz) always → 'land.' Greek εκκλησία (ekklesia) → 'assembly,' not 'church.'",
+    "rule1example": "Hebrew אֶרֶץ (*eretz*) always → **land**. Greek ἐκκλησία (*ekklesia*) → **assembly**, not “church.”",
     "rule2name": "Preserve Ambiguity",
     "rule2short": "If source text supports two meanings, preserve both.",
-    "rule2example": "Hebrew רוּחַ (ruach) → 'wind/spirit.' Greek πίστις (pistis) → 'trust/faithfulness.'",
+    "rule2example": "Hebrew רוּחַ (*ruach*) → **wind/spirit**. Greek πίστις (*pistis*) → **trust/faithfulness**.",
     "rule3name": "Avoid Imported Theology",
     "rule3short": "Don't sneak in later concepts not in the source text.",
-    "rule3example": "Hebrew: 'sky' not 'Heaven.' Greek: 'assembly' not 'church.' 'Good news' not 'Gospel.'",
+    "rule3example": "Hebrew: **sky**, not ‘Heaven.’ Greek: **assembly**, not ‘church.’ **Good news**, not ‘Gospel.’",
     "rule4name": "Transliteration Threshold",
     "rule4short": "Transliterate when translation would impose a single reading.",
     "rule5name": "Locked Glossary",
@@ -259,7 +250,7 @@
     "rule10short": "Maintain consistent linguistic register.",
     "rule11name": "Signal All Additions",
     "rule11short": "Mark every word not in the source text.",
-    "rule11example": "'And God saw that *it was* good' — italics show 'it was' is added for English grammar.",
+    "rule11example": "“And God saw that *it was* good” — italics show ‘it was’ is added for English grammar.",
     "rule12name": "Structural Correspondence",
     "rule12short": "Preserve source sentence structure where possible.",
     "rule13name": "Uncertainty Levels",
@@ -288,7 +279,7 @@
     "rule24short": "Transparent vs Reader edition, declared explicitly.",
     "rule25name": "Divine Name Policy",
     "rule25short": "Tetragrammaton rendered per declared policy.",
-    "rule25example": "YHWH — because that is what the Hebrew consonants are. The vowels were never written.",
+    "rule25example": "**YHWH** — because that is what the Hebrew consonants are. The vowels were never written.",
     "rule26name": "Variant Apparatus",
     "rule26short": "Significant variants noted in companion material.",
     "rule27name": "Formatting Standards",
@@ -297,11 +288,16 @@
     "rule28short": "No verse ships without documented review.",
     "rule29name": "Contextual Enrichment",
     "rule29short": "Companion material in separate files, labeled by type and confidence.",
-    "howDeeper": "The deeper layer — historical and linguistic background, prophecy readings, and the people behind the text, each labeled by claim type and confidence.",
-    "heroHeadline": "Read the originals behind two thousand years of culture.",
+    "howDeeper": "Historical and linguistic background, prophecy readings, and the people behind the text — each labeled by claim type and confidence.",
+    "heroHeadline": "Read the originals behind *two thousand years* of culture.",
     "heroSub": "The source texts, shown honestly — every translation choice visible.",
     "heroSupport": "For believers, skeptics, and the merely curious alike — the text without the filter.",
-    "ctaStartHere": "New here? Start here"
+    "ctaStartHere": "New here? Start here",
+    "heroVerse": "And God separated the *light* from the *darkness*.",
+    "differenceKicker": "The difference",
+    "howKicker": "How it works",
+    "threeReaders": "Three readers",
+    "scopeHeadline": "Every translation makes choices.\nMost *hide* them."
   },
   "start": {
     "title": "Start here",
@@ -311,6 +307,9 @@
     "availableNow": "Available now",
     "comingSoon": "Coming soon",
     "interleaveNote": "Read one of each, side by side, until the Psalms are done.",
+    "heroKicker": "A reading plan",
+    "pathKick": "The path — seven steps",
+    "beginCta": "Begin with Genesis 1",
     "step1title": "Psalms",
     "step1desc": "The soul — raw human feeling, addressed upward.",
     "step2title": "Proverbs",

@@ -1,0 +1,124 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<title>Genesis — People &amp; Genealogy · The Transparent Translation</title>
+<meta name="description" content="The people of Genesis 1–12 — full profiles and a lifespan timeline on the text's own Anno Mundi chronology." />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Geist:wght@300;400;500;600;700&family=Geist+Mono:wght@400;500;600&family=Newsreader:ital,opsz,wght@0,6..72,200..700;1,6..72,300..600&display=swap" rel="stylesheet" />
+<link rel="stylesheet" href="../assets/tt.css" />
+</head>
+<body class="has-header" data-localized>
+  <header class="site-header">
+    <a class="brand" href="../index.html"><span class="mark"></span> Transparent Translation</a>
+    <button class="menu-btn" aria-label="Menu" aria-expanded="false"><span></span></button>
+    <nav>
+      <a href="../books.html">Books</a>
+      <a href="index.html">Genesis</a>
+      <a href="../rules.html">How we translate</a>
+      <a class="nav-cta" href="chapter-1.html">Start reading →</a>
+    </nav>
+  </header>
+
+  <div class="chapter-head wrap">
+    <nav class="crumb"><a href="../index.html" data-i18n="nav.home">Home</a><span class="sep">/</span><a href="index.html" data-i18n="book.genesis">Genesis</a><span class="sep">/</span><span data-i18n="ui.people">People</span></nav>
+    <div class="title-row"><div><div class="ref">People &amp; genealogy · Genesis 1–12</div><h1 class="serif">The People of Genesis</h1></div><span class="status-pill"><span class="dot"></span> Provisional</span></div>
+    <div class="seam"></div>
+  </div>
+
+  <main class="wrap" style="padding-top:clamp(36px,6vh,64px);padding-bottom:clamp(48px,8vh,90px)">
+    <p class="lead reveal" style="max-width:60ch">Genealogical data is drawn from the Masoretic Text. Birth and death years are calculated from the text’s own internal arithmetic — <span class="mono" style="font-size:.85em">Anno Mundi</span>, the year from creation. Where the text gives no figure, the profile says “not stated.”</p>
+
+    <!-- TIMELINE -->
+    <section class="reveal" style="margin:clamp(40px,6vh,70px) 0">
+      <p class="kick">Lifespan timeline · Adam → Noah</p>
+      <div style="overflow-x:auto;border:1px solid var(--line);border-radius:12px;background:var(--cream-2);padding:18px">
+        <svg id="tl" width="100%" viewBox="0 0 1000 460" preserveAspectRatio="xMinYMin meet" role="img" aria-label="Lifespan timeline of the Adam-to-Noah genealogy on the Anno Mundi chronology"></svg>
+      </div>
+      <p class="mono" style="margin-top:12px;color:var(--ink-mute);font-size:12px">Bars span each figure’s lifespan in years from creation (AM). The dashed bar is Chanokh (Enoch), “taken” at 365. By the text’s own arithmetic, every generation from Adam to Lamech was still alive when Noah was born — and the Flood (AM 1656) falls the year Methuselah dies.</p>
+    </section>
+
+    <!-- PROFILES -->
+    <section class="reveal">
+      <p class="kick"><span data-i18n="ui.profiles">Profiles</span> · <span id="pcount" style="color:var(--ink-mute);text-transform:none;letter-spacing:0"></span></p>
+      <div id="people"></div>
+    </section>
+
+    <!-- GENEALOGY TABLES -->
+    <section class="reveal" style="margin-top:clamp(48px,7vh,80px)">
+      <p class="kick" data-i18n="ui.genealogyTables">Genealogy tables</p>
+      <div id="genealogies"></div>
+    </section>
+
+    <!-- SOURCES -->
+    <section class="reveal" style="margin-top:clamp(40px,6vh,70px)">
+      <details>
+        <summary><span data-i18n="ui.sourcesConsulted">Sources consulted</span><span class="chev">›</span></summary>
+        <div class="body" id="psources"></div>
+      </details>
+    </section>
+
+    <nav class="pager">
+      <a href="index.html"><span class="pl">← Back to</span><span class="serif" style="font-size:1.2rem">Genesis hub</span></a>
+      <a class="right" href="background.html"><span class="pl">Next →</span><span class="serif" style="font-size:1.2rem">Background</span></a>
+    </nav>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <div class="cols">
+        <div><p class="brand-blurb serif">A translation with nothing hidden.</p></div>
+        <div><h4>Genesis</h4><a href="chapter-1.html">Read chapter 1</a><a href="introduction.html">Introduction</a><a href="people.html">People</a><a href="background.html">Background</a></div>
+        <div><h4>Method</h4><a href="../rules.html">The 29 rules</a><a href="../books.html">All books</a><a href="../start.html">Start here</a></div>
+      </div>
+      <div class="legal"><span>© The Transparent Translation · EN · PT · DE · ES</span><span class="badge">Redesign · Light &amp; Darkness</span></div>
+    </div>
+  </footer>
+
+  <style>
+    .gtable .heb{font-size:1rem;direction:ltr}
+    .gen-table{overflow-x:auto;border:1px solid var(--line);border-radius:12px;background:var(--cream-2);padding:18px 18px 4px;margin-bottom:20px}
+    .gen-table h3{font-family:"Newsreader",serif;font-size:1.3rem;margin-bottom:4px}
+    .gen-table .cap{font-family:"Geist Mono",monospace;font-size:11px;color:var(--ink-mute);margin-bottom:12px}
+    .gen-table .note{font-size:13px;color:var(--ink-soft);line-height:1.6;margin-top:6px}
+    #psources p{margin-bottom:10px;line-height:1.7}
+    #psources ul{margin:0 0 10px 1.1em;line-height:1.8}
+    .person .field.wide{grid-column:1/-1}
+  </style>
+
+  <script>
+  // --- timeline (Masoretic AM values, Gen 5) ---
+  const LINE=[
+    ['Adam',0,930],['Seth',130,1042],['Enosh',235,1140],['Kenan',325,1235],
+    ['Mahalalel',395,1290],['Jared',460,1422],['Enoch',622,987,true],['Methuselah',687,1656],
+    ['Lamech',874,1651],['Noah',1056,2006]
+  ];
+  (function(){
+    const svg=document.getElementById('tl');const NS='http://www.w3.org/2000/svg';
+    const W=1000,padL=120,padR=30,padT=20,rowH=38,maxYr=2100;
+    const plotW=W-padL-padR;const x=y=>padL+(y/maxYr)*plotW;
+    function el(n,a){const e=document.createElementNS(NS,n);for(const k in a)e.setAttribute(k,a[k]);return e;}
+    for(let yr=0;yr<=2000;yr+=500){
+      svg.appendChild(el('line',{x1:x(yr),y1:padT,x2:x(yr),y2:padT+LINE.length*rowH+6,stroke:'rgba(13,26,28,.12)','stroke-width':1}));
+      const t=el('text',{x:x(yr),y:padT+LINE.length*rowH+22,'font-size':11,'font-family':'Geist Mono, monospace',fill:'#6f7b78','text-anchor':'middle'});t.textContent='AM '+yr;svg.appendChild(t);
+    }
+    svg.appendChild(el('line',{x1:x(1656),y1:padT-6,x2:x(1656),y2:padT+LINE.length*rowH+6,stroke:'#c98a3a','stroke-width':2,'stroke-dasharray':'2 3'}));
+    const ft=el('text',{x:x(1656),y:padT-9,'font-size':11,'font-family':'Geist Mono, monospace',fill:'#c98a3a','text-anchor':'middle'});ft.textContent='Flood · 1656';svg.appendChild(ft);
+    LINE.forEach((p,i)=>{
+      const yy=padT+i*rowH+10;const x0=x(p[1]),x1v=x(p[2]);
+      const name=el('text',{x:padL-12,y:yy+13,'font-size':13,'font-family':'Newsreader, serif',fill:'#0d1a1c','text-anchor':'end'});name.textContent=p[0];svg.appendChild(name);
+      svg.appendChild(el('rect',{x:x0,y:yy,width:Math.max(2,x1v-x0),height:18,rx:4,
+        fill:p[3]?'none':'#0a8499',opacity:p[3]?1:.85,
+        stroke:p[3]?'#c98a3a':'none','stroke-width':p[3]?2:0,'stroke-dasharray':p[3]?'4 3':'none'}));
+      const yr=el('text',{x:x1v+6,y:yy+13,'font-size':10.5,'font-family':'Geist Mono, monospace',fill:'#6f7b78'});yr.textContent=(p[2]-p[1])+(p[3]?' · taken':'');svg.appendChild(yr);
+    });
+  })();
+  </script>
+
+  <script src="../assets/data/genesis-people.js"></script>
+  <script src="../assets/render-people.js"></script>
+  <script src="../assets/tt.js"></script>
+</body>
+</html>

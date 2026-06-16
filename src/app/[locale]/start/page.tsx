@@ -1,26 +1,31 @@
 import { ArrowRight } from "lucide-react";
 import type { Metadata } from "next";
 import { getTranslations, setRequestLocale } from "next-intl/server";
-import { AVAILABLE_BOOKS } from "@/domain/books/registry";
 import {
   breadcrumbJsonLd,
   canonicalUrl,
   seoMetadata,
   truncateDescription,
 } from "@/lib/seo";
+import { MarketingHero } from "@/ui/marketing/marketing-hero";
 import { Link } from "@/ui/navigation/locale-link";
 import { JsonLd } from "@/ui/shared/json-ld";
 
-// The "Start here" plan. `books` lists the slugs each step would link to; only
-// those present in AVAILABLE_BOOKS render as live links (rest = "coming soon").
-const STEPS: { key: string; books: string[]; interleaveAfter?: boolean }[] = [
-  { key: "step1", books: [] }, // Psalms
-  { key: "step2", books: [] }, // Proverbs
-  { key: "step3", books: [], interleaveAfter: true }, // Ecclesiastes
-  { key: "step4", books: ["matthew", "john"] }, // Gospels
-  { key: "step5", books: [] }, // rest of NT
-  { key: "step6", books: [] }, // Revelation
-  { key: "step7", books: ["genesis"] }, // Genesis & Torah
+// The "Start here" reading plan. `href` marks a step whose content is live now
+// (renders an "Available now →" badge); the rest are "Coming soon".
+const STEPS: {
+  key: string;
+  href?: string;
+  interleaveAfter?: boolean;
+  final?: boolean;
+}[] = [
+  { key: "step1" }, // Psalms
+  { key: "step2" }, // Proverbs
+  { key: "step3", interleaveAfter: true }, // Ecclesiastes
+  { key: "step4", href: "/books" }, // Gospels
+  { key: "step5" }, // rest of NT
+  { key: "step6" }, // Revelation
+  { key: "step7", href: "/genesis", final: true }, // Genesis & Torah
 ];
 
 export async function generateMetadata({
@@ -46,94 +51,95 @@ export default async function StartPage({
   const { locale } = await params;
   setRequestLocale(locale);
   const t = await getTranslations();
-  const available = new Set<string>(AVAILABLE_BOOKS);
+
+  // The WHY copy is one string: a lead sentence + the reading-path description.
+  const why = t("start.why");
+  const splitAt = why.indexOf(". ");
+  const whyHeadline = splitAt > 0 ? why.slice(0, splitAt + 1) : why;
+  const whyBody = splitAt > 0 ? why.slice(splitAt + 2) : "";
 
   return (
-    <main className="min-h-screen px-6 py-16 md:py-24">
+    <main>
       <JsonLd
         data={breadcrumbJsonLd([
           { name: t("site.title"), url: canonicalUrl(locale, "") },
           { name: t("start.title"), url: canonicalUrl(locale, "start") },
         ])}
       />
-      <div className="max-w-2xl mx-auto">
-        <header className="text-center mb-12">
-          <h1 className="font-[family-name:var(--font-reading)] text-3xl md:text-5xl font-light tracking-tight">
-            {t("start.title")}
-          </h1>
-          <p className="mt-4 text-text-secondary text-lg leading-relaxed">
-            {t("start.lead")}
-          </p>
-        </header>
 
-        <section className="mb-14 p-6 md:p-8 border border-border rounded-lg bg-bg-surface">
-          <h2 className="font-[family-name:var(--font-reading)] text-xl md:text-2xl font-light mb-3">
-            {t("start.whyTitle")}
-          </h2>
-          <p className="text-text-primary text-base leading-relaxed">
-            {t("start.why")}
-          </p>
-        </section>
+      <MarketingHero
+        kicker={t("start.heroKicker")}
+        title={`${t("start.title")}.`}
+        tagline={t("start.lead")}
+        titleMaxCh={12}
+        taglineMaxCh={40}
+      />
 
-        <ol className="space-y-4">
-          {STEPS.map((step, i) => {
-            const liveBooks = step.books.filter((b) => available.has(b));
-            return (
-              <li key={step.key}>
-                <div className="flex gap-4 p-5 border border-border rounded-lg">
-                  <span className="font-[family-name:var(--font-mono)] text-sm font-bold text-accent tabular-nums shrink-0 mt-0.5">
-                    {i + 1}
-                  </span>
-                  <div className="flex-1 min-w-0">
-                    <div className="flex items-center justify-between gap-3 flex-wrap">
-                      <h3 className="font-[family-name:var(--font-reading)] text-lg font-medium text-text-primary">
-                        {t(`start.${step.key}title`)}
-                      </h3>
-                      {liveBooks.length === 0 && (
-                        <span className="text-xs uppercase tracking-wider text-text-muted font-[family-name:var(--font-ui)] px-2 py-0.5 rounded bg-bg-muted">
-                          {t("start.comingSoon")}
-                        </span>
-                      )}
-                    </div>
-                    <p className="text-sm text-text-secondary mt-1 leading-relaxed">
-                      {t(`start.${step.key}desc`)}
-                    </p>
-                    {liveBooks.length > 0 && (
-                      <div className="mt-3 flex flex-wrap gap-2">
-                        {liveBooks.map((book) => (
-                          <Link
-                            key={book}
-                            href={`/${book}`}
-                            className="inline-flex items-center gap-1.5 text-sm font-medium text-accent hover:text-accent-hover transition-colors duration-150 focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2 rounded"
-                          >
-                            {t(`book.${book}`)}
-                            <ArrowRight size={14} strokeWidth={1.5} />
-                          </Link>
-                        ))}
-                      </div>
+      {/* WHY THIS ORDER */}
+      <section className="tt-section">
+        <div className="max-w-[1320px] mx-auto px-[clamp(18px,4vw,52px)]">
+          <div className="tt-grid-head">
+            <div className="tt-bignum reveal">/</div>
+            <div>
+              <p className="tt-kick reveal">{t("start.whyTitle")}</p>
+              <h2 className="tt-h1 reveal max-w-[20ch]" data-d="1">
+                {whyHeadline}
+              </h2>
+            </div>
+          </div>
+          {whyBody && (
+            <p
+              className="tt-lead reveal ml-auto max-w-[62ch] mt-[30px]"
+              data-d="1"
+            >
+              {whyBody}
+            </p>
+          )}
+        </div>
+      </section>
+
+      {/* THE PATH — dark roadmap */}
+      <section className="tt-section bg-dark">
+        <div className="max-w-[1320px] mx-auto px-[clamp(18px,4vw,52px)]">
+          <p className="tt-kick reveal">{t("start.pathKick")}</p>
+          <div className="tt-roadmap">
+            {STEPS.map((step, i) => (
+              <div key={step.key}>
+                <div className={`tt-step reveal${step.final ? " final" : ""}`}>
+                  <div className="sn">{String(i + 1).padStart(2, "0")}</div>
+                  <div className="sc">
+                    <div className="st">{t(`start.${step.key}title`)}</div>
+                    <p>{t(`start.${step.key}desc`)}</p>
+                    {step.href ? (
+                      <Link
+                        href={step.href}
+                        className="tt-badge tt-badge-now gap-1.5"
+                      >
+                        {t("start.availableNow")}
+                        <ArrowRight size={13} strokeWidth={1.5} />
+                      </Link>
+                    ) : (
+                      <span className="tt-badge tt-badge-soon">
+                        {t("start.comingSoon")}
+                      </span>
                     )}
                   </div>
                 </div>
                 {step.interleaveAfter && (
-                  <p className="text-xs text-text-muted italic mt-3 mb-1 pl-9">
-                    {t("start.interleaveNote")}
+                  <p className="tt-interleave reveal">
+                    ↳ {t("start.interleaveNote")}
                   </p>
                 )}
-              </li>
-            );
-          })}
-        </ol>
-
-        <div className="mt-14 text-center">
-          <Link
-            href="/books"
-            className="min-h-12 inline-flex items-center justify-center gap-2 px-10 py-4 rounded-md bg-accent text-bg-paper font-medium hover:bg-accent-hover active:scale-95 transition-all duration-200 focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2"
-          >
-            {t("landing.cta")}
-            <ArrowRight size={16} strokeWidth={1.5} />
-          </Link>
+              </div>
+            ))}
+          </div>
+          <div className="mt-12 reveal">
+            <Link href="/genesis/chapter/1" className="tt-btn tt-btn-pri">
+              {t("start.beginCta")} <span className="arr">→</span>
+            </Link>
+          </div>
         </div>
-      </div>
+      </section>
     </main>
   );
 }

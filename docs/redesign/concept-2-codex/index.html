@@ -1,0 +1,280 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<title>Codex · The Transparent Translation — Redesign Concept 2</title>
+<meta name="description" content="A translation with nothing hidden. Luminous editorial concept." />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Geist:wght@300;400;500;600&family=Geist+Mono:wght@400;500&family=Newsreader:ital,opsz,wght@0,6..72,200..600;1,6..72,300..500&display=swap" rel="stylesheet" />
+<style>
+  :root{
+    --paper:#f4eee2;
+    --paper-2:#faf6ed;
+    --paper-3:#ece3d2;
+    --ink:#2a2620;
+    --ink-soft:#5a5347;
+    --ink-mute:#8b8474;
+    --accent:#006475;
+    --accent-2:#0a7d90;
+    --accent-hover:#004f5d;
+    --line:rgba(42,38,32,.14);
+    --line-soft:rgba(42,38,32,.08);
+    --maxw:1240px;
+    --ease:cubic-bezier(.22,.61,.36,1);
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  html{-webkit-text-size-adjust:100%}
+  body{font-family:"Geist",system-ui,sans-serif;background:var(--paper);color:var(--ink);line-height:1.6;overflow-x:hidden;-webkit-font-smoothing:antialiased}
+  .serif{font-family:"Newsreader",Georgia,serif}
+  .mono{font-family:"Geist Mono",monospace}
+  a{color:inherit;text-decoration:none}
+  ::selection{background:var(--accent);color:var(--paper)}
+  .wrap{max-width:var(--maxw);margin-inline:auto;padding-inline:clamp(22px,5vw,56px)}
+  #grain{position:fixed;inset:0;width:100%;height:100%;z-index:0;pointer-events:none;opacity:.6}
+  .above{position:relative;z-index:1}
+
+  header.bar{position:fixed;top:0;left:0;right:0;z-index:40;display:flex;justify-content:space-between;align-items:center;
+    padding:20px clamp(22px,5vw,56px);backdrop-filter:blur(6px);
+    background:linear-gradient(var(--paper),rgba(244,238,226,0));}
+  .bar .brand{font-weight:600;letter-spacing:.16em;font-size:13px;text-transform:uppercase}
+  .bar .brand b{color:var(--accent)}
+  .bar nav{display:flex;gap:26px;font-size:13px}
+  .bar nav a{color:var(--ink-soft);transition:color .2s}
+  .bar nav a:hover{color:var(--accent)}
+  .bar .cta{color:var(--accent);font-weight:500}
+  @media(max-width:720px){.bar nav a:not(.cta){display:none}}
+
+  /* hero */
+  .hero{min-height:100svh;display:flex;flex-direction:column;justify-content:center;padding-top:90px;padding-bottom:60px}
+  .hero .eyebrow{font-size:12px;letter-spacing:.3em;text-transform:uppercase;color:var(--accent);margin-bottom:30px;display:flex;gap:14px;align-items:center}
+  .hero .eyebrow::before{content:"";width:46px;height:1px;background:var(--accent);opacity:.5}
+  .hero h1{font-weight:200;font-size:clamp(3rem,9vw,8.2rem);line-height:.98;letter-spacing:-.025em}
+  .hero h1 .ln{display:block;overflow:hidden}
+  .hero h1 .ln > span{display:inline-block}
+  .hero h1 em{font-style:italic;color:var(--accent)}
+  .hero .sub{margin-top:34px;max-width:52ch;font-size:clamp(1.05rem,1.8vw,1.35rem);color:var(--ink-soft);font-family:"Newsreader",serif;font-style:italic}
+  .hero .row{margin-top:42px;display:flex;flex-wrap:wrap;gap:16px;align-items:center}
+  .btn{display:inline-flex;align-items:center;gap:10px;min-height:54px;padding:0 32px;border-radius:3px;font-size:14px;font-weight:500;cursor:pointer;border:1px solid transparent;transition:transform .2s var(--ease),background .2s,color .2s,border-color .2s}
+  .btn:active{transform:scale(.97)}
+  .btn-pri{background:var(--accent);color:var(--paper)}.btn-pri:hover{background:var(--accent-hover)}
+  .btn-gho{border-color:var(--line);color:var(--ink)}.btn-gho:hover{border-color:var(--accent);color:var(--accent)}
+  .btn .arr{transition:transform .25s var(--ease)}.btn:hover .arr{transform:translateX(4px)}
+
+  /* slash showcase strip */
+  .slash{margin-top:64px;border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding:30px 0;display:flex;flex-wrap:wrap;gap:10px 34px;align-items:baseline}
+  .slash .tag{font-size:11px;letter-spacing:.22em;text-transform:uppercase;color:var(--ink-mute);margin-right:8px}
+  .slash .pair{font-family:"Newsreader",serif;font-size:clamp(1.4rem,3vw,2.2rem);font-style:italic}
+  .slash .pair .s{color:var(--accent);padding:0 .15em;display:inline-block}
+  .slash .pair .b{color:var(--ink)}
+
+  section{position:relative}
+  .pad{padding:clamp(90px,13vh,170px) 0}
+  .kicker{font-size:12px;letter-spacing:.26em;text-transform:uppercase;color:var(--accent);margin-bottom:18px}
+  h2{font-family:"Newsreader",serif;font-weight:300;font-size:clamp(2rem,4.5vw,3.4rem);line-height:1.1;letter-spacing:-.01em}
+  .reveal{opacity:0;transform:translateY(24px)}
+
+  /* difference */
+  .vg{display:grid;gap:0;margin-top:56px;border:1px solid var(--line);border-radius:10px;overflow:hidden}
+  @media(min-width:880px){.vg{grid-template-columns:1fr 1fr}}
+  .vc{padding:38px clamp(26px,3vw,44px)}
+  .vc.conv{background:var(--paper-3)}
+  .vc.tt{background:var(--paper-2);border-top:1px solid var(--line)}
+  @media(min-width:880px){.vc.tt{border-top:0;border-left:1px solid var(--line)}}
+  .vc .lab{font-size:11px;letter-spacing:.2em;text-transform:uppercase;color:var(--ink-mute);margin-bottom:18px}
+  .vc.tt .lab{color:var(--accent)}
+  .vc blockquote{font-family:"Newsreader",serif;font-size:clamp(1.15rem,1.7vw,1.4rem);line-height:1.8}
+  .vc.conv blockquote{color:var(--ink-soft)}
+  .vc.tt em{color:var(--accent);font-style:italic}
+  .diffs{display:grid;gap:1px;background:var(--line-soft);margin-top:40px;border:1px solid var(--line-soft);border-radius:10px;overflow:hidden}
+  @media(min-width:760px){.diffs{grid-template-columns:1fr 1fr}}
+  .diff{background:var(--paper);padding:28px clamp(22px,2.5vw,34px)}
+  .diff h4{font-size:15px;font-weight:600;display:flex;gap:10px;align-items:center}
+  .diff h4 .n{font-family:"Geist Mono",monospace;font-size:12px;color:var(--accent)}
+  .diff p{font-size:14.5px;color:var(--ink-soft);margin-top:8px;line-height:1.7}
+  .diff em{color:var(--accent);font-style:italic}
+
+  /* doors */
+  .doors{display:grid;gap:24px;margin-top:56px}
+  @media(min-width:820px){.doors{grid-template-columns:repeat(3,1fr)}}
+  .door{border:1px solid var(--line);border-radius:12px;padding:36px 30px;background:var(--paper-2);transition:transform .3s var(--ease),box-shadow .3s,border-color .3s}
+  .door:hover{transform:translateY(-6px);box-shadow:0 18px 40px -24px rgba(42,38,32,.45);border-color:var(--accent)}
+  .door .idx{font-family:"Geist Mono",monospace;font-size:12px;color:var(--accent);letter-spacing:.08em}
+  .door .dt{font-family:"Newsreader",serif;font-size:1.8rem;margin:16px 0 12px}
+  .door p{font-size:14.5px;color:var(--ink-soft);line-height:1.7}
+
+  /* who */
+  .who{background:var(--paper-3)}
+  .who-list{max-width:62ch;margin:48px auto 0;display:grid;gap:34px}
+  .who-list p{font-family:"Newsreader",serif;font-size:clamp(1.2rem,2.1vw,1.6rem);line-height:1.55;text-align:center}
+  .who-list span{color:var(--accent);font-style:italic}
+
+  /* scope */
+  .scope{text-align:center}
+  .scope .inner{max-width:60ch;margin-inline:auto}
+  .scope p{font-size:clamp(1.02rem,1.5vw,1.18rem);line-height:1.85}
+  .scope .not{font-style:italic;color:var(--ink-soft);margin-top:18px}
+
+  footer{border-top:1px solid var(--line);text-align:center;padding:46px 20px;color:var(--ink-mute);font-size:12px;letter-spacing:.16em;text-transform:uppercase}
+  footer .badge{display:inline-block;margin-top:12px;font-size:10px;letter-spacing:.2em;color:var(--accent);border:1px solid var(--line);border-radius:999px;padding:6px 14px}
+
+  @media(prefers-reduced-motion:reduce){.reveal{opacity:1;transform:none}*{scroll-behavior:auto!important}}
+</style>
+</head>
+<body>
+  <canvas id="grain"></canvas>
+  <header class="bar above">
+    <div class="brand">The <b>Transparent</b> Translation</div>
+    <nav>
+      <a href="#difference">The difference</a>
+      <a href="#read">How it works</a>
+      <a href="#scope">What this is</a>
+      <a class="cta" href="#scope">Start reading →</a>
+    </nav>
+  </header>
+
+  <section class="hero wrap above">
+    <p class="eyebrow" data-r>Hebrew Bible & Greek Scriptures</p>
+    <h1>
+      <span class="ln"><span data-line>A translation</span></span>
+      <span class="ln"><span data-line>with <em>nothing</em></span></span>
+      <span class="ln"><span data-line>hidden.</span></span>
+    </h1>
+    <p class="sub" data-r>The source texts, shown honestly — every translation choice visible. For believers, skeptics, and the merely curious alike.</p>
+    <div class="row" data-r>
+      <a class="btn btn-pri" href="#">Start reading <span class="arr">→</span></a>
+      <a class="btn btn-gho" href="#">New here? Start here</a>
+    </div>
+    <div class="slash" data-r>
+      <span class="tag">We keep ambiguity</span>
+      <span class="pair"><span class="b">wind</span><span class="s">/</span><span class="b">spirit</span></span>
+      <span class="pair"><span class="b">side</span><span class="s">/</span><span class="b">rib</span></span>
+      <span class="pair"><span class="b">desire</span><span class="s">/</span><span class="b">turning</span></span>
+    </div>
+  </section>
+
+  <section class="pad above" id="difference">
+    <div class="wrap">
+      <p class="kicker reveal">The difference</p>
+      <h2 class="reveal" style="max-width:18ch">What translations hide from you</h2>
+      <p class="reveal" style="color:var(--ink-soft);margin-top:12px;max-width:50ch">The same verse. One hides the choices. The other shows them.</p>
+      <div class="vg">
+        <div class="vc conv reveal"><div class="lab">Traditional translation</div><blockquote>Now the serpent was more crafty than any of the wild animals the LORD God had made. He said to the woman, “Did God really say, ‘You must not eat from any tree in the garden’?”</blockquote></div>
+        <div class="vc tt reveal"><div class="lab">Transparent Translation</div><blockquote>And the serpent was <em>arum</em> (crafty/shrewd) from all the living things of the field that YHWH God had made. And it said to the woman: “Indeed, <em>did</em> God say, ‘You shall not eat from any tree of the garden’?”</blockquote></div>
+      </div>
+      <div class="diffs">
+        <div class="diff reveal"><h4><span class="n">01</span> The name they replaced</h4><p>The Hebrew says YHWH — four consonants, no vowels. Most Bibles swap it for ‘the LORD.’ We put back what was there.</p></div>
+        <div class="diff reveal"><h4><span class="n">02</span> A hidden pun</h4><p>The word for ‘crafty’ (<em>arum</em>) sounds almost identical to ‘naked’ (<em>arom</em>) from the verse before. The author did that on purpose. Most translations erase it.</p></div>
+        <div class="diff reveal"><h4><span class="n">03</span> Both sides lie</h4><p>The serpent exaggerates the rule. The woman corrects it — but quietly changes the original command too. We keep both distortions visible.</p></div>
+        <div class="diff reveal"><h4><span class="n">04</span> You can see the seams</h4><p>Every word in italics was added to make English work. It is not in the Hebrew. You always know what is original and what is scaffolding.</p></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="pad above" id="read" style="background:var(--paper-2)">
+    <div class="wrap" style="text-align:center">
+      <p class="kicker reveal">How it works</p>
+      <h2 class="reveal" style="margin-inline:auto;max-width:16ch">Three ways to read</h2>
+    </div>
+    <div class="wrap">
+      <div class="doors">
+        <div class="door reveal"><div class="idx">01 — Read</div><div class="dt serif">Reading</div><p>Get the full story as flowing prose on a clean page. No footnotes, no interruptions. Just you and the text.</p></div>
+        <div class="door reveal"><div class="idx">02 — Notes</div><div class="dt serif">Study</div><p>Get the Hebrew behind every word, see where we made choices, and find out why. Verse by verse, color-coded.</p></div>
+        <div class="door reveal"><div class="idx">03 — Deeper</div><div class="dt serif">Deeper</div><p>Historical and linguistic background, prophecy readings, and the people behind the text — each labeled by claim type and confidence.</p></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="who pad above">
+    <div class="wrap" style="text-align:center">
+      <p class="kicker reveal">Who is this for?</p>
+      <div class="who-list">
+        <p class="reveal">You <span>believe</span> — and you want to meet the text as it was actually written, before centuries of translation smoothed it over.</p>
+        <p class="reveal">You <span>doubt</span>, or follow another path entirely — and you are willing to be surprised by what the originals actually say.</p>
+        <p class="reveal">You <span>study</span> these texts and want a translation that shows its work: every choice visible, every uncertainty admitted.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="scope pad above" id="scope">
+    <div class="wrap inner">
+      <p class="kicker reveal">What this is</p>
+      <h2 class="serif reveal" style="margin-bottom:22px">Every translation makes choices.<br>Most hide them.</h2>
+      <p class="reveal">This one shows you exactly where — in English, Portuguese, German, and Spanish. It is not a devotional. It is not a replacement for scholarly editions. It is a disciplined attempt to let you see what is actually there.</p>
+      <p class="not reveal">When we don’t know something, we say so. When scholars disagree, we show you both sides.</p>
+      <div class="reveal" style="margin-top:40px"><a class="btn btn-pri" href="#">Start reading <span class="arr">→</span></a></div>
+    </div>
+  </section>
+
+  <footer class="above">
+    <div>The Transparent Translation</div>
+    <div class="badge">Redesign · Concept 2 — Codex</div>
+  </footer>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/ScrollTrigger.min.js"></script>
+<script>
+const REDUCED = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+/* subtle WebGL paper-light + grain shader */
+(function(){
+  const canvas=document.getElementById('grain');
+  if(!window.THREE||!canvas) return;
+  const renderer=new THREE.WebGLRenderer({canvas,alpha:true,antialias:false});
+  renderer.setPixelRatio(Math.min(window.devicePixelRatio,1.5));
+  const scene=new THREE.Scene();
+  const cam=new THREE.OrthographicCamera(-1,1,1,-1,0,1);
+  const uni={u_time:{value:0},u_res:{value:new THREE.Vector2(1,1)},u_mouse:{value:new THREE.Vector2(.5,.5)}};
+  const mat=new THREE.ShaderMaterial({transparent:true,uniforms:uni,
+    vertexShader:`void main(){gl_Position=vec4(position,1.0);}`,
+    fragmentShader:`
+      precision highp float;
+      uniform float u_time;uniform vec2 u_res;uniform vec2 u_mouse;
+      float hash(vec2 p){return fract(sin(dot(p,vec2(127.1,311.7)))*43758.5453);}
+      void main(){
+        vec2 uv=gl_FragCoord.xy/u_res;
+        // soft moving light, follows mouse a touch
+        vec2 c=mix(vec2(0.35,0.7),u_mouse,0.4);
+        float d=distance(uv*vec2(u_res.x/u_res.y,1.0),c*vec2(u_res.x/u_res.y,1.0));
+        float light=smoothstep(0.9,0.0,d)*0.05;
+        float light2=smoothstep(0.7,0.0,distance(uv,vec2(0.85,0.15)))*0.04;
+        // film grain
+        float g=hash(uv*u_res*0.5+u_time*60.0);
+        float grain=(g-0.5)*0.035;
+        float a=light+light2+grain;
+        // tint toward petrol in light, warm in grain
+        vec3 col=mix(vec3(0.0,0.39,0.46),vec3(0.16,0.14,0.12),0.5);
+        gl_FragColor=vec4(col,clamp(a,0.0,0.12));
+      }`});
+  scene.add(new THREE.Mesh(new THREE.PlaneGeometry(2,2),mat));
+  function resize(){const w=window.innerWidth,h=window.innerHeight;renderer.setSize(w,h,false);uni.u_res.value.set(w*renderer.getPixelRatio(),h*renderer.getPixelRatio());}
+  window.addEventListener('resize',resize);resize();
+  window.addEventListener('pointermove',e=>{uni.u_mouse.value.set(e.clientX/window.innerWidth,1-e.clientY/window.innerHeight);});
+  let raf;function loop(){raf=requestAnimationFrame(loop);uni.u_time.value+=0.016;renderer.render(scene,cam);}
+  if(REDUCED){renderer.render(scene,cam);}else{loop();}
+  document.addEventListener('visibilitychange',()=>{if(REDUCED)return;document.hidden?cancelAnimationFrame(raf):loop();});
+})();
+
+/* hero reveal: lines rise, then slash + rest */
+(function(){
+  if(REDUCED) return;
+  const tl=gsap.timeline({defaults:{ease:'power4.out'}});
+  gsap.set('[data-line]',{yPercent:115});
+  gsap.set('[data-r]',{opacity:0,y:22});
+  tl.to('[data-line]',{yPercent:0,duration:1.1,stagger:0.12,delay:0.15})
+    .to('[data-r]',{opacity:1,y:0,duration:0.9,stagger:0.12},'-=0.6');
+  // slash pulse
+  gsap.to('.slash .s',{color:'#0a7d90',scale:1.25,transformOrigin:'center',duration:1.1,yoyo:true,repeat:-1,ease:'sine.inOut',stagger:0.3,delay:1.6});
+})();
+
+/* scroll reveals */
+(function(){
+  if(REDUCED||!window.ScrollTrigger) return;
+  gsap.registerPlugin(ScrollTrigger);
+  gsap.utils.toArray('.reveal').forEach(el=>gsap.to(el,{opacity:1,y:0,duration:.9,ease:'power3.out',scrollTrigger:{trigger:el,start:'top 88%'}}));
+})();
+</script>
+</body>
+</html>

@@ -1,18 +1,32 @@
 {
   "site": {
     "title": "Die Transparente Übersetzung",
+    "brand": "Transparent Translation",
     "subtitle": "Eine Übersetzung, die nichts verbirgt."
+  },
+  "books": {
+    "heroKicker": "Derzeit übersetzt",
+    "heroTitle": "Die Bücher.",
+    "heroTagline": "Genesis 1–12 · Johannes 1–3 · Matthäus 1–3 — jeweils mit Kapiteln, Studienbegleitern, Einführungen und Personen.",
+    "sectionKick": "Drei Bücher, vier Sprachen",
+    "readNow": "Jetzt lesen",
+    "corpusHebrew": "Hebräische Bibel",
+    "corpusGreek": "Griechische Schriften",
+    "chaptersAvailable": "{n} Kapitel verfügbar",
+    "provisional": "Alle Inhalte erscheinen *vorläufig* — ausstehende Freigabe durch Fachleute der Ursprachen (Regel 28). Genesis 13–50 ist die größte laufende Arbeit."
+  },
+  "footer": {
+    "read": "Lesen",
+    "method": "Methode"
   },
   "nav": {
     "home": "Startseite",
     "chapters": "Kapitel",
     "books": "Bücher",
     "selectBook": "Buch wählen",
-    "selectChapter": "Kapitel wählen",
     "chapterOverview": "Kapitelübersicht",
     "readingGuide": "Leseanleitung",
     "prophecyMode": "Prophetien",
-    "share": "Teilen",
     "readingProgress": "Lesefortschritt",
     "bookContext": "Hintergrund",
     "bookContextDescription": "Ein panoramischer Überblick über die bedeutendsten wissenschaftlichen, historischen und textuellen Themen aller Kapitel.",
@@ -27,7 +41,11 @@
     "linkCopied": "Link kopiert",
     "chapterViews": "Kapitelansichten",
     "atAGlance": "Auf einen Blick",
-    "readFullIntroduction": "Vollständige Einführung lesen"
+    "readFullIntroduction": "Vollständige Einführung lesen",
+    "explore": "{book} erkunden",
+    "exploreIntroDesc": "Verfasserschaft, Datierung, Textüberlieferung und wie man dieses Buch in der TT liest.",
+    "explorePeopleDesc": "Erweiterte Profile und eine Lebensspannen-Zeitleiste der Figuren dieses Buches.",
+    "exploreBackgroundDesc": "Kapitelübergreifende Motive und Muster des Buches."
   },
   "bookContext": {
     "chapters": "Kapitel"
@@ -35,10 +53,11 @@
   "chapter": {
     "prev": "Vorheriges Kapitel",
     "next": "Nächstes Kapitel",
-    "notFound": "Dieses Kapitel wurde noch nicht übersetzt.",
-    "reading": "Fortlaufende Lesung",
-    "study": "Vers-für-Vers-Studie",
-    "chapterN": "Kapitel {n}"
+    "chapterN": "Kapitel {n}",
+    "notesRef": "Vers-für-Vers-Studie",
+    "deeperRef": "Hintergrund & Vertiefung",
+    "link": "Link",
+    "copied": "Kopiert"
   },
   "notes": {
     "title": "Notizen",
@@ -52,19 +71,7 @@
     "seeAlso": "Siehe auch"
   },
   "glossary": {
-    "title": "Glossar",
-    "sourceWord": "Quelle",
-    "translation": "Übersetzung",
-    "notes": "Notizen"
-  },
-  "metadata": {
-    "edition": "Ausgabe",
-    "status": "Status",
-    "baseText": "Grundtext",
-    "methodology": "Methodik",
-    "showDetails": "Details anzeigen",
-    "hideDetails": "Details ausblenden",
-    "divineNameLabel": "Politik des göttlichen Namens"
+    "title": "Glossar"
   },
   "book": {
     "genesis": "Genesis",
@@ -92,29 +99,9 @@
   "enrichment": {
     "source": "Quelle: {source}",
     "emptyContext": "Für dieses Kapitel ist noch kein kontextuelles Studienmaterial verfügbar.",
-    "contextDisclaimer": "Dieses Begleitmaterial bietet kontextuelles und vergleichendes Studienmaterial. Es definiert die Hauptübersetzung weder um noch erweitert oder steuert sie. Alle Einträge sind nach Typ und Sicherheitsgrad gekennzeichnet.",
-    "legendEstablished": "gut belegt",
-    "legendPossible": "möglich",
-    "legendUncertain": "unsicher",
-    "introSourceText": "Dieses Kapitel transparent zu lesen — ohne die Glättung, die die meisten Übersetzungen vornehmen — offenbart Merkmale des Quelltextes, die normalerweise unsichtbar bleiben.",
-    "introAneParallels": "Die Welt, die diesen Text hervorbrachte, war nicht frei von anderen Erzählungen. Benachbarte Kulturen erzählten ihre eigenen Berichte darüber, wie alles begann.",
-    "introHistorical": "Was wissen wir tatsächlich über die Welt, die dieser Text beschreibt?",
-    "introLinguistic": "Die hebräischen Wörter selbst tragen Schichten, die eine Übersetzung unweigerlich komprimiert.",
-    "introScientific": "Die moderne Wissenschaft beschreibt die natürliche Welt ganz anders als dieser antike Text. Keines bestätigt oder widerlegt das andere — sie beantworten unterschiedliche Fragen.",
-    "introReception": "Dieser Text wird seit Tausenden von Jahren gelesen. Verschiedene Gemeinschaften haben Verschiedenes darin gehört.",
-    "introCuriosities": "Manches im Text ist einfach auffällig — nicht weil es etwas beweist, sondern weil es zum Innehalten bringt.",
-    "introWorldAtTheTime": "Was geschah in der Welt, als dieser Text geschrieben wurde? Politik, Handel, Alltag, Kriege, Kunst, Philosophie — der Kontext jenseits des Textes selbst.",
-    "hedgeStartProbable": "Die meisten Gelehrten sind sich einig, dass ",
-    "hedgeStartPossible": "Eine mögliche Lesart legt nahe, dass ",
-    "hedgeStartUncertain": "Die Bedeutung hier ist wirklich unklar, aber ",
-    "hedgeStartSpeculative": "Manche haben sich gefragt, ob ",
-    "hedgeMidProbable": "Dies ist weithin anerkannt. ",
-    "hedgeMidPossible": "Dies ist eine Lesart unter anderen. ",
-    "hedgeMidUncertain": "Dies bleibt wirklich umstritten. ",
-    "hedgeMidSpeculative": "Dies ist spekulativ. "
+    "contextDisclaimer": "Dieses Begleitmaterial bietet kontextuelles und vergleichendes Studienmaterial. Es definiert die Hauptübersetzung weder um noch erweitert oder steuert sie. Alle Einträge sind nach Typ und Sicherheitsgrad gekennzeichnet."
   },
   "prophecy": {
-    "title": "Prophetien",
     "disclaimer": "Prophetie-Einträge präsentieren, was der Text sagt, wie Traditionen ihn lesen und die wissenschaftliche Bewertung der Erfüllung. Der Leser zieht Schlüsse; der Eintrag nicht.",
     "fulfillment": {
       "fulfilled": "Erfüllt",
@@ -127,10 +114,7 @@
     "fields": {
       "textSays": "Was der Text sagt",
       "context": "Kontext",
-      "subject": "Gegenstand",
-      "readings": "Traditionelle Lesarten",
-      "status": "Erfüllungsstatus",
-      "scholarlyNote": "Wissenschaftliche Anmerkung"
+      "readings": "Traditionelle Lesarten"
     }
   },
   "people": {
@@ -178,7 +162,8 @@
       "genesis": "In Genesis",
       "matthew": "In Matthäus",
       "john": "In Johannes"
-    }
+    },
+    "provisional": "Vorläufig"
   },
   "introduction": {
     "title": "Bucheinführung",
@@ -212,8 +197,11 @@
     "diff4title": "Man sieht die Nähte",
     "diff4": "Jedes kursiv gesetzte Wort wurde hinzugefügt, damit Deutsch funktioniert. Es steht nicht im Hebräischen. Man weiß immer, was Original ist und was Gerüst.",
     "howTitle": "Drei Arten zu lesen",
-    "howReading": "Lesung — Die ganze Geschichte als fließende Prosa auf einer sauberen Seite. Keine Fußnoten, keine Unterbrechungen. Nur Sie und der Text.",
-    "howStudy": "Studie — Das Hebräische hinter jedem Wort, wo wir Entscheidungen getroffen haben und warum. Vers für Vers, farbkodiert.",
+    "doorRead": "Lesung",
+    "doorStudy": "Studie",
+    "doorDeeper": "Vertiefen",
+    "howReading": "Die ganze Geschichte als fließende Prosa auf einer sauberen Seite. Keine Fußnoten, keine Unterbrechungen. Nur Sie und der Text.",
+    "howStudy": "Das Hebräische hinter jedem Wort, wo wir Entscheidungen getroffen haben und warum. Vers für Vers, farbkodiert.",
     "whoTitle": "Für wen ist das?",
     "who1": "Du glaubst — und willst dem Text begegnen, wie er wirklich geschrieben wurde, bevor Jahrhunderte der Übersetzung ihn glätteten.",
     "who2": "Du zweifelst oder gehst einen ganz anderen Weg — und lässt dich überraschen, was die Urtexte wirklich sagen.",
@@ -224,6 +212,9 @@
     "rulesPageTitle": "Die 29 Regeln",
     "rulesPageSubtitle": "Das Governance-System hinter der Transparenten Übersetzung.",
     "rulesIntro": "Jede Übersetzung trifft Entscheidungen. Die meisten verbergen sie. Wir haben unsere aufgeschrieben.",
+    "rulesHeroKicker": "Governance · Regelwerk v3.3",
+    "rulesExamplesH2": "Einige, konkret gemacht",
+    "rulesAllKick": "Der vollständige Satz",
     "rulesPrime": "Die Hauptdirektive",
     "rulesPrimeDesc": "Wenn eine Regel mit diesen vier Prinzipien kollidiert, gewinnen die Prinzipien.",
     "rulesPrime1": "Wenn der Originaltext komplex ist, behalten wir ihn komplex.",
@@ -297,11 +288,16 @@
     "rule28short": "Kein Vers wird ohne dokumentierte Überprüfung veröffentlicht.",
     "rule29name": "Kontextuelle Anreicherung",
     "rule29short": "Begleitmaterial in separaten Dateien, nach Typ und Konfidenz gekennzeichnet.",
-    "howDeeper": "Die tiefere Ebene — historischer und sprachlicher Hintergrund, prophetische Lesarten und die Menschen hinter dem Text, jeweils nach Aussagetyp und Sicherheit gekennzeichnet.",
+    "howDeeper": "Historischer und sprachlicher Hintergrund, prophetische Lesarten und die Menschen hinter dem Text, jeweils nach Aussagetyp und Sicherheit gekennzeichnet.",
     "heroHeadline": "Lies die Urtexte hinter zweitausend Jahren Kultur.",
     "heroSub": "Die Quelltexte, ehrlich gezeigt — jede Übersetzungsentscheidung sichtbar.",
     "heroSupport": "Für Gläubige, Skeptiker und einfach Neugierige — der Text ohne Filter.",
-    "ctaStartHere": "Neu hier? Fang hier an"
+    "ctaStartHere": "Neu hier? Fang hier an",
+    "heroVerse": "Und Gott schied das *Licht* von der *Finsternis*.",
+    "differenceKicker": "Der Unterschied",
+    "howKicker": "Wie es funktioniert",
+    "threeReaders": "Drei Leser",
+    "scopeHeadline": "Jede Übersetzung trifft Entscheidungen. Die meisten verbergen sie."
   },
   "start": {
     "title": "Hier anfangen",
@@ -311,6 +307,9 @@
     "availableNow": "Jetzt verfügbar",
     "comingSoon": "Demnächst",
     "interleaveNote": "Lies je eines davon nebeneinander, bis die Psalmen abgeschlossen sind.",
+    "heroKicker": "Ein Leseplan",
+    "pathKick": "Der Weg — sieben Schritte",
+    "beginCta": "Beginne mit Genesis 1",
     "step1title": "Psalmen",
     "step1desc": "Die Seele — rohes menschliches Empfinden, nach oben gerichtet.",
     "step2title": "Sprüche",

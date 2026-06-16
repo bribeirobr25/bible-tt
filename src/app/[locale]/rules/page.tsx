@@ -6,16 +6,14 @@ import {
   seoMetadata,
   truncateDescription,
 } from "@/lib/seo";
-import { Link } from "@/ui/navigation/locale-link";
+import { MarketingHero } from "@/ui/marketing/marketing-hero";
 import { JsonLd } from "@/ui/shared/json-ld";
+import { renderInlineSafe } from "@/ui/shared/render-markdown-safe";
 
-const RULES_WITH_EXAMPLES = [
-  { ruleKey: "rule1", ruleNum: 1 },
-  { ruleKey: "rule2", ruleNum: 2 },
-  { ruleKey: "rule3", ruleNum: 3 },
-  { ruleKey: "rule11", ruleNum: 11 },
-  { ruleKey: "rule25", ruleNum: 25 },
-] as const;
+const PRIME = ["rulesPrime1", "rulesPrime2", "rulesPrime3", "rulesPrime4"];
+const ROMAN = ["i", "ii", "iii", "iv"];
+const EXAMPLES = [1, 2, 3, 11, 25] as const;
+const ALL_RULE_NUMS = Array.from({ length: 29 }, (_, i) => i + 1);
 
 export async function generateMetadata({
   params,
@@ -28,7 +26,7 @@ export async function generateMetadata({
     locale,
     path: "rules",
     title: t("landing.rulesPageTitle"),
-    description: truncateDescription(t("landing.rulesPageSubtitle")),
+    description: truncateDescription(t("landing.rulesIntro")),
   });
 }
 
@@ -42,7 +40,7 @@ export default async function RulesPage({
   const t = await getTranslations();
 
   return (
-    <main className="min-h-screen px-6 py-16 md:py-24">
+    <main>
       <JsonLd
         data={breadcrumbJsonLd([
           { name: t("site.title"), url: canonicalUrl(locale, "") },
@@ -52,114 +50,106 @@ export default async function RulesPage({
           },
         ])}
       />
-      <div className="max-w-2xl mx-auto">
-        {/* Header */}
-        <header className="mb-16 text-center">
-          <h1 className="font-[family-name:var(--font-reading)] text-3xl md:text-5xl font-light tracking-tight">
-            {t("landing.rulesPageTitle")}
-          </h1>
-          <p className="mt-4 text-text-secondary text-lg">
-            {t("landing.rulesPageSubtitle")}
-          </p>
-          <p className="mt-6 text-text-primary text-base leading-relaxed max-w-lg mx-auto">
-            {t("landing.rulesIntro")}
-          </p>
-        </header>
 
-        {/* Prime Directive */}
-        <section className="mb-16 p-6 md:p-8 border border-border rounded-lg bg-bg-surface">
-          <h2 className="font-[family-name:var(--font-reading)] text-xl md:text-2xl font-light mb-2">
-            {t("landing.rulesPrime")}
-          </h2>
-          <p className="text-sm text-text-muted mb-6">
+      <MarketingHero
+        kicker={t("landing.rulesHeroKicker")}
+        title={`${t("landing.rulesPageTitle")}.`}
+        tagline={t("landing.rulesIntro")}
+        titleMaxCh={14}
+        taglineMaxCh={42}
+      />
+
+      {/* PRIME DIRECTIVE */}
+      <section className="tt-section bg-cream2">
+        <div className="max-w-[1320px] mx-auto px-[clamp(18px,4vw,52px)]">
+          <p className="tt-kick reveal">{t("landing.rulesPrime")}</p>
+          <h2 className="tt-h1 reveal max-w-[18ch] mb-[14px]" data-d="1">
             {t("landing.rulesPrimeDesc")}
-          </p>
-          <ol className="space-y-4">
-            {([1, 2, 3, 4] as const).map((n) => (
-              <li key={n} className="flex gap-3 items-start">
-                <span className="text-accent font-bold text-sm mt-0.5">
-                  {n}.
-                </span>
-                <p className="font-[family-name:var(--font-reading)] text-base leading-relaxed text-text-primary">
-                  {t(`landing.rulesPrime${n}`)}
-                </p>
-              </li>
-            ))}
-          </ol>
-        </section>
-
-        {/* Rules in action */}
-        <section className="mb-16">
-          <h2 className="font-[family-name:var(--font-reading)] text-xl md:text-2xl font-light mb-10 text-center">
-            {t("landing.rulesExamplesTitle")}
           </h2>
-          <div className="space-y-8">
-            {RULES_WITH_EXAMPLES.map(({ ruleKey, ruleNum }) => (
+          <div className="tt-prime">
+            {PRIME.map((k, i) => (
               <div
-                key={ruleKey}
-                className="border-l-3 border-accent pl-5 space-y-2"
+                key={k}
+                className="tt-pd reveal"
+                data-d={i % 2 === 1 ? "1" : undefined}
               >
-                <div className="flex items-baseline gap-2">
-                  <span className="text-xs font-bold text-text-muted uppercase tracking-wider">
-                    {t("landing.rulePrefix", { n: ruleNum })}
-                  </span>
-                  <h3 className="text-sm font-semibold text-text-primary">
-                    {t(`landing.${ruleKey}name`)}
-                  </h3>
-                </div>
-                <p className="text-sm text-text-secondary leading-relaxed">
-                  {t(`landing.${ruleKey}short`)}
-                </p>
-                <div className="mt-2 px-3 py-2 bg-bg-muted rounded text-sm font-[family-name:var(--font-mono)] text-text-primary leading-relaxed">
-                  {t(`landing.${ruleKey}example`)}
-                </div>
+                <span className="pn">{ROMAN[i]}</span>
+                <p
+                  dangerouslySetInnerHTML={{
+                    __html: renderInlineSafe(t(`landing.${k}`)),
+                  }}
+                />
               </div>
             ))}
           </div>
-        </section>
+        </div>
+      </section>
 
-        {/* Full 29 rules list */}
-        <section className="mb-16">
-          <h2 className="font-[family-name:var(--font-reading)] text-xl md:text-2xl font-light mb-6 text-center">
-            {t("landing.rulesAllTitle")}
-          </h2>
-          <div className="grid gap-3">
-            {ALL_RULE_NUMS.map((num) => (
+      {/* RULES IN ACTION */}
+      <section className="tt-section">
+        <div className="max-w-[1320px] mx-auto px-[clamp(18px,4vw,52px)]">
+          <div className="tt-grid-head">
+            <div className="tt-bignum reveal">/</div>
+            <div>
+              <p className="tt-kick reveal">
+                {t("landing.rulesExamplesTitle")}
+              </p>
+              <h2 className="tt-h1 reveal" data-d="1">
+                {t("landing.rulesExamplesH2")}
+              </h2>
+            </div>
+          </div>
+          <div className="tt-examples">
+            {EXAMPLES.map((n, i) => (
               <div
-                key={num}
-                className="flex items-start gap-3 py-2 border-b border-border-muted last:border-0"
+                key={n}
+                className="tt-ex reveal"
+                data-d={i % 2 === 1 ? "1" : undefined}
               >
-                <span className="text-xs font-bold text-text-muted min-w-[2rem] text-right mt-0.5">
-                  {num}
-                </span>
+                <div className="exn">
+                  {t("landing.rulePrefix", { n })} · {t(`landing.rule${n}name`)}
+                </div>
+                <p
+                  dangerouslySetInnerHTML={{
+                    __html: renderInlineSafe(t(`landing.rule${n}example`)),
+                  }}
+                />
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* ALL 29 — dark */}
+      <section className="tt-section bg-dark">
+        <div className="max-w-[1320px] mx-auto px-[clamp(18px,4vw,52px)]">
+          <div className="tt-grid-head">
+            <div
+              className="tt-bignum reveal"
+              style={{ color: "var(--color-petrol)" }}
+            >
+              29
+            </div>
+            <div>
+              <p className="tt-kick reveal">{t("landing.rulesAllKick")}</p>
+              <h2 className="tt-h1 reveal text-on-dark" data-d="1">
+                {t("landing.rulesAllTitle")}
+              </h2>
+            </div>
+          </div>
+          <div className="tt-rules-grid">
+            {ALL_RULE_NUMS.map((n) => (
+              <div key={n} className="tt-rule reveal">
+                <div className="rnum">{String(n).padStart(2, "0")}</div>
                 <div>
-                  <p className="text-sm font-medium text-text-primary">
-                    {t(`landing.rule${num}name`)}
-                  </p>
-                  <p className="text-xs text-text-secondary mt-0.5">
-                    {t(`landing.rule${num}short`)}
-                  </p>
+                  <div className="rname">{t(`landing.rule${n}name`)}</div>
+                  <div className="rshort">{t(`landing.rule${n}short`)}</div>
                 </div>
               </div>
             ))}
           </div>
-        </section>
-
-        {/* CTA */}
-        <section className="text-center py-10 border-t border-border-muted">
-          <Link
-            href="/books"
-            className="inline-block px-10 py-4 rounded-md bg-accent text-bg-paper font-medium hover:bg-accent-hover transition-colors duration-200"
-          >
-            {t("landing.cta")}
-          </Link>
-        </section>
-      </div>
+        </div>
+      </section>
     </main>
   );
 }
-
-const ALL_RULE_NUMS = [
-  1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22,
-  23, 24, 25, 26, 27, 28, 29,
-] as const;

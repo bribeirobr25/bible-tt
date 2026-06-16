@@ -1,0 +1,42 @@
+[
+ {
+  "ctx": "genesis/en/intro",
+  "label": "intro body F2",
+  "emitted": "<p><strong>Genesis 1:1–3 — Three readings:</strong> The opening of Genesis admits at least three syntactically viable readings:</p><p>1. <strong>Independent sen"
+ },
+ {
+  "ctx": "genesis/en/deeper-2",
+  "label": "sub body I-A3",
+  "emitted": "<p>In Late Bronze Age Canaan and Egypt, marriage was a family-to-family economic transaction. Betrothal contracts specified bride-price (<em>mohar</em>) and dow"
+ },
+ {
+  "ctx": "genesis/pt-br/intro",
+  "label": "intro body F2",
+  "emitted": "<p><strong>Gênesis 1:1–3 — Três leituras:</strong> A abertura de Gênesis admite pelo menos três leituras sintaticamente viáveis:</p><p>1. <strong>Sentença indep"
+ },
+ {
+  "ctx": "genesis/pt-br/deeper-2",
+  "label": "sub body I-A3",
+  "emitted": "<p>Em Canaã e no Egito na Idade do Bronze Tardio, o casamento era uma transação econômica entre famílias. Contratos de noivado especificavam o preço da noiva (<"
+ },
+ {
+  "ctx": "genesis/de/intro",
+  "label": "intro body F2",
+  "emitted": "<p><strong>Genesis 1,1–3 — Drei Lesarten:</strong> Der Beginn der Genesis lässt mindestens drei syntaktisch mögliche Lesarten zu:</p><p>1. <strong>Unabhängiger "
+ },
+ {
+  "ctx": "genesis/de/deeper-2",
+  "label": "sub body I-A3",
+  "emitted": "<p>In der spätbronzezeitlichen Kanaan und Ägypten war die Ehe eine wirtschaftliche Transaktion zwischen Familien. Verlobungsverträge regelten Brautpreis (<em>mo"
+ },
+ {
+  "ctx": "genesis/es/intro",
+  "label": "intro body F2",
+  "emitted": "<p><strong>Génesis 1:1–3 — Tres lecturas:</strong> La apertura de Génesis admite al menos tres lecturas sintácticamente viables:</p><p>1. <strong>Oración indepe"
+ },
+ {
+  "ctx": "genesis/es/deeper-2",
+  "label": "sub body I-A3",
+  "emitted": "<p>En el Canaán y Egipto del Bronce Tardío, el matrimonio era ante todo una transacción económica entre familias. Los contratos de desposorio especificaban el p"
+ }
+]

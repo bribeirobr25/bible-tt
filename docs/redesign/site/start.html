@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<title>Start here — The Transparent Translation</title>
+<meta name="description" content="New to these texts? The gentlest way in — a reading path that starts with the heart and ends at the beginning." />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Geist:wght@300;400;500;600;700&family=Geist+Mono:wght@400;500;600&family=Newsreader:ital,opsz,wght@0,6..72,200..700;1,6..72,300..600&display=swap" rel="stylesheet" />
+<link rel="stylesheet" href="assets/tt.css" />
+</head>
+<body>
+  <header class="site-header over-hero">
+    <a class="brand" href="index.html"><span class="mark"></span> Transparent Translation</a>
+    <button class="menu-btn" aria-label="Menu" aria-expanded="false"><span></span></button>
+    <nav>
+      <a href="books.html">Books</a>
+      <a href="start.html" aria-current="page">Start here</a>
+      <a href="rules.html">How we translate</a>
+      <a class="nav-cta" href="genesis/chapter-1.html">Start reading →</a>
+    </nav>
+  </header>
+
+  <!-- HERO band -->
+  <section style="position:relative;min-height:64svh;display:flex;align-items:flex-end;overflow:hidden;padding-bottom:clamp(40px,7vh,80px)">
+    <canvas id="gl" data-scroll="1" style="position:absolute;inset:0;width:100%;height:100%"></canvas>
+    <div class="wrap" style="position:relative;z-index:2;mix-blend-mode:difference;color:#fff">
+      <p class="mono" style="font-size:12px;letter-spacing:.2em;text-transform:uppercase;margin-bottom:18px">A reading plan</p>
+      <h1 class="h-display" style="max-width:12ch">Start here.</h1>
+      <p class="serif" style="font-style:italic;font-size:clamp(1.1rem,2vw,1.5rem);max-width:40ch;margin-top:18px">New to these texts? This is the gentlest way in — a path that starts with the heart and ends at the beginning.</p>
+    </div>
+  </section>
+
+  <!-- WHY -->
+  <section class="section">
+    <div class="wrap">
+      <div class="grid-head">
+        <div class="bignum reveal">/</div>
+        <div>
+          <p class="kick reveal">Why this order?</p>
+          <h2 class="h2 reveal" data-d="1" style="max-width:20ch">Most people open to page one and give up by chapter twenty.</h2>
+        </div>
+      </div>
+      <p class="lead reveal" data-d="1" style="max-width:62ch;margin-top:30px;margin-left:auto">So don’t start there. Begin with the Psalms — raw human feeling. Then Proverbs for how to live, and Ecclesiastes for what it all means; read a little of each side by side. Then meet the figure who reframed everything in the Gospels, follow the movement he left behind, and end with its vision of how the story closes. Only then go back to Genesis — the beginning — and read how it all started.</p>
+    </div>
+  </section>
+
+  <!-- ROADMAP -->
+  <section class="section bg-dark">
+    <div class="wrap">
+      <p class="kick reveal" style="color:var(--accent)">The path — seven steps</p>
+      <div class="roadmap">
+
+        <div class="step reveal"><div class="sn mono">01</div><div class="sc"><div class="st serif">Psalms</div><p>The soul — raw human feeling, addressed upward.</p><span class="badge soon">Coming soon</span></div></div>
+        <div class="step reveal"><div class="sn mono">02</div><div class="sc"><div class="st serif">Proverbs</div><p>How to live — wisdom in short, sharp lines.</p><span class="badge soon">Coming soon</span></div></div>
+        <div class="step reveal"><div class="sn mono">03</div><div class="sc"><div class="st serif">Ecclesiastes</div><p>What it all means — an honest look at limits and meaning.</p><span class="badge soon">Coming soon</span></div></div>
+        <p class="interleave reveal mono">↳ Read one of each, side by side, until the Psalms are done.</p>
+        <div class="step reveal"><div class="sn mono">04</div><div class="sc"><div class="st serif">The Gospels</div><p>Meet the figure who reframed everything.</p><a class="badge now" href="books.html">Available now →</a></div></div>
+        <div class="step reveal"><div class="sn mono">05</div><div class="sc"><div class="st serif">The rest of the New Testament</div><p>The movement that formed in his wake.</p><span class="badge soon">Coming soon</span></div></div>
+        <div class="step reveal"><div class="sn mono">06</div><div class="sc"><div class="st serif">Revelation</div><p>How the story closes — vision, symbol, ending.</p><span class="badge soon">Coming soon</span></div></div>
+        <div class="step reveal final"><div class="sn mono">07</div><div class="sc"><div class="st serif">Genesis &amp; the Torah</div><p>Now go back to the beginning and read how it all started.</p><a class="badge now" href="genesis/index.html">Available now →</a></div></div>
+
+      </div>
+      <div class="reveal" style="margin-top:48px"><a class="btn btn-pri" href="genesis/chapter-1.html">Begin with Genesis 1 <span class="arr">→</span></a></div>
+    </div>
+  </section>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <div class="cols">
+        <div><p class="brand-blurb serif">A translation with nothing hidden.</p></div>
+        <div><h4>Read</h4><a href="genesis/index.html">Genesis</a><a href="books.html">All books</a><a href="start.html">Start here</a></div>
+        <div><h4>Method</h4><a href="rules.html">The 29 rules</a><a href="genesis/introduction.html">Book introductions</a><a href="genesis/people.html">People &amp; genealogy</a></div>
+      </div>
+      <div class="legal"><span>© The Transparent Translation · EN · PT · DE · ES</span><span class="badge">Redesign · Light &amp; Darkness</span></div>
+    </div>
+  </footer>
+
+  <style>
+    .roadmap{margin-top:40px;border-top:1px solid var(--line-cream)}
+    .step{display:grid;grid-template-columns:64px 1fr;gap:18px;padding:30px 0;border-bottom:1px solid var(--line-cream);align-items:start}
+    .step .sn{font-size:clamp(1.6rem,3vw,2.4rem);font-weight:600;color:var(--accent);line-height:1}
+    .step.final .sn{color:var(--ochre)}
+    .step .st{font-size:clamp(1.4rem,3vw,2.1rem);color:var(--cream-2);margin-bottom:8px}
+    .step .sc p{color:var(--on-dark-soft);max-width:52ch;margin-bottom:14px}
+    .badge{display:inline-flex;align-items:center;font-family:"Geist Mono",monospace;font-size:11px;letter-spacing:.06em;text-transform:uppercase;padding:6px 12px;border-radius:999px}
+    .badge.soon{color:var(--on-dark-mute);border:1px solid var(--line-cream)}
+    .badge.now{color:var(--dark);background:var(--ochre)}
+    .badge.now:hover{background:#d99c4f}
+    .interleave{color:var(--ochre);font-size:13px;letter-spacing:.04em;padding:14px 0 14px 64px;border-bottom:1px solid var(--line-cream)}
+    @media(max-width:600px){.step{grid-template-columns:48px 1fr;gap:14px}.interleave{padding-left:0}}
+  </style>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+  <script src="assets/tt.js"></script>
+</body>
+</html>

@@ -4,11 +4,12 @@ import { SITE_NAME } from "@/lib/seo";
 export const OG_SIZE = { width: 1200, height: 630 };
 export const OG_CONTENT_TYPE = "image/png";
 
-// Hex approximations of the OKLCH design tokens (satori has no oklch support).
-const PAPER = "#F5F1E8"; // --color-bg-paper
-const INK = "#2A2620"; // --color-text-primary
-const SECONDARY = "#5C554B"; // --color-text-secondary
-const ACCENT = "#1F6A7D"; // --color-accent (Phase 5: deep teal/petrol)
+// Hex mirrors of the OKLCH design tokens (satori has no oklch support — keep in
+// lockstep with globals.css; re-derived for the Light & Darkness palette).
+const PAPER = "#ece0c6"; // --color-bg-paper (cream)
+const INK = "#0d1a1c"; // --color-text-primary (ink)
+const SECONDARY = "#3c4a4a"; // --color-text-secondary (ink-soft)
+const ACCENT = "#006475"; // --color-accent (deep petrol; supersedes P5-Q1 #1F6A7D)
 
 function clamp(text: string, max: number): string {
   const t = text.replace(/\s+/g, " ").trim();

@@ -1,50 +1,30 @@
-import type { LucideIcon } from "lucide-react";
-import { AlertCircle, BookOpen, Code2, Lightbulb } from "lucide-react";
 import type { Note, NoteType } from "@/domain/content/types";
 import { renderMarkdownSafe } from "@/ui/shared/render-markdown-safe";
 
-const NOTE_STYLES: Record<
-  NoteType,
-  { border: string; bg: string; Icon: LucideIcon }
-> = {
-  CRITICAL: {
-    border: "border-l-note-critical",
-    bg: "bg-note-critical-bg",
-    Icon: AlertCircle,
-  },
-  LEXICAL: {
-    border: "border-l-note-lexical",
-    bg: "bg-note-lexical-bg",
-    Icon: BookOpen,
-  },
-  GRAMMATICAL: {
-    border: "border-l-note-grammatical",
-    bg: "bg-note-grammatical-bg",
-    Icon: Code2,
-  },
-  THEOLOGICAL: {
-    border: "border-l-note-theological",
-    bg: "bg-note-theological-bg",
-    Icon: Lightbulb,
-  },
+// Uniform cream surface + colored left border / label / dot per note type
+// (prototype `.note`); no icon.
+const TYPE: Record<NoteType, { cls: string; dot: string }> = {
+  CRITICAL: { cls: "critical", dot: "var(--color-note-critical)" },
+  LEXICAL: { cls: "lexical", dot: "var(--color-note-lexical)" },
+  GRAMMATICAL: { cls: "grammatical", dot: "var(--color-note-grammatical)" },
+  THEOLOGICAL: { cls: "theological", dot: "var(--color-note-theological)" },
 };
 
 export function NoteBlock({ note }: { note: Note }) {
-  const style = NOTE_STYLES[note.type];
-  const { Icon } = style;
+  const ty = TYPE[note.type];
 
   return (
-    <div
-      className={`border-l-3 ${style.border} ${style.bg} rounded-r-md px-4 py-3`}
-    >
-      <div className="flex items-center gap-2 mb-1.5">
-        <Icon className="w-3.5 h-3.5 opacity-70" strokeWidth={1.5} />
-        <span className="text-xs font-semibold uppercase tracking-wider text-text-secondary">
-          {note.title}
-        </span>
+    <div className={`tt-note ${ty.cls}`}>
+      <div className="nlab">
+        <span
+          className="dot"
+          style={{ background: ty.dot }}
+          aria-hidden="true"
+        />
+        {note.title}
       </div>
       <div
-        className="text-sm leading-relaxed text-text-primary"
+        className="ntext [&_em]:italic"
         dangerouslySetInnerHTML={{
           __html: renderMarkdownSafe(note.content, "note"),
         }}

@@ -88,34 +88,48 @@
 
 ## 5. Color System
 
-All OKLCH tokens in `src/app/globals.css`. **Hardcoded hex forbidden.**
+All OKLCH tokens in `src/app/globals.css`. **Hardcoded hex forbidden** (one sanctioned exception:
+`src/lib/og.tsx`, satori has no OKLCH — keep its 4 hex mirrors in lockstep with the tokens).
 
-### Base palette
+> **Light & Darkness migration (in progress, 2026-06-14):** the palette below was retuned to the
+> approved "Light & Darkness" duotone (cream surfaces + deep-petrol ink). See
+> `docs/audit/REDESIGN_MIGRATION_PLAN.md`. Design-rule exceptions deliberately adopted (dark
+> surfaces, gradient `seam`, 800ms reveals) are logged in §12 / the editorial log.
+
+### Base palette (Light & Darkness)
 | Token | Value | Use |
 |-------|-------|-----|
-| `--color-bg-paper` | `oklch(0.97 0.01 85)` | Warm off-white paper |
-| `--color-bg-surface` | `oklch(0.99 0.005 85)` | Cards/surfaces |
-| `--color-bg-muted` | `oklch(0.94 0.01 85)` | Toggle tracks, details |
-| `--color-text-primary` | `oklch(0.23 0.02 50)` | Body text (deepened, Phase 5) |
-| `--color-text-secondary` | `oklch(0.43 0.02 50)` | Metadata |
-| `--color-text-muted` | `oklch(0.58 0.01 50)` | Placeholders |
-| `--color-accent` | `oklch(0.46 0.1 213)` | Deep teal/petrol — links, active door, wordmark, CTAs (Phase 5, P5-Q1) |
-| `--color-accent-hover` | `oklch(0.4 0.1 213)` | Accent hover/pressed |
+| `--color-bg-paper` | `oklch(0.909 0.037 86)` | Cream page surface (#ece0c6) |
+| `--color-bg-surface` | `oklch(0.942 0.029 87)` | Lighter cream — cards/surfaces |
+| `--color-bg-muted` | `oklch(0.879 0.040 86)` | Cream-3 — tracks, details |
+| `--color-text-primary` | `oklch(0.207 0.019 208)` | Ink body text (13.6:1 on cream) |
+| `--color-text-secondary` | `oklch(0.397 0.018 197)` | Ink-soft metadata (7.1:1) |
+| `--color-text-muted` | `oklch(0.572 0.015 179)` | Ink-mute (3.4:1 — large/UI only) |
+| `--color-accent` | `oklch(0.463 0.082 214)` | **Deep petrol #006475 — links, active door, CTAs. SUPERSEDES P5-Q1; AA 5.2:1 on cream** |
+| `--color-accent-hover` | `oklch(0.393 0.069 215)` | Accent hover/pressed (#004f5d) |
+| `--color-petrol` | `oklch(0.565 0.098 214)` | Brighter petrol #0a8499 (large/UI only) |
+| `--color-ochre` / `-soft` | `oklch(0.682 0.122 69)` / `oklch(0.753 0.111 74)` | Ochre accents (#c98a3a) |
+| `--color-dark` / `-2` / `-3` | `oklch(0.234…/0.279…/0.323 … 211)` | Dark duotone sections / hero |
+| `--color-on-dark` / `-soft` / `-mute` | `oklch(0.909…/0.772…/0.640 …)` | Text on dark (12.7 / 8.1 / 5.0 : 1) |
+| `--color-border` / `-muted` | `oklch(0.83 0.012 200)` / `oklch(0.88 0.010 90)` | Borders |
 
-### Note type colors
-| Type | Icon | Border | Background |
+### Note type colors (retuned hues)
+| Type | Icon | Token hue | Background |
 |------|------|--------|------------|
-| Critical | `AlertCircle` | deep crimson | light crimson tint |
-| Lexical | `BookOpen` | forest green | light green tint |
-| Grammatical | `Code2` | slate blue | light blue tint |
-| Theological | `Lightbulb` | warm amber | light amber tint |
+| Critical | `AlertCircle` | `oklch(0.522 0.134 35)` rust | light tint |
+| Lexical | `BookOpen` | `oklch(0.535 0.098 150)` green | light tint |
+| Grammatical | `Code2` | `oklch(0.502 0.069 236)` slate blue | light tint |
+| Theological | `Lightbulb` | `oklch(0.643 0.110 80)` amber | light tint |
 
 ### Rules
-- Never pure black/white — use tokens
-- Never gradients, neon, or AI glow
-- Never color-only status — always icon + text + color
-- `::selection` in accent color
-- Dark mode: future via OKLCH lightness flip
+- OKLCH tokens only — **hardcoded hex forbidden** (sole exception: `og.tsx` satori mirrors).
+- Pure black/white still banned; the **near-black dark duotone surface is a logged exception** (§12),
+  contrast-verified (on-dark text ≥5:1).
+- Gradients/neon/AI-glow still banned; the **light↔dark `seam` bar + WebGL hero glow are logged
+  exceptions** (§12).
+- Never color-only status — always icon + text + color.
+- `::selection` in ochre on dark.
+- Dark mode: now a real dark-section strategy (`.bg-dark`), not just a future flip.
 
 ---
 
@@ -303,6 +317,24 @@ role="tablist" + bg-bg-muted rounded-lg p-1
 - Contrast below 4.5:1 for text
 - Non-keyboard-reachable elements
 - Apologetics or debunking framing in the UI
+
+### Sanctioned exceptions — "Light & Darkness" migration (2026-06-14, lead sign-off)
+Adopted deliberately from the approved prototype (`docs/audit/REDESIGN_MIGRATION_PLAN.md` §6); each
+overrides a NEVER rule above and is allowed **only** in the stated scope:
+- **WebGL shader glow + `.tt-seam` gradient bar** (overrides "no gradient/glow"). Scope: landing hero
+  (`separation-hero.tsx`, the Gen 1:4 separation field) + the slim seam under chapter/section heads.
+  Mitigation: `prefers-reduced-motion` → single static frame; no-WebGL → CSS dark fallback; gated.
+- **Near-black dark duotone surface `--color-dark` #062227 + on-dark text** (overrides "no pure
+  black/white"). Not pure black; on-dark text verified ≥5:1 (cream 12.7 / soft 8.1 / mute 5.0).
+- **800ms scroll reveals** (overrides "≤400ms"). Scope: marketing `.reveal` fade-ins only; fully
+  disabled under `prefers-reduced-motion`.
+- **`mix-blend-difference` hero headline** (white). Contrast-preserving by construction (white XOR
+  any background yields a contrasting result); legible across the light/dark seam. Reading surfaces
+  are unaffected — they stay calm/editorial (the §1 "not a marketing page" identity holds there).
+- **`og.tsx` hardcoded hex** (overrides "OKLCH only") — satori has no OKLCH; the 4 mirrors
+  (paper/ink/secondary/accent) are kept in lockstep with the tokens.
+Still fully enforced everywhere else: OKLCH tokens, 14px-prose/12px-mono floor, Lucide 1.5px,
+44×44 targets, focus rings, reduced-motion.
 
 ### VERIFY PRESENT
 - [x] Warm off-white background

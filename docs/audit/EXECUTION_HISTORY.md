@@ -11,6 +11,173 @@ in `docs/audit/PENDING.md`.
 
 ---
 
+## Redesign migration ("Light & Darkness") — branch `redesign-migration`
+
+Adopting the approved prototype's UI/UX into the production app, presentation-only, per
+`docs/audit/REDESIGN_MIGRATION_PLAN.md` (+ incorporated audit `AUDIT_REDESIGN_MIGRATION_PLAN.md`).
+Each phase ends green (test · build · lint · content:lint) + per-locale visual check.
+
+- **P0 — Foundations (2026-06-14, done).** Retuned `globals.css` semantic tokens to the duotone palette
+  (cream surfaces + ink text) as OKLCH; added petrol/ochre/dark/on-dark tokens, fluid type scale,
+  swiss-grid + `.tt-kick`/`.tt-grid-head`, `.bg-dark`/`.tt-seam`, and the JS-gated `.reveal` system
+  (`src/ui/shared/reveal-observer.tsx`, mounted in `[locale]/layout.tsx`, reduced-motion safe).
+  **Accent retuned to #006475 — supersedes P5-Q1**, AA re-verified 5.2:1 on cream; hue 214 distinct
+  from note hues. Re-derived all 4 `og.tsx` hex mirrors. Invariants held: zero changes to
+  `content/**`, parsers, domain, content-loader, i18n wiring, routes, `next.config.ts`. Gate green
+  (841 tests · 284 pages · lint · content:lint); landing + chapter verified in-browser (new palette,
+  no console errors). New utilities are inert until applied in later phases.
+- **P1 — Chrome (2026-06-14, done).** Restyled the chrome to the prototype's visual language:
+  `app-bar.tsx` (64px header, brand mark + Geist-Mono wordmark, mono breadcrumb, segmented
+  EN/PT/DE/ES switch with petrol-active), `door-nav.tsx` (bordered pills, petrol-active),
+  `chapter-nav.tsx` (mono pager), + new `site-footer.tsx` (brand blurb + Books/Rules/Start links +
+  legal line, localized from existing keys). Layout offset 48→64px + footer mounted; added `.tt-mark`.
+  Invariants held (only nav + layout + globals). Gate green (841 · 284 · lint); verified desktop +
+  mobile (390) + DE in-browser — header fits, wordmark collapses, labels localized, no console errors.
+- **P2 — Reading pages (2026-06-14, done).** Read/Notes/Deeper restyle: `chapter-shell.tsx` (serif
+  `tt-h2` title + mono status pill + `tt-seam` motif under the door-nav), `note-block.tsx` (note
+  title + icon now colored by note-type). Read/continuous-reading, verse-card (`#v{n}` anchors +
+  copy-link), glossary/supplementary, and Deeper (enrichment-entry dual-label chips, claim-badge,
+  context-view §I scenarios) already inherit the P0 palette — verified, no further change needed.
+  Invariants held (only chapter-shell + note-block). Gate green (841 · 284 · lint); Read/Notes/Deeper
+  verified in-browser (seam, status pill, colored notes, verse anchors, dual-label chips; no errors).
+- **P3 — Study/aux (2026-06-14, done).** `introduction-view.tsx`: confidence chip now colored by
+  level (mirrors `ClaimBadge` → dual-label unified across intro + Deeper). People (`people-timeline`
+  SVG already uses token CSS vars → auto-retuned; 24 person cards), Background (`book-context-view`),
+  Prophecy (`prophecy-view`), `confidence-indicator`, `context-view` §I scenarios — all confirmed
+  token-based, no hardcoded colors → on-palette with no further change. Invariants held (only
+  introduction-view). Gate green (841 · 284 · lint); people/intro/prophecy verified in-browser, no
+  console errors.
+- **P4 — Marketing + full WebGL hero (2026-06-14, done).** Added `three` dep + `src/ui/marketing/
+  separation-hero.tsx` (Gen 1:4 separation-field shader ported from the prototype; reduced-motion →
+  single static frame, no-WebGL → CSS dark fallback, full cleanup on unmount). Landing
+  (`[locale]/page.tsx`) rebuilt: dark hero with the WebGL canvas + `mix-blend-difference` headline,
+  ochre/outline CTAs, numbered `tt-kick` eyebrows, a dark duotone "How it works" section, `.reveal`
+  scroll-ins; removed the duplicate inline footer (global `SiteFooter` now owns it). books/start/rules
+  headers → `tt-h1`. **Logged design-rule exceptions in play** (shader glow, dark surface, 800ms
+  reveals; mix-blend headline contrast to be WCAG-verified in P5). Invariants held (pages + new
+  marketing component + three dep only; no content/parser/i18n-wiring/route changes). Gate green
+  (841 · 284 · lint); hero verified in-browser EN + PT (localized headline + shader render, no
+  console errors).
+- **P5 — Hardening (2026-06-14, done).** Logged the sanctioned design-rule exceptions in
+  `TT-DESIGN-SYSTEM.md` §12 (shader glow/seam, dark surface, 800ms reveals, mix-blend headline,
+  og.tsx hex). Verified: palette AA (P0 computed ratios) + on-dark text ≥5:1 + mix-blend headline
+  contrast-preserving by construction; **three.js isolated to a single lazy chunk** (landing only);
+  **OG image renders 200/png in the new palette** (4 hex mirrors re-derived); **40 pages (4 locales ×
+  10 surfaces) console-clean**; SEO intact (284 static pages incl. sitemap, no route/redirect/JSON-LD
+  changes). Full gate green (841 · 284 · lint · content:lint).
+- **P4-refine — Marketing pages to full prototype parity (2026-06-15).** User flagged the marketing
+  pages didn't match the prototype. Finding: the copy was already localized in `messages` (4 locales)
+  — the gap was layout/motion/effects. Rebuilt **landing** (Gen 1:4 verse hero + `mix-blend-difference`
+  over-hero header, intro-statement band, bignum grid-heads, bordered verse-compare + diff cards, dark
+  door cards, serif WHO list, cream-2/dark section rhythm), **rules** (cream Prime Directive → "rules in
+  action" → dark "All 29" with grid-heads), **start** (cream "why" → dark 7-step roadmap with
+  soon/now badges) — all reusing existing localized keys + 5 new landing keys (heroVerse,
+  differenceKicker, howKicker, threeReaders, scopeHeadline) added to all 4 locales. Ported the
+  prototype marketing CSS to `globals.css` (OKLCH). **Critical bug found & fixed: `.reveal.in`
+  (0,2,0) was out-specified by `html.tt-js .reveal` (0,2,1), so revealed content stayed `opacity:0`
+  site-wide** → corrected to `html.tt-js .reveal.in`; also replaced the IntersectionObserver with a
+  rAF scroll check + at-bottom catch so fast scrolls/anchor jumps never leave content hidden (verified
+  0 stuck reveals, all 4 locales, scrolled to true bottom). Bible content/parsers/loader/routes/
+  reading-study components untouched. Gate green (841 · 284 · lint · content:lint); landing/rules/start
+  verified in-browser EN+PT+DE+ES.
+- **Landing fidelity pass (2026-06-15).** User compared the local landing to the prototype and found
+  remaining gaps in nav, font, and copy. Verified + fixed: (1) **Font scale** — `tt-display` was
+  clamp(2.6,6vw,5.5rem) vs prototype's clamp(2.6,8vw,7rem); the hero rendered 77px instead of 102px.
+  Aligned `--text-display`→8vw/7rem and `--text-h1`→4.6vw to the prototype's `h-display`/`.h2` (same
+  families/weight all along — Newsreader 300 / Geist). (2) **Nav bar** — the top nav was missing the
+  prototype's links; added **Books · Start here · How we translate · Start reading →** to `app-bar.tsx`
+  (shown on marketing pages where there's no breadcrumb; breadcrumb retained on content pages) + a
+  Lucide mobile hamburger menu (over-hero header goes solid when open). (3) **Copy** — confirmed the
+  copy is already localized in `messages` (non-EN local == prototype non-EN); cleaned the door-card
+  descriptions' redundant lead-in ("Reading — Get the…" → "The full story…") across all 4 locales and
+  removed the duplicated headline prefix from EN `landing.scope`. Residual deltas are intentional
+  (app keeps American spelling vs prototype British; functional door titles Read/Notes/Deeper vs the
+  prototype's marketing Reading/Study). Gate green (841 · 284 · lint · content:lint); EN landing
+  re-diffed against the prototype — only typographic deltas remain. Bible content untouched.
+- **Content-accuracy verification (2026-06-15).** Two-layer proof that the migration changed no
+  scripture/study content in any locale: (1) **structural** — `git diff main..redesign-migration` for
+  `content/**`, all 5 parsers, `src/domain`, `content-loader`, and i18n is **empty** (data path
+  byte-identical to live; every verse/notes/deeper renderer unchanged — only `note-block`/`intro`
+  *colors* differ). (2) **empirical** — `tools/content_render_audit.py` fetched every Read + Notes
+  page from a prod build and checked against the raw source: **1,984 verse-mappings across 18 chapters
+  × 4 locales PASS** — each verse renders in its own `#v{n}` card, in the correct locale, verse counts
+  match source, full Continuous Reading present; **no loss, no mixing, no mis-reference.** Visually
+  spot-checked Genesis 1 Notes in EN/DE/ES (right verse, right place, right language, italics
+  preserved).
+- **Book pages + reading-detail colors pixel-match (2026-06-16).** Closed the remaining template
+  gaps. **Verse numbers** (Read) → brighter petrol (prototype `sup.vn` = `--accent`), not the deep
+  accent. **Notes** → verse cards rebuilt to the prototype `.verse`: petrol number + serif text +
+  bordered "Link" pill (`chapter.link/copied`); notes **always-visible** with uniform cream-2 background
+  + colored left border / dot / label per type (no icon). **Deeper** → enrichment cards uniform cream-2
+  + deep-accent left border + serif title → chips → body → source (`tt-enrich`); dashed tinted
+  `tt-disclaimer`; cream section disclosures; underline sub-tabs. **Book hub** (`/[book]`) rebuilt to
+  `index.html` — chapter-head (corpus ref) + at-a-glance `tt-glance` dl + deep/ghost CTAs + chapter grid
+  (`tt-chgrid`) + explore `tt-entrygrid`; new CSS + `nav.explore`/entry-desc keys (4 locales).
+  **Introduction + Background** → chapter-head + door pager + bodies restyled to `tt-disclaimer` + cream
+  `tt-details` sections of `tt-enrich` cards. **People** head → chapter-head (its profile-card internals
+  carried over from P3). New CSS: tt-verse/tt-note/tt-enrich/tt-disclaimer/tt-secintro/tt-glance/
+  tt-chgrid/tt-entry/tt-deeper-section. Validated book hub/intro/background in EN+PT+DE+ES + Read/Notes/
+  Deeper via Docker MCP. Content/parsers/loader untouched. Gate green (841 · build · lint · parity).
+- **Reading + people pages pixel-match — chapter/notes/deeper/people (2026-06-15).** Reworked the
+  content-page chrome + bodies to the prototype templates across all 4 locales. **Logo:** over-hero
+  header no longer whitens the mark's ochre slash (consistent icon everywhere). **Sub-heroes:**
+  MarketingHero centered (shrink-to-content `w-fit`, matching the prototype flex wrap) so rules/start/
+  books heroes sit centered. **AppBar:** shows the prototype top-nav on every page (Books · {book|Start
+  here} · How we translate · Start reading) — dropped the in-header breadcrumb (now lives in the page
+  head); contextual book-hub link on book pages. **ChapterShell:** rebuilt to the prototype chapter-head
+  (crumb · ref + serif title + short status pill w/ dot · segmented 3-door pill · gradient seam), overview
+  as a styled disclosure (Read only), optional door-aware pager slot; dropped the share button + metadata
+  panel (absent from template). **DoorNav:** single segmented pill (disabled Deeper when absent).
+  **Pagers:** prototype `.tt-pager` — Read → next chapter; Notes → ←Read | →Deeper; Deeper → ←Read |
+  →Background (`DoorPager`). **Reading:** superscript verse numbers colored (sup.verse-num teal).
+  **Notes body:** note-type legend chips → verse cards → glossary → supplementary (prototype order).
+  **Deeper:** underline sub-tabs (Background | Prophecies | People↗). **People:** chapter-head head
+  (crumb/ref/title/pill/seam) + wrap-width body (timeline + profiles). New CSS: tt-crumb/chapter-head/
+  title/ref/status-pill/doornav/pager/details/subtabs + seam gradient. New i18n: chapter.notesRef/
+  deeperRef, people.provisional (4 locales). Validated chapter/notes/deeper/people in EN+PT+DE+ES +
+  mobile via Docker-MCP (chrome translates, pagers, subtabs, no console errors). Bible **content/
+  parsers/loader untouched** — only presentation. Gate green (841 · build · lint · content:lint · parity).
+- **Marketing pages pixel-match — rules/start/books (2026-06-15).** Rebuilt the three marketing
+  pages to match their prototype templates (`docs/redesign/site/{rules,start,books}.html`) across all 4
+  locales. New shared `MarketingHero` (shorter WebGL separation-field sub-hero, bottom-aligned, blended
+  white kicker+display+italic-tagline); AppBar over-hero now covers landing **+ rules/start/books**
+  (threshold 0.7vh, prototype parity). **rules:** WebGL hero ("Governance · Ruleset v3.3" / "The 29
+  Rules." / tagline), 2-col Prime-Directive grid (roman i–iv + EN em-accent on complex/ambiguous/add/
+  mark), 5 cream example cards (EN strong-accent terms + italic transliterations, prototype-exact), and
+  the 29-card hairline grid on dark — all wired to existing localized keys + 3 new (rulesHeroKicker,
+  rulesExamplesH2, rulesAllKick). **start:** WebGL hero, WHY split (lead sentence as h2 + right-aligned
+  path lead), dark 7-step roadmap with big petrol step numbers, the ↳ interleave note, ochre final step,
+  and "Begin with Genesis 1" CTA; 3 new keys (heroKicker, pathKick, beginCta). **books:** WebGL hero
+  ("The Books."), three rich `tt-bookcard`s (name · corpus+chapter-count meta · "Read now" badge · a
+  What/When/Who/Why glance pulled from the **localized book-intro CARD data** — no new translation, the
+  prototype glance was derived from it) + provisional note; new `books` i18n namespace (9 keys × 4
+  locales). New CSS (tokenized): tt-prime/tt-pd, tt-examples/tt-ex, tt-rules-grid/tt-rule, tt-roadmap/
+  tt-step(rebuilt)/tt-interleave, tt-bookcard/bc-*. Validated every page in EN+PT+DE+ES via Docker-MCP
+  (heroes, sections, counts, translated content) + mobile (no overflow, glance stacks). Bible content/
+  parsers/loader/routes untouched. Gate green (841 · build · lint · content:lint; i18n parity).
+- **Landing pixel-match pass (2026-06-15).** Section-by-section Docker-MCP diff of the local landing
+  against the prototype (computed styles + screenshots at 1280px), then closed every remaining gap:
+  (1) **Hero** — content is now a shrink-to-content block centered horizontally (h1 capped 15ch) with
+  the `mix-blend-difference` on the whole wrap; CTAs moved to a **bottom-center bar outside the blended
+  wrap** so they render in true ochre / translucent-glass (added `background:rgba(dark/35%)+blur(4px)`
+  to `tt-btn-ghost-light`). (2) **Header** — full-width container with `clamp(18px,4vw,52px)` padding
+  (was `max-w-5xl`), brand wordmark "Transparent Translation" (new `site.brand` key, drops "The"), and
+  the language switch moved to lead the right cluster (`order-first`). (3) **Kickers** — teal
+  (`--color-accent`; petrol on dark) with 26px ochre rule, 16px margin, and the ochre `/` numeral on the
+  numbered sections (was muted-grey, no slash). (4) **Bignums** — large Newsreader serif
+  `clamp(3rem,7vw,6rem)` lh .8 (was small Geist Mono); grid-head aligns to baseline (`align-items:end`,
+  900px breakpoint). (5) **Doors** — titles "Reading/Study/Deeper" (new `landing.doorRead/Study/Deeper`
+  keys; EN matches the prototype's hardcoded long forms, others use natural nouns), border-left dividers
+  with first card flush-left. (6) **em-accent** — added EN-only `*…*` emphasis (teal italic) on intro
+  "two thousand years", WHO believe/doubt/study, and a line-broken scope headline with "hide" — exactly
+  mirroring the prototype, which restores em only for EN (`textContent` strips it for other locales);
+  intro/scope statement headlines set to weight 400 to match the prototype's `<p class="h2">`.
+  (7) **Footer** — rebuilt to the prototype's **dark** surface (was light): serif brand blurb + Read /
+  Method link columns + legal line (dropped the prototype-only "Redesign · Light & Darkness" badge).
+  i18n parity verified (all 4 locales identical key sets); non-EN spot-checked (translated door labels,
+  no em-accent). Gate green (841 · build · lint · content:lint). Bible content/parsers/loader/routes
+  untouched.
+
 ## Completed phases & bundles (chronological by closure)
 
 | Closed | Phase / bundle | What it did | Plan artifact |

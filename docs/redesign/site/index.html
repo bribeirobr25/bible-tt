@@ -1,0 +1,164 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<title>The Transparent Translation — a translation with nothing hidden</title>
+<meta name="description" content="The source texts of the Hebrew Bible and Greek Scriptures, shown honestly — every translation choice visible. English, Portuguese, German, Spanish." />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Geist:wght@300;400;500;600;700&family=Geist+Mono:wght@400;500;600&family=Newsreader:ital,opsz,wght@0,6..72,200..700;1,6..72,300..600&display=swap" rel="stylesheet" />
+<link rel="stylesheet" href="assets/tt.css" />
+</head>
+<body data-localized>
+  <header class="site-header over-hero">
+    <a class="brand" href="index.html"><span class="mark"></span> Transparent Translation</a>
+    <button class="menu-btn" aria-label="Menu" aria-expanded="false"><span></span></button>
+    <nav>
+      <a href="books.html">Books</a>
+      <a href="start.html">Start here</a>
+      <a href="rules.html">How we translate</a>
+      <a class="nav-cta" href="genesis/chapter-1.html">Start reading →</a>
+    </nav>
+  </header>
+
+  <!-- HERO -->
+  <section class="hero" style="position:relative;min-height:100svh;display:flex;align-items:center;overflow:hidden">
+    <canvas id="gl" data-scroll="1" style="position:absolute;inset:0;width:100%;height:100%"></canvas>
+    <div class="wrap" style="position:relative;z-index:2;mix-blend-mode:difference;color:#fff">
+      <p class="mono" style="font-size:12px;letter-spacing:.2em;text-transform:uppercase;margin-bottom:22px">Genesis 1:4</p>
+      <h1 class="h-display" style="max-width:15ch">And God separated the <em>light</em> from the <em>darkness</em>.</h1>
+    </div>
+    <div style="position:absolute;left:0;right:0;bottom:40px;z-index:3;display:flex;flex-wrap:wrap;gap:14px;justify-content:center;padding-inline:20px">
+      <a class="btn btn-pri" href="genesis/chapter-1.html">Start reading <span class="arr">→</span></a>
+      <a class="btn btn-ghost-light" href="start.html">New here? Start here</a>
+    </div>
+  </section>
+
+  <!-- INTRO STATEMENT -->
+  <section class="section bg-cream2">
+    <div class="wrap narrow" style="text-align:center">
+      <p class="kick center reveal">The Transparent Translation</p>
+      <p class="h2 serif reveal" data-d="1" data-i18n="landing.heroHeadline" style="letter-spacing:-.02em">Read the originals behind <span class="em-accent">two thousand years</span> of culture.</p>
+      <p class="lead reveal" data-d="2" style="margin-top:20px">The source texts, shown honestly — every translation choice visible. For believers, skeptics, and the merely curious alike — the text without the filter.</p>
+      <p class="mono reveal" data-d="2" data-i18n="landing.languageTagline" style="margin-top:24px;letter-spacing:.12em;color:var(--ink-mute);font-size:13px">The Bible → English · Português · Deutsch · Español</p>
+    </div>
+  </section>
+
+  <!-- THE DIFFERENCE -->
+  <section class="section" id="difference">
+    <div class="wrap">
+      <div class="grid-head">
+        <div class="bignum reveal">01</div>
+        <div>
+          <p class="kick reveal"><span class="num">/</span> The difference</p>
+          <h2 class="h2 reveal" data-d="1" data-i18n="landing.differenceTitle" style="max-width:16ch">What translations hide from you</h2>
+          <p class="lead reveal" data-d="2" data-i18n="landing.differenceDesc" style="margin-top:14px;max-width:46ch">The same verse. One hides the choices. The other shows them.</p>
+        </div>
+      </div>
+      <div style="border-top:2px solid var(--ink);border-bottom:2px solid var(--ink);margin-top:46px;display:grid" class="vg-grid">
+        <div class="vc-conv reveal"><div class="mono" style="font-size:11px;letter-spacing:.16em;text-transform:uppercase;color:var(--ink-mute);margin-bottom:18px">Traditional translation</div><blockquote class="serif" style="font-size:clamp(1.15rem,1.8vw,1.5rem);line-height:1.7;color:var(--ink-soft)">Now the serpent was more crafty than any of the wild animals the LORD God had made. He said to the woman, “Did God really say, ‘You must not eat from any tree in the garden’?”</blockquote></div>
+        <div class="vc-tt reveal" data-d="1"><div class="mono" style="font-size:11px;letter-spacing:.16em;text-transform:uppercase;color:var(--accent-deep);margin-bottom:18px">Transparent translation</div><blockquote class="serif" style="font-size:clamp(1.15rem,1.8vw,1.5rem);line-height:1.7">And the serpent was <em style="color:var(--accent-deep)">arum</em> (crafty/shrewd) from all the living things of the field that YHWH God had made. And it said to the woman: “Indeed, <em style="color:var(--accent-deep)">did</em> God say, ‘You shall not eat from any tree of the garden’?”</blockquote></div>
+      </div>
+      <div class="diffs-grid">
+        <div class="diff reveal"><h4><span class="dn">01</span> The name they replaced</h4><p>The Hebrew says YHWH — four consonants, no vowels. Most Bibles swap it for ‘the LORD.’ We put back what was there.</p></div>
+        <div class="diff reveal" data-d="1"><h4><span class="dn">02</span> A hidden pun</h4><p>‘Crafty’ (<em>arum</em>) sounds almost identical to ‘naked’ (<em>arom</em>) from the verse before. The author did that on purpose. Most translations erase it.</p></div>
+        <div class="diff reveal"><h4><span class="dn">03</span> Both sides lie</h4><p>The serpent exaggerates the rule. The woman corrects it — but quietly changes the original command too. We keep both distortions visible.</p></div>
+        <div class="diff reveal" data-d="1"><h4><span class="dn">04</span> You can see the seams</h4><p>Every word in italics was added to make English work. It is not in the Hebrew. You always know what is original and what is scaffolding.</p></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- THREE DOORS -->
+  <section class="section bg-dark" id="read">
+    <div class="wrap">
+      <div class="grid-head">
+        <div class="bignum reveal" style="color:var(--accent)">02</div>
+        <div>
+          <p class="kick reveal" style="color:var(--accent)"><span class="num" style="color:var(--ochre)">/</span> How it works</p>
+          <h2 class="h2 reveal" data-d="1" data-i18n="landing.howTitle">Three ways to read</h2>
+        </div>
+      </div>
+      <div class="doors" style="margin-top:48px">
+        <a class="door reveal" href="genesis/chapter-1.html"><div class="idx">01</div><div class="dt serif" data-i18n="door.read">Reading</div><p data-i18n="landing.howReading">The full story as flowing prose on a clean page. No footnotes, no interruptions. Just you and the text.</p></a>
+        <a class="door reveal" data-d="1" href="genesis/chapter-1-notes.html"><div class="idx">02</div><div class="dt serif" data-i18n="door.notes">Study</div><p data-i18n="landing.howStudy">The Hebrew behind every word, where we made choices, and why. Verse by verse, colour-coded.</p></a>
+        <a class="door reveal" data-d="2" href="genesis/chapter-1-deeper.html"><div class="idx">03</div><div class="dt serif" data-i18n="door.deeper">Deeper</div><p data-i18n="landing.howDeeper">Historical and linguistic background, prophecy readings, and the people behind the text — each labelled by claim type and confidence.</p></a>
+      </div>
+    </div>
+  </section>
+
+  <!-- WHO -->
+  <section class="section">
+    <div class="wrap">
+      <div class="grid-head">
+        <div class="bignum reveal">03</div>
+        <div><p class="kick reveal"><span class="num">/</span> Who is this for?</p><h2 class="h2 reveal" data-d="1">Three readers</h2></div>
+      </div>
+      <div class="who-list" style="margin-top:18px">
+        <p class="reveal" data-i18n="landing.who1"><span class="t mono">A</span><span>You <em class="em-accent">believe</em> — and want to meet the text as it was actually written, before centuries of translation smoothed it over.</span></p>
+        <p class="reveal" data-d="1" data-i18n="landing.who2"><span class="t mono">B</span><span>You <em class="em-accent">doubt</em>, or follow another path entirely — and are willing to be surprised by what the originals actually say.</span></p>
+        <p class="reveal" data-d="2" data-i18n="landing.who3"><span class="t mono">C</span><span>You <em class="em-accent">study</em> these texts and want a translation that shows its work: every choice visible, every uncertainty admitted.</span></p>
+      </div>
+    </div>
+  </section>
+
+  <!-- SCOPE / FINAL -->
+  <section class="section bg-cream2" id="scope" style="text-align:center">
+    <div class="wrap narrow">
+      <p class="kick center reveal"><span class="num">/</span> What this is</p>
+      <h2 class="h2 serif reveal" data-d="1">Every translation makes choices.<br>Most <em class="em-accent">hide</em> them.</h2>
+      <p class="lead reveal" data-d="2" data-i18n="landing.scope" style="margin-top:24px">This one shows you exactly where — in English, Portuguese, German, and Spanish. It is not a devotional. It is not a replacement for scholarly editions. It is a disciplined attempt to let you see what is actually there.</p>
+      <p class="reveal" data-d="2" data-i18n="landing.scopeNot" style="font-style:italic;color:var(--ink-soft);margin-top:16px">When we don’t know something, we say so. When scholars disagree, we show you both sides.</p>
+      <div class="reveal" data-d="3" style="margin-top:40px;display:flex;gap:14px;justify-content:center;flex-wrap:wrap">
+        <a class="btn btn-deep" href="genesis/chapter-1.html" data-i18n="landing.cta">Start reading <span class="arr">→</span></a>
+        <a class="btn btn-ghost" href="rules.html" data-i18n="landing.ctaRules">How we translate</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- FOOTER -->
+  <footer class="site-footer">
+    <div class="wrap">
+      <div class="cols">
+        <div><p class="brand-blurb serif">A translation with nothing hidden.</p></div>
+        <div>
+          <h4>Read</h4>
+          <a href="genesis/index.html">Genesis</a>
+          <a href="books.html">All books</a>
+          <a href="start.html">Start here</a>
+        </div>
+        <div>
+          <h4>Method</h4>
+          <a href="rules.html">The 29 rules</a>
+          <a href="genesis/introduction.html">Book introductions</a>
+          <a href="genesis/people.html">People &amp; genealogy</a>
+        </div>
+      </div>
+      <div class="legal">
+        <span>© The Transparent Translation · EN · PT · DE · ES</span>
+        <span class="badge">Redesign · Light &amp; Darkness</span>
+      </div>
+    </div>
+  </footer>
+
+  <style>
+    .vg-grid{grid-template-columns:1fr}
+    .vc-conv,.vc-tt{padding:clamp(28px,3vw,46px) 0}
+    @media(min-width:900px){.vg-grid{grid-template-columns:1fr 1fr}.vc-conv{padding-right:46px}.vc-tt{padding-left:46px;border-left:2px solid var(--ink)}}
+    @media(max-width:899px){.vc-tt{border-top:2px solid var(--ink)}}
+    .diffs-grid{display:grid;border-bottom:1px solid var(--line)}
+    @media(min-width:760px){.diffs-grid{grid-template-columns:1fr 1fr}}
+    .diff{padding:26px 0;border-top:1px solid var(--line)}
+    @media(min-width:760px){.diff:nth-child(odd){padding-right:40px}.diff:nth-child(even){padding-left:40px;border-left:1px solid var(--line)}}
+    .diff h4{font-family:"Geist",sans-serif;font-size:16px;font-weight:600;display:flex;gap:12px;align-items:baseline}
+    .diff h4 .dn{font-family:"Geist Mono",monospace;font-size:13px;color:var(--ochre)}
+    .diff p{font-size:14.5px;color:var(--ink-soft);margin-top:8px;line-height:1.7}
+    .diff em{color:var(--accent-deep);font-style:italic}
+    .who-list p{font-family:"Newsreader",serif;font-size:clamp(1.5rem,4.2vw,2.9rem);line-height:1.2;padding:28px 0;border-bottom:1px solid var(--line);display:flex;gap:18px;align-items:baseline}
+    .who-list p:first-child{border-top:1px solid var(--line)}
+    .who-list .t{font-size:13px;color:var(--ochre);flex:none}
+  </style>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+  <script src="assets/tt.js"></script>
+</body>
+</html>

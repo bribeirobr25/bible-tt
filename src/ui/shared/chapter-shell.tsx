@@ -1,4 +1,3 @@
-import { ChevronLeft } from "lucide-react";
 import { getTranslations } from "next-intl/server";
 import type { ReactNode } from "react";
 import type { ChapterData } from "@/domain/content/types";
@@ -8,13 +7,14 @@ import { Link } from "@/ui/navigation/locale-link";
 import { ReadingProgress } from "@/ui/reading/reading-progress";
 import { LegacyHashRedirect } from "@/ui/shared/legacy-hash-redirect";
 import { renderMarkdownSafe } from "@/ui/shared/render-markdown-safe";
-import { ShareButton } from "@/ui/shared/share-button";
+
+const WRAP = "max-w-[1320px] mx-auto px-[clamp(18px,4vw,52px)]";
 
 /**
  * Phase 3 — shared chrome for the three chapter doors (Read · Notes · Deeper).
- * Server-rendered header (back-link, title, share, 3-door nav, metadata,
- * overview) + a body slot + chapter pager. Each door route renders this shell
- * with its own `active` and body, so the doors are real, crawlable URLs.
+ * Renders the prototype "chapter-head" (crumb · ref+title+status · 3-door nav ·
+ * seam) derived from the active door, then a body slot, then a pager. Each door
+ * route renders this shell with its own `active`, body, and optional pager.
  */
 export async function ChapterShell({
   locale,
@@ -25,6 +25,7 @@ export async function ChapterShell({
   active,
   hasDeeper,
   children,
+  pager,
 }: {
   locale: string;
   book: string;
@@ -34,89 +35,112 @@ export async function ChapterShell({
   active: Door;
   hasDeeper: boolean;
   children: ReactNode;
+  pager?: ReactNode;
 }) {
   const t = await getTranslations();
   const bookName = t(`book.${book}`);
+  const base = `/${book}/chapter/${chapterNum}`;
+  const chapterLabel = `${bookName} ${chapterNum}`;
+  const doorLabel =
+    active === "notes"
+      ? t("nav.doorNotes")
+      : active === "deeper"
+        ? t("nav.doorDeeper")
+        : null;
+
+  const ref =
+    active === "notes"
+      ? t("chapter.notesRef")
+      : active === "deeper"
+        ? t("chapter.deeperRef")
+        : `${t("site.title")} · ${bookName}`;
+  const title = doorLabel ? `${chapterLabel} · ${doorLabel}` : chapterLabel;
+  // The pill shows a short status word (e.g. "Provisional"); the full
+  // "provisional — pending reviewer sign-off (Rule 28)" stays in the metadata.
+  const shortStatus = (() => {
+    const head = data.metadata.status.split(/\s[—–-]\s|\s\(/)[0].trim();
+    return head.charAt(0).toUpperCase() + head.slice(1);
+  })();
 
   return (
     <>
       <ReadingProgress />
       <LegacyHashRedirect book={book} chapterNum={chapterNum} />
-      <main className="min-h-screen px-4 md:px-6 py-6 md:py-10 max-w-4xl mx-auto">
-        <header className="mb-8 space-y-4">
-          <Link
-            href={`/${book}`}
-            className="inline-flex items-center gap-1 text-sm text-text-muted hover:text-accent transition-colors duration-150"
-          >
-            <ChevronLeft size={14} strokeWidth={1.5} />
-            {bookName}
-          </Link>
-          <div className="flex items-center gap-3">
-            <h1 className="font-[family-name:var(--font-reading)] text-2xl md:text-3xl font-light">
-              {bookName} {chapterNum}
-            </h1>
-            <ShareButton
-              title={`${bookName} ${chapterNum}`}
-              text={`${bookName} ${chapterNum} — The Transparent Translation`}
-            />
+
+      <div className={`tt-chapter-head ${WRAP}`}>
+        <nav className="tt-crumb" aria-label="Breadcrumb">
+          <Link href="/">{t("nav.home")}</Link>
+          <span className="sep">/</span>
+          <Link href={`/${book}`}>{bookName}</Link>
+          <span className="sep">/</span>
+          {active === "read" ? (
+            <span>{t("chapter.chapterN", { n: chapterNum })}</span>
+          ) : (
+            <>
+              <Link href={base}>{chapterLabel}</Link>
+              <span className="sep">/</span>
+              <span>{doorLabel}</span>
+            </>
+          )}
+        </nav>
+
+        <div className="tt-title-row">
+          <div>
+            <div className="tt-ref">{ref}</div>
+            <h1 className="tt-chapter-title">{title}</h1>
           </div>
+          <span className="tt-status-pill" title={data.metadata.status}>
+            <span className="dot" aria-hidden="true" />
+            {shortStatus}
+          </span>
+        </div>
 
-          <DoorNav
-            book={book}
-            chapterNum={chapterNum}
-            active={active}
-            hasDeeper={hasDeeper}
-          />
+        <DoorNav
+          book={book}
+          chapterNum={chapterNum}
+          active={active}
+          hasDeeper={hasDeeper}
+        />
 
-          <details className="text-xs text-text-muted">
-            <summary className="cursor-pointer hover:text-text-secondary transition-colors duration-150 focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2 rounded">
-              {data.metadata.edition} — {data.metadata.status}
-            </summary>
-            <div className="mt-2 space-y-1 pl-4 border-l border-border-muted">
-              <p>
-                <span className="font-medium">{t("metadata.baseText")}:</span>{" "}
-                {data.metadata.baseText}
-              </p>
-              <p>
-                <span className="font-medium">
-                  {t("metadata.methodology")}:
-                </span>{" "}
-                {data.metadata.methodology}
-              </p>
-              {data.metadata.divineNamePolicy && (
-                <p>
-                  <span className="font-medium">
-                    {t("metadata.divineNameLabel")}:
-                  </span>{" "}
-                  {data.metadata.divineNamePolicy}
-                </p>
-              )}
-            </div>
-          </details>
-        </header>
+        <hr className="tt-seam mt-[26px]" />
+      </div>
 
-        {data.overview && (
-          <details className="mb-6 border border-border rounded-lg">
-            <summary className="px-4 py-3 cursor-pointer text-sm font-medium text-text-secondary hover:text-text-primary transition-colors duration-150 rounded-lg">
-              {t("nav.chapterOverview")}
-            </summary>
-            <div
-              className="px-4 pb-4 text-sm leading-relaxed text-text-primary [&_strong]:font-semibold"
-              dangerouslySetInnerHTML={{
-                __html: renderMarkdownSafe(data.overview, "note"),
-              }}
-            />
-          </details>
+      <main
+        className={WRAP}
+        style={{
+          paddingTop: "clamp(36px,6vh,64px)",
+          paddingBottom: "clamp(48px,8vh,90px)",
+        }}
+      >
+        {active === "read" && data.overview && (
+          <div className="max-w-[46rem] mx-auto mb-[34px]">
+            <details className="tt-details">
+              <summary>
+                <span>{t("nav.chapterOverview")}</span>
+                <span className="chev" aria-hidden="true">
+                  ›
+                </span>
+              </summary>
+              <div
+                className="body prose text-text-primary [&_strong]:font-semibold"
+                dangerouslySetInnerHTML={{
+                  __html: renderMarkdownSafe(data.overview, "note"),
+                }}
+              />
+            </details>
+          </div>
         )}
 
         {children}
 
-        <ChapterNav
-          locale={locale}
-          book={book}
-          currentChapter={chapterNum}
-          totalChapters={totalChapters}
-        />
+        {pager ?? (
+          <ChapterNav
+            locale={locale}
+            book={book}
+            currentChapter={chapterNum}
+            totalChapters={totalChapters}
+          />
+        )}
       </main>
     </>
   );

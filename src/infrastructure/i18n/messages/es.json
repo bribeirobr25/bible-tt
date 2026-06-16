@@ -1,18 +1,32 @@
 {
   "site": {
     "title": "La Traducción Transparente",
+    "brand": "Transparent Translation",
     "subtitle": "Una traducción sin nada oculto."
+  },
+  "books": {
+    "heroKicker": "Actualmente traducido",
+    "heroTitle": "Los Libros.",
+    "heroTagline": "Génesis 1–12 · Juan 1–3 · Mateo 1–3 — cada uno con capítulos, compañeros de estudio, introducciones y personas.",
+    "sectionKick": "Tres libros, cuatro idiomas",
+    "readNow": "Leer ahora",
+    "corpusHebrew": "Biblia Hebrea",
+    "corpusGreek": "Escrituras Griegas",
+    "chaptersAvailable": "{n} capítulos disponibles",
+    "provisional": "Todo el contenido se publica *provisional* — pendiente de la revisión de especialistas en las lenguas originales (Regla 28). Génesis 13–50 es el mayor trabajo en curso."
+  },
+  "footer": {
+    "read": "Leer",
+    "method": "Método"
   },
   "nav": {
     "home": "Inicio",
     "chapters": "Capítulos",
     "books": "Libros",
     "selectBook": "Seleccionar un libro",
-    "selectChapter": "Seleccionar un capítulo",
     "chapterOverview": "Visión General del Capítulo",
     "readingGuide": "Guía de Lectura",
     "prophecyMode": "Profecías",
-    "share": "Compartir",
     "readingProgress": "Progreso de lectura",
     "bookContext": "Panorama",
     "bookContextDescription": "Una vista panorámica de los temas académicos, históricos y textuales más significativos de todos los capítulos.",
@@ -27,7 +41,11 @@
     "linkCopied": "Enlace copiado",
     "chapterViews": "Vistas del capítulo",
     "atAGlance": "De un vistazo",
-    "readFullIntroduction": "Leer la introducción completa"
+    "readFullIntroduction": "Leer la introducción completa",
+    "explore": "Explorar {book}",
+    "exploreIntroDesc": "Autoría, datación, transmisión del manuscrito y cómo leer este libro en la TT.",
+    "explorePeopleDesc": "Perfiles ampliados y una línea de tiempo de vida de las figuras de este libro.",
+    "exploreBackgroundDesc": "Motivos y patrones que abarcan los capítulos del libro."
   },
   "bookContext": {
     "chapters": "Capítulos"
@@ -35,10 +53,11 @@
   "chapter": {
     "prev": "Capítulo anterior",
     "next": "Siguiente capítulo",
-    "notFound": "Este capítulo aún no ha sido traducido.",
-    "reading": "Lectura Continua",
-    "study": "Estudio Verso a Verso",
-    "chapterN": "Capítulo {n}"
+    "chapterN": "Capítulo {n}",
+    "notesRef": "Estudio verso a verso",
+    "deeperRef": "Contexto y enriquecimiento",
+    "link": "Enlace",
+    "copied": "Copiado"
   },
   "notes": {
     "title": "Notas",
@@ -52,19 +71,7 @@
     "seeAlso": "Ver también"
   },
   "glossary": {
-    "title": "Glosario",
-    "sourceWord": "Origen",
-    "translation": "Traducción",
-    "notes": "Notas"
-  },
-  "metadata": {
-    "edition": "Edición",
-    "status": "Estado",
-    "baseText": "Texto Base",
-    "methodology": "Metodología",
-    "showDetails": "Mostrar detalles",
-    "hideDetails": "Ocultar detalles",
-    "divineNameLabel": "Política del Nombre Divino"
+    "title": "Glosario"
   },
   "book": {
     "genesis": "Génesis",
@@ -92,29 +99,9 @@
   "enrichment": {
     "source": "Fuente: {source}",
     "emptyContext": "Aún no hay material de estudio contextual disponible para este capítulo.",
-    "contextDisclaimer": "Este material complementario ofrece contenido contextual y comparativo para estudio. No redefine, amplía ni controla la traducción principal. Todas las entradas están clasificadas por tipo y grado de certeza.",
-    "legendEstablished": "bien establecido",
-    "legendPossible": "posible",
-    "legendUncertain": "incierto",
-    "introSourceText": "Leer este capítulo de forma transparente — sin el pulido que la mayoría de las traducciones aplican — revela características del texto fuente que normalmente permanecen invisibles.",
-    "introAneParallels": "El mundo que produjo este texto no estaba vacío de otras historias. Las culturas vecinas contaban sus propios relatos de cómo comenzó todo.",
-    "introHistorical": "¿Qué sabemos realmente sobre el mundo que este texto describe?",
-    "introLinguistic": "Las propias palabras hebreas contienen capas que la traducción inevitablemente comprime.",
-    "introScientific": "La ciencia moderna describe el mundo natural de manera muy diferente a este texto antiguo. Ninguno valida ni invalida al otro — responden a preguntas diferentes.",
-    "introReception": "Este texto ha sido leído durante miles de años. Diferentes comunidades han escuchado cosas diferentes en él.",
-    "introCuriosities": "Algunas cosas en el texto son simplemente llamativas — no porque demuestren algo, sino porque hacen detenerse a pensar.",
-    "introWorldAtTheTime": "¿Qué estaba pasando en el mundo cuando se escribió este texto? Política, comercio, vida cotidiana, guerras, arte, filosofía — el contexto más allá del texto mismo.",
-    "hedgeStartProbable": "La mayoría de los estudiosos coinciden en que ",
-    "hedgeStartPossible": "Una lectura posible sugiere que ",
-    "hedgeStartUncertain": "El significado aquí es genuinamente incierto, pero ",
-    "hedgeStartSpeculative": "Algunos se han preguntado si ",
-    "hedgeMidProbable": "Esto está ampliamente aceptado. ",
-    "hedgeMidPossible": "Esta es una lectura entre otras. ",
-    "hedgeMidUncertain": "Esto sigue siendo genuinamente debatido. ",
-    "hedgeMidSpeculative": "Esto es especulativo. "
+    "contextDisclaimer": "Este material complementario ofrece contenido contextual y comparativo para estudio. No redefine, amplía ni controla la traducción principal. Todas las entradas están clasificadas por tipo y grado de certeza."
   },
   "prophecy": {
-    "title": "Profecías",
     "disclaimer": "Las entradas de profecía presentan lo que el texto dice, cómo las tradiciones lo leen y la evaluación académica del cumplimiento. El lector saca conclusiones; la entrada no.",
     "fulfillment": {
       "fulfilled": "Cumplida",
@@ -127,10 +114,7 @@
     "fields": {
       "textSays": "Lo que dice el texto",
       "context": "Contexto",
-      "subject": "Sujeto",
-      "readings": "Lecturas tradicionales",
-      "status": "Estado de cumplimiento",
-      "scholarlyNote": "Nota académica"
+      "readings": "Lecturas tradicionales"
     }
   },
   "people": {
@@ -178,7 +162,8 @@
       "genesis": "En Génesis",
       "matthew": "En Mateo",
       "john": "En Juan"
-    }
+    },
+    "provisional": "Provisional"
   },
   "introduction": {
     "title": "Introducción del Libro",
@@ -212,8 +197,11 @@
     "diff4title": "Se ven las costuras",
     "diff4": "Toda palabra en cursiva fue añadida para que el español funcione. No está en el hebreo. Siempre sabes qué es original y qué es andamiaje.",
     "howTitle": "Tres formas de leer",
-    "howReading": "Lectura — La historia completa como prosa fluida en una página limpia. Sin notas al pie, sin interrupciones. Solo tú y el texto.",
-    "howStudy": "Estudio — El hebreo detrás de cada palabra, dónde tomamos decisiones y por qué. Verso a verso, codificado por colores.",
+    "doorRead": "Lectura",
+    "doorStudy": "Estudio",
+    "doorDeeper": "Profundizar",
+    "howReading": "La historia completa como prosa fluida en una página limpia. Sin notas al pie, sin interrupciones. Solo tú y el texto.",
+    "howStudy": "El hebreo detrás de cada palabra, dónde tomamos decisiones y por qué. Verso a verso, codificado por colores.",
     "whoTitle": "¿Para quién es esto?",
     "who1": "Crees — y quieres encontrarte con el texto tal como fue escrito, antes de que siglos de traducción lo suavizaran.",
     "who2": "Dudas, o sigues otro camino por completo — y estás dispuesto a sorprenderte con lo que los originales realmente dicen.",
@@ -224,6 +212,9 @@
     "rulesPageTitle": "Las 29 Reglas",
     "rulesPageSubtitle": "El sistema de gobernanza detrás de la Traducción Transparente.",
     "rulesIntro": "Toda traducción toma decisiones. La mayoría las oculta. Nosotros escribimos las nuestras.",
+    "rulesHeroKicker": "Gobernanza · Conjunto de reglas v3.3",
+    "rulesExamplesH2": "Algunos, hechos concretos",
+    "rulesAllKick": "El conjunto completo",
     "rulesPrime": "La Directiva Principal",
     "rulesPrimeDesc": "Si alguna regla entra en conflicto con estos cuatro principios, los principios prevalecen.",
     "rulesPrime1": "Si el texto original es complejo, lo mantenemos complejo.",
@@ -297,11 +288,16 @@
     "rule28short": "Ningún versículo se publica sin revisión documentada.",
     "rule29name": "Enriquecimiento Contextual",
     "rule29short": "Material complementario en archivos separados, etiquetado por tipo y confianza.",
-    "howDeeper": "La capa más profunda — trasfondo histórico y lingüístico, lecturas proféticas y las personas detrás del texto, cada uno etiquetado por tipo de afirmación y confianza.",
+    "howDeeper": "Trasfondo histórico y lingüístico, lecturas proféticas y las personas detrás del texto, cada uno etiquetado por tipo de afirmación y confianza.",
     "heroHeadline": "Lee los originales detrás de dos mil años de cultura.",
     "heroSub": "Los textos fuente, mostrados con honestidad — cada decisión de traducción a la vista.",
     "heroSupport": "Para creyentes, escépticos y curiosos por igual — el texto sin filtro.",
-    "ctaStartHere": "¿Nuevo aquí? Empieza aquí"
+    "ctaStartHere": "¿Nuevo aquí? Empieza aquí",
+    "heroVerse": "Y Dios separó la *luz* de la *oscuridad*.",
+    "differenceKicker": "La diferencia",
+    "howKicker": "Cómo funciona",
+    "threeReaders": "Tres lectores",
+    "scopeHeadline": "Toda traducción toma decisiones. La mayoría las oculta."
   },
   "start": {
     "title": "Empieza aquí",
@@ -311,6 +307,9 @@
     "availableNow": "Disponible ahora",
     "comingSoon": "Próximamente",
     "interleaveNote": "Lee uno de cada, en paralelo, hasta terminar los Salmos.",
+    "heroKicker": "Un plan de lectura",
+    "pathKick": "El camino — siete pasos",
+    "beginCta": "Empieza por Génesis 1",
     "step1title": "Salmos",
     "step1desc": "El alma — sentimiento humano puro, dirigido hacia lo alto.",
     "step2title": "Proverbios",
