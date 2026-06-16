@@ -138,7 +138,7 @@ Este archivo presenta información biográfica y genealógica sobre figuras que 
 **Mencionado en:** Gn 4:18–24
 **Eventos clave:** Primer polígamo registrado (4:19); su hijo Yaval es padre de los que habitan en tiendas y crían ganado (4:20); su hijo Yuval es padre de los que tocan lira y flauta (4:21); su hijo Tuval-Caín forja instrumentos de bronce y hierro (4:22); cantó el cántico de la violencia escalada a sus esposas (4:23–24) — se jacta de haber matado a un hombre por herirlo y a un joven por golpearlo; reclama venganza 77 veces mayor contra la protección séptupla de YHWH sobre Caín
 
-**Nombre familiar:** Lamec (Cainita)
+**Nombre familiar:** Lamec
 **Profesión:** no declarada
 **Clase social:** no declarada
 **Ciudad natal:** no declarada
@@ -451,7 +451,7 @@ Este archivo presenta información biográfica y genealógica sobre figuras que 
 **Mencionado en:** Gn 5:25–31
 **Eventos clave:** Engendró a Noé a los 182 años (5:28–29); nombró a Noé con las palabras "Este nos consolará de nuestra labor y del trabajo de nuestras manos, por causa del suelo que YHWH maldijo" (5:29); murió a los 777 (5:31)
 
-**Nombre familiar:** Lamec (Setita)
+**Nombre familiar:** Lamec
 **Profesión:** no declarada
 **Clase social:** no declarada
 **Ciudad natal:** no declarada

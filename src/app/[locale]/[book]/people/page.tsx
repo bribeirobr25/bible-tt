@@ -90,6 +90,7 @@ export default async function PeoplePage({
     curiosities: t("people.curiosities"),
     crossBookSee: t("people.crossBookSee"),
     note: t("people.note"),
+    regionsSafeguard: t("people.regionsByTextSafeguard"),
   };
 
   // Localized labels for any book a `**See:**` pointer might reference.
@@ -162,6 +163,8 @@ export default async function PeoplePage({
             kicker={t("people.timelineKicker")}
             captionCreation={t("people.timelineCaption")}
             captionHistorical={t("people.timelineCaptionHistorical")}
+            floodLabel={t("people.timelineFlood")}
+            takenLabel={t("people.timelineTaken")}
           />
         )}
 

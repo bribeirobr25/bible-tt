@@ -822,7 +822,10 @@ export function parsePeopleMarkdown(raw: string, book: string): PeopleData {
       const parenMatch = core.match(/^(.+?)\s*\(([^)]+)\)\s*$/);
       const name = parenMatch ? parenMatch[1].trim() : core;
       const familiarName = parenMatch ? parenMatch[2].trim() : undefined;
-      // Disambiguate homonyms (e.g. two "Lemekh") via the suffix so slugs stay unique.
+      // Disambiguate homonyms (e.g. two "Lemekh") via the suffix so slugs stay
+      // unique. A true collision with no suffix to disambiguate is left to the
+      // flushEntry duplicate-slug warning (authors fix it via the heading) —
+      // do not silently auto-slug, which would mask the authoring issue.
       const baseSlug = name.toLowerCase().replace(/\s+/g, "-");
       let slug = baseSlug;
       if (suffix && seenSlugs.has(slug)) {

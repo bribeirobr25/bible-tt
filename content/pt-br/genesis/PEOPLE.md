@@ -137,7 +137,7 @@ Este arquivo apresenta informações biográficas e genealógicas sobre figuras 
 **Mencionado em:** Gn 4:18–24
 **Eventos-chave:** Primeiro polígamo registrado (4:19); seu filho Yaval é pai dos que habitam em tendas e criam gado (4:20); seu filho Yuval é pai dos que tocam lira e flauta (4:21); seu filho Tuval-Qayin forja instrumentos de bronze e ferro (4:22); cantou o cântico da violência escalada para suas esposas (4:23–24) — vangloria-se de ter matado um homem por feri-lo e um jovem por golpeá-lo; reivindica vingança de 77 vezes contra a proteção sétupla de YHWH sobre Caim
 
-**Nome familiar:** Lameque (Cainita)
+**Nome familiar:** Lameque
 **Profissão:** não declarada
 **Classe social:** não declarada
 **Cidade natal:** não declarada
@@ -450,7 +450,7 @@ Este arquivo apresenta informações biográficas e genealógicas sobre figuras 
 **Mencionado em:** Gn 5:25–31
 **Eventos-chave:** Gerou Noé aos 182 anos (5:28–29); nomeou Noé com as palavras "Este nos consolará do nosso trabalho e da labuta das nossas mãos, por causa do solo que YHWH amaldiçoou" (5:29); morreu aos 777 (5:31)
 
-**Nome familiar:** Lameque (Setita)
+**Nome familiar:** Lameque
 **Profissão:** não declarada
 **Classe social:** não declarada
 **Cidade natal:** não declarada

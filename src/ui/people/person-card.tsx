@@ -135,7 +135,12 @@ export function PersonCard({
   person: PersonEntry;
   locale?: string;
   open?: boolean;
-  labels: { curiosities: string; crossBookSee: string; note: string };
+  labels: {
+    curiosities: string;
+    crossBookSee: string;
+    note: string;
+    regionsSafeguard: string;
+  };
   bookLabels: Record<string, string>;
 }) {
   const fields = person.rawFields ?? [];
@@ -169,6 +174,15 @@ export function PersonCard({
         ))}
         {person.note && <Field label={labels.note} value={person.note} wide />}
       </div>
+
+      {/* Rule-29 anti-misuse safeguard: where the entry lists Table-of-Nations
+          regions, the notice must stay on the page (it is dropped from the
+          prototype's plain-field render, so we re-attach it here). */}
+      {person.regionsByText && person.regionsByText.length > 0 && (
+        <p className="mt-3 border-l-2 border-border-muted pl-3 text-[11px] leading-relaxed text-text-muted">
+          {labels.regionsSafeguard}
+        </p>
+      )}
 
       {person.curiosities && person.curiosities.length > 0 && (
         <CuriositiesBlock

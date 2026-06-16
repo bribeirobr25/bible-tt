@@ -1,5 +1,7 @@
 import type { PersonEntry } from "@/domain/content/types";
-import { AM_FLOOD } from "@/ui/people/genesis-watersheds";
+
+// The Flood year in the Masoretic Anno-Mundi reckoning (Noah age 600, Gen 7:6).
+const AM_FLOOD = 1656;
 
 // Prototype geometry (docs/redesign/site/genesis/people.html inline SVG).
 const W = 1000;
@@ -61,12 +63,16 @@ export function PeopleTimeline({
   kicker,
   captionCreation,
   captionHistorical,
+  floodLabel,
+  takenLabel,
 }: {
   entries: PersonEntry[];
   book: string;
   kicker: string;
   captionCreation: string;
   captionHistorical: string;
+  floodLabel: string;
+  takenLabel: string;
 }) {
   const picked = pickAnchor(entries);
   if (!picked) return null;
@@ -154,7 +160,7 @@ export function PeopleTimeline({
                 fontFamily="var(--font-mono)"
                 style={{ fontSize: "11px" }}
               >
-                {`Flood · ${AM_FLOOD}`}
+                {`${floodLabel} · ${AM_FLOOD}`}
               </text>
             </g>
           )}
@@ -198,7 +204,7 @@ export function PeopleTimeline({
                   fontFamily="var(--font-mono)"
                   style={{ fontSize: "10.5px" }}
                 >
-                  {`${e.end - e.start}${e.taken ? " · taken" : ""}`}
+                  {`${e.end - e.start}${e.taken ? ` · ${takenLabel}` : ""}`}
                 </text>
               </g>
             );
