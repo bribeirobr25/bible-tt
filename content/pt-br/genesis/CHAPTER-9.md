@@ -59,13 +59,13 @@
 
 ---
 
-¹E Deus abençoou Noach (Noé) e seus filhos e disse-lhes: "Frutificai e multiplicai-vos e enchei a terra. ²E o temor de vós e o pavor de vós serão sobre todo vivente da terra, e sobre toda ave dos céus, em tudo em que o solo fervilha, e em todos os peixes do mar; em vossa mão são entregues. ³Todo ser que se move, que *é* vivo, será para alimento para vós; como a erva verde, dei-vos tudo. ⁴Somente carne com a sua vida — o seu sangue — não comereis. ⁵E certamente o vosso sangue das vossas vidas requererei; da mão de todo vivente o requererei, e da mão do humano, da mão de um homem, do seu irmão, requererei a vida do humano. ⁶Quem derramar o sangue do humano, pelo humano o seu sangue será derramado, pois à imagem de Deus fez o humano. ⁷E vós, frutificai e multiplicai-vos, fervilhai sobre a terra e multiplicai-vos nela."
+¹E Deus abençoou Noach (Noé) e seus filhos e disse-lhes: @@"Frutificai e multiplicai-vos e enchei a terra. ²E o temor de vós e o pavor de vós serão sobre todo vivente da terra, e sobre toda ave dos céus, em tudo em que o solo fervilha, e em todos os peixes do mar; em vossa mão são entregues. ³Todo ser que se move, que *é* vivo, será para alimento para vós; como a erva verde, dei-vos tudo. ⁴Somente carne com a sua vida — o seu sangue — não comereis. ⁵E certamente o vosso sangue das vossas vidas requererei; da mão de todo vivente o requererei, e da mão do humano, da mão de um homem, do seu irmão, requererei a vida do humano. ⁶Quem derramar o sangue do humano, pelo humano o seu sangue será derramado, pois à imagem de Deus fez o humano. ⁷E vós, frutificai e multiplicai-vos, fervilhai sobre a terra e multiplicai-vos nela."@@
 
-⁸E Deus disse a Noé e a seus filhos com ele, dizendo: ⁹"E eu, eis que eu *estou* estabelecendo a minha aliança convosco e com a vossa semente após vós, ¹⁰e com todo ser vivente que *está* convosco — a ave, o gado e todo vivente da terra convosco — de todos os que saem da tebah, a todo vivente da terra. ¹¹E estabelecerei a minha aliança convosco, e toda carne não será mais eliminada pelas águas do dilúvio, e não haverá mais dilúvio para destruir a terra."
+⁸E Deus disse a Noé e a seus filhos com ele, dizendo: ⁹@@"E eu, eis que eu *estou* estabelecendo a minha aliança convosco e com a vossa semente após vós, ¹⁰e com todo ser vivente que *está* convosco — a ave, o gado e todo vivente da terra convosco — de todos os que saem da {t:tebah}, a todo vivente da terra. ¹¹E estabelecerei a minha aliança convosco, e toda carne não será mais eliminada pelas águas do dilúvio, e não haverá mais dilúvio para destruir a terra."@@
 
-¹²E Deus disse: "Este *é* o sinal da aliança que eu *estou* dando entre mim e entre vós e entre todo ser vivente que *está* convosco, para gerações de perpetuidade: ¹³o meu arco coloquei na nuvem, e será para sinal da aliança entre mim e entre a terra. ¹⁴E será quando eu trouxer nuvens sobre a terra, e o arco aparecer na nuvem, ¹⁵e eu me lembrarei da minha aliança que *está* entre mim e entre vós e entre todo ser vivente em toda carne, e as águas não se tornarão mais em dilúvio para destruir toda carne. ¹⁶E o arco estará na nuvem, e eu o verei para lembrar a aliança de perpetuidade entre Deus e entre todo ser vivente em toda carne que *está* sobre a terra." ¹⁷E Deus disse a Noé: "Este *é* o sinal da aliança que eu estabeleci entre mim e entre toda carne que *está* sobre a terra."
+¹²E Deus disse: @@"Este *é* o sinal da aliança que eu *estou* dando entre mim e entre vós e entre todo ser vivente que *está* convosco, para gerações de perpetuidade: ¹³o meu arco coloquei na nuvem, e será para sinal da aliança entre mim e entre a terra. ¹⁴E será quando eu trouxer nuvens sobre a terra, e o arco aparecer na nuvem, ¹⁵e eu me lembrarei da minha aliança que *está* entre mim e entre vós e entre todo ser vivente em toda carne, e as águas não se tornarão mais em dilúvio para destruir toda carne. ¹⁶E o arco estará na nuvem, e eu o verei para lembrar a aliança de perpetuidade entre Deus e entre todo ser vivente em toda carne que *está* sobre a terra."@@ ¹⁷E Deus disse a Noé: @@"Este *é* o sinal da aliança que eu estabeleci entre mim e entre toda carne que *está* sobre a terra."@@
 
-¹⁸E os filhos de Noé que saíram da tebah foram Shem e Cham (Cam) e Yafet (Jafé); e Cam *é* o pai de Kenaan (Canaã). ¹⁹Estes três *são* os filhos de Noé, e destes toda a terra se espalhou.
+¹⁸E os filhos de Noé que saíram da {t:tebah} foram Shem e Cham (Cam) e Yafet (Jafé); e Cam *é* o pai de Kenaan (Canaã). ¹⁹Estes três *são* os filhos de Noé, e destes toda a terra se espalhou.
 
 ²⁰E Noé começou *como* homem do solo e plantou uma vinha. ²¹E bebeu do vinho e embriagou-se, e descobriu-se no meio da sua tenda. ²²E Cam, o pai de Canaã, viu a nudez do seu pai, e contou aos seus dois irmãos lá fora. ²³E Shem e Jafé tomaram a veste e a colocaram sobre o ombro dos dois, e andaram de costas, e cobriram a nudez do seu pai; e os seus rostos *estavam* voltados para trás, e a nudez do seu pai não viram.
 
@@ -79,7 +79,7 @@
 
 ### **Versículo 1**
 
-E Deus abençoou Noach (Noé) e seus filhos e disse-lhes: "Frutificai e multiplicai-vos e enchei a terra.
+E Deus abençoou Noach (Noé) e seus filhos e disse-lhes: @@"Frutificai e multiplicai-vos e enchei a terra.@@
 
 > **📝 NOTAS**
 >
@@ -90,7 +90,7 @@ E Deus abençoou Noach (Noé) e seus filhos e disse-lhes: "Frutificai e multipli
 
 ### **Versículo 2**
 
-E o temor de vós e o pavor de vós serão sobre todo vivente da terra, e sobre toda ave dos céus, em tudo em que o solo fervilha, e em todos os peixes do mar; em vossa mão são entregues.
+@@E o temor de vós e o pavor de vós serão sobre todo vivente da terra, e sobre toda ave dos céus, em tudo em que o solo fervilha, e em todos os peixes do mar; em vossa mão são entregues.@@
 
 > **📝 NOTAS**
 >
@@ -104,7 +104,7 @@ E o temor de vós e o pavor de vós serão sobre todo vivente da terra, e sobre 
 
 ### **Versículo 3**
 
-Todo ser que se move, que *é* vivo, será para alimento para vós; como a erva verde, dei-vos tudo.
+@@Todo ser que se move, que *é* vivo, será para alimento para vós; como a erva verde, dei-vos tudo.@@
 
 > **📝 NOTAS**
 >
@@ -115,7 +115,7 @@ Todo ser que se move, que *é* vivo, será para alimento para vós; como a erva 
 
 ### **Versículo 4**
 
-Somente carne com a sua vida — o seu sangue — não comereis.
+@@Somente carne com a sua vida — o seu sangue — não comereis.@@
 
 > **📝 NOTAS**
 >
@@ -127,7 +127,7 @@ Somente carne com a sua vida — o seu sangue — não comereis.
 
 ### **Versículo 5**
 
-E certamente o vosso sangue das vossas vidas requererei; da mão de todo vivente o requererei, e da mão do humano, da mão de um homem, do seu irmão, requererei a vida do humano.
+@@E certamente o vosso sangue das vossas vidas requererei; da mão de todo vivente o requererei, e da mão do humano, da mão de um homem, do seu irmão, requererei a vida do humano.@@
 
 > **📝 NOTAS**
 >
@@ -138,7 +138,7 @@ E certamente o vosso sangue das vossas vidas requererei; da mão de todo vivente
 
 ### **Versículo 6**
 
-Quem derramar o sangue do humano, pelo humano o seu sangue será derramado, pois à imagem de Deus fez o humano.
+@@Quem derramar o sangue do humano, pelo humano o seu sangue será derramado, pois à imagem de Deus fez o humano.@@
 
 > **📝 NOTAS**
 >
@@ -152,7 +152,7 @@ Quem derramar o sangue do humano, pelo humano o seu sangue será derramado, pois
 
 ### **Versículo 7**
 
-E vós, frutificai e multiplicai-vos, fervilhai sobre a terra e multiplicai-vos nela."
+@@E vós, frutificai e multiplicai-vos, fervilhai sobre a terra e multiplicai-vos nela."@@
 
 > **📝 NOTAS**
 >
@@ -169,7 +169,7 @@ E Deus disse a Noé e a seus filhos com ele, dizendo:
 
 ### **Versículo 9**
 
-"E eu, eis que eu *estou* estabelecendo a minha aliança convosco e com a vossa semente após vós,
+@@"E eu, eis que eu *estou* estabelecendo a minha aliança convosco e com a vossa semente após vós,@@
 
 > **📝 NOTAS**
 >
@@ -183,7 +183,7 @@ E Deus disse a Noé e a seus filhos com ele, dizendo:
 
 ### **Versículo 10**
 
-e com todo ser vivente que *está* convosco — a ave, o gado e todo vivente da terra convosco — de todos os que saem da tebah, a todo vivente da terra.
+@@e com todo ser vivente que *está* convosco — a ave, o gado e todo vivente da terra convosco — de todos os que saem da {t:tebah}, a todo vivente da terra.@@
 
 > **📝 NOTAS**
 >
@@ -194,13 +194,13 @@ e com todo ser vivente que *está* convosco — a ave, o gado e todo vivente da 
 
 ### **Versículo 11**
 
-E estabelecerei a minha aliança convosco, e toda carne não será mais eliminada pelas águas do dilúvio, e não haverá mais dilúvio para destruir a terra."
+@@E estabelecerei a minha aliança convosco, e toda carne não será mais eliminada pelas águas do dilúvio, e não haverá mais dilúvio para destruir a terra."@@
 
 ---
 
 ### **Versículo 12**
 
-E Deus disse: "Este *é* o sinal da aliança que eu *estou* dando entre mim e entre vós e entre todo ser vivente que *está* convosco, para gerações de perpetuidade:
+E Deus disse: @@"Este *é* o sinal da aliança que eu *estou* dando entre mim e entre vós e entre todo ser vivente que *está* convosco, para gerações de perpetuidade:@@
 
 > **📝 NOTAS**
 >
@@ -211,7 +211,7 @@ E Deus disse: "Este *é* o sinal da aliança que eu *estou* dando entre mim e en
 
 ### **Versículo 13**
 
-o meu arco coloquei na nuvem, e será para sinal da aliança entre mim e entre a terra.
+@@o meu arco coloquei na nuvem, e será para sinal da aliança entre mim e entre a terra.@@
 
 > **📝 NOTAS**
 >
@@ -225,13 +225,13 @@ o meu arco coloquei na nuvem, e será para sinal da aliança entre mim e entre a
 
 ### **Versículo 14**
 
-E será quando eu trouxer nuvens sobre a terra, e o arco aparecer na nuvem,
+@@E será quando eu trouxer nuvens sobre a terra, e o arco aparecer na nuvem,@@
 
 ---
 
 ### **Versículo 15**
 
-e eu me lembrarei da minha aliança que *está* entre mim e entre vós e entre todo ser vivente em toda carne, e as águas não se tornarão mais em dilúvio para destruir toda carne.
+@@e eu me lembrarei da minha aliança que *está* entre mim e entre vós e entre todo ser vivente em toda carne, e as águas não se tornarão mais em dilúvio para destruir toda carne.@@
 
 > **📝 NOTAS**
 >
@@ -242,7 +242,7 @@ e eu me lembrarei da minha aliança que *está* entre mim e entre vós e entre t
 
 ### **Versículo 16**
 
-E o arco estará na nuvem, e eu o verei para lembrar a aliança de perpetuidade entre Deus e entre todo ser vivente em toda carne que *está* sobre a terra."
+@@E o arco estará na nuvem, e eu o verei para lembrar a aliança de perpetuidade entre Deus e entre todo ser vivente em toda carne que *está* sobre a terra."@@
 
 > **📝 NOTAS**
 >
@@ -253,13 +253,13 @@ E o arco estará na nuvem, e eu o verei para lembrar a aliança de perpetuidade 
 
 ### **Versículo 17**
 
-E Deus disse a Noé: "Este *é* o sinal da aliança que eu estabeleci entre mim e entre toda carne que *está* sobre a terra."
+E Deus disse a Noé: @@"Este *é* o sinal da aliança que eu estabeleci entre mim e entre toda carne que *está* sobre a terra."@@
 
 ---
 
 ### **Versículo 18**
 
-E os filhos de Noé que saíram da tebah foram Shem e Cham (Cam) e Yafet (Jafé); e Cam *é* o pai de Kenaan (Canaã).
+E os filhos de Noé que saíram da {t:tebah} foram Shem e Cham (Cam) e Yafet (Jafé); e Cam *é* o pai de Kenaan (Canaã).
 
 > **📝 NOTAS**
 >

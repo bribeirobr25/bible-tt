@@ -61,17 +61,17 @@
 
 ---
 
-¹En principio, Dios creó los cielos y la tierra. ²Y la tierra era caos y vacío, y tinieblas sobre la faz del abismo, y viento/espíritu de Dios *se cernia* sobre la faz de las aguas. ³Y Dios dijo: "Haya luz," y luz fue. ⁴Y Dios vio la luz, que bueno, y Dios separó entre la luz y entre las tinieblas. ⁵Y Dios llamó a la luz "Día," y a las tinieblas llamó "Noche." Y fue tarde, y fue mañana, día uno.
+¹En principio, Dios creó los cielos y la tierra. ²Y la tierra era caos y vacío, y tinieblas sobre la faz del abismo, y {a:viento/espíritu} de Dios *se cernia* sobre la faz de las aguas. ³Y Dios dijo: @@"Haya luz,"@@ y luz fue. ⁴Y Dios vio la luz, que bueno, y Dios separó entre la luz y entre las tinieblas. ⁵Y Dios llamó a la luz "Día," y a las tinieblas llamó "Noche." Y fue tarde, y fue mañana, día uno.
 
-⁶Y Dios dijo: "Haya *un* raqia (extensión) dentro de las aguas, y sea un separador entre aguas y aguas." ⁷Y Dios hizo el raqia, y separó entre las aguas que *estaban* debajo del raqia y entre las aguas que *estaban* sobre el raqia. Y fue así. ⁸Y Dios llamó al raqia "Cielo." Y fue tarde, y fue mañana, segundo día.
+⁶Y Dios dijo: @@"Haya *un* {t:raqia} (extensión) dentro de las aguas, y sea un separador entre aguas y aguas."@@ ⁷Y Dios hizo el {t:raqia}, y separó entre las aguas que *estaban* debajo del {t:raqia} y entre las aguas que *estaban* sobre el {t:raqia}. Y fue así. ⁸Y Dios llamó al {t:raqia} "Cielo." Y fue tarde, y fue mañana, segundo día.
 
-⁹Y Dios dijo: "Sean reunidas las aguas de debajo del cielo a un lugar, y sea vista la tierra seca." Y fue así. ¹⁰Y Dios llamó a la tierra seca "Tierra," y a la reunión de las aguas llamó "Mares." Y Dios vio que bueno. ¹¹Y Dios dijo: "Produzca la tierra hierba, hierbas semillando semilla, árboles frutales haciendo fruto según su especie, cuya semilla *esta* en el, sobre la tierra." Y fue así. ¹²Y la tierra produjo hierba, hierbas semillando semilla según su especie, y árboles haciendo fruto cuya semilla *esta* en el, según su especie. Y Dios vio que bueno. ¹³Y fue tarde, y fue mañana, tercer día.
+⁹Y Dios dijo: @@"Sean reunidas las aguas de debajo del cielo a un lugar, y sea vista la tierra seca."@@ Y fue así. ¹⁰Y Dios llamó a la tierra seca "Tierra," y a la reunión de las aguas llamó "Mares." Y Dios vio que bueno. ¹¹Y Dios dijo: @@"Produzca la tierra hierba, hierbas semillando semilla, árboles frutales haciendo fruto según su especie, cuya semilla *esta* en el, sobre la tierra."@@ Y fue así. ¹²Y la tierra produjo hierba, hierbas semillando semilla según su especie, y árboles haciendo fruto cuya semilla *esta* en el, según su especie. Y Dios vio que bueno. ¹³Y fue tarde, y fue mañana, tercer día.
 
-¹⁴Y Dios dijo: "Haya luminares en el raqia, para separar entre el día y entre la noche, y sean para señales y para tiempos determinados y para días y años. ¹⁵Y sean para luminares en el raqia, para alumbrar sobre la tierra." Y fue así. ¹⁶Y Dios hizo los dos grandes luminares: el luminar mayor para dominio del día, y el luminar menor para dominio de la noche, y las estrellas. ¹⁷Y Dios los puso en el raqia, para alumbrar sobre la tierra. ¹⁸Y para gobernar en el día y en la noche, y para separar entre la luz y entre las tinieblas. Y Dios vio que bueno. ¹⁹Y fue tarde, y fue mañana, cuarto día.
+¹⁴Y Dios dijo: @@"Haya luminares en el {t:raqia}, para separar entre el día y entre la noche, y sean para señales y para tiempos determinados y para días y años. ¹⁵Y sean para luminares en el {t:raqia}, para alumbrar sobre la tierra."@@ Y fue así. ¹⁶Y Dios hizo los dos grandes luminares: el luminar mayor para dominio del día, y el luminar menor para dominio de la noche, y las estrellas. ¹⁷Y Dios los puso en el {t:raqia}, para alumbrar sobre la tierra. ¹⁸Y para gobernar en el día y en la noche, y para separar entre la luz y entre las tinieblas. Y Dios vio que bueno. ¹⁹Y fue tarde, y fue mañana, cuarto día.
 
-²⁰Y Dios dijo: "Pululen las aguas *de* enjambres de seres vivos, y aves vuelen sobre la tierra, sobre la faz del raqia." ²¹Y Dios creó las grandes criaturas marinas, y todo ser vivo, los que se mueven que las aguas pulularon, según sus especies, y toda ave alada según su especie. Y Dios vio que bueno. ²²Y Dios los bendijo, diciendo: "Sean fecundos y multiplíquense, y llenen las aguas en los mares, y *que* se multipliquen las aves en la tierra." ²³Y fue tarde, y fue mañana, quinto día.
+²⁰Y Dios dijo: @@"Pululen las aguas *de* enjambres de seres vivos, y aves vuelen sobre la tierra, sobre la faz del {t:raqia}."@@ ²¹Y Dios creó las grandes criaturas marinas, y todo ser vivo, los que se mueven que las aguas pulularon, según sus especies, y toda ave alada según su especie. Y Dios vio que bueno. ²²Y Dios los bendijo, diciendo: @@"Sean fecundos y multiplíquense, y llenen las aguas en los mares, y *que* se multipliquen las aves en la tierra."@@ ²³Y fue tarde, y fue mañana, quinto día.
 
-²⁴Y Dios dijo: "Produzca la tierra seres vivos según su especie: ganado y cosas que se arrastran y animales de *la* tierra, según su especie." Y fue así. ²⁵Y Dios hizo los animales de la tierra según su especie, y el ganado según su especie, y todo lo que se arrastra del suelo según su especie. Y Dios vio que bueno. ²⁶Y Dios dijo: "Hagamos *un* humano a nuestra imagen, conforme a nuestra semejanza, y dominen sobre *los* peces del mar y sobre *las* aves del cielo y sobre el ganado y sobre toda la tierra y sobre todo lo que se arrastra *que* se arrastra sobre la tierra." ²⁷Y Dios creó al humano a su imagen; a *la* imagen de Dios lo creó; varón y hembra los creó. ²⁸Y Dios los bendijo, y Dios les dijo: "Sean fecundos y multiplíquense, y llenen la tierra y sojúzguenla, y dominen sobre *los* peces del mar y sobre *las* aves del cielo y sobre todo ser vivo *que* se mueve sobre la tierra." ²⁹Y Dios dijo: "He aquí, les he dado toda hierba semillando semilla que *esta* sobre *la* faz de toda la tierra, y todo árbol en el cual *hay* fruto de *un* árbol semillando semilla; a ustedes será para alimento. ³⁰Y a todo ser vivo de la tierra y a toda ave del cielo y a todo lo que se arrastra sobre la tierra, en el cual *hay* ser vivo, toda hierba verde *será* para alimento." Y fue así. ³¹Y Dios vio todo lo que había hecho, y he aquí, *era* muy bueno. Y fue tarde, y fue mañana, el sexto día.
+²⁴Y Dios dijo: @@"Produzca la tierra seres vivos según su especie: ganado y cosas que se arrastran y animales de *la* tierra, según su especie."@@ Y fue así. ²⁵Y Dios hizo los animales de la tierra según su especie, y el ganado según su especie, y todo lo que se arrastra del suelo según su especie. Y Dios vio que bueno. ²⁶Y Dios dijo: @@"Hagamos *un* humano a nuestra imagen, conforme a nuestra semejanza, y dominen sobre *los* peces del mar y sobre *las* aves del cielo y sobre el ganado y sobre toda la tierra y sobre todo lo que se arrastra *que* se arrastra sobre la tierra."@@ ²⁷Y Dios creó al humano a su imagen; a *la* imagen de Dios lo creó; varón y hembra los creó. ²⁸Y Dios los bendijo, y Dios les dijo: @@"Sean fecundos y multiplíquense, y llenen la tierra y sojúzguenla, y dominen sobre *los* peces del mar y sobre *las* aves del cielo y sobre todo ser vivo *que* se mueve sobre la tierra."@@ ²⁹Y Dios dijo: @@"He aquí, les he dado toda hierba semillando semilla que *esta* sobre *la* faz de toda la tierra, y todo árbol en el cual *hay* fruto de *un* árbol semillando semilla; a ustedes será para alimento. ³⁰Y a todo ser vivo de la tierra y a toda ave del cielo y a todo lo que se arrastra sobre la tierra, en el cual *hay* ser vivo, toda hierba verde *será* para alimento."@@ Y fue así. ³¹Y Dios vio todo lo que había hecho, y he aquí, *era* muy bueno. Y fue tarde, y fue mañana, el sexto día.
 
 ---
 
@@ -100,7 +100,7 @@ En principio, Dios creó los cielos y la tierra.
 
 ### **Versículo 2**
 
-Y la tierra era caos y vacío, y tinieblas sobre la faz del abismo, y viento/espíritu de Dios *se cernia* sobre la faz de las aguas.
+Y la tierra era caos y vacío, y tinieblas sobre la faz del abismo, y {a:viento/espíritu} de Dios *se cernia* sobre la faz de las aguas.
 
 > **NOTAS**
 > 
@@ -116,7 +116,7 @@ Y la tierra era caos y vacío, y tinieblas sobre la faz del abismo, y viento/esp
 
 ### **Versículo 3**
 
-Y Dios dijo: "Haya luz," y luz fue.
+Y Dios dijo: @@"Haya luz,"@@ y luz fue.
 
 > **NOTAS**
 > 
@@ -155,7 +155,7 @@ Y Dios llamó a la luz "Día," y a las tinieblas llamó "Noche." Y fue tarde, y 
 
 ### **Versículo 6**
 
-Y Dios dijo: "Haya *un* raqia (extensión) dentro de las aguas, y sea un separador entre aguas y aguas."
+Y Dios dijo: @@"Haya *un* {t:raqia} (extensión) dentro de las aguas, y sea un separador entre aguas y aguas."@@
 
 > **NOTAS**
 > 
@@ -172,7 +172,7 @@ Y Dios dijo: "Haya *un* raqia (extensión) dentro de las aguas, y sea un separad
 
 ### **Versículo 7**
 
-Y Dios hizo el raqia, y separó entre las aguas que *estaban* debajo del raqia y entre las aguas que *estaban* sobre el raqia. Y fue así.
+Y Dios hizo el {t:raqia}, y separó entre las aguas que *estaban* debajo del {t:raqia} y entre las aguas que *estaban* sobre el {t:raqia}. Y fue así.
 
 > **NOTAS**
 > 
@@ -186,7 +186,7 @@ Y Dios hizo el raqia, y separó entre las aguas que *estaban* debajo del raqia y
 
 ### **Versículo 8**
 
-Y Dios llamó al raqia "Cielo." Y fue tarde, y fue mañana, segundo día.
+Y Dios llamó al {t:raqia} "Cielo." Y fue tarde, y fue mañana, segundo día.
 
 > **NOTAS**
 > 
@@ -201,7 +201,7 @@ Y Dios llamó al raqia "Cielo." Y fue tarde, y fue mañana, segundo día.
 
 ### **Versículo 9**
 
-Y Dios dijo: "Sean reunidas las aguas de debajo del cielo a un lugar, y sea vista la tierra seca." Y fue así.
+Y Dios dijo: @@"Sean reunidas las aguas de debajo del cielo a un lugar, y sea vista la tierra seca."@@ Y fue así.
 
 > **NOTAS**
 > 
@@ -228,7 +228,7 @@ Y Dios llamó a la tierra seca "Tierra," y a la reunión de las aguas llamó "Ma
 
 ### **Versículo 11**
 
-Y Dios dijo: "Produzca la tierra hierba, hierbas semillando semilla, árboles frutales haciendo fruto según su especie, cuya semilla *esta* en el, sobre la tierra." Y fue así.
+Y Dios dijo: @@"Produzca la tierra hierba, hierbas semillando semilla, árboles frutales haciendo fruto según su especie, cuya semilla *esta* en el, sobre la tierra."@@ Y fue así.
 
 > **NOTAS**
 > 
@@ -265,7 +265,7 @@ Y fue tarde, y fue mañana, tercer día.
 
 ### **Versículo 14**
 
-Y Dios dijo: "Haya luminares en el raqia, para separar entre el día y entre la noche, y sean para señales y para tiempos determinados y para días y años.
+Y Dios dijo: @@"Haya luminares en el {t:raqia}, para separar entre el día y entre la noche, y sean para señales y para tiempos determinados y para días y años.@@
 
 > **NOTAS**
 > 
@@ -282,7 +282,7 @@ Y Dios dijo: "Haya luminares en el raqia, para separar entre el día y entre la 
 
 ### **Versículo 15**
 
-Y sean para luminares en el raqia, para alumbrar sobre la tierra." Y fue así.
+@@Y sean para luminares en el {t:raqia}, para alumbrar sobre la tierra."@@ Y fue así.
 
 ---
 
@@ -306,7 +306,7 @@ Y Dios hizo los dos grandes luminares: el luminar mayor para dominio del día, y
 
 ### **Versículo 17**
 
-Y Dios los puso en el raqia, para alumbrar sobre la tierra.
+Y Dios los puso en el {t:raqia}, para alumbrar sobre la tierra.
 
 > **NOTAS**
 > 
@@ -334,7 +334,7 @@ Y fue tarde, y fue mañana, cuarto día.
 
 ### **Versículo 20**
 
-Y Dios dijo: "Pululen las aguas *de* enjambres de seres vivos, y aves vuelen sobre la tierra, sobre la faz del raqia."
+Y Dios dijo: @@"Pululen las aguas *de* enjambres de seres vivos, y aves vuelen sobre la tierra, sobre la faz del {t:raqia}."@@
 
 > **NOTAS**
 > 
@@ -368,7 +368,7 @@ Y Dios creó las grandes criaturas marinas, y todo ser vivo, los que se mueven q
 
 ### **Versículo 22**
 
-Y Dios los bendijo, diciendo: "Sean fecundos y multiplíquense, y llenen las aguas en los mares, y *que* se multipliquen las aves en la tierra."
+Y Dios los bendijo, diciendo: @@"Sean fecundos y multiplíquense, y llenen las aguas en los mares, y *que* se multipliquen las aves en la tierra."@@
 
 > **NOTAS**
 > 
@@ -389,7 +389,7 @@ Y fue tarde, y fue mañana, quinto día.
 
 ### **Versículo 24**
 
-Y Dios dijo: "Produzca la tierra seres vivos según su especie: ganado y cosas que se arrastran y animales de *la* tierra, según su especie." Y fue así.
+Y Dios dijo: @@"Produzca la tierra seres vivos según su especie: ganado y cosas que se arrastran y animales de *la* tierra, según su especie."@@ Y fue así.
 
 > **NOTAS**
 > 
@@ -417,7 +417,7 @@ Y Dios hizo los animales de la tierra según su especie, y el ganado según su e
 
 ### **Versículo 26**
 
-Y Dios dijo: "Hagamos *un* humano a nuestra imagen, conforme a nuestra semejanza, y dominen sobre *los* peces del mar y sobre *las* aves del cielo y sobre el ganado y sobre toda la tierra y sobre todo lo que se arrastra *que* se arrastra sobre la tierra."
+Y Dios dijo: @@"Hagamos *un* humano a nuestra imagen, conforme a nuestra semejanza, y dominen sobre *los* peces del mar y sobre *las* aves del cielo y sobre el ganado y sobre toda la tierra y sobre todo lo que se arrastra *que* se arrastra sobre la tierra."@@
 
 > **NOTAS**
 > 
@@ -462,7 +462,7 @@ Y Dios creó al humano a su imagen; a *la* imagen de Dios lo creó; varón y hem
 
 ### **Versículo 28**
 
-Y Dios los bendijo, y Dios les dijo: "Sean fecundos y multiplíquense, y llenen la tierra y sojúzguenla, y dominen sobre *los* peces del mar y sobre *las* aves del cielo y sobre todo ser vivo *que* se mueve sobre la tierra."
+Y Dios los bendijo, y Dios les dijo: @@"Sean fecundos y multiplíquense, y llenen la tierra y sojúzguenla, y dominen sobre *los* peces del mar y sobre *las* aves del cielo y sobre todo ser vivo *que* se mueve sobre la tierra."@@
 
 > **NOTAS**
 > 
@@ -483,7 +483,7 @@ Y Dios los bendijo, y Dios les dijo: "Sean fecundos y multiplíquense, y llenen 
 
 ### **Versículo 29**
 
-Y Dios dijo: "He aquí, les he dado toda hierba semillando semilla que *esta* sobre *la* faz de toda la tierra, y todo árbol en el cual *hay* fruto de *un* árbol semillando semilla; a ustedes será para alimento.
+Y Dios dijo: @@"He aquí, les he dado toda hierba semillando semilla que *esta* sobre *la* faz de toda la tierra, y todo árbol en el cual *hay* fruto de *un* árbol semillando semilla; a ustedes será para alimento.@@
 
 > **NOTAS**
 > 
@@ -500,7 +500,7 @@ Y Dios dijo: "He aquí, les he dado toda hierba semillando semilla que *esta* so
 
 ### **Versículo 30**
 
-Y a todo ser vivo de la tierra y a toda ave del cielo y a todo lo que se arrastra sobre la tierra, en el cual *hay* ser vivo, toda hierba verde *será* para alimento." Y fue así.
+@@Y a todo ser vivo de la tierra y a toda ave del cielo y a todo lo que se arrastra sobre la tierra, en el cual *hay* ser vivo, toda hierba verde *será* para alimento."@@ Y fue así.
 
 > **NOTAS**
 > 

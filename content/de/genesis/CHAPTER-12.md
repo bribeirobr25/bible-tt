@@ -60,11 +60,11 @@
 
 ---
 
-¹Und JHWH sprach zu Avram (Abram): „Geh, du selbst, aus deinem Land und aus deiner Geburtsstätte und aus dem Haus deines Vaters, in das Land, das ich dir zeigen werde. ²Und ich werde dich zu einer großen Nation machen, und ich werde dich segnen, und ich werde deinen Namen groß machen — und sei ein Segen. ³Und ich werde segnen, die dich segnen, und wer dich verachtet, den werde ich verfluchen, und alle Sippen des Bodens werden gesegnet werden / werden sich segnen in dir."
+¹Und JHWH sprach zu Avram (Abram): @@„Geh, du selbst, aus deinem Land und aus deiner Geburtsstätte und aus dem Haus deines Vaters, in das Land, das ich dir zeigen werde. ²Und ich werde dich zu einer großen Nation machen, und ich werde dich segnen, und ich werde deinen Namen groß machen — und sei ein Segen. ³Und ich werde segnen, die dich segnen, und wer dich verachtet, den werde ich verfluchen, und alle Sippen des Bodens {a:werden gesegnet werden/werden sich segnen} in dir."@@
 
 ⁴Und Abram ging, wie JHWH zu ihm gesprochen hatte, und Lot ging mit ihm; und Abram *war* fünfundsiebzig Jahre, ein Sohn von, als er aus Charan auszog. ⁵Und Abram nahm Sarai, seine Frau, und Lot, den Sohn seines Bruders, und all ihren Besitz, den sie gesammelt hatten, und die Personen, die sie in Charan gemacht hatten, und sie zogen aus, um in das Land Kenaan (Kanaan) zu gehen, und sie kamen in das Land Kanaan.
 
-⁶Und Abram durchzog das Land bis zum Ort Shekhem (Sichem), zur Eiche von Moreh; und der Kanaani *war* damals im Land. ⁷Und JHWH erschien dem Abram und sprach: „Deinem Samen werde ich dieses Land geben." Und er baute dort einen Altar für JHWH, der ihm erschienen war. ⁸Und er brach auf von dort zum Bergland östlich von Beyt-El (Bethel) und schlug sein Zelt auf — Bethel *war* im Westen und Ai *war* im Osten — und er baute dort einen Altar für JHWH und rief den Namen JHWHs an. ⁹Und Abram brach auf, ziehend und reisend Richtung Negev.
+⁶Und Abram durchzog das Land bis zum Ort Shekhem (Sichem), zur Eiche von Moreh; und der Kanaani *war* damals im Land. ⁷Und JHWH erschien dem Abram und sprach: @@„Deinem Samen werde ich dieses Land geben."@@ Und er baute dort einen Altar für JHWH, der ihm erschienen war. ⁸Und er brach auf von dort zum Bergland östlich von Beyt-El (Bethel) und schlug sein Zelt auf — Bethel *war* im Westen und Ai *war* im Osten — und er baute dort einen Altar für JHWH und rief den Namen JHWHs an. ⁹Und Abram brach auf, ziehend und reisend Richtung Negev.
 
 ¹⁰Und es war eine Hungersnot im Land, und Abram stieg hinab nach Ägypten, um dort als Fremdling zu weilen, denn die Hungersnot *war* schwer im Land. ¹¹Und es geschah, als er sich näherte, nach Ägypten einzutreten, und er sprach zu Sarai, seiner Frau: „Siehe, ich weiß, dass du *eine* Frau *bist*, schön von Aussehen. ¹²Und es wird sein, wenn die Ägypter dich sehen, und sie werden sagen: ‚Dies *ist* seine Frau,' und sie werden mich töten, und dich werden sie am Leben lassen. ¹³Sag doch, *dass* du meine Schwester *bist*, damit es mir wohl ergehe deinetwegen, und mein Leben lebe um deinetwillen."
 
@@ -78,7 +78,7 @@
 
 ### **Vers 1**
 
-Und JHWH sprach zu Avram (Abram): „Geh, du selbst, aus deinem Land und aus deiner Geburtsstätte und aus dem Haus deines Vaters, in das Land, das ich dir zeigen werde.
+Und JHWH sprach zu Avram (Abram): @@„Geh, du selbst, aus deinem Land und aus deiner Geburtsstätte und aus dem Haus deines Vaters, in das Land, das ich dir zeigen werde.@@
 
 > **📝 NOTIZEN**
 >
@@ -95,7 +95,7 @@ Und JHWH sprach zu Avram (Abram): „Geh, du selbst, aus deinem Land und aus dei
 
 ### **Vers 2**
 
-Und ich werde dich zu einer großen Nation machen, und ich werde dich segnen, und ich werde deinen Namen groß machen — und sei ein Segen.
+@@Und ich werde dich zu einer großen Nation machen, und ich werde dich segnen, und ich werde deinen Namen groß machen — und sei ein Segen.@@
 
 > **📝 NOTIZEN**
 >
@@ -109,7 +109,7 @@ Und ich werde dich zu einer großen Nation machen, und ich werde dich segnen, un
 
 ### **Vers 3**
 
-Und ich werde segnen, die dich segnen, und wer dich verachtet, den werde ich verfluchen, und alle Sippen des Bodens werden gesegnet werden / werden sich segnen in dir."
+@@Und ich werde segnen, die dich segnen, und wer dich verachtet, den werde ich verfluchen, und alle Sippen des Bodens {a:werden gesegnet werden/werden sich segnen} in dir."@@
 
 > **📝 NOTIZEN**
 >
@@ -173,7 +173,7 @@ Und Abram durchzog das Land bis zum Ort Shekhem (Sichem), zur Eiche von Moreh; u
 
 ### **Vers 7**
 
-Und JHWH erschien dem Abram und sprach: „Deinem Samen werde ich dieses Land geben." Und er baute dort einen Altar für JHWH, der ihm erschienen war.
+Und JHWH erschien dem Abram und sprach: @@„Deinem Samen werde ich dieses Land geben."@@ Und er baute dort einen Altar für JHWH, der ihm erschienen war.
 
 > **📝 NOTIZEN**
 >

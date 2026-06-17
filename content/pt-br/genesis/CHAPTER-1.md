@@ -59,17 +59,17 @@
 
 ---
 
-¹Em princípio, Deus criou os céus e a terra. ²E a terra estava caos e vazio, e trevas sobre a face do abismo, e vento/espírito de Deus pairando sobre a face das águas. ³E Deus disse: "Haja luz," e luz foi. ⁴E Deus viu a luz, que bom, e Deus separou entre a luz e entre as trevas. ⁵E Deus chamou à luz "Dia," e às trevas chamou "Noite." E foi tarde, e foi manhã, um dia.
+¹Em princípio, Deus criou os céus e a terra. ²E a terra estava caos e vazio, e trevas sobre a face do abismo, e {a:vento/espírito} de Deus pairando sobre a face das águas. ³E Deus disse: @@"Haja luz,"@@ e luz foi. ⁴E Deus viu a luz, que bom, e Deus separou entre a luz e entre as trevas. ⁵E Deus chamou à luz "Dia," e às trevas chamou "Noite." E foi tarde, e foi manhã, um dia.
 
-⁶E Deus disse: "Haja raqia (expansão) dentro das águas, e seja um separador entre águas e águas." ⁷E Deus fez o raqia, e separou entre as águas que debaixo do raqia e entre as águas que acima do raqia. E foi assim. ⁸E Deus chamou ao raqia "Céu." E foi tarde, e foi manhã, segundo dia.
+⁶E Deus disse: @@"Haja {t:raqia} (expansão) dentro das águas, e seja um separador entre águas e águas."@@ ⁷E Deus fez o {t:raqia}, e separou entre as águas que debaixo do {t:raqia} e entre as águas que acima do {t:raqia}. E foi assim. ⁸E Deus chamou ao {t:raqia} "Céu." E foi tarde, e foi manhã, segundo dia.
 
-⁹E Deus disse: "Sejam ajuntadas as águas de debaixo do céu a um lugar, e seja vista a terra seca." E foi assim. ¹⁰E Deus chamou à terra seca "Terra," e ao ajuntamento das águas chamou "Mares." E Deus viu que bom. ¹¹E Deus disse: "Produza a terra relva, ervas semeando semente, árvores frutíferas fazendo fruto segundo a sua espécie, cuja semente nela, sobre a terra." E foi assim. ¹²E a terra produziu relva, ervas semeando semente segundo a sua espécie, e árvores fazendo fruto cuja semente nela, segundo a sua espécie. E Deus viu que bom. ¹³E foi tarde, e foi manhã, terceiro dia.
+⁹E Deus disse: @@"Sejam ajuntadas as águas de debaixo do céu a um lugar, e seja vista a terra seca."@@ E foi assim. ¹⁰E Deus chamou à terra seca "Terra," e ao ajuntamento das águas chamou "Mares." E Deus viu que bom. ¹¹E Deus disse: @@"Produza a terra relva, ervas semeando semente, árvores frutíferas fazendo fruto segundo a sua espécie, cuja semente nela, sobre a terra."@@ E foi assim. ¹²E a terra produziu relva, ervas semeando semente segundo a sua espécie, e árvores fazendo fruto cuja semente nela, segundo a sua espécie. E Deus viu que bom. ¹³E foi tarde, e foi manhã, terceiro dia.
 
-¹⁴E Deus disse: "Haja luminares no raqia, para separar entre o dia e entre a noite, e sejam para sinais e para tempos determinados e para dias e anos. ¹⁵E sejam para luminares no raqia, para alumiar sobre a terra." E foi assim. ¹⁶E Deus fez os dois grandes luminares: o luminar maior para domínio do dia, e o luminar menor para domínio da noite, e as estrelas. ¹⁷E Deus os colocou no raqia, para alumiar sobre a terra. ¹⁸E para dominar no dia e na noite, e para separar entre a luz e entre as trevas. E Deus viu que bom. ¹⁹E foi tarde, e foi manhã, quarto dia.
+¹⁴E Deus disse: @@"Haja luminares no {t:raqia}, para separar entre o dia e entre a noite, e sejam para sinais e para tempos determinados e para dias e anos. ¹⁵E sejam para luminares no {t:raqia}, para alumiar sobre a terra."@@ E foi assim. ¹⁶E Deus fez os dois grandes luminares: o luminar maior para domínio do dia, e o luminar menor para domínio da noite, e as estrelas. ¹⁷E Deus os colocou no {t:raqia}, para alumiar sobre a terra. ¹⁸E para dominar no dia e na noite, e para separar entre a luz e entre as trevas. E Deus viu que bom. ¹⁹E foi tarde, e foi manhã, quarto dia.
 
-²⁰E Deus disse: "Pululem as águas enxames de seres vivos, e aves voem sobre a terra, sobre a face do raqia." ²¹E Deus criou as grandes criaturas marinhas, e todo ser vivo, os que se movem que as águas pulularam, segundo as suas espécies, e toda ave alada segundo a sua espécie. E Deus viu que bom. ²²E Deus os abençoou, dizendo: "Frutificai e multiplicai-vos, e enchei as águas nos mares, e multipliquem-se as aves na terra." ²³E foi tarde, e foi manhã, quinto dia.
+²⁰E Deus disse: @@"Pululem as águas enxames de seres vivos, e aves voem sobre a terra, sobre a face do {t:raqia}."@@ ²¹E Deus criou as grandes criaturas marinhas, e todo ser vivo, os que se movem que as águas pulularam, segundo as suas espécies, e toda ave alada segundo a sua espécie. E Deus viu que bom. ²²E Deus os abençoou, dizendo: @@"Frutificai e multiplicai-vos, e enchei as águas nos mares, e multipliquem-se as aves na terra."@@ ²³E foi tarde, e foi manhã, quinto dia.
 
-²⁴E Deus disse: "Produza a terra seres vivos segundo a sua espécie: gado e répteis e animais da terra, segundo a sua espécie." E foi assim. ²⁵E Deus fez os animais da terra segundo a sua espécie, e o gado segundo a sua espécie, e todo réptil do solo segundo a sua espécie. E Deus viu que bom. ²⁶E Deus disse: "Façamos *um* humano à nossa imagem, conforme a nossa semelhança, e dominem sobre os peixes do mar e sobre as aves do céu e sobre o gado e sobre toda a terra e sobre todo réptil que se move sobre a terra." ²⁷E Deus criou o humano à sua imagem; à imagem de Deus o criou; macho e fêmea os criou. ²⁸E Deus os abençoou, e Deus lhes disse: "Frutificai e multiplicai-vos, e enchei a terra e sujeitai-a, e dominai sobre os peixes do mar e sobre as aves do céu e sobre todo animal que se move sobre a terra." ²⁹E Deus disse: "Eis que vos dei toda erva semeando semente que *está* sobre a face de toda a terra, e toda árvore em que *há* fruto de árvore semeando semente; a vós será para alimento. ³⁰E a todo animal da terra e a toda ave do céu e a todo réptil sobre a terra, em que *há* ser vivo, toda erva verde para alimento." E foi assim. ³¹E Deus viu tudo o que havia feito, e eis que muito bom. E foi tarde, e foi manhã, o sexto dia.
+²⁴E Deus disse: @@"Produza a terra seres vivos segundo a sua espécie: gado e répteis e animais da terra, segundo a sua espécie."@@ E foi assim. ²⁵E Deus fez os animais da terra segundo a sua espécie, e o gado segundo a sua espécie, e todo réptil do solo segundo a sua espécie. E Deus viu que bom. ²⁶E Deus disse: @@"Façamos *um* humano à nossa imagem, conforme a nossa semelhança, e dominem sobre os peixes do mar e sobre as aves do céu e sobre o gado e sobre toda a terra e sobre todo réptil que se move sobre a terra."@@ ²⁷E Deus criou o humano à sua imagem; à imagem de Deus o criou; macho e fêmea os criou. ²⁸E Deus os abençoou, e Deus lhes disse: @@"Frutificai e multiplicai-vos, e enchei a terra e sujeitai-a, e dominai sobre os peixes do mar e sobre as aves do céu e sobre todo animal que se move sobre a terra."@@ ²⁹E Deus disse: @@"Eis que vos dei toda erva semeando semente que *está* sobre a face de toda a terra, e toda árvore em que *há* fruto de árvore semeando semente; a vós será para alimento. ³⁰E a todo animal da terra e a toda ave do céu e a todo réptil sobre a terra, em que *há* ser vivo, toda erva verde para alimento."@@ E foi assim. ³¹E Deus viu tudo o que havia feito, e eis que muito bom. E foi tarde, e foi manhã, o sexto dia.
 
 ---
 
@@ -98,7 +98,7 @@ Em princípio, Deus criou os céus e a terra.
 
 ### **Versículo 2**
 
-E a terra estava caos e vazio, e trevas sobre a face do abismo, e vento/espírito de Deus pairando sobre a face das águas.
+E a terra estava caos e vazio, e trevas sobre a face do abismo, e {a:vento/espírito} de Deus pairando sobre a face das águas.
 
 > **📝 NOTAS**
 > 
@@ -114,7 +114,7 @@ E a terra estava caos e vazio, e trevas sobre a face do abismo, e vento/espírit
 
 ### **Versículo 3**
 
-E Deus disse: "Haja luz," e luz foi.
+E Deus disse: @@"Haja luz,"@@ e luz foi.
 
 > **📝 NOTAS**
 > 
@@ -154,7 +154,7 @@ E Deus chamou à luz "Dia," e às trevas chamou "Noite." E foi tarde, e foi manh
 
 ### **Versículo 6**
 
-E Deus disse: "Haja raqia (expansão) dentro das águas, e seja um separador entre águas e águas."
+E Deus disse: @@"Haja {t:raqia} (expansão) dentro das águas, e seja um separador entre águas e águas."@@
 
 > **📝 NOTAS**
 > 
@@ -171,7 +171,7 @@ E Deus disse: "Haja raqia (expansão) dentro das águas, e seja um separador ent
 
 ### **Versículo 7**
 
-E Deus fez o raqia, e separou entre as águas que debaixo do raqia e entre as águas que acima do raqia. E foi assim.
+E Deus fez o {t:raqia}, e separou entre as águas que debaixo do {t:raqia} e entre as águas que acima do {t:raqia}. E foi assim.
 
 > **📝 NOTAS**
 > 
@@ -185,7 +185,7 @@ E Deus fez o raqia, e separou entre as águas que debaixo do raqia e entre as á
 
 ### **Versículo 8**
 
-E Deus chamou ao raqia "Céu." E foi tarde, e foi manhã, segundo dia.
+E Deus chamou ao {t:raqia} "Céu." E foi tarde, e foi manhã, segundo dia.
 
 > **📝 NOTAS**
 > 
@@ -200,7 +200,7 @@ E Deus chamou ao raqia "Céu." E foi tarde, e foi manhã, segundo dia.
 
 ### **Versículo 9**
 
-E Deus disse: "Sejam ajuntadas as águas de debaixo do céu a um lugar, e seja vista a terra seca." E foi assim.
+E Deus disse: @@"Sejam ajuntadas as águas de debaixo do céu a um lugar, e seja vista a terra seca."@@ E foi assim.
 
 > **📝 NOTAS**
 > 
@@ -227,7 +227,7 @@ E Deus chamou à terra seca "Terra," e ao ajuntamento das águas chamou "Mares."
 
 ### **Versículo 11**
 
-E Deus disse: "Produza a terra relva, ervas semeando semente, árvores frutíferas fazendo fruto segundo a sua espécie, cuja semente nela, sobre a terra." E foi assim.
+E Deus disse: @@"Produza a terra relva, ervas semeando semente, árvores frutíferas fazendo fruto segundo a sua espécie, cuja semente nela, sobre a terra."@@ E foi assim.
 
 > **📝 NOTAS**
 > 
@@ -264,7 +264,7 @@ E foi tarde, e foi manhã, terceiro dia.
 
 ### **Versículo 14**
 
-E Deus disse: "Haja luminares no raqia, para separar entre o dia e entre a noite, e sejam para sinais e para tempos determinados e para dias e anos.
+E Deus disse: @@"Haja luminares no {t:raqia}, para separar entre o dia e entre a noite, e sejam para sinais e para tempos determinados e para dias e anos.@@
 
 > **📝 NOTAS**
 > 
@@ -281,7 +281,7 @@ E Deus disse: "Haja luminares no raqia, para separar entre o dia e entre a noite
 
 ### **Versículo 15**
 
-E sejam para luminares no raqia, para alumiar sobre a terra." E foi assim.
+@@E sejam para luminares no {t:raqia}, para alumiar sobre a terra."@@ E foi assim.
 
 ---
 
@@ -305,7 +305,7 @@ E Deus fez os dois grandes luminares: o luminar maior para domínio do dia, e o 
 
 ### **Versículo 17**
 
-E Deus os colocou no raqia, para alumiar sobre a terra.
+E Deus os colocou no {t:raqia}, para alumiar sobre a terra.
 
 > **📝 NOTAS**
 > 
@@ -333,7 +333,7 @@ E foi tarde, e foi manhã, quarto dia.
 
 ### **Versículo 20**
 
-E Deus disse: "Pululem as águas enxames de seres vivos, e aves voem sobre a terra, sobre a face do raqia."
+E Deus disse: @@"Pululem as águas enxames de seres vivos, e aves voem sobre a terra, sobre a face do {t:raqia}."@@
 
 > **📝 NOTAS**
 > 
@@ -367,7 +367,7 @@ E Deus criou as grandes criaturas marinhas, e todo ser vivo, os que se movem que
 
 ### **Versículo 22**
 
-E Deus os abençoou, dizendo: "Frutificai e multiplicai-vos, e enchei as águas nos mares, e multipliquem-se as aves na terra."
+E Deus os abençoou, dizendo: @@"Frutificai e multiplicai-vos, e enchei as águas nos mares, e multipliquem-se as aves na terra."@@
 
 > **📝 NOTAS**
 > 
@@ -388,7 +388,7 @@ E foi tarde, e foi manhã, quinto dia.
 
 ### **Versículo 24**
 
-E Deus disse: "Produza a terra seres vivos segundo a sua espécie: gado e répteis e animais da terra, segundo a sua espécie." E foi assim.
+E Deus disse: @@"Produza a terra seres vivos segundo a sua espécie: gado e répteis e animais da terra, segundo a sua espécie."@@ E foi assim.
 
 > **📝 NOTAS**
 > 
@@ -416,7 +416,7 @@ E Deus fez os animais da terra segundo a sua espécie, e o gado segundo a sua es
 
 ### **Versículo 26**
 
-E Deus disse: "Façamos *um* humano à nossa imagem, conforme a nossa semelhança, e dominem sobre os peixes do mar e sobre as aves do céu e sobre o gado e sobre toda a terra e sobre todo réptil que se move sobre a terra."
+E Deus disse: @@"Façamos *um* humano à nossa imagem, conforme a nossa semelhança, e dominem sobre os peixes do mar e sobre as aves do céu e sobre o gado e sobre toda a terra e sobre todo réptil que se move sobre a terra."@@
 
 > **📝 NOTAS**
 > 
@@ -461,7 +461,7 @@ E Deus criou o humano à sua imagem; à imagem de Deus o criou; macho e fêmea o
 
 ### **Versículo 28**
 
-E Deus os abençoou, e Deus lhes disse: "Frutificai e multiplicai-vos, e enchei a terra e sujeitai-a, e dominai sobre os peixes do mar e sobre as aves do céu e sobre todo animal que se move sobre a terra."
+E Deus os abençoou, e Deus lhes disse: @@"Frutificai e multiplicai-vos, e enchei a terra e sujeitai-a, e dominai sobre os peixes do mar e sobre as aves do céu e sobre todo animal que se move sobre a terra."@@
 
 > **📝 NOTAS**
 > 
@@ -482,7 +482,7 @@ E Deus os abençoou, e Deus lhes disse: "Frutificai e multiplicai-vos, e enchei 
 
 ### **Versículo 29**
 
-E Deus disse: "Eis que vos dei toda erva semeando semente que *está* sobre a face de toda a terra, e toda árvore em que *há* fruto de árvore semeando semente; a vós será para alimento.
+E Deus disse: @@"Eis que vos dei toda erva semeando semente que *está* sobre a face de toda a terra, e toda árvore em que *há* fruto de árvore semeando semente; a vós será para alimento.@@
 
 > **📝 NOTAS**
 > 
@@ -499,7 +499,7 @@ E Deus disse: "Eis que vos dei toda erva semeando semente que *está* sobre a fa
 
 ### **Versículo 30**
 
-E a todo animal da terra e a toda ave do céu e a todo réptil sobre a terra, em que *há* ser vivo, toda erva verde para alimento." E foi assim.
+@@E a todo animal da terra e a toda ave do céu e a todo réptil sobre a terra, em que *há* ser vivo, toda erva verde para alimento."@@ E foi assim.
 
 > **📝 NOTAS**
 > 
