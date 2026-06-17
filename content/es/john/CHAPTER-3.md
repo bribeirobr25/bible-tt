@@ -28,17 +28,11 @@
 
 ## GUÍA DE LECTURA
 
-**📖 Texto Principal:** Traducción primaria — legible pero fiel a la estructura griega
-**📝 Notas:** Características griegas esenciales inmediatamente debajo de cada versículo
+**Texto Principal:** Traducción primaria — legible pero fiel a la estructura griega
+**Notas:** Características griegas esenciales inmediatamente debajo de cada versículo
 ***Cursiva:*** Palabras agregadas para la gramática española (no presentes en el texto griego)
 **"Comillas":** Discurso directo
 **el Señor:** kyrios traducido según la Política GS del Nombre Divino (Opción C) al citar pasajes del AT que contienen YHWH
-
-**Iconos de Notas:**
-- 🔴 **CRÍTICO** - Decisiones textuales o traductoras importantes
-- 🟢 **LÉXICO** - Significados de palabras, rango semántico, términos del glosario
-- 🔵 **GRAMATICAL** - Estructura griega, aspecto verbal, sintaxis
-- 🟡 **TEOLOGICO** - Opciónes interpretativas, preservacion de ambiguedad
 
 **Este capítulo contiene el versículo mas citado de la Biblia (3:16) y una de las ambiguedades de traducción mas importantes del Evangelio: anothen (*anothen*) en v.3, que significa tanto "de arriba" (espacial) como "de nuevo" (temporal). La TT preserva el doble significado con una barra — "de arriba/de nuevo" — porque el lector griego habria escuchado ambos sentidos simultaneamente. Nikodemos oye solo "de nuevo"; Yeshua quiere decir "de arriba." El poder del texto depende de la ambiguedad. Los nombres propios siguen la transliteracion TT: Nikodemos (no Nicodemo), Yeshua (no Jesus), Yochanan (no Juan), Mosheh (no Moises). La traducción "vida de la era" (no "vida eterna") en vv.15-16 refleja aionios (*aionios*), que se relaciona con aion (*aion*, "era") — una cualidad de vida que pertenece a la era venidera, no una declaración sobre la atemporalidad.**
 
@@ -82,7 +76,7 @@
 
 Y había un hombre de los perushim — Nikodemos *era* su nombre — un dirigente de los yehudim.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **NIKODEMOS — TRANSLITERACION TT**
 > - **Nikodemos** (*Nikodemos*) = nombre griego que significa "victoria del pueblo" (nike + demos). La TT retiene la forma de origen griego "Nikodemos" según la política de transliteracion. Reaparece en 7:50 y 19:39.
@@ -96,7 +90,7 @@ Y había un hombre de los perushim — Nikodemos *era* su nombre — un dirigent
 
 Este vino a el de noche y le dijo: "Rabbi, sabemos que has venido de Dios *como* maestro, pues nadie puede hacer estas señales que tu haces a menos que Dios este con el."
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟡 **"DE NOCHE" — *NYKTOS***
 > - **nyktos** (*nyktos*) = genitivo de tiempo, "de/durante la noche." El detalle puede ser puramente circunstancial, o puede tener peso simbolico — noche/oscuridad es una categoría cargada en Juan (cf. 1:5; 9:4; 13:30 "y era de noche"). El texto no explica por que Nikodemos viene de noche. Temor a la asociacion, discrecion y la costumbre de estudiar Torah de noche han sido propuestos. La TT registra el hecho sin interpretar el motivo.
@@ -110,7 +104,7 @@ Este vino a el de noche y le dijo: "Rabbi, sabemos que has venido de Dios *como*
 
 Yeshua respondió y le dijo: @@"Amen, amen, te digo, a menos que alguien nazca {a:de arriba/de nuevo}, no puede ver el reino de Dios."@@
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **CRÍTICO — *ANOTHEN* ("DE ARRIBA/DE NUEVO")**
 > - **gennethe anothen** (*gennethe anothen*) = "nacido de arriba/de nuevo." El adverbio anothen (*anothen*) tiene dos significados establecidos: (1) "de arriba" — espacial, indicando origen celestial (usado así en Juan 3:31, 19:11, 19:23); (2) "de nuevo" — temporal, indicando repetición (usado así en Gal 4:9). **Ambos significados son linguisticamente validos en este contexto.** Nikodemos oye el sentido (2) y objeta: "¿Cómo puede un hombre nacer *de nuevo*?" Yeshua se refiere al sentido (1): nacimiento "de arriba," de origen divino. El malentendido impulsa el dialogo. Esta es una ambiguedad genuina de la Regla 2 — el lector griego habria percibido ambos sentidos simultaneamente. La TT preserva ambos con una barra: "de arriba/de nuevo." Cualquier traducción que elija solo un significado destruye el juego de palabras que estructura todo el pasaje.
@@ -127,7 +121,7 @@ Yeshua respondió y le dijo: @@"Amen, amen, te digo, a menos que alguien nazca {
 
 Nikodemos le dice: "¿Cómo puede un hombre nacer siendo viejo? ¿Acaso puede entrar por segunda vez en el vientre de su madre y nacer?"
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **PREGUNTA RETORICA — PARTICULA *ME***
 > - **me dynatai** (*me dynatai*) — la particula me senala que se espera una respuesta negativa: "¿Acaso puede... no es así?" Nikodemos no hace una pregunta genuina sino que expresa incredulidad. Ha oido *anothen* como "de nuevo" (temporal) y lo toma literalmente — reingreso físico al vientre.
@@ -141,7 +135,7 @@ Nikodemos le dice: "¿Cómo puede un hombre nacer siendo viejo? ¿Acaso puede en
 
 Yeshua respondió: @@"Amen, amen, te digo, a menos que alguien nazca de agua y {a:viento/espíritu}, no puede entrar en el reino de Dios."@@
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **CRÍTICO — "AGUA Y VIENTO/ESPIRITU"**
 > - **ex hydatos kai pneumatos** (*ex hydatos kai pneumatos*) = "de agua y viento/espíritu." El significado de "agua" aquí es una de las preguntas mas debatidas en los estudios joanicos. Lecturas propuestas:
@@ -160,7 +154,7 @@ Yeshua respondió: @@"Amen, amen, te digo, a menos que alguien nazca de agua y {
 
 @@Lo que ha nacido de la carne es carne, y lo que ha nacido del {a:viento/espíritu} es {a:viento/espíritu}.@@
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **PARTICIPIO PERFECTO PASIVO — *TO GEGENNEMENON***
 > - **to gegennemenon** (*to gegennemenon*) = "lo que ha nacido" — participio perfecto pasivo neutro. El neutro senala un principio general (no una persona especifica). El tiempo perfecto indica un estado completado con resultados continuos: lo que ha nacido de la carne *permanece* carne.
@@ -174,7 +168,7 @@ Yeshua respondió: @@"Amen, amen, te digo, a menos que alguien nazca de agua y {
 
 @@No te maravilles de que te dije: "Ustedes deben nacer {a:de arriba/de nuevo}."@@
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **SEGUNDA PERSONA PLURAL — *HYMAS***
 > - **hymas** (*hymas*) = "ustedes" (plural). Yeshua cambia del singular (dirigiendose a Nikodemos) al plural ("ustedes deben nacer de arriba/de nuevo"). El requisito se aplica más allá de Nikodemos a una audiencia mas amplia. Algunos ven esto como el punto donde el dialogo se convierte en un discurso dirigido a la comunidad.
@@ -188,7 +182,7 @@ Yeshua respondió: @@"Amen, amen, te digo, a menos que alguien nazca de agua y {
 
 @@El {a:viento/espíritu} sopla donde quiere, y oyes su sonido, pero no sabes de donde viene ni adonde va; así es todo el que ha nacido del {a:viento/espíritu}.@@
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **CRÍTICO — JUEGO DE PALABRAS CON *PNEUMA* (VIENTO Y ESPIRITU)**
 > - **to pneuma hopou thelei pnei** (*to pneuma hopou thelei pnei*) = "el viento/espíritu sopla donde quiere." Este versículo contiene el juego de palabras mas importante con *pneuma* en el Nuevo Testamento. La palabra pneuma significa *tanto* "viento" *como* "espíritu." El verbo pnei (*pnei*, "sopla") pertenece al dominio físico — el viento sopla. Pero la conclusión ("así es todo el que ha nacido del viento/espíritu") pertenece al dominio espiritual. La oración funciona en dos niveles simultaneamente: una observación meteorologica sobre el viento *y* una declaración teológica sobre el espíritu. Cualquier traducción que traduzca *pneuma* como solo "viento" o solo "espíritu" destruye el doble significado. La TT preserva ambos con la barra.
@@ -205,7 +199,7 @@ Yeshua respondió: @@"Amen, amen, te digo, a menos que alguien nazca de agua y {
 
 Nikodemos respondió y le dijo: "¿Cómo pueden ser estas cosas?"
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟡 **"¿COMO?" — LA ULTIMA PREGUNTA DE NIKODEMOS**
 > - **pos dynatai tauta genesthai** = "¿Cómo pueden suceder estas cosas?" Nikodemos pregunta "¿Cómo?" tres veces en este dialogo (vv.4, 9, implicito en v.4b). Sus preguntas van de la incredulidad al desconcierto. Después del v.9, Nikodemos calla — el dialogo se convierte en monologo. El texto nunca registra su respuesta a la enseñanza de Yeshua.
@@ -216,7 +210,7 @@ Nikodemos respondió y le dijo: "¿Cómo pueden ser estas cosas?"
 
 Yeshua respondió y le dijo: @@"¿Tu eres el maestro de Yisrael y no sabes estas cosas?"@@
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **"EL MAESTRO" — *HO DIDASKALOS***
 > - **sy ei ho didaskalos tou Israel** = "Tu eres *el* maestro de Yisrael." El articulo (*ho*) es enfatico: no *un* maestro sino *el* maestro — sugiriendo una autoridad reconocida, quizas un erudito destacado. El reproche es agudo: si alguien deberia entender el nacimiento celestial y el viento/espíritu, es el maestro autorizado de Yisrael — el que conoce Ez 36-37 (la promesa de un nuevo espíritu y el valle de los huesos secos).
@@ -227,7 +221,7 @@ Yeshua respondió y le dijo: @@"¿Tu eres el maestro de Yisrael y no sabes estas
 
 @@Amen, amen, te digo, hablamos lo que sabemos y testificamos *de* lo que hemos visto, y ustedes no reciben nuestro testimonio.@@
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **CAMBIO AL PLURAL — "HABLAMOS... TESTIFICAMOS"**
 > - **laloumen... martyroumen** = primera persona plural. Yeshua cambia de "yo" a "nosotros"; la ambigüedad no se resuelve. → Para las lecturas propuestas del "nosotros" (Yeshua + Padre / Yeshua + seguidores / comunidad joánica dirigiéndose a la sinagoga) y la discusión sobre capas de discurso, vea el compañero del capítulo §C.
@@ -241,7 +235,7 @@ Yeshua respondió y le dijo: @@"¿Tu eres el maestro de Yisrael y no sabes estas
 
 @@Si les dije cosas terrenales y no confían, ¿como confiaran si les digo cosas celestiales?@@
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟡 **"COSAS TERRENALES" / "COSAS CELESTIALES"**
 > - **ta epigeia** (*ta epigeia*) = cosas terrenales; **ta epourania** (*ta epourania*) = cosas celestiales. ¿Cuales son las "cosas terrenales"? ¿La metáfora del nacimiento (algo observable en la tierra — nacimiento, viento)? ¿O la necesidad basica de renacimiento espiritual? Si las "cosas terrenales" ya están más allá de la comprension de Nikodemos, las "cosas celestiales" (el ascenso y descenso del Hijo del Hombre, el plan divino de vv.14-16) seran aún más. El texto establece una jerarquia de revelación.
@@ -252,7 +246,7 @@ Yeshua respondió y le dijo: @@"¿Tu eres el maestro de Yisrael y no sabes estas
 
 @@Y nadie ha subido al cielo excepto el que bajo del cielo — el hijo del hombre.@@
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **CRÍTICO — VARIANTE TEXTUAL**
 > - Algunos manuscritos agregan **ho on en to ourano** (*ho on en to ourano*) = "que está en el cielo" — haciendo que el Hijo del Hombre este simultaneamente en la tierra y en el cielo. Esta lectura se encuentra en el texto bizantino y algunos testigos importantes pero esta ausente de los papiros mas antiguos y los grandes unciales (P66, P75, Sinatico, Vaticano). NA28 lo omite. La TT sigue NA28 y no incluye la frase, pero la variante debe anotarse: refleja una tradición temprana de la presencia celestial simultanea del Hijo del Hombre.
@@ -266,7 +260,7 @@ Yeshua respondió y le dijo: @@"¿Tu eres el maestro de Yisrael y no sabes estas
 
 @@Y así como Mosheh levanto la serpiente en el desierto, así debe ser levantado el hijo del hombre,@@
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **CRÍTICO — "LEVANTADO" (*HYPSOTHENAI*) — DOBLE SIGNIFICADO**
 > - **hypsothenai** (*hypsothenai*) = "ser levantado." El verbo hypsoo (*hypsoo*) porta dos sentidos en Juan: (1) levantamiento físico — crucifixion (ser elevado en una cruz); (2) exaltacion — glorificacion (ser elevado a honor). Juan usa este verbo en tres puntos críticos (3:14; 8:28; 12:32-34), y en cada caso ambos sentidos están operativos. La crucifixion *es* la exaltacion. La TT traduce "levantado" y registra el doble significado.
@@ -280,7 +274,7 @@ Yeshua respondió y le dijo: @@"¿Tu eres el maestro de Yisrael y no sabes estas
 
 @@para que todo el que confie en el tenga vida de la era.@@
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **"VIDA DE LA ERA" — *ZOE AIONIOS***
 > - **zoen aionion** (*zoen aionion*) = "vida de la era." El adjetivo aionios (*aionios*) deriva de aion (*aion*, "era/época") — designa vida que pertenece a la era venidera, la vida de la era por venir. La traducción tradicional "vida eterna" importa un concepto filosófico (atemporalidad, infinitud) que el término griego no necesariamente porta. El trasfondo hebreo/arameo (chayyei olam, *chayyei olam*) igualmente significa "vida de la era" — la vida del mundo/era por venir. La TT traduce literalmente.
@@ -294,7 +288,7 @@ Yeshua respondió y le dijo: @@"¿Tu eres el maestro de Yisrael y no sabes estas
 
 @@"Porque de tal manera amo Dios al mundo que dio al hijo único-nacido, para que todo el que confie en el no perezca sino que tenga vida de la era."@@
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **CRÍTICO — EL VERSICULO MAS CITADO DE LA BIBLIA**
 > - **Houtos gar egapesen ho theos ton kosmon** = "Porque de tal manera amo Dios al mundo." El adverbio **houtos** (*houtos*) = "de esta manera, así, de tal modo" — modifica la manera de amar, no el grado. La clausula dice "Dios amo al mundo *de esta manera*: que dio..." en lugar de "Dios amo al mundo *tanto* que..." Ambas lecturas son gramaticalmente posibles, pero el sentido primario de *houtos* es manera ("de esta manera"), no grado ("a tal punto").
@@ -314,7 +308,7 @@ Yeshua respondió y le dijo: @@"¿Tu eres el maestro de Yisrael y no sabes estas
 
 @@Porque Dios no envió al hijo al mundo para que juzgara al mundo, sino para que el mundo fuera salvado por medio de él.@@
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **"JUZGAR" — *KRINO***
 > - **krine** (*krine*) = subjuntivo de krino (*krino*) = "juzgar." NO "condenar" — muchas traducciones traducen "condenar" aquí, pero krino significa "juzgar, evaluar, decidir." El sentido negativo ("condenar") requiere un prefijo: katakrino (*katakrino*). La TT traduce la palabra real.
@@ -328,7 +322,7 @@ Yeshua respondió y le dijo: @@"¿Tu eres el maestro de Yisrael y no sabes estas
 
 @@El que confia en el no es juzgado; el que no confia ya ha sido juzgado, porque no ha confiado en el nombre del hijo único-nacido de Dios.@@
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟡 **"YA HA SIDO JUZGADO" — JUICIO REALIZADO**
 > - **ede kekritai** (*ede kekritai*) = "ya ha sido juzgado" — perfecto pasivo. El juicio no es futuro sino presente, ya en efecto. El acto de no confiar es en sí mismo el juicio — no un veredicto impuesto desde afuera sino un estado al que se entra por la propia respuesta. Esto es "escatologia realizada" — el juicio futuro ya opera en el presente.
@@ -342,7 +336,7 @@ Yeshua respondió y le dijo: @@"¿Tu eres el maestro de Yisrael y no sabes estas
 
 @@Y este es el juicio: que la luz ha venido al mundo, y los humanos amaron la oscuridad mas que la luz, porque sus obras eran malas.@@
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **"JUICIO" — *KRISIS***
 > - **he krisis** (*he krisis*) = "el juicio." NO "condenacion" — el sustantivo krisis significa el acto o proceso de juzgar. El versículo define lo que el juicio *es*: no una sentencia dictada sino una respuesta — los humanos *eligieron* la oscuridad sobre la luz. El juicio es autodeterminado.
@@ -356,7 +350,7 @@ Yeshua respondió y le dijo: @@"¿Tu eres el maestro de Yisrael y no sabes estas
 
 @@Pues todo el que práctica *cosas* viles odia la luz y no viene a la luz, para que sus obras no sean expuestas.@@
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **"PRACTICA COSAS VILES" — *PHAULA PRASSON***
 > - **phaula prasson** (*phaula prasson*) = "practicando cosas viles/bajas." El adjetivo **phaulos** (*phaulos*) = vil, bajo, inferior — una categoría mas amplia que "malo" (*poneros*). Algunos manuscritos leen ponera (*ponera*, "cosas malas") en lugar de phaula. NA28 lee phaula.
@@ -370,7 +364,7 @@ Yeshua respondió y le dijo: @@"¿Tu eres el maestro de Yisrael y no sabes estas
 
 @@Pero el que hace la verdad viene a la luz, para que sus obras sean manifestadas — que han sido obradas en Dios.@@
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **"HACER LA VERDAD" — *POION TEN ALETHEIAN***
 > - **poion ten aletheian** (*poion ten aletheian*) = "haciendo la verdad." Una frase inusual — la verdad es algo que se hace, se práctica, se ejecuta, no meramente se conoce o se cree. El equivalente hebreo oseh emet (*oseh emet*) aparece en los Manuscritos del Mar Muerto (1QS 1:5; 5:3; 8:2) y porta el sentido de "actuar fielmente." La verdad en el idioma joanico es práctica ética, no proposición abstracta.
@@ -384,7 +378,7 @@ Yeshua respondió y le dijo: @@"¿Tu eres el maestro de Yisrael y no sabes estas
 
 Después de estas cosas Yeshua y sus seguidores vinieron a la tierra de Yehudah, y allí el pasaba tiempo con ellos y sumergia.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **CRÍTICO — YESHUA SUMERGIENDO**
 > - **ebaptizen** (*ebaptizen*) = "estaba sumergiendo" — imperfecto, indicando actividad continua. Este es el único pasaje en los Evangelios que declara que Yeshua mismo estaba sumergiendo. Juan 4:2 inmediatamente califica: "aunque Yeshua mismo no sumergia, sino sus seguidores." Si 4:2 es una correccion, una aclaracion o una nota editorial parentetica es debatido.
@@ -398,7 +392,7 @@ Después de estas cosas Yeshua y sus seguidores vinieron a la tierra de Yehudah,
 
 Y Yochanan también estaba sumergiendo en Ainon cerca de Shalim, porque había mucha agua allí, y *la gente* venía y era sumergida --
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **AINON Y SHALIM — TRANSLITERACION TT**
 > - **Ainon** (*Ainon*) = del hebreo/arameo Aynon (*Aynon*, "manantiales"). **Saleim** (*Saleim*) = Shalim, ubicación debatida — posiblemente cerca de Siquem, posiblemente en el valle del Yarden. El nombre del lugar mismo significa "manantiales," y el narrador explica: "porque había mucha agua allí." El detalle es práctico — la inmersion requiere agua suficiente.
@@ -412,7 +406,7 @@ Y Yochanan también estaba sumergiendo en Ainon cerca de Shalim, porque había m
 
 pues Yochanan aún no había sido echado en prision.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **NOTA CRONOLOGICA PARENTETICA**
 > - **oupo gar en beblmenos eis ten phylaken ho Ioannes** = "pues Yochanan aún no había sido echado en la prision." Un pluscuamperfecto perifrastico (en beblmenos). Esta nota asume que el lector sabe que Yochanan fue eventualmente encarcelado (contado en los Sinópticos, Marcos 6:17-29). Sincroniza la línea temporal de Juan con la tradición sinoptica, ubicando este episodio antes del arresto.
@@ -423,7 +417,7 @@ pues Yochanan aún no había sido echado en prision.
 
 Entonces surgio una disputa de parte de los seguidores de Yochanan con un yehudi acerca de la purificación.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **VARIANTE TEXTUAL — "UN YEHUDI" O "YEHUDIM"?**
 > - Algunos manuscritos leen **Ioudaiou** (*Ioudaiou*, singular — "un yehudi"); otros leen **Ioudaion** (*Ioudaion*, plural — "yehudim"). NA28 lee el singular. La identidad de esta persona es desconocida — el texto introduce un personaje, registra el tema de la disputa ("purificación"), y continua sin resolución.
@@ -437,7 +431,7 @@ Entonces surgio una disputa de parte de los seguidores de Yochanan con un yehudi
 
 Y vinieron a Yochanan y le dijeron: "Rabbi, el que estaba contigo al otro lado del Yarden, de quien tu has testificado — mira, este sumerge, y todos van a el."
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟡 **"TODOS VAN A EL" — ¿HIPERBOLE O ALARMA?**
 > - **pantes erchontai pros auton** = "todos van a el." El "todos" es probablemente hiperbolico, expresando la alarma de los seguidores ante el cambio de atención de Yochanan a Yeshua. No nombran a Yeshua — "el que estaba contigo al otro lado del Yarden, de quien tu has testificado" — identificandolo solo a traves de su relación con Yochanan.
@@ -448,7 +442,7 @@ Y vinieron a Yochanan y le dijeron: "Rabbi, el que estaba contigo al otro lado d
 
 Yochanan respondió y dijo: "Un hombre no puede recibir nada a menos que le haya sido dado del cielo."
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟡 **"DEL CIELO" — *EK TOU OURANOU***
 > - **ek tou ouranou** (*ek tou ouranou*) = "del cielo." La respuesta de Yochanan enmarca tanto su rol como el de Yeshua como divinamente designados. Cada uno ha recibido lo que le fue dado de arriba. La declaración podria referirse al creciente seguimiento de Yeshua (dado a el) o al rol limitado de Yochanan (también dado a el).
@@ -459,7 +453,7 @@ Yochanan respondió y dijo: "Un hombre no puede recibir nada a menos que le haya
 
 Ustedes mismos testifican a mí favor que yo dije: "Yo no soy el ungido," sino: "He sido enviado delante de aquel."
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **ECO DE 1:20 — TRIPLE NEGACION**
 > - Yochanan recuerda su testimonio anterior (1:20): "Yo no soy el ungido." La autodefinicion por negación continua. Él es el enviado-delante (*apestalmenos*), el precursor — no el ungido mismo. El perfecto pasivo "he sido enviado" (*apestalmenos eimi*) indica comision divina.
@@ -470,7 +464,7 @@ Ustedes mismos testifican a mí favor que yo dije: "Yo no soy el ungido," sino: 
 
 El que tiene la novia es el novio; pero el amigo del novio, que esta de pie y lo oye, se alegra grandemente por la voz del novio. Este gozo mio, pues, ha sido cumplido.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟡 **METAFORA DEL NOVIO**
 > - **ho echon ten nymphen nymphios estin** = "El que tiene la novia es el novio." Yochanan se presenta como el "amigo del novio" (*philos tou nymphiou*) — el shoshbin (*shoshbin*) en la práctica de bodas judías, quien organizaba la boda, unia a la pareja y se regocijaba al escuchar la voz del novio. La metáfora implica: la novia (el pueblo, la comunidad) pertenece al novio (Yeshua), no al amigo (Yochanan). El gozo de Yochanan es completo precisamente porque el novio ha llegado.
@@ -484,7 +478,7 @@ El que tiene la novia es el novio; pero el amigo del novio, que esta de pie y lo
 
 Aquel debe crecer, pero yo debo menguar.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **"DEBE" — *DEI***
 > - **ekeinon dei auxanein, eme de elattousthai** = "Aquel debe crecer, pero yo debo menguar." El verbo dei (*dei*) = "es necesario, debe" — necesidad divina, no eleccion personal. El crecimiento/disminucion no es preferencia de Yochanan sino el patron ordenado. Los infinitivos presentes (auxanein, elattousthai) indican procesos continuos.
@@ -495,7 +489,7 @@ Aquel debe crecer, pero yo debo menguar.
 
 El que viene de arriba esta sobre todos. El que es de la tierra es de la tierra y habla de la tierra. El que viene del cielo esta sobre todos.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟡 **AMBIGUEDAD DEL HABLANTE — ¿YOCHANAN O EL NARRADOR?**
 > - ¿Dónde termina el discurso de Yochanan? Algunos estudiosos ubican el final en v.30 ("Aquel debe crecer, yo debo menguar"), con vv.31-36 como comentario teológico del narrador — paralelo a la transición Yeshua/narrador en vv.15-16. Otros extienden el discurso de Yochanan hasta v.36. El griego no provee comillas. La TT no resuelve la pregunta.
@@ -509,7 +503,7 @@ El que viene de arriba esta sobre todos. El que es de la tierra es de la tierra 
 
 Lo que el ha visto y oido — esto testifica, y nadie recibe su testimonio.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **TIEMPO PERFECTO — *HEORAKEN... EKOUSEN***
 > - **ho heorakem kai ekousen** = "lo que ha visto y oido." El perfecto heorakem ("ha visto") se empareja con el aoristo ekousen ("oyo"). El que viene de arriba testifica de la experiencia directa de las realidades celestiales. "Nadie recibe" (*oudeis lambanei*) hace eco de v.11 y 1:11 — el tema persistente del testimonio rechazado.
@@ -520,7 +514,7 @@ Lo que el ha visto y oido — esto testifica, y nadie recibe su testimonio.
 
 El que recibió su testimonio ha puesto su sello de que Dios es verdadero.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **"PUSO SU SELLO" — *ESPHRAGISEN***
 > - **esphragisen** (*esphragisen*) = aoristo de sphragizo (*sphragizo*) = "sellar, certificar, autenticar." Un sello valida un documento como genuino. La persona que acepta el testimonio con ello certifica — apuesta su posición — que Dios es verdadero. Recibir el testimonio es un acto de afirmar la veracidad de Dios.
@@ -531,7 +525,7 @@ El que recibió su testimonio ha puesto su sello de que Dios es verdadero.
 
 Porque el que Dios envió habla las palabras de Dios, pues no da el {a:viento/espíritu} por medida.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟡 **"NO POR MEDIDA" — *OUK EK METROU***
 > - **ou gar ek metrou didosin to pneuma** = "pues no da el viento/espíritu por medida." ¿Quién es el sujeto — Dios o el Hijo? Ambas lecturas son posibles. (a) Dios da el viento/espíritu sin medida al Hijo (el Hijo recibe dotacion ilimitada); (b) el Hijo da el viento/espíritu sin medida a otros (el Hijo distribuye sin limite). El texto no especifica el sujeto. La TT preserva la ambiguedad.
@@ -542,7 +536,7 @@ Porque el que Dios envió habla las palabras de Dios, pues no da el {a:viento/es
 
 El Padre ama al Hijo y ha dado todas las cosas en su mano.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **"AMA" — *AGAPA***
 > - **ho pater agapa ton huion** = "El Padre ama al Hijo." Se usa el verbo agapao (*agapao*). En 5:20, se usa el sinonimo phileo (*phileo*) para la misma relación. Si Juan distingue los dos verbos de amor o los usa intercambiablemente es un debate de larga data (vea 21:15-17 para el intercambio climatico).
@@ -556,7 +550,7 @@ El Padre ama al Hijo y ha dado todas las cosas en su mano.
 
 El que confia en el hijo tiene vida de la era; pero el que desobedece al Hijo no vera vida, sino que la ira de Dios permanece sobre el.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **"DESOBEDECE" — *APEITHON***
 > - **ho apeithon to huio** (*ho apeithon to huio*) = "el que desobedece al Hijo." El verbo **apeitheo** (*apeitheo*) = "desobedecer, ser desobediente, rehusar cumplimiento." Significativamente, el opuesto de "confiar" (*pisteuon*) aquí no es "no confiar" (*me pisteuon*, como en v.18) sino "desobedecer" (*apeithon*). El cambio sugiere que la falta de confianza se entiende como un acto de desobediencia — no mero desacuerdo intelectual sino rechazo voluntario.

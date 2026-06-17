@@ -27,17 +27,11 @@
 
 ## LESEANLEITUNG
 
-**📖 Haupttext:** Primäre Übersetzung — lesbar aber treu der griechischen Struktur
-**📝 Notizen:** Wesentliche griechische Merkmale unmittelbar unter jedem Vers
+**Haupttext:** Primäre Übersetzung — lesbar aber treu der griechischen Struktur
+**Notizen:** Wesentliche griechische Merkmale unmittelbar unter jedem Vers
 ***Kursiv:*** Wörter für deutsche Grammatik hinzugefügt (nicht im griechischen Text)
 **„Anführungszeichen":** Direkte Rede
 **der Herr:** κύριος wiedergegeben gemäß GS-Gottesname-Politik (Option C), wenn alttestamentliche JHWH-Stellen zitiert werden
-
-**Notizen-Symbole:**
-- 🔴 **KRITISCH** - Wichtige textliche oder Übersetzungsentscheidungen
-- 🟢 **LEXIKALISCH** - Wortbedeutungen, Bedeutungsspektrum, Glossarbegriffe
-- 🔵 **GRAMMATISCH** - Griechische Struktur, Verbaspekt, Syntax
-- 🟡 **THEOLOGISCH** - Interpretationsoptionen, Ambiguitätsbewahrung
 
 **Dies ist das erste Kapitel der Griechischen Schriften im TT-Projekt.** Der Prolog (1,1–18) gehört zu den theologisch dichtesten Abschnitten der Griechischen Schriften. Der Begriff *logos* („Wort") trägt ein Bedeutungsspektrum, das weit über jedes einzelne deutsche Wort hinausgeht. Die TT gibt ihn als „Wort" (Kleinschreibung) wieder, mit einer kritischen Notiz bei V.1 zum Bedeutungsspektrum. Eigennamen folgen der TT-Transliteration: Yochanan (Johannes), Yeshua (Jesus), Kefa (Petrus), Philippos (Philippus), Nathanael, Andreas. Das Verbaspekt-System unterscheidet sich vom hebräischen Tempussystem in Genesis — im Griechischen ist der Aspekt (wie der Sprecher die Handlung betrachtet) primär, nicht die Zeit.
 
@@ -89,7 +83,7 @@
 
 Im Anfang war das Wort, und das Wort war bei Gott, und das Wort war Gott.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **KRITISCH — *LOGOS* („WORT")**
 > - **Ἐν ἀρχῇ ἦν ὁ λόγος** (*En archē ēn ho logos*) = „Im Anfang war das Wort." Der Begriff λόγος (*logos*) trägt ein außergewöhnlich breites Bedeutungsspektrum: Wort, Rede, Vernunft, Rechenschaft, Grundsatz — mit Bezügen zur griechischen philosophischen Tradition (Heraklit, Stoiker), zur jüdischen Weisheitstradition (*chokhmah*, Sprüche 8) und zu den Targumim (*memra*, „Wort" als Umschreibung göttlichen Handelns). Die TT gibt „Wort" (Kleinschreibung) als die direkteste Übersetzung wieder und bewahrt die Etymologie von *logos* (Substantivform von *legō*, „sprechen"), wobei das Echo von Genesis 1 erhalten bleibt. Großschreibung als Titel bleibt dem Interpretationsrahmen des Lesers überlassen. Für ausführlichere Diskussion siehe Begleitmaterial Abschnitt A.
@@ -108,7 +102,7 @@ Im Anfang war das Wort, und das Wort war bei Gott, und das Wort war Gott.
 
 Dieses war im Anfang bei Gott.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔵 **RESUMPTIV — οὗτος (*houtos*)**
 > - „Dieses" (*houtos*) = Demonstrativpronomen, das den *logos* aus V.1 wieder aufnimmt. Der Vers fasst die ersten beiden Sätze von V.1 zusammen und bildet die Grundlage für die Schöpfungsaussage in V.3. Das Imperfekt **ἦν** wird fortgesetzt.
@@ -119,7 +113,7 @@ Dieses war im Anfang bei Gott.
 
 Alle Dinge kamen durch ihn ins Dasein, und ohne ihn kam nicht ein einziges Ding ins Dasein.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **KRITISCH — INTERPUNKTIONSVARIANTE (VV.3–4)**
 > - Die ältesten griechischen Handschriften haben keine Interpunktion. Zwei Lesarten sind möglich:
@@ -139,7 +133,7 @@ Alle Dinge kamen durch ihn ins Dasein, und ohne ihn kam nicht ein einziges Ding 
 
 Was ins Dasein gekommen ist — in ihm war Leben, und das Leben war das Licht der Menschen.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟢 **„LEBEN" UND „LICHT" — ERSTES AUFTRETEN**
 > - **ζωή** (*zōē*) = Leben — speziell vitales, belebtes Leben. Unterschieden von **βίος** (*bios*, Lebensunterhalt/Lebensweise) im breiteren griechischen Gebrauch.
@@ -154,7 +148,7 @@ Was ins Dasein gekommen ist — in ihm war Leben, und das Leben war das Licht de
 
 Und das Licht scheint in der Finsternis, und die Finsternis hat es nicht überwältigt.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **KRITISCH — *KATELABEN* (NICHT ÜBERWÄLTIGT / NICHT BEGRIFFEN)**
 > - **ἡ σκοτία αὐτὸ οὐ κατέλαβεν** = „die Finsternis hat es nicht überwältigt." **κατέλαβεν** (*katelaben*) von καταλαμβάνω trägt zwei Bedeutungen: (1) „ergreifen/überwältigen" und (2) „begreifen/erfassen" — beide sind hier **WAHRSCHEINLICH** (Regel 2). Die TT gibt „überwältigt" als primäre Bedeutung im Haupttext wieder, vermerkt aber die Doppeldeutigkeit. Für ausführlichere Diskussion der Ambiguität siehe Begleitmaterial Abschnitt A.
@@ -168,7 +162,7 @@ Und das Licht scheint in der Finsternis, und die Finsternis hat es nicht überw�
 
 Es kam ein Mensch ins Dasein, gesandt von Gott — sein Name *war* Yochanan (Johannes).
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔵 **AORIST *EGENETO* — WECHSEL VOM EWIGEN ZUM HISTORISCHEN**
 > - **Ἐγένετο ἄνθρωπος** = „Es kam ein Mensch ins Dasein." Dasselbe Verb (*egeneto*), das in V.3 für die Schöpfung verwendet wird, führt nun eine historische Gestalt ein. Johannes „kam ins Dasein" — er ist Geschöpf, nicht Schöpfer. Der aspektuelle Kontrast zum *logos* (der „war," Imperfekt) ist beabsichtigt.
@@ -182,7 +176,7 @@ Es kam ein Mensch ins Dasein, gesandt von Gott — sein Name *war* Yochanan (Joh
 
 Dieser kam zum Zeugnis, damit er über das Licht Zeugnis ablege, damit alle durch ihn vertrauen.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟢 **„ZEUGNIS" / „ZEUGNIS ABLEGEN" — *MARTYRIA* / *MARTYREŌ***
 > - **μαρτυρία** (*martyria*) = Zeugnis, Bezeugung, Beweis. **μαρτυρέω** (*martyreō*) = bezeugen, Zeugnis ablegen. Die rechtliche/gerichtliche Konnotation ist vorhanden — Johannes' Rolle ist die eines Zeugen, der Beweis vorlegt. Die Wortfamilie dominiert dieses Kapitel (VV.7, 8, 15, 19, 32, 34).
@@ -196,7 +190,7 @@ Dieser kam zum Zeugnis, damit er über das Licht Zeugnis ablege, damit alle durc
 
 Er war nicht das Licht, sondern *kam*, damit er über das Licht Zeugnis ablege.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟡 **NEGATIVE DEFINITION YOCHANANS**
 > - Der Erzähler definiert Johannes durch das, was er NICHT ist, bevor er definiert, was er ist. Er ist nicht das Licht — er bezeugt das Licht. Dieses Bestehen (wiederholt in VV.20–21) mag eine historische Situation widerspiegeln, in der einige Johannes als die Hauptfigur betrachteten.
@@ -207,7 +201,7 @@ Er war nicht das Licht, sondern *kam*, damit er über das Licht Zeugnis ablege.
 
 Das wahre Licht, das jeden Menschen erleuchtet, kam in die Welt.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔵 **GRAMMATISCHE AMBIGUITÄT — WER „KOMMT IN DIE WELT"?**
 > - Die Partizipialkonstruktion **ἐρχόμενον εἰς τὸν κόσμον** („kommend in die Welt") kann entweder „Licht" (das Licht, das in die Welt kam) oder „Mensch" (jeden Menschen, der in die Welt kommt) modifizieren. Beide sind grammatisch gültig. Die TT bezieht es auf „Licht" nach der vorherrschenden Lesart, vermerkt aber die Ambiguität.
@@ -221,7 +215,7 @@ Das wahre Licht, das jeden Menschen erleuchtet, kam in die Welt.
 
 Er war in der Welt, und die Welt kam durch ihn ins Dasein, und die Welt erkannte ihn nicht.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟡 **DREI *KOSMOS*-SÄTZE — ESKALIERENDE IRONIE**
 > - Satz 1: Er war in der Welt (Gegenwart). Satz 2: Die Welt kam durch ihn ins Dasein (Schöpfung). Satz 3: Die Welt erkannte ihn nicht (Ablehnung). Die dreifache Wiederholung von *kosmos* baut sich auf von Nähe über Ursprung bis zur Entfremdung. Der Schöpfer wird von der Schöpfung nicht erkannt.
@@ -232,7 +226,7 @@ Er war in der Welt, und die Welt kam durch ihn ins Dasein, und die Welt erkannte
 
 Er kam in das Seine, und die Seinen nahmen ihn nicht auf.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔵 **NEUTRUM → MASKULINUM-WECHSEL**
 > - **εἰς τὰ ἴδια** (*eis ta idia*) = „in das Seine" (Neutrum Plural — Bereich, Eigentum, Heimat). **οἱ ἴδιοι** (*hoi idioi*) = „die Seinen" (Maskulinum Plural — Personen). Der Wechsel von Neutrum zu Maskulinum verengt die Ablehnung: Er kam in seinen Bereich; seine Leute nahmen ihn nicht auf.
@@ -243,7 +237,7 @@ Er kam in das Seine, und die Seinen nahmen ihn nicht auf.
 
 Aber so viele ihn aufnahmen, denen gab er das Recht, Kinder Gottes zu werden — denen, die auf seinen Namen vertrauen,
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟢 **„RECHT" — *EXOUSIA***
 > - **ἐξουσία** (*exousia*) = Recht, Vollmacht, Befugnis. NICHT „Macht" im Sinne roher Fähigkeit (*dynamis*), sondern bevollmächtigtes Recht — die legitime Stellung, etwas zu werden.
@@ -257,7 +251,7 @@ Aber so viele ihn aufnahmen, denen gab er das Recht, Kinder Gottes zu werden —
 
 die nicht aus Bluten geboren wurden, noch aus dem Willen des Fleisches, noch aus dem Willen eines Mannes, sondern aus Gott.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔵 **„BLUTEN" — PLURAL *HAIMATŌN***
 > - **ἐξ αἱμάτων** (*ex haimatōn*) = „aus Bluten" — ungewöhnlicher Plural. Der Plural bezieht sich wahrscheinlich auf Blutlinien, Abstammung oder leibliche Herkunft. Die TT bewahrt den Plural („Bluten"), weil das Griechische bewusst ungewöhnlich ist.
@@ -271,7 +265,7 @@ die nicht aus Bluten geboren wurden, noch aus dem Willen des Fleisches, noch aus
 
 Und das Wort wurde Fleisch und wohnte unter uns, und wir sahen seine Herrlichkeit — Herrlichkeit wie eines Einziggeborenen von einem Vater — voll {a:Gnade/Gunst} und Wahrheit.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **KRITISCH — „DAS WORT WURDE FLEISCH"**
 > - **καὶ ὁ λόγος σὰρξ ἐγένετο** = „und das Wort Fleisch wurde." Der *logos* aus V.1 — der bei Gott war und Gott war — wird nun *sarx* (Fleisch, sterbliche Leiblichkeit). Der Aorist **ἐγένετο** markiert dies als Ereignis, nicht als fortdauernden Zustand. Das Verb ist dasselbe, das in V.3 für die Schöpfung verwendet wird — das Wort „kam ins Dasein" als Fleisch. Der Text macht die Aussage, ohne den Mechanismus zu erklären.
@@ -291,7 +285,7 @@ Und das Wort wurde Fleisch und wohnte unter uns, und wir sahen seine Herrlichkei
 
 Johannes legt Zeugnis ab über ihn und hat ausgerufen und gesagt: „Dieser war es, von dem ich sagte: ‚Der nach mir Kommende ist vor mir geworden, denn er war eher als ich.'"
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔵 **TEMPUSWECHSEL — PRÄSENS, PERFEKT, IMPERFEKT**
 > - **μαρτυρεῖ** (*martyrei*) = Präsens — „legt Zeugnis ab" (fortdauernd). **κέκραγεν** (*kekragen*) = Perfekt — „hat ausgerufen" (abgeschlossene Handlung mit fortdauerndem Ergebnis). **ἦν** (*ēn*) = Imperfekt — „war" (vorgängiges Sein). Die Schichtung der Tempora verdichtet vergangenes Zeugnis in gegenwärtige Bezeugung.
@@ -305,7 +299,7 @@ Johannes legt Zeugnis ab über ihn und hat ausgerufen und gesagt: „Dieser war 
 
 Denn aus seiner Fülle haben wir alle empfangen, und *zwar* {a:Gnade/Gunst} um {a:Gnade/Gunst}.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟢 **„GNADE UM GNADE" — *CHARIN ANTI CHARITOS***
 > - **χάριν ἀντὶ χάριτος** = wörtlich „Gnade/Gunst anstelle von Gnade/Gunst" oder „Gnade/Gunst um Gnade/Gunst." Die Präposition **ἀντί** (*anti*) = „anstelle von," „im Tausch gegen," „um." Drei Lesarten: (1) Gnade/Gunst, die Gnade/Gunst ablöst (aufeinanderfolgende Wellen), (2) Gnade/Gunst, die Gnade/Gunst entspricht (korrespondierend), (3) Gnade/Gunst des neuen Bundes, die Gnade/Gunst des alten Bundes ablöst. Die TT gibt „Gnade/Gunst um Gnade/Gunst" als die am wenigsten interpretative Option wieder.
@@ -316,7 +310,7 @@ Denn aus seiner Fülle haben wir alle empfangen, und *zwar* {a:Gnade/Gunst} um {
 
 Denn das Gesetz wurde durch Mosheh (Mose) gegeben; die {a:Gnade/Gunst} und die Wahrheit kamen durch Yeshua (Jesus), den Gesalbten, ins Dasein.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **KRITISCH — MOSHEH UND YESHUA**
 > - **ὁ νόμος διὰ Μωϋσέως ἐδόθη** = „das Gesetz wurde durch Mose gegeben" (Aorist Passiv); **ἡ χάρις καὶ ἡ ἀλήθεια διὰ Ἰησοῦ Χριστοῦ ἐγένετο** = „die Gnade/Gunst und die Wahrheit kamen durch Jesus den Gesalbten ins Dasein" (Aorist). Die Parallelstruktur lädt zum Vergleich ein, stellt aber NICHT ausdrücklich einen Gegensatz fest. Das „Gesetz" wird nicht abgewertet — es „wurde gegeben" (Passiv, impliziert göttlichen Geber); Gnade/Gunst und Wahrheit „kamen ins Dasein" — dasselbe Verb (*egeneto*) wie in der Schöpfungserzählung.
@@ -333,7 +327,7 @@ Denn das Gesetz wurde durch Mosheh (Mose) gegeben; die {a:Gnade/Gunst} und die W
 
 Gott hat niemand je gesehen; der einzig-geborene Gott, der im Schoß des Vaters ist — der hat *ihn* kundgetan.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **KRITISCH — TEXTVARIANTE: „EINZIG-GEBORENER GOTT" vs. „EINZIG-GEBORENER SOHN"**
 > - Der NA28-Haupttext liest **μονογενὴς θεός** (*monogenēs theos*) = „einzig-geborener Gott." Bedeutende alternative Lesart: **μονογενὴς υἱός** (*monogenēs huios*) = „einzig-geborener Sohn." Die „Gott"-Lesart wird gestützt von 𝔓66, 𝔓75, א*, B, C*; die „Sohn"-Lesart von A, C³, Θ, f1, f13, 𝔐. NA28 übernimmt „Gott" als die schwierigere und besser bezeugte Lesart. Die TT folgt NA28 gemäß GS-Politik, vermerkt aber die bedeutende Variante.
@@ -347,7 +341,7 @@ Gott hat niemand je gesehen; der einzig-geborene Gott, der im Schoß des Vaters 
 
 Und dies ist das Zeugnis Johannes', als die Yehudim Priester und Leviten aus Yerushalayim (Jerusalem) sandten, um ihn zu fragen: „Wer bist du?"
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **KRITISCH — *HOI IOUDAIOI* („DIE YEHUDIM")**
 > - **οἱ Ἰουδαῖοι** (*hoi Ioudaioi*) = wörtlich „die Judäer" — im Johannesevangelium mehrdeutig: (1) ethnisch/geographisch, (2) religiöse Autoritäten Judäas, (3) allgemeiner „das jüdische Volk." Die TT gibt „die Yehudim" transliteriert wieder, um die Ambiguität zu bewahren; der Kontext muss den Bezug je Vers bestimmen. Für ausführlichere Diskussion des Begriffs und seiner Forschungsgeschichte im Johannesevangelium siehe Begleitmaterial Abschnitt D.
@@ -361,7 +355,7 @@ Und dies ist das Zeugnis Johannes', als die Yehudim Priester und Leviten aus Yer
 
 Und er bekannte und leugnete nicht, und er bekannte: „Ich bin nicht der Gesalbte."
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔵 **DOPPELTES BEKENNTNIS — EMPHATISCHE VERNEINUNG**
 > - **ὡμολόγησεν καὶ οὐκ ἠρνήσατο, καὶ ὡμολόγησεν** = „er bekannte und leugnete nicht, und er bekannte." Die dreifach geschichtete Bejahung (bekannt + nicht geleugnet + bekannt) ist emphatisch redundant. Der Erzähler stellt sicher, dass keine Ambiguität über Johannes' Selbstverständnis besteht.
@@ -372,7 +366,7 @@ Und er bekannte und leugnete nicht, und er bekannte: „Ich bin nicht der Gesalb
 
 Und sie fragten ihn: „Was dann? Bist du Eliyahu (Elia)?" Und er sagt: „Ich bin es nicht." „Bist du der Prophet?" Und er antwortete: „Nein."
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟡 **DREI VERNEINUNGEN — DREI ERWARTETE FIGUREN**
 > - (1) Der Gesalbte (*christos*) — der erwartete davidische König. (2) Elia — erwartet, vor dem großen Tag zurückzukehren (Mal 3,23 [4,5]). (3) Der Prophet — „ein Prophet wie Mose" (Dtn 18,15). Johannes verneint, alle drei zu sein. Beachte: Die synoptischen Evangelien identifizieren Johannes mit Elia (Mt 11,14; 17,12–13); das Johannesevangelium lässt Johannes es verneinen. Die TT gibt jeden Text wieder, wie er steht, ohne zu harmonisieren.
@@ -386,7 +380,7 @@ Und sie fragten ihn: „Was dann? Bist du Eliyahu (Elia)?" Und er sagt: „Ich b
 
 Da sagten sie zu ihm: „Wer bist du? — damit wir denen Antwort geben können, die uns gesandt haben. Was sagst du über dich selbst?"
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔵 **INDIREKTE RECHENSCHAFTSPFLICHT**
 > - Die Delegation ist gesandt worden. Sie brauchen einen Bericht. Der Druck ist institutionell — sie vertreten die Yerushalaim-Autoritäten und müssen mit einer Antwort zurückkehren.
@@ -397,7 +391,7 @@ Da sagten sie zu ihm: „Wer bist du? — damit wir denen Antwort geben können,
 
 Er sagte: „Ich *bin* eine Stimme, die in der Wüste ruft: ‚Macht gerade den Weg des Herrn'" — wie der Prophet Yeshayahu (Jesaja) sagte.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **KRITISCH — „DER HERR" (κύριος) ZITIERT ALTTESTAMENTLICHE JHWH-STELLE**
 > - **εὐθύνατε τὴν ὁδὸν κυρίου** = „Macht gerade den Weg des Herrn." Dies zitiert Jesaja 40,3 in der Septuaginta (LXX — der antiken griechischen Bibelübersetzung); das zugrundeliegende Hebräisch hat das Tetragrammaton (יהוה). Gemäß GS-Gottesname-Politik (Option C): Der griechische Grundtext sagt κύριος, daher gibt die TT „der Herr" wieder — eine Rückübertragung zu JHWH würde ein Wort übersetzen, das nicht im griechischen Grundtext steht. Für ausführlichere Diskussion der Gottesname-Politik und ihrer Anwendung auf AT-Zitate siehe Begleitmaterial Abschnitt D.
@@ -411,7 +405,7 @@ Er sagte: „Ich *bin* eine Stimme, die in der Wüste ruft: ‚Macht gerade den 
 
 Und die Gesandten waren von den Pharisäer.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟢 **PERUSHIM — TT-TRANSLITERATION**
 > - **Φαρισαῖοι** (*Pharisaioi*) = griechische Form des hebräischen פְּרוּשִׁים (*Pharisäer*, „Abgesonderte"). Die TT gibt die hebräische Form wieder. Die Gruppe ist eine Bewegung des Zweiten Tempels, die Torahobservanz und mündliche Überlieferung betont.
@@ -422,7 +416,7 @@ Und die Gesandten waren von den Pharisäer.
 
 Und sie fragten ihn und sagten zu ihm: „Warum tauchst du dann unter, wenn du nicht der Gesalbte bist, noch Elia, noch der Prophet?"
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟢 **„UNTERTAUCHEN" — *BAPTIZŌ***
 > - **βαπτίζω** (*baptizō*) = eintauchen, untertauchen, eintunken. Gemäß festgelegtem Glossar: als „untertauchen" wiedergegeben, NICHT transliteriert als „taufen." Das Griechische hat klaren semantischen Inhalt: physisches Eintauchen in Wasser. Regel-4-Schwelle für Transliteration nicht erreicht. Erstauftreten-Notiz.
@@ -433,7 +427,7 @@ Und sie fragten ihn und sagten zu ihm: „Warum tauchst du dann unter, wenn du n
 
 Johannes antwortete ihnen und sagte: „Ich tauche in Wasser unter; in eurer Mitte steht einer, den ihr nicht kennt —
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟢 **„IN WASSER" — ἐν ὕδατι**
 > - Das Medium wird angegeben: Wasser. Der Kontrast zur Wind/Geist-Untertauchung (V.33) wird hier vorbereitet.
@@ -444,7 +438,7 @@ Johannes antwortete ihnen und sagte: „Ich tauche in Wasser unter; in eurer Mit
 
 der nach mir Kommende, dem die Riemen seiner Sandale zu lösen ich nicht würdig bin."
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟡 **SANDALENRIEMEN — KNECHTISCHE AUFGABE**
 > - Einen Sandalenriemen zu lösen galt als zu niedrig selbst für einen hebräischen Diener (b. Ketubbot 96a). Johannes stellt sich unter den Status eines Dieners gegenüber dem Kommenden.
@@ -455,7 +449,7 @@ der nach mir Kommende, dem die Riemen seiner Sandale zu lösen ich nicht würdig
 
 Dies geschah in Beyt-Anyah (Bethanien) jenseits des Yarden (Jordan), wo Johannes untertauchte.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟢 **BEYT-ANYAH JENSEITS DES YARDEN**
 > - **Βηθανία** (*Bēthania*) = griechische Form des hebräischen/aramäischen בֵּית עַנְיָה (*Bethanien*, „Haus der Armut" oder „Haus der Armen"). Dies ist NICHT das Bethanien nahe Jerusalem (11,1). Der Ort liegt östlich des Jordan.
@@ -469,7 +463,7 @@ Dies geschah in Beyt-Anyah (Bethanien) jenseits des Yarden (Jordan), wo Johannes
 
 Am nächsten Tag sieht er Jesus auf sich zukommen und sagt: „Siehe, das Lamm Gottes, das die Sünde der Welt hinwegnimmt.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **KRITISCH — „DAS LAMM GOTTES"**
 > - **ἴδε ὁ ἀμνὸς τοῦ θεοῦ** = „Siehe, das Lamm Gottes." Der Hintergrund ist umstritten: (1) das Passalamm (Ex 12), (2) der leidende Knecht „wie ein Lamm" (Jes 53,7), (3) das *tamid*-Tagesopfer, (4) das apokalyptische Kriegerlamm. Der Text spezifiziert nicht, welche Tradition im Blick ist. Die TT übersetzt das Griechische wie angegeben, ohne im Haupttext einen einzigen Hintergrund auszuwählen.
@@ -486,7 +480,7 @@ Am nächsten Tag sieht er Jesus auf sich zukommen und sagt: „Siehe, das Lamm G
 
 Dieser ist es, über den ich sagte: ‚Nach mir kommt ein Mann, der vor mir geworden ist, denn er war eher als ich.'
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔵 **WIEDERHOLUNG VON V.15**
 > - Nahezu identisch mit V.15. Die Wiederholung innerhalb der Erzählung (VV.15, 30) verstärkt Johannes' beständiges Zeugnis.
@@ -497,7 +491,7 @@ Dieser ist es, über den ich sagte: ‚Nach mir kommt ein Mann, der vor mir gewo
 
 Und ich kannte ihn nicht, aber damit er Yisrael offenbart werde — deswegen kam ich, in Wasser unterzutauchen."
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟡 **ZWECK DER UNTERTAUCHUNG — OFFENBARUNG, NICHT UMKEHR**
 > - Johannes erklärt, seine Untertauchung habe einen offenbarenden Zweck gehabt: „damit er Yisrael offenbart werde." Die synoptische Betonung der Umkehr-Untertauchung steht hier nicht im Vordergrund. Jeder Text präsentiert seine eigene Betonung.
@@ -508,7 +502,7 @@ Und ich kannte ihn nicht, aber damit er Yisrael offenbart werde — deswegen kam
 
 Und Johannes bezeugte und sagte: „Ich habe den {a:Wind/Geist} herabsteigen sehen wie eine Taube aus dem Himmel, und er blieb auf ihm.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟢 **„WIND/GEIST" — *PNEUMA***
 > - **τὸ πνεῦμα** (*to pneuma*) = Wind/Geist. Gemäß festgelegtem Glossar und Querverweisabgleich mit HB רוּחַ (*ruach*): dieselbe Schrägstrich-Politik. Das Neutrum des griechischen *pneuma* kontrastiert mit dem Femininum des hebräischen *ruach*; der Genuswechsel wird vermerkt, beeinflusst aber nicht die Übersetzung.
@@ -525,7 +519,7 @@ Und Johannes bezeugte und sagte: „Ich habe den {a:Wind/Geist} herabsteigen seh
 
 Und ich kannte ihn nicht, aber der mich sandte, in Wasser unterzutauchen, der sagte zu mir: ‚Auf wen du den {a:Wind/Geist} herabsteigen und auf ihm bleiben siehst — dieser ist es, der im heiligen {a:Wind/Geist} untertaucht.'
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟢 **„HEILIGER WIND/GEIST" — *PNEUMA HAGION***
 > - **πνεῦμα ἅγιον** (*pneuma hagion*) = heiliger Wind/Geist. Artikellos im Griechischen — „heiliger Geist" statt „der heilige Geist." Die TT fügt den Artikel im Deutschen *nicht* in den Haupttext ein, da das Griechische artikellos ist. Die Wiedergabe „heiliger Wind/Geist" bewahrt die Schrägstrich-Politik und vermeidet den Import des späteren trinitarischen Titels „der Heilige Geist" in die Übersetzungsebene.
@@ -536,7 +530,7 @@ Und ich kannte ihn nicht, aber der mich sandte, in Wasser unterzutauchen, der sa
 
 Und ich habe gesehen, und ich habe bezeugt, dass dieser der Sohn Gottes ist.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **KRITISCH — TEXTVARIANTE: „SOHN GOTTES" vs. „AUSERWÄHLTER GOTTES"**
 > - Der NA28-Haupttext liest **ὁ υἱὸς τοῦ θεοῦ** (*ho huios tou theou*) = „der Sohn Gottes." Eine bedeutende Variante liest **ὁ ἐκλεκτὸς τοῦ θεοῦ** (*ho eklektos tou theou*) = „der Auserwählte Gottes" — bezeugt durch 𝔓5vid, א*, b, e, ff2, einige syrische Zeugen. Die „Auserwählter"-Lesart ist die *lectio difficilior* (schwierigere Lesart), hat aber schmalere Bezeugung. NA28 behält „Sohn Gottes" bei. Die TT folgt NA28, vermerkt aber die Variante.
@@ -547,7 +541,7 @@ Und ich habe gesehen, und ich habe bezeugt, dass dieser der Sohn Gottes ist.
 
 Am nächsten Tag stand Johannes wieder *da*, und *zwei* seiner Nachfolger,
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔵 **„NACHFOLGER" — *MATHĒTAI***
 > - **μαθηταί** (*mathētai*) = Lernende, Schüler, Jünger. Als „Nachfolger" wiedergegeben — der Begriff impliziert Lehrzeit und anhaltendes Lernen, nicht nur beiläufiges Folgen.
@@ -558,7 +552,7 @@ Am nächsten Tag stand Johannes wieder *da*, und *zwei* seiner Nachfolger,
 
 und er blickte auf Jesus, der vorüberging, und sagt: „Siehe, das Lamm Gottes."
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔵 **„BLICKTE AUF" — *EMBLEPSAS***
 > - **ἐμβλέψας** (*emblepsas*) = Aorist-Partizip von ἐμβλέπω = „aufmerksam anblicken, den Blick richten auf." Stärker als einfaches Sehen — ein fokussierter, durchdringender Blick.
@@ -575,7 +569,7 @@ Und die zwei Nachfolger hörten ihn reden und folgten Jesus.
 
 Und Jesus wandte sich um, und als er sie folgen sah, sagt er zu ihnen: @@„Was sucht ihr?"@@ Und sie sagten zu ihm: „Rabbi" — was, übersetzt, Lehrer bedeutet — „wo wohnst du?"
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟢 **„RABBI" — IM GRIECHISCHEN TEXT TRANSLITERIERT**
 > - **Ῥαββί** (*Rhabbi*) = bereits eine Transliteration im Griechischen aus dem Hebräischen/Aramäischen רַבִּי (*rabbi*, „mein Großer" → „mein Lehrer"). Der Erzähler übersetzt es für griechische Leser: „was, übersetzt, Lehrer bedeutet." Die TT bewahrt die Glosse des Erzählers.
@@ -589,7 +583,7 @@ Und Jesus wandte sich um, und als er sie folgen sah, sagt er zu ihnen: @@„Was 
 
 Er sagt zu ihnen: @@„Kommt und seht."@@ Sie kamen und sahen, wo er wohnte, und blieben bei ihm jenen Tag; *es war* um die zehnte Stunde.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟢 **„DIE ZEHNTE STUNDE"**
 > - Gezählt ab Sonnenaufgang (~6 Uhr), ist die zehnte Stunde = ungefähr 16 Uhr. Die genaue Zeitangabe verleiht dem Bericht eine Augenzeugenqualität — jemand erinnerte sich an die Stunde.
@@ -600,7 +594,7 @@ Er sagt zu ihnen: @@„Kommt und seht."@@ Sie kamen und sahen, wo er wohnte, und
 
 Andreas, der Bruder Shimon (Simon) Petrus', war einer der zwei, die von Johannes gehört hatten und ihm gefolgt waren.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟢 **ANDREAS — TT-TRANSLITERATION**
 > - **Ἀνδρέας** (*Andreas*) = griechischer Name (von ἀνήρ, „Mann"). Anders als bei hebräischen Namen, die in ihre hebräische Form transliteriert werden, ist Andreas nativ griechisch und wird als solcher beibehalten.
@@ -611,7 +605,7 @@ Andreas, der Bruder Shimon (Simon) Petrus', war einer der zwei, die von Johannes
 
 Dieser findet zuerst seinen eigenen Bruder Simon und sagt zu ihm: „Wir haben den Messias gefunden" — was, übersetzt, *der* Gesalbte *heißt*.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟢 **„MESSIAS" — IM GRIECHISCHEN TEXT TRANSLITERIERT**
 > - **Μεσσίας** (*Messias*) = griechische Transliteration des aramäischen מְשִׁיחָא (*meshicha*) / hebräischen מָשִׁיחַ (*mashiach*). Der Erzähler übersetzt: „was, übersetzt, *christos* (Gesalbter) heißt." Die TT bewahrt „Messias," wo der griechische Text selbst den semitischen Ausdruck verwendet, und gibt die griechische Glosse gemäß festgelegtem Glossar als „Gesalbter" wieder.
@@ -622,7 +616,7 @@ Dieser findet zuerst seinen eigenen Bruder Simon und sagt zu ihm: „Wir haben d
 
 Er brachte ihn zu Jesus. Jesus blickte ihn an *und* sagte: @@„Du bist Simon, der Sohn Johannes'; du wirst Kefa (Petrus) genannt werden"@@ — was übersetzt „Fels" *bedeutet*.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟢 **KEFA — TT-TRANSLITERATION**
 > - **Κηφᾶς** (*Kēphas*) = griechische Transliteration des aramäischen כֵּיפָא (*Petrus*, „Fels"). Der Erzähler fügt die griechische Übersetzung hinzu: Πέτρος (*Petros*, „Fels"). Die TT verwendet „Petrus" und gibt die Bedeutung „Fels" wieder, wie es der Erzähler tut.
@@ -636,7 +630,7 @@ Er brachte ihn zu Jesus. Jesus blickte ihn an *und* sagte: @@„Du bist Simon, d
 
 Am nächsten Tag wollte er in den Galil (Galiläa) aufbrechen, und er findet Philippos (Philippus). Und Jesus sagt zu ihm: @@„Folge mir."@@
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟢 **GALIL — TT-TRANSLITERATION**
 > - **Γαλιλαία** (*Galiläaaia*) = griechische Form des hebräischen גָּלִיל (*Galiläa*, „Kreis/Bezirk"). Die TT gibt die hebräische Form wieder.
@@ -647,7 +641,7 @@ Am nächsten Tag wollte er in den Galil (Galiläa) aufbrechen, und er findet Phi
 
 Und Philippus war aus Beyt-Tsaidah, aus der Stadt des Andreas und des Petrus.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟢 **BEYT-TSAIDAH — TT-TRANSLITERATION**
 > - **Βηθσαϊδά** (*Bēthsaida*) = griechische Form des hebräischen/aramäischen בֵּית צַיְדָה (*Beyt-Tsaidah*, „Haus des Fischfangs/der Jagd"). Die TT gibt die semitische Form wieder.
@@ -658,7 +652,7 @@ Und Philippus war aus Beyt-Tsaidah, aus der Stadt des Andreas und des Petrus.
 
 Philippus findet Nathanael und sagt zu ihm: „Den, über den Mose im Gesetz geschrieben hat, und die Propheten — den haben wir gefunden: Jesus, Sohn des Yosef (Josef), aus Natseret (Nazareth)."
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟡 **„MOSHEH SCHRIEB IM GESETZ, UND DIE PROPHETEN"**
 > - Philippus identifiziert Jesus mit der Gestalt, die in Torah und Propheten angekündigt wird — ohne zu spezifizieren, welche Stellen. Die Behauptung ist umfassend, aber undetailliert. „Sohn des Josef" ist die soziale Identifikation; der Erzähler korrigiert oder qualifiziert sie hier nicht.
@@ -672,7 +666,7 @@ Philippus findet Nathanael und sagt zu ihm: „Den, über den Mose im Gesetz ges
 
 Und Nathanael sagte zu ihm: „Kann aus Nazareth etwas Gutes kommen?" Philippus sagt zu ihm: „Komm und sieh."
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟡 **NATSERET-SKEPSIS**
 > - Nathanaels Frage spiegelt entweder die Bedeutungslosigkeit Nazareths oder ein bestimmtes Vorurteil wider. Der Text erklärt die Grundlage der Skepsis nicht — er zeichnet sie einfach auf. „Komm und sieh" — Philippus argumentiert nicht; er lädt zur direkten Begegnung ein.
@@ -683,7 +677,7 @@ Und Nathanael sagte zu ihm: „Kann aus Nazareth etwas Gutes kommen?" Philippus 
 
 Jesus sah Nathanael auf sich zukommen und sagt über ihn: @@„Siehe, wahrhaftig ein Yisraeli, in dem kein Trug ist."@@
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟡 **ECHO YAAQOVS — „KEIN TRUG"**
 > - **δόλος** (*dolos*) = Trug, Arglist, Hinterlist. Yaaqov („Fersenhalter/Überlister") war durch Trug gekennzeichnet (Gen 27). Jesus beschreibt Nathanael als einen wahren Yisraeli — einen *ohne* den Trug, der mit dem Patriarchen verbunden ist, dessen Name Yisrael trägt. Die Anspielung kehrt die Yaaqov-Tradition um.
@@ -694,7 +688,7 @@ Jesus sah Nathanael auf sich zukommen und sagt über ihn: @@„Siehe, wahrhaftig
 
 Nathanael sagt zu ihm: „Woher kennst du mich?" Jesus antwortete und sagte zu ihm: @@„Bevor Philippus dich rief, *als du* unter dem Feigenbaum *warst*, sah ich dich."@@
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟡 **„UNTER DEM FEIGENBAUM"**
 > - Der Feigenbaum wird in der rabbinischen Tradition mit Torahstudium assoziiert. Ob dies hier die Anspielung ist, ist unsicher. Der Text stellt Jesu Wissen um Nathanaels Aufenthaltsort als Zeichen übernatürlicher Wahrnehmung dar, ohne zu erklären, wie.
@@ -705,7 +699,7 @@ Nathanael sagt zu ihm: „Woher kennst du mich?" Jesus antwortete und sagte zu i
 
 Nathanael antwortete ihm: „Rabbi, du bist der Sohn Gottes; du bist der König Yisraels."
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟡 **ZWEI TITEL — „SOHN GOTTES" UND „KÖNIG YISRAELS"**
 > - Im Kontext des Zweiten Tempels konnte „Sohn Gottes" den davidischen König bezeichnen (2 Sam 7,14; Ps 2,7) — ein königlicher Titel, nicht notwendigerweise eine metaphysische Aussage. „König Yisraels" verstärkt die königlich-messianische Lesart. Nathanaels Bekenntnis kann politisch-messianisch sein, und nicht (oder ebenso wie) ontologisch. Der Text löst die Frage nicht auf.
@@ -716,7 +710,7 @@ Nathanael antwortete ihm: „Rabbi, du bist der Sohn Gottes; du bist der König 
 
 Jesus antwortete und sagte zu ihm: @@„Weil ich dir sagte, dass ich dich unter dem Feigenbaum sah, vertraust du? Du wirst Größeres sehen als dies."@@
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔵 **„VERTRAUST DU?" — INDIKATIV ODER INTERROGATIV?**
 > - **πιστεύεις** (*pisteueis*) = „du vertraust" — kann als Aussage („Du vertraust.") oder als Frage („Vertraust du?") gelesen werden. Das Griechische unterscheidet dies graphisch nicht. Die TT gibt es als Frage wieder und folgt der Mehrheitslesart, vermerkt aber die Ambiguität.
@@ -727,7 +721,7 @@ Jesus antwortete und sagte zu ihm: @@„Weil ich dir sagte, dass ich dich unter 
 
 Und er sagt zu ihm: @@„Amen, amen, ich sage euch: Ihr werdet den Himmel geöffnet sehen und die Boten Gottes aufsteigen und herabsteigen über dem Menschensohn."@@
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **KRITISCH — JAKOBSLEITER (GEN 28,12)**
 > - **τοὺς ἀγγέλους τοῦ θεοῦ ἀναβαίνοντας καὶ καταβαίνοντας** = „die Boten Gottes, aufsteigend und herabsteigend." Dies spiegelt direkt Gen 28,12 wider: „und siehe, Boten Gottes, aufsteigend und herabsteigend darauf." In Genesis steigen die Boten auf der Leiter (*sullam*) auf und ab; hier steigen sie „über dem Menschensohn" auf und ab. Der Menschensohn ersetzt die Leiter als Verbindungspunkt zwischen Himmel und Erde.

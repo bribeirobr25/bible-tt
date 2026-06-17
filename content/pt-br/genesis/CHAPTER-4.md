@@ -27,17 +27,11 @@
 
 ## GUIA DE LEITURA
 
-**📖 Texto Principal:** Tradução primária—legível mas fiel à estrutura hebraica
-**📝 Notas:** Características hebraicas essenciais imediatamente abaixo de cada versículo
+**Texto Principal:** Tradução primária—legível mas fiel à estrutura hebraica
+**Notas:** Características hebraicas essenciais imediatamente abaixo de cada versículo
 ***Itálico:*** Palavras adicionadas para a gramática portuguesa (não presentes no texto hebraico)
 **"Aspas":** Discurso divino direto ou fala humana
 **YHWH:** Tetragrama transliterado consonantalmente (Regra 25, Opção A)
-
-**Ícones das Notas:**
-- 🔴 **CRÍTICO** - Decisões textuais ou tradutórias importantes
-- 🟢 **LEXICAL** - Significados de palavras, padrões de raízes, termos do glossário
-- 🔵 **GRAMATICAL** - Estrutura hebraica, formas verbais, sintaxe
-- 🟡 **TEOLÓGICO** - Opções interpretativas, preservação de ambiguidade
 
 **Política Humano / Adão (Regra 17):** Neste capítulo, *ha-adam* (com artigo) no v.1 = "o humano" (continuando a política de Gn 2–3). No **v.25**, o texto muda para *adam* anartro em contexto de nomeação/genealogia — este é o **ponto de transição** para o nome próprio "Adão." Sinalizado com nota 🔴 CRÍTICO.
 
@@ -79,7 +73,7 @@
 
 E o humano conheceu Chava (Eva), sua mulher, e ela concebeu e deu à luz Qayin (Caim), e disse: "Adquiri um homem com YHWH."
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **JOGO DE PALAVRAS QAYIN / QANAH**
 > - **קַיִן** (*Qayin*) = Caim. **קָנָה** (*qanah*) = adquirir/obter. A fala da mulher torna a etimologia explícita: "Eu *qaniti* (adquiri) um homem." Jogo de palavras preservado conforme Regra 14.
@@ -96,7 +90,7 @@ E o humano conheceu Chava (Eva), sua mulher, e ela concebeu e deu à luz Qayin (
 
 E ela deu à luz novamente, seu irmão Hevel (Abel). E Abel era *um* pastor de rebanho, e Caim era *um* lavrador do solo.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **HEVEL = VAPOR/SOPRO**
 > - **הֶבֶל** (*Hevel*) = "vapor, sopro, efêmero." O nome carrega seu significado — a mesma palavra usada em Eclesiastes para "vaidade/futilidade." Se o nome prenuncia o seu destino é POSSÍVEL mas não resolvido pelo texto.
@@ -110,7 +104,7 @@ E ela deu à luz novamente, seu irmão Hevel (Abel). E Abel era *um* pastor de r
 
 E foi ao fim dos dias, e Caim trouxe do fruto do solo uma oferta a YHWH.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **OFERTA**
 > - **מִנְחָה** (*minchah*) = oferta/presente/tributo. Mais tarde torna-se termo técnico para oferta de cereais (Lv 2). Aqui, simplesmente "oferta."
@@ -121,7 +115,7 @@ E foi ao fim dos dias, e Caim trouxe do fruto do solo uma oferta a YHWH.
 
 E Abel, ele também trouxe dos primogênitos de seu rebanho e de sua gordura. E YHWH olhou para Abel e para sua oferta,
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟡 **POR QUE OLHOU?**
 > - O texto diz que YHWH olhou para a oferta de Abel, mas NÃO diz por quê. "Primogênitos" e "gordura" (melhores porções) podem indicar diferença de qualidade — mas o texto não afirma isso como razão. Regra 12 — não explicar demais o que o texto deixa inexplicado.
@@ -132,7 +126,7 @@ E Abel, ele também trouxe dos primogênitos de seu rebanho e de sua gordura. E 
 
 mas para Caim e para sua oferta não olhou. E ardeu a Caim grandemente, e seu rosto caiu.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **"ARDEU A ELE"**
 > - **וַיִּחַר** (*vayyichar*) = "e ardeu" — expressão idiomática para ira (literalmente "ficou quente para ele"). Preservada literalmente.
@@ -149,7 +143,7 @@ E YHWH disse a Caim: @@"Por que *te* arde, e por que caiu o teu rosto?@@
 
 @@Se fizeres bem, *não há* elevação? E se não fizeres bem, à porta o pecado se agacha, e para ti *é* o seu {a:desejo/inclinação}, mas tu deves dominar sobre ele."@@
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **CRÍTICO — PRIMEIRO "PECADO" NA BÍBLIA**
 > - **חַטָּאת** (*chatat*) = pecado. Primeira ocorrência. Aqui **personificado** — o pecado "se agacha" (רֹבֵץ *rovets*, particípio descrevendo um animal à espreita). O pecado é apresentado como uma entidade com agência, não um conceito abstrato.
@@ -167,7 +161,7 @@ E YHWH disse a Caim: @@"Por que *te* arde, e por que caiu o teu rosto?@@
 
 E Caim disse a Abel, seu irmão… E foi quando estavam no campo, e Caim se levantou contra Abel, seu irmão, e o matou.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **CRÍTICO — VARIANTE TEXTUAL (LACUNA)**
 > - TM (Texto Massorético): "E Caim disse a Abel, seu irmão" — frase aparenta estar **incompleta**. Nenhum conteúdo de fala registrado. LXX (Septuaginta, a antiga tradução grega da Bíblia Hebraica) e Pentateuco Samaritano acrescentam: "Vamos ao campo" (*nelkha ha-sadeh*).
@@ -182,7 +176,7 @@ E Caim disse a Abel, seu irmão… E foi quando estavam no campo, e Caim se leva
 
 E YHWH disse a Caim: @@"Onde *está* Abel, teu irmão?"@@ E ele disse: "Não sei. *Sou* eu o guardador de meu irmão?"
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **ECO DE 3:9**
 > - "Onde está Abel?" ecoa "Onde *estás*?" (3:9 *ayyekkah*). Ambas são perguntas divinas que inauguram sequências de interrogação. Ambas são retóricas (Deus sabe a resposta).
@@ -196,7 +190,7 @@ E YHWH disse a Caim: @@"Onde *está* Abel, teu irmão?"@@ E ele disse: "Não sei
 
 E ele disse: @@"Que fizeste? A voz dos sangues de teu irmão *está* clamando a mim desde o solo.@@
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **"SANGUES" — PLURAL**
 > - **דְּמֵי** (*demei*) = "sangues" (construto plural). NÃO singular "sangue." O hebraico usa plural — significados POSSÍVEIS: múltiplos derramamentos de sangue, sangue vital em sua plenitude, ou (tradição rabínica) o sangue de seus descendentes que nunca existirão. Plural preservado.
@@ -210,7 +204,7 @@ E ele disse: @@"Que fizeste? A voz dos sangues de teu irmão *está* clamando a 
 
 @@E agora, maldito *és* tu desde o solo que abriu a sua boca para receber os sangues de teu irmão da tua mão.@@
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **ARUR — MALDITO**
 > - **אָרוּר** (*arur*) = maldito. Em Gn 3, apenas a serpente (3:14) e o solo (3:17) foram amaldiçoados — nunca os humanos. Agora Qayin É maldito. Escalada: criatura → solo → humano.
@@ -224,7 +218,7 @@ E ele disse: @@"Que fizeste? A voz dos sangues de teu irmão *está* clamando a 
 
 @@Quando lavrares o solo, ele não dará mais a sua força a ti. Errante e fugitivo serás sobre a terra."@@
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **DUPLO DESLOCAMENTO**
 > - **נָע וָנָד** (*na va-nad*) = "errante e fugitivo" — duplicação de raiz (Regra 6). Dois quase-sinônimos intensificando o exílio. Qayin perde tanto a vocação (solo não produz) quanto a localização (errância).
@@ -235,7 +229,7 @@ E ele disse: @@"Que fizeste? A voz dos sangues de teu irmão *está* clamando a 
 
 E Caim disse a YHWH: "Meu {a:pecado/castigo} *é* grande demais para suportar.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **AVON — PECADO OU CASTIGO?**
 > - **עֲוֹנִי** (*avoni*) = "meu pecado" OU "meu castigo." A palavra hebraica significa tanto a culpa QUANTO sua consequência. Regra 2 — barra preserva ambos: "meu pecado/castigo." Traduções tradicionais escolhem um; a TT preserva a ambiguidade.
@@ -246,7 +240,7 @@ E Caim disse a YHWH: "Meu {a:pecado/castigo} *é* grande demais para suportar.
 
 Eis que me expulsaste hoje de sobre a face do solo, e da tua face serei escondido, e serei errante e fugitivo sobre a terra, e será *que* qualquer um que me encontrar me matará."
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟡 **"DA TUA FACE"**
 > - A queixa de Caim nomeia dois exílios: do solo (vocação) e da face de Deus (presença divina). O segundo é o maior — 4:16 confirmará que ele "saiu da face de YHWH."
@@ -257,7 +251,7 @@ Eis que me expulsaste hoje de sobre a face do solo, e da tua face serei escondid
 
 E YHWH lhe disse: @@"Portanto, qualquer um que matar Caim, sete vezes será vingado."@@ E YHWH pôs para Caim um sinal, para que qualquer um que o encontrasse não o ferisse.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟡 **O SINAL — NÃO ESPECIFICADO**
 > - **אוֹת** (*ot*) = sinal/marca. O texto NÃO diz o que é o sinal — uma marca no corpo? proteção divina? um aviso a outros? Regra 12 — sem falsa precisão; o texto é deliberadamente vago.
@@ -271,7 +265,7 @@ E YHWH lhe disse: @@"Portanto, qualquer um que matar Caim, sete vezes será ving
 
 E Caim saiu da face de YHWH, e habitou na terra de Nod, a leste de Éden.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **"A LESTE DE ÉDEN" — DIREÇÃO DO EXÍLIO CONTINUA**
 > - Gn 3:24: querubins ao oriente de Éden. Gn 4:16: Caim habita a leste de Éden. O movimento para o leste = **padrão de deslocamento**. Referência cruzada sinalizada.
@@ -285,7 +279,7 @@ E Caim saiu da face de YHWH, e habitou na terra de Nod, a leste de Éden.
 
 E Caim conheceu sua mulher, e ela concebeu e deu à luz Chanokh (Enoque). E ele estava construindo uma cidade, e chamou o nome da cidade conforme o nome de seu filho, Enoque.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **PRIMEIRA CIDADE**
 > - O assassino exilado constrói a primeira cidade. O texto não faz avaliação explícita disto — é declarado, não julgado.
@@ -302,7 +296,7 @@ E a Enoque nasceu Irad, e Irad gerou Mechuya'el, e Mechuya'el gerou Metusha'el, 
 
 E Lameque tomou para si duas mulheres; o nome da primeira *era* Adah, e o nome da segunda *era* Tsillah.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **PRIMEIRA POLIGAMIA**
 > - O texto registra as duas esposas de Lameque sem avaliação explícita. Primeiro afastamento registrado do padrão "uma só carne" de 2:24.
@@ -325,7 +319,7 @@ E o nome de seu irmão *era* Yuval; ele foi o pai de todos os que empunham lira 
 
 E Tsillah, ela também deu à luz Tuval-Qayin, *um* forjador de toda ferramenta cortante de bronze e ferro. E a irmã de Tuval-Qayin *era* Na'amah.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **ORIGENS DA TECNOLOGIA**
 > - Três "pais" da civilização: Yaval (nomadismo pastoril), Yuval (música), Tuval-Qayin (metalurgia). Todos descendem da linhagem exilada de Caim. O texto registra origens civilizacionais sem avaliá-las.
@@ -336,7 +330,7 @@ E Tsillah, ela também deu à luz Tuval-Qayin, *um* forjador de toda ferramenta 
 
 E Lameque disse às suas mulheres: "Adah e Tsillah, ouvi minha voz; mulheres de Lameque, dai ouvidos à minha fala: Pois um homem matei pela minha ferida, e um jovem pelo meu machucado.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **CANTO DE LEMEKH — ESTRUTURA POÉTICA**
 > - Isto é **poesia** inserida na narrativa. Estrutura paralela (ouvi/dai ouvidos; voz/fala; homem/jovem; ferida/machucado) — Regra 6 preservada. Primeiro poema por um humano na Bíblia (após 2:23).
@@ -350,7 +344,7 @@ E Lameque disse às suas mulheres: "Adah e Tsillah, ouvi minha voz; mulheres de 
 
 Pois sete vezes Caim será vingado, e Lameque setenta e sete."
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **SETE → SETENTA E SETE**
 > - YHWH prometeu proteção sete vezes para Caim (v.15). Lameque reivindica **setenta e sete vezes** para si mesmo — apropriando-se da prerrogativa divina para vingança pessoal. Escalada numérica: 7 → 77.
@@ -361,7 +355,7 @@ Pois sete vezes Caim será vingado, e Lameque setenta e sete."
 
 E Adão conheceu sua mulher novamente, e ela deu à luz um filho e chamou o seu nome Shet (Sete): "Porque Deus pôs para mim outra semente em lugar de Abel, pois Caim o matou."
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **CRÍTICO — ADÃO SE TORNA NOME PRÓPRIO**
 > - **אָדָם** (*adam*) aparece aqui **sem artigo** em contexto genealógico/de nomeação. Este é o **ponto de transição** de "o humano" genérico para o nome próprio "Adão." A TT muda para "Adão" deste versículo em diante. Registrado no log editorial (entrada 081).
@@ -378,7 +372,7 @@ E Adão conheceu sua mulher novamente, e ela deu à luz um filho e chamou o seu 
 
 E a Sete, também a ele nasceu um filho, e ele chamou o seu nome Enosh. Então *se* começou a invocar o nome de YHWH.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **PRIMEIRA INVOCAÇÃO DE YHWH**
 > - **אָז הוּחַל לִקְרֹא בְּשֵׁם יהוה** = "Então se começou a invocar o nome de YHWH." O passivo (*huchal*) não especifica quem começou. Este é o primeiro ato registrado de adoração/invocação formal — a linhagem setita invoca YHWH pelo nome.

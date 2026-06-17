@@ -27,18 +27,12 @@
 
 ## LESEANLEITUNG
 
-**📖 Haupttext:** Primäre Übersetzung—lesbar aber treu der hebräischen Struktur
-**📝 Notizen:** Wesentliche hebräische Merkmale unmittelbar unter jedem Vers
+**Haupttext:** Primäre Übersetzung—lesbar aber treu der hebräischen Struktur
+**Notizen:** Wesentliche hebräische Merkmale unmittelbar unter jedem Vers
 ***Kursiv:*** Wörter für deutsche Grammatik hinzugefügt (nicht im hebräischen Text)
 **„Anführungszeichen":** Direkte göttliche Rede
 **JHWH:** Tetragrammaton konsonantisch transliteriert (Regel 25, Option A)
 **Nephilim, Tebah, Gofer:** Transliterierte hebräische Begriffe (in Notizen erklärt)
-
-**Notizen-Symbole:**
-- 🔴 **KRITISCH** - Wichtige textliche oder Übersetzungsentscheidungen
-- 🟢 **LEXIKALISCH** - Wortbedeutungen, Wurzelmuster, Glossarbegriffe
-- 🔵 **GRAMMATISCH** - Hebräische Struktur, Verbformen, Syntax
-- 🟡 **THEOLOGISCH** - Interpretationsoptionen, Ambiguitätsbewahrung
 
 **Dieses Kapitel enthält einige der umstrittensten Passagen der Genesis.** Die TT bewahrt jede Mehrdeutigkeit, die das Hebräische bewahrt. „Söhne Gottes/der Götter" wird gemäß Regel 2 mit Schrägstrich versehen. „Nephilim" wird gemäß Regel 4 transliteriert. Die Spannungen der Fluterzählung (je zwei gegen sieben Paare) werden so wiedergegeben, wie der MT sie liest, ohne Harmonisierung (Regel 22).
 
@@ -78,7 +72,7 @@
 
 Und es war, als der Mensch begann, sich zu mehren auf dem Angesicht des Bodens, und Töchter ihnen geboren wurden,
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔵 **„DER MENSCH" — KOLLEKTIV**
 > - **הָאָדָם** (*ha-adam*) ist hier die kollektive Menschheit (mit Artikel), nicht der einzelne Adam. „Begann, sich zu mehren" = Bevölkerungsexpansion.
@@ -89,7 +83,7 @@ Und es war, als der Mensch begann, sich zu mehren auf dem Angesicht des Bodens, 
 
 und die Söhne {a:Gottes/der Götter} sahen die Töchter des Menschen, dass sie gut *waren*, und sie nahmen sich Frauen von allen, die sie wählten.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **KRITISCH — „SÖHNE GOTTES/DER GÖTTER"**
 > - **בְּנֵי הָאֱלֹהִים** (*bene ha-elohim*) — eine der umstrittensten Wendungen in Genesis. Drei Hauptlesungen, alle **MÖGLICH**: (1) göttliche/engelhafte Wesen (vgl. Ijob 1:6); (2) menschliche Herrscher, die göttlichen Status beanspruchen; (3) Shet (Set)-Linie heiratet Qayin (Kain)-Linie. Regel 2: Schrägstrich bewahrt die Mehrdeutigkeit. Für ausführlichere Diskussion der Lesungen und Parallelen aus dem Alten Orient (ANE) siehe Begleitmaterial Abschnitt D.
@@ -103,7 +97,7 @@ und die Söhne {a:Gottes/der Götter} sahen die Töchter des Menschen, dass sie 
 
 Und JHWH sprach: @@„Mein Geist soll nicht {a:verbleiben/streiten} im Menschen in Ewigkeit, darin dass er auch Fleisch *ist*; und seine Tage sollen einhundertzwanzig Jahre sein."@@
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **KRITISCH — *yadon* — TATSÄCHLICH UNGEWISS**
 > - **לֹא־יָדוֹן** (*lo yadon*) — das Verb ist **UNGEWISS**. Vorgeschlagene Bedeutungen: (1) „verbleiben/wohnen" (Geist wohnt in Menschen); (2) „streiten/ringen" (Geist ringt mit der Menschheit); (3) „richten/regieren" (Geist regiert Menschen). Wurzel debattiert: דון oder דין. Die TT gibt „verbleiben/streiten" mit Schrägstrich wieder.
@@ -117,7 +111,7 @@ Und JHWH sprach: @@„Mein Geist soll nicht {a:verbleiben/streiten} im Menschen 
 
 Die {t:Nephilim} waren auf dem Land in jenen Tagen, und auch danach, als die Söhne {a:Gottes/der Götter} zu den Töchtern des Menschen kamen, und sie ihnen gebaren — sie *sind* die Mächtigen, die *waren* von Urzeit her, Männer des Namens.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **KRITISCH — NEPHILIM TRANSLITERIERT**
 > - **נְפִילִים** (*Nephilim*) — transliteriert gemäß Regel 4 (kein zutreffendes Äquivalent vorhanden). „Riesen" importiert die Septuaginta (LXX)-Übersetzung *gigantes*; „Gefallene" ist Volksetymologie von der Wurzel נ-פ-ל (*n-p-l*, „fallen"), die möglicherweise nicht die tatsächliche Ableitung ist. Das Wort kommt nur hier und Num 13:33 in der Hebräischen Bibel vor.
@@ -132,7 +126,7 @@ Die {t:Nephilim} waren auf dem Land in jenen Tagen, und auch danach, als die Sö
 
 Und JHWH sah, dass groß *war* die Bosheit des Menschen auf dem Land, und jede Neigung der Gedanken seines Herzens *war* nur böse den ganzen Tag.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **„JEDE NEIGUNG... NUR BÖSE"**
 > - **כָּל־יֵצֶר מַחְשְׁבֹת לִבּוֹ רַק רַע כָּל־הַיּוֹם** — absolute Sprache: *jede* Neigung, *nur* böse, *den ganzen* Tag. Die Wurzel **יֵצֶר** (*yetser*) = „Neigung/Formung" — wird später zum rabbinischen Konzept *yetzer ha-ra* (böse Neigung). Dies ist ihr erstes Auftreten.
@@ -143,7 +137,7 @@ Und JHWH sah, dass groß *war* die Bosheit des Menschen auf dem Land, und jede N
 
 Und JHWH bereute, dass er den Menschen auf dem Land gemacht hatte, und es bekümmerte ihn zu seinem Herzen.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **KRITISCH — GÖTTLICHES BEREUEN**
 > - **וַיִּנָּחֶם יהוה** (*vayyinnachem JHWH*) = „und JHWH bereute/war betrübt." Wurzel: **נ-ח-ם** (*n-ch-m*) — DIESELBE Wurzel wie Noach (Noah)/nacham (5:29 trösten). Wortspiel: Derjenige, dessen Name „Trost" bedeutet, kommt aus dem Moment göttlichen „Bereuens" — dieselbe konsonantische Wurzel.
@@ -155,7 +149,7 @@ Und JHWH bereute, dass er den Menschen auf dem Land gemacht hatte, und es beküm
 
 Und JHWH sprach: @@„Ich werde den Menschen, den ich erschaffen habe, auslöschen von auf dem Angesicht des Bodens, vom Menschen bis zum Vieh, bis zum Kriechenden, bis zum Vogel des Himmels, denn ich bereue, dass ich sie gemacht habe."@@
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔵 **UMFANG DER VERNICHTUNG**
 > - „Vom Menschen bis zum Vieh, bis zum Kriechenden, bis zum Vogel des Himmels" — kehrt die Schöpfungsreihenfolge aus Gn 1 um (Vögel Tag 5, Vieh Tag 6, Menschen Tag 6). Die Schöpfung wird rückgängig gemacht.
@@ -169,7 +163,7 @@ Und JHWH sprach: @@„Ich werde den Menschen, den ich erschaffen habe, auslösch
 
 Aber Noah fand Gunst in den Augen JHWHs.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟢 **CHEN = GUNST/GNADE**
 > - **חֵן** (*chen*) = Gunst/Gnade. Erstes Auftreten. Noah findet *chen* — beachte die umgekehrte Schreibung: **Noah** (נ-ח) / **chen** (ח-נ). Ob dies ein bewusstes Wortspiel ist, ist MÖGLICH.
@@ -180,7 +174,7 @@ Aber Noah fand Gunst in den Augen JHWHs.
 
 Dies *sind* die Geschlechterfolgen Noahs. Noah *war* ein gerechter Mann, untadelig in seinen Geschlechtern; mit Gott wandelte Noah.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **TOLEDOT-FORMEL — DRITTES AUFTRETEN**
 > - **אֵלֶּה תּוֹלְדוֹת נֹחַ** = „Dies sind die *Toledot* Noahs." Dritte *Toledot*-Markierung (2:4, 5:1, 6:9).
@@ -203,7 +197,7 @@ Und Noah zeugte drei Söhne: Shem, Cham (Ham) und Yafet (Jafet).
 
 Und das Land war verderbt vor Gott, und das Land war erfüllt mit Gewalt.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟢 **GEWALT**
 > - **חָמָס** (*chamas*) = Gewalt/Unrecht. Dasselbe Wort erscheint bei V.13. Das Verderben ist spezifisch *chamas* — nicht abstraktes Böses, sondern aktive Gewalt.
@@ -214,7 +208,7 @@ Und das Land war verderbt vor Gott, und das Land war erfüllt mit Gewalt.
 
 Und Gott sah das Land, und siehe, es war verderbt, denn alles Fleisch hatte seinen Weg verderbt auf dem Land.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔵 **„GOTT SAH" — UMKEHRUNG VON GN 1**
 > - Gn 1: „Gott sah, dass gut" (6×). Gn 6:12: „Gott sah das Land, und siehe, es war verderbt." Dasselbe Verb (*ra'ah*), umgekehrte Bewertung. Die Güte der Schöpfung ist zunichte gemacht worden.
@@ -225,7 +219,7 @@ Und Gott sah das Land, und siehe, es war verderbt, denn alles Fleisch hatte sein
 
 Und Gott sprach zu Noah: @@„Das Ende alles Fleisches ist vor mich gekommen, denn das Land ist erfüllt mit Gewalt um ihretwillen, und siehe, ich *bin am* Vernichten von ihnen mit dem Land.@@
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔵 **„MIT DEM LAND"**
 > - **אֶת־הָאָרֶץ** (*et-ha-aretz*) — „mit dem Land" oder „und das Land." Die Vernichtung umfasst nicht nur die Menschheit, sondern das Land selbst. Das Land nimmt am Gericht teil.
@@ -236,7 +230,7 @@ Und Gott sprach zu Noah: @@„Das Ende alles Fleisches ist vor mich gekommen, de
 
 @@Mache dir eine {t:Tebah} aus {t:Gofer}-Holz; Räume sollst du machen *in* der {t:Tebah}, und du sollst sie bedecken innen und außen mit Kofer.@@
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **TEBAH — TRANSLITERIERT**
 > - **תֵּבָה** (*Tebah*) = Arche/Kasten/Gefäß. Transliteriert bei erstem Auftreten gemäß Regel 4. Das Wort kommt nur hier (Gn 6–9) und in Ex 2:3,5 (Körbchen des Mose) vor. KEIN Schiff — der Text beschreibt einen versiegelten Kasten ohne Ruder, Segel oder Navigation.
@@ -253,7 +247,7 @@ Und Gott sprach zu Noah: @@„Das Ende alles Fleisches ist vor mich gekommen, de
 
 @@Und dies *ist, wie* du sie machen sollst: dreihundert Ellen die Länge der {t:Tebah}, fünfzig Ellen ihre Breite und dreißig Ellen ihre Höhe.@@
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟢 **MASSE**
 > - 300 × 50 × 30 Ellen. Wenn eine Elle ≈ 45 cm: ungefähr 137 × 23 × 14 Meter. Die Proportionen (6:1 Länge-zu-Breite) sind die eines Lastkahns, nicht eines Schiffes.
@@ -264,7 +258,7 @@ Und Gott sprach zu Noah: @@„Das Ende alles Fleisches ist vor mich gekommen, de
 
 @@Einen Tsohar sollst du machen für die {t:Tebah}, und auf eine Elle sollst du ihn abschließen von oben, und die Tür der {t:Tebah} sollst du in ihre Seite setzen; unteres, zweites und drittes *Stockwerk* sollst du sie machen.@@
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟢 **TSOHAR — UNGEWISS**
 > - **צֹהַר** (*Tsohar*) — Bedeutung UNGEWISS. Vorschläge: (1) Dach/Bedeckung; (2) Fenster/Öffnung; (3) Lichtquelle (von Wurzel צ-ה-ר = scheinen). Transliteriert bei erstem Auftreten mit Anmerkung.
@@ -275,7 +269,7 @@ Und Gott sprach zu Noah: @@„Das Ende alles Fleisches ist vor mich gekommen, de
 
 @@Und ich, siehe, ich *bin am* Bringen der Flut von Wassern auf das Land, um alles Fleisch, in dem Atem des Lebens *ist*, zu vernichten von unter dem Himmel; alles, was auf dem Land *ist*, soll sterben.@@
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **MABBUL — DIE FLUT**
 > - **הַמַּבּוּל** (*ha-mabbul*) = „die Flut." Nahezu einzigartiger Begriff — nur für DIESE Flut verwendet (Gn 6–11) und Ps 29:10. Nicht das gewöhnliche Wort für Überflutung (*shetzef*) oder steigendes Wasser (*mayim*). Es ist ein spezifischer, benannter Kataklysmus.
@@ -289,7 +283,7 @@ Und Gott sprach zu Noah: @@„Das Ende alles Fleisches ist vor mich gekommen, de
 
 @@Aber ich werde meinen Bund aufrichten mit dir, und du sollst in die {t:Tebah} kommen — du und deine Söhne und deine Frau und die Frauen deiner Söhne mit dir.@@
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **KRITISCH — ERSTER BUND (BERIT)**
 > - **בְּרִיתִי** (*beriti*) = „mein Bund." **Erstes Auftreten von בְּרִית** (*berit*) in der Bibel. Das Konzept tritt hier in die Erzählung ein — Gott errichtet eine formale, bindende Verpflichtung. Die vollständigen Bedingungen werden erst in Gn 9:8–17 (nach der Flut) dargelegt. Hier wird es proleptisch ausgesagt: der Bund existiert, bevor sein Inhalt offenbart wird.
@@ -303,7 +297,7 @@ Und Gott sprach zu Noah: @@„Das Ende alles Fleisches ist vor mich gekommen, de
 
 @@Und von allem Lebenden, von allem Fleisch, zwei von allem sollst du in die {t:Tebah} bringen, um *sie* am Leben zu erhalten mit dir; männlich und weiblich sollen sie sein.@@
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **„ZWEI VON ALLEM" — SPANNUNG MIT 7:2**
 > - Hier: **שְׁנַיִם מִכֹּל** = „zwei von allem" — ein Paar pro Art. Bei Gn 7:2: „vom reinen Vieh sieben sieben" (sieben Paare). Die TT übersetzt beide so, wie der MT sie liest, **ohne Harmonisierung** gemäß Regel 22 und dem Nicht-Harmonisierungsprinzip. Die Spannung ist ein textuelles Merkmal, kein Schreiberfehler, der geglättet werden muss.
@@ -314,7 +308,7 @@ Und Gott sprach zu Noah: @@„Das Ende alles Fleisches ist vor mich gekommen, de
 
 @@Vom Vogel nach seiner Art, und vom Vieh nach seiner Art, von jedem Kriechenden des Bodens nach seiner Art, zwei von allem sollen zu dir kommen, um *sie* am Leben zu erhalten.@@
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔵 **„NACH SEINER ART"**
 > - **לְמִינֵהוּ** (*leminehu*) — dieselbe *lemin*-Formel aus Gn 1:11,12,21,24,25. Die Schöpfungskategorien (*min* = Art) strukturieren die Bewahrung.
@@ -331,7 +325,7 @@ Und Gott sprach zu Noah: @@„Das Ende alles Fleisches ist vor mich gekommen, de
 
 Und Noah tat nach allem, was Gott ihm geboten hatte; so tat er.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔵 **GEHORSAMSFORMEL**
 > - **וַיַּעַשׂ נֹחַ כְּכֹל אֲשֶׁר צִוָּה אֹתוֹ אֱלֹהִים כֵּן עָשָׂה** = „Und Noah tat nach allem, was Gott ihm geboten hatte; so tat er." Emphatische doppelte Feststellung der Befolgung. Diese Formel wiederholt sich bei 7:5, 7:9, 7:16. Noahs Antwort ist schweigender Gehorsam — keine verzeichnete Rede von Noah bis 9:25.

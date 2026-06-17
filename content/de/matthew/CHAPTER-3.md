@@ -33,12 +33,6 @@
 **„Anführungszeichen":** Direkte Rede
 **der Herr:** kyrios wiedergegeben nach GS-Gottesname-Politik (Option C), wenn alttestamentliche JHWH-Stellen zitiert werden
 
-**Notizen-Symbole:**
-- 🔴 **KRITISCH** - Wichtige textliche oder Übersetzungsentscheidungen
-- 🟢 **LEXIKALISCH** - Wortbedeutungen, semantische Bandbreite, Glossarbegriffe
-- 🔵 **GRAMMATISCH** - Griechische Struktur, Verbaspekt, Syntax
-- 🟡 **THEOLOGISCH** - Interpretationsoptionen, Ambiguitätsbewahrung
-
 **Dieses Kapitel führt Yochanan (Johannes) den Eintaucher und das „Königreich der Himmel" ein.** Die Wendung *basileia tōn ouranōn* („Königreich der Himmel") erscheint hier zum ersten Mal in Matthäus — eine Wendung, die nur in diesem Evangelium vorkommt (die anderen Evangelien verwenden „Königreich Gottes"). Die TT gibt *ouranōn* als „Himmel" wieder, in Übereinstimmung mit dem hebräischen *shamayim*. Johannes' Praxis des *baptisma* wird als „Eintauchen" wiedergegeben, gemäß gesperrtem Glossar. Eigennamen folgen der TT-Transliteration: Yochanan (Johannes der Täufer), Pharisäer (nicht Perushim), Sadduzäer (nicht Tsduqim), Yarden (Jordan).
 
 ---

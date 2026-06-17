@@ -34,12 +34,6 @@
 **"Comillas":** Discurso directo
 **el Señor:** kyrios traducido según la Política del Nombre Divino GS (Opción C) al citar pasajes del AT con YHWH
 
-**Iconos de Notas:**
-- 🔴 **CRÍTICO** - Decisiones textuales o traductoras importantes
-- 🟢 **LÉXICO** - Significados de palabras, rango semántico, términos del glosario
-- 🔵 **GRAMATICAL** - Estructura griega, aspecto verbal, sintaxis
-- 🟡 **TEOLÓGICO** - Opciones interpretativas, preservación de ambigüedad
-
 **Este capítulo introduce a Yochanan el Inmersor y "el reino de los cielos."** La frase *basileia tōn ouranōn* ("reino de los cielos") aparece por primera vez en Mateo — una frase única de este Evangelio (los otros Evangelios usan "reino de Dios"). La TT traduce *ouranōn* como "cielos" según la alineación con el hebreo *shamayim*. La práctica de *baptisma* de Yochanan se traduce como "inmersión" según el glosario fijado. Los nombres propios siguen la transliteración TT: Yochanan (no Juan), Perushim (no fariseos), Tsduqim (no saduceos), Yarden (no Jordán). Las formas familiares en español se anotan en la primera aparición.
 
 ---

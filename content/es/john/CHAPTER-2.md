@@ -28,17 +28,11 @@
 
 ## GUÍA DE LECTURA
 
-**📖 Texto Principal:** Traducción primaria — legible pero fiel a la estructura griega
-**📝 Notas:** Características griegas esenciales inmediatamente debajo de cada versículo
+**Texto Principal:** Traducción primaria — legible pero fiel a la estructura griega
+**Notas:** Características griegas esenciales inmediatamente debajo de cada versículo
 ***Cursiva:*** Palabras agregadas para la gramática española (no presentes en el texto griego)
 **"Comillas":** Discurso directo
 **el Señor:** kyrios traducido según la Política GS del Nombre Divino (Opción C) al citar pasajes del AT que contienen YHWH
-
-**Iconos de Notas:**
-- 🔴 **CRÍTICO** - Decisiones textuales o traductoras importantes
-- 🟢 **LÉXICO** - Significados de palabras, rango semántico, términos del glosario
-- 🔵 **GRAMATICAL** - Estructura griega, aspecto verbal, sintaxis
-- 🟡 **TEOLOGICO** - Opciónes interpretativas, preservacion de ambiguedad
 
 **Este capítulo contiene dos escenas principales y una nota de transición.** La boda en Qanah (vv.1-12) introduce la primera "señal" (*semeion*) — un término que Juan usa deliberadamente en lugar de "milagro" (*dynamis*) o "prodigio" (*teras*). La limpieza del templo (vv.13-22) introduce la distinción entre naos (*naos*, el santuario interior) y hieron (*hieron*, el complejo del templo). El capítulo cierra con un comentario del narrador sobre el conocimiento que Yeshua tiene de la naturaleza humana (vv.23-25). Los nombres propios siguen la transliteracion TT: Qanah (no Cana), Yeshua (no Jesus), Kfar Najum (no Cafarnaum), Yerushalayim (no Jerusalén).
 
@@ -82,7 +76,7 @@
 
 Y al tercer día tuvo lugar una boda en Qanah del Galil, y la madre de Yeshua estaba allí.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **"AL TERCER DIA" — te hemera te trite**
 > - La frase te hemera te trite (*te hemera te trite*) = "al tercer día." Contado desde el último evento narrado en el cap.1 (el llamado de Philippos y Nathanael). Los marcadores de día acumulados en 1:29, 1:35, 1:43, y ahora 2:1 crean una secuencia que abarca aproximadamente una semana — haciendo eco de la estructura de creación de siete días de Gen 1. Si este eco es deliberado o coincidental es debatido. La frase "al tercer día" recurrira con diferente significado en v.19 (la prediccion de la resurrección).
@@ -99,7 +93,7 @@ Y al tercer día tuvo lugar una boda en Qanah del Galil, y la madre de Yeshua es
 
 Y Yeshua también fue invitado, y sus seguidores, a la boda.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **"SEGUIDORES" — mathetai (*mathetai*)**
 > - **mathetai** (*mathetai*) = aprendices, estudiantes, seguidores. El término describe a quienes siguen a un maestro para aprender. Para este punto de la narrativa (tras 1:35-51), Yeshua ha reunido al menos cinco seguidores: Andreas, el discipulo sin nombre, Shimon Kefa, Philippos y Nathanael.
@@ -110,7 +104,7 @@ Y Yeshua también fue invitado, y sus seguidores, a la boda.
 
 Y *cuando* falto el vino, la madre de Yeshua le dice: "No tienen vino."
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **"FALTO EL VINO" — hysteresantos tou oinou**
 > - **hysteresantos tou oinou** = genitivo absoluto, "habiendo faltado el vino" — temporal: "cuando falto el vino." El verbo **hystereo** (*hystereo*) = faltar, escasear, acabarse. Quedarse sin vino en una boda era un fracaso social grave para la familia anfitriona — implicaba provision inadecuada y traia verguenza.
@@ -124,7 +118,7 @@ Y *cuando* falto el vino, la madre de Yeshua le dice: "No tienen vino."
 
 Y Yeshua le dice: @@"¿Qué a mí y a ti, mujer? Mi hora aún no ha llegado."@@
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **CRÍTICO — ti emoi kai soi ("¿QUE A MI Y A TI?")**
 > - **ti emoi kai soi, gynai** (*ti emoi kai soi, gynai*) = literalmente "¿que a mí y a ti, mujer?" Este es un modismo semitico (hebreo: mah-li valakh, *mah-li valakh*) encontrado en la BH en Jueces 11:12, 2 Sam 16:10, 1 Reyes 17:18, 2 Reyes 3:13, 2 Cron 35:21. En cada ocurrencia en la BH, la expresión crea distancia — "¿que tenemos que ver el uno con el otro?" o "¿que hay entre nosotros?" El modismo va desde un leve desvincularse ("esto no es asunto mio") hasta un rechazo tajante ("dejame en paz") dependiendo del contexto. La TT traduce literalmente según la Regla 1. Cualquier suavizacion ("¿Qué tiene eso que ver con nosotros?" o "¿Por qué me involucras?") oscurece la formula semítica.
@@ -141,7 +135,7 @@ Y Yeshua le dice: @@"¿Qué a mí y a ti, mujer? Mi hora aún no ha llegado."@@
 
 Su madre dice a los sirvientes: "Lo que el les diga, haganlo."
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **ECO DE GEN 41:55 — "HAGAN LO QUE EL LES DIGA"**
 > - La instrucción de la madre a los sirvientes — ho ti an lege hymin poiesate (*ho ti an lege hymin poiesate*) — hace eco de la instrucción del Faraon acerca de Yosef en Gen 41:55 LXX: poreuesthe pros Ioseph kai ho ean eipe hymin poiesate ("vayan a Yosef, y lo que el les diga, haganlo"). Si el eco es deliberado es debatido; la coincidencia verbal es lo suficientemente cercana como para senalarlo. En ambos casos, una figura de autoridad dirige a subordinados a obedecer las instrucciones de uno que proveera.
@@ -155,7 +149,7 @@ Su madre dice a los sirvientes: "Lo que el les diga, haganlo."
 
 Y había allí seis tinajas de piedra para agua, dispuestas según los *ritos de* purificación de los yehudim, cada una con capacidad de dos o tres medidas.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **"PURIFICACION" — katharismos (*katharismos*)**
 > - **kata ton katharismon ton Ioudaion** = "según la purificación de los yehudim." Las tinajas de piedra eran para el lavado ritual de manos antes de las comidas y otros ritos de purificación prescritos por la tradición judía (cf. Marcos 7:3-4). Se preferian los recipientes de piedra porque, según la normativa halajica, la piedra no contrae impureza ritual (*tum'ah*) — a diferencia de la arcilla, que debe romperse si se contamina.
@@ -172,7 +166,7 @@ Y había allí seis tinajas de piedra para agua, dispuestas según los *ritos de
 
 Yeshua les dice: @@"Llenen las tinajas con agua."@@ Y las llenaron hasta arriba.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **"HASTA ARRIBA" — heos año**
 > - **heos año** (*heos año*) = "hasta arriba/al borde." La obediencia de los sirvientes es total — sin medias tintas. El detalle elimina la posibilidad de mezcla: las tinajas estaban completamente llenas de agua.
@@ -183,7 +177,7 @@ Yeshua les dice: @@"Llenen las tinajas con agua."@@ Y las llenaron hasta arriba.
 
 Y les dice: @@"Saquen ahora y lleven *lo* al jefe de mesa."@@ Y *lo* llevaron.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **"JEFE DE MESA" — architriklinos (*architriklinos*)**
 > - **architriklinos** (*architriklinos*) = el jefe de mesa o maestro del banquete — la persona responsable de administrar el banquete, probar el vino y dirigir el servicio. Un rol social conocido en la cultura de banquetes grecorromana y judía. El jefe de mesa funciona como un testigo involuntario: prueba el vino sin conocer su origen.
@@ -194,7 +188,7 @@ Y les dice: @@"Saquen ahora y lleven *lo* al jefe de mesa."@@ Y *lo* llevaron.
 
 Y cuando el jefe de mesa probo el agua convertida en vino — y no sabía de donde era, pero los sirvientes que habían sacado el agua sabian — el jefe de mesa llama al novio
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **"EL AGUA CONVERTIDA EN VINO" — DESCRIPCIÓN PARTICIPIAL**
 > - **to hydor oinon gegenemenon** (*to hydor oinon gegenemenon*) = "el agua convertida en vino." El participio perfecto **gegenemenon** (*gegenemenon*) de ginomai (*ginomai*) = "habiendo llegado a ser" — la transformación se presenta como completada. El narrador describe el resultado sin narrar el proceso. No hay momento de transformación descrito — el agua fue sacada y el agua se había convertido en vino. El mecanismo esta ausente del texto.
@@ -208,7 +202,7 @@ Y cuando el jefe de mesa probo el agua convertida en vino — y no sabía de don
 
 y le dice: "Todo hombre sirve primero el buen vino, y cuando *ya* se han embriagado, el inferior. Tu has guardado el buen vino hasta ahora."
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **"SE HAN EMBRIAGADO" — methysthosin (*methysthosin*)**
 > - **methysthosin** (*methysthosin*) = aoristo pasivo subjuntivo de methysko (*methysko*) = "embriagarse/emborracharse." La observación del jefe de mesa es práctica, no teológica: la costumbre del banquete era servir el mejor vino primero, antes de que los paladares de los invitados se adormecieran. El texto no moraliza sobre la embriaguez — registra la observación del jefe de mesa sobre la práctica habitual.
@@ -222,7 +216,7 @@ y le dice: "Todo hombre sirve primero el buen vino, y cuando *ya* se han embriag
 
 Este principio de las señales lo hizo Yeshua en Qanah del Galil y revelo su gloria, y sus seguidores confiaron en el.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **CRÍTICO — "SENAL" (*SEMEION*), NO "MILAGRO"**
 > - **semeion** (*semeion*) = señal — algo que apunta a una realidad más allá de sí mismo. Juan nunca usa **dynamis** (*dynamis*, "poder/obra poderosa") ni **teras** (*teras*, "prodigio/portento") para describir los actos de Yeshua. Los Sinópticos usan *dynamis* frecuentemente. El término joanico *semeion* enmarca el acto como revelador — significa algo, no simplemente exhibe poder. La transformación de agua en vino no se llama "milagro" — se llama "señal." La distinción es deliberada y determinante para la teología de Juan.
@@ -242,7 +236,7 @@ Este principio de las señales lo hizo Yeshua en Qanah del Galil y revelo su glo
 
 Después de esto bajo a Kfar Najum — el y su madre y sus hermanos y sus seguidores — y se quedaron allí no muchos días.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **KFAR NAJUM — TRANSLITERACION TT**
 > - **Kapharnaoum** (*Kapharnaoum*) = forma griega del hebreo/arameo Kfar Najum (*Kfar Najum*, "aldea de Najum"). La TT usa la forma semítica. Kfar Najum era una aldea pesquera en la costa noroeste del Kinneret (Mar de Galilea). Los Sinópticos lo presentan como la base del ministerio galileo de Yeshua.
@@ -259,7 +253,7 @@ Después de esto bajo a Kfar Najum — el y su madre y sus hermanos y sus seguid
 
 Y la Pascua de los yehudim estaba cerca, y Yeshua subió a Yerushalayim.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **"PASCUA" — pascha (*pascha*)**
 > - **to pascha** (*to pascha*) = Pascua — del hebreo pesach (*pesach*). Juan menciona tres Pascuas (2:13, 6:4, 11:55), lo que implica un ministerio de al menos dos a tres años. Los Sinópticos narran solo una Pascua. La ubicación de la limpieza del templo en la primera Pascua (en lugar de la última, como en los Sinópticos) es una diferencia estructural significativa — vea nota en v.14.
@@ -273,7 +267,7 @@ Y la Pascua de los yehudim estaba cerca, y Yeshua subió a Yerushalayim.
 
 Y encontró en el *complejo del* templo a los que vendian ganado y ovejas y palomas, y a los cambistas sentados.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **CRÍTICO — hieron (*HIERON*) vs. naos (*NAOS*)**
 > - **en to hiero** (*en to hiero*) = "en el *hieron*" — el complejo del templo en su totalidad, incluyendo los atrios, pórticos y áreas comerciales. Esto es distinto de **naos** (*naos*), el santuario interior (el lugar santo y el santo de los santos), al cual Yeshua se referira en v.19. El comercio tenía lugar en el Atrio de los Gentiles — el atrio mas exterior del complejo del templo. La TT traduce *hieron* como "*complejo del* templo" (en cursiva para marcar la distinción) y *naos* como "santuario."
@@ -290,7 +284,7 @@ Y encontró en el *complejo del* templo a los que vendian ganado y ovejas y palo
 
 Y habiendo hecho un latigo de cuerdas, los expulso a todos del *complejo del* templo, tanto las ovejas como el ganado, y derramo las monedas de los cambistas y volco las mesas.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **"HABIENDO HECHO UN LATIGO" — phragellion poiesas**
 > - **phragellion** (*phragellion*) = un latigo, del latin *flagellum*. La palabra es un prestamo — uno de varios términos latinos en Juan (cf. praitorion, *praitorion*, 18:28; lithostraton, *lithostraton*, 19:13). **ek schoinion** (*ek schoinion*) = "de cuerdas/juncos." El latigo es improvisado con materiales a mano. Solo Juan menciona el latigo.
@@ -304,7 +298,7 @@ Y habiendo hecho un latigo de cuerdas, los expulso a todos del *complejo del* te
 
 Y a los que vendian las palomas les dijo: @@"Quiten estas *cosas* de aquí; no hagan de la casa de mí Padre una casa de comercio."@@
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟡 **"CASA DE MI PADRE" — ton oikon tou patros mou**
 > - Yeshua se refiere al templo como "la casa de mí Padre" — una pretension de relación filial con Dios que el narrador no califica. Los paralelos sinópticos citan Isa 56:7 ("mi casa sera llamada casa de oración") y Jer 7:11 ("cueva de ladrones"). Juan no cita ninguno — el cargo es diferente: no robo (*lesterion*) sino comercio (*emporion*). El asunto no es la explotacion sino la presencia del comercio en la casa del Padre.
@@ -318,7 +312,7 @@ Y a los que vendian las palomas les dijo: @@"Quiten estas *cosas* de aquí; no h
 
 Sus seguidores recordaron que esta escrito: "El celo de tu casa me consumira."
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **CRÍTICO — CITA DEL SALMO 69:9 (LXX 68:10)**
 > - **ho zelos tou oikou sou kataphagetai me** = "el celo de tu casa me consumira." Citado del Salmo 69:9 (LXX 68:10). El original hebreo dice: ki-qin'at beytekha akhalatni (*ki-qin'at beytekha akhalatni*) = "porque el celo de tu casa me ha consumido" — tiempo pasado. La LXX traduce el verbo como futuro: kataphagetai (*kataphagetai*) = "consumira." Juan sigue el futuro de la LXX, que transforma el salmo de un lamento pasado a una anticipacion profetica. El "celo" (*zelos*) que "consumira" a Yeshua apunta hacia adelante, a la pasión — su celo por la casa de Dios conducira a su muerte.
@@ -332,7 +326,7 @@ Sus seguidores recordaron que esta escrito: "El celo de tu casa me consumira."
 
 Entonces los yehudim respondieron y le dijeron: "¿Qué señal nos muestras, *dado* que haces estas cosas?"
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟡 **DEMANDA DE UNA SENAL — CUESTION DE AUTORIDAD**
 > - Los yehudim demandan un **semeion** (*semeion*) — una señal que autentique la autoridad de Yeshua para interrumpir las operaciones del templo. La demanda asume que las acciones proféticas o mesianicas requieren credenciales validadoras. La ironía: Yeshua acaba de realizar la primera señal (v.11), pero esta audiencia no estuvo presente en Qanah. Demandan lo que ya fue dado en otro lugar.
@@ -346,7 +340,7 @@ Entonces los yehudim respondieron y le dijeron: "¿Qué señal nos muestras, *da
 
 Yeshua respondió y les dijo: @@"Destruyan este santuario, y en tres días lo levantare."@@
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **CRÍTICO — naos (*NAOS*), NO hieron (*HIERON*)**
 > - **lysate ton naon touton** = "destruyan este *naos*." Yeshua cambia de *hieron* (el complejo del templo, v.14) a *naos* (el santuario interior). El *naos* es el nucleo sagrado — el lugar donde habita la presencia de Dios, el santo de los santos. El narrador explicara (v.21) que Yeshua hablaba de su cuerpo como el *naos*. El cambio de *hieron* a *naos* es deliberado — el cuerpo no es el "complejo del templo" (la estructura institucional) sino el "santuario" (el lugar de habitación de la presencia divina).
@@ -363,7 +357,7 @@ Yeshua respondió y les dijo: @@"Destruyan este santuario, y en tres días lo le
 
 Entonces los yehudim dijeron: "Este santuario fue construido *durante* cuarenta y seis años, ¿y tu lo levantaras en tres días?"
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **"CUARENTA Y SEIS ANOS" — tesserakonta kai hex etesin**
 > - Herodes el Grande comenzo la renovación/ampliacion del templo aproximadamente en el 20/19 a.C. (Josefo, *Antigüedades* 15.380). Cuarenta y seis años desde esa fecha situa *c.* 27/28 d.C. — un marcador cronológico para la datacion del ministerio de Yeshua. La construcción tecnicamente aun continuaba (no se completo hasta aproximadamente el 63 d.C., solo siete años antes de su destrucción en el 70 d.C.). El verbo **oikodomethé** (*oikodomethé*) = aoristo pasivo, "fue construido" — resumiendo la construcción como un todo completado, aunque la obra continuaba.
@@ -374,7 +368,7 @@ Entonces los yehudim dijeron: "Este santuario fue construido *durante* cuarenta 
 
 Pero el hablaba del santuario de su cuerpo.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **CRÍTICO — EXPLICACION RETROSPECTIVA DEL NARRADOR**
 > - **ekeinos de elegen peri tou naou tou somatos autou** = "pero aquel hablaba del *naos* de su cuerpo." Este es el comentario interpretativo del narrador, insertado para guiar al lector. El imperfecto **elegen** (*elegen*) = "hablaba" — el narrador explica lo que Yeshua estaba diciendo todo el tiempo. La identificación cuerpo = *naos* (santuario, lugar de habitación de Dios) es explicita. Esta clave hermenéutica es dada por el narrador, no por Yeshua — dentro de la historia, los yehudim no reciben esta explicación.
@@ -388,7 +382,7 @@ Pero el hablaba del santuario de su cuerpo.
 
 Cuando pues fue levantado de *entre los* muertos, sus seguidores recordaron que había dicho esto, y confiaron en la escritura y en la palabra que Yeshua había hablado.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **"FUE LEVANTADO" — egerthe (AORISTO PASIVO)**
 > - **egerthe** (*egerthe*) = aoristo pasivo de egeiro (*egeiro*) = "fue levantado." La voz pasiva implica un agente: fue levantado (por Dios). Esto contrasta con v.19 donde Yeshua dice "yo lo levantare" (activo) — sugiriendo tanto agencia divina como auto-agencia en la resurrección. La tensión entre voz pasiva y activa se preserva, no se resuelve.
@@ -405,7 +399,7 @@ Cuando pues fue levantado de *entre los* muertos, sus seguidores recordaron que 
 
 Y cuando estaba en Yerushalayim en la Pascua, en la fiesta, muchos confiaron en su nombre, viendo las señales que hacia.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟡 **CONFIANZA BASADA EN SENALES — CALIFICADA**
 > - **polloi episteusan eis to onoma autou** = "muchos confiaron en su nombre." La confianza descrita aquí es impulsada por señales — la misma base que la confianza de los seguidores en v.11. Pero los versículos siguientes (24-25) calificaran esta confianza como insuficiente. Juan distingue entre confianza impulsada por señales (que Yeshua no corresponde) y una confianza mas profunda. El griego es idéntico en forma al v.11 — la diferencia esta en la respuesta de Yeshua.
@@ -419,7 +413,7 @@ Y cuando estaba en Yerushalayim en la Pascua, en la fiesta, muchos confiaron en 
 
 Pero Yeshua mismo no se confiaba a ellos, porque el conocía a todos,
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **CRÍTICO — JUEGO DE PALABRAS CON *PISTEUO* (CONFIAR/CONFIARSE)**
 > - **autos de Iesous ouk episteuen hauton autois** = "pero Yeshua mismo no se confiaba a ellos." El verbo **pisteuo** (*pisteuo*) se usa en v.23 para la confianza de la multitud en Yeshua y en v.24 para la no-confianza de Yeshua hacia la multitud. El juego de palabras es intraducible sin preservar la misma raiz verbal: ellos *confiaron* en el, pero el no se *confio* a ellos. El imperfecto **episteuen** (*episteuen*) = no-confianza continua — habitual, no una decisión única.
@@ -433,7 +427,7 @@ Pero Yeshua mismo no se confiaba a ellos, porque el conocía a todos,
 
 y porque no tenía necesidad de que alguien testificara acerca del ser humano — pues el mismo sabía lo que había en el ser humano.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **"EL SER HUMANO" — tou anthropou / to anthropo**
 > - **ti en en to anthropo** = "lo que había en el ser humano." El articulo **to** (*to*) es genérico — "el ser humano" como categoría, no una persona especifica. El conocimiento de Yeshua no se limita a ciertos individuos; se extiende a la naturaleza humana misma. La declaración es antropológica: el sabe lo que los humanos son. El capítulo que comenzo con una boda termina con una declaración sobre la falta de fiabilidad de la naturaleza humana.

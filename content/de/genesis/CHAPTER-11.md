@@ -26,17 +26,11 @@
 
 ## LESEANLEITUNG
 
-**📖 Haupttext:** Primäre Übersetzung—lesbar aber treu der hebräischen Struktur
-**📝 Notizen:** Wesentliche hebräische Merkmale unmittelbar unter jedem Vers
+**Haupttext:** Primäre Übersetzung—lesbar aber treu der hebräischen Struktur
+**Notizen:** Wesentliche hebräische Merkmale unmittelbar unter jedem Vers
 ***Kursiv:*** Wörter für deutsche Grammatik hinzugefügt (nicht im hebräischen Text)
 **„Anführungszeichen":** Direkte göttliche Rede
 **JHWH:** Tetragrammaton konsonantisch transliteriert (Regel 25, Option A)
-
-**Notizen-Symbole:**
-- 🔴 **KRITISCH** - Wichtige textliche oder Übersetzungsentscheidungen
-- 🟢 **LEXIKALISCH** - Wortbedeutungen, Wurzelmuster, Glossarbegriffe
-- 🔵 **GRAMMATISCH** - Hebräische Struktur, Verbformen, Syntax
-- 🟡 **THEOLOGISCH** - Interpretationsoptionen, Ambiguitätsbewahrung
 
 **Dieses Kapitel enthält die Turmbauerzählung von Bavel (11:1–9) und die Genealogie Shems (11:10–32).** Die Bavel-Erzählung schließt die Urgeschichte mit einer zweiten Zerstreuung ab — die erste war geographisch (Kap. 10, Völkertafel); diese ist sprachlich. Das menschliche „lasst uns" (*havah*) von 11:3–4 echot Gottes „lasst uns" von 1:26 — aber auf Selbsterhöhung gerichtet. Die Genealogie überbrückt die Urgeschichte zu den Vätererzählungen: zehn Generationen von Shem zu Avram (Abram), mit sinkenden Lebensspannen von 600 auf 205. Terachs *Toledot* (11:27) führt Abram ein, und das Kapitel endet mitten in der Reise — die Familie verlässt Ur in Richtung Kenaan (Kanaan), hält aber in Charan an.
 
@@ -92,7 +86,7 @@
 
 Und das ganze Land war *von* einer Lippe und einem *Satz von* Worten.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟡 **STUFE 2 — REZEPTIONSHINWEIS**
 > - Die Babel-Erzählung sollte nicht als pauschale Verurteilung von Technologie, städtischer Zivilisation oder sprachlicher Vielfalt gelesen werden. Siehe Begleitmaterial Abschnitt F für historischen Kontext zu dokumentierten Fehllektüren.
@@ -109,7 +103,7 @@ Und das ganze Land war *von* einer Lippe und einem *Satz von* Worten.
 
 Und es geschah, als sie von Osten aufbrachen, fanden sie eine Ebene im Land Shinar, und sie ließen sich dort nieder.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟢 **„VON OSTEN" (*mi-qedem*)**
 > - **מִקֶּדֶם** = „von Osten" oder „ostwärts." Dieselbe Richtungsmehrdeutigkeit wie Gn 3:24 (die Cherubim *mi-qedem* von Eden aufgestellt). Bewegung nach Osten ist in Genesis durchgehend Bewegung weg von der göttlichen Gegenwart: Adam ostwärts vertrieben (3:24), Kain geht nach Osten (4:16), Lot geht nach Osten (13:11). Hier wandert die Menschheit ostwärts — das Muster fortsetzend.
@@ -126,7 +120,7 @@ Und es geschah, als sie von Osten aufbrachen, fanden sie eine Ebene im Land Shin
 
 Und sie sprachen, einer zu seinem Nächsten: „Kommt, lasst uns Ziegel machen und *sie* gründlich brennen." Und der Ziegel war ihnen für Stein, und das Erdpech war ihnen für Mörtel.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **„KOMMT, LASST UNS" (*havah*) — ERSTES VORKOMMEN**
 > - **הָבָה** (*havah*) = „kommt!" — eine auffordernde Partikel. Dies ist das erste von drei Vorkommen in der Bavel-Erzählung: Menschen sagen *havah* bei 11:3 und 11:4; JHWH sagt *havah* bei 11:7. Die strukturelle Spiegelung ist bewusst: das „kommt, lasst uns" der Menschheit wird von Gottes „kommt, lasst uns" beantwortet.
@@ -143,7 +137,7 @@ Und sie sprachen, einer zu seinem Nächsten: „Kommt, lasst uns Ziegel machen u
 
 Und sie sprachen: „Kommt, lasst uns für uns eine Stadt bauen und einen Turm, und seine Spitze in den Himmeln, und lasst uns für uns einen Namen machen, damit wir nicht zerstreut werden über die Fläche des ganzen Landes."
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **„KOMMT, LASST UNS" (*havah*) — ZWEITES VORKOMMEN**
 > - Zweites *havah* von menschlicher Seite. Zwei menschliche Initiativen: (1) „lasst uns Ziegel machen" (V.3), (2) „lasst uns eine Stadt und einen Turm bauen... lasst uns einen Namen machen" (V.4). JHWH wird mit einem einzigen *havah* (V.7) antworten, das beides zunichtemacht.
@@ -163,7 +157,7 @@ Und sie sprachen: „Kommt, lasst uns für uns eine Stadt bauen und einen Turm, 
 
 Und JHWH kam herab, um die Stadt und den Turm zu sehen, den die Söhne des Menschen gebaut hatten.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **KRITISCH — „JHWH KAM HERAB" (*vayyered JHWH*)**
 > - **וַיֵּרֶד יהוה** = „und JHWH kam herab." Anthropomorphe Sprache: Gott steigt hinab, um nachzusehen. Die vernichtende Ironie — der Turm, dessen Spitze „in den Himmeln" ist, ist aus göttlicher Perspektive so klein, dass JHWH *herabkommen* muss, um ihn zu sehen. Was vom menschlichen Blickpunkt aus die Himmel erreicht, ist vom göttlichen unsichtbar.
@@ -177,7 +171,7 @@ Und JHWH kam herab, um die Stadt und den Turm zu sehen, den die Söhne des Mensc
 
 Und JHWH sprach: @@„Siehe, *sie sind* ein Volk und eine Lippe ihnen allen, und dies *ist, was* sie zu tun beginnen; und nun wird ihnen nichts verwehrt werden, alles, was sie zu tun planen.@@
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟡 **„NICHTS WIRD VERWEHRT WERDEN" (*lo yibatser mehem*)**
 > - **לֹא־יִבָּצֵר מֵהֶם** = „nichts wird ihnen abgeschnitten/verwehrt werden." Das Verb *batsar* bedeutet abschneiden, befestigen, verwehren. JHWHs Bedenken: vereinigte Menschheit mit vereinheitlichter Sprache wird keine Grenze haben für das, was sie erreichen können. Ob dies eine Bedrohung, eine Gefahr oder einfach eine Beobachtung ist — der Text spezifiziert die Art des Bedenkens nicht. Die TT gibt ohne Motivzuschreibung wieder.
@@ -191,7 +185,7 @@ Und JHWH sprach: @@„Siehe, *sie sind* ein Volk und eine Lippe ihnen allen, und
 
 @@Kommt, lasst uns hinabsteigen und lasst uns dort ihre Lippe verwirren, sodass sie nicht hören, einer die Lippe seines Nächsten."@@
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **„KOMMT, LASST UNS" (*havah*) — DRITTES VORKOMMEN (JHWH)**
 > - **הָבָה** — nun von JHWH gesprochen. Das göttliche *havah* antwortet auf das menschliche *havah* von Vv.3–4. Die strukturelle Balance: Menschen sagen „kommt, lasst uns" zweimal (bauen, einen Namen machen); JHWH sagt „kommt, lasst uns" einmal (verwirren). Ein göttlicher Akt macht zwei menschliche Pläne zunichte.
@@ -211,7 +205,7 @@ Und JHWH sprach: @@„Siehe, *sie sind* ein Volk und eine Lippe ihnen allen, und
 
 Und JHWH zerstreute sie von dort über die Fläche des ganzen Landes, und sie hörten auf, die Stadt zu bauen.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **„ZERSTREUTE" (*vayyaphets*) — IRONISCHE UMKEHR**
 > - **וַיָּפֶץ** = „und er zerstreute." Wurzel: *puts* (zerstreuen). Genau das Ergebnis, das sie zu verhindern suchten (V.4, *pen naphuts*, „damit wir nicht zerstreut werden"), ist das Ergebnis, das JHWH herbeiführt. Die Ironie ist strukturell: Furcht → Präventionsversuch → das Befürchtete tritt genau wegen des Präventionsversuchs ein.
@@ -225,7 +219,7 @@ Und JHWH zerstreute sie von dort über die Fläche des ganzen Landes, und sie h�
 
 Darum wurde ihr Name Bavel genannt, denn dort verwirrte JHWH die Lippe des ganzen Landes, und von dort zerstreute JHWH sie über die Fläche des ganzen Landes.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **KRITISCH — BAVEL/BALAL-WORTSPIEL**
 > - **בָּבֶל** (Bavel) / **בָּלַל** (*balal*) — der Name Bavel wird durch das Verb *balal* (verwirren) erklärt. Die Volksetymologie ist transparent: Bavel klingt wie *balal*. Die tatsächliche akkadische Etymologie von Babylon (*bab-ili* = „Tor Gottes") ist das Gegenteil — „Tor Gottes" vs. „Verwirrung." Der hebräische Erzähler kehrt das Selbstverständnis der Stadt um: was Babylon „das Tor Gottes" nennt, nennt der Text „Verwirrung."
@@ -239,7 +233,7 @@ Darum wurde ihr Name Bavel genannt, denn dort verwirrte JHWH die Lippe des ganze
 
 Dies *sind* die Geschlechterfolgen Shems. Shem war hundert Jahre alt, und er zeugte Arpakhshad, zwei Jahre nach der Flut.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 ***TOLEDOT* — „GESCHLECHTER SHEMS"**
 > - **אֵלֶּה תּוֹלְדֹת שֵׁם** = „Dies *sind* die Geschlechterfolgen Shems." Die fünfte *Toledot*-Formel in der Genesis (nach 2:4, 5:1, 6:9, 10:1). Diese Genealogie parallelisiert Gn 5 in ihrer Struktur, weist aber wesentliche Unterschiede auf: Lebensspannen sind kürzer und sinkend, und der Refrain „und er starb" fehlt bei den meisten Einträgen.
@@ -253,7 +247,7 @@ Dies *sind* die Geschlechterfolgen Shems. Shem war hundert Jahre alt, und er zeu
 
 Und Shem lebte, nachdem er Arpakhshad gezeugt hatte, fünfhundert Jahre, und er zeugte Söhne und Töchter.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔵 **GENEALOGISCHE FORMEL — MODIFIZIERT**
 > - Die Gn-11-Formel unterscheidet sich von Gn 5: (1) keine Gesamtlebensspanne wird angegeben; (2) „und er starb" fehlt. Die Formel lautet: „X lebte Y Jahre, zeugte Z. X lebte nach der Zeugung von Z W Jahre, zeugte Söhne und Töchter." Die Verknappung signalisiert einen Übergang — der Erzähler bewegt sich auf Avram (Abram) zu.
@@ -288,7 +282,7 @@ Und Shelach lebte, nachdem er Ever gezeugt hatte, vierhundertdrei Jahre, und er 
 
 Und Ever lebte vierunddreißig Jahre, und er zeugte Peleg.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟢 **EVER (*Ever*)**
 > - **עֵבֶר** = Ever/Eber. Der namengebende Vorfahre der *Ivrim* (Hebräer). Der Name ist verwandt mit der Wurzel *avar* (überqueren, hindurchgehen). „Hebräer" (*Ivri*) bedeutet wahrscheinlich „einer, der überquert hat" — eine Bezeichnung, die sich an Abram heften wird (Gn 14:13, „Abram, der Hebräer").
@@ -305,7 +299,7 @@ Und Ever lebte, nachdem er Peleg gezeugt hatte, vierhundertdreißig Jahre, und e
 
 Und Peleg lebte dreißig Jahre, und er zeugte Re'u.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟢 **PELEG (*Peleg*)**
 > - **פֶּלֶג** = Peleg, Bedeutung „Teilung." Gn 10:25: „in seinen Tagen wurde das Land geteilt (*niphlegah*)." Der Name markiert die Generation der Teilung — ob die Bavel-Zerstreuung, ein geographisches Ereignis oder beides.
@@ -316,7 +310,7 @@ Und Peleg lebte dreißig Jahre, und er zeugte Re'u.
 
 Und Peleg lebte, nachdem er Re'u gezeugt hatte, zweihundertneun Jahre, und er zeugte Söhne und Töchter.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔵 **SINKENDE LEBENSSPANNEN**
 > - Pelegs Gesamtlebensspanne (239 Jahre) ist drastisch kürzer als die seiner Vorfahren: Shem 600, Arpakhshad 438, Shelach 433, Ever 464, Peleg 239. Der Abfall von Ever zu Peleg ist der steilste in der Genealogie — die Generation der „Teilung" ist zugleich die Generation, in der die Langlebigkeit scharf absinkt.
@@ -357,7 +351,7 @@ Und Nahor lebte neunundzwanzig Jahre, und er zeugte Terach.
 
 Und Nahor lebte, nachdem er Terach gezeugt hatte, hundertneunzehn Jahre, und er zeugte Söhne und Töchter.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔵 **NACHORS LEBENSSPANNE**
 > - Gesamt: 148 Jahre. Die kürzeste in der Genealogie bisher. Der Rückgang setzt sich fort: 600 → 438 → 433 → 464 → 239 → 239 → 230 → 148. Die Welt nahezu tausendjähriger Lebensspannen (Gn 5) geht zu Ende.
@@ -368,7 +362,7 @@ Und Nahor lebte, nachdem er Terach gezeugt hatte, hundertneunzehn Jahre, und er 
 
 Und Terach lebte siebzig Jahre, und er zeugte Abram, Nahor und Haran.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **KRITISCH — DREI SÖHNE**
 > - Das Muster echot Gn 5:32 („Noach (Noah)... zeugte Shem, Cham (Ham) und Yafet (Jafet)"). Beide Genealogien enden damit, dass ein Vater drei namentlich genannte Söhne hervorbringt. Noahs drei Söhne besiedelten die nachsintflutliche Welt; Terachs drei Söhne werden die Vätererzählungen bevölkern.
@@ -382,7 +376,7 @@ Und Terach lebte siebzig Jahre, und er zeugte Abram, Nahor und Haran.
 
 Und dies *sind* die Geschlechterfolgen Terachs. Terach zeugte Abram, Nahor und Haran; und Haran zeugte Lot.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 ***TOLEDOT* — „GESCHLECHTER TERACHS"**
 > - **אֵלֶּה תּוֹלְדוֹת תֶּרַח** = „dies sind die *Toledot* Terachs." Die sechste *Toledot*-Formel. Beachte: die *Toledot* ist von **Terach**, nicht von Abram — die Vätererzählung beginnt unter der Überschrift des Vaters, wie Gn 6:9 Noahs Erzählung unter seiner eigenen *Toledot* begann.
@@ -396,7 +390,7 @@ Und dies *sind* die Geschlechterfolgen Terachs. Terach zeugte Abram, Nahor und H
 
 Und Haran starb im Angesicht Terachs, seines Vaters, im Land seiner Geburt, in Ur der Kasdim.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **„STARB IM ANGESICHT VON" (*al penei*)**
 > - **עַל־פְּנֵי תֶּרַח אָבִיו** = „auf dem Angesicht von / im Angesicht Terachs, seines Vaters." Haran stirbt *vor* seinem Vater — das erste verzeichnete Beispiel, dass ein Kind vor einem Elternteil in Genesis stirbt. Der Ausdruck *al penei* („auf dem Angesicht von") kann „zu Lebzeiten von" oder „vor den Augen von" bedeuten. Der Text markiert dies als Umkehrung der natürlichen Ordnung.
@@ -410,7 +404,7 @@ Und Haran starb im Angesicht Terachs, seines Vaters, im Land seiner Geburt, in U
 
 Und Abram und Nahor nahmen sich Frauen; der Name der Frau Abrams *war* Sarai, und der Name der Frau Nahors *war* Milkah, Tochter Harans, des Vaters von Milkah und des Vaters von Yiskah.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟢 **SARAI (*Sarai*)**
 > - **שָׂרַי** = Sarai, Bedeutung „meine Fürstin" oder „Fürstin." Noch nicht Sarah — die Namensänderung erfolgt bei Gn 17:15.
@@ -427,7 +421,7 @@ Und Abram und Nahor nahmen sich Frauen; der Name der Frau Abrams *war* Sarai, un
 
 Und Sarai war unfruchtbar; sie hatte kein Kind.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **KRITISCH — „UNFRUCHTBAR" (*aqarah*)**
 > - **וַתְּהִי שָׂרַי עֲקָרָה אֵין לָהּ וָלָד** = „Und Sarai war unfruchtbar; es war ihr kein Kind." Ausgesagt ohne Erklärung, ohne Kommentar, ohne Auflösung. Die doppelte Betonung (*aqarah* + „kein Kind") ist ein narratives Problem, zur späteren Lösung gesetzt. Die Unfruchtbarkeit der Stammutter — einer Frau, deren Name „Fürstin" bedeutet und die keinen Erben hat — treibt die gesamte abrahamitische Erzählung an, beginnend bei Gn 12.
@@ -438,7 +432,7 @@ Und Sarai war unfruchtbar; sie hatte kein Kind.
 
 Und Terach nahm Abram, seinen Sohn, und Lot, den Sohn Harans, seinen Enkel, und Sarai, seine Schwiegertochter, die Frau Abrams, seines Sohnes; und sie zogen mit ihnen aus von Ur der Kasdim, um in das Land Kenaan (Kanaan) zu gehen; und sie kamen bis Charan, und sie ließen sich dort nieder.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **KRITISCH — UNVOLLENDETE REISE**
 > - Das Ziel ist Kenaan — aber die Familie hält bei **Charan** an und lässt sich dort nieder. Die Reise bleibt unvollendet unter Terachs Initiative. Es wird eines göttlichen Rufes bedürfen (Gn 12:1, „Geh aus deinem Land..."), um zu vollenden, was Terach begann. Die narrative Spannung: das Ziel ist genannt, die Reise begonnen, und das Kapitel endet mit der Familie kurz vor dem Ziel feststeckend.
@@ -455,7 +449,7 @@ Und Terach nahm Abram, seinen Sohn, und Lot, den Sohn Harans, seinen Enkel, und 
 
 Und die Tage Terachs waren zweihundertfünf Jahre, und Terach starb in Charan.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔵 **TOD IN CHARAN — NICHT IN KENAAN**
 > - Terach stirbt in Charan, nicht in Kenaan. Er gelangt nie ans Ziel. Der Mann, der die Reise begann, vollendet sie nicht. Die Vollendung fällt an Abram (Gn 12:4–5).

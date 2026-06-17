@@ -35,12 +35,6 @@
 **"Comillas":** Discurso divino directo
 **raqia:** Terminos hebreos transliterados (explicados en las notas)
 
-**Iconos de Notas:**
-- 🔴 **CRÍTICO** - Decisiones textuales o traductoras importantes
-- 🟢 **LÉXICO** - Significados de palabras, patrones de raices, términos del glosario
-- 🔵 **GRAMATICAL** - Estructura hebrea, formas verbales, sintaxis
-- 🟡 **TEOLÓGICO** - Opciónes interpretativas, preservacíon de ambigüedad
-
 ---
 
 ## VISIÓN GENERAL DEL CAPÍTULO

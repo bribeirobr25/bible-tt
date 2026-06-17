@@ -27,18 +27,12 @@
 
 ## GUIA DE LEITURA
 
-**📖 Texto Principal:** Tradução primária—legível mas fiel à estrutura hebraica
-**📝 Notas:** Características hebraicas essenciais imediatamente abaixo de cada versículo
+**Texto Principal:** Tradução primária—legível mas fiel à estrutura hebraica
+**Notas:** Características hebraicas essenciais imediatamente abaixo de cada versículo
 ***Itálico:*** Palavras adicionadas para a gramática portuguesa (não presentes no texto hebraico)
 **"Aspas":** Discurso divino direto
 **YHWH:** Tetragrama transliterado consonantalmente (Regra 25, Opção A)
 **nephilim, tebah, gopher:** Termos hebraicos transliterados (explicados nas notas)
-
-**Ícones das Notas:**
-- 🔴 **CRÍTICO** - Decisões textuais ou tradutórias importantes
-- 🟢 **LEXICAL** - Significados de palavras, padrões de raízes, termos do glossário
-- 🔵 **GRAMATICAL** - Estrutura hebraica, formas verbais, sintaxe
-- 🟡 **TEOLÓGICO** - Opções interpretativas, preservação de ambiguidade
 
 **Este capítulo contém algumas das passagens mais contestadas de Gênesis.** A TT preserva toda ambiguidade que o hebraico preserva. "Filhos de Deus/dos deuses" é apresentado com barra conforme Regra 2. "Nephilim" é transliterado conforme Regra 4. As tensões da narrativa do dilúvio (dois de cada vs. sete pares) são apresentadas como o TM as lê, sem harmonização (Regra 22).
 
@@ -78,7 +72,7 @@
 
 E foi quando o humano começou a multiplicar-se sobre a face do solo, e filhas lhes nasceram,
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **"O HUMANO" — COLETIVO**
 > - **הָאָדָם** (*ha-adam*) aqui é a humanidade coletiva (com artigo), não o indivíduo Adão. "Começou a multiplicar-se" = expansão populacional.
@@ -89,7 +83,7 @@ E foi quando o humano começou a multiplicar-se sobre a face do solo, e filhas l
 
 e os filhos de {a:Deus/dos deuses} viram as filhas do humano, que *eram* boas, e tomaram para si mulheres dentre todas as que escolheram.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **CRÍTICO — "FILHOS DE DEUS/DOS DEUSES"**
 > - **בְּנֵי הָאֱלֹהִים** (*bene ha-elohim*) — uma das frases mais contestadas de Gênesis. Três leituras principais, todas **POSSÍVEIS**: (1) seres divinos/angélicos (cf. Jó 1:6, 2:1, 38:7); (2) governantes/nobres reivindicando status divino (ideologia real do AOP); (3) linhagem setita casando com a linhagem cainita (leitura judaica/cristã posterior).
@@ -104,7 +98,7 @@ e os filhos de {a:Deus/dos deuses} viram as filhas do humano, que *eram* boas, e
 
 E YHWH disse: @@"Meu espírito não {a:permanecerá/contenderá} no humano para sempre, pois ele *é* também carne; e os seus dias serão cento e vinte anos."@@
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **CRÍTICO — *yadon* — GENUINAMENTE INCERTO**
 > - **לֹא־יָדוֹן** (*lo yadon*) — o verbo é **INCERTO**. Significados propostos: (1) "permanecer/habitar" (espírito habitando nos humanos); (2) "contender/lutar" (espírito lutando com a humanidade); (3) "julgar/governar" (espírito governando os humanos). Raiz debatida: דון ou דין. A TT traduz "permanecerá/contenderá" com barra.
@@ -118,7 +112,7 @@ E YHWH disse: @@"Meu espírito não {a:permanecerá/contenderá} no humano para 
 
 Os {t:nephilim} estavam sobre a terra naqueles dias, e também depois, quando os filhos de {a:Deus/dos deuses} entraram às filhas do humano, e elas lhes geraram — eles *são* os poderosos que *foram* desde a antiguidade, homens do nome.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **CRÍTICO — NEPHILIM TRANSLITERADO**
 > - **נְפִילִים** (*nephilim*) — transliterado conforme Regra 4. "Gigantes" importa a LXX (Septuaginta, a antiga tradução grega) *gigantes*; "caídos" é etimologia popular da raiz נ-פ-ל que pode não ser a derivação real. A palavra aparece apenas aqui e em Nm 13:33. Significado **INCERTO**.
@@ -133,7 +127,7 @@ Os {t:nephilim} estavam sobre a terra naqueles dias, e também depois, quando os
 
 E YHWH viu que grande *era* a maldade do humano sobre a terra, e toda inclinação dos pensamentos do seu coração *era* somente mal o dia todo.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **"TODA INCLINAÇÃO… SOMENTE MAL"**
 > - **כָּל־יֵצֶר מַחְשְׁבֹת לִבּוֹ רַק רַע כָּל־הַיּוֹם** — linguagem absoluta: *toda* inclinação, *somente* mal, *todo* o dia. A raiz **יֵצֶר** (*yetser*) = "inclinação/formação" — mais tarde torna-se o conceito rabínico *yetzer ha-ra* (inclinação para o mal). Esta é sua primeira ocorrência.
@@ -144,7 +138,7 @@ E YHWH viu que grande *era* a maldade do humano sobre a terra, e toda inclinaç�
 
 E YHWH se arrependeu de ter feito o humano sobre a terra, e entristeceu-se até o seu coração.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **CRÍTICO — ARREPENDIMENTO DIVINO**
 > - **וַיִּנָּחֶם יהוה** (*vayyinnachem YHWH*) = "e YHWH se arrependeu/se entristeceu." Raiz: **נ-ח-ם** (*n-ch-m*) — a MESMA raiz de Noach/nacham (5:29 consolo). Jogo de palavras: aquele cujo nome significa "consolo" vem do momento de "arrependimento" divino — mesma raiz consonantal.
@@ -156,7 +150,7 @@ E YHWH se arrependeu de ter feito o humano sobre a terra, e entristeceu-se até 
 
 E YHWH disse: @@"Apagarei o humano que criei de sobre a face do solo, desde o humano até o gado, até o réptil, até a ave dos céus, pois me arrependo de os ter feito."@@
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **ESCOPO DA DESTRUIÇÃO**
 > - "Desde o humano até o gado, até o réptil, até a ave dos céus" — inverte a ordem da criação de Gn 1 (aves Dia 5, gado Dia 6, humanos Dia 6). A criação está sendo desfeita.
@@ -170,7 +164,7 @@ E YHWH disse: @@"Apagarei o humano que criei de sobre a face do solo, desde o hu
 
 Mas Noach (Noé) encontrou favor aos olhos de YHWH.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **CHEN = FAVOR/GRAÇA**
 > - **חֵן** (*chen*) = favor/graça. Primeira ocorrência. Noach encontra *chen* — note a grafia invertida: **Noach** (נ-ח) / **chen** (ח-נ). Se isso é jogo de palavras deliberado é POSSÍVEL.
@@ -181,7 +175,7 @@ Mas Noach (Noé) encontrou favor aos olhos de YHWH.
 
 Estas *são* as gerações de Noé. Noé *era* um homem justo, íntegro em suas gerações; com Deus andou Noé.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **FÓRMULA TOLEDOT — TERCEIRA OCORRÊNCIA**
 > - **אֵלֶּה תּוֹלְדוֹת נֹחַ** = "Estas são as gerações de Noach." Terceiro marcador *toledot* (2:4, 5:1, 6:9).
@@ -204,7 +198,7 @@ E Noé gerou três filhos: Shem, Cham (Cam) e Yafet (Jafé).
 
 E a terra estava corrompida diante de Deus, e a terra estava cheia de violência.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **VIOLÊNCIA**
 > - **חָמָס** (*chamas*) = violência/iniquidade. A mesma palavra aparece no v.13. A corrupção é especificamente *chamas* — não mal abstrato, mas violência ativa.
@@ -215,7 +209,7 @@ E a terra estava corrompida diante de Deus, e a terra estava cheia de violência
 
 E Deus viu a terra, e eis que estava corrompida, pois toda carne havia corrompido o seu caminho sobre a terra.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **"DEUS VIU" — INVERSO DE GN 1**
 > - Gn 1: "Deus viu que bom" (6×). Gn 6:12: "Deus viu a terra, e eis que estava corrompida." Mesmo verbo (*ra'ah*), avaliação invertida. A bondade da criação foi desfeita.
@@ -226,7 +220,7 @@ E Deus viu a terra, e eis que estava corrompida, pois toda carne havia corrompid
 
 E Deus disse a Noé: @@"O fim de toda carne veio diante de mim, pois a terra está cheia de violência por causa deles, e eis que eu *os* destruo com a terra.@@
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **"COM A TERRA"**
 > - **אֶת־הָאָרֶץ** (*et-ha-aretz*) — "com a terra" ou "e a terra." A destruição abrange não apenas a humanidade, mas a própria terra. A terra participa do julgamento.
@@ -237,7 +231,7 @@ E Deus disse a Noé: @@"O fim de toda carne veio diante de mim, pois a terra est
 
 @@Faze para ti uma {t:tebah} de madeira de {t:gopher}; compartimentos farás *na* {t:tebah}, e a cobrirás por dentro e por fora com kopher.@@
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **TEBAH — TRANSLITERADA**
 > - **תֵּבָה** (*tebah*) = arca/caixa/embarcação. Transliterada na primeira ocorrência conforme Regra 4. A palavra aparece apenas aqui (Gn 6–9) e em Êx 2:3,5 (cesto de Moisés). NÃO é um navio — o texto descreve uma caixa selada sem leme, vela ou navegação.
@@ -254,7 +248,7 @@ E Deus disse a Noé: @@"O fim de toda carne veio diante de mim, pois a terra est
 
 @@E assim *é como* a farás: trezentos côvados o comprimento da {t:tebah}, cinquenta côvados a sua largura, e trinta côvados a sua altura.@@
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **DIMENSÕES**
 > - 300 × 50 × 30 côvados. Se um côvado ≈ 45 cm: aproximadamente 135 × 22,5 × 13,5 metros. As proporções (6:1 comprimento-largura) são de uma barcaça, não de um navio.
@@ -265,7 +259,7 @@ E Deus disse a Noé: @@"O fim de toda carne veio diante de mim, pois a terra est
 
 @@Um tsohar farás para a {t:tebah}, e a um côvado a terminarás por cima, e a porta da {t:tebah} porás na sua lateral; andar inferior, segundo e terceiro a farás.@@
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **TSOHAR — INCERTO**
 > - **צֹהַר** (*tsohar*) — significado INCERTO. Propostas: (1) teto/cobertura; (2) janela/abertura; (3) fonte de luz (da raiz צ-ה-ר = brilhar). Transliterado na primeira ocorrência com nota.
@@ -276,7 +270,7 @@ E Deus disse a Noé: @@"O fim de toda carne veio diante de mim, pois a terra est
 
 @@E eu, eis que eu *estou* trazendo o dilúvio de águas sobre a terra, para destruir toda carne em que *há* fôlego de vida debaixo dos céus; tudo o que *está* sobre a terra morrerá.@@
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **MABBUL — O DILÚVIO**
 > - **הַמַּבּוּל** (*ha-mabbul*) = "o dilúvio." Termo quase único — usado apenas para ESTE dilúvio (Gn 6–11) e Sl 29:10. Não é a palavra comum para inundação (*shetzef*) ou água que sobe (*mayim*). É um cataclismo específico e nomeado.
@@ -290,7 +284,7 @@ E Deus disse a Noé: @@"O fim de toda carne veio diante de mim, pois a terra est
 
 @@Mas estabelecerei a minha aliança contigo, e entrarás na {t:tebah} — tu e teus filhos e tua mulher e as mulheres de teus filhos contigo.@@
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **CRÍTICO — PRIMEIRA ALIANÇA (BERIT)**
 > - **בְּרִיתִי** (*beriti*) = "minha aliança." **Primeira ocorrência de בְּרִית** (*berit*) na Bíblia. O conceito entra na narrativa aqui — Deus estabelece um compromisso formal e vinculante. Os termos completos não são elaborados até Gn 9:8–17 (pós-dilúvio). Aqui é declarado prolepticamente: a aliança existe antes que seu conteúdo seja revelado.
@@ -304,7 +298,7 @@ E Deus disse a Noé: @@"O fim de toda carne veio diante de mim, pois a terra est
 
 @@E de todo vivente, de toda carne, dois de todos trarás à {t:tebah} para manter vivos contigo; macho e fêmea serão.@@
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **"DOIS DE TODOS" — TENSÃO COM 7:2**
 > - Aqui: **שְׁנַיִם מִכֹּל** = "dois de todos" — um par por espécie. Em Gn 7:2: "do gado limpo, sete sete" (sete pares). A TT traduz ambos como o TM os lê **sem harmonização** conforme Regra 22 e o Princípio de Não-Harmonização. A tensão é uma característica textual, não um erro escribal a ser suavizado.
@@ -315,7 +309,7 @@ E Deus disse a Noé: @@"O fim de toda carne veio diante de mim, pois a terra est
 
 @@Da ave segundo a sua espécie, e do gado segundo a sua espécie, de todo réptil do solo segundo a sua espécie, dois de todos virão a ti para manter vivos.@@
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **"SEGUNDO A SUA ESPÉCIE"**
 > - **לְמִינֵהוּ** (*leminehu*) — mesma fórmula *lemin* de Gn 1:11,12,21,24,25. As categorias da criação (*min* = espécie) estruturam a preservação.
@@ -332,7 +326,7 @@ E Deus disse a Noé: @@"O fim de toda carne veio diante de mim, pois a terra est
 
 E Noé fez conforme tudo o que Deus lhe ordenou; assim fez.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **FÓRMULA DE OBEDIÊNCIA**
 > - **וַיַּעַשׂ נֹחַ כְּכֹל אֲשֶׁר צִוָּה אֹתוֹ אֱלֹהִים כֵּן עָשָׂה** = "E Noach fez conforme tudo o que Deus lhe ordenou; assim fez." Declaração dupla enfática de obediência. Esta fórmula se repete em 7:5, 7:9, 7:16. A resposta de Noach é obediência silenciosa — nenhuma fala registrada de Noach até 9:25.

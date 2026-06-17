@@ -26,16 +26,10 @@
 
 ## READING GUIDE
 
-**📖 Main Text:** Primary translation—readable but faithful to Hebrew structure
-**📝 Notes:** Essential Hebrew features immediately below each verse
+**Main Text:** Primary translation—readable but faithful to Hebrew structure
+**Notes:** Essential Hebrew features immediately below each verse
 ***Italics:*** Words added for English grammar (not in Hebrew text)
 **"Quotes":** Direct speech
-
-**Note Icons:**
-- 🔴 **CRITICAL** - Major textual or translation decisions
-- 🟢 **LEXICAL** - Word meanings, root patterns, glossary terms
-- 🔵 **GRAMMATICAL** - Hebrew structure, verb forms, syntax
-- 🟡 **THEOLOGICAL** - Interpretive options, ambiguity preservation
 
 **Genre note (Rule 23):** This chapter is a **genealogy** — a structured list governed by a repeating formula. The formula is locked per Rule 7; deviations from the pattern are textually significant and noted.
 
@@ -87,7 +81,7 @@
 
 This *is* the book of the generations of Adam. In the day God created *a* human, in the likeness of God he made him.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔴 **TOLEDOT FORMULA RETURNS**
 > - **סֵפֶר תּוֹלְדֹת אָדָם** (*sefer toledot Adam*) = "the book of the generations of Adam." Second *toledot* marker in Genesis (first at 2:4). This one adds **סֵפֶר** (*sefer*, "book/document") — the only *toledot* with this prefix. Signals a structured written record.
@@ -104,7 +98,7 @@ This *is* the book of the generations of Adam. In the day God created *a* human,
 
 Male and female he created them, and he blessed them, and he called their name Human in the day they were created.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔵 **"HE CALLED THEIR NAME HUMAN"**
 > - **וַיִּקְרָא אֶת־שְׁמָם אָדָם** = "and he called their name *adam* (Human)." God names humanity collectively *adam*. This is the text's own statement: the word *adam* is a divine name for the species, not just a personal name.
@@ -115,7 +109,7 @@ Male and female he created them, and he blessed them, and he called their name H
 
 And Adam lived one hundred and thirty years, and he begot in his likeness, according to his image, and he called his name Shet (Seth).
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔴 **IMAGE/LIKENESS INVERTED**
 > - Gen 1:26–27: God creates human "in our image, according to our likeness." Gen 5:3: Adam begets Seth "in **his** likeness, according to **his** image." The divine-to-human creation language is **chained to human-to-human descent**. The *tselem/demut* pair continues through the generations.
@@ -135,7 +129,7 @@ And the days of Adam after he begot Shet (Seth) were eight hundred years, and he
 
 And all the days of Adam which he lived were nine hundred and thirty years, and he died.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔴 **"AND HE DIED" — THE REFRAIN**
 > - **וַיָּמֹת** (*vayyamot*) = "and he died." This phrase closes each genealogical entry as a **locked formula** (Rule 7). It repeats 8 times in this chapter (vv. 5, 8, 11, 14, 17, 20, 27, 31). The ONE exception is Chanokh (Enoch) (v.24) — where the formula is conspicuously absent.
@@ -248,7 +242,7 @@ And Chanokh (Enoch) lived sixty-five years, and he begot Metushelach (Methuselah
 
 And Chanokh (Enoch) walked with God after he begot Metushelach (Methuselah) three hundred years, and he begot sons and daughters.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔴 **"WALKED WITH GOD" — FORMULA BREAK**
 > - The standard formula is "X lived... and he begot." For Enoch, the formula shifts: "Enoch **walked with God** (*vayyithalekh Chanokh et-ha-Elohim*)." This breaks the pattern — the first time anyone is said to "walk with" God. The only other person who receives this phrase is Noach (Noah) (6:9).
@@ -262,7 +256,7 @@ And Chanokh (Enoch) walked with God after he begot Metushelach (Methuselah) thre
 
 And all the days of Chanokh (Enoch) were three hundred and sixty-five years.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟢 **365 YEARS — SHORTEST LIFESPAN**
 > - Enoch's 365 years is by far the shortest in this genealogy (others range from 777 to 969). Yet he is the one who "walked with God." The number 365 = days in a solar year; whether this is significant is POSSIBLE but unresolved.
@@ -273,7 +267,7 @@ And all the days of Chanokh (Enoch) were three hundred and sixty-five years.
 
 And Chanokh (Enoch) walked with God, and he was not, for God took him.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔴 **CRITICAL — "AND HE DIED" FORMULA ABSENT**
 > - Every other entry in this genealogy ends "and he died." Enoch's entry ends: **"and he was not, for God took him"** (*ve-einennu ki laqach oto Elohim*). The death formula is **conspicuously replaced**. The text does not say he died, does not say he went to heaven, does not explain where he went. It says God **took** him. Anything beyond that is later interpretation.
@@ -299,7 +293,7 @@ And Metushelach (Methuselah) lived after he begot Lemekh (Lamech) seven hundred 
 
 And all the days of Metushelach (Methuselah) were nine hundred and sixty-nine years, and he died.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟢 **OLDEST RECORDED AGE**
 > - Methuselah at 969 years is the longest-lived person in the biblical record. By the chronological arithmetic, his death year coincides approximately with the year of the flood (Gen 7). The text does not make this connection explicit.
@@ -316,7 +310,7 @@ And Lemekh (Lamech) lived one hundred and eighty-two years, and he begot a son.
 
 And he called his name Noach (Noah), saying, "This *one* shall comfort us from our work and from the toil of our hands, from the ground which YHWH cursed."
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟢 **NOACH / NACHAM WORDPLAY**
 > - **נֹחַ** (*Noach*) = Noah. **נָחַם** (*nacham*) = comfort/relent. The name-etymology connects Noah to comfort/relief. Rule 14 wordplay flagged — the sonic link is approximate (n-ch vs. n-ch-m), not exact.
@@ -339,7 +333,7 @@ And Lemekh (Lamech) lived after he begot Noach (Noah) five hundred and ninety-fi
 
 And all the days of Lemekh (Lamech) were seven hundred and seventy-seven years, and he died.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟢 **777 — ECHOING 4:24**
 > - Lamech son of Methuselah lives 777 years. The OTHER Lamech (Gen 4:24, Cainite line) claimed "seventy-seven" (*shiv'im ve-shiv'ah*) fold vengeance. The 777 / 77 numerical echo across the two Lamechs is textually present — whether intentional structural mirroring or coincidence is POSSIBLE but unresolved.
@@ -350,7 +344,7 @@ And all the days of Lemekh (Lamech) were seven hundred and seventy-seven years, 
 
 And Noach (Noah) was five hundred years old, and Noah begot Shem, Cham (Ham), and Yafet (Japheth).
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔵 **THREE SONS — FORMULA BREAK**
 > - The standard formula lists one son per entry. Noah's entry names **three sons** — breaking the pattern. This sets up the Table of Nations (Gen 10) and the post-flood narrative structure.

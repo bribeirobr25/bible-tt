@@ -28,18 +28,12 @@
 
 ## LESEANLEITUNG
 
-**📖 Haupttext:** Primäre Übersetzung—lesbar aber treu der hebräischen Struktur
-**📝 Notizen:** Wesentliche hebräische Merkmale unmittelbar unter jedem Vers
+**Haupttext:** Primäre Übersetzung—lesbar aber treu der hebräischen Struktur
+**Notizen:** Wesentliche hebräische Merkmale unmittelbar unter jedem Vers
 ***Kursiv:*** Wörter für deutsche Grammatik hinzugefügt (nicht im hebräischen Text)
 **„Anführungszeichen":** Direkte göttliche Rede oder menschliche Rede
 **JHWH:** Tetragrammaton konsonantisch transliteriert (Regel 25, Option A)
 **Chava (Eva), nachash, usw.:** Transliterierte hebräische Begriffe (in Notizen erklärt)
-
-**Notizen-Symbole:**
-- 🔴 **KRITISCH** - Wichtige textliche oder Übersetzungsentscheidungen
-- 🟢 **LEXIKALISCH** - Wortbedeutungen, Wurzelmuster, Glossarbegriffe
-- 🔵 **GRAMMATISCH** - Hebräische Struktur, Verbformen, Syntax
-- 🟡 **THEOLOGISCH** - Interpretationsoptionen, Ambiguitätsbewahrung
 
 **Regel 23 (Gattungssensibilität):** Narrative Prosa, kein liturgisches Muster. Das Kapitel enthält kein ererbtes deutsches theologisches Vokabular („der Sündenfall," „Erbsünde," „Protoevangelium," „Satan"), außer das Hebräische rechtfertigt es — und das Hebräische rechtfertigt es nicht.
 
@@ -87,7 +81,7 @@
 
 Und die Schlange war listiger als jedes Lebewesen des Feldes, das JHWH Elohim gemacht hatte. Und sie sprach zur Frau: „Hat Gott wirklich gesagt: 'Ihr sollt nicht essen von jedem Baum des Gartens'?"
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **KRITISCH - WORTSPIEL MIT 2:25**
 > - **עָרוּם** (*arum*) = „listig/klug"—dieselben Konsonanten wie **עֲרוֹם** (*arom*) = „nackt" in Gn 2:25. Bewusstes klangliches Scharnier zwischen den Kapiteln.
@@ -109,7 +103,7 @@ Und die Schlange war listiger als jedes Lebewesen des Feldes, das JHWH Elohim ge
 
 Und die Frau sprach zur Schlange: „Von der Frucht der Bäume des Gartens dürfen wir essen,
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔵 **KORRIGIERT DEN RAHMEN**
 > - Die Frau korrigiert die Verzerrung der Schlange, indem sie die positive Erlaubnis wiederholt. Das macht ihren Zusatz zum ursprünglichen Gebot in V.3 umso auffälliger.
@@ -120,7 +114,7 @@ Und die Frau sprach zur Schlange: „Von der Frucht der Bäume des Gartens dürf
 
 aber von der Frucht des Baumes, der *ist* in der Mitte des Gartens, hat Gott gesagt: 'Ihr sollt nicht davon essen, und ihr sollt ihn nicht berühren, damit ihr nicht sterbt.'"
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **DIE FRAU FÜGT „BERÜHREN" HINZU**
 > - Ursprüngliches Gebot (2:17): Das Verbot ist **nur das Essen**, und die Konsequenz ist **„sterbend sollst du sterben"** (Infinitivus absolutus).
@@ -136,7 +130,7 @@ aber von der Frucht des Baumes, der *ist* in der Mitte des Gartens, hat Gott ges
 
 Und die Schlange sprach zur Frau: „Nicht sterbend werdet ihr sterben.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **KRITISCH - NEGIERTER INFINITIVUS ABSOLUTUS**
 > - **לֹא־מוֹת תְּמוּתוּן** (*lo mot temutun*) = wörtlich „nicht sterbend werdet ihr sterben." Direkte Negation von **מוֹת תָּמוּת** (*mot tamut*) aus 2:17 = „sterbend sollst du sterben."
@@ -149,7 +143,7 @@ Und die Schlange sprach zur Frau: „Nicht sterbend werdet ihr sterben.
 
 Denn Gott weiß, dass am Tag eures Essens davon eure Augen aufgetan werden, und ihr werdet sein wie {a:Gott/Götter}, erkennend Gutes und Böses."
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **KRITISCH - *ke-elohim*: „WIE GOTT / WIE GÖTTER"**
 > - **כֵּאלֹהִים** (*ke-elohim*) — *Elohim* ist grammatisch Plural, wird aber im ganzen Genesis für den singularen Gott verwendet. Hier ist die Ambiguität echt aktiv: „wie Gott" (einer) oder „wie Götter" (plural/göttliche Wesen). Beide durch Schrägstrich bewahrt (Regel 2).
@@ -163,7 +157,7 @@ Denn Gott weiß, dass am Tag eures Essens davon eure Augen aufgetan werden, und 
 
 Und die Frau sah, dass der Baum *war* gut zur Speise, und dass *er war* eine Lust für die Augen, und dass der Baum *war* begehrenswert, klug zu machen; und sie nahm von seiner Frucht und aß, und sie gab auch ihrem Mann mit ihr, und er aß.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔵 **DREI KLAUSELN**
 > - Klingt nach Gn 2:9 („lieblich anzusehen und gut zur Speise") und fügt eine dritte hinzu: „begehrenswert, klug zu machen." Muster von drei parallelen Beschreibungen.
@@ -177,7 +171,7 @@ Und die Frau sah, dass der Baum *war* gut zur Speise, und dass *er war* eine Lus
 
 Und die Augen der beiden wurden aufgetan, und sie erkannten, dass sie nackt *waren*; und sie nähten Feigenblätter und machten sich Gürtel.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔵 **PASSIV ERFÜLLT VERSPRECHEN**
 > - Dieselbe Niphal-Form wie in V.5—die Vorhersage der Schlange über aufgetane Augen erfüllt sich, obwohl das, was sie sehen (ihre eigene Nacktheit), sich von dem unterscheidet, was die Schlange angedeutet hat.
@@ -191,7 +185,7 @@ Und die Augen der beiden wurden aufgetan, und sie erkannten, dass sie nackt *war
 
 Und sie hörten die Stimme von JHWH Elohim, einhergehend im Garten beim Wind des Tages, und der Mensch und seine Frau verbargen sich vor dem Angesicht von JHWH Elohim inmitten des Baumes des Gartens.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟢 **QOL — STIMME ODER LAUT?**
 > - **קוֹל** (*qol*) = „Stimme / Laut / Geräusch." Semantischer Bereich breiter als jede einzelne deutsche Wiedergabe. Der Haupttext gibt „Stimme" konsistent wieder (Regel 1); der breitere Bereich wird hier signalisiert.
@@ -208,7 +202,7 @@ Und sie hörten die Stimme von JHWH Elohim, einhergehend im Garten beim Wind des
 
 Und JHWH Elohim rief dem Menschen zu und sprach zu ihm: @@„Wo *bist* du?"@@
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **„WO BIST DU"**
 > - **אַיֶּכָּה** (*ayyekkah*) = „wo *bist* du?"—ein einziges hebräisches Wort. Die berühmteste Ein-Wort-Frage in Genesis. Rhetorisch mehr als informativ (göttliche Allwissenheit durch die Erzählung vorausgesetzt), aber das Hebräische gibt keinen Rahmen jenseits der wörtlichen Frage. Wörtlich bewahren.
@@ -219,7 +213,7 @@ Und JHWH Elohim rief dem Menschen zu und sprach zu ihm: @@„Wo *bist* du?"@@
 
 Und er sprach: „Deine Stimme hörte ich im Garten, und ich fürchtete mich, denn ich *bin* nackt, und ich verbarg mich."
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔵 **VORGEZOGENES OBJEKT**
 > - **אֶת־קֹלְךָ שָׁמַעְתִּי** (*et-qolkha shamati*) = „deine Stimme hörte ich"—Objekt zur Betonung vorgezogen. In deutscher Wortstellung bewahrt.
@@ -230,7 +224,7 @@ Und er sprach: „Deine Stimme hörte ich im Garten, und ich fürchtete mich, de
 
 Und er sprach: @@„Wer hat dir gesagt, dass du nackt *bist*? Hast du vom Baum, von dem ich dir geboten hatte, nicht davon zu essen, gegessen?"@@
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔵 **ZWEI FRAGEN**
 > - Erste Frage: *wer* hat ihn über seine Nacktheit informiert—impliziert, dass das Schambewusstsein von einem äußeren Akt kam. Zweite Frage: hat er vom verbotenen Baum gegessen? Muster indirekter, dann direkter Konfrontation.
@@ -241,7 +235,7 @@ Und er sprach: @@„Wer hat dir gesagt, dass du nackt *bist*? Hast du vom Baum, 
 
 Und der Mensch sprach: „Die Frau, die du mir gegeben hast, *dass sie* mit mir *sei*, sie gab mir vom Baum, und ich aß."
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔵 **DOPPELTE ZUSCHREIBUNG**
 > - Die Antwort des Menschen schreibt das Handeln zweimal zu: der Frau („sie gab") und indirekt JHWH Elohim („die *du* mir gegeben hast"). Ohne Interpretation bewahren.
@@ -252,7 +246,7 @@ Und der Mensch sprach: „Die Frau, die du mir gegeben hast, *dass sie* mit mir 
 
 Und JHWH Elohim sprach zur Frau: @@„Was *ist* dies, das du getan hast?"@@ Und die Frau sprach: „Die Schlange täuschte mich, und ich aß."
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟢 **TÄUSCHTE**
 > - **הִשִּׁיאַנִי** (*hishi'ani*) = „täuschte/beirrte mich"—Hiphil von נ-ש-א oder von נ-ש-ה. Wurzel **UNGEWISS**; beide ergeben „täuschen/in die Irre führen." Nicht „versuchte" (was späteres theologisches Vokabular importieren würde).
@@ -263,7 +257,7 @@ Und JHWH Elohim sprach zur Frau: @@„Was *ist* dies, das du getan hast?"@@ Und 
 
 Und JHWH Elohim sprach zur Schlange: @@„Weil du dies getan hast, verflucht *bist* du unter allem Vieh und unter jedem Lebewesen des Feldes; auf deinem Bauch sollst du gehen, und Staub sollst du essen alle Tage deines Lebens.@@
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟢 **VERFLUCHT**
 > - **אָרוּר** (*arur*) = „verflucht." Erstes Auftreten dieses Wortes in der Bibel. Passiv/stativ; die Schlange wird in einen verfluchten Zustand versetzt.
@@ -278,7 +272,7 @@ Und JHWH Elohim sprach zur Schlange: @@„Weil du dies getan hast, verflucht *bi
 
 @@Und Feindschaft werde ich setzen zwischen dich und zwischen die Frau, und zwischen deinen Samen und zwischen ihren Samen; er wird dich {a:verletzen/schlagen} *am* Kopf, und du wirst ihn {a:verletzen/schlagen} *an der* Ferse."@@
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **KRITISCH - *shuf***
 > - **שׁוּף** (*shuf*) zweimal mit derselben Form für beide Handlungen verwendet—am Kopf und an der Ferse. Bedeutung **UNGEWISS**: „verletzen / schlagen / zertreten / angreifen / zielen auf." Seltenes Verb (nur 3 Vorkommen in der Hebräischen Bibel).
@@ -299,7 +293,7 @@ Und JHWH Elohim sprach zur Schlange: @@„Weil du dies getan hast, verflucht *bi
 
 Zur Frau sprach er: @@„Mehrend werde ich mehren deine Mühsal und deine Schwangerschaft; in Mühsal wirst du Söhne gebären. Und zu deinem Mann *wird sein* dein {a:Verlangen/deine Hinwendung}, und er wird über dich herrschen."@@
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **INFINITIVUS ABSOLUTUS**
 > - **הַרְבָּה אַרְבֶּה** (*harbah arbeh*) = „mehrend werde ich mehren"—emphatischer Infinitivus absolutus. Strukturell bewahrt gemäß Regel 5.
@@ -319,7 +313,7 @@ Zur Frau sprach er: @@„Mehrend werde ich mehren deine Mühsal und deine Schwan
 
 Und zum Menschen sprach er: @@„Weil du auf die Stimme deiner Frau gehört hast und vom Baum gegessen hast, von dem ich dir geboten hatte, sprechend: 'Du sollst nicht davon essen,' verflucht *ist* der Boden um deinetwillen; in Mühsal wirst du *davon* essen alle Tage deines Lebens.@@
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟢 **ARTIKEL-NOTIZ**
 > - **לְאָדָם** (*le-adam*) hier **ohne den Artikel**. **MÖGLICHER** Übergang zum Eigennamen *Adam*, aber die Übersetzung bewahrt „den Menschen" für die Kontinuität mit Gn 2 (wo *ha-adam* dominiert). Der Übergang zum Eigennamen-Gebrauch wird formal in Gn 4 aufgelöst. Gemäß Regel 17 markiert.
@@ -333,7 +327,7 @@ Und zum Menschen sprach er: @@„Weil du auf die Stimme deiner Frau gehört hast
 
 @@Und Dorn und Distel wird er dir hervorbringen, und du wirst das Kraut des Feldes essen.@@
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔵 **NACHHALL VON 2:5**
 > - Gn 2:5 beschrieb einen vorschöpfungs-Zustand: kein Strauch, kein Kraut. Hier wird das *Kraut des Feldes* zur menschlichen Nahrung—dieselbe Kategorie, die in 2:5 noch nicht existierte, kehrt zurück, aber jetzt unter Arbeit.
@@ -344,7 +338,7 @@ Und zum Menschen sprach er: @@„Weil du auf die Stimme deiner Frau gehört hast
 
 @@Im Schweiße deines Angesichts wirst du Brot essen, bis du zum Boden zurückkehrst, denn von ihm wurdest du genommen; denn Staub *bist* du, und zum Staub wirst du zurückkehren."@@
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **STAUB ZU STAUB**
 > - **עָפָר אַתָּה וְאֶל־עָפָר תָּשׁוּב** (*afar atah ve-el afar tashuv*) = „Staub *bist* du und zum Staub wirst du zurückkehren." Schließt den in 2:7 geöffneten Rahmen („Staub vom Boden"). Ob Sterblichkeit dem Menschen als neue Konsequenz auferlegt oder hier als inhärente Verfasstheit bestätigt wird, ist umstritten (MÖGLICH); der Text lässt beide Lesungen zu.
@@ -355,7 +349,7 @@ Und zum Menschen sprach er: @@„Weil du auf die Stimme deiner Frau gehört hast
 
 Und der Mensch nannte den Namen seiner Frau Chava (Eva), denn sie war Mutter alles Lebendigen.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **KRITISCH - BENENNUNG CHAVAS**
 > - **חַוָּה** (*Chavvah*, transliteriert *Eva*) = Eigenname. Die Transparente Ausgabe behält *Eva*; die Leserausgabe darf „Eva" verwenden (Septuaginta *Εὔα* über die Vulgata *Heva*). → Für die LXX→Vulgata→traditionelle-Wiedergabe-Rezeptionsgeschichte siehe Begleitmaterial Abschnitt F.
@@ -370,7 +364,7 @@ Und der Mensch nannte den Namen seiner Frau Chava (Eva), denn sie war Mutter all
 
 Und JHWH Elohim machte dem Menschen und seiner Frau Gewänder aus Fell, und er kleidete sie.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟢 **GEWÄNDER**
 > - **כָּתְנוֹת עוֹר** (*kotnot or*) = „Tuniken / Gewänder aus Fell." Kontrast zu den *chagorot* (Gürtel), die sie sich in V.7 selbst gemacht hatten.
@@ -382,7 +376,7 @@ Und JHWH Elohim machte dem Menschen und seiner Frau Gewänder aus Fell, und er k
 
 Und JHWH Elohim sprach: @@„Siehe, der Mensch ist geworden wie einer von uns, Gutes und Böses zu erkennen; und nun, damit er nicht seine Hand ausstrecke und auch vom Baum des Lebens nehme und esse und lebe in Ewigkeit…"@@
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **APOSIOPESE** *(bewusster Abbruch)*
 > - Der hebräische Satz **bricht unvollendet ab**—keine Hauptklausel nach der „damit nicht"-Reihe. Rhetorischer Abbruch, nicht Schreibfehler. Die Auslassungspunkte (…) bewahren die gebrochene Konstruktion; V.23 ist die implizite Apodosis. Viele Übersetzungen glätten dies. Regel 5—nicht glätten.
@@ -399,7 +393,7 @@ Und JHWH Elohim sprach: @@„Siehe, der Mensch ist geworden wie einer von uns, G
 
 Und JHWH Elohim schickte ihn hinaus aus dem Garten Eden, den Boden zu bearbeiten, von dem er genommen worden war.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔵 **RÜCKKEHR ZUR BERUFUNG**
 > - *Den Boden zu bearbeiten*—dasselbe Verb **ע-ב-ד** (*'-b-d*) wie in 2:5, 2:15 (wo der Mensch in den Garten gesetzt wurde, *um ihn zu bearbeiten*). Die Berufung, den Boden zu bearbeiten, geht weiter; der Schauplatz wechselt vom Garten zur weiteren *adamah*.
@@ -410,7 +404,7 @@ Und JHWH Elohim schickte ihn hinaus aus dem Garten Eden, den Boden zu bearbeiten
 
 Und er vertrieb den Menschen; und er ließ östlich vom Garten Eden wohnen die Cherubim und die Flamme des sich wendenden Schwertes, um den Weg des Baumes des Lebens zu bewachen.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟢 **CHERUBIM**
 > - **כְּרוּבִים** (*keruvim*) = Plural von *keruv*. Transliteriert statt über-übersetzt. Altorientalische Ikonographie: zusammengesetzte Schutzfiguren (nicht die späteren geflügelten Kinder christlicher Kunst). Notiz minimal gemäß Regel 12.

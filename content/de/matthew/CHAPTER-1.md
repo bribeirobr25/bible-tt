@@ -33,12 +33,6 @@
 **„Anführungszeichen":** Direkte Rede
 **der Herr:** kyrios wiedergegeben nach GS-Gottesname-Politik (Option C) bei Zitaten alttestamentlicher JHWH-Stellen
 
-**Notizen-Symbole:**
-- 🔴 **KRITISCH** - Wichtige textliche oder Übersetzungsentscheidungen
-- 🟢 **LEXIKALISCH** - Wortbedeutungen, semantische Bandbreite, Glossarbegriffe
-- 🔵 **GRAMMATISCH** - Griechische Struktur, Verbaspekt, Syntax
-- 🟡 **THEOLOGISCH** - Interpretationsoptionen, Ambiguitätsbewahrung
-
 **Dieses Kapitel eröffnet das erste Buch in der Ordnung des griechischen Schriftenkanons.** Matthäus 1 beginnt nicht mit einem kosmologischen Prolog (wie bei Johannes), sondern mit einer Genealogie — einem *biblos geneseōs* („Buch der Genesis/des Ursprungs"), das eine Linie von Avraham (Abraham) über David bis Yeshua (Jesus) nachzeichnet. Die Genealogie ist in drei Sätze von je vierzehn Generationen gegliedert. Vier Frauen werden genannt — Tamar, Rachav, Rut und die Frau des Uriyah — jede mit einem ungewöhnlichen oder überraschenden Eintritt in die Abstammungslinie. Eigennamen folgen der TT-Transliteration: Yeshua (Jesus), Yosef (Josef), Miryam (Maria), Avraham (Abraham) usw. Vertraute deutsche Formen werden beim ersten Vorkommen vermerkt. Der Geburtsbericht (V.18-25) führt die Jungfrau-/junge-Frau-Ambiguität aus Jesaja 7,14 ein. Das griechische *pneuma hagion* wird als „heiliger Wind/Geist" wiedergegeben nach dem gesperrten Glossar.
 
 ---

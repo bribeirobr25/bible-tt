@@ -34,12 +34,6 @@
 **YHWH:** Tetragrama consonantal (Regla 25, Opción A)
 **raqia, yatzar, etc.:** Terminos hebreos transliterados (explicados en las notas)
 
-**Iconos de Notas:**
-- 🔴 **CRÍTICO** - Decisiones textuales o traductoras importantes
-- 🟢 **LÉXICO** - Significados de palabras, patrones de raices, términos del glosario
-- 🔵 **GRAMATICAL** - Estructura hebrea, formas verbales, sintaxis
-- 🟡 **TEOLÓGICO** - Opciónes interpretativas, preservacíon de ambigüedad
-
 **Este capítulo sigue la Regla 23 (Sensibilidad de Genero Literario):** Las formulas fijas de Génesis 1 NO se aplican mecanicamente aquí. Génesis 2 es narrativa, no ritmo liturgico.
 
 **Política Adan / Humano (Regla 17 nota permanente):** Hebreo אָדָם (*adam*) oscila entre generico *"humano / humanidad"* y, potencialmente, el nombre propio *Adan*. El artículo definido (*ha-adam* = "el humano") senala uso generico; la ausencia de artículo es contextualmente ambigua. **Esta traducción rinde "el humano" a lo largo de Génesis 2-3**, incluso en ocurrencias sin artículo (2:20, 3:17, 3:21), para preservar el juego de palabras continuo con *adamah* (suelo) y evitar compromiso prematuro con el nombre propio. La transición al nombre propio *Adan* se resuelve formalmente en Génesis 4.

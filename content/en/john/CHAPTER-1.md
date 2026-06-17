@@ -27,17 +27,11 @@
 
 ## READING GUIDE
 
-**📖 Main Text:** Primary translation — readable but faithful to Greek structure
-**📝 Notes:** Essential Greek features immediately below each verse
+**Main Text:** Primary translation — readable but faithful to Greek structure
+**Notes:** Essential Greek features immediately below each verse
 ***Italics:*** Words added for English grammar (not in Greek text)
 **"Quotes":** Direct speech
 **the Lord:** κύριος rendered per GS Divine Name Policy (Option C) when quoting OT YHWH passages
-
-**Note Icons:**
-- 🔴 **CRITICAL** - Major textual or translation decisions
-- 🟢 **LEXICAL** - Word meanings, semantic range, glossary terms
-- 🔵 **GRAMMATICAL** - Greek structure, verb aspect, syntax
-- 🟡 **THEOLOGICAL** - Interpretive options, ambiguity preservation
 
 **This is the first Greek Scriptures chapter in the TT project.** The Prologue (1:1–18) is among the most theologically dense passages in the Greek Scriptures. The term *logos* ("word") carries a semantic range far wider than any single English word can capture. The TT renders it "word" (lowercase) with a critical note at v.1 on the semantic range. Proper names follow TT transliteration: Yochanan (not John), Yeshua (not Jesus), Kefa (not Peter), Philippos, Nathanael, Andreas. The verb aspect system differs from the Hebrew tense system used in Genesis — Greek aspect (how the speaker views the action) is primary, not time.
 
@@ -89,7 +83,7 @@
 
 In the beginning was the word, and the word was with God, and the word was God.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔴 **CRITICAL — *LOGOS* ("WORD")**
 > - **Ἐν ἀρχῇ ἦν ὁ λόγος** (*En archē ēn ho logos*) = "In the beginning was the word." The term λόγος (*logos*) carries an exceptionally wide semantic range: word, speech, reason, account, reckoning, proportion, principle. The TT renders "word" (lowercase) as the most direct translation of the Greek, preserving the etymology of *logos* (the noun form of *legō*, "to speak") and the echo of Genesis 1 where God speaks and creation happens. Capitalization ('Word') is a typographic device some traditions use to signal the unique referent; the TT leaves this to the reader's interpretive framework. For the range of philosophical and Jewish backgrounds that informed this term — Greek philosophical tradition, the Jewish wisdom tradition, the Targumim — see companion Section B.
@@ -108,7 +102,7 @@ In the beginning was the word, and the word was with God, and the word was God.
 
 This one was in the beginning with God.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔵 **RESUMPTIVE — οὗτος (*houtos*)**
 > - "This one" (*houtos*) = demonstrative pronoun, resuming the *logos* of v.1. The verse restates v.1's first two clauses in summary, establishing the platform for v.3's creation claim. The imperfect **ἦν** continues.
@@ -119,7 +113,7 @@ This one was in the beginning with God.
 
 All things came into being through him, and apart from him not one thing came into being.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔴 **CRITICAL — PUNCTUATION VARIANT (VV.3–4)**
 > - The earliest Greek manuscripts have no punctuation. Two readings are possible:
@@ -139,7 +133,7 @@ All things came into being through him, and apart from him not one thing came in
 
 What has come into being — in him was life, and the life was the light of humans.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟢 **"LIFE" AND "LIGHT" — FIRST OCCURRENCE**
 > - **ζωή** (*zōē*) = life — specifically vital, animate life. Distinguished from **βίος** (*bios*, livelihood/manner of life) in wider Greek usage.
@@ -154,7 +148,7 @@ What has come into being — in him was life, and the life was the light of huma
 
 And the light shines in the darkness, and the darkness did not overcome it.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔴 **CRITICAL — *KATELABEN* (DID NOT OVERCOME / DID NOT COMPREHEND)**
 > - **ἡ σκοτία αὐτὸ οὐ κατέλαβεν** = "the darkness did not overcome it." The verb **κατέλαβεν** (*katelaben*) from καταλαμβάνω carries two senses: (1) "seize/overcome/overpower" and (2) "comprehend/grasp mentally." Both meanings are **PROBABLE** — the darkness neither overpowered nor understood the light. The TT renders "overcome" as the primary sense in the main text because the conflict imagery fits the light-darkness opposition established in vv.4–5, but the double meaning is noted; this is a genuine Rule 2 ambiguity. For fuller discussion of how these two senses interact within the Prologue's overall structure, see companion Section A.
@@ -168,7 +162,7 @@ And the light shines in the darkness, and the darkness did not overcome it.
 
 There came into being a man, having been sent from God — his name *was* Yochanan (John).
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔵 **AORIST *EGENETO* — SHIFT FROM ETERNAL TO HISTORICAL**
 > - **Ἐγένετο ἄνθρωπος** = "There came into being a man." The same verb (*egeneto*) used for creation in v.3 now introduces a historical figure. John "came into being" — he is creature, not creator. The aspectual contrast with the *logos* (who "was," imperfect) is deliberate.
@@ -182,7 +176,7 @@ There came into being a man, having been sent from God — his name *was* Yochan
 
 This one came for testimony, so that he might testify concerning the light, so that all might trust through him.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟢 **"TESTIMONY" / "TESTIFY" — *MARTYRIA* / *MARTYREŌ***
 > - **μαρτυρία** (*martyria*) = testimony, witness, evidence. **μαρτυρέω** (*martyreō*) = to testify, bear witness. The legal/courtroom connotation is present — Yochanan (John)'s role is that of a witness giving evidence. The word family dominates this chapter (vv.7, 8, 15, 19, 32, 34).
@@ -196,7 +190,7 @@ This one came for testimony, so that he might testify concerning the light, so t
 
 He was not the light, but *came* so that he might testify concerning the light.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟡 **NEGATIVE DEFINITION OF YOCHANAN**
 > - The narrator defines Yochanan (John) by what he is NOT before defining what he is. He is not the light — he testifies about the light. This insistence (repeated in vv.20–21) may reflect a historical situation in which some regarded John as the primary figure.
@@ -207,7 +201,7 @@ He was not the light, but *came* so that he might testify concerning the light.
 
 The true light, which enlightens every human, was coming into the world.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔵 **GRAMMATICAL AMBIGUITY — WHO IS "COMING INTO THE WORLD"?**
 > - The participial phrase **ἐρχόμενον εἰς τὸν κόσμον** ("coming into the world") can modify either "light" (the light that was coming into the world) or "human" (every human coming into the world). Both are grammatically valid. The TT attaches it to "light" following the dominant reading, but the ambiguity is noted.
@@ -221,7 +215,7 @@ The true light, which enlightens every human, was coming into the world.
 
 He was in the world, and the world came into being through him, and the world did not know him.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟡 **THREE *KOSMOS* CLAUSES — ESCALATING IRONY**
 > - Clause 1: He was in the world (presence). Clause 2: The world came into being through him (creation). Clause 3: The world did not know him (rejection). The three-fold repetition of *kosmos* builds from proximity to origin to alienation. The creator is unrecognized by the creation.
@@ -232,7 +226,7 @@ He was in the world, and the world came into being through him, and the world di
 
 He came to his own *things*, and his own *people* did not receive him.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔵 **NEUTER → MASCULINE SHIFT**
 > - **εἰς τὰ ἴδια** (*eis ta idia*) = "to his own things" (neuter plural — domain, property, homeland). **οἱ ἴδιοι** (*hoi idioi*) = "his own people" (masculine plural — persons). The shift from neuter to masculine narrows the rejection: he came to his own place, his own people did not receive him.
@@ -243,7 +237,7 @@ He came to his own *things*, and his own *people* did not receive him.
 
 But as many as received him, to them he gave the right to become children of God — to those trusting in his name,
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟢 **"RIGHT" — *EXOUSIA***
 > - **ἐξουσία** (*exousia*) = right, authority, power. NOT "power" in the sense of raw ability (*dynamis*), but authorized right — the legitimate standing to become something.
@@ -257,7 +251,7 @@ But as many as received him, to them he gave the right to become children of God
 
 who were born not from bloods, nor from the will of flesh, nor from the will of a man, but from God.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔵 **"BLOODS" — PLURAL *HAIMATŌN***
 > - **ἐξ αἱμάτων** (*ex haimatōn*) = "from bloods" — unusual plural. The plural likely refers to bloodlines, lineage, or physical descent. The TT preserves the plural ("bloods") because the Greek is deliberately unusual.
@@ -271,7 +265,7 @@ who were born not from bloods, nor from the will of flesh, nor from the will of 
 
 And the word became flesh and dwelt among us, and we saw his glory — glory as of an only one from a father — full of {a:grace/favor} and truth.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔴 **CRITICAL — "THE WORD BECAME FLESH"**
 > - **καὶ ὁ λόγος σὰρξ ἐγένετο** = "and the word flesh became." The *logos* of v.1 — who was with God and was God — now becomes *sarx* (flesh, mortal physicality). The aorist **ἐγένετο** marks this as event, not ongoing state. The verb is the same one used for creation in v.3 — the word "came into being" as flesh. The text states the claim without explaining the mechanism.
@@ -291,7 +285,7 @@ And the word became flesh and dwelt among us, and we saw his glory — glory as 
 
 Yochanan (John) testifies concerning him and has cried out, saying, "This was the one of whom I said, 'The one coming after me has come to be before me, because he was first *in regard* to me.'"
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔵 **TENSE SHIFTS — PRESENT, PERFECT, IMPERFECT**
 > - **μαρτυρεῖ** (*martyrei*) = present tense — "testifies" (ongoing). **κέκραγεν** (*kekragen*) = perfect tense — "has cried out" (completed action with ongoing result). **ἦν** (*ēn*) = imperfect — "was" (prior existence). The layering of tenses compresses past testimony into present witness.
@@ -305,7 +299,7 @@ Yochanan (John) testifies concerning him and has cried out, saying, "This was th
 
 For from his fullness we all received, and {a:grace/favor} upon {a:grace/favor}.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟢 **"GRACE/favor UPON GRACE/favor" — *CHARIN ANTI CHARITOS***
 > - **χάριν ἀντὶ χάριτος** = literally "grace/favor in place of grace/favor" or "grace/favor upon grace/favor." The preposition **ἀντί** (*anti*) = "in place of," "in exchange for," "upon." Three readings: (1) grace/favor replacing grace/favor (successive waves), (2) grace/favor corresponding to grace/favor (matching), (3) new-covenant grace/favor replacing old-covenant grace/favor. The TT renders "grace/favor upon grace/favor" as the least interpretive option.
@@ -316,7 +310,7 @@ For from his fullness we all received, and {a:grace/favor} upon {a:grace/favor}.
 
 For the law was given through Mosheh (Moses); {a:grace/favor} and truth came into being through Yeshua (Jesus), *the* anointed one.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔴 **CRITICAL — MOSHEH AND YESHUA**
 > - **ὁ νόμος διὰ Μωϋσέως ἐδόθη** = "the law through Mosheh was given" (aorist passive). **ἡ χάρις καὶ ἡ ἀλήθεια διὰ Ἰησοῦ Χριστοῦ ἐγένετο** = "grace/favor and truth through Yeshua the anointed one came into being" (aorist). The parallel structure invites comparison but does NOT explicitly state opposition. "Law" is not devalued — it "was given" (passive, implying divine giver). Grace/favor and truth "came into being" — the same verb (*egeneto*) used for creation.
@@ -333,7 +327,7 @@ For the law was given through Mosheh (Moses); {a:grace/favor} and truth came int
 
 No one has seen God at any time; the only-born God, the one being in the bosom of the Father — that one has made *him* known.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔴 **CRITICAL — TEXTUAL VARIANT: "ONLY-BORN GOD" vs. "ONLY-BORN SON"**
 > - NA28 main text reads **μονογενὴς θεός** (*monogenēs theos*) = "only-born God." Major alternative reading: **μονογενὴς υἱός** (*monogenēs huios*) = "only-born Son." The "God" reading is supported by 𝔓66, 𝔓75, א*, B, C*; the "Son" reading by A, C³, Θ, f1, f13, 𝔐. NA28 adopts "God" as the harder and better-attested reading. The TT follows NA28 per GS policy but notes the significant variant.
@@ -347,7 +341,7 @@ No one has seen God at any time; the only-born God, the one being in the bosom o
 
 And this is the testimony of Yochanan (John), when the Yehudim sent priests and Levites from Yerushalayim (Jerusalem) to ask him, "Who are you?"
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔴 **CRITICAL — *HOI IOUDAIOI* ("THE YEHUDIM")**
 > - **οἱ Ἰουδαῖοι** (*hoi Ioudaioi*) = literally "the Judeans" — those from Yehudah/Judea. In John's Gospel, this term functions in multiple ways: (1) ethnic/geographic ("people of Judea"), (2) religious authorities ("the Judean leadership"), (3) broader "the Jewish people." The TT renders "the Yehudim" — transliterating rather than translating — to preserve the ambiguity and signal that context must determine referent per verse. The term does NOT default to "the Jews" in the modern ethnic/religious sense. First occurrence note. At 1:19, the institutional/geographic sense is primary: the group dispatching a priestly-Levitical delegation from Yerushalayim is the Jerusalem religious establishment, not the Jewish people as a whole. For the full range of this term across John's Gospel, its historical setting, and the interpretive stakes, see companion Section C.
@@ -361,7 +355,7 @@ And this is the testimony of Yochanan (John), when the Yehudim sent priests and 
 
 And he confessed and did not deny, and he confessed, "I am not the anointed one."
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔵 **DOUBLE CONFESSION — EMPHATIC DENIAL**
 > - **ὡμολόγησεν καὶ οὐκ ἠρνήσατο, καὶ ὡμολόγησεν** = "he confessed and did not deny, and he confessed." The triple-layered affirmation (confessed + not denied + confessed) is emphatically redundant. The narrator ensures there is no ambiguity about Yochanan's self-understanding.
@@ -372,7 +366,7 @@ And he confessed and did not deny, and he confessed, "I am not the anointed one.
 
 And they asked him, "What then? Are you Eliyahu (Elijah)?" And he says, "I am not." "Are you the Prophet?" And he answered, "No."
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟡 **THREE DENIALS — THREE EXPECTED FIGURES**
 > - (1) The anointed one (*christos*) — the expected Davidic king. (2) Eliyahu (Elijah) — expected to return before the great day (Mal 3:23 [4:5]). (3) The Prophet — "a prophet like Mosheh" (Deut 18:15). Yochanan (John) denies being any of the three. Note: the Synoptic Gospels identify John with Elijah (Matt 11:14, 17:12–13); John's Gospel has John deny it. The TT reports each text as it stands without harmonizing.
@@ -386,7 +380,7 @@ And they asked him, "What then? Are you Eliyahu (Elijah)?" And he says, "I am no
 
 Then they said to him, "Who are you? — so that we may give an answer to those who sent us. What do you say about yourself?"
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔵 **INDIRECT ACCOUNTABILITY**
 > - The delegation has been sent. They need a report. The pressure is institutional — they represent the Yerushalayim (Jerusalem) authorities and must return with an answer.
@@ -397,7 +391,7 @@ Then they said to him, "Who are you? — so that we may give an answer to those 
 
 He said, "I *am* a voice crying out in the wilderness: 'Make straight the way of the Lord'" — as Yeshayahu (Isaiah) the prophet said.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔴 **CRITICAL — "THE LORD" (κύριος) QUOTING OT YHWH PASSAGE**
 > - **εὐθύνατε τὴν ὁδὸν κυρίου** = "Make straight the way of the Lord." This quotes Isaiah 40:3 (LXX). The underlying Hebrew has the Tetragrammaton: **פַּנּוּ דֶּרֶךְ יהוה** = "Clear the way of YHWH." Per GS Divine Name Policy (Option C): the Greek base text says κύριος, so the TT renders "the Lord" in the main text; alternatives (retroverting to YHWH, or translating without noting the OT source) are not taken because either would misrepresent what the Greek text says or conceal the connection to YHWH in the Hebrew original. For fuller discussion of how κύριος functions as a divine-name substitute in John's use of Isaiah 40, see companion Section D.
@@ -411,7 +405,7 @@ He said, "I *am* a voice crying out in the wilderness: 'Make straight the way of
 
 And *those who* had been sent were from the Perushim (Pharisees).
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟢 **PERUSHIM — TT TRANSLITERATION**
 > - **Φαρισαῖοι** (*Pharisaioi*) = Greek form of Hebrew פְּרוּשִׁים (*Perushim*, "separated ones"). TT renders the Hebrew form. The group is a Second Temple Jewish movement emphasizing Torah observance and oral tradition.
@@ -422,7 +416,7 @@ And *those who* had been sent were from the Perushim (Pharisees).
 
 And they asked him and said to him, "Why then do you immerse, if you are not the anointed one, nor Eliyahu (Elijah), nor the Prophet?"
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟢 **"IMMERSE" — *BAPTIZŌ***
 > - **βαπτίζω** (*baptizō*) = to dip, immerse, plunge. Per locked glossary: rendered "immerse," NOT transliterated as "baptize." The Greek has clear semantic content: physical immersion in water. Rule 4 threshold not met for transliteration. First occurrence note.
@@ -433,7 +427,7 @@ And they asked him and said to him, "Why then do you immerse, if you are not the
 
 Yochanan (John) answered them, saying, "I immerse in water; in your midst stands one whom you do not know —
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟢 **"IN WATER" — ἐν ὕδατι**
 > - The medium is specified: water. The contrast with the wind/spirit immersion (v.33) is set up here.
@@ -444,7 +438,7 @@ Yochanan (John) answered them, saying, "I immerse in water; in your midst stands
 
 the one coming after me, of whom I am not worthy to untie the strap of his sandal."
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟡 **SANDAL-STRAP — SERVILE TASK**
 > - Untying a sandal strap was considered too menial even for a Hebrew servant (b. Ketubbot 96a). Yochanan (John) places himself below the status of a servant in relation to the one coming.
@@ -455,7 +449,7 @@ the one coming after me, of whom I am not worthy to untie the strap of his sanda
 
 These things happened in Beyt-Anyah (Bethany) beyond the Yarden (Jordan), where Yochanan (John) was immersing.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟢 **BEYT-ANYAH BEYOND THE YARDEN**
 > - **Βηθανία** (*Bēthania*) = Greek form of Hebrew/Aramaic בֵּית עַנְיָה (*Beyt-Anyah*, "house of affliction" or "house of the poor"). This is NOT the Beyt-Anyah near Yerushalayim (Jerusalem) (11:1). The location is east of the Yarden (Jordan).
@@ -469,7 +463,7 @@ These things happened in Beyt-Anyah (Bethany) beyond the Yarden (Jordan), where 
 
 On the next day he sees Yeshua (Jesus) coming toward him and says, "See, the lamb of God, the one taking away the sin of the world.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔴 **CRITICAL — "THE LAMB OF GOD"**
 > - **ἴδε ὁ ἀμνὸς τοῦ θεοῦ** = "See, the lamb of God." The background is debated: (1) the Passover lamb (Ex 12), (2) the suffering servant "like a lamb" (Isa 53:7), (3) the *tamid* daily offering, (4) the apocalyptic warrior lamb. The text does not specify which tradition is in view: (1) Passover lamb — POSSIBLE (Passover typology present in John's passion narrative but sin-removal link is indirect); (2) Suffering Servant — PROBABLE (Isa 53:7 and 53:11-12 match the sin-bearing language most directly); (3) *tamid* daily offering — POSSIBLE; (4) apocalyptic warrior lamb — UNCERTAIN. The phrase most likely activates multiple associations simultaneously; the TT translates the Greek as stated without selecting one. For assessment of the relative probability of each background tradition and the evidence behind them, see companion Section B.
@@ -486,7 +480,7 @@ On the next day he sees Yeshua (Jesus) coming toward him and says, "See, the lam
 
 This is the one concerning whom I said, 'After me comes a man who has come to be before me, because he was first *in regard* to me.'
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔵 **REPETITION OF V.15**
 > - Nearly identical to v.15. The repetition within the narrative (vv.15, 30) reinforces Yochanan (John)'s consistent testimony.
@@ -497,7 +491,7 @@ This is the one concerning whom I said, 'After me comes a man who has come to be
 
 And I did not know him, but so that he might be made known to Yisrael (Israel) — for this reason I came immersing in water."
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟡 **PURPOSE OF IMMERSION — REVELATION, NOT REPENTANCE**
 > - Yochanan (John) states his immersing had a revelatory purpose: "so that he might be made known to Israel." The Synoptic emphasis on repentance-immersion is not foregrounded here. Each text presents its own emphasis.
@@ -508,7 +502,7 @@ And I did not know him, but so that he might be made known to Yisrael (Israel) �
 
 And Yochanan (John) testified, saying, "I have seen the {a:wind/spirit} descending as a dove out of the sky, and it remained upon him.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟢 **"WIND/SPIRIT" — *PNEUMA***
 > - **τὸ πνεῦμα** (*to pneuma*) = wind/spirit. Per locked glossary and cross-supplement alignment with HB רוּחַ (*ruach*): same slash policy. The neuter gender of Greek *pneuma* contrasts with the feminine of Hebrew *ruach*; the gender mismatch is noted but does not affect translation.
@@ -525,7 +519,7 @@ And Yochanan (John) testified, saying, "I have seen the {a:wind/spirit} descendi
 
 And I did not know him, but the one who sent me to immerse in water, that one said to me, 'Upon whom you see the {a:wind/spirit} descending and remaining upon him — this is the one immersing in *the* holy {a:wind/spirit}.'
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟢 **"HOLY WIND/SPIRIT" — *PNEUMA HAGION***
 > - **πνεῦμα ἅγιον** (*pneuma hagion*) = holy wind/spirit. Anarthrous (no article) in Greek — "holy spirit" rather than "the holy spirit." The TT adds the article in italics (*the*) for English readability while noting the Greek's lack of article. The rendering "holy wind/spirit" maintains the slash policy (Rule 2 ambiguity preserved) and avoids importing the later Trinitarian title "the Holy Spirit" into the translation layer. For the significance of the anarthrous construction and the term's background in Second Temple usage, see companion Section D.
@@ -536,7 +530,7 @@ And I did not know him, but the one who sent me to immerse in water, that one sa
 
 And I have seen, and I have testified that this one is the son of God.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔴 **CRITICAL — TEXTUAL VARIANT: "SON OF GOD" vs. "CHOSEN ONE OF GOD"**
 > - NA28 main text reads **ὁ υἱὸς τοῦ θεοῦ** (*ho huios tou theou*) = "the Son of God." A significant variant reads **ὁ ἐκλεκτὸς τοῦ θεοῦ** (*ho eklektos tou theou*) = "the chosen one of God" — attested by 𝔓5vid, א*, b, e, ff2, some Syriac witnesses. The "chosen one" reading is the *lectio difficilior* (harder reading) but has narrower attestation. NA28 retains "Son of God." The TT follows NA28 but notes the variant.
@@ -547,7 +541,7 @@ And I have seen, and I have testified that this one is the son of God.
 
 On the next day again Yochanan (John) stood, and *two* of his followers,
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔵 **"FOLLOWERS" — *MATHĒTAI***
 > - **μαθηταί** (*mathētai*) = learners, students, disciples. Rendered "followers" — the term implies apprenticeship and sustained learning, not just casual following.
@@ -558,7 +552,7 @@ On the next day again Yochanan (John) stood, and *two* of his followers,
 
 and having looked at Yeshua (Jesus) walking, he says, "See, the lamb of God."
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔵 **"HAVING LOOKED AT" — *EMBLEPSAS***
 > - **ἐμβλέψας** (*emblepsas*) = aorist participle of ἐμβλέπω = "to look at intently, to gaze upon." Stronger than simple seeing — a focused, penetrating look.
@@ -575,7 +569,7 @@ And the two followers heard him speaking and followed Yeshua (Jesus).
 
 And Yeshua (Jesus), having turned and having seen them following, says to them, @@"What do you seek?"@@ And they said to him, "Rabbi" — which, being translated, means Teacher — "where are you staying?"
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟢 **"RABBI" — TRANSLITERATED IN GREEK TEXT**
 > - **Ῥαββί** (*Rhabbi*) = already a transliteration in the Greek from Hebrew/Aramaic רַבִּי (*rabbi*, "my great one" → "my teacher"). The narrator translates it for Greek readers: "which, being translated, means Teacher." The TT preserves the narrator's own gloss.
@@ -589,7 +583,7 @@ And Yeshua (Jesus), having turned and having seen them following, says to them, 
 
 He says to them, @@"Come and see."@@ They came and saw where he was staying, and they stayed with him that day; *it was* about the tenth hour.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟢 **"THE TENTH HOUR"**
 > - If counting from sunrise (~6 AM), the tenth hour = approximately 4 PM. The specific time notation gives the account an eyewitness quality — someone remembered the hour.
@@ -600,7 +594,7 @@ He says to them, @@"Come and see."@@ They came and saw where he was staying, and
 
 Andreas (Andrew), the brother of Shimon (Simon) Kefa (Peter), was one of the two who heard from Yochanan (John) and followed him.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟢 **ANDREAS — TT TRANSLITERATION**
 > - **Ἀνδρέας** (*Andreas*) = Greek name (from ἀνήρ, "man"). Unlike Hebrew names transliterated to their Hebrew form, Andreas is natively Greek and retained as such.
@@ -611,7 +605,7 @@ Andreas (Andrew), the brother of Shimon (Simon) Kefa (Peter), was one of the two
 
 This one finds first his own brother Shimon (Simon) and says to him, "We have found the Messiah" — which is, being translated, *the* anointed one.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟢 **"MESSIAH" — TRANSLITERATED IN GREEK TEXT**
 > - **Μεσσίας** (*Messias*) = Greek transliteration of Aramaic מְשִׁיחָא (*meshicha*) / Hebrew מָשִׁיחַ (*mashiach*). The narrator translates: "which is, being translated, *christos*" (anointed one). The TT preserves "Messiah" where the Greek text itself uses the Semitic term, and renders the Greek gloss as "anointed one" per locked glossary.
@@ -622,7 +616,7 @@ This one finds first his own brother Shimon (Simon) and says to him, "We have fo
 
 He brought him to Yeshua (Jesus). Having looked at him, Jesus said, @@"You are Shimon (Simon), the son of Yochanan (John); you will be called Kefa (Peter)"@@ — which is translated "Rock."
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟢 **KEFA — TT TRANSLITERATION**
 > - **Κηφᾶς** (*Kēphas*) = Greek transliteration of Aramaic כֵּיפָא (*Kefa*, "rock"). The narrator adds the Greek translation: Πέτρος (*Petros*, "Rock"). The TT uses "Kefa" and provides the meaning "Rock" as the narrator does.
@@ -636,7 +630,7 @@ He brought him to Yeshua (Jesus). Having looked at him, Jesus said, @@"You are S
 
 On the next day he wanted to go out to the Galil (Galilee), and he finds Philippos (Philip). And Yeshua (Jesus) says to him, @@"Follow me."@@
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟢 **GALIL — TT TRANSLITERATION**
 > - **Γαλιλαία** (*Galilaia*) = Greek form of Hebrew גָּלִיל (*Galil*, "circle/district"). TT renders the Hebrew form.
@@ -647,7 +641,7 @@ On the next day he wanted to go out to the Galil (Galilee), and he finds Philipp
 
 And Philippos (Philip) was from Beyt-Tsaidah (Bethsaida), from the city of Andreas (Andrew) and Kefa (Peter).
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟢 **BEYT-TSAIDAH — TT TRANSLITERATION**
 > - **Βηθσαϊδά** (*Bēthsaida*) = Greek form of Hebrew/Aramaic בֵּית צַיְדָה (*Beyt-Tsaidah*, "house of fishing/hunting"). TT renders the Semitic form.
@@ -658,7 +652,7 @@ And Philippos (Philip) was from Beyt-Tsaidah (Bethsaida), from the city of Andre
 
 Philippos (Philip) finds Nathanael and says to him, "The one of whom Mosheh (Moses) wrote in the law, and the prophets — we have found *him*: Yeshua (Jesus), son of Yosef, from Natseret (Nazareth)."
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟡 **"MOSHEH WROTE IN THE LAW, AND THE PROPHETS"**
 > - Philip identifies Jesus with the figure anticipated in Torah and Prophets — without specifying which passages. The claim is comprehensive but undetailed. "Son of Yosef" is the social identification; the narrator does not correct or qualify it here.
@@ -672,7 +666,7 @@ Philippos (Philip) finds Nathanael and says to him, "The one of whom Mosheh (Mos
 
 And Nathanael said to him, "From Natseret (Nazareth) can anything good be?" Philippos (Philip) says to him, "Come and see."
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟡 **NATSERET SKEPTICISM**
 > - Nathanael's question reflects either Nazareth's insignificance or a specific prejudice. The text does not explain the basis for the skepticism — it simply records it. "Come and see" — Philip does not argue; he invites direct encounter.
@@ -683,7 +677,7 @@ And Nathanael said to him, "From Natseret (Nazareth) can anything good be?" Phil
 
 Yeshua (Jesus) saw Nathanael coming toward him and says concerning him, @@"See, truly a Yisraeli (Israelite) in whom there is no deceit."@@
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟡 **ECHO OF YAAKOV — "NO DECEIT"**
 > - **δόλος** (*dolos*) = deceit, guile, treachery. Yaakov ("heel-grabber/supplanter") was characterized by deceit (Gen 27). Jesus describes Nathanael as a true Israelite — one *without* the deceit associated with the patriarch whose name Yisrael (Israel) bears. The allusion inverts the Yaakov tradition.
@@ -694,7 +688,7 @@ Yeshua (Jesus) saw Nathanael coming toward him and says concerning him, @@"See, 
 
 Nathanael says to him, "From where do you know me?" Yeshua (Jesus) answered and said to him, @@"Before Philippos (Philip) called you, *while you were* under the fig tree, I saw you."@@
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟡 **"UNDER THE FIG TREE"**
 > - The fig tree is associated in rabbinic tradition with Torah study. Whether this is the allusion here is uncertain. The text presents Jesus's knowledge of Nathanael's location as a sign of supernatural perception, without explaining how.
@@ -705,7 +699,7 @@ Nathanael says to him, "From where do you know me?" Yeshua (Jesus) answered and 
 
 Nathanael answered him, "Rabbi, you are the son of God; you are the king of Yisrael (Israel)."
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟡 **TWO TITLES — "SON OF GOD" AND "KING OF YISRAEL"**
 > - In a Second Temple context, "Son of God" could designate the Davidic king (2 Sam 7:14, Ps 2:7) — a royal title, not necessarily a metaphysical claim. "King of Yisrael (Israel)" reinforces the royal-messianic reading. Nathanael's confession may be political-messianic rather than (or as well as) a claim about divine identity. The text does not resolve the question.
@@ -716,7 +710,7 @@ Nathanael answered him, "Rabbi, you are the son of God; you are the king of Yisr
 
 Yeshua (Jesus) answered and said to him, @@"Because I said to you that I saw you under the fig tree, you trust? You will see greater *things* than these."@@
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔵 **"YOU TRUST?" — INDICATIVE OR INTERROGATIVE?**
 > - **πιστεύεις** (*pisteueis*) = "you trust" — can be read as statement ("You trust.") or question ("You trust?"). Greek does not distinguish graphically. The TT renders it as a question, following the majority reading, but notes the ambiguity.
@@ -727,7 +721,7 @@ Yeshua (Jesus) answered and said to him, @@"Because I said to you that I saw you
 
 And he says to him, @@"Amen, amen, I say to you, you will see the sky opened and the messengers of God ascending and descending upon the son of man."@@
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔴 **CRITICAL — JACOB'S LADDER (GEN 28:12)**
 > - **τοὺς ἀγγέλους τοῦ θεοῦ ἀναβαίνοντας καὶ καταβαίνοντας** = "the messengers of God ascending and descending." This directly echoes Gen 28:12: "and see, messengers of God ascending and descending on it." In Genesis, the messengers ascend and descend on the ladder (*sullam*); here, they ascend and descend "upon the Son of Man." The Son of Man replaces the ladder as the point of connection between sky and earth.

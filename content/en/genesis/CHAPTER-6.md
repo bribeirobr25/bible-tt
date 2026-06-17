@@ -26,18 +26,12 @@
 
 ## READING GUIDE
 
-**📖 Main Text:** Primary translation—readable but faithful to Hebrew structure
-**📝 Notes:** Essential Hebrew features immediately below each verse
+**Main Text:** Primary translation—readable but faithful to Hebrew structure
+**Notes:** Essential Hebrew features immediately below each verse
 ***Italics:*** Words added for English grammar (not in Hebrew text)
 **"Quotes":** Direct divine speech
 **YHWH:** Tetragrammaton rendered consonantally (Rule 25, Option A)
 **nephilim, tebah, gopher:** Transliterated Hebrew terms (explained in notes)
-
-**Note Icons:**
-- 🔴 **CRITICAL** - Major textual or translation decisions
-- 🟢 **LEXICAL** - Word meanings, root patterns, glossary terms
-- 🔵 **GRAMMATICAL** - Hebrew structure, verb forms, syntax
-- 🟡 **THEOLOGICAL** - Interpretive options, ambiguity preservation
 
 **This chapter contains some of the most contested passages in Genesis.** The TT preserves every ambiguity the Hebrew preserves. "Sons of God/the gods" is slashed per Rule 2. "Nephilim" is transliterated per Rule 4. The flood-narrative tensions (two of each vs. seven pairs) are presented as the MT reads them, without harmonization (Rule 22).
 
@@ -79,7 +73,7 @@
 
 And it was when the human began to multiply on the face of the ground, and daughters were born to them,
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔵 **"THE HUMAN" — COLLECTIVE**
 > - **הָאָדָם** (*ha-adam*) here is collective humanity (with article), not the individual Adam. "Began to multiply" = population expansion.
@@ -90,7 +84,7 @@ And it was when the human began to multiply on the face of the ground, and daugh
 
 and the sons of {a:God/the gods} saw the daughters of the human, that they *were* good, and they took for themselves women from all whom they chose.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔴 **CRITICAL — "SONS OF GOD/THE GODS"**
 > - **בְּנֵי הָאֱלֹהִים** (*bene ha-elohim*) — one of the most contested phrases in Genesis. Three major readings are all **POSSIBLE**: (1) divine/angelic beings (cf. Job 1:6, 2:1, 38:7); (2) rulers/nobles claiming divine status (ANE royal ideology); (3) the godly Sethite line marrying the Cainite line (later Jewish/Christian reading).
@@ -105,7 +99,7 @@ and the sons of {a:God/the gods} saw the daughters of the human, that they *were
 
 And YHWH said, @@"My spirit shall not {a:remain/contend} in the human forever, in that he *is* also flesh; and his days shall be one hundred and twenty years."@@
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔴 **CRITICAL — *yadon* — GENUINELY UNCERTAIN**
 > - **לֹא־יָדוֹן** (*lo yadon*) — the verb is **UNCERTAIN**. Proposed meanings: (1) "remain/abide" (spirit dwelling in humans); (2) "contend/strive" (spirit struggling with humanity); (3) "judge/rule" (spirit governing humans). Root debated: דון or דין. The TT renders "remain/contend" with slash.
@@ -119,7 +113,7 @@ And YHWH said, @@"My spirit shall not {a:remain/contend} in the human forever, i
 
 The {t:nephilim} were on the land in those days, and also afterward, when the sons of {a:God/the gods} came to the daughters of the human, and they bore to them — they *are* the mighty ones who *were* from of old, men of the name.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔴 **CRITICAL — NEPHILIM TRANSLITERATED**
 > - **נְפִילִים** (*nephilim*) — transliterated per Rule 4. "Giants" imports LXX (the ancient Greek translation) *gigantes*; "fallen ones" is folk etymology from root נ-פ-ל that may not reflect the actual derivation. The word appears only here and Num 13:33 in the Hebrew Bible. Meaning **UNCERTAIN**.
@@ -134,7 +128,7 @@ The {t:nephilim} were on the land in those days, and also afterward, when the so
 
 And YHWH saw that great *was* the evil of the human on the land, and every inclination of the thoughts of his heart *was* only evil all the day.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔴 **"EVERY INCLINATION... ONLY EVIL"**
 > - **כָּל־יֵצֶר מַחְשְׁבֹת לִבּוֹ רַק רַע כָּל־הַיּוֹם** — absolute language: *every* inclination, *only* evil, *all* the day. The root **יֵצֶר** (*yetser*) = "inclination/formation" — later becomes the Rabbinic concept *yetzer ha-ra* (evil inclination). This is its first occurrence.
@@ -145,7 +139,7 @@ And YHWH saw that great *was* the evil of the human on the land, and every incli
 
 And YHWH regretted that he had made the human on the land, and it grieved him to his heart.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔴 **CRITICAL — DIVINE REGRET**
 > - **וַיִּנָּחֶם יהוה** (*vayyinnachem YHWH*) = "and YHWH regretted/was grieved." Root: **נ-ח-ם** (*n-ch-m*) — the SAME root as Noach/nacham (5:29 comfort). Wordplay: the one whose name means "comfort" comes from the moment of divine "regret" — same consonantal root.
@@ -157,7 +151,7 @@ And YHWH regretted that he had made the human on the land, and it grieved him to
 
 And YHWH said, @@"I will wipe the human whom I created from upon the face of the ground, from human to livestock to creeping thing to bird of the sky, for I regret that I made them."@@
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔵 **SCOPE OF DESTRUCTION**
 > - "From human to livestock to creeping thing to bird of the sky" — reverses the creation order from Gen 1 (birds Day 5, livestock Day 6, humans Day 6). Creation is being unmade.
@@ -171,7 +165,7 @@ And YHWH said, @@"I will wipe the human whom I created from upon the face of the
 
 But Noach (Noah) found favor in the eyes of YHWH.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟢 **CHEN = FAVOR/GRACE**
 > - **חֵן** (*chen*) = favor/grace. First occurrence. Noah finds *chen* — note the reverse spelling: **Noach** (נ-ח) / **chen** (ח-נ). Whether this is deliberate wordplay is POSSIBLE.
@@ -182,7 +176,7 @@ But Noach (Noah) found favor in the eyes of YHWH.
 
 These *are* the generations of Noach (Noah). Noah *was* a righteous man, whole in his generations; with God walked Noah.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔴 **TOLEDOT FORMULA — THIRD OCCURRENCE**
 > - **אֵלֶּה תּוֹלְדוֹת נֹחַ** = "These are the generations of Noah." Third *toledot* marker (2:4, 5:1, 6:9).
@@ -205,7 +199,7 @@ And Noach (Noah) begot three sons: Shem, Cham (Ham), and Yafet (Japheth).
 
 And the land was corrupt before God, and the land was filled with violence.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟢 **VIOLENCE**
 > - **חָמָס** (*chamas*) = violence/wrongdoing. The same word appears at v.13. The corruption is specifically *chamas* — not abstract evil but active violence.
@@ -219,7 +213,7 @@ And the land was corrupt before God, and the land was filled with violence.
 
 And God saw the land, and see, it was corrupt, for all flesh had corrupted its way upon the land.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔵 **"GOD SAW" — INVERSE OF GEN 1**
 > - Gen 1: "God saw that good" (6×). Gen 6:12: "God saw the land, and see, it was corrupt." Same verb (*ra'ah*), inverted evaluation. Creation's goodness has been undone.
@@ -230,7 +224,7 @@ And God saw the land, and see, it was corrupt, for all flesh had corrupted its w
 
 And God said to Noach (Noah), @@"The end of all flesh has come before me, for the land is filled with violence because of them, and see, I *am* destroying them with the land.@@
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔵 **"WITH THE LAND"**
 > - **אֶת־הָאָרֶץ** (*et-ha-aretz*) — "with the land" or "and the land." The destruction encompasses not just humanity but the land itself. The land participates in the judgment.
@@ -241,7 +235,7 @@ And God said to Noach (Noah), @@"The end of all flesh has come before me, for th
 
 @@Make for yourself a {t:tebah} of {t:gopher} wood; rooms you shall make *in* the {t:tebah}, and you shall cover it inside and outside with kopher.@@
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔴 **TEBAH — TRANSLITERATED**
 > - **תֵּבָה** (*tebah*) = ark/box/vessel. Transliterated at first occurrence per Rule 4. The word appears only here (Gen 6–9) and in Exod 2:3,5 (Moses' basket). NOT a ship — the text describes a sealed box with no rudder, sail, or navigation.
@@ -259,7 +253,7 @@ And God said to Noach (Noah), @@"The end of all flesh has come before me, for th
 
 @@And this *is how* you shall make it: three hundred cubits the length of the {t:tebah}, fifty cubits its breadth, and thirty cubits its height.@@
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟢 **DIMENSIONS**
 > - 300 × 50 × 30 cubits. If a cubit ≈ 18 inches / 45 cm: approximately 450 × 75 × 45 feet (137 × 23 × 14 meters). The proportions (6:1 length-to-width) are those of a barge, not a ship.
@@ -270,7 +264,7 @@ And God said to Noach (Noah), @@"The end of all flesh has come before me, for th
 
 @@A tsohar you shall make for the {t:tebah}, and to a cubit you shall finish it from above, and the door of the {t:tebah} you shall set in its side; lower, second, and third *decks* you shall make it.@@
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟢 **TSOHAR — UNCERTAIN**
 > - **צֹהַר** (*tsohar*) — meaning UNCERTAIN. Proposals: (1) roof/covering; (2) window/opening; (3) light-source (from root צ-ה-ר = shine). Transliterated at first occurrence with note.
@@ -281,7 +275,7 @@ And God said to Noach (Noah), @@"The end of all flesh has come before me, for th
 
 @@And I, see, I *am* bringing the flood of waters upon the land, to destroy all flesh in which *is* breath of life from under the sky; everything which *is* on the land shall die.@@
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔴 **MABBUL — THE FLOOD**
 > - **הַמַּבּוּל** (*ha-mabbul*) = "the flood." Nearly unique term — used only for THIS flood (Gen 6–11) and Ps 29:10. Not the common word for flooding (*shetzef*) or rising water (*mayim*). It is a specific, named cataclysm.
@@ -295,7 +289,7 @@ And God said to Noach (Noah), @@"The end of all flesh has come before me, for th
 
 @@But I will establish my covenant with you, and you shall come into the {t:tebah} — you and your sons and your woman and the women of your sons with you.@@
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔴 **CRITICAL — FIRST COVENANT (BERIT)**
 > - **בְּרִיתִי** (*beriti*) = "my covenant." **First occurrence of בְּרִית** (*berit*) in the Bible. The concept enters the narrative here — God establishes a formal, binding commitment. The full terms are not elaborated until Gen 9:8–17 (post-flood). Here it is stated proleptically: the covenant exists before its content is disclosed.
@@ -309,7 +303,7 @@ And God said to Noach (Noah), @@"The end of all flesh has come before me, for th
 
 @@And from all the living, from all flesh, two from all you shall bring into the {t:tebah} to keep alive with you; male and female they shall be.@@
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔴 **"TWO FROM ALL" — TENSION WITH 7:2**
 > - Here: **שְׁנַיִם מִכֹּל** = "two from all" — one pair per kind. At Gen 7:2: "from the clean livestock, seven seven" (seven pairs). The TT translates both as MT reads them **without harmonization** per Rule 22 and the No-Harmonization Principle. The tension is a textual feature, not a scribal error to be smoothed.
@@ -320,7 +314,7 @@ And God said to Noach (Noah), @@"The end of all flesh has come before me, for th
 
 @@From the bird to its kind, and from the livestock to its kind, from every creeping thing of the ground to its kind, two from all shall come to you to keep alive.@@
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔵 **"TO ITS KIND"**
 > - **לְמִינֵהוּ** (*leminehu*) — same *lemin* formula from Gen 1:11,12,21,24,25. The creation categories (*min* = kind) structure the preservation.
@@ -337,7 +331,7 @@ And God said to Noach (Noah), @@"The end of all flesh has come before me, for th
 
 And Noach (Noah) did according to all that God commanded him; so he did.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔵 **OBEDIENCE FORMULA**
 > - **וַיַּעַשׂ נֹחַ כְּכֹל אֲשֶׁר צִוָּה אֹתוֹ אֱלֹהִים כֵּן עָשָׂה** = "And Noah did according to all that God commanded him; so he did." Emphatic double statement of compliance. This formula repeats at 7:5, 7:9, 7:16. Noah's response is silent obedience — no recorded speech from Noah until 9:25.

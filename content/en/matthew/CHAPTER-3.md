@@ -33,12 +33,6 @@
 **"Quotes":** Direct speech
 **the Lord:** kyrios rendered per GS Divine Name Policy (Option C) when quoting OT YHWH passages
 
-**Note Icons:**
-- 🔴 **CRITICAL** - Major textual or translation decisions
-- 🟢 **LEXICAL** - Word meanings, semantic range, glossary terms
-- 🔵 **GRAMMATICAL** - Greek structure, verb aspect, syntax
-- 🟡 **THEOLOGICAL** - Interpretive options, ambiguity preservation
-
 **This chapter introduces Yochanan the Immerser and "the kingdom of the skies."** The phrase *basileia tōn ouranōn* ("kingdom of the skies") appears for the first time in Matthew — a phrase unique to this Gospel (the other Gospels use "kingdom of God"). The TT renders *ouranōn* as "skies" per alignment with HB *shamayim*. Yochanan's practice of *baptisma* is rendered as "immersion" per locked glossary. Proper names follow TT transliteration: Yochanan (not John), Perushim (not Pharisees), Tsduqim (not Sadducees), Yarden (not Jordan).
 
 ---

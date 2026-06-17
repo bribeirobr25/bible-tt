@@ -34,12 +34,6 @@
 **YHWH:** Tetragrama consonantal (Regla 25, Opción A)
 **Chava, nachash, etc.:** Terminos hebreos transliterados (explicados en las notas)
 
-**Iconos de Notas:**
-- 🔴 **CRÍTICO** - Decisiones textuales o traductoras importantes
-- 🟢 **LÉXICO** - Significados de palabras, patrones de raices, términos del glosario
-- 🔵 **GRAMATICAL** - Estructura hebrea, formas verbales, sintaxis
-- 🟡 **TEOLÓGICO** - Opciónes interpretativas, preservacíon de ambigüedad
-
 **Regla 23 (Sensibilidad de Genero Literario):** Prosa narrativa, no patron liturgico. El capítulo no contiene vocabulario teológico heredado del español/inglés ("la Caida," "pecado original," "protoevangelio" (latín: 'primer anuncio de buenas nuevas' — una etiqueta tradicional para este versículo), "Satanas") a menos que el hebreo lo justifique — y el hebreo no lo hace.
 
 **Política Adan / Humano (Regla 17 nota permanente):** Hebreo אָדָם (*adam*) continua rindiendose como *"el humano"* a lo largo de Génesis 3, incluyendo las tres ocurrencias sin artículo (3:17, 3:21 — sin artículo en hebreo). El juego de palabras *adam / adamah* esta activo a lo largo del capítulo (3:17 suelo maldito, 3:19 retorno al polvo, 3:23 trabajar el suelo). La transición al nombre propio *Adan* se resuelve formalmente en Génesis 4.

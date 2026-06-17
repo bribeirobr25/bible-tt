@@ -26,17 +26,11 @@
 
 ## READING GUIDE
 
-**📖 Main Text:** Primary translation—readable but faithful to Hebrew structure
-**📝 Notes:** Essential Hebrew features immediately below each verse
+**Main Text:** Primary translation—readable but faithful to Hebrew structure
+**Notes:** Essential Hebrew features immediately below each verse
 ***Italics:*** Words added for English grammar (not in Hebrew text)
 **"Quotes":** Direct divine speech
 **YHWH:** Tetragrammaton rendered consonantally (Rule 25, Option A)
-
-**Note Icons:**
-- 🔴 **CRITICAL** - Major textual or translation decisions
-- 🟢 **LEXICAL** - Word meanings, root patterns, glossary terms
-- 🔵 **GRAMMATICAL** - Hebrew structure, verb forms, syntax
-- 🟡 **THEOLOGICAL** - Interpretive options, ambiguity preservation
 
 **This chapter contains the post-flood covenant, the blood prohibition, and the Cham (Ham)/Kenaan (Canaan) incident.** The blessing of 9:1 echoes Gen 1:28. The covenant (9:8–17) is the first fully disclosed *berit*, with the bow (*qesheth*) as sign. Noach (Noah)'s first recorded speech (9:25–27) — after chapters of silence — is a curse. The text says Ham "saw the nakedness of his father"; the TT renders what the text says, not what it might mean.
 
@@ -82,7 +76,7 @@
 
 And God blessed Noach (Noah) and his sons and said to them, @@"Be fruitful and multiply and fill the land.@@
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔴 **"BE FRUITFUL AND MULTIPLY" — GEN 1:28 REPEATED**
 > - **פְּרוּ וּרְבוּ וּמִלְאוּ אֶת־הָאָרֶץ** = "Be fruitful and multiply and fill the land." Nearly identical to Gen 1:28, but Gen 9:1 omits the dominion language ("subdue" *kivshuha* + "have dominion" *urdu*). → For full re-creation comparison, see companion §A1.
@@ -93,7 +87,7 @@ And God blessed Noach (Noah) and his sons and said to them, @@"Be fruitful and m
 
 @@And the fear of you and the dread of you shall be upon every living thing of the land, and upon every bird of the sky, in all which the ground swarms, and in all the fish of the sea; into your hand they are given.@@
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔴 **FEAR REPLACES DOMINION**
 > - Gen 1:28: "have dominion (*radah*) over the fish... bird... every living thing." Gen 9:2: "the fear of you and the dread of you (*mora'akhem ve-chitkhem*) shall be upon every living thing." The human-animal relationship changes from *radah* (dominion/rule) to *mora* and *chit* (fear and terror). The pre-flood relationship was governance; the post-flood relationship is dread.
@@ -107,7 +101,7 @@ And God blessed Noach (Noah) and his sons and said to them, @@"Be fruitful and m
 
 @@Every moving thing which *is* alive shall be food for you; as the green plant, I have given you everything.@@
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔴 **MEAT EATING PERMITTED — NEW**
 > - Gen 1:29: "every seed-bearing plant... every tree" → human food was plant-based. Gen 9:3: "every moving thing which is alive" → meat is now permitted. "As the green plant" (*ke-yerek esev*) — the comparison is explicit: meat is now given as plants were given. The post-flood diet is broader.
@@ -118,7 +112,7 @@ And God blessed Noach (Noah) and his sons and said to them, @@"Be fruitful and m
 
 @@Only flesh with its life — its blood — you shall not eat.@@
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔴 **CRITICAL — BLOOD PROHIBITION**
 > - **אַךְ־בָּשָׂר בְּנַפְשׁוֹ דָמוֹ לֹא תֹאכֵלוּ** = "Only flesh with its *nephesh* (life), its blood, you shall not eat." The blood IS the *nephesh* (life-force). Blood and life are equated — this identification becomes foundational for Lev 17:11 ("the *nephesh* of the flesh is in the blood").
@@ -130,7 +124,7 @@ And God blessed Noach (Noah) and his sons and said to them, @@"Be fruitful and m
 
 @@And surely your blood of your lives I will seek; from the hand of every living thing I will seek it, and from the hand of the human, from the hand of a man, his brother, I will seek the life of the human.@@
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔵 **"I WILL SEEK" — THREEFOLD**
 > - **אֶדְרֹשׁ** (*edrosh*) = "I will seek/require" — repeated three times. God will require accounting for human blood: (1) from every living thing (animals that kill humans), (2) from the human (humans who kill humans), (3) from a man and his brother (fratricidal violence — echoing Cain).
@@ -141,7 +135,7 @@ And God blessed Noach (Noah) and his sons and said to them, @@"Be fruitful and m
 
 @@Whoever sheds the blood of the human, by the human his blood shall be shed, for in the image of God he made the human.@@
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔴 **CRITICAL — CHIASTIC STRUCTURE**
 > - **שֹׁפֵךְ דַּם הָאָדָם בָּאָדָם דָּמוֹ יִשָּׁפֵךְ** = A-B-C / C'-B'-A' chiasm. "Shedder-of / blood-of / the-human // by-the-human / his-blood / shall-be-shed." The Hebrew mirrors the act in its structure: the sentence folds back on itself like the retribution it describes. Untranslatable in English — noted.
@@ -155,7 +149,7 @@ And God blessed Noach (Noah) and his sons and said to them, @@"Be fruitful and m
 
 @@And you, be fruitful and multiply, swarm on the land and multiply on it."@@
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔵 **"SWARM" (*shirtsu*)**
 > - **שִׁרְצוּ** = "swarm" — the same verb applied to fish and small creatures in Gen 1:20. Now applied to humans. Noah's descendants are told to "swarm" like the creatures of Day 5. Unusual, vivid.
@@ -172,7 +166,7 @@ And God said to Noah and to his sons with him, saying,
 
 @@"And I, see, I *am* establishing my covenant with you and with your seed after you,@@
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔴 **COVENANT TERMS DISCLOSED**
 > - Gen 6:18: berit announced but not detailed. Gen 9:9–17: full terms disclosed. This is the first fully articulated covenant in the Bible. It is unilateral — God commits; no human obligations are stipulated as conditions.
@@ -186,7 +180,7 @@ And God said to Noah and to his sons with him, saying,
 
 @@and with every living being which *is* with you — the bird, the livestock, and every living thing of the land with you — from all going out of the {t:tebah}, to every living thing of the land.@@
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟡 **COVENANT INCLUDES ANIMALS**
 > - The covenant is not between God and humans alone. It explicitly includes "every living being" — birds, livestock, every living thing. The *berit* encompasses all survivors of the tebah and their descendants. Non-human creation is party to the covenant.
@@ -203,7 +197,7 @@ And God said to Noah and to his sons with him, saying,
 
 And God said, @@"This *is* the sign of the covenant which I *am* giving between me and between you and between every living being which *is* with you, for generations of perpetuity:@@
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟢 **"GENERATIONS OF PERPETUITY" (*dorot olam*)**
 > - **לְדֹרֹת עוֹלָם** (*ledorot olam*) = "for generations of perpetuity/eternity." *Olam* = long duration, perpetuity. The covenant has no expiration date. It is not contingent on human behavior.
@@ -214,7 +208,7 @@ And God said, @@"This *is* the sign of the covenant which I *am* giving between 
 
 @@my bow I have set in the cloud, and it shall be for a sign of the covenant between me and between the land.@@
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔴 **CRITICAL — "MY BOW" (*qashti*)**
 > - **קַשְׁתִּי** (*qashti*) = "my bow." **קֶשֶׁת** (*qesheth*) overwhelmingly denotes a war-bow elsewhere in the HB; the image is God setting down his weapon as a peace-sign. The TT renders "bow" — both rainbow and war-bow are **POSSIBLE** to ancient hearers. → For fuller martial-semantics discussion, see companion §A5 + §D1.
@@ -234,7 +228,7 @@ And God said, @@"This *is* the sign of the covenant which I *am* giving between 
 
 @@and I will remember my covenant which *is* between me and between you and between every living being in all flesh, and the waters shall not again become a flood to destroy all flesh.@@
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟡 **"I WILL REMEMBER" (*zacharti*)**
 > - **וְזָכַרְתִּי** = "and I will remember." Same verb as 8:1 ("God remembered Noah"). The bow functions as a reminder to God — the text attributes this to the divine perspective, not the human one. The sign is for God to see, not primarily for humans.
@@ -245,7 +239,7 @@ And God said, @@"This *is* the sign of the covenant which I *am* giving between 
 
 @@And the bow shall be in the cloud, and I will see it to remember the covenant of perpetuity between God and between every living being in all flesh which *is* upon the land."@@
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔵 **"I WILL SEE IT"**
 > - **וּרְאִיתִיהָ** = "and I will see it." God sees the bow → God remembers the covenant → the flood does not return. The mechanism is divine perception leading to divine restraint. The bow is a mnemonic sign directed at God.
@@ -262,7 +256,7 @@ And God said to Noah, @@"This *is* the sign of the covenant which I have establi
 
 And the sons of Noah who went out from the {t:tebah} were Shem and Cham (Ham) and Yafet (Japheth); and Ham *is* the father of Kenaan (Canaan).
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔵 **"HAM IS THE FATHER OF CANAAN"**
 > - This parenthetical note anticipates the Ham/Canaan incident (vv.20–27). The narrator names Canaan before the event — identifying the line that will be cursed. The insertion is prospective: it prepares the reader for what follows.
@@ -279,7 +273,7 @@ These three *are* the sons of Noah, and from these the whole land was spread abr
 
 And Noah began *as* a man of the ground and planted a vineyard.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟢 **"MAN OF THE GROUND" (*ish ha-adamah*)**
 > - **אִישׁ הָאֲדָמָה** = "man of the ground." *Adamah* = ground/soil — the same word from which *adam* was formed (Gen 2:7). Noah is the first person identified by occupation after the flood: a farmer, a man of the *adamah*. Echoes Cain, who was also a "worker of the ground" (4:2).
@@ -293,7 +287,7 @@ And Noah began *as* a man of the ground and planted a vineyard.
 
 And he drank from the wine and became drunk, and he uncovered himself in the midst of his tent.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔵 **"UNCOVERED HIMSELF" (*vayyitgal*)**
 > - **וַיִּתְגַּל** = hitpael of גָּלָה (*galah*, to uncover). The reflexive form: he uncovered **himself**. The text attributes the initial nakedness to Noah's own action (getting drunk and uncovering himself), not to Ham.
@@ -304,7 +298,7 @@ And he drank from the wine and became drunk, and he uncovered himself in the mid
 
 And Cham (Ham), the father of Kenaan (Canaan), saw the nakedness of his father, and he told his two brothers outside.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔴 **CRITICAL — "SAW THE NAKEDNESS"**
 > - **וַיַּרְא... אֵת עֶרְוַת אָבִיו** (*vayyar... et ervat aviv*) = "and *he* saw the nakedness of his father." The text uses ראה (saw), not גלה (uncovered). Major readings include voyeurism/disrespect and sexual violation (see companion for full analysis). Rule 2: the text says "saw." We translate "saw."
@@ -318,7 +312,7 @@ And Cham (Ham), the father of Kenaan (Canaan), saw the nakedness of his father, 
 
 And Shem and Yafet (Japheth) took the garment and placed *it* upon the shoulder of the two of them, and they walked backward, and they covered the nakedness of their father; and their faces *were* backward, and the nakedness of their father they did not see.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔵 **DELIBERATE CONTRAST**
 > - Ham: saw. Shem and Japheth: walked backward, faces averted, did not see. The contrast is total and deliberate. Their act repairs what Ham's act damaged.
@@ -332,7 +326,7 @@ And Shem and Yafet (Japheth) took the garment and placed *it* upon the shoulder 
 
 And Noah awoke from his wine, and he knew what his youngest son had done to him.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔴 **"HIS YOUNGEST SON" (*beno ha-qatan*)**
 > - **בְּנוֹ הַקָּטָן** = "his youngest/smallest son." Ham is listed as the middle son in every genealogy (Shem, Ham, Japheth); calling him *qatan* here creates an apparent contradiction. → For the proposals (birth-order vs moral-status reading), see companion §G3.
@@ -346,7 +340,7 @@ And Noah awoke from his wine, and he knew what his youngest son had done to him.
 
 And he said, "Cursed *be* Kenaan (Canaan); a servant of servants he shall be to his brothers."
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟡 **TIER 2 — RECEPTION HISTORY**
 > - This passage has documented reception history involving harmful misuse. The curse falls on Canaan specifically — not Ham, not any broader ethnic or racial group. See companion Section F for historical context.
@@ -363,7 +357,7 @@ And he said, "Cursed *be* Kenaan (Canaan); a servant of servants he shall be to 
 
 And he said, "Blessed *be* YHWH, God of Shem, and let Canaan be a servant to them.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟡 **"BLESSED BE YHWH, GOD OF SHEM"**
 > - **בָּרוּךְ יהוה אֱלֹהֵי שֵׁם** = "Blessed YHWH, God of Shem." Noah blesses God, not Shem directly. YHWH is identified as "God of Shem" — the first time God is called the God of a specific person. This anticipates "God of Abraham" (Gen 26:24), "God of Isaac" (Gen 28:13), "God of Israel."
@@ -377,7 +371,7 @@ And he said, "Blessed *be* YHWH, God of Shem, and let Canaan be a servant to the
 
 May God enlarge Yafet (Japheth), and may he dwell in the tents of Shem, and let Canaan be a servant to them.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟢 **"ENLARGE" (*yaft*) — WORDPLAY**
 > - **יַפְתְּ אֱלֹהִים לְיֶפֶת** (*yaft elohim le-Yefet*) = "may God *yaft* (enlarge) *Yefet*." The verb *yaft* (enlarge, from root פ-ת-ה) is a play on the name Yafet/Yefet. As with Noach/nacham and Shem/shem, the name carries its destiny.
@@ -397,7 +391,7 @@ And Noah lived after the flood three hundred and fifty years.
 
 And all the days of Noah were nine hundred and fifty years, and he died.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔵 **DEATH FORMULA**
 > - Same formula as Gen 5 genealogy: "all the days of X were Y years, and he died." Noah's life concludes with the same structure as his ancestors. The genealogical chain continues.

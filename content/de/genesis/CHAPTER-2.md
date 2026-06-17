@@ -28,18 +28,12 @@
 
 ## LESEANLEITUNG
 
-**📖 Haupttext:** Primäre Übersetzung—lesbar aber treu der hebräischen Struktur
-**📝 Notizen:** Wesentliche hebräische Merkmale unmittelbar unter jedem Vers
+**Haupttext:** Primäre Übersetzung—lesbar aber treu der hebräischen Struktur
+**Notizen:** Wesentliche hebräische Merkmale unmittelbar unter jedem Vers
 ***Kursiv:*** Wörter für deutsche Grammatik hinzugefügt (nicht im hebräischen Text)
 **„Anführungszeichen":** Direkte göttliche Rede oder menschliche Rede
 **JHWH:** Tetragrammaton konsonantisch transliteriert (Regel 25, Option A)
 **raqia, yatzar, usw.:** Transliterierte hebräische Begriffe (in Notizen erklärt)
-
-**Notizen-Symbole:**
-- 🔴 **KRITISCH** - Wichtige textliche oder Übersetzungsentscheidungen
-- 🟢 **LEXIKALISCH** - Wortbedeutungen, Wurzelmuster, Glossarbegriffe
-- 🔵 **GRAMMATISCH** - Hebräische Struktur, Verbformen, Syntax
-- 🟡 **THEOLOGISCH** - Interpretationsoptionen, Ambiguitätsbewahrung
 
 **Dieses Kapitel folgt Regel 23 (Gattungssensibilität):** Die gesperrten Formeln aus Genesis 1 gelten hier NICHT mechanisch. Genesis 2 ist Erzählung, nicht liturgischer Rhythmus.
 
@@ -83,7 +77,7 @@
 
 Und vollendet wurden der Himmel und das Land und ihr ganzes Heer.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟢 **HEER**
 > - **צָבָא** (*tsava*) = Heer/Armee—militärische Metapher angewendet auf die Gesamtheit der Schöpfung; oft von Engel- oder Sternenheeren an anderen Stellen verwendet, hier aber schlicht „alles in ihnen"
@@ -98,7 +92,7 @@ Und vollendet wurden der Himmel und das Land und ihr ganzes Heer.
 
 Und Gott vollendete am siebten Tag sein Werk, das er gemacht hatte, und er ruhte am siebten Tag von all seinem Werk, das er gemacht hatte.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **KRITISCH - TEXTVARIANTE**
 > - MT (Masoretischer Text) liest **בַּיּוֹם הַשְּׁבִיעִי** (*bayom hashvi'i*) = „am siebten Tag" für die *Vollendung*. Die Septuaginta (LXX — die antike griechische Bibelübersetzung) und der Samaritanische Pentateuch lesen „am sechsten Tag" (wahrscheinlich Harmonisierung, da Vollenden und Ruhen am selben Tag theologisch unbequem ist).
@@ -114,7 +108,7 @@ Und Gott vollendete am siebten Tag sein Werk, das er gemacht hatte, und er ruhte
 
 Und Gott segnete den siebten Tag und heiligte ihn, denn an ihm ruhte er von all seinem Werk, das Gott geschaffen hatte, zu machen.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **ERSTE HEILIGUNG**
 > - **וַיְקַדֵּשׁ** (*vayeqaddesh*) = „und er heiligte/sonderte aus"—erstes Auftreten der Wurzel **ק-ד-שׁ** (*q-d-sh*) in der Bibel. Das erste, was heilig genannt wird, ist eine *Zeit*, kein Ort und kein Gegenstand.
@@ -128,7 +122,7 @@ Und Gott segnete den siebten Tag und heiligte ihn, denn an ihm ruhte er von all 
 
 Dies *sind* die Geschlechterfolgen des Himmels und des Landes, als sie geschaffen wurden, am Tag, als JHWH Elohim Land und Himmel machte.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **KRITISCH - ERSTES JHWH (Tetragrammaton)**
 > - **יהוה** (JHWH) erscheint hier zum ersten Mal in der Bibel. **Gemäß Regel 25, Option A:** konsonantisch als JHWH wiedergegeben, ohne rekonstruierte Vokale oder die Substitution „HERR." Niemals zu „Herr Gott" mit *Elohim* zusammengezogen — das würde zwei verschiedene Lexeme verbergen.
@@ -148,7 +142,7 @@ Dies *sind* die Geschlechterfolgen des Himmels und des Landes, als sie geschaffe
 
 Und jeder Strauch des Feldes war noch nicht auf dem Land, und jedes Kraut des Feldes noch nicht sprossend, denn JHWH Elohim hatte nicht regnen lassen auf das Land, und *ein* Mensch war nicht, den Boden zu bearbeiten.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔵 **NEGATIVE VORSCHÖPFUNGSREIHE**
 > - Kette von „noch-nicht"-Sätzen etabliert einen vorschöpfungszustand vor den erzählerischen Akten. Hebräisch **טֶרֶם** (*terem*) = „noch nicht/bevor."
@@ -162,7 +156,7 @@ Und jeder Strauch des Feldes war noch nicht auf dem Land, und jedes Kraut des Fe
 
 Und *ein* Dunst stieg auf vom Land und bewässerte die ganze Fläche des Bodens.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟡 **UNGEWISS - *ed***
 > - **אֵד** (*ed*) = seltenes Wort; erscheint zweimal in der Hebräischen Bibel (hier + Hi 36:27). Bedeutung **UNGEWISS** — **MÖGLICH**e Wiedergaben: Dunst, Nebel, Quelle, Strom. → Für den akkadischen Kognat *edû* und die ANE-Tradition zu Wasserquellen siehe Begleitmaterial Abschnitt B.
@@ -173,7 +167,7 @@ Und *ein* Dunst stieg auf vom Land und bewässerte die ganze Fläche des Bodens.
 
 Und JHWH Elohim formte den Menschen, Staub vom Boden, und hauchte in seine Nase *den* Atem des Lebens, und der Mensch wurde *zu einem* lebendigen Wesen.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **KRITISCH - WORTSPIEL *adam* / *adamah***
 > - **אָדָם** (*adam*) = Mensch; **אֲדָמָה** (*adamah*) = Boden. Gleiche konsonantische Wurzel.
@@ -191,7 +185,7 @@ Und JHWH Elohim formte den Menschen, Staub vom Boden, und hauchte in seine Nase 
 
 Und JHWH Elohim pflanzte einen Garten in Eden, im Osten, und setzte dort den Menschen, den er geformt hatte.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟢 **EDEN**
 > - **עֵדֶן** (*Eden*) = hier Ortsname; homophon mit einem gebräuchlichen Substantiv mit der Bedeutung „Wonne/Vergnügen." **MÖGLICHE** Resonanz, nicht in Übersetzung erzwungen.
@@ -205,7 +199,7 @@ Und JHWH Elohim pflanzte einen Garten in Eden, im Osten, und setzte dort den Men
 
 Und JHWH Elohim ließ sprossen aus dem Boden jeden Baum, lieblich anzusehen und gut zur Speise, und den Baum des Lebens in der Mitte des Gartens, und den Baum der Erkenntnis des Guten und Bösen.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **ZWEI BÄUME**
 > - **עֵץ הַחַיִּים** (*etz ha-chayyim*) = „der Baum des Lebens" (mit Artikel an beiden Stellen). **עֵץ הַדַּעַת טוֹב וָרָע** (*etz hada'at tov va-ra*) = „der Baum der Erkenntnis-des-Guten-und-Bösen." Zwei verschiedene Bäume in einem Vers eingeführt; beide werden in Gn 3 zentral.
@@ -219,7 +213,7 @@ Und JHWH Elohim ließ sprossen aus dem Boden jeden Baum, lieblich anzusehen und 
 
 Und *ein* Strom ging aus von Eden, den Garten zu bewässern, und von dort teilte er sich und wurde zu vier Häuptern.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔵 **PARTIZIP - ANDAUERND**
 > - **יֹצֵא** (*yotze*) = „ausgehend" (Partizip)—andauernde/gewohnheitsmäßige Handlung, nicht abgeschlossene Vergangenheit.
@@ -230,7 +224,7 @@ Und *ein* Strom ging aus von Eden, den Garten zu bewässern, und von dort teilte
 
 Der Name des einen *ist* Pischon; *er ist* der, welcher umfließt das ganze Land Hawila, wo das Gold *ist*.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟢 **EIGENNAMEN**
 > - **פִּישׁוֹן** (*Pischon*), **חֲוִילָה** (*Hawila*)—transliteriert; geographische Identifikation **UNGEWISS** in modernen Begriffen.
@@ -241,7 +235,7 @@ Der Name des einen *ist* Pischon; *er ist* der, welcher umfließt das ganze Land
 
 Und das Gold jenes Landes *ist* gut; dort *ist* das Bedolach und der Stein Schoham.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟡 **UNGEWISSE MATERIALIEN**
 > - **בְּדֹלַח** (*bedolach*) = „Bedolach"—Pflanzenharz oder möglicherweise ein Edelstein; Identifikation umstritten.
@@ -253,7 +247,7 @@ Und das Gold jenes Landes *ist* gut; dort *ist* das Bedolach und der Stein Schoh
 
 Und der Name des zweiten Stroms *ist* Gichon; *er ist* der, welcher umfließt das ganze Land Kusch.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟢 **KUSCH**
 > - **כּוּשׁ** (*Kush*) = Region südlich von Ägypten (modernes Sudan/Äthiopien), obwohl die Geographie hier umstritten ist.
@@ -264,7 +258,7 @@ Und der Name des zweiten Stroms *ist* Gichon; *er ist* der, welcher umfließt da
 
 Und der Name des dritten Stroms *ist* Hiddekel; *er ist* der, welcher östlich von Aschschur fließt. Und der vierte Strom, das *ist* Perat.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟢 **IDENTIFIZIERBARE STRÖME**
 > - **חִדֶּקֶל** (*Hiddekel*) = Tigris; **פְּרָת** (*Perat*) = Euphrat. Ströme 1–2 (Pischon, Gichon) **UNGEWISS**. → Für die mesopotamische Flussgeographie und ANE-Kontext siehe Begleitmaterial Abschnitt B.
@@ -275,7 +269,7 @@ Und der Name des dritten Stroms *ist* Hiddekel; *er ist* der, welcher östlich v
 
 Und JHWH Elohim nahm den Menschen und setzte ihn in den Garten Eden, ihn zu bearbeiten und ihn zu hüten.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **BEARBEITEN UND HÜTEN**
 > - **לְעָבְדָהּ וּלְשָׁמְרָהּ** (*le'ovdah ulshomrah*) = „ihn zu bearbeiten/dienen und ihn zu hüten"—feminine Suffixe (Antezedens **UNGEWISS** — **MÖGLICH**: *gan* oder *adamah*). Gepaarte Infinitive: **ע-ב-ד** (dienen/arbeiten), **שׁ-מ-ר** (hüten/bewahren/beobachten). → Für den Stiftszelt-Anklang (Num 3,7–8; 8,26) und das priesterlich-berufungs-bezogene Intertext siehe Begleitmaterial Abschnitt C.
@@ -286,7 +280,7 @@ Und JHWH Elohim nahm den Menschen und setzte ihn in den Garten Eden, ihn zu bear
 
 Und JHWH Elohim gebot dem Menschen, sprechend: @@„Von jedem Baum des Gartens essend sollst du essen.@@
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **INFINITIVUS ABSOLUTUS**
 > - **אָכֹל תֹּאכֵל** (*akhol tokhel*) = „essend sollst du essen"—hebräische Konstruktion mit **Infinitivus absolutus** zur Betonung. Traditionelle geglättete Wiedergaben: „du darfst frei essen" / „du sollst gewiss essen."
@@ -298,7 +292,7 @@ Und JHWH Elohim gebot dem Menschen, sprechend: @@„Von jedem Baum des Gartens e
 
 @@Aber vom Baum der Erkenntnis des Guten und Bösen, nicht sollst du essen davon, denn am Tag deines Essens davon sterbend sollst du sterben."@@
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **INFINITIVUS ABSOLUTUS (NEGATIV)**
 > - **מוֹת תָּמוּת** (*mot tamut*) = „sterbend sollst du sterben"—dieselbe emphatische Infinitivus-absolutus-Konstruktion wie in V.16. Traditionelle geglättete Wiedergabe: „du sollst gewiss sterben."
@@ -313,7 +307,7 @@ Und JHWH Elohim gebot dem Menschen, sprechend: @@„Von jedem Baum des Gartens e
 
 Und JHWH Elohim sprach: @@„Nicht gut, dass der Mensch allein *sei*; ich will ihm machen *eine* Hilfe als sein Gegenüber."@@
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **KRITISCH - *ezer kenegdo***
 > - **עֵזֶר כְּנֶגְדּוֹ** (*ezer kenegdo*) = „Hilfe als sein Gegenüber."
@@ -333,7 +327,7 @@ Und JHWH Elohim sprach: @@„Nicht gut, dass der Mensch allein *sei*; ich will i
 
 Und JHWH Elohim formte aus dem Boden jedes Lebewesen des Feldes und jeden Vogel des Himmels, und brachte *sie* zum Menschen, zu sehen, wie er es nennen würde; und alles, was der Mensch *jedem* lebendigen Wesen zurief, das *war* sein Name.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟢 **yatzar ERNEUT**
 > - *yatzar* (formte) wird hier für Tiere verwendet—dasselbe Verb wie in V.7 für den Menschen. **NICHT *bara*** (das Gn 1:21 für Tiere und 1:27 für Menschen verwendete). Gn 2 bevorzugt das Töpferverb.
@@ -347,7 +341,7 @@ Und JHWH Elohim formte aus dem Boden jedes Lebewesen des Feldes und jeden Vogel 
 
 Und der Mensch gab Namen allem Vieh, und den Vögeln des Himmels, und jedem Lebewesen des Feldes, aber für den Menschen fand er keine Hilfe als sein Gegenüber.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟢 **BENENNUNG**
 > - Benennung im alten Vorderen Orient ist ein Akt der Herrschaft/Klassifikation—klingt nach *radah* (herrschen) aus Gn 1:26, 28, in konkreter Form ausgeführt. Kein theologischer Import; strukturell notiert.
@@ -361,7 +355,7 @@ Und der Mensch gab Namen allem Vieh, und den Vögeln des Himmels, und jedem Lebe
 
 Und JHWH Elohim ließ einen tiefen Schlaf auf den Menschen fallen, und er schlief; und er nahm eine von seinen {a:Seiten/Rippen}, und schloss Fleisch an ihrer Stelle.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟢 **TIEFER SCHLAF**
 > - **תַּרְדֵּמָה** (*tardemah*) = „tiefer Schlaf"—unterscheidet sich vom gewöhnlichen Schlaf; später für göttlich induzierten Schlaf verwendet (z.B. Abraham, Gn 15:12). Keine Trance, kein Tod.
@@ -375,7 +369,7 @@ Und JHWH Elohim ließ einen tiefen Schlaf auf den Menschen fallen, und er schlie
 
 Und JHWH Elohim baute die {a:Seite/Rippe}, die er vom Menschen genommen hatte, zu *einer* Frau, und brachte sie zum Menschen.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **NEUES VERB - *banah***
 > - **וַיִּבֶן** (*vayyiven*) = „und er baute"—Wurzel **ב-נ-ה** (*b-n-h*), Konstruktionsverb. Die einzige Stelle in den Schöpfungsberichten, wo Gottes Handeln als **Bauen** beschrieben wird. Unterscheidet sich von *bara*, *asah*, *yatzar*.
@@ -387,7 +381,7 @@ Und JHWH Elohim baute die {a:Seite/Rippe}, die er vom Menschen genommen hatte, z
 
 Und der Mensch sprach: „Diese, dieses *Mal*, Bein von meinen Beinen und Fleisch von meinem Fleisch; diese wird genannt werden *ishah* (Frau), denn vom *ish* (Mann) wurde diese genommen."
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **KRITISCH - WORTSPIEL *ish* / *ishah***
 > - **אִישׁ** (*ish*) = Mann; **אִשָּׁה** (*ishah*) = Frau. Das phonetische Paar wird im Haupttext in Transliteration bewahrt, damit das hebräische Wortspiel sichtbar bleibt. Etymologisch stammen die beiden Wörter **nicht** aus derselben Wurzel (trotz des Anscheins), aber der Text spielt mit dem Klang.
@@ -402,7 +396,7 @@ Und der Mensch sprach: „Diese, dieses *Mal*, Bein von meinen Beinen und Fleisc
 
 Darum wird *ein* Mann seinen Vater und seine Mutter verlassen und sich an seine Frau hängen, und sie werden zu einem Fleisch werden.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔵 **ERZÄHLER-EINSCHUB**
 > - Wechsel vom Charakterdiskurs (V.23) zum Erzählerkommentar (V.24). Hebräisch **עַל־כֵּן** (*al-ken*) = „darum / aus diesem Grund"—ätiologischer Marker, der eine gegenwärtige Praxis erklärt.
@@ -416,7 +410,7 @@ Darum wird *ein* Mann seinen Vater und seine Mutter verlassen und sich an seine 
 
 Und sie waren beide nackt, der Mensch und seine Frau, und sie schämten sich nicht.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **VORAUSDEUTENDES WORTSPIEL**
 > - **עֲרוֹם** (*arom*) = nackt. Gn 3:1 öffnet mit **עָרוּם** (*arum*) = listig/klug (von der Schlange). Gleiche Konsonanten, andere Vokalisierung. Hebräisches Wortspiel, das die nächste Szene vorausdeutet.

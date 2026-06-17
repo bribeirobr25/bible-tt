@@ -26,17 +26,11 @@
 
 ## READING GUIDE
 
-**📖 Main Text:** Primary translation—readable but faithful to Hebrew structure
-**📝 Notes:** Essential Hebrew features immediately below each verse
+**Main Text:** Primary translation—readable but faithful to Hebrew structure
+**Notes:** Essential Hebrew features immediately below each verse
 ***Italics:*** Words added for English grammar (not in Hebrew text)
 **"Quotes":** Direct divine speech
 **YHWH:** Tetragrammaton rendered consonantally (Rule 25, Option A)
-
-**Note Icons:**
-- 🔴 **CRITICAL** - Major textual or translation decisions
-- 🟢 **LEXICAL** - Word meanings, root patterns, glossary terms
-- 🔵 **GRAMMATICAL** - Hebrew structure, verb forms, syntax
-- 🟡 **THEOLOGICAL** - Interpretive options, ambiguity preservation
 
 **This chapter contains the Tower of Babel narrative (11:1–9) and the genealogy of Shem (11:10–32).** The Babel narrative completes the primeval history with a second scattering — the first was geographic (Ch 10, table of nations); this one is linguistic. The human "let us" (*havah*) of 11:3–4 echoes God's "let us" of 1:26 — but directed toward self-elevation. The genealogy bridges the primeval history to the patriarchal narratives: ten generations from Shem to Avram (Abram), with lifespans declining from 600 to 205. Terach (Terah)'s *toledot* (11:27) introduces Abram, and the chapter ends mid-journey — the family leaves Ur for Kenaan but stops at Charan.
 
@@ -92,7 +86,7 @@
 
 And all the land was *of* one lip and one *set of* words.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟡 **TIER 2 — RECEPTION NOTE**
 > - The Babel narrative should not be read as a blanket condemnation of technology, urban civilization, or linguistic diversity. See companion Section F for historical context on documented misreadings.
@@ -109,7 +103,7 @@ And all the land was *of* one lip and one *set of* words.
 
 And it was as they journeyed from the east, they found a valley in the land of Shinar, and they settled there.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟢 **"FROM THE EAST" (*mi-qedem*)**
 > - **מִקֶּדֶם** = "from the east" or "eastward." The same directional ambiguity as Gen 3:24 (the cherubim placed *mi-qedem* of Eden). Movement east in Genesis is consistently movement away from the divine presence: Adam expelled eastward (3:24), Cain goes east (4:16), Lot goes east (13:11). Here humanity migrates eastward — continuing the pattern.
@@ -126,7 +120,7 @@ And it was as they journeyed from the east, they found a valley in the land of S
 
 And they said, each to his neighbor, "Come, let us make bricks and burn *them* thoroughly." And the brick was to them for stone, and the bitumen was to them for mortar.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔴 **"COME, LET US" (*havah*) — FIRST OCCURRENCE**
 > - **הָבָה** (*havah*) = "come!" — an exhortative particle. This is the first of three occurrences in the Babel narrative: humans say *havah* at 11:3 and 11:4; YHWH says *havah* at 11:7. The structural mirroring is deliberate: humanity's "come, let us" is answered by God's "come, let us."
@@ -143,7 +137,7 @@ And they said, each to his neighbor, "Come, let us make bricks and burn *them* t
 
 And they said, "Come, let us build for ourselves a city and a tower, and its top in the skies, and let us make for ourselves a name, lest we be scattered over the face of all the land."
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔴 **"COME, LET US" (*havah*) — SECOND OCCURRENCE**
 > - Second *havah* from the human side. Two human initiatives: (1) "let us make bricks" (v.3), (2) "let us build a city and tower... let us make a name" (v.4). YHWH will respond with a single *havah* (v.7) that undoes both.
@@ -163,7 +157,7 @@ And they said, "Come, let us build for ourselves a city and a tower, and its top
 
 And YHWH came down to see the city and the tower which the sons of the human had built.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔴 **CRITICAL — "YHWH CAME DOWN" (*vayyered YHWH*)**
 > - **וַיֵּרֶד יהוה** = "and YHWH came down." Anthropomorphic language: God descends to inspect. The devastating irony — the tower whose top is "in the skies" is so small from the divine perspective that YHWH must come *down* to see it. What reaches the heavens from the human vantage is invisible from the divine one.
@@ -177,7 +171,7 @@ And YHWH came down to see the city and the tower which the sons of the human had
 
 And YHWH said, @@"See, *they are* one people and one lip to all of them, and this *is what* they begin to do; and now nothing will be withheld from them, all which they plan to do.@@
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟡 **"NOTHING WILL BE WITHHELD" (*lo yibatser mehem*)**
 > - **לֹא־יִבָּצֵר מֵהֶם** = "nothing will be cut off/withheld from them." The verb *batsar* means to cut off, fortify, withhold. YHWH's concern: unified humanity with unified speech will have no limit on what they can accomplish. Whether this is a threat, a danger, or simply an observation — the text does not specify the nature of the concern. The TT renders without adding motive.
@@ -191,7 +185,7 @@ And YHWH said, @@"See, *they are* one people and one lip to all of them, and thi
 
 @@Come, let us go down and let us confuse there their lip, so that they will not hear, each the lip of his neighbor."@@
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔴 **"COME, LET US" (*havah*) — THIRD OCCURRENCE (YHWH)**
 > - **הָבָה** — now spoken by YHWH. The divine *havah* answers the human *havah* of vv.3–4. The structural balance: humans say "come, let us" twice (build, make a name); YHWH says "come, let us" once (confuse). One divine act undoes two human plans.
@@ -211,7 +205,7 @@ And YHWH said, @@"See, *they are* one people and one lip to all of them, and thi
 
 And YHWH scattered them from there over the face of all the land, and they ceased building the city.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔴 **"SCATTERED" (*vayyaphets*) — IRONIC REVERSAL**
 > - **וַיָּפֶץ** = "and he scattered." Root: *puts* (scatter). The exact outcome they sought to prevent (v.4, *pen naphuts*, "lest we be scattered") is the outcome YHWH enacts. The irony is structural: fear → prevention attempt → the feared thing occurs precisely because of the prevention attempt.
@@ -225,7 +219,7 @@ And YHWH scattered them from there over the face of all the land, and they cease
 
 Therefore its name was called Bavel, for there YHWH confused the lip of all the land, and from there YHWH scattered them over the face of all the land.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔴 **CRITICAL — BAVEL/BALAL WORDPLAY**
 > - **בָּבֶל** (Bavel) / **בָּלַל** (balal) — the name Bavel is explained by the verb *balal* (confuse). The folk etymology is transparent: Bavel sounds like *balal*. The actual Akkadian etymology of Babylon (*bab-ili* = "gate of god") is the opposite — "gate of god" vs. "confusion." The Hebrew narrator inverts the city's self-understanding: what Babylon calls "the gate of god," the text calls "confusion."
@@ -239,7 +233,7 @@ Therefore its name was called Bavel, for there YHWH confused the lip of all the 
 
 These *are* the generations of Shem. Shem was one hundred years old, and he begot Arpakhshad, two years after the flood.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔴 ***TOLEDOT* — "GENERATIONS OF SHEM"**
 > - **אֵלֶּה תּוֹלְדֹת שֵׁם** = "These *are* the generations of Shem." The fifth *toledot* formula in Genesis (after 2:4, 5:1, 6:9, 10:1). This genealogy parallels Gen 5 in structure but with key differences: lifespans are shorter and declining, and the "and he died" refrain is absent from most entries.
@@ -253,7 +247,7 @@ These *are* the generations of Shem. Shem was one hundred years old, and he bego
 
 And Shem lived after he begot Arpakhshad five hundred years, and he begot sons and daughters.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔵 **GENEALOGICAL FORMULA — MODIFIED**
 > - The Gen 11 formula differs from Gen 5: (1) no total lifespan is stated; (2) "and he died" is absent. The formula is: "X lived Y years, begot Z. X lived after he begot Z, W years, begot sons and daughters." The compression signals a transition — the narrator is moving toward Avram.
@@ -288,7 +282,7 @@ And Shelach lived after he begot Ever four hundred and three years, and he begot
 
 And Ever lived thirty-four years, and he begot Peleg.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟢 **EVER (*Ever*)**
 > - **עֵבֶר** = Ever/Eber. The eponymous ancestor of the *Ivrim* (Hebrews). The name is related to the root *avar* (to cross over, pass through). "Hebrew" (*Ivri*) likely means "one who crossed over" — a designation that will attach to Avram (Gen 14:13, "Avram the Hebrew").
@@ -305,7 +299,7 @@ And Ever lived after he begot Peleg four hundred and thirty years, and he begot 
 
 And Peleg lived thirty years, and he begot Re'u.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟢 **PELEG (*Peleg*)**
 > - **פֶּלֶג** = Peleg, meaning "division." Gen 10:25: "in his days the land was divided (*niphlegah*)." The name marks the generation of division — whether the Babel scattering, a geographic event, or both.
@@ -316,7 +310,7 @@ And Peleg lived thirty years, and he begot Re'u.
 
 And Peleg lived after he begot Re'u two hundred and nine years, and he begot sons and daughters.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔵 **DECLINING LIFESPANS**
 > - Peleg's total lifespan (239 years) is dramatically shorter than his ancestors: Shem 600, Arpakhshad 438, Shelach 433, Ever 464, Peleg 239. The drop from Ever to Peleg is the steepest in the genealogy — the generation of "division" is also the generation where longevity drops sharply.
@@ -357,7 +351,7 @@ And Nahor lived twenty-nine years, and he begot Terach (Terah).
 
 And Nahor lived after he begot Terah one hundred and nineteen years, and he begot sons and daughters.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔵 **NAHOR'S LIFESPAN**
 > - Total: 148 years. The shortest in the genealogy so far. The decline continues: 600 → 438 → 433 → 464 → 239 → 239 → 230 → 148. The world of near-millennium lifespans (Gen 5) is ending.
@@ -368,7 +362,7 @@ And Nahor lived after he begot Terah one hundred and nineteen years, and he bego
 
 And Terah lived seventy years, and he begot Avram (Abram), Nahor, and Haran.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔴 **CRITICAL — THREE SONS**
 > - The pattern echoes Gen 5:32 ("Noach... begot Shem, Ham, and Japheth"). Both genealogies end with a father producing three named sons. Noah's three sons populated the post-flood world; Terah's three sons will populate the patriarchal narratives.
@@ -382,7 +376,7 @@ And Terah lived seventy years, and he begot Avram (Abram), Nahor, and Haran.
 
 And these *are* the generations of Terach (Terah). Terah begot Abram, Nahor, and Haran; and Haran begot Lot.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔴 ***TOLEDOT* — "GENERATIONS OF TERAH"**
 > - **אֵלֶּה תּוֹלְדוֹת תֶּרַח** = "these are the generations of Terach." The sixth *toledot* formula. Note: the *toledot* is of **Terah**, not of Abram — the patriarchal narrative begins under the father's heading, as Gen 6:9 began Noah's narrative under his own *toledot*.
@@ -396,7 +390,7 @@ And these *are* the generations of Terach (Terah). Terah begot Abram, Nahor, and
 
 And Haran died in the presence of Terah his father, in the land of his birth, in Ur of the Kasdim.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔴 **"DIED IN THE PRESENCE OF" (*al penei*)**
 > - **עַל־פְּנֵי תֶּרַח אָבִיו** = "upon the face of / in the presence of Terach his father." Haran dies *before* his father — the first recorded instance of a child dying before a parent in Genesis. The phrase *al penei* ("upon the face of") may mean "in the lifetime of" or "before the eyes of." The text marks this as an inversion of the natural order.
@@ -410,7 +404,7 @@ And Haran died in the presence of Terah his father, in the land of his birth, in
 
 And Avram (Abram) and Nachor (Nahor) took for themselves wives; the name of the wife of Abram *was* Sarai, and the name of the wife of Nahor *was* Milkah, daughter of Haran, father of Milkah and father of Yiskah.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟢 **SARAI (*Sarai*)**
 > - **שָׂרַי** = Sarai, meaning "my princess" or "princess." Not yet Sarah — the name change occurs at Gen 17:15.
@@ -427,7 +421,7 @@ And Avram (Abram) and Nachor (Nahor) took for themselves wives; the name of the 
 
 And Sarai was barren; she had no child.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔴 **CRITICAL — "BARREN" (*aqarah*)**
 > - **וַתְּהִי שָׂרַי עֲקָרָה אֵין לָהּ וָלָד** = "And Sarai was barren; there was not to her a child." Stated without explanation, without commentary, without resolution. The double emphasis (*aqarah* + "no child") is a narrative problem planted for future resolution. The barrenness of the matriarch — a woman whose name means "princess" who has no heir — drives the entire Abrahamic narrative beginning at Gen 12.
@@ -438,7 +432,7 @@ And Sarai was barren; she had no child.
 
 And Terach (Terah) took Abram his son, and Lot son of Haran, his grandson, and Sarai his daughter-in-law, the wife of Abram his son; and they went out with them from Ur of the Kasdim to go to the land of Kenaan; and they came as far as Charan, and they settled there.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔴 **CRITICAL — INCOMPLETE JOURNEY**
 > - The destination is Kenaan — but the family stops at **Charan** and settles there. The journey is left incomplete under Terah's initiative. It will require a divine call (Gen 12:1, "Go from your land...") to complete what Terah began. The narrative suspense: the destination is named, the journey is started, and the chapter ends with the family stuck short of the goal.
@@ -455,7 +449,7 @@ And Terach (Terah) took Abram his son, and Lot son of Haran, his grandson, and S
 
 And the days of Terah were two hundred and five years, and Terah died in Charan.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔵 **DEATH IN CHARAN — NOT IN KENAAN**
 > - Terah dies in Charan, not in Kenaan. He never arrives at the destination. The man who began the journey does not complete it. The completion falls to Abram (Gen 12:4–5).

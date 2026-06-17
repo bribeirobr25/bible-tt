@@ -33,12 +33,6 @@
 **„Anführungszeichen":** Direkte Rede
 **der Herr:** kyrios wiedergegeben nach GS-Gottesname-Politik (Option C), wenn alttestamentliche JHWH-Stellen zitiert werden
 
-**Notizen-Symbole:**
-- 🔴 **KRITISCH** - Wichtige textliche oder Übersetzungsentscheidungen
-- 🟢 **LEXIKALISCH** - Wortbedeutungen, semantische Bandbreite, Glossarbegriffe
-- 🔵 **GRAMMATISCH** - Griechische Struktur, Verbaspekt, Syntax
-- 🟡 **THEOLOGISCH** - Interpretationsoptionen, Ambiguitätsbewahrung
-
 **Dieses Kapitel ist das am stärksten alttestamentlich geprägte Kapitel der Geburtserzählung.** Vier Erfüllungszitate („damit erfüllt werde, was gesprochen wurde") bestimmen die Erzählung: Micha 5,1 (Beyt-Lechem (Bethlehem)), Hosea 11,1 (aus Mitsrayim (Ägypten)), Jeremia 31,15 (Rachel weint) und ein geheimnisvolles „Er wird ein Natsri genannt werden" ohne eindeutige alttestamentliche Quelle. Jedes Zitat verwendet kyrios Option C mit vermerkter alttestamentlicher JHWH-Verbindung. Eigennamen folgen der TT-Transliteration: Herodes (Translit = Vertraut; ohne Epitheton, nicht „Herodes der Große"), Beyt-Lechem (Bethlehem), Mitsrayim (Ägypten), Natseret (Nazareth).
 
 ---

@@ -27,17 +27,11 @@
 
 ## READING GUIDE
 
-**📖 Main Text:** Primary translation — readable but faithful to Greek structure
-**📝 Notes:** Essential Greek features immediately below each verse
+**Main Text:** Primary translation — readable but faithful to Greek structure
+**Notes:** Essential Greek features immediately below each verse
 ***Italics:*** Words added for English grammar (not in Greek text)
 **"Quotes":** Direct speech
 **the Lord:** κύριος rendered per GS Divine Name Policy (Option C) when quoting OT YHWH passages
-
-**Note Icons:**
-- 🔴 **CRITICAL** - Major textual or translation decisions
-- 🟢 **LEXICAL** - Word meanings, semantic range, glossary terms
-- 🔵 **GRAMMATICAL** - Greek structure, verb aspect, syntax
-- 🟡 **THEOLOGICAL** - Interpretive options, ambiguity preservation
 
 **This chapter contains the most quoted verse in the Bible (3:16) and one of the most important translation ambiguities in the Gospel: ἄνωθεν (*anōthen*) at v.3, which means both "from above" (spatial) and "again" (temporal). The TT preserves the double meaning with a slash — "from above/again" — because the Greek reader would have heard both senses simultaneously. Nikodemos hears only "again"; Yeshua means "from above." The text's power depends on the ambiguity. Proper names follow TT transliteration: Nikodemos (not Nicodemus), Yeshua (not Jesus), Yochanan (not John), Mosheh (not Moses). The rendering "life of the age" (not "eternal life") at v.15–16 reflects αἰώνιος (*aiōnios*), which relates to αἰών (*aiōn*, "age") — a quality of life belonging to the coming age, not a statement about timelessness.**
 
@@ -81,7 +75,7 @@
 
 And there was a man from the Perushim (Pharisees) — Nikodemos (Nicodemus) *was* his name — a ruler of the Yehudim.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟢 **NIKODEMOS — TT TRANSLITERATION**
 > - **Νικόδημος** (*Nikodēmos*) = Greek name meaning "victory of the people" (νίκη + δῆμος). TT retains the Greek-origin form "Nikodemos" per transliteration policy. He appears again at 7:50 and 19:39.
@@ -95,7 +89,7 @@ And there was a man from the Perushim (Pharisees) — Nikodemos (Nicodemus) *was
 
 This one came to him at night and said to him, "Rabbi, we know that you have come from God *as* a teacher, for no one is able to do these signs that you do unless God is with him."
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟡 **"AT NIGHT" — *NYKTOS***
 > - **νυκτός** (*nyktos*) = genitive of time, "at/during the night." The detail may be purely circumstantial, or it may carry symbolic weight — night and darkness are loaded categories in John (cf. 1:5; 9:4; 13:30). The text does not explain the motive; the TT records the fact without interpreting it. For the range of proposed explanations (fear, Torah-study custom, symbolic register), see companion Section C1.
@@ -109,7 +103,7 @@ This one came to him at night and said to him, "Rabbi, we know that you have com
 
 Yeshua (Jesus) answered and said to him, @@"Amen, amen, I say to you, unless someone is born {a:from above/again}, he is not able to see the kingdom of God."@@
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔴 **CRITICAL — *ANŌTHEN* ("FROM ABOVE/AGAIN")**
 > - **γεννηθῇ ἄνωθεν** (*gennēthē anōthen*) = "born from above/again." The adverb ἄνωθεν (*anōthen*) carries two established meanings: (1) "from above" (spatial — heavenly origin) and (2) "again" (temporal — repetition). Nikodemos hears sense (2) and objects with the womb-question (v.4); Yeshua intends sense (1) — birth of divine origin. This is a genuine Rule 2 ambiguity; the TT preserves both with a slash ("from above/again") because any translation that picks only one meaning destroys the wordplay that structures the entire passage. For the full semantic range of *anōthen* across the Fourth Gospel, see companion Section D1.
@@ -126,7 +120,7 @@ Yeshua (Jesus) answered and said to him, @@"Amen, amen, I say to you, unless som
 
 Nikodemos (Nicodemus) says to him, "How is a man able to be born, being old? He is not able to enter into the womb of his mother a second time and be born, *is he*?"
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔵 **RHETORICAL QUESTION — *MĒ* PARTICLE**
 > - **μὴ δύναται** (*mē dynatai*) — the particle μή signals that a negative answer is expected: "He is not able... is he?" Nicodemus is not asking a genuine question but expressing incredulity. He has heard *anōthen* as "again" (temporal) and takes it literally — physical re-entry into the womb.
@@ -140,7 +134,7 @@ Nikodemos (Nicodemus) says to him, "How is a man able to be born, being old? He 
 
 Yeshua (Jesus) answered, @@"Amen, amen, I say to you, unless someone is born of water and {a:wind/spirit}, he is not able to enter into the kingdom of God."@@
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔴 **CRITICAL — "WATER AND WIND/SPIRIT"**
 > - **ἐξ ὕδατος καὶ πνεύματος** (*ex hydatos kai pneumatos*) = "of water and wind/spirit." The meaning of "water" in this phrase is one of the most debated questions in Johannine scholarship — proposals range from amniotic fluid (natural birth) to Yochanan's immersion, proselyte ritual, and a water-and-spirit hendiadys echoing Ezek 36:25–27. The text does not resolve the question; the TT translates the words as they stand. **No single reading can be declared the "correct" one with confidence.** For the full range of proposed readings, see companion Section C2.
@@ -154,7 +148,7 @@ Yeshua (Jesus) answered, @@"Amen, amen, I say to you, unless someone is born of 
 
 @@That which has been born of the flesh is flesh, and that which has been born of the {a:wind/spirit} is {a:wind/spirit}.@@
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔵 **PERFECT PASSIVE PARTICIPLE — *TO GEGENNĒMENON***
 > - **τὸ γεγεννημένον** (*to gegennēmenon*) = "that which has been born" — neuter perfect passive participle. The neuter signals a general principle (not a specific person). The perfect tense indicates a completed state with ongoing results: what has been born of flesh *remains* flesh.
@@ -168,7 +162,7 @@ Yeshua (Jesus) answered, @@"Amen, amen, I say to you, unless someone is born of 
 
 @@Do not marvel that I said to you, "You must be born {a:from above/again}."@@
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔵 **SECOND PERSON PLURAL — *HYMAS***
 > - **ὑμᾶς** (*hymas*) = "you" (plural). Yeshua (Jesus) shifts from singular (addressing Nikodemos (Nicodemus)) to plural ("you all must be born from above/again"). The requirement applies beyond Nicodemus to a wider audience. Some see this as the point where the dialogue becomes a discourse addressed to the community.
@@ -182,7 +176,7 @@ Yeshua (Jesus) answered, @@"Amen, amen, I say to you, unless someone is born of 
 
 @@The {a:wind/spirit} blows where it wills, and you hear its sound, but you do not know where it comes from and where it goes; so is everyone who has been born of the {a:wind/spirit}.@@
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔴 **CRITICAL — *PNEUMA* WORDPLAY (WIND AND SPIRIT)**
 > - **τὸ πνεῦμα ὅπου θέλει πνεῖ** (*to pneuma hopou thelei pnei*) = "the wind/spirit blows where it wills." The word πνεῦμα means *both* "wind" and "spirit"; the sentence works on two levels simultaneously — meteorological observation and theological statement about the spirit's freedom. Any translation that renders *pneuma* as only "wind" or only "spirit" destroys the double meaning; the TT preserves both with the slash. For fuller discussion of the two-register structure, see companion Section A2.
@@ -199,7 +193,7 @@ Yeshua (Jesus) answered, @@"Amen, amen, I say to you, unless someone is born of 
 
 Nikodemos (Nicodemus) answered and said to him, "How are these things able to be?"
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟡 **"HOW?" — NIKODEMOS' FINAL QUESTION**
 > - **πῶς δύναται ταῦτα γενέσθαι** = "How are these things able to happen?" Nicodemus asks "How?" three times in this dialogue (vv.4, 9, implied at v.4b). His questions move from incredulity to bewilderment. After v.9, Nicodemus falls silent — the dialogue becomes a monologue. The text never records his response to Yeshua (Jesus)'s teaching.
@@ -210,7 +204,7 @@ Nikodemos (Nicodemus) answered and said to him, "How are these things able to be
 
 Yeshua (Jesus) answered and said to him, @@"You are the teacher of Yisrael (Israel) and you do not know these things?"@@
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟢 **"THE TEACHER" — *HO DIDASKALOS***
 > - **σὺ εἶ ὁ διδάσκαλος τοῦ Ἰσραήλ** = "You are *the* teacher of Israel." The article (*ho*) is emphatic: not *a* teacher but *the* teacher — suggesting a recognized authority, perhaps a leading scholar. The reproach is sharp: if anyone should understand heavenly birth and wind/spirit, it is the authorized teacher of Israel — the one who knows Ezek 36–37 (the promise of new spirit and the valley of dry bones).
@@ -221,7 +215,7 @@ Yeshua (Jesus) answered and said to him, @@"You are the teacher of Yisrael (Isra
 
 @@Amen, amen, I say to you, we speak what we know and we testify *to* what we have seen, and you do not receive our testimony.@@
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔵 **SHIFT TO PLURAL — "WE SPEAK... WE TESTIFY"**
 > - **λαλοῦμεν... μαρτυροῦμεν** = first person plural. Yeshua (Jesus) shifts from "I" to "we"; the ambiguity is unresolved. → For proposed readings of the "we" (Jesus + Father / Jesus + followers / Johannine community addressing the synagogue) and the source-layer-discourse scholarship, see chapter companion §C.
@@ -235,7 +229,7 @@ Yeshua (Jesus) answered and said to him, @@"You are the teacher of Yisrael (Isra
 
 @@If I told you earthly things and you do not trust, how will you trust if I tell you heavenly things?@@
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟡 **"EARTHLY THINGS" / "HEAVENLY THINGS"**
 > - **τὰ ἐπίγεια** (*ta epigeia*) = earthly things; **τὰ ἐπουράνια** (*ta epourania*) = heavenly things. What are the "earthly things"? The birth metaphor (something observable on earth — birth, wind)? Or the basic need for spiritual rebirth? If the "earthly things" are already beyond Nikodemos (Nicodemus)'s comprehension, the "heavenly things" (the Son of Man's ascent and descent, the divine plan of vv.14–16) will be even more so. The text establishes a hierarchy of revelation.
@@ -246,7 +240,7 @@ Yeshua (Jesus) answered and said to him, @@"You are the teacher of Yisrael (Isra
 
 @@And no one has gone up into the sky except the one who came down from the sky — the son of man.@@
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔴 **CRITICAL — TEXTUAL VARIANT**
 > - Some manuscripts add **ὁ ὢν ἐν τῷ οὐρανῷ** (*ho ōn en tō ouranō*) = "who is in the sky" — making the Son of Man simultaneously on earth and in the sky. This reading is found in the Byzantine text and some important witnesses but absent from the earliest papyri and major uncials (P66, P75, Sinaiticus, Vaticanus). NA28 omits it. The TT follows NA28 and does not include the phrase, but the variant should be noted: it reflects an early tradition of the Son of Man's simultaneous heavenly presence.
@@ -260,7 +254,7 @@ Yeshua (Jesus) answered and said to him, @@"You are the teacher of Yisrael (Isra
 
 @@And just as Mosheh (Moses) lifted up the serpent in the wilderness, so must the son of man be lifted up,@@
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔴 **CRITICAL — "LIFTED UP" (*HYPSŌTHĒNAI*) — DOUBLE MEANING**
 > - **ὑψωθῆναι** (*hypsōthēnai*) = "to be lifted up." The verb ὑψόω (*hypsoō*) carries two senses in John: (1) physical lifting — crucifixion on a cross; (2) exaltation — glorification. In each of the three Johannine uses of this verb, both senses are operative simultaneously: the crucifixion *is* the exaltation. The TT renders "lifted up" and records the double meaning. For the full pattern across 3:14, 8:28, and 12:32–34, see companion Section A6.
@@ -274,7 +268,7 @@ Yeshua (Jesus) answered and said to him, @@"You are the teacher of Yisrael (Isra
 
 @@so that everyone trusting in him may have life of the age.@@
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟢 **"LIFE OF THE AGE" — *ZŌĒ AIŌNIOS***
 > - **ζωὴν αἰώνιον** (*zōēn aiōnion*) = "life of the age." The adjective αἰώνιος (*aiōnios*) derives from αἰών (*aiōn*, "age/era") — it designates life belonging to the coming age, the life of the age to come. Traditional "eternal life" imports a philosophical concept (timelessness, infinity) that the Greek term does not necessarily carry. The Hebrew/Aramaic background (חַיֵּי עוֹלָם, *chayyei olam*) likewise means "life of the age" — the life of the world/age to come. The TT renders literally.
@@ -288,7 +282,7 @@ Yeshua (Jesus) answered and said to him, @@"You are the teacher of Yisrael (Isra
 
 @@"For God so loved the world that he gave the only-born son, so that everyone trusting in him should not perish but have life of the age."@@
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔴 **CRITICAL — THE MOST QUOTED VERSE IN THE BIBLE**
 > - **Οὕτως γὰρ ἠγάπησεν ὁ θεὸς τὸν κόσμον** = "For God so loved the world." The adverb **οὕτως** (*houtōs*) = "in this way, thus, so" — it modifies the manner of loving, not the degree. The clause says "God loved the world *in this way*: that he gave..." rather than "God loved the world *so much* that..." Both readings are grammatically possible, but the primary sense of *houtōs* is manner ("in this way"), not degree ("to such an extent").
@@ -308,7 +302,7 @@ Yeshua (Jesus) answered and said to him, @@"You are the teacher of Yisrael (Isra
 
 @@For God did not send the son into the world so that he might judge the world, but so that the world might be saved through him.@@
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟢 **"JUDGE" — *KRINŌ***
 > - **κρίνῃ** (*krinē*) = subjunctive of κρίνω (*krinō*) = "judge." NOT "condemn" — many translations render "condemn" here, but κρίνω means "judge, evaluate, decide." The negative sense ("condemn") requires a prefix: κατακρίνω (*katakrinō*). The TT translates the actual word.
@@ -322,7 +316,7 @@ Yeshua (Jesus) answered and said to him, @@"You are the teacher of Yisrael (Isra
 
 @@The one trusting in him is not judged; the one not trusting has already been judged, because he has not trusted in the name of the only-born son of God.@@
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟡 **"HAS ALREADY BEEN JUDGED" — REALIZED JUDGMENT**
 > - **ἤδη κέκριται** (*ēdē kekritai*) = "has already been judged" — perfect passive. The judgment is not future but present, already in effect. The act of not trusting is itself the judgment — not a verdict imposed from outside but a state entered by one's own response. This is "realized eschatology" — the future judgment is already operative in the present.
@@ -336,7 +330,7 @@ Yeshua (Jesus) answered and said to him, @@"You are the teacher of Yisrael (Isra
 
 @@And this is the judgment: that the light has come into the world, and humans loved the darkness rather than the light, for their works were evil.@@
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟢 **"JUDGMENT" — *KRISIS***
 > - **ἡ κρίσις** (*hē krisis*) = "the judgment." NOT "condemnation" — the noun κρίσις means the act or process of judging. The verse defines what the judgment *is*: not a sentence handed down but a response — humans *chose* darkness over light. Judgment is self-determined.
@@ -350,7 +344,7 @@ Yeshua (Jesus) answered and said to him, @@"You are the teacher of Yisrael (Isra
 
 @@For everyone practicing worthless *things* hates the light and does not come to the light, so that his works may not be exposed.@@
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟢 **"PRACTICING WORTHLESS THINGS" — *PHAULA PRASSŌN***
 > - **φαῦλα πράσσων** (*phaula prassōn*) = "practicing worthless/base things." The adjective **φαῦλος** (*phaulos*) = worthless, base, inferior — a broader category than "evil" (*ponēros*). Some manuscripts read πονηρά (*ponēra*, "evil things") instead of φαῦλα. NA28 reads φαῦλα.
@@ -364,7 +358,7 @@ Yeshua (Jesus) answered and said to him, @@"You are the teacher of Yisrael (Isra
 
 @@But the one doing the truth comes to the light, so that his works may be made evident — that they have been worked in God.@@
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟢 **"DOING THE TRUTH" — *POIŌN TĒN ALĒTHEIAN***
 > - **ποιῶν τὴν ἀλήθειαν** (*poiōn tēn alētheian*) = "doing the truth." An unusual phrase — truth is something done, practiced, enacted, not merely known or believed. The Hebrew equivalent עֹשֶׂה אֱמֶת (*oseh emet*) occurs in the Dead Sea Scrolls (1QS 1:5; 5:3; 8:2) and carries the sense of "acting faithfully." Truth in the Johannine idiom is ethical practice, not abstract proposition.
@@ -378,7 +372,7 @@ Yeshua (Jesus) answered and said to him, @@"You are the teacher of Yisrael (Isra
 
 After these things Yeshua (Jesus) and his followers came into the Yehudean land, and there he was spending time with them and immersing.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔴 **CRITICAL — YESHUA IMMERSING**
 > - **ἐβάπτιζεν** (*ebaptizen*) = "was immersing" — imperfect, indicating ongoing activity. This is the only passage in the Gospels that states Jesus himself was immersing. John 4:2 immediately qualifies: "although Jesus himself was not immersing, but his followers *were*." Whether 4:2 is a correction, a clarification, or a parenthetical editorial note is debated.
@@ -392,7 +386,7 @@ After these things Yeshua (Jesus) and his followers came into the Yehudean land,
 
 And Yochanan (John) also was immersing in Ainon near Shalim, because there was much water there, and *people* were coming and being immersed —
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟢 **AINON AND SHALIM — TT TRANSLITERATION**
 > - **Αἰνών** (*Ainōn*) = from Hebrew/Aramaic עַיְנוֹן (*Aynon*, "springs"). **Σαλείμ** (*Saleim*) = Shalim, location debated — possibly near Shechem, possibly in the Yarden (Jordan) valley. The place name itself means "springs," and the narrator explains: "because there was much water there." The detail is practical — immersion requires sufficient water.
@@ -406,7 +400,7 @@ And Yochanan (John) also was immersing in Ainon near Shalim, because there was m
 
 for Yochanan (John) had not yet been thrown into prison.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔵 **PARENTHETICAL CHRONOLOGICAL NOTE**
 > - **οὔπω γὰρ ἦν βεβλημένος εἰς τὴν φυλακὴν ὁ Ἰωάννης** = "for John had not yet been thrown into the prison." A pluperfect periphrastic (ἦν βεβλημένος). This note assumes the reader knows John was eventually imprisoned (told in the Synoptics, Mark 6:17–29). It synchronizes John's timeline with the Synoptic tradition, placing this episode before the arrest.
@@ -417,7 +411,7 @@ for Yochanan (John) had not yet been thrown into prison.
 
 Then a dispute arose from the followers of Yochanan (John) with a Yehudi concerning purification.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔵 **TEXTUAL VARIANT — "A YEHUDI" OR "YEHUDIM"?**
 > - Some manuscripts read **Ἰουδαίου** (*Ioudaiou*, singular — "a Yehudi"); others read **Ἰουδαίων** (*Ioudaiōn*, plural — "Yehudim"). NA28 reads the singular. The identity of this person is unknown — the text introduces a character, records the dispute's topic ("purification"), and moves on without resolution.
@@ -431,7 +425,7 @@ Then a dispute arose from the followers of Yochanan (John) with a Yehudi concern
 
 And they came to Yochanan (John) and said to him, "Rabbi, the one who was with you beyond the Yarden (Jordan), to whom you have testified — see, this one immerses, and all are coming to him."
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟡 **"ALL ARE COMING TO HIM" — HYPERBOLE OR ALARM?**
 > - **πάντες ἔρχονται πρὸς αὐτόν** = "all are coming to him." The "all" is likely hyperbolic, expressing the followers' alarm at the shift of attention from John to Jesus. They do not name Jesus — "the one who was with you beyond the Jordan, to whom you have testified" — identifying him only through his relationship to John.
@@ -442,7 +436,7 @@ And they came to Yochanan (John) and said to him, "Rabbi, the one who was with y
 
 Yochanan (John) answered and said, "A man is not able to receive anything unless it has been given to him from the sky."
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟡 **"FROM THE SKY" — *EK TOU OURANOU***
 > - **ἐκ τοῦ οὐρανοῦ** (*ek tou ouranou*) = "from the sky/heaven." Yochanan (John)'s response frames both his role and Yeshua (Jesus)'s role as divinely appointed. Each has received what was given from above. The statement could refer to Jesus's growing following (given to him) or to John's limited role (also given to him).
@@ -453,7 +447,7 @@ Yochanan (John) answered and said, "A man is not able to receive anything unless
 
 You yourselves testify for me that I said, "I am not the anointed one," but, "I have been sent before that one."
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟢 **ECHO OF 1:20 — TRIPLE DENIAL**
 > - Yochanan (John) recalls his earlier testimony (1:20): "I am not the anointed one." The self-definition by negation continues. He is the sent-before-one (*apestalmenos*), the forerunner — not the anointed one himself. The perfect passive "I have been sent" (*apestalmenos eimi*) indicates divine commission.
@@ -464,7 +458,7 @@ You yourselves testify for me that I said, "I am not the anointed one," but, "I 
 
 The one having the bride is the bridegroom; but the friend of the bridegroom, who stands and hears him, rejoices with joy because of the voice of the bridegroom. This joy of mine, then, has been fulfilled.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟡 **BRIDEGROOM METAPHOR**
 > - **ὁ ἔχων τὴν νύμφην νυμφίος ἐστίν** = "The one having the bride is the bridegroom." Yochanan (John) casts himself as the "friend of the bridegroom" (*philos tou nymphiou*) — the שׁוֹשְׁבִין (*shoshbin*) in Jewish wedding practice, who arranged the wedding, brought the couple together, and rejoiced at the bridegroom's voice. The metaphor implies: the bride (the people, the community) belongs to the bridegroom (Yeshua (Jesus)), not to the friend (John). John's joy is complete precisely because the bridegroom has arrived.
@@ -478,7 +472,7 @@ The one having the bride is the bridegroom; but the friend of the bridegroom, wh
 
 That one must increase, but I must decrease.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟢 **"MUST" — *DEI***
 > - **ἐκεῖνον δεῖ αὐξάνειν, ἐμὲ δὲ ἐλαττοῦσθαι** = "That one must increase, but I must decrease." The verb δεῖ (*dei*) = "it is necessary, must" — divine necessity, not personal choice. The increase/decrease is not Yochanan (John)'s preference but the ordained pattern. The present infinitives (αὐξάνειν, ἐλαττοῦσθαι) indicate ongoing processes.
@@ -489,7 +483,7 @@ That one must increase, but I must decrease.
 
 The one coming from above is above all. The one being from the earth is from the earth and speaks from the earth. The one coming from the sky is above all.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟡 **SPEAKER AMBIGUITY — YOCHANAN OR NARRATOR?**
 > - Where does Yochanan (John)'s speech end? Some scholars place the end at v.30 ("He must increase, I must decrease"), with vv.31–36 as the narrator's theological commentary — parallel to the Yeshua (Jesus)/narrator transition at vv.15–16. Others extend John's speech through v.36. The Greek provides no quotation marks. The TT does not resolve the question.
@@ -503,7 +497,7 @@ The one coming from above is above all. The one being from the earth is from the
 
 What he has seen and heard — this he testifies, and no one receives his testimony.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔵 **PERFECT TENSE — *HEŌRAKEN... ĒKOUSEN***
 > - **ὃ ἑώρακεν καὶ ἤκουσεν** = "what he has seen and heard." The perfect ἑώρακεν ("has seen") pairs with the aorist ἤκουσεν ("heard"). The one from above testifies to direct experience of heavenly realities. "No one receives" (*oudeis lambanei*) echoes v.11 and 1:11 — the persistent theme of rejected testimony.
@@ -514,7 +508,7 @@ What he has seen and heard — this he testifies, and no one receives his testim
 
 The one who received his testimony has set *his* seal that God is true.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟢 **"SET HIS SEAL" — *ESPHRAGISEN***
 > - **ἐσφράγισεν** (*esphragisen*) = aorist of σφραγίζω (*sphragizō*) = "seal, certify, authenticate." A seal validates a document as genuine. The person who accepts the testimony thereby certifies — stakes a claim — that God is truthful. Receiving the testimony is an act of affirming God's truthfulness.
@@ -525,7 +519,7 @@ The one who received his testimony has set *his* seal that God is true.
 
 For the one whom God sent speaks the words of God, for he does not give the {a:wind/spirit} by measure.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟡 **"NOT BY MEASURE" — *OUK EK METROU***
 > - **οὐ γὰρ ἐκ μέτρου δίδωσιν τὸ πνεῦμα** = "for he does not give the wind/spirit by measure." Who is the subject — God or the Son? Both readings are possible. (a) God gives the wind/spirit without measure to the Son (the Son receives unlimited endowment); (b) the Son gives the wind/spirit without measure to others (the Son distributes without limit). The text does not specify the subject. The TT preserves the ambiguity.
@@ -536,7 +530,7 @@ For the one whom God sent speaks the words of God, for he does not give the {a:w
 
 The father loves the son and has given all things into his hand.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟢 **"LOVES" — *AGAPA***
 > - **ὁ πατὴρ ἀγαπᾷ τὸν υἱόν** = "The Father loves the Son." The verb ἀγαπάω (*agapaō*) is used here. At 5:20, the synonym φιλέω (*phileō*) is used for the same relationship. Whether John distinguishes the two love-verbs or uses them interchangeably is a long-standing debate (see 21:15–17 for the climactic exchange).
@@ -550,7 +544,7 @@ The father loves the son and has given all things into his hand.
 
 The one trusting in the son has life of the age; but the one disobeying the son will not see life, but the wrath of God remains upon him.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟢 **"DISOBEYING" — *APEITHŌN***
 > - **ὁ ἀπειθῶν τῷ υἱῷ** (*ho apeithōn tō huiō*) = "the one disobeying the Son." The verb **ἀπειθέω** (*apeitheō*) = "disobey, be disobedient, refuse compliance." Significantly, the opposite of "trusting" (*pisteuōn*) here is not "not trusting" (*mē pisteuōn*, as in v.18) but "disobeying" (*apeithōn*). The shift suggests that the failure to trust is understood as an act of disobedience — not merely intellectual non-assent but willful refusal.

@@ -26,18 +26,12 @@
 
 ## GUIA DE LECTURA
 
-**📖 Texto Principal:** Traducción primaria — legible pero fiel a la estructura hebrea
-**📝 Notas:** Rasgos hebreos esenciales inmediatamente debajo de cada versículo
+**Texto Principal:** Traducción primaria — legible pero fiel a la estructura hebrea
+**Notas:** Rasgos hebreos esenciales inmediatamente debajo de cada versículo
 ***Cursiva:*** Palabras añadidas para la gramática del español (no están en el texto hebreo)
 **"Comillas":** Discurso divino directo
 **YHWH:** Tetragrama rendido consonantalmente (Regla 25, Opción A)
 **tebah, mabbul:** Términos hebreos transliterados (explicados en las notas)
-
-**Iconos de Notas:**
-- 🔴 **CRÍTICO** - Decisiones textuales o de traducción mayores
-- 🟢 **LÉXICO** - Significados de palabras, patrones de raices, términos del glosario
-- 🔵 **GRAMATICAL** - Estructura hebrea, formas verbales, sintaxis
-- 🟡 **TEOLÓGICO** - Opciónes interpretativas, preservacíon de ambigüedad
 
 **Este capítulo narra la entrada en la tebah y el comienzo del diluvio.** La tensión entre "dos de todos" (6:19) y "siete siete" de animales limpios (7:2) se preserva sin armonización según la Regla 22. El mecanismo cosmológico — fuentes del abismo y ventanas del cielo — invierte la separación de aguas del Día 2 (Gn 1:6-7). La distribución del nombre divino alterna entre YHWH y Elohim dentro del capítulo.
 
@@ -77,7 +71,7 @@
 
 Y YHWH dijo a Noé, @@"Ven, tú y toda tu casa, a la {t:tebah}, pues a ti he visto *como* justo ante mí en esta generación.@@
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **NOMBRE DIVINO — YHWH**
 > - Esta sección (7:1-5) usa **YHWH**, no Elohim. YHWH pronuncia el mandato personal e intimo. Contraste con 7:9,16a donde el narrador usa "Dios" (Elohim) para el marco estructural/cosmico. Rasgo textual preservado.
@@ -91,7 +85,7 @@ Y YHWH dijo a Noé, @@"Ven, tú y toda tu casa, a la {t:tebah}, pues a ti he vis
 
 @@De todo el ganado limpio tomarás para ti siete siete, macho y su hembra, y del ganado que no *es* limpio, dos, macho y su hembra.@@
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **CRÍTICO — "SIETE SIETE" vs. "DOS DE TODOS" (6:19)**
 > - **שִׁבְעָה שִׁבְעָה** (*shiv'ah shiv'ah*) = "siete siete" — repetición distributiva. Ambiguo: (1) siete animales individuales de cada especie limpia; (2) siete pares (catorce en total). El hebreo no dice "siete pares" — dice "siete siete." La TT preserva la repetición literal.
@@ -106,7 +100,7 @@ Y YHWH dijo a Noé, @@"Ven, tú y toda tu casa, a la {t:tebah}, pues a ti he vis
 
 @@También del ave del cielo, siete siete, macho y hembra, para mantener viva simiente sobre la faz de toda la tierra.@@
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **"SIMIENTE" (*zera*)**
 > - **זֶרַע** (*zera*) = simiente/descendencia. Preserva el linaje biologico. Misma palabra que en 3:15 ("simiente de la mujer"). El diluvio preserva la cadena de *zera*.
@@ -117,7 +111,7 @@ Y YHWH dijo a Noé, @@"Ven, tú y toda tu casa, a la {t:tebah}, pues a ti he vis
 
 @@Pues en aún siete días yo *estoy* enviando lluvia sobre la tierra, cuarenta días y cuarenta noches, y borraré toda cosa existente que hice de sobre la faz del suelo."@@
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **"COSA EXISTENTE" (*yequm*)**
 > - **הַיְקוּם** (*ha-yequm*) = "la cosa existente" — todo lo que se mantiene en pie/existe. De la raíz ק-ו-ם (*q-w-m*, ponerse en pie/levantarse). Palabra rara — aparece solo aquí y en Dt 11:6.
@@ -131,7 +125,7 @@ Y YHWH dijo a Noé, @@"Ven, tú y toda tu casa, a la {t:tebah}, pues a ti he vis
 
 Y Noé hizo conforme a todo lo que YHWH le ordenó.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **FORMULA DE OBEDIENCIA — SEGUNDA APARICION**
 > - Repite la formula de 6:22. Esta es la version YHWH; 6:22 uso "Dios" (Elohim). La formula se repetira en 7:9 y 7:16.
@@ -142,7 +136,7 @@ Y Noé hizo conforme a todo lo que YHWH le ordenó.
 
 Y Noé *tenía* seiscientos años, y el diluvio de aguas fue sobre la tierra.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **PRECISION CRONOLOGICA**
 > - La narrativa del diluvio proporciona fechas exactas: la edad de Noé (600), mes/día en 7:11. Esta precision continua en 8:4,5,13,14. El marco cronologico es un rasgo estructural del texto.
@@ -165,7 +159,7 @@ Del ganado limpio y del ganado que no *es* limpio, y del ave, y *de* todo lo que
 
 dos dos vinieron a Noé a la {t:tebah}, macho y hembra, como Dios ordenó a Noé.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **"DOS DOS" — DESPUES DE "SIETE SIETE"**
 > - **שְׁנַיִם שְׁנַיִם** (*shenayim shenayim*) = "dos dos." Despues de la instrucción de "siete siete" en 7:2, la ejecución en 7:9 dice "dos dos." La TT preserva esto sin reconciliación. La tension textual es un rasgo del TM.
@@ -185,7 +179,7 @@ Y fue a los siete de los días, y las aguas del diluvio fueron sobre la tierra.
 
 En el año seiscientos de la vida de Noé, en el segundo mes, en el día diecisiete del mes, en este día todas las fuentes del gran abismo se abrieron, y las ventanas del cielo fueron abiertas.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **CRÍTICO — MECANISMO COSMOLOGICO**
 > - **מַעְיְנֹת תְּהוֹם רַבָּה** (*ma'yenot tehom rabbah*) = "fuentes del gran abismo." *Tehom* = el abismo primordial de Gn 1:2. Las aguas subterraneas irrumpen hacia arriba.
@@ -207,7 +201,7 @@ Y la lluvia fue sobre la tierra cuarenta días y cuarenta noches.
 
 En este mismo día entró Noé, y Sem y Cam y Jafet, los hijos de Noé, y la mujer de Noé y las tres mujeres de sus hijos con ellos, a la {t:tebah} —
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **"EN ESTE MISMO DIA" (*be-etsem ha-yom ha-zeh*)**
 > - **בְּעֶצֶם הַיּוֹם הַזֶּה** = "en el hueso/esencia de este dia" — marcador temporal enfatico. Misma frase usada para la circuncision de Abraham (Gn 17:23,26) y la salida de Israel de Egipto (Ex 12:41,51).
@@ -218,7 +212,7 @@ En este mismo día entró Noé, y Sem y Cam y Jafet, los hijos de Noé, y la muj
 
 ellos, y todo ser vivo según su especie, y todo ganado según su especie, y todo lo que se arrastra que se arrastra sobre la tierra según su especie, y toda ave según su especie, todo ser alado.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **"SEGUN SU ESPECIE" — ECO DE LA CREACION**
 > - **לְמִינָהּ / לְמִינֵהוּ** (*leminah / leminehu*) — misma formula *lemin* de Gn 1:11,12,21,24,25. Las categorias de la creación estructuran la preservacíon. Lo que fue hecho "según su especie" es salvado "según su especie."
@@ -235,7 +229,7 @@ Y vinieron a Noé a la {t:tebah}, dos dos de toda la carne en la cual *hay* alie
 
 Y los que venían, macho y hembra de toda carne vinieron, como Dios le ordenó; y YHWH cerró *la puerta* tras él.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **CRÍTICO — YHWH CIERRA LA TEBAH**
 > - **וַיִּסְגֹּר יהוה בַּעֲדוֹ** (*vayyisgor YHWH ba'ado*) = "y YHWH cerró tras él." Dios (*Elohim*) ordena; YHWH realiza el acto intimo y protector de sellar la tebah. El nombre divino cambia a mitad del versículo: "como Dios ordenó" → "YHWH cerró." El acto de cerrar es personal.
@@ -249,7 +243,7 @@ Y los que venían, macho y hembra de toda carne vinieron, como Dios le ordenó; 
 
 Y el diluvio fue cuarenta días sobre la tierra, y las aguas crecieron y levantaron la {t:tebah}, y se elevó de sobre la tierra.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **"LEVANTARON" Y "SE ELEVO"**
 > - **וַיִּרְבּוּ הַמַּיִם וַיִּשְׂאוּ אֶת־הַתֵּבָה** = las aguas "cargaron/levantaron" la tebah, y ella "se elevó de sobre la tierra." La tebah es pasiva — no navega. Es levantada por las aguas y llevada.
@@ -266,7 +260,7 @@ Y las aguas prevalecieron y crecieron grandemente sobre la tierra, y la {t:tebah
 
 Y las aguas prevalecieron muy muy sobre la tierra, y todos los montes altos que *estaban* bajo todo el cielo fueron cubiertos.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **"MUY MUY" (*me'od me'od*)**
 > - **מְאֹד מְאֹד** (*me'od me'od*) — intensificador duplicado. La misma duplicación aparece en Gn 17:2,6,20; 30:43. Enfasis hebreo mediante repetición.
@@ -283,7 +277,7 @@ Quince codos hacia arriba prevalecieron las aguas, y los montes fueron cubiertos
 
 Y pereció toda carne que se mueve sobre la tierra — el ave y el ganado y el ser vivo y todo lo que pulula que pulula sobre la tierra, y todo humano.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **ORDEN DE DESTRUCCION**
 > - Ave → ganado → ser vivo → lo que pulula → humano. Refleja las categorias de creación de Gn 1. Todo lo que fue hecho vivo sobre la tierra perece.
@@ -294,7 +288,7 @@ Y pereció toda carne que se mueve sobre la tierra — el ave y el ganado y el s
 
 Todo lo que *tenía* aliento del {a:viento/espíritu} de vida en sus narices, de todo lo que *estaba* sobre lo seco, murió.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **"ALIENTO DEL ESPIRITU DE VIDA"**
 > - **נִשְׁמַת רוּחַ חַיִּים** (*nishmat ruach chayyim*) = "aliento del espíritu/viento de vida." Compuesto triple: *neshamah* (aliento) + *ruach* (espíritu/viento) + *chayyim* (vida). Solo aquí en esta forma completa. Combina Gn 2:7 (*nishmat chayyim*, aliento de vida) con Gn 6:17 (*ruach chayyim*, espíritu de vida).
@@ -309,7 +303,7 @@ Todo lo que *tenía* aliento del {a:viento/espíritu} de vida en sus narices, de
 
 Y él borró toda cosa existente que *estaba* sobre la faz del suelo, desde el humano hasta el ganado hasta lo que se arrastra hasta el ave del cielo, y fueron borrados de la tierra; y solo Noé quedó, y los que *estaban* con él en la {t:tebah}.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **"BORRO" (*machah*) — CUMPLIMIENTO**
 > - 6:7: "Borraré (*emcheh*)"; 7:4: "borraré (*machah*)"; 7:23: "borró (*vayyimach*)." Promesa → reiteración → cumplimiento. Mismo verbo en todo el ciclo.
@@ -323,7 +317,7 @@ Y él borró toda cosa existente que *estaba* sobre la faz del suelo, desde el h
 
 Y las aguas prevalecieron sobre la tierra ciento cincuenta días.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **150 DIAS — MARCO CRONOLOGICO**
 > - Los 150 días de prevalencia aparecen de nuevo en 8:3. La narrativa del diluvio se estructura en torno a marcadores temporales precisos: 7 días (7:4,10), 40 días (7:12,17), 150 días (7:24, 8:3), luego la linea temporal de recesion en Gn 8.

@@ -27,17 +27,11 @@
 
 ## LESEANLEITUNG
 
-**📖 Haupttext:** Primäre Übersetzung—lesbar aber treu der hebräischen Struktur
-**📝 Notizen:** Wesentliche hebräische Merkmale unmittelbar unter jedem Vers
+**Haupttext:** Primäre Übersetzung—lesbar aber treu der hebräischen Struktur
+**Notizen:** Wesentliche hebräische Merkmale unmittelbar unter jedem Vers
 ***Kursiv:*** Wörter für deutsche Grammatik hinzugefügt (nicht im hebräischen Text)
 **„Anführungszeichen":** Direkte göttliche Rede oder menschliche Rede
 **JHWH:** Tetragrammaton konsonantisch transliteriert (Regel 25, Option A)
-
-**Notizen-Symbole:**
-- 🔴 **KRITISCH** - Wichtige textliche oder Übersetzungsentscheidungen
-- 🟢 **LEXIKALISCH** - Wortbedeutungen, Wurzelmuster, Glossarbegriffe
-- 🔵 **GRAMMATISCH** - Hebräische Struktur, Verbformen, Syntax
-- 🟡 **THEOLOGISCH** - Interpretationsoptionen, Ambiguitätsbewahrung
 
 **Mensch- / Adam-Politik (Regel 17):** In diesem Kapitel wird *ha-adam* (mit Artikel) in V.1 als „der Mensch" wiedergegeben (Fortführung der Gn 2–3-Politik). Ab **V.25** wechselt der Text zum artikellosen *adam* in einem Benennungs-/Genealogiekontext — dies ist der **Übergangspunkt** zum Eigennamen „Adam." Mit 🔴 KRITISCH-Notiz gekennzeichnet.
 
@@ -79,7 +73,7 @@
 
 Und der Mensch erkannte Chava (Eva), seine Frau, und sie wurde schwanger und gebar Qayin (Kain), und sie sprach: „Ich habe einen Mann erworben mit JHWH."
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟢 **QAYIN / QANAH WORTSPIEL**
 > - **קַיִן** (*Kain*) = Kain. **קָנָה** (*qanah*) = erworben/erhalten. Die Rede der Frau macht die Etymologie explizit: „Ich habe *qaniti* (erworben) einen Mann." Regel 14 Wortspiel bewahrt.
@@ -96,7 +90,7 @@ Und der Mensch erkannte Chava (Eva), seine Frau, und sie wurde schwanger und geb
 
 Und sie gebar abermals, seinen Bruder Hevel (Abel). Und Abel war *ein* Hüter der Herde, und Kain war *ein* Bearbeiter des Bodens.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟢 **HEVEL = DUNST/HAUCH**
 > - **הֶבֶל** (*Abel*) = „Dunst, Hauch, Flüchtiges." Der Name trägt seine Bedeutung — dasselbe Wort, das in Kohelet für „Nichtigkeit/Vergänglichkeit" verwendet wird. Ob der Name sein Schicksal vorausdeutet, ist MÖGLICH, aber vom Text nicht aufgelöst.
@@ -110,7 +104,7 @@ Und sie gebar abermals, seinen Bruder Hevel (Abel). Und Abel war *ein* Hüter de
 
 Und es war am Ende der Tage, und Kain brachte von der Frucht des Bodens eine Gabe für JHWH.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟢 **GABE**
 > - **מִנְחָה** (*minchah*) = Gabe/Geschenk/Tribut. Wird später ein Fachbegriff für Speiseopfer (Lev 2). Hier einfach „Gabe."
@@ -121,7 +115,7 @@ Und es war am Ende der Tage, und Kain brachte von der Frucht des Bodens eine Gab
 
 Und Abel, auch er brachte von den Erstgeborenen seiner Herde und von ihrem Fett. Und JHWH blickte auf Abel und seine Gabe,
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟡 **WARUM ANGEBLICKT?**
 > - Der Text sagt, JHWH blickte auf Abels Gabe, aber er sagt NICHT warum. „Erstgeborene" und „Fett" (beste Teile) könnten auf einen Qualitätsunterschied hindeuten — aber der Text nennt dies nicht als Grund. Regel 12 — nicht über-erklären, was der Text unerklärlich lässt.
@@ -132,7 +126,7 @@ Und Abel, auch er brachte von den Erstgeborenen seiner Herde und von ihrem Fett.
 
 aber auf Kain und seine Gabe blickte er nicht. Und es entbrannte dem Kain sehr, und sein Angesicht fiel.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔵 **„ES ENTBRANNTE IHM"**
 > - **וַיִּחַר** (*vayyichar*) = „und es entbrannte" — Idiom für Zorn (wörtlich „es wurde ihm heiß"). Wörtlich bewahrt.
@@ -149,7 +143,7 @@ Und JHWH sprach zu Kain: @@„Warum entbrennt *es* dir, und warum ist dein Anges
 
 @@Wenn du recht tust, *ist da* nicht Erhebung? Und wenn du nicht recht tust, an der Tür lagert die Sünde, und zu dir *ist* ihr {a:Verlangen/ihre Hinwendung}, aber du musst über sie herrschen."@@
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **KRITISCH — ERSTE „SÜNDE" IN DER BIBEL**
 > - **חַטָּאת** (*chatat*) = Sünde. Erstes Auftreten. Hier **personifiziert** — die Sünde „lagert" (רֹבֵץ *rovets*, ein Partizip, das ein lauerndes Tier beschreibt). Die Sünde wird als Wesen mit Handlungsfähigkeit vorgestellt, nicht als abstraktes Konzept.
@@ -166,7 +160,7 @@ Und JHWH sprach zu Kain: @@„Warum entbrennt *es* dir, und warum ist dein Anges
 
 Und Kain sprach zu Abel, seinem Bruder… Und es war, als sie auf dem Feld waren, und Kain erhob sich gegen Abel, seinen Bruder, und tötete ihn.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **KRITISCH — TEXTVARIANTE (LAKUNE)**
 > - MT: „Und Kain sprach zu Abel, seinem Bruder" — der Satz erscheint **unvollständig**. Kein Redeinhalt verzeichnet. Die Septuaginta (LXX — die antike griechische Bibelübersetzung) und der Samaritanische Pentateuch fügen hinzu: „Lass uns aufs Feld gehen" (*nelkha ha-sadeh*).
@@ -181,7 +175,7 @@ Und Kain sprach zu Abel, seinem Bruder… Und es war, als sie auf dem Feld waren
 
 Und JHWH sprach zu Kain: @@„Wo *ist* Abel, dein Bruder?"@@ Und er sprach: „Ich weiß nicht. *Bin* ich der Hüter meines Bruders?"
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔵 **ECHO VON 3:9**
 > - „Wo ist Abel?" ist ein Echo von „Wo bist du?" (3:9 *ayyekkah*). Beide sind göttliche Fragen, die Verhörsequenzen einleiten. Beide sind rhetorisch (Gott kennt die Antwort).
@@ -195,7 +189,7 @@ Und JHWH sprach zu Kain: @@„Wo *ist* Abel, dein Bruder?"@@ Und er sprach: „I
 
 Und er sprach: @@„Was hast du getan? Die Stimme der Blute deines Bruders schreit zu mir vom Boden.@@
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **„BLUTE" — PLURAL**
 > - **דְּמֵי** (*demei*) = „Blute" (Plural constructus). NICHT Singular „Blut." Das Hebräische verwendet den Plural — MÖGLICHE Bedeutungen: mehrfaches Blutvergießen, Lebensblut in seiner Fülle, oder (rabbinische Tradition) das Blut seiner Nachkommen, die niemals existieren werden. Plural bewahrt.
@@ -209,7 +203,7 @@ Und er sprach: @@„Was hast du getan? Die Stimme der Blute deines Bruders schre
 
 @@Und nun, verflucht *bist* du vom Boden, der seinen Mund aufgetan hat, die Blute deines Bruders von deiner Hand zu empfangen.@@
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟢 **ARUR — VERFLUCHT**
 > - **אָרוּר** (*arur*) = verflucht. In Gn 3 wurden nur die Schlange (3:14) und der Boden (3:17) verflucht — niemals die Menschen. Nun IST Kain verflucht. Eskalation: Geschöpf → Boden → Mensch.
@@ -223,7 +217,7 @@ Und er sprach: @@„Was hast du getan? Die Stimme der Blute deines Bruders schre
 
 @@Wenn du den Boden bearbeitest, wird er dir nicht mehr seine Kraft geben. Ein Umherirrender und ein Flüchtling wirst du sein auf dem Land."@@
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔵 **DOPPELTE VERTREIBUNG**
 > - **נָע וָנָד** (*na va-nad*) = „Umherirrender und Flüchtling" — Wurzelverdopplung (Regel 6). Zwei Quasi-Synonyme intensivieren das Exil. Kain verliert sowohl Berufung (Boden gibt nicht) als auch Ort (Umherirren).
@@ -234,7 +228,7 @@ Und er sprach: @@„Was hast du getan? Die Stimme der Blute deines Bruders schre
 
 Und Kain sprach zu JHWH: „Meine {a:Sünde/Strafe} *ist* zu groß zum Tragen.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **AVON — SÜNDE ODER STRAFE?**
 > - **עֲוֹנִי** (*avoni*) = „meine Sünde" ODER „meine Strafe." Das hebräische Wort bedeutet sowohl die Schuld ALS AUCH ihre Konsequenz. Regel 2 — Schrägstrich bewahrt beides: „meine Sünde/Strafe." Traditionelle Übersetzungen wählen eines; die TT bewahrt die Mehrdeutigkeit.
@@ -245,7 +239,7 @@ Und Kain sprach zu JHWH: „Meine {a:Sünde/Strafe} *ist* zu groß zum Tragen.
 
 Siehe, du hast mich heute vertrieben von auf dem Angesicht des Bodens, und vor deinem Angesicht werde ich verborgen sein, und ich werde ein Umherirrender und ein Flüchtling sein auf dem Land, und es wird *sein, dass* jeder, der mich findet, mich töten wird."
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟡 **„VOR DEINEM ANGESICHT"**
 > - Kains Klage benennt zwei Exile: vom Boden (Berufung) und von Gottes Angesicht (göttliche Gegenwart). Das zweite ist das größere — 4:16 wird bestätigen, dass er „hinausging vom Angesicht JHWHs."
@@ -256,7 +250,7 @@ Siehe, du hast mich heute vertrieben von auf dem Angesicht des Bodens, und vor d
 
 Und JHWH sprach zu ihm: @@„Darum, jeder, der Kain tötet, siebenfach soll es gerächt werden."@@ Und JHWH setzte dem Kain ein Zeichen, damit nicht jeder, der ihn fände, ihn schlüge.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟡 **DAS ZEICHEN — UNBESTIMMT**
 > - **אוֹת** (*ot*) = Zeichen/Mal. Der Text sagt NICHT, was das Zeichen ist — ein Mal auf seinem Körper? göttlicher Schutz? eine Warnung an andere? Regel 12 — keine falsche Präzision; der Text ist bewusst vage.
@@ -270,7 +264,7 @@ Und JHWH sprach zu ihm: @@„Darum, jeder, der Kain tötet, siebenfach soll es g
 
 Und Kain ging hinaus vom Angesicht JHWHs und wohnte im Land Nod, östlich von Eden.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **„ÖSTLICH VON EDEN" — EXILRICHTUNG SETZT SICH FORT**
 > - Gn 3:24: Cherubim östlich von Eden aufgestellt. Gn 4:16: Kain siedelt sich östlich von Eden an. Die Ostwärtsbewegung = **Vertreibungsmuster**. Querverweis markiert.
@@ -284,7 +278,7 @@ Und Kain ging hinaus vom Angesicht JHWHs und wohnte im Land Nod, östlich von Ed
 
 Und Kain erkannte seine Frau, und sie wurde schwanger und gebar Chanokh (Henoch). Und er baute eine Stadt, und er nannte den Namen der Stadt nach dem Namen seines Sohnes, Henoch.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟢 **ERSTE STADT**
 > - Der vertriebene Mörder baut die erste Stadt. Der Text macht keine explizite Bewertung — es wird festgestellt, nicht beurteilt.
@@ -301,7 +295,7 @@ Und dem Henoch wurde Irad geboren, und Irad zeugte Mechuya'el, und Mechuya'el ze
 
 Und Lamech nahm sich zwei Frauen; der Name der einen *war* Adah, und der Name der zweiten *war* Tsillah.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟢 **ERSTE POLYGAMIE**
 > - Der Text vermerkt Lamechs zwei Frauen ohne explizite Bewertung. Erste verzeichnete Abweichung vom „ein Fleisch"-Muster von 2:24.
@@ -324,7 +318,7 @@ Und der Name seines Bruders *war* Yuval; er war der Vater aller, die Leier und F
 
 Und Tsillah, auch sie gebar Tuval-Kain, *einen* Hämmerer jedes Schneidewerkzeugs aus Bronze und Eisen. Und die Schwester Tuval-Kains *war* Na'amah.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟢 **URSPRÜNGE DER TECHNIK**
 > - Drei „Väter" der Zivilisation: Yaval (nomadisches Hirtentum), Yuval (Musik), Tuval-Kain (Metallarbeit). Alle stammen von der vertriebenen Linie Kains ab. Der Text verzeichnet die zivilisatorischen Ursprünge, ohne sie zu bewerten.
@@ -335,7 +329,7 @@ Und Tsillah, auch sie gebar Tuval-Kain, *einen* Hämmerer jedes Schneidewerkzeug
 
 Und Lamech sprach zu seinen Frauen: „Adah und Tsillah, hört meine Stimme; Frauen Lamechs, gebt Gehör meiner Rede: Denn einen Mann habe ich getötet für meine Wunde, und ein Kind für meine Beule.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **LEMEKHS LIED — POETISCHE STRUKTUR**
 > - Dies ist **Poesie** eingebettet in Erzählung. Parallele Struktur (hört/gebt Gehör; Stimme/Rede; Mann/Kind; Wunde/Beule) — Regel 6 bewahrt. Erstes Gedicht eines Menschen in der Bibel (nach 2:23).
@@ -349,7 +343,7 @@ Und Lamech sprach zu seinen Frauen: „Adah und Tsillah, hört meine Stimme; Fra
 
 Denn siebenfach soll Kain gerächt werden, und Lamech siebenundsiebzigfach."
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔵 **SIEBEN → SIEBENUNDSIEBZIG**
 > - JHWH versprach siebenfachen Schutz für Kain (V.15). Lamech beansprucht **siebenundsiebzigfachen** für sich selbst — er eignet sich göttliches Vorrecht für persönliche Rache an. Numerische Eskalation: 7 → 77.
@@ -360,7 +354,7 @@ Denn siebenfach soll Kain gerächt werden, und Lamech siebenundsiebzigfach."
 
 Und Adam erkannte seine Frau abermals, und sie gebar einen Sohn und nannte seinen Namen Shet (Set): „Denn Gott hat mir einen anderen Samen gesetzt anstelle von Abel, denn Kain hat ihn getötet."
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **KRITISCH — ADAM WIRD EIGENNAME**
 > - **אָדָם** (*adam*) erscheint hier **ohne den Artikel** in einem genealogischen/Benennungskontext. Dies ist der **Übergangspunkt** vom generischen „der Mensch" zum Eigennamen „Adam." Die TT wechselt ab diesem Vers zu „Adam." Protokolliert im Redaktionsprotokoll (Eintrag 081).
@@ -377,7 +371,7 @@ Und Adam erkannte seine Frau abermals, und sie gebar einen Sohn und nannte seine
 
 Und dem Set, auch ihm wurde ein Sohn geboren, und er nannte seinen Namen Enosh. Damals wurde *es* begonnen, den Namen JHWHs anzurufen.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **ERSTE ANRUFUNG JHWHS**
 > - **אָז הוּחַל לִקְרֹא בְּשֵׁם יהוה** = „Damals wurde es begonnen, den Namen JHWHs anzurufen." Das Passiv (*huchal*) spezifiziert nicht, wer begann. Dies ist der erste verzeichnete Akt formaler Anbetung/Anrufung — die Set-Linie ruft JHWH beim Namen an.

@@ -27,18 +27,12 @@
 
 ## LESEANLEITUNG
 
-**📖 Haupttext:** Primäre Übersetzung—lesbar aber treu der hebräischen Struktur
-**📝 Notizen:** Wesentliche hebräische Merkmale unmittelbar unter jedem Vers
+**Haupttext:** Primäre Übersetzung—lesbar aber treu der hebräischen Struktur
+**Notizen:** Wesentliche hebräische Merkmale unmittelbar unter jedem Vers
 ***Kursiv:*** Wörter für deutsche Grammatik hinzugefügt (nicht im hebräischen Text)
 **„Anführungszeichen":** Direkte göttliche Rede
 **JHWH:** Tetragrammaton konsonantisch transliteriert (Regel 25, Option A)
 **Tebah, Mabbul/Flut:** Transliterierte hebräische Begriffe (in Notizen erklärt)
-
-**Notizen-Symbole:**
-- 🔴 **KRITISCH** - Wichtige textliche oder Übersetzungsentscheidungen
-- 🟢 **LEXIKALISCH** - Wortbedeutungen, Wurzelmuster, Glossarbegriffe
-- 🔵 **GRAMMATISCH** - Hebräische Struktur, Verbformen, Syntax
-- 🟡 **THEOLOGISCH** - Interpretationsoptionen, Ambiguitätsbewahrung
 
 **Dieses Kapitel erzählt den Eintritt in die Tebah und den Beginn der Flut.** Die Spannung zwischen „zwei von allem" (6:19) und „sieben sieben" der reinen Tiere (7:2) wird ohne Harmonisierung gemäß Regel 22 bewahrt. Der kosmologische Mechanismus — Quellen der Tiefe und Fenster des Himmels — kehrt die Tag-2-Trennung der Wasser um (Gn 1:6–7). Die Verteilung der Gottesnamen wechselt innerhalb des Kapitels zwischen JHWH und Elohim.
 
@@ -76,7 +70,7 @@
 
 Und JHWH sprach zu Noach (Noah): @@„Komm, du und dein ganzes Haus, in die {t:Tebah}, denn dich habe ich *als* gerecht vor mir gesehen in diesem Geschlecht.@@
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **GOTTESNAME — JHWH**
 > - Dieser Abschnitt (7:1–5) verwendet **JHWH**, nicht Elohim. JHWH spricht den persönlichen, intimen Befehl. Kontrast mit 7:9,16a, wo der Erzähler „Gott" (Elohim) für die strukturelle/kosmische Rahmung verwendet. Textuelles Merkmal bewahrt.
@@ -90,7 +84,7 @@ Und JHWH sprach zu Noach (Noah): @@„Komm, du und dein ganzes Haus, in die {t:T
 
 @@Von allem reinen Vieh sollst du dir nehmen sieben sieben, einen Mann und seine Frau, und von dem Vieh, das nicht rein *ist*, zwei, einen Mann und seine Frau.@@
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **KRITISCH — „SIEBEN SIEBEN" GEGEN „ZWEI VON ALLEM" (6:19)**
 > - **שִׁבְעָה שִׁבְעָה** (*shiv'ah shiv'ah*) = „sieben sieben" — distributive Wiederholung. Mehrdeutig: (1) sieben einzelne Tiere jeder reinen Art; (2) sieben Paare (vierzehn insgesamt). Das Hebräische sagt nicht „sieben Paare" — es wiederholt die Zahl. Die TT bewahrt die wörtliche Wiederholung.
@@ -105,7 +99,7 @@ Und JHWH sprach zu Noach (Noah): @@„Komm, du und dein ganzes Haus, in die {t:T
 
 @@Auch vom Vogel des Himmels sieben sieben, männlich und weiblich, um Samen am Leben zu erhalten auf dem Angesicht des ganzen Landes.@@
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟢 **„SAMEN" (*zera*)**
 > - **זֶרַע** (*zera*) = Samen/Nachkommenschaft. Biologische Linie bewahren. Dasselbe Wort wie 3:15 („Samen der Frau"). Die Flut bewahrt die *Zera*-Kette.
@@ -116,7 +110,7 @@ Und JHWH sprach zu Noach (Noah): @@„Komm, du und dein ganzes Haus, in die {t:T
 
 @@Denn in noch sieben Tagen *bin ich am* Regnen-Senden auf das Land, vierzig Tage und vierzig Nächte, und ich werde jedes Stehende, das ich gemacht habe, auslöschen von auf dem Angesicht des Bodens."@@
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟢 **„STEHENDES" (*yequm*)**
 > - **הַיְקוּם** (*ha-yequm*) = „das Stehende" — alles, was steht/existiert. Von der Wurzel ק-ו-ם (*q-w-m*, stehen/aufstehen). Seltenes Wort — kommt nur hier und bei Dtn 11:6 vor.
@@ -130,7 +124,7 @@ Und JHWH sprach zu Noach (Noah): @@„Komm, du und dein ganzes Haus, in die {t:T
 
 Und Noah tat nach allem, was JHWH ihm geboten hatte.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔵 **GEHORSAMSFORMEL — ZWEITES AUFTRETEN**
 > - Wiederholt die Formel aus 6:22. Dies ist die JHWH-Version; 6:22 verwendete „Gott" (Elohim). Die Formel wiederholt sich bei 7:9 und 7:16.
@@ -141,7 +135,7 @@ Und Noah tat nach allem, was JHWH ihm geboten hatte.
 
 Und Noah *war* sechshundert Jahre alt, und die Flut von Wassern war auf dem Land.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔵 **CHRONOLOGISCHE PRÄZISION**
 > - Die Fluterzählung liefert genaue Daten: Noahs Alter (600), Monat/Tag bei 7:11. Diese Präzision setzt sich fort bei 8:4,5,13,14. Der chronologische Rahmen ist ein strukturelles Merkmal des Textes.
@@ -164,7 +158,7 @@ Vom reinen Vieh und vom Vieh, das nicht rein *ist*, und vom Vogel, und *von* all
 
 zwei zwei kamen sie zu Noah in die {t:Tebah}, männlich und weiblich, wie Gott Noah geboten hatte.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **„ZWEI ZWEI" — NACH „SIEBEN SIEBEN"**
 > - **שְׁנַיִם שְׁנַיִם** (*shenayim shenayim*) = „zwei zwei." Nach der „sieben sieben"-Anweisung bei 7:2 sagt die Ausführung bei 7:9 „zwei zwei." Die TT bewahrt dies ohne Harmonisierung. Die textliche Spannung ist ein Merkmal des MT.
@@ -184,7 +178,7 @@ Und es war nach sieben der Tage, und die Wasser der Flut waren auf dem Land.
 
 Im sechshundertsten Jahr des Lebens Noahs, im zweiten Monat, am siebzehnten Tag des Monats, an diesem Tag brachen alle Quellen der großen Tiefe auf, und die Fenster des Himmels wurden geöffnet.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **KRITISCH — KOSMOLOGISCHER MECHANISMUS**
 > - **מַעְיְנֹת תְּהוֹם רַבָּה** (*ma'yenot tehom rabbah*) = „Quellen der großen Tiefe." *Tehom* = die urzeitliche Tiefe aus Gn 1:2. Die unterirdischen Wasser brechen nach oben auf.
@@ -207,7 +201,7 @@ Und der Regen war auf dem Land vierzig Tage und vierzig Nächte.
 
 An eben diesem Tag trat Noah ein, und Shem und Cham (Ham) und Yafet (Jafet), die Söhne Noahs, und die Frau Noahs und die drei Frauen seiner Söhne mit ihnen, in die {t:Tebah} —
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔵 **„AN EBEN DIESEM TAG" (*be-etsem ha-yom ha-zeh*)**
 > - **בְּעֶצֶם הַיּוֹם הַזֶּה** = „am Gebein/Wesen dieses Tages" — emphatischer Zeitmarker. Dieselbe Wendung verwendet für Abrahams Beschneidung (Gn 17:23,26) und Israels Auszug aus Ägypten (Ex 12:41,51).
@@ -218,7 +212,7 @@ An eben diesem Tag trat Noah ein, und Shem und Cham (Ham) und Yafet (Jafet), die
 
 sie, und jedes Lebewesen nach seiner Art, und alles Vieh nach seiner Art, und jedes Kriechende, das auf dem Land kriecht, nach seiner Art, und jeder Vogel nach seiner Art, jedes Geflügelte.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔵 **„NACH SEINER ART" — SCHÖPFUNGSECHO**
 > - **לְמִינָהּ / לְמִינֵהוּ** (*leminah / leminehu*) — dieselbe *lemin*-Formel aus Gn 1:11,12,21,24,25. Die Schöpfungskategorien strukturieren die Bewahrung. Was „nach seiner Art" gemacht wurde, wird „nach seiner Art" gerettet.
@@ -235,7 +229,7 @@ Und sie kamen zu Noah in die {t:Tebah}, zwei zwei von allem Fleisch, in dem Atem
 
 Und die Kommenden, männlich und weiblich von allem Fleisch kamen sie, wie Gott ihm geboten hatte; und JHWH schloss *es* hinter ihm zu.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **KRITISCH — JHWH SCHLIEẞT DIE TEBAH**
 > - **וַיִּסְגֹּר יהוה בַּעֲדוֹ** (*vayyisgor JHWH ba'ado*) = „und JHWH schloss hinter ihm zu." Gott (*Elohim*) gebietet; JHWH vollzieht den intimen, schützenden Akt der Versiegelung der Tebah. Der Gottesname wechselt mitten im Vers: „wie Gott gebot" → „JHWH schloss zu." Der Akt des Schließens ist persönlich.
@@ -249,7 +243,7 @@ Und die Kommenden, männlich und weiblich von allem Fleisch kamen sie, wie Gott 
 
 Und die Flut war vierzig Tage auf dem Land, und die Wasser mehrten sich und hoben die {t:Tebah}, und sie erhob sich von auf dem Land.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔵 **„HOBEN" UND „ERHOB SICH"**
 > - **וַיִּרְבּוּ הַמַּיִם וַיִּשְׂאוּ אֶת־הַתֵּבָה** = die Wasser „trugen/hoben" die Tebah, und sie „erhob sich hoch von auf dem Land." Die Tebah ist passiv — sie navigiert nicht. Sie wird von den Wassern gehoben und getragen.
@@ -266,7 +260,7 @@ Und die Wasser überwältigten und mehrten sich sehr auf dem Land, und die {t:Te
 
 Und die Wasser überwältigten sehr sehr auf dem Land, und alle hohen Berge, die unter dem ganzen Himmel *waren*, wurden bedeckt.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔵 **„SEHR SEHR" (*me'od me'od*)**
 > - **מְאֹד מְאֹד** (*me'od me'od*) — verdoppelter Verstärker. Dieselbe Verdopplung erscheint bei Gn 17:2,6,20; 30:43. Hebräische Betonung durch Wiederholung.
@@ -283,7 +277,7 @@ Fünfzehn Ellen aufwärts überwältigten die Wasser, und die Berge wurden bedec
 
 Und alles Fleisch, das sich auf dem Land bewegt, verschied — der Vogel und das Vieh und das Lebewesen und jedes Wimmelnde, das auf dem Land wimmelt, und jeder Mensch.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔵 **VERNICHTUNGSREIHENFOLGE**
 > - Vogel → Vieh → Lebewesen → Wimmelndes → Mensch. Echot die Schöpfungskategorien aus Gn 1. Alles, was als Lebendes auf dem Land gemacht wurde, verscheidet.
@@ -294,7 +288,7 @@ Und alles Fleisch, das sich auf dem Land bewegt, verschied — der Vogel und das
 
 Alles, was Atem des {a:Windes/Geistes} des Lebens in seinen Nüstern *hatte*, von allem, was auf dem Trockenen *war*, starb.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟢 **„ATEM DES WINDES/GEISTES DES LEBENS"**
 > - **נִשְׁמַת רוּחַ חַיִּים** (*nishmat ruach chayyim*) = „Atem des Windes/Geistes des Lebens." Dreifache Zusammensetzung: *Neshamah* (Atem) + *Ruach* (Wind/Geist) + *Chayyim* (Leben). Nur hier in dieser vollen Form. Verbindet Gn 2:7 (*nishmat chayyim*, Atem des Lebens) mit Gn 6:17 (*ruach chayyim*, Geist des Lebens). Regel 2 Schrägstrich bewahrt die Mehrdeutigkeit von *Ruach*.
@@ -308,7 +302,7 @@ Alles, was Atem des {a:Windes/Geistes} des Lebens in seinen Nüstern *hatte*, vo
 
 Und er löschte jedes Stehende aus, das auf dem Angesicht des Bodens *war*, vom Menschen bis zum Vieh bis zum Kriechenden bis zum Vogel des Himmels, und sie wurden ausgelöscht vom Land; und nur Noah blieb übrig, und die mit ihm in der {t:Tebah}.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟢 **„AUSLÖSCHEN" (*machah*) — ERFÜLLUNG**
 > - 6:7: „Ich werde auslöschen (*emcheh*)"; 7:4: „Ich werde auslöschen (*machah*)"; 7:23: „er löschte aus (*vayyimach*)." Verheißung → Wiederholung → Erfüllung. Dasselbe Verb durchgehend.
@@ -322,7 +316,7 @@ Und er löschte jedes Stehende aus, das auf dem Angesicht des Bodens *war*, vom 
 
 Und die Wasser überwältigten auf dem Land einhundertfünfzig Tage.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔵 **150 TAGE — CHRONOLOGISCHER RAHMEN**
 > - Die 150 Tage des Überwältigens erscheinen erneut bei 8:3. Die Fluterzählung ist um präzise Zeitmarker strukturiert: 7 Tage (7:4,10), 40 Tage (7:12,17), 150 Tage (7:24, 8:3), dann die Rückgangs-Zeitlinie in Gn 8.

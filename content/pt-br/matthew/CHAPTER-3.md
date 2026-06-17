@@ -34,12 +34,6 @@
 **"Aspas":** Discurso direto
 **o Senhor:** kyrios traduzido conforme Política do Nome Divino GS (Opção C) ao citar passagens do AT com YHWH
 
-**Ícones das Notas:**
-- 🔴 **CRÍTICO** - Decisões textuais ou tradutórias importantes
-- 🟢 **LEXICAL** - Significados de palavras, campo semântico, termos do glossário
-- 🔵 **GRAMATICAL** - Estrutura grega, aspecto verbal, sintaxe
-- 🟡 **TEOLÓGICO** - Opções interpretativas, preservação de ambiguidade
-
 **Este capítulo introduz Yochanan (João) o Imersor e "o reino dos céus".** A expressão *basileia tōn ouranōn* ("reino dos céus") aparece pela primeira vez em Mateus — uma expressão exclusiva deste Evangelho (os outros Evangelhos usam "reino de Deus"). A TT traduz *ouranōn* como "céus" conforme alinhamento com o hebraico *shamayim*. A prática de *baptisma* de João é traduzida como "imersão" conforme glossário travado. Os nomes próprios seguem a transliteração TT: João (não João), Perushim (Fariseus) (não Fariseus), Tsduqim (Saduceus) (não Saduceus), Yarden (Jordão) (não Jordão).
 
 ---

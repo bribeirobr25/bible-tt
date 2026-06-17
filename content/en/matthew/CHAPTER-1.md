@@ -33,12 +33,6 @@
 **"Quotes":** Direct speech
 **the Lord:** kyrios rendered per GS Divine Name Policy (Option C) when quoting OT YHWH passages
 
-**Note Icons:**
-- 🔴 **CRITICAL** - Major textual or translation decisions
-- 🟢 **LEXICAL** - Word meanings, semantic range, glossary terms
-- 🔵 **GRAMMATICAL** - Greek structure, verb aspect, syntax
-- 🟡 **THEOLOGICAL** - Interpretive options, ambiguity preservation
-
 **This chapter opens the first book arranged in the Greek Scriptures canon.** Matthew 1 begins not with a cosmological prologue (as in John) but with a genealogy — a *biblos geneseōs* ("book of genesis/origin") that traces a line from Avraham through David to Yeshua. The genealogy is structured into three sets of fourteen generations. Four women are named — Tamar, Rachav, Rut, and the wife of Uriyah — each with an irregular or surprising entry into the lineage. Proper names follow TT transliteration: Yeshua (not Jesus), Yosef (not Joseph), Miryam (not Mary), Avraham (not Abraham), etc. Familiar English forms are noted at first occurrence. The birth narrative (vv.18-25) introduces the virgin/young woman ambiguity from Isaiah 7:14. The Greek *pneuma hagion* is rendered "holy wind/spirit" per locked glossary.
 
 ---

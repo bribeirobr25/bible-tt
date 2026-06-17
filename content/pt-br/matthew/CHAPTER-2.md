@@ -34,12 +34,6 @@
 **"Aspas":** Discurso direto
 **o Senhor:** kyrios traduzido conforme Política do Nome Divino GS (Opção C) ao citar passagens do AT com YHWH
 
-**Ícones das Notas:**
-- 🔴 **CRÍTICO** - Decisões textuais ou tradutórias importantes
-- 🟢 **LEXICAL** - Significados de palavras, campo semântico, termos do glossário
-- 🔵 **GRAMATICAL** - Estrutura grega, aspecto verbal, sintaxe
-- 🟡 **TEOLÓGICO** - Opções interpretativas, preservação de ambiguidade
-
 **Este capítulo é o mais saturado do AT na narrativa do nascimento.** Quatro citações formulares ("para que se cumprisse o que foi dito") conduzem a narrativa: Miqueias 5:1 (Beyt-Lechem (Belém)), Oseias 11:1 (de Mitsrayim (Egito)), Jeremias 31:15 (Raquel chorando) e um misterioso "Ele será chamado Natsri" sem uma única fonte no AT. Cada citação usa kyrios Opção C com a conexão YHWH do AT anotada. Os nomes próprios seguem a transliteração TT: Herodes (não Herodes Magno), Belém (não Belém), Egito (não Egito), Natseret (Nazaré) (não Nazaré).
 
 ---

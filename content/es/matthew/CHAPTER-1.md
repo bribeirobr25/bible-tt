@@ -34,12 +34,6 @@
 **"Comillas":** Discurso directo
 **el Señor:** kyrios traducido según la Política del Nombre Divino GS (Opción C) al citar pasajes del AT con YHWH
 
-**Iconos de Notas:**
-- 🔴 **CRÍTICO** - Decisiones textuales o traductoras importantes
-- 🟢 **LÉXICO** - Significados de palabras, rango semántico, términos del glosario
-- 🔵 **GRAMATICAL** - Estructura griega, aspecto verbal, sintaxis
-- 🟡 **TEOLÓGICO** - Opciones interpretativas, preservación de ambigüedad
-
 **Este capítulo abre el primer libro dispuesto en el canon de las Escrituras Griegas.** Mateo 1 comienza no con un prólogo cosmológico (como en Juan) sino con una genealogía — un *biblos geneseōs* ("libro de la génesis/origen") que traza una línea desde Avraham a través de David hasta Yeshua. La genealogía se estructura en tres conjuntos de catorce generaciones. Se nombran cuatro mujeres — Tamar, Rachav, Rut y la esposa de Uriyah — cada una con una entrada irregular o sorprendente en el linaje. Los nombres propios siguen la transliteración TT: Yeshua (no Jesús), Yosef (no José), Miryam (no María), Avraham (no Abraham), etc. Las formas familiares en español se anotan en la primera aparición. La narración del nacimiento (vv.18-25) introduce la ambigüedad virgen/joven mujer de Isaías 7:14. El griego *pneuma hagion* se traduce como "viento/espíritu santo" según el glosario fijado.
 
 ---

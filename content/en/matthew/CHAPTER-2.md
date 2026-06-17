@@ -33,12 +33,6 @@
 **"Quotes":** Direct speech
 **the Lord:** kyrios rendered per GS Divine Name Policy (Option C) when quoting OT YHWH passages
 
-**Note Icons:**
-- 🔴 **CRITICAL** - Major textual or translation decisions
-- 🟢 **LEXICAL** - Word meanings, semantic range, glossary terms
-- 🔵 **GRAMMATICAL** - Greek structure, verb aspect, syntax
-- 🟡 **THEOLOGICAL** - Interpretive options, ambiguity preservation
-
 **This chapter is the most OT-heavy chapter in the birth narrative.** Four formula quotations ("so that what was spoken might be fulfilled") drive the narrative: Micah 5:1 (Beyt-Lechem), Hosea 11:1 (out of Mitsrayim), Jeremiah 31:15 (Rachel weeping), and a mysterious "He shall be called a Natsri" with no single OT source. Each quotation uses kyrios Option C with the OT YHWH connection noted. Proper names follow TT transliteration: Herodes (not Herod), Beyt-Lechem (not Bethlehem), Mitsrayim (not Egypt), Natseret (not Nazareth).
 
 ---

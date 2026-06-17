@@ -27,18 +27,12 @@
 
 ## GUIA DE LEITURA
 
-**📖 Texto Principal:** Tradução primária—legível mas fiel à estrutura hebraica
-**📝 Notas:** Características hebraicas essenciais imediatamente abaixo de cada versículo
+**Texto Principal:** Tradução primária—legível mas fiel à estrutura hebraica
+**Notas:** Características hebraicas essenciais imediatamente abaixo de cada versículo
 ***Itálico:*** Palavras adicionadas para a gramática portuguesa (não presentes no texto hebraico)
 **"Aspas":** Discurso divino direto ou fala humana
 **YHWH:** Tetragrama transliterado consonantalmente (Regra 25, Opção A)
 **raqia, yatzar, etc.:** Termos hebraicos transliterados (explicados nas notas)
-
-**Ícones das Notas:**
-- 🔴 **CRÍTICO** - Decisões textuais ou tradutórias importantes
-- 🟢 **LEXICAL** - Significados de palavras, padrões de raízes, termos do glossário
-- 🔵 **GRAMATICAL** - Estrutura hebraica, formas verbais, sintaxe
-- 🟡 **TEOLÓGICO** - Opções interpretativas, preservação de ambiguidade
 
 **Este capítulo segue a Regra 23 (Sensibilidade de Gênero Literário):** As fórmulas travadas de Gênesis 1 NÃO se aplicam mecanicamente aqui. Gênesis 2 é narrativa, não ritmo litúrgico.
 
@@ -82,7 +76,7 @@
 
 E foram acabados os céus e a terra e todo o seu exército.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **EXÉRCITO**
 > - **צָבָא** (*tsava*) = exército/hoste—metáfora militar aplicada à totalidade da criação; frequentemente usado para hostes angélicas ou estelares, mas aqui simplesmente "tudo neles"
@@ -96,7 +90,7 @@ E foram acabados os céus e a terra e todo o seu exército.
 
 E Deus acabou no sétimo dia a sua obra que havia feito, e descansou no sétimo dia de toda a sua obra que havia feito.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **CRÍTICO - VARIANTE TEXTUAL**
 > - TM (Texto Massorético — o texto hebraico padrão) lê **בַּיּוֹם הַשְּׁבִיעִי** (*bayom hashvi'i*) = "no sétimo dia" para o *acabamento*. LXX (Septuaginta, a antiga tradução grega) e Pentateuco Samaritano leem "no sexto dia" (provável harmonização, pois acabar e descansar no mesmo dia é teologicamente desconfortável).
@@ -112,7 +106,7 @@ E Deus acabou no sétimo dia a sua obra que havia feito, e descansou no sétimo 
 
 E Deus abençoou o sétimo dia e o santificou, porque nele descansou de toda a sua obra que Deus criou *para* fazer.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **PRIMEIRA SANTIFICAÇÃO**
 > - **וַיְקַדֵּשׁ** (*vayeqaddesh*) = "e santificou/separou"—primeiro uso da raiz **ק-ד-שׁ** (*q-d-sh*) na Bíblia. A primeira coisa chamada santa é um *tempo*, não um lugar ou objeto.
@@ -126,7 +120,7 @@ E Deus abençoou o sétimo dia e o santificou, porque nele descansou de toda a s
 
 Estas *são* as gerações dos céus e da terra quando foram criados, no dia em que YHWH Elohim fez terra e céus.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **CRÍTICO - PRIMEIRO YHWH (Tetragrama)**
 > - **יהוה** (YHWH) aparece aqui pela primeira vez na Bíblia.
@@ -149,7 +143,7 @@ Estas *são* as gerações dos céus e da terra quando foram criados, no dia em 
 
 E todo arbusto do campo ainda não estava na terra, e toda erva do campo ainda não brotara, porque YHWH Elohim não fizera chover sobre a terra, e humano não havia para lavrar o solo.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **SÉRIE NEGATIVA PRÉ-CRIAÇÃO**
 > - Cadeia de cláusulas "ainda não" estabelece um estado pré-criação antes dos atos narrativos. Hebraico **טֶרֶם** (*terem*) = "ainda não/antes."
@@ -166,7 +160,7 @@ E todo arbusto do campo ainda não estava na terra, e toda erva do campo ainda n
 
 E *um* vapor subia da terra e regava toda a face do solo.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟡 **INCERTO - *ed***
 > - **אֵד** (*ed*) = palavra rara; aparece duas vezes na Bíblia Hebraica (aqui + Jó 36:27). Significado **INCERTO** — glosas **POSSÍVEIS**: vapor, névoa, fonte, fluxo. → Para o cognato acadiano *edû* e a tradição ANE sobre fontes de água, veja o companheiro do capítulo §B.
@@ -177,7 +171,7 @@ E *um* vapor subia da terra e regava toda a face do solo.
 
 E YHWH Elohim formou o humano, pó do solo, e soprou em suas narinas fôlego de vida, e o humano tornou-se *um* ser vivo.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **CRÍTICO - JOGO DE PALAVRAS *adam* / *adamah***
 > - **אָדָם** (*adam*) = humano; **אֲדָמָה** (*adamah*) = solo. Mesma raiz consonantal.
@@ -197,7 +191,7 @@ E YHWH Elohim formou o humano, pó do solo, e soprou em suas narinas fôlego de 
 
 E YHWH Elohim plantou um jardim em Éden, ao oriente, e colocou ali o humano que havia formado.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **ÉDEN**
 > - **עֵדֶן** (*Eden*) = nome de lugar aqui; homófono com substantivo comum que significa "delícia/prazer." Ressonância **POSSÍVEL**, não forçada na tradução.
@@ -211,7 +205,7 @@ E YHWH Elohim plantou um jardim em Éden, ao oriente, e colocou ali o humano que
 
 E YHWH Elohim fez brotar do solo toda árvore agradável à vista e boa para comida, e a árvore da vida no meio do jardim, e a árvore do conhecimento do bem e do mal.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **DUAS ÁRVORES**
 > - **עֵץ הַחַיִּים** (*etz ha-chayyim*) = "a árvore da vida" (com artigo em ambos os lugares). **עֵץ הַדַּעַת טוֹב וָרָע** (*etz hada'at tov va-ra*) = "a árvore do conhecimento-do-bem-e-do-mal." Duas árvores distintas introduzidas em um verso; ambas se tornam centrais em Gn 3.
@@ -225,7 +219,7 @@ E YHWH Elohim fez brotar do solo toda árvore agradável à vista e boa para com
 
 E *um* rio saindo de Éden para regar o jardim, e de lá se dividia e se tornava quatro cabeças.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **PARTICÍPIO - CONTÍNUO**
 > - **יֹצֵא** (*yotze*) = "saindo" (particípio)—ação contínua/habitual, não passado concluído.
@@ -236,7 +230,7 @@ E *um* rio saindo de Éden para regar o jardim, e de lá se dividia e se tornava
 
 O nome do primeiro *é* Pisom; *é* o que rodeia toda a terra de Havilá, onde *há o* ouro.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **NOMES PRÓPRIOS**
 > - **פִּישׁוֹן** (*Pisom*), **חֲוִילָה** (*Havilá*)—transliterados; identificação geográfica **INCERTA** em termos modernos.
@@ -247,7 +241,7 @@ O nome do primeiro *é* Pisom; *é* o que rodeia toda a terra de Havilá, onde *
 
 E o ouro daquela terra *é* bom; ali *há* o bdélio e a pedra shoham.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟡 **MATERIAIS INCERTOS**
 > - **בְּדֹלַח** (*bedolach*) = "bdélio"—resina vegetal ou possivelmente uma pedra preciosa; identificação debatida.
@@ -259,7 +253,7 @@ E o ouro daquela terra *é* bom; ali *há* o bdélio e a pedra shoham.
 
 E o nome do segundo rio *é* Giom; *é* o que rodeia toda a terra de Cush.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **CUSH**
 > - **כּוּשׁ** (*Kush*) = região ao sul do Egito (atuais Sudão/Etiópia), embora a geografia aqui seja debatida.
@@ -270,7 +264,7 @@ E o nome do segundo rio *é* Giom; *é* o que rodeia toda a terra de Cush.
 
 E o nome do terceiro rio *é* Hiddequel; *é* o que corre ao oriente de Assur. E o quarto rio, esse *é* Perat.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **RIOS IDENTIFICÁVEIS**
 > - **חִדֶּקֶל** (*Hiddequel*) = Tigre; **פְּרָת** (*Perat*) = Eufrates. Rios 1–2 (Pisom, Giom) **INCERTOS**. → Para a geografia dos rios mesopotâmicos e contexto ANE, veja o companheiro do capítulo §B.
@@ -281,7 +275,7 @@ E o nome do terceiro rio *é* Hiddequel; *é* o que corre ao oriente de Assur. E
 
 E YHWH Elohim tomou o humano e o colocou no jardim de Éden para lavrá-lo e guardá-lo.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **LAVRAR E GUARDAR**
 > - **לְעָבְדָהּ וּלְשָׁמְרָהּ** (*le'ovdah ulshomrah*) = "para lavrá-lo/servi-lo e para guardá-lo"—sufixos femininos (antecedente **INCERTO** — **POSSÍVEL**: *gan* ou *adamah*). Infinitivos pareados: **ע-ב-ד** (servir/trabalhar), **שׁ-מ-ר** (guardar/observar). → Para o eco do Tabernáculo (Nm 3:7–8, 8:26) e o intertexto sacerdotal-vocacional, veja o companheiro do capítulo §C.
@@ -292,7 +286,7 @@ E YHWH Elohim tomou o humano e o colocou no jardim de Éden para lavrá-lo e gua
 
 E YHWH Elohim ordenou ao humano, dizendo: @@"De toda árvore do jardim comendo comerás.@@
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **INFINITIVO ABSOLUTO**
 > - **אָכֹל תֹּאכֵל** (*akhol tokhel*) = "comendo comerás"—construção hebraica de **infinitivo absoluto** usada para ênfase. Traduções tradicionais suavizadas: "livremente comerás" / "certamente comerás."
@@ -304,7 +298,7 @@ E YHWH Elohim ordenou ao humano, dizendo: @@"De toda árvore do jardim comendo c
 
 @@Mas da árvore do conhecimento do bem e do mal não comerás dela, porque no dia em que dela comeres morrendo morrerás."@@
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **INFINITIVO ABSOLUTO (NEGATIVO)**
 > - **מוֹת תָּמוּת** (*mot tamut*) = "morrendo morrerás"—mesma construção enfática de infinitivo absoluto do v.16. Tradução tradicional suavizada: "certamente morrerás."
@@ -320,7 +314,7 @@ E YHWH Elohim ordenou ao humano, dizendo: @@"De toda árvore do jardim comendo c
 
 E YHWH Elohim disse: @@"Não bom o ser do humano sozinho; farei para ele *um* ajudador como seu correspondente."@@
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **CRÍTICO - *ezer kenegdo***
 > - **עֵזֶר כְּנֶגְדּוֹ** (*ezer kenegdo*) = "ajudador como seu correspondente." **NÃO "auxiliadora idônea"**, que importa compressão alheia ao hebraico.
@@ -336,7 +330,7 @@ E YHWH Elohim disse: @@"Não bom o ser do humano sozinho; farei para ele *um* aj
 
 E YHWH Elohim formou do solo todo animal do campo e toda ave do céu, e *os* trouxe ao humano para ver o que chamaria a cada um; e tudo o que o humano chamou a *cada* ser vivo, esse *é* o seu nome.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **yatzar NOVAMENTE**
 > - *yatzar* (formou) é usado aqui para os animais—mesmo verbo do v.7 usado para o humano. **NÃO *bara*** (que Gn 1:21 usou para animais e 1:27 para humanos). Gn 2 prefere o verbo do oleiro.
@@ -350,7 +344,7 @@ E YHWH Elohim formou do solo todo animal do campo e toda ave do céu, e *os* tro
 
 E o humano deu nomes a todo o gado, e às aves do céu, e a todo animal do campo, mas para o humano não encontrou ajudador como seu correspondente.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **NOMEAÇÃO**
 > - Nomear no antigo Oriente Próximo é ato de domínio/classificação—ecoa *radah* (dominar) de Gn 1:26, 28 executado em forma concreta. Não importação teológica; nota estrutural.
@@ -364,7 +358,7 @@ E o humano deu nomes a todo o gado, e às aves do céu, e a todo animal do campo
 
 E YHWH Elohim fez cair um sono profundo sobre o humano, e ele dormiu; e tomou um de seus {a:lados/costelas}, e fechou carne no lugar dela.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **SONO PROFUNDO**
 > - **תַּרְדֵּמָה** (*tardemah*) = "sono profundo"—distinto de sono comum; usado mais tarde para sono induzido divinamente (e.g., Abraão, Gn 15:12). Não transe, não morte.
@@ -379,7 +373,7 @@ E YHWH Elohim fez cair um sono profundo sobre o humano, e ele dormiu; e tomou um
 
 E YHWH Elohim construiu o {a:lado/costela} que havia tomado do humano em *uma* mulher, e a trouxe ao humano.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **NOVO VERBO - *banah***
 > - **וַיִּבֶן** (*vayyiven*) = "e construiu"—raiz **ב-נ-ה** (*b-n-h*), verbo de construção. Único lugar nos relatos da criação onde a ação de Deus é descrita como **construção**. Distinto de *bara*, *asah*, *yatzar*.
@@ -391,7 +385,7 @@ E YHWH Elohim construiu o {a:lado/costela} que havia tomado do humano em *uma* m
 
 E o humano disse: "Esta, desta vez, osso dos meus ossos e carne da minha carne; a esta será chamada *ishah* (mulher), porque do *ish* (homem) foi tomada esta."
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **CRÍTICO - JOGO DE PALAVRAS *ish* / *ishah***
 > - **אִישׁ** (*ish*) = homem; **אִשָּׁה** (*ishah*) = mulher. O par fonético é preservado em transliteração no texto principal para que o jogo hebraico seja visível. Etimologicamente as duas palavras **não** são da mesma raiz (apesar das aparências), mas o texto joga com o som.
@@ -406,7 +400,7 @@ E o humano disse: "Esta, desta vez, osso dos meus ossos e carne da minha carne; 
 
 Por isso deixará *um* homem seu pai e sua mãe e se unirá à sua mulher, e se tornarão uma só carne.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **APARTE DO NARRADOR**
 > - Mudança do discurso da personagem (v.23) para comentário do narrador (v.24). Hebraico **עַל־כֵּן** (*al-ken*) = "por isso / por esta razão"—marcador etiológico explicando prática presente.
@@ -420,7 +414,7 @@ Por isso deixará *um* homem seu pai e sua mãe e se unirá à sua mulher, e se 
 
 E estavam ambos nus, o humano e sua mulher, e não se envergonhavam.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **JOGO DE PALAVRAS QUE PRENUNCIA**
 > - **עֲרוֹם** (*arom*) = nu. Gn 3:1 abre com **עָרוּם** (*arum*) = astuto/sagaz (da serpente). Mesmas consoantes, vocalização diferente. Jogo de palavras hebraico prenunciando a cena seguinte.

@@ -34,12 +34,6 @@
 **"Comillas":** Discurso directo
 **el Señor:** kyrios traducido según la Política del Nombre Divino GS (Opción C) al citar pasajes del AT con YHWH
 
-**Iconos de Notas:**
-- 🔴 **CRÍTICO** - Decisiones textuales o traductoras importantes
-- 🟢 **LÉXICO** - Significados de palabras, rango semántico, términos del glosario
-- 🔵 **GRAMATICAL** - Estructura griega, aspecto verbal, sintaxis
-- 🟡 **TEOLÓGICO** - Opciones interpretativas, preservación de ambigüedad
-
 **Este capítulo es el más cargado del AT en la narrativa del nacimiento.** Cuatro fórmulas de citación ("para que se cumpliera lo dicho") impulsan la narrativa: Miqueas 5:1 (Beyt-Lechem), Oseas 11:1 (fuera de Mitsrayim), Jeremías 31:15 (Raquel llorando), y un misterioso "Será llamado Natsri" sin una fuente única del AT. Cada cita usa kyrios Opción C con la conexión YHWH del AT anotada. Los nombres propios siguen la transliteración TT: Herodes (no Herodes familiar), Beyt-Lechem (no Belén), Mitsrayim (no Egipto), Natseret (no Nazaret).
 
 ---

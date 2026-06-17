@@ -29,17 +29,11 @@
 
 ## GUIA DE LEITURA
 
-**📖 Texto Principal:** Tradução primária—legível mas fiel à estrutura hebraica
-**📝 Notas:** Características hebraicas essenciais imediatamente abaixo de cada versículo
+**Texto Principal:** Tradução primária—legível mas fiel à estrutura hebraica
+**Notas:** Características hebraicas essenciais imediatamente abaixo de cada versículo
 ***Itálico:*** Palavras adicionadas para a gramática portuguesa (não presentes no texto hebraico)
 **"Aspas":** Discurso divino direto
 **raqia:** Termos hebraicos transliterados (explicados nas notas)
-
-**Ícones das Notas:**
-- 🔴 **CRÍTICO** - Decisões textuais ou tradutórias importantes
-- 🟢 **LEXICAL** - Significados de palavras, padrões de raízes, termos do glossário
-- 🔵 **GRAMATICAL** - Estrutura hebraica, formas verbais, sintaxe
-- 🟡 **TEOLÓGICO** - Opções interpretativas, preservação de ambiguidade
 
 ## VISÃO GERAL DO CAPÍTULO
 
@@ -79,7 +73,7 @@
 
 Em princípio, Deus criou os céus e a terra.
 
-> **📝 NOTAS**
+> **NOTAS**
 > 
 > 🔴 **CRÍTICO - Estrutura e Interpretação**  
 > Hebraico: **בְּרֵאשִׁית בָּרָא אֱלֹהִים אֵת הַשָּׁמַיִם וְאֵת הָאָֽרֶץ** (*Bereshit bara elohim et hashamayim ve'et ha'aretz*)
@@ -100,7 +94,7 @@ Em princípio, Deus criou os céus e a terra.
 
 E a terra estava caos e vazio, e trevas sobre a face do abismo, e {a:vento/espírito} de Deus pairando sobre a face das águas.
 
-> **📝 NOTAS**
+> **NOTAS**
 > 
 > 🟡 **AMBIGUIDADE PRESERVADA**
 > - **תֹהוּ וָבֹהוּ** (*tohu vavohu*) = frase rara (aparece apenas 3x na Bíblia); significado exato **INCERTO**; associada com destruição/desolação. "Caos e vazio" é tradução **POSSÍVEL**. Evitar especulação cosmológica elaborada.
@@ -116,7 +110,7 @@ E a terra estava caos e vazio, e trevas sobre a face do abismo, e {a:vento/espí
 
 E Deus disse: @@"Haja luz,"@@ e luz foi.
 
-> **📝 NOTAS**
+> **NOTAS**
 > 
 > 🔵 **JUSSIVO & VAV CONVERSIVO** (Explicado aqui; não repetido em versículos posteriores)
 > - **יְהִי** (*yehi*) = forma futura/jussiva usada como comando divino—literalmente "será" em vez de imperativo
@@ -129,7 +123,7 @@ E Deus disse: @@"Haja luz,"@@ e luz foi.
 
 E Deus viu a luz, que bom, e Deus separou entre a luz e entre as trevas.
 
-> **📝 NOTAS**
+> **NOTAS**
 > 
 > 🔵 **AVALIAÇÃO COMPRIMIDA**
 > - Hebraico **כִּי־טוֹב** (*ki-tov*) = "que bom" sem explícito "era"—Edição Transparente preserva compressão hebraica; Edição do Leitor expandiria para "que era bom"
@@ -141,7 +135,7 @@ E Deus viu a luz, que bom, e Deus separou entre a luz e entre as trevas.
 
 E Deus chamou à luz "Dia," e às trevas chamou "Noite." E foi tarde, e foi manhã, um dia.
 
-> **📝 NOTAS**
+> **NOTAS**
 > 
 > 🔴 **CRÍTICO - Dia UM, Não PRIMEIRO**
 > - Hebraico **יוֹם אֶחָד** (*yom echad*) = "dia UM" (número cardinal)—NÃO ordinal **רִאשׁוֹן** (*rishon* = "primeiro"). Dias 2-6 usam ordinais (segundo, terceiro, quarto, quinto, sexto). **Dia 1 tratado linguisticamente diferente—isto é significativo.**
@@ -156,7 +150,7 @@ E Deus chamou à luz "Dia," e às trevas chamou "Noite." E foi tarde, e foi manh
 
 E Deus disse: @@"Haja {t:raqia} (expansão) dentro das águas, e seja um separador entre águas e águas."@@
 
-> **📝 NOTAS**
+> **NOTAS**
 > 
 > 🔴 **CRÍTICO - INTRODUÇÃO DO RAQIA**
 > - Hebraico **רָקִיעַ** (*raqia*) da raiz **ר-ק-ע** = "martelar/bater"—descreve estrutura martelada ou batida
@@ -173,7 +167,7 @@ E Deus disse: @@"Haja {t:raqia} (expansão) dentro das águas, e seja um separad
 
 E Deus fez o {t:raqia}, e separou entre as águas que debaixo do {t:raqia} e entre as águas que acima do {t:raqia}. E foi assim.
 
-> **📝 NOTAS**
+> **NOTAS**
 > 
 > 🟢 **MUDANÇA DE VERBO**
 > - **בָּרָא** (*bara* = criou, v.1) vs. **עָשָׂה** (*asah* = fez, v.7)—ambos usados para ação divina; distinção **POSSÍVEL**: o escopo preciso de *bara* (se implica criação do nada ou remodelação de material existente) é debatido
@@ -187,7 +181,7 @@ E Deus fez o {t:raqia}, e separou entre as águas que debaixo do {t:raqia} e ent
 
 E Deus chamou ao {t:raqia} "Céu." E foi tarde, e foi manhã, segundo dia.
 
-> **📝 NOTAS**
+> **NOTAS**
 > 
 > 🔴 **CRÍTICO - RAQIA = IDENTIFICAÇÃO COM CÉU**
 > - Deus explicitamente identifica **raqia = shamayim (céu)**—o texto confirma que *raqia* refere-se ao céu/expansão visível acima. O alcance semântico de *raqia* (da raiz "martelar/bater") permanece debatido; intérpretes antigos o entenderam variadamente como abóbada sólida, expansão atmosférica ou camada-limite. A nomeação aqui ancora o termo no domínio celeste sem resolver essas questões.
@@ -202,7 +196,7 @@ E Deus chamou ao {t:raqia} "Céu." E foi tarde, e foi manhã, segundo dia.
 
 E Deus disse: @@"Sejam ajuntadas as águas de debaixo do céu a um lugar, e seja vista a terra seca."@@ E foi assim.
 
-> **📝 NOTAS**
+> **NOTAS**
 > 
 > 🔵 **VOZ PASSIVA PRESERVADA**
 > - **יִקָּווּ** (*yikavu*) = "sejam ajuntadas" (passiva); **תֵרָאֶה** (*teira'eh*) = "seja vista" (passiva)—não comandos ativos às águas, mas causação divina passiva
@@ -217,7 +211,7 @@ E Deus disse: @@"Sejam ajuntadas as águas de debaixo do céu a um lugar, e seja
 
 E Deus chamou à terra seca "Terra," e ao ajuntamento das águas chamou "Mares." E Deus viu que bom.
 
-> **📝 NOTAS**
+> **NOTAS**
 > 
 > 🟢 **SINGULAR vs. PLURAL**
 > - **אֶרֶץ** (*eretz*) = terra (SINGULAR massa continental conectada); **יַמִּים** (*yamim*) = mares (PLURAL corpos de água separados)
@@ -229,7 +223,7 @@ E Deus chamou à terra seca "Terra," e ao ajuntamento das águas chamou "Mares."
 
 E Deus disse: @@"Produza a terra relva, ervas semeando semente, árvores frutíferas fazendo fruto segundo a sua espécie, cuja semente nela, sobre a terra."@@ E foi assim.
 
-> **📝 NOTAS**
+> **NOTAS**
 > 
 > 🟢 **VERBO RARO - "PRODUZIR RELVA"**
 > - **תַּדְשֵׁא** (*tadsheh*) = verbo criado do substantivo **דֶּשֶׁא** (relva)—similar a "produzir relva". Português mantém naturalidade melhor que inglês "shall grass".
@@ -248,7 +242,7 @@ E Deus disse: @@"Produza a terra relva, ervas semeando semente, árvores frutíf
 
 E a terra produziu relva, ervas semeando semente segundo a sua espécie, e árvores fazendo fruto cuja semente nela, segundo a sua espécie. E Deus viu que bom.
 
-> **📝 NOTAS**
+> **NOTAS**
 > 
 > 🔵 **PADRÃO COMANDO → CUMPRIMENTO**
 > - v.11 comando → v.12 cumprimento com redação quase idêntica—mostra conformidade exata
@@ -266,7 +260,7 @@ E foi tarde, e foi manhã, terceiro dia.
 
 E Deus disse: @@"Haja luminares no {t:raqia}, para separar entre o dia e entre a noite, e sejam para sinais e para tempos determinados e para dias e anos.@@
 
-> **📝 NOTAS**
+> **NOTAS**
 > 
 > 🟢 **LUMINARES INTRODUZIDOS**
 > - **מְאֹרֹת** (*me'orot*) = luminares/portadores de luz da raiz **א-ו-ר** (luz)—plural mas referentes específicos não nomeados até v.16
@@ -289,7 +283,7 @@ E Deus disse: @@"Haja luminares no {t:raqia}, para separar entre o dia e entre a
 
 E Deus fez os dois grandes luminares: o luminar maior para domínio do dia, e o luminar menor para domínio da noite, e as estrelas.
 
-> **📝 NOTAS**
+> **NOTAS**
 > 
 > 🔴 **CRÍTICO - LUMINARES NÃO NOMEADOS**
 > - Sol e lua **DEIXADOS SEM NOME**—descritos apenas como "luminar maior" e "luminar menor"
@@ -307,7 +301,7 @@ E Deus fez os dois grandes luminares: o luminar maior para domínio do dia, e o 
 
 E Deus os colocou no {t:raqia}, para alumiar sobre a terra.
 
-> **📝 NOTAS**
+> **NOTAS**
 > 
 > 🔵 **COLOCAÇÃO**
 > - Luzes colocadas **NO** raqia—contraste: aves voam **SOBRE** o raqia (v.20)
@@ -318,7 +312,7 @@ E Deus os colocou no {t:raqia}, para alumiar sobre a terra.
 
 E para dominar no dia e na noite, e para separar entre a luz e entre as trevas. E Deus viu que bom.
 
-> **📝 NOTAS**
+> **NOTAS**
 > 
 > 🔵 **INFINITIVOS DE PROPÓSITO**
 > - "Para dominar...e para separar"—funções paralelas dos luminares
@@ -335,7 +329,7 @@ E foi tarde, e foi manhã, quarto dia.
 
 E Deus disse: @@"Pululem as águas enxames de seres vivos, e aves voem sobre a terra, sobre a face do {t:raqia}."@@
 
-> **📝 NOTAS**
+> **NOTAS**
 > 
 > 🔴 **CRÍTICO - SERES VIVOS INTRODUZIDOS**
 > - **נֶפֶשׁ חַיָּה** (*nefesh chayah*) = ser vivo/seres vivos—literalmente "respiração/garganta/alma viva"; **NÃO "alma" em sentido filosófico posterior**
@@ -354,7 +348,7 @@ E Deus disse: @@"Pululem as águas enxames de seres vivos, e aves voem sobre a t
 
 E Deus criou as grandes criaturas marinhas, e todo ser vivo, os que se movem que as águas pulularam, segundo as suas espécies, e toda ave alada segundo a sua espécie. E Deus viu que bom.
 
-> **📝 NOTAS**
+> **NOTAS**
 > 
 > 🔴 **CRÍTICO - CRIOU, NÃO FEZ**
 > - **בָּרָא** (*bara* = criou) retorna pela primeira vez desde v.1—usado para seres vivos, NÃO para luzes ou plantas; sugere distinção de significância
@@ -369,7 +363,7 @@ E Deus criou as grandes criaturas marinhas, e todo ser vivo, os que se movem que
 
 E Deus os abençoou, dizendo: @@"Frutificai e multiplicai-vos, e enchei as águas nos mares, e multipliquem-se as aves na terra."@@
 
-> **📝 NOTAS**
+> **NOTAS**
 > 
 > 🔴 **PRIMEIRA FÓRMULA DE BÊNÇÃO**
 > - **וַיְבָרֶךְ** (*vayvarekh*) = "e abençoou" (primeira ocorrência)—recorrerá: v.28 (humanos), Gênesis 2:3 (sétimo dia)
@@ -390,7 +384,7 @@ E foi tarde, e foi manhã, quinto dia.
 
 E Deus disse: @@"Produza a terra seres vivos segundo a sua espécie: gado e répteis e animais da terra, segundo a sua espécie."@@ E foi assim.
 
-> **📝 NOTAS**
+> **NOTAS**
 > 
 > 🟢 **NEFESH CHAYAH - Animais Terrestres**
 > - **נֶפֶשׁ חַיָּה** agora aplicado a animais terrestres (anteriormente criaturas aquáticas, vv.20-21)
@@ -405,7 +399,7 @@ E Deus disse: @@"Produza a terra seres vivos segundo a sua espécie: gado e rép
 
 E Deus fez os animais da terra segundo a sua espécie, e o gado segundo a sua espécie, e todo réptil do solo segundo a sua espécie. E Deus viu que bom.
 
-> **📝 NOTAS**
+> **NOTAS**
 > 
 > 🟢 **SOLO vs. TERRA**
 > - **אֲדָמָה** (*adamah*) = solo (PRIMEIRA ocorrência)—distinto de **אֶרֶץ** (*eretz* = terra)
@@ -418,7 +412,7 @@ E Deus fez os animais da terra segundo a sua espécie, e o gado segundo a sua es
 
 E Deus disse: @@"Façamos *um* humano à nossa imagem, conforme a nossa semelhança, e dominem sobre os peixes do mar e sobre as aves do céu e sobre o gado e sobre toda a terra e sobre todo réptil que se move sobre a terra."@@
 
-> **📝 NOTAS**
+> **NOTAS**
 > 
 > 🟡 **CRÍTICO - DISCURSO DIVINO PLURAL**
 > - Primeira pessoa **PLURAL**: "**façamos**...à **nossa** imagem...**nossa** semelhança"
@@ -444,7 +438,7 @@ E Deus disse: @@"Façamos *um* humano à nossa imagem, conforme a nossa semelhan
 
 E Deus criou o humano à sua imagem; à imagem de Deus o criou; macho e fêmea os criou.
 
-> **📝 NOTAS**
+> **NOTAS**
 > 
 > 🔴 **CRÍTICO - TRIPLA ÊNFASE DE CRIAÇÃO**
 > - **בָּרָא** (*bara* = criou) usado **TRÊS VEZES**—**ÚNICA ocorrência** de tripla repetição de verbo em um versículo; mostra máxima significância/ênfase
@@ -463,7 +457,7 @@ E Deus criou o humano à sua imagem; à imagem de Deus o criou; macho e fêmea o
 
 E Deus os abençoou, e Deus lhes disse: @@"Frutificai e multiplicai-vos, e enchei a terra e sujeitai-a, e dominai sobre os peixes do mar e sobre as aves do céu e sobre todo animal que se move sobre a terra."@@
 
-> **📝 NOTAS**
+> **NOTAS**
 > 
 > 🔵 **FÓRMULA DE BÊNÇÃO**
 > - Como v.22 (criaturas marinhas/aves), mas expandida para humanos com comandos adicionais
@@ -484,7 +478,7 @@ E Deus os abençoou, e Deus lhes disse: @@"Frutificai e multiplicai-vos, e enche
 
 E Deus disse: @@"Eis que vos dei toda erva semeando semente que *está* sobre a face de toda a terra, e toda árvore em que *há* fruto de árvore semeando semente; a vós será para alimento.@@
 
-> **📝 NOTAS**
+> **NOTAS**
 > 
 > 🔵 **PARTÍCULA DE ATENÇÃO**
 > - **הִנֵּה** (*hineh*) = "eis"—sinaliza anúncio importante
@@ -501,7 +495,7 @@ E Deus disse: @@"Eis que vos dei toda erva semeando semente que *está* sobre a 
 
 @@E a todo animal da terra e a toda ave do céu e a todo réptil sobre a terra, em que *há* ser vivo, toda erva verde para alimento."@@ E foi assim.
 
-> **📝 NOTAS**
+> **NOTAS**
 > 
 > 🟢 **NEFESH CHAYAH = Qualificador**
 > - **נֶפֶשׁ חַיָּה** distingue animais com respiração/vida de plantas
@@ -516,7 +510,7 @@ E Deus disse: @@"Eis que vos dei toda erva semeando semente que *está* sobre a 
 
 E Deus viu tudo o que havia feito, e eis que muito bom. E foi tarde, e foi manhã, o sexto dia.
 
-> **📝 NOTAS**
+> **NOTAS**
 > 
 > 🔴 **CRÍTICO - MUDANÇA DE AVALIAÇÃO: MUITO BOM**
 > - **טוֹב מְאֹד** (*tov me'od*) = "MUITO bom" vs. simples **טוֹב** (*tov* = "bom") em TODOS os dias anteriores

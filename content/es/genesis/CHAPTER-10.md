@@ -27,17 +27,11 @@
 
 ## GUÍA DE LECTURA
 
-**📖 Texto Principal:** Traducción primaria — legible pero fiel a la estructura hebrea
-**📝 Notas:** Rasgos hebreos esenciales inmediatamente debajo de cada versículo
+**Texto Principal:** Traducción primaria — legible pero fiel a la estructura hebrea
+**Notas:** Rasgos hebreos esenciales inmediatamente debajo de cada versículo
 ***Cursiva:*** Palabras añadidas para la gramática del español (no están en el texto hebreo)
 **"Comillas":** Discurso divino directo
 **YHWH:** Tetragrama rendido consonantalmente (Regla 25, Opción A)
-
-**Iconos de Notas:**
-- 🔴 **CRÍTICO** - Decisiones textuales o de traducción mayores
-- 🟢 **LÉXICO** - Significados de palabras, patrones de raíces, términos del glosario
-- 🔵 **GRAMATICAL** - Estructura hebrea, formas verbales, sintaxis
-- 🟡 **TEOLÓGICO** - Opciones interpretativas, preservación de ambigüedad
 
 **Este capítulo es la Tabla de las Naciones — un catálogo genealógico-geográfico de los descendientes de los tres hijos de Noaj (Noé): Sem, Cam y Yafet (Jafet).** Se abre con la cuarta fórmula *toledot* (10:1) y traza el mapa del mundo humano postdiluviano a través de linaje, lengua, territorio y nación. La mayor parte del capítulo es lista genealógica; la sección de Nimrod (10:8–12) es la principal excepción narrativa. YHWH aparece solo una vez (10:9). El capítulo cierra con una fórmula resumida (10:32) que hace eco de la estructura *toledot*. Los nombres aquí son simultáneamente personas, pueblos y lugares — el texto no siempre distingue entre el antepasado y la nación que lleva ese nombre.
 
@@ -79,7 +73,7 @@
 
 Y estas *son* las generaciones de los hijos de Noé — Sem, Cam y Jafet; y les nacieron hijos después del diluvio.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟡 **NIVEL 2 — ADVERTENCIA DE ETNOGÉNESIS**
 > - El marco genealógico de este capítulo no debe usarse para construir jerarquías étnicas, raciales o nacionales modernas. La Tabla de las Naciones es un documento político-geográfico antiguo, no una taxonomía biológica de los pueblos modernos. Vea el compañero Sección F para contexto histórico sobre el uso indebido documentado.
@@ -96,7 +90,7 @@ Y estas *son* las generaciones de los hijos de Noé — Sem, Cam y Jafet; y les 
 
 Los hijos de Jafet: Gomer, y Magog, y Madai, y Yavan, y Tuval, y Meshekh, y Tiras.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **LÍNEA DE YAFET — LOS PUEBLOS DEL NORTE Y DEL OESTE**
 > - Siete hijos de Jafet. Identificaciones estándar (todas PROBABLES salvo indicación): **Gomer** = Cimerios (acadio *Gimirri*); **Magog** = incierto (asociado con escitas o pueblos anatolios — POSIBLE); **Madai** = Medos; **Yavan** (יָוָן) = Jonios / Grecia (correspondencia bien atestiguada); **Tuval** = Tabal (Anatolia oriental); **Meshekh** = Mushki (Anatolia/Frigia); **Tiras** = incierto (¿Tracios? ¿Tirrenos? — POSIBLE para ambos).
@@ -110,7 +104,7 @@ Los hijos de Jafet: Gomer, y Magog, y Madai, y Yavan, y Tuval, y Meshekh, y Tira
 
 Y los hijos de Gomer: Ashkenaz, y Rifat, y Togarmah.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **IDENTIFICACIONES**
 > - **Ashkenaz** = Escitas (PROBABLE; cf. acadio *Ashkuza/Ishkuza*). Posteriormente se convirtió en la designación judía para tierras germánicas. **Rifat** = incierto (algunos MSS leen *Difat*; cf. 1 Cr 1:6). **Togarmah** = Anatolia oriental / Armenia (PROBABLE).
@@ -121,7 +115,7 @@ Y los hijos de Gomer: Ashkenaz, y Rifat, y Togarmah.
 
 Y los hijos de Yavan: Elishah, y Tarshish, Kittim, y Dodanim.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **IDENTIFICACIONES**
 > - **Elishah** = Alashiya / Chipre (PROBABLE). **Tarshish** = Mediterráneo occidental, posiblemente Tarteso en España (POSIBLE) o Cerdeña (POSIBLE). **Kittim** = Chipre / Kition (PROBABLE). **Dodanim** = incierto; algunos MSS y 1 Cr 1:7 leen **Rodanim** (= Rodas, POSIBLE). Nota: *Kittim* y *Dodanim* llevan el sufijo plural *-im* — estos son pueblos, no individuos.
@@ -135,7 +129,7 @@ Y los hijos de Yavan: Elishah, y Tarshish, Kittim, y Dodanim.
 
 De estos se dispersaron los pueblos costeros en sus tierras, cada uno por su lengua, por sus clanes, en sus naciones.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **"PUEBLOS COSTEROS" (*iyyei ha-goyim*)**
 > - **אִיֵּי הַגּוֹיִם** = "las costas/islas de las naciones." *Iyyim* (אִיִּים) = costas, islas, regiones marítimas. Los descendientes de Jafet son los pueblos marítimos — los que se dispersaron por costas e islas. Este término aparece frecuentemente en la literatura profética (Is 42:4, 49:1) para pueblos distantes.
@@ -152,7 +146,7 @@ De estos se dispersaron los pueblos costeros en sus tierras, cada uno por su len
 
 Y los hijos de Cam: Kush, y Egipto, y Put, y Canaán.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **LÍNEA DE CAM — LOS PUEBLOS DEL SUR Y DEL ESTE**
 > - Cuatro hijos de Cam. Identificaciones: **Kush** (כּוּשׁ) = Nubia / región del alto Nilo (PROBABLE; frecuentemente rendido "Etiopía" en traducciones antiguas, pero esto es engañoso — el antiguo Kush ≠ la Etiopía moderna). **Egipto** (מִצְרַיִם) = Egipto (bien atestiguado; el nombre hebreo estándar para Egipto; la forma dual *-ayim* puede reflejar el Alto y Bajo Egipto). **Put** (פּוּט) = Libia o Punt (POSIBLE para ambos; identificación debatida). **Canaán** (כְּנַעַן) = los Cananeos / tierra de Canaán.
@@ -166,7 +160,7 @@ Y los hijos de Cam: Kush, y Egipto, y Put, y Canaán.
 
 Y los hijos de Kush: Seva, y Javilah, y Savtah, y Ramah, y Savtekha; y los hijos de Ramah: Sheva, y Dedan.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **IDENTIFICACIONES**
 > - **Seva** (סְבָא) = Saba en Arabia meridional (PROBABLE). **Javilah** (חֲוִילָה) = región en Arabia (POSIBLE; cf. Gn 2:11 — el mismo nombre aparece en la línea de Sem en 10:29, sugiriendo territorios superpuestos). **Savtah** = incierto. **Ramah** (רַעְמָה) = Ragma en la península arábiga (POSIBLE). **Savtekha** = incierto. **Sheva** (שְׁבָא) = Saba, Arabia meridional / Yemen (PROBABLE). **Dedan** (דְּדָן) = Arabia noroccidental (PROBABLE; cf. Jer 49:8, Ez 25:13).
@@ -180,7 +174,7 @@ Y los hijos de Kush: Seva, y Javilah, y Savtah, y Ramah, y Savtekha; y los hijos
 
 Y Kush engendró a Nimrod; él comenzó a ser un poderoso en la tierra.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **NIMROD — EXPANSIÓN NARRATIVA**
 > - La lista genealógica se detiene para su única sección narrativa (vv.8–12). Nimrod es el primer individuo en la Tabla de las Naciones que recibe una descripción más allá de un nombre. Él no es un pueblo ni una nación — es una persona con una historia.
@@ -197,7 +191,7 @@ Y Kush engendró a Nimrod; él comenzó a ser un poderoso en la tierra.
 
 Él fue un poderoso cazador ante YHWH; por eso se dice: "Como Nimrod, poderoso cazador ante YHWH."
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **CRÍTICO — "ANTE YHWH" (*lifnei YHWH*)**
 > - **לִפְנֵי יהוה** = "ante YHWH" / "en el rostro de YHWH." Esta frase es ambigua: (1) "con la aprobación/bendición de YHWH" — superlativamente grande (cf. Gn 13:13, "pecadores ante YHWH" = pecadores a juicio de YHWH); (2) "en el rostro de YHWH" = en desafío, confrontación (cf. la narrativa de Bavel en Cap. 11). Ambas lecturas son POSIBLES. La TT rinde literalmente y no resuelve la ambigüedad.
@@ -217,7 +211,7 @@ Y Kush engendró a Nimrod; él comenzó a ser un poderoso en la tierra.
 
 Y el principio de su reino fue Bavel, y Erekh, y Akkad, y Kalneh, en la tierra de Shinar.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **EL REINO DE NIMROD — PRIMER USO DE "REINO" (*mamlakhah*)**
 > - **מַמְלַכְתּוֹ** (*mamlakhto*) = "su reino." Esta es la primera aparición de *mamlakhah* (reino/dominio) en la Biblia. Nimrod es el primer rey, el primer constructor de imperios. La institución de la realeza entra en la narrativa a través de la línea de Cam, a través de Kush.
@@ -234,7 +228,7 @@ Y el principio de su reino fue Bavel, y Erekh, y Akkad, y Kalneh, en la tierra d
 
 De aquella tierra salió *hacia* Ashshur, y construyó Nínive, y Rejovot-Ir, y Kelaj,
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **"SALIÓ HACIA ASHSHUR" — AMBIGÜEDAD**
 > - **מִן־הָאָרֶץ הַהִוא יָצָא אַשּׁוּר** = dos lecturas: (1) "De aquella tierra **él** [Nimrod] salió hacia Asiria" — Nimrod se expandió hacia el norte; (2) "De aquella tierra **Ashshur** salió" — Ashshur (hijo de Sem, v.22) se fue a causa de la expansión de Nimrod. Ambas son gramaticalmente POSIBLES. La TT rinde "salió hacia Ashshur" (lectura 1), siguiendo el contexto inmediato (Nimrod es el sujeto), y nota la alternativa.
@@ -248,7 +242,7 @@ De aquella tierra salió *hacia* Ashshur, y construyó Nínive, y Rejovot-Ir, y 
 
 y Resen entre Nínive y entre Kelaj — esa *es* la gran ciudad.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **"LA GRAN CIUDAD" — ¿CUÁL?**
 > - **הִוא הָעִיר הַגְּדֹלָה** = "esa es la gran ciudad." El referente de "la gran ciudad" es ambiguo: (1) Resen misma; (2) Nínive (cf. Jonás 1:2, "Nínive, la gran ciudad"); (3) todo el complejo urbano (Nínive + Rejovot-Ir + Kelaj + Resen como un área metropolitana). La TT preserva la ambigüedad. **Resen** = no identificada (INCIERTO).
@@ -259,7 +253,7 @@ y Resen entre Nínive y entre Kelaj — esa *es* la gran ciudad.
 
 Y Egipto engendró a los Ludim, y a los Anamim, y a los Lehavim, y a los Naftujim,
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **DESCENDIENTES DE MITSRAYIM**
 > - Todos los nombres llevan el sufijo plural *-im* — estos son pueblos, no individuos. **Ludim** = posiblemente Libios o Lidios (INCIERTO). **Anamim** = no identificados. **Lehavim** = posiblemente Libios (POSIBLE). **Naftujim** = posiblemente habitantes del delta del Nilo (POSIBLE). Muchas de estas identificaciones siguen siendo debatidas.
@@ -270,7 +264,7 @@ Y Egipto engendró a los Ludim, y a los Anamim, y a los Lehavim, y a los Naftuji
 
 y a los Patrusim, y a los Kaslujim — de quienes salieron los Pelishtim — y a los Kaftorim.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **LOS PELISHTIM (FILISTEOS) — PARÉNTESIS**
 > - **אֲשֶׁר יָצְאוּ מִשָּׁם פְּלִשְׁתִּים** = "de quienes salieron los Pelishtim." La inserción parentética identifica el origen de los Filisteos. Sin embargo, otros textos bíblicos asocian a los Filisteos con Kaftor / Creta (Amós 9:7, Jer 47:4). La ubicación aquí — entre Kaslujim y Kaftorim — puede reflejar una alteración textual, o los Pelishtim pueden haber migrado a través de múltiples regiones. El texto tal como se recibió los sitúa provenientes de los Kaslujim.
@@ -284,7 +278,7 @@ y a los Patrusim, y a los Kaslujim — de quienes salieron los Pelishtim — y a
 
 Y Canaán engendró a Tsidón su primogénito, y a Jet,
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **LÍNEA DE KENAAN**
 > - **Tsidón** (צִידוֹן) = Sidón, la ciudad costera fenicia (bien atestiguada). Nombrado como **primogénito** (*bekhor*) de Canaán. **Jet** (חֵת) = antepasado de los Hititas / Jittim (cf. Gn 23, los Hititas de Hebrón). La relación entre el Jet bíblico y el imperio hitita de Anatolia es debatida (POSIBLE conexión, no probada).
@@ -295,7 +289,7 @@ Y Canaán engendró a Tsidón su primogénito, y a Jet,
 
 y al Yevusí, y al Emorí, y al Girgashí,
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **PUEBLOS CANANEOS**
 > - **Yevusí** (יְבוּסִי) = Jebuseos, habitantes preisraelitas de Jerusalén (cf. 2 Sam 5:6). **Emorí** (אֱמֹרִי) = Amorreos, población extendida por Siria-Palestina y Mesopotamia. **Girgashí** (גִּרְגָּשִׁי) = Girgashitas, poco atestiguados fuera de las listas bíblicas.
@@ -306,7 +300,7 @@ y al Yevusí, y al Emorí, y al Girgashí,
 
 y al Jivví, y al Arqí, y al Siní,
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **IDENTIFICACIONES**
 > - **Jivví** (חִוִּי) = Heveos, ubicados en varias partes de Canaán (cf. Gn 34:2). **Arqí** (עַרְקִי) = habitantes de Arqa, una ciudad en el norte de Fenicia / Líbano (PROBABLE). **Siní** (סִינִי) = habitantes de un lugar cerca de Arqa (POSIBLE; no relacionado con Sinaí ni con China).
@@ -317,7 +311,7 @@ y al Jivví, y al Arqí, y al Siní,
 
 y al Arvadí, y al Tsemarí, y al Jamatí; y después los clanes del cananeo se dispersaron.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **IDENTIFICACIONES**
 > - **Arvadí** (אַרְוָדִי) = Arvad, ciudad insular frente a la costa siria (PROBABLE; cf. Ez 27:8). **Tsemarí** (צְמָרִי) = Sumur/Zemar en el norte de Fenicia (PROBABLE). **Jamatí** (חֲמָתִי) = Hamat en el río Orontes en Siria (bien atestiguada).
@@ -331,7 +325,7 @@ y al Arvadí, y al Tsemarí, y al Jamatí; y después los clanes del cananeo se 
 
 Y el límite del cananeo fue desde Tsidón al ir hacia Gerar, hasta Azzah; al ir hacia Sedom y Amorah y Admah y Tsevoyim, hasta Lasha.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **FÓRMULA DE LÍMITE GEOGRÁFICO**
 > - Este versículo traza los límites del territorio del cananeo — la única descripción detallada de fronteras en la Tabla de las Naciones. El territorio abarca: Tsidón (norte) → Gerar / Azzah (suroeste, hacia la costa) → Sedom, Amorah, Admah, Tsevoyim (sureste, región del Mar Muerto) → Lasha (ubicación INCIERTA).
@@ -345,7 +339,7 @@ Y el límite del cananeo fue desde Tsidón al ir hacia Gerar, hasta Azzah; al ir
 
 Estos *son* los hijos de Cam, por sus clanes, por sus lenguas, en sus tierras, en sus naciones.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **FÓRMULA RESUMIDA — SEGUNDA DE TRES**
 > - Cierra la sección de Cam con la misma fórmula de cuatro ejes: clanes (*mishpajot*), lenguas (*leshonot*), tierras (*artsot*), naciones (*goyim*). Estructura idéntica a v.5 (Jafet) y v.31 (Sem).
@@ -356,7 +350,7 @@ Estos *son* los hijos de Cam, por sus clanes, por sus lenguas, en sus tierras, e
 
 Y a Sem también le nacieron *hijos* — el padre de todos los hijos de Ever, el hermano de Jafet el mayor.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **SEM — "PADRE DE TODOS LOS HIJOS DE EVER"**
 > - **אֲבִי כָּל־בְּנֵי עֵבֶר** = "el padre de todos los hijos de Ever." Este título distingue a Ever — antepasado de los *Ivrim* (Hebreos). El narrador identifica al descendiente más significativo de Sem antes de listar a sus hijos. El propósito genealógico de la sección de Sem es llegar a Ever y, finalmente, a Avram (Abrán) (11:26).
@@ -370,7 +364,7 @@ Y a Sem también le nacieron *hijos* — el padre de todos los hijos de Ever, el
 
 Los hijos de Sem: Elam, y Ashshur, y Arpakhshad, y Lud, y Aram.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **IDENTIFICACIONES**
 > - **Elam** = reino elamita al este de Mesopotamia (bien atestiguado; capital Susa). **Ashshur** (אַשּׁוּר) = Asiria (bien atestiguada). Nota: Ashshur aparece tanto en la línea de Sem (aquí) como asociado con la actividad constructora de Nimrod (v.11) — la superposición es deliberada o refleja relaciones históricas complejas. **Arpakhshad** = identificación debatida (INCIERTO; posiblemente Arrapaquitis cerca de Kirkuk, o un nombre compuesto). Esta es la línea genealógicamente crítica — que conduce a Ever, Peleg, Abrán. **Lud** = Lidia en Anatolia occidental (POSIBLE). **Aram** = Arameos (bien atestiguados; Siria/Alta Mesopotamia).
@@ -381,7 +375,7 @@ Los hijos de Sem: Elam, y Ashshur, y Arpakhshad, y Lud, y Aram.
 
 Y los hijos de Aram: Uts, y Jul, y Geter, y Mash.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **IDENTIFICACIONES**
 > - **Uts** (עוּץ) = tierra de Uz, el escenario del libro de Job (cf. Job 1:1). Ubicación debatida: región de Edom o región de Aram (POSIBLE para ambos). **Jul** = incierto. **Geter** = incierto. **Mash** = posiblemente equivalente a "Meshekh" (cf. 1 Cr 1:17 lee *Meshekh*); INCIERTO.
@@ -392,7 +386,7 @@ Y los hijos de Aram: Uts, y Jul, y Geter, y Mash.
 
 Y Arpakhshad engendró a Shelaj, y Shelaj engendró a Ever.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **LA LÍNEA GENEALÓGICA HACIA AVRAM**
 > - Este versículo comienza la descendencia crítica: Arpakhshad → Shelaj → Ever. Esta línea continuará en 11:10–26: Ever → Peleg → ... → Taré → Abrán. El capítulo reduce el enfoque de setenta naciones a un solo linaje.
@@ -403,7 +397,7 @@ Y Arpakhshad engendró a Shelaj, y Shelaj engendró a Ever.
 
 Y a Ever le nacieron dos hijos: el nombre de uno *fue* Peleg, porque en sus días la tierra fue dividida; y el nombre de su hermano *fue* Yoqtan.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **CRÍTICO — JUEGO DE PALABRAS CON PELEG**
 > - **פֶּלֶג** (*Peleg*) de la raíz **פ-ל-ג** (*p-l-g*) = "dividir/separar." **"Porque en sus días la tierra fue dividida"** — **כִּי בְיָמָיו נִפְלְגָה הָאָרֶץ** (*ki ve-yamav niflega ha-aretz*). El nombre ES el acontecimiento: Peleg = "división," y en sus días la tierra (*ha-aretz*) fue dividida (*niflega*). ¿Qué se dividió? (1) La tierra fue físicamente dividida; (2) los pueblos fueron divididos/dispersados — una referencia a la dispersión de Bavel (Cap. 11); (3) el territorio fue repartido entre los clanes. Todas POSIBLES. El texto no especifica.
@@ -417,7 +411,7 @@ Y a Ever le nacieron dos hijos: el nombre de uno *fue* Peleg, porque en sus día
 
 Y Yoqtan engendró a Almodad, y a Shelef, y a Jatsarmavet, y a Yeraj,
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **HIJOS DE YOQTAN — PUEBLOS ÁRABES**
 > - Yoqtan tiene trece hijos (vv.26–29) — la genealogía individual más larga del capítulo. La mayoría se asocian con grupos tribales árabes. **Almodad** = incierto. **Shelef** = posiblemente una tribu sudarábiga (POSIBLE). **Jatsarmavet** (חֲצַרְמָוֶת) = Hadramaut en Arabia meridional (PROBABLE; el nombre significa "patio de la muerte"). **Yeraj** = posiblemente una tribu sudarábiga (el nombre significa "luna").
@@ -428,7 +422,7 @@ Y Yoqtan engendró a Almodad, y a Shelef, y a Jatsarmavet, y a Yeraj,
 
 y a Hadoram, y a Uzal, y a Diqlah,
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **IDENTIFICACIONES**
 > - **Hadoram** = incierto (posiblemente Dauram en Arabia meridional). **Uzal** = posiblemente el nombre antiguo de Saná, Yemen (POSIBLE). **Diqlah** = posiblemente una región productora de palmas (el nombre significa "palmeral" — cf. arameo *diqla* = "palmera"); INCIERTO.
@@ -439,7 +433,7 @@ y a Hadoram, y a Uzal, y a Diqlah,
 
 y a Oval, y a Avimael, y a Sheva,
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **IDENTIFICACIONES**
 > - **Oval** (עוֹבָל) = incierto (algunos MSS y 1 Cr 1:22 leen *Eval*). **Avimael** = incierto. **Sheva** (שְׁבָא) = Saba, Arabia meridional (PROBABLE). Nota: Sheva aparece también en la línea de Cam (v.7, a través de Ramah hijo de Kush). La superposición — Sheva en ambas líneas de Sem y Cam — puede reflejar conexiones comerciales, matrimonios mixtos, o reclamos territoriales compartidos.
@@ -450,7 +444,7 @@ y a Oval, y a Avimael, y a Sheva,
 
 y a Ofir, y a Javilah, y a Yovav; todos estos *fueron* los hijos de Yoqtan.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **IDENTIFICACIONES**
 > - **Ofir** (אוֹפִיר) = famosa fuente de oro (cf. 1 Re 9:28, 10:11); ubicación debatida — Arabia meridional, África oriental o India occidental (todas POSIBLES). **Javilah** = aparece también en v.7 (en la línea de Kush) y Gn 2:11 (la tierra productora de oro). La recurrencia del nombre a través de diferentes linajes sugiere una región geográfica conocida por múltiples pueblos. **Yovav** = incierto (posiblemente Juhaibab en Arabia; INCIERTO).
@@ -464,7 +458,7 @@ y a Ofir, y a Javilah, y a Yovav; todos estos *fueron* los hijos de Yoqtan.
 
 Y su morada fue desde Mesha al ir hacia Sefar, la montaña del oriente.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **RANGO GEOGRÁFICO**
 > - **Mesha** = incierto (posiblemente en Arabia septentrional). **Sefar** = incierto (posiblemente Zafar en Yemen, POSIBLE). **"La montaña del oriente"** (*har ha-qedem*) = una cadena montañosa en Arabia oriental/suroriental. Los pueblos yoqtanitas ocupan la península arábiga de noroeste a sureste — el único rango geográfico dado para los descendientes de Sem (cf. los límites detallados de Canaán en v.19).
@@ -475,7 +469,7 @@ Y su morada fue desde Mesha al ir hacia Sefar, la montaña del oriente.
 
 Estos *son* los hijos de Sem, por sus clanes, por sus lenguas, en sus tierras, por sus naciones.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **FÓRMULA RESUMIDA — TERCERA DE TRES**
 > - Cierra la sección de Sem con la misma fórmula que vv.5 y 20. La triple repetición completa la estructura: Jafet (vv.2–5), Cam (vv.6–20), Sem (vv.21–31) — cada una cerrada por la fórmula clanes/lenguas/tierras/naciones.
@@ -486,7 +480,7 @@ Estos *son* los hijos de Sem, por sus clanes, por sus lenguas, en sus tierras, p
 
 Estos *son* los clanes de los hijos de Noé, por sus generaciones, en sus naciones; y de estos se dispersaron las naciones en la tierra después del diluvio.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **RESUMEN FINAL — ECO DEL TOLEDOT**
 > - Este versículo refleja la apertura (v.1) y forma una inclusión (un marco literario donde la misma frase abre y cierra una sección). "Por sus generaciones" (*le-toledotam*) hace eco de la fórmula *toledot* del v.1 — enmarcando el capítulo.

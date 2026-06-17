@@ -28,17 +28,11 @@
 
 ## GUIA DE LEITURA
 
-**📖 Texto Principal:** Tradução primária — legível mas fiel à estrutura grega
-**📝 Notas:** Características gregas essenciais imediatamente abaixo de cada versículo
+**Texto Principal:** Tradução primária — legível mas fiel à estrutura grega
+**Notas:** Características gregas essenciais imediatamente abaixo de cada versículo
 ***Itálico:*** Palavras adicionadas para a gramática portuguesa (não presentes no texto grego)
 **"Aspas":** Discurso direto
 **o Senhor:** κύριος traduzido conforme Política GS do Nome Divino (Opção C) ao citar passagens do AT que contêm YHWH
-
-**Ícones das Notas:**
-- 🔴 **CRÍTICO** - Decisões textuais ou tradutórias importantes
-- 🟢 **LEXICAL** - Significados de palavras, alcance semântico, termos do glossário
-- 🔵 **GRAMATICAL** - Estrutura grega, aspecto verbal, sintaxe
-- 🟡 **TEOLÓGICO** - Opções interpretativas, preservação de ambiguidade
 
 **Este é o primeiro capítulo das Escrituras Gregas no projeto TT.** O Prólogo (1:1–18) está entre as passagens teologicamente mais densas das Escrituras Gregas. O termo *logos* ("palavra") carrega um alcance semântico muito mais amplo do que qualquer palavra isolada em português pode capturar. A TT traduz como "palavra" (minúscula) com nota crítica no v.1 sobre o alcance semântico. Os nomes próprios seguem a transliteração TT: Yochanan (não João), Yeshua (não Jesus), Kefa (não Pedro), Philippos, Nathanael, Andreas. O sistema aspectual do verbo difere do sistema temporal hebraico usado em Gênesis — o aspecto grego (como o falante vê a ação) é primário, não o tempo.
 
@@ -90,7 +84,7 @@
 
 No princípio era a palavra, e a palavra estava com Deus, e a palavra era Deus.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **CRÍTICO — *LOGOS* ("PALAVRA")**
 > - **Ἐν ἀρχῇ ἦν ὁ λόγος** (*En archē ēn ho logos*) = "No princípio era a palavra." O termo λόγος (*logos*) carrega um alcance semântico excepcionalmente amplo: palavra, discurso, razão, relato, proporção, princípio. A TT traduz "palavra" (minúscula) como a tradução mais direta do grego, preservando a etimologia de *logos* (forma nominal de *legō*, "falar") e o eco de Gênesis 1 onde Deus fala e a criação acontece. A capitalização ("Palavra") é um recurso tipográfico que algumas tradições usam para sinalizar o referente único; a TT deixa isso para o quadro interpretativo do leitor. Para discussão mais completa das tradições filosóficas e judaicas por trás do termo — filosofia grega, tradição da sabedoria, Targumim — veja o companheiro Seção B.
@@ -109,7 +103,7 @@ No princípio era a palavra, e a palavra estava com Deus, e a palavra era Deus.
 
 Este era no princípio com Deus.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **RESUMPTIVO — οὗτος (*houtos*)**
 > - "Este" (*houtos*) = pronome demonstrativo, retomando o *logos* do v.1. O versículo reafirma as duas primeiras orações do v.1 em resumo, estabelecendo a plataforma para a afirmação de criação do v.3. O imperfeito **ἦν** continua.
@@ -120,7 +114,7 @@ Este era no princípio com Deus.
 
 Todas as coisas vieram a existir por meio dele, e sem ele nem uma só coisa veio a existir.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **CRÍTICO — VARIANTE DE PONTUAÇÃO (VV.3–4)**
 > - Os manuscritos gregos mais antigos não têm pontuação. Duas leituras são possíveis:
@@ -140,7 +134,7 @@ Todas as coisas vieram a existir por meio dele, e sem ele nem uma só coisa veio
 
 O que veio a existir — nele era vida, e a vida era a luz dos seres humanos.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **"VIDA" E "LUZ" — PRIMEIRA OCORRÊNCIA**
 > - **ζωή** (*zōē*) = vida — especificamente vida vital, animada. Distinguida de **βίος** (*bios*, meio de vida/modo de vida) no uso grego mais amplo.
@@ -155,7 +149,7 @@ O que veio a existir — nele era vida, e a vida era a luz dos seres humanos.
 
 E a luz brilha nas trevas, e as trevas não a venceram.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **CRÍTICO — *KATELABEN* (NÃO VENCEU / NÃO COMPREENDEU)**
 > - **ἡ σκοτία αὐτὸ οὐ κατέλαβεν** = "as trevas não a venceram." O verbo **κατέλαβεν** (*katelaben*) de καταλαμβάνω carrega dois sentidos: (1) "agarrar/vencer/subjugar" e (2) "compreender/apreender mentalmente." Ambos os significados são **PROVÁVEIS** — as trevas nem subjugaram nem compreenderam a luz. A TT traduz "venceram" como o sentido primário no texto principal porque a imagética de conflito se encaixa na oposição luz-trevas, mas o duplo significado é anotado; esta é uma genuína ambiguidade da Regra 2. Para discussão mais completa de como esses dois sentidos interagem na estrutura do Prólogo, veja o companheiro Seção A.
@@ -169,7 +163,7 @@ E a luz brilha nas trevas, e as trevas não a venceram.
 
 Veio a existir um homem, tendo sido enviado da parte de Deus — seu nome *era* Yochanan (João).
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **AORISTO *EGENETO* — MUDANÇA DO ETERNO PARA O HISTÓRICO**
 > - **Ἐγένετο ἄνθρωπος** = "Veio a existir um homem." O mesmo verbo (*egeneto*) usado para a criação no v.3 agora introduz uma figura histórica. João "veio a existir" — ele é criatura, não criador. O contraste aspectual com o *logos* (que "era," imperfeito) é deliberado.
@@ -183,7 +177,7 @@ Veio a existir um homem, tendo sido enviado da parte de Deus — seu nome *era* 
 
 Este veio para testemunho, para que testemunhasse a respeito da luz, para que todos confiassem por meio dele.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **"TESTEMUNHO" / "TESTEMUNHAR" — *MARTYRIA* / *MARTYREŌ***
 > - **μαρτυρία** (*martyria*) = testemunho, depoimento, evidência. **μαρτυρέω** (*martyreō*) = testemunhar, dar depoimento. A conotação legal/judicial está presente — o papel de João é o de uma testemunha apresentando evidência. A família de palavras domina este capítulo (vv.7, 8, 15, 19, 32, 34).
@@ -197,7 +191,7 @@ Este veio para testemunho, para que testemunhasse a respeito da luz, para que to
 
 Ele não era a luz, mas *veio* para que testemunhasse a respeito da luz.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟡 **DEFINIÇÃO NEGATIVA DE JOÃO**
 > - O narrador define João pelo que ele NÃO É antes de definir o que ele é. Ele não é a luz — ele testemunha sobre a luz. Esta insistência (repetida nos vv.20–21) pode refletir uma situação histórica em que alguns consideravam João como a figura principal.
@@ -208,7 +202,7 @@ Ele não era a luz, mas *veio* para que testemunhasse a respeito da luz.
 
 A luz verdadeira, que ilumina todo ser humano, estava vindo ao mundo.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **AMBIGUIDADE GRAMATICAL — QUEM ESTÁ "VINDO AO MUNDO"?**
 > - A frase participial **ἐρχόμενον εἰς τὸν κόσμον** ("vindo ao mundo") pode modificar "luz" (a luz que estava vindo ao mundo) ou "ser humano" (todo ser humano vindo ao mundo). Ambas são gramaticalmente válidas. A TT vincula à "luz" seguindo a leitura dominante, mas a ambiguidade é anotada.
@@ -222,7 +216,7 @@ A luz verdadeira, que ilumina todo ser humano, estava vindo ao mundo.
 
 Ele estava no mundo, e o mundo veio a existir por meio dele, e o mundo não o conheceu.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟡 **TRÊS ORAÇÕES COM *KOSMOS* — IRONIA CRESCENTE**
 > - Oração 1: Ele estava no mundo (presença). Oração 2: O mundo veio a existir por meio dele (criação). Oração 3: O mundo não o conheceu (rejeição). A repetição tripla de *kosmos* constrói da proximidade à origem à alienação. O criador não é reconhecido pela criação.
@@ -233,7 +227,7 @@ Ele estava no mundo, e o mundo veio a existir por meio dele, e o mundo não o co
 
 Veio para as suas próprias *coisas*, e os seus próprios *povo* não o receberam.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **MUDANÇA NEUTRO → MASCULINO**
 > - **εἰς τὰ ἴδια** (*eis ta idia*) = "para as suas próprias coisas" (neutro plural — domínio, propriedade, terra natal). **οἱ ἴδιοι** (*hoi idioi*) = "os seus próprios" (masculino plural — pessoas). A mudança do neutro para o masculino restringe a rejeição: ele veio para o seu próprio lugar, seu próprio povo não o recebeu.
@@ -244,7 +238,7 @@ Veio para as suas próprias *coisas*, e os seus próprios *povo* não o recebera
 
 Mas a todos quantos o receberam, a eles deu o direito de se tornarem filhos de Deus — aos que confiam no seu nome,
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **"DIREITO" — *EXOUSIA***
 > - **ἐξουσία** (*exousia*) = direito, autoridade, poder. NÃO "poder" no sentido de capacidade bruta (*dynamis*), mas direito autorizado — a posição legítima para se tornar algo.
@@ -258,7 +252,7 @@ Mas a todos quantos o receberam, a eles deu o direito de se tornarem filhos de D
 
 os quais nasceram não de sangues, nem da vontade da carne, nem da vontade de um homem, mas de Deus.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **"SANGUES" — PLURAL *HAIMATŌN***
 > - **ἐξ αἱμάτων** (*ex haimatōn*) = "de sangues" — plural incomum. O plural provavelmente se refere a linhagens, descendência ou descendência física. A TT preserva o plural ("sangues") porque o grego é deliberadamente incomum.
@@ -272,7 +266,7 @@ os quais nasceram não de sangues, nem da vontade da carne, nem da vontade de um
 
 E a palavra se fez carne e habitou entre nós, e vimos a sua glória — glória como de um único de junto de um pai — cheia de {a:graça/favor} e verdade.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **CRÍTICO — "A PALAVRA SE FEZ CARNE"**
 > - **καὶ ὁ λόγος σὰρξ ἐγένετο** = "e a palavra carne se fez." O *logos* do v.1 — que estava com Deus e era Deus — agora se faz *sarx* (carne, fisicalidade mortal). O aoristo **ἐγένετο** marca isso como evento, não estado contínuo. O verbo é o mesmo usado para a criação no v.3 — a palavra "veio a existir" como carne. O texto afirma a reivindicação sem explicar o mecanismo.
@@ -292,7 +286,7 @@ E a palavra se fez carne e habitou entre nós, e vimos a sua glória — glória
 
 Yochanan (João) testemunha a respeito dele e tem clamado, dizendo: "Este era aquele de quem eu disse: 'O que vem depois de mim veio a estar diante de mim, porque era primeiro *em relação* a mim.'"
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **MUDANÇAS DE TEMPO — PRESENTE, PERFEITO, IMPERFEITO**
 > - **μαρτυρεῖ** (*martyrei*) = presente — "testemunha" (contínuo). **κέκραγεν** (*kekragen*) = perfeito — "tem clamado" (ação completada com resultado contínuo). **ἦν** (*ēn*) = imperfeito — "era" (existência anterior). A sobreposição de tempos comprime testemunho passado em testemunha presente.
@@ -306,7 +300,7 @@ Yochanan (João) testemunha a respeito dele e tem clamado, dizendo: "Este era aq
 
 Pois de sua plenitude todos nós recebemos, e {a:graça/favor} sobre {a:graça/favor}.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **"GRAÇA/FAVOR SOBRE GRAÇA/FAVOR" — *CHARIN ANTI CHARITOS***
 > - **χάριν ἀντὶ χάριτος** = literalmente "graça/favor no lugar de graça/favor" ou "graça/favor sobre graça/favor." A preposição **ἀντί** (*anti*) = "no lugar de," "em troca de," "sobre." Três leituras: (1) graça/favor substituindo graça/favor (ondas sucessivas), (2) graça/favor correspondendo a graça/favor (correspondência), (3) graça/favor da nova aliança substituindo a graça/favor da antiga aliança. A TT traduz "graça/favor sobre graça/favor" como a opção menos interpretativa.
@@ -317,7 +311,7 @@ Pois de sua plenitude todos nós recebemos, e {a:graça/favor} sobre {a:graça/f
 
 Pois a lei foi dada por meio de Mosheh (Moisés); a {a:graça/favor} e a verdade vieram a existir por meio de Yeshua (Jesus), *o* ungido.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **CRÍTICO — MOSHEH E YESHUA**
 > - **ὁ νόμος διὰ Μωϋσέως ἐδόθη** = "a lei por meio de Mosheh foi dada" (aoristo passivo). **ἡ χάρις καὶ ἡ ἀλήθεια διὰ Ἰησοῦ Χριστοῦ ἐγένετο** = "a graça/favor e a verdade por meio de Yeshua, o ungido, vieram a existir" (aoristo). A estrutura paralela convida à comparação, mas NÃO afirma explicitamente oposição. "Lei" não é desvalorizada — ela "foi dada" (passivo, implicando doador divino). Graça/favor e verdade "vieram a existir" — o mesmo verbo (*egeneto*) usado para a criação.
@@ -334,7 +328,7 @@ Pois a lei foi dada por meio de Mosheh (Moisés); a {a:graça/favor} e a verdade
 
 Ninguém jamais viu Deus; o Deus único-nascido, o que está no seio do Pai — aquele *o* deu a conhecer.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **CRÍTICO — VARIANTE TEXTUAL: "DEUS UNIGÊNITO" vs. "FILHO UNIGÊNITO"**
 > - O texto principal da NA28 lê **μονογενὴς θεός** (*monogenēs theos*) = "Deus único-nascido." Leitura alternativa significativa: **μονογενὴς υἱός** (*monogenēs huios*) = "Filho único-nascido." A leitura "Deus" é apoiada por 𝔓66, 𝔓75, א*, B, C*; a leitura "Filho" por A, C³, Θ, f1, f13, 𝔐. A NA28 adota "Deus" como a leitura mais difícil e mais bem atestada. A TT segue a NA28 conforme a política GS, mas anota a variante significativa.
@@ -348,7 +342,7 @@ Ninguém jamais viu Deus; o Deus único-nascido, o que está no seio do Pai — 
 
 E este é o testemunho de Yochanan (João), quando os yehudim enviaram sacerdotes e levitas de Yerushalayim (Jerusalém) para lhe perguntar: "Quem é você?"
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **CRÍTICO — *HOI IOUDAIOI* ("OS YEHUDIM")**
 > - **οἱ Ἰουδαῖοι** (*hoi Ioudaioi*) = literalmente "os judeus/judeanos" — aqueles de Yehudah/Judeia. No Evangelho de João, este termo funciona de múltiplas maneiras: (1) étnico/geográfico ("povo da Judeia"), (2) autoridades religiosas ("a liderança judaica"), (3) mais amplo "o povo judeu." A TT traduz "os yehudim" — transliterando em vez de traduzir — para preservar a ambiguidade e sinalizar que o contexto deve determinar o referente por versículo. O termo NÃO significa "os judeus" no sentido étnico/religioso moderno. Nota de primeira ocorrência. Para discussão mais completa da amplitude deste termo ao longo do Evangelho de João, seu contexto histórico e as implicações interpretativas, veja o companheiro Seção C.
@@ -362,7 +356,7 @@ E este é o testemunho de Yochanan (João), quando os yehudim enviaram sacerdote
 
 E ele confessou e não negou, e confessou: "Eu não sou o ungido."
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **DUPLA CONFISSÃO — NEGAÇÃO ENFÁTICA**
 > - **ὡμολόγησεν καὶ οὐκ ἠρνήσατο, καὶ ὡμολόγησεν** = "ele confessou e não negou, e confessou." A afirmação em três camadas (confessou + não negou + confessou) é enfaticamente redundante. O narrador garante que não haja ambiguidade sobre a autocompreensão de João.
@@ -373,7 +367,7 @@ E ele confessou e não negou, e confessou: "Eu não sou o ungido."
 
 E lhe perguntaram: "Então quê? É você Eliyahu (Elias)?" E ele diz: "Não sou." "É você o Profeta?" E ele respondeu: "Não."
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟡 **TRÊS NEGAÇÕES — TRÊS FIGURAS ESPERADAS**
 > - (1) O ungido (*christos*) — o rei davídico esperado. (2) Eliyahu — esperado para retornar antes do grande dia (Ml 3:23 [4:5]). (3) O Profeta — "um profeta como Mosheh" (Dt 18:15). João nega ser qualquer dos três. Nota: os Evangelhos Sinóticos identificam João com Elias (Mt 11:14, 17:12–13); o Evangelho de João faz João negar. A TT relata cada texto como ele está, sem harmonizar.
@@ -387,7 +381,7 @@ E lhe perguntaram: "Então quê? É você Eliyahu (Elias)?" E ele diz: "Não sou
 
 Então lhe disseram: "Quem é você? — para que possamos dar uma resposta aos que nos enviaram. O que você diz de si mesmo?"
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **PRESTAÇÃO DE CONTAS INDIRETA**
 > - A delegação foi enviada. Eles precisam de um relato. A pressão é institucional — eles representam as autoridades de Jerusalém e devem retornar com uma resposta.
@@ -398,7 +392,7 @@ Então lhe disseram: "Quem é você? — para que possamos dar uma resposta aos 
 
 Ele disse: "Eu *sou* uma voz que clama no deserto: 'Preparem o caminho do Senhor'" — como disse Yeshayahu (Isaías), o profeta.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **CRÍTICO — "O SENHOR" (κύριος) CITANDO PASSAGEM DO AT COM YHWH**
 > - **εὐθύνατε τὴν ὁδὸν κυρίου** = "Endireitai o caminho do Senhor." Isto cita Isaías 40:3 (LXX). O hebraico subjacente tem o Tetragrama: **פַּנּוּ דֶּרֶךְ יהוה** = "Preparai o caminho de YHWH." Conforme Política GS do Nome Divino (Opção C): o texto-base grego diz κύριος, então a TT traduz "o Senhor" no texto principal; alternativas não adotadas (retroversão para YHWH, ou tradução sem nota) representariam o que o texto grego diz ou ocultariam a conexão com o AT. Para discussão mais completa de como κύριος funciona como substituto do nome divino no uso que João faz de Isaías 40, veja o companheiro Seção D.
@@ -412,7 +406,7 @@ Ele disse: "Eu *sou* uma voz que clama no deserto: 'Preparem o caminho do Senhor
 
 E *os que* tinham sido enviados eram dos Perushim (Fariseus).
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **PERUSHIM — TRANSLITERAÇÃO TT**
 > - **Φαρισαῖοι** (*Pharisaioi*) = forma grega do hebraico פְּרוּשִׁים (*Perushim*, "separados"). A TT usa a forma hebraica. O grupo é um movimento judaico do Segundo Templo que enfatizava a observância da Torá e a tradição oral.
@@ -423,7 +417,7 @@ E *os que* tinham sido enviados eram dos Perushim (Fariseus).
 
 E lhe perguntaram e lhe disseram: "Por que então você imerge, se você não é o ungido, nem Elias, nem o Profeta?"
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **"IMERGIR" — *BAPTIZŌ***
 > - **βαπτίζω** (*baptizō*) = mergulhar, imergir. Conforme glossário fixo: traduzido como "imergir," NÃO transliterado como "batizar." O grego tem conteúdo semântico claro: imersão física em água. O limiar da Regra 4 não é atingido para transliteração. Nota de primeira ocorrência.
@@ -434,7 +428,7 @@ E lhe perguntaram e lhe disseram: "Por que então você imerge, se você não é
 
 Yochanan (João) lhes respondeu, dizendo: "Eu imerjo em água; no meio de vocês está um que vocês não conhecem —
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **"EM ÁGUA" — ἐν ὕδατι**
 > - O meio é especificado: água. O contraste com a imersão no vento/espírito (v.33) é preparado aqui.
@@ -445,7 +439,7 @@ Yochanan (João) lhes respondeu, dizendo: "Eu imerjo em água; no meio de vocês
 
 o que vem depois de mim, de quem eu não sou digno de desatar a correia da sua sandália."
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟡 **CORREIA DA SANDÁLIA — TAREFA SERVIL**
 > - Desatar a correia de uma sandália era considerado menial demais mesmo para um servo hebreu (b. Ketubbot 96a). João se coloca abaixo do status de servo em relação ao que vem.
@@ -456,7 +450,7 @@ o que vem depois de mim, de quem eu não sou digno de desatar a correia da sua s
 
 Estas coisas aconteceram em Beyt-Anyah (Betânia), além do Yarden (Jordão), onde Yochanan (João) estava imergindo.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **BEYT-ANYAH ALÉM DO YARDEN**
 > - **Βηθανία** (*Bēthania*) = forma grega do hebraico/aramaico בֵּית עַנְיָה (*Beyt-Anyah*, "casa da aflição" ou "casa dos pobres"). Este NÃO é o Beyt-Anyah (Betânia) perto de Jerusalém (11:1). A localização é a leste do Jordão.
@@ -470,7 +464,7 @@ Estas coisas aconteceram em Beyt-Anyah (Betânia), além do Yarden (Jordão), on
 
 No dia seguinte ele vê Yeshua (Jesus) vindo em sua direção e diz: "Eis o cordeiro de Deus, o que tira o pecado do mundo.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **CRÍTICO — "O CORDEIRO DE DEUS"**
 > - **ἴδε ὁ ἀμνὸς τοῦ θεοῦ** = "Eis o cordeiro de Deus." O pano de fundo é debatido: (1) o cordeiro pascal (Êx 12), (2) o servo sofredor "como um cordeiro" (Is 53:7), (3) o *tamid* — oferta diária, (4) o cordeiro guerreiro apocalíptico. O texto não especifica qual tradição está em vista, e a TT traduz o grego como declarado sem selecionar uma. Para avaliação da probabilidade relativa de cada tradição de pano de fundo e as evidências por trás delas, veja o companheiro Seção B.
@@ -487,7 +481,7 @@ No dia seguinte ele vê Yeshua (Jesus) vindo em sua direção e diz: "Eis o cord
 
 Este é aquele a respeito de quem eu disse: 'Depois de mim vem um homem que veio a estar diante de mim, porque era primeiro *em relação* a mim.'
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **REPETIÇÃO DO V.15**
 > - Quase idêntico ao v.15. A repetição dentro da narrativa (vv.15, 30) reforça o testemunho consistente de João.
@@ -498,7 +492,7 @@ Este é aquele a respeito de quem eu disse: 'Depois de mim vem um homem que veio
 
 E eu não o conhecia, mas para que ele fosse manifestado a Yisrael (Israel) — por isso vim imergindo em água."
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟡 **PROPÓSITO DA IMERSÃO — REVELAÇÃO, NÃO ARREPENDIMENTO**
 > - João afirma que sua imersão tinha propósito revelatório: "para que ele fosse manifestado a Israel." A ênfase sinótica na imersão-de-arrependimento não é destacada aqui. Cada texto apresenta sua própria ênfase.
@@ -509,7 +503,7 @@ E eu não o conhecia, mas para que ele fosse manifestado a Yisrael (Israel) — 
 
 Yochanan (João) testemunhou, dizendo: "Vi o {a:vento/espírito} descendo como uma pomba do céu, e ele permaneceu sobre ele.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **"VENTO/ESPÍRITO" — *PNEUMA***
 > - **τὸ πνεῦμα** (*to pneuma*) = vento/espírito. Conforme glossário fixo e alinhamento com o suplemento das EH רוּחַ (*ruach*): mesma política de barra. O gênero neutro do grego *pneuma* contrasta com o feminino do hebraico *ruach*; a discordância de gênero é anotada, mas não afeta a tradução.
@@ -526,7 +520,7 @@ Yochanan (João) testemunhou, dizendo: "Vi o {a:vento/espírito} descendo como u
 
 E eu não o conhecia, mas aquele que me enviou para imergir em água, esse me disse: 'Aquele sobre quem vires o {a:vento/espírito} descendo e permanecendo sobre ele — este é o que imerge *no* santo {a:vento/espírito}.'
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **"SANTO VENTO/ESPÍRITO" — *PNEUMA HAGION***
 > - **πνεῦμα ἅγιον** (*pneuma hagion*) = santo vento/espírito. Anartro (sem artigo) no grego — "santo espírito" em vez de "o santo espírito." A TT acrescenta o artigo em itálico (*no*) para legibilidade em português, anotando a falta do artigo no grego. A tradução "santo vento/espírito" mantém a política de barra e evita importar o título trinitário posterior "o Espírito Santo" para a camada de tradução. Para discussão mais completa da construção anarticular e o contexto do Segundo Templo, veja o companheiro Seção D.
@@ -537,7 +531,7 @@ E eu não o conhecia, mas aquele que me enviou para imergir em água, esse me di
 
 E eu vi, e tenho testemunhado que este é o filho de Deus.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **CRÍTICO — VARIANTE TEXTUAL: "FILHO DE DEUS" vs. "ELEITO/ESCOLHIDO DE DEUS"**
 > - O texto principal da NA28 lê **ὁ υἱὸς τοῦ θεοῦ** (*ho huios tou theou*) = "o Filho de Deus." Uma variante significativa lê **ὁ ἐκλεκτὸς τοῦ θεοῦ** (*ho eklektos tou theou*) = "o escolhido de Deus" — atestada por 𝔓5vid, א*, b, e, ff2, algumas testemunhas siríacas. A leitura "escolhido" é a *lectio difficilior* (leitura mais difícil), mas tem atestação mais restrita. A NA28 mantém "Filho de Deus." A TT segue a NA28, mas anota a variante.
@@ -548,7 +542,7 @@ E eu vi, e tenho testemunhado que este é o filho de Deus.
 
 No dia seguinte, novamente Yochanan (João) estava de pé, e *dois* de seus seguidores,
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **"SEGUIDORES" — *MATHĒTAI***
 > - **μαθηταί** (*mathētai*) = aprendizes, estudantes, discípulos. Traduzido como "seguidores" — o termo implica aprendizado e formação sustentada, não apenas acompanhamento casual.
@@ -559,7 +553,7 @@ No dia seguinte, novamente Yochanan (João) estava de pé, e *dois* de seus segu
 
 e tendo olhado para Yeshua (Jesus) andando, diz: "Eis o cordeiro de Deus."
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **"TENDO OLHADO PARA" — *EMBLEPSAS***
 > - **ἐμβλέψας** (*emblepsas*) = particípio aoristo de ἐμβλέπω = "olhar atentamente, fitar." Mais forte que o simples ver — um olhar focado, penetrante.
@@ -576,7 +570,7 @@ E os dois seguidores o ouviram falando e seguiram Jesus.
 
 E Yeshua (Jesus), tendo se virado e tendo visto que o seguiam, diz-lhes: @@"O que vocês buscam?"@@ E eles lhe disseram: "Rabbi" — que, traduzido, significa Mestre — "onde você está hospedado?"
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **"RABBI" — TRANSLITERADO NO TEXTO GREGO**
 > - **Ῥαββί** (*Rhabbi*) = já uma transliteração no grego do hebraico/aramaico רַבִּי (*rabbi*, "meu grande" → "meu mestre"). O narrador o traduz para leitores gregos: "que, traduzido, significa Mestre." A TT preserva a glosa do próprio narrador.
@@ -590,7 +584,7 @@ E Yeshua (Jesus), tendo se virado e tendo visto que o seguiam, diz-lhes: @@"O qu
 
 Ele lhes diz: @@"Venham e vejam."@@ Foram e viram onde ele estava hospedado, e ficaram com ele naquele dia; *era* cerca da hora décima.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **"A HORA DÉCIMA"**
 > - Se contando a partir do nascer do sol (~6h), a hora décima = aproximadamente 16h. A notação temporal específica confere ao relato uma qualidade de testemunha ocular — alguém se lembrou da hora.
@@ -601,7 +595,7 @@ Ele lhes diz: @@"Venham e vejam."@@ Foram e viram onde ele estava hospedado, e f
 
 Andreas (André), o irmão de Shimon (Simão) Kefa (Pedro), era um dos dois que ouviram de João e o seguiram.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **ANDREAS — TRANSLITERAÇÃO TT**
 > - **Ἀνδρέας** (*Andreas*) = nome grego (de ἀνήρ, "homem"). Diferente dos nomes hebraicos transliterados para a forma hebraica, Andreas é nativamente grego e mantido como tal.
@@ -612,7 +606,7 @@ Andreas (André), o irmão de Shimon (Simão) Kefa (Pedro), era um dos dois que 
 
 Este encontra primeiro o seu próprio irmão Shimon (Simão) e lhe diz: "Encontramos o Messias" — que, traduzido, *é o* ungido.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **"MESSIAS" — TRANSLITERADO NO TEXTO GREGO**
 > - **Μεσσίας** (*Messias*) = transliteração grega do aramaico מְשִׁיחָא (*meshicha*) / hebraico מָשִׁיחַ (*mashiach*). O narrador traduz: "que, traduzido, *christos*" (ungido). A TT preserva "Messias" onde o próprio texto grego usa o termo semítico, e traduz a glosa grega como "ungido" conforme glossário fixo.
@@ -623,7 +617,7 @@ Este encontra primeiro o seu próprio irmão Shimon (Simão) e lhe diz: "Encontr
 
 Ele o levou a Yeshua (Jesus). Tendo olhado para ele, Jesus disse: @@"Você é Shimon (Simão), o filho de João; serás chamado Kefa (Pedro)"@@ — que se traduz "Rocha."
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **KEFA — TRANSLITERAÇÃO TT**
 > - **Κηφᾶς** (*Kēphas*) = transliteração grega do aramaico כֵּיפָא (*Kefa*, "rocha"). O narrador acrescenta a tradução grega: Πέτρος (*Petros*, "Rocha"). A TT usa "Kefa" e fornece o significado "Rocha" como o narrador faz.
@@ -637,7 +631,7 @@ Ele o levou a Yeshua (Jesus). Tendo olhado para ele, Jesus disse: @@"Você é Sh
 
 No dia seguinte ele quis sair para a Galil (Galileia), e encontra Philippos (Filipe). E Yeshua (Jesus) lhe diz: @@"Segue-me."@@
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **GALIL — TRANSLITERAÇÃO TT**
 > - **Γαλιλαία** (*Galilaia*) = forma grega do hebraico גָּלִיל (*Galil*, "círculo/distrito"). A TT usa a forma hebraica.
@@ -648,7 +642,7 @@ No dia seguinte ele quis sair para a Galil (Galileia), e encontra Philippos (Fil
 
 E Philippos (Filipe) era de Beyt-Tsaidah (Betsaida), da cidade de Andreas (André) e Kefa (Pedro).
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **BEYT-TSAIDAH — TRANSLITERAÇÃO TT**
 > - **Βηθσαϊδά** (*Bēthsaida*) = forma grega do hebraico/aramaico בֵּית צַיְדָה (*Beyt-Tsaidah*, "casa da pesca/caça"). A TT usa a forma semítica.
@@ -659,7 +653,7 @@ E Philippos (Filipe) era de Beyt-Tsaidah (Betsaida), da cidade de Andreas (Andr�
 
 Philippos (Filipe) encontra Nathanael (Natanael) e lhe diz: "Aquele de quem Mosheh (Moisés) escreveu na lei, e os profetas — *o* encontramos: Yeshua (Jesus), filho de Yosef, de Natseret (Nazaré)."
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟡 **"MOSHEH ESCREVEU NA LEI, E OS PROFETAS"**
 > - Filipe identifica Jesus com a figura antecipada na Torá e nos Profetas — sem especificar quais passagens. A afirmação é abrangente, mas não detalhada. "Filho de Yosef" é a identificação social; o narrador não a corrige nem qualifica aqui.
@@ -673,7 +667,7 @@ Philippos (Filipe) encontra Nathanael (Natanael) e lhe diz: "Aquele de quem Mosh
 
 E Nathanael (Natanael) lhe disse: "De Natseret (Nazaré) pode sair algo bom?" Philippos (Filipe) lhe diz: "Venha e veja."
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟡 **CETICISMO SOBRE NAZARÉ**
 > - A pergunta de Natanael reflete ou a insignificância de Nazaré ou um preconceito específico. O texto não explica a base do ceticismo — simplesmente o registra. "Vem e vê" — Filipe não argumenta; convida ao encontro direto.
@@ -684,7 +678,7 @@ E Nathanael (Natanael) lhe disse: "De Natseret (Nazaré) pode sair algo bom?" Ph
 
 Yeshua (Jesus) viu Nathanael (Natanael) vindo em sua direção e diz a respeito dele: @@"Eis, verdadeiramente um yisraeli em quem não há engano."@@
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟡 **ECO DE YAAKOV — "SEM ENGANO"**
 > - **δόλος** (*dolos*) = engano, astúcia, traição. Yaakov ("agarrador de calcanhar/suplantador") era caracterizado pelo engano (Gn 27). Jesus descreve Natanael como um verdadeiro yisraeli — sem o engano associado ao patriarca cujo nome Yisrael carrega. A alusão inverte a tradição de Yaakov.
@@ -695,7 +689,7 @@ Yeshua (Jesus) viu Nathanael (Natanael) vindo em sua direção e diz a respeito 
 
 Nathanael (Natanael) lhe diz: "De onde me conheces?" Yeshua (Jesus) respondeu e lhe disse: @@"Antes que Philippos (Filipe) te chamasse, *quando estavas* debaixo da figueira, eu te vi."@@
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟡 **"DEBAIXO DA FIGUEIRA"**
 > - A figueira é associada na tradição rabínica ao estudo da Torá. Se essa é a alusão aqui é incerto. O texto apresenta o conhecimento de Jesus sobre a localização de Natanael como sinal de percepção sobrenatural, sem explicar como.
@@ -706,7 +700,7 @@ Nathanael (Natanael) lhe diz: "De onde me conheces?" Yeshua (Jesus) respondeu e 
 
 Nathanael (Natanael) lhe respondeu: "Rabbi, você é o filho de Deus; você é o rei de Yisrael (Israel)."
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟡 **DOIS TÍTULOS — "FILHO DE DEUS" E "REI DE ISRAEL"**
 > - Num contexto do Segundo Templo, "Filho de Deus" podia designar o rei davídico (2 Sm 7:14, Sl 2:7) — um título real, não necessariamente uma afirmação metafísica. "Rei de Israel" reforça a leitura real-messiânica. A confissão de Natanael pode ser político-messiânica em vez de (ou além de) ontológica. O texto não resolve a questão.
@@ -717,7 +711,7 @@ Nathanael (Natanael) lhe respondeu: "Rabbi, você é o filho de Deus; você é o
 
 Yeshua (Jesus) respondeu e lhe disse: @@"Porque lhe disse que te vi debaixo da figueira, você confia? Você verá *coisas* maiores do que estas."@@
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **"CONFIAS?" — INDICATIVO OU INTERROGATIVO?**
 > - **πιστεύεις** (*pisteueis*) = "confias" — pode ser lido como declaração ("Confias.") ou pergunta ("Confias?"). O grego não distingue graficamente. A TT traduz como pergunta, seguindo a leitura majoritária, mas anota a ambiguidade.
@@ -728,7 +722,7 @@ Yeshua (Jesus) respondeu e lhe disse: @@"Porque lhe disse que te vi debaixo da f
 
 E lhe diz: @@"Amém, amém, eu lhes digo, vocês verão o céu aberto e os mensageiros de Deus subindo e descendo sobre o filho do homem."@@
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **CRÍTICO — ESCADA DE YAAKOV (GN 28:12)**
 > - **τοὺς ἀγγέλους τοῦ θεοῦ ἀναβαίνοντας καὶ καταβαίνοντας** = "os mensageiros de Deus subindo e descendo." Isso ecoa diretamente Gn 28:12: "e eis, mensageiros de Deus subindo e descendo nela." Em Gênesis, os mensageiros sobem e descem na escada (*sullam*); aqui, sobem e descem "sobre o Filho do Homem." O Filho do Homem substitui a escada como ponto de conexão entre céu e terra.

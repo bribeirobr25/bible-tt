@@ -30,17 +30,11 @@
 
 ## LESEANLEITUNG
 
-**📖 Haupttext:** Primäre Übersetzung—lesbar aber treu der hebräischen Struktur  
-**📝 Notizen:** Wesentliche hebräische Merkmale unmittelbar unter jedem Vers  
+**Haupttext:** Primäre Übersetzung—lesbar aber treu der hebräischen Struktur  
+**Notizen:** Wesentliche hebräische Merkmale unmittelbar unter jedem Vers  
 ***Kursiv:*** Wörter für deutsche Grammatik hinzugefügt (nicht im hebräischen Text)  
 **„Anführungszeichen":** Direkte göttliche Rede  
 **raqia:** Transliterierte hebräische Begriffe (in Notizen erklärt)
-
-**Notizen-Symbole:**
-- 🔴 **KRITISCH** - Wichtige textliche oder Übersetzungsentscheidungen
-- 🟢 **LEXIKALISCH** - Wortbedeutungen, Wurzelmuster, Glossarbegriffe
-- 🔵 **GRAMMATISCH** - Hebräische Struktur, Verbformen, Syntax
-- 🟡 **THEOLOGISCH** - Interpretationsoptionen, Ambiguitätsbewahrung
 
 ## KAPITELÜBERSICHT
 
@@ -80,7 +74,7 @@
 
 Im Anfang schuf Gott den Himmel und das Land.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 > 
 > 🔴 **KRITISCH - Struktur & Interpretation**  
 > Hebräisch: **בְּרֵאשִׁית בָּרָא אֱלֹהִים אֵת הַשָּׁמַיִם וְאֵת הָאָֽרֶץ** (*Bereshit bara elohim et hashamayim ve'et ha'aretz*)
@@ -104,7 +98,7 @@ Im Anfang schuf Gott den Himmel und das Land.
 
 Und das Land war Chaos und Leere, und Finsternis *war* über der Fläche der Tiefe, und {a:Wind/Geist} Gottes schwebend über der Fläche der Wasser.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 > 
 > 🟡 **AMBIGUITÄT BEWAHRT**
 > - **תֹהוּ וָבֹהוּ** (*tohu vavohu*) = seltene Phrase (erscheint nur 3x in der Bibel); genaue Bedeutung **UNGEWISS**; assoziiert mit Zerstörung/Verwüstung. „Chaos und Leere" ist **MÖGLICHE** Übersetzung. Vermeiden Sie elaborate kosmologische Spekulation.
@@ -124,7 +118,7 @@ Und das Land war Chaos und Leere, und Finsternis *war* über der Fläche der Tie
 
 Und Gott sprach: @@„Es werde Licht,"@@ und Licht war.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 > 
 > 🔵 **JUSSIV & VAV CONVERSIVUM** (Hier erklärt; nicht wiederholt in späteren Versen)
 > - **יְהִי** (*yehi*) = Futur/Jussiv-Form als göttlicher Befehl—wörtlich „es werde" statt Imperativ
@@ -137,7 +131,7 @@ Und Gott sprach: @@„Es werde Licht,"@@ und Licht war.
 
 Und Gott sah das Licht, dass gut, und Gott trennte zwischen dem Licht und zwischen der Finsternis.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 > 
 > 🔵 **KOMPRIMIERTE BEWERTUNG**
 > - Hebräisch **כִּי־טוֹב** (*ki-tov*) = „dass gut" ohne explizites „es war"—Transparente Ausgabe bewahrt hebräische Kompression; Leserausgabe würde zu „dass es gut war" erweitern
@@ -149,7 +143,7 @@ Und Gott sah das Licht, dass gut, und Gott trennte zwischen dem Licht und zwisch
 
 Und Gott nannte das Licht „Tag", und die Finsternis nannte er „Nacht". Und *es* war Abend, und *es* war Morgen, Tag eins.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 > 
 > 🔴 **KRITISCH - Tag EINS, Nicht ERSTER**
 > - Hebräisch **יוֹם אֶחָד** (*yom echad*) = Kardinalzahl—NICHT Ordinalzahl **רִאשׁוֹן** (*rishon* = „erster"). Tage 2-6 verwenden Ordinalzahlen (zweiter, dritter, vierter, fünfter, sechster). **Tag 1 wird linguistisch anders behandelt—dies ist bedeutsam.**
@@ -165,7 +159,7 @@ Und Gott nannte das Licht „Tag", und die Finsternis nannte er „Nacht". Und *
 
 Und Gott sprach: @@„Es werde *ein* {t:raqia} (Ausdehnung) innerhalb der Wasser, und *es* sei eine Scheidewand zwischen Wasser und Wasser."@@
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 > 
 > 🔴 **KRITISCH - RAQIA-EINFÜHRUNG**
 > - Hebräisch **רָקִיעַ** (*raqia*) von Wurzel **ר-ק-ע** = „hämmern/schlagen/ausbreiten"—der semantische Bereich des Wortes ist umstritten; antike Ausleger verstanden es unterschiedlich als solides Gewölbe, atmosphärische Ausdehnung oder Grenzschicht
@@ -182,7 +176,7 @@ Und Gott sprach: @@„Es werde *ein* {t:raqia} (Ausdehnung) innerhalb der Wasser
 
 Und Gott machte das {t:raqia}, und er trennte zwischen den Wassern, die unter dem {t:raqia} *waren*, und zwischen den Wassern, die über dem {t:raqia} *waren*. Und *es* war so.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 > 
 > 🟢 **VERBWECHSEL**
 > - **בָּרָא** (*bara* = schuf, V.1) vs. **עָשָׂה** (*asah* = machte, V.7)—beide für göttliche Handlung verwendet; **MÖGLICHER** Unterschied zwischen den Verben; der genaue Umfang von *bara* (Schöpfung aus dem Nichts oder Umgestaltung vorhandenen Materials) ist umstritten
@@ -196,7 +190,7 @@ Und Gott machte das {t:raqia}, und er trennte zwischen den Wassern, die unter de
 
 Und Gott nannte das {t:raqia} „Himmel". Und *es* war Abend, und *es* war Morgen, zweiter Tag.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 > 
 > 🔴 **KRITISCH - RAQIA = HIMMEL-IDENTIFIKATION**
 > - Gott identifiziert explizit **raqia = shamayim (Himmel)**—der Text verankert *raqia* im Bereich des sichtbaren Himmels. Der semantische Bereich von *raqia* (von der Wurzel „hämmern/ausbreiten") bleibt unter Gelehrten umstritten; antike Ausleger verstanden es unterschiedlich als solides Gewölbe, atmosphärische Ausdehnung oder Grenzschicht. Diese Identifizierung legt den Himmelsbereich fest, ohne jene Fragen zu lösen.
@@ -211,7 +205,7 @@ Und Gott nannte das {t:raqia} „Himmel". Und *es* war Abend, und *es* war Morge
 
 Und Gott sprach: @@„Die Wasser unter dem Himmel sollen sich sammeln an einen Ort, und das trockene *Land* werde gesehen."@@ Und *es* war so.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 > 
 > 🔵 **PASSIV BEWAHRT**
 > - **יִקָּווּ** (*yikavu*) = „sollen sich sammeln" (passiv); **תֵרָאֶה** (*teira'eh*) = „werde gesehen" (passiv)—nicht aktive Befehle an die Wasser, sondern passive göttliche Verursachung
@@ -226,7 +220,7 @@ Und Gott sprach: @@„Die Wasser unter dem Himmel sollen sich sammeln an einen O
 
 Und Gott nannte das trockene *Land* „Land", und die Ansammlung der Wasser nannte er „Meere". Und Gott sah, dass gut.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 > 
 > 🟢 **SINGULAR vs. PLURAL**
 > - **אֶרֶץ** (*eretz*) = Land (SINGULAR zusammenhängende Landmasse); **יַמִּים** (*yamim*) = Meere (PLURAL getrennte Wasserkörper)
@@ -238,7 +232,7 @@ Und Gott nannte das trockene *Land* „Land", und die Ansammlung der Wasser nann
 
 Und Gott sprach: @@„Das Land lasse grünen Grün, Kräuter samend Samen, Fruchtbäume Frucht-machend nach seiner Art, deren Samen in ihm *ist*, auf dem Land."@@ Und *es* war so.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 > 
 > 🟢 **SELTENES VERB - „GRÜNEN LASSEN"**
 > - **תַּדְשֵׁא** (*tadsheh*) = Verb aus Substantiv **דֶּשֶׁא** (Grün/Gras) gebildet—ähnlich zu „grünen lassen". JA, klingt ungewöhnlich—**beabsichtigte Bewahrung des hebräischen poetischen Stils.**
@@ -257,7 +251,7 @@ Und Gott sprach: @@„Das Land lasse grünen Grün, Kräuter samend Samen, Fruch
 
 Und das Land brachte hervor Grün, Kräuter samend Samen nach ihrer Art, und Bäume Frucht-machend, deren Samen in ihm *ist*, nach ihrer Art. Und Gott sah, dass gut.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 > 
 > 🔵 **BEFEHL → ERFÜLLUNGSMUSTER**
 > - V.11 Befehl → V.12 Erfüllung mit nahezu identischem Wortlaut—zeigt exakte Übereinstimmung
@@ -275,7 +269,7 @@ Und *es* war Abend, und *es* war Morgen, dritter Tag.
 
 Und Gott sprach: @@„Es sollen sein Lichter im {t:raqia}, zu trennen zwischen dem Tag und zwischen der Nacht, und sie sollen sein für Zeichen und für bestimmte Zeiten und für Tage und Jahre.@@
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 > 
 > 🟢 **LICHTKÖRPER EINGEFÜHRT**
 > - **מְאֹרֹת** (*me'orot*) = Lichter/Leuchtkörper/Lichtträger von Wurzel **א-ו-ר** (Licht)—Plural, aber spezifische Referenten unbenannt bis V.16
@@ -298,7 +292,7 @@ Und Gott sprach: @@„Es sollen sein Lichter im {t:raqia}, zu trennen zwischen d
 
 Und Gott machte die zwei großen Lichter: das größere Licht für die Herrschaft des Tages, und das kleinere Licht für die Herrschaft der Nacht, und die Sterne.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 > 
 > 🔴 **KRITISCH - UNBENANNTE LICHTKÖRPER**
 > - Sonne und Mond **UNBENANNT GELASSEN**—nur als „größeres Licht" und „kleineres Licht" beschrieben
@@ -316,7 +310,7 @@ Und Gott machte die zwei großen Lichter: das größere Licht für die Herrschaf
 
 Und Gott setzte sie in das {t:raqia}, zu leuchten auf das Land.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 > 
 > 🔵 **PLATZIERUNG**
 > - Lichter platziert **IM** raqia—Kontrast: Vögel fliegen **ÜBER** das raqia (V.20)
@@ -327,7 +321,7 @@ Und Gott setzte sie in das {t:raqia}, zu leuchten auf das Land.
 
 Und zu herrschen am Tag und in der Nacht, und zu trennen zwischen dem Licht und zwischen der Finsternis. Und Gott sah, dass gut.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 > 
 > 🔵 **ZWECK-INFINITIVE**
 > - „Zu herrschen...und zu trennen"—parallele Funktionen der Lichter
@@ -344,7 +338,7 @@ Und *es* war Abend, und *es* war Morgen, vierter Tag.
 
 Und Gott sprach: @@„Die Wasser sollen wimmeln *von* Gewimmel lebendiger Wesen, und Vögel sollen fliegen über das Land, über der Fläche des {t:raqia}."@@
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 > 
 > 🔴 **KRITISCH - LEBENDIGE WESEN EINGEFÜHRT**
 > - **נֶפֶשׁ חַיָּה** (*nefesh chayah*) = lebendiges Wesen/lebendige Wesen—wörtlich „lebendiger Atem/Kehle/Seele"; **NICHT „Seele" im späteren philosophischen Sinne**
@@ -363,7 +357,7 @@ Und Gott sprach: @@„Die Wasser sollen wimmeln *von* Gewimmel lebendiger Wesen,
 
 Und Gott schuf die großen Meeresgeschöpfe, und jedes lebendige Wesen, die sich bewegenden, *die* die Wasser wimmelten, nach ihren Arten, und jeden beflügelten Vogel nach seiner Art. Und Gott sah, dass gut.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 > 
 > 🔴 **KRITISCH - GESCHAFFEN, NICHT GEMACHT**
 > - **בָּרָא** (*bara* = schuf) kehrt zum ersten Mal seit V.1 zurück—verwendet für lebendige Wesen, NICHT für Lichter oder Pflanzen; deutet auf Bedeutungsunterschied hin
@@ -378,7 +372,7 @@ Und Gott schuf die großen Meeresgeschöpfe, und jedes lebendige Wesen, die sich
 
 Und Gott segnete sie, sagend: @@„Seid fruchtbar und mehret euch, und füllet die Wasser in den Meeren, und die Vögel sollen sich mehren auf dem Land."@@
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 > 
 > 🔴 **ERSTE SEGENSFORMEL**
 > - **וַיְבָרֶךְ** (*vayvarekh*) = „und er segnete" (erstes Auftreten)—wird wiederkehren: V.28 (Menschen), Genesis 2:3 (siebter Tag)
@@ -399,7 +393,7 @@ Und *es* war Abend, und *es* war Morgen, fünfter Tag.
 
 Und Gott sprach: @@„Das Land bringe hervor lebendige Wesen nach ihrer Art: Vieh und kriechende Dinge und Lebewesen des Landes, nach ihrer Art."@@ Und *es* war so.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 > 
 > 🟢 **NEFESH CHAYAH - Landtiere**
 > - **נֶפֶשׁ חַיָּה** jetzt angewendet auf Landtiere (zuvor Wassergeschöpfe, Vv.20-21)
@@ -414,7 +408,7 @@ Und Gott sprach: @@„Das Land bringe hervor lebendige Wesen nach ihrer Art: Vie
 
 Und Gott machte die Lebewesen des Landes nach ihrer Art, und das Vieh nach seiner Art, und jedes kriechende Ding des Bodens nach seiner Art. Und Gott sah, dass gut.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 > 
 > 🟢 **BODEN vs. LAND**
 > - **אֲדָמָה** (*adamah*) = Boden/Erde (ERSTES Auftreten)—unterscheidet sich von **אֶרֶץ** (*eretz* = Land)
@@ -430,7 +424,7 @@ Und Gott machte die Lebewesen des Landes nach ihrer Art, und das Vieh nach seine
 
 Und Gott sprach: @@„Lasst uns *einen* Menschen machen in unserem Bild, nach unserer Ähnlichkeit, und sie sollen herrschen über die Fische des Meeres und über die Vögel des Himmels und über das Vieh und über das ganze Land und über jedes kriechende Ding, *das* kriecht auf dem Land."@@
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 > 
 > 🟡 **KRITISCH - PLURALE GÖTTLICHE REDE**
 > - Erste Person **PLURAL**: „Lasst **uns** machen...in **unserem** Bild...**unserer** Ähnlichkeit"
@@ -456,7 +450,7 @@ Und Gott sprach: @@„Lasst uns *einen* Menschen machen in unserem Bild, nach un
 
 Und Gott schuf den Menschen in seinem Bild; im Bild Gottes schuf er ihn; männlich und weiblich schuf er sie.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 > 
 > 🔴 **KRITISCH - DREIFACHE SCHÖPFUNGSBETONUNG**
 > - **בָּרָא** (*bara* = schuf) **DREIMAL** verwendet—**EINZIGES Auftreten** dreifacher Verbwiederholung in einem Vers; zeigt maximale Bedeutung/Betonung
@@ -475,7 +469,7 @@ Und Gott schuf den Menschen in seinem Bild; im Bild Gottes schuf er ihn; männli
 
 Und Gott segnete sie, und Gott sprach zu ihnen: @@„Seid fruchtbar und mehret euch, und füllet das Land und unterwerfet es, und herrschet über die Fische des Meeres und über die Vögel des Himmels und über jedes Lebewesen, *das* sich bewegt auf dem Land."@@
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 > 
 > 🔵 **SEGENSFORMEL**
 > - Wie V.22 (Meeresgeschöpfe/Vögel), aber erweitert für Menschen mit zusätzlichen Befehlen
@@ -496,7 +490,7 @@ Und Gott segnete sie, und Gott sprach zu ihnen: @@„Seid fruchtbar und mehret e
 
 Und Gott sprach: @@„Siehe, ich habe euch gegeben jedes Kraut samend Samen, *das* auf der Fläche des ganzen Landes *ist*, und jeden Baum, in dem *ist* Frucht *eines* Baumes samend Samen; euch soll *es* sein zur Nahrung.@@
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 > 
 > 🔵 **AUFMERKSAMKEITSPARTIKEL**
 > - **הִנֵּה** (*hineh*) = „siehe"—signalisiert wichtige Ankündigung
@@ -513,7 +507,7 @@ Und Gott sprach: @@„Siehe, ich habe euch gegeben jedes Kraut samend Samen, *da
 
 @@Und jedem Lebewesen des Landes und jedem Vogel des Himmels und allem Kriechenden auf dem Land, in dem *ein* lebendiges Wesen *ist*, jedes grüne Kraut zur Nahrung."@@ Und *es* war so.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 > 
 > 🟢 **NEFESH CHAYAH = Qualifikator**
 > - **נֶפֶשׁ חַיָּה** unterscheidet Tiere mit Atem/Leben von Pflanzen
@@ -528,7 +522,7 @@ Und Gott sprach: @@„Siehe, ich habe euch gegeben jedes Kraut samend Samen, *da
 
 Und Gott sah alles, was er gemacht hatte, und siehe, *es war* sehr gut. Und *es* war Abend, und *es* war Morgen, der sechste Tag.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 > 
 > 🔴 **KRITISCH - BEWERTUNGSWECHSEL: SEHR GUT**
 > - **טוֹב מְאֹד** (*tov me'od*) = „SEHR gut" vs. einfaches **טוֹב** (*tov* = „gut") in ALLEN vorherigen Tagen
