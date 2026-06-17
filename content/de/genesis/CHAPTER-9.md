@@ -59,13 +59,13 @@
 
 ---
 
-¹Und Gott segnete Noach (Noah) und seine Söhne und sprach zu ihnen: „Seid fruchtbar und mehrt euch und füllt das Land. ²Und die Furcht vor euch und der Schrecken vor euch soll sein auf jedem Lebewesen des Landes und auf jedem Vogel des Himmels, in allem, womit der Boden wimmelt, und in allen Fischen des Meeres; in eure Hand sind sie gegeben. ³Jedes Sich-Bewegende, das lebendig *ist*, soll euch zur Speise sein; wie die grüne Pflanze habe ich euch alles gegeben. ⁴Nur Fleisch mit seinem Leben — seinem Blut — sollt ihr nicht essen. ⁵Und gewiss, euer Blut eurer Leben werde ich fordern; von der Hand jedes Lebewesens werde ich es fordern, und von der Hand des Menschen, von der Hand eines Mannes, seines Bruders, werde ich das Leben des Menschen fordern. ⁶Wer das Blut des Menschen vergießt, durch den Menschen soll sein Blut vergossen werden, denn im Bild Gottes machte er den Menschen. ⁷Und ihr, seid fruchtbar und mehrt euch, wimmelt auf dem Land und mehrt euch darauf."
+¹Und Gott segnete Noach (Noah) und seine Söhne und sprach zu ihnen: @@„Seid fruchtbar und mehrt euch und füllt das Land. ²Und die Furcht vor euch und der Schrecken vor euch soll sein auf jedem Lebewesen des Landes und auf jedem Vogel des Himmels, in allem, womit der Boden wimmelt, und in allen Fischen des Meeres; in eure Hand sind sie gegeben. ³Jedes Sich-Bewegende, das lebendig *ist*, soll euch zur Speise sein; wie die grüne Pflanze habe ich euch alles gegeben. ⁴Nur Fleisch mit seinem Leben — seinem Blut — sollt ihr nicht essen. ⁵Und gewiss, euer Blut eurer Leben werde ich fordern; von der Hand jedes Lebewesens werde ich es fordern, und von der Hand des Menschen, von der Hand eines Mannes, seines Bruders, werde ich das Leben des Menschen fordern. ⁶Wer das Blut des Menschen vergießt, durch den Menschen soll sein Blut vergossen werden, denn im Bild Gottes machte er den Menschen. ⁷Und ihr, seid fruchtbar und mehrt euch, wimmelt auf dem Land und mehrt euch darauf."@@
 
-⁸Und Gott sprach zu Noah und zu seinen Söhnen mit ihm und sagte: ⁹„Und ich, siehe, ich *bin am* Aufrichten meines Bundes mit euch und mit eurem Samen nach euch, ¹⁰und mit jedem lebenden Wesen, das mit euch *ist* — dem Vogel, dem Vieh, und jedem Lebewesen des Landes mit euch — von allem, was aus der Tebah ging, bis zu jedem Lebewesen des Landes. ¹¹Und ich werde meinen Bund mit euch aufrichten, und alles Fleisch soll nicht wieder abgeschnitten werden durch die Wasser der Flut, und es soll nicht wieder eine Flut sein, um das Land zu vernichten."
+⁸Und Gott sprach zu Noah und zu seinen Söhnen mit ihm und sagte: ⁹@@„Und ich, siehe, ich *bin am* Aufrichten meines Bundes mit euch und mit eurem Samen nach euch, ¹⁰und mit jedem lebenden Wesen, das mit euch *ist* — dem Vogel, dem Vieh, und jedem Lebewesen des Landes mit euch — von allem, was aus der {t:Tebah} ging, bis zu jedem Lebewesen des Landes. ¹¹Und ich werde meinen Bund mit euch aufrichten, und alles Fleisch soll nicht wieder abgeschnitten werden durch die Wasser der Flut, und es soll nicht wieder eine Flut sein, um das Land zu vernichten."@@
 
-¹²Und Gott sprach: „Dies *ist* das Zeichen des Bundes, den ich gebe zwischen mir und zwischen euch und zwischen jedem lebenden Wesen, das mit euch *ist*, für Geschlechter der Ewigkeit: ¹³Meinen Bogen habe ich gesetzt in die Wolke, und er soll sein zum Zeichen des Bundes zwischen mir und zwischen dem Land. ¹⁴Und es soll sein, wenn ich Wolken bringe über das Land und der Bogen in der Wolke erscheint, ¹⁵und ich werde meines Bundes gedenken, der zwischen mir und zwischen euch und zwischen jedem lebenden Wesen in allem Fleisch *ist*, und die Wasser sollen nicht wieder zu einer Flut werden, um alles Fleisch zu vernichten. ¹⁶Und der Bogen soll in der Wolke sein, und ich werde ihn sehen, um des Bundes der Ewigkeit zu gedenken zwischen Gott und zwischen jedem lebenden Wesen in allem Fleisch, das auf dem Land *ist*." ¹⁷Und Gott sprach zu Noah: „Dies *ist* das Zeichen des Bundes, den ich aufgerichtet habe zwischen mir und zwischen allem Fleisch, das auf dem Land *ist*."
+¹²Und Gott sprach: @@„Dies *ist* das Zeichen des Bundes, den ich gebe zwischen mir und zwischen euch und zwischen jedem lebenden Wesen, das mit euch *ist*, für Geschlechter der Ewigkeit: ¹³Meinen Bogen habe ich gesetzt in die Wolke, und er soll sein zum Zeichen des Bundes zwischen mir und zwischen dem Land. ¹⁴Und es soll sein, wenn ich Wolken bringe über das Land und der Bogen in der Wolke erscheint, ¹⁵und ich werde meines Bundes gedenken, der zwischen mir und zwischen euch und zwischen jedem lebenden Wesen in allem Fleisch *ist*, und die Wasser sollen nicht wieder zu einer Flut werden, um alles Fleisch zu vernichten. ¹⁶Und der Bogen soll in der Wolke sein, und ich werde ihn sehen, um des Bundes der Ewigkeit zu gedenken zwischen Gott und zwischen jedem lebenden Wesen in allem Fleisch, das auf dem Land *ist*."@@ ¹⁷Und Gott sprach zu Noah: @@„Dies *ist* das Zeichen des Bundes, den ich aufgerichtet habe zwischen mir und zwischen allem Fleisch, das auf dem Land *ist*."@@
 
-¹⁸Und die Söhne Noahs, die aus der Tebah gingen, waren Shem und Cham (Ham) und Yafet (Jafet); und Ham *ist* der Vater Kanaans. ¹⁹Diese drei *sind* die Söhne Noahs, und von diesen breitete sich das ganze Land aus.
+¹⁸Und die Söhne Noahs, die aus der {t:Tebah} gingen, waren Shem und Cham (Ham) und Yafet (Jafet); und Ham *ist* der Vater Kanaans. ¹⁹Diese drei *sind* die Söhne Noahs, und von diesen breitete sich das ganze Land aus.
 
 ²⁰Und Noah begann *als* ein Mann des Bodens und pflanzte einen Weinberg. ²¹Und er trank vom Wein und wurde betrunken, und er entblößte sich in der Mitte seines Zeltes. ²²Und Ham, der Vater Kanaans, sah die Blöße seines Vaters, und er berichtete *es* seinen zwei Brüdern draußen. ²³Und Shem und Jafet nahmen das Gewand und legten *es* auf die Schulter ihrer beider, und sie gingen rückwärts, und sie bedeckten die Blöße ihres Vaters; und ihre Gesichter *waren* rückwärts, und die Blöße ihres Vaters sahen sie nicht.
 
@@ -79,7 +79,7 @@
 
 ### **Vers 1**
 
-Und Gott segnete Noach (Noah) und seine Söhne und sprach zu ihnen: „Seid fruchtbar und mehrt euch und füllt das Land.
+Und Gott segnete Noach (Noah) und seine Söhne und sprach zu ihnen: @@„Seid fruchtbar und mehrt euch und füllt das Land.@@
 
 > **📝 NOTIZEN**
 >
@@ -90,7 +90,7 @@ Und Gott segnete Noach (Noah) und seine Söhne und sprach zu ihnen: „Seid fruc
 
 ### **Vers 2**
 
-Und die Furcht vor euch und der Schrecken vor euch soll sein auf jedem Lebewesen des Landes und auf jedem Vogel des Himmels, in allem, womit der Boden wimmelt, und in allen Fischen des Meeres; in eure Hand sind sie gegeben.
+@@Und die Furcht vor euch und der Schrecken vor euch soll sein auf jedem Lebewesen des Landes und auf jedem Vogel des Himmels, in allem, womit der Boden wimmelt, und in allen Fischen des Meeres; in eure Hand sind sie gegeben.@@
 
 > **📝 NOTIZEN**
 >
@@ -104,7 +104,7 @@ Und die Furcht vor euch und der Schrecken vor euch soll sein auf jedem Lebewesen
 
 ### **Vers 3**
 
-Jedes Sich-Bewegende, das lebendig *ist*, soll euch zur Speise sein; wie die grüne Pflanze habe ich euch alles gegeben.
+@@Jedes Sich-Bewegende, das lebendig *ist*, soll euch zur Speise sein; wie die grüne Pflanze habe ich euch alles gegeben.@@
 
 > **📝 NOTIZEN**
 >
@@ -115,7 +115,7 @@ Jedes Sich-Bewegende, das lebendig *ist*, soll euch zur Speise sein; wie die gr�
 
 ### **Vers 4**
 
-Nur Fleisch mit seinem Leben — seinem Blut — sollt ihr nicht essen.
+@@Nur Fleisch mit seinem Leben — seinem Blut — sollt ihr nicht essen.@@
 
 > **📝 NOTIZEN**
 >
@@ -127,7 +127,7 @@ Nur Fleisch mit seinem Leben — seinem Blut — sollt ihr nicht essen.
 
 ### **Vers 5**
 
-Und gewiss, euer Blut eurer Leben werde ich fordern; von der Hand jedes Lebewesens werde ich es fordern, und von der Hand des Menschen, von der Hand eines Mannes, seines Bruders, werde ich das Leben des Menschen fordern.
+@@Und gewiss, euer Blut eurer Leben werde ich fordern; von der Hand jedes Lebewesens werde ich es fordern, und von der Hand des Menschen, von der Hand eines Mannes, seines Bruders, werde ich das Leben des Menschen fordern.@@
 
 > **📝 NOTIZEN**
 >
@@ -138,7 +138,7 @@ Und gewiss, euer Blut eurer Leben werde ich fordern; von der Hand jedes Lebewese
 
 ### **Vers 6**
 
-Wer das Blut des Menschen vergießt, durch den Menschen soll sein Blut vergossen werden, denn im Bild Gottes machte er den Menschen.
+@@Wer das Blut des Menschen vergießt, durch den Menschen soll sein Blut vergossen werden, denn im Bild Gottes machte er den Menschen.@@
 
 > **📝 NOTIZEN**
 >
@@ -152,7 +152,7 @@ Wer das Blut des Menschen vergießt, durch den Menschen soll sein Blut vergossen
 
 ### **Vers 7**
 
-Und ihr, seid fruchtbar und mehrt euch, wimmelt auf dem Land und mehrt euch darauf."
+@@Und ihr, seid fruchtbar und mehrt euch, wimmelt auf dem Land und mehrt euch darauf."@@
 
 > **📝 NOTIZEN**
 >
@@ -169,7 +169,7 @@ Und Gott sprach zu Noah und zu seinen Söhnen mit ihm und sagte:
 
 ### **Vers 9**
 
-„Und ich, siehe, ich *bin am* Aufrichten meines Bundes mit euch und mit eurem Samen nach euch,
+@@„Und ich, siehe, ich *bin am* Aufrichten meines Bundes mit euch und mit eurem Samen nach euch,@@
 
 > **📝 NOTIZEN**
 >
@@ -183,7 +183,7 @@ Und Gott sprach zu Noah und zu seinen Söhnen mit ihm und sagte:
 
 ### **Vers 10**
 
-und mit jedem lebenden Wesen, das mit euch *ist* — dem Vogel, dem Vieh, und jedem Lebewesen des Landes mit euch — von allem, was aus der Tebah ging, bis zu jedem Lebewesen des Landes.
+@@und mit jedem lebenden Wesen, das mit euch *ist* — dem Vogel, dem Vieh, und jedem Lebewesen des Landes mit euch — von allem, was aus der {t:Tebah} ging, bis zu jedem Lebewesen des Landes.@@
 
 > **📝 NOTIZEN**
 >
@@ -194,13 +194,13 @@ und mit jedem lebenden Wesen, das mit euch *ist* — dem Vogel, dem Vieh, und je
 
 ### **Vers 11**
 
-Und ich werde meinen Bund mit euch aufrichten, und alles Fleisch soll nicht wieder abgeschnitten werden durch die Wasser der Flut, und es soll nicht wieder eine Flut sein, um das Land zu vernichten."
+@@Und ich werde meinen Bund mit euch aufrichten, und alles Fleisch soll nicht wieder abgeschnitten werden durch die Wasser der Flut, und es soll nicht wieder eine Flut sein, um das Land zu vernichten."@@
 
 ---
 
 ### **Vers 12**
 
-Und Gott sprach: „Dies *ist* das Zeichen des Bundes, den ich gebe zwischen mir und zwischen euch und zwischen jedem lebenden Wesen, das mit euch *ist*, für Geschlechter der Ewigkeit:
+Und Gott sprach: @@„Dies *ist* das Zeichen des Bundes, den ich gebe zwischen mir und zwischen euch und zwischen jedem lebenden Wesen, das mit euch *ist*, für Geschlechter der Ewigkeit:@@
 
 > **📝 NOTIZEN**
 >
@@ -211,7 +211,7 @@ Und Gott sprach: „Dies *ist* das Zeichen des Bundes, den ich gebe zwischen mir
 
 ### **Vers 13**
 
-Meinen Bogen habe ich gesetzt in die Wolke, und er soll sein zum Zeichen des Bundes zwischen mir und zwischen dem Land.
+@@Meinen Bogen habe ich gesetzt in die Wolke, und er soll sein zum Zeichen des Bundes zwischen mir und zwischen dem Land.@@
 
 > **📝 NOTIZEN**
 >
@@ -225,13 +225,13 @@ Meinen Bogen habe ich gesetzt in die Wolke, und er soll sein zum Zeichen des Bun
 
 ### **Vers 14**
 
-Und es soll sein, wenn ich Wolken bringe über das Land und der Bogen in der Wolke erscheint,
+@@Und es soll sein, wenn ich Wolken bringe über das Land und der Bogen in der Wolke erscheint,@@
 
 ---
 
 ### **Vers 15**
 
-und ich werde meines Bundes gedenken, der zwischen mir und zwischen euch und zwischen jedem lebenden Wesen in allem Fleisch *ist*, und die Wasser sollen nicht wieder zu einer Flut werden, um alles Fleisch zu vernichten.
+@@und ich werde meines Bundes gedenken, der zwischen mir und zwischen euch und zwischen jedem lebenden Wesen in allem Fleisch *ist*, und die Wasser sollen nicht wieder zu einer Flut werden, um alles Fleisch zu vernichten.@@
 
 > **📝 NOTIZEN**
 >
@@ -242,7 +242,7 @@ und ich werde meines Bundes gedenken, der zwischen mir und zwischen euch und zwi
 
 ### **Vers 16**
 
-Und der Bogen soll in der Wolke sein, und ich werde ihn sehen, um des Bundes der Ewigkeit zu gedenken zwischen Gott und zwischen jedem lebenden Wesen in allem Fleisch, das auf dem Land *ist*."
+@@Und der Bogen soll in der Wolke sein, und ich werde ihn sehen, um des Bundes der Ewigkeit zu gedenken zwischen Gott und zwischen jedem lebenden Wesen in allem Fleisch, das auf dem Land *ist*."@@
 
 > **📝 NOTIZEN**
 >
@@ -253,13 +253,13 @@ Und der Bogen soll in der Wolke sein, und ich werde ihn sehen, um des Bundes der
 
 ### **Vers 17**
 
-Und Gott sprach zu Noah: „Dies *ist* das Zeichen des Bundes, den ich aufgerichtet habe zwischen mir und zwischen allem Fleisch, das auf dem Land *ist*."
+Und Gott sprach zu Noah: @@„Dies *ist* das Zeichen des Bundes, den ich aufgerichtet habe zwischen mir und zwischen allem Fleisch, das auf dem Land *ist*."@@
 
 ---
 
 ### **Vers 18**
 
-Und die Söhne Noahs, die aus der Tebah gingen, waren Shem und Cham (Ham) und Yafet (Jafet); und Ham *ist* der Vater Kanaans.
+Und die Söhne Noahs, die aus der {t:Tebah} gingen, waren Shem und Cham (Ham) und Yafet (Jafet); und Ham *ist* der Vater Kanaans.
 
 > **📝 NOTIZEN**
 >

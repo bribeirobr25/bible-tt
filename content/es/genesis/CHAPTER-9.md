@@ -61,13 +61,13 @@
 
 ---
 
-¹Y Dios bendijo a Noé y a sus hijos y les dijo, "Sean fecundos y multipliquense y llenen la tierra. ²Y el temor de ustedes y el pavor de ustedes estará sobre todo ser vivo de la tierra, y sobre toda ave del cielo, en todo lo que el suelo pulula, y en todos los peces del mar; en su mano son dados. ³Todo lo que se mueve que *esta* vivo será alimento para ustedes; como la planta verde, les he dado todo. ⁴Solo carne con su vida — su sangre — no comerán. ⁵Y ciertamente su sangre de sus vidas yo requeriré; de la mano de todo ser vivo lo requeriré, y de la mano del humano, de la mano del hombre, su hermano, requeriré la vida del humano. ⁶El que derrama la sangre del humano, por el humano su sangre será derramada, pues a imagen de Dios hizo al humano. ⁷Y ustedes, sean fecundos y multipliquense, pululen en la tierra y multipliquense en ella."
+¹Y Dios bendijo a Noé y a sus hijos y les dijo, @@"Sean fecundos y multipliquense y llenen la tierra. ²Y el temor de ustedes y el pavor de ustedes estará sobre todo ser vivo de la tierra, y sobre toda ave del cielo, en todo lo que el suelo pulula, y en todos los peces del mar; en su mano son dados. ³Todo lo que se mueve que *esta* vivo será alimento para ustedes; como la planta verde, les he dado todo. ⁴Solo carne con su vida — su sangre — no comerán. ⁵Y ciertamente su sangre de sus vidas yo requeriré; de la mano de todo ser vivo lo requeriré, y de la mano del humano, de la mano del hombre, su hermano, requeriré la vida del humano. ⁶El que derrama la sangre del humano, por el humano su sangre será derramada, pues a imagen de Dios hizo al humano. ⁷Y ustedes, sean fecundos y multipliquense, pululen en la tierra y multipliquense en ella."@@
 
-⁸Y Dios dijo a Noé y a sus hijos con el, diciendo, ⁹"Y yo, he aquí, yo *estoy* estableciendo mi pacto con ustedes y con su simiente después de ustedes, ¹⁰y con todo ser vivo que *esta* con ustedes — el ave, el ganado, y todo ser vivo de la tierra con ustedes — de todos los que salieron de la tebah, a todo ser vivo de la tierra. ¹¹Y estableceré mi pacto con ustedes, y no será cortada otra vez toda carne por las aguas del diluvio, y no habrá otra vez diluvio para destruir la tierra."
+⁸Y Dios dijo a Noé y a sus hijos con el, diciendo, ⁹@@"Y yo, he aquí, yo *estoy* estableciendo mi pacto con ustedes y con su simiente después de ustedes, ¹⁰y con todo ser vivo que *esta* con ustedes — el ave, el ganado, y todo ser vivo de la tierra con ustedes — de todos los que salieron de la {t:tebah}, a todo ser vivo de la tierra. ¹¹Y estableceré mi pacto con ustedes, y no será cortada otra vez toda carne por las aguas del diluvio, y no habrá otra vez diluvio para destruir la tierra."@@
 
-¹²Y Dios dijo, "Esta *es* la señal del pacto que yo *estoy* dando entre mi y entre ustedes y entre todo ser vivo que *esta* con ustedes, por generaciónes de perpetuidad: ¹³mi arco he puesto en la nube, y será por señal del pacto entre mi y entre la tierra. ¹⁴Y será cuando yo traiga nubes sobre la tierra, y el arco aparezca en la nube, ¹⁵y me acordaré de mi pacto que *esta* entre mi y entre ustedes y entre todo ser vivo en toda carne, y las aguas no volverán a ser diluvio para destruir toda carne. ¹⁶Y el arco estará en la nube, y lo veré para acordarme del pacto de perpetuidad entre Dios y entre todo ser vivo en toda carne que *esta* sobre la tierra." ¹⁷Y Dios dijo a Noé, "Esta *es* la señal del pacto que he establecido entre mi y entre toda carne que *esta* sobre la tierra."
+¹²Y Dios dijo, @@"Esta *es* la señal del pacto que yo *estoy* dando entre mi y entre ustedes y entre todo ser vivo que *esta* con ustedes, por generaciónes de perpetuidad: ¹³mi arco he puesto en la nube, y será por señal del pacto entre mi y entre la tierra. ¹⁴Y será cuando yo traiga nubes sobre la tierra, y el arco aparezca en la nube, ¹⁵y me acordaré de mi pacto que *esta* entre mi y entre ustedes y entre todo ser vivo en toda carne, y las aguas no volverán a ser diluvio para destruir toda carne. ¹⁶Y el arco estará en la nube, y lo veré para acordarme del pacto de perpetuidad entre Dios y entre todo ser vivo en toda carne que *esta* sobre la tierra."@@ ¹⁷Y Dios dijo a Noé, @@"Esta *es* la señal del pacto que he establecido entre mi y entre toda carne que *esta* sobre la tierra."@@
 
-¹⁸Y los hijos de Noé que salieron de la tebah fueron Sem y Cam y Jafet; y Cam *es* el padre de Canaán. ¹⁹Estos tres *son* los hijos de Noé, y de estos fue esparcida toda la tierra.
+¹⁸Y los hijos de Noé que salieron de la {t:tebah} fueron Sem y Cam y Jafet; y Cam *es* el padre de Canaán. ¹⁹Estos tres *son* los hijos de Noé, y de estos fue esparcida toda la tierra.
 
 ²⁰Y Noé comenzó *como* hombre del suelo y plantó una viña. ²¹Y bebió del vino y se embriagó, y se descubrió en medio de su tienda. ²²Y Cam, el padre de Canaán, vio la desnudez de su padre, y contó a sus dos hermaños afuera. ²³Y Sem y Jafet tomaron la vestidura y *la* pusieron sobre el hombro de los dos, y caminaron hacia atrás, y cubrieron la desnudez de su padre; y sus rostros *iban* hacia atrás, y la desnudez de su padre no vieron.
 
@@ -81,7 +81,7 @@
 
 ### **Versículo 1**
 
-Y Dios bendijo a Noé y a sus hijos y les dijo, "Sean fecundos y multipliquense y llenen la tierra.
+Y Dios bendijo a Noé y a sus hijos y les dijo, @@"Sean fecundos y multipliquense y llenen la tierra.@@
 
 > **📝 NOTAS**
 >
@@ -92,7 +92,7 @@ Y Dios bendijo a Noé y a sus hijos y les dijo, "Sean fecundos y multipliquense 
 
 ### **Versículo 2**
 
-Y el temor de ustedes y el pavor de ustedes estará sobre todo ser vivo de la tierra, y sobre toda ave del cielo, en todo lo que el suelo pulula, y en todos los peces del mar; en su mano son dados.
+@@Y el temor de ustedes y el pavor de ustedes estará sobre todo ser vivo de la tierra, y sobre toda ave del cielo, en todo lo que el suelo pulula, y en todos los peces del mar; en su mano son dados.@@
 
 > **📝 NOTAS**
 >
@@ -106,7 +106,7 @@ Y el temor de ustedes y el pavor de ustedes estará sobre todo ser vivo de la ti
 
 ### **Versículo 3**
 
-Todo lo que se mueve que *esta* vivo será alimento para ustedes; como la planta verde, les he dado todo.
+@@Todo lo que se mueve que *esta* vivo será alimento para ustedes; como la planta verde, les he dado todo.@@
 
 > **📝 NOTAS**
 >
@@ -117,7 +117,7 @@ Todo lo que se mueve que *esta* vivo será alimento para ustedes; como la planta
 
 ### **Versículo 4**
 
-Solo carne con su vida — su sangre — no comerán.
+@@Solo carne con su vida — su sangre — no comerán.@@
 
 > **📝 NOTAS**
 >
@@ -129,7 +129,7 @@ Solo carne con su vida — su sangre — no comerán.
 
 ### **Versículo 5**
 
-Y ciertamente su sangre de sus vidas yo requeriré; de la mano de todo ser vivo lo requeriré, y de la mano del humano, de la mano del hombre, su hermano, requeriré la vida del humano.
+@@Y ciertamente su sangre de sus vidas yo requeriré; de la mano de todo ser vivo lo requeriré, y de la mano del humano, de la mano del hombre, su hermano, requeriré la vida del humano.@@
 
 > **📝 NOTAS**
 >
@@ -140,7 +140,7 @@ Y ciertamente su sangre de sus vidas yo requeriré; de la mano de todo ser vivo 
 
 ### **Versículo 6**
 
-El que derrama la sangre del humano, por el humano su sangre será derramada, pues a imagen de Dios hizo al humano.
+@@El que derrama la sangre del humano, por el humano su sangre será derramada, pues a imagen de Dios hizo al humano.@@
 
 > **📝 NOTAS**
 >
@@ -154,7 +154,7 @@ El que derrama la sangre del humano, por el humano su sangre será derramada, pu
 
 ### **Versículo 7**
 
-Y ustedes, sean fecundos y multipliquense, pululen en la tierra y multipliquense en ella."
+@@Y ustedes, sean fecundos y multipliquense, pululen en la tierra y multipliquense en ella."@@
 
 > **📝 NOTAS**
 >
@@ -171,7 +171,7 @@ Y Dios dijo a Noé y a sus hijos con el, diciendo,
 
 ### **Versículo 9**
 
-"Y yo, he aquí, yo *estoy* estableciendo mi pacto con ustedes y con su simiente después de ustedes,
+@@"Y yo, he aquí, yo *estoy* estableciendo mi pacto con ustedes y con su simiente después de ustedes,@@
 
 > **📝 NOTAS**
 >
@@ -185,7 +185,7 @@ Y Dios dijo a Noé y a sus hijos con el, diciendo,
 
 ### **Versículo 10**
 
-y con todo ser vivo que *esta* con ustedes — el ave, el ganado, y todo ser vivo de la tierra con ustedes — de todos los que salieron de la tebah, a todo ser vivo de la tierra.
+@@y con todo ser vivo que *esta* con ustedes — el ave, el ganado, y todo ser vivo de la tierra con ustedes — de todos los que salieron de la {t:tebah}, a todo ser vivo de la tierra.@@
 
 > **📝 NOTAS**
 >
@@ -196,13 +196,13 @@ y con todo ser vivo que *esta* con ustedes — el ave, el ganado, y todo ser viv
 
 ### **Versículo 11**
 
-Y estableceré mi pacto con ustedes, y no será cortada otra vez toda carne por las aguas del diluvio, y no habrá otra vez diluvio para destruir la tierra."
+@@Y estableceré mi pacto con ustedes, y no será cortada otra vez toda carne por las aguas del diluvio, y no habrá otra vez diluvio para destruir la tierra."@@
 
 ---
 
 ### **Versículo 12**
 
-Y Dios dijo, "Esta *es* la señal del pacto que yo *estoy* dando entre mi y entre ustedes y entre todo ser vivo que *esta* con ustedes, por generaciónes de perpetuidad:
+Y Dios dijo, @@"Esta *es* la señal del pacto que yo *estoy* dando entre mi y entre ustedes y entre todo ser vivo que *esta* con ustedes, por generaciónes de perpetuidad:@@
 
 > **📝 NOTAS**
 >
@@ -213,7 +213,7 @@ Y Dios dijo, "Esta *es* la señal del pacto que yo *estoy* dando entre mi y entr
 
 ### **Versículo 13**
 
-mi arco he puesto en la nube, y será por señal del pacto entre mi y entre la tierra.
+@@mi arco he puesto en la nube, y será por señal del pacto entre mi y entre la tierra.@@
 
 > **📝 NOTAS**
 >
@@ -227,13 +227,13 @@ mi arco he puesto en la nube, y será por señal del pacto entre mi y entre la t
 
 ### **Versículo 14**
 
-Y será cuando yo traiga nubes sobre la tierra, y el arco aparezca en la nube,
+@@Y será cuando yo traiga nubes sobre la tierra, y el arco aparezca en la nube,@@
 
 ---
 
 ### **Versículo 15**
 
-y me acordaré de mi pacto que *esta* entre mi y entre ustedes y entre todo ser vivo en toda carne, y las aguas no volverán a ser diluvio para destruir toda carne.
+@@y me acordaré de mi pacto que *esta* entre mi y entre ustedes y entre todo ser vivo en toda carne, y las aguas no volverán a ser diluvio para destruir toda carne.@@
 
 > **📝 NOTAS**
 >
@@ -244,7 +244,7 @@ y me acordaré de mi pacto que *esta* entre mi y entre ustedes y entre todo ser 
 
 ### **Versículo 16**
 
-Y el arco estará en la nube, y lo veré para acordarme del pacto de perpetuidad entre Dios y entre todo ser vivo en toda carne que *esta* sobre la tierra."
+@@Y el arco estará en la nube, y lo veré para acordarme del pacto de perpetuidad entre Dios y entre todo ser vivo en toda carne que *esta* sobre la tierra."@@
 
 > **📝 NOTAS**
 >
@@ -255,13 +255,13 @@ Y el arco estará en la nube, y lo veré para acordarme del pacto de perpetuidad
 
 ### **Versículo 17**
 
-Y Dios dijo a Noé, "Esta *es* la señal del pacto que he establecido entre mi y entre toda carne que *esta* sobre la tierra."
+Y Dios dijo a Noé, @@"Esta *es* la señal del pacto que he establecido entre mi y entre toda carne que *esta* sobre la tierra."@@
 
 ---
 
 ### **Versículo 18**
 
-Y los hijos de Noé que salieron de la tebah fueron Sem y Cam y Jafet; y Cam *es* el padre de Canaán.
+Y los hijos de Noé que salieron de la {t:tebah} fueron Sem y Cam y Jafet; y Cam *es* el padre de Canaán.
 
 > **📝 NOTAS**
 >

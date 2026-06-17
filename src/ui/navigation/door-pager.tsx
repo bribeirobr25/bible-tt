@@ -1,6 +1,8 @@
 import { Link } from "@/ui/navigation/locale-link";
 
-type PagerLink = { href: string; label: string };
+// `kicker` overrides the default arrow line (e.g. "← Back to" / "Next →") and
+// must include its own arrow. Omit it to keep the plain "←" / "→".
+type PagerLink = { href: string; label: string; kicker?: string };
 
 /**
  * Door-aware pager (Notes/Deeper): cross-links to sibling doors / sections
@@ -18,7 +20,7 @@ export function DoorPager({
       {left ? (
         <Link href={left.href}>
           <span className="pl" aria-hidden="true">
-            ←
+            {left.kicker ?? "←"}
           </span>
           <span className="font-[family-name:var(--font-reading)] text-[1.2rem]">
             {left.label}
@@ -30,7 +32,7 @@ export function DoorPager({
       {right ? (
         <Link className="right" href={right.href}>
           <span className="pl" aria-hidden="true">
-            →
+            {right.kicker ?? "→"}
           </span>
           <span className="font-[family-name:var(--font-reading)] text-[1.2rem]">
             {right.label}

@@ -60,15 +60,15 @@
 
 ---
 
-¹E foi quando o humano começou a multiplicar-se sobre a face do solo, e filhas lhes nasceram, ²e os filhos de Deus/dos deuses viram as filhas do humano, que *eram* boas, e tomaram para si mulheres dentre todas as que escolheram. ³E YHWH disse: "Meu espírito não permanecerá/contenderá no humano para sempre, pois ele *é* também carne; e os seus dias serão cento e vinte anos." ⁴Os nephilim estavam sobre a terra naqueles dias, e também depois, quando os filhos de Deus/dos deuses entraram às filhas do humano, e elas lhes geraram — eles *são* os poderosos que *foram* desde a antiguidade, homens do nome.
+¹E foi quando o humano começou a multiplicar-se sobre a face do solo, e filhas lhes nasceram, ²e os filhos de {a:Deus/dos deuses} viram as filhas do humano, que *eram* boas, e tomaram para si mulheres dentre todas as que escolheram. ³E YHWH disse: @@"Meu espírito não {a:permanecerá/contenderá} no humano para sempre, pois ele *é* também carne; e os seus dias serão cento e vinte anos."@@ ⁴Os {t:nephilim} estavam sobre a terra naqueles dias, e também depois, quando os filhos de {a:Deus/dos deuses} entraram às filhas do humano, e elas lhes geraram — eles *são* os poderosos que *foram* desde a antiguidade, homens do nome.
 
-⁵E YHWH viu que grande *era* a maldade do humano sobre a terra, e toda inclinação dos pensamentos do seu coração *era* somente mal o dia todo. ⁶E YHWH se arrependeu de ter feito o humano sobre a terra, e entristeceu-se até o seu coração. ⁷E YHWH disse: "Apagarei o humano que criei de sobre a face do solo, desde o humano até o gado, até o réptil, até a ave dos céus, pois me arrependo de os ter feito." ⁸Mas Noach (Noé) encontrou favor aos olhos de YHWH.
+⁵E YHWH viu que grande *era* a maldade do humano sobre a terra, e toda inclinação dos pensamentos do seu coração *era* somente mal o dia todo. ⁶E YHWH se arrependeu de ter feito o humano sobre a terra, e entristeceu-se até o seu coração. ⁷E YHWH disse: @@"Apagarei o humano que criei de sobre a face do solo, desde o humano até o gado, até o réptil, até a ave dos céus, pois me arrependo de os ter feito."@@ ⁸Mas Noach (Noé) encontrou favor aos olhos de YHWH.
 
-⁹Estas *são* as gerações de Noé. Noé *era* um homem justo, íntegro em suas gerações; com Deus andou Noé. ¹⁰E Noé gerou três filhos: Shem, Cham (Cam) e Yafet (Jafé). ¹¹E a terra estava corrompida diante de Deus, e a terra estava cheia de violência. ¹²E Deus viu a terra, e eis que estava corrompida, pois toda carne havia corrompido o seu caminho sobre a terra. ¹³E Deus disse a Noé: "O fim de toda carne veio diante de mim, pois a terra está cheia de violência por causa deles, e eis que eu *os* destruo com a terra.
+⁹Estas *são* as gerações de Noé. Noé *era* um homem justo, íntegro em suas gerações; com Deus andou Noé. ¹⁰E Noé gerou três filhos: Shem, Cham (Cam) e Yafet (Jafé). ¹¹E a terra estava corrompida diante de Deus, e a terra estava cheia de violência. ¹²E Deus viu a terra, e eis que estava corrompida, pois toda carne havia corrompido o seu caminho sobre a terra. ¹³E Deus disse a Noé: @@"O fim de toda carne veio diante de mim, pois a terra está cheia de violência por causa deles, e eis que eu *os* destruo com a terra.@@
 
-¹⁴Faze para ti uma tebah de madeira de gopher; compartimentos farás *na* tebah, e a cobrirás por dentro e por fora com kopher. ¹⁵E assim *é como* a farás: trezentos côvados o comprimento da tebah, cinquenta côvados a sua largura, e trinta côvados a sua altura. ¹⁶Um tsohar farás para a tebah, e a um côvado a terminarás por cima, e a porta da tebah porás na sua lateral; andar inferior, segundo e terceiro a farás.
+¹⁴@@Faze para ti uma {t:tebah} de madeira de {t:gopher}; compartimentos farás *na* {t:tebah}, e a cobrirás por dentro e por fora com kopher. ¹⁵E assim *é como* a farás: trezentos côvados o comprimento da {t:tebah}, cinquenta côvados a sua largura, e trinta côvados a sua altura. ¹⁶Um tsohar farás para a {t:tebah}, e a um côvado a terminarás por cima, e a porta da {t:tebah} porás na sua lateral; andar inferior, segundo e terceiro a farás.@@
 
-¹⁷E eu, eis que eu *estou* trazendo o dilúvio de águas sobre a terra, para destruir toda carne em que *há* fôlego de vida debaixo dos céus; tudo o que *está* sobre a terra morrerá. ¹⁸Mas estabelecerei a minha aliança contigo, e entrarás na tebah — tu e teus filhos e tua mulher e as mulheres de teus filhos contigo. ¹⁹E de todo vivente, de toda carne, dois de todos trarás à tebah para manter vivos contigo; macho e fêmea serão. ²⁰Da ave segundo a sua espécie, e do gado segundo a sua espécie, de todo réptil do solo segundo a sua espécie, dois de todos virão a ti para manter vivos. ²¹E tu, toma para ti de todo alimento que se come, e ajunta para ti, e será para alimento para ti e para eles." ²²E Noé fez conforme tudo o que Deus lhe ordenou; assim fez.
+¹⁷@@E eu, eis que eu *estou* trazendo o dilúvio de águas sobre a terra, para destruir toda carne em que *há* fôlego de vida debaixo dos céus; tudo o que *está* sobre a terra morrerá. ¹⁸Mas estabelecerei a minha aliança contigo, e entrarás na {t:tebah} — tu e teus filhos e tua mulher e as mulheres de teus filhos contigo. ¹⁹E de todo vivente, de toda carne, dois de todos trarás à {t:tebah} para manter vivos contigo; macho e fêmea serão. ²⁰Da ave segundo a sua espécie, e do gado segundo a sua espécie, de todo réptil do solo segundo a sua espécie, dois de todos virão a ti para manter vivos. ²¹E tu, toma para ti de todo alimento que se come, e ajunta para ti, e será para alimento para ti e para eles."@@ ²²E Noé fez conforme tudo o que Deus lhe ordenou; assim fez.
 
 ---
 
@@ -87,7 +87,7 @@ E foi quando o humano começou a multiplicar-se sobre a face do solo, e filhas l
 
 ### **Versículo 2**
 
-e os filhos de Deus/dos deuses viram as filhas do humano, que *eram* boas, e tomaram para si mulheres dentre todas as que escolheram.
+e os filhos de {a:Deus/dos deuses} viram as filhas do humano, que *eram* boas, e tomaram para si mulheres dentre todas as que escolheram.
 
 > **📝 NOTAS**
 >
@@ -102,7 +102,7 @@ e os filhos de Deus/dos deuses viram as filhas do humano, que *eram* boas, e tom
 
 ### **Versículo 3**
 
-E YHWH disse: "Meu espírito não permanecerá/contenderá no humano para sempre, pois ele *é* também carne; e os seus dias serão cento e vinte anos."
+E YHWH disse: @@"Meu espírito não {a:permanecerá/contenderá} no humano para sempre, pois ele *é* também carne; e os seus dias serão cento e vinte anos."@@
 
 > **📝 NOTAS**
 >
@@ -116,7 +116,7 @@ E YHWH disse: "Meu espírito não permanecerá/contenderá no humano para sempre
 
 ### **Versículo 4**
 
-Os nephilim estavam sobre a terra naqueles dias, e também depois, quando os filhos de Deus/dos deuses entraram às filhas do humano, e elas lhes geraram — eles *são* os poderosos que *foram* desde a antiguidade, homens do nome.
+Os {t:nephilim} estavam sobre a terra naqueles dias, e também depois, quando os filhos de {a:Deus/dos deuses} entraram às filhas do humano, e elas lhes geraram — eles *são* os poderosos que *foram* desde a antiguidade, homens do nome.
 
 > **📝 NOTAS**
 >
@@ -154,7 +154,7 @@ E YHWH se arrependeu de ter feito o humano sobre a terra, e entristeceu-se até 
 
 ### **Versículo 7**
 
-E YHWH disse: "Apagarei o humano que criei de sobre a face do solo, desde o humano até o gado, até o réptil, até a ave dos céus, pois me arrependo de os ter feito."
+E YHWH disse: @@"Apagarei o humano que criei de sobre a face do solo, desde o humano até o gado, até o réptil, até a ave dos céus, pois me arrependo de os ter feito."@@
 
 > **📝 NOTAS**
 >
@@ -224,7 +224,7 @@ E Deus viu a terra, e eis que estava corrompida, pois toda carne havia corrompid
 
 ### **Versículo 13**
 
-E Deus disse a Noé: "O fim de toda carne veio diante de mim, pois a terra está cheia de violência por causa deles, e eis que eu *os* destruo com a terra.
+E Deus disse a Noé: @@"O fim de toda carne veio diante de mim, pois a terra está cheia de violência por causa deles, e eis que eu *os* destruo com a terra.@@
 
 > **📝 NOTAS**
 >
@@ -235,7 +235,7 @@ E Deus disse a Noé: "O fim de toda carne veio diante de mim, pois a terra está
 
 ### **Versículo 14**
 
-Faze para ti uma tebah de madeira de gopher; compartimentos farás *na* tebah, e a cobrirás por dentro e por fora com kopher.
+@@Faze para ti uma {t:tebah} de madeira de {t:gopher}; compartimentos farás *na* {t:tebah}, e a cobrirás por dentro e por fora com kopher.@@
 
 > **📝 NOTAS**
 >
@@ -252,7 +252,7 @@ Faze para ti uma tebah de madeira de gopher; compartimentos farás *na* tebah, e
 
 ### **Versículo 15**
 
-E assim *é como* a farás: trezentos côvados o comprimento da tebah, cinquenta côvados a sua largura, e trinta côvados a sua altura.
+@@E assim *é como* a farás: trezentos côvados o comprimento da {t:tebah}, cinquenta côvados a sua largura, e trinta côvados a sua altura.@@
 
 > **📝 NOTAS**
 >
@@ -263,7 +263,7 @@ E assim *é como* a farás: trezentos côvados o comprimento da tebah, cinquenta
 
 ### **Versículo 16**
 
-Um tsohar farás para a tebah, e a um côvado a terminarás por cima, e a porta da tebah porás na sua lateral; andar inferior, segundo e terceiro a farás.
+@@Um tsohar farás para a {t:tebah}, e a um côvado a terminarás por cima, e a porta da {t:tebah} porás na sua lateral; andar inferior, segundo e terceiro a farás.@@
 
 > **📝 NOTAS**
 >
@@ -274,7 +274,7 @@ Um tsohar farás para a tebah, e a um côvado a terminarás por cima, e a porta 
 
 ### **Versículo 17**
 
-E eu, eis que eu *estou* trazendo o dilúvio de águas sobre a terra, para destruir toda carne em que *há* fôlego de vida debaixo dos céus; tudo o que *está* sobre a terra morrerá.
+@@E eu, eis que eu *estou* trazendo o dilúvio de águas sobre a terra, para destruir toda carne em que *há* fôlego de vida debaixo dos céus; tudo o que *está* sobre a terra morrerá.@@
 
 > **📝 NOTAS**
 >
@@ -288,7 +288,7 @@ E eu, eis que eu *estou* trazendo o dilúvio de águas sobre a terra, para destr
 
 ### **Versículo 18**
 
-Mas estabelecerei a minha aliança contigo, e entrarás na tebah — tu e teus filhos e tua mulher e as mulheres de teus filhos contigo.
+@@Mas estabelecerei a minha aliança contigo, e entrarás na {t:tebah} — tu e teus filhos e tua mulher e as mulheres de teus filhos contigo.@@
 
 > **📝 NOTAS**
 >
@@ -302,7 +302,7 @@ Mas estabelecerei a minha aliança contigo, e entrarás na tebah — tu e teus f
 
 ### **Versículo 19**
 
-E de todo vivente, de toda carne, dois de todos trarás à tebah para manter vivos contigo; macho e fêmea serão.
+@@E de todo vivente, de toda carne, dois de todos trarás à {t:tebah} para manter vivos contigo; macho e fêmea serão.@@
 
 > **📝 NOTAS**
 >
@@ -313,7 +313,7 @@ E de todo vivente, de toda carne, dois de todos trarás à tebah para manter viv
 
 ### **Versículo 20**
 
-Da ave segundo a sua espécie, e do gado segundo a sua espécie, de todo réptil do solo segundo a sua espécie, dois de todos virão a ti para manter vivos.
+@@Da ave segundo a sua espécie, e do gado segundo a sua espécie, de todo réptil do solo segundo a sua espécie, dois de todos virão a ti para manter vivos.@@
 
 > **📝 NOTAS**
 >
@@ -324,7 +324,7 @@ Da ave segundo a sua espécie, e do gado segundo a sua espécie, de todo réptil
 
 ### **Versículo 21**
 
-E tu, toma para ti de todo alimento que se come, e ajunta para ti, e será para alimento para ti e para eles."
+@@E tu, toma para ti de todo alimento que se come, e ajunta para ti, e será para alimento para ti e para eles."@@
 
 ---
 

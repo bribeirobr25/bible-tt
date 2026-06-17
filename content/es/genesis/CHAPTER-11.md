@@ -63,7 +63,7 @@
 
 ¹Y toda la tierra era *de* un solo labio y unas mismas palabras. ²Y sucedió que al viajar desde el oriente, encontraron una llanura en la tierra de Shinar, y se asentaron allí. ³Y dijeron, cada uno a su prójimo: "Vengan, hagamos ladrillos y quemémoslos bien." Y el ladrillo les fue por piedra, y el betún les fue por argamasa. ⁴Y dijeron: "Vengan, edifiquemos para nosotros una ciudad y una torre, y su cúspide en los cielos, y hagámonos un nombre, no sea que seamos dispersados sobre la faz de toda la tierra."
 
-⁵Y YHWH descendió para ver la ciudad y la torre que los hijos del humano habían edificado. ⁶Y YHWH dijo: "He aquí, *son* un solo pueblo y un solo labio para todos ellos, y esto *es lo que* comienzan a hacer; y ahora nada les será vedado, todo lo que planean hacer. ⁷Vengan, descendamos y confundamos allí su labio, para que no oigan, cada uno el labio de su prójimo." ⁸Y YHWH los dispersó de allí sobre la faz de toda la tierra, y cesaron de edificar la ciudad. ⁹Por eso su nombre fue llamado Bavel, porque allí YHWH confundió el labio de toda la tierra, y de allí YHWH los dispersó sobre la faz de toda la tierra.
+⁵Y YHWH descendió para ver la ciudad y la torre que los hijos del humano habían edificado. ⁶Y YHWH dijo: @@"He aquí, *son* un solo pueblo y un solo labio para todos ellos, y esto *es lo que* comienzan a hacer; y ahora nada les será vedado, todo lo que planean hacer. ⁷Vengan, descendamos y confundamos allí su labio, para que no oigan, cada uno el labio de su prójimo."@@ ⁸Y YHWH los dispersó de allí sobre la faz de toda la tierra, y cesaron de edificar la ciudad. ⁹Por eso su nombre fue llamado Bavel, porque allí YHWH confundió el labio de toda la tierra, y de allí YHWH los dispersó sobre la faz de toda la tierra.
 
 ¹⁰Estas *son* las generaciones de Sem. Sem tenía cien años, y engendró a Arpakhshad, dos años después del diluvio. ¹¹Y Sem vivió después de engendrar a Arpakhshad quinientos años, y engendró hijos e hijas.
 
@@ -176,7 +176,7 @@ Y YHWH descendió para ver la ciudad y la torre que los hijos del humano habían
 
 ### **Versículo 6**
 
-Y YHWH dijo: "He aquí, *son* un solo pueblo y un solo labio para todos ellos, y esto *es lo que* comienzan a hacer; y ahora nada les será vedado, todo lo que planean hacer.
+Y YHWH dijo: @@"He aquí, *son* un solo pueblo y un solo labio para todos ellos, y esto *es lo que* comienzan a hacer; y ahora nada les será vedado, todo lo que planean hacer.@@
 
 > **📝 NOTAS**
 >
@@ -190,7 +190,7 @@ Y YHWH dijo: "He aquí, *son* un solo pueblo y un solo labio para todos ellos, y
 
 ### **Versículo 7**
 
-Vengan, descendamos y confundamos allí su labio, para que no oigan, cada uno el labio de su prójimo."
+@@Vengan, descendamos y confundamos allí su labio, para que no oigan, cada uno el labio de su prójimo."@@
 
 > **📝 NOTAS**
 >

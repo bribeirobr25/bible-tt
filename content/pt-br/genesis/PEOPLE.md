@@ -137,7 +137,7 @@ Este arquivo apresenta informações biográficas e genealógicas sobre figuras 
 **Mencionado em:** Gn 4:18–24
 **Eventos-chave:** Primeiro polígamo registrado (4:19); seu filho Yaval é pai dos que habitam em tendas e criam gado (4:20); seu filho Yuval é pai dos que tocam lira e flauta (4:21); seu filho Tuval-Qayin forja instrumentos de bronze e ferro (4:22); cantou o cântico da violência escalada para suas esposas (4:23–24) — vangloria-se de ter matado um homem por feri-lo e um jovem por golpeá-lo; reivindica vingança de 77 vezes contra a proteção sétupla de YHWH sobre Caim
 
-**Nome familiar:** Lameque (Cainita)
+**Nome familiar:** Lameque
 **Profissão:** não declarada
 **Classe social:** não declarada
 **Cidade natal:** não declarada
@@ -450,7 +450,7 @@ Este arquivo apresenta informações biográficas e genealógicas sobre figuras 
 **Mencionado em:** Gn 5:25–31
 **Eventos-chave:** Gerou Noé aos 182 anos (5:28–29); nomeou Noé com as palavras "Este nos consolará do nosso trabalho e da labuta das nossas mãos, por causa do solo que YHWH amaldiçoou" (5:29); morreu aos 777 (5:31)
 
-**Nome familiar:** Lameque (Setita)
+**Nome familiar:** Lameque
 **Profissão:** não declarada
 **Classe social:** não declarada
 **Cidade natal:** não declarada
@@ -900,6 +900,8 @@ Todas as datas AM, conforme aritmética do Texto Massorético.
 | Lameque | 874 | 182 | Noé | 595 | 1651 | 777 |
 | Noé | 1056 | 500 | Shem, Cam, Jafé | 450 | 2006 | 950 |
 
+**Nota:** O dilúvio ocorre em AM 1656 (Noé aos 600 anos, Gn 7:6). Pela aritmética do TM, Matusalém morre no ano do dilúvio. Lameque morre cinco anos antes do dilúvio. Adam morre em AM 930 — bem antes do dilúvio, mas sobrepondo-se ao tempo de vida de Lameque (nascido AM 874).
+
 ---
 
 ## H. Fontes Consultadas
@@ -910,5 +912,3 @@ Todas as datas AM, conforme aritmética do Texto Massorético.
 - **Cronologia:** Hasel, G., "The Meaning of the Chronogenealogies of Genesis 5 and 11," *Origins* 7 (1980): 53–70.
 
 > **Proveniência editorial:** Redigido por Claude Opus 4.6 (contexto 1M) em 2026-04-27. Ainda não revisado. Este arquivo é um recurso acadêmico provisório governado pela Regra 29 da TT.
-
-**Nota:** O dilúvio ocorre em AM 1656 (Noé aos 600 anos, Gn 7:6). Pela aritmética do TM, Matusalém morre no ano do dilúvio. Lameque morre cinco anos antes do dilúvio. Adam morre em AM 930 — bem antes do dilúvio, mas sobrepondo-se ao tempo de vida de Lameque (nascido AM 874).

@@ -67,7 +67,7 @@
 
 ⁷Und als er viele der Pharisäer und Sadduzäer zur Eintauchung kommen sah, sprach er zu ihnen: „Otternbrut, wer hat euch gewiesen, dem kommenden Zorn zu entfliehen? ⁸Bringt nun Frucht hervor, die der Sinnesänderung würdig ist, ⁹und denkt nicht, bei euch selbst zu sagen: ‚Wir haben Avraham (Abraham) *zum* Vater,' denn ich sage euch, dass Gott vermag, aus diesen Steinen dem Abraham Kinder zu erwecken. ¹⁰Schon aber liegt die Axt an der Wurzel der Bäume; jeder Baum nun, der nicht gute Frucht bringt, wird abgehauen und ins Feuer geworfen. ¹¹Ich tauche euch ein in Wasser zur Sinnesänderung, aber der nach mir Kommende ist stärker als ich, dessen Sandalen zu tragen ich nicht würdig bin; er wird euch eintauchen in heiligem Wind/Geist und Feuer. ¹²Seine Worfschaufel *ist* in seiner Hand, und er wird seine Tenne gründlich reinigen, und er wird seinen Weizen in die Scheune sammeln, aber die Spreu wird er verbrennen *mit* unauslöschlichem Feuer."
 
-¹³Da kommt Yeshua (Jesus) vom Galil (Galiläa) an den Jordan, zu Johannes, um von ihm eingetaucht zu werden. ¹⁴Aber Johannes hinderte ihn und sprach: „Ich habe nötig, von dir eingetaucht zu werden, und du kommst zu mir?" ¹⁵Und Jesus antwortete und sprach zu ihm: „Lass *es* jetzt *zu*, denn so gebührt es uns, alle Gerechtigkeit zu erfüllen." Da lässt er ihn *gewähren*. ¹⁶Und Jesus, eingetaucht, stieg sogleich aus dem Wasser herauf, und siehe, die Himmel wurden ihm geöffnet, und er sah den Wind/Geist Gottes herabsteigen wie eine Taube und auf ihn kommen. ¹⁷Und siehe, eine Stimme aus den Himmeln, die spricht: „Dieser ist mein Sohn, der Geliebte, an dem ich Wohlgefallen habe."
+¹³Da kommt Yeshua (Jesus) vom Galil (Galiläa) an den Jordan, zu Johannes, um von ihm eingetaucht zu werden. ¹⁴Aber Johannes hinderte ihn und sprach: „Ich habe nötig, von dir eingetaucht zu werden, und du kommst zu mir?" ¹⁵Und Jesus antwortete und sprach zu ihm: @@„Lass *es* jetzt *zu*, denn so gebührt es uns, alle Gerechtigkeit zu erfüllen."@@ Da lässt er ihn *gewähren*. ¹⁶Und Jesus, eingetaucht, stieg sogleich aus dem Wasser herauf, und siehe, die Himmel wurden ihm geöffnet, und er sah den Wind/Geist Gottes herabsteigen wie eine Taube und auf ihn kommen. ¹⁷Und siehe, eine Stimme aus den Himmeln, die spricht: @@„Dieser ist mein Sohn, der Geliebte, an dem ich Wohlgefallen habe."@@
 
 ---
 
@@ -270,7 +270,7 @@ Aber Johannes hinderte ihn und sprach: „Ich habe nötig, von dir eingetaucht z
 
 ### **Vers 15**
 
-Und Jesus antwortete und sprach zu ihm: „Lass *es* jetzt *zu*, denn so gebührt es uns, alle Gerechtigkeit zu erfüllen." Da lässt er ihn *gewähren*.
+Und Jesus antwortete und sprach zu ihm: @@„Lass *es* jetzt *zu*, denn so gebührt es uns, alle Gerechtigkeit zu erfüllen."@@ Da lässt er ihn *gewähren*.
 
 > **Notizen**
 >
@@ -300,7 +300,7 @@ Und Jesus, eingetaucht, stieg sogleich aus dem Wasser herauf, und siehe, die Him
 
 ### **Vers 17**
 
-Und siehe, eine Stimme aus den Himmeln, die spricht: „Dieser ist mein Sohn, der Geliebte, an dem ich Wohlgefallen habe."
+Und siehe, eine Stimme aus den Himmeln, die spricht: @@„Dieser ist mein Sohn, der Geliebte, an dem ich Wohlgefallen habe."@@
 
 > **Notizen**
 >

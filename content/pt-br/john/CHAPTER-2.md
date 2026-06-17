@@ -62,15 +62,15 @@
 
 ---
 
-¹E no terceiro dia houve uma festa de casamento em Qanah da Galil (Galileia), e a mãe de Yeshua (Jesus) estava ali. ²E Jesus também foi convidado, e seus seguidores, para a festa de casamento. ³E *quando* o vinho faltou, a mãe de Jesus diz-lhe: "Eles não têm vinho." ⁴E Jesus diz-lhe: "Que *há* entre mim e ti, mulher? A minha hora ainda não chegou." ⁵Sua mãe diz aos servos: "Tudo o que ele lhes disser, façam."
+¹E no terceiro dia houve uma festa de casamento em Qanah da Galil (Galileia), e a mãe de Yeshua (Jesus) estava ali. ²E Jesus também foi convidado, e seus seguidores, para a festa de casamento. ³E *quando* o vinho faltou, a mãe de Jesus diz-lhe: "Eles não têm vinho." ⁴E Jesus diz-lhe: @@"Que *há* entre mim e ti, mulher? A minha hora ainda não chegou."@@ ⁵Sua mãe diz aos servos: "Tudo o que ele lhes disser, façam."
 
-⁶Ora, havia ali seis jarros de pedra para água, postos conforme a purificação dos yehudim, cada um comportando duas ou três medidas. ⁷Jesus diz-lhes: "Encham os jarros com água." E eles os encheram até em cima. ⁸E ele lhes diz: "Retirem agora e levem ao mestre de cerimônias." E *o* levaram. ⁹E quando o mestre de cerimônias provou a água que se tornara vinho — e não sabia de onde era, mas os servos que haviam retirado a água sabiam — o mestre de cerimônias chama o noivo ¹⁰e diz-lhe: "Todo homem põe primeiro o bom vinho, e quando *já* estão embriagados, o inferior. Você guardou o bom vinho até agora."
+⁶Ora, havia ali seis jarros de pedra para água, postos conforme a purificação dos yehudim, cada um comportando duas ou três medidas. ⁷Jesus diz-lhes: @@"Encham os jarros com água."@@ E eles os encheram até em cima. ⁸E ele lhes diz: @@"Retirem agora e levem ao mestre de cerimônias."@@ E *o* levaram. ⁹E quando o mestre de cerimônias provou a água que se tornara vinho — e não sabia de onde era, mas os servos que haviam retirado a água sabiam — o mestre de cerimônias chama o noivo ¹⁰e diz-lhe: "Todo homem põe primeiro o bom vinho, e quando *já* estão embriagados, o inferior. Você guardou o bom vinho até agora."
 
 ¹¹Este princípio dos sinais Jesus fez em Qanah da Galileia e revelou a sua glória, e seus seguidores confiaram nele. ¹²Depois disso ele desceu a Kfar Nachum (Cafarnaum) — ele e sua mãe e seus irmãos e seus seguidores — e ali permaneceram não muitos dias.
 
-¹³E a Páscoa dos yehudim estava próxima, e Jesus subiu a Yerushalayim (Jerusalém). ¹⁴E encontrou no *complexo do* templo os que vendiam gado e ovelhas e pombas, e os cambistas sentados. ¹⁵E tendo feito um chicote de cordas, expulsou a todos do *complexo do* templo, tanto as ovelhas quanto o gado, e derramou as moedas dos cambistas e virou as mesas. ¹⁶E aos que vendiam as pombas disse: "Tirem estas *coisas* daqui; não façam da casa de meu Pai uma casa de comércio." ¹⁷Seus seguidores lembraram que está escrito: "O zelo de sua casa me consumirá."
+¹³E a Páscoa dos yehudim estava próxima, e Jesus subiu a Yerushalayim (Jerusalém). ¹⁴E encontrou no *complexo do* templo os que vendiam gado e ovelhas e pombas, e os cambistas sentados. ¹⁵E tendo feito um chicote de cordas, expulsou a todos do *complexo do* templo, tanto as ovelhas quanto o gado, e derramou as moedas dos cambistas e virou as mesas. ¹⁶E aos que vendiam as pombas disse: @@"Tirem estas *coisas* daqui; não façam da casa de meu Pai uma casa de comércio."@@ ¹⁷Seus seguidores lembraram que está escrito: "O zelo de sua casa me consumirá."
 
-¹⁸Então os yehudim responderam e lhe disseram: "Que sinal nos mostras, *visto* que fazes estas coisas?" ¹⁹Jesus respondeu e lhes disse: "Destruam este santuário, e em três dias eu o levantarei." ²⁰Então os yehudim disseram: "Este santuário foi construído *em* quarenta e seis anos, e você o levantará em três dias?" ²¹Mas ele falava a respeito do santuário do seu corpo. ²²Quando portanto ele foi levantado dos mortos, seus seguidores lembraram que ele disse isto, e confiaram na escritura e na palavra que Jesus havia falado.
+¹⁸Então os yehudim responderam e lhe disseram: "Que sinal nos mostras, *visto* que fazes estas coisas?" ¹⁹Jesus respondeu e lhes disse: @@"Destruam este santuário, e em três dias eu o levantarei."@@ ²⁰Então os yehudim disseram: "Este santuário foi construído *em* quarenta e seis anos, e você o levantará em três dias?" ²¹Mas ele falava a respeito do santuário do seu corpo. ²²Quando portanto ele foi levantado dos mortos, seus seguidores lembraram que ele disse isto, e confiaram na escritura e na palavra que Jesus havia falado.
 
 ²³E quando ele estava em Jerusalém na Páscoa, na festa, muitos confiaram em seu nome, vendo os sinais que ele fazia. ²⁴Mas o próprio Jesus não se confiava a eles, porque ele conhecia a todos, ²⁵e porque ele não tinha necessidade de que alguém testemunhasse a respeito do ser humano — pois ele mesmo sabia o que havia no ser humano.
 
@@ -122,7 +122,7 @@ E *quando* o vinho faltou, a mãe de Yeshua (Jesus) diz-lhe: "Eles não têm vin
 
 ### **Versículo 4**
 
-E Yeshua (Jesus) diz-lhe: "Que *há* entre mim e ti, mulher? A minha hora ainda não chegou."
+E Yeshua (Jesus) diz-lhe: @@"Que *há* entre mim e ti, mulher? A minha hora ainda não chegou."@@
 
 > **📝 NOTAS**
 >
@@ -170,7 +170,7 @@ Ora, havia ali seis jarros de pedra para água, postos conforme a purificação 
 
 ### **Versículo 7**
 
-Yeshua (Jesus) diz-lhes: "Encham os jarros com água." E eles os encheram até em cima.
+Yeshua (Jesus) diz-lhes: @@"Encham os jarros com água."@@ E eles os encheram até em cima.
 
 > **📝 NOTAS**
 >
@@ -181,7 +181,7 @@ Yeshua (Jesus) diz-lhes: "Encham os jarros com água." E eles os encheram até e
 
 ### **Versículo 8**
 
-E ele lhes diz: "Retirem agora e levem ao mestre de cerimônias." E *o* levaram.
+E ele lhes diz: @@"Retirem agora e levem ao mestre de cerimônias."@@ E *o* levaram.
 
 > **📝 NOTAS**
 >
@@ -302,7 +302,7 @@ E tendo feito um chicote de cordas, expulsou a todos do *complexo do* templo, ta
 
 ### **Versículo 16**
 
-E aos que vendiam as pombas disse: "Tirem estas *coisas* daqui; não façam da casa de meu Pai uma casa de comércio."
+E aos que vendiam as pombas disse: @@"Tirem estas *coisas* daqui; não façam da casa de meu Pai uma casa de comércio."@@
 
 > **📝 NOTAS**
 >
@@ -344,7 +344,7 @@ Então os yehudim responderam e lhe disseram: "Que sinal nos mostras, *visto* qu
 
 ### **Versículo 19**
 
-Yeshua (Jesus) respondeu e lhes disse: "Destruam este santuário, e em três dias eu o levantarei."
+Yeshua (Jesus) respondeu e lhes disse: @@"Destruam este santuário, e em três dias eu o levantarei."@@
 
 > **📝 NOTAS**
 >

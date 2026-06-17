@@ -61,9 +61,9 @@
 
 ¹E o humano conheceu Chava (Eva), sua mulher, e ela concebeu e deu à luz Qayin (Caim), e disse: "Adquiri um homem com YHWH." ²E ela deu à luz novamente, seu irmão Hevel (Abel). E Abel era *um* pastor de rebanho, e Caim era *um* lavrador do solo.
 
-³E foi ao fim dos dias, e Caim trouxe do fruto do solo uma oferta a YHWH. ⁴E Abel, ele também trouxe dos primogênitos de seu rebanho e de sua gordura. E YHWH olhou para Abel e para sua oferta, ⁵mas para Caim e para sua oferta não olhou. E ardeu a Caim grandemente, e seu rosto caiu. ⁶E YHWH disse a Caim: "Por que *te* arde, e por que caiu o teu rosto? ⁷Se fizeres bem, *não há* elevação? E se não fizeres bem, à porta o pecado se agacha, e para ti *é* o seu desejo/inclinação, mas tu deves dominar sobre ele."
+³E foi ao fim dos dias, e Caim trouxe do fruto do solo uma oferta a YHWH. ⁴E Abel, ele também trouxe dos primogênitos de seu rebanho e de sua gordura. E YHWH olhou para Abel e para sua oferta, ⁵mas para Caim e para sua oferta não olhou. E ardeu a Caim grandemente, e seu rosto caiu. ⁶E YHWH disse a Caim: @@"Por que *te* arde, e por que caiu o teu rosto? ⁷Se fizeres bem, *não há* elevação? E se não fizeres bem, à porta o pecado se agacha, e para ti *é* o seu {a:desejo/inclinação}, mas tu deves dominar sobre ele."@@
 
-⁸E Caim disse a Abel, seu irmão… E foi quando estavam no campo, e Caim se levantou contra Abel, seu irmão, e o matou. ⁹E YHWH disse a Caim: "Onde *está* Abel, teu irmão?" E ele disse: "Não sei. *Sou* eu o guardador de meu irmão?" ¹⁰E ele disse: "Que fizeste? A voz dos sangues de teu irmão *está* clamando a mim desde o solo. ¹¹E agora, maldito *és* tu desde o solo que abriu a sua boca para receber os sangues de teu irmão da tua mão. ¹²Quando lavrares o solo, ele não dará mais a sua força a ti. Errante e fugitivo serás sobre a terra." ¹³E Caim disse a YHWH: "Meu pecado/castigo *é* grande demais para suportar. ¹⁴Eis que me expulsaste hoje de sobre a face do solo, e da tua face serei escondido, e serei errante e fugitivo sobre a terra, e será *que* qualquer um que me encontrar me matará." ¹⁵E YHWH lhe disse: "Portanto, qualquer um que matar Caim, sete vezes será vingado." E YHWH pôs para Caim um sinal, para que qualquer um que o encontrasse não o ferisse. ¹⁶E Caim saiu da face de YHWH, e habitou na terra de Nod, a leste de Éden.
+⁸E Caim disse a Abel, seu irmão… E foi quando estavam no campo, e Caim se levantou contra Abel, seu irmão, e o matou. ⁹E YHWH disse a Caim: @@"Onde *está* Abel, teu irmão?"@@ E ele disse: "Não sei. *Sou* eu o guardador de meu irmão?" ¹⁰E ele disse: @@"Que fizeste? A voz dos sangues de teu irmão *está* clamando a mim desde o solo. ¹¹E agora, maldito *és* tu desde o solo que abriu a sua boca para receber os sangues de teu irmão da tua mão. ¹²Quando lavrares o solo, ele não dará mais a sua força a ti. Errante e fugitivo serás sobre a terra."@@ ¹³E Caim disse a YHWH: "Meu {a:pecado/castigo} *é* grande demais para suportar. ¹⁴Eis que me expulsaste hoje de sobre a face do solo, e da tua face serei escondido, e serei errante e fugitivo sobre a terra, e será *que* qualquer um que me encontrar me matará." ¹⁵E YHWH lhe disse: @@"Portanto, qualquer um que matar Caim, sete vezes será vingado."@@ E YHWH pôs para Caim um sinal, para que qualquer um que o encontrasse não o ferisse. ¹⁶E Caim saiu da face de YHWH, e habitou na terra de Nod, a leste de Éden.
 
 ¹⁷E Caim conheceu sua mulher, e ela concebeu e deu à luz Chanokh (Enoque). E ele estava construindo uma cidade, e chamou o nome da cidade conforme o nome de seu filho, Enoque. ¹⁸E a Enoque nasceu Irad, e Irad gerou Mechuya'el, e Mechuya'el gerou Metusha'el, e Metusha'el gerou Lemekh (Lameque). ¹⁹E Lameque tomou para si duas mulheres; o nome da primeira *era* Adah, e o nome da segunda *era* Tsillah. ²⁰E Adah deu à luz Yaval; ele foi o pai dos que habitam em tenda e *com* rebanho. ²¹E o nome de seu irmão *era* Yuval; ele foi o pai de todos os que empunham lira e flauta. ²²E Tsillah, ela também deu à luz Tuval-Qayin, *um* forjador de toda ferramenta cortante de bronze e ferro. E a irmã de Tuval-Qayin *era* Na'amah.
 
@@ -141,13 +141,13 @@ mas para Caim e para sua oferta não olhou. E ardeu a Caim grandemente, e seu ro
 
 ### **Versículo 6**
 
-E YHWH disse a Caim: "Por que *te* arde, e por que caiu o teu rosto?
+E YHWH disse a Caim: @@"Por que *te* arde, e por que caiu o teu rosto?@@
 
 ---
 
 ### **Versículo 7**
 
-Se fizeres bem, *não há* elevação? E se não fizeres bem, à porta o pecado se agacha, e para ti *é* o seu desejo/inclinação, mas tu deves dominar sobre ele."
+@@Se fizeres bem, *não há* elevação? E se não fizeres bem, à porta o pecado se agacha, e para ti *é* o seu {a:desejo/inclinação}, mas tu deves dominar sobre ele."@@
 
 > **📝 NOTAS**
 >
@@ -180,7 +180,7 @@ E Caim disse a Abel, seu irmão… E foi quando estavam no campo, e Caim se leva
 
 ### **Versículo 9**
 
-E YHWH disse a Caim: "Onde *está* Abel, teu irmão?" E ele disse: "Não sei. *Sou* eu o guardador de meu irmão?"
+E YHWH disse a Caim: @@"Onde *está* Abel, teu irmão?"@@ E ele disse: "Não sei. *Sou* eu o guardador de meu irmão?"
 
 > **📝 NOTAS**
 >
@@ -194,7 +194,7 @@ E YHWH disse a Caim: "Onde *está* Abel, teu irmão?" E ele disse: "Não sei. *S
 
 ### **Versículo 10**
 
-E ele disse: "Que fizeste? A voz dos sangues de teu irmão *está* clamando a mim desde o solo.
+E ele disse: @@"Que fizeste? A voz dos sangues de teu irmão *está* clamando a mim desde o solo.@@
 
 > **📝 NOTAS**
 >
@@ -208,7 +208,7 @@ E ele disse: "Que fizeste? A voz dos sangues de teu irmão *está* clamando a mi
 
 ### **Versículo 11**
 
-E agora, maldito *és* tu desde o solo que abriu a sua boca para receber os sangues de teu irmão da tua mão.
+@@E agora, maldito *és* tu desde o solo que abriu a sua boca para receber os sangues de teu irmão da tua mão.@@
 
 > **📝 NOTAS**
 >
@@ -222,7 +222,7 @@ E agora, maldito *és* tu desde o solo que abriu a sua boca para receber os sang
 
 ### **Versículo 12**
 
-Quando lavrares o solo, ele não dará mais a sua força a ti. Errante e fugitivo serás sobre a terra."
+@@Quando lavrares o solo, ele não dará mais a sua força a ti. Errante e fugitivo serás sobre a terra."@@
 
 > **📝 NOTAS**
 >
@@ -233,7 +233,7 @@ Quando lavrares o solo, ele não dará mais a sua força a ti. Errante e fugitiv
 
 ### **Versículo 13**
 
-E Caim disse a YHWH: "Meu pecado/castigo *é* grande demais para suportar.
+E Caim disse a YHWH: "Meu {a:pecado/castigo} *é* grande demais para suportar.
 
 > **📝 NOTAS**
 >
@@ -255,7 +255,7 @@ Eis que me expulsaste hoje de sobre a face do solo, e da tua face serei escondid
 
 ### **Versículo 15**
 
-E YHWH lhe disse: "Portanto, qualquer um que matar Caim, sete vezes será vingado." E YHWH pôs para Caim um sinal, para que qualquer um que o encontrasse não o ferisse.
+E YHWH lhe disse: @@"Portanto, qualquer um que matar Caim, sete vezes será vingado."@@ E YHWH pôs para Caim um sinal, para que qualquer um que o encontrasse não o ferisse.
 
 > **📝 NOTAS**
 >

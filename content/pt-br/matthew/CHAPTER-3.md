@@ -68,7 +68,7 @@
 
 ⁷E vendo muitos dos Perushim (Fariseus) e Tsduqim (Saduceus) vindo à imersão, ele lhes disse: "Descendência de víboras, quem os advertiu a fugir da ira vindoura? ⁸Produzam, então, fruto digno de mudança de mente, ⁹e não pensem em dizer entre vocês: 'Temos Avraham (Abraão) *como nosso* pai,' pois eu lhes digo que Deus é capaz de, destas pedras, suscitar filhos a Abraão. ¹⁰E já o machado está à raiz das árvores; portanto, toda árvore que não produz bom fruto é cortada e lançada ao fogo. ¹¹Eu os imerjo em água para mudança de mente, mas aquele que vem depois de mim é mais forte do que eu, cujas sandálias não sou digno de carregar; ele os imergerá em vento/espírito santo e fogo. ¹²A sua pá de joeirar *está* na sua mão, e ele limpará completamente a sua eira, e reunirá o seu trigo no celeiro, mas a palha ele queimará *com* fogo inextinguível."
 
-¹³Então Yeshua (Jesus) vem do Galil (Galileia) ao Jordão, a João, para ser imerso por ele. ¹⁴Mas João o impedia, dizendo: "Eu preciso ser imerso por ti, e você vem a mim?" ¹⁵E Jesus, respondendo, disse-lhe: "Permita *isto* agora, pois assim nos convém cumprir toda justiça." Então ele o permite. ¹⁶E Jesus, tendo sido imerso, imediatamente subiu da água, e eis que os céus se abriram para ele, e ele viu o vento/espírito de Deus descendo como uma pomba e vindo sobre ele. ¹⁷E eis que uma voz dos céus, dizendo: "Este é o meu filho, o amado, em quem me agrado."
+¹³Então Yeshua (Jesus) vem do Galil (Galileia) ao Jordão, a João, para ser imerso por ele. ¹⁴Mas João o impedia, dizendo: "Eu preciso ser imerso por ti, e você vem a mim?" ¹⁵E Jesus, respondendo, disse-lhe: @@"Permita *isto* agora, pois assim nos convém cumprir toda justiça."@@ Então ele o permite. ¹⁶E Jesus, tendo sido imerso, imediatamente subiu da água, e eis que os céus se abriram para ele, e ele viu o vento/espírito de Deus descendo como uma pomba e vindo sobre ele. ¹⁷E eis que uma voz dos céus, dizendo: @@"Este é o meu filho, o amado, em quem me agrado."@@
 
 ---
 
@@ -277,7 +277,7 @@ Mas João o impedia, dizendo: "Eu preciso ser imerso por ti, e você vem a mim?"
 
 ### **Versículo 15**
 
-E Jesus, respondendo, disse-lhe: "Permita *isto* agora, pois assim nos convém cumprir toda justiça." Então ele o permite.
+E Jesus, respondendo, disse-lhe: @@"Permita *isto* agora, pois assim nos convém cumprir toda justiça."@@ Então ele o permite.
 
 > **Notas**
 >
@@ -312,7 +312,7 @@ E Jesus, tendo sido imerso, imediatamente subiu da água, e eis que os céus se 
 
 ### **Versículo 17**
 
-E eis que uma voz dos céus, dizendo: "Este é o meu filho, o amado, em quem me agrado."
+E eis que uma voz dos céus, dizendo: @@"Este é o meu filho, o amado, em quem me agrado."@@
 
 > **Notas**
 >

@@ -135,7 +135,7 @@ This file presents biographical and genealogical information about figures appea
 **First mention:** Gen 4:18
 **Mentioned in:** Gen 4:18–24
 **Key events:** First recorded polygamist (4:19); his son Yaval is father of tent-dwellers and livestock-keepers (4:20); his son Yuval is father of lyre and pipe players (4:21); his son Tuval-Qayin forges instruments of bronze and iron (4:22); sang the song of escalated violence to his wives (4:23–24) â boasts of killing a man for wounding him and a young man for striking him; claims 77-fold vengeance against YHWH's 7-fold protection of Qayin (Cain)
-**Familiar name:** Lamech (Cainite)
+**Familiar name:** Lamech
 **Profession:** not stated
 **Social class:** not stated
 **Hometown:** not stated
@@ -443,7 +443,7 @@ This file presents biographical and genealogical information about figures appea
 **Mentioned in:** Gen 5:25–31
 **Key events:** Begot Noah at age 182 (5:28–29); named Noah with the words "This one shall comfort us from our work and from the toil of our hands, from the ground which YHWH cursed" (5:29); died at 777 (5:31)
 
-**Familiar name:** Lamech (Sethite)
+**Familiar name:** Lamech
 **Profession:** not stated
 **Social class:** not stated
 **Hometown:** not stated

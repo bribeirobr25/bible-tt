@@ -63,7 +63,7 @@
 
 ¹E toda a terra era *de* um lábio e de um *conjunto de* palavras. ²E aconteceu que quando viajaram do oriente, encontraram um vale na terra de Shinar, e ali se estabeleceram. ³E disseram, cada um ao seu próximo: "Vinde, façamos tijolos e queimemo-los completamente." E o tijolo lhes servia de pedra, e o betume lhes servia de argamassa. ⁴E disseram: "Vinde, edifiquemos para nós uma cidade e uma torre, e o seu topo nos céus, e façamos para nós um nome, para que não sejamos dispersos sobre a face de toda a terra."
 
-⁵E YHWH desceu para ver a cidade e a torre que os filhos do humano haviam construído. ⁶E YHWH disse: "Eis que *são* um só povo e um só lábio para todos eles, e isto *é o que* começam a fazer; e agora nada lhes será impossível, tudo o que planejam fazer. ⁷Vinde, desçamos e confundamos ali o seu lábio, para que não ouçam, cada um o lábio do seu próximo." ⁸E YHWH os dispersou dali sobre a face de toda a terra, e cessaram de edificar a cidade. ⁹Por isso o seu nome foi chamado Bavel, pois ali YHWH confundiu o lábio de toda a terra, e dali YHWH os dispersou sobre a face de toda a terra.
+⁵E YHWH desceu para ver a cidade e a torre que os filhos do humano haviam construído. ⁶E YHWH disse: @@"Eis que *são* um só povo e um só lábio para todos eles, e isto *é o que* começam a fazer; e agora nada lhes será impossível, tudo o que planejam fazer. ⁷Vinde, desçamos e confundamos ali o seu lábio, para que não ouçam, cada um o lábio do seu próximo."@@ ⁸E YHWH os dispersou dali sobre a face de toda a terra, e cessaram de edificar a cidade. ⁹Por isso o seu nome foi chamado Bavel, pois ali YHWH confundiu o lábio de toda a terra, e dali YHWH os dispersou sobre a face de toda a terra.
 
 ¹⁰Estas *são* as gerações de Shem. Shem tinha cem anos, e gerou Arpakhshad, dois anos após o dilúvio. ¹¹E Shem viveu depois que gerou Arpakhshad quinhentos anos, e gerou filhos e filhas.
 
@@ -176,7 +176,7 @@ E YHWH desceu para ver a cidade e a torre que os filhos do humano haviam constru
 
 ### **Versículo 6**
 
-E YHWH disse: "Eis que *são* um só povo e um só lábio para todos eles, e isto *é o que* começam a fazer; e agora nada lhes será impossível, tudo o que planejam fazer.
+E YHWH disse: @@"Eis que *são* um só povo e um só lábio para todos eles, e isto *é o que* começam a fazer; e agora nada lhes será impossível, tudo o que planejam fazer.@@
 
 > **📝 NOTAS**
 >
@@ -190,7 +190,7 @@ E YHWH disse: "Eis que *são* um só povo e um só lábio para todos eles, e ist
 
 ### **Versículo 7**
 
-Vinde, desçamos e confundamos ali o seu lábio, para que não ouçam, cada um o lábio do seu próximo."
+@@Vinde, desçamos e confundamos ali o seu lábio, para que não ouçam, cada um o lábio do seu próximo."@@
 
 > **📝 NOTAS**
 >

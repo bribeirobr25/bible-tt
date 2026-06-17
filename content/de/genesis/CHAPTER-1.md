@@ -60,17 +60,17 @@
 
 ---
 
-¹Im Anfang schuf Gott den Himmel und das Land. ²Und das Land war Chaos und Leere, und Finsternis *war* über der Fläche der Tiefe, und Wind/Geist Gottes schwebend über der Fläche der Wasser. ³Und Gott sprach: „Es werde Licht," und Licht war. ⁴Und Gott sah das Licht, dass gut, und Gott trennte zwischen dem Licht und zwischen der Finsternis. ⁵Und Gott nannte das Licht „Tag", und die Finsternis nannte er „Nacht". Und *es* war Abend, und *es* war Morgen, Tag eins.
+¹Im Anfang schuf Gott den Himmel und das Land. ²Und das Land war Chaos und Leere, und Finsternis *war* über der Fläche der Tiefe, und {a:Wind/Geist} Gottes schwebend über der Fläche der Wasser. ³Und Gott sprach: @@„Es werde Licht,"@@ und Licht war. ⁴Und Gott sah das Licht, dass gut, und Gott trennte zwischen dem Licht und zwischen der Finsternis. ⁵Und Gott nannte das Licht „Tag", und die Finsternis nannte er „Nacht". Und *es* war Abend, und *es* war Morgen, Tag eins.
 
-⁶Und Gott sprach: „Es werde *ein* raqia (Ausdehnung) innerhalb der Wasser, und *es* sei eine Scheidewand zwischen Wasser und Wasser." ⁷Und Gott machte das raqia, und er trennte zwischen den Wassern, die unter dem raqia *waren*, und zwischen den Wassern, die über dem raqia *waren*. Und *es* war so. ⁸Und Gott nannte das raqia „Himmel". Und *es* war Abend, und *es* war Morgen, zweiter Tag.
+⁶Und Gott sprach: @@„Es werde *ein* {t:raqia} (Ausdehnung) innerhalb der Wasser, und *es* sei eine Scheidewand zwischen Wasser und Wasser."@@ ⁷Und Gott machte das {t:raqia}, und er trennte zwischen den Wassern, die unter dem {t:raqia} *waren*, und zwischen den Wassern, die über dem {t:raqia} *waren*. Und *es* war so. ⁸Und Gott nannte das {t:raqia} „Himmel". Und *es* war Abend, und *es* war Morgen, zweiter Tag.
 
-⁹Und Gott sprach: „Die Wasser unter dem Himmel sollen sich sammeln an einen Ort, und das trockene *Land* werde gesehen." Und *es* war so. ¹⁰Und Gott nannte das trockene *Land* „Land", und die Ansammlung der Wasser nannte er „Meere". Und Gott sah, dass gut. ¹¹Und Gott sprach: „Das Land lasse grünen Grün, Kräuter samend Samen, Fruchtbäume Frucht-machend nach seiner Art, deren Samen in ihm *ist*, auf dem Land." Und *es* war so. ¹²Und das Land brachte hervor Grün, Kräuter samend Samen nach ihrer Art, und Bäume Frucht-machend, deren Samen in ihm *ist*, nach ihrer Art. Und Gott sah, dass gut. ¹³Und *es* war Abend, und *es* war Morgen, dritter Tag.
+⁹Und Gott sprach: @@„Die Wasser unter dem Himmel sollen sich sammeln an einen Ort, und das trockene *Land* werde gesehen."@@ Und *es* war so. ¹⁰Und Gott nannte das trockene *Land* „Land", und die Ansammlung der Wasser nannte er „Meere". Und Gott sah, dass gut. ¹¹Und Gott sprach: @@„Das Land lasse grünen Grün, Kräuter samend Samen, Fruchtbäume Frucht-machend nach seiner Art, deren Samen in ihm *ist*, auf dem Land."@@ Und *es* war so. ¹²Und das Land brachte hervor Grün, Kräuter samend Samen nach ihrer Art, und Bäume Frucht-machend, deren Samen in ihm *ist*, nach ihrer Art. Und Gott sah, dass gut. ¹³Und *es* war Abend, und *es* war Morgen, dritter Tag.
 
-¹⁴Und Gott sprach: „Es sollen sein Lichter im raqia, zu trennen zwischen dem Tag und zwischen der Nacht, und sie sollen sein für Zeichen und für bestimmte Zeiten und für Tage und Jahre. ¹⁵Und sie sollen sein für Lichter im raqia, zu leuchten auf das Land." Und *es* war so. ¹⁶Und Gott machte die zwei großen Lichter: das größere Licht für die Herrschaft des Tages, und das kleinere Licht für die Herrschaft der Nacht, und die Sterne. ¹⁷Und Gott setzte sie in das raqia, zu leuchten auf das Land. ¹⁸Und zu herrschen am Tag und in der Nacht, und zu trennen zwischen dem Licht und zwischen der Finsternis. Und Gott sah, dass gut. ¹⁹Und *es* war Abend, und *es* war Morgen, vierter Tag.
+¹⁴Und Gott sprach: @@„Es sollen sein Lichter im {t:raqia}, zu trennen zwischen dem Tag und zwischen der Nacht, und sie sollen sein für Zeichen und für bestimmte Zeiten und für Tage und Jahre. ¹⁵Und sie sollen sein für Lichter im {t:raqia}, zu leuchten auf das Land."@@ Und *es* war so. ¹⁶Und Gott machte die zwei großen Lichter: das größere Licht für die Herrschaft des Tages, und das kleinere Licht für die Herrschaft der Nacht, und die Sterne. ¹⁷Und Gott setzte sie in das {t:raqia}, zu leuchten auf das Land. ¹⁸Und zu herrschen am Tag und in der Nacht, und zu trennen zwischen dem Licht und zwischen der Finsternis. Und Gott sah, dass gut. ¹⁹Und *es* war Abend, und *es* war Morgen, vierter Tag.
 
-²⁰Und Gott sprach: „Die Wasser sollen wimmeln *von* Gewimmel lebendiger Wesen, und Vögel sollen fliegen über das Land, über der Fläche des raqia." ²¹Und Gott schuf die großen Meeresgeschöpfe, und jedes lebendige Wesen, die sich bewegenden, *die* die Wasser wimmelten, nach ihren Arten, und jeden beflügelten Vogel nach seiner Art. Und Gott sah, dass gut. ²²Und Gott segnete sie, sagend: „Seid fruchtbar und mehret euch, und füllet die Wasser in den Meeren, und die Vögel sollen sich mehren auf dem Land." ²³Und *es* war Abend, und *es* war Morgen, fünfter Tag.
+²⁰Und Gott sprach: @@„Die Wasser sollen wimmeln *von* Gewimmel lebendiger Wesen, und Vögel sollen fliegen über das Land, über der Fläche des {t:raqia}."@@ ²¹Und Gott schuf die großen Meeresgeschöpfe, und jedes lebendige Wesen, die sich bewegenden, *die* die Wasser wimmelten, nach ihren Arten, und jeden beflügelten Vogel nach seiner Art. Und Gott sah, dass gut. ²²Und Gott segnete sie, sagend: @@„Seid fruchtbar und mehret euch, und füllet die Wasser in den Meeren, und die Vögel sollen sich mehren auf dem Land."@@ ²³Und *es* war Abend, und *es* war Morgen, fünfter Tag.
 
-²⁴Und Gott sprach: „Das Land bringe hervor lebendige Wesen nach ihrer Art: Vieh und kriechende Dinge und Lebewesen des Landes, nach ihrer Art." Und *es* war so. ²⁵Und Gott machte die Lebewesen des Landes nach ihrer Art, und das Vieh nach seiner Art, und jedes kriechende Ding des Bodens nach seiner Art. Und Gott sah, dass gut. ²⁶Und Gott sprach: „Lasst uns *einen* Menschen machen in unserem Bild, nach unserer Ähnlichkeit, und sie sollen herrschen über die Fische des Meeres und über die Vögel des Himmels und über das Vieh und über das ganze Land und über jedes kriechende Ding, *das* kriecht auf dem Land." ²⁷Und Gott schuf den Menschen in seinem Bild; im Bild Gottes schuf er ihn; männlich und weiblich schuf er sie. ²⁸Und Gott segnete sie, und Gott sprach zu ihnen: „Seid fruchtbar und mehret euch, und füllet das Land und unterwerfet es, und herrschet über die Fische des Meeres und über die Vögel des Himmels und über jedes Lebewesen, *das* sich bewegt auf dem Land." ²⁹Und Gott sprach: „Siehe, ich habe euch gegeben jedes Kraut samend Samen, *das* auf der Fläche des ganzen Landes *ist*, und jeden Baum, in dem *ist* Frucht *eines* Baumes samend Samen; euch soll *es* sein zur Nahrung. ³⁰Und jedem Lebewesen des Landes und jedem Vogel des Himmels und allem Kriechenden auf dem Land, in dem *ein* lebendiges Wesen *ist*, jedes grüne Kraut zur Nahrung." Und *es* war so. ³¹Und Gott sah alles, was er gemacht hatte, und siehe, *es war* sehr gut. Und *es* war Abend, und *es* war Morgen, der sechste Tag.
+²⁴Und Gott sprach: @@„Das Land bringe hervor lebendige Wesen nach ihrer Art: Vieh und kriechende Dinge und Lebewesen des Landes, nach ihrer Art."@@ Und *es* war so. ²⁵Und Gott machte die Lebewesen des Landes nach ihrer Art, und das Vieh nach seiner Art, und jedes kriechende Ding des Bodens nach seiner Art. Und Gott sah, dass gut. ²⁶Und Gott sprach: @@„Lasst uns *einen* Menschen machen in unserem Bild, nach unserer Ähnlichkeit, und sie sollen herrschen über die Fische des Meeres und über die Vögel des Himmels und über das Vieh und über das ganze Land und über jedes kriechende Ding, *das* kriecht auf dem Land."@@ ²⁷Und Gott schuf den Menschen in seinem Bild; im Bild Gottes schuf er ihn; männlich und weiblich schuf er sie. ²⁸Und Gott segnete sie, und Gott sprach zu ihnen: @@„Seid fruchtbar und mehret euch, und füllet das Land und unterwerfet es, und herrschet über die Fische des Meeres und über die Vögel des Himmels und über jedes Lebewesen, *das* sich bewegt auf dem Land."@@ ²⁹Und Gott sprach: @@„Siehe, ich habe euch gegeben jedes Kraut samend Samen, *das* auf der Fläche des ganzen Landes *ist*, und jeden Baum, in dem *ist* Frucht *eines* Baumes samend Samen; euch soll *es* sein zur Nahrung. ³⁰Und jedem Lebewesen des Landes und jedem Vogel des Himmels und allem Kriechenden auf dem Land, in dem *ein* lebendiges Wesen *ist*, jedes grüne Kraut zur Nahrung."@@ Und *es* war so. ³¹Und Gott sah alles, was er gemacht hatte, und siehe, *es war* sehr gut. Und *es* war Abend, und *es* war Morgen, der sechste Tag.
 
 ---
 
@@ -102,7 +102,7 @@ Im Anfang schuf Gott den Himmel und das Land.
 
 ### **Vers 2**
 
-Und das Land war Chaos und Leere, und Finsternis *war* über der Fläche der Tiefe, und Wind/Geist Gottes schwebend über der Fläche der Wasser.
+Und das Land war Chaos und Leere, und Finsternis *war* über der Fläche der Tiefe, und {a:Wind/Geist} Gottes schwebend über der Fläche der Wasser.
 
 > **📝 NOTIZEN**
 > 
@@ -122,7 +122,7 @@ Und das Land war Chaos und Leere, und Finsternis *war* über der Fläche der Tie
 
 ### **Vers 3**
 
-Und Gott sprach: „Es werde Licht," und Licht war.
+Und Gott sprach: @@„Es werde Licht,"@@ und Licht war.
 
 > **📝 NOTIZEN**
 > 
@@ -163,7 +163,7 @@ Und Gott nannte das Licht „Tag", und die Finsternis nannte er „Nacht". Und *
 
 ### **Vers 6**
 
-Und Gott sprach: „Es werde *ein* raqia (Ausdehnung) innerhalb der Wasser, und *es* sei eine Scheidewand zwischen Wasser und Wasser."
+Und Gott sprach: @@„Es werde *ein* {t:raqia} (Ausdehnung) innerhalb der Wasser, und *es* sei eine Scheidewand zwischen Wasser und Wasser."@@
 
 > **📝 NOTIZEN**
 > 
@@ -180,7 +180,7 @@ Und Gott sprach: „Es werde *ein* raqia (Ausdehnung) innerhalb der Wasser, und 
 
 ### **Vers 7**
 
-Und Gott machte das raqia, und er trennte zwischen den Wassern, die unter dem raqia *waren*, und zwischen den Wassern, die über dem raqia *waren*. Und *es* war so.
+Und Gott machte das {t:raqia}, und er trennte zwischen den Wassern, die unter dem {t:raqia} *waren*, und zwischen den Wassern, die über dem {t:raqia} *waren*. Und *es* war so.
 
 > **📝 NOTIZEN**
 > 
@@ -194,7 +194,7 @@ Und Gott machte das raqia, und er trennte zwischen den Wassern, die unter dem ra
 
 ### **Vers 8**
 
-Und Gott nannte das raqia „Himmel". Und *es* war Abend, und *es* war Morgen, zweiter Tag.
+Und Gott nannte das {t:raqia} „Himmel". Und *es* war Abend, und *es* war Morgen, zweiter Tag.
 
 > **📝 NOTIZEN**
 > 
@@ -209,7 +209,7 @@ Und Gott nannte das raqia „Himmel". Und *es* war Abend, und *es* war Morgen, z
 
 ### **Vers 9**
 
-Und Gott sprach: „Die Wasser unter dem Himmel sollen sich sammeln an einen Ort, und das trockene *Land* werde gesehen." Und *es* war so.
+Und Gott sprach: @@„Die Wasser unter dem Himmel sollen sich sammeln an einen Ort, und das trockene *Land* werde gesehen."@@ Und *es* war so.
 
 > **📝 NOTIZEN**
 > 
@@ -236,7 +236,7 @@ Und Gott nannte das trockene *Land* „Land", und die Ansammlung der Wasser nann
 
 ### **Vers 11**
 
-Und Gott sprach: „Das Land lasse grünen Grün, Kräuter samend Samen, Fruchtbäume Frucht-machend nach seiner Art, deren Samen in ihm *ist*, auf dem Land." Und *es* war so.
+Und Gott sprach: @@„Das Land lasse grünen Grün, Kräuter samend Samen, Fruchtbäume Frucht-machend nach seiner Art, deren Samen in ihm *ist*, auf dem Land."@@ Und *es* war so.
 
 > **📝 NOTIZEN**
 > 
@@ -273,7 +273,7 @@ Und *es* war Abend, und *es* war Morgen, dritter Tag.
 
 ### **Vers 14**
 
-Und Gott sprach: „Es sollen sein Lichter im raqia, zu trennen zwischen dem Tag und zwischen der Nacht, und sie sollen sein für Zeichen und für bestimmte Zeiten und für Tage und Jahre.
+Und Gott sprach: @@„Es sollen sein Lichter im {t:raqia}, zu trennen zwischen dem Tag und zwischen der Nacht, und sie sollen sein für Zeichen und für bestimmte Zeiten und für Tage und Jahre.@@
 
 > **📝 NOTIZEN**
 > 
@@ -290,7 +290,7 @@ Und Gott sprach: „Es sollen sein Lichter im raqia, zu trennen zwischen dem Tag
 
 ### **Vers 15**
 
-Und sie sollen sein für Lichter im raqia, zu leuchten auf das Land." Und *es* war so.
+@@Und sie sollen sein für Lichter im {t:raqia}, zu leuchten auf das Land."@@ Und *es* war so.
 
 ---
 
@@ -314,7 +314,7 @@ Und Gott machte die zwei großen Lichter: das größere Licht für die Herrschaf
 
 ### **Vers 17**
 
-Und Gott setzte sie in das raqia, zu leuchten auf das Land.
+Und Gott setzte sie in das {t:raqia}, zu leuchten auf das Land.
 
 > **📝 NOTIZEN**
 > 
@@ -342,7 +342,7 @@ Und *es* war Abend, und *es* war Morgen, vierter Tag.
 
 ### **Vers 20**
 
-Und Gott sprach: „Die Wasser sollen wimmeln *von* Gewimmel lebendiger Wesen, und Vögel sollen fliegen über das Land, über der Fläche des raqia."
+Und Gott sprach: @@„Die Wasser sollen wimmeln *von* Gewimmel lebendiger Wesen, und Vögel sollen fliegen über das Land, über der Fläche des {t:raqia}."@@
 
 > **📝 NOTIZEN**
 > 
@@ -376,7 +376,7 @@ Und Gott schuf die großen Meeresgeschöpfe, und jedes lebendige Wesen, die sich
 
 ### **Vers 22**
 
-Und Gott segnete sie, sagend: „Seid fruchtbar und mehret euch, und füllet die Wasser in den Meeren, und die Vögel sollen sich mehren auf dem Land."
+Und Gott segnete sie, sagend: @@„Seid fruchtbar und mehret euch, und füllet die Wasser in den Meeren, und die Vögel sollen sich mehren auf dem Land."@@
 
 > **📝 NOTIZEN**
 > 
@@ -397,7 +397,7 @@ Und *es* war Abend, und *es* war Morgen, fünfter Tag.
 
 ### **Vers 24**
 
-Und Gott sprach: „Das Land bringe hervor lebendige Wesen nach ihrer Art: Vieh und kriechende Dinge und Lebewesen des Landes, nach ihrer Art." Und *es* war so.
+Und Gott sprach: @@„Das Land bringe hervor lebendige Wesen nach ihrer Art: Vieh und kriechende Dinge und Lebewesen des Landes, nach ihrer Art."@@ Und *es* war so.
 
 > **📝 NOTIZEN**
 > 
@@ -428,7 +428,7 @@ Und Gott machte die Lebewesen des Landes nach ihrer Art, und das Vieh nach seine
 
 ### **Vers 26**
 
-Und Gott sprach: „Lasst uns *einen* Menschen machen in unserem Bild, nach unserer Ähnlichkeit, und sie sollen herrschen über die Fische des Meeres und über die Vögel des Himmels und über das Vieh und über das ganze Land und über jedes kriechende Ding, *das* kriecht auf dem Land."
+Und Gott sprach: @@„Lasst uns *einen* Menschen machen in unserem Bild, nach unserer Ähnlichkeit, und sie sollen herrschen über die Fische des Meeres und über die Vögel des Himmels und über das Vieh und über das ganze Land und über jedes kriechende Ding, *das* kriecht auf dem Land."@@
 
 > **📝 NOTIZEN**
 > 
@@ -473,7 +473,7 @@ Und Gott schuf den Menschen in seinem Bild; im Bild Gottes schuf er ihn; männli
 
 ### **Vers 28**
 
-Und Gott segnete sie, und Gott sprach zu ihnen: „Seid fruchtbar und mehret euch, und füllet das Land und unterwerfet es, und herrschet über die Fische des Meeres und über die Vögel des Himmels und über jedes Lebewesen, *das* sich bewegt auf dem Land."
+Und Gott segnete sie, und Gott sprach zu ihnen: @@„Seid fruchtbar und mehret euch, und füllet das Land und unterwerfet es, und herrschet über die Fische des Meeres und über die Vögel des Himmels und über jedes Lebewesen, *das* sich bewegt auf dem Land."@@
 
 > **📝 NOTIZEN**
 > 
@@ -494,7 +494,7 @@ Und Gott segnete sie, und Gott sprach zu ihnen: „Seid fruchtbar und mehret euc
 
 ### **Vers 29**
 
-Und Gott sprach: „Siehe, ich habe euch gegeben jedes Kraut samend Samen, *das* auf der Fläche des ganzen Landes *ist*, und jeden Baum, in dem *ist* Frucht *eines* Baumes samend Samen; euch soll *es* sein zur Nahrung.
+Und Gott sprach: @@„Siehe, ich habe euch gegeben jedes Kraut samend Samen, *das* auf der Fläche des ganzen Landes *ist*, und jeden Baum, in dem *ist* Frucht *eines* Baumes samend Samen; euch soll *es* sein zur Nahrung.@@
 
 > **📝 NOTIZEN**
 > 
@@ -511,7 +511,7 @@ Und Gott sprach: „Siehe, ich habe euch gegeben jedes Kraut samend Samen, *das*
 
 ### **Vers 30**
 
-Und jedem Lebewesen des Landes und jedem Vogel des Himmels und allem Kriechenden auf dem Land, in dem *ein* lebendiges Wesen *ist*, jedes grüne Kraut zur Nahrung." Und *es* war so.
+@@Und jedem Lebewesen des Landes und jedem Vogel des Himmels und allem Kriechenden auf dem Land, in dem *ein* lebendiges Wesen *ist*, jedes grüne Kraut zur Nahrung."@@ Und *es* war so.
 
 > **📝 NOTIZEN**
 > 

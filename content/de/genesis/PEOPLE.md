@@ -137,7 +137,7 @@ Diese Datei enthält biografische und genealogische Informationen über Personen
 **Erwähnt in:** Gen 4:18–24
 **Wichtige Ereignisse:** Erster aufgezeichneter Polygamist (4:19); sein Sohn Yaval ist Vater der Zeltnomaden und Viehhalter (4:20); sein Sohn Yuval ist Vater der Leier- und Flötenspieler (4:21); sein Sohn Tuval-Kain schmiedet Geräte aus Bronze und Eisen (4:22); sang das Lied der gesteigerten Gewalt für seine Frauen (4:23–24) — rühmt sich, einen Mann für eine Wunde getötet zu haben und einen Jüngling für einen Schlag; beansprucht 77-fache Rache gegen JHWH's 7-fachen Schutz über Kain
 
-**Vertrauter Name:** Lamech (Kainit)
+**Vertrauter Name:** Lamech
 **Beruf:** nicht angegeben
 **Gesellschaftliche Schicht:** nicht angegeben
 **Heimatort:** nicht angegeben
@@ -450,7 +450,7 @@ Diese Datei enthält biografische und genealogische Informationen über Personen
 **Erwähnt in:** Gen 5:25–31
 **Wichtige Ereignisse:** Zeugte Noah im Alter von 182 (5:28–29); benannte Noah mit den Worten „Dieser wird uns trösten von unserer Arbeit und von der Mühsal unserer Hände, wegen des Erdbodens, den JHWH verflucht hat" (5:29); starb mit 777 (5:31)
 
-**Vertrauter Name:** Lamech (Sethit)
+**Vertrauter Name:** Lamech
 **Beruf:** nicht angegeben
 **Gesellschaftliche Schicht:** nicht angegeben
 **Heimatort:** nicht angegeben
@@ -900,6 +900,8 @@ Alle Daten AM, nach Arithmetik des Masoretischen Textes.
 | Lamech | 874 | 182 | Noah | 595 | 1651 | 777 |
 | Noah | 1056 | 500 | Shem, Ham, Yafet | 450 | 2006 | 950 |
 
+**Anmerkung:** Die Flut ereignet sich in AM 1656 (Noah im Alter von 600, Gen 7:6). Nach der MT-Arithmetik stirbt Methusalem im Flutjahr. Lamech stirbt fünf Jahre vor der Flut. Adam stirbt AM 930 — weit vor der Flut, aber überlappend mit Lamechs Lebenszeit (geboren AM 874).
+
 ---
 
 ## H. Konsultierte Quellen
@@ -910,5 +912,3 @@ Alle Daten AM, nach Arithmetik des Masoretischen Textes.
 - **Chronologie:** Hasel, G., "The Meaning of the Chronogenealogies of Genesis 5 and 11," *Origins* 7 (1980): 53–70.
 
 > **Redaktionelle Herkunft:** Entworfen von Claude Opus 4.6 (1M Kontext) am 2026-04-27. Noch nicht begutachtet. Diese Datei ist eine provisorische wissenschaftliche Ressource, geregelt durch TT-Regel 29.
-
-**Anmerkung:** Die Flut ereignet sich in AM 1656 (Noah im Alter von 600, Gen 7:6). Nach der MT-Arithmetik stirbt Methusalem im Flutjahr. Lamech stirbt fünf Jahre vor der Flut. Adam stirbt AM 930 — weit vor der Flut, aber überlappend mit Lamechs Lebenszeit (geboren AM 874).

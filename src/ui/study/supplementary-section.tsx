@@ -1,22 +1,38 @@
 import type { SupplementarySection } from "@/domain/content/types";
 import { renderMarkdownSafe } from "@/ui/shared/render-markdown-safe";
 
+/**
+ * Notes "supplementary patterns" disclosures. Part of the page-wide `notes-acc`
+ * accordion (only one open at a time); `firstOpen` opens the first item when no
+ * earlier disclosure on the page claimed the open slot.
+ */
 export function SupplementaryPanel({
   sections,
+  firstOpen = false,
 }: {
   sections: SupplementarySection[];
+  firstOpen?: boolean;
 }) {
   if (sections.length === 0) return null;
 
   return (
-    <div className="space-y-4 mt-8">
+    <div className="space-y-0 mt-2">
       {sections.map((section, i) => (
-        <details key={`s-${i}`} className="border border-border rounded-lg">
-          <summary className="px-4 py-3 cursor-pointer text-sm font-semibold text-text-secondary hover:text-accent transition-colors duration-150 select-none focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2 rounded-lg">
-            {section.title}
+        <details
+          key={`s-${i}`}
+          id={`supp-${i}`}
+          name="notes-acc"
+          className="tt-details scroll-mt-24"
+          open={firstOpen && i === 0}
+        >
+          <summary>
+            <span>{section.title}</span>
+            <span className="chev" aria-hidden="true">
+              ›
+            </span>
           </summary>
           <div
-            className="px-4 pb-4 text-sm leading-relaxed text-text-primary"
+            className="body [&_em]:italic"
             dangerouslySetInnerHTML={{
               __html: renderMarkdownSafe(section.content, "note"),
             }}

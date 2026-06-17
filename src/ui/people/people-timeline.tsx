@@ -1,18 +1,14 @@
 import type { PersonEntry } from "@/domain/content/types";
 
-const BAR_HEIGHT = 20;
-const BAR_GAP = 6;
-const LABEL_WIDTH = 130;
-const LIFESPAN_WIDTH = 70;
-const PADDING = 16;
+// The Flood year in the Masoretic Anno-Mundi reckoning (Noah age 600, Gen 7:6).
+const AM_FLOOD = 1656;
 
-const BAR_COLORS = [
-  "var(--color-note-lexical)",
-  "var(--color-note-grammatical)",
-  "var(--color-note-theological)",
-  "var(--color-accent)",
-  "var(--color-note-critical)",
-];
+// Prototype geometry (docs/redesign/site/genesis/people.html inline SVG).
+const W = 1000;
+const PAD_L = 120;
+const PAD_R = 30;
+const PAD_T = 20;
+const ROW_H = 38;
 
 type Anchor = "creation" | "historical";
 
@@ -21,172 +17,201 @@ interface TimelineEntry {
   displayName: string;
   start: number;
   end: number;
-  lifespanLabel: string;
+  /** No death formula — "taken" (Chanokh/Enoch); rendered as a dashed bar. */
+  taken: boolean;
 }
 
 function pickAnchor(
   entries: PersonEntry[],
 ): { anchor: Anchor; entries: TimelineEntry[] } | null {
-  const creationEntries: TimelineEntry[] = [];
-  const historicalEntries: TimelineEntry[] = [];
+  const creation: TimelineEntry[] = [];
+  const historical: TimelineEntry[] = [];
   for (const e of entries) {
-    const displayName = e.familiarName || e.name;
-    const lifespanLabel = e.lifespan
-      ? e.lifespan
-          .replace(" years", "y")
-          .replace(" anos", "a")
-          .replace(" Jahre", "J")
-          .replace(" años", "a")
-      : "";
+    const taken = e.name === "Chanokh" || e.familiarName === "Enoch";
+    // A bar label must stay short — strip any verbose "(…)" qualifier authored
+    // into the Familiar-name field (e.g. Abram's "(name changed … out of scope)").
+    const displayName = (e.familiarName || e.name)
+      .replace(/\s*\(.*$/, "")
+      .trim();
+    const base = { slug: e.slug, displayName, taken };
     if (e.yearFromCreation != null && e.yearFromCreationEnd != null) {
-      creationEntries.push({
-        slug: e.slug,
-        displayName,
+      creation.push({
+        ...base,
         start: e.yearFromCreation,
         end: e.yearFromCreationEnd,
-        lifespanLabel,
       });
     } else if (e.historicalYear != null && e.historicalYearEnd != null) {
-      historicalEntries.push({
-        slug: e.slug,
-        displayName,
+      historical.push({
+        ...base,
         start: e.historicalYear,
         end: e.historicalYearEnd,
-        lifespanLabel,
       });
     }
   }
-  if (creationEntries.length === 0 && historicalEntries.length === 0)
-    return null;
-  if (creationEntries.length >= historicalEntries.length) {
-    return { anchor: "creation", entries: creationEntries };
-  }
-  return { anchor: "historical", entries: historicalEntries };
+  if (creation.length === 0 && historical.length === 0) return null;
+  const chosen = creation.length >= historical.length ? creation : historical;
+  chosen.sort((a, b) => a.start - b.start);
+  return {
+    anchor: creation.length >= historical.length ? "creation" : "historical",
+    entries: chosen,
+  };
 }
 
 export function PeopleTimeline({
   entries,
-  title,
+  book,
+  kicker,
   captionCreation,
   captionHistorical,
+  floodLabel,
+  takenLabel,
 }: {
   entries: PersonEntry[];
-  title: string;
+  book: string;
+  kicker: string;
   captionCreation: string;
   captionHistorical: string;
+  floodLabel: string;
+  takenLabel: string;
 }) {
   const picked = pickAnchor(entries);
   if (!picked) return null;
-  const { anchor, entries: timelineEntries } = picked;
-  if (timelineEntries.length === 0) return null;
+  const { anchor } = picked;
+  let rows = picked.entries;
+  // Genesis: the chart is the Gen-5 line Adam → Noah, so stop at Noah (the
+  // post-flood patriarchs Shem/Terah/Avram have their own genealogy table).
+  if (book === "genesis" && anchor === "creation") {
+    const noahIdx = rows.findIndex((e) => e.slug === "noach");
+    if (noahIdx >= 0) rows = rows.slice(0, noahIdx + 1);
+  }
+  if (rows.length === 0) return null;
 
-  const minYear = Math.min(...timelineEntries.map((e) => e.start));
-  const maxYear = Math.max(...timelineEntries.map((e) => e.end));
-  const yearSpan = maxYear - minYear || 1;
+  const isAM = anchor === "creation";
+  const showFlood = book === "genesis" && isAM;
+  const caption = isAM ? captionCreation : captionHistorical;
 
-  const chartWidth = 520;
-  const svgWidth = LABEL_WIDTH + chartWidth + LIFESPAN_WIDTH + PADDING * 2;
-  const svgHeight =
-    timelineEntries.length * (BAR_HEIGHT + BAR_GAP) + PADDING * 2 + 30;
+  const minYear = Math.min(0, ...rows.map((e) => e.start));
+  const maxEnd = Math.max(...rows.map((e) => e.end));
+  // Round the axis up to the next 500 + headroom for the trailing year label.
+  const maxYr = Math.ceil((maxEnd + 60) / 500) * 500;
+  const plotW = W - PAD_L - PAD_R;
+  const span = maxYr - minYear || 1;
+  const x = (yr: number) => PAD_L + ((yr - minYear) / span) * plotW;
 
-  const yearToX = (year: number) =>
-    LABEL_WIDTH + PADDING + ((year - minYear) / yearSpan) * chartWidth;
+  const axisBottom = PAD_T + rows.length * ROW_H + 6;
+  const svgHeight = axisBottom + 30;
 
-  const tickInterval =
-    yearSpan > 1500 ? 500 : yearSpan > 500 ? 200 : yearSpan > 100 ? 50 : 10;
-  const firstTick = Math.ceil(minYear / tickInterval) * tickInterval;
   const ticks: number[] = [];
-  for (let t = firstTick; t <= maxYear; t += tickInterval) {
-    ticks.push(t);
+  for (let yr = Math.ceil(minYear / 500) * 500; yr <= maxEnd; yr += 500) {
+    ticks.push(yr);
   }
 
-  const caption = anchor === "creation" ? captionCreation : captionHistorical;
-
   return (
-    <div className="space-y-3">
-      <h3 className="font-[family-name:var(--font-reading)] text-lg font-light text-text-primary">
-        {title}
-      </h3>
-      <div className="overflow-x-auto border border-border rounded-lg bg-bg-paper p-4">
+    <section className="my-[clamp(40px,6vh,70px)]">
+      <p className="tt-kick">{kicker}</p>
+      <div className="overflow-x-auto rounded-xl border border-border bg-bg-surface p-[18px]">
         <svg
           width="100%"
-          viewBox={`0 0 ${svgWidth} ${svgHeight}`}
+          viewBox={`0 0 ${W} ${svgHeight}`}
           preserveAspectRatio="xMinYMin meet"
           role="img"
-          aria-label={title}
-          style={{ maxWidth: svgWidth, height: "auto" }}
+          aria-label={kicker}
+          style={{ height: "auto" }}
         >
-          {ticks.map((tick) => (
-            <g key={tick}>
+          {ticks.map((yr) => (
+            <g key={`tick-${yr}`}>
               <line
-                x1={yearToX(tick)}
-                y1={PADDING}
-                x2={yearToX(tick)}
-                y2={svgHeight - 30}
-                className="stroke-border"
-                strokeOpacity={0.6}
+                x1={x(yr)}
+                y1={PAD_T}
+                x2={x(yr)}
+                y2={axisBottom}
+                stroke="var(--color-border)"
                 strokeWidth={1}
               />
               <text
-                x={yearToX(tick)}
-                y={svgHeight - 10}
+                x={x(yr)}
+                y={axisBottom + 16}
                 textAnchor="middle"
-                className="fill-text-muted"
-                style={{ fontSize: "10px" }}
+                fill="var(--color-text-muted)"
+                fontFamily="var(--font-mono)"
+                style={{ fontSize: "11px" }}
               >
-                {tick}
+                {isAM ? `AM ${yr}` : yr}
               </text>
             </g>
           ))}
 
-          {timelineEntries.map((entry, i) => {
-            const y = PADDING + i * (BAR_HEIGHT + BAR_GAP);
-            const x1 = yearToX(entry.start);
-            const x2 = yearToX(entry.end);
-            const barWidth = Math.max(x2 - x1, 2);
-            const color = BAR_COLORS[i % BAR_COLORS.length];
+          {showFlood && AM_FLOOD <= maxEnd && (
+            <g>
+              <line
+                x1={x(AM_FLOOD)}
+                y1={PAD_T - 6}
+                x2={x(AM_FLOOD)}
+                y2={axisBottom}
+                stroke="var(--color-ochre)"
+                strokeWidth={2}
+                strokeDasharray="2 3"
+              />
+              <text
+                x={x(AM_FLOOD)}
+                y={PAD_T - 9}
+                textAnchor="middle"
+                fill="var(--color-ochre)"
+                fontFamily="var(--font-mono)"
+                style={{ fontSize: "11px" }}
+              >
+                {`${floodLabel} · ${AM_FLOOD}`}
+              </text>
+            </g>
+          )}
 
+          {rows.map((e, i) => {
+            const yy = PAD_T + i * ROW_H + 10;
+            const x0 = x(e.start);
+            const x1 = x(e.end);
+            const w = Math.max(2, x1 - x0);
             return (
               <g
-                key={entry.slug}
-                aria-label={`${entry.displayName}: ${entry.start} - ${entry.end}`}
+                key={e.slug}
+                aria-label={`${e.displayName}: ${e.start}–${e.end}`}
               >
                 <text
-                  x={LABEL_WIDTH}
-                  y={y + BAR_HEIGHT / 2 + 4}
+                  x={PAD_L - 12}
+                  y={yy + 13}
                   textAnchor="end"
-                  className="fill-text-primary"
-                  style={{ fontSize: "11px" }}
+                  fill="var(--color-text-primary)"
+                  fontFamily="var(--font-reading)"
+                  style={{ fontSize: "13px" }}
                 >
-                  {entry.displayName}
+                  {e.displayName}
                 </text>
                 <rect
-                  x={x1}
-                  y={y}
-                  width={barWidth}
-                  height={BAR_HEIGHT}
-                  fill={color}
-                  rx={3}
-                  ry={3}
-                  opacity={0.75}
+                  x={x0}
+                  y={yy}
+                  width={w}
+                  height={18}
+                  rx={4}
+                  fill={e.taken ? "none" : "var(--color-petrol)"}
+                  opacity={e.taken ? 1 : 0.85}
+                  stroke={e.taken ? "var(--color-ochre)" : "none"}
+                  strokeWidth={e.taken ? 2 : 0}
+                  strokeDasharray={e.taken ? "4 3" : undefined}
                 />
-                {entry.lifespanLabel && (
-                  <text
-                    x={x2 + 8}
-                    y={y + BAR_HEIGHT / 2 + 4}
-                    textAnchor="start"
-                    className="fill-text-secondary"
-                    style={{ fontSize: "10px" }}
-                  >
-                    {entry.lifespanLabel}
-                  </text>
-                )}
+                <text
+                  x={x1 + 6}
+                  y={yy + 13}
+                  fill="var(--color-text-muted)"
+                  fontFamily="var(--font-mono)"
+                  style={{ fontSize: "10.5px" }}
+                >
+                  {`${e.end - e.start}${e.taken ? ` · ${takenLabel}` : ""}`}
+                </text>
               </g>
             );
           })}
         </svg>
       </div>
-      <p className="text-xs text-text-muted italic">{caption}</p>
-    </div>
+      <p className="mono mt-3 text-text-muted text-xs">{caption}</p>
+    </section>
   );
 }

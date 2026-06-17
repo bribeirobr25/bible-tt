@@ -71,9 +71,9 @@ Und David zeugte Shelomoh (Salomo) von der *Frau* des Uriyah, ⁷und Salomo zeug
 
 ¹⁷So sind alle Geschlechter von Abraham bis David vierzehn Geschlechter, und von David bis zum Exil nach Bavel vierzehn Geschlechter, und vom Exil nach Bavel bis zum Gesalbten vierzehn Geschlechter.
 
-¹⁸Nun *war* die Genesis des Jesus, des Gesalbten, so: seine Mutter Maria, verlobt mit Josef, wurde, bevor sie zusammenkamen, schwanger befunden vom heiligen Wind/Geist. ¹⁹Und Josef, ihr Mann, der gerecht war und sie nicht öffentlich bloßstellen wollte, plante sie heimlich freizulassen. ²⁰Aber *während* er diese Dinge erwog, siehe, ein Bote des Herrn erschien ihm im Traum und sprach: „Josef, Sohn Davids, fürchte dich nicht, Maria *als* deine Frau zu nehmen, denn das *Kind*, das in ihr gezeugt ist, ist vom heiligen Wind/Geist. ²¹Und sie wird einen Sohn gebären, und du sollst seinen Namen Jesus nennen, denn er wird sein Volk retten von ihren Sünden."
+¹⁸Nun *war* die Genesis des Jesus, des Gesalbten, so: seine Mutter Maria, verlobt mit Josef, wurde, bevor sie zusammenkamen, schwanger befunden vom heiligen {a:Wind/Geist}. ¹⁹Und Josef, ihr Mann, der gerecht war und sie nicht öffentlich bloßstellen wollte, plante sie heimlich freizulassen. ²⁰Aber *während* er diese Dinge erwog, siehe, ein Bote des Herrn erschien ihm im Traum und sprach: „Josef, Sohn Davids, fürchte dich nicht, Maria *als* deine Frau zu nehmen, denn das *Kind*, das in ihr gezeugt ist, ist vom heiligen {a:Wind/Geist}. ²¹Und sie wird einen Sohn gebären, und du sollst seinen Namen Jesus nennen, denn er wird sein Volk retten von ihren Sünden."
 
-²²Und dies alles geschah, damit erfüllt werde, was vom Herrn durch den Propheten geredet worden war, der da sagt: ²³„Siehe, die Jungfrau/junge Frau wird empfangen und einen Sohn gebären, und sie werden seinen Namen Immanu'el nennen" — das heißt, übersetzt, „Gott mit uns."
+²²Und dies alles geschah, damit erfüllt werde, was vom Herrn durch den Propheten geredet worden war, der da sagt: ²³„Siehe, die {a:Jungfrau/junge Frau} wird empfangen und einen Sohn gebären, und sie werden seinen Namen Immanu'el nennen" — das heißt, übersetzt, „Gott mit uns."
 
 ²⁴Und Josef, vom Schlaf aufgewacht, tat, wie der Bote des Herrn ihm befohlen hatte, und nahm seine Frau, ²⁵und er erkannte sie nicht, bis sie einen Sohn gebar; und er nannte seinen Namen Jesus.
 
@@ -316,7 +316,7 @@ So sind alle Geschlechter von Abraham bis David vierzehn Geschlechter, und von D
 
 ### **Vers 18**
 
-Nun *war* die Genesis des Jesus, des Gesalbten, so: seine Mutter Maria, verlobt mit Josef, wurde, bevor sie zusammenkamen, schwanger befunden vom heiligen Wind/Geist.
+Nun *war* die Genesis des Jesus, des Gesalbten, so: seine Mutter Maria, verlobt mit Josef, wurde, bevor sie zusammenkamen, schwanger befunden vom heiligen {a:Wind/Geist}.
 
 > **Notizen**
 >
@@ -347,7 +347,7 @@ Und Josef, ihr Mann, der gerecht war und sie nicht öffentlich bloßstellen woll
 
 ### **Vers 20**
 
-Aber *während* er diese Dinge erwog, siehe, ein Bote des Herrn erschien ihm im Traum und sprach: „Josef, Sohn Davids, fürchte dich nicht, Maria *als* deine Frau zu nehmen, denn das *Kind*, das in ihr gezeugt ist, ist vom heiligen Wind/Geist.
+Aber *während* er diese Dinge erwog, siehe, ein Bote des Herrn erschien ihm im Traum und sprach: „Josef, Sohn Davids, fürchte dich nicht, Maria *als* deine Frau zu nehmen, denn das *Kind*, das in ihr gezeugt ist, ist vom heiligen {a:Wind/Geist}.
 
 > **Notizen**
 >
@@ -389,7 +389,7 @@ Und dies alles geschah, damit erfüllt werde, was vom Herrn durch den Propheten 
 
 ### **Vers 23**
 
-„Siehe, die Jungfrau/junge Frau wird empfangen und einen Sohn gebären, und sie werden seinen Namen Immanu'el nennen" — das heißt, übersetzt, „Gott mit uns."
+„Siehe, die {a:Jungfrau/junge Frau} wird empfangen und einen Sohn gebären, und sie werden seinen Namen Immanu'el nennen" — das heißt, übersetzt, „Gott mit uns."
 
 > **Notizen**
 >

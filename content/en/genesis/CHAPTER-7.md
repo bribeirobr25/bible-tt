@@ -61,13 +61,13 @@
 
 ---
 
-¹And YHWH said to Noach (Noah), "Come, you and all your household, into the tebah, for you I have seen *as* righteous before me in this generation. ²From all the clean livestock you shall take for yourself seven seven, a man and his woman, and from the livestock which *is* not clean, two, a man and his woman. ³Also from the bird of the sky, seven seven, male and female, to keep alive seed on the face of all the land. ⁴For in yet seven days I *am* sending rain upon the land, forty days and forty nights, and I will wipe every standing thing which I made from upon the face of the ground." ⁵And Noah did according to all that YHWH commanded him.
+¹And YHWH said to Noach (Noah), @@"Come, you and all your household, into the {t:tebah}, for you I have seen *as* righteous before me in this generation. ²From all the clean livestock you shall take for yourself seven seven, a man and his woman, and from the livestock which *is* not clean, two, a man and his woman. ³Also from the bird of the sky, seven seven, male and female, to keep alive seed on the face of all the land. ⁴For in yet seven days I *am* sending rain upon the land, forty days and forty nights, and I will wipe every standing thing which I made from upon the face of the ground."@@ ⁵And Noah did according to all that YHWH commanded him.
 
-⁶And Noah *was* six hundred years old, and the flood of waters was upon the land. ⁷And Noah went, and his sons and his woman and the women of his sons with him, into the tebah, from the face of the waters of the flood. ⁸From the clean livestock and from the livestock which *is* not clean, and from the bird, and *from* everything that creeps upon the ground, ⁹two two they came to Noah into the tebah, male and female, as God commanded Noah. ¹⁰And it was at seven of the days, and the waters of the flood were upon the land.
+⁶And Noah *was* six hundred years old, and the flood of waters was upon the land. ⁷And Noah went, and his sons and his woman and the women of his sons with him, into the {t:tebah}, from the face of the waters of the flood. ⁸From the clean livestock and from the livestock which *is* not clean, and from the bird, and *from* everything that creeps upon the ground, ⁹two two they came to Noah into the {t:tebah}, male and female, as God commanded Noah. ¹⁰And it was at seven of the days, and the waters of the flood were upon the land.
 
-¹¹In the six hundredth year of the life of Noah, in the second month, on the seventeenth day of the month, on this day all the fountains of the great deep burst open, and the windows of the sky were opened. ¹²And the rain was upon the land forty days and forty nights. ¹³On this very day Noah entered, and Shem and Cham (Ham) and Yafet (Japheth), the sons of Noah, and the woman of Noah and the three women of his sons with them, into the tebah — ¹⁴they, and every living thing to its kind, and every livestock to its kind, and every creeping thing that creeps upon the land to its kind, and every bird to its kind, every winged thing. ¹⁵And they came to Noah into the tebah, two two from all the flesh in which *is* breath of life. ¹⁶And those coming, male and female from all flesh they came, as God commanded him; and YHWH shut *it* behind him.
+¹¹In the six hundredth year of the life of Noah, in the second month, on the seventeenth day of the month, on this day all the fountains of the great deep burst open, and the windows of the sky were opened. ¹²And the rain was upon the land forty days and forty nights. ¹³On this very day Noah entered, and Shem and Cham (Ham) and Yafet (Japheth), the sons of Noah, and the woman of Noah and the three women of his sons with them, into the {t:tebah} — ¹⁴they, and every living thing to its kind, and every livestock to its kind, and every creeping thing that creeps upon the land to its kind, and every bird to its kind, every winged thing. ¹⁵And they came to Noah into the {t:tebah}, two two from all the flesh in which *is* breath of life. ¹⁶And those coming, male and female from all flesh they came, as God commanded him; and YHWH shut *it* behind him.
 
-¹⁷And the flood was forty days upon the land, and the waters increased and lifted the tebah, and it rose from upon the land. ¹⁸And the waters prevailed and increased greatly upon the land, and the tebah went upon the face of the waters. ¹⁹And the waters prevailed very very upon the land, and all the high mountains which *were* under all the sky were covered. ²⁰Fifteen cubits upward the waters prevailed, and the mountains were covered. ²¹And all flesh that moves upon the land perished — the bird and the livestock and the living thing and every swarming thing that swarms upon the land, and every human. ²²Everything which *had* breath of the wind/spirit of life in its nostrils, from all which *was* on the dry ground, died. ²³And he wiped every standing thing which *was* on the face of the ground, from human to livestock to creeping thing to bird of the sky, and they were wiped from the land; and only Noah remained, and those with him in the tebah. ²⁴And the waters prevailed upon the land one hundred and fifty days.
+¹⁷And the flood was forty days upon the land, and the waters increased and lifted the {t:tebah}, and it rose from upon the land. ¹⁸And the waters prevailed and increased greatly upon the land, and the {t:tebah} went upon the face of the waters. ¹⁹And the waters prevailed very very upon the land, and all the high mountains which *were* under all the sky were covered. ²⁰Fifteen cubits upward the waters prevailed, and the mountains were covered. ²¹And all flesh that moves upon the land perished — the bird and the livestock and the living thing and every swarming thing that swarms upon the land, and every human. ²²Everything which *had* breath of the {a:wind/spirit} of life in its nostrils, from all which *was* on the dry ground, died. ²³And he wiped every standing thing which *was* on the face of the ground, from human to livestock to creeping thing to bird of the sky, and they were wiped from the land; and only Noah remained, and those with him in the {t:tebah}. ²⁴And the waters prevailed upon the land one hundred and fifty days.
 
 ---
 
@@ -75,7 +75,7 @@
 
 ### **Verse 1**
 
-And YHWH said to Noach (Noah), "Come, you and all your household, into the tebah, for you I have seen *as* righteous before me in this generation.
+And YHWH said to Noach (Noah), @@"Come, you and all your household, into the {t:tebah}, for you I have seen *as* righteous before me in this generation.@@
 
 > **📝 NOTES**
 >
@@ -89,7 +89,7 @@ And YHWH said to Noach (Noah), "Come, you and all your household, into the tebah
 
 ### **Verse 2**
 
-From all the clean livestock you shall take for yourself seven seven, a man and his woman, and from the livestock which *is* not clean, two, a man and his woman.
+@@From all the clean livestock you shall take for yourself seven seven, a man and his woman, and from the livestock which *is* not clean, two, a man and his woman.@@
 
 > **📝 NOTES**
 >
@@ -107,7 +107,7 @@ From all the clean livestock you shall take for yourself seven seven, a man and 
 
 ### **Verse 3**
 
-Also from the bird of the sky, seven seven, male and female, to keep alive seed on the face of all the land.
+@@Also from the bird of the sky, seven seven, male and female, to keep alive seed on the face of all the land.@@
 
 > **📝 NOTES**
 >
@@ -118,7 +118,7 @@ Also from the bird of the sky, seven seven, male and female, to keep alive seed 
 
 ### **Verse 4**
 
-For in yet seven days I *am* sending rain upon the land, forty days and forty nights, and I will wipe every standing thing which I made from upon the face of the ground."
+@@For in yet seven days I *am* sending rain upon the land, forty days and forty nights, and I will wipe every standing thing which I made from upon the face of the ground."@@
 
 > **📝 NOTES**
 >
@@ -154,7 +154,7 @@ And Noah *was* six hundred years old, and the flood of waters was upon the land.
 
 ### **Verse 7**
 
-And Noah went, and his sons and his woman and the women of his sons with him, into the tebah, from the face of the waters of the flood.
+And Noah went, and his sons and his woman and the women of his sons with him, into the {t:tebah}, from the face of the waters of the flood.
 
 ---
 
@@ -166,7 +166,7 @@ From the clean livestock and from the livestock which *is* not clean, and from t
 
 ### **Verse 9**
 
-two two they came to Noah into the tebah, male and female, as God commanded Noah.
+two two they came to Noah into the {t:tebah}, male and female, as God commanded Noah.
 
 > **📝 NOTES**
 >
@@ -208,7 +208,7 @@ And the rain was upon the land forty days and forty nights.
 
 ### **Verse 13**
 
-On this very day Noah entered, and Shem and Ham and Japheth, the sons of Noah, and the woman of Noah and the three women of his sons with them, into the tebah —
+On this very day Noah entered, and Shem and Ham and Japheth, the sons of Noah, and the woman of Noah and the three women of his sons with them, into the {t:tebah} —
 
 > **📝 NOTES**
 >
@@ -230,7 +230,7 @@ they, and every living thing to its kind, and every livestock to its kind, and e
 
 ### **Verse 15**
 
-And they came to Noah into the tebah, two two from all the flesh in which *is* breath of life.
+And they came to Noah into the {t:tebah}, two two from all the flesh in which *is* breath of life.
 
 ---
 
@@ -250,7 +250,7 @@ And those coming, male and female from all flesh they came, as God commanded him
 
 ### **Verse 17**
 
-And the flood was forty days upon the land, and the waters increased and lifted the tebah, and it rose from upon the land.
+And the flood was forty days upon the land, and the waters increased and lifted the {t:tebah}, and it rose from upon the land.
 
 > **📝 NOTES**
 >
@@ -261,7 +261,7 @@ And the flood was forty days upon the land, and the waters increased and lifted 
 
 ### **Verse 18**
 
-And the waters prevailed and increased greatly upon the land, and the tebah went upon the face of the waters.
+And the waters prevailed and increased greatly upon the land, and the {t:tebah} went upon the face of the waters.
 
 ---
 
@@ -295,7 +295,7 @@ And all flesh that moves upon the land perished — the bird and the livestock a
 
 ### **Verse 22**
 
-Everything which *had* breath of the wind/spirit of life in its nostrils, from all which *was* on the dry ground, died.
+Everything which *had* breath of the {a:wind/spirit} of life in its nostrils, from all which *was* on the dry ground, died.
 
 > **📝 NOTES**
 >
@@ -309,7 +309,7 @@ Everything which *had* breath of the wind/spirit of life in its nostrils, from a
 
 ### **Verse 23**
 
-And he wiped every standing thing which *was* on the face of the ground, from human to livestock to creeping thing to bird of the sky, and they were wiped from the land; and only Noah remained, and those with him in the tebah.
+And he wiped every standing thing which *was* on the face of the ground, from human to livestock to creeping thing to bird of the sky, and they were wiped from the land; and only Noah remained, and those with him in the {t:tebah}.
 
 > **📝 NOTES**
 >

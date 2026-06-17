@@ -61,15 +61,15 @@
 
 ---
 
-¹And on the third day a wedding took place in Qanah of the Galil (Galilee), and the mother of Yeshua (Jesus) was there. ²And Jesus also was invited, and his followers, to the wedding. ³And *when* wine ran short, the mother of Jesus says to him, "They have no wine." ⁴And Jesus says to her, "What to me and to you, woman? My hour has not yet come." ⁵His mother says to the servants, "Whatever he says to you, do *it*."
+¹And on the third day a wedding took place in Qanah of the Galil (Galilee), and the mother of Yeshua (Jesus) was there. ²And Jesus also was invited, and his followers, to the wedding. ³And *when* wine ran short, the mother of Jesus says to him, "They have no wine." ⁴And Jesus says to her, @@"What to me and to you, woman? My hour has not yet come."@@ ⁵His mother says to the servants, "Whatever he says to you, do *it*."
 
-⁶Now there were six stone water jars standing there, according to the purification *rites* of the Yehudim, each holding two or three measures. ⁷Jesus says to them, "Fill the jars with water." And they filled them to the top. ⁸And he says to them, "Draw out now and bring *it* to the chief steward." And they brought *it*. ⁹And when the chief steward tasted the water having become wine — and did not know from where it was, but the servants who had drawn the water knew — the chief steward calls the bridegroom ¹⁰and says to him, "Every man sets out the good wine first, and when *they* have become drunk, the lesser. You have kept the good wine until now."
+⁶Now there were six stone water jars standing there, according to the purification *rites* of the Yehudim, each holding two or three measures. ⁷Jesus says to them, @@"Fill the jars with water."@@ And they filled them to the top. ⁸And he says to them, @@"Draw out now and bring *it* to the chief steward."@@ And they brought *it*. ⁹And when the chief steward tasted the water having become wine — and did not know from where it was, but the servants who had drawn the water knew — the chief steward calls the bridegroom ¹⁰and says to him, "Every man sets out the good wine first, and when *they* have become drunk, the lesser. You have kept the good wine until now."
 
 ¹¹This beginning of the signs Jesus did in Qanah of the Galil (Galilee) and revealed his glory, and his followers trusted in him. ¹²After this he went down to Kfar Nachum (Capernaum) — he and his mother and his brothers and his followers — and they stayed there not many days.
 
-¹³And the Passover of the Yehudim was near, and Jesus went up to Yerushalayim (Jerusalem). ¹⁴And he found in the temple *complex* those selling cattle and sheep and doves, and the money-changers seated. ¹⁵And having made a whip out of cords, he drove *them* all out of the temple *complex*, both the sheep and the cattle, and he poured out the coins of the money-changers and overturned the tables. ¹⁶And to those selling the doves he said, "Take these *things* from here; do not make the house of my father a house of commerce." ¹⁷His followers remembered that it is written, "The zeal of your house will consume me."
+¹³And the Passover of the Yehudim was near, and Jesus went up to Yerushalayim (Jerusalem). ¹⁴And he found in the temple *complex* those selling cattle and sheep and doves, and the money-changers seated. ¹⁵And having made a whip out of cords, he drove *them* all out of the temple *complex*, both the sheep and the cattle, and he poured out the coins of the money-changers and overturned the tables. ¹⁶And to those selling the doves he said, @@"Take these *things* from here; do not make the house of my father a house of commerce."@@ ¹⁷His followers remembered that it is written, "The zeal of your house will consume me."
 
-¹⁸Then the Yehudim answered and said to him, "What sign do you show us, *seeing* that you do these things?" ¹⁹Jesus answered and said to them, "Destroy this sanctuary, and in three days I will raise it up." ²⁰Then the Yehudim said, "This sanctuary was built *over* forty-six years, and you will raise it up in three days?" ²¹But he was speaking about the sanctuary of his body. ²²When therefore he was raised from *the* dead, his followers remembered that he said this, and they trusted the scripture and the word that Jesus had spoken.
+¹⁸Then the Yehudim answered and said to him, "What sign do you show us, *seeing* that you do these things?" ¹⁹Jesus answered and said to them, @@"Destroy this sanctuary, and in three days I will raise it up."@@ ²⁰Then the Yehudim said, "This sanctuary was built *over* forty-six years, and you will raise it up in three days?" ²¹But he was speaking about the sanctuary of his body. ²²When therefore he was raised from *the* dead, his followers remembered that he said this, and they trusted the scripture and the word that Jesus had spoken.
 
 ²³And when he was in Jerusalem at the Passover, at the feast, many trusted in his name, seeing the signs that he was doing. ²⁴But Jesus himself was not entrusting himself to them, because he knew all *people*, ²⁵and because he had no need that anyone should testify concerning the human being — for he himself knew what was in the human being.
 
@@ -121,7 +121,7 @@ And *when* wine ran short, the mother of Yeshua (Jesus) says to him, "They have 
 
 ### **Verse 4**
 
-And Yeshua (Jesus) says to her, "What to me and to you, woman? My hour has not yet come."
+And Yeshua (Jesus) says to her, @@"What to me and to you, woman? My hour has not yet come."@@
 
 > **📝 NOTES**
 >
@@ -169,7 +169,7 @@ Now there were six stone water jars standing there, according to the purificatio
 
 ### **Verse 7**
 
-Yeshua (Jesus) says to them, "Fill the jars with water." And they filled them to the top.
+Yeshua (Jesus) says to them, @@"Fill the jars with water."@@ And they filled them to the top.
 
 > **📝 NOTES**
 >
@@ -180,7 +180,7 @@ Yeshua (Jesus) says to them, "Fill the jars with water." And they filled them to
 
 ### **Verse 8**
 
-And he says to them, "Draw out now and bring *it* to the chief steward." And they brought *it*.
+And he says to them, @@"Draw out now and bring *it* to the chief steward."@@ And they brought *it*.
 
 > **📝 NOTES**
 >
@@ -301,7 +301,7 @@ And having made a whip out of cords, he drove *them* all out of the temple *comp
 
 ### **Verse 16**
 
-And to those selling the doves he said, "Take these *things* from here; do not make the house of my father a house of commerce."
+And to those selling the doves he said, @@"Take these *things* from here; do not make the house of my father a house of commerce."@@
 
 > **📝 NOTES**
 >
@@ -343,7 +343,7 @@ Then the Yehudim answered and said to him, "What sign do you show us, *seeing* t
 
 ### **Verse 19**
 
-Yeshua (Jesus) answered and said to them, "Destroy this sanctuary, and in three days I will raise it up."
+Yeshua (Jesus) answered and said to them, @@"Destroy this sanctuary, and in three days I will raise it up."@@
 
 > **📝 NOTES**
 >

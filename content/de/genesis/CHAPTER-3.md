@@ -63,21 +63,21 @@
 
 ---
 
-¹Und die Schlange war listiger als jedes Lebewesen des Feldes, das JHWH Elohim gemacht hatte. Und sie sprach zur Frau: „Hat Gott wirklich gesagt: 'Ihr sollt nicht essen von jedem Baum des Gartens'?" ²Und die Frau sprach zur Schlange: „Von der Frucht der Bäume des Gartens dürfen wir essen, ³aber von der Frucht des Baumes, der *ist* in der Mitte des Gartens, hat Gott gesagt: 'Ihr sollt nicht davon essen, und ihr sollt ihn nicht berühren, damit ihr nicht sterbt.'" ⁴Und die Schlange sprach zur Frau: „Nicht sterbend werdet ihr sterben. ⁵Denn Gott weiß, dass am Tag eures Essens davon eure Augen aufgetan werden, und ihr werdet sein wie Gott/Götter, erkennend Gutes und Böses."
+¹Und die Schlange war listiger als jedes Lebewesen des Feldes, das JHWH Elohim gemacht hatte. Und sie sprach zur Frau: „Hat Gott wirklich gesagt: 'Ihr sollt nicht essen von jedem Baum des Gartens'?" ²Und die Frau sprach zur Schlange: „Von der Frucht der Bäume des Gartens dürfen wir essen, ³aber von der Frucht des Baumes, der *ist* in der Mitte des Gartens, hat Gott gesagt: 'Ihr sollt nicht davon essen, und ihr sollt ihn nicht berühren, damit ihr nicht sterbt.'" ⁴Und die Schlange sprach zur Frau: „Nicht sterbend werdet ihr sterben. ⁵Denn Gott weiß, dass am Tag eures Essens davon eure Augen aufgetan werden, und ihr werdet sein wie {a:Gott/Götter}, erkennend Gutes und Böses."
 
 ⁶Und die Frau sah, dass der Baum *war* gut zur Speise, und dass *er war* eine Lust für die Augen, und dass der Baum *war* begehrenswert, klug zu machen; und sie nahm von seiner Frucht und aß, und sie gab auch ihrem Mann mit ihr, und er aß. ⁷Und die Augen der beiden wurden aufgetan, und sie erkannten, dass sie nackt *waren*; und sie nähten Feigenblätter und machten sich Gürtel.
 
-⁸Und sie hörten die Stimme von JHWH Elohim, einhergehend im Garten beim Wind des Tages, und der Mensch und seine Frau verbargen sich vor dem Angesicht von JHWH Elohim inmitten des Baumes des Gartens. ⁹Und JHWH Elohim rief dem Menschen zu und sprach zu ihm: „Wo *bist* du?" ¹⁰Und er sprach: „Deine Stimme hörte ich im Garten, und ich fürchtete mich, denn ich *bin* nackt, und ich verbarg mich." ¹¹Und er sprach: „Wer hat dir gesagt, dass du nackt *bist*? Hast du vom Baum, von dem ich dir geboten hatte, nicht davon zu essen, gegessen?" ¹²Und der Mensch sprach: „Die Frau, die du mir gegeben hast, *dass sie* mit mir *sei*, sie gab mir vom Baum, und ich aß." ¹³Und JHWH Elohim sprach zur Frau: „Was *ist* dies, das du getan hast?" Und die Frau sprach: „Die Schlange täuschte mich, und ich aß."
+⁸Und sie hörten die Stimme von JHWH Elohim, einhergehend im Garten beim Wind des Tages, und der Mensch und seine Frau verbargen sich vor dem Angesicht von JHWH Elohim inmitten des Baumes des Gartens. ⁹Und JHWH Elohim rief dem Menschen zu und sprach zu ihm: @@„Wo *bist* du?"@@ ¹⁰Und er sprach: „Deine Stimme hörte ich im Garten, und ich fürchtete mich, denn ich *bin* nackt, und ich verbarg mich." ¹¹Und er sprach: @@„Wer hat dir gesagt, dass du nackt *bist*? Hast du vom Baum, von dem ich dir geboten hatte, nicht davon zu essen, gegessen?"@@ ¹²Und der Mensch sprach: „Die Frau, die du mir gegeben hast, *dass sie* mit mir *sei*, sie gab mir vom Baum, und ich aß." ¹³Und JHWH Elohim sprach zur Frau: @@„Was *ist* dies, das du getan hast?"@@ Und die Frau sprach: „Die Schlange täuschte mich, und ich aß."
 
-¹⁴Und JHWH Elohim sprach zur Schlange: „Weil du dies getan hast, verflucht *bist* du unter allem Vieh und unter jedem Lebewesen des Feldes; auf deinem Bauch sollst du gehen, und Staub sollst du essen alle Tage deines Lebens. ¹⁵Und Feindschaft werde ich setzen zwischen dich und zwischen die Frau, und zwischen deinen Samen und zwischen ihren Samen; er wird dich verletzen/schlagen *am* Kopf, und du wirst ihn verletzen/schlagen *an der* Ferse."
+¹⁴Und JHWH Elohim sprach zur Schlange: @@„Weil du dies getan hast, verflucht *bist* du unter allem Vieh und unter jedem Lebewesen des Feldes; auf deinem Bauch sollst du gehen, und Staub sollst du essen alle Tage deines Lebens. ¹⁵Und Feindschaft werde ich setzen zwischen dich und zwischen die Frau, und zwischen deinen Samen und zwischen ihren Samen; er wird dich {a:verletzen/schlagen} *am* Kopf, und du wirst ihn {a:verletzen/schlagen} *an der* Ferse."@@
 
-¹⁶Zur Frau sprach er: „Mehrend werde ich mehren deine Mühsal und deine Schwangerschaft; in Mühsal wirst du Söhne gebären. Und zu deinem Mann *wird sein* dein Verlangen/deine Hinwendung, und er wird über dich herrschen."
+¹⁶Zur Frau sprach er: @@„Mehrend werde ich mehren deine Mühsal und deine Schwangerschaft; in Mühsal wirst du Söhne gebären. Und zu deinem Mann *wird sein* dein {a:Verlangen/deine Hinwendung}, und er wird über dich herrschen."@@
 
-¹⁷Und zum Menschen sprach er: „Weil du auf die Stimme deiner Frau gehört hast und vom Baum gegessen hast, von dem ich dir geboten hatte, sprechend: 'Du sollst nicht davon essen,' verflucht *ist* der Boden um deinetwillen; in Mühsal wirst du *davon* essen alle Tage deines Lebens. ¹⁸Und Dorn und Distel wird er dir hervorbringen, und du wirst das Kraut des Feldes essen. ¹⁹Im Schweiße deines Angesichts wirst du Brot essen, bis du zum Boden zurückkehrst, denn von ihm wurdest du genommen; denn Staub *bist* du, und zum Staub wirst du zurückkehren."
+¹⁷Und zum Menschen sprach er: @@„Weil du auf die Stimme deiner Frau gehört hast und vom Baum gegessen hast, von dem ich dir geboten hatte, sprechend: 'Du sollst nicht davon essen,' verflucht *ist* der Boden um deinetwillen; in Mühsal wirst du *davon* essen alle Tage deines Lebens. ¹⁸Und Dorn und Distel wird er dir hervorbringen, und du wirst das Kraut des Feldes essen. ¹⁹Im Schweiße deines Angesichts wirst du Brot essen, bis du zum Boden zurückkehrst, denn von ihm wurdest du genommen; denn Staub *bist* du, und zum Staub wirst du zurückkehren."@@
 
 ²⁰Und der Mensch nannte den Namen seiner Frau Chava (Eva), denn sie war Mutter alles Lebendigen. ²¹Und JHWH Elohim machte dem Menschen und seiner Frau Gewänder aus Fell, und er kleidete sie.
 
-²²Und JHWH Elohim sprach: „Siehe, der Mensch ist geworden wie einer von uns, Gutes und Böses zu erkennen; und nun, damit er nicht seine Hand ausstrecke und auch vom Baum des Lebens nehme und esse und lebe in Ewigkeit…" ²³Und JHWH Elohim schickte ihn hinaus aus dem Garten Eden, den Boden zu bearbeiten, von dem er genommen worden war. ²⁴Und er vertrieb den Menschen; und er ließ östlich vom Garten Eden wohnen die Cherubim und die Flamme des sich wendenden Schwertes, um den Weg des Baumes des Lebens zu bewachen.
+²²Und JHWH Elohim sprach: @@„Siehe, der Mensch ist geworden wie einer von uns, Gutes und Böses zu erkennen; und nun, damit er nicht seine Hand ausstrecke und auch vom Baum des Lebens nehme und esse und lebe in Ewigkeit…"@@ ²³Und JHWH Elohim schickte ihn hinaus aus dem Garten Eden, den Boden zu bearbeiten, von dem er genommen worden war. ²⁴Und er vertrieb den Menschen; und er ließ östlich vom Garten Eden wohnen die Cherubim und die Flamme des sich wendenden Schwertes, um den Weg des Baumes des Lebens zu bewachen.
 
 ---
 
@@ -147,7 +147,7 @@ Und die Schlange sprach zur Frau: „Nicht sterbend werdet ihr sterben.
 
 ### **Vers 5**
 
-Denn Gott weiß, dass am Tag eures Essens davon eure Augen aufgetan werden, und ihr werdet sein wie Gott/Götter, erkennend Gutes und Böses."
+Denn Gott weiß, dass am Tag eures Essens davon eure Augen aufgetan werden, und ihr werdet sein wie {a:Gott/Götter}, erkennend Gutes und Böses."
 
 > **📝 NOTIZEN**
 >
@@ -206,7 +206,7 @@ Und sie hörten die Stimme von JHWH Elohim, einhergehend im Garten beim Wind des
 
 ### **Vers 9**
 
-Und JHWH Elohim rief dem Menschen zu und sprach zu ihm: „Wo *bist* du?"
+Und JHWH Elohim rief dem Menschen zu und sprach zu ihm: @@„Wo *bist* du?"@@
 
 > **📝 NOTIZEN**
 >
@@ -228,7 +228,7 @@ Und er sprach: „Deine Stimme hörte ich im Garten, und ich fürchtete mich, de
 
 ### **Vers 11**
 
-Und er sprach: „Wer hat dir gesagt, dass du nackt *bist*? Hast du vom Baum, von dem ich dir geboten hatte, nicht davon zu essen, gegessen?"
+Und er sprach: @@„Wer hat dir gesagt, dass du nackt *bist*? Hast du vom Baum, von dem ich dir geboten hatte, nicht davon zu essen, gegessen?"@@
 
 > **📝 NOTIZEN**
 >
@@ -250,7 +250,7 @@ Und der Mensch sprach: „Die Frau, die du mir gegeben hast, *dass sie* mit mir 
 
 ### **Vers 13**
 
-Und JHWH Elohim sprach zur Frau: „Was *ist* dies, das du getan hast?" Und die Frau sprach: „Die Schlange täuschte mich, und ich aß."
+Und JHWH Elohim sprach zur Frau: @@„Was *ist* dies, das du getan hast?"@@ Und die Frau sprach: „Die Schlange täuschte mich, und ich aß."
 
 > **📝 NOTIZEN**
 >
@@ -261,7 +261,7 @@ Und JHWH Elohim sprach zur Frau: „Was *ist* dies, das du getan hast?" Und die 
 
 ### **Vers 14**
 
-Und JHWH Elohim sprach zur Schlange: „Weil du dies getan hast, verflucht *bist* du unter allem Vieh und unter jedem Lebewesen des Feldes; auf deinem Bauch sollst du gehen, und Staub sollst du essen alle Tage deines Lebens.
+Und JHWH Elohim sprach zur Schlange: @@„Weil du dies getan hast, verflucht *bist* du unter allem Vieh und unter jedem Lebewesen des Feldes; auf deinem Bauch sollst du gehen, und Staub sollst du essen alle Tage deines Lebens.@@
 
 > **📝 NOTIZEN**
 >
@@ -276,7 +276,7 @@ Und JHWH Elohim sprach zur Schlange: „Weil du dies getan hast, verflucht *bist
 
 ### **Vers 15**
 
-Und Feindschaft werde ich setzen zwischen dich und zwischen die Frau, und zwischen deinen Samen und zwischen ihren Samen; er wird dich verletzen/schlagen *am* Kopf, und du wirst ihn verletzen/schlagen *an der* Ferse."
+@@Und Feindschaft werde ich setzen zwischen dich und zwischen die Frau, und zwischen deinen Samen und zwischen ihren Samen; er wird dich {a:verletzen/schlagen} *am* Kopf, und du wirst ihn {a:verletzen/schlagen} *an der* Ferse."@@
 
 > **📝 NOTIZEN**
 >
@@ -297,7 +297,7 @@ Und Feindschaft werde ich setzen zwischen dich und zwischen die Frau, und zwisch
 
 ### **Vers 16**
 
-Zur Frau sprach er: „Mehrend werde ich mehren deine Mühsal und deine Schwangerschaft; in Mühsal wirst du Söhne gebären. Und zu deinem Mann *wird sein* dein Verlangen/deine Hinwendung, und er wird über dich herrschen."
+Zur Frau sprach er: @@„Mehrend werde ich mehren deine Mühsal und deine Schwangerschaft; in Mühsal wirst du Söhne gebären. Und zu deinem Mann *wird sein* dein {a:Verlangen/deine Hinwendung}, und er wird über dich herrschen."@@
 
 > **📝 NOTIZEN**
 >
@@ -317,7 +317,7 @@ Zur Frau sprach er: „Mehrend werde ich mehren deine Mühsal und deine Schwange
 
 ### **Vers 17**
 
-Und zum Menschen sprach er: „Weil du auf die Stimme deiner Frau gehört hast und vom Baum gegessen hast, von dem ich dir geboten hatte, sprechend: 'Du sollst nicht davon essen,' verflucht *ist* der Boden um deinetwillen; in Mühsal wirst du *davon* essen alle Tage deines Lebens.
+Und zum Menschen sprach er: @@„Weil du auf die Stimme deiner Frau gehört hast und vom Baum gegessen hast, von dem ich dir geboten hatte, sprechend: 'Du sollst nicht davon essen,' verflucht *ist* der Boden um deinetwillen; in Mühsal wirst du *davon* essen alle Tage deines Lebens.@@
 
 > **📝 NOTIZEN**
 >
@@ -331,7 +331,7 @@ Und zum Menschen sprach er: „Weil du auf die Stimme deiner Frau gehört hast u
 
 ### **Vers 18**
 
-Und Dorn und Distel wird er dir hervorbringen, und du wirst das Kraut des Feldes essen.
+@@Und Dorn und Distel wird er dir hervorbringen, und du wirst das Kraut des Feldes essen.@@
 
 > **📝 NOTIZEN**
 >
@@ -342,7 +342,7 @@ Und Dorn und Distel wird er dir hervorbringen, und du wirst das Kraut des Feldes
 
 ### **Vers 19**
 
-Im Schweiße deines Angesichts wirst du Brot essen, bis du zum Boden zurückkehrst, denn von ihm wurdest du genommen; denn Staub *bist* du, und zum Staub wirst du zurückkehren."
+@@Im Schweiße deines Angesichts wirst du Brot essen, bis du zum Boden zurückkehrst, denn von ihm wurdest du genommen; denn Staub *bist* du, und zum Staub wirst du zurückkehren."@@
 
 > **📝 NOTIZEN**
 >
@@ -380,7 +380,7 @@ Und JHWH Elohim machte dem Menschen und seiner Frau Gewänder aus Fell, und er k
 
 ### **Vers 22**
 
-Und JHWH Elohim sprach: „Siehe, der Mensch ist geworden wie einer von uns, Gutes und Böses zu erkennen; und nun, damit er nicht seine Hand ausstrecke und auch vom Baum des Lebens nehme und esse und lebe in Ewigkeit…"
+Und JHWH Elohim sprach: @@„Siehe, der Mensch ist geworden wie einer von uns, Gutes und Böses zu erkennen; und nun, damit er nicht seine Hand ausstrecke und auch vom Baum des Lebens nehme und esse und lebe in Ewigkeit…"@@
 
 > **📝 NOTIZEN**
 >

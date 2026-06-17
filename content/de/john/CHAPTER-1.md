@@ -65,21 +65,21 @@
 
 ⁶Es kam ein Mensch ins Dasein, gesandt von Gott — sein Name *war* Yochanan (Johannes). ⁷Dieser kam zum Zeugnis, damit er über das Licht Zeugnis ablege, damit alle durch ihn vertrauen. ⁸Er war nicht das Licht, sondern *kam*, damit er über das Licht Zeugnis ablege. ⁹Das wahre Licht, das jeden Menschen erleuchtet, kam in die Welt. ¹⁰Er war in der Welt, und die Welt kam durch ihn ins Dasein, und die Welt erkannte ihn nicht. ¹¹Er kam in das Seine, und die Seinen nahmen ihn nicht auf. ¹²Aber so viele ihn aufnahmen, denen gab er das Recht, Kinder Gottes zu werden — denen, die auf seinen Namen vertrauen, ¹³die nicht aus Bluten geboren wurden, noch aus dem Willen des Fleisches, noch aus dem Willen eines Mannes, sondern aus Gott.
 
-¹⁴Und das Wort wurde Fleisch und wohnte unter uns, und wir sahen seine Herrlichkeit — Herrlichkeit wie eines Einziggeborenen von einem Vater — voll Gnade/Gunst und Wahrheit. ¹⁵Johannes legt Zeugnis ab über ihn und hat ausgerufen und gesagt: „Dieser war es, von dem ich sagte: ‚Der nach mir Kommende ist vor mir geworden, denn er war eher als ich.'" ¹⁶Denn aus seiner Fülle haben wir alle empfangen, und *zwar* Gnade/Gunst um Gnade/Gunst. ¹⁷Denn das Gesetz wurde durch Mosheh (Mose) gegeben; die Gnade/Gunst und die Wahrheit kamen durch Yeshua (Jesus), den Gesalbten, ins Dasein. ¹⁸Gott hat niemand je gesehen; der einzig-geborene Gott, der im Schoß des Vaters ist — der hat *ihn* kundgetan.
+¹⁴Und das Wort wurde Fleisch und wohnte unter uns, und wir sahen seine Herrlichkeit — Herrlichkeit wie eines Einziggeborenen von einem Vater — voll {a:Gnade/Gunst} und Wahrheit. ¹⁵Johannes legt Zeugnis ab über ihn und hat ausgerufen und gesagt: „Dieser war es, von dem ich sagte: ‚Der nach mir Kommende ist vor mir geworden, denn er war eher als ich.'" ¹⁶Denn aus seiner Fülle haben wir alle empfangen, und *zwar* {a:Gnade/Gunst} um {a:Gnade/Gunst}. ¹⁷Denn das Gesetz wurde durch Mosheh (Mose) gegeben; die {a:Gnade/Gunst} und die Wahrheit kamen durch Yeshua (Jesus), den Gesalbten, ins Dasein. ¹⁸Gott hat niemand je gesehen; der einzig-geborene Gott, der im Schoß des Vaters ist — der hat *ihn* kundgetan.
 
 ¹⁹Und dies ist das Zeugnis Johannes', als die Yehudim Priester und Leviten aus Yerushalayim (Jerusalem) sandten, um ihn zu fragen: „Wer bist du?" ²⁰Und er bekannte und leugnete nicht, und er bekannte: „Ich bin nicht der Gesalbte." ²¹Und sie fragten ihn: „Was dann? Bist du Eliyahu (Elia)?" Und er sagt: „Ich bin es nicht." „Bist du der Prophet?" Und er antwortete: „Nein." ²²Da sagten sie zu ihm: „Wer bist du? — damit wir denen Antwort geben können, die uns gesandt haben. Was sagst du über dich selbst?" ²³Er sagte: „Ich *bin* eine Stimme, die in der Wüste ruft: ‚Macht gerade den Weg des Herrn'" — wie der Prophet Yeshayahu (Jesaja) sagte.
 
 ²⁴Und die Gesandten waren von den Pharisäer. ²⁵Und sie fragten ihn und sagten zu ihm: „Warum tauchst du dann unter, wenn du nicht der Gesalbte bist, noch Elia, noch der Prophet?" ²⁶Johannes antwortete ihnen und sagte: „Ich tauche in Wasser unter; in eurer Mitte steht einer, den ihr nicht kennt — ²⁷der nach mir Kommende, dem die Riemen seiner Sandale zu lösen ich nicht würdig bin." ²⁸Dies geschah in Beyt-Anyah (Bethanien) jenseits des Yarden (Jordan), wo Johannes untertauchte.
 
-²⁹Am nächsten Tag sieht er Jesus auf sich zukommen und sagt: „Siehe, das Lamm Gottes, das die Sünde der Welt hinwegnimmt. ³⁰Dieser ist es, über den ich sagte: ‚Nach mir kommt ein Mann, der vor mir geworden ist, denn er war eher als ich.' ³¹Und ich kannte ihn nicht, aber damit er Yisrael offenbart werde — deswegen kam ich, in Wasser unterzutauchen." ³²Und Johannes bezeugte und sagte: „Ich habe den Wind/Geist herabsteigen sehen wie eine Taube aus dem Himmel, und er blieb auf ihm. ³³Und ich kannte ihn nicht, aber der mich sandte, in Wasser unterzutauchen, der sagte zu mir: ‚Auf wen du den Wind/Geist herabsteigen und auf ihm bleiben siehst — dieser ist es, der im heiligen Wind/Geist untertaucht.' ³⁴Und ich habe gesehen, und ich habe bezeugt, dass dieser der Sohn Gottes ist."
+²⁹Am nächsten Tag sieht er Jesus auf sich zukommen und sagt: „Siehe, das Lamm Gottes, das die Sünde der Welt hinwegnimmt. ³⁰Dieser ist es, über den ich sagte: ‚Nach mir kommt ein Mann, der vor mir geworden ist, denn er war eher als ich.' ³¹Und ich kannte ihn nicht, aber damit er Yisrael offenbart werde — deswegen kam ich, in Wasser unterzutauchen." ³²Und Johannes bezeugte und sagte: „Ich habe den {a:Wind/Geist} herabsteigen sehen wie eine Taube aus dem Himmel, und er blieb auf ihm. ³³Und ich kannte ihn nicht, aber der mich sandte, in Wasser unterzutauchen, der sagte zu mir: ‚Auf wen du den {a:Wind/Geist} herabsteigen und auf ihm bleiben siehst — dieser ist es, der im heiligen {a:Wind/Geist} untertaucht.' ³⁴Und ich habe gesehen, und ich habe bezeugt, dass dieser der Sohn Gottes ist."
 
-³⁵Am nächsten Tag stand Johannes wieder *da*, und *zwei* seiner Nachfolger, ³⁶und er blickte auf Jesus, der vorüberging, und sagt: „Siehe, das Lamm Gottes." ³⁷Und die zwei Nachfolger hörten ihn reden und folgten Jesus. ³⁸Und Jesus wandte sich um, und als er sie folgen sah, sagt er zu ihnen: „Was sucht ihr?" Und sie sagten zu ihm: „Rabbi" — was, übersetzt, Lehrer bedeutet — „wo wohnst du?" ³⁹Er sagt zu ihnen: „Kommt und seht." Sie kamen und sahen, wo er wohnte, und blieben bei ihm jenen Tag; *es war* um die zehnte Stunde.
+³⁵Am nächsten Tag stand Johannes wieder *da*, und *zwei* seiner Nachfolger, ³⁶und er blickte auf Jesus, der vorüberging, und sagt: „Siehe, das Lamm Gottes." ³⁷Und die zwei Nachfolger hörten ihn reden und folgten Jesus. ³⁸Und Jesus wandte sich um, und als er sie folgen sah, sagt er zu ihnen: @@„Was sucht ihr?"@@ Und sie sagten zu ihm: „Rabbi" — was, übersetzt, Lehrer bedeutet — „wo wohnst du?" ³⁹Er sagt zu ihnen: @@„Kommt und seht."@@ Sie kamen und sahen, wo er wohnte, und blieben bei ihm jenen Tag; *es war* um die zehnte Stunde.
 
-⁴⁰Andreas, der Bruder Shimon (Simon) Petrus', war einer der zwei, die von Johannes gehört hatten und ihm gefolgt waren. ⁴¹Dieser findet zuerst seinen eigenen Bruder Simon und sagt zu ihm: „Wir haben den Messias gefunden" — was, übersetzt, *der* Gesalbte *heißt*. ⁴²Er brachte ihn zu Jesus. Jesus blickte ihn an *und* sagte: „Du bist Simon, der Sohn Johannes'; du wirst Kefa (Petrus) genannt werden" — was übersetzt „Fels" *bedeutet*.
+⁴⁰Andreas, der Bruder Shimon (Simon) Petrus', war einer der zwei, die von Johannes gehört hatten und ihm gefolgt waren. ⁴¹Dieser findet zuerst seinen eigenen Bruder Simon und sagt zu ihm: „Wir haben den Messias gefunden" — was, übersetzt, *der* Gesalbte *heißt*. ⁴²Er brachte ihn zu Jesus. Jesus blickte ihn an *und* sagte: @@„Du bist Simon, der Sohn Johannes'; du wirst Kefa (Petrus) genannt werden"@@ — was übersetzt „Fels" *bedeutet*.
 
-⁴³Am nächsten Tag wollte er in den Galil (Galiläa) aufbrechen, und er findet Philippos (Philippus). Und Jesus sagt zu ihm: „Folge mir." ⁴⁴Und Philippus war aus Beyt-Tsaidah, aus der Stadt des Andreas und des Petrus. ⁴⁵Philippus findet Nathanael und sagt zu ihm: „Den, über den Mose im Gesetz geschrieben hat, und die Propheten — den haben wir gefunden: Jesus, Sohn des Yosef (Josef), aus Natseret (Nazareth)." ⁴⁶Und Nathanael sagte zu ihm: „Kann aus Nazareth etwas Gutes kommen?" Philippus sagt zu ihm: „Komm und sieh."
+⁴³Am nächsten Tag wollte er in den Galil (Galiläa) aufbrechen, und er findet Philippos (Philippus). Und Jesus sagt zu ihm: @@„Folge mir."@@ ⁴⁴Und Philippus war aus Beyt-Tsaidah, aus der Stadt des Andreas und des Petrus. ⁴⁵Philippus findet Nathanael und sagt zu ihm: „Den, über den Mose im Gesetz geschrieben hat, und die Propheten — den haben wir gefunden: Jesus, Sohn des Yosef (Josef), aus Natseret (Nazareth)." ⁴⁶Und Nathanael sagte zu ihm: „Kann aus Nazareth etwas Gutes kommen?" Philippus sagt zu ihm: „Komm und sieh."
 
-⁴⁷Jesus sah Nathanael auf sich zukommen und sagt über ihn: „Siehe, wahrhaftig ein Yisraeli, in dem kein Trug ist." ⁴⁸Nathanael sagt zu ihm: „Woher kennst du mich?" Jesus antwortete und sagte zu ihm: „Bevor Philippus dich rief, *als du* unter dem Feigenbaum *warst*, sah ich dich." ⁴⁹Nathanael antwortete ihm: „Rabbi, du bist der Sohn Gottes; du bist der König Yisraels." ⁵⁰Jesus antwortete und sagte zu ihm: „Weil ich dir sagte, dass ich dich unter dem Feigenbaum sah, vertraust du? Du wirst Größeres sehen als dies." ⁵¹Und er sagt zu ihm: „Amen, amen, ich sage euch: Ihr werdet den Himmel geöffnet sehen und die Boten Gottes aufsteigen und herabsteigen über dem Menschensohn."
+⁴⁷Jesus sah Nathanael auf sich zukommen und sagt über ihn: @@„Siehe, wahrhaftig ein Yisraeli, in dem kein Trug ist."@@ ⁴⁸Nathanael sagt zu ihm: „Woher kennst du mich?" Jesus antwortete und sagte zu ihm: @@„Bevor Philippus dich rief, *als du* unter dem Feigenbaum *warst*, sah ich dich."@@ ⁴⁹Nathanael antwortete ihm: „Rabbi, du bist der Sohn Gottes; du bist der König Yisraels." ⁵⁰Jesus antwortete und sagte zu ihm: @@„Weil ich dir sagte, dass ich dich unter dem Feigenbaum sah, vertraust du? Du wirst Größeres sehen als dies."@@ ⁵¹Und er sagt zu ihm: @@„Amen, amen, ich sage euch: Ihr werdet den Himmel geöffnet sehen und die Boten Gottes aufsteigen und herabsteigen über dem Menschensohn."@@
 
 ---
 
@@ -269,7 +269,7 @@ die nicht aus Bluten geboren wurden, noch aus dem Willen des Fleisches, noch aus
 
 ### **Vers 14**
 
-Und das Wort wurde Fleisch und wohnte unter uns, und wir sahen seine Herrlichkeit — Herrlichkeit wie eines Einziggeborenen von einem Vater — voll Gnade/Gunst und Wahrheit.
+Und das Wort wurde Fleisch und wohnte unter uns, und wir sahen seine Herrlichkeit — Herrlichkeit wie eines Einziggeborenen von einem Vater — voll {a:Gnade/Gunst} und Wahrheit.
 
 > **📝 NOTIZEN**
 >
@@ -303,7 +303,7 @@ Johannes legt Zeugnis ab über ihn und hat ausgerufen und gesagt: „Dieser war 
 
 ### **Vers 16**
 
-Denn aus seiner Fülle haben wir alle empfangen, und *zwar* Gnade/Gunst um Gnade/Gunst.
+Denn aus seiner Fülle haben wir alle empfangen, und *zwar* {a:Gnade/Gunst} um {a:Gnade/Gunst}.
 
 > **📝 NOTIZEN**
 >
@@ -314,7 +314,7 @@ Denn aus seiner Fülle haben wir alle empfangen, und *zwar* Gnade/Gunst um Gnade
 
 ### **Vers 17**
 
-Denn das Gesetz wurde durch Mosheh (Mose) gegeben; die Gnade/Gunst und die Wahrheit kamen durch Yeshua (Jesus), den Gesalbten, ins Dasein.
+Denn das Gesetz wurde durch Mosheh (Mose) gegeben; die {a:Gnade/Gunst} und die Wahrheit kamen durch Yeshua (Jesus), den Gesalbten, ins Dasein.
 
 > **📝 NOTIZEN**
 >
@@ -506,7 +506,7 @@ Und ich kannte ihn nicht, aber damit er Yisrael offenbart werde — deswegen kam
 
 ### **Vers 32**
 
-Und Johannes bezeugte und sagte: „Ich habe den Wind/Geist herabsteigen sehen wie eine Taube aus dem Himmel, und er blieb auf ihm.
+Und Johannes bezeugte und sagte: „Ich habe den {a:Wind/Geist} herabsteigen sehen wie eine Taube aus dem Himmel, und er blieb auf ihm.
 
 > **📝 NOTIZEN**
 >
@@ -523,7 +523,7 @@ Und Johannes bezeugte und sagte: „Ich habe den Wind/Geist herabsteigen sehen w
 
 ### **Vers 33**
 
-Und ich kannte ihn nicht, aber der mich sandte, in Wasser unterzutauchen, der sagte zu mir: ‚Auf wen du den Wind/Geist herabsteigen und auf ihm bleiben siehst — dieser ist es, der im heiligen Wind/Geist untertaucht.'
+Und ich kannte ihn nicht, aber der mich sandte, in Wasser unterzutauchen, der sagte zu mir: ‚Auf wen du den {a:Wind/Geist} herabsteigen und auf ihm bleiben siehst — dieser ist es, der im heiligen {a:Wind/Geist} untertaucht.'
 
 > **📝 NOTIZEN**
 >
@@ -573,7 +573,7 @@ Und die zwei Nachfolger hörten ihn reden und folgten Jesus.
 
 ### **Vers 38**
 
-Und Jesus wandte sich um, und als er sie folgen sah, sagt er zu ihnen: „Was sucht ihr?" Und sie sagten zu ihm: „Rabbi" — was, übersetzt, Lehrer bedeutet — „wo wohnst du?"
+Und Jesus wandte sich um, und als er sie folgen sah, sagt er zu ihnen: @@„Was sucht ihr?"@@ Und sie sagten zu ihm: „Rabbi" — was, übersetzt, Lehrer bedeutet — „wo wohnst du?"
 
 > **📝 NOTIZEN**
 >
@@ -587,7 +587,7 @@ Und Jesus wandte sich um, und als er sie folgen sah, sagt er zu ihnen: „Was su
 
 ### **Vers 39**
 
-Er sagt zu ihnen: „Kommt und seht." Sie kamen und sahen, wo er wohnte, und blieben bei ihm jenen Tag; *es war* um die zehnte Stunde.
+Er sagt zu ihnen: @@„Kommt und seht."@@ Sie kamen und sahen, wo er wohnte, und blieben bei ihm jenen Tag; *es war* um die zehnte Stunde.
 
 > **📝 NOTIZEN**
 >
@@ -620,7 +620,7 @@ Dieser findet zuerst seinen eigenen Bruder Simon und sagt zu ihm: „Wir haben d
 
 ### **Vers 42**
 
-Er brachte ihn zu Jesus. Jesus blickte ihn an *und* sagte: „Du bist Simon, der Sohn Johannes'; du wirst Kefa (Petrus) genannt werden" — was übersetzt „Fels" *bedeutet*.
+Er brachte ihn zu Jesus. Jesus blickte ihn an *und* sagte: @@„Du bist Simon, der Sohn Johannes'; du wirst Kefa (Petrus) genannt werden"@@ — was übersetzt „Fels" *bedeutet*.
 
 > **📝 NOTIZEN**
 >
@@ -634,7 +634,7 @@ Er brachte ihn zu Jesus. Jesus blickte ihn an *und* sagte: „Du bist Simon, der
 
 ### **Vers 43**
 
-Am nächsten Tag wollte er in den Galil (Galiläa) aufbrechen, und er findet Philippos (Philippus). Und Jesus sagt zu ihm: „Folge mir."
+Am nächsten Tag wollte er in den Galil (Galiläa) aufbrechen, und er findet Philippos (Philippus). Und Jesus sagt zu ihm: @@„Folge mir."@@
 
 > **📝 NOTIZEN**
 >
@@ -681,7 +681,7 @@ Und Nathanael sagte zu ihm: „Kann aus Nazareth etwas Gutes kommen?" Philippus 
 
 ### **Vers 47**
 
-Jesus sah Nathanael auf sich zukommen und sagt über ihn: „Siehe, wahrhaftig ein Yisraeli, in dem kein Trug ist."
+Jesus sah Nathanael auf sich zukommen und sagt über ihn: @@„Siehe, wahrhaftig ein Yisraeli, in dem kein Trug ist."@@
 
 > **📝 NOTIZEN**
 >
@@ -692,7 +692,7 @@ Jesus sah Nathanael auf sich zukommen und sagt über ihn: „Siehe, wahrhaftig e
 
 ### **Vers 48**
 
-Nathanael sagt zu ihm: „Woher kennst du mich?" Jesus antwortete und sagte zu ihm: „Bevor Philippus dich rief, *als du* unter dem Feigenbaum *warst*, sah ich dich."
+Nathanael sagt zu ihm: „Woher kennst du mich?" Jesus antwortete und sagte zu ihm: @@„Bevor Philippus dich rief, *als du* unter dem Feigenbaum *warst*, sah ich dich."@@
 
 > **📝 NOTIZEN**
 >
@@ -714,7 +714,7 @@ Nathanael antwortete ihm: „Rabbi, du bist der Sohn Gottes; du bist der König 
 
 ### **Vers 50**
 
-Jesus antwortete und sagte zu ihm: „Weil ich dir sagte, dass ich dich unter dem Feigenbaum sah, vertraust du? Du wirst Größeres sehen als dies."
+Jesus antwortete und sagte zu ihm: @@„Weil ich dir sagte, dass ich dich unter dem Feigenbaum sah, vertraust du? Du wirst Größeres sehen als dies."@@
 
 > **📝 NOTIZEN**
 >
@@ -725,7 +725,7 @@ Jesus antwortete und sagte zu ihm: „Weil ich dir sagte, dass ich dich unter de
 
 ### **Vers 51**
 
-Und er sagt zu ihm: „Amen, amen, ich sage euch: Ihr werdet den Himmel geöffnet sehen und die Boten Gottes aufsteigen und herabsteigen über dem Menschensohn."
+Und er sagt zu ihm: @@„Amen, amen, ich sage euch: Ihr werdet den Himmel geöffnet sehen und die Boten Gottes aufsteigen und herabsteigen über dem Menschensohn."@@
 
 > **📝 NOTIZEN**
 >

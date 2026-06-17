@@ -51,7 +51,12 @@ export function ContextView({ data }: { data: EnrichmentData }) {
       />
 
       {displaySections.map((section, si) => (
-        <details key={section.id} className="tt-details" open={si === 0}>
+        <details
+          key={section.id}
+          name="deeper-acc"
+          className="tt-details"
+          open={si === 0}
+        >
           <summary>
             <span>{section.title}</span>
             <span className="chev" aria-hidden="true">

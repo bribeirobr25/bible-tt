@@ -502,8 +502,16 @@ html.tt-js .reveal.in {
 .tt-pager .pl { font-family: var(--font-mono); font-size: 10.5px; letter-spacing: 0.08em; text-transform: uppercase; color: var(--color-text-muted); }
 .tt-pager .right { text-align: right; margin-left: auto; align-items: flex-end; }
 
-/* in-reading transliteration term */
-.reading-text .term { color: var(--color-accent); font-style: italic; }
+/* in-reading rule-related words, highlighted so the reader sees them clearly:
+   transliterations (teal) and grammatical additions / Rule-11 italics (ochre). */
+/* TT text-highlight markers: {t:…}→.term (Rule 4), {a:…}→.ambig (Rule 2),
+   @@…@@→.divine (Rule 30); *added*→em (Rule 11). Coherent token hierarchy:
+   teal = kept source term · ochre = two meanings · red = divine speech ·
+   grammatical-blue italic = words added for target grammar. */
+.term { color: var(--color-accent); font-weight: 600; }
+.ambig { font-weight: 600; }
+.divine { color: var(--color-note-critical); }
+.reading-text em { color: var(--color-note-grammatical); font-style: italic; }
 
 /* collapsible disclosure (overview, supplementary, sources) */
 .tt-details { border: 1px solid var(--color-border); border-radius: 10px; background: var(--color-bg-surface); margin-bottom: 14px; overflow: hidden; }
@@ -519,7 +527,7 @@ html.tt-js .reveal.in {
 .tt-verse .vhead { display: flex; align-items: baseline; gap: 14px; margin-bottom: 12px; }
 .tt-verse .vnum { font-family: var(--font-mono); font-weight: 600; font-size: 14px; color: var(--color-petrol); flex: none; }
 .tt-verse .vtext { font-family: var(--font-reading); font-size: clamp(1.12rem, 1.4vw, 1.28rem); line-height: 1.75; color: var(--color-text-primary); }
-.tt-verse .vtext em { font-style: italic; color: var(--color-text-secondary); }
+.tt-verse .vtext em { font-style: italic; color: var(--color-note-grammatical); }
 .tt-verse .copy { margin-left: auto; font-family: var(--font-mono); font-size: 11px; color: var(--color-text-muted); border: 1px solid var(--color-border); border-radius: 6px; padding: 4px 8px; cursor: pointer; background: none; flex: none; transition: color 0.2s, border-color 0.2s; }
 .tt-verse .copy:hover { color: var(--color-accent); border-color: var(--color-accent); }
 .tt-notes { margin-top: 14px; display: grid; gap: 10px; }
@@ -543,7 +551,6 @@ html.tt-js .reveal.in {
 .tt-subtabs button[aria-selected="true"] { color: var(--color-accent); border-color: var(--color-accent); }
 .tt-subtabs button:hover,
 .tt-subtabs .tablink:hover { color: var(--color-accent); }
-.tt-subtabs .tablink { margin-left: auto; }
 
 /* deeper / intro / background — data-driven render blocks (prototype parity) */
 .tt-deeper-section { max-width: 48rem; margin: 0 auto; }
@@ -584,7 +591,7 @@ a.tt-ch:hover .cl { color: var(--color-petrol); }
 .tt-entry .arr { color: var(--color-accent); }
 
 /* people — person profile disclosure (prototype .person) */
-.tt-person { border-top: 1px solid var(--color-border); padding: 26px 0; }
+.tt-person { background: var(--color-bg-surface); border: 1px solid var(--color-border); border-radius: 12px; padding: 18px clamp(16px, 2.4vw, 24px); margin-bottom: 12px; }
 .tt-person > summary { display: flex; flex-wrap: wrap; align-items: baseline; gap: 12px 16px; cursor: pointer; list-style: none; }
 .tt-person > summary::-webkit-details-marker { display: none; }
 .tt-person .pname { font-family: var(--font-reading); font-size: clamp(1.3rem, 2.4vw, 1.8rem); color: var(--color-text-primary); }
@@ -596,6 +603,20 @@ a.tt-ch:hover .cl { color: var(--color-petrol); }
 .tt-person .field.wide { grid-column: 1 / -1; }
 .tt-person .field .fl { font-family: var(--font-mono); font-size: 10.5px; letter-spacing: 0.08em; text-transform: uppercase; color: var(--color-accent); display: block; margin-bottom: 2px; }
 .tt-person .field .fv { color: var(--color-text-secondary); }
+
+/* Genealogy summary tables (People page) — prototype .gen-table / .gtable. */
+.tt-gen-table { overflow-x: auto; border: 1px solid var(--color-border); border-radius: 12px; background: var(--color-bg-surface); padding: 18px 18px 4px; margin-bottom: 20px; }
+.tt-gen-table h3 { font-family: var(--font-reading); font-size: 1.3rem; margin-bottom: 4px; color: var(--color-text-primary); }
+.tt-gen-table .cap { font-family: var(--font-mono); font-size: 11px; color: var(--color-text-muted); margin-bottom: 12px; }
+.tt-gen-table .note { font-size: 13px; color: var(--color-text-secondary); line-height: 1.6; margin-top: 6px; }
+.tt-gtable { width: 100%; border-collapse: collapse; font-size: 14px; }
+.tt-gtable th { text-align: left; font-family: var(--font-mono); font-size: 10.5px; letter-spacing: 0.1em; text-transform: uppercase; color: var(--color-text-muted); padding: 10px 12px; border-bottom: 1px solid var(--color-border); white-space: nowrap; }
+.tt-gtable td { padding: 12px; border-bottom: 1px solid var(--color-border-muted); vertical-align: top; color: var(--color-text-secondary); }
+
+/* "Sources consulted" rendered-markdown block (People page). */
+.tt-sources p { margin-bottom: 10px; line-height: 1.7; }
+.tt-sources ul { margin: 0 0 10px 1.1em; line-height: 1.8; list-style: disc; }
+.tt-sources blockquote { border-left: 2px solid var(--color-border); padding-left: 14px; color: var(--color-text-muted); font-size: 13px; line-height: 1.7; }
 
 /* over the dark hero the mark square goes white, but the ochre slash stays so
    the logo reads as the same icon everywhere (prototype parity). */

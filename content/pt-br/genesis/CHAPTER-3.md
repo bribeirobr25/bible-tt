@@ -62,21 +62,21 @@
 
 ---
 
-¹E a serpente era mais astuta que todo animal do campo que YHWH Elohim havia feito. E disse à mulher: "De fato, disse Deus: 'Não comereis de toda árvore do jardim'?" ²E a mulher disse à serpente: "Do fruto das árvores do jardim podemos comer, ³mas do fruto da árvore que *está* no meio do jardim, Deus disse: 'Não comereis dele, e não o tocareis, para que não morrais.'" ⁴E a serpente disse à mulher: "Não morrendo morrereis. ⁵Porque Deus sabe que no dia em que dele comerdes, vossos olhos serão abertos, e sereis como Deus/deuses, conhecendo o bem e o mal."
+¹E a serpente era mais astuta que todo animal do campo que YHWH Elohim havia feito. E disse à mulher: "De fato, disse Deus: 'Não comereis de toda árvore do jardim'?" ²E a mulher disse à serpente: "Do fruto das árvores do jardim podemos comer, ³mas do fruto da árvore que *está* no meio do jardim, Deus disse: 'Não comereis dele, e não o tocareis, para que não morrais.'" ⁴E a serpente disse à mulher: "Não morrendo morrereis. ⁵Porque Deus sabe que no dia em que dele comerdes, vossos olhos serão abertos, e sereis como {a:Deus/deuses}, conhecendo o bem e o mal."
 
 ⁶E a mulher viu que a árvore *era* boa para comida, e que *era* agradável aos olhos, e que a árvore *era* desejável para tornar sábio; e tomou de seu fruto e comeu, e deu também ao seu homem com ela, e ele comeu. ⁷E os olhos de ambos foram abertos, e souberam que *estavam* nus; e costuraram folhas de figueira e fizeram para si cintas.
 
-⁸E ouviram a voz de YHWH Elohim caminhando no jardim ao vento do dia, e o humano e sua mulher se esconderam da face de YHWH Elohim no meio da árvore do jardim. ⁹E YHWH Elohim chamou ao humano, e lhe disse: "Onde *estás*?" ¹⁰E ele disse: "A tua voz ouvi no jardim, e tive medo, porque *estou* nu, e me escondi." ¹¹E ele disse: "Quem te disse que *estás* nu? Da árvore que te ordenei não comeres dela, comeste?" ¹²E o humano disse: "A mulher que me deste *para estar* comigo, ela me deu da árvore, e comi." ¹³E YHWH Elohim disse à mulher: "Que *é* isto que fizeste?" E a mulher disse: "A serpente me enganou, e comi."
+⁸E ouviram a voz de YHWH Elohim caminhando no jardim ao vento do dia, e o humano e sua mulher se esconderam da face de YHWH Elohim no meio da árvore do jardim. ⁹E YHWH Elohim chamou ao humano, e lhe disse: @@"Onde *estás*?"@@ ¹⁰E ele disse: "A tua voz ouvi no jardim, e tive medo, porque *estou* nu, e me escondi." ¹¹E ele disse: @@"Quem te disse que *estás* nu? Da árvore que te ordenei não comeres dela, comeste?"@@ ¹²E o humano disse: "A mulher que me deste *para estar* comigo, ela me deu da árvore, e comi." ¹³E YHWH Elohim disse à mulher: @@"Que *é* isto que fizeste?"@@ E a mulher disse: "A serpente me enganou, e comi."
 
-¹⁴E YHWH Elohim disse à serpente: "Porque fizeste isto, maldita *és* tu dentre todo gado e dentre todo animal do campo; sobre o teu ventre irás, e pó comerás todos os dias da tua vida. ¹⁵E inimizade porei entre ti e entre a mulher, e entre a tua semente e entre a semente dela; ele te ferirá/golpeará *na* cabeça, e tu lhe ferirás/golpearás *no* calcanhar."
+¹⁴E YHWH Elohim disse à serpente: @@"Porque fizeste isto, maldita *és* tu dentre todo gado e dentre todo animal do campo; sobre o teu ventre irás, e pó comerás todos os dias da tua vida. ¹⁵E inimizade porei entre ti e entre a mulher, e entre a tua semente e entre a semente dela; ele te {a:ferirá/golpeará} *na* cabeça, e tu lhe {a:ferirás/golpearás} *no* calcanhar."@@
 
-¹⁶À mulher disse: "Multiplicando multiplicarei a tua fadiga e a tua gravidez; em fadiga darás à luz filhos. E para o teu homem *será* o teu desejo/inclinação, e ele dominará sobre ti."
+¹⁶À mulher disse: @@"Multiplicando multiplicarei a tua fadiga e a tua gravidez; em fadiga darás à luz filhos. E para o teu homem *será* o teu {a:desejo/inclinação}, e ele dominará sobre ti."@@
 
-¹⁷E ao humano disse: "Porque ouviste a voz de tua mulher, e comeste da árvore que te ordenei, dizendo: 'Não comerás dela,' maldita *é* a terra por causa de ti; em fadiga comerás *dela* todos os dias de tua vida. ¹⁸E espinho e cardo ela fará brotar para ti, e comerás a erva do campo. ¹⁹No suor do teu rosto comerás pão, até o teu retornar ao solo, porque dele foste tomado; porque pó *és*, e ao pó retornarás."
+¹⁷E ao humano disse: @@"Porque ouviste a voz de tua mulher, e comeste da árvore que te ordenei, dizendo: 'Não comerás dela,' maldita *é* a terra por causa de ti; em fadiga comerás *dela* todos os dias de tua vida. ¹⁸E espinho e cardo ela fará brotar para ti, e comerás a erva do campo. ¹⁹No suor do teu rosto comerás pão, até o teu retornar ao solo, porque dele foste tomado; porque pó *és*, e ao pó retornarás."@@
 
 ²⁰E o humano chamou o nome de sua mulher Chava (Eva), porque era mãe de todo vivente. ²¹E YHWH Elohim fez para o humano e para sua mulher vestes de pele, e os vestiu.
 
-²²E YHWH Elohim disse: "Eis que o humano tornou-se como um de nós, conhecendo o bem e o mal; e agora, para que não estenda a sua mão e tome também da árvore da vida, e coma, e viva para sempre…" ²³E YHWH Elohim o enviou para fora do jardim de Éden, para lavrar o solo de que havia sido tomado. ²⁴E expulsou o humano; e fez habitar ao oriente do jardim de Éden os querubins, e a chama da espada que se volta, para guardar o caminho da árvore da vida.
+²²E YHWH Elohim disse: @@"Eis que o humano tornou-se como um de nós, conhecendo o bem e o mal; e agora, para que não estenda a sua mão e tome também da árvore da vida, e coma, e viva para sempre…"@@ ²³E YHWH Elohim o enviou para fora do jardim de Éden, para lavrar o solo de que havia sido tomado. ²⁴E expulsou o humano; e fez habitar ao oriente do jardim de Éden os querubins, e a chama da espada que se volta, para guardar o caminho da árvore da vida.
 
 ---
 
@@ -146,7 +146,7 @@ E a serpente disse à mulher: "Não morrendo morrereis.
 
 ### **Versículo 5**
 
-Porque Deus sabe que no dia em que dele comerdes, vossos olhos serão abertos, e sereis como Deus/deuses, conhecendo o bem e o mal."
+Porque Deus sabe que no dia em que dele comerdes, vossos olhos serão abertos, e sereis como {a:Deus/deuses}, conhecendo o bem e o mal."
 
 > **📝 NOTAS**
 >
@@ -205,7 +205,7 @@ E ouviram a voz de YHWH Elohim caminhando no jardim ao vento do dia, e o humano 
 
 ### **Versículo 9**
 
-E YHWH Elohim chamou ao humano, e lhe disse: "Onde *estás*?"
+E YHWH Elohim chamou ao humano, e lhe disse: @@"Onde *estás*?"@@
 
 > **📝 NOTAS**
 >
@@ -227,7 +227,7 @@ E ele disse: "A tua voz ouvi no jardim, e tive medo, porque *estou* nu, e me esc
 
 ### **Versículo 11**
 
-E ele disse: "Quem te disse que *estás* nu? Da árvore que te ordenei não comeres dela, comeste?"
+E ele disse: @@"Quem te disse que *estás* nu? Da árvore que te ordenei não comeres dela, comeste?"@@
 
 > **📝 NOTAS**
 >
@@ -249,7 +249,7 @@ E o humano disse: "A mulher que me deste *para estar* comigo, ela me deu da árv
 
 ### **Versículo 13**
 
-E YHWH Elohim disse à mulher: "Que *é* isto que fizeste?" E a mulher disse: "A serpente me enganou, e comi."
+E YHWH Elohim disse à mulher: @@"Que *é* isto que fizeste?"@@ E a mulher disse: "A serpente me enganou, e comi."
 
 > **📝 NOTAS**
 >
@@ -260,7 +260,7 @@ E YHWH Elohim disse à mulher: "Que *é* isto que fizeste?" E a mulher disse: "A
 
 ### **Versículo 14**
 
-E YHWH Elohim disse à serpente: "Porque fizeste isto, maldita *és* tu dentre todo gado e dentre todo animal do campo; sobre o teu ventre irás, e pó comerás todos os dias da tua vida.
+E YHWH Elohim disse à serpente: @@"Porque fizeste isto, maldita *és* tu dentre todo gado e dentre todo animal do campo; sobre o teu ventre irás, e pó comerás todos os dias da tua vida.@@
 
 > **📝 NOTAS**
 >
@@ -275,7 +275,7 @@ E YHWH Elohim disse à serpente: "Porque fizeste isto, maldita *és* tu dentre t
 
 ### **Versículo 15**
 
-E inimizade porei entre ti e entre a mulher, e entre a tua semente e entre a semente dela; ele te ferirá/golpeará *na* cabeça, e tu lhe ferirás/golpearás *no* calcanhar."
+@@E inimizade porei entre ti e entre a mulher, e entre a tua semente e entre a semente dela; ele te {a:ferirá/golpeará} *na* cabeça, e tu lhe {a:ferirás/golpearás} *no* calcanhar."@@
 
 > **📝 NOTAS**
 >
@@ -296,7 +296,7 @@ E inimizade porei entre ti e entre a mulher, e entre a tua semente e entre a sem
 
 ### **Versículo 16**
 
-À mulher disse: "Multiplicando multiplicarei a tua fadiga e a tua gravidez; em fadiga darás à luz filhos. E para o teu homem *será* o teu desejo/inclinação, e ele dominará sobre ti."
+À mulher disse: @@"Multiplicando multiplicarei a tua fadiga e a tua gravidez; em fadiga darás à luz filhos. E para o teu homem *será* o teu {a:desejo/inclinação}, e ele dominará sobre ti."@@
 
 > **📝 NOTAS**
 >
@@ -318,7 +318,7 @@ E inimizade porei entre ti e entre a mulher, e entre a tua semente e entre a sem
 
 ### **Versículo 17**
 
-E ao humano disse: "Porque ouviste a voz de tua mulher, e comeste da árvore que te ordenei, dizendo: 'Não comerás dela,' maldita *é* a terra por causa de ti; em fadiga comerás *dela* todos os dias de tua vida.
+E ao humano disse: @@"Porque ouviste a voz de tua mulher, e comeste da árvore que te ordenei, dizendo: 'Não comerás dela,' maldita *é* a terra por causa de ti; em fadiga comerás *dela* todos os dias de tua vida.@@
 
 > **📝 NOTAS**
 >
@@ -332,7 +332,7 @@ E ao humano disse: "Porque ouviste a voz de tua mulher, e comeste da árvore que
 
 ### **Versículo 18**
 
-E espinho e cardo ela fará brotar para ti, e comerás a erva do campo.
+@@E espinho e cardo ela fará brotar para ti, e comerás a erva do campo.@@
 
 > **📝 NOTAS**
 >
@@ -343,7 +343,7 @@ E espinho e cardo ela fará brotar para ti, e comerás a erva do campo.
 
 ### **Versículo 19**
 
-No suor do teu rosto comerás pão, até o teu retornar ao solo, porque dele foste tomado; porque pó *és*, e ao pó retornarás."
+@@No suor do teu rosto comerás pão, até o teu retornar ao solo, porque dele foste tomado; porque pó *és*, e ao pó retornarás."@@
 
 > **📝 NOTAS**
 >
@@ -381,7 +381,7 @@ E YHWH Elohim fez para o humano e para sua mulher vestes de pele, e os vestiu.
 
 ### **Versículo 22**
 
-E YHWH Elohim disse: "Eis que o humano tornou-se como um de nós, conhecendo o bem e o mal; e agora, para que não estenda a sua mão e tome também da árvore da vida, e coma, e viva para sempre…"
+E YHWH Elohim disse: @@"Eis que o humano tornou-se como um de nós, conhecendo o bem e o mal; e agora, para que não estenda a sua mão e tome também da árvore da vida, e coma, e viva para sempre…"@@
 
 > **📝 NOTAS**
 >

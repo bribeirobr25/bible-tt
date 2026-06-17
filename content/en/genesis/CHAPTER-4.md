@@ -60,9 +60,9 @@
 
 ¹And the human knew Chava (Eve) his woman, and she conceived and bore Qayin (Cain), and she said, "I have acquired a man with YHWH." ²And she bore again, his brother Hevel (Abel). And Abel was *a* keeper of flock, and Cain was *a* worker of the ground.
 
-³And it was at the end of days, and Cain brought from the fruit of the ground an offering to YHWH. ⁴And Abel, he also brought from the firstborn of his flock and from their fat. And YHWH regarded Abel and his offering, ⁵but Cain and his offering he did not regard. And it burned to Cain greatly, and his face fell. ⁶And YHWH said to Cain, "Why *does it* burn to you, and why has your face fallen? ⁷If you do well, *is there* not lifting? And if you do not do well, at the door sin crouches, and toward you *is* its desire/turning, but you must rule over it."
+³And it was at the end of days, and Cain brought from the fruit of the ground an offering to YHWH. ⁴And Abel, he also brought from the firstborn of his flock and from their fat. And YHWH regarded Abel and his offering, ⁵but Cain and his offering he did not regard. And it burned to Cain greatly, and his face fell. ⁶And YHWH said to Cain, @@"Why *does it* burn to you, and why has your face fallen? ⁷If you do well, *is there* not lifting? And if you do not do well, at the door sin crouches, and toward you *is* its {a:desire/turning}, but you must rule over it."@@
 
-⁸And Cain said to Abel his brother… And it was when they were in the field, and Cain rose against Abel his brother and killed him. ⁹And YHWH said to Cain, "Where *is* Abel your brother?" And he said, "I do not know. *Am* I my brother's keeper?" ¹⁰And he said, "What have you done? The voice of the bloods of your brother *is* crying to me from the ground. ¹¹And now, cursed *are* you from the ground which opened its mouth to receive the bloods of your brother from your hand. ¹²When you work the ground, it shall not again give its strength to you. A wanderer and a fugitive you shall be on the land." ¹³And Cain said to YHWH, "My sin/punishment *is* too great to bear. ¹⁴See, you have driven me today from upon the face of the ground, and from your face I shall be hidden, and I shall be a wanderer and a fugitive on the land, and it shall be *that* anyone finding me shall kill me." ¹⁵And YHWH said to him, "Therefore anyone killing Cain, sevenfold it shall be avenged." And YHWH set for Cain a sign, so that anyone finding him would not strike him. ¹⁶And Cain went out from the face of YHWH, and dwelt in the land of Nod, east of Eden.
+⁸And Cain said to Abel his brother… And it was when they were in the field, and Cain rose against Abel his brother and killed him. ⁹And YHWH said to Cain, @@"Where *is* Abel your brother?"@@ And he said, "I do not know. *Am* I my brother's keeper?" ¹⁰And he said, @@"What have you done? The voice of the bloods of your brother *is* crying to me from the ground. ¹¹And now, cursed *are* you from the ground which opened its mouth to receive the bloods of your brother from your hand. ¹²When you work the ground, it shall not again give its strength to you. A wanderer and a fugitive you shall be on the land."@@ ¹³And Cain said to YHWH, "My {a:sin/punishment} *is* too great to bear. ¹⁴See, you have driven me today from upon the face of the ground, and from your face I shall be hidden, and I shall be a wanderer and a fugitive on the land, and it shall be *that* anyone finding me shall kill me." ¹⁵And YHWH said to him, @@"Therefore anyone killing Cain, sevenfold it shall be avenged."@@ And YHWH set for Cain a sign, so that anyone finding him would not strike him. ¹⁶And Cain went out from the face of YHWH, and dwelt in the land of Nod, east of Eden.
 
 ¹⁷And Cain knew his woman, and she conceived and bore Chanokh (Enoch). And he was building a city, and he called the name of the city according to the name of his son, Enoch. ¹⁸And to Enoch was born Irad, and Irad begot Mechuya'el, and Mechuya'el begot Metusha'el, and Metusha'el begot Lemekh (Lamech). ¹⁹And Lamech took for himself two women; the name of the one *was* Adah, and the name of the second *was* Tsillah. ²⁰And Adah bore Yaval; he was the father of those dwelling in tent and livestock. ²¹And the name of his brother *was* Yuval; he was the father of all grasping lyre and pipe. ²²And Tsillah, she also bore Tuval-Cain, *a* hammerer of every cutting-tool of bronze and iron. And the sister of Tuval-Cain *was* Na'amah.
 
@@ -140,13 +140,13 @@ but Qayin (Cain) and his offering he did not regard. And it burned to Cain great
 
 ### **Verse 6**
 
-And YHWH said to Qayin (Cain), "Why *does it* burn to you, and why has your face fallen?
+And YHWH said to Qayin (Cain), @@"Why *does it* burn to you, and why has your face fallen?@@
 
 ---
 
 ### **Verse 7**
 
-If you do well, *is there* not lifting? And if you do not do well, at the door sin crouches, and toward you *is* its desire/turning, but you must rule over it."
+@@If you do well, *is there* not lifting? And if you do not do well, at the door sin crouches, and toward you *is* its {a:desire/turning}, but you must rule over it."@@
 
 > **📝 NOTES**
 >
@@ -179,7 +179,7 @@ And Qayin (Cain) said to Hevel (Abel) his brother… And it was when they were i
 
 ### **Verse 9**
 
-And YHWH said to Qayin (Cain), "Where *is* Hevel (Abel) your brother?" And he said, "I do not know. *Am* I my brother's keeper?"
+And YHWH said to Qayin (Cain), @@"Where *is* Hevel (Abel) your brother?"@@ And he said, "I do not know. *Am* I my brother's keeper?"
 
 > **📝 NOTES**
 >
@@ -193,7 +193,7 @@ And YHWH said to Qayin (Cain), "Where *is* Hevel (Abel) your brother?" And he sa
 
 ### **Verse 10**
 
-And he said, "What have you done? The voice of the bloods of your brother *is* crying to me from the ground.
+And he said, @@"What have you done? The voice of the bloods of your brother *is* crying to me from the ground.@@
 
 > **📝 NOTES**
 >
@@ -207,7 +207,7 @@ And he said, "What have you done? The voice of the bloods of your brother *is* c
 
 ### **Verse 11**
 
-And now, cursed *are* you from the ground which opened its mouth to receive the bloods of your brother from your hand.
+@@And now, cursed *are* you from the ground which opened its mouth to receive the bloods of your brother from your hand.@@
 
 > **📝 NOTES**
 >
@@ -221,7 +221,7 @@ And now, cursed *are* you from the ground which opened its mouth to receive the 
 
 ### **Verse 12**
 
-When you work the ground, it shall not again give its strength to you. A wanderer and a fugitive you shall be on the land."
+@@When you work the ground, it shall not again give its strength to you. A wanderer and a fugitive you shall be on the land."@@
 
 > **📝 NOTES**
 >
@@ -232,7 +232,7 @@ When you work the ground, it shall not again give its strength to you. A wandere
 
 ### **Verse 13**
 
-And Qayin (Cain) said to YHWH, "My sin/punishment *is* too great to bear.
+And Qayin (Cain) said to YHWH, "My {a:sin/punishment} *is* too great to bear.
 
 > **📝 NOTES**
 >
@@ -254,7 +254,7 @@ See, you have driven me today from upon the face of the ground, and from your fa
 
 ### **Verse 15**
 
-And YHWH said to him, "Therefore anyone killing Qayin (Cain), sevenfold it shall be avenged." And YHWH set for Cain a sign, so that anyone finding him would not strike him.
+And YHWH said to him, @@"Therefore anyone killing Qayin (Cain), sevenfold it shall be avenged."@@ And YHWH set for Cain a sign, so that anyone finding him would not strike him.
 
 > **📝 NOTES**
 >

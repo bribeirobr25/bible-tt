@@ -7,6 +7,7 @@ import { Link } from "@/ui/navigation/locale-link";
 import { ReadingProgress } from "@/ui/reading/reading-progress";
 import { LegacyHashRedirect } from "@/ui/shared/legacy-hash-redirect";
 import { renderMarkdownSafe } from "@/ui/shared/render-markdown-safe";
+import { GlossaryPanel } from "@/ui/study/glossary-panel";
 
 const WRAP = "max-w-[1320px] mx-auto px-[clamp(18px,4vw,52px)]";
 
@@ -112,26 +113,46 @@ export async function ChapterShell({
           paddingBottom: "clamp(48px,8vh,90px)",
         }}
       >
-        {active === "read" && data.overview && (
-          <div className="max-w-[46rem] mx-auto mb-[34px]">
-            <details className="tt-details">
-              <summary>
-                <span>{t("nav.chapterOverview")}</span>
-                <span className="chev" aria-hidden="true">
-                  ›
-                </span>
-              </summary>
-              <div
-                className="body prose text-text-primary [&_strong]:font-semibold"
-                dangerouslySetInnerHTML={{
-                  __html: renderMarkdownSafe(data.overview, "note"),
-                }}
-              />
-            </details>
+        {active === "read" && (data.overview || data.glossary.length > 0) && (
+          <div className="max-w-[46rem] mx-auto mb-[34px] space-y-3">
+            {data.overview && (
+              <details className="tt-details" open>
+                <summary>
+                  <span>{t("nav.chapterOverview")}</span>
+                  <span className="chev" aria-hidden="true">
+                    ›
+                  </span>
+                </summary>
+                <div
+                  className="body prose text-text-primary [&_strong]:font-semibold"
+                  dangerouslySetInnerHTML={{
+                    __html: renderMarkdownSafe(data.overview, "note"),
+                  }}
+                />
+              </details>
+            )}
+            {data.glossary.length > 0 && (
+              <a
+                href="#glossary"
+                className="inline-flex items-center gap-1.5 font-[family-name:var(--font-mono)] text-xs uppercase tracking-[0.06em] text-accent hover:text-accent-hover transition-colors duration-150"
+              >
+                {t("glossary.title")} <span aria-hidden="true">↓</span>
+              </a>
+            )}
           </div>
         )}
 
         {children}
+
+        {active === "read" && data.glossary.length > 0 && (
+          <section
+            id="glossary"
+            className="max-w-[46rem] mx-auto mt-[60px] scroll-mt-24"
+          >
+            <p className="tt-kick">{t("glossary.title")}</p>
+            <GlossaryPanel entries={data.glossary} />
+          </section>
+        )}
 
         {pager ?? (
           <ChapterNav

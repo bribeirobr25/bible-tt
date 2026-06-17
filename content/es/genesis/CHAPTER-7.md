@@ -61,13 +61,13 @@
 
 ---
 
-¹Y YHWH dijo a Noé, "Ven, tú y toda tu casa, a la tebah, pues a ti he visto *como* justo ante mí en esta generación. ²De todo el ganado limpio tomarás para ti siete siete, macho y su hembra, y del ganado que no *es* limpio, dos, macho y su hembra. ³También del ave del cielo, siete siete, macho y hembra, para mantener viva simiente sobre la faz de toda la tierra. ⁴Pues en aún siete días yo *estoy* enviando lluvia sobre la tierra, cuarenta días y cuarenta noches, y borraré toda cosa existente que hice de sobre la faz del suelo." ⁵Y Noé hizo conforme a todo lo que YHWH le ordenó.
+¹Y YHWH dijo a Noé, @@"Ven, tú y toda tu casa, a la {t:tebah}, pues a ti he visto *como* justo ante mí en esta generación. ²De todo el ganado limpio tomarás para ti siete siete, macho y su hembra, y del ganado que no *es* limpio, dos, macho y su hembra. ³También del ave del cielo, siete siete, macho y hembra, para mantener viva simiente sobre la faz de toda la tierra. ⁴Pues en aún siete días yo *estoy* enviando lluvia sobre la tierra, cuarenta días y cuarenta noches, y borraré toda cosa existente que hice de sobre la faz del suelo."@@ ⁵Y Noé hizo conforme a todo lo que YHWH le ordenó.
 
-⁶Y Noé *tenía* seiscientos años, y el diluvio de aguas fue sobre la tierra. ⁷Y Noé fue, y sus hijos y su mujer y las mujeres de sus hijos con él, a la tebah, de la faz de las aguas del diluvio. ⁸Del ganado limpio y del ganado que no *es* limpio, y del ave, y *de* todo lo que se arrastra sobre el suelo, ⁹dos dos vinieron a Noé a la tebah, macho y hembra, como Dios ordenó a Noé. ¹⁰Y fue a los siete de los días, y las aguas del diluvio fueron sobre la tierra.
+⁶Y Noé *tenía* seiscientos años, y el diluvio de aguas fue sobre la tierra. ⁷Y Noé fue, y sus hijos y su mujer y las mujeres de sus hijos con él, a la {t:tebah}, de la faz de las aguas del diluvio. ⁸Del ganado limpio y del ganado que no *es* limpio, y del ave, y *de* todo lo que se arrastra sobre el suelo, ⁹dos dos vinieron a Noé a la {t:tebah}, macho y hembra, como Dios ordenó a Noé. ¹⁰Y fue a los siete de los días, y las aguas del diluvio fueron sobre la tierra.
 
-¹¹En el año seiscientos de la vida de Noé, en el segundo mes, en el día diecisiete del mes, en este día todas las fuentes del gran abismo se abrieron, y las ventanas del cielo fueron abiertas. ¹²Y la lluvia fue sobre la tierra cuarenta días y cuarenta noches. ¹³En este mismo día entró Noé, y Sem y Cam y Yafet (Jafet), los hijos de Noé, y la mujer de Noé y las tres mujeres de sus hijos con ellos, a la tebah — ¹⁴ellos, y todo ser vivo según su especie, y todo ganado según su especie, y todo lo que se arrastra que se arrastra sobre la tierra según su especie, y toda ave según su especie, todo ser alado. ¹⁵Y vinieron a Noé a la tebah, dos dos de toda la carne en la cual *hay* aliento de vida. ¹⁶Y los que venían, macho y hembra de toda carne vinieron, como Dios le ordenó; y YHWH cerró *la puerta* tras él.
+¹¹En el año seiscientos de la vida de Noé, en el segundo mes, en el día diecisiete del mes, en este día todas las fuentes del gran abismo se abrieron, y las ventanas del cielo fueron abiertas. ¹²Y la lluvia fue sobre la tierra cuarenta días y cuarenta noches. ¹³En este mismo día entró Noé, y Sem y Cam y Yafet (Jafet), los hijos de Noé, y la mujer de Noé y las tres mujeres de sus hijos con ellos, a la {t:tebah} — ¹⁴ellos, y todo ser vivo según su especie, y todo ganado según su especie, y todo lo que se arrastra que se arrastra sobre la tierra según su especie, y toda ave según su especie, todo ser alado. ¹⁵Y vinieron a Noé a la {t:tebah}, dos dos de toda la carne en la cual *hay* aliento de vida. ¹⁶Y los que venían, macho y hembra de toda carne vinieron, como Dios le ordenó; y YHWH cerró *la puerta* tras él.
 
-¹⁷Y el diluvio fue cuarenta días sobre la tierra, y las aguas crecieron y levantaron la tebah, y se elevó de sobre la tierra. ¹⁸Y las aguas prevalecieron y crecieron grandemente sobre la tierra, y la tebah iba sobre la faz de las aguas. ¹⁹Y las aguas prevalecieron muy muy sobre la tierra, y todos los montes altos que *estaban* bajo todo el cielo fueron cubiertos. ²⁰Quince codos hacia arriba prevalecieron las aguas, y los montes fueron cubiertos. ²¹Y pereció toda carne que se mueve sobre la tierra — el ave y el ganado y el ser vivo y todo lo que pulula que pulula sobre la tierra, y todo humano. ²²Todo lo que *tenía* aliento del viento/espíritu de vida en sus narices, de todo lo que *estaba* sobre lo seco, murió. ²³Y él borró toda cosa existente que *estaba* sobre la faz del suelo, desde el humano hasta el ganado hasta lo que se arrastra hasta el ave del cielo, y fueron borrados de la tierra; y solo Noé quedó, y los que *estaban* con él en la tebah. ²⁴Y las aguas prevalecieron sobre la tierra ciento cincuenta días.
+¹⁷Y el diluvio fue cuarenta días sobre la tierra, y las aguas crecieron y levantaron la {t:tebah}, y se elevó de sobre la tierra. ¹⁸Y las aguas prevalecieron y crecieron grandemente sobre la tierra, y la {t:tebah} iba sobre la faz de las aguas. ¹⁹Y las aguas prevalecieron muy muy sobre la tierra, y todos los montes altos que *estaban* bajo todo el cielo fueron cubiertos. ²⁰Quince codos hacia arriba prevalecieron las aguas, y los montes fueron cubiertos. ²¹Y pereció toda carne que se mueve sobre la tierra — el ave y el ganado y el ser vivo y todo lo que pulula que pulula sobre la tierra, y todo humano. ²²Todo lo que *tenía* aliento del {a:viento/espíritu} de vida en sus narices, de todo lo que *estaba* sobre lo seco, murió. ²³Y él borró toda cosa existente que *estaba* sobre la faz del suelo, desde el humano hasta el ganado hasta lo que se arrastra hasta el ave del cielo, y fueron borrados de la tierra; y solo Noé quedó, y los que *estaban* con él en la {t:tebah}. ²⁴Y las aguas prevalecieron sobre la tierra ciento cincuenta días.
 
 ---
 
@@ -75,7 +75,7 @@
 
 ### **Versículo 1**
 
-Y YHWH dijo a Noé, "Ven, tú y toda tu casa, a la tebah, pues a ti he visto *como* justo ante mí en esta generación.
+Y YHWH dijo a Noé, @@"Ven, tú y toda tu casa, a la {t:tebah}, pues a ti he visto *como* justo ante mí en esta generación.@@
 
 > **📝 NOTAS**
 >
@@ -89,7 +89,7 @@ Y YHWH dijo a Noé, "Ven, tú y toda tu casa, a la tebah, pues a ti he visto *co
 
 ### **Versículo 2**
 
-De todo el ganado limpio tomarás para ti siete siete, macho y su hembra, y del ganado que no *es* limpio, dos, macho y su hembra.
+@@De todo el ganado limpio tomarás para ti siete siete, macho y su hembra, y del ganado que no *es* limpio, dos, macho y su hembra.@@
 
 > **📝 NOTAS**
 >
@@ -104,7 +104,7 @@ De todo el ganado limpio tomarás para ti siete siete, macho y su hembra, y del 
 
 ### **Versículo 3**
 
-También del ave del cielo, siete siete, macho y hembra, para mantener viva simiente sobre la faz de toda la tierra.
+@@También del ave del cielo, siete siete, macho y hembra, para mantener viva simiente sobre la faz de toda la tierra.@@
 
 > **📝 NOTAS**
 >
@@ -115,7 +115,7 @@ También del ave del cielo, siete siete, macho y hembra, para mantener viva simi
 
 ### **Versículo 4**
 
-Pues en aún siete días yo *estoy* enviando lluvia sobre la tierra, cuarenta días y cuarenta noches, y borraré toda cosa existente que hice de sobre la faz del suelo."
+@@Pues en aún siete días yo *estoy* enviando lluvia sobre la tierra, cuarenta días y cuarenta noches, y borraré toda cosa existente que hice de sobre la faz del suelo."@@
 
 > **📝 NOTAS**
 >
@@ -151,7 +151,7 @@ Y Noé *tenía* seiscientos años, y el diluvio de aguas fue sobre la tierra.
 
 ### **Versículo 7**
 
-Y Noé fue, y sus hijos y su mujer y las mujeres de sus hijos con él, a la tebah, de la faz de las aguas del diluvio.
+Y Noé fue, y sus hijos y su mujer y las mujeres de sus hijos con él, a la {t:tebah}, de la faz de las aguas del diluvio.
 
 ---
 
@@ -163,7 +163,7 @@ Del ganado limpio y del ganado que no *es* limpio, y del ave, y *de* todo lo que
 
 ### **Versículo 9**
 
-dos dos vinieron a Noé a la tebah, macho y hembra, como Dios ordenó a Noé.
+dos dos vinieron a Noé a la {t:tebah}, macho y hembra, como Dios ordenó a Noé.
 
 > **📝 NOTAS**
 >
@@ -205,7 +205,7 @@ Y la lluvia fue sobre la tierra cuarenta días y cuarenta noches.
 
 ### **Versículo 13**
 
-En este mismo día entró Noé, y Sem y Cam y Jafet, los hijos de Noé, y la mujer de Noé y las tres mujeres de sus hijos con ellos, a la tebah —
+En este mismo día entró Noé, y Sem y Cam y Jafet, los hijos de Noé, y la mujer de Noé y las tres mujeres de sus hijos con ellos, a la {t:tebah} —
 
 > **📝 NOTAS**
 >
@@ -227,7 +227,7 @@ ellos, y todo ser vivo según su especie, y todo ganado según su especie, y tod
 
 ### **Versículo 15**
 
-Y vinieron a Noé a la tebah, dos dos de toda la carne en la cual *hay* aliento de vida.
+Y vinieron a Noé a la {t:tebah}, dos dos de toda la carne en la cual *hay* aliento de vida.
 
 ---
 
@@ -247,7 +247,7 @@ Y los que venían, macho y hembra de toda carne vinieron, como Dios le ordenó; 
 
 ### **Versículo 17**
 
-Y el diluvio fue cuarenta días sobre la tierra, y las aguas crecieron y levantaron la tebah, y se elevó de sobre la tierra.
+Y el diluvio fue cuarenta días sobre la tierra, y las aguas crecieron y levantaron la {t:tebah}, y se elevó de sobre la tierra.
 
 > **📝 NOTAS**
 >
@@ -258,7 +258,7 @@ Y el diluvio fue cuarenta días sobre la tierra, y las aguas crecieron y levanta
 
 ### **Versículo 18**
 
-Y las aguas prevalecieron y crecieron grandemente sobre la tierra, y la tebah iba sobre la faz de las aguas.
+Y las aguas prevalecieron y crecieron grandemente sobre la tierra, y la {t:tebah} iba sobre la faz de las aguas.
 
 ---
 
@@ -292,7 +292,7 @@ Y pereció toda carne que se mueve sobre la tierra — el ave y el ganado y el s
 
 ### **Versículo 22**
 
-Todo lo que *tenía* aliento del viento/espíritu de vida en sus narices, de todo lo que *estaba* sobre lo seco, murió.
+Todo lo que *tenía* aliento del {a:viento/espíritu} de vida en sus narices, de todo lo que *estaba* sobre lo seco, murió.
 
 > **📝 NOTAS**
 >
@@ -307,7 +307,7 @@ Todo lo que *tenía* aliento del viento/espíritu de vida en sus narices, de tod
 
 ### **Versículo 23**
 
-Y él borró toda cosa existente que *estaba* sobre la faz del suelo, desde el humano hasta el ganado hasta lo que se arrastra hasta el ave del cielo, y fueron borrados de la tierra; y solo Noé quedó, y los que *estaban* con él en la tebah.
+Y él borró toda cosa existente que *estaba* sobre la faz del suelo, desde el humano hasta el ganado hasta lo que se arrastra hasta el ave del cielo, y fueron borrados de la tierra; y solo Noé quedó, y los que *estaban* con él en la {t:tebah}.
 
 > **📝 NOTAS**
 >

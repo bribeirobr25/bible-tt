@@ -62,7 +62,7 @@
 
 ¹Und das ganze Land war *von* einer Lippe und einem *Satz von* Worten. ²Und es geschah, als sie von Osten aufbrachen, fanden sie eine Ebene im Land Shinar, und sie ließen sich dort nieder. ³Und sie sprachen, einer zu seinem Nächsten: „Kommt, lasst uns Ziegel machen und *sie* gründlich brennen." Und der Ziegel war ihnen für Stein, und das Erdpech war ihnen für Mörtel. ⁴Und sie sprachen: „Kommt, lasst uns für uns eine Stadt bauen und einen Turm, und seine Spitze in den Himmeln, und lasst uns für uns einen Namen machen, damit wir nicht zerstreut werden über die Fläche des ganzen Landes."
 
-⁵Und JHWH kam herab, um die Stadt und den Turm zu sehen, den die Söhne des Menschen gebaut hatten. ⁶Und JHWH sprach: „Siehe, *sie sind* ein Volk und eine Lippe ihnen allen, und dies *ist, was* sie zu tun beginnen; und nun wird ihnen nichts verwehrt werden, alles, was sie zu tun planen. ⁷Kommt, lasst uns hinabsteigen und lasst uns dort ihre Lippe verwirren, sodass sie nicht hören, einer die Lippe seines Nächsten." ⁸Und JHWH zerstreute sie von dort über die Fläche des ganzen Landes, und sie hörten auf, die Stadt zu bauen. ⁹Darum wurde ihr Name Bavel genannt, denn dort verwirrte JHWH die Lippe des ganzen Landes, und von dort zerstreute JHWH sie über die Fläche des ganzen Landes.
+⁵Und JHWH kam herab, um die Stadt und den Turm zu sehen, den die Söhne des Menschen gebaut hatten. ⁶Und JHWH sprach: @@„Siehe, *sie sind* ein Volk und eine Lippe ihnen allen, und dies *ist, was* sie zu tun beginnen; und nun wird ihnen nichts verwehrt werden, alles, was sie zu tun planen. ⁷Kommt, lasst uns hinabsteigen und lasst uns dort ihre Lippe verwirren, sodass sie nicht hören, einer die Lippe seines Nächsten."@@ ⁸Und JHWH zerstreute sie von dort über die Fläche des ganzen Landes, und sie hörten auf, die Stadt zu bauen. ⁹Darum wurde ihr Name Bavel genannt, denn dort verwirrte JHWH die Lippe des ganzen Landes, und von dort zerstreute JHWH sie über die Fläche des ganzen Landes.
 
 ¹⁰Dies *sind* die Geschlechterfolgen Shems. Shem war hundert Jahre alt, und er zeugte Arpakhshad, zwei Jahre nach der Flut. ¹¹Und Shem lebte, nachdem er Arpakhshad gezeugt hatte, fünfhundert Jahre, und er zeugte Söhne und Töchter.
 
@@ -175,7 +175,7 @@ Und JHWH kam herab, um die Stadt und den Turm zu sehen, den die Söhne des Mensc
 
 ### **Vers 6**
 
-Und JHWH sprach: „Siehe, *sie sind* ein Volk und eine Lippe ihnen allen, und dies *ist, was* sie zu tun beginnen; und nun wird ihnen nichts verwehrt werden, alles, was sie zu tun planen.
+Und JHWH sprach: @@„Siehe, *sie sind* ein Volk und eine Lippe ihnen allen, und dies *ist, was* sie zu tun beginnen; und nun wird ihnen nichts verwehrt werden, alles, was sie zu tun planen.@@
 
 > **📝 NOTIZEN**
 >
@@ -189,7 +189,7 @@ Und JHWH sprach: „Siehe, *sie sind* ein Volk und eine Lippe ihnen allen, und d
 
 ### **Vers 7**
 
-Kommt, lasst uns hinabsteigen und lasst uns dort ihre Lippe verwirren, sodass sie nicht hören, einer die Lippe seines Nächsten."
+@@Kommt, lasst uns hinabsteigen und lasst uns dort ihre Lippe verwirren, sodass sie nicht hören, einer die Lippe seines Nächsten."@@
 
 > **📝 NOTIZEN**
 >

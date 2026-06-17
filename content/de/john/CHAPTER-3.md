@@ -61,17 +61,17 @@
 
 ---
 
-¹Und es war ein Mensch von den Pharisäer — Nikodemos (Nikodemus) *war* sein Name — ein Herrscher der Jehudim. ²Dieser kam zu ihm bei Nacht und sagte zu ihm: „Rabbi, wir wissen, dass du von Gott *als* Lehrer gekommen bist, denn niemand ist imstande, diese Zeichen zu tun, die du tust, wenn Gott nicht mit ihm ist." ³Yeshua (Jesus) antwortete und sagte zu ihm: „Amen, amen, ich sage dir, wenn jemand nicht von oben/von neuem geboren wird, ist er nicht imstande, das Königreich Gottes zu sehen." ⁴Nikodemus sagt zu ihm: „Wie ist ein Mensch imstande, geboren zu werden, wenn er alt ist? Er ist nicht imstande, ein zweites Mal in den Mutterleib einzutreten und geboren zu werden, *oder*?" ⁵Jesus antwortete: „Amen, amen, ich sage dir, wenn jemand nicht aus Wasser und Wind/Geist geboren wird, ist er nicht imstande, in das Königreich Gottes einzutreten. ⁶Was aus dem Fleisch geboren ist, ist Fleisch, und was aus dem Wind/Geist geboren ist, ist Wind/Geist. ⁷Wundere dich nicht, dass ich dir gesagt habe: ‚Ihr müsst von oben/von neuem geboren werden.' ⁸Der Wind/Geist weht, wo er will, und du hörst seinen Klang, aber du weißt nicht, woher er kommt und wohin er geht; so ist jeder, der aus dem Wind/Geist geboren ist."
+¹Und es war ein Mensch von den Pharisäer — Nikodemos (Nikodemus) *war* sein Name — ein Herrscher der Jehudim. ²Dieser kam zu ihm bei Nacht und sagte zu ihm: „Rabbi, wir wissen, dass du von Gott *als* Lehrer gekommen bist, denn niemand ist imstande, diese Zeichen zu tun, die du tust, wenn Gott nicht mit ihm ist." ³Yeshua (Jesus) antwortete und sagte zu ihm: @@„Amen, amen, ich sage dir, wenn jemand nicht {a:von oben/von neuem} geboren wird, ist er nicht imstande, das Königreich Gottes zu sehen."@@ ⁴Nikodemus sagt zu ihm: „Wie ist ein Mensch imstande, geboren zu werden, wenn er alt ist? Er ist nicht imstande, ein zweites Mal in den Mutterleib einzutreten und geboren zu werden, *oder*?" ⁵Jesus antwortete: @@„Amen, amen, ich sage dir, wenn jemand nicht aus Wasser und {a:Wind/Geist} geboren wird, ist er nicht imstande, in das Königreich Gottes einzutreten. ⁶Was aus dem Fleisch geboren ist, ist Fleisch, und was aus dem {a:Wind/Geist} geboren ist, ist {a:Wind/Geist}. ⁷Wundere dich nicht, dass ich dir gesagt habe: ‚Ihr müsst {a:von oben/von neuem} geboren werden.' ⁸Der {a:Wind/Geist} weht, wo er will, und du hörst seinen Klang, aber du weißt nicht, woher er kommt und wohin er geht; so ist jeder, der aus dem {a:Wind/Geist} geboren ist."@@
 
-⁹Nikodemus antwortete und sagte zu ihm: „Wie können diese Dinge geschehen?" ¹⁰Jesus antwortete und sagte zu ihm: „Du bist der Lehrer Yisraels und weißt diese Dinge nicht? ¹¹Amen, amen, ich sage dir, wir reden, was wir wissen, und wir bezeugen, was wir gesehen haben, und ihr nehmt unser Zeugnis nicht an. ¹²Wenn ich euch irdische Dinge gesagt habe und ihr nicht vertraut, wie werdet ihr vertrauen, wenn ich euch himmlische Dinge sage? ¹³Und niemand ist in den Himmel hinaufgestiegen außer dem, der aus dem Himmel herabgestiegen ist — der Menschensohn. ¹⁴Und wie Mosheh (Mose) die Schlange in der Wüste erhöhte, so muss der Menschensohn erhöht werden, ¹⁵damit jeder, der auf ihn vertraut, Leben des Zeitalters habe."
+⁹Nikodemus antwortete und sagte zu ihm: „Wie können diese Dinge geschehen?" ¹⁰Jesus antwortete und sagte zu ihm: @@„Du bist der Lehrer Yisraels und weißt diese Dinge nicht? ¹¹Amen, amen, ich sage dir, wir reden, was wir wissen, und wir bezeugen, was wir gesehen haben, und ihr nehmt unser Zeugnis nicht an. ¹²Wenn ich euch irdische Dinge gesagt habe und ihr nicht vertraut, wie werdet ihr vertrauen, wenn ich euch himmlische Dinge sage? ¹³Und niemand ist in den Himmel hinaufgestiegen außer dem, der aus dem Himmel herabgestiegen ist — der Menschensohn. ¹⁴Und wie Mosheh (Mose) die Schlange in der Wüste erhöhte, so muss der Menschensohn erhöht werden, ¹⁵damit jeder, der auf ihn vertraut, Leben des Zeitalters habe."@@
 
-¹⁶„Denn Gott hat die Welt so geliebt, dass er den einziggeborenen Sohn gab, damit jeder, der auf ihn vertraut, nicht verloren gehe, sondern Leben des Zeitalters habe. ¹⁷Denn Gott hat den Sohn nicht in die Welt gesandt, damit er die Welt richte, sondern damit die Welt durch ihn gerettet werde. ¹⁸Wer auf ihn vertraut, wird nicht gerichtet; wer nicht vertraut, ist schon gerichtet, weil er nicht auf den Namen des einziggeborenen Sohnes Gottes vertraut hat. ¹⁹Und dies ist das Gericht: dass das Licht in die Welt gekommen ist und die Menschen die Finsternis mehr liebten als das Licht, denn ihre Werke waren böse. ²⁰Denn jeder, der Wertloses tut, hasst das Licht und kommt nicht zum Licht, damit seine Werke nicht aufgedeckt werden. ²¹Wer aber die Wahrheit tut, kommt zum Licht, damit seine Werke offenbar werden — dass sie in Gott gewirkt sind."
+¹⁶@@„Denn Gott hat die Welt so geliebt, dass er den einziggeborenen Sohn gab, damit jeder, der auf ihn vertraut, nicht verloren gehe, sondern Leben des Zeitalters habe. ¹⁷Denn Gott hat den Sohn nicht in die Welt gesandt, damit er die Welt richte, sondern damit die Welt durch ihn gerettet werde. ¹⁸Wer auf ihn vertraut, wird nicht gerichtet; wer nicht vertraut, ist schon gerichtet, weil er nicht auf den Namen des einziggeborenen Sohnes Gottes vertraut hat. ¹⁹Und dies ist das Gericht: dass das Licht in die Welt gekommen ist und die Menschen die Finsternis mehr liebten als das Licht, denn ihre Werke waren böse. ²⁰Denn jeder, der Wertloses tut, hasst das Licht und kommt nicht zum Licht, damit seine Werke nicht aufgedeckt werden. ²¹Wer aber die Wahrheit tut, kommt zum Licht, damit seine Werke offenbar werden — dass sie in Gott gewirkt sind."@@
 
 ²²Nach diesen Dingen kamen Jesus und seine Nachfolger in das jehudäische Land, und dort verbrachte er Zeit mit ihnen und tauchte unter. ²³Und auch Yochanan (Johannes) tauchte unter in Ainon bei Shalim, weil dort viel Wasser war, und *Menschen* kamen und wurden untergetaucht — ²⁴denn Johannes war noch nicht ins Gefängnis geworfen worden.
 
 ²⁵Da entstand ein Streit von den Nachfolgern Johannes' mit einem Jehudi über Reinigung. ²⁶Und sie kamen zu Johannes und sagten zu ihm: „Rabbi, der, der bei dir war jenseits des Yarden (Jordan), dem du Zeugnis gegeben hast — siehe, dieser taucht unter, und alle kommen zu ihm." ²⁷Johannes antwortete und sagte: „Ein Mensch ist nicht imstande, irgendetwas zu empfangen, wenn es ihm nicht vom Himmel gegeben wurde. ²⁸Ihr selbst bezeugt mir, dass ich sagte: ‚Ich bin nicht der Gesalbte,' sondern: ‚Ich bin vor jenem hergesandt worden.' ²⁹Der die Braut hat, ist der Bräutigam; aber der Freund des Bräutigams, der dasteht und ihn hört, freut sich mit Freude über die Stimme des Bräutigams. Diese meine Freude nun ist erfüllt. ³⁰Jener muss zunehmen, ich aber muss abnehmen."
 
-³¹„Der von oben kommt, ist über allen. Der von der Erde ist, ist von der Erde und redet von der Erde. Der vom Himmel kommt, ist über allen. ³²Was er gesehen und gehört hat — dies bezeugt er, und niemand nimmt sein Zeugnis an. ³³Wer sein Zeugnis angenommen hat, hat besiegelt, dass Gott wahrhaftig ist. ³⁴Denn der, den Gott gesandt hat, redet die Worte Gottes, denn er gibt den Wind/Geist nicht nach Maß. ³⁵Der Vater liebt den Sohn und hat alles in seine Hand gegeben. ³⁶Wer auf den Sohn vertraut, hat Leben des Zeitalters; wer aber dem Sohn nicht gehorcht, wird das Leben nicht sehen, sondern der Zorn Gottes bleibt auf ihm."
+³¹„Der von oben kommt, ist über allen. Der von der Erde ist, ist von der Erde und redet von der Erde. Der vom Himmel kommt, ist über allen. ³²Was er gesehen und gehört hat — dies bezeugt er, und niemand nimmt sein Zeugnis an. ³³Wer sein Zeugnis angenommen hat, hat besiegelt, dass Gott wahrhaftig ist. ³⁴Denn der, den Gott gesandt hat, redet die Worte Gottes, denn er gibt den {a:Wind/Geist} nicht nach Maß. ³⁵Der Vater liebt den Sohn und hat alles in seine Hand gegeben. ³⁶Wer auf den Sohn vertraut, hat Leben des Zeitalters; wer aber dem Sohn nicht gehorcht, wird das Leben nicht sehen, sondern der Zorn Gottes bleibt auf ihm."
 
 ---
 
@@ -107,7 +107,7 @@ Dieser kam zu ihm bei Nacht und sagte zu ihm: „Rabbi, wir wissen, dass du von 
 
 ### **Vers 3**
 
-Jesus antwortete und sagte zu ihm: „Amen, amen, ich sage dir, wenn jemand nicht von oben/von neuem geboren wird, ist er nicht imstande, das Königreich Gottes zu sehen."
+Jesus antwortete und sagte zu ihm: @@„Amen, amen, ich sage dir, wenn jemand nicht {a:von oben/von neuem} geboren wird, ist er nicht imstande, das Königreich Gottes zu sehen."@@
 
 > **📝 NOTIZEN**
 >
@@ -138,7 +138,7 @@ Nikodemus sagt zu ihm: „Wie ist ein Mensch imstande, geboren zu werden, wenn e
 
 ### **Vers 5**
 
-Jesus antwortete: „Amen, amen, ich sage dir, wenn jemand nicht aus Wasser und Wind/Geist geboren wird, ist er nicht imstande, in das Königreich Gottes einzutreten."
+Jesus antwortete: @@„Amen, amen, ich sage dir, wenn jemand nicht aus Wasser und {a:Wind/Geist} geboren wird, ist er nicht imstande, in das Königreich Gottes einzutreten."@@
 
 > **📝 NOTIZEN**
 >
@@ -152,7 +152,7 @@ Jesus antwortete: „Amen, amen, ich sage dir, wenn jemand nicht aus Wasser und 
 
 ### **Vers 6**
 
-Was aus dem Fleisch geboren ist, ist Fleisch, und was aus dem Wind/Geist geboren ist, ist Wind/Geist.
+@@Was aus dem Fleisch geboren ist, ist Fleisch, und was aus dem {a:Wind/Geist} geboren ist, ist {a:Wind/Geist}.@@
 
 > **📝 NOTIZEN**
 >
@@ -166,7 +166,7 @@ Was aus dem Fleisch geboren ist, ist Fleisch, und was aus dem Wind/Geist geboren
 
 ### **Vers 7**
 
-Wundere dich nicht, dass ich dir gesagt habe: „Ihr müsst von oben/von neuem geboren werden."
+@@Wundere dich nicht, dass ich dir gesagt habe: „Ihr müsst {a:von oben/von neuem} geboren werden."@@
 
 > **📝 NOTIZEN**
 >
@@ -180,7 +180,7 @@ Wundere dich nicht, dass ich dir gesagt habe: „Ihr müsst von oben/von neuem g
 
 ### **Vers 8**
 
-Der Wind/Geist weht, wo er will, und du hörst seinen Klang, aber du weißt nicht, woher er kommt und wohin er geht; so ist jeder, der aus dem Wind/Geist geboren ist.
+@@Der {a:Wind/Geist} weht, wo er will, und du hörst seinen Klang, aber du weißt nicht, woher er kommt und wohin er geht; so ist jeder, der aus dem {a:Wind/Geist} geboren ist.@@
 
 > **📝 NOTIZEN**
 >
@@ -208,7 +208,7 @@ Nikodemus antwortete und sagte zu ihm: „Wie können diese Dinge geschehen?"
 
 ### **Vers 10**
 
-Jesus antwortete und sagte zu ihm: „Du bist der Lehrer Yisraels und weißt diese Dinge nicht?"
+Jesus antwortete und sagte zu ihm: @@„Du bist der Lehrer Yisraels und weißt diese Dinge nicht?"@@
 
 > **📝 NOTIZEN**
 >
@@ -219,7 +219,7 @@ Jesus antwortete und sagte zu ihm: „Du bist der Lehrer Yisraels und weißt die
 
 ### **Vers 11**
 
-Amen, amen, ich sage dir, wir reden, was wir wissen, und wir bezeugen, was wir gesehen haben, und ihr nehmt unser Zeugnis nicht an.
+@@Amen, amen, ich sage dir, wir reden, was wir wissen, und wir bezeugen, was wir gesehen haben, und ihr nehmt unser Zeugnis nicht an.@@
 
 > **📝 NOTIZEN**
 >
@@ -233,7 +233,7 @@ Amen, amen, ich sage dir, wir reden, was wir wissen, und wir bezeugen, was wir g
 
 ### **Vers 12**
 
-Wenn ich euch irdische Dinge gesagt habe und ihr nicht vertraut, wie werdet ihr vertrauen, wenn ich euch himmlische Dinge sage?
+@@Wenn ich euch irdische Dinge gesagt habe und ihr nicht vertraut, wie werdet ihr vertrauen, wenn ich euch himmlische Dinge sage?@@
 
 > **📝 NOTIZEN**
 >
@@ -244,7 +244,7 @@ Wenn ich euch irdische Dinge gesagt habe und ihr nicht vertraut, wie werdet ihr 
 
 ### **Vers 13**
 
-Und niemand ist in den Himmel hinaufgestiegen außer dem, der aus dem Himmel herabgestiegen ist — der Menschensohn.
+@@Und niemand ist in den Himmel hinaufgestiegen außer dem, der aus dem Himmel herabgestiegen ist — der Menschensohn.@@
 
 > **📝 NOTIZEN**
 >
@@ -258,7 +258,7 @@ Und niemand ist in den Himmel hinaufgestiegen außer dem, der aus dem Himmel her
 
 ### **Vers 14**
 
-Und wie Mosheh (Mose) die Schlange in der Wüste erhöhte, so muss der Menschensohn erhöht werden,
+@@Und wie Mosheh (Mose) die Schlange in der Wüste erhöhte, so muss der Menschensohn erhöht werden,@@
 
 > **📝 NOTIZEN**
 >
@@ -272,7 +272,7 @@ Und wie Mosheh (Mose) die Schlange in der Wüste erhöhte, so muss der Menschens
 
 ### **Vers 15**
 
-damit jeder, der auf ihn vertraut, Leben des Zeitalters habe.
+@@damit jeder, der auf ihn vertraut, Leben des Zeitalters habe.@@
 
 > **📝 NOTIZEN**
 >
@@ -286,7 +286,7 @@ damit jeder, der auf ihn vertraut, Leben des Zeitalters habe.
 
 ### **Vers 16**
 
-„Denn Gott hat die Welt so geliebt, dass er den einziggeborenen Sohn gab, damit jeder, der auf ihn vertraut, nicht verloren gehe, sondern Leben des Zeitalters habe."
+@@„Denn Gott hat die Welt so geliebt, dass er den einziggeborenen Sohn gab, damit jeder, der auf ihn vertraut, nicht verloren gehe, sondern Leben des Zeitalters habe."@@
 
 > **📝 NOTIZEN**
 >
@@ -306,7 +306,7 @@ damit jeder, der auf ihn vertraut, Leben des Zeitalters habe.
 
 ### **Vers 17**
 
-Denn Gott hat den Sohn nicht in die Welt gesandt, damit er die Welt richte, sondern damit die Welt durch ihn gerettet werde.
+@@Denn Gott hat den Sohn nicht in die Welt gesandt, damit er die Welt richte, sondern damit die Welt durch ihn gerettet werde.@@
 
 > **📝 NOTIZEN**
 >
@@ -320,7 +320,7 @@ Denn Gott hat den Sohn nicht in die Welt gesandt, damit er die Welt richte, sond
 
 ### **Vers 18**
 
-Wer auf ihn vertraut, wird nicht gerichtet; wer nicht vertraut, ist schon gerichtet, weil er nicht auf den Namen des einziggeborenen Sohnes Gottes vertraut hat.
+@@Wer auf ihn vertraut, wird nicht gerichtet; wer nicht vertraut, ist schon gerichtet, weil er nicht auf den Namen des einziggeborenen Sohnes Gottes vertraut hat.@@
 
 > **📝 NOTIZEN**
 >
@@ -334,7 +334,7 @@ Wer auf ihn vertraut, wird nicht gerichtet; wer nicht vertraut, ist schon gerich
 
 ### **Vers 19**
 
-Und dies ist das Gericht: dass das Licht in die Welt gekommen ist und die Menschen die Finsternis mehr liebten als das Licht, denn ihre Werke waren böse.
+@@Und dies ist das Gericht: dass das Licht in die Welt gekommen ist und die Menschen die Finsternis mehr liebten als das Licht, denn ihre Werke waren böse.@@
 
 > **📝 NOTIZEN**
 >
@@ -348,7 +348,7 @@ Und dies ist das Gericht: dass das Licht in die Welt gekommen ist und die Mensch
 
 ### **Vers 20**
 
-Denn jeder, der Wertloses tut, hasst das Licht und kommt nicht zum Licht, damit seine Werke nicht aufgedeckt werden.
+@@Denn jeder, der Wertloses tut, hasst das Licht und kommt nicht zum Licht, damit seine Werke nicht aufgedeckt werden.@@
 
 > **📝 NOTIZEN**
 >
@@ -362,7 +362,7 @@ Denn jeder, der Wertloses tut, hasst das Licht und kommt nicht zum Licht, damit 
 
 ### **Vers 21**
 
-Wer aber die Wahrheit tut, kommt zum Licht, damit seine Werke offenbar werden — dass sie in Gott gewirkt sind.
+@@Wer aber die Wahrheit tut, kommt zum Licht, damit seine Werke offenbar werden — dass sie in Gott gewirkt sind.@@
 
 > **📝 NOTIZEN**
 >
@@ -523,7 +523,7 @@ Wer sein Zeugnis angenommen hat, hat besiegelt, dass Gott wahrhaftig ist.
 
 ### **Vers 34**
 
-Denn der, den Gott gesandt hat, redet die Worte Gottes, denn er gibt den Wind/Geist nicht nach Maß.
+Denn der, den Gott gesandt hat, redet die Worte Gottes, denn er gibt den {a:Wind/Geist} nicht nach Maß.
 
 > **📝 NOTIZEN**
 >

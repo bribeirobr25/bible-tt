@@ -1,6 +1,6 @@
 # THE TRANSPARENT TRANSLATION (TT)
 ## Core Translation Governance System
-### Ruleset v3.3 — Layered Architecture (CORE + source-language supplements)
+### Ruleset v3.4 — Layered Architecture (CORE + source-language supplements)
 
 ---
 
@@ -885,6 +885,49 @@ A book may belong to multiple genres (e.g., Daniel is both narrative and apocaly
 
 ---
 
+#### **Rule 30: Divine Speech Marking**
+
+*Added v3.4 (2026-06-17).*
+
+Direct, first-person speech of the divine speaker is marked so the reader can see, at a glance, where the text reports God speaking. This is a **visibility** convention, not an interpretive expansion: it marks only what the source text *already* presents as direct divine speech — it never decides *what* the speech means, and it adds no words.
+
+**Scope (narrow, by design):**
+
+| Mark as divine speech | Do NOT mark |
+|---|---|
+| Direct, quoted, first-person speech of **YHWH / God** (Hebrew Bible) | Narration *about* God ("And God called the light Day") — this is the narrator, not quoted speech |
+| Direct speech of **Yeshua (Jesus)** (Greek Scriptures) | Human speech, the serpent, and other creatures |
+| Direct speech of the **Holy Spirit / Spirit of YHWH** when the text attributes speech to it | God's words **quoted by another speaker** (e.g., Chava or the serpent restating the command in Gen 3) — the human/serpent is speaking |
+
+**Debatable cases are EXCLUDED by default and logged:** the *Angel/Messenger of YHWH* (*malakh YHWH*) and any speaker whose divine identity the text leaves open are **not** marked unless an editorial-log entry justifies marking a specific occurrence. Restraint cuts both ways (Rule 3): when in doubt, do not mark.
+
+The mark tracks *who is speaking*, never *what the speech means*. Where the text plainly attributes the words to God/YHWH, they are marked even if their content is debated — e.g. "Let us make…" (Gen 1:26) is marked as God's direct speech; the referent of "us" (council, plural of majesty, later-Trinitarian reading) is a question of meaning the marking leaves entirely open.
+
+**Marking + rendering:** wrap the quoted divine words (including their quotation marks) in `@@…@@`. It renders as **bold in the divine accent colour** (`.divine`). Marking applies to the same span in BOTH the continuous-reading and verse-by-verse renderings of a chapter. Like all markers (below), it is authored in content and converted at render time — it does not alter the stored text or the conservation layer.
+
+**Why:** readers consistently ask "where is this God speaking versus the narrator describing God?" Marking the boundary answers that without a single interpretive word — and without the theological baggage of a full red-letter edition (only the three divine speakers above, never apostles or narrators).
+
+---
+
+### Text-Highlight Markers (reader-facing rendering)
+
+The reading text (Tier 1) carries four visibility markers, each implementing an existing rule. All are authored inline in the content `.md` and converted to styled spans by the renderer (`render-markdown-safe.ts`); the stored text and conservation layer are unaffected.
+
+| Feature | Rule | Authored marker | Renders as | Accent |
+|---|---|---|---|---|
+| Words added for target grammar | Rule 11 | `*word*` | italic | grammatical-blue |
+| Transliterated strategic term | Rule 4 | `{t:raqia}` | bold | teal (`.term`) |
+| Preserved ambiguity (governed slash) | Rule 2 | `{a:wind/spirit}` | bold | ochre (`.ambig`) |
+| Direct divine speech | Rule 30 | `@@"Shall be light"@@` | bold | red (`.divine`) |
+
+**Notes:**
+- These markers are the ONLY inline styling permitted in Tier 1 (keeps the main text clean — see Output Structure). No ad-hoc bold/colour.
+- `{t:…}` and `{a:…}` are reserved for the locked-glossary terms governed by Rules 4 and 2 respectively — not for arbitrary emphasis.
+- A marker may nest inside `@@…@@` (e.g., a transliteration spoken by God): author the inner marker normally; the renderer resolves both.
+- The chapter Reading Guide should carry a short legend so readers can decode the colours.
+
+---
+
 ## PUNCTUATION GOVERNANCE
 
 *Added v3.3 (2026-05-08).*
@@ -1425,6 +1468,11 @@ See source-language supplement for additional post-translation checks.
 ---
 
 ## VERSION HISTORY
+
+**v3.4** (2026-06-17) - DIVINE SPEECH + TEXT-HIGHLIGHT MARKERS
+- Added **Rule 30 (Divine Speech Marking)** — narrow-scope, visibility-only marking of direct speech of YHWH/God, Yeshua, and the Spirit (`@@…@@` → `.divine`). Debatable speakers (Angel of YHWH, divine-council "us") excluded by default + logged.
+- Formalized the **Text-Highlight Markers** convention: `*added*` (Rule 11, grammatical-blue), `{t:…}` transliteration (Rule 4, teal), `{a:…}` ambiguity slash (Rule 2, ochre), `@@…@@` divine speech (Rule 30, red). Authored in content, converted at render time; conservation layer unaffected.
+- Total: **30 rules**.
 
 **v3.3** (2026-05-08) - GOVERNANCE EXPANSION
 - Added §PUNCTUATION GOVERNANCE (em-dash convention, speech boundaries, Spanish minimal-pair accents, German capitalization).

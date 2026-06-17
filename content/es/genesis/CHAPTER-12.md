@@ -61,11 +61,11 @@
 
 ---
 
-¹Y YHWH dijo a Abrán: "Ve, tú mismo, de tu tierra y de tu lugar de nacimiento y de la casa de tu padre, a la tierra que yo te mostraré. ²Y te haré una gran nación, y te bendeciré, y engrandeceré tu nombre — y sé una bendición. ³Y bendeciré a los que te bendigan, y al que te maldiga yo maldeciré, y todas las familias del suelo serán bendecidas / se bendecirán en ti."
+¹Y YHWH dijo a Abrán: @@"Ve, tú mismo, de tu tierra y de tu lugar de nacimiento y de la casa de tu padre, a la tierra que yo te mostraré. ²Y te haré una gran nación, y te bendeciré, y engrandeceré tu nombre — y sé una bendición. ³Y bendeciré a los que te bendigan, y al que te maldiga yo maldeciré, y todas las familias del suelo {a:serán bendecidas / se bendecirán} en ti."@@
 
 ⁴Y Abrán fue como YHWH le había hablado, y Lot fue con él; y Abrán *tenía* setenta y cinco años, hijo de, cuando salió de Jarán. ⁵Y Abrán tomó a Sarai su esposa, y a Lot el hijo de su hermano, y todas sus posesiones que habían reunido, y las personas que habían hecho en Jarán, y salieron para ir a la tierra de Canaán, y llegaron a la tierra de Canaán.
 
-⁶Y Abrán pasó por la tierra hasta el lugar de Siquem, hasta la encina de Moreh; y el cananeo *estaba* entonces en la tierra. ⁷Y YHWH se apareció a Abrán y dijo: "A tu simiente daré esta tierra." Y edificó allí un altar a YHWH que se le había aparecido. ⁸Y se trasladó de allí a la zona montañosa al oriente de Betel y plantó su tienda — Betel *estaba* al occidente y Ai *estaba* al oriente — y edificó allí un altar a YHWH e invocó el nombre de YHWH. ⁹Y Abrán viajó, yendo y viajando hacia el Negev.
+⁶Y Abrán pasó por la tierra hasta el lugar de Siquem, hasta la encina de Moreh; y el cananeo *estaba* entonces en la tierra. ⁷Y YHWH se apareció a Abrán y dijo: @@"A tu simiente daré esta tierra."@@ Y edificó allí un altar a YHWH que se le había aparecido. ⁸Y se trasladó de allí a la zona montañosa al oriente de Betel y plantó su tienda — Betel *estaba* al occidente y Ai *estaba* al oriente — y edificó allí un altar a YHWH e invocó el nombre de YHWH. ⁹Y Abrán viajó, yendo y viajando hacia el Negev.
 
 ¹⁰Y hubo hambre en la tierra, y Abrán descendió a Egipto para residir allí, porque el hambre *era* pesada en la tierra. ¹¹Y sucedió que al acercarse para entrar en Egipto, dijo a Sarai su esposa: "He aquí, yo sé que tú *eres* una mujer hermosa de apariencia. ¹²Y será que cuando los egipcios te vean, dirán: 'Esta *es* su esposa,' y me matarán a mí, y a ti te dejarán vivir. ¹³Di, por favor, *que* tú *eres* mi hermana, para que me vaya bien por causa tuya, y mi vida viva gracias a ti."
 
@@ -79,7 +79,7 @@
 
 ### **Versículo 1**
 
-Y YHWH dijo a Abrán: "Ve, tú mismo, de tu tierra y de tu lugar de nacimiento y de la casa de tu padre, a la tierra que yo te mostraré.
+Y YHWH dijo a Abrán: @@"Ve, tú mismo, de tu tierra y de tu lugar de nacimiento y de la casa de tu padre, a la tierra que yo te mostraré.@@
 
 > **📝 NOTAS**
 >
@@ -96,7 +96,7 @@ Y YHWH dijo a Abrán: "Ve, tú mismo, de tu tierra y de tu lugar de nacimiento y
 
 ### **Versículo 2**
 
-Y te haré una gran nación, y te bendeciré, y engrandeceré tu nombre — y sé una bendición.
+@@Y te haré una gran nación, y te bendeciré, y engrandeceré tu nombre — y sé una bendición.@@
 
 > **📝 NOTAS**
 >
@@ -110,7 +110,7 @@ Y te haré una gran nación, y te bendeciré, y engrandeceré tu nombre — y s�
 
 ### **Versículo 3**
 
-Y bendeciré a los que te bendigan, y al que te maldiga yo maldeciré, y todas las familias del suelo serán bendecidas / se bendecirán en ti."
+@@Y bendeciré a los que te bendigan, y al que te maldiga yo maldeciré, y todas las familias del suelo {a:serán bendecidas / se bendecirán} en ti."@@
 
 > **📝 NOTAS**
 >
@@ -172,7 +172,7 @@ Y Abrán pasó por la tierra hasta el lugar de Siquem, hasta la encina de Moreh;
 
 ### **Versículo 7**
 
-Y YHWH se apareció a Abrán y dijo: "A tu simiente daré esta tierra." Y edificó allí un altar a YHWH que se le había aparecido.
+Y YHWH se apareció a Abrán y dijo: @@"A tu simiente daré esta tierra."@@ Y edificó allí un altar a YHWH que se le había aparecido.
 
 > **📝 NOTAS**
 >

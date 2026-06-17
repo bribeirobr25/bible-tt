@@ -67,7 +67,7 @@
 
 ⁷And seeing many of the Perushim (Pharisees) and Tsduqim (Sadducees) coming to the immersion, he said to them, "Offspring of vipers, who warned you to flee from the coming wrath? ⁸Produce, then, fruit worthy of change of mind, ⁹and do not think to say among yourselves, 'We have Avraham (Abraham) *as our* father,' for I say to you that God is able from these stones to raise up children to Abraham. ¹⁰And already the axe lies at the root of the trees; so every tree not producing good fruit is cut down and thrown into fire. ¹¹I immerse you in water toward change of mind, but the one coming after me is stronger than I, whose sandals I am not worthy to carry; he will immerse you in *the* holy wind/spirit and fire. ¹²His winnowing fork *is* in his hand, and he will thoroughly clean his threshing floor, and he will gather his wheat into the storehouse, but the chaff he will burn *with* unquenchable fire."
 
-¹³Then Yeshua (Jesus) comes from the Galil (Galilee) to the Jordan, to John, to be immersed by him. ¹⁴But John was preventing him, saying, "I need to be immersed by you, and you come to me?" ¹⁵And Jesus, answering, said to him, "Allow *it* now, for thus it is fitting for us to fulfill all righteousness." Then he allows him. ¹⁶And Jesus, having been immersed, immediately came up from the water, and see, the skies were opened to him, and he saw the wind/spirit of God descending like a dove and coming upon him. ¹⁷And see, a voice from the skies, saying, "This is my son, the beloved, in whom I am well pleased."
+¹³Then Yeshua (Jesus) comes from the Galil (Galilee) to the Jordan, to John, to be immersed by him. ¹⁴But John was preventing him, saying, "I need to be immersed by you, and you come to me?" ¹⁵And Jesus, answering, said to him, @@"Allow *it* now, for thus it is fitting for us to fulfill all righteousness."@@ Then he allows him. ¹⁶And Jesus, having been immersed, immediately came up from the water, and see, the skies were opened to him, and he saw the wind/spirit of God descending like a dove and coming upon him. ¹⁷And see, a voice from the skies, saying, @@"This is my son, the beloved, in whom I am well pleased."@@
 
 ---
 
@@ -282,7 +282,7 @@ But Yochanan (John) was preventing him, saying, "I need to be immersed by you, a
 
 ### **Verse 15**
 
-And Yeshua (Jesus), answering, said to him, "Allow *it* now, for thus it is fitting for us to fulfill all righteousness." Then he allows him.
+And Yeshua (Jesus), answering, said to him, @@"Allow *it* now, for thus it is fitting for us to fulfill all righteousness."@@ Then he allows him.
 
 > **Notes**
 >
@@ -319,7 +319,7 @@ And Yeshua (Jesus), having been immersed, immediately came up from the water, an
 
 ### **Verse 17**
 
-And see, a voice from the skies, saying, "This is my son, the beloved, in whom I am well pleased."
+And see, a voice from the skies, saying, @@"This is my son, the beloved, in whom I am well pleased."@@
 
 > **Notes**
 >

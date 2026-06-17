@@ -28,17 +28,15 @@
 
 ## READING GUIDE
 
-**📖 Main Text:** Primary translation—readable but faithful to Hebrew structure  
-**📝 Notes:** Essential Hebrew features immediately below each verse  
-***Italics:*** Words added for English grammar (not in Hebrew text)  
-**"Quotes":** Direct divine speech  
-**raqia:** Transliterated Hebrew terms (explained in notes)
+**Main Text:** Primary translation—readable but faithful to Hebrew structure. **Notes:** Essential Hebrew features immediately below each verse.
 
-**Note Icons:**
-- 🔴 **CRITICAL** - Major textual or translation decisions
-- 🟢 **LEXICAL** - Word meanings, root patterns, glossary terms
-- 🔵 **GRAMMATICAL** - Hebrew structure, verb forms, syntax
-- 🟡 **THEOLOGICAL** - Interpretive options, ambiguity preservation
+**How the text is marked:**
+- *Words in italics* — added for English grammar (not in the Hebrew text)
+- {t:raqia} — transliterated Hebrew terms kept untranslated (explained in notes)
+- {a:wind/spirit} — a word the Hebrew leaves open to two meanings, both kept
+- @@"…"@@ — direct speech of God
+
+Notes are tagged by type — **Critical · Lexical · Grammatical · Theological** — each shown with its colour (see the legend at the top of the Notes view).
 
 ## CHAPTER OVERVIEW
 
@@ -58,17 +56,17 @@
 
 ---
 
-¹In beginning, God created the skies and the land. ²And the land was chaos and void, and darkness *was* over the face of the deep, and wind/spirit of God *was* hovering over the face of the waters. ³And God said, "Shall be light," and light was. ⁴And God saw the light, that good, and God separated between the light and between the darkness. ⁵And God called to the light "Day," and to the darkness he called "Night." And was evening, and was morning, one day.
+¹In beginning, God created the skies and the land. ²And the land was chaos and void, and darkness *was* over the face of the deep, and {a:wind/spirit} of God *was* hovering over the face of the waters. ³And God said, @@"Shall be light,"@@ and light was. ⁴And God saw the light, that good, and God separated between the light and between the darkness. ⁵And God called to the light "Day," and to the darkness he called "Night." And was evening, and was morning, one day.
 
-⁶And God said, "Shall be *a* raqia (expanse) within the waters, and *it* shall be a separator between waters to waters." ⁷And God made the raqia, and he separated between the waters which *were* under the raqia and between the waters which *were* above the raqia. And it was so. ⁸And God called to the raqia "Sky." And was evening, and was morning, second day.
+⁶And God said, @@"Shall be *a* {t:raqia} (expanse) within the waters, and *it* shall be a separator between waters to waters."@@ ⁷And God made the {t:raqia}, and he separated between the waters which *were* under the {t:raqia} and between the waters which *were* above the {t:raqia}. And it was so. ⁸And God called to the {t:raqia} "Sky." And was evening, and was morning, second day.
 
-⁹And God said, "Shall be gathered the waters from under the sky to one place, and shall be seen the dry ground." And it was so. ¹⁰And God called to the dry ground "Land," and to the gathering of the waters he called "Seas." And God saw that good. ¹¹And God said, "Shall grass the land grass, herbs seeding seed, fruit trees making fruit to its kind, which its seed *is* in it, upon the land." And it was so. ¹²And the land brought out grass, herbs seeding seed to its kind, and trees making fruit which its seed *is* in it, to its kind. And God saw that good. ¹³And was evening, and was morning, third day.
+⁹And God said, @@"Shall be gathered the waters from under the sky to one place, and shall be seen the dry ground."@@ And it was so. ¹⁰And God called to the dry ground "Land," and to the gathering of the waters he called "Seas." And God saw that good. ¹¹And God said, @@"Shall grass the land grass, herbs seeding seed, fruit trees making fruit to its kind, which its seed *is* in it, upon the land."@@ And it was so. ¹²And the land brought out grass, herbs seeding seed to its kind, and trees making fruit which its seed *is* in it, to its kind. And God saw that good. ¹³And was evening, and was morning, third day.
 
-¹⁴And God said, "Shall be lights in the raqia, to separate between the day and between the night, and they shall be for signs and for appointed times and for days and years. ¹⁵And they shall be for lights in the raqia, to give light upon the land." And it was so. ¹⁶And God made the two great lights: the greater light for dominion of the day, and the lesser light for dominion of the night, and the stars. ¹⁷And God set them in the raqia, to give light upon the land. ¹⁸And to rule in the day and in the night, and to separate between the light and between the darkness. And God saw that good. ¹⁹And was evening, and was morning, fourth day.
+¹⁴And God said, @@"Shall be lights in the {t:raqia}, to separate between the day and between the night, and they shall be for signs and for appointed times and for days and years. ¹⁵And they shall be for lights in the {t:raqia}, to give light upon the land."@@ And it was so. ¹⁶And God made the two great lights: the greater light for dominion of the day, and the lesser light for dominion of the night, and the stars. ¹⁷And God set them in the {t:raqia}, to give light upon the land. ¹⁸And to rule in the day and in the night, and to separate between the light and between the darkness. And God saw that good. ¹⁹And was evening, and was morning, fourth day.
 
-²⁰And God said, "Shall swarm the waters *with* swarms of living beings, and birds shall fly over the land, over the face of the raqia." ²¹And God created the great sea creatures, and every living being, the moving *ones* which the waters swarmed, to their kinds, and every winged bird to its kind. And God saw that good. ²²And God blessed them, saying, "Be fruitful and multiply, and fill the waters in the seas, and *let* the birds multiply in the land." ²³And was evening, and was morning, fifth day.
+²⁰And God said, @@"Shall swarm the waters *with* swarms of living beings, and birds shall fly over the land, over the face of the {t:raqia}."@@ ²¹And God created the great sea creatures, and every living being, the moving *ones* which the waters swarmed, to their kinds, and every winged bird to its kind. And God saw that good. ²²And God blessed them, saying, @@"Be fruitful and multiply, and fill the waters in the seas, and *let* the birds multiply in the land."@@ ²³And was evening, and was morning, fifth day.
 
-²⁴And God said, "Shall bring forth the land living beings to their kind: livestock and creeping things and living things of *the* land, to their kind." And it was so. ²⁵And God made the living things of the land to their kind, and the livestock to their kind, and every creeping thing of the ground to its kind. And God saw that good. ²⁶And God said, "Let us make *a* human in our image, according to our likeness, and let them have dominion over *the* fish of the sea and over *the* birds of the sky and over the livestock and over all the land and over every creeping thing *that* creeps upon the land." ²⁷And God created the human in his image; in *the* image of God he created him; male and female he created them. ²⁸And God blessed them, and God said to them, "Be fruitful and multiply, and fill the land and subdue it, and have dominion over *the* fish of the sea and over *the* birds of the sky and over every living thing *that* moves upon the land." ²⁹And God said, "See, I have given to you every herb seeding seed which *is* upon *the* face of all the land, and every tree in which *is* fruit of *a* tree seeding seed; to you it shall be for food. ³⁰And to every living thing of the land and to every bird of the sky and to everything creeping upon the land, in which *is a* living being, every green herb *shall be* for food." And it was so. ³¹And God saw all that he had made, and see, *it was* very good. And was evening, and was morning, the sixth day.
+²⁴And God said, @@"Shall bring forth the land living beings to their kind: livestock and creeping things and living things of *the* land, to their kind."@@ And it was so. ²⁵And God made the living things of the land to their kind, and the livestock to their kind, and every creeping thing of the ground to its kind. And God saw that good. ²⁶And God said, @@"Let us make *a* human in our image, according to our likeness, and let them have dominion over *the* fish of the sea and over *the* birds of the sky and over the livestock and over all the land and over every creeping thing *that* creeps upon the land."@@ ²⁷And God created the human in his image; in *the* image of God he created him; male and female he created them. ²⁸And God blessed them, and God said to them, @@"Be fruitful and multiply, and fill the land and subdue it, and have dominion over *the* fish of the sea and over *the* birds of the sky and over every living thing *that* moves upon the land."@@ ²⁹And God said, @@"See, I have given to you every herb seeding seed which *is* upon *the* face of all the land, and every tree in which *is* fruit of *a* tree seeding seed; to you it shall be for food. ³⁰And to every living thing of the land and to every bird of the sky and to everything creeping upon the land, in which *is a* living being, every green herb *shall be* for food."@@ And it was so. ³¹And God saw all that he had made, and see, *it was* very good. And was evening, and was morning, the sixth day.
 
 ---
 
@@ -97,7 +95,7 @@ In beginning, God created the skies and the land.
 
 ### **Verse 2**
 
-And the land was chaos and void, and darkness *was* over the face of the deep, and wind/spirit of God *was* hovering over the face of the waters.
+And the land was chaos and void, and darkness *was* over the face of the deep, and {a:wind/spirit} of God *was* hovering over the face of the waters.
 
 > **📝 NOTES**
 > 
@@ -113,7 +111,7 @@ And the land was chaos and void, and darkness *was* over the face of the deep, a
 
 ### **Verse 3**
 
-And God said, "Shall be light," and light was.
+And God said, @@"Shall be light,"@@ and light was.
 
 > **📝 NOTES**
 > 
@@ -152,7 +150,7 @@ And God called to the light "Day," and to the darkness he called "Night." And wa
 
 ### **Verse 6**
 
-And God said, "Shall be *a* raqia (expanse) within the waters, and *it* shall be a separator between waters to waters."
+And God said, @@"Shall be *a* {t:raqia} (expanse) within the waters, and *it* shall be a separator between waters to waters."@@
 
 > **📝 NOTES**
 > 
@@ -169,7 +167,7 @@ And God said, "Shall be *a* raqia (expanse) within the waters, and *it* shall be
 
 ### **Verse 7**
 
-And God made the raqia, and he separated between the waters which *were* under the raqia and between the waters which *were* above the raqia. And it was so.
+And God made the {t:raqia}, and he separated between the waters which *were* under the {t:raqia} and between the waters which *were* above the {t:raqia}. And it was so.
 
 > **📝 NOTES**
 > 
@@ -183,7 +181,7 @@ And God made the raqia, and he separated between the waters which *were* under t
 
 ### **Verse 8**
 
-And God called to the raqia "Sky." And was evening, and was morning, second day.
+And God called to the {t:raqia} "Sky." And was evening, and was morning, second day.
 
 > **📝 NOTES**
 > 
@@ -198,7 +196,7 @@ And God called to the raqia "Sky." And was evening, and was morning, second day.
 
 ### **Verse 9**
 
-And God said, "Shall be gathered the waters from under the sky to one place, and shall be seen the dry ground." And it was so.
+And God said, @@"Shall be gathered the waters from under the sky to one place, and shall be seen the dry ground."@@ And it was so.
 
 > **📝 NOTES**
 > 
@@ -225,7 +223,7 @@ And God called to the dry ground "Land," and to the gathering of the waters he c
 
 ### **Verse 11**
 
-And God said, "Shall grass the land grass, herbs seeding seed, fruit trees making fruit to its kind, which its seed *is* in it, upon the land." And it was so.
+And God said, @@"Shall grass the land grass, herbs seeding seed, fruit trees making fruit to its kind, which its seed *is* in it, upon the land."@@ And it was so.
 
 > **📝 NOTES**
 > 
@@ -262,7 +260,7 @@ And was evening, and was morning, third day.
 
 ### **Verse 14**
 
-And God said, "Shall be lights in the raqia, to separate between the day and between the night, and they shall be for signs and for appointed times and for days and years.
+And God said, @@"Shall be lights in the {t:raqia}, to separate between the day and between the night, and they shall be for signs and for appointed times and for days and years.@@
 
 > **📝 NOTES**
 > 
@@ -279,7 +277,7 @@ And God said, "Shall be lights in the raqia, to separate between the day and bet
 
 ### **Verse 15**
 
-And they shall be for lights in the raqia, to give light upon the land." And it was so.
+@@And they shall be for lights in the {t:raqia}, to give light upon the land."@@ And it was so.
 
 ---
 
@@ -303,7 +301,7 @@ And God made the two great lights: the greater light for dominion of the day, an
 
 ### **Verse 17**
 
-And God set them in the raqia, to give light upon the land.
+And God set them in the {t:raqia}, to give light upon the land.
 
 > **📝 NOTES**
 > 
@@ -331,7 +329,7 @@ And was evening, and was morning, fourth day.
 
 ### **Verse 20**
 
-And God said, "Shall swarm the waters *with* swarms of living beings, and birds shall fly over the land, over the face of the raqia."
+And God said, @@"Shall swarm the waters *with* swarms of living beings, and birds shall fly over the land, over the face of the {t:raqia}."@@
 
 > **📝 NOTES**
 > 
@@ -365,7 +363,7 @@ And God created the great sea creatures, and every living being, the moving *one
 
 ### **Verse 22**
 
-And God blessed them, saying, "Be fruitful and multiply, and fill the waters in the seas, and *let* the birds multiply in the land."
+And God blessed them, saying, @@"Be fruitful and multiply, and fill the waters in the seas, and *let* the birds multiply in the land."@@
 
 > **📝 NOTES**
 > 
@@ -386,7 +384,7 @@ And was evening, and was morning, fifth day.
 
 ### **Verse 24**
 
-And God said, "Shall bring forth the land living beings to their kind: livestock and creeping things and living things of *the* land, to their kind." And it was so.
+And God said, @@"Shall bring forth the land living beings to their kind: livestock and creeping things and living things of *the* land, to their kind."@@ And it was so.
 
 > **📝 NOTES**
 > 
@@ -414,7 +412,7 @@ And God made the living things of the land to their kind, and the livestock to t
 
 ### **Verse 26**
 
-And God said, "Let us make *a* human in our image, according to our likeness, and let them have dominion over *the* fish of the sea and over *the* birds of the sky and over the livestock and over all the land and over every creeping thing *that* creeps upon the land."
+And God said, @@"Let us make *a* human in our image, according to our likeness, and let them have dominion over *the* fish of the sea and over *the* birds of the sky and over the livestock and over all the land and over every creeping thing *that* creeps upon the land."@@
 
 > **📝 NOTES**
 > 
@@ -459,7 +457,7 @@ And God created the human in his image; in *the* image of God he created him; ma
 
 ### **Verse 28**
 
-And God blessed them, and God said to them, "Be fruitful and multiply, and fill the land and subdue it, and have dominion over *the* fish of the sea and over *the* birds of the sky and over every living thing *that* moves upon the land."
+And God blessed them, and God said to them, @@"Be fruitful and multiply, and fill the land and subdue it, and have dominion over *the* fish of the sea and over *the* birds of the sky and over every living thing *that* moves upon the land."@@
 
 > **📝 NOTES**
 > 
@@ -480,7 +478,7 @@ And God blessed them, and God said to them, "Be fruitful and multiply, and fill 
 
 ### **Verse 29**
 
-And God said, "See, I have given to you every herb seeding seed which *is* upon *the* face of all the land, and every tree in which *is* fruit of *a* tree seeding seed; to you it shall be for food.
+And God said, @@"See, I have given to you every herb seeding seed which *is* upon *the* face of all the land, and every tree in which *is* fruit of *a* tree seeding seed; to you it shall be for food.@@
 
 > **📝 NOTES**
 > 
@@ -497,7 +495,7 @@ And God said, "See, I have given to you every herb seeding seed which *is* upon 
 
 ### **Verse 30**
 
-And to every living thing of the land and to every bird of the sky and to everything creeping upon the land, in which *is a* living being, every green herb *shall be* for food." And it was so.
+@@And to every living thing of the land and to every bird of the sky and to everything creeping upon the land, in which *is a* living being, every green herb *shall be* for food."@@ And it was so.
 
 > **📝 NOTES**
 > 

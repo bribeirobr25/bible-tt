@@ -61,21 +61,21 @@
 
 ---
 
-¹And the serpent was more crafty than every living thing of the field which YHWH Elohim had made. And he said to the woman, "Indeed, has God said, 'You shall not eat from every tree of the garden'?" ²And the woman said to the serpent, "From the fruit of the trees of the garden we may eat, ³but from the fruit of the tree which *is* in the midst of the garden God said, 'You shall not eat from it, and you shall not touch it, lest you die.'" ⁴And the serpent said to the woman, "Not dying you shall die. ⁵For God knows that in the day of your eating from it your eyes shall be opened, and you shall be like God/gods, knowing good and evil."
+¹And the serpent was more crafty than every living thing of the field which YHWH Elohim had made. And he said to the woman, "Indeed, has God said, 'You shall not eat from every tree of the garden'?" ²And the woman said to the serpent, "From the fruit of the trees of the garden we may eat, ³but from the fruit of the tree which *is* in the midst of the garden God said, 'You shall not eat from it, and you shall not touch it, lest you die.'" ⁴And the serpent said to the woman, "Not dying you shall die. ⁵For God knows that in the day of your eating from it your eyes shall be opened, and you shall be like {a:God/gods}, knowing good and evil."
 
 ⁶And the woman saw that the tree *was* good for food, and that *it was* a delight to the eyes, and that the tree *was* desirable to make wise; and she took from its fruit and ate, and she gave also to her man with her, and he ate. ⁷And the eyes of both of them were opened, and they knew that they *were* naked; and they sewed fig leaves and made for themselves loin-coverings.
 
-⁸And they heard the voice of YHWH Elohim walking in the garden at the wind of the day, and the human and his woman hid themselves from the face of YHWH Elohim in the midst of the tree of the garden. ⁹And YHWH Elohim called to the human, and said to him, "Where *are* you?" ¹⁰And he said, "Your voice I heard in the garden, and I was afraid, for I *am* naked, and I hid myself." ¹¹And he said, "Who told you that you *are* naked? From the tree which I commanded you not to eat from it, have you eaten?" ¹²And the human said, "The woman whom you gave *to be* with me, she gave to me from the tree, and I ate." ¹³And YHWH Elohim said to the woman, "What *is* this you have done?" And the woman said, "The serpent deceived me, and I ate."
+⁸And they heard the voice of YHWH Elohim walking in the garden at the wind of the day, and the human and his woman hid themselves from the face of YHWH Elohim in the midst of the tree of the garden. ⁹And YHWH Elohim called to the human, and said to him, @@"Where *are* you?"@@ ¹⁰And he said, "Your voice I heard in the garden, and I was afraid, for I *am* naked, and I hid myself." ¹¹And he said, @@"Who told you that you *are* naked? From the tree which I commanded you not to eat from it, have you eaten?"@@ ¹²And the human said, "The woman whom you gave *to be* with me, she gave to me from the tree, and I ate." ¹³And YHWH Elohim said to the woman, @@"What *is* this you have done?"@@ And the woman said, "The serpent deceived me, and I ate."
 
-¹⁴And YHWH Elohim said to the serpent, "Because you have done this, cursed *are* you from every livestock and from every living thing of the field; upon your belly you shall go, and dust you shall eat all the days of your life. ¹⁵And enmity I will set between you and between the woman, and between your seed and between her seed; he shall bruise/strike you *on the* head, and you shall bruise/strike him *on the* heel."
+¹⁴And YHWH Elohim said to the serpent, @@"Because you have done this, cursed *are* you from every livestock and from every living thing of the field; upon your belly you shall go, and dust you shall eat all the days of your life. ¹⁵And enmity I will set between you and between the woman, and between your seed and between her seed; he shall {a:bruise/strike} you *on the* head, and you shall {a:bruise/strike} him *on the* heel."@@
 
-¹⁶To the woman he said, "Multiplying I will multiply your toil and your pregnancy; in toil you shall bear sons. And toward your man *shall be* your desire/turning, and he shall rule over you."
+¹⁶To the woman he said, @@"Multiplying I will multiply your toil and your pregnancy; in toil you shall bear sons. And toward your man *shall be* your {a:desire/turning}, and he shall rule over you."@@
 
-¹⁷And to the human he said, "Because you have listened to the voice of your woman, and have eaten from the tree which I commanded you, saying, 'You shall not eat from it,' cursed *is* the ground because of you; in toil you shall eat *from it* all the days of your life. ¹⁸And thorn and thistle it shall bring forth to you, and you shall eat the herb of the field. ¹⁹In the sweat of your face you shall eat bread, until your returning to the ground, for from it you were taken; for dust you *are*, and to dust you shall return."
+¹⁷And to the human he said, @@"Because you have listened to the voice of your woman, and have eaten from the tree which I commanded you, saying, 'You shall not eat from it,' cursed *is* the ground because of you; in toil you shall eat *from it* all the days of your life. ¹⁸And thorn and thistle it shall bring forth to you, and you shall eat the herb of the field. ¹⁹In the sweat of your face you shall eat bread, until your returning to the ground, for from it you were taken; for dust you *are*, and to dust you shall return."@@
 
 ²⁰And the human called the name of his woman Chava (Eve), for she was mother of all the living. ²¹And YHWH Elohim made for the human and for his woman garments of skin, and he clothed them.
 
-²²And YHWH Elohim said, "See, the human has become like one of us to know good and evil; and now, lest he stretch out his hand and take also from the tree of the life, and eat, and live forever…" ²³And YHWH Elohim sent him out from the garden of Eden to work the ground from which he was taken. ²⁴And he drove out the human; and he caused to dwell at the east of the garden of Eden the cherubim, and the flame of the sword turning, to guard the way of the tree of the life.
+²²And YHWH Elohim said, @@"See, the human has become like one of us to know good and evil; and now, lest he stretch out his hand and take also from the tree of the life, and eat, and live forever…"@@ ²³And YHWH Elohim sent him out from the garden of Eden to work the ground from which he was taken. ²⁴And he drove out the human; and he caused to dwell at the east of the garden of Eden the cherubim, and the flame of the sword turning, to guard the way of the tree of the life.
 
 ---
 
@@ -145,7 +145,7 @@ And the serpent said to the woman, "Not dying you shall die.
 
 ### **Verse 5**
 
-For God knows that in the day of your eating from it your eyes shall be opened, and you shall be like God/gods, knowing good and evil."
+For God knows that in the day of your eating from it your eyes shall be opened, and you shall be like {a:God/gods}, knowing good and evil."
 
 > **📝 NOTES**
 >
@@ -204,7 +204,7 @@ And they heard the voice of YHWH Elohim walking in the garden at the wind of the
 
 ### **Verse 9**
 
-And YHWH Elohim called to the human, and said to him, "Where *are* you?"
+And YHWH Elohim called to the human, and said to him, @@"Where *are* you?"@@
 
 > **📝 NOTES**
 >
@@ -226,7 +226,7 @@ And he said, "Your voice I heard in the garden, and I was afraid, for I *am* nak
 
 ### **Verse 11**
 
-And he said, "Who told you that you *are* naked? From the tree which I commanded you not to eat from it, have you eaten?"
+And he said, @@"Who told you that you *are* naked? From the tree which I commanded you not to eat from it, have you eaten?"@@
 
 > **📝 NOTES**
 >
@@ -248,7 +248,7 @@ And the human said, "The woman whom you gave *to be* with me, she gave to me fro
 
 ### **Verse 13**
 
-And YHWH Elohim said to the woman, "What *is* this you have done?" And the woman said, "The serpent deceived me, and I ate."
+And YHWH Elohim said to the woman, @@"What *is* this you have done?"@@ And the woman said, "The serpent deceived me, and I ate."
 
 > **📝 NOTES**
 >
@@ -259,7 +259,7 @@ And YHWH Elohim said to the woman, "What *is* this you have done?" And the woman
 
 ### **Verse 14**
 
-And YHWH Elohim said to the serpent, "Because you have done this, cursed *are* you from every livestock and from every living thing of the field; upon your belly you shall go, and dust you shall eat all the days of your life.
+And YHWH Elohim said to the serpent, @@"Because you have done this, cursed *are* you from every livestock and from every living thing of the field; upon your belly you shall go, and dust you shall eat all the days of your life.@@
 
 > **📝 NOTES**
 >
@@ -274,7 +274,7 @@ And YHWH Elohim said to the serpent, "Because you have done this, cursed *are* y
 
 ### **Verse 15**
 
-And enmity I will set between you and between the woman, and between your seed and between her seed; he shall bruise/strike you *on the* head, and you shall bruise/strike him *on the* heel."
+@@And enmity I will set between you and between the woman, and between your seed and between her seed; he shall {a:bruise/strike} you *on the* head, and you shall {a:bruise/strike} him *on the* heel."@@
 
 > **📝 NOTES**
 >
@@ -295,7 +295,7 @@ And enmity I will set between you and between the woman, and between your seed a
 
 ### **Verse 16**
 
-To the woman he said, "Multiplying I will multiply your toil and your pregnancy; in toil you shall bear sons. And toward your man *shall be* your desire/turning, and he shall rule over you."
+To the woman he said, @@"Multiplying I will multiply your toil and your pregnancy; in toil you shall bear sons. And toward your man *shall be* your {a:desire/turning}, and he shall rule over you."@@
 
 > **📝 NOTES**
 >
@@ -317,7 +317,7 @@ To the woman he said, "Multiplying I will multiply your toil and your pregnancy;
 
 ### **Verse 17**
 
-And to the human he said, "Because you have listened to the voice of your woman, and have eaten from the tree which I commanded you, saying, 'You shall not eat from it,' cursed *is* the ground because of you; in toil you shall eat *from it* all the days of your life.
+And to the human he said, @@"Because you have listened to the voice of your woman, and have eaten from the tree which I commanded you, saying, 'You shall not eat from it,' cursed *is* the ground because of you; in toil you shall eat *from it* all the days of your life.@@
 
 > **📝 NOTES**
 >
@@ -331,7 +331,7 @@ And to the human he said, "Because you have listened to the voice of your woman,
 
 ### **Verse 18**
 
-And thorn and thistle it shall bring forth to you, and you shall eat the herb of the field.
+@@And thorn and thistle it shall bring forth to you, and you shall eat the herb of the field.@@
 
 > **📝 NOTES**
 >
@@ -342,7 +342,7 @@ And thorn and thistle it shall bring forth to you, and you shall eat the herb of
 
 ### **Verse 19**
 
-In the sweat of your face you shall eat bread, until your returning to the ground, for from it you were taken; for dust you *are*, and to dust you shall return."
+@@In the sweat of your face you shall eat bread, until your returning to the ground, for from it you were taken; for dust you *are*, and to dust you shall return."@@
 
 > **📝 NOTES**
 >
@@ -380,7 +380,7 @@ And YHWH Elohim made for the human and for his woman garments of skin, and he cl
 
 ### **Verse 22**
 
-And YHWH Elohim said, "See, the human has become like one of us to know good and evil; and now, lest he stretch out his hand and take also from the tree of the life, and eat, and live forever…"
+And YHWH Elohim said, @@"See, the human has become like one of us to know good and evil; and now, lest he stretch out his hand and take also from the tree of the life, and eat, and live forever…"@@
 
 > **📝 NOTES**
 >

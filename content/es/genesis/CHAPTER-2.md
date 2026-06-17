@@ -70,11 +70,11 @@
 
 ⁸Y YHWH Elohim plantó un jardín en Eden desde el oriente, y puso allí al humano que había formado. ⁹Y YHWH Elohim hizo brotar del suelo todo árbol agradable a la vista y bueno para alimento, y el árbol de la vida en medio del jardín, y el árbol del conocimiento del bien y del mal. ¹⁰Y *un* rio salia de Eden para regar el jardín, y de allí se dividía y se hacia cuatro cabezas. ¹¹El nombre del uno *es* Pishon; él *es* el que rodea toda la tierra de Havilah, donde *esta* el oro. ¹²Y el oro de aquella tierra *es* bueno; allí *esta* el bdelio y la piedra shoham. ¹³Y el nombre del segundo rio *es* Gihon; él *es* el que rodea toda la tierra de Cush. ¹⁴Y el nombre del tercer rio *es* Hiddeqel; él *es* el que va al oriente de Asur. Y el cuarto rio, ese *es* Perat.
 
-¹⁵Y YHWH Elohim tomó al humano y lo puso en el jardín de Eden para trabajarlo y para guardarlo. ¹⁶Y YHWH Elohim mandó sobre el humano, diciendo: "De todo árbol del jardín comiendo comeras. ¹⁷Pero del árbol del conocimiento del bien y del mal, no comeras de el, porque en el día de tu comer de él muriendo moriras."
+¹⁵Y YHWH Elohim tomó al humano y lo puso en el jardín de Eden para trabajarlo y para guardarlo. ¹⁶Y YHWH Elohim mandó sobre el humano, diciendo: @@"De todo árbol del jardín comiendo comeras. ¹⁷Pero del árbol del conocimiento del bien y del mal, no comeras de el, porque en el día de tu comer de él muriendo moriras."@@
 
-¹⁸Y YHWH Elohim dijo: "No *es* bueno el estar del humano solo; le hare *una* ayuda como su contraparte." ¹⁹Y YHWH Elohim formó del suelo todo ser vivo del campo y toda ave del cielo, y *los* trajo al humano para ver que les llamaria; y todo lo que el humano llamó a *cada* ser vivo, ese *es* su nombre. ²⁰Y el humano llamó nombres a todo el ganado, y a las aves del cielo, y a todo ser vivo del campo, pero para el humano no hallo una ayuda como su contraparte.
+¹⁸Y YHWH Elohim dijo: @@"No *es* bueno el estar del humano solo; le hare *una* ayuda como su contraparte."@@ ¹⁹Y YHWH Elohim formó del suelo todo ser vivo del campo y toda ave del cielo, y *los* trajo al humano para ver que les llamaria; y todo lo que el humano llamó a *cada* ser vivo, ese *es* su nombre. ²⁰Y el humano llamó nombres a todo el ganado, y a las aves del cielo, y a todo ser vivo del campo, pero para el humano no hallo una ayuda como su contraparte.
 
-²¹Y YHWH Elohim hizo caer un sueno profundo sobre el humano, y durmio; y tomó uno de sus lados/costillas, y cerró carne debajo. ²²Y YHWH Elohim construyó el lado/costilla que había tomado del humano en *una* mujer, y la trajo al humano. ²³Y el humano dijo: "Esta *vez*, esta vez, hueso de mis huesos y carne de mi carne; a esta *se* llamara *ishah* (mujer), porque de *ish* (hombre) fue esta tomada." ²⁴Por tanto dejara *un* hombre a su padre y a su madre y se unira a su mujer, y seran una sola carne. ²⁵Y estaban ambos desnudos, el humano y su mujer, y no se avergonzaban.
+²¹Y YHWH Elohim hizo caer un sueno profundo sobre el humano, y durmio; y tomó uno de sus {a:lados/costillas}, y cerró carne debajo. ²²Y YHWH Elohim construyó el {a:lado/costilla} que había tomado del humano en *una* mujer, y la trajo al humano. ²³Y el humano dijo: "Esta *vez*, esta vez, hueso de mis huesos y carne de mi carne; a esta *se* llamara *ishah* (mujer), porque de *ish* (hombre) fue esta tomada." ²⁴Por tanto dejara *un* hombre a su padre y a su madre y se unira a su mujer, y seran una sola carne. ²⁵Y estaban ambos desnudos, el humano y su mujer, y no se avergonzaban.
 
 ---
 
@@ -289,7 +289,7 @@ Y YHWH Elohim tomó al humano y lo puso en el jardín de Eden para trabajarlo y 
 
 ### **Versículo 16**
 
-Y YHWH Elohim mandó sobre el humano, diciendo: "De todo árbol del jardín comiendo comeras.
+Y YHWH Elohim mandó sobre el humano, diciendo: @@"De todo árbol del jardín comiendo comeras.@@
 
 > **NOTAS**
 >
@@ -301,7 +301,7 @@ Y YHWH Elohim mandó sobre el humano, diciendo: "De todo árbol del jardín comi
 
 ### **Versículo 17**
 
-Pero del árbol del conocimiento del bien y del mal, no comeras de el, porque en el día de tu comer de él muriendo moriras."
+@@Pero del árbol del conocimiento del bien y del mal, no comeras de el, porque en el día de tu comer de él muriendo moriras."@@
 
 > **NOTAS**
 >
@@ -316,7 +316,7 @@ Pero del árbol del conocimiento del bien y del mal, no comeras de el, porque en
 
 ### **Versículo 18**
 
-Y YHWH Elohim dijo: "No *es* bueno el estar del humano solo; le hare *una* ayuda como su contraparte."
+Y YHWH Elohim dijo: @@"No *es* bueno el estar del humano solo; le hare *una* ayuda como su contraparte."@@
 
 > **NOTAS**
 >
@@ -360,7 +360,7 @@ Y el humano llamó nombres a todo el ganado, y a las aves del cielo, y a todo se
 
 ### **Versículo 21**
 
-Y YHWH Elohim hizo caer un sueno profundo sobre el humano, y durmio; y tomó uno de sus lados/costillas, y cerró carne debajo.
+Y YHWH Elohim hizo caer un sueno profundo sobre el humano, y durmio; y tomó uno de sus {a:lados/costillas}, y cerró carne debajo.
 
 > **NOTAS**
 >
@@ -375,7 +375,7 @@ Y YHWH Elohim hizo caer un sueno profundo sobre el humano, y durmio; y tomó uno
 
 ### **Versículo 22**
 
-Y YHWH Elohim construyó el lado/costilla que había tomado del humano en *una* mujer, y la trajo al humano.
+Y YHWH Elohim construyó el {a:lado/costilla} que había tomado del humano en *una* mujer, y la trajo al humano.
 
 > **NOTAS**
 >

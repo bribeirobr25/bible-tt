@@ -60,13 +60,13 @@
 
 ---
 
-¹And God blessed Noach (Noah) and his sons and said to them, "Be fruitful and multiply and fill the land. ²And the fear of you and the dread of you shall be upon every living thing of the land, and upon every bird of the sky, in all which the ground swarms, and in all the fish of the sea; into your hand they are given. ³Every moving thing which *is* alive shall be food for you; as the green plant, I have given you everything. ⁴Only flesh with its life — its blood — you shall not eat. ⁵And surely your blood of your lives I will seek; from the hand of every living thing I will seek it, and from the hand of the human, from the hand of a man, his brother, I will seek the life of the human. ⁶Whoever sheds the blood of the human, by the human his blood shall be shed, for in the image of God he made the human. ⁷And you, be fruitful and multiply, swarm on the land and multiply on it."
+¹And God blessed Noach (Noah) and his sons and said to them, @@"Be fruitful and multiply and fill the land. ²And the fear of you and the dread of you shall be upon every living thing of the land, and upon every bird of the sky, in all which the ground swarms, and in all the fish of the sea; into your hand they are given. ³Every moving thing which *is* alive shall be food for you; as the green plant, I have given you everything. ⁴Only flesh with its life — its blood — you shall not eat. ⁵And surely your blood of your lives I will seek; from the hand of every living thing I will seek it, and from the hand of the human, from the hand of a man, his brother, I will seek the life of the human. ⁶Whoever sheds the blood of the human, by the human his blood shall be shed, for in the image of God he made the human. ⁷And you, be fruitful and multiply, swarm on the land and multiply on it."@@
 
-⁸And God said to Noah and to his sons with him, saying, ⁹"And I, see, I *am* establishing my covenant with you and with your seed after you, ¹⁰and with every living being which *is* with you — the bird, the livestock, and every living thing of the land with you — from all going out of the tebah, to every living thing of the land. ¹¹And I will establish my covenant with you, and all flesh shall not be cut off again by the waters of the flood, and there shall not be again a flood to destroy the land."
+⁸And God said to Noah and to his sons with him, saying, ⁹@@"And I, see, I *am* establishing my covenant with you and with your seed after you, ¹⁰and with every living being which *is* with you — the bird, the livestock, and every living thing of the land with you — from all going out of the {t:tebah}, to every living thing of the land. ¹¹And I will establish my covenant with you, and all flesh shall not be cut off again by the waters of the flood, and there shall not be again a flood to destroy the land."@@
 
-¹²And God said, "This *is* the sign of the covenant which I *am* giving between me and between you and between every living being which *is* with you, for generations of perpetuity: ¹³my bow I have set in the cloud, and it shall be for a sign of the covenant between me and between the land. ¹⁴And it shall be when I bring clouds over the land, and the bow appears in the cloud, ¹⁵and I will remember my covenant which *is* between me and between you and between every living being in all flesh, and the waters shall not again become a flood to destroy all flesh. ¹⁶And the bow shall be in the cloud, and I will see it to remember the covenant of perpetuity between God and between every living being in all flesh which *is* upon the land." ¹⁷And God said to Noah, "This *is* the sign of the covenant which I have established between me and between all flesh which *is* upon the land."
+¹²And God said, @@"This *is* the sign of the covenant which I *am* giving between me and between you and between every living being which *is* with you, for generations of perpetuity: ¹³my bow I have set in the cloud, and it shall be for a sign of the covenant between me and between the land. ¹⁴And it shall be when I bring clouds over the land, and the bow appears in the cloud, ¹⁵and I will remember my covenant which *is* between me and between you and between every living being in all flesh, and the waters shall not again become a flood to destroy all flesh. ¹⁶And the bow shall be in the cloud, and I will see it to remember the covenant of perpetuity between God and between every living being in all flesh which *is* upon the land."@@ ¹⁷And God said to Noah, @@"This *is* the sign of the covenant which I have established between me and between all flesh which *is* upon the land."@@
 
-¹⁸And the sons of Noah who went out from the tebah were Shem and Cham (Ham) and Yafet (Japheth); and Ham *is* the father of Kenaan (Canaan). ¹⁹These three *are* the sons of Noah, and from these the whole land was spread abroad.
+¹⁸And the sons of Noah who went out from the {t:tebah} were Shem and Cham (Ham) and Yafet (Japheth); and Ham *is* the father of Kenaan (Canaan). ¹⁹These three *are* the sons of Noah, and from these the whole land was spread abroad.
 
 ²⁰And Noah began *as* a man of the ground and planted a vineyard. ²¹And he drank from the wine and became drunk, and he uncovered himself in the midst of his tent. ²²And Ham, the father of Canaan, saw the nakedness of his father, and he told his two brothers outside. ²³And Shem and Japheth took the garment and placed *it* upon the shoulder of the two of them, and they walked backward, and they covered the nakedness of their father; and their faces *were* backward, and the nakedness of their father they did not see.
 
@@ -80,7 +80,7 @@
 
 ### **Verse 1**
 
-And God blessed Noach (Noah) and his sons and said to them, "Be fruitful and multiply and fill the land.
+And God blessed Noach (Noah) and his sons and said to them, @@"Be fruitful and multiply and fill the land.@@
 
 > **📝 NOTES**
 >
@@ -91,7 +91,7 @@ And God blessed Noach (Noah) and his sons and said to them, "Be fruitful and mul
 
 ### **Verse 2**
 
-And the fear of you and the dread of you shall be upon every living thing of the land, and upon every bird of the sky, in all which the ground swarms, and in all the fish of the sea; into your hand they are given.
+@@And the fear of you and the dread of you shall be upon every living thing of the land, and upon every bird of the sky, in all which the ground swarms, and in all the fish of the sea; into your hand they are given.@@
 
 > **📝 NOTES**
 >
@@ -105,7 +105,7 @@ And the fear of you and the dread of you shall be upon every living thing of the
 
 ### **Verse 3**
 
-Every moving thing which *is* alive shall be food for you; as the green plant, I have given you everything.
+@@Every moving thing which *is* alive shall be food for you; as the green plant, I have given you everything.@@
 
 > **📝 NOTES**
 >
@@ -116,7 +116,7 @@ Every moving thing which *is* alive shall be food for you; as the green plant, I
 
 ### **Verse 4**
 
-Only flesh with its life — its blood — you shall not eat.
+@@Only flesh with its life — its blood — you shall not eat.@@
 
 > **📝 NOTES**
 >
@@ -128,7 +128,7 @@ Only flesh with its life — its blood — you shall not eat.
 
 ### **Verse 5**
 
-And surely your blood of your lives I will seek; from the hand of every living thing I will seek it, and from the hand of the human, from the hand of a man, his brother, I will seek the life of the human.
+@@And surely your blood of your lives I will seek; from the hand of every living thing I will seek it, and from the hand of the human, from the hand of a man, his brother, I will seek the life of the human.@@
 
 > **📝 NOTES**
 >
@@ -139,7 +139,7 @@ And surely your blood of your lives I will seek; from the hand of every living t
 
 ### **Verse 6**
 
-Whoever sheds the blood of the human, by the human his blood shall be shed, for in the image of God he made the human.
+@@Whoever sheds the blood of the human, by the human his blood shall be shed, for in the image of God he made the human.@@
 
 > **📝 NOTES**
 >
@@ -153,7 +153,7 @@ Whoever sheds the blood of the human, by the human his blood shall be shed, for 
 
 ### **Verse 7**
 
-And you, be fruitful and multiply, swarm on the land and multiply on it."
+@@And you, be fruitful and multiply, swarm on the land and multiply on it."@@
 
 > **📝 NOTES**
 >
@@ -170,7 +170,7 @@ And God said to Noah and to his sons with him, saying,
 
 ### **Verse 9**
 
-"And I, see, I *am* establishing my covenant with you and with your seed after you,
+@@"And I, see, I *am* establishing my covenant with you and with your seed after you,@@
 
 > **📝 NOTES**
 >
@@ -184,7 +184,7 @@ And God said to Noah and to his sons with him, saying,
 
 ### **Verse 10**
 
-and with every living being which *is* with you — the bird, the livestock, and every living thing of the land with you — from all going out of the tebah, to every living thing of the land.
+@@and with every living being which *is* with you — the bird, the livestock, and every living thing of the land with you — from all going out of the {t:tebah}, to every living thing of the land.@@
 
 > **📝 NOTES**
 >
@@ -195,13 +195,13 @@ and with every living being which *is* with you — the bird, the livestock, and
 
 ### **Verse 11**
 
-And I will establish my covenant with you, and all flesh shall not be cut off again by the waters of the flood, and there shall not be again a flood to destroy the land."
+@@And I will establish my covenant with you, and all flesh shall not be cut off again by the waters of the flood, and there shall not be again a flood to destroy the land."@@
 
 ---
 
 ### **Verse 12**
 
-And God said, "This *is* the sign of the covenant which I *am* giving between me and between you and between every living being which *is* with you, for generations of perpetuity:
+And God said, @@"This *is* the sign of the covenant which I *am* giving between me and between you and between every living being which *is* with you, for generations of perpetuity:@@
 
 > **📝 NOTES**
 >
@@ -212,7 +212,7 @@ And God said, "This *is* the sign of the covenant which I *am* giving between me
 
 ### **Verse 13**
 
-my bow I have set in the cloud, and it shall be for a sign of the covenant between me and between the land.
+@@my bow I have set in the cloud, and it shall be for a sign of the covenant between me and between the land.@@
 
 > **📝 NOTES**
 >
@@ -226,13 +226,13 @@ my bow I have set in the cloud, and it shall be for a sign of the covenant betwe
 
 ### **Verse 14**
 
-And it shall be when I bring clouds over the land, and the bow appears in the cloud,
+@@And it shall be when I bring clouds over the land, and the bow appears in the cloud,@@
 
 ---
 
 ### **Verse 15**
 
-and I will remember my covenant which *is* between me and between you and between every living being in all flesh, and the waters shall not again become a flood to destroy all flesh.
+@@and I will remember my covenant which *is* between me and between you and between every living being in all flesh, and the waters shall not again become a flood to destroy all flesh.@@
 
 > **📝 NOTES**
 >
@@ -243,7 +243,7 @@ and I will remember my covenant which *is* between me and between you and betwee
 
 ### **Verse 16**
 
-And the bow shall be in the cloud, and I will see it to remember the covenant of perpetuity between God and between every living being in all flesh which *is* upon the land."
+@@And the bow shall be in the cloud, and I will see it to remember the covenant of perpetuity between God and between every living being in all flesh which *is* upon the land."@@
 
 > **📝 NOTES**
 >
@@ -254,13 +254,13 @@ And the bow shall be in the cloud, and I will see it to remember the covenant of
 
 ### **Verse 17**
 
-And God said to Noah, "This *is* the sign of the covenant which I have established between me and between all flesh which *is* upon the land."
+And God said to Noah, @@"This *is* the sign of the covenant which I have established between me and between all flesh which *is* upon the land."@@
 
 ---
 
 ### **Verse 18**
 
-And the sons of Noah who went out from the tebah were Shem and Cham (Ham) and Yafet (Japheth); and Ham *is* the father of Kenaan (Canaan).
+And the sons of Noah who went out from the {t:tebah} were Shem and Cham (Ham) and Yafet (Japheth); and Ham *is* the father of Kenaan (Canaan).
 
 > **📝 NOTES**
 >

@@ -60,13 +60,13 @@
 
 ---
 
-¹E YHWH disse a Noach (Noé): "Vem, tu e toda a tua casa, à tebah, pois a ti vi *como* justo diante de mim nesta geração. ²De todo o gado limpo tomarás para ti sete sete, macho e sua fêmea, e do gado que não *é* limpo, dois, macho e sua fêmea. ³Também da ave dos céus, sete sete, macho e fêmea, para manter viva semente sobre a face de toda a terra. ⁴Pois em mais sete dias eu *estou* enviando chuva sobre a terra, quarenta dias e quarenta noites, e apagarei todo ser que se levanta, que fiz, de sobre a face do solo." ⁵E Noé fez conforme tudo o que YHWH lhe ordenou.
+¹E YHWH disse a Noach (Noé): @@"Vem, tu e toda a tua casa, à {t:tebah}, pois a ti vi *como* justo diante de mim nesta geração. ²De todo o gado limpo tomarás para ti sete sete, macho e sua fêmea, e do gado que não *é* limpo, dois, macho e sua fêmea. ³Também da ave dos céus, sete sete, macho e fêmea, para manter viva semente sobre a face de toda a terra. ⁴Pois em mais sete dias eu *estou* enviando chuva sobre a terra, quarenta dias e quarenta noites, e apagarei todo ser que se levanta, que fiz, de sobre a face do solo."@@ ⁵E Noé fez conforme tudo o que YHWH lhe ordenou.
 
-⁶E Noé *tinha* seiscentos anos, e o dilúvio de águas foi sobre a terra. ⁷E Noé entrou, e seus filhos e sua mulher e as mulheres de seus filhos com ele, na tebah, por causa das águas do dilúvio. ⁸Do gado limpo e do gado que não *é* limpo, e da ave, e *de* tudo o que se arrasta sobre o solo, ⁹dois dois vieram a Noé à tebah, macho e fêmea, como Deus ordenou a Noé. ¹⁰E foi aos sete dos dias, e as águas do dilúvio foram sobre a terra.
+⁶E Noé *tinha* seiscentos anos, e o dilúvio de águas foi sobre a terra. ⁷E Noé entrou, e seus filhos e sua mulher e as mulheres de seus filhos com ele, na {t:tebah}, por causa das águas do dilúvio. ⁸Do gado limpo e do gado que não *é* limpo, e da ave, e *de* tudo o que se arrasta sobre o solo, ⁹dois dois vieram a Noé à {t:tebah}, macho e fêmea, como Deus ordenou a Noé. ¹⁰E foi aos sete dos dias, e as águas do dilúvio foram sobre a terra.
 
-¹¹No ano seiscentos da vida de Noé, no segundo mês, no décimo sétimo dia do mês, neste dia todas as fontes do grande abismo se romperam, e as janelas dos céus se abriram. ¹²E a chuva foi sobre a terra quarenta dias e quarenta noites. ¹³Neste mesmo dia Noé entrou, e Shem e Cham (Cam) e Yafet (Jafé), os filhos de Noé, e a mulher de Noé e as três mulheres de seus filhos com eles, na tebah — ¹⁴eles, e todo vivente segundo a sua espécie, e todo gado segundo a sua espécie, e todo réptil que se arrasta sobre a terra segundo a sua espécie, e toda ave segundo a sua espécie, todo ser alado. ¹⁵E vieram a Noé à tebah, dois dois de toda carne em que *há* fôlego de vida. ¹⁶E os que vieram, macho e fêmea de toda carne vieram, como Deus lhe ordenou; e YHWH fechou *a porta* atrás dele.
+¹¹No ano seiscentos da vida de Noé, no segundo mês, no décimo sétimo dia do mês, neste dia todas as fontes do grande abismo se romperam, e as janelas dos céus se abriram. ¹²E a chuva foi sobre a terra quarenta dias e quarenta noites. ¹³Neste mesmo dia Noé entrou, e Shem e Cham (Cam) e Yafet (Jafé), os filhos de Noé, e a mulher de Noé e as três mulheres de seus filhos com eles, na {t:tebah} — ¹⁴eles, e todo vivente segundo a sua espécie, e todo gado segundo a sua espécie, e todo réptil que se arrasta sobre a terra segundo a sua espécie, e toda ave segundo a sua espécie, todo ser alado. ¹⁵E vieram a Noé à {t:tebah}, dois dois de toda carne em que *há* fôlego de vida. ¹⁶E os que vieram, macho e fêmea de toda carne vieram, como Deus lhe ordenou; e YHWH fechou *a porta* atrás dele.
 
-¹⁷E o dilúvio foi quarenta dias sobre a terra, e as águas aumentaram e levantaram a tebah, e ela se elevou de sobre a terra. ¹⁸E as águas prevaleceram e aumentaram muito sobre a terra, e a tebah ia sobre a face das águas. ¹⁹E as águas prevaleceram muito muito sobre a terra, e todos os montes altos que *estavam* debaixo de todos os céus foram cobertos. ²⁰Quinze côvados acima prevaleceram as águas, e os montes foram cobertos. ²¹E toda carne que se movia sobre a terra pereceu — a ave e o gado e o vivente e todo ser que fervilha, que fervilha sobre a terra, e todo humano. ²²Tudo o que *tinha* fôlego do vento/espírito de vida em suas narinas, de tudo o que *estava* sobre o chão seco, morreu. ²³E ele apagou todo ser que se levanta, que *estava* sobre a face do solo, desde o humano até o gado, até o réptil, até a ave dos céus, e foram apagados da terra; e restou somente Noé, e os que *estavam* com ele na tebah. ²⁴E as águas prevaleceram sobre a terra cento e cinquenta dias.
+¹⁷E o dilúvio foi quarenta dias sobre a terra, e as águas aumentaram e levantaram a {t:tebah}, e ela se elevou de sobre a terra. ¹⁸E as águas prevaleceram e aumentaram muito sobre a terra, e a {t:tebah} ia sobre a face das águas. ¹⁹E as águas prevaleceram muito muito sobre a terra, e todos os montes altos que *estavam* debaixo de todos os céus foram cobertos. ²⁰Quinze côvados acima prevaleceram as águas, e os montes foram cobertos. ²¹E toda carne que se movia sobre a terra pereceu — a ave e o gado e o vivente e todo ser que fervilha, que fervilha sobre a terra, e todo humano. ²²Tudo o que *tinha* fôlego do {a:vento/espírito} de vida em suas narinas, de tudo o que *estava* sobre o chão seco, morreu. ²³E ele apagou todo ser que se levanta, que *estava* sobre a face do solo, desde o humano até o gado, até o réptil, até a ave dos céus, e foram apagados da terra; e restou somente Noé, e os que *estavam* com ele na {t:tebah}. ²⁴E as águas prevaleceram sobre a terra cento e cinquenta dias.
 
 ---
 
@@ -74,7 +74,7 @@
 
 ### **Versículo 1**
 
-E YHWH disse a Noach (Noé): "Vem, tu e toda a tua casa, à tebah, pois a ti vi *como* justo diante de mim nesta geração.
+E YHWH disse a Noach (Noé): @@"Vem, tu e toda a tua casa, à {t:tebah}, pois a ti vi *como* justo diante de mim nesta geração.@@
 
 > **📝 NOTAS**
 >
@@ -88,7 +88,7 @@ E YHWH disse a Noach (Noé): "Vem, tu e toda a tua casa, à tebah, pois a ti vi 
 
 ### **Versículo 2**
 
-De todo o gado limpo tomarás para ti sete sete, macho e sua fêmea, e do gado que não *é* limpo, dois, macho e sua fêmea.
+@@De todo o gado limpo tomarás para ti sete sete, macho e sua fêmea, e do gado que não *é* limpo, dois, macho e sua fêmea.@@
 
 > **📝 NOTAS**
 >
@@ -103,7 +103,7 @@ De todo o gado limpo tomarás para ti sete sete, macho e sua fêmea, e do gado q
 
 ### **Versículo 3**
 
-Também da ave dos céus, sete sete, macho e fêmea, para manter viva semente sobre a face de toda a terra.
+@@Também da ave dos céus, sete sete, macho e fêmea, para manter viva semente sobre a face de toda a terra.@@
 
 > **📝 NOTAS**
 >
@@ -114,7 +114,7 @@ Também da ave dos céus, sete sete, macho e fêmea, para manter viva semente so
 
 ### **Versículo 4**
 
-Pois em mais sete dias eu *estou* enviando chuva sobre a terra, quarenta dias e quarenta noites, e apagarei todo ser que se levanta, que fiz, de sobre a face do solo."
+@@Pois em mais sete dias eu *estou* enviando chuva sobre a terra, quarenta dias e quarenta noites, e apagarei todo ser que se levanta, que fiz, de sobre a face do solo."@@
 
 > **📝 NOTAS**
 >
@@ -150,7 +150,7 @@ E Noé *tinha* seiscentos anos, e o dilúvio de águas foi sobre a terra.
 
 ### **Versículo 7**
 
-E Noé entrou, e seus filhos e sua mulher e as mulheres de seus filhos com ele, na tebah, por causa das águas do dilúvio.
+E Noé entrou, e seus filhos e sua mulher e as mulheres de seus filhos com ele, na {t:tebah}, por causa das águas do dilúvio.
 
 ---
 
@@ -162,7 +162,7 @@ Do gado limpo e do gado que não *é* limpo, e da ave, e *de* tudo o que se arra
 
 ### **Versículo 9**
 
-dois dois vieram a Noé à tebah, macho e fêmea, como Deus ordenou a Noé.
+dois dois vieram a Noé à {t:tebah}, macho e fêmea, como Deus ordenou a Noé.
 
 > **📝 NOTAS**
 >
@@ -204,7 +204,7 @@ E a chuva foi sobre a terra quarenta dias e quarenta noites.
 
 ### **Versículo 13**
 
-Neste mesmo dia Noé entrou, e Shem e Cham (Cam) e Yafet (Jafé), os filhos de Noé, e a mulher de Noé e as três mulheres de seus filhos com eles, na tebah —
+Neste mesmo dia Noé entrou, e Shem e Cham (Cam) e Yafet (Jafé), os filhos de Noé, e a mulher de Noé e as três mulheres de seus filhos com eles, na {t:tebah} —
 
 > **📝 NOTAS**
 >
@@ -226,7 +226,7 @@ eles, e todo vivente segundo a sua espécie, e todo gado segundo a sua espécie,
 
 ### **Versículo 15**
 
-E vieram a Noé à tebah, dois dois de toda carne em que *há* fôlego de vida.
+E vieram a Noé à {t:tebah}, dois dois de toda carne em que *há* fôlego de vida.
 
 ---
 
@@ -246,7 +246,7 @@ E os que vieram, macho e fêmea de toda carne vieram, como Deus lhe ordenou; e Y
 
 ### **Versículo 17**
 
-E o dilúvio foi quarenta dias sobre a terra, e as águas aumentaram e levantaram a tebah, e ela se elevou de sobre a terra.
+E o dilúvio foi quarenta dias sobre a terra, e as águas aumentaram e levantaram a {t:tebah}, e ela se elevou de sobre a terra.
 
 > **📝 NOTAS**
 >
@@ -257,7 +257,7 @@ E o dilúvio foi quarenta dias sobre a terra, e as águas aumentaram e levantara
 
 ### **Versículo 18**
 
-E as águas prevaleceram e aumentaram muito sobre a terra, e a tebah ia sobre a face das águas.
+E as águas prevaleceram e aumentaram muito sobre a terra, e a {t:tebah} ia sobre a face das águas.
 
 ---
 
@@ -291,7 +291,7 @@ E toda carne que se movia sobre a terra pereceu — a ave e o gado e o vivente e
 
 ### **Versículo 22**
 
-Tudo o que *tinha* fôlego do vento/espírito de vida em suas narinas, de tudo o que *estava* sobre o chão seco, morreu.
+Tudo o que *tinha* fôlego do {a:vento/espírito} de vida em suas narinas, de tudo o que *estava* sobre o chão seco, morreu.
 
 > **📝 NOTAS**
 >
@@ -305,7 +305,7 @@ Tudo o que *tinha* fôlego do vento/espírito de vida em suas narinas, de tudo o
 
 ### **Versículo 23**
 
-E ele apagou todo ser que se levanta, que *estava* sobre a face do solo, desde o humano até o gado, até o réptil, até a ave dos céus, e foram apagados da terra; e restou somente Noé, e os que *estavam* com ele na tebah.
+E ele apagou todo ser que se levanta, que *estava* sobre a face do solo, desde o humano até o gado, até o réptil, até a ave dos céus, e foram apagados da terra; e restou somente Noé, e os que *estavam* com ele na {t:tebah}.
 
 > **📝 NOTAS**
 >

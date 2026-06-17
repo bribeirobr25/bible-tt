@@ -60,11 +60,11 @@
 
 ---
 
-¹And YHWH said to Avram (Abram), "Go, yourself, from your land and from your birthplace and from your father's house, to the land which I will show you. ²And I will make you into a great nation, and I will bless you, and I will make your name great — and be a blessing. ³And I will bless those who bless you, and the one who curses you I will curse, and all the families of the ground will be blessed / will bless themselves in you."
+¹And YHWH said to Avram (Abram), @@"Go, yourself, from your land and from your birthplace and from your father's house, to the land which I will show you. ²And I will make you into a great nation, and I will bless you, and I will make your name great — and be a blessing. ³And I will bless those who bless you, and the one who curses you I will curse, and all the families of the ground {a:will be blessed / will bless themselves} in you."@@
 
 ⁴And Abram went as YHWH had spoken to him, and Lot went with him; and Abram *was* seventy-five years, a son of, when he went out from Charan. ⁵And Abram took Sarai his wife, and Lot the son of his brother, and all their possessions which they had gathered, and the persons which they had made in Charan, and they went out to go to the land of Kenaan (Canaan), and they came to the land of Canaan.
 
-⁶And Abram passed through the land to the place of Shekhem (Shechem), to the oak of Moreh; and the Kenaani *was* then in the land. ⁷And YHWH appeared to Abram and said, "To your seed I will give this land." And he built there an altar to YHWH who had appeared to him. ⁸And he moved from there to the hill country east of Beyt-El (Bethel) and pitched his tent — Bethel *was* to the west and Ai *was* to the east — and he built there an altar to YHWH and called on the name of YHWH. ⁹And Abram journeyed, going and journeying toward the Negev.
+⁶And Abram passed through the land to the place of Shekhem (Shechem), to the oak of Moreh; and the Kenaani *was* then in the land. ⁷And YHWH appeared to Abram and said, @@"To your seed I will give this land."@@ And he built there an altar to YHWH who had appeared to him. ⁸And he moved from there to the hill country east of Beyt-El (Bethel) and pitched his tent — Bethel *was* to the west and Ai *was* to the east — and he built there an altar to YHWH and called on the name of YHWH. ⁹And Abram journeyed, going and journeying toward the Negev.
 
 ¹⁰And there was a famine in the land, and Abram went down to Egypt to sojourn there, for the famine *was* heavy in the land. ¹¹And it was when he drew near to enter Egypt, and he said to Sarai his wife, "See, I know that you *are* a woman beautiful of appearance. ¹²And it will be when the Egyptians see you, and they will say, 'This *is* his wife,' and they will kill me, and you they will let live. ¹³Say, please, *that* you *are* my sister, so that it may go well for me on your account, and my life will live because of you."
 
@@ -78,7 +78,7 @@
 
 ### **Verse 1**
 
-And YHWH said to Avram (Abram), "Go, yourself, from your land and from your birthplace and from your father's house, to the land which I will show you.
+And YHWH said to Avram (Abram), @@"Go, yourself, from your land and from your birthplace and from your father's house, to the land which I will show you.@@
 
 > **📝 NOTES**
 >
@@ -95,7 +95,7 @@ And YHWH said to Avram (Abram), "Go, yourself, from your land and from your birt
 
 ### **Verse 2**
 
-And I will make you into a great nation, and I will bless you, and I will make your name great — and be a blessing.
+@@And I will make you into a great nation, and I will bless you, and I will make your name great — and be a blessing.@@
 
 > **📝 NOTES**
 >
@@ -109,7 +109,7 @@ And I will make you into a great nation, and I will bless you, and I will make y
 
 ### **Verse 3**
 
-And I will bless those who bless you, and the one who curses you I will curse, and all the families of the ground will be blessed / will bless themselves in you."
+@@And I will bless those who bless you, and the one who curses you I will curse, and all the families of the ground {a:will be blessed / will bless themselves} in you."@@
 
 > **📝 NOTES**
 >
@@ -171,7 +171,7 @@ And Abram passed through the land to the place of Shekhem (Shechem), to the oak 
 
 ### **Verse 7**
 
-And YHWH appeared to Abram and said, "To your seed I will give this land." And he built there an altar to YHWH who had appeared to him.
+And YHWH appeared to Abram and said, @@"To your seed I will give this land."@@ And he built there an altar to YHWH who had appeared to him.
 
 > **📝 NOTES**
 >

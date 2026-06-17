@@ -62,7 +62,7 @@
 
 ¹And all the land was *of* one lip and one *set of* words. ²And it was as they journeyed from the east, they found a valley in the land of Shinar, and they settled there. ³And they said, each to his neighbor, "Come, let us make bricks and burn *them* thoroughly." And the brick was to them for stone, and the bitumen was to them for mortar. ⁴And they said, "Come, let us build for ourselves a city and a tower, and its top in the skies, and let us make for ourselves a name, lest we be scattered over the face of all the land."
 
-⁵And YHWH came down to see the city and the tower which the sons of the human had built. ⁶And YHWH said, "See, *they are* one people and one lip to all of them, and this *is what* they begin to do; and now nothing will be withheld from them, all which they plan to do. ⁷Come, let us go down and let us confuse there their lip, so that they will not hear, each the lip of his neighbor." ⁸And YHWH scattered them from there over the face of all the land, and they ceased building the city. ⁹Therefore its name was called Bavel, for there YHWH confused the lip of all the land, and from there YHWH scattered them over the face of all the land.
+⁵And YHWH came down to see the city and the tower which the sons of the human had built. ⁶And YHWH said, @@"See, *they are* one people and one lip to all of them, and this *is what* they begin to do; and now nothing will be withheld from them, all which they plan to do. ⁷Come, let us go down and let us confuse there their lip, so that they will not hear, each the lip of his neighbor."@@ ⁸And YHWH scattered them from there over the face of all the land, and they ceased building the city. ⁹Therefore its name was called Bavel, for there YHWH confused the lip of all the land, and from there YHWH scattered them over the face of all the land.
 
 ¹⁰These *are* the generations of Shem. Shem was one hundred years old, and he begot Arpakhshad, two years after the flood. ¹¹And Shem lived after he begot Arpakhshad five hundred years, and he begot sons and daughters.
 
@@ -175,7 +175,7 @@ And YHWH came down to see the city and the tower which the sons of the human had
 
 ### **Verse 6**
 
-And YHWH said, "See, *they are* one people and one lip to all of them, and this *is what* they begin to do; and now nothing will be withheld from them, all which they plan to do.
+And YHWH said, @@"See, *they are* one people and one lip to all of them, and this *is what* they begin to do; and now nothing will be withheld from them, all which they plan to do.@@
 
 > **📝 NOTES**
 >
@@ -189,7 +189,7 @@ And YHWH said, "See, *they are* one people and one lip to all of them, and this 
 
 ### **Verse 7**
 
-Come, let us go down and let us confuse there their lip, so that they will not hear, each the lip of his neighbor."
+@@Come, let us go down and let us confuse there their lip, so that they will not hear, each the lip of his neighbor."@@
 
 > **📝 NOTES**
 >

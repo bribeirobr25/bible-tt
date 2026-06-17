@@ -60,15 +60,15 @@
 
 ---
 
-¹And God remembered Noach (Noah) and all the living thing and all the livestock which *were* with him in the tebah, and God caused a wind/spirit to pass over the land, and the waters subsided. ²And the fountains of the deep and the windows of the sky were stopped, and the rain from the sky was restrained. ³And the waters returned from upon the land, going and returning, and the waters diminished at the end of one hundred and fifty days. ⁴And the tebah rested in the seventh month, on the seventeenth day of the month, upon the mountains of Ararat. ⁵And the waters were going and diminishing until the tenth month; in the tenth *month*, on the first of the month, the tops of the mountains appeared.
+¹And God remembered Noach (Noah) and all the living thing and all the livestock which *were* with him in the {t:tebah}, and God caused a {a:wind/spirit} to pass over the land, and the waters subsided. ²And the fountains of the deep and the windows of the sky were stopped, and the rain from the sky was restrained. ³And the waters returned from upon the land, going and returning, and the waters diminished at the end of one hundred and fifty days. ⁴And the {t:tebah} rested in the seventh month, on the seventeenth day of the month, upon the mountains of Ararat. ⁵And the waters were going and diminishing until the tenth month; in the tenth *month*, on the first of the month, the tops of the mountains appeared.
 
-⁶And it was at the end of forty days, and Noah opened the window of the tebah which he had made. ⁷And he sent out the raven, and it went out, going out and returning, until the waters dried from upon the land. ⁸And he sent out the dove from with him, to see whether the waters had eased from upon the face of the ground. ⁹And the dove did not find a resting place for the sole of her foot, and she returned to him to the tebah, for waters *were* on the face of all the land; and he put out his hand and took her and brought her to him into the tebah. ¹⁰And he waited yet seven more days, and again he sent out the dove from the tebah. ¹¹And the dove came to him at evening time, and see, a freshly plucked olive leaf *was* in her mouth; and Noah knew that the waters had eased from upon the land. ¹²And he waited yet seven more days, and he sent out the dove, and she did not return to him again.
+⁶And it was at the end of forty days, and Noah opened the window of the {t:tebah} which he had made. ⁷And he sent out the raven, and it went out, going out and returning, until the waters dried from upon the land. ⁸And he sent out the dove from with him, to see whether the waters had eased from upon the face of the ground. ⁹And the dove did not find a resting place for the sole of her foot, and she returned to him to the {t:tebah}, for waters *were* on the face of all the land; and he put out his hand and took her and brought her to him into the {t:tebah}. ¹⁰And he waited yet seven more days, and again he sent out the dove from the {t:tebah}. ¹¹And the dove came to him at evening time, and see, a freshly plucked olive leaf *was* in her mouth; and Noah knew that the waters had eased from upon the land. ¹²And he waited yet seven more days, and he sent out the dove, and she did not return to him again.
 
-¹³And it was in the six hundred and first year, in the first *month*, on the first of the month, the waters dried from upon the land; and Noah removed the covering of the tebah and looked, and see, the face of the ground had dried. ¹⁴And in the second month, on the twenty-seventh day of the month, the land was dry.
+¹³And it was in the six hundred and first year, in the first *month*, on the first of the month, the waters dried from upon the land; and Noah removed the covering of the {t:tebah} and looked, and see, the face of the ground had dried. ¹⁴And in the second month, on the twenty-seventh day of the month, the land was dry.
 
-¹⁵And God spoke to Noah, saying, ¹⁶"Go out from the tebah, you and your woman and your sons and the women of your sons with you. ¹⁷Every living thing which *is* with you from all flesh — the bird and the livestock and every creeping thing that creeps upon the land — bring out with you, and they shall swarm on the land, and be fruitful and multiply upon the land." ¹⁸And Noah went out, and his sons and his woman and the women of his sons with him. ¹⁹Every living thing, every creeping thing and every bird, everything that moves upon the land, to their families they went out from the tebah.
+¹⁵And God spoke to Noah, saying, ¹⁶@@"Go out from the {t:tebah}, you and your woman and your sons and the women of your sons with you. ¹⁷Every living thing which *is* with you from all flesh — the bird and the livestock and every creeping thing that creeps upon the land — bring out with you, and they shall swarm on the land, and be fruitful and multiply upon the land."@@ ¹⁸And Noah went out, and his sons and his woman and the women of his sons with him. ¹⁹Every living thing, every creeping thing and every bird, everything that moves upon the land, to their families they went out from the {t:tebah}.
 
-²⁰And Noah built an altar to YHWH, and he took from every clean livestock and from every clean bird, and he offered up burnt offerings on the altar. ²¹And YHWH smelled the pleasing aroma, and YHWH said in his heart, "I will not again curse the ground on account of the human, for the inclination of the heart of the human *is* evil from his youth; and I will not again strike every living thing as I have done. ²²While yet all the days of the land, seed-time and harvest, and cold and heat, and summer and winter, and day and night shall not cease."
+²⁰And Noah built an altar to YHWH, and he took from every clean livestock and from every clean bird, and he offered up burnt offerings on the altar. ²¹And YHWH smelled the pleasing aroma, and YHWH said in his heart, @@"I will not again curse the ground on account of the human, for the inclination of the heart of the human *is* evil from his youth; and I will not again strike every living thing as I have done. ²²While yet all the days of the land, seed-time and harvest, and cold and heat, and summer and winter, and day and night shall not cease."@@
 
 ---
 
@@ -76,7 +76,7 @@
 
 ### **Verse 1**
 
-And God remembered Noach (Noah) and all the living thing and all the livestock which *were* with him in the tebah, and God caused a wind/spirit to pass over the land, and the waters subsided.
+And God remembered Noach (Noah) and all the living thing and all the livestock which *were* with him in the {t:tebah}, and God caused a {a:wind/spirit} to pass over the land, and the waters subsided.
 
 > **📝 NOTES**
 >
@@ -113,7 +113,7 @@ And the waters returned from upon the land, going and returning, and the waters 
 
 ### **Verse 4**
 
-And the tebah rested in the seventh month, on the seventeenth day of the month, upon the mountains of Ararat.
+And the {t:tebah} rested in the seventh month, on the seventeenth day of the month, upon the mountains of Ararat.
 
 > **📝 NOTES**
 >
@@ -138,7 +138,7 @@ And the waters were going and diminishing until the tenth month; in the tenth *m
 
 ### **Verse 6**
 
-And it was at the end of forty days, and Noah opened the window of the tebah which he had made.
+And it was at the end of forty days, and Noah opened the window of the {t:tebah} which he had made.
 
 > **📝 NOTES**
 >
@@ -171,7 +171,7 @@ And he sent out the dove from with him, to see whether the waters had eased from
 
 ### **Verse 9**
 
-And the dove did not find a resting place for the sole of her foot, and she returned to him to the tebah, for waters *were* on the face of all the land; and he put out his hand and took her and brought her to him into the tebah.
+And the dove did not find a resting place for the sole of her foot, and she returned to him to the {t:tebah}, for waters *were* on the face of all the land; and he put out his hand and took her and brought her to him into the {t:tebah}.
 
 > **📝 NOTES**
 >
@@ -182,7 +182,7 @@ And the dove did not find a resting place for the sole of her foot, and she retu
 
 ### **Verse 10**
 
-And he waited yet seven more days, and again he sent out the dove from the tebah.
+And he waited yet seven more days, and again he sent out the dove from the {t:tebah}.
 
 ---
 
@@ -210,7 +210,7 @@ And he waited yet seven more days, and he sent out the dove, and she did not ret
 
 ### **Verse 13**
 
-And it was in the six hundred and first year, in the first *month*, on the first of the month, the waters dried from upon the land; and Noah removed the covering of the tebah and looked, and see, the face of the ground had dried.
+And it was in the six hundred and first year, in the first *month*, on the first of the month, the waters dried from upon the land; and Noah removed the covering of the {t:tebah} and looked, and see, the face of the ground had dried.
 
 > **📝 NOTES**
 >
@@ -238,7 +238,7 @@ And God spoke to Noah, saying,
 
 ### **Verse 16**
 
-"Go out from the tebah, you and your woman and your sons and the women of your sons with you.
+@@"Go out from the {t:tebah}, you and your woman and your sons and the women of your sons with you.@@
 
 > **📝 NOTES**
 >
@@ -249,7 +249,7 @@ And God spoke to Noah, saying,
 
 ### **Verse 17**
 
-Every living thing which *is* with you from all flesh — the bird and the livestock and every creeping thing that creeps upon the land — bring out with you, and they shall swarm on the land, and be fruitful and multiply upon the land."
+@@Every living thing which *is* with you from all flesh — the bird and the livestock and every creeping thing that creeps upon the land — bring out with you, and they shall swarm on the land, and be fruitful and multiply upon the land."@@
 
 > **📝 NOTES**
 >
@@ -266,7 +266,7 @@ And Noah went out, and his sons and his woman and the women of his sons with him
 
 ### **Verse 19**
 
-Every living thing, every creeping thing and every bird, everything that moves upon the land, to their families they went out from the tebah.
+Every living thing, every creeping thing and every bird, everything that moves upon the land, to their families they went out from the {t:tebah}.
 
 > **📝 NOTES**
 >
@@ -291,7 +291,7 @@ And Noah built an altar to YHWH, and he took from every clean livestock and from
 
 ### **Verse 21**
 
-And YHWH smelled the pleasing aroma, and YHWH said in his heart, "I will not again curse the ground on account of the human, for the inclination of the heart of the human *is* evil from his youth; and I will not again strike every living thing as I have done.
+And YHWH smelled the pleasing aroma, and YHWH said in his heart, @@"I will not again curse the ground on account of the human, for the inclination of the heart of the human *is* evil from his youth; and I will not again strike every living thing as I have done.@@
 
 > **📝 NOTES**
 >
@@ -310,7 +310,7 @@ And YHWH smelled the pleasing aroma, and YHWH said in his heart, "I will not aga
 
 ### **Verse 22**
 
-While yet all the days of the land, seed-time and harvest, and cold and heat, and summer and winter, and day and night shall not cease."
+@@While yet all the days of the land, seed-time and harvest, and cold and heat, and summer and winter, and day and night shall not cease."@@
 
 > **📝 NOTES**
 >
