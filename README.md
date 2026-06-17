@@ -17,7 +17,7 @@ pnpm install
 pnpm dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) in your browser.
+Open [http://localhost:3001](http://localhost:3001) in your browser. (The dev server runs on port 3001 by project convention.)
 
 ## Three ways to read
 
@@ -79,7 +79,7 @@ Exceptions: YHWH/JHWH (always transliterated — Rule 25), Yehudim (always trans
 
 ## Translation methodology
 
-Governed by a [29-rule system](docs/rules/RULES-CORE.md) (v3.3) with a Prime Directive:
+Governed by a [30-rule system](docs/rules/RULES-CORE.md) (v3.4) with a Prime Directive:
 
 1. Do not simplify what the source text keeps complex.
 2. Do not clarify what the source text leaves ambiguous.
@@ -91,6 +91,7 @@ Key decisions:
 - **Ambiguity preserved** via slash notation (*wind/spirit*, *side/rib*, *desire/turning*) — Rule 2
 - **No imported theology** (*nachash* = serpent, not Satan; no "Fall" vocabulary) — Rule 3
 - **Source structure visible** (*"dying you shall die"*, not "you shall surely die") — Rule 5
+- **Reader-facing text markers** — words added for grammar (italics), transliterated terms, preserved-ambiguity slashes, and direct divine speech are each marked with their own colour so the reader sees the text's seams — Rules 11/4/2/30
 - **Contextual enrichment governed** by Rule 29 — companion files only, labeled by type and certainty
 - **Restraint matters both ways** — anti-traditional reflex is as dishonest as traditional smoothing (Rule 3 corollary)
 - **Greek Article System** — article presence/absence evaluated per Greek syntax, not mechanically mapped (GS supplement)
@@ -109,10 +110,10 @@ All decisions logged in the editorial logs ([genesis.md](docs/editorial-log/gene
 | Icons | Lucide (1.5px stroke) |
 | i18n | next-intl (URL-based routing) |
 | Content | Markdown parsed at build time (5 parser files; 6 parse functions) |
-| Testing | Vitest (841 tests across 9 files) |
+| Testing | Vitest (852 tests across 9 files) |
 | Linting | Biome |
 
-> **Project state (2026-06-12):** Genesis 1–12, John 1–3, Matthew 1–3 in EN/PT-BR/DE/ES — chapters + INTRODUCTION + PEOPLE + Book Context per book, study companions per chapter. All content carries `provisional` status pending reviewer sign-off (Rule 28). The web app is complete through the UX/Structure program (SEO baseline; a derived structured layer guarded by a zero-loss conservation gate; the three-door IA; content QA; UX finish) and the §I "World at the Time" **Option C** restructure (collapsible dating scenarios with per-category claim/confidence labels across all of Genesis). Ruleset **v3.3** (+ v3.3.1 / v3.3.2 emergency amendments). 841 tests across 9 files; `build`/`lint`/`content:lint` clean. **Largest remaining work:** Genesis 13–50 (Phase 12). Full completed-work ledger → `docs/audit/EXECUTION_HISTORY.md`; open items → `docs/audit/PENDING.md`.
+> **Project state (2026-06-17):** Genesis 1–12, John 1–3, Matthew 1–3 in EN/PT-BR/DE/ES — chapters + INTRODUCTION + PEOPLE + Book Context per book, study companions per chapter. All content carries `provisional` status pending reviewer sign-off (Rule 28). The web app is complete through the UX/Structure program (SEO baseline; a derived structured layer guarded by a zero-loss conservation gate; the three-door IA; content QA; UX finish) and the §I "World at the Time" **Option C** restructure. The "Light & Darkness" redesign + the reader-facing text-highlight markers (Rules 11/4/2/30) are implemented on branch `redesign-migration`. Ruleset **v3.4** (30 rules). 852 tests across 9 files; `build`/`lint`/`content:lint` clean. **Largest remaining work:** Genesis 13–50. Full completed-work ledger → `docs/audit/EXECUTION_HISTORY.md`; open items → `docs/audit/PENDING.md`.
 
 ## Project structure
 
@@ -124,7 +125,7 @@ bible-tt/
 │   ├── de/{genesis,john,matthew}/
 │   └── es/{genesis,john,matthew}/
 ├── docs/
-│   ├── rules/               # RULES-CORE.md (v3.3) + RULES-HB.md + RULES-GS.md (29 rules)
+│   ├── rules/               # RULES-CORE.md (v3.4) + RULES-HB.md + RULES-GS.md (30 rules)
 │   ├── architecture/        # STANDARDS.md (DDD, code standards)
 │   ├── design/              # TT-DESIGN-SYSTEM.md (UI/UX)
 │   ├── editorial-log/       # Decision logs (genesis, john, matthew, transliteration-decisions)
@@ -143,11 +144,14 @@ bible-tt/
 
 - **UI/UX:** [docs/design/TT-DESIGN-SYSTEM.md](docs/design/TT-DESIGN-SYSTEM.md) — typography, color, accessibility, anti-slop
 - **Architecture:** [docs/architecture/STANDARDS.md](docs/architecture/STANDARDS.md) — DDD, TypeScript, testing, dependencies
-- **Translation:** [docs/rules/RULES-CORE.md](docs/rules/RULES-CORE.md) + [RULES-HB.md](docs/rules/RULES-HB.md) + [RULES-GS.md](docs/rules/RULES-GS.md) — 29-rule governance system (v3.3)
+- **Translation:** [docs/rules/RULES-CORE.md](docs/rules/RULES-CORE.md) + [RULES-HB.md](docs/rules/RULES-HB.md) + [RULES-GS.md](docs/rules/RULES-GS.md) — 30-rule governance system (v3.4)
+- **Development workflow:** [CONTRIBUTING.md](CONTRIBUTING.md) — setup, the definition-of-done gate, branch/commit conventions, and the content-authoring + planning loops
 
 ## Contributing
 
-The translation is governed by the rules in `docs/rules/`. All chapter files carry `provisional` status pending reviewer sign-off (Rule 28). The project needs:
+For development setup, the definition-of-done gate, branch/commit conventions, and the content-authoring + planning workflows, see **[CONTRIBUTING.md](CONTRIBUTING.md)**.
+
+The translation itself is governed by the rules in `docs/rules/`. All chapter files carry `provisional` status pending reviewer sign-off (Rule 28). The project needs:
 
 - **Hebraist** — reading proficiency in Biblical Hebrew; access to BHS/BHQ apparatus
 - **Hellenist** — reading proficiency in Koine Greek; access to NA28 apparatus

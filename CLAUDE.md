@@ -8,11 +8,12 @@ The Transparent Translation (TT) — a multilingual Bible translation project wi
 
 - **Scope:** Genesis 1–12, John 1–3, Matthew 1–3 — all four locales (EN, PT-BR, DE, ES); each book has chapters + INTRODUCTION + PEOPLE + study companions (CONTEXT, and PROPHECY where warranted).
 - **Rulesets:** RULES-CORE **v3.4** · RULES-HB **v3.3.1** · RULES-GS **v3.2** (lock). 30 rules total. (v3.4 adds Rule 30 — divine-speech marking — + the Text-Highlight Markers convention: `*added*`/`{t:…}`/`{a:…}`/`@@…@@`.)
-- **Tests:** 841 passing (`pnpm test`); `pnpm build`, `pnpm lint`, `pnpm content:lint` all clean.
+- **Tests:** 852 passing (`pnpm test`); `pnpm build`, `pnpm lint`, `pnpm content:lint` all clean.
 - **UX/Structure program (Phases 1–5, committed 2026-06):** SEO baseline (Phase 1); derived `StructuredUnit` layer + stable IDs guarded by the conservation gate (`__tests__/conservation.test.ts` — proves zero loss in the *parser→structured derivation*; chapter-completeness + inventory guards backstop raw-markdown coverage; markdown stays source of truth) (Phase 2); **3-door IA — Read · Notes · Deeper** (`ChapterShell`/`DoorNav`/`NotesView`/`DeeperView`; `/context`→`/background`; verse `#v{n}` anchors) (Phase 3); content-QA + chapter-completeness guard (Phase 4); UX finish — teal/petrol accent `#006475`, civilizational landing, `/start` reading-plan, book "tight cards" (`<!-- CARD -->`→`BookCard`), and **chapter-overview de-jargon across all locales (Pattern C complete 2026-06-10)** (Phase 5). §I "World at the Time": two-level parser/UI + inline-`**Source:**` lift, then **§I Option C — per-category dating-scenario labels across all of Genesis 1–12 (2026-06-12, provisional)** + §I section-intro recovery. Per-item detail → `docs/audit/EXECUTION_HISTORY.md`.
 - **Next up:** **Genesis 13–50 (Phase 12)** — the largest remaining work; its §I now follows the established Option C structure (collapsible dating scenarios with per-category `**[claim — confidence]**` labels). Then Phase 6 (search) and the cross-book canonical PEOPLE source-merge. All 2026-06 content ships `provisional` pending **Rule-28 sign-off** (the §I per-category confidence labels are the specific source-scholar review item). See `docs/audit/PENDING.md`.
 
 Pointers (do not duplicate their content here):
+- Development workflow (setup on **port 3001**, definition-of-done gate, branch/commit conventions, content + planning loops) → `CONTRIBUTING.md`
 - Execution history (completed phases/bundles + ruleset trail) → `docs/audit/EXECUTION_HISTORY.md`
 - Open items → `docs/audit/PENDING.md` (single forward-looking tracker)
 - Per-decision rationale → `docs/editorial-log/` (genesis.md, john.md, matthew.md, transliteration-decisions.md)
@@ -64,7 +65,7 @@ Old URLs (`/{locale}/{book}/{n}`) redirect to `/chapter/{n}`; `/{book}/context` 
 
 ## Commands
 
-- `pnpm dev` — dev server with Turbopack (http://localhost:3000)
+- `pnpm dev` — dev server with Turbopack (http://localhost:3001 — port fixed in `package.json`)
 - `pnpm build` — production build
 - `pnpm test` — all unit tests (9 files: chapter, enrichment, people, prophecy, introduction, book-context parsers + render-markdown-safe + book-context-real + conservation [Phase 2 structured-layer gate])
 - `pnpm lint` — Biome linter

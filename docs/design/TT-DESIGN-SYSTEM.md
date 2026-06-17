@@ -121,6 +121,19 @@ All OKLCH tokens in `src/app/globals.css`. **Hardcoded hex forbidden** (one sanc
 | Grammatical | `Code2` | `oklch(0.502 0.069 236)` slate blue | light tint |
 | Theological | `Lightbulb` | `oklch(0.643 0.110 80)` amber | light tint |
 
+### Reader-facing text markers (RULES-CORE Rule 30)
+Inline markers authored in the content and converted at render time (`render-markdown-safe.ts` → `applyHighlightMarkers()`). Each gives the reader a different "seam" colour inside the reading text — they are **defined here for colour only**; the authoring syntax and editorial scope live in RULES-CORE Rule 30 (§Text-Highlight Markers).
+
+| Marker | Render | Colour | Meaning |
+|--------|--------|--------|---------|
+| `*added*` | `em` (`.reading-text em`, `.tt-verse .vtext em`) | grammatical slate-blue (`--color-note-grammatical`) | word added for grammar — Rule 11 |
+| `{t:term}` | `span.term` | accent / petrol (`--color-accent`), bold | transliterated source term — Rule 4 |
+| `{a:word/word}` | `span.ambig` | body colour, bold (no tint) | preserved ambiguity — Rule 2 |
+| `@@…@@` | `span.divine` | red (`--color-note-critical`), **not** bold | direct divine speech — Rule 30 |
+
+- Markers nest; colour only — never the sole signal (the slash, the italic, and the term are themselves visible).
+- Do not introduce new marker colours without a Rule-30 update; keep these four in lockstep with `globals.css`.
+
 ### Rules
 - OKLCH tokens only — **hardcoded hex forbidden** (sole exception: `og.tsx` satori mirrors).
 - Pure black/white still banned; the **near-black dark duotone surface is a logged exception** (§12),
@@ -273,6 +286,15 @@ Verify 2–3 craft details per major page:
 ```
 border-l-3 + type color/bg + Lucide icon + uppercase label + content
 ```
+
+### Reader text markers (in-prose)
+```
+.reading-text em / .tt-verse .vtext em  → grammatical slate-blue (added words)
+span.term   → accent bold (transliterated term)
+span.ambig  → body colour bold (preserved ambiguity)
+span.divine → note-critical red, no bold (direct divine speech)
+```
+Colours mirror §5 "Reader-facing text markers"; scope is RULES-CORE Rule 30.
 
 ### Button (primary)
 ```
