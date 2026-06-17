@@ -71,7 +71,7 @@ State changes flow through **events** (URL changes, user interactions, scroll po
 ### Rules
 - **No global state library** (no Redux, Zustand, Jotai). The app is static content — URL is the state.
 - **URL as truth** for navigation state (locale, book, chapter). Client-side state only for ephemeral UI (view mode, scroll position).
-- **Future analytics events** (when implemented) use the taxonomy defined in PLAN.md: `CHAPTER_VIEWED`, `VIEW_MODE_SWITCHED`, `LANGUAGE_CHANGED`, `NOTE_EXPANDED`, `GLOSSARY_OPENED`.
+- **Future analytics events** (when implemented) use the taxonomy in §10 (Product KPIs & Analytics): `CHAPTER_VIEWED`, `VIEW_MODE_SWITCHED`, `LANGUAGE_CHANGED`, `NOTE_EXPANDED`, `GLOSSARY_OPENED`.
 
 ### Anti-pattern: don't
 - Don't put view-mode in URL query params (it's ephemeral; losing it on page reload is fine)
@@ -276,9 +276,9 @@ Errors are expected, not exceptional. Handle them gracefully at every boundary.
 - **No silent failures** — if content is missing, the UI either shows a 404 or shows an empty state with explanation.
 - **Build-time validation** — `pnpm test` validates all chapter files parse correctly. CI should fail if a chapter file is malformed.
 
-### Future (Phase 7+)
+### Future (deferred)
 - `error.tsx` boundary files per route segment for runtime errors
-- Sentry integration if error patterns warrant it (decision deferred per PLAN.md)
+- Sentry integration if error patterns warrant it (decision deferred — see `docs/audit/PENDING.md`)
 
 ---
 
@@ -299,7 +299,7 @@ Minimize attack surface. A static content site has a small surface — keep it t
 | Audit trail | **Editorial log** | All content decisions logged in `docs/editorial-log/genesis.md` with timestamps and provenance |
 
 ### Rules
-- **No user input at current scope.** If forms/auth are added (Phase 7+), validate all input server-side.
+- **No user input at current scope.** If forms/auth are added (future scope), validate all input server-side.
 - **Review `dangerouslySetInnerHTML` carefully.** Currently safe because content is from committed markdown files, not user input. If content source changes, sanitize with DOMPurify or similar.
 - **Minimize dependencies.** Every new `pnpm add` increases attack surface. Justify each addition.
 - **Add CSP headers before production deployment:**
@@ -357,7 +357,7 @@ Static-first architecture means performance is a built-in property, not an after
 ### Principle
 Track what matters for product decisions, not everything that's technically measurable. Start light; add granularity only when questions demand it.
 
-### Planned taxonomy (from PLAN.md)
+### Planned taxonomy
 | Event | Data | Purpose |
 |---|---|---|
 | `CHAPTER_VIEWED` | locale, book, chapter, viewMode | Which chapters are read, in which mode |
@@ -366,7 +366,7 @@ Track what matters for product decisions, not everything that's technically meas
 | `NOTE_EXPANDED` | locale, book, chapter, verse, noteType | Which study notes readers engage with |
 | `GLOSSARY_OPENED` | locale, book, chapter | Whether glossary is used |
 
-### Implementation (Phase 5 per PLAN.md)
+### Implementation (planned — see `docs/audit/PENDING.md`)
 - Vercel Analytics (free tier, privacy-respecting) for page views
 - Vercel Speed Insights (free tier) for performance monitoring
 - Custom events via `track()` from `@vercel/analytics` for the 5 domain events above
@@ -375,7 +375,7 @@ Track what matters for product decisions, not everything that's technically meas
 ### Rules
 - **Don't track until you have a question.** "How many people read Gen 3 in Portuguese?" is a question. "Let's track everything" is not.
 - **Privacy-first.** Vercel Analytics is privacy-respecting by default (no cookies, no PII). Keep it that way.
-- **Sentry evaluation deferred** to Phase 5 (per PLAN.md v1.1) — only add if actual error patterns warrant it.
+- **Sentry evaluation deferred** — only add if actual error patterns warrant it (tracked in `docs/audit/PENDING.md`).
 
 ---
 
@@ -392,7 +392,7 @@ A static site has almost zero concurrency concerns. Design for the future, but d
 | URL-based navigation | None | Next.js handles routing atomically |
 | File system reads | None | Read-only; no writes during request handling |
 
-### Future concerns (Phase 7+)
+### Future concerns (future scope)
 | Concern | When | Mitigation |
 |---|---|---|
 | Database connection pooling | When user features added | Use Neon/Turso connection pooling; single connection per request |
@@ -416,11 +416,11 @@ Monitor what tells you if the system is healthy. For a static site, this is most
 |---|---|---|
 | Build health | `pnpm test` (117 parser tests) + `pnpm build` | ✅ Active |
 | Content integrity | Parser validates all chapter files at test time | ✅ Active |
-| Runtime errors | Not yet monitored | Deferred to Phase 5 |
-| Performance | Not yet monitored | Deferred to Phase 5 |
+| Runtime errors | Not yet monitored | Deferred |
+| Performance | Not yet monitored | Deferred |
 | Uptime | Not yet monitored | Vercel provides basic uptime for deployed sites |
 
-### Phase 5 plan (from PLAN.md)
+### Planned (see `docs/audit/PENDING.md`)
 - **Vercel Analytics** — page views, traffic patterns (free)
 - **Vercel Speed Insights** — Core Web Vitals monitoring (free)
 - **Sentry** — evaluated against actual error patterns before adoption. Only added if: client-side JS errors in study mode, build-time parser failures, or cross-browser rendering issues need structured alerting. Content-aware tags if adopted:
@@ -474,11 +474,14 @@ Use TypeScript's type system to prevent errors at compile time, not just at runt
 Test the parser (the single point of fragility); trust the framework for the rest.
 
 ### Current test coverage
-| Area | Tests | Runner | What's tested |
-|---|---|---|---|
-| Chapter parser | 108 tests (9 files × 12 assertions) | Vitest | Verse count, note types, glossary, continuous reading, metadata |
-| Enrichment parser | 9 tests (1 file × 9 assertions) | Vitest | Section extraction, label parsing, disclaimer, sources |
-| Build | Implicit via `pnpm build` | Next.js | TypeScript compilation, page generation, static params |
+~852 tests across 9 Vitest files (run `pnpm test` for the live count and per-file breakdown).
+
+| Area | Runner | What's tested |
+|---|---|---|
+| Content parsers (chapter/markdown, enrichment, people, prophecy, introduction, book-context) | Vitest | Verses, note types, glossary, continuous reading, metadata; section/label/disclaimer/source extraction; person fields + genealogy tables + sources; prophecy entries; introduction sections; cross-chapter motifs |
+| Highlight-marker renderer (`render-markdown-safe`) | Vitest | `{t:…}`/`{a:…}`/`@@…@@` → styled spans, escaping, nesting (see RULES-CORE Rule 30 + §Text-Highlight Markers) |
+| Conservation gate (`conservation.test.ts`) | Vitest | Proves the parser→structured-layer derivation loses nothing (per-kind count + content multisets); chapter-completeness + inventory backstops |
+| Build | Next.js (implicit via `pnpm build`) | TypeScript compilation, page generation, static params |
 
 ### What NOT to test
 - **Don't unit-test React components** at current scope. The ROI is low for a static content site. Visual validation via dev server is sufficient.
@@ -509,11 +512,11 @@ Every dependency is a liability. Minimize, justify, and audit.
 |---|---|---|
 | `next` | Framework | Core — non-negotiable |
 | `react`, `react-dom` | UI library | Core — non-negotiable |
-| `next-intl` | i18n routing + messages | Required for trilingual support |
+| `next-intl` | i18n routing + messages | Required for quadrilingual support (EN/PT-BR/DE/ES) |
 | `gray-matter` | YAML front-matter parsing | Unused currently (chapter files don't have YAML front matter) — **candidate for removal** |
 | `clsx`, `tailwind-merge` | CSS class merging | Used in `cn()` utility |
 | `lucide-react` | Icons | Design system requirement (1.5px stroke) |
-| `framer-motion` | Animations | Installed but **currently unused** — evaluate at Phase 5 or remove |
+| `framer-motion` | Animations | Installed but **currently unused** — evaluate at the next dependency review or remove |
 | `@swc/helpers` | SWC runtime | Required by Next.js toolchain |
 
 ### Dev dependencies (9)
