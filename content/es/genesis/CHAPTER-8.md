@@ -27,17 +27,15 @@
 
 ## GUIA DE LECTURA
 
-**📖 Texto Principal:** Traducción primaria — legible pero fiel a la estructura hebrea
-**📝 Notas:** Rasgos hebreos esenciales inmediatamente debajo de cada versículo
-***Cursiva:*** Palabras anadidas para la gramática del español (no estan en el texto hebreo)
-**"Comillas":** Discurso divino directo
-**YHWH:** Tetragrama rendido consonantalmente (Regla 25, Opción A)
+**Texto Principal:** Traducción primaria — legible pero fiel a la estructura hebrea. **Notas:** Rasgos hebreos esenciales justo debajo de cada versículo.
 
-**Iconos de Notas:**
-- 🔴 **CRÍTICO** - Decisiones textuales o de traducción mayores
-- 🟢 **LÉXICO** - Significados de palabras, patrones de raices, términos del glosario
-- 🔵 **GRAMATICAL** - Estructura hebrea, formas verbales, sintaxis
-- 🟡 **TEOLÓGICO** - Opciónes interpretativas, preservacíon de ambigüedad
+**Cómo está marcado el texto:**
+- *Palabras en cursiva* — añadidas para la gramática del español (no están en el texto hebreo)
+- {t:raqia} — términos hebreos transliterados, sin traducir (explicados en las notas)
+- {a:viento/espíritu} — una palabra que el hebreo deja abierta a dos sentidos, ambos conservados
+- @@"…"@@ — habla directa de Dios
+
+Las notas se etiquetan por tipo — **Crítico · Léxico · Gramatical · Teológico** — cada una con su color (vea la leyenda en la parte superior de la vista de Notas).
 
 **Este capítulo narra la recesion del diluvio y la re-emergencia de la vida.** La estructura refleja Génesis 1 — viento/espíritu sobre las aguas, tierra seca apareciendo, vida renovada. El capítulo culmina con la resolución interna de YHWH de nunca más maldecir el suelo, usando un lenguaje casí idéntico al juicio de 6:5 pero llegando a la conclusion opuesta.
 
@@ -79,7 +77,7 @@
 
 Y Dios se acordó de Noé y de todo ser vivo y de todo el ganado que *estaban* con él en la {t:tebah}, y Dios hizo pasar un {a:viento/espíritu} sobre la tierra, y las aguas menguaron.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **CRÍTICO — "DIOS SE ACORDÓ" (*vayyizkor*)**
 > - **וַיִּזְכֹּר אֱלֹהִים** (*vayyizkor elohim*) = "Y Dios se acordó." En hebreo, el "acordarse" divino no implica olvido. Significa que Dios dirigio su atención para actuar. Mismo verbo usado para Dios "acordandose" de Rajel (Gn 30:22) e Israel en Egipto (Ex 2:24).
@@ -95,7 +93,7 @@ Y Dios se acordó de Noé y de todo ser vivo y de todo el ganado que *estaban* c
 
 Y las fuentes del abismo y las ventanas del cielo fueron cerradas, y la lluvia del cielo fue contenida.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **DES-CREACION REVERTIDA**
 > - 7:11: "fuentes del gran abismo **se abrieron**, ventanas del cielo **fueron abiertas**." 8:2: fuentes y ventanas **cerradas**, lluvia **contenida**. La separación del Dia 2 (raqia entre aguas de arriba y aguas de abajo) se restablece. La frontera cosmica del agua, quebrada en el diluvio, se restaura.
@@ -106,7 +104,7 @@ Y las fuentes del abismo y las ventanas del cielo fueron cerradas, y la lluvia d
 
 Y las aguas volvieron de sobre la tierra, yendo y volviendo, y las aguas disminuyeron al cabo de ciento cincuenta dias.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **"YENDO Y VOLVIENDO" (*halokh va-shov*)**
 > - **הָלוֹךְ וָשׁוֹב** = "yendo y volviendo" — las aguas retroceden en un patron oscilante, no un drenaje instantaneo. El infinitivo absoluto hebreo transmite un procesó continuo y gradual.
@@ -117,7 +115,7 @@ Y las aguas volvieron de sobre la tierra, yendo y volviendo, y las aguas disminu
 
 Y la {t:tebah} descansó en el septimo mes, en el día diecisiete del mes, sobre los montes de Ararat.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **"MONTES DE ARARAT"**
 > - **הָרֵי אֲרָרָט** (*hare Ararat*) = "montes de Ararat" — una cadena montanosa, no un pico unico. Ararat = el antiguo reino de Urartu (Turquia oriental/Armenia). El texto dice "montes" (plural), no "Monte Ararat" (singular).
@@ -131,7 +129,7 @@ Y la {t:tebah} descansó en el septimo mes, en el día diecisiete del mes, sobre
 
 Y las aguas iban yendo y disminuyendo hasta el décimo mes; en el décimo *mes*, el primero del mes, aparecieron las cimás de los montes.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **"APARECIERON" — TIERRA SECA RE-EMERGIENDO**
 > - Las cimás de los montes se hacen visibles — eco de Gn 1:9: "Que aparezca lo seco." Creación Dia 3: la tierra emerge del agua. Aqui de nuevo: la tierra emerge del agua. La re-creación continua.
@@ -142,7 +140,7 @@ Y las aguas iban yendo y disminuyendo hasta el décimo mes; en el décimo *mes*,
 
 Y fue al cabo de cuarenta días, y Noé abrió la ventana de la {t:tebah} que había hecho.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **"VENTANA" (*challon*)**
 > - **חַלּוֹן** (*challon*) = ventana. Una palabra diferente de **צֹהַר** (*tsohar*) en 6:16 (abertura en el techo/fuente de luz, INCIERTO). Noé abre un *challon* (una ventana regular), no el *tsohar*.
@@ -153,7 +151,7 @@ Y fue al cabo de cuarenta días, y Noé abrió la ventana de la {t:tebah} que ha
 
 Y envió al cuervo, y salió, saliendo y volviendo, hasta que las aguas se secaron de sobre la tierra.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **EL CUERVO (*orev*)**
 > - **הָעֹרֵב** (*ha-orev*) = el cuervo. Enviado primero. "Saliendo y volviendo" es ambiguo: circulando sin posarse, volviendo a la tebah, o yendose permanentemente mientras las aguas "vuelven." No se reporta resultado — la paloma se convierte en la prueba efectiva.
@@ -164,7 +162,7 @@ Y envió al cuervo, y salió, saliendo y volviendo, hasta que las aguas se secar
 
 Y envió a la paloma de con el, para ver si las aguas habian disminuido de sobre la faz del suelo.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **LA PALOMA (*yonah*)**
 > - **הַיּוֹנָה** (*ha-yonah*) = la paloma. Enviada después del cuervo. La paloma se convierte en la prueba — tres envios, tres resultados, revelación progresiva del estado de la tierra.
@@ -175,7 +173,7 @@ Y envió a la paloma de con el, para ver si las aguas habian disminuido de sobre
 
 Y la paloma no halló lugar de descanso para la planta de su pie, y volvió a él a la {t:tebah}, pues aguas *habia* sobre la faz de toda la tierra; y él extendió su mano y la tomó y la trajo a él a la {t:tebah}.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **"LUGAR DE DESCANSO" (*manoach*)**
 > - **מָנוֹחַ** (*manoach*) = lugar de descanso. Raiz: נ-ו-ח — nuevamente la misma raíz que el nombre hebreo *Noaj* (Noé). La paloma no puede encontrar *manoach* — un "lugar-Noé." Tercera aparición de la raíz n-w-ch en este capítulo (después del v.4 *tanach* y el nombre Noé mismo).
@@ -192,7 +190,7 @@ Y esperó aun siete días más, y de nuevo envió a la paloma desde la {t:tebah}
 
 Y la paloma vino a él a la hora de la tarde, y he aquí, una hoja de olivo recien arrancada *estaba* en su boca; y Noé supo que las aguas habian disminuido de sobre la tierra.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **"RECIEN ARRANCADA" (*taraf*)**
 > - **עֲלֵה־זַיִת טָרָף** (*aleh-zayit taraf*) = "hoja de olivo recien arrancada." La palabra *taraf* implica rasgada/arrancada — la hoja estaba viva, no restos muertos. El olivo sobrevivió al diluvio.
@@ -203,7 +201,7 @@ Y la paloma vino a él a la hora de la tarde, y he aquí, una hoja de olivo reci
 
 Y esperó aun siete días más, y envió a la paloma, y ella no volvió a él otra vez.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **TRES ENVIOS — REVELACION PROGRESIVA**
 > - Paloma 1: vuelve sin nada (no hay tierra seca). Paloma 2: vuelve con hoja de olivo (vegetación emergiendo). Paloma 3: no vuelve (tierra habitable). La secuencia de tres etapas revela la recuperación de la tierra gradualmente.
@@ -214,7 +212,7 @@ Y esperó aun siete días más, y envió a la paloma, y ella no volvió a él ot
 
 Y fue en el año seiscientos uno, en el primer *mes*, el primero del mes, las aguas se secaron de sobre la tierra; y Noé quito la cubierta de la {t:tebah} y miro, y he aquí, la faz del suelo se había secado.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **"PRIMER MES, PRIMER DIA" — NUEVO COMIENZO**
 > - Ano 601, Mes 1, Dia 1. La tierra seca coincide con un nuevo comienzo calendarico — el primer día del primer mes de un nuevo ano. Sea coincidencia o diseno narrativo: el texto alinea la nueva tierra con un nuevo ciclo temporal.
@@ -225,7 +223,7 @@ Y fue en el año seiscientos uno, en el primer *mes*, el primero del mes, las ag
 
 Y en el segundo mes, en el día veintisiete del mes, la tierra estaba seca.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **DOS VERBOS PARA "SECAR"**
 > - v.13: **חָרְבוּ** (*charvu*) = seca en la superficie (de *jarav*). v.14: **יָבְשָׁה** (*yavshah*) = completamente seca (de *yavesh*). Dos verbos diferentes para dos etapas del secado. La tierra primero se seca en la superficie (día 1/mes 1), luego se seca completamente (día 27/mes 2).
@@ -242,7 +240,7 @@ Y Dios habló a Noé, diciendo,
 
 @@"Sal de la {t:tebah}, tu y tu mujer y tus hijos y las mujeres de tus hijos contigo.@@
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **"SAL" — MANDATO DIVINO**
 > - Noé esperó el mandato de Dios para salir, tal como esperó el mandato de Dios para entrar (7:1). No actua por juicio propio a pesar de ver la tierra seca (v.13). La obediencia silenciosa continua.
@@ -253,7 +251,7 @@ Y Dios habló a Noé, diciendo,
 
 @@Todo ser vivo que *esta* contigo de toda carne — el ave y el ganado y todo lo que se arrastra que se arrastra sobre la tierra — sacalos contigo, y que pululen en la tierra, y sean fecundos y se multipliquen sobre la tierra."@@
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **"SEAN FECUNDOS Y SE MULTIPLIQUEN" — ECO DE GN 1**
 > - **וּפָרוּ וְרָבוּ** (*u-faru ve-ravu*) = "y sean fecundos y se multipliquen." Mismo mandato que en Gn 1:22 (a las criaturas) y 1:28 (a los humanos). El paralelo con la re-creación es explícito: el mundo post-diluviano recibe la misma bendición que la creación original. La vida comienza de nuevo.
@@ -270,7 +268,7 @@ Y Noé salió, y sus hijos y su mujer y las mujeres de sus hijos con el.
 
 Todo ser vivo, todo lo que se arrastra y toda ave, todo lo que se mueve sobre la tierra, por sus familias salieron de la {t:tebah}.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **"POR SUS FAMILIAS" (*le-mishpechoteihem*)**
 > - **לְמִשְׁפְּחֹתֵיהֶם** = "por sus familias/clanes." NO *lemin* ("según su especie" — la formula de creación). Una palabra diferente: *mishpachah* = familia/clan. Los animales salen como familias, no como categorias taxonomicas.
@@ -281,7 +279,7 @@ Todo ser vivo, todo lo que se arrastra y toda ave, todo lo que se mueve sobre la
 
 Y Noé construyó un altar a YHWH, y tomó de todo ganado limpio y de toda ave limpia, y ofreció ofrendas quemadas sobre el altar.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **PRIMER ALTAR (*mizbeach*)**
 > - **מִזְבֵּחַ** (*mizbeach*) = altar. Primera aparición. De la raíz ז-ב-ח (*z-b-ch*, degollar/sacrificar). Noé construye el primer altar en la narrativa. Sacrifica "de todo *limpio*" — por esto se tomaron "siete siete" de animales limpios: los extras son para el sacrificio.
@@ -295,7 +293,7 @@ Y Noé construyó un altar a YHWH, y tomó de todo ganado limpio y de toda ave l
 
 Y YHWH olió el aroma apaciguante, y YHWH dijo en su corazón, @@"No volveré a maldecir el suelo por causa del humano, pues la inclinación del corazón del humano *es* mala desde su juventud; y no volveré a golpear a todo ser vivo como he hecho.@@
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **CRÍTICO — "AROMA APACIGUANTE" (*reach ha-nichoach*)**
 > - **רֵיחַ הַנִּיחֹחַ** (*reach ha-nichoach*) = "aroma de lo apaciguante/agradable." Raiz de *nichoach*: נ-ו-ח — la MISMA raíz que el nombre hebreo *Noaj* (Noé) y "descanso." El sacrificio de Noé produce un aroma *nichoach*. El juego de palabras con el nombre satura este capítulo.
@@ -314,7 +312,7 @@ Y YHWH olió el aroma apaciguante, y YHWH dijo en su corazón, @@"No volveré a 
 
 @@Mientras aun *sean* todos los días de la tierra, siembra y cosecha, y frio y calor, y verano e invierno, y día y noche no cesaran."@@
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **RITMOS DE LA CREACION RESTAURADOS**
 > - Seis pares opuestos: siembra/cosecha, frio/calor, verano/invierno, dia/noche. El último par refleja Gn 1:5 ("Dios llamó a la luz Día, y a la oscuridad llamó Noche"). El diluvio interrumpió el orden creado; este versículo garantiza su continuidad. La re-creación se sella con ritmo temporal.

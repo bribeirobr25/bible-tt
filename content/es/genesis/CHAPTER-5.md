@@ -27,16 +27,15 @@
 
 ## GUIA DE LECTURA
 
-**📖 Texto Principal:** Traducción primaria—legible pero fiel a la estructura hebrea
-**📝 Notas:** Características hebreas esenciales inmediatamente debajo de cada versículo
-***Cursiva:*** Palabras anadidas para la gramática española (no presentes en el texto hebreo)
-**"Comillas":** Discurso directo
+**Texto Principal:** Traducción primaria — legible pero fiel a la estructura hebrea. **Notas:** Rasgos hebreos esenciales justo debajo de cada versículo.
 
-**Iconos de Notas:**
-- 🔴 **CRÍTICO** - Decisiones textuales o de traducción importantes
-- 🟢 **LÉXICO** - Significados de palabras, patrones de raices, términos del glosario
-- 🔵 **GRAMATICAL** - Estructura hebrea, formas verbales, sintaxis
-- 🟡 **TEOLÓGICO** - Opciónes interpretativas, preservacíon de ambigüedad
+**Cómo está marcado el texto:**
+- *Palabras en cursiva* — añadidas para la gramática del español (no están en el texto hebreo)
+- {t:raqia} — términos hebreos transliterados, sin traducir (explicados en las notas)
+- {a:viento/espíritu} — una palabra que el hebreo deja abierta a dos sentidos, ambos conservados
+- @@"…"@@ — habla directa de Dios
+
+Las notas se etiquetan por tipo — **Crítico · Léxico · Gramatical · Teológico** — cada una con su color (vea la leyenda en la parte superior de la vista de Notas).
 
 **Nota de género (Regla 23):** Este capítulo es una **genealogía** — una lista estructurada gobernada por una formula repetitiva. La formula esta fijada conforme Regla 7; las desviaciones del patron son textualmente significativas y se anotan.
 
@@ -90,7 +89,7 @@
 
 Este *es* el libro de las generaciónes de Adan. En el día *en que* Dios creó *al* humano, en la semejanza de Dios lo hizo.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **LA FORMULA TOLEDOT RETORNA**
 > - **סֵפֶר תּוֹלְדֹת אָדָם** (*sefer toledot Adam*) = "el libro de las generaciónes de Adan." Segundo marcador *toledot* en Génesis (el primero en 2:4). Este anade **סֵפֶר** (*sefer*, "libro/documento") — el único *toledot* con este prefijo. Senala un registro escrito estructurado.
@@ -107,7 +106,7 @@ Este *es* el libro de las generaciónes de Adan. En el día *en que* Dios creó 
 
 Varon y hembra los creo, y los bendijo, y llamó su nombre Humano en el día *en que* fueron creados.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **"LLAMO SU NOMBRE HUMANO"**
 > - **וַיִּקְרָא אֶת־שְׁמָם אָדָם** = "y llamó su nombre *adam* (Humano)." Dios nombra a la humanidad colectivamente *adam*. Esta es la declaración propia del texto: la palabra *adam* es un nombre divino para la especie, no solo un nombre personal.
@@ -118,7 +117,7 @@ Varon y hembra los creo, y los bendijo, y llamó su nombre Humano en el día *en
 
 Y Adan vivió ciento treinta años, y engendró en su semejanza, conforme a su imagen, y llamó su nombre Set.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **IMAGEN/SEMEJANZA INVERTIDA**
 > - Gn 1:26–27: Dios crea al humano "en nuestra imagen, conforme a nuestra semejanza." Gn 5:3: Adan engendra a Set "en **su** semejanza, conforme a **su** imagen." El lenguaje de creación divino-a-humano se **encadena al descenso humano-a-humano**. El par *tselem/demut* continua a través de las generaciónes.
@@ -138,7 +137,7 @@ Y los días de Adan después de engendrar a Set fueron ochocientos años, y enge
 
 Y todos los días de Adan que vivió fueron novecientos treinta años, y murió.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **"Y MURIO" — EL ESTRIBILLO**
 > - **וַיָּמֹת** (*vayyamot*) = "y murió." Esta frase cierra cada entrada genealogica como **formula fija** (Regla 7). Se repite 8 veces en este capítulo (vv. 5, 8, 11, 14, 17, 20, 27, 31). La UNICA excepción es Enoc (v.24) — donde la formula esta conspicuamente ausente.
@@ -248,7 +247,7 @@ Y Enoc vivió sesenta y cinco años, y engendró a Matusalén.
 
 Y Enoc camino con Dios después de engendrar a Matusalén trescientos años, y engendró hijos e hijas.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **"CAMINO CON DIOS" — RUPTURA DE LA FORMULA**
 > - La formula estandar es "X vivió... y engendró." Para Enoc, la formula cambia: "Enoc **camino con Dios** (*vayyithalekh Chanokh et-ha-Elohim*)." Esto rompe el patron — la primera vez que se dice de alguien que "camino con" Dios. La única otra persona que recibe esta frase es Noé (6:9).
@@ -262,7 +261,7 @@ Y Enoc camino con Dios después de engendrar a Matusalén trescientos años, y e
 
 Y todos los días de Enoc fueron trescientos sesenta y cinco años.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **365 ANOS — LA VIDA MAS CORTA**
 > - Los 365 años de Enoc son con mucho la vida más corta en esta genealogía (otros van de 777 a 969). Sin embargo, él es quien "camino con Dios." El número 365 = días del año solar; si esto es significativo es POSIBLE pero no resuelto.
@@ -273,7 +272,7 @@ Y todos los días de Enoc fueron trescientos sesenta y cinco años.
 
 Y Enoc camino con Dios, y no fue más, porque Dios lo tomo.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **CRÍTICO — FORMULA "Y MURIO" AUSENTE**
 > - Cada otra entrada en esta genealogía termina con "y murió." La entrada de Enoc termina: **"y no fue más, porque Dios lo tomo"** (*ve-einennu ki laqaj oto Elohim*). La formula de muerte es **conspicuamente reemplazada**. El texto no dice que murió, no dice que fue al cielo, no explica adonde fue. Dice que Dios lo **tomo**. Cualquier cosa más alla de eso es interpretación posterior.
@@ -299,7 +298,7 @@ Y Matusalén vivió después de engendrar a Lamec setecientos ochenta y dos año
 
 Y todos los días de Matusalén fueron novecientos sesenta y nueve años, y murió.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **LA EDAD MAS AVANZADA REGISTRADA**
 > - Matusalén con 969 años es la persona de vida más larga en el registro bíblico. Segun la aritmetica cronologica, su año de muerte coincide apróximadamente con el año del diluvio (Gn 7). El texto no hace esta conexion explícita.
@@ -316,7 +315,7 @@ Y Lamec vivió ciento ochenta y dos años, y engendró un hijo.
 
 Y llamó su nombre Noé, diciendo: "Este *nos* consolara de nuestra labor y del trabajo de nuestras manos, del suelo que YHWH maldijo."
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **JUEGO DE PALABRAS NOAJ / NAJAM**
 > - **נֹחַ** (*Noaj*) = Noé. **נָחַם** (*najam*) = consolar/arrepentirse. La etimologia del nombre conecta a Noé con el consuelo/alivio. Regla 14 juego de palabras senalado — el vínculo sonico es apróximado (n-j vs. n-j-m), no exacto.
@@ -339,7 +338,7 @@ Y Lamec vivió después de engendrar a Noé quinientos noventa y cinco años, y 
 
 Y todos los días de Lamec fueron setecientos setenta y siete años, y murió.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **777 — ECO DE 4:24**
 > - Lamec hijo de Matusalén vive 777 años. El OTRO Lamec (Gn 4:24, linea cainita) reclamo venganza "setenta y siete" (*shiv'im ve-shiv'ah*). El eco numerico 777 / 77 entre los dos Lamec esta textualmente presente — si es un espejo estructural intenciónal o coincidencia es POSIBLE pero no resuelto.
@@ -350,7 +349,7 @@ Y todos los días de Lamec fueron setecientos setenta y siete años, y murió.
 
 Y Noé tenia quinientos años, y Noé engendró a Shem, Cam y Jafet.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **TRES HIJOS — RUPTURA DE LA FORMULA**
 > - La formula estandar lista un hijo por entrada. La entrada de Noé nombra **tres hijos** — rompiendo el patron. Esto prepara la Tabla de las Naciones (Gn 10) y la estructura narrativa post-diluvio.

@@ -27,17 +27,15 @@
 
 ## LESEANLEITUNG
 
-**📖 Haupttext:** Primäre Übersetzung—lesbar aber treu der hebräischen Struktur
-**📝 Notizen:** Wesentliche hebräische Merkmale unmittelbar unter jedem Vers
-***Kursiv:*** Wörter für deutsche Grammatik hinzugefügt (nicht im hebräischen Text)
-**„Anführungszeichen":** Direkte göttliche Rede
-**JHWH:** Tetragrammaton konsonantisch transliteriert (Regel 25, Option A)
+**Haupttext:** Primärübersetzung — lesbar, aber treu zur hebräischen Struktur. **Notizen:** Wesentliche hebräische Merkmale direkt unter jedem Vers.
 
-**Notizen-Symbole:**
-- 🔴 **KRITISCH** - Wichtige textliche oder Übersetzungsentscheidungen
-- 🟢 **LEXIKALISCH** - Wortbedeutungen, Wurzelmuster, Glossarbegriffe
-- 🔵 **GRAMMATISCH** - Hebräische Struktur, Verbformen, Syntax
-- 🟡 **THEOLOGISCH** - Interpretationsoptionen, Ambiguitätsbewahrung
+**Wie der Text markiert ist:**
+- *Kursive Wörter* — für die deutsche Grammatik ergänzt (nicht im hebräischen Text)
+- {t:raqia} — transliterierte hebräische Begriffe, unübersetzt belassen (in den Notizen erklärt)
+- {a:Wind/Geist} — ein Wort, das das Hebräische in zwei Bedeutungen offenlässt, beide beibehalten
+- @@"…"@@ — direkte Rede Gottes
+
+Notizen sind nach Typ gekennzeichnet — **Kritisch · Lexikalisch · Grammatisch · Theologisch** — jeweils mit ihrer Farbe (siehe die Legende oben in der Notizen-Ansicht).
 
 **Dieses Kapitel enthält den nachsintflutlichen Bund, das Blutverbot und den Cham (Ham)/Kenaan (Kanaan)-Vorfall.** Der Segen von 9:1 echot Gn 1:28. Der Bund (9:8–17) ist der erste vollständig offenbarte *Berit*, mit dem Bogen (*Qesheth*) als Zeichen. Noahs erste aufgezeichnete Rede (9:25–27) — nach Kapiteln des Schweigens — ist ein Fluch. Der Text sagt, Ham „sah die Blöße seines Vaters"; die TT gibt wieder, was der Text sagt, nicht was er bedeuten könnte.
 
@@ -81,7 +79,7 @@
 
 Und Gott segnete Noach (Noah) und seine Söhne und sprach zu ihnen: @@„Seid fruchtbar und mehrt euch und füllt das Land.@@
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **„SEID FRUCHTBAR UND MEHRT EUCH" — GN 1:28 WIEDERHOLT**
 > - **פְּרוּ וּרְבוּ וּמִלְאוּ אֶת־הָאָרֶץ** = „Seid fruchtbar und mehrt euch und füllt das Land." Nahezu identisch mit Gn 1:28, aber Gn 9:1 lässt die Herrschaftssprache weg („unterwerft" *kivshuha* + „herrscht" *urdu*). → Für vollständigen Neu-Schöpfungs-Vergleich siehe Begleiter §A1.
@@ -92,7 +90,7 @@ Und Gott segnete Noach (Noah) und seine Söhne und sprach zu ihnen: @@„Seid fr
 
 @@Und die Furcht vor euch und der Schrecken vor euch soll sein auf jedem Lebewesen des Landes und auf jedem Vogel des Himmels, in allem, womit der Boden wimmelt, und in allen Fischen des Meeres; in eure Hand sind sie gegeben.@@
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **FURCHT ERSETZT HERRSCHAFT**
 > - Gn 1:28: „herrscht (*radah*) über die Fische... den Vogel... jedes Lebewesen." Gn 9:2: „die Furcht vor euch und der Schrecken vor euch (*mora'akhem ve-chitkhem*) soll sein auf jedem Lebewesen." Die Mensch-Tier-Beziehung ändert sich von *radah* (Herrschaft/Regierung) zu *mora* und *chit* (Furcht und Schrecken). Die vorsintflutliche Beziehung war Regierung; die nachsintflutliche Beziehung ist Schrecken.
@@ -106,7 +104,7 @@ Und Gott segnete Noach (Noah) und seine Söhne und sprach zu ihnen: @@„Seid fr
 
 @@Jedes Sich-Bewegende, das lebendig *ist*, soll euch zur Speise sein; wie die grüne Pflanze habe ich euch alles gegeben.@@
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **FLEISCHESSEN ERLAUBT — NEU**
 > - Gn 1:29: „jede samentragende Pflanze... jeder Baum" → menschliche Nahrung war pflanzenbasiert. Gn 9:3: „jedes sich Bewegende, das lebendig ist" → Fleisch ist nun erlaubt. „Wie die grüne Pflanze" (*ke-yerek esev*) — der Vergleich ist ausdrücklich: Fleisch wird nun gegeben, wie Pflanzen gegeben wurden. Die nachsintflutliche Ernährung ist erweitert.
@@ -117,7 +115,7 @@ Und Gott segnete Noach (Noah) und seine Söhne und sprach zu ihnen: @@„Seid fr
 
 @@Nur Fleisch mit seinem Leben — seinem Blut — sollt ihr nicht essen.@@
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **KRITISCH — BLUTVERBOT**
 > - **אַךְ־בָּשָׂר בְּנַפְשׁוֹ דָמוֹ לֹא תֹאכֵלוּ** = „Nur Fleisch mit seinem *Nephesh* (Leben), seinem Blut, sollt ihr nicht essen." Das Blut IST das *Nephesh* (Lebenskraft). Blut und Leben werden gleichgesetzt — diese Gleichsetzung wird grundlegend für Lev 17:11 („das *Nephesh* des Fleisches ist im Blut").
@@ -129,7 +127,7 @@ Und Gott segnete Noach (Noah) und seine Söhne und sprach zu ihnen: @@„Seid fr
 
 @@Und gewiss, euer Blut eurer Leben werde ich fordern; von der Hand jedes Lebewesens werde ich es fordern, und von der Hand des Menschen, von der Hand eines Mannes, seines Bruders, werde ich das Leben des Menschen fordern.@@
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔵 **„ICH WERDE FORDERN" — DREIFACH**
 > - **אֶדְרֹשׁ** (*edrosh*) = „ich werde fordern/suchen" — dreimal wiederholt. Gott wird Rechenschaft fordern für menschliches Blut: (1) von jedem Lebewesen (Tiere, die Menschen töten), (2) vom Menschen (Menschen, die Menschen töten), (3) von einem Mann und seinem Bruder (Brudergewalt — Echo Kains).
@@ -140,7 +138,7 @@ Und Gott segnete Noach (Noah) und seine Söhne und sprach zu ihnen: @@„Seid fr
 
 @@Wer das Blut des Menschen vergießt, durch den Menschen soll sein Blut vergossen werden, denn im Bild Gottes machte er den Menschen.@@
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **KRITISCH — CHIASTISCHE STRUKTUR**
 > - **שֹׁפֵךְ דַּם הָאָדָם בָּאָדָם דָּמוֹ יִשָּׁפֵךְ** = A-B-C / C'-B'-A' Chiasmus (Spiegelstruktur). „Vergießer / des-Blutes / des-Menschen // durch-den-Menschen / sein-Blut / soll-vergossen-werden." Das Hebräische spiegelt die Tat in seiner Struktur: der Satz faltet sich auf sich selbst zurück wie die Vergeltung, die er beschreibt. Im Deutschen nicht vollständig übertragbar — vermerkt.
@@ -154,7 +152,7 @@ Und Gott segnete Noach (Noah) und seine Söhne und sprach zu ihnen: @@„Seid fr
 
 @@Und ihr, seid fruchtbar und mehrt euch, wimmelt auf dem Land und mehrt euch darauf."@@
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔵 **„WIMMELT" (*shirtsu*)**
 > - **שִׁרְצוּ** = „wimmelt" — dasselbe Verb, das auf Fische und kleine Geschöpfe in Gn 1:20 angewandt wird. Nun auf Menschen angewandt. Noahs Nachkommen wird gesagt, sie sollen „wimmeln" wie die Geschöpfe von Tag 5. Ungewöhnlich, anschaulich.
@@ -171,7 +169,7 @@ Und Gott sprach zu Noah und zu seinen Söhnen mit ihm und sagte:
 
 @@„Und ich, siehe, ich *bin am* Aufrichten meines Bundes mit euch und mit eurem Samen nach euch,@@
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **BUNDESBEDINGUNGEN OFFENBART**
 > - Gn 6:18: Berit angekündigt, aber nicht im Einzelnen. Gn 9:9–17: vollständige Bedingungen offenbart. Dies ist der erste vollständig dargelegte Bund in der Bibel. Er ist einseitig — Gott verpflichtet sich; keine menschlichen Verpflichtungen werden als Bedingungen festgelegt.
@@ -185,7 +183,7 @@ Und Gott sprach zu Noah und zu seinen Söhnen mit ihm und sagte:
 
 @@und mit jedem lebenden Wesen, das mit euch *ist* — dem Vogel, dem Vieh, und jedem Lebewesen des Landes mit euch — von allem, was aus der {t:Tebah} ging, bis zu jedem Lebewesen des Landes.@@
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟡 **BUND SCHLIEẞT TIERE EIN**
 > - Der Bund besteht nicht allein zwischen Gott und Menschen. Er schließt ausdrücklich „jedes lebende Wesen" ein — Vögel, Vieh, jedes Lebewesen. Der *Berit* umfasst alle Überlebenden der Tebah und ihre Nachkommen. Die nichtmenschliche Schöpfung ist Partei des Bundes.
@@ -202,7 +200,7 @@ Und Gott sprach zu Noah und zu seinen Söhnen mit ihm und sagte:
 
 Und Gott sprach: @@„Dies *ist* das Zeichen des Bundes, den ich gebe zwischen mir und zwischen euch und zwischen jedem lebenden Wesen, das mit euch *ist*, für Geschlechter der Ewigkeit:@@
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟢 **„GESCHLECHTER DER EWIGKEIT" (*dorot olam*)**
 > - **לְדֹרֹת עוֹלָם** (*ledorot olam*) = „für Geschlechter der Ewigkeit." *Olam* = lange Dauer, Ewigkeit. Der Bund hat kein Ablaufdatum. Er ist nicht abhängig von menschlichem Verhalten.
@@ -213,7 +211,7 @@ Und Gott sprach: @@„Dies *ist* das Zeichen des Bundes, den ich gebe zwischen m
 
 @@Meinen Bogen habe ich gesetzt in die Wolke, und er soll sein zum Zeichen des Bundes zwischen mir und zwischen dem Land.@@
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **KRITISCH — „MEIN BOGEN" (*qashti*)**
 > - **קַשְׁתִּי** (*qashti*) = „mein Bogen." Das Wort **קֶשֶׁת** (*Qesheth*) bezeichnet in der HB überwiegend einen **Kriegsbogen**; Gott legt seine Waffe als Friedenszeichen nieder. Die TT übersetzt „Bogen" — sowohl „Regenbogen" als auch „Kriegsbogen" sind für antike Hörer **MÖGLICH**. → Für volle martialische Semantik siehe Begleiter §A5 + §D1.
@@ -233,7 +231,7 @@ Und Gott sprach: @@„Dies *ist* das Zeichen des Bundes, den ich gebe zwischen m
 
 @@und ich werde meines Bundes gedenken, der zwischen mir und zwischen euch und zwischen jedem lebenden Wesen in allem Fleisch *ist*, und die Wasser sollen nicht wieder zu einer Flut werden, um alles Fleisch zu vernichten.@@
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟡 **„ICH WERDE GEDENKEN" (*zacharti*)**
 > - **וְזָכַרְתִּי** = „und ich werde gedenken." Dasselbe Verb wie 8:1 („Gott gedachte Noahs"). Der Bogen dient als Erinnerung für Gott — der Text schreibt dies der göttlichen Perspektive zu, nicht der menschlichen. Das Zeichen ist für Gott zum Sehen, nicht in erster Linie für Menschen.
@@ -244,7 +242,7 @@ Und Gott sprach: @@„Dies *ist* das Zeichen des Bundes, den ich gebe zwischen m
 
 @@Und der Bogen soll in der Wolke sein, und ich werde ihn sehen, um des Bundes der Ewigkeit zu gedenken zwischen Gott und zwischen jedem lebenden Wesen in allem Fleisch, das auf dem Land *ist*."@@
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔵 **„ICH WERDE IHN SEHEN"**
 > - **וּרְאִיתִיהָ** = „und ich werde ihn sehen." Gott sieht den Bogen → Gott gedenkt des Bundes → die Flut kehrt nicht zurück. Der Mechanismus ist göttliche Wahrnehmung, die zu göttlicher Zurückhaltung führt. Der Bogen ist ein mnemonisches Zeichen, das an Gott gerichtet ist.
@@ -261,7 +259,7 @@ Und Gott sprach zu Noah: @@„Dies *ist* das Zeichen des Bundes, den ich aufgeri
 
 Und die Söhne Noahs, die aus der {t:Tebah} gingen, waren Shem und Cham (Ham) und Yafet (Jafet); und Ham *ist* der Vater Kanaans.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔵 **„CHAM IST DER VATER KENAANS"**
 > - Dieser Einschub nimmt den Ham/Kenaan (Kanaan)-Vorfall vorweg (VV.20–27). Der Erzähler nennt Kanaan vor dem Ereignis — er identifiziert die Linie, die verflucht werden wird. Der Einschub ist prospektiv: er bereitet den Leser auf das Folgende vor.
@@ -278,7 +276,7 @@ Diese drei *sind* die Söhne Noahs, und von diesen breitete sich das ganze Land 
 
 Und Noah begann *als* ein Mann des Bodens und pflanzte einen Weinberg.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟢 **„MANN DES BODENS" (*ish ha-adamah*)**
 > - **אִישׁ הָאֲדָמָה** = „Mann des Bodens." *Adamah* = Boden/Erde — dasselbe Wort, aus dem *Adam* geformt wurde (Gn 2:7). Noah ist der erste Mensch, der nach der Flut durch seinen Beruf identifiziert wird: ein Bauer, ein Mann der *Adamah*. Echo Kains, der ebenfalls ein „Bearbeiter des Bodens" war (4:2).
@@ -292,7 +290,7 @@ Und Noah begann *als* ein Mann des Bodens und pflanzte einen Weinberg.
 
 Und er trank vom Wein und wurde betrunken, und er entblößte sich in der Mitte seines Zeltes.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔵 **„ENTBLÖSSTE SICH" (*vayyitgal*)**
 > - **וַיִּתְגַּל** = Hitpael von גָּלָה (*galah*, entblößen). Die reflexive Form: er entblößte **sich selbst**. Der Text schreibt die anfängliche Nacktheit Noahs eigener Handlung zu (sich betrinken und sich entblößen), nicht Ham.
@@ -303,7 +301,7 @@ Und er trank vom Wein und wurde betrunken, und er entblößte sich in der Mitte 
 
 Und Ham, der Vater Kanaans, sah die Blöße seines Vaters, und er berichtete *es* seinen zwei Brüdern draußen.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **KRITISCH — „SAH DIE BLÖSSE"**
 > - **וַיַּרְא... אֵת עֶרְוַת אָבִיו** (*vayyar... et ervat aviv*) = „und *er* sah die Blöße seines Vaters." Der Text sagt **SAH** (*ra'ah*), nicht „aufdeckte" (*galah*) — obwohl *galah ervah* in Lev 18 und 20 Euphemismus für sexuelle Handlungen ist. Die TT übersetzt den Oberflächentext: Regel 2 — der Text sagt „sah," wir übersetzen „sah." Die Mehrdeutigkeit der Tat wird vermerkt, nicht aufgelöst.
@@ -319,7 +317,7 @@ Und Ham, der Vater Kanaans, sah die Blöße seines Vaters, und er berichtete *es
 
 Und Shem und Jafet nahmen das Gewand und legten *es* auf die Schulter ihrer beider, und sie gingen rückwärts, und sie bedeckten die Blöße ihres Vaters; und ihre Gesichter *waren* rückwärts, und die Blöße ihres Vaters sahen sie nicht.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔵 **BEWUSSTER KONTRAST**
 > - Ham: sah. Shem und Jafet: gingen rückwärts, Gesichter abgewandt, sahen nicht. Der Kontrast ist vollständig und bewusst. Ihre Handlung repariert, was Hams Handlung beschädigte.
@@ -333,7 +331,7 @@ Und Shem und Jafet nahmen das Gewand und legten *es* auf die Schulter ihrer beid
 
 Und Noah erwachte von seinem Wein, und er erkannte, was sein jüngster Sohn ihm getan hatte.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **„SEIN JÜNGSTER SOHN" (*beno ha-qatan*)**
 > - **בְּנוֹ הַקָּטָן** = „sein jüngster/kleinster Sohn." Ham wird in jeder Genealogie als mittlerer Sohn aufgeführt (Shem, Ham, Jafet); ihn hier *qatan* zu nennen schafft einen scheinbaren Widerspruch. → Für die Lösungsvorschläge (Geburtsreihenfolge vs. moralischer Status) siehe Begleiter §G3.
@@ -347,7 +345,7 @@ Und Noah erwachte von seinem Wein, und er erkannte, was sein jüngster Sohn ihm 
 
 Und er sprach: „Verflucht *sei* Kanaan; ein Knecht der Knechte soll er sein seinen Brüdern."
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟡 **STUFE 2 — REZEPTIONSHINWEIS**
 > - Diese Passage hat eine dokumentierte Rezeptionsgeschichte mit schädlichem Missbrauch. Der Fluch trifft Kanaan spezifisch — nicht Ham, nicht irgendeine breitere ethnische oder rassische Gruppe. Siehe Begleitmaterial Abschnitt F.
@@ -366,7 +364,7 @@ Und er sprach: „Verflucht *sei* Kanaan; ein Knecht der Knechte soll er sein se
 
 Und er sprach: „Gesegnet *sei* JHWH, Gott Shems, und Kanaan sei ein Knecht ihnen.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟡 **„GESEGNET SEI JHWH, GOTT SHEMS"**
 > - **בָּרוּךְ יהוה אֱלֹהֵי שֵׁם** = „Gesegnet JHWH, Gott Shems." Noah segnet Gott, nicht Shem direkt. JHWH wird als „Gott Shems" identifiziert — das erste Mal, dass Gott der Gott einer bestimmten Person genannt wird. Dies nimmt „Gott Abrahams" (Gn 26:24), „Gott Isaaks" (Gn 28:13), „Gott Israels" vorweg.
@@ -380,7 +378,7 @@ Und er sprach: „Gesegnet *sei* JHWH, Gott Shems, und Kanaan sei ein Knecht ihn
 
 Gott mache weit den Jafet, und er wohne in den Zelten Shems, und Kanaan sei ein Knecht ihnen.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟢 **„WEIT MACHEN" (*yaft*) — WORTSPIEL**
 > - **יַפְתְּ אֱלֹהִים לְיֶפֶת** (*yaft elohim le-Yefet (Jafet)*) = „Gott mache *yaft* (weit) den *Jafet*." Das Verb *yaft* (weit machen, von der Wurzel פ-ת-ה) ist ein Wortspiel mit dem Namen Jafet/Jafet. Wie bei Noah/nacham und Shem/shem trägt der Name sein Schicksal.
@@ -400,7 +398,7 @@ Und Noah lebte nach der Flut dreihundertfünfzig Jahre.
 
 Und alle Tage Noahs waren neunhundertfünfzig Jahre, und er starb.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔵 **TODESFORMEL**
 > - Dieselbe Formel wie die Genealogie in Gn 5: „alle Tage von X waren Y Jahre, und er starb." Noahs Leben endet mit derselben Struktur wie seine Vorfahren. Die genealogische Kette setzt sich fort.

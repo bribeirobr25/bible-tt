@@ -28,17 +28,14 @@
 
 ## GUIA DE LEITURA
 
-**Texto Principal:** Tradução primária — legível mas fiel à estrutura grega
-**Notas:** Características gregas essenciais imediatamente abaixo de cada versículo
-***Itálico:*** Palavras adicionadas para a gramática portuguesa (não presentes no texto grego)
-**"Aspas":** Discurso direto
-**o Senhor:** kyrios traduzido conforme Política do Nome Divino GS (Opção C) ao citar passagens do AT com YHWH
+**Texto Principal:** Tradução primária — legível, mas fiel à estrutura grega. **Notas:** Recursos gregos essenciais logo abaixo de cada versículo.
 
-**Ícones das Notas:**
-- 🔴 **CRÍTICO** - Decisões textuais ou tradutórias importantes
-- 🟢 **LEXICAL** - Significados de palavras, campo semântico, termos do glossário
-- 🔵 **GRAMATICAL** - Estrutura grega, aspecto verbal, sintaxe
-- 🟡 **TEOLÓGICO** - Opções interpretativas, preservação de ambiguidade
+**Como o texto é marcado:**
+- *Palavras em itálico* — acrescentadas para a gramática do português (não estão no texto grego)
+- {a:vento/espírito} — uma palavra que o grego deixa aberta a dois sentidos, ambos mantidos
+- @@"…"@@ — fala direta de Deus ou de Yeshua (Jesus)
+
+As notas são marcadas por tipo — **Crítico · Lexical · Gramatical · Teológico** — cada uma com sua cor (veja a legenda no topo da visão de Notas).
 
 **Este capítulo abre o primeiro livro organizado no cânon das Escrituras Gregas.** Mateus 1 começa não com um prólogo cosmológico (como em João) mas com uma genealogia — uma *biblos geneseōs* ("livro de gênesis/origem") que traça uma linhagem de Avraham (Abraão) passando por David até Yeshua (Jesus). A genealogia é estruturada em três conjuntos de catorze gerações. Quatro mulheres são nomeadas — Tamar, Rachav, Rut e a esposa de Uriyah — cada uma com uma entrada irregular ou surpreendente na linhagem. Os nomes próprios seguem a transliteração TT: Jesus (não Jesus), Yosef (José) (não José), Miryam (Maria) (não Maria), Abraão (não Abraão), etc. As formas familiares em português são indicadas na primeira ocorrência. A narrativa do nascimento (vv.18-25) introduz a ambiguidade virgem/jovem mulher de Isaías 7:14. O grego *pneuma hagion* é traduzido como "vento/espírito santo" conforme glossário travado.
 

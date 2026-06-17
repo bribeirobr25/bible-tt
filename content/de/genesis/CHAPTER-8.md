@@ -27,17 +27,15 @@
 
 ## LESEANLEITUNG
 
-**📖 Haupttext:** Primäre Übersetzung—lesbar aber treu der hebräischen Struktur
-**📝 Notizen:** Wesentliche hebräische Merkmale unmittelbar unter jedem Vers
-***Kursiv:*** Wörter für deutsche Grammatik hinzugefügt (nicht im hebräischen Text)
-**„Anführungszeichen":** Direkte göttliche Rede
-**JHWH:** Tetragrammaton konsonantisch transliteriert (Regel 25, Option A)
+**Haupttext:** Primärübersetzung — lesbar, aber treu zur hebräischen Struktur. **Notizen:** Wesentliche hebräische Merkmale direkt unter jedem Vers.
 
-**Notizen-Symbole:**
-- 🔴 **KRITISCH** - Wichtige textliche oder Übersetzungsentscheidungen
-- 🟢 **LEXIKALISCH** - Wortbedeutungen, Wurzelmuster, Glossarbegriffe
-- 🔵 **GRAMMATISCH** - Hebräische Struktur, Verbformen, Syntax
-- 🟡 **THEOLOGISCH** - Interpretationsoptionen, Ambiguitätsbewahrung
+**Wie der Text markiert ist:**
+- *Kursive Wörter* — für die deutsche Grammatik ergänzt (nicht im hebräischen Text)
+- {t:raqia} — transliterierte hebräische Begriffe, unübersetzt belassen (in den Notizen erklärt)
+- {a:Wind/Geist} — ein Wort, das das Hebräische in zwei Bedeutungen offenlässt, beide beibehalten
+- @@"…"@@ — direkte Rede Gottes
+
+Notizen sind nach Typ gekennzeichnet — **Kritisch · Lexikalisch · Grammatisch · Theologisch** — jeweils mit ihrer Farbe (siehe die Legende oben in der Notizen-Ansicht).
 
 **Dieses Kapitel erzählt den Rückgang der Flut und das Wiederauftauchen des Lebens.** Die Struktur spiegelt Genesis 1 — Wind/Geist über den Wassern, trockener Boden erscheint, Leben wird erneuert. Das Kapitel gipfelt in JHWHs innerem Entschluss, den Boden nie wieder zu verfluchen, wobei nahezu identische Sprache wie beim Gericht von 6:5 verwendet wird, aber zum entgegengesetzten Schluss gelangt.
 
@@ -77,7 +75,7 @@
 
 Und Gott gedachte Noahs und alles Lebewesens und alles Viehs, das mit ihm in der {t:Tebah} *war*, und Gott ließ einen {a:Wind/Geist} über das Land fahren, und die Wasser sanken.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **KRITISCH — „GOTT GEDACHTE" (*vayyizkor*)**
 > - **וַיִּזְכֹּר אֱלֹהִים** (*vayyizkor elohim*) = „Und Gott gedachte." Im Hebräischen bedeutet göttliches „Gedenken" nicht Vergessen-Haben. Es bedeutet, Gott wandte seine Aufmerksamkeit zu, um zu handeln. Dasselbe Verb verwendet für Gottes „Gedenken" an Rachel (Gn 30:22) und Israel in Ägypten (Ex 2:24).
@@ -93,7 +91,7 @@ Und Gott gedachte Noahs und alles Lebewesens und alles Viehs, das mit ihm in der
 
 Und die Quellen der Tiefe und die Fenster des Himmels wurden verschlossen, und der Regen vom Himmel wurde zurückgehalten.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔵 **ENT-SCHÖPFUNG UMGEKEHRT**
 > - 7:11: „Quellen der großen Tiefe **brachen auf**, Fenster des Himmels **geöffnet**." 8:2: Quellen und Fenster **verschlossen**, Regen **zurückgehalten**. Die Tag-2-Trennung (Raqia zwischen Wassern oben und Wassern unten) wird wiederhergestellt. Die kosmische Wassergrenze, in der Flut durchbrochen, wird restauriert.
@@ -104,7 +102,7 @@ Und die Quellen der Tiefe und die Fenster des Himmels wurden verschlossen, und d
 
 Und die Wasser kehrten zurück von auf dem Land, gehend und zurückkehrend, und die Wasser verminderten sich am Ende von einhundertfünfzig Tagen.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔵 **„GEHEND UND ZURÜCKKEHREND" (*halokh va-shov*)**
 > - **הָלוֹךְ וָשׁוֹב** = „gehend und zurückkehrend" — die Wasser gehen in einem schwankenden Muster zurück, keine sofortige Entwässerung. Der hebräische Infinitivus absolutus vermittelt einen fortlaufenden, allmählichen Prozess.
@@ -115,7 +113,7 @@ Und die Wasser kehrten zurück von auf dem Land, gehend und zurückkehrend, und 
 
 Und die {t:Tebah} ruhte im siebten Monat, am siebzehnten Tag des Monats, auf den Bergen von Ararat.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟢 **„BERGE VON ARARAT"**
 > - **הָרֵי אֲרָרָט** (*hare Ararat*) = „Berge von Ararat" — ein Gebirge, kein einzelner Gipfel. Ararat = das antike Königreich Urartu (östliche Türkei/Armenien). Der Text sagt „Berge" (Plural), nicht „Berg Ararat" (Singular).
@@ -129,7 +127,7 @@ Und die {t:Tebah} ruhte im siebten Monat, am siebzehnten Tag des Monats, auf den
 
 Und die Wasser waren gehend und sich vermindernd bis zum zehnten Monat; im zehnten *Monat*, am ersten des Monats, erschienen die Spitzen der Berge.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔵 **„ERSCHIENEN" — TROCKENER BODEN TAUCHT WIEDER AUF**
 > - Die Bergspitzen werden sichtbar — Echo von Gn 1:9: „Es erscheine das Trockene." Schöpfungstag 3: Land taucht aus Wasser auf. Hier abermals: Land taucht aus Wasser auf. Die Neu-Schöpfung setzt sich fort.
@@ -140,7 +138,7 @@ Und die Wasser waren gehend und sich vermindernd bis zum zehnten Monat; im zehnt
 
 Und es war am Ende von vierzig Tagen, und Noah öffnete das Fenster der {t:Tebah}, das er gemacht hatte.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔵 **„FENSTER" (*challon*)**
 > - **חַלּוֹן** (*challon*) = Fenster. Ein anderes Wort als **צֹהַר** (*Tsohar*) in 6:16 (Dachöffnung/Lichtquelle, UNGEWISS). Noah öffnet ein *challon* (ein gewöhnliches Fenster), nicht den *Tsohar*.
@@ -151,7 +149,7 @@ Und es war am Ende von vierzig Tagen, und Noah öffnete das Fenster der {t:Tebah
 
 Und er sandte den Raben aus, und er ging aus, ausgehend und zurückkehrend, bis die Wasser trockneten von auf dem Land.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟢 **DER RABE (*orev*)**
 > - **הָעֹרֵב** (*ha-orev*) = der Rabe. Zuerst ausgesandt. Er geht aus und kehrt wiederholt zurück, berichtet aber nichts. Kein Ergebnis. Kontrast mit den drei Aussendungen der Taube (VV.8–12), die fortschreitend den Zustand des Landes offenbaren.
@@ -163,7 +161,7 @@ Und er sandte den Raben aus, und er ging aus, ausgehend und zurückkehrend, bis 
 
 Und er sandte die Taube aus von bei ihm, um zu sehen, ob die Wasser sich gelöst hatten von auf dem Angesicht des Bodens.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟢 **DIE TAUBE (*yonah*)**
 > - **הַיּוֹנָה** (*ha-yonah*) = die Taube. Ausgesandt nach dem Raben. Die Taube wird zum Prüfstein — drei Aussendungen, drei Ergebnisse, fortschreitende Offenbarung des Zustands des Landes.
@@ -174,7 +172,7 @@ Und er sandte die Taube aus von bei ihm, um zu sehen, ob die Wasser sich gelöst
 
 Und die Taube fand keinen Ruheplatz für die Sohle ihres Fußes, und sie kehrte zu ihm zurück zur {t:Tebah}, denn Wasser *waren* auf dem Angesicht des ganzen Landes; und er streckte seine Hand aus und nahm sie und brachte sie zu sich in die {t:Tebah}.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟢 **„RUHEPLATZ" (*manoach*)**
 > - **מָנוֹחַ** (*manoach*) = Ruheplatz. Wurzel: נ-ו-ח — abermals dieselbe Wurzel wie **Noah**. Die Taube kann keinen *manoach* finden — einen „Noah-Platz." Drittes Auftreten der n-w-ch-Wurzel in diesem Kapitel (nach V.4 *tanach* und dem Namen Noah selbst).
@@ -191,7 +189,7 @@ Und er wartete noch sieben weitere Tage, und abermals sandte er die Taube aus de
 
 Und die Taube kam zu ihm zur Abendzeit, und siehe, ein frisch gepflücktes Olivenblatt *war* in ihrem Schnabel; und Noah erkannte, dass die Wasser sich gelöst hatten von auf dem Land.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟢 **„FRISCH GEPFLÜCKT" (*taraf*)**
 > - **עֲלֵה־זַיִת טָרָף** (*aleh-zayit taraf*) = „Olivenblatt frisch gepflückt." Das Wort *taraf* bedeutet gerissen/gepflückt — das Blatt war lebendig, kein toter Abfall. Der Olivenbaum überlebte die Flut.
@@ -202,7 +200,7 @@ Und die Taube kam zu ihm zur Abendzeit, und siehe, ein frisch gepflücktes Olive
 
 Und er wartete noch sieben weitere Tage, und er sandte die Taube aus, und sie kehrte nicht wieder zu ihm zurück.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔵 **DREI AUSSENDUNGEN — FORTSCHREITENDE OFFENBARUNG**
 > - Taube 1: kehrt ohne etwas zurück (kein trockener Boden). Taube 2: kehrt mit Olivenblatt zurück (Vegetation taucht auf). Taube 3: kehrt nicht zurück (Land bewohnbar). Die dreistufige Abfolge offenbart die Erholung des Landes schrittweise.
@@ -213,7 +211,7 @@ Und er wartete noch sieben weitere Tage, und er sandte die Taube aus, und sie ke
 
 Und es war im sechshundertundeersten Jahr, im ersten *Monat*, am ersten des Monats, die Wasser trockneten von auf dem Land; und Noah entfernte die Bedeckung der {t:Tebah} und schaute, und siehe, das Angesicht des Bodens hatte getrocknet.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔵 **„ERSTER MONAT, ERSTER TAG" — NEUBEGINN**
 > - Jahr 601, Monat 1, Tag 1. Die getrocknete Erde fällt mit einem kalendarischen Neubeginn zusammen — der erste Tag des ersten Monats eines neuen Jahres. Ob dies Zufall oder erzählerische Absicht ist: der Text stimmt die neue Erde mit einem neuen Zeitzyklus ab.
@@ -224,7 +222,7 @@ Und es war im sechshundertundeersten Jahr, im ersten *Monat*, am ersten des Mona
 
 Und im zweiten Monat, am siebenundzwanzigsten Tag des Monats, war das Land trocken.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔵 **ZWEI „GETROCKNET"-VERBEN**
 > - V.13: **חָרְבוּ** (*charvu*) = oberflächlich getrocknet. V.14: **יָבְשָׁה** (*yavshah*) = vollständig getrocknet. Zwei verschiedene Verben für zwei Trocknungsstufen. Das Land trocknet zuerst an der Oberfläche (1. Tag/1. Monat), dann trocknet es vollständig (27. Tag/2. Monat).
@@ -241,7 +239,7 @@ Und Gott sprach zu Noah und sagte:
 
 @@„Gehe hinaus aus der {t:Tebah}, du und deine Frau und deine Söhne und die Frauen deiner Söhne mit dir.@@
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔵 **„GEHE HINAUS" — GÖTTLICHER BEFEHL**
 > - Noah wartete auf Gottes Befehl zum Hinausgehen, genau wie er auf Gottes Befehl zum Eintreten wartete (7:1). Er handelt nicht nach eigenem Ermessen, obwohl er den trockenen Boden sieht (V.13). Schweigender Gehorsam setzt sich fort.
@@ -252,7 +250,7 @@ Und Gott sprach zu Noah und sagte:
 
 @@Jedes Lebewesen, das mit dir *ist*, von allem Fleisch — den Vogel und das Vieh und jedes Kriechende, das auf dem Land kriecht — bringe hinaus mit dir, und sie sollen wimmeln auf dem Land, und fruchtbar sein und sich mehren auf dem Land."@@
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **„FRUCHTBAR SEIN UND SICH MEHREN" — GN 1 ECHO**
 > - **וּפָרוּ וְרָבוּ** (*u-faru ve-ravu*) = „und fruchtbar sein und sich mehren." Derselbe Befehl wie Gn 1:22 (an Geschöpfe) und 1:28 (an Menschen). Die Neu-Schöpfungs-Parallele ist ausdrücklich: die nachsintflutliche Welt empfängt denselben Segen wie die ursprüngliche Schöpfung. Das Leben beginnt von neuem.
@@ -269,7 +267,7 @@ Und Noah ging hinaus, und seine Söhne und seine Frau und die Frauen seiner Söh
 
 Jedes Lebewesen, jedes Kriechende und jeder Vogel, alles, was sich auf dem Land bewegt, zu ihren Sippen gingen sie hinaus aus der {t:Tebah}.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟢 **„ZU IHREN SIPPEN" (*le-mishpechoteihem*)**
 > - **לְמִשְׁפְּחֹתֵיהֶם** = „zu ihren Sippen/Familien." NICHT *lemin* („nach seiner Art" — die Schöpfungsformel). Ein anderes Wort: *mishpachah* = Familie/Sippe. Die Tiere gehen als Familien hinaus, nicht als taxonomische Kategorien.
@@ -280,7 +278,7 @@ Jedes Lebewesen, jedes Kriechende und jeder Vogel, alles, was sich auf dem Land 
 
 Und Noah baute einen Altar für JHWH, und er nahm von jedem reinen Vieh und von jedem reinen Vogel, und er brachte Brandopfer dar auf dem Altar.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **ERSTER ALTAR (*mizbeach*)**
 > - **מִזְבֵּחַ** (*mizbeach*) = Altar. Erstes Auftreten. Von der Wurzel ז-ב-ח (*z-b-ch*, schlachten/opfern). Noah baut den ersten Altar in der Erzählung. Er opfert „von jedem reinen" Tier — deshalb wurden „sieben sieben" der reinen Tiere genommen: die Überzähligen sind für das Opfer.
@@ -294,7 +292,7 @@ Und Noah baute einen Altar für JHWH, und er nahm von jedem reinen Vieh und von 
 
 Und JHWH roch den beruhigenden Duft, und JHWH sprach in seinem Herzen: @@„Ich werde nicht wieder den Boden verfluchen um des Menschen willen, denn die Neigung des Herzens des Menschen *ist* böse von seiner Jugend an; und ich werde nicht wieder alles Lebende schlagen, wie ich getan habe.@@
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **KRITISCH — „BERUHIGENDER DUFT" (*reach ha-nichoach*)**
 > - **רֵיחַ הַנִּיחֹחַ** (*reach ha-nichoach*) = „Duft des Beruhigenden/Wohlgefälligen." Wurzel von *nichoach*: נ-ו-ח — DIESELBE Wurzel wie **Noah** und „Ruhe." Das Opfer Noahs erzeugt einen *nichoach*-Duft. Das Namens-Wortspiel durchdringt dieses Kapitel.
@@ -313,7 +311,7 @@ Und JHWH roch den beruhigenden Duft, und JHWH sprach in seinem Herzen: @@„Ich 
 
 @@Solange noch alle Tage des Landes *sind*, sollen Saat und Ernte, und Kälte und Hitze, und Sommer und Winter, und Tag und Nacht nicht aufhören."@@
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔵 **SCHÖPFUNGSRHYTHMEN WIEDERHERGESTELLT**
 > - Sechs Gegensatzpaare: Saat/Ernte, Kälte/Hitze, Sommer/Winter, Tag/Nacht. Das letzte Paar echot Gn 1:5 („Gott nannte das Licht Tag, und die Finsternis nannte er Nacht"). Die Flut unterbrach die Schöpfungsordnung; dieser Vers garantiert ihre Fortdauer. Die Neu-Schöpfung wird mit dem Zeitrhythmus besiegelt.

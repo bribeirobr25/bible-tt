@@ -27,17 +27,15 @@
 
 ## GUIA DE LECTURA
 
-**📖 Texto Principal:** Traducción primaria — legible pero fiel a la estructura hebrea
-**📝 Notas:** Rasgos hebreos esenciales inmediatamente debajo de cada versículo
-***Cursiva:*** Palabras anadidas para la gramática del español (no estan en el texto hebreo)
-**"Comillas":** Discurso divino directo
-**YHWH:** Tetragrama rendido consonantalmente (Regla 25, Opción A)
+**Texto Principal:** Traducción primaria — legible pero fiel a la estructura hebrea. **Notas:** Rasgos hebreos esenciales justo debajo de cada versículo.
 
-**Iconos de Notas:**
-- 🔴 **CRÍTICO** - Decisiones textuales o de traducción mayores
-- 🟢 **LÉXICO** - Significados de palabras, patrones de raices, términos del glosario
-- 🔵 **GRAMATICAL** - Estructura hebrea, formas verbales, sintaxis
-- 🟡 **TEOLÓGICO** - Opciónes interpretativas, preservacíon de ambigüedad
+**Cómo está marcado el texto:**
+- *Palabras en cursiva* — añadidas para la gramática del español (no están en el texto hebreo)
+- {t:raqia} — términos hebreos transliterados, sin traducir (explicados en las notas)
+- {a:viento/espíritu} — una palabra que el hebreo deja abierta a dos sentidos, ambos conservados
+- @@"…"@@ — habla directa de Dios
+
+Las notas se etiquetan por tipo — **Crítico · Léxico · Gramatical · Teológico** — cada una con su color (vea la leyenda en la parte superior de la vista de Notas).
 
 **Este capítulo contiene el pacto post-diluviano, la prohibición de la sangre y el incidente de Cam/Kenaan (Canaán).** La bendición de 9:1 refleja Gn 1:28. El pacto (9:8-17) es el primer *berit* completamente revelado, con el arco (*qesheth*) como signo. El primer discurso registrado de Noé (9:25-27) — después de capítulos de silencio — es una maldición. El texto dice que Cam "vio la desnudez de su padre"; la TT rinde lo que el texto dice, no lo que podria significar.
 
@@ -83,7 +81,7 @@
 
 Y Dios bendijo a Noé y a sus hijos y les dijo, @@"Sean fecundos y multipliquense y llenen la tierra.@@
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **"SEAN FECUNDOS Y MULTIPLIQUENSE" — GN 1:28 REPETIDO**
 > - **פְּרוּ וּרְבוּ וּמִלְאוּ אֶת־הָאָרֶץ** = "Sean fecundos y multipliquense y llenen la tierra." Casí idéntico a Gn 1:28, pero Gn 9:1 omite el lenguaje de dominio ("sojuzguenla" *kivshuha* + "dominen" *urdu*). → Para comparación completa de re-creación, vea el compañero §A1.
@@ -94,7 +92,7 @@ Y Dios bendijo a Noé y a sus hijos y les dijo, @@"Sean fecundos y multipliquens
 
 @@Y el temor de ustedes y el pavor de ustedes estará sobre todo ser vivo de la tierra, y sobre toda ave del cielo, en todo lo que el suelo pulula, y en todos los peces del mar; en su mano son dados.@@
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **EL TEMOR REEMPLAZA AL DOMINIO**
 > - Gn 1:28: "dominen (*radah*) sobre los peces... ave... todo ser vivo." Gn 9:2: "el temor de ustedes y el pavor de ustedes (*mora'akhem ve-chitkhem*) estará sobre todo ser vivo." La relación humano-animal cambia de *radah* (dominio/gobierno) a *mora* y *chit* (temor y terror). La relación pre-diluviana era gobernanza; la post-diluviana es pavor.
@@ -108,7 +106,7 @@ Y Dios bendijo a Noé y a sus hijos y les dijo, @@"Sean fecundos y multipliquens
 
 @@Todo lo que se mueve que *esta* vivo será alimento para ustedes; como la planta verde, les he dado todo.@@
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **COMER CARNE PERMITIDO — NUEVO**
 > - Gn 1:29: "toda planta que da semilla... todo arbol" → la alimentación humana era vegetal. Gn 9:3: "todo lo que se mueve que esta vivo" → la carne ahora esta permitida. "Como la planta verde" (*ke-yerek esev*) — la comparación es explícita: la carne se da ahora como se dieron las plantas. La dieta post-diluviana es más amplia.
@@ -119,7 +117,7 @@ Y Dios bendijo a Noé y a sus hijos y les dijo, @@"Sean fecundos y multipliquens
 
 @@Solo carne con su vida — su sangre — no comerán.@@
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **CRÍTICO — PROHIBICION DE LA SANGRE**
 > - **אַךְ־בָּשָׂר בְּנַפְשׁוֹ דָמוֹ לֹא תֹאכֵלוּ** = "Solo carne con su *nephesh* (vida), su sangre, no comeran." La sangre ES la *nephesh* (fuerza vital). Sangre y vida se equiparan — esta identificación se vuelve fundacional para Lv 17:11 ("la *nephesh* de la carne esta en la sangre").
@@ -131,7 +129,7 @@ Y Dios bendijo a Noé y a sus hijos y les dijo, @@"Sean fecundos y multipliquens
 
 @@Y ciertamente su sangre de sus vidas yo requeriré; de la mano de todo ser vivo lo requeriré, y de la mano del humano, de la mano del hombre, su hermano, requeriré la vida del humano.@@
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **"REQUERIRE" — TRIPLE**
 > - **אֶדְרֹשׁ** (*edrosh*) = "requerire/demandare" — repetido tres veces. Dios demandara cuentas por la sangre humana: (1) de todo ser vivo (animales que matan humanos), (2) del humano (humaños que matan humanos), (3) del hombre y su hermano (violencia fratricida — eco de Cain).
@@ -142,7 +140,7 @@ Y Dios bendijo a Noé y a sus hijos y les dijo, @@"Sean fecundos y multipliquens
 
 @@El que derrama la sangre del humano, por el humano su sangre será derramada, pues a imagen de Dios hizo al humano.@@
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **CRÍTICO — ESTRUCTURA QUIASTICA**
 > - **שֹׁפֵךְ דַּם הָאָדָם בָּאָדָם דָּמוֹ יִשָּׁפֵךְ** = quiasmo (estructura espejada) A-B-C / C'-B'-A'. "El-que-derrama / sangre-del / humano // por-el-humano / su-sangre / sera-derramada." El hebreo refleja el acto en su estructura: la sentencia se pliega sobre si misma como la retribución que describe. Intraducible en español — anotado.
@@ -156,7 +154,7 @@ Y Dios bendijo a Noé y a sus hijos y les dijo, @@"Sean fecundos y multipliquens
 
 @@Y ustedes, sean fecundos y multipliquense, pululen en la tierra y multipliquense en ella."@@
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **"PULULEN" (*shirtsu*)**
 > - **שִׁרְצוּ** = "pululen" — el mismo verbo aplicado a peces y criaturas pequenas en Gn 1:20. Ahora aplicado a humanos. Los descendientes de Noé reciben la orden de "pulular" como las criaturas del Dia 5. Inusual, vivido.
@@ -173,7 +171,7 @@ Y Dios dijo a Noé y a sus hijos con el, diciendo,
 
 @@"Y yo, he aquí, yo *estoy* estableciendo mi pacto con ustedes y con su simiente después de ustedes,@@
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **TERMINOS DEL PACTO REVELADOS**
 > - Gn 6:18: berit anunciado pero no detallado. Gn 9:9-17: términos completos revelados. Este es el primer pacto completamente articulado en la Biblia. Es unilateral — Dios se compromete; no se estipulan obligaciónes humanas como condiciónes.
@@ -187,7 +185,7 @@ Y Dios dijo a Noé y a sus hijos con el, diciendo,
 
 @@y con todo ser vivo que *esta* con ustedes — el ave, el ganado, y todo ser vivo de la tierra con ustedes — de todos los que salieron de la {t:tebah}, a todo ser vivo de la tierra.@@
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟡 **EL PACTO INCLUYE ANIMALES**
 > - El pacto no es solo entre Dios y los humanos. Incluye explícitamente "todo ser vivo" — aves, ganado, todo ser vivo. El *berit* abarca a todos los sobrevivientes de la tebah y sus descendientes. La creación no humana es parte del pacto.
@@ -204,7 +202,7 @@ Y Dios dijo a Noé y a sus hijos con el, diciendo,
 
 Y Dios dijo, @@"Esta *es* la señal del pacto que yo *estoy* dando entre mi y entre ustedes y entre todo ser vivo que *esta* con ustedes, por generaciónes de perpetuidad:@@
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **"GENERACIONES DE PERPETUIDAD" (*dorot olam*)**
 > - **לְדֹרֹת עוֹלָם** (*ledorot olam*) = "por generaciónes de perpetuidad/eternidad." *Olam* = larga duración, perpetuidad. El pacto no tiene fecha de expiración. No es contingente al comportamiento humano.
@@ -215,7 +213,7 @@ Y Dios dijo, @@"Esta *es* la señal del pacto que yo *estoy* dando entre mi y en
 
 @@mi arco he puesto en la nube, y será por señal del pacto entre mi y entre la tierra.@@
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **CRÍTICO — "MI ARCO" (*qashti*)**
 > - **קַשְׁתִּי** (*qashti*) = "mi arco." La palabra **קֶשֶׁת** (*qesheth*) predominantemente denota un **arco de guerra** en la BH; Dios depone su arma en el cielo como señal de paz. La TT traduce "arco" — **POSIBLE** para ambos sentidos ('arco iris' / 'arco de guerra') al oyente antiguo. → Para discusión completa de la semántica marcial, vea el compañero §A5 + §D1.
@@ -235,7 +233,7 @@ Y Dios dijo, @@"Esta *es* la señal del pacto que yo *estoy* dando entre mi y en
 
 @@y me acordaré de mi pacto que *esta* entre mi y entre ustedes y entre todo ser vivo en toda carne, y las aguas no volverán a ser diluvio para destruir toda carne.@@
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟡 **"ME ACORDARE" (*zacharti*)**
 > - **וְזָכַרְתִּי** = "y me acordaré." Mismo verbo que en 8:1 ("Dios se acordó de Noé"). El arco funcióna como un recordatorio para Dios — el texto lo atribuye a la perspectiva divina, no a la humana. La señal es para que Dios la vea, no primariamente para los humanos.
@@ -246,7 +244,7 @@ Y Dios dijo, @@"Esta *es* la señal del pacto que yo *estoy* dando entre mi y en
 
 @@Y el arco estará en la nube, y lo veré para acordarme del pacto de perpetuidad entre Dios y entre todo ser vivo en toda carne que *esta* sobre la tierra."@@
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **"LO VERÉ"**
 > - **וּרְאִיתִיהָ** = "y lo veré." Dios ve el arco → Dios se acuerda del pacto → el diluvio no regresa. El mecanismo es percepción divina que conduce a contención divina. El arco es un signo mnemotecnico dirigido a Dios.
@@ -263,7 +261,7 @@ Y Dios dijo a Noé, @@"Esta *es* la señal del pacto que he establecido entre mi
 
 Y los hijos de Noé que salieron de la {t:tebah} fueron Sem y Cam y Jafet; y Cam *es* el padre de Canaán.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **"CAM ES EL PADRE DE KENAAN"**
 > - Esta nota parentetica anticipa el incidente de Cam/Canaán (vv.20-27). El narrador nombra a Canaán antes del evento — identificando la linea que sera maldecida. La inserción es prospectiva: prepara al lector para lo que sigue.
@@ -280,7 +278,7 @@ Estos tres *son* los hijos de Noé, y de estos fue esparcida toda la tierra.
 
 Y Noé comenzó *como* hombre del suelo y plantó una viña.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **"HOMBRE DEL SUELO" (*ish ha-adamah*)**
 > - **אִישׁ הָאֲדָמָה** = "hombre del suelo." *Adamah* = suelo/tierra — la misma palabra de la cual *adam* fue formado (Gn 2:7). Noé es la primera persona identificada por oficio después del diluvio: un agricultor, un hombre del *adamah*. Eco de Cain, que también fue "trabajador del suelo" (4:2).
@@ -294,7 +292,7 @@ Y Noé comenzó *como* hombre del suelo y plantó una viña.
 
 Y bebió del vino y se embriagó, y se descubrió en medio de su tienda.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **"SE DESCUBRIO" (*vayyitgal*)**
 > - **וַיִּתְגַּל** = hitpael de גָּלָה (*galah*, descubrir). La forma reflexiva: se descubrió **a si mismo**. El texto atribuye la desnudez inicial a la propia acción de Noé (embriagarse y descubrirse), no a Cam.
@@ -305,7 +303,7 @@ Y bebió del vino y se embriagó, y se descubrió en medio de su tienda.
 
 Y Cam, el padre de Canaán, vio la desnudez de su padre, y contó a sus dos hermaños afuera.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **CRÍTICO — "VIO LA DESNUDEZ"**
 > - **וַיַּרְא... אֵת עֶרְוַת אָבִיו** (*vayyar... et ervat aviv*) = "y *el* vio la desnudez de su padre." El texto usa ראה (vio), no גלה (descubrió). Las lecturas principales incluyen voyeurismo/falta de respeto y violación sexual (ver compañero para analisis completo). Regla 2: el texto dice "vio." Traducimos "vio."
@@ -319,7 +317,7 @@ Y Cam, el padre de Canaán, vio la desnudez de su padre, y contó a sus dos herm
 
 Y Sem y Jafet tomaron la vestidura y *la* pusieron sobre el hombro de los dos, y caminaron hacia atrás, y cubrieron la desnudez de su padre; y sus rostros *iban* hacia atrás, y la desnudez de su padre no vieron.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **CONTRASTE DELIBERADO**
 > - Cam: vio. Sem y Jafet: caminaron hacia atrás, rostros vueltos, no vieron. El contraste es total y deliberado. Su acto repara lo que el acto de Cam dano.
@@ -333,7 +331,7 @@ Y Sem y Jafet tomaron la vestidura y *la* pusieron sobre el hombro de los dos, y
 
 Y Noé despertó de su vino, y supo lo que le había hecho su hijo menor.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **"SU HIJO MENOR" (*beno ha-qatan*)**
 > - **בְּנוֹ הַקָּטָן** = "su hijo menor/pequeno." Cam aparece como el hijo del medio en toda genealogía (Sem, Cam, Jafet); llamarlo *qatan* aquí crea una contradicción aparente. → Para las propuestas (lectura por orden de nacimiento vs. estatus moral), vea el compañero §G3.
@@ -347,7 +345,7 @@ Y Noé despertó de su vino, y supo lo que le había hecho su hijo menor.
 
 Y dijo, "Maldito *sea* Canaán; siervo de siervos será para sus hermanos."
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > ⚠️ **NOTA DE RECEPCIÓN** — Este pasaje tiene una historia de recepción documentada que involucra uso perjudicial. Vea el compañero Sección F para contexto histórico.
 >
@@ -363,7 +361,7 @@ Y dijo, "Maldito *sea* Canaán; siervo de siervos será para sus hermanos."
 
 Y dijo, "Bendito *sea* YHWH, Dios de Sem, y sea Canaán siervo para ellos.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟡 **"BENDITO SEA YHWH, DIOS DE SEM"**
 > - **בָּרוּךְ יהוה אֱלֹהֵי שֵׁם** = "Bendito YHWH, Dios de Sem." Noé bendice a Dios, no directamente a Sem. YHWH es identificado como "Dios de Sem" — la primera vez que Dios es llamado el Dios de una persona específica. Esto anticipa "Dios de Abraham" (Gn 26:24), "Dios de Isaac" (Gn 28:13), "Dios de Israel."
@@ -377,7 +375,7 @@ Y dijo, "Bendito *sea* YHWH, Dios de Sem, y sea Canaán siervo para ellos.
 
 Engrandezca Dios a Jafet, y habite él en las tiendas de Sem, y sea Canaán siervo para ellos.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **"ENGRANDEZCA" (*yaft*) — JUEGO DE PALABRAS**
 > - **יַפְתְּ אֱלֹהִים לְיֶפֶת** (*yaft elohim le-Yefet*) = "que Dios *yaft* (engrandezca) a *Yefet*." El verbo *yaft* (engrandecer, de la raíz פ-ת-ה) es un juego con el nombre Jafet/Yefet. Como con Noé/najam y Sem/shem, el nombre lleva su destino.
@@ -397,7 +395,7 @@ Y Noé vivió después del diluvio trescientos cincuenta años.
 
 Y todos los días de Noé fueron novecientos cincuenta años, y murió.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **FORMULA DE MUERTE**
 > - Misma formula que la genealogía de Gn 5: "todos los días de X fueron Y años, y murió." La vida de Noé concluye con la misma estructura que sus ancestros. La cadena genealogica continua.

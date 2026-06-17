@@ -26,17 +26,15 @@
 
 ## READING GUIDE
 
-**📖 Main Text:** Primary translation—readable but faithful to Hebrew structure
-**📝 Notes:** Essential Hebrew features immediately below each verse
-***Italics:*** Words added for English grammar (not in Hebrew text)
-**"Quotes":** Direct divine speech or human speech
-**YHWH:** Tetragrammaton rendered consonantally (Rule 25, Option A)
+**Main Text:** Primary translation — readable but faithful to Hebrew structure. **Notes:** Essential Hebrew features immediately below each verse.
 
-**Note Icons:**
-- 🔴 **CRITICAL** - Major textual or translation decisions
-- 🟢 **LEXICAL** - Word meanings, root patterns, glossary terms
-- 🔵 **GRAMMATICAL** - Hebrew structure, verb forms, syntax
-- 🟡 **THEOLOGICAL** - Interpretive options, ambiguity preservation
+**How the text is marked:**
+- *Words in italics* — added for English grammar (not in the Hebrew text)
+- {t:raqia} — transliterated Hebrew terms kept untranslated (explained in notes)
+- {a:wind/spirit} — a word the Hebrew leaves open to two meanings, both kept
+- @@"…"@@ — direct speech of God
+
+Notes are tagged by type — **Critical · Lexical · Grammatical · Theological** — each shown with its colour (see the legend at the top of the Notes view).
 
 **Adam / Human Policy (Rule 17):** In this chapter, *ha-adam* (with article) at v.1 = "the human" (continuing Gen 2–3 policy). At **v.25**, the text shifts to anarthrous *adam* in a naming/genealogical context — this is the **transition point** to proper-name "Adam." Flagged with 🔴 CRITICAL note.
 
@@ -78,7 +76,7 @@
 
 And the human knew Chava (Eve) his woman, and she conceived and bore Qayin (Cain), and she said, "I have acquired a man with YHWH."
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟢 **QAYIN / QANAH WORDPLAY**
 > - **קַיִן** (*Qayin*) = Cain. **קָנָה** (*qanah*) = acquired/gotten. The woman's speech makes the etymology explicit: "I have *qaniti* (acquired) a man." Rule 14 wordplay preserved.
@@ -95,7 +93,7 @@ And the human knew Chava (Eve) his woman, and she conceived and bore Qayin (Cain
 
 And she bore again, his brother Hevel (Abel). And Abel was *a* keeper of flock, and Qayin (Cain) was *a* worker of the ground.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟢 **HEVEL = VAPOR/BREATH**
 > - **הֶבֶל** (*Hevel*) = "vapor, breath, fleeting." The name carries its meaning — the same word used in Ecclesiastes for "vanity/futility." Whether the name foreshadows his fate is POSSIBLE but unresolved by the text.
@@ -109,7 +107,7 @@ And she bore again, his brother Hevel (Abel). And Abel was *a* keeper of flock, 
 
 And it was at the end of days, and Qayin (Cain) brought from the fruit of the ground an offering to YHWH.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟢 **OFFERING**
 > - **מִנְחָה** (*minchah*) = offering/gift/tribute. Later becomes a technical term for grain offering (Lev 2). Here, simply "offering."
@@ -120,7 +118,7 @@ And it was at the end of days, and Qayin (Cain) brought from the fruit of the gr
 
 And Hevel (Abel), he also brought from the firstborn of his flock and from their fat. And YHWH regarded Abel and his offering,
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟡 **WHY REGARDED?**
 > - The text says YHWH regarded Abel's offering but does NOT say why. "Firstborn" and "fat" (best portions) may indicate quality difference — but the text does not state this as the reason. Rule 12 — do not over-explain what the text leaves unexplained.
@@ -131,7 +129,7 @@ And Hevel (Abel), he also brought from the firstborn of his flock and from their
 
 but Qayin (Cain) and his offering he did not regard. And it burned to Cain greatly, and his face fell.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔵 **"IT BURNED TO HIM"**
 > - **וַיִּחַר** (*vayyichar*) = "and it burned" — idiom for anger (literally "it was hot to him"). Preserved literally.
@@ -148,7 +146,7 @@ And YHWH said to Qayin (Cain), @@"Why *does it* burn to you, and why has your fa
 
 @@If you do well, *is there* not lifting? And if you do not do well, at the door sin crouches, and toward you *is* its {a:desire/turning}, but you must rule over it."@@
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔴 **CRITICAL — FIRST "SIN" IN THE BIBLE**
 > - **חַטָּאת** (*chatat*) = sin. First occurrence. Here **personified** — sin "crouches" (רֹבֵץ *rovets*, a participle describing an animal lying in wait). Sin is presented as an entity with agency, not an abstract concept.
@@ -166,7 +164,7 @@ And YHWH said to Qayin (Cain), @@"Why *does it* burn to you, and why has your fa
 
 And Qayin (Cain) said to Hevel (Abel) his brother… And it was when they were in the field, and Cain rose against Abel his brother and killed him.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔴 **CRITICAL — TEXTUAL VARIANT (LACUNA)**
 > - MT: "And Cain said to Abel his brother" — sentence appears **incomplete**. No speech content recorded. The LXX (the ancient Greek translation) and Samaritan Pentateuch add: "Let us go to the field" (*nelkha ha-sadeh*).
@@ -181,7 +179,7 @@ And Qayin (Cain) said to Hevel (Abel) his brother… And it was when they were i
 
 And YHWH said to Qayin (Cain), @@"Where *is* Hevel (Abel) your brother?"@@ And he said, "I do not know. *Am* I my brother's keeper?"
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔵 **ECHO OF 3:9**
 > - "Where is Abel?" echoes "Where are you?" (3:9 *ayyekkah*). Both are divine questions that inaugurate interrogation sequences. Both are rhetorical (God knows the answer).
@@ -195,7 +193,7 @@ And YHWH said to Qayin (Cain), @@"Where *is* Hevel (Abel) your brother?"@@ And h
 
 And he said, @@"What have you done? The voice of the bloods of your brother *is* crying to me from the ground.@@
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔴 **"BLOODS" — PLURAL**
 > - **דְּמֵי** (*demei*) = "bloods" (plural construct). NOT singular "blood." Hebrew uses plural — POSSIBLE meanings: multiple blood-spillings, life-blood in its fullness, or (Rabbinic tradition) the blood of his descendants who will never exist. Plural preserved.
@@ -209,7 +207,7 @@ And he said, @@"What have you done? The voice of the bloods of your brother *is*
 
 @@And now, cursed *are* you from the ground which opened its mouth to receive the bloods of your brother from your hand.@@
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟢 **ARUR — CURSED**
 > - **אָרוּר** (*arur*) = cursed. In Gen 3, only the serpent (3:14) and the ground (3:17) were cursed — never the humans. Now Qayin (Cain) IS cursed. Escalation: creature → ground → human.
@@ -223,7 +221,7 @@ And he said, @@"What have you done? The voice of the bloods of your brother *is*
 
 @@When you work the ground, it shall not again give its strength to you. A wanderer and a fugitive you shall be on the land."@@
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔵 **DOUBLE DISPLACEMENT**
 > - **נָע וָנָד** (*na va-nad*) = "wanderer and fugitive" — root doubling (Rule 6). Two near-synonyms intensifying exile. Qayin (Cain) loses both vocation (ground won't yield) and location (wandering).
@@ -234,7 +232,7 @@ And he said, @@"What have you done? The voice of the bloods of your brother *is*
 
 And Qayin (Cain) said to YHWH, "My {a:sin/punishment} *is* too great to bear.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔴 **AVON — SIN OR PUNISHMENT?**
 > - **עֲוֹנִי** (*avoni*) = "my sin" OR "my punishment." The Hebrew word means both the guilt AND its consequence. Rule 2 — slash preserves both: "my sin/punishment." Traditional translations choose one; the TT preserves the ambiguity.
@@ -245,7 +243,7 @@ And Qayin (Cain) said to YHWH, "My {a:sin/punishment} *is* too great to bear.
 
 See, you have driven me today from upon the face of the ground, and from your face I shall be hidden, and I shall be a wanderer and a fugitive on the land, and it shall be *that* anyone finding me shall kill me."
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟡 **"FROM YOUR FACE"**
 > - Qayin (Cain)'s complaint names two exiles: from the ground (vocation) and from God's face (divine presence). The second is the greater — 4:16 will confirm he "went out from the face of YHWH."
@@ -256,7 +254,7 @@ See, you have driven me today from upon the face of the ground, and from your fa
 
 And YHWH said to him, @@"Therefore anyone killing Qayin (Cain), sevenfold it shall be avenged."@@ And YHWH set for Cain a sign, so that anyone finding him would not strike him.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟡 **THE SIGN — UNSPECIFIED**
 > - **אוֹת** (*ot*) = sign/mark. The text does NOT say what the sign is — a mark on his body? divine protection? a warning to others? Rule 12 — no false precision; the text is deliberately vague.
@@ -270,7 +268,7 @@ And YHWH said to him, @@"Therefore anyone killing Qayin (Cain), sevenfold it sha
 
 And Qayin (Cain) went out from the face of YHWH, and dwelt in the land of Nod, east of Eden.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔴 **"EAST OF EDEN" — EXILE DIRECTION CONTINUES**
 > - Gen 3:24: cherubim east of Eden. Gen 4:16: Cain settles east of Eden. The eastward movement = **displacement pattern**. Cross-reference flagged.
@@ -284,7 +282,7 @@ And Qayin (Cain) went out from the face of YHWH, and dwelt in the land of Nod, e
 
 And Qayin (Cain) knew his woman, and she conceived and bore Chanokh (Enoch). And he was building a city, and he called the name of the city according to the name of his son, Enoch.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟢 **FIRST CITY**
 > - The exiled murderer builds the first city. The text makes no explicit evaluation of this — it is stated, not judged.
@@ -301,7 +299,7 @@ And to Chanokh (Enoch) was born Irad, and Irad begot Mechuya'el, and Mechuya'el 
 
 And Lemekh (Lamech) took for himself two women; the name of the one *was* Adah, and the name of the second *was* Tsillah.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟢 **FIRST POLYGAMY**
 > - The text notes Lamech's two wives without explicit evaluation. First recorded departure from the "one flesh" pattern of 2:24.
@@ -324,7 +322,7 @@ And the name of his brother *was* Yuval; he was the father of all grasping lyre 
 
 And Tsillah, she also bore Tuval-Qayin (Tuval-Cain), *a* hammerer of every cutting-tool of bronze and iron. And the sister of Tuval-Cain *was* Na'amah.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟢 **ORIGINS OF TECHNOLOGY**
 > - Three "fathers" of civilization: Yaval (pastoral nomadism), Yuval (music), Tuval-Cain (metalwork). All descend from the exiled line of Cain. The text records civilizational origins without evaluating them.
@@ -335,7 +333,7 @@ And Tsillah, she also bore Tuval-Qayin (Tuval-Cain), *a* hammerer of every cutti
 
 And Lemekh (Lamech) said to his women, "Adah and Tsillah, hear my voice; women of Lamech, give ear to my speech: For a man I have killed for my wound, and a child for my bruise.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔴 **LAMECH'S SONG — POETIC STRUCTURE**
 > - This is **poetry** embedded in narrative. Parallel structure (hear/give ear; voice/speech; man/child; wound/bruise) — Rule 6 preserved. First poem by a human in the Bible (after 2:23).
@@ -349,7 +347,7 @@ And Lemekh (Lamech) said to his women, "Adah and Tsillah, hear my voice; women o
 
 For sevenfold Qayin (Cain) shall be avenged, and Lemekh (Lamech) seventy-seven."
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔵 **SEVEN → SEVENTY-SEVEN**
 > - YHWH promised sevenfold protection for Cain (v.15). Lamech claims **seventy-sevenfold** for himself — appropriating divine prerogative for personal vengeance. Numerical escalation: 7 → 77.
@@ -360,7 +358,7 @@ For sevenfold Qayin (Cain) shall be avenged, and Lemekh (Lamech) seventy-seven."
 
 And Adam knew his woman again, and she bore a son and called his name Shet (Seth), "For God has set for me another seed instead of Hevel (Abel), for Qayin (Cain) killed him."
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔴 **CRITICAL — ADAM BECOMES PROPER NAME**
 > - **אָדָם** (*adam*) appears here **without the article** in a genealogical/naming context. This is the **transition point** from generic "the human" to proper name "Adam." The TT shifts to "Adam" from this verse forward. Logged in editorial log (entry 081).
@@ -377,7 +375,7 @@ And Adam knew his woman again, and she bore a son and called his name Shet (Seth
 
 And to Shet (Seth), also to him a son was born, and he called his name Enosh. Then *it* was begun to call on the name of YHWH.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔴 **FIRST INVOCATION OF YHWH**
 > - **אָז הוּחַל לִקְרֹא בְּשֵׁם יהוה** = "Then it was begun to call on the name of YHWH." The passive (*huchal*) does not specify who began. This is the first recorded act of formal worship/invocation — the Sethite line calls on YHWH by name.

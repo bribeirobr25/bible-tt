@@ -27,17 +27,15 @@
 
 ## GUÍA DE LECTURA
 
-**📖 Texto Principal:** Traducción primaria — legible pero fiel a la estructura hebrea
-**📝 Notas:** Rasgos hebreos esenciales inmediatamente debajo de cada versículo
-***Cursiva:*** Palabras añadidas para la gramática del español (no están en el texto hebreo)
-**"Comillas":** Discurso divino directo
-**YHWH:** Tetragrama rendido consonantalmente (Regla 25, Opción A)
+**Texto Principal:** Traducción primaria — legible pero fiel a la estructura hebrea. **Notas:** Rasgos hebreos esenciales justo debajo de cada versículo.
 
-**Iconos de Notas:**
-- 🔴 **CRÍTICO** - Decisiones textuales o de traducción mayores
-- 🟢 **LÉXICO** - Significados de palabras, patrones de raíces, términos del glosario
-- 🔵 **GRAMATICAL** - Estructura hebrea, formas verbales, sintaxis
-- 🟡 **TEOLÓGICO** - Opciones interpretativas, preservación de ambigüedad
+**Cómo está marcado el texto:**
+- *Palabras en cursiva* — añadidas para la gramática del español (no están en el texto hebreo)
+- {t:raqia} — términos hebreos transliterados, sin traducir (explicados en las notas)
+- {a:viento/espíritu} — una palabra que el hebreo deja abierta a dos sentidos, ambos conservados
+- @@"…"@@ — habla directa de Dios
+
+Las notas se etiquetan por tipo — **Crítico · Léxico · Gramatical · Teológico** — cada una con su color (vea la leyenda en la parte superior de la vista de Notas).
 
 **Este capítulo marca la transición de la historia primordial a la patriarcal.** YHWH llama a Avram (Abrán) fuera de Jarán con un mandato que no nombra destino y una promesa que dará forma al resto de la Torá. La quíntuple bendición (12:2–3) introduce la *berakhah* como motor narrativo. Abrán viaja a través de Kenaan (Canaán) — Shekhem (Siquem), la encina de Moreh, Beyt-El (Betel) — construyendo altares e invocando el nombre de YHWH. El hambre lo lleva a Egipto, donde el episodio esposa-hermana introduce un patrón que se repite en 20:2 y 26:7. El Faraón es golpeado con plagas (*nega'im*) — la misma raíz que regresará en Éxodo.
 
@@ -81,7 +79,7 @@
 
 Y YHWH dijo a Abrán: @@"Ve, tú mismo, de tu tierra y de tu lugar de nacimiento y de la casa de tu padre, a la tierra que yo te mostraré.@@
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **CRÍTICO — *LEKH LEKHA* (VE, TÚ MISMO)**
 > - **לֶךְ־לְךָ** (*lekh lekha*) = "Ve, tú mismo" / "Ve para ti." La forma doblada — imperativo de *halakh* (ir) más el *lamed* + pronombre de segunda persona — es enfática y rara. Aparece solo aquí y en Gn 22:2 (*lekh lekha* hacia la atadura de Isaac). La fuerza reflexiva/enfática se debate: "ve para ti" (para tu beneficio), "ve por ti mismo" (solo), o simplemente un intensificador. La TT rinde "Ve, tú mismo" para preservar el doble *lekh* en alguna forma sin importar una sola interpretación.
@@ -98,7 +96,7 @@ Y YHWH dijo a Abrán: @@"Ve, tú mismo, de tu tierra y de tu lugar de nacimiento
 
 @@Y te haré una gran nación, y te bendeciré, y engrandeceré tu nombre — y sé una bendición.@@
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **PROMESA QUÍNTUPLE (12:2–3)**
 > - La promesa se despliega a lo largo de vv.2–3 en cinco cláusulas: (1) "Te haré una gran nación"; (2) "Te bendeciré"; (3) "Engrandeceré tu nombre"; (4) "sé una bendición"; (5) "todas las familias del suelo serán bendecidas / se bendecirán en ti." La estructura cambia en (4) de declarativa ("yo haré...") a imperativa ("sé una bendición") — Abrán se convierte en agente, no meramente receptor.
@@ -112,7 +110,7 @@ Y YHWH dijo a Abrán: @@"Ve, tú mismo, de tu tierra y de tu lugar de nacimiento
 
 @@Y bendeciré a los que te bendigan, y al que te maldiga yo maldeciré, y todas las familias del suelo {a:serán bendecidas / se bendecirán} en ti."@@
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **CRÍTICO — DOS PALABRAS DIFERENTES PARA MALDICIÓN**
 > - "Al que te maldiga (*meqallelekha*) yo maldeciré (*a'or*)." Dos raíces diferentes: **קָלַל** (*qalal*) = tratar con ligereza, menospreciar, maldecir (más ligera); **אָרַר** (*arar*) = maldecir (pesada, formal, la misma raíz que Gn 3:14, 3:17, 4:11, 9:25). Quienes tratan con ligereza a Abrán reciben la maldición más pesada. La asimetría es deliberada: la respuesta excede la provocación.
@@ -129,7 +127,7 @@ Y YHWH dijo a Abrán: @@"Ve, tú mismo, de tu tierra y de tu lugar de nacimiento
 
 Y Abrán fue como YHWH le había hablado, y Lot fue con él; y Abrán *tenía* setenta y cinco años, hijo de, cuando salió de Jarán.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **"Y AVRAM FUE" — SIN DIÁLOGO**
 > - **וַיֵּלֶךְ אַבְרָם** = "Y Abrán fue." YHWH habla cinco cláusulas de promesa; Abrán responde con cero palabras. Simplemente va. Como Noé (6:22: "y Noé hizo"), la respuesta es acción, no discurso.
@@ -143,7 +141,7 @@ Y Abrán fue como YHWH le había hablado, y Lot fue con él; y Abrán *tenía* s
 
 Y Abrán tomó a Sarai su esposa, y a Lot el hijo de su hermano, y todas sus posesiones que habían reunido, y las personas que habían hecho en Jarán, y salieron para ir a la tierra de Canaán, y llegaron a la tierra de Canaán.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **"LAS PERSONAS QUE HABÍAN HECHO" (*ha-nephesh asher asu*)**
 > - **וְאֶת־הַנֶּפֶשׁ אֲשֶׁר־עָשׂוּ בְחָרָן** = "y las personas (*nephesh*) que habían hecho (*asu*) en Jarán." *Nephesh* aquí = personas/gente. *Asah* = hecho/adquirido. El verbo "hecho" para adquirir personas es llamativo — probablemente se refiere a siervos o miembros del hogar ganados en Jarán. Targum Onqelos: "almas que habían convertido." El texto dice "hecho."
@@ -157,7 +155,7 @@ Y Abrán tomó a Sarai su esposa, y a Lot el hijo de su hermano, y todas sus pos
 
 Y Abrán pasó por la tierra hasta el lugar de Siquem, hasta la encina de Moreh; y el cananeo *estaba* entonces en la tierra.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **SHEKHEM**
 > - **שְׁכֶם** (*Siquem*) = primera ubicación nombrada en el viaje de Abrán por Canaán. El sitio recurre: Jacob compra tierra allí (33:18–19), los huesos de José son enterrados allí (Jos 24:32), y la renovación del pacto de Yehoshúa ocurre allí (Jos 24:1). La primera parada de Abrán se convierte en un sitio crítico en la memoria de Israel.
@@ -174,7 +172,7 @@ Y Abrán pasó por la tierra hasta el lugar de Siquem, hasta la encina de Moreh;
 
 Y YHWH se apareció a Abrán y dijo: @@"A tu simiente daré esta tierra."@@ Y edificó allí un altar a YHWH que se le había aparecido.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **PRIMERA APARICIÓN DIVINA (*vayyera*)**
 > - **וַיֵּרָא יהוה אֶל־אַבְרָם** = "Y YHWH se apareció a Abrán." Primera teofanía registrada a Abrán. En 12:1, YHWH "dijo" (*vayyomer*); aquí YHWH "se apareció" (*vayyera*) — un componente visual. El verbo ראה (ver) en nifal = fue visto / se apareció.
@@ -191,7 +189,7 @@ Y YHWH se apareció a Abrán y dijo: @@"A tu simiente daré esta tierra."@@ Y ed
 
 Y se trasladó de allí a la zona montañosa al oriente de Betel y plantó su tienda — Betel *estaba* al occidente y Ai *estaba* al oriente — y edificó allí un altar a YHWH e invocó el nombre de YHWH.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **BEYT-EL**
 > - **בֵּית־אֵל** (*Betel*) = "Casa de Dios." El nombre anticipa el nombramiento por Jacob en 28:19 — pero el texto usa el nombre aquí prolépticamente (el narrador usa el nombre posterior). El sitio se convierte en un importante centro de adoración.
@@ -208,7 +206,7 @@ Y se trasladó de allí a la zona montañosa al oriente de Betel y plantó su ti
 
 Y Abrán viajó, yendo y viajando hacia el Negev.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **"YENDO Y VIAJANDO" (*halokh ve-nasoa*)**
 > - **הָלוֹךְ וְנָסוֹעַ** = "yendo y viajando." Construcción de infinitivo absoluto — movimiento continuo, progresivo. Abrán no se está asentando; está pasando a través. La tierra está prometida pero aún no poseída.
@@ -222,7 +220,7 @@ Y Abrán viajó, yendo y viajando hacia el Negev.
 
 Y hubo hambre en la tierra, y Abrán descendió a Egipto para residir allí, porque el hambre *era* pesada en la tierra.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **PRIMERA HAMBRUNA, PRIMER DESCENSO A EGIPTO**
 > - **וַיְהִי רָעָב בָּאָרֶץ** = "Y hubo hambre en la tierra." Primera hambruna en Génesis. La tierra prometida no puede sostener a Abrán — la ironía: Dios promete la tierra (v.7), luego el hambre lo expulsa de ella. Para una discusión más completa, vea el compañero Sección C.
@@ -239,7 +237,7 @@ Y hubo hambre en la tierra, y Abrán descendió a Egipto para residir allí, por
 
 Y sucedió que al acercarse para entrar en Egipto, dijo a Sarai su esposa: "He aquí, yo sé que tú *eres* una mujer hermosa de apariencia.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **"MUJER HERMOSA DE APARIENCIA" (*yefat mar'eh*)**
 > - **אִשָּׁה יְפַת־מַרְאֶה** = "mujer hermosa de apariencia." *Yefat* de *yafeh* (hermosa); *mar'eh* = apariencia/vista. La belleza es señalada por Abrán como una amenaza, no un cumplido. La descripción es funcional — establece el peligro.
@@ -250,7 +248,7 @@ Y sucedió que al acercarse para entrar en Egipto, dijo a Sarai su esposa: "He a
 
 Y será que cuando los egipcios te vean, dirán: 'Esta *es* su esposa,' y me matarán a mí, y a ti te dejarán vivir.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **EL TEMOR DE AVRAM**
 > - La lógica es explícita: los egipcios matarán al marido para tomar a la esposa. Abrán anticipa asesinato. El texto no evalúa si su temor está justificado — registra su razonamiento.
@@ -261,7 +259,7 @@ Y será que cuando los egipcios te vean, dirán: 'Esta *es* su esposa,' y me mat
 
 Di, por favor, *que* tú *eres* mi hermana, para que me vaya bien por causa tuya, y mi vida viva gracias a ti."
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > ⚠️ **NOTA DE RECEPCIÓN** — Este pasaje tiene una historia de recepción documentada. Vea el compañero Sección F para contexto sobre el episodio esposa-hermana.
 >
@@ -283,7 +281,7 @@ Y sucedió que cuando Abrán llegó a Egipto, los egipcios vieron a la mujer, qu
 
 Y los oficiales del Faraón la vieron y la alabaron ante el Faraón, y la mujer fue tomada *a* la casa del Faraón.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **PASIVO — "LA MUJER FUE TOMADA"**
 > - **וַתֻּקַּח הָאִשָּׁה** = "y la mujer fue tomada." Hofal (pasivo causativo) de *laqaj* (tomar). Sarai es el objeto gramatical a lo largo de toda la secuencia: vista, alabada, tomada. La construcción pasiva enfatiza su falta de agencia en esta secuencia.
@@ -297,7 +295,7 @@ Y los oficiales del Faraón la vieron y la alabaron ante el Faraón, y la mujer 
 
 Y a Abrán le fue bien por causa de ella, y tuvo rebaño y ganado y asnos y siervos y siervas y asnas y camellos.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟡 **AVRAM PROSPERA DEL ENGAÑO**
 > - **וּלְאַבְרָם הֵיטִיב בַּעֲבוּרָהּ** = "Y a Abrán le fue bien por causa de ella." La riqueza que Abrán recibe está explícitamente vinculada a la presencia de Sarai en la casa del Faraón. "Por causa de ella" (*ba'avurah*) — el beneficio viene a través de la situación de Sarai. El texto reporta el enriquecimiento sin evaluar su moralidad.
@@ -311,7 +309,7 @@ Y a Abrán le fue bien por causa de ella, y tuvo rebaño y ganado y asnos y sier
 
 Y YHWH golpeó al Faraón *con* grandes plagas, y a su casa, por causa de Sarai, la esposa de Abrán.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **CRÍTICO — *NEGA'IM* (PLAGAS)**
 > - **וַיְנַגַּע יהוה אֶת־פַּרְעֹה נְגָעִים גְּדֹלִים** = "Y YHWH golpeó al Faraón *con* grandes plagas (*nega'im*)." La raíz נ-ג-ע (*n-g-a*) = golpear, tocar, afligir — la misma raíz que reaparece en las plagas del Éxodo. El texto no describe cuáles fueron las plagas. Para una discusión más completa, vea el compañero Sección D.
@@ -328,7 +326,7 @@ Y YHWH golpeó al Faraón *con* grandes plagas, y a su casa, por causa de Sarai,
 
 Y el Faraón llamó a Abrán y dijo: "¿Qué *es* esto que me has hecho? ¿Por qué no me dijiste que ella *es* tu esposa?
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **LA REPRENSIÓN DEL FARAÓN**
 > - **מַה־זֹּאת עָשִׂיתָ לִּי** = "¿Qué es esto que me has hecho?" El Faraón — un rey extranjero — reprende al patriarca. El patrón de preguntas hace eco de las confrontaciones de Dios: "¿Qué es esto que has hecho?" (3:13 a la mujer). La claridad moral proviene del Faraón, no de Abrán. El texto no suaviza esto.
@@ -339,7 +337,7 @@ Y el Faraón llamó a Abrán y dijo: "¿Qué *es* esto que me has hecho? ¿Por q
 
 ¿Por qué dijiste: 'Ella *es* mi hermana,' y la tomé para mí como esposa? Y ahora, he aquí, tu esposa — tómala y vete."
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **"TOMA Y VETE" (*qaj va-lekh*)**
 > - **הִנֵּה אִשְׁתְּךָ קַח וָלֵךְ** = "He aquí, tu esposa — tómala y vete." El Faraón devuelve a Sarai y expulsa a Abrán. El mandato es brusco — imperativo: toma, vete. Sin negociación, sin penalidad más allá de la expulsión. El Faraón actúa con más justicia directa que Abrán con su engaño.
@@ -350,7 +348,7 @@ Y el Faraón llamó a Abrán y dijo: "¿Qué *es* esto que me has hecho? ¿Por q
 
 Y el Faraón dio órdenes a hombres acerca de él, y lo despidieron, y a su esposa, y todo lo que *era* suyo.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **EXPULSIÓN — NO CASTIGO**
 > - El Faraón ordena una escolta — no ejecución, no encarcelamiento. "Lo despidieron" (*vayeshaleju*) — piel de *shalaj* (enviar). Abrán sale de Egipto con su esposa y todas sus posesiones (incluyendo las ganadas en v.16). Se va más rico de lo que llegó. El eco del Éxodo: Israel también saldrá de Egipto con riqueza egipcia (Ex 12:35–36).

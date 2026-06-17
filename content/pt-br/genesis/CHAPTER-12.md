@@ -27,17 +27,15 @@
 
 ## GUIA DE LEITURA
 
-**📖 Texto Principal:** Tradução primária—legível mas fiel à estrutura hebraica
-**📝 Notas:** Características hebraicas essenciais imediatamente abaixo de cada versículo
-***Itálico:*** Palavras adicionadas para a gramática portuguesa (não presentes no texto hebraico)
-**"Aspas":** Discurso divino direto
-**YHWH:** Tetragrama transliterado consonantalmente (Regra 25, Opção A)
+**Texto Principal:** Tradução primária — legível, mas fiel à estrutura hebraica. **Notas:** Recursos hebraicos essenciais logo abaixo de cada versículo.
 
-**Ícones das Notas:**
-- 🔴 **CRÍTICO** - Decisões textuais ou tradutórias importantes
-- 🟢 **LEXICAL** - Significados de palavras, padrões de raízes, termos do glossário
-- 🔵 **GRAMATICAL** - Estrutura hebraica, formas verbais, sintaxe
-- 🟡 **TEOLÓGICO** - Opções interpretativas, preservação de ambiguidade
+**Como o texto é marcado:**
+- *Palavras em itálico* — acrescentadas para a gramática do português (não estão no texto hebraico)
+- {t:raqia} — termos hebraicos transliterados, mantidos sem tradução (explicados nas notas)
+- {a:vento/espírito} — uma palavra que o hebraico deixa aberta a dois sentidos, ambos mantidos
+- @@"…"@@ — fala direta de Deus
+
+As notas são marcadas por tipo — **Crítico · Lexical · Gramatical · Teológico** — cada uma com sua cor (veja a legenda no topo da visão de Notas).
 
 **Este capítulo marca a transição da história primeva para a patriarcal.** YHWH chama Avram para fora de Charan com um comando que não nomeia o destino e uma promessa que moldará o restante da Torá. A bênção quíntupla (12:2–3) introduz *berakhah* como motor narrativo. Avram viaja por Kenaan — Shekhem, o carvalho de Moreh, Beyt-El — construindo altares e invocando o nome de YHWH. A fome o leva ao Egito, onde o episódio esposa-irmã introduz um padrão que se repete em 20:2 e 26:7. Faraó é atingido com pragas (*nega'im*) — a mesma raiz que retornará no Êxodo.
 
@@ -81,7 +79,7 @@
 
 E YHWH disse a Avram (Abrão): @@"Vai-te da tua terra e do teu nascimento e da casa de teu pai, para a terra que eu te mostrarei.@@
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **CRÍTICO — *LEKH LEKHA* (VAI-TE)**
 > - **לֶךְ־לְךָ** (*lekh lekha*) = "Vai-te" / "Vai para ti mesmo." A forma dupla — imperativo de *halakh* (ir) mais o *lamed* + pronome de segunda pessoa — é enfática e rara. Aparece apenas aqui e em Gn 22:2 (*lekh lekha* para a amarração de Yitschaq). A força reflexiva/enfática é debatida: "vai para ti" (para teu benefício), "vai por ti mesmo" (sozinho), ou simplesmente um intensificador. A TT traduz "Vai-te" para preservar algo do duplo *lekh* sem importar uma única interpretação.
@@ -98,7 +96,7 @@ E YHWH disse a Avram (Abrão): @@"Vai-te da tua terra e do teu nascimento e da c
 
 @@E eu farei de ti uma grande nação, e te abençoarei, e engrandecerei o teu nome — e sê uma bênção.@@
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **PROMESSA QUÍNTUPLA (12:2–3)**
 > - A promessa se desdobra ao longo dos vv.2–3 em cinco cláusulas: (1) "Farei de ti uma grande nação"; (2) "Te abençoarei"; (3) "Engrandecerei o teu nome"; (4) "Sê uma bênção"; (5) "Todas as famílias do solo serão abençoadas / se abençoarão em ti." A estrutura muda em (4) de declarativa ("Eu farei...") para imperativa ("sê uma bênção") — Abrão se torna o agente, não meramente o recipiente.
@@ -112,7 +110,7 @@ E YHWH disse a Avram (Abrão): @@"Vai-te da tua terra e do teu nascimento e da c
 
 @@E abençoarei os que te abençoarem, e o que te amaldiçoar eu amaldiçoarei, e todas as famílias do solo {a:serão abençoadas / se abençoarão} em ti."@@
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **CRÍTICO — DUAS PALAVRAS DIFERENTES PARA MALDIÇÃO**
 > - "O que te amaldiçoar (*meqallelekha*) eu amaldiçoarei (*a'or*)." Duas raízes diferentes: **קָלַל** (*qalal*) = tratar levianamente, desprezar, amaldiçoar (mais leve); **אָרַר** (*arar*) = amaldiçoar (pesada, formal, a mesma raiz de Gn 3:14, 3:17, 4:11, 9:25). Aqueles que tratarem Avram levianamente receberão a maldição mais pesada. A assimetria é deliberada: a resposta excede a provocação.
@@ -129,7 +127,7 @@ E YHWH disse a Avram (Abrão): @@"Vai-te da tua terra e do teu nascimento e da c
 
 E Abrão foi como YHWH lhe havia falado, e Lot foi com ele; e Abrão *tinha* setenta e cinco anos, filho de, quando saiu de Charan.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **"E AVRAM FOI" — SEM DIÁLOGO**
 > - **וַיֵּלֶךְ אַבְרָם** = "E Avram foi." YHWH fala cinco cláusulas de promessa; Avram responde com zero palavras. Ele simplesmente vai. Como Noach (6:22: "e Noach fez"), a resposta é ação, não discurso.
@@ -143,7 +141,7 @@ E Abrão foi como YHWH lhe havia falado, e Lot foi com ele; e Abrão *tinha* set
 
 E Abrão tomou Sarai sua esposa, e Lot o filho de seu irmão, e todos os seus bens que haviam acumulado, e as pessoas que haviam feito em Charan, e saíram para ir à terra de Kenaan (Canaã), e chegaram à terra de Canaã.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **"AS PESSOAS QUE HAVIAM FEITO" (*ha-nephesh asher asu*)**
 > - **וְאֶת־הַנֶּפֶשׁ אֲשֶׁר־עָשׂוּ בְחָרָן** = "e as pessoas (*nephesh*) que haviam feito (*asu*) em Charan." *Nephesh* aqui = pessoas. *Asah* = fazer/adquirir. O verbo "fazer" para adquirir pessoas é marcante — provavelmente se refere a servos ou membros da casa ganhos em Charan. Targum Onqelos: "almas que haviam convertido." O texto diz "feito."
@@ -157,7 +155,7 @@ E Abrão tomou Sarai sua esposa, e Lot o filho de seu irmão, e todos os seus be
 
 E Abrão passou pela terra até o lugar de Shekhem (Siquém), até o carvalho de Moreh; e o Kenaani *estava* então na terra.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **SHEKHEM**
 > - **שְׁכֶם** (*Shekhem*) = primeiro local nomeado na jornada de Avram por Kenaan. Sítio recorrente na narrativa bíblica subsequente (33:18–19, Js 24). Para discussão mais completa, veja o companheiro Seção [C].
@@ -174,7 +172,7 @@ E Abrão passou pela terra até o lugar de Shekhem (Siquém), até o carvalho de
 
 E YHWH apareceu a Abrão e disse: @@"À tua semente darei esta terra."@@ E ele construiu ali um altar a YHWH que lhe havia aparecido.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **PRIMEIRA APARIÇÃO DIVINA (*vayyera*)**
 > - **וַיֵּרָא יהוה אֶל־אַבְרָם** = "E YHWH apareceu a Avram." Primeira teofania registrada a Avram. Em 12:1, YHWH "disse" (*vayyomer*); aqui YHWH "apareceu" (*vayyera*) — um componente visual. O verbo ראה (ver) no nifal = foi visto / apareceu.
@@ -191,7 +189,7 @@ E YHWH apareceu a Abrão e disse: @@"À tua semente darei esta terra."@@ E ele c
 
 E ele se moveu dali para a região montanhosa a leste de Beyt-El (Betel) e armou a sua tenda — Betel *ficava* a oeste e Ai *ficava* a leste — e ele construiu ali um altar a YHWH e invocou o nome de YHWH.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **BEYT-EL**
 > - **בֵּית־אֵל** (*Beyt-El*) = "Casa de Deus." O nome antecipa a nomeação de Yaakov em 28:19 — mas o texto usa o nome aqui prolepticamente (o narrador usa o nome posterior). O sítio se torna um importante centro de adoração.
@@ -208,7 +206,7 @@ E ele se moveu dali para a região montanhosa a leste de Beyt-El (Betel) e armou
 
 E Abrão viajou, indo e viajando rumo ao Negev.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **"INDO E VIAJANDO" (*halokh ve-nasoa*)**
 > - **הָלוֹךְ וְנָסוֹעַ** = "indo e viajando." Construção de infinitivo absoluto — movimento contínuo, progressivo. Avram não está se estabelecendo; está de passagem. A terra é prometida mas ainda não possuída.
@@ -222,7 +220,7 @@ E Abrão viajou, indo e viajando rumo ao Negev.
 
 E houve fome na terra, e Abrão desceu ao Egito para peregrinar ali, pois a fome *era* pesada na terra.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **PRIMEIRA FOME, PRIMEIRA DESCIDA AO EGITO**
 > - **וַיְהִי רָעָב בָּאָרֶץ** = "E houve fome na terra." Primeira fome em Gênesis — a ironia: Deus promete a terra (v.7) e a fome o expele dela. A fome como motor narrativo patriarcal e o padrão de prefiguração do Êxodo são discutidos no companheiro. Para discussão mais completa, veja o companheiro Seção [C].
@@ -239,7 +237,7 @@ E houve fome na terra, e Abrão desceu ao Egito para peregrinar ali, pois a fome
 
 E aconteceu que quando se aproximou para entrar no Egito, ele disse a Sarai sua esposa: "Eis que eu sei que tu *és* uma mulher bela de aparência.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **"MULHER BELA DE APARÊNCIA" (*yefat mar'eh*)**
 > - **אִשָּׁה יְפַת־מַרְאֶה** = "mulher bela de aparência." *Yefat* de *yafeh* (belo); *mar'eh* = aparência/visão. A beleza é notada por Avram como uma ameaça, não um elogio. A descrição é funcional — prepara o perigo.
@@ -250,7 +248,7 @@ E aconteceu que quando se aproximou para entrar no Egito, ele disse a Sarai sua 
 
 E será que quando os egípcios te virem, e dirão: 'Esta *é* a esposa dele,' e me matarão, e a ti deixarão viver.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **O MEDO DE AVRAM**
 > - A lógica é explícita: os egípcios matarão o marido para tomar a esposa. Abrão antecipa assassinato. O texto não avalia se seu medo é justificado — registra seu raciocínio.
@@ -261,7 +259,7 @@ E será que quando os egípcios te virem, e dirão: 'Esta *é* a esposa dele,' e
 
 Dize, por favor, *que* tu *és* minha irmã, para que me vá bem por tua causa, e a minha vida viva por causa de ti."
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟡 **NÍVEL 2 — NOTA DE RECEPÇÃO**
 > - Esta passagem tem história de recepção documentada. Veja o companheiro Seção F para contexto sobre o episódio esposa-irmã, incluindo seu uso para justificar o engano e suas implicações para a agência de Sarai.
@@ -284,7 +282,7 @@ E aconteceu que quando Abrão veio ao Egito, os egípcios viram a mulher, que er
 
 E os oficiais de Faraó a viram e a louvaram a Faraó, e a mulher foi tomada *para* a casa de Faraó.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **PASSIVO — "A MULHER FOI TOMADA"**
 > - **וַתֻּקַּח הָאִשָּׁה** = "e a mulher foi tomada." Hofal (causativo passivo) de *laqach* (tomar). Sarai é o objeto gramatical ao longo de toda a sequência: vista, louvada, tomada. A construção passiva enfatiza sua falta de agência nesta sequência.
@@ -298,7 +296,7 @@ E os oficiais de Faraó a viram e a louvaram a Faraó, e a mulher foi tomada *pa
 
 E a Abrão ele fez bem por causa dela, e ele teve rebanho e gado e jumentos e servos e servas e jumentas e camelos.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟡 **AVRAM PROSPERA COM A DECEPÇÃO**
 > - **וּלְאַבְרָם הֵיטִיב בַּעֲבוּרָהּ** = "E a Avram ele fez bem por causa dela." A riqueza que Avram recebe é explicitamente vinculada à presença de Sarai na casa de Faraó. "Por causa dela" (*ba'avurah*) — o benefício vem através da situação de Sarai. O texto relata o enriquecimento sem avaliar sua moralidade.
@@ -312,7 +310,7 @@ E a Abrão ele fez bem por causa dela, e ele teve rebanho e gado e jumentos e se
 
 E YHWH feriu Faraó *com* grandes pragas, e a sua casa, por causa de Sarai, a esposa de Abrão.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **CRÍTICO — *NEGA'IM* (PRAGAS)**
 > - **וַיְנַגַּע יהוה אֶת־פַּרְעֹה נְגָעִים גְּדֹלִים** = "E YHWH feriu Faraó *com* grandes pragas (*nega'im*)." A raiz נ-ג-ע (*n-g-a*) = ferir, tocar, afligir. *Nega'im* = pragas/aflições. A mesma raiz aparece nas pragas do Êxodo. YHWH fere Faraó para proteger Sarai — intervenção divina onde o plano de Avram a colocou em risco. O texto não descreve quais eram as pragas.
@@ -329,7 +327,7 @@ E YHWH feriu Faraó *com* grandes pragas, e a sua casa, por causa de Sarai, a es
 
 E Faraó chamou Abrão e disse: "Que *é* isto que me fizeste? Por que não me disseste que ela *é* tua esposa?
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **REPREENSÃO DE FARAÓ**
 > - **מַה־זֹּאת עָשִׂיתָ לִּי** = "Que é isto que me fizeste?" Faraó — um rei estrangeiro — repreende o patriarca. O padrão de pergunta ecoa as confrontações de Deus: "Que é isto que fizeste?" (3:13 à mulher). A clareza moral vem de Faraó, não de Avram. O texto não suaviza isto.
@@ -340,7 +338,7 @@ E Faraó chamou Abrão e disse: "Que *é* isto que me fizeste? Por que não me d
 
 Por que disseste: 'Ela *é* minha irmã,' e eu a tomei para mim como esposa? E agora, eis a tua esposa — toma-a e vai."
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **"TOMA E VAI" (*qach va-lekh*)**
 > - **הִנֵּה אִשְׁתְּךָ קַח וָלֵךְ** = "Eis a tua esposa — toma-a e vai." Faraó devolve Sarai e expulsa Avram. O comando é abrupto — imperativo: toma, vai. Sem negociação, sem penalidade além da expulsão. Faraó age com mais justiça direta do que Avram com sua decepção.
@@ -351,7 +349,7 @@ Por que disseste: 'Ela *é* minha irmã,' e eu a tomei para mim como esposa? E a
 
 E Faraó ordenou homens a seu respeito, e o mandaram embora, e a sua esposa, e tudo o que *era* seu.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **EXPULSÃO — NÃO PUNIÇÃO**
 > - Faraó ordena uma escolta — não execução, não prisão. "O mandaram embora" (*vayeshallechu*) — piel de *shalach* (enviar). Avram deixa o Egito com sua esposa e todos os seus bens (incluindo os ganhos no v.16). Ele parte mais rico do que chegou. O eco do Êxodo: Israel também deixará o Egito com riquezas egípcias (Êx 12:35–36).

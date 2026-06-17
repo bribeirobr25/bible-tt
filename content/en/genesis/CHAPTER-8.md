@@ -26,17 +26,15 @@
 
 ## READING GUIDE
 
-**📖 Main Text:** Primary translation—readable but faithful to Hebrew structure
-**📝 Notes:** Essential Hebrew features immediately below each verse
-***Italics:*** Words added for English grammar (not in Hebrew text)
-**"Quotes":** Direct divine speech
-**YHWH:** Tetragrammaton rendered consonantally (Rule 25, Option A)
+**Main Text:** Primary translation — readable but faithful to Hebrew structure. **Notes:** Essential Hebrew features immediately below each verse.
 
-**Note Icons:**
-- 🔴 **CRITICAL** - Major textual or translation decisions
-- 🟢 **LEXICAL** - Word meanings, root patterns, glossary terms
-- 🔵 **GRAMMATICAL** - Hebrew structure, verb forms, syntax
-- 🟡 **THEOLOGICAL** - Interpretive options, ambiguity preservation
+**How the text is marked:**
+- *Words in italics* — added for English grammar (not in the Hebrew text)
+- {t:raqia} — transliterated Hebrew terms kept untranslated (explained in notes)
+- {a:wind/spirit} — a word the Hebrew leaves open to two meanings, both kept
+- @@"…"@@ — direct speech of God
+
+Notes are tagged by type — **Critical · Lexical · Grammatical · Theological** — each shown with its colour (see the legend at the top of the Notes view).
 
 **This chapter narrates the recession of the flood and the re-emergence of life.** The structure mirrors Genesis 1 — wind/spirit over the waters, dry ground appearing, life renewed. The chapter culminates in YHWH's internal resolution never again to curse the ground, using nearly identical language to the judgment of 6:5 but reaching the opposite conclusion.
 
@@ -78,7 +76,7 @@
 
 And God remembered Noach (Noah) and all the living thing and all the livestock which *were* with him in the {t:tebah}, and God caused a {a:wind/spirit} to pass over the land, and the waters subsided.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔴 **CRITICAL — "GOD REMEMBERED" (*vayyizkor*)**
 > - **וַיִּזְכֹּר אֱלֹהִים** (*vayyizkor elohim*) = "And God remembered." In Hebrew, divine "remembering" does not imply forgetting. It means God turned attention to act. Same verb used for God "remembering" Rachel (Gen 30:22) and Israel in Egypt (Exod 2:24).
@@ -93,7 +91,7 @@ And God remembered Noach (Noah) and all the living thing and all the livestock w
 
 And the fountains of the deep and the windows of the sky were stopped, and the rain from the sky was restrained.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔵 **DE-CREATION REVERSED**
 > - 7:11: "fountains of the great deep **burst open**, windows of the sky **opened**." 8:2: fountains and windows **stopped**, rain **restrained**. The Day 2 separation (raqia between waters above and waters below) is re-established. The cosmic water-boundary, breached in the flood, is restored.
@@ -104,7 +102,7 @@ And the fountains of the deep and the windows of the sky were stopped, and the r
 
 And the waters returned from upon the land, going and returning, and the waters diminished at the end of one hundred and fifty days.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔵 **"GOING AND RETURNING" (*halokh va-shov*)**
 > - **הָלוֹךְ וָשׁוֹב** = "going and returning" — the waters recede in an oscillating pattern, not an instant drainage. The Hebrew infinitive absolute conveys ongoing, gradual process.
@@ -115,7 +113,7 @@ And the waters returned from upon the land, going and returning, and the waters 
 
 And the {t:tebah} rested in the seventh month, on the seventeenth day of the month, upon the mountains of Ararat.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟢 **"MOUNTAINS OF ARARAT"**
 > - **הָרֵי אֲרָרָט** (*hare Ararat*) = "mountains of Ararat" — a mountain range, not a single peak. Ararat = the ancient kingdom of Urartu (eastern Turkey/Armenia). The text says "mountains" (plural), not "Mount Ararat" (singular).
@@ -129,7 +127,7 @@ And the {t:tebah} rested in the seventh month, on the seventeenth day of the mon
 
 And the waters were going and diminishing until the tenth month; in the tenth *month*, on the first of the month, the tops of the mountains appeared.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔵 **"APPEARED" — DRY GROUND RE-EMERGING**
 > - The tops of the mountains become visible — echoing Gen 1:9: "Let the dry *ground* appear." Creation Day 3: land emerges from water. Here again: land emerges from water. Re-creation continues.
@@ -140,7 +138,7 @@ And the waters were going and diminishing until the tenth month; in the tenth *m
 
 And it was at the end of forty days, and Noah opened the window of the {t:tebah} which he had made.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔵 **"WINDOW" (*challon*)**
 > - **חַלּוֹן** (*challon*) = window. A different word from **צֹהַר** (*tsohar*) in 6:16 (roof-opening/light-source, UNCERTAIN). Noach opens a *challon* (a regular window), not the *tsohar*.
@@ -151,7 +149,7 @@ And it was at the end of forty days, and Noah opened the window of the {t:tebah}
 
 And he sent out the raven, and it went out, going out and returning, until the waters dried from upon the land.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟢 **THE RAVEN (*orev*)**
 > - **הָעֹרֵב** (*ha-orev*) = the raven. Sent first. "Going out and returning" is ambiguous: circling without landing, returning to the tebah, or leaving permanently while the waters "return." No result reported — the dove becomes the effective test.
@@ -162,7 +160,7 @@ And he sent out the raven, and it went out, going out and returning, until the w
 
 And he sent out the dove from with him, to see whether the waters had eased from upon the face of the ground.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟢 **THE DOVE (*yonah*)**
 > - **הַיּוֹנָה** (*ha-yonah*) = the dove. Sent after the raven. The dove becomes the test — three sendings, three results, progressive revelation of the land's state.
@@ -173,7 +171,7 @@ And he sent out the dove from with him, to see whether the waters had eased from
 
 And the dove did not find a resting place for the sole of her foot, and she returned to him to the {t:tebah}, for waters *were* on the face of all the land; and he put out his hand and took her and brought her to him into the {t:tebah}.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟢 **"RESTING PLACE" (*manoach*)**
 > - **מָנוֹחַ** (*manoach*) = resting place. Root: נ-ו-ח — again the same root as **Noach**. The dove cannot find *manoach* — a "Noach-place." Third occurrence of the n-w-ch root in this chapter (after v.4 *tanach* and the name Noach itself).
@@ -190,7 +188,7 @@ And he waited yet seven more days, and again he sent out the dove from the {t:te
 
 And the dove came to him at evening time, and see, a freshly plucked olive leaf *was* in her mouth; and Noah knew that the waters had eased from upon the land.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟢 **"FRESHLY PLUCKED" (*taraf*)**
 > - **עֲלֵה־זַיִת טָרָף** (*aleh-zayit taraf*) = "olive leaf freshly plucked." The word *taraf* implies torn/plucked — the leaf was living, not dead debris. The olive tree survived the flood.
@@ -201,7 +199,7 @@ And the dove came to him at evening time, and see, a freshly plucked olive leaf 
 
 And he waited yet seven more days, and he sent out the dove, and she did not return to him again.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔵 **THREE SENDINGS — PROGRESSIVE REVELATION**
 > - Dove 1: returns with nothing (no dry ground). Dove 2: returns with olive leaf (vegetation emerging). Dove 3: does not return (land habitable). The three-stage sequence reveals the earth's recovery gradually.
@@ -212,7 +210,7 @@ And he waited yet seven more days, and he sent out the dove, and she did not ret
 
 And it was in the six hundred and first year, in the first *month*, on the first of the month, the waters dried from upon the land; and Noah removed the covering of the {t:tebah} and looked, and see, the face of the ground had dried.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔵 **"FIRST MONTH, FIRST DAY" — NEW BEGINNING**
 > - Year 601, Month 1, Day 1. The dried earth coincides with a calendrical new beginning — the first day of the first month of a new year. Whether this is coincidence or narrative design: the text aligns the new earth with a new temporal cycle.
@@ -223,7 +221,7 @@ And it was in the six hundred and first year, in the first *month*, on the first
 
 And in the second month, on the twenty-seventh day of the month, the land was dry.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔵 **TWO "DRIED" VERBS**
 > - v.13: **חָרְבוּ** (*charvu*) = surface-dried. v.14: **יָבְשָׁה** (*yavshah*) = fully dried. Two different verbs for two stages of drying. The land first dries on the surface (13th day/1st month), then dries completely (27th day/2nd month).
@@ -240,7 +238,7 @@ And God spoke to Noah, saying,
 
 @@"Go out from the {t:tebah}, you and your woman and your sons and the women of your sons with you.@@
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔵 **"GO OUT" — DIVINE COMMAND**
 > - Noach waited for God's command to exit, just as he waited for God's command to enter (7:1). He does not act on his own judgment despite seeing the dry ground (v.13). Silent obedience continues.
@@ -251,7 +249,7 @@ And God spoke to Noah, saying,
 
 @@Every living thing which *is* with you from all flesh — the bird and the livestock and every creeping thing that creeps upon the land — bring out with you, and they shall swarm on the land, and be fruitful and multiply upon the land."@@
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔴 **"BE FRUITFUL AND MULTIPLY" — GEN 1 ECHO**
 > - **וּפָרוּ וְרָבוּ** (*u-faru ve-ravu*) = "and be fruitful and multiply." Same command as Gen 1:22 (to creatures) and 1:28 (to humans). The re-creation parallel is explicit: the post-flood world receives the same blessing as the original creation. Life begins again.
@@ -268,7 +266,7 @@ And Noah went out, and his sons and his woman and the women of his sons with him
 
 Every living thing, every creeping thing and every bird, everything that moves upon the land, to their families they went out from the {t:tebah}.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟢 **"TO THEIR FAMILIES" (*le-mishpechoteihem*)**
 > - **לְמִשְׁפְּחֹתֵיהֶם** = "to their families/clans." NOT *lemin* ("to its kind" — the creation formula). A different word: *mishpachah* = family/clan. The animals exit as families, not as taxonomic categories.
@@ -279,7 +277,7 @@ Every living thing, every creeping thing and every bird, everything that moves u
 
 And Noah built an altar to YHWH, and he took from every clean livestock and from every clean bird, and he offered up burnt offerings on the altar.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔴 **FIRST ALTAR (*mizbeach*)**
 > - **מִזְבֵּחַ** (*mizbeach*) = altar. First occurrence. From root ז-ב-ח (*z-b-ch*, to slaughter/sacrifice). Noah builds the first altar in the narrative. He sacrifices "from every clean" animal — this is why "seven seven" of clean animals were taken: the extras are for sacrifice.
@@ -293,7 +291,7 @@ And Noah built an altar to YHWH, and he took from every clean livestock and from
 
 And YHWH smelled the pleasing aroma, and YHWH said in his heart, @@"I will not again curse the ground on account of the human, for the inclination of the heart of the human *is* evil from his youth; and I will not again strike every living thing as I have done.@@
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔴 **CRITICAL — "PLEASING AROMA" (*reach ha-nichoach*)**
 > - **רֵיחַ הַנִּיחֹחַ** (*reach ha-nichoach*) = "aroma of the soothing/pleasing." Root of *nichoach*: נ-ו-ח — the SAME root as **Noach** and "rest." The sacrifice of Noah produces a *nichoach* aroma. The name-wordplay saturates this chapter.
@@ -312,7 +310,7 @@ And YHWH smelled the pleasing aroma, and YHWH said in his heart, @@"I will not a
 
 @@While yet all the days of the land, seed-time and harvest, and cold and heat, and summer and winter, and day and night shall not cease."@@
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔵 **CREATION RHYTHMS RESTORED**
 > - Six paired opposites: seed-time/harvest, cold/heat, summer/winter, day/night. The last pair echoes Gen 1:5 ("God called the light Day, and the darkness he called Night"). The flood disrupted the created order; this verse guarantees its continuity. The re-creation is sealed with temporal rhythm.

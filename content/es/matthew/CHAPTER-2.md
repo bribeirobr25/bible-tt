@@ -28,17 +28,14 @@
 
 ## GUÍA DE LECTURA
 
-**Texto Principal:** Traducción primaria — legible pero fiel a la estructura griega
-**Notas:** Características griegas esenciales inmediatamente debajo de cada versículo
-***Cursiva:*** Palabras agregadas para la gramática española (no presentes en el texto griego)
-**"Comillas":** Discurso directo
-**el Señor:** kyrios traducido según la Política del Nombre Divino GS (Opción C) al citar pasajes del AT con YHWH
+**Texto Principal:** Traducción primaria — legible pero fiel a la estructura griega. **Notas:** Rasgos griegos esenciales justo debajo de cada versículo.
 
-**Iconos de Notas:**
-- 🔴 **CRÍTICO** - Decisiones textuales o traductoras importantes
-- 🟢 **LÉXICO** - Significados de palabras, rango semántico, términos del glosario
-- 🔵 **GRAMATICAL** - Estructura griega, aspecto verbal, sintaxis
-- 🟡 **TEOLÓGICO** - Opciones interpretativas, preservación de ambigüedad
+**Cómo está marcado el texto:**
+- *Palabras en cursiva* — añadidas para la gramática del español (no están en el texto griego)
+- {a:viento/espíritu} — una palabra que el griego deja abierta a dos sentidos, ambos conservados
+- @@"…"@@ — habla directa de Dios o de Yeshua (Jesús)
+
+Las notas se etiquetan por tipo — **Crítico · Léxico · Gramatical · Teológico** — cada una con su color (vea la leyenda en la parte superior de la vista de Notas).
 
 **Este capítulo es el más cargado del AT en la narrativa del nacimiento.** Cuatro fórmulas de citación ("para que se cumpliera lo dicho") impulsan la narrativa: Miqueas 5:1 (Beyt-Lechem), Oseas 11:1 (fuera de Mitsrayim), Jeremías 31:15 (Raquel llorando), y un misterioso "Será llamado Natsri" sin una fuente única del AT. Cada cita usa kyrios Opción C con la conexión YHWH del AT anotada. Los nombres propios siguen la transliteración TT: Herodes (no Herodes familiar), Beyt-Lechem (no Belén), Mitsrayim (no Egipto), Natseret (no Nazaret).
 

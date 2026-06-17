@@ -28,17 +28,14 @@
 
 ## GUIA DE LEITURA
 
-**📖 Texto Principal:** Tradução primária — legível mas fiel à estrutura grega
-**📝 Notas:** Características gregas essenciais imediatamente abaixo de cada versículo
-***Itálico:*** Palavras adicionadas para a gramática portuguesa (não presentes no texto grego)
-**"Aspas":** Discurso direto
-**o Senhor:** κύριος traduzido conforme Política GS do Nome Divino (Opção C) ao citar passagens do AT que contêm YHWH
+**Texto Principal:** Tradução primária — legível, mas fiel à estrutura grega. **Notas:** Recursos gregos essenciais logo abaixo de cada versículo.
 
-**Ícones das Notas:**
-- 🔴 **CRÍTICO** - Decisões textuais ou tradutórias importantes
-- 🟢 **LEXICAL** - Significados de palavras, alcance semântico, termos do glossário
-- 🔵 **GRAMATICAL** - Estrutura grega, aspecto verbal, sintaxe
-- 🟡 **TEOLÓGICO** - Opções interpretativas, preservação de ambiguidade
+**Como o texto é marcado:**
+- *Palavras em itálico* — acrescentadas para a gramática do português (não estão no texto grego)
+- {a:vento/espírito} — uma palavra que o grego deixa aberta a dois sentidos, ambos mantidos
+- @@"…"@@ — fala direta de Deus ou de Yeshua (Jesus)
+
+As notas são marcadas por tipo — **Crítico · Lexical · Gramatical · Teológico** — cada uma com sua cor (veja a legenda no topo da visão de Notas).
 
 **Este capítulo contém duas cenas principais e uma nota de transição.** As bodas em Qanah (vv.1–12) introduzem o primeiro "sinal" (*sēmeion*) — um termo que João usa deliberadamente em vez de "milagre" (*dynamis*) ou "prodígio" (*teras*). A purificação do templo (vv.13–22) introduz a distinção entre ναός (*naos*, o santuário interno) e ἱερόν (*hieron*, o complexo do templo). O capítulo encerra com um comentário do narrador sobre o conhecimento que Yeshua tem da natureza humana (vv.23–25). Os nomes próprios seguem a transliteração TT: Qanah (não Caná), Yeshua (não Jesus), Kfar Nachum (não Cafarnaum), Yerushalayim (não Jerusalém).
 
@@ -82,7 +79,7 @@
 
 E no terceiro dia houve uma festa de casamento em Qanah da Galil (Galileia), e a mãe de Yeshua (Jesus) estava ali.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **"NO TERCEIRO DIA" — τῇ ἡμέρᾳ τῇ τρίτῃ**
 > - A expressão τῇ ἡμέρᾳ τῇ τρίτῃ (*tē hēmera tē tritē*) = "no terceiro dia." Contado a partir do último evento narrado no cap. 1 (o chamado de Philippos e Nathanael). Os marcadores temporais acumulados em 1:29, 1:35, 1:43 e agora 2:1 criam uma sequência que abrange aproximadamente uma semana — ecoando a estrutura da criação de sete dias de Gn 1. Se esse eco é deliberado ou coincidente é debatido. A expressão "no terceiro dia" retornará com significado diferente no v.19 (a predição da ressurreição).
@@ -99,7 +96,7 @@ E no terceiro dia houve uma festa de casamento em Qanah da Galil (Galileia), e a
 
 E Yeshua (Jesus) também foi convidado, e seus seguidores, para a festa de casamento.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **"SEGUIDORES" — μαθηταί (*mathētai*)**
 > - **μαθηταί** (*mathētai*) = aprendizes, estudantes, seguidores. O termo descreve aqueles que seguem um mestre para aprender. A esta altura da narrativa (após 1:35–51), Jesus reuniu pelo menos cinco seguidores: André, o discípulo não identificado, Simão Pedro, Filipe e Natanael.
@@ -110,7 +107,7 @@ E Yeshua (Jesus) também foi convidado, e seus seguidores, para a festa de casam
 
 E *quando* o vinho faltou, a mãe de Yeshua (Jesus) diz-lhe: "Eles não têm vinho."
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **"O VINHO FALTOU" — ὑστερήσαντος τοῦ οἴνου**
 > - **ὑστερήσαντος τοῦ οἴνου** = genitivo absoluto, "tendo o vinho faltado" — temporal: "quando o vinho faltou." O verbo **ὑστερέω** (*hystereō*) = faltar, ficar insuficiente, acabar. Ficar sem vinho em uma festa de casamento era uma falha social grave para a família anfitriã — implicava provisão inadequada e trazia vergonha.
@@ -124,7 +121,7 @@ E *quando* o vinho faltou, a mãe de Yeshua (Jesus) diz-lhe: "Eles não têm vin
 
 E Yeshua (Jesus) diz-lhe: @@"Que *há* entre mim e ti, mulher? A minha hora ainda não chegou."@@
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **CRÍTICO — τί ἐμοὶ καὶ σοί ("QUE HÁ ENTRE MIM E TI")**
 > - **τί ἐμοὶ καὶ σοί, γύναι** (*ti emoi kai soi, gynai*) = literalmente "que a mim e a ti, mulher?" Este é um idioma semítico (hebraico: מַה־לִּי וָלָךְ, *mah-li valakh*) encontrado na BH em Juízes 11:12, 2 Sm 16:10, 1 Rs 17:18, 2 Rs 3:13, 2 Cr 35:21; em cada ocorrência a fórmula cria distância entre falante e destinatário. A TT traduz literalmente conforme Regra 1. Para discussão mais completa do alcance de uso na BH e a força contextual, veja o companheiro Seção D1.
@@ -141,7 +138,7 @@ E Yeshua (Jesus) diz-lhe: @@"Que *há* entre mim e ti, mulher? A minha hora aind
 
 Sua mãe diz aos servos: "Tudo o que ele lhes disser, façam."
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **ECO DE GN 41:55 — "FAZEI TUDO O QUE ELE VOS DISSER"**
 > - A instrução da mãe aos servos — ὅ τι ἂν λέγῃ ὑμῖν ποιήσατε (*ho ti an legē hymin poiēsate*) — ecoa a instrução do Faraó a respeito de Yosef em Gn 41:55 LXX: πορεύεσθε πρὸς Ιωσηφ καὶ ὃ ἐὰν εἴπῃ ὑμῖν ποιήσατε ("ide a Yosef, e tudo o que ele vos disser, fazei"). Se o eco é deliberado é debatido; a sobreposição verbal é próxima o suficiente para ser notada. Em ambos os casos, uma figura de autoridade direciona subordinados a obedecer as instruções daquele que proverá.
@@ -155,7 +152,7 @@ Sua mãe diz aos servos: "Tudo o que ele lhes disser, façam."
 
 Ora, havia ali seis jarros de pedra para água, postos conforme a purificação dos yehudim, cada um comportando duas ou três medidas.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **"PURIFICAÇÃO" — καθαρισμός (*katharismos*)**
 > - **κατὰ τὸν καθαρισμὸν τῶν Ἰουδαίων** = "conforme a purificação dos yehudim." Os jarros de pedra eram para lavagem ritual das mãos antes das refeições e outros ritos de purificação prescritos pela tradição judaica (cf. Mc 7:3–4). Vasos de pedra eram preferidos porque, segundo a regra halakhica, a pedra não contrai impureza ritual (*tum'ah*) — ao contrário do barro, que deve ser quebrado se contaminado.
@@ -172,7 +169,7 @@ Ora, havia ali seis jarros de pedra para água, postos conforme a purificação 
 
 Yeshua (Jesus) diz-lhes: @@"Encham os jarros com água."@@ E eles os encheram até em cima.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **"ATÉ EM CIMA" — ἕως ἄνω**
 > - **ἕως ἄνω** (*heōs anō*) = "até em cima/até a borda." A obediência dos servos é total — sem meias medidas. O detalhe elimina a possibilidade de mistura: os jarros estavam completamente cheios de água.
@@ -183,7 +180,7 @@ Yeshua (Jesus) diz-lhes: @@"Encham os jarros com água."@@ E eles os encheram at
 
 E ele lhes diz: @@"Retirem agora e levem ao mestre de cerimônias."@@ E *o* levaram.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **"MESTRE DE CERIMÔNIAS" — ἀρχιτρίκλινος (*architriklinos*)**
 > - **ἀρχιτρίκλινος** (*architriklinos*) = o mestre de cerimônias ou chefe do banquete — a pessoa responsável por administrar o banquete, provar o vinho e dirigir o serviço. Um papel social conhecido na cultura de banquetes greco-romana e judaica. O mestre de cerimônias funciona como testemunha involuntária: ele prova o vinho sem saber sua origem.
@@ -194,7 +191,7 @@ E ele lhes diz: @@"Retirem agora e levem ao mestre de cerimônias."@@ E *o* leva
 
 E quando o mestre de cerimônias provou a água que se tornara vinho — e não sabia de onde era, mas os servos que haviam retirado a água sabiam — o mestre de cerimônias chama o noivo
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **"A ÁGUA QUE SE TORNARA VINHO" — DESCRIÇÃO PARTICIPIAL**
 > - **τὸ ὕδωρ οἶνον γεγενημένον** (*to hydōr oinon gegenēmenon*) = "a água que se tornara vinho." O particípio perfeito **γεγενημένον** (*gegenēmenon*) de γίνομαι (*ginomai*) = "tendo se tornado" — a transformação é apresentada como completada. O narrador descreve o resultado sem narrar o processo. Não há nenhum momento de transformação descrito — a água foi retirada e a água se tornara vinho. O mecanismo está ausente do texto.
@@ -208,7 +205,7 @@ E quando o mestre de cerimônias provou a água que se tornara vinho — e não 
 
 e diz-lhe: "Todo homem põe primeiro o bom vinho, e quando *já* estão embriagados, o inferior. Você guardou o bom vinho até agora."
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **"EMBRIAGADOS" — μεθυσθῶσιν (*methysthōsin*)**
 > - **μεθυσθῶσιν** (*methysthōsin*) = aoristo passivo subjuntivo de μεθύσκω (*methyskō*) = "ficar embriagado/intoxicado." A observação do mestre de cerimônias é prática, não teológica: o costume do banquete era servir o melhor vinho primeiro, antes que os paladares dos convidados ficassem embotados. O texto não moraliza sobre a embriaguez — registra a observação do mestre de cerimônias sobre a prática padrão.
@@ -222,7 +219,7 @@ e diz-lhe: "Todo homem põe primeiro o bom vinho, e quando *já* estão embriaga
 
 Este princípio dos sinais Yeshua (Jesus) fez em Qanah da Galileia e revelou a sua glória, e seus seguidores confiaram nele.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **CRÍTICO — "SINAL" (*SĒMEION*), NÃO "MILAGRE"**
 > - **σημεῖον** (*sēmeion*) = sinal — algo que aponta para uma realidade além de si mesmo. João nunca usa **δύναμις** (*dynamis*, "poder/ato poderoso") ou **τέρας** (*teras*, "prodígio/portento") para descrever os atos de Jesus. Os Sinóticos usam *dynamis* frequentemente. O termo *sēmeion* de João enquadra o ato como revelador — ele significa algo, não meramente exibe poder. A transformação de água em vinho não é chamada de "milagre" — é chamada de "sinal." A distinção é deliberada e estruturante para a teologia de João.
@@ -242,7 +239,7 @@ Este princípio dos sinais Yeshua (Jesus) fez em Qanah da Galileia e revelou a s
 
 Depois disso ele desceu a Kfar Nachum (Cafarnaum) — ele e sua mãe e seus irmãos e seus seguidores — e ali permaneceram não muitos dias.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **KFAR NACHUM — TRANSLITERAÇÃO TT**
 > - **Καφαρναούμ** (*Kapharnaoum*) = forma grega do hebraico/aramaico כְּפַר נַחוּם (*Kfar Nachum*, "aldeia de Nachum"). A TT preserva a forma semítica. Cafarnaum era uma aldeia de pescadores na margem noroeste do Kinneret (Mar da Galileia). Os Sinóticos a apresentam como a base do ministério galileu de Jesus.
@@ -259,7 +256,7 @@ Depois disso ele desceu a Kfar Nachum (Cafarnaum) — ele e sua mãe e seus irm�
 
 E a Páscoa dos yehudim estava próxima, e Yeshua (Jesus) subiu a Yerushalayim (Jerusalém).
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **"PÁSCOA" — πάσχα (*pascha*)**
 > - **τὸ πάσχα** (*to pascha*) = Páscoa — do hebraico פֶּסַח (*pesach*). João menciona três Páscoas (2:13, 6:4, 11:55), implicando um ministério de pelo menos dois a três anos. Os Sinóticos narram apenas uma Páscoa. A colocação da purificação do templo na primeira Páscoa (em vez da última, como nos Sinóticos) é uma diferença estrutural significativa — veja nota no v.14.
@@ -273,7 +270,7 @@ E a Páscoa dos yehudim estava próxima, e Yeshua (Jesus) subiu a Yerushalayim (
 
 E encontrou no *complexo do* templo os que vendiam gado e ovelhas e pombas, e os cambistas sentados.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **CRÍTICO — ἱερόν (*HIERON*) vs. ναός (*NAOS*)**
 > - **ἐν τῷ ἱερῷ** (*en tō hierō*) = "no *hieron*" — o complexo do templo como um todo, incluindo os pátios, pórticos e áreas comerciais. Isto é distinto de **ναός** (*naos*), o santuário interno (o lugar santo e o santo dos santos), que Jesus referenciará no v.19. O comércio acontecia no Pátio dos Gentios — o pátio mais externo do complexo do templo. A TT traduz *hieron* como "complexo do templo" (em itálico para marcar a distinção) e *naos* como "santuário."
@@ -290,7 +287,7 @@ E encontrou no *complexo do* templo os que vendiam gado e ovelhas e pombas, e os
 
 E tendo feito um chicote de cordas, expulsou a todos do *complexo do* templo, tanto as ovelhas quanto o gado, e derramou as moedas dos cambistas e virou as mesas.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **"TENDO FEITO UM CHICOTE" — φραγέλλιον ποιήσας**
 > - **φραγέλλιον** (*phragellion*) = um chicote, do latim *flagellum*. A palavra é um empréstimo — um dos vários termos latinos em João (cf. πραιτώριον, *praitōrion*, 18:28; λιθόστρωτον, *lithostrōton*, 19:13). **ἐκ σχοινίων** (*ek schoiniōn*) = "de cordas/juncos." O chicote é improvisado com materiais à mão. Apenas João menciona o chicote.
@@ -304,7 +301,7 @@ E tendo feito um chicote de cordas, expulsou a todos do *complexo do* templo, ta
 
 E aos que vendiam as pombas disse: @@"Tirem estas *coisas* daqui; não façam da casa de meu Pai uma casa de comércio."@@
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟡 **"CASA DE MEU PAI" — τὸν οἶκον τοῦ πατρός μου**
 > - Jesus refere-se ao templo como "a casa de meu Pai" — uma reivindicação de relação filial com Deus que o narrador não qualifica. Os paralelos sinóticos citam Is 56:7 ("minha casa será chamada casa de oração") e Jr 7:11 ("covil de ladrões"). João não cita nenhum dos dois — a acusação é diferente: não roubo (*lēstērion*) mas comércio (*emporion*). A questão não é exploração, mas a presença de comércio na casa do Pai.
@@ -318,7 +315,7 @@ E aos que vendiam as pombas disse: @@"Tirem estas *coisas* daqui; não façam da
 
 Seus seguidores lembraram que está escrito: "O zelo de sua casa me consumirá."
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **CRÍTICO — CITAÇÃO DO SALMO 69:9 (LXX 68:10)**
 > - **ὁ ζῆλος τοῦ οἴκου σου καταφάγεταί με** = "o zelo da tua casa me consumirá." Citado do Salmo 69:9 (LXX 68:10). O original hebraico diz: כִּי־קִנְאַת בֵּיתְךָ אֲכָלָתְנִי (*ki-qin'at beytekha akhalatni*) = "pois o zelo da tua casa me consumiu" — tempo passado. A LXX (a Septuaginta, a antiga tradução grega da Bíblia Hebraica) traduz o verbo como futuro: καταφάγεταί (*kataphagetai*) = "consumirá." João segue o tempo futuro da LXX, que transforma o salmo de um lamento passado para uma antecipação profética. O "zelo" (*zēlos*) que "consumirá" Jesus aponta para a paixão — seu zelo pela casa de Deus levará à sua morte.
@@ -332,7 +329,7 @@ Seus seguidores lembraram que está escrito: "O zelo de sua casa me consumirá."
 
 Então os yehudim responderam e lhe disseram: "Que sinal nos mostras, *visto* que fazes estas coisas?"
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟡 **EXIGÊNCIA DE UM SINAL — QUESTÃO DE AUTORIDADE**
 > - Os yehudim exigem um **σημεῖον** (*sēmeion*) — um sinal autenticando a autoridade de Jesus para perturbar as operações do templo. A exigência pressupõe que ações proféticas ou messiânicas requerem credenciais validadoras. A ironia: Jesus acabou de realizar o primeiro sinal (v.11), mas este público não estava presente em Qanah. Eles exigem o que já foi dado em outro lugar.
@@ -346,7 +343,7 @@ Então os yehudim responderam e lhe disseram: "Que sinal nos mostras, *visto* qu
 
 Yeshua (Jesus) respondeu e lhes disse: @@"Destruam este santuário, e em três dias eu o levantarei."@@
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **CRÍTICO — ναός (*NAOS*), NÃO ἱερόν (*HIERON*)**
 > - **λύσατε τὸν ναὸν τοῦτον** = "destruí este *naos*." Jesus muda de *hieron* (o complexo do templo, v.14) para *naos* (o santuário interno). O *naos* é o núcleo sagrado — o lugar de habitação da presença de Deus, o santo dos santos. O narrador explicará (v.21) que Jesus estava falando sobre seu corpo como o *naos*. A mudança de *hieron* para *naos* é deliberada — o corpo não é o "complexo do templo" (a estrutura institucional) mas o "santuário" (o lugar de habitação da presença divina).
@@ -363,7 +360,7 @@ Yeshua (Jesus) respondeu e lhes disse: @@"Destruam este santuário, e em três d
 
 Então os yehudim disseram: "Este santuário foi construído *em* quarenta e seis anos, e você o levantará em três dias?"
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **"QUARENTA E SEIS ANOS" — τεσσεράκοντα καὶ ἓξ ἔτεσιν**
 > - Herodes, o Grande, começou a renovação/expansão do templo por volta de 20/19 a.C. (Josefo, *Antiguidades* 15.380). Quarenta e seis anos a partir dessa data resulta em aproximadamente 27/28 d.C. — um marcador cronológico para a datação do ministério de Jesus. A construção tecnicamente ainda estava em andamento (não foi concluída até aproximadamente 63 d.C., apenas sete anos antes de sua destruição em 70 d.C.). O verbo **οἰκοδομήθη** (*oikodomēthē*) = aoristo passivo, "foi construído" — resumindo a construção como um todo completado, embora o trabalho continuasse.
@@ -374,7 +371,7 @@ Então os yehudim disseram: "Este santuário foi construído *em* quarenta e sei
 
 Mas ele falava a respeito do santuário do seu corpo.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **CRÍTICO — EXPLICAÇÃO RETROSPECTIVA DO NARRADOR**
 > - **ἐκεῖνος δὲ ἔλεγεν περὶ τοῦ ναοῦ τοῦ σώματος αὐτοῦ** = "mas aquele falava a respeito do *naos* do seu corpo." Este é o comentário interpretativo do narrador, inserido para guiar o leitor. O imperfeito **ἔλεγεν** (*elegen*) = "ele falava" — o narrador explica o que Jesus estava dizendo o tempo todo. A identificação corpo = *naos* (santuário, lugar de habitação de Deus) é explícita. Esta chave hermenêutica é dada pelo narrador, não por Jesus — dentro da história, os yehudim não recebem esta explicação.
@@ -388,7 +385,7 @@ Mas ele falava a respeito do santuário do seu corpo.
 
 Quando portanto ele foi levantado dos mortos, seus seguidores lembraram que ele disse isto, e confiaram na escritura e na palavra que Yeshua (Jesus) havia falado.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **"FOI LEVANTADO" — ἠγέρθη (AORISTO PASSIVO)**
 > - **ἠγέρθη** (*ēgerthē*) = aoristo passivo de ἐγείρω (*egeirō*) = "foi levantado." A voz passiva implica um agente: ele foi levantado (por Deus). Isso contrasta com o v.19 onde Jesus diz "eu o levantarei" (ativo) — sugerindo tanto agência divina quanto auto-agência na ressurreição. A tensão entre voz passiva e ativa é preservada, não resolvida.
@@ -405,7 +402,7 @@ Quando portanto ele foi levantado dos mortos, seus seguidores lembraram que ele 
 
 E quando ele estava em Yerushalayim (Jerusalém) na Páscoa, na festa, muitos confiaram em seu nome, vendo os sinais que ele fazia.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟡 **CONFIANÇA BASEADA EM SINAIS — QUALIFICADA**
 > - **πολλοὶ ἐπίστευσαν εἰς τὸ ὄνομα αὐτοῦ** = "muitos confiaram em seu nome." A confiança descrita aqui é provocada por sinais — a mesma base que a confiança dos seguidores no v.11. Mas os versículos seguintes (24–25) qualificarão essa confiança como insuficiente. João distingue entre confiança provocada por sinais (que Jesus não retribui) e uma confiança mais profunda. O grego é idêntico em forma ao v.11 — a diferença está na resposta de Jesus a ela.
@@ -419,7 +416,7 @@ E quando ele estava em Yerushalayim (Jerusalém) na Páscoa, na festa, muitos co
 
 Mas o próprio Yeshua (Jesus) não se confiava a eles, porque ele conhecia a todos,
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **CRÍTICO — JOGO DE PALAVRAS COM *PISTEUŌ* (CONFIAR/CONFIAR-SE)**
 > - **αὐτὸς δὲ Ἰησοῦς οὐκ ἐπίστευεν αὑτὸν αὐτοῖς** = "mas o próprio Jesus não se confiava a eles." O verbo **πιστεύω** (*pisteuō*) é usado no v.23 para a confiança da multidão em Jesus e no v.24 para a não-confiança de Jesus em relação à multidão. O jogo de palavras é intraduzível sem preservar a mesma raiz verbal: eles *confiaram* nele, mas ele não se *confiou* a eles. O imperfeito **ἐπίστευεν** (*episteuen*) = não-confiança contínua — habitual, não uma decisão pontual.
@@ -433,7 +430,7 @@ Mas o próprio Yeshua (Jesus) não se confiava a eles, porque ele conhecia a tod
 
 e porque ele não tinha necessidade de que alguém testemunhasse a respeito do ser humano — pois ele mesmo sabia o que havia no ser humano.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **"O SER HUMANO" — τοῦ ἀνθρώπου / τῷ ἀνθρώπῳ**
 > - **τί ἦν ἐν τῷ ἀνθρώπῳ** = "o que havia no ser humano." O artigo **τῷ** (*tō*) é genérico — "o ser humano" como categoria, não uma pessoa específica. O conhecimento de Jesus não se limita a certos indivíduos; estende-se à natureza humana em si. A declaração é antropológica: ele sabe o que os seres humanos são. O capítulo que começou com uma festa de casamento termina com uma declaração sobre a não confiabilidade da natureza humana.
@@ -488,7 +485,6 @@ A sequência de dias ao longo de João 1–2 pode ecoar a semana da criação, c
 | Resultado | Cosmos ordenado | Glória revelada |
 
 Em Gênesis, a água é a matéria-prima a partir da qual Deus ordena a criação. Em João 2, a água é a matéria-prima a partir da qual o sinal produz vinho. Ambas as transformações ocorrem por comando verbal. O *logos* que foi o agente da criação (1:3) agora transforma os elementos da criação.
-
 
 **Gn 2:8–9 (jardim / fruto) → João 2:1–10 (casamento / vinho):**
 

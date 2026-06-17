@@ -26,18 +26,15 @@
 
 ## READING GUIDE
 
-**📖 Main Text:** Primary translation—readable but faithful to Hebrew structure
-**📝 Notes:** Essential Hebrew features immediately below each verse
-***Italics:*** Words added for English grammar (not in Hebrew text)
-**"Quotes":** Direct divine speech or human speech
-**YHWH:** Tetragrammaton rendered consonantally (Rule 25, Option A)
-**raqia, yatzar, etc.:** Transliterated Hebrew terms (explained in notes)
+**Main Text:** Primary translation — readable but faithful to Hebrew structure. **Notes:** Essential Hebrew features immediately below each verse.
 
-**Note Icons:**
-- 🔴 **CRITICAL** - Major textual or translation decisions
-- 🟢 **LEXICAL** - Word meanings, root patterns, glossary terms
-- 🔵 **GRAMMATICAL** - Hebrew structure, verb forms, syntax
-- 🟡 **THEOLOGICAL** - Interpretive options, ambiguity preservation
+**How the text is marked:**
+- *Words in italics* — added for English grammar (not in the Hebrew text)
+- {t:raqia} — transliterated Hebrew terms kept untranslated (explained in notes)
+- {a:wind/spirit} — a word the Hebrew leaves open to two meanings, both kept
+- @@"…"@@ — direct speech of God
+
+Notes are tagged by type — **Critical · Lexical · Grammatical · Theological** — each shown with its colour (see the legend at the top of the Notes view).
 
 **This chapter follows Rule 23 (Genre Sensitivity):** Genesis 1's locked formulas do NOT mechanically apply here. Genesis 2 is narrative, not liturgical rhythm.
 
@@ -81,7 +78,7 @@
 
 And were finished the skies and the land and all their host.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟢 **HOST**
 > - **צָבָא** (*tsava*) = army/host—military metaphor applied to the totality of creation; often used of angelic or stellar hosts elsewhere, but here plainly "everything in them"
@@ -95,7 +92,7 @@ And were finished the skies and the land and all their host.
 
 And God finished on the seventh day his work which he had made, and he rested on the seventh day from all his work which he had made.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔴 **CRITICAL - TEXTUAL VARIANT**
 > - MT reads **בַּיּוֹם הַשְּׁבִיעִי** (*bayom hashvi'i*) = "on the seventh day" for the *finishing*. The LXX (the ancient Greek translation) and Samaritan Pentateuch read "on the sixth day" (likely harmonizing, since finishing and resting on the same day is theologically awkward).
@@ -111,7 +108,7 @@ And God finished on the seventh day his work which he had made, and he rested on
 
 And God blessed the seventh day and sanctified it, for on it he rested from all his work which God created to make.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔴 **FIRST SANCTIFICATION**
 > - **וַיְקַדֵּשׁ** (*vayeqaddesh*) = "and he sanctified/set apart"—first use of the root **ק-ד-שׁ** (*q-d-sh*) in the Bible. The first thing called holy is a *time*, not a place or object.
@@ -125,7 +122,7 @@ And God blessed the seventh day and sanctified it, for on it he rested from all 
 
 These *are* the generations of the skies and the land when they were created, in the day YHWH Elohim made land and skies.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔴 **CRITICAL - FIRST YHWH (Tetragrammaton)**
 > - **יהוה** (YHWH) appears here for the first time in the Bible.
@@ -148,7 +145,7 @@ These *are* the generations of the skies and the land when they were created, in
 
 And every shrub of the field not yet was on the land, and every herb of the field not yet sprouted, for YHWH Elohim had not caused rain upon the land, and a human there was not to work the ground.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔵 **NEGATIVE-PRECREATION SERIES**
 > - Chain of "not yet" clauses sets a pre-creation state before the narrative acts. Hebrew **טֶרֶם** (*terem*) = "not yet/before."
@@ -163,7 +160,7 @@ And every shrub of the field not yet was on the land, and every herb of the fiel
 
 And *a* mist went up from the land and watered all the face of the ground.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟡 **UNCERTAIN - *ed***
 > - **אֵד** (*ed*) = rare word; appears twice in the Hebrew Bible (here + Job 36:27). Meaning **UNCERTAIN** — **POSSIBLE** glosses: mist, vapor, spring, stream. → For the Akkadian cognate *edû* and ANE water-source tradition, see chapter companion §B.
@@ -174,7 +171,7 @@ And *a* mist went up from the land and watered all the face of the ground.
 
 And YHWH Elohim formed the human, dust from the ground, and breathed into his nostrils breath of life, and the human became *a* living being.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔴 **CRITICAL - *adam* / *adamah* WORDPLAY**
 > - **אָדָם** (*adam*) = human; **אֲדָמָה** (*adamah*) = ground. Same consonantal root.
@@ -194,7 +191,7 @@ And YHWH Elohim formed the human, dust from the ground, and breathed into his no
 
 And YHWH Elohim planted a garden in Eden from east, and placed there the human whom he had formed.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟢 **EDEN**
 > - **עֵדֶן** (*eden*) = a place name here; homophonous with a common noun meaning "delight/pleasure." **POSSIBLE** resonance, not forced in translation.
@@ -208,7 +205,7 @@ And YHWH Elohim planted a garden in Eden from east, and placed there the human w
 
 And YHWH Elohim caused to sprout from the ground every tree pleasant to the sight and good for food, and the tree of the life in the midst of the garden, and the tree of the knowledge of good and evil.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔴 **TWO TREES**
 > - **עֵץ הַחַיִּים** (*etz ha-chayyim*) = "the tree of the life" (with article both places). **עֵץ הַדַּעַת טוֹב וָרָע** (*etz hada'at tov va-ra*) = "the tree of the knowledge-of-good-and-evil." Two distinct trees introduced in one verse; both become central in Gen 3.
@@ -222,7 +219,7 @@ And YHWH Elohim caused to sprout from the ground every tree pleasant to the sigh
 
 And *a* river going out from Eden to water the garden, and from there it divided and became four heads.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔵 **PARTICIPLE - ONGOING**
 > - **יֹצֵא** (*yotze*) = "going out" (participle)—ongoing/habitual action, not completed past.
@@ -233,7 +230,7 @@ And *a* river going out from Eden to water the garden, and from there it divided
 
 The name of the one *is* Pishon; it *is* the one going around all the land of Havilah, where *the* gold *is*.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟢 **PROPER NAMES**
 > - **פִּישׁוֹן** (*Pishon*), **חֲוִילָה** (*Havilah*)—transliterated; geographical identification **UNCERTAIN** in modern terms.
@@ -244,7 +241,7 @@ The name of the one *is* Pishon; it *is* the one going around all the land of Ha
 
 And the gold of that land *is* good; there *is* the bdellium and the stone shoham.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟡 **UNCERTAIN MATERIALS**
 > - **בְּדֹלַח** (*bedolach*) = "bdellium"—plant resin or possibly a gemstone; identification debated.
@@ -256,7 +253,7 @@ And the gold of that land *is* good; there *is* the bdellium and the stone shoha
 
 And the name of the second river *is* Gihon; it *is* the one going around all the land of Cush.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟢 **CUSH**
 > - **כּוּשׁ** (*Kush*) = region south of Egypt (modern Sudan/Ethiopia), though the geography here is debated.
@@ -267,7 +264,7 @@ And the name of the second river *is* Gihon; it *is* the one going around all th
 
 And the name of the third river *is* Hiddeqel; it *is* the one going east of Asshur. And the fourth river, that *is* Perat.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟢 **IDENTIFIABLE RIVERS**
 > - **חִדֶּקֶל** (*Hiddeqel*) = Tigris; **פְּרָת** (*Perat*) = Euphrates. Rivers 1–2 (Pishon, Gihon) **UNCERTAIN**. → For Mesopotamian river geography and ANE context, see chapter companion §B.
@@ -278,7 +275,7 @@ And the name of the third river *is* Hiddeqel; it *is* the one going east of Ass
 
 And YHWH Elohim took the human and placed him in the garden of Eden to work it and to keep it.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔴 **TO WORK AND TO KEEP**
 > - **לְעָבְדָהּ וּלְשָׁמְרָהּ** (*le'ovdah ulshomrah*) = "to work it and to keep it"—feminine suffixes (antecedent **UNCERTAIN** — **POSSIBLE**: *gan* or *adamah*). Paired infinitives: **ע-ב-ד** (serve/work), **שׁ-מ-ר** (keep/guard/observe). → For the Tabernacle echo (Num 3:7–8, 8:26) and priestly-vocation intertext, see chapter companion §C.
@@ -289,7 +286,7 @@ And YHWH Elohim took the human and placed him in the garden of Eden to work it a
 
 And YHWH Elohim commanded upon the human, saying, @@"From every tree of the garden eating you shall eat.@@
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔴 **INFINITIVE ABSOLUTE**
 > - **אָכֹל תֹּאכֵל** (*akhol tokhel*) = "eating you shall eat"—Hebrew **infinitive absolute** construction used for emphasis. Traditional smooth renderings: "you may freely eat" / "you shall surely eat."
@@ -301,7 +298,7 @@ And YHWH Elohim commanded upon the human, saying, @@"From every tree of the gard
 
 @@But from the tree of the knowledge of good and evil, you shall not eat from it, for in the day of your eating from it dying you shall die."@@
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔴 **INFINITIVE ABSOLUTE (NEGATIVE)**
 > - **מוֹת תָּמוּת** (*mot tamut*) = "dying you shall die"—same emphatic infinitive-absolute construction as v.16. Traditional smooth rendering: "you shall surely die."
@@ -317,7 +314,7 @@ And YHWH Elohim commanded upon the human, saying, @@"From every tree of the gard
 
 And YHWH Elohim said, @@"Not good the being of the human alone; I will make for him *a* helper as his counterpart."@@
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔴 **CRITICAL - *ezer kenegdo***
 > - **עֵזֶר כְּנֶגְדּוֹ** (*ezer kenegdo*) = "helper as his counterpart." **NOT "helpmate,"** which imports a KJV-era compression absent from the Hebrew.
@@ -333,7 +330,7 @@ And YHWH Elohim said, @@"Not good the being of the human alone; I will make for 
 
 And YHWH Elohim formed from the ground every living thing of the field and every bird of the sky, and brought *them* to the human to see what he would call to it; and all that the human called to *each* living being, that *is* its name.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟢 **yatzar AGAIN**
 > - *yatzar* (formed) is used here for animals — same verb as v.7 used for the human. **NOT *bara*** (which Gen 1 used at 1:21 for animals and 1:27 for humans). Gen 2 prefers the potter's verb.
@@ -347,7 +344,7 @@ And YHWH Elohim formed from the ground every living thing of the field and every
 
 And the human called names to all the livestock, and to the bird of the sky, and to every living thing of the field, but for the human he did not find a helper as his counterpart.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟢 **NAMING**
 > - Naming in the ancient Near East is an act of dominion/classification — echoes Gen 1:26, 28 *radah* (dominion) but executed in concrete form. Not theological import; note structurally.
@@ -361,7 +358,7 @@ And the human called names to all the livestock, and to the bird of the sky, and
 
 And YHWH Elohim caused a deep sleep to fall upon the human, and he slept; and he took one of his {a:sides/ribs}, and closed flesh beneath it.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟢 **DEEP SLEEP**
 > - **תַּרְדֵּמָה** (*tardemah*) = "deep sleep"—distinct from ordinary sleep; used later for divinely induced sleep (e.g., Abraham, Gen 15:12). Not trance, not death.
@@ -376,7 +373,7 @@ And YHWH Elohim caused a deep sleep to fall upon the human, and he slept; and he
 
 And YHWH Elohim built the {a:side/rib} which he had taken from the human into *a* woman, and brought her to the human.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔴 **NEW VERB - *banah***
 > - **וַיִּבֶן** (*vayyiven*) = "and he built"—root **ב-נ-ה** (*b-n-h*), construction verb. The only place in the creation narratives where God's action is described as **building**. Distinct from *bara*, *asah*, *yatzar*.
@@ -388,7 +385,7 @@ And YHWH Elohim built the {a:side/rib} which he had taken from the human into *a
 
 And the human said, "This *one*, this time, bone from my bones and flesh from my flesh; to this *one* shall be called *ishah* (woman), for from *ish* (man) was this *one* taken."
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔴 **CRITICAL - *ish* / *ishah* WORDPLAY**
 > - **אִישׁ** (*ish*) = man; **אִשָּׁה** (*ishah*) = woman. The phonetic pair is preserved in transliteration in the main text so the Hebrew wordplay is visible. Etymologically the two words are **not** from the same root (despite appearances), but the text plays on the sound.
@@ -403,7 +400,7 @@ And the human said, "This *one*, this time, bone from my bones and flesh from my
 
 Therefore shall *a* man leave his father and his mother and cling to his woman, and they shall become one flesh.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔵 **NARRATOR'S ASIDE**
 > - Shift from character speech (v.23) to narrator's commentary (v.24). Hebrew **עַל־כֵּן** (*al-ken*) = "therefore / for this reason"—etiological marker explaining a present-day practice.
@@ -417,7 +414,7 @@ Therefore shall *a* man leave his father and his mother and cling to his woman, 
 
 And they were both of them naked, the human and his woman, and they were not ashamed.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔴 **FORESHADOWING WORDPLAY**
 > - **עֲרוֹם** (*arom*) = naked. Gen 3:1 opens with **עָרוּם** (*arum*) = crafty/shrewd (of the serpent). Same consonants, different vocalization. Hebrew wordplay foreshadowing the next scene.

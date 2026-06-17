@@ -26,18 +26,15 @@
 
 ## READING GUIDE
 
-**📖 Main Text:** Primary translation—readable but faithful to Hebrew structure
-**📝 Notes:** Essential Hebrew features immediately below each verse
-***Italics:*** Words added for English grammar (not in Hebrew text)
-**"Quotes":** Direct divine speech or human speech
-**YHWH:** Tetragrammaton rendered consonantally (Rule 25, Option A)
-**Chava, nachash, etc.:** Transliterated Hebrew terms (explained in notes)
+**Main Text:** Primary translation — readable but faithful to Hebrew structure. **Notes:** Essential Hebrew features immediately below each verse.
 
-**Note Icons:**
-- 🔴 **CRITICAL** - Major textual or translation decisions
-- 🟢 **LEXICAL** - Word meanings, root patterns, glossary terms
-- 🔵 **GRAMMATICAL** - Hebrew structure, verb forms, syntax
-- 🟡 **THEOLOGICAL** - Interpretive options, ambiguity preservation
+**How the text is marked:**
+- *Words in italics* — added for English grammar (not in the Hebrew text)
+- {t:raqia} — transliterated Hebrew terms kept untranslated (explained in notes)
+- {a:wind/spirit} — a word the Hebrew leaves open to two meanings, both kept
+- @@"…"@@ — direct speech of God
+
+Notes are tagged by type — **Critical · Lexical · Grammatical · Theological** — each shown with its colour (see the legend at the top of the Notes view).
 
 **Rule 23 (Genre Sensitivity):** Narrative prose, not liturgical pattern. The chapter contains no inherited English theological vocabulary ("the Fall," "original sin," "protoevangelium," "Satan") unless Hebrew justifies it — and Hebrew does not.
 
@@ -85,7 +82,7 @@
 
 And the serpent was more crafty than every living thing of the field which YHWH Elohim had made. And he said to the woman, "Indeed, has God said, 'You shall not eat from every tree of the garden'?"
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔴 **CRITICAL - WORDPLAY WITH 2:25**
 > - **עָרוּם** (*arum*) = "crafty/shrewd" — same consonants as **עֲרוֹם** (*arom*) = "naked" in Gen 2:25. Deliberate sonic hinge between chapters.
@@ -107,7 +104,7 @@ And the serpent was more crafty than every living thing of the field which YHWH 
 
 And the woman said to the serpent, "From the fruit of the trees of the garden we may eat,
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔵 **CORRECTS THE FRAME**
 > - The woman corrects the serpent's misstatement by repeating the positive permission. This makes v.3 her addition to the original command more striking.
@@ -118,7 +115,7 @@ And the woman said to the serpent, "From the fruit of the trees of the garden we
 
 but from the fruit of the tree which *is* in the midst of the garden God said, 'You shall not eat from it, and you shall not touch it, lest you die.'"
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔴 **THE WOMAN ADDS "TOUCH"**
 > - Original command (2:17): prohibition is **eating only**, and the consequence is **"dying you shall die"** (infinitive absolute).
@@ -134,7 +131,7 @@ but from the fruit of the tree which *is* in the midst of the garden God said, '
 
 And the serpent said to the woman, "Not dying you shall die.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔴 **CRITICAL - NEGATED INFINITIVE ABSOLUTE**
 > - **לֹא־מוֹת תְּמוּתוּן** (*lo mot temutun*) = literally "not dying you shall die." Direct negation of 2:17's **מוֹת תָּמוּת** (*mot tamut*) = "dying you shall die."
@@ -147,7 +144,7 @@ And the serpent said to the woman, "Not dying you shall die.
 
 For God knows that in the day of your eating from it your eyes shall be opened, and you shall be like {a:God/gods}, knowing good and evil."
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔴 **CRITICAL - *ke-elohim*: "LIKE GOD / LIKE GODS"**
 > - **כֵּאלֹהִים** (*ke-elohim*) — *Elohim* is grammatically plural but used for the singular God throughout Genesis. Here, the ambiguity is genuinely active: "like God" (one) or "like gods" (plural/divine beings). Both preserved via slash (Rule 2).
@@ -161,7 +158,7 @@ For God knows that in the day of your eating from it your eyes shall be opened, 
 
 And the woman saw that the tree *was* good for food, and that *it was* a delight to the eyes, and that the tree *was* desirable to make wise; and she took from its fruit and ate, and she gave also to her man with her, and he ate.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔵 **THREE CLAUSES**
 > - Echoes Gen 2:9 ("pleasant to sight and good for food") and adds a third: "desirable to make wise." Pattern of three parallel descriptors.
@@ -175,7 +172,7 @@ And the woman saw that the tree *was* good for food, and that *it was* a delight
 
 And the eyes of both of them were opened, and they knew that they *were* naked; and they sewed fig leaves and made for themselves loin-coverings.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔵 **PASSIVE FULFILLS PROMISE**
 > - Same niphal form as v.5 — the serpent's prediction about eyes opening is fulfilled, though what they see (their own nakedness) differs from what the serpent implied.
@@ -189,7 +186,7 @@ And the eyes of both of them were opened, and they knew that they *were* naked; 
 
 And they heard the voice of YHWH Elohim walking in the garden at the wind of the day, and the human and his woman hid themselves from the face of YHWH Elohim in the midst of the tree of the garden.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟢 **QOL — VOICE OR SOUND?**
 > - **קוֹל** (*qol*) = "voice / sound / noise." The word's semantic range is broader than any single English rendering. In Gen 3:8, *qol* describes what is heard of YHWH Elohim *walking* — arguably a **sound** rather than a **voice**. In Gen 3:10, *qol* is what the human heard and responded to — arguably a **voice**. Both occurrences use the same Hebrew word. Main text renders "voice" consistently (Rule 1); the broader range is flagged here. The text does not resolve whether God was speaking, making footstep sounds, or something else.
@@ -206,7 +203,7 @@ And they heard the voice of YHWH Elohim walking in the garden at the wind of the
 
 And YHWH Elohim called to the human, and said to him, @@"Where *are* you?"@@
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔴 **"WHERE ARE YOU"**
 > - **אַיֶּכָּה** (*ayyekkah*) = "where *are* you?" — single Hebrew word. The most famous single-word question in Genesis. Rhetorical rather than informational (divine omniscience assumed by narrative), but the Hebrew gives no frame beyond the literal question. Preserve literally.
@@ -217,7 +214,7 @@ And YHWH Elohim called to the human, and said to him, @@"Where *are* you?"@@
 
 And he said, "Your voice I heard in the garden, and I was afraid, for I *am* naked, and I hid myself."
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔵 **FRONTED OBJECT**
 > - **אֶת־קֹלְךָ שָׁמַעְתִּי** (*et-qolkha shamati*) = "your voice I heard" — object fronted for emphasis. Preserved in English word order.
@@ -228,7 +225,7 @@ And he said, "Your voice I heard in the garden, and I was afraid, for I *am* nak
 
 And he said, @@"Who told you that you *are* naked? From the tree which I commanded you not to eat from it, have you eaten?"@@
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔵 **TWO QUESTIONS**
 > - First question: *who* informed him of his nakedness — implies the shame-awareness came from an external act. Second question: did he eat from the forbidden tree. Pattern of indirect, then direct, confrontation.
@@ -239,7 +236,7 @@ And he said, @@"Who told you that you *are* naked? From the tree which I command
 
 And the human said, "The woman whom you gave *to be* with me, she gave to me from the tree, and I ate."
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔵 **DOUBLE ATTRIBUTION**
 > - Human's answer attributes agency twice: to the woman ("she gave") and indirectly to YHWH Elohim ("whom *you* gave"). Preserve without interpretation.
@@ -250,7 +247,7 @@ And the human said, "The woman whom you gave *to be* with me, she gave to me fro
 
 And YHWH Elohim said to the woman, @@"What *is* this you have done?"@@ And the woman said, "The serpent deceived me, and I ate."
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟢 **DECEIVED**
 > - **הִשִּׁיאַנִי** (*hishi'ani*) = "deceived/beguiled me" — hiphil of נ-ש-א or of נ-ש-ה. **UNCERTAIN** root; both give "deceive/lead astray." Not "tempted" (which imports later theological vocabulary).
@@ -261,7 +258,7 @@ And YHWH Elohim said to the woman, @@"What *is* this you have done?"@@ And the w
 
 And YHWH Elohim said to the serpent, @@"Because you have done this, cursed *are* you from every livestock and from every living thing of the field; upon your belly you shall go, and dust you shall eat all the days of your life.@@
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟢 **CURSED**
 > - **אָרוּר** (*arur*) = "cursed." First occurrence of this word in the Bible. Passive/stative; the serpent is placed into a cursed state.
@@ -276,7 +273,7 @@ And YHWH Elohim said to the serpent, @@"Because you have done this, cursed *are*
 
 @@And enmity I will set between you and between the woman, and between your seed and between her seed; he shall {a:bruise/strike} you *on the* head, and you shall {a:bruise/strike} him *on the* heel."@@
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔴 **CRITICAL - *shuf***
 > - **שׁוּף** (*shuf*) used twice with the same form for both actions — on the head and on the heel. Meaning **UNCERTAIN**: "bruise / strike / crush / attack / aim at." Rare verb (only 3 occurrences in Hebrew Bible).
@@ -297,7 +294,7 @@ And YHWH Elohim said to the serpent, @@"Because you have done this, cursed *are*
 
 To the woman he said, @@"Multiplying I will multiply your toil and your pregnancy; in toil you shall bear sons. And toward your man *shall be* your {a:desire/turning}, and he shall rule over you."@@
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔴 **INFINITIVE ABSOLUTE**
 > - **הַרְבָּה אַרְבֶּה** (*harbah arbeh*) = "multiplying I will multiply" — emphatic infinitive absolute. Preserved structurally per Rule 5.
@@ -319,7 +316,7 @@ To the woman he said, @@"Multiplying I will multiply your toil and your pregnanc
 
 And to the human he said, @@"Because you have listened to the voice of your woman, and have eaten from the tree which I commanded you, saying, 'You shall not eat from it,' cursed *is* the ground because of you; in toil you shall eat *from it* all the days of your life.@@
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟢 **ARTICLE NOTE**
 > - **לְאָדָם** (*le-adam*) **without the article** here. **POSSIBLE** transition toward proper name *Adam*, but translation preserves "the human" for continuity with Gen 2 (where *ha-adam* dominates). Transition to proper-name use formally resolved in Gen 4. Flagged per Rule 17.
@@ -333,7 +330,7 @@ And to the human he said, @@"Because you have listened to the voice of your woma
 
 @@And thorn and thistle it shall bring forth to you, and you shall eat the herb of the field.@@
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔵 **ECHO OF 2:5**
 > - Gen 2:5 described a pre-creation state: no shrub, no herb. Here the *herb of the field* becomes human food — the same category that did not yet exist in 2:5 returns, but now under labor.
@@ -344,7 +341,7 @@ And to the human he said, @@"Because you have listened to the voice of your woma
 
 @@In the sweat of your face you shall eat bread, until your returning to the ground, for from it you were taken; for dust you *are*, and to dust you shall return."@@
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔴 **DUST TO DUST**
 > - **עָפָר אַתָּה וְאֶל־עָפָר תָּשׁוּב** (*afar atah ve-el afar tashuv*) = "dust you *are* and to dust you shall return." Closes the frame opened at 2:7 (*"dust from the ground"*). The text uses present-tense language ("dust you *are*"), which can be read as describing an existing condition rather than imposing a new one. Whether mortality is intrinsic to the human's dusty constitution or newly imposed here is debated; the Hebrew wording does not settle the question.
@@ -355,7 +352,7 @@ And to the human he said, @@"Because you have listened to the voice of your woma
 
 And the human called the name of his woman Chava (Eve), for she was mother of all the living.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔴 **CRITICAL - NAMING OF CHAVA**
 > - **חַוָּה** (*Chavvah*, transliterated *Chava*) = proper name. Transparent Edition keeps *Chava*; Reader Edition may use "Eve" (Septuagint *Εὔα* via Vulgate *Heva*). → For the LXX→Vulgate→traditional-rendering reception history, see chapter companion §F.
@@ -370,7 +367,7 @@ And the human called the name of his woman Chava (Eve), for she was mother of al
 
 And YHWH Elohim made for the human and for his woman garments of skin, and he clothed them.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟢 **GARMENTS**
 > - **כָּתְנוֹת עוֹר** (*kotnot or*) = "tunics / garments of skin." Contrast with the *chagorot* (loin-coverings) they made themselves in v.7.
@@ -382,7 +379,7 @@ And YHWH Elohim made for the human and for his woman garments of skin, and he cl
 
 And YHWH Elohim said, @@"See, the human has become like one of us to know good and evil; and now, lest he stretch out his hand and take also from the tree of the life, and eat, and live forever…"@@
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔴 **APOSIOPESIS** *(deliberate trailing-off)*
 > - Hebrew sentence **breaks off unfinished** — no main clause after the "lest" series. Technically **aposiopesis** (σιωπή, "silence") — a deliberate rhetorical break rather than a mere syntactic anacoluthon. The speaker stops short of stating the consequence. The ellipsis (…) preserves the broken construction. Completion is narrative, not grammatical: v.23 is the implicit apodosis (*therefore YHWH Elohim sent him out…*).
@@ -401,7 +398,7 @@ And YHWH Elohim said, @@"See, the human has become like one of us to know good a
 
 And YHWH Elohim sent him out from the garden of Eden to work the ground from which he was taken.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔵 **RETURN TO THE VOCATION**
 > - *To work the ground* — same verb **ע-ב-ד** (*'-b-d*) as 2:5, 2:15 (where the human was placed in the garden *to work it*). The vocation of working the ground continues; the setting changes from garden to wider *adamah*.
@@ -412,7 +409,7 @@ And YHWH Elohim sent him out from the garden of Eden to work the ground from whi
 
 And he drove out the human; and he caused to dwell at the east of the garden of Eden the cherubim, and the flame of the sword turning, to guard the way of the tree of the life.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟢 **CHERUBIM**
 > - **כְּרוּבִים** (*keruvim*) = plural of *keruv*. Transliterated rather than over-translated. Ancient Near Eastern iconography: composite guardian figures (not the later winged children of Christian art). Note kept minimal per Rule 12.

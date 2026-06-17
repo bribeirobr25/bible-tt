@@ -27,17 +27,15 @@
 
 ## GUIA DE LECTURA
 
-**📖 Texto Principal:** Traducción primaria—legible pero fiel a la estructura hebrea
-**📝 Notas:** Características hebreas esenciales inmediatamente debajo de cada versículo
-***Cursiva:*** Palabras anadidas para la gramática española (no presentes en el texto hebreo)
-**"Comillas":** Discurso divino directo o habla humana
-**YHWH:** Tetragrama transliterado consonantalmente (Regla 25, Opción A)
+**Texto Principal:** Traducción primaria — legible pero fiel a la estructura hebrea. **Notas:** Rasgos hebreos esenciales justo debajo de cada versículo.
 
-**Iconos de Notas:**
-- 🔴 **CRÍTICO** - Decisiones textuales o de traducción importantes
-- 🟢 **LÉXICO** - Significados de palabras, patrones de raices, términos del glosario
-- 🔵 **GRAMATICAL** - Estructura hebrea, formas verbales, sintaxis
-- 🟡 **TEOLÓGICO** - Opciónes interpretativas, preservacíon de ambigüedad
+**Cómo está marcado el texto:**
+- *Palabras en cursiva* — añadidas para la gramática del español (no están en el texto hebreo)
+- {t:raqia} — términos hebreos transliterados, sin traducir (explicados en las notas)
+- {a:viento/espíritu} — una palabra que el hebreo deja abierta a dos sentidos, ambos conservados
+- @@"…"@@ — habla directa de Dios
+
+Las notas se etiquetan por tipo — **Crítico · Léxico · Gramatical · Teológico** — cada una con su color (vea la leyenda en la parte superior de la vista de Notas).
 
 **Política Humano / Adan (Regla 17):** En este capítulo, *ha-adam* (con artículo) en el v.1 = "el humano" (continuando la política de Gn 2–3). En el **v.25**, el texto cambia a *adam* sin artículo en contexto de genealogía/nombramiento — este es el **punto de transición** al nombre propio "Adan." Senalado con nota 🔴 CRÍTICO.
 
@@ -81,7 +79,7 @@
 
 Y el humano conoció a Eva, su mujer, y ella concibió y dio a luz a Caín, y dijo: "He adquirido un hombre con YHWH."
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **JUEGO DE PALABRAS QAYIN / QANAH**
 > - **קַיִן** (*Qayin*) = Cain. **קָנָה** (*qanah*) = adquirir/obtener. El discurso de la mujer hace la etimologia explícita: "Yo *qaniti* (adquiri) un hombre." Juego de palabras preservado conforme Regla 14.
@@ -98,7 +96,7 @@ Y el humano conoció a Eva, su mujer, y ella concibió y dio a luz a Caín, y di
 
 Y dio a luz de nuevo, a su hermano Abel. Y Abel era *un* pastor de rebano, y Caín era *un* labrador del suelo.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **HEVEL = VAPOR/ALIENTO**
 > - **הֶבֶל** (*Hevel*) = "vapor, aliento, fugaz." El nombre lleva su significado — la misma palabra usada en Eclesiastes para "vanidad/futilidad." Si el nombre presagia su destino es POSIBLE pero no resuelto por el texto.
@@ -112,7 +110,7 @@ Y dio a luz de nuevo, a su hermano Abel. Y Abel era *un* pastor de rebano, y Ca�
 
 Y fue al fin de los días, y Caín trajo del fruto del suelo una ofrenda a YHWH.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **OFRENDA**
 > - **מִנְחָה** (*minjah*) = ofrenda/don/tributo. Posteriormente se convierte en término tecnico para ofrenda de cereal (Lv 2). Aqui, simplemente "ofrenda."
@@ -123,7 +121,7 @@ Y fue al fin de los días, y Caín trajo del fruto del suelo una ofrenda a YHWH.
 
 Y Abel, él también trajo de los primogenitos de su rebano y de su grasa. Y YHWH miró a Abel y a su ofrenda,
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟡 **¿POR QUE MIRO?**
 > - El texto dice que YHWH miró la ofrenda de Abel pero NO dice por que. "Primogenitos" y "grasa" (mejores porciones) pueden indicar diferencia de calidad — pero el texto no lo establece como la razon. Regla 12 — no sobreexplicar lo que el texto deja sin explicar.
@@ -134,7 +132,7 @@ Y Abel, él también trajo de los primogenitos de su rebano y de su grasa. Y YHW
 
 pero a Caín y a su ofrenda no miró. Y ardió a Caín grandemente, y su rostro cayó.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **"LE ARDIO"**
 > - **וַיִּחַר** (*vayyijar*) = "y ardió" — modismo para la ira (literalmente "le fue caliente"). Preservado literalmente.
@@ -151,7 +149,7 @@ Y YHWH dijo a Caín: @@"¿Por que *te* arde, y por que ha caido tu rostro?@@
 
 @@Si haces bien, ¿no *hay* elevacíon? Y si no haces bien, a la puerta el pecado se agazapa, y hacia ti *es* su {a:deseo/inclinación}, pero tu debes dominar sobre el."@@
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **CRÍTICO — PRIMER "PECADO" EN LA BIBLIA**
 > - **חַטָּאת** (*jatat*) = pecado. Primera ocurrencia. Aqui **personificado** — el pecado "se agazapa" (רֹבֵץ *rovets*, participio que describe a un animal al acecho). El pecado se presenta como una entidad con agencia, no como un concepto abstracto.
@@ -169,7 +167,7 @@ Y YHWH dijo a Caín: @@"¿Por que *te* arde, y por que ha caido tu rostro?@@
 
 Y Caín dijo a Abel, su hermano… Y fue cuando estaban en el campo, y Caín se levanto contra Abel, su hermano, y lo mató.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **CRÍTICO — VARIANTE TEXTUAL (LAGUNA)**
 > - TM: "Y Caín dijo a Abel, su hermano" — la oración parece **incompleta**. No se registra contenido de habla. La Septuaginta (la antigua traducción griega de la Biblia Hebrea, abreviada LXX) y el Pentateuco Samaritano anaden: "Vayamos al campo" (*nelkha ha-sadeh*).
@@ -184,7 +182,7 @@ Y Caín dijo a Abel, su hermano… Y fue cuando estaban en el campo, y Caín se 
 
 Y YHWH dijo a Caín: @@"¿Donde *esta* Abel, tu hermano?"@@ Y él dijo: "No se. ¿*Soy* yo el guardian de mi hermano?"
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **ECO DE 3:9**
 > - "¿Donde esta Abel?" hace eco de "¿Donde estas tu?" (3:9 *ayyekkah*). Ambas son preguntas divinas que inauguran secuencias de interrogatorio. Ambas son retoricas (Dios conoce la respuesta).
@@ -198,7 +196,7 @@ Y YHWH dijo a Caín: @@"¿Donde *esta* Abel, tu hermano?"@@ Y él dijo: "No se. 
 
 Y dijo: @@"¿Que has hecho? La voz de las sangres de tu hermano *esta* clamandó a mi desde el suelo.@@
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **"SANGRES" — PLURAL**
 > - **דְּמֵי** (*demei*) = "sangres" (plural constructo). NO singular "sangre." El hebreo usa plural — significados POSIBLES: multiples derramamientos de sangre, la sangre vital en su plenitud, o (tradición rabinica) la sangre de sus descendientes que nunca existiran. Plural preservado.
@@ -212,7 +210,7 @@ Y dijo: @@"¿Que has hecho? La voz de las sangres de tu hermano *esta* clamandó
 
 @@Y ahora, maldito *eres* tu desde el suelo que abrió su boca para recibir las sangres de tu hermano de tu mano.@@
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **ARUR — MALDITO**
 > - **אָרוּר** (*arur*) = maldito. En Gn 3, solo la serpiente (3:14) y el suelo (3:17) fueron maldecidos — nunca los humanos. Ahora Caín ES maldecido. Escalada: criatura → suelo → humano.
@@ -226,7 +224,7 @@ Y dijo: @@"¿Que has hecho? La voz de las sangres de tu hermano *esta* clamandó
 
 @@Cuando labres el suelo, no volvera a dar su fuerza a ti. Errante y fugitivo seras sobre la tierra."@@
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **DOBLE DESPLAZAMIENTO**
 > - **נָע וָנָד** (*na va-nad*) = "errante y fugitivo" — duplicación de raices (Regla 6). Dos cuasi-sinonimos que intensifican el exilio. Caín pierde tanto la vocación (el suelo no producira) como la ubicación (errancia).
@@ -237,7 +235,7 @@ Y dijo: @@"¿Que has hecho? La voz de las sangres de tu hermano *esta* clamandó
 
 Y Caín dijo a YHWH: "Mi {a:pecado/castigo} *es* demásiado grande para soportar.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **AVON — ¿PECADO O CASTIGO?**
 > - **עֲוֹנִי** (*avoni*) = "mi pecado" O "mi castigo." La palabra hebrea significa tanto la culpa COMO su consecuencia. Regla 2 — la barra preserva ambos: "mi pecado/castigo." Las traducciónes tradicionales eligen uno; la TT preserva la ambigüedad.
@@ -248,7 +246,7 @@ Y Caín dijo a YHWH: "Mi {a:pecado/castigo} *es* demásiado grande para soportar
 
 He aquí, me has expulsado hoy de sobre la faz del suelo, y de tu faz sere escondido, y sere errante y fugitivo sobre la tierra, y sera *que* cualquiera que me encuentre me matara."
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟡 **"DE TU FAZ"**
 > - La queja de Caín nombra dos exilios: del suelo (vocación) y de la faz de Dios (presencia divina). El segundo es el mayor — 4:16 confirmara que "salió de la faz de YHWH."
@@ -259,7 +257,7 @@ He aquí, me has expulsado hoy de sobre la faz del suelo, y de tu faz sere escon
 
 Y YHWH le dijo: @@"Por tanto, cualquiera que mate a Caín, siete veces sera vengado."@@ Y YHWH puso para Caín una senal, para que cualquiera que lo encontrara no lo hiriera.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟡 **LA SENAL — NO ESPECIFICADA**
 > - **אוֹת** (*ot*) = senal/marca. El texto NO dice que es la señal — ¿una marca en su cuerpo? ¿protección divina? ¿una advertencia a otros? Regla 12 — sin falsa precision; el texto es deliberadamente vago.
@@ -273,7 +271,7 @@ Y YHWH le dijo: @@"Por tanto, cualquiera que mate a Caín, siete veces sera veng
 
 Y Caín salió de la faz de YHWH, y habito en la tierra de Nod, al este de Eden.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **"AL ESTE DE EDEN" — LA DIRECCION DEL EXILIO CONTINUA**
 > - Gn 3:24: querubines al este de Eden. Gn 4:16: Caín se establece al este de Eden. El movimiento hacia el este = **patron de desplazamiento**. Referencia cruzada senalada.
@@ -287,7 +285,7 @@ Y Caín salió de la faz de YHWH, y habito en la tierra de Nod, al este de Eden.
 
 Y Caín conoció a su mujer, y ella concibió y dio a luz a Enoc. Y él estaba construyendo una ciudad, y llamó el nombre de la ciudad conforme al nombre de su hijo, Enoc.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **PRIMERA CIUDAD**
 > - El asesino exiliado construye la primera ciudad. El texto no hace evaluación explícita de esto — se afirma, no se juzga.
@@ -304,7 +302,7 @@ Y a Enoc le nació Irad, e Irad engendró a Mechuya'el, y Mechuya'el engendró a
 
 Y Lamec tomó para si dos mujeres; el nombre de la una *era* Adah, y el nombre de la segunda *era* Tsillah.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **PRIMERA POLIGAMIA**
 > - El texto registra las dos esposas de Lamec sin evaluación explícita. Primera separación registrada del patron de "una sola carne" de 2:24.
@@ -327,7 +325,7 @@ Y el nombre de su hermano *era* Yuval; él fue el padre de todos los que empunan
 
 Y Tsillah, ella también dio a luz a Tuval-Caín, *un* forjador de toda herramienta cortante de bronce y hierro. Y la hermana de Tuval-Caín *era* Na'amah.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **ORIGENES DE LA TECNOLOGIA**
 > - Tres "padres" de la civilización: Yaval (nomadismo pastoral), Yuval (musica), Tuval-Caín (metalurgia). Todos descienden de la linea exiliada de Caín. El texto registra origenes civilizatorios sin evaluarlos.
@@ -338,7 +336,7 @@ Y Tsillah, ella también dio a luz a Tuval-Caín, *un* forjador de toda herramie
 
 Y Lamec dijo a sus mujeres: "Adah y Tsillah, oigan mi voz; mujeres de Lamec, presten oido a mi discurso: Pues a un hombre he matado por mi herida, y a un niño por mi golpe.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **CANTO DE LAMEC — ESTRUCTURA POETICA**
 > - Esto es **poesia** incrustada en narrativa. Estructura paralela (oigan/presten oido; voz/discurso; hombre/nino; herida/golpe) — Regla 6 preservada. Primer poema de un humano en la Biblia (después de 2:23).
@@ -352,7 +350,7 @@ Y Lamec dijo a sus mujeres: "Adah y Tsillah, oigan mi voz; mujeres de Lamec, pre
 
 Pues siete veces Caín sera vengado, y Lamec setenta y siete."
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **SIETE → SETENTA Y SIETE**
 > - YHWH prometio protección septuple para Caín (v.15). Lamec reclama **setenta y siete** para si mismo — apropiandose de la prerrogativa divina para la venganza personal. Escalada numerica: 7 → 77.
@@ -363,7 +361,7 @@ Pues siete veces Caín sera vengado, y Lamec setenta y siete."
 
 Y Adan conoció a su mujer de nuevo, y ella dio a luz un hijo y llamó su nombre Set: "Porque Dios ha puesto para mi otra simiente en lugar de Abel, pues Caín lo mató."
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **CRÍTICO — ADAN SE CONVIERTE EN NOMBRE PROPIO**
 > - **אָדָם** (*adam*) aparece aquí **sin artículo** en contexto genealogico/de nombramiento. Este es el **punto de transición** de "el humano" generico al nombre propio "Adan." La TT cambia a "Adan" desde este versículo en adelante. Registrado en el diario editorial (entrada 081).
@@ -380,7 +378,7 @@ Y Adan conoció a su mujer de nuevo, y ella dio a luz un hijo y llamó su nombre
 
 Y a Set, también a él le nació un hijo, y llamó su nombre Enosh. Entonces *se* comenzó a invocar el nombre de YHWH.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **PRIMERA INVOCACION DE YHWH**
 > - **אָז הוּחַל לִקְרֹא בְּשֵׁם יהוה** = "Entonces se comenzó a invocar el nombre de YHWH." El pasivo (*hujal*) no específica quien comenzo. Este es el primer acto registrado de adoracion/invocación formal — la linea de Set invoca a YHWH por nombre.

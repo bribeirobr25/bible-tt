@@ -27,18 +27,15 @@
 
 ## GUIA DE LECTURA
 
-**Texto Principal:** Traducción primaria--legible pero fiel a la estructura hebrea
-**Notas:** Características hebreas esenciales inmediatamente debajo de cada versículo
-***Cursiva:*** Palabras agregadas para la gramática española (no presentes en el texto hebreo)
-**"Comillas":** Discurso divino directo o discurso humano
-**YHWH:** Tetragrama consonantal (Regla 25, Opción A)
-**Chava, nachash, etc.:** Terminos hebreos transliterados (explicados en las notas)
+**Texto Principal:** Traducción primaria — legible pero fiel a la estructura hebrea. **Notas:** Rasgos hebreos esenciales justo debajo de cada versículo.
 
-**Iconos de Notas:**
-- 🔴 **CRÍTICO** - Decisiones textuales o traductoras importantes
-- 🟢 **LÉXICO** - Significados de palabras, patrones de raices, términos del glosario
-- 🔵 **GRAMATICAL** - Estructura hebrea, formas verbales, sintaxis
-- 🟡 **TEOLÓGICO** - Opciónes interpretativas, preservacíon de ambigüedad
+**Cómo está marcado el texto:**
+- *Palabras en cursiva* — añadidas para la gramática del español (no están en el texto hebreo)
+- {t:raqia} — términos hebreos transliterados, sin traducir (explicados en las notas)
+- {a:viento/espíritu} — una palabra que el hebreo deja abierta a dos sentidos, ambos conservados
+- @@"…"@@ — habla directa de Dios
+
+Las notas se etiquetan por tipo — **Crítico · Léxico · Gramatical · Teológico** — cada una con su color (vea la leyenda en la parte superior de la vista de Notas).
 
 **Regla 23 (Sensibilidad de Genero Literario):** Prosa narrativa, no patron liturgico. El capítulo no contiene vocabulario teológico heredado del español/inglés ("la Caida," "pecado original," "protoevangelio" (latín: 'primer anuncio de buenas nuevas' — una etiqueta tradicional para este versículo), "Satanas") a menos que el hebreo lo justifique — y el hebreo no lo hace.
 

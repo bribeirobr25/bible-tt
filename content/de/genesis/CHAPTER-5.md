@@ -27,17 +27,15 @@
 
 ## LESEANLEITUNG
 
-**📖 Haupttext:** Primäre Übersetzung—lesbar aber treu der hebräischen Struktur
-**📝 Notizen:** Wesentliche hebräische Merkmale unmittelbar unter jedem Vers
-***Kursiv:*** Wörter für deutsche Grammatik hinzugefügt (nicht im hebräischen Text)
-**„Anführungszeichen":** Direkte Rede
-**JHWH:** Tetragrammaton konsonantisch transliteriert (Regel 25, Option A)
+**Haupttext:** Primärübersetzung — lesbar, aber treu zur hebräischen Struktur. **Notizen:** Wesentliche hebräische Merkmale direkt unter jedem Vers.
 
-**Notizen-Symbole:**
-- 🔴 **KRITISCH** - Wichtige textliche oder Übersetzungsentscheidungen
-- 🟢 **LEXIKALISCH** - Wortbedeutungen, Wurzelmuster, Glossarbegriffe
-- 🔵 **GRAMMATISCH** - Hebräische Struktur, Verbformen, Syntax
-- 🟡 **THEOLOGISCH** - Interpretationsoptionen, Ambiguitätsbewahrung
+**Wie der Text markiert ist:**
+- *Kursive Wörter* — für die deutsche Grammatik ergänzt (nicht im hebräischen Text)
+- {t:raqia} — transliterierte hebräische Begriffe, unübersetzt belassen (in den Notizen erklärt)
+- {a:Wind/Geist} — ein Wort, das das Hebräische in zwei Bedeutungen offenlässt, beide beibehalten
+- @@"…"@@ — direkte Rede Gottes
+
+Notizen sind nach Typ gekennzeichnet — **Kritisch · Lexikalisch · Grammatisch · Theologisch** — jeweils mit ihrer Farbe (siehe die Legende oben in der Notizen-Ansicht).
 
 **Gattungshinweis (Regel 23):** Dieses Kapitel ist eine **Genealogie** — eine strukturierte Liste, die von einer wiederkehrenden Formel bestimmt wird. Die Formel ist gemäß Regel 7 festgelegt; Abweichungen vom Muster sind textuell bedeutsam und werden vermerkt.
 
@@ -89,7 +87,7 @@
 
 Dies *ist* das Buch der Geschlechterfolgen Adams. Am Tag, da Gott *einen* Menschen erschuf, in der Gleichheit Gottes machte er ihn.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **TOLEDOT-FORMEL KEHRT ZURÜCK**
 > - **סֵפֶר תּוֹלְדֹת אָדָם** (*sefer toledot Adam*) = „das Buch der *Toledot* Adams." Zweite *Toledot*-Markierung in Genesis (erste bei 2:4). Diese fügt **סֵפֶר** (*sefer*, „Buch/Dokument") hinzu — die einzige *Toledot* mit diesem Präfix. Signalisiert eine strukturierte schriftliche Aufzeichnung.
@@ -106,7 +104,7 @@ Dies *ist* das Buch der Geschlechterfolgen Adams. Am Tag, da Gott *einen* Mensch
 
 Männlich und weiblich erschuf er sie, und er segnete sie, und er nannte ihren Namen Mensch am Tag, da sie erschaffen wurden.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔵 **„ER NANNTE IHREN NAMEN MENSCH"**
 > - **וַיִּקְרָא אֶת־שְׁמָם אָדָם** = „und er nannte ihren Namen *adam* (Mensch)." Gott benennt die Menschheit kollektiv als *adam*. Dies ist die eigene Aussage des Textes: das Wort *adam* ist ein göttlicher Name für die Art, nicht nur ein persönlicher Name.
@@ -117,7 +115,7 @@ Männlich und weiblich erschuf er sie, und er segnete sie, und er nannte ihren N
 
 Und Adam lebte einhundertunddreißig Jahre, und er zeugte in seiner Gleichheit, nach seinem Bild, und er nannte seinen Namen Set.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **BILD/GLEICHHEIT UMGEKEHRT**
 > - Gn 1:26–27: Gott erschafft den Menschen „in unserem Bild, nach unserer Gleichheit." Gn 5:3: Adam zeugt Set „in **seiner** Gleichheit, nach **seinem** Bild." Die göttlich-zu-menschliche Schöpfungssprache wird an die menschlich-zu-menschliche Abstammung **gekettet**. Das *tselem/demut*-Paar setzt sich durch die Generationen fort.
@@ -137,7 +135,7 @@ Und die Tage Adams nach *dem, als* er Set gezeugt hatte, waren achthundert Jahre
 
 Und alle Tage Adams, die er lebte, waren neunhundertunddreißig Jahre, und er starb.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **„UND ER STARB" — DER REFRAIN**
 > - **וַיָּמֹת** (*vayyamot*) = „und er starb." Diese Wendung schließt jeden genealogischen Eintrag als **festgelegte Formel** (Regel 7). Sie wiederholt sich 8 Mal in diesem Kapitel (VV. 5, 8, 11, 14, 17, 20, 27, 31). Die EINE Ausnahme ist Chanokh (Henoch) (V.24) — wo die Formel auffällig fehlt.
@@ -247,7 +245,7 @@ Und Henoch lebte fünfundsechzig Jahre, und er zeugte Metushelach (Methusalem).
 
 Und Henoch wandelte mit Gott, nachdem er Methusalem gezeugt hatte, dreihundert Jahre, und er zeugte Söhne und Töchter.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **„WANDELTE MIT GOTT" — FORMELBRUCH**
 > - Die Standardformel lautet „X lebte… und er zeugte." Bei Henoch verschiebt sich die Formel: „Henoch **wandelte mit Gott** (*vayyithalekh Henoch et-ha-Elohim*)." Dies durchbricht das Muster — das erste Mal, dass von jemandem gesagt wird, er „wandle mit" Gott. Die einzige andere Person, die diese Wendung erhält, ist Noach (Noah) (6:9).
@@ -261,7 +259,7 @@ Und Henoch wandelte mit Gott, nachdem er Methusalem gezeugt hatte, dreihundert J
 
 Und alle Tage Henochs waren dreihundertundfünfundsechzig Jahre.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟢 **365 JAHRE — KÜRZESTE LEBENSSPANNE**
 > - Henochs 365 Jahre sind bei weitem die kürzesten in dieser Genealogie (andere reichen von 777 bis 969). Dabei ist er derjenige, der „mit Gott wandelte." Die Zahl 365 = Tage im Sonnenjahr; ob dies bedeutsam ist, ist MÖGLICH, aber unaufgelöst.
@@ -272,7 +270,7 @@ Und alle Tage Henochs waren dreihundertundfünfundsechzig Jahre.
 
 Und Henoch wandelte mit Gott, und er war nicht *mehr*, denn Gott nahm ihn.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **KRITISCH — „UND ER STARB"-FORMEL FEHLT**
 > - Jeder andere Eintrag in dieser Genealogie endet mit „und er starb." Henochs Eintrag endet: **„und er war nicht mehr, denn Gott nahm ihn"** (*ve-einennu ki laqach oto Elohim*). Die Todesformel ist **auffällig ersetzt**. Der Text sagt nicht, dass er starb, sagt nicht, dass er in den Himmel ging, erklärt nicht, wohin er ging. Er sagt, Gott **nahm** ihn. Alles darüber hinaus ist spätere Interpretation.
@@ -298,7 +296,7 @@ Und Methusalem lebte, nachdem er Lamech gezeugt hatte, siebenhundertzweiundachtz
 
 Und alle Tage Methusalems waren neunhundertneunundsechzig Jahre, und er starb.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟢 **HÖCHSTES VERZEICHNETES ALTER**
 > - Methusalem mit 969 Jahren ist die am längsten lebende Person in der biblischen Aufzeichnung. Nach der chronologischen Arithmetik fällt sein Todesjahr ungefähr mit dem Jahr der Flut zusammen (Gn 7). Der Text stellt diesen Zusammenhang nicht explizit her.
@@ -315,7 +313,7 @@ Und Lamech lebte einhundertzweiundachtzig Jahre, und er zeugte einen Sohn.
 
 Und er nannte seinen Namen Noah, sprechend: „Dieser wird uns trösten von unserer Arbeit und von der Mühsal unserer Hände, vom Boden, den JHWH verflucht hat."
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟢 **NOACH / NACHAM WORTSPIEL**
 > - **נֹחַ** (*Noah*) = Noah. **נָחַם** (*nacham*) = trösten/bereuen. Die Namensetymologie verbindet Noah mit Trost/Erleichterung. Regel 14 Wortspiel markiert — die klangliche Verbindung ist annähernd (n-ch gegen n-ch-m), nicht exakt.
@@ -338,7 +336,7 @@ Und Lamech lebte, nachdem er Noah gezeugt hatte, fünfhundertfünfundneunzig Jah
 
 Und alle Tage Lamechs waren siebenhundertsiebenundsiebzig Jahre, und er starb.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟢 **777 — ECHO VON 4:24**
 > - Lamech, Sohn Methusalems, lebt 777 Jahre. Der ANDERE Lamech (Gn 4:24, kainitische Linie) beanspruchte „siebenundsiebzigfache" (*shiv'im ve-shiv'ah*) Rache. Das numerische Echo 777 / 77 zwischen den beiden Lamechs ist textuell vorhanden — ob absichtliche strukturelle Spiegelung oder Zufall, ist MÖGLICH, aber unaufgelöst.
@@ -349,7 +347,7 @@ Und alle Tage Lamechs waren siebenhundertsiebenundsiebzig Jahre, und er starb.
 
 Und Noah war fünfhundert Jahre alt, und Noah zeugte Shem, Cham (Ham) und Yafet (Jafet).
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔵 **DREI SÖHNE — FORMELBRUCH**
 > - Die Standardformel nennt einen Sohn pro Eintrag. Noahs Eintrag benennt **drei Söhne** — durchbricht das Muster. Dies bereitet die Völkertafel (Gn 10) und die Erzählstruktur nach der Flut vor.

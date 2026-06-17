@@ -26,17 +26,15 @@
 
 ## LESEANLEITUNG
 
-**📖 Haupttext:** Primäre Übersetzung—lesbar aber treu der hebräischen Struktur
-**📝 Notizen:** Wesentliche hebräische Merkmale unmittelbar unter jedem Vers
-***Kursiv:*** Wörter für deutsche Grammatik hinzugefügt (nicht im hebräischen Text)
-**„Anführungszeichen":** Direkte göttliche Rede
-**JHWH:** Tetragrammaton konsonantisch transliteriert (Regel 25, Option A)
+**Haupttext:** Primärübersetzung — lesbar, aber treu zur hebräischen Struktur. **Notizen:** Wesentliche hebräische Merkmale direkt unter jedem Vers.
 
-**Notizen-Symbole:**
-- 🔴 **KRITISCH** - Wichtige textliche oder Übersetzungsentscheidungen
-- 🟢 **LEXIKALISCH** - Wortbedeutungen, Wurzelmuster, Glossarbegriffe
-- 🔵 **GRAMMATISCH** - Hebräische Struktur, Verbformen, Syntax
-- 🟡 **THEOLOGISCH** - Interpretationsoptionen, Ambiguitätsbewahrung
+**Wie der Text markiert ist:**
+- *Kursive Wörter* — für die deutsche Grammatik ergänzt (nicht im hebräischen Text)
+- {t:raqia} — transliterierte hebräische Begriffe, unübersetzt belassen (in den Notizen erklärt)
+- {a:Wind/Geist} — ein Wort, das das Hebräische in zwei Bedeutungen offenlässt, beide beibehalten
+- @@"…"@@ — direkte Rede Gottes
+
+Notizen sind nach Typ gekennzeichnet — **Kritisch · Lexikalisch · Grammatisch · Theologisch** — jeweils mit ihrer Farbe (siehe die Legende oben in der Notizen-Ansicht).
 
 **Dieses Kapitel ist die Völkertafel — ein genealogisch-geographischer Katalog der Nachkommen von Noahs drei Söhnen: Shem, Cham (Ham) und Yafet (Jafet).** Es eröffnet mit der vierten *Toledot*-Formel (10:1) und kartiert die nachsintflutliche Menschenwelt durch Abstammung, Sprache, Gebiet und Nation. Der Großteil des Kapitels ist genealogische Auflistung; der Nimrod-Abschnitt (10:8–12) ist die bedeutende narrative Ausnahme. JHWH erscheint nur einmal (10:9). Das Kapitel endet mit einer Zusammenfassungsformel (10:32), die die *Toledot*-Struktur echot. Namen sind hier gleichzeitig Personen, Völker und Orte — der Text unterscheidet nicht immer zwischen dem Vorfahren und der Nation, die diesen Namen trägt.
 
@@ -78,7 +76,7 @@
 
 Und dies *sind* die Geschlechterfolgen der Söhne Noahs — Shem, Cham (Ham) und Yafet (Jafet); und Söhne wurden ihnen geboren nach der Flut.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟡 **STUFE 2 — ETHNOGENESE-WARNUNG**
 > - Der genealogische Rahmen dieses Kapitels darf nicht zur Konstruktion moderner ethnischer, rassischer oder nationaler Hierarchien verwendet werden. Die Völkertafel ist ein antikes politisch-geographisches Dokument, keine biologische Taxonomie moderner Völker. Siehe Begleitmaterial Abschnitt F für historischen Kontext.
@@ -95,7 +93,7 @@ Und dies *sind* die Geschlechterfolgen der Söhne Noahs — Shem, Cham (Ham) und
 
 Die Söhne Jafets: Gomer und Magog und Madai und Yavan und Tuval und Meshekh und Tiras.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **YAFETS LINIE — DIE NÖRDLICHEN UND WESTLICHEN VÖLKER**
 > - Sieben Söhne. Schlüsselidentifikationen: **Gomer** = Kimmerier (WAHRSCHEINLICH); **Magog** = unsicher (MÖGLICH: Skythen oder Anatolien); **Madai** = Meder (WAHRSCHEINLICH); **Yavan** = Ionier/Griechenland (gut bezeugt); **Tuval** = Tabal; **Meshekh** = Mushki; **Tiras** = unsicher (MÖGLICH: Thraker). Hebräisch **יָוָן** als *Yavan* nach Regel 4 — nicht dem traditionellen deutschen „Javan" folgend.
@@ -108,7 +106,7 @@ Die Söhne Jafets: Gomer und Magog und Madai und Yavan und Tuval und Meshekh und
 
 Und die Söhne Gomers: Ashkenaz und Rifat und Togarmah.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟢 **IDENTIFIKATIONEN**
 > - **Ashkenaz** = Skythen (WAHRSCHEINLICH; vgl. Akkadisch *Ashkuza/Ishkuza*). Wurde später die jüdische Bezeichnung für germanische Länder. **Rifat** = unsicher (einige MSS lesen *Difat*; vgl. 1 Chr 1:6). **Togarmah** = Ostanatolien / Armenien (WAHRSCHEINLICH).
@@ -119,7 +117,7 @@ Und die Söhne Gomers: Ashkenaz und Rifat und Togarmah.
 
 Und die Söhne Yavans: Elishah und Tarshish, Kittim und Dodanim.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟢 **IDENTIFIKATIONEN**
 > - **Elishah** = Alashiya / Zypern (WAHRSCHEINLICH). **Tarshish** = westliches Mittelmeer, möglicherweise Tartessus in Spanien (MÖGLICH) oder Sardinien (MÖGLICH). **Kittim** = Zypern / Kition (WAHRSCHEINLICH). **Dodanim** = unsicher; einige MSS und 1 Chr 1:7 lesen **Rodanim** (= Rhodos, MÖGLICH). Hinweis: *Kittim* und *Dodanim* tragen das Pluralsuffix *-im* — dies sind Völker, keine Einzelpersonen.
@@ -133,7 +131,7 @@ Und die Söhne Yavans: Elishah und Tarshish, Kittim und Dodanim.
 
 Von diesen breiteten sich die Küstenvölker aus in ihren Ländern, jeder nach seiner Zunge, nach ihren Sippen, in ihren Nationen.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟢 **„KÜSTENVÖLKER" (*iyyei ha-goyim*)**
 > - **אִיֵּי הַגּוֹיִם** = „die Küstenländer/Inseln der Nationen." *Iyyim* (אִיִּים) = Küstenländer, Inseln, maritime Regionen. Jafets Nachkommen sind die Seevölker — jene, die sich über Küstenländer und Inseln ausbreiteten. Dieser Begriff erscheint häufig in der prophetischen Literatur (Jes 42:4, 49:1) für ferne Völker.
@@ -150,7 +148,7 @@ Von diesen breiteten sich die Küstenvölker aus in ihren Ländern, jeder nach s
 
 Und die Söhne Hams: Kusch und Mitsrayim (Ägypten) und Put und Kenaan (Kanaan).
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **CHAMS LINIE — DIE SÜDLICHEN UND ÖSTLICHEN VÖLKER**
 > - Vier Söhne. Identifikationen: **Kusch** = Nubien/Oberer Nilraum (WAHRSCHEINLICH; nicht das moderne Äthiopien). **Ägypten** = Ägypten (gut bezeugt; Dualform *-ayim* mag Ober- und Unterägypten widerspiegeln). **Put** = Libyen oder Punt (MÖGLICH für beide). **Kanaan** = die Kanaaniter. Nach Regel 4 und Redaktionsprotokoll (2026-04-17-004): Transliterierung aus dem Hebräischen — Kusch, Ägypten, Kanaan (nicht „Äthiopien," „Ägypten," „Kanaan").
@@ -166,7 +164,7 @@ Und die Söhne Hams: Kusch und Mitsrayim (Ägypten) und Put und Kenaan (Kanaan).
 
 Und die Söhne Kuschs: Seva und Chavilah und Savtah und Ramah und Savtekha; und die Söhne Ramahs: Sheva und Dedan.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟢 **IDENTIFIKATIONEN**
 > - **Seva** (סְבָא) = Saba in Südarabien (WAHRSCHEINLICH). **Chavilah** (חֲוִילָה) = Region in Arabien (MÖGLICH; vgl. Gn 2:11 — derselbe Name erscheint in Shems Linie bei 10:29, was überlappende Territorien nahelegt). **Savtah** = unsicher. **Ramah** (רַעְמָה) = Ragma auf der arabischen Halbinsel (MÖGLICH). **Savtekha** = unsicher. **Sheva** (שְׁבָא) = Sheba, Südarabien / Jemen (WAHRSCHEINLICH). **Dedan** (דְּדָן) = Nordwestarabien (WAHRSCHEINLICH; vgl. Jer 49:8, Hes 25:13).
@@ -180,7 +178,7 @@ Und die Söhne Kuschs: Seva und Chavilah und Savtah und Ramah und Savtekha; und 
 
 Und Kusch zeugte Nimrod; er begann, ein Mächtiger auf dem Land zu sein.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **NIMROD — NARRATIVE ERWEITERUNG**
 > - Die genealogische Liste hält inne für ihren einzigen narrativen Abschnitt (Vv.8–12). Nimrod ist die erste Person in der Völkertafel, die eine Beschreibung über einen Namen hinaus erhält. Er ist kein Volk und keine Nation — er ist eine Person mit einer Geschichte.
@@ -197,7 +195,7 @@ Und Kusch zeugte Nimrod; er begann, ein Mächtiger auf dem Land zu sein.
 
 Er war ein mächtiger Jäger vor JHWH; darum wird gesagt: „Wie Nimrod, ein mächtiger Jäger vor JHWH."
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **KRITISCH — „VOR JHWH" (*lifnei JHWH*)**
 > - **לִפְנֵי יהוה** = „vor JHWH" / „im Angesicht JHWHs." Dieser Ausdruck ist mehrdeutig: (1) „mit JHWHs Billigung/Segen" — überragend groß (vgl. Gn 13:13, „Sünder vor JHWH" = Sünder in JHWHs Einschätzung); (2) „in JHWHs Angesicht" = in Trotz, Konfrontation (vgl. die Bavel-Erzählung in Kap. 11). Beide Lesarten sind MÖGLICH. Die TT gibt wörtlich wieder und löst die Mehrdeutigkeit nicht auf.
@@ -217,7 +215,7 @@ Er war ein mächtiger Jäger vor JHWH; darum wird gesagt: „Wie Nimrod, ein mä
 
 Und der Anfang seines Königreichs war Bavel und Erekh und Akkad und Kalneh, im Land Shinar.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **NIMRODS KÖNIGREICH — ERSTER GEBRAUCH VON „KÖNIGREICH" (*mamlakhah*)**
 > - **מַמְלַכְתּוֹ** (*mamlakhto*) = „sein Königreich." Dies ist das erste Vorkommen von *mamlakhah* (Königreich/Herrschaft) in der Bibel. Nimrod ist der erste König, der erste Reichserbauer. Die Institution des Königtums tritt in die Erzählung durch Hams Linie, durch Kusch.
@@ -234,7 +232,7 @@ Und der Anfang seines Königreichs war Bavel und Erekh und Akkad und Kalneh, im 
 
 Aus jenem Land zog er aus *nach* Ashshur, und er baute Nineveh und Rechovot-Ir und Kelach,
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔵 **„ER ZOG AUS NACH ASHSHUR" — MEHRDEUTIGKEIT**
 > - **מִן־הָאָרֶץ הַהִוא יָצָא אַשּׁוּר** = zwei Lesarten: (1) „Aus jenem Land zog **er** [Nimrod] nach Assyrien aus" — Nimrod expandierte nach Norden; (2) „Aus jenem Land zog **Ashshur** aus" — Ashshur (Shems Sohn, V.22) verließ das Gebiet wegen Nimrods Expansion. Beide sind grammatisch MÖGLICH. Die TT gibt wieder „er zog aus nach Ashshur" (Lesart 1), dem unmittelbaren Kontext folgend (Nimrod ist das Subjekt), und vermerkt die Alternative.
@@ -248,7 +246,7 @@ Aus jenem Land zog er aus *nach* Ashshur, und er baute Nineveh und Rechovot-Ir u
 
 und Resen zwischen Nineveh und zwischen Kelach — das *ist* die große Stadt.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔵 **„DIE GROSSE STADT" — WELCHE?**
 > - **הִוא הָעִיר הַגְּדֹלָה** = „das ist die große Stadt." Der Bezug von „die große Stadt" ist mehrdeutig: (1) Resen selbst; (2) Nineveh (vgl. Jona 1:2, „Nineveh, die große Stadt"); (3) der gesamte Stadtkomplex (Nineveh + Rechovot-Ir + Kelach + Resen als Metropolregion). Die TT bewahrt die Mehrdeutigkeit. **Resen** = nicht identifiziert (UNSICHER).
@@ -259,7 +257,7 @@ und Resen zwischen Nineveh und zwischen Kelach — das *ist* die große Stadt.
 
 Und Ägypten zeugte die Ludim und die Anamim und die Lehavim und die Naftuchim,
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟢 **MITSRAYIMS NACHKOMMEN**
 > - Alle Namen tragen das Pluralsuffix *-im* — dies sind Völker, keine Einzelpersonen. **Ludim** = möglicherweise Libyer oder Lydier (UNSICHER). **Anamim** = nicht identifiziert. **Lehavim** = möglicherweise Libyer (MÖGLICH). **Naftuchim** = möglicherweise Bewohner des Nildeltas (MÖGLICH). Viele dieser Identifikationen bleiben debattiert.
@@ -270,7 +268,7 @@ Und Ägypten zeugte die Ludim und die Anamim und die Lehavim und die Naftuchim,
 
 und die Patrusim und die Kasluchim — von denen die Pelishtim ausgingen — und die Kaftorim.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **DIE PELISHTIM (PHILISTER) — EINSCHUB**
 > - **אֲשֶׁר יָצְאוּ מִשָּׁם פְּלִשְׁתִּים** = „von denen die Pelishtim ausgingen." Der eingefügte Einschub identifiziert den Ursprung der Philister. Allerdings verbinden andere biblische Texte die Philister mit Kaftor / Kreta (Am 9:7, Jer 47:4). Die Platzierung hier — zwischen Kasluchim und Kaftorim — mag eine Textstörung widerspiegeln, oder die Pelishtim mögen durch mehrere Regionen gewandert sein. Der Text wie überliefert platziert sie von den Kasluchim.
@@ -284,7 +282,7 @@ und die Patrusim und die Kasluchim — von denen die Pelishtim ausgingen — und
 
 Und Kanaan zeugte Tsidon, seinen Erstgeborenen, und Chet,
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟢 **KENAANS LINIE**
 > - **Tsidon** (צִידוֹן) = Sidon, die phönizische Küstenstadt (gut bezeugt). Als Kanaans **Erstgeborener** (*Bekhor*) benannt. **Chet** (חֵת) = Vorfahr der Hethiter / Chittim (vgl. Gn 23, die Hethiter von Hebron). Die Beziehung zwischen dem biblischen Chet und dem anatolischen Hethiterreich ist debattiert (MÖGLICHE Verbindung, nicht bewiesen).
@@ -295,7 +293,7 @@ Und Kanaan zeugte Tsidon, seinen Erstgeborenen, und Chet,
 
 und den Yevusi und den Emori und den Girgashi,
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟢 **KANAANÄISCHE VÖLKER**
 > - **Yevusi** (יְבוּסִי) = Jebusiter, vorisraelitische Bewohner Jerusalems (vgl. 2 Sam 5:6). **Emori** (אֱמֹרִי) = Amoriter, weit verbreitete Bevölkerung in Syrien-Palästina und Mesopotamien. **Girgashi** (גִּרְגָּשִׁי) = Girgashiter, außerhalb biblischer Listen kaum bezeugt.
@@ -306,7 +304,7 @@ und den Yevusi und den Emori und den Girgashi,
 
 und den Chivvi und den Arqi und den Sini,
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟢 **IDENTIFIKATIONEN**
 > - **Chivvi** (חִוִּי) = Hivviter, an verschiedenen Stellen Kanaans ansässig (vgl. Gn 34:2). **Arqi** (עַרְקִי) = Bewohner von Arqa, einer Stadt in Nordphönizien / Libanon (WAHRSCHEINLICH). **Sini** (סִינִי) = Bewohner eines Ortes nahe Arqa (MÖGLICH; nicht verwandt mit Sinai oder China).
@@ -317,7 +315,7 @@ und den Chivvi und den Arqi und den Sini,
 
 und den Arvadi und den Tsemari und den Hamati; und danach breiteten sich die Sippen der Kanaani aus.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟢 **IDENTIFIKATIONEN**
 > - **Arvadi** (אַרְוָדִי) = Arvad, Inselstadt vor der syrischen Küste (WAHRSCHEINLICH; vgl. Hes 27:8). **Tsemari** (צְמָרִי) = Sumur/Zemar in Nordphönizien (WAHRSCHEINLICH). **Hamati** (חֲמָתִי) = Hamath am Orontes-Fluss in Syrien (gut bezeugt).
@@ -331,7 +329,7 @@ und den Arvadi und den Tsemari und den Hamati; und danach breiteten sich die Sip
 
 Und die Grenze der Kanaani war von Tsidon, wenn man geht Richtung Gerar, bis Azzah; wenn man geht Richtung Sedom und Amorah und Admah und Tsevoyim, bis Lasha.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔵 **GEOGRAPHISCHE GRENZFORMEL**
 > - Dieser Vers zeichnet die Grenzen des kenaanäischen Territoriums nach — die einzige detaillierte Grenzbeschreibung in der Völkertafel. Das Gebiet verläuft: Tsidon (Norden) → Gerar / Azzah (Südwesten, zur Küste hin) → Sedom, Amorah, Admah, Tsevoyim (Südosten, Region des Toten Meeres) → Lasha (Lage UNSICHER).
@@ -348,7 +346,7 @@ Und die Grenze der Kanaani war von Tsidon, wenn man geht Richtung Gerar, bis Azz
 
 Dies *sind* die Söhne Hams, nach ihren Sippen, nach ihren Zungen, in ihren Ländern, in ihren Nationen.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔵 **ZUSAMMENFASSUNGSFORMEL — ZWEITE VON DREI**
 > - Schließt Hams Abschnitt mit derselben Vier-Achsen-Formel: Sippen (*Mishpachot*), Zungen (*Leshonot*), Länder (*Artsot*), Nationen (*Goyim*). Identische Struktur wie V.5 (Jafet) und V.31 (Shem).
@@ -359,7 +357,7 @@ Dies *sind* die Söhne Hams, nach ihren Sippen, nach ihren Zungen, in ihren Län
 
 Und auch Shem wurden *Kinder* geboren — dem Vater aller Söhne Evers, dem Bruder Jafets, des Älteren.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **SHEM — „VATER ALLER SÖHNE EVERS"**
 > - **אֲבִי כָּל־בְּנֵי עֵבֶר** = „der Vater aller Söhne Evers." Dieser Titel hebt Ever hervor — Vorfahre der *Ivrim* (Hebräer). Der Erzähler identifiziert Shems bedeutendsten Nachkommen, bevor er seine Söhne auflistet. Der genealogische Zweck von Shems Abschnitt ist es, zu Ever und letztlich zu Avram (Abram) (11:26) zu gelangen.
@@ -373,7 +371,7 @@ Und auch Shem wurden *Kinder* geboren — dem Vater aller Söhne Evers, dem Brud
 
 Die Söhne Shems: Elam und Ashshur und Arpakhshad und Lud und Aram.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟢 **IDENTIFIKATIONEN**
 > - **Elam** = Elamitisches Königreich östlich von Mesopotamien (gut bezeugt; Hauptstadt Susa). **Ashshur** (אַשּׁוּר) = Assyrien (gut bezeugt). Hinweis: Ashshur erscheint sowohl in Shems Linie (hier) als auch in Verbindung mit Nimrods Bautätigkeit (V.11) — die Überlappung ist beabsichtigt oder spiegelt komplexe historische Beziehungen wider. **Arpakhshad** = Identifikation debattiert (UNSICHER; möglicherweise Arrapachitis nahe Kirkuk oder ein zusammengesetzter Name). Dies ist die genealogisch entscheidende Linie — führend zu Ever, Peleg, Abram. **Lud** = Lydien in Westanatolien (MÖGLICH). **Aram** = Aramäer (gut bezeugt; Syrien/Obermesopotamien).
@@ -384,7 +382,7 @@ Die Söhne Shems: Elam und Ashshur und Arpakhshad und Lud und Aram.
 
 Und die Söhne Arams: Uts und Chul und Geter und Mash.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟢 **IDENTIFIKATIONEN**
 > - **Uts** (עוּץ) = Land Uz, der Schauplatz des Buches Hiob (vgl. Hi 1:1). Lage debattiert: Region Edom oder Region Aram (MÖGLICH für beide). **Chul** = unsicher. **Geter** = unsicher. **Mash** = möglicherweise gleichbedeutend mit „Meshekh" (vgl. 1 Chr 1:17 liest *Meshekh*); UNSICHER.
@@ -395,7 +393,7 @@ Und die Söhne Arams: Uts und Chul und Geter und Mash.
 
 Und Arpakhshad zeugte Shelach, und Shelach zeugte Ever.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔵 **DIE GENEALOGISCHE LINIE ZU AVRAM**
 > - Dieser Vers beginnt die entscheidende Abstammungslinie: Arpakhshad → Shelach → Ever. Diese Linie wird sich in 11:10–26 fortsetzen: Ever → Peleg → ... → Terach → Abram. Das Kapitel verengt den Fokus von siebzig Nationen auf eine einzige Linie.
@@ -406,7 +404,7 @@ Und Arpakhshad zeugte Shelach, und Shelach zeugte Ever.
 
 Und dem Ever wurden zwei Söhne geboren: der Name des einen *war* Peleg, denn in seinen Tagen wurde das Land geteilt; und der Name seines Bruders *war* Yoqtan.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **KRITISCH — PELEG-WORTSPIEL**
 > - **פֶּלֶג** (*Peleg*) aus der Wurzel פ-ל-ג = „teilen." Der Name IST das Ereignis: Peleg = „Teilung," umgesetzt im Verb *niflega* („wurde geteilt"). Was geteilt wurde, ist mehrdeutig: das Land physisch, die Bavel-Zerstreuung (Kap. 11) oder territoriale Aufteilung — alle MÖGLICH. Der Text spezifiziert nicht. Für ausführlichere Diskussion siehe Begleitmaterial Abschnitt D1.
@@ -420,7 +418,7 @@ Und dem Ever wurden zwei Söhne geboren: der Name des einen *war* Peleg, denn in
 
 Und Yoqtan zeugte Almodad und Shelef und Chatsarmavet und Yerach,
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟢 **YOQTANS SÖHNE — ARABISCHE VÖLKER**
 > - Yoqtan hat dreizehn Söhne (Vv.26–29) — die längste Einzelgenealogie im Kapitel. Die meisten sind mit arabischen Stammesgruppen verbunden. **Almodad** = unsicher. **Shelef** = möglicherweise ein südarabischer Stamm (MÖGLICH). **Chatsarmavet** (חֲצַרְמָוֶת) = Hadramaut in Südarabien (WAHRSCHEINLICH; der Name bedeutet „Hof des Todes"). **Yerach** = möglicherweise ein südarabischer Stamm (der Name bedeutet „Mond").
@@ -431,7 +429,7 @@ Und Yoqtan zeugte Almodad und Shelef und Chatsarmavet und Yerach,
 
 und Hadoram und Uzal und Diqlah,
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟢 **IDENTIFIKATIONEN**
 > - **Hadoram** = unsicher (möglicherweise Dauram in Südarabien). **Uzal** = möglicherweise der alte Name von Sanaa, Jemen (MÖGLICH). **Diqlah** = möglicherweise eine palmenreiche Region (der Name bedeutet „Palmenhain" — vgl. Aramäisch *diqla* = „Palme"); UNSICHER.
@@ -442,7 +440,7 @@ und Hadoram und Uzal und Diqlah,
 
 und Oval und Avimael und Sheva,
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟢 **IDENTIFIKATIONEN**
 > - **Oval** (עוֹבָל) = unsicher (einige MSS und 1 Chr 1:22 lesen *Eval*). **Avimael** = unsicher. **Sheva** (שְׁבָא) = Sheba, Südarabien (WAHRSCHEINLICH). Hinweis: Sheva erscheint auch in Hams Linie (V.7, durch Ramah, Sohn Kuschs). Die Überlappung — Sheva in sowohl Shems als auch Hams Linien — mag Handelsverbindungen, Mischehen oder gemeinsame territoriale Ansprüche widerspiegeln.
@@ -453,7 +451,7 @@ und Oval und Avimael und Sheva,
 
 und Ofir und Chavilah und Yovav; alle diese *waren* die Söhne Yoqtans.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟢 **IDENTIFIKATIONEN**
 > - **Ofir** (אוֹפִיר) = berühmte Goldquelle (vgl. 1 Kön 9:28, 10:11); Lage debattiert — Südarabien, Ostafrika oder Westindien (alle MÖGLICH). **Chavilah** = erscheint auch bei V.7 (in Kuschs Linie) und Gn 2:11 (das goldproduzierende Land). Das Wiederauftreten des Namens über verschiedene Linien hinweg deutet auf eine geographische Region hin, die mehreren Völkern bekannt war. **Yovav** = unsicher (möglicherweise Juhaibab in Arabien; UNSICHER).
@@ -467,7 +465,7 @@ und Ofir und Chavilah und Yovav; alle diese *waren* die Söhne Yoqtans.
 
 Und ihre Wohnstätte war von Mesha, wenn man geht Richtung Sefar, dem Berg des Ostens.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔵 **„WENN MAN GEHT" (*bo'akha*)**
 > - Dieselbe geographische Orientierungsformel wie V.19 (*bo'akha*, im hebräischen Text vorhanden). Nicht kursiv; siehe Anmerkung bei V.19.
@@ -481,7 +479,7 @@ Und ihre Wohnstätte war von Mesha, wenn man geht Richtung Sefar, dem Berg des O
 
 Dies *sind* die Söhne Shems, nach ihren Sippen, nach ihren Zungen, in ihren Ländern, nach ihren Nationen.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔵 **ZUSAMMENFASSUNGSFORMEL — DRITTE VON DREI**
 > - Schließt Shems Abschnitt mit derselben Formel wie Vv.5 und 20. Die dreifache Wiederholung vervollständigt die Struktur: Jafet (Vv.2–5), Ham (Vv.6–20), Shem (Vv.21–31) — jeder abgeschlossen durch die Sippen/Zungen/Länder/Nationen-Formel.
@@ -492,7 +490,7 @@ Dies *sind* die Söhne Shems, nach ihren Sippen, nach ihren Zungen, in ihren Lä
 
 Dies *sind* die Sippen der Söhne Noahs, nach ihren Geschlechterfolgen, in ihren Nationen; und von diesen breiteten sich die Nationen aus auf dem Land nach der Flut.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **SCHLUSSZUSAMMENFASSUNG — TOLEDOT-ECHO**
 > - Dieser Vers spiegelt die Eröffnung (V.1) und bildet eine Inclusio (eine literarische Klammer, bei der dieselbe Formulierung einen Abschnitt öffnet und schließt). „Nach ihren Geschlechtern" (*le-toledotam*) echot die *Toledot*-Formel von V.1 — das Kapitel einklammernd.

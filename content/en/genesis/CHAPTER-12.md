@@ -26,17 +26,15 @@
 
 ## READING GUIDE
 
-**📖 Main Text:** Primary translation—readable but faithful to Hebrew structure
-**📝 Notes:** Essential Hebrew features immediately below each verse
-***Italics:*** Words added for English grammar (not in Hebrew text)
-**"Quotes":** Direct divine speech
-**YHWH:** Tetragrammaton rendered consonantally (Rule 25, Option A)
+**Main Text:** Primary translation — readable but faithful to Hebrew structure. **Notes:** Essential Hebrew features immediately below each verse.
 
-**Note Icons:**
-- 🔴 **CRITICAL** - Major textual or translation decisions
-- 🟢 **LEXICAL** - Word meanings, root patterns, glossary terms
-- 🔵 **GRAMMATICAL** - Hebrew structure, verb forms, syntax
-- 🟡 **THEOLOGICAL** - Interpretive options, ambiguity preservation
+**How the text is marked:**
+- *Words in italics* — added for English grammar (not in the Hebrew text)
+- {t:raqia} — transliterated Hebrew terms kept untranslated (explained in notes)
+- {a:wind/spirit} — a word the Hebrew leaves open to two meanings, both kept
+- @@"…"@@ — direct speech of God
+
+Notes are tagged by type — **Critical · Lexical · Grammatical · Theological** — each shown with its colour (see the legend at the top of the Notes view).
 
 **This chapter marks the transition from primeval to patriarchal history.** YHWH calls Avram (Abram) out of Charan with a command that names no destination and a promise that will shape the rest of the Torah. The five-fold blessing (12:2–3) introduces *berakhah* as a narrative engine. Abram journeys through Kenaan (Canaan) — Shekhem (Shechem), the oak of Moreh, Beyt-El (Bethel) — building altars and calling on the name of YHWH. Famine drives him to Egypt, where the wife-sister episode introduces a pattern that recurs at 20:2 and 26:7. Pharaoh is struck with plagues (*nega'im*) — the same root that will return in Exodus.
 
@@ -80,7 +78,7 @@
 
 And YHWH said to Avram (Abram), @@"Go, yourself, from your land and from your birthplace and from your father's house, to the land which I will show you.@@
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔴 **CRITICAL — *LEKH LEKHA* (GO, YOURSELF)**
 > - **לֶךְ־לְךָ** (*lekh lekha*) = "Go, yourself" — emphatic doubled form (imperative + reflexive pronoun), rare in the Hebrew Bible. Appears only here and at Gen 22:2 (binding of Yitschaq), bracketing Abram/Abraham's narrative arc. The TT renders "Go, yourself" to preserve the doubling without importing a single interpretation of the reflexive force. For fuller discussion, see companion Section A1.
@@ -97,7 +95,7 @@ And YHWH said to Avram (Abram), @@"Go, yourself, from your land and from your bi
 
 @@And I will make you into a great nation, and I will bless you, and I will make your name great — and be a blessing.@@
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔴 **FIVE-FOLD PROMISE (12:2–3)**
 > - The promise unfolds across vv.2–3 in five clauses: (1) "I will make you into a great nation"; (2) "I will bless you"; (3) "I will make your name great"; (4) "be a blessing"; (5) "all the families of the ground will be blessed / will bless themselves in you." The structure shifts at (4) from declarative ("I will...") to imperative ("be a blessing") — Abram becomes the agent, not merely the recipient.
@@ -111,7 +109,7 @@ And YHWH said to Avram (Abram), @@"Go, yourself, from your land and from your bi
 
 @@And I will bless those who bless you, and the one who curses you I will curse, and all the families of the ground {a:will be blessed / will bless themselves} in you."@@
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔴 **CRITICAL — TWO DIFFERENT CURSE WORDS**
 > - "The one who curses you (*meqallelekha*) I will curse (*a'or*)." Two different roots: **קָלַל** (*qalal*) = to treat lightly, disparage, curse (lighter); **אָרַר** (*arar*) = to curse (heavy, formal, the same root as Gen 3:14, 3:17, 4:11, 9:25). Those who treat Abram lightly receive the heavier curse. The asymmetry is deliberate: the response exceeds the provocation.
@@ -128,7 +126,7 @@ And YHWH said to Avram (Abram), @@"Go, yourself, from your land and from your bi
 
 And Abram went as YHWH had spoken to him, and Lot went with him; and Abram *was* seventy-five years, a son of, when he went out from Charan.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔵 **"AND ABRAM WENT" — NO DIALOGUE**
 > - **וַיֵּלֶךְ אַבְרָם** = "And Abram went." YHWH speaks five clauses of promise; Abram responds with zero words. He simply goes. Like Noah (6:22: "and Noah did"), the response is action, not speech.
@@ -142,7 +140,7 @@ And Abram went as YHWH had spoken to him, and Lot went with him; and Abram *was*
 
 And Abram took Sarai his wife, and Lot the son of his brother, and all their possessions which they had gathered, and the persons which they had made in Charan, and they went out to go to the land of Kenaan (Canaan), and they came to the land of Canaan.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟢 **"THE PERSONS WHICH THEY HAD MADE" (*ha-nephesh asher asu*)**
 > - **וְאֶת־הַנֶּפֶשׁ אֲשֶׁר־עָשׂוּ בְחָרָן** = "and the persons (*nephesh*) which they had made (*asu*) in Charan." *Nephesh* here = persons/people. *Asah* = made/acquired. The verb "made" for acquiring people is striking — it likely refers to servants or household members gained in Charan. Targum Onkelos: "souls they had converted." The text says "made."
@@ -156,7 +154,7 @@ And Abram took Sarai his wife, and Lot the son of his brother, and all their pos
 
 And Abram passed through the land to the place of Shekhem (Shechem), to the oak of Moreh; and the Kenaani *was* then in the land.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟢 **SHECHEM**
 > - **שְׁכֶם** (*Shekhem*) = first named location in Abram's Canaan journey. The site recurs: Yaakov buys land there (33:18–19), Yosef's bones are buried there (Josh 24:32), and Yehoshua's covenant renewal occurs there (Josh 24:1). Abram's first stop becomes a critical site in Israel's memory.
@@ -173,7 +171,7 @@ And Abram passed through the land to the place of Shekhem (Shechem), to the oak 
 
 And YHWH appeared to Abram and said, @@"To your seed I will give this land."@@ And he built there an altar to YHWH who had appeared to him.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔴 **FIRST DIVINE APPEARANCE (*vayyera*)**
 > - **וַיֵּרָא יהוה אֶל־אַבְרָם** = "And YHWH appeared to Abram." First recorded theophany to Abram. In 12:1, YHWH "said" (*vayyomer*); here YHWH "appeared" (*vayyera*) — a visual component. The verb ראה (see) in niphal = was seen / appeared.
@@ -190,7 +188,7 @@ And YHWH appeared to Abram and said, @@"To your seed I will give this land."@@ A
 
 And he moved from there to the hill country east of Beyt-El (Bethel) and pitched his tent — Bethel *was* to the west and Ai *was* to the east — and he built there an altar to YHWH and called on the name of YHWH.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟢 **BETHEL (BEYT-EL)**
 > - **בֵּית־אֵל** (*Beyt-El*) = "House of God." The name anticipates Yaakov's naming in 28:19 — but the text uses the name here proleptically (the narrator uses the later name). The site becomes a major worship center.
@@ -207,7 +205,7 @@ And he moved from there to the hill country east of Beyt-El (Bethel) and pitched
 
 And Abram journeyed, going and journeying toward the Negev.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔵 **"GOING AND JOURNEYING" (*halokh ve-nasoa*)**
 > - **הָלוֹךְ וְנָסוֹעַ** = "going and journeying." Infinitive absolute construction — continuous, progressive movement. Abram is not settling; he is passing through. The land is promised but not yet possessed.
@@ -221,7 +219,7 @@ And Abram journeyed, going and journeying toward the Negev.
 
 And there was a famine in the land, and Abram went down to Egypt to sojourn there, for the famine *was* heavy in the land.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔴 **FIRST FAMINE, FIRST DESCENT TO EGYPT**
 > - **וַיְהִי רָעָב בָּאָרֶץ** = "And there was a famine in the land." First famine in Genesis. The promised land cannot sustain Abram. The irony: God promises the land (v.7), then famine expels him from it. This becomes a pattern: famine drives the patriarchs (26:1, Yitschaq; 42:1–2, Yaakov's sons).
@@ -238,7 +236,7 @@ And there was a famine in the land, and Abram went down to Egypt to sojourn ther
 
 And it was when he drew near to enter Egypt, and he said to Sarai his wife, "See, I know that you *are* a woman beautiful of appearance.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔵 **"WOMAN BEAUTIFUL OF APPEARANCE" (*yefat mar'eh*)**
 > - **אִשָּׁה יְפַת־מַרְאֶה** = "woman beautiful of appearance." *Yefat* from *yafeh* (beautiful); *mar'eh* = appearance/sight. The beauty is noted by Abram as a threat, not a compliment. The description is functional — it sets up the danger.
@@ -249,7 +247,7 @@ And it was when he drew near to enter Egypt, and he said to Sarai his wife, "See
 
 And it will be when the Egyptians see you, and they will say, 'This *is* his wife,' and they will kill me, and you they will let live.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔵 **ABRAM'S FEAR**
 > - The logic is explicit: the Egyptians will kill the husband to take the wife. Abram anticipates murder. The text does not evaluate whether his fear is justified — it records his reasoning.
@@ -260,7 +258,7 @@ And it will be when the Egyptians see you, and they will say, 'This *is* his wif
 
 Say, please, *that* you *are* my sister, so that it may go well for me on your account, and my life will live because of you."
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟡 **TIER 2 — RECEPTION NOTE**
 > - This passage has documented reception history. See companion Section F for context on the wife-sister episode, including its use to excuse deception and its implications for Sarai's agency.
@@ -283,7 +281,7 @@ And it was when Abram came to Egypt, and the Egyptians saw the woman, that she *
 
 And the officials of Pharaoh saw her and praised her to Pharaoh, and the woman was taken *into* the house of Pharaoh.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔵 **PASSIVE — "THE WOMAN WAS TAKEN"**
 > - **וַתֻּקַּח הָאִשָּׁה** = "and the woman was taken." Hophal (causative passive) of *laqach* (take). Sarai is the grammatical object throughout: seen, praised, taken. The passive construction emphasizes her lack of agency in this sequence.
@@ -297,7 +295,7 @@ And the officials of Pharaoh saw her and praised her to Pharaoh, and the woman w
 
 And to Abram he did well on her account, and he had flock and herd and male donkeys and male servants and female servants and female donkeys and camels.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟡 **ABRAM PROSPERS FROM THE DECEPTION**
 > - **וּלְאַבְרָם הֵיטִיב בַּעֲבוּרָהּ** = "And to Abram he did well on her account." The wealth Abram receives is explicitly linked to Sarai's presence in Pharaoh's house. "On her account" (*ba'avurah*) — the benefit comes through Sarai's situation. The text reports the enrichment without evaluating its morality.
@@ -311,7 +309,7 @@ And to Abram he did well on her account, and he had flock and herd and male donk
 
 And YHWH struck Pharaoh *with* great plagues, and his house, on account of Sarai, the wife of Abram.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔴 **CRITICAL — *NEGA'IM* (PLAGUES)**
 > - **וַיְנַגַּע יהוה אֶת־פַּרְעֹה נְגָעִים גְּדֹלִים** = "And YHWH struck Pharaoh with great plagues (*nega'im*)." Root נ-ג-ע = to strike/afflict — same root as the Exodus plagues. The root connection is the basis for rendering *nega'im* as "plagues" rather than "afflictions" or "blows" — the same vocabulary carries this charge in the Exodus account. YHWH intervenes to protect Sarai where Abram's plan has placed her at risk; the text does not describe what the plagues were. For fuller discussion, see companion Section A8.
@@ -328,7 +326,7 @@ And YHWH struck Pharaoh *with* great plagues, and his house, on account of Sarai
 
 And Pharaoh called Abram and said, "What *is* this you have done to me? Why did you not tell me that she *is* your wife?
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔴 **PHARAOH'S REBUKE**
 > - **מַה־זֹּאת עָשִׂיתָ לִּי** = "What is this you have done to me?" Pharaoh — a foreign king — rebukes the patriarch. The question-pattern echoes God's confrontations: "What is this you have done?" (3:13 to the woman). The moral clarity comes from Pharaoh, not from Abram. The text does not soften this.
@@ -339,7 +337,7 @@ And Pharaoh called Abram and said, "What *is* this you have done to me? Why did 
 
 Why did you say, 'She *is* my sister,' and I took her for myself as a wife? And now, see, your wife — take *her* and go."
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔵 **"TAKE AND GO" (*qach va-lekh*)**
 > - **הִנֵּה אִשְׁתְּךָ קַח וָלֵךְ** = "See, your wife — take *her* and go." Pharaoh returns Sarai and expels Abram. The command is curt — imperative: take, go. No negotiation, no penalty beyond expulsion. Pharaoh acts with more straightforward justice than Abram did with his deception.
@@ -350,7 +348,7 @@ Why did you say, 'She *is* my sister,' and I took her for myself as a wife? And 
 
 And Pharaoh commanded men concerning him, and they sent him away, and his wife, and all which *was* his.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔵 **EXPULSION — NOT PUNISHMENT**
 > - Pharaoh commands an escort — not execution, not imprisonment. "They sent him away" (*vayeshallechu*) — piel of *shalach* (send). Abram leaves Egypt with his wife and all his possessions (including those gained in v.16). He departs wealthier than he arrived. The Exodus echo: Israel will also leave Egypt with Egyptian wealth (Ex 12:35–36).

@@ -27,17 +27,15 @@
 
 ## GUÍA DE LECTURA
 
-**📖 Texto Principal:** Traducción primaria — legible pero fiel a la estructura hebrea
-**📝 Notas:** Rasgos hebreos esenciales inmediatamente debajo de cada versículo
-***Cursiva:*** Palabras añadidas para la gramática del español (no están en el texto hebreo)
-**"Comillas":** Discurso divino directo
-**YHWH:** Tetragrama rendido consonantalmente (Regla 25, Opción A)
+**Texto Principal:** Traducción primaria — legible pero fiel a la estructura hebrea. **Notas:** Rasgos hebreos esenciales justo debajo de cada versículo.
 
-**Iconos de Notas:**
-- 🔴 **CRÍTICO** - Decisiones textuales o de traducción mayores
-- 🟢 **LÉXICO** - Significados de palabras, patrones de raíces, términos del glosario
-- 🔵 **GRAMATICAL** - Estructura hebrea, formas verbales, sintaxis
-- 🟡 **TEOLÓGICO** - Opciones interpretativas, preservación de ambigüedad
+**Cómo está marcado el texto:**
+- *Palabras en cursiva* — añadidas para la gramática del español (no están en el texto hebreo)
+- {t:raqia} — términos hebreos transliterados, sin traducir (explicados en las notas)
+- {a:viento/espíritu} — una palabra que el hebreo deja abierta a dos sentidos, ambos conservados
+- @@"…"@@ — habla directa de Dios
+
+Las notas se etiquetan por tipo — **Crítico · Léxico · Gramatical · Teológico** — cada una con su color (vea la leyenda en la parte superior de la vista de Notas).
 
 **Este capítulo contiene la narrativa de la Torre de Bavel (11:1–9) y la genealogía de Sem (11:10–32).** La narrativa de Bavel completa la historia primordial con una segunda dispersión — la primera fue geográfica (Cap. 10, tabla de naciones); esta es lingüística. El "hagamos" (*havah*) humano de 11:3–4 hace eco del "hagamos" de Dios en 1:26 — pero dirigido hacia la auto-elevación. La genealogía tiende un puente entre la historia primordial y las narrativas patriarcales: diez generaciones de Sem a Avram (Abrán), con esperanzas de vida que declinan de 600 a 205. El *toledot* de Teraj (Taré) (11:27) introduce a Abrán, y el capítulo termina a mitad de camino — la familia sale de Ur hacia Kenaan (Canaán) pero se detiene en Jarán.
 
@@ -93,7 +91,7 @@
 
 Y toda la tierra era *de* un solo labio y unas mismas palabras.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟡 **NIVEL 2 — NOTA DE RECEPCIÓN**
 > - La narrativa de Babel no debe leerse como una condena general de la tecnología, la civilización urbana o la diversidad lingüística. Vea el compañero Sección F para contexto histórico sobre lecturas erróneas documentadas.
@@ -110,7 +108,7 @@ Y toda la tierra era *de* un solo labio y unas mismas palabras.
 
 Y sucedió que al viajar desde el oriente, encontraron una llanura en la tierra de Shinar, y se asentaron allí.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **"DESDE EL ORIENTE" (*mi-qedem*)**
 > - **מִקֶּדֶם** = "desde el oriente" o "hacia el oriente." La misma ambigüedad direccional que Gn 3:24 (los querubines colocados *mi-qedem* del Edén). El movimiento hacia el oriente en Génesis es consistentemente un movimiento alejándose de la presencia divina: Adán expulsado hacia el oriente (3:24), Caín va al oriente (4:16), Lot va al oriente (13:11). Aquí la humanidad migra hacia el oriente — continuando el patrón.
@@ -127,7 +125,7 @@ Y sucedió que al viajar desde el oriente, encontraron una llanura en la tierra 
 
 Y dijeron, cada uno a su prójimo: "Vengan, hagamos ladrillos y quemémoslos bien." Y el ladrillo les fue por piedra, y el betún les fue por argamasa.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **"VENGAN, HAGAMOS" (*havah*) — PRIMERA APARICIÓN**
 > - **הָבָה** (*havah*) = "¡vengan!" — una partícula exhortativa. Esta es la primera de tres apariciones en la narrativa de Bavel: los humanos dicen *havah* en 11:3 y 11:4; YHWH dice *havah* en 11:7. El reflejo estructural es deliberado: el "vengan, hagamos" de la humanidad es respondido por el "vengan, hagamos" de Dios.
@@ -144,7 +142,7 @@ Y dijeron, cada uno a su prójimo: "Vengan, hagamos ladrillos y quemémoslos bie
 
 Y dijeron: "Vengan, edifiquemos para nosotros una ciudad y una torre, y su cúspide en los cielos, y hagámonos un nombre, no sea que seamos dispersados sobre la faz de toda la tierra."
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **"VENGAN, HAGAMOS" (*havah*) — SEGUNDA APARICIÓN**
 > - Segundo *havah* del lado humano. Dos iniciativas humanas: (1) "hagamos ladrillos" (v.3), (2) "edifiquemos una ciudad y torre... hagámonos un nombre" (v.4). YHWH responderá con un solo *havah* (v.7) que deshace ambas.
@@ -164,7 +162,7 @@ Y dijeron: "Vengan, edifiquemos para nosotros una ciudad y una torre, y su cúsp
 
 Y YHWH descendió para ver la ciudad y la torre que los hijos del humano habían edificado.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **CRÍTICO — "YHWH DESCENDIÓ" (*vayyered YHWH*)**
 > - **וַיֵּרֶד יהוה** = "y YHWH descendió." Lenguaje antropomórfico: Dios desciende para inspeccionar. La ironía devastadora — la torre cuya cúspide está "en los cielos" es tan pequeña desde la perspectiva divina que YHWH debe *descender* para verla. Lo que alcanza los cielos desde la perspectiva humana es invisible desde la divina.
@@ -178,7 +176,7 @@ Y YHWH descendió para ver la ciudad y la torre que los hijos del humano habían
 
 Y YHWH dijo: @@"He aquí, *son* un solo pueblo y un solo labio para todos ellos, y esto *es lo que* comienzan a hacer; y ahora nada les será vedado, todo lo que planean hacer.@@
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟡 **"NADA LES SERÁ VEDADO" (*lo yibatser mehem*)**
 > - **לֹא־יִבָּצֵר מֵהֶם** = "nada les será cortado/vedado." El verbo *batsar* significa cortar, fortificar, vedar. La preocupación de YHWH: la humanidad unificada con habla unificada no tendrá límite en lo que puede lograr. Si esto es una amenaza, un peligro o simplemente una observación — el texto no especifica la naturaleza de la preocupación. La TT rinde sin añadir motivo.
@@ -192,7 +190,7 @@ Y YHWH dijo: @@"He aquí, *son* un solo pueblo y un solo labio para todos ellos,
 
 @@Vengan, descendamos y confundamos allí su labio, para que no oigan, cada uno el labio de su prójimo."@@
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **"VENGAN, HAGAMOS" (*havah*) — TERCERA APARICIÓN (YHWH)**
 > - **הָבָה** — ahora dicho por YHWH. El *havah* divino responde al *havah* humano de vv.3–4. El balance estructural: los humanos dicen "vengan, hagamos" dos veces (edificar, hacerse un nombre); YHWH dice "vengan, hagamos" una vez (confundir). Un acto divino deshace dos planes humanos.
@@ -212,7 +210,7 @@ Y YHWH dijo: @@"He aquí, *son* un solo pueblo y un solo labio para todos ellos,
 
 Y YHWH los dispersó de allí sobre la faz de toda la tierra, y cesaron de edificar la ciudad.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **"DISPERSÓ" (*vayyaphets*) — REVERSIÓN IRÓNICA**
 > - **וַיָּפֶץ** = "y los dispersó." Raíz: *puts* (dispersar). El resultado exacto que buscaron prevenir (v.4, *pen naphuts*, "no sea que seamos dispersados") es el resultado que YHWH ejecuta. La ironía es estructural: temor → intento de prevención → lo temido ocurre precisamente a causa del intento de prevención.
@@ -226,7 +224,7 @@ Y YHWH los dispersó de allí sobre la faz de toda la tierra, y cesaron de edifi
 
 Por eso su nombre fue llamado Bavel, porque allí YHWH confundió el labio de toda la tierra, y de allí YHWH los dispersó sobre la faz de toda la tierra.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **CRÍTICO — JUEGO DE PALABRAS BAVEL/BALAL**
 > - **בָּבֶל** (Bavel) / **בָּלַל** (balal) — el nombre Bavel se explica por el verbo *balal* (confundir). La etimología popular es transparente: Bavel suena como *balal*. La etimología acadia real de Babilonia (*bab-ili* = "puerta de dios") es lo opuesto — "puerta de dios" vs. "confusión." El narrador hebreo invierte la autocomprensión de la ciudad: lo que Babilonia llama "la puerta de dios," el texto lo llama "confusión."
@@ -240,7 +238,7 @@ Por eso su nombre fue llamado Bavel, porque allí YHWH confundió el labio de to
 
 Estas *son* las generaciones de Sem. Sem tenía cien años, y engendró a Arpakhshad, dos años después del diluvio.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 ***TOLEDOT* — "GENERACIONES DE SEM"**
 > - **אֵלֶּה תּוֹלְדֹת שֵׁם** = "Estas *son* las generaciones de Sem." La quinta fórmula *toledot* en Génesis (después de 2:4, 5:1, 6:9, 10:1). Esta genealogía es paralela a Gn 5 en estructura pero con diferencias clave: las esperanzas de vida son más cortas y declinantes, y el estribillo "y murió" está ausente de la mayoría de las entradas.
@@ -254,7 +252,7 @@ Estas *son* las generaciones de Sem. Sem tenía cien años, y engendró a Arpakh
 
 Y Sem vivió después de engendrar a Arpakhshad quinientos años, y engendró hijos e hijas.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **FÓRMULA GENEALÓGICA — MODIFICADA**
 > - La fórmula de Gn 11 difiere de Gn 5: (1) no se declara la esperanza de vida total; (2) "y murió" está ausente. La fórmula es: "X vivió Y años, engendró a Z. X vivió después de engendrar a Z, W años, engendró hijos e hijas." La compresión señala una transición — el narrador se dirige hacia Abrán.
@@ -289,7 +287,7 @@ Y Shelaj vivió después de engendrar a Ever cuatrocientos tres años, y engendr
 
 Y Ever vivió treinta y cuatro años, y engendró a Peleg.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **EVER (*Ever*)**
 > - **עֵבֶר** = Ever/Eber. El antepasado epónimo de los *Ivrim* (Hebreos). El nombre está relacionado con la raíz *avar* (cruzar, pasar a través). "Hebreo" (*Ivrí*) probablemente significa "el que cruzó" — una designación que se aplicará a Abrán (Gn 14:13, "Abrán el hebreo").
@@ -306,7 +304,7 @@ Y Ever vivió después de engendrar a Peleg cuatrocientos treinta años, y engen
 
 Y Peleg vivió treinta años, y engendró a Re'u.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **PELEG (*Peleg*)**
 > - **פֶּלֶג** = Peleg, que significa "división." Gn 10:25: "en sus días la tierra fue dividida (*niphlegah*)." El nombre marca la generación de la división — ya sea la dispersión de Bavel, un evento geográfico o ambos.
@@ -317,7 +315,7 @@ Y Peleg vivió treinta años, y engendró a Re'u.
 
 Y Peleg vivió después de engendrar a Re'u doscientos nueve años, y engendró hijos e hijas.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **ESPERANZAS DE VIDA DECLINANTES**
 > - La esperanza de vida total de Peleg (239 años) es dramáticamente más corta que la de sus antepasados: Sem 600, Arpakhshad 438, Shelaj 433, Ever 464, Peleg 239. La caída de Ever a Peleg es la más abrupta en la genealogía — la generación de la "división" es también la generación donde la longevidad cae abruptamente.
@@ -358,7 +356,7 @@ Y Nacor vivió veintinueve años, y engendró a Taré.
 
 Y Nacor vivió después de engendrar a Taré ciento diecinueve años, y engendró hijos e hijas.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **ESPERANZA DE VIDA DE NAJOR**
 > - Total: 148 años. La más corta en la genealogía hasta ahora. El declive continúa: 600 → 438 → 433 → 464 → 239 → 239 → 230 → 148. El mundo de esperanzas de vida casi milenarias (Gn 5) está terminando.
@@ -369,7 +367,7 @@ Y Nacor vivió después de engendrar a Taré ciento diecinueve años, y engendr�
 
 Y Taré vivió setenta años, y engendró a Abrán, Nacor y Harán.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **CRÍTICO — TRES HIJOS**
 > - El patrón hace eco de Gn 5:32 ("Noé... engendró a Sem, Cam y Jafet"). Ambas genealogías terminan con un padre que produce tres hijos nombrados. Los tres hijos de Noé poblaron el mundo postdiluviano; los tres hijos de Taré poblarán las narrativas patriarcales.
@@ -383,7 +381,7 @@ Y Taré vivió setenta años, y engendró a Abrán, Nacor y Harán.
 
 Y estas *son* las generaciones de Taré. Taré engendró a Abrán, Nacor y Harán; y Harán engendró a Lot.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 ***TOLEDOT* — "GENERACIONES DE TERAJ"**
 > - **אֵלֶּה תּוֹלְדוֹת תֶּרַח** = "estas son las generaciones de Taré." La sexta fórmula *toledot*. Nota: el *toledot* es de **Taré**, no de Abrán — la narrativa patriarcal comienza bajo el encabezado del padre, así como Gn 6:9 comenzó la narrativa de Noé bajo su propio *toledot*.
@@ -397,7 +395,7 @@ Y estas *son* las generaciones de Taré. Taré engendró a Abrán, Nacor y Hará
 
 Y Harán murió en presencia de Taré su padre, en la tierra de su nacimiento, en Ur de los Kasdim.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **"MURIÓ EN PRESENCIA DE" (*al penei*)**
 > - **עַל־פְּנֵי תֶּרַח אָבִיו** = "sobre el rostro de / en presencia de Taré su padre." Harán muere *antes que* su padre — la primera vez registrada que un hijo muere antes que un padre en Génesis. La frase *al penei* ("sobre el rostro de") puede significar "durante la vida de" o "ante los ojos de." El texto marca esto como una inversión del orden natural.
@@ -411,7 +409,7 @@ Y Harán murió en presencia de Taré su padre, en la tierra de su nacimiento, e
 
 Y Abrán y Nacor tomaron para sí esposas; el nombre de la esposa de Abrán *fue* Sarai, y el nombre de la esposa de Nacor *fue* Milkah, hija de Harán, padre de Milkah y padre de Yiskah.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **SARAI (*Sarai*)**
 > - **שָׂרַי** = Sarai, que significa "mi princesa" o "princesa." Todavía no Sarah — el cambio de nombre ocurre en Gn 17:15.
@@ -428,7 +426,7 @@ Y Abrán y Nacor tomaron para sí esposas; el nombre de la esposa de Abrán *fue
 
 Y Sarai era estéril; no tenía hijo.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **CRÍTICO — "ESTÉRIL" (*aqarah*)**
 > - **וַתְּהִי שָׂרַי עֲקָרָה אֵין לָהּ וָלָד** = "Y Sarai era estéril; no había para ella hijo." Declarado sin explicación, sin comentario, sin resolución. El doble énfasis (*aqarah* + "no tenía hijo") es un problema narrativo plantado para resolución futura. La esterilidad de la matriarca — una mujer cuyo nombre significa "princesa" que no tiene heredero — impulsa toda la narrativa abrahámica comenzando en Gn 12.
@@ -439,7 +437,7 @@ Y Sarai era estéril; no tenía hijo.
 
 Y Taré tomó a Abrán su hijo, y a Lot hijo de Harán, su nieto, y a Sarai su nuera, la esposa de Abrán su hijo; y salieron con ellos de Ur de los Kasdim para ir a la tierra de Canaán; y llegaron hasta Jarán, y se asentaron allí.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **CRÍTICO — VIAJE INCOMPLETO**
 > - El destino es Canaán — pero la familia se detiene en **Jarán** y se asienta allí. El viaje queda incompleto bajo la iniciativa de Taré. Requerirá un llamado divino (Gn 12:1, "Ve de tu tierra...") para completar lo que Taré comenzó. El suspenso narrativo: el destino se nombra, el viaje se inicia, y el capítulo termina con la familia detenida antes de la meta.
@@ -456,7 +454,7 @@ Y Taré tomó a Abrán su hijo, y a Lot hijo de Harán, su nieto, y a Sarai su n
 
 Y los días de Taré fueron doscientos cinco años, y Taré murió en Jarán.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **MUERTE EN JARÁN — NO EN KENAAN**
 > - Taré muere en Jarán, no en Canaán. Nunca llega al destino. El hombre que comenzó el viaje no lo completa. La completación recae en Abrán (Gn 12:4–5).

@@ -76,7 +76,7 @@ Notes are tagged by type — **Critical · Lexical · Grammatical · Theological
 
 In beginning, God created the skies and the land.
 
-> **📝 NOTES**
+> **NOTES**
 > 
 > 🔴 **CRITICAL - Structure & Interpretation**  
 > Hebrew: **בְּרֵאשִׁית בָּרָא אֱלֹהִים אֵת הַשָּׁמַיִם וְאֵת הָאָֽרֶץ** (*Bereshit bara elohim et hashamayim ve'et ha'aretz*)
@@ -97,7 +97,7 @@ In beginning, God created the skies and the land.
 
 And the land was chaos and void, and darkness *was* over the face of the deep, and {a:wind/spirit} of God *was* hovering over the face of the waters.
 
-> **📝 NOTES**
+> **NOTES**
 > 
 > 🟡 **AMBIGUITY PRESERVED**
 > - **תֹהוּ וָבֹהוּ** (*tohu vavohu*) = rare phrase (appears only 3x in Bible); exact meaning **UNCERTAIN**; associated with destruction/desolation. "Chaos and void" is **POSSIBLE** translation. Avoid elaborate cosmological speculation.
@@ -113,7 +113,7 @@ And the land was chaos and void, and darkness *was* over the face of the deep, a
 
 And God said, @@"Shall be light,"@@ and light was.
 
-> **📝 NOTES**
+> **NOTES**
 > 
 > 🔵 **JUSSIVE & CONVERTING VAV** (Explained here; not repeated in later verses)
 > - **יְהִי** (*yehi*) = future/jussive form used as divine command—literally "shall be" rather than imperative "let there be"
@@ -125,7 +125,7 @@ And God said, @@"Shall be light,"@@ and light was.
 
 And God saw the light, that good, and God separated between the light and between the darkness.
 
-> **📝 NOTES**
+> **NOTES**
 > 
 > 🔵 **COMPRESSED EVALUATION**
 > - Hebrew **כִּי־טוֹב** (*ki-tov*) = "that good" without explicit "it was"—Transparent Edition preserves Hebrew compression; Reader Edition would expand to "that it was good"
@@ -137,7 +137,7 @@ And God saw the light, that good, and God separated between the light and betwee
 
 And God called to the light "Day," and to the darkness he called "Night." And was evening, and was morning, one day.
 
-> **📝 NOTES**
+> **NOTES**
 > 
 > 🔴 **CRITICAL - Day ONE, Not FIRST**
 > - Hebrew **יוֹם אֶחָד** (*yom echad*) = "day ONE" (cardinal number)—NOT ordinal **רִאשׁוֹן** (*rishon* = "first"). Days 2-6 use ordinals (second, third, fourth, fifth, sixth). **Day 1 treated differently linguistically—this is significant.**
@@ -152,7 +152,7 @@ And God called to the light "Day," and to the darkness he called "Night." And wa
 
 And God said, @@"Shall be *a* {t:raqia} (expanse) within the waters, and *it* shall be a separator between waters to waters."@@
 
-> **📝 NOTES**
+> **NOTES**
 > 
 > 🔴 **CRITICAL - RAQIA INTRODUCTION**
 > - Hebrew **רָקִיעַ** (*raqia*) from root **ר-ק-ע** = "to hammer/beat"—describes hammered or beaten-out structure
@@ -169,7 +169,7 @@ And God said, @@"Shall be *a* {t:raqia} (expanse) within the waters, and *it* sh
 
 And God made the {t:raqia}, and he separated between the waters which *were* under the {t:raqia} and between the waters which *were* above the {t:raqia}. And it was so.
 
-> **📝 NOTES**
+> **NOTES**
 > 
 > 🟢 **VERB SHIFT**
 > - **בָּרָא** (*bara* = created, v.1) vs. **עָשָׂה** (*asah* = made, v.7)—both used for divine action; **POSSIBLE** distinction: *bara* is used distinctively for divine creative action; its precise scope (whether it implies creation from nothing or reshaping existing material) is debated
@@ -183,7 +183,7 @@ And God made the {t:raqia}, and he separated between the waters which *were* und
 
 And God called to the {t:raqia} "Sky." And was evening, and was morning, second day.
 
-> **📝 NOTES**
+> **NOTES**
 > 
 > 🔴 **CRITICAL - RAQIA = SKY IDENTIFICATION**
 > - God explicitly identifies **raqia = shamayim (sky)**—the text equates raqia with the visible sky/expanse above. The semantic range of raqia (from root "to hammer/beat out") remains debated; ancient interpreters understood it variously as a solid vault, an atmospheric expanse, or a boundary layer. The naming here grounds the term in the sky domain without resolving those questions.
@@ -198,7 +198,7 @@ And God called to the {t:raqia} "Sky." And was evening, and was morning, second 
 
 And God said, @@"Shall be gathered the waters from under the sky to one place, and shall be seen the dry ground."@@ And it was so.
 
-> **📝 NOTES**
+> **NOTES**
 > 
 > 🔵 **PASSIVE VOICE PRESERVED**
 > - **יִקָּווּ** (*yikavu*) = "shall be gathered" (passive); **תֵרָאֶה** (*teira'eh*) = "shall be seen" (passive)—not active commands to waters, but passive divine causation
@@ -213,7 +213,7 @@ And God said, @@"Shall be gathered the waters from under the sky to one place, a
 
 And God called to the dry ground "Land," and to the gathering of the waters he called "Seas." And God saw that good.
 
-> **📝 NOTES**
+> **NOTES**
 > 
 > 🟢 **SINGULAR vs. PLURAL**
 > - **אֶרֶץ** (*eretz*) = land (SINGULAR connected landmass); **יַמִּים** (*yamim*) = seas (PLURAL separated bodies of water)
@@ -225,7 +225,7 @@ And God called to the dry ground "Land," and to the gathering of the waters he c
 
 And God said, @@"Shall grass the land grass, herbs seeding seed, fruit trees making fruit to its kind, which its seed *is* in it, upon the land."@@ And it was so.
 
-> **📝 NOTES**
+> **NOTES**
 > 
 > 🟢 **RARE VERB - "TO GRASS"**
 > - **תַּדְשֵׁא** (*tadsheh*) = verb created from noun **דֶּשֶׁא** (grass)—similar to English "to grass" (produce grass). YES, "shall grass" sounds odd—**intentional preservation of Hebrew poetic style.**
@@ -244,7 +244,7 @@ And God said, @@"Shall grass the land grass, herbs seeding seed, fruit trees mak
 
 And the land brought out grass, herbs seeding seed to its kind, and trees making fruit which its seed *is* in it, to its kind. And God saw that good.
 
-> **📝 NOTES**
+> **NOTES**
 > 
 > 🔵 **COMMAND → FULFILLMENT PATTERN**
 > - v.11 command → v.12 fulfillment with nearly identical wording—shows exact compliance
@@ -262,7 +262,7 @@ And was evening, and was morning, third day.
 
 And God said, @@"Shall be lights in the {t:raqia}, to separate between the day and between the night, and they shall be for signs and for appointed times and for days and years.@@
 
-> **📝 NOTES**
+> **NOTES**
 > 
 > 🟢 **LUMINARIES INTRODUCED**
 > - **מְאֹרֹת** (*me'orot*) = lights/luminaries/light-bearers from root **א-ו-ר** (light)—plural but specific referents unnamed until v.16
@@ -285,7 +285,7 @@ And God said, @@"Shall be lights in the {t:raqia}, to separate between the day a
 
 And God made the two great lights: the greater light for dominion of the day, and the lesser light for dominion of the night, and the stars.
 
-> **📝 NOTES**
+> **NOTES**
 > 
 > 🔴 **CRITICAL - UNNAMED LUMINARIES**
 > - Sun and moon **LEFT UNNAMED**—described only as "greater light" and "lesser light"
@@ -303,7 +303,7 @@ And God made the two great lights: the greater light for dominion of the day, an
 
 And God set them in the {t:raqia}, to give light upon the land.
 
-> **📝 NOTES**
+> **NOTES**
 > 
 > 🔵 **PLACEMENT**
 > - Lights placed **IN** the raqia—contrast: birds fly **OVER** the raqia (v.20)
@@ -314,7 +314,7 @@ And God set them in the {t:raqia}, to give light upon the land.
 
 And to rule in the day and in the night, and to separate between the light and between the darkness. And God saw that good.
 
-> **📝 NOTES**
+> **NOTES**
 > 
 > 🔵 **PURPOSE INFINITIVES**
 > - "To rule...and to separate"—parallel functions of the lights
@@ -331,7 +331,7 @@ And was evening, and was morning, fourth day.
 
 And God said, @@"Shall swarm the waters *with* swarms of living beings, and birds shall fly over the land, over the face of the {t:raqia}."@@
 
-> **📝 NOTES**
+> **NOTES**
 > 
 > 🔴 **CRITICAL - LIVING BEINGS INTRODUCED**
 > - **נֶפֶשׁ חַיָּה** (*nefesh chayah*) = living being/beings—literally "living breath/throat/soul"; **NOT "soul" in later philosophical sense**
@@ -350,7 +350,7 @@ And God said, @@"Shall swarm the waters *with* swarms of living beings, and bird
 
 And God created the great sea creatures, and every living being, the moving *ones* which the waters swarmed, to their kinds, and every winged bird to its kind. And God saw that good.
 
-> **📝 NOTES**
+> **NOTES**
 > 
 > 🔴 **CRITICAL - CREATED, NOT MADE**
 > - **בָּרָא** (*bara* = created) returns for first time since v.1—used for living beings, NOT for lights or plants; suggests significance distinction
@@ -365,7 +365,7 @@ And God created the great sea creatures, and every living being, the moving *one
 
 And God blessed them, saying, @@"Be fruitful and multiply, and fill the waters in the seas, and *let* the birds multiply in the land."@@
 
-> **📝 NOTES**
+> **NOTES**
 > 
 > 🔴 **FIRST BLESSING FORMULA**
 > - **וַיְבָרֶךְ** (*vayvarekh*) = "and he blessed" (first occurrence)—will recur: v.28 (humans), Genesis 2:3 (seventh day)
@@ -386,7 +386,7 @@ And was evening, and was morning, fifth day.
 
 And God said, @@"Shall bring forth the land living beings to their kind: livestock and creeping things and living things of *the* land, to their kind."@@ And it was so.
 
-> **📝 NOTES**
+> **NOTES**
 > 
 > 🟢 **NEFESH CHAYAH - Land Animals**
 > - **נֶפֶשׁ חַיָּה** now applied to land animals (previously water creatures, vv.20-21)
@@ -401,7 +401,7 @@ And God said, @@"Shall bring forth the land living beings to their kind: livesto
 
 And God made the living things of the land to their kind, and the livestock to their kind, and every creeping thing of the ground to its kind. And God saw that good.
 
-> **📝 NOTES**
+> **NOTES**
 > 
 > 🟢 **GROUND vs. LAND**
 > - **אֲדָמָה** (*adamah*) = ground/soil (FIRST occurrence)—distinct from **אֶרֶץ** (*eretz* = land)
@@ -414,7 +414,7 @@ And God made the living things of the land to their kind, and the livestock to t
 
 And God said, @@"Let us make *a* human in our image, according to our likeness, and let them have dominion over *the* fish of the sea and over *the* birds of the sky and over the livestock and over all the land and over every creeping thing *that* creeps upon the land."@@
 
-> **📝 NOTES**
+> **NOTES**
 > 
 > 🟡 **CRITICAL - PLURAL DIVINE SPEECH**
 > - First person **PLURAL**: "let **us** make...in **our** image...our likeness"
@@ -440,7 +440,7 @@ And God said, @@"Let us make *a* human in our image, according to our likeness, 
 
 And God created the human in his image; in *the* image of God he created him; male and female he created them.
 
-> **📝 NOTES**
+> **NOTES**
 > 
 > 🔴 **CRITICAL - TRIPLE CREATION EMPHASIS**
 > - **בָּרָא** (*bara* = created) used **THREE TIMES**—**ONLY occurrence** of triple verb repetition in one verse; shows maximum significance/emphasis
@@ -459,7 +459,7 @@ And God created the human in his image; in *the* image of God he created him; ma
 
 And God blessed them, and God said to them, @@"Be fruitful and multiply, and fill the land and subdue it, and have dominion over *the* fish of the sea and over *the* birds of the sky and over every living thing *that* moves upon the land."@@
 
-> **📝 NOTES**
+> **NOTES**
 > 
 > 🔵 **BLESSING FORMULA**
 > - As v.22 (sea creatures/birds), but expanded for humans with additional commands
@@ -480,7 +480,7 @@ And God blessed them, and God said to them, @@"Be fruitful and multiply, and fil
 
 And God said, @@"See, I have given to you every herb seeding seed which *is* upon *the* face of all the land, and every tree in which *is* fruit of *a* tree seeding seed; to you it shall be for food.@@
 
-> **📝 NOTES**
+> **NOTES**
 > 
 > 🔵 **ATTENTION PARTICLE**
 > - **הִנֵּה** (*hineh*) = "see/behold"—signals important announcement
@@ -497,7 +497,7 @@ And God said, @@"See, I have given to you every herb seeding seed which *is* upo
 
 @@And to every living thing of the land and to every bird of the sky and to everything creeping upon the land, in which *is a* living being, every green herb *shall be* for food."@@ And it was so.
 
-> **📝 NOTES**
+> **NOTES**
 > 
 > 🟢 **NEFESH CHAYAH = Qualifier**
 > - **נֶפֶשׁ חַיָּה** distinguishes animals with breath/life from plants
@@ -512,7 +512,7 @@ And God said, @@"See, I have given to you every herb seeding seed which *is* upo
 
 And God saw all that he had made, and see, *it was* very good. And was evening, and was morning, the sixth day.
 
-> **📝 NOTES**
+> **NOTES**
 > 
 > 🔴 **CRITICAL - EVALUATION SHIFT: VERY GOOD**
 > - **טוֹב מְאֹד** (*tov me'od*) = "VERY good" vs. simple **טוֹב** (*tov* = "good") in ALL previous days

@@ -36,27 +36,38 @@ const CONFIDENCE_KEYS: Record<ConfidenceLevel, string> = {
   DOCUMENTED: "confidence.documented",
 };
 
-function ProphecyCard({ entry }: { entry: ProphecyEntry }) {
+function ProphecyCard({
+  entry,
+  open = false,
+}: {
+  entry: ProphecyEntry;
+  open?: boolean;
+}) {
   const t = useTranslations();
 
   return (
-    <div className="border border-border rounded-lg overflow-hidden">
-      <div className="px-4 py-3 bg-bg-surface border-b border-border">
-        <div className="flex items-center justify-between flex-wrap gap-2">
-          <h3 className="font-[family-name:var(--font-ui)] text-sm font-semibold">
+    <details name="prophecy-acc" className="tt-details" open={open}>
+      <summary>
+        <span className="flex min-w-0 flex-col gap-1">
+          <span className="font-[family-name:var(--font-reading)] text-[1.05rem] text-text-primary">
             {entry.title}
-          </h3>
+          </span>
+          <span className="font-[family-name:var(--font-mono)] text-[11px] text-text-muted">
+            {entry.verseRef}
+          </span>
+        </span>
+        <span className="flex flex-none items-center gap-3">
           <span
             className={`text-xs font-semibold uppercase px-2 py-0.5 rounded ${FULFILLMENT_COLORS[entry.fulfillmentStatus]}`}
           >
             {t(FULFILLMENT_KEYS[entry.fulfillmentStatus])}
           </span>
-        </div>
-        <p className="text-xs text-text-muted mt-1 font-[family-name:var(--font-mono)]">
-          {entry.verseRef}
-        </p>
-      </div>
-      <div className="px-4 py-3 space-y-3">
+          <span className="chev" aria-hidden="true">
+            ›
+          </span>
+        </span>
+      </summary>
+      <div className="body space-y-3">
         <div>
           <p className="text-xs font-semibold uppercase tracking-wider text-text-muted mb-1">
             {t("prophecy.fields.textSays")}
@@ -114,7 +125,7 @@ function ProphecyCard({ entry }: { entry: ProphecyEntry }) {
           </p>
         )}
       </div>
-    </div>
+    </details>
   );
 }
 
@@ -124,12 +135,12 @@ export function ProphecyView({ data }: { data: ProphecyData }) {
   if (data.entries.length === 0) return null;
 
   return (
-    <div className="space-y-6">
-      <p className="text-sm text-text-secondary italic font-[family-name:var(--font-reading)]">
+    <div>
+      <p className="mb-5 text-sm text-text-secondary italic font-[family-name:var(--font-reading)]">
         {t("prophecy.disclaimer")}
       </p>
       {data.entries.map((entry, i) => (
-        <ProphecyCard key={`p-${i}`} entry={entry} />
+        <ProphecyCard key={`p-${i}`} entry={entry} open={i === 0} />
       ))}
     </div>
   );

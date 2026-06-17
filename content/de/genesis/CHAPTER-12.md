@@ -26,17 +26,15 @@
 
 ## LESEANLEITUNG
 
-**📖 Haupttext:** Primäre Übersetzung—lesbar aber treu der hebräischen Struktur
-**📝 Notizen:** Wesentliche hebräische Merkmale unmittelbar unter jedem Vers
-***Kursiv:*** Wörter für deutsche Grammatik hinzugefügt (nicht im hebräischen Text)
-**„Anführungszeichen":** Direkte göttliche Rede
-**JHWH:** Tetragrammaton konsonantisch transliteriert (Regel 25, Option A)
+**Haupttext:** Primärübersetzung — lesbar, aber treu zur hebräischen Struktur. **Notizen:** Wesentliche hebräische Merkmale direkt unter jedem Vers.
 
-**Notizen-Symbole:**
-- 🔴 **KRITISCH** - Wichtige textliche oder Übersetzungsentscheidungen
-- 🟢 **LEXIKALISCH** - Wortbedeutungen, Wurzelmuster, Glossarbegriffe
-- 🔵 **GRAMMATISCH** - Hebräische Struktur, Verbformen, Syntax
-- 🟡 **THEOLOGISCH** - Interpretationsoptionen, Ambiguitätsbewahrung
+**Wie der Text markiert ist:**
+- *Kursive Wörter* — für die deutsche Grammatik ergänzt (nicht im hebräischen Text)
+- {t:raqia} — transliterierte hebräische Begriffe, unübersetzt belassen (in den Notizen erklärt)
+- {a:Wind/Geist} — ein Wort, das das Hebräische in zwei Bedeutungen offenlässt, beide beibehalten
+- @@"…"@@ — direkte Rede Gottes
+
+Notizen sind nach Typ gekennzeichnet — **Kritisch · Lexikalisch · Grammatisch · Theologisch** — jeweils mit ihrer Farbe (siehe die Legende oben in der Notizen-Ansicht).
 
 **Dieses Kapitel markiert den Übergang von der Urgeschichte zur Vätererzählung.** JHWH beruft Avram (Abram) aus Charan mit einem Befehl, der kein Ziel nennt, und einer Verheißung, die den Rest der Torah prägen wird. Der fünffache Segen (12:2–3) führt *Berakhah* als narrativen Antrieb ein. Abram zieht durch Kenaan (Kanaan) — Shekhem (Sichem), die Eiche von Moreh, Beyt-El (Bethel) — baut Altäre und ruft den Namen JHWHs an. Eine Hungersnot treibt ihn nach Ägypten, wo die Ehefrau-Schwester-Episode ein Muster einführt, das bei 20:2 und 26:7 wiederkehrt. Pharao wird mit Plagen (*nega'im*) geschlagen — dieselbe Wurzel, die im Exodus wiederkehren wird.
 
@@ -80,7 +78,7 @@
 
 Und JHWH sprach zu Avram (Abram): @@„Geh, du selbst, aus deinem Land und aus deiner Geburtsstätte und aus dem Haus deines Vaters, in das Land, das ich dir zeigen werde.@@
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **KRITISCH — *LEKH LEKHA* (GEH, DU SELBST)**
 > - **לֶךְ־לְךָ** (*lekh lekha*) = „Geh, du selbst" — emphatische Doppelform (Imperativ + reflexives Pronomen), in der Hebräischen Bibel selten. Erscheint nur hier und bei Gn 22:2 (Bindung Yitschaqas), die Erzählung Avrams/Avrahams einklammernd. Die TT gibt „Geh, du selbst" wieder, um die Verdoppelung zu bewahren, ohne eine einzige Interpretation der reflexiven Kraft zu importieren. Für ausführlichere Diskussion siehe Begleitmaterial Abschnitt A1.
@@ -97,7 +95,7 @@ Und JHWH sprach zu Avram (Abram): @@„Geh, du selbst, aus deinem Land und aus d
 
 @@Und ich werde dich zu einer großen Nation machen, und ich werde dich segnen, und ich werde deinen Namen groß machen — und sei ein Segen.@@
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **FÜNFFACHE VERHEISSUNG (12:2–3)**
 > - Die Verheißung entfaltet sich über Vv.2–3 in fünf Sätzen: (1) „Ich werde dich zu einer großen Nation machen"; (2) „Ich werde dich segnen"; (3) „Ich werde deinen Namen groß machen"; (4) „sei ein Segen"; (5) „alle Sippen des Bodens werden gesegnet werden / werden sich segnen in dir." Die Struktur wechselt bei (4) von deklarativ („Ich werde...") zu imperativ („sei ein Segen") — Abram wird zum Akteur, nicht nur zum Empfänger.
@@ -111,7 +109,7 @@ Und JHWH sprach zu Avram (Abram): @@„Geh, du selbst, aus deinem Land und aus d
 
 @@Und ich werde segnen, die dich segnen, und wer dich verachtet, den werde ich verfluchen, und alle Sippen des Bodens {a:werden gesegnet werden / werden sich segnen} in dir."@@
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **KRITISCH — ZWEI VERSCHIEDENE FLUCHWÖRTER**
 > - **קָלַל** (*qalal*) = geringschätzen/verfluchen (leichter); **אָרַר** (*arar*) = verfluchen (schwer, formal; selbe Wurzel wie 3:14, 3:17, 4:11, 9:25). Wer Abram geringschätzt (*qalal*), empfängt den schwereren Fluch (*arar*) — bewusste Asymmetrie.
@@ -130,7 +128,7 @@ Und JHWH sprach zu Avram (Abram): @@„Geh, du selbst, aus deinem Land und aus d
 
 Und Abram ging, wie JHWH zu ihm gesprochen hatte, und Lot ging mit ihm; und Abram *war* fünfundsiebzig Jahre, ein Sohn von, als er aus Charan auszog.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔵 **„UND AVRAM GING" — KEIN DIALOG**
 > - **וַיֵּלֶךְ אַבְרָם** = „Und Abram ging." JHWH spricht fünf Segensklauseln; Abram antwortet mit null Worten. Er geht einfach. Wie Noach (Noah) (6:22: „und Noah tat es"), ist die Antwort Handlung, nicht Rede.
@@ -144,7 +142,7 @@ Und Abram ging, wie JHWH zu ihm gesprochen hatte, und Lot ging mit ihm; und Abra
 
 Und Abram nahm Sarai, seine Frau, und Lot, den Sohn seines Bruders, und all ihren Besitz, den sie gesammelt hatten, und die Personen, die sie in Charan gemacht hatten, und sie zogen aus, um in das Land Kenaan (Kanaan) zu gehen, und sie kamen in das Land Kanaan.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟢 **„DIE PERSONEN, DIE SIE GEMACHT HATTEN" (*ha-nephesh asher asu*)**
 > - **וְאֶת־הַנֶּפֶשׁ אֲשֶׁר־עָשׂוּ בְחָרָן** = „und die Personen (*nephesh*), die sie gemacht (*asu*) hatten in Charan." *Nephesh* hier = Personen/Menschen (TT-Wiedergabe: „Personen"). *Asah* = gemacht/erworben. Das Verb „gemacht" für den Erwerb von Menschen ist auffällig — es bezieht sich wahrscheinlich auf Diener oder Haushaltsmitglieder, die in Charan gewonnen wurden. Targum Onkelos: „Seelen, die sie bekehrt hatten." Der Text sagt „gemacht."
@@ -158,7 +156,7 @@ Und Abram nahm Sarai, seine Frau, und Lot, den Sohn seines Bruders, und all ihre
 
 Und Abram durchzog das Land bis zum Ort Shekhem (Sichem), zur Eiche von Moreh; und der Kanaani *war* damals im Land.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟢 **SHEKHEM**
 > - **שְׁכֶם** (*Sichem*) = erster genannter Ort in Abrams Kanaan-Reise. Die Stätte kehrt wieder: Yaakov kauft dort Land (33:18–19), Josefs Gebeine werden dort begraben (Jos 24:32), und Yehoshuas Bundeserneuerung findet dort statt (Jos 24:1). Abrams erster Halt wird ein entscheidender Ort in Israels Erinnerung.
@@ -175,7 +173,7 @@ Und Abram durchzog das Land bis zum Ort Shekhem (Sichem), zur Eiche von Moreh; u
 
 Und JHWH erschien dem Abram und sprach: @@„Deinem Samen werde ich dieses Land geben."@@ Und er baute dort einen Altar für JHWH, der ihm erschienen war.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **ERSTE GÖTTLICHE ERSCHEINUNG (*vayyera*)**
 > - **וַיֵּרָא יהוה אֶל־אַבְרָם** = „Und JHWH erschien dem Abram." Erste verzeichnete Theophanie an Abram. In 12:1 „sprach" JHWH (*vayyomer*); hier „erschien" JHWH (*vayyera*) — eine visuelle Komponente. Das Verb ראה (sehen) im Niphal = wurde gesehen / erschien.
@@ -192,7 +190,7 @@ Und JHWH erschien dem Abram und sprach: @@„Deinem Samen werde ich dieses Land 
 
 Und er brach auf von dort zum Bergland östlich von Beyt-El (Bethel) und schlug sein Zelt auf — Bethel *war* im Westen und Ai *war* im Osten — und er baute dort einen Altar für JHWH und rief den Namen JHWHs an.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟢 **BEYT-EL**
 > - **בֵּית־אֵל** (*Bethel*) = „Haus Gottes." Der Name antizipiert Yaakobs Benennung in 28:19 — aber der Text verwendet den Namen hier proleptisch (der Erzähler verwendet den späteren Namen). Die Stätte wird ein bedeutendes Anbetungszentrum.
@@ -209,7 +207,7 @@ Und er brach auf von dort zum Bergland östlich von Beyt-El (Bethel) und schlug 
 
 Und Abram brach auf, ziehend und reisend Richtung Negev.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔵 **„ZIEHEND UND REISEND" (*halokh ve-nasoa*)**
 > - **הָלוֹךְ וְנָסוֹעַ** = „ziehend und reisend." Infinitivus-absolutus-Konstruktion — fortlaufende, fortschreitende Bewegung. Abram siedelt sich nicht an; er durchzieht. Das Land ist verheißen, aber noch nicht besessen.
@@ -223,7 +221,7 @@ Und Abram brach auf, ziehend und reisend Richtung Negev.
 
 Und es war eine Hungersnot im Land, und Abram stieg hinab nach Ägypten, um dort als Fremdling zu weilen, denn die Hungersnot *war* schwer im Land.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **ERSTE HUNGERSNOT, ERSTER ABSTIEG NACH ÄGYPTEN**
 > - **וַיְהִי רָעָב בָּאָרֶץ** = „Und es war eine Hungersnot im Land." Erste Hungersnot in Genesis. Das verheißene Land kann Abram nicht ernähren. Die Ironie: Gott verheißt das Land (V.7), dann vertreibt Hungersnot ihn daraus. Dies wird ein Muster: Hungersnot treibt die Patriarchen (26:1, Yitschaq (Isaak); 42:1–2, Yaakobs Söhne).
@@ -240,7 +238,7 @@ Und es war eine Hungersnot im Land, und Abram stieg hinab nach Ägypten, um dort
 
 Und es geschah, als er sich näherte, nach Ägypten einzutreten, und er sprach zu Sarai, seiner Frau: „Siehe, ich weiß, dass du *eine* Frau *bist*, schön von Aussehen.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔵 **„FRAU, SCHÖN VON AUSSEHEN" (*yefat mar'eh*)**
 > - **אִשָּׁה יְפַת־מַרְאֶה** = „Frau, schön von Aussehen." *Yefat* von *yafeh* (schön); *mar'eh* = Aussehen/Anblick. Die Schönheit wird von Abram als Bedrohung vermerkt, nicht als Kompliment. Die Beschreibung ist funktional — sie bereitet die Gefahr vor.
@@ -251,7 +249,7 @@ Und es geschah, als er sich näherte, nach Ägypten einzutreten, und er sprach z
 
 Und es wird sein, wenn die Ägypter dich sehen, und sie werden sagen: ‚Dies *ist* seine Frau,' und sie werden mich töten, und dich werden sie am Leben lassen.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔵 **AVRAMS FURCHT**
 > - Die Logik ist explizit: die Ägypter werden den Ehemann töten, um die Frau zu nehmen. Abram antizipiert Mord. Der Text bewertet nicht, ob seine Furcht berechtigt ist — er verzeichnet seine Überlegung.
@@ -262,7 +260,7 @@ Und es wird sein, wenn die Ägypter dich sehen, und sie werden sagen: ‚Dies *i
 
 Sag doch, *dass* du meine Schwester *bist*, damit es mir wohl ergehe deinetwegen, und mein Leben lebe um deinetwillen."
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟡 **STUFE 2 — REZEPTIONSHINWEIS**
 > - Siehe Begleitmaterial Abschnitt F für Kontext zur Ehefrau-Schwester-Episode und Sarais Handlungsfähigkeit.
@@ -287,7 +285,7 @@ Und es geschah, als Abram nach Ägypten kam, und die Ägypter sahen die Frau, da
 
 Und die Beamten Pharaos sahen sie und priesen sie dem Pharao, und die Frau wurde genommen *in* das Haus Pharaos.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔵 **PASSIV — „DIE FRAU WURDE GENOMMEN"**
 > - **וַתֻּקַּח הָאִשָּׁה** = „und die Frau wurde genommen." Hophal (kausatives Passiv) von *laqach* (nehmen). Sarai ist das grammatische Objekt durchgehend: gesehen, gelobt, genommen. Die Passivkonstruktion betont ihren Mangel an Handlungsfähigkeit in dieser Abfolge.
@@ -301,7 +299,7 @@ Und die Beamten Pharaos sahen sie und priesen sie dem Pharao, und die Frau wurde
 
 Und dem Abram tat er wohl ihretwegen, und er hatte Kleinvieh und Rinder und männliche Esel und Knechte und Mägde und Eselinnen und Kamele.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟡 **AVRAM GEDEIHT DURCH DIE TÄUSCHUNG**
 > - **וּלְאַבְרָם הֵיטִיב בַּעֲבוּרָהּ** = „Und dem Abram tat er wohl ihretwegen." Der Reichtum, den Abram empfängt, ist ausdrücklich an Sarais Anwesenheit in Pharaos Haus geknüpft. „Ihretwegen" (*ba'avurah*) — der Nutzen kommt durch Sarais Situation. Der Text berichtet die Bereicherung ohne deren Moralität zu bewerten.
@@ -315,7 +313,7 @@ Und dem Abram tat er wohl ihretwegen, und er hatte Kleinvieh und Rinder und män
 
 Und JHWH schlug den Pharao *mit* großen Plagen, und sein Haus, um Sarais willen, der Frau Abrams.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **KRITISCH — *NEGA'IM* (PLAGEN)**
 > - **וַיְנַגַּע יהוה אֶת־פַּרְעֹה נְגָעִים גְּדֹלִים** = „Und JHWH schlug den Pharao mit großen Plagen (*nega'im*)." Wurzel נ-ג-ע = schlagen/heimsuchen — dieselbe Wurzel wie die Exodusplagen. Die Wurzelverbindung ist die Grundlage für die Wiedergabe von *nega'im* als „Plagen" — dasselbe Vokabular trägt diese Bedeutung im Exodus-Bericht. JHWH greift ein, um Sarai zu schützen, wo Abrams Plan sie in Gefahr gebracht hat; der Text beschreibt nicht, was die Plagen waren. Für ausführlichere Diskussion siehe Begleitmaterial Abschnitt A8.
@@ -332,7 +330,7 @@ Und JHWH schlug den Pharao *mit* großen Plagen, und sein Haus, um Sarais willen
 
 Und Pharao rief Abram und sprach: „Was *ist* dies, was du mir angetan hast? Warum hast du mir nicht gesagt, dass sie deine Frau *ist*?
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **PHARAOS TADEL**
 > - **מַה־זֹּאת עָשִׂיתָ לִּי** = „Was ist dies, was du mir angetan hast?" Pharao — ein fremder König — tadelt den Patriarchen. Das Fragemuster echot Gottes Konfrontationen: „Was ist dies, was du getan hast?" (3:13 zur Frau). Die moralische Klarheit kommt von Pharao, nicht von Abram. Der Text mildert dies nicht.
@@ -343,7 +341,7 @@ Und Pharao rief Abram und sprach: „Was *ist* dies, was du mir angetan hast? Wa
 
 Warum hast du gesagt: ‚Sie *ist* meine Schwester,' und ich nahm sie mir zur Frau? Und nun, siehe, deine Frau — nimm *sie* und geh."
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔵 **„NIMM UND GEH" (*qach va-lekh*)**
 > - **הִנֵּה אִשְׁתְּךָ קַח וָלֵךְ** = „Siehe, deine Frau — nimm *sie* und geh." Pharao gibt Sarai zurück und weist Abram aus. Der Befehl ist schroff — Imperativ: nimm, geh. Keine Verhandlung, keine Strafe außer Ausweisung. Pharao handelt mit geradlinigerer Gerechtigkeit als Abram mit seiner Täuschung.
@@ -354,7 +352,7 @@ Warum hast du gesagt: ‚Sie *ist* meine Schwester,' und ich nahm sie mir zur Fr
 
 Und Pharao gebot Männern seinetwegen, und sie schickten ihn weg, und seine Frau, und alles, was sein *war*.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔵 **AUSWEISUNG — NICHT BESTRAFUNG**
 > - Pharao befiehlt eine Eskorte — nicht Hinrichtung, nicht Gefangenschaft. „Sie schickten ihn weg" (*vayeshallechu*) — Piel von *shalach* (senden). Abram verlässt Ägypten mit seiner Frau und all seinem Besitz (einschließlich des in V.16 Erworbenen). Er zieht wohlhabender ab, als er kam. Das Exodus-Echo: Israel wird ebenfalls Ägypten mit ägyptischem Reichtum verlassen (Ex 12:35–36).

@@ -27,18 +27,15 @@
 
 ## GUIA DE LEITURA
 
-**📖 Texto Principal:** Tradução primária—legível mas fiel à estrutura hebraica
-**📝 Notas:** Características hebraicas essenciais imediatamente abaixo de cada versículo
-***Itálico:*** Palavras adicionadas para a gramática portuguesa (não presentes no texto hebraico)
-**"Aspas":** Discurso divino direto ou fala humana
-**YHWH:** Tetragrama transliterado consonantalmente (Regra 25, Opção A)
-**Chava (Eva), nachash, etc.:** Termos hebraicos transliterados (explicados nas notas)
+**Texto Principal:** Tradução primária — legível, mas fiel à estrutura hebraica. **Notas:** Recursos hebraicos essenciais logo abaixo de cada versículo.
 
-**Ícones das Notas:**
-- 🔴 **CRÍTICO** - Decisões textuais ou tradutórias importantes
-- 🟢 **LEXICAL** - Significados de palavras, padrões de raízes, termos do glossário
-- 🔵 **GRAMATICAL** - Estrutura hebraica, formas verbais, sintaxe
-- 🟡 **TEOLÓGICO** - Opções interpretativas, preservação de ambiguidade
+**Como o texto é marcado:**
+- *Palavras em itálico* — acrescentadas para a gramática do português (não estão no texto hebraico)
+- {t:raqia} — termos hebraicos transliterados, mantidos sem tradução (explicados nas notas)
+- {a:vento/espírito} — uma palavra que o hebraico deixa aberta a dois sentidos, ambos mantidos
+- @@"…"@@ — fala direta de Deus
+
+As notas são marcadas por tipo — **Crítico · Lexical · Gramatical · Teológico** — cada uma com sua cor (veja a legenda no topo da visão de Notas).
 
 **Regra 23 (Sensibilidade de Gênero Literário):** Prosa narrativa, não padrão litúrgico. O capítulo não contém vocabulário teológico português herdado ("a Queda," "pecado original," "proto-evangelho," "Satanás") a menos que o hebraico justifique — e o hebraico não justifica.
 
@@ -86,7 +83,7 @@
 
 E a serpente era mais astuta que todo animal do campo que YHWH Elohim havia feito. E disse à mulher: "De fato, disse Deus: 'Não comereis de toda árvore do jardim'?"
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **CRÍTICO - JOGO DE PALAVRAS COM 2:25**
 > - **עָרוּם** (*arum*) = "astuto/sagaz"—mesmas consoantes de **עֲרוֹם** (*arom*) = "nu" em Gn 2:25. Dobradiça sonora deliberada entre os capítulos.
@@ -108,7 +105,7 @@ E a serpente era mais astuta que todo animal do campo que YHWH Elohim havia feit
 
 E a mulher disse à serpente: "Do fruto das árvores do jardim podemos comer,
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **CORRIGE O ENQUADRAMENTO**
 > - A mulher corrige a distorção da serpente repetindo a permissão positiva. Isso torna mais marcante o acréscimo dela ao mandamento original no v.3.
@@ -119,7 +116,7 @@ E a mulher disse à serpente: "Do fruto das árvores do jardim podemos comer,
 
 mas do fruto da árvore que *está* no meio do jardim, Deus disse: 'Não comereis dele, e não o tocareis, para que não morrais.'"
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **A MULHER ACRESCENTA "TOCAR"**
 > - Mandamento original (2:17): a proibição é **apenas de comer**, e a consequência é **"morrendo morrerás"** (infinitivo absoluto).
@@ -135,7 +132,7 @@ mas do fruto da árvore que *está* no meio do jardim, Deus disse: 'Não comerei
 
 E a serpente disse à mulher: "Não morrendo morrereis.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **CRÍTICO - INFINITIVO ABSOLUTO NEGADO**
 > - **לֹא־מוֹת תְּמוּתוּן** (*lo mot temutun*) = literalmente "não morrendo morrereis." Negação direta de **מוֹת תָּמוּת** (*mot tamut*) = "morrendo morrerás" de 2:17.
@@ -148,7 +145,7 @@ E a serpente disse à mulher: "Não morrendo morrereis.
 
 Porque Deus sabe que no dia em que dele comerdes, vossos olhos serão abertos, e sereis como {a:Deus/deuses}, conhecendo o bem e o mal."
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **CRÍTICO - *ke-elohim*: "COMO DEUS / COMO DEUSES"**
 > - **כֵּאלֹהִים** (*ke-elohim*)—*Elohim* é gramaticalmente plural, mas usado para o Deus singular ao longo de Gênesis. Aqui, a ambiguidade é genuinamente ativa: "como Deus" (um) ou "como deuses" (plural/seres divinos). Ambos preservados via barra (Regra 2).
@@ -162,7 +159,7 @@ Porque Deus sabe que no dia em que dele comerdes, vossos olhos serão abertos, e
 
 E a mulher viu que a árvore *era* boa para comida, e que *era* agradável aos olhos, e que a árvore *era* desejável para tornar sábio; e tomou de seu fruto e comeu, e deu também ao seu homem com ela, e ele comeu.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **TRÊS CLÁUSULAS**
 > - Ecoa Gn 2:9 ("agradável à vista e boa para comida") e acrescenta uma terceira: "desejável para tornar sábio." Padrão de três descritores paralelos.
@@ -176,7 +173,7 @@ E a mulher viu que a árvore *era* boa para comida, e que *era* agradável aos o
 
 E os olhos de ambos foram abertos, e souberam que *estavam* nus; e costuraram folhas de figueira e fizeram para si cintas.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **PASSIVA CUMPRE PROMESSA**
 > - Mesma forma nifal do v.5—a previsão da serpente sobre olhos abertos é cumprida, embora o que vejam (a própria nudez) difira do que a serpente insinuou.
@@ -190,7 +187,7 @@ E os olhos de ambos foram abertos, e souberam que *estavam* nus; e costuraram fo
 
 E ouviram a voz de YHWH Elohim caminhando no jardim ao vento do dia, e o humano e sua mulher se esconderam da face de YHWH Elohim no meio da árvore do jardim.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **QOL — VOZ OU SOM?**
 > - **קוֹל** (*qol*) = "voz / som / ruído." O alcance semântico da palavra é mais amplo que qualquer renderização portuguesa única. Em Gn 3:8, *qol* descreve o que é ouvido de YHWH Elohim *caminhando* — possivelmente um **som** mais que uma **voz**. Em Gn 3:10, *qol* é o que o humano ouviu e ao qual respondeu — possivelmente uma **voz**. Ambas as ocorrências usam a mesma palavra hebraica. O texto principal renderiza "voz" consistentemente (Regra 1); o alcance mais amplo é sinalizado aqui. O texto não resolve se Deus estava falando, fazendo sons de passos, ou outra coisa.
@@ -207,7 +204,7 @@ E ouviram a voz de YHWH Elohim caminhando no jardim ao vento do dia, e o humano 
 
 E YHWH Elohim chamou ao humano, e lhe disse: @@"Onde *estás*?"@@
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **"ONDE ESTÁS"**
 > - **אַיֶּכָּה** (*ayyekkah*) = "onde *estás*?"—única palavra hebraica. A pergunta de uma só palavra mais famosa em Gênesis. Retórica mais que informacional (onisciência divina pressuposta pela narrativa), mas o hebraico não dá enquadramento além da pergunta literal. Preservar literalmente.
@@ -218,7 +215,7 @@ E YHWH Elohim chamou ao humano, e lhe disse: @@"Onde *estás*?"@@
 
 E ele disse: "A tua voz ouvi no jardim, e tive medo, porque *estou* nu, e me escondi."
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **OBJETO ANTECIPADO**
 > - **אֶת־קֹלְךָ שָׁמַעְתִּי** (*et-qolkha shamati*) = "a tua voz ouvi"—objeto antecipado para ênfase. Preservado em ordem portuguesa.
@@ -229,7 +226,7 @@ E ele disse: "A tua voz ouvi no jardim, e tive medo, porque *estou* nu, e me esc
 
 E ele disse: @@"Quem te disse que *estás* nu? Da árvore que te ordenei não comeres dela, comeste?"@@
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **DUAS PERGUNTAS**
 > - Primeira pergunta: *quem* o informou de sua nudez—implica que a consciência de vergonha veio de ato externo. Segunda pergunta: ele comeu da árvore proibida? Padrão de confrontação indireta, depois direta.
@@ -240,7 +237,7 @@ E ele disse: @@"Quem te disse que *estás* nu? Da árvore que te ordenei não co
 
 E o humano disse: "A mulher que me deste *para estar* comigo, ela me deu da árvore, e comi."
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **DUPLA ATRIBUIÇÃO**
 > - A resposta do humano atribui agência duas vezes: à mulher ("ela me deu") e indiretamente a YHWH Elohim ("que *tu* me deste"). Preservar sem interpretação.
@@ -251,7 +248,7 @@ E o humano disse: "A mulher que me deste *para estar* comigo, ela me deu da árv
 
 E YHWH Elohim disse à mulher: @@"Que *é* isto que fizeste?"@@ E a mulher disse: "A serpente me enganou, e comi."
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **ENGANOU**
 > - **הִשִּׁיאַנִי** (*hishi'ani*) = "enganou/iludiu-me"—hifil de נ-ש-א ou de נ-ש-ה. Raiz **INCERTA**; ambas dão "enganar/desviar." Não "tentou" (o que importaria vocabulário teológico posterior).
@@ -262,7 +259,7 @@ E YHWH Elohim disse à mulher: @@"Que *é* isto que fizeste?"@@ E a mulher disse
 
 E YHWH Elohim disse à serpente: @@"Porque fizeste isto, maldita *és* tu dentre todo gado e dentre todo animal do campo; sobre o teu ventre irás, e pó comerás todos os dias da tua vida.@@
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **MALDITA**
 > - **אָרוּר** (*arur*) = "maldito/a." Primeira ocorrência desta palavra na Bíblia. Passivo/estativo; a serpente é colocada em estado amaldiçoado.
@@ -277,7 +274,7 @@ E YHWH Elohim disse à serpente: @@"Porque fizeste isto, maldita *és* tu dentre
 
 @@E inimizade porei entre ti e entre a mulher, e entre a tua semente e entre a semente dela; ele te {a:ferirá/golpeará} *na* cabeça, e tu lhe {a:ferirás/golpearás} *no* calcanhar."@@
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **CRÍTICO - *shuf***
 > - **שׁוּף** (*shuf*) usado duas vezes com a mesma forma para ambas as ações—na cabeça e no calcanhar. Significado **INCERTO**: "ferir / golpear / esmagar / atacar / mirar em." Verbo raro (apenas 3 ocorrências na Bíblia Hebraica).
@@ -298,7 +295,7 @@ E YHWH Elohim disse à serpente: @@"Porque fizeste isto, maldita *és* tu dentre
 
 À mulher disse: @@"Multiplicando multiplicarei a tua fadiga e a tua gravidez; em fadiga darás à luz filhos. E para o teu homem *será* o teu {a:desejo/inclinação}, e ele dominará sobre ti."@@
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **INFINITIVO ABSOLUTO**
 > - **הַרְבָּה אַרְבֶּה** (*harbah arbeh*) = "multiplicando multiplicarei"—infinitivo absoluto enfático. Preservado estruturalmente conforme Regra 5.
@@ -320,7 +317,7 @@ E YHWH Elohim disse à serpente: @@"Porque fizeste isto, maldita *és* tu dentre
 
 E ao humano disse: @@"Porque ouviste a voz de tua mulher, e comeste da árvore que te ordenei, dizendo: 'Não comerás dela,' maldita *é* a terra por causa de ti; em fadiga comerás *dela* todos os dias de tua vida.@@
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **NOTA SOBRE O ARTIGO**
 > - **לְאָדָם** (*le-adam*) **sem o artigo** aqui. Transição **POSSÍVEL** rumo ao nome próprio *Adão*, mas a tradução preserva "o humano" para continuidade com Gn 2 (onde *ha-adam* predomina). Transição ao uso como nome próprio formalmente resolvida em Gn 4. Sinalizado conforme Regra 17.
@@ -334,7 +331,7 @@ E ao humano disse: @@"Porque ouviste a voz de tua mulher, e comeste da árvore q
 
 @@E espinho e cardo ela fará brotar para ti, e comerás a erva do campo.@@
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **ECO DE 2:5**
 > - Gn 2:5 descreveu um estado pré-criação: sem arbusto, sem erva. Aqui a *erva do campo* torna-se alimento humano—a mesma categoria que ainda não existia em 2:5 retorna, mas agora sob labuta.
@@ -345,7 +342,7 @@ E ao humano disse: @@"Porque ouviste a voz de tua mulher, e comeste da árvore q
 
 @@No suor do teu rosto comerás pão, até o teu retornar ao solo, porque dele foste tomado; porque pó *és*, e ao pó retornarás."@@
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **PÓ AO PÓ**
 > - **עָפָר אַתָּה וְאֶל־עָפָר תָּשׁוּב** (*afar atah ve-el afar tashuv*) = "pó *és* e ao pó retornarás." Fecha o enquadramento aberto em 2:7 (*"pó do solo"*). O texto usa o presente (*és*, não "serás") — se a mortalidade é aqui declarada como condição já existente ou como uma consequência recém-imposta é debatido (POSSÍVEL); ambas as leituras são lexicalmente compatíveis com o tempo presente hebraico.
@@ -356,7 +353,7 @@ E ao humano disse: @@"Porque ouviste a voz de tua mulher, e comeste da árvore q
 
 E o humano chamou o nome de sua mulher Chava (Eva), porque era mãe de todo vivente.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **CRÍTICO - NOMEAÇÃO DE CHAVA**
 > - **חַוָּה** (*Chavvah*, transliterado *Chava*) = nome próprio. A Edição Transparente mantém *Chava*; a Edição do Leitor pode usar "Eva" (Septuaginta *Εὔα* via Vulgata *Heva*). → Para a história recepcional LXX→Vulgata→tradicional, veja o companheiro do capítulo §F.
@@ -371,7 +368,7 @@ E o humano chamou o nome de sua mulher Chava (Eva), porque era mãe de todo vive
 
 E YHWH Elohim fez para o humano e para sua mulher vestes de pele, e os vestiu.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **VESTES**
 > - **כָּתְנוֹת עוֹר** (*kotnot or*) = "túnicas / vestes de pele." Contraste com as *chagorot* (cintas) que eles fizeram para si em v.7.
@@ -383,7 +380,7 @@ E YHWH Elohim fez para o humano e para sua mulher vestes de pele, e os vestiu.
 
 E YHWH Elohim disse: @@"Eis que o humano tornou-se como um de nós, conhecendo o bem e o mal; e agora, para que não estenda a sua mão e tome também da árvore da vida, e coma, e viva para sempre…"@@
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **APOSIOPESE** *(interrupção deliberada)*
 > - A frase hebraica **quebra-se inacabada**—sem oração principal após a sequência de "para que não." Tecnicamente **aposiopese** (σιωπή, "silêncio" — uma frase que simplesmente para, deixando o pensamento suspenso) — uma quebra retórica deliberada, mais que um mero anacoluto sintático. O falante interrompe-se antes de declarar a consequência. A reticência (…) preserva a construção quebrada. A completude é narrativa, não gramatical: v.23 é a apódose implícita (*portanto YHWH Elohim o enviou para fora…*).
@@ -402,7 +399,7 @@ E YHWH Elohim disse: @@"Eis que o humano tornou-se como um de nós, conhecendo o
 
 E YHWH Elohim o enviou para fora do jardim de Éden, para lavrar o solo de que havia sido tomado.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **RETORNO À VOCAÇÃO**
 > - *Lavrar o solo*—mesmo verbo **ע-ב-ד** (*'-b-d*) de 2:5, 2:15 (onde o humano foi colocado no jardim *para lavrá-lo*). A vocação de trabalhar o solo continua; o cenário muda do jardim para a *adamah* mais ampla.
@@ -413,7 +410,7 @@ E YHWH Elohim o enviou para fora do jardim de Éden, para lavrar o solo de que h
 
 E expulsou o humano; e fez habitar ao oriente do jardim de Éden os querubins, e a chama da espada que se volta, para guardar o caminho da árvore da vida.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **QUERUBINS**
 > - **כְּרוּבִים** (*keruvim*) = plural de *keruv*. Transliterado em vez de sobre-traduzido. Iconografia do antigo Oriente Próximo: figuras guardiãs compostas (não as posteriores crianças aladas da arte cristã). Nota mantida mínima conforme Regra 12.

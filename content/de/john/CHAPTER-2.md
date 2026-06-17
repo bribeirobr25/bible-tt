@@ -27,17 +27,14 @@
 
 ## LESEANLEITUNG
 
-**📖 Haupttext:** Primäre Übersetzung — lesbar aber treu der griechischen Struktur
-**📝 Notizen:** Wesentliche griechische Merkmale unmittelbar unter jedem Vers
-***Kursiv:*** Wörter für deutsche Grammatik hinzugefügt (nicht im griechischen Text)
-**„Anführungszeichen":** Direkte Rede
-**der Herr:** κύριος wiedergegeben gemäß GS-Gottesname-Politik (Option C), wenn alttestamentliche JHWH-Stellen zitiert werden
+**Haupttext:** Primärübersetzung — lesbar, aber treu zur griechischen Struktur. **Notizen:** Wesentliche griechische Merkmale direkt unter jedem Vers.
 
-**Notizen-Symbole:**
-- 🔴 **KRITISCH** - Wichtige textliche oder Übersetzungsentscheidungen
-- 🟢 **LEXIKALISCH** - Wortbedeutungen, Bedeutungsspektrum, Glossarbegriffe
-- 🔵 **GRAMMATISCH** - Griechische Struktur, Verbaspekt, Syntax
-- 🟡 **THEOLOGISCH** - Interpretationsoptionen, Ambiguitätsbewahrung
+**Wie der Text markiert ist:**
+- *Kursive Wörter* — für die deutsche Grammatik ergänzt (nicht im griechischen Text)
+- {a:Wind/Geist} — ein Wort, das das Griechische in zwei Bedeutungen offenlässt, beide beibehalten
+- @@"…"@@ — direkte Rede Gottes oder Yeshuas (Jesus)
+
+Notizen sind nach Typ gekennzeichnet — **Kritisch · Lexikalisch · Grammatisch · Theologisch** — jeweils mit ihrer Farbe (siehe die Legende oben in der Notizen-Ansicht).
 
 **Dieses Kapitel enthält zwei Hauptszenen und eine Übergangsnotiz.** Die Hochzeit in Qanah (VV.1–12) führt das erste „Zeichen" (*sēmeion*) ein — einen Begriff, den Johannes bewusst anstelle von „Wunder" (*dynamis*) oder „Staunen" (*teras*) verwendet. Die Tempelreinigung (VV.13–22) führt die Unterscheidung zwischen ναός (*naos*, dem inneren Heiligtum) und ἱερόν (*hieron*, dem Tempelkomplex) ein. Das Kapitel schließt mit einem Kommentar des Erzählers über Jesu Kenntnis der menschlichen Natur (VV.23–25). Eigennamen folgen der TT-Transliteration: Qanah (nicht Kana), Yeshua (Jesus), Kfar Nachum (Kapernaum), Yerushalayim (Jerusalem).
 
@@ -81,7 +78,7 @@
 
 Und am dritten Tag fand eine Hochzeit statt in Qanah in Galiläa, und die Mutter Jesu war dort.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔵 **„AM DRITTEN TAG" — τῇ ἡμέρᾳ τῇ τρίτῃ**
 > - Der Ausdruck τῇ ἡμέρᾳ τῇ τρίτῃ (*tē hēmera tē tritē*) = „am dritten Tag." Gezählt vom letzten erzählten Ereignis in Kap. 1 (die Berufung von Philippos (Philippus) und Nathanael). Die akkumulierten Tagesmarkierungen in 1,29; 1,35; 1,43 und nun 2,1 erzeugen eine Abfolge, die ungefähr eine Woche umfasst — ein Echo der siebentägigen Schöpfungsstruktur von Gen 1. Ob dieses Echo beabsichtigt oder zufällig ist, wird diskutiert. Der Ausdruck „am dritten Tag" wird in V.19 mit anderer Bedeutung wiederkehren (die Auferstehungsankündigung).
@@ -98,7 +95,7 @@ Und am dritten Tag fand eine Hochzeit statt in Qanah in Galiläa, und die Mutter
 
 Und auch Yeshua (Jesus) war eingeladen, und seine Nachfolger, zur Hochzeit.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟢 **„NACHFOLGER" — μαθηταί (*mathētai*)**
 > - **μαθηταί** (*mathētai*) = Lernende, Schüler, Nachfolger. Der Begriff beschreibt jene, die einem Lehrer folgen, um zu lernen. An diesem Punkt der Erzählung (nach 1,35–51) hat Jesus mindestens fünf Nachfolger versammelt: Andreas, den unbenannten Nachfolger, Shimon (Simon) Kefa (Petrus), Philippus und Nathanael.
@@ -109,7 +106,7 @@ Und auch Yeshua (Jesus) war eingeladen, und seine Nachfolger, zur Hochzeit.
 
 Und *als* der Wein ausging, sagt die Mutter Jesu zu ihm: „Sie haben keinen Wein."
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔵 **„DER WEIN GING AUS" — ὑστερήσαντος τοῦ οἴνου**
 > - **ὑστερήσαντος τοῦ οἴνου** = Genitivus absolutus, „als der Wein ausgegangen war" — temporal: „als der Wein ausging." Das Verb **ὑστερέω** (*hystereō*) = mangeln, ausgehen, zu Ende gehen. Dass der Wein bei einer Hochzeit ausging, war ein schwerwiegendes gesellschaftliches Versagen der Gastgeberfamilie — es deutete auf unzureichende Versorgung hin und brachte Schande.
@@ -123,7 +120,7 @@ Und *als* der Wein ausging, sagt die Mutter Jesu zu ihm: „Sie haben keinen Wei
 
 Und Jesus sagt zu ihr: @@„Was mir und dir, Frau? Meine Stunde ist noch nicht gekommen."@@
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **KRITISCH — τί ἐμοὶ καὶ σοί („WAS MIR UND DIR")**
 > - **τί ἐμοὶ καὶ σοί, γύναι** (*ti emoi kai soi, gynai*) = wörtlich „was mir und dir, Frau?" Dies ist eine semitische Redewendung (Hebräisch: מַה־לִּי וָלָךְ, *mah-li valakh*), die in der HB mehrfach vorkommt (Ri 11,12; 2 Sam 16,10; 1 Kön 17,18; 2 Kön 3,13; 2 Chr 35,21) und in jedem Fall Distanz zwischen Sprecher und Angesprochenem schafft. In Joh 2,4 setzt Jesus damit eine Grenze: sein Handeln verläuft nach seinen eigenen Bedingungen, nicht auf Initiative seiner Mutter hin. Die TT übersetzt wörtlich gemäß Regel 1, um die semitische Formel nicht abzuschwächen. Für ausführlichere Diskussion der HB-Belege siehe Begleitmaterial Abschnitt B.
@@ -140,7 +137,7 @@ Und Jesus sagt zu ihr: @@„Was mir und dir, Frau? Meine Stunde ist noch nicht g
 
 Seine Mutter sagt zu den Dienern: „Was immer er euch sagt, tut *es*."
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔵 **ECHO VON GEN 41,55 — „TUT, WAS ER SAGT"**
 > - Die Anweisung der Mutter an die Diener — ὅ τι ἂν λέγῃ ὑμῖν ποιήσατε (*ho ti an legē hymin poiēsate*) — bildet ein Echo von Pharaos Anweisung bezüglich Yosef (Josef) in Gen 41,55 LXX: πορεύεσθε πρὸς Ιωσηφ καὶ ὃ ἐὰν εἴπῃ ὑμῖν ποιήσατε („geht zu Josef, und was immer er euch sagt, tut *es*"). Ob das Echo beabsichtigt ist, wird diskutiert; die wörtliche Übereinstimmung ist eng genug, um vermerkt zu werden. In beiden Fällen weist eine autoritäre Figur Untergebene an, den Anweisungen desjenigen zu gehorchen, der versorgen wird.
@@ -154,7 +151,7 @@ Seine Mutter sagt zu den Dienern: „Was immer er euch sagt, tut *es*."
 
 Es standen dort aber sechs steinerne Wasserkrüge, gemäß der Reinigung *der* Jehudim, *die* je zwei oder drei Maß fassten.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟢 **„REINIGUNG" — καθαρισμός (*katharismos*)**
 > - **κατὰ τὸν καθαρισμὸν τῶν Ἰουδαίων** = „gemäß der Reinigung der Jehudim." Die steinernen Krüge dienten der rituellen Händewaschung vor Mahlzeiten und anderen Reinigungsriten der jüdischen Tradition (vgl. Mk 7,3–4). Steinerne Gefäße wurden bevorzugt, weil nach halachischer Regelung Stein keine rituelle Unreinheit (*tum'ah*) annimmt — anders als Ton, der bei Verunreinigung zerbrochen werden muss.
@@ -171,7 +168,7 @@ Es standen dort aber sechs steinerne Wasserkrüge, gemäß der Reinigung *der* J
 
 Jesus sagt zu ihnen: @@„Füllt die Krüge mit Wasser."@@ Und sie füllten sie bis oben.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔵 **„BIS OBEN" — ἕως ἄνω**
 > - **ἕως ἄνω** (*heōs anō*) = „bis zum Rand." Der Gehorsam der Diener ist vollständig — keine halben Maßnahmen. Das Detail schließt die Möglichkeit einer Beimischung aus: Die Krüge waren vollständig mit Wasser gefüllt.
@@ -182,7 +179,7 @@ Jesus sagt zu ihnen: @@„Füllt die Krüge mit Wasser."@@ Und sie füllten sie 
 
 Und er sagt zu ihnen: @@„Schöpft nun und bringt *es* dem Speisemeister."@@ Und sie brachten *es*.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟢 **„SPEISEMEISTER" — ἀρχιτρίκλινος (*architriklinos*)**
 > - **ἀρχιτρίκλινος** (*architriklinos*) = der Speisemeister oder Festleiter — die Person, die für die Leitung des Festmahls, das Verkosten des Weins und die Anweisung des Bedienens zuständig war. Eine bekannte soziale Rolle in der griechisch-römischen und jüdischen Festkultur. Der Speisemeister fungiert als unwissentlicher Zeuge: Er kostet den Wein, ohne seinen Ursprung zu kennen.
@@ -193,7 +190,7 @@ Und er sagt zu ihnen: @@„Schöpft nun und bringt *es* dem Speisemeister."@@ Un
 
 Und als der Speisemeister das Wasser kostete, *das* Wein geworden war — und nicht wusste, woher es war, aber die Diener, die das Wasser geschöpft hatten, wussten *es* — ruft der Speisemeister den Bräutigam
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔵 **„DAS WASSER, DAS WEIN GEWORDEN WAR" — PARTIZIPIALE BESCHREIBUNG**
 > - **τὸ ὕδωρ οἶνον γεγενημένον** (*to hydōr oinon gegenēmenon*) = „das Wasser, das Wein geworden war." Das Perfektpartizip **γεγενημένον** (*gegenēmenon*) von γίνομαι (*ginomai*) = „geworden seiend" — die Verwandlung wird als abgeschlossen dargestellt. Der Erzähler beschreibt das Ergebnis, ohne den Vorgang zu erzählen. Es gibt keinen beschriebenen Moment der Verwandlung — das Wasser wurde geschöpft und das Wasser war Wein geworden. Der Mechanismus fehlt im Text.
@@ -207,7 +204,7 @@ Und als der Speisemeister das Wasser kostete, *das* Wein geworden war — und ni
 
 und sagt zu ihm: „Jeder Mensch setzt den guten Wein zuerst vor, und wenn *sie* betrunken geworden sind, den geringeren. Du hast den guten Wein bis jetzt aufbewahrt."
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟢 **„BETRUNKEN GEWORDEN" — μεθυσθῶσιν (*methysthōsin*)**
 > - **μεθυσθῶσιν** (*methysthōsin*) = Aorist Passiv Konjunktiv von μεθύσκω (*methyskō*) = „betrunken werden." Die Beobachtung des Speisemeisters ist praktisch, nicht theologisch: Festbrauch war es, den besseren Wein zuerst zu servieren, bevor der Gaumen der Gäste abgestumpft war. Der Text moralisiert nicht über Trunkenheit — er vermerkt die Beobachtung des Speisemeisters über die übliche Praxis.
@@ -221,7 +218,7 @@ und sagt zu ihm: „Jeder Mensch setzt den guten Wein zuerst vor, und wenn *sie*
 
 Diesen Anfang der Zeichen tat Jesus in Qanah in Galiläa und offenbarte seine Herrlichkeit, und seine Nachfolger vertrauten auf ihn.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **KRITISCH — „ZEICHEN" (*SĒMEION*), NICHT „WUNDER"**
 > - **σημεῖον** (*sēmeion*) = Zeichen — etwas, das auf eine Wirklichkeit jenseits seiner selbst hinweist; Johannes verwendet nie *dynamis* (Kraftwerk/Wunder) oder *teras*, anders als die Synoptiker. Die Wasser-zu-Wein-Verwandlung wird nicht „Wunder" genannt, sondern „Zeichen" — die Unterscheidung ist bewusst und theologisch tragend. Für ausführlichere Diskussion der johanneischen Zeichentheologie und des Verhältnisses zu den synoptischen *dynameis* siehe Begleitmaterial Abschnitt E.
@@ -241,7 +238,7 @@ Diesen Anfang der Zeichen tat Jesus in Qanah in Galiläa und offenbarte seine He
 
 Danach ging er hinab nach Kfar Nachum (Kapernaum) — er und seine Mutter und seine Brüder und seine Nachfolger — und sie blieben dort nicht viele Tage.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟢 **KFAR NACHUM — TT-TRANSLITERATION**
 > - **Καφαρναούμ** (*Kapharnaoum*) = griechische Form des hebräischen/aramäischen כְּפַר נַחוּם (*Kapernaum*, „Dorf des Nachum"). Die TT gibt die semitische Form wieder. Kapernaum war ein Fischerdorf am Nordwestufer des Kinneret (See Gennesaret). Die Synoptiker stellen es als Basis von Jesu galiläischem Wirken dar.
@@ -258,7 +255,7 @@ Danach ging er hinab nach Kfar Nachum (Kapernaum) — er und seine Mutter und se
 
 Und das Pessach der Jehudim war nahe, und Jesus ging hinauf nach Yerushalayim (Jerusalem).
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟢 **„PESSACH" — πάσχα (*pascha*)**
 > - **τὸ πάσχα** (*to pascha*) = Pessach — vom Hebräischen פֶּסַח (*pesach*). Johannes erwähnt drei Pessachfeste (2,13; 6,4; 11,55), was auf ein Wirken von mindestens zwei bis drei Jahren hindeutet. Die Synoptiker berichten nur von einem Pessach. Die Platzierung der Tempelreinigung beim ersten Pessach (und nicht beim letzten, wie in den Synoptikern) ist ein bedeutender struktureller Unterschied — siehe Anmerkung zu V.14.
@@ -272,7 +269,7 @@ Und das Pessach der Jehudim war nahe, und Jesus ging hinauf nach Yerushalayim (J
 
 Und er fand im *Tempelkomplex* jene, die Rinder und Schafe und Tauben verkauften, und die Geldwechsler sitzend.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **KRITISCH — ἱερόν (*HIERON*) vs. ναός (*NAOS*)**
 > - **ἐν τῷ ἱερῷ** (*en tō hierō*) = „im *hieron*" — dem Tempelkomplex als Ganzem, einschließlich der Höfe, Säulenhallen und Geschäftsbereiche. Dies ist unterschieden von **ναός** (*naos*), dem inneren Heiligtum (der heilige Ort und das Allerheiligste), auf das Jesus in V.19 Bezug nehmen wird. Der Handel fand im Vorhof der Heiden statt — dem äußersten Hof des Tempelkomplexes. Die TT gibt *hieron* als „Tempelkomplex" (kursiv zur Markierung der Unterscheidung) und *naos* als „Heiligtum" wieder.
@@ -289,7 +286,7 @@ Und er fand im *Tempelkomplex* jene, die Rinder und Schafe und Tauben verkauften
 
 Und *nachdem er* eine Peitsche aus Stricken gemacht hatte, trieb er sie alle aus dem *Tempelkomplex* hinaus, sowohl die Schafe als auch die Rinder, und er schüttete die Münzen der Geldwechsler aus und stieß die Tische um.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔵 **„EINE PEITSCHE GEMACHT" — φραγέλλιον ποιήσας**
 > - **φραγέλλιον** (*phragellion*) = eine Peitsche, vom Lateinischen *flagellum*. Das Wort ist ein Lehnwort — eines von mehreren lateinischen Begriffen im Johannesevangelium (vgl. πραιτώριον, *praitōrion*, 18,28; λιθόστρωτον, *lithostrōton*, 19,13). **ἐκ σχοινίων** (*ek schoiniōn*) = „aus Stricken/Binsen." Die Peitsche ist improvisiert aus vorhandenen Materialien. Nur Johannes erwähnt die Peitsche.
@@ -303,7 +300,7 @@ Und *nachdem er* eine Peitsche aus Stricken gemacht hatte, trieb er sie alle aus
 
 Und zu den Taubenverkäufern sagte er: @@„Nehmt diese *Dinge* von hier weg; macht das Haus meines Vaters nicht zu einem Haus des Handels."@@
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟡 **„HAUS MEINES VATERS" — τὸν οἶκον τοῦ πατρός μου**
 > - Jesus bezeichnet den Tempel als „das Haus meines Vaters" — ein Anspruch auf eine Sohnesbeziehung zu Gott, den der Erzähler nicht einschränkt. Die synoptischen Parallelen zitieren Jes 56,7 („mein Haus soll ein Haus des Gebets heißen") und Jer 7,11 („Räuberhöhle"). Johannes zitiert keines von beiden — der Vorwurf ist anders: nicht Raub (*lēstērion*), sondern Handel (*emporion*). Das Problem ist nicht Ausbeutung, sondern die Anwesenheit von Handel im Haus des Vaters überhaupt.
@@ -317,7 +314,7 @@ Und zu den Taubenverkäufern sagte er: @@„Nehmt diese *Dinge* von hier weg; ma
 
 Seine Nachfolger erinnerten sich, dass geschrieben steht: „Der Eifer um dein Haus wird mich verzehren."
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **KRITISCH — PSALM 69,9 (LXX 68,10) ZITAT**
 > - **ὁ ζῆλος τοῦ οἴκου σου καταφάγεταί με** = „Der Eifer um dein Haus wird mich verzehren." Zitiert aus Psalm 69,9 (LXX 68,10). Das hebräische Original hat Vergangenheitsform; die Septuaginta (LXX — die antike griechische Bibelübersetzung) gibt das Verb als Futur wieder (καταφάγεταί = „wird verzehren"), was Johannes folgt — der Psalm wird von einer vergangenen Klage zur prophetischen Vorwegnahme verschoben. Der „Eifer," der Jesus „verzehren" wird, weist voraus auf die Passion. Für ausführlichere Diskussion des Psalm-Kontexts und seiner Verwendung bei Johannes siehe Begleitmaterial Abschnitt C.
@@ -331,7 +328,7 @@ Seine Nachfolger erinnerten sich, dass geschrieben steht: „Der Eifer um dein H
 
 Da antworteten die Jehudim und sagten zu ihm: „Was für ein Zeichen zeigst du uns, *angesichts dessen*, dass du diese Dinge tust?"
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟡 **FORDERUNG NACH EINEM ZEICHEN — VOLLMACHTSFRAGE**
 > - Die Jehudim fordern ein **σημεῖον** (*sēmeion*) — ein Zeichen zur Beglaubigung von Jesu Vollmacht, den Tempelbetrieb zu stören. Die Forderung setzt voraus, dass prophetische oder messianische Handlungen beglaubigende Legitimation erfordern. Die Ironie: Jesus hat gerade das erste Zeichen vollbracht (V.11), aber dieses Publikum war nicht in Qanah anwesend. Sie fordern, was anderswo bereits gegeben wurde.
@@ -345,7 +342,7 @@ Da antworteten die Jehudim und sagten zu ihm: „Was für ein Zeichen zeigst du 
 
 Jesus antwortete und sagte zu ihnen: @@„Reißt dieses Heiligtum nieder, und in drei Tagen werde ich es aufrichten."@@
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **KRITISCH — ναός (*NAOS*), NICHT ἱερόν (*HIERON*)**
 > - **λύσατε τὸν ναὸν τοῦτον** = „reißt diesen *naos* nieder." Jesus wechselt von *hieron* (dem Tempelkomplex, V.14) zu *naos* (dem inneren Heiligtum). Der *naos* ist der heilige Kern — der Wohnort der Gegenwart Gottes, das Allerheiligste. Der Erzähler wird erklären (V.21), dass Jesus von seinem Leib als *naos* sprach. Der Wechsel von *hieron* zu *naos* ist bewusst — der Leib ist nicht der „Tempelkomplex" (die institutionelle Struktur), sondern das „Heiligtum" (der Wohnort der göttlichen Gegenwart).
@@ -362,7 +359,7 @@ Jesus antwortete und sagte zu ihnen: @@„Reißt dieses Heiligtum nieder, und in
 
 Da sagten die Jehudim: „Dieses Heiligtum wurde *in* sechsundvierzig Jahren erbaut, und du wirst es in drei Tagen aufrichten?"
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟢 **„SECHSUNDVIERZIG JAHRE" — τεσσεράκοντα καὶ ἓξ ἔτεσιν**
 > - Herodes der Große begann die Renovierung/Erweiterung des Tempels ungefähr 20/19 v. u. Z. (Josephus, *Antiquitates* 15,380). Sechsundvierzig Jahre von diesem Datum ergibt ungefähr 27/28 u. Z. — ein chronologischer Anhaltspunkt für die Datierung von Jesu Wirken. Der Bau war technisch noch im Gange (er wurde erst ungefähr 63 u. Z. fertiggestellt, nur sieben Jahre vor seiner Zerstörung 70 u. Z.). Das Verb **οἰκοδομήθη** (*oikodomēthē*) = Aorist Passiv, „wurde erbaut" — fasst den Bau als vollendetes Ganzes zusammen, obwohl die Arbeiten weitergingen.
@@ -373,7 +370,7 @@ Da sagten die Jehudim: „Dieses Heiligtum wurde *in* sechsundvierzig Jahren erb
 
 Er aber sprach vom Heiligtum seines Leibes.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **KRITISCH — RÜCKBLICKENDE ERKLÄRUNG DES ERZÄHLERS**
 > - **ἐκεῖνος δὲ ἔλεγεν περὶ τοῦ ναοῦ τοῦ σώματος αὐτοῦ** = „jener aber sprach vom *naos* seines Leibes." Dies ist der interpretative Kommentar des Erzählers, eingefügt, um den Leser zu führen. Das Imperfekt **ἔλεγεν** (*elegen*) = „er sprach" — der Erzähler erklärt, was Jesus die ganze Zeit sagte. Die Gleichung Leib = *naos* (Heiligtum, Wohnort Gottes) ist explizit. Dieser hermeneutische Schlüssel wird vom Erzähler gegeben, nicht von Jesus — innerhalb der Geschichte erhalten die Jehudim diese Erklärung nicht.
@@ -387,7 +384,7 @@ Er aber sprach vom Heiligtum seines Leibes.
 
 Als er nun von *den* Toten auferweckt wurde, erinnerten sich seine Nachfolger, dass er dies gesagt hatte, und sie vertrauten der Schrift und dem Wort, das Jesus gesprochen hatte.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔵 **„WURDE AUFERWECKT" — ἠγέρθη (AORIST PASSIV)**
 > - **ἠγέρθη** (*ēgerthē*) = Aorist Passiv von ἐγείρω (*egeirō*) = „wurde auferweckt." Das Passiv impliziert einen Handelnden: er wurde auferweckt (von Gott). Dies steht in Spannung zu V.19, wo Jesus sagt „ich werde es aufrichten" (Aktiv) — was sowohl göttliches als auch eigenes Handeln bei der Auferstehung nahelegt. Die Spannung zwischen Passiv und Aktiv wird bewahrt, nicht aufgelöst.
@@ -404,7 +401,7 @@ Als er nun von *den* Toten auferweckt wurde, erinnerten sich seine Nachfolger, d
 
 Und als er in Jerusalem war, am Pessach, beim Fest, vertrauten viele auf seinen Namen, da sie die Zeichen sahen, die er tat.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟡 **ZEICHENBASIERTES VERTRAUEN — MIT VORBEHALT**
 > - **πολλοὶ ἐπίστευσαν εἰς τὸ ὄνομα αὐτοῦ** = „viele vertrauten auf seinen Namen." Das hier beschriebene Vertrauen wird durch Zeichen ausgelöst — dieselbe Grundlage wie das Vertrauen der Nachfolger in V.11. Aber die folgenden Verse (24–25) werden dieses Vertrauen als unzureichend qualifizieren. Johannes unterscheidet zwischen zeichenbasiertem Vertrauen (das Jesus nicht erwidert) und einem tieferen Vertrauen. Das Griechische ist in der Form identisch mit V.11 — der Unterschied liegt in Jesu Reaktion darauf.
@@ -418,7 +415,7 @@ Und als er in Jerusalem war, am Pessach, beim Fest, vertrauten viele auf seinen 
 
 Jesus selbst aber vertraute sich ihnen nicht an, weil er alle *Menschen* kannte,
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **KRITISCH — WORTSPIEL MIT *PISTEUŌ* (VERTRAUEN/ANVERTRAUEN)**
 > - **αὐτὸς δὲ Ἰησοῦς οὐκ ἐπίστευεν αὑτὸν αὐτοῖς** = „Jesus selbst aber vertraute sich ihnen nicht an." Das Verb **πιστεύω** (*pisteuō*) wird in V.23 für das Vertrauen der Menge in Jesus und in V.24 für Jesu Nicht-Vertrauen gegenüber der Menge verwendet. Das Wortspiel ist unübersetzbar, ohne denselben Verbstamm beizubehalten: sie *vertrauten* auf ihn, aber er *vertraute* sich ihnen nicht *an*. Das Imperfekt **ἐπίστευεν** (*episteuen*) = fortlaufendes Nicht-Vertrauen — habituell, keine einmalige Entscheidung.
@@ -432,7 +429,7 @@ Jesus selbst aber vertraute sich ihnen nicht an, weil er alle *Menschen* kannte,
 
 und weil er nicht nötig hatte, dass jemand Zeugnis über den Menschen ablege — denn er selbst wusste, was im Menschen war.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔵 **„DER MENSCH" — τοῦ ἀνθρώπου / τῷ ἀνθρώπῳ**
 > - **τί ἦν ἐν τῷ ἀνθρώπῳ** = „was im Menschen war." Der Artikel **τῷ** (*tō*) ist generisch — „der Mensch" als Gattung, nicht eine bestimmte Person. Jesu Wissen beschränkt sich nicht auf bestimmte Einzelne; es erstreckt sich auf die menschliche Natur selbst. Die Aussage ist anthropologisch: er weiß, was Menschen sind. Das Kapitel, das mit einer Hochzeit begann, endet mit einer Aussage über die Unzuverlässigkeit der menschlichen Natur.

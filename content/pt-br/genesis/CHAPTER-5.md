@@ -27,16 +27,15 @@
 
 ## GUIA DE LEITURA
 
-**📖 Texto Principal:** Tradução primária—legível mas fiel à estrutura hebraica
-**📝 Notas:** Características hebraicas essenciais imediatamente abaixo de cada versículo
-***Itálico:*** Palavras adicionadas para a gramática portuguesa (não presentes no texto hebraico)
-**"Aspas":** Discurso direto
+**Texto Principal:** Tradução primária — legível, mas fiel à estrutura hebraica. **Notas:** Recursos hebraicos essenciais logo abaixo de cada versículo.
 
-**Ícones das Notas:**
-- 🔴 **CRÍTICO** - Decisões textuais ou tradutórias importantes
-- 🟢 **LEXICAL** - Significados de palavras, padrões de raízes, termos do glossário
-- 🔵 **GRAMATICAL** - Estrutura hebraica, formas verbais, sintaxe
-- 🟡 **TEOLÓGICO** - Opções interpretativas, preservação de ambiguidade
+**Como o texto é marcado:**
+- *Palavras em itálico* — acrescentadas para a gramática do português (não estão no texto hebraico)
+- {t:raqia} — termos hebraicos transliterados, mantidos sem tradução (explicados nas notas)
+- {a:vento/espírito} — uma palavra que o hebraico deixa aberta a dois sentidos, ambos mantidos
+- @@"…"@@ — fala direta de Deus
+
+As notas são marcadas por tipo — **Crítico · Lexical · Gramatical · Teológico** — cada uma com sua cor (veja a legenda no topo da visão de Notas).
 
 **Nota de gênero (Regra 23):** Este capítulo é uma **genealogia** — uma lista estruturada governada por uma fórmula repetitiva. A fórmula é travada conforme Regra 7; desvios do padrão são textualmente significativos e anotados.
 
@@ -88,7 +87,7 @@
 
 Este *é* o livro das gerações de Adão. No dia em que Deus criou *um* humano, à semelhança de Deus ele o fez.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **FÓRMULA TOLEDOT RETORNA**
 > - **סֵפֶר תּוֹלְדֹת אָדָם** (*sefer toledot Adam*) = "o livro das gerações de Adão." Segundo marcador *toledot* em Gênesis (primeiro em 2:4). Este acrescenta **סֵפֶר** (*sefer*, "livro/documento") — o único *toledot* com este prefixo. Sinaliza um registro escrito estruturado.
@@ -105,7 +104,7 @@ Este *é* o livro das gerações de Adão. No dia em que Deus criou *um* humano,
 
 Macho e fêmea ele os criou, e os abençoou, e chamou o nome deles Humano no dia em que foram criados.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **"ELE CHAMOU O NOME DELES HUMANO"**
 > - **וַיִּקְרָא אֶת־שְׁמָם אָדָם** = "e ele chamou o nome deles *adam* (Humano)." Deus nomeia a humanidade coletivamente *adam*. Esta é a declaração do próprio texto: a palavra *adam* é um nome divino para a espécie, não apenas um nome pessoal.
@@ -116,7 +115,7 @@ Macho e fêmea ele os criou, e os abençoou, e chamou o nome deles Humano no dia
 
 E Adão viveu cento e trinta anos, e gerou à sua semelhança, conforme a sua imagem, e chamou o seu nome Sete.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **IMAGEM/SEMELHANÇA INVERTIDA**
 > - Gn 1:26–27: Deus cria o humano "à nossa imagem, conforme a nossa semelhança." Gn 5:3: Adão gera Sete "à **sua** semelhança, conforme a **sua** imagem." A linguagem de criação divino-para-humano é **encadeada à descendência humano-para-humano**. O par *tselem/demut* continua através das gerações.
@@ -136,7 +135,7 @@ E os dias de Adão depois que gerou Sete foram oitocentos anos, e gerou filhos e
 
 E todos os dias de Adão que ele viveu foram novecentos e trinta anos, e morreu.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **"E MORREU" — O REFRÃO**
 > - **וַיָּמֹת** (*vayyamot*) = "e morreu." Esta frase encerra cada entrada genealógica como uma **fórmula travada** (Regra 7). Repete-se 8 vezes neste capítulo (vv. 5, 8, 11, 14, 17, 20, 27, 31). A ÚNICA exceção é Chanokh (v.24) — onde a fórmula está conspicuamente ausente.
@@ -246,7 +245,7 @@ E Enoque viveu sessenta e cinco anos, e gerou Metushelach (Matusalém).
 
 E Enoque andou com Deus depois que gerou Matusalém trezentos anos, e gerou filhos e filhas.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **"ANDOU COM DEUS" — QUEBRA DA FÓRMULA**
 > - A fórmula padrão é "X viveu… e gerou." Para Enoque, a fórmula muda: "Enoque **andou com Deus** (*vayyithalekh Enoque et-ha-Elohim*)." Isso rompe o padrão — a primeira vez que alguém é dito "andar com" Deus. A única outra pessoa que recebe esta frase é Noach (Noé) (6:9).
@@ -260,7 +259,7 @@ E Enoque andou com Deus depois que gerou Matusalém trezentos anos, e gerou filh
 
 E todos os dias de Enoque foram trezentos e sessenta e cinco anos.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **365 ANOS — VIDA MAIS CURTA**
 > - Os 365 anos de Enoque são de longe a vida mais curta nesta genealogia (os demais variam de 777 a 969). No entanto, ele é quem "andou com Deus." O número 365 = dias em um ano solar; se isso é significativo é POSSÍVEL mas não resolvido.
@@ -271,7 +270,7 @@ E todos os dias de Enoque foram trezentos e sessenta e cinco anos.
 
 E Enoque andou com Deus, e não estava mais, porque Deus o tomou.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **CRÍTICO — FÓRMULA "E MORREU" AUSENTE**
 > - Toda outra entrada nesta genealogia termina com "e morreu." A entrada de Enoque termina: **"e não estava mais, porque Deus o tomou"** (*ve-einennu ki laqach oto Elohim*). A fórmula de morte é **conspicuamente substituída**. O texto não diz que ele morreu, não diz que foi ao céu, não explica aonde foi. Diz que Deus o **tomou**. Qualquer coisa além disso é interpretação posterior.
@@ -297,7 +296,7 @@ E Matusalém viveu depois que gerou Lameque setecentos e oitenta e dois anos, e 
 
 E todos os dias de Matusalém foram novecentos e sessenta e nove anos, e morreu.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **IDADE MAIS AVANÇADA REGISTRADA**
 > - Matusalém aos 969 anos é a pessoa de vida mais longa no registro bíblico. Pela aritmética cronológica, seu ano de morte coincide aproximadamente com o ano do dilúvio (Gn 7). O texto não torna esta conexão explícita.
@@ -314,7 +313,7 @@ E Lameque viveu cento e oitenta e dois anos, e gerou um filho.
 
 E chamou o seu nome Noé, dizendo: "Este *nos* consolará de nossa obra e da fadiga de nossas mãos, do solo que YHWH amaldiçoou."
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **JOGO DE PALAVRAS NOACH / NACHAM**
 > - **נֹחַ** (*Noach*) = Noé. **נָחַם** (*nacham*) = consolar/arrepender-se. A etimologia do nome conecta Noach a consolo/alívio. Jogo de palavras sinalizado conforme Regra 14 — o vínculo sonoro é aproximado (n-ch vs. n-ch-m), não exato.
@@ -337,7 +336,7 @@ E Lameque viveu depois que gerou Noé quinhentos e noventa e cinco anos, e gerou
 
 E todos os dias de Lameque foram setecentos e setenta e sete anos, e morreu.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **777 — ECOANDO 4:24**
 > - Lameque, filho de Matusalém, vive 777 anos. O OUTRO Lameque (Gn 4:24, linhagem cainita) reivindicou vingança de "setenta e sete" (*shiv'im ve-shiv'ah*). O eco numérico 777 / 77 entre os dois Lameques está textualmente presente — se é espelhamento estrutural intencional ou coincidência é POSSÍVEL mas não resolvido.
@@ -348,7 +347,7 @@ E todos os dias de Lameque foram setecentos e setenta e sete anos, e morreu.
 
 E Noé tinha quinhentos anos, e Noé gerou Shem, Cham (Cam) e Yafet (Jafé).
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **TRÊS FILHOS — QUEBRA DA FÓRMULA**
 > - A fórmula padrão lista um filho por entrada. A entrada de Noé nomeia **três filhos** — rompendo o padrão. Isso prepara a Tábua das Nações (Gn 10) e a estrutura narrativa pós-dilúvio.

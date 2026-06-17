@@ -27,17 +27,14 @@
 
 ## LESEANLEITUNG
 
-**📖 Haupttext:** Primäre Übersetzung — lesbar aber treu der griechischen Struktur
-**📝 Notizen:** Wesentliche griechische Merkmale unmittelbar unter jedem Vers
-***Kursiv:*** Wörter für deutsche Grammatik hinzugefügt (nicht im griechischen Text)
-**„Anführungszeichen":** Direkte Rede
-**der Herr:** κύριος wiedergegeben gemäß GS-Gottesname-Politik (Option C), wenn alttestamentliche JHWH-Stellen zitiert werden
+**Haupttext:** Primärübersetzung — lesbar, aber treu zur griechischen Struktur. **Notizen:** Wesentliche griechische Merkmale direkt unter jedem Vers.
 
-**Notizen-Symbole:**
-- 🔴 **KRITISCH** - Wichtige textliche oder Übersetzungsentscheidungen
-- 🟢 **LEXIKALISCH** - Wortbedeutungen, Bedeutungsspektrum, Glossarbegriffe
-- 🔵 **GRAMMATISCH** - Griechische Struktur, Verbaspekt, Syntax
-- 🟡 **THEOLOGISCH** - Interpretationsoptionen, Ambiguitätsbewahrung
+**Wie der Text markiert ist:**
+- *Kursive Wörter* — für die deutsche Grammatik ergänzt (nicht im griechischen Text)
+- {a:Wind/Geist} — ein Wort, das das Griechische in zwei Bedeutungen offenlässt, beide beibehalten
+- @@"…"@@ — direkte Rede Gottes oder Yeshuas (Jesus)
+
+Notizen sind nach Typ gekennzeichnet — **Kritisch · Lexikalisch · Grammatisch · Theologisch** — jeweils mit ihrer Farbe (siehe die Legende oben in der Notizen-Ansicht).
 
 **Dieses Kapitel enthält den meistzitierten Vers der Bibel (3,16) und eine der wichtigsten Übersetzungsmehrdeutigkeiten des Evangeliums: ἄνωθεν (*anōthen*) in V.3, das sowohl „von oben" (räumlich) als auch „von neuem" (zeitlich) bedeutet. Die TT bewahrt die Doppelbedeutung mit einem Schrägstrich — „von oben/von neuem" — weil der griechische Leser beide Bedeutungen gleichzeitig gehört hätte. Nikodemos (Nikodemus) hört nur „von neuem"; Yeshua (Jesus) meint „von oben." Die Kraft des Textes hängt an der Mehrdeutigkeit. Eigennamen folgen der TT-Transliteration: Nikodemos (Nikodemus), Yeshua (Jesus), Yochanan (Johannes), Mosheh (Mose). Die Wiedergabe „Leben des Zeitalters" (nicht „ewiges Leben") in VV.15–16 spiegelt αἰώνιος (*aiōnios*) wider, das sich auf αἰών (*aiōn*, „Zeitalter") bezieht — eine Lebensqualität, die zum kommenden Zeitalter gehört, keine Aussage über Zeitlosigkeit.**
 
@@ -81,7 +78,7 @@
 
 Und es war ein Mensch von den Pharisäer — Nikodemos (Nikodemus) *war* sein Name — ein Herrscher der Jehudim.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟢 **NIKODEMOS — TT-TRANSLITERATION**
 > - **Νικόδημος** (*Nikodēmos*) = griechischer Name, der „Sieg des Volkes" bedeutet (νίκη + δῆμος). Die TT behält die Form griechischen Ursprungs „Nikodemus" gemäß Transliterationspolitik bei. Er erscheint erneut in 7,50 und 19,39.
@@ -95,7 +92,7 @@ Und es war ein Mensch von den Pharisäer — Nikodemos (Nikodemus) *war* sein Na
 
 Dieser kam zu ihm bei Nacht und sagte zu ihm: „Rabbi, wir wissen, dass du von Gott *als* Lehrer gekommen bist, denn niemand ist imstande, diese Zeichen zu tun, die du tust, wenn Gott nicht mit ihm ist."
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟡 **„BEI NACHT" — *NYKTOS***
 > - **νυκτός** (*nyktos*) = Genitiv der Zeit, „bei/während der Nacht." Das Detail kann rein situativ sein, oder es trägt symbolisches Gewicht — Nacht/Finsternis ist eine aufgeladene Kategorie bei Johannes (vgl. 1,5; 9,4; 13,30 „und es war Nacht"). Der Text erklärt nicht, warum Nikodemus bei Nacht kommt. Furcht vor Assoziation, Diskretion und die Konvention nächtlichen Torastudiums wurden alle vorgeschlagen. Die TT vermerkt die Tatsache, ohne das Motiv zu deuten.
@@ -109,7 +106,7 @@ Dieser kam zu ihm bei Nacht und sagte zu ihm: „Rabbi, wir wissen, dass du von 
 
 Jesus antwortete und sagte zu ihm: @@„Amen, amen, ich sage dir, wenn jemand nicht {a:von oben/von neuem} geboren wird, ist er nicht imstande, das Königreich Gottes zu sehen."@@
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **KRITISCH — *ANŌTHEN* („VON OBEN/VON NEUEM")**
 > - **γεννηθῇ ἄνωθεν** (*gennēthē anōthen*) = „von oben/von neuem geboren werden." Das Adverb ἄνωθεν (*anōthen*) hat zwei etablierte Bedeutungen: (1) „von oben" — räumlich, himmlischen Ursprung anzeigend (vgl. Joh 3,31; 19,11); (2) „von neuem" — zeitlich, Wiederholung anzeigend (vgl. Gal 4,9). Nikodemus hört Bedeutung (2); Jesus meint Bedeutung (1); das Missverständnis treibt den gesamten Dialog. Dies ist eine echte Ambiguität gemäß Regel 2 — die TT bewahrt beide mit dem Schrägstrich, da jede Übersetzung, die nur eine Bedeutung wählt, das strukturierende Wortspiel des Abschnitts zerstört. Für ausführlichere Diskussion der *anōthen*-Belege und der Missverständnisstruktur bei Johannes siehe Begleitmaterial Abschnitt A.
@@ -126,7 +123,7 @@ Jesus antwortete und sagte zu ihm: @@„Amen, amen, ich sage dir, wenn jemand ni
 
 Nikodemus sagt zu ihm: „Wie ist ein Mensch imstande, geboren zu werden, wenn er alt ist? Er ist nicht imstande, ein zweites Mal in den Mutterleib einzutreten und geboren zu werden, *oder*?"
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔵 **RHETORISCHE FRAGE — *MĒ*-PARTIKEL**
 > - **μὴ δύναται** (*mē dynatai*) — die Partikel μή signalisiert, dass eine negative Antwort erwartet wird: „Er ist nicht imstande ... oder?" Nikodemus stellt keine echte Frage, sondern drückt Ungläubigkeit aus. Er hat *anōthen* als „von neuem" (zeitlich) gehört und nimmt es wörtlich — physisches Wiedereintreten in den Mutterleib.
@@ -140,7 +137,7 @@ Nikodemus sagt zu ihm: „Wie ist ein Mensch imstande, geboren zu werden, wenn e
 
 Jesus antwortete: @@„Amen, amen, ich sage dir, wenn jemand nicht aus Wasser und {a:Wind/Geist} geboren wird, ist er nicht imstande, in das Königreich Gottes einzutreten."@@
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **KRITISCH — „WASSER UND WIND/GEIST"**
 > - **ἐξ ὕδατος καὶ πνεύματος** (*ex hydatos kai pneumatos*) = „aus Wasser und Wind/Geist." Vorgeschlagene Lesarten: (a) natürliche + geistliche Geburt; (b) Johannes' Untertauchen + heiliger Wind/Geist; (c) Hendiadyoin, das geistliche Reinigung beschreibt (vgl. Hes 36,25–27); (d) Proselytenuntertauchen + göttlicher Geist. Der Text löst die Frage nicht; keine einzelne Lesart kann mit Gewissheit als die „korrekte" erklärt werden. Die TT übersetzt die Worte, wie sie stehen. Für ausführlichere Diskussion der Deutungsoptionen und ihrer Forschungsgeschichte siehe Begleitmaterial Abschnitt B.
@@ -154,7 +151,7 @@ Jesus antwortete: @@„Amen, amen, ich sage dir, wenn jemand nicht aus Wasser un
 
 @@Was aus dem Fleisch geboren ist, ist Fleisch, und was aus dem {a:Wind/Geist} geboren ist, ist {a:Wind/Geist}.@@
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔵 **PERFEKT PASSIV PARTIZIP — *TO GEGENNĒMENON***
 > - **τὸ γεγεννημένον** (*to gegennēmenon*) = „das, was geboren worden ist" — Neutrum Perfekt Passiv Partizip. Das Neutrum signalisiert ein allgemeines Prinzip (keine bestimmte Person). Das Perfekt zeigt einen abgeschlossenen Zustand mit fortdauernden Ergebnissen: was aus dem Fleisch geboren wurde, *bleibt* Fleisch.
@@ -168,7 +165,7 @@ Jesus antwortete: @@„Amen, amen, ich sage dir, wenn jemand nicht aus Wasser un
 
 @@Wundere dich nicht, dass ich dir gesagt habe: „Ihr müsst {a:von oben/von neuem} geboren werden."@@
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔵 **ZWEITE PERSON PLURAL — *HYMAS***
 > - **ὑμᾶς** (*hymas*) = „euch" (Plural). Jesus wechselt vom Singular (Nikodemus ansprechend) zum Plural („ihr alle müsst von oben/von neuem geboren werden"). Die Anforderung gilt über Nikodemus hinaus für ein breiteres Publikum. Manche sehen dies als den Punkt, an dem der Dialog zum Diskurs wird, der an die Gemeinschaft gerichtet ist.
@@ -182,7 +179,7 @@ Jesus antwortete: @@„Amen, amen, ich sage dir, wenn jemand nicht aus Wasser un
 
 @@Der {a:Wind/Geist} weht, wo er will, und du hörst seinen Klang, aber du weißt nicht, woher er kommt und wohin er geht; so ist jeder, der aus dem {a:Wind/Geist} geboren ist.@@
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **KRITISCH — *PNEUMA*-WORTSPIEL (WIND UND GEIST)**
 > - **τὸ πνεῦμα ὅπου θέλει πνεῖ** (*to pneuma hopou thelei pnei*) = „der Wind/Geist weht, wo er will." πνεῦμα bedeutet *sowohl* „Wind" *als auch* „Geist" — der Satz wirkt gleichzeitig als meteorologische Beobachtung und theologische Aussage über den Geist. Jede Übersetzung, die *pneuma* nur als „Wind" oder nur als „Geist" wiedergibt, zerstört die Doppelbedeutung; die TT bewahrt sie mit dem Schrägstrich. Für ausführlichere Diskussion des *pneuma*-Wortspiels und seiner Verbindung zu Gen 1,2 und Joh 1,32–33 siehe Begleitmaterial Abschnitt C.
@@ -199,7 +196,7 @@ Jesus antwortete: @@„Amen, amen, ich sage dir, wenn jemand nicht aus Wasser un
 
 Nikodemus antwortete und sagte zu ihm: „Wie können diese Dinge geschehen?"
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟡 **„WIE?" — NIKODEMOS' LETZTE FRAGE**
 > - **πῶς δύναται ταῦτα γενέσθαι** = „Wie können diese Dinge geschehen?" Nikodemus fragt dreimal in diesem Dialog „Wie?" (VV.4, 9, impliziert in V.4b). Seine Fragen bewegen sich von Ungläubigkeit zu Ratlosigkeit. Nach V.9 verstummt Nikodemus — der Dialog wird zum Monolog. Der Text verzeichnet nie seine Antwort auf Jesu Lehre.
@@ -210,7 +207,7 @@ Nikodemus antwortete und sagte zu ihm: „Wie können diese Dinge geschehen?"
 
 Jesus antwortete und sagte zu ihm: @@„Du bist der Lehrer Yisraels und weißt diese Dinge nicht?"@@
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟢 **„DER LEHRER" — *HO DIDASKALOS***
 > - **σὺ εἶ ὁ διδάσκαλος τοῦ Ἰσραήλ** = „Du bist *der* Lehrer Yisraels." Der Artikel (*ho*) ist emphatisch: nicht *ein* Lehrer, sondern *der* Lehrer — was auf eine anerkannte Autorität hindeutet, vielleicht einen führenden Gelehrten. Der Tadel ist scharf: wenn jemand himmlische Geburt und Wind/Geist verstehen sollte, dann der autorisierte Lehrer Yisraels — derjenige, der Hes 36–37 kennt (die Verheißung eines neuen Geistes und das Tal der verdorrten Gebeine).
@@ -221,7 +218,7 @@ Jesus antwortete und sagte zu ihm: @@„Du bist der Lehrer Yisraels und weißt d
 
 @@Amen, amen, ich sage dir, wir reden, was wir wissen, und wir bezeugen, was wir gesehen haben, und ihr nehmt unser Zeugnis nicht an.@@
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔵 **WECHSEL ZUM PLURAL — „WIR REDEN ... WIR BEZEUGEN"**
 > - **λαλοῦμεν... μαρτυροῦμεν** = erste Person Plural. Jesus wechselt von „ich" zu „wir"; die Ambiguität bleibt ungelöst. → Für die vorgeschlagenen Lesarten des „wir" (Jesus + Vater / Jesus + Nachfolger / johanneische Gemeinschaft an die Synagoge) und die Diskussion über Diskursschichten siehe Begleitmaterial Abschnitt C.
@@ -235,7 +232,7 @@ Jesus antwortete und sagte zu ihm: @@„Du bist der Lehrer Yisraels und weißt d
 
 @@Wenn ich euch irdische Dinge gesagt habe und ihr nicht vertraut, wie werdet ihr vertrauen, wenn ich euch himmlische Dinge sage?@@
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟡 **„IRDISCHE DINGE" / „HIMMLISCHE DINGE"**
 > - **τὰ ἐπίγεια** (*ta epigeia*) = irdische Dinge; **τὰ ἐπουράνια** (*ta epourania*) = himmlische Dinge. Was sind die „irdischen Dinge"? Die Geburtsmetapher (etwas auf Erden Beobachtbares — Geburt, Wind)? Oder das grundlegende Bedürfnis nach geistlicher Neugeburt? Wenn die „irdischen Dinge" bereits über Nikodemus' Verständnis hinausgehen, werden die „himmlischen Dinge" (Aufstieg und Abstieg des Menschensohns, der göttliche Plan der VV.14–16) erst recht unzugänglich sein. Der Text etabliert eine Hierarchie der Offenbarung.
@@ -246,7 +243,7 @@ Jesus antwortete und sagte zu ihm: @@„Du bist der Lehrer Yisraels und weißt d
 
 @@Und niemand ist in den Himmel hinaufgestiegen außer dem, der aus dem Himmel herabgestiegen ist — der Menschensohn.@@
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **KRITISCH — TEXTVARIANTE**
 > - Einige Handschriften fügen **ὁ ὢν ἐν τῷ οὐρανῷ** (*ho ōn en tō ouranō*) = „der im Himmel ist" hinzu — was den Menschensohn gleichzeitig auf Erden und im Himmel verortet. Diese Lesart findet sich im byzantinischen Text und einigen wichtigen Zeugen, fehlt aber in den ältesten Papyri und wichtigsten Unzialen (P66, P75, Sinaiticus, Vaticanus). NA28 lässt sie weg. Die TT folgt NA28 und nimmt den Zusatz nicht auf, aber die Variante sollte vermerkt werden: sie spiegelt eine frühe Tradition der gleichzeitigen himmlischen Gegenwart des Menschensohns wider.
@@ -260,7 +257,7 @@ Jesus antwortete und sagte zu ihm: @@„Du bist der Lehrer Yisraels und weißt d
 
 @@Und wie Mosheh (Mose) die Schlange in der Wüste erhöhte, so muss der Menschensohn erhöht werden,@@
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **KRITISCH — „ERHÖHT" (*HYPSŌTHĒNAI*) — DOPPELBEDEUTUNG**
 > - **ὑψωθῆναι** (*hypsōthēnai*) = „erhöht werden." ὑψόω trägt bei Johannes zwei Bedeutungen gleichzeitig: physische Erhebung (Kreuzigung) und Verherrlichung (Erhöhung an Ehre) — an allen drei Vorkommen (3,14; 8,28; 12,32–34) sind beide Bedeutungen wirksam; die Kreuzigung *ist* die Erhöhung. Die TT gibt „erhöht" wieder und vermerkt die Doppelbedeutung. Für ausführlichere Diskussion des johanneischen Erhöhungs-Motivs siehe Begleitmaterial Abschnitt C.
@@ -274,7 +271,7 @@ Jesus antwortete und sagte zu ihm: @@„Du bist der Lehrer Yisraels und weißt d
 
 @@damit jeder, der auf ihn vertraut, Leben des Zeitalters habe.@@
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟢 **„LEBEN DES ZEITALTERS" — *ZŌĒ AIŌNIOS***
 > - **ζωὴν αἰώνιον** (*zōēn aiōnion*) = „Leben des Zeitalters." αἰώνιος leitet sich von αἰών (*aiōn*, „Zeitalter/Äon") ab und bezeichnet Leben, das zum kommenden Zeitalter gehört — nicht philosophische Zeitlosigkeit. Der hebräische/aramäische Hintergrund (חַיֵּי עוֹלָם, *chayyei olam*) bestätigt denselben Sinn; die TT übersetzt wörtlich statt „ewiges Leben."
@@ -288,7 +285,7 @@ Jesus antwortete und sagte zu ihm: @@„Du bist der Lehrer Yisraels und weißt d
 
 @@„Denn Gott hat die Welt so geliebt, dass er den einziggeborenen Sohn gab, damit jeder, der auf ihn vertraut, nicht verloren gehe, sondern Leben des Zeitalters habe."@@
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **KRITISCH — DER MEISTZITIERTE VERS DER BIBEL**
 > - **Οὕτως γὰρ ἠγάπησεν ὁ θεὸς τὸν κόσμον** = „Denn Gott hat die Welt so geliebt." Das Adverb **οὕτως** (*houtōs*) = „auf diese Weise, so" — es modifiziert die *Art* des Liebens, nicht den Grad. Der Satz sagt „Gott liebte die Welt *auf diese Weise*: dass er gab..." statt „Gott liebte die Welt *so sehr*, dass...". Beide Lesarten sind grammatisch möglich, aber die primäre Bedeutung von *houtōs* ist die der Art und Weise („auf diese Weise"), nicht des Grades („in solchem Ausmaß"). Zuversicht: VERIFIZIERT [TEXTUELL].
@@ -308,7 +305,7 @@ Jesus antwortete und sagte zu ihm: @@„Du bist der Lehrer Yisraels und weißt d
 
 @@Denn Gott hat den Sohn nicht in die Welt gesandt, damit er die Welt richte, sondern damit die Welt durch ihn gerettet werde.@@
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟢 **„RICHTE" — *KRINŌ***
 > - **κρίνῃ** (*krinē*) = Konjunktiv von κρίνω (*krinō*) = „richten." NICHT „verdammen" — viele Übersetzungen geben hier „verdammen" wieder, aber κρίνω bedeutet „richten, beurteilen, entscheiden." Die negative Bedeutung („verdammen") erfordert ein Präfix: κατακρίνω (*katakrinō*). Die TT übersetzt das tatsächliche Wort.
@@ -322,7 +319,7 @@ Jesus antwortete und sagte zu ihm: @@„Du bist der Lehrer Yisraels und weißt d
 
 @@Wer auf ihn vertraut, wird nicht gerichtet; wer nicht vertraut, ist schon gerichtet, weil er nicht auf den Namen des einziggeborenen Sohnes Gottes vertraut hat.@@
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟡 **„IST SCHON GERICHTET" — VERWIRKLICHTES GERICHT**
 > - **ἤδη κέκριται** (*ēdē kekritai*) = „ist schon gerichtet" — Perfekt Passiv. Das Gericht ist nicht zukünftig, sondern gegenwärtig, bereits in Kraft. Der Akt des Nicht-Vertrauens ist selbst das Gericht — kein von außen auferlegtes Urteil, sondern ein Zustand, den man durch die eigene Antwort betritt. Dies ist „verwirklichte Eschatologie" — das zukünftige Gericht ist bereits in der Gegenwart wirksam.
@@ -336,7 +333,7 @@ Jesus antwortete und sagte zu ihm: @@„Du bist der Lehrer Yisraels und weißt d
 
 @@Und dies ist das Gericht: dass das Licht in die Welt gekommen ist und die Menschen die Finsternis mehr liebten als das Licht, denn ihre Werke waren böse.@@
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟢 **„GERICHT" — *KRISIS***
 > - **ἡ κρίσις** (*hē krisis*) = „das Gericht." NICHT „Verdammnis" — das Substantiv κρίσις bedeutet den Akt oder Prozess des Richtens. Der Vers definiert, was das Gericht *ist*: kein gefälltes Urteil, sondern eine Antwort — Menschen *wählten* die Finsternis statt des Lichts. Das Gericht ist selbstbestimmt.
@@ -350,7 +347,7 @@ Jesus antwortete und sagte zu ihm: @@„Du bist der Lehrer Yisraels und weißt d
 
 @@Denn jeder, der Wertloses tut, hasst das Licht und kommt nicht zum Licht, damit seine Werke nicht aufgedeckt werden.@@
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟢 **„WERTLOSES TUN" — *PHAULA PRASSŌN***
 > - **φαῦλα πράσσων** (*phaula prassōn*) = „Wertloses/Minderwertiges tun." Das Adjektiv **φαῦλος** (*phaulos*) = wertlos, minderwertig, gering — eine breitere Kategorie als „böse" (*ponēros*). Einige Handschriften lesen πονηρά (*ponēra*, „böse Dinge") statt φαῦλα. NA28 liest φαῦλα.
@@ -364,7 +361,7 @@ Jesus antwortete und sagte zu ihm: @@„Du bist der Lehrer Yisraels und weißt d
 
 @@Wer aber die Wahrheit tut, kommt zum Licht, damit seine Werke offenbar werden — dass sie in Gott gewirkt sind.@@
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟢 **„DIE WAHRHEIT TUN" — *POIŌN TĒN ALĒTHEIAN***
 > - **ποιῶν τὴν ἀλήθειαν** (*poiōn tēn alētheian*) = „die Wahrheit tun." Ein ungewöhnlicher Ausdruck — Wahrheit ist etwas, das getan, praktiziert, verwirklicht wird, nicht bloß gewusst oder geglaubt. Das hebräische Äquivalent עֹשֶׂה אֱמֶת (*oseh emet*) kommt in den Schriftrollen vom Toten Meer vor (1QS 1,5; 5,3; 8,2) und trägt den Sinn von „treu handeln." Wahrheit im johanneischen Sprachgebrauch ist ethische Praxis, nicht abstrakte Aussage.
@@ -378,7 +375,7 @@ Jesus antwortete und sagte zu ihm: @@„Du bist der Lehrer Yisraels und weißt d
 
 Nach diesen Dingen kamen Jesus und seine Nachfolger in das jehudäische Land, und dort verbrachte er Zeit mit ihnen und tauchte unter.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔴 **KRITISCH — YESHUA TAUCHT UNTER**
 > - **ἐβάπτιζεν** (*ebaptizen*) = „tauchte unter" — Imperfekt, das fortlaufende Tätigkeit anzeigt. Dies ist die einzige Stelle in den Evangelien, die besagt, dass Jesus selbst untertauchte. Joh 4,2 schränkt sofort ein: „obwohl Jesus selbst nicht untertauchte, sondern seine Nachfolger." Ob 4,2 eine Korrektur, eine Klarstellung oder eine redaktionelle Parenthese ist, wird diskutiert.
@@ -392,7 +389,7 @@ Nach diesen Dingen kamen Jesus und seine Nachfolger in das jehudäische Land, un
 
 Und auch Yochanan (Johannes) tauchte unter in Ainon bei Shalim, weil dort viel Wasser war, und *Menschen* kamen und wurden untergetaucht —
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟢 **AINON UND SHALIM — TT-TRANSLITERATION**
 > - **Αἰνών** (*Ainōn*) = vom Hebräischen/Aramäischen עַיְנוֹן (*Aynon*, „Quellen"). **Σαλείμ** (*Saleim*) = Shalim, Lage umstritten — möglicherweise nahe Schechem, möglicherweise im Yarden (Jordan)-Tal. Der Ortsname selbst bedeutet „Quellen," und der Erzähler erklärt: „weil dort viel Wasser war." Das Detail ist praktisch — Untertauchen erfordert ausreichend Wasser.
@@ -406,7 +403,7 @@ Und auch Yochanan (Johannes) tauchte unter in Ainon bei Shalim, weil dort viel W
 
 denn Johannes war noch nicht ins Gefängnis geworfen worden.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔵 **EINGESCHOBENE CHRONOLOGISCHE ANMERKUNG**
 > - **οὔπω γὰρ ἦν βεβλημένος εἰς τὴν φυλακὴν ὁ Ἰωάννης** = „denn Johannes war noch nicht ins Gefängnis geworfen worden." Ein periphrastisches Plusquamperfekt (ἦν βεβλημένος). Diese Anmerkung setzt voraus, dass der Leser weiß, dass Johannes schließlich eingekerkert wurde (in den Synoptikern berichtet, Mk 6,17–29). Sie synchronisiert die Zeitleiste des Johannesevangeliums mit der synoptischen Tradition und platziert diese Episode vor der Verhaftung.
@@ -417,7 +414,7 @@ denn Johannes war noch nicht ins Gefängnis geworfen worden.
 
 Da entstand ein Streit von den Nachfolgern Johannes' mit einem Jehudi über Reinigung.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔵 **TEXTVARIANTE — „EIN JEHUDI" ODER „JEHUDIM"?**
 > - Einige Handschriften lesen **Ἰουδαίου** (*Ioudaiou*, Singular — „ein Jehudi"); andere lesen **Ἰουδαίων** (*Ioudaiōn*, Plural — „Jehudim"). NA28 liest den Singular. Die Identität dieser Person ist unbekannt — der Text führt eine Figur ein, vermerkt das Streitthema („Reinigung") und geht ohne Auflösung weiter.
@@ -431,7 +428,7 @@ Da entstand ein Streit von den Nachfolgern Johannes' mit einem Jehudi über Rein
 
 Und sie kamen zu Johannes und sagten zu ihm: „Rabbi, der, der bei dir war jenseits des Jordan, dem du Zeugnis gegeben hast — siehe, dieser taucht unter, und alle kommen zu ihm."
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟡 **„ALLE KOMMEN ZU IHM" — ÜBERTREIBUNG ODER ALARM?**
 > - **πάντες ἔρχονται πρὸς αὐτόν** = „alle kommen zu ihm." Das „alle" ist wahrscheinlich hyperbolisch und drückt die Beunruhigung der Nachfolger über die Verlagerung der Aufmerksamkeit von Johannes zu Jesus aus. Sie benennen Jesus nicht — „der, der bei dir war jenseits des Jordan, dem du Zeugnis gegeben hast" — sie identifizieren ihn nur durch seine Beziehung zu Johannes.
@@ -442,7 +439,7 @@ Und sie kamen zu Johannes und sagten zu ihm: „Rabbi, der, der bei dir war jens
 
 Johannes antwortete und sagte: „Ein Mensch ist nicht imstande, irgendetwas zu empfangen, wenn es ihm nicht vom Himmel gegeben wurde."
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟡 **„VOM HIMMEL" — *EK TOU OURANOU***
 > - **ἐκ τοῦ οὐρανοῦ** (*ek tou ouranou*) = „vom Himmel." Johannes' Antwort rahmt sowohl seine Rolle als auch Jesu Rolle als göttlich bestimmt. Jeder hat empfangen, was von oben gegeben wurde. Die Aussage könnte sich auf Jesu wachsende Gefolgschaft (ihm gegeben) oder auf Johannes' begrenzte Rolle (ebenfalls ihm gegeben) beziehen.
@@ -453,7 +450,7 @@ Johannes antwortete und sagte: „Ein Mensch ist nicht imstande, irgendetwas zu 
 
 Ihr selbst bezeugt mir, dass ich sagte: „Ich bin nicht der Gesalbte," sondern: „Ich bin vor jenem hergesandt worden."
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟢 **ECHO VON 1,20 — DREIFACHE VERNEINUNG**
 > - Johannes erinnert an sein früheres Zeugnis (1,20): „Ich bin nicht der Gesalbte." Die Selbstdefinition durch Verneinung setzt sich fort. Er ist der Vorausgesandte (*apestalmenos*), der Vorläufer — nicht der Gesalbte selbst. Das Perfekt Passiv „ich bin gesandt worden" (*apestalmenos eimi*) zeigt göttliche Beauftragung an.
@@ -464,7 +461,7 @@ Ihr selbst bezeugt mir, dass ich sagte: „Ich bin nicht der Gesalbte," sondern:
 
 Der die Braut hat, ist der Bräutigam; aber der Freund des Bräutigams, der dasteht und ihn hört, freut sich mit Freude über die Stimme des Bräutigams. Diese meine Freude nun ist erfüllt.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟡 **BRÄUTIGAM-GLEICHNIS**
 > - **ὁ ἔχων τὴν νύμφην νυμφίος ἐστίν** = „Der die Braut hat, ist der Bräutigam." Johannes stellt sich als den „Freund des Bräutigams" (*philos tou nymphiou*) dar — den שׁוֹשְׁבִין (*shoshbin*) in der jüdischen Hochzeitspraxis, der die Hochzeit arrangierte, das Paar zusammenführte und sich an der Stimme des Bräutigams freute. Das Gleichnis impliziert: die Braut (das Volk, die Gemeinschaft) gehört dem Bräutigam (Jesus), nicht dem Freund (Johannes). Johannes' Freude ist gerade deshalb vollkommen, weil der Bräutigam angekommen ist.
@@ -478,7 +475,7 @@ Der die Braut hat, ist der Bräutigam; aber der Freund des Bräutigams, der dast
 
 Jener muss zunehmen, ich aber muss abnehmen.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟢 **„MUSS" — *DEI***
 > - **ἐκεῖνον δεῖ αὐξάνειν, ἐμὲ δὲ ἐλαττοῦσθαι** = „Jener muss zunehmen, ich aber muss abnehmen." Das Verb δεῖ (*dei*) = „es ist notwendig, muss" — göttliche Notwendigkeit, nicht persönliche Vorliebe. Das Zunehmen/Abnehmen ist nicht Johannes' Wahl, sondern das bestimmte Muster. Die Präsens-Infinitive (αὐξάνειν, ἐλαττοῦσθαι) zeigen fortlaufende Prozesse an.
@@ -489,7 +486,7 @@ Jener muss zunehmen, ich aber muss abnehmen.
 
 Der von oben kommt, ist über allen. Der von der Erde ist, ist von der Erde und redet von der Erde. Der vom Himmel kommt, ist über allen.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟡 **SPRECHERAMBIGUITÄT — YOCHANAN ODER ERZÄHLER?**
 > - Wo endet Johannes' Rede? Manche Gelehrte setzen das Ende bei V.30 („Jener muss zunehmen, ich aber muss abnehmen"), wobei VV.31–36 den theologischen Kommentar des Erzählers darstellen — parallel zum Jesus/Erzähler-Übergang in VV.15–16. Andere dehnen Johannes' Rede bis V.36 aus. Das Griechische liefert keine Anführungszeichen. Die TT löst die Frage nicht.
@@ -503,7 +500,7 @@ Der von oben kommt, ist über allen. Der von der Erde ist, ist von der Erde und 
 
 Was er gesehen und gehört hat — dies bezeugt er, und niemand nimmt sein Zeugnis an.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🔵 **PERFEKT — *HEŌRAKEN... ĒKOUSEN***
 > - **ὃ ἑώρακεν καὶ ἤκουσεν** = „was er gesehen und gehört hat." Das Perfekt ἑώρακεν („hat gesehen") steht neben dem Aorist ἤκουσεν („hörte"). Der von oben Kommende bezeugt unmittelbare Erfahrung himmlischer Wirklichkeiten. „Niemand nimmt an" (*oudeis lambanei*) bildet ein Echo zu V.11 und 1,11 — das fortdauernde Thema abgelehnten Zeugnisses.
@@ -514,7 +511,7 @@ Was er gesehen und gehört hat — dies bezeugt er, und niemand nimmt sein Zeugn
 
 Wer sein Zeugnis angenommen hat, hat besiegelt, dass Gott wahrhaftig ist.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟢 **„BESIEGELT" — *ESPHRAGISEN***
 > - **ἐσφράγισεν** (*esphragisen*) = Aorist von σφραγίζω (*sphragizō*) = „siegeln, beglaubigen, bestätigen." Ein Siegel bestätigt ein Dokument als echt. Die Person, die das Zeugnis annimmt, bestätigt damit — stellt eine Behauptung auf —, dass Gott wahrhaftig ist. Das Annehmen des Zeugnisses ist ein Akt der Bestätigung von Gottes Wahrhaftigkeit.
@@ -525,7 +522,7 @@ Wer sein Zeugnis angenommen hat, hat besiegelt, dass Gott wahrhaftig ist.
 
 Denn der, den Gott gesandt hat, redet die Worte Gottes, denn er gibt den {a:Wind/Geist} nicht nach Maß.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟡 **„NICHT NACH MASS" — *OUK EK METROU***
 > - **οὐ γὰρ ἐκ μέτρου δίδωσιν τὸ πνεῦμα** = „denn er gibt den Wind/Geist nicht nach Maß." Wer ist das Subjekt — Gott oder der Sohn? Beide Lesarten sind möglich. (a) Gott gibt dem Sohn den Wind/Geist ohne Maß (der Sohn empfängt unbegrenzte Ausstattung); (b) der Sohn gibt anderen den Wind/Geist ohne Maß (der Sohn verteilt ohne Begrenzung). Der Text spezifiziert das Subjekt nicht. Die TT bewahrt die Ambiguität.
@@ -536,7 +533,7 @@ Denn der, den Gott gesandt hat, redet die Worte Gottes, denn er gibt den {a:Wind
 
 Der Vater liebt den Sohn und hat alles in seine Hand gegeben.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟢 **„LIEBT" — *AGAPA***
 > - **ὁ πατὴρ ἀγαπᾷ τὸν υἱόν** = „Der Vater liebt den Sohn." Das Verb ἀγαπάω (*agapaō*) wird hier verwendet. In 5,20 wird das Synonym φιλέω (*phileō*) für dieselbe Beziehung verwendet. Ob Johannes die beiden Liebes-Verben unterscheidet oder austauschbar verwendet, ist eine langjährige Debatte (siehe 21,15–17 für den klimaktischen Austausch).
@@ -550,7 +547,7 @@ Der Vater liebt den Sohn und hat alles in seine Hand gegeben.
 
 Wer auf den Sohn vertraut, hat Leben des Zeitalters; wer aber dem Sohn nicht gehorcht, wird das Leben nicht sehen, sondern der Zorn Gottes bleibt auf ihm.
 
-> **📝 NOTIZEN**
+> **NOTIZEN**
 >
 > 🟢 **„NICHT GEHORCHT" — *APEITHŌN***
 > - **ὁ ἀπειθῶν τῷ υἱῷ** (*ho apeithōn tō huiō*) = „der dem Sohn nicht Gehorchende." Das Verb **ἀπειθέω** (*apeitheō*) = „nicht gehorchen, ungehorsam sein, die Gefolgschaft verweigern." Bezeichnenderweise ist das Gegenteil von „vertrauend" (*pisteuōn*) hier nicht „nicht vertrauend" (*mē pisteuōn*, wie in V.18), sondern „nicht gehorchend" (*apeithōn*). Die Verschiebung legt nahe, dass das Nicht-Vertrauen als Akt des Ungehorsams verstanden wird — nicht bloße intellektuelle Nicht-Zustimmung, sondern willentliche Verweigerung.

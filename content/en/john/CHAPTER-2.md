@@ -27,17 +27,14 @@
 
 ## READING GUIDE
 
-**📖 Main Text:** Primary translation — readable but faithful to Greek structure
-**📝 Notes:** Essential Greek features immediately below each verse
-***Italics:*** Words added for English grammar (not in Greek text)
-**"Quotes":** Direct speech
-**the Lord:** κύριος rendered per GS Divine Name Policy (Option C) when quoting OT YHWH passages
+**Main Text:** Primary translation — readable but faithful to Greek structure. **Notes:** Essential Greek features immediately below each verse.
 
-**Note Icons:**
-- 🔴 **CRITICAL** - Major textual or translation decisions
-- 🟢 **LEXICAL** - Word meanings, semantic range, glossary terms
-- 🔵 **GRAMMATICAL** - Greek structure, verb aspect, syntax
-- 🟡 **THEOLOGICAL** - Interpretive options, ambiguity preservation
+**How the text is marked:**
+- *Words in italics* — added for English grammar (not in the Greek text)
+- {a:wind/spirit} — a word the Greek leaves open to two meanings, both kept
+- @@"…"@@ — direct speech of God or Yeshua (Jesus)
+
+Notes are tagged by type — **Critical · Lexical · Grammatical · Theological** — each shown with its colour (see the legend at the top of the Notes view).
 
 **This chapter contains two major scenes and a transitional note.** The wedding at Qanah (vv.1–12) introduces the first "sign" (*sēmeion*) — a term John uses deliberately instead of "miracle" (*dynamis*) or "wonder" (*teras*). The temple clearing (vv.13–22) introduces the distinction between ναός (*naos*, the inner sanctuary) and ἱερόν (*hieron*, the temple complex). The chapter closes with a narrator's comment on Yeshua's knowledge of human nature (vv.23–25). Proper names follow TT transliteration: Qanah (not Cana), Yeshua (not Jesus), Kfar Nachum (not Capernaum), Yerushalayim (not Jerusalem).
 
@@ -81,7 +78,7 @@
 
 And on the third day a wedding took place in Qanah of the Galil (Galilee), and the mother of Yeshua (Jesus) was there.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔵 **"ON THE THIRD DAY" — τῇ ἡμέρᾳ τῇ τρίτῃ**
 > - The phrase τῇ ἡμέρᾳ τῇ τρίτῃ (*tē hēmera tē tritē*) = "on the third day." Counted from the last event narrated in ch.1 (the call of Philippos and Nathanael). The accumulated day-markers in 1:29, 1:35, 1:43, and now 2:1 create a sequence spanning roughly one week — echoing the seven-day creation structure of Gen 1. Whether this echo is deliberate or coincidental is debated. The phrase "on the third day" will recur with different significance at v.19 (the resurrection prediction).
@@ -98,7 +95,7 @@ And on the third day a wedding took place in Qanah of the Galil (Galilee), and t
 
 And Yeshua (Jesus) also was invited, and his followers, to the wedding.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟢 **"FOLLOWERS" — μαθηταί (*mathētai*)**
 > - **μαθηταί** (*mathētai*) = learners, students, followers. The term describes those who follow a teacher to learn. By this point in the narrative (following 1:35–51), Yeshua (Jesus) has gathered at least five followers: Andreas (Andrew), the unnamed disciple, Shimon (Simon) Kefa (Peter), Philippos (Philip), and Nathanael.
@@ -109,7 +106,7 @@ And Yeshua (Jesus) also was invited, and his followers, to the wedding.
 
 And *when* wine ran short, the mother of Yeshua (Jesus) says to him, "They have no wine."
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔵 **"WINE RAN SHORT" — ὑστερήσαντος τοῦ οἴνου**
 > - **ὑστερήσαντος τοῦ οἴνου** = genitive absolute, "the wine having run short" — temporal: "when the wine ran short." The verb **ὑστερέω** (*hystereō*) = to lack, fall short, run out. Running out of wine at a wedding was a serious social failure for the host family — it implied inadequate provision and brought shame.
@@ -123,7 +120,7 @@ And *when* wine ran short, the mother of Yeshua (Jesus) says to him, "They have 
 
 And Yeshua (Jesus) says to her, @@"What to me and to you, woman? My hour has not yet come."@@
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔴 **CRITICAL — τί ἐμοὶ καὶ σοί ("WHAT TO ME AND TO YOU")**
 > - **τί ἐμοὶ καὶ σοί, γύναι** (*ti emoi kai soi, gynai*) = literally "what to me and to you, woman?" This is a Semitic idiom (Hebrew: מַה־לִּי וָלָךְ, *mah-li valakh*) found across the HB (Judg 11:12; 2 Sam 16:10; 1 Kgs 17:18; 2 Kgs 3:13; 2 Chron 35:21); in each occurrence the formula establishes distance between speaker and addressee. The TT translates literally per Rule 1; softened renderings ("What concern is that to you and to me?") obscure the Semitic formula. For the full range of HB usage and contextual force, see companion Section D1.
@@ -140,7 +137,7 @@ And Yeshua (Jesus) says to her, @@"What to me and to you, woman? My hour has not
 
 His mother says to the servants, "Whatever he says to you, do *it*.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔵 **ECHO OF GEN 41:55 — "DO WHATEVER HE SAYS"**
 > - The mother's instruction to the servants — ὅ τι ἂν λέγῃ ὑμῖν ποιήσατε (*ho ti an legē hymin poiēsate*) — echoes Pharaoh's instruction about Yosef in Gen 41:55 LXX: πορεύεσθε πρὸς Ιωσηφ καὶ ὃ ἐὰν εἴπῃ ὑμῖν ποιήσατε ("go to Yosef, and whatever he says to you, do"). Whether the echo is deliberate is debated; the verbal overlap is close enough to note. In both cases, an authoritative figure directs subordinates to obey the instructions of one who will provide.
@@ -154,7 +151,7 @@ His mother says to the servants, "Whatever he says to you, do *it*.
 
 Now there were six stone water jars standing there, according to the purification *rites* of the Yehudim, each holding two or three measures.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟢 **"PURIFICATION" — καθαρισμός (*katharismos*)**
 > - **κατὰ τὸν καθαρισμὸν τῶν Ἰουδαίων** = "according to the purification of the Yehudim." The stone jars were for ritual hand-washing before meals and other purification rites prescribed by Jewish tradition (cf. Mark 7:3–4). Stone vessels were preferred because, under halakhic ruling, stone does not contract ritual impurity (*tum'ah*) — unlike clay, which must be broken if contaminated.
@@ -171,7 +168,7 @@ Now there were six stone water jars standing there, according to the purificatio
 
 Yeshua (Jesus) says to them, @@"Fill the jars with water."@@ And they filled them to the top.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔵 **"TO THE TOP" — ἕως ἄνω**
 > - **ἕως ἄνω** (*heōs anō*) = "up to the top/brim." The servants' obedience is total — no half-measures. The detail eliminates the possibility of admixture: the jars were completely full of water.
@@ -182,7 +179,7 @@ Yeshua (Jesus) says to them, @@"Fill the jars with water."@@ And they filled the
 
 And he says to them, @@"Draw out now and bring *it* to the chief steward."@@ And they brought *it*.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟢 **"CHIEF STEWARD" — ἀρχιτρίκλινος (*architriklinos*)**
 > - **ἀρχιτρίκλινος** (*architriklinos*) = the chief steward or master of the feast — the person responsible for managing the banquet, tasting the wine, and directing the serving. A known social role in Greco-Roman and Jewish banquet culture. The chief steward functions as an unwitting witness: he tastes the wine without knowing its origin.
@@ -193,7 +190,7 @@ And he says to them, @@"Draw out now and bring *it* to the chief steward."@@ And
 
 And when the chief steward tasted the water having become wine — and did not know from where it was, but the servants who had drawn the water knew — the chief steward calls the bridegroom
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔵 **"THE WATER HAVING BECOME WINE" — PARTICIPIAL DESCRIPTION**
 > - **τὸ ὕδωρ οἶνον γεγενημένον** (*to hydōr oinon gegenēmenon*) = "the water having become wine." The perfect participle **γεγενημένον** (*gegenēmenon*) from γίνομαι (*ginomai*) = "having become" — the transformation is presented as completed. The narrator describes the result without narrating the process. There is no moment of transformation described — the water was drawn and the water had become wine. The mechanism is absent from the text.
@@ -207,7 +204,7 @@ And when the chief steward tasted the water having become wine — and did not k
 
 and says to him, "Every man sets out the good wine first, and when *they* have become drunk, the lesser. You have kept the good wine until now."
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟢 **"BECOME DRUNK" — μεθυσθῶσιν (*methysthōsin*)**
 > - **μεθυσθῶσιν** (*methysthōsin*) = aorist passive subjunctive of μεθύσκω (*methyskō*) = "to become drunk/intoxicated." The chief steward's observation is practical, not theological: banquet custom was to serve better wine first, before guests' palates dulled. The text does not moralize about drunkenness — it records the steward's observation about standard practice.
@@ -221,7 +218,7 @@ and says to him, "Every man sets out the good wine first, and when *they* have b
 
 This beginning of the signs Yeshua (Jesus) did in Qanah of the Galil (Galilee) and revealed his glory, and his followers trusted in him.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔴 **CRITICAL — "SIGN" (*SĒMEION*), NOT "MIRACLE"**
 > - **σημεῖον** (*sēmeion*) = sign — something that points to a reality beyond itself. John never uses **δύναμις** (*dynamis*, "power/mighty work") or **τέρας** (*teras*, "wonder/portent") to describe Yeshua's acts. The Synoptics use *dynamis* frequently. John's term *sēmeion* frames the act as revelatory — it signifies something, it does not merely display power. The water-to-wine is not called a "miracle" — it is called a "sign." The distinction is deliberate and load-bearing for John's theology.
@@ -241,7 +238,7 @@ This beginning of the signs Yeshua (Jesus) did in Qanah of the Galil (Galilee) a
 
 After this he went down to Kfar Nachum (Capernaum) — he and his mother and his brothers and his followers — and they stayed there not many days.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟢 **KFAR NACHUM — TT TRANSLITERATION**
 > - **Καφαρναούμ** (*Kapharnaoum*) = Greek form of Hebrew/Aramaic כְּפַר נַחוּם (*Kfar Nachum*, "village of Nachum"). TT renders the Semitic form. Kfar Nachum was a fishing village on the northwest shore of the Kinneret (Sea of Galilee). The Synoptics present it as the base of Yeshua (Jesus)'s Galilean ministry.
@@ -258,7 +255,7 @@ After this he went down to Kfar Nachum (Capernaum) — he and his mother and his
 
 And the Passover of the Yehudim was near, and Yeshua (Jesus) went up to Yerushalayim (Jerusalem).
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟢 **"PASSOVER" — πάσχα (*pascha*)**
 > - **τὸ πάσχα** (*to pascha*) = Passover — from Hebrew פֶּסַח (*pesach*). John mentions three Passovers (2:13, 6:4, 11:55), implying a ministry of at least two to three years. The Synoptics narrate only one Passover. The placement of the temple clearing at the first Passover (rather than the last, as in the Synoptics) is a significant structural difference — see note at v.14.
@@ -272,7 +269,7 @@ And the Passover of the Yehudim was near, and Yeshua (Jesus) went up to Yerushal
 
 And he found in the temple *complex* those selling cattle and sheep and doves, and the money-changers seated.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔴 **CRITICAL — ἱερόν (*HIERON*) vs. ναός (*NAOS*)**
 > - **ἐν τῷ ἱερῷ** (*en tō hierō*) = "in the *hieron*" — the temple complex as a whole, including the courts, porticoes, and commercial areas. This is distinct from **ναός** (*naos*), the inner sanctuary (the holy place and holy of holies), which Yeshua will reference at v.19. The commerce took place in the Court of the Gentiles — the outermost court of the temple complex. The TT renders *hieron* as "temple complex" (in italics to mark the distinction) and *naos* as "sanctuary."
@@ -289,7 +286,7 @@ And he found in the temple *complex* those selling cattle and sheep and doves, a
 
 And having made a whip out of cords, he drove *them* all out of the temple *complex*, both the sheep and the cattle, and he poured out the coins of the money-changers and overturned the tables.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔵 **"HAVING MADE A WHIP" — φραγέλλιον ποιήσας**
 > - **φραγέλλιον** (*phragellion*) = a whip, from Latin *flagellum*. The word is a loanword — one of several Latin terms in John (cf. πραιτώριον, *praitōrion*, 18:28; λιθόστρωτον, *lithostrōton*, 19:13). **ἐκ σχοινίων** (*ek schoiniōn*) = "out of cords/rushes." The whip is improvised from materials at hand. Only John mentions the whip.
@@ -303,7 +300,7 @@ And having made a whip out of cords, he drove *them* all out of the temple *comp
 
 And to those selling the doves he said, @@"Take these *things* from here; do not make the house of my father a house of commerce."@@
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟡 **"HOUSE OF MY FATHER" — τὸν οἶκον τοῦ πατρός μου**
 > - Yeshua (Jesus) refers to the temple as "the house of my Father" — a claim of filial relationship with God that the narrator does not qualify. The Synoptic parallels quote Isa 56:7 ("my house shall be called a house of prayer") and Jer 7:11 ("den of robbers"). John does not quote either — the charge is different: not robbery (*lēstērion*) but commerce (*emporion*). The issue is not exploitation but the presence of commerce in the Father's house at all.
@@ -317,7 +314,7 @@ And to those selling the doves he said, @@"Take these *things* from here; do not
 
 His followers remembered that it is written, "The zeal of your house will consume me."
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔴 **CRITICAL — PSALM 69:9 (LXX 68:10) QUOTATION**
 > - **ὁ ζῆλος τοῦ οἴκου σου καταφάγεταί με** = "the zeal of your house will consume me." Quoted from Psalm 69:9 (LXX 68:10). The Hebrew original reads: כִּי־קִנְאַת בֵּיתְךָ אֲכָלָתְנִי (*ki-qin'at beytekha akhalatni*) = "for the zeal of your house has consumed me" — past tense. The LXX (the ancient Greek translation) renders the verb as future: καταφάγεταί (*kataphagetai*) = "will consume." John follows the LXX future tense, which shifts the psalm from a past lament to a prophetic anticipation. The "zeal" (*zēlos*) that will "consume" Yeshua points forward to the passion — his zeal for God's house will lead to his death.
@@ -331,7 +328,7 @@ His followers remembered that it is written, "The zeal of your house will consum
 
 Then the Yehudim answered and said to him, "What sign do you show us, *seeing* that you do these things?"
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟡 **DEMAND FOR A SIGN — AUTHORITY QUESTION**
 > - The Yehudim demand a **σημεῖον** (*sēmeion*) — a sign authenticating Yeshua (Jesus)'s authority to disrupt the temple operations. The demand assumes that prophetic or messianic actions require validating credentials. The irony: Jesus has just performed the first sign (v.11), but this audience was not present at Qanah. They demand what has already been given elsewhere.
@@ -345,7 +342,7 @@ Then the Yehudim answered and said to him, "What sign do you show us, *seeing* t
 
 Yeshua (Jesus) answered and said to them, @@"Destroy this sanctuary, and in three days I will raise it up."@@
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔴 **CRITICAL — ναός (*NAOS*), NOT ἱερόν (*HIERON*)**
 > - **λύσατε τὸν ναὸν τοῦτον** = "destroy this *naos*." Yeshua switches from *hieron* (the temple complex, v.14) to *naos* (the inner sanctuary). The *naos* is the sacred core — the dwelling place of God's presence, the holy of holies. The narrator will explain (v.21) that Yeshua was speaking about his body as the *naos*. The shift from *hieron* to *naos* is deliberate — the body is not the "temple complex" (the institutional structure) but the "sanctuary" (the dwelling place of divine presence).
@@ -362,7 +359,7 @@ Yeshua (Jesus) answered and said to them, @@"Destroy this sanctuary, and in thre
 
 Then the Yehudim said, "This sanctuary was built *over* forty-six years, and you will raise it up in three days?"
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟢 **"FORTY-SIX YEARS" — τεσσεράκοντα καὶ ἓξ ἔτεσιν**
 > - Herod the Great began the temple renovation/expansion in approximately 20/19 BCE (Josephus, *Antiquities* 15.380). Forty-six years from that date yields approximately 27/28 CE — a dating marker for the chronology of Yeshua's ministry. The construction was technically still ongoing (it was not completed until approximately 63 CE, only seven years before its destruction in 70 CE). The verb **οἰκοδομήθη** (*oikodomēthē*) = aorist passive, "was built" — summarizing the construction as a completed whole, even though work continued.
@@ -373,7 +370,7 @@ Then the Yehudim said, "This sanctuary was built *over* forty-six years, and you
 
 But he was speaking about the sanctuary of his body.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔴 **CRITICAL — NARRATOR'S RETROSPECTIVE EXPLANATION**
 > - **ἐκεῖνος δὲ ἔλεγεν περὶ τοῦ ναοῦ τοῦ σώματος αὐτοῦ** = "but that one was speaking about the *naos* of his body." This is the narrator's interpretive comment, inserted to guide the reader. The imperfect **ἔλεγεν** (*elegen*) = "he was speaking" — the narrator explains what Yeshua was saying all along. The identification body = *naos* (sanctuary, dwelling place of God) is explicit. This hermeneutical key is given by the narrator, not by Yeshua — within the story, the Yehudim do not receive this explanation.
@@ -387,7 +384,7 @@ But he was speaking about the sanctuary of his body.
 
 When therefore he was raised from *the* dead, his followers remembered that he said this, and they trusted the scripture and the word that Yeshua (Jesus) had spoken.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔵 **"WAS RAISED" — ἠγέρθη (AORIST PASSIVE)**
 > - **ἠγέρθη** (*ēgerthē*) = aorist passive of ἐγείρω (*egeirō*) = "was raised." The passive voice implies an agent: he was raised (by God). This contrasts with v.19 where Jesus says "I will raise it up" (active) — suggesting both divine agency and self-agency in the resurrection. The tension between passive and active voice is preserved, not resolved.
@@ -404,7 +401,7 @@ When therefore he was raised from *the* dead, his followers remembered that he s
 
 And when he was in Yerushalayim (Jerusalem) at the Passover, at the feast, many trusted in his name, seeing the signs that he was doing.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🟡 **TRUST BASED ON SIGNS — QUALIFIED**
 > - **πολλοὶ ἐπίστευσαν εἰς τὸ ὄνομα αὐτοῦ** = "many trusted in his name." The trust described here is prompted by signs — the same basis as the followers' trust at v.11. But the following verses (24–25) will qualify this trust as insufficient. John distinguishes between sign-prompted trust (which Yeshua (Jesus) does not reciprocate) and a deeper trust. The Greek is identical in form to v.11 — the difference is in Jesus's response to it.
@@ -418,7 +415,7 @@ And when he was in Yerushalayim (Jerusalem) at the Passover, at the feast, many 
 
 But Yeshua (Jesus) himself was not entrusting himself to them, because he knew all *people*,
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔴 **CRITICAL — WORDPLAY ON *PISTEUŌ* (TRUST/ENTRUST)**
 > - **αὐτὸς δὲ Ἰησοῦς οὐκ ἐπίστευεν αὑτὸν αὐτοῖς** = "but Jesus himself was not entrusting himself to them." The verb **πιστεύω** (*pisteuō*) is used in v.23 for the crowd's trust in Jesus and in v.24 for Jesus's non-trust toward the crowd. The wordplay is untranslatable without preserving the same verb root: they *trusted* in him, but he did not *entrust* himself to them. The imperfect **ἐπίστευεν** (*episteuen*) = ongoing non-trust — habitual, not a one-time decision.
@@ -432,7 +429,7 @@ But Yeshua (Jesus) himself was not entrusting himself to them, because he knew a
 
 and because he had no need that anyone should testify concerning the human being — for he himself knew what was in the human being.
 
-> **📝 NOTES**
+> **NOTES**
 >
 > 🔵 **"THE HUMAN BEING" — τοῦ ἀνθρώπου / τῷ ἀνθρώπῳ**
 > - **τί ἦν ἐν τῷ ἀνθρώπῳ** = "what was in the human being." The article **τῷ** (*tō*) is generic — "the human being" as a category, not a specific person. Yeshua (Jesus)'s knowledge is not limited to certain individuals; it extends to human nature itself. The statement is anthropological: he knows what humans are. The chapter that began with a wedding ends with a statement about the unreliability of human nature.

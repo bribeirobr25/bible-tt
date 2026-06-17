@@ -27,17 +27,15 @@
 
 ## GUIA DE LEITURA
 
-**📖 Texto Principal:** Tradução primária—legível mas fiel à estrutura hebraica
-**📝 Notas:** Características hebraicas essenciais imediatamente abaixo de cada versículo
-***Itálico:*** Palavras adicionadas para a gramática portuguesa (não presentes no texto hebraico)
-**"Aspas":** Discurso divino direto
-**YHWH:** Tetragrama transliterado consonantalmente (Regra 25, Opção A)
+**Texto Principal:** Tradução primária — legível, mas fiel à estrutura hebraica. **Notas:** Recursos hebraicos essenciais logo abaixo de cada versículo.
 
-**Ícones das Notas:**
-- 🔴 **CRÍTICO** - Decisões textuais ou tradutórias importantes
-- 🟢 **LEXICAL** - Significados de palavras, padrões de raízes, termos do glossário
-- 🔵 **GRAMATICAL** - Estrutura hebraica, formas verbais, sintaxe
-- 🟡 **TEOLÓGICO** - Opções interpretativas, preservação de ambiguidade
+**Como o texto é marcado:**
+- *Palavras em itálico* — acrescentadas para a gramática do português (não estão no texto hebraico)
+- {t:raqia} — termos hebraicos transliterados, mantidos sem tradução (explicados nas notas)
+- {a:vento/espírito} — uma palavra que o hebraico deixa aberta a dois sentidos, ambos mantidos
+- @@"…"@@ — fala direta de Deus
+
+As notas são marcadas por tipo — **Crítico · Lexical · Gramatical · Teológico** — cada uma com sua cor (veja a legenda no topo da visão de Notas).
 
 **Este capítulo contém a aliança pós-dilúvio, a proibição do sangue e o incidente de Cham/Kenaan.** A bênção de 9:1 ecoa Gn 1:28. A aliança (9:8–17) é a primeira *berit* plenamente revelada, com o arco (*qesheth*) como sinal. A primeira fala registrada de Noach (9:25–27) — após capítulos de silêncio — é uma maldição. O texto diz que Cham "viu a nudez do seu pai"; a TT traduz o que o texto diz, não o que ele pode significar.
 
@@ -81,7 +79,7 @@
 
 E Deus abençoou Noach (Noé) e seus filhos e disse-lhes: @@"Frutificai e multiplicai-vos e enchei a terra.@@
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **"FRUTIFICAI E MULTIPLICAI-VOS" — GN 1:28 REPETIDO**
 > - **פְּרוּ וּרְבוּ וּמִלְאוּ אֶת־הָאָרֶץ** = "Frutificai e multiplicai-vos e enchei a terra." Quase idêntico a Gn 1:28, mas Gn 9:1 omite a linguagem de domínio ("sujeitai-a" *kivshuha* + "dominai" *urdu*). → Para comparação completa de re-criação, veja o companheiro §A1.
@@ -92,7 +90,7 @@ E Deus abençoou Noach (Noé) e seus filhos e disse-lhes: @@"Frutificai e multip
 
 @@E o temor de vós e o pavor de vós serão sobre todo vivente da terra, e sobre toda ave dos céus, em tudo em que o solo fervilha, e em todos os peixes do mar; em vossa mão são entregues.@@
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **TEMOR SUBSTITUI DOMÍNIO**
 > - Gn 1:28: "dominai (*radah*) sobre os peixes… ave… todo vivente." Gn 9:2: "o temor de vós e o pavor de vós (*mora'akhem ve-chitkhem*) serão sobre todo vivente." A relação humano-animal muda de *radah* (domínio/governo) para *mora* e *chit* (temor e pavor). A relação pré-dilúvio era de governança; a relação pós-dilúvio é de terror.
@@ -106,7 +104,7 @@ E Deus abençoou Noach (Noé) e seus filhos e disse-lhes: @@"Frutificai e multip
 
 @@Todo ser que se move, que *é* vivo, será para alimento para vós; como a erva verde, dei-vos tudo.@@
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **COMER CARNE PERMITIDO — NOVO**
 > - Gn 1:29: "toda planta que dá semente… toda árvore" → alimento humano era vegetal. Gn 9:3: "todo ser que se move, que é vivo" → carne agora é permitida. "Como a erva verde" (*ke-yerek esev*) — a comparação é explícita: carne agora é dada assim como plantas foram dadas. A dieta pós-dilúvio é mais ampla.
@@ -117,7 +115,7 @@ E Deus abençoou Noach (Noé) e seus filhos e disse-lhes: @@"Frutificai e multip
 
 @@Somente carne com a sua vida — o seu sangue — não comereis.@@
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **CRÍTICO — PROIBIÇÃO DO SANGUE**
 > - **אַךְ־בָּשָׂר בְּנַפְשׁוֹ דָמוֹ לֹא תֹאכֵלוּ** = "Somente carne com a sua *nephesh* (vida), o seu sangue, não comereis." O sangue É a *nephesh* (força vital). Sangue e vida são equiparados — esta identificação se torna fundamental para Lv 17:11 ("a *nephesh* da carne está no sangue").
@@ -129,7 +127,7 @@ E Deus abençoou Noach (Noé) e seus filhos e disse-lhes: @@"Frutificai e multip
 
 @@E certamente o vosso sangue das vossas vidas requererei; da mão de todo vivente o requererei, e da mão do humano, da mão de um homem, do seu irmão, requererei a vida do humano.@@
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **"REQUEREREI" — TRÍPLICE**
 > - **אֶדְרֹשׁ** (*edrosh*) = "requererei/buscarei" — repetido três vezes. Deus requererá prestação de contas pelo sangue humano: (1) de todo vivente (animais que matam humanos), (2) do humano (humanos que matam humanos), (3) de um homem e seu irmão (violência fraticida — ecoando Qayin).
@@ -140,7 +138,7 @@ E Deus abençoou Noach (Noé) e seus filhos e disse-lhes: @@"Frutificai e multip
 
 @@Quem derramar o sangue do humano, pelo humano o seu sangue será derramado, pois à imagem de Deus fez o humano.@@
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **CRÍTICO — ESTRUTURA QUIÁSTICA**
 > - **שֹׁפֵךְ דַּם הָאָדָם בָּאָדָם דָּמוֹ יִשָּׁפֵךְ** = quiasmo (estrutura espelhada) A-B-C / C'-B'-A'. "Derramador-de / sangue-de / o-humano // pelo-humano / o-seu-sangue / será-derramado." O hebraico espelha o ato em sua estrutura: a sentença se dobra sobre si mesma como a retribuição que descreve. Intraduzível em português — anotado.
@@ -154,7 +152,7 @@ E Deus abençoou Noach (Noé) e seus filhos e disse-lhes: @@"Frutificai e multip
 
 @@E vós, frutificai e multiplicai-vos, fervilhai sobre a terra e multiplicai-vos nela."@@
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **"FERVILHAI" (*shirtsu*)**
 > - **שִׁרְצוּ** = "fervilhai" — o mesmo verbo aplicado a peixes e criaturas pequenas em Gn 1:20. Agora aplicado a humanos. Os descendentes de Noach são instruídos a "fervilhar" como as criaturas do Dia 5. Incomum, vívido.
@@ -171,7 +169,7 @@ E Deus disse a Noé e a seus filhos com ele, dizendo:
 
 @@"E eu, eis que eu *estou* estabelecendo a minha aliança convosco e com a vossa semente após vós,@@
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **TERMOS DA ALIANÇA REVELADOS**
 > - Gn 6:18: berit anunciada mas não detalhada. Gn 9:9–17: termos completos revelados. Esta é a primeira aliança plenamente articulada na Bíblia. É unilateral — Deus se compromete; nenhuma obrigação humana é estipulada como condição.
@@ -185,7 +183,7 @@ E Deus disse a Noé e a seus filhos com ele, dizendo:
 
 @@e com todo ser vivente que *está* convosco — a ave, o gado e todo vivente da terra convosco — de todos os que saem da {t:tebah}, a todo vivente da terra.@@
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟡 **ALIANÇA INCLUI ANIMAIS**
 > - A aliança não é entre Deus e humanos apenas. Ela inclui explicitamente "todo ser vivente" — aves, gado, todo vivente. A *berit* abrange todos os sobreviventes da tebah e seus descendentes. A criação não humana é parte da aliança.
@@ -202,7 +200,7 @@ E Deus disse a Noé e a seus filhos com ele, dizendo:
 
 E Deus disse: @@"Este *é* o sinal da aliança que eu *estou* dando entre mim e entre vós e entre todo ser vivente que *está* convosco, para gerações de perpetuidade:@@
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **"GERAÇÕES DE PERPETUIDADE" (*dorot olam*)**
 > - **לְדֹרֹת עוֹלָם** (*ledorot olam*) = "para gerações de perpetuidade/eternidade." *Olam* = longa duração, perpetuidade. A aliança não tem data de expiração. Não está condicionada ao comportamento humano.
@@ -213,7 +211,7 @@ E Deus disse: @@"Este *é* o sinal da aliança que eu *estou* dando entre mim e 
 
 @@o meu arco coloquei na nuvem, e será para sinal da aliança entre mim e entre a terra.@@
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **CRÍTICO — "MEU ARCO" (*qashti*)**
 > - **קַשְׁתִּי** (*qashti*) = "meu arco." A palavra **קֶשֶׁת** (*qesheth*) predominantemente significa **arco de guerra** na BH; Deus depõe sua arma no céu como sinal de paz. A TT traduz "arco" — **POSSÍVEL** para ambos os sentidos ('arco-íris' / 'arco de guerra') ao ouvinte antigo. → Para discussão completa da semântica marcial, veja o companheiro §A5 + §D1.
@@ -233,7 +231,7 @@ E Deus disse: @@"Este *é* o sinal da aliança que eu *estou* dando entre mim e 
 
 @@e eu me lembrarei da minha aliança que *está* entre mim e entre vós e entre todo ser vivente em toda carne, e as águas não se tornarão mais em dilúvio para destruir toda carne.@@
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟡 **"EU ME LEMBRAREI" (*zacharti*)**
 > - **וְזָכַרְתִּי** = "e eu me lembrarei." Mesmo verbo de 8:1 ("Deus lembrou-se de Noach"). O arco funciona como um lembrete para Deus — o texto atribui isto à perspectiva divina, não à humana. O sinal é para Deus ver, não primariamente para os humanos.
@@ -244,7 +242,7 @@ E Deus disse: @@"Este *é* o sinal da aliança que eu *estou* dando entre mim e 
 
 @@E o arco estará na nuvem, e eu o verei para lembrar a aliança de perpetuidade entre Deus e entre todo ser vivente em toda carne que *está* sobre a terra."@@
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **"EU O VEREI"**
 > - **וּרְאִיתִיהָ** = "e eu o verei." Deus vê o arco → Deus lembra a aliança → o dilúvio não retorna. O mecanismo é percepção divina levando a contenção divina. O arco é um sinal mnemônico dirigido a Deus.
@@ -261,7 +259,7 @@ E Deus disse a Noé: @@"Este *é* o sinal da aliança que eu estabeleci entre mi
 
 E os filhos de Noé que saíram da {t:tebah} foram Shem e Cham (Cam) e Yafet (Jafé); e Cam *é* o pai de Kenaan (Canaã).
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **"CHAM É O PAI DE KENAAN"**
 > - Esta nota parentética antecipa o incidente de Cam/Canaã (vv.20–27). O narrador nomeia Canaã antes do evento — identificando a linhagem que será amaldiçoada. A inserção é prospectiva: prepara o leitor para o que se segue.
@@ -278,7 +276,7 @@ Estes três *são* os filhos de Noé, e destes toda a terra se espalhou.
 
 E Noé começou *como* homem do solo e plantou uma vinha.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **"HOMEM DO SOLO" (*ish ha-adamah*)**
 > - **אִישׁ הָאֲדָמָה** = "homem do solo." *Adamah* = solo — a mesma palavra de que *adam* foi formado (Gn 2:7). Noach é a primeira pessoa identificada por ocupação após o dilúvio: um agricultor, um homem da *adamah*. Ecoa Qayin, que também era "lavrador do solo" (4:2).
@@ -292,7 +290,7 @@ E Noé começou *como* homem do solo e plantou uma vinha.
 
 E bebeu do vinho e embriagou-se, e descobriu-se no meio da sua tenda.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **"DESCOBRIU-SE" (*vayyitgal*)**
 > - **וַיִּתְגַּל** = hitpael de גָּלָה (*galah*, descobrir). A forma reflexiva: ele descobriu **a si mesmo**. O texto atribui a nudez inicial à própria ação de Noach (embriagar-se e descobrir-se), não a Cham.
@@ -303,7 +301,7 @@ E bebeu do vinho e embriagou-se, e descobriu-se no meio da sua tenda.
 
 E Cam, o pai de Canaã, viu a nudez do seu pai, e contou aos seus dois irmãos lá fora.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **CRÍTICO — "VIU A NUDEZ"**
 > - **וַיַּרְא… אֵת עֶרְוַת אָבִיו** (*vayyar… et ervat aviv*) = "e *ele* viu a nudez do seu pai." O texto diz **VIU** — não גלה (*galah*, descobriu), que é o verbo eufemístico de Lv 18–20 para atos sexuais. A TT traduz o texto de superfície: "viu." Regra 2: o texto diz "viu," traduzimos "viu." As leituras secundárias (voyeurismo, violação sexual, incesto materno) e o debate acadêmico associado são discutidos no companheiro.
@@ -318,7 +316,7 @@ E Cam, o pai de Canaã, viu a nudez do seu pai, e contou aos seus dois irmãos l
 
 E Shem e Jafé tomaram a veste e a colocaram sobre o ombro dos dois, e andaram de costas, e cobriram a nudez do seu pai; e os seus rostos *estavam* voltados para trás, e a nudez do seu pai não viram.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **CONTRASTE DELIBERADO**
 > - Cam: viu. Shem e Jafé: andaram de costas, rostos voltados, não viram. O contraste é total e deliberado. O ato deles repara o que o ato de Cam danificou.
@@ -332,7 +330,7 @@ E Shem e Jafé tomaram a veste e a colocaram sobre o ombro dos dois, e andaram d
 
 E Noé despertou do seu vinho, e soube o que seu filho mais novo lhe havia feito.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **"SEU FILHO MAIS NOVO" (*beno ha-qatan*)**
 > - **בְּנוֹ הַקָּטָן** = "seu filho mais novo/menor." Cham é listado como filho do meio em toda genealogia (Shem, Cham, Yafet); chamá-lo *qatan* aqui cria uma aparente contradição. → Para as propostas (leitura por ordem de nascimento vs. status moral), veja o companheiro §G3.
@@ -346,7 +344,7 @@ E Noé despertou do seu vinho, e soube o que seu filho mais novo lhe havia feito
 
 E disse: "Maldito *seja* Canaã; servo de servos será para os seus irmãos."
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔴 **CRÍTICO — KENAAN AMALDIÇOADO, NÃO CHAM**
 > - **אָרוּר כְּנָעַן** = "Maldito Kenaan." O texto não explica por que Kenaan, e não Cham, foi amaldiçoado; principais propostas (punição-através-da-descendência; etiológica — subjugação posterior de Canaã por Israel). **POSSÍVEL**; nenhuma comprovada. → Para discussão completa, veja o companheiro §G1.
@@ -363,7 +361,7 @@ E disse: "Maldito *seja* Canaã; servo de servos será para os seus irmãos."
 
 E disse: "Bendito *seja* YHWH, Deus de Shem, e que Canaã seja servo deles.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟡 **"BENDITO SEJA YHWH, DEUS DE SHEM"**
 > - **בָּרוּךְ יהוה אֱלֹהֵי שֵׁם** = "Bendito YHWH, Deus de Shem." Noach abençoa Deus, não Shem diretamente. YHWH é identificado como "Deus de Shem" — a primeira vez que Deus é chamado o Deus de uma pessoa específica. Isto antecipa "Deus de Abraão" (Gn 26:24), "Deus de Isaque" (Gn 28:13), "Deus de Israel."
@@ -377,7 +375,7 @@ E disse: "Bendito *seja* YHWH, Deus de Shem, e que Canaã seja servo deles.
 
 Alargue Deus a Jafé, e habite ele nas tendas de Shem, e que Canaã seja servo deles.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🟢 **"ALARGUE" (*yaft*) — JOGO DE PALAVRAS**
 > - **יַפְתְּ אֱלֹהִים לְיֶפֶת** (*yaft elohim le-Yefet*) = "alargue Deus a *Yefet*." O verbo *yaft* (alargar, da raiz פ-ת-ה) é um jogo com o nome Yafet/Yefet. Assim como com Noach/nacham e Shem/shem, o nome carrega o destino.
@@ -397,7 +395,7 @@ E Noé viveu após o dilúvio trezentos e cinquenta anos.
 
 E todos os dias de Noé foram novecentos e cinquenta anos, e morreu.
 
-> **📝 NOTAS**
+> **NOTAS**
 >
 > 🔵 **FÓRMULA DE MORTE**
 > - Mesma fórmula da genealogia de Gn 5: "todos os dias de X foram Y anos, e morreu." A vida de Noé se conclui com a mesma estrutura de seus ancestrais. A cadeia genealógica continua.
