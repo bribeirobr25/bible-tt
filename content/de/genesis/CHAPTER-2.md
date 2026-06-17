@@ -69,11 +69,11 @@
 
 ⁸Und JHWH Elohim pflanzte einen Garten in Eden, im Osten, und setzte dort den Menschen, den er geformt hatte. ⁹Und JHWH Elohim ließ sprossen aus dem Boden jeden Baum, lieblich anzusehen und gut zur Speise, und den Baum des Lebens in der Mitte des Gartens, und den Baum der Erkenntnis des Guten und Bösen. ¹⁰Und *ein* Strom ging aus von Eden, den Garten zu bewässern, und von dort teilte er sich und wurde zu vier Häuptern. ¹¹Der Name des einen *ist* Pischon; *er ist* der, welcher umfließt das ganze Land Hawila, wo das Gold *ist*. ¹²Und das Gold jenes Landes *ist* gut; dort *ist* das Bedolach und der Stein Schoham. ¹³Und der Name des zweiten Stroms *ist* Gichon; *er ist* der, welcher umfließt das ganze Land Kusch. ¹⁴Und der Name des dritten Stroms *ist* Hiddekel; *er ist* der, welcher östlich von Aschschur fließt. Und der vierte Strom, das *ist* Perat.
 
-¹⁵Und JHWH Elohim nahm den Menschen und setzte ihn in den Garten Eden, ihn zu bearbeiten und ihn zu hüten. ¹⁶Und JHWH Elohim gebot dem Menschen, sprechend: „Von jedem Baum des Gartens essend sollst du essen. ¹⁷Aber vom Baum der Erkenntnis des Guten und Bösen, nicht sollst du essen davon, denn am Tag deines Essens davon sterbend sollst du sterben."
+¹⁵Und JHWH Elohim nahm den Menschen und setzte ihn in den Garten Eden, ihn zu bearbeiten und ihn zu hüten. ¹⁶Und JHWH Elohim gebot dem Menschen, sprechend: @@„Von jedem Baum des Gartens essend sollst du essen. ¹⁷Aber vom Baum der Erkenntnis des Guten und Bösen, nicht sollst du essen davon, denn am Tag deines Essens davon sterbend sollst du sterben."@@
 
-¹⁸Und JHWH Elohim sprach: „Nicht gut, dass der Mensch allein *sei*; ich will ihm machen *eine* Hilfe als sein Gegenüber." ¹⁹Und JHWH Elohim formte aus dem Boden jedes Lebewesen des Feldes und jeden Vogel des Himmels, und brachte *sie* zum Menschen, zu sehen, wie er es nennen würde; und alles, was der Mensch *jedem* lebendigen Wesen zurief, das *war* sein Name. ²⁰Und der Mensch gab Namen allem Vieh, und den Vögeln des Himmels, und jedem Lebewesen des Feldes, aber für den Menschen fand er keine Hilfe als sein Gegenüber.
+¹⁸Und JHWH Elohim sprach: @@„Nicht gut, dass der Mensch allein *sei*; ich will ihm machen *eine* Hilfe als sein Gegenüber."@@ ¹⁹Und JHWH Elohim formte aus dem Boden jedes Lebewesen des Feldes und jeden Vogel des Himmels, und brachte *sie* zum Menschen, zu sehen, wie er es nennen würde; und alles, was der Mensch *jedem* lebendigen Wesen zurief, das *war* sein Name. ²⁰Und der Mensch gab Namen allem Vieh, und den Vögeln des Himmels, und jedem Lebewesen des Feldes, aber für den Menschen fand er keine Hilfe als sein Gegenüber.
 
-²¹Und JHWH Elohim ließ einen tiefen Schlaf auf den Menschen fallen, und er schlief; und er nahm eine von seinen Seiten/Rippen, und schloss Fleisch an ihrer Stelle. ²²Und JHWH Elohim baute die Seite/Rippe, die er vom Menschen genommen hatte, zu *einer* Frau, und brachte sie zum Menschen. ²³Und der Mensch sprach: „Diese, dieses *Mal*, Bein von meinen Beinen und Fleisch von meinem Fleisch; diese wird genannt werden *ishah* (Frau), denn vom *ish* (Mann) wurde diese genommen." ²⁴Darum wird *ein* Mann seinen Vater und seine Mutter verlassen und sich an seine Frau hängen, und sie werden zu einem Fleisch werden. ²⁵Und sie waren beide nackt, der Mensch und seine Frau, und sie schämten sich nicht.
+²¹Und JHWH Elohim ließ einen tiefen Schlaf auf den Menschen fallen, und er schlief; und er nahm eine von seinen {a:Seiten/Rippen}, und schloss Fleisch an ihrer Stelle. ²²Und JHWH Elohim baute die {a:Seite/Rippe}, die er vom Menschen genommen hatte, zu *einer* Frau, und brachte sie zum Menschen. ²³Und der Mensch sprach: „Diese, dieses *Mal*, Bein von meinen Beinen und Fleisch von meinem Fleisch; diese wird genannt werden *ishah* (Frau), denn vom *ish* (Mann) wurde diese genommen." ²⁴Darum wird *ein* Mann seinen Vater und seine Mutter verlassen und sich an seine Frau hängen, und sie werden zu einem Fleisch werden. ²⁵Und sie waren beide nackt, der Mensch und seine Frau, und sie schämten sich nicht.
 
 ---
 
@@ -284,7 +284,7 @@ Und JHWH Elohim nahm den Menschen und setzte ihn in den Garten Eden, ihn zu bear
 
 ### **Vers 16**
 
-Und JHWH Elohim gebot dem Menschen, sprechend: „Von jedem Baum des Gartens essend sollst du essen.
+Und JHWH Elohim gebot dem Menschen, sprechend: @@„Von jedem Baum des Gartens essend sollst du essen.@@
 
 > **📝 NOTIZEN**
 >
@@ -296,7 +296,7 @@ Und JHWH Elohim gebot dem Menschen, sprechend: „Von jedem Baum des Gartens ess
 
 ### **Vers 17**
 
-Aber vom Baum der Erkenntnis des Guten und Bösen, nicht sollst du essen davon, denn am Tag deines Essens davon sterbend sollst du sterben."
+@@Aber vom Baum der Erkenntnis des Guten und Bösen, nicht sollst du essen davon, denn am Tag deines Essens davon sterbend sollst du sterben."@@
 
 > **📝 NOTIZEN**
 >
@@ -311,7 +311,7 @@ Aber vom Baum der Erkenntnis des Guten und Bösen, nicht sollst du essen davon, 
 
 ### **Vers 18**
 
-Und JHWH Elohim sprach: „Nicht gut, dass der Mensch allein *sei*; ich will ihm machen *eine* Hilfe als sein Gegenüber."
+Und JHWH Elohim sprach: @@„Nicht gut, dass der Mensch allein *sei*; ich will ihm machen *eine* Hilfe als sein Gegenüber."@@
 
 > **📝 NOTIZEN**
 >
@@ -359,7 +359,7 @@ Und der Mensch gab Namen allem Vieh, und den Vögeln des Himmels, und jedem Lebe
 
 ### **Vers 21**
 
-Und JHWH Elohim ließ einen tiefen Schlaf auf den Menschen fallen, und er schlief; und er nahm eine von seinen Seiten/Rippen, und schloss Fleisch an ihrer Stelle.
+Und JHWH Elohim ließ einen tiefen Schlaf auf den Menschen fallen, und er schlief; und er nahm eine von seinen {a:Seiten/Rippen}, und schloss Fleisch an ihrer Stelle.
 
 > **📝 NOTIZEN**
 >
@@ -373,7 +373,7 @@ Und JHWH Elohim ließ einen tiefen Schlaf auf den Menschen fallen, und er schlie
 
 ### **Vers 22**
 
-Und JHWH Elohim baute die Seite/Rippe, die er vom Menschen genommen hatte, zu *einer* Frau, und brachte sie zum Menschen.
+Und JHWH Elohim baute die {a:Seite/Rippe}, die er vom Menschen genommen hatte, zu *einer* Frau, und brachte sie zum Menschen.
 
 > **📝 NOTIZEN**
 >

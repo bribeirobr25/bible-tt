@@ -509,8 +509,8 @@ html.tt-js .reveal.in {
    teal = kept source term · ochre = two meanings · red = divine speech ·
    grammatical-blue italic = words added for target grammar. */
 .term { color: var(--color-accent); font-weight: 600; }
-.ambig { color: var(--color-ochre); font-weight: 600; }
-.divine { color: var(--color-note-critical); font-weight: 600; }
+.ambig { font-weight: 600; }
+.divine { color: var(--color-note-critical); }
 .reading-text em { color: var(--color-note-grammatical); font-style: italic; }
 
 /* collapsible disclosure (overview, supplementary, sources) */

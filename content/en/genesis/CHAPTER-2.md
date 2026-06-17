@@ -67,11 +67,11 @@
 
 ⁸And YHWH Elohim planted a garden in Eden from east, and placed there the human whom he had formed. ⁹And YHWH Elohim caused to sprout from the ground every tree pleasant to the sight and good for food, and the tree of the life in the midst of the garden, and the tree of the knowledge of good and evil. ¹⁰And *a* river going out from Eden to water the garden, and from there it divided and became four heads. ¹¹The name of the one *is* Pishon; it *is* the one going around all the land of Havilah, where *the* gold *is*. ¹²And the gold of that land *is* good; there *is* the bdellium and the stone shoham. ¹³And the name of the second river *is* Gihon; it *is* the one going around all the land of Cush. ¹⁴And the name of the third river *is* Hiddeqel; it *is* the one going east of Asshur. And the fourth river, that *is* Perat.
 
-¹⁵And YHWH Elohim took the human and placed him in the garden of Eden to work it and to keep it. ¹⁶And YHWH Elohim commanded upon the human, saying, "From every tree of the garden eating you shall eat. ¹⁷But from the tree of the knowledge of good and evil, you shall not eat from it, for in the day of your eating from it dying you shall die."
+¹⁵And YHWH Elohim took the human and placed him in the garden of Eden to work it and to keep it. ¹⁶And YHWH Elohim commanded upon the human, saying, @@"From every tree of the garden eating you shall eat. ¹⁷But from the tree of the knowledge of good and evil, you shall not eat from it, for in the day of your eating from it dying you shall die."@@
 
-¹⁸And YHWH Elohim said, "Not good the being of the human alone; I will make for him *a* helper as his counterpart." ¹⁹And YHWH Elohim formed from the ground every living thing of the field and every bird of the sky, and brought *them* to the human to see what he would call to it; and all that the human called to *each* living being, that *is* its name. ²⁰And the human called names to all the livestock, and to the bird of the sky, and to every living thing of the field, but for the human he did not find a helper as his counterpart.
+¹⁸And YHWH Elohim said, @@"Not good the being of the human alone; I will make for him *a* helper as his counterpart."@@ ¹⁹And YHWH Elohim formed from the ground every living thing of the field and every bird of the sky, and brought *them* to the human to see what he would call to it; and all that the human called to *each* living being, that *is* its name. ²⁰And the human called names to all the livestock, and to the bird of the sky, and to every living thing of the field, but for the human he did not find a helper as his counterpart.
 
-²¹And YHWH Elohim caused a deep sleep to fall upon the human, and he slept; and he took one of his sides/ribs, and closed flesh beneath it. ²²And YHWH Elohim built the side/rib which he had taken from the human into *a* woman, and brought her to the human. ²³And the human said, "This *one*, this time, bone from my bones and flesh from my flesh; to this *one* shall be called *ishah* (woman), for from *ish* (man) was this *one* taken." ²⁴Therefore shall *a* man leave his father and his mother and cling to his woman, and they shall become one flesh. ²⁵And they were both of them naked, the human and his woman, and they were not ashamed.
+²¹And YHWH Elohim caused a deep sleep to fall upon the human, and he slept; and he took one of his {a:sides/ribs}, and closed flesh beneath it. ²²And YHWH Elohim built the {a:side/rib} which he had taken from the human into *a* woman, and brought her to the human. ²³And the human said, "This *one*, this time, bone from my bones and flesh from my flesh; to this *one* shall be called *ishah* (woman), for from *ish* (man) was this *one* taken." ²⁴Therefore shall *a* man leave his father and his mother and cling to his woman, and they shall become one flesh. ²⁵And they were both of them naked, the human and his woman, and they were not ashamed.
 
 ---
 
@@ -287,7 +287,7 @@ And YHWH Elohim took the human and placed him in the garden of Eden to work it a
 
 ### **Verse 16**
 
-And YHWH Elohim commanded upon the human, saying, "From every tree of the garden eating you shall eat.
+And YHWH Elohim commanded upon the human, saying, @@"From every tree of the garden eating you shall eat.@@
 
 > **📝 NOTES**
 >
@@ -299,7 +299,7 @@ And YHWH Elohim commanded upon the human, saying, "From every tree of the garden
 
 ### **Verse 17**
 
-But from the tree of the knowledge of good and evil, you shall not eat from it, for in the day of your eating from it dying you shall die."
+@@But from the tree of the knowledge of good and evil, you shall not eat from it, for in the day of your eating from it dying you shall die."@@
 
 > **📝 NOTES**
 >
@@ -315,7 +315,7 @@ But from the tree of the knowledge of good and evil, you shall not eat from it, 
 
 ### **Verse 18**
 
-And YHWH Elohim said, "Not good the being of the human alone; I will make for him *a* helper as his counterpart."
+And YHWH Elohim said, @@"Not good the being of the human alone; I will make for him *a* helper as his counterpart."@@
 
 > **📝 NOTES**
 >
@@ -359,7 +359,7 @@ And the human called names to all the livestock, and to the bird of the sky, and
 
 ### **Verse 21**
 
-And YHWH Elohim caused a deep sleep to fall upon the human, and he slept; and he took one of his sides/ribs, and closed flesh beneath it.
+And YHWH Elohim caused a deep sleep to fall upon the human, and he slept; and he took one of his {a:sides/ribs}, and closed flesh beneath it.
 
 > **📝 NOTES**
 >
@@ -374,7 +374,7 @@ And YHWH Elohim caused a deep sleep to fall upon the human, and he slept; and he
 
 ### **Verse 22**
 
-And YHWH Elohim built the side/rib which he had taken from the human into *a* woman, and brought her to the human.
+And YHWH Elohim built the {a:side/rib} which he had taken from the human into *a* woman, and brought her to the human.
 
 > **📝 NOTES**
 >

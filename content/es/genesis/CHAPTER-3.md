@@ -64,21 +64,21 @@
 
 ---
 
-¹Y la serpiente era más astuta que todo ser vivo del campo que YHWH Elohim había hecho. Y dijo a la mujer: "De veras, ha dicho Dios, 'No comeran de todo árbol del jardín'?" ²Y la mujer dijo a la serpiente: "Del fruto de los árboles del jardín podemos comer, ³pero del fruto del árbol que *esta* en medio del jardín Dios dijo: 'No comeran de el, y no lo tocaran, no sea que mueran.'" ⁴Y la serpiente dijo a la mujer: "No muriendo moriran. ⁵Porque Dios sabe que en el día de su comer de él se abriran sus ojos, y seran como Dios/dioses, conociendo el bien y el mal."
+¹Y la serpiente era más astuta que todo ser vivo del campo que YHWH Elohim había hecho. Y dijo a la mujer: "De veras, ha dicho Dios, 'No comeran de todo árbol del jardín'?" ²Y la mujer dijo a la serpiente: "Del fruto de los árboles del jardín podemos comer, ³pero del fruto del árbol que *esta* en medio del jardín Dios dijo: 'No comeran de el, y no lo tocaran, no sea que mueran.'" ⁴Y la serpiente dijo a la mujer: "No muriendo moriran. ⁵Porque Dios sabe que en el día de su comer de él se abriran sus ojos, y seran como {a:Dios/dioses}, conociendo el bien y el mal."
 
 ⁶Y la mujer vio que el árbol *era* bueno para alimento, y que *era* deleite a los ojos, y que el árbol *era* deseable para hacer sabio; y tomó de su fruto y comió, y dio también a su hombre con ella, y él comió. ⁷Y los ojos de ambos se abrieron, y supieron que *estaban* desnudos; y cosieron hojas de higuera e hicieron para si coberturas de cintura.
 
-⁸Y oyeron la voz de YHWH Elohim caminando en el jardín al viento del día, y el humano y su mujer se escondieron de la faz de YHWH Elohim en medio del árbol del jardín. ⁹Y YHWH Elohim llamó al humano, y le dijo: "Donde *estas*?" ¹⁰Y dijo: "Tu voz oí en el jardín, y tuve miedo, porque *estoy* desnudo, y me escondi." ¹¹Y dijo: "Quien te dijo que *estas* desnudo? Del árbol que te mande no comer de el, has comido?" ¹²Y el humano dijo: "La mujer que tu diste *para estar* conmigo, ella me dio del árbol, y comi." ¹³Y YHWH Elohim dijo a la mujer: "Que *es* esto que has hecho?" Y la mujer dijo: "La serpiente me engañó, y comi."
+⁸Y oyeron la voz de YHWH Elohim caminando en el jardín al viento del día, y el humano y su mujer se escondieron de la faz de YHWH Elohim en medio del árbol del jardín. ⁹Y YHWH Elohim llamó al humano, y le dijo: @@"Donde *estas*?"@@ ¹⁰Y dijo: "Tu voz oí en el jardín, y tuve miedo, porque *estoy* desnudo, y me escondi." ¹¹Y dijo: @@"Quien te dijo que *estas* desnudo? Del árbol que te mande no comer de el, has comido?"@@ ¹²Y el humano dijo: "La mujer que tu diste *para estar* conmigo, ella me dio del árbol, y comi." ¹³Y YHWH Elohim dijo a la mujer: @@"Que *es* esto que has hecho?"@@ Y la mujer dijo: "La serpiente me engañó, y comi."
 
-¹⁴Y YHWH Elohim dijo a la serpiente: "Porque has hecho esto, maldita *eres* de todo ganado y de todo ser vivo del campo; sobre tu vientre iras, y polvo comeras todos los días de tu vida. ¹⁵Y enemistad pondre entre tu y entre la mujer, y entre tu simiente y entre su simiente; él te herira/golpeara *en la* cabeza, y tu le heriras/golpearas *en el* talon."
+¹⁴Y YHWH Elohim dijo a la serpiente: @@"Porque has hecho esto, maldita *eres* de todo ganado y de todo ser vivo del campo; sobre tu vientre iras, y polvo comeras todos los días de tu vida. ¹⁵Y enemistad pondre entre tu y entre la mujer, y entre tu simiente y entre su simiente; él te {a:herira/golpeara} *en la* cabeza, y tu le {a:heriras/golpearas} *en el* talon."@@
 
-¹⁶A la mujer dijo: "Multiplicando multiplicare tu fatiga y tu preñez; en fatiga pariras hijos. Y hacia tu hombre *sera* tu deseo/inclinación, y él gobernara sobre ti."
+¹⁶A la mujer dijo: @@"Multiplicando multiplicare tu fatiga y tu preñez; en fatiga pariras hijos. Y hacia tu hombre *sera* tu {a:deseo/inclinación}, y él gobernara sobre ti."@@
 
-¹⁷Y al humano dijo: "Porque has escuchado la voz de tu mujer, y has comido del árbol que te mande, diciendo: 'No comeras de el,' maldito *es* el suelo por tu causa; en fatiga comeras *de el* todos los días de tu vida. ¹⁸Y espina y cardo te producira, y comeras la hierba del campo. ¹⁹En el sudor de tu rostro comeras pan, hasta tu retorno al suelo, porque de él fuiste tomado; porque polvo *eres*, y al polvo retornaras."
+¹⁷Y al humano dijo: @@"Porque has escuchado la voz de tu mujer, y has comido del árbol que te mande, diciendo: 'No comeras de el,' maldito *es* el suelo por tu causa; en fatiga comeras *de el* todos los días de tu vida. ¹⁸Y espina y cardo te producira, y comeras la hierba del campo. ¹⁹En el sudor de tu rostro comeras pan, hasta tu retorno al suelo, porque de él fuiste tomado; porque polvo *eres*, y al polvo retornaras."@@
 
 ²⁰Y el humano llamó el nombre de su mujer Chava (Eva), porque ella fue madre de todo lo viviente. ²¹Y YHWH Elohim hizo para el humano y para su mujer vestiduras de piel, y los vistio.
 
-²²Y YHWH Elohim dijo: "He aquí, el humano ha llegado a ser como uno de nosotros para conocer el bien y el mal; y ahora, no sea que extienda su mano y tome también del árbol de la vida, y coma, y viva para siempre..." ²³Y YHWH Elohim lo envió fuera del jardín de Eden para trabajar el suelo del cual fue tomado. ²⁴Y expulsó al humano; e hizo habitar al oriente del jardín de Eden a los querubines, y la llama de la espada que gira, para guardar el camino del árbol de la vida.
+²²Y YHWH Elohim dijo: @@"He aquí, el humano ha llegado a ser como uno de nosotros para conocer el bien y el mal; y ahora, no sea que extienda su mano y tome también del árbol de la vida, y coma, y viva para siempre..."@@ ²³Y YHWH Elohim lo envió fuera del jardín de Eden para trabajar el suelo del cual fue tomado. ²⁴Y expulsó al humano; e hizo habitar al oriente del jardín de Eden a los querubines, y la llama de la espada que gira, para guardar el camino del árbol de la vida.
 
 ---
 
@@ -148,7 +148,7 @@ Y la serpiente dijo a la mujer: "No muriendo moriran.
 
 ### **Versículo 5**
 
-Porque Dios sabe que en el día de su comer de él se abriran sus ojos, y seran como Dios/dioses, conociendo el bien y el mal."
+Porque Dios sabe que en el día de su comer de él se abriran sus ojos, y seran como {a:Dios/dioses}, conociendo el bien y el mal."
 
 > **NOTAS**
 >
@@ -207,7 +207,7 @@ Y oyeron la voz de YHWH Elohim caminando en el jardín al viento del día, y el 
 
 ### **Versículo 9**
 
-Y YHWH Elohim llamó al humano, y le dijo: "Donde *estas*?"
+Y YHWH Elohim llamó al humano, y le dijo: @@"Donde *estas*?"@@
 
 > **NOTAS**
 >
@@ -229,7 +229,7 @@ Y dijo: "Tu voz oí en el jardín, y tuve miedo, porque *estoy* desnudo, y me es
 
 ### **Versículo 11**
 
-Y dijo: "Quien te dijo que *estas* desnudo? Del árbol que te mande no comer de el, has comido?"
+Y dijo: @@"Quien te dijo que *estas* desnudo? Del árbol que te mande no comer de el, has comido?"@@
 
 > **NOTAS**
 >
@@ -251,7 +251,7 @@ Y el humano dijo: "La mujer que tu diste *para estar* conmigo, ella me dio del �
 
 ### **Versículo 13**
 
-Y YHWH Elohim dijo a la mujer: "Que *es* esto que has hecho?" Y la mujer dijo: "La serpiente me engañó, y comi."
+Y YHWH Elohim dijo a la mujer: @@"Que *es* esto que has hecho?"@@ Y la mujer dijo: "La serpiente me engañó, y comi."
 
 > **NOTAS**
 >
@@ -262,7 +262,7 @@ Y YHWH Elohim dijo a la mujer: "Que *es* esto que has hecho?" Y la mujer dijo: "
 
 ### **Versículo 14**
 
-Y YHWH Elohim dijo a la serpiente: "Porque has hecho esto, maldita *eres* de todo ganado y de todo ser vivo del campo; sobre tu vientre iras, y polvo comeras todos los días de tu vida.
+Y YHWH Elohim dijo a la serpiente: @@"Porque has hecho esto, maldita *eres* de todo ganado y de todo ser vivo del campo; sobre tu vientre iras, y polvo comeras todos los días de tu vida.@@
 
 > **NOTAS**
 >
@@ -277,7 +277,7 @@ Y YHWH Elohim dijo a la serpiente: "Porque has hecho esto, maldita *eres* de tod
 
 ### **Versículo 15**
 
-Y enemistad pondre entre tu y entre la mujer, y entre tu simiente y entre su simiente; él te herira/golpeara *en la* cabeza, y tu le heriras/golpearas *en el* talon."
+@@Y enemistad pondre entre tu y entre la mujer, y entre tu simiente y entre su simiente; él te {a:herira/golpeara} *en la* cabeza, y tu le {a:heriras/golpearas} *en el* talon."@@
 
 > **NOTAS**
 >
@@ -299,7 +299,7 @@ Y enemistad pondre entre tu y entre la mujer, y entre tu simiente y entre su sim
 
 ### **Versículo 16**
 
-A la mujer dijo: "Multiplicando multiplicare tu fatiga y tu preñez; en fatiga pariras hijos. Y hacia tu hombre *sera* tu deseo/inclinación, y él gobernara sobre ti."
+A la mujer dijo: @@"Multiplicando multiplicare tu fatiga y tu preñez; en fatiga pariras hijos. Y hacia tu hombre *sera* tu {a:deseo/inclinación}, y él gobernara sobre ti."@@
 
 > **NOTAS**
 >
@@ -321,7 +321,7 @@ A la mujer dijo: "Multiplicando multiplicare tu fatiga y tu preñez; en fatiga p
 
 ### **Versículo 17**
 
-Y al humano dijo: "Porque has escuchado la voz de tu mujer, y has comido del árbol que te mande, diciendo: 'No comeras de el,' maldito *es* el suelo por tu causa; en fatiga comeras *de el* todos los días de tu vida.
+Y al humano dijo: @@"Porque has escuchado la voz de tu mujer, y has comido del árbol que te mande, diciendo: 'No comeras de el,' maldito *es* el suelo por tu causa; en fatiga comeras *de el* todos los días de tu vida.@@
 
 > **NOTAS**
 >
@@ -335,7 +335,7 @@ Y al humano dijo: "Porque has escuchado la voz de tu mujer, y has comido del ár
 
 ### **Versículo 18**
 
-Y espina y cardo te producira, y comeras la hierba del campo.
+@@Y espina y cardo te producira, y comeras la hierba del campo.@@
 
 > **NOTAS**
 >
@@ -346,7 +346,7 @@ Y espina y cardo te producira, y comeras la hierba del campo.
 
 ### **Versículo 19**
 
-En el sudor de tu rostro comeras pan, hasta tu retorno al suelo, porque de él fuiste tomado; porque polvo *eres*, y al polvo retornaras."
+@@En el sudor de tu rostro comeras pan, hasta tu retorno al suelo, porque de él fuiste tomado; porque polvo *eres*, y al polvo retornaras."@@
 
 > **NOTAS**
 >
@@ -384,7 +384,7 @@ Y YHWH Elohim hizo para el humano y para su mujer vestiduras de piel, y los vist
 
 ### **Versículo 22**
 
-Y YHWH Elohim dijo: "He aquí, el humano ha llegado a ser como uno de nosotros para conocer el bien y el mal; y ahora, no sea que extienda su mano y tome también del árbol de la vida, y coma, y viva para siempre..."
+Y YHWH Elohim dijo: @@"He aquí, el humano ha llegado a ser como uno de nosotros para conocer el bien y el mal; y ahora, no sea que extienda su mano y tome también del árbol de la vida, y coma, y viva para siempre..."@@
 
 > **NOTAS**
 >
