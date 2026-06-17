@@ -36,3 +36,32 @@ Decision log for the TT rendering of Mark, per RULES-CORE §Editorial Log Specif
 - **1:41 σπλαγχνισθείς ("moved with compassion") vs ὀργισθείς ("moved with anger")** — NA28 reads "compassion"; the "anger" reading (Codex Bezae D + Old Latin) is the *lectio difficilior* and is text-critically significant. Flagged 🔴 CRITICAL with both readings.
 
 **Status:** provisional. Reviewers unassigned. Source-analysis corpus entry: `docs/source-analysis/greek/mark-1.md`.
+
+---
+
+## Entry 2026-06-18-002 — Mark 2–3 (EN)
+
+**Scope:** Mark 2 (28 v.) and Mark 3 (35 v.), EN, full chapter depth. Carries forward the audit lessons from ch. 1 (Continuous Reading uses first-occurrence-then-familiar names; Verse-by-Verse reintroduces per verse).
+
+### Naming (additions to the ch.1 table)
+- Λευί → **Levi** (already a Hebrew name; no parenthetical needed). Ἁλφαῖος → **Chalfai (Alphaeus)**.
+- The Twelve (3:16–19): Σίμων→**Shimon (Simon)**, renamed Πέτρος/Κηφᾶς→**Kefa (Peter)**; Ἀνδρέας→**Andreas (Andrew)**; Ἰάκωβος→**Ya'aqov (James)**; Ἰωάννης→**Yochanan (John)**; Βοανηργές→**Boanerges** with Mark's own in-text gloss "sons of thunder"; Φίλιππος→**Philippos (Philip)**; Βαρθολομαῖος→**Bar-Talmai (Bartholomew)**; Μαθθαῖος→**Mattai (Matthew)**; Θωμᾶς→**Toma (Thomas)**; Θαδδαῖος→**Taddai (Thaddaeus)**; Σίμων ὁ Καναναῖος→**Shimon the Kena'ani (Cananaean)** (from *qan'ana* "zealous", not "from Cana"); Ἰούδας Ἰσκαριώθ→**Yehudah Ish-Keriot (Judas Iscariot)** (*ish Keriot*).
+- Ἡρῳδιανοί→**Herodians**; Βεελζεβούλ→**Beelzevul (Beelzebul)**; Τύρος→**Tsor (Tyre)**, Σιδών→**Tsidon (Sidon)**, Ἰδουμαία→**Idumea**; Ἀβιαθάρ→**Evyatar (Abiathar)**.
+
+### Lexical / glossary
+- **ὁ υἱὸς τοῦ ἀνθρώπου → "the Son of Man"** (2:10, 2:28) — kept as the established rendering; Tier-2 note gives the literal "son of the human" and the Daniel 7:13 range (generic ↔ titular held together, not collapsed).
+- **ἀφίημι (verb, 2:5,9) → "forgive"** in main text with the release sense noted — the verbal counterpart of *aphesis* "release" (1:4). Consistency flagged for Hellenist.
+- **πνεῦμα 2:8 → "his spirit" (NO slash)** — Yeshua's own inner spirit; "wind" not a live sense (context-gated slash, same principle as "unclean spirit"). The holy-spirit slash is kept at 3:29.
+- **κύριος 2:28 → "lord"** (not the divine name — not an OT quotation; "lord of the sabbath").
+- **ἀμήν 3:28 → "truly / amen"**.
+
+### Rule 30 (divine speech) scope for Mark 2–3
+- **Marked:** Yeshua at 2:5, 2:8–11 (with the narrator aside at 2:10 breaking the span), 2:14, 2:17, 2:19–22, 2:25–28; 3:3, 3:4, 3:5, 3:23–29, 3:33–35.
+- **NOT marked (logged):** the scribes' inner reasoning (2:6–7) and accusation (3:22); the crowd (2:12; 3:32); the fasting questioners (2:18,24); the family (3:21); and — importantly — the **unclean spirits' confession "You are the Son of God" (3:11)**, a non-divine speaker (parallel to 1:24).
+
+### Text-critical variants pre-registered
+- **2:26 "Evyatar (Abiathar) the high priest"** — names a different priest than 1 Sam 21 (Ahimelech); some witnesses (D, W) omit the phrase. Flagged 🔴 CRITICAL, not harmonized.
+- **3:14 "[whom he also named emissaries/apostles]"** — bracketed in NA28 (possible import from Luke 6:13). Rendered in italic-brackets, flagged.
+- **3:32 "[and your sisters]"** — present in some witnesses (A, D), absent in others (א, B, C, L). Included as text-uncertain (italics), flagged.
+
+**Status:** provisional. Source-analysis corpus: `docs/source-analysis/greek/mark-2-3.md`.
