@@ -27,11 +27,15 @@
 
 ## LESEANLEITUNG
 
-**Haupttext:** Primäre Übersetzung—lesbar aber treu der hebräischen Struktur
-**Notizen:** Wesentliche hebräische Merkmale unmittelbar unter jedem Vers
-***Kursiv:*** Wörter für deutsche Grammatik hinzugefügt (nicht im hebräischen Text)
-**„Anführungszeichen":** Direkte göttliche Rede oder menschliche Rede
-**JHWH:** Tetragrammaton konsonantisch transliteriert (Regel 25, Option A)
+**Haupttext:** Primärübersetzung — lesbar, aber treu zur hebräischen Struktur. **Notizen:** Wesentliche hebräische Merkmale direkt unter jedem Vers.
+
+**Wie der Text markiert ist:**
+- *Kursive Wörter* — für die deutsche Grammatik ergänzt (nicht im hebräischen Text)
+- {t:raqia} — transliterierte hebräische Begriffe, unübersetzt belassen (in den Notizen erklärt)
+- {a:Wind/Geist} — ein Wort, das das Hebräische in zwei Bedeutungen offenlässt, beide beibehalten
+- @@"…"@@ — direkte Rede Gottes
+
+Notizen sind nach Typ gekennzeichnet — **Kritisch · Lexikalisch · Grammatisch · Theologisch** — jeweils mit ihrer Farbe (siehe die Legende oben in der Notizen-Ansicht).
 
 **Mensch- / Adam-Politik (Regel 17):** In diesem Kapitel wird *ha-adam* (mit Artikel) in V.1 als „der Mensch" wiedergegeben (Fortführung der Gn 2–3-Politik). Ab **V.25** wechselt der Text zum artikellosen *adam* in einem Benennungs-/Genealogiekontext — dies ist der **Übergangspunkt** zum Eigennamen „Adam." Mit 🔴 KRITISCH-Notiz gekennzeichnet.
 

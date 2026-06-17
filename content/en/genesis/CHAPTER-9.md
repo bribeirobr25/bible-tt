@@ -26,11 +26,15 @@
 
 ## READING GUIDE
 
-**Main Text:** Primary translation—readable but faithful to Hebrew structure
-**Notes:** Essential Hebrew features immediately below each verse
-***Italics:*** Words added for English grammar (not in Hebrew text)
-**"Quotes":** Direct divine speech
-**YHWH:** Tetragrammaton rendered consonantally (Rule 25, Option A)
+**Main Text:** Primary translation — readable but faithful to Hebrew structure. **Notes:** Essential Hebrew features immediately below each verse.
+
+**How the text is marked:**
+- *Words in italics* — added for English grammar (not in the Hebrew text)
+- {t:raqia} — transliterated Hebrew terms kept untranslated (explained in notes)
+- {a:wind/spirit} — a word the Hebrew leaves open to two meanings, both kept
+- @@"…"@@ — direct speech of God
+
+Notes are tagged by type — **Critical · Lexical · Grammatical · Theological** — each shown with its colour (see the legend at the top of the Notes view).
 
 **This chapter contains the post-flood covenant, the blood prohibition, and the Cham (Ham)/Kenaan (Canaan) incident.** The blessing of 9:1 echoes Gen 1:28. The covenant (9:8–17) is the first fully disclosed *berit*, with the bow (*qesheth*) as sign. Noach (Noah)'s first recorded speech (9:25–27) — after chapters of silence — is a curse. The text says Ham "saw the nakedness of his father"; the TT renders what the text says, not what it might mean.
 

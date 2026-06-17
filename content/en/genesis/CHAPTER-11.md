@@ -26,11 +26,15 @@
 
 ## READING GUIDE
 
-**Main Text:** Primary translation—readable but faithful to Hebrew structure
-**Notes:** Essential Hebrew features immediately below each verse
-***Italics:*** Words added for English grammar (not in Hebrew text)
-**"Quotes":** Direct divine speech
-**YHWH:** Tetragrammaton rendered consonantally (Rule 25, Option A)
+**Main Text:** Primary translation — readable but faithful to Hebrew structure. **Notes:** Essential Hebrew features immediately below each verse.
+
+**How the text is marked:**
+- *Words in italics* — added for English grammar (not in the Hebrew text)
+- {t:raqia} — transliterated Hebrew terms kept untranslated (explained in notes)
+- {a:wind/spirit} — a word the Hebrew leaves open to two meanings, both kept
+- @@"…"@@ — direct speech of God
+
+Notes are tagged by type — **Critical · Lexical · Grammatical · Theological** — each shown with its colour (see the legend at the top of the Notes view).
 
 **This chapter contains the Tower of Babel narrative (11:1–9) and the genealogy of Shem (11:10–32).** The Babel narrative completes the primeval history with a second scattering — the first was geographic (Ch 10, table of nations); this one is linguistic. The human "let us" (*havah*) of 11:3–4 echoes God's "let us" of 1:26 — but directed toward self-elevation. The genealogy bridges the primeval history to the patriarchal narratives: ten generations from Shem to Avram (Abram), with lifespans declining from 600 to 205. Terach (Terah)'s *toledot* (11:27) introduces Abram, and the chapter ends mid-journey — the family leaves Ur for Kenaan but stops at Charan.
 

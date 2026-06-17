@@ -26,11 +26,15 @@
 
 ## READING GUIDE
 
-**Main Text:** Primary translation—readable but faithful to Hebrew structure
-**Notes:** Essential Hebrew features immediately below each verse
-***Italics:*** Words added for English grammar (not in Hebrew text)
-**"Quotes":** Direct divine speech
-**YHWH:** Tetragrammaton rendered consonantally (Rule 25, Option A)
+**Main Text:** Primary translation — readable but faithful to Hebrew structure. **Notes:** Essential Hebrew features immediately below each verse.
+
+**How the text is marked:**
+- *Words in italics* — added for English grammar (not in the Hebrew text)
+- {t:raqia} — transliterated Hebrew terms kept untranslated (explained in notes)
+- {a:wind/spirit} — a word the Hebrew leaves open to two meanings, both kept
+- @@"…"@@ — direct speech of God
+
+Notes are tagged by type — **Critical · Lexical · Grammatical · Theological** — each shown with its colour (see the legend at the top of the Notes view).
 
 **This chapter marks the transition from primeval to patriarchal history.** YHWH calls Avram (Abram) out of Charan with a command that names no destination and a promise that will shape the rest of the Torah. The five-fold blessing (12:2–3) introduces *berakhah* as a narrative engine. Abram journeys through Kenaan (Canaan) — Shekhem (Shechem), the oak of Moreh, Beyt-El (Bethel) — building altars and calling on the name of YHWH. Famine drives him to Egypt, where the wife-sister episode introduces a pattern that recurs at 20:2 and 26:7. Pharaoh is struck with plagues (*nega'im*) — the same root that will return in Exodus.
 

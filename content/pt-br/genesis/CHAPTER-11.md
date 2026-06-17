@@ -27,11 +27,15 @@
 
 ## GUIA DE LEITURA
 
-**Texto Principal:** Tradução primária—legível mas fiel à estrutura hebraica
-**Notas:** Características hebraicas essenciais imediatamente abaixo de cada versículo
-***Itálico:*** Palavras adicionadas para a gramática portuguesa (não presentes no texto hebraico)
-**"Aspas":** Discurso divino direto
-**YHWH:** Tetragrama transliterado consonantalmente (Regra 25, Opção A)
+**Texto Principal:** Tradução primária — legível, mas fiel à estrutura hebraica. **Notas:** Recursos hebraicos essenciais logo abaixo de cada versículo.
+
+**Como o texto é marcado:**
+- *Palavras em itálico* — acrescentadas para a gramática do português (não estão no texto hebraico)
+- {t:raqia} — termos hebraicos transliterados, mantidos sem tradução (explicados nas notas)
+- {a:vento/espírito} — uma palavra que o hebraico deixa aberta a dois sentidos, ambos mantidos
+- @@"…"@@ — fala direta de Deus
+
+As notas são marcadas por tipo — **Crítico · Lexical · Gramatical · Teológico** — cada uma com sua cor (veja a legenda no topo da visão de Notas).
 
 **Este capítulo contém a narrativa da Torre de Babel (11:1–9) e a genealogia de Shem (11:10–32).** A narrativa de Babel completa a história primeva com uma segunda dispersão — a primeira foi geográfica (Cap. 10, tábua das nações); esta é linguística. O "façamos" (*havah*) humano de 11:3–4 ecoa o "façamos" de Deus de 1:26 — mas dirigido à auto-elevação. A genealogia faz a ponte da história primeva para as narrativas patriarcais: dez gerações de Shem a Avram, com expectativas de vida declinando de 600 a 205. O *toledot* de Terach (11:27) introduz Avram, e o capítulo termina no meio da jornada — a família sai de Ur em direção a Kenaan mas para em Charan.
 

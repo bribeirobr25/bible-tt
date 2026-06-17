@@ -26,11 +26,15 @@
 
 ## READING GUIDE
 
-**Main Text:** Primary translation—readable but faithful to Hebrew structure
-**Notes:** Essential Hebrew features immediately below each verse
-***Italics:*** Words added for English grammar (not in Hebrew text)
-**"Quotes":** Direct divine speech
-**YHWH:** Tetragrammaton rendered consonantally (Rule 25, Option A)
+**Main Text:** Primary translation — readable but faithful to Hebrew structure. **Notes:** Essential Hebrew features immediately below each verse.
+
+**How the text is marked:**
+- *Words in italics* — added for English grammar (not in the Hebrew text)
+- {t:raqia} — transliterated Hebrew terms kept untranslated (explained in notes)
+- {a:wind/spirit} — a word the Hebrew leaves open to two meanings, both kept
+- @@"…"@@ — direct speech of God
+
+Notes are tagged by type — **Critical · Lexical · Grammatical · Theological** — each shown with its colour (see the legend at the top of the Notes view).
 
 **This chapter is the Table of Nations — a genealogical-geographic catalogue of the descendants of Noach (Noah)'s three sons: Shem, Cham (Ham), and Yafet (Japheth).** It opens with the fourth *toledot* formula (10:1) and maps the post-flood human world through lineage, language, territory, and nation. Most of the chapter is genealogical list; the Nimrod section (10:8–12) is the major narrative exception. YHWH appears only once (10:9). The chapter closes with a summary formula (10:32) that echoes the *toledot* structure. Names here are persons, peoples, and places simultaneously — the text does not always distinguish between the ancestor and the nation bearing that name.
 

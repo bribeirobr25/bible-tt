@@ -27,11 +27,14 @@
 
 ## LESEANLEITUNG
 
-**Haupttext:** Primäre Übersetzung — lesbar aber treu der griechischen Struktur
-**Notizen:** Wesentliche griechische Merkmale unmittelbar unter jedem Vers
-***Kursiv:*** Wörter für deutsche Grammatik hinzugefügt (nicht im griechischen Text)
-**„Anführungszeichen":** Direkte Rede
-**der Herr:** kyrios wiedergegeben nach GS-Gottesname-Politik (Option C), wenn alttestamentliche JHWH-Stellen zitiert werden
+**Haupttext:** Primärübersetzung — lesbar, aber treu zur griechischen Struktur. **Notizen:** Wesentliche griechische Merkmale direkt unter jedem Vers.
+
+**Wie der Text markiert ist:**
+- *Kursive Wörter* — für die deutsche Grammatik ergänzt (nicht im griechischen Text)
+- {a:Wind/Geist} — ein Wort, das das Griechische in zwei Bedeutungen offenlässt, beide beibehalten
+- @@"…"@@ — direkte Rede Gottes oder Yeshuas (Jesus)
+
+Notizen sind nach Typ gekennzeichnet — **Kritisch · Lexikalisch · Grammatisch · Theologisch** — jeweils mit ihrer Farbe (siehe die Legende oben in der Notizen-Ansicht).
 
 **Dieses Kapitel ist das am stärksten alttestamentlich geprägte Kapitel der Geburtserzählung.** Vier Erfüllungszitate („damit erfüllt werde, was gesprochen wurde") bestimmen die Erzählung: Micha 5,1 (Beyt-Lechem (Bethlehem)), Hosea 11,1 (aus Mitsrayim (Ägypten)), Jeremia 31,15 (Rachel weint) und ein geheimnisvolles „Er wird ein Natsri genannt werden" ohne eindeutige alttestamentliche Quelle. Jedes Zitat verwendet kyrios Option C mit vermerkter alttestamentlicher JHWH-Verbindung. Eigennamen folgen der TT-Transliteration: Herodes (Translit = Vertraut; ohne Epitheton, nicht „Herodes der Große"), Beyt-Lechem (Bethlehem), Mitsrayim (Ägypten), Natseret (Nazareth).
 

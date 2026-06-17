@@ -27,12 +27,15 @@
 
 ## LESEANLEITUNG
 
-**Haupttext:** Primäre Übersetzung—lesbar aber treu der hebräischen Struktur
-**Notizen:** Wesentliche hebräische Merkmale unmittelbar unter jedem Vers
-***Kursiv:*** Wörter für deutsche Grammatik hinzugefügt (nicht im hebräischen Text)
-**„Anführungszeichen":** Direkte göttliche Rede
-**JHWH:** Tetragrammaton konsonantisch transliteriert (Regel 25, Option A)
-**Tebah, Mabbul/Flut:** Transliterierte hebräische Begriffe (in Notizen erklärt)
+**Haupttext:** Primärübersetzung — lesbar, aber treu zur hebräischen Struktur. **Notizen:** Wesentliche hebräische Merkmale direkt unter jedem Vers.
+
+**Wie der Text markiert ist:**
+- *Kursive Wörter* — für die deutsche Grammatik ergänzt (nicht im hebräischen Text)
+- {t:raqia} — transliterierte hebräische Begriffe, unübersetzt belassen (in den Notizen erklärt)
+- {a:Wind/Geist} — ein Wort, das das Hebräische in zwei Bedeutungen offenlässt, beide beibehalten
+- @@"…"@@ — direkte Rede Gottes
+
+Notizen sind nach Typ gekennzeichnet — **Kritisch · Lexikalisch · Grammatisch · Theologisch** — jeweils mit ihrer Farbe (siehe die Legende oben in der Notizen-Ansicht).
 
 **Dieses Kapitel erzählt den Eintritt in die Tebah und den Beginn der Flut.** Die Spannung zwischen „zwei von allem" (6:19) und „sieben sieben" der reinen Tiere (7:2) wird ohne Harmonisierung gemäß Regel 22 bewahrt. Der kosmologische Mechanismus — Quellen der Tiefe und Fenster des Himmels — kehrt die Tag-2-Trennung der Wasser um (Gn 1:6–7). Die Verteilung der Gottesnamen wechselt innerhalb des Kapitels zwischen JHWH und Elohim.
 

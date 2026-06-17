@@ -28,11 +28,14 @@
 
 ## GUIA DE LEITURA
 
-**Texto Principal:** Tradução primária — legível mas fiel à estrutura grega
-**Notas:** Características gregas essenciais imediatamente abaixo de cada versículo
-***Itálico:*** Palavras adicionadas para a gramática portuguesa (não presentes no texto grego)
-**"Aspas":** Discurso direto
-**o Senhor:** kyrios traduzido conforme Política do Nome Divino GS (Opção C) ao citar passagens do AT com YHWH
+**Texto Principal:** Tradução primária — legível, mas fiel à estrutura grega. **Notas:** Recursos gregos essenciais logo abaixo de cada versículo.
+
+**Como o texto é marcado:**
+- *Palavras em itálico* — acrescentadas para a gramática do português (não estão no texto grego)
+- {a:vento/espírito} — uma palavra que o grego deixa aberta a dois sentidos, ambos mantidos
+- @@"…"@@ — fala direta de Deus ou de Yeshua (Jesus)
+
+As notas são marcadas por tipo — **Crítico · Lexical · Gramatical · Teológico** — cada uma com sua cor (veja a legenda no topo da visão de Notas).
 
 **Este capítulo é o mais saturado do AT na narrativa do nascimento.** Quatro citações formulares ("para que se cumprisse o que foi dito") conduzem a narrativa: Miqueias 5:1 (Beyt-Lechem (Belém)), Oseias 11:1 (de Mitsrayim (Egito)), Jeremias 31:15 (Raquel chorando) e um misterioso "Ele será chamado Natsri" sem uma única fonte no AT. Cada citação usa kyrios Opção C com a conexão YHWH do AT anotada. Os nomes próprios seguem a transliteração TT: Herodes (não Herodes Magno), Belém (não Belém), Egito (não Egito), Natseret (Nazaré) (não Nazaré).
 

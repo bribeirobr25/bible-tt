@@ -27,11 +27,14 @@
 
 ## READING GUIDE
 
-**Main Text:** Primary translation — readable but faithful to Greek structure
-**Notes:** Essential Greek features immediately below each verse
-***Italics:*** Words added for English grammar (not in Greek text)
-**"Quotes":** Direct speech
-**the Lord:** κύριος rendered per GS Divine Name Policy (Option C) when quoting OT YHWH passages
+**Main Text:** Primary translation — readable but faithful to Greek structure. **Notes:** Essential Greek features immediately below each verse.
+
+**How the text is marked:**
+- *Words in italics* — added for English grammar (not in the Greek text)
+- {a:wind/spirit} — a word the Greek leaves open to two meanings, both kept
+- @@"…"@@ — direct speech of God or Yeshua (Jesus)
+
+Notes are tagged by type — **Critical · Lexical · Grammatical · Theological** — each shown with its colour (see the legend at the top of the Notes view).
 
 **This is the first Greek Scriptures chapter in the TT project.** The Prologue (1:1–18) is among the most theologically dense passages in the Greek Scriptures. The term *logos* ("word") carries a semantic range far wider than any single English word can capture. The TT renders it "word" (lowercase) with a critical note at v.1 on the semantic range. Proper names follow TT transliteration: Yochanan (not John), Yeshua (not Jesus), Kefa (not Peter), Philippos, Nathanael, Andreas. The verb aspect system differs from the Hebrew tense system used in Genesis — Greek aspect (how the speaker views the action) is primary, not time.
 

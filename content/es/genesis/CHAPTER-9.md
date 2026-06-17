@@ -27,11 +27,15 @@
 
 ## GUIA DE LECTURA
 
-**Texto Principal:** Traducción primaria — legible pero fiel a la estructura hebrea
-**Notas:** Rasgos hebreos esenciales inmediatamente debajo de cada versículo
-***Cursiva:*** Palabras anadidas para la gramática del español (no estan en el texto hebreo)
-**"Comillas":** Discurso divino directo
-**YHWH:** Tetragrama rendido consonantalmente (Regla 25, Opción A)
+**Texto Principal:** Traducción primaria — legible pero fiel a la estructura hebrea. **Notas:** Rasgos hebreos esenciales justo debajo de cada versículo.
+
+**Cómo está marcado el texto:**
+- *Palabras en cursiva* — añadidas para la gramática del español (no están en el texto hebreo)
+- {t:raqia} — términos hebreos transliterados, sin traducir (explicados en las notas)
+- {a:viento/espíritu} — una palabra que el hebreo deja abierta a dos sentidos, ambos conservados
+- @@"…"@@ — habla directa de Dios
+
+Las notas se etiquetan por tipo — **Crítico · Léxico · Gramatical · Teológico** — cada una con su color (vea la leyenda en la parte superior de la vista de Notas).
 
 **Este capítulo contiene el pacto post-diluviano, la prohibición de la sangre y el incidente de Cam/Kenaan (Canaán).** La bendición de 9:1 refleja Gn 1:28. El pacto (9:8-17) es el primer *berit* completamente revelado, con el arco (*qesheth*) como signo. El primer discurso registrado de Noé (9:25-27) — después de capítulos de silencio — es una maldición. El texto dice que Cam "vio la desnudez de su padre"; la TT rinde lo que el texto dice, no lo que podria significar.
 

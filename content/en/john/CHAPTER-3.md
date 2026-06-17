@@ -27,11 +27,14 @@
 
 ## READING GUIDE
 
-**Main Text:** Primary translation — readable but faithful to Greek structure
-**Notes:** Essential Greek features immediately below each verse
-***Italics:*** Words added for English grammar (not in Greek text)
-**"Quotes":** Direct speech
-**the Lord:** κύριος rendered per GS Divine Name Policy (Option C) when quoting OT YHWH passages
+**Main Text:** Primary translation — readable but faithful to Greek structure. **Notes:** Essential Greek features immediately below each verse.
+
+**How the text is marked:**
+- *Words in italics* — added for English grammar (not in the Greek text)
+- {a:wind/spirit} — a word the Greek leaves open to two meanings, both kept
+- @@"…"@@ — direct speech of God or Yeshua (Jesus)
+
+Notes are tagged by type — **Critical · Lexical · Grammatical · Theological** — each shown with its colour (see the legend at the top of the Notes view).
 
 **This chapter contains the most quoted verse in the Bible (3:16) and one of the most important translation ambiguities in the Gospel: ἄνωθεν (*anōthen*) at v.3, which means both "from above" (spatial) and "again" (temporal). The TT preserves the double meaning with a slash — "from above/again" — because the Greek reader would have heard both senses simultaneously. Nikodemos hears only "again"; Yeshua means "from above." The text's power depends on the ambiguity. Proper names follow TT transliteration: Nikodemos (not Nicodemus), Yeshua (not Jesus), Yochanan (not John), Mosheh (not Moses). The rendering "life of the age" (not "eternal life") at v.15–16 reflects αἰώνιος (*aiōnios*), which relates to αἰών (*aiōn*, "age") — a quality of life belonging to the coming age, not a statement about timelessness.**
 

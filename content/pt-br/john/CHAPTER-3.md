@@ -28,11 +28,14 @@
 
 ## GUIA DE LEITURA
 
-**Texto Principal:** Tradução primária — legível mas fiel à estrutura grega
-**Notas:** Características gregas essenciais imediatamente abaixo de cada versículo
-***Itálico:*** Palavras adicionadas para a gramática portuguesa (não presentes no texto grego)
-**"Aspas":** Discurso direto
-**o Senhor:** κύριος traduzido conforme Política GS do Nome Divino (Opção C) ao citar passagens do AT que contêm YHWH
+**Texto Principal:** Tradução primária — legível, mas fiel à estrutura grega. **Notas:** Recursos gregos essenciais logo abaixo de cada versículo.
+
+**Como o texto é marcado:**
+- *Palavras em itálico* — acrescentadas para a gramática do português (não estão no texto grego)
+- {a:vento/espírito} — uma palavra que o grego deixa aberta a dois sentidos, ambos mantidos
+- @@"…"@@ — fala direta de Deus ou de Yeshua (Jesus)
+
+As notas são marcadas por tipo — **Crítico · Lexical · Gramatical · Teológico** — cada uma com sua cor (veja a legenda no topo da visão de Notas).
 
 **Este capítulo contém o versículo mais citado da Bíblia (3:16) e uma das ambiguidades tradutórias mais importantes do Evangelho: ἄνωθεν (*anōthen*) no v.3, que significa tanto "do alto" (espacial) quanto "de novo" (temporal). A TT preserva o duplo sentido com uma barra — "do alto/de novo" — porque o leitor grego teria ouvido ambos os sentidos simultaneamente. Nikodemos ouve apenas "de novo"; Yeshua quer dizer "do alto." O poder do texto depende da ambiguidade. Os nomes próprios seguem a transliteração TT: Nikodemos (não Nicodemos), Yeshua (não Jesus), Yochanan (não João), Mosheh (não Moisés). A tradução "vida da era" (não "vida eterna") nos vv.15–16 reflete αἰώνιος (*aiōnios*), que se relaciona com αἰών (*aiōn*, "era") — uma qualidade de vida pertencente à era vindoura, não uma declaração sobre atemporalidade.**
 

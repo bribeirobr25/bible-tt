@@ -27,12 +27,15 @@
 
 ## GUIA DE LEITURA
 
-**Texto Principal:** Tradução primária—legível mas fiel à estrutura hebraica
-**Notas:** Características hebraicas essenciais imediatamente abaixo de cada versículo
-***Itálico:*** Palavras adicionadas para a gramática portuguesa (não presentes no texto hebraico)
-**"Aspas":** Discurso divino direto ou fala humana
-**YHWH:** Tetragrama transliterado consonantalmente (Regra 25, Opção A)
-**Chava (Eva), nachash, etc.:** Termos hebraicos transliterados (explicados nas notas)
+**Texto Principal:** Tradução primária — legível, mas fiel à estrutura hebraica. **Notas:** Recursos hebraicos essenciais logo abaixo de cada versículo.
+
+**Como o texto é marcado:**
+- *Palavras em itálico* — acrescentadas para a gramática do português (não estão no texto hebraico)
+- {t:raqia} — termos hebraicos transliterados, mantidos sem tradução (explicados nas notas)
+- {a:vento/espírito} — uma palavra que o hebraico deixa aberta a dois sentidos, ambos mantidos
+- @@"…"@@ — fala direta de Deus
+
+As notas são marcadas por tipo — **Crítico · Lexical · Gramatical · Teológico** — cada uma com sua cor (veja a legenda no topo da visão de Notas).
 
 **Regra 23 (Sensibilidade de Gênero Literário):** Prosa narrativa, não padrão litúrgico. O capítulo não contém vocabulário teológico português herdado ("a Queda," "pecado original," "proto-evangelho," "Satanás") a menos que o hebraico justifique — e o hebraico não justifica.
 

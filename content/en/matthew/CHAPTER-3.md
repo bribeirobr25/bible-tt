@@ -27,11 +27,14 @@
 
 ## READING GUIDE
 
-**Main Text:** Primary translation — readable but faithful to Greek structure
-**Notes:** Essential Greek features immediately below each verse
-***Italics:*** Words added for English grammar (not in Greek text)
-**"Quotes":** Direct speech
-**the Lord:** kyrios rendered per GS Divine Name Policy (Option C) when quoting OT YHWH passages
+**Main Text:** Primary translation — readable but faithful to Greek structure. **Notes:** Essential Greek features immediately below each verse.
+
+**How the text is marked:**
+- *Words in italics* — added for English grammar (not in the Greek text)
+- {a:wind/spirit} — a word the Greek leaves open to two meanings, both kept
+- @@"…"@@ — direct speech of God or Yeshua (Jesus)
+
+Notes are tagged by type — **Critical · Lexical · Grammatical · Theological** — each shown with its colour (see the legend at the top of the Notes view).
 
 **This chapter introduces Yochanan the Immerser and "the kingdom of the skies."** The phrase *basileia tōn ouranōn* ("kingdom of the skies") appears for the first time in Matthew — a phrase unique to this Gospel (the other Gospels use "kingdom of God"). The TT renders *ouranōn* as "skies" per alignment with HB *shamayim*. Yochanan's practice of *baptisma* is rendered as "immersion" per locked glossary. Proper names follow TT transliteration: Yochanan (not John), Perushim (not Pharisees), Tsduqim (not Sadducees), Yarden (not Jordan).
 

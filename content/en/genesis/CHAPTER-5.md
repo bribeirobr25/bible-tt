@@ -26,10 +26,15 @@
 
 ## READING GUIDE
 
-**Main Text:** Primary translation—readable but faithful to Hebrew structure
-**Notes:** Essential Hebrew features immediately below each verse
-***Italics:*** Words added for English grammar (not in Hebrew text)
-**"Quotes":** Direct speech
+**Main Text:** Primary translation — readable but faithful to Hebrew structure. **Notes:** Essential Hebrew features immediately below each verse.
+
+**How the text is marked:**
+- *Words in italics* — added for English grammar (not in the Hebrew text)
+- {t:raqia} — transliterated Hebrew terms kept untranslated (explained in notes)
+- {a:wind/spirit} — a word the Hebrew leaves open to two meanings, both kept
+- @@"…"@@ — direct speech of God
+
+Notes are tagged by type — **Critical · Lexical · Grammatical · Theological** — each shown with its colour (see the legend at the top of the Notes view).
 
 **Genre note (Rule 23):** This chapter is a **genealogy** — a structured list governed by a repeating formula. The formula is locked per Rule 7; deviations from the pattern are textually significant and noted.
 

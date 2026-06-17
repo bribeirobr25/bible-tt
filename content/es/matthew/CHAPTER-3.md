@@ -28,11 +28,14 @@
 
 ## GUÍA DE LECTURA
 
-**Texto Principal:** Traducción primaria — legible pero fiel a la estructura griega
-**Notas:** Características griegas esenciales inmediatamente debajo de cada versículo
-***Cursiva:*** Palabras agregadas para la gramática española (no presentes en el texto griego)
-**"Comillas":** Discurso directo
-**el Señor:** kyrios traducido según la Política del Nombre Divino GS (Opción C) al citar pasajes del AT con YHWH
+**Texto Principal:** Traducción primaria — legible pero fiel a la estructura griega. **Notas:** Rasgos griegos esenciales justo debajo de cada versículo.
+
+**Cómo está marcado el texto:**
+- *Palabras en cursiva* — añadidas para la gramática del español (no están en el texto griego)
+- {a:viento/espíritu} — una palabra que el griego deja abierta a dos sentidos, ambos conservados
+- @@"…"@@ — habla directa de Dios o de Yeshua (Jesús)
+
+Las notas se etiquetan por tipo — **Crítico · Léxico · Gramatical · Teológico** — cada una con su color (vea la leyenda en la parte superior de la vista de Notas).
 
 **Este capítulo introduce a Yochanan el Inmersor y "el reino de los cielos."** La frase *basileia tōn ouranōn* ("reino de los cielos") aparece por primera vez en Mateo — una frase única de este Evangelio (los otros Evangelios usan "reino de Dios"). La TT traduce *ouranōn* como "cielos" según la alineación con el hebreo *shamayim*. La práctica de *baptisma* de Yochanan se traduce como "inmersión" según el glosario fijado. Los nombres propios siguen la transliteración TT: Yochanan (no Juan), Perushim (no fariseos), Tsduqim (no saduceos), Yarden (no Jordán). Las formas familiares en español se anotan en la primera aparición.
 

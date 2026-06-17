@@ -26,12 +26,15 @@
 
 ## GUIA DE LECTURA
 
-**Texto Principal:** Traducción primaria — legible pero fiel a la estructura hebrea
-**Notas:** Rasgos hebreos esenciales inmediatamente debajo de cada versículo
-***Cursiva:*** Palabras añadidas para la gramática del español (no están en el texto hebreo)
-**"Comillas":** Discurso divino directo
-**YHWH:** Tetragrama rendido consonantalmente (Regla 25, Opción A)
-**tebah, mabbul:** Términos hebreos transliterados (explicados en las notas)
+**Texto Principal:** Traducción primaria — legible pero fiel a la estructura hebrea. **Notas:** Rasgos hebreos esenciales justo debajo de cada versículo.
+
+**Cómo está marcado el texto:**
+- *Palabras en cursiva* — añadidas para la gramática del español (no están en el texto hebreo)
+- {t:raqia} — términos hebreos transliterados, sin traducir (explicados en las notas)
+- {a:viento/espíritu} — una palabra que el hebreo deja abierta a dos sentidos, ambos conservados
+- @@"…"@@ — habla directa de Dios
+
+Las notas se etiquetan por tipo — **Crítico · Léxico · Gramatical · Teológico** — cada una con su color (vea la leyenda en la parte superior de la vista de Notas).
 
 **Este capítulo narra la entrada en la tebah y el comienzo del diluvio.** La tensión entre "dos de todos" (6:19) y "siete siete" de animales limpios (7:2) se preserva sin armonización según la Regla 22. El mecanismo cosmológico — fuentes del abismo y ventanas del cielo — invierte la separación de aguas del Día 2 (Gn 1:6-7). La distribución del nombre divino alterna entre YHWH y Elohim dentro del capítulo.
 

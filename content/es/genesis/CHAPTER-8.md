@@ -27,11 +27,15 @@
 
 ## GUIA DE LECTURA
 
-**Texto Principal:** Traducción primaria — legible pero fiel a la estructura hebrea
-**Notas:** Rasgos hebreos esenciales inmediatamente debajo de cada versículo
-***Cursiva:*** Palabras anadidas para la gramática del español (no estan en el texto hebreo)
-**"Comillas":** Discurso divino directo
-**YHWH:** Tetragrama rendido consonantalmente (Regla 25, Opción A)
+**Texto Principal:** Traducción primaria — legible pero fiel a la estructura hebrea. **Notas:** Rasgos hebreos esenciales justo debajo de cada versículo.
+
+**Cómo está marcado el texto:**
+- *Palabras en cursiva* — añadidas para la gramática del español (no están en el texto hebreo)
+- {t:raqia} — términos hebreos transliterados, sin traducir (explicados en las notas)
+- {a:viento/espíritu} — una palabra que el hebreo deja abierta a dos sentidos, ambos conservados
+- @@"…"@@ — habla directa de Dios
+
+Las notas se etiquetan por tipo — **Crítico · Léxico · Gramatical · Teológico** — cada una con su color (vea la leyenda en la parte superior de la vista de Notas).
 
 **Este capítulo narra la recesion del diluvio y la re-emergencia de la vida.** La estructura refleja Génesis 1 — viento/espíritu sobre las aguas, tierra seca apareciendo, vida renovada. El capítulo culmina con la resolución interna de YHWH de nunca más maldecir el suelo, usando un lenguaje casí idéntico al juicio de 6:5 pero llegando a la conclusion opuesta.
 

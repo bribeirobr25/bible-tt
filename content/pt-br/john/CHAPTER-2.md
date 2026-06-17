@@ -28,11 +28,14 @@
 
 ## GUIA DE LEITURA
 
-**Texto Principal:** Tradução primária — legível mas fiel à estrutura grega
-**Notas:** Características gregas essenciais imediatamente abaixo de cada versículo
-***Itálico:*** Palavras adicionadas para a gramática portuguesa (não presentes no texto grego)
-**"Aspas":** Discurso direto
-**o Senhor:** κύριος traduzido conforme Política GS do Nome Divino (Opção C) ao citar passagens do AT que contêm YHWH
+**Texto Principal:** Tradução primária — legível, mas fiel à estrutura grega. **Notas:** Recursos gregos essenciais logo abaixo de cada versículo.
+
+**Como o texto é marcado:**
+- *Palavras em itálico* — acrescentadas para a gramática do português (não estão no texto grego)
+- {a:vento/espírito} — uma palavra que o grego deixa aberta a dois sentidos, ambos mantidos
+- @@"…"@@ — fala direta de Deus ou de Yeshua (Jesus)
+
+As notas são marcadas por tipo — **Crítico · Lexical · Gramatical · Teológico** — cada uma com sua cor (veja a legenda no topo da visão de Notas).
 
 **Este capítulo contém duas cenas principais e uma nota de transição.** As bodas em Qanah (vv.1–12) introduzem o primeiro "sinal" (*sēmeion*) — um termo que João usa deliberadamente em vez de "milagre" (*dynamis*) ou "prodígio" (*teras*). A purificação do templo (vv.13–22) introduz a distinção entre ναός (*naos*, o santuário interno) e ἱερόν (*hieron*, o complexo do templo). O capítulo encerra com um comentário do narrador sobre o conhecimento que Yeshua tem da natureza humana (vv.23–25). Os nomes próprios seguem a transliteração TT: Qanah (não Caná), Yeshua (não Jesus), Kfar Nachum (não Cafarnaum), Yerushalayim (não Jerusalém).
 

@@ -30,11 +30,15 @@
 
 ## LESEANLEITUNG
 
-**Haupttext:** Primäre Übersetzung—lesbar aber treu der hebräischen Struktur  
-**Notizen:** Wesentliche hebräische Merkmale unmittelbar unter jedem Vers  
-***Kursiv:*** Wörter für deutsche Grammatik hinzugefügt (nicht im hebräischen Text)  
-**„Anführungszeichen":** Direkte göttliche Rede  
-**raqia:** Transliterierte hebräische Begriffe (in Notizen erklärt)
+**Haupttext:** Primärübersetzung — lesbar, aber treu zur hebräischen Struktur. **Notizen:** Wesentliche hebräische Merkmale direkt unter jedem Vers.
+
+**Wie der Text markiert ist:**
+- *Kursive Wörter* — für die deutsche Grammatik ergänzt (nicht im hebräischen Text)
+- {t:raqia} — transliterierte hebräische Begriffe, unübersetzt belassen (in den Notizen erklärt)
+- {a:Wind/Geist} — ein Wort, das das Hebräische in zwei Bedeutungen offenlässt, beide beibehalten
+- @@"…"@@ — direkte Rede Gottes
+
+Notizen sind nach Typ gekennzeichnet — **Kritisch · Lexikalisch · Grammatisch · Theologisch** — jeweils mit ihrer Farbe (siehe die Legende oben in der Notizen-Ansicht).
 
 ## KAPITELÜBERSICHT
 

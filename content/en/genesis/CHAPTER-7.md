@@ -26,12 +26,15 @@
 
 ## READING GUIDE
 
-**Main Text:** Primary translation—readable but faithful to Hebrew structure
-**Notes:** Essential Hebrew features immediately below each verse
-***Italics:*** Words added for English grammar (not in Hebrew text)
-**"Quotes":** Direct divine speech
-**YHWH:** Tetragrammaton rendered consonantally (Rule 25, Option A)
-**tebah:** Transliterated Hebrew term for ark/vessel (explained in notes). *Mabbul* is the Hebrew term rendered as "flood."
+**Main Text:** Primary translation — readable but faithful to Hebrew structure. **Notes:** Essential Hebrew features immediately below each verse.
+
+**How the text is marked:**
+- *Words in italics* — added for English grammar (not in the Hebrew text)
+- {t:raqia} — transliterated Hebrew terms kept untranslated (explained in notes)
+- {a:wind/spirit} — a word the Hebrew leaves open to two meanings, both kept
+- @@"…"@@ — direct speech of God
+
+Notes are tagged by type — **Critical · Lexical · Grammatical · Theological** — each shown with its colour (see the legend at the top of the Notes view).
 
 **This chapter narrates the entry into the tebah and the onset of the flood.** The tension between "two from all" (6:19) and "seven seven" of clean animals (7:2) is preserved without harmonization per Rule 22. The cosmological mechanism — fountains of the deep and windows of the sky — reverses the Day 2 separation of waters (Gen 1:6–7). Divine name distribution shifts between YHWH and Elohim within the chapter.
 

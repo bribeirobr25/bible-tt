@@ -27,11 +27,15 @@
 
 ## GUÍA DE LECTURA
 
-**Texto Principal:** Traducción primaria — legible pero fiel a la estructura hebrea
-**Notas:** Rasgos hebreos esenciales inmediatamente debajo de cada versículo
-***Cursiva:*** Palabras añadidas para la gramática del español (no están en el texto hebreo)
-**"Comillas":** Discurso divino directo
-**YHWH:** Tetragrama rendido consonantalmente (Regla 25, Opción A)
+**Texto Principal:** Traducción primaria — legible pero fiel a la estructura hebrea. **Notas:** Rasgos hebreos esenciales justo debajo de cada versículo.
+
+**Cómo está marcado el texto:**
+- *Palabras en cursiva* — añadidas para la gramática del español (no están en el texto hebreo)
+- {t:raqia} — términos hebreos transliterados, sin traducir (explicados en las notas)
+- {a:viento/espíritu} — una palabra que el hebreo deja abierta a dos sentidos, ambos conservados
+- @@"…"@@ — habla directa de Dios
+
+Las notas se etiquetan por tipo — **Crítico · Léxico · Gramatical · Teológico** — cada una con su color (vea la leyenda en la parte superior de la vista de Notas).
 
 **Este capítulo marca la transición de la historia primordial a la patriarcal.** YHWH llama a Avram (Abrán) fuera de Jarán con un mandato que no nombra destino y una promesa que dará forma al resto de la Torá. La quíntuple bendición (12:2–3) introduce la *berakhah* como motor narrativo. Abrán viaja a través de Kenaan (Canaán) — Shekhem (Siquem), la encina de Moreh, Beyt-El (Betel) — construyendo altares e invocando el nombre de YHWH. El hambre lo lleva a Egipto, donde el episodio esposa-hermana introduce un patrón que se repite en 20:2 y 26:7. El Faraón es golpeado con plagas (*nega'im*) — la misma raíz que regresará en Éxodo.
 

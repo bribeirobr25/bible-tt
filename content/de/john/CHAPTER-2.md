@@ -27,11 +27,14 @@
 
 ## LESEANLEITUNG
 
-**Haupttext:** Primäre Übersetzung — lesbar aber treu der griechischen Struktur
-**Notizen:** Wesentliche griechische Merkmale unmittelbar unter jedem Vers
-***Kursiv:*** Wörter für deutsche Grammatik hinzugefügt (nicht im griechischen Text)
-**„Anführungszeichen":** Direkte Rede
-**der Herr:** κύριος wiedergegeben gemäß GS-Gottesname-Politik (Option C), wenn alttestamentliche JHWH-Stellen zitiert werden
+**Haupttext:** Primärübersetzung — lesbar, aber treu zur griechischen Struktur. **Notizen:** Wesentliche griechische Merkmale direkt unter jedem Vers.
+
+**Wie der Text markiert ist:**
+- *Kursive Wörter* — für die deutsche Grammatik ergänzt (nicht im griechischen Text)
+- {a:Wind/Geist} — ein Wort, das das Griechische in zwei Bedeutungen offenlässt, beide beibehalten
+- @@"…"@@ — direkte Rede Gottes oder Yeshuas (Jesus)
+
+Notizen sind nach Typ gekennzeichnet — **Kritisch · Lexikalisch · Grammatisch · Theologisch** — jeweils mit ihrer Farbe (siehe die Legende oben in der Notizen-Ansicht).
 
 **Dieses Kapitel enthält zwei Hauptszenen und eine Übergangsnotiz.** Die Hochzeit in Qanah (VV.1–12) führt das erste „Zeichen" (*sēmeion*) ein — einen Begriff, den Johannes bewusst anstelle von „Wunder" (*dynamis*) oder „Staunen" (*teras*) verwendet. Die Tempelreinigung (VV.13–22) führt die Unterscheidung zwischen ναός (*naos*, dem inneren Heiligtum) und ἱερόν (*hieron*, dem Tempelkomplex) ein. Das Kapitel schließt mit einem Kommentar des Erzählers über Jesu Kenntnis der menschlichen Natur (VV.23–25). Eigennamen folgen der TT-Transliteration: Qanah (nicht Kana), Yeshua (Jesus), Kfar Nachum (Kapernaum), Yerushalayim (Jerusalem).
 

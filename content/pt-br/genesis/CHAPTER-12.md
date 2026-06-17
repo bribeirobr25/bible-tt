@@ -27,11 +27,15 @@
 
 ## GUIA DE LEITURA
 
-**Texto Principal:** Tradução primária—legível mas fiel à estrutura hebraica
-**Notas:** Características hebraicas essenciais imediatamente abaixo de cada versículo
-***Itálico:*** Palavras adicionadas para a gramática portuguesa (não presentes no texto hebraico)
-**"Aspas":** Discurso divino direto
-**YHWH:** Tetragrama transliterado consonantalmente (Regra 25, Opção A)
+**Texto Principal:** Tradução primária — legível, mas fiel à estrutura hebraica. **Notas:** Recursos hebraicos essenciais logo abaixo de cada versículo.
+
+**Como o texto é marcado:**
+- *Palavras em itálico* — acrescentadas para a gramática do português (não estão no texto hebraico)
+- {t:raqia} — termos hebraicos transliterados, mantidos sem tradução (explicados nas notas)
+- {a:vento/espírito} — uma palavra que o hebraico deixa aberta a dois sentidos, ambos mantidos
+- @@"…"@@ — fala direta de Deus
+
+As notas são marcadas por tipo — **Crítico · Lexical · Gramatical · Teológico** — cada uma com sua cor (veja a legenda no topo da visão de Notas).
 
 **Este capítulo marca a transição da história primeva para a patriarcal.** YHWH chama Avram para fora de Charan com um comando que não nomeia o destino e uma promessa que moldará o restante da Torá. A bênção quíntupla (12:2–3) introduz *berakhah* como motor narrativo. Avram viaja por Kenaan — Shekhem, o carvalho de Moreh, Beyt-El — construindo altares e invocando o nome de YHWH. A fome o leva ao Egito, onde o episódio esposa-irmã introduz um padrão que se repete em 20:2 e 26:7. Faraó é atingido com pragas (*nega'im*) — a mesma raiz que retornará no Êxodo.
 

@@ -27,11 +27,15 @@
 
 ## GUIA DE LEITURA
 
-**Texto Principal:** Tradução primária—legível mas fiel à estrutura hebraica
-**Notas:** Características hebraicas essenciais imediatamente abaixo de cada versículo
-***Itálico:*** Palavras adicionadas para a gramática portuguesa (não presentes no texto hebraico)
-**"Aspas":** Discurso divino direto
-**YHWH:** Tetragrama transliterado consonantalmente (Regra 25, Opção A)
+**Texto Principal:** Tradução primária — legível, mas fiel à estrutura hebraica. **Notas:** Recursos hebraicos essenciais logo abaixo de cada versículo.
+
+**Como o texto é marcado:**
+- *Palavras em itálico* — acrescentadas para a gramática do português (não estão no texto hebraico)
+- {t:raqia} — termos hebraicos transliterados, mantidos sem tradução (explicados nas notas)
+- {a:vento/espírito} — uma palavra que o hebraico deixa aberta a dois sentidos, ambos mantidos
+- @@"…"@@ — fala direta de Deus
+
+As notas são marcadas por tipo — **Crítico · Lexical · Gramatical · Teológico** — cada uma com sua cor (veja a legenda no topo da visão de Notas).
 
 **Este capítulo contém a aliança pós-dilúvio, a proibição do sangue e o incidente de Cham/Kenaan.** A bênção de 9:1 ecoa Gn 1:28. A aliança (9:8–17) é a primeira *berit* plenamente revelada, com o arco (*qesheth*) como sinal. A primeira fala registrada de Noach (9:25–27) — após capítulos de silêncio — é uma maldição. O texto diz que Cham "viu a nudez do seu pai"; a TT traduz o que o texto diz, não o que ele pode significar.
 

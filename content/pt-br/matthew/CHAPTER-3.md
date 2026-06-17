@@ -28,11 +28,14 @@
 
 ## GUIA DE LEITURA
 
-**Texto Principal:** Tradução primária — legível mas fiel à estrutura grega
-**Notas:** Características gregas essenciais imediatamente abaixo de cada versículo
-***Itálico:*** Palavras adicionadas para a gramática portuguesa (não presentes no texto grego)
-**"Aspas":** Discurso direto
-**o Senhor:** kyrios traduzido conforme Política do Nome Divino GS (Opção C) ao citar passagens do AT com YHWH
+**Texto Principal:** Tradução primária — legível, mas fiel à estrutura grega. **Notas:** Recursos gregos essenciais logo abaixo de cada versículo.
+
+**Como o texto é marcado:**
+- *Palavras em itálico* — acrescentadas para a gramática do português (não estão no texto grego)
+- {a:vento/espírito} — uma palavra que o grego deixa aberta a dois sentidos, ambos mantidos
+- @@"…"@@ — fala direta de Deus ou de Yeshua (Jesus)
+
+As notas são marcadas por tipo — **Crítico · Lexical · Gramatical · Teológico** — cada uma com sua cor (veja a legenda no topo da visão de Notas).
 
 **Este capítulo introduz Yochanan (João) o Imersor e "o reino dos céus".** A expressão *basileia tōn ouranōn* ("reino dos céus") aparece pela primeira vez em Mateus — uma expressão exclusiva deste Evangelho (os outros Evangelhos usam "reino de Deus"). A TT traduz *ouranōn* como "céus" conforme alinhamento com o hebraico *shamayim*. A prática de *baptisma* de João é traduzida como "imersão" conforme glossário travado. Os nomes próprios seguem a transliteração TT: João (não João), Perushim (Fariseus) (não Fariseus), Tsduqim (Saduceus) (não Saduceus), Yarden (Jordão) (não Jordão).
 

@@ -26,12 +26,15 @@
 
 ## GUIA DE LECTURA
 
-**Texto Principal:** Traducción primaria—legible pero fiel a la estructura hebrea
-**Notas:** Características hebreas esenciales inmediatamente debajo de cada versículo
-***Cursiva:*** Palabras anadidas para la gramática española (no presentes en el texto hebreo)
-**"Comillas":** Discurso divino directo
-**YHWH:** Tetragrama transliterado consonantalmente (Regla 25, Opción A)
-**nephilim, tebah, gofer:** Terminos hebreos transliterados (explicados en notas)
+**Texto Principal:** Traducción primaria — legible pero fiel a la estructura hebrea. **Notas:** Rasgos hebreos esenciales justo debajo de cada versículo.
+
+**Cómo está marcado el texto:**
+- *Palabras en cursiva* — añadidas para la gramática del español (no están en el texto hebreo)
+- {t:raqia} — términos hebreos transliterados, sin traducir (explicados en las notas)
+- {a:viento/espíritu} — una palabra que el hebreo deja abierta a dos sentidos, ambos conservados
+- @@"…"@@ — habla directa de Dios
+
+Las notas se etiquetan por tipo — **Crítico · Léxico · Gramatical · Teológico** — cada una con su color (vea la leyenda en la parte superior de la vista de Notas).
 
 **Este capítulo contiene algunos de los pasajes más debatidos de Génesis.** La TT preserva toda ambigüedad que el hebreo preserva. "Los hijos de Dios/los dioses" se presenta con barra conforme Regla 2. "Nephilim" se translitere conforme Regla 4. Las tensiones del relato del diluvio (dos de cada vs. siete pares) se presentan tal como el TM las lee, sin armonización (Regla 22).
 

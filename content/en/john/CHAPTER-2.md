@@ -27,11 +27,14 @@
 
 ## READING GUIDE
 
-**Main Text:** Primary translation — readable but faithful to Greek structure
-**Notes:** Essential Greek features immediately below each verse
-***Italics:*** Words added for English grammar (not in Greek text)
-**"Quotes":** Direct speech
-**the Lord:** κύριος rendered per GS Divine Name Policy (Option C) when quoting OT YHWH passages
+**Main Text:** Primary translation — readable but faithful to Greek structure. **Notes:** Essential Greek features immediately below each verse.
+
+**How the text is marked:**
+- *Words in italics* — added for English grammar (not in the Greek text)
+- {a:wind/spirit} — a word the Greek leaves open to two meanings, both kept
+- @@"…"@@ — direct speech of God or Yeshua (Jesus)
+
+Notes are tagged by type — **Critical · Lexical · Grammatical · Theological** — each shown with its colour (see the legend at the top of the Notes view).
 
 **This chapter contains two major scenes and a transitional note.** The wedding at Qanah (vv.1–12) introduces the first "sign" (*sēmeion*) — a term John uses deliberately instead of "miracle" (*dynamis*) or "wonder" (*teras*). The temple clearing (vv.13–22) introduces the distinction between ναός (*naos*, the inner sanctuary) and ἱερόν (*hieron*, the temple complex). The chapter closes with a narrator's comment on Yeshua's knowledge of human nature (vv.23–25). Proper names follow TT transliteration: Qanah (not Cana), Yeshua (not Jesus), Kfar Nachum (not Capernaum), Yerushalayim (not Jerusalem).
 

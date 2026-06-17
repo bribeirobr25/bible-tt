@@ -27,11 +27,14 @@
 
 ## LESEANLEITUNG
 
-**Haupttext:** Primäre Übersetzung — lesbar aber treu der griechischen Struktur
-**Notizen:** Wesentliche griechische Merkmale unmittelbar unter jedem Vers
-***Kursiv:*** Wörter für deutsche Grammatik hinzugefügt (nicht im griechischen Text)
-**„Anführungszeichen":** Direkte Rede
-**der Herr:** κύριος wiedergegeben gemäß GS-Gottesname-Politik (Option C), wenn alttestamentliche JHWH-Stellen zitiert werden
+**Haupttext:** Primärübersetzung — lesbar, aber treu zur griechischen Struktur. **Notizen:** Wesentliche griechische Merkmale direkt unter jedem Vers.
+
+**Wie der Text markiert ist:**
+- *Kursive Wörter* — für die deutsche Grammatik ergänzt (nicht im griechischen Text)
+- {a:Wind/Geist} — ein Wort, das das Griechische in zwei Bedeutungen offenlässt, beide beibehalten
+- @@"…"@@ — direkte Rede Gottes oder Yeshuas (Jesus)
+
+Notizen sind nach Typ gekennzeichnet — **Kritisch · Lexikalisch · Grammatisch · Theologisch** — jeweils mit ihrer Farbe (siehe die Legende oben in der Notizen-Ansicht).
 
 **Dieses Kapitel enthält den meistzitierten Vers der Bibel (3,16) und eine der wichtigsten Übersetzungsmehrdeutigkeiten des Evangeliums: ἄνωθεν (*anōthen*) in V.3, das sowohl „von oben" (räumlich) als auch „von neuem" (zeitlich) bedeutet. Die TT bewahrt die Doppelbedeutung mit einem Schrägstrich — „von oben/von neuem" — weil der griechische Leser beide Bedeutungen gleichzeitig gehört hätte. Nikodemos (Nikodemus) hört nur „von neuem"; Yeshua (Jesus) meint „von oben." Die Kraft des Textes hängt an der Mehrdeutigkeit. Eigennamen folgen der TT-Transliteration: Nikodemos (Nikodemus), Yeshua (Jesus), Yochanan (Johannes), Mosheh (Mose). Die Wiedergabe „Leben des Zeitalters" (nicht „ewiges Leben") in VV.15–16 spiegelt αἰώνιος (*aiōnios*) wider, das sich auf αἰών (*aiōn*, „Zeitalter") bezieht — eine Lebensqualität, die zum kommenden Zeitalter gehört, keine Aussage über Zeitlosigkeit.**
 

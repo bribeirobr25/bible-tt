@@ -27,11 +27,14 @@
 
 ## LESEANLEITUNG
 
-**Haupttext:** Primäre Übersetzung — lesbar aber treu der griechischen Struktur
-**Notizen:** Wesentliche griechische Merkmale unmittelbar unter jedem Vers
-***Kursiv:*** Wörter für deutsche Grammatik hinzugefügt (nicht im griechischen Text)
-**„Anführungszeichen":** Direkte Rede
-**der Herr:** κύριος wiedergegeben gemäß GS-Gottesname-Politik (Option C), wenn alttestamentliche JHWH-Stellen zitiert werden
+**Haupttext:** Primärübersetzung — lesbar, aber treu zur griechischen Struktur. **Notizen:** Wesentliche griechische Merkmale direkt unter jedem Vers.
+
+**Wie der Text markiert ist:**
+- *Kursive Wörter* — für die deutsche Grammatik ergänzt (nicht im griechischen Text)
+- {a:Wind/Geist} — ein Wort, das das Griechische in zwei Bedeutungen offenlässt, beide beibehalten
+- @@"…"@@ — direkte Rede Gottes oder Yeshuas (Jesus)
+
+Notizen sind nach Typ gekennzeichnet — **Kritisch · Lexikalisch · Grammatisch · Theologisch** — jeweils mit ihrer Farbe (siehe die Legende oben in der Notizen-Ansicht).
 
 **Dies ist das erste Kapitel der Griechischen Schriften im TT-Projekt.** Der Prolog (1,1–18) gehört zu den theologisch dichtesten Abschnitten der Griechischen Schriften. Der Begriff *logos* („Wort") trägt ein Bedeutungsspektrum, das weit über jedes einzelne deutsche Wort hinausgeht. Die TT gibt ihn als „Wort" (Kleinschreibung) wieder, mit einer kritischen Notiz bei V.1 zum Bedeutungsspektrum. Eigennamen folgen der TT-Transliteration: Yochanan (Johannes), Yeshua (Jesus), Kefa (Petrus), Philippos (Philippus), Nathanael, Andreas. Das Verbaspekt-System unterscheidet sich vom hebräischen Tempussystem in Genesis — im Griechischen ist der Aspekt (wie der Sprecher die Handlung betrachtet) primär, nicht die Zeit.
 

@@ -26,11 +26,15 @@
 
 ## LESEANLEITUNG
 
-**Haupttext:** Primäre Übersetzung—lesbar aber treu der hebräischen Struktur
-**Notizen:** Wesentliche hebräische Merkmale unmittelbar unter jedem Vers
-***Kursiv:*** Wörter für deutsche Grammatik hinzugefügt (nicht im hebräischen Text)
-**„Anführungszeichen":** Direkte göttliche Rede
-**JHWH:** Tetragrammaton konsonantisch transliteriert (Regel 25, Option A)
+**Haupttext:** Primärübersetzung — lesbar, aber treu zur hebräischen Struktur. **Notizen:** Wesentliche hebräische Merkmale direkt unter jedem Vers.
+
+**Wie der Text markiert ist:**
+- *Kursive Wörter* — für die deutsche Grammatik ergänzt (nicht im hebräischen Text)
+- {t:raqia} — transliterierte hebräische Begriffe, unübersetzt belassen (in den Notizen erklärt)
+- {a:Wind/Geist} — ein Wort, das das Hebräische in zwei Bedeutungen offenlässt, beide beibehalten
+- @@"…"@@ — direkte Rede Gottes
+
+Notizen sind nach Typ gekennzeichnet — **Kritisch · Lexikalisch · Grammatisch · Theologisch** — jeweils mit ihrer Farbe (siehe die Legende oben in der Notizen-Ansicht).
 
 **Dieses Kapitel markiert den Übergang von der Urgeschichte zur Vätererzählung.** JHWH beruft Avram (Abram) aus Charan mit einem Befehl, der kein Ziel nennt, und einer Verheißung, die den Rest der Torah prägen wird. Der fünffache Segen (12:2–3) führt *Berakhah* als narrativen Antrieb ein. Abram zieht durch Kenaan (Kanaan) — Shekhem (Sichem), die Eiche von Moreh, Beyt-El (Bethel) — baut Altäre und ruft den Namen JHWHs an. Eine Hungersnot treibt ihn nach Ägypten, wo die Ehefrau-Schwester-Episode ein Muster einführt, das bei 20:2 und 26:7 wiederkehrt. Pharao wird mit Plagen (*nega'im*) geschlagen — dieselbe Wurzel, die im Exodus wiederkehren wird.
 

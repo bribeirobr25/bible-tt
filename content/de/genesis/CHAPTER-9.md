@@ -27,11 +27,15 @@
 
 ## LESEANLEITUNG
 
-**Haupttext:** Primäre Übersetzung—lesbar aber treu der hebräischen Struktur
-**Notizen:** Wesentliche hebräische Merkmale unmittelbar unter jedem Vers
-***Kursiv:*** Wörter für deutsche Grammatik hinzugefügt (nicht im hebräischen Text)
-**„Anführungszeichen":** Direkte göttliche Rede
-**JHWH:** Tetragrammaton konsonantisch transliteriert (Regel 25, Option A)
+**Haupttext:** Primärübersetzung — lesbar, aber treu zur hebräischen Struktur. **Notizen:** Wesentliche hebräische Merkmale direkt unter jedem Vers.
+
+**Wie der Text markiert ist:**
+- *Kursive Wörter* — für die deutsche Grammatik ergänzt (nicht im hebräischen Text)
+- {t:raqia} — transliterierte hebräische Begriffe, unübersetzt belassen (in den Notizen erklärt)
+- {a:Wind/Geist} — ein Wort, das das Hebräische in zwei Bedeutungen offenlässt, beide beibehalten
+- @@"…"@@ — direkte Rede Gottes
+
+Notizen sind nach Typ gekennzeichnet — **Kritisch · Lexikalisch · Grammatisch · Theologisch** — jeweils mit ihrer Farbe (siehe die Legende oben in der Notizen-Ansicht).
 
 **Dieses Kapitel enthält den nachsintflutlichen Bund, das Blutverbot und den Cham (Ham)/Kenaan (Kanaan)-Vorfall.** Der Segen von 9:1 echot Gn 1:28. Der Bund (9:8–17) ist der erste vollständig offenbarte *Berit*, mit dem Bogen (*Qesheth*) als Zeichen. Noahs erste aufgezeichnete Rede (9:25–27) — nach Kapiteln des Schweigens — ist ein Fluch. Der Text sagt, Ham „sah die Blöße seines Vaters"; die TT gibt wieder, was der Text sagt, nicht was er bedeuten könnte.
 

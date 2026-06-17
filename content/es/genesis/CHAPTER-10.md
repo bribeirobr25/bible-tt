@@ -27,11 +27,15 @@
 
 ## GUÍA DE LECTURA
 
-**Texto Principal:** Traducción primaria — legible pero fiel a la estructura hebrea
-**Notas:** Rasgos hebreos esenciales inmediatamente debajo de cada versículo
-***Cursiva:*** Palabras añadidas para la gramática del español (no están en el texto hebreo)
-**"Comillas":** Discurso divino directo
-**YHWH:** Tetragrama rendido consonantalmente (Regla 25, Opción A)
+**Texto Principal:** Traducción primaria — legible pero fiel a la estructura hebrea. **Notas:** Rasgos hebreos esenciales justo debajo de cada versículo.
+
+**Cómo está marcado el texto:**
+- *Palabras en cursiva* — añadidas para la gramática del español (no están en el texto hebreo)
+- {t:raqia} — términos hebreos transliterados, sin traducir (explicados en las notas)
+- {a:viento/espíritu} — una palabra que el hebreo deja abierta a dos sentidos, ambos conservados
+- @@"…"@@ — habla directa de Dios
+
+Las notas se etiquetan por tipo — **Crítico · Léxico · Gramatical · Teológico** — cada una con su color (vea la leyenda en la parte superior de la vista de Notas).
 
 **Este capítulo es la Tabla de las Naciones — un catálogo genealógico-geográfico de los descendientes de los tres hijos de Noaj (Noé): Sem, Cam y Yafet (Jafet).** Se abre con la cuarta fórmula *toledot* (10:1) y traza el mapa del mundo humano postdiluviano a través de linaje, lengua, territorio y nación. La mayor parte del capítulo es lista genealógica; la sección de Nimrod (10:8–12) es la principal excepción narrativa. YHWH aparece solo una vez (10:9). El capítulo cierra con una fórmula resumida (10:32) que hace eco de la estructura *toledot*. Los nombres aquí son simultáneamente personas, pueblos y lugares — el texto no siempre distingue entre el antepasado y la nación que lleva ese nombre.
 

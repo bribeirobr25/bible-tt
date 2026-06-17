@@ -26,11 +26,15 @@
 
 ## LESEANLEITUNG
 
-**Haupttext:** Primäre Übersetzung—lesbar aber treu der hebräischen Struktur
-**Notizen:** Wesentliche hebräische Merkmale unmittelbar unter jedem Vers
-***Kursiv:*** Wörter für deutsche Grammatik hinzugefügt (nicht im hebräischen Text)
-**„Anführungszeichen":** Direkte göttliche Rede
-**JHWH:** Tetragrammaton konsonantisch transliteriert (Regel 25, Option A)
+**Haupttext:** Primärübersetzung — lesbar, aber treu zur hebräischen Struktur. **Notizen:** Wesentliche hebräische Merkmale direkt unter jedem Vers.
+
+**Wie der Text markiert ist:**
+- *Kursive Wörter* — für die deutsche Grammatik ergänzt (nicht im hebräischen Text)
+- {t:raqia} — transliterierte hebräische Begriffe, unübersetzt belassen (in den Notizen erklärt)
+- {a:Wind/Geist} — ein Wort, das das Hebräische in zwei Bedeutungen offenlässt, beide beibehalten
+- @@"…"@@ — direkte Rede Gottes
+
+Notizen sind nach Typ gekennzeichnet — **Kritisch · Lexikalisch · Grammatisch · Theologisch** — jeweils mit ihrer Farbe (siehe die Legende oben in der Notizen-Ansicht).
 
 **Dieses Kapitel ist die Völkertafel — ein genealogisch-geographischer Katalog der Nachkommen von Noahs drei Söhnen: Shem, Cham (Ham) und Yafet (Jafet).** Es eröffnet mit der vierten *Toledot*-Formel (10:1) und kartiert die nachsintflutliche Menschenwelt durch Abstammung, Sprache, Gebiet und Nation. Der Großteil des Kapitels ist genealogische Auflistung; der Nimrod-Abschnitt (10:8–12) ist die bedeutende narrative Ausnahme. JHWH erscheint nur einmal (10:9). Das Kapitel endet mit einer Zusammenfassungsformel (10:32), die die *Toledot*-Struktur echot. Namen sind hier gleichzeitig Personen, Völker und Orte — der Text unterscheidet nicht immer zwischen dem Vorfahren und der Nation, die diesen Namen trägt.
 

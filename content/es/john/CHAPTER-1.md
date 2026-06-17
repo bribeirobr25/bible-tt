@@ -28,11 +28,14 @@
 
 ## GUÍA DE LECTURA
 
-**Texto Principal:** Traducción primaria — legible pero fiel a la estructura griega
-**Notas:** Características griegas esenciales inmediatamente debajo de cada versículo
-***Cursiva:*** Palabras agregadas para la gramática española (no presentes en el texto griego)
-**"Comillas":** Discurso directo
-**el Señor:** kyrios traducido según la Política GS del Nombre Divino (Opción C) al citar pasajes del AT que contienen YHWH
+**Texto Principal:** Traducción primaria — legible pero fiel a la estructura griega. **Notas:** Rasgos griegos esenciales justo debajo de cada versículo.
+
+**Cómo está marcado el texto:**
+- *Palabras en cursiva* — añadidas para la gramática del español (no están en el texto griego)
+- {a:viento/espíritu} — una palabra que el griego deja abierta a dos sentidos, ambos conservados
+- @@"…"@@ — habla directa de Dios o de Yeshua (Jesús)
+
+Las notas se etiquetan por tipo — **Crítico · Léxico · Gramatical · Teológico** — cada una con su color (vea la leyenda en la parte superior de la vista de Notas).
 
 **Este es el primer capítulo de las Escrituras Griegas en el proyecto TT.** El Prologo (1:1-18) se encuentra entre los pasajes teologicamente mas densos de las Escrituras Griegas. El término *logos* ("palabra") posee un rango semántico mucho mas amplio que cualquier palabra en español. La TT lo traduce como "palabra" (minúscula) con una nota crítica en v.1 sobre el rango semántico. Los nombres propios siguen la transliteracion TT: Yochanan (no Juan), Yeshua (no Jesus), Kefa (no Pedro), Philippos, Nathanael, Andreas. El sistema de aspecto verbal difiere del sistema de tiempos hebreos usado en Génesis — el aspecto griego (como el hablante concibe la acción) es primario, no el tiempo.
 

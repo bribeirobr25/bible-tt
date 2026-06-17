@@ -27,11 +27,15 @@
 
 ## GUIA DE LECTURA
 
-**Texto Principal:** Traducción primaria—legible pero fiel a la estructura hebrea
-**Notas:** Características hebreas esenciales inmediatamente debajo de cada versículo
-***Cursiva:*** Palabras anadidas para la gramática española (no presentes en el texto hebreo)
-**"Comillas":** Discurso divino directo o habla humana
-**YHWH:** Tetragrama transliterado consonantalmente (Regla 25, Opción A)
+**Texto Principal:** Traducción primaria — legible pero fiel a la estructura hebrea. **Notas:** Rasgos hebreos esenciales justo debajo de cada versículo.
+
+**Cómo está marcado el texto:**
+- *Palabras en cursiva* — añadidas para la gramática del español (no están en el texto hebreo)
+- {t:raqia} — términos hebreos transliterados, sin traducir (explicados en las notas)
+- {a:viento/espíritu} — una palabra que el hebreo deja abierta a dos sentidos, ambos conservados
+- @@"…"@@ — habla directa de Dios
+
+Las notas se etiquetan por tipo — **Crítico · Léxico · Gramatical · Teológico** — cada una con su color (vea la leyenda en la parte superior de la vista de Notas).
 
 **Política Humano / Adan (Regla 17):** En este capítulo, *ha-adam* (con artículo) en el v.1 = "el humano" (continuando la política de Gn 2–3). En el **v.25**, el texto cambia a *adam* sin artículo en contexto de genealogía/nombramiento — este es el **punto de transición** al nombre propio "Adan." Senalado con nota 🔴 CRÍTICO.
 

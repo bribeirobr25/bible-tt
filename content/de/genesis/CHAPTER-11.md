@@ -26,11 +26,15 @@
 
 ## LESEANLEITUNG
 
-**Haupttext:** Primäre Übersetzung—lesbar aber treu der hebräischen Struktur
-**Notizen:** Wesentliche hebräische Merkmale unmittelbar unter jedem Vers
-***Kursiv:*** Wörter für deutsche Grammatik hinzugefügt (nicht im hebräischen Text)
-**„Anführungszeichen":** Direkte göttliche Rede
-**JHWH:** Tetragrammaton konsonantisch transliteriert (Regel 25, Option A)
+**Haupttext:** Primärübersetzung — lesbar, aber treu zur hebräischen Struktur. **Notizen:** Wesentliche hebräische Merkmale direkt unter jedem Vers.
+
+**Wie der Text markiert ist:**
+- *Kursive Wörter* — für die deutsche Grammatik ergänzt (nicht im hebräischen Text)
+- {t:raqia} — transliterierte hebräische Begriffe, unübersetzt belassen (in den Notizen erklärt)
+- {a:Wind/Geist} — ein Wort, das das Hebräische in zwei Bedeutungen offenlässt, beide beibehalten
+- @@"…"@@ — direkte Rede Gottes
+
+Notizen sind nach Typ gekennzeichnet — **Kritisch · Lexikalisch · Grammatisch · Theologisch** — jeweils mit ihrer Farbe (siehe die Legende oben in der Notizen-Ansicht).
 
 **Dieses Kapitel enthält die Turmbauerzählung von Bavel (11:1–9) und die Genealogie Shems (11:10–32).** Die Bavel-Erzählung schließt die Urgeschichte mit einer zweiten Zerstreuung ab — die erste war geographisch (Kap. 10, Völkertafel); diese ist sprachlich. Das menschliche „lasst uns" (*havah*) von 11:3–4 echot Gottes „lasst uns" von 1:26 — aber auf Selbsterhöhung gerichtet. Die Genealogie überbrückt die Urgeschichte zu den Vätererzählungen: zehn Generationen von Shem zu Avram (Abram), mit sinkenden Lebensspannen von 600 auf 205. Terachs *Toledot* (11:27) führt Abram ein, und das Kapitel endet mitten in der Reise — die Familie verlässt Ur in Richtung Kenaan (Kanaan), hält aber in Charan an.
 
