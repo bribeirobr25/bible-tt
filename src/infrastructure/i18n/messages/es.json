@@ -77,7 +77,8 @@
   "book": {
     "genesis": "Génesis",
     "john": "Juan",
-    "matthew": "Mateo"
+    "matthew": "Mateo",
+    "mark": "Marcos"
   },
   "confidence": {
     "verified": "Verificado",

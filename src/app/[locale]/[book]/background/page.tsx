@@ -3,7 +3,11 @@ import { notFound } from "next/navigation";
 import { getTranslations, setRequestLocale } from "next-intl/server";
 import { AVAILABLE_BOOKS } from "@/domain/books/registry";
 import type { Locale } from "@/infrastructure/i18n/config";
-import { getAvailableBooks, getBookContextData } from "@/lib/content-loader";
+import {
+  getAvailableBooks,
+  getBookContextData,
+  getPeopleData,
+} from "@/lib/content-loader";
 import {
   breadcrumbJsonLd,
   canonicalUrl,
@@ -53,6 +57,8 @@ export default async function BookContextPage({
 
   const t = await getTranslations();
   const data = await getBookContextData(locale as Locale, book);
+  const people = await getPeopleData(locale as Locale, book);
+  const hasPeople = !!people && people.entries.length > 0;
 
   const bookName = t(`book.${book}`);
   return (
@@ -107,7 +113,11 @@ export default async function BookContextPage({
           </div>
         )}
         <DoorPager
-          left={{ href: `/${book}/people`, label: t("people.title") }}
+          left={
+            hasPeople
+              ? { href: `/${book}/people`, label: t("people.title") }
+              : { href: `/${book}`, label: bookName }
+          }
           right={{ href: `/${book}/chapter/1`, label: `${bookName} 1` }}
         />
       </main>
