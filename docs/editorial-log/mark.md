@@ -65,3 +65,19 @@ Decision log for the TT rendering of Mark, per RULES-CORE §Editorial Log Specif
 - **3:32 "[and your sisters]"** — present in some witnesses (A, D), absent in others (א, B, C, L). Included as text-uncertain (italics), flagged.
 
 **Status:** provisional. Source-analysis corpus: `docs/source-analysis/greek/mark-2-3.md`.
+
+---
+
+## Entry 2026-06-18-003 — Mark PEOPLE + book CONTEXT (EN); canonical-home decisions
+
+**PEOPLE.md canonical-home decisions (Rule 29 v3.3.2; stability over "most-substantive-arc" per the plan audit):**
+- **See-only stubs → matthew/PEOPLE.md** for figures Matthew holds as full entries: **Yeshua (Jesus)**, **Yochanan the Immerser (John the Baptist)**, **Miryam (Mary)**. (Miryam appears in Mark 1–3 only as the unnamed "his mother," 3:31–35; named at 6:3.) No re-canonicalization to Mark, even though Mark is arguably a substantive arc for Yeshua — chose stability to avoid churn.
+- **Full entries in Mark (first authored appearance):** Shimon Kefa (Simon Peter), Andreas (Andrew), Ya'aqov son of Zavdai (James), Yochanan son of Zavdai (John), Zavdai (Zebedee), Levi. These figures are not in Matthew 1–3 (the Twelve are called in Matt 4 / listed Matt 10), so no prior canonical entry exists.
+- **Concise entries** for the rest of the Twelve named at 3:18–19 (Philippos, Bar-Talmai, Mattai, Toma, Ya'aqov son of Chalfai, Taddai, Shimon the Kena'ani, Yehudah Ish-Keriot) — named but with no narrative role in Mark 1–3.
+- **Disambiguations logged:** two Yochanans (the Immerser vs. son of Zavdai); three Ya'aqovs (son of Zavdai / son of Chalfai / the patriarch); Levi (2:14) traditionally = the apostle Mattai (3:18, = Matthew 9:9), identification not stated by Mark; "Kena'ani" = *qan'ana* "zealous" (Zealot), not "from Cana"; "Ish-Keriot" = *ish Keriot* (man of Keriot).
+
+**Activation wiring (Rule 29 5-change checklist):** bookLabels (people/page.tsx), parser `inBook` aliases (in mark / em marcos / in markus / en marcos), content-lint §0.12 allow-list + PEOPLE_FILES + CONTEXT_FILES, RULES-CORE see-target allow-list — all extended for `mark`.
+
+**CONTEXT.md:** 6 cross-chapter motifs (euthys/speed; authority/exousia; rising conflict → 3:6 death-plot; messianic secret; divine sonship; calling/the Twelve).
+
+**Status:** provisional. EN only; PT-BR/DE/ES propagation pending.
