@@ -59,15 +59,15 @@
 
 ---
 
-¹Und Gott gedachte Noahs und alles Lebewesens und alles Viehs, das mit ihm in der Tebah *war*, und Gott ließ einen Wind/Geist über das Land fahren, und die Wasser sanken. ²Und die Quellen der Tiefe und die Fenster des Himmels wurden verschlossen, und der Regen vom Himmel wurde zurückgehalten. ³Und die Wasser kehrten zurück von auf dem Land, gehend und zurückkehrend, und die Wasser verminderten sich am Ende von einhundertfünfzig Tagen. ⁴Und die Tebah ruhte im siebten Monat, am siebzehnten Tag des Monats, auf den Bergen von Ararat. ⁵Und die Wasser waren gehend und sich vermindernd bis zum zehnten Monat; im zehnten *Monat*, am ersten des Monats, erschienen die Spitzen der Berge.
+¹Und Gott gedachte Noahs und alles Lebewesens und alles Viehs, das mit ihm in der {t:Tebah} *war*, und Gott ließ einen {a:Wind/Geist} über das Land fahren, und die Wasser sanken. ²Und die Quellen der Tiefe und die Fenster des Himmels wurden verschlossen, und der Regen vom Himmel wurde zurückgehalten. ³Und die Wasser kehrten zurück von auf dem Land, gehend und zurückkehrend, und die Wasser verminderten sich am Ende von einhundertfünfzig Tagen. ⁴Und die {t:Tebah} ruhte im siebten Monat, am siebzehnten Tag des Monats, auf den Bergen von Ararat. ⁵Und die Wasser waren gehend und sich vermindernd bis zum zehnten Monat; im zehnten *Monat*, am ersten des Monats, erschienen die Spitzen der Berge.
 
-⁶Und es war am Ende von vierzig Tagen, und Noach (Noah) öffnete das Fenster der Tebah, das er gemacht hatte. ⁷Und er sandte den Raben aus, und er ging aus, ausgehend und zurückkehrend, bis die Wasser trockneten von auf dem Land. ⁸Und er sandte die Taube aus von bei ihm, um zu sehen, ob die Wasser sich gelöst hatten von auf dem Angesicht des Bodens. ⁹Und die Taube fand keinen Ruheplatz für die Sohle ihres Fußes, und sie kehrte zu ihm zurück zur Tebah, denn Wasser *waren* auf dem Angesicht des ganzen Landes; und er streckte seine Hand aus und nahm sie und brachte sie zu sich in die Tebah. ¹⁰Und er wartete noch sieben weitere Tage, und abermals sandte er die Taube aus der Tebah. ¹¹Und die Taube kam zu ihm zur Abendzeit, und siehe, ein frisch gepflücktes Olivenblatt *war* in ihrem Schnabel; und Noah erkannte, dass die Wasser sich gelöst hatten von auf dem Land. ¹²Und er wartete noch sieben weitere Tage, und er sandte die Taube aus, und sie kehrte nicht wieder zu ihm zurück.
+⁶Und es war am Ende von vierzig Tagen, und Noach (Noah) öffnete das Fenster der {t:Tebah}, das er gemacht hatte. ⁷Und er sandte den Raben aus, und er ging aus, ausgehend und zurückkehrend, bis die Wasser trockneten von auf dem Land. ⁸Und er sandte die Taube aus von bei ihm, um zu sehen, ob die Wasser sich gelöst hatten von auf dem Angesicht des Bodens. ⁹Und die Taube fand keinen Ruheplatz für die Sohle ihres Fußes, und sie kehrte zu ihm zurück zur {t:Tebah}, denn Wasser *waren* auf dem Angesicht des ganzen Landes; und er streckte seine Hand aus und nahm sie und brachte sie zu sich in die {t:Tebah}. ¹⁰Und er wartete noch sieben weitere Tage, und abermals sandte er die Taube aus der {t:Tebah}. ¹¹Und die Taube kam zu ihm zur Abendzeit, und siehe, ein frisch gepflücktes Olivenblatt *war* in ihrem Schnabel; und Noah erkannte, dass die Wasser sich gelöst hatten von auf dem Land. ¹²Und er wartete noch sieben weitere Tage, und er sandte die Taube aus, und sie kehrte nicht wieder zu ihm zurück.
 
-¹³Und es war im sechshundertundeersten Jahr, im ersten *Monat*, am ersten des Monats, die Wasser trockneten von auf dem Land; und Noah entfernte die Bedeckung der Tebah und schaute, und siehe, das Angesicht des Bodens hatte getrocknet. ¹⁴Und im zweiten Monat, am siebenundzwanzigsten Tag des Monats, war das Land trocken.
+¹³Und es war im sechshundertundeersten Jahr, im ersten *Monat*, am ersten des Monats, die Wasser trockneten von auf dem Land; und Noah entfernte die Bedeckung der {t:Tebah} und schaute, und siehe, das Angesicht des Bodens hatte getrocknet. ¹⁴Und im zweiten Monat, am siebenundzwanzigsten Tag des Monats, war das Land trocken.
 
-¹⁵Und Gott sprach zu Noah und sagte: ¹⁶„Gehe hinaus aus der Tebah, du und deine Frau und deine Söhne und die Frauen deiner Söhne mit dir. ¹⁷Jedes Lebewesen, das mit dir *ist*, von allem Fleisch — den Vogel und das Vieh und jedes Kriechende, das auf dem Land kriecht — bringe hinaus mit dir, und sie sollen wimmeln auf dem Land, und fruchtbar sein und sich mehren auf dem Land." ¹⁸Und Noah ging hinaus, und seine Söhne und seine Frau und die Frauen seiner Söhne mit ihm. ¹⁹Jedes Lebewesen, jedes Kriechende und jeder Vogel, alles, was sich auf dem Land bewegt, zu ihren Sippen gingen sie hinaus aus der Tebah.
+¹⁵Und Gott sprach zu Noah und sagte: ¹⁶@@„Gehe hinaus aus der {t:Tebah}, du und deine Frau und deine Söhne und die Frauen deiner Söhne mit dir. ¹⁷Jedes Lebewesen, das mit dir *ist*, von allem Fleisch — den Vogel und das Vieh und jedes Kriechende, das auf dem Land kriecht — bringe hinaus mit dir, und sie sollen wimmeln auf dem Land, und fruchtbar sein und sich mehren auf dem Land."@@ ¹⁸Und Noah ging hinaus, und seine Söhne und seine Frau und die Frauen seiner Söhne mit ihm. ¹⁹Jedes Lebewesen, jedes Kriechende und jeder Vogel, alles, was sich auf dem Land bewegt, zu ihren Sippen gingen sie hinaus aus der {t:Tebah}.
 
-²⁰Und Noah baute einen Altar für JHWH, und er nahm von jedem reinen Vieh und von jedem reinen Vogel, und er brachte Brandopfer dar auf dem Altar. ²¹Und JHWH roch den beruhigenden Duft, und JHWH sprach in seinem Herzen: „Ich werde nicht wieder den Boden verfluchen um des Menschen willen, denn die Neigung des Herzens des Menschen *ist* böse von seiner Jugend an; und ich werde nicht wieder alles Lebende schlagen, wie ich getan habe. ²²Solange noch alle Tage des Landes *sind*, sollen Saat und Ernte, und Kälte und Hitze, und Sommer und Winter, und Tag und Nacht nicht aufhören."
+²⁰Und Noah baute einen Altar für JHWH, und er nahm von jedem reinen Vieh und von jedem reinen Vogel, und er brachte Brandopfer dar auf dem Altar. ²¹Und JHWH roch den beruhigenden Duft, und JHWH sprach in seinem Herzen: @@„Ich werde nicht wieder den Boden verfluchen um des Menschen willen, denn die Neigung des Herzens des Menschen *ist* böse von seiner Jugend an; und ich werde nicht wieder alles Lebende schlagen, wie ich getan habe. ²²Solange noch alle Tage des Landes *sind*, sollen Saat und Ernte, und Kälte und Hitze, und Sommer und Winter, und Tag und Nacht nicht aufhören."@@
 
 ---
 
@@ -75,7 +75,7 @@
 
 ### **Vers 1**
 
-Und Gott gedachte Noahs und alles Lebewesens und alles Viehs, das mit ihm in der Tebah *war*, und Gott ließ einen Wind/Geist über das Land fahren, und die Wasser sanken.
+Und Gott gedachte Noahs und alles Lebewesens und alles Viehs, das mit ihm in der {t:Tebah} *war*, und Gott ließ einen {a:Wind/Geist} über das Land fahren, und die Wasser sanken.
 
 > **📝 NOTIZEN**
 >
@@ -113,7 +113,7 @@ Und die Wasser kehrten zurück von auf dem Land, gehend und zurückkehrend, und 
 
 ### **Vers 4**
 
-Und die Tebah ruhte im siebten Monat, am siebzehnten Tag des Monats, auf den Bergen von Ararat.
+Und die {t:Tebah} ruhte im siebten Monat, am siebzehnten Tag des Monats, auf den Bergen von Ararat.
 
 > **📝 NOTIZEN**
 >
@@ -138,7 +138,7 @@ Und die Wasser waren gehend und sich vermindernd bis zum zehnten Monat; im zehnt
 
 ### **Vers 6**
 
-Und es war am Ende von vierzig Tagen, und Noah öffnete das Fenster der Tebah, das er gemacht hatte.
+Und es war am Ende von vierzig Tagen, und Noah öffnete das Fenster der {t:Tebah}, das er gemacht hatte.
 
 > **📝 NOTIZEN**
 >
@@ -172,7 +172,7 @@ Und er sandte die Taube aus von bei ihm, um zu sehen, ob die Wasser sich gelöst
 
 ### **Vers 9**
 
-Und die Taube fand keinen Ruheplatz für die Sohle ihres Fußes, und sie kehrte zu ihm zurück zur Tebah, denn Wasser *waren* auf dem Angesicht des ganzen Landes; und er streckte seine Hand aus und nahm sie und brachte sie zu sich in die Tebah.
+Und die Taube fand keinen Ruheplatz für die Sohle ihres Fußes, und sie kehrte zu ihm zurück zur {t:Tebah}, denn Wasser *waren* auf dem Angesicht des ganzen Landes; und er streckte seine Hand aus und nahm sie und brachte sie zu sich in die {t:Tebah}.
 
 > **📝 NOTIZEN**
 >
@@ -183,7 +183,7 @@ Und die Taube fand keinen Ruheplatz für die Sohle ihres Fußes, und sie kehrte 
 
 ### **Vers 10**
 
-Und er wartete noch sieben weitere Tage, und abermals sandte er die Taube aus der Tebah.
+Und er wartete noch sieben weitere Tage, und abermals sandte er die Taube aus der {t:Tebah}.
 
 ---
 
@@ -211,7 +211,7 @@ Und er wartete noch sieben weitere Tage, und er sandte die Taube aus, und sie ke
 
 ### **Vers 13**
 
-Und es war im sechshundertundeersten Jahr, im ersten *Monat*, am ersten des Monats, die Wasser trockneten von auf dem Land; und Noah entfernte die Bedeckung der Tebah und schaute, und siehe, das Angesicht des Bodens hatte getrocknet.
+Und es war im sechshundertundeersten Jahr, im ersten *Monat*, am ersten des Monats, die Wasser trockneten von auf dem Land; und Noah entfernte die Bedeckung der {t:Tebah} und schaute, und siehe, das Angesicht des Bodens hatte getrocknet.
 
 > **📝 NOTIZEN**
 >
@@ -239,7 +239,7 @@ Und Gott sprach zu Noah und sagte:
 
 ### **Vers 16**
 
-„Gehe hinaus aus der Tebah, du und deine Frau und deine Söhne und die Frauen deiner Söhne mit dir.
+@@„Gehe hinaus aus der {t:Tebah}, du und deine Frau und deine Söhne und die Frauen deiner Söhne mit dir.@@
 
 > **📝 NOTIZEN**
 >
@@ -250,7 +250,7 @@ Und Gott sprach zu Noah und sagte:
 
 ### **Vers 17**
 
-Jedes Lebewesen, das mit dir *ist*, von allem Fleisch — den Vogel und das Vieh und jedes Kriechende, das auf dem Land kriecht — bringe hinaus mit dir, und sie sollen wimmeln auf dem Land, und fruchtbar sein und sich mehren auf dem Land."
+@@Jedes Lebewesen, das mit dir *ist*, von allem Fleisch — den Vogel und das Vieh und jedes Kriechende, das auf dem Land kriecht — bringe hinaus mit dir, und sie sollen wimmeln auf dem Land, und fruchtbar sein und sich mehren auf dem Land."@@
 
 > **📝 NOTIZEN**
 >
@@ -267,7 +267,7 @@ Und Noah ging hinaus, und seine Söhne und seine Frau und die Frauen seiner Söh
 
 ### **Vers 19**
 
-Jedes Lebewesen, jedes Kriechende und jeder Vogel, alles, was sich auf dem Land bewegt, zu ihren Sippen gingen sie hinaus aus der Tebah.
+Jedes Lebewesen, jedes Kriechende und jeder Vogel, alles, was sich auf dem Land bewegt, zu ihren Sippen gingen sie hinaus aus der {t:Tebah}.
 
 > **📝 NOTIZEN**
 >
@@ -292,7 +292,7 @@ Und Noah baute einen Altar für JHWH, und er nahm von jedem reinen Vieh und von 
 
 ### **Vers 21**
 
-Und JHWH roch den beruhigenden Duft, und JHWH sprach in seinem Herzen: „Ich werde nicht wieder den Boden verfluchen um des Menschen willen, denn die Neigung des Herzens des Menschen *ist* böse von seiner Jugend an; und ich werde nicht wieder alles Lebende schlagen, wie ich getan habe.
+Und JHWH roch den beruhigenden Duft, und JHWH sprach in seinem Herzen: @@„Ich werde nicht wieder den Boden verfluchen um des Menschen willen, denn die Neigung des Herzens des Menschen *ist* böse von seiner Jugend an; und ich werde nicht wieder alles Lebende schlagen, wie ich getan habe.@@
 
 > **📝 NOTIZEN**
 >
@@ -311,7 +311,7 @@ Und JHWH roch den beruhigenden Duft, und JHWH sprach in seinem Herzen: „Ich we
 
 ### **Vers 22**
 
-Solange noch alle Tage des Landes *sind*, sollen Saat und Ernte, und Kälte und Hitze, und Sommer und Winter, und Tag und Nacht nicht aufhören."
+@@Solange noch alle Tage des Landes *sind*, sollen Saat und Ernte, und Kälte und Hitze, und Sommer und Winter, und Tag und Nacht nicht aufhören."@@
 
 > **📝 NOTIZEN**
 >

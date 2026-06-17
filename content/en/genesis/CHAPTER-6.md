@@ -61,15 +61,15 @@
 
 ---
 
-¹And it was when the human began to multiply on the face of the ground, and daughters were born to them, ²and the sons of God/the gods saw the daughters of the human, that they *were* good, and they took for themselves women from all whom they chose. ³And YHWH said, "My spirit shall not remain/contend in the human forever, in that he *is* also flesh; and his days shall be one hundred and twenty years." ⁴The nephilim were on the land in those days, and also afterward, when the sons of God/the gods came to the daughters of the human, and they bore to them — they *are* the mighty ones who *were* from of old, men of the name.
+¹And it was when the human began to multiply on the face of the ground, and daughters were born to them, ²and the sons of {a:God/the gods} saw the daughters of the human, that they *were* good, and they took for themselves women from all whom they chose. ³And YHWH said, @@"My spirit shall not {a:remain/contend} in the human forever, in that he *is* also flesh; and his days shall be one hundred and twenty years."@@ ⁴The {t:nephilim} were on the land in those days, and also afterward, when the sons of {a:God/the gods} came to the daughters of the human, and they bore to them — they *are* the mighty ones who *were* from of old, men of the name.
 
-⁵And YHWH saw that great *was* the evil of the human on the land, and every inclination of the thoughts of his heart *was* only evil all the day. ⁶And YHWH regretted that he had made the human on the land, and it grieved him to his heart. ⁷And YHWH said, "I will wipe the human whom I created from upon the face of the ground, from human to livestock to creeping thing to bird of the sky, for I regret that I made them." ⁸But Noach (Noah) found favor in the eyes of YHWH.
+⁵And YHWH saw that great *was* the evil of the human on the land, and every inclination of the thoughts of his heart *was* only evil all the day. ⁶And YHWH regretted that he had made the human on the land, and it grieved him to his heart. ⁷And YHWH said, @@"I will wipe the human whom I created from upon the face of the ground, from human to livestock to creeping thing to bird of the sky, for I regret that I made them."@@ ⁸But Noach (Noah) found favor in the eyes of YHWH.
 
-⁹These *are* the generations of Noah. Noah *was* a righteous man, whole in his generations; with God walked Noah. ¹⁰And Noah begot three sons: Shem, Cham (Ham), and Yafet (Japheth). ¹¹And the land was corrupt before God, and the land was filled with violence. ¹²And God saw the land, and see, it was corrupt, for all flesh had corrupted its way upon the land. ¹³And God said to Noah, "The end of all flesh has come before me, for the land is filled with violence because of them, and see, I *am* destroying them with the land.
+⁹These *are* the generations of Noah. Noah *was* a righteous man, whole in his generations; with God walked Noah. ¹⁰And Noah begot three sons: Shem, Cham (Ham), and Yafet (Japheth). ¹¹And the land was corrupt before God, and the land was filled with violence. ¹²And God saw the land, and see, it was corrupt, for all flesh had corrupted its way upon the land. ¹³And God said to Noah, @@"The end of all flesh has come before me, for the land is filled with violence because of them, and see, I *am* destroying them with the land.@@
 
-¹⁴Make for yourself a tebah of gopher wood; rooms you shall make *in* the tebah, and you shall cover it inside and outside with kopher. ¹⁵And this *is how* you shall make it: three hundred cubits the length of the tebah, fifty cubits its breadth, and thirty cubits its height. ¹⁶A tsohar you shall make for the tebah, and to a cubit you shall finish it from above, and the door of the tebah you shall set in its side; lower, second, and third *decks* you shall make it.
+¹⁴@@Make for yourself a {t:tebah} of {t:gopher} wood; rooms you shall make *in* the {t:tebah}, and you shall cover it inside and outside with kopher. ¹⁵And this *is how* you shall make it: three hundred cubits the length of the {t:tebah}, fifty cubits its breadth, and thirty cubits its height. ¹⁶A tsohar you shall make for the {t:tebah}, and to a cubit you shall finish it from above, and the door of the {t:tebah} you shall set in its side; lower, second, and third *decks* you shall make it.@@
 
-¹⁷And I, see, I *am* bringing the flood of waters upon the land, to destroy all flesh in which *is* breath of life from under the sky; everything which *is* on the land shall die. ¹⁸But I will establish my covenant with you, and you shall come into the tebah — you and your sons and your woman and the women of your sons with you. ¹⁹And from all the living, from all flesh, two from all you shall bring into the tebah to keep alive with you; male and female they shall be. ²⁰From the bird to its kind, and from the livestock to its kind, from every creeping thing of the ground to its kind, two from all shall come to you to keep alive. ²¹And you, take for yourself from all food which is eaten, and gather *it* to yourself, and it shall be for food for you and for them." ²²And Noah did according to all that God commanded him; so he did.
+¹⁷@@And I, see, I *am* bringing the flood of waters upon the land, to destroy all flesh in which *is* breath of life from under the sky; everything which *is* on the land shall die. ¹⁸But I will establish my covenant with you, and you shall come into the {t:tebah} — you and your sons and your woman and the women of your sons with you. ¹⁹And from all the living, from all flesh, two from all you shall bring into the {t:tebah} to keep alive with you; male and female they shall be. ²⁰From the bird to its kind, and from the livestock to its kind, from every creeping thing of the ground to its kind, two from all shall come to you to keep alive. ²¹And you, take for yourself from all food which is eaten, and gather *it* to yourself, and it shall be for food for you and for them."@@ ²²And Noah did according to all that God commanded him; so he did.
 
 ---
 
@@ -88,7 +88,7 @@ And it was when the human began to multiply on the face of the ground, and daugh
 
 ### **Verse 2**
 
-and the sons of God/the gods saw the daughters of the human, that they *were* good, and they took for themselves women from all whom they chose.
+and the sons of {a:God/the gods} saw the daughters of the human, that they *were* good, and they took for themselves women from all whom they chose.
 
 > **📝 NOTES**
 >
@@ -103,7 +103,7 @@ and the sons of God/the gods saw the daughters of the human, that they *were* go
 
 ### **Verse 3**
 
-And YHWH said, "My spirit shall not remain/contend in the human forever, in that he *is* also flesh; and his days shall be one hundred and twenty years."
+And YHWH said, @@"My spirit shall not {a:remain/contend} in the human forever, in that he *is* also flesh; and his days shall be one hundred and twenty years."@@
 
 > **📝 NOTES**
 >
@@ -117,7 +117,7 @@ And YHWH said, "My spirit shall not remain/contend in the human forever, in that
 
 ### **Verse 4**
 
-The nephilim were on the land in those days, and also afterward, when the sons of God/the gods came to the daughters of the human, and they bore to them — they *are* the mighty ones who *were* from of old, men of the name.
+The {t:nephilim} were on the land in those days, and also afterward, when the sons of {a:God/the gods} came to the daughters of the human, and they bore to them — they *are* the mighty ones who *were* from of old, men of the name.
 
 > **📝 NOTES**
 >
@@ -155,7 +155,7 @@ And YHWH regretted that he had made the human on the land, and it grieved him to
 
 ### **Verse 7**
 
-And YHWH said, "I will wipe the human whom I created from upon the face of the ground, from human to livestock to creeping thing to bird of the sky, for I regret that I made them."
+And YHWH said, @@"I will wipe the human whom I created from upon the face of the ground, from human to livestock to creeping thing to bird of the sky, for I regret that I made them."@@
 
 > **📝 NOTES**
 >
@@ -228,7 +228,7 @@ And God saw the land, and see, it was corrupt, for all flesh had corrupted its w
 
 ### **Verse 13**
 
-And God said to Noach (Noah), "The end of all flesh has come before me, for the land is filled with violence because of them, and see, I *am* destroying them with the land.
+And God said to Noach (Noah), @@"The end of all flesh has come before me, for the land is filled with violence because of them, and see, I *am* destroying them with the land.@@
 
 > **📝 NOTES**
 >
@@ -239,7 +239,7 @@ And God said to Noach (Noah), "The end of all flesh has come before me, for the 
 
 ### **Verse 14**
 
-Make for yourself a tebah of gopher wood; rooms you shall make *in* the tebah, and you shall cover it inside and outside with kopher.
+@@Make for yourself a {t:tebah} of {t:gopher} wood; rooms you shall make *in* the {t:tebah}, and you shall cover it inside and outside with kopher.@@
 
 > **📝 NOTES**
 >
@@ -257,7 +257,7 @@ Make for yourself a tebah of gopher wood; rooms you shall make *in* the tebah, a
 
 ### **Verse 15**
 
-And this *is how* you shall make it: three hundred cubits the length of the tebah, fifty cubits its breadth, and thirty cubits its height.
+@@And this *is how* you shall make it: three hundred cubits the length of the {t:tebah}, fifty cubits its breadth, and thirty cubits its height.@@
 
 > **📝 NOTES**
 >
@@ -268,7 +268,7 @@ And this *is how* you shall make it: three hundred cubits the length of the teba
 
 ### **Verse 16**
 
-A tsohar you shall make for the tebah, and to a cubit you shall finish it from above, and the door of the tebah you shall set in its side; lower, second, and third *decks* you shall make it.
+@@A tsohar you shall make for the {t:tebah}, and to a cubit you shall finish it from above, and the door of the {t:tebah} you shall set in its side; lower, second, and third *decks* you shall make it.@@
 
 > **📝 NOTES**
 >
@@ -279,7 +279,7 @@ A tsohar you shall make for the tebah, and to a cubit you shall finish it from a
 
 ### **Verse 17**
 
-And I, see, I *am* bringing the flood of waters upon the land, to destroy all flesh in which *is* breath of life from under the sky; everything which *is* on the land shall die.
+@@And I, see, I *am* bringing the flood of waters upon the land, to destroy all flesh in which *is* breath of life from under the sky; everything which *is* on the land shall die.@@
 
 > **📝 NOTES**
 >
@@ -293,7 +293,7 @@ And I, see, I *am* bringing the flood of waters upon the land, to destroy all fl
 
 ### **Verse 18**
 
-But I will establish my covenant with you, and you shall come into the tebah — you and your sons and your woman and the women of your sons with you.
+@@But I will establish my covenant with you, and you shall come into the {t:tebah} — you and your sons and your woman and the women of your sons with you.@@
 
 > **📝 NOTES**
 >
@@ -307,7 +307,7 @@ But I will establish my covenant with you, and you shall come into the tebah —
 
 ### **Verse 19**
 
-And from all the living, from all flesh, two from all you shall bring into the tebah to keep alive with you; male and female they shall be.
+@@And from all the living, from all flesh, two from all you shall bring into the {t:tebah} to keep alive with you; male and female they shall be.@@
 
 > **📝 NOTES**
 >
@@ -318,7 +318,7 @@ And from all the living, from all flesh, two from all you shall bring into the t
 
 ### **Verse 20**
 
-From the bird to its kind, and from the livestock to its kind, from every creeping thing of the ground to its kind, two from all shall come to you to keep alive.
+@@From the bird to its kind, and from the livestock to its kind, from every creeping thing of the ground to its kind, two from all shall come to you to keep alive.@@
 
 > **📝 NOTES**
 >
@@ -329,7 +329,7 @@ From the bird to its kind, and from the livestock to its kind, from every creepi
 
 ### **Verse 21**
 
-And you, take for yourself from all food which is eaten, and gather *it* to yourself, and it shall be for food for you and for them."
+@@And you, take for yourself from all food which is eaten, and gather *it* to yourself, and it shall be for food for you and for them."@@
 
 ---
 

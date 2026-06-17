@@ -59,15 +59,15 @@
 
 ---
 
-¹E Deus lembrou-se de Noach (Noé) e de todo vivente e de todo gado que *estavam* com ele na tebah, e Deus fez passar um vento/espírito sobre a terra, e as águas baixaram. ²E as fontes do abismo e as janelas dos céus foram tapadas, e a chuva dos céus foi contida. ³E as águas retornaram de sobre a terra, indo e voltando, e as águas diminuíram ao fim de cento e cinquenta dias. ⁴E a tebah repousou no sétimo mês, no décimo sétimo dia do mês, sobre os montes de Ararat. ⁵E as águas foram indo e diminuindo até o décimo mês; no décimo *mês*, no primeiro do mês, os topos dos montes apareceram.
+¹E Deus lembrou-se de Noach (Noé) e de todo vivente e de todo gado que *estavam* com ele na {t:tebah}, e Deus fez passar um {a:vento/espírito} sobre a terra, e as águas baixaram. ²E as fontes do abismo e as janelas dos céus foram tapadas, e a chuva dos céus foi contida. ³E as águas retornaram de sobre a terra, indo e voltando, e as águas diminuíram ao fim de cento e cinquenta dias. ⁴E a {t:tebah} repousou no sétimo mês, no décimo sétimo dia do mês, sobre os montes de Ararat. ⁵E as águas foram indo e diminuindo até o décimo mês; no décimo *mês*, no primeiro do mês, os topos dos montes apareceram.
 
-⁶E foi ao fim de quarenta dias, e Noé abriu a janela da tebah que havia feito. ⁷E enviou o corvo, e ele saiu, saindo e voltando, até que as águas secaram de sobre a terra. ⁸E enviou a pomba de junto de si, para ver se as águas tinham diminuído de sobre a face do solo. ⁹E a pomba não encontrou lugar de repouso para a planta do seu pé, e ela voltou a ele à tebah, pois águas *estavam* sobre a face de toda a terra; e ele estendeu a mão e a tomou e a trouxe para junto de si à tebah. ¹⁰E esperou mais sete dias, e novamente enviou a pomba da tebah. ¹¹E a pomba veio a ele ao tempo da tarde, e eis que uma folha de oliveira recém-arrancada *estava* em sua boca; e Noé soube que as águas tinham diminuído de sobre a terra. ¹²E esperou mais sete dias, e enviou a pomba, e ela não voltou a ele mais.
+⁶E foi ao fim de quarenta dias, e Noé abriu a janela da {t:tebah} que havia feito. ⁷E enviou o corvo, e ele saiu, saindo e voltando, até que as águas secaram de sobre a terra. ⁸E enviou a pomba de junto de si, para ver se as águas tinham diminuído de sobre a face do solo. ⁹E a pomba não encontrou lugar de repouso para a planta do seu pé, e ela voltou a ele à {t:tebah}, pois águas *estavam* sobre a face de toda a terra; e ele estendeu a mão e a tomou e a trouxe para junto de si à {t:tebah}. ¹⁰E esperou mais sete dias, e novamente enviou a pomba da {t:tebah}. ¹¹E a pomba veio a ele ao tempo da tarde, e eis que uma folha de oliveira recém-arrancada *estava* em sua boca; e Noé soube que as águas tinham diminuído de sobre a terra. ¹²E esperou mais sete dias, e enviou a pomba, e ela não voltou a ele mais.
 
-¹³E foi no ano seiscentos e um, no primeiro *mês*, no primeiro do mês, as águas secaram de sobre a terra; e Noé removeu a cobertura da tebah e olhou, e eis que a face do solo havia secado. ¹⁴E no segundo mês, no vigésimo sétimo dia do mês, a terra estava seca.
+¹³E foi no ano seiscentos e um, no primeiro *mês*, no primeiro do mês, as águas secaram de sobre a terra; e Noé removeu a cobertura da {t:tebah} e olhou, e eis que a face do solo havia secado. ¹⁴E no segundo mês, no vigésimo sétimo dia do mês, a terra estava seca.
 
-¹⁵E Deus falou a Noé, dizendo: ¹⁶"Sai da tebah, tu e tua mulher e teus filhos e as mulheres de teus filhos contigo. ¹⁷Todo vivente que *está* contigo de toda carne — a ave e o gado e todo réptil que se arrasta sobre a terra — faze sair contigo, e fervilhem sobre a terra, e frutifiquem e multipliquem-se sobre a terra." ¹⁸E Noé saiu, e seus filhos e sua mulher e as mulheres de seus filhos com ele. ¹⁹Todo vivente, todo réptil e toda ave, tudo o que se move sobre a terra, segundo as suas famílias saíram da tebah.
+¹⁵E Deus falou a Noé, dizendo: ¹⁶@@"Sai da {t:tebah}, tu e tua mulher e teus filhos e as mulheres de teus filhos contigo. ¹⁷Todo vivente que *está* contigo de toda carne — a ave e o gado e todo réptil que se arrasta sobre a terra — faze sair contigo, e fervilhem sobre a terra, e frutifiquem e multipliquem-se sobre a terra."@@ ¹⁸E Noé saiu, e seus filhos e sua mulher e as mulheres de seus filhos com ele. ¹⁹Todo vivente, todo réptil e toda ave, tudo o que se move sobre a terra, segundo as suas famílias saíram da {t:tebah}.
 
-²⁰E Noé construiu um altar a YHWH, e tomou de todo gado limpo e de toda ave limpa, e ofereceu holocaustos sobre o altar. ²¹E YHWH cheirou o aroma agradável, e YHWH disse em seu coração: "Não tornarei a amaldiçoar o solo por causa do humano, pois a inclinação do coração do humano *é* má desde a sua juventude; e não tornarei a ferir todo vivente como fiz. ²²Enquanto durarem todos os dias da terra, sementeira e colheita, e frio e calor, e verão e inverno, e dia e noite não cessarão."
+²⁰E Noé construiu um altar a YHWH, e tomou de todo gado limpo e de toda ave limpa, e ofereceu holocaustos sobre o altar. ²¹E YHWH cheirou o aroma agradável, e YHWH disse em seu coração: @@"Não tornarei a amaldiçoar o solo por causa do humano, pois a inclinação do coração do humano *é* má desde a sua juventude; e não tornarei a ferir todo vivente como fiz. ²²Enquanto durarem todos os dias da terra, sementeira e colheita, e frio e calor, e verão e inverno, e dia e noite não cessarão."@@
 
 ---
 
@@ -75,7 +75,7 @@
 
 ### **Versículo 1**
 
-E Deus lembrou-se de Noach (Noé) e de todo vivente e de todo gado que *estavam* com ele na tebah, e Deus fez passar um vento/espírito sobre a terra, e as águas baixaram.
+E Deus lembrou-se de Noach (Noé) e de todo vivente e de todo gado que *estavam* com ele na {t:tebah}, e Deus fez passar um {a:vento/espírito} sobre a terra, e as águas baixaram.
 
 > **📝 NOTAS**
 >
@@ -112,7 +112,7 @@ E as águas retornaram de sobre a terra, indo e voltando, e as águas diminuíra
 
 ### **Versículo 4**
 
-E a tebah repousou no sétimo mês, no décimo sétimo dia do mês, sobre os montes de Ararat.
+E a {t:tebah} repousou no sétimo mês, no décimo sétimo dia do mês, sobre os montes de Ararat.
 
 > **📝 NOTAS**
 >
@@ -137,7 +137,7 @@ E as águas foram indo e diminuindo até o décimo mês; no décimo *mês*, no p
 
 ### **Versículo 6**
 
-E foi ao fim de quarenta dias, e Noé abriu a janela da tebah que havia feito.
+E foi ao fim de quarenta dias, e Noé abriu a janela da {t:tebah} que havia feito.
 
 > **📝 NOTAS**
 >
@@ -173,7 +173,7 @@ E enviou a pomba de junto de si, para ver se as águas tinham diminuído de sobr
 
 ### **Versículo 9**
 
-E a pomba não encontrou lugar de repouso para a planta do seu pé, e ela voltou a ele à tebah, pois águas *estavam* sobre a face de toda a terra; e ele estendeu a mão e a tomou e a trouxe para junto de si à tebah.
+E a pomba não encontrou lugar de repouso para a planta do seu pé, e ela voltou a ele à {t:tebah}, pois águas *estavam* sobre a face de toda a terra; e ele estendeu a mão e a tomou e a trouxe para junto de si à {t:tebah}.
 
 > **📝 NOTAS**
 >
@@ -184,7 +184,7 @@ E a pomba não encontrou lugar de repouso para a planta do seu pé, e ela voltou
 
 ### **Versículo 10**
 
-E esperou mais sete dias, e novamente enviou a pomba da tebah.
+E esperou mais sete dias, e novamente enviou a pomba da {t:tebah}.
 
 ---
 
@@ -212,7 +212,7 @@ E esperou mais sete dias, e enviou a pomba, e ela não voltou a ele mais.
 
 ### **Versículo 13**
 
-E foi no ano seiscentos e um, no primeiro *mês*, no primeiro do mês, as águas secaram de sobre a terra; e Noé removeu a cobertura da tebah e olhou, e eis que a face do solo havia secado.
+E foi no ano seiscentos e um, no primeiro *mês*, no primeiro do mês, as águas secaram de sobre a terra; e Noé removeu a cobertura da {t:tebah} e olhou, e eis que a face do solo havia secado.
 
 > **📝 NOTAS**
 >
@@ -240,7 +240,7 @@ E Deus falou a Noé, dizendo:
 
 ### **Versículo 16**
 
-"Sai da tebah, tu e tua mulher e teus filhos e as mulheres de teus filhos contigo.
+@@"Sai da {t:tebah}, tu e tua mulher e teus filhos e as mulheres de teus filhos contigo.@@
 
 > **📝 NOTAS**
 >
@@ -251,7 +251,7 @@ E Deus falou a Noé, dizendo:
 
 ### **Versículo 17**
 
-Todo vivente que *está* contigo de toda carne — a ave e o gado e todo réptil que se arrasta sobre a terra — faze sair contigo, e fervilhem sobre a terra, e frutifiquem e multipliquem-se sobre a terra."
+@@Todo vivente que *está* contigo de toda carne — a ave e o gado e todo réptil que se arrasta sobre a terra — faze sair contigo, e fervilhem sobre a terra, e frutifiquem e multipliquem-se sobre a terra."@@
 
 > **📝 NOTAS**
 >
@@ -268,7 +268,7 @@ E Noé saiu, e seus filhos e sua mulher e as mulheres de seus filhos com ele.
 
 ### **Versículo 19**
 
-Todo vivente, todo réptil e toda ave, tudo o que se move sobre a terra, segundo as suas famílias saíram da tebah.
+Todo vivente, todo réptil e toda ave, tudo o que se move sobre a terra, segundo as suas famílias saíram da {t:tebah}.
 
 > **📝 NOTAS**
 >
@@ -293,7 +293,7 @@ E Noé construiu um altar a YHWH, e tomou de todo gado limpo e de toda ave limpa
 
 ### **Versículo 21**
 
-E YHWH cheirou o aroma agradável, e YHWH disse em seu coração: "Não tornarei a amaldiçoar o solo por causa do humano, pois a inclinação do coração do humano *é* má desde a sua juventude; e não tornarei a ferir todo vivente como fiz.
+E YHWH cheirou o aroma agradável, e YHWH disse em seu coração: @@"Não tornarei a amaldiçoar o solo por causa do humano, pois a inclinação do coração do humano *é* má desde a sua juventude; e não tornarei a ferir todo vivente como fiz.@@
 
 > **📝 NOTAS**
 >
@@ -312,7 +312,7 @@ E YHWH cheirou o aroma agradável, e YHWH disse em seu coração: "Não tornarei
 
 ### **Versículo 22**
 
-Enquanto durarem todos os dias da terra, sementeira e colheita, e frio e calor, e verão e inverno, e dia e noite não cessarão."
+@@Enquanto durarem todos os dias da terra, sementeira e colheita, e frio e calor, e verão e inverno, e dia e noite não cessarão."@@
 
 > **📝 NOTAS**
 >

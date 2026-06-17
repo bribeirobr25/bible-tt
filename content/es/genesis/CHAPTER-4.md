@@ -63,9 +63,9 @@
 
 ¹Y el humano conoció a Chava (Eva), su mujer, y ella concibió y dio a luz a Qayin (Caín), y dijo: "He adquirido un hombre con YHWH." ²Y dio a luz de nuevo, a su hermano Hevel (Abel). Y Abel era *un* pastor de rebano, y Caín era *un* labrador del suelo.
 
-³Y fue al fin de los días, y Caín trajo del fruto del suelo una ofrenda a YHWH. ⁴Y Abel, él también trajo de los primogenitos de su rebano y de su grasa. Y YHWH miró a Abel y a su ofrenda, ⁵pero a Caín y a su ofrenda no miró. Y ardió a Caín grandemente, y su rostro cayó. ⁶Y YHWH dijo a Caín: "¿Por que *te* arde, y por que ha caido tu rostro? ⁷Si haces bien, ¿no *hay* elevacíon? Y si no haces bien, a la puerta el pecado se agazapa, y hacia ti *es* su deseo/inclinación, pero tu debes dominar sobre el."
+³Y fue al fin de los días, y Caín trajo del fruto del suelo una ofrenda a YHWH. ⁴Y Abel, él también trajo de los primogenitos de su rebano y de su grasa. Y YHWH miró a Abel y a su ofrenda, ⁵pero a Caín y a su ofrenda no miró. Y ardió a Caín grandemente, y su rostro cayó. ⁶Y YHWH dijo a Caín: @@"¿Por que *te* arde, y por que ha caido tu rostro? ⁷Si haces bien, ¿no *hay* elevacíon? Y si no haces bien, a la puerta el pecado se agazapa, y hacia ti *es* su {a:deseo/inclinación}, pero tu debes dominar sobre el."@@
 
-⁸Y Caín dijo a Abel, su hermano… Y fue cuando estaban en el campo, y Caín se levanto contra Abel, su hermano, y lo mató. ⁹Y YHWH dijo a Caín: "¿Donde *esta* Abel, tu hermano?" Y él dijo: "No se. ¿*Soy* yo el guardian de mi hermano?" ¹⁰Y dijo: "¿Que has hecho? La voz de las sangres de tu hermano *esta* clamandó a mi desde el suelo. ¹¹Y ahora, maldito *eres* tu desde el suelo que abrió su boca para recibir las sangres de tu hermano de tu mano. ¹²Cuando labres el suelo, no volvera a dar su fuerza a ti. Errante y fugitivo seras sobre la tierra." ¹³Y Caín dijo a YHWH: "Mi pecado/castigo *es* demásiado grande para soportar. ¹⁴He aquí, me has expulsado hoy de sobre la faz del suelo, y de tu faz sere escondido, y sere errante y fugitivo sobre la tierra, y sera *que* cualquiera que me encuentre me matara." ¹⁵Y YHWH le dijo: "Por tanto, cualquiera que mate a Caín, siete veces sera vengado." Y YHWH puso para Caín una senal, para que cualquiera que lo encontrara no lo hiriera. ¹⁶Y Caín salió de la faz de YHWH, y habito en la tierra de Nod, al este de Eden.
+⁸Y Caín dijo a Abel, su hermano… Y fue cuando estaban en el campo, y Caín se levanto contra Abel, su hermano, y lo mató. ⁹Y YHWH dijo a Caín: @@"¿Donde *esta* Abel, tu hermano?"@@ Y él dijo: "No se. ¿*Soy* yo el guardian de mi hermano?" ¹⁰Y dijo: @@"¿Que has hecho? La voz de las sangres de tu hermano *esta* clamandó a mi desde el suelo. ¹¹Y ahora, maldito *eres* tu desde el suelo que abrió su boca para recibir las sangres de tu hermano de tu mano. ¹²Cuando labres el suelo, no volvera a dar su fuerza a ti. Errante y fugitivo seras sobre la tierra."@@ ¹³Y Caín dijo a YHWH: "Mi {a:pecado/castigo} *es* demásiado grande para soportar. ¹⁴He aquí, me has expulsado hoy de sobre la faz del suelo, y de tu faz sere escondido, y sere errante y fugitivo sobre la tierra, y sera *que* cualquiera que me encuentre me matara." ¹⁵Y YHWH le dijo: @@"Por tanto, cualquiera que mate a Caín, siete veces sera vengado."@@ Y YHWH puso para Caín una senal, para que cualquiera que lo encontrara no lo hiriera. ¹⁶Y Caín salió de la faz de YHWH, y habito en la tierra de Nod, al este de Eden.
 
 ¹⁷Y Caín conoció a su mujer, y ella concibió y dio a luz a Enoc. Y él estaba construyendo una ciudad, y llamó el nombre de la ciudad conforme al nombre de su hijo, Enoc. ¹⁸Y a Enoc le nació Irad, e Irad engendró a Mechuya'el, y Mechuya'el engendró a Metusha'el, y Metusha'el engendró a Lemekh (Lamec). ¹⁹Y Lamec tomó para si dos mujeres; el nombre de la una *era* Adah, y el nombre de la segunda *era* Tsillah. ²⁰Y Adah dio a luz a Yaval; él fue el padre de los que habitan en tienda y *con* ganado. ²¹Y el nombre de su hermano *era* Yuval; él fue el padre de todos los que empunan lira y flauta. ²²Y Tsillah, ella también dio a luz a Tuval-Caín, *un* forjador de toda herramienta cortante de bronce y hierro. Y la hermana de Tuval-Caín *era* Na'amah.
 
@@ -143,13 +143,13 @@ pero a Caín y a su ofrenda no miró. Y ardió a Caín grandemente, y su rostro 
 
 ### **Versículo 6**
 
-Y YHWH dijo a Caín: "¿Por que *te* arde, y por que ha caido tu rostro?
+Y YHWH dijo a Caín: @@"¿Por que *te* arde, y por que ha caido tu rostro?@@
 
 ---
 
 ### **Versículo 7**
 
-Si haces bien, ¿no *hay* elevacíon? Y si no haces bien, a la puerta el pecado se agazapa, y hacia ti *es* su deseo/inclinación, pero tu debes dominar sobre el."
+@@Si haces bien, ¿no *hay* elevacíon? Y si no haces bien, a la puerta el pecado se agazapa, y hacia ti *es* su {a:deseo/inclinación}, pero tu debes dominar sobre el."@@
 
 > **📝 NOTAS**
 >
@@ -182,7 +182,7 @@ Y Caín dijo a Abel, su hermano… Y fue cuando estaban en el campo, y Caín se 
 
 ### **Versículo 9**
 
-Y YHWH dijo a Caín: "¿Donde *esta* Abel, tu hermano?" Y él dijo: "No se. ¿*Soy* yo el guardian de mi hermano?"
+Y YHWH dijo a Caín: @@"¿Donde *esta* Abel, tu hermano?"@@ Y él dijo: "No se. ¿*Soy* yo el guardian de mi hermano?"
 
 > **📝 NOTAS**
 >
@@ -196,7 +196,7 @@ Y YHWH dijo a Caín: "¿Donde *esta* Abel, tu hermano?" Y él dijo: "No se. ¿*S
 
 ### **Versículo 10**
 
-Y dijo: "¿Que has hecho? La voz de las sangres de tu hermano *esta* clamandó a mi desde el suelo.
+Y dijo: @@"¿Que has hecho? La voz de las sangres de tu hermano *esta* clamandó a mi desde el suelo.@@
 
 > **📝 NOTAS**
 >
@@ -210,7 +210,7 @@ Y dijo: "¿Que has hecho? La voz de las sangres de tu hermano *esta* clamandó a
 
 ### **Versículo 11**
 
-Y ahora, maldito *eres* tu desde el suelo que abrió su boca para recibir las sangres de tu hermano de tu mano.
+@@Y ahora, maldito *eres* tu desde el suelo que abrió su boca para recibir las sangres de tu hermano de tu mano.@@
 
 > **📝 NOTAS**
 >
@@ -224,7 +224,7 @@ Y ahora, maldito *eres* tu desde el suelo que abrió su boca para recibir las sa
 
 ### **Versículo 12**
 
-Cuando labres el suelo, no volvera a dar su fuerza a ti. Errante y fugitivo seras sobre la tierra."
+@@Cuando labres el suelo, no volvera a dar su fuerza a ti. Errante y fugitivo seras sobre la tierra."@@
 
 > **📝 NOTAS**
 >
@@ -235,7 +235,7 @@ Cuando labres el suelo, no volvera a dar su fuerza a ti. Errante y fugitivo sera
 
 ### **Versículo 13**
 
-Y Caín dijo a YHWH: "Mi pecado/castigo *es* demásiado grande para soportar.
+Y Caín dijo a YHWH: "Mi {a:pecado/castigo} *es* demásiado grande para soportar.
 
 > **📝 NOTAS**
 >
@@ -257,7 +257,7 @@ He aquí, me has expulsado hoy de sobre la faz del suelo, y de tu faz sere escon
 
 ### **Versículo 15**
 
-Y YHWH le dijo: "Por tanto, cualquiera que mate a Caín, siete veces sera vengado." Y YHWH puso para Caín una senal, para que cualquiera que lo encontrara no lo hiriera.
+Y YHWH le dijo: @@"Por tanto, cualquiera que mate a Caín, siete veces sera vengado."@@ Y YHWH puso para Caín una senal, para que cualquiera que lo encontrara no lo hiriera.
 
 > **📝 NOTAS**
 >

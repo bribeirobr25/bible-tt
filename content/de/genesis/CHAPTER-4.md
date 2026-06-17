@@ -61,9 +61,9 @@
 
 ¹Und der Mensch erkannte Chava (Eva), seine Frau, und sie wurde schwanger und gebar Qayin (Kain), und sie sprach: „Ich habe einen Mann erworben mit JHWH." ²Und sie gebar abermals, seinen Bruder Hevel (Abel). Und Abel war *ein* Hüter der Herde, und Kain war *ein* Bearbeiter des Bodens.
 
-³Und es war am Ende der Tage, und Kain brachte von der Frucht des Bodens eine Gabe für JHWH. ⁴Und Abel, auch er brachte von den Erstgeborenen seiner Herde und von ihrem Fett. Und JHWH blickte auf Abel und seine Gabe, ⁵aber auf Kain und seine Gabe blickte er nicht. Und es entbrannte dem Kain sehr, und sein Angesicht fiel. ⁶Und JHWH sprach zu Kain: „Warum entbrennt *es* dir, und warum ist dein Angesicht gefallen? ⁷Wenn du recht tust, *ist da* nicht Erhebung? Und wenn du nicht recht tust, an der Tür lagert die Sünde, und zu dir *ist* ihr Verlangen/ihre Hinwendung, aber du musst über sie herrschen."
+³Und es war am Ende der Tage, und Kain brachte von der Frucht des Bodens eine Gabe für JHWH. ⁴Und Abel, auch er brachte von den Erstgeborenen seiner Herde und von ihrem Fett. Und JHWH blickte auf Abel und seine Gabe, ⁵aber auf Kain und seine Gabe blickte er nicht. Und es entbrannte dem Kain sehr, und sein Angesicht fiel. ⁶Und JHWH sprach zu Kain: @@„Warum entbrennt *es* dir, und warum ist dein Angesicht gefallen? ⁷Wenn du recht tust, *ist da* nicht Erhebung? Und wenn du nicht recht tust, an der Tür lagert die Sünde, und zu dir *ist* ihr {a:Verlangen/ihre Hinwendung}, aber du musst über sie herrschen."@@
 
-⁸Und Kain sprach zu Abel, seinem Bruder… Und es war, als sie auf dem Feld waren, und Kain erhob sich gegen Abel, seinen Bruder, und tötete ihn. ⁹Und JHWH sprach zu Kain: „Wo *ist* Abel, dein Bruder?" Und er sprach: „Ich weiß nicht. *Bin* ich der Hüter meines Bruders?" ¹⁰Und er sprach: „Was hast du getan? Die Stimme der Blute deines Bruders schreit zu mir vom Boden. ¹¹Und nun, verflucht *bist* du vom Boden, der seinen Mund aufgetan hat, die Blute deines Bruders von deiner Hand zu empfangen. ¹²Wenn du den Boden bearbeitest, wird er dir nicht mehr seine Kraft geben. Ein Umherirrender und ein Flüchtling wirst du sein auf dem Land." ¹³Und Kain sprach zu JHWH: „Meine Sünde/Strafe *ist* zu groß zum Tragen. ¹⁴Siehe, du hast mich heute vertrieben von auf dem Angesicht des Bodens, und vor deinem Angesicht werde ich verborgen sein, und ich werde ein Umherirrender und ein Flüchtling sein auf dem Land, und es wird *sein, dass* jeder, der mich findet, mich töten wird." ¹⁵Und JHWH sprach zu ihm: „Darum, jeder, der Kain tötet, siebenfach soll es gerächt werden." Und JHWH setzte dem Kain ein Zeichen, damit nicht jeder, der ihn fände, ihn schlüge. ¹⁶Und Kain ging hinaus vom Angesicht JHWHs und wohnte im Land Nod, östlich von Eden.
+⁸Und Kain sprach zu Abel, seinem Bruder… Und es war, als sie auf dem Feld waren, und Kain erhob sich gegen Abel, seinen Bruder, und tötete ihn. ⁹Und JHWH sprach zu Kain: @@„Wo *ist* Abel, dein Bruder?"@@ Und er sprach: „Ich weiß nicht. *Bin* ich der Hüter meines Bruders?" ¹⁰Und er sprach: @@„Was hast du getan? Die Stimme der Blute deines Bruders schreit zu mir vom Boden. ¹¹Und nun, verflucht *bist* du vom Boden, der seinen Mund aufgetan hat, die Blute deines Bruders von deiner Hand zu empfangen. ¹²Wenn du den Boden bearbeitest, wird er dir nicht mehr seine Kraft geben. Ein Umherirrender und ein Flüchtling wirst du sein auf dem Land."@@ ¹³Und Kain sprach zu JHWH: „Meine {a:Sünde/Strafe} *ist* zu groß zum Tragen. ¹⁴Siehe, du hast mich heute vertrieben von auf dem Angesicht des Bodens, und vor deinem Angesicht werde ich verborgen sein, und ich werde ein Umherirrender und ein Flüchtling sein auf dem Land, und es wird *sein, dass* jeder, der mich findet, mich töten wird." ¹⁵Und JHWH sprach zu ihm: @@„Darum, jeder, der Kain tötet, siebenfach soll es gerächt werden."@@ Und JHWH setzte dem Kain ein Zeichen, damit nicht jeder, der ihn fände, ihn schlüge. ¹⁶Und Kain ging hinaus vom Angesicht JHWHs und wohnte im Land Nod, östlich von Eden.
 
 ¹⁷Und Kain erkannte seine Frau, und sie wurde schwanger und gebar Chanokh (Henoch). Und er baute eine Stadt, und er nannte den Namen der Stadt nach dem Namen seines Sohnes, Henoch. ¹⁸Und dem Henoch wurde Irad geboren, und Irad zeugte Mechuya'el, und Mechuya'el zeugte Metusha'el, und Metusha'el zeugte Lemekh (Lamech). ¹⁹Und Lamech nahm sich zwei Frauen; der Name der einen *war* Adah, und der Name der zweiten *war* Tsillah. ²⁰Und Adah gebar Yaval; er war der Vater derer, die in Zelt und Vieh wohnen. ²¹Und der Name seines Bruders *war* Yuval; er war der Vater aller, die Leier und Flöte ergreifen. ²²Und Tsillah, auch sie gebar Tuval-Kain, *einen* Hämmerer jedes Schneidewerkzeugs aus Bronze und Eisen. Und die Schwester Tuval-Kains *war* Na'amah.
 
@@ -141,13 +141,13 @@ aber auf Kain und seine Gabe blickte er nicht. Und es entbrannte dem Kain sehr, 
 
 ### **Vers 6**
 
-Und JHWH sprach zu Kain: „Warum entbrennt *es* dir, und warum ist dein Angesicht gefallen?
+Und JHWH sprach zu Kain: @@„Warum entbrennt *es* dir, und warum ist dein Angesicht gefallen?@@
 
 ---
 
 ### **Vers 7**
 
-Wenn du recht tust, *ist da* nicht Erhebung? Und wenn du nicht recht tust, an der Tür lagert die Sünde, und zu dir *ist* ihr Verlangen/ihre Hinwendung, aber du musst über sie herrschen."
+@@Wenn du recht tust, *ist da* nicht Erhebung? Und wenn du nicht recht tust, an der Tür lagert die Sünde, und zu dir *ist* ihr {a:Verlangen/ihre Hinwendung}, aber du musst über sie herrschen."@@
 
 > **📝 NOTIZEN**
 >
@@ -179,7 +179,7 @@ Und Kain sprach zu Abel, seinem Bruder… Und es war, als sie auf dem Feld waren
 
 ### **Vers 9**
 
-Und JHWH sprach zu Kain: „Wo *ist* Abel, dein Bruder?" Und er sprach: „Ich weiß nicht. *Bin* ich der Hüter meines Bruders?"
+Und JHWH sprach zu Kain: @@„Wo *ist* Abel, dein Bruder?"@@ Und er sprach: „Ich weiß nicht. *Bin* ich der Hüter meines Bruders?"
 
 > **📝 NOTIZEN**
 >
@@ -193,7 +193,7 @@ Und JHWH sprach zu Kain: „Wo *ist* Abel, dein Bruder?" Und er sprach: „Ich w
 
 ### **Vers 10**
 
-Und er sprach: „Was hast du getan? Die Stimme der Blute deines Bruders schreit zu mir vom Boden.
+Und er sprach: @@„Was hast du getan? Die Stimme der Blute deines Bruders schreit zu mir vom Boden.@@
 
 > **📝 NOTIZEN**
 >
@@ -207,7 +207,7 @@ Und er sprach: „Was hast du getan? Die Stimme der Blute deines Bruders schreit
 
 ### **Vers 11**
 
-Und nun, verflucht *bist* du vom Boden, der seinen Mund aufgetan hat, die Blute deines Bruders von deiner Hand zu empfangen.
+@@Und nun, verflucht *bist* du vom Boden, der seinen Mund aufgetan hat, die Blute deines Bruders von deiner Hand zu empfangen.@@
 
 > **📝 NOTIZEN**
 >
@@ -221,7 +221,7 @@ Und nun, verflucht *bist* du vom Boden, der seinen Mund aufgetan hat, die Blute 
 
 ### **Vers 12**
 
-Wenn du den Boden bearbeitest, wird er dir nicht mehr seine Kraft geben. Ein Umherirrender und ein Flüchtling wirst du sein auf dem Land."
+@@Wenn du den Boden bearbeitest, wird er dir nicht mehr seine Kraft geben. Ein Umherirrender und ein Flüchtling wirst du sein auf dem Land."@@
 
 > **📝 NOTIZEN**
 >
@@ -232,7 +232,7 @@ Wenn du den Boden bearbeitest, wird er dir nicht mehr seine Kraft geben. Ein Umh
 
 ### **Vers 13**
 
-Und Kain sprach zu JHWH: „Meine Sünde/Strafe *ist* zu groß zum Tragen.
+Und Kain sprach zu JHWH: „Meine {a:Sünde/Strafe} *ist* zu groß zum Tragen.
 
 > **📝 NOTIZEN**
 >
@@ -254,7 +254,7 @@ Siehe, du hast mich heute vertrieben von auf dem Angesicht des Bodens, und vor d
 
 ### **Vers 15**
 
-Und JHWH sprach zu ihm: „Darum, jeder, der Kain tötet, siebenfach soll es gerächt werden." Und JHWH setzte dem Kain ein Zeichen, damit nicht jeder, der ihn fände, ihn schlüge.
+Und JHWH sprach zu ihm: @@„Darum, jeder, der Kain tötet, siebenfach soll es gerächt werden."@@ Und JHWH setzte dem Kain ein Zeichen, damit nicht jeder, der ihn fände, ihn schlüge.
 
 > **📝 NOTIZEN**
 >

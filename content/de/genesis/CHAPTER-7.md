@@ -60,13 +60,13 @@
 
 ---
 
-¹Und JHWH sprach zu Noach (Noah): „Komm, du und dein ganzes Haus, in die Tebah, denn dich habe ich *als* gerecht vor mir gesehen in diesem Geschlecht. ²Von allem reinen Vieh sollst du dir nehmen sieben sieben, einen Mann und seine Frau, und von dem Vieh, das nicht rein *ist*, zwei, einen Mann und seine Frau. ³Auch vom Vogel des Himmels sieben sieben, männlich und weiblich, um Samen am Leben zu erhalten auf dem Angesicht des ganzen Landes. ⁴Denn in noch sieben Tagen *bin ich am* Regnen-Senden auf das Land, vierzig Tage und vierzig Nächte, und ich werde jedes Stehende, das ich gemacht habe, auslöschen von auf dem Angesicht des Bodens." ⁵Und Noah tat nach allem, was JHWH ihm geboten hatte.
+¹Und JHWH sprach zu Noach (Noah): @@„Komm, du und dein ganzes Haus, in die {t:Tebah}, denn dich habe ich *als* gerecht vor mir gesehen in diesem Geschlecht. ²Von allem reinen Vieh sollst du dir nehmen sieben sieben, einen Mann und seine Frau, und von dem Vieh, das nicht rein *ist*, zwei, einen Mann und seine Frau. ³Auch vom Vogel des Himmels sieben sieben, männlich und weiblich, um Samen am Leben zu erhalten auf dem Angesicht des ganzen Landes. ⁴Denn in noch sieben Tagen *bin ich am* Regnen-Senden auf das Land, vierzig Tage und vierzig Nächte, und ich werde jedes Stehende, das ich gemacht habe, auslöschen von auf dem Angesicht des Bodens."@@ ⁵Und Noah tat nach allem, was JHWH ihm geboten hatte.
 
-⁶Und Noah *war* sechshundert Jahre alt, und die Flut von Wassern war auf dem Land. ⁷Und Noah ging, und seine Söhne und seine Frau und die Frauen seiner Söhne mit ihm, in die Tebah, vor dem Angesicht der Wasser der Flut. ⁸Vom reinen Vieh und vom Vieh, das nicht rein *ist*, und vom Vogel, und *von* allem, was auf dem Boden kriecht, ⁹zwei zwei kamen sie zu Noah in die Tebah, männlich und weiblich, wie Gott Noah geboten hatte. ¹⁰Und es war nach sieben der Tage, und die Wasser der Flut waren auf dem Land.
+⁶Und Noah *war* sechshundert Jahre alt, und die Flut von Wassern war auf dem Land. ⁷Und Noah ging, und seine Söhne und seine Frau und die Frauen seiner Söhne mit ihm, in die {t:Tebah}, vor dem Angesicht der Wasser der Flut. ⁸Vom reinen Vieh und vom Vieh, das nicht rein *ist*, und vom Vogel, und *von* allem, was auf dem Boden kriecht, ⁹zwei zwei kamen sie zu Noah in die {t:Tebah}, männlich und weiblich, wie Gott Noah geboten hatte. ¹⁰Und es war nach sieben der Tage, und die Wasser der Flut waren auf dem Land.
 
-¹¹Im sechshundertsten Jahr des Lebens Noahs, im zweiten Monat, am siebzehnten Tag des Monats, an diesem Tag brachen alle Quellen der großen Tiefe auf, und die Fenster des Himmels wurden geöffnet. ¹²Und der Regen war auf dem Land vierzig Tage und vierzig Nächte. ¹³An eben diesem Tag trat Noah ein, und Shem und Cham (Ham) und Yafet (Jafet), die Söhne Noahs, und die Frau Noahs und die drei Frauen seiner Söhne mit ihnen, in die Tebah — ¹⁴sie, und jedes Lebewesen nach seiner Art, und alles Vieh nach seiner Art, und jedes Kriechende, das auf dem Land kriecht, nach seiner Art, und jeder Vogel nach seiner Art, jedes Geflügelte. ¹⁵Und sie kamen zu Noah in die Tebah, zwei zwei von allem Fleisch, in dem Atem des Lebens *ist*. ¹⁶Und die Kommenden, männlich und weiblich von allem Fleisch kamen sie, wie Gott ihm geboten hatte; und JHWH schloss *es* hinter ihm zu.
+¹¹Im sechshundertsten Jahr des Lebens Noahs, im zweiten Monat, am siebzehnten Tag des Monats, an diesem Tag brachen alle Quellen der großen Tiefe auf, und die Fenster des Himmels wurden geöffnet. ¹²Und der Regen war auf dem Land vierzig Tage und vierzig Nächte. ¹³An eben diesem Tag trat Noah ein, und Shem und Cham (Ham) und Yafet (Jafet), die Söhne Noahs, und die Frau Noahs und die drei Frauen seiner Söhne mit ihnen, in die {t:Tebah} — ¹⁴sie, und jedes Lebewesen nach seiner Art, und alles Vieh nach seiner Art, und jedes Kriechende, das auf dem Land kriecht, nach seiner Art, und jeder Vogel nach seiner Art, jedes Geflügelte. ¹⁵Und sie kamen zu Noah in die {t:Tebah}, zwei zwei von allem Fleisch, in dem Atem des Lebens *ist*. ¹⁶Und die Kommenden, männlich und weiblich von allem Fleisch kamen sie, wie Gott ihm geboten hatte; und JHWH schloss *es* hinter ihm zu.
 
-¹⁷Und die Flut war vierzig Tage auf dem Land, und die Wasser mehrten sich und hoben die Tebah, und sie erhob sich von auf dem Land. ¹⁸Und die Wasser überwältigten und mehrten sich sehr auf dem Land, und die Tebah ging auf dem Angesicht der Wasser. ¹⁹Und die Wasser überwältigten sehr sehr auf dem Land, und alle hohen Berge, die unter dem ganzen Himmel *waren*, wurden bedeckt. ²⁰Fünfzehn Ellen aufwärts überwältigten die Wasser, und die Berge wurden bedeckt. ²¹Und alles Fleisch, das sich auf dem Land bewegt, verschied — der Vogel und das Vieh und das Lebewesen und jedes Wimmelnde, das auf dem Land wimmelt, und jeder Mensch. ²²Alles, was Atem des Windes/Geistes des Lebens in seinen Nüstern *hatte*, von allem, was auf dem Trockenen *war*, starb. ²³Und er löschte jedes Stehende aus, das auf dem Angesicht des Bodens *war*, vom Menschen bis zum Vieh bis zum Kriechenden bis zum Vogel des Himmels, und sie wurden ausgelöscht vom Land; und nur Noah blieb übrig, und die mit ihm in der Tebah. ²⁴Und die Wasser überwältigten auf dem Land einhundertfünfzig Tage.
+¹⁷Und die Flut war vierzig Tage auf dem Land, und die Wasser mehrten sich und hoben die {t:Tebah}, und sie erhob sich von auf dem Land. ¹⁸Und die Wasser überwältigten und mehrten sich sehr auf dem Land, und die {t:Tebah} ging auf dem Angesicht der Wasser. ¹⁹Und die Wasser überwältigten sehr sehr auf dem Land, und alle hohen Berge, die unter dem ganzen Himmel *waren*, wurden bedeckt. ²⁰Fünfzehn Ellen aufwärts überwältigten die Wasser, und die Berge wurden bedeckt. ²¹Und alles Fleisch, das sich auf dem Land bewegt, verschied — der Vogel und das Vieh und das Lebewesen und jedes Wimmelnde, das auf dem Land wimmelt, und jeder Mensch. ²²Alles, was Atem des {a:Windes/Geistes} des Lebens in seinen Nüstern *hatte*, von allem, was auf dem Trockenen *war*, starb. ²³Und er löschte jedes Stehende aus, das auf dem Angesicht des Bodens *war*, vom Menschen bis zum Vieh bis zum Kriechenden bis zum Vogel des Himmels, und sie wurden ausgelöscht vom Land; und nur Noah blieb übrig, und die mit ihm in der {t:Tebah}. ²⁴Und die Wasser überwältigten auf dem Land einhundertfünfzig Tage.
 
 ---
 
@@ -74,7 +74,7 @@
 
 ### **Vers 1**
 
-Und JHWH sprach zu Noach (Noah): „Komm, du und dein ganzes Haus, in die Tebah, denn dich habe ich *als* gerecht vor mir gesehen in diesem Geschlecht.
+Und JHWH sprach zu Noach (Noah): @@„Komm, du und dein ganzes Haus, in die {t:Tebah}, denn dich habe ich *als* gerecht vor mir gesehen in diesem Geschlecht.@@
 
 > **📝 NOTIZEN**
 >
@@ -88,7 +88,7 @@ Und JHWH sprach zu Noach (Noah): „Komm, du und dein ganzes Haus, in die Tebah,
 
 ### **Vers 2**
 
-Von allem reinen Vieh sollst du dir nehmen sieben sieben, einen Mann und seine Frau, und von dem Vieh, das nicht rein *ist*, zwei, einen Mann und seine Frau.
+@@Von allem reinen Vieh sollst du dir nehmen sieben sieben, einen Mann und seine Frau, und von dem Vieh, das nicht rein *ist*, zwei, einen Mann und seine Frau.@@
 
 > **📝 NOTIZEN**
 >
@@ -103,7 +103,7 @@ Von allem reinen Vieh sollst du dir nehmen sieben sieben, einen Mann und seine F
 
 ### **Vers 3**
 
-Auch vom Vogel des Himmels sieben sieben, männlich und weiblich, um Samen am Leben zu erhalten auf dem Angesicht des ganzen Landes.
+@@Auch vom Vogel des Himmels sieben sieben, männlich und weiblich, um Samen am Leben zu erhalten auf dem Angesicht des ganzen Landes.@@
 
 > **📝 NOTIZEN**
 >
@@ -114,7 +114,7 @@ Auch vom Vogel des Himmels sieben sieben, männlich und weiblich, um Samen am Le
 
 ### **Vers 4**
 
-Denn in noch sieben Tagen *bin ich am* Regnen-Senden auf das Land, vierzig Tage und vierzig Nächte, und ich werde jedes Stehende, das ich gemacht habe, auslöschen von auf dem Angesicht des Bodens."
+@@Denn in noch sieben Tagen *bin ich am* Regnen-Senden auf das Land, vierzig Tage und vierzig Nächte, und ich werde jedes Stehende, das ich gemacht habe, auslöschen von auf dem Angesicht des Bodens."@@
 
 > **📝 NOTIZEN**
 >
@@ -150,7 +150,7 @@ Und Noah *war* sechshundert Jahre alt, und die Flut von Wassern war auf dem Land
 
 ### **Vers 7**
 
-Und Noah ging, und seine Söhne und seine Frau und die Frauen seiner Söhne mit ihm, in die Tebah, vor dem Angesicht der Wasser der Flut.
+Und Noah ging, und seine Söhne und seine Frau und die Frauen seiner Söhne mit ihm, in die {t:Tebah}, vor dem Angesicht der Wasser der Flut.
 
 ---
 
@@ -162,7 +162,7 @@ Vom reinen Vieh und vom Vieh, das nicht rein *ist*, und vom Vogel, und *von* all
 
 ### **Vers 9**
 
-zwei zwei kamen sie zu Noah in die Tebah, männlich und weiblich, wie Gott Noah geboten hatte.
+zwei zwei kamen sie zu Noah in die {t:Tebah}, männlich und weiblich, wie Gott Noah geboten hatte.
 
 > **📝 NOTIZEN**
 >
@@ -205,7 +205,7 @@ Und der Regen war auf dem Land vierzig Tage und vierzig Nächte.
 
 ### **Vers 13**
 
-An eben diesem Tag trat Noah ein, und Shem und Cham (Ham) und Yafet (Jafet), die Söhne Noahs, und die Frau Noahs und die drei Frauen seiner Söhne mit ihnen, in die Tebah —
+An eben diesem Tag trat Noah ein, und Shem und Cham (Ham) und Yafet (Jafet), die Söhne Noahs, und die Frau Noahs und die drei Frauen seiner Söhne mit ihnen, in die {t:Tebah} —
 
 > **📝 NOTIZEN**
 >
@@ -227,7 +227,7 @@ sie, und jedes Lebewesen nach seiner Art, und alles Vieh nach seiner Art, und je
 
 ### **Vers 15**
 
-Und sie kamen zu Noah in die Tebah, zwei zwei von allem Fleisch, in dem Atem des Lebens *ist*.
+Und sie kamen zu Noah in die {t:Tebah}, zwei zwei von allem Fleisch, in dem Atem des Lebens *ist*.
 
 ---
 
@@ -247,7 +247,7 @@ Und die Kommenden, männlich und weiblich von allem Fleisch kamen sie, wie Gott 
 
 ### **Vers 17**
 
-Und die Flut war vierzig Tage auf dem Land, und die Wasser mehrten sich und hoben die Tebah, und sie erhob sich von auf dem Land.
+Und die Flut war vierzig Tage auf dem Land, und die Wasser mehrten sich und hoben die {t:Tebah}, und sie erhob sich von auf dem Land.
 
 > **📝 NOTIZEN**
 >
@@ -258,7 +258,7 @@ Und die Flut war vierzig Tage auf dem Land, und die Wasser mehrten sich und hobe
 
 ### **Vers 18**
 
-Und die Wasser überwältigten und mehrten sich sehr auf dem Land, und die Tebah ging auf dem Angesicht der Wasser.
+Und die Wasser überwältigten und mehrten sich sehr auf dem Land, und die {t:Tebah} ging auf dem Angesicht der Wasser.
 
 ---
 
@@ -292,7 +292,7 @@ Und alles Fleisch, das sich auf dem Land bewegt, verschied — der Vogel und das
 
 ### **Vers 22**
 
-Alles, was Atem des Windes/Geistes des Lebens in seinen Nüstern *hatte*, von allem, was auf dem Trockenen *war*, starb.
+Alles, was Atem des {a:Windes/Geistes} des Lebens in seinen Nüstern *hatte*, von allem, was auf dem Trockenen *war*, starb.
 
 > **📝 NOTIZEN**
 >
@@ -306,7 +306,7 @@ Alles, was Atem des Windes/Geistes des Lebens in seinen Nüstern *hatte*, von al
 
 ### **Vers 23**
 
-Und er löschte jedes Stehende aus, das auf dem Angesicht des Bodens *war*, vom Menschen bis zum Vieh bis zum Kriechenden bis zum Vogel des Himmels, und sie wurden ausgelöscht vom Land; und nur Noah blieb übrig, und die mit ihm in der Tebah.
+Und er löschte jedes Stehende aus, das auf dem Angesicht des Bodens *war*, vom Menschen bis zum Vieh bis zum Kriechenden bis zum Vogel des Himmels, und sie wurden ausgelöscht vom Land; und nur Noah blieb übrig, und die mit ihm in der {t:Tebah}.
 
 > **📝 NOTIZEN**
 >

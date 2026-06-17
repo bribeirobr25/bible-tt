@@ -60,15 +60,15 @@
 
 ---
 
-¹Und es war, als der Mensch begann, sich zu mehren auf dem Angesicht des Bodens, und Töchter ihnen geboren wurden, ²und die Söhne Gottes/der Götter sahen die Töchter des Menschen, dass sie gut *waren*, und sie nahmen sich Frauen von allen, die sie wählten. ³Und JHWH sprach: „Mein Geist soll nicht verbleiben/streiten im Menschen in Ewigkeit, darin dass er auch Fleisch *ist*; und seine Tage sollen einhundertzwanzig Jahre sein." ⁴Die Nephilim waren auf dem Land in jenen Tagen, und auch danach, als die Söhne Gottes/der Götter zu den Töchtern des Menschen kamen, und sie ihnen gebaren — sie *sind* die Mächtigen, die *waren* von Urzeit her, Männer des Namens.
+¹Und es war, als der Mensch begann, sich zu mehren auf dem Angesicht des Bodens, und Töchter ihnen geboren wurden, ²und die Söhne {a:Gottes/der Götter} sahen die Töchter des Menschen, dass sie gut *waren*, und sie nahmen sich Frauen von allen, die sie wählten. ³Und JHWH sprach: @@„Mein Geist soll nicht {a:verbleiben/streiten} im Menschen in Ewigkeit, darin dass er auch Fleisch *ist*; und seine Tage sollen einhundertzwanzig Jahre sein."@@ ⁴Die {t:Nephilim} waren auf dem Land in jenen Tagen, und auch danach, als die Söhne {a:Gottes/der Götter} zu den Töchtern des Menschen kamen, und sie ihnen gebaren — sie *sind* die Mächtigen, die *waren* von Urzeit her, Männer des Namens.
 
-⁵Und JHWH sah, dass groß *war* die Bosheit des Menschen auf dem Land, und jede Neigung der Gedanken seines Herzens *war* nur böse den ganzen Tag. ⁶Und JHWH bereute, dass er den Menschen auf dem Land gemacht hatte, und es bekümmerte ihn zu seinem Herzen. ⁷Und JHWH sprach: „Ich werde den Menschen, den ich erschaffen habe, auslöschen von auf dem Angesicht des Bodens, vom Menschen bis zum Vieh, bis zum Kriechenden, bis zum Vogel des Himmels, denn ich bereue, dass ich sie gemacht habe." ⁸Aber Noach (Noah) fand Gunst in den Augen JHWHs.
+⁵Und JHWH sah, dass groß *war* die Bosheit des Menschen auf dem Land, und jede Neigung der Gedanken seines Herzens *war* nur böse den ganzen Tag. ⁶Und JHWH bereute, dass er den Menschen auf dem Land gemacht hatte, und es bekümmerte ihn zu seinem Herzen. ⁷Und JHWH sprach: @@„Ich werde den Menschen, den ich erschaffen habe, auslöschen von auf dem Angesicht des Bodens, vom Menschen bis zum Vieh, bis zum Kriechenden, bis zum Vogel des Himmels, denn ich bereue, dass ich sie gemacht habe."@@ ⁸Aber Noach (Noah) fand Gunst in den Augen JHWHs.
 
-⁹Dies *sind* die Geschlechterfolgen Noahs. Noah *war* ein gerechter Mann, untadelig in seinen Geschlechtern; mit Gott wandelte Noah. ¹⁰Und Noah zeugte drei Söhne: Shem, Cham (Ham) und Yafet (Jafet). ¹¹Und das Land war verderbt vor Gott, und das Land war erfüllt mit Gewalt. ¹²Und Gott sah das Land, und siehe, es war verderbt, denn alles Fleisch hatte seinen Weg verderbt auf dem Land. ¹³Und Gott sprach zu Noah: „Das Ende alles Fleisches ist vor mich gekommen, denn das Land ist erfüllt mit Gewalt um ihretwillen, und siehe, ich *bin am* Vernichten von ihnen mit dem Land.
+⁹Dies *sind* die Geschlechterfolgen Noahs. Noah *war* ein gerechter Mann, untadelig in seinen Geschlechtern; mit Gott wandelte Noah. ¹⁰Und Noah zeugte drei Söhne: Shem, Cham (Ham) und Yafet (Jafet). ¹¹Und das Land war verderbt vor Gott, und das Land war erfüllt mit Gewalt. ¹²Und Gott sah das Land, und siehe, es war verderbt, denn alles Fleisch hatte seinen Weg verderbt auf dem Land. ¹³Und Gott sprach zu Noah: @@„Das Ende alles Fleisches ist vor mich gekommen, denn das Land ist erfüllt mit Gewalt um ihretwillen, und siehe, ich *bin am* Vernichten von ihnen mit dem Land.@@
 
-¹⁴Mache dir eine Tebah aus Gofer-Holz; Räume sollst du machen *in* der Tebah, und du sollst sie bedecken innen und außen mit Kofer. ¹⁵Und dies *ist, wie* du sie machen sollst: dreihundert Ellen die Länge der Tebah, fünfzig Ellen ihre Breite und dreißig Ellen ihre Höhe. ¹⁶Einen Tsohar sollst du machen für die Tebah, und auf eine Elle sollst du ihn abschließen von oben, und die Tür der Tebah sollst du in ihre Seite setzen; unteres, zweites und drittes *Stockwerk* sollst du sie machen.
+¹⁴@@Mache dir eine {t:Tebah} aus {t:Gofer}-Holz; Räume sollst du machen *in* der {t:Tebah}, und du sollst sie bedecken innen und außen mit Kofer. ¹⁵Und dies *ist, wie* du sie machen sollst: dreihundert Ellen die Länge der {t:Tebah}, fünfzig Ellen ihre Breite und dreißig Ellen ihre Höhe. ¹⁶Einen Tsohar sollst du machen für die {t:Tebah}, und auf eine Elle sollst du ihn abschließen von oben, und die Tür der {t:Tebah} sollst du in ihre Seite setzen; unteres, zweites und drittes *Stockwerk* sollst du sie machen.@@
 
-¹⁷Und ich, siehe, ich *bin am* Bringen der Flut von Wassern auf das Land, um alles Fleisch, in dem Atem des Lebens *ist*, zu vernichten von unter dem Himmel; alles, was auf dem Land *ist*, soll sterben. ¹⁸Aber ich werde meinen Bund aufrichten mit dir, und du sollst in die Tebah kommen — du und deine Söhne und deine Frau und die Frauen deiner Söhne mit dir. ¹⁹Und von allem Lebenden, von allem Fleisch, zwei von allem sollst du in die Tebah bringen, um *sie* am Leben zu erhalten mit dir; männlich und weiblich sollen sie sein. ²⁰Vom Vogel nach seiner Art, und vom Vieh nach seiner Art, von jedem Kriechenden des Bodens nach seiner Art, zwei von allem sollen zu dir kommen, um *sie* am Leben zu erhalten. ²¹Und du, nimm dir von aller Speise, die gegessen wird, und sammle *sie* dir, und sie soll sein zur Nahrung für dich und für sie." ²²Und Noah tat nach allem, was Gott ihm geboten hatte; so tat er.
+¹⁷@@Und ich, siehe, ich *bin am* Bringen der Flut von Wassern auf das Land, um alles Fleisch, in dem Atem des Lebens *ist*, zu vernichten von unter dem Himmel; alles, was auf dem Land *ist*, soll sterben. ¹⁸Aber ich werde meinen Bund aufrichten mit dir, und du sollst in die {t:Tebah} kommen — du und deine Söhne und deine Frau und die Frauen deiner Söhne mit dir. ¹⁹Und von allem Lebenden, von allem Fleisch, zwei von allem sollst du in die {t:Tebah} bringen, um *sie* am Leben zu erhalten mit dir; männlich und weiblich sollen sie sein. ²⁰Vom Vogel nach seiner Art, und vom Vieh nach seiner Art, von jedem Kriechenden des Bodens nach seiner Art, zwei von allem sollen zu dir kommen, um *sie* am Leben zu erhalten. ²¹Und du, nimm dir von aller Speise, die gegessen wird, und sammle *sie* dir, und sie soll sein zur Nahrung für dich und für sie."@@ ²²Und Noah tat nach allem, was Gott ihm geboten hatte; so tat er.
 
 ---
 
@@ -87,7 +87,7 @@ Und es war, als der Mensch begann, sich zu mehren auf dem Angesicht des Bodens, 
 
 ### **Vers 2**
 
-und die Söhne Gottes/der Götter sahen die Töchter des Menschen, dass sie gut *waren*, und sie nahmen sich Frauen von allen, die sie wählten.
+und die Söhne {a:Gottes/der Götter} sahen die Töchter des Menschen, dass sie gut *waren*, und sie nahmen sich Frauen von allen, die sie wählten.
 
 > **📝 NOTIZEN**
 >
@@ -101,7 +101,7 @@ und die Söhne Gottes/der Götter sahen die Töchter des Menschen, dass sie gut 
 
 ### **Vers 3**
 
-Und JHWH sprach: „Mein Geist soll nicht verbleiben/streiten im Menschen in Ewigkeit, darin dass er auch Fleisch *ist*; und seine Tage sollen einhundertzwanzig Jahre sein."
+Und JHWH sprach: @@„Mein Geist soll nicht {a:verbleiben/streiten} im Menschen in Ewigkeit, darin dass er auch Fleisch *ist*; und seine Tage sollen einhundertzwanzig Jahre sein."@@
 
 > **📝 NOTIZEN**
 >
@@ -115,7 +115,7 @@ Und JHWH sprach: „Mein Geist soll nicht verbleiben/streiten im Menschen in Ewi
 
 ### **Vers 4**
 
-Die Nephilim waren auf dem Land in jenen Tagen, und auch danach, als die Söhne Gottes/der Götter zu den Töchtern des Menschen kamen, und sie ihnen gebaren — sie *sind* die Mächtigen, die *waren* von Urzeit her, Männer des Namens.
+Die {t:Nephilim} waren auf dem Land in jenen Tagen, und auch danach, als die Söhne {a:Gottes/der Götter} zu den Töchtern des Menschen kamen, und sie ihnen gebaren — sie *sind* die Mächtigen, die *waren* von Urzeit her, Männer des Namens.
 
 > **📝 NOTIZEN**
 >
@@ -153,7 +153,7 @@ Und JHWH bereute, dass er den Menschen auf dem Land gemacht hatte, und es beküm
 
 ### **Vers 7**
 
-Und JHWH sprach: „Ich werde den Menschen, den ich erschaffen habe, auslöschen von auf dem Angesicht des Bodens, vom Menschen bis zum Vieh, bis zum Kriechenden, bis zum Vogel des Himmels, denn ich bereue, dass ich sie gemacht habe."
+Und JHWH sprach: @@„Ich werde den Menschen, den ich erschaffen habe, auslöschen von auf dem Angesicht des Bodens, vom Menschen bis zum Vieh, bis zum Kriechenden, bis zum Vogel des Himmels, denn ich bereue, dass ich sie gemacht habe."@@
 
 > **📝 NOTIZEN**
 >
@@ -223,7 +223,7 @@ Und Gott sah das Land, und siehe, es war verderbt, denn alles Fleisch hatte sein
 
 ### **Vers 13**
 
-Und Gott sprach zu Noah: „Das Ende alles Fleisches ist vor mich gekommen, denn das Land ist erfüllt mit Gewalt um ihretwillen, und siehe, ich *bin am* Vernichten von ihnen mit dem Land.
+Und Gott sprach zu Noah: @@„Das Ende alles Fleisches ist vor mich gekommen, denn das Land ist erfüllt mit Gewalt um ihretwillen, und siehe, ich *bin am* Vernichten von ihnen mit dem Land.@@
 
 > **📝 NOTIZEN**
 >
@@ -234,7 +234,7 @@ Und Gott sprach zu Noah: „Das Ende alles Fleisches ist vor mich gekommen, denn
 
 ### **Vers 14**
 
-Mache dir eine Tebah aus Gofer-Holz; Räume sollst du machen *in* der Tebah, und du sollst sie bedecken innen und außen mit Kofer.
+@@Mache dir eine {t:Tebah} aus {t:Gofer}-Holz; Räume sollst du machen *in* der {t:Tebah}, und du sollst sie bedecken innen und außen mit Kofer.@@
 
 > **📝 NOTIZEN**
 >
@@ -251,7 +251,7 @@ Mache dir eine Tebah aus Gofer-Holz; Räume sollst du machen *in* der Tebah, und
 
 ### **Vers 15**
 
-Und dies *ist, wie* du sie machen sollst: dreihundert Ellen die Länge der Tebah, fünfzig Ellen ihre Breite und dreißig Ellen ihre Höhe.
+@@Und dies *ist, wie* du sie machen sollst: dreihundert Ellen die Länge der {t:Tebah}, fünfzig Ellen ihre Breite und dreißig Ellen ihre Höhe.@@
 
 > **📝 NOTIZEN**
 >
@@ -262,7 +262,7 @@ Und dies *ist, wie* du sie machen sollst: dreihundert Ellen die Länge der Tebah
 
 ### **Vers 16**
 
-Einen Tsohar sollst du machen für die Tebah, und auf eine Elle sollst du ihn abschließen von oben, und die Tür der Tebah sollst du in ihre Seite setzen; unteres, zweites und drittes *Stockwerk* sollst du sie machen.
+@@Einen Tsohar sollst du machen für die {t:Tebah}, und auf eine Elle sollst du ihn abschließen von oben, und die Tür der {t:Tebah} sollst du in ihre Seite setzen; unteres, zweites und drittes *Stockwerk* sollst du sie machen.@@
 
 > **📝 NOTIZEN**
 >
@@ -273,7 +273,7 @@ Einen Tsohar sollst du machen für die Tebah, und auf eine Elle sollst du ihn ab
 
 ### **Vers 17**
 
-Und ich, siehe, ich *bin am* Bringen der Flut von Wassern auf das Land, um alles Fleisch, in dem Atem des Lebens *ist*, zu vernichten von unter dem Himmel; alles, was auf dem Land *ist*, soll sterben.
+@@Und ich, siehe, ich *bin am* Bringen der Flut von Wassern auf das Land, um alles Fleisch, in dem Atem des Lebens *ist*, zu vernichten von unter dem Himmel; alles, was auf dem Land *ist*, soll sterben.@@
 
 > **📝 NOTIZEN**
 >
@@ -287,7 +287,7 @@ Und ich, siehe, ich *bin am* Bringen der Flut von Wassern auf das Land, um alles
 
 ### **Vers 18**
 
-Aber ich werde meinen Bund aufrichten mit dir, und du sollst in die Tebah kommen — du und deine Söhne und deine Frau und die Frauen deiner Söhne mit dir.
+@@Aber ich werde meinen Bund aufrichten mit dir, und du sollst in die {t:Tebah} kommen — du und deine Söhne und deine Frau und die Frauen deiner Söhne mit dir.@@
 
 > **📝 NOTIZEN**
 >
@@ -301,7 +301,7 @@ Aber ich werde meinen Bund aufrichten mit dir, und du sollst in die Tebah kommen
 
 ### **Vers 19**
 
-Und von allem Lebenden, von allem Fleisch, zwei von allem sollst du in die Tebah bringen, um *sie* am Leben zu erhalten mit dir; männlich und weiblich sollen sie sein.
+@@Und von allem Lebenden, von allem Fleisch, zwei von allem sollst du in die {t:Tebah} bringen, um *sie* am Leben zu erhalten mit dir; männlich und weiblich sollen sie sein.@@
 
 > **📝 NOTIZEN**
 >
@@ -312,7 +312,7 @@ Und von allem Lebenden, von allem Fleisch, zwei von allem sollst du in die Tebah
 
 ### **Vers 20**
 
-Vom Vogel nach seiner Art, und vom Vieh nach seiner Art, von jedem Kriechenden des Bodens nach seiner Art, zwei von allem sollen zu dir kommen, um *sie* am Leben zu erhalten.
+@@Vom Vogel nach seiner Art, und vom Vieh nach seiner Art, von jedem Kriechenden des Bodens nach seiner Art, zwei von allem sollen zu dir kommen, um *sie* am Leben zu erhalten.@@
 
 > **📝 NOTIZEN**
 >
@@ -323,7 +323,7 @@ Vom Vogel nach seiner Art, und vom Vieh nach seiner Art, von jedem Kriechenden d
 
 ### **Vers 21**
 
-Und du, nimm dir von aller Speise, die gegessen wird, und sammle *sie* dir, und sie soll sein zur Nahrung für dich und für sie."
+@@Und du, nimm dir von aller Speise, die gegessen wird, und sammle *sie* dir, und sie soll sein zur Nahrung für dich und für sie."@@
 
 ---
 

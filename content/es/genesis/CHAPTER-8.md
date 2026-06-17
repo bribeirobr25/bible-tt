@@ -61,15 +61,15 @@
 
 ---
 
-¹Y Dios se acordó de Noé y de todo ser vivo y de todo el ganado que *estaban* con él en la tebah, y Dios hizo pasar un viento/espíritu sobre la tierra, y las aguas menguaron. ²Y las fuentes del abismo y las ventanas del cielo fueron cerradas, y la lluvia del cielo fue contenida. ³Y las aguas volvieron de sobre la tierra, yendo y volviendo, y las aguas disminuyeron al cabo de ciento cincuenta dias. ⁴Y la tebah descansó en el septimo mes, en el día diecisiete del mes, sobre los montes de Ararat. ⁵Y las aguas iban yendo y disminuyendo hasta el décimo mes; en el décimo *mes*, el primero del mes, aparecieron las cimás de los montes.
+¹Y Dios se acordó de Noé y de todo ser vivo y de todo el ganado que *estaban* con él en la {t:tebah}, y Dios hizo pasar un {a:viento/espíritu} sobre la tierra, y las aguas menguaron. ²Y las fuentes del abismo y las ventanas del cielo fueron cerradas, y la lluvia del cielo fue contenida. ³Y las aguas volvieron de sobre la tierra, yendo y volviendo, y las aguas disminuyeron al cabo de ciento cincuenta dias. ⁴Y la {t:tebah} descansó en el septimo mes, en el día diecisiete del mes, sobre los montes de Ararat. ⁵Y las aguas iban yendo y disminuyendo hasta el décimo mes; en el décimo *mes*, el primero del mes, aparecieron las cimás de los montes.
 
-⁶Y fue al cabo de cuarenta días, y Noé abrió la ventana de la tebah que había hecho. ⁷Y envió al cuervo, y salió, saliendo y volviendo, hasta que las aguas se secaron de sobre la tierra. ⁸Y envió a la paloma de con el, para ver si las aguas habian disminuido de sobre la faz del suelo. ⁹Y la paloma no halló lugar de descanso para la planta de su pie, y volvió a él a la tebah, pues aguas *habia* sobre la faz de toda la tierra; y él extendió su mano y la tomó y la trajo a él a la tebah. ¹⁰Y esperó aun siete días más, y de nuevo envió a la paloma desde la tebah. ¹¹Y la paloma vino a él a la hora de la tarde, y he aquí, una hoja de olivo recien arrancada *estaba* en su boca; y Noé supo que las aguas habian disminuido de sobre la tierra. ¹²Y esperó aun siete días más, y envió a la paloma, y ella no volvió a él otra vez.
+⁶Y fue al cabo de cuarenta días, y Noé abrió la ventana de la {t:tebah} que había hecho. ⁷Y envió al cuervo, y salió, saliendo y volviendo, hasta que las aguas se secaron de sobre la tierra. ⁸Y envió a la paloma de con el, para ver si las aguas habian disminuido de sobre la faz del suelo. ⁹Y la paloma no halló lugar de descanso para la planta de su pie, y volvió a él a la {t:tebah}, pues aguas *habia* sobre la faz de toda la tierra; y él extendió su mano y la tomó y la trajo a él a la {t:tebah}. ¹⁰Y esperó aun siete días más, y de nuevo envió a la paloma desde la {t:tebah}. ¹¹Y la paloma vino a él a la hora de la tarde, y he aquí, una hoja de olivo recien arrancada *estaba* en su boca; y Noé supo que las aguas habian disminuido de sobre la tierra. ¹²Y esperó aun siete días más, y envió a la paloma, y ella no volvió a él otra vez.
 
-¹³Y fue en el año seiscientos uno, en el primer *mes*, el primero del mes, las aguas se secaron de sobre la tierra; y Noé quito la cubierta de la tebah y miro, y he aquí, la faz del suelo se había secado. ¹⁴Y en el segundo mes, en el día veintisiete del mes, la tierra estaba seca.
+¹³Y fue en el año seiscientos uno, en el primer *mes*, el primero del mes, las aguas se secaron de sobre la tierra; y Noé quito la cubierta de la {t:tebah} y miro, y he aquí, la faz del suelo se había secado. ¹⁴Y en el segundo mes, en el día veintisiete del mes, la tierra estaba seca.
 
-¹⁵Y Dios habló a Noé, diciendo, ¹⁶"Sal de la tebah, tu y tu mujer y tus hijos y las mujeres de tus hijos contigo. ¹⁷Todo ser vivo que *esta* contigo de toda carne — el ave y el ganado y todo lo que se arrastra que se arrastra sobre la tierra — sacalos contigo, y que pululen en la tierra, y sean fecundos y se multipliquen sobre la tierra." ¹⁸Y Noé salió, y sus hijos y su mujer y las mujeres de sus hijos con el. ¹⁹Todo ser vivo, todo lo que se arrastra y toda ave, todo lo que se mueve sobre la tierra, por sus familias salieron de la tebah.
+¹⁵Y Dios habló a Noé, diciendo, ¹⁶@@"Sal de la {t:tebah}, tu y tu mujer y tus hijos y las mujeres de tus hijos contigo. ¹⁷Todo ser vivo que *esta* contigo de toda carne — el ave y el ganado y todo lo que se arrastra que se arrastra sobre la tierra — sacalos contigo, y que pululen en la tierra, y sean fecundos y se multipliquen sobre la tierra."@@ ¹⁸Y Noé salió, y sus hijos y su mujer y las mujeres de sus hijos con el. ¹⁹Todo ser vivo, todo lo que se arrastra y toda ave, todo lo que se mueve sobre la tierra, por sus familias salieron de la {t:tebah}.
 
-²⁰Y Noé construyó un altar a YHWH, y tomó de todo ganado limpio y de toda ave limpia, y ofreció ofrendas quemadas sobre el altar. ²¹Y YHWH olió el aroma apaciguante, y YHWH dijo en su corazón, "No volveré a maldecir el suelo por causa del humano, pues la inclinación del corazón del humano *es* mala desde su juventud; y no volveré a golpear a todo ser vivo como he hecho. ²²Mientras aun *sean* todos los días de la tierra, siembra y cosecha, y frio y calor, y verano e invierno, y día y noche no cesaran."
+²⁰Y Noé construyó un altar a YHWH, y tomó de todo ganado limpio y de toda ave limpia, y ofreció ofrendas quemadas sobre el altar. ²¹Y YHWH olió el aroma apaciguante, y YHWH dijo en su corazón, @@"No volveré a maldecir el suelo por causa del humano, pues la inclinación del corazón del humano *es* mala desde su juventud; y no volveré a golpear a todo ser vivo como he hecho. ²²Mientras aun *sean* todos los días de la tierra, siembra y cosecha, y frio y calor, y verano e invierno, y día y noche no cesaran."@@
 
 ---
 
@@ -77,7 +77,7 @@
 
 ### **Versículo 1**
 
-Y Dios se acordó de Noé y de todo ser vivo y de todo el ganado que *estaban* con él en la tebah, y Dios hizo pasar un viento/espíritu sobre la tierra, y las aguas menguaron.
+Y Dios se acordó de Noé y de todo ser vivo y de todo el ganado que *estaban* con él en la {t:tebah}, y Dios hizo pasar un {a:viento/espíritu} sobre la tierra, y las aguas menguaron.
 
 > **📝 NOTAS**
 >
@@ -115,7 +115,7 @@ Y las aguas volvieron de sobre la tierra, yendo y volviendo, y las aguas disminu
 
 ### **Versículo 4**
 
-Y la tebah descansó en el septimo mes, en el día diecisiete del mes, sobre los montes de Ararat.
+Y la {t:tebah} descansó en el septimo mes, en el día diecisiete del mes, sobre los montes de Ararat.
 
 > **📝 NOTAS**
 >
@@ -140,7 +140,7 @@ Y las aguas iban yendo y disminuyendo hasta el décimo mes; en el décimo *mes*,
 
 ### **Versículo 6**
 
-Y fue al cabo de cuarenta días, y Noé abrió la ventana de la tebah que había hecho.
+Y fue al cabo de cuarenta días, y Noé abrió la ventana de la {t:tebah} que había hecho.
 
 > **📝 NOTAS**
 >
@@ -173,7 +173,7 @@ Y envió a la paloma de con el, para ver si las aguas habian disminuido de sobre
 
 ### **Versículo 9**
 
-Y la paloma no halló lugar de descanso para la planta de su pie, y volvió a él a la tebah, pues aguas *habia* sobre la faz de toda la tierra; y él extendió su mano y la tomó y la trajo a él a la tebah.
+Y la paloma no halló lugar de descanso para la planta de su pie, y volvió a él a la {t:tebah}, pues aguas *habia* sobre la faz de toda la tierra; y él extendió su mano y la tomó y la trajo a él a la {t:tebah}.
 
 > **📝 NOTAS**
 >
@@ -184,7 +184,7 @@ Y la paloma no halló lugar de descanso para la planta de su pie, y volvió a é
 
 ### **Versículo 10**
 
-Y esperó aun siete días más, y de nuevo envió a la paloma desde la tebah.
+Y esperó aun siete días más, y de nuevo envió a la paloma desde la {t:tebah}.
 
 ---
 
@@ -212,7 +212,7 @@ Y esperó aun siete días más, y envió a la paloma, y ella no volvió a él ot
 
 ### **Versículo 13**
 
-Y fue en el año seiscientos uno, en el primer *mes*, el primero del mes, las aguas se secaron de sobre la tierra; y Noé quito la cubierta de la tebah y miro, y he aquí, la faz del suelo se había secado.
+Y fue en el año seiscientos uno, en el primer *mes*, el primero del mes, las aguas se secaron de sobre la tierra; y Noé quito la cubierta de la {t:tebah} y miro, y he aquí, la faz del suelo se había secado.
 
 > **📝 NOTAS**
 >
@@ -240,7 +240,7 @@ Y Dios habló a Noé, diciendo,
 
 ### **Versículo 16**
 
-"Sal de la tebah, tu y tu mujer y tus hijos y las mujeres de tus hijos contigo.
+@@"Sal de la {t:tebah}, tu y tu mujer y tus hijos y las mujeres de tus hijos contigo.@@
 
 > **📝 NOTAS**
 >
@@ -251,7 +251,7 @@ Y Dios habló a Noé, diciendo,
 
 ### **Versículo 17**
 
-Todo ser vivo que *esta* contigo de toda carne — el ave y el ganado y todo lo que se arrastra que se arrastra sobre la tierra — sacalos contigo, y que pululen en la tierra, y sean fecundos y se multipliquen sobre la tierra."
+@@Todo ser vivo que *esta* contigo de toda carne — el ave y el ganado y todo lo que se arrastra que se arrastra sobre la tierra — sacalos contigo, y que pululen en la tierra, y sean fecundos y se multipliquen sobre la tierra."@@
 
 > **📝 NOTAS**
 >
@@ -268,7 +268,7 @@ Y Noé salió, y sus hijos y su mujer y las mujeres de sus hijos con el.
 
 ### **Versículo 19**
 
-Todo ser vivo, todo lo que se arrastra y toda ave, todo lo que se mueve sobre la tierra, por sus familias salieron de la tebah.
+Todo ser vivo, todo lo que se arrastra y toda ave, todo lo que se mueve sobre la tierra, por sus familias salieron de la {t:tebah}.
 
 > **📝 NOTAS**
 >
@@ -293,7 +293,7 @@ Y Noé construyó un altar a YHWH, y tomó de todo ganado limpio y de toda ave l
 
 ### **Versículo 21**
 
-Y YHWH olió el aroma apaciguante, y YHWH dijo en su corazón, "No volveré a maldecir el suelo por causa del humano, pues la inclinación del corazón del humano *es* mala desde su juventud; y no volveré a golpear a todo ser vivo como he hecho.
+Y YHWH olió el aroma apaciguante, y YHWH dijo en su corazón, @@"No volveré a maldecir el suelo por causa del humano, pues la inclinación del corazón del humano *es* mala desde su juventud; y no volveré a golpear a todo ser vivo como he hecho.@@
 
 > **📝 NOTAS**
 >
@@ -312,7 +312,7 @@ Y YHWH olió el aroma apaciguante, y YHWH dijo en su corazón, "No volveré a ma
 
 ### **Versículo 22**
 
-Mientras aun *sean* todos los días de la tierra, siembra y cosecha, y frio y calor, y verano e invierno, y día y noche no cesaran."
+@@Mientras aun *sean* todos los días de la tierra, siembra y cosecha, y frio y calor, y verano e invierno, y día y noche no cesaran."@@
 
 > **📝 NOTAS**
 >
