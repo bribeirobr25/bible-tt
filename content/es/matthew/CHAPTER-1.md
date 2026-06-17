@@ -72,9 +72,9 @@ Y David engendró a Shelomoh de la *esposa* de Uriyah, ⁷y Shelomoh engendró a
 
 ¹⁷Así que todas las generaciones desde Avraham hasta David *son* catorce generaciones, y desde David hasta el exilio a Bavel *son* catorce generaciones, y desde el exilio a Bavel hasta el ungido *son* catorce generaciones.
 
-¹⁸Ahora bien, la génesis de Yeshua el ungido fue así: su madre Miryam, habiendo sido desposada con Yosef, antes de que se unieran, fue hallada *que estaba* encinta *del* viento/espíritu santo. ¹⁹Y Yosef su esposo, siendo justo y no queriendo exponerla públicamente, planeó liberarla en secreto. ²⁰Pero *mientras* él consideraba estas cosas, miren, un mensajero del Señor se le apareció en un sueño, diciendo: "Yosef, hijo de David, no temas tomar a Miryam *como* tu esposa, porque *lo* concebido en ella es *del* viento/espíritu santo. ²¹Y ella dará a luz un hijo, y llamarás su nombre Yeshua, porque él salvará a su pueblo de sus pecados."
+¹⁸Ahora bien, la génesis de Yeshua el ungido fue así: su madre Miryam, habiendo sido desposada con Yosef, antes de que se unieran, fue hallada *que estaba* encinta *del* {a:viento/espíritu} santo. ¹⁹Y Yosef su esposo, siendo justo y no queriendo exponerla públicamente, planeó liberarla en secreto. ²⁰Pero *mientras* él consideraba estas cosas, miren, un mensajero del Señor se le apareció en un sueño, diciendo: "Yosef, hijo de David, no temas tomar a Miryam *como* tu esposa, porque *lo* concebido en ella es *del* {a:viento/espíritu} santo. ²¹Y ella dará a luz un hijo, y llamarás su nombre Yeshua, porque él salvará a su pueblo de sus pecados."
 
-²²Y todo esto sucedió para que se cumpliera lo dicho por el Señor a través del profeta, diciendo: ²³"Miren, la virgen/joven mujer concebirá y dará a luz un hijo, y lo llamarán Immanu'el" — que es, traducido, "Dios con nosotros."
+²²Y todo esto sucedió para que se cumpliera lo dicho por el Señor a través del profeta, diciendo: ²³"Miren, la {a:virgen/joven mujer} concebirá y dará a luz un hijo, y lo llamarán Immanu'el" — que es, traducido, "Dios con nosotros."
 
 ²⁴Y Yosef, habiendo sido despertado del sueño, hizo como el mensajero del Señor le mandó, y tomó a su esposa, ²⁵y no la conoció hasta que ella dio a luz un hijo; y llamó su nombre Yeshua.
 
@@ -317,7 +317,7 @@ Así que todas las generaciones desde Avraham hasta David *son* catorce generaci
 
 ### **Versículo 18**
 
-Ahora bien, la génesis de Yeshua el ungido fue así: su madre Miryam, habiendo sido desposada con Yosef, antes de que se unieran, fue hallada *que estaba* encinta *del* viento/espíritu santo.
+Ahora bien, la génesis de Yeshua el ungido fue así: su madre Miryam, habiendo sido desposada con Yosef, antes de que se unieran, fue hallada *que estaba* encinta *del* {a:viento/espíritu} santo.
 
 > **Notas**
 >
@@ -348,7 +348,7 @@ Y Yosef su esposo, siendo justo y no queriendo exponerla públicamente, planeó 
 
 ### **Versículo 20**
 
-Pero *mientras* él consideraba estas cosas, miren, un mensajero del Señor se le apareció en un sueño, diciendo: "Yosef, hijo de David, no temas tomar a Miryam *como* tu esposa, porque *lo* concebido en ella es *del* viento/espíritu santo.
+Pero *mientras* él consideraba estas cosas, miren, un mensajero del Señor se le apareció en un sueño, diciendo: "Yosef, hijo de David, no temas tomar a Miryam *como* tu esposa, porque *lo* concebido en ella es *del* {a:viento/espíritu} santo.
 
 > **Notas**
 >
@@ -390,7 +390,7 @@ Y todo esto sucedió para que se cumpliera lo dicho por el Señor a través del 
 
 ### **Versículo 23**
 
-"Miren, la virgen/joven mujer concebirá y dará a luz un hijo, y lo llamarán Immanu'el" — que es, traducido, "Dios con nosotros."
+"Miren, la {a:virgen/joven mujer} concebirá y dará a luz un hijo, y lo llamarán Immanu'el" — que es, traducido, "Dios con nosotros."
 
 > **Notas**
 >

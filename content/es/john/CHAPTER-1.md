@@ -66,21 +66,21 @@
 
 ⁶Llegó a ser un hombre, habiendo sido enviado de Dios — su nombre *era* Yochanan. ⁷Este vino para testimonio, para que testificara acerca de la luz, para que todos confiaran por medio de él. ⁸Él no era la luz, sino *que vino* para que testificara acerca de la luz. ⁹La luz verdadera, que ilumina a todo humano, estaba viniendo al mundo. ¹⁰Él estaba en el mundo, y el mundo llegó a ser por medio de él, y el mundo no lo conoció. ¹¹Vino a lo suyo *propio*, y los suyos *propios* no lo recibieron. ¹²Pero a todos los que lo recibieron, a ellos les dio el derecho de llegar a ser hijos de Dios — a los que confían en su nombre, ¹³los cuales nacieron no de sangres, ni de voluntad de carne, ni de voluntad de varón, sino de Dios.
 
-¹⁴Y la palabra se hizo carne y habitó entre nosotros, y vimos su gloria — gloria como de un único *venido* de un padre — lleno de gracia/favor y verdad. ¹⁵Yochanan testifica acerca de él y ha clamado, diciendo: "Este era aquel de quien yo dije: 'El que viene después de mí ha llegado a ser antes que yo, porque era primero *con respecto* a mí.'" ¹⁶Porque de su plenitud todos nosotros recibimos, y gracia/favor sobre gracia/favor. ¹⁷Porque la ley fue dada por medio de Mosheh; la gracia/favor y la verdad llegaron a ser por medio de Yeshua, *el* ungido. ¹⁸A Dios nadie lo ha visto jamás; el único-nacido Dios, el que está en el seno del Padre — ese lo ha dado a conocer.
+¹⁴Y la palabra se hizo carne y habitó entre nosotros, y vimos su gloria — gloria como de un único *venido* de un padre — lleno de {a:gracia/favor} y verdad. ¹⁵Yochanan testifica acerca de él y ha clamado, diciendo: "Este era aquel de quien yo dije: 'El que viene después de mí ha llegado a ser antes que yo, porque era primero *con respecto* a mí.'" ¹⁶Porque de su plenitud todos nosotros recibimos, y {a:gracia/favor} sobre {a:gracia/favor}. ¹⁷Porque la ley fue dada por medio de Mosheh; la {a:gracia/favor} y la verdad llegaron a ser por medio de Yeshua, *el* ungido. ¹⁸A Dios nadie lo ha visto jamás; el único-nacido Dios, el que está en el seno del Padre — ese lo ha dado a conocer.
 
 ¹⁹Y este es el testimonio de Yochanan, cuando los yehudim enviaron sacerdotes y levitas desde Yerushalayim para preguntarle: "¿Quién eres tú?" ²⁰Y él confesó y no negó, y confesó: "Yo no soy el ungido." ²¹Y le preguntaron: "¿Qué, entonces? ¿Eres tú Eliyahu?" Y dice: "No soy." "¿Eres tú el Profeta?" Y respondió: "No." ²²Entonces le dijeron: "¿Quién eres? — para que demos respuesta a los que nos enviaron. ¿Qué dices acerca de ti mismo?" ²³Dijo: "Yo *soy* una voz que clama en el desierto: 'Enderecen el camino del Señor'" — como dijo Yeshayahu el profeta.
 
 ²⁴Y *los que* habían sido enviados eran de los perushim. ²⁵Y le preguntaron y le dijeron: "¿Por qué entonces sumerges, si tú no eres el ungido, ni Eliyahu, ni el Profeta?" ²⁶Yochanan les respondió, diciendo: "Yo sumerjo en agua; en medio de ustedes esta uno a quien ustedes no conocen — ²⁷el que viene después de mí, de quien yo no soy digno de desatar la correa de su sandalia." ²⁸Estas cosas sucedieron en Beyt-Anyah al otro lado del Yarden, donde Yochanan estaba sumergiendo.
 
-²⁹Al día siguiente el ve a Yeshua viniendo hacia el y dice: "Vean, el cordero de Dios, el que quita el pecado del mundo. ³⁰Este es aquel acerca de quien yo dije: 'Después de mí viene un hombre que ha llegado a ser antes que yo, porque era primero *con respecto* a mí.' ³¹Y yo no lo conocía, pero para que el fuera manifestado a Yisrael — por esta razón yo vine sumergiendo en agua." ³²Y Yochanan testificó, diciendo: "He visto al viento/espíritu descender como paloma del cielo, y permanecio sobre el. ³³Y yo no lo conocía, pero el que me envió a sumergir en agua, aquel me dijo: 'Sobre quien veas al viento/espíritu descender y permanecer sobre el — este es el que sumerge en *el* santo viento/espíritu.' ³⁴Y yo he visto, y he testificado que este es el hijo de Dios."
+²⁹Al día siguiente el ve a Yeshua viniendo hacia el y dice: "Vean, el cordero de Dios, el que quita el pecado del mundo. ³⁰Este es aquel acerca de quien yo dije: 'Después de mí viene un hombre que ha llegado a ser antes que yo, porque era primero *con respecto* a mí.' ³¹Y yo no lo conocía, pero para que el fuera manifestado a Yisrael — por esta razón yo vine sumergiendo en agua." ³²Y Yochanan testificó, diciendo: "He visto al {a:viento/espíritu} descender como paloma del cielo, y permanecio sobre el. ³³Y yo no lo conocía, pero el que me envió a sumergir en agua, aquel me dijo: 'Sobre quien veas al {a:viento/espíritu} descender y permanecer sobre el — este es el que sumerge en *el* santo {a:viento/espíritu}.' ³⁴Y yo he visto, y he testificado que este es el hijo de Dios."
 
-³⁵Al día siguiente de nuevo Yochanan estaba *de pie*, y *dos* de sus seguidores, ³⁶y habiendo mirado fijamente a Yeshua caminando, dice: "Vean, el cordero de Dios." ³⁷Y los dos seguidores lo oyeron hablar y siguieron a Yeshua. ³⁸Y Yeshua, habiendose vuelto y habiendo visto que lo seguian, les dice: "¿Qué buscan?" Y ellos le dijeron: "Rabbi" — que, traducido, significa Maestro — "¿donde te hospedas?" ³⁹Les dice: "Vengan y vean." Vinieron y vieron donde se hospedaba, y se quedaron con el ese día; *era* como la hora decima.
+³⁵Al día siguiente de nuevo Yochanan estaba *de pie*, y *dos* de sus seguidores, ³⁶y habiendo mirado fijamente a Yeshua caminando, dice: "Vean, el cordero de Dios." ³⁷Y los dos seguidores lo oyeron hablar y siguieron a Yeshua. ³⁸Y Yeshua, habiendose vuelto y habiendo visto que lo seguian, les dice: @@"¿Qué buscan?"@@ Y ellos le dijeron: "Rabbi" — que, traducido, significa Maestro — "¿donde te hospedas?" ³⁹Les dice: @@"Vengan y vean."@@ Vinieron y vieron donde se hospedaba, y se quedaron con el ese día; *era* como la hora decima.
 
-⁴⁰Andreas, el hermano de Shimon Kefa, era uno de los dos que oyeron de Yochanan y lo siguieron. ⁴¹Este encuentra primero a su propio hermano Shimon y le dice: "Hemos encontrado al Mesias" — que es, traducido, *el* ungido. ⁴²Lo llevo a Yeshua. Habiendolo mirado, Yeshua dijo: "Tu eres Shimon, el hijo de Yochanan; seras llamado Kefa" — que se traduce "Roca."
+⁴⁰Andreas, el hermano de Shimon Kefa, era uno de los dos que oyeron de Yochanan y lo siguieron. ⁴¹Este encuentra primero a su propio hermano Shimon y le dice: "Hemos encontrado al Mesias" — que es, traducido, *el* ungido. ⁴²Lo llevo a Yeshua. Habiendolo mirado, Yeshua dijo: @@"Tu eres Shimon, el hijo de Yochanan; seras llamado Kefa"@@ — que se traduce "Roca."
 
-⁴³Al día siguiente quiso salir al Galil, y encuentra a Philippos. Y Yeshua le dice: "Sigueme." ⁴⁴Y Philippos era de Beyt-Tsaidah, de la ciudad de Andreas y Kefa. ⁴⁵Philippos encuentra a Nathanael y le dice: "Aquel de quien Mosheh escribio en la ley, y los profetas — lo hemos encontrado: Yeshua, hijo de Yosef, de Natseret." ⁴⁶Y Nathanael le dijo: "¿De Natseret puede *salir* algo bueno?" Philippos le dice: "Ven y ve."
+⁴³Al día siguiente quiso salir al Galil, y encuentra a Philippos. Y Yeshua le dice: @@"Sigueme."@@ ⁴⁴Y Philippos era de Beyt-Tsaidah, de la ciudad de Andreas y Kefa. ⁴⁵Philippos encuentra a Nathanael y le dice: "Aquel de quien Mosheh escribio en la ley, y los profetas — lo hemos encontrado: Yeshua, hijo de Yosef, de Natseret." ⁴⁶Y Nathanael le dijo: "¿De Natseret puede *salir* algo bueno?" Philippos le dice: "Ven y ve."
 
-⁴⁷Yeshua vio a Nathanael viniendo hacia el y dice acerca de él: "Vean, verdaderamente un yisraeli en quien no hay engano." ⁴⁸Nathanael le dice: "¿De donde me conoces?" Yeshua respondió y le dijo: "Antes de que Philippos te llamara, *mientras estabas* debajo de la higuera, te vi." ⁴⁹Nathanael le respondió: "Rabbi, tú eres el hijo de Dios; tú eres el rey de Yisrael." ⁵⁰Yeshua respondió y le dijo: "¿Porque te dije que te vi debajo de la higuera, confias? Veras cosas mayores que estas." ⁵¹Y le dice: "Amen, amen, les digo, veran el cielo abierto y los mensajeros de Dios ascendiendo y descendiendo sobre el hijo del hombre."
+⁴⁷Yeshua vio a Nathanael viniendo hacia el y dice acerca de él: @@"Vean, verdaderamente un yisraeli en quien no hay engano."@@ ⁴⁸Nathanael le dice: "¿De donde me conoces?" Yeshua respondió y le dijo: @@"Antes de que Philippos te llamara, *mientras estabas* debajo de la higuera, te vi."@@ ⁴⁹Nathanael le respondió: "Rabbi, tú eres el hijo de Dios; tú eres el rey de Yisrael." ⁵⁰Yeshua respondió y le dijo: @@"¿Porque te dije que te vi debajo de la higuera, confias? Veras cosas mayores que estas."@@ ⁵¹Y le dice: @@"Amen, amen, les digo, veran el cielo abierto y los mensajeros de Dios ascendiendo y descendiendo sobre el hijo del hombre."@@
 
 ---
 
@@ -270,7 +270,7 @@ los cuales nacieron no de sangres, ni de voluntad de carne, ni de voluntad de va
 
 ### **Versículo 14**
 
-Y la palabra se hizo carne y habitó entre nosotros, y vimos su gloria — gloria como de un único *venido* de un padre — lleno de gracia/favor y verdad.
+Y la palabra se hizo carne y habitó entre nosotros, y vimos su gloria — gloria como de un único *venido* de un padre — lleno de {a:gracia/favor} y verdad.
 
 > **📝 NOTAS**
 >
@@ -304,7 +304,7 @@ Yochanan testifica acerca de él y ha clamado, diciendo: "Este era aquel de quie
 
 ### **Versículo 16**
 
-Porque de su plenitud todos nosotros recibimos, y gracia/favor sobre gracia/favor.
+Porque de su plenitud todos nosotros recibimos, y {a:gracia/favor} sobre {a:gracia/favor}.
 
 > **📝 NOTAS**
 >
@@ -315,7 +315,7 @@ Porque de su plenitud todos nosotros recibimos, y gracia/favor sobre gracia/favo
 
 ### **Versículo 17**
 
-Porque la ley fue dada por medio de Mosheh; la gracia/favor y la verdad llegaron a ser por medio de Yeshua, *el* ungido.
+Porque la ley fue dada por medio de Mosheh; la {a:gracia/favor} y la verdad llegaron a ser por medio de Yeshua, *el* ungido.
 
 > **📝 NOTAS**
 >
@@ -507,7 +507,7 @@ Y yo no lo conocía, pero para que el fuera manifestado a Yisrael — por esta r
 
 ### **Versículo 32**
 
-Y Yochanan testificó, diciendo: "He visto al viento/espíritu descender como paloma del cielo, y permanecio sobre el.
+Y Yochanan testificó, diciendo: "He visto al {a:viento/espíritu} descender como paloma del cielo, y permanecio sobre el.
 
 > **📝 NOTAS**
 >
@@ -524,7 +524,7 @@ Y Yochanan testificó, diciendo: "He visto al viento/espíritu descender como pa
 
 ### **Versículo 33**
 
-Y yo no lo conocía, pero el que me envió a sumergir en agua, aquel me dijo: 'Sobre quien veas al viento/espíritu descender y permanecer sobre el — este es el que sumerge en *el* santo viento/espíritu.'
+Y yo no lo conocía, pero el que me envió a sumergir en agua, aquel me dijo: 'Sobre quien veas al {a:viento/espíritu} descender y permanecer sobre el — este es el que sumerge en *el* santo {a:viento/espíritu}.'
 
 > **📝 NOTAS**
 >
@@ -574,7 +574,7 @@ Y los dos seguidores lo oyeron hablar y siguieron a Yeshua.
 
 ### **Versículo 38**
 
-Y Yeshua, habiendose vuelto y habiendo visto que lo seguian, les dice: "¿Qué buscan?" Y ellos le dijeron: "Rabbi" — que, traducido, significa Maestro — "¿donde te hospedas?"
+Y Yeshua, habiendose vuelto y habiendo visto que lo seguian, les dice: @@"¿Qué buscan?"@@ Y ellos le dijeron: "Rabbi" — que, traducido, significa Maestro — "¿donde te hospedas?"
 
 > **📝 NOTAS**
 >
@@ -588,7 +588,7 @@ Y Yeshua, habiendose vuelto y habiendo visto que lo seguian, les dice: "¿Qué b
 
 ### **Versículo 39**
 
-Les dice: "Vengan y vean." Vinieron y vieron donde se hospedaba, y se quedaron con el ese día; *era* como la hora decima.
+Les dice: @@"Vengan y vean."@@ Vinieron y vieron donde se hospedaba, y se quedaron con el ese día; *era* como la hora decima.
 
 > **📝 NOTAS**
 >
@@ -621,7 +621,7 @@ Este encuentra primero a su propio hermano Shimon y le dice: "Hemos encontrado a
 
 ### **Versículo 42**
 
-Lo llevo a Yeshua. Habiendolo mirado, Yeshua dijo: "Tu eres Shimon, el hijo de Yochanan; seras llamado Kefa" — que se traduce "Roca."
+Lo llevo a Yeshua. Habiendolo mirado, Yeshua dijo: @@"Tu eres Shimon, el hijo de Yochanan; seras llamado Kefa"@@ — que se traduce "Roca."
 
 > **📝 NOTAS**
 >
@@ -635,7 +635,7 @@ Lo llevo a Yeshua. Habiendolo mirado, Yeshua dijo: "Tu eres Shimon, el hijo de Y
 
 ### **Versículo 43**
 
-Al día siguiente quiso salir al Galil, y encuentra a Philippos. Y Yeshua le dice: "Sigueme."
+Al día siguiente quiso salir al Galil, y encuentra a Philippos. Y Yeshua le dice: @@"Sigueme."@@
 
 > **📝 NOTAS**
 >
@@ -682,7 +682,7 @@ Y Nathanael le dijo: "¿De Natseret puede *salir* algo bueno?" Philippos le dice
 
 ### **Versículo 47**
 
-Yeshua vio a Nathanael viniendo hacia el y dice acerca de él: "Vean, verdaderamente un yisraeli en quien no hay engano."
+Yeshua vio a Nathanael viniendo hacia el y dice acerca de él: @@"Vean, verdaderamente un yisraeli en quien no hay engano."@@
 
 > **📝 NOTAS**
 >
@@ -693,7 +693,7 @@ Yeshua vio a Nathanael viniendo hacia el y dice acerca de él: "Vean, verdaderam
 
 ### **Versículo 48**
 
-Nathanael le dice: "¿De donde me conoces?" Yeshua respondió y le dijo: "Antes de que Philippos te llamara, *mientras estabas* debajo de la higuera, te vi."
+Nathanael le dice: "¿De donde me conoces?" Yeshua respondió y le dijo: @@"Antes de que Philippos te llamara, *mientras estabas* debajo de la higuera, te vi."@@
 
 > **📝 NOTAS**
 >
@@ -715,7 +715,7 @@ Nathanael le respondió: "Rabbi, tú eres el hijo de Dios; tú eres el rey de Yi
 
 ### **Versículo 50**
 
-Yeshua respondió y le dijo: "¿Porque te dije que te vi debajo de la higuera, confias? Veras cosas mayores que estas."
+Yeshua respondió y le dijo: @@"¿Porque te dije que te vi debajo de la higuera, confias? Veras cosas mayores que estas."@@
 
 > **📝 NOTAS**
 >
@@ -726,7 +726,7 @@ Yeshua respondió y le dijo: "¿Porque te dije que te vi debajo de la higuera, c
 
 ### **Versículo 51**
 
-Y le dice: "Amen, amen, les digo, veran el cielo abierto y los mensajeros de Dios ascendiendo y descendiendo sobre el hijo del hombre."
+Y le dice: @@"Amen, amen, les digo, veran el cielo abierto y los mensajeros de Dios ascendiendo y descendiendo sobre el hijo del hombre."@@
 
 > **📝 NOTAS**
 >

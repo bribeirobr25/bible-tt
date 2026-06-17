@@ -66,21 +66,21 @@
 
 ⁶Veio a existir um homem, tendo sido enviado da parte de Deus — seu nome *era* Yochanan (João). ⁷Este veio para testemunho, para que testemunhasse a respeito da luz, para que todos confiassem por meio dele. ⁸Ele não era a luz, mas *veio* para que testemunhasse a respeito da luz. ⁹A luz verdadeira, que ilumina todo ser humano, estava vindo ao mundo. ¹⁰Ele estava no mundo, e o mundo veio a existir por meio dele, e o mundo não o conheceu. ¹¹Veio para as suas próprias *coisas*, e os seus próprios *povo* não o receberam. ¹²Mas a todos quantos o receberam, a eles deu o direito de se tornarem filhos de Deus — aos que confiam no seu nome, ¹³os quais nasceram não de sangues, nem da vontade da carne, nem da vontade de um homem, mas de Deus.
 
-¹⁴E a palavra se fez carne e habitou entre nós, e vimos a sua glória — glória como de um único de junto de um pai — cheia de graça/favor e verdade. ¹⁵João testemunha a respeito dele e tem clamado, dizendo: "Este era aquele de quem eu disse: 'O que vem depois de mim veio a estar diante de mim, porque era primeiro *em relação* a mim.'" ¹⁶Pois de sua plenitude todos nós recebemos, e graça/favor sobre graça/favor. ¹⁷Pois a lei foi dada por meio de Mosheh (Moisés); a graça/favor e a verdade vieram a existir por meio de Yeshua (Jesus), *o* ungido. ¹⁸Ninguém jamais viu Deus; o Deus único-nascido, o que está no seio do Pai — aquele *o* deu a conhecer.
+¹⁴E a palavra se fez carne e habitou entre nós, e vimos a sua glória — glória como de um único de junto de um pai — cheia de {a:graça/favor} e verdade. ¹⁵João testemunha a respeito dele e tem clamado, dizendo: "Este era aquele de quem eu disse: 'O que vem depois de mim veio a estar diante de mim, porque era primeiro *em relação* a mim.'" ¹⁶Pois de sua plenitude todos nós recebemos, e {a:graça/favor} sobre {a:graça/favor}. ¹⁷Pois a lei foi dada por meio de Mosheh (Moisés); a {a:graça/favor} e a verdade vieram a existir por meio de Yeshua (Jesus), *o* ungido. ¹⁸Ninguém jamais viu Deus; o Deus único-nascido, o que está no seio do Pai — aquele *o* deu a conhecer.
 
 ¹⁹E este é o testemunho de João, quando os yehudim enviaram sacerdotes e levitas de Yerushalayim (Jerusalém) para lhe perguntar: "Quem é você?" ²⁰E ele confessou e não negou, e confessou: "Eu não sou o ungido." ²¹E lhe perguntaram: "Então quê? É você Eliyahu (Elias)?" E ele diz: "Não sou." "É você o Profeta?" E ele respondeu: "Não." ²²Então lhe disseram: "Quem é você? — para que possamos dar uma resposta aos que nos enviaram. O que você diz de si mesmo?" ²³Ele disse: "Eu *sou* uma voz que clama no deserto: 'Preparem o caminho do Senhor'" — como disse Yeshayahu (Isaías), o profeta.
 
 ²⁴E *os que* tinham sido enviados eram dos Perushim (Fariseus). ²⁵E lhe perguntaram e lhe disseram: "Por que então você imerge, se você não é o ungido, nem Elias, nem o Profeta?" ²⁶João lhes respondeu, dizendo: "Eu imerjo em água; no meio de vocês está um que vocês não conhecem — ²⁷o que vem depois de mim, de quem eu não sou digno de desatar a correia da sua sandália." ²⁸Estas coisas aconteceram em Beyt-Anyah (Betânia), além do Yarden (Jordão), onde João estava imergindo.
 
-²⁹No dia seguinte ele vê Jesus vindo em sua direção e diz: "Eis o cordeiro de Deus, o que tira o pecado do mundo. ³⁰Este é aquele a respeito de quem eu disse: 'Depois de mim vem um homem que veio a estar diante de mim, porque era primeiro *em relação* a mim.' ³¹E eu não o conhecia, mas para que ele fosse manifestado a Yisrael (Israel) — por isso vim imergindo em água." ³²E João testemunhou, dizendo: "Vi o vento/espírito descendo como uma pomba do céu, e ele permaneceu sobre ele. ³³E eu não o conhecia, mas aquele que me enviou para imergir em água, esse me disse: 'Aquele sobre quem vires o vento/espírito descendo e permanecendo sobre ele — este é o que imerge *no* santo vento/espírito.' ³⁴E eu vi, e tenho testemunhado que este é o filho de Deus."
+²⁹No dia seguinte ele vê Jesus vindo em sua direção e diz: "Eis o cordeiro de Deus, o que tira o pecado do mundo. ³⁰Este é aquele a respeito de quem eu disse: 'Depois de mim vem um homem que veio a estar diante de mim, porque era primeiro *em relação* a mim.' ³¹E eu não o conhecia, mas para que ele fosse manifestado a Yisrael (Israel) — por isso vim imergindo em água." ³²E João testemunhou, dizendo: "Vi o {a:vento/espírito} descendo como uma pomba do céu, e ele permaneceu sobre ele. ³³E eu não o conhecia, mas aquele que me enviou para imergir em água, esse me disse: 'Aquele sobre quem vires o {a:vento/espírito} descendo e permanecendo sobre ele — este é o que imerge *no* santo {a:vento/espírito}.' ³⁴E eu vi, e tenho testemunhado que este é o filho de Deus."
 
-³⁵No dia seguinte, novamente João estava de pé, e *dois* de seus seguidores, ³⁶e tendo olhado para Jesus andando, diz: "Eis o cordeiro de Deus." ³⁷E os dois seguidores o ouviram falando e seguiram Jesus. ³⁸E Jesus, tendo se virado e tendo visto que o seguiam, diz-lhes: "O que vocês buscam?" E eles lhe disseram: "Rabbi" — que, traduzido, significa Mestre — "onde você está hospedado?" ³⁹Ele lhes diz: "Venham e vejam." Foram e viram onde ele estava hospedado, e ficaram com ele naquele dia; *era* cerca da hora décima.
+³⁵No dia seguinte, novamente João estava de pé, e *dois* de seus seguidores, ³⁶e tendo olhado para Jesus andando, diz: "Eis o cordeiro de Deus." ³⁷E os dois seguidores o ouviram falando e seguiram Jesus. ³⁸E Jesus, tendo se virado e tendo visto que o seguiam, diz-lhes: @@"O que vocês buscam?"@@ E eles lhe disseram: "Rabbi" — que, traduzido, significa Mestre — "onde você está hospedado?" ³⁹Ele lhes diz: @@"Venham e vejam."@@ Foram e viram onde ele estava hospedado, e ficaram com ele naquele dia; *era* cerca da hora décima.
 
-⁴⁰Andreas (André), o irmão de Shimon (Simão) Kefa (Pedro), era um dos dois que ouviram de João e o seguiram. ⁴¹Este encontra primeiro o seu próprio irmão Simão e lhe diz: "Encontramos o Messias" — que, traduzido, *é o* ungido. ⁴²Ele o levou a Jesus. Tendo olhado para ele, Jesus disse: "Você é Simão, o filho de João; serás chamado Kefa" — que se traduz "Rocha."
+⁴⁰Andreas (André), o irmão de Shimon (Simão) Kefa (Pedro), era um dos dois que ouviram de João e o seguiram. ⁴¹Este encontra primeiro o seu próprio irmão Simão e lhe diz: "Encontramos o Messias" — que, traduzido, *é o* ungido. ⁴²Ele o levou a Jesus. Tendo olhado para ele, Jesus disse: @@"Você é Simão, o filho de João; serás chamado Kefa"@@ — que se traduz "Rocha."
 
-⁴³No dia seguinte ele quis sair para a Galil (Galileia), e encontra Philippos (Filipe). E Jesus lhe diz: "Segue-me." ⁴⁴E Filipe era de Beyt-Tsaidah (Betsaida), da cidade de André e Pedro. ⁴⁵Filipe encontra Nathanael (Natanael) e lhe diz: "Aquele de quem Moisés escreveu na lei, e os profetas — *o* encontramos: Jesus, filho de Yosef, de Natseret (Nazaré)." ⁴⁶E Natanael lhe disse: "De Nazaré pode sair algo bom?" Filipe lhe diz: "Venha e veja."
+⁴³No dia seguinte ele quis sair para a Galil (Galileia), e encontra Philippos (Filipe). E Jesus lhe diz: @@"Segue-me."@@ ⁴⁴E Filipe era de Beyt-Tsaidah (Betsaida), da cidade de André e Pedro. ⁴⁵Filipe encontra Nathanael (Natanael) e lhe diz: "Aquele de quem Moisés escreveu na lei, e os profetas — *o* encontramos: Jesus, filho de Yosef, de Natseret (Nazaré)." ⁴⁶E Natanael lhe disse: "De Nazaré pode sair algo bom?" Filipe lhe diz: "Venha e veja."
 
-⁴⁷Jesus viu Natanael vindo em sua direção e diz a respeito dele: "Eis, verdadeiramente um yisraeli em quem não há engano." ⁴⁸Natanael lhe diz: "De onde me conheces?" Jesus respondeu e lhe disse: "Antes que Filipe te chamasse, *quando estavas* debaixo da figueira, eu te vi." ⁴⁹Natanael lhe respondeu: "Rabbi, você é o filho de Deus; você é o rei de Israel." ⁵⁰Jesus respondeu e lhe disse: "Porque lhe disse que te vi debaixo da figueira, você confia? Você verá *coisas* maiores do que estas." ⁵¹E lhe diz: "Amém, amém, eu lhes digo, vocês verão o céu aberto e os mensageiros de Deus subindo e descendo sobre o filho do homem."
+⁴⁷Jesus viu Natanael vindo em sua direção e diz a respeito dele: @@"Eis, verdadeiramente um yisraeli em quem não há engano."@@ ⁴⁸Natanael lhe diz: "De onde me conheces?" Jesus respondeu e lhe disse: @@"Antes que Filipe te chamasse, *quando estavas* debaixo da figueira, eu te vi."@@ ⁴⁹Natanael lhe respondeu: "Rabbi, você é o filho de Deus; você é o rei de Israel." ⁵⁰Jesus respondeu e lhe disse: @@"Porque lhe disse que te vi debaixo da figueira, você confia? Você verá *coisas* maiores do que estas."@@ ⁵¹E lhe diz: @@"Amém, amém, eu lhes digo, vocês verão o céu aberto e os mensageiros de Deus subindo e descendo sobre o filho do homem."@@
 
 ---
 
@@ -270,7 +270,7 @@ os quais nasceram não de sangues, nem da vontade da carne, nem da vontade de um
 
 ### **Versículo 14**
 
-E a palavra se fez carne e habitou entre nós, e vimos a sua glória — glória como de um único de junto de um pai — cheia de graça/favor e verdade.
+E a palavra se fez carne e habitou entre nós, e vimos a sua glória — glória como de um único de junto de um pai — cheia de {a:graça/favor} e verdade.
 
 > **📝 NOTAS**
 >
@@ -304,7 +304,7 @@ Yochanan (João) testemunha a respeito dele e tem clamado, dizendo: "Este era aq
 
 ### **Versículo 16**
 
-Pois de sua plenitude todos nós recebemos, e graça/favor sobre graça/favor.
+Pois de sua plenitude todos nós recebemos, e {a:graça/favor} sobre {a:graça/favor}.
 
 > **📝 NOTAS**
 >
@@ -315,7 +315,7 @@ Pois de sua plenitude todos nós recebemos, e graça/favor sobre graça/favor.
 
 ### **Versículo 17**
 
-Pois a lei foi dada por meio de Mosheh (Moisés); a graça/favor e a verdade vieram a existir por meio de Yeshua (Jesus), *o* ungido.
+Pois a lei foi dada por meio de Mosheh (Moisés); a {a:graça/favor} e a verdade vieram a existir por meio de Yeshua (Jesus), *o* ungido.
 
 > **📝 NOTAS**
 >
@@ -507,7 +507,7 @@ E eu não o conhecia, mas para que ele fosse manifestado a Yisrael (Israel) — 
 
 ### **Versículo 32**
 
-Yochanan (João) testemunhou, dizendo: "Vi o vento/espírito descendo como uma pomba do céu, e ele permaneceu sobre ele.
+Yochanan (João) testemunhou, dizendo: "Vi o {a:vento/espírito} descendo como uma pomba do céu, e ele permaneceu sobre ele.
 
 > **📝 NOTAS**
 >
@@ -524,7 +524,7 @@ Yochanan (João) testemunhou, dizendo: "Vi o vento/espírito descendo como uma p
 
 ### **Versículo 33**
 
-E eu não o conhecia, mas aquele que me enviou para imergir em água, esse me disse: 'Aquele sobre quem vires o vento/espírito descendo e permanecendo sobre ele — este é o que imerge *no* santo vento/espírito.'
+E eu não o conhecia, mas aquele que me enviou para imergir em água, esse me disse: 'Aquele sobre quem vires o {a:vento/espírito} descendo e permanecendo sobre ele — este é o que imerge *no* santo {a:vento/espírito}.'
 
 > **📝 NOTAS**
 >
@@ -574,7 +574,7 @@ E os dois seguidores o ouviram falando e seguiram Jesus.
 
 ### **Versículo 38**
 
-E Yeshua (Jesus), tendo se virado e tendo visto que o seguiam, diz-lhes: "O que vocês buscam?" E eles lhe disseram: "Rabbi" — que, traduzido, significa Mestre — "onde você está hospedado?"
+E Yeshua (Jesus), tendo se virado e tendo visto que o seguiam, diz-lhes: @@"O que vocês buscam?"@@ E eles lhe disseram: "Rabbi" — que, traduzido, significa Mestre — "onde você está hospedado?"
 
 > **📝 NOTAS**
 >
@@ -588,7 +588,7 @@ E Yeshua (Jesus), tendo se virado e tendo visto que o seguiam, diz-lhes: "O que 
 
 ### **Versículo 39**
 
-Ele lhes diz: "Venham e vejam." Foram e viram onde ele estava hospedado, e ficaram com ele naquele dia; *era* cerca da hora décima.
+Ele lhes diz: @@"Venham e vejam."@@ Foram e viram onde ele estava hospedado, e ficaram com ele naquele dia; *era* cerca da hora décima.
 
 > **📝 NOTAS**
 >
@@ -621,7 +621,7 @@ Este encontra primeiro o seu próprio irmão Shimon (Simão) e lhe diz: "Encontr
 
 ### **Versículo 42**
 
-Ele o levou a Yeshua (Jesus). Tendo olhado para ele, Jesus disse: "Você é Shimon (Simão), o filho de João; serás chamado Kefa (Pedro)" — que se traduz "Rocha."
+Ele o levou a Yeshua (Jesus). Tendo olhado para ele, Jesus disse: @@"Você é Shimon (Simão), o filho de João; serás chamado Kefa (Pedro)"@@ — que se traduz "Rocha."
 
 > **📝 NOTAS**
 >
@@ -635,7 +635,7 @@ Ele o levou a Yeshua (Jesus). Tendo olhado para ele, Jesus disse: "Você é Shim
 
 ### **Versículo 43**
 
-No dia seguinte ele quis sair para a Galil (Galileia), e encontra Philippos (Filipe). E Yeshua (Jesus) lhe diz: "Segue-me."
+No dia seguinte ele quis sair para a Galil (Galileia), e encontra Philippos (Filipe). E Yeshua (Jesus) lhe diz: @@"Segue-me."@@
 
 > **📝 NOTAS**
 >
@@ -682,7 +682,7 @@ E Nathanael (Natanael) lhe disse: "De Natseret (Nazaré) pode sair algo bom?" Ph
 
 ### **Versículo 47**
 
-Yeshua (Jesus) viu Nathanael (Natanael) vindo em sua direção e diz a respeito dele: "Eis, verdadeiramente um yisraeli em quem não há engano."
+Yeshua (Jesus) viu Nathanael (Natanael) vindo em sua direção e diz a respeito dele: @@"Eis, verdadeiramente um yisraeli em quem não há engano."@@
 
 > **📝 NOTAS**
 >
@@ -693,7 +693,7 @@ Yeshua (Jesus) viu Nathanael (Natanael) vindo em sua direção e diz a respeito 
 
 ### **Versículo 48**
 
-Nathanael (Natanael) lhe diz: "De onde me conheces?" Yeshua (Jesus) respondeu e lhe disse: "Antes que Philippos (Filipe) te chamasse, *quando estavas* debaixo da figueira, eu te vi."
+Nathanael (Natanael) lhe diz: "De onde me conheces?" Yeshua (Jesus) respondeu e lhe disse: @@"Antes que Philippos (Filipe) te chamasse, *quando estavas* debaixo da figueira, eu te vi."@@
 
 > **📝 NOTAS**
 >
@@ -715,7 +715,7 @@ Nathanael (Natanael) lhe respondeu: "Rabbi, você é o filho de Deus; você é o
 
 ### **Versículo 50**
 
-Yeshua (Jesus) respondeu e lhe disse: "Porque lhe disse que te vi debaixo da figueira, você confia? Você verá *coisas* maiores do que estas."
+Yeshua (Jesus) respondeu e lhe disse: @@"Porque lhe disse que te vi debaixo da figueira, você confia? Você verá *coisas* maiores do que estas."@@
 
 > **📝 NOTAS**
 >
@@ -726,7 +726,7 @@ Yeshua (Jesus) respondeu e lhe disse: "Porque lhe disse que te vi debaixo da fig
 
 ### **Versículo 51**
 
-E lhe diz: "Amém, amém, eu lhes digo, vocês verão o céu aberto e os mensageiros de Deus subindo e descendo sobre o filho do homem."
+E lhe diz: @@"Amém, amém, eu lhes digo, vocês verão o céu aberto e os mensageiros de Deus subindo e descendo sobre o filho do homem."@@
 
 > **📝 NOTAS**
 >

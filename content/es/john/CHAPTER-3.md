@@ -62,17 +62,17 @@
 
 ---
 
-¹Y había un hombre de los perushim — Nikodemos *era* su nombre — un dirigente de los yehudim. ²Este vino a el de noche y le dijo: "Rabbi, sabemos que has venido de Dios *como* maestro, pues nadie puede hacer estas señales que tu haces a menos que Dios este con el." ³Yeshua respondió y le dijo: "Amen, amen, te digo, a menos que alguien nazca de arriba/de nuevo, no puede ver el reino de Dios." ⁴Nikodemos le dice: "¿Cómo puede un hombre nacer siendo viejo? ¿Acaso puede entrar por segunda vez en el vientre de su madre y nacer?" ⁵Yeshua respondió: "Amen, amen, te digo, a menos que alguien nazca de agua y viento/espíritu, no puede entrar en el reino de Dios. ⁶Lo que ha nacido de la carne es carne, y lo que ha nacido del viento/espíritu es viento/espíritu. ⁷No te maravilles de que te dije: 'Ustedes deben nacer de arriba/de nuevo.' ⁸El viento/espíritu sopla donde quiere, y oyes su sonido, pero no sabes de donde viene ni adonde va; así es todo el que ha nacido del viento/espíritu."
+¹Y había un hombre de los perushim — Nikodemos *era* su nombre — un dirigente de los yehudim. ²Este vino a el de noche y le dijo: "Rabbi, sabemos que has venido de Dios *como* maestro, pues nadie puede hacer estas señales que tu haces a menos que Dios este con el." ³Yeshua respondió y le dijo: @@"Amen, amen, te digo, a menos que alguien nazca {a:de arriba/de nuevo}, no puede ver el reino de Dios."@@ ⁴Nikodemos le dice: "¿Cómo puede un hombre nacer siendo viejo? ¿Acaso puede entrar por segunda vez en el vientre de su madre y nacer?" ⁵Yeshua respondió: @@"Amen, amen, te digo, a menos que alguien nazca de agua y {a:viento/espíritu}, no puede entrar en el reino de Dios. ⁶Lo que ha nacido de la carne es carne, y lo que ha nacido del {a:viento/espíritu} es {a:viento/espíritu}. ⁷No te maravilles de que te dije: 'Ustedes deben nacer {a:de arriba/de nuevo}.' ⁸El {a:viento/espíritu} sopla donde quiere, y oyes su sonido, pero no sabes de donde viene ni adonde va; así es todo el que ha nacido del {a:viento/espíritu}."@@
 
-⁹Nikodemos respondió y le dijo: "¿Cómo pueden ser estas cosas?" ¹⁰Yeshua respondió y le dijo: "¿Tu eres el maestro de Yisrael y no sabes estas cosas? ¹¹Amen, amen, te digo, hablamos lo que sabemos y testificamos *de* lo que hemos visto, y ustedes no reciben nuestro testimonio. ¹²Si les dije cosas terrenales y no confían, ¿como confiaran si les digo cosas celestiales? ¹³Y nadie ha subido al cielo excepto el que bajo del cielo — el hijo del hombre. ¹⁴Y así como Mosheh levanto la serpiente en el desierto, así debe ser levantado el hijo del hombre, ¹⁵para que todo el que confie en el tenga vida de la era."
+⁹Nikodemos respondió y le dijo: "¿Cómo pueden ser estas cosas?" ¹⁰Yeshua respondió y le dijo: @@"¿Tu eres el maestro de Yisrael y no sabes estas cosas? ¹¹Amen, amen, te digo, hablamos lo que sabemos y testificamos *de* lo que hemos visto, y ustedes no reciben nuestro testimonio. ¹²Si les dije cosas terrenales y no confían, ¿como confiaran si les digo cosas celestiales? ¹³Y nadie ha subido al cielo excepto el que bajo del cielo — el hijo del hombre. ¹⁴Y así como Mosheh levanto la serpiente en el desierto, así debe ser levantado el hijo del hombre, ¹⁵para que todo el que confie en el tenga vida de la era."@@
 
-¹⁶"Porque de tal manera amo Dios al mundo que dio al hijo único-nacido, para que todo el que confie en el no perezca sino que tenga vida de la era. ¹⁷Porque Dios no envió al hijo al mundo para que juzgara al mundo, sino para que el mundo fuera salvado por medio de él. ¹⁸El que confia en el no es juzgado; el que no confia ya ha sido juzgado, porque no ha confiado en el nombre del hijo único-nacido de Dios. ¹⁹Y este es el juicio: que la luz ha venido al mundo, y los humanos amaron la oscuridad mas que la luz, porque sus obras eran malas. ²⁰Pues todo el que práctica *cosas* viles odia la luz y no viene a la luz, para que sus obras no sean expuestas. ²¹Pero el que hace la verdad viene a la luz, para que sus obras sean manifestadas — que han sido obradas en Dios."
+¹⁶@@"Porque de tal manera amo Dios al mundo que dio al hijo único-nacido, para que todo el que confie en el no perezca sino que tenga vida de la era. ¹⁷Porque Dios no envió al hijo al mundo para que juzgara al mundo, sino para que el mundo fuera salvado por medio de él. ¹⁸El que confia en el no es juzgado; el que no confia ya ha sido juzgado, porque no ha confiado en el nombre del hijo único-nacido de Dios. ¹⁹Y este es el juicio: que la luz ha venido al mundo, y los humanos amaron la oscuridad mas que la luz, porque sus obras eran malas. ²⁰Pues todo el que práctica *cosas* viles odia la luz y no viene a la luz, para que sus obras no sean expuestas. ²¹Pero el que hace la verdad viene a la luz, para que sus obras sean manifestadas — que han sido obradas en Dios."@@
 
 ²²Después de estas cosas Yeshua y sus seguidores vinieron a la tierra de Yehudah, y allí el pasaba tiempo con ellos y sumergia. ²³Y Yochanan también estaba sumergiendo en Ainon cerca de Shalim, porque había mucha agua allí, y *la gente* venía y era sumergida — ²⁴pues Yochanan aún no había sido echado en prision.
 
 ²⁵Entonces surgio una disputa de parte de los seguidores de Yochanan con un yehudi acerca de la purificación. ²⁶Y vinieron a Yochanan y le dijeron: "Rabbi, el que estaba contigo al otro lado del Yarden, de quien tu has testificado — mira, este sumerge, y todos van a el." ²⁷Yochanan respondió y dijo: "Un hombre no puede recibir nada a menos que le haya sido dado del cielo. ²⁸Ustedes mismos testifican a mí favor que yo dije: 'Yo no soy el ungido,' sino: 'He sido enviado delante de aquel.' ²⁹El que tiene la novia es el novio; pero el amigo del novio, que esta de pie y lo oye, se alegra grandemente por la voz del novio. Este gozo mio, pues, ha sido cumplido. ³⁰Aquel debe crecer, pero yo debo menguar."
 
-³¹"El que viene de arriba esta sobre todos. El que es de la tierra es de la tierra y habla de la tierra. El que viene del cielo esta sobre todos. ³²Lo que el ha visto y oido — esto testifica, y nadie recibe su testimonio. ³³El que recibió su testimonio ha puesto su sello de que Dios es verdadero. ³⁴Porque el que Dios envió habla las palabras de Dios, pues no da el viento/espíritu por medida. ³⁵El Padre ama al Hijo y ha dado todas las cosas en su mano. ³⁶El que confia en el hijo tiene vida de la era; pero el que desobedece al Hijo no vera vida, sino que la ira de Dios permanece sobre el."
+³¹"El que viene de arriba esta sobre todos. El que es de la tierra es de la tierra y habla de la tierra. El que viene del cielo esta sobre todos. ³²Lo que el ha visto y oido — esto testifica, y nadie recibe su testimonio. ³³El que recibió su testimonio ha puesto su sello de que Dios es verdadero. ³⁴Porque el que Dios envió habla las palabras de Dios, pues no da el {a:viento/espíritu} por medida. ³⁵El Padre ama al Hijo y ha dado todas las cosas en su mano. ³⁶El que confia en el hijo tiene vida de la era; pero el que desobedece al Hijo no vera vida, sino que la ira de Dios permanece sobre el."
 
 ---
 
@@ -108,7 +108,7 @@ Este vino a el de noche y le dijo: "Rabbi, sabemos que has venido de Dios *como*
 
 ### **Versículo 3**
 
-Yeshua respondió y le dijo: "Amen, amen, te digo, a menos que alguien nazca de arriba/de nuevo, no puede ver el reino de Dios."
+Yeshua respondió y le dijo: @@"Amen, amen, te digo, a menos que alguien nazca {a:de arriba/de nuevo}, no puede ver el reino de Dios."@@
 
 > **📝 NOTAS**
 >
@@ -139,7 +139,7 @@ Nikodemos le dice: "¿Cómo puede un hombre nacer siendo viejo? ¿Acaso puede en
 
 ### **Versículo 5**
 
-Yeshua respondió: "Amen, amen, te digo, a menos que alguien nazca de agua y viento/espíritu, no puede entrar en el reino de Dios."
+Yeshua respondió: @@"Amen, amen, te digo, a menos que alguien nazca de agua y {a:viento/espíritu}, no puede entrar en el reino de Dios."@@
 
 > **📝 NOTAS**
 >
@@ -158,7 +158,7 @@ Yeshua respondió: "Amen, amen, te digo, a menos que alguien nazca de agua y vie
 
 ### **Versículo 6**
 
-Lo que ha nacido de la carne es carne, y lo que ha nacido del viento/espíritu es viento/espíritu.
+@@Lo que ha nacido de la carne es carne, y lo que ha nacido del {a:viento/espíritu} es {a:viento/espíritu}.@@
 
 > **📝 NOTAS**
 >
@@ -172,7 +172,7 @@ Lo que ha nacido de la carne es carne, y lo que ha nacido del viento/espíritu e
 
 ### **Versículo 7**
 
-No te maravilles de que te dije: "Ustedes deben nacer de arriba/de nuevo."
+@@No te maravilles de que te dije: "Ustedes deben nacer {a:de arriba/de nuevo}."@@
 
 > **📝 NOTAS**
 >
@@ -186,7 +186,7 @@ No te maravilles de que te dije: "Ustedes deben nacer de arriba/de nuevo."
 
 ### **Versículo 8**
 
-El viento/espíritu sopla donde quiere, y oyes su sonido, pero no sabes de donde viene ni adonde va; así es todo el que ha nacido del viento/espíritu.
+@@El {a:viento/espíritu} sopla donde quiere, y oyes su sonido, pero no sabes de donde viene ni adonde va; así es todo el que ha nacido del {a:viento/espíritu}.@@
 
 > **📝 NOTAS**
 >
@@ -214,7 +214,7 @@ Nikodemos respondió y le dijo: "¿Cómo pueden ser estas cosas?"
 
 ### **Versículo 10**
 
-Yeshua respondió y le dijo: "¿Tu eres el maestro de Yisrael y no sabes estas cosas?"
+Yeshua respondió y le dijo: @@"¿Tu eres el maestro de Yisrael y no sabes estas cosas?"@@
 
 > **📝 NOTAS**
 >
@@ -225,7 +225,7 @@ Yeshua respondió y le dijo: "¿Tu eres el maestro de Yisrael y no sabes estas c
 
 ### **Versículo 11**
 
-Amen, amen, te digo, hablamos lo que sabemos y testificamos *de* lo que hemos visto, y ustedes no reciben nuestro testimonio.
+@@Amen, amen, te digo, hablamos lo que sabemos y testificamos *de* lo que hemos visto, y ustedes no reciben nuestro testimonio.@@
 
 > **📝 NOTAS**
 >
@@ -239,7 +239,7 @@ Amen, amen, te digo, hablamos lo que sabemos y testificamos *de* lo que hemos vi
 
 ### **Versículo 12**
 
-Si les dije cosas terrenales y no confían, ¿como confiaran si les digo cosas celestiales?
+@@Si les dije cosas terrenales y no confían, ¿como confiaran si les digo cosas celestiales?@@
 
 > **📝 NOTAS**
 >
@@ -250,7 +250,7 @@ Si les dije cosas terrenales y no confían, ¿como confiaran si les digo cosas c
 
 ### **Versículo 13**
 
-Y nadie ha subido al cielo excepto el que bajo del cielo — el hijo del hombre.
+@@Y nadie ha subido al cielo excepto el que bajo del cielo — el hijo del hombre.@@
 
 > **📝 NOTAS**
 >
@@ -264,7 +264,7 @@ Y nadie ha subido al cielo excepto el que bajo del cielo — el hijo del hombre.
 
 ### **Versículo 14**
 
-Y así como Mosheh levanto la serpiente en el desierto, así debe ser levantado el hijo del hombre,
+@@Y así como Mosheh levanto la serpiente en el desierto, así debe ser levantado el hijo del hombre,@@
 
 > **📝 NOTAS**
 >
@@ -278,7 +278,7 @@ Y así como Mosheh levanto la serpiente en el desierto, así debe ser levantado 
 
 ### **Versículo 15**
 
-para que todo el que confie en el tenga vida de la era.
+@@para que todo el que confie en el tenga vida de la era.@@
 
 > **📝 NOTAS**
 >
@@ -292,7 +292,7 @@ para que todo el que confie en el tenga vida de la era.
 
 ### **Versículo 16**
 
-"Porque de tal manera amo Dios al mundo que dio al hijo único-nacido, para que todo el que confie en el no perezca sino que tenga vida de la era."
+@@"Porque de tal manera amo Dios al mundo que dio al hijo único-nacido, para que todo el que confie en el no perezca sino que tenga vida de la era."@@
 
 > **📝 NOTAS**
 >
@@ -312,7 +312,7 @@ para que todo el que confie en el tenga vida de la era.
 
 ### **Versículo 17**
 
-Porque Dios no envió al hijo al mundo para que juzgara al mundo, sino para que el mundo fuera salvado por medio de él.
+@@Porque Dios no envió al hijo al mundo para que juzgara al mundo, sino para que el mundo fuera salvado por medio de él.@@
 
 > **📝 NOTAS**
 >
@@ -326,7 +326,7 @@ Porque Dios no envió al hijo al mundo para que juzgara al mundo, sino para que 
 
 ### **Versículo 18**
 
-El que confia en el no es juzgado; el que no confia ya ha sido juzgado, porque no ha confiado en el nombre del hijo único-nacido de Dios.
+@@El que confia en el no es juzgado; el que no confia ya ha sido juzgado, porque no ha confiado en el nombre del hijo único-nacido de Dios.@@
 
 > **📝 NOTAS**
 >
@@ -340,7 +340,7 @@ El que confia en el no es juzgado; el que no confia ya ha sido juzgado, porque n
 
 ### **Versículo 19**
 
-Y este es el juicio: que la luz ha venido al mundo, y los humanos amaron la oscuridad mas que la luz, porque sus obras eran malas.
+@@Y este es el juicio: que la luz ha venido al mundo, y los humanos amaron la oscuridad mas que la luz, porque sus obras eran malas.@@
 
 > **📝 NOTAS**
 >
@@ -354,7 +354,7 @@ Y este es el juicio: que la luz ha venido al mundo, y los humanos amaron la oscu
 
 ### **Versículo 20**
 
-Pues todo el que práctica *cosas* viles odia la luz y no viene a la luz, para que sus obras no sean expuestas.
+@@Pues todo el que práctica *cosas* viles odia la luz y no viene a la luz, para que sus obras no sean expuestas.@@
 
 > **📝 NOTAS**
 >
@@ -368,7 +368,7 @@ Pues todo el que práctica *cosas* viles odia la luz y no viene a la luz, para q
 
 ### **Versículo 21**
 
-Pero el que hace la verdad viene a la luz, para que sus obras sean manifestadas — que han sido obradas en Dios.
+@@Pero el que hace la verdad viene a la luz, para que sus obras sean manifestadas — que han sido obradas en Dios.@@
 
 > **📝 NOTAS**
 >
@@ -529,7 +529,7 @@ El que recibió su testimonio ha puesto su sello de que Dios es verdadero.
 
 ### **Versículo 34**
 
-Porque el que Dios envió habla las palabras de Dios, pues no da el viento/espíritu por medida.
+Porque el que Dios envió habla las palabras de Dios, pues no da el {a:viento/espíritu} por medida.
 
 > **📝 NOTAS**
 >

@@ -71,9 +71,9 @@ And David fathered Shelomoh (Solomon) from the *wife* of Uriyah, ⁷and Solomon 
 
 ¹⁷So all the generations from Abraham to David *are* fourteen generations, and from David to the exile to Bavel *are* fourteen generations, and from the exile to Bavel to the anointed one *are* fourteen generations.
 
-¹⁸Now the genesis of Jesus the anointed one was thus: his mother Mary, having been betrothed to Joseph, before they came together, was found *to be* having *a child* in *the* womb from *the* holy wind/spirit. ¹⁹And Joseph her husband, being righteous and not wanting to make a public example of her, planned to release her secretly. ²⁰But *while* he was considering these things, see, a messenger of the Lord appeared to him in a dream, saying, "Joseph, son of David, do not be afraid to take Mary *as* your wife, for the *child* conceived in her is from *the* holy wind/spirit. ²¹And she will bear a son, and you will call his name Jesus, for he will save his people from their sins."
+¹⁸Now the genesis of Jesus the anointed one was thus: his mother Mary, having been betrothed to Joseph, before they came together, was found *to be* having *a child* in *the* womb from *the* holy {a:wind/spirit}. ¹⁹And Joseph her husband, being righteous and not wanting to make a public example of her, planned to release her secretly. ²⁰But *while* he was considering these things, see, a messenger of the Lord appeared to him in a dream, saying, "Joseph, son of David, do not be afraid to take Mary *as* your wife, for the *child* conceived in her is from *the* holy {a:wind/spirit}. ²¹And she will bear a son, and you will call his name Jesus, for he will save his people from their sins."
 
-²²And all this happened so that what was spoken by the Lord through the prophet might be fulfilled, saying: ²³"See, the virgin/young woman will conceive and will bear a son, and they will call his name Immanu'el" — which is, being translated, "God with us."
+²²And all this happened so that what was spoken by the Lord through the prophet might be fulfilled, saying: ²³"See, the {a:virgin/young woman} will conceive and will bear a son, and they will call his name Immanu'el" — which is, being translated, "God with us."
 
 ²⁴And Joseph, having been raised from sleep, did as the messenger of the Lord commanded him, and he took his wife, ²⁵and he did not know her until she bore a son; and he called his name Jesus.
 
@@ -318,7 +318,7 @@ So all the generations from Avraham (Abraham) to David *are* fourteen generation
 
 ### **Verse 18**
 
-Now the genesis of Yeshua (Jesus) the anointed one was thus: his mother Miryam (Mary), having been betrothed to Yosef (Joseph), before they came together, was found *to be* having *a child* in *the* womb from *the* holy wind/spirit.
+Now the genesis of Yeshua (Jesus) the anointed one was thus: his mother Miryam (Mary), having been betrothed to Yosef (Joseph), before they came together, was found *to be* having *a child* in *the* womb from *the* holy {a:wind/spirit}.
 
 > **Notes**
 >
@@ -351,7 +351,7 @@ And Yosef (Joseph) her husband, being righteous and not wanting to make a public
 
 ### **Verse 20**
 
-But *while* he was considering these things, see, a messenger of the Lord appeared to him in a dream, saying, "Yosef (Joseph), son of David, do not be afraid to take Miryam (Mary) *as* your wife, for the *child* conceived in her is from *the* holy wind/spirit.
+But *while* he was considering these things, see, a messenger of the Lord appeared to him in a dream, saying, "Yosef (Joseph), son of David, do not be afraid to take Miryam (Mary) *as* your wife, for the *child* conceived in her is from *the* holy {a:wind/spirit}.
 
 > **Notes**
 >
@@ -397,7 +397,7 @@ And all this happened so that what was spoken by the Lord through the prophet mi
 
 ### **Verse 23**
 
-"See, the virgin/young woman will conceive and will bear a son, and they will call his name Immanu'el" — which is, being translated, "God with us."
+"See, the {a:virgin/young woman} will conceive and will bear a son, and they will call his name Immanu'el" — which is, being translated, "God with us."
 
 > **Notes**
 >

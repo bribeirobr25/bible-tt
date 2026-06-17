@@ -61,15 +61,15 @@
 
 ---
 
-¹Und am dritten Tag fand eine Hochzeit statt in Qanah in Galiläa, und die Mutter Jesu war dort. ²Und auch Yeshua (Jesus) war eingeladen, und seine Nachfolger, zur Hochzeit. ³Und *als* der Wein ausging, sagt die Mutter Jesu zu ihm: „Sie haben keinen Wein." ⁴Und Jesus sagt zu ihr: „Was mir und dir, Frau? Meine Stunde ist noch nicht gekommen." ⁵Seine Mutter sagt zu den Dienern: „Was immer er euch sagt, tut *es*."
+¹Und am dritten Tag fand eine Hochzeit statt in Qanah in Galiläa, und die Mutter Jesu war dort. ²Und auch Yeshua (Jesus) war eingeladen, und seine Nachfolger, zur Hochzeit. ³Und *als* der Wein ausging, sagt die Mutter Jesu zu ihm: „Sie haben keinen Wein." ⁴Und Jesus sagt zu ihr: @@„Was mir und dir, Frau? Meine Stunde ist noch nicht gekommen."@@ ⁵Seine Mutter sagt zu den Dienern: „Was immer er euch sagt, tut *es*."
 
-⁶Es standen dort aber sechs steinerne Wasserkrüge, gemäß der Reinigung *der* Jehudim, *die* je zwei oder drei Maß fassten. ⁷Jesus sagt zu ihnen: „Füllt die Krüge mit Wasser." Und sie füllten sie bis oben. ⁸Und er sagt zu ihnen: „Schöpft nun und bringt *es* dem Speisemeister." Und sie brachten *es*. ⁹Und als der Speisemeister das Wasser kostete, *das* Wein geworden war — und nicht wusste, woher es war, aber die Diener, die das Wasser geschöpft hatten, wussten *es* — ruft der Speisemeister den Bräutigam ¹⁰und sagt zu ihm: „Jeder Mensch setzt den guten Wein zuerst vor, und wenn *sie* betrunken geworden sind, den geringeren. Du hast den guten Wein bis jetzt aufbewahrt."
+⁶Es standen dort aber sechs steinerne Wasserkrüge, gemäß der Reinigung *der* Jehudim, *die* je zwei oder drei Maß fassten. ⁷Jesus sagt zu ihnen: @@„Füllt die Krüge mit Wasser."@@ Und sie füllten sie bis oben. ⁸Und er sagt zu ihnen: @@„Schöpft nun und bringt *es* dem Speisemeister."@@ Und sie brachten *es*. ⁹Und als der Speisemeister das Wasser kostete, *das* Wein geworden war — und nicht wusste, woher es war, aber die Diener, die das Wasser geschöpft hatten, wussten *es* — ruft der Speisemeister den Bräutigam ¹⁰und sagt zu ihm: „Jeder Mensch setzt den guten Wein zuerst vor, und wenn *sie* betrunken geworden sind, den geringeren. Du hast den guten Wein bis jetzt aufbewahrt."
 
 ¹¹Diesen Anfang der Zeichen tat Jesus in Qanah in Galiläa und offenbarte seine Herrlichkeit, und seine Nachfolger vertrauten auf ihn. ¹²Danach ging er hinab nach Kfar Nachum (Kapernaum) — er und seine Mutter und seine Brüder und seine Nachfolger — und sie blieben dort nicht viele Tage.
 
-¹³Und das Pessach der Jehudim war nahe, und Jesus ging hinauf nach Yerushalayim (Jerusalem). ¹⁴Und er fand im *Tempelkomplex* jene, die Rinder und Schafe und Tauben verkauften, und die Geldwechsler sitzend. ¹⁵Und *nachdem er* eine Peitsche aus Stricken gemacht hatte, trieb er sie alle aus dem *Tempelkomplex* hinaus, sowohl die Schafe als auch die Rinder, und er schüttete die Münzen der Geldwechsler aus und stieß die Tische um. ¹⁶Und zu den Taubenverkäufern sagte er: „Nehmt diese *Dinge* von hier weg; macht das Haus meines Vaters nicht zu einem Haus des Handels." ¹⁷Seine Nachfolger erinnerten sich, dass geschrieben steht: „Der Eifer um dein Haus wird mich verzehren."
+¹³Und das Pessach der Jehudim war nahe, und Jesus ging hinauf nach Yerushalayim (Jerusalem). ¹⁴Und er fand im *Tempelkomplex* jene, die Rinder und Schafe und Tauben verkauften, und die Geldwechsler sitzend. ¹⁵Und *nachdem er* eine Peitsche aus Stricken gemacht hatte, trieb er sie alle aus dem *Tempelkomplex* hinaus, sowohl die Schafe als auch die Rinder, und er schüttete die Münzen der Geldwechsler aus und stieß die Tische um. ¹⁶Und zu den Taubenverkäufern sagte er: @@„Nehmt diese *Dinge* von hier weg; macht das Haus meines Vaters nicht zu einem Haus des Handels."@@ ¹⁷Seine Nachfolger erinnerten sich, dass geschrieben steht: „Der Eifer um dein Haus wird mich verzehren."
 
-¹⁸Da antworteten die Jehudim und sagten zu ihm: „Was für ein Zeichen zeigst du uns, *angesichts dessen*, dass du diese Dinge tust?" ¹⁹Jesus antwortete und sagte zu ihnen: „Reißt dieses Heiligtum nieder, und in drei Tagen werde ich es aufrichten." ²⁰Da sagten die Jehudim: „Dieses Heiligtum wurde *in* sechsundvierzig Jahren erbaut, und du wirst es in drei Tagen aufrichten?" ²¹Er aber sprach vom Heiligtum seines Leibes. ²²Als er nun von *den* Toten auferweckt wurde, erinnerten sich seine Nachfolger, dass er dies gesagt hatte, und sie vertrauten der Schrift und dem Wort, das Jesus gesprochen hatte.
+¹⁸Da antworteten die Jehudim und sagten zu ihm: „Was für ein Zeichen zeigst du uns, *angesichts dessen*, dass du diese Dinge tust?" ¹⁹Jesus antwortete und sagte zu ihnen: @@„Reißt dieses Heiligtum nieder, und in drei Tagen werde ich es aufrichten."@@ ²⁰Da sagten die Jehudim: „Dieses Heiligtum wurde *in* sechsundvierzig Jahren erbaut, und du wirst es in drei Tagen aufrichten?" ²¹Er aber sprach vom Heiligtum seines Leibes. ²²Als er nun von *den* Toten auferweckt wurde, erinnerten sich seine Nachfolger, dass er dies gesagt hatte, und sie vertrauten der Schrift und dem Wort, das Jesus gesprochen hatte.
 
 ²³Und als er in Jerusalem war, am Pessach, beim Fest, vertrauten viele auf seinen Namen, da sie die Zeichen sahen, die er tat. ²⁴Jesus selbst aber vertraute sich ihnen nicht an, weil er alle *Menschen* kannte, ²⁵und weil er nicht nötig hatte, dass jemand Zeugnis über den Menschen ablege — denn er selbst wusste, was im Menschen war.
 
@@ -121,7 +121,7 @@ Und *als* der Wein ausging, sagt die Mutter Jesu zu ihm: „Sie haben keinen Wei
 
 ### **Vers 4**
 
-Und Jesus sagt zu ihr: „Was mir und dir, Frau? Meine Stunde ist noch nicht gekommen."
+Und Jesus sagt zu ihr: @@„Was mir und dir, Frau? Meine Stunde ist noch nicht gekommen."@@
 
 > **📝 NOTIZEN**
 >
@@ -169,7 +169,7 @@ Es standen dort aber sechs steinerne Wasserkrüge, gemäß der Reinigung *der* J
 
 ### **Vers 7**
 
-Jesus sagt zu ihnen: „Füllt die Krüge mit Wasser." Und sie füllten sie bis oben.
+Jesus sagt zu ihnen: @@„Füllt die Krüge mit Wasser."@@ Und sie füllten sie bis oben.
 
 > **📝 NOTIZEN**
 >
@@ -180,7 +180,7 @@ Jesus sagt zu ihnen: „Füllt die Krüge mit Wasser." Und sie füllten sie bis 
 
 ### **Vers 8**
 
-Und er sagt zu ihnen: „Schöpft nun und bringt *es* dem Speisemeister." Und sie brachten *es*.
+Und er sagt zu ihnen: @@„Schöpft nun und bringt *es* dem Speisemeister."@@ Und sie brachten *es*.
 
 > **📝 NOTIZEN**
 >
@@ -301,7 +301,7 @@ Und *nachdem er* eine Peitsche aus Stricken gemacht hatte, trieb er sie alle aus
 
 ### **Vers 16**
 
-Und zu den Taubenverkäufern sagte er: „Nehmt diese *Dinge* von hier weg; macht das Haus meines Vaters nicht zu einem Haus des Handels."
+Und zu den Taubenverkäufern sagte er: @@„Nehmt diese *Dinge* von hier weg; macht das Haus meines Vaters nicht zu einem Haus des Handels."@@
 
 > **📝 NOTIZEN**
 >
@@ -343,7 +343,7 @@ Da antworteten die Jehudim und sagten zu ihm: „Was für ein Zeichen zeigst du 
 
 ### **Vers 19**
 
-Jesus antwortete und sagte zu ihnen: „Reißt dieses Heiligtum nieder, und in drei Tagen werde ich es aufrichten."
+Jesus antwortete und sagte zu ihnen: @@„Reißt dieses Heiligtum nieder, und in drei Tagen werde ich es aufrichten."@@
 
 > **📝 NOTIZEN**
 >

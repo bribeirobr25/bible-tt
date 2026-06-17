@@ -65,21 +65,21 @@
 
 ⁶There came into being a man, having been sent from God — his name *was* Yochanan (John). ⁷This one came for testimony, so that he might testify concerning the light, so that all might trust through him. ⁸He was not the light, but *came* so that he might testify concerning the light. ⁹The true light, which enlightens every human, was coming into the world. ¹⁰He was in the world, and the world came into being through him, and the world did not know him. ¹¹He came to his own *things*, and his own *people* did not receive him. ¹²But as many as received him, to them he gave the right to become children of God — to those trusting in his name, ¹³who were born not from bloods, nor from the will of flesh, nor from the will of a man, but from God.
 
-¹⁴And the word became flesh and dwelt among us, and we saw his glory — glory as of an only one from a father — full of grace/favor and truth. ¹⁵John testifies concerning him and has cried out, saying, "This was the one of whom I said, 'The one coming after me has come to be before me, because he was first *in regard* to me.'" ¹⁶For from his fullness we all received, and grace/favor upon grace/favor. ¹⁷For the law was given through Mosheh (Moses); grace/favor and truth came into being through Yeshua (Jesus), *the* anointed one. ¹⁸No one has seen God at any time; the only-born God, the one being in the bosom of the Father — that one has made *him* known.
+¹⁴And the word became flesh and dwelt among us, and we saw his glory — glory as of an only one from a father — full of {a:grace/favor} and truth. ¹⁵John testifies concerning him and has cried out, saying, "This was the one of whom I said, 'The one coming after me has come to be before me, because he was first *in regard* to me.'" ¹⁶For from his fullness we all received, and {a:grace/favor} upon {a:grace/favor}. ¹⁷For the law was given through Mosheh (Moses); {a:grace/favor} and truth came into being through Yeshua (Jesus), *the* anointed one. ¹⁸No one has seen God at any time; the only-born God, the one being in the bosom of the Father — that one has made *him* known.
 
 ¹⁹And this is the testimony of John, when the Yehudim sent priests and Levites from Yerushalayim (Jerusalem) to ask him, "Who are you?" ²⁰And he confessed and did not deny, and he confessed, "I am not the anointed one." ²¹And they asked him, "What then? Are you Eliyahu (Elijah)?" And he says, "I am not." "Are you the Prophet?" And he answered, "No." ²²Then they said to him, "Who are you? — so that we may give an answer to those who sent us. What do you say about yourself?" ²³He said, "I *am* a voice crying out in the wilderness: 'Make straight the way of the Lord'" — as Yeshayahu (Isaiah) the prophet said.
 
 ²⁴And *those who* had been sent were from the Perushim (Pharisees). ²⁵And they asked him and said to him, "Why then do you immerse, if you are not the anointed one, nor Elijah, nor the Prophet?" ²⁶John answered them, saying, "I immerse in water; in your midst stands one whom you do not know — ²⁷the one coming after me, of whom I am not worthy to untie the strap of his sandal." ²⁸These things happened in Beyt-Anyah (Bethany) beyond the Yarden (Jordan), where John was immersing.
 
-²⁹On the next day he sees Jesus coming toward him and says, "See, the lamb of God, the one taking away the sin of the world. ³⁰This is the one concerning whom I said, 'After me comes a man who has come to be before me, because he was first *in regard* to me.' ³¹And I did not know him, but so that he might be made known to Yisrael (Israel) — for this reason I came immersing in water." ³²And John testified, saying, "I have seen the wind/spirit descending as a dove out of the sky, and it remained upon him. ³³And I did not know him, but the one who sent me to immerse in water, that one said to me, 'Upon whom you see the wind/spirit descending and remaining upon him — this is the one immersing in *the* holy wind/spirit.' ³⁴And I have seen, and I have testified that this one is the son of God."
+²⁹On the next day he sees Jesus coming toward him and says, "See, the lamb of God, the one taking away the sin of the world. ³⁰This is the one concerning whom I said, 'After me comes a man who has come to be before me, because he was first *in regard* to me.' ³¹And I did not know him, but so that he might be made known to Yisrael (Israel) — for this reason I came immersing in water." ³²And John testified, saying, "I have seen the {a:wind/spirit} descending as a dove out of the sky, and it remained upon him. ³³And I did not know him, but the one who sent me to immerse in water, that one said to me, 'Upon whom you see the {a:wind/spirit} descending and remaining upon him — this is the one immersing in *the* holy {a:wind/spirit}.' ³⁴And I have seen, and I have testified that this one is the son of God."
 
-³⁵On the next day again John stood, and *two* of his followers, ³⁶and having looked at Jesus walking, he says, "See, the lamb of God." ³⁷And the two followers heard him speaking and followed Jesus. ³⁸And Jesus, having turned and having seen them following, says to them, "What do you seek?" And they said to him, "Rabbi" — which, being translated, means Teacher — "where are you staying?" ³⁹He says to them, "Come and see." They came and saw where he was staying, and they stayed with him that day; *it was* about the tenth hour.
+³⁵On the next day again John stood, and *two* of his followers, ³⁶and having looked at Jesus walking, he says, "See, the lamb of God." ³⁷And the two followers heard him speaking and followed Jesus. ³⁸And Jesus, having turned and having seen them following, says to them, @@"What do you seek?"@@ And they said to him, "Rabbi" — which, being translated, means Teacher — "where are you staying?" ³⁹He says to them, @@"Come and see."@@ They came and saw where he was staying, and they stayed with him that day; *it was* about the tenth hour.
 
-⁴⁰Andreas (Andrew), the brother of Shimon (Simon) Kefa (Peter), was one of the two who heard from John and followed him. ⁴¹This one finds first his own brother Simon and says to him, "We have found the Messiah" — which is, being translated, *the* anointed one. ⁴²He brought him to Jesus. Having looked at him, Jesus said, "You are Simon, the son of John; you will be called Peter" — which is translated "Rock."
+⁴⁰Andreas (Andrew), the brother of Shimon (Simon) Kefa (Peter), was one of the two who heard from John and followed him. ⁴¹This one finds first his own brother Simon and says to him, "We have found the Messiah" — which is, being translated, *the* anointed one. ⁴²He brought him to Jesus. Having looked at him, Jesus said, @@"You are Simon, the son of John; you will be called Peter"@@ — which is translated "Rock."
 
-⁴³On the next day he wanted to go out to the Galil (Galilee), and he finds Philippos (Philip). And Jesus says to him, "Follow me." ⁴⁴And Philip was from Beyt-Tsaidah (Bethsaida), from the city of Andrew and Peter. ⁴⁵Philip finds Nathanael and says to him, "The one of whom Moses wrote in the law, and the prophets — we have found *him*: Jesus, son of Yosef, from Natseret (Nazareth)." ⁴⁶And Nathanael said to him, "From Nazareth can anything good be?" Philip says to him, "Come and see."
+⁴³On the next day he wanted to go out to the Galil (Galilee), and he finds Philippos (Philip). And Jesus says to him, @@"Follow me."@@ ⁴⁴And Philip was from Beyt-Tsaidah (Bethsaida), from the city of Andrew and Peter. ⁴⁵Philip finds Nathanael and says to him, "The one of whom Moses wrote in the law, and the prophets — we have found *him*: Jesus, son of Yosef, from Natseret (Nazareth)." ⁴⁶And Nathanael said to him, "From Nazareth can anything good be?" Philip says to him, "Come and see."
 
-⁴⁷Jesus saw Nathanael coming toward him and says concerning him, "See, truly a Yisraeli (Israelite) in whom there is no deceit." ⁴⁸Nathanael says to him, "From where do you know me?" Jesus answered and said to him, "Before Philip called you, *while you were* under the fig tree, I saw you." ⁴⁹Nathanael answered him, "Rabbi, you are the son of God; you are the king of Israel." ⁵⁰Jesus answered and said to him, "Because I said to you that I saw you under the fig tree, you trust? You will see greater *things* than these." ⁵¹And he says to him, "Amen, amen, I say to you, you will see the sky opened and the messengers of God ascending and descending upon the son of man."
+⁴⁷Jesus saw Nathanael coming toward him and says concerning him, @@"See, truly a Yisraeli (Israelite) in whom there is no deceit."@@ ⁴⁸Nathanael says to him, "From where do you know me?" Jesus answered and said to him, @@"Before Philip called you, *while you were* under the fig tree, I saw you."@@ ⁴⁹Nathanael answered him, "Rabbi, you are the son of God; you are the king of Israel." ⁵⁰Jesus answered and said to him, @@"Because I said to you that I saw you under the fig tree, you trust? You will see greater *things* than these."@@ ⁵¹And he says to him, @@"Amen, amen, I say to you, you will see the sky opened and the messengers of God ascending and descending upon the son of man."@@
 
 ---
 
@@ -269,7 +269,7 @@ who were born not from bloods, nor from the will of flesh, nor from the will of 
 
 ### **Verse 14**
 
-And the word became flesh and dwelt among us, and we saw his glory — glory as of an only one from a father — full of grace/favor and truth.
+And the word became flesh and dwelt among us, and we saw his glory — glory as of an only one from a father — full of {a:grace/favor} and truth.
 
 > **📝 NOTES**
 >
@@ -303,7 +303,7 @@ Yochanan (John) testifies concerning him and has cried out, saying, "This was th
 
 ### **Verse 16**
 
-For from his fullness we all received, and grace/favor upon grace/favor.
+For from his fullness we all received, and {a:grace/favor} upon {a:grace/favor}.
 
 > **📝 NOTES**
 >
@@ -314,7 +314,7 @@ For from his fullness we all received, and grace/favor upon grace/favor.
 
 ### **Verse 17**
 
-For the law was given through Mosheh (Moses); grace/favor and truth came into being through Yeshua (Jesus), *the* anointed one.
+For the law was given through Mosheh (Moses); {a:grace/favor} and truth came into being through Yeshua (Jesus), *the* anointed one.
 
 > **📝 NOTES**
 >
@@ -506,7 +506,7 @@ And I did not know him, but so that he might be made known to Yisrael (Israel) �
 
 ### **Verse 32**
 
-And Yochanan (John) testified, saying, "I have seen the wind/spirit descending as a dove out of the sky, and it remained upon him.
+And Yochanan (John) testified, saying, "I have seen the {a:wind/spirit} descending as a dove out of the sky, and it remained upon him.
 
 > **📝 NOTES**
 >
@@ -523,7 +523,7 @@ And Yochanan (John) testified, saying, "I have seen the wind/spirit descending a
 
 ### **Verse 33**
 
-And I did not know him, but the one who sent me to immerse in water, that one said to me, 'Upon whom you see the wind/spirit descending and remaining upon him — this is the one immersing in *the* holy wind/spirit.'
+And I did not know him, but the one who sent me to immerse in water, that one said to me, 'Upon whom you see the {a:wind/spirit} descending and remaining upon him — this is the one immersing in *the* holy {a:wind/spirit}.'
 
 > **📝 NOTES**
 >
@@ -573,7 +573,7 @@ And the two followers heard him speaking and followed Yeshua (Jesus).
 
 ### **Verse 38**
 
-And Yeshua (Jesus), having turned and having seen them following, says to them, "What do you seek?" And they said to him, "Rabbi" — which, being translated, means Teacher — "where are you staying?"
+And Yeshua (Jesus), having turned and having seen them following, says to them, @@"What do you seek?"@@ And they said to him, "Rabbi" — which, being translated, means Teacher — "where are you staying?"
 
 > **📝 NOTES**
 >
@@ -587,7 +587,7 @@ And Yeshua (Jesus), having turned and having seen them following, says to them, 
 
 ### **Verse 39**
 
-He says to them, "Come and see." They came and saw where he was staying, and they stayed with him that day; *it was* about the tenth hour.
+He says to them, @@"Come and see."@@ They came and saw where he was staying, and they stayed with him that day; *it was* about the tenth hour.
 
 > **📝 NOTES**
 >
@@ -620,7 +620,7 @@ This one finds first his own brother Shimon (Simon) and says to him, "We have fo
 
 ### **Verse 42**
 
-He brought him to Yeshua (Jesus). Having looked at him, Jesus said, "You are Shimon (Simon), the son of Yochanan (John); you will be called Kefa (Peter)" — which is translated "Rock."
+He brought him to Yeshua (Jesus). Having looked at him, Jesus said, @@"You are Shimon (Simon), the son of Yochanan (John); you will be called Kefa (Peter)"@@ — which is translated "Rock."
 
 > **📝 NOTES**
 >
@@ -634,7 +634,7 @@ He brought him to Yeshua (Jesus). Having looked at him, Jesus said, "You are Shi
 
 ### **Verse 43**
 
-On the next day he wanted to go out to the Galil (Galilee), and he finds Philippos (Philip). And Yeshua (Jesus) says to him, "Follow me."
+On the next day he wanted to go out to the Galil (Galilee), and he finds Philippos (Philip). And Yeshua (Jesus) says to him, @@"Follow me."@@
 
 > **📝 NOTES**
 >
@@ -681,7 +681,7 @@ And Nathanael said to him, "From Natseret (Nazareth) can anything good be?" Phil
 
 ### **Verse 47**
 
-Yeshua (Jesus) saw Nathanael coming toward him and says concerning him, "See, truly a Yisraeli (Israelite) in whom there is no deceit."
+Yeshua (Jesus) saw Nathanael coming toward him and says concerning him, @@"See, truly a Yisraeli (Israelite) in whom there is no deceit."@@
 
 > **📝 NOTES**
 >
@@ -692,7 +692,7 @@ Yeshua (Jesus) saw Nathanael coming toward him and says concerning him, "See, tr
 
 ### **Verse 48**
 
-Nathanael says to him, "From where do you know me?" Yeshua (Jesus) answered and said to him, "Before Philippos (Philip) called you, *while you were* under the fig tree, I saw you."
+Nathanael says to him, "From where do you know me?" Yeshua (Jesus) answered and said to him, @@"Before Philippos (Philip) called you, *while you were* under the fig tree, I saw you."@@
 
 > **📝 NOTES**
 >
@@ -714,7 +714,7 @@ Nathanael answered him, "Rabbi, you are the son of God; you are the king of Yisr
 
 ### **Verse 50**
 
-Yeshua (Jesus) answered and said to him, "Because I said to you that I saw you under the fig tree, you trust? You will see greater *things* than these."
+Yeshua (Jesus) answered and said to him, @@"Because I said to you that I saw you under the fig tree, you trust? You will see greater *things* than these."@@
 
 > **📝 NOTES**
 >
@@ -725,7 +725,7 @@ Yeshua (Jesus) answered and said to him, "Because I said to you that I saw you u
 
 ### **Verse 51**
 
-And he says to him, "Amen, amen, I say to you, you will see the sky opened and the messengers of God ascending and descending upon the son of man."
+And he says to him, @@"Amen, amen, I say to you, you will see the sky opened and the messengers of God ascending and descending upon the son of man."@@
 
 > **📝 NOTES**
 >

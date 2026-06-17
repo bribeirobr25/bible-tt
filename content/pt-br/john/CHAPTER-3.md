@@ -62,17 +62,17 @@
 
 ---
 
-¹E havia um homem dos perushim — Nikodemos (Nicodemos) *era* o seu nome — um líder dos yehudim. ²Este veio a ele à noite e lhe disse: "Rabbi, sabemos que vieste de Deus *como* mestre, pois ninguém é capaz de fazer estes sinais que você faz, a menos que Deus esteja com ele." ³Yeshua (Jesus) respondeu e lhe disse: "Amém, amém, eu te digo, a menos que alguém nasça do alto/de novo, não é capaz de ver o reino de Deus." ⁴Nicodemos lhe diz: "Como pode um homem nascer, sendo velho? Não pode entrar no ventre de sua mãe uma segunda vez e nascer, *pode*?" ⁵Jesus respondeu: "Amém, amém, eu te digo, a menos que alguém nasça de água e vento/espírito, não é capaz de entrar no reino de Deus. ⁶O que nasceu da carne é carne, e o que nasceu do vento/espírito é vento/espírito. ⁷Não se admire de que eu te disse: 'Vocês devem nascer do alto/de novo.' ⁸O vento/espírito sopra onde quer, e você ouve o seu som, mas você não sabe de onde vem e para onde vai; assim é todo aquele que nasceu do vento/espírito."
+¹E havia um homem dos perushim — Nikodemos (Nicodemos) *era* o seu nome — um líder dos yehudim. ²Este veio a ele à noite e lhe disse: "Rabbi, sabemos que vieste de Deus *como* mestre, pois ninguém é capaz de fazer estes sinais que você faz, a menos que Deus esteja com ele." ³Yeshua (Jesus) respondeu e lhe disse: @@"Amém, amém, eu te digo, a menos que alguém nasça {a:do alto/de novo}, não é capaz de ver o reino de Deus."@@ ⁴Nicodemos lhe diz: "Como pode um homem nascer, sendo velho? Não pode entrar no ventre de sua mãe uma segunda vez e nascer, *pode*?" ⁵Jesus respondeu: @@"Amém, amém, eu te digo, a menos que alguém nasça de água e {a:vento/espírito}, não é capaz de entrar no reino de Deus. ⁶O que nasceu da carne é carne, e o que nasceu do {a:vento/espírito} é {a:vento/espírito}. ⁷Não se admire de que eu te disse: 'Vocês devem nascer {a:do alto/de novo}.' ⁸O {a:vento/espírito} sopra onde quer, e você ouve o seu som, mas você não sabe de onde vem e para onde vai; assim é todo aquele que nasceu do {a:vento/espírito}."@@
 
-⁹Nicodemos respondeu e lhe disse: "Como podem essas coisas ser?" ¹⁰Jesus respondeu e lhe disse: "Você é o mestre de Yisrael (Israel) e você não sabe estas coisas? ¹¹Amém, amém, eu te digo, falamos o que sabemos e testemunhamos *do* que vimos, e vocês não recebem o nosso testemunho. ¹²Se eu disse a vocês coisas terrenas e vocês não confiam, como vocês confiarão se eu disser a vocês coisas celestiais? ¹³E ninguém subiu ao céu senão aquele que desceu do céu — o filho do homem. ¹⁴E assim como Mosheh (Moisés) levantou a serpente no deserto, assim deve o filho do homem ser levantado, ¹⁵para que todo aquele que confia nele tenha vida da era."
+⁹Nicodemos respondeu e lhe disse: "Como podem essas coisas ser?" ¹⁰Jesus respondeu e lhe disse: @@"Você é o mestre de Yisrael (Israel) e você não sabe estas coisas? ¹¹Amém, amém, eu te digo, falamos o que sabemos e testemunhamos *do* que vimos, e vocês não recebem o nosso testemunho. ¹²Se eu disse a vocês coisas terrenas e vocês não confiam, como vocês confiarão se eu disser a vocês coisas celestiais? ¹³E ninguém subiu ao céu senão aquele que desceu do céu — o filho do homem. ¹⁴E assim como Mosheh (Moisés) levantou a serpente no deserto, assim deve o filho do homem ser levantado, ¹⁵para que todo aquele que confia nele tenha vida da era."@@
 
-¹⁶"Pois Deus amou o mundo de tal maneira que deu o filho único-nascido, para que todo aquele que confia nele não pereça, mas tenha vida da era. ¹⁷Pois Deus não enviou o filho ao mundo para que julgasse o mundo, mas para que o mundo fosse salvo por meio dele. ¹⁸Quem confia nele não é julgado; quem não confia já foi julgado, porque não confiou no nome do filho único-nascido de Deus. ¹⁹E este é o julgamento: que a luz veio ao mundo, e os seres humanos amaram mais as trevas do que a luz, pois as suas obras eram más. ²⁰Pois todo aquele que pratica *coisas* vis odeia a luz e não vem à luz, para que as suas obras não sejam expostas. ²¹Mas aquele que pratica a verdade vem à luz, para que as suas obras sejam manifestas — que foram realizadas em Deus."
+¹⁶@@"Pois Deus amou o mundo de tal maneira que deu o filho único-nascido, para que todo aquele que confia nele não pereça, mas tenha vida da era. ¹⁷Pois Deus não enviou o filho ao mundo para que julgasse o mundo, mas para que o mundo fosse salvo por meio dele. ¹⁸Quem confia nele não é julgado; quem não confia já foi julgado, porque não confiou no nome do filho único-nascido de Deus. ¹⁹E este é o julgamento: que a luz veio ao mundo, e os seres humanos amaram mais as trevas do que a luz, pois as suas obras eram más. ²⁰Pois todo aquele que pratica *coisas* vis odeia a luz e não vem à luz, para que as suas obras não sejam expostas. ²¹Mas aquele que pratica a verdade vem à luz, para que as suas obras sejam manifestas — que foram realizadas em Deus."@@
 
 ²²Depois destas coisas Jesus e seus seguidores foram para a terra da Yehudeia, e ali ele passava tempo com eles e imergia. ²³E Yochanan (João) também estava imergindo em Ainon perto de Shalim, porque havia muita água ali, e *pessoas* vinham e eram imersas — ²⁴pois João ainda não tinha sido lançado na prisão.
 
 ²⁵Então surgiu uma disputa dos seguidores de João com um yehudi a respeito de purificação. ²⁶E vieram a João e lhe disseram: "Rabbi, aquele que estava contigo além do Yarden (Jordão), a respeito de quem testemunhaste — eis que este imerge, e todos estão indo a ele." ²⁷João respondeu e disse: "Um homem não é capaz de receber coisa alguma a menos que lhe tenha sido dada do céu. ²⁸Vocês mesmos testemunham por mim que eu disse: 'Eu não sou o ungido,' mas, 'Eu fui enviado diante daquele.' ²⁹Quem tem a noiva é o noivo; mas o amigo do noivo, que está de pé e o ouve, regozija-se grandemente por causa da voz do noivo. Esta alegria minha, portanto, se cumpriu. ³⁰Aquele deve crescer, mas eu devo diminuir."
 
-³¹"O que vem do alto está acima de todos. O que é da terra é da terra e fala da terra. O que vem do céu está acima de todos. ³²O que ele viu e ouviu — disto ele testemunha, e ninguém recebe o seu testemunho. ³³Aquele que recebeu o seu testemunho selou que Deus é verdadeiro. ³⁴Pois aquele que Deus enviou fala as palavras de Deus, pois ele não dá o vento/espírito por medida. ³⁵O Pai ama o filho e deu todas as coisas em sua mão. ³⁶Quem confia no Filho tem vida da era; mas quem desobedece ao Filho não verá a vida, mas a ira de Deus permanece sobre ele."
+³¹"O que vem do alto está acima de todos. O que é da terra é da terra e fala da terra. O que vem do céu está acima de todos. ³²O que ele viu e ouviu — disto ele testemunha, e ninguém recebe o seu testemunho. ³³Aquele que recebeu o seu testemunho selou que Deus é verdadeiro. ³⁴Pois aquele que Deus enviou fala as palavras de Deus, pois ele não dá o {a:vento/espírito} por medida. ³⁵O Pai ama o filho e deu todas as coisas em sua mão. ³⁶Quem confia no Filho tem vida da era; mas quem desobedece ao Filho não verá a vida, mas a ira de Deus permanece sobre ele."
 
 ---
 
@@ -108,7 +108,7 @@ Este veio a ele à noite e lhe disse: "Rabbi, sabemos que vieste de Deus *como* 
 
 ### **Versículo 3**
 
-Yeshua (Jesus) respondeu e lhe disse: "Amém, amém, eu te digo, a menos que alguém nasça do alto/de novo, não é capaz de ver o reino de Deus."
+Yeshua (Jesus) respondeu e lhe disse: @@"Amém, amém, eu te digo, a menos que alguém nasça {a:do alto/de novo}, não é capaz de ver o reino de Deus."@@
 
 > **📝 NOTAS**
 >
@@ -139,7 +139,7 @@ Nikodemos (Nicodemos) lhe diz: "Como pode um homem nascer, sendo velho? Não pod
 
 ### **Versículo 5**
 
-Yeshua (Jesus) respondeu: "Amém, amém, eu te digo, a menos que alguém nasça de água e vento/espírito, não é capaz de entrar no reino de Deus."
+Yeshua (Jesus) respondeu: @@"Amém, amém, eu te digo, a menos que alguém nasça de água e {a:vento/espírito}, não é capaz de entrar no reino de Deus."@@
 
 > **📝 NOTAS**
 >
@@ -158,7 +158,7 @@ Yeshua (Jesus) respondeu: "Amém, amém, eu te digo, a menos que alguém nasça 
 
 ### **Versículo 6**
 
-O que nasceu da carne é carne, e o que nasceu do vento/espírito é vento/espírito.
+@@O que nasceu da carne é carne, e o que nasceu do {a:vento/espírito} é {a:vento/espírito}.@@
 
 > **📝 NOTAS**
 >
@@ -172,7 +172,7 @@ O que nasceu da carne é carne, e o que nasceu do vento/espírito é vento/espí
 
 ### **Versículo 7**
 
-Não se admire de que eu te disse: "Vocês devem nascer do alto/de novo."
+@@Não se admire de que eu te disse: "Vocês devem nascer {a:do alto/de novo}."@@
 
 > **📝 NOTAS**
 >
@@ -186,7 +186,7 @@ Não se admire de que eu te disse: "Vocês devem nascer do alto/de novo."
 
 ### **Versículo 8**
 
-O vento/espírito sopra onde quer, e você ouve o seu som, mas você não sabe de onde vem e para onde vai; assim é todo aquele que nasceu do vento/espírito.
+@@O {a:vento/espírito} sopra onde quer, e você ouve o seu som, mas você não sabe de onde vem e para onde vai; assim é todo aquele que nasceu do {a:vento/espírito}.@@
 
 > **📝 NOTAS**
 >
@@ -214,7 +214,7 @@ Nikodemos (Nicodemos) respondeu e lhe disse: "Como podem essas coisas ser?"
 
 ### **Versículo 10**
 
-Yeshua (Jesus) respondeu e lhe disse: "Você é o mestre de Yisrael (Israel) e você não sabe estas coisas?"
+Yeshua (Jesus) respondeu e lhe disse: @@"Você é o mestre de Yisrael (Israel) e você não sabe estas coisas?"@@
 
 > **📝 NOTAS**
 >
@@ -225,7 +225,7 @@ Yeshua (Jesus) respondeu e lhe disse: "Você é o mestre de Yisrael (Israel) e v
 
 ### **Versículo 11**
 
-Amém, amém, eu te digo, falamos o que sabemos e testemunhamos *do* que vimos, e vocês não recebem o nosso testemunho.
+@@Amém, amém, eu te digo, falamos o que sabemos e testemunhamos *do* que vimos, e vocês não recebem o nosso testemunho.@@
 
 > **📝 NOTAS**
 >
@@ -239,7 +239,7 @@ Amém, amém, eu te digo, falamos o que sabemos e testemunhamos *do* que vimos, 
 
 ### **Versículo 12**
 
-Se eu disse a vocês coisas terrenas e vocês não confiam, como vocês confiarão se eu disser a vocês coisas celestiais?
+@@Se eu disse a vocês coisas terrenas e vocês não confiam, como vocês confiarão se eu disser a vocês coisas celestiais?@@
 
 > **📝 NOTAS**
 >
@@ -250,7 +250,7 @@ Se eu disse a vocês coisas terrenas e vocês não confiam, como vocês confiar�
 
 ### **Versículo 13**
 
-E ninguém subiu ao céu senão aquele que desceu do céu — o filho do homem.
+@@E ninguém subiu ao céu senão aquele que desceu do céu — o filho do homem.@@
 
 > **📝 NOTAS**
 >
@@ -264,7 +264,7 @@ E ninguém subiu ao céu senão aquele que desceu do céu — o filho do homem.
 
 ### **Versículo 14**
 
-E assim como Mosheh (Moisés) levantou a serpente no deserto, assim deve o filho do homem ser levantado,
+@@E assim como Mosheh (Moisés) levantou a serpente no deserto, assim deve o filho do homem ser levantado,@@
 
 > **📝 NOTAS**
 >
@@ -278,7 +278,7 @@ E assim como Mosheh (Moisés) levantou a serpente no deserto, assim deve o filho
 
 ### **Versículo 15**
 
-para que todo aquele que confia nele tenha vida da era.
+@@para que todo aquele que confia nele tenha vida da era.@@
 
 > **📝 NOTAS**
 >
@@ -292,7 +292,7 @@ para que todo aquele que confia nele tenha vida da era.
 
 ### **Versículo 16**
 
-"Pois Deus amou o mundo de tal maneira que deu o filho único-nascido, para que todo aquele que confia nele não pereça, mas tenha vida da era."
+@@"Pois Deus amou o mundo de tal maneira que deu o filho único-nascido, para que todo aquele que confia nele não pereça, mas tenha vida da era."@@
 
 > **📝 NOTAS**
 >
@@ -312,7 +312,7 @@ para que todo aquele que confia nele tenha vida da era.
 
 ### **Versículo 17**
 
-Pois Deus não enviou o filho ao mundo para que julgasse o mundo, mas para que o mundo fosse salvo por meio dele.
+@@Pois Deus não enviou o filho ao mundo para que julgasse o mundo, mas para que o mundo fosse salvo por meio dele.@@
 
 > **📝 NOTAS**
 >
@@ -326,7 +326,7 @@ Pois Deus não enviou o filho ao mundo para que julgasse o mundo, mas para que o
 
 ### **Versículo 18**
 
-Quem confia nele não é julgado; quem não confia já foi julgado, porque não confiou no nome do filho único-nascido de Deus.
+@@Quem confia nele não é julgado; quem não confia já foi julgado, porque não confiou no nome do filho único-nascido de Deus.@@
 
 > **📝 NOTAS**
 >
@@ -340,7 +340,7 @@ Quem confia nele não é julgado; quem não confia já foi julgado, porque não 
 
 ### **Versículo 19**
 
-E este é o julgamento: que a luz veio ao mundo, e os seres humanos amaram mais as trevas do que a luz, pois as suas obras eram más.
+@@E este é o julgamento: que a luz veio ao mundo, e os seres humanos amaram mais as trevas do que a luz, pois as suas obras eram más.@@
 
 > **📝 NOTAS**
 >
@@ -354,7 +354,7 @@ E este é o julgamento: que a luz veio ao mundo, e os seres humanos amaram mais 
 
 ### **Versículo 20**
 
-Pois todo aquele que pratica *coisas* vis odeia a luz e não vem à luz, para que as suas obras não sejam expostas.
+@@Pois todo aquele que pratica *coisas* vis odeia a luz e não vem à luz, para que as suas obras não sejam expostas.@@
 
 > **📝 NOTAS**
 >
@@ -368,7 +368,7 @@ Pois todo aquele que pratica *coisas* vis odeia a luz e não vem à luz, para qu
 
 ### **Versículo 21**
 
-Mas aquele que pratica a verdade vem à luz, para que as suas obras sejam manifestas — que foram realizadas em Deus.
+@@Mas aquele que pratica a verdade vem à luz, para que as suas obras sejam manifestas — que foram realizadas em Deus.@@
 
 > **📝 NOTAS**
 >
@@ -529,7 +529,7 @@ Aquele que recebeu o seu testemunho selou que Deus é verdadeiro.
 
 ### **Versículo 34**
 
-Pois aquele que Deus enviou fala as palavras de Deus, pois ele não dá o vento/espírito por medida.
+Pois aquele que Deus enviou fala as palavras de Deus, pois ele não dá o {a:vento/espírito} por medida.
 
 > **📝 NOTAS**
 >

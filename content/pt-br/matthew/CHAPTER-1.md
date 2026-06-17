@@ -72,9 +72,9 @@ E David gerou Shelomoh (Salomão) da *esposa* de Uriyah, ⁷e Salomão gerou Rec
 
 ¹⁷Assim todas as gerações de Abraão até David *são* catorze gerações, e de David até o exílio para Bavel *são* catorze gerações, e do exílio para Bavel até o ungido *são* catorze gerações.
 
-¹⁸Ora, a gênesis de Jesus o ungido foi assim: sua mãe Maria, tendo sido prometida em casamento a José, antes que se unissem, foi encontrada *tendo uma criança* no ventre *do* vento/espírito santo. ¹⁹E José seu marido, sendo justo e não querendo expô-la publicamente, planejou liberá-la em segredo. ²⁰Mas *enquanto* ele considerava estas coisas, eis que um mensageiro do Senhor lhe apareceu em sonho, dizendo: "José, filho de David, não tenha medo de tomar Maria *como* sua esposa, pois *a criança* concebida nela é *do* vento/espírito santo. ²¹E ela dará à luz um filho, e você chamará o seu nome Jesus, pois ele salvará o seu povo dos seus pecados."
+¹⁸Ora, a gênesis de Jesus o ungido foi assim: sua mãe Maria, tendo sido prometida em casamento a José, antes que se unissem, foi encontrada *tendo uma criança* no ventre *do* {a:vento/espírito} santo. ¹⁹E José seu marido, sendo justo e não querendo expô-la publicamente, planejou liberá-la em segredo. ²⁰Mas *enquanto* ele considerava estas coisas, eis que um mensageiro do Senhor lhe apareceu em sonho, dizendo: "José, filho de David, não tenha medo de tomar Maria *como* sua esposa, pois *a criança* concebida nela é *do* {a:vento/espírito} santo. ²¹E ela dará à luz um filho, e você chamará o seu nome Jesus, pois ele salvará o seu povo dos seus pecados."
 
-²²E tudo isso aconteceu para que se cumprisse o que foi dito pelo Senhor através do profeta, dizendo: ²³"Eis que a virgem/jovem mulher conceberá e dará à luz um filho, e o chamarão Immanu'el" — que é, sendo traduzido, "Deus conosco."
+²²E tudo isso aconteceu para que se cumprisse o que foi dito pelo Senhor através do profeta, dizendo: ²³"Eis que a {a:virgem/jovem mulher} conceberá e dará à luz um filho, e o chamarão Immanu'el" — que é, sendo traduzido, "Deus conosco."
 
 ²⁴E José, tendo sido levantado do sono, fez como o mensageiro do Senhor lhe ordenou, e tomou sua esposa, ²⁵e não a conheceu até que ela deu à luz um filho; e chamou o seu nome Jesus.
 
@@ -317,7 +317,7 @@ Assim todas as gerações de Abraão até David *são* catorze gerações, e de 
 
 ### **Versículo 18**
 
-Ora, a gênesis de Jesus o ungido foi assim: sua mãe Maria, tendo sido prometida em casamento a José, antes que se unissem, foi encontrada *tendo uma criança* no ventre *do* vento/espírito santo.
+Ora, a gênesis de Jesus o ungido foi assim: sua mãe Maria, tendo sido prometida em casamento a José, antes que se unissem, foi encontrada *tendo uma criança* no ventre *do* {a:vento/espírito} santo.
 
 > **Notas**
 >
@@ -348,7 +348,7 @@ E José seu marido, sendo justo e não querendo expô-la publicamente, planejou 
 
 ### **Versículo 20**
 
-Mas *enquanto* ele considerava estas coisas, eis que um mensageiro do Senhor lhe apareceu em sonho, dizendo: "José, filho de David, não tenha medo de tomar Maria *como* sua esposa, pois *a criança* concebida nela é *do* vento/espírito santo.
+Mas *enquanto* ele considerava estas coisas, eis que um mensageiro do Senhor lhe apareceu em sonho, dizendo: "José, filho de David, não tenha medo de tomar Maria *como* sua esposa, pois *a criança* concebida nela é *do* {a:vento/espírito} santo.
 
 > **Notas**
 >
@@ -390,7 +390,7 @@ E tudo isso aconteceu para que se cumprisse o que foi dito pelo Senhor através 
 
 ### **Versículo 23**
 
-"Eis que a virgem/jovem mulher conceberá e dará à luz um filho, e o chamarão Immanu'el" — que é, sendo traduzido, "Deus conosco."
+"Eis que a {a:virgem/jovem mulher} conceberá e dará à luz um filho, e o chamarão Immanu'el" — que é, sendo traduzido, "Deus conosco."
 
 > **Notas**
 >

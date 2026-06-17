@@ -68,7 +68,7 @@
 
 ⁷Y al ver a muchos de los Perushim y Tsduqim viniendo a la inmersión, les dijo: "Descendencia de víboras, ¿quién les advirtió huir de la ira venidera? ⁸Produzcan, entonces, fruto digno de cambio de mente, ⁹y no piensen decir entre ustedes: 'Tenemos a Avraham *como* padre,' porque les digo que Dios puede de estas piedras levantar hijos para Avraham. ¹⁰Y ya el hacha yace a la raíz de los árboles; así que todo árbol que no produce buen fruto es cortado y arrojado al fuego. ¹¹Yo los sumerjo en agua hacia cambio de mente, pero el que viene después de mí es más fuerte que yo, cuyas sandalias no soy digno de cargar; él los sumergirá en viento/espíritu santo y fuego. ¹²Su horquilla de aventar *está* en su mano, y limpiará completamente su era, y recogerá su trigo en el granero, pero la paja la quemará *con* fuego inextinguible."
 
-¹³Entonces Yeshua viene desde el Galil al Yarden, a Yochanan, para ser inmerso por él. ¹⁴Pero Yochanan le impedía, diciendo: "Yo necesito ser inmerso por ti, ¿y tú vienes a mí?" ¹⁵Y Yeshua, respondiendo, le dijo: "Permítelo ahora, porque así nos corresponde cumplir toda justicia." Entonces lo permite. ¹⁶Y Yeshua, habiendo sido inmerso, inmediatamente subió del agua, y miren, los cielos fueron abiertos para él, y vio el viento/espíritu de Dios descendiendo como una paloma y viniendo sobre él. ¹⁷Y miren, una voz desde los cielos, diciendo: "Este es mi hijo, el amado, en quien me complazco."
+¹³Entonces Yeshua viene desde el Galil al Yarden, a Yochanan, para ser inmerso por él. ¹⁴Pero Yochanan le impedía, diciendo: "Yo necesito ser inmerso por ti, ¿y tú vienes a mí?" ¹⁵Y Yeshua, respondiendo, le dijo: @@"Permítelo ahora, porque así nos corresponde cumplir toda justicia."@@ Entonces lo permite. ¹⁶Y Yeshua, habiendo sido inmerso, inmediatamente subió del agua, y miren, los cielos fueron abiertos para él, y vio el viento/espíritu de Dios descendiendo como una paloma y viniendo sobre él. ¹⁷Y miren, una voz desde los cielos, diciendo: @@"Este es mi hijo, el amado, en quien me complazco."@@
 
 ---
 
@@ -271,7 +271,7 @@ Pero Yochanan le impedía, diciendo: "Yo necesito ser inmerso por ti, ¿y tú vi
 
 ### **Versículo 15**
 
-Y Yeshua, respondiendo, le dijo: "Permítelo ahora, porque así nos corresponde cumplir toda justicia." Entonces lo permite.
+Y Yeshua, respondiendo, le dijo: @@"Permítelo ahora, porque así nos corresponde cumplir toda justicia."@@ Entonces lo permite.
 
 > **Notas**
 >
@@ -302,7 +302,7 @@ Y Yeshua, habiendo sido inmerso, inmediatamente subió del agua, y miren, los ci
 
 ### **Versículo 17**
 
-Y miren, una voz desde los cielos, diciendo: "Este es mi hijo, el amado, en quien me complazco."
+Y miren, una voz desde los cielos, diciendo: @@"Este es mi hijo, el amado, en quien me complazco."@@
 
 > **Notas**
 >

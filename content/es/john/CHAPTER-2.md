@@ -62,15 +62,15 @@
 
 ---
 
-¹Y al tercer día tuvo lugar una boda en Qanah del Galil, y la madre de Yeshua estaba allí. ²Y Yeshua también fue invitado, y sus seguidores, a la boda. ³Y *cuando* falto el vino, la madre de Yeshua le dice: "No tienen vino." ⁴Y Yeshua le dice: "¿Qué a mí y a ti, mujer? Mi hora aún no ha llegado." ⁵Su madre dice a los sirvientes: "Lo que el les diga, haganlo."
+¹Y al tercer día tuvo lugar una boda en Qanah del Galil, y la madre de Yeshua estaba allí. ²Y Yeshua también fue invitado, y sus seguidores, a la boda. ³Y *cuando* falto el vino, la madre de Yeshua le dice: "No tienen vino." ⁴Y Yeshua le dice: @@"¿Qué a mí y a ti, mujer? Mi hora aún no ha llegado."@@ ⁵Su madre dice a los sirvientes: "Lo que el les diga, haganlo."
 
-⁶Y había allí seis tinajas de piedra para agua, dispuestas según los *ritos de* purificación de los yehudim, cada una con capacidad de dos o tres medidas. ⁷Yeshua les dice: "Llenen las tinajas con agua." Y las llenaron hasta arriba. ⁸Y les dice: "Saquen ahora y lleven *lo* al jefe de mesa." Y *lo* llevaron. ⁹Y cuando el jefe de mesa probo el agua convertida en vino — y no sabía de donde era, pero los sirvientes que habían sacado el agua sabian — el jefe de mesa llama al novio ¹⁰y le dice: "Todo hombre sirve primero el buen vino, y cuando *ya* se han embriagado, el inferior. Tu has guardado el buen vino hasta ahora."
+⁶Y había allí seis tinajas de piedra para agua, dispuestas según los *ritos de* purificación de los yehudim, cada una con capacidad de dos o tres medidas. ⁷Yeshua les dice: @@"Llenen las tinajas con agua."@@ Y las llenaron hasta arriba. ⁸Y les dice: @@"Saquen ahora y lleven *lo* al jefe de mesa."@@ Y *lo* llevaron. ⁹Y cuando el jefe de mesa probo el agua convertida en vino — y no sabía de donde era, pero los sirvientes que habían sacado el agua sabian — el jefe de mesa llama al novio ¹⁰y le dice: "Todo hombre sirve primero el buen vino, y cuando *ya* se han embriagado, el inferior. Tu has guardado el buen vino hasta ahora."
 
 ¹¹Este principio de las señales lo hizo Yeshua en Qanah del Galil y revelo su gloria, y sus seguidores confiaron en el. ¹²Después de esto bajo a Kfar Najum — el y su madre y sus hermanos y sus seguidores — y se quedaron allí no muchos días.
 
-¹³Y la Pascua de los yehudim estaba cerca, y Yeshua subió a Yerushalayim. ¹⁴Y encontró en el *complejo del* templo a los que vendian ganado y ovejas y palomas, y a los cambistas sentados. ¹⁵Y habiendo hecho un latigo de cuerdas, los expulso a todos del *complejo del* templo, tanto las ovejas como el ganado, y derramo las monedas de los cambistas y volco las mesas. ¹⁶Y a los que vendian las palomas les dijo: "Quiten estas *cosas* de aquí; no hagan de la casa de mí Padre una casa de comercio." ¹⁷Sus seguidores recordaron que esta escrito: "El celo de tu casa me consumira."
+¹³Y la Pascua de los yehudim estaba cerca, y Yeshua subió a Yerushalayim. ¹⁴Y encontró en el *complejo del* templo a los que vendian ganado y ovejas y palomas, y a los cambistas sentados. ¹⁵Y habiendo hecho un latigo de cuerdas, los expulso a todos del *complejo del* templo, tanto las ovejas como el ganado, y derramo las monedas de los cambistas y volco las mesas. ¹⁶Y a los que vendian las palomas les dijo: @@"Quiten estas *cosas* de aquí; no hagan de la casa de mí Padre una casa de comercio."@@ ¹⁷Sus seguidores recordaron que esta escrito: "El celo de tu casa me consumira."
 
-¹⁸Entonces los yehudim respondieron y le dijeron: "¿Qué señal nos muestras, *dado* que haces estas cosas?" ¹⁹Yeshua respondió y les dijo: "Destruyan este santuario, y en tres días lo levantare." ²⁰Entonces los yehudim dijeron: "Este santuario fue construido *durante* cuarenta y seis años, ¿y tu lo levantaras en tres días?" ²¹Pero el hablaba del santuario de su cuerpo. ²²Cuando pues fue levantado de *entre los* muertos, sus seguidores recordaron que había dicho esto, y confiaron en la escritura y en la palabra que Yeshua había hablado.
+¹⁸Entonces los yehudim respondieron y le dijeron: "¿Qué señal nos muestras, *dado* que haces estas cosas?" ¹⁹Yeshua respondió y les dijo: @@"Destruyan este santuario, y en tres días lo levantare."@@ ²⁰Entonces los yehudim dijeron: "Este santuario fue construido *durante* cuarenta y seis años, ¿y tu lo levantaras en tres días?" ²¹Pero el hablaba del santuario de su cuerpo. ²²Cuando pues fue levantado de *entre los* muertos, sus seguidores recordaron que había dicho esto, y confiaron en la escritura y en la palabra que Yeshua había hablado.
 
 ²³Y cuando estaba en Yerushalayim en la Pascua, en la fiesta, muchos confiaron en su nombre, viendo las señales que hacia. ²⁴Pero Yeshua mismo no se confiaba a ellos, porque el conocía a todos, ²⁵y porque no tenía necesidad de que alguien testificara acerca del ser humano — pues el mismo sabía lo que había en el ser humano.
 
@@ -122,7 +122,7 @@ Y *cuando* falto el vino, la madre de Yeshua le dice: "No tienen vino."
 
 ### **Versículo 4**
 
-Y Yeshua le dice: "¿Qué a mí y a ti, mujer? Mi hora aún no ha llegado."
+Y Yeshua le dice: @@"¿Qué a mí y a ti, mujer? Mi hora aún no ha llegado."@@
 
 > **📝 NOTAS**
 >
@@ -170,7 +170,7 @@ Y había allí seis tinajas de piedra para agua, dispuestas según los *ritos de
 
 ### **Versículo 7**
 
-Yeshua les dice: "Llenen las tinajas con agua." Y las llenaron hasta arriba.
+Yeshua les dice: @@"Llenen las tinajas con agua."@@ Y las llenaron hasta arriba.
 
 > **📝 NOTAS**
 >
@@ -181,7 +181,7 @@ Yeshua les dice: "Llenen las tinajas con agua." Y las llenaron hasta arriba.
 
 ### **Versículo 8**
 
-Y les dice: "Saquen ahora y lleven *lo* al jefe de mesa." Y *lo* llevaron.
+Y les dice: @@"Saquen ahora y lleven *lo* al jefe de mesa."@@ Y *lo* llevaron.
 
 > **📝 NOTAS**
 >
@@ -302,7 +302,7 @@ Y habiendo hecho un latigo de cuerdas, los expulso a todos del *complejo del* te
 
 ### **Versículo 16**
 
-Y a los que vendian las palomas les dijo: "Quiten estas *cosas* de aquí; no hagan de la casa de mí Padre una casa de comercio."
+Y a los que vendian las palomas les dijo: @@"Quiten estas *cosas* de aquí; no hagan de la casa de mí Padre una casa de comercio."@@
 
 > **📝 NOTAS**
 >
@@ -344,7 +344,7 @@ Entonces los yehudim respondieron y le dijeron: "¿Qué señal nos muestras, *da
 
 ### **Versículo 19**
 
-Yeshua respondió y les dijo: "Destruyan este santuario, y en tres días lo levantare."
+Yeshua respondió y les dijo: @@"Destruyan este santuario, y en tres días lo levantare."@@
 
 > **📝 NOTAS**
 >

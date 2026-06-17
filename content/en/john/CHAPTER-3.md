@@ -61,17 +61,17 @@
 
 ---
 
-¹And there was a man from the Perushim (Pharisees) — Nikodemos (Nicodemus) *was* his name — a ruler of the Yehudim. ²This one came to him at night and said to him, "Rabbi, we know that you have come from God *as* a teacher, for no one is able to do these signs that you do unless God is with him." ³Yeshua (Jesus) answered and said to him, "Amen, amen, I say to you, unless someone is born from above/again, he is not able to see the kingdom of God." ⁴Nicodemus says to him, "How is a man able to be born, being old? He is not able to enter into the womb of his mother a second time and be born, *is he*?" ⁵Jesus answered, "Amen, amen, I say to you, unless someone is born of water and wind/spirit, he is not able to enter into the kingdom of God. ⁶That which has been born of the flesh is flesh, and that which has been born of the wind/spirit is wind/spirit. ⁷Do not marvel that I said to you, 'You must be born from above/again.' ⁸The wind/spirit blows where it wills, and you hear its sound, but you do not know where it comes from and where it goes; so is everyone who has been born of the wind/spirit."
+¹And there was a man from the Perushim (Pharisees) — Nikodemos (Nicodemus) *was* his name — a ruler of the Yehudim. ²This one came to him at night and said to him, "Rabbi, we know that you have come from God *as* a teacher, for no one is able to do these signs that you do unless God is with him." ³Yeshua (Jesus) answered and said to him, @@"Amen, amen, I say to you, unless someone is born {a:from above/again}, he is not able to see the kingdom of God."@@ ⁴Nicodemus says to him, "How is a man able to be born, being old? He is not able to enter into the womb of his mother a second time and be born, *is he*?" ⁵Jesus answered, @@"Amen, amen, I say to you, unless someone is born of water and {a:wind/spirit}, he is not able to enter into the kingdom of God. ⁶That which has been born of the flesh is flesh, and that which has been born of the {a:wind/spirit} is {a:wind/spirit}. ⁷Do not marvel that I said to you, 'You must be born {a:from above/again}.' ⁸The {a:wind/spirit} blows where it wills, and you hear its sound, but you do not know where it comes from and where it goes; so is everyone who has been born of the {a:wind/spirit}."@@
 
-⁹Nicodemus answered and said to him, "How are these things able to be?" ¹⁰Jesus answered and said to him, "You are the teacher of Yisrael (Israel) and you do not know these things? ¹¹Amen, amen, I say to you, we speak what we know and we testify *to* what we have seen, and you do not receive our testimony. ¹²If I told you earthly things and you do not trust, how will you trust if I tell you heavenly things? ¹³And no one has gone up into the sky except the one who came down from the sky — the son of man. ¹⁴And just as Mosheh (Moses) lifted up the serpent in the wilderness, so must the son of man be lifted up, ¹⁵so that everyone trusting in him may have life of the age."
+⁹Nicodemus answered and said to him, "How are these things able to be?" ¹⁰Jesus answered and said to him, @@"You are the teacher of Yisrael (Israel) and you do not know these things? ¹¹Amen, amen, I say to you, we speak what we know and we testify *to* what we have seen, and you do not receive our testimony. ¹²If I told you earthly things and you do not trust, how will you trust if I tell you heavenly things? ¹³And no one has gone up into the sky except the one who came down from the sky — the son of man. ¹⁴And just as Mosheh (Moses) lifted up the serpent in the wilderness, so must the son of man be lifted up, ¹⁵so that everyone trusting in him may have life of the age."@@
 
-¹⁶"For God so loved the world that he gave the only-born son, so that everyone trusting in him should not perish but have life of the age. ¹⁷For God did not send the son into the world so that he might judge the world, but so that the world might be saved through him. ¹⁸The one trusting in him is not judged; the one not trusting has already been judged, because he has not trusted in the name of the only-born son of God. ¹⁹And this is the judgment: that the light has come into the world, and humans loved the darkness rather than the light, for their works were evil. ²⁰For everyone practicing worthless *things* hates the light and does not come to the light, so that his works may not be exposed. ²¹But the one doing the truth comes to the light, so that his works may be made evident — that they have been worked in God."
+¹⁶@@"For God so loved the world that he gave the only-born son, so that everyone trusting in him should not perish but have life of the age. ¹⁷For God did not send the son into the world so that he might judge the world, but so that the world might be saved through him. ¹⁸The one trusting in him is not judged; the one not trusting has already been judged, because he has not trusted in the name of the only-born son of God. ¹⁹And this is the judgment: that the light has come into the world, and humans loved the darkness rather than the light, for their works were evil. ²⁰For everyone practicing worthless *things* hates the light and does not come to the light, so that his works may not be exposed. ²¹But the one doing the truth comes to the light, so that his works may be made evident — that they have been worked in God."@@
 
 ²²After these things Jesus and his followers came into the Yehudean land, and there he was spending time with them and immersing. ²³And Yochanan (John) also was immersing in Ainon near Shalim, because there was much water there, and *people* were coming and being immersed — ²⁴for John had not yet been thrown into prison.
 
 ²⁵Then a dispute arose from the followers of John with a Yehudi concerning purification. ²⁶And they came to John and said to him, "Rabbi, the one who was with you beyond the Yarden (Jordan), to whom you have testified — see, this one immerses, and all are coming to him." ²⁷John answered and said, "A man is not able to receive anything unless it has been given to him from the sky. ²⁸You yourselves testify for me that I said, 'I am not the anointed one,' but, 'I have been sent before that one.' ²⁹The one having the bride is the bridegroom; but the friend of the bridegroom, who stands and hears him, rejoices with joy because of the voice of the bridegroom. This joy of mine, then, has been fulfilled. ³⁰That one must increase, but I must decrease."
 
-³¹"The one coming from above is above all. The one being from the earth is from the earth and speaks from the earth. The one coming from the sky is above all. ³²What he has seen and heard — this he testifies, and no one receives his testimony. ³³The one who received his testimony has set *his* seal that God is true. ³⁴For the one whom God sent speaks the words of God, for he does not give the wind/spirit by measure. ³⁵The father loves the son and has given all things into his hand. ³⁶The one trusting in the son has life of the age; but the one disobeying the son will not see life, but the wrath of God remains upon him."
+³¹"The one coming from above is above all. The one being from the earth is from the earth and speaks from the earth. The one coming from the sky is above all. ³²What he has seen and heard — this he testifies, and no one receives his testimony. ³³The one who received his testimony has set *his* seal that God is true. ³⁴For the one whom God sent speaks the words of God, for he does not give the {a:wind/spirit} by measure. ³⁵The father loves the son and has given all things into his hand. ³⁶The one trusting in the son has life of the age; but the one disobeying the son will not see life, but the wrath of God remains upon him."
 
 ---
 
@@ -107,7 +107,7 @@ This one came to him at night and said to him, "Rabbi, we know that you have com
 
 ### **Verse 3**
 
-Yeshua (Jesus) answered and said to him, "Amen, amen, I say to you, unless someone is born from above/again, he is not able to see the kingdom of God."
+Yeshua (Jesus) answered and said to him, @@"Amen, amen, I say to you, unless someone is born {a:from above/again}, he is not able to see the kingdom of God."@@
 
 > **📝 NOTES**
 >
@@ -138,7 +138,7 @@ Nikodemos (Nicodemus) says to him, "How is a man able to be born, being old? He 
 
 ### **Verse 5**
 
-Yeshua (Jesus) answered, "Amen, amen, I say to you, unless someone is born of water and wind/spirit, he is not able to enter into the kingdom of God."
+Yeshua (Jesus) answered, @@"Amen, amen, I say to you, unless someone is born of water and {a:wind/spirit}, he is not able to enter into the kingdom of God."@@
 
 > **📝 NOTES**
 >
@@ -152,7 +152,7 @@ Yeshua (Jesus) answered, "Amen, amen, I say to you, unless someone is born of wa
 
 ### **Verse 6**
 
-That which has been born of the flesh is flesh, and that which has been born of the wind/spirit is wind/spirit.
+@@That which has been born of the flesh is flesh, and that which has been born of the {a:wind/spirit} is {a:wind/spirit}.@@
 
 > **📝 NOTES**
 >
@@ -166,7 +166,7 @@ That which has been born of the flesh is flesh, and that which has been born of 
 
 ### **Verse 7**
 
-Do not marvel that I said to you, "You must be born from above/again."
+@@Do not marvel that I said to you, "You must be born {a:from above/again}."@@
 
 > **📝 NOTES**
 >
@@ -180,7 +180,7 @@ Do not marvel that I said to you, "You must be born from above/again."
 
 ### **Verse 8**
 
-The wind/spirit blows where it wills, and you hear its sound, but you do not know where it comes from and where it goes; so is everyone who has been born of the wind/spirit.
+@@The {a:wind/spirit} blows where it wills, and you hear its sound, but you do not know where it comes from and where it goes; so is everyone who has been born of the {a:wind/spirit}.@@
 
 > **📝 NOTES**
 >
@@ -208,7 +208,7 @@ Nikodemos (Nicodemus) answered and said to him, "How are these things able to be
 
 ### **Verse 10**
 
-Yeshua (Jesus) answered and said to him, "You are the teacher of Yisrael (Israel) and you do not know these things?"
+Yeshua (Jesus) answered and said to him, @@"You are the teacher of Yisrael (Israel) and you do not know these things?"@@
 
 > **📝 NOTES**
 >
@@ -219,7 +219,7 @@ Yeshua (Jesus) answered and said to him, "You are the teacher of Yisrael (Israel
 
 ### **Verse 11**
 
-Amen, amen, I say to you, we speak what we know and we testify *to* what we have seen, and you do not receive our testimony.
+@@Amen, amen, I say to you, we speak what we know and we testify *to* what we have seen, and you do not receive our testimony.@@
 
 > **📝 NOTES**
 >
@@ -233,7 +233,7 @@ Amen, amen, I say to you, we speak what we know and we testify *to* what we have
 
 ### **Verse 12**
 
-If I told you earthly things and you do not trust, how will you trust if I tell you heavenly things?
+@@If I told you earthly things and you do not trust, how will you trust if I tell you heavenly things?@@
 
 > **📝 NOTES**
 >
@@ -244,7 +244,7 @@ If I told you earthly things and you do not trust, how will you trust if I tell 
 
 ### **Verse 13**
 
-And no one has gone up into the sky except the one who came down from the sky — the son of man.
+@@And no one has gone up into the sky except the one who came down from the sky — the son of man.@@
 
 > **📝 NOTES**
 >
@@ -258,7 +258,7 @@ And no one has gone up into the sky except the one who came down from the sky �
 
 ### **Verse 14**
 
-And just as Mosheh (Moses) lifted up the serpent in the wilderness, so must the son of man be lifted up,
+@@And just as Mosheh (Moses) lifted up the serpent in the wilderness, so must the son of man be lifted up,@@
 
 > **📝 NOTES**
 >
@@ -272,7 +272,7 @@ And just as Mosheh (Moses) lifted up the serpent in the wilderness, so must the 
 
 ### **Verse 15**
 
-so that everyone trusting in him may have life of the age.
+@@so that everyone trusting in him may have life of the age.@@
 
 > **📝 NOTES**
 >
@@ -286,7 +286,7 @@ so that everyone trusting in him may have life of the age.
 
 ### **Verse 16**
 
-"For God so loved the world that he gave the only-born son, so that everyone trusting in him should not perish but have life of the age."
+@@"For God so loved the world that he gave the only-born son, so that everyone trusting in him should not perish but have life of the age."@@
 
 > **📝 NOTES**
 >
@@ -306,7 +306,7 @@ so that everyone trusting in him may have life of the age.
 
 ### **Verse 17**
 
-For God did not send the son into the world so that he might judge the world, but so that the world might be saved through him.
+@@For God did not send the son into the world so that he might judge the world, but so that the world might be saved through him.@@
 
 > **📝 NOTES**
 >
@@ -320,7 +320,7 @@ For God did not send the son into the world so that he might judge the world, bu
 
 ### **Verse 18**
 
-The one trusting in him is not judged; the one not trusting has already been judged, because he has not trusted in the name of the only-born son of God.
+@@The one trusting in him is not judged; the one not trusting has already been judged, because he has not trusted in the name of the only-born son of God.@@
 
 > **📝 NOTES**
 >
@@ -334,7 +334,7 @@ The one trusting in him is not judged; the one not trusting has already been jud
 
 ### **Verse 19**
 
-And this is the judgment: that the light has come into the world, and humans loved the darkness rather than the light, for their works were evil.
+@@And this is the judgment: that the light has come into the world, and humans loved the darkness rather than the light, for their works were evil.@@
 
 > **📝 NOTES**
 >
@@ -348,7 +348,7 @@ And this is the judgment: that the light has come into the world, and humans lov
 
 ### **Verse 20**
 
-For everyone practicing worthless *things* hates the light and does not come to the light, so that his works may not be exposed.
+@@For everyone practicing worthless *things* hates the light and does not come to the light, so that his works may not be exposed.@@
 
 > **📝 NOTES**
 >
@@ -362,7 +362,7 @@ For everyone practicing worthless *things* hates the light and does not come to 
 
 ### **Verse 21**
 
-But the one doing the truth comes to the light, so that his works may be made evident — that they have been worked in God.
+@@But the one doing the truth comes to the light, so that his works may be made evident — that they have been worked in God.@@
 
 > **📝 NOTES**
 >
@@ -523,7 +523,7 @@ The one who received his testimony has set *his* seal that God is true.
 
 ### **Verse 34**
 
-For the one whom God sent speaks the words of God, for he does not give the wind/spirit by measure.
+For the one whom God sent speaks the words of God, for he does not give the {a:wind/spirit} by measure.
 
 > **📝 NOTES**
 >
