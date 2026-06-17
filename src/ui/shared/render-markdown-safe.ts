@@ -42,8 +42,27 @@ function convertTable(tableBlock: string): string {
   return html;
 }
 
+/**
+ * Converts the TT text-highlight markers (authored in content) into styled
+ * spans. Run AFTER escapeHtml so the emitted spans survive, and BEFORE the
+ * bold/italic passes so `*added*` words inside a `@@divine@@` span still resolve.
+ *
+ *   {t:raqia}        → transliterated strategic term (Rule 4)   → .term  (teal)
+ *   {a:wind/spirit}  → preserved ambiguity (Rule 2)             → .ambig (ochre)
+ *   @@…@@            → direct divine speech (Rule 30)           → .divine (red)
+ *
+ * `*word*` (added words, Rule 11) keeps the standard italic pass below.
+ */
+function applyHighlightMarkers(html: string): string {
+  return html
+    .replace(/\{t:([^}]*)\}/g, '<span class="term">$1</span>')
+    .replace(/\{a:([^}]*)\}/g, '<span class="ambig">$1</span>')
+    .replace(/@@([\s\S]*?)@@/g, '<span class="divine">$1</span>');
+}
+
 export function renderInlineSafe(text: string): string {
   let html = escapeHtml(text);
+  html = applyHighlightMarkers(html);
   html = html.replace(/\*\*([^*]+)\*\*/g, "<strong>$1</strong>");
   html = html.replace(/\*([^*]+)\*/g, "<em>$1</em>");
   return html;
@@ -78,6 +97,9 @@ export function renderMarkdownSafe(
   for (const { placeholder, html: tableHtml } of tables) {
     html = html.replace(escapeHtml(placeholder), tableHtml);
   }
+
+  // TT highlight markers ({t:…}, {a:…}, @@…@@) → styled spans, before bold/italic.
+  html = applyHighlightMarkers(html);
 
   if (subset === "note") {
     html = html.replace(/\*\*([^*]+)\*\*/g, "<strong>$1</strong>");

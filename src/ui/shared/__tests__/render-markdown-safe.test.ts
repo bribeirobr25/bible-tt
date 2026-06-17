@@ -1,5 +1,5 @@
 import { describe, expect, it } from "vitest";
-import { renderMarkdownSafe } from "../render-markdown-safe";
+import { renderInlineSafe, renderMarkdownSafe } from "../render-markdown-safe";
 
 describe("renderMarkdownSafe", () => {
   describe("HTML escaping", () => {
@@ -64,6 +64,48 @@ describe("renderMarkdownSafe", () => {
     it("converts newlines to <br/>", () => {
       const result = renderMarkdownSafe("line one\nline two", "note");
       expect(result).toContain("<br/>");
+    });
+  });
+
+  describe("TT highlight markers (Rules 2/4/11/30)", () => {
+    it("{t:…} → .term span (transliteration, Rule 4)", () => {
+      expect(renderMarkdownSafe("the {t:raqia} above", "prose")).toBe(
+        'the <span class="term">raqia</span> above',
+      );
+    });
+
+    it("{a:…} → .ambig span (preserved ambiguity, Rule 2)", () => {
+      expect(renderMarkdownSafe("{a:wind/spirit} of God", "prose")).toBe(
+        '<span class="ambig">wind/spirit</span> of God',
+      );
+    });
+
+    it("@@…@@ → .divine span (divine speech, Rule 30)", () => {
+      expect(renderMarkdownSafe('God said, @@"light"@@.', "prose")).toBe(
+        'God said, <span class="divine">"light"</span>.',
+      );
+    });
+
+    it("resolves a transliteration + added word nested inside divine speech", () => {
+      const out = renderMarkdownSafe('@@"Shall be *a* {t:raqia}"@@', "prose");
+      expect(out).toBe(
+        '<span class="divine">"Shall be <em>a</em> <span class="term">raqia</span>"</span>',
+      );
+    });
+
+    it("escapes HTML inside marker content", () => {
+      expect(renderMarkdownSafe("{t:<x>}", "prose")).toBe(
+        '<span class="term">&lt;x&gt;</span>',
+      );
+    });
+
+    it("markers also work in renderInlineSafe and the note subset", () => {
+      expect(renderInlineSafe("{t:raqia}")).toBe(
+        '<span class="term">raqia</span>',
+      );
+      expect(renderMarkdownSafe("{a:sin/punishment}", "note")).toContain(
+        '<span class="ambig">sin/punishment</span>',
+      );
     });
   });
 

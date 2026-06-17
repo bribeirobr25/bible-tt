@@ -504,8 +504,14 @@ html.tt-js .reveal.in {
 
 /* in-reading rule-related words, highlighted so the reader sees them clearly:
    transliterations (teal) and grammatical additions / Rule-11 italics (ochre). */
-.reading-text .term { color: var(--color-accent); font-style: italic; }
-.reading-text em { color: var(--color-ochre); font-style: italic; }
+/* TT text-highlight markers: {t:…}→.term (Rule 4), {a:…}→.ambig (Rule 2),
+   @@…@@→.divine (Rule 30); *added*→em (Rule 11). Coherent token hierarchy:
+   teal = kept source term · ochre = two meanings · red = divine speech ·
+   grammatical-blue italic = words added for target grammar. */
+.term { color: var(--color-accent); font-weight: 600; }
+.ambig { color: var(--color-ochre); font-weight: 600; }
+.divine { color: var(--color-note-critical); font-weight: 600; }
+.reading-text em { color: var(--color-note-grammatical); font-style: italic; }
 
 /* collapsible disclosure (overview, supplementary, sources) */
 .tt-details { border: 1px solid var(--color-border); border-radius: 10px; background: var(--color-bg-surface); margin-bottom: 14px; overflow: hidden; }
@@ -521,7 +527,7 @@ html.tt-js .reveal.in {
 .tt-verse .vhead { display: flex; align-items: baseline; gap: 14px; margin-bottom: 12px; }
 .tt-verse .vnum { font-family: var(--font-mono); font-weight: 600; font-size: 14px; color: var(--color-petrol); flex: none; }
 .tt-verse .vtext { font-family: var(--font-reading); font-size: clamp(1.12rem, 1.4vw, 1.28rem); line-height: 1.75; color: var(--color-text-primary); }
-.tt-verse .vtext em { font-style: italic; color: var(--color-text-secondary); }
+.tt-verse .vtext em { font-style: italic; color: var(--color-note-grammatical); }
 .tt-verse .copy { margin-left: auto; font-family: var(--font-mono); font-size: 11px; color: var(--color-text-muted); border: 1px solid var(--color-border); border-radius: 6px; padding: 4px 8px; cursor: pointer; background: none; flex: none; transition: color 0.2s, border-color 0.2s; }
 .tt-verse .copy:hover { color: var(--color-accent); border-color: var(--color-accent); }
 .tt-notes { margin-top: 14px; display: grid; gap: 10px; }
