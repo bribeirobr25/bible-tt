@@ -259,6 +259,10 @@ const EXACT_LABEL_ALIASES: Record<FieldId, string[]> = {
     "em joão",
     "in johannes",
     "en juan",
+    "in mark",
+    "em marcos",
+    "in markus",
+    "en marcos",
   ],
   historicityStatus: [
     "historicity status",

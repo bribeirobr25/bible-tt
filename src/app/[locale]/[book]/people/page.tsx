@@ -98,6 +98,7 @@ export default async function PeoplePage({
   const bookLabels: Record<string, string> = {
     genesis: t("book.genesis"),
     matthew: t("book.matthew"),
+    mark: t("book.mark"),
     john: t("book.john"),
   };
 
