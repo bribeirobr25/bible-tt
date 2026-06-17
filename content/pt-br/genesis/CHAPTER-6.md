@@ -66,7 +66,7 @@
 
 ⁹Estas *são* as gerações de Noé. Noé *era* um homem justo, íntegro em suas gerações; com Deus andou Noé. ¹⁰E Noé gerou três filhos: Shem, Cham (Cam) e Yafet (Jafé). ¹¹E a terra estava corrompida diante de Deus, e a terra estava cheia de violência. ¹²E Deus viu a terra, e eis que estava corrompida, pois toda carne havia corrompido o seu caminho sobre a terra. ¹³E Deus disse a Noé: @@"O fim de toda carne veio diante de mim, pois a terra está cheia de violência por causa deles, e eis que eu *os* destruo com a terra.@@
 
-¹⁴@@Faze para ti uma {t:tebah} de madeira de {t:gofer}; compartimentos farás *na* {t:tebah}, e a cobrirás por dentro e por fora com kopher. ¹⁵E assim *é como* a farás: trezentos côvados o comprimento da {t:tebah}, cinquenta côvados a sua largura, e trinta côvados a sua altura. ¹⁶Um tsohar farás para a {t:tebah}, e a um côvado a terminarás por cima, e a porta da {t:tebah} porás na sua lateral; andar inferior, segundo e terceiro a farás.@@
+¹⁴@@Faze para ti uma {t:tebah} de madeira de {t:gopher}; compartimentos farás *na* {t:tebah}, e a cobrirás por dentro e por fora com kopher. ¹⁵E assim *é como* a farás: trezentos côvados o comprimento da {t:tebah}, cinquenta côvados a sua largura, e trinta côvados a sua altura. ¹⁶Um tsohar farás para a {t:tebah}, e a um côvado a terminarás por cima, e a porta da {t:tebah} porás na sua lateral; andar inferior, segundo e terceiro a farás.@@
 
 ¹⁷@@E eu, eis que eu *estou* trazendo o dilúvio de águas sobre a terra, para destruir toda carne em que *há* fôlego de vida debaixo dos céus; tudo o que *está* sobre a terra morrerá. ¹⁸Mas estabelecerei a minha aliança contigo, e entrarás na {t:tebah} — tu e teus filhos e tua mulher e as mulheres de teus filhos contigo. ¹⁹E de todo vivente, de toda carne, dois de todos trarás à {t:tebah} para manter vivos contigo; macho e fêmea serão. ²⁰Da ave segundo a sua espécie, e do gado segundo a sua espécie, de todo réptil do solo segundo a sua espécie, dois de todos virão a ti para manter vivos. ²¹E tu, toma para ti de todo alimento que se come, e ajunta para ti, e será para alimento para ti e para eles."@@ ²²E Noé fez conforme tudo o que Deus lhe ordenou; assim fez.
 
@@ -235,7 +235,7 @@ E Deus disse a Noé: @@"O fim de toda carne veio diante de mim, pois a terra est
 
 ### **Versículo 14**
 
-@@Faze para ti uma {t:tebah} de madeira de {t:gofer}; compartimentos farás *na* {t:tebah}, e a cobrirás por dentro e por fora com kopher.@@
+@@Faze para ti uma {t:tebah} de madeira de {t:gopher}; compartimentos farás *na* {t:tebah}, e a cobrirás por dentro e por fora com kopher.@@
 
 > **📝 NOTAS**
 >

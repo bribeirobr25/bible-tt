@@ -60,7 +60,7 @@
 
 ---
 
-¹And YHWH said to Avram (Abram), @@"Go, yourself, from your land and from your birthplace and from your father's house, to the land which I will show you. ²And I will make you into a great nation, and I will bless you, and I will make your name great — and be a blessing. ³And I will bless those who bless you, and the one who curses you I will curse, and all the families of the ground {a:will be blessed/will bless themselves} in you."@@
+¹And YHWH said to Avram (Abram), @@"Go, yourself, from your land and from your birthplace and from your father's house, to the land which I will show you. ²And I will make you into a great nation, and I will bless you, and I will make your name great — and be a blessing. ³And I will bless those who bless you, and the one who curses you I will curse, and all the families of the ground {a:will be blessed / will bless themselves} in you."@@
 
 ⁴And Abram went as YHWH had spoken to him, and Lot went with him; and Abram *was* seventy-five years, a son of, when he went out from Charan. ⁵And Abram took Sarai his wife, and Lot the son of his brother, and all their possessions which they had gathered, and the persons which they had made in Charan, and they went out to go to the land of Kenaan (Canaan), and they came to the land of Canaan.
 
@@ -109,7 +109,7 @@ And YHWH said to Avram (Abram), @@"Go, yourself, from your land and from your bi
 
 ### **Verse 3**
 
-@@And I will bless those who bless you, and the one who curses you I will curse, and all the families of the ground {a:will be blessed/will bless themselves} in you."@@
+@@And I will bless those who bless you, and the one who curses you I will curse, and all the families of the ground {a:will be blessed / will bless themselves} in you."@@
 
 > **📝 NOTES**
 >

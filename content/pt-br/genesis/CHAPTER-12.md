@@ -61,7 +61,7 @@
 
 ---
 
-¹E YHWH disse a Avram (Abrão): @@"Vai-te da tua terra e do teu nascimento e da casa de teu pai, para a terra que eu te mostrarei. ²E eu farei de ti uma grande nação, e te abençoarei, e engrandecerei o teu nome — e sê uma bênção. ³E abençoarei os que te abençoarem, e o que te amaldiçoar eu amaldiçoarei, e todas as famílias do solo {a:serão abençoadas/se abençoarão} em ti."@@
+¹E YHWH disse a Avram (Abrão): @@"Vai-te da tua terra e do teu nascimento e da casa de teu pai, para a terra que eu te mostrarei. ²E eu farei de ti uma grande nação, e te abençoarei, e engrandecerei o teu nome — e sê uma bênção. ³E abençoarei os que te abençoarem, e o que te amaldiçoar eu amaldiçoarei, e todas as famílias do solo {a:serão abençoadas / se abençoarão} em ti."@@
 
 ⁴E Abrão foi como YHWH lhe havia falado, e Lot foi com ele; e Abrão *tinha* setenta e cinco anos, filho de, quando saiu de Charan. ⁵E Abrão tomou Sarai sua esposa, e Lot o filho de seu irmão, e todos os seus bens que haviam acumulado, e as pessoas que haviam feito em Charan, e saíram para ir à terra de Kenaan (Canaã), e chegaram à terra de Canaã.
 
@@ -110,7 +110,7 @@ E YHWH disse a Avram (Abrão): @@"Vai-te da tua terra e do teu nascimento e da c
 
 ### **Versículo 3**
 
-@@E abençoarei os que te abençoarem, e o que te amaldiçoar eu amaldiçoarei, e todas as famílias do solo {a:serão abençoadas/se abençoarão} em ti."@@
+@@E abençoarei os que te abençoarem, e o que te amaldiçoar eu amaldiçoarei, e todas as famílias do solo {a:serão abençoadas / se abençoarão} em ti."@@
 
 > **📝 NOTAS**
 >

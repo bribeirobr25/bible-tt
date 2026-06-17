@@ -60,7 +60,7 @@
 
 ---
 
-¹Und JHWH sprach zu Avram (Abram): @@„Geh, du selbst, aus deinem Land und aus deiner Geburtsstätte und aus dem Haus deines Vaters, in das Land, das ich dir zeigen werde. ²Und ich werde dich zu einer großen Nation machen, und ich werde dich segnen, und ich werde deinen Namen groß machen — und sei ein Segen. ³Und ich werde segnen, die dich segnen, und wer dich verachtet, den werde ich verfluchen, und alle Sippen des Bodens {a:werden gesegnet werden/werden sich segnen} in dir."@@
+¹Und JHWH sprach zu Avram (Abram): @@„Geh, du selbst, aus deinem Land und aus deiner Geburtsstätte und aus dem Haus deines Vaters, in das Land, das ich dir zeigen werde. ²Und ich werde dich zu einer großen Nation machen, und ich werde dich segnen, und ich werde deinen Namen groß machen — und sei ein Segen. ³Und ich werde segnen, die dich segnen, und wer dich verachtet, den werde ich verfluchen, und alle Sippen des Bodens {a:werden gesegnet werden / werden sich segnen} in dir."@@
 
 ⁴Und Abram ging, wie JHWH zu ihm gesprochen hatte, und Lot ging mit ihm; und Abram *war* fünfundsiebzig Jahre, ein Sohn von, als er aus Charan auszog. ⁵Und Abram nahm Sarai, seine Frau, und Lot, den Sohn seines Bruders, und all ihren Besitz, den sie gesammelt hatten, und die Personen, die sie in Charan gemacht hatten, und sie zogen aus, um in das Land Kenaan (Kanaan) zu gehen, und sie kamen in das Land Kanaan.
 
@@ -109,7 +109,7 @@ Und JHWH sprach zu Avram (Abram): @@„Geh, du selbst, aus deinem Land und aus d
 
 ### **Vers 3**
 
-@@Und ich werde segnen, die dich segnen, und wer dich verachtet, den werde ich verfluchen, und alle Sippen des Bodens {a:werden gesegnet werden/werden sich segnen} in dir."@@
+@@Und ich werde segnen, die dich segnen, und wer dich verachtet, den werde ich verfluchen, und alle Sippen des Bodens {a:werden gesegnet werden / werden sich segnen} in dir."@@
 
 > **📝 NOTIZEN**
 >

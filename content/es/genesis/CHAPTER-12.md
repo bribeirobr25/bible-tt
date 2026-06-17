@@ -61,7 +61,7 @@
 
 ---
 
-¹Y YHWH dijo a Abrán: @@"Ve, tú mismo, de tu tierra y de tu lugar de nacimiento y de la casa de tu padre, a la tierra que yo te mostraré. ²Y te haré una gran nación, y te bendeciré, y engrandeceré tu nombre — y sé una bendición. ³Y bendeciré a los que te bendigan, y al que te maldiga yo maldeciré, y todas las familias del suelo {a:serán bendecidas/se bendecirán} en ti."@@
+¹Y YHWH dijo a Abrán: @@"Ve, tú mismo, de tu tierra y de tu lugar de nacimiento y de la casa de tu padre, a la tierra que yo te mostraré. ²Y te haré una gran nación, y te bendeciré, y engrandeceré tu nombre — y sé una bendición. ³Y bendeciré a los que te bendigan, y al que te maldiga yo maldeciré, y todas las familias del suelo {a:serán bendecidas / se bendecirán} en ti."@@
 
 ⁴Y Abrán fue como YHWH le había hablado, y Lot fue con él; y Abrán *tenía* setenta y cinco años, hijo de, cuando salió de Jarán. ⁵Y Abrán tomó a Sarai su esposa, y a Lot el hijo de su hermano, y todas sus posesiones que habían reunido, y las personas que habían hecho en Jarán, y salieron para ir a la tierra de Canaán, y llegaron a la tierra de Canaán.
 
@@ -110,7 +110,7 @@ Y YHWH dijo a Abrán: @@"Ve, tú mismo, de tu tierra y de tu lugar de nacimiento
 
 ### **Versículo 3**
 
-@@Y bendeciré a los que te bendigan, y al que te maldiga yo maldeciré, y todas las familias del suelo {a:serán bendecidas/se bendecirán} en ti."@@
+@@Y bendeciré a los que te bendigan, y al que te maldiga yo maldeciré, y todas las familias del suelo {a:serán bendecidas / se bendecirán} en ti."@@
 
 > **📝 NOTAS**
 >
