@@ -2,7 +2,7 @@
 
 **The single forward-looking tracker.** Lists only what is *still to be done*. Closed work lives in the editorial logs (`docs/editorial-log/`) and the execution history (`docs/audit/EXECUTION_HISTORY.md`).
 
-**Last updated:** 2026-06-17.
+**Last updated:** 2026-06-18.
 
 ---
 
@@ -77,4 +77,5 @@ Drop into the named section when that book is authored:
 - **Non-EN em-dash sweep** — remaining instances are deliberate future-authoring territory, not regressions.
 - **Items 20 / 27 / 28** — PARTIAL with documented mitigation (John 3:16–21 speech-boundary; Section H Type-tag taxonomy; AI/editorial provenance ratio).
 - **Book-card content not yet in the Phase-2 structured layer** — wire in when Phase 6 search lands.
+- **Nested emphasis in companion-body prose breaks rendering (no lint guard).** `render-markdown-safe.ts`'s bold pass is `/\*\*([^*]+)\*\*/` — its content class cannot hold a nested `*italic*`, so `**…*x*…**` in *body* prose renders with stray asterisks. Note/glossary headers are immune (the note parser regex `^([🔴🟢🔵🟡])\s+\*\*(.+?)\*\*` strips the outer `**`, so the inner italic renders standalone). All *known* instances are fixed (en john ch1 §B4/§IB-7, genesis ch2 §D list-item, john ch3 §; 2026-06-18). Residual risk: future authoring can silently reintroduce the pattern, and the non-EN locales were not swept. Two follow-ups, both needing planning: (a) add a `content:lint` guard — a split-on-`**` detector over `study/` body lines (excluding emoji/structured headers) — to catch regressions across all locales; (b) optionally harden the renderer to support one level of italic-in-bold so authors aren't constrained. Low-priority; no current visible defect.
 - **Redundant `Name (Name)` cleanup (v3.3.1)** — ~120 occurrences across ~30 files where the familiar form and the transliterated form coincide and collapse to `Name (Name)` (e.g. `Maria (Maria)`, `Nazareth (Nazareth)`, `David (David)`, `Tamar (Tamar)`). v3.3.1 forbids the redundant doubling — the form should appear once. Concentrated in **DE** chapters and in **PEOPLE.md across all four locales**. `content:lint` currently surfaces only 2 (de/matthew); the rest are below the lint's allow-listed threshold. Needs a per-instance human pass — most are pure redundancy to delete, but a few sit in comparison-table cells (e.g. two distinct same-named figures side by side) and are intentional. Low-priority cosmetic; no parser/UI impact.

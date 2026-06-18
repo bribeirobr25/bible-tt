@@ -218,7 +218,7 @@ Hebrew *beyom* can mean a literal 24-hour day or serve as an idiom meaning "when
 This matters especially for the apparent tension between 2:17 ("in the day you eat... dying you shall die") and Gen 5:5 (Adam lives 930 years before dying — much later than "the day" of eating). Genesis 5:5 is the textual flashpoint: the warning of 2:17 and the reported lifespan stand unreconciled in the narrative.
 
 Historic interpretive solutions are all **POSSIBLE**; none is imposed by the text:
-1. ***beyom* as idiomatic "when"** — not a literal 24-hour day; the clause means simply "at the time you eat from it you will certainly die." Most common resolution; well-supported by *beyom* usage elsewhere (e.g., Gen 2:4).
+1. **beyom as idiomatic "when"** — not a literal 24-hour day; the clause means simply "at the time you eat from it you will certainly die." Most common resolution; well-supported by *beyom* usage elsewhere (e.g., Gen 2:4).
 2. **Death as process activated at eating** — the mortality process begins at the moment of eating and reaches its biological conclusion later (930 years later in Adam's case). Death is initiated, not instantaneous.
 3. **"Day" as divine-scale time** — cf. Psalm 90:4 ("a thousand years in your sight are like yesterday"). Under this reading, Adam's 930 years falls within "one day" from God's perspective.
 4. **Spiritual death preceding physical death** — the "dying you shall die" refers first to relational/spiritual separation from God (immediate) and only later to biological death (eventual). This reading distinguishes two kinds of death.
