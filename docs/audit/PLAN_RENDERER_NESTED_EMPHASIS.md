@@ -124,6 +124,8 @@ Because the change is **purely additive for non-nested input** (every existing t
 - **Conservation diff** = 0 (no unit-count change).
 - **Cross-locale curl** (en/de/es/pt-br): the 96 lines → assert `0` literal `*`/`**` in the rendered (RSC-stripped) HTML on `/{loc}/john/background`, `/{loc}/matthew/background`, `/{loc}/genesis/introduction`, and ≥2 chapter Read pages with cross-ref labels.
 - **MCP visual** screenshots of `/en/john/background` + `/en/genesis/introduction` (the worst offenders) confirming bold+italic labels, no asterisks, layout intact.
+- **i18n strings** (`renderInlineSafe` consumer): re-run the old-vs-new diff over `messages/*.json` (must stay 0 diffs — §12); spot-check `/{loc}/rules` + landing render unchanged.
+- **SEO/meta** (separate strip path): confirm `<meta name="description">` on a chapter page is unchanged before/after (no new `*`/`**`).
 
 **Optional regression guard:** a `content:lint` check that flags *unbalanced* `**`/`*` in body lines (the only remaining unsupported shape post-hardening). Lightweight; decide during Step 3.
 
@@ -157,4 +159,29 @@ Each step is one commit on `content-multibook-expansion`; `git revert` of step N
 
 1. **Adopt 4c (table-cell marker support) now or defer?** It removes the 4th copy but introduces a new cell capability (R4). Recommend: yes, after the R4 audit shows no raw-`{`/`@@` cells.
 2. **Step 4 locale parity** — re-italicize the 4 EN lines (recommended, for consistency) or leave them de-italicized? Either is gate-safe.
-3. **Optional content:lint unbalanced-`**` guard** — include now or leave to Tier 2? Low effort; recommend including in Step 3.
+3. **content:lint unbalanced-`**` guard** — *promoted to recommended* by the §12 audit (the unbalanced fallback degrades messily, though 0 instances exist today). Include in Step 3.
+
+---
+
+## 12. Pre-execution audit — empirical validation (2026-06-19)
+
+Rather than trust the §4b hand-traces, the proposed `applyEmphasis` (markers → tempered bold → italic) was reproduced faithfully in Node and run **old-vs-new over the entire corpus**. Results:
+
+**Content corpus (`content/**/*.md`):**
+- **31,057** lines containing `*` scanned.
+- **1,025** lines change old→new, and **every one is a stray-asterisk fix** (old emitted literal `*`/`**`, new is clean). *(1,025 > 96 because the replica also processes note-header lines that the live parser strips before render; the 96 are the body-prose subset — both are fixed, neither regresses.)*
+- **OTHER diffs (non-fix behavior change): 0.** ← empirically proves the plan's core claim "purely additive for non-nested input."
+- **NEW introduces a stray `*` where OLD had none: 0.**
+- **Invalid/unbalanced HTML in NEW output (proper tag-tree validator over em/strong/span): 0.**
+
+**Spot checks (all correct):** `**a *b* c**`→`<strong>a <em>b</em> c</strong>` · trailing-nest `**John 1:5 — *katelaben***`→`<strong>John 1:5 — <em>katelaben</em></strong>` · `***x***`→`<strong><em>x</em></strong>` · `**a *b* c *d***` (multi) ✓ · plain/italic/no-emphasis unchanged. Malformed `**unbalanced *x**`→`*<em>unbalanced </em>x**` (messy but no real content hits it → motivates the Step-3 lint guard).
+
+**i18n UI strings (`messages/*.json`, a `renderInlineSafe` consumer I'd missed):** 33 strings with `*`, **0 old-vs-new diffs** → UI strings entirely unaffected. *(Gap found and closed during this audit; added to scope/validation.)*
+
+**SEO / metadata / OG:** `generateMetadata` builds descriptions via a **separate markdown-strip path**, not the visible renderer — verified clean in the built `<meta name="description">` ("What happens: God creates…", no `**`). Out of scope and **unaffected** by this change.
+
+**ReDoS / performance:** the tempered alternation is unambiguous (mutually exclusive first char) → linear; measured **0.04–0.29 ms on 20k–80k-char pathological inputs** (real lines are <1k). Non-issue.
+
+**Residual items still unproven by this audit (verify during execution, as planned):** (a) the `convertTable` cell path — R4 audit + table tests in Step 3; (b) `withVerseNumbers` post-pass — operates on already-rendered HTML, expected inert; (c) the replica mirrors the source regexes exactly, but execution must re-prove via the real renderer's unit tests + the full gate.
+
+**Audit verdict:** the technical approach is sound and the regression/compliance risk for steps 1–2 is empirically near-zero. Proceed, with the table path (4c) treated as its own gated step.
