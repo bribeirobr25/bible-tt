@@ -10,7 +10,7 @@
 **Chapter:** Genesis 11
 **Language:** English
 **Companion to:** `en/genesis/CHAPTER-11.md` (Transparent Edition)
-**Ruleset:** v3.3 (Rule 29 governs this file)
+**Ruleset:** v3.4 (Rule 29 governs this file)
 **Status:** provisional
 
 ---
@@ -111,6 +111,17 @@ The Kasdim (Chaldeans) are not attested in southern Mesopotamia before the first
 Gen 11:31-32: Terach (Terah) settles in Charan (חָרָן, *Charan*). The site is identified with Harran in southeastern Turkey, on the Balikh River (a tributary of the Euphrates). Archaeological excavation confirms continuous occupation from at least the third millennium BCE. Charan was a major trade center on the route between Mesopotamia and the Mediterranean, and a cult center for the moon-god Sin — the same deity worshipped at Ur. The Terah family's movement from Ur to Charan may reflect movement between two cities sharing a common religious tradition. Mari texts (18th century BCE) attest to the city's commercial importance.
 
 **Source:** Lloyd, S. & Brice, W., "Harran," *Anatolian Studies* 1 (1951), pp. 77-111; Gadd, C.J., "The Harran Inscriptions of Nabonidus," *AnSt* 8 (1958).
+
+---
+
+### C3. Ebla and the patriarchs — a cautionary tale of over-reading
+**[HISTORICAL / ARCHAEOLOGICAL — UNCERTAIN]**
+
+The Tell Mardikh (Ebla) archive in northern Syria — over 17,000 cuneiform tablets and fragments, the main Palace G archive dating ca. 2500–2250 BCE, excavated by Paolo Matthiae from the 1960s and read by the epigrapher Giovanni Pettinato — is included here not for what it proves about Genesis but for what it teaches about *method*. In the late 1970s, sensational claims circulated that Ebla named the cities of the plain (Sodom, Gomorrah), an "Ur in Haran," or even the biblical patriarchs. These claims were **subsequently retracted or rejected** by specialists (notably Alfonso Archi and others): the supposed readings rested on misreadings, coincidental name-similarities, and over-eager harmonization, and the scholarly consensus is now that Ebla has no bearing on the historical accuracy of the biblical patriarchs.
+
+The genuinely useful point is **how the field self-corrects**: a spectacular early claim, amplified before verification, was checked against the actual tablets and withdrawn. It models exactly why this companion labels confidence levels and separates attested fact from inference — and it is a reminder to treat dramatic "the Bible confirmed!" headlines with caution. (No claim here connects Ebla, or any ancient population, to a modern people, nation, or political entity.)
+
+**Source:** Alan R. Millard, "Ebla and the Bible," *Biblical Archaeologist* 39 (1976) and subsequent corrective discussion [ACADEMIC POPULAR]; on the archive and the retraction of the early biblical readings, Paolo Matthiae, *Ebla: An Empire Rediscovered*, and Alfonso Archi's critiques [PEER-REVIEWED].
 
 ---
 
@@ -266,6 +277,7 @@ The Hellenistic period was defined by the spread of Greek (*koine*) as a common 
 | Millard, A.R., "Where Was Abraham's Ur?" *BAR* 27, 2001 | Article (archaeology) | C1 |
 | Lloyd, S. & Brice, W., "Harran," *AnSt* 1, 1951 | Article (archaeology) | C2 |
 | Gadd, C.J., "The Harran Inscriptions," *AnSt* 8, 1958 | Article (archaeology) | C2 |
+| Millard, A.R., "Ebla and the Bible," *BA* 39, 1976; Matthiae, P., *Ebla: An Empire Rediscovered* | Article + monograph (archaeology) | C3 |
 | Irenaeus, *Against Heresies* III.17.2 | Primary (reception) | F1 |
 | Gregory of Nazianzus, *Oration 41* | Primary (reception) | F1 |
 | Ginzberg, L., *Legends of the Jews*, vol. 1, 1909 | Secondary (reception) | F2 |

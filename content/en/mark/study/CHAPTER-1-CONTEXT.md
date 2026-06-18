@@ -191,6 +191,13 @@ Yeshua teaching and exorcising in the Kfar Nachum (Capernaum) synagogue on the s
 
 **Source:** Levine, L.I., *The Ancient Synagogue: The First Thousand Years*, 2nd ed., Yale, 2005; Twelftree, G.H., *Jesus the Exorcist*, Mohr Siebeck, 1993.
 
+#### IA-3. Daily Life — How urban (and how Greek) was Galilee? Recalibrating Sepphoris
+**[HISTORICAL / ARCHAEOLOGICAL — PROBABLE]**
+
+A popular picture imagines the Galilee of Mark 1 as shaped by a cosmopolitan, heavily Hellenized city — Sepphoris, a few miles from Nazareth — making Yeshua a product of an urbane, Greek-speaking milieu. Recent scholarship recalibrates this. Nathan Schumer's demographic study argues early-Roman Sepphoris held only about **2,000–4,300 people** (roughly half of earlier estimates), reaching perhaps 8,000–8,500 only after 70 CE — so urbanization in early-Roman Galilee was "fairly moderate and not fundamentally transformative for the region." Mark A. Chancey's work likewise finds first-century Galilee predominantly Jewish and **Aramaic-speaking**, with Greek mainly an administrative-elite language rather than the vernacular of the villages. The frame that better fits Mark's opening is therefore a network of modest fishing and farming villages (Kfar Nachum, Bethsaida) alongside a smaller, more modestly Hellenized urban presence than the "cosmopolitan Sepphoris" image suggests. The degree of Galilean urbanization and Hellenization remains **actively debated**; this entry flags the debate rather than settling it. (No claim here links ancient Galileans to any modern population, nation, or ethnic group.)
+
+**Source:** Nathan Schumer, "The Population of Sepphoris: Rethinking Urbanization in Early and Middle Roman Galilee," *Journal of Ancient Judaism* 8.1 (2017) [PEER-REVIEWED]; Mark A. Chancey, *The Myth of a Gentile Galilee* (Cambridge University Press, 2002) [PEER-REVIEWED].
+
 ---
 
 ### SCENARIO B — Post-70 CE (Temple destroyed)
@@ -208,6 +215,7 @@ If Mark was composed around 65–70 CE, its opening — a wilderness herald anno
 
 | Source | Type | Used in sections |
 |--------|------|-----------------|
+| Chancey, M.A., *The Myth of a Gentile Galilee*, Cambridge University Press, 2002 | PEER-REVIEWED (monograph) | I |
 | Ferguson, E., *Baptism in the Early Church*, 2009 | PEER-REVIEWED (monograph) | F |
 | Hanson, K.C., "The Galilean Fishing Economy," 1997 | PEER-REVIEWED (article) | I |
 | Levine, L.I., *The Ancient Synagogue*, 2nd ed., 2005 | PEER-REVIEWED (monograph) | I |
@@ -217,6 +225,7 @@ If Mark was composed around 65–70 CE, its opening — a wilderness herald anno
 | Reed, J.L., *Archaeology and the Galilean Jesus*, 2000 | PEER-REVIEWED (monograph) | C, I |
 | Reich, R., *Miqwa'ot in the Second Temple Period*, 2013 | PEER-REVIEWED (monograph) | B |
 | Sanders, E.P., *Judaism: Practice and Belief*, 1992 | PEER-REVIEWED (monograph) | B |
+| Schumer, N., "The Population of Sepphoris," *JAJ* 8.1 (2017) | PEER-REVIEWED (article) | I |
 | Taylor, J.E., *The Immerser*, 1997 | PEER-REVIEWED (monograph) | B |
 | Twelftree, G.H., *Jesus the Exorcist*, 1993 | PEER-REVIEWED (monograph) | I |
 | VanderKam, J., *The Dead Sea Scrolls Today*, 2nd ed., 2010 | PEER-REVIEWED (monograph) | B |
