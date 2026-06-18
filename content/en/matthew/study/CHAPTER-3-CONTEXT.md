@@ -10,7 +10,7 @@
 **Chapter:** Matthew 3
 **Language:** English
 **Companion to:** `en/matthew/CHAPTER-3.md` (Transparent Edition)
-**Ruleset:** v3.3 (Rule 29 governs this file)
+**Ruleset:** v3.4 (Rule 29 governs this file)
 **Status:** provisional
 
 ---
@@ -127,6 +127,17 @@ Multiple sites along the Yarden (Jordan) have been identified with Yochanan (Joh
 The Jordan's symbolic significance is layered: Israel's crossing point (Josh 3-4), Eliyahu (Elijah)'s and Elisha's miracle site (2 Kings 2:8-14), Na'aman's cleansing (2 Kings 5:10-14). John's choice of the Jordan for immersion places his practice within this tradition of threshold-crossing and purification at the river.
 
 **Source:** Waheeb, M., "The Discovery of Bethany Beyond the Jordan," *Studies in the History and Archaeology of Jordan* 8 (2004), pp. 479-489. Murphy-O'Connor, J., *The Holy Land*, 5th ed., 2008.
+
+---
+
+### C3. Josephus on Yochanan the Immerser — an independent witness
+**[HISTORICAL — VERIFIED]**
+
+Outside the Gospels, the first-century Jewish historian Flavius Josephus independently attests Yochanan (John) the Immerser as a real historical figure (*Antiquities* 18.116–119). Josephus describes him as "a good man" who urged the Jews to virtue — justice toward one another and piety toward God — and to come together for immersion; in his account the immersion was for purification of the body, on the assumption that the soul had already been cleansed by right conduct. He reports that John drew large, stirred-up crowds, and that Herod Antipas, fearing John's influence might spark an uprising, had him arrested and executed at the fortress **Machaerus**.
+
+This is valuable as **external, non-Christian corroboration** of the John of Matthew 3 — his mass-immersion movement and his death under Antipas. Two differences from the Gospels are worth noting descriptively, not harmonizing: Josephus gives a **political** rationale for the execution (fear of unrest), whereas the Gospels tie it to John's rebuke of Antipas's marriage (Mark 6:17–29); and Josephus frames the immersion as bodily purification following moral reform, a slightly different emphasis from the Gospels' "immersion of change of mind toward release of sins" (3:11). The two portraits are compatible in outline and independently confirm the figure.
+
+**Source:** Josephus, *Antiquities of the Jews* 18.116–119 (Loeb Classical Library) [PRIMARY]; John P. Meier, *A Marginal Jew: Rethinking the Historical Jesus*, vol. 2, Doubleday, 1994 [PEER-REVIEWED].
 
 ---
 
@@ -296,7 +307,9 @@ The economic pressure that drove people to John's Jordan immersion was, if anyth
 | Davies, W.D. and Allison, D.C., *ICC Matthew*, vol. 1, 1988 | PEER-REVIEWED (commentary) | A, D, G |
 | Ferguson, E., *Baptism in the Early Church*, 2009 | PEER-REVIEWED (monograph) | F |
 | France, R.T., *The Gospel of Matthew*, NICNT, 2007 | PEER-REVIEWED (commentary) | A, G |
+| Josephus, *Antiquities* 18.116–119, Loeb Classical Library | PRIMARY | C |
 | Lieberman, S., *Hellenism in Jewish Palestine*, 2nd ed., 1962 | PEER-REVIEWED (monograph) | F |
+| Meier, J.P., *A Marginal Jew*, vol. 2, 1994 | PEER-REVIEWED (monograph) | C |
 | Murphy-O'Connor, J., *The Holy Land*, 5th ed., 2008 | ACADEMIC POPULAR | C |
 | Nestle-Aland, *Novum Testamentum Graece*, 28th ed. | PRIMARY | A |
 | Reich, R., "Miqwa'ot at Qumran," 2006 | PEER-REVIEWED (article) | B |

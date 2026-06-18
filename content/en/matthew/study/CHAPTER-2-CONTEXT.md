@@ -107,6 +107,17 @@ The Moses parallel is the most relevant for Matthew's narrative. Matthew appears
 
 ---
 
+### B2. Numbers 24:17 ("a star out of Jacob") read messianically — Qumran to Bar Kokhba
+**[COMPARATIVE PARALLEL — PROBABLE]**
+
+Balaam's oracle in **Numbers 24:17** — "a star shall come out of Jacob, and a scepter shall rise out of Israel" — was widely read as a **messianic** prophecy in Second Temple Judaism, well before and around Matthew's time. The Qumran community applied it to its expected deliverer(s) (the *Damascus Document* CD-A VII 18–20; the *War Scroll* 1QM XI; the *Testimonia*, 4Q175), and Philo gives it a royal-messianic rendering (*De praemiis et poenis* 95). Decades after Matthew, Rabbi Akiva is reported to have applied the same "star" oracle to Simon ben Kosiba, nicknaming him **Bar Kokhba**, "son of the star" (y. Ta'anit 4:5 [68d]).
+
+So a *star* was a recognized sign of a coming royal deliverer in the Jewish world Matthew wrote within — useful background for why a star and "the king of the Yehudim" (2:2) belong together in the narrative. Two cautions: Matthew 2 **does not quote Numbers 24:17**, so the connection is **a shared interpretive milieu, not a demonstrated literary dependence**; and the Bar Kokhba application post-dates Matthew, illustrating the *currency* of the reading rather than serving as a source for the Gospel. (On the eastern-seer figure of Balaam himself, attested archaeologically, see §C4.)
+
+**Source:** George H. van Kooten & Peter Barthel (eds.), *The Star of Bethlehem and the Magi* (Brill, 2015), esp. the essay on Balaam's star oracle in the Dead Sea Scrolls, pp. 399–429 [PEER-REVIEWED]; primary texts CD-A VII; 1QM XI; 4Q175; y. Ta'anit 4:5 [68d].
+
+---
+
 ## C. Historical Context
 
 ### C1. Herodes' character in Josephus
@@ -285,6 +296,7 @@ Post-70 Jewish refugees would read the flight to Egypt narrative with first-hand
 | Redford, D.B., "The Literary Motif of the Exposed Child," 1967 | PEER-REVIEWED (article) | B |
 | Schaeder, H.H., "Ναζαρηνός, Ναζωραῖος," *TDNT* vol. 4 | PEER-REVIEWED (article) | F |
 | Schurer, E., *History of the Jewish People*, rev. ed., 1973 | PEER-REVIEWED (monograph) | C |
+| van Kooten, G.H. & Barthel, P. (eds.), *The Star of Bethlehem and the Magi*, Brill, 2015 | PEER-REVIEWED (essay collection) | B |
 
 ---
 

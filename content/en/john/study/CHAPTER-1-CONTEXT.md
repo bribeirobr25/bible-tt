@@ -10,7 +10,7 @@
 **Chapter:** John 1
 **Language:** English
 **Companion to:** `en/john/CHAPTER-1.md` (Transparent Edition)
-**Ruleset:** v3.3 (Rule 29 governs this file)
+**Ruleset:** v3.4 (Rule 29 governs this file)
 **Status:** provisional
 
 ---
@@ -122,6 +122,20 @@ The TT translates ὁ ἀμνὸς τοῦ θεοῦ as "the lamb of God" withou
 
 ---
 
+### B5. The Targumic *Memra* — a debated Jewish background for the Logos
+**[COMPARATIVE PARALLEL — PROBABLE]**
+
+Alongside the Greek and Wisdom backgrounds for *logos* (see §B0–B2), one Jewish-Aramaic candidate is the **Memra** ("Word") of the Targums — the early Aramaic paraphrases read alongside the Hebrew in the synagogue. The Targums frequently put "the Memra of the LORD" where the Hebrew has God acting: Targum Neofiti renders Genesis 1:1 along the lines of "from the beginning, with wisdom, the Memra of the LORD created…," and Targum Pseudo-Jonathan has God's Memra act through the narrative. Whether this is a genuine precedent for John's personified, pre-existent "Word" is **contested**:
+
+- **Daniel Boyarin** argues the Memra is a real divine-mediator concept within a Jewish "binitarian" current — which would make John's Logos a development of an existing Jewish theology rather than a Hellenistic import.
+- **C. K. Barrett** takes the opposite view: the Memra is merely a reverential circumlocution for the divine Name — a way of avoiding saying "God" directly — and is therefore, in his words, "a blind alley" as a background for John's Logos.
+
+The TT presents both readings and does not decide between them. As with every such comparison, this is a **parallel of religious vocabulary and concept, not a claim that John literarily depends on the Targums** (whose written forms are mostly later than John, even where the traditions they preserve may be older). For the basic note that *logos* connects to *memra*, see §B0; this entry adds the scholarly debate over how much weight that connection bears.
+
+**Source:** Daniel Boyarin, "The Gospel of the Memra: Jewish Binitarianism and the Prologue to John," *Harvard Theological Review* 94.3 (2001): 243–284 [PEER-REVIEWED]; Martin McNamara, *Targum and Testament Revisited*, Eerdmans, 2010 [PEER-REVIEWED]; C.K. Barrett, *The Gospel According to St. John*, 2nd ed., 1978 [PEER-REVIEWED].
+
+---
+
 ## C. Historical and Archaeological Context
 
 ### C1. Beyt-Anyah beyond the Yarden — location identification debate
@@ -191,6 +205,13 @@ The compound μονογενής (*monogenēs*) appears in the New Testament five
 **[TEXTUAL — VERIFIED]**
 
 John 1:51: ἀμὴν ἀμὴν λέγω ὑμῖν (*amēn amēn legō hymin*) — "amen, amen, I say to you." This doubled *amēn* formula is unique to the Fourth Gospel, appearing 25 times (John 1:51; 3:3, 5, 11; 5:19, 24, 25; 6:26, 32, 47, 53; 8:34, 51, 58; 10:1, 7; 12:24; 13:16, 20, 21, 38; 14:12; 16:20, 23; 21:18). The Synoptic Gospels (Matthew, Mark, Luke — the three Gospels that share much narrative material) use a single *amēn* ("amen, I say to you"), which is itself distinctive — in Jewish worship practice, *amēn* was a response word ("so be it"), not a way of introducing one's own statements. Jesus' use of *amēn* to introduce his own statements (rather than to affirm someone else's) has no known parallel in pre-Christian Jewish literature. The Johannine doubling intensifies the formula further. The TT transliterates *amēn* (Rule 4 applies — the word has crossed into the target languages) and preserves the doubling.
+
+### D4. *eskēnōsen* — "tabernacled / pitched his tent" (John 1:14)
+**[TEXTUAL — VERIFIED]**
+
+John 1:14 says the Word "dwelt among us" with the verb σκηνόω (*eskēnōsen*) — literally "to tent / pitch a tent." Its root is σκηνή (*skēnē*), the very word the LXX (the ancient Greek translation) uses for the wilderness **tabernacle** (Hebrew *mishkan*, the portable dwelling where God's glory rested, Exodus 25–40). The choice is almost certainly deliberate: where God once "tented" with Israel in the wilderness sanctuary, John says the Word now "tented" in human flesh — so the incarnate Word becomes the new locus of the divine presence and **glory** (the same verse continues, "we beheld his glory," *doxa*). The motif echoes Wisdom "pitching her tent" in Israel (Sirach 24:8–10), and there is an aural resonance with the later Hebrew term *Shekhinah* ("dwelling/presence"), though the verb itself is Greek. The verb is unique to John among the Gospels. (For how this tabernacle-language reads with heightened force after the Temple's destruction, see §IB-7 — this entry is the lexical groundwork it builds on.)
+
+**Source:** BDAG, s.v. σκηνόω [PEER-REVIEWED lexicon]; Raymond E. Brown, *The Gospel According to John I–XII* (Anchor Bible 29), Doubleday, 1966, *ad loc.* [PEER-REVIEWED].
 
 ---
 
@@ -420,13 +441,14 @@ Post-70 CE saw significant population movements. Jewish refugees from Judea disp
 | BHS, 5th rev. ed. (Deutsche Bibelgesellschaft, 1997) | PRIMARY | A1, A5 |
 | Borgen, P., "The Logos Was the True Light," *Novum Testamentum* 14, 1972 | PEER-REVIEWED (article) | B0, B1 |
 | Runia, D.T., *Philo of Alexandria and the Timaeus of Plato*, Brill, 1986 | PEER-REVIEWED (monograph) | B0, B1 |
-| McNamara, M., *Targum and Testament Revisited*, Eerdmans, 2010 | PEER-REVIEWED (monograph) | B0 |
+| McNamara, M., *Targum and Testament Revisited*, Eerdmans, 2010 | PEER-REVIEWED (monograph) | B0, B5 |
 | Witherington, B., *John's Wisdom*, Westminster John Knox, 1995 | PEER-REVIEWED (commentary) | B2 |
 | Scott, M., *Sophia and the Johannine Jesus*, JSOT Press, 1992 | PEER-REVIEWED (monograph) | B2 |
 | Hooker, M.D., "In the Beginning Was the Word," in *The Beginnings of Christianity*, T&T Clark, 2004 | PEER-REVIEWED (essay) | B3 |
 | Dodd, C.H., *The Interpretation of the Fourth Gospel*, Cambridge University Press, 1953 | PEER-REVIEWED (monograph) | B4 |
 | Jeremias, J., "ἀμνός," in *Theological Dictionary of the New Testament*, vol. 1, Eerdmans, 1964 | PEER-REVIEWED (encyclopedia) | B4 |
-| Barrett, C.K., *The Gospel According to St. John*, 2nd ed., Westminster Press, 1978 | PEER-REVIEWED (commentary) | B4 |
+| Barrett, C.K., *The Gospel According to St. John*, 2nd ed., Westminster Press, 1978 | PEER-REVIEWED (commentary) | B4, B5 |
+| Boyarin, D., "The Gospel of the Memra," *Harvard Theological Review* 94.3, 2001 | PEER-REVIEWED (article) | B5 |
 | Riesner, R., "Bethany Beyond the Jordan," in *Anchor Bible Dictionary*, vol. 1, Doubleday, 1992 | PEER-REVIEWED (encyclopedia) | C1 |
 | Waheeb, M., "Wadi al-Kharrar," *ADAJ* 41, 1997 | PEER-REVIEWED (article) | C1 |
 | von Wahlde, U.C., "The Johannine 'Jews': A Critical Survey," *New Testament Studies* 28, 1982 | PEER-REVIEWED (article) | C2 |
@@ -439,7 +461,8 @@ Post-70 CE saw significant population movements. Jewish refugees from Judea disp
 | Metzger, B.M., *A Textual Commentary on the Greek New Testament*, 2nd ed., Deutsche Bibelgesellschaft, 1994 | PEER-REVIEWED (monograph) | A10 |
 | Fitzmyer, J.A., "The Use of Explicit OT Quotations in Qumran Literature and in the NT," *NTS* 7, 1961 | PEER-REVIEWED (article) | D0 |
 | Menken, M.J.J., *Old Testament Quotations in the Fourth Gospel*, Kok Pharos, 1996 | PEER-REVIEWED (monograph) | D0 |
-| BDAG (Danker, Bauer, Arndt, Gingrich), *A Greek-English Lexicon of the New Testament*, 3rd ed., University of Chicago Press, 2000 | PEER-REVIEWED (lexicon) | D2, A6 |
+| BDAG (Danker, Bauer, Arndt, Gingrich), *A Greek-English Lexicon of the New Testament*, 3rd ed., University of Chicago Press, 2000 | PEER-REVIEWED (lexicon) | D2, D4, A6 |
+| Brown, R.E., *The Gospel According to John I–XII* (Anchor Bible 29), Doubleday, 1966 | PEER-REVIEWED (commentary) | D4 |
 | Davies, P., *The Mind of God*, Simon & Schuster, 1992 | ACADEMIC POPULAR | E1 |
 | Barrow, J.D., *The Constants of Nature*, Jonathan Cape, 2002 | ACADEMIC POPULAR | E1 |
 | Ayres, L., *Nicaea and Its Legacy*, Oxford University Press, 2004 | PEER-REVIEWED (monograph) | F1 |
