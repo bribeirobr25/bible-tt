@@ -243,7 +243,7 @@ check_cross_book_pointers() {
         print "$ARGV:$.:$_  [slug not in allow-list: $slug]\n";
       }
     }
-  ' content/*/genesis/PEOPLE.md content/*/john/PEOPLE.md content/*/matthew/PEOPLE.md 2>/dev/null | filter_allowlist "$rule_id")
+  ' content/*/genesis/PEOPLE.md content/*/john/PEOPLE.md content/*/matthew/PEOPLE.md content/*/mark/PEOPLE.md 2>/dev/null | filter_allowlist "$rule_id")
   emit_warn "$rule_id" "Cross-book PEOPLE.md pointer slug not in allow-list — see RULES-CORE.md Rule 29 §People and Genealogy Files v3.3.2 allow-list" "$matches"
 }
 check_cross_book_pointers
