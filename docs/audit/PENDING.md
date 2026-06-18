@@ -23,7 +23,7 @@
 **Cross-book / infrastructure:** *(detail §3)*
 - **Cross-book canonical PEOPLE source-merge** (C3).
 - **Phase 6 (search)** — Pagefind; also wire book-card content into the Phase-2 structured layer.
-- **DRY / reusability consolidation** — `docs/audit/ARCHITECTURE_DRY_AUDIT.md` (2026-06-18). DDD layering is intact; the issue is copy-paste-then-drift around the dual-label concept. **4 confirmed drift-bugs** (renderer prose-bold gap; `parseConfidence`/`parseClaimType` divergence across parsers; SPECULATIVE color drift) + consolidation opportunities (single `domain/content/labels.ts`, `ui/shared/confidence-tone.ts`, `<Disclosure>`, `applyEmphasis`). Sequence correctness bugs before pure-smell refactors; each ships behind the standard gate.
+- **DRY / reusability consolidation** — `docs/audit/ARCHITECTURE_DRY_AUDIT.md` (2026-06-18). DDD layering is intact; the issue is copy-paste-then-drift around the dual-label concept. **The 2 active drift-bugs are FIXED** (renderer prose-bold gap; SPECULATIVE color drift). **Still open:** (a) the 2 *latent* parser drifts (`parseConfidence`/`parseClaimType` divergence — no content triggers them today) to be fixed *by extraction*, not hand-sync; (b) the consolidation opportunities — single `domain/content/labels.ts` (parsers), `ui/shared/confidence-tone.ts` (one tone+i18n map), `<Disclosure>` component (~8 call sites), `applyEmphasis` helper (renderer), and the 1027-line `people-parser.ts` split. Each ships behind the standard gate. *(Separate but related: the renderer nested-`**…*x*…**` hardening is the item under "Minor/partial" §5.)*
 
 **Deferred content seeds** (drop in when that book is authored): *(detail §4)*
 - Akedah → Crucifixion typology → Gen 22 §F (Phase 12)

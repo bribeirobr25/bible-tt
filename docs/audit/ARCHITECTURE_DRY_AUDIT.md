@@ -7,12 +7,17 @@
 - **DDD layering is intact.** No wrong-direction imports; `domain/` is framework-pure; one renderer; `app/` routes are thin and delegate through `lib/content-loader`. The i18n `next-intl` import in `infrastructure/i18n/` is the intended adapter exception.
 - **The real issue is copy-paste-then-drift**, concentrated on the **dual-label (claim-type + confidence)** concept, which has no single home. Several copies have *diverged*, producing live bugs/inconsistencies — these are the priority, because they are correctness issues, not just smell.
 
-## Confirmed bugs caused by drift (fix these first)
+## Confirmed bugs caused by drift
 
-1. **Renderer `prose` omits bold** — `src/ui/shared/render-markdown-safe.ts:104-112`: `note` runs the `**`→`<strong>` pass; `prose` (line 110) runs italic only, so `**bold**` in a prose field renders literally. A test (`__tests__/render-markdown-safe.test.ts:33-35`) locks the divergence in. (Combined with the missing nested-emphasis support, this is the root of the ~96-line content bug tracked in PENDING §5.)
-2. **`parseConfidence` drift** — `enrichment-parser.ts:109`, `prophecy-parser.ts:13`, `book-context-parser.ts:75`, `people-parser.ts:466`: ASCII `MOEGLICH` recognized only in companions; default is `UNCERTAIN` in people-parser vs `POSSIBLE` (+warn) in the other three. Same label → different result by surface.
-3. **`parseClaimType` drift** — `enrichment-parser.ts:39`, `book-context-parser.ts:18`, `people-parser.ts:428,448`: diverging alias lists (deaccented German etc.), so the same `**[CLAIM — CONF]**` resolves differently per surface.
-4. **Confidence→color drift** — `claim-badge.tsx:4`, `person-card.tsx:73`, `prophecy-view.tsx:12`: `SPECULATIVE` is styled two different ways (deeper view vs. person card).
+**Active (visible) — FIXED 2026-06-18 (commit on `content-multibook-expansion`):**
+
+1. **Renderer `prose` omitted bold** — `src/ui/shared/render-markdown-safe.ts`: `note` ran the `**`→`<strong>` pass; `prose` ran italic only, so `**bold**` in a prose field rendered literally (verified on the chapter Read door: it now emits `<strong>` with zero literal `**`). **Fixed:** added the bold pass to the prose branch; updated the contradicting test (`__tests__/render-markdown-safe.test.ts`) per the project-lead decision that prose supports bold. *(Note: this does NOT fix the nested `**…*x*…**` case — that is the separate renderer-hardening item in PENDING §5.)*
+4. **Confidence→color drift** — `claim-badge.tsx:4` (canonical) vs `person-card.tsx:73`: `SPECULATIVE` was styled two ways (`bg-note-critical/15` vs `bg-bg-muted`). **Fixed:** aligned `person-card` to the canonical value; the two maps are now identical (consolidating them into one shared map remains the deferred reusability item below).
+
+**Latent (no current content triggers them) — FOLD INTO the `labels.ts` extraction below, not hand-synced:**
+
+2. **`parseConfidence` divergence** — `enrichment-parser.ts:109`, `prophecy-parser.ts:13`, `book-context-parser.ts:75`, `people-parser.ts:466`: ASCII `MOEGLICH`/`MOGLICH` recognized only in companions, and people-parser defaults to `UNCERTAIN` vs `POSSIBLE` elsewhere. **Confirmed latent:** no content uses ASCII-German confidence (DE uses the `MÖGLICH` umlaut, which all copies handle) and no people `**Confidence:**` value hits the fallback — so no current mis-resolution. Hand-syncing three copies that the extraction will delete would be wasteful churn; fix it by extracting one shared parser.
+3. **`parseClaimType` divergence** — `enrichment-parser.ts:39`, `book-context-parser.ts:18`, `people-parser.ts:428,448`: diverging alias lists (e.g. book-context lacks the archaeological aliases). **Confirmed latent:** no CONTEXT.md label resolves differently today. Same remedy as #2 — fix via extraction.
 
 ## Consolidation opportunities (no behavior change once drift reconciled)
 

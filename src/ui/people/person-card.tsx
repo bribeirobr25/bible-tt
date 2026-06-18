@@ -75,7 +75,7 @@ const CONFIDENCE_TONE: Record<string, string> = {
   PROBABLE: "bg-note-lexical/10 text-note-lexical",
   POSSIBLE: "bg-note-theological/10 text-note-theological",
   UNCERTAIN: "bg-note-critical/10 text-note-critical",
-  SPECULATIVE: "bg-bg-muted text-text-muted",
+  SPECULATIVE: "bg-note-critical/15 text-note-critical",
   DOCUMENTED: "bg-note-grammatical/15 text-note-grammatical",
 };
 

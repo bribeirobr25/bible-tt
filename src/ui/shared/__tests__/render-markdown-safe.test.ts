@@ -30,9 +30,9 @@ describe("renderMarkdownSafe", () => {
       expect(result).toBe("<em>emphasis</em>");
     });
 
-    it("does not convert **text** to <strong>", () => {
+    it("converts **text** to <strong>", () => {
       const result = renderMarkdownSafe("**bold**", "prose");
-      expect(result).not.toContain("<strong>");
+      expect(result).toContain("<strong>bold</strong>");
     });
 
     it("collapses newlines to spaces", () => {

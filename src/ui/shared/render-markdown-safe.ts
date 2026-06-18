@@ -107,6 +107,7 @@ export function renderMarkdownSafe(
     html = html.replace(/\n- /g, "<br/>• ");
     html = html.replace(/\n/g, "<br/>");
   } else {
+    html = html.replace(/\*\*([^*]+)\*\*/g, "<strong>$1</strong>");
     html = html.replace(/\*([^*]+)\*/g, "<em>$1</em>");
     html = html.replace(/\n/g, " ");
   }
