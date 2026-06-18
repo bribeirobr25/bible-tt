@@ -105,6 +105,19 @@ Kfar Nachum (Capernaum), on the north shore of the sea of Galilee, becomes Yeshu
 
 ---
 
+### C3. The "Galilee Boat" — a first-century hull from the lake
+**[HISTORICAL / ARCHAEOLOGICAL — VERIFIED]**
+
+In 1986 a drought lowered the sea of Galilee and exposed a wooden hull in the mud near Kibbutz Ginosar (ancient Magdala/Migdal). Excavated and conserved, the **"Galilee Boat"** measures about **8.2 m long × 2.3 m wide × 1.25 m deep** — built of cedar planking on oak frames with pegged mortise-and-tenon joints, and able to carry roughly fifteen people (a crew plus passengers, or crew plus catch). Radiocarbon dating and associated pottery (a cooking pot and a lamp) place it around **40 BCE, give or take 80 years** — the late-Hellenistic to early-Roman period. It was assembled from **at least a dozen different wood types** and shows repeated repairs and reused timber: the signature of a working vessel kept going on a tight budget.
+
+This is exactly the kind of modest, resource-constrained craft behind the fishing enterprises Mark describes (1:16–20) — the boat of Zavdai (Zebedee) and his sons, worked "with the hired men" (1:20). It gives physical texture to the lake economy the first disciples left.
+
+**There is no evidence connecting this particular boat to Yeshua or to any disciple.** It is *type-representative* — an illustration of the kind of vessel in use on the lake — not "the boat of the gospels."
+
+**Source:** Shelley Wachsmann, "The Galilee Boat — 2,000-Year-Old Hull Recovered Intact," *Biblical Archaeology Review* 14.5 (1988): 18–33 [PEER-REVIEWED]; Wachsmann (ed.), *The Excavations of an Ancient Boat in the Sea of Galilee (Lake Kinneret)*, *'Atiqot* 19 (1990).
+
+---
+
 ## D. Linguistic and Philological Deep Dives
 
 ### D1. *Pneuma* = wind/spirit — alignment with *ruach*
@@ -167,7 +180,7 @@ At the immersion Mark's voice says **σὺ εἶ ὁ υἱός μου** (*sy ei 
 #### IA-1. Daily Life — The Galilean fishing economy
 **[HISTORICAL / ARCHAEOLOGICAL — VERIFIED]**
 
-The call of two pairs of brothers from their nets (1:16–20) is embedded in a real industry. Fishing on the sea of Galilee was organized, taxed, and licensed: fishers worked in cooperatives, leased fishing rights, and sold to processing centers (the town of Magdala/Tarichaea was a major fish-salting hub). The mention of Zavdai (Zebedee) employing "hired men" (1:20) indicates a family business of some substance, not subsistence poverty — leaving it was a real economic cost. First-century fishing boats (like the "Galilee Boat" recovered near Migdal, ~8m long) carried crews of several, consistent with the named groups.
+The call of two pairs of brothers from their nets (1:16–20) is embedded in a real industry. Fishing on the sea of Galilee was organized, taxed, and licensed: fishers worked in cooperatives, leased fishing rights, and sold to processing centers (the town of Magdala/Tarichaea was a major fish-salting hub). The mention of Zavdai (Zebedee) employing "hired men" (1:20) indicates a family business of some substance, not subsistence poverty — leaving it was a real economic cost. First-century fishing boats carried crews of several, consistent with the named groups (for the recovered first-century hull, see §C3).
 
 **Source:** Hanson, K.C., "The Galilean Fishing Economy and the Jesus Tradition," *Biblical Theology Bulletin* 27 (1997), pp. 99–111; Reed, J.L., *Archaeology and the Galilean Jesus*, 2000.
 
@@ -207,6 +220,7 @@ If Mark was composed around 65–70 CE, its opening — a wilderness herald anno
 | Taylor, J.E., *The Immerser*, 1997 | PEER-REVIEWED (monograph) | B |
 | Twelftree, G.H., *Jesus the Exorcist*, 1993 | PEER-REVIEWED (monograph) | I |
 | VanderKam, J., *The Dead Sea Scrolls Today*, 2nd ed., 2010 | PEER-REVIEWED (monograph) | B |
+| Wachsmann, S., "The Galilee Boat," *BAR* 14.5 (1988); *'Atiqot* 19 (1990) | PEER-REVIEWED (article/report) | C |
 | Wrede, W., *The Messianic Secret* (ET 1971) | PEER-REVIEWED (monograph) | F |
 
 ---

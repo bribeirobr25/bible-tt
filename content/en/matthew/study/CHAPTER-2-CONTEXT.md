@@ -10,7 +10,7 @@
 **Chapter:** Matthew 2
 **Language:** English
 **Companion to:** `en/matthew/CHAPTER-2.md` (Transparent Edition)
-**Ruleset:** v3.3 (Rule 29 governs this file)
+**Ruleset:** v3.4 (Rule 29 governs this file)
 **Status:** provisional
 
 ---
@@ -141,6 +141,19 @@ A Jewish family fleeing to Egypt was historically plausible. Jewish communities 
 
 ---
 
+### C4. The Deir 'Alla inscription — "Balaam son of Beor" outside the Bible
+**[HISTORICAL / ARCHAEOLOGICAL — VERIFIED]**
+
+In 1967, excavators at Tell Deir 'Alla in the Jordan Valley (ancient Transjordan) recovered an ink-on-plaster text, ca. 880–770 BCE, fallen from a wall. It opens by naming **"Balaam son of Beor, a seer of the gods"** (*bil'am bar be'or*) — the same Balaam son of Beor who appears in Numbers 22–24 as the non-Israelite seer hired to curse Israel. This is one of very few extrabiblical attestations of a named Hebrew Bible figure, and it shows that a **Transjordanian tradition about a seer named Balaam** circulated independently of the biblical text.
+
+Two cautions are essential. **First, the inscription does not contain the "star out of Jacob" oracle** (Numbers 24:17) — or any star: it attests the existence of a Balaam-seer tradition, not the specific oracle later associated with him. **Second**, its religious world is polytheistic (it invokes the *shaddayin* and *elohin* as a council of gods), and its dialect (Aramaic vs. a local Canaanite/"Gileadite" form) is debated; it is an independent regional text, not an Israelite one, and is not connected to any modern people, nation, or place.
+
+The relevance to Matthew 2 is **comparative, not a line of dependence**: Matthew's *magoi* are non-Israelite seers "from the East" who read a celestial sign — broadly the *type* that the eastern seer Balaam represents in the Hebrew Bible. The Deir 'Alla text simply confirms that such a Balaam-seer figure was a real, anciently-rooted Transjordanian tradition; it says nothing about Matthew or about a star. (How Balaam's *star oracle* in Numbers 24:17 was later read messianically is a separate reception strand, not attested here.)
+
+**Source:** J. Hoftijzer & G. van der Kooij, *Aramaic Texts from Deir 'Alla* (Brill, 1976) [*editio princeps*]; Baruch A. Levine, "The Deir 'Alla Plaster Inscriptions," *Journal of the American Oriental Society* 101.2 (1981): 195–205 [PEER-REVIEWED]; inscription = KAI 312.
+
+---
+
 ## F. Later Reception in Other Traditions
 
 ### F1. Flight to Egypt in Coptic tradition
@@ -263,7 +276,9 @@ Post-70 Jewish refugees would read the flight to Egypt narrative with first-hand
 | Davies, W.D. and Allison, D.C., *ICC Matthew*, vol. 1, 1988 | PEER-REVIEWED (commentary) | A, F, G |
 | France, R.T., *The Gospel of Matthew*, NICNT, 2007 | PEER-REVIEWED (commentary) | A, F |
 | Gabra, G., "The Holy Family in Egypt," 2008 | ACADEMIC POPULAR | F |
+| Hoftijzer, J. & van der Kooij, G., *Aramaic Texts from Deir 'Alla*, Brill, 1976 | PRIMARY (editio princeps) | C |
 | Josephus, *Jewish Antiquities*, Loeb Classical Library | PRIMARY | C |
+| Levine, B.A., "The Deir 'Alla Plaster Inscriptions," *JAOS* 101.2 (1981) | PEER-REVIEWED (article) | C |
 | Macrobius, *Saturnalia* | PRIMARY | C |
 | Modrzejewski, J.M., *The Jews of Egypt*, 1995 | PEER-REVIEWED (monograph) | C |
 | Pritchard, J.B. (ed.), *ANET*, 3rd ed., 1969 | PRIMARY | B |

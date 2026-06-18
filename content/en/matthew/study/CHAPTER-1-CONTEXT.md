@@ -10,7 +10,7 @@
 **Chapter:** Matthew 1
 **Language:** English
 **Companion to:** `en/matthew/CHAPTER-1.md` (Transparent Edition)
-**Ruleset:** v3.3 (Rule 29 governs this file)
+**Ruleset:** v3.4 (Rule 29 governs this file)
 **Status:** provisional
 
 ---
@@ -250,6 +250,21 @@ The academic value is as evidence of inter-communal debate, not as historical da
 
 ---
 
+### F4. The four women — history of interpretation (Brown, Schaberg, Levine)
+**[POSSIBLE INFERENCE — POSSIBLE]**
+
+*Why* the genealogy names four women — Tamar, Rachav (Rahab), Rut (Ruth), and "the wife of Uriyah" — and omits the matriarchs Sarah, Rivka (Rebekah), Leah, and Rachel has been debated for centuries. This entry surveys the main readings without choosing among them (for the textual feature itself, see §A5).
+
+Raymond Brown (*The Birth of the Messiah*, pp. 71–74) lays out three theories: (a) the **"sinners"** reading (going back to Jerome) — the women represent sinfulness that grace overcomes; (b) the **"Gentiles/foreigners"** reading (associated with Luther) — the women are non-Israelites, foreshadowing the later inclusion of the nations; and (c) Brown's own preferred reading — each woman's story involves an **"extraordinary or irregular union" together with female initiative** that becomes an instrument of God's providence, foreshadowing Miryam (Mary) as a "fifth woman" whose own union is irregular (1:16, 18). Brown observes that Bathsheba is named obliquely as "the wife of Uriyah," keeping both her marriage to a Hittite and David's scandal in view.
+
+Feminist scholarship has pressed back, especially on the "Gentile" theory: Jane Schaberg (*The Illegitimacy of Jesus*, pp. 20–22) and Amy-Jill Levine ("Matthew," *Women's Bible Commentary*, pp. 465–477) note that Tamar and Bathsheba are **not** explicitly non-Israelite in the Hebrew Bible, and read the women instead as figures who are vulnerable or wronged rather than as "sinners" or "foreigners."
+
+The TT records these as competing interpretive options — each a *possible* reading, none demonstrated — and does not adjudicate among them; the text itself states no reason for the women's inclusion (§A5).
+
+**Source:** Raymond E. Brown, *The Birth of the Messiah*, rev. ed., 1993, pp. 71–74 [PEER-REVIEWED]; Jane Schaberg, *The Illegitimacy of Jesus*, 1987, pp. 20–22 [PEER-REVIEWED]; Amy-Jill Levine, "Matthew," in *Women's Bible Commentary*, 3rd ed., 2012, pp. 465–477 [PEER-REVIEWED].
+
+---
+
 ## G. Curiosities and Open Questions
 
 ### G1. Missing generations in the genealogy
@@ -343,12 +358,14 @@ By the late 1st century, the birth narrative of Matthew 1 had become a point of 
 | Josephus, *Jewish Antiquities*, Loeb Classical Library | PRIMARY | C |
 | Keener, C.S., *A Commentary on the Gospel of Matthew*, 1999 | PEER-REVIEWED (commentary) | D |
 | Kelly, J.N.D., *Early Christian Creeds*, 3rd ed., 1972 | PEER-REVIEWED (monograph) | F |
+| Levine, A.-J., "Matthew," in *Women's Bible Commentary*, 3rd ed., 2012 | PEER-REVIEWED (commentary) | F |
 | Liddell and Scott, *Greek-English Lexicon*, 9th ed. | PEER-REVIEWED (lexicon) | D |
 | Luz, U., *Matthew 1-7*, Hermeneia, ET 2007 | PEER-REVIEWED (commentary) | D |
 | Motyer, J.A., *The Prophecy of Isaiah*, 1993 | PEER-REVIEWED (monograph) | D |
 | Nestle-Aland, *Novum Testamentum Graece*, 28th ed. | PRIMARY | A |
 | Parrinder, G., *Jesus in the Qur'an*, 1965 | ACADEMIC POPULAR | F |
 | Pritchard, J.B. (ed.), *ANET*, 3rd ed., 1969 | PRIMARY | B |
+| Schaberg, J., *The Illegitimacy of Jesus*, 1987 | PEER-REVIEWED (monograph) | F |
 | Schaefer, P., *Jesus in the Talmud*, 2007 | PEER-REVIEWED (monograph) | F |
 | Schurer, E., *History of the Jewish People*, rev. ed., 1973 | PEER-REVIEWED (monograph) | C |
 | Stendahl, K., *The School of St. Matthew*, 2nd ed., 1968 | PEER-REVIEWED (monograph) | D |

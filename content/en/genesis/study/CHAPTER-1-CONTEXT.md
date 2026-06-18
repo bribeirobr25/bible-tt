@@ -10,7 +10,7 @@
 **Chapter:** Genesis 1
 **Language:** English
 **Companion to:** `en/genesis/CHAPTER-1.md` (Transparent Edition)
-**Ruleset:** v3.3 (Rule 29 governs this file)
+**Ruleset:** v3.4 (Rule 29 governs this file)
 **Status:** provisional
 
 ---
@@ -277,6 +277,17 @@ Several scholars note structural parallels between the Genesis 1 creation accoun
 This reading is **PROBABLE** but not universally accepted. The text does not explicitly say "creation = temple building."
 
 **Source:** Levenson, J.D., *Creation and the Persistence of Evil*, 1988. Walton, J.H., *The Lost World of Genesis One*, 2009.
+
+---
+
+### C3. Tell Fekheriye bilingual statue — *tselem/demut* attested outside the Bible
+**[HISTORICAL / ARCHAEOLOGICAL — VERIFIED]**
+
+A near-life-size basalt royal statue (about 2 m) from Tell Fekheriye in north-eastern Syria — the "Hadad-yith'i statue," ca. 9th century BCE — carries a bilingual Akkadian–Aramaic inscription (KAI 309). Its Aramaic text labels the statue with **both** words *ṣlm* ("image") and *dmwt* ("likeness") — the same word-pair Genesis 1:26 uses for the human made "in our **image** (*tselem*), according to our **likeness** (*demut*)." On the statue the pair is applied to a physical object that *represents* a king and stands in for him before the god Hadad.
+
+This is the closest extrabiblical attestation of the exact Genesis word-pair, and it lends weight (**PROBABLE**) to reading the human as a royal/representational "image" of God — a representative who stands for the sovereign — rather than "image" in a merely physical-resemblance sense. Crucially, this is a **parallel attestation of shared vocabulary, not evidence of literary dependence** in either direction: it shows how *ṣlm* and *dmwt* were used in the wider Aramaic-speaking world, nothing more. (For the *tselem/demut* pair *within* Genesis and its chaining through the generations, see §A12b — this entry adds only the external inscription.)
+
+**Source:** W. Randall Garr, "'Image' and 'Likeness' in the Inscription from Tell Fakhariyeh," *Israel Exploration Journal* 50.3/4 (2000): 227–234 [PEER-REVIEWED]; inscription = KAI 309 (Hadad-yith'i statue, Tell Fekheriye).
 
 ---
 
@@ -720,6 +731,7 @@ Greeks were now the dominant cultural presence. Phoenician cities were absorbed 
 | Walton, J.H., *Ancient Near Eastern Thought and the OT*, 2006 | Secondary (ANE context) | C1, E1 |
 | Walton, J.H., *The Lost World of Genesis One*, 2009 | Secondary (interpretation) | C2, E1 |
 | Levenson, J.D., *Creation and the Persistence of Evil*, 1988 | Secondary (theology) | C2 |
+| Garr, W.R., "'Image' and 'Likeness' in the Inscription from Tell Fakhariyeh," *IEJ* 50.3/4 (2000) | Secondary (Aramaic epigraphy) | C3 |
 | Tottoli, R., *Biblical Prophets in the Qur'an*, 2002 | Secondary (Islamic) | F3 |
 | *Bereshit Rabbah* (5th c. CE) | Primary (Rabbinic) | F1 |
 | Rashi, Commentary on Genesis (11th c.) | Primary (Medieval Jewish) | F1 |
