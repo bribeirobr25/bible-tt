@@ -23,6 +23,7 @@
 **Cross-book / infrastructure:** *(detail §3)*
 - **Cross-book canonical PEOPLE source-merge** (C3).
 - **Phase 6 (search)** — Pagefind; also wire book-card content into the Phase-2 structured layer.
+- **DRY / reusability consolidation** — `docs/audit/ARCHITECTURE_DRY_AUDIT.md` (2026-06-18). DDD layering is intact; the issue is copy-paste-then-drift around the dual-label concept. **4 confirmed drift-bugs** (renderer prose-bold gap; `parseConfidence`/`parseClaimType` divergence across parsers; SPECULATIVE color drift) + consolidation opportunities (single `domain/content/labels.ts`, `ui/shared/confidence-tone.ts`, `<Disclosure>`, `applyEmphasis`). Sequence correctness bugs before pure-smell refactors; each ships behind the standard gate.
 
 **Deferred content seeds** (drop in when that book is authored): *(detail §4)*
 - Akedah → Crucifixion typology → Gen 22 §F (Phase 12)
