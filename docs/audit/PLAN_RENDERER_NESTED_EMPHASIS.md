@@ -1,6 +1,6 @@
 # Execution Plan — Tier 1: Renderer Nested-Emphasis Hardening
 
-**Date:** 2026-06-19 · **Status:** DRAFT — awaiting project-lead sign-off before any code change. **Branch:** `content-multibook-expansion`. **Source items:** `ARCHITECTURE_DRY_AUDIT.md` (F1) + `PENDING.md §5` (nested-`**…*x*…**`). **Risk class:** HIGH blast radius (the single pipeline all content flows through), LOW algorithmic risk (one tempered regex + a pure DRY extraction, proven below).
+**Date:** 2026-06-19 · **Status:** APPROVED by external audit (`AUDIT_RENDERER_NESTED_EMPHASIS_PLAN.md`, 2026-06-19) — all load-bearing code claims verified against source; 3 wording corrections applied (note-header mechanism §2/§3, test-file path §7, locate-by-symbol-not-line-number §7); R4 strengthened (confirmed zero raw markers in the densest Mark tables) + Rule-30 system-level assertion added. Awaiting project-lead sign-off on the 3 open decisions (§11) before code changes. **Branch:** `content-multibook-expansion`. **Source items:** `ARCHITECTURE_DRY_AUDIT.md` (F1) + `PENDING.md §5` (nested-`**…*x*…**`). **Risk class:** HIGH blast radius (the single pipeline all content flows through), LOW algorithmic risk (one tempered regex + a pure DRY extraction, proven below).
 
 ---
 
@@ -24,7 +24,7 @@ Make `render-markdown-safe` render **one level of italic nested inside bold** (`
 - bold `/\*\*([^*]+)\*\*/g` — the content class `[^*]+` **cannot contain a nested `*`**, so `**a *b* c**` never matches as bold; the subsequent italic pass then mis-pairs the surviving asterisks → literal `*`/`**` on screen.
 - The pair is **duplicated 4×**: `convertTable` cells (L36-37), `renderInlineSafe` (L66-67), `renderMarkdownSafe` note branch (L105-106), prose branch (L110-111). (Pre-2026-06-18 the prose branch omitted bold entirely — that drift is already fixed; the 4 copies are now identical, which makes extraction safe.)
 
-The emoji **note-card headers are unaffected** and must stay so: the note *parser* (`markdown-parser.ts` `NOTE_TYPE_PREFIX`) strips the outer `**` before render, so their inner `*term*` already renders standalone. This plan only touches the inline renderer, not that parser.
+The emoji **note-card headers are unaffected** — verified mechanism (corrected per external audit 2026-06-19): a note **title** is rendered as **raw JSX** (`note-block.tsx:24` `{note.title}`) and never passes through `renderMarkdownSafe` at all; titles are authored **bold-only** (`🔴 **CRITICAL - RAQIA INTRODUCTION**`), with no nested italic. The italic *terms* live in the note **body** (which *does* go through the `note` subset) as **siblings**, not nested (`**בְּרֵאשִׁית** (*bereshit*)`) — a shape the current regex already handles. So this change neither affects note titles (they bypass the renderer) nor alters note bodies (sibling bold/italic is unchanged by the tempered regex). *(Caveat: because titles bypass the renderer, a note title authored with a nested `*term*` would show literal asterisks — zero exist today; the Step-3 `content:lint` guard would also catch this, closing the edge permanently.)*
 
 ---
 
@@ -100,7 +100,7 @@ Because the change is **purely additive for non-nested input** (every existing t
 | R1 | **Regression in non-nested rendering** | §4b traces show identical output for plain bold/italic/multi-span; locked by the existing 18 tests + new tests; cross-locale curl diff on unaffected pages. |
 | R2 | **Content loss** | Code-only change; **conservation counts must be byte-identical** before/after (gate). No `content/` edits in steps 1-3. |
 | R3 | **Content-compliance (rules)** | Must not alter: Rule 11 `*added*` italics, Rule 30 `@@divine@@` (incl. nested `*added*` inside divine — existing test L89-94), Rule 2/4 `{a:}`/`{t:}` markers, dual-label `**[CLAIM — CONF]**` chips. All run *before* bold (markers) or are plain bold (labels) → covered by existing tests + new marker-with-nesting tests. No content semantics change — only previously-corrupted renders are corrected. |
-| R4 | **Table-cell new marker support (4c)** | Audit all table cells for literal `{`/`@@`/`{t:` that are meant to display raw; if none (expected — markers are an authoring convention, not data), routing is safe. If any exist, keep cells on a bold+italic-only path. |
+| R4 | **Table-cell new marker support (4c)** | Audit all table cells for literal `{`/`@@`/`{t:` that are meant to display raw; if none (expected — markers are an authoring convention, not data), routing is safe. If any exist, keep cells on a bold+italic-only path. **External audit (2026-06-19) confirmed on the worst-case files:** the Mark 2 + Mark 3 GLOSSARY/CROSS-CHAPTER-TRACKING tables (the most marker-dense in the corpus) + Genesis 1 tables contain **zero raw `{t:`/`{a:`/`@@` cells** — markers appear only as described prose words. Still run the corpus-wide scan in Step 3. **Forward-looking:** once 4c lands, a marker authored in a *future* table cell renders as a styled span (a silent, desirable change the unbalanced-`**` lint won't flag) — so add the R4 raw-marker scan to the **new-book activation checklist** (re-runs as Luke/Psalms/etc. add tables). |
 | R5 | **ReDoS / perf** | Tempered alternation is unambiguous → linear; add a long-pathological-input unit test (e.g. `'*'.repeat(5000)`) asserting fast return. |
 | R6 | **DDD/DRY** | Change stays entirely in `ui/shared/render-markdown-safe.ts` (correct presentation layer); reduces 4 copies → 1; no new cross-layer dependency. |
 | R7 | **EN-vs-other-locale parity** | The 4 EN content lines de-italicized ad-hoc on 2026-06-18 will, post-hardening, look *less* rich than their still-italic de/es/pt-br parallels. Step 4 re-italicizes them so all locales match (small, content edit, conservation-checked). |
@@ -109,7 +109,9 @@ Because the change is **purely additive for non-nested input** (every existing t
 
 ## 7. Validation matrix
 
-**Unit tests (add to `render-markdown-safe.test.ts`):**
+> **Executor note (per external audit):** locate edit sites by **symbol/pattern**, not the line numbers cited in this plan — line refs (e.g. the §4b `BOLD_RE` site, the divine-speech test) are approximate and drift. The test file is at `src/ui/shared/__tests__/render-markdown-safe.test.ts`.
+
+**Unit tests (add to `src/ui/shared/__tests__/render-markdown-safe.test.ts`):**
 1. mid-nest `**a *b* c**` → `<strong>a <em>b</em> c</strong>`
 2. trailing-nest `**a *b***` → `<strong>a <em>b</em></strong>`
 3. true triple `***x***` → `<strong><em>x</em></strong>`
@@ -126,6 +128,7 @@ Because the change is **purely additive for non-nested input** (every existing t
 - **MCP visual** screenshots of `/en/john/background` + `/en/genesis/introduction` (the worst offenders) confirming bold+italic labels, no asterisks, layout intact.
 - **i18n strings** (`renderInlineSafe` consumer): re-run the old-vs-new diff over `messages/*.json` (must stay 0 diffs — §12); spot-check `/{loc}/rules` + landing render unchanged.
 - **SEO/meta** (separate strip path): confirm `<meta name="description">` on a chapter page is unchanged before/after (no new `*`/`**`).
+- **Rule 30 system-level lock** (per external audit): assert a real divine-speech line with an inner `*added*` word (e.g. Genesis 1:6) renders `<span class="divine">…<em>…</em>…</span>` intact on the live page — the Rule-30 regression lock as a *system* check, not only a unit test.
 
 **Optional regression guard:** a `content:lint` check that flags *unbalanced* `**`/`*` in body lines (the only remaining unsupported shape post-hardening). Lightweight; decide during Step 3.
 
