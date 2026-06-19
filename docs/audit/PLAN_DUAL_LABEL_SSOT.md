@@ -1,6 +1,6 @@
 # Execution Plan — Tier 2: Dual-Label Single-Source-of-Truth (parsers + UI)
 
-**Date:** 2026-06-19 · **Status:** DRAFT — awaiting external audit + project-lead sign-off before any code change. **Branch:** `content-multibook-expansion`. **Source items:** `ARCHITECTURE_DRY_AUDIT.md` (parser Findings 1–3,6; UI Findings 2–4) + `PENDING.md` (DRY consolidation, "Tier 2"). **Risk class:** MEDIUM blast radius (all 5 parsers + 3 UI components), LOW behavioral risk (empirically 0 resolved-value change — §12).
+**Date:** 2026-06-19 · **Status:** DRAFT — self-audited 2026-06-19 (§13: added audit Finding 3 / dual-label extraction regex, order-preservation lock for range labels, explicit scope exclusions; confirmed UI-map/i18n/people-default safety). Awaiting external audit + project-lead sign-off before any code change. **Branch:** `content-multibook-expansion`. **Source items:** `ARCHITECTURE_DRY_AUDIT.md` (parser Findings 1–3,6; UI Findings 2–4) + `PENDING.md` (DRY consolidation, "Tier 2"). **Risk class:** MEDIUM blast radius (all 5 parsers + 3 UI components), LOW behavioral risk (empirically 0 resolved-value change — §12).
 
 > Applies the Tier-1 learnings: (1) embed an empirical pre-validation that proves the behavior claim against the real corpus; (2) pick the *right* content-loss guard for this change class — here a **surface-aware resolved-value diff**, not conservation (conservation counts *units*, not their claim/confidence *values*); (3) small, independently-gated, revertible steps; (4) locate edit sites by symbol/pattern, not line number; (5) external-audit-ready before execution.
 
@@ -10,11 +10,16 @@
 
 Give the **dual-label concept (claim-type + confidence)** one home, eliminating the copy-paste-then-drift the architecture audit found:
 - **Parsers:** one `parseClaimType` / `parseConfidence` (+ `LOCALE_ALIASES`, `CLAIM_TYPES`/`CONFIDENCE_LEVELS` arrays derived from the type unions) consumed by all 5 content parsers — replacing the 4 divergent `parseConfidence`, 3 divergent `parseClaimType`, and the duplicated arrays.
+- **Dual-label extraction (audit Finding 3 — added after self-audit 2026-06-19):** one `parseDualLabel(line)` + `DUAL_LABEL` regex unifying the divergent `**[claim — confidence]**` extractors (`enrichment` `LABEL_LINE`/`INLINE_LABEL`/`TRAILING_LABEL`, `book-context` `CLAIM_LINE`) so all handle the same dash set (`—|–|--`). *(The en-dash `–` variant is currently latent — 0 content uses it — so this is cleanup that removes a divergence, not an active-bug fix; but it belongs with the dual-label SSOT, not split off.)*
 - **UI:** one confidence→tone map + one set of i18n-key maps (`CONFIDENCE_KEYS`/`CLAIM_TYPE_KEYS`) consumed by `claim-badge`, `person-card`, `prophecy-view`; and adopt the shared `<ClaimBadge>` in `person-card`'s `CuriositiesBlock` (removes the last hand-rolled badge, gains i18n).
 
 **Done when:** the duplicated parser/UI label logic is one source each; **the resolved (claimType, confidence) for every content entry is byte-identical before/after** (the latent drifts are folded into the canonical, with no current value change — §12); the 2 latent parser drifts can no longer recur; `pnpm test · lint · build · content:lint` green; conservation unchanged; UI badges render identically (MCP visual).
 
-**Explicit non-goals:** the renderer (Tier 1, done); `<Disclosure>` extraction + `people-parser.ts` split (Tier 3); `FulfillmentStatus` parsing/color (single-copy each — not a DRY target); redundant `Name (Name)` (Tier 4).
+**Explicit non-goals (scoped out, *not* dropped):**
+- The renderer (Tier 1, done); `<Disclosure>` extraction + `people-parser.ts` split (Tier 3); redundant `Name (Name)` (Tier 4).
+- **`people-parser`'s `parseOriginType` + `parseHistoricityStatus`** — distinct single-copy enums (`HistoricityStatus` shares some member *names* with `ConfidenceLevel` but adds `LITERARY` and is a different type). Not dual-label; no duplication → leave.
+- **`FulfillmentStatus`** parsing (`prophecy-parser`) + its color map (`prophecy-view` `FULFILLMENT_COLORS`) — single-copy each, not a DRY target.
+- **Audit parser Finding 5/7** — shared `FIELD_LINE` / `H2`–`H4` headers / `SOURCE_LABELS` / `stripBlockquote` (5 copies each) + the warn-and-default pattern. Real DRY, but *generic parser plumbing*, not the dual-label concept → **deferred to Tier 3** (natural to land with the `people-parser` split). Tracked, not forgotten.
 
 ---
 
@@ -37,8 +42,10 @@ Per `ARCHITECTURE_DRY_AUDIT.md`, verified against source:
 - `parseClaimType(raw): ClaimType` and `parseConfidence(raw): ConfidenceLevel` — one implementation each, **canonical = the current `enrichment-parser` behavior** (the richest): claim default `TEXTUAL` (+warn), confidence default `POSSIBLE` (+warn).
 - `CLAIM_TYPES` / `CONFIDENCE_LEVELS` exported as `const` tuples `satisfies readonly ClaimType[] / ConfidenceLevel[]` (single source for the `people` arrays).
 
+> **Order-preservation requirement (self-audit 2026-06-19):** 4 *range* confidence labels exist in content — "PROBABLE THROUGH UNCERTAIN" / "WAHRSCHEINLICH BIS UNSICHER" / "PROVÁVEL A INCERTO" / "PROBABLE A INCIERTO" — each matches *two* buckets. They resolve to `PROBABLE` today only because every parser checks PROBABLE before UNCERTAIN. The merged `parseConfidence` **must preserve the canonical check order** (VERIFIED → PROBABLE → POSSIBLE → UNCERTAIN → SPECULATIVE → DOCUMENTED); a reorder would silently flip these to `UNCERTAIN`. Covered by a dedicated unit test + the R1 diff.
+
 ### 3b. Wire all 5 parsers
-Replace each local `parseClaimType`/`parseConfidence`/`parseConfidenceLabel` + the `people` arrays with imports from `labels.ts`. Net deletion of ~200 lines of duplicated logic.
+Replace each local `parseClaimType`/`parseConfidence`/`parseConfidenceLabel` + the `people` arrays + the Finding-3 extraction regexes with imports from `labels.ts`. Net deletion of ~200 lines of duplicated logic. (Leave `people` `parseOriginType`/`parseHistoricityStatus` untouched — out of scope.)
 
 ### 3c. `src/ui/shared/confidence-tone.ts`
 - `CONFIDENCE_TONE: Record<ConfidenceLevel, string>` (the canonical token classes) + `CONFIDENCE_KEYS` + `CLAIM_TYPE_KEYS` (i18n key maps).
@@ -72,7 +79,7 @@ Replace the hand-rolled chip pair with `<ClaimBadge claimType confidence />` (ga
 
 ## 6. Validation matrix
 
-**Unit tests** (new `labels.test.ts`): every alias from all 4 former parsers (incl. ASCII-German `MOEGLICH`/`SPATERE`/`ARCHAOLOGISCH`, accented forms, EN/PT/ES) → correct enum; claim default `TEXTUAL`, confidence default `POSSIBLE`; `CLAIM_TYPES`/`CONFIDENCE_LEVELS` cover the unions (`satisfies` + a test asserting length === union size).
+**Unit tests** (new `labels.test.ts`): every alias from all 4 former parsers (incl. ASCII-German `MOEGLICH`/`SPATERE`/`ARCHAOLOGISCH`, accented forms, EN/PT/ES) → correct enum; claim default `TEXTUAL`, confidence default `POSSIBLE`; `CLAIM_TYPES`/`CONFIDENCE_LEVELS` cover the unions (`satisfies` + a test asserting length === union size); **the 4 range labels** ("PROBABLE THROUGH UNCERTAIN", "WAHRSCHEINLICH BIS UNSICHER", "PROVÁVEL A INCERTO", "PROBABLE A INCIERTO") → `PROBABLE` (order-preservation lock); `parseDualLabel` parses `—`, `–`, `--` variants.
 
 **System / integration:**
 - **R1 resolved-value diff** (the gate): a script that, per content file, applies the OLD responsible parser vs NEW to every dual-label / field and reports any (file, entry, old→new) difference. Must be **0** (or an explicitly-reviewed correction set).
@@ -137,3 +144,22 @@ Following the Tier-1 method, the merge's behavior was tested against the real co
 **Conclusion:** the cross-parser divergence is entirely **latent**; merging to the richest canonical changes **0 rendered values** today and makes the latent drifts unrecoverable. The R1 resolved-value diff is the gate that keeps it so. ReDoS n/a (simple `.includes` checks). 
 
 **Residuals for execution (cannot be closed by static analysis):** the real parsers' end-to-end behavior (re-prove via existing parser unit tests + new `labels.test.ts` + the R1 diff script run against the *actual* TS, not the JS replica); the `person-card` badge visual; the full gate.
+
+---
+
+## 13. Self-audit addendum (2026-06-19) — deeper pass, plan corrected
+
+Red-teamed this plan the way Tier 1 was. Findings (all folded in above):
+
+**Corrections to the plan (actions changed):**
+1. **Scope gap — audit Finding 3 was missing.** The plan merged the *value* parsers but not the *dual-label extraction* regexes (`LABEL_LINE`/`INLINE_LABEL`/`TRAILING_LABEL`/`CLAIM_LINE`), which diverge on dash variants. Added to scope (§1, §3b) as `parseDualLabel` + `DUAL_LABEL`. (En-dash `–` confirmed latent — 0 content uses it — so cleanup, not active-bug.)
+2. **Order-sensitivity — 4 range labels.** "PROBABLE THROUGH UNCERTAIN" (+ DE/ES/PT forms) match two buckets; they resolve to `PROBABLE` only because PROBABLE precedes UNCERTAIN in every parser. Added an explicit order-preservation requirement (§3a) + unit test (§6). 0 current change (all parsers already share this order).
+3. **Scope clarity — excluded enums.** `people-parser`'s `parseOriginType` + `parseHistoricityStatus` are distinct single-copy enums (`HistoricityStatus` shares names with `ConfidenceLevel` but adds `LITERARY`); explicitly out of scope (§1 non-goals). Finding 5/7 (generic parser plumbing) explicitly deferred to Tier 3 — tracked, not dropped.
+
+**Confirmed safe (strengthen the plan, no action):**
+- **UI tone maps are byte-identical** — `claim-badge` `CONFIDENCE_BADGE_COLORS` == `person-card` `CONFIDENCE_TONE` across all 6 members (Tier-1 aligned the last diff). Consolidation = pure dedup, 0 visual change beyond the intended `person-card` raw-enum→i18n.
+- **i18n keys exist in all 4 locales** — 8 `claimType.*` + 6 `confidence.*` present in en/pt-br/de/es → `person-card` `ClaimBadge` adoption won't hit missing keys.
+- **`people` `parseConfidence` only ever sees `DOCUMENTED`** (region path) → dropping its `UNCERTAIN` default changes nothing; **no test asserts that default** (the `people-parser.test` `UNCERTAIN` at line ~134 is a `historicityStatus` case, different enum).
+- **`prophecy-view` `CONFIDENCE_KEYS` is identical** to `claim-badge`'s (an earlier "differ" was a grep artifact).
+
+Verdict: with Finding 3 added, the order-preservation lock, and the explicit exclusions, the plan is complete and the "0 resolved-value change" claim holds. Ready for external audit / execution.
