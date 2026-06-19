@@ -2,16 +2,19 @@ import type { ReactNode } from "react";
 import { cx } from "@/ui/shared/cx";
 
 /**
- * The shared `<details className="tt-details">` accordion scaffold (summary +
- * chevron + body). The accordion *behavior* (exclusivity via native
- * `details[name]`, first-open, `.chev` rotation) lives entirely in `globals.css`
- * — this component only emits the markup, identically to the hand-rolled sites
- * it replaces.
+ * The shared `<details className="tt-details">` accordion scaffold — the
+ * repeated `<details>` + `<summary>` + chevron. The body `<div>` varies per
+ * site (children vs `dangerouslySetInnerHTML`, different classes), so the caller
+ * passes it as `children`.
+ *
+ * The accordion *behavior* (exclusivity via native `details[name]`, first-open,
+ * `.chev` rotation) lives entirely in `globals.css` — this only emits markup,
+ * identically to the hand-rolled sites it replaces.
  *
  * - `summary` is a slot: simple text/`<span>` or a rich node.
  * - `chevron` (default true) appends the `›` as the last summary child. Pass
- *   `chevron={false}` when the summary embeds its own chevron (e.g. grouped with
- *   a badge), so it isn't double-rendered.
+ *   `chevron={false}` when the summary embeds its own chevron (grouped with a
+ *   badge), so it isn't double-rendered.
  */
 export function Disclosure({
   name,
@@ -19,7 +22,6 @@ export function Disclosure({
   id,
   className,
   summary,
-  bodyClassName,
   chevron = true,
   children,
 }: {
@@ -28,7 +30,6 @@ export function Disclosure({
   id?: string;
   className?: string;
   summary: ReactNode;
-  bodyClassName?: string;
   chevron?: boolean;
   children: ReactNode;
 }) {
@@ -47,7 +48,7 @@ export function Disclosure({
           </span>
         )}
       </summary>
-      <div className={cx("body", bodyClassName)}>{children}</div>
+      {children}
     </details>
   );
 }

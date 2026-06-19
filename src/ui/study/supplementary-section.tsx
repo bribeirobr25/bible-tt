@@ -1,4 +1,5 @@
 import type { SupplementarySection } from "@/domain/content/types";
+import { Disclosure } from "@/ui/shared/disclosure";
 import { renderMarkdownSafe } from "@/ui/shared/render-markdown-safe";
 
 /**
@@ -18,26 +19,21 @@ export function SupplementaryPanel({
   return (
     <div className="space-y-0 mt-2">
       {sections.map((section, i) => (
-        <details
+        <Disclosure
           key={`s-${i}`}
           id={`supp-${i}`}
           name="notes-acc"
-          className="tt-details scroll-mt-24"
+          className="scroll-mt-24"
           open={firstOpen && i === 0}
+          summary={<span>{section.title}</span>}
         >
-          <summary>
-            <span>{section.title}</span>
-            <span className="chev" aria-hidden="true">
-              ›
-            </span>
-          </summary>
           <div
             className="body [&_em]:italic"
             dangerouslySetInnerHTML={{
               __html: renderMarkdownSafe(section.content, "note"),
             }}
           />
-        </details>
+        </Disclosure>
       ))}
     </div>
   );

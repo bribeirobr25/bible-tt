@@ -1,5 +1,6 @@
 import { useTranslations } from "next-intl";
 import { type EnrichmentData, sortByConfidence } from "@/domain/content/types";
+import { Disclosure } from "@/ui/shared/disclosure";
 import {
   renderInlineSafe,
   renderMarkdownSafe,
@@ -51,18 +52,12 @@ export function ContextView({ data }: { data: EnrichmentData }) {
       />
 
       {displaySections.map((section, si) => (
-        <details
+        <Disclosure
           key={section.id}
           name="deeper-acc"
-          className="tt-details"
           open={si === 0}
+          summary={<span>{section.title}</span>}
         >
-          <summary>
-            <span>{section.title}</span>
-            <span className="chev" aria-hidden="true">
-              ›
-            </span>
-          </summary>
           <div className="body">
             {section.intro && (
               <p
@@ -79,11 +74,9 @@ export function ContextView({ data }: { data: EnrichmentData }) {
                 section.entries.map((entry, i) =>
                   entry.subEntries?.length ? (
                     entry.hasLabel ? (
-                      <details
+                      <Disclosure
                         key={`${section.id}-${i}`}
-                        className="tt-details"
-                      >
-                        <summary>
+                        summary={
                           <span className="flex flex-wrap items-center gap-2.5">
                             <span
                               className="font-[family-name:var(--font-reading)] text-[1.15rem]"
@@ -96,10 +89,8 @@ export function ContextView({ data }: { data: EnrichmentData }) {
                               confidence={entry.confidence}
                             />
                           </span>
-                          <span className="chev" aria-hidden="true">
-                            ›
-                          </span>
-                        </summary>
+                        }
+                      >
                         <div className="body">
                           {entry.subEntries.map((sub, j) => (
                             <EnrichmentEntryCard
@@ -108,7 +99,7 @@ export function ContextView({ data }: { data: EnrichmentData }) {
                             />
                           ))}
                         </div>
-                      </details>
+                      </Disclosure>
                     ) : (
                       <div key={`${section.id}-${i}`}>
                         <h3
@@ -141,7 +132,7 @@ export function ContextView({ data }: { data: EnrichmentData }) {
                   />
                 ))}
           </div>
-        </details>
+        </Disclosure>
       ))}
     </div>
   );

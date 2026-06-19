@@ -1,5 +1,6 @@
 import { getTranslations } from "next-intl/server";
 import type { ChapterData } from "@/domain/content/types";
+import { Disclosure } from "@/ui/shared/disclosure";
 import { renderMarkdownSafe } from "@/ui/shared/render-markdown-safe";
 import { GlossaryPanel } from "@/ui/study/glossary-panel";
 import { SupplementaryPanel } from "@/ui/study/supplementary-section";
@@ -25,24 +26,19 @@ export async function NotesView({ data }: { data: ChapterData }) {
   return (
     <div>
       {data.readingGuide && (
-        <details
+        <Disclosure
           name="notes-acc"
-          className="tt-details max-w-[46rem] mx-auto"
+          className="max-w-[46rem] mx-auto"
           open
+          summary={<span>{t("nav.readingGuide")}</span>}
         >
-          <summary>
-            <span>{t("nav.readingGuide")}</span>
-            <span className="chev" aria-hidden="true">
-              ›
-            </span>
-          </summary>
           <div
             className="body text-text-primary"
             dangerouslySetInnerHTML={{
               __html: renderMarkdownSafe(data.readingGuide, "note"),
             }}
           />
-        </details>
+        </Disclosure>
       )}
 
       <div className="max-w-[46rem] mx-auto mb-5 flex flex-wrap gap-2.5">

@@ -1,5 +1,6 @@
 import { useTranslations } from "next-intl";
 import type { BookContextData } from "@/domain/content/types";
+import { Disclosure } from "@/ui/shared/disclosure";
 import {
   renderInlineSafe,
   renderMarkdownSafe,
@@ -31,13 +32,11 @@ export function BookContextView({ data }: { data: BookContextData }) {
       )}
 
       {data.motifs.map((motif, i) => (
-        <details
+        <Disclosure
           key={motif.slug}
           name="bg-acc"
-          className="tt-details"
           open={i === 0}
-        >
-          <summary>
+          summary={
             <span className="flex flex-col gap-1">
               <span
                 className="font-[family-name:var(--font-reading)] text-[1.15rem]"
@@ -51,10 +50,8 @@ export function BookContextView({ data }: { data: BookContextData }) {
                 </span>
               )}
             </span>
-            <span className="chev" aria-hidden="true">
-              ›
-            </span>
-          </summary>
+          }
+        >
           <div className="body">
             <div className="tt-enrich">
               <div className="labels">
@@ -81,7 +78,7 @@ export function BookContextView({ data }: { data: BookContextData }) {
               )}
             </div>
           </div>
-        </details>
+        </Disclosure>
       ))}
     </div>
   );
