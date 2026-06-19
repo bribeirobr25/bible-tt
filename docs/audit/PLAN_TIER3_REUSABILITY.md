@@ -1,6 +1,6 @@
 # Execution Plan — Tier 3: Reusability / God-File / Parser-Plumbing Consolidation
 
-**Date:** 2026-06-19 · **Status:** DRAFT — awaiting external audit + project-lead sign-off before any code change. **Branch:** `content-multibook-expansion`. **Source:** `ARCHITECTURE_DRY_AUDIT.md` (UI Finding 1; DDD god-file finding; parser Findings 5/7) + `PENDING.md` (Tier 3). **Risk class:** LOW behavioral risk — **pure structural refactor, no behavior/content/value change**; the correct guard is **byte-identical rendered HTML (UI) / identical parse output (parsers)**, not resolved-values (Tier 2) or render output (Tier 1).
+**Date:** 2026-06-19 · **Status:** DRAFT — self-audited 2026-06-19 (§13): **WS3 de-scoped to `SOURCE_LABELS` only** (FIELD_LINE/headers/stripBlockquote are divergent/false-DRY — FIELD_LINE unification confirmed an *active* parse risk on DE chapters); WS1 +10th site (app/people Sources) + className byte-identical note + accordion confirmed native; WS2 confirmed feasible; added a completeness list of audit items left for Tier 4. Awaiting external audit + project-lead sign-off. **Branch:** `content-multibook-expansion`. **Source:** `ARCHITECTURE_DRY_AUDIT.md` (UI Finding 1; DDD god-file finding; parser Findings 5/7) + `PENDING.md` (Tier 3). **Risk class:** LOW behavioral risk — **pure structural refactor, no behavior/content/value change**; the correct guard is **byte-identical rendered HTML (UI) / identical parse output (parsers)**, not resolved-values (Tier 2) or render output (Tier 1).
 
 > Carries the Tier-1/2 learnings: (1) embed an empirical pre-validation grounded in source (§12 — the call-site variant matrix + duplication inventory); (2) pick the guard that matches the change class — here **rendered-HTML / parse-output equivalence**; (3) small, independently-gated, revertible steps; (4) locate by symbol/pattern, not line number; (5) external-audit + self-audit before execution.
 
@@ -154,3 +154,34 @@ Grounded against source before sign-off (Tier-1/2 method):
 - **Risk class confirmed:** none of the three changes content, resolved values, or rendered output by design — every guard asserts *equivalence* (HTML / parse-output / conservation). This is why Tier 3 is lower-risk than Tier 1 (visible render change) or Tier 2 (content-meaning values), despite touching many files.
 
 **Residuals for execution (cannot be closed statically):** the byte-identical HTML diffs (WS1), the people-data + full parse snapshots (WS2/WS3), the accordion interaction check, and the full gate — the executor's last-mile proof.
+
+---
+
+## 13. Self-audit addendum (2026-06-19) — plan corrected
+
+Red-teamed against source (Tier-2 method). Findings, each verified:
+
+### WS3 is largely a FALSE-DRY trap — DE-SCOPE to `SOURCE_LABELS` only (or drop)
+The audit's parser Finding 5 over-stated the opportunity. Exact-comparing the "duplicated" regexes:
+- **`FIELD_LINE` differs and the difference is ACTIVE.** markdown's `METADATA_LINE = /^\*\*(.+?):\*\*\s*(.+)$/` uses `(.+)`; prophecy/book-context/people use `(.*)`. Empty-value `**Label:**` sub-headings exist in real content (`de/genesis/CHAPTER-9.md`, `CHAPTER-10.md`, e.g. `**Gibbor-Kette:**`); markdown's `(.+)` correctly rejects them as metadata — unifying to `(.*)` would **reclassify them**, a real parse-output change. **Do NOT unify `FIELD_LINE`.**
+- **Header regexes are semantic coincidence, not duplication.** `/^## (.+)$/` appears 4× but as `SECTION_HEADER`/`ENTRY_HEADER`/`MOTIF_HEADER` (different meanings), and enrichment's is entirely different (`/^## ([A-Z])(?:_\w+)?\.\s+(.+)$/`). Sharing one generic `H2` constant would couple unrelated concepts — an anti-pattern. **Do NOT unify headers.**
+- **`stripBlockquote` differs too:** markdown `/^>\s?/`, others `/^>\s*/`, enrichment also `/^>\s*/gm`. Not identical → unifying risks subtle change. **Verify or leave.**
+- **`SOURCE_LABELS`** is the only genuinely-duplicated, same-purpose item (same 4 words: `source|fonte|quelle|fuente`, in 3 forms — book-context array, enrichment regex, people inline). **Safe to unify; this is the entire defensible WS3.**
+- **Net:** reduce WS3 to a shared `SOURCE_LABELS` constant (+ derived regex), or drop WS3 as low-value. The original "5 FIELD_LINE + 4 header + stripBlockquote copies" framing is mostly coincidental-or-divergent regexes that should stay separate.
+
+### WS1 refinements
+- **10th site confirmed:** `src/app/[locale]/[book]/people/page.tsx` "Sources consulted" `<details>` (simple shape, in the `app/` layer) — include it; `ui/shared/disclosure` is importable from `app/`.
+- **Accordion is pure native HTML+CSS** — `globals.css` `.tt-details[open] > summary .chev` + native `details[name]` exclusivity; **no JS controls `open` state** (verified). So `<Disclosure>` only needs to preserve `name`/`open`/`className`/`.chev`/`.body` markup — no state machine to replicate. Strengthens W1-R2.
+- **className byte-identical gotcha (W1-R5, new):** naively templating `` `tt-details ${className ?? ""}` `` emits a trailing space (`class="tt-details "`) that FAILS the byte-identical gate. The component must conditionally join (`[base, className].filter(Boolean).join(" ")`) — same for `body`/`bodyClassName`. The HTML-diff gate catches this.
+
+### WS2 confirmed feasible
+`people-parser` functions are mostly pure with explicit args (`parseTableRow(line)`, `resolveField(label)`, `parseOriginType`/`parseHistoricityStatus(raw)`, `flushGenealogy(...)`); the mutable `ParseState` is confined to the entry loop. The split is a clean module move; executor verifies `flushGenealogy`'s signature doesn't close over state.
+
+### Completeness — audit items NOT covered by Tiers 1–3 (tracked, not dropped)
+These remain open after Tiers 1–3 + this Tier-3 (they're smaller/independent; **Tier 4 / low-priority**):
+- **UI Finding 5:** `<Disclaimer>` / `<SourceLine>` helpers (`tt-disclaimer` + `className="src"` repeated across context-view/book-context-view/introduction-view/enrichment-entry/person-card); route `BookContextView` motifs through `EnrichmentEntryCard`.
+- **UI Finding 6:** one `NOTE_TYPE_TOKENS` map shared by the notes legend + `NoteBlock` (note-type→color defined twice).
+- **DDD-Low:** `person-card` `parseCrossBookSlug` (emit `crossBookSourceBook` from the parser instead); `people/page.tsx` blockquote cleanup → parser; `chapter-shell` short-status → derived field.
+- **Tier-4 content pass:** the ~120 redundant `Name (Name)` (PENDING §5).
+
+**Verdict:** WS1 (with the 10th site + className note) and WS2 are sound. **WS3 should be cut to `SOURCE_LABELS` or dropped** — the self-audit shows most of it is false-DRY that would risk parse-output changes. The plan's guards (HTML-diff, parse snapshot, conservation) would catch any such change, but it's better to not attempt the divergent unifications at all.
