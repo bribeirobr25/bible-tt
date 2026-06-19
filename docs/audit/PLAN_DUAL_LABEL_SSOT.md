@@ -1,6 +1,6 @@
 # Execution Plan — Tier 2: Dual-Label Single-Source-of-Truth (parsers + UI)
 
-**Date:** 2026-06-19 · **Status:** DRAFT — self-audited 2026-06-19 (§13: added audit Finding 3 / dual-label extraction regex, order-preservation lock for range labels, explicit scope exclusions; confirmed UI-map/i18n/people-default safety). Awaiting external audit + project-lead sign-off before any code change. **Branch:** `content-multibook-expansion`. **Source items:** `ARCHITECTURE_DRY_AUDIT.md` (parser Findings 1–3,6; UI Findings 2–4) + `PENDING.md` (DRY consolidation, "Tier 2"). **Risk class:** MEDIUM blast radius (all 5 parsers + 3 UI components), LOW behavioral risk (empirically 0 resolved-value change — §12).
+**Date:** 2026-06-19 · **Status:** ✅ APPROVED by external audit (`AUDIT_DUAL_LABEL_SSOT_PLAN.md`, 2026-06-19) — all structural claims verified against source; findings folded in (§14): no curiosity content exists corpus-wide (Step-4 validation → render test; people residual named in R1), extract-vs-strip + first-label-wins preserved (Minor 2/3), in-field parenthetical labels confirmed out of scope (Finding 2). Self-audited §13. Awaiting project-lead sign-off on §10 before code changes. **Branch:** `content-multibook-expansion`. **Source items:** `ARCHITECTURE_DRY_AUDIT.md` (parser Findings 1–3,6; UI Findings 2–4) + `PENDING.md` (DRY consolidation, "Tier 2"). **Risk class:** MEDIUM blast radius (all 5 parsers + 3 UI components), LOW behavioral risk (empirically 0 resolved-value change — §12).
 
 > Applies the Tier-1 learnings: (1) embed an empirical pre-validation that proves the behavior claim against the real corpus; (2) pick the *right* content-loss guard for this change class — here a **surface-aware resolved-value diff**, not conservation (conservation counts *units*, not their claim/confidence *values*); (3) small, independently-gated, revertible steps; (4) locate edit sites by symbol/pattern, not line number; (5) external-audit-ready before execution.
 
@@ -52,7 +52,12 @@ Replace each local `parseClaimType`/`parseConfidence`/`parseConfidenceLabel` + t
 - Wire `claim-badge`, `person-card`, `prophecy-view` to import; delete their local copies.
 
 ### 3d. Adopt `<ClaimBadge>` in `person-card`'s `CuriositiesBlock`
-Replace the hand-rolled chip pair with `<ClaimBadge claimType confidence />` (gains i18n translation of the labels; removes the last divergent badge).
+Replace the hand-rolled chip pair with `<ClaimBadge claimType confidence />` (gains i18n translation of the labels; removes the last divergent badge). *(Minor 1: `ClaimBadge`'s unreachable fallback is `POSSIBLE`-tone vs `CuriositiesBlock`'s current `UNCERTAIN`-tone — both unreachable since every member is mapped; do not "fix" it.)*
+
+### 3e. Dual-label extraction (Finding 3) — preserve the extract-vs-strip distinction
+enrichment deliberately uses **three regexes for two jobs**: `LABEL_LINE` (own-line **extraction**, `—|--`) and `CLAIM_LINE` (book-context extraction, `—` only) *extract* the entry's authored claim/confidence; `INLINE_LABEL` (`—|--|–`) + `TRAILING_LABEL` *strip* stray inline/trailing label tags from body/source text in `finalizeEntry`. When unifying:
+- **Minor 2:** widen the *extraction* regex's dash set to `—|–|--` (so it matches the inline set), but **keep extraction and stripping as separate operations** — the stripper must not be narrowed, and the extractor must not start capturing a stray *inline* body tag as the entry's real label. Test: a body containing an inline `[x – y]` tag → tag stripped, the own-line label still wins.
+- **Minor 3:** preserve `book-context`'s **first-label-wins** semantics (`if (claimMatch && !current.claimType)`, line ~246) — a motif with two label-looking lines must still take the first.
 
 ---
 
@@ -68,7 +73,7 @@ Replace the hand-rolled chip pair with `<ClaimBadge claimType confidence />` (ga
 
 | # | Risk | Mitigation / proof |
 |---|---|---|
-| R1 | **Resolved-value regression / content-meaning change** | The decisive gate: a **surface-aware resolved-value diff** — resolve (claimType, confidence) for every content entry via the OLD *responsible* parser vs NEW; assert **0 changes**. §12 already ran it → 0. Any future non-zero entry is an enumerated, reviewed correction (a claim/confidence value is content meaning → provisional, Rule-28-adjacent). |
+| R1 | **Resolved-value regression / content-meaning change** | The decisive gate: a **surface-aware resolved-value diff** — resolve (claimType, confidence) for every content entry via the OLD *responsible* parser vs NEW; assert **0 changes**. §12 already ran it → 0. Any future non-zero entry is an enumerated, reviewed correction (a claim/confidence value is content meaning → provisional, Rule-28-adjacent). **If the diff is non-zero, the single most likely source is a `people` curiosity `**Confidence:**` field hitting the people-vs-canonical order/default difference** (the only author-free-text path into `people`'s parser) — none exist today, so a non-zero diff means new curiosity content was added; enumerate and review before proceeding rather than treating it as noise. |
 | R2 | **Content loss** | Code-only (steps 1–4); conservation **unit counts** unchanged. NB conservation does *not* see confidence *values* → R1's resolved-value diff is the real content guard, not conservation. |
 | R3 | **Compliance (Rule 29 dual-label)** | The dual-label claim-type + confidence is a Rule-29 construct; the merge must not silently re-bucket any label. Covered by R1 (0 value change) + new exhaustive alias→enum unit tests. |
 | R4 | **The 2 latent drifts** | Folded into the canonical (merged recognizes the full union; one default). They become *unreachable as bugs*; §12 confirms no current entry's value flips. |
@@ -94,7 +99,7 @@ Replace the hand-rolled chip pair with `<ClaimBadge claimType confidence />` (ga
 1. **Create `domain/content/labels.ts`** + `labels.test.ts` (no wiring). Pure addition; gate green.
 2. **Wire the 5 parsers** to `labels.ts`; delete local copies + `people` arrays. Run the **R1 resolved-value diff = 0**; existing parser tests green; conservation unchanged.
 3. **Create `ui/shared/confidence-tone.ts`**; wire `claim-badge` + `prophecy-view` (key/tone source swap, output identical). Gate + spot visual (badges unchanged).
-4. **Adopt `<ClaimBadge>` in `person-card` `CuriositiesBlock`** (the one intended visible change). Gate + MCP visual (People curiosity badge, 2 locales).
+4. **Adopt `<ClaimBadge>` in `person-card` `CuriositiesBlock`.** *Per external audit: **no PEOPLE.md (any of the 13, any locale) contains curiosity content today** — so `CuriositiesBlock` renders on no live page and this is pure future-proofing, not an observable change.* Therefore validate with a **render/unit test of `CuriositiesBlock` with a synthetic entry** (asserting it renders `<ClaimBadge>` with i18n labels + canonical tone), **not** an MCP visual (there is nothing live to screenshot). Note the unreachable-fallback tone shift (Minor 1) so it isn't mistaken for a regression.
 5. **Docs/logs** — `EXECUTION_HISTORY` entry; `PENDING` Tier-2 items closed; `ARCHITECTURE_DRY_AUDIT` parser/UI findings marked done.
 
 Each step a separate revertible commit behind the full gate. Step 1 (pure add) and Step 2 (wiring) separable so a parity miss in wiring reverts without losing the new module.
@@ -163,3 +168,17 @@ Red-teamed this plan the way Tier 1 was. Findings (all folded in above):
 - **`prophecy-view` `CONFIDENCE_KEYS` is identical** to `claim-badge`'s (an earlier "differ" was a grep artifact).
 
 Verdict: with Finding 3 added, the order-preservation lock, and the explicit exclusions, the plan is complete and the "0 resolved-value change" claim holds. Ready for external audit / execution.
+
+---
+
+## 14. External audit applied (2026-06-19)
+
+External audit (`AUDIT_DUAL_LABEL_SSOT_PLAN.md`): **APPROVE** — every structural claim verified against source (incl. reading all 3 EN PEOPLE.md in full); divergences, canonical-is-enrichment, byte-identical UI maps, and the "all divergence latent → 0 resolved-value change" thesis all confirmed. Findings folded in (each re-verified against source before accepting):
+
+1. **Finding 1 + Q2 (most consequential) — no curiosity content exists corpus-wide.** Verified: 0 `**Claim Type:**`/`**Confidence:**` curiosity fields in *any* of the 13 PEOPLE.md (all locales). Consequences applied: (a) `people`'s order/default divergence is unreachable today — named explicitly as the gated residual in §5/R1 (a non-zero R1 diff most likely = newly-added curiosity content, enumerate & review); (b) **the `person-card` ClaimBadge change is unobservable today** → Step 4 validation changed from MCP visual to a **render/unit test of `CuriositiesBlock`** with a synthetic entry.
+2. **Minor 1** — `ClaimBadge`'s unreachable fallback is `POSSIBLE`-tone vs the current `UNCERTAIN`-tone; both unreachable; noted in §3d so it isn't "fixed" as a phantom regression.
+3. **Minor 2** — `parseDualLabel` must preserve enrichment's **extract-vs-strip** split (`LABEL_LINE`/`CLAIM_LINE` extract; `INLINE_LABEL`/`TRAILING_LABEL` strip); widen the extractor dash set to `—|–|--` without letting it capture a stray inline body tag. Added to §3e + a §6 test.
+4. **Minor 3** — preserve `book-context` **first-label-wins** (`!current.claimType`, line ~246). Added to §3e + a §6 test.
+5. **Finding 2 (strengthens "0 change")** — PEOPLE.md typed fields carry inline parenthetical `(CLAIM — CONFIDENCE)` labels (e.g. Yeshua `Birth year: … (TEXTUAL — PROBABLE; …)`) stored **raw** by `applyField` and rendered as plain text → they never reach `parseClaimType`/`parseConfidence` and are **out of scope**; rendering them as real badges would be a *separate feature*, not this refactor. Verified in `en/matthew/PEOPLE.md`.
+
+All confirmed-safe bullets (canonical superset, DDD home, UI-map/key identity, excluded enums, order lock) independently re-verified. **Status → APPROVED; awaiting project-lead sign-off on §10.** Open item for the lead: Q2 — since no curiosity content exists, confirm `ClaimBadge` adoption as future-proofing (validated by render test, not a live page).
