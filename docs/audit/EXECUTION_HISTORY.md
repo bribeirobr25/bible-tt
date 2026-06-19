@@ -11,6 +11,19 @@ in `docs/audit/PENDING.md`.
 
 ---
 
+## Dual-label SSOT (Tier 2) — branch `content-multibook-expansion` (2026-06-19)
+
+Per `docs/audit/PLAN_DUAL_LABEL_SSOT.md` (externally audited, `AUDIT_DUAL_LABEL_SSOT_PLAN.md`). Gave the dual-label (claim-type + confidence) concept one home, ending the copy-paste-then-drift the architecture audit found. Five gated steps:
+- **Step 1** — `src/domain/content/labels.ts`: merged `parseClaimType`/`parseConfidence` (canonical = enrichment, the richest superset; ordered arrays double as the check order — PROBABLE before UNCERTAIN for range labels), `CLAIM_TYPES`/`CONFIDENCE_LEVELS` (`satisfies` the unions), `parseDualLabel`/`DUAL_LABEL` (own-line extraction, `—|–|--`). +9 unit tests.
+- **Step 2** — wired all 5 parsers to `labels.ts`; deleted the 4 divergent `parseConfidence`, 3 `parseClaimType`, the duplicated `people` arrays, and the divergent extraction regexes (`LABEL_LINE`/`CLAIM_LINE`). Preserved book-context first-label-wins; enrichment's inline/trailing *strip* regexes; `people` origin/historicity + prophecy fulfillment enums (out of scope). **Validated with a temporary R1 resolved-value snapshot: 0 changes across all 126 content files** (behavior-preserving vs the real parsers). ~350 lines of duplication removed.
+- **Step 3** — `src/ui/shared/confidence-tone.ts`: one `CONFIDENCE_TONE` + `CONFIDENCE_KEYS` + `CLAIM_TYPE_KEYS`; wired `claim-badge` + `prophecy-view` (maps were byte-identical → pure dedup).
+- **Step 4** — `person-card` `CuriositiesBlock` adopts shared `<ClaimBadge>` (raw enum → i18n; removed its last local tone map). No curiosity content exists in any of the 13 PEOPLE.md, so this is future-proofing — validated by a unit test proving every claim/confidence i18n key resolves in all 4 locales (no component-render infra in the project).
+- **Step 5** — docs/logs (this entry; PLAN → EXECUTED; PENDING updated).
+
+Gate green throughout (880 tests, lint, build, content:lint; conservation 11831 unchanged). The dual-label concept is now single-source in parsers (`domain/content/labels.ts`) and UI (`ui/shared/confidence-tone.ts`). Remaining DRY items (Tier 3): `<Disclosure>` extraction, the 1027-line `people-parser.ts` split, and shared parser plumbing (audit Finding 5/7: `FIELD_LINE`/headers/`SOURCE_LABELS`/`stripBlockquote`).
+
+---
+
 ## Renderer nested-emphasis hardening (Tier 1) — branch `content-multibook-expansion` (2026-06-19)
 
 Per `docs/audit/PLAN_RENDERER_NESTED_EMPHASIS.md` (externally audited, `AUDIT_RENDERER_NESTED_EMPHASIS_PLAN.md`). Fixed the renderer bug where italic nested inside bold (`**label *term*:**`) emitted literal asterisks across ~96 authored lines in all 4 locales. Five gated steps:
