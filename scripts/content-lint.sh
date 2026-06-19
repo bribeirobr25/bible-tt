@@ -265,6 +265,25 @@ check_source_persona_leak() {
 }
 check_source_persona_leak
 
+# §0.14 — Unbalanced bold (**) guard (blocking)
+# Added 2026-06-19 with the renderer nested-emphasis hardening
+# (PLAN_RENDERER_NESTED_EMPHASIS). A line with an ODD number of `**` renders with
+# literal asterisks (the renderer's bold pass needs matched `**`). Well-formed
+# nesting like `**a *b***` counts `**` as 2 (even) and is fine. Baseline = 0
+# across all content; this locks it so future authoring can't reintroduce the
+# stray-asterisk bug the hardening fixed.
+check_unbalanced_bold() {
+  local rule_id="0.14"
+  local matches
+  matches=$(perl -ne '
+    if (eof) { close ARGV; }
+    my $c = () = /\*\*/g;
+    if ($c % 2 == 1) { chomp; print "$ARGV:$.:$_\n"; }
+  ' $(find content -name '*.md' | sort) 2>/dev/null | filter_allowlist "$rule_id")
+  emit "$rule_id" "Unbalanced ** on a line (bold renders with literal asterisks; nested **a *b*** is fine)" "$matches"
+}
+check_unbalanced_bold
+
 # ============================================================
 # Legacy rules (pre-Phase 0)
 # ============================================================

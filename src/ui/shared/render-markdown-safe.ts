@@ -50,8 +50,8 @@ function convertTable(tableBlock: string): string {
     html += "<tr>";
     for (let i = 0; i < headers.length; i++) {
       const cell = row[i] || "";
-      html += `<td class="px-3 py-2 border-b border-border-muted text-text-primary">${applyEmphasis(
-        escapeHtml(cell),
+      html += `<td class="px-3 py-2 border-b border-border-muted text-text-primary">${renderInlineSafe(
+        cell,
       )}</td>`;
     }
     html += "</tr>";
