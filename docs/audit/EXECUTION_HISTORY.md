@@ -11,6 +11,17 @@ in `docs/audit/PENDING.md`.
 
 ---
 
+## Reusability / god-file split (Tier 3) — branch `content-multibook-expansion` (2026-06-19)
+
+Per `docs/audit/PLAN_TIER3_REUSABILITY.md` (externally audited, `AUDIT_TIER3_REUSABILITY_PLAN.md`). Pure structural refactor (no content/value/render change); guard = equivalence.
+- **WS1 — shared `<Disclosure>`:** new `ui/shared/disclosure.tsx` (+ `cx` class-join helper, unit-tested for the trailing-space gotcha) replaces the hand-rolled `<details className="tt-details">` summary/chev/body scaffold at **9 sites** (5 simple: notes / supplementary / introduction / chapter-shell overview / app-people Sources; 4 rich: context-view outer+nested, book-context, prophecy with `chevron={false}` for its grouped badge+chev). `person-card`'s `tt-person` left separate (distinct base class). **Gate: DOM-equivalent rendered `<details>` markup across 10 pages × 4 locales, 0 diffs** (the accordion is pure-native CSS → behavior preserved by construction).
+- **WS2 — split `people-parser.ts`:** extracted the field-resolution + enum-parsing block into `people-fields.ts` (`FieldId`, `EXACT_LABEL_ALIASES`+lookup/fallback, `resolveField`, `parseOriginType`/`HistoricityStatus`/`Int10`/`GenerationsFrom`/`RegionsByText`). people-parser **948→560 lines**; pure slice (not retyped). The `ParseState`-coupled `flushGenealogy` + state machine stay in people-parser (avoids a circular import — audit Minor 3). **Gate: people-data snapshot byte-identical across all 13 PEOPLE.md** (0 parse-output change) + 58 people-parser tests + conservation.
+- **WS3 — dropped:** the audit + self-audit found parser Finding 5 was largely false-DRY (`FIELD_LINE` `(.+)`/`(.*)` divergence; `## ` headers are semantic coincidence; `stripBlockquote` divergent); only `SOURCE_LABELS` was safe-but-marginal. Not executed.
+
+Gate green throughout (882 tests, lint, build, content:lint; conservation 11831 unchanged). Remaining DRY items → Tier 4 (low-priority): UI Finding 5 (`<Disclaimer>`/`<SourceLine>`), UI Finding 6 (`NOTE_TYPE_TOKENS`), DDD-Low (`parseCrossBookSlug` etc.), and the ~120 `Name (Name)` content pass.
+
+---
+
 ## Dual-label SSOT (Tier 2) — branch `content-multibook-expansion` (2026-06-19)
 
 Per `docs/audit/PLAN_DUAL_LABEL_SSOT.md` (externally audited, `AUDIT_DUAL_LABEL_SSOT_PLAN.md`). Gave the dual-label (claim-type + confidence) concept one home, ending the copy-paste-then-drift the architecture audit found. Five gated steps:
