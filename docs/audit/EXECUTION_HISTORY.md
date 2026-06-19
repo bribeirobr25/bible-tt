@@ -11,6 +11,19 @@ in `docs/audit/PENDING.md`.
 
 ---
 
+## Renderer nested-emphasis hardening (Tier 1) — branch `content-multibook-expansion` (2026-06-19)
+
+Per `docs/audit/PLAN_RENDERER_NESTED_EMPHASIS.md` (externally audited, `AUDIT_RENDERER_NESTED_EMPHASIS_PLAN.md`). Fixed the renderer bug where italic nested inside bold (`**label *term*:**`) emitted literal asterisks across ~96 authored lines in all 4 locales. Five gated steps:
+- **Step 1** — extracted one `applyEmphasis` helper (4 duplicated copies → 1); pure refactor, no behavior change.
+- **Step 2** — tempered bold regex `/\*\*((?:[^*]|\*[^*]+\*)+?)\*\*/` so one level of italic nests in bold (incl. the trailing `**a *b***` shape and true `***x***`); +8 unit tests (mid/trailing/triple nest, regression lock, divine+nest, marker+nest, ReDoS). Auto-fixes all ~96 lines across locales (renderer-level, no content edits).
+- **Step 3** — routed `convertTable` cells through the shared `renderInlineSafe` pipeline (gains marker + nested support; R4 confirmed 0 raw markers in 4,212 table lines); added blocking `content:lint §0.14` unbalanced-`**` guard (baseline 0).
+- **Step 4** — re-italicized the 4 EN terms de-italicized ad-hoc on 2026-06-18 (john ch1 §B4 *tamid* / §IB-7 *skēnoō*; genesis ch2 §D *beyom*; john ch3 *aposunagōgos*/*Birkat ha-Minim*) → EN now matches de/es/pt-br parallels.
+- **Step 5** — docs/logs (this entry; PENDING + ARCHITECTURE_DRY_AUDIT updated; editorial-log notes).
+
+Gate green throughout (868 tests, lint, build, content:lint; conservation 11831 unchanged). Cross-locale curl: 0 stray `**` on john/matthew background + genesis introduction + chapter Read pages; Rule-30 divine speech with inner `<em>`/marker verified intact live. DRY: renderer emphasis is now single-source; remaining DRY items (parser `labels.ts`, `confidence-tone`, `<Disclosure>`, `people-parser` split) tracked in PENDING (Tier 2/3).
+
+---
+
 ## Redesign migration ("Light & Darkness") — branch `redesign-migration`
 
 Adopting the approved prototype's UI/UX into the production app, presentation-only, per

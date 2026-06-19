@@ -522,3 +522,12 @@ This log records consistency decisions, justified exceptions, text-critical choi
 - **AI provenance:** claude-opus-4-8 (1M), 2026-06-10. Gates green (see genesis 2026-06-10-118).
 - **Status:** provisional. **Reviewers:** locale-editors unassigned.
 - **Cross-references:** genesis.md 2026-06-10-118; `PATTERN_C_BESPOKE_RESIDUAL_PLAN.md`.
+
+## Entry J-034 — Re-italicize transliteration terms in bold labels (renderer hardening, Step 4)
+
+- **Verse:** John 1 companion §B4 (*tamid*) + §IB-7 (*skēnoō*); John 3 companion § (*aposunagōgos*, *Birkat ha-Minim*) — EN only.
+- **Rule(s) invoked:** transliteration-italics convention; Rule 28.
+- **Decision:** restored the italic markers on these terms inside their bold labels/dual-label tags. They were briefly de-italicized on 2026-06-18 only to dodge a renderer bug (italic-nested-in-bold rendered literal asterisks). With that bug now fixed at the renderer level (`PLAN_RENDERER_NESTED_EMPHASIS.md`, Tier 1, executed 2026-06-19), the natural form is restored, bringing EN into parity with the de/es/pt-br parallels that always kept the italics. No semantic change; italic-marker-only diff; conservation unchanged (11831).
+- **AI provenance:** claude-opus-4-8 (1M), 2026-06-19. Gates green; verified live (`<strong>…<em>…</em>…</strong>`, 0 stray `**`).
+- **Status:** provisional. **Reviewers:** locale-editors unassigned.
+- **Cross-references:** `EXECUTION_HISTORY.md` (Renderer nested-emphasis hardening); genesis.md 2026-06-19-120.
