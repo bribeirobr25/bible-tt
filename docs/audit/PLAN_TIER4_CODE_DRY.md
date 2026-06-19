@@ -28,7 +28,7 @@
 **S2a · `parseCrossBookSlug` → parser-emitted field (clear DDD fix).** `person-card.tsx:7` re-derives a book slug from the `**See:**` pointer via regex — that's **domain logic in `ui/`** (a `STANDARDS.md` violation). Fix: people-parser emits `crossBookSeeBook?: string` on `PersonEntry` (the resolved slug) next to the existing `crossBookSee`; `person-card` reads the field and keeps only its `bookLabels[slug]` presentation lookup. Delete `parseCrossBookSlug` from the UI.
 - *Guard:* people-data snapshot — `crossBookSeeBook` is a **new additive field**, so snapshot gains it (expected); assert **every other field byte-identical** + rendered cross-book link identical (curl). Conservation unchanged (no new unit kind; `person` count stable).
 
-**S2b · people `sources` blockquote/bullet cleanup → parser.** `people/page.tsx:245` does `.replace(/^>\s?/gm,"").replace(/^[-*]\s+/gm,"• ")` inline in the route. Move into the people-parser so `PeopleData.sources` is emitted clean; route renders it directly. **Nuance:** this *intentionally changes the parsed `sources` string* (now pre-cleaned), so the guard is **rendered-output equivalence** (curl the people Sources section byte-identical), **not** the raw-field snapshot; verify conservation's `sources`/text handling is unaffected (if the sources text multiset shifts, confirm it's only the `>`/bullet normalization and update the expectation deliberately). *(Lowest-value item — include only if conservation stays clean; otherwise defer.)*
+**S2b · people `sources` blockquote/bullet cleanup → parser.** `people/page.tsx:245` does `.replace(/^>\s?/gm,"").replace(/^[-*]\s+/gm,"• ")` inline in the route. Move into the people-parser so `PeopleData.sources` is emitted clean; route renders it directly. **Confirmed safe by self-audit:** `PeopleData.sources` has **exactly one consumer** (this route — verified) and **conservation does not track the `sources` field** (it only tracks `person`/`person-curiosity`/`person-generation`/`person-region`), so this won't shift conservation. The parsed `sources` string changes intentionally (pre-cleaned), so the guard is **rendered-output equivalence** (curl the people Sources section byte-identical) — the same two `replace`s, just relocated.
 
 **S2c · `chapter-shell` short-status → derived field.** `chapter-shell.tsx:63` splits `metadata.status` inline for a short label. Add `statusShort` to `ChapterMetadata` (computed in `markdown-parser`); UI reads it. Marginal (it's borderline presentation formatting) — *include only if it stays a clean 1-field add; otherwise defer as not worth a domain field.*
 
@@ -51,3 +51,22 @@ Each step: `pnpm test · lint · build · content:lint` green · conservation 11
 ## Open questions
 1. **S2b / S2c** are the lowest-value (and S2b has the parse-field-change nuance) — do both, or just S2a (the clear DDD fix) + Strand 1?
 2. `person-card` source-line stays separate (different markup) — agreed?
+
+---
+
+## Self-audit (2026-06-20) — verified against source; plan is complete & low-risk
+
+Red-teamed every "could-introduce-a-bug" assumption against the current `main`:
+
+| Check | Result |
+|---|---|
+| **S1c — `NoteType` member count** | Exactly 4 (`CRITICAL/LEXICAL/GRAMMATICAL/THEOLOGICAL`). Deriving the legend from one map **cannot add/drop a chip** → no regression. |
+| **S1a/S1b — exact markup** | Disclaimer divs are `<div className="tt-disclaimer" dangerouslySetInnerHTML={renderInlineSafe(x)}>` with **no other attrs** (3 sites). SourceLine is `<p className="src" dangerouslySetInnerHTML={renderInlineSafe(t("enrichment.source",{source}))}>` — **identical in 2 sites** (enrichment-entry, book-context); person-card's is a `<div>` with raw text → correctly **excluded**. |
+| **S1b/compliance — client vs server** | Both consumers use next-intl `useTranslations` and declare **no `"use client"`** (next-intl's `useTranslations` is server-component-compatible). `<SourceLine>` using `useTranslations` matches them exactly — no boundary issue, no `"use client"` needed. |
+| **S2a — `crossBookSeeBook` vs conservation** | Conservation tracks only `person`/`person-curiosity`/`person-generation`/`person-region` multisets — **not arbitrary `PersonEntry` fields**, so the additive field is conservation-safe. The slug is used for *both* the `href` and `bookLabels[slug]`; parser must replicate the regex exactly incl. **lowercasing** (`/i` + `.toLowerCase()`). UI keeps the `bookLabels` presentation check + plain-`Field` fallback. |
+| **S2b — `sources` consumers + conservation** | **One** consumer (the people route); `sources` **not** in conservation → safe (S2b upgraded from "defer" to "safe"; guard = rendered-output equivalence). |
+| **Coverage completeness** | No other `tt-disclaimer` (3), `className="src"` (3, one excluded), or note-type→color map (2) sites exist beyond those enumerated — verified by grep. |
+
+**Architecture/standards:** every change either is a pure presentation extraction into `ui/shared/` (correct layer, design tokens reused verbatim, no new hex/markup) or **moves domain logic out of `ui`/`app` into `infrastructure`/`domain`** (S2a/S2b/S2c) — strictly *improving* DDD compliance per `STANDARDS.md`. No new `dangerouslySetInnerHTML` introduced (existing calls relocated); `renderInlineSafe` remains the only HTML source. Biome-clean expected.
+
+**Verdict:** 100% covering for the enumerated scope; the only residual judgment calls are the *value* of S2c (marginal — keep "defer if not a clean 1-field add") and the §Open-questions scope choice. No regression/side-effect surface remains unguarded.
