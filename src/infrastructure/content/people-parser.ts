@@ -1,5 +1,5 @@
+import { parseClaimType, parseConfidence } from "@/domain/content/labels";
 import type {
-  ClaimType,
   ConfidenceLevel,
   CuriosityEntry,
   GenealogyTable,
@@ -423,85 +423,6 @@ function parseHistoricityStatus(raw: string): HistoricityStatus {
 function parseInt10(raw: string): number | undefined {
   const n = Number.parseInt(raw, 10);
   return Number.isNaN(n) ? undefined : n;
-}
-
-const CLAIM_TYPES: ClaimType[] = [
-  "TEXTUAL",
-  "STRONG INFERENCE",
-  "POSSIBLE INFERENCE",
-  "COMPARATIVE PARALLEL",
-  "LATER RECEPTION",
-  "HISTORICAL / ARCHAEOLOGICAL",
-  "SCIENTIFIC COMPARISON",
-  "SPECULATION",
-];
-
-const CONFIDENCE_LEVELS: ConfidenceLevel[] = [
-  "VERIFIED",
-  "PROBABLE",
-  "POSSIBLE",
-  "UNCERTAIN",
-  "SPECULATIVE",
-  "DOCUMENTED",
-];
-
-function parseClaimType(raw: string): ClaimType {
-  const n = raw.trim().toUpperCase();
-  for (const ct of CLAIM_TYPES) {
-    if (n === ct) return ct;
-  }
-  // Lenient match
-  if (n.includes("TEXTUAL")) return "TEXTUAL";
-  if (n.includes("STRONG")) return "STRONG INFERENCE";
-  if (n.includes("POSSIBLE INFERENCE")) return "POSSIBLE INFERENCE";
-  if (n.includes("COMPARATIVE")) return "COMPARATIVE PARALLEL";
-  if (n.includes("RECEPTION")) return "LATER RECEPTION";
-  if (n.includes("HISTORICAL") || n.includes("ARCHAEOLOG"))
-    return "HISTORICAL / ARCHAEOLOGICAL";
-  if (n.includes("SCIENTIFIC")) return "SCIENTIFIC COMPARISON";
-  if (n.includes("SPECULATION")) return "SPECULATION";
-  return "TEXTUAL";
-}
-
-function parseConfidence(raw: string): ConfidenceLevel {
-  const n = raw.trim().toUpperCase();
-  for (const cl of CONFIDENCE_LEVELS) {
-    if (n === cl) return cl;
-  }
-  if (
-    n.includes("VERIFIED") ||
-    n.includes("VERIFICADO") ||
-    n.includes("VERIFIZIERT")
-  )
-    return "VERIFIED";
-  if (
-    n.includes("PROBABLE") ||
-    n.includes("PROVÁVEL") ||
-    n.includes("WAHRSCHEINLICH")
-  )
-    return "PROBABLE";
-  if (
-    n.includes("POSSIBLE") ||
-    n.includes("POSSÍVEL") ||
-    n.includes("MÖGLICH") ||
-    n.includes("POSIBLE")
-  )
-    return "POSSIBLE";
-  if (
-    n.includes("DOCUMENTED") ||
-    n.includes("DOCUMENTADO") ||
-    n.includes("DOKUMENTIERT")
-  )
-    return "DOCUMENTED";
-  if (n.includes("SPECULATIVE")) return "SPECULATIVE";
-  if (
-    n.includes("UNCERTAIN") ||
-    n.includes("INCERTO") ||
-    n.includes("UNGEWISS") ||
-    n.includes("INCIERTO")
-  )
-    return "UNCERTAIN";
-  return "UNCERTAIN";
 }
 
 // Parses "adam (15, via Seth, Gen 5); noach (5, via Shem)" into GenerationEntry[]

@@ -1,3 +1,4 @@
+import { parseDualLabel } from "@/domain/content/labels";
 import type {
   BookContextData,
   BookContextMotif,
@@ -7,118 +8,12 @@ import type {
 
 const H1_HEADER = /^# (.+)$/;
 const MOTIF_HEADER = /^## (.+)$/;
-const CLAIM_LINE = /^\*\*\[(.+?)\s*—\s*(.+?)\]\*\*\s*$/;
 const FIELD_LINE = /^\*\*(.+?):\*\*\s*(.*)$/;
 const DISCLAIMER_LINE = /^>\s*\*\*About this surface:\*\*/i;
 
 // Locale-aware field aliases for "Chapters" (per plan §8 conventions)
 const CHAPTERS_LABELS = ["chapters", "capítulos", "capitulos", "kapitel"];
 const SOURCE_LABELS = ["source", "fonte", "quelle", "fuente"];
-
-function parseClaimType(raw: string): ClaimType {
-  const n = raw.trim().toUpperCase();
-  if (n.includes("TEXTUAL") || n.includes("TEXTUELL")) return "TEXTUAL";
-  if (
-    n.includes("STRONG INFERENCE") ||
-    n.includes("INFERÊNCIA FORTE") ||
-    n.includes("INFERENCIA FUERTE") ||
-    n.includes("STARKE SCHLUSSFOLGERUNG")
-  )
-    return "STRONG INFERENCE";
-  if (
-    n.includes("POSSIBLE INFERENCE") ||
-    n.includes("INFERÊNCIA POSSÍVEL") ||
-    n.includes("INFERENCIA POSIBLE") ||
-    n.includes("MÖGLICHE SCHLUSSFOLGERUNG")
-  )
-    return "POSSIBLE INFERENCE";
-  if (
-    n.includes("COMPARATIVE") ||
-    n.includes("COMPARATIVO") ||
-    n.includes("VERGLEICHENDE")
-  )
-    return "COMPARATIVE PARALLEL";
-  if (
-    n.includes("LATER RECEPTION") ||
-    n.includes("RECEPÇÃO POSTERIOR") ||
-    n.includes("RECEPCIÓN POSTERIOR") ||
-    n.includes("SPÄTERE REZEPTION")
-  )
-    return "LATER RECEPTION";
-  if (
-    n.includes("HISTORICAL") ||
-    n.includes("HISTÓRICO") ||
-    n.includes("HISTORICO") ||
-    n.includes("HISTORISCH")
-  )
-    return "HISTORICAL / ARCHAEOLOGICAL";
-  if (
-    n.includes("SCIENTIFIC") ||
-    n.includes("CIENTÍFICA") ||
-    n.includes("CIENTIFICA") ||
-    n.includes("WISSENSCHAFTLICH")
-  )
-    return "SCIENTIFIC COMPARISON";
-  if (
-    n.includes("SPECULATION") ||
-    n.includes("ESPECULAÇÃO") ||
-    n.includes("ESPECULACIÓN") ||
-    n.includes("SPEKULATION")
-  )
-    return "SPECULATION";
-  console.warn(
-    `Unrecognized book-context claim type: "${raw}", falling back to TEXTUAL`,
-  );
-  return "TEXTUAL";
-}
-
-function parseConfidence(raw: string): ConfidenceLevel {
-  const n = raw.trim().toUpperCase();
-  if (
-    n.includes("VERIFIED") ||
-    n.includes("VERIFIZIERT") ||
-    n.includes("VERIFICADO")
-  )
-    return "VERIFIED";
-  if (
-    n.includes("PROBABLE") ||
-    n.includes("WAHRSCHEINLICH") ||
-    n.includes("PROVÁVEL") ||
-    n.includes("PROVAVEL")
-  )
-    return "PROBABLE";
-  if (
-    n.includes("POSSIBLE") ||
-    n.includes("MÖGLICH") ||
-    n.includes("POSSÍVEL") ||
-    n.includes("POSSIVEL") ||
-    n.includes("POSIBLE")
-  )
-    return "POSSIBLE";
-  if (
-    n.includes("UNCERTAIN") ||
-    n.includes("UNSICHER") ||
-    n.includes("INCERTO") ||
-    n.includes("INCIERTO")
-  )
-    return "UNCERTAIN";
-  if (
-    n.includes("SPECULATIVE") ||
-    n.includes("SPEKULATIV") ||
-    n.includes("ESPECULATIVO")
-  )
-    return "SPECULATIVE";
-  if (
-    n.includes("DOCUMENTED") ||
-    n.includes("DOKUMENTIERT") ||
-    n.includes("DOCUMENTADO")
-  )
-    return "DOCUMENTED";
-  console.warn(
-    `Unrecognized book-context confidence label: "${raw}", falling back to POSSIBLE`,
-  );
-  return "POSSIBLE";
-}
 
 // Slug derivation per PHASE_9_PLAN.md §5.2.1 (round-2 R2.3 Unicode normalization).
 export function deriveSlug(title: string): string {
@@ -242,10 +137,10 @@ export function parseBookContextMarkdown(
     if (!current) continue;
 
     // Claim/confidence label line.
-    const claimMatch = CLAIM_LINE.exec(line);
-    if (claimMatch && !current.claimType) {
-      current.claimType = parseClaimType(claimMatch[1]);
-      current.confidence = parseConfidence(claimMatch[2]);
+    const dl = parseDualLabel(line);
+    if (dl && !current.claimType) {
+      current.claimType = dl.claimType;
+      current.confidence = dl.confidence;
       continue;
     }
 

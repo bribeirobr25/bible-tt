@@ -1,5 +1,5 @@
+import { parseConfidence } from "@/domain/content/labels";
 import type {
-  ConfidenceLevel,
   FulfillmentStatus,
   ProphecyData,
   ProphecyEntry,
@@ -9,54 +9,6 @@ import type {
 const ENTRY_HEADER = /^## (.+)$/;
 const FIELD_LINE = /^\*\*(.+?):\*\*\s*(.*)$/;
 const READING_LINE = /^- \*\*(.+?)(?:\s*\/\s*(.+?))?\*\*:\s*(.+)\s*\[(.+?)\]$/;
-
-function parseConfidenceLabel(raw: string): ConfidenceLevel {
-  const n = raw.trim().toUpperCase();
-  if (
-    n.includes("VERIFIED") ||
-    n.includes("VERIFIZIERT") ||
-    n.includes("VERIFICADO")
-  )
-    return "VERIFIED";
-  if (
-    n.includes("PROBABLE") ||
-    n.includes("WAHRSCHEINLICH") ||
-    n.includes("PROVÁVEL") ||
-    n.includes("PROVAVEL")
-  )
-    return "PROBABLE";
-  if (
-    n.includes("POSSIBLE") ||
-    n.includes("MÖGLICH") ||
-    n.includes("POSSÍVEL") ||
-    n.includes("POSSIVEL") ||
-    n.includes("POSIBLE")
-  )
-    return "POSSIBLE";
-  if (
-    n.includes("UNCERTAIN") ||
-    n.includes("UNSICHER") ||
-    n.includes("INCERTO") ||
-    n.includes("INCIERTO")
-  )
-    return "UNCERTAIN";
-  if (
-    n.includes("SPECULATIVE") ||
-    n.includes("SPEKULATIV") ||
-    n.includes("ESPECULATIVO")
-  )
-    return "SPECULATIVE";
-  if (
-    n.includes("DOCUMENTED") ||
-    n.includes("DOKUMENTIERT") ||
-    n.includes("DOCUMENTADO")
-  )
-    return "DOCUMENTED";
-  console.warn(
-    `Unrecognized prophecy confidence label: "${raw}", falling back to POSSIBLE`,
-  );
-  return "POSSIBLE";
-}
 
 function parseFulfillmentStatus(raw: string): FulfillmentStatus {
   const n = raw.trim().toUpperCase();
@@ -204,7 +156,7 @@ export function parseProphecyMarkdown(
           tradition: readingMatch[1].trim(),
           subTradition: readingMatch[2]?.trim(),
           reading: readingMatch[3].trim(),
-          confidence: parseConfidenceLabel(readingMatch[4]),
+          confidence: parseConfidence(readingMatch[4]),
         });
       } else if (line.trim() === "" || line.startsWith("**")) {
         inReadings = false;
