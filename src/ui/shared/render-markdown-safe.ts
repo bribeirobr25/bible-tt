@@ -4,6 +4,18 @@ function escapeHtml(s: string): string {
   return s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
 }
 
+/**
+ * The single bold/italic emphasis pass, shared by every render path (table
+ * cells, `renderInlineSafe`, and both `renderMarkdownSafe` subsets) so the
+ * behavior cannot drift between them. Bold runs before italic so an italic
+ * nested inside bold resolves after the `<strong>` wrapper is in place.
+ */
+function applyEmphasis(html: string): string {
+  return html
+    .replace(/\*\*([^*]+)\*\*/g, "<strong>$1</strong>")
+    .replace(/\*([^*]+)\*/g, "<em>$1</em>");
+}
+
 function convertTable(tableBlock: string): string {
   const lines = tableBlock.split("\n").filter((l) => l.trim().startsWith("|"));
   if (lines.length < 2) return escapeHtml(tableBlock);
@@ -30,11 +42,9 @@ function convertTable(tableBlock: string): string {
     html += "<tr>";
     for (let i = 0; i < headers.length; i++) {
       const cell = row[i] || "";
-      html += `<td class="px-3 py-2 border-b border-border-muted text-text-primary">${escapeHtml(
-        cell,
-      )
-        .replace(/\*\*([^*]+)\*\*/g, "<strong>$1</strong>")
-        .replace(/\*([^*]+)\*/g, "<em>$1</em>")}</td>`;
+      html += `<td class="px-3 py-2 border-b border-border-muted text-text-primary">${applyEmphasis(
+        escapeHtml(cell),
+      )}</td>`;
     }
     html += "</tr>";
   }
@@ -63,8 +73,7 @@ function applyHighlightMarkers(html: string): string {
 export function renderInlineSafe(text: string): string {
   let html = escapeHtml(text);
   html = applyHighlightMarkers(html);
-  html = html.replace(/\*\*([^*]+)\*\*/g, "<strong>$1</strong>");
-  html = html.replace(/\*([^*]+)\*/g, "<em>$1</em>");
+  html = applyEmphasis(html);
   return html;
 }
 
@@ -101,14 +110,11 @@ export function renderMarkdownSafe(
   // TT highlight markers ({t:…}, {a:…}, @@…@@) → styled spans, before bold/italic.
   html = applyHighlightMarkers(html);
 
+  html = applyEmphasis(html);
   if (subset === "note") {
-    html = html.replace(/\*\*([^*]+)\*\*/g, "<strong>$1</strong>");
-    html = html.replace(/\*([^*]+)\*/g, "<em>$1</em>");
     html = html.replace(/\n- /g, "<br/>• ");
     html = html.replace(/\n/g, "<br/>");
   } else {
-    html = html.replace(/\*\*([^*]+)\*\*/g, "<strong>$1</strong>");
-    html = html.replace(/\*([^*]+)\*/g, "<em>$1</em>");
     html = html.replace(/\n/g, " ");
   }
 
