@@ -9,10 +9,18 @@ function escapeHtml(s: string): string {
  * cells, `renderInlineSafe`, and both `renderMarkdownSafe` subsets) so the
  * behavior cannot drift between them. Bold runs before italic so an italic
  * nested inside bold resolves after the `<strong>` wrapper is in place.
+ *
+ * The bold pattern is *tempered*: its content is a sequence of either a
+ * non-asterisk char `[^*]` or a well-formed inner italic `\*[^*]+\*`. This lets
+ * one level of italic nest inside bold (`**label *term*:**` →
+ * `<strong>label <em>term</em>:</strong>`), including the trailing-italic shape
+ * `**a *b***`. The two alternatives are mutually exclusive on their first char,
+ * so matching is linear (no catastrophic backtracking). Malformed/unbalanced
+ * markers fall through to literal text, as before.
  */
 function applyEmphasis(html: string): string {
   return html
-    .replace(/\*\*([^*]+)\*\*/g, "<strong>$1</strong>")
+    .replace(/\*\*((?:[^*]|\*[^*]+\*)+?)\*\*/g, "<strong>$1</strong>")
     .replace(/\*([^*]+)\*/g, "<em>$1</em>");
 }
 
