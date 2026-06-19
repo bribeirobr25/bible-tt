@@ -1,3 +1,4 @@
+import { AVAILABLE_BOOKS } from "@/domain/books/registry";
 import {
   emitBookContext,
   emitChapter,
@@ -105,8 +106,15 @@ export async function getStructuredBook(
   return units;
 }
 
+// Phase 0 (activation gate): the filesystem may hold drafted-but-not-yet-
+// activated books. `AVAILABLE_BOOKS` is the single source of truth for what is
+// published — drafting content does NOT auto-expose a routable page. A book goes
+// live only when its slug is added to the registry (+ the rest of the §5
+// activation checklist, enforced by `activation-consistency.test.ts`).
+const ACTIVE = new Set<string>(AVAILABLE_BOOKS);
+
 export async function getAvailableBooks(locale: string): Promise<string[]> {
-  return listBooks(locale);
+  return (await listBooks(locale)).filter((b) => ACTIVE.has(b));
 }
 
 export async function getAvailableChapters(
@@ -122,7 +130,7 @@ export async function getAllChapterParams(): Promise<
   const params: { locale: string; book: string; chapter: string }[] = [];
 
   for (const locale of locales) {
-    const books = await listBooks(locale);
+    const books = (await listBooks(locale)).filter((b) => ACTIVE.has(b));
     for (const book of books) {
       const chapters = await listChapters(locale, book);
       for (const ch of chapters) {

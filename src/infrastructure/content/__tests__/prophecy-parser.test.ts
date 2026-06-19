@@ -335,7 +335,7 @@ describe("Prophecy Parser", () => {
       const data = parseProphecyMarkdown(md, "genesis", 1);
       expect(data.entries[0].readings[0].confidence).toBe("POSSIBLE");
       expect(spy).toHaveBeenCalledWith(
-        expect.stringContaining("Unrecognized prophecy confidence label"),
+        expect.stringContaining("Unrecognized confidence label"),
       );
       spy.mockRestore();
     });

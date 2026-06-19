@@ -2,11 +2,12 @@
 
 import { useTranslations } from "next-intl";
 import type {
-  ConfidenceLevel,
   FulfillmentStatus,
   ProphecyData,
   ProphecyEntry,
 } from "@/domain/content/types";
+import { CONFIDENCE_KEYS } from "@/ui/shared/confidence-tone";
+import { Disclosure } from "@/ui/shared/disclosure";
 import { renderMarkdownSafe } from "@/ui/shared/render-markdown-safe";
 
 const FULFILLMENT_COLORS: Record<FulfillmentStatus, string> = {
@@ -27,15 +28,6 @@ const FULFILLMENT_KEYS: Record<FulfillmentStatus, string> = {
   MULTI_STAGE: "prophecy.fulfillment.multiStage",
 };
 
-const CONFIDENCE_KEYS: Record<ConfidenceLevel, string> = {
-  VERIFIED: "confidence.verified",
-  PROBABLE: "confidence.probable",
-  POSSIBLE: "confidence.possible",
-  UNCERTAIN: "confidence.uncertain",
-  SPECULATIVE: "confidence.speculative",
-  DOCUMENTED: "confidence.documented",
-};
-
 function ProphecyCard({
   entry,
   open = false,
@@ -46,27 +38,33 @@ function ProphecyCard({
   const t = useTranslations();
 
   return (
-    <details name="prophecy-acc" className="tt-details" open={open}>
-      <summary>
-        <span className="flex min-w-0 flex-col gap-1">
-          <span className="font-[family-name:var(--font-reading)] text-[1.05rem] text-text-primary">
-            {entry.title}
+    <Disclosure
+      name="prophecy-acc"
+      open={open}
+      chevron={false}
+      summary={
+        <>
+          <span className="flex min-w-0 flex-col gap-1">
+            <span className="font-[family-name:var(--font-reading)] text-[1.05rem] text-text-primary">
+              {entry.title}
+            </span>
+            <span className="font-[family-name:var(--font-mono)] text-[11px] text-text-muted">
+              {entry.verseRef}
+            </span>
           </span>
-          <span className="font-[family-name:var(--font-mono)] text-[11px] text-text-muted">
-            {entry.verseRef}
+          <span className="flex flex-none items-center gap-3">
+            <span
+              className={`text-xs font-semibold uppercase px-2 py-0.5 rounded ${FULFILLMENT_COLORS[entry.fulfillmentStatus]}`}
+            >
+              {t(FULFILLMENT_KEYS[entry.fulfillmentStatus])}
+            </span>
+            <span className="chev" aria-hidden="true">
+              ›
+            </span>
           </span>
-        </span>
-        <span className="flex flex-none items-center gap-3">
-          <span
-            className={`text-xs font-semibold uppercase px-2 py-0.5 rounded ${FULFILLMENT_COLORS[entry.fulfillmentStatus]}`}
-          >
-            {t(FULFILLMENT_KEYS[entry.fulfillmentStatus])}
-          </span>
-          <span className="chev" aria-hidden="true">
-            ›
-          </span>
-        </span>
-      </summary>
+        </>
+      }
+    >
       <div className="body space-y-3">
         <div>
           <p className="text-xs font-semibold uppercase tracking-wider text-text-muted mb-1">
@@ -125,7 +123,7 @@ function ProphecyCard({
           </p>
         )}
       </div>
-    </details>
+    </Disclosure>
   );
 }
 

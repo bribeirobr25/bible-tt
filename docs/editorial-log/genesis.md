@@ -1777,3 +1777,13 @@ Applied from consolidated external proposals (`docs/audit/GENESIS-1-EN-PROPOSAL.
 - **Status:** provisional — **per-category confidence labels are AI-drafted and are the gate for Rule 28 source-scholar sign-off** (the structure is final; the calibration is reviewable).
 - **Reviewers:** source-language scholar (per-category confidence) + PT-BR/DE/ES locale-editors unassigned.
 - **Cross-references:** `docs/audit/EXECUTION_HISTORY.md` (2026-06-12 entry); john.md / matthew.md §I unchanged (no per-scenario dating label → not Option-C-eligible).
+
+## Entry 2026-06-19-120 — Re-italicize *beyom* in bold list-label (renderer hardening, Step 4)
+
+- **Verse:** Genesis 2 companion §D — the "*beyom* as idiomatic 'when'" interpretive list item (EN only).
+- **Language(s) affected:** EN (de/es/pt-br already carried the italic).
+- **Rule(s) invoked:** transliteration-italics convention; Rule 28.
+- **Decision:** restored `*beyom*` italic inside its bold list label (`1. ***beyom* as idiomatic "when"**`). It was briefly de-italicized 2026-06-18 to dodge the italic-nested-in-bold renderer bug; with that fixed at the renderer level (`PLAN_RENDERER_NESTED_EMPHASIS.md`, Tier 1, 2026-06-19), the form is restored and EN matches the other locales. No semantic change; italic-marker-only diff; conservation unchanged (11831).
+- **AI provenance:** claude-opus-4-8 (1M), 2026-06-19. Gates green; verified live (`<strong><em>beyom</em> as idiomatic "when"</strong>`, 0 stray `**`).
+- **Status:** provisional. **Reviewers:** locale-editors unassigned.
+- **Cross-references:** `EXECUTION_HISTORY.md` (Renderer nested-emphasis hardening); john.md J-034.

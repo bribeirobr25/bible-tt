@@ -10,7 +10,7 @@
 **Chapter:** Matthew 2
 **Language:** English
 **Companion to:** `en/matthew/CHAPTER-2.md` (Transparent Edition)
-**Ruleset:** v3.3 (Rule 29 governs this file)
+**Ruleset:** v3.4 (Rule 29 governs this file)
 **Status:** provisional
 
 ---
@@ -107,6 +107,17 @@ The Moses parallel is the most relevant for Matthew's narrative. Matthew appears
 
 ---
 
+### B2. Numbers 24:17 ("a star out of Jacob") read messianically — Qumran to Bar Kokhba
+**[COMPARATIVE PARALLEL — PROBABLE]**
+
+Balaam's oracle in **Numbers 24:17** — "a star shall come out of Jacob, and a scepter shall rise out of Israel" — was widely read as a **messianic** prophecy in Second Temple Judaism, well before and around Matthew's time. The Qumran community applied it to its expected deliverer(s) (the *Damascus Document* CD-A VII 18–20; the *War Scroll* 1QM XI; the *Testimonia*, 4Q175), and Philo gives it a royal-messianic rendering (*De praemiis et poenis* 95). Decades after Matthew, Rabbi Akiva is reported to have applied the same "star" oracle to Simon ben Kosiba, nicknaming him **Bar Kokhba**, "son of the star" (y. Ta'anit 4:5 [68d]).
+
+So a *star* was a recognized sign of a coming royal deliverer in the Jewish world Matthew wrote within — useful background for why a star and "the king of the Yehudim" (2:2) belong together in the narrative. Two cautions: Matthew 2 **does not quote Numbers 24:17**, so the connection is **a shared interpretive milieu, not a demonstrated literary dependence**; and the Bar Kokhba application post-dates Matthew, illustrating the *currency* of the reading rather than serving as a source for the Gospel. (On the eastern-seer figure of Balaam himself, attested archaeologically, see §C4.)
+
+**Source:** George H. van Kooten & Peter Barthel (eds.), *The Star of Bethlehem and the Magi* (Brill, 2015), esp. the essay on Balaam's star oracle in the Dead Sea Scrolls, pp. 399–429 [PEER-REVIEWED]; primary texts CD-A VII; 1QM XI; 4Q175; y. Ta'anit 4:5 [68d].
+
+---
+
 ## C. Historical Context
 
 ### C1. Herodes' character in Josephus
@@ -138,6 +149,19 @@ Jewish communities in Mitsrayim (Egypt) were well established by the first centu
 A Jewish family fleeing to Egypt was historically plausible. Jewish communities existed there that could provide shelter and help with settling in. The flight narrative does not require miraculous provision in a foreign land. It requires a known destination with established Jewish communities abroad.
 
 **Source:** Modrzejewski, J.M., *The Jews of Egypt: From Rameses II to Emperor Hadrian*, 1995. Tcherikover, V., *Hellenistic Civilization and the Jews*, 1959.
+
+---
+
+### C4. The Deir 'Alla inscription — "Balaam son of Beor" outside the Bible
+**[HISTORICAL / ARCHAEOLOGICAL — VERIFIED]**
+
+In 1967, excavators at Tell Deir 'Alla in the Jordan Valley (ancient Transjordan) recovered an ink-on-plaster text, ca. 880–770 BCE, fallen from a wall. It opens by naming **"Balaam son of Beor, a seer of the gods"** (*bil'am bar be'or*) — the same Balaam son of Beor who appears in Numbers 22–24 as the non-Israelite seer hired to curse Israel. This is one of very few extrabiblical attestations of a named Hebrew Bible figure, and it shows that a **Transjordanian tradition about a seer named Balaam** circulated independently of the biblical text.
+
+Two cautions are essential. **First, the inscription does not contain the "star out of Jacob" oracle** (Numbers 24:17) — or any star: it attests the existence of a Balaam-seer tradition, not the specific oracle later associated with him. **Second**, its religious world is polytheistic (it invokes the *shaddayin* and *elohin* as a council of gods), and its dialect (Aramaic vs. a local Canaanite/"Gileadite" form) is debated; it is an independent regional text, not an Israelite one, and is not connected to any modern people, nation, or place.
+
+The relevance to Matthew 2 is **comparative, not a line of dependence**: Matthew's *magoi* are non-Israelite seers "from the East" who read a celestial sign — broadly the *type* that the eastern seer Balaam represents in the Hebrew Bible. The Deir 'Alla text simply confirms that such a Balaam-seer figure was a real, anciently-rooted Transjordanian tradition; it says nothing about Matthew or about a star. (How Balaam's *star oracle* in Numbers 24:17 was later read messianically is a separate reception strand, not attested here.)
+
+**Source:** J. Hoftijzer & G. van der Kooij, *Aramaic Texts from Deir 'Alla* (Brill, 1976) [*editio princeps*]; Baruch A. Levine, "The Deir 'Alla Plaster Inscriptions," *Journal of the American Oriental Society* 101.2 (1981): 195–205 [PEER-REVIEWED]; inscription = KAI 312.
 
 ---
 
@@ -263,13 +287,16 @@ Post-70 Jewish refugees would read the flight to Egypt narrative with first-hand
 | Davies, W.D. and Allison, D.C., *ICC Matthew*, vol. 1, 1988 | PEER-REVIEWED (commentary) | A, F, G |
 | France, R.T., *The Gospel of Matthew*, NICNT, 2007 | PEER-REVIEWED (commentary) | A, F |
 | Gabra, G., "The Holy Family in Egypt," 2008 | ACADEMIC POPULAR | F |
+| Hoftijzer, J. & van der Kooij, G., *Aramaic Texts from Deir 'Alla*, Brill, 1976 | PRIMARY (editio princeps) | C |
 | Josephus, *Jewish Antiquities*, Loeb Classical Library | PRIMARY | C |
+| Levine, B.A., "The Deir 'Alla Plaster Inscriptions," *JAOS* 101.2 (1981) | PEER-REVIEWED (article) | C |
 | Macrobius, *Saturnalia* | PRIMARY | C |
 | Modrzejewski, J.M., *The Jews of Egypt*, 1995 | PEER-REVIEWED (monograph) | C |
 | Pritchard, J.B. (ed.), *ANET*, 3rd ed., 1969 | PRIMARY | B |
 | Redford, D.B., "The Literary Motif of the Exposed Child," 1967 | PEER-REVIEWED (article) | B |
 | Schaeder, H.H., "Ναζαρηνός, Ναζωραῖος," *TDNT* vol. 4 | PEER-REVIEWED (article) | F |
 | Schurer, E., *History of the Jewish People*, rev. ed., 1973 | PEER-REVIEWED (monograph) | C |
+| van Kooten, G.H. & Barthel, P. (eds.), *The Star of Bethlehem and the Magi*, Brill, 2015 | PEER-REVIEWED (essay collection) | B |
 
 ---
 

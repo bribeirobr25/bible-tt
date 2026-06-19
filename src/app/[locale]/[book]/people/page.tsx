@@ -14,6 +14,7 @@ import { DoorPager } from "@/ui/navigation/door-pager";
 import { Link } from "@/ui/navigation/locale-link";
 import { PeopleTimeline } from "@/ui/people/people-timeline";
 import { PersonCard } from "@/ui/people/person-card";
+import { Disclosure } from "@/ui/shared/disclosure";
 import { JsonLd } from "@/ui/shared/json-ld";
 import {
   renderInlineSafe,
@@ -98,6 +99,7 @@ export default async function PeoplePage({
   const bookLabels: Record<string, string> = {
     genesis: t("book.genesis"),
     matthew: t("book.matthew"),
+    mark: t("book.mark"),
     john: t("book.john"),
   };
 
@@ -234,13 +236,7 @@ export default async function PeoplePage({
 
         {people.sources && (
           <section className="mt-[clamp(40px,6vh,70px)]">
-            <details className="tt-details">
-              <summary>
-                <span>{t("people.sourcesConsulted")}</span>
-                <span className="chev" aria-hidden="true">
-                  ›
-                </span>
-              </summary>
+            <Disclosure summary={<span>{t("people.sourcesConsulted")}</span>}>
               <div
                 className="body tt-sources text-text-secondary"
                 dangerouslySetInnerHTML={{
@@ -252,7 +248,7 @@ export default async function PeoplePage({
                   ),
                 }}
               />
-            </details>
+            </Disclosure>
           </section>
         )}
 

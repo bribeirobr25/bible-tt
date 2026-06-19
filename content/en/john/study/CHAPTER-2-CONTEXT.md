@@ -10,7 +10,7 @@
 **Chapter:** John 2
 **Language:** English
 **Companion to:** `en/john/CHAPTER-2.md` (Transparent Edition)
-**Ruleset:** v3.3 (Rule 29 governs this file)
+**Ruleset:** v3.4 (Rule 29 governs this file)
 **Status:** provisional
 
 ---
@@ -84,6 +84,17 @@ The temple in Yerushalayim (Jerusalem) functioned as both a religious center and
 Passover (*Pesach*) fell on 14–15 Nisan (March–April). As one of the three pilgrimage festivals (*shalosh regalim*: Pesach, Shavuot, Sukkot), it drew massive crowds to Yerushalayim (Jerusalem). Josephus estimates Passover attendance at various points as 2.5 to 3 million (*War* 6.425) — likely exaggerated, but even conservative estimates suggest 300,000–500,000 pilgrims in a city with a normal population of perhaps 40,000–80,000. The influx created enormous practical demands: housing, food, sacrificial animals, currency exchange, water, and sanitation. The temple operations that Yeshua (Jesus) disrupted were integral to managing this annual surge. John's placement of the temple clearing at Passover — the festival commemorating liberation from Egypt — may carry ironic force: the institution celebrating freedom has become an institution of commerce.
 
 **Source:** Jeremias, J., *Jerusalem in the Time of Jesus*, Fortress Press, 1969; Safrai, S., "Pilgrimage to Jerusalem at the Time of the Second Temple," in *Die Pilgerfahrt nach Jerusalem*, ed. W. Böhme, Calwer Verlag, 1991.
+
+---
+
+### C5. "Forty-six years" — dating the temple and the episode (John 2:20)
+**[HISTORICAL — PROBABLE]**
+
+When Yeshua (Jesus) speaks of raising "this sanctuary" (*naos*) in three days, his hearers reply, "This sanctuary was built in forty-six years, and you will raise it in three days?" (2:20). Josephus dates the start of Herod the Great's reconstruction of the temple to his eighteenth regnal year, around 20–19 BCE (*Antiquities* 15.380; cf. 15.421; *War* 1.401), and notes the complex was still being finished decades later, under the procurator Albinus in 62–64 CE (*Antiquities* 20.219). Counting roughly forty-six years from ~20–19 BCE places this episode about **27–28 CE** — dovetailing with Luke's dating of Yochanan (John) the Immerser's ministry to the fifteenth year of Tiberius (Luke 3:1).
+
+One interpretive crux: the Greek (a dative of duration, "in/over forty-six years") can mean either that the building **was completed in** forty-six years or that it **had been under construction for** forty-six years and was still unfinished — the latter fitting Josephus's note that work continued into the 60s CE. Scholars divide (e.g. C. K. Barrett vs. Andreas Köstenberger); the TT renders the phrase without resolving it. (For the *naos* "sanctuary" vs *hieron* "temple-complex" distinction this verse turns on, see §A2.)
+
+**Source:** Josephus, *Antiquities* 15.380, 15.421; 20.219; *War* 1.401 (Loeb Classical Library) [PRIMARY]; C.K. Barrett, *The Gospel According to St. John*, 2nd ed., 1978, and Andreas J. Köstenberger, *John* (BECNT), 2004 [PEER-REVIEWED].
 
 ---
 
@@ -223,7 +234,7 @@ After 70 CE, the elaborate purity architecture of the Jerusalem Temple — its g
 | BHS, 5th rev. ed. (Deutsche Bibelgesellschaft, 1997) | PRIMARY | D1 |
 | Dodd, C.H., *The Interpretation of the Fourth Gospel*, Cambridge University Press, 1953 | PEER-REVIEWED (monograph) | B1 |
 | Bultmann, R., *The Gospel of John: A Commentary*, trans. Beasley-Murray, Westminster, 1971 | PEER-REVIEWED (commentary) | B1 |
-| Barrett, C.K., *The Gospel According to St John*, 2nd ed., SPCK, 1978 | PEER-REVIEWED (commentary) | B1 |
+| Barrett, C.K., *The Gospel According to St John*, 2nd ed., SPCK, 1978 | PEER-REVIEWED (commentary) | B1, C5 |
 | Edwards, D.R., "Khirbet Qana," in *The Roman and Byzantine Near East*, vol. 3, JRA Supplement 49, 2002 | PEER-REVIEWED (article) | C1 |
 | Richardson, P., *Building Jewish in the Roman East*, Baylor University Press, 2004 | PEER-REVIEWED (monograph) | C1 |
 | Safrai, S. and Stern, M., eds., *The Jewish People in the First Century*, vol. 2, Van Gorcum, 1976 | PEER-REVIEWED (edited volume) | C2 |
@@ -232,6 +243,8 @@ After 70 CE, the elaborate purity architecture of the Jerusalem Temple — its g
 | Sanders, E.P., *Judaism: Practice and Belief, 63 BCE–66 CE*, SCM Press, 1992 | PEER-REVIEWED (monograph) | C3 |
 | Bauckham, R., "Jesus' Demonstration in the Temple," in *Law and Religion*, ed. B. Lindars, James Clarke, 1988 | PEER-REVIEWED (essay) | C3 |
 | Jeremias, J., *Jerusalem in the Time of Jesus*, Fortress Press, 1969 | PEER-REVIEWED (monograph) | C4 |
+| Josephus, *Antiquities* 15, 20; *War* 1 (Loeb Classical Library) | PRIMARY | C5 |
+| Köstenberger, A.J., *John* (BECNT), Baker Academic, 2004 | PEER-REVIEWED (commentary) | C5 |
 | Brown, R.E., *The Gospel According to John I–XII*, Anchor Bible 29, Doubleday, 1966 | PEER-REVIEWED (commentary) | D2 |
 | Moloney, F.J., *The Gospel of John*, Sacra Pagina 4, Liturgical Press, 1998 | PEER-REVIEWED (commentary) | D2 |
 | Brown, R.E., et al., *Mary in the New Testament*, Fortress Press, 1978 | PEER-REVIEWED (monograph) | F1 |

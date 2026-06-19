@@ -1,3 +1,4 @@
+import { parseDualLabel } from "@/domain/content/labels";
 import type {
   BookCardField,
   ClaimType,
@@ -11,7 +12,6 @@ import type {
 const SECTION_HEADER = /^## ([A-Z])(?:_\w+)?\.\s+(.+)$/;
 const ENTRY_HEADER = /^### (.+)$/;
 const SUBENTRY_HEADER = /^#### (.+)$/;
-const LABEL_LINE = /^\*\*\[(.+?)\s*(?:—|--)\s*(.+?)\]\*\*$/;
 const SOURCE_LINE = /^\*\*(?:Source|Quelle|Fonte|Fuente):\*\*\s*(.+)$/;
 
 const SECTION_IDS: Record<string, string> = {
@@ -35,127 +35,6 @@ const INTRODUCTION_SECTION_IDS: Record<string, string> = {
   F: "reading-in-tt",
   G: "sources",
 };
-
-function parseClaimType(raw: string): ClaimType {
-  const normalized = raw.trim().toUpperCase();
-  if (normalized.includes("TEXTUAL") || normalized.includes("TEXTUELL"))
-    return "TEXTUAL";
-  if (
-    normalized.includes("STRONG INFERENCE") ||
-    normalized.includes("INFERÊNCIA FORTE") ||
-    normalized.includes("INFERENCIA FUERTE") ||
-    normalized.includes("STARKE SCHLUSSFOLGERUNG")
-  )
-    return "STRONG INFERENCE";
-  if (
-    normalized.includes("POSSIBLE INFERENCE") ||
-    normalized.includes("INFERÊNCIA POSSÍVEL") ||
-    normalized.includes("INFERENCIA POSIBLE") ||
-    normalized.includes("MÖGLICHE SCHLUSSFOLGERUNG") ||
-    normalized.includes("MOGLICHE SCHLUSSFOLGERUNG")
-  )
-    return "POSSIBLE INFERENCE";
-  if (
-    normalized.includes("COMPARATIVE") ||
-    normalized.includes("COMPARATIVO") ||
-    normalized.includes("VERGLEICHENDE") ||
-    normalized.includes("KOMPARATIV")
-  )
-    return "COMPARATIVE PARALLEL";
-  if (
-    normalized.includes("LATER RECEPTION") ||
-    normalized.includes("RECEPÇÃO POSTERIOR") ||
-    normalized.includes("RECEPCIÓN POSTERIOR") ||
-    normalized.includes("RECEPCION POSTERIOR") ||
-    normalized.includes("SPÄTERE REZEPTION") ||
-    normalized.includes("SPATERE REZEPTION")
-  )
-    return "LATER RECEPTION";
-  if (
-    normalized.includes("HISTORICAL") ||
-    normalized.includes("ARCHAEOLOGICAL") ||
-    normalized.includes("HISTÓRICO") ||
-    normalized.includes("HISTORICO") ||
-    normalized.includes("ARQUEOLÓGICO") ||
-    normalized.includes("ARQUEOLOGICO") ||
-    normalized.includes("HISTORISCH") ||
-    normalized.includes("ARCHÄOLOGISCH") ||
-    normalized.includes("ARCHAOLOGISCH")
-  )
-    return "HISTORICAL / ARCHAEOLOGICAL";
-  if (
-    normalized.includes("SCIENTIFIC") ||
-    normalized.includes("CIENTÍFICA") ||
-    normalized.includes("CIENTIFICA") ||
-    normalized.includes("CIENTÍFICO") ||
-    normalized.includes("CIENTIFICO") ||
-    normalized.includes("WISSENSCHAFTLICH")
-  )
-    return "SCIENTIFIC COMPARISON";
-  if (
-    normalized.includes("SPECULATION") ||
-    normalized.includes("SPECULATIVE") ||
-    normalized.includes("ESPECULAÇÃO") ||
-    normalized.includes("ESPECULACIÓN") ||
-    normalized.includes("SPEKULATION")
-  )
-    return "SPECULATION";
-  console.warn(
-    `Unrecognized claim type label: "${raw}", falling back to TEXTUAL`,
-  );
-  return "TEXTUAL";
-}
-
-function parseConfidence(raw: string): ConfidenceLevel {
-  const normalized = raw.trim().toUpperCase();
-  if (
-    normalized.includes("VERIFIED") ||
-    normalized.includes("VERIFIZIERT") ||
-    normalized.includes("VERIFICADO")
-  )
-    return "VERIFIED";
-  if (
-    normalized.includes("PROBABLE") ||
-    normalized.includes("WAHRSCHEINLICH") ||
-    normalized.includes("PROVÁVEL") ||
-    normalized.includes("PROVAVEL")
-  )
-    return "PROBABLE";
-  if (
-    normalized.includes("POSSIBLE") ||
-    normalized.includes("MOEGLICH") ||
-    normalized.includes("MÖGLICH") ||
-    normalized.includes("MOGLICH") ||
-    normalized.includes("POSSÍVEL") ||
-    normalized.includes("POSSIVEL") ||
-    normalized.includes("POSIBLE")
-  )
-    return "POSSIBLE";
-  if (
-    normalized.includes("UNCERTAIN") ||
-    normalized.includes("UNGEWISS") ||
-    normalized.includes("UNSICHER") ||
-    normalized.includes("INCERTO") ||
-    normalized.includes("INCIERTO")
-  )
-    return "UNCERTAIN";
-  if (
-    normalized.includes("SPECULATIVE") ||
-    normalized.includes("SPEKULATIV") ||
-    normalized.includes("ESPECULATIVO")
-  )
-    return "SPECULATIVE";
-  if (
-    normalized.includes("DOCUMENTED") ||
-    normalized.includes("DOKUMENTIERT") ||
-    normalized.includes("DOCUMENTADO")
-  )
-    return "DOCUMENTED";
-  console.warn(
-    `Unrecognized confidence label: "${raw}", falling back to POSSIBLE`,
-  );
-  return "POSSIBLE";
-}
 
 function parseMarkdownSections(
   raw: string,
@@ -246,10 +125,10 @@ function parseMarkdownSections(
     // otherwise to the open entry.
     const target = currentSub ?? currentEntry;
     if (target) {
-      const labelMatch = line.match(LABEL_LINE);
-      if (labelMatch) {
-        target.claimType = parseClaimType(labelMatch[1]);
-        target.confidence = parseConfidence(labelMatch[2]);
+      const dl = parseDualLabel(line);
+      if (dl) {
+        target.claimType = dl.claimType;
+        target.confidence = dl.confidence;
         target.hasLabel = true;
         continue;
       }

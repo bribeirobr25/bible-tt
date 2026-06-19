@@ -2,6 +2,7 @@ import {
   type IntroductionData,
   sortByConfidence,
 } from "@/domain/content/types";
+import { Disclosure } from "@/ui/shared/disclosure";
 import { renderInlineSafe } from "@/ui/shared/render-markdown-safe";
 import { EnrichmentEntryCard } from "./enrichment-entry";
 
@@ -39,24 +40,18 @@ export function IntroductionView({
             section.id.replace(/-([a-z])/g, (_, c) => c.toUpperCase())
           ] || section.title;
         return (
-          <details
+          <Disclosure
             key={section.id}
             name="intro-acc"
-            className="tt-details"
             open={si === 0}
+            summary={<span>{label}</span>}
           >
-            <summary>
-              <span>{label}</span>
-              <span className="chev" aria-hidden="true">
-                ›
-              </span>
-            </summary>
             <div className="body">
               {sortByConfidence(section.entries).map((entry, i) => (
                 <EnrichmentEntryCard key={`${section.id}-${i}`} entry={entry} />
               ))}
             </div>
-          </details>
+          </Disclosure>
         );
       })}
     </div>

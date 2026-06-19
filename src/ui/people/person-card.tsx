@@ -1,5 +1,6 @@
 import Link from "next/link";
 import type { CuriosityEntry, PersonEntry } from "@/domain/content/types";
+import { ClaimBadge } from "@/ui/enrichment/claim-badge";
 import { renderInlineSafe } from "@/ui/shared/render-markdown-safe";
 
 // Parses a `**See:**` pointer like "genesis/PEOPLE.md" into the source book slug.
@@ -70,15 +71,6 @@ function CrossBookSeeField({
   );
 }
 
-const CONFIDENCE_TONE: Record<string, string> = {
-  VERIFIED: "bg-note-lexical/15 text-note-lexical",
-  PROBABLE: "bg-note-lexical/10 text-note-lexical",
-  POSSIBLE: "bg-note-theological/10 text-note-theological",
-  UNCERTAIN: "bg-note-critical/10 text-note-critical",
-  SPECULATIVE: "bg-bg-muted text-text-muted",
-  DOCUMENTED: "bg-note-grammatical/15 text-note-grammatical",
-};
-
 function CuriositiesBlock({
   label,
   entries,
@@ -96,12 +88,7 @@ function CuriositiesBlock({
         {entries.map((c) => (
           <div key={c.title} className="tt-note">
             <div className="nlab">
-              <span className="font-bold text-text-muted">{c.claimType}</span>
-              <span
-                className={`px-1.5 py-0.5 rounded ${CONFIDENCE_TONE[c.confidence] ?? CONFIDENCE_TONE.UNCERTAIN}`}
-              >
-                {c.confidence}
-              </span>
+              <ClaimBadge claimType={c.claimType} confidence={c.confidence} />
             </div>
             <div
               className="text-sm font-semibold text-text-primary mb-1"

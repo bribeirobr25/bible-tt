@@ -11,6 +11,43 @@ in `docs/audit/PENDING.md`.
 
 ---
 
+## Reusability / god-file split (Tier 3) — branch `content-multibook-expansion` (2026-06-19)
+
+Per `docs/audit/PLAN_TIER3_REUSABILITY.md` (externally audited, `AUDIT_TIER3_REUSABILITY_PLAN.md`). Pure structural refactor (no content/value/render change); guard = equivalence.
+- **WS1 — shared `<Disclosure>`:** new `ui/shared/disclosure.tsx` (+ `cx` class-join helper, unit-tested for the trailing-space gotcha) replaces the hand-rolled `<details className="tt-details">` summary/chev/body scaffold at **9 sites** (5 simple: notes / supplementary / introduction / chapter-shell overview / app-people Sources; 4 rich: context-view outer+nested, book-context, prophecy with `chevron={false}` for its grouped badge+chev). `person-card`'s `tt-person` left separate (distinct base class). **Gate: DOM-equivalent rendered `<details>` markup across 10 pages × 4 locales, 0 diffs** (the accordion is pure-native CSS → behavior preserved by construction).
+- **WS2 — split `people-parser.ts`:** extracted the field-resolution + enum-parsing block into `people-fields.ts` (`FieldId`, `EXACT_LABEL_ALIASES`+lookup/fallback, `resolveField`, `parseOriginType`/`HistoricityStatus`/`Int10`/`GenerationsFrom`/`RegionsByText`). people-parser **948→560 lines**; pure slice (not retyped). The `ParseState`-coupled `flushGenealogy` + state machine stay in people-parser (avoids a circular import — audit Minor 3). **Gate: people-data snapshot byte-identical across all 13 PEOPLE.md** (0 parse-output change) + 58 people-parser tests + conservation.
+- **WS3 — dropped:** the audit + self-audit found parser Finding 5 was largely false-DRY (`FIELD_LINE` `(.+)`/`(.*)` divergence; `## ` headers are semantic coincidence; `stripBlockquote` divergent); only `SOURCE_LABELS` was safe-but-marginal. Not executed.
+
+Gate green throughout (882 tests, lint, build, content:lint; conservation 11831 unchanged). Remaining DRY items → Tier 4 (low-priority): UI Finding 5 (`<Disclaimer>`/`<SourceLine>`), UI Finding 6 (`NOTE_TYPE_TOKENS`), DDD-Low (`parseCrossBookSlug` etc.), and the ~120 `Name (Name)` content pass.
+
+---
+
+## Dual-label SSOT (Tier 2) — branch `content-multibook-expansion` (2026-06-19)
+
+Per `docs/audit/PLAN_DUAL_LABEL_SSOT.md` (externally audited, `AUDIT_DUAL_LABEL_SSOT_PLAN.md`). Gave the dual-label (claim-type + confidence) concept one home, ending the copy-paste-then-drift the architecture audit found. Five gated steps:
+- **Step 1** — `src/domain/content/labels.ts`: merged `parseClaimType`/`parseConfidence` (canonical = enrichment, the richest superset; ordered arrays double as the check order — PROBABLE before UNCERTAIN for range labels), `CLAIM_TYPES`/`CONFIDENCE_LEVELS` (`satisfies` the unions), `parseDualLabel`/`DUAL_LABEL` (own-line extraction, `—|–|--`). +9 unit tests.
+- **Step 2** — wired all 5 parsers to `labels.ts`; deleted the 4 divergent `parseConfidence`, 3 `parseClaimType`, the duplicated `people` arrays, and the divergent extraction regexes (`LABEL_LINE`/`CLAIM_LINE`). Preserved book-context first-label-wins; enrichment's inline/trailing *strip* regexes; `people` origin/historicity + prophecy fulfillment enums (out of scope). **Validated with a temporary R1 resolved-value snapshot: 0 changes across all 126 content files** (behavior-preserving vs the real parsers). ~350 lines of duplication removed.
+- **Step 3** — `src/ui/shared/confidence-tone.ts`: one `CONFIDENCE_TONE` + `CONFIDENCE_KEYS` + `CLAIM_TYPE_KEYS`; wired `claim-badge` + `prophecy-view` (maps were byte-identical → pure dedup).
+- **Step 4** — `person-card` `CuriositiesBlock` adopts shared `<ClaimBadge>` (raw enum → i18n; removed its last local tone map). No curiosity content exists in any of the 13 PEOPLE.md, so this is future-proofing — validated by a unit test proving every claim/confidence i18n key resolves in all 4 locales (no component-render infra in the project).
+- **Step 5** — docs/logs (this entry; PLAN → EXECUTED; PENDING updated).
+
+Gate green throughout (880 tests, lint, build, content:lint; conservation 11831 unchanged). The dual-label concept is now single-source in parsers (`domain/content/labels.ts`) and UI (`ui/shared/confidence-tone.ts`). Remaining DRY items (Tier 3): `<Disclosure>` extraction, the 1027-line `people-parser.ts` split, and shared parser plumbing (audit Finding 5/7: `FIELD_LINE`/headers/`SOURCE_LABELS`/`stripBlockquote`).
+
+---
+
+## Renderer nested-emphasis hardening (Tier 1) — branch `content-multibook-expansion` (2026-06-19)
+
+Per `docs/audit/PLAN_RENDERER_NESTED_EMPHASIS.md` (externally audited, `AUDIT_RENDERER_NESTED_EMPHASIS_PLAN.md`). Fixed the renderer bug where italic nested inside bold (`**label *term*:**`) emitted literal asterisks across ~96 authored lines in all 4 locales. Five gated steps:
+- **Step 1** — extracted one `applyEmphasis` helper (4 duplicated copies → 1); pure refactor, no behavior change.
+- **Step 2** — tempered bold regex `/\*\*((?:[^*]|\*[^*]+\*)+?)\*\*/` so one level of italic nests in bold (incl. the trailing `**a *b***` shape and true `***x***`); +8 unit tests (mid/trailing/triple nest, regression lock, divine+nest, marker+nest, ReDoS). Auto-fixes all ~96 lines across locales (renderer-level, no content edits).
+- **Step 3** — routed `convertTable` cells through the shared `renderInlineSafe` pipeline (gains marker + nested support; R4 confirmed 0 raw markers in 4,212 table lines); added blocking `content:lint §0.14` unbalanced-`**` guard (baseline 0).
+- **Step 4** — re-italicized the 4 EN terms de-italicized ad-hoc on 2026-06-18 (john ch1 §B4 *tamid* / §IB-7 *skēnoō*; genesis ch2 §D *beyom*; john ch3 *aposunagōgos*/*Birkat ha-Minim*) → EN now matches de/es/pt-br parallels.
+- **Step 5** — docs/logs (this entry; PENDING + ARCHITECTURE_DRY_AUDIT updated; editorial-log notes).
+
+Gate green throughout (868 tests, lint, build, content:lint; conservation 11831 unchanged). Cross-locale curl: 0 stray `**` on john/matthew background + genesis introduction + chapter Read pages; Rule-30 divine speech with inner `<em>`/marker verified intact live. DRY: renderer emphasis is now single-source; remaining DRY items (parser `labels.ts`, `confidence-tone`, `<Disclosure>`, `people-parser` split) tracked in PENDING (Tier 2/3).
+
+---
+
 ## Redesign migration ("Light & Darkness") — branch `redesign-migration`
 
 Adopting the approved prototype's UI/UX into the production app, presentation-only, per

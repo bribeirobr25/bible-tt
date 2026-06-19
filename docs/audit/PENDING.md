@@ -2,7 +2,7 @@
 
 **The single forward-looking tracker.** Lists only what is *still to be done*. Closed work lives in the editorial logs (`docs/editorial-log/`) and the execution history (`docs/audit/EXECUTION_HISTORY.md`).
 
-**Last updated:** 2026-06-17.
+**Last updated:** 2026-06-18.
 
 ---
 
@@ -23,6 +23,7 @@
 **Cross-book / infrastructure:** *(detail §3)*
 - **Cross-book canonical PEOPLE source-merge** (C3).
 - **Phase 6 (search)** — Pagefind; also wire book-card content into the Phase-2 structured layer.
+- **DRY / reusability consolidation** — `docs/audit/ARCHITECTURE_DRY_AUDIT.md` (2026-06-18). DDD layering is intact; the issue was copy-paste-then-drift around the dual-label concept. **Done:** the 2 active drift-bugs (renderer prose-bold gap; SPECULATIVE color drift) + glossary literal-`*`; **Tier 1 — renderer nested-emphasis hardening** (`PLAN_RENDERER_NESTED_EMPHASIS.md`, 2026-06-19: `applyEmphasis` 4→1, tempered bold regex, table-cell pipeline, `content:lint §0.14` guard); **Tier 2 — dual-label SSOT** (`PLAN_DUAL_LABEL_SSOT.md`, 2026-06-19: `domain/content/labels.ts` merged the 4 `parseConfidence`/3 `parseClaimType`/`people` arrays/extraction regexes — folding in the 2 latent parser drifts — and `ui/shared/confidence-tone.ts` unified the tone + i18n-key maps + person-card `ClaimBadge`; R1 resolved-value diff = 0). **Tier 3 DONE (2026-06-19, `PLAN_TIER3_REUSABILITY.md`):** WS1 shared `<Disclosure>` (9 sites; DOM-equivalent), WS2 `people-fields.ts` split (people-parser 948→560). WS3 dropped (parser Finding 5 was false-DRY — divergent/coincidental regexes; only `SOURCE_LABELS` safe-but-marginal). **Remaining → Tier 4 (low-priority):** UI Finding 5 (`<Disclaimer>`/`<SourceLine>` helpers; route BookContext motifs through EnrichmentEntryCard), UI Finding 6 (one shared `NOTE_TYPE_TOKENS`), DDD-Low (`person-card` `parseCrossBookSlug`→read-model field; `people/page.tsx` blockquote cleanup→parser; `chapter-shell` short-status→derived field), and the ~120 redundant `Name (Name)` content pass (§5). `person-card`'s `tt-person` disclosure intentionally not unified.
 
 **Deferred content seeds** (drop in when that book is authored): *(detail §4)*
 - Akedah → Crucifixion typology → Gen 22 §F (Phase 12)
@@ -77,4 +78,5 @@ Drop into the named section when that book is authored:
 - **Non-EN em-dash sweep** — remaining instances are deliberate future-authoring territory, not regressions.
 - **Items 20 / 27 / 28** — PARTIAL with documented mitigation (John 3:16–21 speech-boundary; Section H Type-tag taxonomy; AI/editorial provenance ratio).
 - **Book-card content not yet in the Phase-2 structured layer** — wire in when Phase 6 search lands.
+- *(Resolved 2026-06-19 — moved to EXECUTION_HISTORY: the glossary literal-`*` fix and the renderer nested-emphasis hardening, Tier 1. The renderer now supports one level of italic-in-bold, auto-fixing the ~96 cross-locale lines; the `content:lint §0.14` guard prevents regressions.)*
 - **Redundant `Name (Name)` cleanup (v3.3.1)** — ~120 occurrences across ~30 files where the familiar form and the transliterated form coincide and collapse to `Name (Name)` (e.g. `Maria (Maria)`, `Nazareth (Nazareth)`, `David (David)`, `Tamar (Tamar)`). v3.3.1 forbids the redundant doubling — the form should appear once. Concentrated in **DE** chapters and in **PEOPLE.md across all four locales**. `content:lint` currently surfaces only 2 (de/matthew); the rest are below the lint's allow-listed threshold. Needs a per-instance human pass — most are pure redundancy to delete, but a few sit in comparison-table cells (e.g. two distinct same-named figures side by side) and are intentional. Low-priority cosmetic; no parser/UI impact.

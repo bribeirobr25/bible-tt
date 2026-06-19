@@ -18,16 +18,16 @@ for arg in "$@"; do
   esac
 done
 
-CONTENT_DIRS="content/en/genesis content/pt-br/genesis content/de/genesis content/es/genesis content/en/john content/pt-br/john content/de/john content/es/john content/en/matthew content/pt-br/matthew content/de/matthew content/es/matthew"
-STUDY_DIRS="content/en/genesis/study content/pt-br/genesis/study content/de/genesis/study content/es/genesis/study content/en/john/study content/pt-br/john/study content/de/john/study content/es/john/study content/en/matthew/study content/pt-br/matthew/study content/de/matthew/study content/es/matthew/study"
-PEOPLE_FILES="content/en/genesis/PEOPLE.md content/pt-br/genesis/PEOPLE.md content/de/genesis/PEOPLE.md content/es/genesis/PEOPLE.md content/en/matthew/PEOPLE.md content/pt-br/matthew/PEOPLE.md content/de/matthew/PEOPLE.md content/es/matthew/PEOPLE.md content/en/john/PEOPLE.md content/pt-br/john/PEOPLE.md content/de/john/PEOPLE.md content/es/john/PEOPLE.md"
+CONTENT_DIRS="content/en/genesis content/pt-br/genesis content/de/genesis content/es/genesis content/en/john content/pt-br/john content/de/john content/es/john content/en/matthew content/pt-br/matthew content/de/matthew content/es/matthew content/en/mark"
+STUDY_DIRS="content/en/genesis/study content/pt-br/genesis/study content/de/genesis/study content/es/genesis/study content/en/john/study content/pt-br/john/study content/de/john/study content/es/john/study content/en/matthew/study content/pt-br/matthew/study content/de/matthew/study content/es/matthew/study content/en/mark/study"
+PEOPLE_FILES="content/en/genesis/PEOPLE.md content/pt-br/genesis/PEOPLE.md content/de/genesis/PEOPLE.md content/es/genesis/PEOPLE.md content/en/matthew/PEOPLE.md content/pt-br/matthew/PEOPLE.md content/de/matthew/PEOPLE.md content/es/matthew/PEOPLE.md content/en/john/PEOPLE.md content/pt-br/john/PEOPLE.md content/de/john/PEOPLE.md content/es/john/PEOPLE.md content/en/mark/PEOPLE.md"
 NON_EN_PEOPLE_FILES="content/pt-br/genesis/PEOPLE.md content/de/genesis/PEOPLE.md content/es/genesis/PEOPLE.md content/pt-br/matthew/PEOPLE.md content/de/matthew/PEOPLE.md content/es/matthew/PEOPLE.md content/pt-br/john/PEOPLE.md content/de/john/PEOPLE.md content/es/john/PEOPLE.md"
 # Phase 9 — CONTEXT.md per book per locale (book-level cross-chapter motifs).
-CONTEXT_FILES="content/en/genesis/CONTEXT.md content/pt-br/genesis/CONTEXT.md content/de/genesis/CONTEXT.md content/es/genesis/CONTEXT.md content/en/john/CONTEXT.md content/pt-br/john/CONTEXT.md content/de/john/CONTEXT.md content/es/john/CONTEXT.md content/en/matthew/CONTEXT.md content/pt-br/matthew/CONTEXT.md content/de/matthew/CONTEXT.md content/es/matthew/CONTEXT.md"
+CONTEXT_FILES="content/en/genesis/CONTEXT.md content/pt-br/genesis/CONTEXT.md content/de/genesis/CONTEXT.md content/es/genesis/CONTEXT.md content/en/john/CONTEXT.md content/pt-br/john/CONTEXT.md content/de/john/CONTEXT.md content/es/john/CONTEXT.md content/en/matthew/CONTEXT.md content/pt-br/matthew/CONTEXT.md content/de/matthew/CONTEXT.md content/es/matthew/CONTEXT.md content/en/mark/CONTEXT.md"
 ES_NT_DIRS="content/es/john content/es/matthew"
 ES_NT_CHAPTER_FILES="content/es/john/CHAPTER-1.md content/es/john/CHAPTER-2.md content/es/john/CHAPTER-3.md content/es/matthew/CHAPTER-1.md content/es/matthew/CHAPTER-2.md content/es/matthew/CHAPTER-3.md"
 PTBR_JOHN_FILES="content/pt-br/john/CHAPTER-1.md content/pt-br/john/CHAPTER-2.md content/pt-br/john/CHAPTER-3.md content/pt-br/john/study/CHAPTER-1-CONTEXT.md content/pt-br/john/study/CHAPTER-2-CONTEXT.md content/pt-br/john/study/CHAPTER-3-CONTEXT.md"
-EDITORIAL_LOGS="docs/editorial-log/genesis.md docs/editorial-log/john.md docs/editorial-log/matthew.md"
+EDITORIAL_LOGS="docs/editorial-log/genesis.md docs/editorial-log/john.md docs/editorial-log/matthew.md docs/editorial-log/mark.md"
 
 ALLOWLIST_FILE="scripts/lint-allowlist.txt"
 
@@ -235,7 +235,7 @@ check_cross_book_pointers() {
     if (/^\*\*(?:See|Ver|Siehe):\*\*\s+([a-z][a-z-]*)\/PEOPLE\.md/i) {
       my $slug = lc($1);
       my %allowed = (
-        genesis => 1, matthew => 1, john => 1,
+        genesis => 1, matthew => 1, mark => 1, john => 1,
         acts => 1, exodus => 1, kings => 1, isaiah => 1,
       );
       unless ($allowed{$slug}) {
@@ -243,7 +243,7 @@ check_cross_book_pointers() {
         print "$ARGV:$.:$_  [slug not in allow-list: $slug]\n";
       }
     }
-  ' content/*/genesis/PEOPLE.md content/*/john/PEOPLE.md content/*/matthew/PEOPLE.md 2>/dev/null | filter_allowlist "$rule_id")
+  ' content/*/genesis/PEOPLE.md content/*/john/PEOPLE.md content/*/matthew/PEOPLE.md content/*/mark/PEOPLE.md 2>/dev/null | filter_allowlist "$rule_id")
   emit_warn "$rule_id" "Cross-book PEOPLE.md pointer slug not in allow-list — see RULES-CORE.md Rule 29 §People and Genealogy Files v3.3.2 allow-list" "$matches"
 }
 check_cross_book_pointers
@@ -264,6 +264,25 @@ check_source_persona_leak() {
   emit_warn "$rule_id" "Source-analysis contributor name or video persona prose in user-facing content/ or src/ — keep it internal (docs/source-analysis/ only); see docs/source-analysis/README.md" "$matches"
 }
 check_source_persona_leak
+
+# §0.14 — Unbalanced bold (**) guard (blocking)
+# Added 2026-06-19 with the renderer nested-emphasis hardening
+# (PLAN_RENDERER_NESTED_EMPHASIS). A line with an ODD number of `**` renders with
+# literal asterisks (the renderer's bold pass needs matched `**`). Well-formed
+# nesting like `**a *b***` counts `**` as 2 (even) and is fine. Baseline = 0
+# across all content; this locks it so future authoring can't reintroduce the
+# stray-asterisk bug the hardening fixed.
+check_unbalanced_bold() {
+  local rule_id="0.14"
+  local matches
+  matches=$(perl -ne '
+    if (eof) { close ARGV; }
+    my $c = () = /\*\*/g;
+    if ($c % 2 == 1) { chomp; print "$ARGV:$.:$_\n"; }
+  ' $(find content -name '*.md' | sort) 2>/dev/null | filter_allowlist "$rule_id")
+  emit "$rule_id" "Unbalanced ** on a line (bold renders with literal asterisks; nested **a *b*** is fine)" "$matches"
+}
+check_unbalanced_bold
 
 # ============================================================
 # Legacy rules (pre-Phase 0)

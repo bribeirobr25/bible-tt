@@ -5,6 +5,7 @@ import { ChapterNav } from "@/ui/navigation/chapter-nav";
 import { type Door, DoorNav } from "@/ui/navigation/door-nav";
 import { Link } from "@/ui/navigation/locale-link";
 import { ReadingProgress } from "@/ui/reading/reading-progress";
+import { Disclosure } from "@/ui/shared/disclosure";
 import { LegacyHashRedirect } from "@/ui/shared/legacy-hash-redirect";
 import { renderMarkdownSafe } from "@/ui/shared/render-markdown-safe";
 import { GlossaryPanel } from "@/ui/study/glossary-panel";
@@ -116,20 +117,17 @@ export async function ChapterShell({
         {active === "read" && (data.overview || data.glossary.length > 0) && (
           <div className="max-w-[46rem] mx-auto mb-[34px] space-y-3">
             {data.overview && (
-              <details className="tt-details" open>
-                <summary>
-                  <span>{t("nav.chapterOverview")}</span>
-                  <span className="chev" aria-hidden="true">
-                    ›
-                  </span>
-                </summary>
+              <Disclosure
+                open
+                summary={<span>{t("nav.chapterOverview")}</span>}
+              >
                 <div
                   className="body prose text-text-primary [&_strong]:font-semibold"
                   dangerouslySetInnerHTML={{
                     __html: renderMarkdownSafe(data.overview, "note"),
                   }}
                 />
-              </details>
+              </Disclosure>
             )}
             {data.glossary.length > 0 && (
               <a
