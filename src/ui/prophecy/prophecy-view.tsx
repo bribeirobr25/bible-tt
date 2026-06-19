@@ -2,11 +2,11 @@
 
 import { useTranslations } from "next-intl";
 import type {
-  ConfidenceLevel,
   FulfillmentStatus,
   ProphecyData,
   ProphecyEntry,
 } from "@/domain/content/types";
+import { CONFIDENCE_KEYS } from "@/ui/shared/confidence-tone";
 import { renderMarkdownSafe } from "@/ui/shared/render-markdown-safe";
 
 const FULFILLMENT_COLORS: Record<FulfillmentStatus, string> = {
@@ -25,15 +25,6 @@ const FULFILLMENT_KEYS: Record<FulfillmentStatus, string> = {
   UNFULFILLED: "prophecy.fulfillment.unfulfilled",
   DEBATED: "prophecy.fulfillment.debated",
   MULTI_STAGE: "prophecy.fulfillment.multiStage",
-};
-
-const CONFIDENCE_KEYS: Record<ConfidenceLevel, string> = {
-  VERIFIED: "confidence.verified",
-  PROBABLE: "confidence.probable",
-  POSSIBLE: "confidence.possible",
-  UNCERTAIN: "confidence.uncertain",
-  SPECULATIVE: "confidence.speculative",
-  DOCUMENTED: "confidence.documented",
 };
 
 function ProphecyCard({
