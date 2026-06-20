@@ -46,7 +46,7 @@ This file presents biographical and genealogical information about figures appea
 
 ---
 
-## Tamar (Tamar)
+## Tamar
 **See:** genesis/PEOPLE.md
 **In Matthew:** Named in the genealogy (1:3) as the mother of Perets and Zerach by Yehudah (Judah). One of four women (plus Miryam (Mary)) included in the genealogy — an unusual feature in Jewish patrilineal genealogies. Her story (Gen 38) involves deception and sexual irregularity; her inclusion may signal that God's purposes work through unexpected and socially marginal figures.
 
@@ -79,7 +79,7 @@ This file presents biographical and genealogical information about figures appea
 
 ---
 
-## David (David)
+## David
 **Meaning:** "beloved" (possibly; etymology debated)
 **Origin:** Son of Yishai (Jesse) of Bet-Lechem (Bethlehem), tribe of Yehudah (Judah)
 **First mention in Matthew:** 1:1

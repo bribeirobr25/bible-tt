@@ -448,7 +448,7 @@ und weil er nicht nötig hatte, dass jemand Zeugnis über den Menschen ablege �
 | ἱερόν (*hieron*) | Tempelkomplex | Das gesamte Tempelgelände einschließlich Höfe und Geschäftsbereiche. |
 | ζῆλος (*zēlos*) | Eifer | Intensive Hingabe. Ps 69,9 Zitat. |
 | ἐξουσία (*exousia*) | Recht / Vollmacht | Autorisierte Stellung. Implizit in der Zeichenforderung (V.18). |
-| πιστεύω (*pisteuō*) | vertrauen / anvertrauen | Dasselbe Verb für beide Richtungen — Menge vertraut Jesus (Jesus), Jesus vertraut sich nicht an. |
+| πιστεύω (*pisteuō*) | vertrauen / anvertrauen | Dasselbe Verb für beide Richtungen — Menge vertraut Jesus, Jesus vertraut sich nicht an. |
 | ἐγείρω (*egeirō*) | aufrichten | Umfasst sowohl Wiederaufbau (Gebäude) als auch Auferstehung (Leib). |
 | ὥρα (*hōra*) | Stunde | Fachbegriff bei Johannes: die bestimmte Zeit von Jesu Tod und Verherrlichung. |
 | καθαρισμός (*katharismos*) | Reinigung | Rituelle Reinigung. Kontext: jüdische Reinigungsriten. |
@@ -466,10 +466,10 @@ und weil er nicht nötig hatte, dass jemand Zeugnis über den Menschen ablege �
 
 | Tag | Genesis 1 | Johannes 1–2 |
 |-----|-----------|--------------|
-| Tag 1 | Licht erschaffen (1,3–5) | Johannes (Johannes)' Zeugnis (1,19–28) |
+| Tag 1 | Licht erschaffen (1,3–5) | Johannes' Zeugnis (1,19–28) |
 | Tag 2 | Himmel/Wasser getrennt (1,6–8) | „Am nächsten Tag" — Lamm Gottes (1,29–34) |
 | Tag 3 | Land, Vegetation (1,9–13) | „Am nächsten Tag" — erste Nachfolger (1,35–42) |
-| Tag 4 | Lichter (1,14–19) | „Am nächsten Tag" — Philippus (Philippus), Nathanael (1,43–51) |
+| Tag 4 | Lichter (1,14–19) | „Am nächsten Tag" — Philippus, Nathanael (1,43–51) |
 | Tag 7 | „Am dritten Tag" = Tag 3 ab Tag 4 | Hochzeit in Qanah — erstes Zeichen (2,1–11) |
 
 Die Tagessequenz über Johannes 1–2 könnte die Schöpfungswoche widerspiegeln, die im ersten Zeichen am Tag gipfelt, der dem siebten Tag entspricht — dem Tag der Vollendung und Ruhe. Falls beabsichtigt, wird die Hochzeit in Qanah als Neuschöpfungsereignis dargestellt. Die Parallele ist aufschlussreich, aber nicht vom Text selbst bestätigt.
@@ -489,13 +489,13 @@ In Genesis ist Wasser das Ausgangsmaterial, aus dem Gott die Schöpfung ordnet. 
 
 Der Garten Eden enthielt „jeden Baum, lieblich anzusehen und gut zur Nahrung" (Gen 2,9). Wein — das Erzeugnis des Weinstocks — wird in der HB mit Freude, Überfluss und dem messianischen Zeitalter verbunden (Am 9,13; Joel 3,18; Jes 25,6). Der Überfluss an Wein in Qanah (470–700 Liter) spiegelt die Großzügigkeit der Versorgung Edens und die prophetische Erwartung überströmenden Weins im kommenden Zeitalter.
 
-**Gen 28,22 (Bethel (Bethel) = Haus Gottes) → Joh 2,16 (Haus meines Vaters):**
+**Gen 28,22 (Bethel = Haus Gottes) → Joh 2,16 (Haus meines Vaters):**
 
 | Element | Gen 28,22 | Joh 2,16 |
 |---------|-----------|----------|
 | Ausdruck | „Dies wird das Haus Gottes sein" (*beyt elohim*) | „Das Haus meines Vaters" (*oikos tou patros mou*) |
-| Ort | Ein Steinpfeiler in Bethel | Der Tempel in Jerusalem (Jerusalem) |
-| Anspruch | Yaaqov identifiziert einen Ort als Gottes Wohnstatt | Jesus (Jesus) beansprucht den Tempel als das Haus seines Vaters |
+| Ort | Ein Steinpfeiler in Bethel | Der Tempel in Jerusalem |
+| Anspruch | Yaaqov identifiziert einen Ort als Gottes Wohnstatt | Jesus beansprucht den Tempel als das Haus seines Vaters |
 | Vollmacht | Yaaqov benennt den Ort | Jesus beansprucht Sohnesvollmacht über den Ort |
 
 Yaaqov bezeichnete einen Stein als Gottes Haus nach der Leitervision. Jesus beansprucht den Tempel als das Haus seines Vaters — und definiert dann das wahre Heiligtum als seinen Leib (V.21) neu. Die Entwicklung verläuft vom Steinpfeiler zum Steintempel zum leiblichen Tempel.

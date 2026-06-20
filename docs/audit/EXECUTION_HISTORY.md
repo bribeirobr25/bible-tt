@@ -11,6 +11,12 @@ in `docs/audit/PENDING.md`.
 
 ---
 
+## Tier 4 Strand 3 — redundant `Name (Name)` content pass (2026-06-20)
+
+Per `docs/audit/PLAN_TIER4_NAME_DEDUP.md` + RULES-HB v3.3.1. Removed **118** redundant identical doublings `X (X)` → `X` across 29 content files (4 locales; de 92 / es 12 / en 10 / pt-br 4). All genuine redundancies — the `\1` pattern can't match qualified comparisons (`Lamech (Cainite)`), so there were no intentional-exception false positives. 32 PEOPLE `## Name (Name)` headings (render-equivalent — `person-card` already suppressed `familiarName === name`), 48 table cells + 34 prose (visible cleanup), + 4 accented-capital `Ägypten (Ägypten)` an initial ASCII-only pass missed (caught by the rendered-DOM check). **Cleared `content:lint §0.11` (DE redundant-parens).** Gate green (882 tests, lint, build, content:lint; conservation 11,831 unchanged); diff is purely paren removals (104 lines, 0 collateral). **Flagged, not fixed:** 16 lowercase `kyrios (kyrios)` in the templated Divine-Name-Policy metadata (a term-doubling, possibly a mangled `kyrios (κύριος)`) — awaiting a separate decision.
+
+---
+
 ## Tier 4 (code DRY) — branch `tier4-code-dry` (2026-06-20)
 
 Per `docs/audit/PLAN_TIER4_CODE_DRY.md` (externally audited, `AUDIT_TIER4_CODE_DRY_PLAN.md`). The code half of the DRY tail — UI helper extraction + DDD-low placement; pure structural, equivalence-guarded.

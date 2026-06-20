@@ -648,7 +648,7 @@ Este arquivo apresenta informações biográficas e genealógicas sobre figuras 
 
 ---
 
-## Nimrod (Nimrod)
+## Nimrod
 
 **Significado:** possivelmente "nos rebelaremos" (de *marad*, rebelar-se — etimologia popular; INCERTO)
 **Origem:** NASCIDO
@@ -792,7 +792,7 @@ Este arquivo apresenta informações biográficas e genealógicas sobre figuras 
 
 ---
 
-## Sarai (Sarai)
+## Sarai
 
 **Significado:** "minha princesa" (*sarah* / *sarai*; a mudança de nome para Sarah ocorre depois, Gn 17:15, fora do escopo deste arquivo)
 **Origem:** APARECE (nenhuma narrativa de nascimento dada)

@@ -71,7 +71,7 @@ El Evangelio se divide en cuatro secciones principales que difieren en alcance, 
 
 **Libro de la Gloria (13:1–20:31):** Narra el discurso de despedida (13–17), arresto, juicio, crucifixión y resurrección. El tono cambia del ministerio público a la instrucción privada de los discípulos. Los capítulos 13–17 no tienen paralelo en los Sinópticos — una despedida extensa en la que Jesús prepara a sus seguidores para su partida, introduce al *paraklētos* (abogado/auxiliador) y ora por la comunidad.
 
-**Epílogo (21:1–25):** Un capítulo suplementario que narra una aparición posresurreccional en Galileaea, la restauración de Pedro (Pedro) y el testimonio conclusivo del discípulo amado. Ampliamente considerado como adición a una edición anterior que terminaba en 20:30–31.
+**Epílogo (21:1–25):** Un capítulo suplementario que narra una aparición posresurreccional en Galileaea, la restauración de Pedro y el testimonio conclusivo del discípulo amado. Ampliamente considerado como adición a una edición anterior que terminaba en 20:30–31.
 
 **Fuente:** Dodd, *The Interpretation of the Fourth Gospel* (1953), 289–443; Brown, *John* (AB), I.cxxxviii–cxliv.
 

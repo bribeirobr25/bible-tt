@@ -415,7 +415,7 @@ Und alle Tage Noahs waren neunhundertfünfzig Jahre, und er starb.
 | קֶשֶׁת | Bogen | Überwiegend in der HB Kriegsbogen. Hier: göttliche Waffe in den Himmel gesetzt. |
 | עֹלָם | Ewigkeit | „Bund der Ewigkeit." Lange/unbefristete Dauer. |
 | עֶרְוָה | Blöße | „Blöße seines Vaters." Umstrittene Bedeutung. Siehe Anm. zu 9:22. |
-| כְּנַעַן | Kanaan (Kanaan) | Hams Sohn; von Noah (Noah) verflucht. Eponymer Ahnherr der Kanaaniter. |
+| כְּנַעַן | Kanaan | Hams Sohn; von Noah verflucht. Eponymer Ahnherr der Kanaaniter. |
 | כֶּרֶם | Weinberg | Erste Erwähnung. Noah pflanzt den ersten Weinberg. |
 
 ---
@@ -443,15 +443,15 @@ Der nachsintflutliche Segen ist eine modifizierte Neu-Schöpfung: dasselbe Fruch
 - Dies ist die erste vollständige Bundes-Sequenz: Ankündigung → Bedingungen → Zeichen
 
 **Noahs Rede und Schweigen:**
-- 6:9–9:24: Noah (Noah) spricht **null** aufgezeichnete Worte. 15+ Kapitel schweigenden Gehorsams.
-- 9:25–27: seine erste und einzige Rede — ein Fluch über Kanaan (Kanaan) und Segnungen.
+- 6:9–9:24: Noah spricht **null** aufgezeichnete Worte. 15+ Kapitel schweigenden Gehorsams.
+- 9:25–27: seine erste und einzige Rede — ein Fluch über Kanaan und Segnungen.
 - Der Kontrast ist tiefgreifend: der „gerechte Mann" (6:9), der gehorsam die Schöpfung rettete, spricht zum ersten Mal, um zu verfluchen.
 
 **Namens-Wortspiel-Kette in Gn 6–9:**
 - **Noah** (*n-w-ch*): Ruhe/Trost — 5:29 Benennung, 8:4 Tebah ruht, 8:9 Ruheplatz der Taube, 8:21 beruhigender Duft
 - **Shem** = „Name" — 6:4 „Männer des Namens," 9:26 „Gott Shems/des Namens"
-- **Ham (Ham)** = „heiß/warm" — mögliche Verbindung zu 9:21 (Wein, Hitze)
-- **Yafet (Jafet)** = „weit machen/schön" — 9:27 „Gott mache weit (*yaft*) den Jafet (Jafet)"
+- **Ham** = „heiß/warm" — mögliche Verbindung zu 9:21 (Wein, Hitze)
+- **Yafet (Jafet)** = „weit machen/schön" — 9:27 „Gott mache weit (*yaft*) den Jafet"
 
 **Verteilung der Gottesnamen in Gn 9:**
 - 9:1–17: **Gott/Elohim** durchgehend (Bund = kosmisch, strukturell)

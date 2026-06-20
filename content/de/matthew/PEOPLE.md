@@ -46,7 +46,7 @@ Diese Datei enthält biografische und genealogische Informationen über Personen
 
 ---
 
-## Tamar (Tamar)
+## Tamar
 **Siehe:** genesis/PEOPLE.md
 **In Matthäus:** In der Genealogie (1,3) als Mutter von Perets und Zerach durch Juda genannt. Eine von vier Frauen (plus Maria), die in der Genealogie eingeschlossen sind — ein ungewöhnliches Merkmal in jüdischen patrilinearen Genealogien. Ihre Geschichte (Gen 38) beinhaltet Täuschung und sexuelle Unregelmäßigkeit; ihre Einbeziehung könnte signalisieren, dass Gottes Absichten durch unerwartete und sozial marginale Personen wirken.
 
@@ -61,7 +61,7 @@ Diese Datei enthält biografische und genealogische Informationen über Personen
 
 ---
 
-## Rut (Rut)
+## Rut
 **Bedeutung:** unsicher (möglicherweise „Freundin" oder „Gefährtin")
 **Herkunft:** Mo'avitische Frau (Rut 1,4)
 **Erstnennung in Matthäus:** 1,5
@@ -79,9 +79,9 @@ Diese Datei enthält biografische und genealogische Informationen über Personen
 
 ---
 
-## David (David)
+## David
 **Bedeutung:** „Geliebter" (möglicherweise; Etymologie umstritten)
-**Herkunft:** Sohn Yishais (Isai) aus Bethlehem (Bethlehem), Stamm Juda
+**Herkunft:** Sohn Yishais (Isai) aus Bethlehem, Stamm Juda
 **Erstnennung in Matthäus:** 1,1
 **In Matthäus:** In der Überschrift der Genealogie (1,1 — „Sohn Davids"), in 1,6 als der König, der Salomo zeugte durch die Frau des Uriyah, und in 1,17 als struktureller Dreh- und Angelpunkt der Genealogie (Abraham bis David = 14 Geschlechter; David bis Deportation = 14; Deportation bis zum Gesalbten = 14). „Sohn Davids" wird zum wiederkehrenden messianischen Titel im gesamten Matthäus (9,27; 12,23; 15,22; 20,30-31; 21,9.15; 22,42).
 **Querverweis:** Vollständiger Eintrag wird in samuel/PEOPLE.md oder kings/PEOPLE.md erscheinen, wenn diese Bücher übersetzt werden.
@@ -107,7 +107,7 @@ Diese Datei enthält biografische und genealogische Informationen über Personen
 **Mutter:** Maria (1,16.18)
 **Ehepartner:** keine/r angegeben in Matthäus 1-3
 **Kinder:** keine angegeben in Matthäus 1-3
-**Ort(e):** geboren in Bethlehem in Juda (2,1); nach Ägypten (Ägypten) gebracht (2,14); in Nazareth im Galiläa niedergelassen (2,23); kam an den Jordan (Jordan) zur Eintauchung (3,13); in die Wüste geführt (4,1)
+**Ort(e):** geboren in Bethlehem in Juda (2,1); nach Ägypten gebracht (2,14); in Nazareth im Galiläa niedergelassen (2,23); kam an den Jordan zur Eintauchung (3,13); in die Wüste geführt (4,1)
 **Erstnennung:** Mt 1,1 (Genealogieüberschrift); 1,16 (Geburt); 1,21 (Benennung)
 **Erwähnt in:** Mt 1,1.16.18.21.25; 2,1; 3,13.15-16
 **Schlüsselereignisse in Matthäus 1-3:** In der Genealogie als der Gesalbte, Sohn Davids, Sohn Abrahams genannt (1,1); empfangen „vom heiligen Wind/Geist" (1,18.20); auf Anweisung des Boten Jesus genannt durch Josef — „denn er wird sein Volk retten von ihren Sünden" (1,21); geboren in Bethlehem (2,1); von den Magoi besucht (2,11); nach Ägypten gebracht, um Herodes zu entkommen (2,14); nach Herodes' Tod zurückgekehrt und in Nazareth niedergelassen (2,23); kam zu Johannes zur Eintauchung im Jordan (3,13); eingetaucht, die Himmel öffneten sich, der Geist Gottes stieg wie eine Taube herab, eine Stimme aus den Himmeln sprach: „Dieser ist mein Sohn, der Geliebte, an dem ich Wohlgefallen habe" (3,16-17)
@@ -199,7 +199,7 @@ Diese Datei enthält biografische und genealogische Informationen über Personen
 
 ---
 
-## Herodes (Herodes)
+## Herodes
 **Bedeutung:** „heldenhaft" (griechischer Name, Ἡρῴδης, *Hērōdēs*)
 **Herkunft:** GEBOREN (ca. 73/72 v.u.Z.)
 **Geburtsjahr:** 73 v.u.Z. (HISTORICAL / ARCHAEOLOGICAL — VERIFIZIERT; Josephus, *AJ* 14.158; *BJ* 1.203)

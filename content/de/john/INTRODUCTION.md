@@ -71,7 +71,7 @@ Das Evangelium gliedert sich in vier Hauptteile, die sich in Umfang, Adressatenk
 
 **Buch der Herrlichkeit (13:1–20:31):** Erzählt die Abschiedsrede (13–17), Verhaftung, Prozess, Kreuzigung und Auferstehung. Der Ton wechselt vom öffentlichen Wirken zur privaten Unterweisung der Jünger. Die Kapitel 13–17 haben keine Parallele in den Synoptikern — ein ausgedehnter Abschied, in dem Jeschua seine Nachfolger auf seinen Weggang vorbereitet, den *Paraklētos* (Beistand/Helfer) einführt und für die Gemeinschaft betet.
 
-**Epilog (21:1–25):** Ein ergänzendes Kapitel mit einer nachösterlichen Erscheinung in Galiläa, der Wiederherstellung des Petrus (Petrus) und dem abschließenden Zeugnis des geliebten Jüngers. Weithin als Ergänzung einer früheren Fassung betrachtet, die mit 20:30–31 endete.
+**Epilog (21:1–25):** Ein ergänzendes Kapitel mit einer nachösterlichen Erscheinung in Galiläa, der Wiederherstellung des Petrus und dem abschließenden Zeugnis des geliebten Jüngers. Weithin als Ergänzung einer früheren Fassung betrachtet, die mit 20:30–31 endete.
 
 **Quelle:** Dodd, *The Interpretation of the Fourth Gospel* (1953), 289–443; Brown, *John* (AB), I.cxxxviii–cxliv.
 

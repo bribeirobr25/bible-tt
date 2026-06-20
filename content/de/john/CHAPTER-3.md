@@ -576,7 +576,7 @@ Wer auf den Sohn vertraut, hat Leben des Zeitalters; wer aber dem Sohn nicht geh
 | φωνή (*phōnē*) | Klang / Stimme | Sowohl „Klang" (des Windes) als auch „Stimme" (einer Person/eines Geistes). |
 | σῴζω (*sōzō*) | retten / befreien | Umfasst physische Rettung, Heilung, Befreiung. |
 | ὀργή (*orgē*) | Zorn | Einziges Vorkommen im Johannesevangelium. |
-| νυμφίος (*nymphios*) | Bräutigam | Gleichnis für Jesus (Jesus) in V.29. |
+| νυμφίος (*nymphios*) | Bräutigam | Gleichnis für Jesus in V.29. |
 | σφραγίζω (*sphragizō*) | siegeln / beglaubigen | Juristische Beglaubigung; ein Siegel setzen. |
 | χριστός (*christos*) | Gesalbter | Kleingeschrieben als Beschreibung. Entspricht HB מָשִׁיחַ (*mashiach*). |
 | βαπτίζω (*baptizō*) | untertauchen | NICHT transliteriert. Klarer semantischer Inhalt. |
@@ -603,7 +603,7 @@ Der Wind/Geist über den Urwassern bei der Schöpfung wird nun zum Wind/Geist, d
 | Erhöhtes Objekt | Bronzene Schlange (*nechash nechoshet*) auf einer Stange | Der Menschensohn |
 | Erforderliche Antwort | Die Schlange anschauen | Auf den Menschensohn vertrauen |
 | Ergebnis | Der Gebissene lebte | Jeder Vertrauende hat Leben des Zeitalters |
-| Handelnder | Mose (Mose) erhöhte die Schlange | Der Menschensohn muss erhöht werden |
+| Handelnder | Mose erhöhte die Schlange | Der Menschensohn muss erhöht werden |
 | Kontext | Wüstengericht — Schlangenbisse als Folge der Klage | Der von oben Kommende, von Gott gesandt |
 
 Die typologische Parallele ist explizit: Mose erhöhte die Schlange, damit die Hinschauenden leben; der Menschensohn muss erhöht werden, damit die Vertrauenden Leben des Zeitalters haben. Das Verb „erhöht werden" (*hypsōthēnai*) trägt die johanneische Doppelbedeutung von physischer Erhebung und göttlicher Verherrlichung.
@@ -618,7 +618,7 @@ Die typologische Parallele ist explizit: Mose erhöhte die Schlange, damit die H
 | Bedingung | Ihn aufnehmen, auf seinen Namen vertrauen | Von oben/von neuem geboren werden |
 | Ergebnis | Recht, Kinder Gottes zu werden | Das Königreich Gottes sehen/eintreten |
 
-Die komprimierte Geburtstheologie des Prologs entfaltet sich im Nikodemus (Nikodemus)-Dialog. Was 1,12–13 als Tatsache feststellt, erforscht 3,3–8 als Anforderung und Geheimnis.
+Die komprimierte Geburtstheologie des Prologs entfaltet sich im Nikodemus-Dialog. Was 1,12–13 als Tatsache feststellt, erforscht 3,3–8 als Anforderung und Geheimnis.
 
 **Joh 1,4–5 → Joh 3,19–21 — Licht und Finsternis:**
 

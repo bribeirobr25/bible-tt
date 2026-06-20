@@ -649,7 +649,7 @@ Este archivo presenta información biográfica y genealógica sobre figuras que 
 
 ---
 
-## Nimrod (Nimrod)
+## Nimrod
 
 **Significado:** posiblemente "nos rebelaremos" (de *marad*, rebelarse — etimología popular; INCIERTO)
 **Origen:** NACIDO
@@ -793,7 +793,7 @@ Este archivo presenta información biográfica y genealógica sobre figuras que 
 
 ---
 
-## Sarai (Sarai)
+## Sarai
 
 **Significado:** "mi princesa" (*sarah* / *sarai*; el cambio de nombre a Sarah ocurre después, Gn 17:15, fuera del alcance de este archivo)
 **Origen:** APARECE (ninguna narrativa de nacimiento dada)
@@ -827,7 +827,7 @@ Este archivo presenta información biográfica y genealógica sobre figuras que 
 
 ---
 
-## Lot (Lot)
+## Lot
 
 **Significado:** "cobertura" / "velo" (INCIERTO)
 **Origen:** NACIDO

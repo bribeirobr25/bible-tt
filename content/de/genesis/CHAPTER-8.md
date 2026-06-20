@@ -327,7 +327,7 @@ Und JHWH roch den beruhigenden Duft, und JHWH sprach in seinem Herzen: @@„Ich 
 |-----------|---------|-------------|
 | עֹרֵב | Rabe | Erster ausgesandter Vogel; kehrt ohne Ergebnis zurück. |
 | יוֹנָה | Taube | Prüfvogel; drei Aussendungen mit fortschreitenden Ergebnissen. |
-| מָנוֹחַ | Ruheplatz | Wurzel n-w-ch — wie Noah (Noah). Die Taube sucht „Noah." |
+| מָנוֹחַ | Ruheplatz | Wurzel n-w-ch — wie Noah. Die Taube sucht „Noah." |
 | חַלּוֹן | Fenster | Unterschieden von *Tsohar* (6:16, ungewiss). |
 | אֲרָרָט | Ararat | Gebirge (Plural), kein einzelner Gipfel. Antikes Urartu. |
 | מִזְבֵּחַ | Altar | Erstes Auftreten (8:20). Von der Wurzel z-b-ch (opfern). |
@@ -345,7 +345,7 @@ Und JHWH roch den beruhigenden Duft, und JHWH sprach in seinem Herzen: @@„Ich 
 - Gn 1:5: Tag/Nacht eingesetzt → Gn 8:22: Tag/Nacht „sollen nicht aufhören"
 
 **N-W-CH-Wurzel-Sättigung in Gn 8:**
-- Noah (Noah) (Name = Ruhe/Trost)
+- Noah (Name = Ruhe/Trost)
 - 8:4: Tebah *tanach* (ruhte) auf Ararat
 - 8:9: Taube kann keinen *manoach* (Ruheplatz) finden
 - 8:21: JHWH riecht *nichoach* (beruhigenden/wohlgefälligen Duft)

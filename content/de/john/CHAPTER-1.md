@@ -794,8 +794,8 @@ In Genesis wird Licht geschaffen und als erster Akt der Ordnung von der Finstern
 | Element | Gen 1,2 | Joh 1,32–33 |
 |---------|---------|--------------|
 | Begriff | רוּחַ אֱלֹהִים (*ruach elohim*) = Wind/Geist Gottes | τὸ πνεῦμα (*to pneuma*) = der Wind/Geist |
-| Handlung | Schwebend über der Fläche der Wasser | Herabsteigend wie eine Taube, bleibend auf Jesus (Jesus) |
-| Kontext | Vor-schöpfliches Chaos | Jesu Identifikation am Jordan (Jordan) |
+| Handlung | Schwebend über der Fläche der Wasser | Herabsteigend wie eine Taube, bleibend auf Jesus |
+| Kontext | Vor-schöpfliches Chaos | Jesu Identifikation am Jordan |
 | Funktion | Vorläufer der Schöpfung durch Rede | Markiert den, der im heiligen Wind/Geist untertauchen wird |
 
 Der Wind/Geist, der über den Urwassern schwebte, steigt nun bei den Wassern der Untertauchung herab. Beide Szenen gehen einem neuen Anfang voraus.
@@ -804,7 +804,7 @@ Der Wind/Geist, der über den Urwassern schwebte, steigt nun bei den Wassern der
 
 | Element | Gen 28,12 | Joh 1,51 |
 |---------|-----------|----------|
-| Vision | Yaaqovs Traum in Bethel (Bethel) | Jesu Verheißung an Nathanael |
+| Vision | Yaaqovs Traum in Bethel | Jesu Verheißung an Nathanael |
 | Struktur | Leiter (*sullam*), auf der Erde aufgestellt, die Spitze zum Himmel reichend | Der geöffnete Himmel |
 | Boten | Boten Gottes, aufsteigend und herabsteigend darauf | Boten Gottes, aufsteigend und herabsteigend über dem Menschensohn |
 | Ort | Bethel („Haus Gottes") | Nicht angegeben |

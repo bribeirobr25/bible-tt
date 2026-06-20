@@ -1,6 +1,6 @@
 # Plan — Tier 4 Strand 3: redundant `Name (Name)` content pass (v3.3.1)
 
-**Date:** 2026-06-20 · **Status:** DRAFT → executing. **Branch:** `tier4-name-dedup` off `main`. **Source:** `PENDING.md` §5 + RULES-HB v3.3.1 ("never produce redundant `Name (Name)`"). **Risk class:** LOW-MED — a **content** change (visible text in tables/prose), but mechanical + rule-mandated; no code change.
+**Date:** 2026-06-20 · **Status:** ✅ EXECUTED 2026-06-20 — 118 redundant `Name (Name)` removed (114 ASCII + 4 accented-capital `Ägypten`); content-lint §0.11 cleared; gate green, conservation 11831. The 16 lowercase `kyrios (kyrios)` (templated Divine-Name-Policy metadata) flagged for a separate decision (term, not a Name; possibly a mangled `kyrios (κύριος)`). **Branch:** `tier4-name-dedup` off `main`. **Source:** `PENDING.md` §5 + RULES-HB v3.3.1 ("never produce redundant `Name (Name)`"). **Risk class:** LOW-MED — a **content** change (visible text in tables/prose), but mechanical + rule-mandated; no code change.
 
 ## Finding (investigation 2026-06-20)
 114 `X (X)` identical-doubling occurrences across 28 files — **all genuine v3.3.1 redundancies**. The `\(\1\)` pattern only matches *identical* pairs, so the feared "intentional comparison-cell" exception (e.g. `Lamech (Cainite)`) **cannot** be matched — there are no false positives. Breakdown: 32 PEOPLE `## Name (Name)` headings · 48 table cells · 34 prose. By locale: **de 88 · es 12 · en 10 · pt-br 4** (the project already flags these via `content:lint §0.11` DE-parens warn + `§0.8` heading-collision warn).
