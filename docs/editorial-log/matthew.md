@@ -537,3 +537,12 @@ Option B (slash) is adopted instead because: (a) the project's Prime Directive p
 - **AI provenance:** claude-opus-4-8 (1M), 2026-06-10. Gates green (see genesis 2026-06-10-118).
 - **Status:** provisional. **Reviewers:** locale-editors unassigned.
 - **Cross-references:** genesis.md 2026-06-10-118; `PATTERN_C_BESPOKE_RESIDUAL_PLAN.md`.
+
+## Entry M-033 — Restore κύριος (kyrios) in Divine-Name-Policy metadata (all locales)
+
+- **Verse:** Matthew 1–3 **chapter front-matter** (Divine-Name-Policy metadata line; not verse text), EN / DE / ES / PT-BR.
+- **Rule(s) invoked:** Rule 25 (divine name), RULES-GS Source-script(Transliteration) convention; RULES-HB v3.3.1 (no redundant `Name (Name)`); Rule 28.
+- **Decision:** the metadata line stated the GS policy with a degraded form — `kyrios (kyrios)` (Greek lexeme κύριος overwritten by its own translit) in en/es/pt-br matthew 1-3 + de matthew 1, and a bare `kyrios` (no script, no parenthetical) in de matthew 2-3. **Restore the canonical `κύριος (kyrios)`** (Greek script + translit, plain — no italic asterisks; the metadata-line form, distinct from the glossary's italic `κύριος (*kyrios*)`). **Not** collapsed to `kyrios` (would destroy the Greek script). Verse-text rendering of κύριος (Option C) unchanged — this is a metadata-statement consistency fix only. Metadata is not rendered → zero visual change.
+- **AI provenance:** claude-opus-4-8 (1M), 2026-06-20. Gates green (882 tests; conservation 11,831 unchanged; lint/content:lint/build).
+- **Status:** provisional. **Reviewers:** locale-editors unassigned.
+- **Cross-references:** `PLAN_KYRIOS_DIVINE_NAME_FIX.md`; `AUDIT_KYRIOS_DIVINE_NAME_FIX_PLAN.md`; `EXECUTION_HISTORY.md` (kyrios Divine-Name-Policy metadata fix, 2026-06-20); john.md J-035; mark.md 2026-06-20-004.

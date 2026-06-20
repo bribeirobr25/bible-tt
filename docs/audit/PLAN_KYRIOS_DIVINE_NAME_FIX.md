@@ -1,6 +1,13 @@
 # Execution Plan — Restore `κύριος (kyrios)` in GS Divine-Name-Policy metadata
 
-**Status:** PLANNED — **AUDITED ✅ APPROVE** (`AUDIT_KYRIOS_DIVINE_NAME_FIX_PLAN.md`, 2026-06-20; 3 precision findings verified against source + folded in) · awaiting execute-sign-off · **Branch:** `tier4-name-dedup` · **Date:** 2026-06-20
+**Status:** ✅ **EXECUTED 2026-06-20** (commits `df0004f` audited-16 + `d73748f` de/matthew 2-3 extension) — AUDITED ✅ APPROVE (`AUDIT_KYRIOS_DIVINE_NAME_FIX_PLAN.md`; 3 findings folded in) · **Branch:** `tier4-name-dedup` · **Date:** 2026-06-20
+
+> **Execution outcome (read before trusting §4's counts):**
+> - **16 audited files fixed** `kyrios (kyrios)` → `κύριος (kyrios)` (commit `df0004f`); all gates green.
+> - **Plan count correction:** §4's "all 28 GS chapters" was arithmetic error. Reality: **27** GS CHAPTER files carry the divine-name line; pre-fix canonical was **9** (en/john, de/john, pt-br/john — NOT 12; es/john was mangled), so 9 + 16 = 25 after the audited fix.
+> - **Discovered defect (not in the audited plan):** the post-step audit found **`de/matthew/CHAPTER-2` + `CHAPTER-3` used a third form — bare `kyrios`** (no Greek, no parenthetical), which the `kyrios (kyrios)` scan never matched. Fixed to canonical `κύριος (kyrios)` in a separate transparent commit `d73748f` (matches de/john template; same not-rendered metadata line). **Result: all 27 GS divine-name lines now uniform.**
+> - **Methodology-stamp drift (L9, audit Finding 2)** remains out of scope — logged in PENDING for a separate sweep.
+> - An execution caveat worth recording: the first attempt used `perl -CSD` whose `-e` literal `κύριος` was treated as raw bytes → double-encoded **mojibake**; **G4/G9 caught it**, the change was reverted, and a Python replace (clean UTF-8) was used instead. The gate did its job.
 
 > **Audit disposition (all 3 findings verified true & accepted):**
 > 1. **Asterisk context-split** — metadata target is plain `κύριος (kyrios)` (no italic `*`); the `(*kyrios*)` form is glossary-only. Verified (canonical L11 plain; glossary L761 italic; zero metadata lines carry `*`). → §2.1 warning + G4 assertion added.

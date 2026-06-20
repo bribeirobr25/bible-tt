@@ -81,3 +81,14 @@ Decision log for the TT rendering of Mark, per RULES-CORE §Editorial Log Specif
 **CONTEXT.md:** 6 cross-chapter motifs (euthys/speed; authority/exousia; rising conflict → 3:6 death-plot; messianic secret; divine sonship; calling/the Twelve).
 
 **Status:** provisional. EN only; PT-BR/DE/ES propagation pending.
+
+---
+
+## Entry 2026-06-20-004 — Restore κύριος (kyrios) in Divine-Name-Policy metadata (en/mark)
+
+- **Verse:** Mark 1–3 **chapter front-matter** (Divine-Name-Policy metadata line; not verse text), EN.
+- **Rule(s) invoked:** Rule 25 (divine name), RULES-GS Source-script(Transliteration); RULES-HB v3.3.1; Rule 28.
+- **Decision:** en/mark 1-3 carried the degraded `kyrios (kyrios)` in the policy metadata line; **restored to canonical `κύριος (kyrios)`** (plain, no asterisks). Verse-text rendering unchanged; metadata not rendered. Part of the cross-book divine-name metadata fix — see matthew.md M-033 for the full rationale.
+- **AI provenance:** claude-opus-4-8 (1M), 2026-06-20. Gates green (882 tests; conservation 11,831; lint/content:lint/build).
+- **Status:** provisional. EN only.
+- **Cross-references:** `PLAN_KYRIOS_DIVINE_NAME_FIX.md`; matthew.md M-033; john.md J-035; `EXECUTION_HISTORY.md` (2026-06-20).
