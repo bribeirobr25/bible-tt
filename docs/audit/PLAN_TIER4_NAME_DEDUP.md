@@ -28,3 +28,23 @@ Mechanical per-file replace `([A-Z][\w'’.-]+) \(\1\)` → `\1` (collapse the d
 
 ## Open question
 None blocking — this is rule-mandated redundancy removal, sanctioned by the project's own §0.11 warn. (If you'd rather restrict to EN now and leave de/es/pt to locale editors, say so; default = all locales, since it's compliance cleanup, not translation.)
+
+---
+
+## Addendum — `kyrios (kyrios)` metadata fix (analysis-grounded, 2026-06-20)
+
+**Investigation (not a guess).** The `kyrios (kyrios)` doublings are in the **Divine-Name-Policy chapter-metadata line** (GS books). The corpus has two forms of this line:
+- **Canonical (12 chapters):** `… Option C — κύριος (kyrios) rendered as "the Lord" …` — Greek script + transliteration, i.e. the RULES-GS "**Source-script (Transliteration)**" convention. Present in en/john 1-3, de/john 1-3, pt-br/john 1-3.
+- **Mangled (16 chapters):** `… Option C — kyrios (kyrios) …` — the Greek `κύριος` was replaced by the transliteration, producing the redundant doubling. In: en mark 1-3 + matthew 1-3; de matthew 1; es john 1-3 + matthew 1-3; pt-br matthew 1-3.
+
+**Therefore the correct fix is NOT "collapse to `kyrios`"** (that would lose the Greek script and *diverge from* the 12 canonical chapters). It is to **restore `κύριος (kyrios)`** — making all GS Divine-Name-Policy lines consistent with the established convention.
+
+**Fix:** per-file replace the exact substring `kyrios (kyrios)` → `κύριος (kyrios)` (only the leading bare `kyrios`; the parenthetical translit + the locale prefix + the rest of the sentence are untouched). 16 occurrences, 1 per file.
+
+**Safety / compliance:**
+- **Not rendered:** `divineNamePolicy` metadata has no UI consumer (verified) → zero visual change; this is a data-consistency correction.
+- **Conservation:** chapter *metadata* isn't a tracked conservation unit (verse/note/paragraph/glossary/… are) → 11,831 unchanged.
+- **Rules:** restores the RULES-GS Source-script (Transliteration) form; κύριος (UTF-8 Greek) already exists in 12 chapters, so encoding is proven.
+- **Scope honesty:** this is a *term + restore-script* metadata fix, distinct from the `Name (Name)` removals above — logged separately.
+
+**Guards:** `pnpm test · lint · build · content:lint` green · conservation 11,831 · grep shows **0 `kyrios (kyrios)`** and **28 GS chapters all `κύριος (kyrios)`** · diff-integrity: only the Divine-Name-Policy line changed, only `kyrios`→`κύριος`.
