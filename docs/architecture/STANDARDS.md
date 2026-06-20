@@ -474,7 +474,7 @@ Use TypeScript's type system to prevent errors at compile time, not just at runt
 Test the parser (the single point of fragility); trust the framework for the rest.
 
 ### Current test coverage
-~852 tests across 9 Vitest files (run `pnpm test` for the live count and per-file breakdown).
+~882 tests across 13 Vitest files (run `pnpm test` for the live count and per-file breakdown).
 
 | Area | Runner | What's tested |
 |---|---|---|

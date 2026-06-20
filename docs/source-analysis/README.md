@@ -10,7 +10,7 @@ This directory holds the project's **source-language analysis**: the reusable me
 |---|---|
 | `METHOD.md` | The TT Source-Analysis Method — the source-language-agnostic process + per-language adaptation table. |
 | `hebrew/` | Structured per-verse notes for the Hebrew Bible (currently Genesis 1:1–1:13 + word studies). |
-| `greek/` | Stub — filled when Greek books are actively authored (needs a Hellenist per Rule 28). |
+| `greek/` | Worked examples for the Mark pilot (`mark-1.md`, `mark-2-3.md`; NA28); extended as further Greek books are authored. AI-assisted drafts pending Hellenist review per Rule 28. |
 | `aramaic/` | Stub — filled when the canon's Aramaic passages are reached. Governance home: `RULES-HB.md §Aramaic Appendix` (no separate ruleset). |
 
 ## How it feeds the project

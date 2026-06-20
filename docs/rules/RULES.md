@@ -11,7 +11,7 @@ As of v3.0 (2026-04-25), this file has been split into a layered architecture:
 |------|-------|
 | **[RULES-CORE.md](RULES-CORE.md)** | Universal translation governance (source-language-agnostic) |
 | **[RULES-HB.md](RULES-HB.md)** | Hebrew Bible supplement (Hebrew + Aramaic) |
-| **[RULES-GS.md](RULES-GS.md)** | Greek Scriptures supplement (Koine Greek) — stub |
+| **[RULES-GS.md](RULES-GS.md)** | Greek Scriptures supplement (Koine Greek) |
 
 **All three files together** constitute the complete governance system.
 

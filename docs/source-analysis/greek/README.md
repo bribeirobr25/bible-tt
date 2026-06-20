@@ -1,6 +1,6 @@
-# Greek source-analysis corpus — stub
+# Greek source-analysis corpus
 
-No worked examples yet. This directory is filled when Greek books are actively authored or extended.
+Worked examples: `mark-1.md`, `mark-2-3.md` (the Mark pilot; NA28 base text). Extended as further Greek books are authored.
 
 **Governance home:** `docs/rules/RULES-GS.md` (Greek Scriptures supplement). Method: `../METHOD.md`.
 

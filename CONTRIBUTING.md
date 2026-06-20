@@ -51,7 +51,7 @@ Two recurring footguns:
 
 - **Active work lands on `redesign-migration`.** Do **not** push to `main` without explicit authorization from the project lead — `main` is the cutover gate.
 - Branch from the active branch for any non-trivial unit of work; open a PR back into it.
-- Commit messages: a concise subject line, then a body that says **what changed, why, and how it was verified** (the gate results — e.g. "852 tests pass; lint/build/content-lint clean; conservation intact"). Match the existing log style.
+- Commit messages: a concise subject line, then a body that says **what changed, why, and how it was verified** (the gate results — e.g. "882 tests pass; lint/build/content-lint clean; conservation intact"). Match the existing log style.
 - End every commit with the co-author trailer:
 
   ```

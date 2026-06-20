@@ -6,7 +6,7 @@ A short guide for readers and collaborators.
 
 ## What this is
 
-The Transparent Translation (TT) is a translation of the Hebrew Bible from the Masoretic Text into English, Brazilian Portuguese, and German. It is governed by 29 rules designed to show you what the Hebrew says, what it may mean, and where it remains open.
+The Transparent Translation (TT) is a translation of the Hebrew Bible (from the Masoretic Text) and the Greek Scriptures (from the Greek New Testament) into English, Brazilian Portuguese, German, and Spanish. It is governed by 30 rules designed to show you what the source text says, what it may mean, and where it remains open.
 
 It is not a devotional Bible. It is not a replacement for scholarly editions. It is not a commentary. It is a disciplined attempt at transparency.
 
@@ -38,7 +38,7 @@ Hebrew **רוּחַ** (*ruach*) means wind, spirit, and breath. The TT does not 
 
 ### YHWH
 
-The divine name is rendered consonantally — **YHWH** in English and Portuguese, **JHWH** in German. Not "the LORD." Not "God." The four Hebrew consonants, because that is what the text has. The original pronunciation is lost.
+The divine name is rendered consonantally — **YHWH** in English, Portuguese, and Spanish, **JHWH** in German. Not "the LORD." Not "God." The four Hebrew consonants, because that is what the text has. The original pronunciation is lost.
 
 ### Transliterated terms (raqia, nephilim, tebah)
 
@@ -115,7 +115,7 @@ If you're reading the Transparent Edition and something feels wrong — check th
 
 If you're contributing to the project:
 
-- **Read** `docs/rules/RULES-CORE.md` + `RULES-HB.md` (v3.0) — the 29-rule governance system
+- **Read** `docs/rules/RULES-CORE.md` + `RULES-HB.md` + `RULES-GS.md` (v3.4) — the 30-rule governance system
 - **Read** `docs/design/TT-DESIGN-SYSTEM.md` — UI/UX standards
 - **Read** `docs/architecture/STANDARDS.md` — code and architecture standards
 - **Log decisions** in `docs/editorial-log/genesis.md` before drafting
@@ -127,7 +127,7 @@ If you're contributing to the project:
 
 ## Languages
 
-The TT is available in English, Brazilian Portuguese, and German. Switch languages on any page using the language toggle at the top right. The current book and chapter are preserved.
+The TT is available in English, Brazilian Portuguese, German, and Spanish. Switch languages on any page using the language toggle at the top right. The current book and chapter are preserved.
 
 Each language follows the same rules, the same glossary, and the same ambiguity-preservation policies. Where one language must diverge from others due to grammar (e.g., German requires an article where Hebrew and English don't), the divergence is documented.
 
