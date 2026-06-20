@@ -531,3 +531,12 @@ This log records consistency decisions, justified exceptions, text-critical choi
 - **AI provenance:** claude-opus-4-8 (1M), 2026-06-19. Gates green; verified live (`<strong>…<em>…</em>…</strong>`, 0 stray `**`).
 - **Status:** provisional. **Reviewers:** locale-editors unassigned.
 - **Cross-references:** `EXECUTION_HISTORY.md` (Renderer nested-emphasis hardening); genesis.md 2026-06-19-120.
+
+## Entry J-035 — Restore κύριος (kyrios) in Divine-Name-Policy metadata (es/john)
+
+- **Verse:** John 1–3 **chapter front-matter** (Divine-Name-Policy metadata line; not verse text), **ES only** (en/de/pt-br john already canonical).
+- **Rule(s) invoked:** Rule 25 (divine name), RULES-GS Source-script(Transliteration); RULES-HB v3.3.1; Rule 28.
+- **Decision:** es/john 1-3 carried the degraded `kyrios (kyrios)` in the policy metadata line; **restored to canonical `κύριος (kyrios)`** (plain, no asterisks), matching en/de/pt-br john. es had no prior es-canonical exemplar, so this establishes the form for es (the Greek lexeme κύριος is locale-independent). Verse-text rendering unchanged; metadata not rendered. See M-033 for the full cross-book decision.
+- **AI provenance:** claude-opus-4-8 (1M), 2026-06-20. Gates green (882 tests; conservation 11,831; lint/content:lint/build); G9 byte-exact NFC.
+- **Status:** provisional. **Reviewers:** locale-editors unassigned.
+- **Cross-references:** `PLAN_KYRIOS_DIVINE_NAME_FIX.md`; matthew.md M-033; `EXECUTION_HISTORY.md` (2026-06-20).

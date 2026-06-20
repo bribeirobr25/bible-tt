@@ -389,15 +389,15 @@ Und dem Set, auch ihm wurde ein Sohn geboren, und er nannte seinen Namen Enosh. 
 
 | Hebräisch | Deutsch | Anmerkungen |
 |-----------|---------|-------------|
-| קַיִן | Kain (Kain) | Wortspiel mit *qanah* (erworben); erster Mörder |
-| הֶבֶל | Abel (Abel) | „Dunst, Hauch, Flüchtiges" — dasselbe Wort wie Kohelets *hevel* |
+| קַיִן | Kain | Wortspiel mit *qanah* (erworben); erster Mörder |
+| הֶבֶל | Abel | „Dunst, Hauch, Flüchtiges" — dasselbe Wort wie Kohelets *hevel* |
 | חַטָּאת | Sünde | Erstes Auftreten Gn 4:7; personifiziert („lagert") |
 | עָוֹן | Sünde/Strafe | Mehrdeutig — bedeutet sowohl Schuld ALS AUCH ihre Konsequenz (4:13) |
 | מִנְחָה | Gabe | Geschenk/Tribut; später Fachbegriff für Speiseopfer |
 | אוֹת | Zeichen | Unbestimmtes Mal/Zeichen für Kain (4:15) |
-| שֵׁת | Set (Set) | „Gesetzt/gestellt" — Wortspiel mit *shit* (4:25) |
+| שֵׁת | Set | „Gesetzt/gestellt" — Wortspiel mit *shit* (4:25) |
 | אֱנוֹשׁ | Enosh | „Mensch/Sterblicher" — betont Gebrechlichkeit |
-| לֶמֶךְ | Lamech (Lamech) | Bedeutung UNGEWISS; eskaliert Gewaltanspruch |
+| לֶמֶךְ | Lamech | Bedeutung UNGEWISS; eskaliert Gewaltanspruch |
 
 ---
 
@@ -410,7 +410,7 @@ Und dem Set, auch ihm wurde ein Sohn geboren, und er nannte seinen Namen Enosh. 
 
 **Osten als Exil:**
 - 3:24: Cherubim „östlich vom Garten Eden" aufgestellt
-- 4:16: Kain (Kain) wohnt „im Land Nod, östlich von Eden"
+- 4:16: Kain wohnt „im Land Nod, östlich von Eden"
 - Ostwärts = weg von der göttlichen Gegenwart.
 
 **Fluch-Eskalation:**
@@ -427,13 +427,13 @@ Und dem Set, auch ihm wurde ein Sohn geboren, und er nannte seinen Namen Enosh. 
 
 **Samen/Zera-Faden:**
 - 3:15: „ihr Samen" gegen den Samen der Schlange
-- 4:25: „einen anderen Samen (*zera acher*) anstelle von Abel (Abel)" — Set (Set) als Ersatz
+- 4:25: „einen anderen Samen (*zera acher*) anstelle von Abel" — Set als Ersatz
 - Kontinuität der Frauenlinie.
 
 **Gewalt-Eskalation:**
 - 3:24: Vertreibung (nicht-gewaltamer göttlicher Akt)
 - 4:8: erster Mord (menschliche Gewalt)
-- 4:23-24: Lamech (Lamech) prahlt, für eine Wunde getötet zu haben (eskalierte Gewalt)
+- 4:23-24: Lamech prahlt, für eine Wunde getötet zu haben (eskalierte Gewalt)
 - 4:15 → 4:24: göttliches Siebenfaches → menschliches Siebenundsiebzigfaches
 
 **Erstmaliges in Genesis 4:**

@@ -46,7 +46,7 @@ Este arquivo apresenta informações biográficas e genealógicas sobre figuras 
 
 ---
 
-## Tamar (Tamar)
+## Tamar
 **Ver:** genesis/PEOPLE.md
 **Em Mateus:** Nomeada na genealogia (1:3) como mãe de Perets e Zerach por Judá. Uma das quatro mulheres (mais Maria) incluídas na genealogia — uma característica incomum em genealogias patrilineares judaicas. Sua história (Gn 38) envolve engano e irregularidade sexual; sua inclusão pode sinalizar que os propósitos de Deus operam através de figuras inesperadas e socialmente marginais.
 
@@ -199,7 +199,7 @@ Este arquivo apresenta informações biográficas e genealógicas sobre figuras 
 
 ---
 
-## Herodes (Herodes)
+## Herodes
 **Significado:** "heroico" (nome grego, Ἡρῴδης, *Hērōdēs*)
 **Origem:** NASCIDO (c. 73/72 AEC)
 **Ano de nascimento:** 73 AEC (HISTORICAL / ARCHAEOLOGICAL — VERIFICADO; Josefo, *AJ* 14.158; *BJ* 1.203)

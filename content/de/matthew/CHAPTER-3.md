@@ -8,7 +8,7 @@
 **Ausgabe:** Transparente Ausgabe (GS-Ausgabe unabhängig deklariert nach CORE Regel 24)
 **Sprache:** Deutsch
 **Methodik:** 29-Regeln-Governance-System (Regelwerk v3.3)
-**Gottesname-Politik (Regel 25 / GS-Politik):** Option C — kyrios als „der Herr" wiedergegeben, wenn alttestamentliche JHWH-Stellen zitiert werden; in Stufe 2 vermerkt.
+**Gottesname-Politik (Regel 25 / GS-Politik):** Option C — κύριος (kyrios) als „der Herr" wiedergegeben, wenn alttestamentliche JHWH-Stellen zitiert werden; in Stufe 2 vermerkt.
 **Status:** provisorisch — ausstehende Begutachtung (Regel 28)
 **Begutachter:** Hellenist: nicht zugewiesen | DE-Redakteur: nicht zugewiesen | Sprachübergreifender Abgleich: nicht zugewiesen
 
@@ -340,7 +340,7 @@ Und siehe, eine Stimme aus den Himmeln, die spricht: @@„Dieser ist mein Sohn, 
 | Syntax | „Eine Stimme ruft: ‚In der Wüste bereitet den Weg JHWHs'" | „Stimme eines Rufenden in der Wüste: ‚Bereitet den Weg des Herrn'" |
 | Gottesname | JHWH | *kyrios* (Option C: „der Herr") |
 | „In der Wüste" | Modifiziert „bereitet" (der Weg wird *in der Wüste* bereitet) | Modifiziert „rufend" (der Rufer ist *in der Wüste*) |
-| Anwendung | JHWHs Rückkehr nach Zion nach dem Exil | Johannes (Johannes) bereitet den Weg für Jesus (Jesus) |
+| Anwendung | JHWHs Rückkehr nach Zion nach dem Exil | Johannes bereitet den Weg für Jesus |
 
 Die syntaktische Verschiebung ist bedeutsam: Bei Jesaja ist die Wüste der Ort, wo die Straße gebaut wird; bei Matthäus ist die Wüste der Ort, wo der Prediger predigt. Beide Lesarten sind alt — die LXX spiegelt bereits die zweite Analyse wider.
 
@@ -349,7 +349,7 @@ Die syntaktische Verschiebung ist bedeutsam: Bei Jesaja ist die Wüste der Ort, 
 | Element | 2 Könige 1,8 | Mt 3,4 |
 |---------|-------------|--------|
 | Beschreibung | „Ein Mann mit einem Haarkleid und einem Ledergürtel um seine Hüften" | „Kleidung aus Kamelhaar und ein Ledergürtel um seine Hüften" |
-| Identität | Elia (Elia) der Tischbiter | Johannes der Eintaucher |
+| Identität | Elia der Tischbiter | Johannes der Eintaucher |
 
 Die Kleidungsbeschreibung ist nahezu identisch. Matthäus stellt Johannes als die Eliafigur dar, die in Maleachi 3,23 [4,5] erwartet wird.
 
@@ -361,7 +361,7 @@ Die Kleidungsbeschreibung ist nahezu identisch. Matthäus stellt Johannes als di
 | Beziehung | Königliche Sohnschaft (davidischer König) | Knechtberufung | Zusammengesetzt: Sohn + Geliebter + Wohlgefallen |
 | Sprecher | JHWH (Thronbesteigung) | JHWH (Beauftragung) | Stimme aus den Himmeln |
 
-Die Bat Qol verschmilzt die königliche und die Knechtstradition in eine einzige Erklärung. Der „Geliebte" (**ἀγαπητός**, *agapētos*) könnte auch an Gen 22,2 (LXX) anklingen, wo JHWH Abraham (Abraham) sagt, er solle nehmen „deinen Sohn, den Geliebten" (*ton huion sou ton agapēton*) — Isaak (Isaak). Der Isaak-Bindung-Anklang fügt eine opferhafte Dimension hinzu.
+Die Bat Qol verschmilzt die königliche und die Knechtstradition in eine einzige Erklärung. Der „Geliebte" (**ἀγαπητός**, *agapētos*) könnte auch an Gen 22,2 (LXX) anklingen, wo JHWH Abraham sagt, er solle nehmen „deinen Sohn, den Geliebten" (*ton huion sou ton agapēton*) — Isaak. Der Isaak-Bindung-Anklang fügt eine opferhafte Dimension hinzu.
 
 **Genesis 1,2 -> Mt 3,16 — Wind/Geist über den Wassern:**
 

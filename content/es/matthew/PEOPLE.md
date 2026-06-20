@@ -46,7 +46,7 @@ Este archivo presenta información biográfica y genealógica sobre figuras que 
 
 ---
 
-## Tamar (Tamar)
+## Tamar
 **Ver:** genesis/PEOPLE.md
 **En Mateo:** Nombrada en la genealogía (1:3) como madre de Perets y Zerach por Judá. Una de cuatro mujeres (más María) incluidas en la genealogía — una característica inusual en las genealogías patrilineales judías. Su historia (Gén 38) involucra engaño e irregularidad sexual; su inclusión puede señalar que los propósitos de Dios operan a través de figuras inesperadas y socialmente marginales.
 
@@ -61,7 +61,7 @@ Este archivo presenta información biográfica y genealógica sobre figuras que 
 
 ---
 
-## Rut (Rut)
+## Rut
 **Significado:** incierto (posiblemente "amiga" o "compañera")
 **Origen:** mujer moabita (Rut 1:4)
 **Primera mención en Mateo:** 1:5
@@ -79,9 +79,9 @@ Este archivo presenta información biográfica y genealógica sobre figuras que 
 
 ---
 
-## David (David)
+## David
 **Significado:** "amado" (posiblemente; etimología debatida)
-**Origen:** hijo de Yishai (Jesé) de Belén (Belén), tribu de Judá
+**Origen:** hijo de Yishai (Jesé) de Belén, tribu de Judá
 **Primera mención en Mateo:** 1:1
 **En Mateo:** Nombrado en el encabezado de la genealogía (1:1 — "hijo de David"), en 1:6 como el rey que engendró a Salomón de la esposa de Uriyah, y en 1:17 como el pivote estructural de la genealogía (Abraham a David = 14 generaciones; David a la deportación = 14; deportación al ungido = 14). "Hijo de David" se convierte en un título mesiánico recurrente a lo largo de Mateo (9:27; 12:23; 15:22; 20:30–31; 21:9, 15; 22:42).
 **Referencia cruzada:** La entrada completa aparecerá en samuel/PEOPLE.md o kings/PEOPLE.md cuando esos libros sean traducidos.
@@ -199,7 +199,7 @@ Este archivo presenta información biográfica y genealógica sobre figuras que 
 
 ---
 
-## Herodes (Herodes)
+## Herodes
 **Significado:** "heroico" (nombre griego, Ἡρῴδης, *Hērōdēs*)
 **Origen:** NACIDO (c. 73/72 a.e.c.)
 **Año de nacimiento:** 73 a.e.c. (HISTORICAL / ARCHAEOLOGICAL — VERIFICADO; Josefo, *AJ* 14.158; *BJ* 1.203)

@@ -15,7 +15,7 @@ Diese Datei enthält biografische und genealogische Informationen über Personen
 
 ---
 
-## Adam (Adam)
+## Adam
 
 **Bedeutung:** „Mensch" / „vom Erdboden" (*adam* von *adamah*)
 **Ursprung:** ERSCHAFFEN
@@ -294,7 +294,7 @@ Diese Datei enthält biografische und genealogische Informationen über Personen
 
 ---
 
-## Mahalalel (Mahalalel)
+## Mahalalel
 
 **Bedeutung:** „Lobpreis Gottes" (*mahalal* + *El*)
 **Ursprung:** GEBOREN
@@ -648,7 +648,7 @@ Diese Datei enthält biografische und genealogische Informationen über Personen
 
 ---
 
-## Nimrod (Nimrod)
+## Nimrod
 
 **Bedeutung:** möglicherweise „wir werden rebellieren" (von *marad*, rebellieren — Volksetymologie; UNSICHER)
 **Ursprung:** GEBOREN
@@ -684,7 +684,7 @@ Diese Datei enthält biografische und genealogische Informationen über Personen
 
 ---
 
-## Terach (Terach)
+## Terach
 
 **Bedeutung:** UNSICHER (möglicherweise „Steinbock" oder „Verzögerung" — umstritten)
 **Ursprung:** GEBOREN
@@ -720,7 +720,7 @@ Diese Datei enthält biografische und genealogische Informationen über Personen
 
 ---
 
-## Haran (Haran)
+## Haran
 
 **Bedeutung:** UNSICHER (möglicherweise „Bergbewohner" — umstritten)
 **Ursprung:** GEBOREN
@@ -792,7 +792,7 @@ Diese Datei enthält biografische und genealogische Informationen über Personen
 
 ---
 
-## Sarai (Sarai)
+## Sarai
 
 **Bedeutung:** „meine Prinzessin" (*sarah* / *sarai*; die Namensänderung zu Sarah erfolgt später, Gen 17:15, außerhalb des Umfangs dieser Datei)
 **Ursprung:** ERSCHEINT (keine Geburtserzählung gegeben)
@@ -826,7 +826,7 @@ Diese Datei enthält biografische und genealogische Informationen über Personen
 
 ---
 
-## Lot (Lot)
+## Lot
 
 **Bedeutung:** „Hülle" / „Schleier" (UNSICHER)
 **Ursprung:** GEBOREN

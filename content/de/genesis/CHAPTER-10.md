@@ -526,10 +526,10 @@ Dies *sind* die Sippen der Söhne Noahs, nach ihren Geschlechterfolgen, in ihren
 | Sohn | Noahs Wort (9:25–27) | Völkertafel (Kap. 10) |
 |------|----------------------|------------------------|
 | Shem | „Gesegnet sei JHWH, Gott Shems" | Shems Linie führt zu Ever (Vorfahre der Hebräer) — die genealogisch entscheidende Linie |
-| Ham (Ham) | Kanaan (Kanaan) verflucht („Knecht der Knechte") | Hams Linie umfasst Nimrod (Reichserbauer), Ägypten (Ägypten), Kanaan — der narrativ am meisten erweiterte Abschnitt |
+| Ham | Kanaan verflucht („Knecht der Knechte") | Hams Linie umfasst Nimrod (Reichserbauer), Ägypten, Kanaan — der narrativ am meisten erweiterte Abschnitt |
 | Yafet (Jafet) | „Gott mache weit den Jafet" | Jafets Linie besiedelt die Küstenländer — geographisch das weiteste („erweiterte") Territorium |
 
-Noahs Orakel bildet sich auf die Völkertafel ab: Jafet wird erweitert (maritime Expansion), Shem trägt die JHWH-Verbindung (Linie zu Abram (Abram)), und Hams Linie umfasst sowohl imperiale Macht (Nimrod) als auch den verfluchten Kanaan.
+Noahs Orakel bildet sich auf die Völkertafel ab: Jafet wird erweitert (maritime Expansion), Shem trägt die JHWH-Verbindung (Linie zu Abram), und Hams Linie umfasst sowohl imperiale Macht (Nimrod) als auch den verfluchten Kanaan.
 
 **Gibbor-Kette:**
 - 6:4: *Gibborim* — „die Mächtigen, die waren von alters her, Männer des Namens." Vorsintflutlich.

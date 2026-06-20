@@ -510,14 +510,14 @@ Der göttliche Auftrag, das Land zu füllen/sich auszubreiten, wird bei Bavel wi
 
 **Genealogievergleich — Gn 5 vs. Gn 11:**
 
-| Merkmal | Gn 5 (Adam → Noah (Noah)) | Gn 11 (Shem → Abram (Abram)) |
+| Merkmal | Gn 5 (Adam → Noah) | Gn 11 (Shem → Abram) |
 |---------|----------------------|----------------------|
 | Formel | „X lebte Y Jahre, zeugte Z, lebte noch W Jahre, zeugte Söhne und Töchter, alle seine Tage waren N, und er starb" | „X lebte Y Jahre, zeugte Z, lebte noch W Jahre, zeugte Söhne und Töchter" |
-| „Und er starb" | In jedem Eintrag vorhanden (außer Henoch (Henoch)) | Fehlt bis Terach (V.32) |
+| „Und er starb" | In jedem Eintrag vorhanden (außer Henoch) | Fehlt bis Terach (V.32) |
 | Gesamtlebensspanne angegeben | Ja | Nein (berechenbar aber nicht angegeben) |
 | Lebensspannen | 365–969 Jahre | 148–600 Jahre (sinkend) |
 | Generationen | 10 (Adam → Noah) | 10 (Shem → Abram) |
-| Endet mit | Drei Söhnen (Shem, Ham (Ham), Yafet (Jafet)) | Drei Söhnen (Abram, Nahor (Nahor), Haran) |
+| Endet mit | Drei Söhnen (Shem, Ham, Yafet (Jafet)) | Drei Söhnen (Abram, Nahor, Haran) |
 | Narrativer Bruch | Henoch („Gott nahm ihn") | Keiner — aber die Unfruchtbarkeit Sarais ist die neue Krise |
 
 Beide Genealogien überspannen zehn Generationen und enden mit einem Vater dreier namentlich genannter Söhne. Die Krise von Gn 5 ist Tod (gelöst durch Bewahrung in der Flut); die Krise von Gn 11 ist Unfruchtbarkeit (zu lösen durch göttliche Verheißung in Gn 12+).

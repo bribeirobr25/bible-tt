@@ -8,7 +8,7 @@
 **Ausgabe:** Transparente Ausgabe (GS-Ausgabe unabhängig deklariert nach CORE Regel 24)
 **Sprache:** Deutsch
 **Methodik:** 29-Regeln-Governance-System (Regelwerk v3.3)
-**Gottesname-Politik (Regel 25 / GS-Politik):** Option C — kyrios als „der Herr" wiedergegeben, wenn alttestamentliche JHWH-Stellen zitiert werden; in Stufe 2 vermerkt.
+**Gottesname-Politik (Regel 25 / GS-Politik):** Option C — κύριος (kyrios) als „der Herr" wiedergegeben, wenn alttestamentliche JHWH-Stellen zitiert werden; in Stufe 2 vermerkt.
 **Status:** provisorisch — ausstehende Begutachtung (Regel 28)
 **Begutachter:** Hellenist: nicht zugewiesen | DE-Redakteur: nicht zugewiesen | Sprachübergreifender Abgleich: nicht zugewiesen
 
@@ -389,7 +389,7 @@ Und er kam und ließ sich nieder in einer Stadt genannt Natseret (Nazareth), dam
 | ἄγγελος κυρίου (*angelos kyriou*) | Bote des Herrn | Gibt das hebräische *malakh JHWH* wieder. Option C: *kyrios* = „der Herr." |
 | χρηματίζω (*chrēmatizō*) | warnen / göttlich unterweisen | Passiv = göttliches Orakel empfangen. |
 | παιδίον (*paidion*) | Kind | Diminutiv. Nicht „Baby" (*brephos*). |
-| Ναζωραῖος (*Nazōraios*) | Natsri | Bezeichnung abgeleitet von Nazareth (Nazareth). Keine eindeutige einzelne AT-Quelle. |
+| Ναζωραῖος (*Nazōraios*) | Natsri | Bezeichnung abgeleitet von Nazareth. Keine eindeutige einzelne AT-Quelle. |
 | πληρόω (*plēroō*) | erfüllen | Verwendet in Erfüllungsformeln (Vv.15, 17, 23). |
 | ἀνατολή (*anatolē*) | Aufgang / Osten | Singular = Aufgang (eines Sterns); Plural = der Osten. |
 | λίβανος (*libanos*) | Weihrauch | Priesterlicher/liturgischer Weihrauch. |
@@ -399,7 +399,7 @@ Und er kam und ließ sich nieder in einer Stadt genannt Natseret (Nazareth), dam
 
 ## KAPITELÜBERGREIFENDE VERFOLGUNG (HB -> Matthäus)
 
-**Micha 5,1 [5,2] -> Mt 2,6 — Bethlehem (Bethlehem):**
+**Micha 5,1 [5,2] -> Mt 2,6 — Bethlehem:**
 
 | Element | Micha 5,1 | Mt 2,6 |
 |---------|-----------|--------|
@@ -409,12 +409,12 @@ Und er kam und ließ sich nieder in einer Stadt genannt Natseret (Nazareth), dam
 
 Matthäus' Zitat ist ein Kompositum: Micha 5,1, modifiziert und verbunden mit 2 Samuel 5,2. Die Umkehrung von „zu klein" in „keineswegs die geringste" könnte eine andere Texttradition oder eine bewusste interpretive Anpassung widerspiegeln.
 
-**Hosea 11,1 -> Mt 2,15 — „Aus Ägypten (Ägypten) rief ich meinen Sohn":**
+**Hosea 11,1 -> Mt 2,15 — „Aus Ägypten rief ich meinen Sohn":**
 
 | Element | Hosea 11,1 | Mt 2,15 |
 |---------|------------|---------|
 | Sprecher | JHWH | „der Herr" (kyrios, Option C) |
-| „Mein Sohn" | Israel als JHWHs Sohn (die Nation) | Jesus (Jesus) als JHWHs Sohn (typologische Lesung) |
+| „Mein Sohn" | Israel als JHWHs Sohn (die Nation) | Jesus als JHWHs Sohn (typologische Lesung) |
 | Kontext | Rückblickend: Erinnerung an den Exodus | Vorausblickend: die Rückkehr aus Ägypten |
 | Hermeneutik | Historische Aussage über ein vergangenes Ereignis | Typologische Erfüllung in einem neuen Ereignis |
 
@@ -430,7 +430,7 @@ Matthäus' Zitat ist ein Kompositum: Micha 5,1, modifiziert und verbunden mit 2 
 
 | Element | Exodus 4,19 | Mt 2,20 |
 |---------|-------------|---------|
-| Sprecher | JHWH zu Mose (Mose) | Bote des Herrn zu Josef (Josef) |
+| Sprecher | JHWH zu Mose | Bote des Herrn zu Josef |
 | Richtung | Rückkehr nach Ägypten | Rückkehr aus Ägypten nach Yisra'el |
 | Bedrohung beseitigt | „Die dir nach dem Leben trachteten" | „Die dem Kind nach dem Leben trachteten" |
 

@@ -432,7 +432,7 @@ Und er vertrieb den Menschen; und er ließ östlich vom Garten Eden wohnen die C
 | תְּשׁוּקָה | Verlangen / Hinwendung | **UNGEWISS**. 3× HB. Regel 2: Schrägstrich bewahrt Ambiguität. |
 | מָשַׁל | herrschen | 3:16—funktionale Herrschaft, kein Eigentum. Parallel zu *radah* (1:26, 1:28). |
 | עִצָּבוֹן / עֶצֶב | Mühsal / Schmerz / Kummer | Dieselbe Wurzel für die Frau (3:16) und den Menschen (3:17). Widerhall bewahren. |
-| חַוָּה | Eva (Eva) | Eigenname, 3:20. Traditionelles *Eva* in der Leserausgabe zulässig. Wortspiel mit *chay* (lebendig). |
+| חַוָּה | Eva | Eigenname, 3:20. Traditionelles *Eva* in der Leserausgabe zulässig. Wortspiel mit *chay* (lebendig). |
 | כְּרוּב | Cherub | Zusammengesetzte Schutzfigur; transliteriert als Plural *Cherubim*. |
 | לַהַט | Flamme | 3:24—Konstrukt „Flamme des Schwertes." |
 
@@ -470,7 +470,7 @@ Und er vertrieb den Menschen; und er ließ östlich vom Garten Eden wohnen die C
 - Erste Frage Gottes an den Menschen (V.9)
 - Erster Fluch (*arur*, V.14)
 - Erste Feindschaftsvorhersage (V.15)
-- Erste Benennung der Frau als Individuum (V.20—Eva (Eva))
+- Erste Benennung der Frau als Individuum (V.20—Eva)
 - Erste Gewänder (V.21)
 - Erste Vertreibung (V.23–24)
 

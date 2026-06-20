@@ -339,7 +339,7 @@ Und Noah tat nach allem, was Gott ihm geboten hatte; so tat er.
 
 | Hebräisch | Deutsch | Anmerkungen |
 |-----------|---------|-------------|
-| בְּנֵי הָאֱלֹהִים | Söhne Gottes/der Götter | Mehrdeutig — göttliche Wesen, Herrscher oder Set (Set)-Linie. Schrägstrich gemäß Regel 2. |
+| בְּנֵי הָאֱלֹהִים | Söhne Gottes/der Götter | Mehrdeutig — göttliche Wesen, Herrscher oder Set-Linie. Schrägstrich gemäß Regel 2. |
 | נְפִילִים | Nephilim | Transliteriert. NICHT „Riesen." Nur hier + Num 13:33. Bedeutung UNGEWISS. |
 | תֵּבָה | Tebah (Arche/Gefäß) | Kastenartiges Gefäß, kein Schiff. Nur hier + Ex 2:3,5 (Körbchen des Mose). |
 | גֹפֶר | Gofer | Unbekannte Holzart. Nur hier. |
@@ -347,7 +347,7 @@ Und Noah tat nach allem, was Gott ihm geboten hatte; so tat er.
 | מַבּוּל | Flut (*mabbul*) | Einzigartiger Begriff für diesen spezifischen Kataklysmus. Nur Gn 6–11 + Ps 29:10. |
 | בְּרִית | Bund | Erstes Auftreten 6:18. Formale göttliche Verpflichtung. |
 | חָמָס | Gewalt | Aktives Unrecht; die benannte Sünde der Generation vor der Flut. |
-| צַדִּיק | gerecht | Erste Verwendung für einen Menschen (Noah (Noah), 6:9). |
+| צַדִּיק | gerecht | Erste Verwendung für einen Menschen (Noah, 6:9). |
 | תָּמִים | untadelig/ganz | Erste Verwendung für einen Menschen (Noah, 6:9). |
 | יֵצֶר | Neigung | Erstes Auftreten 6:5. Später: rabbinisch *yetzer ha-ra*. |
 | צֹהַר | Tsohar | UNGEWISS: Dach, Fenster oder Lichtquelle. Nur hier. |
@@ -362,12 +362,12 @@ Und Noah tat nach allem, was Gott ihm geboten hatte; so tat er.
 - 6:9: „Geschlechterfolgen Noahs"
 
 **„Wandeln mit Gott":**
-- 5:22,24: Henoch (Henoch) „wandelte mit Gott" — und wurde genommen
-- 6:9: Noah (Noah) „wandelte mit Gott" — und wurde gerettet
+- 5:22,24: Henoch „wandelte mit Gott" — und wurde genommen
+- 6:9: Noah „wandelte mit Gott" — und wurde gerettet
 - Nur zwei Menschen erhalten diese Wendung in Genesis.
 
 **Nacham-Wurzel (trösten/bereuen):**
-- 5:29: Lamech (Lamech) benennt *seinen* Sohn Noah in der Hoffnung auf *nacham* (Trost)
+- 5:29: Lamech benennt *seinen* Sohn Noah in der Hoffnung auf *nacham* (Trost)
 - 6:6: JHWH *nacham* (bereute), Menschen gemacht zu haben
 - 6:7: „denn ich bereue (*nachamti*), dass ich sie gemacht habe"
 - Dieselbe Wurzel, entgegengesetzte emotionale Richtung: menschliche Hoffnung auf Trost → göttliches Bereuen.

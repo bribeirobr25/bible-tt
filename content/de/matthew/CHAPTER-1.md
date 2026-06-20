@@ -8,7 +8,7 @@
 **Ausgabe:** Transparente Ausgabe (GS-Ausgabe eigenständig deklariert nach CORE-Regel 24)
 **Sprache:** Deutsch
 **Methodik:** 29-Regeln-Governance-System (Regelwerk v3.3)
-**Gottesname-Politik (Regel 25 / GS-Politik):** Option C — kyrios (kyrios) als „der Herr" wiedergegeben bei Zitaten alttestamentlicher JHWH-Stellen; vermerkt in Stufe 2.
+**Gottesname-Politik (Regel 25 / GS-Politik):** Option C — κύριος (kyrios) als „der Herr" wiedergegeben bei Zitaten alttestamentlicher JHWH-Stellen; vermerkt in Stufe 2.
 **Status:** provisorisch — ausstehende Begutachtung (Regel 28)
 **Begutachter:** Hellenist: nicht zugewiesen | DE-Redakteur: nicht zugewiesen | Sprachübergreifender Abgleich: nicht zugewiesen
 
@@ -447,7 +447,7 @@ und er erkannte sie nicht, bis sie einen Sohn gebar; und er nannte seinen Namen 
 | πνεῦμα ἅγιον (*pneuma hagion*) | heiliger Wind/Geist | Anarthrisch im Griechischen. Entspricht HB *ruach*. Schrägstrich nach Regel 2. |
 | παρθένος (*parthenos*) | Jungfrau/junge Frau | Griechisch impliziert Jungfräulichkeit; hebräische Vorlage (*almah*) = junge Frau. Schrägstrich nach Regel 2. |
 | ἄγγελος κυρίου (*angelos kyriou*) | Bote des Herrn | Gibt HB *malakh JHWH* wieder. Option C: *kyrios* = „der Herr." |
-| δίκαιος (*dikaios*) | gerecht | Auf Josef (Josef) angewandt (V.19). |
+| δίκαιος (*dikaios*) | gerecht | Auf Josef angewandt (V.19). |
 | ἀπολύω (*apolyō*) | freilassen / entlassen | Umfasst formelle Scheidung und informelle Entlassung. |
 | Ἐμμανουήλ (*Emmanouēl*) | Immanu'el | Hebräisch: „Gott mit uns" (*immanu* + *El*). |
 | γινώσκω (*ginōskō*) | erkennen | Trägt semitischen sexuellen Sinn in V.25 (vgl. Gen 4,1). |
@@ -463,9 +463,9 @@ und er erkannte sie nicht, bis sie einen Sohn gebar; und er nannte seinen Namen 
 | Element | Gen 2,4 / 5,1 (LXX) | Mt 1,1 |
 |---------|----------------------|--------|
 | Formel | αὕτη ἡ βίβλος γενέσεως — „dies ist das Buch der Genesis von..." | Βίβλος γενέσεως — „Buch der Genesis von..." |
-| Gegenstand | Die Himmel und das Land (2,4) / Adam (5,1) | Jesus (Jesus), der Gesalbte |
+| Gegenstand | Die Himmel und das Land (2,4) / Adam (5,1) | Jesus, der Gesalbte |
 | Funktion | Leitet einen *Toledot*-Abschnitt ein | Leitet die Genealogie und den Geburtsbericht ein |
-| Umfang | Schöpfung und menschliche Abstammung | Messianische Abstammung von Abraham (Abraham) |
+| Umfang | Schöpfung und menschliche Abstammung | Messianische Abstammung von Abraham |
 
 Matthäus' Eröffnungswendung ist eine direkte literarische Anspielung. Genesis verwendet *biblos geneseōs* zur Einleitung der „Geschlechterfolgen" der Schöpfung und der Menschheit. Matthäus verwendet dieselbe Wendung zur Einleitung des Ursprungs des Gesalbten — Jesu Geschichte in den Rahmen der Genesis stellend.
 
@@ -473,13 +473,13 @@ Matthäus' Eröffnungswendung ist eine direkte literarische Anspielung. Genesis 
 
 | Element | Gen 38 | Mt 1,3 |
 |---------|--------|--------|
-| Rolle | Gerechtigkeit von Juda (Juda) verweigert; erlangt sie durch Täuschung | In der Genealogie genannt: „von Tamar" |
+| Rolle | Gerechtigkeit von Juda verweigert; erlangt sie durch Täuschung | In der Genealogie genannt: „von Tamar" |
 | Status | Außenseiterin, die in die Juda-Linie eintritt | Aufgenommen in die messianische Linie |
 | Bedeutung | Als „gerechter als ich" erklärt (Gen 38,26) | Eine von vier Frauen, die das rein männliche genealogische Muster durchbrechen |
 
-**Gen 37-50 -> Mt 1,20 — Josef (Josef) der Träumer:**
+**Gen 37-50 -> Mt 1,20 — Josef der Träumer:**
 
-| Element | Gen 37-50 (Patriarch Josef) | Mt 1,20 (Josef, Ehemann der Maria (Maria)) |
+| Element | Gen 37-50 (Patriarch Josef) | Mt 1,20 (Josef, Ehemann der Maria) |
 |---------|----------------------------|--------------------------------------|
 | Träume | Empfängt Träume (37,5-9); deutet Träume anderer (40-41) | Empfängt göttliche Mitteilung in Träumen (1,20; 2,13; 2,19; 2,22) |
 | Ägypten | Nach Ägypten gebracht; steigt dort auf | Nimmt seine Familie nach Ägypten (2,14); kehrt aus Ägypten zurück (2,15) |

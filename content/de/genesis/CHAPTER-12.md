@@ -371,10 +371,10 @@ Und Pharao gebot Männern seinetwegen, und sie schickten ihn weg, und seine Frau
 | קָלַל | verfluchen (leicht) | Geringschätzen, verachten. Verschieden von *arar*. |
 | אָרַר | verfluchen (schwer) | Formeller, schwerer Fluch. Selbe Wurzel wie 3:14, 3:17, 4:11, 9:25. |
 | נִבְרְכוּ | gesegnet werden / sich segnen | Niphal — echt mehrdeutig: passiv oder reflexiv. |
-| אֵלוֹן | Eiche / großer Baum | *Elon Moreh* — heiliger Baum bei Sichem (Sichem). |
+| אֵלוֹן | Eiche / großer Baum | *Elon Moreh* — heiliger Baum bei Sichem. |
 | מוֹרֶה | Moreh | Lehre? Orakel? Unsichere Bedeutung. |
 | מִזְבֵּחַ | Altar | Aus der Wurzel ז-ב-ח (opfern). Erstmals erschienen 8:20. |
-| נֶגֶב | Negev | Süden/Trockenland. Südliches Kanaan (Kanaan). |
+| נֶגֶב | Negev | Süden/Trockenland. Südliches Kanaan. |
 | גוּר | als Fremdling weilen | Als zeitweiliger Bewohner leben (*Ger*). |
 | נֶגַע | Plage/Heimsuchung | Wurzel נ-ג-ע. Selbe Wurzel wie die Exodusplagen. |
 | שָׂרֵי | Beamte/Fürsten | Plural von *sar*. Pharaos Hofbeamte. |
@@ -387,8 +387,8 @@ Und Pharao gebot Männern seinetwegen, und sie schickten ihn weg, und seine Frau
 
 | Element | Gn 11:31 | Gn 12:5 |
 |---------|----------|----------|
-| Aufbruch | Terach nimmt Abram (Abram), Lot, Sarai aus Ur | Abram nimmt Sarai, Lot aus Charan |
-| Ziel angegeben | „um in das Land Kanaan (Kanaan) zu gehen" | „um in das Land Kanaan zu gehen" |
+| Aufbruch | Terach nimmt Abram, Lot, Sarai aus Ur | Abram nimmt Sarai, Lot aus Charan |
+| Ziel angegeben | „um in das Land Kanaan zu gehen" | „um in das Land Kanaan zu gehen" |
 | Ankunft | „sie kamen bis Charan und ließen sich dort nieder" | „sie kamen in das Land Kanaan" |
 | Vollendung | Vor dem Ziel stehen geblieben | Reise vollendet |
 
@@ -401,7 +401,7 @@ Terach beabsichtigte Kanaan, ließ sich aber in Charan nieder. Abram vollendet d
 | 3:14 | Schlange verflucht (*arur*) | — |
 | 3:17 | Boden (*adamah*) verflucht | — |
 | 4:11 | Kain verflucht vom Boden | — |
-| 5:29 | — | Noah (Noah): „tröstet uns vom Boden, den JHWH verflucht hat" |
+| 5:29 | — | Noah: „tröstet uns vom Boden, den JHWH verflucht hat" |
 | 9:25 | Kanaan verflucht | — |
 | 9:26 | — | „Gesegnet sei JHWH, Gott Shems" |
 | 12:2–3 | „Wer dich verachtet, den werde ich verfluchen (*a'or*)" | „Ich werde dich segnen... sei ein Segen... alle Sippen der *Adamah* gesegnet" |
@@ -413,8 +413,8 @@ Gn 12:2–3 führt *Berakhah* als Gegenkraft zur *Arar*-Kette ein, die Gn 3–11
 | Referenz | Erbauer | Ort | Kontext |
 |----------|---------|-----|---------|
 | 8:20 | Noah | Nachsintflutlich | Erster Altar; Brandopfer; JHWH riecht den wohlgefälligen Duft |
-| 12:7 | Abram | Sichem (Sichem) | Antwort auf JHWHs Erscheinung und Landverheißung |
-| 12:8 | Abram | Zwischen Bethel (Bethel) und Ai | Ruft den Namen JHWHs an |
+| 12:7 | Abram | Sichem | Antwort auf JHWHs Erscheinung und Landverheißung |
+| 12:8 | Abram | Zwischen Bethel und Ai | Ruft den Namen JHWHs an |
 
 Abrams Altarbau echot Noahs. Aber Noah baute einen Altar nach der Flut; Abram baut zwei in einem einzigen Kapitel. Er markiert das Land mit Anbetung — nicht mit Mauern oder Waffen.
 

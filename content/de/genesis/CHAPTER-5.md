@@ -360,7 +360,7 @@ Und Noah war fünfhundert Jahre alt, und Noah zeugte Shem, Cham (Ham) und Yafet 
 |-----------|---------|-------------|
 | סֵפֶר | Buch / Dokument | Einzige Toledot mit diesem Präfix (5:1) |
 | תּוֹלְדוֹת | Geschlechterfolgen | Strukturelle Markierung; zweites Auftreten (vgl. 2:4) |
-| הִתְהַלֵּךְ | wandelte (mit Gott) | Hitpael von ה-ל-כ; intime fortlaufende Beziehung; nur Henoch (Henoch) (5:22,24) und Noah (Noah) (6:9) |
+| הִתְהַלֵּךְ | wandelte (mit Gott) | Hitpael von ה-ל-כ; intime fortlaufende Beziehung; nur Henoch (5:22,24) und Noah (6:9) |
 | לָקַח | nahm | Gott „nahm" Henoch (5:24); Verb für verschiedene göttliche Handlungen verwendet |
 | נָחַם | trösten / bereuen | Wortspiel mit Noah; dieselbe Wurzel wie 6:6 (JHWH „bereute") |
 
@@ -369,8 +369,8 @@ Und Noah war fünfhundert Jahre alt, und Noah zeugte Shem, Cham (Ham) und Yafet 
 ## KAPITELÜBERGREIFENDE VERFOLGUNG (Gn 4 → Gn 5)
 
 **Zwei Genealogien, zwei Linien:**
-- Gn 4:17–22: Kainitische Linie (Kain (Kain) → Henoch (Henoch) → ... → Lamech (Lamech) → Yaval/Yuval/Tuval-Kain)
-- Gn 5:1–32: Setitische Linie (Adam → Set (Set) → ... → Lamech → Noah (Noah))
+- Gn 4:17–22: Kainitische Linie (Kain → Henoch → ... → Lamech → Yaval/Yuval/Tuval-Kain)
+- Gn 5:1–32: Setitische Linie (Adam → Set → ... → Lamech → Noah)
 - Gemeinsame Namen über die Linien hinweg: Henoch, Lamech (verschiedene Personen, gleiche Namen)
 
 **Bild/Gleichheit-Kette:**

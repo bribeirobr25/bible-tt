@@ -15,7 +15,7 @@ This file presents biographical and genealogical information about figures appea
 
 ---
 
-## Adam (Adam)
+## Adam
 
 **Meaning:** "human" / "of the ground" (*adam* from *adamah*)
 **Origin:** CREATED
@@ -224,7 +224,7 @@ This file presents biographical and genealogical information about figures appea
 
 ---
 
-## Enosh (Enosh)
+## Enosh
 
 **Meaning:** "man" / "mortal" (*enosh*, a synonym of *adam* but with connotations of frailty)
 **Origin:** BORN
@@ -289,7 +289,7 @@ This file presents biographical and genealogical information about figures appea
 
 ---
 
-## Mahalalel (Mahalalel)
+## Mahalalel
 
 **Meaning:** "praise of God" (*mahalal* + *El*)
 **Origin:** BORN
@@ -496,7 +496,7 @@ This file presents biographical and genealogical information about figures appea
 
 ---
 
-## Shem (Shem)
+## Shem
 
 **Meaning:** "name" (*shem*)
 **Origin:** BORN
@@ -641,7 +641,7 @@ This file presents biographical and genealogical information about figures appea
 
 ---
 
-## Nimrod (Nimrod)
+## Nimrod
 
 **Meaning:** possibly "we shall rebel" (from *marad*, to rebel — folk etymology; UNCERTAIN)
 **Origin:** BORN
@@ -713,7 +713,7 @@ This file presents biographical and genealogical information about figures appea
 
 ---
 
-## Haran (Haran)
+## Haran
 
 **Meaning:** UNCERTAIN (possibly "mountaineer" — debated)
 **Origin:** BORN
@@ -785,7 +785,7 @@ This file presents biographical and genealogical information about figures appea
 
 ---
 
-## Sarai (Sarai)
+## Sarai
 
 **Meaning:** "my princess" (*sarah* / *sarai*; the name change to Sarah occurs later, Gen 17:15, outside this file's scope)
 **Origin:** APPEARS (no birth narrative given)
@@ -818,7 +818,7 @@ This file presents biographical and genealogical information about figures appea
 
 ---
 
-## Lot (Lot)
+## Lot
 
 **Meaning:** "covering" / "veil" (UNCERTAIN)
 **Origin:** BORN

@@ -342,7 +342,7 @@ Und die Wasser überwältigten auf dem Land einhundertfünfzig Tage.
 ## KAPITELÜBERGREIFENDE VERFOLGUNG (Gn 6 → Gn 7)
 
 **Gehorsamsformel-Kette:**
-- 6:22: „Noah (Noah) tat nach allem, was Gott ihm geboten hatte; so tat er"
+- 6:22: „Noah tat nach allem, was Gott ihm geboten hatte; so tat er"
 - 7:5: „Noah tat nach allem, was JHWH ihm geboten hatte"
 - 7:9: „wie Gott Noah geboten hatte"
 - 7:16: „wie Gott ihm geboten hatte"

@@ -7,7 +7,24 @@ in `docs/audit/PENDING.md`.
 > The **Plan artifact** column references per-phase plan docs removed in the 2026-06-12
 > documentation lean-up (completed plans). The **What it did** column is the authoritative record.
 
-**Latest editorial-log anchors:** `genesis.md` Entry `2026-06-12-119` · `john.md` J-033 · `matthew.md` M-032.
+**Latest editorial-log anchors:** `genesis.md` Entry `2026-06-19-120` · `john.md` J-035 · `matthew.md` M-033 · `mark.md` `2026-06-20-004`.
+
+---
+
+## Tier 4 Strand 3 — redundant `Name (Name)` content pass (2026-06-20)
+
+Per `docs/audit/PLAN_TIER4_NAME_DEDUP.md` + RULES-HB v3.3.1. Removed **118** redundant identical doublings `X (X)` → `X` across 29 content files (4 locales; de 92 / es 12 / en 10 / pt-br 4). All genuine redundancies — the `\1` pattern can't match qualified comparisons (`Lamech (Cainite)`), so there were no intentional-exception false positives. 32 PEOPLE `## Name (Name)` headings (render-equivalent — `person-card` already suppressed `familiarName === name`), 48 table cells + 34 prose (visible cleanup), + 4 accented-capital `Ägypten (Ägypten)` an initial ASCII-only pass missed (caught by the rendered-DOM check). **Cleared `content:lint §0.11` (DE redundant-parens).** Gate green (882 tests, lint, build, content:lint; conservation 11,831 unchanged); diff is purely paren removals (104 lines, 0 collateral). **Flagged, not fixed here:** 16 lowercase `kyrios (kyrios)` in the templated Divine-Name-Policy metadata — handled separately (next section).
+
+---
+
+## kyrios Divine-Name-Policy metadata fix (2026-06-20)
+
+Per `docs/audit/PLAN_KYRIOS_DIVINE_NAME_FIX.md` (externally audited APPROVE, `AUDIT_KYRIOS_DIVINE_NAME_FIX_PLAN.md`; 3 precision findings verified against source + folded in). The 16 `kyrios (kyrios)` doublings deferred from Strand 3 were **degraded forms of the canonical RULES-GS Source-script(Translit) `κύριος (kyrios)`** — the Greek lexeme κύριος overwritten by its own transliteration. Decision (analysis-grounded, not the generic dedup): **restore `κύριος (kyrios)` (plain, no asterisks — the metadata-line form), not collapse to `kyrios`** (collapsing would destroy the Greek script and diverge from the already-correct chapters).
+- **Audited 16-file fix** (commit `df0004f`): en mark 1-3 + matthew 1-3; de matthew 1; es john 1-3 + matthew 1-3; pt-br matthew 1-3.
+- **Discovered during the post-step audit + folded in** (commit `d73748f`): `de/matthew` CHAPTER-2 + 3 carried a *third* form — **bare `kyrios`** (no Greek, no parenthetical) — that the `kyrios (kyrios)` scan never matched; restored to `κύριος (kyrios)` (matches de/john template) so de/matthew is internally consistent. **Result: all 27 GS divine-name lines uniform.**
+- **Plan count correction:** the plan's "28 GS chapters / 12 canonical" was arithmetic error — actual is **27 GS chapters with the line**, pre-fix canonical **9** (en/de/pt-br john; es/john was mangled).
+- `divineNamePolicy` is **not rendered** (parser keys on the label, captures the value verbatim) → zero visual change; conservation untracked → **11,831 unchanged**. Gate green (882 tests, lint, content:lint [1 pre-existing warn], build); G9 byte-exact NFC `κύριος`. Execution note: an initial `perl -CSD` attempt double-encoded the literal (mojibake) and was **caught by the gate (G4/G9), reverted, redone in Python**.
+- **Out of scope, logged in PENDING:** the L9 methodology-stamp drift (`v3.4` only in en/mark; `v3.3` in all other GS chapters incl. non-EN) — a separate coordinated re-stamp sweep (audit Finding 2).
 
 ---
 

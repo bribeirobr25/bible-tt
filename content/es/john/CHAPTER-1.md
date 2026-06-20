@@ -8,7 +8,7 @@
 **Edición:** Edición Transparente (edición GS declarada independientemente según Regla CORE 24)
 **Idioma:** Español
 **Metodología:** Sistema de Gobernanza de 29 Reglas (Reglas v3.3)
-**Política del Nombre Divino (Regla 25 / Política GS):** Opción C — kyrios (kyrios) se traduce como "el Señor" al citar pasajes del AT que contienen YHWH; anotado en Nivel 2.
+**Política del Nombre Divino (Regla 25 / Política GS):** Opción C — κύριος (kyrios) se traduce como "el Señor" al citar pasajes del AT que contienen YHWH; anotado en Nivel 2.
 **Status:** provisorio — pendiente de revisión por pares (Regla 28)
 **Revisores:** Helenista: no asignado | Editor ES: no asignado | Alineación cruzada: no asignado
 **Relación con Reina-Valera (Regla CORE):** Opción B — Reconocimiento selectivo. Se notan convergencias/divergencias en materiales suplementarios.
