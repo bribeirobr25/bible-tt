@@ -7,7 +7,7 @@
 **Texto Base:** Nestle-Aland, *Novum Testamentum Graece*, 28.ª edición revisada (Stuttgart: Deutsche Bibelgesellschaft, 2012)
 **Edición:** Edición Transparente (edición GS declarada independientemente según Regla CORE 24)
 **Idioma:** Español
-**Metodología:** Sistema de Gobernanza de 29 Reglas (Reglas v3.3)
+**Metodología:** Sistema de Gobernanza de 30 Reglas (Reglas v3.4)
 **Política del Nombre Divino (Regla 25 / Política GS):** Opción C — κύριος (kyrios) traducido como "el Señor" al citar pasajes del AT con YHWH; anotado en Nivel 2.
 **Status:** provisorio — pendiente de revisión por pares (Regla 28)
 **Revisores:** Helenista: no asignado | Editor ES: no asignado | Alineación cruzada: no asignado

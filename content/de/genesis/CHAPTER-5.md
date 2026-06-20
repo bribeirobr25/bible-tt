@@ -7,7 +7,7 @@
 **Grundtext:** Biblia Hebraica Stuttgartensia, 5. rev. Aufl. (Stuttgart: Deutsche Bibelgesellschaft, 1997)
 **Ausgabe:** Transparente Ausgabe
 **Sprache:** Deutsch
-**Methodik:** 29-Regeln-Governance-System (Regelwerk v3.3)
+**Methodik:** 30-Regeln-Governance-System (Regelwerk v3.4)
 **Gottesname-Politik (Regel 25):** Option A — Konsonantisch (JHWH). In diesem Kapitel überwiegend Elohim; JHWH wird bei V.29 ausgelöst (Lamechs Rede: „den Boden, den JHWH verflucht hat").
 **Luther-Bibel-Verhältnis:** Option B — Selektive Anerkennung. Übersetzung aus dem Hebräischen nach TT-Regeln; Konvergenzen und Divergenzen mit Luther in Begleitmaterialien dokumentiert.
 **Status:** provisorisch — ausstehende Begutachtung (Regel 28)

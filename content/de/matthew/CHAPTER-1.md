@@ -7,7 +7,7 @@
 **Grundtext:** Nestle-Aland, *Novum Testamentum Graece*, 28. revidierte Auflage (Stuttgart: Deutsche Bibelgesellschaft, 2012)
 **Ausgabe:** Transparente Ausgabe (GS-Ausgabe eigenständig deklariert nach CORE-Regel 24)
 **Sprache:** Deutsch
-**Methodik:** 29-Regeln-Governance-System (Regelwerk v3.3)
+**Methodik:** 30-Regeln-Governance-System (Regelwerk v3.4)
 **Gottesname-Politik (Regel 25 / GS-Politik):** Option C — κύριος (kyrios) als „der Herr" wiedergegeben bei Zitaten alttestamentlicher JHWH-Stellen; vermerkt in Stufe 2.
 **Status:** provisorisch — ausstehende Begutachtung (Regel 28)
 **Begutachter:** Hellenist: nicht zugewiesen | DE-Redakteur: nicht zugewiesen | Sprachübergreifender Abgleich: nicht zugewiesen

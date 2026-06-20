@@ -7,7 +7,7 @@
 **Base Text:** Biblia Hebraica Stuttgartensia, 5th rev. ed. (Stuttgart: Deutsche Bibelgesellschaft, 1997)
 **Edition:** Transparent Edition
 **Language:** English
-**Methodology:** 29-Rule Governance System (Ruleset v3.3)
+**Methodology:** 30-Rule Governance System (Ruleset v3.4)
 **Divine Name Policy (Rule 25):** Option A — Consonantal (YHWH). Triggered at v.29 (Lemekh's speech); otherwise Elohim throughout.
 **Status:** provisional — pending reviewer sign-off (Rule 28)
 **Reviewers:** Hebraist: unassigned | EN editor: unassigned | Cross-alignment: unassigned
