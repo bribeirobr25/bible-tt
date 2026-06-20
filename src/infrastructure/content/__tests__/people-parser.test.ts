@@ -241,6 +241,12 @@ describe("people-parser", () => {
         for (const locale of ["en", "pt-br", "de", "es"]) {
           const r = parsePeopleMarkdown(readPeople(locale, book), book);
           expect(r.sources, `${locale}/${book} sources`).toBeTruthy();
+          // The parser now emits sources pre-cleaned (Tier-4 S2b): no leading
+          // blockquote markers or raw "- "/"* " bullets remain.
+          expect(
+            /^>|^[-*]\s/m.test(r.sources ?? ""),
+            `${locale}/${book} sources should be pre-cleaned`,
+          ).toBe(false);
         }
       }
     });

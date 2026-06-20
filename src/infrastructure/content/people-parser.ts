@@ -267,9 +267,14 @@ function applyField(
     case "regionsByText":
       current.regionsByText = parseRegionsByText(value);
       break;
-    case "crossBookSee":
+    case "crossBookSee": {
       current.crossBookSee = value;
+      const seeMatch = value.trim().match(/^([a-z][a-z-]*)\/PEOPLE\.md$/i);
+      current.crossBookSeeBook = seeMatch
+        ? seeMatch[1].toLowerCase()
+        : undefined;
       break;
+    }
     case "inBook":
       current.inBook = value;
       break;
@@ -494,7 +499,12 @@ export function parsePeopleMarkdown(raw: string, book: string): PeopleData {
   flushEntry(state, entries);
   flushGenealogy(state, genealogies);
 
-  const sources = state.sourcesLines?.join("\n").trim() || undefined;
+  // Emit the Sources section pre-cleaned (blockquote markers stripped, bullets
+  // normalized to "• ") so consumers render it directly — no UI/route munging.
+  const sourcesRaw = state.sourcesLines?.join("\n").trim();
+  const sources = sourcesRaw
+    ? sourcesRaw.replace(/^>\s?/gm, "").replace(/^[-*]\s+/gm, "• ")
+    : undefined;
 
   return {
     book,

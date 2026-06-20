@@ -3,12 +3,6 @@ import type { CuriosityEntry, PersonEntry } from "@/domain/content/types";
 import { ClaimBadge } from "@/ui/enrichment/claim-badge";
 import { renderInlineSafe } from "@/ui/shared/render-markdown-safe";
 
-// Parses a `**See:**` pointer like "genesis/PEOPLE.md" into the source book slug.
-function parseCrossBookSlug(pointer: string): string | null {
-  const match = pointer.trim().match(/^([a-z][a-z-]*)\/PEOPLE\.md$/i);
-  return match ? match[1].toLowerCase() : null;
-}
-
 // Prototype WIDE heuristic (assets/render-people.js): a field spans both columns
 // when its label matches one of these (across locales) or its value is long.
 const WIDE_LABEL =
@@ -45,26 +39,27 @@ function Field({
 function CrossBookSeeField({
   label,
   pointer,
+  book,
   locale,
   bookLabels,
 }: {
   label: string;
   pointer: string;
+  book?: string;
   locale: string;
   bookLabels: Record<string, string>;
 }) {
-  const slug = parseCrossBookSlug(pointer);
-  if (!slug || !bookLabels[slug]) {
+  if (!book || !bookLabels[book]) {
     return <Field label={label} value={pointer} wide />;
   }
   return (
     <Field label={label} wide>
       <span className="fv">
         <Link
-          href={`/${locale}/${slug}/people`}
+          href={`/${locale}/${book}/people`}
           className="text-accent hover:underline focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent rounded-sm"
         >
-          {bookLabels[slug]}
+          {bookLabels[book]}
         </Link>
       </span>
     </Field>
@@ -147,6 +142,7 @@ export function PersonCard({
           <CrossBookSeeField
             label={labels.crossBookSee}
             pointer={person.crossBookSee}
+            book={person.crossBookSeeBook}
             locale={locale}
             bookLabels={bookLabels}
           />

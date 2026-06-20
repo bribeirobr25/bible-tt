@@ -265,6 +265,10 @@ export interface PersonEntry {
   generationsFrom?: GenerationEntry[];
   regionsByText?: RegionByText[];
   crossBookSee?: string;
+  /** The source book slug parsed from `crossBookSee` (`<book>/PEOPLE.md`), or
+   *  undefined if the pointer doesn't match. Derived in the parser so the UI
+   *  carries no slug-parsing logic. */
+  crossBookSeeBook?: string;
   inBook?: string;
 }
 
