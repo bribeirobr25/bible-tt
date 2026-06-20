@@ -7,7 +7,7 @@
 **Texto Base:** Biblia Hebraica Stuttgartensia, 5a ed. rev. (Stuttgart: Deutsche Bibelgesellschaft, 1997)
 **Edición:** Edición Transparente
 **Idioma:** Español
-**Metodología:** Sistema de Gobernanza de 29 Reglas (Reglas v3.3)
+**Metodología:** Sistema de Gobernanza de 30 Reglas (Reglas v3.4)
 **Política del Nombre Divino (Regla 25):** Opción A — Consonantal (YHWH).
 **Status:** provisorio — pendiente de revisión por pares (Regla 28)
 **Revisores:** Hebraísta: no asignado | Editor ES: no asignado | Alineación cruzada: no asignado

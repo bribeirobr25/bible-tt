@@ -540,3 +540,12 @@ This log records consistency decisions, justified exceptions, text-critical choi
 - **AI provenance:** claude-opus-4-8 (1M), 2026-06-20. Gates green (882 tests; conservation 11,831; lint/content:lint/build); G9 byte-exact NFC.
 - **Status:** provisional. **Reviewers:** locale-editors unassigned.
 - **Cross-references:** `PLAN_KYRIOS_DIVINE_NAME_FIX.md`; matthew.md M-033; `EXECUTION_HISTORY.md` (2026-06-20).
+
+## Entry J-036 — Methodology stamp → v3.4/30-Rule (Rule-30 markers rollout backfill)
+
+- **Verse:** John 1–3 **chapter front-matter** (`Methodology:` metadata line; not verse text), all locales.
+- **Rule(s) invoked:** Rule 30 (divine-speech marking, added v3.4), Text-Highlight Markers convention (v3.4); Rule 28.
+- **Decision:** the v3.4 features — Rule 30 `@@…@@` divine-speech marking + `{t:…}`/`{a:…}`/`*added*` markers — were applied to John 1–3 during the 2026-06 cycle but the Methodology stamp still read `v3.3/29-Rule`. Re-stamped to `30-Rule … (Ruleset v3.4)` after verifying the marks: `@@` balanced + cross-locale-identical; legend present; Rule-30 scope correct (Yeshua's discourse marked; narration/human speech not). Stamp records *ruleset version*, orthogonal to review status — content stays `provisional` pending Rule-28 per-span semantic sign-off. Metadata not rendered (zero visual change).
+- **AI provenance:** claude-opus-4-8 (1M), 2026-06-21. Gates green (882 tests; conservation 11,831; lint/content:lint/build; served-HTML markers render, no literals leak).
+- **Status:** provisional. **Reviewers:** locale-editors / Hellenist (Rule 28) unassigned.
+- **Cross-references:** `PLAN_METHODOLOGY_RESTAMP.md`; `EXECUTION_HISTORY.md` (Methodology-stamp re-stamp, 2026-06-21); matthew.md M-034; genesis.md / mark.md (HB/Mark parallels).

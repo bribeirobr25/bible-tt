@@ -546,3 +546,12 @@ Option B (slash) is adopted instead because: (a) the project's Prime Directive p
 - **AI provenance:** claude-opus-4-8 (1M), 2026-06-20. Gates green (882 tests; conservation 11,831 unchanged; lint/content:lint/build).
 - **Status:** provisional. **Reviewers:** locale-editors unassigned.
 - **Cross-references:** `PLAN_KYRIOS_DIVINE_NAME_FIX.md`; `AUDIT_KYRIOS_DIVINE_NAME_FIX_PLAN.md`; `EXECUTION_HISTORY.md` (kyrios Divine-Name-Policy metadata fix, 2026-06-20); john.md J-035; mark.md 2026-06-20-004.
+
+## Entry M-034 — Methodology stamp → v3.4/30-Rule (Rule-30 markers rollout backfill)
+
+- **Verse:** Matthew 1–3 **chapter front-matter** (`Methodology:` metadata line; not verse text), all locales.
+- **Rule(s) invoked:** Rule 30 (divine-speech marking, added v3.4), Text-Highlight Markers convention (v3.4); Rule 28.
+- **Decision:** the v3.4 features were applied to Matthew 1–3 during the 2026-06 cycle but the Methodology stamp still read `v3.3/29-Rule`. Re-stamped to `30-Rule … (Ruleset v3.4)` after verifying the marks: Matthew 1–2 carry **0 real divine spans** (only the reading-guide legend) — correct, since the sole speaker is the *malakh/angelos kyriou*, which Rule 30 **excludes by default** (conforms to M-004); Matthew 3 marks Yeshua + the Bat Qol; no narration/human speech marked. Stamp = ruleset version, orthogonal to review status; content stays `provisional` pending Rule-28. Metadata not rendered.
+- **AI provenance:** claude-opus-4-8 (1M), 2026-06-21. Gates green (882 tests; conservation 11,831; lint/content:lint/build).
+- **Status:** provisional. **Reviewers:** locale-editors / Hellenist (Rule 28) unassigned.
+- **Cross-references:** `PLAN_METHODOLOGY_RESTAMP.md`; `EXECUTION_HISTORY.md` (Methodology-stamp re-stamp, 2026-06-21); john.md J-036; M-004 (malakh exclusion rationale).

@@ -7,7 +7,7 @@
 **Grundtext:** Biblia Hebraica Stuttgartensia, 5. rev. Aufl. (Stuttgart: Deutsche Bibelgesellschaft, 1997)
 **Ausgabe:** Transparente Ausgabe
 **Sprache:** Deutsch
-**Methodik:** 29-Regeln-Governance-System (Regelwerk v3.3)
+**Methodik:** 30-Regeln-Governance-System (Regelwerk v3.4)
 **Gottesname-Politik (Regel 25):** Option A — Konsonantisch (JHWH). In Genesis 1 nicht ausgelöst; für Genesis 2+ erklärt.
 **Luther-Bibel-Verhältnis:** Option B — Selektive Anerkennung. Übersetzung aus dem Hebräischen nach TT-Regeln; Konvergenzen und Divergenzen mit Luther in Begleitmaterialien dokumentiert. Entscheidung geloggt 2026-04-18.
 **Status:** provisorisch — ausstehende Begutachtung (Regel 28)

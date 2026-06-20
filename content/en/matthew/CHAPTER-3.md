@@ -7,7 +7,7 @@
 **Base Text:** Nestle-Aland, *Novum Testamentum Graece*, 28th revised edition (Stuttgart: Deutsche Bibelgesellschaft, 2012)
 **Edition:** Transparent Edition (GS edition declared independently per CORE Rule 24)
 **Language:** English
-**Methodology:** 29-Rule Governance System (Ruleset v3.3)
+**Methodology:** 30-Rule Governance System (Ruleset v3.4)
 **Divine Name Policy (Rule 25 / GS Policy):** Option C — κύριος (kyrios) rendered as "the Lord" when quoting OT YHWH passages; noted in Tier 2.
 **Status:** provisional — pending reviewer sign-off (Rule 28)
 **Reviewers:** Hellenist: unassigned | EN editor: unassigned | Cross-alignment: unassigned
