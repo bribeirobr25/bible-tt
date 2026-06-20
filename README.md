@@ -119,7 +119,7 @@ All decisions logged in the editorial logs ([genesis.md](docs/editorial-log/gene
 
 ```
 bible-tt/
-├── content/                 # All content files (4 locales × 3 books)
+├── content/                 # All content files (3 books × 4 locales, + Mark EN-only pilot)
 │   ├── en/{genesis,john,matthew,mark}/   # English chapters, companions, introductions, people (mark = EN-only pilot)
 │   ├── pt-br/{genesis,john,matthew}/
 │   ├── de/{genesis,john,matthew}/
