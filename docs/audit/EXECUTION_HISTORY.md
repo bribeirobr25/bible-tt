@@ -11,6 +11,17 @@ in `docs/audit/PENDING.md`.
 
 ---
 
+## Tier 4 (code DRY) — branch `tier4-code-dry` (2026-06-20)
+
+Per `docs/audit/PLAN_TIER4_CODE_DRY.md` (externally audited, `AUDIT_TIER4_CODE_DRY_PLAN.md`). The code half of the DRY tail — UI helper extraction + DDD-low placement; pure structural, equivalence-guarded.
+- **Strand 1 (render-equivalent UI extraction):** `ui/shared/disclaimer.tsx` (`<Disclaimer>`, 3 sites), `ui/shared/source-line.tsx` (`<SourceLine>`, 2 sites; person-card excluded — different markup), and one `NOTE_TYPE_TOKENS` map (`note-block`) driving both the note-block dots and the notes-view legend (was defined twice). **Gate: byte-identical rendered HTML across 8 pages × 4 locales, 0 diffs.**
+- **Strand 2 (DDD-low — move logic out of ui/app):** **S2a** people-parser emits `PersonEntry.crossBookSeeBook` (the `<book>/PEOPLE.md` slug, `undefined` on miss); `person-card` reads it, `parseCrossBookSlug` deleted from the UI; field deliberately **not** added to `emitPeople` (conservation-safe). **S2b** the people `sources` blockquote/bullet cleanup moved from the route into the parser (route renders `sources` directly) + a regression-lock test. **S2c deferred** (promoting a presentation string-split to a `ChapterMetadata` field is worse DDD).
+- **Not done:** Tier-4 Strand 3 — the ~114 redundant `Name (Name)` (mostly DE) — remains a separate content/judgment pass.
+
+Gate green throughout (882 tests, lint, build, content:lint; conservation 11831 unchanged). DDD compliance *improved*: slug-derivation + string-munging moved out of `ui`/`app` into `infrastructure`/`domain`; new shared components in `ui/shared`.
+
+---
+
 ## Reusability / god-file split (Tier 3) — branch `content-multibook-expansion` (2026-06-19)
 
 Per `docs/audit/PLAN_TIER3_REUSABILITY.md` (externally audited, `AUDIT_TIER3_REUSABILITY_PLAN.md`). Pure structural refactor (no content/value/render change); guard = equivalence.

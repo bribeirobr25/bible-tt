@@ -3,11 +3,20 @@ import { renderMarkdownSafe } from "@/ui/shared/render-markdown-safe";
 
 // Uniform cream surface + colored left border / label / dot per note type
 // (prototype `.note`); no icon.
+/** Single source of truth for the note-type → accent-color token (shared with
+ *  the notes-view legend so the two can't drift). */
+export const NOTE_TYPE_TOKENS: Record<NoteType, string> = {
+  CRITICAL: "var(--color-note-critical)",
+  LEXICAL: "var(--color-note-lexical)",
+  GRAMMATICAL: "var(--color-note-grammatical)",
+  THEOLOGICAL: "var(--color-note-theological)",
+};
+
 const TYPE: Record<NoteType, { cls: string; dot: string }> = {
-  CRITICAL: { cls: "critical", dot: "var(--color-note-critical)" },
-  LEXICAL: { cls: "lexical", dot: "var(--color-note-lexical)" },
-  GRAMMATICAL: { cls: "grammatical", dot: "var(--color-note-grammatical)" },
-  THEOLOGICAL: { cls: "theological", dot: "var(--color-note-theological)" },
+  CRITICAL: { cls: "critical", dot: NOTE_TYPE_TOKENS.CRITICAL },
+  LEXICAL: { cls: "lexical", dot: NOTE_TYPE_TOKENS.LEXICAL },
+  GRAMMATICAL: { cls: "grammatical", dot: NOTE_TYPE_TOKENS.GRAMMATICAL },
+  THEOLOGICAL: { cls: "theological", dot: NOTE_TYPE_TOKENS.THEOLOGICAL },
 };
 
 export function NoteBlock({ note }: { note: Note }) {

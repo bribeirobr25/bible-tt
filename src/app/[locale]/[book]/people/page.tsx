@@ -240,12 +240,7 @@ export default async function PeoplePage({
               <div
                 className="body tt-sources text-text-secondary"
                 dangerouslySetInnerHTML={{
-                  __html: renderMarkdownSafe(
-                    people.sources
-                      .replace(/^>\s?/gm, "")
-                      .replace(/^[-*]\s+/gm, "• "),
-                    "note",
-                  ),
+                  __html: renderMarkdownSafe(people.sources, "note"),
                 }}
               />
             </Disclosure>

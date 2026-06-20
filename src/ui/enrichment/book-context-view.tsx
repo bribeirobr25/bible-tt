@@ -1,10 +1,12 @@
 import { useTranslations } from "next-intl";
 import type { BookContextData } from "@/domain/content/types";
+import { Disclaimer } from "@/ui/shared/disclaimer";
 import { Disclosure } from "@/ui/shared/disclosure";
 import {
   renderInlineSafe,
   renderMarkdownSafe,
 } from "@/ui/shared/render-markdown-safe";
+import { SourceLine } from "@/ui/shared/source-line";
 import { ClaimBadge } from "./claim-badge";
 
 // Phase 9 — Book Context view. Motifs render in AUTHORING ORDER, each as a
@@ -22,14 +24,7 @@ export function BookContextView({ data }: { data: BookContextData }) {
 
   return (
     <div className="tt-deeper-section">
-      {data.disclaimer && (
-        <div
-          className="tt-disclaimer"
-          dangerouslySetInnerHTML={{
-            __html: renderInlineSafe(data.disclaimer),
-          }}
-        />
-      )}
+      {data.disclaimer && <Disclaimer text={data.disclaimer} />}
 
       {data.motifs.map((motif, i) => (
         <Disclosure
@@ -66,16 +61,7 @@ export function BookContextView({ data }: { data: BookContextData }) {
                   __html: renderMarkdownSafe(motif.body, "note"),
                 }}
               />
-              {motif.source && (
-                <p
-                  className="src"
-                  dangerouslySetInnerHTML={{
-                    __html: renderInlineSafe(
-                      t("enrichment.source", { source: motif.source }),
-                    ),
-                  }}
-                />
-              )}
+              {motif.source && <SourceLine source={motif.source} />}
             </div>
           </div>
         </Disclosure>
