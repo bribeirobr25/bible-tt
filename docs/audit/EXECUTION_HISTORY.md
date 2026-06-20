@@ -7,13 +7,23 @@ in `docs/audit/PENDING.md`.
 > The **Plan artifact** column references per-phase plan docs removed in the 2026-06-12
 > documentation lean-up (completed plans). The **What it did** column is the authoritative record.
 
-**Latest editorial-log anchors:** `genesis.md` Entry `2026-06-19-120` · `john.md` J-035 · `matthew.md` M-033 · `mark.md` `2026-06-20-004`.
+**Latest editorial-log anchors:** `genesis.md` Entry `2026-06-19-120` · `john.md` J-036 · `matthew.md` M-034 · `mark.md` `2026-06-20-004`.
 
 ---
 
 ## Tier 4 Strand 3 — redundant `Name (Name)` content pass (2026-06-20)
 
 Per `docs/audit/PLAN_TIER4_NAME_DEDUP.md` + RULES-HB v3.3.1. Removed **118** redundant identical doublings `X (X)` → `X` across 29 content files (4 locales; de 92 / es 12 / en 10 / pt-br 4). All genuine redundancies — the `\1` pattern can't match qualified comparisons (`Lamech (Cainite)`), so there were no intentional-exception false positives. 32 PEOPLE `## Name (Name)` headings (render-equivalent — `person-card` already suppressed `familiarName === name`), 48 table cells + 34 prose (visible cleanup), + 4 accented-capital `Ägypten (Ägypten)` an initial ASCII-only pass missed (caught by the rendered-DOM check). **Cleared `content:lint §0.11` (DE redundant-parens).** Gate green (882 tests, lint, build, content:lint; conservation 11,831 unchanged); diff is purely paren removals (104 lines, 0 collateral). **Flagged, not fixed here:** 16 lowercase `kyrios (kyrios)` in the templated Divine-Name-Policy metadata — handled separately (next section).
+
+---
+
+## Methodology-stamp re-stamp to v3.4/30-Rule (2026-06-21)
+
+Per `docs/audit/PLAN_METHODOLOGY_RESTAMP.md` (self-audited). Re-stamped **72 chapter** `Methodology:` metadata lines `29-Rule … (Ruleset v3.3)` → `30-Rule … (Ruleset v3.4)` — genesis 1-12, john 1-3, matthew 1-3 × en/pt-br/de/es. Only `en/mark` (authored after v3.4 landed) was already current. Drift was corpus-wide, not just GS.
+
+**Verify-then-stamp (not apply-from-scratch):** the v3.4 features — Rule 30 divine-speech marking (`@@…@@`) + the text-highlight markers (`{t:…}`/`{a:…}`/`*added*`) — were already applied across all 72 chapters during the 2026-06 cycle; only the stamp was missed. Pre-bump verification: `@@` balanced (all even) + cross-locale-identical for all three marker types; reading-guide legend present 75/75; Rule-30 semantic spot-check passed incl. a proper paired-span Gen-3 negative check (God's speech marked; serpent + Adam + Eve NOT marked; Matthew *malakh* excluded; Yeshua + Bat Qol marked).
+
+**Honesty basis:** the stamp records *ruleset version* (which features govern), orthogonal to *review status* — `en/mark` is both `v3.4` and `provisional`, and the bumped pages still show the PROVISIONAL badge. So the bump claims "implements v3.4," not "human-signed-off"; exhaustive per-span semantic correctness stays with the pending **Rule-28** sign-off. `divineNamePolicy`/`methodology` metadata is **not rendered** (verified: 0 in served HTML, all locales; the only `v3.4` in HTML is the unrelated `/rules` i18n hero string). Gates green (882 tests, conservation 11,831, lint, content:lint, build); diff 72 files / 72+ / 72− (L9 only). Editorial-log Rule-30 rollout entries backfilled in john.md + matthew.md (previously only genesis.md + mark.md).
 
 ---
 

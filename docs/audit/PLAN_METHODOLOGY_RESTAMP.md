@@ -1,6 +1,8 @@
 # Plan — GS/HB Methodology-Stamp Re-stamp to v3.4 (verify-then-stamp)
 
-**Status:** PLANNED (awaiting sign-off) · **Date:** 2026-06-20 · **Class:** content metadata + compliance verification · **Risk:** Low (mechanical bump) / Medium (the honesty claim it makes)
+**Status:** ✅ **EXECUTED 2026-06-21** (Option A — bump now; commit `b638990`) · **Date:** 2026-06-20 · **Class:** content metadata + compliance verification · **Risk:** Low (mechanical bump) / Medium (the honesty claim it makes)
+
+> **Execution outcome:** 72 chapter stamps bumped `v3.3/29-Rule` → `v3.4/30-Rule` (genesis 1-12, john 1-3, matthew 1-3 × 4 locales). All gates green: G1 0 stale · G2 75 v3.4 · G3 72/72/72 (L9 only) · G4 0 off-target · G5 882 tests + conservation 11,831 · G6/G7/G8 lint/content-lint/build clean · G9 stamp not rendered (0 in served HTML, all locales) + markers render as styled spans (no literals leak) + PROVISIONAL badge confirms stamp⊥status. Phases 0-1 verification (balance, parity, legend 75/75, Rule-30 semantic spot-check incl. proper paired-span Gen-3 negative check) all passed pre-bump. Visual confirmed via Docker MCP (Gen 1 reading page). Per-span semantic correctness remains with the pending **Rule-28** sign-off.
 
 > **Self-audit disposition (2026-06-20) — verified against source; findings folded in:**
 > 1. **`@@"…"@@` is the reading-guide LEGEND, not real speech** — it sits in every chapter's Reading Guide (`- @@"…"@@ — direct speech of God or Yeshua (Jesus)`). It inflates each chapter's raw `@@` count by exactly 2 (one span). So **real divine-speech spans = (`@@`-count ÷ 2) − 1.** Verification math must subtract it; an executor must not "fix" a chapter whose only `@@` is the legend.
