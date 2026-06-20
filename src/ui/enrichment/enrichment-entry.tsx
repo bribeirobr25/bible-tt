@@ -1,9 +1,9 @@
-import { useTranslations } from "next-intl";
 import type { EnrichmentEntry } from "@/domain/content/types";
 import {
   renderInlineSafe,
   renderMarkdownSafe,
 } from "@/ui/shared/render-markdown-safe";
+import { SourceLine } from "@/ui/shared/source-line";
 import { ClaimBadge } from "./claim-badge";
 
 /**
@@ -11,8 +11,6 @@ import { ClaimBadge } from "./claim-badge";
  * deep-accent left border; title → dual-label chips → body → source.
  */
 export function EnrichmentEntryCard({ entry }: { entry: EnrichmentEntry }) {
-  const t = useTranslations();
-
   return (
     <div className="tt-enrich">
       <h4
@@ -28,16 +26,7 @@ export function EnrichmentEntryCard({ entry }: { entry: EnrichmentEntry }) {
           __html: renderMarkdownSafe(entry.content, "note"),
         }}
       />
-      {entry.source && (
-        <p
-          className="src"
-          dangerouslySetInnerHTML={{
-            __html: renderInlineSafe(
-              t("enrichment.source", { source: entry.source }),
-            ),
-          }}
-        />
-      )}
+      {entry.source && <SourceLine source={entry.source} />}
     </div>
   );
 }

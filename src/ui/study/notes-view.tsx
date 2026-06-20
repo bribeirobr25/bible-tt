@@ -1,17 +1,18 @@
 import { getTranslations } from "next-intl/server";
-import type { ChapterData } from "@/domain/content/types";
+import type { ChapterData, NoteType } from "@/domain/content/types";
 import { Disclosure } from "@/ui/shared/disclosure";
 import { renderMarkdownSafe } from "@/ui/shared/render-markdown-safe";
 import { GlossaryPanel } from "@/ui/study/glossary-panel";
+import { NOTE_TYPE_TOKENS } from "@/ui/study/note-block";
 import { SupplementaryPanel } from "@/ui/study/supplementary-section";
 import { VerseCard } from "@/ui/study/verse-card";
 
-const CHIPS = [
-  { key: "critical", color: "var(--color-note-critical)" },
-  { key: "lexical", color: "var(--color-note-lexical)" },
-  { key: "grammatical", color: "var(--color-note-grammatical)" },
-  { key: "theological", color: "var(--color-note-theological)" },
-] as const;
+// Legend chips, derived from the single NOTE_TYPE_TOKENS map (note-block) so the
+// note-type → color mapping has one source.
+const CHIPS = (Object.keys(NOTE_TYPE_TOKENS) as NoteType[]).map((type) => ({
+  key: type.toLowerCase(),
+  color: NOTE_TYPE_TOKENS[type],
+}));
 
 /**
  * Phase 3 — the "Notes" door. Reading guide → note-type legend → (jump-links to

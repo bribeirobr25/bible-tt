@@ -1,5 +1,6 @@
 import { useTranslations } from "next-intl";
 import { type EnrichmentData, sortByConfidence } from "@/domain/content/types";
+import { Disclaimer } from "@/ui/shared/disclaimer";
 import { Disclosure } from "@/ui/shared/disclosure";
 import {
   renderInlineSafe,
@@ -42,14 +43,7 @@ export function ContextView({ data }: { data: EnrichmentData }) {
 
   return (
     <div className="tt-deeper-section">
-      <div
-        className="tt-disclaimer"
-        dangerouslySetInnerHTML={{
-          __html: renderInlineSafe(
-            data.disclaimer || t("enrichment.contextDisclaimer"),
-          ),
-        }}
-      />
+      <Disclaimer text={data.disclaimer || t("enrichment.contextDisclaimer")} />
 
       {displaySections.map((section, si) => (
         <Disclosure

@@ -2,8 +2,8 @@ import {
   type IntroductionData,
   sortByConfidence,
 } from "@/domain/content/types";
+import { Disclaimer } from "@/ui/shared/disclaimer";
 import { Disclosure } from "@/ui/shared/disclosure";
-import { renderInlineSafe } from "@/ui/shared/render-markdown-safe";
 import { EnrichmentEntryCard } from "./enrichment-entry";
 
 interface IntroductionViewProps {
@@ -25,14 +25,7 @@ export function IntroductionView({
 
   return (
     <div className="tt-deeper-section">
-      {data.disclaimer && (
-        <div
-          className="tt-disclaimer"
-          dangerouslySetInnerHTML={{
-            __html: renderInlineSafe(data.disclaimer),
-          }}
-        />
-      )}
+      {data.disclaimer && <Disclaimer text={data.disclaimer} />}
 
       {sections.map((section, si) => {
         const label =
