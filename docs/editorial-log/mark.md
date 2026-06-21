@@ -122,3 +122,18 @@ Decision log for the TT rendering of Mark, per RULES-CORE §Editorial Log Specif
 - **AI provenance:** claude-opus-4-8 (1M) + subagents, 2026-06-21. Gates green (882 tests; conservation 231 files→12685 units additive; content:lint clean; lint/build; 7 routes 200, markers styled, JHWH/0-YHWH in served HTML); visual-checked de/mark people.
 - **Status:** provisional. **Reviewers:** de locale-editor unassigned (Rule 28).
 - **Cross-references:** `PLAN_MARK_PROPAGATION.md`; entry 2026-06-21-005 (PT-BR).
+
+---
+
+## Entry 2026-06-21-007 — Mark 1–3 propagation to ES
+
+- **Scope:** all 9 Mark files mirrored EN→es (chapters, companions, INTRODUCTION, PEOPLE, CONTEXT). GS-governed; mirror-EN.
+- **Rule(s):** RULES-GS (kyrios Option C), v3.2 names, Rule 28 (provisional), Rule 30.
+- **Name rendering (familiar = Reina-Valera; transliteration mirrors EN):** Yeshua→Jesús, Yochanan→Juan, Shimon Kefa→Simón Pedro, Andreas→Andrés, Ya'aqov→Jacobo/Santiago (Santiago for the apostle in RV), Zavdai→Zebedeo, Levi→Leví, Philippos→Felipe, Bar-Talmai→Bartolomé, Mattai→Mateo, Toma→Tomás, Chalfai→Alfeo, Taddai→Tadeo, Shimon the Kena'ani→…Cananeo, Yehudah Ish-Keriot→Judas Iscariote; Yarden→Jordán, Galil→Galilea, Natzeret→Nazaret, Kfar Nachum→Capernaúm, Tsor/Tsidón→Tiro/Sidón.
+- **Divine name: `YHWH` (kept — Spanish J=/x/, RULES-CORE L1226; NOT JHWH):** verified 0 JHWH in es/mark; served HTML YHWH-only. Main text κύριος→"el Señor" (Option C). Pan-Hispanic neutral register (no voseo/vosotros); diacritics intact (§0.3); Reina-Valera Option B declaration present (§0.4).
+- **Markers:** @@/{t:}/{a:} parity = EN per file (ch1 30/0/7, ch2 34/0/1, ch3 26/0/3); `{a:viento/espíritu}`; no nested form. QA fix: ch3 had 2 dropped `{a:}` body markers (agent truncated at session limit) — restored "blasfeme contra el {a:viento/espíritu} santo" (3:29, continuous + verse).
+- **Headers + dual-labels:** copied verbatim from es/matthew; claim/confidence use registered es forms (TEXTUAL/INFERENCIA FUERTE·POSIBLE/RECEPCIÓN POSTERIOR/HISTÓRICO·ARQUEOLÓGICO/PARALELO COMPARATIVO; VERIFICADO/PROBABLE/POSIBLE/DOCUMENTADO/INCIERTO).
+- **Cross-book PEOPLE:** 3 see-only stubs keep `**Ver:** matthew/PEOPLE.md` + `**En Marcos:**` (plain-text render — the pre-existing crossBookSeeBook bug, see PENDING).
+- **AI provenance:** claude-opus-4-8 (1M) + subagents, 2026-06-21. Gates green (882 tests; conservation 240 files→13112 units additive; content:lint clean incl. §0.3/§0.4; lint/build; 7 routes 200, markers styled, YHWH/0-JHWH); visual-checked es/mark ch3.
+- **Status:** provisional. **Reviewers:** es locale-editor unassigned (Rule 28).
+- **Cross-references:** `PLAN_MARK_PROPAGATION.md`; entries 2026-06-21-005 (PT-BR), -006 (DE). **Mark now complete in all four locales.**
