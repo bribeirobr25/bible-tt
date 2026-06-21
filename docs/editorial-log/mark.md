@@ -92,3 +92,18 @@ Decision log for the TT rendering of Mark, per RULES-CORE §Editorial Log Specif
 - **AI provenance:** claude-opus-4-8 (1M), 2026-06-20. Gates green (882 tests; conservation 11,831; lint/content:lint/build).
 - **Status:** provisional. EN only.
 - **Cross-references:** `PLAN_KYRIOS_DIVINE_NAME_FIX.md`; matthew.md M-033; john.md J-035; `EXECUTION_HISTORY.md` (2026-06-20).
+
+---
+
+## Entry 2026-06-21-005 — Mark 1–3 propagation to PT-BR
+
+- **Scope:** all 9 Mark files mirrored EN→pt-br (CHAPTER-1/2/3, study/CHAPTER-1/2/3-CONTEXT, INTRODUCTION, PEOPLE, CONTEXT). GS-governed (RULES-GS); mirror-EN per the Matthew/John precedent.
+- **Rule(s) invoked:** RULES-GS (kyrios Option C divine name), v3.2 name rendering, Rule 11 (grammatical additions), Rule 28 (provisional), Rule 29 (dual-labels), Rule 30 (divine-speech markers).
+- **Name rendering (familiar = Almeida tradition; transliteration mirrors EN byte-for-byte):** Yeshua→Jesus, Yochanan→João, Shimon Kefa→Simão Pedro, Andreas→André, Ya'aqov→Tiago (apostle; via Lat. *Iacomus*, distinct from patriarch Jacó), Zavdai→Zebedeu, Levi→Levi, Philippos→Filipe, Bar-Talmai→Bartolomeu, Mattai→Mateus, Toma→Tomé, Chalfai→Alfeu, Taddai→Tadeu (Lebbaeus→Lebeu), Shimon the Kena'ani→Simão o Cananeu, Yehudah Ish-Keriot→Judas Iscariotes; places Yarden→Jordão, Galil→Galileia, Natzeret→Nazaré, Kfar Nachum→Cafarnaum. "Filho do Homem", "filhos do trovão" (Boanerges).
+- **Divine name:** YHWH (pt-br keeps YHWH, not JHWH) in body cross-refs; main text uses κύριος→"o Senhor" (Option C). Divine-name-policy metadata = canonical `κύριος (kyrios)`.
+- **Markers:** @@/{t:}/{a:} counts parity-verified equal to EN per file (ch1 30/0/7, ch2 34/0/1, ch3 26/0/3); grammatical `*added*` localized to pt-br needs. One fix during QA: a nested `*{a:vento/espírito}*` (Mark 1:8) collapsed to plain `{a:vento/espírito}` (PT needs no article where EN adds `*the*`).
+- **Structural headers + dual-label forms:** copied verbatim from pt-br/matthew (parser byte-match); claim-type/confidence labels use registered pt-br forms (TEXTUAL/INFERÊNCIA FORTE/POSSÍVEL/RECEPÇÃO POSTERIOR/HISTÓRICO·ARQUEOLÓGICO; VERIFICADO/PROVÁVEL/POSSÍVEL/DOCUMENTADO).
+- **Cross-book PEOPLE:** 3 see-only stubs (Yeshua, Yochanan o Imersor, Miryam) keep `**Ver:** matthew/PEOPLE.md` + `**Em Marcos:**` role; resolve to pt-br/matthew (no dangling).
+- **AI provenance:** claude-opus-4-8 (1M) + general-purpose subagents, 2026-06-21. Gates green (882 tests; conservation 222 files→12258 units, additive; content:lint clean; lint/build clean); pages render (8 routes 200, markers styled, no literals leak); visual-checked Mark 1 read page.
+- **Status:** provisional. **Reviewers:** pt-br locale-editor unassigned (Rule 28).
+- **Cross-references:** `PLAN_MARK_PROPAGATION.md`; `AUDIT_MARK_PROPAGATION_PLAN.md`.
