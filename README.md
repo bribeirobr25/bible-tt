@@ -8,7 +8,7 @@ A multilingual Bible translation and study web application built for radical lin
 
 The TT is a disciplined translation of the Hebrew Bible and Greek Scriptures into English, Brazilian Portuguese, German, and Spanish. It preserves source-text ambiguity rather than smoothing it, marks every word added for grammar, and refuses to import later theological vocabulary into the ancient text.
 
-**Current scope:** Genesis 1–12, John 1–3, and Matthew 1–3 in all four languages, plus a Mark 1–3 pilot in English (other locales pending), with contextual study companions, book introductions, people profiles with timeline, and prophecy tracking.
+**Current scope:** Genesis 1–12, John 1–3, Matthew 1–3, and Mark 1–3 in all four languages, with contextual study companions, book introductions, people profiles with timeline, and prophecy tracking.
 
 ## Read it
 
@@ -55,7 +55,7 @@ Dedicated sub-page per book (`/{locale}/{book}/people`) with:
 - SVG timeline infographic showing lifespans and overlaps (Masoretic Text chronology for OT; historical dates for NT)
 - Character arcs and key speeches
 
-Currently authored for **Genesis**, **John**, and **Matthew** in all four locales, plus **Mark** in English (pilot). Cross-book canonical-entry convention (RULES-CORE.md Rule 29 §People and Genealogy Files, v3.3.2): when a person appears in multiple books, a single canonical entry lives in one book's PEOPLE.md and other books use a see-only stub (`**See:** {book}/PEOPLE.md` + `**In <Book>:** [role]`). The UI renders see-only stubs with a clickable cross-book link and a graceful dangling-pointer fallback for forward references to unauthored books.
+Currently authored for **Genesis**, **John**, **Matthew**, and **Mark** in all four locales. Cross-book canonical-entry convention (RULES-CORE.md Rule 29 §People and Genealogy Files, v3.3.2): when a person appears in multiple books, a single canonical entry lives in one book's PEOPLE.md and other books use a see-only stub (`**See:** {book}/PEOPLE.md` + `**In <Book>:** [role]`). The UI renders see-only stubs with a clickable cross-book link and a graceful dangling-pointer fallback for forward references to unauthored books.
 
 ## Languages
 
@@ -119,11 +119,11 @@ All decisions logged in the editorial logs ([genesis.md](docs/editorial-log/gene
 
 ```
 bible-tt/
-├── content/                 # All content files (3 books × 4 locales, + Mark EN-only pilot)
-│   ├── en/{genesis,john,matthew,mark}/   # English chapters, companions, introductions, people (mark = EN-only pilot)
-│   ├── pt-br/{genesis,john,matthew}/
-│   ├── de/{genesis,john,matthew}/
-│   └── es/{genesis,john,matthew}/
+├── content/                 # All content files (4 books × 4 locales)
+│   ├── en/{genesis,john,matthew,mark}/   # chapters, companions, introductions, people
+│   ├── pt-br/{genesis,john,matthew,mark}/
+│   ├── de/{genesis,john,matthew,mark}/
+│   └── es/{genesis,john,matthew,mark}/
 ├── docs/
 │   ├── rules/               # RULES-CORE.md (v3.4) + RULES-HB.md + RULES-GS.md (30 rules)
 │   ├── architecture/        # STANDARDS.md (DDD, code standards)

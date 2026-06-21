@@ -7,13 +7,25 @@ in `docs/audit/PENDING.md`.
 > The **Plan artifact** column references per-phase plan docs removed in the 2026-06-12
 > documentation lean-up (completed plans). The **What it did** column is the authoritative record.
 
-**Latest editorial-log anchors:** `genesis.md` Entry `2026-06-19-120` · `john.md` J-036 · `matthew.md` M-034 · `mark.md` `2026-06-20-004`.
+**Latest editorial-log anchors:** `genesis.md` Entry `2026-06-19-120` · `john.md` J-036 · `matthew.md` M-034 · `mark.md` `2026-06-21-007`.
 
 ---
 
 ## Tier 4 Strand 3 — redundant `Name (Name)` content pass (2026-06-20)
 
 Per `docs/audit/PLAN_TIER4_NAME_DEDUP.md` + RULES-HB v3.3.1. Removed **118** redundant identical doublings `X (X)` → `X` across 29 content files (4 locales; de 92 / es 12 / en 10 / pt-br 4). All genuine redundancies — the `\1` pattern can't match qualified comparisons (`Lamech (Cainite)`), so there were no intentional-exception false positives. 32 PEOPLE `## Name (Name)` headings (render-equivalent — `person-card` already suppressed `familiarName === name`), 48 table cells + 34 prose (visible cleanup), + 4 accented-capital `Ägypten (Ägypten)` an initial ASCII-only pass missed (caught by the rendered-DOM check). **Cleared `content:lint §0.11` (DE redundant-parens).** Gate green (882 tests, lint, build, content:lint; conservation 11,831 unchanged); diff is purely paren removals (104 lines, 0 collateral). **Flagged, not fixed here:** 16 lowercase `kyrios (kyrios)` in the templated Divine-Name-Policy metadata — handled separately (next section).
+
+---
+
+## Mark 1–3 propagation to PT-BR / DE / ES (2026-06-21)
+
+Per `docs/audit/PLAN_MARK_PROPAGATION.md` (self-audited + externally audited APPROVE). Propagated the EN-only Mark pilot to the other three locales — **27 new files** (9 per locale: CHAPTER-1/2/3, study/CHAPTER-1/2/3-CONTEXT, INTRODUCTION, PEOPLE, CONTEXT). Mark is now four-locale, matching Genesis/John/Matthew. AI-drafted mirror-EN (parallel subagents) → `provisional` pending Rule-28 locale-editor sign-off (the Matthew/John precedent).
+
+**Per-locale discipline (GS-governed, RULES-GS):** familiar names from each tradition (PT Almeida, DE Luther, ES Reina-Valera) while transliterations mirror EN byte-for-byte; **divine name PT/ES = YHWH, DE = JHWH** (verified in body cross-refs too, not just metadata — DE 0 YHWH, ES 0 JHWH in served HTML); main text κύριος→"o Senhor"/„der Herr"/"el Señor" (Option C), canonical `κύριος (kyrios)` metadata line; marker parity (`@@`/`{t:}`/`{a:}` = EN per file); structural headers + dual-label claim/confidence forms copied verbatim from each locale's Matthew (parser byte-match — audit Finding 1); v3.4 stamp; Option B traditions. Phased one-locale-at-a-time with a PT-BR checkpoint.
+
+**QA fixes during execution:** PT-BR nested `*{a:vento/espírito}*`→plain (Mark 1:8); DE 3× redundant `Andreas (Andreas)`→`Andreas` (v3.3.1); ES ch3 2 dropped `{a:}` body markers restored (agent truncated at a session limit). Gates green each phase (882 tests; conservation additive 213→**240 files / 13112 units**, completeness + label guards pass; content:lint clean incl. ES §0.3/§0.4; lint/build; all routes 200, markers styled, correct divine-name in served HTML; visual-checked per locale). content-lint extended for the 3 new locale Mark paths. Editorial log: mark.md entries 2026-06-21-005/006/007.
+
+**Discovered (pre-existing, NOT from this work):** cross-book see-only stubs render as **plain text, not a link**, project-wide — `people-parser` parses `crossBookSeeBook` (line 273) and `person-card` consumes it (line 145), but the parser's final object map (line ~518 `return {…}`) omits `crossBookSeeBook: raw.crossBookSeeBook`, so it's always `undefined` → the CrossBookSeeField link path never fires. Affects en/matthew + en/mark on `main` equally. Logged in PENDING for a separate one-line fix.
 
 ---
 
