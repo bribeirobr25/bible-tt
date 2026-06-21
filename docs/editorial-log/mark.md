@@ -92,3 +92,48 @@ Decision log for the TT rendering of Mark, per RULES-CORE §Editorial Log Specif
 - **AI provenance:** claude-opus-4-8 (1M), 2026-06-20. Gates green (882 tests; conservation 11,831; lint/content:lint/build).
 - **Status:** provisional. EN only.
 - **Cross-references:** `PLAN_KYRIOS_DIVINE_NAME_FIX.md`; matthew.md M-033; john.md J-035; `EXECUTION_HISTORY.md` (2026-06-20).
+
+---
+
+## Entry 2026-06-21-005 — Mark 1–3 propagation to PT-BR
+
+- **Scope:** all 9 Mark files mirrored EN→pt-br (CHAPTER-1/2/3, study/CHAPTER-1/2/3-CONTEXT, INTRODUCTION, PEOPLE, CONTEXT). GS-governed (RULES-GS); mirror-EN per the Matthew/John precedent.
+- **Rule(s) invoked:** RULES-GS (kyrios Option C divine name), v3.2 name rendering, Rule 11 (grammatical additions), Rule 28 (provisional), Rule 29 (dual-labels), Rule 30 (divine-speech markers).
+- **Name rendering (familiar = Almeida tradition; transliteration mirrors EN byte-for-byte):** Yeshua→Jesus, Yochanan→João, Shimon Kefa→Simão Pedro, Andreas→André, Ya'aqov→Tiago (apostle; via Lat. *Iacomus*, distinct from patriarch Jacó), Zavdai→Zebedeu, Levi→Levi, Philippos→Filipe, Bar-Talmai→Bartolomeu, Mattai→Mateus, Toma→Tomé, Chalfai→Alfeu, Taddai→Tadeu (Lebbaeus→Lebeu), Shimon the Kena'ani→Simão o Cananeu, Yehudah Ish-Keriot→Judas Iscariotes; places Yarden→Jordão, Galil→Galileia, Natzeret→Nazaré, Kfar Nachum→Cafarnaum. "Filho do Homem", "filhos do trovão" (Boanerges).
+- **Divine name:** YHWH (pt-br keeps YHWH, not JHWH) in body cross-refs; main text uses κύριος→"o Senhor" (Option C). Divine-name-policy metadata = canonical `κύριος (kyrios)`.
+- **Markers:** @@/{t:}/{a:} counts parity-verified equal to EN per file (ch1 30/0/7, ch2 34/0/1, ch3 26/0/3); grammatical `*added*` localized to pt-br needs. One fix during QA: a nested `*{a:vento/espírito}*` (Mark 1:8) collapsed to plain `{a:vento/espírito}` (PT needs no article where EN adds `*the*`).
+- **Structural headers + dual-label forms:** copied verbatim from pt-br/matthew (parser byte-match); claim-type/confidence labels use registered pt-br forms (TEXTUAL/INFERÊNCIA FORTE/POSSÍVEL/RECEPÇÃO POSTERIOR/HISTÓRICO·ARQUEOLÓGICO; VERIFICADO/PROVÁVEL/POSSÍVEL/DOCUMENTADO).
+- **Cross-book PEOPLE:** 3 see-only stubs (Yeshua, Yochanan o Imersor, Miryam) keep `**Ver:** matthew/PEOPLE.md` + `**Em Marcos:**` role; resolve to pt-br/matthew (no dangling).
+- **AI provenance:** claude-opus-4-8 (1M) + general-purpose subagents, 2026-06-21. Gates green (882 tests; conservation 222 files→12258 units, additive; content:lint clean; lint/build clean); pages render (8 routes 200, markers styled, no literals leak); visual-checked Mark 1 read page.
+- **Status:** provisional. **Reviewers:** pt-br locale-editor unassigned (Rule 28).
+- **Cross-references:** `PLAN_MARK_PROPAGATION.md`; `AUDIT_MARK_PROPAGATION_PLAN.md`.
+
+---
+
+## Entry 2026-06-21-006 — Mark 1–3 propagation to DE
+
+- **Scope:** all 9 Mark files mirrored EN→de (chapters, companions, INTRODUCTION, PEOPLE, CONTEXT). GS-governed; mirror-EN.
+- **Rule(s):** RULES-GS (kyrios Option C), v3.2 names, Rule 11 (DE article additions vom/zum marked italic), Rule 28 (provisional), Rule 30.
+- **Name rendering (familiar = Luther tradition; transliteration mirrors EN):** Yeshua→Jesus, Yochanan→Johannes, Shimon Kefa→Simon Petrus, Andreas→Andreas (collapsed — Luther familiar == translit), Ya'aqov→Jakobus, Zavdai→Zebedäus, Levi→Levi, Philippos→Philippus, Bar-Talmai→Bartholomäus, Mattai→Matthäus, Toma→Thomas, Chalfai→Alphäus, Taddai→Thaddäus, Shimon the Kena'ani→…Kananäer, Yehudah Ish-Keriot→Judas Iskariot; Yarden→Jordan, Galil→Galiläa, Natzeret→Nazaret, Kfar Nachum→Kafarnaum, Evyatar→Abjatar, Achimelech (Luther). "Menschensohn", "Sohn des Menschen" (literal note).
+- **Divine name: `JHWH` (not YHWH)** — applied to ALL body cross-refs, not just metadata (audit Minor 2): verified 0 `YHWH` in de/mark; served HTML shows JHWH (Notes view 19 JHWH / 0 YHWH). Main text κύριος→„der Herr" (Option C). German „…" quotes; sprach/sagte.
+- **Markers:** @@/{t:}/{a:} parity = EN per file (ch1 30/0/7, ch2 34/0/1, ch3 26/0/3); `{a:Wind/Geist}`; no nested form. QA fix: 3 redundant `Andreas (Andreas)` collapsed to `Andreas` (v3.3.1).
+- **Headers + dual-labels:** copied verbatim from de/matthew; claim/confidence use registered de forms (TEXTUELL/STARKE·MÖGLICHE SCHLUSSFOLGERUNG/SPÄTERE REZEPTION/HISTORISCH·ARCHÄOLOGISCH/VERGLEICHENDE PARALLELE; VERIFIZIERT/WAHRSCHEINLICH/MÖGLICH/DOKUMENTIERT/UNSICHER).
+- **Cross-book PEOPLE:** 3 see-only stubs keep `**Siehe:** matthew/PEOPLE.md` + `**In Markus:**`. NOTE: see-stubs render as plain text (not a link) — a **pre-existing project-wide bug** (people-parser drops `crossBookSeeBook` in its final object map; affects en/matthew + en/mark on main equally), independent of this propagation. Logged in PENDING.
+- **AI provenance:** claude-opus-4-8 (1M) + subagents, 2026-06-21. Gates green (882 tests; conservation 231 files→12685 units additive; content:lint clean; lint/build; 7 routes 200, markers styled, JHWH/0-YHWH in served HTML); visual-checked de/mark people.
+- **Status:** provisional. **Reviewers:** de locale-editor unassigned (Rule 28).
+- **Cross-references:** `PLAN_MARK_PROPAGATION.md`; entry 2026-06-21-005 (PT-BR).
+
+---
+
+## Entry 2026-06-21-007 — Mark 1–3 propagation to ES
+
+- **Scope:** all 9 Mark files mirrored EN→es (chapters, companions, INTRODUCTION, PEOPLE, CONTEXT). GS-governed; mirror-EN.
+- **Rule(s):** RULES-GS (kyrios Option C), v3.2 names, Rule 28 (provisional), Rule 30.
+- **Name rendering (familiar = Reina-Valera; transliteration mirrors EN):** Yeshua→Jesús, Yochanan→Juan, Shimon Kefa→Simón Pedro, Andreas→Andrés, Ya'aqov→Jacobo/Santiago (Santiago for the apostle in RV), Zavdai→Zebedeo, Levi→Leví, Philippos→Felipe, Bar-Talmai→Bartolomé, Mattai→Mateo, Toma→Tomás, Chalfai→Alfeo, Taddai→Tadeo, Shimon the Kena'ani→…Cananeo, Yehudah Ish-Keriot→Judas Iscariote; Yarden→Jordán, Galil→Galilea, Natzeret→Nazaret, Kfar Nachum→Capernaúm, Tsor/Tsidón→Tiro/Sidón.
+- **Divine name: `YHWH` (kept — Spanish J=/x/, RULES-CORE L1226; NOT JHWH):** verified 0 JHWH in es/mark; served HTML YHWH-only. Main text κύριος→"el Señor" (Option C). Pan-Hispanic neutral register (no voseo/vosotros); diacritics intact (§0.3); Reina-Valera Option B declaration present (§0.4).
+- **Markers:** @@/{t:}/{a:} parity = EN per file (ch1 30/0/7, ch2 34/0/1, ch3 26/0/3); `{a:viento/espíritu}`; no nested form. QA fix: ch3 had 2 dropped `{a:}` body markers (agent truncated at session limit) — restored "blasfeme contra el {a:viento/espíritu} santo" (3:29, continuous + verse).
+- **Headers + dual-labels:** copied verbatim from es/matthew; claim/confidence use registered es forms (TEXTUAL/INFERENCIA FUERTE·POSIBLE/RECEPCIÓN POSTERIOR/HISTÓRICO·ARQUEOLÓGICO/PARALELO COMPARATIVO; VERIFICADO/PROBABLE/POSIBLE/DOCUMENTADO/INCIERTO).
+- **Cross-book PEOPLE:** 3 see-only stubs keep `**Ver:** matthew/PEOPLE.md` + `**En Marcos:**` (plain-text render — the pre-existing crossBookSeeBook bug, see PENDING).
+- **AI provenance:** claude-opus-4-8 (1M) + subagents, 2026-06-21. Gates green (882 tests; conservation 240 files→13112 units additive; content:lint clean incl. §0.3/§0.4; lint/build; 7 routes 200, markers styled, YHWH/0-JHWH); visual-checked es/mark ch3.
+- **Status:** provisional. **Reviewers:** es locale-editor unassigned (Rule 28).
+- **Cross-references:** `PLAN_MARK_PROPAGATION.md`; entries 2026-06-21-005 (PT-BR), -006 (DE). **Mark now complete in all four locales.**
