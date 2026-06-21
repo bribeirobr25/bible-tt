@@ -107,3 +107,18 @@ Decision log for the TT rendering of Mark, per RULES-CORE §Editorial Log Specif
 - **AI provenance:** claude-opus-4-8 (1M) + general-purpose subagents, 2026-06-21. Gates green (882 tests; conservation 222 files→12258 units, additive; content:lint clean; lint/build clean); pages render (8 routes 200, markers styled, no literals leak); visual-checked Mark 1 read page.
 - **Status:** provisional. **Reviewers:** pt-br locale-editor unassigned (Rule 28).
 - **Cross-references:** `PLAN_MARK_PROPAGATION.md`; `AUDIT_MARK_PROPAGATION_PLAN.md`.
+
+---
+
+## Entry 2026-06-21-006 — Mark 1–3 propagation to DE
+
+- **Scope:** all 9 Mark files mirrored EN→de (chapters, companions, INTRODUCTION, PEOPLE, CONTEXT). GS-governed; mirror-EN.
+- **Rule(s):** RULES-GS (kyrios Option C), v3.2 names, Rule 11 (DE article additions vom/zum marked italic), Rule 28 (provisional), Rule 30.
+- **Name rendering (familiar = Luther tradition; transliteration mirrors EN):** Yeshua→Jesus, Yochanan→Johannes, Shimon Kefa→Simon Petrus, Andreas→Andreas (collapsed — Luther familiar == translit), Ya'aqov→Jakobus, Zavdai→Zebedäus, Levi→Levi, Philippos→Philippus, Bar-Talmai→Bartholomäus, Mattai→Matthäus, Toma→Thomas, Chalfai→Alphäus, Taddai→Thaddäus, Shimon the Kena'ani→…Kananäer, Yehudah Ish-Keriot→Judas Iskariot; Yarden→Jordan, Galil→Galiläa, Natzeret→Nazaret, Kfar Nachum→Kafarnaum, Evyatar→Abjatar, Achimelech (Luther). "Menschensohn", "Sohn des Menschen" (literal note).
+- **Divine name: `JHWH` (not YHWH)** — applied to ALL body cross-refs, not just metadata (audit Minor 2): verified 0 `YHWH` in de/mark; served HTML shows JHWH (Notes view 19 JHWH / 0 YHWH). Main text κύριος→„der Herr" (Option C). German „…" quotes; sprach/sagte.
+- **Markers:** @@/{t:}/{a:} parity = EN per file (ch1 30/0/7, ch2 34/0/1, ch3 26/0/3); `{a:Wind/Geist}`; no nested form. QA fix: 3 redundant `Andreas (Andreas)` collapsed to `Andreas` (v3.3.1).
+- **Headers + dual-labels:** copied verbatim from de/matthew; claim/confidence use registered de forms (TEXTUELL/STARKE·MÖGLICHE SCHLUSSFOLGERUNG/SPÄTERE REZEPTION/HISTORISCH·ARCHÄOLOGISCH/VERGLEICHENDE PARALLELE; VERIFIZIERT/WAHRSCHEINLICH/MÖGLICH/DOKUMENTIERT/UNSICHER).
+- **Cross-book PEOPLE:** 3 see-only stubs keep `**Siehe:** matthew/PEOPLE.md` + `**In Markus:**`. NOTE: see-stubs render as plain text (not a link) — a **pre-existing project-wide bug** (people-parser drops `crossBookSeeBook` in its final object map; affects en/matthew + en/mark on main equally), independent of this propagation. Logged in PENDING.
+- **AI provenance:** claude-opus-4-8 (1M) + subagents, 2026-06-21. Gates green (882 tests; conservation 231 files→12685 units additive; content:lint clean; lint/build; 7 routes 200, markers styled, JHWH/0-YHWH in served HTML); visual-checked de/mark people.
+- **Status:** provisional. **Reviewers:** de locale-editor unassigned (Rule 28).
+- **Cross-references:** `PLAN_MARK_PROPAGATION.md`; entry 2026-06-21-005 (PT-BR).
