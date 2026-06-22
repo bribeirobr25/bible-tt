@@ -17,6 +17,16 @@ Per `docs/audit/PLAN_TIER4_NAME_DEDUP.md` + RULES-HB v3.3.1. Removed **118** red
 
 ---
 
+## Cross-book see-stub link fix (2026-06-22)
+
+Per `docs/audit/PLAN_CROSSBOOK_SEELINK_FIX.md` (externally audited APPROVE, `AUDIT_CROSSBOOK_SEELINK_FIX_PLAN.md`; Finding 1 + 2 test refinements folded in). Fixed a **pre-existing project-wide bug** (surfaced during Mark propagation): cross-book see-only PEOPLE stubs rendered the pointer as plain text, never a link, in all books/locales. Root cause — `people-parser.ts` `finalizeEntry()` (the per-entry `PersonEntry` builder, line ~562) returned `crossBookSee` but **omitted `crossBookSeeBook`** (parsed at ~273, typed, consumed by `person-card` ~145) → always `undefined` → `CrossBookSeeField` always took the plain-text fallback. An incomplete Tier-4 S2a change.
+
+**Fix:** 1-line pass-through (`crossBookSeeBook: raw.crossBookSeeBook,`) in `finalizeEntry` + a 4-case people-parser regression test (authored / non-stub / malformed-pointer / case-variant) closing the test gap that let it ship. Now authored targets (genesis, matthew) render as **localized-label cross-book links** (Matthew/Mateus/Matthäus/Mateo) across all 4 locales; unauthored forward-refs (exodus/isaiah/kings/acts) keep the graceful plain-text fallback via the `bookLabels` guard. Conservation-safe by construction (`crossBookSeeBook` is never a conservation unit — `emitPeople` reads `name` only); the README "clickable cross-book link" claim is now accurate.
+
+Gates: **886 tests** (882 + 4) · conservation **240 files/13112 units unchanged** · lint/build clean · served-HTML across 4 locales (mark→matthew + john→matthew + matthew→genesis links render with correct labels; exodus/isaiah/kings stay plain text). Visual (Docker MCP) deferred — MCP browser disconnected at execution; rendered markup verified via curl instead. Own atomic commit `2624bc8`.
+
+---
+
 ## Mark 1–3 propagation to PT-BR / DE / ES (2026-06-21)
 
 Per `docs/audit/PLAN_MARK_PROPAGATION.md` (self-audited + externally audited APPROVE). Propagated the EN-only Mark pilot to the other three locales — **27 new files** (9 per locale: CHAPTER-1/2/3, study/CHAPTER-1/2/3-CONTEXT, INTRODUCTION, PEOPLE, CONTEXT). Mark is now four-locale, matching Genesis/John/Matthew. AI-drafted mirror-EN (parallel subagents) → `provisional` pending Rule-28 locale-editor sign-off (the Matthew/John precedent).
