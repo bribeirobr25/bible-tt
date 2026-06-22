@@ -2,6 +2,13 @@
 
 **Status:** PLANNED (awaiting sign-off) · **Date:** 2026-06-22 · **Class:** code fix (parser mapping) + regression test · **Risk:** Low code / Medium blast-radius (project-wide render change)
 
+> **Self-audit disposition (verified against source 2026-06-22):**
+> 1. **Only the book is missing — the pointer already renders.** `crossBookSee: raw.crossBookSee,` IS in the return map (line 51 of the block); `crossBookSeeBook` is the sole omission. So today the stub shows the raw pointer text ("matthew/PEOPLE.md"); the fix adds link resolution.
+> 2. **Displayed text changes for authored targets (not just clickability).** After the fix, an authored stub renders the **localized book label** (`bookLabels[book]` = `t("book.matthew")` → "Matthew"/"Mateus"/"Matthäus"/"Mateo") as a link, replacing the raw "matthew/PEOPLE.md" path. This is the designed behavior (better UX) — noted so it isn't mistaken for data loss. Dangling targets keep showing the raw pointer (fallback).
+> 3. **G4 footer-collision trap (the false positive that fooled the discovery).** site-footer links to `genesis/people` on every page. So `href=".../matthew/people"` on a mark/john people page is **uniquely** the cross-book link (footer never targets matthew) → use mark→matthew + john→matthew as the clean positive assertions. matthew→genesis collides with the footer → assert via the in-card `.fv > a` selector, not a bare href grep. G4 rewritten accordingly.
+> 4. **Sole consumer + conservation-proof.** Only `person-card.tsx:145` reads `crossBookSeeBook` (no structured-layer/SEO consumer). Conservation's `person` unit = `d.entries.map(p => p.name)` (name only) — `crossBookSeeBook` is never serialized into any unit, so the fix cannot shift conservation counts/content (G2 solid).
+> 5. Authored link targets actually present in the corpus: **matthew** (from john + mark stubs) and **genesis** (from matthew stubs); unauthored forward-refs (exodus/isaiah/kings/acts) stay plain text.
+
 ---
 
 ## 1. Problem (root cause confirmed against source)
@@ -49,8 +56,9 @@ No existing test asserts `crossBookSeeBook` survives parsing. Add a **people-par
 | G1 | `pnpm test` incl. the new regression test | green; new test asserts `crossBookSeeBook` flows |
 | G2 | conservation | **11,831-class total unchanged** (field is not a conservation unit — verified; emitPeople untouched) |
 | G3 | `pnpm lint` · `pnpm build` | clean |
-| G4 | served-HTML — **authored target now links** | `curl …/en/mark/people` → `href="/en/matthew/people"` present (was 0); same for `…/en/matthew/people` → `/en/genesis/people` cross-book link (distinct from the footer's genesis link — assert the in-card `.fv > a`) |
-| G5 | served-HTML — **dangling target still plain text** | a john stub → `exodus/PEOPLE.md` renders as plain text, no `href="/…/exodus/people"` |
+| G4 | served-HTML — **authored target now links** (footer-collision-free) | `curl …/en/mark/people` → `href="/en/matthew/people"` present (was 0) — **uniquely the cross-book link** since the footer only targets `genesis/people`. Same for `…/en/john/people` → `href="/en/matthew/people"`. For `…/en/matthew/people` → genesis: assert the **in-card** link (`class="fv"` span containing `href="/en/genesis/people"`), NOT a bare href grep (footer also links genesis — the exact false positive that masked this bug at discovery). |
+| G5 | served-HTML — **dangling target still plain text** | on `…/en/john/people`, the `exodus/PEOPLE.md` (+ isaiah/kings) stubs render as plain text — **no** `href="/…/exodus/people"` / `…/isaiah/people` / `…/kings/people`. Confirms the graceful dangling-pointer fallback is preserved. |
+| G4b | displayed text | authored stub now shows the localized book label (e.g. "Mateus") not the raw "matthew/PEOPLE.md" path; dangling stub still shows the raw pointer. |
 | G6 | visual (Docker MCP) | a people page with a working cross-book link (Mark→Matthew) + one with a dangling ref (John→Exodus) render correctly; link styled per design (`.text-accent`, focus ring) |
 | G7 | all 4 locales | the link renders in en/pt-br/de/es (label localized via `book.*` i18n) |
 
