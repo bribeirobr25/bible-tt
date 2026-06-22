@@ -100,6 +100,7 @@ export default async function PeoplePage({
     genesis: t("book.genesis"),
     matthew: t("book.matthew"),
     mark: t("book.mark"),
+    luke: t("book.luke"),
     john: t("book.john"),
   };
 

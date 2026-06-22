@@ -7,13 +7,25 @@ in `docs/audit/PENDING.md`.
 > The **Plan artifact** column references per-phase plan docs removed in the 2026-06-12
 > documentation lean-up (completed plans). The **What it did** column is the authoritative record.
 
-**Latest editorial-log anchors:** `genesis.md` Entry `2026-06-19-120` · `john.md` J-036 · `matthew.md` M-034 · `mark.md` `2026-06-21-007`.
+**Latest editorial-log anchors:** `genesis.md` Entry `2026-06-19-120` · `john.md` J-036 · `matthew.md` M-034 · `mark.md` `2026-06-21-007` · `luke.md` L-002.
 
 ---
 
 ## Tier 4 Strand 3 — redundant `Name (Name)` content pass (2026-06-20)
 
 Per `docs/audit/PLAN_TIER4_NAME_DEDUP.md` + RULES-HB v3.3.1. Removed **118** redundant identical doublings `X (X)` → `X` across 29 content files (4 locales; de 92 / es 12 / en 10 / pt-br 4). All genuine redundancies — the `\1` pattern can't match qualified comparisons (`Lamech (Cainite)`), so there were no intentional-exception false positives. 32 PEOPLE `## Name (Name)` headings (render-equivalent — `person-card` already suppressed `familiarName === name`), 48 table cells + 34 prose (visible cleanup), + 4 accented-capital `Ägypten (Ägypten)` an initial ASCII-only pass missed (caught by the rendered-DOM check). **Cleared `content:lint §0.11` (DE redundant-parens).** Gate green (882 tests, lint, build, content:lint; conservation 11,831 unchanged); diff is purely paren removals (104 lines, 0 collateral). **Flagged, not fixed here:** 16 lowercase `kyrios (kyrios)` in the templated Divine-Name-Policy metadata — handled separately (next section).
+
+---
+
+## Luke 1–3 — new book (EN authored from Greek) (2026-06-22)
+
+Per `docs/audit/PLAN_LUKE_EXPANSION.md` (self-audited + externally audited APPROVE). **Book #5 activated** and **Luke 1–3 authored in EN from NA28 Greek** — the first new book authored *from source* this program (vs. Mark's propagation). 12 EN files: chapters 1–3 (170 verses, transparent register, RULES-GS), 3 companions (§A–§I), INTRODUCTION (+ load-bearing `<!-- CARD -->`), PEOPLE (6 Luke-canonical entries + concise historical figures + 3 cross-book see-stubs → matthew + the **Luke-3 genealogy table**, ~76 names Yeshua→Adam, cross-book to genesis/matthew), CONTEXT (6 motifs), 3 PROPHECY files (17 entries, citation-vs-allusion restraint). All **provisional pending Hellenist review (Rule 28)**.
+
+**Activation (8 touchpoints):** `AVAILABLE_BOOKS`, `BOOK_ORDER` (genesis·matthew·mark·luke·john), `bookLabels`, people-parser `inBook` aliases, i18n book.luke + heroTagline + **sectionKick "Four→Five books"** ×4 locales, content-lint (EN luke paths + the audit's §0.12 hash/glob so the genealogy pointers are validated + §0.11 de/luke & de/mark backfill), RULES-CORE see-target allow-list, editorial-log/luke.md + greek/luke-1-3.md. (Verified the checklist's `people.inBook` i18n key doesn't exist — skipped.)
+
+**Rule decisions (editorial-log/luke.md):** Gabriel (*angelos*) + the canticles (Magnificat/Benedictus/Gloria/Nunc Dimittis) NOT divine-marked (Rule 30, per the Matthew-*malakh* precedent); the 2:49 Yeshua saying + the 3:22 Bat-Qol ARE marked. **Canticle render spike (L-002):** poetry = flowing prose (prose mode collapses `\n`; a global change would regress every existing multi-line verse) — the established convention; full poetic lineation deferred with the Hebrew-poetry genre (Psalms/Proverbs/Ecclesiastes, also deferred). QA fix: an unregistered `INTERPRETIVE` claim label → `STRONG INFERENCE`.
+
+**Gates:** activation-consistency 8/8 (the machine backstop); 886 tests; conservation 252 files/13,821 units; lint/content:lint/build clean. **Visual (Docker MCP):** book hub (GREEK SCRIPTURES corpus + AT-A-GLANCE CARD), people/genealogy (table + cross-book links), /books (5 books + "Five books"), chapter (markers + Magnificat-as-prose). Non-EN books index correctly excludes unauthored Luke (no broken links). EN-first; **PT-BR/DE/ES propagation pending** (Mark-style, next).
 
 ---
 

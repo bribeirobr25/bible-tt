@@ -2,11 +2,11 @@
 
 ## What this project is
 
-The Transparent Translation (TT) — a multilingual Bible translation project with a web application for reading, studying, and exploring contextual enrichment. The translation currently covers Genesis 1–12, John 1–3, Matthew 1–3, and Mark 1–3 in English, Brazilian Portuguese, German, and Spanish, governed by a 30-rule system that prioritizes source-text fidelity, ambiguity preservation, and theological restraint.
+The Transparent Translation (TT) — a multilingual Bible translation project with a web application for reading, studying, and exploring contextual enrichment. The translation currently covers Genesis 1–12, John 1–3, Matthew 1–3, and Mark 1–3 in English, Brazilian Portuguese, German, and Spanish, plus a Luke 1–3 pilot in English (other locales pending), governed by a 30-rule system that prioritizes source-text fidelity, ambiguity preservation, and theological restraint.
 
 ## Verified state
 
-- **Scope:** Genesis 1–12, John 1–3, Matthew 1–3, Mark 1–3 — all four locales (EN, PT-BR, DE, ES). Each book has chapters + INTRODUCTION + PEOPLE + study companions (CONTEXT, and PROPHECY where warranted). (Mark propagated to PT-BR/DE/ES 2026-06-21, provisional.)
+- **Scope:** Genesis 1–12, John 1–3, Matthew 1–3, Mark 1–3 — all four locales (EN, PT-BR, DE, ES); plus a **Luke 1–3 pilot in EN only** (PT-BR/DE/ES propagation pending — see `editorial-log/luke.md`). Each book has chapters + INTRODUCTION + PEOPLE + study companions (CONTEXT, and PROPHECY where warranted). (Mark propagated 2026-06-21; Luke EN authored from NA28 2026-06-22, provisional pending Hellenist — Rule 28.)
 - **Rulesets:** RULES-CORE **v3.4** · RULES-HB **v3.3.1** · RULES-GS **v3.2** (lock). 30 rules total. (v3.4 adds Rule 30 — divine-speech marking — + the Text-Highlight Markers convention: `*added*`/`{t:…}`/`{a:…}`/`@@…@@`.)
 - **Tests:** 882 passing (`pnpm test`); `pnpm build`, `pnpm lint`, `pnpm content:lint` all clean.
 - **UX/Structure program (Phases 1–5, committed 2026-06):** SEO baseline (Phase 1); derived `StructuredUnit` layer + stable IDs guarded by the conservation gate (`__tests__/conservation.test.ts` — proves zero loss in the *parser→structured derivation*; chapter-completeness + inventory guards backstop raw-markdown coverage; markdown stays source of truth) (Phase 2); **3-door IA — Read · Notes · Deeper** (`ChapterShell`/`DoorNav`/`NotesView`/`DeeperView`; `/context`→`/background`; verse `#v{n}` anchors) (Phase 3); content-QA + chapter-completeness guard (Phase 4); UX finish — teal/petrol accent `#006475`, civilizational landing, `/start` reading-plan, book "tight cards" (`<!-- CARD -->`→`BookCard`), and **chapter-overview de-jargon across all locales (Pattern C complete 2026-06-10)** (Phase 5). §I "World at the Time": two-level parser/UI + inline-`**Source:**` lift, then **§I Option C — per-category dating-scenario labels across all of Genesis 1–12 (2026-06-12, provisional)** + §I section-intro recovery. Per-item detail → `docs/audit/EXECUTION_HISTORY.md`.
@@ -25,7 +25,7 @@ Pointers (do not duplicate their content here):
 
 ```
 bible-tt/
-├── content/{en,pt-br,de,es}/{genesis,john,matthew,mark}/   # CHAPTER-N, INTRODUCTION, PEOPLE
+├── content/{en,pt-br,de,es}/{genesis,john,matthew,mark}/   # CHAPTER-N, INTRODUCTION, PEOPLE  (+ en/luke — EN-only pilot)
 │   └── study/                                          # CHAPTER-N-CONTEXT; CHAPTER-N-PROPHECY (where warranted)
 │   └── CONTEXT.md                                      # book-level cross-chapter motifs
 ├── docs/
