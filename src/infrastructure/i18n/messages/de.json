@@ -7,8 +7,8 @@
   "books": {
     "heroKicker": "Derzeit übersetzt",
     "heroTitle": "Die Bücher.",
-    "heroTagline": "Genesis 1–12 · Matthäus 1–3 · Markus 1–3 · Johannes 1–3 — jeweils mit Kapiteln, Studienbegleitern, Einführungen und Personen.",
-    "sectionKick": "Vier Bücher, vier Sprachen",
+    "heroTagline": "Genesis 1–12 · Matthäus 1–3 · Markus 1–3 · Lukas 1–3 · Johannes 1–3 — jeweils mit Kapiteln, Studienbegleitern, Einführungen und Personen.",
+    "sectionKick": "Fünf Bücher, vier Sprachen",
     "readNow": "Jetzt lesen",
     "corpusHebrew": "Hebräische Bibel",
     "corpusGreek": "Griechische Schriften",
@@ -78,7 +78,8 @@
     "genesis": "Genesis",
     "john": "Johannes",
     "matthew": "Matthäus",
-    "mark": "Markus"
+    "mark": "Markus",
+    "luke": "Lukas"
   },
   "confidence": {
     "verified": "Bestätigt",
