@@ -560,6 +560,7 @@ function finalizeEntry(raw: Partial<PersonEntry>): PersonEntry {
     generationsFrom: raw.generationsFrom,
     regionsByText: raw.regionsByText,
     crossBookSee: raw.crossBookSee,
+    crossBookSeeBook: raw.crossBookSeeBook,
     inBook: raw.inBook,
   };
 }

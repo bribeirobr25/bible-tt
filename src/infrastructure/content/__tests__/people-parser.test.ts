@@ -568,4 +568,37 @@ describe("people-parser", () => {
       warnSpy.mockRestore();
     });
   });
+
+  // ============================================================
+  // crossBookSeeBook pass-through (regression — the field was parsed + typed +
+  // consumed by person-card but dropped in finalizeEntry's return, so cross-book
+  // see-stubs rendered as plain text instead of links). Locks success + failure.
+  // ============================================================
+  describe("cross-book see-stub: crossBookSeeBook pass-through", () => {
+    it("authored stub: parses the book slug AND keeps the raw pointer", () => {
+      const md = `## Yeshua (Jesus)\n\n**See:** matthew/PEOPLE.md\n**In Mark:** central figure\n`;
+      const r = parsePeopleMarkdown(md, "mark");
+      expect(r.entries[0].crossBookSeeBook).toBe("matthew");
+      expect(r.entries[0].crossBookSee).toBe("matthew/PEOPLE.md");
+    });
+
+    it("non-stub entry: crossBookSeeBook is undefined", () => {
+      const md = `## Adam (Adam)\n\n**Meaning:** human\n**First mention:** Gen 1:1\n**Mentioned in:** Gen 1:1\n`;
+      const r = parsePeopleMarkdown(md, "genesis");
+      expect(r.entries[0].crossBookSeeBook).toBeUndefined();
+    });
+
+    it("malformed pointer: no slug, but raw pointer preserved (graceful fallback)", () => {
+      const md = `## Yeshua (Jesus)\n\n**See:** Matthew\n**In Mark:** central figure\n`;
+      const r = parsePeopleMarkdown(md, "mark");
+      expect(r.entries[0].crossBookSeeBook).toBeUndefined();
+      expect(r.entries[0].crossBookSee).toBe("Matthew");
+    });
+
+    it("case-variant pointer: resolves to lowercased slug (pins /i + toLowerCase)", () => {
+      const md = `## Yeshua (Jesus)\n\n**See:** Matthew/PEOPLE.md\n**In Mark:** central figure\n`;
+      const r = parsePeopleMarkdown(md, "mark");
+      expect(r.entries[0].crossBookSeeBook).toBe("matthew");
+    });
+  });
 });
