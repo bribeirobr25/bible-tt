@@ -23,7 +23,7 @@ Per `docs/audit/PLAN_CROSSBOOK_SEELINK_FIX.md` (externally audited APPROVE, `AUD
 
 **Fix:** 1-line pass-through (`crossBookSeeBook: raw.crossBookSeeBook,`) in `finalizeEntry` + a 4-case people-parser regression test (authored / non-stub / malformed-pointer / case-variant) closing the test gap that let it ship. Now authored targets (genesis, matthew) render as **localized-label cross-book links** (Matthew/Mateus/Matthäus/Mateo) across all 4 locales; unauthored forward-refs (exodus/isaiah/kings/acts) keep the graceful plain-text fallback via the `bookLabels` guard. Conservation-safe by construction (`crossBookSeeBook` is never a conservation unit — `emitPeople` reads `name` only); the README "clickable cross-book link" claim is now accurate.
 
-Gates: **886 tests** (882 + 4) · conservation **240 files/13112 units unchanged** · lint/build clean · served-HTML across 4 locales (mark→matthew + john→matthew + matthew→genesis links render with correct labels; exodus/isaiah/kings stay plain text). Visual (Docker MCP) deferred — MCP browser disconnected at execution; rendered markup verified via curl instead. Own atomic commit `2624bc8`.
+Gates: **886 tests** (882 + 4) · conservation **240 files/13112 units unchanged** · lint/build clean · served-HTML across 4 locales (mark→matthew + john→matthew + matthew→genesis links render with correct labels; exodus/isaiah/kings stay plain text). Visual (Docker MCP) confirmed 2026-06-22: en/mark + en/john people pages — authored cross-book links render as accent labels, unauthored forward-refs (Moses/Elijah/Isaiah) stay plain text. Own atomic commit `2624bc8`.
 
 ---
 
