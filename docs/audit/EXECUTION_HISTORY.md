@@ -7,7 +7,19 @@ in `docs/audit/PENDING.md`.
 > The **Plan artifact** column references per-phase plan docs removed in the 2026-06-12
 > documentation lean-up (completed plans). The **What it did** column is the authoritative record.
 
-**Latest editorial-log anchors:** `genesis.md` Entry `2026-06-19-120` · `john.md` J-036 · `matthew.md` M-034 · `mark.md` `2026-06-21-007` · `luke.md` L-002.
+**Latest editorial-log anchors:** `genesis.md` Entry `2026-06-19-120` · `john.md` J-036 · `matthew.md` M-034 · `mark.md` `2026-06-21-007` · `luke.md` L-005.
+
+---
+
+## Luke 1–3 propagation to PT-BR / DE / ES (2026-06-23)
+
+Per `docs/audit/PLAN_LUKE_EXPANSION.md` Phases 2–5 (the propagation tail of the same audited-APPROVE plan). Propagated the EN-only Luke pilot to the other three locales — **36 new files** (12 per locale: CHAPTER-1/2/3, study/CHAPTER-1/2/3-CONTEXT + -PROPHECY, INTRODUCTION, PEOPLE, CONTEXT). Luke is now four-locale, matching Genesis/John/Matthew/Mark — **all five books at full locale parity.** AI-drafted mirror-EN (parallel subagents per file-group, each independently verified) → `provisional` pending Rule-28 locale-editor sign-off (the Mark/Matthew/John precedent).
+
+**Per-locale:** PT-BR Almeida names + YHWH (`5810bb3`); DE Luther names + JHWH (verified 0 YHWH in body; `245308a`); ES Reina-Valera names + YHWH + diacritics intact (`343a810`). κύριος→"o Senhor"/„der Herr"/"el Señor" (Option C, canonical metadata line); marker parity `@@`/`{t:}`/`{a:}` = EN per file (ch1 4/0/12, ch2 12/0/14, ch3 18/0/7); 3:22 Bat-Qol marked, Gabriel/canticles unmarked; canticles as prose; 76-row genealogy + 3 cross-book see-stubs (→ matthew) localized per locale.
+
+**QA fixes during execution:** PT-BR 3× / DE 6× / ES 2× redundant `Herodes (Herodes)` collapsed (v3.3.1); DE ch3 metadata convergence (the ch3 agent ran before ch1 finished); **ES register pass — the substantive finding:** the ES draft used peninsular **vosotros** forms (angel speech 2:10-12, Simeón's idou 2:25, John's preaching 3:8/13-14/16 + the companions' Isaiah 40:3 citations); the established ES TT convention is Latin-American **ustedes** (es/john/matthew/mark all 0 vosotros; `content-lint [legacy] Vosotros forms` is blocking). Converted all to ustedes against the es/matthew + main es/luke ch3 exemplars (`No tengáis miedo`→`No teman`, `os`→`les`, `vosotros`→`ustedes`, `no exijáis`→`no exijan`, TM `preparad`→`preparen`, etc.); ES ch3 tracking-header + TOC anchor normalized. `registry.ts` re-formatted multiline (biome).
+
+**Gates green each phase:** 886 tests; conservation additive **288 files / 15,945 units** (completeness + label guards pass); content:lint clean (incl. ES §0.3 diacritics / §0.4 RV-declaration / [legacy] vosotros; 1 pre-existing genesis warn); lint/build; served-HTML divine-name + marker + ustedes-only checks; visual per locale (Docker MCP — Lucas hub/chapter/people). content-lint extended for the 3 new locale Luke paths. Editorial log: luke.md L-003 (PT-BR) / L-004 (DE) / L-005 (ES).
 
 ---
 
