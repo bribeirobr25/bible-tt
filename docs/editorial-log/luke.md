@@ -35,3 +35,13 @@ This log records consistency decisions, justified exceptions, text-critical choi
 - **Cross-book PEOPLE:** 3 see-stubs keep `**Ver:** matthew/PEOPLE.md` + `**Em Lucas:**`; genealogy table (76 rows) localized. CARD + dual-labels use registered pt-br forms.
 - **AI provenance:** claude-opus-4-8 (1M) + subagents, 2026-06-23. Gates: 886 tests; conservation 264 files/14529 units; content:lint clean; build; visual (Lucas 1 + hub + people/genealogy + /books). Status provisional (Rule 28).
 - **Cross-references:** `PLAN_LUKE_EXPANSION.md`; L-001/L-002.
+
+## Entry L-004 — Luke 1–3 propagation to DE
+
+- **Scope:** all 12 EN Luke files mirrored EN→de. GS-governed; mirror-EN.
+- **Names:** Luther tradition (Johannes, Zacharias, Elisabeth, Maria, Gabriel, Jesus, Simeon, Hanna, Josef, Bethlehem, Nazareth, Jordan; genealogy David/Abraham/Adam/Sem/Noah…); transliterations mirror EN byte-for-byte.
+- **Divine name: `JHWH` (not YHWH)** — applied to ALL body cross-refs (verified 0 YHWH in de/luke; served Notes view shows 83 JHWH / 0 YHWH). Main text κύριος→„der Herr" (Option C); canonical metadata line; sprach/sagte; German „…" quotes.
+- **Markers:** @@/{t:}/{a:} parity = EN per file (ch1 4/0/12, ch2 12/0/14, ch3 18/0/7); 3:22 Bat-Qol marked, Gabriel/canticles unmarked; canticles as prose; no nested. QA: 6× redundant `Herodes (Herodes)` collapsed (ch3 ×5 + companion-1; the ch3 agent ran before ch1 finished and didn't collapse).
+- **Cross-book PEOPLE:** 3 see-stubs `**Siehe:** matthew/PEOPLE.md` + `**In Lukas:**`; genealogy table localized. CARD + dual-labels registered de forms.
+- **AI provenance:** claude-opus-4-8 (1M) + subagents, 2026-06-23. Gates: 886 tests; conservation 276 files/15237 units; content:lint clean; build; served HTML JHWH-only + CARD + cross-book links. Status provisional (Rule 28).
+- **Cross-references:** `PLAN_LUKE_EXPANSION.md`; L-003 (PT-BR).
