@@ -25,3 +25,13 @@ This log records consistency decisions, justified exceptions, text-critical choi
 - **Spike finding (verified against source):** both the Read view (`continuous-reading.tsx`) and Notes view (`verse-card.tsx`) render verse text via `renderMarkdownSafe(text, "prose")`, and **prose mode collapses `\n` → space** (`render-markdown-safe.ts`; only `"note"` mode emits `<br/>`). The parser *does* keep `\n` in `mainText` (`markdown-parser.ts:193 join("\n")`), but it's flattened at render. A global prose→`<br/>` change would regress **every existing multi-line verse** in Genesis/John/Matthew/Mark → rejected.
 - **Decision:** **author the canticles as flowing prose**, matching the established project-wide convention (all existing poetry — e.g. Genesis oracles — already renders run-on). No renderer/infra change. Visual poetic lineation is deferred with the Hebrew-poetry-genre question (Psalms/Proverbs/Ecclesiastes), out of scope for the Luke pilot.
 - **AI provenance:** claude-opus-4-8 (1M), 2026-06-22. Status: provisional.
+
+## Entry L-003 — Luke 1–3 propagation to PT-BR
+
+- **Scope:** all 12 EN Luke files mirrored EN→pt-br (chapters, companions, INTRODUCTION+CARD, PEOPLE+genealogy, CONTEXT, PROPHECY). GS-governed; mirror-EN per the Mark precedent.
+- **Names:** Almeida tradition (João, Zacarias, Isabel, Maria, Gabriel, Jesus, Simeão, Ana, José, Belém, Nazaré, Jordão; genealogy Davi/Abraão/Adão/Sem/Noé…); transliterations mirror EN byte-for-byte.
+- **Divine name:** YHWH (pt keeps YHWH, not JHWH — verified 0 JHWH); main text κύριος→"o Senhor" (Option C); canonical `κύριος (kyrios)` metadata line.
+- **Markers:** @@/{t:}/{a:} parity = EN per file (ch1 4/0/12, ch2 12/0/14, ch3 18/0/7); 3:22 Bat-Qol marked, Gabriel/canticles unmarked; canticles as prose; no nested. QA fixes: 3× redundant `Herodes (Herodes)` collapsed (ch1 + companion-1).
+- **Cross-book PEOPLE:** 3 see-stubs keep `**Ver:** matthew/PEOPLE.md` + `**Em Lucas:**`; genealogy table (76 rows) localized. CARD + dual-labels use registered pt-br forms.
+- **AI provenance:** claude-opus-4-8 (1M) + subagents, 2026-06-23. Gates: 886 tests; conservation 264 files/14529 units; content:lint clean; build; visual (Lucas 1 + hub + people/genealogy + /books). Status provisional (Rule 28).
+- **Cross-references:** `PLAN_LUKE_EXPANSION.md`; L-001/L-002.
