@@ -105,6 +105,8 @@ Log every decision in `docs/editorial-log/{book}.md` (schema in RULES-CORE.md §
 
 ## Content authoring
 
+**Kicking off a new book or chapter?** Start with the end-to-end runbook: `docs/guides/AUTHORING-PLAYBOOK.md` (Track A New-Chapter / Track B New-Book, artifact manifest, activation touchpoints, per-phase gate, and a living "Known Traps" register). The notes below are the per-file quick reference it builds on.
+
 **New chapter:**
 1. Create `content/{locale}/{book}/CHAPTER-N.md` following existing structure.
 2. Create `content/{locale}/{book}/study/CHAPTER-N-CONTEXT.md` from `docs/templates/contextual-companion-template.md`.
