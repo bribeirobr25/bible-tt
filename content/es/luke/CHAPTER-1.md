@@ -75,7 +75,7 @@ Las notas se etiquetan por tipo — **Crítico · Léxico · Gramatical · Teol�
 
 ³⁹Y María, levantándose en aquellos días, fue a la región montañosa con prisa, a un pueblo de Yehudah (Judá), ⁴⁰y entró en la casa de Zacarías y saludó a Isabel. ⁴¹Y sucedió, cuando Isabel oyó el saludo de María, *que* el bebé saltó en su vientre, e Isabel fue llena del {a:viento/espíritu} santo, ⁴²y exclamó con un gran grito y dijo: "Bendita *eres* tú entre las mujeres, y bendito *es* el fruto de tu vientre. ⁴³¿Y de dónde *es* esto a mí, que la madre de mi señor venga a mí? ⁴⁴Porque mira, cuando el sonido de tu saludo llegó a mis oídos, el bebé saltó de exultación en mi vientre. ⁴⁵Y bendita *es* la que creyó que habrá un cumplimiento de las *cosas* habladas a ella de parte del Señor."
 
-⁴⁶Y María dijo: "Mi alma magnifica al Señor, ⁴⁷y mi espíritu se exultó en Dios mi salvador, ⁴⁸porque miró sobre la humildad de su *sierva*. Porque mira, desde ahora *en adelante* todas las generaciones me llamarán bendita, ⁴⁹porque el Poderoso hizo grandes *cosas* por mí, y santo *es* su nombre, ⁵⁰y su misericordia *es* por generaciones y generaciones para los que le temen. ⁵¹Hizo *una* obra poderosa con su brazo; dispersó *a los* soberbios en *el* pensamiento de su corazón. ⁵²Derribó a gobernantes de tronos y levantó *a los* humildes; ⁵³*a los* hambrientos colmó de *cosas* buenas, y *a los* ricos despidió vacíos. ⁵⁴Ayudó a Israel su siervo, para recordar misericordia, ⁵⁵tal como habló a nuestros padres, a Avraham (Abraham) y a su simiente, por la edad." ⁵⁶Y María permaneció con ella como tres meses, y regresó a su casa.
+⁴⁶Y María dijo: "Mi alma magnifica al Señor, ⁴⁷y mi espíritu exultó en Dios mi salvador, ⁴⁸porque miró sobre la humildad de su *sierva*. Porque mira, desde ahora *en adelante* todas las generaciones me llamarán bendita, ⁴⁹porque el Poderoso hizo grandes *cosas* por mí, y santo *es* su nombre, ⁵⁰y su misericordia *es* por generaciones y generaciones para los que le temen. ⁵¹Hizo *una* obra poderosa con su brazo; dispersó *a los* soberbios en *el* pensamiento de su corazón. ⁵²Derribó a gobernantes de tronos y levantó *a los* humildes; ⁵³*a los* hambrientos colmó de *cosas* buenas, y *a los* ricos despidió vacíos. ⁵⁴Ayudó a Israel su siervo, para recordar misericordia, ⁵⁵tal como habló a nuestros padres, a Avraham (Abraham) y a su simiente, por la edad." ⁵⁶Y María permaneció con ella como tres meses, y regresó a su casa.
 
 ⁵⁷Y se cumplió el tiempo para que Isabel diera a luz, y dio a luz un hijo. ⁵⁸Y sus vecinos y parientes oyeron que el Señor había magnificado su misericordia con ella, y se regocijaban con ella. ⁵⁹Y sucedió al octavo día *que* vinieron a circuncidar al niño, y lo llamaban por el nombre de su padre, Zacarías. ⁶⁰Y su madre, respondiendo, dijo: "No; más bien será llamado Juan." ⁶¹Y le dijeron: "*No* hay nadie de tu parentela que sea llamado por este nombre." ⁶²Y le hacían señas a su padre *en cuanto a* cómo querría que se le llamara. ⁶³Y pidiendo una tablilla de escribir, escribió, diciendo: "Juan es su nombre." Y todos se maravillaron. ⁶⁴Y su boca fue abierta inmediatamente, y su lengua *soltada*, y hablaba, bendiciendo a Dios. ⁶⁵Y el temor vino sobre todos los que vivían alrededor de ellos, y en toda la región montañosa de Judea se hablaba de todos estos asuntos, ⁶⁶y todos los que *los* oían *los* guardaban en su corazón, diciendo: "¿Qué entonces será este niño?" Porque *la* mano del Señor estaba con él.
 
@@ -267,7 +267,7 @@ Y él será gozo y exultación para ti, y muchos se alegrarán por su nacimiento
 > **Notas**
 >
 > 🔵 **"GOZO Y EXULTACIÓN" — *CHARA KAI AGALLIASIS***
-> - **χαρὰ καὶ ἀγαλλίασις** (*chara kai agalliasis*) = "gozo y exultación." *Agalliasis* es un regocijo intenso, a menudo litúrgico — la misma raíz vuelve en el v.44 (el bebé salta "de exultación") y el v.47 (el espíritu de María "se exultó").
+> - **χαρὰ καὶ ἀγαλλίασις** (*chara kai agalliasis*) = "gozo y exultación." *Agalliasis* es un regocijo intenso, a menudo litúrgico — la misma raíz vuelve en el v.44 (el bebé salta "de exultación") y el v.47 (el espíritu de María "exultó").
 
 ---
 
@@ -662,12 +662,12 @@ Y Miryam (María) dijo: "Mi alma magnifica al Señor,
 
 ### **Versículo 47**
 
-y mi espíritu se exultó en Dios mi salvador,
+y mi espíritu exultó en Dios mi salvador,
 
 > **Notas**
 >
 > 🟡 **"DIOS MI SALVADOR" — *SŌTĒRI***
-> - **τῷ θεῷ τῷ σωτῆρί μου** (*tō theō tō sōtēri mou*) = "Dios mi salvador." *Sōtēr* ("salvador, libertador") aquí es Dios; el cognado *sōtēria* ("salvación") reaparece en el Benedictus (vv.69, 71, 77). El aoristo *ēgalliasen* ("se exultó") puede ser un pasado-como-presente de estilo semítico (griego de traducción del perfecto hebreo). → vea el Glosario, *sōtēr*.
+> - **τῷ θεῷ τῷ σωτῆρί μου** (*tō theō tō sōtēri mou*) = "Dios mi salvador." *Sōtēr* ("salvador, libertador") aquí es Dios; el cognado *sōtēria* ("salvación") reaparece en el Benedictus (vv.69, 71, 77). El aoristo *ēgalliasen* ("exultó") puede ser un pasado-como-presente de estilo semítico (griego de traducción del perfecto hebreo). → vea el Glosario, *sōtēr*.
 
 ---
 

@@ -47,7 +47,7 @@ Las notas se etiquetan por tipo — **Crítico · Léxico · Gramatical · Teol�
 
 **Temas clave:** La palabra como agente preexistente de la creación; luz contra oscuridad; testimonio como funcion primaria del Inmersor; "carne" — el griego carne abarca existencia física, mortal, corporea. Algunas tradiciones interpretativas paulinas lo traducen como "naturaleza pecaminosa" (contexto de Romanos 7-8); en Juan, carne es consistentemente físico/mortal; gracia/favor y verdad por medio de Jesús el ungido contra la ley por medio de Moisés; "Nadie ha visto a Dios jamás" — una afirmación de limite teológico; el cordero de Dios; el viento/espíritu descendiendo; la reunión de los primeros seguidores; el eco de la escalera de Jacob (Gen 28:12) en v.51.
 
-**Observe:** El imperfecto "era" en v.1 — existencia continua, contrastado con el aoristo "llegó a ser" en v.3; el limite ambiguo de frase en vv.3-4 (que pertenece a que); "en el era vida" o "lo que llegó a ser — en el era vida" — ambas lecturas anotadas; el cambio del prologo cósmico (vv.1-18) a la narrativa testimonial (vv.19-51); la triple negación de Juan (no el ungido, no Elías, no el Profeta); el profeta mosaico de Deut 18:15 detras de "el Profeta"; el cambio de nombre de Simón a Kefa (eco de Abram -> Abraham); "¿De Nazaret puede salir algo bueno?" — el escepticismo de Nathanael; el titulo hijo del hombre (primera ocurrencia en este Evangelio).
+**Observe:** El imperfecto "era" en v.1 — existencia continua, contrastado con el aoristo "llegó a ser" en v.3; el limite ambiguo de frase en vv.3-4 (que pertenece a que); "en él era vida" o "lo que llegó a ser — en él era vida" — ambas lecturas anotadas; el cambio del prologo cósmico (vv.1-18) a la narrativa testimonial (vv.19-51); la triple negación de Juan (no el ungido, no Elías, no el Profeta); el profeta mosaico de Deut 18:15 detras de "el Profeta"; el cambio de nombre de Simón a Kefa (eco de Abram -> Abraham); "¿De Nazaret puede salir algo bueno?" — el escepticismo de Nathanael; el titulo hijo del hombre (primera ocurrencia en este Evangelio).
 
 **Conexion:** La apertura "En *el* principio" (en arche) hace eco directo de Gen 1:1 (bereshit). La creación mediante la palabra en Gen 1 ("Y dijo Dios") encuentra su contraparte teológica en la palabra por medio del cual todas las cosas llegaron a ser. Luz y oscuridad (Gen 1:3-5) reaparecen como categorías cosmicas. El viento/espíritu moviéndose sobre las aguas (Gen 1:2) se conecta con el viento/espíritu descendiendo sobre Jesús en la inmersion. Los mensajeros ascendiendo y descendiendo (v.51) citan directamente la visión de la escalera de Jacob (Gen 28:12).
 
@@ -59,7 +59,7 @@ Las notas se etiquetan por tipo — **Crítico · Léxico · Gramatical · Teol�
 
 ---
 
-¹En el principio era la palabra, y la palabra estaba con Dios, y la palabra era Dios. ²Este era en el principio con Dios. ³Todas las cosas llegaron a ser por medio de él, y aparte de él ni una sola cosa llegó a ser. Lo que ha llegado a ser ⁴en el era vida, y la vida era la luz de los humanos. ⁵Y la luz brilla en la oscuridad, y la oscuridad no la venció.
+¹En el principio era la palabra, y la palabra estaba con Dios, y la palabra era Dios. ²Este era en el principio con Dios. ³Todas las cosas llegaron a ser por medio de él, y aparte de él ni una sola cosa llegó a ser. Lo que ha llegado a ser ⁴en él era vida, y la vida era la luz de los humanos. ⁵Y la luz brilla en la oscuridad, y la oscuridad no la venció.
 
 ⁶Llegó a ser un hombre, habiendo sido enviado de Dios — su nombre *era* Yochanan. ⁷Este vino para testimonio, para que testificara acerca de la luz, para que todos confiaran por medio de él. ⁸Él no era la luz, sino *que vino* para que testificara acerca de la luz. ⁹La luz verdadera, que ilumina a todo humano, estaba viniendo al mundo. ¹⁰Él estaba en el mundo, y el mundo llegó a ser por medio de él, y el mundo no lo conoció. ¹¹Vino a lo suyo *propio*, y los suyos *propios* no lo recibieron. ¹²Pero a todos los que lo recibieron, a ellos les dio el derecho de llegar a ser hijos de Dios — a los que confían en su nombre, ¹³los cuales nacieron no de sangres, ni de voluntad de carne, ni de voluntad de varón, sino de Dios.
 
@@ -121,8 +121,8 @@ Todas las cosas llegaron a ser por medio de él, y aparte de él ni una sola cos
 >
 > 🔴 **CRÍTICO — VARIANTE DE PUNTUACION (VV.3-4)**
 > - Los manuscritos griegos mas antiguos carecen de puntuacion. Son posibles dos lecturas:
-> - (A) Punto después de "llegó a ser" al final del v.3: "Aparte de el ni una sola cosa llegó a ser. Lo que ha llegado a ser, en el era vida." (seguida aquí)
-> - (B) Sin punto: "Aparte de el ni una sola cosa llegó a ser de lo que ha llegado a ser. En el era vida."
+> - (A) Punto después de "llegó a ser" al final del v.3: "Aparte de él ni una sola cosa llegó a ser. Lo que ha llegado a ser, en él era vida." (seguida aquí)
+> - (B) Sin punto: "Aparte de él ni una sola cosa llegó a ser de lo que ha llegado a ser. En el era vida."
 > - La lectura (A) es seguida por NA28 y la mayoria de las ediciones críticas modernas. La lectura (B) fue preferida por muchos Padres de la Iglesia. Ambas son gramaticalmente validas. La TT sigue el texto principal de NA28 según la política GS pero anota la alternativa.
 >
 > 🔵 **AORISTO *EGENETO* — LLEGO A SER**
@@ -135,7 +135,7 @@ Todas las cosas llegaron a ser por medio de él, y aparte de él ni una sola cos
 
 ### **Versículo 4**
 
-Lo que ha llegado a ser — en el era vida, y la vida era la luz de los humanos.
+Lo que ha llegado a ser — en él era vida, y la vida era la luz de los humanos.
 
 > **NOTAS**
 >

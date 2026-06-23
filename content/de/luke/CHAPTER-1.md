@@ -74,7 +74,7 @@ Notizen sind nach Typ gekennzeichnet — **Kritisch · Lexikalisch · Grammatisc
 
 ³⁹Und Maria machte sich auf in jenen Tagen und ging in das Bergland mit Eile, zu einer Stadt Yehudahs (Juda), ⁴⁰und sie trat in das Haus des Zacharias ein und grüßte Elisabeth. ⁴¹Und es geschah, als Elisabeth den Gruß Marias hörte, *dass* das Kind in ihrem Leib hüpfte, und Elisabeth wurde erfüllt mit *dem* heiligen {a:Wind/Geist}, ⁴²und sie rief mit großem Schrei und sprach: „Gesegnet *bist* du unter den Frauen, und gesegnet *ist* die Frucht deines Leibes. ⁴³Und woher *ist* mir dies, dass die Mutter meines Herrn zu mir kommt? ⁴⁴Denn siehe, als der Klang deines Grußes in meine Ohren kam, hüpfte das Kind vor Jubel in meinem Leib. ⁴⁵Und gesegnet *ist* die, die geglaubt hat, dass es eine Erfüllung der *Dinge* geben wird, die ihr vom Herrn gesagt wurden."
 
-⁴⁶Und Maria sprach: „Meine Seele macht den Herrn groß, ⁴⁷und mein Geist jubelte in Gott, meinem Retter, ⁴⁸denn er sah auf die Niedrigkeit seiner *Magd*. Denn siehe, von nun *an* werden mich alle Geschlechter selig preisen, ⁴⁹denn der Mächtige *Eine* hat Großes an mir getan, und heilig *ist* sein Name, ⁵⁰und sein Erbarmen *gilt* für Geschlechter und Geschlechter denen, die ihn fürchten. ⁵¹Er tat *eine* mächtige *Tat* mit seinem Arm; er zerstreute *die* Stolzen in *dem* Sinnen ihres Herzens. ⁵²Er stieß Herrscher von Thronen herab und erhöhte *die* Niedrigen; ⁵³*die* Hungrigen füllte er mit guten *Dingen*, und *die* Reichen schickte er leer fort. ⁵⁴Er nahm sich Israels, seines Knechtes, an, um des Erbarmens zu gedenken, ⁵⁵so wie er zu unseren Vätern geredet hat, zu Avraham (Abraham) und zu seinem Samen, in das Zeitalter." ⁵⁶Und Maria blieb bei ihr etwa drei Monate und kehrte zu ihrem Haus zurück.
+⁴⁶Und Maria sprach: „Meine Seele macht den Herrn groß, ⁴⁷und mein Geist jubelte in Gott, meinem Retter, ⁴⁸denn er sah auf die Niedrigkeit seiner *Magd*. Denn siehe, von nun *an* werden mich alle Geschlechter selig preisen, ⁴⁹denn der Mächtige hat Großes an mir getan, und heilig *ist* sein Name, ⁵⁰und sein Erbarmen *gilt* für Geschlechter und Geschlechter denen, die ihn fürchten. ⁵¹Er tat *eine* mächtige *Tat* mit seinem Arm; er zerstreute *die* Stolzen in *dem* Sinnen ihres Herzens. ⁵²Er stieß Herrscher von Thronen herab und erhöhte *die* Niedrigen; ⁵³*die* Hungrigen füllte er mit guten *Dingen*, und *die* Reichen schickte er leer fort. ⁵⁴Er nahm sich Israels, seines Knechtes, an, um des Erbarmens zu gedenken, ⁵⁵so wie er zu unseren Vätern geredet hat, zu Avraham (Abraham) und zu seinem Samen, in das Zeitalter." ⁵⁶Und Maria blieb bei ihr etwa drei Monate und kehrte zu ihrem Haus zurück.
 
 ⁵⁷Und die Zeit wurde erfüllt für Elisabeth zu gebären, und sie gebar einen Sohn. ⁵⁸Und ihre Nachbarn und Verwandten hörten, dass der Herr sein Erbarmen an ihr groß gemacht hatte, und sie freuten sich mit ihr. ⁵⁹Und es geschah am achten Tag, *dass* sie kamen, das Kind zu beschneiden, und sie nannten es mit dem Namen seines Vaters, Zacharias. ⁶⁰Und seine Mutter antwortete und sprach: „Nein; vielmehr wird er Johannes genannt werden." ⁶¹Und sie sprachen zu ihr: „*Es* ist niemand aus deiner Verwandtschaft, der mit diesem Namen genannt wird." ⁶²Und sie machten seinem Vater Zeichen, *was* er ihn wohl genannt haben wollte. ⁶³Und er bat um ein Schreibtäfelchen und schrieb und sagte: „Johannes ist sein Name." Und alle wunderten sich. ⁶⁴Und sein Mund wurde sogleich geöffnet, und seine Zunge *gelöst*, und er redete und segnete Gott. ⁶⁵Und Furcht kam über alle, die um sie herum wohnten, und im ganzen Bergland von Judäa wurde über alle diese Dinge geredet, ⁶⁶und alle, die *sie* hörten, bewahrten *sie* in ihrem Herzen und sagten: „Was wird wohl dieses Kind werden?" Denn *die* Hand *des* Herrn war mit ihm.
 
@@ -683,12 +683,12 @@ denn er sah auf die Niedrigkeit seiner *Magd*. Denn siehe, von nun *an* werden m
 
 ### **Vers 49**
 
-denn der Mächtige *Eine* hat Großes an mir getan, und heilig *ist* sein Name,
+denn der Mächtige hat Großes an mir getan, und heilig *ist* sein Name,
 
 > **Notizen**
 >
-> 🟢 **„DER MÄCHTIGE EINE… HEILIG IST SEIN NAME" — *HO DYNATOS***
-> - **ὁ δυνατός… ἅγιον τὸ ὄνομα αὐτοῦ** (*ho dynatos… hagion to onoma autou*) = „der Mächtige Eine… heilig *ist* sein Name." Hallt Ps 111,9 (engl. 110,9 LXX, „heilig und furchtgebietend ist sein Name") und Dtn 10,21 wider. Die TT liefert *Eine* und *ist* kursiv. Referent: JHWH (Wahrscheinlich).
+> 🟢 **„DER MÄCHTIGE… HEILIG IST SEIN NAME" — *HO DYNATOS***
+> - **ὁ δυνατός… ἅγιον τὸ ὄνομα αὐτοῦ** (*ho dynatos… hagion to onoma autou*) = „der Mächtige… heilig *ist* sein Name." Hallt Ps 111,9 (engl. 110,9 LXX, „heilig und furchtgebietend ist sein Name") und Dtn 10,21 wider. Die TT liefert *ist* kursiv. Referent: JHWH (Wahrscheinlich).
 
 ---
 

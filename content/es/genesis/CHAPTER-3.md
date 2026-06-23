@@ -61,7 +61,7 @@ Las notas se etiquetan por tipo — **Crítico · Léxico · Gramatical · Teol�
 
 ---
 
-¹Y la serpiente era más astuta que todo ser vivo del campo que YHWH Elohim había hecho. Y dijo a la mujer: "De veras, ha dicho Dios, 'No comeran de todo árbol del jardín'?" ²Y la mujer dijo a la serpiente: "Del fruto de los árboles del jardín podemos comer, ³pero del fruto del árbol que *esta* en medio del jardín Dios dijo: 'No comeran de el, y no lo tocaran, no sea que mueran.'" ⁴Y la serpiente dijo a la mujer: "No muriendo moriran. ⁵Porque Dios sabe que en el día de su comer de él se abriran sus ojos, y seran como {a:Dios/dioses}, conociendo el bien y el mal."
+¹Y la serpiente era más astuta que todo ser vivo del campo que YHWH Elohim había hecho. Y dijo a la mujer: "De veras, ha dicho Dios, 'No comeran de todo árbol del jardín'?" ²Y la mujer dijo a la serpiente: "Del fruto de los árboles del jardín podemos comer, ³pero del fruto del árbol que *está* en medio del jardín Dios dijo: 'No comeran de el, y no lo tocaran, no sea que mueran.'" ⁴Y la serpiente dijo a la mujer: "No muriendo moriran. ⁵Porque Dios sabe que en el día de su comer de él se abriran sus ojos, y seran como {a:Dios/dioses}, conociendo el bien y el mal."
 
 ⁶Y la mujer vio que el árbol *era* bueno para alimento, y que *era* deleite a los ojos, y que el árbol *era* deseable para hacer sabio; y tomó de su fruto y comió, y dio también a su hombre con ella, y él comió. ⁷Y los ojos de ambos se abrieron, y supieron que *estaban* desnudos; y cosieron hojas de higuera e hicieron para si coberturas de cintura.
 
@@ -116,7 +116,7 @@ Y la mujer dijo a la serpiente: "Del fruto de los árboles del jardín podemos c
 
 ### **Versículo 3**
 
-pero del fruto del árbol que *esta* en medio del jardín Dios dijo: 'No comeran de el, y no lo tocaran, no sea que mueran.'"
+pero del fruto del árbol que *está* en medio del jardín Dios dijo: 'No comeran de el, y no lo tocaran, no sea que mueran.'"
 
 > **NOTAS**
 >

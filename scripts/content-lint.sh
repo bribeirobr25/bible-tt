@@ -157,6 +157,23 @@ check_pattern "0.3" "ES NT diacritic loss in front matter or body" \
   "\bTraduccion\b|\bEdicion\b|\bEspanol\b|\bPolitica\b|\bSenor\b" \
   "$ES_NT_DIRS"
 
+# §0.3b — ES diacritic/grammar regressions (ALL es books, incl. genesis — §0.3 only covers NT).
+# High-precision, zero-false-positive tokens cleared in the 2026-06-23 pivot-fidelity audit
+# (docs/audit/PIVOT_FIDELITY_AUDIT.md). NOTE: the broader systemic ES pronoun-accent sweep
+# (a el / de el / hacia el → al / él, ¿Donde, clamandó …) is tracked in PENDING.md, not here,
+# because those need per-instance judgment (article "el" vs pronoun "él") and would false-positive.
+check_pattern "0.3b" "ES diacritic/grammar regression (audit-cleared tokens)" \
+  "\*esta\*|\ben el era\b|\bde el ni\b|\bse cernia\b|\bse exultó\b" \
+  "content/es"
+
+# §0.3c — anti-pivot-calque: English grammatical filler ("the Mighty *One*") carried into a
+# target as a literal italic word it does not need. German substantivises adjectives ("der
+# Mächtige"), as do PT/ES ("o Poderoso"/"el Poderoso"), so an italic *Eine*/*Um*/*Uno* is an
+# EN-pivot artifact (Rule 11 marks words the *target* grammar needs, not English's crutches).
+check_pattern "0.3c" "EN-pivot grammatical-filler calque (italic One/Eine/Um/Uno)" \
+  "\*Eine[rnm]?\*|\*Eins\*|\*Uma?\*|\*Una?\*|\*Uno\*" \
+  "content/de content/pt-br content/es"
+
 # §0.4 — ES NT missing Reina-Valera declaration
 es_nt_missing_rv=""
 for f in $ES_NT_CHAPTER_FILES; do

@@ -65,7 +65,7 @@ Las notas se etiquetan por tipo — **Crítico · Léxico · Gramatical · Teol�
 
 ⁴Estas *son* las generaciónes de los cielos y la tierra cuando fueron creados, en el día *que* YHWH Elohim hizo tierra y cielos. ⁵Y todo arbusto del campo aun no estaba en la tierra, y toda hierba del campo aun no había brotado, porque YHWH Elohim no había hecho llover sobre la tierra, y un humano no había para trabajar el suelo. ⁶Y *una* niebla subia de la tierra y regaba toda la faz del suelo. ⁷Y YHWH Elohim formó al humano, polvo del suelo, y soplo en sus narices aliento de vida, y el humano llego a ser *un* ser vivo.
 
-⁸Y YHWH Elohim plantó un jardín en Eden desde el oriente, y puso allí al humano que había formado. ⁹Y YHWH Elohim hizo brotar del suelo todo árbol agradable a la vista y bueno para alimento, y el árbol de la vida en medio del jardín, y el árbol del conocimiento del bien y del mal. ¹⁰Y *un* rio salia de Eden para regar el jardín, y de allí se dividía y se hacia cuatro cabezas. ¹¹El nombre del uno *es* Pishon; él *es* el que rodea toda la tierra de Havilah, donde *esta* el oro. ¹²Y el oro de aquella tierra *es* bueno; allí *esta* el bdelio y la piedra shoham. ¹³Y el nombre del segundo rio *es* Gihon; él *es* el que rodea toda la tierra de Cush. ¹⁴Y el nombre del tercer rio *es* Hiddeqel; él *es* el que va al oriente de Asur. Y el cuarto rio, ese *es* Perat.
+⁸Y YHWH Elohim plantó un jardín en Eden desde el oriente, y puso allí al humano que había formado. ⁹Y YHWH Elohim hizo brotar del suelo todo árbol agradable a la vista y bueno para alimento, y el árbol de la vida en medio del jardín, y el árbol del conocimiento del bien y del mal. ¹⁰Y *un* rio salia de Eden para regar el jardín, y de allí se dividía y se hacia cuatro cabezas. ¹¹El nombre del uno *es* Pishon; él *es* el que rodea toda la tierra de Havilah, donde *está* el oro. ¹²Y el oro de aquella tierra *es* bueno; allí *está* el bdelio y la piedra shoham. ¹³Y el nombre del segundo rio *es* Gihon; él *es* el que rodea toda la tierra de Cush. ¹⁴Y el nombre del tercer rio *es* Hiddeqel; él *es* el que va al oriente de Asur. Y el cuarto rio, ese *es* Perat.
 
 ¹⁵Y YHWH Elohim tomó al humano y lo puso en el jardín de Eden para trabajarlo y para guardarlo. ¹⁶Y YHWH Elohim mandó sobre el humano, diciendo: @@"De todo árbol del jardín comiendo comeras. ¹⁷Pero del árbol del conocimiento del bien y del mal, no comeras de el, porque en el día de tu comer de él muriendo moriras."@@
 
@@ -230,7 +230,7 @@ Y *un* rio salia de Eden para regar el jardín, y de allí se dividía y se haci
 
 ### **Versículo 11**
 
-El nombre del uno *es* Pishon; él *es* el que rodea toda la tierra de Havilah, donde *esta* el oro.
+El nombre del uno *es* Pishon; él *es* el que rodea toda la tierra de Havilah, donde *está* el oro.
 
 > **NOTAS**
 >
@@ -241,7 +241,7 @@ El nombre del uno *es* Pishon; él *es* el que rodea toda la tierra de Havilah, 
 
 ### **Versículo 12**
 
-Y el oro de aquella tierra *es* bueno; allí *esta* el bdelio y la piedra shoham.
+Y el oro de aquella tierra *es* bueno; allí *está* el bdelio y la piedra shoham.
 
 > **NOTAS**
 >
