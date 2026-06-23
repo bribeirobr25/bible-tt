@@ -62,6 +62,8 @@ Two recurring footguns:
 
 ## Content authoring loop
 
+> **Adding a new book or chapter?** Follow the full runbook in `docs/guides/AUTHORING-PLAYBOOK.md` — it sequences this loop into a start-to-finish checklist (artifact manifest, new-book activation touchpoints, per-phase gate) and carries a living "Known Traps" register. The steps below are the summary.
+
 Content is markdown under `content/{locale}/{book}/` and is the **source of truth**; parsers read it at build time. Authoring is **EN-first, then PT-BR, DE, ES.**
 
 1. **Log the decision first.** Before drafting a translation choice, record it in `docs/editorial-log/{book}.md` (schema in RULES-CORE.md). New glossary terms go through the glossary-expansion procedure (RULES-CORE.md).
