@@ -45,3 +45,14 @@ This log records consistency decisions, justified exceptions, text-critical choi
 - **Cross-book PEOPLE:** 3 see-stubs `**Siehe:** matthew/PEOPLE.md` + `**In Lukas:**`; genealogy table localized. CARD + dual-labels registered de forms.
 - **AI provenance:** claude-opus-4-8 (1M) + subagents, 2026-06-23. Gates: 886 tests; conservation 276 files/15237 units; content:lint clean; build; served HTML JHWH-only + CARD + cross-book links. Status provisional (Rule 28).
 - **Cross-references:** `PLAN_LUKE_EXPANSION.md`; L-003 (PT-BR).
+
+## Entry L-005 — Luke 1–3 propagation to ES
+
+- **Scope:** all 12 EN Luke files mirrored EN→es (final locale). GS-governed; mirror-EN.
+- **Names:** Reina-Valera tradition (Juan, Zacarías, Isabel, María, Gabriel, Jesús, Simeón, Ana, José, Belén, Nazaret, Jordán; genealogy David/Abraham/Adán/Sem/Noé…); transliterations mirror EN byte-for-byte.
+- **Divine name:** YHWH (es keeps YHWH, not JHWH — verified 0 JHWH); main text κύριος→"el Señor" (Option C); canonical `κύριος (kyrios)` metadata line; diacritics intact (content:lint §0.3); Reina-Valera declaration present on NT chapters (§0.4).
+- **Markers:** @@/{t:}/{a:} parity = EN per file (ch1 4/0/12, ch2 12/0/14, ch3 18/0/7); 3:22 Bat-Qol marked, Gabriel/canticles unmarked; canticles as prose; no nested.
+- **Register QA (the substantive ES finding):** initial draft used peninsular **vosotros** forms in the angel speech (2:10-12), Simeón's idou (2:25), and John's preaching quotes (3:8/3:13-14/3:16) + the Isaiah 40:3 citations in the §PROPHECY/§CONTEXT companions. The established ES TT convention is Latin-American **ustedes** (verified: es/john, es/matthew, es/mark all 0 vosotros; content-lint `[legacy] Vosotros forms` blocks `vosotros|vuestr`). Converted all to ustedes against the es/matthew + main es/luke CHAPTER-3 exemplars: `No tengáis miedo`→`No teman`, `mirad`→`miren`, `os traigo/ha nacido`→`les traigo/ha nacido`, `para vosotros`/`encontraréis`→`para ustedes`/`encontrarán`, `no comencéis…entre vosotros`→`no comiencen…entre ustedes`, `os digo`→`les digo`, `os sumergirá`→`los sumergirá`, `no exijáis`→`no exijan`, `contentaos con vuestro salario`→`conténtense con su salario`, TM `preparad`→`preparen`. Also collapsed 2× redundant `Herodes (Herodes)` (PEOPLE + companion-1) and normalized the ch3 tracking-header `(Biblia Hebrea -> Lucas)`→`(BH -> Lucas)` + its TOC anchor.
+- **Cross-book PEOPLE:** 3 see-stubs `**Ver:** matthew/PEOPLE.md` + `**En Lucas:**`; genealogy table (76 rows) localized. CARD + dual-labels registered es forms.
+- **AI provenance:** claude-opus-4-8 (1M) + subagents, 2026-06-23. Gates: 886 tests; conservation 288 files/15945 units; content:lint clean (1 pre-existing genesis warn); biome lint (registry.ts re-formatted multiline); build; served HTML ustedes-only + no peninsular leakage + visual (Lucas 2 Read). Status provisional (Rule 28).
+- **Cross-references:** `PLAN_LUKE_EXPANSION.md`; L-003 (PT-BR); L-004 (DE).
