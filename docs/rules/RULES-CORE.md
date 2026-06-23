@@ -817,7 +817,7 @@ Examples in production:
 | `mark` | Currently authored — resolves to active link |
 | `luke` | Currently authored — resolves to active link |
 | `john` | Currently authored — resolves to active link |
-| `acts` | Forward-tracked — Phase 14+ — renders as plain-text fallback until authored |
+| `acts` | Currently authored (1–3) — resolves to active link |
 | `exodus` | Forward-tracked — Phase 12+ Pentateuch — renders as plain-text fallback until authored |
 | `kings` | Forward-tracked — Phase 14+ — renders as plain-text fallback until authored |
 | `isaiah` | Forward-tracked — Phase 14+ — renders as plain-text fallback until authored |

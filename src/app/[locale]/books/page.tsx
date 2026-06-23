@@ -18,7 +18,7 @@ import { JsonLd } from "@/ui/shared/json-ld";
 import { renderInlineSafe } from "@/ui/shared/render-markdown-safe";
 
 // Display order matches the prototype (Hebrew Bible first, then the gospels).
-const BOOK_ORDER = ["genesis", "matthew", "mark", "luke", "john"];
+const BOOK_ORDER = ["genesis", "matthew", "mark", "luke", "john", "acts"];
 const HEBREW_BIBLE = new Set(["genesis"]);
 
 export async function generateMetadata({
