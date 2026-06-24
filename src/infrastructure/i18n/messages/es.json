@@ -7,8 +7,8 @@
   "books": {
     "heroKicker": "Actualmente traducido",
     "heroTitle": "Los Libros.",
-    "heroTagline": "Génesis 1–12 · Mateo 1–3 · Marcos 1–3 · Lucas 1–3 · Juan 1–3 — cada uno con capítulos, compañeros de estudio, introducciones y personas.",
-    "sectionKick": "Cinco libros, cuatro idiomas",
+    "heroTagline": "Génesis 1–12 · Mateo 1–3 · Marcos 1–3 · Lucas 1–3 · Juan 1–3 · Hechos 1–3 — cada uno con capítulos, compañeros de estudio, introducciones y personas.",
+    "sectionKick": "Seis libros, cuatro idiomas",
     "readNow": "Leer ahora",
     "corpusHebrew": "Biblia Hebrea",
     "corpusGreek": "Escrituras Griegas",
@@ -79,7 +79,8 @@
     "john": "Juan",
     "matthew": "Mateo",
     "mark": "Marcos",
-    "luke": "Lucas"
+    "luke": "Lucas",
+    "acts": "Hechos"
   },
   "confidence": {
     "verified": "Verificado",

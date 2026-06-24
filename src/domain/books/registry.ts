@@ -4,5 +4,6 @@ export const AVAILABLE_BOOKS = [
   "mark",
   "luke",
   "john",
+  "acts",
 ] as const;
 export type BookSlug = (typeof AVAILABLE_BOOKS)[number];

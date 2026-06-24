@@ -7,7 +7,21 @@ in `docs/audit/PENDING.md`.
 > The **Plan artifact** column references per-phase plan docs removed in the 2026-06-12
 > documentation lean-up (completed plans). The **What it did** column is the authoritative record.
 
-**Latest editorial-log anchors:** `genesis.md` Entry `2026-06-19-120` · `john.md` J-036 · `matthew.md` M-034 · `mark.md` `2026-06-21-007` · `luke.md` L-005.
+**Latest editorial-log anchors:** `genesis.md` Entry `2026-06-19-120` · `john.md` J-036 · `matthew.md` M-034 · `mark.md` `2026-06-21-007` · `luke.md` L-005 · `acts.md` A-007.
+
+---
+
+## Acts 1–3 — new book #6 (EN authored from Greek + propagated to all locales) (2026-06-24)
+
+Per `docs/audit/PLAN_ACTS_EXPANSION.md` (audited APPROVE; the first new book authored under the new `AUTHORING-PLAYBOOK.md`). **Book #6 activated** and **Acts 1–3 authored in EN from NA28**, then **propagated to PT-BR/DE/ES** — Acts is four-locale, so **all six books (Genesis, Matthew, Mark, Luke, John, Acts) are at full EN/PT-BR/DE/ES parity.** 48 files total (12 EN + 36 propagated). Acts is GS *narrative* (Luke vol. 2) — the gospel/Luke template applied directly. All **provisional pending Hellenist review (Rule 28)**.
+
+**EN (Phase 1):** chapters 1–3 (99 verses; the 3 chapters hand-authored, the 9 companions via briefed subagents on the chapter exemplars), study CONTEXT ×3 (§A–§I) + PROPHECY ×3, INTRODUCTION (+ CARD: "Volume 2 of Luke"), PEOPLE (Acts-canonical entries + cross-book see-stubs → mark/matthew; **no genealogy**), book CONTEXT. Cruxes carried with Tier-2 + Rule-13: 2:34 Ps 110 **double-κύριος** (decision A-005), 2:38 `eis aphesin`, 1:18-19 Judas's death **un-harmonized** with Mt 27 (Rule 3), 3:15 `archēgos` / 3:13,26 `pais` (Servant) / 3:21 `apokatastasis`. Pentecost glossed Shavuot; `{a:tongues/languages}`; Joel/Ps110/Gen22 divine speech `@@`-marked (A-004).
+
+**Activation (8 touchpoints):** registry + BOOK_ORDER (+acts after john) + bookLabels + people-fields inBook aliases + i18n book.acts/heroTagline/sectionKick "Five→Six books" ×4 + content-lint dir-lists/§0.11/§0.12 globs + RULES-CORE allow-list + source-analysis stub. `acts` was already in the §0.12 hash. activation-consistency 8/8.
+
+**Propagation (Phases 2–4):** Almeida/Luther/RV names; **PT/ES→YHWH, DE→JHWH** (0 YHWH in DE body, served-HTML verified); Option C; ES ustedes register + diacritics. **Marker parity EXACT vs EN on all 36 files** (scripted `@@`/`{a:}`/`{t:}` diff = 0). QA fixes during the self-audit: ES intro `[legacy] vosotros` false-positive reworded; ES CONTEXT 6 dropped `{a:}` markers restored + 2 over-marked unwrapped to match EN's 8. **Note:** the 3 companion subagents hit the account session limit mid-run; 5/6 files each were complete, and the 3 ch3-PROPHECY tails were hand-finished (a propagation lesson for the playbook).
+
+**Gates:** 886 tests; conservation additive (348 files); activation-consistency 8/8; content:lint clean (1 pre-existing genesis warn); lint/build (all `/{en,pt-br,de,es}/acts` routes prerender); served-HTML per locale (divine/ambig classes; der Herr/JHWH · el Señor/ustedes; see-stub links; book hub CARD + "Six books"); visual (Acts 2 Read, Deeper dual-labels, People). Branch `acts-expansion`. EN-checkpoint (lead review + self-audit) passed before propagation. acts.md A-006/A-007.
 
 ---
 
