@@ -8,7 +8,7 @@ A multilingual Bible translation and study web application built for radical lin
 
 The TT is a disciplined translation of the Hebrew Bible and Greek Scriptures into English, Brazilian Portuguese, German, and Spanish. It preserves source-text ambiguity rather than smoothing it, marks every word added for grammar, and refuses to import later theological vocabulary into the ancient text.
 
-**Current scope:** Genesis 1–12, John 1–3, Matthew 1–3, Mark 1–3, and Luke 1–3 in all four languages, with contextual study companions, book introductions, people profiles with timeline, and prophecy tracking.
+**Current scope:** Genesis 1–12, John 1–3, Matthew 1–3, Mark 1–3, Luke 1–3, and Acts 1–3 in all four languages, with contextual study companions, book introductions, people profiles with timeline, and prophecy tracking.
 
 ## Read it
 
@@ -55,7 +55,7 @@ Dedicated sub-page per book (`/{locale}/{book}/people`) with:
 - SVG timeline infographic showing lifespans and overlaps (Masoretic Text chronology for OT; historical dates for NT)
 - Character arcs and key speeches
 
-Currently authored for **Genesis**, **John**, **Matthew**, **Mark**, and **Luke** in all four locales. Cross-book canonical-entry convention (RULES-CORE.md Rule 29 §People and Genealogy Files, v3.3.2): when a person appears in multiple books, a single canonical entry lives in one book's PEOPLE.md and other books use a see-only stub (`**See:** {book}/PEOPLE.md` + `**In <Book>:** [role]`). The UI renders see-only stubs with a clickable cross-book link and a graceful dangling-pointer fallback for forward references to unauthored books.
+Currently authored for **Genesis**, **John**, **Matthew**, **Mark**, **Luke**, and **Acts** in all four locales. Cross-book canonical-entry convention (RULES-CORE.md Rule 29 §People and Genealogy Files, v3.3.2): when a person appears in multiple books, a single canonical entry lives in one book's PEOPLE.md and other books use a see-only stub (`**See:** {book}/PEOPLE.md` + `**In <Book>:** [role]`). The UI renders see-only stubs with a clickable cross-book link and a graceful dangling-pointer fallback for forward references to unauthored books.
 
 ## Languages
 
@@ -113,13 +113,13 @@ All decisions logged in the editorial logs ([genesis.md](docs/editorial-log/gene
 | Testing | Vitest (882 tests across 13 files) |
 | Linting | Biome |
 
-> **Project state (2026-06-23):** Genesis 1–12, John 1–3, Matthew 1–3, Mark 1–3, and Luke 1–3 in EN/PT-BR/DE/ES — chapters + INTRODUCTION + PEOPLE + Book Context per book, study companions per chapter. All content carries `provisional` status pending reviewer sign-off (Rule 28). The web app is complete through the UX/Structure program (SEO baseline; a derived structured layer guarded by a zero-loss conservation gate; the three-door IA; content QA; UX finish) and the §I "World at the Time" **Option C** restructure. The "Light & Darkness" redesign and the reader-facing text-highlight markers (Rules 11/4/2/30) are merged and live on `main`. Ruleset **v3.4** (30 rules); all chapters stamped v3.4. 886 tests across 13 files; `build`/`lint`/`content:lint` clean. **Largest remaining work:** Genesis 13–50. Full completed-work ledger → `docs/audit/EXECUTION_HISTORY.md`; open items → `docs/audit/PENDING.md`.
+> **Project state (2026-06-24):** Genesis 1–12, John 1–3, Matthew 1–3, Mark 1–3, Luke 1–3, and Acts 1–3 in EN/PT-BR/DE/ES (six books at full four-locale parity) — chapters + INTRODUCTION + PEOPLE + Book Context per book, study companions per chapter. All content carries `provisional` status pending reviewer sign-off (Rule 28). The web app is complete through the UX/Structure program (SEO baseline; a derived structured layer guarded by a zero-loss conservation gate; the three-door IA; content QA; UX finish) and the §I "World at the Time" **Option C** restructure. The "Light & Darkness" redesign and the reader-facing text-highlight markers (Rules 11/4/2/30) are merged and live on `main`. Ruleset **v3.4** (30 rules); all chapters stamped v3.4. 886 tests across 13 files; `build`/`lint`/`content:lint` clean. **Largest remaining work:** Genesis 13–50. Full completed-work ledger → `docs/audit/EXECUTION_HISTORY.md`; open items → `docs/audit/PENDING.md`.
 
 ## Project structure
 
 ```
 bible-tt/
-├── content/                 # All content files (5 books × 4 locales)
+├── content/                 # All content files (6 books × 4 locales)
 │   ├── en/{genesis,john,matthew,mark,luke}/   # chapters, companions, introductions, people (luke = EN-only pilot)
 │   ├── pt-br/{genesis,john,matthew,mark}/
 │   ├── de/{genesis,john,matthew,mark}/
