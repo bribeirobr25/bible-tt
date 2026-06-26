@@ -72,4 +72,13 @@ NA28 base. 1 Peter's text is comparatively stable (no Acts-scale Western diverge
 
 ## Entries
 
-*(Per-decision entries P-006+ appended during authoring.)*
+### P-006 — 3:18–20 "the spirits in prison" + the flesh/spirit datives (3:18)
+- **Decision:** render literally, preserve all readings, resolve none (Rule 3 / Rule 13). 3:18 "put to death **in flesh** (σαρκί) but made alive **in {a:wind/spirit}** (πνεύματι)" — the anarthrous-dative parallel kept (sphere "in the spirit" vs. agency "by the Spirit"), {a:wind/spirit} slash retained, Tier-2 flags the crux. 3:19 "the **spirits** (πνεύμασιν) in prison" — rendered plain "spirits" (imprisoned beings; no "wind" sense live, so **no slash**), and the three live readings noted in Tier-2 + Companion §A/§F: (a) the disobedient dead of Noah's day; (b) the Genesis-6 "watchers"/angels of the Enochic tradition (cf. 2 Pet 2:4; Jude 6); (c) a pre-incarnate proclamation through Noah. ἐκήρυξεν ("proclaimed") left content-unspecified (good news vs. judgment). **AI-draft; Hellenist sign-off pending (Rule 28) — the headline review item.**
+
+### P-007 — 3:21 baptism "now saves you… as antitype"
+- **Decision:** render the flood→baptism typology (ἀντίτυπον "antitype") and the immediate qualification — **"not a removal of dirt of the flesh but an appeal of a good conscience toward God"** — without importing a sacramental theology (Rule 3). ἐπερώτημα rendered **"appeal"** with the "pledge/answer" option noted (Tier-2). The saving is explicitly "**through the resurrection**," not the water itself. Provisional (Rule 28).
+
+### P-009 — the household code 2:18–3:7 (servants; wives/husbands)
+- **Decision (the highest-restraint passage; the likely reviewer flashpoint):** render the Greek faithfully — ὑποτάσσω ("submit"), οἰκέται ("household servants," 2:18), wives "won without a word" by conduct (3:1), Sarah "calling him lord" (3:6, *kyrios* = human honorific, lowercase), the husband honoring the wife as **"weaker vessel" (ἀσθενέστερον σκεῦος)** *and* **"co-heir of the grace of life" (συγκληρονόμος, 3:7)** — and **flag the interpretive/reception history in Tier-2 + Companion §F, taking no position in the main text** (Rule 3). Note the code's own mutuality (husbands addressed; wives as co-heirs; "so that your prayers not be hindered") and that the ground of servant-submission is the suffering Messiah as *hypogrammos* (2:21-25), not an endorsement of the institution. The "weaker vessel" rendered literally (the same sentence calls her a co-heir → not a worth-claim). **AI-draft; Hellenist + lead sign-off pending (Rule 28).**
+
+*(P-008 salutation 1:1–2 handled in CHAPTER-1 Tier-2 + Companion §A; P-010 [4:6] to author with chapter 4.)*
