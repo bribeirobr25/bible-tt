@@ -269,7 +269,9 @@ function applyField(
       break;
     case "crossBookSee": {
       current.crossBookSee = value;
-      const seeMatch = value.trim().match(/^([a-z][a-z-]*)\/PEOPLE\.md$/i);
+      const seeMatch = value
+        .trim()
+        .match(/^([a-z0-9][a-z0-9-]*)\/PEOPLE\.md$/i);
       current.crossBookSeeBook = seeMatch
         ? seeMatch[1].toLowerCase()
         : undefined;

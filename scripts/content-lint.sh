@@ -232,7 +232,7 @@ check_cross_book_pointers() {
   matches=$(perl -ne '
     if (eof) { close ARGV; }
     # Match: **See:** slug/PEOPLE.md  (or Ver: / Siehe:)
-    if (/^\*\*(?:See|Ver|Siehe):\*\*\s+([a-z][a-z-]*)\/PEOPLE\.md/i) {
+    if (/^\*\*(?:See|Ver|Siehe):\*\*\s+([a-z0-9][a-z0-9-]*)\/PEOPLE\.md/i) {
       my $slug = lc($1);
       my %allowed = (
         genesis => 1, matthew => 1, mark => 1, luke => 1, john => 1,
