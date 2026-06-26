@@ -103,6 +103,7 @@ export default async function PeoplePage({
     luke: t("book.luke"),
     john: t("book.john"),
     acts: t("book.acts"),
+    "1-peter": t("book.1-peter"),
   };
 
   // Authored order (prototype parity) — no chronological re-sort.

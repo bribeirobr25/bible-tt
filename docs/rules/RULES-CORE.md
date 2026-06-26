@@ -818,6 +818,7 @@ Examples in production:
 | `luke` | Currently authored — resolves to active link |
 | `john` | Currently authored — resolves to active link |
 | `acts` | Currently authored (1–3) — resolves to active link |
+| `1-peter` | Currently authored (1–5) — resolves to active link (leading-digit slug; the §0.12 + people-parser regexes admit `[a-z0-9]`) |
 | `exodus` | Forward-tracked — Phase 12+ Pentateuch — renders as plain-text fallback until authored |
 | `kings` | Forward-tracked — Phase 14+ — renders as plain-text fallback until authored |
 | `isaiah` | Forward-tracked — Phase 14+ — renders as plain-text fallback until authored |
