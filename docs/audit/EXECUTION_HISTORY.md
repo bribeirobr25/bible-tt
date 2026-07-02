@@ -7,7 +7,25 @@ in `docs/audit/PENDING.md`.
 > The **Plan artifact** column references per-phase plan docs removed in the 2026-06-12
 > documentation lean-up (completed plans). The **What it did** column is the authoritative record.
 
-**Latest editorial-log anchors:** `genesis.md` Entry `2026-06-19-120` · `john.md` J-036 · `matthew.md` M-034 · `mark.md` `2026-06-21-007` · `luke.md` L-005 · `acts.md` A-007.
+**Latest editorial-log anchors:** `genesis.md` Entry `2026-06-19-120` · `john.md` J-036 · `matthew.md` M-034 · `mark.md` `2026-06-21-007` · `luke.md` L-005 · `acts.md` A-007 · `1-peter.md` P-010.
+
+---
+
+## 1 Peter 1–5 — new book #7, the EPISTLE GENRE PILOT (EN authored from Greek + propagated to all locales) (2026-06-26 / propagated 2026-07-01)
+
+Per `docs/audit/PLAN_1PETER_EXPANSION.md` (self-audited + externally AUDITED APPROVE; `AUDIT_1PETER_EXPANSION_PLAN.md`). **Book #7 activated** and **1 Peter 1–5 authored in EN from NA28** (the whole book, ~105 verses — the first *complete* NT book in the corpus), then **propagated to PT-BR/DE/ES** — 1 Peter is four-locale, so **all seven books (Genesis, Matthew, Mark, Luke, John, Acts, 1 Peter) are at full EN/PT-BR/DE/ES parity.** 72 files total (18 EN + 54 propagated). **The pipeline's first Letter** (playbook T-16): *argument/exhortation*, not narrative. All **provisional pending Hellenist + locale-editor review (Rule 28)**.
+
+**Genre adaptation (T-16):** INTRODUCTION gains recipient-community + §D3 Epistolary-Conventions (the *Haustafel*, the amanuensis question 5:12); PEOPLE is **thin** (Kefa see-stub → mark/PEOPLE.md, Silvanus/Markos brief, recipient communities described — **no genealogy, no timeline**); PROPHECY companions reframe to **OT-in-argument** ("Note on mode of allusion"; status re-read as quoted/echoed/typological, dual-labels kept). An epistle-parser spike (one §D block + one OT-in-argument entry) passed before bulk authoring.
+
+**Cruxes carried with Tier-2 + Rule-13, each with an editorial-log entry (P-006…P-010):** 3:18–20 spirits-in-prison (all 3 readings kept, resolves none), 3:21 baptism "now saves"/antitype (no sacramental import), 1:1–2 triune-shaped salutation (no imported dogma, Rule 3), 2:18–3:7 the **household code** (render the Greek — ὑποτάσσω, "weaker vessel" *and* "co-heir" 3:7, Sarah "calling him lord" lowercase — flag reception history, take no position; the reviewer flashpoint), 4:6 "preached to the dead", 2:8 "appointed". Divine speech `@@`-marked only where the source verse is God's first person (1:16 Lev; 2:6 Isa 28:16). κύριος Option C; YHWH in OT citations (1:25, 2:3, 3:12) + the 3:15 referent-shift.
+
+**Phase 0a (audit Finding 1 — the first leading-digit slug):** widened the two cross-book slug-parsing regexes `([a-z][a-z-]*)` → `([a-z0-9][a-z0-9-]*)` (`content-lint.sh` §0.12 + `people-parser.ts` `crossBookSee`) + a `1-peter` round-trip regression test — the durable fix for the whole N-book epistle trajectory (2 Peter, 1–3 John).
+
+**Activation (8 touchpoints):** registry + BOOK_ORDER (+1-peter after acts) + bookLabels + people-fields inBook aliases + i18n book["1-peter"]/heroTagline/sectionKick "Six→Seven books" ×4 + content-lint dir-lists/§0.11/§0.12 globs + RULES-CORE allow-list (1-peter NOT previously forward-tracked) + editorial-log + source-analysis stub. activation-consistency 8/8.
+
+**Propagation (2026-07-01, mirror-EN, GS-governed):** Almeida/Luther/Reina-Valera familiar names; **DE→JHWH, PT/ES→YHWH** in the OT citations; marker parity exact (54/54 files, scripted Python count-diff — T-18); `{a:…}` slash-content localized (viento/espíritu, Wind/Geist) while `{a:` count held; ES **ustedes** + full diacritics; PT classical **vós** Almeida register (corpus-consistent); anti-calque clean; no redundant `Name (Name)`. Independent second audit found the two apparent "drifts" (the +1 h3 edition-subtitle; the PT/ES prophecy-file English `## The Transparent Translation (TT)` subtitle) both **faithfully match the established Acts convention** — not defects. Gates green (887 tests; conservation additive 354→408 files / 20,599 units; lint; content:lint; build); visual per locale (DE Deeper, ES Read, PT Deeper; cross-book see-stub link resolves in all locales). editorial-log `1-peter.md` P-001…P-010.
+
+**Next book (recorded trajectory):** the NT Epistles continue — **Galatians** (tightest Acts interlock), then **Romans**, **James** — each its own audited `PLAN_{BOOK}_EXPANSION.md`.
 
 ---
 
