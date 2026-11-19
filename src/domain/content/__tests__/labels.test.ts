@@ -1,4 +1,4 @@
-import { describe, expect, it } from "vitest";
+import { afterEach, describe, expect, it, vi } from "vitest";
 import {
   CLAIM_TYPES,
   CONFIDENCE_LEVELS,
@@ -115,5 +115,60 @@ describe("labels — parseDualLabel (Finding 3)", () => {
       parseDualLabel("Some prose with a stray [x — y] tag inline."),
     ).toBeNull();
     expect(parseDualLabel("**bold but not a label**")).toBeNull();
+  });
+});
+
+// Step 2 (PLAN_SAFETY_NET.md WS3): word-start matching + negation handling.
+// The full-corpus snapshot (6,350 resolved labels) was byte-identical before/after.
+describe("labels — word-start matching (no infix / negated matches)", () => {
+  const quiet = () => vi.spyOn(console, "warn").mockImplementation(() => {});
+  afterEach(() => vi.restoreAllMocks());
+
+  it("rejects infix matches that used to resolve silently", () => {
+    const warn = quiet();
+    expect(parseConfidence("UNVERIFIED")).toBe("POSSIBLE"); // fallback, not VERIFIED
+    expect(parseConfidence("IMPROBABLE")).toBe("POSSIBLE"); // fallback, not PROBABLE
+    expect(parseConfidence("IMPOSSIBLE")).toBe("POSSIBLE"); // fallback (warned)
+    expect(warn).toHaveBeenCalledTimes(3);
+  });
+
+  it("skips a negated / weakened occurrence and keeps searching", () => {
+    const warn = quiet();
+    expect(parseConfidence("PROBABLE (NO VERIFICADO)")).toBe("PROBABLE");
+    expect(parseConfidence("NICHT VERIFIZIERT; WAHRSCHEINLICH")).toBe(
+      "PROBABLE",
+    );
+    expect(parseConfidence("NOT VERIFIED")).toBe("POSSIBLE"); // nothing valid left
+    expect(parseConfidence("POCO PROBABLE")).toBe("POSSIBLE");
+    expect(parseConfidence("POUCO PROVÁVEL")).toBe("POSSIBLE");
+    expect(parseConfidence("KAUM WAHRSCHEINLICH")).toBe("POSSIBLE");
+    expect(warn).toHaveBeenCalledTimes(4);
+  });
+
+  it("still accepts suffixed forms authored in content", () => {
+    const warn = quiet();
+    expect(parseClaimType("WISSENSCHAFTLICHER VERGLEICH")).toBe(
+      "SCIENTIFIC COMPARISON",
+    );
+    expect(parseClaimType("MÖGLICHE SCHLUSSFOLGERUNG")).toBe(
+      "POSSIBLE INFERENCE",
+    );
+    expect(parseClaimType("KOMPARATIVES PARALLEL")).toBe(
+      "COMPARATIVE PARALLEL",
+    );
+    expect(parseClaimType("vergleichende Parallele")).toBe(
+      "COMPARATIVE PARALLEL",
+    );
+    expect(parseConfidence("WAHRSCHEINLICH BIS UNSICHER")).toBe("PROBABLE"); // range → earlier bucket
+    expect(warn).not.toHaveBeenCalled();
+  });
+
+  it("pins today's compound-label behaviour (policy decision routed to Step 4)", () => {
+    // DUAL_LABEL splits on the FIRST dash: the second claim/confidence pair of a
+    // compound label is not parsed. 306 such labels exist (2026-11-19).
+    const r = parseDualLabel(
+      "**[TEXTUAL — VERIFIED (for the three phrases); POSSIBLE INFERENCE — UNCERTAIN (for the reading)]**",
+    );
+    expect(r).toEqual({ claimType: "TEXTUAL", confidence: "VERIFIED" });
   });
 });
