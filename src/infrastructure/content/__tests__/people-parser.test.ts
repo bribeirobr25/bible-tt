@@ -600,5 +600,17 @@ describe("people-parser", () => {
       const r = parsePeopleMarkdown(md, "mark");
       expect(r.entries[0].crossBookSeeBook).toBe("matthew");
     });
+
+    // Leading-digit slug (N-book epistles: 1-peter, 2-peter, 1-john, …).
+    // Regression guard for the slug-machinery widening (AUDIT_1PETER_EXPANSION_PLAN
+    // Finding 1): the cross-book slug regex must admit a leading digit, else a
+    // `**See:** 1-peter/PEOPLE.md` pointer silently parses to undefined and renders
+    // as plain text instead of a link.
+    it("leading-digit slug (1-peter): parses to the digit slug, keeps raw pointer", () => {
+      const md = `## Kefa (Peter)\n\n**See:** 1-peter/PEOPLE.md\n**In 2 Peter:** author\n`;
+      const r = parsePeopleMarkdown(md, "2-peter");
+      expect(r.entries[0].crossBookSeeBook).toBe("1-peter");
+      expect(r.entries[0].crossBookSee).toBe("1-peter/PEOPLE.md");
+    });
   });
 });
