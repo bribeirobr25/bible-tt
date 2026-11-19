@@ -21,6 +21,8 @@
 
 ## 1. Baseline & branch state
 
+> **Status update (2026-11-19):** both stranded items below are **resolved by Step 1** of `docs/audit/LAUNCH_PROGRAM.md` (`PLAN_BASELINE_RECOVERY.md`) — `333a373` recovered (with two missed ES fixes completed) and `1-peter-expansion` merged. Kept here as the historical finding.
+
 | Item | Finding | ✔ |
 |---|---|---|
 | **1 Peter unmerged** | `origin/1-peter-expansion`: 10 commits (to 2026-07-02), 91 files / +18.5k lines — all 5 chapters × 4 locales, `PLAN_1PETER_EXPANSION.md` + `AUDIT_1PETER_EXPANSION_PLAN.md`, `editorial-log/1-peter.md`, EXECUTION_HISTORY/PENDING/CLAUDE.md updates, and **code changes** (cross-book slug regexes widened for leading-digit slugs, people-parser/people-fields, content-lint, i18n, registry). **No PR exists.** Every `main` doc saying "next up: 1 Peter" is stale. | ✔ |

@@ -11,6 +11,19 @@ in `docs/audit/PENDING.md`.
 
 ---
 
+## Launch-Readiness Program — Step 1: Baseline recovery (2026-11-19)
+
+Per `docs/audit/PLAN_BASELINE_RECOVERY.md` (independent adversarial review F1–F9 folded in; D1 amendment + D7 re-confirmed by the project lead) under `docs/audit/LAUNCH_PROGRAM.md`. Branch `baseline-recovery`. Brought the two bodies of finished work stranded outside `main` onto `main`:
+
+- **Recovered the orphaned pivot-fidelity commit `333a373`** (committed on `luke-propagation` after PR #12 had merged, so never on `main`): `PIVOT_FIDELITY_AUDIT.md`, its DE/ES content fixes (DE Luke 1:49 `der Mächtige *Eine*`; ES `se exultó`, `en el era`, `de el ni`, `se cernia`, 32× copula `*está*`), lint guards §0.3b/§0.3c, and its PENDING follow-ups. **Completed two fixes the original claimed but missed** — Gen 1:11–12 `*está* en el,` → `en él,` (×4) and the capitalised John 1 note `En el era vida` → `En él era vida` — and tightened §0.3b (`[Ee]n el era`, `está\*? en el,`). Re-authored under the no-reply identity with a provenance preface.
+- **Merged `1-peter-expansion`** (book #7; entry below). Only `CLAUDE.md` conflicted textually (resolved by hand: program line kept, 7-book scope/887-test lines taken, Galatians re-labelled post-launch); `PENDING.md` reconciled semantically.
+- **Source-anchored spot check of 1 Peter:** marker parity exact (18 files × 3 locales), 0 anti-calque hits, DE JHWH 115× / YHWH 0×. Found a **corpus-wide PT pivot class** — Rule-11 italics moved onto the noun inside contractions (EN `in *the* flesh` → PT `na *carne*`; ~57 in 1 Peter, ~87 Luke, ~16 Genesis) — logged as playbook **T-20** + Step 3 input (needs a PT convention first). ψυχή = "soul" and Kefa naming left as authored per the D1 amendment (corpus-wide fix in Step 4; `1-peter.md` annotated).
+- **Docs:** README (7 books, 887 tests, tree, log links), CLAUDE.md, PENDING, PROJECT_STATE_AUDIT §1 status, LAUNCH_PROGRAM (D1 amended, progress log), playbook (B.1 count example, T-16 exercised, new T-19 leading-digit slugs, T-20).
+
+**Gates:** 887 tests; conservation **408 files / 20,599 units** (additive); Biome; `tsc`; content-lint (1 pre-existing §0.10 warn); build. Served-HTML + visual verification per plan §5.7.
+
+---
+
 ## 1 Peter 1–5 — new book #7, the EPISTLE GENRE PILOT (EN authored from Greek + propagated to all locales) (2026-06-26 / propagated 2026-07-01)
 
 Per `docs/audit/PLAN_1PETER_EXPANSION.md` (self-audited + externally AUDITED APPROVE; `AUDIT_1PETER_EXPANSION_PLAN.md`). **Book #7 activated** and **1 Peter 1–5 authored in EN from NA28** (the whole book, ~105 verses — the first *complete* NT book in the corpus), then **propagated to PT-BR/DE/ES** — 1 Peter is four-locale, so **all seven books (Genesis, Matthew, Mark, Luke, John, Acts, 1 Peter) are at full EN/PT-BR/DE/ES parity.** 72 files total (18 EN + 54 propagated). **The pipeline's first Letter** (playbook T-16): *argument/exhortation*, not narrative. All **provisional pending Hellenist + locale-editor review (Rule 28)**.

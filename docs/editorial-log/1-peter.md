@@ -54,7 +54,7 @@ Main text renders κύριος "the Lord" + Tier-2; canonical `κύριος (kyr
 - ἀναγεννάω (1:3,23) = "born anew/again/from above" — note the range.
 - λίθος / ἀκρογωνιαῖος (2:4–8) the **"stone"** word-field (living stone / cornerstone / stone of stumbling) — keep literal.
 - ὑποτάσσω (2:13,18; 3:1,5; 5:5) = "submit / be subordinate" — the household-code verb; render literally, flag in Tier-2.
-- βάπτισμα (3:21) = "immersion" (as gospels/Acts). συνείδησις (3:16,21) = "conscience". ἐλπίς (1:3,13,21; 3:15) = "hope". ψυχή (1:9,22; 2:11,25; 3:20; 4:19) = "soul".
+- βάπτισμα (3:21) = "immersion" (as gospels/Acts). συνείδησις (3:16,21) = "conscience". ἐλπίς (1:3,13,21; 3:15) = "hope". ψυχή (1:9,22; 2:11,25; 3:20; 4:19) [**2026-11-19 note:** the ψυχή = "soul" rendering below is **superseded** by Launch-Program decision D7 — locked **life/being** per RULES-GS; re-rendered corpus-wide (all books, incl. Luke/Acts) in Step 4, not here — `docs/audit/LAUNCH_PROGRAM.md`] = "soul".
 
 ## Cruxes — explicit `1-peter.md` editorial-log entries required (Rule-28 trigger; audit Minor 4)
 
