@@ -2,12 +2,16 @@ import type { GlossaryEntry } from "@/domain/content/types";
 import { renderInlineSafe } from "@/ui/shared/render-markdown-safe";
 
 /**
- * Strips bold/italic markers to plain text — for `notes`, which doubles as the
- * `title=` tooltip (no HTML allowed) and is char-sliced, so markdown can't be
- * injected as HTML there.
+ * Strips bold/italic and the TT highlight markers ({t:…}, {a:…}, @@…@@) to
+ * plain text — for `notes`, which doubles as the `title=` tooltip (no HTML
+ * allowed) and is char-sliced, so markup can't be injected as HTML there.
  */
 function stripEmphasis(s: string): string {
-  return s.replace(/\*\*([^*]+)\*\*/g, "$1").replace(/\*([^*]+)\*/g, "$1");
+  return s
+    .replace(/\{[ta]:([^}]*)\}/g, "$1")
+    .replace(/@@([\s\S]*?)@@/g, "$1")
+    .replace(/\*\*([^*]+)\*\*/g, "$1")
+    .replace(/\*([^*]+)\*/g, "$1");
 }
 
 export function GlossaryPanel({ entries }: { entries: GlossaryEntry[] }) {
@@ -20,13 +24,16 @@ export function GlossaryPanel({ entries }: { entries: GlossaryEntry[] }) {
         return (
           <div
             key={`g-${i}`}
-            className="flex items-start gap-3 text-sm py-1.5 border-b border-border-muted last:border-0"
+            className="flex flex-wrap items-start gap-x-3 gap-y-1 text-sm py-1.5 border-b border-border-muted last:border-0 sm:flex-nowrap"
           >
-            <span className="source-word font-semibold text-text-primary min-w-[4rem] text-right shrink-0">
-              {entry.sourceWord}
-            </span>
             <span
-              className="text-text-primary"
+              className="source-word font-semibold text-text-primary min-w-[4rem] [overflow-wrap:anywhere] sm:text-right"
+              dangerouslySetInnerHTML={{
+                __html: renderInlineSafe(entry.sourceWord),
+              }}
+            />
+            <span
+              className="min-w-0 flex-1 text-text-primary [overflow-wrap:anywhere]"
               dangerouslySetInnerHTML={{
                 __html: renderInlineSafe(entry.translation),
               }}
@@ -34,7 +41,7 @@ export function GlossaryPanel({ entries }: { entries: GlossaryEntry[] }) {
             {notesPlain && (
               <span
                 title={notesPlain}
-                className="text-text-muted text-xs ml-auto shrink-0 max-w-[10rem] text-right"
+                className="basis-full text-text-muted text-xs sm:ml-auto sm:basis-auto sm:shrink-0 sm:max-w-[10rem] sm:text-right"
               >
                 {notesPlain.slice(0, 60)}
                 {notesPlain.length > 60 ? "…" : ""}

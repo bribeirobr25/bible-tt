@@ -65,7 +65,7 @@ Las notas se etiquetan por tipo — **Crítico · Léxico · Gramatical · Teol�
 
 ¹³Y fue en el año seiscientos uno, en el primer *mes*, el primero del mes, las aguas se secaron de sobre la tierra; y Noé quito la cubierta de la {t:tebah} y miro, y he aquí, la faz del suelo se había secado. ¹⁴Y en el segundo mes, en el día veintisiete del mes, la tierra estaba seca.
 
-¹⁵Y Dios habló a Noé, diciendo, ¹⁶@@"Sal de la {t:tebah}, tu y tu mujer y tus hijos y las mujeres de tus hijos contigo. ¹⁷Todo ser vivo que *esta* contigo de toda carne — el ave y el ganado y todo lo que se arrastra que se arrastra sobre la tierra — sacalos contigo, y que pululen en la tierra, y sean fecundos y se multipliquen sobre la tierra."@@ ¹⁸Y Noé salió, y sus hijos y su mujer y las mujeres de sus hijos con el. ¹⁹Todo ser vivo, todo lo que se arrastra y toda ave, todo lo que se mueve sobre la tierra, por sus familias salieron de la {t:tebah}.
+¹⁵Y Dios habló a Noé, diciendo, ¹⁶@@"Sal de la {t:tebah}, tu y tu mujer y tus hijos y las mujeres de tus hijos contigo. ¹⁷Todo ser vivo que *está* contigo de toda carne — el ave y el ganado y todo lo que se arrastra que se arrastra sobre la tierra — sacalos contigo, y que pululen en la tierra, y sean fecundos y se multipliquen sobre la tierra."@@ ¹⁸Y Noé salió, y sus hijos y su mujer y las mujeres de sus hijos con el. ¹⁹Todo ser vivo, todo lo que se arrastra y toda ave, todo lo que se mueve sobre la tierra, por sus familias salieron de la {t:tebah}.
 
 ²⁰Y Noé construyó un altar a YHWH, y tomó de todo ganado limpio y de toda ave limpia, y ofreció ofrendas quemadas sobre el altar. ²¹Y YHWH olió el aroma apaciguante, y YHWH dijo en su corazón, @@"No volveré a maldecir el suelo por causa del humano, pues la inclinación del corazón del humano *es* mala desde su juventud; y no volveré a golpear a todo ser vivo como he hecho. ²²Mientras aun *sean* todos los días de la tierra, siembra y cosecha, y frio y calor, y verano e invierno, y día y noche no cesaran."@@
 
@@ -249,7 +249,7 @@ Y Dios habló a Noé, diciendo,
 
 ### **Versículo 17**
 
-@@Todo ser vivo que *esta* contigo de toda carne — el ave y el ganado y todo lo que se arrastra que se arrastra sobre la tierra — sacalos contigo, y que pululen en la tierra, y sean fecundos y se multipliquen sobre la tierra."@@
+@@Todo ser vivo que *está* contigo de toda carne — el ave y el ganado y todo lo que se arrastra que se arrastra sobre la tierra — sacalos contigo, y que pululen en la tierra, y sean fecundos y se multipliquen sobre la tierra."@@
 
 > **NOTAS**
 >

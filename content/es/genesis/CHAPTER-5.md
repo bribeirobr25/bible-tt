@@ -61,7 +61,7 @@ Las notas se etiquetan por tipo — **Crítico · Léxico · Gramatical · Teol�
 
 ---
 
-¹Este *es* el libro de las generaciónes de Adan. En el día *en que* Dios creó *al* humano, en la semejanza de Dios lo hizo. ²Varon y hembra los creo, y los bendijo, y llamó su nombre Humano en el día *en que* fueron creados. ³Y Adan vivió ciento treinta años, y engendró en su semejanza, conforme a su imagen, y llamó su nombre Shet (Set). ⁴Y los días de Adan después de engendrar a Set fueron ochocientos años, y engendró hijos e hijas. ⁵Y todos los días de Adan que vivió fueron novecientos treinta años, y murió.
+¹Este *es* el libro de las generaciones de Adan. En el día *en que* Dios creó *al* humano, en la semejanza de Dios lo hizo. ²Varon y hembra los creo, y los bendijo, y llamó su nombre Humano en el día *en que* fueron creados. ³Y Adan vivió ciento treinta años, y engendró en su semejanza, conforme a su imagen, y llamó su nombre Shet (Set). ⁴Y los días de Adan después de engendrar a Set fueron ochocientos años, y engendró hijos e hijas. ⁵Y todos los días de Adan que vivió fueron novecientos treinta años, y murió.
 
 ⁶Y Set vivió ciento cinco años, y engendró a Enosh. ⁷Y Set vivió después de engendrar a Enosh ochocientos siete años, y engendró hijos e hijas. ⁸Y todos los días de Set fueron novecientos doce años, y murió.
 
@@ -87,12 +87,12 @@ Las notas se etiquetan por tipo — **Crítico · Léxico · Gramatical · Teol�
 
 ### **Versículo 1**
 
-Este *es* el libro de las generaciónes de Adan. En el día *en que* Dios creó *al* humano, en la semejanza de Dios lo hizo.
+Este *es* el libro de las generaciones de Adan. En el día *en que* Dios creó *al* humano, en la semejanza de Dios lo hizo.
 
 > **NOTAS**
 >
 > 🔴 **LA FORMULA TOLEDOT RETORNA**
-> - **סֵפֶר תּוֹלְדֹת אָדָם** (*sefer toledot Adam*) = "el libro de las generaciónes de Adan." Segundo marcador *toledot* en Génesis (el primero en 2:4). Este anade **סֵפֶר** (*sefer*, "libro/documento") — el único *toledot* con este prefijo. Senala un registro escrito estructurado.
+> - **סֵפֶר תּוֹלְדֹת אָדָם** (*sefer toledot Adam*) = "el libro de las generaciones de Adan." Segundo marcador *toledot* en Génesis (el primero en 2:4). Este anade **סֵפֶר** (*sefer*, "libro/documento") — el único *toledot* con este prefijo. Senala un registro escrito estructurado.
 >
 > 🔴 **CRÍTICO — ADAN ES AHORA NOMBRE PROPIO**
 > - **אָדָם** (*Adam*) — sin artículo, contexto genealogico. Nombre propio fijado desde este versículo en adelante (conforme entrada 081 del diario editorial). El mismo versículo luego usa "humano" (*adam*) genericamente en la frase de recuerdo de la creación: "en el día en que Dios creó al humano."
@@ -120,7 +120,7 @@ Y Adan vivió ciento treinta años, y engendró en su semejanza, conforme a su i
 > **NOTAS**
 >
 > 🔴 **IMAGEN/SEMEJANZA INVERTIDA**
-> - Gn 1:26–27: Dios crea al humano "en nuestra imagen, conforme a nuestra semejanza." Gn 5:3: Adan engendra a Set "en **su** semejanza, conforme a **su** imagen." El lenguaje de creación divino-a-humano se **encadena al descenso humano-a-humano**. El par *tselem/demut* continua a través de las generaciónes.
+> - Gn 1:26–27: Dios crea al humano "en nuestra imagen, conforme a nuestra semejanza." Gn 5:3: Adan engendra a Set "en **su** semejanza, conforme a **su** imagen." El lenguaje de creación divino-a-humano se **encadena al descenso humano-a-humano**. El par *tselem/demut* continua a través de las generaciones.
 >
 > 🟢 **130 ANOS**
 > - Gn 2:17 advirtio "muriendo moriras." Gn 3:19 declaro "polvo eres." Ahora Adan vive 130 años antes de Set — luego muere a los 930 (v.5). La tension del "en el dia" (2:17 vs. 5:5) esta textualmente presente. Referencia cruzada a la entrada del diario editorial sobre las opciónes interpretativas de *beyom*.
@@ -361,7 +361,7 @@ Y Noé tenia quinientos años, y Noé engendró a Shem, Cam y Jafet.
 | Hebreo | Español | Notas |
 |--------|---------|-------|
 | סֵפֶר | libro / documento | Unico toledot con este prefijo (5:1) |
-| תּוֹלְדוֹת | generaciónes | Marcador estructural; segunda ocurrencia (cf. 2:4) |
+| תּוֹלְדוֹת | generaciones | Marcador estructural; segunda ocurrencia (cf. 2:4) |
 | הִתְהַלֵּךְ | camino (con Dios) | Hitpael de ה-ל-כ; relación intima continua; solo Enoc (5:22,24) y Noé (6:9) |
 | לָקַח | tomó | Dios "tomo" a Enoc (5:24); verbo usado para varios actos divinos |
 | נָחַם | consolar / arrepentirse | Juego de palabras con Noé; misma raíz que 6:6 (YHWH "se arrepintio") |
@@ -387,9 +387,9 @@ Y Noé tenia quinientos años, y Noé engendró a Shem, Cam y Jafet.
 - 5:24: Enoc — "y no fue más, porque Dios lo tomo" (formula conspicuamente ausente)
 
 **Cadena de la formula toledot:**
-- 2:4: "generaciónes de los cielos y la tierra"
-- 5:1: "libro de las generaciónes de Adan"
-- Siguiente: 6:9 "generaciónes de Noé"
+- 2:4: "generaciones de los cielos y la tierra"
+- 5:1: "libro de las generaciones de Adan"
+- Siguiente: 6:9 "generaciones de Noé"
 
 **Distribución YHWH vs. Elohim:**
 - Gn 5 usa *Elohim* en todo — EXCEPTO v.29 (discurso de Lamec: "el suelo que **YHWH** maldijo")

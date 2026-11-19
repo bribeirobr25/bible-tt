@@ -7,7 +7,40 @@ in `docs/audit/PENDING.md`.
 > The **Plan artifact** column references per-phase plan docs removed in the 2026-06-12
 > documentation lean-up (completed plans). The **What it did** column is the authoritative record.
 
-**Latest editorial-log anchors:** `genesis.md` Entry `2026-06-19-120` · `john.md` J-036 · `matthew.md` M-034 · `mark.md` `2026-06-21-007` · `luke.md` L-005 · `acts.md` A-007.
+**Latest editorial-log anchors:** `genesis.md` Entry `2026-06-19-120` · `john.md` J-036 · `matthew.md` M-034 · `mark.md` `2026-06-21-007` · `luke.md` L-005 · `acts.md` A-007 · `1-peter.md` P-010.
+
+---
+
+## Launch-Readiness Program — Step 1: Baseline recovery (2026-11-19)
+
+Per `docs/audit/PLAN_BASELINE_RECOVERY.md` (independent adversarial review F1–F9 folded in; D1 amendment + D7 re-confirmed by the project lead) under `docs/audit/LAUNCH_PROGRAM.md`. Branch `baseline-recovery`. Brought the two bodies of finished work stranded outside `main` onto `main`:
+
+- **Recovered the orphaned pivot-fidelity commit `333a373`** (committed on `luke-propagation` after PR #12 had merged, so never on `main`): `PIVOT_FIDELITY_AUDIT.md`, its DE/ES content fixes (DE Luke 1:49 `der Mächtige *Eine*`; ES `se exultó`, `en el era`, `de el ni`, `se cernia`, 32× copula `*está*`), lint guards §0.3b/§0.3c, and its PENDING follow-ups. **Completed two fixes the original claimed but missed** — Gen 1:11–12 `*está* en el,` → `en él,` (×4) and the capitalised John 1 note `En el era vida` → `En él era vida` — and tightened §0.3b (`[Ee]n el era`, `está\*? en el,`). Re-authored under the no-reply identity with a provenance preface.
+- **Merged `1-peter-expansion`** (book #7; entry below). Only `CLAUDE.md` conflicted textually (resolved by hand: program line kept, 7-book scope/887-test lines taken, Galatians re-labelled post-launch); `PENDING.md` reconciled semantically.
+- **Source-anchored spot check of 1 Peter:** marker parity exact (18 files × 3 locales), 0 anti-calque hits, DE JHWH on 115 lines / YHWH 0. Found a **corpus-wide PT pivot class** — Rule-11 italics moved onto the noun inside contractions (EN `in *the* flesh` → PT `na *carne*`; upper bound, regex `\b(na|no|nas|nos|da|do|das|dos|pela|pelo|pelas|pelos|à|às|ao|aos) \*[^*]+\*` over `content/pt-br/<book>/CHAPTER-*.md`: 1 Peter 57 · Luke 86 · Genesis 16 · Acts 8 · John 11 · Matthew 11 · Mark 1 — includes some legitimate italics; the exact class is sized in the Step 3 sweep; 0 fixed in Step 1 — the whole class waits for a PT convention) — logged as playbook **T-20** + Step 3 input (needs a PT convention first). ψυχή = "soul" and Kefa naming left as authored per the D1 amendment (corpus-wide fix in Step 4; both annotated in `1-peter.md`).
+- **Docs:** README (7 books, 887 tests, tree, log links), CLAUDE.md, PENDING, PROJECT_STATE_AUDIT §1 status, LAUNCH_PROGRAM (D1 amended, progress log), playbook (B.1 count example, T-16 exercised, new T-19 leading-digit slugs, T-20).
+
+**Gates:** 887 tests; conservation **408 files / 20,599 units** (additive); Biome; `tsc`; content-lint (1 pre-existing §0.10 warn); build. Served-HTML + visual verification per plan §5.7 — all checks pass; two **pre-existing** layout issues (no chapter-head left gutter at 1280px; long titles clip on mobile) logged as Step 5 inputs.
+
+**Implementation review (5 independent reviewers — integrity, code/tooling, content, docs, runtime/visual) + fixes folded into PR #15:** prophecy cards rendered raw markdown/markers (now through the safe renderer, all fields); glossary term column showed raw `{a:…}` and overflowed mobile (up to 690px at 390px) — fixed; recovered lint guards hardened (bold-safe anchoring, locale-safe `exultó`, `generaciónes`) + new warn-only **§0.3d** for the lowercase pivot-calque class; **1 Peter Isa 40:8 notes corrected in all 4 locales** (the source reads "our God" in MT + LXX — κυρίου is 1 Peter's substitution, not YHWH; "verbatim" → "close"); Rule-11 italics removed where the word is in the Greek (2:18 οἰκέται, 1:7 δέ); DE 2:6 grammar; PT 2:15 generic "pessoas" (Rule 27); ES accents (John 1 note, 27× `generaciónes`); stale ES Luke note; 1 Peter People headers no longer nest names. The recovery commit's "original message" is abridged — the full text is preserved at tag `archive/333a373`. Deferrals → `PLAN_BASELINE_RECOVERY.md` §10.
+
+---
+
+## 1 Peter 1–5 — new book #7, the EPISTLE GENRE PILOT (EN authored from Greek + propagated to all locales) (2026-06-26 / propagated 2026-07-01)
+
+Per `docs/audit/PLAN_1PETER_EXPANSION.md` (self-audited + externally AUDITED APPROVE; `AUDIT_1PETER_EXPANSION_PLAN.md`). **Book #7 activated** and **1 Peter 1–5 authored in EN from NA28** (the whole book, ~105 verses — the first *complete* NT book in the corpus), then **propagated to PT-BR/DE/ES** — 1 Peter is four-locale, so **all seven books (Genesis, Matthew, Mark, Luke, John, Acts, 1 Peter) are at full EN/PT-BR/DE/ES parity.** 72 files total (18 EN + 54 propagated). **The pipeline's first Letter** (playbook T-16): *argument/exhortation*, not narrative. All **provisional pending Hellenist + locale-editor review (Rule 28)**.
+
+**Genre adaptation (T-16):** INTRODUCTION gains recipient-community + §D3 Epistolary-Conventions (the *Haustafel*, the amanuensis question 5:12); PEOPLE is **thin** (Kefa see-stub → mark/PEOPLE.md, Silvanus/Markos brief, recipient communities described — **no genealogy, no timeline**); PROPHECY companions reframe to **OT-in-argument** ("Note on mode of allusion"; status re-read as quoted/echoed/typological, dual-labels kept). An epistle-parser spike (one §D block + one OT-in-argument entry) passed before bulk authoring.
+
+**Cruxes carried with Tier-2 + Rule-13, each with an editorial-log entry (P-006…P-010):** 3:18–20 spirits-in-prison (all 3 readings kept, resolves none), 3:21 baptism "now saves"/antitype (no sacramental import), 1:1–2 triune-shaped salutation (no imported dogma, Rule 3), 2:18–3:7 the **household code** (render the Greek — ὑποτάσσω, "weaker vessel" *and* "co-heir" 3:7, Sarah "calling him lord" lowercase — flag reception history, take no position; the reviewer flashpoint), 4:6 "preached to the dead", 2:8 "appointed". Divine speech `@@`-marked only where the source verse is God's first person (1:16 Lev; 2:6 Isa 28:16). κύριος Option C; YHWH in OT citations (1:25, 2:3, 3:12) + the 3:15 referent-shift.
+
+**Phase 0a (audit Finding 1 — the first leading-digit slug):** widened the two cross-book slug-parsing regexes `([a-z][a-z-]*)` → `([a-z0-9][a-z0-9-]*)` (`content-lint.sh` §0.12 + `people-parser.ts` `crossBookSee`) + a `1-peter` round-trip regression test — the durable fix for the whole N-book epistle trajectory (2 Peter, 1–3 John).
+
+**Activation (8 touchpoints):** registry + BOOK_ORDER (+1-peter after acts) + bookLabels + people-fields inBook aliases + i18n book["1-peter"]/heroTagline/sectionKick "Six→Seven books" ×4 + content-lint dir-lists/§0.11/§0.12 globs + RULES-CORE allow-list (1-peter NOT previously forward-tracked) + editorial-log + source-analysis stub. activation-consistency 8/8.
+
+**Propagation (2026-07-01, mirror-EN, GS-governed):** Almeida/Luther/Reina-Valera familiar names; **DE→JHWH, PT/ES→YHWH** in the OT citations; marker parity exact (54/54 files, scripted Python count-diff — T-18); `{a:…}` slash-content localized (viento/espíritu, Wind/Geist) while `{a:` count held; ES **ustedes** + full diacritics; PT classical **vós** Almeida register (corpus-consistent); anti-calque clean; no redundant `Name (Name)`. Independent second audit found the two apparent "drifts" (the +1 h3 edition-subtitle; the PT/ES prophecy-file English `## The Transparent Translation (TT)` subtitle) both **faithfully match the established Acts convention** — not defects. Gates green (887 tests; conservation additive 354→408 files / 20,599 units; lint; content:lint; build); visual per locale (DE Deeper, ES Read, PT Deeper; cross-book see-stub link resolves in all locales). editorial-log `1-peter.md` P-001…P-010.
+
+**Next book (recorded trajectory, post-launch):** the NT Epistles continue — **Galatians** (tightest Acts interlock), then **Romans**, **James** — each its own audited `PLAN_{BOOK}_EXPANSION.md`.
 
 ---
 

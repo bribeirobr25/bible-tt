@@ -80,7 +80,7 @@ Y YHWH dijo a Noé, @@"Ven, tú y toda tu casa, a la {t:tebah}, pues a ti he vis
 > - Esta sección (7:1-5) usa **YHWH**, no Elohim. YHWH pronuncia el mandato personal e intimo. Contraste con 7:9,16a donde el narrador usa "Dios" (Elohim) para el marco estructural/cosmico. Rasgo textual preservado.
 >
 > 🟢 **"JUSTO" (*tsaddiq*)**
-> - **צַדִּיק** (*tsaddiq*) — misma palabra que en 6:9. Pero 6:9 dice "justo... integro en sus generaciónes" (descripción del narrador). Aqui YHWH dice "justo ante mi en esta generación" — confirmación divina, pero sin *tamim* (integro/completo). Si la omision es significativa: POSIBLE.
+> - **צַדִּיק** (*tsaddiq*) — misma palabra que en 6:9. Pero 6:9 dice "justo... integro en sus generaciones" (descripción del narrador). Aqui YHWH dice "justo ante mi en esta generación" — confirmación divina, pero sin *tamim* (integro/completo). Si la omision es significativa: POSIBLE.
 
 ---
 

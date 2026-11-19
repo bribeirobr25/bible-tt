@@ -21,6 +21,8 @@
 
 ## 1. Baseline & branch state
 
+> **Status update (2026-11-19):** both stranded items below are **resolved by Step 1** of `docs/audit/LAUNCH_PROGRAM.md` (`PLAN_BASELINE_RECOVERY.md`) — `333a373` recovered (with two missed ES fixes completed) and `1-peter-expansion` merged. Kept here as the historical finding.
+
 | Item | Finding | ✔ |
 |---|---|---|
 | **1 Peter unmerged** | `origin/1-peter-expansion`: 10 commits (to 2026-07-02), 91 files / +18.5k lines — all 5 chapters × 4 locales, `PLAN_1PETER_EXPANSION.md` + `AUDIT_1PETER_EXPANSION_PLAN.md`, `editorial-log/1-peter.md`, EXECUTION_HISTORY/PENDING/CLAUDE.md updates, and **code changes** (cross-book slug regexes widened for leading-digit slugs, people-parser/people-fields, content-lint, i18n, registry). **No PR exists.** Every `main` doc saying "next up: 1 Peter" is stale. | ✔ |
@@ -190,8 +192,8 @@ Environment note: `node_modules` was absent; installed with `pnpm install --froz
 
 ## 8. Coverage — what this audit did not review
 
-1. **`origin/1-peter-expansion` in full** (plan, audit, code changes, content) — only the head of `1-peter.md` was read. Prerequisite for the merge decision.
-2. **Orphaned commit `333a373`'s `content-lint.sh` diff** (§0.3b/§0.3c) — only its report and commit message were read.
+1. ~~**`origin/1-peter-expansion` in full**~~ — **covered by Step 1** (review + merge + 5-reviewer implementation review, `PLAN_BASELINE_RECOVERY.md` §10).
+2. ~~**Orphaned commit `333a373`'s `content-lint.sh` diff**~~ — **covered by Step 1** (reviewed, recovered, hardened).
 3. **Systematic content rule-compliance sweep** of the 336 content files (glossary renderings per locale, Rule 20 casing, name forms vs tables, Rule 11 balance, Rule 30 scope, Rule-28 front matter, meta leaks). Only targeted scans were run. Translation-quality judgment remains the Rule-28 human reviewers' responsibility.
 4. **Direct reading** of `structured.ts`, `people-parser.ts`/`people-fields.ts` in full, `globals.css`, `seo.ts`, `og.tsx`, prophecy/book-context parsers (verified by output reconciliation instead), and of the editorial logs / audit archive / source-analysis corpus (subagent digests, spot-checked).
 5. **Rendered output**: no mobile/tablet/desktop visual pass across locales, no axe/Lighthouse accessibility or performance run, OG images not rendered.

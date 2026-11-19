@@ -63,9 +63,9 @@ Las notas se etiquetan por tipo — **Crítico · Léxico · Gramatical · Teol�
 
 ¹Y fueron acabados los cielos y la tierra y todo su ejercito. ²Y Dios acabo en el septimo día su obra que había hecho, y descanso en el septimo día de toda su obra que había hecho. ³Y Dios bendijo el septimo día y lo santifico, porque en el descanso de toda su obra que Dios creó para hacer.
 
-⁴Estas *son* las generaciónes de los cielos y la tierra cuando fueron creados, en el día *que* YHWH Elohim hizo tierra y cielos. ⁵Y todo arbusto del campo aun no estaba en la tierra, y toda hierba del campo aun no había brotado, porque YHWH Elohim no había hecho llover sobre la tierra, y un humano no había para trabajar el suelo. ⁶Y *una* niebla subia de la tierra y regaba toda la faz del suelo. ⁷Y YHWH Elohim formó al humano, polvo del suelo, y soplo en sus narices aliento de vida, y el humano llego a ser *un* ser vivo.
+⁴Estas *son* las generaciones de los cielos y la tierra cuando fueron creados, en el día *que* YHWH Elohim hizo tierra y cielos. ⁵Y todo arbusto del campo aun no estaba en la tierra, y toda hierba del campo aun no había brotado, porque YHWH Elohim no había hecho llover sobre la tierra, y un humano no había para trabajar el suelo. ⁶Y *una* niebla subia de la tierra y regaba toda la faz del suelo. ⁷Y YHWH Elohim formó al humano, polvo del suelo, y soplo en sus narices aliento de vida, y el humano llego a ser *un* ser vivo.
 
-⁸Y YHWH Elohim plantó un jardín en Eden desde el oriente, y puso allí al humano que había formado. ⁹Y YHWH Elohim hizo brotar del suelo todo árbol agradable a la vista y bueno para alimento, y el árbol de la vida en medio del jardín, y el árbol del conocimiento del bien y del mal. ¹⁰Y *un* rio salia de Eden para regar el jardín, y de allí se dividía y se hacia cuatro cabezas. ¹¹El nombre del uno *es* Pishon; él *es* el que rodea toda la tierra de Havilah, donde *esta* el oro. ¹²Y el oro de aquella tierra *es* bueno; allí *esta* el bdelio y la piedra shoham. ¹³Y el nombre del segundo rio *es* Gihon; él *es* el que rodea toda la tierra de Cush. ¹⁴Y el nombre del tercer rio *es* Hiddeqel; él *es* el que va al oriente de Asur. Y el cuarto rio, ese *es* Perat.
+⁸Y YHWH Elohim plantó un jardín en Eden desde el oriente, y puso allí al humano que había formado. ⁹Y YHWH Elohim hizo brotar del suelo todo árbol agradable a la vista y bueno para alimento, y el árbol de la vida en medio del jardín, y el árbol del conocimiento del bien y del mal. ¹⁰Y *un* rio salia de Eden para regar el jardín, y de allí se dividía y se hacia cuatro cabezas. ¹¹El nombre del uno *es* Pishon; él *es* el que rodea toda la tierra de Havilah, donde *está* el oro. ¹²Y el oro de aquella tierra *es* bueno; allí *está* el bdelio y la piedra shoham. ¹³Y el nombre del segundo rio *es* Gihon; él *es* el que rodea toda la tierra de Cush. ¹⁴Y el nombre del tercer rio *es* Hiddeqel; él *es* el que va al oriente de Asur. Y el cuarto rio, ese *es* Perat.
 
 ¹⁵Y YHWH Elohim tomó al humano y lo puso en el jardín de Eden para trabajarlo y para guardarlo. ¹⁶Y YHWH Elohim mandó sobre el humano, diciendo: @@"De todo árbol del jardín comiendo comeras. ¹⁷Pero del árbol del conocimiento del bien y del mal, no comeras de el, porque en el día de tu comer de él muriendo moriras."@@
 
@@ -123,7 +123,7 @@ Y Dios bendijo el septimo día y lo santifico, porque en el descanso de toda su 
 
 ### **Versículo 4**
 
-Estas *son* las generaciónes de los cielos y la tierra cuando fueron creados, en el día *que* YHWH Elohim hizo tierra y cielos.
+Estas *son* las generaciones de los cielos y la tierra cuando fueron creados, en el día *que* YHWH Elohim hizo tierra y cielos.
 
 > **NOTAS**
 >
@@ -133,7 +133,7 @@ Estas *son* las generaciónes de los cielos y la tierra cuando fueron creados, e
 > - Primera ocurrencia del compuesto **יהוה אֱלֹהִים** (*YHWH Elohim*) = "YHWH Elohim," un emparejamiento distintivo usado intensamente en Gen 2-3. **Nunca colapsado a "Señor Dios"** — eso ocultaria dos lexemás distintos.
 >
 > 🔴 **FORMULA TOLEDOT**
-> - **אֵלֶּה תּוֹלְדוֹת** (*eleh toledot*) = "estas *son* las generaciónes/origenes/relatos"--marcador estructural mayor en Génesis. Aparece 11 veces a lo largo del libro y lo divide en secciones.
+> - **אֵלֶּה תּוֹלְדוֹת** (*eleh toledot*) = "estas *son* las generaciones/origenes/relatos"--marcador estructural mayor en Génesis. Aparece 11 veces a lo largo del libro y lo divide en secciones.
 > - Raiz **י-ל-ד** (*y-l-d*) = dar a luz; *toledot* literalmente = "engendraciones." El significado se extiende más alla de genealogía a "relato de origen" o "cosas que surgieron."
 >
 > 🔵 **INVERSION DE ORDEN**
@@ -230,7 +230,7 @@ Y *un* rio salia de Eden para regar el jardín, y de allí se dividía y se haci
 
 ### **Versículo 11**
 
-El nombre del uno *es* Pishon; él *es* el que rodea toda la tierra de Havilah, donde *esta* el oro.
+El nombre del uno *es* Pishon; él *es* el que rodea toda la tierra de Havilah, donde *está* el oro.
 
 > **NOTAS**
 >
@@ -241,7 +241,7 @@ El nombre del uno *es* Pishon; él *es* el que rodea toda la tierra de Havilah, 
 
 ### **Versículo 12**
 
-Y el oro de aquella tierra *es* bueno; allí *esta* el bdelio y la piedra shoham.
+Y el oro de aquella tierra *es* bueno; allí *está* el bdelio y la piedra shoham.
 
 > **NOTAS**
 >
@@ -431,7 +431,7 @@ Y estaban ambos desnudos, el humano y su mujer, y no se avergonzaban.
 | יהוה אֱלֹהִים | YHWH Elohim | Nombre divino compuesto; distintivo de Gen 2-3; nunca colapsado a "Señor Dios" |
 | יָצַר | formo | Verbo de alfarero; distinto de *bara* y *asah*; usado para humano (v.7) y animales (v.19) |
 | בָּנָה | construyó | Verbo de construcción; usado para la mujer (v.22) solo en Gen 2 |
-| תּוֹלְדוֹת | generaciónes / origenes | Marcador estructural en Génesis (11x en el libro); primera ocurrencia v.4 |
+| תּוֹלְדוֹת | generaciones / origenes | Marcador estructural en Génesis (11x en el libro); primera ocurrencia v.4 |
 | צָבָא | ejercito | Totalidad de las cosas creadas; metafora militar |
 | שָׁבַת | descanso / cesó | Raiz de *Shabat*; primer uso v.2 |
 | קָדַשׁ | santifico / aparto | Primer uso v.3 — primera cosa llamada santa es un tiempo |
