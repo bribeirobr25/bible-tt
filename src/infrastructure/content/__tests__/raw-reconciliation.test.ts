@@ -10,6 +10,11 @@ import { parseProphecyMarkdown } from "../prophecy-parser";
 
 /**
  * Step 2 (PLAN_SAFETY_NET.md WS4.2) — raw-count reconciliation.
+ * Independence (implementation review R2): genuinely independent for prophecy
+ * (H2 titles vs the parser's **Verse:** field) and people (own non-person
+ * rule); routing-only for verses and companions (same header regex as the
+ * parser — proves headers land in the right section). Those two are
+ * backstopped by the canonical verse table and cross-locale parity.
  *
  * The conservation gate proves the parser → structured-layer derivation loses
  * nothing, but its expected values come from the parsed objects themselves, so
@@ -39,9 +44,13 @@ const CANONICAL_VERSES: Record<string, number[]> = {
 };
 
 const chapterFiles = (locale: string, book: string) =>
-  readdirSync(path.join(CONTENT, locale, book))
-    .filter((f) => /^CHAPTER-\d+\.md$/.test(f))
-    .sort((a, b) => Number(a.match(/\d+/)?.[0]) - Number(b.match(/\d+/)?.[0]));
+  !existsSync(path.join(CONTENT, locale, book))
+    ? [] // an EN-only PILOT book has no locale dir (implementation review R2)
+    : readdirSync(path.join(CONTENT, locale, book))
+        .filter((f) => /^CHAPTER-\d+\.md$/.test(f))
+        .sort(
+          (a, b) => Number(a.match(/\d+/)?.[0]) - Number(b.match(/\d+/)?.[0]),
+        );
 const studyFiles = (locale: string, book: string, suffix: string) => {
   const d = path.join(CONTENT, locale, book, "study");
   return existsSync(d) ? readdirSync(d).filter((f) => f.endsWith(suffix)) : [];

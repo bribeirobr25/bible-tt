@@ -4,7 +4,11 @@ import { describe, expect, it } from "vitest";
 import { AVAILABLE_BOOKS, PILOT_BOOKS } from "@/domain/books/registry";
 import type { PersonEntry } from "@/domain/content/types";
 import { locales } from "@/infrastructure/i18n/config";
-import { resolveField } from "../people-fields";
+import {
+  parseHistoricityStatus,
+  resolveField,
+  splitList,
+} from "../people-fields";
 import { parsePeopleMarkdown } from "../people-parser";
 
 /**
@@ -73,6 +77,12 @@ describe("people field resolution", () => {
     ).toBeUndefined();
     expect(resolveField("Querverweis")).toBeUndefined();
     expect(resolveField("Redaktionelle Herkunft")).toBeUndefined();
+    // Word boundary after a prefix match, and short aliases exact-only (R2/R3).
+    expect(resolveField("Ortsname")).toBeUndefined();
+    expect(resolveField("Bücherei")).toBeUndefined();
+    expect(resolveField("Ort der Geburt")).toBeUndefined();
+    expect(resolveField("See also")).toBeUndefined();
+    expect(resolveField("Ver también")).toBeUndefined();
   });
 
   it("still resolves start-anchored labels and the Step-2 locale aliases", () => {
@@ -104,13 +114,41 @@ describe("people field resolution", () => {
           `${locale}/${book}: person count differs from EN`,
         ).toBe(en?.length);
         en?.forEach((p, i) => {
-          const mine = new Set(typedFields(loc?.[i] as PersonEntry));
+          const mineList = typedFields(loc?.[i] as PersonEntry);
+          const mine = new Set(mineList);
+          const enSet = new Set(typedFields(p));
+          // Both directions (implementation review R2): a field only the
+          // LOCALE resolves means EN's own label failed (e.g. a typo in EN).
           const missing = typedFields(p).filter((k) => !mine.has(k));
-          if (missing.length) gaps[`${book}|${i}|${locale}`] = missing;
+          const extra = mineList
+            .filter((k) => !enSet.has(k))
+            .map((k) => `+${k}`);
+          if (missing.length || extra.length)
+            gaps[`${book}|${i}|${locale}`] = [...missing, ...extra];
         });
       }
     }
     expect(gaps).toEqual(KNOWN_FIELD_GAPS);
+  });
+
+  it("people are in the same order in every locale (first-mention reference sequence)", () => {
+    // Implementation review R2: positional comparison above can't see two
+    // swapped people with similar field shapes. The verse numbers of each
+    // person's first mention are locale-independent ("Gen 3:20" / "Gn 3,20").
+    const refs = (ps: PersonEntry[] | null) =>
+      (ps ?? []).map((p) => (p.firstMention.match(/\d+/g) ?? []).join("."));
+    const bad: string[] = [];
+    for (const book of books) {
+      const en = refs(people("en", book));
+      for (const locale of locales.filter((l) => l !== "en")) {
+        const loc = refs(people(locale, book));
+        en.forEach((r, i) => {
+          if (r && loc[i] && r !== loc[i])
+            bad.push(`${locale}/${book} #${i}: ${loc[i]} vs EN ${r}`);
+        });
+      }
+    }
+    expect(bad).toEqual([]);
   });
 
   it("every cross-book see-stub carries a typed in-book role (B11 class)", () => {
@@ -121,5 +159,40 @@ describe("people field resolution", () => {
           if (p.crossBookSee && !p.inBook)
             missing.push(`${locale}/${book}: ${p.name}`);
     expect(missing).toEqual([]);
+  });
+});
+
+describe("people list splitting, historicity, genealogy notes (implementation review)", () => {
+  it("splitList keeps verse refs and parenthesized lists intact", () => {
+    expect(splitList("Johannes; Matthäus (4,18; 10,2); Markus (1,16)")).toEqual(
+      ["Johannes", "Matthäus (4,18; 10,2)", "Markus (1,16)"],
+    );
+    expect(splitList("Mark (1:16, 29; 3:16)")).toEqual([
+      "Mark (1:16, 29; 3:16)",
+    ]);
+    expect(splitList("Cain, Abel, Seth")).toEqual(["Cain", "Abel", "Seth"]);
+  });
+
+  it("historicity: DE BESTÄTIGT and leading-word classification", () => {
+    expect(parseHistoricityStatus("BESTÄTIGT (Josephus, Münzen)")).toBe(
+      "VERIFIED",
+    );
+    expect(
+      parseHistoricityStatus("PROBABLE — not verified by inscriptions"),
+    ).toBe("PROBABLE");
+  });
+
+  it("Luke's qualified genealogy note survives with its bullets in all 4 locales", () => {
+    for (const locale of locales) {
+      const f = path.join(ROOT, "content", locale, "luke", "PEOPLE.md");
+      const g =
+        parsePeopleMarkdown(readFileSync(f, "utf-8"), "luke").genealogies ?? [];
+      const note = g.map((x) => x.note ?? "").join("\n");
+      expect(
+        note.split("\n").filter((l) => l.startsWith("- ")).length,
+        locale,
+      ).toBe(6);
+      expect(note, locale).toMatch(/El[ií]/);
+    }
   });
 });

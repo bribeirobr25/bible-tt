@@ -12,7 +12,8 @@ permissions:
 
 concurrency:
   group: gate-${{ github.ref }}
-  cancel-in-progress: true
+  # Cancel superseded PR runs only — every push to main is checked to completion.
+  cancel-in-progress: ${{ github.event_name == 'pull_request' }}
 
 env:
   # Deterministic Unicode behaviour for grep/perl in content-lint (GNU grep on
@@ -25,10 +26,10 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 20
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
       # Version comes from package.json "packageManager" (do not also set `version`).
-      - uses: pnpm/action-setup@v4
-      - uses: actions/setup-node@v4
+      - uses: pnpm/action-setup@v6
+      - uses: actions/setup-node@v7
         with:
           node-version: 22
           cache: pnpm

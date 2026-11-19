@@ -154,6 +154,31 @@ describe("cross-locale parity (EN ↔ PT-BR / DE / ES)", () => {
     expect(diffs).toEqual([]);
   });
 
+  it("INTRODUCTION / book CONTEXT / PROPHECY entry + dual-label counts match EN exactly", () => {
+    // Implementation review R2: whole-entry deletions in these file kinds were
+    // not caught (only companions were compared). All at parity today.
+    const kinds: [RegExp, RegExp][] = [
+      [/^INTRODUCTION\.md$/, /^### /gm],
+      [/^CONTEXT\.md$/, /^## /gm],
+      [/-PROPHECY\.md$/, /^## /gm],
+    ];
+    const diffs: string[] = [];
+    for (const book of books)
+      for (const rel of listMd(path.join(CONTENT, "en", book)))
+        for (const [file, heading] of kinds) {
+          if (!file.test(path.basename(rel))) continue;
+          const en = read("en", book, rel);
+          const want = `${count(en, heading)}/${count(en, DUAL_LABEL)}`;
+          for (const l of NON_EN) {
+            const t = read(l, book, rel);
+            const got = `${count(t, heading)}/${count(t, DUAL_LABEL)}`;
+            if (got !== want)
+              diffs.push(`${l}/${book}/${rel}: ${got} vs EN ${want}`);
+          }
+        }
+    expect(diffs).toEqual([]);
+  });
+
   it("companion entry and dual-label counts match EN except the listed gaps", () => {
     const entry: Record<string, [number, number]> = {};
     const label: Record<string, [number, number]> = {};

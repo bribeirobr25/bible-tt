@@ -40,6 +40,9 @@ tool_error() {
 # ------------------------------------------------------------
 LOCALES="en pt-br de es"
 HB_BOOKS="genesis"
+# Cross-book PEOPLE pointer targets not yet authored (forward references). With
+# the generated book list they form the §0.12 allow-list.
+FORWARD_SLUGS="exodus kings isaiah"
 
 is_hb_book() {
   case " $HB_BOOKS " in *" $1 "*) return 0 ;; esac
@@ -158,6 +161,9 @@ emit_warn() {
 lint_grep() {
   local rule_id="$1" pattern="$2" rc
   shift 2
+  LINT_OUT=""
+  # No paths would make grep -r recurse "." (node_modules, .next…) — never.
+  if [ $# -eq 0 ]; then tool_error "$rule_id" "no input paths"; return; fi
   LINT_OUT=$(grep -rEn -- "$pattern" "$@")
   rc=$?
   if [ $rc -gt 1 ]; then tool_error "$rule_id" "grep exited $rc"; fi
@@ -192,9 +198,13 @@ require_files() {
 lint_perl_re() {
   local rule_id="$1" re="$2" rc
   shift 2
+  LINT_OUT=""
+  # No files would make perl -n read stdin (hang) — never.
+  if [ $# -eq 0 ]; then tool_error "$rule_id" "no input files"; return; fi
   require_files "$rule_id" "$@"
-  LINT_OUT=$(LINT_RE="$re" perl -CSD -Mutf8 -MEncode -ne '
-    BEGIN { $re = decode("UTF-8", $ENV{LINT_RE}); $re = qr/$re/; }
+  # utf8::decode is core perl (no Encode module needed on minimal images).
+  LINT_OUT=$(LINT_RE="$re" perl -CSD -ne '
+    BEGIN { $re = $ENV{LINT_RE}; utf8::decode($re); $re = qr/$re/; }
     if (/$re/) { chomp; print "$ARGV:$.:$_\n"; }
     close ARGV if eof;
   ' "$@")
@@ -230,7 +240,7 @@ echo ""
 # ============================================================
 
 # §0.1 — Stale ruleset version stamps (rules at v3.3 since 2026-05-08)
-check_pattern "0.1" "Stale ruleset version stamp (rules at v3.3)" \
+check_pattern "0.1" "Stale ruleset version stamp (older than v3.3; rules are at v3.4)" \
   "Ruleset v3\.0|Ruleset v3\.1|Ruleset v3\.2|Conjunto de Regras v3\.0|Conjunto de Regras v3\.1|Conjunto de Regras v3\.2|Reglas v3\.0|Reglas v3\.1|Reglas v3\.2|Regelwerk v3\.0|Regelwerk v3\.1|Regelwerk v3\.2|Ruleset version in force:\*\* v3\.0|Ruleset version in force:\*\* v3\.1|Ruleset version in force:\*\* v3\.2|\*\*Ruleset:\*\* v3\.0|\*\*Ruleset:\*\* v3\.1|\*\*Ruleset:\*\* v3\.2|\*\*Regelwerk:\*\* v3\.0|\*\*Regelwerk:\*\* v3\.1|\*\*Regelwerk:\*\* v3\.2|\*\*Conjunto de Regras:\*\* v3\.0|\*\*Conjunto de Regras:\*\* v3\.1|\*\*Conjunto de Regras:\*\* v3\.2|\*\*Reglas:\*\* v3\.0|\*\*Reglas:\*\* v3\.1|\*\*Reglas:\*\* v3\.2|\*\*Regras:\*\* v3\.0|\*\*Regras:\*\* v3\.1|\*\*Regras:\*\* v3\.2|\*\*Conjunto de reglas:\*\* v3\.0|\*\*Conjunto de reglas:\*\* v3\.1|\*\*Conjunto de reglas:\*\* v3\.2" \
   "$CONTENT_DIRS $EDITORIAL_LOGS"
 
@@ -254,7 +264,7 @@ check_pattern "0.2" "Raw em-dash residue ' -- ' (use em-dash —)" \
 # §0.3 — ES diacritic loss in front matter / headings (ALL es books since Step 2; token list
 # widened with the remaining front-matter/heading words cleared in Step 2).
 check_pattern "0.3" "ES diacritic loss in front matter or headings" \
-  "\bTraduccion\b|\bEdicion\b|\bEspanol\b|\bPolitica\b|\bSenor\b|\bCompanero\b|\bCapitulo\b|\bHistorico\b|\bAnalisis\b|\bRecepcion\b" \
+  "\bTraduccion\b|\bEdicion\b|\bEspanol\b|\bPolitica\b|\bSenor(es)?\b|\bCompanero\b|\bCapitulos?\b|\bHistoricos?\b|\bAnalisis\b|\bRecepcion\b" \
   "content/es"
 
 # §0.3b — ES diacritic/grammar regressions (ALL es books, incl. genesis — §0.3 only covers NT).
@@ -275,7 +285,10 @@ check_pattern "0.3b" "ES diacritic/grammar regression (audit-cleared tokens)" \
 # EN-pivot artifact (Rule 11 marks words the *target* grammar needs, not English's crutches).
 # Step 2 precision: only after a capitalized word ("der Mächtige *Eine*", "o Poderoso *Um*"), so a
 # legitimate sentence-initial Rule-11 addition ("*Eine* Stimme") passes. perl -CSD (Unicode).
-lint_perl_re "0.3c" '\p{Lu}\p{Ll}+ \*(?:Eine[rnm]?|Eins|Uma?|Una?|Uno)\*(?!\*)' $(find content/de content/pt-br content/es -name '*.md' | sort)
+# Implementation review R1: any word before the filler counts (also "der mächtige *Eine*"); a
+# sentence-initial addition ("*Eine* Stimme", „*Eine*) still passes.
+NON_EN_MD=$(find content/de content/pt-br content/es -name '*.md' | sort) || tool_error "0.3c" "find failed"
+lint_perl_re "0.3c" '(?<=\p{L}) \*(?:Eine[rnm]?|Eins|Uma?|Una?|Uno)\*(?!\*)' $NON_EN_MD
 emit "0.3c" "EN-pivot grammatical-filler calque (italic One/Eine/Um/Uno after a capitalized word)" "$(printf '%s' "$LINT_OUT" | filter_allowlist "0.3c")"
 
 # §0.3d — WARN-ONLY: lowercase pivot-calque class (adjective + italic indefinite filler), e.g.
@@ -284,7 +297,7 @@ emit "0.3c" "EN-pivot grammatical-filler calque (italic One/Eine/Um/Uno after a 
 # editorial pass (Launch Program Step 3/4). Warn-only until that class is cleared (playbook T-14),
 # then promote to blocking.
 check_pattern_warn "0.3d" "EN-pivot calque: adjective + italic indefinite filler (lowercase)" \
-  "(santo|santa|justo|heilige[nrs]?|Heiligen|gerechte[nrs]?|Gerechten|poderoso|mächtige[nr]?) \*(uno|una|um|uma|ein|eine[nrms]?)\*([^*]|$)" \
+  "([Ss]anto|[Ss]anta|[Jj]usto|[Hh]eilige[nrs]?|[Gg]erechte[nrs]?|[Pp]oderoso|[Mm]ächtige[nr]?) \*(uno|una|um|uma|ein|eine[nrms]?)\*([^*]|$)" \
   "content/de content/pt-br content/es"
 
 # §0.4 — ES NT missing Reina-Valera declaration
@@ -359,20 +372,18 @@ emit_warn "0.11" "DE chapter redundant-parens regression — see genesis.md Entr
 # `**See:** geneis/PEOPLE.md` that would otherwise pass silently via the
 # CrossBookSeeField graceful-dangling-pointer UI fallback.
 # Warn-only: legitimate new forward references should not break the build.
-# To add a new allowed slug, update both this allow-list AND the proper-name
-# entries per the 5-change new-book activation checklist in RULES-CORE.md.
+# The allow-list is generated: every authored book + FORWARD_SLUGS (top of file).
+# A not-yet-authored target goes into FORWARD_SLUGS (and the RULES-CORE table).
 check_cross_book_pointers() {
   local rule_id="0.12"
   local matches rc
   require_files "$rule_id" $PEOPLE_FILES
-  matches=$(perl -ne '
+  matches=$(SEE_SLUGS="$(echo $BOOKS $FORWARD_SLUGS)" perl -ne '
     # Match: **See:** slug/PEOPLE.md  (or Ver: / Siehe:)
     if (/^\*\*(?:See|Ver|Siehe):\*\*\s+([a-z0-9][a-z0-9-]*)\/PEOPLE\.md/i) {
       my $slug = lc($1);
-      my %allowed = (
-        genesis => 1, matthew => 1, mark => 1, luke => 1, john => 1,
-        acts => 1, exodus => 1, kings => 1, isaiah => 1, '1-peter' => 1,
-      );
+      # Generated (Step 2): every book dir + FORWARD_SLUGS (see top of file).
+      my %allowed = map { $_ => 1 } split / /, $ENV{SEE_SLUGS};
       unless ($allowed{$slug}) {
         chomp;
         print "$ARGV:$.:$_  [slug not in allow-list: $slug]\n";
@@ -415,12 +426,14 @@ check_source_persona_leak
 # stray-asterisk bug the hardening fixed.
 check_unbalanced_bold() {
   local rule_id="0.14"
-  local matches rc
+  local matches rc ALL_MD
+  ALL_MD=$(find content -name '*.md' | sort) || tool_error "$rule_id" "find failed"
+  [ -n "$ALL_MD" ] || { tool_error "$rule_id" "no content files"; return; }
   matches=$(perl -ne '
     my $c = () = /\*\*/g;
     if ($c % 2 == 1) { chomp; print "$ARGV:$.:$_\n"; }
     close ARGV if eof;
-  ' $(find content -name '*.md' | sort))
+  ' $ALL_MD)
   rc=$?
   if [ $rc -ne 0 ]; then tool_error "$rule_id" "perl exited $rc"; fi
   matches=$(printf '%s' "$matches" | filter_allowlist "$rule_id")
@@ -441,7 +454,7 @@ check_pattern "legacy-awareness" "Stale 'for awareness' labels" \
   "$STUDY_DIRS"
 
 check_pattern "legacy-vosotros" "Vosotros forms (case-insensitive since Step 2)" \
-  "[Vv]osotros|[Vv]uestr" \
+  "[Vv][Oo][Ss][Oo][Tt][Rr][Oo][Ss]|[Vv][Uu][Ee][Ss][Tt][Rr]" \
   "$CONTENT_DIRS"
 
 check_pattern "legacy-trilingual" "Trilingual residue" \
@@ -472,6 +485,8 @@ emit "legacy-f9" "Raw enum values reach rendering layer (F9-class)" "$ui_f9"
 echo ""
 if [ $TOOL_ERRORS -gt 0 ]; then
   echo "($TOOL_ERRORS tool error(s): a check could not run — see the [TOOL ERROR] lines above.)"
+  # A broken check is never "just a warning" — fail even in --warn-only mode.
+  if [ "$WARN_ONLY" = true ]; then echo "Content lint: tool error(s) — exiting 2."; exit 2; fi
 fi
 if [ "$WARN_ONLY" = false ] && [ $ERRORS -gt 0 ]; then
   echo "Content lint FAILED: $ERRORS rule(s) flagged."
