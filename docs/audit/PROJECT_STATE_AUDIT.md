@@ -208,3 +208,68 @@ Environment note: `node_modules` was absent; installed with `pnpm install --froz
    - safety net: cross-locale parity test, whole-token label matching, generated lint dir lists + no stderr suppression + §0.3 scope, extended activation-consistency, **CI**.
 4. **Rule/doc reconciliation** (§5, §7) — RULES-CORE marker table, ψυχή/nephesh, Yehudim, Son of Man, v3.4 changelog/stamps, STANDARDS/HOW-TO-READ/templates/README/CLAUDE.md, PENDING refresh.
 5. **Visual + accessibility pass** (§8.5) as verification after fixes.
+
+---
+
+## 10. Project-lead Q&A (2026-11-19)
+
+Questions from the project lead, answered on the basis of this audit.
+
+### Q1. In one paragraph, what state is this project really in?
+
+It's a well-engineered, carefully governed **AI-drafted translation pilot**, not yet a published translation. Six books are live on `main` in four languages: Genesis 1–12 plus chapters 1–3 of Matthew, Mark, Luke, John and Acts, about 108 chapters, each with study companions, people pages and introductions. The code is clean and its checks pass. But **no verse has been reviewed by a human scholar**: everything is `provisional`, and every reviewer role is "unassigned". The governance (30 rules, editorial logs, a plan-then-audit loop) outweighs the content, and parts of it have started contradicting each other. Work stopped in late June / early July 2026. It left a finished 1 Peter on an unmerged branch and an orphaned accuracy-fix commit, so `main` is neither the latest work nor fully correct. In short, a strong beta with a few visible bugs, a thinner safety net than the docs claim, and the review that would make it authoritative not yet started.
+
+### Q2. What's the smallest set of work needed to put it live in a way you'd be proud of, and roughly how many days is that?
+
+The scope is the six books as they are, launched honestly as a *provisional draft*, which the site already labels.
+
+| Work | Days |
+|---|---|
+| Recover the orphaned accuracy fixes (§1); fix the reader-visible bugs (§3.1): <br>• unfinished books' chapters served publicly (B1)<br>• Sources/provenance never shown (B2)<br>• Genesis 8 table (B3)<br>• `א*` italics (B4)<br>• Rule 30 on /rules (B5)<br>• 404 page (B6)<br>• progress bar (B7)<br>• German Acts label (B11) | 2 |
+| Content consistency (§4): Son of Man casing, YHWH in German, authoring notes in reader text, Spanish Genesis accents. Then **either** translate the ~30 missing companion entries in PT/DE/ES **or** state that they're English-only | 2–3 |
+| Safety net (§3.3): cross-locale parity test, whole-word label matching, lint fixes, and **CI**, so launch stays correct | 1.5–2 |
+| Launch basics: deployment, security headers (STANDARDS asks for CSP), a **license** (currently "TBD"), an accurate reader guide and /rules page, and a visual + accessibility pass on phone and desktop | 1.5–2 |
+
+**Total: about 7–9 focused working days.** Add 1–2 days to review and merge 1 Peter if seven books are wanted at launch. Not included, because it's external and has no fixed timeline: Rule-28 scholarly review.
+
+### Q3. What's fragile, half-done or likely to break, including known tech debt?
+
+- **The markdown renderer is home-made and regex-based.** Two live bugs came from it (B3, B4), and others are waiting to surface: a stray `*` or `@@` can wreck a whole section.
+- **The checks are weaker than they look.** The "zero-loss" test mostly compares the parser with itself. Nothing compares English with the other three languages, and there's no CI, so it all depends on someone remembering to run it.
+- **Translating from English, not the source, introduces errors.** The unmerged pivot-fidelity audit proved it, and the missing companion entries show translations drifting out of step.
+- **Adding a book means touching 8 places.** The automated check covers about half of them, and book lists are hard-coded in several more spots.
+- **content-lint is a bash script** whose behaviour differs between macOS and GNU grep, that hides its own errors, and whose book lists are hard-coded.
+- **Half-done:** the Sources sections; Hebrew poetry (no rules, and the renderer can't break lines); Phase 6 search; the cross-book People merge; the DAAT draft; companion parity; and `getStructuredBook`, a structured layer nothing uses.
+- **Smaller debt:**
+  - the WebGL hero leaks graphics contexts;
+  - OG images are generated on request;
+  - a parser crash shows up as a silent 404;
+  - there are two lockfiles;
+  - `next-env.d.ts` changes itself on every build;
+  - editorial-log entries have drifted from their schema;
+  - about 40 dangling doc references.
+
+### Q4. What is blocking progress right now — technical, a decision, or something external?
+
+- **Decisions (project lead):**
+  - Merge 1 Peter? It's complete but unreviewed.
+  - Launch as provisional before any scholar sign-off?
+  - Are the English-only companion entries intentional?
+  - Settle the rule contradictions (§5): ψυχή = soul or life/being, Son of Man casing, Yehudim/Jehudim, the marker-colour table.
+- **External:** **Rule-28 reviewers.** No Hebraist, Hellenist or native-language editors are attached. That's the one thing that stops this ever becoming more than a draft.
+- **Licensing:** "Formal license TBD" blocks public launch and outside contributors.
+- **Technical:** nothing hard. The checks pass, and everything above is fixable.
+
+### Q5. Is there anything you'd advise against doing next, or anything likely being underestimated?
+
+**Advise against:**
+- **Starting Genesis 13–50 or more epistles before fixing the safety net and the translation-from-English review.** Genesis 13–50 alone is about 300 files. Every systemic error found so far would be multiplied ×4 languages at that scale.
+- **Merging 1 Peter without reviewing it first.** It already disagrees with the locked glossary on ψυχή ("soul" vs "life/being") and keeps the transliterated name "Kefa" where the name rule wants "Peter".
+- **Running nine or more translation agents at once.** That has already truncated files (playbook trap T-17).
+- **Adding more governance documents.** The current ones already contradict each other and drift. Automated checks would hold the line better than more prose.
+
+**Likely underestimated:**
+- **Rule-28 review.** Finding and paying credentialed reviewers for four languages and two source languages is the real critical path, and it's open-ended in time.
+- **Public reception.** An openly AI-drafted Bible translation touching *Ioudaioi*, divine names and the "virgin/young woman" crux will be scrutinised. The project's best defence is its transparency, but the Sources and AI-provenance sections that carry that transparency are currently not shown on the site (B2).
+- **Source-text rights.** Translating from NA28/BHS is normal, but how much of their critical text and apparatus the notes reproduce is worth a quick check with the Deutsche Bibelgesellschaft, which publishes both.
+- **Maintenance per book.** Each book is 12–20+ files × 4 languages, plus logs and 8 code changes. Without the tooling fixes, upkeep will grow faster than content.
