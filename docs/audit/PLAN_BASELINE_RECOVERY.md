@@ -2,7 +2,7 @@
 
 **Program:** `docs/audit/LAUNCH_PROGRAM.md` — Step 1 (decisions D1, D7, D13, D14, D16).
 **Date:** 2026-11-19
-**Status:** REVIEWED (independent adversarial review, §9) → revised → **approved for execution** by the project lead (2026-11-19: "after the plan is reviewed and fixed or improved, implement it"; D1 amendment confirmed, §4).
+**Status:** **EXECUTED 2026-11-19** (commits `ffea172` / `857a2b2` / `7f88bdc` / `6164fe0` + review fixes; PR #15) · REVIEWED (independent adversarial review, §9; implementation review, §10) · approved for execution by the project lead (2026-11-19: "after the plan is reviewed and fixed or improved, implement it"; D1 amendment confirmed, §4).
 **Branch:** `baseline-recovery` (from `main` @ `b4dc719`) → PR → merge when the full gate is green (D14).
 
 ---
@@ -22,7 +22,7 @@ Bring the two bodies of finished work stranded outside `main` onto `main`, so ev
 |---|---|
 | `333a373` scope | 14 files, no hidden extras; applies cleanly onto `main`; `next-env.d.ts` drops out |
 | Its fixes still needed on `main` | Yes — DE `der Mächtige *Eine*` ×2 (+ note), ES `se exultó` ×4, `en el era vida` ×4, `se cernia` ×2; all 32 `*esta*`→`*está*` edits verified as the copula |
-| Its fixes complete? | **No** — two gaps (review F2): `es/genesis/CHAPTER-1.md` "cuya semilla *está* en el," (Gen 1:11–12, 3 lines; Hebrew *zar'o-bo* → pronoun *él*) claimed in the commit body but never applied; `es/john/CHAPTER-1.md` "**En el era vida.**" (capital E) missed because §0.3b is case-sensitive |
+| Its fixes complete? | **No** — two gaps (review F2): `es/genesis/CHAPTER-1.md` "cuya semilla *está* en el," (Gen 1:11–12, 4 occurrences on 3 lines; Hebrew *zar'o-bo* → pronoun *él*) claimed in the commit body but never applied; `es/john/CHAPTER-1.md` "**En el era vida.**" (capital E) missed because §0.3b is case-sensitive |
 | `1-peter-expansion` | merge-base `1e4132d`; only doc divergence from `main`; changes no other book's content; only `CLAUDE.md` conflicts textually; the two inputs share only `PENDING.md` + `content-lint.sh` (disjoint hunks) → pivot-first ordering is safe |
 | Full gate on recovered + merged tree | **887 tests**, conservation **408 files → 20,599 units**, Biome, `tsc`, content-lint (1 pre-existing §0.10 warn), build **516 static pages** incl. all `/{locale}/1-peter/**` |
 | 1 Peter content vs guards | 0 hits on §0.3b/§0.3c tokens; DE JHWH 115×, YHWH 0× |
@@ -46,7 +46,7 @@ D1 originally required 1 Peter's ψυχή and "Kefa" naming fixes **before** mer
 ## 5. Execution steps
 
 1. **Branch:** `git switch -c baseline-recovery main`; ensure repo `user.email` = no-reply (D16).
-2. **Recover `333a373`:** `git cherry-pick -n 333a373`; drop `next-env.d.ts` if staged. **Complete the two missing fixes** (Gen 1:11–12 `está en el,` → `está en él,` ×3; John 1 note `En el era vida` → `En él era vida`). **Tighten §0.3b** to `\b[Ee]n el era\b` and add `está\*? en el,`. Reword the PENDING hunk (S4). Commit under no-reply with a provenance preface + preserved original body. Gate: `content:lint` + `pnpm test`.
+2. **Recover `333a373`:** `git cherry-pick -n 333a373`; drop `next-env.d.ts` if staged. **Complete the two missing fixes** (Gen 1:11–12 `está en el,` → `está en él,` ×4; John 1 note `En el era vida` → `En él era vida`). **Tighten §0.3b** to `\b[Ee]n el era\b` and add `está\*? en el,`. Reword the PENDING hunk (S4). Commit under no-reply with a provenance preface + preserved original body. Gate: `content:lint` + `pnpm test`.
 3. **Merge 1 Peter:** `git merge --no-ff --no-commit origin/1-peter-expansion`; resolve S1–S2 by hand; check `git diff --check` and `git grep -n '^<<<<<<<\|^>>>>>>>'` (no `node_modules` walk); diff resolved `CLAUDE.md`/`PENDING.md` against both parents; commit (no-reply).
 4. **Source-anchored spot check of 1 Peter (D1 "review")**, PT/DE/ES sample (chapters 2–4): Rule 11 italics transfer (e.g. `pt-br/1-peter/CHAPTER-4.md:62` "sofrido na *carne*" — σαρκί is in the Greek, so the italic is a pivot artifact), anti-calque (§0.3c class), DE JHWH in citations, marker parity. **Fix unambiguous artifacts in this step**; log the class + counts as Step 3 sweep input (not a full sweep).
 5. **Docs commit:**
@@ -106,3 +106,37 @@ Single PR, merge commit. `git revert -m 1 <merge>` restores prior `main`; the re
 | F7 | should-fix | Squash fallback unnecessary and conflicts with rollback | Dropped; `gh pr merge --merge` |
 | F8 | should-fix | Verification gaps (404, redirect, OG, corpus label/tagline, CARD, inBook field, sitemap hreflang, §B4/§D3) | Added to §5.7 |
 | F9 | nice | Marker-check walks `node_modules`; §0.3c precision; UTF-8 `\b`; `/start` copy; stale worktree step | `git diff --check`/`git grep`; §0.3c + UTF-8 → Step 2; `/start` → Step 4; worktree step removed |
+
+## 10. Implementation review (5 independent reviewers, 2026-11-19)
+
+Run after implementation, before merge: (1) merge/recovery integrity, (2) code + tooling robustness, (3) content correctness, (4) docs coherence, (5) runtime/visual/links (production server, Playwright 1280×900 + 390×844). No regression in the six existing books; every hunk of both inputs accounted for; crawl of 80 pages / 132 links / 76 sitemap URLs (+hreflang) all 200; 0 console/hydration errors.
+
+**Fixed in PR #15:**
+
+| Source | Finding | Fix |
+|---|---|---|
+| R5 | Prophecy cards rendered raw `**…**`, `*…*`, `@@…@@`, `{a:…}` (pre-existing on Luke/Acts, worst on 1 Peter) | `prophecy-view.tsx`: title/textSays/context/fulfillmentNotes/scholarlyNote through the safe renderer |
+| R5 | Glossary term column showed raw `{a:…}`; notes tooltip kept markers | `glossary-panel.tsx`: term via `renderInlineSafe`; markers stripped from notes |
+| R5 | Glossary forced horizontal scroll on mobile (≤690px at 390px) | `glossary-panel.tsx`: wrap below `sm`, `min-w-0`/`overflow-wrap`, no `shrink-0` on cells |
+| R2 | §0.3b/§0.3c matched bold (`**Una**`, `**esta**`); `\bse exultó\b` silent under C locale | Anchored on non-asterisk boundaries; trailing `\b` dropped; injection-tested (bold passes, defects fail, C locale fails) |
+| R2 | Lowercase pivot calques (`tu santo *uno*`, `den heiligen und gerechten *einen*`, `santo e justo *um*`) unguarded | New warn-only **§0.3d** (blocking after the class is cleared, T-14) |
+| R3 | 1 Peter claims Isa 40:8 has YHWH/κύριος; "verbatim"; "omits the middle clauses" | Corrected ×4 locales (chapter overview + note + glossary + cross-ref table, book CONTEXT, INTRODUCTION, companion §, PROPHECY ×4 spots) + `1-peter.md`: source reads "our God" (MT + LXX); κυρίου is 1 Peter's substitution; the LXX itself lacks MT 40:7 |
+| R3 | Rule-11 italics on words present in the Greek: 2:18 οἰκέται, 1:7 δέ | Italics removed ×4 locales (bold glossary term untouched) |
+| R3 | DE 2:6 "es steht … enthalten"; PT 2:15 "homens" for generic ἀνθρώπων (Rule 27) | "es ist … enthalten"; "das pessoas insensatas" |
+| R3 | ES John 1 note accents (line edited by the recovery); 27× spurious `generaciónes` | Fixed; `generaciónes` added to §0.3b |
+| R2 | ES Luke 1:49 note still said "TT supplies *uno*" after the DE/ES calque fix | Note corrected |
+| R5 | 1 Peter People headers nested names ("Silvanus (Silvanus (also Silas))") | `Familiar name` → `Also known as` (×4 locales): familiar form from the heading, detail kept as a row |
+| R1 | Recovery commit's "original message" abridged | Full original preserved at tag `archive/333a373` |
+| R4 | Doc coherence (program status, D7/Step-1 rows, plan status, counts, T-20 method, post-launch labels, `CLAUDE.md` tree) | Fixed across LAUNCH_PROGRAM, EXECUTION_HISTORY, PENDING, PLAN_1PETER_EXPANSION, PROJECT_STATE_AUDIT §8, CLAUDE.md, playbook |
+
+**Deferred (routed, with owner step):**
+
+| Finding | Step |
+|---|---|
+| activation-consistency misses `bookLabels`, `inBook` aliases, lint lists/§0.12, editorial log; `ES_NT_CHAPTER_FILES` hardcodes chapters (R2) | 2 |
+| Lowercase calque content (~17 lines, §0.3d); "LORD/SENHOR/HERR/SEÑOR" in note prose (1 Peter 59, Acts 45+) against Rule 25; editorial IDs + literal `@@…@@` + repo file paths in reader notes (R3, R5); ES Genesis accent backlog (~100 incl. Gen 4:9 "No se"); `*se cernía*` italic scope; PT vós/vocês register decision (corpus split); 1:16 future ἔσεσθε; 2:6 ἐπ' αὐτῷ referent divergence; Silvanus = Silas identification (D11) | 3 → 4b |
+| DE Acts `In der Apostelgeschichte` alias (audit B11); person slugs keep quote characters (R2) | 4a |
+| `RULES-CORE.md` Editorial-Log table row with an unescaped pipe character (row renders 7 columns); `CLAUDE.md` 5-change checklist vs 8 touchpoints | 4d |
+| Cross-book "See" link lands at page top (no per-person anchor) (R5); chapter-head gutter + mobile title clip; ASCII `->` in supplementary headings | 5 |
+| Remote branches `1-peter-expansion` / `luke-propagation` — for lead cleanup (history preserved by the merge + tag) | lead |
+

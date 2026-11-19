@@ -28,7 +28,7 @@
 ## Divine name — κύριος Option C (GS)
 
 Main text renders κύριος "the Lord" + Tier-2; canonical `κύριος (kyrios)` metadata line. The OT citations carry **YHWH** (Option C; DE→JHWH, PT/ES→YHWH on propagation):
-- **1:25** — Isa 40:8 "the word of *the Lord* (YHWH) endures forever."
+- **1:25** — Isa 40:8 "the word of *the Lord* endures forever." **[Corrected 2026-11-19:** the source reads "our God" in both MT (*dĕbar ʾĕlōhênû*) and LXX (τοῦ θεοῦ ἡμῶν); κυρίου is 1 Peter's substitution, not a Tetragrammaton rendering — notes fixed in all 4 locales.]
 - **2:3** — Ps 34:8 "*the Lord* (YHWH) is good/kind."
 - **3:12** — Ps 34:15–16 "the eyes of *the Lord* (YHWH)… the face of *the Lord*."
 - **3:15** — "sanctify *the Messiah* as Lord" (Isa 8:13 "the Lord of hosts" reapplied to Christ — a κύριος referent-shift; Rule 13 + Tier-2).
@@ -37,7 +37,7 @@ Main text renders κύριος "the Lord" + Tier-2; canonical `κύριος (kyr
 
 | Greek | TT (first occ. → after) | Notes |
 |---|---|---|
-| Πέτρος | Kefa (Peter) → Kefa | the author (1:1); match Acts/Mark. Canonical PEOPLE home = `mark/PEOPLE.md` → **see-stub**. |
+| Πέτρος | Kefa (Peter) → Kefa **[2026-11-19 note: the "→ Kefa" repeat conflicts with the v3.2 first-occurrence-then-familiar rule; aligned corpus-wide under Launch-Program D11 in Step 4]** | the author (1:1); match Acts/Mark. Canonical PEOPLE home = `mark/PEOPLE.md` → **see-stub**. |
 | Σιλουανός | Silvanus (Silas) | 5:12, "through Silvanus… I wrote" (the bearer/amanuensis). PT/ES familiar "Silvano"; DE "Silvanus". |
 | Μᾶρκος | Markos (Mark) | 5:13, "my son Markos." PT/ES "Marcos"; DE "Markus". |
 | Ἰησοῦς Χριστός | Yeshua *the* Messiah (Jesus) → Yeshua | Χριστός = "Messiah"/"anointed" (lowercase descriptor / cap as title per GS). |
@@ -54,7 +54,7 @@ Main text renders κύριος "the Lord" + Tier-2; canonical `κύριος (kyr
 - ἀναγεννάω (1:3,23) = "born anew/again/from above" — note the range.
 - λίθος / ἀκρογωνιαῖος (2:4–8) the **"stone"** word-field (living stone / cornerstone / stone of stumbling) — keep literal.
 - ὑποτάσσω (2:13,18; 3:1,5; 5:5) = "submit / be subordinate" — the household-code verb; render literally, flag in Tier-2.
-- βάπτισμα (3:21) = "immersion" (as gospels/Acts). συνείδησις (3:16,21) = "conscience". ἐλπίς (1:3,13,21; 3:15) = "hope". ψυχή (1:9,22; 2:11,25; 3:20; 4:19) [**2026-11-19 note:** the ψυχή = "soul" rendering below is **superseded** by Launch-Program decision D7 — locked **life/being** per RULES-GS; re-rendered corpus-wide (all books, incl. Luke/Acts) in Step 4, not here — `docs/audit/LAUNCH_PROGRAM.md`] = "soul".
+- βάπτισμα (3:21) = "immersion" (as gospels/Acts). συνείδησις (3:16,21) = "conscience". ἐλπίς (1:3,13,21; 3:15) = "hope". ψυχή (1:9,22; 2:11,25; 3:20; 4:19) [**2026-11-19 note:** this ψυχή = "soul" rendering is **superseded** by Launch-Program decision D7 — locked **life/being** per RULES-GS; re-rendered corpus-wide (all books, incl. Luke/Acts) in Step 4, not here — `docs/audit/LAUNCH_PROGRAM.md`] = "soul".
 
 ## Cruxes — explicit `1-peter.md` editorial-log entries required (Rule-28 trigger; audit Minor 4)
 

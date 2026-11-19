@@ -192,8 +192,8 @@ Environment note: `node_modules` was absent; installed with `pnpm install --froz
 
 ## 8. Coverage — what this audit did not review
 
-1. **`origin/1-peter-expansion` in full** (plan, audit, code changes, content) — only the head of `1-peter.md` was read. Prerequisite for the merge decision.
-2. **Orphaned commit `333a373`'s `content-lint.sh` diff** (§0.3b/§0.3c) — only its report and commit message were read.
+1. ~~**`origin/1-peter-expansion` in full**~~ — **covered by Step 1** (review + merge + 5-reviewer implementation review, `PLAN_BASELINE_RECOVERY.md` §10).
+2. ~~**Orphaned commit `333a373`'s `content-lint.sh` diff**~~ — **covered by Step 1** (reviewed, recovered, hardened).
 3. **Systematic content rule-compliance sweep** of the 336 content files (glossary renderings per locale, Rule 20 casing, name forms vs tables, Rule 11 balance, Rule 30 scope, Rule-28 front matter, meta leaks). Only targeted scans were run. Translation-quality judgment remains the Rule-28 human reviewers' responsibility.
 4. **Direct reading** of `structured.ts`, `people-parser.ts`/`people-fields.ts` in full, `globals.css`, `seo.ts`, `og.tsx`, prophecy/book-context parsers (verified by output reconciliation instead), and of the editorial logs / audit archive / source-analysis corpus (subagent digests, spot-checked).
 5. **Rendered output**: no mobile/tablet/desktop visual pass across locales, no axe/Lighthouse accessibility or performance run, OG images not rendered.

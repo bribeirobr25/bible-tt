@@ -10,7 +10,7 @@ The Transparent Translation (TT) — a multilingual Bible translation project wi
 - **Rulesets:** RULES-CORE **v3.4** · RULES-HB **v3.3.1** · RULES-GS **v3.2** (lock). 30 rules total. (v3.4 adds Rule 30 — divine-speech marking — + the Text-Highlight Markers convention: `*added*`/`{t:…}`/`{a:…}`/`@@…@@`.)
 - **Tests:** 887 passing (`pnpm test`); `pnpm build`, `pnpm lint`, `pnpm content:lint` all clean. (Conservation gate: 408 files / 20,599 units.)
 - **UX/Structure program (Phases 1–5, committed 2026-06):** SEO baseline (Phase 1); derived `StructuredUnit` layer + stable IDs guarded by the conservation gate (`__tests__/conservation.test.ts` — proves zero loss in the *parser→structured derivation*; chapter-completeness + inventory guards backstop raw-markdown coverage; markdown stays source of truth) (Phase 2); **3-door IA — Read · Notes · Deeper** (`ChapterShell`/`DoorNav`/`NotesView`/`DeeperView`; `/context`→`/background`; verse `#v{n}` anchors) (Phase 3); content-QA + chapter-completeness guard (Phase 4); UX finish — teal/petrol accent `#006475`, civilizational landing, `/start` reading-plan, book "tight cards" (`<!-- CARD -->`→`BookCard`), and **chapter-overview de-jargon across all locales (Pattern C complete 2026-06-10)** (Phase 5). §I "World at the Time": two-level parser/UI + inline-`**Source:**` lift, then **§I Option C — per-category dating-scenario labels across all of Genesis 1–12 (2026-06-12, provisional)** + §I section-intro recovery. Per-item detail → `docs/audit/EXECUTION_HISTORY.md`.
-- **Current program (2026-11-19):** the **Launch-Readiness Program** — `docs/audit/LAUNCH_PROGRAM.md` (lead decisions D1–D16 + 5 steps: baseline incl. 1 Peter merge → safety net → content sweep → fixes → launch at `bible-translation.breno-bar.com`). Findings: `docs/audit/PROJECT_STATE_AUDIT.md`. It supersedes the "Next up" line below until launch.
+- **Current program (2026-11-19):** the **Launch-Readiness Program** — `docs/audit/LAUNCH_PROGRAM.md` (lead decisions D1–D16 + 5 steps: baseline incl. 1 Peter merge → safety net → content sweep → fixes → launch at `bible-translation.breno-bar.com`). **Step 1 done 2026-11-19 (PR #15); Step 2 (Safety net) next.** Findings: `docs/audit/PROJECT_STATE_AUDIT.md`. It supersedes the "Next up" line below until launch.
 - **Next up (post-launch):** the **NT Epistles** continue (1 Peter done — the genre pilot) — **Galatians** (tightest Acts interlock), then **Romans**, **James**; each its own audited `PLAN_{BOOK}_EXPANSION.md`, genre-adapted per T-16. Also **Genesis 13–50 (Phase 12)** — the largest remaining work; its §I follows the established Option C structure (collapsible dating scenarios with per-category `**[claim — confidence]**` labels). Then Phase 6 (search) and the cross-book canonical PEOPLE source-merge. All 2026-06/07 content ships `provisional` pending **Rule-28 sign-off** (Hellenist for the GS books; the §I per-category confidence labels are the specific source-scholar review item). See `docs/audit/PENDING.md`.
 
 Pointers (do not duplicate their content here):
@@ -26,7 +26,7 @@ Pointers (do not duplicate their content here):
 
 ```
 bible-tt/
-├── content/{en,pt-br,de,es}/{genesis,john,matthew,mark}/   # CHAPTER-N, INTRODUCTION, PEOPLE  (+ en/luke — EN-only pilot)
+├── content/{en,pt-br,de,es}/{genesis,matthew,mark,luke,john,acts,1-peter}/   # CHAPTER-N, INTRODUCTION, PEOPLE
 │   └── study/                                          # CHAPTER-N-CONTEXT; CHAPTER-N-PROPHECY (where warranted)
 │   └── CONTEXT.md                                      # book-level cross-chapter motifs
 ├── docs/
@@ -35,7 +35,7 @@ bible-tt/
 │   ├── architecture/         # STANDARDS.md (DDD, code standards, TypeScript, testing)
 │   ├── design/               # TT-DESIGN-SYSTEM.md (UI/UX, typography, color, accessibility)
 │   ├── audit/                # PENDING.md + EXECUTION_HISTORY.md (+ DAAT idiom draft, pending)
-│   ├── editorial-log/        # Decision logs (genesis, john, matthew, transliteration-decisions)
+│   ├── editorial-log/        # Decision logs (genesis, john, matthew, mark, luke, acts, 1-peter, transliteration-decisions)
 │   ├── implementation/       # SCHEMA-FUTURE.sql (deferred user-features schema)
 │   ├── guides/               # HOW-TO-READ-TT.md
 │   └── templates/            # Companion + book-introduction templates
