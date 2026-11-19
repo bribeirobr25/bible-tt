@@ -461,7 +461,7 @@ y porque no tenía necesidad de que alguien testificara acerca del ser humano �
 
 ---
 
-## SEGUIMIENTO ENTRE CAPITULOS (Génesis -> Juan)
+## SEGUIMIENTO ENTRE CAPÍTULOS (Génesis -> Juan)
 
 **Gen 1 semana de creación -> Juan 1-2 secuencia de días:**
 

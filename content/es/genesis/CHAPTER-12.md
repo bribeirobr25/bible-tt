@@ -1,4 +1,4 @@
-# GENESIS 12
+# GÉNESIS 12
 ## La Traducción Transparente (TT)
 ### Edición Transparente - Español
 

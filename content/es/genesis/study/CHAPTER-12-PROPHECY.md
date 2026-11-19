@@ -1,4 +1,4 @@
-# Genesis 12 — Seguimiento de Profecías
+# Génesis 12 — Seguimiento de Profecías
 ## The Transparent Translation (TT)
 
 ---

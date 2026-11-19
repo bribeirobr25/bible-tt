@@ -17,14 +17,14 @@
 
 ## A. Rasgos del Texto Hebreo Expuestos por la TT
 
-### A1. *Ruach* sobre las aguas — la re-creacion comienza
+### A1. *Ruach* sobre las aguas — la re-creación comienza
 **[TEXTUAL — VERIFICADO]**
 
 Gn 8:1: "Dios hizo pasar un *ruach* sobre la tierra." Eco estructural directo de Gn 1:2: "*ruach* de Dios cerniendose sobre la faz de las aguas." La TT preserva la barra (viento/espiritu) segun la Regla 2. La re-creacion despues del diluvio comienza con el mismo elemento que la creacion original — *ruach* sobre agua. La narrativa del diluvio se enmarca como des-creacion (cap. 7) seguida de re-creacion (cap. 8).
 
 Nota sobre genero gramatical: *ruach* es femenino en hebreo; "viento" y "espiritu" son masculinos en espanol. Esta discrepancia de genero es inevitable en la traducción.
 
-### A2. "Dios se acordo" — no olvido sino accion
+### A2. "Dios se acordó" — no olvido sino acción
 **[TEXTUAL — VERIFICADO]**
 
 וַיִּזְכֹּר אֱלֹהִים (*vayyizkor elohim*) = "Y Dios se acordo." En hebreo, el "acordarse" divino (*zakhar*) no implica olvido previo. Senala que Dios dirige su atencion para actuar a favor de alguien. Mismo verbo en Gn 19:29 (Dios "se acuerda" de Abraham y salva a Lot), Gn 30:22 (Dios "se acuerda" de Rajel), Ex 2:24 (Dios "se acuerda" de su pacto). El verbo *zakhar* en estos usos divinos es consistentemente performativo — acordarse es actuar. En Gn 9:15-16, el arco funciona como un mnemotecnico divino: Dios ve el arco → se acuerda → se contiene. El auto-recordatorio divino (8:21 "dijo en su corazon"; 9:16 "lo vere para acordarme") no tiene paralelo directo en el Antiguo Cercano Oriente (ACO). La TT rinde "se acordo" literalmente.
@@ -34,12 +34,12 @@ Nota sobre genero gramatical: *ruach* es femenino en hebreo; "viento" y "espirit
 
 Gn 7:11: fuentes "se abrieron" (*nivqe'u*), ventanas "fueron abiertas" (*niftchu*). Gn 8:2: fuentes y ventanas "fueron cerradas" (*vayyissakru*). Las fuentes cosmicas de agua son detenidas — selladas de nuevo — no eliminadas. La arquitectura de la raqia permanece en su lugar; la separacion del Dia 2 se restablece. El modelo cosmologico de Gn 1 continua operando despues del diluvio.
 
-### A4. La tebah "descanso" (*tanach*) — raiz n-w-ch
+### A4. La tebah "descanso" (*tanach*) — raíz n-w-ch
 **[TEXTUAL — VERIFICADO]**
 
 Gn 8:4: וַתָּנַח הַתֵּבָה (*vattanach ha-tebah*) = "la tebah descanso." Raiz: נ-ו-ח (*n-w-ch*) — la misma raiz que el nombre de Noé. La tebah "Noé-eo" en los montes. Esta es la segunda aparicion de n-w-ch en la narrativa del diluvio, despues del nombre mismo.
 
-### A5. Saturacion de la raiz N-W-CH — cuatro apariciones
+### A5. Saturación de la raíz N-W-CH — cuatro apariciones
 **[TEXTUAL — VERIFICADO]**
 
 La raiz n-w-ch aparece cuatro veces en Genesis 8:
@@ -60,7 +60,7 @@ Gn 8:13: חָרְבוּ (*charvu*) = seca en la superficie (de *jarav*). Gn 8:14
 
 Gn 8:17: "sean fecundos y se multipliquen sobre la tierra." Lenguaje identico a Gn 1:22 (bendicion a las criaturas) y 1:28 (bendicion a los humanos). La re-creacion se hace explicita. El mundo post-diluviano recibe la misma bendicion generativa que la primera creacion.
 
-### A8. Mismo diagnostico, conclusion opuesta — 6:5 vs 8:21
+### A8. Mismo diagnóstico, conclusión opuesta — 6:5 vs 8:21
 **[TEXTUAL — VERIFICADO]**
 
 Gn 6:5: "toda inclinacion de los pensamientos de su corazon era solo mala todo el dia" → diluvio (juicio). Gn 8:21: "la inclinacion del corazon del humano es mala desde su juventud" → "no volvere a maldecir el suelo" (misericordia). La version de 8:21 omite tres intensificadores (*kol/toda*, *raq/solo*, *kol ha-yom/todo el dia*) y anade "desde su juventud" (*mine'urav*). La condicion humana es esencialmente la misma — pero un lenguaje más suave lleva a la respuesta divina opuesta. La TT preserva ambos versiculos con fidelidad exacta al hebreo.
@@ -90,7 +90,7 @@ El quiasmo muestra que 8:1 no es simplemente una transicion narrativa sino el ce
 
 ## B. Paralelos del Antiguo Cercano Oriente
 
-### B1. Envio de aves — Gilgamesh vs Genesis
+### B1. Envío de aves — Gilgamesh vs Génesis
 **[PARALELO COMPARATIVO — VERIFICADO]**
 
 Gilgamesh XI:145-154: Utnapishtim envia una paloma (vuelve), una golondrina (vuelve), un cuervo (no vuelve — encuentra comida). Genesis 8:7-12: Noé envia un cuervo (va y viene), luego una paloma tres veces (vuelve vacia → vuelve con hoja de olivo → no vuelve).
@@ -115,7 +115,7 @@ El contraste es notable: multiples dioses reuniendose "como moscas" (hambrientos
 
 **Fuente:** Zimansky, P., *Ecology and Empire: The Structure of the Urartian State*, 1985.
 
-### B4. Comparacion del caracter del heroe del diluvio
+### B4. Comparación del carácter del héroe del diluvio
 **[PARALELO COMPARATIVO — VERIFICADO]**
 
 | Rasgo | Ziusudra (sumerio) | Utnapishtim (acadio) | Atrahasis | Noé (Genesis) |
@@ -132,7 +132,7 @@ Genesis es distintivo: Noé no alcanza la inmortalidad; su nombre esta enraizado
 
 ---
 
-## C. Contexto Histórico y Arqueologico
+## C. Contexto Histórico y Arqueológico
 
 ### C1. La hoja de olivo — evidencia botanica
 **[HISTÓRICO / ARQUEOLÓGICO — PROBABLE]**
@@ -141,14 +141,14 @@ El olivo (*zayit*) es nativo del Mediterraneo oriental y prospera en el Levante.
 
 **Fuente:** Zohary, D. & Hopf, M., *Domestication of Plants in the Old World*, Oxford, 3a ed., 2000.
 
-### C2. Primer altar — *mizbeach* en contexto arqueologico
+### C2. Primer altar — *mizbeach* en contexto arqueológico
 **[HISTÓRICO / ARQUEOLÓGICO — PROBABLE]**
 
 Gn 8:20: Noé construye el primer *mizbeach* (altar) en la narrativa biblica. La evidencia arqueologica más temprana de instalaciones sacrificiales estructuradas en el Cercano Oriente data del Neolitico Pre-Ceramico (c. 9000-7000 a.C.). Los altares al aire libre hechos de piedra sin labrar son la forma más simple y antigua.
 
 ---
 
-## D. Análisis Linguistico y Filologico
+## D. Análisis Lingüístico y Filologico
 
 ### D1. *Nichoach* — el aroma "descansante"
 **[TEXTUAL — VERIFICADO]**
@@ -183,14 +183,14 @@ Gn 8:7: el cuervo "salio, saliendo y volviendo, hasta que las aguas se secaron d
 
 La hoja de olivo (8:11) se ha convertido en un simbolo perdurable de paz. Pero el texto no atribuye este significado. En contexto, la hoja de olivo prueba: (1) las aguas han retrocedido lo suficiente para que la vegetacion de tierras bajas quede expuesta; (2) material vegetal vivo sobrevive — el mundo biologico se esta recuperando. El simbolismo de paz es una acrecion cultural posterior, no presente en el texto hebreo.
 
-### G3. "Dijo en su corazon" — interioridad divina
+### G3. "Dijo en su corazón" — interioridad divina
 **[TEXTUAL — VERIFICADO]**
 
 Gn 8:21: "YHWH dijo en su corazon" (*el-libbo*). Este es discurso divino interno — Dios resolviendo dentro de si mismo, no hablando a Noé. Al lector humano se le da acceso al pensamiento interior de Dios. Esto se resuelve privadamente; el pacto publico sigue en Gn 9. La resolucion interna precede y fundamenta el compromiso externo.
 
 El monologo interior divino es una convencion literaria reconocida en textos del ACO. En la Teologia Menfita egipcia, el dios Ptah crea mediante el pensamiento "en el corazon" antes del mandato verbal. El recurso retrata la toma de decisiones divina como deliberada y razonada, no impulsiva. La TT lo rinde literalmente, preservando el retrato antropomorfico pero digno.
 
-### G4. El diluvio como exactamente un ano
+### G4. El diluvio como exactamente un año
 **[TEXTUAL — PROBABLE]**
 
 El diluvio comienza el Mes 2, Dia 17 (7:11) y la tierra esta completamente seca el Mes 2, Dia 27 (8:14) — aproximadamente un ano solar (370-371 dias). Algunos estudiosos argumentan que esto se ajusta exactamente a un calendario de 364 dias (conocido de Jubileos y 1 Enoc) más ajustes. Sea que la cronologia sea historica, literaria o liturgica, el marco de casi-exactamente-un-ano es un rasgo estructural de la narrativa.

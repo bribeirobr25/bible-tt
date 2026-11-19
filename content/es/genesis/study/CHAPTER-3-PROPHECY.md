@@ -1,4 +1,4 @@
-# Genesis 3 — Seguimiento de Profecías
+# Génesis 3 — Seguimiento de Profecías
 ## The Transparent Translation (TT)
 
 ---

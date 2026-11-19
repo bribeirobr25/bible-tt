@@ -766,7 +766,7 @@ Y le dice: @@"Amen, amen, les digo, veran el cielo abierto y los mensajeros de D
 
 ---
 
-## SEGUIMIENTO ENTRE CAPITULOS (Génesis -> Juan)
+## SEGUIMIENTO ENTRE CAPÍTULOS (Génesis -> Juan)
 
 **Gen 1:1 -> Juan 1:1 — "En el principio":**
 

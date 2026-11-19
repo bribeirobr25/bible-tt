@@ -1,4 +1,4 @@
-# GENESIS 4
+# GÉNESIS 4
 ## La Traducción Transparente (TT)
 ### Edición Transparente - Español
 
@@ -25,7 +25,7 @@
 
 ---
 
-## GUIA DE LECTURA
+## GUÍA DE LECTURA
 
 **Texto Principal:** Traducción primaria — legible pero fiel a la estructura hebrea. **Notas:** Rasgos hebreos esenciales justo debajo de cada versículo.
 
@@ -388,7 +388,7 @@ Y a Set, también a él le nació un hijo, y llamó su nombre Enosh. Entonces *s
 
 ---
 
-## GLOSARIO — GENESIS 4 (adiciones al glosario de Gn 1–3)
+## GLOSARIO — GÉNESIS 4 (adiciones al glosario de Gn 1–3)
 
 | Hebreo | Español | Notas |
 |--------|---------|-------|
@@ -404,7 +404,7 @@ Y a Set, también a él le nació un hijo, y llamó su nombre Enosh. Entonces *s
 
 ---
 
-## SEGUIMIENTO ENTRE CAPITULOS (Gn 3 → Gn 4)
+## SEGUIMIENTO ENTRE CAPÍTULOS (Gn 3 → Gn 4)
 
 **Retrollamada de teshuqah:**
 - 3:16: *"hacia tu hombre sera tu deseo/inclinación, y él dominara sobre ti"*

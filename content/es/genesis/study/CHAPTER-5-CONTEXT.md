@@ -15,9 +15,9 @@
 
 ---
 
-## A. Caracteristicas del Texto Hebreo Expuestas por la TT
+## A. Características del Texto Hebreo Expuestas por la TT
 
-### A1. Toledot con *sefer* — prefijo unico
+### A1. Toledot con *sefer* — prefijo único
 **[TEXTUAL — VERIFICADO]**
 
 Genesis 5:1: "el **libro** de las generaciones de Adan" — el unico marcador *toledot* con el prefijo *sefer* (libro/documento). Esto senala un registro escrito estructurado, distinto de los marcadores narrativos *toledot* en 2:4 y 6:9.
@@ -27,7 +27,7 @@ Genesis 5:1: "el **libro** de las generaciones de Adan" — el unico marcador *t
 
 Gn 1:26-27: Dios crea al humano "a nuestra imagen (*tselem*), conforme a nuestra semejanza (*demut*)." Gn 5:1: recuerda "en la semejanza de Dios lo hizo." Gn 5:3: Adan engendra a Set "en su semejanza, conforme a su imagen" — los terminos estan **invertidos** (semejanza primero, luego imagen) y la polaridad cambia de divino-a-humano a humano-a-humano. El par *tselem/demut* se transmite a traves de las generaciones.
 
-### A3. "Y murio" — formula fija con una ruptura conspicua
+### A3. "Y murió" — fórmula fija con una ruptura conspicua
 **[TEXTUAL — VERIFICADO]**
 
 La formula *vayyamot* ("y murio") cierra 8 de 10 entradas genealogicas (vv. 5, 8, 11, 14, 17, 20, 27, 31). Las DOS excepciones: Enoc (v.24 — "no fue mas, porque Dios lo tomo") y Noé (v.32 — no se registra muerte; su muerte viene en 9:29). La ruptura de Enoc es el centro teologico del capitulo.
@@ -37,12 +37,12 @@ La formula *vayyamot* ("y murio") cierra 8 de 10 entradas genealogicas (vv. 5, 8
 
 Solo dos personas "caminan con Dios" (*hithalekh et-ha-Elohim*) en Genesis: Enoc (5:22, 24) y Noé (6:9). La entrada de Enoc reemplaza de manera unica "y murio" con "no fue mas, porque Dios lo tomo" (*einennu ki laqaj oto Elohim*). El texto no dice adonde fue, que sucedio, ni que fue al cielo. Dice que Dios lo **tomo**. Todo lo que va más alla es interpretacion posterior.
 
-### A5. 365 anos — vida más corta, numero de ano solar
+### A5. 365 años — vida más corta, número de año solar
 **[TEXTUAL — VERIFICADO]**
 
 Enoc vive 365 anos — la vida más corta en la genealogia (otros: 777–969). El numero equivale a los dias de un ano solar. Si esto es simbolicamente significativo es POSIBLE pero no resuelto.
 
-### A6. Juego de palabras najam/Noé — consuelo desde la maldicion
+### A6. Juego de palabras najam/Noé — consuelo desde la maldición
 **[TEXTUAL — VERIFICADO]**
 
 Genesis 5:29: Lamec nombra a su hijo Noé (נֹחַ) diciendo "este nos consolara (*yenajamenu*, de la raiz נ-ח-ם *najam*)." La misma raiz aparece en 6:6 donde YHWH "se arrepintio" (*vayyinnajam*) de haber hecho a los humanos. Consuelo y arrepentimiento comparten una raiz — el nombre de Noé lleva ambas esperanzas.
@@ -52,7 +52,7 @@ Genesis 5:29: Lamec nombra a su hijo Noé (נֹחַ) diciendo "este nos consolar
 
 Todo el capitulo usa *Elohim* excepto el v.29, donde el discurso de Lamec referencia "el suelo que **YHWH** maldijo" (eco de 3:17). La distribucion del nombre divino es una caracteristica textual que la TT preserva.
 
-### A8. El ano de muerte de Metushelaj = ano del diluvio
+### A8. El año de muerte de Metushelaj = año del diluvio
 **[TEXTUAL — VERIFICADO]**
 
 Segun la aritmetica masoretica: Metushelaj nace cuando Enoc tiene 65 anos; Lamec nace cuando Metushelaj tiene 187; Noé nace cuando Lamec tiene 182; el diluvio ocurre cuando Noé tiene 600 anos. Total: 65 + 187 + 182 + 600 = 1034 anos desde el nacimiento de Enoc; vida total de Metushelaj: 969 anos desde su nacimiento (= 65 anos despues de Enoc). Metushelaj muere **el ano del diluvio**. El texto no hace esta conexion explicita — pero los numeros la producen.
@@ -77,7 +77,7 @@ La LRS legitima el poder politico ("la realeza descendio del cielo"); Genesis 5 
 
 **Fuente:** Jacobsen, T., *The Sumerian King List*, 1939; Shea, W.H., "The Antediluvian Section of the SKL and Genesis 5," *Biblical Archaeologist* 44:4 (1981).
 
-### B2. Enoc y Enmeduranki — la septima figura
+### B2. Enoc y Enmeduranki — la séptima figura
 **[PARALELO COMPARATIVO — VERIFICADO]**
 
 Enoc ocupa la **septima** posicion en Genesis 5. En algunas versiones de la LRS, **Enmeduranki** de Sippar es el septimo rey antediluviano, estrechamente asociado con el dios-sol Shamash e iniciado en los secretos divinos de la adivinacion. Richard Hess senala que Utuabzu (consejero de Enmeduranki) supuestamente "ascendio al cielo" — paralelando directamente la traslacion de Enoc.
@@ -86,14 +86,14 @@ Enoc ocupa la **septima** posicion en Genesis 5. En algunas versiones de la LRS,
 
 ---
 
-## D. Inmersiones Linguisticas y Filologicas
+## D. Inmersiones Lingüísticas y Filológicas
 
-### D1. La formula genealogica — estructura fija
+### D1. La fórmula genealógica — estructura fija
 **[TEXTUAL — VERIFICADO]**
 
 Cada entrada sigue: "X vivio Y anos → engendro a Z → vivio W anos más → engendro hijos e hijas → todos los dias de X fueron N anos → y murio." La rigidez es deliberada (Regla 7 — formula fija). Las desviaciones de la formula (Enoc, Noé) son las senales interpretativas.
 
-### D2. Patrones numericos — ¿sistema sexagesimal?
+### D2. Patrones numéricos — ¿sistema sexagesimal?
 **[TEXTUAL / PARALELO COMPARATIVO — PROBABLE]**
 
 Cassuto (*Commentary on Genesis*, 1961) demostro que los 30 numeros en Genesis 5 pueden expresarse como combinaciones de 60 (base matematica mesopotamica) y 7 (numero sagrado hebreo). Carol Hill ("Making Sense of the Numbers of Genesis," *PSCF* 55:4, 2003) argumenta que los numeros portaban tanto significado numerico como sagrado en la cosmovision mesopotamica.
@@ -104,7 +104,7 @@ Cassuto (*Commentary on Genesis*, 1961) demostro que los 30 numeros en Genesis 5
 
 ---
 
-## E. Correspondencia y No-Correspondencia Cientifica
+## E. Correspondencia y No-Correspondencia Científica
 
 ### E1. Las edades extraordinarias — lo que el texto dice y no dice
 **[COMPARACIÓN CIENTÍFICA — POSIBLE]**
@@ -117,7 +117,7 @@ Opciones que los lectores han considerado: (1) anos literales; (2) numeros simbo
 
 ## F. Recepción Posterior en Otras Tradiciones
 
-### F1. Tradiciones de Enoc — judias
+### F1. Tradiciones de Enoc — judías
 **[RECEPCIÓN POSTERIOR — DOCUMENTADO]**
 
 - **1 Enoc** (Libro de los Vigilantes, s. III a.e.c.): Enoc viaja por el cielo, recibe revelaciones cosmicas, conoce el destino de los Vigilantes caidos

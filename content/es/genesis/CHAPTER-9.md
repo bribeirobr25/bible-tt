@@ -1,4 +1,4 @@
-# GENESIS 9
+# GÉNESIS 9
 ## La Traducción Transparente (TT)
 ### Edición Transparente - Español
 
@@ -25,7 +25,7 @@
 
 ---
 
-## GUIA DE LECTURA
+## GUÍA DE LECTURA
 
 **Texto Principal:** Traducción primaria — legible pero fiel a la estructura hebrea. **Notas:** Rasgos hebreos esenciales justo debajo de cada versículo.
 
@@ -402,7 +402,7 @@ Y todos los días de Noé fueron novecientos cincuenta años, y murió.
 
 ---
 
-## GLOSARIO — GENESIS 9 (adiciones al glosario de Gn 1-8)
+## GLOSARIO — GÉNESIS 9 (adiciones al glosario de Gn 1-8)
 
 | Hebreo | Español | Notas |
 |--------|---------|-------|
@@ -417,7 +417,7 @@ Y todos los días de Noé fueron novecientos cincuenta años, y murió.
 
 ---
 
-## SEGUIMIENTO ENTRE CAPITULOS (Gn 8 → Gn 9)
+## SEGUIMIENTO ENTRE CAPÍTULOS (Gn 8 → Gn 9)
 
 **Gn 1:28 vs Gn 9:1-7 — comparación de bendiciónes:**
 

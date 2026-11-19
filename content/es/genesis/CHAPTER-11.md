@@ -1,4 +1,4 @@
-# GENESIS 11
+# GÉNESIS 11
 ## La Traducción Transparente (TT)
 ### Edición Transparente - Español
 

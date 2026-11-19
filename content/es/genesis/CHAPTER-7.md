@@ -1,4 +1,4 @@
-# GENESIS 7
+# GÉNESIS 7
 ## La Traducción Transparente (TT)
 ### Edición Transparente - Español
 
@@ -24,7 +24,7 @@
 
 ---
 
-## GUIA DE LECTURA
+## GUÍA DE LECTURA
 
 **Texto Principal:** Traducción primaria — legible pero fiel a la estructura hebrea. **Notas:** Rasgos hebreos esenciales justo debajo de cada versículo.
 
@@ -327,7 +327,7 @@ Y las aguas prevalecieron sobre la tierra ciento cincuenta días.
 
 ---
 
-## GLOSARIO — GENESIS 7 (adiciones al glosario de Gn 1-6)
+## GLOSARIO — GÉNESIS 7 (adiciones al glosario de Gn 1-6)
 
 | Hebreo | Español | Notas |
 |--------|---------|-------|
@@ -340,7 +340,7 @@ Y las aguas prevalecieron sobre la tierra ciento cincuenta días.
 
 ---
 
-## SEGUIMIENTO ENTRE CAPITULOS (Gn 6 → Gn 7)
+## SEGUIMIENTO ENTRE CAPÍTULOS (Gn 6 → Gn 7)
 
 **Cadena de formula de obediencia:**
 - 6:22: "Noé hizo conforme a todo lo que Dios le ordenó; así lo hizo"

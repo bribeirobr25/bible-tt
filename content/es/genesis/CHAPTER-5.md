@@ -1,4 +1,4 @@
-# GENESIS 5
+# GÉNESIS 5
 ## La Traducción Transparente (TT)
 ### Edición Transparente - Español
 
@@ -25,7 +25,7 @@
 
 ---
 
-## GUIA DE LECTURA
+## GUÍA DE LECTURA
 
 **Texto Principal:** Traducción primaria — legible pero fiel a la estructura hebrea. **Notas:** Rasgos hebreos esenciales justo debajo de cada versículo.
 
@@ -356,7 +356,7 @@ Y Noé tenia quinientos años, y Noé engendró a Shem, Cam y Jafet.
 
 ---
 
-## GLOSARIO — GENESIS 5 (adiciones al glosario de Gn 1–4)
+## GLOSARIO — GÉNESIS 5 (adiciones al glosario de Gn 1–4)
 
 | Hebreo | Español | Notas |
 |--------|---------|-------|
@@ -368,7 +368,7 @@ Y Noé tenia quinientos años, y Noé engendró a Shem, Cam y Jafet.
 
 ---
 
-## SEGUIMIENTO ENTRE CAPITULOS (Gn 4 → Gn 5)
+## SEGUIMIENTO ENTRE CAPÍTULOS (Gn 4 → Gn 5)
 
 **Dos genealogías, dos lineas:**
 - Gn 4:17–22: linea cainita (Caín → Enoc → ... → Lamec → Yaval/Yuval/Tuval-Caín)

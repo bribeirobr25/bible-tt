@@ -1,4 +1,4 @@
-# GENESIS 8
+# GÉNESIS 8
 ## La Traducción Transparente (TT)
 ### Edición Transparente - Español
 
@@ -25,7 +25,7 @@
 
 ---
 
-## GUIA DE LECTURA
+## GUÍA DE LECTURA
 
 **Texto Principal:** Traducción primaria — legible pero fiel a la estructura hebrea. **Notas:** Rasgos hebreos esenciales justo debajo de cada versículo.
 
@@ -322,7 +322,7 @@ Y YHWH olió el aroma apaciguante, y YHWH dijo en su corazón, @@"No volveré a 
 
 ---
 
-## GLOSARIO — GENESIS 8 (adiciones al glosario de Gn 1-7)
+## GLOSARIO — GÉNESIS 8 (adiciones al glosario de Gn 1-7)
 
 | Hebreo | Español | Notas |
 |--------|---------|-------|
@@ -337,7 +337,7 @@ Y YHWH olió el aroma apaciguante, y YHWH dijo en su corazón, @@"No volveré a 
 
 ---
 
-## SEGUIMIENTO ENTRE CAPITULOS (Gn 7 → Gn 8)
+## SEGUIMIENTO ENTRE CAPÍTULOS (Gn 7 → Gn 8)
 
 **Paralelo de re-creación:**
 - Gn 1:2: *ruach* de Dios sobre las aguas → Gn 8:1: Dios hace pasar *ruach* sobre la tierra
