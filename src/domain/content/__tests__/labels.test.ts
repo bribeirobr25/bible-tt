@@ -1,4 +1,4 @@
-import { describe, expect, it } from "vitest";
+import { afterEach, describe, expect, it, vi } from "vitest";
 import {
   CLAIM_TYPES,
   CONFIDENCE_LEVELS,
@@ -115,5 +115,98 @@ describe("labels — parseDualLabel (Finding 3)", () => {
       parseDualLabel("Some prose with a stray [x — y] tag inline."),
     ).toBeNull();
     expect(parseDualLabel("**bold but not a label**")).toBeNull();
+  });
+});
+
+// Step 2 (PLAN_SAFETY_NET.md WS3): word-start matching + negation handling.
+// The full-corpus snapshot (6,350 resolved labels) was byte-identical before/after.
+describe("labels — word-start matching (no infix / negated matches)", () => {
+  const quiet = () => vi.spyOn(console, "warn").mockImplementation(() => {});
+  afterEach(() => vi.restoreAllMocks());
+
+  it("rejects infix matches that used to resolve silently", () => {
+    const warn = quiet();
+    expect(parseConfidence("UNVERIFIED")).toBe("POSSIBLE"); // fallback, not VERIFIED
+    expect(parseConfidence("IMPROBABLE")).toBe("POSSIBLE"); // fallback, not PROBABLE
+    expect(parseConfidence("IMPOSSIBLE")).toBe("POSSIBLE"); // fallback (warned)
+    expect(warn).toHaveBeenCalledTimes(3);
+  });
+
+  it("skips a negated / weakened occurrence and keeps searching", () => {
+    const warn = quiet();
+    expect(parseConfidence("PROBABLE (NO VERIFICADO)")).toBe("PROBABLE");
+    expect(parseConfidence("NICHT VERIFIZIERT; WAHRSCHEINLICH")).toBe(
+      "PROBABLE",
+    );
+    expect(parseConfidence("NOT VERIFIED")).toBe("POSSIBLE"); // nothing valid left
+    expect(parseConfidence("POCO PROBABLE")).toBe("POSSIBLE");
+    expect(parseConfidence("POUCO PROVÁVEL")).toBe("POSSIBLE");
+    expect(parseConfidence("KAUM WAHRSCHEINLICH")).toBe("POSSIBLE");
+    expect(warn).toHaveBeenCalledTimes(4);
+  });
+
+  it("still accepts suffixed forms authored in content", () => {
+    const warn = quiet();
+    expect(parseClaimType("WISSENSCHAFTLICHER VERGLEICH")).toBe(
+      "SCIENTIFIC COMPARISON",
+    );
+    expect(parseClaimType("MÖGLICHE SCHLUSSFOLGERUNG")).toBe(
+      "POSSIBLE INFERENCE",
+    );
+    expect(parseClaimType("KOMPARATIVES PARALLEL")).toBe(
+      "COMPARATIVE PARALLEL",
+    );
+    expect(parseClaimType("vergleichende Parallele")).toBe(
+      "COMPARATIVE PARALLEL",
+    );
+    expect(parseConfidence("WAHRSCHEINLICH BIS UNSICHER")).toBe("PROBABLE"); // range → earlier bucket
+    expect(warn).not.toHaveBeenCalled();
+  });
+
+  it("pins today's compound-label behaviour (policy decision routed to Step 4)", () => {
+    // DUAL_LABEL splits on the FIRST dash: the second claim/confidence pair of a
+    // compound label is not parsed. 306 such labels exist (2026-11-19).
+    const r = parseDualLabel(
+      "**[TEXTUAL — VERIFIED (for the three phrases); POSSIBLE INFERENCE — UNCERTAIN (for the reading)]**",
+    );
+    expect(r).toEqual({ claimType: "TEXTUAL", confidence: "VERIFIED" });
+  });
+});
+
+// Implementation review (R2/R3): pin the matcher so its mutants die.
+describe("labels — matcher semantics (mutation-pinned)", () => {
+  const quiet = () => vi.spyOn(console, "warn").mockImplementation(() => {});
+  afterEach(() => vi.restoreAllMocks());
+
+  it("a negated occurrence is skipped and a LATER occurrence of the same alias still counts", () => {
+    expect(parseConfidence("NOT VERIFIED BY X; VERIFIED BY Y")).toBe(
+      "VERIFIED",
+    );
+  });
+  it("an infix occurrence is skipped and a later word-start one still counts", () => {
+    expect(parseConfidence("UNVERIFIED / VERIFIED")).toBe("VERIFIED");
+  });
+  it("word start is Unicode-aware (a preceding non-ASCII letter blocks the match)", () => {
+    const warn = quiet();
+    expect(parseConfidence("ÜVERIFIED")).toBe("POSSIBLE");
+    expect(warn).toHaveBeenCalledTimes(1);
+  });
+  it("Portuguese NÃO negates (Unicode negator look-back)", () => {
+    expect(parseConfidence("PROVÁVEL (NÃO VERIFICADO)")).toBe("PROBABLE");
+  });
+  it("negation needs a whitespace/hyphen gap; other punctuation separates clauses", () => {
+    expect(parseConfidence("NO (VERIFIED)")).toBe("VERIFIED");
+    const warn = quiet();
+    expect(parseConfidence("NOT-VERIFIED")).toBe("POSSIBLE");
+    expect(warn).toHaveBeenCalledTimes(1);
+  });
+  it("claim types are never negated (PT 'no' = 'in the')", () => {
+    expect(parseClaimType("NO HISTÓRICO")).toBe("HISTORICAL / ARCHAEOLOGICAL");
+  });
+  it("known limit, pinned: one word of look-back ('NOT YET VERIFIED' → VERIFIED)", () => {
+    expect(parseConfidence("NOT YET VERIFIED")).toBe("VERIFIED");
+  });
+  it("normalizes decomposed (NFD) input", () => {
+    expect(parseConfidence("PROVÁVEL")).toBe("PROBABLE");
   });
 });

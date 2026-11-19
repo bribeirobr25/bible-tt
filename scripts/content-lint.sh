@@ -1,5 +1,5 @@
 #!/bin/bash
-# Phase-0 hardened content lint.
+# Phase-0 hardened content lint (Launch-Readiness Program Step 2 hardening).
 #
 # Usage:
 #   bash scripts/content-lint.sh             # blocking mode (CI default)
@@ -9,7 +9,10 @@
 #   scripts/lint-allowlist.txt — lines RULE_ID|FILE|EXACT_MATCH
 #   Used to suppress legitimate cases that match a rule's pattern.
 #
-# Phase 0 content-lint rules are defined inline in this script.
+# Portability: must run under macOS /bin/bash 3.2 (BSD grep) AND CI bash 5.x
+# (GNU grep). No mapfile, associative arrays or ${x,,}. Unicode-sensitive
+# rules use `perl -CSD`. A tool failure (bad regex, missing path) is an ERROR,
+# never a silent pass: grep exit >= 2 and any perl non-zero exit are counted.
 
 WARN_ONLY=false
 for arg in "$@"; do
@@ -18,25 +21,83 @@ for arg in "$@"; do
   esac
 done
 
-CONTENT_DIRS="content/en/genesis content/pt-br/genesis content/de/genesis content/es/genesis content/en/john content/pt-br/john content/de/john content/es/john content/en/matthew content/pt-br/matthew content/de/matthew content/es/matthew content/en/mark content/pt-br/mark content/de/mark content/es/mark content/en/luke content/pt-br/luke content/de/luke content/es/luke content/en/acts content/pt-br/acts content/de/acts content/es/acts content/en/1-peter content/pt-br/1-peter content/de/1-peter content/es/1-peter"
-STUDY_DIRS="content/en/genesis/study content/pt-br/genesis/study content/de/genesis/study content/es/genesis/study content/en/john/study content/pt-br/john/study content/de/john/study content/es/john/study content/en/matthew/study content/pt-br/matthew/study content/de/matthew/study content/es/matthew/study content/en/mark/study content/pt-br/mark/study content/de/mark/study content/es/mark/study content/en/luke/study content/pt-br/luke/study content/de/luke/study content/es/luke/study content/en/acts/study content/pt-br/acts/study content/de/acts/study content/es/acts/study content/en/1-peter/study content/pt-br/1-peter/study content/de/1-peter/study content/es/1-peter/study"
-PEOPLE_FILES="content/en/genesis/PEOPLE.md content/pt-br/genesis/PEOPLE.md content/de/genesis/PEOPLE.md content/es/genesis/PEOPLE.md content/en/matthew/PEOPLE.md content/pt-br/matthew/PEOPLE.md content/de/matthew/PEOPLE.md content/es/matthew/PEOPLE.md content/en/john/PEOPLE.md content/pt-br/john/PEOPLE.md content/de/john/PEOPLE.md content/es/john/PEOPLE.md content/en/mark/PEOPLE.md content/pt-br/mark/PEOPLE.md content/de/mark/PEOPLE.md content/es/mark/PEOPLE.md content/en/luke/PEOPLE.md content/pt-br/luke/PEOPLE.md content/de/luke/PEOPLE.md content/es/luke/PEOPLE.md content/en/acts/PEOPLE.md content/pt-br/acts/PEOPLE.md content/de/acts/PEOPLE.md content/es/acts/PEOPLE.md content/en/1-peter/PEOPLE.md content/pt-br/1-peter/PEOPLE.md content/de/1-peter/PEOPLE.md content/es/1-peter/PEOPLE.md"
-NON_EN_PEOPLE_FILES="content/pt-br/genesis/PEOPLE.md content/de/genesis/PEOPLE.md content/es/genesis/PEOPLE.md content/pt-br/matthew/PEOPLE.md content/de/matthew/PEOPLE.md content/es/matthew/PEOPLE.md content/pt-br/john/PEOPLE.md content/de/john/PEOPLE.md content/es/john/PEOPLE.md content/pt-br/mark/PEOPLE.md content/de/mark/PEOPLE.md content/es/mark/PEOPLE.md content/pt-br/luke/PEOPLE.md content/de/luke/PEOPLE.md content/es/luke/PEOPLE.md content/pt-br/acts/PEOPLE.md content/de/acts/PEOPLE.md content/es/acts/PEOPLE.md content/pt-br/1-peter/PEOPLE.md content/de/1-peter/PEOPLE.md content/es/1-peter/PEOPLE.md"
-# Phase 9 — CONTEXT.md per book per locale (book-level cross-chapter motifs).
-CONTEXT_FILES="content/en/genesis/CONTEXT.md content/pt-br/genesis/CONTEXT.md content/de/genesis/CONTEXT.md content/es/genesis/CONTEXT.md content/en/john/CONTEXT.md content/pt-br/john/CONTEXT.md content/de/john/CONTEXT.md content/es/john/CONTEXT.md content/en/matthew/CONTEXT.md content/pt-br/matthew/CONTEXT.md content/de/matthew/CONTEXT.md content/es/matthew/CONTEXT.md content/en/mark/CONTEXT.md content/pt-br/mark/CONTEXT.md content/de/mark/CONTEXT.md content/es/mark/CONTEXT.md content/en/luke/CONTEXT.md content/pt-br/luke/CONTEXT.md content/de/luke/CONTEXT.md content/es/luke/CONTEXT.md content/en/acts/CONTEXT.md content/pt-br/acts/CONTEXT.md content/de/acts/CONTEXT.md content/es/acts/CONTEXT.md content/en/1-peter/CONTEXT.md content/pt-br/1-peter/CONTEXT.md content/de/1-peter/CONTEXT.md content/es/1-peter/CONTEXT.md"
-ES_NT_DIRS="content/es/john content/es/matthew content/es/mark content/es/luke content/es/acts content/es/1-peter"
-ES_NT_CHAPTER_FILES="content/es/john/CHAPTER-1.md content/es/john/CHAPTER-2.md content/es/john/CHAPTER-3.md content/es/matthew/CHAPTER-1.md content/es/matthew/CHAPTER-2.md content/es/matthew/CHAPTER-3.md content/es/mark/CHAPTER-1.md content/es/mark/CHAPTER-2.md content/es/mark/CHAPTER-3.md content/es/luke/CHAPTER-1.md content/es/luke/CHAPTER-2.md content/es/luke/CHAPTER-3.md content/es/acts/CHAPTER-1.md content/es/acts/CHAPTER-2.md content/es/acts/CHAPTER-3.md content/es/1-peter/CHAPTER-1.md content/es/1-peter/CHAPTER-2.md content/es/1-peter/CHAPTER-3.md content/es/1-peter/CHAPTER-4.md content/es/1-peter/CHAPTER-5.md"
+ERRORS=0
+WARNINGS=0
+TOOL_ERRORS=0
+
+# tool_error <rule_id> <message> — a broken check must fail the lint.
+tool_error() {
+  echo "[TOOL ERROR $1] $2" >&2
+  TOOL_ERRORS=$((TOOL_ERRORS + 1))
+  ERRORS=$((ERRORS + 1))
+}
+
+# ------------------------------------------------------------
+# Book / file lists — GENERATED from the filesystem (no per-book hardcoding).
+# A new book needs no edit here. EN is the master locale for the book set.
+# HB_BOOKS must equal HEBREW_BIBLE in src/app (asserted by
+# src/infrastructure/content/__tests__/activation-consistency.test.ts).
+# ------------------------------------------------------------
+LOCALES="en pt-br de es"
+HB_BOOKS="genesis"
+# Cross-book PEOPLE pointer targets not yet authored (forward references). With
+# the generated book list they form the §0.12 allow-list.
+FORWARD_SLUGS="exodus kings isaiah"
+
+is_hb_book() {
+  case " $HB_BOOKS " in *" $1 "*) return 0 ;; esac
+  return 1
+}
+
+BOOKS=""
+for d in content/en/*/; do
+  [ -d "$d" ] || continue
+  b=$(basename "$d")
+  BOOKS="$BOOKS $b"
+done
+
+CONTENT_DIRS=""; STUDY_DIRS=""; PEOPLE_FILES=""; NON_EN_PEOPLE_FILES=""
+CONTEXT_FILES=""; ES_NT_DIRS=""; ES_NT_CHAPTER_FILES=""; DE_CHAPTER_FILES=""
+for loc in $LOCALES; do
+  for b in $BOOKS; do
+    d="content/$loc/$b"
+    [ -d "$d" ] || continue
+    CONTENT_DIRS="$CONTENT_DIRS $d"
+    [ -d "$d/study" ] && STUDY_DIRS="$STUDY_DIRS $d/study"
+    if [ -f "$d/PEOPLE.md" ]; then
+      PEOPLE_FILES="$PEOPLE_FILES $d/PEOPLE.md"
+      [ "$loc" != "en" ] && NON_EN_PEOPLE_FILES="$NON_EN_PEOPLE_FILES $d/PEOPLE.md"
+    fi
+    [ -f "$d/CONTEXT.md" ] && CONTEXT_FILES="$CONTEXT_FILES $d/CONTEXT.md"
+    for f in "$d"/CHAPTER-*.md; do
+      [ -f "$f" ] || continue
+      [ "$loc" = "de" ] && DE_CHAPTER_FILES="$DE_CHAPTER_FILES $f"
+      if [ "$loc" = "es" ] && ! is_hb_book "$b"; then
+        ES_NT_CHAPTER_FILES="$ES_NT_CHAPTER_FILES $f"
+      fi
+    done
+    if [ "$loc" = "es" ] && ! is_hb_book "$b"; then
+      ES_NT_DIRS="$ES_NT_DIRS $d"
+    fi
+  done
+done
 PTBR_JOHN_FILES="content/pt-br/john/CHAPTER-1.md content/pt-br/john/CHAPTER-2.md content/pt-br/john/CHAPTER-3.md content/pt-br/john/study/CHAPTER-1-CONTEXT.md content/pt-br/john/study/CHAPTER-2-CONTEXT.md content/pt-br/john/study/CHAPTER-3-CONTEXT.md"
-EDITORIAL_LOGS="docs/editorial-log/genesis.md docs/editorial-log/john.md docs/editorial-log/matthew.md docs/editorial-log/mark.md docs/editorial-log/luke.md docs/editorial-log/acts.md docs/editorial-log/1-peter.md"
+EDITORIAL_LOGS=""
+for f in docs/editorial-log/*.md; do [ -f "$f" ] && EDITORIAL_LOGS="$EDITORIAL_LOGS $f"; done
+
+# Every generated list must be non-empty — an empty list would make its rules
+# pass vacuously.
+for v in BOOKS CONTENT_DIRS STUDY_DIRS PEOPLE_FILES NON_EN_PEOPLE_FILES CONTEXT_FILES ES_NT_DIRS ES_NT_CHAPTER_FILES DE_CHAPTER_FILES EDITORIAL_LOGS; do
+  eval "val=\$$v"
+  if [ -z "$val" ]; then tool_error "lists" "generated list $v is empty"; fi
+done
 
 ALLOWLIST_FILE="scripts/lint-allowlist.txt"
 
-ERRORS=0
-WARNINGS=0
-
 # filter_allowlist <rule_id>
 # Reads grep output (file:line:text) on stdin, drops lines whose <file>|<text>
-# tuple appears in the allow-list under the given rule.
+# tuple appears in the allow-list under EXACTLY the given rule id (prefix
+# compare — not a regex, so the "." in "0.1" cannot match other ids).
 filter_allowlist() {
   local rule_id="$1"
   if [ ! -f "$ALLOWLIST_FILE" ]; then
@@ -45,10 +106,10 @@ filter_allowlist() {
   fi
   awk -v rule="$rule_id" -v alf="$ALLOWLIST_FILE" '
     BEGIN {
+      prefix = rule "|"
       while ((getline line < alf) > 0) {
-        if (line ~ ("^" rule "\\|")) {
-          sub("^" rule "\\|", "", line)
-          allow[line] = 1
+        if (index(line, prefix) == 1) {
+          allow[substr(line, length(prefix) + 1)] = 1
         }
       }
       close(alf)
@@ -95,43 +156,79 @@ emit_warn() {
   WARNINGS=$((WARNINGS + 1))
 }
 
+# lint_grep <rule_id> <pattern> <files...> — grep -rEn with error detection.
+# Sets LINT_OUT. grep exit: 0 = matches, 1 = none, >= 2 = error.
+lint_grep() {
+  local rule_id="$1" pattern="$2" rc
+  shift 2
+  LINT_OUT=""
+  # No paths would make grep -r recurse "." (node_modules, .next…) — never.
+  if [ $# -eq 0 ]; then tool_error "$rule_id" "no input paths"; return; fi
+  LINT_OUT=$(grep -rEn -- "$pattern" "$@")
+  rc=$?
+  if [ $rc -gt 1 ]; then tool_error "$rule_id" "grep exited $rc"; fi
+}
+
 check_pattern() {
-  local rule_id="$1"
-  local label="$2"
-  local pattern="$3"
-  local files="$4"
-  local matches
-  matches=$(grep -rEn "$pattern" $files 2>/dev/null | filter_allowlist "$rule_id")
-  emit "$rule_id" "$label" "$matches"
+  local rule_id="$1" label="$2" pattern="$3" files="$4"
+  # shellcheck disable=SC2086 — $files is an intentional word-split list
+  lint_grep "$rule_id" "$pattern" $files
+  emit "$rule_id" "$label" "$(printf '%s' "$LINT_OUT" | filter_allowlist "$rule_id")"
 }
 
 check_pattern_warn() {
-  local rule_id="$1"
-  local label="$2"
-  local pattern="$3"
-  local files="$4"
-  local matches
-  matches=$(grep -rEn "$pattern" $files 2>/dev/null | filter_allowlist "$rule_id")
-  emit_warn "$rule_id" "$label" "$matches"
+  local rule_id="$1" label="$2" pattern="$3" files="$4"
+  lint_grep "$rule_id" "$pattern" $files
+  emit_warn "$rule_id" "$label" "$(printf '%s' "$LINT_OUT" | filter_allowlist "$rule_id")"
+}
+
+# require_files <rule_id> <files...> — perl exits 0 on a missing file, so
+# check inputs explicitly before every perl rule.
+require_files() {
+  local rule_id="$1" f
+  shift
+  for f in "$@"; do
+    [ -f "$f" ] || tool_error "$rule_id" "missing input file: $f"
+  done
+}
+
+# lint_perl_re <rule_id> <perl_regex> <files...> — prints file:line:text for
+# lines matching a Unicode-aware perl regex (-CSD; pattern passed via env so
+# no shell quoting is involved). Sets LINT_OUT; non-zero perl exit = error.
+lint_perl_re() {
+  local rule_id="$1" re="$2" rc
+  shift 2
+  LINT_OUT=""
+  # No files would make perl -n read stdin (hang) — never.
+  if [ $# -eq 0 ]; then tool_error "$rule_id" "no input files"; return; fi
+  require_files "$rule_id" "$@"
+  # utf8::decode is core perl (no Encode module needed on minimal images).
+  LINT_OUT=$(LINT_RE="$re" perl -CSD -ne '
+    BEGIN { $re = $ENV{LINT_RE}; utf8::decode($re); $re = qr/$re/; }
+    if (/$re/) { chomp; print "$ARGV:$.:$_\n"; }
+    close ARGV if eof;
+  ' "$@")
+  rc=$?
+  if [ $rc -ne 0 ]; then tool_error "$rule_id" "perl exited $rc"; fi
 }
 
 # check_heading_collision <rule_id> <files>
 # Flags `## Translit (Familiar)` lines where translit == familiar.
-# Uses perl rather than `grep -P \1` because BSD grep on macOS lacks PCRE.
 check_heading_collision() {
-  local rule_id="$1"
-  local files="$2"
-  local matches
+  local rule_id="$1" files="$2" matches rc
+  require_files "$rule_id" $files
   matches=$(perl -ne '
-    if (eof) { close ARGV; }
     # Match ## Translit (Familiar) [optional trailing text].
     # Catches both `## Henoch (Henoch)` and `## Lamech (Lamech) — kainitische Linie`.
     if (/^## (\S+) \((\S+)\)/ && $1 eq $2) {
       chomp;
       print "$ARGV:$.:$_\n";
     }
-  ' $files 2>/dev/null | filter_allowlist "$rule_id")
-  emit "$rule_id" "PEOPLE.md heading: transliteration equals familiar form" "$matches"
+    close ARGV if eof;
+  ' $files)
+  rc=$?
+  if [ $rc -ne 0 ]; then tool_error "$rule_id" "perl exited $rc"; fi
+  emit "$rule_id" "PEOPLE.md heading: transliteration equals familiar form" "$(printf '%s' "$matches" | filter_allowlist "$rule_id")"
 }
 
 echo "=== Content Lint ==="
@@ -143,19 +240,32 @@ echo ""
 # ============================================================
 
 # §0.1 — Stale ruleset version stamps (rules at v3.3 since 2026-05-08)
-check_pattern "0.1" "Stale ruleset version stamp (rules at v3.3)" \
+check_pattern "0.1" "Stale ruleset version stamp (older than v3.3; rules are at v3.4)" \
   "Ruleset v3\.0|Ruleset v3\.1|Ruleset v3\.2|Conjunto de Regras v3\.0|Conjunto de Regras v3\.1|Conjunto de Regras v3\.2|Reglas v3\.0|Reglas v3\.1|Reglas v3\.2|Regelwerk v3\.0|Regelwerk v3\.1|Regelwerk v3\.2|Ruleset version in force:\*\* v3\.0|Ruleset version in force:\*\* v3\.1|Ruleset version in force:\*\* v3\.2|\*\*Ruleset:\*\* v3\.0|\*\*Ruleset:\*\* v3\.1|\*\*Ruleset:\*\* v3\.2|\*\*Regelwerk:\*\* v3\.0|\*\*Regelwerk:\*\* v3\.1|\*\*Regelwerk:\*\* v3\.2|\*\*Conjunto de Regras:\*\* v3\.0|\*\*Conjunto de Regras:\*\* v3\.1|\*\*Conjunto de Regras:\*\* v3\.2|\*\*Reglas:\*\* v3\.0|\*\*Reglas:\*\* v3\.1|\*\*Reglas:\*\* v3\.2|\*\*Regras:\*\* v3\.0|\*\*Regras:\*\* v3\.1|\*\*Regras:\*\* v3\.2|\*\*Conjunto de reglas:\*\* v3\.0|\*\*Conjunto de reglas:\*\* v3\.1|\*\*Conjunto de reglas:\*\* v3\.2" \
-  "$CONTENT_DIRS $STUDY_DIRS $PEOPLE_FILES $EDITORIAL_LOGS"
+  "$CONTENT_DIRS $EDITORIAL_LOGS"
+
+# §0.1b — WARN-ONLY: v3.3 / v3.3.x stamps in content/ (rules are at v3.4). The re-stamp is
+# Launch-Program Step 4d; promote to blocking (fold into §0.1) once it lands. Editorial logs are
+# excluded: they legitimately keep historical v3.3 mentions. Summarised (count + files), not listed.
+# Before promoting: content also cites the amendment *versions* legitimately (e.g. Luke 3 "per the
+# v3.3.2 cross-book convention") — allow-list those; prose like "the TT ruleset (v3.3)" is genuinely stale.
+lint_grep "0.1b" "v3\.3(\.[0-9])?([^0-9]|$)" content
+if [ -n "$LINT_OUT" ]; then
+  n_lines=$(printf '%s\n' "$LINT_OUT" | wc -l | tr -d ' ')
+  n_files=$(printf '%s\n' "$LINT_OUT" | cut -d: -f1 | sort -u | wc -l | tr -d ' ')
+  emit_warn "0.1b" "Ruleset v3.3 stamps remain in content/ (re-stamp to v3.4 in Step 4d)" "  $n_lines line(s) in $n_files file(s) — e.g. $(printf '%s\n' "$LINT_OUT" | head -1 | cut -c1-120)"
+fi
 
 # §0.2 — Raw em-dash residue
 check_pattern "0.2" "Raw em-dash residue ' -- ' (use em-dash —)" \
   " -- " \
-  "$CONTENT_DIRS $STUDY_DIRS $PEOPLE_FILES"
+  "$CONTENT_DIRS"
 
-# §0.3 — ES NT diacritic loss
-check_pattern "0.3" "ES NT diacritic loss in front matter or body" \
-  "\bTraduccion\b|\bEdicion\b|\bEspanol\b|\bPolitica\b|\bSenor\b" \
-  "$ES_NT_DIRS"
+# §0.3 — ES diacritic loss in front matter / headings (ALL es books since Step 2; token list
+# widened with the remaining front-matter/heading words cleared in Step 2).
+check_pattern "0.3" "ES diacritic loss in front matter or headings" \
+  "\bTraduccion\b|\bEdicion\b|\bEspanol\b|\bPolitica\b|\bSenor(es)?\b|\bCompanero\b|\bCapitulos?\b|\bHistoricos?\b|\bAnalisis\b|\bRecepcion\b" \
+  "content/es"
 
 # §0.3b — ES diacritic/grammar regressions (ALL es books, incl. genesis — §0.3 only covers NT).
 # High-precision, zero-false-positive tokens cleared in the 2026-06-23 pivot-fidelity audit
@@ -173,9 +283,13 @@ check_pattern "0.3b" "ES diacritic/grammar regression (audit-cleared tokens)" \
 # target as a literal italic word it does not need. German substantivises adjectives ("der
 # Mächtige"), as do PT/ES ("o Poderoso"/"el Poderoso"), so an italic *Eine*/*Um*/*Uno* is an
 # EN-pivot artifact (Rule 11 marks words the *target* grammar needs, not English's crutches).
-check_pattern "0.3c" "EN-pivot grammatical-filler calque (italic One/Eine/Um/Uno)" \
-  "(^|[^*])\*(Eine[rnm]?|Eins|Uma?|Una?|Uno)\*([^*]|$)" \
-  "content/de content/pt-br content/es"
+# Step 2 precision: only after a capitalized word ("der Mächtige *Eine*", "o Poderoso *Um*"), so a
+# legitimate sentence-initial Rule-11 addition ("*Eine* Stimme") passes. perl -CSD (Unicode).
+# Implementation review R1: any word before the filler counts (also "der mächtige *Eine*"); a
+# sentence-initial addition ("*Eine* Stimme", „*Eine*) still passes.
+NON_EN_MD=$(find content/de content/pt-br content/es -name '*.md' | sort) || tool_error "0.3c" "find failed"
+lint_perl_re "0.3c" '(?<=\p{L}) \*(?:Eine[rnm]?|Eins|Uma?|Una?|Uno)\*(?!\*)' $NON_EN_MD
+emit "0.3c" "EN-pivot grammatical-filler calque (italic One/Eine/Um/Uno after a capitalized word)" "$(printf '%s' "$LINT_OUT" | filter_allowlist "0.3c")"
 
 # §0.3d — WARN-ONLY: lowercase pivot-calque class (adjective + italic indefinite filler), e.g.
 # "tu santo *uno*", "den heiligen und gerechten *einen*", "santo e justo *um*" (EN "the Holy *One*").
@@ -183,13 +297,13 @@ check_pattern "0.3c" "EN-pivot grammatical-filler calque (italic One/Eine/Um/Uno
 # editorial pass (Launch Program Step 3/4). Warn-only until that class is cleared (playbook T-14),
 # then promote to blocking.
 check_pattern_warn "0.3d" "EN-pivot calque: adjective + italic indefinite filler (lowercase)" \
-  "(santo|santa|justo|heilige[nrs]?|Heiligen|gerechte[nrs]?|Gerechten|poderoso|mächtige[nr]?) \*(uno|una|um|uma|ein|eine[nrms]?)\*([^*]|$)" \
+  "([Ss]anto|[Ss]anta|[Jj]usto|[Hh]eilige[nrs]?|[Gg]erechte[nrs]?|[Pp]oderoso|[Mm]ächtige[nr]?) \*(uno|una|um|uma|ein|eine[nrms]?)\*([^*]|$)" \
   "content/de content/pt-br content/es"
 
 # §0.4 — ES NT missing Reina-Valera declaration
 es_nt_missing_rv=""
 for f in $ES_NT_CHAPTER_FILES; do
-  if [ -f "$f" ] && ! head -25 "$f" | grep -q "Reina-Valera"; then
+  if ! head -25 "$f" | grep -q "Reina-Valera"; then
     es_nt_missing_rv="${es_nt_missing_rv}${f}: missing Reina-Valera declaration in front matter
 "
   fi
@@ -201,22 +315,26 @@ check_pattern "0.5" "PT-BR 'unigênito' — pending Phase 4 alignment with EN/DE
   "unigênito|unigenito" \
   "$PTBR_JOHN_FILES"
 
-# §0.6 — John PEOPLE.md presence per locale — ACTIVATED 2026-05-14 (Phase 10 closure).
-# Fails if any locale's content/<loc>/john/ directory exists without a PEOPLE.md file.
-for loc in en pt-br de es; do
-  if [ -d "content/$loc/john" ] && [ ! -f "content/$loc/john/PEOPLE.md" ]; then
-    echo "FAIL §0.6 — John PEOPLE.md must exist in every locale: missing content/$loc/john/PEOPLE.md"
-    ERRORS=$((ERRORS + 1))
-  fi
+# §0.6 — PEOPLE.md presence per book × locale (generalized from John in Step 2).
+# Fails if a book directory exists in a locale without a PEOPLE.md file.
+missing_people=""
+for loc in $LOCALES; do
+  for b in $BOOKS; do
+    if [ -d "content/$loc/$b" ] && [ ! -f "content/$loc/$b/PEOPLE.md" ]; then
+      missing_people="${missing_people}content/$loc/$b/PEOPLE.md: missing
+"
+    fi
+  done
 done
+emit "0.6" "Book directory without PEOPLE.md (every book needs one per locale)" "$missing_people"
 
 # §0.7a — PEOPLE.md "TT" leftover heading
-check_pattern "0.7" "PEOPLE.md leftover 'Transparent Translation' H2 (Phase 1A removes it)" \
+check_pattern "0.7a" "PEOPLE.md leftover 'Transparent Translation' H2 (Phase 1A removes it)" \
   "^## The Transparent Translation" \
   "$PEOPLE_FILES"
 
 # §0.7b — PEOPLE.md leftover dead H1
-check_pattern "0.7" "PEOPLE.md leftover dead H1 (Phase 1A removes it)" \
+check_pattern "0.7b" "PEOPLE.md leftover dead H1 (Phase 1A removes it)" \
   "^# .*(People|Pessoas|Personen|Personas)" \
   "$PEOPLE_FILES"
 
@@ -241,9 +359,10 @@ check_pattern_warn "0.10" "Modern-mapping smell-test in PEOPLE.md + CONTEXT.md (
 # Scope is /content/de/ chapter files only — not study/, not GLOSSAR or
 # KAPITELÜBERGREIFENDE tables (those have different semantics; see plan).
 # Warn-only: etymological asides in notes may legitimately repeat names.
-check_pattern_warn "0.11" "DE chapter redundant-parens regression — see genesis.md Entry 2026-05-18-107 + RULES-HB.md v3.3.1 amendment" \
-  "([A-ZÄÖÜ][a-zäöüß']+) \(\1\)" \
-  "content/de/genesis/CHAPTER-*.md content/de/john/CHAPTER-*.md content/de/matthew/CHAPTER-*.md content/de/mark/CHAPTER-*.md content/de/luke/CHAPTER-*.md content/de/acts/CHAPTER-*.md content/de/1-peter/CHAPTER-*.md"
+# Step 2: perl -CSD (BSD grep missed umlaut-initial names like "Ägypten (Ägypten)"); keeps the
+# apostrophe so "Ya'aqov (Ya'aqov)" is still caught (\x27). Files generated (all DE chapters).
+lint_perl_re "0.11" '(\p{Lu}[\p{Ll}\x27]+) \(\1\)' $DE_CHAPTER_FILES
+emit_warn "0.11" "DE chapter redundant-parens regression — see genesis.md Entry 2026-05-18-107 + RULES-HB.md v3.3.1 amendment" "$(printf '%s' "$LINT_OUT" | filter_allowlist "0.11")"
 
 # §0.12 — Cross-book PEOPLE.md pointer validity (warn-only)
 # Added 2026-05-18 alongside Phase 13 cross-book PEOPLE formalization (v3.3.2 amendment).
@@ -253,26 +372,28 @@ check_pattern_warn "0.11" "DE chapter redundant-parens regression — see genesi
 # `**See:** geneis/PEOPLE.md` that would otherwise pass silently via the
 # CrossBookSeeField graceful-dangling-pointer UI fallback.
 # Warn-only: legitimate new forward references should not break the build.
-# To add a new allowed slug, update both this allow-list AND the proper-name
-# entries per the 5-change new-book activation checklist in RULES-CORE.md.
+# The allow-list is generated: every authored book + FORWARD_SLUGS (top of file).
+# A not-yet-authored target goes into FORWARD_SLUGS (and the RULES-CORE table).
 check_cross_book_pointers() {
   local rule_id="0.12"
-  local matches
-  matches=$(perl -ne '
-    if (eof) { close ARGV; }
+  local matches rc
+  require_files "$rule_id" $PEOPLE_FILES
+  matches=$(SEE_SLUGS="$(echo $BOOKS $FORWARD_SLUGS)" perl -ne '
     # Match: **See:** slug/PEOPLE.md  (or Ver: / Siehe:)
     if (/^\*\*(?:See|Ver|Siehe):\*\*\s+([a-z0-9][a-z0-9-]*)\/PEOPLE\.md/i) {
       my $slug = lc($1);
-      my %allowed = (
-        genesis => 1, matthew => 1, mark => 1, luke => 1, john => 1,
-        acts => 1, exodus => 1, kings => 1, isaiah => 1, '1-peter' => 1,
-      );
+      # Generated (Step 2): every book dir + FORWARD_SLUGS (see top of file).
+      my %allowed = map { $_ => 1 } split / /, $ENV{SEE_SLUGS};
       unless ($allowed{$slug}) {
         chomp;
         print "$ARGV:$.:$_  [slug not in allow-list: $slug]\n";
       }
     }
-  ' content/*/genesis/PEOPLE.md content/*/john/PEOPLE.md content/*/matthew/PEOPLE.md content/*/mark/PEOPLE.md content/*/luke/PEOPLE.md content/*/acts/PEOPLE.md content/*/1-peter/PEOPLE.md 2>/dev/null | filter_allowlist "$rule_id")
+    close ARGV if eof;
+  ' $PEOPLE_FILES)
+  rc=$?
+  if [ $rc -ne 0 ]; then tool_error "$rule_id" "perl exited $rc"; fi
+  matches=$(printf '%s' "$matches" | filter_allowlist "$rule_id")
   emit_warn "$rule_id" "Cross-book PEOPLE.md pointer slug not in allow-list — see RULES-CORE.md Rule 29 §People and Genealogy Files v3.3.2 allow-list" "$matches"
 }
 check_cross_book_pointers
@@ -287,8 +408,10 @@ check_cross_book_pointers
 check_source_persona_leak() {
   local rule_id="0.13"
   local matches name_hits persona_hits
-  name_hits=$(grep -rnE "\bElan\b" content/ src/ 2>/dev/null)
-  persona_hits=$(grep -rinE "thank you for watching|stay with me|my channel|native hebrew speaker|notification bell|see you next time|hit the subscribe" content/ src/ 2>/dev/null)
+  lint_grep "$rule_id" "\bElan\b" content/ src/
+  name_hits="$LINT_OUT"
+  persona_hits=$(grep -rinE "thank you for watching|stay with me|my channel|native hebrew speaker|notification bell|see you next time|hit the subscribe" content/ src/)
+  [ $? -gt 1 ] && tool_error "$rule_id" "grep (persona) failed"
   matches=$(printf '%s\n%s\n' "$name_hits" "$persona_hits" | grep -v '^[[:space:]]*$' | filter_allowlist "$rule_id")
   emit_warn "$rule_id" "Source-analysis contributor name or video persona prose in user-facing content/ or src/ — keep it internal (docs/source-analysis/ only); see docs/source-analysis/README.md" "$matches"
 }
@@ -303,12 +426,17 @@ check_source_persona_leak
 # stray-asterisk bug the hardening fixed.
 check_unbalanced_bold() {
   local rule_id="0.14"
-  local matches
+  local matches rc ALL_MD
+  ALL_MD=$(find content -name '*.md' | sort) || tool_error "$rule_id" "find failed"
+  [ -n "$ALL_MD" ] || { tool_error "$rule_id" "no content files"; return; }
   matches=$(perl -ne '
-    if (eof) { close ARGV; }
     my $c = () = /\*\*/g;
     if ($c % 2 == 1) { chomp; print "$ARGV:$.:$_\n"; }
-  ' $(find content -name '*.md' | sort) 2>/dev/null | filter_allowlist "$rule_id")
+    close ARGV if eof;
+  ' $ALL_MD)
+  rc=$?
+  if [ $rc -ne 0 ]; then tool_error "$rule_id" "perl exited $rc"; fi
+  matches=$(printf '%s' "$matches" | filter_allowlist "$rule_id")
   emit "$rule_id" "Unbalanced ** on a line (bold renders with literal asterisks; nested **a *b*** is fine)" "$matches"
 }
 check_unbalanced_bold
@@ -317,43 +445,49 @@ check_unbalanced_bold
 # Legacy rules (pre-Phase 0)
 # ============================================================
 
-check_pattern "legacy" "EXPLICIT-family labels" \
+check_pattern "legacy-explicit" "EXPLICIT-family labels" \
   "EXPLICIT|EXPLIZIT|EXPLÍCITO|EXPLICITO" \
   "$STUDY_DIRS"
 
-check_pattern "legacy" "Stale 'for awareness' labels" \
+check_pattern "legacy-awareness" "Stale 'for awareness' labels" \
   "for awareness|para información|para consciência" \
   "$STUDY_DIRS"
 
-check_pattern "legacy" "Vosotros forms" \
-  "vosotros|vuestr" \
+check_pattern "legacy-vosotros" "Vosotros forms (case-insensitive since Step 2)" \
+  "[Vv][Oo][Ss][Oo][Tt][Rr][Oo][Ss]|[Vv][Uu][Ee][Ss][Tt][Rr]" \
   "$CONTENT_DIRS"
 
-check_pattern "legacy" "Trilingual residue" \
+check_pattern "legacy-trilingual" "Trilingual residue" \
   "all three target|three target lang|tres idiomas|três idiomas|drei Zielsprachen" \
   "$STUDY_DIRS"
 
-check_pattern "legacy" "ES diacritics errors (legacy joined-article patterns)" \
+check_pattern "legacy-es-joined" "ES diacritics errors (legacy joined-article patterns)" \
   "enél|debajó|formás|mismás|\babajó\b" \
-  "content/es/genesis content/es/john content/es/matthew"
+  "content/es"
 
-check_pattern "legacy" "Stale ruleset version (v2.x) in companion front matter" \
+check_pattern "legacy-v2" "Stale ruleset version (v2.x) in companion front matter" \
   "\*\*Regelwerk:\*\* v2\.|Rules:\*\* v2\.|Reglas:\*\* v2\.|Regras:\*\* v2\." \
   "$STUDY_DIRS"
 
-check_pattern "legacy" "Malformed section header (underscore after letter)" \
+check_pattern "legacy-header" "Malformed section header (underscore after letter)" \
   "^## [A-Z]_" \
   "$STUDY_DIRS"
 
 # F9-class rendering bugs in UI source
-ui_f9=$(grep -rEn '>\{entry\.(claimType|confidence)\}<' src/ui/ 2>/dev/null)
-emit "legacy" "Raw enum values reach rendering layer (F9-class)" "$ui_f9"
+lint_grep "legacy-f9" '>\{entry\.(claimType|confidence)\}<' src/ui/
+ui_f9="$LINT_OUT"
+emit "legacy-f9" "Raw enum values reach rendering layer (F9-class)" "$ui_f9"
 
 # ============================================================
 # Summary
 # ============================================================
 
 echo ""
+if [ $TOOL_ERRORS -gt 0 ]; then
+  echo "($TOOL_ERRORS tool error(s): a check could not run — see the [TOOL ERROR] lines above.)"
+  # A broken check is never "just a warning" — fail even in --warn-only mode.
+  if [ "$WARN_ONLY" = true ]; then echo "Content lint: tool error(s) — exiting 2."; exit 2; fi
+fi
 if [ "$WARN_ONLY" = false ] && [ $ERRORS -gt 0 ]; then
   echo "Content lint FAILED: $ERRORS rule(s) flagged."
   if [ $WARNINGS -gt 0 ]; then

@@ -558,7 +558,7 @@ Y Dios vio todo lo que había hecho, y he aquí, *era* muy bueno. Y fue tarde, y
 
 ---
 
-## SEGUIMIENTO DE FORMULAS
+## SEGUIMIENTO DE FÓRMULAS
 
 **Formulas Fijas (Ocurrencias Multiples):**
 - "Y Dios dijo..." (10x)
@@ -574,7 +574,7 @@ Y Dios vio todo lo que había hecho, y he aquí, *era* muy bueno. Y fue tarde, y
 
 ---
 
-## PATRONES DE DUPLICACION DE RAIZ
+## PATRONES DE DUPLICACIÓN DE RAÍZ
 
 Recurso poético hebreo que muestra generación interna:
 - v.11-12: "semillando semilla" (**מַזְרִיעַ זֶרַע**), "haciendo fruto" (**עֹשֶׂה פְרִי**)
@@ -586,7 +586,7 @@ Recurso poético hebreo que muestra generación interna:
 
 ---
 
-## CAMBIOS DE VERBO - CREO vs. HIZO
+## CAMBIOS DE VERBO - CREÓ vs. HIZO
 
 | Versículo | Acción | Verbo | Hebreo |
 |-----------|--------|-------|--------|

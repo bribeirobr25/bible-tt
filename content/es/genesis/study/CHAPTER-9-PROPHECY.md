@@ -1,4 +1,4 @@
-# Genesis 9 — Seguimiento de Profecías
+# Génesis 9 — Seguimiento de Profecías
 ## The Transparent Translation (TT)
 
 ---

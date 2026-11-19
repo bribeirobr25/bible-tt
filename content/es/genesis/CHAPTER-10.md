@@ -1,4 +1,4 @@
-# GENESIS 10
+# GÉNESIS 10
 ## La Traducción Transparente (TT)
 ### Edición Transparente - Español
 

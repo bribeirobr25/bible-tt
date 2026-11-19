@@ -1,4 +1,4 @@
-# GENESIS 2
+# GÉNESIS 2
 ## La Traducción Transparente (TT)
 ### Edición Transparente - Español
 
@@ -25,7 +25,7 @@
 
 ---
 
-## GUIA DE LECTURA
+## GUÍA DE LECTURA
 
 **Texto Principal:** Traducción primaria — legible pero fiel a la estructura hebrea. **Notas:** Rasgos hebreos esenciales justo debajo de cada versículo.
 
@@ -423,7 +423,7 @@ Y estaban ambos desnudos, el humano y su mujer, y no se avergonzaban.
 
 ---
 
-## GLOSARIO - GENESIS 2 (adiciones al glosario de Gen 1)
+## GLOSARIO - GÉNESIS 2 (adiciones al glosario de Gen 1)
 
 | Hebreo | Español | Notas |
 |--------|---------|-------|
@@ -446,7 +446,7 @@ Y estaban ambos desnudos, el humano y su mujer, y no se avergonzaban.
 
 ---
 
-## SEGUIMIENTO ENTRE CAPITULOS (Gen 1 - Gen 2)
+## SEGUIMIENTO ENTRE CAPÍTULOS (Gen 1 - Gen 2)
 
 **Cambio de verbo de creación:**
 - Gen 1: *bara* (1:1, 1:21, 1:27), *asah* (1:7, 1:16, 1:25)

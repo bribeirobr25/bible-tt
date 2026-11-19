@@ -410,12 +410,17 @@ describe("Phase 4 — chapter completeness guard", () => {
     ).toEqual([]);
   });
 
-  it("no enrichment/introduction file has an unrecognized claim-type or confidence label", async () => {
+  it("no labelled file has an unrecognized claim-type or confidence label", async () => {
     // parseClaimType / parseConfidence each warn + fall back on an unknown label
     // (e.g. a localized variant the parser doesn't know). Fail if any warn — the
     // two label dimensions are checked symmetrically so neither can drift.
+    // Step 2: extended from enrichment/introduction to prophecy readings, book
+    // CONTEXT motifs and PEOPLE (curiosities/regions — 0 curiosity labels exist
+    // today, so that part is future-only; see the companion assertion below).
     const warn = vi.spyOn(console, "warn").mockImplementation(() => {});
     const allMd = await walk(CONTENT_ROOT);
+    let prophecyReadings = 0;
+    let curiosityLabels = 0;
     for (const absPath of allMd) {
       const file = classify(absPath);
       if (!file) continue;
@@ -424,8 +429,23 @@ describe("Phase 4 — chapter completeness guard", () => {
         parseEnrichmentMarkdown(raw, file.book, file.chapter as number);
       } else if (file.fileKind === "introduction") {
         parseIntroductionMarkdown(raw, file.book);
+      } else if (file.fileKind === "prophecy") {
+        const p = parseProphecyMarkdown(raw, file.book, file.chapter as number);
+        for (const e of p.entries) prophecyReadings += e.readings.length;
+      } else if (file.fileKind === "book-context") {
+        parseBookContextMarkdown(raw, file.book, file.locale);
+      } else if (file.fileKind === "people") {
+        const ppl = parsePeopleMarkdown(raw, file.book);
+        for (const e of ppl.entries)
+          curiosityLabels += e.curiosities?.length ?? 0;
       }
     }
+    // The prophecy extension must actually exercise labels (not vacuous).
+    expect(prophecyReadings).toBeGreaterThan(0);
+    // People curiosities carry no labels today: the guard covers them only once
+    // authored. If this starts failing, curiosities exist — keep the guard and
+    // delete this pin.
+    expect(curiosityLabels).toBe(0);
     const messages = warn.mock.calls.map((c) => String(c[0]));
     const unrecognizedClaim = messages.filter((m) =>
       m.includes("Unrecognized claim type label"),

@@ -227,7 +227,9 @@ export default async function PeoplePage({
                     <strong>{t("people.note")}.</strong>{" "}
                     <span
                       dangerouslySetInnerHTML={{
-                        __html: renderInlineSafe(g.note),
+                        // "note" subset keeps the bullet lines of a
+                        // multi-line genealogy note (e.g. Luke 3 divergence).
+                        __html: renderMarkdownSafe(g.note, "note"),
                       }}
                     />
                   </p>

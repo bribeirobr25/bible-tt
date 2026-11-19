@@ -47,6 +47,11 @@ describe("Introduction Parser", () => {
         expect(entry.claimType).toBeDefined();
         expect(entry.confidence).toBeDefined();
       }
+      // The values above are always defined (the parser falls back), so the
+      // real assertion is that no label fell back to the default.
+      expect(
+        spy.mock.calls.filter((c) => String(c[0]).includes("Unrecognized")),
+      ).toEqual([]);
       spy.mockRestore();
     });
 

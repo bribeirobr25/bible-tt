@@ -1,7 +1,7 @@
 import { existsSync, readFileSync } from "node:fs";
 import path from "node:path";
 import { describe, expect, it } from "vitest";
-import { AVAILABLE_BOOKS } from "@/domain/books/registry";
+import { AVAILABLE_BOOKS, PILOT_BOOKS } from "@/domain/books/registry";
 import { locales } from "@/infrastructure/i18n/config";
 
 /**
@@ -105,12 +105,66 @@ describe("Phase 0 — activation consistency", () => {
     }
   });
 
-  it("every activated book is covered by content-lint (CONTENT_DIRS)", () => {
-    for (const book of active) {
+  it("content-lint generates its book lists from content/ (no per-book hardcoding)", () => {
+    // Step 2: lists are derived from content/en/*/ so a new book is linted with
+    // no script edit. Guard the generator itself (a refactor back to hardcoded
+    // lists would silently stop linting new books).
+    expect(contentLintSrc).toMatch(/for d in content\/en\/\*\/; do/);
+    expect(contentLintSrc).toMatch(/CONTENT_DIRS="\$CONTENT_DIRS \$d"/);
+    expect(contentLintSrc).not.toMatch(/CONTENT_DIRS="content\//);
+  });
+
+  it("content-lint HB_BOOKS equals the app's HEBREW_BIBLE set", () => {
+    const m = contentLintSrc.match(/^HB_BOOKS="([^"]*)"/m);
+    expect(
+      m,
+      "HB_BOOKS definition not found in content-lint.sh",
+    ).not.toBeNull();
+    const hb = (m?.[1] ?? "").split(/\s+/).filter(Boolean).sort();
+    expect(hb).toEqual([...HEBREW_HUB].sort());
+  });
+
+  // ── Step 2 (PLAN_SAFETY_NET.md WS4.3): the remaining activation touchpoints ──
+
+  it("people page bookLabels has every activated book (cross-book link labels)", () => {
+    const src = read("src/app/[locale]/[book]/people/page.tsx");
+    const m = src.match(/bookLabels[^=]*=\s*\{([\s\S]*?)\};/);
+    expect(m, "bookLabels map not found").not.toBeNull();
+    const keys = [...(m?.[1] ?? "").matchAll(/^\s*"?([a-z0-9-]+)"?\s*:/gm)].map(
+      (x) => x[1],
+    );
+    for (const book of active)
+      expect(keys, `bookLabels missing "${book}"`).toContain(book);
+  });
+
+  it("RULES-CORE see-target allow-list lists every activated book", () => {
+    const rules = read("docs/rules/RULES-CORE.md");
+    for (const book of active)
+      expect(rules, `RULES-CORE allow-list missing \`${book}\``).toMatch(
+        new RegExp(`^\\| \`${book.replace(/-/g, "\\-")}\` \\|`, "m"),
+      );
+  });
+
+  it("every activated book has an editorial log", () => {
+    for (const book of active)
       expect(
-        contentLintSrc.includes(`content/en/${book}`),
-        `content-lint.sh does not reference content/en/${book} — new book would be silently unlinted`,
+        existsSync(path.join(ROOT, "docs", "editorial-log", `${book}.md`)),
+        `docs/editorial-log/${book}.md missing`,
       ).toBe(true);
+  });
+
+  it("every activated, non-pilot book exists in every locale", () => {
+    for (const book of active) {
+      if ((PILOT_BOOKS as readonly string[]).includes(book)) continue;
+      for (const locale of locales)
+        expect(
+          existsSync(path.join(ROOT, "content", locale, book, "CHAPTER-1.md")),
+          `content/${locale}/${book}/CHAPTER-1.md missing (or add "${book}" to PILOT_BOOKS)`,
+        ).toBe(true);
     }
+  });
+
+  it("PILOT_BOOKS only lists activated books", () => {
+    for (const book of PILOT_BOOKS) expect(active).toContain(book);
   });
 });

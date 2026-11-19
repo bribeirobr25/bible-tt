@@ -85,9 +85,9 @@ Juan 3:5: ean me tis gennethe ex hydatos kai pneumatos (*ean me tis gennethe ex 
 
 ---
 
-## D. Inmersiones linguisticas y filologicas
+## D. Inmersiones lingüísticas y filológicas
 
-### D1. *Anothen* — el rango semántico a traves del Cuarto Evangelio
+### D1. *Anothen* — el rango semántico a través del Cuarto Evangelio
 **[TEXTUAL — VERIFICADO]**
 
 El adverbio anothen (*anothen*) aparece cinco veces en el Cuarto Evangelio: 3:3, 3:7, 3:31, 19:11 y 19:23. Fuera del capítulo 3, cada ocurrencia significa "de arriba": 3:31 — ho anothen erchomenos ("el que viene de arriba") se contrasta con ho on ek tes ges ("el que es de la tierra"); 19:11 — edothe soi anothen ("dado a ti de arriba"), refiriendose a autoridad de Dios; 19:23 — ek ton anothen hyphantos ("tejida de arriba"), describiendo la tunica sin costura. El patron joanico favorece fuertemente el significado espacial "de arriba." La interpretación de Nicodemo como "de nuevo" (temporal) representa así un malentendido — el tipo de malentendido en dos niveles que recurre en el Cuarto Evangelio (cf. 2:19-21, templo/cuerpo; 4:10-15, agua viva; 6:51-52, carne como alimento; 11:11-14, sueno/muerte). En cada caso, el interlocutor capta el significado mundano mientras Jesús quiere decir el elevado. La funcion literaria es pedagogica: el malentendido provoca una explicación adicional que profundiza la comprensión del lector.
@@ -99,7 +99,7 @@ Juan 3:17-19 despliega el verbo krino (*krino*, "juzgar") y el sustantivo krisis
 
 ---
 
-## F. Recepcion posterior
+## F. Recepción posterior
 
 ### F1. Juan 3:16 en el evangelismo protestante
 **[RECEPCIÓN POSTERIOR — DOCUMENTADO]**

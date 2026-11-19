@@ -589,7 +589,7 @@ El que confia en el hijo tiene vida de la era; pero el que desobedece al Hijo no
 
 ---
 
-## SEGUIMIENTO ENTRE CAPITULOS (Génesis -> Juan)
+## SEGUIMIENTO ENTRE CAPÍTULOS (Génesis -> Juan)
 
 **Gen 1:2 -> Juan 3:5-8 — Viento/espíritu (*ruach* / *pneuma*) y agua:**
 

@@ -15,7 +15,7 @@
 
 ---
 
-## A. Caracteristicas del Texto Hebreo Expuestas por la TT
+## A. Características del Texto Hebreo Expuestas por la TT
 
 ### A1. Juego de palabras Caín/qanah — nombre como narrativa
 **[TEXTUAL — VERIFICADO]**
@@ -63,22 +63,22 @@ Genesis 4:10: *demei* (דְּמֵי) es plural constructo — "sangres," no "san
 
 Genesis 4:13: עָוֹן (*avon*) significa tanto "culpa/pecado" como "castigo/consecuencia." El clamor de Caín es genuinamente ambiguo: "Mi pecado es demasiado grande para soportar" O "Mi castigo es demasiado grande para soportar." La TT preserva ambos mediante barra.
 
-### A9. Este como exilio — el patron continua
+### A9. Este como exilio — el patrón continua
 **[TEXTUAL — VERIFICADO]**
 
 3:24: querubines al este de Eden. 4:16: Caín habita al este de Eden en la tierra de Nod (*nod* = errancia). El patron de movimiento hacia el este = desplazamiento de la presencia divina.
 
-### A10. Adan se convierte en nombre propio en 4:25
+### A10. Adán se convierte en nombre propio en 4:25
 **[TEXTUAL — VERIFICADO]**
 
 Genesis 4:25: primer *adam* sin articulo en contexto genealogico/de nombramiento. La TT cambia de "el humano" a "Adan" aqui, senalado con nota 🔴 CRITICO. Esta es la decision del diario editorial (entrada 081).
 
-### A11. "Otra simiente" — la linea de la mujer continua
+### A11. "Otra simiente" — la línea de la mujer continua
 **[TEXTUAL — VERIFICADO]**
 
 Genesis 4:25: *zera ajer* ("otra simiente") — Eva recibe a Set como reemplazo de Abel. Continua el hilo de "su simiente" desde 3:15 y 3:20. La linea de la mujer persiste a traves de la violencia y la perdida.
 
-### A12. Primera invocacion de YHWH por nombre
+### A12. Primera invocación de YHWH por nombre
 **[TEXTUAL — VERIFICADO]**
 
 Genesis 4:26: "Entonces se comenzo a invocar el nombre de YHWH." Construccion pasiva (*hujal*) — quien comenzo no se especifica. La linea de Set se asocia con la adoracion formal de YHWH; la linea de Caín no.
@@ -96,23 +96,23 @@ El poema sumerio "Inanna Prefiere al Agricultor" (preservado en ETCSL, Oxford) p
 
 **Fuente:** Kramer, S.N., *Sumerian Mythology*, 1944 (rev. 1961); ETCSL, Oxford.
 
-### B2. Genealogia cainita y origenes de la civilizacion en el Antiguo Cercano Oriente (ACO)
+### B2. Genealogía cainita y orígenes de la civilización en el Antiguo Cercano Oriente (ACO)
 **[PARALELO COMPARATIVO — VERIFICADO]**
 
 Genesis 4:17-22 atribuye los fundamentos de la civilizacion a la linea de Caín: pastoralismo (Yaval), musica (Yuval), metalurgia (Tuval-Caín). En la tradicion mesopotamica, estos avances se atribuian a seres divinos — los *apkallu* (siete sabios enviados por los dioses). Genesis es distintivo: las innovaciones culturales provienen de humanos ordinarios y maldecidos, no de agentes divinos.
 
 **Fuente:** Clifford, R.J., *Creation Accounts in the ANE and Bible*, 1994.
 
-### B3. Venganza de sangre y la "senal de Cain"
+### B3. Venganza de sangre y la "señal de Caín"
 **[PARALELO COMPARATIVO — PROBABLE]**
 
 Las culturas del ACO practicaban la venganza de sangre (*go'el ha-dam* — pariente redentor obligado a vengar el asesinato). La proteccion divina septuple para Caín (4:15) establece una disuasion que excede la proporcionalidad normal de la venganza. El *ot* (senal) funciona como proteccion divina anti-venganza. Que era fisicamente la senal es INCIERTO — las propuestas incluyen marca tribal, resplandor divino o senal de advertencia visible para otros.
 
 ---
 
-## C. Contexto Historico y Arqueologico
+## C. Contexto Histórico y Arqueológico
 
-### C1. Tension pastoral vs. agricola en el Levante neolitico
+### C1. Tensión pastoral vs. agrícola en el Levante neolitico
 **[HISTÓRICO / ARQUEOLÓGICO — VERIFICADO]**
 
 La Revolucion Neolitica en el Levante (c. 12.000-8.000 a.e.c.) produjo exactamente la coexistencia pastoral-agricola reflejada en Gn 4. La evidencia arqueologica de sitios del Neolitico Pre-Ceramico muestra agricultores sedentarios coexistiendo con pastores moviles. La tension agricultor-pastor no es ficcion literaria — refleja dinamicas economicas y sociales reales del antiguo Cercano Oriente.
@@ -121,9 +121,9 @@ La Revolucion Neolitica en el Levante (c. 12.000-8.000 a.e.c.) produjo exactamen
 
 ---
 
-## D. Inmersiones Linguisticas y Filologicas
+## D. Inmersiones Lingüísticas y Filológicas
 
-### D1. Caín — tres capas etimologicas
+### D1. Caín — tres capas etimológicas
 **[TEXTUAL / PARALELO COMPARATIVO — VERIFICADO]**
 
 1. **Etimologia biblica:** *qanah* (adquirir) — juego de palabras explicito de Eva en 4:1
@@ -134,7 +134,7 @@ Las tres capas pueden estar activas en el texto simultaneamente.
 
 **Fuente:** Alter, R., *Genesis*, 1996; Abarim Publications, analisis etimologico.
 
-### D2. Canto de Lamec — poesia hebrea arcaica
+### D2. Canto de Lamec — poesía hebrea arcaica
 **[TEXTUAL — VERIFICADO]**
 
 Genesis 4:23-24 es ampliamente reconocido como uno de los poemas hebreos más antiguos de la Biblia. Caracteristicas: paralelismo sinonimico (oigan/presten oido; voz/discurso; hombre/nino; herida/golpe), diccion poetica distintiva, posible aliteracion en el hebreo. Dos lecturas: (1) jactancia de violencia desproporcionada; (2) reclamo de defensa propia. De cualquier modo, la violencia escala desde el asesinato unico de Caín hasta la jactancia militarista de Lamec.
@@ -150,23 +150,23 @@ Génesis 4 presenta el primer asesinato como surgido de la rivalidad entre herma
 
 ---
 
-## F. Recepcion Posterior en Otras Tradiciones
+## F. Recepción Posterior en Otras Tradiciones
 
-### F1. Recepcion judia
+### F1. Recepción judía
 **[RECEPCIÓN POSTERIOR — DOCUMENTADO]**
 
 - **Bereshit Rabbah:** discusion extensa de por que YHWH rechazo la ofrenda de Caín (¿calidad? ¿actitud? ¿momento?)
 - **Pirke de-Rabbi Eliezer:** despues del asesinato, un cuervo enseno a Caín como enterrar el cuerpo de su hermano
 - **"Sangres" plural** (4:10): la tradicion rabinica lee esto como la sangre de Abel más la sangre de todos sus descendientes potenciales
 
-### F2. Recepcion cristiana
+### F2. Recepción cristiana
 **[RECEPCIÓN POSTERIOR — DOCUMENTADO]**
 
 - **Hebreos 11:4:** "Por la fe Abel ofrecio un mejor sacrificio que Cain" — el NT atribuye la diferencia a la fe
 - **1 Juan 3:12:** "No sean como Cain, que era del maligno" — identifica a Cain con Satan (no en el texto hebreo)
 - La "marca de Cain" ha sido tragicamente usada en la historia para justificar la opresion racial — una lectura sin base en el texto hebreo
 
-### F3. Recepcion islamica
+### F3. Recepción islámica
 **[RECEPCIÓN POSTERIOR — DOCUMENTADO]**
 
 Coran, Sura 5:27-32: Habil y Qabil. Caracteristicas distintivas: Abel se niega a pelear ("No extendera mi mano para matarte"); un cuervo ensena a Cain el entierro; Sura 5:32 extrae la moral universal: "Quien mata a un alma... es como si matara a toda la humanidad."
@@ -184,7 +184,7 @@ El relato de Génesis 4 sobre Caín matando a Abel es notoriamente lacónico —
 
 ## G. Curiosidades y Preguntas Abiertas
 
-### G1. ¿De donde vino la mujer de Cain?
+### G1. ¿De donde vino la mujer de Caín?
 **[TEXTUAL — INFERENCIA POSIBLE]**
 
 Genesis 4:17: "Caín conocio a su mujer" — pero no se declara el origen de la mujer. Gn 5:4 senala que Adan "engendro hijos e hijas." El texto asume una poblacion humana más amplia sin narrar su origen. Esto es una laguna narrativa, no una contradiccion — el texto es selectivo en lo que narra.

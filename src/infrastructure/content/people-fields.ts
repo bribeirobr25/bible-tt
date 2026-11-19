@@ -68,7 +68,13 @@ const EXACT_LABEL_ALIASES: Record<FieldId, string[]> = {
     "geburtsjahr",
     "año de nacimiento",
   ],
-  deathYear: ["death year", "ano de morte", "todesjahr", "año de muerte"],
+  deathYear: [
+    "death year",
+    "ano de morte",
+    "todesjahr",
+    "sterbejahr",
+    "año de muerte",
+  ],
   lifespan: ["lifespan", "tempo de vida", "lebensdauer", "tiempo de vida"],
   ageAtFatherhood: [
     "age when became father",
@@ -94,6 +100,8 @@ const EXACT_LABEL_ALIASES: Record<FieldId, string[]> = {
     "ehepartner",
     "cónyuge(s)",
     "cónyuge",
+    "esposo/a(s)",
+    "esposo(s)",
   ],
   children: ["children", "filhos", "kinder", "hijos"],
   siblings: ["siblings", "irmãos", "geschwister", "hermanos"],
@@ -111,14 +119,23 @@ const EXACT_LABEL_ALIASES: Record<FieldId, string[]> = {
     "ubicación(es)",
     "ubicación",
     "ubicaciones",
+    "ort",
   ],
   firstMention: [
     "first mention",
     "primeira menção",
     "erste erwähnung",
+    "erstnennung",
     "primera mención",
   ],
-  mentionedIn: ["mentioned in", "mencionado em", "erwähnt in", "mencionado en"],
+  mentionedIn: [
+    "mentioned in",
+    "mencionado em",
+    "mencionada em",
+    "erwähnt in",
+    "mencionado en",
+    "mencionada en",
+  ],
   keyEvents: [
     "key events",
     "eventos-chave",
@@ -154,6 +171,8 @@ const EXACT_LABEL_ALIASES: Record<FieldId, string[]> = {
     "orte, an denen er lebte",
     "orte, an denen sie lebte",
     "lebensorte",
+    "orte wo er lebte",
+    "orte wo sie lebte",
     "lugares donde vivió",
     "lugares vividos",
   ],
@@ -213,6 +232,7 @@ const EXACT_LABEL_ALIASES: Record<FieldId, string[]> = {
     "in acts",
     "em atos",
     "in apostelgeschichte",
+    "in der apostelgeschichte",
     "en hechos",
     "in 1 peter",
     "em 1 pedro",
@@ -223,6 +243,7 @@ const EXACT_LABEL_ALIASES: Record<FieldId, string[]> = {
     "historicity status",
     "status de historicidade",
     "historischer status",
+    "status der historizität",
     "estado de historicidad",
   ],
   booksAppearingIn: [
@@ -230,7 +251,11 @@ const EXACT_LABEL_ALIASES: Record<FieldId, string[]> = {
     "livros em que aparece",
     "bücher, in denen er vorkommt",
     "bücher, in denen sie vorkommt",
+    "bücher",
+    "bücher in denen er vorkommt",
+    "bücher in denen sie vorkommt",
     "libros en que aparece",
+    "libros en los que aparece",
   ],
   keySpeeches: [
     "key speeches",
@@ -310,15 +335,61 @@ const FALLBACK_PATTERNS: Array<{ alias: string; field: FieldId }> = (() => {
 })();
 
 export function normalizeLabel(label: string): string {
-  return label.trim().toLowerCase();
+  return label.normalize("NFC").trim().toLowerCase();
 }
 
+/**
+ * Split a list-valued field ("Cain, Abel; Seth", "Matthäus (4,18; 10,2); Markus
+ * (1,16)") into items. Separators are `;` and `,` — but only at parenthesis
+ * depth 0, and never a comma between two digits (German/ES verse refs "4,18").
+ * Step 2 implementation review: the previous `.split(",")` cut "Mark (1:16, 29)"
+ * and every DE "4,18" reference into fragments.
+ */
+export function splitList(value: string): string[] {
+  const out: string[] = [];
+  let depth = 0;
+  let cur = "";
+  for (let i = 0; i < value.length; i++) {
+    const ch = value[i];
+    if (ch === "(" || ch === "[") depth++;
+    else if ((ch === ")" || ch === "]") && depth > 0) depth--;
+    const digitComma =
+      ch === "," &&
+      /\d/.test(value[i - 1] ?? "") &&
+      /\d/.test(value[i + 1] ?? "");
+    if (depth === 0 && (ch === ";" || (ch === "," && !digitComma))) {
+      out.push(cur);
+      cur = "";
+    } else cur += ch;
+  }
+  out.push(cur);
+  return out.map((x) => x.trim()).filter(Boolean);
+}
+
+/**
+ * Exact alias first; otherwise a fallback that only accepts an alias at the
+ * START of the label, ending on a word boundary ("key events in 1 peter" →
+ * keyEvents). Step 2 (PLAN_SAFETY_NET.md, review F3): the previous substring
+ * fallback matched aliases INSIDE words — "ver" in "Querverweis" made DE
+ * Matthew cross-references into cross-book pointers (shown in the wrong slot),
+ * and "in matthäus" made "Erstnennung in Matthäus" an inBook role. (Luke's
+ * "Note — divergence from Matthew" was a separate bug in the genealogy-section
+ * parser, fixed in people-parser.ts.)
+ */
 export function resolveField(label: string): FieldId | undefined {
   const norm = normalizeLabel(label);
   const exact = EXACT_LOOKUP.get(norm);
   if (exact) return exact;
   for (const { alias, field } of FALLBACK_PATTERNS) {
-    if (norm.includes(alias)) return field;
+    // Short aliases ("ort", "see", "ver") and cross-book pointers are
+    // exact-only: as prefixes they would capture "Ort der Geburt",
+    // "See also", "Ver también" (implementation review R3).
+    if (alias.length <= 5 || field === "crossBookSee") continue;
+    if (
+      norm.startsWith(alias) &&
+      !/^[\p{L}\p{M}\p{N}]/u.test(norm.slice(alias.length))
+    )
+      return field;
   }
   return undefined;
 }
@@ -345,7 +416,18 @@ export function parseOriginType(raw: string): OriginType {
 }
 
 export function parseHistoricityStatus(raw: string): HistoricityStatus {
-  const n = raw.trim().toUpperCase();
+  // Classify by the leading status word only — the rest of the value is prose
+  // that may mention other statuses ("… not verified …"). DE also writes
+  // "BESTÄTIGT" (implementation review R3).
+  const n = (
+    raw
+      .normalize("NFC")
+      .trim()
+      .toUpperCase()
+      .match(/^[\p{L}]+/u)?.[0] ?? ""
+  )
+    .replace("BESTÄTIGT", "VERIFIED")
+    .replace("BESTAETIGT", "VERIFIED");
   if (
     n.includes("VERIFIED") ||
     n.includes("VERIFICADO") ||

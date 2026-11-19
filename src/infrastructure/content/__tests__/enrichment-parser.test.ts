@@ -72,11 +72,14 @@ describe("Enrichment Parser", () => {
     it("ANE entries have sources", async () => {
       const data = await loadEnrichment();
       const ane = data.sections.find((s) => s.id === "ane-parallels");
-      if (ane) {
-        for (const entry of ane.entries) {
-          expect(entry.source).toBeDefined();
-          expect(entry.source?.length).toBeGreaterThan(0);
-        }
+      expect(
+        ane,
+        "Genesis 1 companion has no ANE-parallels section",
+      ).toBeDefined();
+      expect(ane?.entries.length).toBeGreaterThan(0);
+      for (const entry of ane?.entries ?? []) {
+        expect(entry.source).toBeDefined();
+        expect(entry.source?.length).toBeGreaterThan(0);
       }
     });
 
@@ -301,6 +304,10 @@ describe("Enrichment Parser", () => {
           for (const entry of entries) {
             expect(VALID_CONFIDENCE).toContain(entry.confidence);
           }
+          expect(
+            spy.mock.calls.filter((c) => String(c[0]).includes("Unrecognized")),
+            "a label fell back to the default (unrecognized alias)",
+          ).toEqual([]);
           spy.mockRestore();
         });
       }

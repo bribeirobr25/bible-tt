@@ -17,12 +17,12 @@
 
 ## A. Características del texto griego expuestas por la TT
 
-### A1. "En principio era la palabra" — *arche* sin articulo
+### A1. "En principio era la palabra" — *arche* sin artículo
 **[TEXTUAL — VERIFICADO]**
 
 Juan 1,1a: Ἐν ἀρχῇ ἦν ὁ λόγος (*en arche en ho logos*). El sustantivo ἀρχή (*arche*, "principio") no tiene el artículo definido — literalmente "en principio", no "en *el* principio". Esto refleja el hebreo de Gen 1,1, donde בְּרֵאשִׁית (*bereshit*) aparece igualmente sin el artículo ("en principio", no "en *el* principio"). Si la ausencia del articulo en Juan senala un sentido cualitativo ("en un estado de principio"), indefinicion temporal o un eco deliberado de Génesis 1,1 es materia de debate. La mayoria de las traducciones al español insertan el articulo, oscureciendo la construcción griega. La TT preserva la forma sin articulo. El paralelo entre las dos aperturas es verbal, no meramente temático: ambos textos comienzan con la misma estructura preposicional que apunta a un origen temporal no especificado.
 
-### A2. La estructura del Prologo del Logos — ¿quiastica o lineal?
+### A2. La estructura del Prólogo del Logos — ¿quiástica o lineal?
 **[TEXTUAL — PROBABLE]**
 
 El Prologo (1,1-18) ha sido analizado como una estructura quiastica (concentrica) por varios estudiosos. Un esquema ampliamente discutido (propuesto por Culpepper y Staley) identifica el centro en los vv.12b-13 (los hijos de Dios nacidos no de sangre) con anillos concentricos que se expanden: vv.1-2 en paralelo con vv.17-18 (la Palabra con Dios / el unigenito al lado de Dios); vv.3-5 en paralelo con vv.14-16 (creación y luz / encarnacion y gloria); vv.6-8 en paralelo con v.15 (el testimonio de Yojanan). Otros leen el Prologo como un descenso lineal directo — desde la preexistencia (vv.1-2), a traves de la creación (vv.3-5), hasta la encarnacion (vv.14-16) y el testimonio (vv.17-18). La TT no impone ninguna de las dos lecturas estructurales al texto, sino que senala ambas como posibilidades exegeticas.
@@ -42,12 +42,12 @@ Juan 1,14a: Καὶ ὁ λόγος σὰρξ ἐγένετο (*kai ho logos sarx
 
 Juan 1,14c: πλήρης χάριτος καὶ ἀληθείας (*pleres charitos kai aletheias*) — "lleno de gracia/favor y verdad." El par χάρις + ἀλήθεια (*charis* + *aletheia*) es ampliamente reconocido como eco del par hebreo חֶסֶד וֶאֱמֶת (*chesed ve-emet*, "amor leal y fidelidad") de Éxodo 34,6, donde YHWH proclama su propio caracter ante Moshe. La Septuaginta (la antigua traducción griega de la Biblia Hebrea, abreviada LXX) de Ex 34,6 traduce este par con palabras griegas diferentes (πολυέλεος καὶ ἀληθινός), lo que significa que el eco joanico no es una cita directa del AT griego sino que probablemente refleja un compromiso independiente con la tradición hebrea. Si la conexión es intencional, la afirmación en Juan 1,14 es que la Palabra encarnada personifica él mismo caracter que YHWH revelo en el Sinai. La TT senala el paralelo sin afirmar dependencia.
 
-### A6. "Unico-nacido" (*monogenes*) — etimología y traducción
+### A6. "Único-nacido" (*monogenes*) — etimología y traducción
 **[TEXTUAL — VERIFICADO]**
 
 Juan 1,14.18: μονογενής (*monogenes*). La palabra se compone de μόνος (*monos*, "único") y γένος (*genos*, "clase/tipo/descendencia"), no de μόνος + γεννάω (*gennao*, "engendrar"). La evidencia léxica (incluyendo su uso en Hebreos 11,17, donde Isaac es llamado *monogenes* de Abraham a pesar del nacimiento previo de Yishmael) confirma el significado "único en su clase, singular" o "único-nacido" en lugar de "unigenito." La traducción tradicional "unigenito" deriva del latin *unigenitus* (Vulgata) y fue reforzada por la teología trinitaria posterior (Credo Niceno: μονογενῆ). La TT traduce "único-nacido" para reflejar la etimología griega sin importar la carga teológica posnicena de "unigenito."
 
-### A7. V.18: "A Dios nadie lo ha visto jamás" — orden enfatico
+### A7. V.18: "A Dios nadie lo ha visto jamás" — orden enfático
 **[TEXTUAL — VERIFICADO]**
 
 Juan 1,18a: Θεὸν οὐδεὶς ἑώρακεν πώποτε (*theon oudeis heoraken popote*) — "A Dios nadie lo ha visto jamás." El orden de palabras griego es flexible, y la anteposicion de un elemento senala enfasis. Al colocar θεόν ("Dios") primero, la clausula enfatiza el objeto de la visión — Dios mismo — antes de negar el acto. El perfecto ἑώρακεν ("ha visto") anade fuerza: no simplemente "nadie vio" sino "nadie ha visto jamás" — la acción completada con resultado vigente. La palabra πώποτε ("jamás, en ningun momento") refuerza el alcance absoluto. La TT preserva el orden griego para retener el enfasis.
@@ -63,21 +63,21 @@ La tradición manuscrita griega se divide en este versículo. El texto base de l
 
 ## B. Paralelos antiguos
 
-### B1. Logos en la filosofía griega — Heráclito, estoicismo, Filon
+### B1. Logos en la filosofía griega — Heráclito, estoicismo, Filón
 **[PARALELO COMPARATIVO — VERIFICADO]**
 
 El término λόγος (*logos*) cargaba un extenso bagaje filosófico antes de que se escribiera el Cuarto Evangelio. Heráclito (ca. 535-475 a.C.) uso *logos* para el principio racional que gobierna el cosmos — el orden oculto detras del cambio. Los estoicos (del siglo III a.C. en adelante) desarrollaron *logos* como concepto central: la razón divina (*logos spermatikos*) que impregna y organiza toda materia. Filon de Alejandria (ca. 20 a.C. - 50 d.C.) — un filosofo judío helenístico contemporáneo del cristianismo primitivo — identifico el *logos* con el intermediario entre el Dios trascendente y el mundo creado, combinando categorías filosóficas griegas con las tradiciones judías de Sabiduría y Tora. El *logos* de Filon es el agente de Dios en la creación, el "hijo primogenito" de Dios, la "imagen" de Dios. Si Juan conoció a Filon, se nutrio del mismo acervo de tradiciones, o llegó al *logos* independientemente a traves de categorías judías solas, es una cuestión no resuelta. La superposicion verbal está bien atestiguada; la dependencia conceptual es debatida. La TT senala el campo filosófico sin reducir el *logos* joanico a una sola tradición.
 
 **Fuente:** Borgen, P., "The Logos Was the True Light: Contributions to the Interpretation of the Prologue of John," *Novum Testamentum* 14, 1972; Runia, D.T., *Philo of Alexandria and the Timaeus of Plato*, Brill, 1986.
 
-### B2. Tradicion judía de la Sabiduría — Proverbios 8, Siracida 24, Sabiduría de Salomon
+### B2. Tradición judía de la Sabiduría — Proverbios 8, Sirácida 24, Sabiduría de Salomón
 **[PARALELO COMPARATIVO — PROBABLE]**
 
 El paralelo judío mas cercano al Prologo joanico es la tradición de la Sabiduría personificada (*Chokmah*/*Sophia*). En Proverbios 8,22-31, la Sabiduría declara que estuvo presente en la creación, junto a Dios "como artesana maestra." Siracida 24,1-12 describe a la Sabiduría saliendo de la boca del Altisimo, morando en Israel y arraigandose en Jerusalén. Sabiduría de Salomon 7,22-8,1 llama a la Sabiduría "un soplo del poder de Dios," "un reflejo de la luz eterna" y "una imagen de su bondad." Los paralelos estructurales con Juan 1 son amplios: preexistencia con Dios, agencia en la creación, descenso para morar entre los seres humanos, rechazó por parte de algunos. Si el Prologo joanico se nutre de la tradición sapiencial, sustituye *logos* por *sophia* — lo que plantea la pregunta de por que el masculino *logos* reemplaza al femenino *sophia*. Las razones posibles incluyen: el genero masculino se ajusta a la afirmación de encarnacion; *logos* portaba resonancia filosófica de la que *sophia* carecia en ciertos contextos; o historia composicional (un himno sapiencial prejoanico adaptado por el evangelista).
 
 **Fuente:** Witherington, B., *John's Wisdom: A Commentary on the Fourth Gospel*, Westminster John Knox, 1995; Scott, M., *Sophia and the Johannine Jesus*, JSOT Press, 1992.
 
-### B3. El Prologo y Génesis 1 — paralelos estructurales y verbales
+### B3. El Prólogo y Génesis 1 — paralelos estructurales y verbales
 **[PARALELO COMPARATIVO — VERIFICADO]**
 
 Juan 1 refleja deliberadamente la apertura del Génesis. Los paralelos verbales: "en principio" (Jn 1,1 / Gen 1,1); creación mediante la palabra ("todas las cosas llegaron a ser por medio de él" / "y Dios dijo"); luz y tinieblas ("la luz brilla en las tinieblas" / "hagase la luz... Dios separo la luz de las tinieblas"); vida ("en el estaba la vida" / las criaturas vivientes, el aliento de vida). El paralelo estructural: Génesis 1 avanza desde el estado primordial, a traves de la palabra creadora, hasta la emergencia de la vida y la humanidad; Juan 1 avanza desde la Palabra preexistente, a traves de la agencia creadora, hasta la encarnacion como carne entre los seres humanos. El Cuarto Evangelio abre recontando la historia de la creación con el *logos* como agente parlante, y luego la extiende más allá del Génesis: no solo "y Dios dijo" sino "la Palabra se hizo carne." La TT senala los ecos verbales sin afirmar que Juan simplemente reescribe Génesis — el Prologo también se nutre de tradiciones (Sabiduría, *logos* filosófico) ausentes en Génesis 1.
@@ -102,7 +102,7 @@ El Cuarto Evangelio introduce a "los Yehudim" (*hoi Ioudaioi*, 1,19) y "los Fari
 
 **Fuente:** Reinhartz, A., *Cast Out of the Covenant: Jews and Anti-Judaism in the Gospel of John*, Lexington Books, 2018; Mason, S., "Pharisees," en *Anchor Bible Dictionary*, vol. 5, Doubleday, 1992.
 
-### C3. Practicas de inmersion en el siglo primero — arqueología del mikveh
+### C3. Prácticas de inmersión en el siglo primero — arqueología del mikveh
 **[HISTÓRICO / ARQUEOLÓGICO — VERIFICADO]**
 
 La actividad de Yojanan de sumergir (*baptizo*) en el Jordán ocurre dentro de un contexto judío bien atestiguado de purificación ritual. Las excavaciones arqueológicas han descubierto cientos de piletas de inmersion ritual (*miqwa'ot*, singular *mikveh*) en toda Judea, Galilea y la Diaspora, datadas desde el período hasmoneo (la dinastía judía que gobernó Judea c. 140–37 a.e.c.) hasta el período del Segundo Templo. Estas piletas escalonadas — encontradas en Qumran, Seforis, Jerusalén (cerca del Monte del Templo), Herodion y residencias privadas — demuestran que la inmersion corporal completa en agua era una práctica judía extendida. La inmersion de Yojanan difiere de la práctica estandar del mikveh en ubicación (un rio corriente en lugar de una pileta construida), frecuencia (aparentemente una sola vez en lugar de repetida) y asociacion (con una figura profetica especifica en lugar del Templo o la ley de pureza). La comunidad de los Rollos del Mar Muerto en Qumran también practicaba inmersion regular vinculada a la identidad comunitaria, proporcionando un paralelo parcial.
@@ -111,23 +111,23 @@ La actividad de Yojanan de sumergir (*baptizo*) en el Jordán ocurre dentro de u
 
 ---
 
-## D. Inmersiones linguisticas y filologicas
+## D. Inmersiones lingüísticas y filológicas
 
 ### D1. *Monogenes* — etimología y uso
 **[TEXTUAL — VERIFICADO]**
 
 El compuesto μονογενής (*monogenes*) aparece en el Nuevo Testamento cinco veces (Jn 1,14; 1,18; 3,16; 3,18; 1 Jn 4,9) y una vez en Hebreos 11,17 (sobre Isaac). Fuera del NT, aparece en la LXX (Jueces 11,34, sobre la hija de Yiftaj; Salmo 21,21 LXX; Tobit 3,15; 6,11; 8,17) y en el griego clasico (p. ej., Hesiodo, Parmenides). En todo uso no teológico, el significado es "único en su clase" o "única descendencia" — no "unigenito" en el sentido de un modo único de generación. El cambio a "unigenito" entró a traves del *unigenitus* de Jeronimo en la Vulgata y fue cimentado por el uso de μονογενῆ en el Credo Niceno para afirmar la generación única del Hijo por el Padre (γεννηθέντα οὐ ποιηθέντα, "engendrado, no creado"). La evidencia lexicografica (BDAG, LSJ) confirma que la base etimologica es *genos* (clase/tipo), no *gennao* (engendrar). La TT sigue la evidencia léxica.
 
-### D2. El doble *amen* (*amen amen*) — formula exclusivamente joanica
+### D2. El doble *amen* (*amen amen*) — fórmula exclusivamente joánica
 **[TEXTUAL — VERIFICADO]**
 
 Juan 1,51: ἀμὴν ἀμὴν λέγω ὑμῖν (*amen amen lego hymin*) — "amen, amen, les digo." Esta formula doble de *amen* es exclusiva del Cuarto Evangelio, apareciendo 25 veces (Jn 1,51; 3,3.5.11; 5,19.24.25; 6,26.32.47.53; 8,34.51.58; 10,1.7; 12,24; 13,16.20.21.38; 14,12; 16,20.23; 21,18). Los Evangelios Sinópticos (Mateo, Marcos, Lucas — los tres Evangelios que comparten mucho material narrativo) usan un solo *amen* ("amen, les digo"), lo cual ya es en sí mismo distintivo — en la práctica liturgica judía, *amen* era una formula de respuesta ("así sea"), no una formula autointroductoria. El uso de *amen* por Jesus para introducir sus propias declaraciones (en lugar de confirmar las de otro) no tiene paralelo conocido en la literatura judía precristiana. La duplicacion joanica intensifica la formula aún más. La TT translitera *amen* (se aplica la Regla 4 — la palabra ha pasado a las lenguas de destino) y preserva la duplicacion.
 
 ---
 
-## E. Correspondencia y no-correspondencia cientifica
+## E. Correspondencia y no-correspondencia científica
 
-### E1. "En principio" y origenes cosmologicos — *logos* como principio ordenador
+### E1. "En principio" y orígenes cosmológicos — *logos* como principio ordenador
 **[COMPARACIÓN CIENTÍFICA — POSIBLE]**
 
 Juan 1,1-3 describe todas las cosas viniendo a la existencia a traves del *logos* — un principio racional ordenador presente antes de la creación. La cosmología moderna describe las condiciones iniciales del universo como gobernadas por constantes fisicas fundamentales y estructuras matematicas — una "racionalidad" inherente en el tejido de la realidad que precede (lógica, no temporalmente) a la emergencia de la materia y la energía. Algunos fisicos y filosofos de la ciencia (p. ej., Paul Davies, John Barrow) han señalado la resonancia estructural: el universo parece estar "escrito en matematicas" (la frase de Galileaeo), y su inteligibilidad — el hecho de que pueda ser descrito por leyes racionales en absoluto — es en sí misma inexplicada por la física. Esto no es una afirmación de que Juan anticipo la cosmología moderna. El *logos* de Juan 1 es personal ("estaba con Dios," "se hizo carne"); la estructura matemática del universo es impersonal. La resonancia es sugestiva, no probatoria. La TT senala el paralelo sin afirmar correspondencia.
@@ -136,7 +136,7 @@ Juan 1,1-3 describe todas las cosas viniendo a la existencia a traves del *logos
 
 ---
 
-## F. Recepcion posterior
+## F. Recepción posterior
 
 ### F1. El Logos en la teología trinitaria — Nicea y Calcedonia
 **[RECEPCIÓN POSTERIOR — DOCUMENTADO]**
@@ -152,7 +152,7 @@ El compromiso judío con el Prologo joanico ha sido historicamente de rechazó. 
 
 **Fuente:** Boyarin, D., *Border Lines: The Partition of Judaeo-Christianity*, University of Pennsylvania Press, 2004; Novak, D., *Jewish-Christian Dialogue: A Jewish Justification*, Oxford University Press, 1989.
 
-### F3. Recepcion islamica — Isa como palabra de Dios (*kalimatu'llah*)
+### F3. Recepción islámica — Isa como palabra de Dios (*kalimatu'llah*)
 **[RECEPCIÓN POSTERIOR — DOCUMENTADO]**
 
 El Coran describe a Isa (Jesus) como "una palabra de El" (كَلِمَةً مِّنْهُ, *kalimatan minhu*, Coran 3,45) y "Su palabra que dirigio hacia Maryam" (كَلِمَتُهُ أَلْقَاهَا إِلَىٰ مَرْيَمَ, *kalimatuhu alqaha ila Maryam*, Coran 4,171). La designacion de Isa como "palabra" (*kalima*) de Dios resuena verbalmente con Juan 1,1 pero difiere fundamentalmente en alcance: en la teología islamica, Isa es una palabra *de* Dios (una expresión creada de la voluntad divina — el mandato "¡se!" que produjo su nacimiento milagroso), no la Palabra eterna que *era* Dios. El Coran niega explicitamente que Isa sea divino (4,171: "no digan 'tres'... Dios es solo un único Dios"). Los comentaristas islamicos clasicos (al-Tabari, Ibn Kathir) interpretan *kalima* como referencia al mandato creador (*kun*, "se") por el cual Dios inició la concepcion de Isa en el vientre de Maryam, no como una afirmación de preexistencia o divinidad. La superposicion verbal con el *logos* joanico sin la identificación ontológica ilustra como él mismo titulo puede portar un contenido teológico enteramente diferente.
@@ -168,7 +168,7 @@ El Coran describe a Isa (Jesus) como "una palabra de El" (كَلِمَةً مِ�
 
 Mateo y Lucas comienzan con relatos detallados de nacimiento (genealogía, anunciacion, pesebre, magos, huida a Egipto). Juan comienza con un prologo cósmico que arranca antes de la creación. Marcos comienza con el ministerio adulto de Yojanan el Sumergidor. La elección del Cuarto Evangelio de omitir por completo el nacimiento y comenzar con la preexistencia es una decisión composicional deliberada. El Prologo hace innecesario un relato de nacimiento según su propia lógica: si la Palabra estaba "en principio" con Dios y "se hizo carne" (1,14), el modo del nacimiento físico es secundario frente a la afirmación ontológica. Algunos estudiosos argumentan que el Prologo funciona como la alternativa joanica a los relatos de infancia sinópticos — no contradiciendolos sino superandolos al llevar el origen de Jesus detras del comienzo del tiempo mismo. Otros señalan que la audiencia de Juan posiblemente ya conocía las tradiciones sinopticas y que el Prologo las presupone, en lugar de reemplazarlas.
 
-### G2. "Veran el cielo abierto" (v.51) — el eco de la escalera de Jacob
+### G2. "Verán el cielo abierto" (v.51) — el eco de la escalera de Jacob
 **[TEXTUAL — PROBABLE]**
 
 Juan 1,51: "veran el cielo abierto y a los angeles de Dios ascendiendo y descendiendo sobre el hijo del hombre." El lenguaje es un eco directo de Gen 28,12, donde Jacob suena con una escalera (*sullam*) apoyada en la tierra con su cima llegando al cielo, y los angeles de Dios ascendiendo y descendiendo por ella. El paralelo verbal es preciso: ἀναβαίνοντας καὶ καταβαίνοντας (*anabainontas kai katabainontas*, "ascendiendo y descendiendo") corresponde a la LXX de Gen 28,12. La sustitucion es llamativa: donde Génesis tiene la escalera, Juan tiene "el hijo del hombre." La implicacion — que el hijo del hombre es el punto de conexión entre el cielo y la tierra, reemplazando la escalera del sueno de Jacob — esta teologicamente cargada pero no enunciada por el texto. La TT senala el eco verbal y la sustitucion sin proveer la conclusión teológica.

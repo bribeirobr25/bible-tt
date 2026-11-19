@@ -63,7 +63,7 @@ Environment note: `node_modules` was absent; installed with `pnpm install --froz
 | B8 | WebGL hero: under reduced-motion, resize clears the canvas without redraw (blank hero); `renderer.dispose()` without `forceContextLoss()` leaks contexts across navigations. | `src/ui/marketing/separation-hero.tsx:72` | reported |
 | B9 | Deeper door with a single sub-tab renders `role="tablist"`/`tab` whose `aria-controls` points to a non-existent id; People `<a>` sits inside the tablist. | `src/ui/enrichment/deeper-view.tsx:80-104` | reported |
 | B10 | Copy-verse-link uses `history.replaceState` (doesn't trigger `:target` highlight); its `setTimeout` is never cleared. | `src/ui/study/copy-verse-link.tsx:19` | reported |
-| B11 | DE Acts PEOPLE label `**In der Apostelgeschichte:**` (6×) is not a parser alias (`"in apostelgeschichte"` only) → `inBook` undefined. | `people-fields.ts:215` | ✔ |
+| B11 | DE Acts PEOPLE label `**In der Apostelgeschichte:**` (6×) is not a parser alias (`"in apostelgeschichte"` only) → `inBook` undefined. | `people-fields.ts:215` | ✔ — **fixed in Step 2** (PR #16) |
 | B12 | Introduction §F i18n label is dead: id `reading-in-tt` → `readingInTt` misses key `readingInTT`; falls back to authored title. | `introduction/page.tsx:67`; `introduction-view.tsx:33` | ✔ |
 
 ### 3.2 Latent risks (harmless on today's content)
@@ -82,6 +82,8 @@ Environment note: `node_modules` was absent; installed with `pnpm install --froz
 - `DeeperView` is a client component → `ContextView` + renderer ship to the client and enrichment data is serialized twice; full message catalogue sent on every page.
 
 ### 3.3 Safety-net (gate) weaknesses
+
+> **Status (Step 2, PR #16):** resolved — label guard widened; vacuous tests de-vacuumed; activation-consistency extended; all content-lint sub-bullets except §0.4/shellcheck; CI added; one lockfile + `engines`; cross-locale parity + raw-count reconciliation + canonical verse table added. **Still open:** the conservation gate itself stays near-tautological (now backstopped by `raw-reconciliation.test.ts`); no shellcheck; no `noUncheckedIndexedAccess`; §0.10–§0.13 remain warn-only by design.
 
 - **Conservation gate is near-tautological** — expected values are rebuilt from the same parsed objects the emitter reads (`conservation.test.ts:124-216`); compares only `.text` (not labels, markers, note types, sources); people covers only `name`. It cannot detect raw-markdown loss, and it protects `getStructuredBook`, which no page consumes.
 - **Chapter completeness** only requires ≥1 verse/paragraph; exact verse counts exist only for Genesis.

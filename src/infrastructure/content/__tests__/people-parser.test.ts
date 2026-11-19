@@ -32,8 +32,8 @@ describe("people-parser", () => {
     it("all 4 locales parse Genesis PEOPLE.md", () => {
       for (const locale of ["en", "pt-br", "de", "es"]) {
         const raw = readPeople(locale, "genesis");
-        if (!raw) continue;
-        const result = parsePeopleMarkdown(raw, "genesis");
+        expect(raw, `${locale}/genesis/PEOPLE.md missing`).toBeTruthy();
+        const result = parsePeopleMarkdown(raw as string, "genesis");
         expect(result.entries.length).toBeGreaterThan(0);
       }
     });
@@ -41,8 +41,8 @@ describe("people-parser", () => {
     it("all 4 locales parse Matthew PEOPLE.md", () => {
       for (const locale of ["en", "pt-br", "de", "es"]) {
         const raw = readPeople(locale, "matthew");
-        if (!raw) continue;
-        const result = parsePeopleMarkdown(raw, "matthew");
+        expect(raw, `${locale}/matthew/PEOPLE.md missing`).toBeTruthy();
+        const result = parsePeopleMarkdown(raw as string, "matthew");
         expect(result.entries.length).toBeGreaterThan(0);
       }
     });
@@ -258,18 +258,22 @@ describe("people-parser", () => {
 
     it("extracts historical year for NT figures", () => {
       const herod = result.entries.find((e) => e.name.includes("Herod"));
-      if (herod) {
-        expect(herod.historicalYear).toBeDefined();
-        expect(herod.timelineAnchor).toBe("historical");
-      }
+      expect(
+        herod,
+        "Herod entry missing from en/matthew PEOPLE.md",
+      ).toBeDefined();
+      expect(herod?.historicalYear).toBeDefined();
+      expect(herod?.timelineAnchor).toBe("historical");
     });
 
     it("extracts extra-biblical mentions", () => {
       const herod = result.entries.find((e) => e.name.includes("Herod"));
-      if (herod) {
-        expect(herod.extraBiblicalMentions).toBeDefined();
-        expect(herod.extraBiblicalMentions).toContain("Josephus");
-      }
+      expect(
+        herod,
+        "Herod entry missing from en/matthew PEOPLE.md",
+      ).toBeDefined();
+      expect(herod?.extraBiblicalMentions).toBeDefined();
+      expect(herod?.extraBiblicalMentions).toContain("Josephus");
     });
   });
 
@@ -347,8 +351,8 @@ describe("people-parser", () => {
 
     it("DE Genesis fixture: real-world labels all parse correctly", () => {
       const raw = readPeople("de", "genesis");
-      if (!raw) return;
-      const r = parsePeopleMarkdown(raw, "genesis");
+      expect(raw, "de/genesis/PEOPLE.md missing").toBeTruthy();
+      const r = parsePeopleMarkdown(raw as string, "genesis");
       const adam = r.entries.find((e) => e.name.includes("Adam"));
       expect(adam).toBeDefined();
       expect(adam?.father).toContain("keiner");
@@ -363,8 +367,8 @@ describe("people-parser", () => {
 
     it("PT Genesis fixture: father not overwritten by age-at-fatherhood", () => {
       const raw = readPeople("pt-br", "genesis");
-      if (!raw) return;
-      const r = parsePeopleMarkdown(raw, "genesis");
+      expect(raw, "pt-br/genesis/PEOPLE.md missing").toBeTruthy();
+      const r = parsePeopleMarkdown(raw as string, "genesis");
       const adam = r.entries.find(
         (e) => e.name.includes("Adam") || e.name.includes("Adão"),
       );

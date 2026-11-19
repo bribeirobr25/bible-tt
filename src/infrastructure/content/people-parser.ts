@@ -14,6 +14,7 @@ import {
   parseOriginType,
   parseRegionsByText,
   resolveField,
+  splitList,
 } from "./people-fields";
 
 const ENTRY_HEADER = /^## (.+)$/;
@@ -100,6 +101,8 @@ interface ParseState {
     headers: string[];
     rows: string[][];
     note?: string;
+    /** True while the bullet lines that follow a note label belong to it. */
+    noteOpen?: boolean;
   } | null;
   // Sources-section accumulation (raw markdown lines after the sources H2).
   sourcesLines: string[] | null;
@@ -152,43 +155,25 @@ function applyField(
       current.mother = value;
       break;
     case "spouses":
-      current.spouses = value
-        .split(",")
-        .map((s) => s.trim())
-        .filter(Boolean);
+      current.spouses = splitList(value);
       break;
     case "children":
-      current.children = value
-        .split(",")
-        .map((s) => s.trim())
-        .filter(Boolean);
+      current.children = splitList(value);
       break;
     case "siblings":
-      current.siblings = value
-        .split(",")
-        .map((s) => s.trim())
-        .filter(Boolean);
+      current.siblings = splitList(value);
       break;
     case "inLaws":
-      current.inLaws = value
-        .split(",")
-        .map((s) => s.trim())
-        .filter(Boolean);
+      current.inLaws = splitList(value);
       break;
     case "locations":
-      current.locations = value
-        .split(",")
-        .map((s) => s.trim())
-        .filter(Boolean);
+      current.locations = splitList(value);
       break;
     case "firstMention":
       current.firstMention = value;
       break;
     case "mentionedIn":
-      current.mentionedIn = value
-        .split(",")
-        .map((s) => s.trim())
-        .filter(Boolean);
+      current.mentionedIn = splitList(value);
       break;
     case "keyEvents":
       current.keyEvents = value
@@ -209,19 +194,13 @@ function applyField(
       current.hometown = value;
       break;
     case "placesLived":
-      current.placesLived = value
-        .split(",")
-        .map((s) => s.trim())
-        .filter(Boolean);
+      current.placesLived = splitList(value);
       break;
     case "causeOfDeath":
       current.causeOfDeath = value;
       break;
     case "languagesSpoken":
-      current.languagesSpoken = value
-        .split(",")
-        .map((s) => s.trim())
-        .filter(Boolean);
+      current.languagesSpoken = splitList(value);
       break;
     case "archaeologicalEvidence":
       current.archaeologicalEvidence = value;
@@ -233,10 +212,7 @@ function applyField(
       current.historicityStatus = parseHistoricityStatus(value);
       break;
     case "booksAppearingIn":
-      current.booksAppearingIn = value
-        .split(",")
-        .map((s) => s.trim())
-        .filter(Boolean);
+      current.booksAppearingIn = splitList(value);
       break;
     case "keySpeeches":
       current.keySpeeches = value
@@ -397,10 +373,37 @@ export function parsePeopleMarkdown(raw: string, book: string): PeopleData {
       const trimmed = line.trim();
       if (!trimmed) continue;
       const noteMatch = line.match(FIELD_LINE);
-      if (noteMatch && NOTE_LABELS.has(normalizeLabel(noteMatch[1]))) {
-        state.gen.note = noteMatch[2].trim();
+      if (noteMatch) {
+        // A note label is a note word, optionally qualified: "Note",
+        // "Note — divergence from Matthew (crux …)". Step 2 implementation
+        // review: the qualified form (Luke 3, all 4 locales) used to be
+        // dropped together with its bullet list. The qualifier is kept as the
+        // note's bold lead; following "- " bullets are accumulated below.
+        const label = noteMatch[1].trim();
+        const head = normalizeLabel(label).match(/^[\p{L}]+/u)?.[0] ?? "";
+        if (NOTE_LABELS.has(head)) {
+          const rest = label
+            .slice(head.length)
+            .replace(/^[\s—–:-]+/, "")
+            .trim();
+          // Rendered after the localized "Note." lead, so start it capitalized.
+          const qualifier = rest.charAt(0).toUpperCase() + rest.slice(1);
+          const value = noteMatch[2].trim();
+          const parts = [qualifier ? `**${qualifier}:**` : "", value].filter(
+            Boolean,
+          );
+          state.gen.note = state.gen.note
+            ? `${state.gen.note}\n${parts.join(" ")}`
+            : parts.join(" ");
+          state.gen.noteOpen = true;
+          continue;
+        }
+      }
+      if (state.gen.noteOpen && /^[-*] /.test(trimmed)) {
+        state.gen.note = `${state.gen.note ?? ""}\n${trimmed}`;
         continue;
       }
+      state.gen.noteOpen = false;
       if (trimmed.startsWith("|")) {
         const cells = parseTableRow(line);
         if (isTableSeparator(cells)) continue;

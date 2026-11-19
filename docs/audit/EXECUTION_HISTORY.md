@@ -11,6 +11,22 @@ in `docs/audit/PENDING.md`.
 
 ---
 
+## Launch-Readiness Program — Step 2: Safety net (2026-11-19)
+
+Per `docs/audit/PLAN_SAFETY_NET.md` (independent adversarial review: 1 blocker + 14 findings folded in) under `docs/audit/LAUNCH_PROGRAM.md`. Branch `safety-net`, PR #16. Goal: make the gate trustworthy before Steps 3–5 change content at scale.
+
+- **CI** — `.github/workflows/gate.yml`: test · lint · typecheck · content:lint · build on every PR and push to `main` (ubuntu, Node 22, pnpm from `packageManager`, `LC_ALL=C.UTF-8`). Stale `package-lock.json` removed; `engines.node` = `22.x`.
+- **content-lint** — book/file lists generated from `content/` (a new book needs no script edit); **tool failures now fail** (grep ≥ 2 / perl ≠ 0 / missing perl inputs — before, awk's exit status masked a broken regex and the script printed "passed"); all `2>/dev/null` removed; exact rule-id allow-list matching; distinct ids for the 7 `legacy` rules + §0.7a/b; §0.3 → all `content/es` (tokens widened after clearing 43 ES front-matter/heading accents); legacy joined-article → all ES; vosotros case-insensitive (Ps 82:6 citation allow-listed); §0.6 for every book; §0.11 + §0.3c via `perl -CSD` (umlaut/apostrophe-safe; §0.3c only after a capitalized word); new warn-only §0.1b (v3.3 stamps, re-stamp in Step 4d). Identical results under bash 3.2 / bash 5.2 / `LC_ALL=C`; the 26 pre-existing hit lines byte-identical.
+- **Labels** — aliases match only at a word start (Unicode lookbehind); negated/diminished occurrences skipped (`UNVERIFIED`, `NO VERIFICADO`, `POCO PROBABLE`…). Full-corpus snapshot of **6,350** resolved labels byte-identical before/after. Label-warning guard extended to prophecy readings, book CONTEXT, PEOPLE.
+- **People field resolution** — the `resolveField` fallback matched aliases *inside* words: DE `Querverweis` was parsed as a cross-book pointer (shown in the pointer slot); `Erstnennung in Matthäus` no longer typed as `inBook`. Fallback is now start-anchored; DE/ES/PT aliases added (incl. audit **B11** `In der Apostelgeschichte`). 78 locale persons gained typed fields; the only removals are the 2 wrong DE Matthew pointers.
+- **New tests** — `locale-parity` (file sets, verse sequences, marker counts, companion entry + dual-label counts with exact file×locale known gaps: 29 / 30 pairs — incl. newly found Gen 9 F5), `raw-reconciliation` (independent oracle: raw headings vs parsed, per file; canonical NA28/BHS verse table for all 7 books), `people-field-resolution`, `messages-parity`; activation-consistency extended (bookLabels, RULES-CORE allow-list, editorial log, all-locale content; `PILOT_BOOKS` exemption). Existing tests de-vacuumed. **Every new guard mutation-tested** (one vacuous check found that way and fixed).
+
+- **Implementation review (5 independent reviewers; `PLAN_SAFETY_NET.md` §11)** — corrected an earlier claim: Luke's "Note — divergence from Matthew" was never an alias-fallback casualty; it lived in the **genealogy section**, whose parser accepted only an exact `Note:` label and ignored the bullet list → now captured (qualifier + 6 bullets) and rendered in all 4 locales. Also: list fields split on `;`/depth-0 `,` only (DE `4,18` refs were fragmented); short/cross-book aliases exact-only; historicity by leading word (+DE `BESTÄTIGT`); negation confidence-only and whitespace-bound, NFC; parity extended to INTRODUCTION / book CONTEXT / PROPHECY; people compared both ways + ordered by first-mention refs; lint empty-input guards, core-perl decode, §0.3c any-word, §0.12 allow-list generated, `--warn-only` exits 2 on tool errors; CI actions moved to the Node-24 releases; 150 ES heading accents in 25 files.
+
+**Gates:** 929 tests / 17 files (was 887 / 13); conservation 408 / 20,599 unchanged; Biome; `tsc`; content-lint (warnings from 3 of the warn-only rules: §0.1b, §0.3d, §0.10); build; **CI green**.
+
+---
+
 ## Launch-Readiness Program — Step 1: Baseline recovery (2026-11-19)
 
 Per `docs/audit/PLAN_BASELINE_RECOVERY.md` (independent adversarial review F1–F9 folded in; D1 amendment + D7 re-confirmed by the project lead) under `docs/audit/LAUNCH_PROGRAM.md`. Branch `baseline-recovery`. Brought the two bodies of finished work stranded outside `main` onto `main`:

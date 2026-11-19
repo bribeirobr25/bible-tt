@@ -78,7 +78,7 @@ El templo en Jerusalén funcionaba como centro religioso e institución económi
 
 **Fuente:** Mazar, B., *The Mountain of the Lord*, Doubleday, 1975; Sanders, E.P., *Judaism: Practice and Belief, 63 BCE-66 CE*, SCM Press, 1992; Bauckham, R., "Jesus' Demonstration in the Temple," en *Law and Religion*, ed. B. Lindars, James Clarke, 1988.
 
-### C4. Cronologia de la Pascua y trafico de peregrinos
+### C4. Cronología de la Pascua y trafico de peregrinos
 **[HISTÓRICO / ARQUEOLÓGICO — VERIFICADO]**
 
 La Pascua (*Pesach*) caía el 14-15 de Nisan (marzo-abril). Como una de las tres fiestas de peregrinación (*shalosh regalim*: Pesach, Shavuot, Sukkot), atraia multitudes masivas a Jerusalén. Josefo estima la asistencia a la Pascua en varios puntos entre 2.5 y 3 millones (*Guerra* 6.425) — probablemente exagerado, pero incluso las estimaciones conservadoras sugieren 300,000-500,000 peregrinos en una ciudad con una población normal de quizas 40,000-80,000. La afluencia creaba enormes demandas logisticas: alojamiento, comida, animales sacrificiales, cambio de moneda, agua y saneamiento. Las operaciones del templo que Jesús interrumpio eran integrales para manejar este aumento anual. La ubicación joanica de la limpieza del templo en la Pascua — la fiesta que conmemora la liberacion de Egipto — puede portar una fuerza ironica: la institución que celebra la libertad se ha convertido en una institución de comercio.
@@ -87,9 +87,9 @@ La Pascua (*Pesach*) caía el 14-15 de Nisan (marzo-abril). Como una de las tres
 
 ---
 
-## D. Inmersiones linguisticas y filologicas
+## D. Inmersiones lingüísticas y filológicas
 
-### D1. ti emoi kai soi — el modismo semitico de desvinculación
+### D1. ti emoi kai soi — el modismo semítico de desvinculación
 **[TEXTUAL — VERIFICADO]**
 
 La frase ti emoi kai soi (*ti emoi kai soi*) = "¿que a mí y a ti?" es un calco (traducción prestada) del hebreo mah-li valakh (*mah-li valakh*). El modismo aparece en la Biblia Hebrea en varios contextos: Jueces 11:12 (Yiftaj al rey de Ammon — confrontación militar), 2 Samuel 16:10 y 19:23 (David a los hijos de Tseruyah — "¿que tengo en común contigo?"), 1 Reyes 17:18 (la viuda de Tsarfat a Elías — angustia y acusacion), 2 Reyes 3:13 (Elisha al rey de Yisrael — rechazó de involucramiento), 2 Cronicas 35:21 (Faraon Nekho al rey Yoshiyahu — "¿que contienda hay entre nosotros?"). El rango de uso va desde la desvinculación leve ("esto no es mi asunto") hasta el rechazó tajante ("dejame en paz"). En cada caso, el modismo crea distancia entre el hablante y el destinatario. En Juan 2:4, Jesús lo usa para establecer un limite — su acción procedera según sus propios términos y tiempos, no por iniciativa de su madre. Las traducciones que suavizan el modismo ("¿Qué tiene eso que ver contigo y conmigo?" — NRSV) o lo redirigen ("¿Por qué me involucras?" — NVI) oscurecen la formula semítica. La TT traduce literalmente: "¿Qué a mí y a ti, mujer?"
@@ -103,18 +103,18 @@ El vocativo gynai (*gynai*) es usado por Jesús para dirigirse a su madre tanto 
 
 ---
 
-## E. Correspondencia y no-correspondencia cientifica
+## E. Correspondencia y no-correspondencia científica
 
-### E1. Fermentacion del vino — el texto describe transformación, no creación de la nada
+### E1. Fermentación del vino — el texto describe transformación, no creación de la nada
 **[COMPARACIÓN CIENTÍFICA — POSIBLE]**
 
 La producción natural de vino involucra la fermentacion de azucares de uva por levadura (*Saccharomyces cerevisiae*), convirtiendo glucosa y fructosa en etanol y dioxido de carbono a lo largo de un período de días a semanas. El proceso es bioquimico: enzimas producidas por la levadura catalizan la descomposicion de azucares en un ambiente anaerobico. La señal de Qanah describe agua convirtiendose en vino — una transformación que elude todo el proceso biologico de viticultura, cosecha, prensado y fermentacion. El texto no describe creación *ex nihilo* (de la nada) — el agua ya existe como sustrato. Describe transformación de una sustancia en otra. Si se enmarca esto como una compresion de procesos naturales o como una discontinuidad categórica con los procesos naturales depende del marco metafísico de cada uno, no del texto mismo. El texto describe el resultado ("el agua convertida en vino") sin teorizar sobre el mecanismo. La quimica moderna puede describir lo que el vino es (una solución compleja de etanol, agua, acidos organicos, taninos, antocianinas y cientos de compuestos aromaticos); no puede describir un mecanismo para la conversión instantanea de agua en vino. La TT senala la brecha entre el resultado descrito y cualquier proceso natural conocido sin intentar llenarla.
 
 ---
 
-## F. Recepcion posterior
+## F. Recepción posterior
 
-### F1. Teologia mariana y la boda en Qanah
+### F1. Teología mariana y la boda en Qanah
 **[RECEPCIÓN POSTERIOR — DOCUMENTADO]**
 
 Las tradiciones catolica romana y ortodoxa oriental han extraido extensas conclusiones teológicas del rol de María en Qanah. El Concilio de Efeso (431 d.C.) definio a María como Theotokos ("portadora de Dios"), y aunque esta definición no depende de Juan 2, la narrativa de Qanah ha sido leida como respaldo del rol intercesor de María: ella presenta una necesidad humana a su hijo, y a pesar del aparente rechazó, la necesidad es satisfecha. La teología mariana posterior (particularmente en el catolicismo contrarreformista) desarrollo la imagen de María como mediadora — una que intercede ante Cristo en nombre de la humanidad. La enciclica del Papa Juan Pablo II *Redemptoris Mater* (1987) interpreta el episodio de Qanah como el paradigma de la mediacion maternal de María. Los interpretes protestantes han resistido generalmente esta lectura, argumentando que el texto muestra a Jesús estableciendo independencia de la iniciativa de su madre ("¿Qué a mí y a ti?"), no afirmando su rol mediador. La TT nota: el texto registra la declaración de la madre, la respuesta distanciadora de Jesús y la instrucción de la madre a los sirvientes. No usa la palabra "intercesion" ni describe el rol de la madre en términos mediatoriales. El marco teológico es recepción posterior, no texto.

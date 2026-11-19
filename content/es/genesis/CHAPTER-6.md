@@ -1,4 +1,4 @@
-# GENESIS 6
+# GÉNESIS 6
 ## La Traducción Transparente (TT)
 ### Edición Transparente - Español
 
@@ -24,7 +24,7 @@
 
 ---
 
-## GUIA DE LECTURA
+## GUÍA DE LECTURA
 
 **Texto Principal:** Traducción primaria — legible pero fiel a la estructura hebrea. **Notas:** Rasgos hebreos esenciales justo debajo de cada versículo.
 
@@ -347,7 +347,7 @@ Y Noé hizo conforme a todo lo que Dios le mandó; así hizo.
 
 ---
 
-## GLOSARIO — GENESIS 6 (adiciones al glosario de Gn 1–5)
+## GLOSARIO — GÉNESIS 6 (adiciones al glosario de Gn 1–5)
 
 | Hebreo | Español | Notas |
 |--------|---------|-------|
@@ -366,7 +366,7 @@ Y Noé hizo conforme a todo lo que Dios le mandó; así hizo.
 
 ---
 
-## SEGUIMIENTO ENTRE CAPITULOS (Gn 5 → Gn 6)
+## SEGUIMIENTO ENTRE CAPÍTULOS (Gn 5 → Gn 6)
 
 **Cadena toledot:**
 - 2:4: "generaciones de los cielos y la tierra"

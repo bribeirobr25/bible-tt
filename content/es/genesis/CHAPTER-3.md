@@ -1,4 +1,4 @@
-# GENESIS 3
+# GÉNESIS 3
 ## La Traducción Transparente (TT)
 ### Edición Transparente - Español
 
@@ -25,7 +25,7 @@
 
 ---
 
-## GUIA DE LECTURA
+## GUÍA DE LECTURA
 
 **Texto Principal:** Traducción primaria — legible pero fiel a la estructura hebrea. **Notas:** Rasgos hebreos esenciales justo debajo de cada versículo.
 
@@ -427,7 +427,7 @@ Y expulsó al humano; e hizo habitar al oriente del jardín de Eden a los querub
 
 ---
 
-## GLOSARIO - GENESIS 3 (adiciones al glosario de Gen 1-2)
+## GLOSARIO - GÉNESIS 3 (adiciones al glosario de Gen 1-2)
 
 | Hebreo | Español | Notas |
 |--------|---------|-------|
@@ -445,7 +445,7 @@ Y expulsó al humano; e hizo habitar al oriente del jardín de Eden a los querub
 
 ---
 
-## SEGUIMIENTO ENTRE CAPITULOS (Gen 2 - Gen 3)
+## SEGUIMIENTO ENTRE CAPÍTULOS (Gen 2 - Gen 3)
 
 **Cadena de juegos de palabras:**
 - 2:25 *arom* (desnudo) - 3:1 *arum* (astuto) - 3:7, 3:10, 3:11 *arom* (desnudo)
