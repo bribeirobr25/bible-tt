@@ -76,6 +76,10 @@ describe("Prophecy Parser", () => {
           expect(VALID_CONFIDENCE_LEVELS).toContain(reading.confidence);
         }
       }
+      expect(
+        spy.mock.calls.filter((c) => String(c[0]).includes("Unrecognized")),
+        "a label fell back to the default (unrecognized alias)",
+      ).toEqual([]);
       spy.mockRestore();
     });
   });
@@ -366,6 +370,10 @@ describe("Prophecy Parser", () => {
             expect(VALID_CONFIDENCE_LEVELS).toContain(reading.confidence);
           }
         }
+        expect(
+          spy.mock.calls.filter((c) => String(c[0]).includes("Unrecognized")),
+          "a label fell back to the default (unrecognized alias)",
+        ).toEqual([]);
         spy.mockRestore();
       });
     }
