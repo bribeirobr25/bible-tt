@@ -1,4 +1,4 @@
-# Genesis 7 — Companero de Estudio Contextual
+# Génesis 7 — Compañero de Estudio Contextual
 ## La Traducción Transparente (TT)
 
 ---
@@ -7,9 +7,9 @@
 
 ---
 
-**Capitulo:** Genesis 7
-**Idioma:** Espanol
-**Companero de:** `es/genesis/CHAPTER-7.md` (Edicion Transparente)
+**Capítulo:** Génesis 7
+**Idioma:** Español
+**Compañero de:** `es/genesis/CHAPTER-7.md` (Edición Transparente)
 **Reglas:** v3.3 (la Regla 29 gobierna este archivo)
 **Status:** provisional
 
@@ -107,7 +107,7 @@ La investigacion reciente argumenta que Genesis esta más directamente relaciona
 
 ---
 
-## C. Contexto Historico y Arqueologico
+## C. Contexto Histórico y Arqueologico
 
 ### C1. Cronologia del diluvio y calendarios antiguos
 **[HISTÓRICO / ARQUEOLÓGICO — PROBABLE]**
@@ -118,7 +118,7 @@ La cronologia precisa de la narrativa del diluvio (marcadores de mes/dia en 7:11
 
 ---
 
-## D. Analisis Linguistico y Filologico
+## D. Análisis Linguistico y Filologico
 
 ### D1. *Arubbot ha-shamayim* — ventanas del cielo
 **[TEXTUAL — VERIFICADO]**
@@ -166,9 +166,9 @@ Algunos divulgadores creacionistas de la Tierra joven han propuesto que un "dose
 
 ---
 
-## F. Recepcion Posterior
+## F. Recepción Posterior
 
-### F1. Recepcion judia — el remanente justo
+### F1. Recepción judía — el remanente justo
 **[RECEPCIÓN POSTERIOR — DOCUMENTADO]**
 
 La tradicion rabinica (Genesis Rabbah 32:8) debate si Noé era justo de manera absoluta o solo relativo a su generacion corrupta. La frase "en sus generaciones" (6:9) se lee como alabanza (justo aun en una epoca malvada) o como calificacion (justo solo en comparacion). La TT traduce la frase sin adjudicar.
@@ -177,14 +177,14 @@ El Midrash enfatiza el periodo de espera de 7 dias (7:4) como una semana de duel
 
 **Fuente:** Freedman, H. & Simon, M. (trans.), *Midrash Rabbah: Genesis*, Soncino Press, 1939.
 
-### F2. Recepcion cristiana — lecturas tipologicas
+### F2. Recepción cristiana — lecturas tipologicas
 **[RECEPCIÓN POSTERIOR — DOCUMENTADO]**
 
 1 Pedro 3:20-21 lee las aguas del diluvio como tipo del bautismo. La interpretacion patristica (Agustin, *Ciudad de Dios* XV.26-27) lee la tebah como tipo de la Iglesia. El numero de personas salvadas (ocho) se conecta con el simbolismo de la resurreccion (el octavo dia). Estas lecturas son post-biblicas y no estan en el texto hebreo.
 
 **Fuente:** Agustin, *Ciudad de Dios*, Libro XV, caps. 26-27.
 
-### F3. Recepcion islamica — Nuh en el Coran
+### F3. Recepción islámica — Nuh en el Coran
 **[RECEPCIÓN POSTERIOR — DOCUMENTADO]**
 
 El Coran (Suras 11:25-49, 23:23-30, 71:1-28) presenta a Nuh como un profeta que predica a su pueblo antes del diluvio. Una diferencia clave: en el relato coranico, uno de los hijos de Nuh se niega a abordar y se ahoga (11:42-43). El texto de Genesis no registra tal rechazo — los tres hijos entran en la tebah.

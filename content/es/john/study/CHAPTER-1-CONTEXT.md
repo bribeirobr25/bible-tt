@@ -136,7 +136,7 @@ Juan 1,1-3 describe todas las cosas viniendo a la existencia a traves del *logos
 
 ---
 
-## F. Recepcion posterior
+## F. Recepción posterior
 
 ### F1. El Logos en la teología trinitaria — Nicea y Calcedonia
 **[RECEPCIÓN POSTERIOR — DOCUMENTADO]**
@@ -152,7 +152,7 @@ El compromiso judío con el Prologo joanico ha sido historicamente de rechazó. 
 
 **Fuente:** Boyarin, D., *Border Lines: The Partition of Judaeo-Christianity*, University of Pennsylvania Press, 2004; Novak, D., *Jewish-Christian Dialogue: A Jewish Justification*, Oxford University Press, 1989.
 
-### F3. Recepcion islamica — Isa como palabra de Dios (*kalimatu'llah*)
+### F3. Recepción islámica — Isa como palabra de Dios (*kalimatu'llah*)
 **[RECEPCIÓN POSTERIOR — DOCUMENTADO]**
 
 El Coran describe a Isa (Jesus) como "una palabra de El" (كَلِمَةً مِّنْهُ, *kalimatan minhu*, Coran 3,45) y "Su palabra que dirigio hacia Maryam" (كَلِمَتُهُ أَلْقَاهَا إِلَىٰ مَرْيَمَ, *kalimatuhu alqaha ila Maryam*, Coran 4,171). La designacion de Isa como "palabra" (*kalima*) de Dios resuena verbalmente con Juan 1,1 pero difiere fundamentalmente en alcance: en la teología islamica, Isa es una palabra *de* Dios (una expresión creada de la voluntad divina — el mandato "¡se!" que produjo su nacimiento milagroso), no la Palabra eterna que *era* Dios. El Coran niega explicitamente que Isa sea divino (4,171: "no digan 'tres'... Dios es solo un único Dios"). Los comentaristas islamicos clasicos (al-Tabari, Ibn Kathir) interpretan *kalima* como referencia al mandato creador (*kun*, "se") por el cual Dios inició la concepcion de Isa en el vientre de Maryam, no como una afirmación de preexistencia o divinidad. La superposicion verbal con el *logos* joanico sin la identificación ontológica ilustra como él mismo titulo puede portar un contenido teológico enteramente diferente.

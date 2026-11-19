@@ -99,7 +99,7 @@ Juan 3:17-19 despliega el verbo krino (*krino*, "juzgar") y el sustantivo krisis
 
 ---
 
-## F. Recepcion posterior
+## F. Recepción posterior
 
 ### F1. Juan 3:16 en el evangelismo protestante
 **[RECEPCIÓN POSTERIOR — DOCUMENTADO]**

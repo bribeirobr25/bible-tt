@@ -1,4 +1,4 @@
-# Genesis 8 — Companero de Estudio Contextual
+# Génesis 8 — Compañero de Estudio Contextual
 ## La Traducción Transparente (TT)
 
 ---
@@ -7,9 +7,9 @@
 
 ---
 
-**Capitulo:** Genesis 8
-**Idioma:** Espanol
-**Companero de:** `es/genesis/CHAPTER-8.md` (Edicion Transparente)
+**Capítulo:** Génesis 8
+**Idioma:** Español
+**Compañero de:** `es/genesis/CHAPTER-8.md` (Edición Transparente)
 **Reglas:** v3.3 (la Regla 29 gobierna este archivo)
 **Status:** provisional
 
@@ -132,7 +132,7 @@ Genesis es distintivo: Noé no alcanza la inmortalidad; su nombre esta enraizado
 
 ---
 
-## C. Contexto Historico y Arqueologico
+## C. Contexto Histórico y Arqueologico
 
 ### C1. La hoja de olivo — evidencia botanica
 **[HISTÓRICO / ARQUEOLÓGICO — PROBABLE]**
@@ -148,7 +148,7 @@ Gn 8:20: Noé construye el primer *mizbeach* (altar) en la narrativa biblica. La
 
 ---
 
-## D. Analisis Linguistico y Filologico
+## D. Análisis Linguistico y Filologico
 
 ### D1. *Nichoach* — el aroma "descansante"
 **[TEXTUAL — VERIFICADO]**

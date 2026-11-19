@@ -112,7 +112,7 @@ La producción natural de vino involucra la fermentacion de azucares de uva por 
 
 ---
 
-## F. Recepcion posterior
+## F. Recepción posterior
 
 ### F1. Teologia mariana y la boda en Qanah
 **[RECEPCIÓN POSTERIOR — DOCUMENTADO]**

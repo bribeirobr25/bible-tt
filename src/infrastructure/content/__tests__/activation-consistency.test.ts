@@ -105,12 +105,22 @@ describe("Phase 0 — activation consistency", () => {
     }
   });
 
-  it("every activated book is covered by content-lint (CONTENT_DIRS)", () => {
-    for (const book of active) {
-      expect(
-        contentLintSrc.includes(`content/en/${book}`),
-        `content-lint.sh does not reference content/en/${book} — new book would be silently unlinted`,
-      ).toBe(true);
-    }
+  it("content-lint generates its book lists from content/ (no per-book hardcoding)", () => {
+    // Step 2: lists are derived from content/en/*/ so a new book is linted with
+    // no script edit. Guard the generator itself (a refactor back to hardcoded
+    // lists would silently stop linting new books).
+    expect(contentLintSrc).toMatch(/for d in content\/en\/\*\/; do/);
+    expect(contentLintSrc).toMatch(/CONTENT_DIRS="\$CONTENT_DIRS \$d"/);
+    expect(contentLintSrc).not.toMatch(/CONTENT_DIRS="content\//);
+  });
+
+  it("content-lint HB_BOOKS equals the app's HEBREW_BIBLE set", () => {
+    const m = contentLintSrc.match(/^HB_BOOKS="([^"]*)"/m);
+    expect(
+      m,
+      "HB_BOOKS definition not found in content-lint.sh",
+    ).not.toBeNull();
+    const hb = (m?.[1] ?? "").split(/\s+/).filter(Boolean).sort();
+    expect(hb).toEqual([...HEBREW_HUB].sort());
   });
 });

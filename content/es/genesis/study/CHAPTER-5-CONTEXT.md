@@ -7,8 +7,8 @@
 
 ---
 
-**Capitulo:** Genesis 5
-**Idioma:** Espanol
+**Capítulo:** Génesis 5
+**Idioma:** Español
 **Compañero de:** `es/genesis/CHAPTER-5.md` (Edición Transparente)
 **Reglas:** v3.3 (Regla 29 gobierna este archivo)
 **Status:** provisional
@@ -115,7 +115,7 @@ Opciones que los lectores han considerado: (1) anos literales; (2) numeros simbo
 
 ---
 
-## F. Recepcion Posterior en Otras Tradiciones
+## F. Recepción Posterior en Otras Tradiciones
 
 ### F1. Tradiciones de Enoc — judias
 **[RECEPCIÓN POSTERIOR — DOCUMENTADO]**
@@ -125,7 +125,7 @@ Opciones que los lectores han considerado: (1) anos literales; (2) numeros simbo
 - **2 Enoc** (s. I e.c.?): elaborado viaje por siete cielos
 - La tradicion rabinica esta dividida: algunos (Rashi) interpretan "Dios lo tomo" como muerte temprana; otros leen ascension
 
-### F2. Recepcion cristiana
+### F2. Recepción cristiana
 **[RECEPCIÓN POSTERIOR — DOCUMENTADO]**
 
 - **Hebreos 11:5:** "Por la fe Enoc fue trasladado para no ver muerte" — lectura explicita de no-muerte
@@ -139,7 +139,7 @@ Génesis 5:21-24 dice solamente que Enoc "anduvo con Dios" y "no fue más, porqu
 
 **Fuente:** Nickelsburg, G.W.E. & VanderKam, J.C., *1 Enoch: A New Translation*, Fortress Press, 2004 (PEER-REVIEWED); Reed, A.Y., *Fallen Angels and the History of Judaism and Christianity*, Cambridge, 2005 (PEER-REVIEWED).
 
-### F3. Recepcion islamica
+### F3. Recepción islámica
 **[RECEPCIÓN POSTERIOR — DOCUMENTADO]**
 
 La tradicion islamica identifica a Enoc con **Idris** (Coran 19:56-57, 21:85): "Lo elevamos a un alto grado." La identificacion Enoc=Idris es tradicional pero no universalmente aceptada por todos los eruditos musulmanes.

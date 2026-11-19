@@ -110,7 +110,7 @@ Las culturas del ACO practicaban la venganza de sangre (*go'el ha-dam* — parie
 
 ---
 
-## C. Contexto Historico y Arqueologico
+## C. Contexto Histórico y Arqueologico
 
 ### C1. Tension pastoral vs. agricola en el Levante neolitico
 **[HISTÓRICO / ARQUEOLÓGICO — VERIFICADO]**
@@ -150,23 +150,23 @@ Génesis 4 presenta el primer asesinato como surgido de la rivalidad entre herma
 
 ---
 
-## F. Recepcion Posterior en Otras Tradiciones
+## F. Recepción Posterior en Otras Tradiciones
 
-### F1. Recepcion judia
+### F1. Recepción judía
 **[RECEPCIÓN POSTERIOR — DOCUMENTADO]**
 
 - **Bereshit Rabbah:** discusion extensa de por que YHWH rechazo la ofrenda de Caín (¿calidad? ¿actitud? ¿momento?)
 - **Pirke de-Rabbi Eliezer:** despues del asesinato, un cuervo enseno a Caín como enterrar el cuerpo de su hermano
 - **"Sangres" plural** (4:10): la tradicion rabinica lee esto como la sangre de Abel más la sangre de todos sus descendientes potenciales
 
-### F2. Recepcion cristiana
+### F2. Recepción cristiana
 **[RECEPCIÓN POSTERIOR — DOCUMENTADO]**
 
 - **Hebreos 11:4:** "Por la fe Abel ofrecio un mejor sacrificio que Cain" — el NT atribuye la diferencia a la fe
 - **1 Juan 3:12:** "No sean como Cain, que era del maligno" — identifica a Cain con Satan (no en el texto hebreo)
 - La "marca de Cain" ha sido tragicamente usada en la historia para justificar la opresion racial — una lectura sin base en el texto hebreo
 
-### F3. Recepcion islamica
+### F3. Recepción islámica
 **[RECEPCIÓN POSTERIOR — DOCUMENTADO]**
 
 Coran, Sura 5:27-32: Habil y Qabil. Caracteristicas distintivas: Abel se niega a pelear ("No extendera mi mano para matarte"); un cuervo ensena a Cain el entierro; Sura 5:32 extrae la moral universal: "Quien mata a un alma... es como si matara a toda la humanidad."
