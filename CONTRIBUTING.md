@@ -38,7 +38,9 @@ A change is not done until **all** of these pass locally:
 2. `pnpm lint` — Biome clean.
 3. `pnpm build` — production build succeeds.
 4. `pnpm content:lint` — content lint clean (or any new exception added, with justification, to `scripts/lint-allowlist.txt`).
-5. **i18n parity** — any UI string added in one locale exists in all four (`en`, `pt-br`, `de`, `es`) under `src/infrastructure/i18n/messages/`.
+5. **i18n parity** — any UI string added in one locale exists in all four (`en`, `pt-br`, `de`, `es`) under `src/infrastructure/i18n/messages/` (now enforced by `src/infrastructure/i18n/__tests__/messages-parity.test.ts`).
+6. `pnpm typecheck` — `tsc --noEmit` clean.
+7. **CI green** — the GitHub Actions **Gate** workflow (`.github/workflows/gate.yml`) runs steps 1–4 + typecheck on Linux (GNU grep, bash 5) for every PR and push to `main`; a PR is not mergeable until it is green. Local runs use macOS BSD grep + bash 3.2 — both must pass.
 
 Two recurring footguns:
 
@@ -51,12 +53,14 @@ Two recurring footguns:
 
 - **`main` is the active trunk.** Do **not** push or merge to `main` without explicit authorization from the project lead — `main` is the release gate.
 - Branch from `main` for any non-trivial unit of work; open a PR back into `main` and merge only once authorized.
-- Commit messages: a concise subject line, then a body that says **what changed, why, and how it was verified** (the gate results — e.g. "882 tests pass; lint/build/content-lint clean; conservation intact"). Match the existing log style.
+- Commit messages: a concise subject line, then a body that says **what changed, why, and how it was verified** (the gate results — e.g. "916 tests pass; lint/build/content-lint clean; conservation intact"). Match the existing log style.
 - End every commit with the co-author trailer:
 
   ```
-  Co-Authored-By: Claude Opus 4.8 (1M context) <noreply@anthropic.com>
+  Co-Authored-By: <the AI model that assisted> <noreply@anthropic.com>
   ```
+
+  (Name the model actually used, e.g. `Claude Opus 5.5`.) Commits must use your **GitHub no-reply email** — the account blocks pushes that expose a private address.
 
 ---
 

@@ -8,7 +8,7 @@
 
 ## ⭐ Snapshot — everything open, at a glance
 
-> **2026-11-19 — Launch-Readiness Program (ACTIVE):** `docs/audit/LAUNCH_PROGRAM.md` — lead decisions D1–D16 and the 5-step sequence to a provisional public launch (7 books, `bible-translation.breno-bar.com`). It governs execution until launch; items below are re-triaged into its steps.
+> **2026-11-19 — Launch-Readiness Program (ACTIVE):** `docs/audit/LAUNCH_PROGRAM.md` — lead decisions D1–D16 and the 5-step sequence to a provisional public launch (7 books, `bible-translation.breno-bar.com`). It governs execution until launch; items below are re-triaged into its steps. **Progress:** Step 1 (baseline) ✅ PR #15 · Step 2 (safety net) ✅ PR #16 — CI gate live; parity/raw-count/people-field/i18n tests; hardened lint · Step 3 (content sweep) next.
 >
 > **2026-11-19 — Project State Audit:** `docs/audit/PROJECT_STATE_AUDIT.md` (full doc + code + branch review; findings only, not yet triaged into this tracker). Headlines: ~~unmerged `1-peter-expansion` branch; orphaned pivot-fidelity commit `333a373`~~ (**both resolved by Step 1, 2026-11-19** — `PLAN_BASELINE_RECOVERY.md`); live bugs (unactivated-book chapters served, Sources Consulted never rendered, Gen 8 table misalignment, `א*` italics, `/rules` omits Rule 30, unstyled 404); gate gaps (no CI, no cross-locale parity test).
 

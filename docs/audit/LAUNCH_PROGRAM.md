@@ -1,7 +1,7 @@
 # Launch-Readiness Program — Decisions & Sequence
 
 **Date:** 2026-11-19
-**Status:** ACTIVE — decisions locked by the project lead (interview, 2026-11-19). **Step 1 done 2026-11-19** (PR #15); **Step 2 (Safety net) next.**
+**Status:** ACTIVE — decisions locked by the project lead (interview, 2026-11-19). **Step 1 done 2026-11-19** (PR #15); **Step 2 done 2026-11-19** (PR #16); **Step 3 (Content sweep) next.**
 **Source findings:** `docs/audit/PROJECT_STATE_AUDIT.md` (§ references below point there).
 **Goal:** a public, provisional launch of the TT at **`bible-translation.breno-bar.com`** that the project lead is proud of — 7 books, all 4 locales, correct, consistent, and guarded against regression.
 
@@ -31,7 +31,7 @@
 | D9 | **οἱ Ἰουδαῖοι in German** | **Jehudim** (matches the JHWH / yod→J convention and `john.md` Entry J-006) | Fix the RULES-GS "all four languages" wording; convert the 12 DE files using "Yehudim" |
 | D10 | **Reader marker colours** | **The live site / design system is correct** (`{a:}` bold body colour; `@@` red, not bold) | Update the RULES-CORE §Text-Highlight Markers table and stale comments (`globals.css:507-510`, `render-markdown-safe.ts:68-70`); no visual change |
 | D11 | **Proper names** | The RULES-HB / RULES-GS **proper-name tables are the single source of truth**; missing names are proposed in the step-4 plan for audit, added to the tables, then **all books aligned** | Resolves Moshe/Mosheh, Natzeret/Natseret, Mattai/Mattityahu, Iakobos/Ya'aqov, DE Kafarnaum/Kapernaum, etc.; enforce the v3.2 first-occurrence-per-section rule (e.g. "Kefa (Peter)" → "Peter") |
-| D12 | **EN-only companion entries** | **Translate** the ~30 missing entries into PT-BR / DE / ES (mirror-EN, provisional, marker parity checked) | 9 companions: john 1–3, matthew 1–3, genesis 1/7/11 (audit §4) |
+| D12 | **EN-only companion entries** | **Translate** the ~30 missing entries into PT-BR / DE / ES (mirror-EN, provisional, marker parity checked) | **10 companions / 29 file×locale pairs** (Step 2 measurement): john 1–3, matthew 1–3, genesis 1/7/11, and genesis 9 (F5 missing in PT-BR/ES only). The exact list is `KNOWN_ENTRY_GAPS` in `locale-parity.test.ts` — each fix must delete its entry there |
 
 ### 1.3 Working agreement
 
@@ -71,5 +71,6 @@ Genesis 13–50 (Phase 12) and further epistles — **only** on the strengthened
 | Date | Step | Event |
 |---|---|---|
 | 2026-11-19 | — | Program defined; decisions D1–D16 locked. |
+| 2026-11-19 | 2 | **Safety net done** (`PLAN_SAFETY_NET.md`, PR #16): GitHub Actions CI gate; content-lint lists generated + tool errors fail + widened/portable rules (bash 3.2/5.2, BSD/GNU grep); word-start label matching (6,350-label snapshot unchanged); people-field resolution fixed (Luke "divergence" rows restored; DE/ES aliases); new locale-parity, raw-reconciliation (+ canonical verse table), people-field, i18n tests; de-vacuumed tests; npm lockfile removed. **Deviation recorded:** §0.1 now *warns* (not blocks) on v3.3 stamps in content/ until the Step 4d re-stamp (program text says "< v3.4 stale"). Tests 887 → 916. |
 | 2026-11-19 | 1 | **Implementation review (5 independent reviewers)** — integrity / code+tooling / content / docs / runtime+visual; fixes folded into PR #15 (prophecy fields + glossary markers rendered, glossary mobile overflow, lint guards hardened + §0.3d, 1 Peter Isa 40:8 notes corrected ×4 locales, Rule-11 italics, ES accents, People headers); deferrals routed to Steps 2–5 (`PLAN_BASELINE_RECOVERY.md` §10). |
 | 2026-11-19 | 1 | **Baseline recovery done** (`PLAN_BASELINE_RECOVERY.md`): orphaned `333a373` recovered (+2 missed ES fixes, §0.3b tightened); `1-peter-expansion` merged (7 books); D1 amended / D7 re-confirmed by the lead. Gate: 887 tests, conservation 408 files / 20,599 units. |

@@ -71,11 +71,11 @@ A new book is the *only* content that needs code wiring. Miss one and you get a 
 | 3 | `bookLabels` | `src/app/[locale]/[book]/people/page.tsx` | localized label for cross-book pointers |
 | 4 | `EXACT_LABEL_ALIASES.inBook` | `src/infrastructure/content/people-parser.ts` | 4 locale forms (`"in acts"`/`"em atos"`/`"in apostelgeschichte"`/`"en hechos"`) — else `**In {Book}:**` parses to `undefined` |
 | 5 | `book.{slug}` + `people.inBook.{slug}` + `heroTagline` + `sectionKick` count | `src/infrastructure/i18n/messages/{en,pt-br,de,es}.json` | all 4 locales; bump the "{N} books"→"{N+1} books" count (e.g. "Six"→"Seven" for 1 Peter) |
-| 6 | content-lint dir lists | `scripts/content-lint.sh` | add the book to `CONTENT_DIRS`, `STUDY_DIRS`, `PEOPLE_FILES`, `NON_EN_PEOPLE_FILES`, `CONTEXT_FILES`; if a GS book, also `ES_NT_DIRS` + `ES_NT_CHAPTER_FILES`; and the §0.12 cross-book pointer allow-list |
+| 6 | content-lint dir lists | `scripts/content-lint.sh` | **nothing to do since Step 2** — book/file lists are generated from `content/en/*/`; only add a Hebrew Bible book to `HB_BOOKS` (must equal `HEBREW_BIBLE`) |
 | 7 | see-target allow-list | `docs/rules/RULES-CORE.md` | add slug |
 | 8 | editorial log + source stub | `docs/editorial-log/{book}.md`, `docs/source-analysis/{greek\|hebrew}/{book}-N.md` | seed before authoring |
 
-**Backstop:** `src/infrastructure/content/__tests__/activation-consistency.test.ts` mechanically checks 1↔2↔5↔6 agree. Run `pnpm test` after Phase 0 — it fails loudly on an omission.
+**Backstop:** `src/infrastructure/content/__tests__/activation-consistency.test.ts` mechanically checks registry ↔ `BOOK_ORDER` ↔ `HEBREW_BIBLE` ↔ i18n `book.*` ↔ `bookLabels` ↔ RULES-CORE allow-list ↔ editorial log ↔ content in all 4 locales ↔ lint `HB_BOOKS`; `locale-parity.test.ts` checks file sets / verse sequences / marker counts / companion entries across locales; `people-field-resolution.test.ts` checks every see-stub has an `inBook` role and every locale label resolves like EN. Run `pnpm test` after Phase 0 — it fails loudly on an omission. **EN-first pilot branch:** add the slug to `PILOT_BOOKS` (`src/domain/books/registry.ts`) so the parity checks skip it until propagation; remove it in the propagation PR.
 
 ### B.2 Phase 1 — EN authoring (from source)
 Author all EN files (per-locale manifest, ×1 for EN):

@@ -2,7 +2,7 @@
 
 **Program:** `docs/audit/LAUNCH_PROGRAM.md` — Step 2 (D13, D14, D16).
 **Date:** 2026-11-19
-**Status:** REVIEWED (independent adversarial review, §10 — 1 blocker + 14 findings folded in) → revised → execution approved by the lead ("proceed", 2026-11-19, same workflow as Step 1: plan → review → fix → implement → 5-reviewer implementation review → fix → merge when green).
+**Status:** **EXECUTED 2026-11-19** (PR #16) · REVIEWED (independent adversarial review, §10 — 1 blocker + 14 findings folded in) → revised → execution approved by the lead ("proceed", 2026-11-19, same workflow as Step 1: plan → review → fix → implement → 5-reviewer implementation review → fix → merge when green).
 **Branch:** `safety-net` (from `main` @ `7f5e3b5`) → PR → merge when the full gate **and CI** are green.
 
 ---
