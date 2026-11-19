@@ -8,7 +8,10 @@ import type {
 } from "@/domain/content/types";
 import { CONFIDENCE_KEYS } from "@/ui/shared/confidence-tone";
 import { Disclosure } from "@/ui/shared/disclosure";
-import { renderMarkdownSafe } from "@/ui/shared/render-markdown-safe";
+import {
+  renderInlineSafe,
+  renderMarkdownSafe,
+} from "@/ui/shared/render-markdown-safe";
 
 const FULFILLMENT_COLORS: Record<FulfillmentStatus, string> = {
   FULFILLED: "bg-note-lexical/15 text-note-lexical",
@@ -45,9 +48,12 @@ function ProphecyCard({
       summary={
         <>
           <span className="flex min-w-0 flex-col gap-1">
-            <span className="font-[family-name:var(--font-reading)] text-[1.05rem] text-text-primary">
-              {entry.title}
-            </span>
+            <span
+              className="font-[family-name:var(--font-reading)] text-[1.05rem] text-text-primary"
+              dangerouslySetInnerHTML={{
+                __html: renderInlineSafe(entry.title),
+              }}
+            />
             <span className="font-[family-name:var(--font-mono)] text-[11px] text-text-muted">
               {entry.verseRef}
             </span>
@@ -70,18 +76,24 @@ function ProphecyCard({
           <p className="text-xs font-semibold uppercase tracking-wider text-text-muted mb-1">
             {t("prophecy.fields.textSays")}
           </p>
-          <p className="text-sm leading-relaxed text-text-primary font-[family-name:var(--font-reading)]">
-            {entry.textSays}
-          </p>
+          <p
+            className="text-sm leading-relaxed text-text-primary font-[family-name:var(--font-reading)]"
+            dangerouslySetInnerHTML={{
+              __html: renderMarkdownSafe(entry.textSays, "note"),
+            }}
+          />
         </div>
         {entry.context && (
           <div>
             <p className="text-xs font-semibold uppercase tracking-wider text-text-muted mb-1">
               {t("prophecy.fields.context")}
             </p>
-            <p className="text-sm leading-relaxed text-text-secondary">
-              {entry.context}
-            </p>
+            <p
+              className="text-sm leading-relaxed text-text-secondary"
+              dangerouslySetInnerHTML={{
+                __html: renderMarkdownSafe(entry.context, "note"),
+              }}
+            />
           </div>
         )}
         {entry.readings.length > 0 && (
@@ -113,14 +125,20 @@ function ProphecyCard({
           </div>
         )}
         {entry.fulfillmentNotes && (
-          <p className="text-xs text-text-muted italic">
-            {entry.fulfillmentNotes}
-          </p>
+          <p
+            className="text-xs text-text-muted italic"
+            dangerouslySetInnerHTML={{
+              __html: renderMarkdownSafe(entry.fulfillmentNotes, "note"),
+            }}
+          />
         )}
         {entry.scholarlyNote && (
-          <p className="text-xs text-text-muted italic mt-2 pt-2 border-t border-border-muted">
-            {entry.scholarlyNote}
-          </p>
+          <p
+            className="text-xs text-text-muted italic mt-2 pt-2 border-t border-border-muted"
+            dangerouslySetInnerHTML={{
+              __html: renderMarkdownSafe(entry.scholarlyNote, "note"),
+            }}
+          />
         )}
       </div>
     </Disclosure>
