@@ -7,12 +7,13 @@
     "dev": "next dev --turbopack -p 3001",
     "build": "next build",
     "start": "next start -p 3001",
-    "lint": "biome check src/",
+    "lint": "biome check src/ scripts/",
     "test": "vitest run",
     "test:watch": "vitest",
     "typecheck": "tsc --noEmit",
     "content:lint": "bash scripts/content-lint.sh",
-    "content:lint:warn": "bash scripts/content-lint.sh --warn-only"
+    "content:lint:warn": "bash scripts/content-lint.sh --warn-only",
+    "content:sweep": "node scripts/content-sweep.mjs"
   },
   "dependencies": {
     "@swc/helpers": "^0.5.21",

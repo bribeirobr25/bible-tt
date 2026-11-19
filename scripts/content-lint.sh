@@ -93,6 +93,12 @@ for v in BOOKS CONTENT_DIRS STUDY_DIRS PEOPLE_FILES NON_EN_PEOPLE_FILES CONTEXT_
 done
 
 ALLOWLIST_FILE="scripts/lint-allowlist.txt"
+# Every suppression is recorded here so entries that suppress nothing can be
+# reported (Launch Program Step 3, PLAN_CONTENT_SWEEP.md §7). The sentinel line
+# keeps the file non-empty for the NR==FNR awk idiom below.
+ALLOW_USED="$(mktemp "${TMPDIR:-/tmp}/lint-allow-used.XXXXXX")" || { echo "[TOOL ERROR allowlist] mktemp failed" >&2; exit 2; }
+trap 'rm -f "$ALLOW_USED"' EXIT
+echo "#sentinel" > "$ALLOW_USED"
 
 # filter_allowlist <rule_id>
 # Reads grep output (file:line:text) on stdin, drops lines whose <file>|<text>
@@ -104,7 +110,7 @@ filter_allowlist() {
     cat
     return 0
   fi
-  awk -v rule="$rule_id" -v alf="$ALLOWLIST_FILE" '
+  awk -v rule="$rule_id" -v alf="$ALLOWLIST_FILE" -v used="$ALLOW_USED" '
     BEGIN {
       prefix = rule "|"
       while ((getline line < alf) > 0) {
@@ -121,7 +127,8 @@ filter_allowlist() {
       j = index(rest, ":")
       text = substr(rest, j+1)
       key = file "|" text
-      if (!(key in allow)) print $0
+      if (key in allow) print prefix key >> used
+      else print $0
     }
   '
 }
@@ -477,6 +484,14 @@ check_pattern "legacy-header" "Malformed section header (underscore after letter
 lint_grep "legacy-f9" '>\{entry\.(claimType|confidence)\}<' src/ui/
 ui_f9="$LINT_OUT"
 emit "legacy-f9" "Raw enum values reach rendering layer (F9-class)" "$ui_f9"
+
+# Allow-list hygiene: an entry that suppressed nothing in this run is stale
+# (its content line changed or the rule narrowed). Blocking.
+if [ -f "$ALLOWLIST_FILE" ]; then
+  unused="$(awk 'NR==FNR { u[$0] = 1; next } /^#/ || /^[[:space:]]*$/ { next } !($0 in u) { print FILENAME ":" FNR ": " substr($0, 1, 120) }' "$ALLOW_USED" "$ALLOWLIST_FILE")" \
+    || tool_error "allowlist" "unused-entry check failed"
+  emit "allowlist" "Allow-list entry suppressed nothing (stale — remove it)" "$unused"
+fi
 
 # ============================================================
 # Summary

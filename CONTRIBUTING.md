@@ -22,11 +22,12 @@ pnpm dev
 |---|---|
 | `pnpm dev` | Dev server with Turbopack — http://localhost:3001 |
 | `pnpm build` | Production build |
-| `pnpm test` | All Vitest unit tests (parsers, render-safe, conservation gate, locale parity, raw-count reconciliation, people-field resolution, i18n parity) |
-| `pnpm lint` | Biome linter (`src/`) |
+| `pnpm test` | All Vitest unit tests (parsers, render-safe, conservation gate, locale parity, raw-count reconciliation, people-field resolution, i18n parity, allow-list freshness, content-sweep fixtures) |
+| `pnpm lint` | Biome linter (`src/` + `scripts/`) |
 | `pnpm typecheck` | `tsc --noEmit` |
 | `pnpm content:lint` | Hardened content lint (`scripts/content-lint.sh`); allow-list at `scripts/lint-allowlist.txt` |
 | `pnpm content:lint:warn` | Same lint, non-blocking |
+| `pnpm content:sweep` | Read-only rule-compliance scan → `docs/audit/content-sweep/` (not a gate; Step 4 promotes cleared classes into `content-lint`) |
 
 ---
 

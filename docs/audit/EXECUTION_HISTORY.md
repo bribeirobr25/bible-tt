@@ -11,6 +11,18 @@ in `docs/audit/PENDING.md`.
 
 ---
 
+## Launch-Readiness Program — Step 3: Content sweep (2026-11-19)
+
+Per `docs/audit/PLAN_CONTENT_SWEEP.md` (independent adversarial plan review: 1 blocker + 21 findings, all resolved — §13) under `docs/audit/LAUNCH_PROGRAM.md`. Branch `content-sweep`. **No content changed** — the step produces the Step-4 work list.
+
+- **Tool** — `pnpm content:sweep` (`scripts/content-sweep.mjs` + `scripts/sweep/`): zero-dependency Node; every line gets a zone (front · toc · guide · overview · continuous reading · verse text · note · apparatus) and a render state (now / after-4a / not rendered, derived from the parsers + UI); 19 checks S1–S19 (divine name, casing, glossary locks, ψυχή, names vs the RULES-HB/GS tables, Rule 30 parity + scope, Rule 11 incl. the PT T-20 class, front matter, meta leaks, stamps, ES orthography, mojibake, DE Jehudim, PT register, renderer-hostile markup, χριστός, Tier-2 length, הִנֵּה lock). Deterministic output: `docs/audit/content-sweep/{findings.tsv,summary.md,names.tsv}`.
+- **Findings** — `docs/audit/CONTENT_SWEEP_FINDINGS.md`: ES orthography ≈ 2,100 tokens in 72 files (was estimated ~210); reader-visible editorial IDs / repo paths / process words; 155 "LORD/SENHOR/HERR/SEÑOR" in TT voice; 148 stale pre-v3.2 name-policy statements; continuous reading ≠ verse text in 58 EN verses; Rule 30 scope (Acts 2:17/2:34/3:25, 1 Peter 1:16/2:6); T-20 sized (39 pivot-likely verses); glossary-lock breaks in verse text (πάσχα, μετάνοια); 8 lead decisions (L1–L8). Precision measured per class on seeded samples.
+- **Guards** — 36 fixture tests (each check positive + negative; real-corpus smoke; recall anchors incl. the exact T-20 count 190 and the 9 mojibake lines; determinism); `lint-allowlist.test.ts`; content-lint now fails on an allow-list entry that suppressed nothing (22 stale §0.8 entries removed; lint output otherwise byte-identical); `pnpm lint` covers `scripts/`.
+
+**Gates:** 967 tests / 19 files (was 929 / 17); conservation 408 / 20,599 unchanged; Biome (src + scripts); `tsc`; content-lint (same 3 warn-only rules); build.
+
+---
+
 ## Launch-Readiness Program — Step 2: Safety net (2026-11-19)
 
 Per `docs/audit/PLAN_SAFETY_NET.md` (independent adversarial review: 1 blocker + 14 findings folded in) under `docs/audit/LAUNCH_PROGRAM.md`. Branch `safety-net`, PR #16. Goal: make the gate trustworthy before Steps 3–5 change content at scale.
