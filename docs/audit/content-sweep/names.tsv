@@ -1,0 +1,1367 @@
+class	locale	translit	familiar	count	books
+tabled+multi-translit	de	Yeshua	Jesus	67	1-peter,acts,john,luke,mark,matthew
+tabled+multi-translit	de	Yochanan	Johannes	56	acts,john,luke,mark,matthew
+tabled+multi-translit	de	Yerushalayim	Jerusalem	40	1-peter,acts,john,luke,mark,matthew
+tabled+multi-translit	de	Kefa	Petrus	38	1-peter,acts,john,mark
+tabled+multi-translit	de	Miryam	Maria	37	1-peter,acts,luke,mark,matthew
+untabled+multi-translit	de	Avraham	Abraham	29	1-peter,acts,genesis,john,luke,matthew
+tabled+multi-translit	de	Yosef	Josef	18	acts,john,luke,matthew
+conflict	de	Messias	Jesus	15	1-peter,acts
+tabled+multi-translit	de	Shimon	Simon	15	acts,john,mark
+untabled+multi-translit	de	Zecharyah	Zacharias	15	luke
+conflict	de	Beit-Lechem	Bethlehem	13	luke
+tabled+multi-translit	de	Noach	Noah	13	1-peter,genesis,luke
+conflict	de	Yafet	Jafet	13	genesis
+tabled+multi-translit	de	Yarden	Jordan	13	john,luke,mark,matthew
+tabled+multi-translit	de	Galil	Galiläa	12	acts,john,luke,mark,matthew
+untabled+multi-translit	de	Gavriel	Gabriel	12	luke
+untabled+multi-translit	de	Mattityahu	Matthias	12	acts
+untabled+multi-translit	de	Ya'aqov	Jakobus	12	acts,mark
+untabled+multi-translit	de	Yehudah	Judäa	12	acts,john,luke,mark
+untabled+multi-translit	de	Elisheva	Elisabeth	11	luke
+untabled+multi-translit	de	Yehudah	Juda	11	luke,matthew
+untabled+multi-translit	de	Channah	Hanna	10	luke
+tabled	de	Chanokh	Henoch	10	acts,genesis,luke
+tabled	de	Perushim	Pharisäer	10	mark
+tabled+multi-translit	de	Yeshuas	Jesus	10	acts,john,mark,matthew
+tabled	de	Cham	Ham	9	genesis
+tabled+multi-translit	de	Natseret	Nazareth	9	john,luke,matthew
+tabled+multi-translit	de	Philippos	Philippus	9	acts,john,luke,mark
+untabled+multi-translit	de	Zavdai	Zebedäus	9	mark
+tabled+multi-translit	de	Avram	Abram	8	genesis
+untabled	de	Bet-Tsaidah	Betsaida	8	john
+tabled	de	Kfar Nachum	Kapernaum	8	john,mark
+tabled+multi-translit	de	Mosheh	Mose	8	acts,john,luke,matthew
+conflict	de	Isa	Jesus	7	1-peter,acts,john,matthew
+untabled	de	Markos	Markus	7	1-peter
+conflict	de	Shimon	Simeon	7	luke
+untabled+multi-translit	de	Ya'aqov	Jakob	7	acts,luke,matthew
+untabled+multi-translit	de	Avrams	Abrams	6	genesis
+untabled+multi-translit	de	Bezug JHWH	Wahrscheinlich	6	luke
+untabled	de	Chalfai	Alphäus	6	mark
+conflict	de	Kfar Nachum	Kafarnaum	6	mark
+conflict	de	Moshe	Mose	6	1-peter,mark
+conflict	de	Natzeret	Nazareth	6	luke
+conflict	de	Yohannan	Johannes	6	john
+tabled+multi-translit	de	Eliyahu	Elia	5	acts,john,matthew
+untabled	de	Juden	Yehudim	5	acts
+tabled+multi-translit	de	Kenaan	Kanaan	5	genesis
+tabled	de	Lemekh	Lamech	5	genesis,luke
+tabled	de	Nikodemos	Nikodemus	5	john
+untabled	de	Petrus	Brief	5	1-peter
+untabled	de	Sarah	Sara	5	1-peter
+untabled+multi-translit	de	Silvanus	Silas	5	1-peter
+untabled+multi-translit	de	Transliteriert	Vertraut	5	1-peter,acts,genesis,luke
+untabled+multi-translit	de	Yitschaq	Isaak	5	acts,genesis,luke,matthew
+untabled+multi-translit	de	Artikel	Archäologie	4	genesis
+tabled+multi-translit	de	Beyt-Lechem	Bethlehem	4	matthew
+tabled+multi-translit	de	Chava	Eva	4	genesis,matthew
+untabled	de	Codex Bezae	D	4	acts,john,luke,matthew
+conflict	de	Eliyahu	Elija	4	acts,john,luke
+untabled	de	Erekh	Uruk	4	genesis
+conflict	de	Jeschua	Jesus	4	acts,john,luke
+untabled	de	Kefas	Petrus'	4	acts
+untabled+multi-translit	de	Mattai	Matthäus	4	mark
+untabled+multi-translit	de	Mattityahu	Matthäus	4	acts
+untabled	de	Miqwa'ot	Jewish Ritual Baths	4	acts,john,luke
+conflict	de	Mirjam	Maria	4	luke,matthew
+tabled+multi-translit	de	Mitsrayim	Ägypten	4	genesis,matthew
+untabled+multi-translit	de	Natzeret	Nazaret	4	luke,mark
+untabled	de	Primär	Rabbinisch	4	genesis
+untabled	de	Qanah	Kana	4	john
+tabled	de	Qenan	Kenan	4	genesis,luke
+untabled	de	Sekundär	Islamisch	4	genesis
+untabled+multi-translit	de	Shelomoh	Salomo	4	luke,matthew
+tabled+multi-translit	de	Shet	Set	4	genesis,luke
+untabled+multi-translit	de	Shmuel	Samuel	4	acts
+untabled+multi-translit	de	Theophilos	Theophilus	4	acts,luke
+untabled	de	Yehudah	Judas	4	acts
+conflict	de	Yesha'yahu	Jesaja	4	luke,mark
+untabled	de	Abel	Hirte	3	genesis
+untabled	de	Babylon	Bavel	3	1-peter
+untabled	de	Bavel	Babylon	3	1-peter,matthew
+untabled+multi-translit	de	Channahs	Hannas	3	luke
+untabled	de	Dawud	David	3	acts,luke
+untabled+multi-translit	de	Elischeva	Elisabeth	3	luke
+untabled	de	Hinweis	Sammeleintrag	3	1-peter,acts
+untabled+multi-translit	de	Ibrahim	Abraham	3	acts,genesis,luke
+untabled	de	Kain	Bauer	3	genesis
+untabled	de	Kasdim	Chaldäer	3	genesis
+untabled	de	Maria	Mutter	3	acts,luke,matthew
+tabled	de	Metushelach	Methusalem	3	genesis,luke
+tabled+multi-translit	de	Miryams	Maria	3	luke
+conflict	de	Mizrajim	Ägypten	3	genesis
+tabled	de	Qayin	Kain	3	genesis
+untabled+multi-translit	de	Schelomoh	Salomo	3	luke
+untabled+multi-translit	de	Schimon	Simeon	3	luke
+untabled+multi-translit	de	Sekundärliteratur	Archäologie	3	genesis
+untabled	de	Septuaginta	Rahlfs-Hanhart	3	1-peter,acts,luke
+untabled+multi-translit	de	Shimon Kefa	Simon Petrus	3	john,mark
+untabled+multi-translit	de	Shimons	Simeon	3	luke
+untabled	de	Taddai	Thaddäus	3	mark
+tabled+multi-translit	de	Tagen Noachs	Noah	3	1-peter
+untabled	de	Tsiyon	Zion	3	1-peter
+untabled+multi-translit	de	Töchtern Aharons	Aaron	3	luke
+conflict	de	Yahya	Johannes	3	luke
+untabled+multi-translit	de	Yehudah	Judas Iskariot	3	acts
+conflict	de	Šekhem	Sichem	3	genesis
+untabled	de	Abraham	Israels Bundeswurzel	2	luke
+untabled	de	Alle	Lukas-Text	2	luke
+conflict	de	Artikel	Nimrod	2	genesis
+untabled	de	Artikel	Paläoklima	2	genesis
+untabled+multi-translit	de	Artikel	Bund	2	genesis
+untabled	de	Assur	Assyrien	2	genesis
+untabled+multi-translit	de	Bar-Talmai	Bartholomäus	2	mark
+untabled+multi-translit	de	Bartholomaios	Bartholomäus	2	acts
+tabled+multi-translit	de	Beyt-El	Bethel	2	genesis
+tabled+multi-translit	de	Bruder Shimon	Simon	2	john,mark
+untabled+multi-translit	de	C'-B'-A' Chiasmus	Spiegelstruktur	2	genesis
+untabled+multi-translit	de	Channahs	Hanna	2	luke
+untabled	de	Chanokhs	Henochs	2	genesis
+untabled+multi-translit	de	Charlesworth	Hrsg.	2	acts,luke
+untabled+multi-translit	de	Codex Vaticanus	B	2	john,matthew
+tabled+multi-translit	de	Dieser Yeshua	Jesus	2	acts
+untabled+multi-translit	de	Durch Silvanus	Silas	2	1-peter
+tabled+multi-translit	de	Eintauchung Yochanans	Johannes	2	acts
+untabled	de	Evyatar	Abjatar	2	mark
+untabled	de	Gavriels	Gabriels	2	luke
+untabled	de	Geist	Schrägstrich-Regel	2	luke,matthew
+conflict	de	Gesalbten	Jesus	2	acts
+untabled+multi-translit	de	Gott Avrahams	Abraham	2	acts
+untabled	de	Himmel	Bat-Qol	2	luke
+reversed+multi-translit	de	Jesus	Yeshua	2	luke
+untabled+multi-translit	de	Jibril	Gabriel	2	acts,luke
+conflict	de	Jochanan	Johannes	2	john,luke
+untabled	de	Josef	Joseph	2	luke
+untabled+multi-translit	de	Kapharnachum	Kafarnaum	2	john
+untabled	de	Kena'ani	Kananäer	2	mark
+tabled+multi-translit	de	Kind Yeshua	Jesus	2	luke
+untabled	de	Kittim	Zypern	2	genesis
+untabled+multi-translit	de	Kraft Eliyahus	Elija	2	luke
+tabled+multi-translit	de	Land Kenaan	Kanaan	2	genesis
+untabled+multi-translit	de	Lev	Opfer	2	1-peter
+conflict	de	Mosheh	Moses	2	john
+conflict	de	Musa	Mose	2	acts,genesis
+untabled+multi-translit	de	Mutter Shemu'els	Samuel	2	luke
+tabled+multi-translit	de	Nachfolger Yeshuas	Jesus	2	acts
+tabled	de	Nachor	Nahor	2	genesis,luke
+tabled+multi-translit	de	Namen Yochanan	Johannes	2	luke
+conflict	de	Natseret	Nazaret	2	john,luke
+untabled	de	Perikope	Textabschnitt	2	john,matthew
+untabled	de	Pesach	Passa	2	john
+untabled+multi-translit	de	Pfingsten	Shavuot	2	acts
+untabled+multi-translit	de	Pfingsten	Schawuot	2	acts
+untabled	de	Primär	Mittelalterlich-Jüdisch	2	genesis
+untabled	de	Primär	Patristisch	2	genesis
+untabled	de	Primär	Pseudepigraphen	2	genesis
+untabled+multi-translit	de	Primärquelle	Rezeption	2	genesis
+tabled+multi-translit	de	Prophet Yeshayahu	Jesaja	2	john
+untabled+multi-translit	de	Propheten Yoel	Joel	2	acts
+untabled	de	Qayafa	Kajaphas	2	luke
+untabled+multi-translit	de	Schemu'el	Samuel	2	luke
+untabled	de	Sekundär	AO Kontext	2	genesis
+untabled	de	Sekundär	Göttlicher Rat	2	genesis
+untabled	de	Sekundär	AO Arche	2	genesis
+untabled+multi-translit	de	Sekundär	Sumerisch	2	genesis
+untabled	de	Sekundär	Omina	2	genesis
+untabled+multi-translit	de	Sekundärliteratur	Rezeption	2	genesis
+untabled+multi-translit	de	Shimshon	Simson	2	luke,matthew
+untabled	de	Shlomohs	Salomos	2	acts
+untabled	de	Shomron	Samaria	2	acts
+conflict	de	Stadt Natzeret	Nazareth	2	luke
+untabled	de	Tebah	Arche	2	genesis
+untabled	de	Toma	Thomas	2	mark
+untabled+multi-translit	de	Tsidon	Sidon	2	mark
+untabled	de	Tsor	Tyrus	2	mark
+untabled+multi-translit	de	Variante	Codex Bezae	2	luke
+untabled+multi-translit	de	Vater Zavdai	Zebedäus	2	mark
+untabled+multi-translit	de	Wahl Mattityahus	Matthias	2	acts
+untabled	de	Worte Jescha'jahus	Jesajas	2	luke
+untabled+multi-translit	de	Yehudah Ish-Keriot	Judas Iskariot	2	mark
+tabled	de	Yered	Jered	2	genesis,luke
+conflict	de	Yeshua	Möglich	2	luke
+untabled+multi-translit	de	Yitzchak	Isaak	2	luke
+untabled	de	Yosef Barsabbas	Joseph Barsabbas	2	acts
+tabled+multi-translit	de	Yosefs	Josef	2	luke
+untabled	de	Zabur	Psalmen	2	acts,luke
+untabled+multi-translit	de	Zekharyah	Zacharias	2	luke
+untabled+multi-translit	de	Zidon	Sidon	2	genesis
+untabled	de	Zwischen Yoram	Joram	2	matthew
+untabled	de	Abraham	Avraham	1	luke
+untabled	de	Abstammung	Aharons Linie	1	luke
+tabled+multi-translit	de	Abstammung Yosefs	Josef	1	luke
+untabled	de	Achazyahu	Ahasja	1	matthew
+untabled	de	Agent	Gott	1	genesis
+untabled	de	Akitu	Neujahrsfest	1	genesis
+untabled	de	Alle	Apg-Text	1	acts
+untabled	de	Alle	Acts-Text	1	acts
+untabled+multi-translit	de	Am Pfingstfest	Shavuot	1	acts
+untabled	de	Amanuensis	Sekretärs	1	1-peter
+untabled	de	Amatsyahu	Amazja	1	matthew
+untabled	de	Anat	Kriegsgöttin	1	genesis
+untabled	de	Angesichts	Annahme	1	genesis
+untabled+multi-translit	de	Ankündigung Yitschaqs	Isaak	1	1-peter
+tabled+multi-translit	de	Apostel Kefa	Petrus	1	1-peter
+untabled	de	Arche	Kasten	1	genesis
+untabled	de	Archelaos	Archelaus	1	matthew
+untabled	de	Artikel	Genealogie	1	genesis
+untabled	de	Artikel	Nuzi	1	genesis
+untabled	de	Artikel	AO Kunst	1	genesis
+untabled	de	Artikel	Archäologisch	1	genesis
+untabled	de	Artikel	Chiasmus	1	genesis
+untabled	de	Aschera	Gefährtin Els	1	genesis
+untabled	de	Atrahasis-Epos	Fluterzählung	1	genesis
+untabled	de	Auferstehung	Leib	1	john
+tabled+multi-translit	de	Auferstehung Yeshuas	Jesus	1	1-peter
+tabled+multi-translit	de	Auftreten Yochanans	Johannes	1	luke
+untabled	de	Auguration	Vogelbeobachtung	1	genesis
+untabled+multi-translit	de	Avrahams	Abrahams	1	luke
+conflict	de	Avram	Abraham	1	genesis
+untabled	de	Baal	Sturm-Gott	1	genesis
+untabled	de	Bar-Naba	Barnabas	1	1-peter
+untabled+multi-translit	de	Bar-Tholmai	Bartholomäus	1	john
+untabled+multi-translit	de	Bauckham	Hrsg.	1	acts
+untabled	de	Bavel	Babel	1	genesis
+untabled	de	Bedingung	Vertrauen	1	john
+untabled	de	Beelzevul	Beelzebul	1	mark
+untabled	de	Begriff	Außenstehenden-Etikett	1	1-peter
+untabled	de	Beinamen	Barsabbas	1	acts
+untabled	de	Beispiel	Schreibvorlage	1	1-peter
+untabled	de	Ben Sira	Sirach	1	john
+untabled	de	Besiedlung Kanaans	Josua	1	genesis
+untabled	de	Bet-Tsaidah	Herkunft	1	john
+tabled	de	Beyt-Anyah	Bethanien	1	john
+untabled+multi-translit	de	Bindung Jitschaqs	Isaaks	1	luke
+untabled	de	Bo'az	Boas	1	luke
+untabled	de	Boden	Berufung	1	genesis
+untabled+multi-translit	de	Bote Gavriel	Gabriel	1	luke
+tabled+multi-translit	de	Bruder Hevel	Abel	1	genesis
+untabled+multi-translit	de	Bruder Shimon Kefa	Simon Petrus	1	john
+conflict	de	Bräutigam	Jesus	1	john
+tabled+multi-translit	de	Brüdern Yeshuas	Jesus	1	acts
+untabled	de	C	Datierung	1	1-peter
+untabled+multi-translit	de	Carson	Hrsg.	1	1-peter
+untabled	de	Chana	Anna	1	matthew
+untabled	de	Chanan	Annas	1	luke
+untabled+multi-translit	de	Chanan	Hannas	1	luke
+untabled	de	Chanans	Hannas'	1	luke
+untabled	de	Charan	Stadt	1	genesis
+untabled	de	Charan	Harran	1	genesis
+untabled	de	Chronologischer Rahmen	Flut-Zeitlinie	1	genesis
+untabled+multi-translit	de	Codex Alexandrinus	A	1	john
+untabled+multi-translit	de	Cognomen	Justus	1	acts
+untabled	de	D	Deuteronomist	1	genesis
+untabled	de	Dasein	Schöpfung	1	john
+untabled	de	Diadochenkriege	Kriege von Alexanders Nachfolgern	1	genesis
+untabled+multi-translit	de	Dienst Johannes'	Yochanan	1	luke
+tabled+multi-translit	de	Diesen Yeshua	Jesus	1	acts
+untabled+multi-translit	de	Ding	Gold	1	1-peter
+untabled	de	Doppelauftrag	Nutzen UND Schützen	1	genesis
+untabled	de	E	Elohist	1	genesis
+untabled+multi-translit	de	Eintauchung Jesus'	Yeshua	1	luke
+untabled	de	El	Hauptgott	1	genesis
+untabled	de	Elam	Südwestiran	1	genesis
+conflict	de	Elijahu	Elia	1	luke
+untabled+multi-translit	de	Elisabet	Elisheva	1	luke
+untabled+multi-translit	de	Elischevas	Elisabeths	1	luke
+untabled	de	Elisheva	Elisabet	1	luke
+untabled+multi-translit	de	Eliyahu-Auftrag	Elija	1	luke
+untabled	de	Elohim-Rede	Urgeschichte	1	genesis
+tabled+multi-translit	de	Empfängnis Yeshuas	Jesus	1	luke
+tabled+multi-translit	de	Empfängnis Yochanans	Johannes	1	luke
+untabled	de	Engel	Wächter	1	genesis
+conflict	de	Engelstraum Jossef	Josef	1	matthew
+tabled	de	Enosh	Enosch	1	genesis
+untabled+multi-translit	de	Enzyklopädie	Archäologie	1	genesis
+untabled	de	Erde	ERSTES Auftreten	1	genesis
+untabled	de	Erhebung	Kreuzigung	1	john
+untabled	de	Eridu-Genesis	Ziusudra	1	genesis
+tabled+multi-translit	de	Erkundigung Miryams	Maria	1	luke
+untabled+multi-translit	de	Erlösung Jeruschalajims	Jerusalems	1	luke
+untabled+multi-translit	de	Erlösung Yerushalayims	Jerusalems	1	luke
+tabled+multi-translit	de	Erlösung Yerushalayims	Jerusalem	1	luke
+untabled+multi-translit	de	Erscheint Zecharyah	Zacharias	1	luke
+untabled+multi-translit	de	Euphrat	VERIFIZIERTE Identifikation	1	genesis
+untabled	de	Extispizium	Untersuchung von Tiereingeweiden	1	genesis
+untabled	de	F	Rezeptionsgeschichte	1	1-peter
+untabled+multi-translit	de	F	Rezeption	1	1-peter
+untabled+multi-translit	de	Familienname	Publius Sulpicius Quirinius	1	luke
+untabled	de	Familiären	Mutter-Sohn	1	john
+tabled+multi-translit	de	Fluss Yarden	Jordan	1	mark
+untabled	de	Flut	Gericht	1	genesis
+untabled+multi-translit	de	Frau Aharons	Aaron	1	luke
+tabled+multi-translit	de	Frau Chava	Eva	1	genesis
+untabled+multi-translit	de	Frau Elisheva	Elisabeth	1	luke
+conflict	de	Freund	Johannes	1	john
+untabled	de	Fronarbeit	Pflichtdienst	1	genesis
+untabled	de	Gaius Octavius	Octavian	1	luke
+untabled	de	Galilee	Lake Kinneret	1	mark
+untabled+multi-translit	de	Gavriel-Tradition	Gabriel	1	luke
+untabled+multi-translit	de	Gavriels	Gabriel	1	luke
+untabled+multi-translit	de	Gavriels Ankündigung Jochanans	Johannes'	1	luke
+untabled+multi-translit	de	Gebirge	Plural	1	genesis
+untabled	de	Geburt	Wasser	1	john
+untabled	de	Geburt	Geist	1	john
+tabled+multi-translit	de	Geburt Yochanans	Johannes	1	luke
+tabled+multi-translit	de	Geburt Yosefs	Josef	1	luke
+untabled	de	Gegenwart	Schaubrote	1	mark
+untabled	de	Gegner	Linie Hams	1	genesis
+untabled	de	Geist	Schrägstrichpolitik	1	matthew
+untabled	de	Gesperrte Formeln	Mehrfaches Auftreten	1	genesis
+untabled	de	Gott	Allah	1	acts
+untabled+multi-translit	de	Gott Avrahams	Abrahams	1	acts
+tabled+multi-translit	de	Gott Avram	Abram	1	john
+untabled	de	Gottesname	Erzählung	1	genesis
+untabled	de	Griechen	Yafet	1	genesis
+untabled	de	Große	Herodes I.	1	matthew
+untabled	de	Grundfesten Tsiyons	Zions	1	1-peter
+tabled+multi-translit	de	Gruß Miryams	Maria	1	luke
+untabled	de	HB-Muster	Sinai	1	mark
+untabled	de	Hanna	Hannah	1	luke
+untabled+multi-translit	de	Hannah	Hanna	1	luke
+conflict	de	Haran	Person	1	genesis
+untabled+multi-translit	de	Haus Ja'aqovs	Jakobs	1	luke
+untabled+multi-translit	de	Haus Ya'aqovs	Jakob	1	luke
+untabled	de	Hebräischen Bibel	Tanach	1	genesis
+untabled	de	Heiligkeit	Levitikus	1	1-peter
+untabled	de	Henoch	Sohn von Kain	1	genesis
+conflict	de	Herodes Antipas	Galiläa	1	mark
+untabled+multi-translit	de	Herr	Wahrscheinlich	1	luke
+tabled+multi-translit	de	Herr Yeshua	Jesus	1	acts
+conflict	de	Herrscher	Herodes	1	matthew
+tabled+multi-translit	de	Hevel	Abel	1	genesis
+untabled+multi-translit	de	Himmel	Plural	1	genesis
+untabled	de	Hinweis	Crux	1	acts
+untabled	de	I	Historisches Umfeld	1	1-peter
+untabled+multi-translit	de	Iakobos	Jakobus	1	matthew
+untabled	de	Iblis	Satan	1	genesis
+untabled+multi-translit	de	Ibrahims	Abrahams	1	1-peter
+untabled	de	Idumäa	Edom	1	mark
+untabled+multi-translit	de	Ishaq	Isaak	1	genesis
+untabled	de	Isma'il	Ismael	1	genesis
+untabled	de	Israel	Nord	1	genesis
+untabled	de	Israel	Shems Linie	1	genesis
+untabled	de	Israel	Shem	1	genesis
+untabled+multi-translit	de	Israels Erwählung	Isaak	1	luke
+untabled	de	J	Jahwist	1	genesis
+untabled	de	JHWH-Rede	Vätererzählung	1	genesis
+untabled+multi-translit	de	Ja'aqow	Jakob	1	john
+untabled	de	Jabne	Jamnia	1	john
+untabled	de	Jericho	Winterpalast	1	matthew
+reversed	de	Jerusalem	Yerushalayim	1	luke
+untabled+multi-translit	de	Jesus'	Yeshua	1	luke
+untabled	de	Joaqim	Joachim	1	matthew
+untabled+multi-translit	de	Jochanans	Johannes'	1	luke
+untabled+multi-translit	de	Johanans	Johannes'	1	matthew
+reversed+multi-translit	de	Johannes	Yochanan	1	luke
+untabled+multi-translit	de	Josefs	Josephs	1	luke
+untabled+multi-translit	de	Joseph Barsabbas	Justus	1	acts
+untabled	de	Juda	Süd	1	genesis
+untabled	de	Jungfrauengeburt Isas	Jesuss	1	matthew
+untabled	de	Kainan	Καϊνάν	1	genesis
+untabled	de	Kajaphas	Josef Kajaphas	1	luke
+untabled	de	Kalkstein	Kreide	1	john
+conflict	de	Kanaanitern	Kanaan	1	genesis
+untabled	de	Kanaans Nachkommen	Kanaaniter	1	genesis
+untabled	de	Kategorie	Sündenbekenntnis	1	matthew
+untabled	de	Kinneret	See Gennesaret	1	john
+untabled	de	Kinneret	See Genezareth	1	john
+untabled	de	Kinneret	Galiläischen Meer	1	john
+untabled	de	Kleinprophet	Michas Bethlehem-Orakel	1	matthew
+tabled+multi-translit	de	Knabe Yeshua	Jesus	1	luke
+conflict	de	Knecht Jeschua	Jesus	1	acts
+tabled+multi-translit	de	Knecht Yeshua	Jesus	1	acts
+untabled	de	Kraft Elijahus	Elias	1	luke
+untabled+multi-translit	de	Kults	Lev	1	1-peter
+untabled	de	Kypros	Nabatäerin	1	matthew
+untabled	de	Lake	Loeb	1	john
+untabled	de	Land	Dilmun	1	genesis
+untabled	de	Lasha	Lage UNSICHER	1	genesis
+untabled	de	Lehnübersetzung	Calque	1	john
+tabled+multi-translit	de	Leib Yeshua	Jesus	1	john
+untabled+multi-translit	de	Lesart	A	1	john
+untabled+multi-translit	de	Lesart	B	1	john
+untabled+multi-translit	de	Levitikus	Opfer	1	1-peter
+untabled	de	Literarischer Plural	Autorenkonvention	1	genesis
+untabled	de	Lukas	Levi	1	mark
+conflict	de	Macht	Nimrod	1	genesis
+conflict	de	Mahalal'el	Mahalalel	1	luke
+untabled+multi-translit	de	Makro-Chiasmus	Spiegelstruktur	1	genesis
+untabled	de	Marduk	Hauptgott Babylons	1	genesis
+reversed+multi-translit	de	Maria	Miryam	1	luke
+untabled	de	Mauern Jerusalems	Nehemia	1	genesis
+untabled	de	Megiddo	Eisenzeit Israel	1	genesis
+untabled	de	Memphitische Theologie	Shabaka-Stein	1	genesis
+untabled	de	Messias	Angesprochener	1	acts
+untabled	de	Metallarbeit	Tuval-Kain	1	genesis
+untabled	de	Miqwa'ot	Ritualbädern	1	john
+untabled	de	Miqwa'ot	Ritual Immersion Baths	1	matthew
+untabled+multi-translit	de	Mit Shimon Kefa	Simon Petrus	1	mark
+tabled+multi-translit	de	Mit Yochanan	Johannes	1	acts
+conflict	de	Mitte	Bethel	1	genesis
+untabled	de	Morgenröte	Licht	1	luke
+conflict	de	Mosche	Mose	1	john
+untabled	de	Mot	Tod	1	genesis
+untabled	de	Mushki	Phrygien	1	genesis
+untabled	de	Musik	Juval	1	genesis
+untabled+multi-translit	de	Mutter	Miryam	1	mark
+untabled	de	Mutter	Kypros	1	matthew
+tabled+multi-translit	de	Mutter Yeshuas	Jesus	1	acts
+untabled+multi-translit	de	Nachschlagewerk	Geographie	1	genesis
+untabled+multi-translit	de	Name	Vertraut	1	luke
+untabled+multi-translit	de	Name Shimon	Simeon	1	luke
+tabled+multi-translit	de	Name Yeshua	Jesus	1	luke
+untabled	de	Namen	Bat-Sheva	1	matthew
+tabled+multi-translit	de	Namen Kefa	Petrus	1	mark
+tabled+multi-translit	de	Namen Shet	Set	1	genesis
+tabled+multi-translit	de	Namen Yeshua	Jesus	1	luke
+untabled	de	Nazaret	Natzeret	1	luke
+untabled+multi-translit	de	Neben Mattityahu	Matthias	1	acts
+untabled	de	Neujahrsfest	Akitu	1	genesis
+conflict	de	Nimrod	Reichserbauer	1	genesis
+tabled+multi-translit	de	Noachs	Noah	1	1-peter
+untabled	de	Noachs	Noahs	1	luke
+untabled+multi-translit	de	Noah	Genesis	1	genesis
+untabled	de	Noahs Namen	Noach	1	genesis
+untabled+multi-translit	de	Noahs Tebah	Genesis	1	genesis
+conflict	de	Norden	Sichem	1	genesis
+conflict	de	Nuh	Noah	1	1-peter
+untabled+multi-translit	de	Opfergesetz	Lev	1	1-peter
+untabled+multi-translit	de	Ophir	Gold	1	genesis
+untabled	de	Ort	Umherirren	1	genesis
+tabled+multi-translit	de	Ort Shekhem	Sichem	1	genesis
+untabled	de	Osten	Parther	1	acts
+untabled	de	Oved	Obed	1	luke
+untabled	de	P	Priesterschrift	1	genesis
+untabled+multi-translit	de	Patriarchen Yehudah	Juda	1	luke
+untabled	de	Periode	Dritte Zwischenzeit	1	genesis
+untabled	de	Peruschim	Pharisaer	1	john
+conflict	de	Perushim	Pharisäern	1	mark
+untabled+multi-translit	de	Pfingstfestes	Schawuot	1	acts
+untabled	de	Philippus	Gaulanitis	1	mark
+untabled+multi-translit	de	Pontius Pilatus Yehudah	Judäa	1	luke
+untabled+multi-translit	de	Priester Zecharyah	Zacharias	1	luke
+untabled+multi-translit	de	Primär	Sumerisch	1	genesis
+untabled	de	Primär	AO Texte	1	genesis
+untabled	de	Primär	AO Flut	1	genesis
+untabled+multi-translit	de	Primärtext	Akkadisch	1	genesis
+conflict	de	Propheten Yesha'yahu	Jesaja	1	matthew
+untabled+multi-translit	de	Prophetin Channah	Hanna	1	luke
+untabled	de	Präfekten	Pontius Pilatus	1	luke
+conflict	de	Ptolemäische Dynastie	Ägypten	1	genesis
+untabled+multi-translit	de	Publikum Avrams	Abrams	1	genesis
+untabled	de	Qayafa	Aramäisch	1	luke
+untabled	de	Qayafas	Kajaphas'	1	luke
+untabled+multi-translit	de	Quirinius	Publius Sulpicius Quirinius	1	luke
+untabled	de	Qumran-Gemeinschaft	Essener	1	matthew
+untabled	de	Rachav	Kanaaniterin	1	matthew
+untabled	de	Rachav	Rahab	1	matthew
+untabled	de	Ramah	Deportationssammelplatz	1	matthew
+untabled	de	Rede	Ptah	1	genesis
+untabled+multi-translit	de	Rede Elisabets	Elisheva	1	luke
+untabled+multi-translit	de	Referent JHWH	Wahrscheinlich	1	luke
+untabled	de	Religion	Zoroastrismus	1	genesis
+tabled+multi-translit	de	Richtung Kenaan	Kanaan	1	genesis
+untabled	de	Rivqahs	Rebekka	1	luke
+untabled	de	Rufnamen	Yosef	1	acts
+untabled	de	Rut	Mo'aviterin	1	matthew
+untabled	de	Saba	Jemen	1	genesis
+untabled	de	Sara	Sārah	1	1-peter
+untabled	de	Schaul	Saul	1	acts
+untabled	de	Schawuot	Wochenfest	1	acts
+untabled	de	Schimons	Simeons	1	luke
+untabled	de	Schwert	Breitschwert	1	luke
+untabled+multi-translit	de	Secharjas	Zacharias'	1	luke
+untabled+multi-translit	de	Segen Elischevas	Elisabeths	1	luke
+untabled+multi-translit	de	Segen Elishevas	Elisabeth	1	luke
+untabled	de	Sekretär	Schreibgehilfe	1	1-peter
+untabled	de	Sekundär	Ägyptisch	1	genesis
+untabled	de	Sekundär	AO Kosmologie	1	genesis
+untabled	de	Sekundär	Interpretation	1	genesis
+untabled	de	Sekundär	Theologie	1	genesis
+untabled	de	Sekundär	Gartenmotive	1	genesis
+untabled	de	Sekundär	Schlangenikonographie	1	genesis
+untabled	de	Sekundär	Jüdisch	1	genesis
+untabled	de	Sekundär	Geologie	1	genesis
+untabled	de	Sekundär	Flut	1	genesis
+untabled	de	Sekundär	Reinheit	1	genesis
+untabled	de	Sekundär	Tehom	1	genesis
+untabled	de	Sekundär	Koran	1	genesis
+untabled	de	Sekundär	Urartu	1	genesis
+untabled	de	Sekundär	Botanik	1	genesis
+untabled	de	Sekundär	Blut	1	genesis
+untabled	de	Sekundär	Götterkrieger	1	genesis
+untabled	de	Sekundär	Weinbau	1	genesis
+untabled	de	Sekundär	Kultur	1	genesis
+untabled	de	Sekundär	Noahidisch	1	genesis
+untabled+multi-translit	de	Sekundär	Bund	1	genesis
+untabled+multi-translit	de	Sekundär	Rezeption	1	genesis
+untabled	de	Sekundärliteratur	Genetik	1	genesis
+untabled+multi-translit	de	Sekundärliteratur	Geographie	1	genesis
+untabled	de	Sekundärliteratur	Ägyptologie	1	genesis
+untabled	de	Sekundärliteratur	Islam	1	genesis
+untabled	de	Seleukidische Dynastie	Syrien	1	genesis
+tabled+multi-translit	de	Shekhem	Sichem	1	genesis
+tabled	de	Shem	Sem	1	genesis
+untabled+multi-translit	de	Shemu'el	Samuel	1	luke
+untabled	de	Shimon Kefa	Simon Peter	1	1-peter
+untabled	de	Simeons	Shimon	1	luke
+conflict	de	Simon	Petrus	1	mark
+untabled+multi-translit	de	Smith	Hrsg.	1	1-peter
+untabled+multi-translit	de	Sohn Secharjas	Zacharias'	1	luke
+untabled+multi-translit	de	Sohn Yishais	Isai	1	matthew
+conflict	de	Sohn Yonahs	Johannes	1	john
+untabled+multi-translit	de	Sohn Yosefs	Josephs	1	john
+tabled+multi-translit	de	Sohn Yosefs	Josef	1	luke
+untabled	de	Sonne	Shamash	1	genesis
+untabled	de	Soreq-Höhle	Israel	1	genesis
+untabled	de	Spott	Trunkenheit	1	acts
+untabled+multi-translit	de	Stadt Yehudahs	Juda	1	luke
+untabled	de	Struktur	Körper-Seele-Geist	1	genesis
+untabled	de	Stumpf Yishais	Isais	1	1-peter
+untabled+multi-translit	de	Sulayman	Salomo	1	acts
+untabled	de	Süden	Negev	1	genesis
+untabled	de	Südkaukasus	Georgien	1	genesis
+untabled	de	Tabal	Zentralanatolien	1	genesis
+untabled	de	Tarschisch	Metalle	1	genesis
+untabled	de	Tarsos	Kilikien	1	genesis
+untabled	de	Tartessos	Spanien	1	genesis
+untabled	de	Tauchbecken	Mikwa'ot	1	john
+untabled	de	Teilung	Eigenname	1	genesis
+untabled	de	Tempel	Haus	1	1-peter
+tabled+multi-translit	de	Tetrarchen Philippos	Philippus	1	luke
+untabled+multi-translit	de	Tigris	VERIFIZIERTE Identifikation	1	genesis
+untabled	de	Til-garimmu	Ostanatolien	1	genesis
+untabled	de	Tora	Pentateuch	1	genesis
+untabled	de	Toten Meer	Qumran	1	genesis
+untabled	de	Transliteration	Familiarform	1	luke
+untabled	de	Transliteriert	Familiär	1	mark
+untabled	de	Tselem	Bild	1	genesis
+untabled	de	Tsidon	Norden	1	genesis
+untabled	de	Tuval-Kain	Metallarbeit	1	genesis
+untabled	de	Tötung Kains	Midrasch Tanchuma	1	genesis
+untabled+multi-translit	de	Unfruchtbarkeit Elischevas	Elisabeth	1	luke
+conflict	de	Untertauchpraktiken Yohannans	Johannes	1	john
+untabled	de	Unüberprüfbare	Vergebung	1	mark
+untabled	de	Uriyah	Uria	1	matthew
+untabled	de	Urwasser	Nun	1	genesis
+untabled+multi-translit	de	Utnapischtim	Akkadisch	1	genesis
+untabled	de	Utnapischtims Boot	Gilgamesch	1	genesis
+untabled	de	Vater	Antipater	1	matthew
+untabled	de	Vater Rechav'ams	Rehabeam	1	matthew
+tabled+multi-translit	de	Vater Yosefs	Josef	1	luke
+untabled+multi-translit	de	Verheißung Jitschaqs	Isaaks	1	luke
+conflict	de	Verhörung Yohannans	Johannes	1	john
+untabled+multi-translit	de	Verkündigung Schimschons	Simson	1	luke
+untabled+multi-translit	de	Verpflichtungen Avrams	Abrams	1	genesis
+untabled	de	Verwandte	Cousins	1	acts
+untabled	de	Viehzucht	Javal	1	genesis
+untabled	de	Vokalzeichen	Nikkud	1	genesis
+untabled	de	Völker	Yafets Linie	1	genesis
+untabled+multi-translit	de	Wachsmann	Hrsg.	1	mark
+untabled+multi-translit	de	War Zecharyah	Zacharias	1	luke
+tabled+multi-translit	de	Was Yeshua	Jesus	1	john
+untabled	de	Weisheitspsalm	Akrostichon	1	1-peter
+untabled	de	Welt	Gegenwart	1	john
+conflict	de	Westen	Kanaan	1	genesis
+untabled+multi-translit	de	Westliche	Codex Bezae	1	acts
+untabled+multi-translit	de	Widmungsempfänger	Theophilus	1	luke
+tabled+multi-translit	de	Wie Noach	Noah	1	genesis
+untabled	de	Wiederaufbau	Gebäude	1	john
+tabled+multi-translit	de	Wirkens Yochanans	Johannes	1	luke
+untabled	de	Wort	Hadith	1	1-peter
+tabled+multi-translit	de	Wort Yochanans	Johannes	1	acts
+untabled+multi-translit	de	Ya'aqov	Jakobs	1	acts
+untabled	de	Yafet	Japhet	1	genesis
+conflict	de	Yarden	Jordans	1	john
+conflict	de	Yarden-Wüste	Jordan	1	luke
+untabled	de	Yehudahs	Judas'	1	acts
+conflict	de	Yeruschalayim	Jerusalem	1	luke
+tabled+multi-translit	de	Yeshayahu	Jesaja	1	john
+untabled+multi-translit	de	Yishai	Isai	1	luke
+untabled	de	Yisra'eli	Israelit	1	john
+untabled+multi-translit	de	Yitschaq	Isaaks	1	acts
+untabled	de	Yo'ash	Joasch	1	matthew
+tabled+multi-translit	de	Yochanans	Johannes	1	luke
+untabled+multi-translit	de	Yochanans	Johannes'	1	matthew
+untabled+multi-translit	de	Yoel	Joel	1	acts
+untabled+multi-translit	de	Yosef Barsabbas	Justus	1	acts
+conflict	de	Yuval	Musik	1	genesis
+untabled	de	Zacharias'	Zekharyah	1	luke
+untabled+multi-translit	de	Zeichen	Plural	1	john
+untabled	de	Zion	Tsiyon	1	1-peter
+untabled	de	Zitate	JHWH-tragend	1	acts
+untabled+multi-translit	de	Ziusudra	Sumerisch	1	genesis
+untabled	de	Zypern	Kition	1	genesis
+untabled	de	Ägypten	Exodus-Typologie	1	matthew
+untabled	de	Überprüfbaren	Heilung	1	mark
+untabled+multi-translit	de	Μαθθαῖος	Matthäus	1	acts
+tabled+multi-translit	en	Yeshua	Jesus	218	1-peter,acts,john,luke,mark,matthew
+tabled+multi-translit	en	Yochanan	John	133	acts,john,luke,mark,matthew
+tabled+multi-translit	en	Noach	Noah	75	1-peter,genesis,luke,matthew
+tabled	en	Yerushalayim	Jerusalem	68	1-peter,acts,john,luke,mark,matthew
+tabled	en	Miryam	Mary	64	1-peter,acts,john,luke,mark,matthew
+untabled+multi-translit	en	Avraham	Abraham	48	1-peter,acts,genesis,luke,matthew
+tabled	en	Yosef	Joseph	48	acts,genesis,john,luke,matthew
+tabled	en	Avram	Abram	44	genesis
+tabled+multi-translit	en	Kefa	Peter	43	1-peter,acts,john,mark,matthew
+tabled+multi-translit	en	Chanokh	Enoch	36	acts,genesis,luke
+tabled+multi-translit	en	Qayin	Cain	35	genesis
+tabled	en	Cham	Ham	33	genesis
+untabled	en	Yehudah	Judah	33	john,luke,matthew
+tabled+multi-translit	en	Kenaan	Canaan	32	genesis
+conflict	en	Yafet	Japheth	31	genesis
+tabled	en	Yarden	Jordan	31	john,luke,mark,matthew
+tabled	en	Herodes	Herod	30	luke,matthew
+tabled+multi-translit	en	Lemekh	Lamech	28	genesis,luke
+tabled	en	Eliyahu	Elijah	22	acts,john,luke,matthew
+tabled+multi-translit	en	Terach	Terah	21	genesis,luke
+untabled	en	Ya'aqov	Jacob	21	acts,john,luke,matthew
+untabled	en	Elisheva	Elizabeth	20	luke
+tabled+multi-translit	en	Natseret	Nazareth	20	john,luke,matthew
+tabled	en	Nikodemos	Nicodemus	19	john
+tabled	en	Shet	Seth	19	genesis,luke
+tabled	en	Shimon	Simon	19	acts,john,mark
+tabled	en	Mitsrayim	Egypt	18	genesis,matthew
+tabled+multi-translit	en	Mosheh	Moses	18	1-peter,acts,john,luke,matthew
+untabled+multi-translit	en	Zecharyah	Zechariah	18	luke
+tabled+multi-translit	en	Galil	Galilee	17	acts,john,luke,mark,matthew
+conflict	en	Messiah	Jesus	17	1-peter,acts
+tabled	en	Perushim	Pharisees	16	john,mark,matthew
+tabled	en	Chava	Eve	15	genesis
+untabled+multi-translit	en	Gavriel	Gabriel	15	luke
+tabled	en	Hevel	Abel	15	genesis
+untabled	en	Mattityahu	Matthias	15	acts
+conflict	en	Shimon	Simeon	14	luke
+tabled	en	Andreas	Andrew	13	acts,john,mark
+tabled+multi-translit	en	Kfar Nachum	Capernaum	13	john,mark
+tabled	en	Metushelach	Methuselah	13	genesis,luke
+tabled+multi-translit	en	Philippos	Philip	13	acts,john,luke,mark
+untabled+multi-translit	en	Yitschaq	Isaac	13	1-peter,acts,genesis,luke,matthew
+conflict	en	Beit-Lechem	Bethlehem	12	luke
+conflict	en	Natzeret	Nazareth	12	luke,mark
+untabled+multi-translit	en	Shelomoh	Solomon	11	luke,matthew
+untabled+multi-translit	en	Ya'aqov	James	11	acts,mark
+untabled	en	Yehudah	Judea	11	acts,luke,mark
+untabled	en	Zavdai	Zebedee	11	mark
+tabled	en	Shekhem	Shechem	10	genesis
+tabled+multi-translit	en	Beyt-Lechem	Bethlehem	9	matthew
+tabled	en	Nachor	Nahor	9	genesis,luke
+conflict	en	Bet-Tsaidah	Bethsaida	8	john
+untabled+multi-translit	en	Channah	Anna	7	luke
+conflict	en	Isa	Jesus	7	1-peter,acts,john,matthew
+untabled	en	Markos	Mark	7	1-peter
+conflict	en	Yesha'yahu	Isaiah	7	luke,mark,matthew
+untabled	en	Chalfai	Alphaeus	6	mark
+untabled	en	Pentecost	Shavuot	6	acts
+untabled	en	Yisrael	Israel	6	john
+untabled	en	Immerser	John the Baptist	5	1-peter,john,luke,mark,matthew
+untabled	en	Jews	Yehudim	5	acts
+untabled	en	Sarah	Sara	5	1-peter
+untabled+multi-translit	en	Shemu'el	Samuel	5	luke
+untabled+multi-translit	en	Shimon Kefa	Simon Peter	5	1-peter,john,mark
+untabled+multi-translit	en	Silvanus	Silas	5	1-peter
+untabled	en	Aharon	Aaron	4	luke
+untabled	en	Channah	Hannah	4	luke
+untabled	en	Codex Bezae	D	4	acts,john,luke,matthew
+untabled	en	Erekh	Uruk	4	genesis
+untabled	en	Kefa's	Peter's	4	acts
+untabled+multi-translit	en	Mattai	Matthew	4	mark
+untabled+multi-translit	en	Mattityahu	Matthew	4	acts
+untabled	en	Miqwa'ot	Jewish Ritual Baths	4	acts,john,luke
+conflict	en	Moshe	Moses	4	1-peter,mark
+untabled	en	Qanah	Cana	4	john
+tabled	en	Qenan	Kenan	4	genesis,luke
+untabled+multi-translit	en	Shmuel	Samuel	4	acts
+untabled	en	Theophilos	Theophilus	4	acts,luke
+untabled	en	Tsidon	Sidon	4	genesis,mark
+untabled	en	Yehudah	Judas	4	acts
+tabled+multi-translit	en	Yeshayahu	Isaiah	4	john,matthew
+untabled	en	Babylon	Bavel	3	1-peter
+untabled	en	Bavel	Babylon	3	1-peter,matthew
+tabled	en	Beyt-El	Bethel	3	genesis
+untabled	en	Chanan	Annas	3	luke
+untabled	en	Channah's	Hannah's	3	luke
+untabled	en	Dawud	David	3	acts,luke
+untabled+multi-translit	en	Ibrahim	Abraham	3	acts,genesis,luke
+untabled	en	Kasdim	Chaldeans	3	genesis
+untabled	en	Kinneret	Sea of Galilee	3	john
+untabled	en	Pesach	Passover	3	john
+untabled	en	Qayafa	Caiaphas	3	luke
+untabled	en	Septuaginta	Rahlfs-Hanhart	3	1-peter,acts,luke
+untabled	en	Shimshon	Samson	3	luke,matthew
+untabled	en	Taddai	Thaddaeus	3	mark
+tabled+multi-translit	en	This Yeshua	Jesus	3	acts
+conflict	en	Yahya	John	3	luke
+untabled+multi-translit	en	Yehudah	Judas Iscariot	3	acts
+untabled	en	Yishai	Jesse	3	1-peter,luke,matthew
+untabled	en	Yoel	Joel	3	acts
+untabled+multi-translit	en	Zekharyah	Zechariah	3	luke
+untabled	en	Zion	Tsiyon	3	1-peter
+reversed	en	Abel	Hevel	2	genesis
+conflict	en	Article	Nimrod	2	genesis
+untabled	en	Asshur	Assyria	2	genesis
+untabled+multi-translit	en	Bar-Talmai	Bartholomew	2	mark
+untabled+multi-translit	en	Bartholomaios	Bartholomew	2	acts
+untabled	en	Beelzevul	Beelzebul	2	mark
+untabled	en	Between Yoram	Jehoram	2	matthew
+tabled	en	Beyt-Anyah	Bethany	2	john
+reversed	en	Cain	Qayin	2	genesis
+untabled+multi-translit	en	Codex Vaticanus	B	2	john,matthew
+untabled	en	Evyatar	Abiathar	2	mark
+reversed	en	Ham	Cham	2	genesis
+untabled	en	Japheth	Yafet	2	genesis
+untabled+multi-translit	en	Jibril	Gabriel	2	acts,luke
+conflict	en	Kapharnachum	Capernaum	2	john
+untabled	en	Kena'ani	Cananaean	2	mark
+untabled	en	Kittim	Cyprus	2	genesis
+conflict	en	Musa	Moses	2	acts,genesis
+untabled	en	Rachav	Rahab	2	matthew
+untabled	en	Rut	Ruth	2	matthew
+reversed	en	Seth	Shet	2	genesis
+untabled	en	Shlomoh's	Solomon's	2	acts
+untabled	en	Shomron	Samaria	2	acts
+untabled+multi-translit	en	Through Silvanus	Silas	2	1-peter
+untabled	en	Toma	Thomas	2	mark
+untabled	en	Tsor	Tyre	2	mark
+untabled+multi-translit	en	Yehudah Ish-Keriot	Judas Iscariot	2	mark
+tabled	en	Yered	Jared	2	genesis,luke
+untabled+multi-translit	en	Yitzchak	Isaac	2	luke
+untabled	en	Yosef Barsabbas	Joseph Barsabbas	2	acts
+untabled	en	Zabur	Psalms	2	acts,luke
+reversed	en	Abram	Avram	1	genesis
+untabled	en	Achazyahu	Ahaziah	1	matthew
+untabled+multi-translit	en	After Elisheva's	Elizabeth's	1	luke
+untabled	en	Akitu	New Year	1	genesis
+untabled	en	Amatsyahu	Amaziah	1	matthew
+untabled	en	Archelaos	Archelaus	1	matthew
+untabled	en	Article	Nuzi	1	genesis
+untabled	en	Asiatic	Semitic	1	genesis
+conflict	en	Avram	Abraham	1	genesis
+untabled	en	Bar-Naba	Barnabas	1	1-peter
+untabled+multi-translit	en	Bar-Tholmai	Bartholomew	1	john
+untabled	en	Bavel	Babel	1	genesis
+tabled+multi-translit	en	Before Philippos	Philip	1	john
+untabled	en	Ben Sira	Sirach	1	john
+conflict	en	Bet-Lechem	Bethlehem	1	matthew
+tabled+multi-translit	en	Beyt-Tsaidah	Bethsaida	1	john
+untabled	en	Bo'az	Boaz	1	luke
+tabled+multi-translit	en	Both Yochanan	John	1	mark
+untabled	en	C	Dating	1	1-peter
+untabled	en	Caiaphas	Joseph Caiaphas	1	luke
+untabled	en	Cain	Midrash Tanchuma	1	genesis
+tabled+multi-translit	en	Cainite Lemekh	Lamech	1	genesis
+untabled	en	Canaan	Joshua	1	genesis
+conflict	en	Canaanites	Canaan	1	genesis
+untabled+multi-translit	en	Chana	Anna	1	matthew
+untabled	en	Channah's	Anna's	1	luke
+untabled	en	Charan	Harran	1	genesis
+untabled+multi-translit	en	Closing Gavriel's	Gabriel's	1	luke
+untabled+multi-translit	en	Codex Alexandrinus	A	1	john
+tabled+multi-translit	en	Cursed Kenaan	Canaan	1	genesis
+untabled	en	Cypros	Nabataean	1	matthew
+untabled	en	Cyprus	Kition	1	genesis
+untabled	en	D	Deuteronomist	1	genesis
+untabled	en	Dead Sea Scrolls	Qumran	1	genesis
+tabled+multi-translit	en	Despite Yeshua	Jesus	1	john
+tabled+multi-translit	en	Did Terach	Terah	1	genesis
+untabled	en	E	Elohist	1	genesis
+untabled+multi-translit	en	Elisheva's	Elizabeth's	1	luke
+untabled	en	Eridu Genesis	Ziusudra	1	genesis
+tabled+multi-translit	en	From Natseret	Nazareth	1	john
+untabled	en	Gaius Octavius	Octavian	1	luke
+untabled	en	Galilee	Lake Kinneret	1	mark
+untabled+multi-translit	en	Gavriel's	Gabriel's	1	luke
+untabled	en	God	Allah	1	acts
+untabled	en	Greek Old Testament	Septuagint	1	john
+conflict	en	Greeks	Japheth	1	genesis
+untabled+multi-translit	en	Hannah	Anna	1	luke
+conflict	en	Herod Antipas	Galilee	1	mark
+conflict	en	Herodes	Herod the Great	1	matthew
+untabled	en	I	Historical Setting	1	1-peter
+untabled+multi-translit	en	Iakobos	James	1	matthew
+untabled	en	Iblis	Satan	1	genesis
+untabled	en	Ibrahim's	Abraham's	1	1-peter
+untabled	en	Idumaean	Edomite	1	matthew
+untabled	en	Idumea	Edom	1	mark
+tabled+multi-translit	en	If Yeshua	Jesus	1	matthew
+tabled+multi-translit	en	In Beyt-Lechem	Bethlehem	1	matthew
+untabled+multi-translit	en	Ishaq	Isaac	1	genesis
+untabled	en	Isma'il	Ishmael	1	genesis
+conflict	en	Israel	Shem	1	genesis
+untabled	en	J	Yahwist	1	genesis
+untabled+multi-translit	en	Joseph Barsabbas	Justus	1	acts
+untabled	en	Kainan	Καϊνάν	1	genesis
+untabled	en	Kena'ani	Simon the Cananaean	1	mark
+untabled	en	Lake	Loeb	1	john
+untabled	en	Locked Formulas	Multiple Occurrences	1	genesis
+tabled+multi-translit	en	Lord Yeshua	Jesus	1	acts
+untabled	en	Luke	Levi	1	mark
+conflict	en	Mahalal'el	Mahalalel	1	luke
+untabled	en	Mariamne I	Hasmonean	1	matthew
+untabled	en	Megiddo	Iron Age Israel	1	genesis
+untabled	en	Miqwa'ot	Ritual Immersion Baths	1	matthew
+untabled	en	Mushki	Phrygia	1	genesis
+untabled	en	Na'aman	Naaman	1	matthew
+untabled	en	Noach's	Noah's	1	1-peter
+untabled	en	Noah's Tebah	Genesis	1	genesis
+tabled+multi-translit	en	Now Kefa	Peter	1	acts
+tabled+multi-translit	en	Now Qayin	Cain	1	genesis
+conflict	en	Nuh	Noah	1	1-peter
+untabled	en	Oved	Obed	1	luke
+untabled	en	P	Priestly	1	genesis
+untabled	en	Philip	Gaulanitis	1	mark
+untabled	en	Qayafa	Aramaic	1	luke
+untabled	en	Quirinius	Publius Sulpicius Quirinius	1	luke
+untabled	en	Rachav	Canaanite	1	matthew
+untabled+multi-translit	en	Reading	A	1	john
+untabled+multi-translit	en	Reading	B	1	john
+untabled	en	Rechav'am	Rehoboam	1	matthew
+untabled	en	Rivka	Rebekah	1	matthew
+untabled	en	Rivqah's	Rebekah's	1	luke
+untabled	en	Rut	Mo'avite	1	matthew
+untabled	en	Saba	Yemen	1	genesis
+untabled	en	Sarah	Sārah	1	1-peter
+untabled	en	Section A	Cross-Chapter Tracking	1	matthew
+tabled+multi-translit	en	Sethite Chanokh	Enoch	1	genesis
+tabled+multi-translit	en	Sethite Lemekh	Lamech	1	genesis
+untabled	en	Shaul	Saul	1	acts
+untabled	en	Shavuot	Feast of Weeks	1	acts
+untabled	en	Shimon's	Simeon's	1	luke
+conflict	en	Simon	Peter	1	mark
+tabled+multi-translit	en	So Qayin	Cain	1	genesis
+untabled	en	Some	Rashi	1	genesis
+untabled	en	South Caucasus	Georgia	1	genesis
+untabled+multi-translit	en	Sulayman	Solomon	1	acts
+untabled	en	Tarsus	Cilicia	1	genesis
+untabled	en	Tartessos	Spain	1	genesis
+untabled	en	Tell Mardikh	Ebla	1	genesis
+untabled+multi-translit	en	Through Shelomoh	Solomon	1	matthew
+tabled+multi-translit	en	Tsduqim	Sadducees	1	matthew
+conflict	en	Tsedoqim	Sadducees	1	matthew
+conflict	en	Tuval-Qayin	Tuval-Cain	1	genesis
+untabled	en	Uriyah	Uriah	1	matthew
+untabled	en	Utnapishtim	Akkadian	1	genesis
+untabled	en	Utnapishtim's Boat	Gilgamesh	1	genesis
+untabled+multi-translit	en	Was Zecharyah	Zechariah	1	luke
+untabled	en	Western	Codex Bezae	1	acts
+untabled	en	Western	Codex Bezae D	1	acts
+untabled+multi-translit	en	With Shimon Kefa	Simon Peter	1	mark
+tabled+multi-translit	en	With Yochanan	John	1	acts
+untabled	en	Yavneh	Jamnia	1	john
+untabled	en	Yehudah	Judean	1	mark
+untabled	en	Yehudah's	Judas's	1	acts
+untabled+multi-translit	en	Yisra'eli	Israelite	1	john
+untabled+multi-translit	en	Yisraeli	Israelite	1	john
+untabled	en	Yo'ash	Joash	1	matthew
+untabled	en	Yoaqim	Joachim	1	matthew
+untabled	en	Yochanan's	John's	1	luke
+conflict	en	Yonah	John	1	john
+untabled+multi-translit	en	Yosef Barsabbas	Justus	1	acts
+untabled	en	Zecharyah's	Zechariah's	1	luke
+untabled	en	Ziusudra	Sumerian	1	genesis
+untabled+multi-translit	en	Μαθθαῖος	Matthew	1	acts
+tabled+multi-translit	es	Yeshua	Jesús	84	1-peter,acts,john,luke,mark,matthew
+tabled+multi-translit	es	Yochanan	Juan	62	1-peter,acts,john,luke,mark
+tabled	es	Miryam	María	44	1-peter,acts,luke,mark,matthew
+tabled+multi-translit	es	Kefa	Pedro	40	1-peter,acts,john,mark
+tabled	es	Yerushalayim	Jerusalén	40	1-peter,acts,john,luke,mark,matthew
+untabled+multi-translit	es	Avraham	Abraham	25	1-peter,acts,luke
+tabled	es	Yosef	José	22	acts,john,luke,matthew
+untabled+multi-translit	es	Zecharyah	Zacarías	19	luke
+conflict	es	Mesías	Jesús	18	1-peter,acts
+untabled+multi-translit	es	Gavriel	Gabriel	17	luke
+untabled+multi-translit	es	Channah	Ana	15	luke
+untabled	es	Elisheva	Elisabet	15	luke
+untabled	es	Mattityahu	Matías	15	acts
+tabled	es	Shimon	Simón	15	acts,john,mark
+conflict	es	Shimon	Simeón	15	luke
+tabled	es	Avram	Abrán	14	genesis
+conflict	es	Beit-Lechem	Belén	12	luke
+tabled	es	Eliyahu	Elías	12	acts,john,luke,matthew
+conflict	es	Natzeret	Nazaret	12	luke,mark
+untabled	es	Yehudah	Judea	12	acts,luke,mark
+untabled+multi-translit	es	Yehudah	Judá	12	john,luke,matthew
+untabled	es	Ya'aqov	Jacob	11	acts,john,luke,matthew
+tabled+multi-translit	es	Yarden	Jordán	11	john,luke,mark
+untabled	es	Zavdai	Zebedeo	11	mark
+tabled	es	Andreas	Andrés	10	acts,john,mark
+tabled+multi-translit	es	Natseret	Nazaret	10	john,luke,matthew
+tabled+multi-translit	es	Noach	Noé	10	1-peter,genesis,luke
+tabled	es	Perushim	Fariseos	10	mark
+tabled+multi-translit	es	Mosheh	Moisés	9	1-peter,acts,john,luke
+conflict	es	Bet-Tsaidah	Betsaida	8	john
+tabled+multi-translit	es	Galil	Galilea	8	acts,luke,mark
+conflict	es	Kfar Nachum	Capernaúm	8	mark
+conflict	es	Noaj	Noé	8	genesis
+untabled	es	Elisheva	Isabel	7	luke
+conflict	es	Isa	Jesús	7	1-peter,acts,matthew
+untabled	es	Markos	Marcos	7	1-peter
+tabled	es	Philippos	Felipe	7	acts,john,luke,mark
+untabled	es	Silvano	Silas	7	1-peter
+untabled	es	Ya'aqov	Jacobo	7	acts,mark
+untabled+multi-translit	es	Yitschaq	Isaac	7	1-peter,acts,luke,matthew
+untabled	es	Chalfai	Alfeo	6	mark
+tabled+multi-translit	es	Kenaan	Canaán	6	genesis
+untabled	es	Pentecostés	Shavuot	6	acts
+untabled+multi-translit	es	Shelomoh	Salomón	6	luke,matthew
+conflict	es	Yafet	Jafet	6	genesis
+conflict	es	Yesha'yahu	Isaías	6	luke,mark
+tabled+multi-translit	es	Chanokh	Enoc	5	acts,genesis,luke
+untabled	es	Sarah	Sara	5	1-peter
+untabled+multi-translit	es	Shemu'el	Samuel	5	luke
+untabled+multi-translit	es	Shimon Kefa	Simón Pedro	5	1-peter,john,mark
+untabled	es	Yehudah	Judas	5	acts
+tabled	es	Adam	Adán	4	genesis,luke
+untabled	es	Aharon	Aarón	4	luke
+untabled	es	Erekh	Uruk	4	genesis
+untabled+multi-translit	es	Ibrahim	Abraham	4	1-peter,acts,genesis,luke
+conflict	es	Janoj	Enoc	4	genesis
+conflict	es	Kfar Nachum	Cafarnaúm	4	mark
+tabled	es	Lemekh	Lamec	4	genesis,luke
+untabled+multi-translit	es	Mattai	Mateo	4	mark
+untabled+multi-translit	es	Mattityahu	Mateo	4	acts
+untabled	es	Miqwa'ot	Jewish Ritual Baths	4	acts,john,luke
+untabled	es	Qanah	Caná	4	john
+tabled	es	Qenan	Cainán	4	genesis,luke
+untabled+multi-translit	es	Shmuel	Samuel	4	acts
+untabled	es	Theophilos	Teófilo	4	acts,luke
+untabled	es	Babilonia	Bavel	3	1-peter
+untabled	es	Bavel	Babilonia	3	1-peter,matthew
+untabled	es	Chanan	Anás	3	luke
+tabled	es	Chava	Eva	3	genesis
+untabled	es	Dawud	David	3	acts,luke
+tabled	es	Hevel	Abel	3	genesis
+conflict	es	Jam	Cam	3	genesis
+conflict	es	Mitsráyim	Egipto	3	genesis
+conflict	es	Moshe	Moisés	3	mark
+untabled	es	Pesach	Pascua	3	john
+untabled	es	Qayafa	Caifás	3	luke
+untabled	es	Septuaginta	Rahlfs-Hanhart	3	1-peter,acts,luke
+tabled	es	Shem	Sem	3	genesis,luke
+tabled	es	Shet	Set	3	genesis,luke
+untabled	es	Shimshon	Sansón	3	luke,matthew
+untabled	es	Taddai	Tadeo	3	mark
+untabled+multi-translit	es	Tsidón	Sidón	3	genesis,mark
+untabled+multi-translit	es	Ya'aqov	Santiago	3	mark
+conflict	es	Yahya	Juan	3	luke
+untabled+multi-translit	es	Yehudah	Judas Iscariote	3	acts
+untabled	es	Yoel	Joel	3	acts
+untabled+multi-translit	es	Zekharyah	Zacarías	3	luke
+conflict	es	Artículo	Nimrod	2	genesis
+untabled	es	Asur	Asiria	2	genesis
+untabled+multi-translit	es	Bar-Talmai	Bartolomé	2	mark
+untabled+multi-translit	es	Bartholomaios	Bartolomé	2	acts
+untabled	es	Beelzevul	Beelzebú	2	mark
+conflict	es	Bet-Lechem	Belén	2	matthew
+untabled+multi-translit	es	Códice Bezae	D	2	acts,matthew
+tabled	es	Enosh	Enós	2	genesis,luke
+untabled	es	Entre Yoram	Joram	2	matthew
+tabled+multi-translit	es	Este Yeshua	Jesús	2	acts
+untabled	es	Evyatar	Abiatar	2	mark
+untabled+multi-translit	es	Kapharnachum	Cafarnaúm	2	john
+untabled	es	Kasdim	Caldeos	2	genesis
+untabled	es	Kinneret	Mar de Galilea	2	john
+untabled	es	Kittim	Chipre	2	genesis
+tabled	es	Metushelach	Matusalén	2	genesis,luke
+conflict	es	Musa	Moisés	2	acts,genesis
+untabled	es	Natan	Natán	2	luke
+tabled	es	Nikodemos	Nicodemo	2	john
+tabled	es	Qayin	Caín	2	genesis
+conflict	es	Shequem	Siquem	2	genesis
+untabled+multi-translit	es	Shlomoh	Salomón	2	acts
+untabled	es	Shomron	Samaria	2	acts
+untabled+multi-translit	es	Sion	Tsiyon	2	1-peter
+tabled+multi-translit	es	Terach	Taré	2	genesis,luke
+conflict	es	Teraj	Taré	2	genesis
+untabled+multi-translit	es	Thomas	Tomás	2	acts
+untabled+multi-translit	es	Toma	Tomás	2	mark
+untabled	es	Tsor	Tiro	2	mark
+conflict	es	Yardén	Jordán	2	john,matthew
+untabled+multi-translit	es	Yehudah Ish-Keriot	Judas Iscariote	2	mark
+tabled	es	Yered	Jared	2	genesis,luke
+tabled+multi-translit	es	Yeshayahu	Isaías	2	john
+conflict	es	Yeshua	Posible	2	luke
+untabled	es	Yishai	Isaí	2	1-peter,luke
+untabled+multi-translit	es	Yitzchak	Isaac	2	luke
+untabled	es	Yosef Barsabbas	José Barsabás	2	acts
+untabled	es	Zabur	Salmos	2	acts,luke
+untabled	es	Abraham	Abrahán	1	matthew
+untabled	es	Achazyahu	Ocozías	1	matthew
+untabled	es	Akitu	Año Nuevo	1	genesis
+untabled	es	Amatsyahu	Amasías	1	matthew
+untabled	es	Amminadav	Aminadab	1	luke
+untabled	es	Archelaos	Arquelao	1	matthew
+untabled	es	Arpakhshad	Arfaxad	1	luke
+untabled	es	Artículo	Nuzi	1	genesis
+conflict	es	Avram	Abraham	1	genesis
+untabled	es	Año Nuevo	Akitu	1	genesis
+untabled	es	Bar-Naba	Bernabé	1	1-peter
+untabled+multi-translit	es	Bar-Tholmai	Bartolomé	1	john
+untabled	es	Bavel	Babel	1	genesis
+tabled	es	Beyt-El	Betel	1	genesis
+tabled+multi-translit	es	Beyt-Lechem	Belén	1	matthew
+untabled	es	Bo'az	Booz	1	luke
+untabled	es	C	Datación	1	1-peter
+untabled	es	Caifás	José Caifás	1	luke
+untabled	es	Canaán	Josué	1	genesis
+untabled	es	Caín	Midrash Tanchuma	1	genesis
+tabled+multi-translit	es	Cham	Cam	1	genesis
+untabled+multi-translit	es	Chana	Ana	1	matthew
+untabled	es	Chetsron	Esrón	1	luke
+untabled	es	Chipre	Kition	1	genesis
+untabled	es	Codex Alexandrinus	A	1	john
+untabled+multi-translit	es	Codex Bezae	D	1	john
+untabled+multi-translit	es	Codex Vaticanus	B	1	john
+untabled+multi-translit	es	Con Shimon Kefa	Simón Pedro	1	mark
+tabled+multi-translit	es	Con Yochanan	Juan	1	acts
+untabled	es	Cáucaso	Georgia	1	genesis
+untabled+multi-translit	es	Códice Beza	D	1	luke
+untabled+multi-translit	es	Códice Vaticano	B	1	matthew
+untabled	es	D	Deuteronomista	1	genesis
+untabled	es	Dios	Levítico	1	1-peter
+untabled	es	Dios	Allah	1	acts
+untabled	es	E	Elohísta	1	genesis
+untabled+multi-translit	es	Era Zecharyah	Zacarías	1	luke
+untabled	es	Eridu	Ziusudra	1	genesis
+untabled	es	Ever	Heber	1	luke
+untabled	es	Filipo	Gaulanítide	1	mark
+untabled	es	Formulas Fijas	Ocurrencias Multiples	1	genesis
+untabled	es	Galilee	Lake Kinneret	1	mark
+untabled	es	Gayo Octavio	Octaviano	1	luke
+untabled	es	Grande	Herodes I	1	matthew
+untabled+multi-translit	es	Hannah	Ana	1	luke
+tabled	es	Haran	Harán	1	genesis
+untabled+multi-translit	es	Hechos	Opción C	1	acts
+conflict	es	Herodes Antipas	Galilea	1	mark
+untabled	es	I	Entorno Histórico	1	1-peter
+untabled+multi-translit	es	Iakobos	Santiago	1	matthew
+untabled	es	Iblis	Satanás	1	genesis
+untabled	es	Idumea	Edom	1	mark
+untabled	es	Isa	Jesus	1	john
+untabled+multi-translit	es	Ishaq	Isaac	1	genesis
+untabled	es	Isma'il	Ismael	1	genesis
+untabled	es	Israel	Shem	1	genesis
+untabled+multi-translit	es	Israel	Isaac	1	luke
+conflict	es	Israel	Herodes	1	matthew
+untabled	es	J	Yahvista	1	genesis
+untabled	es	Jarán	Harrán	1	genesis
+untabled	es	Jerusalén	Nehemías	1	genesis
+untabled+multi-translit	es	Jibril	Gabriel	1	luke
+untabled+multi-translit	es	José Barsabás	Justo	1	acts
+untabled	es	Kainán	Καϊνάν	1	genesis
+untabled	es	Kena'ani	Cananeo	1	mark
+conflict	es	Kenáan	Canaán	1	genesis
+untabled	es	Lake	Loeb	1	john
+untabled	es	Levi	Leví	1	mark
+untabled	es	Lucas	Levi	1	mark
+untabled+multi-translit	es	Mahalal'el	Mahalaleel	1	luke
+conflict	es	Mahalalel	Mahalaleel	1	genesis
+untabled	es	Mar Muerto	Qumrán	1	genesis
+untabled	es	Miqwa'ot	Ritual Immersion Baths	1	matthew
+tabled+multi-translit	es	Mitsrayim	Egipto	1	genesis
+untabled	es	Mushki	Frigia	1	genesis
+tabled	es	Nachor	Nacor	1	luke
+untabled	es	Nachshon	Naasón	1	luke
+untabled+multi-translit	es	Nombre Divino	Opción C	1	john
+untabled+multi-translit	es	Nombre Divino GS	Opción C	1	matthew
+reversed	es	Noé	Noach	1	genesis
+untabled	es	Noé	Génesis	1	genesis
+untabled	es	Noé	Genesis	1	genesis
+conflict	es	Nuh	Noé	1	1-peter
+untabled	es	Oved	Obed	1	luke
+untabled	es	P	Sacerdotal	1	genesis
+untabled+multi-translit	es	Pedro	Opción C	1	1-peter
+untabled	es	Perets	Fares	1	luke
+untabled	es	Primaria	Pseudepigrafa	1	genesis
+untabled	es	Primaria	Pseudoepígrafos	1	genesis
+untabled	es	Quirino	Publius Sulpicius Quirinius	1	luke
+untabled	es	Rachav	Rajab	1	matthew
+untabled	es	Re'u	Reú	1	luke
+untabled	es	Rechav'am	Roboam	1	matthew
+untabled	es	Rivqah	Rebeca	1	luke
+untabled	es	Saba	Yemen	1	genesis
+untabled	es	Salah	Salmón	1	luke
+untabled	es	Sara	Sārah	1	1-peter
+untabled	es	Secundaria	Egiptología	1	genesis
+untabled	es	Secundaria	Coran	1	genesis
+untabled	es	Secundaria	Urartu	1	genesis
+untabled+multi-translit	es	Señor	Opción C	1	1-peter
+tabled+multi-translit	es	Señor Yeshua	Jesús	1	acts
+untabled	es	Shaul	Saúl	1	acts
+tabled+multi-translit	es	Shekhem	Siquem	1	genesis
+untabled	es	Shelach	Sala	1	luke
+conflict	es	Simón	Pedro	1	mark
+untabled+multi-translit	es	Sión	Tsiyon	1	1-peter
+untabled	es	Soreq	Israel	1	genesis
+untabled+multi-translit	es	Sulayman	Salomón	1	acts
+untabled	es	Tarso	Cilicia	1	genesis
+untabled	es	Tarteso	España	1	genesis
+untabled	es	Torá	Pentateuco	1	genesis
+untabled+multi-translit	es	Tsidon	Sidón	1	mark
+untabled	es	Uriyah	Urías	1	matthew
+untabled	es	Utnapishtim	Gilgamesh	1	genesis
+tabled+multi-translit	es	Vino Yochanan	Juan	1	mark
+untabled	es	Yavné	Jamnia	1	john
+untabled+multi-translit	es	Yehudá	Judá	1	matthew
+untabled+multi-translit	es	Yibril	Gabriel	1	acts
+untabled	es	Yishai	Jesé	1	matthew
+untabled	es	Yo'ash	Joás	1	matthew
+untabled	es	Yoaqim	Joaquín	1	matthew
+conflict	es	Yojanan	Juan	1	john
+conflict	es	Yojanán	Juan	1	matthew
+conflict	es	Yonah	Juan	1	john
+untabled+multi-translit	es	Yosef Barsabbas	Justo	1	acts
+untabled+multi-translit	es	Μαθθαῖος	Mateo	1	acts
+tabled+multi-translit	pt-br	Yeshua	Jesus	122	1-peter,acts,john,luke,mark,matthew
+tabled+multi-translit	pt-br	Yochanan	João	79	acts,john,luke,mark,matthew
+tabled	pt-br	Yerushalayim	Jerusalém	48	1-peter,acts,john,luke,mark,matthew
+tabled	pt-br	Miryam	Maria	47	1-peter,acts,luke,mark,matthew
+tabled+multi-translit	pt-br	Kefa	Pedro	43	1-peter,acts,john,mark
+untabled+multi-translit	pt-br	Avraham	Abraão	33	1-peter,acts,genesis,luke,matthew
+tabled+multi-translit	pt-br	Noach	Noé	33	1-peter,genesis,luke
+tabled	pt-br	Yosef	José	26	acts,john,luke,matthew
+untabled	pt-br	Elisheva	Isabel	23	luke
+untabled+multi-translit	pt-br	Zecharyah	Zacarias	21	luke
+tabled+multi-translit	pt-br	Yarden	Jordão	19	john,luke,mark,matthew
+untabled+multi-translit	pt-br	Gavriel	Gabriel	18	luke
+tabled+multi-translit	pt-br	Natseret	Nazaré	18	john,luke,matthew
+tabled	pt-br	Shimon	Simão	18	acts,john,mark
+untabled+multi-translit	pt-br	Channah	Ana	17	luke
+tabled+multi-translit	pt-br	Eliyahu	Elias	17	acts,john,luke,matthew
+conflict	pt-br	Messias	Jesus	17	1-peter,acts
+conflict	pt-br	Shimon	Simeão	17	luke
+untabled	pt-br	Yehudah	Judá	16	john,luke,matthew
+untabled	pt-br	Mattityahu	Matias	15	acts
+tabled	pt-br	Perushim	Fariseus	14	john,mark,matthew
+tabled+multi-translit	pt-br	Kfar Nachum	Cafarnaum	13	john,mark
+tabled+multi-translit	pt-br	Mosheh	Moisés	13	1-peter,acts,john,luke,matthew
+tabled	pt-br	Andreas	André	12	acts,john,mark
+conflict	pt-br	Beit-Lechem	Belém	12	luke
+tabled+multi-translit	pt-br	Galil	Galileia	12	acts,john,luke,mark,matthew
+tabled	pt-br	Philippos	Filipe	12	acts,john,luke,mark
+untabled	pt-br	Yehudah	Judeia	12	acts,luke,mark
+untabled+multi-translit	pt-br	Ya'aqov	Tiago	11	acts,mark
+untabled+multi-translit	pt-br	Ya'aqov	Jacó	11	acts,john,luke,matthew
+untabled	pt-br	Zavdai	Zebedeu	11	mark
+tabled	pt-br	Cham	Cam	10	genesis
+conflict	pt-br	Yafet	Jafé	10	genesis
+conflict	pt-br	Yojanão	João	10	john,matthew
+tabled	pt-br	Chanokh	Enoque	9	acts,genesis,luke
+tabled	pt-br	Lemekh	Lameque	9	genesis,luke
+conflict	pt-br	Natzeret	Nazaré	9	luke,mark
+conflict	pt-br	Bet-Tsaidah	Betsaida	8	john
+conflict	pt-br	Isa	Jesus	8	1-peter,acts,john,matthew
+tabled	pt-br	Kenaan	Canaã	8	genesis
+untabled	pt-br	Markos	Marcos	8	1-peter
+tabled	pt-br	Mitsrayim	Egito	8	genesis,matthew
+tabled	pt-br	Shet	Sete	8	genesis,luke
+tabled	pt-br	Terach	Terá	8	genesis,luke
+untabled+multi-translit	pt-br	Yitschaq	Isaque	8	1-peter,acts,luke,matthew
+tabled	pt-br	Avram	Abrão	7	genesis
+tabled	pt-br	Nathanael	Natanael	7	john
+untabled+multi-translit	pt-br	Shelomoh	Salomão	7	luke,matthew
+untabled	pt-br	Chalfai	Alfeu	6	mark
+tabled	pt-br	Nikodemos	Nicodemos	6	john
+untabled	pt-br	Pentecostes	Shavuot	6	acts
+conflict	pt-br	Yesha'yahu	Isaías	6	luke,mark
+tabled	pt-br	Adam	Adão	5	genesis,luke
+tabled	pt-br	Chava	Eva	5	genesis
+tabled	pt-br	Hevel	Abel	5	genesis
+untabled	pt-br	Imersor	João Batista	5	1-peter,john,luke,mark,matthew
+tabled	pt-br	Qayin	Caim	5	genesis
+untabled	pt-br	Sarah	Sara	5	1-peter
+untabled+multi-translit	pt-br	Shemu'el	Samuel	5	luke
+untabled	pt-br	Silvanus	Silvano	5	1-peter
+untabled	pt-br	Yehudah	Judas	5	acts
+tabled+multi-translit	pt-br	Beyt-Lechem	Belém	4	matthew
+untabled	pt-br	Erekh	Uruk	4	genesis
+untabled+multi-translit	pt-br	Ibrahim	Abraão	4	1-peter,acts,genesis,luke
+untabled+multi-translit	pt-br	Mattai	Mateus	4	mark
+untabled+multi-translit	pt-br	Mattityahu	Mateus	4	acts
+untabled	pt-br	Miqwa'ot	Jewish Ritual Baths	4	acts,john,luke
+conflict	pt-br	Moshe	Moisés	4	1-peter,mark
+untabled	pt-br	Qanah	Caná	4	john
+tabled	pt-br	Qenan	Cainã	4	genesis,luke
+untabled+multi-translit	pt-br	Shimon Kefa	Simão Pedro	4	john,mark
+untabled	pt-br	Shimshon	Sansão	4	luke,matthew
+untabled+multi-translit	pt-br	Shmuel	Samuel	4	acts
+untabled	pt-br	Theophilos	Teófilo	4	acts,luke
+untabled+multi-translit	pt-br	Yisrael	Israel	4	john
+untabled	pt-br	Aharon	Arão	3	luke
+conflict	pt-br	Avram	Abraão	3	genesis
+untabled	pt-br	Babilônia	Bavel	3	1-peter
+untabled	pt-br	Bavel	Babilônia	3	1-peter,matthew
+untabled	pt-br	Chanan	Anás	3	luke
+tabled+multi-translit	pt-br	Este Yeshua	Jesus	3	acts
+untabled	pt-br	Kasdim	Caldeus	3	genesis
+untabled	pt-br	Kinneret	Mar da Galileia	3	john
+tabled	pt-br	Metushelach	Matusalém	3	genesis,luke
+untabled	pt-br	Pesach	Páscoa	3	john
+untabled	pt-br	Qayafa	Caifás	3	luke
+untabled	pt-br	Septuaginta	Rahlfs-Hanhart	3	1-peter,acts,luke
+tabled	pt-br	Shekhem	Siquém	3	genesis
+tabled	pt-br	Shem	Sem	3	genesis,luke
+untabled	pt-br	Taddai	Tadeu	3	mark
+conflict	pt-br	Yahya	João	3	luke
+untabled+multi-translit	pt-br	Yehudah	Judas Iscariotes	3	acts
+tabled+multi-translit	pt-br	Yeshayahu	Isaías	3	john
+untabled	pt-br	Yishai	Jessé	3	1-peter,luke,matthew
+untabled	pt-br	Yoel	Joel	3	acts
+untabled+multi-translit	pt-br	Zekharyah	Zacarias	3	luke
+reversed	pt-br	Abel	Hevel	2	genesis
+untabled	pt-br	Artigo	Nimrod	2	genesis
+untabled	pt-br	Asshur	Assíria	2	genesis
+untabled+multi-translit	pt-br	Bar-Talmai	Bartolomeu	2	mark
+untabled+multi-translit	pt-br	Bartholomaios	Bartolomeu	2	acts
+untabled	pt-br	Beelzevul	Beelzebul	2	mark
+conflict	pt-br	Bet-Lechem	Belém	2	matthew
+tabled	pt-br	Beyt-Anyah	Betânia	2	john
+reversed	pt-br	Caim	Qayin	2	genesis
+reversed	pt-br	Cam	Cham	2	genesis
+untabled+multi-translit	pt-br	Códice Bezae	D	2	acts,matthew
+untabled+multi-translit	pt-br	David	Davi	2	luke,matthew
+untabled	pt-br	Dawud	David	2	acts
+tabled	pt-br	Enosh	Enos	2	genesis,luke
+untabled	pt-br	Entre Yoram	Jeorão	2	matthew
+untabled	pt-br	Evyatar	Abiatar	2	mark
+conflict	pt-br	Herodes	Herod	2	luke
+untabled	pt-br	Jafé	Yafet	2	genesis
+untabled+multi-translit	pt-br	Jibril	Gabriel	2	acts,luke
+conflict	pt-br	Kapharnachum	Cafarnaum	2	john
+untabled	pt-br	Kena'ani	Cananeu	2	mark
+untabled	pt-br	Kittim	Chipre	2	genesis
+conflict	pt-br	Musa	Moisés	2	acts,genesis
+tabled	pt-br	Nachor	Naor	2	genesis,luke
+untabled	pt-br	Primária	Rabínica	2	genesis
+untabled	pt-br	Primária	Pseudepigrafia	2	genesis
+reversed	pt-br	Sete	Shet	2	genesis
+untabled+multi-translit	pt-br	Shlomoh	Salomão	2	acts
+untabled	pt-br	Shomron	Samaria	2	acts
+untabled	pt-br	Silvano	Silas	2	1-peter
+untabled	pt-br	Sião	Tsiyon	2	1-peter
+untabled+multi-translit	pt-br	Thomas	Tomé	2	acts
+untabled+multi-translit	pt-br	Toma	Tomé	2	mark
+tabled	pt-br	Tsduqim	Saduceus	2	matthew
+untabled	pt-br	Tsidon	Sídon	2	genesis
+untabled	pt-br	Tsidon	Sidom	2	mark
+untabled	pt-br	Tsor	Tiro	2	mark
+untabled+multi-translit	pt-br	Yehudah Ish-Keriot	Judas Iscariotes	2	mark
+tabled	pt-br	Yered	Jarede	2	genesis,luke
+conflict	pt-br	Yeshua	Possível	2	luke
+untabled+multi-translit	pt-br	Yitzchak	Isaque	2	luke
+untabled	pt-br	Yosef Barsabbas	José Barsabás	2	acts
+untabled	pt-br	Zabur	Salmos	2	acts,luke
+reversed	pt-br	Abrão	Avram	1	genesis
+untabled	pt-br	Achazyahu	Acazias	1	matthew
+untabled	pt-br	Aharon	Aarão	1	luke
+untabled	pt-br	Akitu	Ano Novo	1	genesis
+untabled	pt-br	Amatsyahu	Amazias	1	matthew
+untabled	pt-br	Ano Novo	Akitu	1	genesis
+untabled	pt-br	Archelaos	Arquelau	1	matthew
+untabled	pt-br	Artigo	Nuzi	1	genesis
+untabled+multi-translit	pt-br	Atos	Opção C	1	acts
+untabled	pt-br	Bar-Naba	Barnabé	1	1-peter
+untabled+multi-translit	pt-br	Bar-Tholmai	Bartolomeu	1	john
+untabled	pt-br	Bavel	Babel	1	genesis
+untabled	pt-br	Ben Sirá	Eclesiástico	1	john
+tabled	pt-br	Beyt-El	Betel	1	genesis
+tabled+multi-translit	pt-br	Beyt-Tsaidah	Betsaida	1	john
+untabled	pt-br	Bo'az	Boaz	1	luke
+untabled	pt-br	Bíblia Hebraica	Tanakh	1	genesis
+untabled	pt-br	C	Datação	1	1-peter
+untabled	pt-br	Caifás	José Caifás	1	luke
+untabled	pt-br	Caim	Midrash Tanchuma	1	genesis
+untabled	pt-br	Caio Otávio	Otaviano	1	luke
+untabled	pt-br	Canaã	Josué	1	genesis
+untabled+multi-translit	pt-br	Chana	Ana	1	matthew
+untabled	pt-br	Charan	Harrã	1	genesis
+untabled	pt-br	Chipre	Kítion	1	genesis
+untabled	pt-br	Codex Alexandrinus	A	1	john
+untabled+multi-translit	pt-br	Codex Bezae	D	1	john
+untabled+multi-translit	pt-br	Codex Vaticanus	B	1	john
+untabled+multi-translit	pt-br	Com Shimon Kefa	Simão Pedro	1	mark
+tabled+multi-translit	pt-br	Com Yochanan	João	1	acts
+untabled	pt-br	Cáucaso	Geórgia	1	genesis
+untabled+multi-translit	pt-br	Códice Beza	D	1	luke
+untabled+multi-translit	pt-br	Códice Vaticano	B	1	matthew
+untabled	pt-br	D	Deuteronomista	1	genesis
+untabled+multi-translit	pt-br	Dawud	Davi	1	luke
+untabled	pt-br	Deus	Levítico	1	1-peter
+untabled	pt-br	Deus	Allah	1	acts
+untabled	pt-br	E	Eloísta	1	genesis
+untabled	pt-br	Eridu	Ziusudra	1	genesis
+untabled	pt-br	Filipe	Gaulanítide	1	mark
+untabled	pt-br	Fórmulas Travadas	Múltiplas Ocorrências	1	genesis
+untabled	pt-br	Galilee	Lake Kinneret	1	mark
+untabled	pt-br	Grande	Herodes I	1	matthew
+untabled+multi-translit	pt-br	Hannah	Ana	1	luke
+tabled	pt-br	Haran	Harã	1	genesis
+conflict	pt-br	Herodes Antipas	Galileia	1	mark
+untabled	pt-br	I	Cenário Histórico	1	1-peter
+untabled+multi-translit	pt-br	Iakobos	Tiago	1	matthew
+untabled	pt-br	Iblis	Satanás	1	genesis
+untabled	pt-br	Idumeia	Edom	1	mark
+untabled+multi-translit	pt-br	Ishaq	Isaque	1	genesis
+untabled	pt-br	Isma'il	Ismael	1	genesis
+untabled	pt-br	Israel	Shem	1	genesis
+untabled+multi-translit	pt-br	Israel	Isaque	1	luke
+conflict	pt-br	Israel	Herodes	1	matthew
+untabled	pt-br	J	Javista	1	genesis
+untabled	pt-br	Jerusalém	Neemias	1	genesis
+untabled+multi-translit	pt-br	José Barsabás	Justo	1	acts
+untabled	pt-br	Kainan	Καϊνάν	1	genesis
+untabled	pt-br	Lake	Loeb	1	john
+tabled	pt-br	Lot	Ló	1	genesis
+untabled	pt-br	Lucas	Levi	1	mark
+untabled+multi-translit	pt-br	Mahalal'el	Maalaleel	1	luke
+conflict	pt-br	Mahalalel	Maalaleel	1	genesis
+untabled	pt-br	Mar Morto	Qumran	1	genesis
+untabled	pt-br	Miqwa'ot	Ritual Immersion Baths	1	matthew
+untabled	pt-br	Mushki	Frígia	1	genesis
+untabled	pt-br	Na'aman	Naamã	1	matthew
+untabled+multi-translit	pt-br	Nome Divino	Opção C	1	john
+untabled+multi-translit	pt-br	Nome Divino GS	Opção C	1	matthew
+reversed	pt-br	Noé	Noach	1	genesis
+untabled	pt-br	Noé	Genesis	1	genesis
+untabled	pt-br	Noé	Gênesis	1	genesis
+conflict	pt-br	Nuh	Noé	1	1-peter
+untabled	pt-br	Oved	Obede	1	luke
+untabled	pt-br	P	Sacerdotal	1	genesis
+untabled+multi-translit	pt-br	Pedro	Opção C	1	1-peter
+conflict	pt-br	Philippos	Felipe	1	john
+untabled	pt-br	Primária	Suméria	1	genesis
+untabled	pt-br	Qayafa	Aramaico	1	luke
+untabled	pt-br	Quirino	Publius Sulpicius Quirinius	1	luke
+untabled	pt-br	Rachav	Raabe	1	matthew
+untabled	pt-br	Rechav'am	Roboão	1	matthew
+tabled+multi-translit	pt-br	Rio Yarden	Jordão	1	matthew
+untabled	pt-br	Rivqah	Rebeca	1	luke
+untabled	pt-br	Rut	Rute	1	matthew
+untabled	pt-br	Sabá	Iêmen	1	genesis
+untabled	pt-br	Sara	Sārah	1	1-peter
+untabled	pt-br	Secundária	Islâmica	1	genesis
+untabled	pt-br	Secundária	Alcorão	1	genesis
+untabled	pt-br	Secundária	Urartu	1	genesis
+untabled	pt-br	Secundário	Egitologia	1	genesis
+untabled+multi-translit	pt-br	Senhor	Opção C	1	1-peter
+tabled+multi-translit	pt-br	Senhor Yeshua	Jesus	1	acts
+untabled	pt-br	Shaul	Saul	1	acts
+untabled	pt-br	Shimon Kefa	Simon Peter	1	1-peter
+conflict	pt-br	Simão	Pedro	1	mark
+untabled+multi-translit	pt-br	Soreq	Israel	1	genesis
+untabled+multi-translit	pt-br	Sulayman	Salomão	1	acts
+untabled	pt-br	Tarso	Cilícia	1	genesis
+untabled	pt-br	Tartesso	Espanha	1	genesis
+untabled	pt-br	Torá	Pentateuco	1	genesis
+untabled	pt-br	Tsiyon	Sião	1	1-peter
+untabled	pt-br	Uriyah	Urias	1	matthew
+untabled	pt-br	Utnapishtim	Gilgamesh	1	genesis
+untabled+multi-translit	pt-br	Yaakov	Jacó	1	john
+untabled	pt-br	Yavneh	Jâmnia	1	john
+untabled	pt-br	Yo'ash	Joás	1	matthew
+untabled	pt-br	Yoaqim	Joaquim	1	matthew
+conflict	pt-br	Yonah	João	1	john
+untabled+multi-translit	pt-br	Yosef Barsabbas	Justo	1	acts
+tabled+multi-translit	pt-br	És Eliyahu	Elias	1	john
+untabled+multi-translit	pt-br	Μαθθαῖος	Mateus	1	acts
