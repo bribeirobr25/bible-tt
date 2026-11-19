@@ -1,0 +1,45 @@
+name: Gate
+
+# The project's definition-of-done gate (CONTRIBUTING.md), run on every push
+# to main and every pull request. Launch-Readiness Program Step 2.
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: gate-${{ github.ref }}
+  cancel-in-progress: true
+
+env:
+  # Deterministic Unicode behaviour for grep/perl in content-lint (GNU grep on
+  # ubuntu; macOS developers run BSD grep + bash 3.2 locally).
+  LC_ALL: C.UTF-8
+  NEXT_TELEMETRY_DISABLED: "1"
+
+jobs:
+  gate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      # Version comes from package.json "packageManager" (do not also set `version`).
+      - uses: pnpm/action-setup@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: pnpm
+      - run: pnpm install --frozen-lockfile
+      - name: Unit tests (incl. conservation, parity, activation-consistency)
+        run: pnpm test
+      - name: Biome lint
+        run: pnpm lint
+      - name: Typecheck
+        run: pnpm typecheck
+      - name: Content lint
+        run: pnpm content:lint
+      - name: Build (next/font fetches Google Fonts — retried once on network failure)
+        run: pnpm build || (echo "build failed — retrying once" && sleep 15 && pnpm build)
