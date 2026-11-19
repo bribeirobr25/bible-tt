@@ -160,11 +160,13 @@ check_pattern "0.3" "ES NT diacritic loss in front matter or body" \
 # §0.3b — ES diacritic/grammar regressions (ALL es books, incl. genesis — §0.3 only covers NT).
 # High-precision, zero-false-positive tokens cleared in the 2026-06-23 pivot-fidelity audit
 # (docs/audit/PIVOT_FIDELITY_AUDIT.md); recovered onto main 2026-11-19 (Step 1, PLAN_BASELINE_RECOVERY.md),
-# which also added the capitalised "En el era" and Gen 1:11-12 "está en el," forms. NOTE: the broader systemic ES pronoun-accent sweep
+# which also added the capitalised "En el era" and Gen 1:11-12 "está en el," forms, the spurious-accent
+# "generaciónes" (27 cleared), and anchored "*esta*" so bold **esta** does not match. "se exultó" carries no
+# trailing \b: after a multibyte "ó" a C/POSIX locale sees no word boundary and the match would silently fail. NOTE: the broader systemic ES pronoun-accent sweep
 # (a el / de el / hacia el → al / él, ¿Donde, clamandó …) is tracked in PENDING.md, not here,
 # because those need per-instance judgment (article "el" vs pronoun "él") and would false-positive.
 check_pattern "0.3b" "ES diacritic/grammar regression (audit-cleared tokens)" \
-  "\*esta\*|\b[Ee]n el era\b|\bde el ni\b|\bse cernia\b|\bse exultó\b|está\*? en el," \
+  "(^|[^*])\*esta\*([^*]|$)|\b[Ee]n el era\b|\bde el ni\b|\bse cernia\b|\bse exultó|está\*? en el,|generaciónes" \
   "content/es"
 
 # §0.3c — anti-pivot-calque: English grammatical filler ("the Mighty *One*") carried into a
@@ -172,7 +174,16 @@ check_pattern "0.3b" "ES diacritic/grammar regression (audit-cleared tokens)" \
 # Mächtige"), as do PT/ES ("o Poderoso"/"el Poderoso"), so an italic *Eine*/*Um*/*Uno* is an
 # EN-pivot artifact (Rule 11 marks words the *target* grammar needs, not English's crutches).
 check_pattern "0.3c" "EN-pivot grammatical-filler calque (italic One/Eine/Um/Uno)" \
-  "\*Eine[rnm]?\*|\*Eins\*|\*Uma?\*|\*Una?\*|\*Uno\*" \
+  "(^|[^*])\*(Eine[rnm]?|Eins|Uma?|Una?|Uno)\*([^*]|$)" \
+  "content/de content/pt-br content/es"
+
+# §0.3d — WARN-ONLY: lowercase pivot-calque class (adjective + italic indefinite filler), e.g.
+# "tu santo *uno*", "den heiligen und gerechten *einen*", "santo e justo *um*" (EN "the Holy *One*").
+# Same artifact as §0.3c but lowercase; ~17 known lines (Acts 2-3 + Luke 1:35) await a source-anchored
+# editorial pass (Launch Program Step 3/4). Warn-only until that class is cleared (playbook T-14),
+# then promote to blocking.
+check_pattern_warn "0.3d" "EN-pivot calque: adjective + italic indefinite filler (lowercase)" \
+  "(santo|santa|justo|heilige[nrs]?|Heiligen|gerechte[nrs]?|Gerechten|poderoso|mächtige[nr]?) \*(uno|una|um|uma|ein|eine[nrms]?)\*([^*]|$)" \
   "content/de content/pt-br content/es"
 
 # §0.4 — ES NT missing Reina-Valera declaration
