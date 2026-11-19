@@ -8,6 +8,8 @@
 
 ## ⭐ Snapshot — everything open, at a glance
 
+> **2026-11-19 — Project State Audit:** `docs/audit/PROJECT_STATE_AUDIT.md` (full doc + code + branch review; findings only, not yet triaged into this tracker). Headlines: unmerged `1-peter-expansion` branch; orphaned pivot-fidelity commit `333a373` (its content fixes are not on `main`); live bugs (unactivated-book chapters served, Sources Consulted never rendered, Gen 8 table misalignment, `א*` italics, `/rules` omits Rule 30, unstyled 404); gate gaps (no CI, no cross-locale parity test).
+
 **Content authoring (largest):**
 - **Genesis 13–50 (Phase 12)** — the biggest remaining body of work. *(detail §1)*
 
