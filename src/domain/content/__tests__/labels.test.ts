@@ -172,3 +172,41 @@ describe("labels — word-start matching (no infix / negated matches)", () => {
     expect(r).toEqual({ claimType: "TEXTUAL", confidence: "VERIFIED" });
   });
 });
+
+// Implementation review (R2/R3): pin the matcher so its mutants die.
+describe("labels — matcher semantics (mutation-pinned)", () => {
+  const quiet = () => vi.spyOn(console, "warn").mockImplementation(() => {});
+  afterEach(() => vi.restoreAllMocks());
+
+  it("a negated occurrence is skipped and a LATER occurrence of the same alias still counts", () => {
+    expect(parseConfidence("NOT VERIFIED BY X; VERIFIED BY Y")).toBe(
+      "VERIFIED",
+    );
+  });
+  it("an infix occurrence is skipped and a later word-start one still counts", () => {
+    expect(parseConfidence("UNVERIFIED / VERIFIED")).toBe("VERIFIED");
+  });
+  it("word start is Unicode-aware (a preceding non-ASCII letter blocks the match)", () => {
+    const warn = quiet();
+    expect(parseConfidence("ÜVERIFIED")).toBe("POSSIBLE");
+    expect(warn).toHaveBeenCalledTimes(1);
+  });
+  it("Portuguese NÃO negates (Unicode negator look-back)", () => {
+    expect(parseConfidence("PROVÁVEL (NÃO VERIFICADO)")).toBe("PROBABLE");
+  });
+  it("negation needs a whitespace/hyphen gap; other punctuation separates clauses", () => {
+    expect(parseConfidence("NO (VERIFIED)")).toBe("VERIFIED");
+    const warn = quiet();
+    expect(parseConfidence("NOT-VERIFIED")).toBe("POSSIBLE");
+    expect(warn).toHaveBeenCalledTimes(1);
+  });
+  it("claim types are never negated (PT 'no' = 'in the')", () => {
+    expect(parseClaimType("NO HISTÓRICO")).toBe("HISTORICAL / ARCHAEOLOGICAL");
+  });
+  it("known limit, pinned: one word of look-back ('NOT YET VERIFIED' → VERIFIED)", () => {
+    expect(parseConfidence("NOT YET VERIFIED")).toBe("VERIFIED");
+  });
+  it("normalizes decomposed (NFD) input", () => {
+    expect(parseConfidence("PROVÁVEL")).toBe("PROBABLE");
+  });
+});

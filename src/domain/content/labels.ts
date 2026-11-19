@@ -135,7 +135,11 @@ const NEGATORS = new Set([
  * `MÖGLICH`), so infix matches such as `UNVERIFIED` → `VERIFIED` and
  * `IMPROBABLE` → `PROBABLE` no longer resolve. Every occurrence is checked.
  */
-function hasAliasAtWordStart(text: string, alias: string): boolean {
+function hasAliasAtWordStart(
+  text: string,
+  alias: string,
+  negatable: boolean,
+): boolean {
   let from = 0;
   for (;;) {
     const i = text.indexOf(alias, from);
@@ -143,17 +147,24 @@ function hasAliasAtWordStart(text: string, alias: string): boolean {
     from = i + 1;
     const before = text.slice(0, i);
     if (/[\p{L}\p{M}]$/u.test(before)) continue; // infix — not a word start
-    const prevWord = before.match(/([\p{L}\p{M}]+)[^\p{L}\p{M}]*$/u)?.[1];
-    if (prevWord && NEGATORS.has(prevWord)) continue; // negated / weakened
+    if (negatable) {
+      // Only a negator separated by whitespace/hyphen negates ("NO VERIFICADO",
+      // "NOT-VERIFIED"); across other punctuation it is a separate clause
+      // ("NO (VERIFIED)" stays VERIFIED). Known limit: one word of look-back,
+      // so "NOT YET VERIFIED" still resolves to VERIFIED.
+      const prevWord = before.match(/([\p{L}\p{M}]+)[\s-]+$/u)?.[1];
+      if (prevWord && NEGATORS.has(prevWord)) continue; // negated / weakened
+    }
     return true;
   }
 }
 
 /** Resolve a raw claim-type label to its canonical `ClaimType` (default `TEXTUAL`). */
 export function parseClaimType(raw: string): ClaimType {
-  const n = raw.trim().toUpperCase();
+  const n = raw.normalize("NFC").trim().toUpperCase();
   for (const ct of CLAIM_TYPES) {
-    if (CLAIM_TYPE_ALIASES[ct].some((a) => hasAliasAtWordStart(n, a)))
+    // Negation is meaningless for a claim type — only confidence is negatable.
+    if (CLAIM_TYPE_ALIASES[ct].some((a) => hasAliasAtWordStart(n, a, false)))
       return ct;
   }
   console.warn(
@@ -164,9 +175,9 @@ export function parseClaimType(raw: string): ClaimType {
 
 /** Resolve a raw confidence label to its canonical `ConfidenceLevel` (default `POSSIBLE`). */
 export function parseConfidence(raw: string): ConfidenceLevel {
-  const n = raw.trim().toUpperCase();
+  const n = raw.normalize("NFC").trim().toUpperCase();
   for (const level of CONFIDENCE_LEVELS) {
-    if (CONFIDENCE_ALIASES[level].some((a) => hasAliasAtWordStart(n, a)))
+    if (CONFIDENCE_ALIASES[level].some((a) => hasAliasAtWordStart(n, a, true)))
       return level;
   }
   console.warn(
