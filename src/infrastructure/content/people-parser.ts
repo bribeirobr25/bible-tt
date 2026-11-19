@@ -382,10 +382,12 @@ export function parsePeopleMarkdown(raw: string, book: string): PeopleData {
         const label = noteMatch[1].trim();
         const head = normalizeLabel(label).match(/^[\p{L}]+/u)?.[0] ?? "";
         if (NOTE_LABELS.has(head)) {
-          const qualifier = label
+          const rest = label
             .slice(head.length)
             .replace(/^[\s—–:-]+/, "")
             .trim();
+          // Rendered after the localized "Note." lead, so start it capitalized.
+          const qualifier = rest.charAt(0).toUpperCase() + rest.slice(1);
           const value = noteMatch[2].trim();
           const parts = [qualifier ? `**${qualifier}:**` : "", value].filter(
             Boolean,

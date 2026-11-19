@@ -193,6 +193,8 @@ describe("people list splitting, historicity, genealogy notes (implementation re
         locale,
       ).toBe(6);
       expect(note, locale).toMatch(/El[ií]/);
+      // qualifier is the bold, capitalized lead ("**Divergence from Matthew …:**")
+      expect(note, locale).toMatch(/^\*\*\p{Lu}/u);
     }
   });
 });

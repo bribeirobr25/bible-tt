@@ -2,7 +2,7 @@
 
 **Program:** `docs/audit/LAUNCH_PROGRAM.md` — Step 2 (D13, D14, D16).
 **Date:** 2026-11-19
-**Status:** **EXECUTED 2026-11-19** (PR #16) · REVIEWED (independent adversarial review, §10 — 1 blocker + 14 findings folded in) → revised → execution approved by the lead ("proceed", 2026-11-19, same workflow as Step 1: plan → review → fix → implement → 5-reviewer implementation review → fix → merge when green).
+**Status:** **EXECUTED 2026-11-19** (PR #16) · **IMPLEMENTATION-REVIEWED** (§11, 5 reviewers, findings fixed) · REVIEWED (independent adversarial review, §10 — 1 blocker + 14 findings folded in) → revised → execution approved by the lead ("proceed", 2026-11-19, same workflow as Step 1: plan → review → fix → implement → 5-reviewer implementation review → fix → merge when green).
 **Branch:** `safety-net` (from `main` @ `7f5e3b5`) → PR → merge when the full gate **and CI** are green.
 
 ---
@@ -29,7 +29,7 @@ Make the gate trustworthy before Steps 3–5 change content at scale: every chec
 | Conservation gate | expected values rebuilt from the same parsed objects → cannot detect raw-markdown loss |
 | Parity | no test for EN ↔ PT/DE/ES file sets, verse numbers, marker counts, companion entries; **companion entries currently differ in 10 file×locale sets** (the audit's 9 + Gen 9 F5 missing in PT-BR/ES; Step 4b D12); dual-label counts differ in 11 companions |
 | activation-consistency | checks registry ↔ BOOK_ORDER ↔ HEBREW_BIBLE ↔ i18n `book.*` + one lint substring; **not** `bookLabels`, inBook aliases, §0.12/RULES-CORE allow-list, editorial log, non-EN content |
-| People field resolution | `resolveField` fallback is substring-based: Luke `Note — divergence from Matthew` → `crossBookSee` (×4 locales; the row is then **dropped from the card**), DE `Erstnennung in Matthäus` → `inBook`, `Querverweis` → `crossBookSee`; DE lacks aliases for firstMention/booksAppearingIn/historicityStatus/deathYear/locations/placesLived; ES `Esposo/a(s)` → nothing; DE Acts `In der Apostelgeschichte` → nothing (B11) |
+| People field resolution | `resolveField` fallback is substring-based: Luke `Note — divergence from Matthew` → `crossBookSee` (×4 locales; the row is then **dropped from the card**) — ***corrected in §11:** wrong — that note sits in the genealogy section, which `resolveField` never sees; the real defect was the genealogy parser (fixed)*, DE `Erstnennung in Matthäus` → `inBook`, `Querverweis` → `crossBookSee`; DE lacks aliases for firstMention/booksAppearingIn/historicityStatus/deathYear/locations/placesLived; ES `Esposo/a(s)` → nothing; DE Acts `In der Apostelgeschichte` → nothing (B11) |
 | Vacuous tests | `if (!raw) continue/return` (people-parser ×4), `if (herod)`, `if (ane)`; validity asserts that the fallback always satisfies while `console.warn` is mocked |
 | i18n | parity holds (264 keys × 4) but only `book.*` is tested |
 | vitest | `include` = `src/**/*.test.ts` (a `.tsx` test would be silently skipped) |
@@ -120,3 +120,37 @@ Single PR; tooling/test-only except the 5 ES token fixes, the B11 alias, and the
 | F15 | nice | engines `22.x`; `.tsx` include useless; double scanning; 265 i18n keys; people-heading independence; chapter heading parity invalid | Folded in (WS5, WS4.6, WS2.11, WS4.2, WS4.1) |
 
 Verified by the reviewer (no change needed): widened §0.3 = exactly 5 hits; widened legacy diacritics = 0; case-insensitive vosotros adds only Ps 82:6; no rule currently *relies* on stderr suppression; file sets, verse sequences and marker counts identical across locales; current lint passes unchanged on Ubuntu 24.04 (GNU grep 3.11, bash 5.2, C.UTF-8 and POSIX) with identical per-rule counts; lockfile valid for `--frozen-lockfile`.
+
+---
+
+## 11. Implementation review (5 independent reviewers, 2026-11-19)
+
+Reviewers: **R1** lint tooling + CI · **R2** test quality (mutation testing) · **R3** code correctness (main ↔ branch differential over the whole corpus) · **R4** runtime + visual (built site, 468 pages diffed) · **R5** docs + process coherence. All confirmed: 6,350-label resolution byte-identical (11,494 calls, 350 distinct labels, zero fallbacks); all other parser outputs identical; lint findings identical across bash 3.2/5.2, BSD/GNU grep, `LC_ALL=C`; canonical verse table matches NA28/BHS; KNOWN_* gap maps re-derived independently.
+
+| # | From | Finding | Resolution |
+|---|---|---|---|
+| I1 | R4 | Luke "Note — divergence from Matthew" (genealogy section, ×4 locales) never rendered; the plan/history claimed `resolveField` restored it | **Fixed** in `people-parser.ts` (qualified note label + following bullets → `gen.note`, rendered with the note subset); test asserts 6 bullets ×4 locales; claims corrected (§2 row, EXECUTION_HISTORY, LAUNCH_PROGRAM) |
+| I2 | R4 | ES heading accents incomplete in the touched companions | **Fixed** corpus-wide on heading lines: 150 words / 25 files (curated; correct unaccented forms kept). Body-text residue → Step 3 |
+| I3 | R3 | Newly typed list fields split on every comma (DE `4,18`, `Mark (1:16, 29)`) | **Fixed** — `splitList` (`;` + depth-0 non-digit `,`) + tests |
+| I4 | R3 | `parseHistoricityStatus` lacks DE `BESTÄTIGT`; matched anywhere in prose | **Fixed** — leading word only, `BESTÄTIGT`/`BESTAETIGT` |
+| I5 | R3 | Short prefix aliases (`ort`) / see-aliases could capture "Ort der Geburt", "See also" | **Fixed** — aliases ≤5 chars and `crossBookSee` are exact-only; tests |
+| I6 | R3/R2 | Negation crossed punctuation, applied to claim types; 5 matcher mutants survived; NFD unnormalized | **Fixed** — confidence-only, whitespace/hyphen gap; NFC; 8 pinning tests; all 7 mutants now killed |
+| I7 | R2 | EN-only pilot book crashed `raw-reconciliation` | **Fixed** (missing dir → no files) |
+| I8 | R2 | Entry deletions in INTRODUCTION / book CONTEXT / PROPHECY uncaught | **Fixed** — exact count + dual-label parity (all 93 pairs at parity) |
+| I9 | R2 | People check one-directional; swaps undetected | **Fixed** — both directions; order pinned by first-mention reference sequence |
+| I10 | R2 | `resolveField` boundary untested; vacuous intro label test; oracle independence overstated | **Fixed** — boundary assertions; no-"Unrecognized" assertion; doc comment states routing-only vs independent checks |
+| I11 | R1 | §0.3c gaps (lowercase word + `*Eine*`), §0.3d case | **Fixed** — any word before the filler; case-tolerant adjectives; injection-tested |
+| I12 | R1 | Empty file list → `grep -r .` / perl stdin hang; `find` status lost; Encode.pm dependency | **Fixed** — tool errors on empty input; `find` checked; core `utf8::decode` |
+| I13 | R1 | Actions on deprecated Node-20 runtime; concurrency cancels `main` runs | **Fixed** — checkout@v7, setup-node@v7, pnpm/action-setup@v6; cancel only PR runs |
+| I14 | R1/R5 | §0.12 allow-list hardcoded (playbook said "no edit") | **Fixed** — generated from book dirs + `FORWARD_SLUGS` |
+| I15 | R1 | `--warn-only` hid tool errors | **Fixed** — exits 2 on tool errors |
+| I16 | R1 | §0.3 plurals / vosotros casing / §0.1 label | **Fixed** (plural widening limited to `Capitulos/Historicos/Senores` — `Ediciones/Traducciones` are correct Spanish) |
+| I17 | R5 | Docs: CLAUDE.md "Step 2 next", CONTRIBUTING "not mergeable", stale playbook T-09/T-12/row 6/backstop, unannotated audit §3.3/B11, LAUNCH_PROGRAM row order/B11/D12/regex pipes, test counts | **Fixed** in this PR |
+| I18 | R5 | §0.1b sample is a legitimate citation; 12 of 137 lines are prose | **Routed** → Step 4d note (no blind re-stamp) |
+| I19 | R5/R2 | RULES-CORE "5 changes" vs 8 touchpoints; `people.inBook.{slug}` key missing; `heroTagline`/source stub unchecked; allow-list check not table-scoped | **Routed** → Step 4d (rule files locked this step) |
+| I20 | R3 | `PILOT_BOOKS` only used by tests | **Kept** (zero runtime cost; documents intent in the registry) |
+| I21 | R5 | 6,350 / 78 / 26 figures came from uncommitted scripts | **Accepted** — reproduced independently by R3 (labels) and R1 (lint lines); figures stand as point-in-time measurements |
+| I22 | R4 | People-page gutter, raw file paths in cards, EN Genesis 688 vs 687 fields | **Pre-existing** → Step 5 (visual) / Step 4b (meta leaks, field) |
+| I23 | R5 | `main` has no branch protection; CI is advisory | **Lead decision** — recommend making `Gate` a required check (not changed without the lead) |
+| I24 | R1 | 22 stale §0.8 allow-list entries | **Routed** → Step 3 (allow-list hygiene) |
+

@@ -22,7 +22,7 @@ pnpm dev
 |---|---|
 | `pnpm dev` | Dev server with Turbopack — http://localhost:3001 |
 | `pnpm build` | Production build |
-| `pnpm test` | All Vitest unit tests (parsers, render-safe, conservation gate) |
+| `pnpm test` | All Vitest unit tests (parsers, render-safe, conservation gate, locale parity, raw-count reconciliation, people-field resolution, i18n parity) |
 | `pnpm lint` | Biome linter (`src/`) |
 | `pnpm typecheck` | `tsc --noEmit` |
 | `pnpm content:lint` | Hardened content lint (`scripts/content-lint.sh`); allow-list at `scripts/lint-allowlist.txt` |
@@ -40,7 +40,7 @@ A change is not done until **all** of these pass locally:
 4. `pnpm content:lint` — content lint clean (or any new exception added, with justification, to `scripts/lint-allowlist.txt`).
 5. **i18n parity** — any UI string added in one locale exists in all four (`en`, `pt-br`, `de`, `es`) under `src/infrastructure/i18n/messages/` (now enforced by `src/infrastructure/i18n/__tests__/messages-parity.test.ts`).
 6. `pnpm typecheck` — `tsc --noEmit` clean.
-7. **CI green** — the GitHub Actions **Gate** workflow (`.github/workflows/gate.yml`) runs steps 1–4 + typecheck on Linux (GNU grep, bash 5) for every PR and push to `main`; a PR is not mergeable until it is green. Local runs use macOS BSD grep + bash 3.2 — both must pass.
+7. **CI green** — the GitHub Actions **Gate** workflow (`.github/workflows/gate.yml`) runs steps 1–4 + typecheck on Linux (GNU grep, bash 5) for every PR and push to `main`; a PR **must not be merged** until it is green. (Not enforced by GitHub yet: `main` has no branch protection — making `Gate` a required check is a lead setting.) Local runs use macOS BSD grep + bash 3.2 — both must pass.
 
 Two recurring footguns:
 
