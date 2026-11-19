@@ -66,7 +66,7 @@ Las notas se etiquetan por tipo — **Crítico · Léxico · Gramatical · Teol�
 
 ¹⁴@@Hazte una {t:tebah} de madera de {t:gofer}; compartimentos haras *en* la {t:tebah}, y la cubriras por dentro y por fuera con kofer. ¹⁵Y así *es como* la haras: trescientos codos la longitud de la {t:tebah}, cincuenta codos su anchura, y treinta codos su altura. ¹⁶Un tsohar haras para la {t:tebah}, y a un codo la terminaras desde arriba, y la puerta de la {t:tebah} pondras en su costado; *pisos* inferior, segundo y tercero la haras.@@
 
-¹⁷@@Y yo, he aquí, yo traigo el diluvio de aguas sobre la tierra, para destruir toda carne en la que *hay* aliento de vida de debajo del cielo; todo lo que *esta* en la tierra morira. ¹⁸Pero yo establecere mi pacto contigo, y entraras en la {t:tebah} — tu y tus hijos y tu mujer y las mujeres de tus hijos contigo. ¹⁹Y de todo ser vivo, de toda carne, dos de todos meteras en la {t:tebah} para mantener vivos contigo; macho y hembra seran. ²⁰Del ave según su especie, y del ganado según su especie, de todo ser que se arrastra del suelo según su especie, dos de todos vendran a ti para mantener vivos. ²¹Y tu, toma para ti de todo alimento que se come, y juntalo para ti, y sera para alimento para ti y para ellos."@@ ²²Y Noé hizo conforme a todo lo que Dios le mandó; así hizo.
+¹⁷@@Y yo, he aquí, yo traigo el diluvio de aguas sobre la tierra, para destruir toda carne en la que *hay* aliento de vida de debajo del cielo; todo lo que *está* en la tierra morira. ¹⁸Pero yo establecere mi pacto contigo, y entraras en la {t:tebah} — tu y tus hijos y tu mujer y las mujeres de tus hijos contigo. ¹⁹Y de todo ser vivo, de toda carne, dos de todos meteras en la {t:tebah} para mantener vivos contigo; macho y hembra seran. ²⁰Del ave según su especie, y del ganado según su especie, de todo ser que se arrastra del suelo según su especie, dos de todos vendran a ti para mantener vivos. ²¹Y tu, toma para ti de todo alimento que se come, y juntalo para ti, y sera para alimento para ti y para ellos."@@ ²²Y Noé hizo conforme a todo lo que Dios le mandó; así hizo.
 
 ---
 
@@ -279,7 +279,7 @@ Y Dios dijo a Noé: @@"El fin de toda carne ha venido delante de mi, porque la t
 
 ### **Versículo 17**
 
-@@Y yo, he aquí, yo traigo el diluvio de aguas sobre la tierra, para destruir toda carne en la que *hay* aliento de vida de debajo del cielo; todo lo que *esta* en la tierra morira.@@
+@@Y yo, he aquí, yo traigo el diluvio de aguas sobre la tierra, para destruir toda carne en la que *hay* aliento de vida de debajo del cielo; todo lo que *está* en la tierra morira.@@
 
 > **NOTAS**
 >
