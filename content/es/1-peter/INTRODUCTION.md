@@ -280,7 +280,7 @@ Cuando 1 Pedro cita o evoca pasajes de la Biblia Hebrea que contienen el Tetragr
 
 Las citas del AT llevan **YHWH** detrás del griego *kyrios*:
 
-- **1:25** (Isa 40:8) — "la palabra *del Señor* (YHWH) permanece para siempre."
+- **1:25** (Isa 40:8) — "la palabra *del Señor* permanece para siempre" — Isaías tiene "nuestro Dios"; κυρίου es sustitución de 1 Pedro.
 - **2:3** (Sal 34:8) — "*el Señor* (YHWH) es bueno / bondadoso."
 - **3:12** (Sal 34:15–16) — "los ojos *del Señor* (YHWH)… el rostro *del Señor*."
 

@@ -47,7 +47,7 @@ As notas são marcadas por tipo — **Crítico · Lexical · Gramatical · Teol�
 
 **Temas-chave:** A saudação epistolar e a eleição de configuração trinitária (presciência do Pai / santificação do vento/espírito / aspersão do sangue); o **novo nascimento (anagennaō)** para uma esperança viva; a herança incorruptível "guardada nos céus"; a fé provada mais preciosa que o ouro, refinada pelo fogo; amar um Senhor não visto; os profetas e o "vento/espírito do Messias" predizendo o padrão sofrimentos-depois-glórias; o chamado à santidade fundamentado na própria santidade de Deus (Levítico); o **resgate** pelo sangue do Messias, o cordeiro sem mácula, conhecido de antemão antes da fundação do mundo; a identidade dos leitores como **exilados/peregrinos (paroikia)** vivendo em temor reverente; o novo nascimento mediante a palavra viva e permanente, posto contra o murchar de toda carne (Isaías 40).
 
-**Observe:** Esta é uma carta — vv.3-12 são uma única frase periódica em grego; a TT mantém a sua estrutura subordinada e suspensa. As três frases da saudação (vv.1-2) carregam uma configuração trinitária; a TT verte o grego sem importar vocabulário dogmático posterior (Regra 3). *Pneuma* mantém a barra vento/espírito (1:2, 11, 12). Em 1:11 "o vento/espírito do Messias" nos profetas é uma afirmação notável — vertida como o grego a tem. A citação de Levítico (1:16) é a palavra de Deus em primeira pessoa — marcada @@…@@. *Kyrios* em 1:25 (Isaías 40:8) = YHWH (Opção C: "o Senhor"). "Peregrinos… dispersão… peregrinar" (*parepidēmoi / diaspora / paroikia*) é a palavra-chave de identidade da carta — mantida literal.
+**Observe:** Esta é uma carta — vv.3-12 são uma única frase periódica em grego; a TT mantém a sua estrutura subordinada e suspensa. As três frases da saudação (vv.1-2) carregam uma configuração trinitária; a TT verte o grego sem importar vocabulário dogmático posterior (Regra 3). *Pneuma* mantém a barra vento/espírito (1:2, 11, 12). Em 1:11 "o vento/espírito do Messias" nos profetas é uma afirmação notável — vertida como o grego a tem. A citação de Levítico (1:16) é a palavra de Deus em primeira pessoa — marcada @@…@@. Em 1:25 (Isaías 40:8) a fonte lê "nosso Deus" (hebraico e LXX); o *kyrios* de 1 Pedro ("o Senhor", Opção C) é uma substituição da própria carta. "Peregrinos… dispersão… peregrinar" (*parepidēmoi / diaspora / paroikia*) é a palavra-chave de identidade da carta — mantida literal.
 
 **Conexão:** O capítulo está impregnado da Bíblia Hebraica. "Sede santos, porque eu sou santo" (1:16) cita Levítico 11:44-45; 19:2 — o código de santidade que fundamenta a vocação de Israel, agora aplicado aos crentes dispersos. "Cingi os lombos" (1:13) ecoa a postura do Êxodo (Êx 12:11) e os profetas. O resgate por um "cordeiro sem mácula" (1:19) recorre ao cordeiro da Páscoa (Êx 12) e ao código sacrificial (Lv). "Toda carne é erva… a palavra do Senhor permanece" (1:24-25) cita Isaías 40:6-8 — a abertura das profecias de consolo, o mesmo Isaías 40 que enquadra João o Imersor nos evangelhos. A linguagem da "dispersão" (diaspora) lança os leitores na identidade do exílio de Israel.
 
@@ -61,7 +61,7 @@ As notas são marcadas por tipo — **Crítico · Lexical · Gramatical · Teol�
 
 ¹Kefa (Pedro), apóstolo de Yeshua *o* Messias (Jesus), aos *eleitos* peregrinos da dispersão do Ponto, Galácia, Capadócia, Ásia e Bitínia, ²segundo *a* presciência de Deus *o* Pai, em santificação do {a:vento/espírito}, para obediência e aspersão do sangue de Yeshua *o* Messias (Jesus): graça e paz vos sejam multiplicadas. 
 
-³Bendito *seja* o Deus e Pai do nosso Senhor Yeshua *o* Messias (Jesus), que segundo a sua grande misericórdia nos deu novo nascimento para uma esperança viva mediante *a* ressurreição de Yeshua (Jesus) dentre *os* mortos, ⁴para uma herança incorruptível e incontaminável e imarcescível, guardada nos céus para vós ⁵que sois protegidos pelo poder de Deus mediante *a* fé, para uma salvação pronta a ser revelada no último tempo. ⁶Nisto vos alegrais, *embora* agora por um pouco *de tempo*, se *for* necessário, *tendo sido* entristecidos por várias provações, ⁷para que a comprovação da vossa fé — mais preciosa que o ouro que perece, *ainda que* sendo provado pelo fogo — seja achada para louvor e glória e honra na revelação de Yeshua *o* Messias (Jesus); ⁸a quem, não tendo visto, amais; em quem, não *o* vendo agora mas crendo, vos alegrais com gozo inexprimível e glorificado, ⁹recebendo o resultado da vossa fé, *a* salvação das *vossas* almas.
+³Bendito *seja* o Deus e Pai do nosso Senhor Yeshua *o* Messias (Jesus), que segundo a sua grande misericórdia nos deu novo nascimento para uma esperança viva mediante *a* ressurreição de Yeshua (Jesus) dentre *os* mortos, ⁴para uma herança incorruptível e incontaminável e imarcescível, guardada nos céus para vós ⁵que sois protegidos pelo poder de Deus mediante *a* fé, para uma salvação pronta a ser revelada no último tempo. ⁶Nisto vos alegrais, *embora* agora por um pouco *de tempo*, se *for* necessário, *tendo sido* entristecidos por várias provações, ⁷para que a comprovação da vossa fé — mais preciosa que o ouro que perece, ainda que sendo provado pelo fogo — seja achada para louvor e glória e honra na revelação de Yeshua *o* Messias (Jesus); ⁸a quem, não tendo visto, amais; em quem, não *o* vendo agora mas crendo, vos alegrais com gozo inexprimível e glorificado, ⁹recebendo o resultado da vossa fé, *a* salvação das *vossas* almas.
 
 ¹⁰Acerca desta salvação, *os* profetas buscaram e indagaram *cuidadosamente*, os quais profetizaram acerca da graça *destinada* a vós, ¹¹indagando para qual ou que tipo de tempo o {a:vento/espírito} do Messias neles indicava, testemunhando de antemão os sofrimentos *destinados* ao Messias e as glórias após estes. ¹²A eles foi revelado que não para si mesmos, mas para vós, serviam estas *coisas*, as quais agora vos foram anunciadas por meio daqueles que vos pregaram as boas novas pelo {a:vento/espírito} santo enviado do céu — *coisas* nas quais os anjos anseiam observar.
 
@@ -144,7 +144,7 @@ Nisto vos alegrais, *embora* agora por um pouco *de tempo*, se *for* necessário
 
 ### **Versículo 7**
 
-para que a comprovação da vossa fé — mais preciosa que o ouro que perece, *ainda que* sendo provado pelo fogo — seja achada para louvor e glória e honra na revelação de Yeshua *o* Messias (Jesus);
+para que a comprovação da vossa fé — mais preciosa que o ouro que perece, ainda que sendo provado pelo fogo — seja achada para louvor e glória e honra na revelação de Yeshua *o* Messias (Jesus);
 
 > **Notas**
 >
@@ -346,8 +346,8 @@ mas a palavra do Senhor permanece para sempre." E esta é a palavra que vos foi 
 
 > **Notas**
 >
-> 🔴 **CRÍTICO — ISAÍAS 40:8 (κύριος = YHWH) APLICADO AO EVANGELHO**
-> - **τὸ δὲ ῥῆμα κυρίου μένει εἰς τὸν αἰῶνα** (*to de rhēma kyriou menei eis ton aiōna*) = "mas a palavra do Senhor permanece para sempre." Em Isaías, *kyrios* = **YHWH** (Opção C: "o Senhor"); 1 Pedro então identifica "a palavra do Senhor" com "a palavra que vos foi anunciada como boas novas" — o evangelho é essa palavra permanente. **ῥῆμα** (aqui) / **λόγος** (v.23) ambos vertem "palavra." → PROFECIA (Is 40:8 → 1 Pe 1:25).
+> 🔴 **CRÍTICO — ISAÍAS 40:8 ("NOSSO DEUS" → κύριος) APLICADO AO EVANGELHO**
+> - **τὸ δὲ ῥῆμα κυρίου μένει εἰς τὸν αἰῶνα** (*to de rhēma kyriou menei eis ton aiōna*) = "mas a palavra do Senhor permanece para sempre." Isaías 40:8 lê "a palavra do **nosso Deus**" (hebraico *dĕbar ʾĕlōhênû*; LXX τοῦ θεοῦ ἡμῶν) — 1 Pedro substitui por κυρίου, traduzido "o Senhor" (Opção C); o único Tetragrama da passagem está em 40:7 do TM, ausente da LXX; 1 Pedro então identifica "a palavra do Senhor" com "a palavra que vos foi anunciada como boas novas" — o evangelho é essa palavra permanente. **ῥῆμα** (aqui) / **λόγος** (v.23) ambos vertem "palavra." → PROFECIA (Is 40:8 → 1 Pe 1:25).
 
 ---
 
@@ -363,7 +363,7 @@ mas a palavra do Senhor permanece para sempre." E esta é a palavra que vos foi 
 | **a comprovação** | δοκίμιον (*dokimion*) | A genuinidade provada da fé, refinada como ouro pelo fogo (1:7). |
 | **resgatados** | λυτρόω (*lytroō*) | Redimidos por um preço — o sangue do Messias, não prata/ouro (1:18-19). |
 | **cordeiro sem mácula** | ἀμνὸς ἄμωμος (*amnos amōmos*) | O padrão pascal/sacrificial (Êx 12; Lv), aplicado ao Messias (1:19). |
-| **o Senhor** | κύριος (*kyrios*) | Opção C: "nosso Senhor" Yeshua (1:3); YHWH na citação de Isaías 40 (1:25). |
+| **o Senhor** | κύριος (*kyrios*) | Opção C: "nosso Senhor" Yeshua (1:3); a substituição de 1 Pedro para o "nosso Deus" de Isaías na citação de Isaías 40 (1:25). |
 | **conduta / modo de vida** | ἀναστροφή (*anastrophē*) | Uma palavra-chave — conduta santa (1:15, 18; 2:12; 3:1-2, 16). |
 | **palavra** | λόγος / ῥῆμα (*logos / rhēma*) | A palavra viva e permanente de Deus = o evangelho pregado (1:23, 25). |
 
@@ -376,6 +376,6 @@ mas a palavra do Senhor permanece para sempre." E esta é a palavra que vos foi 
 | Lv 11:44-45; 19:2 | "Sede santos, porque eu sou santo" | Citado como a palavra de Deus em primeira pessoa fundamentando o chamado à santidade (1:16). |
 | Êx 12 (Páscoa); Lv (sacrifício) | O cordeiro sem mácula; a redenção | O resgate pelo precioso sangue do Messias, "um cordeiro sem mácula" (1:18-19). |
 | Êx 12:11 | "Cingi os vossos lombos" — a postura de prontidão do Êxodo | "Tendo cingido os lombos da vossa mente" (1:13). |
-| Is 40:6-8 | "Toda carne é erva… a palavra do YHWH permanece" | Citado literalmente; a palavra permanente = o evangelho pregado (1:24-25). |
+| Is 40:6-8 | "Toda carne é erva… a palavra do nosso Deus permanece" | Citado de perto (1 Pedro: "do Senhor"); a palavra permanente = o evangelho pregado (1:24-25). |
 | A dispersão / o exílio de Israel | Identidade da diáspora | Os leitores como "eleitos peregrinos da dispersão" / "tempo do vosso peregrinar" (1:1, 17). |
 | Êx 24:8 | O sangue da aliança aspergido | "Aspersão do sangue de Yeshua" na eleição (1:2). |

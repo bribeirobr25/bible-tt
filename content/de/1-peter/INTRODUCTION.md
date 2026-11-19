@@ -280,7 +280,7 @@ Wenn 1. Petrus Stellen der Hebräischen Bibel zitiert oder widerhallt, die das T
 
 Die AT-Zitate tragen **JHWH** hinter dem griechischen *kyrios*:
 
-- **1,25** (Jes 40,8) — „das Wort *des Herrn* (JHWH) bleibt in Ewigkeit."
+- **1,25** (Jes 40,8) — „das Wort *des Herrn* bleibt in Ewigkeit" — Jesaja hat „unser Gott"; κυρίου ist die Ersetzung des 1. Petrusbriefs.
 - **2,3** (Ps 34,8) — „*der Herr* (JHWH) ist gütig / freundlich."
 - **3,12** (Ps 34,15–16) — „die Augen *des Herrn* (JHWH)… das Angesicht *des Herrn*."
 

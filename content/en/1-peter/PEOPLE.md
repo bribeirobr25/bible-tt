@@ -19,7 +19,7 @@ This file presents biographical information about figures appearing in 1 Peter. 
 ## Silvanus (Silas)
 **Meaning:** Greek Σιλουανός (*Silouanos*), a Latinized form (the Latin cognomen *Silvanus*, "of the woods / forest"); the shorter Greek Σίλας (*Silas*, Acts) is the same man, an Aramaic-derived hypocoristic (possibly from שְׁאִילָא, "asked-for")
 **Origin:** A leading member of the Yerushalayim (Jerusalem) congregation; a Roman citizen (Acts 16:37) and a "leading man among the brothers" (Acts 15:22)
-**Familiar name:** Silvanus (also Silas)
+**Also known as:** Silvanus (also Silas)
 **Profession:** Prophet and teacher in the early community (Acts 15:32); a traveling co-worker; here, the letter's bearer and/or secretary (5:12)
 **Hometown:** not stated; based in Yerushalayim (Jerusalem)
 **First mention:** 1 Peter 5:12 (in this letter)
@@ -40,7 +40,7 @@ This file presents biographical information about figures appearing in 1 Peter. 
 ## Markos (Mark)
 **Meaning:** Greek Μᾶρκος (*Markos*), from the Latin praenomen *Marcus* (associated with *Mars*); traditionally identified with the "John whose other name was Mark" (Yochanan Markos / John Mark), whose Hebrew given name is Yochanan (יוֹחָנָן, "YHWH is gracious")
 **Origin:** Traditionally a Jerusalemite — son of a Miryam (Mary) at whose house the early community gathered (Acts 12:12); cousin of Bar-Naba (Barnabas) (Col 4:10)
-**Familiar name:** Mark (also John Mark)
+**Also known as:** Mark (also John Mark)
 **Profession:** A traveling assistant to the early missionaries; in Christian tradition, the author of the Gospel of Mark
 **Hometown:** Yerushalayim (Jerusalem), by tradition
 **First mention:** 1 Peter 5:13 (in this letter)
@@ -61,7 +61,7 @@ This file presents biographical information about figures appearing in 1 Peter. 
 ## The elect exiles of the dispersion (the recipient communities)
 **Meaning:** Greek ἐκλεκτοὶ παρεπίδημοι διασπορᾶς (*eklektoi parepidēmoi diasporas*) = "elect sojourners/exiles of the dispersion" (1:1; cf. 1:17 *paroikia*, "time of your sojourning"; 2:11 "resident-aliens and sojourners")
 **Origin:** Christian congregations scattered across five Roman provinces of Asia Minor — **Pontus, Galatia, Cappadocia, Asia, and Bithynia** (1:1); the order suggests the letter-carrier's circuit. The communities are largely (though not only) gentile in background (cf. 1:14, 18; 4:3), addressed in Israel's exile-identity terms.
-**Familiar name:** the recipient churches (the "elect exiles")
+**Also known as:** the recipient churches (the "elect exiles")
 **First mention:** 1 Peter 1:1
 **Mentioned in:** addressed throughout the letter (1:1, 17; 2:11; and the second-person plural address everywhere)
 **Key events in 1 Peter:** The addressees of the whole letter. They are "chosen according to the foreknowledge of God the Father, by the sanctifying work of the {a:wind/spirit}, for obedience and the sprinkling of the blood of Yeshua" (1:2); given a new birth into a living hope and an imperishable inheritance (1:3-5); grieved now by "various trials" (1:6) and social hostility (2:12; 3:16; 4:4, 12-16) — the letter's pastoral occasion. They are exhorted to holiness, to honorable conduct among the nations, to submission within the household and the empire, and to steadfastness under suffering, in solidarity with "the brotherhood in the world" (5:9).
@@ -74,7 +74,7 @@ This file presents biographical information about figures appearing in 1 Peter. 
 ## "She in Babylon" (the co-elect sending church)
 **Meaning:** Greek ἡ ἐν Βαβυλῶνι συνεκλεκτή (*hē en Babylōni syneklektē*) = "she *who is* in Babylon, chosen-together" (5:13) — a feminine designation for the **church** sending the greeting (cf. "the elect lady," 2 John 1, 13), not a woman
 **Origin:** The Christian community at the place from which the letter is written, named "Babylon" (Bavel)
-**Familiar name:** the church in "Babylon"
+**Also known as:** the church in "Babylon"
 **First mention:** 1 Peter 5:13
 **Mentioned in:** 1 Peter 5:13
 **Key events in 1 Peter:** Sends greetings to the recipient churches in the closing — "She *who is* in Babylon, chosen together *with you*, greets you" (5:13) — alongside Markos (Mark). "Chosen-together" (*syneklektē*) binds the sending community to the addressees as fellow-elect.

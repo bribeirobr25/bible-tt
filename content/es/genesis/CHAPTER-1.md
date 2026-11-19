@@ -430,7 +430,7 @@ Y Dios dijo: @@"Hagamos *un* humano a nuestra imagen, conforme a nuestra semejan
 > 🔴 **IMAGEN Y SEMEJANZA**
 > - **צֶלֶם** (*tselem*) = imagen; **דְּמוּת** (*demut*) = semejanza
 > - Ambos = representación/parecido; emparejados para enfasis, NO significado idéntico
-> - **Referencia cruzada:** El par reaparece en **Gen 5:1-3** donde Adan engendra a Set *"a su semejanza, conforme a su imagen"* — invirtiendo el orden divino-humano a un descenso humano-humano y encadenando el lenguaje de creación a través de las generaciónes.
+> - **Referencia cruzada:** El par reaparece en **Gen 5:1-3** donde Adan engendra a Set *"a su semejanza, conforme a su imagen"* — invirtiendo el orden divino-humano a un descenso humano-humano y encadenando el lenguaje de creación a través de las generaciones.
 > 
 > 🟢 **DOMINIO = GOBIERNO FUNCIONAL**
 > - **רָדָה** (*radah*) = dominar/gobernar--autoridad funciónal, **NO propiedad**

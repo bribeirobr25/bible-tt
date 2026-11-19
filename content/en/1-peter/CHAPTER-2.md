@@ -61,7 +61,7 @@ Notes are tagged by type — **Critical · Lexical · Grammatical · Theological
 
 ¹¹Beloved, I urge *you* as sojourners and exiles to abstain from the fleshly desires, which war against the soul, ¹²keeping your conduct among the nations honorable, so that, in *the* *matter* in which they speak against you as evildoers, observing *your* good works they may glorify God in *the* day of visitation. ¹³Submit to every human institution for the Lord's sake — whether to a king as supreme, ¹⁴or to governors as *those* sent through him for *the* punishment of evildoers and *the* praise of those doing good. ¹⁵Because thus is the will of God: doing good to silence the ignorance of foolish people — ¹⁶as free, and not having freedom as a covering for evil, but as servants of God. ¹⁷Honor everyone, love the brotherhood, fear God, honor the king.
 
-¹⁸*Household* servants, *be* submitting in all fear to *your* masters, not only to the good and gentle but also to the crooked. ¹⁹For this *is* grace, if because of conscience *toward* God someone bears up under griefs, suffering unjustly. ²⁰For what credit *is it* if, sinning and being beaten, you endure? But if, doing good and suffering, you endure, this *is* grace before God. ²¹For to this you were called, because the Messiah also suffered for you, leaving you an example, so that you might follow in his footsteps; ²²who committed no sin, nor was deceit found in his mouth; ²³who, being reviled, did not revile in return; suffering, he did not threaten, but handed *himself* over to the *One* judging justly; ²⁴who himself bore up our sins in his body on the tree, so that, having died to sins, we might live to righteousness; by whose wound you were healed. ²⁵For you were straying like sheep, but now you returned to the shepherd and overseer of your souls.
+¹⁸Household servants, *be* submitting in all fear to *your* masters, not only to the good and gentle but also to the crooked. ¹⁹For this *is* grace, if because of conscience *toward* God someone bears up under griefs, suffering unjustly. ²⁰For what credit *is it* if, sinning and being beaten, you endure? But if, doing good and suffering, you endure, this *is* grace before God. ²¹For to this you were called, because the Messiah also suffered for you, leaving you an example, so that you might follow in his footsteps; ²²who committed no sin, nor was deceit found in his mouth; ²³who, being reviled, did not revile in return; suffering, he did not threaten, but handed *himself* over to the *One* judging justly; ²⁴who himself bore up our sins in his body on the tree, so that, having died to sins, we might live to righteousness; by whose wound you were healed. ²⁵For you were straying like sheep, but now you returned to the shepherd and overseer of your souls.
 
 ---
 
@@ -256,12 +256,12 @@ Honor everyone, love the brotherhood, fear God, honor the king.
 
 ### **Verse 18**
 
-*Household* servants, *be* submitting in all fear to *your* masters, not only to the good and gentle but also to the crooked.
+Household servants, *be* submitting in all fear to *your* masters, not only to the good and gentle but also to the crooked.
 
 > **Notes**
 >
 > 🔴 **CRITICAL — THE HOUSEHOLD CODE BEGINS (*OIKETAI*) — high restraint (P-009)**
-> - **οἱ οἰκέται, ὑποτασσόμενοι… τοῖς δεσπόταις** (*hoi oiketai, hypotassomenoi… tois despotais*) = "*Household* servants, *be* submitting… to *your* masters." **οἰκέται** = household slaves/servants (not the general *douloi*). This opens the **household code** (2:18–3:7), the book's highest-restraint passage. The TT renders the Greek — the submission, even "to the crooked (**σκολιοῖς**)" — and **flags the interpretive history (ancient slavery; the modern reception) in Tier-2 and the companion, taking no position in the main text** (Rule 3). The address is to the servants as moral agents, and the ground (vv.21-25) is the Messiah's own unjust suffering, not an endorsement of the institution. → editorial-log P-009; Companion §F (reception history).
+> - **οἱ οἰκέται, ὑποτασσόμενοι… τοῖς δεσπόταις** (*hoi oiketai, hypotassomenoi… tois despotais*) = "Household servants, *be* submitting… to *your* masters." **οἰκέται** = household slaves/servants (not the general *douloi*). This opens the **household code** (2:18–3:7), the book's highest-restraint passage. The TT renders the Greek — the submission, even "to the crooked (**σκολιοῖς**)" — and **flags the interpretive history (ancient slavery; the modern reception) in Tier-2 and the companion, taking no position in the main text** (Rule 3). The address is to the servants as moral agents, and the ground (vv.21-25) is the Messiah's own unjust suffering, not an endorsement of the institution. → editorial-log P-009; Companion §F (reception history).
 
 ---
 

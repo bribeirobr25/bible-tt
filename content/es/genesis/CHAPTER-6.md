@@ -62,7 +62,7 @@ Las notas se etiquetan por tipo — **Crítico · Léxico · Gramatical · Teol�
 
 ⁵Y YHWH vio que grande *era* la maldad del humano en la tierra, y toda inclinación de los pensamientos de su corazón *era* solo maldad todo el día. ⁶Y YHWH se arrepintió de haber hecho al humano en la tierra, y se afligió en su corazón. ⁷Y YHWH dijo: @@"Borraré al humano que creé de sobre la faz del suelo, desde el humano hasta el ganado, hasta el ser que se arrastra, hasta el ave del cielo, porque me arrepiento de haberlos hecho."@@ ⁸Pero Noé halló gracia en los ojos de YHWH.
 
-⁹Estas *son* las generaciónes de Noé. Noé *era* un hombre justo, integro en sus generaciónes; con Dios caminó Noé. ¹⁰Y Noé engendró tres hijos: Shem, Jam (Cam) y Yafet (Jafet). ¹¹Y la tierra estaba corrompida delante de Dios, y la tierra estaba llena de violencia. ¹²Y Dios vio la tierra, y he aquí, estaba corrompida, porque toda carne había corrompido su camino sobre la tierra. ¹³Y Dios dijo a Noé: @@"El fin de toda carne ha venido delante de mi, porque la tierra esta llena de violencia a causa de ellos, y he aquí, yo *los* destruyo con la tierra.@@
+⁹Estas *son* las generaciones de Noé. Noé *era* un hombre justo, integro en sus generaciones; con Dios caminó Noé. ¹⁰Y Noé engendró tres hijos: Shem, Jam (Cam) y Yafet (Jafet). ¹¹Y la tierra estaba corrompida delante de Dios, y la tierra estaba llena de violencia. ¹²Y Dios vio la tierra, y he aquí, estaba corrompida, porque toda carne había corrompido su camino sobre la tierra. ¹³Y Dios dijo a Noé: @@"El fin de toda carne ha venido delante de mi, porque la tierra esta llena de violencia a causa de ellos, y he aquí, yo *los* destruyo con la tierra.@@
 
 ¹⁴@@Hazte una {t:tebah} de madera de {t:gofer}; compartimentos haras *en* la {t:tebah}, y la cubriras por dentro y por fuera con kofer. ¹⁵Y así *es como* la haras: trescientos codos la longitud de la {t:tebah}, cincuenta codos su anchura, y treinta codos su altura. ¹⁶Un tsohar haras para la {t:tebah}, y a un codo la terminaras desde arriba, y la puerta de la {t:tebah} pondras en su costado; *pisos* inferior, segundo y tercero la haras.@@
 
@@ -183,15 +183,15 @@ Pero Noé halló gracia en los ojos de YHWH.
 
 ### **Versículo 9**
 
-Estas *son* las generaciónes de Noé. Noé *era* un hombre justo, integro en sus generaciónes; con Dios caminó Noé.
+Estas *son* las generaciones de Noé. Noé *era* un hombre justo, integro en sus generaciones; con Dios caminó Noé.
 
 > **NOTAS**
 >
 > 🔴 **FORMULA TOLEDOT — TERCERA OCURRENCIA**
-> - **אֵלֶּה תּוֹלְדוֹת נֹחַ** = "Estas son las generaciónes de Noé." Tercer marcador *toledot* (2:4, 5:1, 6:9).
+> - **אֵלֶּה תּוֹלְדוֹת נֹחַ** = "Estas son las generaciones de Noé." Tercer marcador *toledot* (2:4, 5:1, 6:9).
 >
 > 🟢 **"JUSTO" E "INTEGRO"**
-> - **צַדִּיק** (*tsaddiq*) = justo. **תָּמִים** (*tamim*) = integro/intachable/completo. Primer uso de ambos términos para un humano. "En sus generaciónes" — ambiguo: (1) entre sus contemporaneos (justicia relativa); (2) a lo largo de su vida. Ambas POSIBLES.
+> - **צַדִּיק** (*tsaddiq*) = justo. **תָּמִים** (*tamim*) = integro/intachable/completo. Primer uso de ambos términos para un humano. "En sus generaciones" — ambiguo: (1) entre sus contemporaneos (justicia relativa); (2) a lo largo de su vida. Ambas POSIBLES.
 >
 > 🔵 **"CON DIOS CAMINO NOAJ"**
 > - **אֶת־הָאֱלֹהִים הִתְהַלֶּךְ נֹחַ** — misma frase que Enoc (5:22, 24). Objeto antepuesto para enfasis. Solo dos personas en Génesis "caminan con Dios."
@@ -369,9 +369,9 @@ Y Noé hizo conforme a todo lo que Dios le mandó; así hizo.
 ## SEGUIMIENTO ENTRE CAPITULOS (Gn 5 → Gn 6)
 
 **Cadena toledot:**
-- 2:4: "generaciónes de los cielos y la tierra"
-- 5:1: "libro de las generaciónes de Adan"
-- 6:9: "generaciónes de Noé"
+- 2:4: "generaciones de los cielos y la tierra"
+- 5:1: "libro de las generaciones de Adan"
+- 6:9: "generaciones de Noé"
 
 **"Caminar con Dios":**
 - 5:22,24: Enoc "caminó con Dios" — y fue tomado

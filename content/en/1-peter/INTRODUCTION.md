@@ -280,7 +280,7 @@ When 1 Peter quotes or echoes Hebrew Bible passages containing the Tetragrammato
 
 The OT citations carry **YHWH** behind the Greek *kyrios*:
 
-- **1:25** (Isa 40:8) — "the word of *the Lord* (YHWH) endures forever."
+- **1:25** (Isa 40:8) — "the word of *the Lord* endures forever" — Isaiah has "our God"; κυρίου is 1 Peter's substitution.
 - **2:3** (Ps 34:8) — "*the Lord* (YHWH) is good / kind."
 - **3:12** (Ps 34:15–16) — "the eyes of *the Lord* (YHWH)… the face of *the Lord*."
 

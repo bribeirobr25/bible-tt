@@ -19,7 +19,7 @@ Diese Datei enthält biografische Informationen über Personen, die in 1. Petrus
 ## Silvanus (Silas)
 **Bedeutung:** Griechisch Σιλουανός (*Silouanos*), eine latinisierte Form (das lateinische Cognomen *Silvanus*, „vom Walde / Forst"); das kürzere griechische Σίλας (*Silas*, Apostelgeschichte) ist derselbe Mann, eine vom Aramäischen abgeleitete Koseform (möglicherweise von שְׁאִילָא, „erbeten")
 **Herkunft:** Ein führendes Mitglied der Gemeinde von Yerushalayim (Jerusalem); ein römischer Bürger (Apg 16,37) und ein „führender Mann unter den Brüdern" (Apg 15,22)
-**Vertrauter Name:** Silvanus (auch Silas)
+**Auch bekannt als:** Silvanus (auch Silas)
 **Beruf:** Prophet und Lehrer in der frühen Gemeinde (Apg 15,32); ein reisender Mitarbeiter; hier der Überbringer und/oder Sekretär des Briefes (5,12)
 **Heimatort:** nicht angegeben; ansässig in Yerushalayim (Jerusalem)
 **Erstnennung:** 1. Petrus 5,12 (in diesem Brief)
@@ -40,7 +40,7 @@ Diese Datei enthält biografische Informationen über Personen, die in 1. Petrus
 ## Markos (Markus)
 **Bedeutung:** Griechisch Μᾶρκος (*Markos*), vom lateinischen Praenomen *Marcus* (mit *Mars* verbunden); traditionell gleichgesetzt mit dem „Johannes, dessen anderer Name Markus war" (Yochanan Markos / Johannes Markus), dessen hebräischer Rufname Yochanan ist (יוֹחָנָן, „JHWH ist gnädig")
 **Herkunft:** Traditionell ein Jerusalemer — Sohn einer Miryam (Maria), in deren Haus sich die frühe Gemeinde versammelte (Apg 12,12); Vetter des Bar-Naba (Barnabas) (Kol 4,10)
-**Vertrauter Name:** Markus (auch Johannes Markus)
+**Auch bekannt als:** Markus (auch Johannes Markus)
 **Beruf:** Ein reisender Gehilfe der frühen Missionare; in der christlichen Tradition der Verfasser des Markusevangeliums
 **Heimatort:** Yerushalayim (Jerusalem), der Tradition nach
 **Erstnennung:** 1. Petrus 5,13 (in diesem Brief)
@@ -61,7 +61,7 @@ Diese Datei enthält biografische Informationen über Personen, die in 1. Petrus
 ## Die auserwählten Fremdlinge der Zerstreuung (die Empfängergemeinden)
 **Bedeutung:** Griechisch ἐκλεκτοὶ παρεπίδημοι διασπορᾶς (*eklektoi parepidēmoi diasporas*) = „auserwählte Fremdlinge/Verbannte der Zerstreuung" (1,1; vgl. 1,17 *paroikia*, „Zeit eurer Fremdlingschaft"; 2,11 „ansässige Fremde und Fremdlinge")
 **Herkunft:** Christliche Gemeinden, zerstreut über fünf römische Provinzen Kleinasiens — **Pontus, Galatien, Kappadokien, Asien und Bithynien** (1,1); die Reihenfolge legt die Route des Briefträgers nahe. Die Gemeinden sind großenteils (wenn auch nicht ausschließlich) heidnischer Herkunft (vgl. 1,14.18; 4,3), angeredet in den Begriffen von Israels Verbannungsidentität.
-**Vertrauter Name:** die Empfängergemeinden (die „auserwählten Fremdlinge")
+**Auch bekannt als:** die Empfängergemeinden (die „auserwählten Fremdlinge")
 **Erstnennung:** 1. Petrus 1,1
 **Erwähnt in:** im ganzen Brief angeredet (1,1.17; 2,11; und die Anrede in der zweiten Person Plural überall)
 **Schlüsselereignisse in 1. Petrus:** Die Adressaten des ganzen Briefes. Sie sind „auserwählt nach dem Vorherwissen Gottes des Vaters, durch das heiligende Wirken des {a:Wind/Geist}, zum Gehorsam und zur Besprengung mit dem Blut Yeshuas" (1,2); ihnen ist eine Wiedergeburt in eine lebendige Hoffnung und ein unvergängliches Erbe gegeben (1,3–5); nun betrübt durch „mancherlei Prüfungen" (1,6) und gesellschaftliche Anfeindung (2,12; 3,16; 4,4.12–16) — der seelsorgerliche Anlass des Briefes. Sie werden ermahnt zur Heiligkeit, zu ehrbarem Verhalten unter den Völkern, zur Unterordnung innerhalb des Hauswesens und des Reiches und zur Standhaftigkeit unter Leiden, in Solidarität mit „der Bruderschaft in der Welt" (5,9).
@@ -74,7 +74,7 @@ Diese Datei enthält biografische Informationen über Personen, die in 1. Petrus
 ## „Die in Babylon" (die miterwählte absendende Gemeinde)
 **Bedeutung:** Griechisch ἡ ἐν Βαβυλῶνι συνεκλεκτή (*hē en Babylōni syneklektē*) = „die, *die* in Babylon *ist*, miterwählt" (5,13) — eine weibliche Bezeichnung für die **Gemeinde**, die den Gruß sendet (vgl. „die auserwählte Herrin", 2. Johannes 1.13), keine Frau
 **Herkunft:** Die christliche Gemeinde an dem Ort, von dem aus der Brief geschrieben ist, genannt „Babylon" (Bavel)
-**Vertrauter Name:** die Gemeinde in „Babylon"
+**Auch bekannt als:** die Gemeinde in „Babylon"
 **Erstnennung:** 1. Petrus 5,13
 **Erwähnt in:** 1. Petrus 5,13
 **Schlüsselereignisse in 1. Petrus:** Sendet im Schluss Grüße an die Empfängergemeinden — „Die, *die* in Babylon *ist*, miterwählt *mit euch*, grüßt euch" (5,13) — neben Markos (Markus). „Miterwählt" (*syneklektē*) bindet die absendende Gemeinde als Mit-Erwählte an die Adressaten.

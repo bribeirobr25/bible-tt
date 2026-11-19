@@ -689,7 +689,7 @@ porque el Poderoso hizo grandes *cosas* por mí, y santo *es* su nombre,
 > **Notas**
 >
 > 🟢 **"EL PODEROSO… SANTO ES SU NOMBRE" — *HO DYNATOS***
-> - **ὁ δυνατός… ἅγιον τὸ ὄνομα αὐτοῦ** (*ho dynatos… hagion to onoma autou*) = "el Poderoso… santo *es* su nombre." Hace eco del Sal 111:9 (Esp. 110:9 LXX, "santo y temible es su nombre") y Deut 10:21. La TT suple *uno* (en "el Poderoso") y *es* en cursiva. Referente: YHWH (Probable).
+> - **ὁ δυνατός… ἅγιον τὸ ὄνομα αὐτοῦ** (*ho dynatos… hagion to onoma autou*) = "el Poderoso… santo *es* su nombre." Hace eco del Sal 111:9 (Esp. 110:9 LXX, "santo y temible es su nombre") y Deut 10:21. La TT suple *es* en cursiva. Referente: YHWH (Probable).
 
 ---
 

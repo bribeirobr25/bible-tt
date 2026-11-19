@@ -342,7 +342,7 @@ Y Lamec dijo a sus mujeres: "Adah y Tsillah, oigan mi voz; mujeres de Lamec, pre
 > - Esto es **poesia** incrustada en narrativa. Estructura paralela (oigan/presten oido; voz/discurso; hombre/nino; herida/golpe) — Regla 6 preservada. Primer poema de un humano en la Biblia (después de 2:23).
 >
 > 🔵 **ESCALADA**
-> - Caín mató a un hombre. Lamec se jacta de matar por una mera herida. La violencia escala a través de las generaciónes.
+> - Caín mató a un hombre. Lamec se jacta de matar por una mera herida. La violencia escala a través de las generaciones.
 
 ---
 

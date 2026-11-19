@@ -63,7 +63,7 @@ Las notas se etiquetan por tipo — **Crítico · Léxico · Gramatical · Teol�
 
 ⁸Y Dios dijo a Noé y a sus hijos con el, diciendo, ⁹@@"Y yo, he aquí, yo *estoy* estableciendo mi pacto con ustedes y con su simiente después de ustedes, ¹⁰y con todo ser vivo que *está* con ustedes — el ave, el ganado, y todo ser vivo de la tierra con ustedes — de todos los que salieron de la {t:tebah}, a todo ser vivo de la tierra. ¹¹Y estableceré mi pacto con ustedes, y no será cortada otra vez toda carne por las aguas del diluvio, y no habrá otra vez diluvio para destruir la tierra."@@
 
-¹²Y Dios dijo, @@"Esta *es* la señal del pacto que yo *estoy* dando entre mi y entre ustedes y entre todo ser vivo que *está* con ustedes, por generaciónes de perpetuidad: ¹³mi arco he puesto en la nube, y será por señal del pacto entre mi y entre la tierra. ¹⁴Y será cuando yo traiga nubes sobre la tierra, y el arco aparezca en la nube, ¹⁵y me acordaré de mi pacto que *está* entre mi y entre ustedes y entre todo ser vivo en toda carne, y las aguas no volverán a ser diluvio para destruir toda carne. ¹⁶Y el arco estará en la nube, y lo veré para acordarme del pacto de perpetuidad entre Dios y entre todo ser vivo en toda carne que *está* sobre la tierra."@@ ¹⁷Y Dios dijo a Noé, @@"Esta *es* la señal del pacto que he establecido entre mi y entre toda carne que *está* sobre la tierra."@@
+¹²Y Dios dijo, @@"Esta *es* la señal del pacto que yo *estoy* dando entre mi y entre ustedes y entre todo ser vivo que *está* con ustedes, por generaciones de perpetuidad: ¹³mi arco he puesto en la nube, y será por señal del pacto entre mi y entre la tierra. ¹⁴Y será cuando yo traiga nubes sobre la tierra, y el arco aparezca en la nube, ¹⁵y me acordaré de mi pacto que *está* entre mi y entre ustedes y entre todo ser vivo en toda carne, y las aguas no volverán a ser diluvio para destruir toda carne. ¹⁶Y el arco estará en la nube, y lo veré para acordarme del pacto de perpetuidad entre Dios y entre todo ser vivo en toda carne que *está* sobre la tierra."@@ ¹⁷Y Dios dijo a Noé, @@"Esta *es* la señal del pacto que he establecido entre mi y entre toda carne que *está* sobre la tierra."@@
 
 ¹⁸Y los hijos de Noé que salieron de la {t:tebah} fueron Sem y Cam y Jafet; y Cam *es* el padre de Canaán. ¹⁹Estos tres *son* los hijos de Noé, y de estos fue esparcida toda la tierra.
 
@@ -200,12 +200,12 @@ Y Dios dijo a Noé y a sus hijos con el, diciendo,
 
 ### **Versículo 12**
 
-Y Dios dijo, @@"Esta *es* la señal del pacto que yo *estoy* dando entre mi y entre ustedes y entre todo ser vivo que *está* con ustedes, por generaciónes de perpetuidad:@@
+Y Dios dijo, @@"Esta *es* la señal del pacto que yo *estoy* dando entre mi y entre ustedes y entre todo ser vivo que *está* con ustedes, por generaciones de perpetuidad:@@
 
 > **NOTAS**
 >
 > 🟢 **"GENERACIONES DE PERPETUIDAD" (*dorot olam*)**
-> - **לְדֹרֹת עוֹלָם** (*ledorot olam*) = "por generaciónes de perpetuidad/eternidad." *Olam* = larga duración, perpetuidad. El pacto no tiene fecha de expiración. No es contingente al comportamiento humano.
+> - **לְדֹרֹת עוֹלָם** (*ledorot olam*) = "por generaciones de perpetuidad/eternidad." *Olam* = larga duración, perpetuidad. El pacto no tiene fecha de expiración. No es contingente al comportamiento humano.
 
 ---
 

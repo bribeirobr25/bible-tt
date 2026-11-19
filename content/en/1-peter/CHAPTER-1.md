@@ -45,7 +45,7 @@ Notes are tagged by type — **Critical · Lexical · Grammatical · Theological
 
 **Key themes:** The epistolary salutation and the triune-shaped election (foreknowledge of the Father / sanctification of the wind/spirit / sprinkling of the blood); the **new birth (anagennaō)** into a living hope; the imperishable inheritance "kept in the heavens"; tested faith more precious than gold, refined by fire; loving an unseen Lord; the prophets and the "wind/spirit of the Messiah" foretelling the sufferings-then-glories pattern; the call to holiness grounded in God's own holiness (Leviticus); the **ransom** by the Messiah's blood, the lamb without blemish, foreknown before the world's foundation; the identity of the readers as **exiles/sojourners (paroikia)** living in reverent fear; the new birth through the living, abiding word, set against the withering of all flesh (Isaiah 40).
 
-**Watch for:** This is a letter — vv.3-12 are one periodic sentence in Greek; the TT keeps its subordinated, suspended structure. The salutation's three phrases (vv.1-2) carry a triune shape; the TT renders the Greek without importing later dogmatic vocabulary (Rule 3). *Pneuma* keeps the wind/spirit slash (1:2, 11, 12). At 1:11 "the wind/spirit of the Messiah" in the prophets is a notable claim — rendered as the Greek has it. The Leviticus citation (1:16) is God's first-person word — marked @@…@@. *Kyrios* at 1:25 (Isaiah 40:8) = YHWH (Option C: "the Lord"). "Exiles… dispersion… sojourning" (*parepidēmoi / diaspora / paroikia*) is the letter's identity keyword — kept literal.
+**Watch for:** This is a letter — vv.3-12 are one periodic sentence in Greek; the TT keeps its subordinated, suspended structure. The salutation's three phrases (vv.1-2) carry a triune shape; the TT renders the Greek without importing later dogmatic vocabulary (Rule 3). *Pneuma* keeps the wind/spirit slash (1:2, 11, 12). At 1:11 "the wind/spirit of the Messiah" in the prophets is a notable claim — rendered as the Greek has it. The Leviticus citation (1:16) is God's first-person word — marked @@…@@. At 1:25 (Isaiah 40:8) the source reads "our God" (Hebrew and LXX); 1 Peter's *kyrios* ("the Lord", Option C) is the letter's own substitution. "Exiles… dispersion… sojourning" (*parepidēmoi / diaspora / paroikia*) is the letter's identity keyword — kept literal.
 
 **Connection:** The chapter is steeped in the Hebrew Bible. "Be holy, for I am holy" (1:16) cites Leviticus 11:44-45; 19:2 — the holiness code grounding Israel's vocation, now applied to the scattered believers. "Gird the loins" (1:13) echoes the Exodus posture (Ex 12:11) and the prophets. The ransom by a "lamb without blemish" (1:19) draws on the Passover lamb (Ex 12) and the sacrificial code (Lev). "All flesh is grass… the word of the Lord endures" (1:24-25) quotes Isaiah 40:6-8 — the opening of the prophecies of comfort, the same Isaiah 40 that frames John the Immerser in the gospels. The "dispersion" (diaspora) language casts the readers in Israel's exile identity.
 
@@ -59,7 +59,7 @@ Notes are tagged by type — **Critical · Lexical · Grammatical · Theological
 
 ¹Kefa (Peter), an apostle of Yeshua *the* Messiah (Jesus), to *the* elect sojourners of *the* dispersion of Pontus, Galatia, Cappadocia, Asia, and Bithynia, ²according to *the* foreknowledge of God *the* Father, in sanctification of *the* {a:wind/spirit}, for obedience and sprinkling of *the* blood of Yeshua *the* Messiah (Jesus): may grace and peace be multiplied to you.
 
-³Blessed *be* the God and Father of our Lord Yeshua *the* Messiah (Jesus), who according to his great mercy gave us new birth into a living hope through *the* resurrection of Yeshua (Jesus) from *the* dead, ⁴into an inheritance imperishable and undefiled and unfading, kept in *the* heavens for you ⁵who are guarded by *the* power of God through faith, for a salvation ready to be revealed in *the* last time. ⁶In this you rejoice, *though* now for a little *while*, if *it must* be, *you have been* grieved by various trials, ⁷so that the proving of your faith — more precious than gold that perishes, *yet* being tested through fire — may be found for praise and glory and honor at *the* revelation of Yeshua *the* Messiah (Jesus); ⁸whom, not having seen, you love; in whom, not seeing *him* now but believing, you rejoice with joy inexpressible and glorified, ⁹receiving the outcome of your faith, *the* salvation of *your* souls.
+³Blessed *be* the God and Father of our Lord Yeshua *the* Messiah (Jesus), who according to his great mercy gave us new birth into a living hope through *the* resurrection of Yeshua (Jesus) from *the* dead, ⁴into an inheritance imperishable and undefiled and unfading, kept in *the* heavens for you ⁵who are guarded by *the* power of God through faith, for a salvation ready to be revealed in *the* last time. ⁶In this you rejoice, *though* now for a little *while*, if *it must* be, *you have been* grieved by various trials, ⁷so that the proving of your faith — more precious than gold that perishes, yet being tested through fire — may be found for praise and glory and honor at *the* revelation of Yeshua *the* Messiah (Jesus); ⁸whom, not having seen, you love; in whom, not seeing *him* now but believing, you rejoice with joy inexpressible and glorified, ⁹receiving the outcome of your faith, *the* salvation of *your* souls.
 
 ¹⁰Concerning this salvation, *the* prophets searched and inquired *carefully*, who prophesied concerning the grace *coming* to you, ¹¹inquiring into what or what manner of time the {a:wind/spirit} of *the* Messiah in them was indicating, testifying beforehand to the sufferings *destined* for the Messiah and the glories after these. ¹²To them it was revealed that not for themselves, but for you, they were serving these *things*, which now have been announced to you through those who preached the good news to you by *the* holy {a:wind/spirit} sent from heaven — into which *things* angels long to look.
 
@@ -142,7 +142,7 @@ In this you rejoice, *though* now for a little *while*, if *it must* be, *you ha
 
 ### **Verse 7**
 
-so that the proving of your faith — more precious than gold that perishes, *yet* being tested through fire — may be found for praise and glory and honor at *the* revelation of Yeshua *the* Messiah (Jesus);
+so that the proving of your faith — more precious than gold that perishes, yet being tested through fire — may be found for praise and glory and honor at *the* revelation of Yeshua *the* Messiah (Jesus);
 
 > **Notes**
 >
@@ -344,8 +344,8 @@ but the word of *the* Lord endures into the age." And this is the word that was 
 
 > **Notes**
 >
-> 🔴 **CRITICAL — ISAIAH 40:8 (κύριος = YHWH) APPLIED TO THE GOSPEL**
-> - **τὸ δὲ ῥῆμα κυρίου μένει εἰς τὸν αἰῶνα** (*to de rhēma kyriou menei eis ton aiōna*) = "but the word of *the* Lord endures into the age." In Isaiah, *kyrios* = **YHWH** (Option C: "the Lord"); 1 Peter then identifies "the word of *the* Lord" with "the word that was preached as good news to you" — the gospel is that enduring word. **ῥῆμα** (here) / **λόγος** (v.23) both render "word." → PROPHECY (Isa 40:8 → 1 Pet 1:25).
+> 🔴 **CRITICAL — ISAIAH 40:8 ("OUR GOD" → κύριος) APPLIED TO THE GOSPEL**
+> - **τὸ δὲ ῥῆμα κυρίου μένει εἰς τὸν αἰῶνα** (*to de rhēma kyriou menei eis ton aiōna*) = "but the word of *the* Lord endures into the age." Isaiah 40:8 reads "the word of **our God**" (Hebrew *dĕbar ʾĕlōhênû*; LXX τοῦ θεοῦ ἡμῶν) — 1 Peter substitutes κυρίου, rendered "the Lord" (Option C); the passage's only Tetragrammaton is in MT 40:7, which the LXX lacks; 1 Peter then identifies "the word of *the* Lord" with "the word that was preached as good news to you" — the gospel is that enduring word. **ῥῆμα** (here) / **λόγος** (v.23) both render "word." → PROPHECY (Isa 40:8 → 1 Pet 1:25).
 
 ---
 
@@ -361,7 +361,7 @@ but the word of *the* Lord endures into the age." And this is the word that was 
 | **the proving** | δοκίμιον (*dokimion*) | The tested genuineness of faith, refined like gold by fire (1:7). |
 | **ransomed** | λυτρόω (*lytroō*) | Redeemed by a price — the Messiah's blood, not silver/gold (1:18-19). |
 | **lamb without blemish** | ἀμνὸς ἄμωμος (*amnos amōmos*) | The Passover/sacrificial standard (Ex 12; Lev), applied to the Messiah (1:19). |
-| **the Lord** | κύριος (*kyrios*) | Option C: "our Lord" Yeshua (1:3); YHWH in the Isaiah 40 citation (1:25). |
+| **the Lord** | κύριος (*kyrios*) | Option C: "our Lord" Yeshua (1:3); 1 Peter's substitution for Isaiah's "our God" in the Isaiah 40 citation (1:25). |
 | **conduct / way of life** | ἀναστροφή (*anastrophē*) | A keyword — holy conduct (1:15, 18; 2:12; 3:1-2, 16). |
 | **word** | λόγος / ῥῆμα (*logos / rhēma*) | The living, abiding word of God = the gospel preached (1:23, 25). |
 
@@ -374,6 +374,6 @@ but the word of *the* Lord endures into the age." And this is the word that was 
 | Lev 11:44-45; 19:2 | "Be holy, for I am holy" | Cited as God's first-person word grounding the call to holiness (1:16). |
 | Ex 12 (Passover); Lev (sacrifice) | The lamb without blemish; redemption | The ransom by the Messiah's precious blood, "a lamb without blemish" (1:18-19). |
 | Ex 12:11 | "Gird your loins" — the Exodus readiness posture | "Having girded the loins of your mind" (1:13). |
-| Isa 40:6-8 | "All flesh is grass… the word of the LORD endures" | Cited verbatim; the enduring word = the gospel preached (1:24-25). |
+| Isa 40:6-8 | "All flesh is grass… the word of our God endures" | Cited closely (1 Peter: "of the Lord"); the enduring word = the gospel preached (1:24-25). |
 | The dispersion / exile of Israel | Diaspora identity | The readers as "elect sojourners of the dispersion" / "time of your sojourning" (1:1, 17). |
 | Ex 24:8 | The blood of the covenant sprinkled | "Sprinkling of the blood of Yeshua" in the election (1:2). |

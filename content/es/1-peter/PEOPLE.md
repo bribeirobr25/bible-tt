@@ -19,7 +19,7 @@ Este archivo presenta información biográfica sobre figuras que aparecen en 1 P
 ## Silvano (Silas)
 **Significado:** griego Σιλουανός (*Silouanos*), una forma latinizada (el cognomen latino *Silvanus*, "del bosque / de la selva"); el griego más corto Σίλας (*Silas*, Hechos) es el mismo hombre, un hipocorístico de origen arameo (posiblemente de שְׁאִילָא, "el pedido")
 **Origen:** Un miembro destacado de la congregación de Yerushalayim (Jerusalén); ciudadano romano (Hch 16:37) y "varón principal entre los hermanos" (Hch 15:22)
-**Nombre familiar:** Silvano (también Silas)
+**También conocido como:** Silvano (también Silas)
 **Profesión:** Profeta y maestro en la comunidad primitiva (Hch 15:32); un colaborador itinerante; aquí, el portador y/o secretario de la carta (5:12)
 **Ciudad natal:** no declarada; con base en Yerushalayim (Jerusalén)
 **Primera mención:** 1 Pedro 5:12 (en esta carta)
@@ -40,7 +40,7 @@ Este archivo presenta información biográfica sobre figuras que aparecen en 1 P
 ## Markos (Marcos)
 **Significado:** griego Μᾶρκος (*Markos*), del praenomen latino *Marcus* (asociado con *Mars*); tradicionalmente identificado con el "Juan cuyo otro nombre era Marcos" (Yochanan Markos / Juan Marcos), cuyo nombre de pila hebreo es Yochanan (יוֹחָנָן, "YHWH es bondadoso")
 **Origen:** Tradicionalmente un jerosolimitano — hijo de una Miryam (María) en cuya casa se reunía la comunidad primitiva (Hch 12:12); primo de Bar-Naba (Bernabé) (Col 4:10)
-**Nombre familiar:** Marcos (también Juan Marcos)
+**También conocido como:** Marcos (también Juan Marcos)
 **Profesión:** Un asistente itinerante de los primeros misioneros; en la tradición cristiana, el autor del Evangelio de Marcos
 **Ciudad natal:** Yerushalayim (Jerusalén), por tradición
 **Primera mención:** 1 Pedro 5:13 (en esta carta)
@@ -61,7 +61,7 @@ Este archivo presenta información biográfica sobre figuras que aparecen en 1 P
 ## Los elegidos peregrinos de la dispersión (las comunidades destinatarias)
 **Significado:** griego ἐκλεκτοὶ παρεπίδημοι διασπορᾶς (*eklektoi parepidēmoi diasporas*) = "elegidos peregrinos/exiliados de la dispersión" (1:1; cf. 1:17 *paroikia*, "tiempo de su peregrinación"; 2:11 "extranjeros-residentes y peregrinos")
 **Origen:** Congregaciones cristianas dispersas a lo largo de cinco provincias romanas de Asia Menor — **Ponto, Galacia, Capadocia, Asia y Bitinia** (1:1); el orden sugiere el circuito del portador de la carta. Las comunidades son en gran medida (aunque no únicamente) de trasfondo gentil (cf. 1:14, 18; 4:3), abordadas en los términos de la identidad de exilio de Israel.
-**Nombre familiar:** las iglesias destinatarias (los "elegidos peregrinos")
+**También conocido como:** las iglesias destinatarias (los "elegidos peregrinos")
 **Primera mención:** 1 Pedro 1:1
 **Mencionado en:** abordadas a lo largo de toda la carta (1:1, 17; 2:11; y el trato en segunda persona del plural por doquier)
 **Eventos clave en 1 Pedro:** Los destinatarios de toda la carta. Son "escogidos según la presciencia de Dios el Padre, por la obra santificadora del {a:viento/espíritu}, para obediencia y rociamiento de la sangre de Yeshua" (1:2); les es dado un nuevo nacimiento a una esperanza viva y una herencia incorruptible (1:3-5); afligidos ahora por "diversas pruebas" (1:6) y hostilidad social (2:12; 3:16; 4:4, 12-16) — la ocasión pastoral de la carta. Son exhortados a la santidad, a una conducta honorable entre las naciones, a la sumisión dentro del hogar y el imperio, y a la firmeza bajo el sufrimiento, en solidaridad con "la hermandad en el mundo" (5:9).
@@ -74,7 +74,7 @@ Este archivo presenta información biográfica sobre figuras que aparecen en 1 P
 ## "La que está en Babilonia" (la iglesia remitente co-elegida)
 **Significado:** griego ἡ ἐν Βαβυλῶνι συνεκλεκτή (*hē en Babylōni syneklektē*) = "la *que está* en Babilonia, elegida-juntamente" (5:13) — una designación femenina para la **iglesia** que envía el saludo (cf. "la señora elegida," 2 Juan 1, 13), no una mujer
 **Origen:** La comunidad cristiana del lugar desde el cual se escribe la carta, llamado "Babilonia" (Bavel)
-**Nombre familiar:** la iglesia en "Babilonia"
+**También conocido como:** la iglesia en "Babilonia"
 **Primera mención:** 1 Pedro 5:13
 **Mencionado en:** 1 Pedro 5:13
 **Eventos clave en 1 Pedro:** Envía saludos a las iglesias destinatarias en el cierre — "La *que está* en Babilonia, elegida juntamente *con ustedes*, los saluda" (5:13) — junto con Markos (Marcos). "Elegida-juntamente" (*syneklektē*) liga la comunidad remitente a los destinatarios como co-elegidos.

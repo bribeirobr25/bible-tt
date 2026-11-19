@@ -280,7 +280,7 @@ Quando 1 Pedro cita ou ecoa passagens da Bíblia Hebraica contendo o Tetragrama 
 
 As citações do AT carregam **YHWH** por trás do grego *kyrios*:
 
-- **1:25** (Is 40:8) — "a palavra d*o* Senhor (YHWH) permanece para sempre."
+- **1:25** (Is 40:8) — "a palavra d*o* Senhor permanece para sempre" — Isaías tem "nosso Deus"; κυρίου é substituição de 1 Pedro.
 - **2:3** (Sl 34:8) — "*o* Senhor (YHWH) é bom / benigno."
 - **3:12** (Sl 34:15–16) — "os olhos d*o* Senhor (YHWH)… o rosto d*o* Senhor."
 

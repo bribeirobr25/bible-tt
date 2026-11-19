@@ -46,7 +46,7 @@ Notizen sind nach Typ gekennzeichnet — **Kritisch · Lexikalisch · Grammatisc
 
 **Zentrale Themen:** Die briefliche Grußformel und die dreifach geprägte Erwählung (Vorkenntnis des Vaters / Heiligung des Wind/Geistes / Besprengung mit dem Blut); die **Wiedergeburt (anagennaō)** zu einer lebendigen Hoffnung; das unvergängliche Erbe, „aufbewahrt in den Himmeln"; der geprüfte Glaube, kostbarer als Gold, geläutert durch Feuer; die Liebe zu einem ungesehenen Herrn; die Propheten und der „Wind/Geist des Messias", die das Muster Leiden-dann-Herrlichkeiten vorhersagten; der Ruf zur Heiligkeit, gegründet in Gottes eigener Heiligkeit (Levitikus); der **Loskauf** durch das Blut des Messias, das Lamm ohne Fehl, zuvor erkannt vor der Grundlegung der Welt; die Identität der Leser als **Fremdlinge/Beisassen (paroikia)**, die in ehrfürchtiger Furcht leben; die Wiedergeburt durch das lebendige, bleibende Wort, gestellt gegen das Verwelken alles Fleisches (Jesaja 40).
 
-**Achten Sie auf:** Dies ist ein Brief — V.3-12 sind im Griechischen ein einziger Periodensatz; die TT behält seine untergeordnete, in der Schwebe gehaltene Struktur. Die drei Wendungen der Grußformel (V.1-2) tragen eine dreifache Gestalt; die TT gibt das Griechische wieder, ohne spätere dogmatische Begrifflichkeit hineinzutragen (Regel 3). *Pneuma* behält den Wind/Geist-Schrägstrich (1,2.11.12). In 1,11 ist „der Wind/Geist des Messias" in den Propheten eine bemerkenswerte Aussage — wiedergegeben, wie das Griechische sie hat. Das Levitikus-Zitat (1,16) ist Gottes Wort in der ersten Person — markiert @@…@@. *Kyrios* in 1,25 (Jesaja 40,8) = JHWH (Option C: „der Herr"). „Fremdlinge… Zerstreuung… Fremdlingschaft" (*parepidēmoi / diaspora / paroikia*) ist das Identitäts-Stichwort des Briefes — wörtlich beibehalten.
+**Achten Sie auf:** Dies ist ein Brief — V.3-12 sind im Griechischen ein einziger Periodensatz; die TT behält seine untergeordnete, in der Schwebe gehaltene Struktur. Die drei Wendungen der Grußformel (V.1-2) tragen eine dreifache Gestalt; die TT gibt das Griechische wieder, ohne spätere dogmatische Begrifflichkeit hineinzutragen (Regel 3). *Pneuma* behält den Wind/Geist-Schrägstrich (1,2.11.12). In 1,11 ist „der Wind/Geist des Messias" in den Propheten eine bemerkenswerte Aussage — wiedergegeben, wie das Griechische sie hat. Das Levitikus-Zitat (1,16) ist Gottes Wort in der ersten Person — markiert @@…@@. In 1,25 (Jesaja 40,8) liest die Quelle „unser Gott" (hebräisch und LXX); das *kyrios* des 1. Petrusbriefs („der Herr", Option C) ist eine eigene Ersetzung des Briefes. „Fremdlinge… Zerstreuung… Fremdlingschaft" (*parepidēmoi / diaspora / paroikia*) ist das Identitäts-Stichwort des Briefes — wörtlich beibehalten.
 
 **Verbindung:** Das Kapitel ist von der Hebräischen Bibel durchdrungen. „Seid heilig, denn ich bin heilig" (1,16) zitiert Levitikus 11,44-45; 19,2 — das Heiligkeitsgesetz, das Israels Berufung begründet, jetzt auf die zerstreuten Gläubigen angewandt. „Umgürtet die Lenden" (1,13) klingt an die Exodus-Haltung (Ex 12,11) und an die Propheten an. Der Loskauf durch ein „Lamm ohne Fehl" (1,19) greift auf das Passalamm (Ex 12) und das Opfergesetz (Lev) zurück. „Alles Fleisch ist Gras… das Wort des Herrn bleibt" (1,24-25) zitiert Jesaja 40,6-8 — die Eröffnung der Trostprophezeiungen, dasselbe Jesaja 40, das Johannes den Täufer in den Evangelien einrahmt. Die Sprache der „Zerstreuung" (diaspora) versetzt die Leser in Israels Exil-Identität.
 
@@ -60,7 +60,7 @@ Notizen sind nach Typ gekennzeichnet — **Kritisch · Lexikalisch · Grammatisc
 
 ¹Kefa (Petrus), ein Apostel Yeshuas *des* Messias (Jesus), an *die* erwählten Fremdlinge *der* Zerstreuung von Pontus, Galatien, Kappadokien, Asien und Bithynien, ²nach *der* Vorkenntnis Gottes *des* Vaters, in Heiligung *des* {a:Wind/Geist}, zum Gehorsam und zur Besprengung *mit dem* Blut Yeshuas *des* Messias (Jesus): Gnade und Friede seien euch vermehrt.
 
-³Gepriesen *sei* der Gott und Vater unseres Herrn Yeshua *des* Messias (Jesus), der nach seiner großen Barmherzigkeit uns neu gezeugt hat zu einer lebendigen Hoffnung durch *die* Auferstehung Yeshuas (Jesus) von *den* Toten, ⁴zu einem Erbe, unvergänglich und unbefleckt und unverwelklich, aufbewahrt in *den* Himmeln für euch, ⁵die ihr durch *die* Kraft Gottes bewahrt werdet durch Glauben, zu einer Rettung, bereit, offenbart zu werden in *der* letzten Zeit. ⁶Darin frohlockt ihr, *wiewohl* ihr jetzt eine kurze *Zeit*, wenn *es* sein *muss*, durch mancherlei Prüfungen betrübt *worden seid*, ⁷damit die Bewährung eures Glaubens — kostbarer als Gold, das vergeht, *doch* durch Feuer geprüft wird — erfunden werde zu Lob und Herrlichkeit und Ehre bei *der* Offenbarung Yeshuas *des* Messias (Jesus); ⁸den ihr liebt, ohne ihn gesehen zu haben; an den ihr glaubt, ohne *ihn* jetzt zu sehen, und frohlockt mit unaussprechlicher und verherrlichter Freude, ⁹indem ihr das Ziel eures Glaubens davontragt, *die* Rettung *eurer* Seelen.
+³Gepriesen *sei* der Gott und Vater unseres Herrn Yeshua *des* Messias (Jesus), der nach seiner großen Barmherzigkeit uns neu gezeugt hat zu einer lebendigen Hoffnung durch *die* Auferstehung Yeshuas (Jesus) von *den* Toten, ⁴zu einem Erbe, unvergänglich und unbefleckt und unverwelklich, aufbewahrt in *den* Himmeln für euch, ⁵die ihr durch *die* Kraft Gottes bewahrt werdet durch Glauben, zu einer Rettung, bereit, offenbart zu werden in *der* letzten Zeit. ⁶Darin frohlockt ihr, *wiewohl* ihr jetzt eine kurze *Zeit*, wenn *es* sein *muss*, durch mancherlei Prüfungen betrübt *worden seid*, ⁷damit die Bewährung eures Glaubens — kostbarer als Gold, das vergeht, doch durch Feuer geprüft wird — erfunden werde zu Lob und Herrlichkeit und Ehre bei *der* Offenbarung Yeshuas *des* Messias (Jesus); ⁸den ihr liebt, ohne ihn gesehen zu haben; an den ihr glaubt, ohne *ihn* jetzt zu sehen, und frohlockt mit unaussprechlicher und verherrlichter Freude, ⁹indem ihr das Ziel eures Glaubens davontragt, *die* Rettung *eurer* Seelen.
 
 ¹⁰Über diese Rettung haben *die* Propheten gesucht und *sorgfältig* nachgeforscht, die über die Gnade weissagten, die *zu* euch *kommt*, ¹¹und forschten, auf welche oder was für eine Zeit der {a:Wind/Geist} *des* Messias in ihnen hindeutete, der zuvor von den Leiden zeugte, die *für* den Messias *bestimmt waren*, und von den Herrlichkeiten danach. ¹²Ihnen wurde offenbart, dass sie nicht sich selbst, sondern euch diese *Dinge* dienten, die euch jetzt verkündigt worden sind durch die, die euch die gute Botschaft predigten durch *den* heiligen {a:Wind/Geist}, gesandt vom Himmel — in welche *Dinge* die Boten zu schauen begehren.
 
@@ -143,7 +143,7 @@ Darin frohlockt ihr, *wiewohl* ihr jetzt eine kurze *Zeit*, wenn *es* sein *muss
 
 ### **Vers 7**
 
-damit die Bewährung eures Glaubens — kostbarer als Gold, das vergeht, *doch* durch Feuer geprüft wird — erfunden werde zu Lob und Herrlichkeit und Ehre bei *der* Offenbarung Yeshuas *des* Messias (Jesus);
+damit die Bewährung eures Glaubens — kostbarer als Gold, das vergeht, doch durch Feuer geprüft wird — erfunden werde zu Lob und Herrlichkeit und Ehre bei *der* Offenbarung Yeshuas *des* Messias (Jesus);
 
 > **Notizen**
 >
@@ -345,8 +345,8 @@ aber das Wort *des* Herrn bleibt in Ewigkeit." Und dies ist das Wort, das euch a
 
 > **Notizen**
 >
-> 🔴 **KRITISCH — JESAJA 40,8 (κύριος = JHWH) AUF DAS EVANGELIUM ANGEWANDT**
-> - **τὸ δὲ ῥῆμα κυρίου μένει εἰς τὸν αἰῶνα** (*to de rhēma kyriou menei eis ton aiōna*) = „aber das Wort *des* Herrn bleibt in Ewigkeit." In Jesaja ist *kyrios* = **JHWH** (Option C: „der Herr"); der 1. Petrusbrief identifiziert dann „das Wort *des* Herrn" mit „dem Wort, das euch als gute Botschaft verkündigt wurde" — die gute Botschaft ist jenes bleibende Wort. **ῥῆμα** (hier) / **λόγος** (V.23) geben beide „Wort" wieder. → PROPHETIE (Jes 40,8 → 1 Petr 1,25).
+> 🔴 **KRITISCH — JESAJA 40,8 („UNSER GOTT" → κύριος) AUF DAS EVANGELIUM ANGEWANDT**
+> - **τὸ δὲ ῥῆμα κυρίου μένει εἰς τὸν αἰῶνα** (*to de rhēma kyriou menei eis ton aiōna*) = „aber das Wort *des* Herrn bleibt in Ewigkeit." Jesaja 40,8 liest „das Wort **unseres Gottes**" (hebräisch *dĕbar ʾĕlōhênû*; LXX τοῦ θεοῦ ἡμῶν) — der 1. Petrusbrief ersetzt es durch κυρίου, wiedergegeben als „der Herr" (Option C); das einzige Tetragramm der Stelle steht in MT 40,7, das der LXX fehlt; der 1. Petrusbrief identifiziert dann „das Wort *des* Herrn" mit „dem Wort, das euch als gute Botschaft verkündigt wurde" — die gute Botschaft ist jenes bleibende Wort. **ῥῆμα** (hier) / **λόγος** (V.23) geben beide „Wort" wieder. → PROPHETIE (Jes 40,8 → 1 Petr 1,25).
 
 ---
 
@@ -362,7 +362,7 @@ aber das Wort *des* Herrn bleibt in Ewigkeit." Und dies ist das Wort, das euch a
 | **die Bewährung** | δοκίμιον (*dokimion*) | Die erprobte Echtheit des Glaubens, geläutert wie Gold im Feuer (1,7). |
 | **losgekauft** | λυτρόω (*lytroō*) | Durch einen Preis erlöst — das Blut des Messias, nicht Silber/Gold (1,18-19). |
 | **Lamm ohne Fehl** | ἀμνὸς ἄμωμος (*amnos amōmos*) | Der Passa-/Opferstandard (Ex 12; Lev), auf den Messias angewandt (1,19). |
-| **der Herr** | κύριος (*kyrios*) | Option C: „unser Herr" Yeshua (1,3); JHWH im Jesaja-40-Zitat (1,25). |
+| **der Herr** | κύριος (*kyrios*) | Option C: „unser Herr" Yeshua (1,3); die Ersetzung des Briefes für Jesajas „unser Gott" im Jesaja-40-Zitat (1,25). |
 | **Wandel / Lebensführung** | ἀναστροφή (*anastrophē*) | Ein Schlüsselwort — heiliger Wandel (1,15.18; 2,12; 3,1-2.16). |
 | **Wort** | λόγος / ῥῆμα (*logos / rhēma*) | Das lebendige, bleibende Wort Gottes = die verkündigte gute Botschaft (1,23.25). |
 
@@ -375,6 +375,6 @@ aber das Wort *des* Herrn bleibt in Ewigkeit." Und dies ist das Wort, das euch a
 | Lev 11,44-45; 19,2 | „Seid heilig, denn ich bin heilig" | Zitiert als Gottes Wort in der ersten Person, das den Ruf zur Heiligkeit begründet (1,16). |
 | Ex 12 (Passa); Lev (Opfer) | Das Lamm ohne Fehl; Erlösung | Der Loskauf durch das kostbare Blut des Messias, „ein Lamm ohne Fehl" (1,18-19). |
 | Ex 12,11 | „Umgürtet eure Lenden" — die Exodus-Haltung der Bereitschaft | „Nachdem ihr die Lenden eurer Gesinnung umgürtet habt" (1,13). |
-| Jes 40,6-8 | „Alles Fleisch ist Gras… das Wort JHWHs bleibt" | Wörtlich zitiert; das bleibende Wort = die verkündigte gute Botschaft (1,24-25). |
+| Jes 40,6-8 | „Alles Fleisch ist Gras… das Wort unseres Gottes bleibt" | Eng zitiert (1. Petrus: „des Herrn"); das bleibende Wort = die verkündigte gute Botschaft (1,24-25). |
 | Die Zerstreuung / das Exil Israels | Diaspora-Identität | Die Leser als „erwählte Fremdlinge der Zerstreuung" / „Zeit eurer Fremdlingschaft" (1,1.17). |
 | Ex 24,8 | Das gesprengte Blut des Bundes | „Besprengung mit dem Blut Yeshuas" in der Erwählung (1,2). |

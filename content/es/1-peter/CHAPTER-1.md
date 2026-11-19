@@ -47,7 +47,7 @@ Las notas se etiquetan por tipo — **Crítico · Léxico · Gramatical · Teol�
 
 **Temas clave:** El saludo epistolar y la elección de forma trinitaria (presciencia del Padre / santificación del viento/espíritu / rociamiento de la sangre); el **nuevo nacimiento (anagennaō)** a una esperanza viva; la herencia incorruptible "guardada en los cielos"; la fe probada más preciosa que el oro, refinada por fuego; amar a un Señor no visto; los profetas y el "viento/espíritu del Mesías" prediciendo el patrón sufrimientos-luego-glorias; el llamado a la santidad fundamentado en la propia santidad de Dios (Levítico); el **rescate** por la sangre del Mesías, el cordero sin defecto, conocido de antemano antes de la fundación del mundo; la identidad de los lectores como **peregrinos/forasteros (paroikia)** viviendo con temor reverente; el nuevo nacimiento por medio de la viva y permanente palabra, en contraste con el marchitarse de toda carne (Isaías 40).
 
-**Observe:** Esta es una carta — los vv.3-12 son una sola oración periódica en griego; la TT conserva su estructura subordinada y suspendida. Las tres frases del saludo (vv.1-2) llevan una forma trinitaria; la TT traduce el griego sin importar el vocabulario dogmático posterior (Regla 3). *Pneuma* conserva la barra viento/espíritu (1:2, 11, 12). En 1:11 "el viento/espíritu del Mesías" en los profetas es una afirmación notable — traducida tal como la tiene el griego. La cita de Levítico (1:16) es la palabra de Dios en primera persona — marcada @@…@@. *Kyrios* en 1:25 (Isaías 40:8) = YHWH (Opción C: "el Señor"). "Peregrinos… dispersión… peregrinación" (*parepidēmoi / diaspora / paroikia*) es la palabra clave de identidad de la carta — conservada literal.
+**Observe:** Esta es una carta — los vv.3-12 son una sola oración periódica en griego; la TT conserva su estructura subordinada y suspendida. Las tres frases del saludo (vv.1-2) llevan una forma trinitaria; la TT traduce el griego sin importar el vocabulario dogmático posterior (Regla 3). *Pneuma* conserva la barra viento/espíritu (1:2, 11, 12). En 1:11 "el viento/espíritu del Mesías" en los profetas es una afirmación notable — traducida tal como la tiene el griego. La cita de Levítico (1:16) es la palabra de Dios en primera persona — marcada @@…@@. En 1:25 (Isaías 40:8) la fuente lee "nuestro Dios" (hebreo y LXX); el *kyrios* de 1 Pedro ("el Señor", Opción C) es una sustitución de la propia carta. "Peregrinos… dispersión… peregrinación" (*parepidēmoi / diaspora / paroikia*) es la palabra clave de identidad de la carta — conservada literal.
 
 **Conexión:** El capítulo está empapado de la Biblia Hebrea. "Sean santos, porque yo soy santo" (1:16) cita Levítico 11:44-45; 19:2 — el código de santidad que fundamenta la vocación de Israel, ahora aplicado a los creyentes dispersos. "Ceñir los lomos" (1:13) hace eco de la postura del Éxodo (Éx 12:11) y de los profetas. El rescate por un "cordero sin defecto" (1:19) recurre al cordero pascual (Éx 12) y al código sacrificial (Lev). "Toda carne es hierba… la palabra del Señor permanece" (1:24-25) cita Isaías 40:6-8 — el comienzo de las profecías de consolación, el mismo Isaías 40 que enmarca a Juan el Inmersor en los Evangelios. El lenguaje de la "dispersión" (diaspora) sitúa a los lectores en la identidad de exilio de Israel.
 
@@ -61,7 +61,7 @@ Las notas se etiquetan por tipo — **Crítico · Léxico · Gramatical · Teol�
 
 ¹Kefa (Pedro), apóstol de Yeshua *el* Mesías (Jesús), a los elegidos peregrinos de la dispersión del Ponto, Galacia, Capadocia, Asia y Bitinia, ²según la presciencia de Dios *el* Padre, en santificación del {a:viento/espíritu}, para obediencia y rociamiento de la sangre de Yeshua *el* Mesías (Jesús): que gracia y paz les sean multiplicadas.
 
-³Bendito *sea* el Dios y Padre de nuestro Señor Yeshua *el* Mesías (Jesús), quien según su gran misericordia nos dio un nuevo nacimiento a una esperanza viva por medio de la resurrección de Yeshua (Jesús) de *entre* los muertos, ⁴a una herencia incorruptible e incontaminada e inmarcesible, guardada en los cielos para ustedes ⁵que son protegidos por el poder de Dios mediante la fe, para una salvación lista para ser revelada en *el* último tiempo. ⁶En esto se regocijan, *aunque* ahora por un poco *de tiempo*, si *es* necesario, *han sido* afligidos por diversas pruebas, ⁷para que la prueba de su fe — más preciosa que el oro que perece, *aunque* probado mediante fuego — sea hallada para alabanza y gloria y honra en *la* revelación de Yeshua *el* Mesías (Jesús); ⁸a quien, sin haberlo visto, aman; en quien, sin verlo ahora pero creyendo, se regocijan con gozo inefable y glorificado, ⁹recibiendo el resultado de su fe, la salvación de *sus* almas.
+³Bendito *sea* el Dios y Padre de nuestro Señor Yeshua *el* Mesías (Jesús), quien según su gran misericordia nos dio un nuevo nacimiento a una esperanza viva por medio de la resurrección de Yeshua (Jesús) de *entre* los muertos, ⁴a una herencia incorruptible e incontaminada e inmarcesible, guardada en los cielos para ustedes ⁵que son protegidos por el poder de Dios mediante la fe, para una salvación lista para ser revelada en *el* último tiempo. ⁶En esto se regocijan, *aunque* ahora por un poco *de tiempo*, si *es* necesario, *han sido* afligidos por diversas pruebas, ⁷para que la prueba de su fe — más preciosa que el oro que perece, aunque probado mediante fuego — sea hallada para alabanza y gloria y honra en *la* revelación de Yeshua *el* Mesías (Jesús); ⁸a quien, sin haberlo visto, aman; en quien, sin verlo ahora pero creyendo, se regocijan con gozo inefable y glorificado, ⁹recibiendo el resultado de su fe, la salvación de *sus* almas.
 
 ¹⁰Acerca de esta salvación, los profetas buscaron e indagaron *cuidadosamente*, los que profetizaron acerca de la gracia *que vendría* a ustedes, ¹¹indagando en qué o en qué tiempo señalaba el {a:viento/espíritu} *del* Mesías en ellos, dando testimonio de antemano de los sufrimientos *destinados* al Mesías y las glorias después de estos. ¹²A ellos les fue revelado que no para sí mismos, sino para ustedes, servían estas *cosas*, que ahora les han sido anunciadas por medio de los que les predicaron las buenas nuevas por *el* {a:viento/espíritu} santo enviado del cielo — *cosas* en las que los ángeles anhelan mirar.
 
@@ -144,7 +144,7 @@ En esto se regocijan, *aunque* ahora por un poco *de tiempo*, si *es* necesario,
 
 ### **Versículo 7**
 
-para que la prueba de su fe — más preciosa que el oro que perece, *aunque* probado mediante fuego — sea hallada para alabanza y gloria y honra en *la* revelación de Yeshua *el* Mesías (Jesús);
+para que la prueba de su fe — más preciosa que el oro que perece, aunque probado mediante fuego — sea hallada para alabanza y gloria y honra en *la* revelación de Yeshua *el* Mesías (Jesús);
 
 > **Notas**
 >
@@ -346,8 +346,8 @@ pero la palabra del Señor permanece para siempre." Y esta es la palabra que les
 
 > **Notas**
 >
-> 🔴 **CRÍTICO — ISAÍAS 40:8 (κύριος = YHWH) APLICADO AL EVANGELIO**
-> - **τὸ δὲ ῥῆμα κυρίου μένει εἰς τὸν αἰῶνα** (*to de rhēma kyriou menei eis ton aiōna*) = "pero la palabra del Señor permanece para siempre." En Isaías, *kyrios* = **YHWH** (Opción C: "el Señor"); 1 Pedro luego identifica "la palabra del Señor" con "la palabra que les fue predicada como buenas nuevas" — el evangelio es esa palabra que permanece. **ῥῆμα** (aquí) / **λόγος** (v.23) ambas traducen "palabra." → PROFECÍA (Isa 40:8 → 1 Ped 1:25).
+> 🔴 **CRÍTICO — ISAÍAS 40:8 ("NUESTRO DIOS" → κύριος) APLICADO AL EVANGELIO**
+> - **τὸ δὲ ῥῆμα κυρίου μένει εἰς τὸν αἰῶνα** (*to de rhēma kyriou menei eis ton aiōna*) = "pero la palabra del Señor permanece para siempre." Isaías 40:8 lee "la palabra de **nuestro Dios**" (hebreo *dĕbar ʾĕlōhênû*; LXX τοῦ θεοῦ ἡμῶν) — 1 Pedro lo sustituye por κυρίου, traducido "el Señor" (Opción C); el único Tetragrámaton del pasaje está en 40:7 del TM, ausente de la LXX; 1 Pedro luego identifica "la palabra del Señor" con "la palabra que les fue predicada como buenas nuevas" — el evangelio es esa palabra que permanece. **ῥῆμα** (aquí) / **λόγος** (v.23) ambas traducen "palabra." → PROFECÍA (Isa 40:8 → 1 Ped 1:25).
 
 ---
 
@@ -363,7 +363,7 @@ pero la palabra del Señor permanece para siempre." Y esta es la palabra que les
 | **la prueba** | δοκίμιον (*dokimion*) | La autenticidad probada de la fe, refinada como el oro por fuego (1:7). |
 | **rescatados** | λυτρόω (*lytroō*) | Redimidos por un precio — la sangre del Mesías, no plata/oro (1:18-19). |
 | **cordero sin defecto** | ἀμνὸς ἄμωμος (*amnos amōmos*) | El estándar pascual/sacrificial (Éx 12; Lev), aplicado al Mesías (1:19). |
-| **el Señor** | κύριος (*kyrios*) | Opción C: "nuestro Señor" Yeshua (1:3); YHWH en la cita de Isaías 40 (1:25). |
+| **el Señor** | κύριος (*kyrios*) | Opción C: "nuestro Señor" Yeshua (1:3); la sustitución de 1 Pedro por el "nuestro Dios" de Isaías en la cita de Isaías 40 (1:25). |
 | **conducta / manera de vivir** | ἀναστροφή (*anastrophē*) | Una palabra clave — conducta santa (1:15, 18; 2:12; 3:1-2, 16). |
 | **palabra** | λόγος / ῥῆμα (*logos / rhēma*) | La viva y permanente palabra de Dios = el evangelio predicado (1:23, 25). |
 
@@ -376,6 +376,6 @@ pero la palabra del Señor permanece para siempre." Y esta es la palabra que les
 | Lev 11:44-45; 19:2 | "Sean santos, porque yo soy santo" | Citado como la palabra de Dios en primera persona que fundamenta el llamado a la santidad (1:16). |
 | Éx 12 (Pascua); Lev (sacrificio) | El cordero sin defecto; la redención | El rescate por la preciosa sangre del Mesías, "un cordero sin defecto" (1:18-19). |
 | Éx 12:11 | "Cíñanse los lomos" — la postura de disponibilidad del Éxodo | "Habiendo ceñido los lomos de su mente" (1:13). |
-| Isa 40:6-8 | "Toda carne es hierba… la palabra de YHWH permanece" | Citado textualmente; la palabra que permanece = el evangelio predicado (1:24-25). |
+| Isa 40:6-8 | "Toda carne es hierba… la palabra de nuestro Dios permanece" | Citado de cerca (1 Pedro: "del Señor"); la palabra que permanece = el evangelio predicado (1:24-25). |
 | La dispersión / el exilio de Israel | La identidad de diaspora | Los lectores como "elegidos peregrinos de la dispersión" / "tiempo de su peregrinación" (1:1, 17). |
 | Éx 24:8 | La sangre del pacto rociada | "Rociamiento de la sangre de Yeshua" en la elección (1:2). |
