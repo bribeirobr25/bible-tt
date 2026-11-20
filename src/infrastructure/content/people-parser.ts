@@ -5,6 +5,7 @@ import type {
   PeopleData,
   PersonEntry,
 } from "@/domain/content/types";
+import { extractStatus } from "./front-matter";
 import {
   type FieldId,
   normalizeLabel,
@@ -16,6 +17,7 @@ import {
   resolveField,
   splitList,
 } from "./people-fields";
+import { cleanSourcesBlock, isSourcesHeading } from "./sources-block";
 
 const ENTRY_HEADER = /^## (.+)$/;
 const FIELD_LINE = /^\*\*(.+?):\*\*\s*(.*)$/;
@@ -27,11 +29,6 @@ const CURIOSITY_HEADER = /^#### (.+)$/;
 // localized "… Summary Table" qualifiers.
 const GENEALOGY_HEADING =
   /genealog|stammbaum|summary table|tabela resumida|übersichtstabelle|tabla resumen/i;
-
-// An H2 heading that introduces the "Sources Consulted" section (all 4 locales).
-// Authored as "## H. Sources Consulted" / "## H. Fontes Consultadas" / etc.
-const SOURCES_HEADING =
-  /^h\.\s|sources consulted|fontes consultadas|konsultierte quellen|fuentes consultadas|^(?:sources|fontes|quellen|fuentes)\b/i;
 
 // Trailing "— Summary Table" qualifier to strip from a genealogy title so it
 // matches the clean prototype title. The leading char class eats whatever
@@ -106,6 +103,8 @@ interface ParseState {
   } | null;
   // Sources-section accumulation (raw markdown lines after the sources H2).
   sourcesLines: string[] | null;
+  /** Sources lines already closed by a later H2. */
+  sourcesDone: string[];
 }
 
 function flushGenealogy(
@@ -303,6 +302,7 @@ export function parsePeopleMarkdown(raw: string, book: string): PeopleData {
     curiosity: null,
     gen: null,
     sourcesLines: null,
+    sourcesDone: [],
   };
 
   for (const line of lines) {
@@ -313,9 +313,11 @@ export function parsePeopleMarkdown(raw: string, book: string): PeopleData {
       // Close whatever section was open before opening the next.
       flushEntry(state, entries);
       flushGenealogy(state, genealogies);
+      // A later H2 closes the Sources capture without discarding it.
+      if (state.sourcesLines) state.sourcesDone.push(...state.sourcesLines);
       state.sourcesLines = null;
 
-      if (SOURCES_HEADING.test(heading)) {
+      if (isSourcesHeading(heading)) {
         state.sourcesLines = [];
         continue;
       }
@@ -341,7 +343,12 @@ export function parsePeopleMarkdown(raw: string, book: string): PeopleData {
       // unique. A true collision with no suffix to disambiguate is left to the
       // flushEntry duplicate-slug warning (authors fix it via the heading) —
       // do not silently auto-slug, which would mask the authoring issue.
-      const baseSlug = name.toLowerCase().replace(/\s+/g, "-");
+      // Quote characters (Ya'aqov, "She in Babylon", „Die in Babylon") are
+      // dropped so the slug is a clean URL fragment and HTML id.
+      const baseSlug = name
+        .toLowerCase()
+        .replace(/["'’ʼ„“”«»]/g, "")
+        .replace(/\s+/g, "-");
       let slug = baseSlug;
       if (suffix && seenSlugs.has(slug)) {
         slug = `${baseSlug}-${suffix
@@ -506,16 +513,17 @@ export function parsePeopleMarkdown(raw: string, book: string): PeopleData {
 
   // Emit the Sources section pre-cleaned (blockquote markers stripped, bullets
   // normalized to "• ") so consumers render it directly — no UI/route munging.
-  const sourcesRaw = state.sourcesLines?.join("\n").trim();
-  const sources = sourcesRaw
-    ? sourcesRaw.replace(/^>\s?/gm, "").replace(/^[-*]\s+/gm, "• ")
-    : undefined;
+  const sources = cleanSourcesBlock([
+    ...state.sourcesDone,
+    ...(state.sourcesLines ?? []),
+  ]);
 
   return {
     book,
     entries,
     genealogies: genealogies.length > 0 ? genealogies : undefined,
     sources,
+    ...(extractStatus(raw) ? { status: extractStatus(raw) } : {}),
   };
 }
 

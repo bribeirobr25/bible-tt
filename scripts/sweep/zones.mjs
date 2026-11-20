@@ -45,6 +45,8 @@ const PARSER_SKIPPED = new Set([
   "INHALTSVERZEICHNIS",
   "INDICE",
   "ÍNDICE",
+  "TABLA DE CONTENIDOS",
+  "TABLA DE CONTENIDO",
 ]);
 const TOC_LIKE =
   /CONTENTS|SUMÁRIO|INHALTSVERZEICHNIS|[IÍ]NDICE|TABLA DE CONTENIDOS/i;
@@ -86,7 +88,7 @@ const isCompanion = (rel) =>
  * @param {string} text  file content
  * @param {string} rel   path relative to content/ (e.g. "en/john/CHAPTER-3.md")
  * @returns {{zone:string, render:string, verse:number|null, section:string, heading?:boolean}[]}
- *   render is one of "now" | "after-4a" | "no"
+ *   render is one of "now" | "no" (Sources blocks render since Step 4 batch 1)
  */
 export function zoneLines(text, rel) {
   const lines = text.split("\n");
@@ -224,7 +226,8 @@ function otherZones(lines, rel) {
       section = h[1].trim();
       if (zone === "front" && !TITLE_H2.test(section)) zone = "apparatus";
       if (zone === "apparatus") {
-        if (SOURCES_H2.test(section)) render = "after-4a";
+        if (SOURCES_H2.test(section))
+          render = "now"; // rendered since Step 4 batch 1
         else if (
           companion &&
           LETTER_H2.test(line) &&
@@ -309,7 +312,7 @@ function prophecyZones(lines) {
       sectionRender = entry
         ? "now"
         : zone === "apparatus" && SOURCES_H2.test(section)
-          ? "after-4a"
+          ? "now" // Sources blocks render since Step 4 batch 1
           : "no";
       inReadings = false;
       out.push({

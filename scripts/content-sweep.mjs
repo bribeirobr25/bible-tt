@@ -171,19 +171,19 @@ function summary({ hits, names, variants, files, chapters, tableRows }) {
   }
   out.push(
     "",
-    "## Render state by check (now = visible today · after-4a = Sources blocks once rendered · no = not shown)",
+    "## Render state by check (now = visible to a reader · no = not shown)",
     "",
-    "| Check | now | after-4a | no |",
-    "|---|---:|---:|---:|",
+    "| Check | now | no |",
+    "|---|---:|---:|",
   );
   const rend = new Map();
   for (const h of hits) {
-    const e = rend.get(h.check) ?? { now: 0, "after-4a": 0, no: 0 };
+    const e = rend.get(h.check) ?? { now: 0, no: 0 };
     e[h.render]++;
     rend.set(h.check, e);
   }
   for (const [c, e] of [...rend].sort((a, b) => (a[0] < b[0] ? -1 : 1)))
-    out.push(`| ${c} | ${e.now} | ${e["after-4a"]} | ${e.no} |`);
+    out.push(`| ${c} | ${e.now} | ${e.no} |`);
   out.push("", "## Counts by check × book (all locales)", "");
   const books = [...new Set(hits.map((h) => h.book))].sort();
   out.push(

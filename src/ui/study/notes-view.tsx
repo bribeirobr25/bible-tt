@@ -1,4 +1,4 @@
-import { getTranslations } from "next-intl/server";
+import { getLocale, getTranslations } from "next-intl/server";
 import type { ChapterData, NoteType } from "@/domain/content/types";
 import { Disclosure } from "@/ui/shared/disclosure";
 import { renderMarkdownSafe } from "@/ui/shared/render-markdown-safe";
@@ -22,6 +22,7 @@ const CHIPS = (Object.keys(NOTE_TYPE_TOKENS) as NoteType[]).map((type) => ({
  */
 export async function NotesView({ data }: { data: ChapterData }) {
   const t = await getTranslations();
+  const locale = await getLocale();
   const supp = data.supplementarySections;
 
   return (
@@ -36,7 +37,7 @@ export async function NotesView({ data }: { data: ChapterData }) {
           <div
             className="body text-text-primary"
             dangerouslySetInnerHTML={{
-              __html: renderMarkdownSafe(data.readingGuide, "note"),
+              __html: renderMarkdownSafe(data.readingGuide, "note", { locale }),
             }}
           />
         </Disclosure>

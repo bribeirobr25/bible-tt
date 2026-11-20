@@ -1,3 +1,4 @@
+import { useLocale } from "next-intl";
 import type { Note, NoteType } from "@/domain/content/types";
 import { renderMarkdownSafe } from "@/ui/shared/render-markdown-safe";
 
@@ -21,6 +22,7 @@ const TYPE: Record<NoteType, { cls: string; dot: string }> = {
 
 export function NoteBlock({ note }: { note: Note }) {
   const ty = TYPE[note.type];
+  const locale = useLocale();
 
   return (
     <div className={`tt-note ${ty.cls}`}>
@@ -35,7 +37,7 @@ export function NoteBlock({ note }: { note: Note }) {
       <div
         className="ntext [&_em]:italic"
         dangerouslySetInnerHTML={{
-          __html: renderMarkdownSafe(note.content, "note"),
+          __html: renderMarkdownSafe(note.content, "note", { locale }),
         }}
       />
     </div>

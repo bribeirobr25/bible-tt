@@ -5,6 +5,7 @@ import type {
   ProphecyEntry,
   ProphecyReading,
 } from "@/domain/content/types";
+import { cleanSourcesBlock, isSourcesHeading } from "./sources-block";
 
 const ENTRY_HEADER = /^## (.+)$/;
 const FIELD_LINE = /^\*\*(.+?):\*\*\s*(.*)$/;
@@ -68,6 +69,9 @@ export function parseProphecyMarkdown(
     | (Partial<ProphecyEntry> & { readings: ProphecyReading[] })
     | null = null;
   let inReadings = false;
+  // "Sources Consulted" (Rule 29 §H): captured raw to the next H2, never an entry.
+  const sourcesLines: string[] = [];
+  let inSources = false;
 
   for (const line of lines) {
     const entryMatch = line.match(ENTRY_HEADER);
@@ -75,12 +79,24 @@ export function parseProphecyMarkdown(
       if (current?.verseRef) {
         entries.push(finalizeEntry(current));
       }
+      if (isSourcesHeading(entryMatch[1])) {
+        current = null;
+        inSources = true;
+        inReadings = false;
+        continue;
+      }
+      inSources = false;
       current = {
         title: entryMatch[1].trim(),
         readings: [],
         fulfillmentStatus: "DEBATED",
       };
       inReadings = false;
+      continue;
+    }
+
+    if (inSources) {
+      sourcesLines.push(line);
       continue;
     }
 
@@ -168,7 +184,8 @@ export function parseProphecyMarkdown(
     entries.push(finalizeEntry(current));
   }
 
-  return { book, chapter, entries };
+  const sources = cleanSourcesBlock(sourcesLines);
+  return { book, chapter, entries, ...(sources ? { sources } : {}) };
 }
 
 function finalizeEntry(

@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { getTranslations, setRequestLocale } from "next-intl/server";
-import { AVAILABLE_BOOKS } from "@/domain/books/registry";
+import { isActiveBook } from "@/domain/books/registry";
 import type { Locale } from "@/infrastructure/i18n/config";
 import { getAvailableBooks, getPeopleData } from "@/lib/content-loader";
 import {
@@ -14,12 +14,13 @@ import { DoorPager } from "@/ui/navigation/door-pager";
 import { Link } from "@/ui/navigation/locale-link";
 import { PeopleTimeline } from "@/ui/people/people-timeline";
 import { PersonCard } from "@/ui/people/person-card";
-import { Disclosure } from "@/ui/shared/disclosure";
 import { JsonLd } from "@/ui/shared/json-ld";
 import {
   renderInlineSafe,
   renderMarkdownSafe,
 } from "@/ui/shared/render-markdown-safe";
+import { SourcesBlock } from "@/ui/shared/sources-block";
+import { StatusPill } from "@/ui/shared/status-pill";
 
 export async function generateStaticParams() {
   const books = await getAvailableBooks("en");
@@ -32,7 +33,7 @@ export async function generateMetadata({
   params: Promise<{ locale: string; book: string }>;
 }): Promise<Metadata> {
   const { locale, book } = await params;
-  if (!(AVAILABLE_BOOKS as readonly string[]).includes(book)) return {};
+  if (!isActiveBook(book)) return {};
   const t = await getTranslations({ locale });
   return seoMetadata({
     locale,
@@ -70,6 +71,7 @@ export default async function PeoplePage({
   params: Promise<{ locale: string; book: string }>;
 }) {
   const { locale, book } = await params;
+  if (!isActiveBook(book)) notFound();
   setRequestLocale(locale);
 
   const books = await getAvailableBooks(locale);
@@ -143,10 +145,7 @@ export default async function PeoplePage({
                 : t("people.title")}
             </h1>
           </div>
-          <span className="tt-status-pill">
-            <span className="dot" aria-hidden="true" />
-            {t("people.provisional")}
-          </span>
+          <StatusPill status={people.status} />
         </div>
         <hr className="tt-seam mt-[26px]" />
       </div>
@@ -229,7 +228,7 @@ export default async function PeoplePage({
                       dangerouslySetInnerHTML={{
                         // "note" subset keeps the bullet lines of a
                         // multi-line genealogy note (e.g. Luke 3 divergence).
-                        __html: renderMarkdownSafe(g.note, "note"),
+                        __html: renderMarkdownSafe(g.note, "note", { locale }),
                       }}
                     />
                   </p>
@@ -239,18 +238,10 @@ export default async function PeoplePage({
           </section>
         )}
 
-        {people.sources && (
-          <section className="mt-[clamp(40px,6vh,70px)]">
-            <Disclosure summary={<span>{t("people.sourcesConsulted")}</span>}>
-              <div
-                className="body tt-sources text-text-secondary"
-                dangerouslySetInnerHTML={{
-                  __html: renderMarkdownSafe(people.sources, "note"),
-                }}
-              />
-            </Disclosure>
-          </section>
-        )}
+        <SourcesBlock
+          sources={people.sources}
+          className="mt-[clamp(40px,6vh,70px)]"
+        />
 
         <DoorPager
           left={{

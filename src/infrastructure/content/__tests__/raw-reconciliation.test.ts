@@ -3,7 +3,10 @@ import path from "node:path";
 import { describe, expect, it } from "vitest";
 import { AVAILABLE_BOOKS } from "@/domain/books/registry";
 import { locales } from "@/infrastructure/i18n/config";
-import { parseEnrichmentMarkdown } from "../enrichment-parser";
+import {
+  parseEnrichmentMarkdown,
+  parseIntroductionMarkdown,
+} from "../enrichment-parser";
 import { parseChapterMarkdown } from "../markdown-parser";
 import { parsePeopleMarkdown } from "../people-parser";
 import { parseProphecyMarkdown } from "../prophecy-parser";
@@ -156,6 +159,58 @@ describe("raw-count reconciliation (independent of the parsers)", () => {
         if (rawN !== parsed)
           bad.push(`${l}/${book}: raw ${rawN} parsed ${parsed}`);
       }
+    expect(bad).toEqual([]);
+  });
+  it("parsed Sources blocks = raw Sources headings (59 per locale)", () => {
+    // Independent rule: a lettered G/H heading whose words name the sources
+    // (companion §G is Curiosities, so the letter alone never decides).
+    const RAW_SOURCES =
+      /^## [GH]\. (?:Sources|Fontes|Fuentes|Konsultierte Quellen|Herangezogene Quellen)\b/;
+    const bad: string[] = [];
+    for (const l of locales) {
+      let n = 0;
+      const check = (rel: string, raw: string, parsed: string | undefined) => {
+        const has = lines(raw, RAW_SOURCES).length === 1;
+        if (has) n++;
+        if (has !== Boolean(parsed?.trim()))
+          bad.push(`${l}/${rel}: raw ${has} parsed ${Boolean(parsed)}`);
+      };
+      for (const book of AVAILABLE_BOOKS) {
+        for (const f of studyFiles(l, book, "-CONTEXT.md")) {
+          const raw = read(l, book, "study", f);
+          const ch = Number(f.match(/\d+/)?.[0]);
+          check(
+            `${book}/${f}`,
+            raw,
+            parseEnrichmentMarkdown(raw, book, ch).sources,
+          );
+        }
+        for (const f of studyFiles(l, book, "-PROPHECY.md")) {
+          const raw = read(l, book, "study", f);
+          const ch = Number(f.match(/\d+/)?.[0]);
+          check(
+            `${book}/${f}`,
+            raw,
+            parseProphecyMarkdown(raw, book, ch).sources,
+          );
+        }
+        const intro = read(l, book, "INTRODUCTION.md");
+        check(
+          `${book}/INTRODUCTION.md`,
+          intro,
+          parseIntroductionMarkdown(intro, book).sources,
+        );
+        if (existsSync(path.join(CONTENT, l, book, "PEOPLE.md"))) {
+          const raw = read(l, book, "PEOPLE.md");
+          check(
+            `${book}/PEOPLE.md`,
+            raw,
+            parsePeopleMarkdown(raw, book).sources,
+          );
+        }
+      }
+      if (n !== 59) bad.push(`${l}: ${n} Sources blocks (expected 59)`);
+    }
     expect(bad).toEqual([]);
   });
 });

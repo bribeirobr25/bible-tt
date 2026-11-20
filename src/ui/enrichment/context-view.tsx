@@ -1,4 +1,4 @@
-import { useTranslations } from "next-intl";
+import { useLocale, useTranslations } from "next-intl";
 import { type EnrichmentData, sortByConfidence } from "@/domain/content/types";
 import { Disclaimer } from "@/ui/shared/disclaimer";
 import { Disclosure } from "@/ui/shared/disclosure";
@@ -6,6 +6,7 @@ import {
   renderInlineSafe,
   renderMarkdownSafe,
 } from "@/ui/shared/render-markdown-safe";
+import { SourcesBlock } from "@/ui/shared/sources-block";
 import { ClaimBadge } from "./claim-badge";
 import { EnrichmentEntryCard } from "./enrichment-entry";
 
@@ -18,11 +19,11 @@ const SECTION_ORDER = [
   "ane-parallels",
   "linguistic-philological",
   "later-reception",
-  "sources",
 ];
 
 export function ContextView({ data }: { data: EnrichmentData }) {
   const t = useTranslations();
+  const locale = useLocale();
   const displaySections = data.sections
     .filter((s) => s.entries.length > 0)
     .sort((a, b) => {
@@ -37,6 +38,7 @@ export function ContextView({ data }: { data: EnrichmentData }) {
         <p className="text-sm text-text-muted italic">
           {t("enrichment.emptyContext")}
         </p>
+        <SourcesBlock sources={data.sources} className="mt-6 text-left" />
       </div>
     );
   }
@@ -57,7 +59,7 @@ export function ContextView({ data }: { data: EnrichmentData }) {
               <p
                 className="tt-secintro"
                 dangerouslySetInnerHTML={{
-                  __html: renderMarkdownSafe(section.intro, "note"),
+                  __html: renderMarkdownSafe(section.intro, "note", { locale }),
                 }}
               />
             )}
@@ -128,6 +130,7 @@ export function ContextView({ data }: { data: EnrichmentData }) {
           </div>
         </Disclosure>
       ))}
+      <SourcesBlock sources={data.sources} className="mt-6" />
     </div>
   );
 }

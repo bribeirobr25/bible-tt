@@ -4,7 +4,7 @@ import { Menu, X } from "lucide-react";
 import { usePathname } from "next/navigation";
 import { useLocale, useTranslations } from "next-intl";
 import { useEffect, useState } from "react";
-import { AVAILABLE_BOOKS } from "@/domain/books/registry";
+import { isActiveBook } from "@/domain/books/registry";
 import { type Locale, locales } from "@/lib/i18n";
 
 export function AppBar() {
@@ -15,9 +15,7 @@ export function AppBar() {
   const pathWithoutLocale = pathname.replace(`/${locale}`, "") || "/";
   const segments = pathWithoutLocale.split("/").filter(Boolean);
 
-  const isBookPage =
-    segments.length > 0 &&
-    (AVAILABLE_BOOKS as readonly string[]).includes(segments[0]);
+  const isBookPage = segments.length > 0 && isActiveBook(segments[0]);
 
   // The landing + marketing pages (rules/start/books) lead with a dark WebGL
   // hero: the header floats transparent over it (light text via mix-blend), then

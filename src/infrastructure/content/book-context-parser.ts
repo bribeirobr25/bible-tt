@@ -5,6 +5,7 @@ import type {
   ClaimType,
   ConfidenceLevel,
 } from "@/domain/content/types";
+import { extractStatus } from "./front-matter";
 
 const H1_HEADER = /^# (.+)$/;
 const MOTIF_HEADER = /^## (.+)$/;
@@ -170,10 +171,12 @@ export function parseBookContextMarkdown(
     motifs.push(finalizeMotif(current));
   }
 
+  const status = extractStatus(raw);
   return {
     book,
     locale,
     disclaimer,
     motifs,
+    ...(status ? { status } : {}),
   };
 }

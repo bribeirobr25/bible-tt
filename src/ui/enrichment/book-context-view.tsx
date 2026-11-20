@@ -1,4 +1,4 @@
-import { useTranslations } from "next-intl";
+import { useLocale, useTranslations } from "next-intl";
 import type { BookContextData } from "@/domain/content/types";
 import { Disclaimer } from "@/ui/shared/disclaimer";
 import { Disclosure } from "@/ui/shared/disclosure";
@@ -13,6 +13,7 @@ import { ClaimBadge } from "./claim-badge";
 // collapsible (page-wide `bg-acc` accordion: first open, rest closed, exclusive).
 export function BookContextView({ data }: { data: BookContextData }) {
   const t = useTranslations();
+  const locale = useLocale();
 
   if (data.motifs.length === 0) {
     return (
@@ -58,7 +59,7 @@ export function BookContextView({ data }: { data: BookContextData }) {
               <div
                 className="ebody [&_em]:italic"
                 dangerouslySetInnerHTML={{
-                  __html: renderMarkdownSafe(motif.body, "note"),
+                  __html: renderMarkdownSafe(motif.body, "note", { locale }),
                 }}
               />
               {motif.source && <SourceLine source={motif.source} />}

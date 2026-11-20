@@ -267,12 +267,12 @@ Errors are expected, not exceptional. Handle them gracefully at every boundary.
 | Invalid chapter number | `notFound()` via `Number.isNaN()` check | `[chapter]/page.tsx` |
 | Missing chapter file | `readChapter()` returns `null` → `notFound()` | `fs-content-repository.ts` |
 | Missing enrichment file | `readEnrichment()` returns `null` → no Context tab shown | `fs-content-repository.ts` |
-| Parser error on malformed markdown | `try/catch` in repository → returns `null` | `fs-content-repository.ts` |
+| Parser error on malformed markdown | **rethrown** — only an absent file (`ENOENT`/`ENOTDIR`) reads as `null`; any other I/O or parse error fails the build loudly (Step 4 batch 1; a swallowed parse error used to become a silent 404) | `fs-content-repository.ts` |
 | Missing i18n message | next-intl falls back to default locale | `request.ts` |
 
 ### Rules
 - **Return `null` for missing content** — don't throw. Let the caller decide (show 404 or hide section).
-- **Validate at boundaries** — URL params validated in page components. File reads wrapped in try/catch.
+- **Validate at boundaries** — URL params validated in page components (`isActiveBook` guard before any read). File reads treat only absence as `null`.
 - **No silent failures** — if content is missing, the UI either shows a 404 or shows an empty state with explanation.
 - **Build-time validation** — `pnpm test` validates all chapter files parse correctly. CI should fail if a chapter file is malformed.
 

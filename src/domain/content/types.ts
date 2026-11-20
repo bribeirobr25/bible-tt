@@ -124,6 +124,8 @@ export interface EnrichmentData {
   chapter: number;
   disclaimer: string;
   sections: EnrichmentSection[];
+  /** "Sources Consulted" block (Rule 29 §H: source table + editorial provenance), cleaned for rendering. */
+  sources?: string;
 }
 
 // Phase 5b — book "tight card" (What·When·Who·To-whom·Why). Authored as an
@@ -138,6 +140,10 @@ export interface IntroductionData {
   disclaimer: string;
   sections: EnrichmentSection[];
   card?: BookCardField[];
+  /** Raw `**Status:**` value (Rule 28), if authored. */
+  status?: string;
+  /** "Sources Consulted" block (§G: source table + editorial provenance), cleaned for rendering. */
+  sources?: string;
 }
 
 export type FulfillmentStatus =
@@ -171,6 +177,8 @@ export interface ProphecyData {
   book: string;
   chapter: number;
   entries: ProphecyEntry[];
+  /** "Sources Consulted" block (source table + editorial provenance), cleaned for rendering. */
+  sources?: string;
 }
 
 export type OriginType = "BORN" | "CREATED" | "APPEARS" | "UNCERTAIN";
@@ -292,6 +300,8 @@ export interface PeopleData {
   genealogies?: GenealogyTable[];
   /** "Sources Consulted" section as raw markdown (rendered to HTML for display). */
   sources?: string;
+  /** Raw `**Status:**` value (Rule 28), if authored. */
+  status?: string;
 }
 
 // Phase 9 — Book Context: cross-chapter motifs surface.
@@ -314,4 +324,6 @@ export interface BookContextData {
   locale: string;
   disclaimer: string;
   motifs: BookContextMotif[];
+  /** Raw `**Status:**` value (Rule 28), if authored. */
+  status?: string;
 }

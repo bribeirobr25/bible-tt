@@ -1,6 +1,6 @@
 "use client";
 
-import { useTranslations } from "next-intl";
+import { useLocale, useTranslations } from "next-intl";
 import type {
   FulfillmentStatus,
   ProphecyData,
@@ -12,6 +12,7 @@ import {
   renderInlineSafe,
   renderMarkdownSafe,
 } from "@/ui/shared/render-markdown-safe";
+import { SourcesBlock } from "@/ui/shared/sources-block";
 
 const FULFILLMENT_COLORS: Record<FulfillmentStatus, string> = {
   FULFILLED: "bg-note-lexical/15 text-note-lexical",
@@ -39,6 +40,7 @@ function ProphecyCard({
   open?: boolean;
 }) {
   const t = useTranslations();
+  const locale = useLocale();
 
   return (
     <Disclosure
@@ -79,7 +81,7 @@ function ProphecyCard({
           <p
             className="text-sm leading-relaxed text-text-primary font-[family-name:var(--font-reading)]"
             dangerouslySetInnerHTML={{
-              __html: renderMarkdownSafe(entry.textSays, "note"),
+              __html: renderMarkdownSafe(entry.textSays, "note", { locale }),
             }}
           />
         </div>
@@ -91,7 +93,7 @@ function ProphecyCard({
             <p
               className="text-sm leading-relaxed text-text-secondary"
               dangerouslySetInnerHTML={{
-                __html: renderMarkdownSafe(entry.context, "note"),
+                __html: renderMarkdownSafe(entry.context, "note", { locale }),
               }}
             />
           </div>
@@ -116,7 +118,7 @@ function ProphecyCard({
                   <p
                     className="text-sm text-text-primary"
                     dangerouslySetInnerHTML={{
-                      __html: renderMarkdownSafe(r.reading, "note"),
+                      __html: renderMarkdownSafe(r.reading, "note", { locale }),
                     }}
                   />
                 </div>
@@ -128,7 +130,9 @@ function ProphecyCard({
           <p
             className="text-xs text-text-muted italic"
             dangerouslySetInnerHTML={{
-              __html: renderMarkdownSafe(entry.fulfillmentNotes, "note"),
+              __html: renderMarkdownSafe(entry.fulfillmentNotes, "note", {
+                locale,
+              }),
             }}
           />
         )}
@@ -136,7 +140,9 @@ function ProphecyCard({
           <p
             className="text-xs text-text-muted italic mt-2 pt-2 border-t border-border-muted"
             dangerouslySetInnerHTML={{
-              __html: renderMarkdownSafe(entry.scholarlyNote, "note"),
+              __html: renderMarkdownSafe(entry.scholarlyNote, "note", {
+                locale,
+              }),
             }}
           />
         )}
@@ -158,6 +164,7 @@ export function ProphecyView({ data }: { data: ProphecyData }) {
       {data.entries.map((entry, i) => (
         <ProphecyCard key={`p-${i}`} entry={entry} open={i === 0} />
       ))}
+      <SourcesBlock sources={data.sources} className="mt-6" />
     </div>
   );
 }

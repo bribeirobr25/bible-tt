@@ -8,6 +8,8 @@ import type {
   EnrichmentSection,
   IntroductionData,
 } from "@/domain/content/types";
+import { extractStatus } from "./front-matter";
+import { cleanSourcesBlock, isSourcesHeading } from "./sources-block";
 
 const SECTION_HEADER = /^## ([A-Z])(?:_\w+)?\.\s+(.+)$/;
 const ENTRY_HEADER = /^### (.+)$/;
@@ -39,8 +41,16 @@ const INTRODUCTION_SECTION_IDS: Record<string, string> = {
 function parseMarkdownSections(
   raw: string,
   sectionIds: Record<string, string>,
-): { disclaimer: string; sections: EnrichmentSection[] } {
+): {
+  disclaimer: string;
+  sections: EnrichmentSection[];
+  sources?: string;
+} {
   const lines = raw.split("\n");
+  // Raw "Sources Consulted" lines (Rule 29 §H / intro §G). Captured from the
+  // Sources H2 to the next lettered H2; never a section.
+  const sourcesLines: string[] = [];
+  let inSources = false;
 
   let disclaimer = "";
   const disclaimerMatch = raw.match(/^>\s*\*\*(.+?)\*\*$/m);
@@ -77,6 +87,7 @@ function parseMarkdownSections(
   for (const line of lines) {
     const sectionMatch = line.match(SECTION_HEADER);
     if (sectionMatch) {
+      inSources = false;
       flushSub();
       if (currentEntry && currentSection) {
         currentSection.entries.push(finalizeEntry(currentEntry));
@@ -85,12 +96,22 @@ function parseMarkdownSections(
       if (currentSection) {
         sections.push(finalizeSection(currentSection, sectionIds));
       }
+      if (isSourcesHeading(`${sectionMatch[1]}. ${sectionMatch[2]}`)) {
+        currentSection = null;
+        inSources = true;
+        continue;
+      }
       currentSection = {
         letter: sectionMatch[1],
         title: sectionMatch[2].trim(),
         entries: [],
         introLines: [],
       };
+      continue;
+    }
+
+    if (inSources) {
+      sourcesLines.push(line);
       continue;
     }
 
@@ -146,9 +167,8 @@ function parseMarkdownSections(
       // Prose between a `## ` section header and its first `### ` entry —
       // previously dropped. Capture it as a candidate section intro (e.g. the
       // §I dating-neutrality disclaimer); strip leading `>` blockquote markers.
-      // finalizeSection keeps it only for sections that actually have entries,
-      // which excludes the orphaned 0-entry §H/§G "Sources Consulted" blocks
-      // (table + internal editorial-provenance) — a separate, out-of-scope gap.
+      // finalizeSection keeps it only for sections that actually have entries.
+      // (Sources blocks never reach here: they are captured above.)
       const trimmed = line.trim();
       if (trimmed !== "---" && trimmed.length > 0) {
         currentSection.introLines.push(line.replace(/^>\s*/, ""));
@@ -164,7 +184,8 @@ function parseMarkdownSections(
     sections.push(finalizeSection(currentSection, sectionIds));
   }
 
-  return { disclaimer, sections };
+  const sources = cleanSourcesBlock(sourcesLines);
+  return { disclaimer, sections, ...(sources ? { sources } : {}) };
 }
 
 export function parseEnrichmentMarkdown(
@@ -172,8 +193,17 @@ export function parseEnrichmentMarkdown(
   book: string,
   chapter: number,
 ): EnrichmentData {
-  const { disclaimer, sections } = parseMarkdownSections(raw, SECTION_IDS);
-  return { book, chapter, disclaimer, sections };
+  const { disclaimer, sections, sources } = parseMarkdownSections(
+    raw,
+    SECTION_IDS,
+  );
+  return {
+    book,
+    chapter,
+    disclaimer,
+    sections,
+    ...(sources ? { sources } : {}),
+  };
 }
 
 // Phase 5b — extract the book "tight card" from a language-neutral
@@ -194,11 +224,18 @@ export function parseIntroductionMarkdown(
   raw: string,
   book: string,
 ): IntroductionData {
-  const { disclaimer, sections } = parseMarkdownSections(
+  const { disclaimer, sections, sources } = parseMarkdownSections(
     raw,
     INTRODUCTION_SECTION_IDS,
   );
-  return { book, disclaimer, sections, card: parseBookCard(raw) };
+  return {
+    book,
+    disclaimer,
+    sections,
+    card: parseBookCard(raw),
+    ...(sources ? { sources } : {}),
+    ...(extractStatus(raw) ? { status: extractStatus(raw) } : {}),
+  };
 }
 
 const INLINE_LABEL = /\*?\*?\[[^\]]+\s*(?:—|--|–)\s*[^\]]+\]\*?\*?/g;
@@ -271,9 +308,7 @@ function finalizeSection(
   sectionIds: Record<string, string>,
 ): EnrichmentSection {
   // An intro only introduces something: keep it solely for sections that have
-  // entries. This drops the orphaned 0-entry "Sources Consulted" pre-entry
-  // content (table + internal editorial-provenance), leaving only genuine
-  // reader-facing intros (the §I "World at the Time" disclaimer / pointer).
+  // entries (the §I "World at the Time" disclaimer / pointer).
   const intro = raw.entries.length > 0 ? raw.introLines.join("\n").trim() : "";
   return {
     id: sectionIds[raw.letter] || raw.letter.toLowerCase(),

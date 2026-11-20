@@ -932,7 +932,7 @@ export function s15(ctx, add) {
 
 // ---------------------------------------------------------------- S16 structure cross-checks
 const KNOWN_TOC =
-  /^(?:TABLE OF CONTENTS|SUMÁRIO|INHALTSVERZEICHNIS|INDICE|ÍNDICE)$/;
+  /^(?:TABLE OF CONTENTS|SUMÁRIO|INHALTSVERZEICHNIS|INDICE|ÍNDICE|TABLA DE CONTENIDOS?)$/;
 export function s16(ctx, add) {
   if (!isChapterFile(ctx.path)) return;
   for (let i = 0; i < ctx.lines.length; i++) {

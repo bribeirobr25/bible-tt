@@ -83,10 +83,17 @@ describe("Enrichment Parser", () => {
       }
     });
 
-    it("sources section exists", async () => {
+    it("sources block is captured (table + provenance), not a section", async () => {
       const data = await loadEnrichment();
-      const sources = data.sections.find((s) => s.id === "sources");
-      expect(sources).toBeDefined();
+      expect(data.sections.find((s) => s.id === "sources")).toBeUndefined();
+      expect(data.sources).toMatch(/^\| Source \| Type \| Sections \|/);
+      expect(data.sources).toContain("Pritchard");
+      expect(data.sources).toContain("**Editorial provenance:**");
+      // the §I section authored AFTER §H is still a section, not swallowed
+      expect(data.sections.some((s) => s.id === "world-at-the-time")).toBe(
+        true,
+      );
+      expect(data.sources).not.toContain("## I.");
     });
   });
 

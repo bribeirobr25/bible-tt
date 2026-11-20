@@ -11,6 +11,23 @@ in `docs/audit/PENDING.md`.
 
 ---
 
+## Launch-Readiness Program — Step 4 batch 1: Code (2026-11-20)
+
+Per `docs/audit/PLAN_LAUNCH_FIXES.md` §B1 (adversarial plan review: 2 reviewers — 1 blocker, 13 major, 18 minor, all applied, §B1.12) under `docs/audit/LAUNCH_PROGRAM.md`; lead decisions L1–L8 approved 2026-11-20. Branch `fixes-b1-code`. **No content changed.**
+
+- **Sources Consulted rendered (audit B2, D2)** — one `sources-block.ts` helper (heading words, never the letter) + `SourcesBlock` component on companions, introductions, PROPHECY and People (236 blocks, 59/locale); new `sources` structured unit kind (conservation 20,599 → 20,676 units: −156 former 0-entry sections, +236 sources, −3 ES TOC); raw reconciliation asserts 59 per locale.
+- **Activation guard (B1)** — `isActiveBook` in every `[book]` page + the 7 OG routes, before any read. `dynamicParams = false` was tried and dropped: on Next 16 every unmatched param logs an internal `NoFallbackError` (runtime-error noise per 404); the guard alone closes B1 (verified with a temporary draft book: 9 URLs → 404).
+- **404 (B6)** — localized `[locale]/not-found.tsx` + `[...rest]` catch-all + root `not-found.tsx`. Renders styled and localized in the browser; the server HTML is Next's error shell (root layout passes children through), so no-JS visitors see a blank page → Step 5.
+- **Renderer hardening (B3/B4)** — per-line CommonMark-style delimiter pass (strict opening for single `*`, so `א*`/`B*` sigla stay literal; permissive closing, so authored shapes keep pairing); markers never cross a newline; empty table cells kept; header cells rendered inline; tables re-inserted after the emphasis pass with a function replacer. A full-corpus old-vs-new render diff showed only the intended changes (sigla, the Gen 8 table, the Matthew nested-italics notes).
+- **Parser latent risks** — continuous reading keeps scripture paragraphs that start with an added word (L1); verse text after notes/`---` kept; note titles ending `*WORD***` no longer leave a stray `*` that inverted ~1,100 notes' italics; glossary empty cells; loader rethrows anything but ENOENT/ENOTDIR (STANDARDS §7); person slugs drop quote characters; `IntroductionView` renders section intros.
+- **Rules page (B5, L5)** — 30 rules; names re-sourced from the RULES-CORE headings (about half were wrong) with a drift test; three example strings corrected (Rule 1 *eretz* "by default", Rule 11 Gen 1:26, Rule 25); `#rule-N` anchors; "Rule N" references in content prose link to them (underlined, WCAG 2.5.8 inline exception documented).
+- **Smaller** — status pill + 4 badges print the i18n term of the file's authored status (`parseReviewStatus`, D15); ES "TABLA DE CONTENIDOS" skipped (S16 → 0); progress bar visible (B7); WebGL hero redraw + context release (B8); Deeper tabs ARIA (B9); copy-link highlight + timer cleanup (B10); intro §F label (B12); JSON-LD escaping; D10 CSS comments; `.rshort` 14 px.
+- **Sweep** — Sources render state `after-4a` retired (`now`); snapshot regenerated, byte-stable.
+
+**Gates:** 1,068 tests / 28 files (was 1,002 / 19); conservation 408 / 20,676; Biome; `tsc` (src + scripts); content-lint (same 3 warn-only rules); build 516 pages; production checks (404s, redirects, OG routes, draft-book guard) and a visual pass at 375 px.
+
+---
+
 ## Launch-Readiness Program — Step 3: Content sweep (2026-11-19)
 
 Per `docs/audit/PLAN_CONTENT_SWEEP.md` (independent adversarial plan review: 1 blocker + 21 findings, all resolved — §13) under `docs/audit/LAUNCH_PROGRAM.md`. Branch `content-sweep`. **No content changed** — the step produces the Step-4 work list.
