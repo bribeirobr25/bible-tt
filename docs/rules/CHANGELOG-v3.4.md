@@ -65,4 +65,6 @@ Total: **30 rules**. Content: the chapter `Methodology:` lines were re-stamped t
 
 ## Dated addenda
 
+- **2026-11-20 (lead answers to the batch-2 questions):** Rule 20 — lowercase in body text, notes included, extends from "son of man" (D8) to **all titular nouns**; the Rule 28 per-batch record, the 4-locale plain statement and the omitted vendor name, and the not-applied 14-day window are **confirmed** (the † items in the proposal). Content applied in Step 4 batch 4.
+
 *Later Step-4 batches append rule-table edits here: batch 4 (glossary rows, labels, Genesis nephesh deviations), batch 5 (D11 proper-name tables).*
