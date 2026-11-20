@@ -154,14 +154,23 @@ describe("Phase 0 — activation consistency", () => {
       if (!l.startsWith("|")) break;
       table.push(l);
     }
-    const slugs = table
-      .map((l) => l.match(/^\|\s*`([a-z0-9-]+)`\s*\|/)?.[1])
-      .filter((x): x is string => !!x);
-    expect(slugs.length).toBeGreaterThanOrEqual(active.length);
-    for (const book of active)
-      expect(slugs, `RULES-CORE allow-list missing \`${book}\``).toContain(
-        book,
-      );
+    const rows = new Map(
+      table
+        .map((l) => l.match(/^\|\s*`([a-z0-9-]+)`\s*\|\s*([^|]*)\|/))
+        .filter((m): m is RegExpMatchArray => !!m)
+        .map((m) => [m[1], m[2].trim()] as const),
+    );
+    expect(rows.size).toBeGreaterThanOrEqual(active.length);
+    for (const book of active) {
+      expect(
+        [...rows.keys()],
+        `RULES-CORE allow-list missing \`${book}\``,
+      ).toContain(book);
+      expect(
+        rows.get(book),
+        `RULES-CORE allow-list: \`${book}\` is activated, so its status must be "Currently authored …"`,
+      ).toMatch(/^Currently authored/);
+    }
   });
 
   // ── Step 4 batch 2 (PLAN_LAUNCH_FIXES §B2.8, PLAN_SAFETY_NET I19) ──
@@ -250,6 +259,12 @@ describe("Phase 0 — activation consistency", () => {
         "Doce",
       ],
     };
+    // The words agree with the current nouns (EN books, PT livros, DE Bücher,
+    // ES libros — masculine/neuter); a reworded noun may need other forms.
+    expect(
+      active.length,
+      "NUMBER_WORDS covers 1–12 books; extend it",
+    ).toBeLessThanOrEqual(12);
     for (const locale of locales) {
       const messages = JSON.parse(
         read(`src/infrastructure/i18n/messages/${locale}.json`),

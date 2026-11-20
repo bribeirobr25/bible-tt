@@ -1,6 +1,10 @@
 # Editorial Log — Mark (Markos)
 
 **Ruleset version in force:** v3.4.1
+**Book:** Gospel of Mark (Κατὰ Μᾶρκον)
+**Base text:** Nestle-Aland 28th ed. (NA28)
+**Maintainer:** Project Lead
+**Format:** per v3.4.1 Editorial Log Specification
 
 Decision log for the TT rendering of Mark, per RULES-CORE §Editorial Log Specification. Greek-source book; governed by RULES-CORE v3.4 (v3.4.1 from 2026-11-20) + RULES-GS. All content `provisional` pending Hellenist + EN-editor + cross-alignment sign-off (Rule 28).
 
@@ -66,7 +70,8 @@ Decision log for the TT rendering of Mark, per RULES-CORE §Editorial Log Specif
 - **3:14 "[whom he also named emissaries/apostles]"** — bracketed in NA28 (possible import from Luke 6:13). Rendered in italic-brackets, flagged.
 - **3:32 "[and your sisters]"** — present in some witnesses (A, D), absent in others (א, B, C, L). Included as text-uncertain (italics), flagged.
 
-**Status:** provisional (the "Son of Man" casing item `superseded` 2026-11-20 → Entry 2026-11-20-008). Source-analysis corpus: `docs/source-analysis/greek/mark-2-3.md`.
+**Status:** provisional. Source-analysis corpus: `docs/source-analysis/greek/mark-2-3.md`.
+**Cross-references:** partly superseded → Entry 2026-11-20-008 (2026-11-20; the "Son of Man" casing item).
 
 ---
 
@@ -146,7 +151,7 @@ Decision log for the TT rendering of Mark, per RULES-CORE §Editorial Log Specif
 
 Decisions taken by the project lead in the Launch-Readiness Program (`docs/audit/LAUNCH_PROGRAM.md` D7–D9; `docs/audit/CONTENT_SWEEP_FINDINGS.md` §3 L1–L8). Recorded here before the content changes ("log before drafting"); the content is changed in the Step 4 batch named in each entry (`docs/audit/PLAN_LAUNCH_FIXES.md`).
 
-- **Ruleset:** this log now runs under **v3.4.1** (RULES-CORE amendment of 2026-11-20 — `docs/rules/CHANGELOG-v3.4.md`). The header line was added on 2026-11-20; the log had none.
+- **Ruleset:** this log now runs under **v3.4.1** (RULES-CORE amendment of 2026-11-20 — `docs/rules/CHANGELOG-v3.4.md`). The header lines (Ruleset, Book, Base text, Maintainer, Format) were added on 2026-11-20; the log had none.
 - **Content re-stamp (2026-11-20, Step 4 batch 2):** 125 front-matter stamp fields + 8 prose stamps were re-stamped Ruleset v3.3 → v3.4 across `content/` (Genesis, John, Matthew); the 4 Luke 3 "v3.3.2 cross-book convention" citations were kept. **No Mark file changed** — all Mark stamps already read v3.4.
 - **PT register (L6):** corpus-wide entry **john.md J-037** (*vós* kept in PT verse text).
 
@@ -154,8 +159,8 @@ Decisions taken by the project lead in the Launch-Readiness Program (`docs/audit
 
 - **Verse:** Mark 2:10, 2:28 (book-wide policy) — verse text, overview, notes and companions.
 - **Language(s) affected:** EN, PT-BR, ES (DE: *Menschensohn* / *Sohn des Menschen* — grammatical noun capitalization, unchanged)
-- **Rule(s) invoked:** CORE Rule 20 (titular nouns lowercase; body text incl. notes and companions — amended in v3.4.1).
-- **Decision:** ὁ υἱὸς τοῦ ἀνθρώπου = **"the son of man"** / *o filho do homem* / *el hijo del hombre* everywhere in body text. Section headings keep heading case; DE keeps its grammatical capitals. The Tier-2 note (literal "son of the human"; the Daniel 7:13 range, generic ↔ titular held together) is unchanged except for the casing. Applied in **Step 4 batch 4**.
+- **Rule(s) invoked:** CORE Rule 20 (titular nouns; as amended in v3.4.1 for decision D8: "son of man" is lowercase in all body text, notes and companions included).
+- **Decision:** ὁ υἱὸς τοῦ ἀνθρώπου = **"the son of man"** / *o filho do homem* / *el hijo del hombre* everywhere in body text, notes and companions included. Section headings keep heading case; a sentence that quotes another work, or names the title as later tradition wrote it, keeps the quoted form; DE keeps its grammatical capitals. Other titular nouns in notes (e.g. 1:1 "son of God") are not covered — an open lead question (`docs/audit/PENDING.md`). The Tier-2 note (literal "son of the human"; the Daniel 7:13 range, generic ↔ titular held together) is unchanged except for the casing. Applied in **Step 4 batch 4**.
 - **Alternatives considered:**
   - Keep "the Son of Man" as the established rendering (rejected: Rule 20 lists "son of man" among the titular nouns that stay lowercase; Mark was the outlier against John/Matthew verse text).
   - Lowercase verse text only, Title Case in notes (rejected: the lead's ruling is "everywhere").
@@ -181,5 +186,25 @@ Decisions taken by the project lead in the Launch-Readiness Program (`docs/audit
 - **Status:** provisional
 - **Reviewers:** unassigned
 - **Cross-references:** generalizes Entry 2026-06-21-006 (DE); matthew.md M-006 (DE "vom heiligen Wind/Geist"); `CONTENT_SWEEP_FINDINGS.md` headline 7, S7a and §3 L1.
+
+---
+
+## Entry 2026-11-20-010 — AI-provenance record for Mark (Rule 28)
+
+- **Verse:** Mark 1–3, whole book — all locales.
+- **Language(s) affected:** EN, PT-BR, DE, ES
+- **Rule(s) invoked:** CORE Rule 28 (as amended in v3.4.1 — full provenance kept in the internal record, a plain statement for readers); CORE §Editorial Log Specification (AI provenance field).
+- **Decision:** record in this log the model and dates behind Mark's reader-facing provenance lines, before Step 4 batch 3 replaces them with the plain statement (L5). Entries 2026-06-17-001 … 2026-06-18-003 carry no AI-provenance field.
+  - **Reader-facing lines (5 per locale, 20 in all; `ai-provenance-record.tsv`):** book CONTEXT, PEOPLE and study/CHAPTER-1/2/3-CONTEXT — "Drafted by: AI (Claude, Anthropic)" + "Date: 2026-06-18" (ES chapter companions: "Fecha: 18-06-2026"). The lines name no model; the INTRODUCTION and the chapter files carry no provenance line.
+  - **Model:** Claude Opus 4.8, 1M context (`claude-opus-4-8`) — from the `Co-Authored-By` trailers of the EN commits `f8e5aa8` (2026-06-17, Mark 1 pilot), `b3da85c` and `9e309d5` (2026-06-18, Mark 2–3 + chapter companions), and the AI-provenance fields of Entries 2026-06-20-004 … 2026-06-21-007.
+  - **Dates:** EN 2026-06-17 (Mark 1) and 2026-06-18 (Mark 2–3, PEOPLE, CONTEXT, chapter companions — the date the reader lines state); propagation PT-BR / DE / ES 2026-06-21 (Entries 2026-06-21-005 … -007; the locale files keep the EN date 2026-06-18).
+  - **Reviewer decision:** none yet — all content `provisional`.
+- **Alternatives considered:**
+  - Rely on the TSV record alone (rejected: Rule 28 / the log schema require the record in the book's editorial log).
+- **Justification:** each book log names the model(s) and date(s) its reader-facing lines state; Mark's log lacked them (precedent: 1-peter.md P-013).
+- **AI provenance:** drafted by the AI assistant (claude-opus-5-5), 2026-11-20, from `ai-provenance-record.tsv`, this log and `git log`. Step 4 batch 2 (review fixes).
+- **Status:** provisional
+- **Reviewers:** unassigned
+- **Cross-references:** `docs/editorial-log/ai-provenance-record.tsv`; 1-peter.md P-013 (L5 split between lead and assistant decisions); Entries 2026-06-17-001, 2026-06-18-002, 2026-06-18-003.
 
 ---

@@ -29,7 +29,7 @@ Four markers appear in the verse text. They are the only styling the verse text 
 | *Italics* | grammatical-blue italic | a word **added for grammar** — it is not in the source | 11 |
 | Transliterated term | **teal, bold** | a source word kept in its original form | 4 |
 | Slash (wind/spirit) | **bold**, body colour | two valid meanings kept open | 2 |
-| Divine speech | red, not bold | God (or, in the Greek Scriptures, Jesus) speaking directly | 30 |
+| Divine speech | red, not bold | God, Jesus or the Spirit speaking directly (never apostles or narrators; God's words quoted by someone else are not marked) | 30 |
 
 ### *Italics* — added words
 
@@ -37,7 +37,7 @@ Words in italics were **added for grammar** — they are not in the source text.
 
 > "And God saw that ***it was*** good"
 
-Hebrew says "and-saw God that good." The words *it was* were added so the English sentence works. Italics mark every such addition. Where a language fuses an added article into a contraction (Portuguese *na*, German *im*, Spanish *del*), the whole contraction is italic.
+Hebrew says "and-saw God that good." The words *it was* were added so the English sentence works. Italics mark every such addition. Where a language fuses an added article into a contraction (Portuguese *na*, German *im*, Spanish *del*), the whole contraction is italic. *(Some text still marks these differently; it is being aligned before launch.)*
 
 ### Slashes (wind/spirit) — preserved ambiguity
 
@@ -65,7 +65,7 @@ The Greek text never contains YHWH; it has **κύριος** (*kyrios*, "lord/mas
 
 ### The Yehudim
 
-In the Greek Scriptures, **οἱ Ἰουδαῖοι** (*hoi Ioudaioi*) is rendered **the Yehudim** (os Yehudim, los Yehudim; German **die Jehudim**). "The Jews" carries a long and harmful history of misuse, especially in John; "the Judeans" narrows the word too far. A note at each occurrence says which sense is active: the Jerusalem authorities, the Jewish people more broadly, or the people of Judea.
+In the Greek Scriptures, **οἱ Ἰουδαῖοι** (*hoi Ioudaioi*) is rendered **the Yehudim** (os Yehudim, los Yehudim; German **die Jehudim** — some German text still reads "Yehudim"; it is being aligned before launch). "The Jews" carries a long and harmful history of misuse, especially in John; "the Judeans" narrows the word too far. A note at each occurrence says which sense is active: the Jerusalem authorities, the Jewish people more broadly, or the people of Judea.
 
 ---
 
@@ -109,7 +109,7 @@ The contextual study companion, with a **Prophecies** tab where a chapter has on
 - **Curiosities** — text-linked observations and open questions
 - **The World at the Time** — politics, trade, daily life and ideas when the text was written or set
 
-Every entry carries two labels: **what kind of claim** (Textual, Comparative Parallel, Later Reception, etc.) and **how certain** (Verified, Probable, Possible, Uncertain, Speculative).
+Every entry carries two labels: **what kind of claim** (Textual, Comparative Parallel, Later Reception, etc.) and **how certain** (Verified, Documented, Probable, Possible, Uncertain, Speculative).
 
 The companion draws no conclusions. You do.
 

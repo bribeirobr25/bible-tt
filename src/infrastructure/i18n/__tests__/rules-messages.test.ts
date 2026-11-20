@@ -45,7 +45,7 @@ describe("rules page ↔ RULES-CORE", () => {
   });
 
   it('the RULES-CORE section heading states the same count ("THE 30 RULES")', () => {
-    const m = rulesCore.match(/^##\s+THE\s+(\d+)\s+RULES\s*$/m);
+    const m = rulesCore.match(/^##[ \t]+THE[ \t]+(\d+)[ \t]+RULES[ \t]*$/m);
     expect(m, "## THE N RULES heading missing").not.toBeNull();
     expect(Number(m?.[1])).toBe(RULE_COUNT);
   });

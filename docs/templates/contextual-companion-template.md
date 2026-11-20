@@ -37,7 +37,7 @@
 
 ---
 
-**NOTE:** Sections A–G and I are AVAILABLE, not all mandatory. Include a section only when there is substantive, sourced content for it. Only Section H (Sources) is required for every companion file, and it is the final section. Delete any section below that has no content for this chapter.
+**NOTE:** Sections A–G and I are AVAILABLE, not all mandatory. Include a section only when there is substantive, sourced content for it. Only Section H (Sources) is required for every companion file; place it last (as Genesis does — both orders parse, and 24 shipped companions still put H before I; aligning them is tracked in `docs/audit/PLAN_LAUNCH_FIXES.md` §2, batch 3). Delete any section below that has no content for this chapter.
 
 ---
 

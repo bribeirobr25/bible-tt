@@ -123,7 +123,7 @@ Conservation auto-discovers files and derives the expected unit total — a pass
 | Name tradition | source-familiar | Almeida | Luther | Reina-Valera |
 | Divine name (HB) | YHWH | YHWH | **JHWH** | YHWH |
 | Divine name (GS κύριος) | the Lord | o Senhor | der Herr | el Señor (Option C + Tier-2 note) |
-| 2nd-person plural | — | **vós** in verse text (Rule 10 register clause, decision L6); contemporary forms elsewhere | ihr | **ustedes** (not peninsular `vosotros`) |
+| 2nd-person plural | — | **vós** in verse text (Rule 10 register clause, decision L6; the remaining `vocês` in John/Matthew are converted in Launch-Program Step 4 batch 4); contemporary forms elsewhere | ihr | **ustedes** (not peninsular `vosotros`) |
 | Quote marks | "…" | "…" | „…" | "…" |
 | Diacritics | — | full | full | **full** (the recurring failure — see T-09) |
 | Speech verb | said | disse | sprach/sagte | dijo |

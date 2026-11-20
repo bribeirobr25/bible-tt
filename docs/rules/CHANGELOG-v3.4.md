@@ -19,7 +19,7 @@ Total: **30 rules**. Content: the chapter `Methodology:` lines were re-stamped t
 
 ## v3.4.1 (2026-11-20) — Launch-Program corrections
 
-**Amendment type:** re-opening (RULES-CORE §Amendment & Lock Protocol). The 14-day window was waived by the project lead. Proposal and impact assessment: `docs/rules/proposals/v3.4.1-launch-corrections.md`.
+**Amendment type:** re-opening (RULES-CORE §Amendment & Lock Protocol). The 14-day window was not applied: the lead approved the decisions that require these amendments. Treating that as a waiver is the assistant's reading of D2/D13, reported to the lead. Items marked **†** are assistant decisions under D13, pending lead confirmation. Proposal and impact assessment: `docs/rules/proposals/v3.4.1-launch-corrections.md`.
 **Rationale:** the rule text had to state the lead's Launch-Program decisions before the content batches apply them (`docs/audit/LAUNCH_PROGRAM.md` D7–D10; `docs/audit/CONTENT_SWEEP_FINDINGS.md` §3 L1, L4, L5, L6).
 **Signed-off verses affected:** none (all content is provisional). Content stamps stay **v3.4**.
 
@@ -27,16 +27,16 @@ Total: **30 rules**. Content: the chapter `Methodology:` lines were re-stamped t
 
 | Change | Type | Description |
 |---|---|---|
-| §I3 Glossary terms never yield | modification (D7) | ψυχή / bare נֶפֶשׁ = life/being · vida/ser · Leben/Wesen · vida/ser (was "soul/being", which contradicted the GS lock); נֶפֶשׁ חַיָּה = living being(s). |
-| §I3 scope of a lock | addition (L4) | A lock governs the rendering and any TT-voice sentence restating it; genre and reception uses keep their forms. |
-| Rule 20 titular nouns | modification (D8) | Body-text lowercase covers notes and companions too ("son of man" lowercase everywhere); headings keep heading case; DE exempt. |
+| §I3 Glossary terms never yield | modification (D7) | ψυχή / bare נֶפֶשׁ = the pair life/being · vida/ser · Leben/Wesen · vida/ser; the context selects the member, and a Rule 2 slash is used only where both senses are live. (Was "soul/being", which contradicted the GS lock.) נֶפֶשׁ חַיָּה = living being(s). |
+| §I3 scope of a lock + Rule 1 pointer | addition (L4) | A lock governs the rendering and any TT-voice sentence restating it; genre and reception uses keep their forms. |
+| Rule 20 titular nouns | modification (D8) | "son of man" is lowercase in all body text, notes and companions included; quotations of other works and reception-history mentions are excepted; headings keep heading case; DE is exempt. Other titular nouns in notes: unchanged, open lead question. |
 | Name exceptions | correction (D9) | "Yehudim (DE Jehudim)". |
 | Rule 30 + marker table | correction (D10) | `@@` renders red and not bold; `{a:}` renders bold in the body colour (not ochre). The table now follows `globals.css`. |
-| Rule 11 | addition (L1) | Contraction clause: the whole fused contraction is italic (`*na*`, `*im*`, `*del*`); never a doubled article. |
+| Rule 11 | addition (L1) | Contraction clause: any preposition + article contraction — the whole contraction is italic (`*na*`, `*im*`, `*del*`); never a doubled article. The marker-table row gains the `*na* carne` example. |
 | Idiom policy | modification (L1) | Replaced "Rule 11 marking applies only when words are added beyond grammatical necessity" (contradicted Rule 11 A and the marker table): grammatical additions are italic; an idiom substitution follows the idiom policy. |
-| Rule 28 AI-assisted drafting | modification (L5) | Internal per-file provenance record (editorial log + `docs/editorial-log/ai-provenance-record.tsv`), never reader-facing; reader files carry one plain statement per locale (4-locale table). Companion checklist and log-schema field aligned. |
+| Rule 28 AI-assisted drafting | modification (L5) | Internal provenance record in the book's editorial log, per drafting batch, never reader-facing; `docs/editorial-log/ai-provenance-record.tsv` archives the former reader lines; reader files carry one plain statement per locale (4-locale table). **†** granularity, wording and the omitted vendor name. The opening line now reads "no verse is marked reviewed / signed-off without documented review". The companion checklist and log-schema field are aligned. |
 | Rule 10 register | addition (L6) | PT-BR verse text keeps the classical *vós* — the one sanctioned archaism. Also the Portuguese register note. |
-| Heading, checklist, spec | correction | "THE 30 RULES"; "rules 1–30"; companion front-matter spec `Ruleset: v3.4`. |
+| Heading, checklist, spec | correction | "THE 30 RULES"; "rules 1–30"; book-introduction front-matter spec `Ruleset: v3.4`; §0.12 lint wording (generated list + `FORWARD_SLUGS`). |
 | New-book activation | correction | The "5 synchronized changes" list (which named a non-existent `people.inBook.{slug}` key and a hand-kept lint list) → the PEOPLE-specific steps plus a pointer to `AUTHORING-PLAYBOOK.md` §B.1, the single full checklist. |
 | Editorial-log schema | correction | `Reviewers` cell: pipes escaped (the row rendered 7 columns). |
 | VERSION HISTORY, PROJECT METADATA, footer | correction | v3.4.1 entry; seven books; "through v3.4.1". |
@@ -45,7 +45,8 @@ Total: **30 rules**. Content: the chapter `Methodology:` lines were re-stamped t
 
 | Change | Type | Description |
 |---|---|---|
-| Glossary | addition (D7) | Bare `נֶפֶשׁ` = life/being · vida/ser · Leben/Wesen · vida/ser. Provisional pending the Hebraist (§G3 no-wait mode); required by §G4 (a cross-supplement term appears in both supplements). |
+| Glossary | addition (D7) | Bare `נֶפֶשׁ` = life/being · vida/ser · Leben/Wesen · vida/ser (pair; context selects). Provisional pending the Hebraist (§G3 Hybrid mode; `proposals/glossary-nephesh.md`); required by §G4 Locking (a cross-supplement term appears in both supplements). |
+| Group names | correction (D9) | Ioudaioi row note: German writes Jehudim. |
 | Aramaic appendix | correction | "Rules 1–30". |
 | Version history | addition | New list; versions name the CORE release that amended the supplement. |
 
@@ -53,6 +54,7 @@ Total: **30 rules**. Content: the chapter `Methodology:` lines were re-stamped t
 
 | Change | Type | Description |
 |---|---|---|
+| ψυχή row | clarification (D7) | A pair, not a slash: the context selects the member. |
 | Ioudaioi policy | correction (D9) | DE **Jehudim** (the prose said "Yehudim in all four languages"; the table already said "die Jehudim"). |
 | Greek Article System | clarification (L1) | DE contractions: the whole contraction is italic, as RULES-CORE Rule 11. |
 | Source-analysis line | correction | The Greek corpus as it exists (Mark, Luke 1–3, Acts 1–3, 1 Peter). |

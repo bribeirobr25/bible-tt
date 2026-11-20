@@ -2,7 +2,7 @@
 
 **Status:** Project asset (governed reference). Internal authoring document.
 **Applies to:** all source languages — Hebrew, Aramaic, Greek.
-**Relationship to governance:** this is the *how* behind the *what*. It operationalizes the Prime Directive and Rules 1–29 (`docs/rules/RULES-CORE.md`) at the lexeme/clause level. It does not add or modify any rule. Source-language specifics live in `RULES-HB.md` (Hebrew + Aramaic) and `RULES-GS.md` (Greek); the worked-example corpus lives in `docs/source-analysis/{hebrew,greek,aramaic}/`.
+**Relationship to governance:** this is the *how* behind the *what*. It operationalizes the Prime Directive and Rules 1–30 (`docs/rules/RULES-CORE.md`) at the lexeme/clause level. It does not add or modify any rule. Source-language specifics live in `RULES-HB.md` (Hebrew + Aramaic) and `RULES-GS.md` (Greek); the worked-example corpus lives in `docs/source-analysis/{hebrew,greek,aramaic}/`.
 
 ---
 

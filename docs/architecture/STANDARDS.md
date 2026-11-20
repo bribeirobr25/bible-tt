@@ -145,7 +145,7 @@ Don't repeat yourself — but don't abstract prematurely either. Three similar l
 |---|---|---|
 | `NoteBlock` component | All verse notes across all chapters | `ui/study/note-block.tsx` |
 | `EnrichmentEntryCard` | All enrichment entries across all chapters | `ui/enrichment/enrichment-entry.tsx` |
-| `ChapterShell` | All three chapter doors (header, door nav, pager) | `ui/shared/chapter-shell.tsx` |
+| `ChapterShell` | All three chapter doors (header, door nav); `DoorPager` is placed by each door page that has one | `ui/shared/chapter-shell.tsx` |
 | `renderMarkdownSafe()` | All rendered markdown prose and notes (escaping + markers) | `ui/shared/render-markdown-safe.ts` |
 | Sources block helpers | Every parser that captures a Sources section | `infrastructure/content/sources-block.ts` |
 | `parseChapterMarkdown()` | All 4 locales × all chapters | `infrastructure/content/markdown-parser.ts` |
@@ -293,7 +293,8 @@ Errors are expected, not exceptional. Handle them gracefully at every boundary.
 | Missing chapter file | `readChapter()` returns `null` → `notFound()` | `fs-content-repository.ts` |
 | Missing enrichment and prophecy files | `hasDeeperContent()` false → the Deeper door is shown disabled and its route is not generated | `content-loader.ts`, `door-nav.tsx` |
 | Parser error on malformed markdown | **rethrown** — only an absent file (`ENOENT`/`ENOTDIR`) reads as `null`; any other I/O or parse error fails the build loudly (Step 4 batch 1; a swallowed parse error used to become a silent 404) | `fs-content-repository.ts` |
-| Missing i18n message | next-intl falls back to default locale | `request.ts` |
+| Invalid locale | falls back to the default locale | `request.ts` |
+| Missing i18n message key | prevented at build time — every locale must carry every key | `messages-parity.test.ts` |
 
 ### Rules
 - **Return `null` for missing content** — don't throw. Let the caller decide (show 404 or hide section).

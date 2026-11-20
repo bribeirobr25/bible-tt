@@ -5,6 +5,8 @@
 **Base text:** Nestle-Aland 28th ed. (NA28). **Note the Alexandrian/Western (Codex Bezae D) divergence** — the largest in the NT; chs 1–3 variants are modest but real → declared in front matter + INTRODUCTION §E, significant variants in Tier-2.
 **Scope (this phase):** Acts 1–3, all 4 locales. **Status: provisional** — AI-draft pending Hellenist review (Rule 28).
 **Source-analysis notes:** `docs/source-analysis/greek/acts-1-3.md`.
+**Maintainer:** Project Lead
+**Format:** per v3.4.1 Editorial Log Specification
 
 > Acts is **volume 2 of Luke** — same author, same dedicatee (Theophilos, 1:1 "the first account"), continuous narrative (Luke 24 ascension ↔ Acts 1 ascension). GS-governed; the gospel/Luke template applies directly (narrative genre).
 
@@ -54,7 +56,7 @@
 
 ## Strategic / locked terms (match the gospels)
 
-- μετάνοια = "change of mind" (2:38, 3:19); μετανοέω cognate. ἄφεσις = "release/forgiveness" (2:38, "release of sins" — see Lk 1:77, 3:3). κοινωνία = "fellowship/sharing" (2:42). Χριστός = "anointed"/"Messiah" (2:31,36; 3:18,20). [**2026-11-20 note:** the "Messiah" half is **superseded** by Launch-Program decision L7 → Entry A-009 — χριστός follows the RULES-GS locked glossary: **"the anointed one"** (lowercase descriptor; capitalized only where it clearly functions as a proper name). The GS lock never allowed "Messiah"; re-rendered in Step 4 batch 4 (EN/PT/ES; DE already reads *Gesalbte*).] ὄνομα "the name" motif (2:21,38; 3:6,16) — kept literal "*the* name". {a:wind/spirit} for πνεῦμα (the locked GS slash). ᾅδης (2:27,31) = {t:Hades} with a Sheol gloss (the LXX renders Sheol → Hades; Ps 16). βάπτισμα/βαπτίζω = "immersion/immerse" (as gospels).
+- μετάνοια = "change of mind" (2:38, 3:19); μετανοέω cognate. ἄφεσις = "release/forgiveness" (2:38, "release of sins" — see Lk 1:77, 3:3). κοινωνία = "fellowship/sharing" (2:42). Χριστός = "anointed"/"Messiah" (2:31,36; 3:18,20). [**2026-11-20 note:** the "Messiah" half is **superseded** by Launch-Program decision L7 → Entry A-009 — χριστός follows the RULES-GS locked glossary: **"the anointed one"** (lowercase descriptor; capitalized only where it clearly functions as a proper name). The GS lock never allowed "Messiah"; re-rendered in Step 4 batch 4 (EN/PT/ES verse text; DE verse text already reads *Gesalbte*, but DE notes and companions print "Messias" — all four locales are in scope, see A-009).] ὄνομα "the name" motif (2:21,38; 3:6,16) — kept literal "*the* name". {a:wind/spirit} for πνεῦμα (the locked GS slash). ᾅδης (2:27,31) = {t:Hades} with a Sheol gloss (the LXX renders Sheol → Hades; Ps 16). βάπτισμα/βαπτίζω = "immersion/immerse" (as gospels).
 
 ## Cruxes to flag (Tier-2 + source-analysis; Rule-28 review items)
 
@@ -109,7 +111,11 @@ Decisions taken by the project lead in the Launch-Readiness Program (`docs/audit
 ## Entry A-009 — χριστός follows the GS lock "the anointed one"
 
 - **Verse:** Acts 2:31, 2:36, 2:38, 3:6, 3:18, 3:20 (book-wide policy) — verse text, plus TT-voice prose that restates the rendering.
-- **Language(s) affected:** EN, PT-BR, ES (DE already renders *Gesalbte*; checked in batch 4)
+- **Language(s) affected:** EN, PT-BR, DE, ES. DE verse text already reads *Gesalbte* (6 of 6 verses), but DE notes and companions still print "Messias".
+- **Size for batch 4 (re-counted 2026-11-20, tokens per locale):**
+  - **EN / PT-BR / ES** ("Messiah" / "Messias" / "Mesías"): verse text **6** per reading copy (12 in verse study + continuous reading); chapter files incl. notes, overview and glossary **37** (CHAPTER-2 22, CHAPTER-3 15); all Acts files **94**, of which 2 are a quoted book title (Zwiep, *The Ascension of the Messiah in Lukan Christology*, study/CHAPTER-1-CONTEXT) and stay as written — so **92** to check. Outside the chapter files: CONTEXT 5, INTRODUCTION 3, PEOPLE 2, study/CHAPTER-2-PROPHECY 17, study/CHAPTER-3-CONTEXT 6, study/CHAPTER-3-PROPHECY 22 (identical in EN, PT-BR and ES).
+  - **DE** ("Messias"): verse text **0**, chapter files **0**; **54** tokens on 43 lines in the other files — study/CHAPTER-3-PROPHECY 22 (17 lines), study/CHAPTER-2-PROPHECY 17 (12), study/CHAPTER-3-CONTEXT 6 (6), CONTEXT 5 (4), INTRODUCTION 2 (2), PEOPLE 2 (2); plus the same 2 Zwiep title tokens (kept).
+  - **Scope under L4:** in notes and companions, only the TT-voice sentences that restate the rendering of χριστός change (RULES-CORE "Scope of a lock", v3.4.1). Quoted titles and sentences that report another tradition's reading are not restatements; batch 4 classifies each hit. The totals above are the upper bound batch 4 reviews, not the number of edits.
 - **Rule(s) invoked:** GS §Locked Glossary (χριστός = anointed one · ungido · Gesalbter · ungido); CORE Rule 20 (titular nouns lowercase); CORE Rule 1.
 - **Decision:** χριστός = **"the anointed one"** (PT *o ungido*, DE *der Gesalbte*, ES *el ungido*) — lowercase where it works as a descriptor; capitalized only where it clearly works as a proper name (the GS rule; batch 4 decides the Ἰησοῦς Χριστός cases, e.g. 2:38, 3:6, case by case). The log line above ("anointed"/"Messiah") is superseded. Applied in **Step 4 batch 4**.
 - **Alternatives considered:**
@@ -127,7 +133,7 @@ Decisions taken by the project lead in the Launch-Readiness Program (`docs/audit
 
 - **Verse:** Acts 2:27 ("my soul"), 2:41 ("three thousand souls"), 2:43 ("every soul"), 3:23 ("every soul") — book-wide policy.
 - **Language(s) affected:** EN, PT-BR, DE, ES
-- **Rule(s) invoked:** GS §Locked Glossary (ψυχή = life/being · vida/ser · Leben/Wesen · vida/ser); GS/HB §Cross-Supplement Glossary Alignment (ψυχή ↔ נֶפֶשׁ); CORE Rule 1.
+- **Rule(s) invoked:** GS §Locked Glossary (ψυχή = life/being · vida/ser · Leben/Wesen · vida/ser); GS §Cross-Supplement Glossary Alignment (ψυχή ↔ נֶפֶשׁ); HB §Locked Glossary (bare-נֶפֶשׁ row, v3.4.1); CORE Rule 1.
 - **Decision:** ψυχή is rendered from the locked **life/being** pair (PT *vida/ser*, DE *Leben/Wesen*, ES *vida/ser*), the context choosing the member (e.g. 2:41 "about three thousand persons/lives" — exact wording fixed in batch 4). Any departure from the pair is logged as a Rule 1 deviation in batch 4. The lead re-confirmed the lock on 2026-11-19 knowing it re-renders well-known verses (Acts 2:41 named). Applied in **Step 4 batch 4**.
 - **Alternatives considered:**
   - "soul" (rejected: post-Platonic "soul" imports a body/soul dualism the Greek usage here does not carry; the GS lock and the HB נֶפֶשׁ alignment exclude it).

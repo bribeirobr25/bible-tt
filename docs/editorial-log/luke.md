@@ -71,7 +71,7 @@ Decisions taken by the project lead in the Launch-Readiness Program (`docs/audit
 
 - **Verse:** Luke 1:46 ("My soul magnifies the Lord"), 2:35 ("a sword will pass through your own soul") — verse study + continuous reading; book-wide policy. (Notes quoting Isa 42:1 "my soul delights" at 3:22 render נֶפֶשׁ, not Luke's ψυχή; they follow the same lock as TT-voice prose under L4.)
 - **Language(s) affected:** EN, PT-BR, DE, ES
-- **Rule(s) invoked:** GS §Locked Glossary (ψυχή = life/being · vida/ser · Leben/Wesen · vida/ser); GS/HB §Cross-Supplement Glossary Alignment (ψυχή ↔ נֶפֶשׁ); CORE Rule 1.
+- **Rule(s) invoked:** GS §Locked Glossary (ψυχή = life/being · vida/ser · Leben/Wesen · vida/ser); GS §Cross-Supplement Glossary Alignment (ψυχή ↔ נֶפֶשׁ); HB §Locked Glossary (bare-נֶפֶשׁ row, v3.4.1); CORE Rule 1.
 - **Decision:** ψυχή is rendered from the locked **life/being** pair (PT *vida/ser*, DE *Leben/Wesen*, ES *vida/ser*), the context choosing the member; exact wording fixed in **Step 4 batch 4**, with any departure from the pair logged as a Rule 1 deviation then. The lead re-confirmed the lock on 2026-11-19 knowing it re-renders Luke 1:46 (named in D7).
 - **Alternatives considered:**
   - "soul" in the Magnificat as the familiar liturgical form (rejected: the lock is corpus-wide, and liturgical familiarity is not a ground for a Rule 1 deviation; post-Platonic "soul" narrows the Greek's "whole living self").

@@ -28,7 +28,7 @@
 | תְהוֹם | the deep | o abismo | die Tiefe | el abismo | **GERMAN: fem.** **SPANISH: masc.** (Hebrew fem. → Spanish masc. *el abismo*; note mismatch when relevant). May note "deep waters"; avoid cosmological speculation |
 | תֹהוּ וָבֹהוּ | chaos and void | caos e vazio | Chaos und Leere | caos y vacío | Rare term; note uncertainty; minimal imagistic language |
 | נֶפֶשׁ חַיָּה | living being(s) | ser(es) vivo(s) | lebendiges Wesen / lebendige Wesen | ser(es) vivo(s) | NOT "soul/alma/Seele/alma" in philosophical sense |
-| נֶפֶשׁ | life/being | vida/ser | Leben/Wesen | vida/ser | **v3.4.1 (decision D7), provisional pending Hebraist (Rule 28).** Bare *nephesh*; aligned with GS ψυχή (RULES-GS glossary: "MUST match"). NOT "soul/alma/Seele/alma" in the post-Platonic sense. A context where the locked form cannot stand (e.g. Gen 9:4, 12:5) is a logged Rule 1 deviation (`genesis.md`). |
+| נֶפֶשׁ | life/being | vida/ser | Leben/Wesen | vida/ser | **v3.4.1 (decision D7; §G3 Hybrid mode, `proposals/glossary-nephesh.md`), provisional pending Hebraist (Rule 28).** Bare *nephesh*; aligned with GS ψυχή (RULES-GS glossary: "MUST match"). A pair, not a slash: the context selects "life" or "being" (CORE §I3). NOT "soul/alma/Seele/alma" in the post-Platonic sense. A context where neither member can stand (e.g. Gen 12:5 "persons") is a Rule 1 deviation, to be logged in `genesis.md` in Launch-Program Step 4 batch 4. |
 | בָּרָא | created | criou | schuf | creó | Specific divine creation term; distinct from *asah* |
 | עָשָׂה | made | fez | machte | hizo | Formation/making; distinct from *bara* |
 | צֶלֶם | image | imagem | Bild | imagen | Often paired with *demut* (likeness) |
@@ -488,7 +488,7 @@ Literal: "And-saw God that good"
 |-------------|---------------|-------------|-------------|-------------|-------------|------|
 | פְּרוּשִׁים (*Perushim*) | Perushim | Pharisees | Fariseus | Pharisäer | Fariseos | Familiar-form default |
 | צְדוּקִים (*Tsduqim*) | Tsduqim | Sadducees | Saduceus | Sadduzäer | Saduceos | Familiar-form default |
-| οἱ Ἰουδαῖοι (*hoi Ioudaioi*) | Yehudim | — | — | — | — | EXCEPTION: retains transliterated form (§Ioudaioi Policy) |
+| οἱ Ἰουδαῖοι (*hoi Ioudaioi*) | Yehudim | — | — | — | — | EXCEPTION: retains transliterated form (§Ioudaioi Policy); German writes **Jehudim** (decision D9, v3.4.1) |
 
 **Notes:**
 - Names where the familiar form is identical to the transliterated form (e.g., Sarai, Lot, Nimrod, David) use the transliterated form throughout — no parenthetical needed.
@@ -559,7 +559,7 @@ Aramaic is a related Semitic language sharing much grammar with Hebrew. For thes
 
 **Version history:** versions name the RULES-CORE release that amended this supplement.
 - v3.3.1 (2026-05-18): DE-locale clarification of the no-parenthetical-needed name rule (§Name Rendering, DE note).
-- v3.4.1 (2026-11-20): bare `נֶפֶשׁ` glossary row (life/being — decision D7; §G3 no-wait mode); "Rules 1–30". See `CHANGELOG-v3.4.md`.
+- v3.4.1 (2026-11-20): bare `נֶפֶשׁ` glossary row (life/being — decision D7; §G3 Hybrid mode); "Rules 1–30"; group-name note DE Jehudim (D9). See `CHANGELOG-v3.4.md`.
 
 ---
 

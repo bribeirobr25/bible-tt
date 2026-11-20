@@ -31,7 +31,7 @@
 - **Source:** `genesis.md` Entry 2026-04-21-082; RULES-HB locked glossary (נְפִילִים row).
 
 ### תֵּבָה → *tebah*
-- **Threshold crossed:** Criterion 2 ("boat/barco/Boot/bote" and the traditional "ark" carry associations the Hebrew vessel word does not).
+- **Threshold crossed:** Rule 4 (`genesis.md` Entry 2026-04-21-088 invokes Rule 4 without naming a criterion). The RULES-HB row reads: "Transliterate at first occurrence with gloss. NOT 'boat/barco/Boot/bote.'" No further reason is recorded in either source.
 - **Policy:** Transliterated with a gloss at first occurrence (EN *tebah* (ark/vessel), PT *tebah* (arca), DE *Tebah* (Arche), ES *tebah* (arca)); "the tebah" thereafter in the Transparent Edition. Chapter overviews use the plain gloss (Pattern C de-jargon).
 - **First occurrence:** Gen 6:14.
 - **Source:** `genesis.md` Entry 2026-04-21-088; RULES-HB locked glossary (תֵּבָה row).
@@ -43,7 +43,12 @@
 - **Source:** `genesis.md` Entry 2026-04-21-088; RULES-HB locked glossary (גֹּפֶר row).
 
 ### Moved out of scope: חַוָּה → *Chava*
-- This entry (2026-04-17) predates the v3.2 scope clarification above. *Chava* is a proper name, so it is governed by the Name Rendering Policy, not by Rule 4: "Chava (Eve)" at first occurrence per section, then the familiar form (RULES-HB proper-name table; `genesis.md` Entry 2026-04-16-039 for the original decision). The *chay* ("living") wordplay is explained in the Gen 3:20 note. It is kept here as history only.
+- **Status:** `superseded` (2026-11-20). Reason: *Chava* is a proper name, and names are governed by the Name Rendering Policy (RULES-CORE v3.2+), not by Rule 4 — see the Scope line at the top of this file. The current rendering is "Chava (Eve)" at first occurrence per section, then the familiar form (RULES-HB proper-name table; `genesis.md` Entry 2026-04-16-039 for the original decision). The *chay* ("living") wordplay is explained in the Gen 3:20 note.
+- The original entry (2026-04-17, v2.4.2) is kept below verbatim as history:
+  - **Threshold crossed:** Criterion 2 (traditional "Eve" drifted far from Hebrew via Greek *Εὔα* → Latin *Eva*).
+  - **Why transliterate:** Preserves wordplay with חַי (*chay*, "living") visible in the name. "Eve" obscures this connection entirely.
+  - **Policy:** Transparent Edition: *Chava*. Reader Edition: may use "Eve" with note.
+  - **First occurrence:** Gen 3:20.
 
 ---
 
@@ -73,7 +78,7 @@
 
 ### מַבּוּל → "flood" (not *mabbul*)
 - **Threshold not crossed:** the locked glossary renders it flood / dilúvio / Flut / diluvio, with a note on its near-unique distribution (Gen 6–11, Ps 29:10).
-- **Source:** RULES-HB locked glossary (מַבּוּל row). (RULES-GS's transliteration note lists *mabbul* among transliterated HB terms; the HB glossary row governs.)
+- **Source:** RULES-HB locked glossary (מַבּוּל row). (RULES-GS's transliteration note listed *mabbul* among the transliterated HB terms until v3.4.1; RULES-GS:48 now says *mabbul* is rendered "flood", "corrected in v3.4.1 to match the RULES-HB glossary".)
 
 ---
 
