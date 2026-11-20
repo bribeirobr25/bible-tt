@@ -192,3 +192,23 @@ export function motifId(book: string, slug: string): string {
 export function bookContextDisclaimerId(book: string): string {
   return `${book}.context#disclaimer`;
 }
+
+// ─── Sources Consulted blocks (Rule 29 §H / intro §G) ─────────────────────────
+// Ids reuse the former 0-entry "sources" section ids where one existed, so a
+// stored reference keeps resolving after Sources stopped being a section.
+
+export function enrichmentSourcesId(book: string, chapter: number): string {
+  return enrichmentSectionId(book, chapter, "sources");
+}
+
+export function introSourcesId(book: string): string {
+  return introSectionId(book, "sources");
+}
+
+export function prophecySourcesId(book: string, chapter: number): string {
+  return `${chapterId(book, chapter)}.prophecy#sources`;
+}
+
+export function peopleSourcesId(book: string): string {
+  return `${book}.people#sources`;
+}

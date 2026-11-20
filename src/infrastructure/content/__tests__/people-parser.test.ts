@@ -549,6 +549,17 @@ describe("people-parser", () => {
     });
   });
 
+  describe("slugs are clean URL fragments", () => {
+    it("drops ASCII and typographic quote characters", () => {
+      const md = `## "She in Babylon" (the co-elect sending church)\n\n**First mention:** 1 Pet 5:13\n\n## „Die in Babylon" (die Gemeinde)\n\n**First mention:** 1 Pet 5:13\n`;
+      const r = parsePeopleMarkdown(md, "1-peter");
+      expect(r.entries.map((e) => e.slug)).toEqual([
+        "she-in-babylon",
+        "die-in-babylon",
+      ]);
+    });
+  });
+
   describe("duplicate-slug detection (parser hardening)", () => {
     it("emits console.warn when two entries share the same slug", () => {
       const md = `## Ya'aqov (Jacob)\n\n**First mention:** Gn 25:26\n**Mentioned in:** Gn 25–50\n\n## Ya'aqov (James)\n\n**First mention:** Mt 13:55\n**Mentioned in:** Mt 13:55\n`;
@@ -556,7 +567,7 @@ describe("people-parser", () => {
       const r = parsePeopleMarkdown(md, "matthew");
       expect(r.entries).toHaveLength(2);
       expect(warnSpy).toHaveBeenCalledWith(
-        expect.stringContaining('Duplicate slug "ya\'aqov"'),
+        expect.stringContaining('Duplicate slug "yaaqov"'),
       );
       warnSpy.mockRestore();
     });
@@ -566,7 +577,7 @@ describe("people-parser", () => {
       const warnSpy = vi.spyOn(console, "warn").mockImplementation(() => {});
       const r = parsePeopleMarkdown(md, "matthew");
       expect(r.entries).toHaveLength(2);
-      expect(r.entries[0].slug).toBe("ya'aqov");
+      expect(r.entries[0].slug).toBe("yaaqov"); // quote dropped (clean fragment)
       expect(r.entries[1].slug).toBe("iakobos");
       expect(warnSpy).not.toHaveBeenCalled();
       warnSpy.mockRestore();

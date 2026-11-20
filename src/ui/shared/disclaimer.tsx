@@ -1,3 +1,4 @@
+import { useLocale } from "next-intl";
 import { renderInlineSafe } from "@/ui/shared/render-markdown-safe";
 
 /**
@@ -7,10 +8,11 @@ import { renderInlineSafe } from "@/ui/shared/render-markdown-safe";
  * fallback — this always renders the div from the text it is given.
  */
 export function Disclaimer({ text }: { text: string }) {
+  const locale = useLocale();
   return (
     <div
       className="tt-disclaimer"
-      dangerouslySetInnerHTML={{ __html: renderInlineSafe(text) }}
+      dangerouslySetInnerHTML={{ __html: renderInlineSafe(text, { locale }) }}
     />
   );
 }

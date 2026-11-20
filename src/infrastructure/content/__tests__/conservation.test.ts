@@ -158,6 +158,7 @@ async function emitFile(file: ContentFile): Promise<{
               (e.subEntries ?? []).map((se) => se.content),
             ),
           ),
+          sources: d.sources?.trim() ? [d.sources] : [],
         },
       };
     }
@@ -171,6 +172,7 @@ async function emitFile(file: ContentFile): Promise<{
           "intro-entry": d.sections.flatMap((s) =>
             s.entries.map((e) => e.content),
           ),
+          sources: d.sources?.trim() ? [d.sources] : [],
         },
       };
     }
@@ -183,6 +185,7 @@ async function emitFile(file: ContentFile): Promise<{
           "prophecy-reading": d.entries.flatMap((e) =>
             e.readings.map((r) => r.reading),
           ),
+          sources: d.sources?.trim() ? [d.sources] : [],
         },
       };
     }
@@ -201,6 +204,7 @@ async function emitFile(file: ContentFile): Promise<{
           "person-region": d.entries.flatMap((p) =>
             (p.regionsByText ?? []).map((r) => r.region),
           ),
+          sources: d.sources?.trim() ? [d.sources] : [],
         },
       };
     }

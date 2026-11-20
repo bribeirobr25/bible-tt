@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { useLocale } from "next-intl";
 import type { CuriosityEntry, PersonEntry } from "@/domain/content/types";
 import { ClaimBadge } from "@/ui/enrichment/claim-badge";
 import { renderInlineSafe } from "@/ui/shared/render-markdown-safe";
@@ -23,13 +24,16 @@ function Field({
   wide?: boolean;
   children?: React.ReactNode;
 }) {
+  const locale = useLocale();
   return (
     <div className={`field${wide ? " wide" : ""}`}>
       <span className="fl">{label}</span>
       {children ?? (
         <span
           className="fv"
-          dangerouslySetInnerHTML={{ __html: renderInlineSafe(value ?? "—") }}
+          dangerouslySetInnerHTML={{
+            __html: renderInlineSafe(value ?? "—", { locale }),
+          }}
         />
       )}
     </div>
@@ -73,6 +77,7 @@ function CuriositiesBlock({
   label: string;
   entries: CuriosityEntry[];
 }) {
+  const locale = useLocale();
   if (!entries.length) return null;
   return (
     <div className="mt-4 pt-3 border-t border-border-muted">
@@ -91,7 +96,9 @@ function CuriositiesBlock({
             />
             <div
               className="ntext [&_em]:italic"
-              dangerouslySetInnerHTML={{ __html: renderInlineSafe(c.content) }}
+              dangerouslySetInnerHTML={{
+                __html: renderInlineSafe(c.content, { locale }),
+              }}
             />
             {c.source && <div className="src">{c.source}</div>}
           </div>
@@ -110,7 +117,7 @@ function CuriositiesBlock({
 export function PersonCard({
   person,
   labels,
-  locale = "en",
+  locale: localeProp,
   bookLabels,
   open = false,
 }: {
@@ -125,6 +132,10 @@ export function PersonCard({
   };
   bookLabels: Record<string, string>;
 }) {
+  // One source of truth with Field/CuriositiesBlock: the request locale, unless
+  // a caller passes one explicitly (no silent "en" default).
+  const contextLocale = useLocale();
+  const locale = localeProp ?? contextLocale;
   const fields = person.rawFields ?? [];
   return (
     <details name="people-acc" className="tt-person" open={open}>

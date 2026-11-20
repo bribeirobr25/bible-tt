@@ -180,6 +180,25 @@ sup.verse-num {
   }
 }
 
+/* B10 (launch fixes): copy-verse-link highlight. `history.replaceState` does not
+   update `:target`, so CopyVerseLink adds this class to the verse for ~2 s and
+   removes it. Same visual tokens as `.verse-anchor:target` above; the fade runs
+   only without a reduced-motion preference (reduced motion = instant on/off). */
+.verse-anchor.verse-anchor--copied {
+  background-color: color-mix(in oklch, var(--color-accent) 9%, transparent);
+  border-radius: 0.5rem;
+  box-shadow: 0 0 0 0.5rem
+    color-mix(in oklch, var(--color-accent) 9%, transparent);
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .verse-anchor {
+    transition:
+      background-color 0.4s ease,
+      box-shadow 0.4s ease;
+  }
+}
+
 /* ============================================================
    Light & Darkness primitives (P0) — additive utilities used by
    later phases. Unused until applied → no visual change yet.
@@ -436,14 +455,15 @@ html.tt-js .reveal.in {
 .tt-ex strong { color: var(--color-accent); font-weight: 500; }
 .tt-ex em { color: var(--color-text-secondary); font-style: italic; }
 
-/* rules — full 29 grid (hairline cards on dark) */
+/* rules — full 30 grid (hairline cards on dark) */
 .tt-rules-grid { display: grid; gap: 1px; margin-top: 46px; background: color-mix(in oklch, var(--color-on-dark) 15%, transparent); border: 1px solid color-mix(in oklch, var(--color-on-dark) 15%, transparent); }
 @media (min-width: 640px) { .tt-rules-grid { grid-template-columns: 1fr 1fr; } }
 @media (min-width: 1040px) { .tt-rules-grid { grid-template-columns: 1fr 1fr 1fr; } }
-.tt-rule { background: var(--color-dark); padding: 24px; display: flex; gap: 14px; align-items: flex-start; }
+/* scroll-margin clears the 64px sticky app bar for #rule-N deep links (same offset as .tt-verse) */
+.tt-rule { background: var(--color-dark); padding: 24px; display: flex; gap: 14px; align-items: flex-start; scroll-margin-top: 90px; }
 .tt-rule .rnum { font-family: var(--font-mono); font-size: 12px; color: var(--color-ochre); flex: none; width: 2.4em; padding-top: 3px; }
 .tt-rule .rname { font-family: var(--font-reading); font-size: 1.2rem; color: var(--color-on-dark); margin-bottom: 5px; }
-.tt-rule .rshort { font-size: 13.5px; color: var(--color-on-dark-soft); line-height: 1.55; }
+.tt-rule .rshort { font-size: 14px; color: var(--color-on-dark-soft); line-height: 1.55; }
 
 /* books — book cards with at-a-glance */
 .tt-bookcard { display: grid; gap: 24px; padding: 36px 0; border-top: 1px solid var(--color-border); transition: padding-left 0.3s var(--ease); }
@@ -479,13 +499,20 @@ html.tt-js .reveal.in {
 .tt-crumb a:hover { color: var(--color-accent); }
 .tt-crumb .sep { opacity: 0.5; }
 
+/* Rule references in content prose → the rules page card (Decision L5).
+   Underlined so the link is not signalled by colour alone (WCAG 1.4.1); inline
+   text links fall under the WCAG 2.5.8 inline exception to the 44×44 target
+   rule (TT-DESIGN-SYSTEM §Accessibility); focus uses the global :focus-visible ring. */
+.tt-ruleref { color: var(--color-accent); text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 2px; }
+.tt-ruleref:hover { text-decoration-thickness: 2px; }
+
 .tt-chapter-head { padding: 36px 0 0; }
 .tt-chapter-head .tt-crumb { margin-bottom: 26px; }
 .tt-title-row { display: flex; align-items: flex-end; justify-content: space-between; gap: 20px; flex-wrap: wrap; }
 .tt-chapter-title { font-family: var(--font-reading); font-weight: 300; letter-spacing: -0.02em; font-size: clamp(2.4rem, 6vw, 4.4rem); line-height: 0.95; color: var(--color-text-primary); }
 .tt-ref { font-family: var(--font-mono); font-size: 12px; letter-spacing: 0.1em; text-transform: uppercase; color: var(--color-text-muted); margin-bottom: 8px; }
 
-.tt-status-pill { display: inline-flex; align-items: center; gap: 7px; font-family: var(--font-mono); font-size: 11px; text-transform: uppercase; letter-spacing: 0.06em; color: var(--color-ochre); border: 1px solid var(--color-border); border-radius: 999px; padding: 5px 11px; }
+.tt-status-pill { display: inline-flex; align-items: center; gap: 7px; font-family: var(--font-mono); font-size: 12px; text-transform: uppercase; letter-spacing: 0.06em; color: var(--color-ochre); border: 1px solid var(--color-border); border-radius: 999px; padding: 5px 11px; }
 .tt-status-pill .dot { width: 7px; height: 7px; border-radius: 50%; background: var(--color-ochre); flex: none; }
 
 /* segmented 3-door pill */
@@ -502,11 +529,9 @@ html.tt-js .reveal.in {
 .tt-pager .pl { font-family: var(--font-mono); font-size: 10.5px; letter-spacing: 0.08em; text-transform: uppercase; color: var(--color-text-muted); }
 .tt-pager .right { text-align: right; margin-left: auto; align-items: flex-end; }
 
-/* in-reading rule-related words, highlighted so the reader sees them clearly:
-   transliterations (teal) and grammatical additions / Rule-11 italics (ochre). */
-/* TT text-highlight markers: {t:…}→.term (Rule 4), {a:…}→.ambig (Rule 2),
-   @@…@@→.divine (Rule 30); *added*→em (Rule 11). Coherent token hierarchy:
-   teal = kept source term · ochre = two meanings · red = divine speech ·
+/* TT text-highlight markers (Decision D10 — the live design is canonical):
+   {t:…}→.term (Rule 4) teal, bold · {a:…}→.ambig (Rule 2) bold, body colour ·
+   @@…@@→.divine (Rule 30) red, not bold · *added*→em (Rule 11) in reading text:
    grammatical-blue italic = words added for target grammar. */
 .term { color: var(--color-accent); font-weight: 600; }
 .ambig { font-weight: 600; }

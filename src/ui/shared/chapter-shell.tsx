@@ -8,6 +8,7 @@ import { ReadingProgress } from "@/ui/reading/reading-progress";
 import { Disclosure } from "@/ui/shared/disclosure";
 import { LegacyHashRedirect } from "@/ui/shared/legacy-hash-redirect";
 import { renderMarkdownSafe } from "@/ui/shared/render-markdown-safe";
+import { StatusPill } from "@/ui/shared/status-pill";
 import { GlossaryPanel } from "@/ui/study/glossary-panel";
 
 const WRAP = "max-w-[1320px] mx-auto px-[clamp(18px,4vw,52px)]";
@@ -57,13 +58,6 @@ export async function ChapterShell({
         ? t("chapter.deeperRef")
         : `${t("site.title")} · ${bookName}`;
   const title = doorLabel ? `${chapterLabel} · ${doorLabel}` : chapterLabel;
-  // The pill shows a short status word (e.g. "Provisional"); the full
-  // "provisional — pending reviewer sign-off (Rule 28)" stays in the metadata.
-  const shortStatus = (() => {
-    const head = data.metadata.status.split(/\s[—–-]\s|\s\(/)[0].trim();
-    return head.charAt(0).toUpperCase() + head.slice(1);
-  })();
-
   return (
     <>
       <ReadingProgress />
@@ -91,10 +85,7 @@ export async function ChapterShell({
             <div className="tt-ref">{ref}</div>
             <h1 className="tt-chapter-title">{title}</h1>
           </div>
-          <span className="tt-status-pill" title={data.metadata.status}>
-            <span className="dot" aria-hidden="true" />
-            {shortStatus}
-          </span>
+          <StatusPill status={data.metadata.status} />
         </div>
 
         <DoorNav
@@ -124,7 +115,9 @@ export async function ChapterShell({
                 <div
                   className="body prose text-text-primary [&_strong]:font-semibold"
                   dangerouslySetInnerHTML={{
-                    __html: renderMarkdownSafe(data.overview, "note"),
+                    __html: renderMarkdownSafe(data.overview, "note", {
+                      locale,
+                    }),
                   }}
                 />
               </Disclosure>

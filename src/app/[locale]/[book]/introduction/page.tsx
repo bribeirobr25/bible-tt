@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { getTranslations, setRequestLocale } from "next-intl/server";
-import { AVAILABLE_BOOKS } from "@/domain/books/registry";
+import { isActiveBook } from "@/domain/books/registry";
 import type { Locale } from "@/infrastructure/i18n/config";
 import { getAvailableBooks, getIntroductionData } from "@/lib/content-loader";
 import {
@@ -14,6 +14,7 @@ import { IntroductionView } from "@/ui/enrichment/introduction-view";
 import { DoorPager } from "@/ui/navigation/door-pager";
 import { Link } from "@/ui/navigation/locale-link";
 import { JsonLd } from "@/ui/shared/json-ld";
+import { StatusPill } from "@/ui/shared/status-pill";
 
 const WRAP = "max-w-[1320px] mx-auto px-[clamp(18px,4vw,52px)]";
 
@@ -28,7 +29,7 @@ export async function generateMetadata({
   params: Promise<{ locale: string; book: string }>;
 }): Promise<Metadata> {
   const { locale, book } = await params;
-  if (!(AVAILABLE_BOOKS as readonly string[]).includes(book)) return {};
+  if (!isActiveBook(book)) return {};
   const t = await getTranslations({ locale });
   return seoMetadata({
     locale,
@@ -44,6 +45,7 @@ export default async function BookIntroductionPage({
   params: Promise<{ locale: string; book: string }>;
 }) {
   const { locale, book } = await params;
+  if (!isActiveBook(book)) notFound();
   setRequestLocale(locale);
 
   const books = await getAvailableBooks(locale);
@@ -64,8 +66,9 @@ export default async function BookIntroductionPage({
     dating: t("introduction.section.dating"),
     historicalSetting: t("introduction.section.historicalSetting"),
     manuscriptTransmission: t("introduction.section.manuscriptTransmission"),
-    readingInTT: t("introduction.section.readingInTT"),
-    sources: t("introduction.section.sources"),
+    // Key = the view's camelCased section id (`reading-in-tt` → `readingInTt`);
+    // the message key keeps its historical spelling (audit B12).
+    readingInTt: t("introduction.section.readingInTT"),
   };
 
   const bookName = t(`book.${book}`);
@@ -97,10 +100,7 @@ export default async function BookIntroductionPage({
             <div className="tt-ref">{bookName}</div>
             <h1 className="tt-chapter-title">{t("nav.bookIntroduction")}</h1>
           </div>
-          <span className="tt-status-pill">
-            <span className="dot" aria-hidden="true" />
-            {t("people.provisional")}
-          </span>
+          <StatusPill status={introduction.status} />
         </div>
         <hr className="tt-seam mt-[26px]" />
       </div>

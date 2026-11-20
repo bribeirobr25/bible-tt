@@ -45,6 +45,8 @@ const PARSER_SKIPPED = new Set([
   "INHALTSVERZEICHNIS",
   "INDICE",
   "ÍNDICE",
+  "TABLA DE CONTENIDOS",
+  "TABLA DE CONTENIDO",
 ]);
 const TOC_LIKE =
   /CONTENTS|SUMÁRIO|INHALTSVERZEICHNIS|[IÍ]NDICE|TABLA DE CONTENIDOS/i;
@@ -59,9 +61,10 @@ const GUIDE =
 /** The edition-title H2 under the H1 ("## The Transparent Translation (TT)") — part of the header. */
 const TITLE_H2 = /Transparent|Transparente|Übersetzung \(TT\)|\(TT\)\s*$/;
 /**
- * "Sources Consulted" blocks: dropped by the enrichment/people parsers today; must render after
- * Step 4a (D2 / audit B2). Decided by the heading WORDS, not the letter: companions use
- * "G." for Curiosities and "H." for Sources, introductions "G." for Sources (review R1-1).
+ * "Sources Consulted" blocks: rendered since Step 4 batch 1 (D2 / audit B2) — mirrors
+ * `SOURCES_HEADING` in src/infrastructure/content/sources-block.ts. Decided by the heading
+ * WORDS, not the letter: companions use "G." for Curiosities and "H." for Sources,
+ * introductions "G." for Sources (review R1-1).
  */
 const SOURCES_H2 =
   /^(?:[A-Z]\.\s+)?(?:Sources|Fontes|Fuentes|Konsultierte Quellen|Herangezogene Quellen|Quellen)\b/i;
@@ -86,7 +89,7 @@ const isCompanion = (rel) =>
  * @param {string} text  file content
  * @param {string} rel   path relative to content/ (e.g. "en/john/CHAPTER-3.md")
  * @returns {{zone:string, render:string, verse:number|null, section:string, heading?:boolean}[]}
- *   render is one of "now" | "after-4a" | "no"
+ *   render is one of "now" | "no" (Sources blocks render since Step 4 batch 1)
  */
 export function zoneLines(text, rel) {
   const lines = text.split("\n");
@@ -224,7 +227,8 @@ function otherZones(lines, rel) {
       section = h[1].trim();
       if (zone === "front" && !TITLE_H2.test(section)) zone = "apparatus";
       if (zone === "apparatus") {
-        if (SOURCES_H2.test(section)) render = "after-4a";
+        if (SOURCES_H2.test(section))
+          render = "now"; // rendered since Step 4 batch 1
         else if (
           companion &&
           LETTER_H2.test(line) &&
@@ -309,7 +313,7 @@ function prophecyZones(lines) {
       sectionRender = entry
         ? "now"
         : zone === "apparatus" && SOURCES_H2.test(section)
-          ? "after-4a"
+          ? "now" // Sources blocks render since Step 4 batch 1
           : "no";
       inReadings = false;
       out.push({

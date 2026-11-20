@@ -20,6 +20,26 @@ import { parseProphecyMarkdown } from "./prophecy-parser";
 
 const CONTENT_ROOT = path.join(process.cwd(), "content");
 
+/** A missing file or directory is "no such content" (→ null / 404). */
+function isAbsent(err: unknown): boolean {
+  const code = (err as NodeJS.ErrnoException | null)?.code;
+  return code === "ENOENT" || code === "ENOTDIR";
+}
+
+/**
+ * Read a content file, or `null` when it does not exist. Any other I/O error is
+ * rethrown, and parsing happens OUTSIDE this helper, so a parser bug fails the
+ * build loudly instead of turning a page into a silent 404 (audit §3.2).
+ */
+async function readIfPresent(filePath: string): Promise<string | null> {
+  try {
+    return await fs.readFile(filePath, "utf-8");
+  } catch (err) {
+    if (isAbsent(err)) return null;
+    throw err;
+  }
+}
+
 export async function readChapter(
   locale: Locale,
   book: string,
@@ -31,12 +51,8 @@ export async function readChapter(
     book,
     `CHAPTER-${chapter}.md`,
   );
-  try {
-    const raw = await fs.readFile(filePath, "utf-8");
-    return parseChapterMarkdown(raw, book, chapter);
-  } catch {
-    return null;
-  }
+  const raw = await readIfPresent(filePath);
+  return raw === null ? null : parseChapterMarkdown(raw, book, chapter);
 }
 
 export async function readEnrichment(
@@ -51,12 +67,8 @@ export async function readEnrichment(
     "study",
     `CHAPTER-${chapter}-CONTEXT.md`,
   );
-  try {
-    const raw = await fs.readFile(filePath, "utf-8");
-    return parseEnrichmentMarkdown(raw, book, chapter);
-  } catch {
-    return null;
-  }
+  const raw = await readIfPresent(filePath);
+  return raw === null ? null : parseEnrichmentMarkdown(raw, book, chapter);
 }
 
 export async function readIntroduction(
@@ -64,12 +76,8 @@ export async function readIntroduction(
   book: string,
 ): Promise<IntroductionData | null> {
   const filePath = path.join(CONTENT_ROOT, locale, book, "INTRODUCTION.md");
-  try {
-    const raw = await fs.readFile(filePath, "utf-8");
-    return parseIntroductionMarkdown(raw, book);
-  } catch {
-    return null;
-  }
+  const raw = await readIfPresent(filePath);
+  return raw === null ? null : parseIntroductionMarkdown(raw, book);
 }
 
 export async function readProphecy(
@@ -84,12 +92,8 @@ export async function readProphecy(
     "study",
     `CHAPTER-${chapter}-PROPHECY.md`,
   );
-  try {
-    const raw = await fs.readFile(filePath, "utf-8");
-    return parseProphecyMarkdown(raw, book, chapter);
-  } catch {
-    return null;
-  }
+  const raw = await readIfPresent(filePath);
+  return raw === null ? null : parseProphecyMarkdown(raw, book, chapter);
 }
 
 export async function readPeople(
@@ -97,12 +101,8 @@ export async function readPeople(
   book: string,
 ): Promise<PeopleData | null> {
   const filePath = path.join(CONTENT_ROOT, locale, book, "PEOPLE.md");
-  try {
-    const raw = await fs.readFile(filePath, "utf-8");
-    return parsePeopleMarkdown(raw, book);
-  } catch {
-    return null;
-  }
+  const raw = await readIfPresent(filePath);
+  return raw === null ? null : parsePeopleMarkdown(raw, book);
 }
 
 export async function readBookContext(
@@ -110,12 +110,8 @@ export async function readBookContext(
   book: string,
 ): Promise<BookContextData | null> {
   const filePath = path.join(CONTENT_ROOT, locale, book, "CONTEXT.md");
-  try {
-    const raw = await fs.readFile(filePath, "utf-8");
-    return parseBookContextMarkdown(raw, book, locale);
-  } catch {
-    return null;
-  }
+  const raw = await readIfPresent(filePath);
+  return raw === null ? null : parseBookContextMarkdown(raw, book, locale);
 }
 
 export async function listBooks(locale: string): Promise<string[]> {
@@ -138,8 +134,9 @@ export async function listBooks(locale: string): Promise<string[]> {
       }
     }
     return books.sort();
-  } catch {
-    return [];
+  } catch (err) {
+    if (isAbsent(err)) return [];
+    throw err;
   }
 }
 
@@ -156,7 +153,8 @@ export async function listChapters(
         Number.parseInt(f.replace("CHAPTER-", "").replace(".md", ""), 10),
       )
       .sort((a, b) => a - b);
-  } catch {
-    return [];
+  } catch (err) {
+    if (isAbsent(err)) return [];
+    throw err;
   }
 }

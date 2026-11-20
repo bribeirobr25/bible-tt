@@ -10,6 +10,7 @@ import * as THREE from "three";
  * Accessibility / governance:
  *  - `prefers-reduced-motion` → renders a single static frame (no loop).
  *  - no-WebGL → the CSS gradient fallback on the parent stays visible (canvas absent).
+ *  - unmount → context force-lost before dispose (no leaked contexts across navigations).
  *  - This shader glow is a LOGGED design-rule exception (see TT-DESIGN-SYSTEM §12).
  */
 const FRAG = `
@@ -38,17 +39,62 @@ void main(){
   gl_FragColor=vec4(col,1.0);
 }`;
 
+/** The renderer surface `releaseRenderer` needs (a `THREE.WebGLRenderer` satisfies it). */
+type ReleasableRenderer = { forceContextLoss(): void; dispose(): void };
+
+/**
+ * B8 — unmount teardown. `dispose()` alone frees three's GPU objects but leaves
+ * the WebGL context alive until GC, so repeated client navigations to the hero
+ * pile up contexts (browsers cap them, then drop the oldest with a warning).
+ * Losing the context first releases it immediately.
+ */
+export function releaseRenderer(renderer: ReleasableRenderer): void {
+  renderer.forceContextLoss();
+  renderer.dispose();
+}
+
+/**
+ * B8 — `renderer.setSize()` assigns `canvas.width/height`, which clears the
+ * drawing buffer. The animated loop repaints on the next frame anyway; the
+ * reduced-motion path draws exactly one frame, so it must redraw after every
+ * resize (including ResizeObserver's initial callback) or the hero goes blank.
+ */
+export function createResizeHandler(opts: {
+  getSize: () => { width: number; height: number };
+  setSize: (width: number, height: number) => void;
+  setResolution: (width: number, height: number) => void;
+  pixelRatio: () => number;
+  /** Called after a resize when no animation loop will repaint (reduced motion). */
+  redrawStatic: (() => void) | null;
+}): () => void {
+  return () => {
+    const { width, height } = opts.getSize();
+    opts.setSize(width, height);
+    const ratio = opts.pixelRatio();
+    opts.setResolution(width * ratio, height * ratio);
+    opts.redrawStatic?.();
+  };
+}
+
 export function SeparationHero() {
-  const canvasRef = useRef<HTMLCanvasElement>(null);
+  const hostRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
-    const canvas = canvasRef.current;
-    if (!canvas) return;
+    const host = hostRef.current;
+    if (!host) return;
+
+    // A fresh canvas per mount: the cleanup forces context loss, and a lost
+    // context stays bound to its canvas — reusing a JSX-owned canvas would hand
+    // the dead context to the next mount (e.g. React Strict Mode's dev re-run).
+    const canvas = document.createElement("canvas");
+    canvas.className = "absolute inset-0 w-full h-full";
+    host.appendChild(canvas);
 
     let renderer: THREE.WebGLRenderer;
     try {
       renderer = new THREE.WebGLRenderer({ canvas, antialias: false });
     } catch {
+      canvas.remove();
       return; // no WebGL → CSS gradient fallback on parent remains visible
     }
     renderer.setPixelRatio(Math.min(window.devicePixelRatio, 1.6));
@@ -69,15 +115,21 @@ export function SeparationHero() {
     const mesh = new THREE.Mesh(new THREE.PlaneGeometry(2, 2), material);
     scene.add(mesh);
 
-    const resize = () => {
-      const w = canvas.clientWidth;
-      const h = canvas.clientHeight;
-      renderer.setSize(w, h, false);
-      uniforms.u_res.value.set(
-        w * renderer.getPixelRatio(),
-        h * renderer.getPixelRatio(),
-      );
-    };
+    const reduced = window.matchMedia(
+      "(prefers-reduced-motion: reduce)",
+    ).matches;
+    if (reduced) uniforms.u_time.value = 4.0;
+
+    const resize = createResizeHandler({
+      getSize: () => ({
+        width: canvas.clientWidth,
+        height: canvas.clientHeight,
+      }),
+      setSize: (w, h) => renderer.setSize(w, h, false),
+      setResolution: (w, h) => uniforms.u_res.value.set(w, h),
+      pixelRatio: () => renderer.getPixelRatio(),
+      redrawStatic: reduced ? () => renderer.render(scene, cam) : null,
+    });
     const ro = new ResizeObserver(resize);
     ro.observe(canvas);
     resize();
@@ -96,9 +148,6 @@ export function SeparationHero() {
     window.addEventListener("pointermove", onPointer);
     window.addEventListener("scroll", onScroll, { passive: true });
 
-    const reduced = window.matchMedia(
-      "(prefers-reduced-motion: reduce)",
-    ).matches;
     let raf = 0;
     const loop = () => {
       raf = requestAnimationFrame(loop);
@@ -112,10 +161,9 @@ export function SeparationHero() {
       else loop();
     };
 
-    if (reduced) {
-      uniforms.u_time.value = 4.0;
-      renderer.render(scene, cam);
-    } else {
+    // Reduced motion: the single static frame was drawn by `resize()` above
+    // (and is redrawn on every later resize); no loop.
+    if (!reduced) {
       loop();
       document.addEventListener("visibilitychange", onVisibility);
     }
@@ -128,9 +176,11 @@ export function SeparationHero() {
       document.removeEventListener("visibilitychange", onVisibility);
       mesh.geometry.dispose();
       material.dispose();
-      renderer.dispose();
+      releaseRenderer(renderer);
+      canvas.remove();
     };
   }, []);
 
-  return <canvas ref={canvasRef} className="absolute inset-0 w-full h-full" />;
+  // The canvas is created per mount inside the effect (see above).
+  return <div ref={hostRef} className="absolute inset-0" aria-hidden="true" />;
 }

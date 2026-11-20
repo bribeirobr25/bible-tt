@@ -1,5 +1,9 @@
+import { useLocale } from "next-intl";
 import type { Note, NoteType } from "@/domain/content/types";
-import { renderMarkdownSafe } from "@/ui/shared/render-markdown-safe";
+import {
+  renderInlineSafe,
+  renderMarkdownSafe,
+} from "@/ui/shared/render-markdown-safe";
 
 // Uniform cream surface + colored left border / label / dot per note type
 // (prototype `.note`); no icon.
@@ -21,6 +25,7 @@ const TYPE: Record<NoteType, { cls: string; dot: string }> = {
 
 export function NoteBlock({ note }: { note: Note }) {
   const ty = TYPE[note.type];
+  const locale = useLocale();
 
   return (
     <div className={`tt-note ${ty.cls}`}>
@@ -30,12 +35,16 @@ export function NoteBlock({ note }: { note: Note }) {
           style={{ background: ty.dot }}
           aria-hidden="true"
         />
-        {note.title}
+        {/* Titles carry inline italics (`— *PLĒTHYNTHEIĒ*`); rendered without a
+            locale so a "(Rule N)" in a title never becomes a link. */}
+        <span
+          dangerouslySetInnerHTML={{ __html: renderInlineSafe(note.title) }}
+        />
       </div>
       <div
         className="ntext [&_em]:italic"
         dangerouslySetInnerHTML={{
-          __html: renderMarkdownSafe(note.content, "note"),
+          __html: renderMarkdownSafe(note.content, "note", { locale }),
         }}
       />
     </div>

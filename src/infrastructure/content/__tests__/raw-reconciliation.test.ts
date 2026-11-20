@@ -3,7 +3,10 @@ import path from "node:path";
 import { describe, expect, it } from "vitest";
 import { AVAILABLE_BOOKS } from "@/domain/books/registry";
 import { locales } from "@/infrastructure/i18n/config";
-import { parseEnrichmentMarkdown } from "../enrichment-parser";
+import {
+  parseEnrichmentMarkdown,
+  parseIntroductionMarkdown,
+} from "../enrichment-parser";
 import { parseChapterMarkdown } from "../markdown-parser";
 import { parsePeopleMarkdown } from "../people-parser";
 import { parseProphecyMarkdown } from "../prophecy-parser";
@@ -157,5 +160,106 @@ describe("raw-count reconciliation (independent of the parsers)", () => {
           bad.push(`${l}/${book}: raw ${rawN} parsed ${parsed}`);
       }
     expect(bad).toEqual([]);
+  });
+  it("parsed Sources blocks = raw Sources sections, line for line (every file)", () => {
+    // Independent rule: a lettered G/H heading whose words name the sources
+    // (companion §G is Curiosities, so the letter alone never decides). The
+    // raw lines run to the next `## `; blank lines and `---` rules carry no
+    // text. Each raw line must reappear, as itself, in the parsed block
+    // (modulo the documented `>`/bullet cleaning) — no line lost or invented.
+    const RAW_SOURCES =
+      /^## [GH]\. (?:Sources|Fontes|Fuentes|Konsultierte Quellen|Herangezogene Quellen)\b/;
+    const norm = (l: string) =>
+      l
+        .replace(/^>\s?/, "")
+        .replace(/^(?:[-*]|•)\s+/, "• ")
+        .trim();
+    const rawBlock = (raw: string): string[] | null => {
+      const ls = raw.split("\n");
+      const at = ls.findIndex((l) => RAW_SOURCES.test(l));
+      if (at < 0) return null;
+      const out: string[] = [];
+      for (const l of ls.slice(at + 1)) {
+        if (/^## /.test(l)) break;
+        if (l.trim() && !/^\s*-{3,}\s*$/.test(l)) out.push(norm(l));
+      }
+      return out;
+    };
+    const bad: string[] = [];
+    const perLocale = new Map<string, number>();
+    for (const l of locales) {
+      let n = 0;
+      const check = (rel: string, raw: string, parsed: string | undefined) => {
+        const want = rawBlock(raw);
+        if (want) n++;
+        const got = parsed
+          ? parsed
+              .split("\n")
+              .map(norm)
+              .filter((x) => x.length > 0)
+          : null;
+        if (JSON.stringify(want) !== JSON.stringify(got))
+          bad.push(
+            `${l}/${rel}: raw ${want?.length ?? "none"} lines, parsed ${got?.length ?? "none"}`,
+          );
+      };
+      for (const book of AVAILABLE_BOOKS) {
+        for (const f of studyFiles(l, book, "-CONTEXT.md")) {
+          const raw = read(l, book, "study", f);
+          const ch = Number(f.match(/\d+/)?.[0]);
+          check(
+            `${book}/${f}`,
+            raw,
+            parseEnrichmentMarkdown(raw, book, ch).sources,
+          );
+        }
+        for (const f of studyFiles(l, book, "-PROPHECY.md")) {
+          const raw = read(l, book, "study", f);
+          const ch = Number(f.match(/\d+/)?.[0]);
+          check(
+            `${book}/${f}`,
+            raw,
+            parseProphecyMarkdown(raw, book, ch).sources,
+          );
+        }
+        const intro = read(l, book, "INTRODUCTION.md");
+        check(
+          `${book}/INTRODUCTION.md`,
+          intro,
+          parseIntroductionMarkdown(intro, book).sources,
+        );
+        if (existsSync(path.join(CONTENT, l, book, "PEOPLE.md"))) {
+          const raw = read(l, book, "PEOPLE.md");
+          check(
+            `${book}/PEOPLE.md`,
+            raw,
+            parsePeopleMarkdown(raw, book).sources,
+          );
+        }
+      }
+      perLocale.set(l, n);
+    }
+    expect(bad).toEqual([]);
+    // Every locale carries the same Sources blocks (59 each on 2026-11-20); a
+    // content batch adding one must add it in all four locales.
+    expect(new Set(perLocale.values()).size).toBe(1);
+  });
+  it("every companion keeps ≥ 1 section besides Sources (the Deeper door set is unchanged)", () => {
+    // Sources stopped being a section in Step 4 batch 1; hasDeeperContent and
+    // the Deeper tabs count `sections`, so a companion whose only section was
+    // Sources would silently lose its Deeper page.
+    const empty: string[] = [];
+    for (const l of locales)
+      for (const book of AVAILABLE_BOOKS)
+        for (const f of studyFiles(l, book, "-CONTEXT.md")) {
+          const ch = Number(f.match(/\d+/)?.[0]);
+          const d = parseEnrichmentMarkdown(
+            read(l, book, "study", f),
+            book,
+            ch,
+          );
+          if (d.sections.length === 0) empty.push(`${l}/${book}/${f}`);
+        }
+    expect(empty).toEqual([]);
   });
 });

@@ -119,3 +119,102 @@ describe("Markdown Parser", () => {
     }
   }
 });
+
+describe("Step 4 batch 1 — parser latent risks", () => {
+  const chapter = (body: {
+    cr?: string;
+    verse?: string;
+    glossary?: string;
+    extra?: string;
+  }) =>
+    [
+      "# Genesis 1",
+      "## The Transparent Translation (TT)",
+      "**Status:** provisional",
+      "## TABLA DE CONTENIDOS",
+      "- a link",
+      "## CONTINUOUS READING",
+      "*Prose view of the whole chapter. The text is identical to the",
+      "verse-by-verse study below.*",
+      "",
+      body.cr ?? "In the beginning.",
+      "## VERSE-BY-VERSE STUDY",
+      "### **Verse 1**",
+      body.verse ?? "In the beginning.",
+      "## GLOSSARY — GENESIS 1",
+      body.glossary ??
+        "| Hebrew | TT | Notes |\n|---|---|---|\n| *bara* | create | x |",
+      body.extra ?? "",
+    ].join("\n");
+
+  it("keeps a scripture paragraph that starts with an added word (Rule 11 / L1)", () => {
+    const d = parseChapterMarkdown(
+      chapter({ cr: "*The* man said to *him*: go.\n\n*Na* carne, ele." }),
+      "genesis",
+      1,
+    );
+    expect(d.continuousReading.map((p) => p.text)).toEqual([
+      "*The* man said to *him*: go.",
+      "*Na* carne, ele.",
+    ]);
+  });
+
+  it("drops only the wrapped editorial note paragraph", () => {
+    const d = parseChapterMarkdown(chapter({}), "genesis", 1);
+    expect(d.continuousReading.map((p) => p.text)).toEqual([
+      "In the beginning.",
+    ]);
+  });
+
+  it("keeps verse text authored after the notes or after a rule", () => {
+    const d = parseChapterMarkdown(
+      chapter({
+        verse:
+          "In the beginning.\n\n> 🔵 **NOTE**\n> - a note\n\nlater text\n---\nafter rule",
+      }),
+      "genesis",
+      1,
+    );
+    expect(d.verses[0].mainText).toBe(
+      "In the beginning.\nlater text\nafter rule",
+    );
+    expect(d.verses[0].notes).toHaveLength(1);
+  });
+
+  it("a note title ending in bold-italic keeps its italic and leaves no stray star", () => {
+    const d = parseChapterMarkdown(
+      chapter({
+        verse:
+          'Grace.\n\n> 🔵 **"GRACE AND PEACE" — *PLĒTHYNTHEIĒ***\n> - **χάρις** (*charis*) = grace.',
+      }),
+      "genesis",
+      1,
+    );
+    const note = d.verses[0].notes[0];
+    expect(note.title).toBe('"GRACE AND PEACE" — *PLĒTHYNTHEIĒ*');
+    expect(note.content.startsWith("- **χάρις**")).toBe(true);
+  });
+
+  it("keeps empty glossary cells in their column", () => {
+    const d = parseChapterMarkdown(
+      chapter({
+        glossary:
+          "| Hebrew | TT | Notes |\n|---|---|---|\n|  | create | only notes |",
+      }),
+      "genesis",
+      1,
+    );
+    expect(d.glossary[0]).toMatchObject({
+      sourceWord: "",
+      translation: "create",
+      notes: "only notes",
+    });
+  });
+
+  it("skips the ES 'TABLA DE CONTENIDOS' table of contents (sweep S16)", () => {
+    const d = parseChapterMarkdown(chapter({}), "genesis", 1);
+    expect(
+      d.supplementarySections.map((s) => s.title.toUpperCase()),
+    ).not.toContain("TABLA DE CONTENIDOS");
+  });
+});

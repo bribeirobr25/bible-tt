@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { getTranslations, setRequestLocale } from "next-intl/server";
-import { AVAILABLE_BOOKS } from "@/domain/books/registry";
+import { isActiveBook } from "@/domain/books/registry";
 import {
   getAllChapterParams,
   getAvailableChapters,
@@ -31,8 +31,7 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   const { locale, book, chapter } = await params;
   const n = Number.parseInt(chapter, 10);
-  if (Number.isNaN(n) || !(AVAILABLE_BOOKS as readonly string[]).includes(book))
-    return {};
+  if (Number.isNaN(n) || !isActiveBook(book)) return {};
   const t = await getTranslations({ locale });
   const title = `${t(`book.${book}`)} ${n} — ${t("nav.doorNotes")}`;
   return seoMetadata({
@@ -51,6 +50,7 @@ export default async function ChapterNotesPage({
   params: Promise<{ locale: string; book: string; chapter: string }>;
 }) {
   const { locale, book, chapter } = await params;
+  if (!isActiveBook(book)) notFound();
   setRequestLocale(locale);
   const t = await getTranslations();
   const chapterNum = Number.parseInt(chapter, 10);

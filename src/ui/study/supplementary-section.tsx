@@ -1,3 +1,4 @@
+import { useLocale } from "next-intl";
 import type { SupplementarySection } from "@/domain/content/types";
 import { Disclosure } from "@/ui/shared/disclosure";
 import { renderMarkdownSafe } from "@/ui/shared/render-markdown-safe";
@@ -14,6 +15,7 @@ export function SupplementaryPanel({
   sections: SupplementarySection[];
   firstOpen?: boolean;
 }) {
+  const locale = useLocale();
   if (sections.length === 0) return null;
 
   return (
@@ -30,7 +32,7 @@ export function SupplementaryPanel({
           <div
             className="body [&_em]:italic"
             dangerouslySetInnerHTML={{
-              __html: renderMarkdownSafe(section.content, "note"),
+              __html: renderMarkdownSafe(section.content, "note", { locale }),
             }}
           />
         </Disclosure>

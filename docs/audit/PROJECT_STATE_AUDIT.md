@@ -53,32 +53,32 @@ Environment note: `node_modules` was absent; installed with `pnpm install --froz
 
 | # | Bug | Location | ✔ |
 |---|---|---|---|
-| B1 | **Activation gate bypassed for chapters.** A drafted, unactivated book's `/{locale}/{book}/chapter/{n}` (+ `/notes`) returns **200** on demand; only the book hub 404s. `dynamicParams` is left at default `true` and chapter routes never check `AVAILABLE_BOOKS`. | `src/app/[locale]/[book]/chapter/[chapter]/{page,notes/page,deeper/page}.tsx` | ✔ (tested with a temporary draft dir) |
-| B2 | **"Sources Consulted" never rendered** — Rule 29 §H (mandatory) and the Rule-28 AI-provenance block, on **all 132** companion (§H) and introduction (§G) pages. The parser only keeps `###` entries (pre-entry prose is dropped for 0-entry sections) and `ContextView` filters empty sections. Not counted by conservation either. | `enrichment-parser.ts:145-156, 277`; `context-view.tsx:27`; `introduction-view.tsx:22` | ✔ |
-| B3 | **Empty table cells are dropped**, shifting columns left. Genesis 8 chiasm table (6 rows × 4 locales): "After 8:1" text renders under "Pivot". Same filter in glossary parsing. | `render-markdown-safe.ts:35`; `markdown-parser.ts:254` | ✔ |
-| B4 | **Stray `*` inverts italics across blocks.** The textual-criticism siglum `א*` opens an `<em>` that runs to the next asterisk (across bullets/paragraphs), un-italicizing Greek terms and mis-nesting tags. ~20 blocks (Mark/John, 4 locales). `[^*]` and `[\s\S]` patterns span newlines; markers/emphasis also re-run over already-rendered table HTML. | `render-markdown-safe.ts:23-24, 76-78, 119-121` | ✔ (Mark INTRODUCTION E2) |
-| B5 | **`/rules` omits Rule 30** — hardcodes 29 rules under a "Ruleset v3.4" kicker; 4 message files say "The 29 Rules"; no `rule30` keys. | `src/app/[locale]/rules/page.tsx:16,131` | ✔ |
-| B6 | **404 pages render unstyled** — no `<html lang>`, no stylesheet; no `not-found.tsx` exists, root layout returns bare children. | `src/app/layout.tsx`; missing `not-found.tsx` | ✔ (curl vs production build) |
-| B7 | **Reading-progress bar invisible** — `fixed top-12 z-30` sits beneath the 64px `z-40` opaque app bar since the redesign. | `src/ui/reading/reading-progress.tsx:26` | ✔ |
-| B8 | WebGL hero: under reduced-motion, resize clears the canvas without redraw (blank hero); `renderer.dispose()` without `forceContextLoss()` leaks contexts across navigations. | `src/ui/marketing/separation-hero.tsx:72` | reported |
-| B9 | Deeper door with a single sub-tab renders `role="tablist"`/`tab` whose `aria-controls` points to a non-existent id; People `<a>` sits inside the tablist. | `src/ui/enrichment/deeper-view.tsx:80-104` | reported |
-| B10 | Copy-verse-link uses `history.replaceState` (doesn't trigger `:target` highlight); its `setTimeout` is never cleared. | `src/ui/study/copy-verse-link.tsx:19` | reported |
+| B1 | **Activation gate bypassed for chapters.** A drafted, unactivated book's `/{locale}/{book}/chapter/{n}` (+ `/notes`) returns **200** on demand; only the book hub 404s. `dynamicParams` is left at default `true` and chapter routes never check `AVAILABLE_BOOKS`. | `src/app/[locale]/[book]/chapter/[chapter]/{page,notes/page,deeper/page}.tsx` | ✔ (tested with a temporary draft dir) — **fixed Step 4 batch 1 (`isActiveBook` guard in every `[book]` page + OG route)** |
+| B2 | **"Sources Consulted" never rendered** — Rule 29 §H (mandatory) and the Rule-28 AI-provenance block, on **all 132** companion (§H) and introduction (§G) pages. The parser only keeps `###` entries (pre-entry prose is dropped for 0-entry sections) and `ContextView` filters empty sections. Not counted by conservation either. | `enrichment-parser.ts:145-156, 277`; `context-view.tsx:27`; `introduction-view.tsx:22` | ✔ — **fixed Step 4 batch 1 (236 Sources blocks rendered)** |
+| B3 | **Empty table cells are dropped**, shifting columns left. Genesis 8 chiasm table (6 rows × 4 locales): "After 8:1" text renders under "Pivot". Same filter in glossary parsing. | `render-markdown-safe.ts:35`; `markdown-parser.ts:254` | ✔ — **fixed Step 4 batch 1** |
+| B4 | **Stray `*` inverts italics across blocks.** The textual-criticism siglum `א*` opens an `<em>` that runs to the next asterisk (across bullets/paragraphs), un-italicizing Greek terms and mis-nesting tags. ~20 blocks (Mark/John, 4 locales). `[^*]` and `[\s\S]` patterns span newlines; markers/emphasis also re-run over already-rendered table HTML. | `render-markdown-safe.ts:23-24, 76-78, 119-121` | ✔ (Mark INTRODUCTION E2) — **fixed Step 4 batch 1 (CommonMark-style flanking)** |
+| B5 | **`/rules` omits Rule 30** — hardcodes 29 rules under a "Ruleset v3.4" kicker; 4 message files say "The 29 Rules"; no `rule30` keys. | `src/app/[locale]/rules/page.tsx:16,131` | ✔ — **fixed Step 4 batch 1 (30 rules, names re-sourced from RULES-CORE)** |
+| B6 | **404 pages render unstyled** — no `<html lang>`, no stylesheet; no `not-found.tsx` exists, root layout returns bare children. | `src/app/layout.tsx`; missing `not-found.tsx` | ✔ (curl vs production build) — **fixed client-side in Step 4 batch 1** (localized, styled; the server HTML is still Next 16's error shell → Step 5) |
+| B7 | **Reading-progress bar invisible** — `fixed top-12 z-30` sits beneath the 64px `z-40` opaque app bar since the redesign. | `src/ui/reading/reading-progress.tsx:26` | ✔ — **fixed Step 4 batch 1** |
+| B8 | WebGL hero: under reduced-motion, resize clears the canvas without redraw (blank hero); `renderer.dispose()` without `forceContextLoss()` leaks contexts across navigations. | `src/ui/marketing/separation-hero.tsx:72` | reported — **fixed Step 4 batch 1** |
+| B9 | Deeper door with a single sub-tab renders `role="tablist"`/`tab` whose `aria-controls` points to a non-existent id; People `<a>` sits inside the tablist. | `src/ui/enrichment/deeper-view.tsx:80-104` | reported — **fixed Step 4 batch 1** |
+| B10 | Copy-verse-link uses `history.replaceState` (doesn't trigger `:target` highlight); its `setTimeout` is never cleared. | `src/ui/study/copy-verse-link.tsx:19` | reported — **fixed Step 4 batch 1** |
 | B11 | DE Acts PEOPLE label `**In der Apostelgeschichte:**` (6×) is not a parser alias (`"in apostelgeschichte"` only) → `inBook` undefined. | `people-fields.ts:215` | ✔ — **fixed in Step 2** (PR #16) |
-| B12 | Introduction §F i18n label is dead: id `reading-in-tt` → `readingInTt` misses key `readingInTT`; falls back to authored title. | `introduction/page.tsx:67`; `introduction-view.tsx:33` | ✔ |
+| B12 | Introduction §F i18n label is dead: id `reading-in-tt` → `readingInTt` misses key `readingInTT`; falls back to authored title. | `introduction/page.tsx:67`; `introduction-view.tsx:33` | ✔ — **fixed Step 4 batch 1** |
 
 ### 3.2 Latent risks (harmless on today's content)
 
 - **Substring label matching** — `parseClaimType`/`parseConfidence` use `includes()` with VERIFIED first: `UNVERIFIED`/`NO VERIFICADO` → VERIFIED, `UNWAHRSCHEINLICH`/`IMPROBABLE` → PROBABLE, `IMPOSSIBLE` → POSSIBLE, all **without a warning**. No such labels exist today. (`domain/content/labels.ts:112-133`) ✔
-- **Parser crashes become silent 404s** — every `read*` in `fs-content-repository.ts` wraps parse in a bare `catch {}`.
-- **Chapter parser drops** any continuous-reading paragraph starting with `*` (e.g. a Rule-11 italic word) and any verse-block text after notes or `---`. Currently 0 occurrences. ✔
-- `IntroductionView` never renders `section.intro` (currently 0 affected). ✔
-- `hasDeeperContent` counts any section, incl. empty Sources → possible empty Deeper door.
-- Table re-insertion uses `String.replace` with a string (`$&`/`$'` interpreted); no `$` in tables today. ✔
-- **Hardcoded book lists**: `BOOK_ORDER`, two `HEBREW_BIBLE` sets, `bookLabels`, "Genesis 1–12" string (`people/page.tsx:137`), start-page step 5 still "coming soon" though Acts is live.
+- **Parser crashes become silent 404s** — every `read*` in `fs-content-repository.ts` wraps parse in a bare `catch {}`. — **fixed Step 4 batch 1** (only ENOENT/ENOTDIR read as absent).
+- **Chapter parser drops** any continuous-reading paragraph starting with `*` (e.g. a Rule-11 italic word) and any verse-block text after notes or `---`. Currently 0 occurrences. ✔ — **fixed Step 4 batch 1**.
+- `IntroductionView` never renders `section.intro` (currently 0 affected). ✔ — **fixed Step 4 batch 1**.
+- `hasDeeperContent` counts any section, incl. empty Sources → possible empty Deeper door. — **fixed Step 4 batch 1** (Sources is no longer a section; a test asserts every companion keeps ≥ 1 other section).
+- Table re-insertion uses `String.replace` with a string (`$&`/`$'` interpreted); no `$` in tables today. ✔ — **fixed Step 4 batch 1** (function replacer).
+- **Hardcoded book lists**: `BOOK_ORDER`, two `HEBREW_BIBLE` sets, `bookLabels`, "Genesis 1–12" string (`people/page.tsx:137`), start-page step 5 still "coming soon" though Acts is live. → **Step 5** (deferral list, `PLAN_LAUNCH_FIXES.md` §2).
 - **Sitemap/hreflang assume every locale mirrors EN** (`sitemap.ts`, `seo.ts:30`); book-level `generateStaticParams` uses `"en"`. Breaks during EN-only pilots.
 - `ChapterNav` assumes contiguous chapters 1…max.
 - `LegacyHashRedirect` sends `#context`/`#prophecy` to `/deeper` even where none exists.
-- `JsonLd` does not escape `</script>` (author-controlled content; low).
+- `JsonLd` does not escape `</script>` (author-controlled content; low). — **fixed Step 4 batch 1**.
 - `DeeperView` is a client component → `ContextView` + renderer ship to the client and enrichment data is serialized twice; full message catalogue sent on every page.
 
 ### 3.3 Safety-net (gate) weaknesses

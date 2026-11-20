@@ -1,9 +1,12 @@
+import { useLocale } from "next-intl";
 import {
   type IntroductionData,
   sortByConfidence,
 } from "@/domain/content/types";
 import { Disclaimer } from "@/ui/shared/disclaimer";
 import { Disclosure } from "@/ui/shared/disclosure";
+import { renderMarkdownSafe } from "@/ui/shared/render-markdown-safe";
+import { SourcesBlock } from "@/ui/shared/sources-block";
 import { EnrichmentEntryCard } from "./enrichment-entry";
 
 interface IntroductionViewProps {
@@ -19,9 +22,9 @@ export function IntroductionView({
   data,
   sectionLabels,
 }: IntroductionViewProps) {
-  const sections = data.sections.filter(
-    (s) => s.id !== "sources" || s.entries.length > 0,
-  );
+  const locale = useLocale();
+  // Sources is not a section (parser captures it as `data.sources`).
+  const sections = data.sections;
 
   return (
     <div className="tt-deeper-section">
@@ -40,6 +43,16 @@ export function IntroductionView({
             summary={<span>{label}</span>}
           >
             <div className="body">
+              {section.intro && (
+                <p
+                  className="tt-secintro"
+                  dangerouslySetInnerHTML={{
+                    __html: renderMarkdownSafe(section.intro, "note", {
+                      locale,
+                    }),
+                  }}
+                />
+              )}
               {sortByConfidence(section.entries).map((entry, i) => (
                 <EnrichmentEntryCard key={`${section.id}-${i}`} entry={entry} />
               ))}
@@ -47,6 +60,7 @@ export function IntroductionView({
           </Disclosure>
         );
       })}
+      <SourcesBlock sources={data.sources} className="mt-6" />
     </div>
   );
 }

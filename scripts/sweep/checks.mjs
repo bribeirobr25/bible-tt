@@ -723,12 +723,6 @@ const RULESET =
 // The chapter status pill prints the first word(s) of the Status value
 // (src/ui/shared/chapter-shell.tsx: split on " — " / " (") while every other badge
 // prints the i18n term (messages/*.json "provisional") — impl. review R3-16.
-const BADGE_TERM = {
-  en: "Provisional",
-  "pt-br": "Provisório",
-  de: "Vorläufig",
-  es: "Provisional",
-};
 export function s8(ctx, add) {
   const front = ctx.lines
     .map((l, i) => [l, i])
@@ -737,12 +731,9 @@ export function s8(ctx, add) {
   if (!status) add(makeHit(ctx, 0, "S8", "no-status", "", 0));
   else if (!STATUS_OK.test(status[0]))
     add(makeHit(ctx, status[1], "S8", "status-not-provisional", status[0], 0));
-  else if (isChapterFile(ctx.path)) {
-    const value = status[0].replace(/^\*\*(?:Status|Estado):\*\*\s*/, "");
-    const pill = value.split(/\s[—–-]\s|\s\(/)[0].trim();
-    if (pill.toLowerCase() !== BADGE_TERM[ctx.locale].toLowerCase())
-      add(makeHit(ctx, status[1], "S8", "pill-word≠badge-term", pill, 0));
-  }
+  // (The first pass also flagged "pill-word≠badge-term": the chapter pill
+  // printed the raw Status word. Since Step 4 batch 1 the pill prints the i18n
+  // term of the parsed status, so that class is retired.)
   if (isChapterFile(ctx.path) && !front.some(([l]) => REVIEWERS.test(l)))
     add(makeHit(ctx, 0, "S8", "no-reviewers", "", 0));
   const rs = front.map(([l, i]) => [l.match(RULESET), i]).filter(([m]) => m);
@@ -909,20 +900,14 @@ export function s15(ctx, add) {
     const body = line
       .replace(/^\s*(?:>\s*)*(?:[-*]\s+)?/, "")
       .replace(/\*\*/g, "");
-    if ((body.match(/\*/g) ?? []).length % 2 === 1)
-      // a manuscript siglum ("א*", "B*" = first hand) is legitimate text but a lone * can pair with a later one
-      add(
-        makeHit(
-          ctx,
-          i,
-          "S15",
-          /(?:[\u05D0-\u05EA]|\b[A-Z])\*(?=[\s,;.)\]])/u.test(body)
-            ? "siglum-asterisk"
-            : "odd-asterisk",
-          line.slice(0, 60),
-          0,
-        ),
-      );
+    // A manuscript siglum ("א*", "B*" = first hand) is legitimate text and,
+    // since Step 4 batch 1, can no longer open an italic span in the renderer,
+    // so only an odd asterisk count WITHOUT a siglum is flagged.
+    if (
+      (body.match(/\*/g) ?? []).length % 2 === 1 &&
+      !/(?:[\u05D0-\u05EA\u2135]|\b[A-Z])\*(?=[\s,;.)\]]|$)/u.test(body)
+    )
+      add(makeHit(ctx, i, "S15", "odd-asterisk", line.slice(0, 60), 0));
     if (/^\s*\|/.test(line) && /@@|\{[at]:/.test(line))
       add(makeHit(ctx, i, "S15", "marker-in-table", line.slice(0, 60), 0));
     const arrow = line.indexOf("->");
@@ -932,7 +917,7 @@ export function s15(ctx, add) {
 
 // ---------------------------------------------------------------- S16 structure cross-checks
 const KNOWN_TOC =
-  /^(?:TABLE OF CONTENTS|SUMÁRIO|INHALTSVERZEICHNIS|INDICE|ÍNDICE)$/;
+  /^(?:TABLE OF CONTENTS|SUMÁRIO|INHALTSVERZEICHNIS|INDICE|ÍNDICE|TABLA DE CONTENIDOS?)$/;
 export function s16(ctx, add) {
   if (!isChapterFile(ctx.path)) return;
   for (let i = 0; i < ctx.lines.length; i++) {

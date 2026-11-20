@@ -195,6 +195,7 @@ Inline markers authored in the content and converted at render time (`render-mar
 - Minimum: 44×44px (`min-h-11`)
 - Buttons: `min-h-12`
 - Small links: `min-h-8 min-w-8`
+- **Exception — inline text links** (WCAG 2.5.8 "inline"): a link inside a sentence of prose (e.g. the `(Rule N)` references, `.tt-ruleref`) keeps the line height; it must be underlined (not colour alone, WCAG 1.4.1) and show the focus ring.
 
 ### Bans
 - Never linear easing

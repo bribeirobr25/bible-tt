@@ -95,7 +95,7 @@
     "cls": "mojibake",
     "source": "en/genesis/PEOPLE.md:137",
     "zone": "apparatus",
-    "text": "**Key events:** First recorded polygamist (4:19); his son Yaval is father of tent-dwellers and livestock-keepers (4:20); his son Yuval is father of lyre and pipe players (4:21); his son Tuval-Qayin forges instruments of bronze and iron (4:22); sang the song of escalated violence to his wives (4:23–24) â\u0080\u0094 boasts of killing a man for wounding him and a young man for striking him; claims 77-fold vengeance against YHWH's 7-fold protection of Qayin (Cain)"
+    "text": "**Key events:** First recorded polygamist (4:19); his son Yaval is father of tent-dwellers and livestock-keepers (4:20); his son Yuval is father of lyre and pipe players (4:21); his son Tuval-Qayin forges instruments of bronze and iron (4:22); sang the song of escalated violence to his wives (4:23–24) â boasts of killing a man for wounding him and a young man for striking him; claims 77-fold vengeance against YHWH's 7-fold protection of Qayin (Cain)"
   },
   {
     "check": "S13",
@@ -145,12 +145,5 @@
     "source": "en/acts/INTRODUCTION.md:119",
     "zone": "apparatus",
     "text": "**[HISTORICAL — PROBABLE]**"
-  },
-  {
-    "check": "S8",
-    "cls": "pill-word≠badge-term",
-    "source": "de/acts/CHAPTER-1.md:12",
-    "zone": "front",
-    "text": "**Status:** provisorisch — ausstehende Begutachtung (Regel 28)"
   }
 ]

@@ -1,3 +1,4 @@
+import { useLocale } from "next-intl";
 import type { EnrichmentEntry } from "@/domain/content/types";
 import {
   renderInlineSafe,
@@ -11,6 +12,7 @@ import { ClaimBadge } from "./claim-badge";
  * deep-accent left border; title → dual-label chips → body → source.
  */
 export function EnrichmentEntryCard({ entry }: { entry: EnrichmentEntry }) {
+  const locale = useLocale();
   return (
     <div className="tt-enrich">
       <h4
@@ -23,7 +25,7 @@ export function EnrichmentEntryCard({ entry }: { entry: EnrichmentEntry }) {
       <div
         className="ebody [&_em]:italic"
         dangerouslySetInnerHTML={{
-          __html: renderMarkdownSafe(entry.content, "note"),
+          __html: renderMarkdownSafe(entry.content, "note", { locale }),
         }}
       />
       {entry.source && <SourceLine source={entry.source} />}

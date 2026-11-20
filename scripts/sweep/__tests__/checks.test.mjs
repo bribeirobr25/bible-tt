@@ -134,10 +134,10 @@ describe("zones", () => {
   });
   it("a TOC title the parser does not skip renders (S16)", () => {
     const c = ctxOf(
-      CHAPTER(["x"]).replace("## TABLE OF CONTENTS", "## TABLA DE CONTENIDOS"),
+      CHAPTER(["x"]).replace("## TABLE OF CONTENTS", "## CONTENTS"),
       "es/john/CHAPTER-1.md",
     );
-    expect(c.zones[c.lines.indexOf("## TABLA DE CONTENIDOS")]).toMatchObject({
+    expect(c.zones[c.lines.indexOf("## CONTENTS")]).toMatchObject({
       zone: "toc",
       render: "now",
     });
@@ -145,6 +145,12 @@ describe("zones", () => {
     expect(run(C.s16, ctxOf(CHAPTER(["x"]), "en/john/CHAPTER-1.md"))).toEqual(
       [],
     );
+    // the ES title is skipped by the parser since Step 4 batch 1
+    const es = ctxOf(
+      CHAPTER(["x"]).replace("## TABLE OF CONTENTS", "## TABLA DE CONTENIDOS"),
+      "es/genesis/CHAPTER-4.md",
+    );
+    expect(run(C.s16, es)).toEqual([]);
   });
   it("throws (tool error) when a chapter's zones cannot be resolved", () => {
     expect(() =>
@@ -171,8 +177,8 @@ describe("zones", () => {
       "apparatus/now", // G. is Curiosities in a companion (impl. review R1-1)
       "apparatus/now",
       "apparatus/now",
-      "apparatus/after-4a",
-      "apparatus/after-4a",
+      "apparatus/now", // Sources blocks render since Step 4 batch 1
+      "apparatus/now",
     ]);
     const intro = ctxOf(
       "# T\n## The Transparent Translation (TT)\n**Status:** provisional\n<!-- CARD -->\n**What:** Volume 2 of Luke\n<!-- /CARD -->\n## A. Overview\n### E\nt\n## G. Konsultierte Quellen\n- x\n## H. Herangezogene Quellen\n- y",
@@ -183,8 +189,8 @@ describe("zones", () => {
       render: "now",
     }); // the book card renders on the landing page (R1-4)
     expect(at("<!-- CARD -->", intro)).toMatchObject({ zone: "front" });
-    expect(at("- x", intro).render).toBe("after-4a");
-    expect(at("- y", intro).render).toBe("after-4a");
+    expect(at("- x", intro).render).toBe("now");
+    expect(at("- y", intro).render).toBe("now");
   });
   it("PROPHECY files: only entries with a Verse field render, and only their recognized fields and readings", () => {
     const c = ctxOf(
@@ -221,7 +227,7 @@ describe("zones", () => {
     expect(r("**Jewish**")).toBe("now");
     expect(r("not a reading")).toBe("no");
     expect(r("**Late**")).toBe("no"); // the blank line ended the readings
-    expect(r("- a book")).toBe("after-4a");
+    expect(r("- a book")).toBe("now");
   });
 });
 
@@ -633,7 +639,8 @@ describe("per-file checks", () => {
       }),
       "de/acts/CHAPTER-1.md",
     );
-    expect(cls(run(C.s8, de))).toEqual(["pill-word≠badge-term"]);
+    // retired in Step 4 batch 1: the pill prints the i18n term, not this word
+    expect(run(C.s8, de)).toEqual([]);
     const deOk = ctxOf(
       CHAPTER(["x"], { locale: "de", status: "vorläufig (Regel 28)" }),
       "de/acts/CHAPTER-1.md",
@@ -729,7 +736,6 @@ describe("per-file checks", () => {
       "ascii-arrow",
       "marker-in-table",
       "odd-asterisk",
-      "siglum-asterisk",
       "unbalanced-brace",
     ]);
   });

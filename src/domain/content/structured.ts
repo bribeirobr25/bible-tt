@@ -19,18 +19,22 @@ import {
   enrichmentEntryId,
   enrichmentSectionId,
   enrichmentSectionIntroId,
+  enrichmentSourcesId,
   enrichmentSubEntryId,
   glossaryId,
   introDisclaimerId,
   introEntryId,
   introSectionId,
+  introSourcesId,
   motifId,
   noteId,
   paragraphId,
+  peopleSourcesId,
   personId,
   personSubId,
   prophecyEntryId,
   prophecyReadingId,
+  prophecySourcesId,
   supplementaryId,
   verseId,
 } from "./ids";
@@ -66,7 +70,8 @@ export type StructuredKind =
   | "person-generation"
   | "person-region"
   | "book-context-disclaimer"
-  | "motif";
+  | "motif"
+  | "sources";
 
 export interface StructuredUnit {
   id: string;
@@ -217,7 +222,16 @@ export function emitEnrichment(data: EnrichmentData): StructuredUnit[] {
     });
   });
 
+  units.push(...sourcesUnit(enrichmentSourcesId(book, chapter), data.sources));
   return units;
+}
+
+/** A "Sources Consulted" block as one unit (conserved like any other text). */
+function sourcesUnit(
+  id: string,
+  sources: string | undefined,
+): StructuredUnit[] {
+  return hasText(sources) ? [{ id, kind: "sources", text: sources }] : [];
 }
 
 // ─── INTRODUCTION.md ──────────────────────────────────────────────────────────
@@ -258,6 +272,7 @@ export function emitIntroduction(data: IntroductionData): StructuredUnit[] {
     });
   });
 
+  units.push(...sourcesUnit(introSourcesId(book), data.sources));
   return units;
 }
 
@@ -298,6 +313,7 @@ export function emitProphecy(data: ProphecyData): StructuredUnit[] {
     });
   });
 
+  units.push(...sourcesUnit(prophecySourcesId(book, chapter), data.sources));
   return units;
 }
 
@@ -355,6 +371,7 @@ export function emitPeople(data: PeopleData): StructuredUnit[] {
     });
   });
 
+  units.push(...sourcesUnit(peopleSourcesId(book), data.sources));
   return units;
 }
 

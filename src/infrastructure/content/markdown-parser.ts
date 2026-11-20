@@ -11,7 +11,10 @@ import type {
 
 const SECTION_HEADER = /^## (.+)$/;
 const VERSE_HEADER = /^### \*\*(?:Verse|Versículo|Versiculo|Vers) (\d+)\*\*$/;
-const NOTE_TYPE_PREFIX = /^([🔴🟢🔵🟡])\s+\*\*(.+?)\*\*/u;
+// The bold title may contain one level of italics, including a trailing one
+// (`**TITLE — *WORD***`): the tempered body consumes `*WORD*` whole, so the
+// closing `**` is the last two stars, not the first two of `***`.
+const NOTE_TYPE_PREFIX = /^([🔴🟢🔵🟡])\s+\*\*((?:[^*]|\*[^*]+\*)+?)\*\*/u;
 const METADATA_LINE = /^\*\*(.+?):\*\*\s*(.+)$/;
 const TABLE_ROW = /^\|(.+)\|$/;
 
@@ -37,6 +40,10 @@ const SKIPPED_SECTIONS = new Set([
   "INHALTSVERZEICHNIS",
   "INDICE",
   "ÍNDICE",
+  // ES Genesis 4–6 title the TOC this way (sweep S16); it is navigation, not a
+  // supplementary section.
+  "TABLA DE CONTENIDOS",
+  "TABLA DE CONTENIDO",
 ]);
 
 const OVERVIEW_SECTIONS = new Set([
@@ -142,14 +149,19 @@ function extractMetadata(
   };
 }
 
+// The authored editorial note above the continuous reading ("Prose view of
+// the whole chapter…") is one italic span, possibly wrapped over lines. Only a
+// paragraph that is wholly such a span is dropped; a scripture paragraph that
+// merely starts with an added word (`*The* man…`, Rule 11 / Decision L1) stays.
+const EDITORIAL_NOTE_PARAGRAPH = /^\*[^*]+\*$/;
+
 function extractContinuousReading(content: string): Paragraph[] {
   const cleaned = content.replace(/^---\s*$/gm, "").trim();
-  const textBlock = cleaned.replace(/^\*.*?\*\s*$/gm, "").trim();
 
-  return textBlock
+  return cleaned
     .split(/\n\n+/)
     .map((p) => p.trim())
-    .filter((p) => p.length > 0 && !p.startsWith("*"))
+    .filter((p) => p.length > 0 && !EDITORIAL_NOTE_PARAGRAPH.test(p))
     .map((text) => ({ text }));
 }
 
@@ -175,6 +187,9 @@ function extractVerses(content: string): Verse[] {
     const mainTextLines: string[] = [];
     const noteLines: string[] = [];
     let inNotes = false;
+    // true while the previous line was a non-blank note line: a following
+    // unprefixed line is then a lazy blockquote continuation (part of the note).
+    let noteOpen = false;
 
     for (const line of block.lines) {
       if (
@@ -183,9 +198,17 @@ function extractVerses(content: string): Verse[] {
       ) {
         inNotes = true;
         noteLines.push(line);
+        noteOpen = line.replace(/^>\s?/, "").trim().length > 0;
       } else if (line === "---") {
-        break;
-      } else if (!inNotes && line.trim().length > 0) {
+        noteOpen = false;
+      } else if (line.trim().length === 0) {
+        noteOpen = false;
+      } else if (noteOpen) {
+        noteLines.push(line);
+      } else {
+        // Verse text normally precedes the notes; text authored after the
+        // notes (past a blank line) or after a `---` used to be dropped
+        // silently (audit §3.2). It is kept as verse text so nothing is lost.
         mainTextLines.push(line);
       }
     }
@@ -248,10 +271,14 @@ function extractGlossary(content: string): GlossaryEntry[] {
 
   const entries: GlossaryEntry[] = [];
   for (let i = 2; i < rows.length; i++) {
+    // Keep empty cells so a blank column never shifts the next one left
+    // (audit B3); only the outer pipes are stripped.
     const cells = rows[i]
+      .trim()
+      .replace(/^\|/, "")
+      .replace(/\|$/, "")
       .split("|")
-      .map((c) => c.trim())
-      .filter((c) => c.length > 0);
+      .map((c) => c.trim());
     if (cells.length >= 2) {
       entries.push({
         sourceWord: cells[0].replace(/\*\*/g, ""),

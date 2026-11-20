@@ -35,7 +35,7 @@ describe("Introduction Parser", () => {
       const ids = data.sections.map((s) => s.id);
       expect(ids).toContain("overview");
       expect(ids).toContain("authorship");
-      expect(ids).toContain("sources");
+      expect(ids).not.toContain("sources");
     });
 
     it("entries have valid claim types and confidence levels", async () => {
@@ -55,10 +55,11 @@ describe("Introduction Parser", () => {
       spy.mockRestore();
     });
 
-    it("sources section exists and is populated", async () => {
+    it("sources block is captured and populated, not a section", async () => {
       const data = await loadIntroduction();
-      const sources = data.sections.find((s) => s.id === "sources");
-      expect(sources).toBeDefined();
+      expect(data.sections.find((s) => s.id === "sources")).toBeUndefined();
+      expect(data.sources).toBeDefined();
+      expect(data.sources).toMatch(/\|.*\|/);
     });
 
     it("parses the book card (5 labelled fields)", async () => {

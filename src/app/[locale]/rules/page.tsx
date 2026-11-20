@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { getTranslations, setRequestLocale } from "next-intl/server";
+import { ALL_RULE_NUMS } from "@/domain/rules/ruleset";
 import {
   breadcrumbJsonLd,
   canonicalUrl,
@@ -13,7 +14,6 @@ import { renderInlineSafe } from "@/ui/shared/render-markdown-safe";
 const PRIME = ["rulesPrime1", "rulesPrime2", "rulesPrime3", "rulesPrime4"];
 const ROMAN = ["i", "ii", "iii", "iv"];
 const EXAMPLES = [1, 2, 3, 11, 25] as const;
-const ALL_RULE_NUMS = Array.from({ length: 29 }, (_, i) => i + 1);
 
 export async function generateMetadata({
   params,
@@ -120,7 +120,7 @@ export default async function RulesPage({
         </div>
       </section>
 
-      {/* ALL 29 — dark */}
+      {/* ALL RULES (RULES-CORE 1–30) — dark */}
       <section className="tt-section bg-dark">
         <div className="max-w-[1320px] mx-auto px-[clamp(18px,4vw,52px)]">
           <div className="tt-grid-head">
@@ -128,7 +128,7 @@ export default async function RulesPage({
               className="tt-bignum reveal"
               style={{ color: "var(--color-petrol)" }}
             >
-              29
+              {ALL_RULE_NUMS.length}
             </div>
             <div>
               <p className="tt-kick reveal">{t("landing.rulesAllKick")}</p>
@@ -139,7 +139,7 @@ export default async function RulesPage({
           </div>
           <div className="tt-rules-grid">
             {ALL_RULE_NUMS.map((n) => (
-              <div key={n} className="tt-rule reveal">
+              <div key={n} id={`rule-${n}`} className="tt-rule reveal">
                 <div className="rnum">{String(n).padStart(2, "0")}</div>
                 <div>
                   <div className="rname">{t(`landing.rule${n}name`)}</div>
