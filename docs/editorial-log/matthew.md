@@ -1,10 +1,10 @@
 # Editorial Log — Gospel of Matthew
 
-**Ruleset version in force:** v3.3
+**Ruleset version in force:** v3.4.1
 **Book:** Gospel of Matthew (Κατὰ Μαθθαῖον)
 **Base text:** Nestle-Aland 28th ed.
 **Maintainer:** Project Lead
-**Format:** per v3.3 Editorial Log Specification
+**Format:** per v3.4.1 Editorial Log Specification
 
 This log records consistency decisions, justified exceptions, text-critical choices, and any deviations from the default ruleset. Backfilled entries for decisions already encoded in Matthew 1-3 chapter files across all 4 locales.
 
@@ -203,13 +203,13 @@ Option B (slash) is adopted instead because: (a) the project's Prime Directive p
 - **Verse:** PT-BR + ES Matthew 1–3 — verse text + overview prose
 - **Language(s) affected:** PT-BR, ES
 - **Rule(s) invoked:** RULES-CORE.md Rule 20 (Capitalization)
-- **Decision:** Lowercased recognized-title forms in verse text + overview prose: `Filho do Homem` → `filho do homem`; `Filho de Deus` → `filho de Deus`; `o Filho` (standalone) → `o filho`. Same patterns applied to ES. Title Case retained inside notes / headings / tables when the title is the scholarly object of discussion. Pilate-title `rei dos Yehudim` / `rey de los Yehudim` (Mt 2:2) was already lowercase in PT-BR + ES — confirmed parity with EN `king of the Yehudim`.
+- **Decision:** Lowercased recognized-title forms in verse text + overview prose: `Filho do Homem` → `filho do homem`; `Filho de Deus` → `filho de Deus`; `o Filho` (standalone) → `o filho`. Same patterns applied to ES. Title Case retained inside notes / headings / tables when the title is the scholarly object of discussion. [**2026-11-20 note:** for **"son of man" only** (*filho do homem* / *hijo del hombre*), the "Title Case retained inside notes" clause is **superseded** by Launch-Program decision D8 + Rule 20 as amended in v3.4.1 → Entry M-035 — lowercase in all body text, notes and companions included; headings keep heading case; a sentence that quotes another work, or names the title as later tradition wrote it, keeps the quoted form; DE keeps grammatical noun capitalization. For the other titles in this clause (*Filho de Deus* / *Hijo de Dios*, *o Filho* / *el Hijo*) the notes clause is **unchanged** — whether to extend lowercase to them is an open question for the lead (`docs/audit/PENDING.md`). The verse-text lowercasing stands.] Pilate-title `rei dos Yehudim` / `rey de los Yehudim` (Mt 2:2) was already lowercase in PT-BR + ES — confirmed parity with EN `king of the Yehudim`.
 - **Alternatives considered:** Normalize EN to Title Case (rejected — see J-018 sister entry). Document asymmetry per locale (rejected — see J-018 sister entry).
 - **Justification:** Cross-book parity with John (J-018) and ES + DE conventions. The Matthew Gospel uses "Son of Man" / "Son of God" / "the only-born son" similarly to John; the same lowercase verse-text rule applies.
 - **AI provenance:** claude-opus-4-7, 2026-05-09, Phase 6A audit follow-up of `docs/audit/FIX_IMPLEMENTATION.md`
 - **Status:** provisional
 - **Reviewers:** PT-BR editor unassigned; ES editor unassigned; Hellenist unassigned
-- **Cross-references:** `docs/audit/FIX_IMPLEMENTATION.md` Phase 6A audit closure; `docs/editorial-log/genesis.md` Entry 2026-05-09-099 (parent decision); `docs/editorial-log/john.md` Entry J-018 (sister entry); `docs/feedback/FEEDBACK.md` item 14
+- **Cross-references:** partly superseded → Entry M-035 (2026-11-20; the notes Title Case clause, for "son of man" only); `docs/audit/FIX_IMPLEMENTATION.md` Phase 6A audit closure; `docs/editorial-log/genesis.md` Entry 2026-05-09-099 (parent decision); `docs/editorial-log/john.md` Entry J-018 (sister entry); `docs/feedback/FEEDBACK.md` item 14
 
 ---
 
@@ -555,3 +555,55 @@ Option B (slash) is adopted instead because: (a) the project's Prime Directive p
 - **AI provenance:** claude-opus-4-8 (1M), 2026-06-21. Gates green (882 tests; conservation 11,831; lint/content:lint/build).
 - **Status:** provisional. **Reviewers:** locale-editors / Hellenist (Rule 28) unassigned.
 - **Cross-references:** `PLAN_METHODOLOGY_RESTAMP.md`; `EXECUTION_HISTORY.md` (Methodology-stamp re-stamp, 2026-06-21); john.md J-036; M-004 (malakh exclusion rationale).
+
+---
+
+## Launch Program decisions (2026-11-19/20)
+
+Decisions taken by the project lead in the Launch-Readiness Program (`docs/audit/LAUNCH_PROGRAM.md` D7–D9; `docs/audit/CONTENT_SWEEP_FINDINGS.md` §3 L1–L8). Recorded here before the content changes ("log before drafting"); the content is changed in the Step 4 batch named in each entry (`docs/audit/PLAN_LAUNCH_FIXES.md`).
+
+- **Ruleset:** this log now runs under **v3.4.1** (RULES-CORE amendment of 2026-11-20 — `docs/rules/CHANGELOG-v3.4.md`).
+- **Content re-stamp (2026-11-20, Step 4 batch 2):** 125 front-matter stamp fields + 8 prose stamps were re-stamped Ruleset v3.3 → v3.4 across `content/`; in Matthew, **29 stamp fields** (no prose stamp). The 4 Luke 3 "v3.3.2 cross-book convention" citations were kept. Stamp only — no translation change (precedent: M-034).
+- **PT register (L6):** corpus-wide entry **john.md J-037** (*vós* kept in PT verse text). It names **Matthew 3:9** (*entre vocês*, the one non-John `vocês` in the sweep — 2 tokens: verse study + continuous reading), the `vocês`-register verb forms around it (3:2–3, 3:8–9: *Mudem*, *Preparem*, *Produzam*, *não pensem*) and the same-register object pronouns (3:7 *quem os advertiu*, 3:9 *eu lhes digo*, 3:11 *Eu os imerjo* / *ele os imergerá*); all convert to *vós* forms in Step 4 batch 4, both reading copies.
+- **D7 (ψυχή / נֶפֶשׁ = life/being):** no ψυχή in Matthew 1–3 verse text. One TT-voice note restates "soul": **DE Matthew 3:17** note (`content/de/matthew/CHAPTER-3.md` ~:310) quotes Isa 42:1 as „an dem meine Seele Wohlgefallen hat" (נַפְשִׁי, bare נֶפֶשׁ). It is in the batch-4 D7 sweep (acts.md A-010; genesis.md 2026-11-20-122 for the HB row); EN/PT/ES do not use "soul" there.
+- **L1 (contractions):** M-006's DE "vom" marking is the form now made corpus-wide — see mark.md 2026-11-20-009.
+
+## Entry M-035 — "son of man" lowercase in notes too (D8)
+
+- **Verse:** Matthew book-wide policy — verse text, overview prose, notes and companions. Matthew 1–3 has no ὁ υἱὸς τοῦ ἀνθρώπου and no "Son of Man" / *Filho do Homem* / *Hijo del Hombre* in any file (checked 2026-11-20), so nothing in the current Matthew content changes; the entry governs later chapters.
+- **Language(s) affected:** EN, PT-BR, ES (DE: grammatical noun capitalization unchanged)
+- **Rule(s) invoked:** CORE Rule 20 (titular nouns; as amended in v3.4.1 for decision D8: "son of man" is lowercase in all body text, notes and companions included).
+- **Decision:** "son of man" / *filho do homem* / *hijo del hombre* is lowercase in all body text, notes and companions included. Section headings keep heading case; a sentence that quotes another work, or names the title as later tradition wrote it, keeps the quoted form; DE keeps its grammatical capitals. M-013's notes Title Case clause is superseded **for "son of man" only**.
+- **Not covered:** the other titular nouns M-013 kept in Title Case inside notes ("Son of God" / *Filho de Deus* / *Hijo de Dios*, *o Filho* / *el Hijo*) are **unchanged** by v3.4.1. Whether to extend lowercase to them in notes is an open question for the lead (`docs/audit/PENDING.md`); until it is decided, M-013 governs them.
+- **Alternatives considered:**
+  - Keep Title Case in notes as "the recognized translation" (rejected: the lead's D8 ruling is "everywhere").
+- **Justification:** one form per locale across text and notes; Rule 20 as amended for D8.
+- **AI provenance:** drafted by the AI assistant (claude-opus-5-5), 2026-11-20, executing lead decision D8 (2026-11-19). Step 4 batch 2; narrowed to "son of man" on 2026-11-20 after review.
+- **Status:** provisional
+- **Reviewers:** unassigned
+- **Cross-references:** supersedes M-013 in part ("son of man" in notes only); genesis.md 2026-11-20-121 (parent); john.md J-039; mark.md 2026-11-20-008; `docs/audit/PENDING.md` (the open lead question on the other titular nouns).
+
+---
+
+## Entry M-036 — AI-provenance record for Matthew (Rule 28)
+
+- **Verse:** Matthew 1–3, whole book — all locales.
+- **Language(s) affected:** EN, PT-BR, DE, ES
+- **Rule(s) invoked:** CORE Rule 28 (as amended in v3.4.1 — full provenance kept in the internal record, a plain statement for readers); CORE §Editorial Log Specification (AI provenance field).
+- **Decision:** record in this log the models and dates that Matthew's reader-facing provenance lines state, before Step 4 batch 3 replaces them with the plain statement (L5). This log named Claude Opus 4.7 (M-018) but recorded Claude Opus 4.6 only in passing (M-011, quoting the PEOPLE footer).
+  - **Reader-facing lines (7 per locale, 28 in all; `ai-provenance-record.tsv`):**
+    - INTRODUCTION, PEOPLE — "Editorial provenance: Drafted by Claude Opus 4.6 (1M context) on 2026-04-27. Not yet reviewed." (ES "27-04-2026").
+    - study/CHAPTER-1/2/3-CONTEXT — "Drafted by: AI (Claude, Anthropic)" + "Date: 2026-04-27" (no model named).
+    - study/CHAPTER-1/2-PROPHECY — "Drafted by: Claude Opus 4.7 (AI assistant)" + "Date: 2026-05-13" + "Phase: 11 Option C".
+  - **Models:** Claude Opus 4.6 (`claude-opus-4-6`; "1M context" in the INTRODUCTION/PEOPLE lines) — INTRODUCTION, PEOPLE and, by the same date, the three chapter CONTEXT companions, 2026-04-27; Claude Opus 4.7 (`claude-opus-4-7`) — the two PROPHECY companions, 2026-05-13 (Phase 11 Option C, M-018).
+  - The CONTEXT companions' lines name no model; attributing them to Opus 4.6 rests on the shared date 2026-04-27, not on a separate record. The chapter files carry no provenance line.
+  - **Reviewer decision:** none yet — all content `provisional`.
+- **Alternatives considered:**
+  - Rely on the TSV record alone (rejected: Rule 28 / the log schema require the record in the book's editorial log).
+- **Justification:** each book log names the model(s) and date(s) its reader-facing lines state (precedent: 1-peter.md P-013).
+- **AI provenance:** drafted by the AI assistant (claude-opus-5-5), 2026-11-20, from `ai-provenance-record.tsv` and this log. Step 4 batch 2 (review fixes).
+- **Status:** provisional
+- **Reviewers:** unassigned
+- **Cross-references:** `docs/editorial-log/ai-provenance-record.tsv`; M-011, M-018; 1-peter.md P-013.
+
+---

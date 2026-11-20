@@ -10,7 +10,7 @@
 **Capítulo:** Juan 2
 **Idioma:** Español
 **Compañero de:** `es/john/CHAPTER-2.md` (Edición Transparente)
-**Reglas:** v3.3 (La Regla 29 rige este archivo)
+**Reglas:** v3.4 (La Regla 29 rige este archivo)
 **Estado:** provisional
 
 ---

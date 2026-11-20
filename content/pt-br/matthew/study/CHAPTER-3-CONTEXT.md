@@ -10,7 +10,7 @@
 **Capítulo:** Mateus 3
 **Idioma:** Português Brasileiro
 **Complemento de:** `pt-br/matthew/CHAPTER-3.md` (Edição Transparente)
-**Conjunto de Regras:** v3.3 (Regra 29 governa este arquivo)
+**Conjunto de Regras:** v3.4 (Regra 29 governa este arquivo)
 **Status:** provisório
 
 ---

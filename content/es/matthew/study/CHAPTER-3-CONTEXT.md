@@ -10,7 +10,7 @@
 **Capítulo:** Mateo 3
 **Idioma:** Español
 **Compañero de:** `es/matthew/CHAPTER-3.md` (Edición Transparente)
-**Reglas:** v3.3 (La Regla 29 gobierna este archivo)
+**Reglas:** v3.4 (La Regla 29 gobierna este archivo)
 **Status:** provisorio
 
 ---

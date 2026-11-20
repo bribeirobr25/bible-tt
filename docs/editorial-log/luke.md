@@ -1,10 +1,10 @@
 # Editorial Log — Gospel of Luke
 
-**Ruleset version in force:** v3.4
+**Ruleset version in force:** v3.4.1
 **Book:** Gospel of Luke (Κατὰ Λουκᾶν)
 **Base text:** Nestle-Aland 28th ed. (NA28)
 **Maintainer:** Project Lead
-**Format:** per v3.4 Editorial Log Specification
+**Format:** per v3.4.1 Editorial Log Specification
 
 This log records consistency decisions, justified exceptions, text-critical choices, and any deviations from the default ruleset for Luke 1–3. All content is **provisional** pending a credentialed Hellenist review (Rule 28). Authored EN-first from NA28, then propagated to PT-BR / DE / ES.
 
@@ -56,3 +56,47 @@ This log records consistency decisions, justified exceptions, text-critical choi
 - **Cross-book PEOPLE:** 3 see-stubs `**Ver:** matthew/PEOPLE.md` + `**En Lucas:**`; genealogy table (76 rows) localized. CARD + dual-labels registered es forms.
 - **AI provenance:** claude-opus-4-8 (1M) + subagents, 2026-06-23. Gates: 886 tests; conservation 288 files/15945 units; content:lint clean (1 pre-existing genesis warn); biome lint (registry.ts re-formatted multiline); build; served HTML ustedes-only + no peninsular leakage + visual (Lucas 2 Read). Status provisional (Rule 28).
 - **Cross-references:** `PLAN_LUKE_EXPANSION.md`; L-003 (PT-BR); L-004 (DE).
+
+---
+
+## Launch Program decisions (2026-11-19/20)
+
+Decisions taken by the project lead in the Launch-Readiness Program (`docs/audit/LAUNCH_PROGRAM.md` D7–D9; `docs/audit/CONTENT_SWEEP_FINDINGS.md` §3 L1–L8). Recorded here before the content changes ("log before drafting"); the content is changed in the Step 4 batch named in each entry (`docs/audit/PLAN_LAUNCH_FIXES.md`). No earlier Luke entry states a superseded position, so nothing above is annotated.
+
+- **Ruleset:** this log now runs under **v3.4.1** (RULES-CORE amendment of 2026-11-20 — `docs/rules/CHANGELOG-v3.4.md`).
+- **Content re-stamp (2026-11-20, Step 4 batch 2):** 125 front-matter stamp fields + 8 prose stamps were re-stamped Ruleset v3.3 → v3.4 across `content/` (Genesis, John, Matthew). **No Luke file changed**: Luke's stamps already read v3.4, and the 4 Luke 3 "v3.3.2 cross-book convention" citations were kept (batch 3 removes the phrase as a reader-facing process leak).
+- **PT register (L6):** corpus-wide entry **john.md J-037** (*vós* kept in PT verse text).
+
+## Entry L-006 — ψυχή = life/being (D7)
+
+- **Verse:** Luke 1:46 ("My soul magnifies the Lord"), 2:35 ("a sword will pass through your own soul") — verse study + continuous reading; book-wide policy. (Notes quoting Isa 42:1 "my soul delights" at 3:22 render נֶפֶשׁ, not Luke's ψυχή; they follow the same lock as TT-voice prose under L4.)
+- **Language(s) affected:** EN, PT-BR, DE, ES
+- **Rule(s) invoked:** GS §Locked Glossary (ψυχή = life/being · vida/ser · Leben/Wesen · vida/ser); GS §Cross-Supplement Glossary Alignment (ψυχή ↔ נֶפֶשׁ); HB §Locked Glossary (bare-נֶפֶשׁ row, v3.4.1); CORE Rule 1.
+- **Decision:** ψυχή is rendered from the locked **life/being** pair (PT *vida/ser*, DE *Leben/Wesen*, ES *vida/ser*), the context choosing the member; exact wording fixed in **Step 4 batch 4**, with any departure from the pair logged as a Rule 1 deviation then. The lead re-confirmed the lock on 2026-11-19 knowing it re-renders Luke 1:46 (named in D7).
+- **Alternatives considered:**
+  - "soul" in the Magnificat as the familiar liturgical form (rejected: the lock is corpus-wide, and liturgical familiarity is not a ground for a Rule 1 deviation; post-Platonic "soul" narrows the Greek's "whole living self").
+  - Log 1:46 as a standing Rule 1 deviation (rejected by the lead's re-confirmation of D7).
+- **Justification:** the RULES-GS lock + the נֶפֶשׁ alignment; RULES-CORE §I3 and the new RULES-HB bare-נֶפֶשׁ row (v3.4.1) state the same rendering.
+- **AI provenance:** drafted by the AI assistant (claude-opus-5-5), 2026-11-20, executing lead decision D7 (2026-11-19). Step 4 batch 2.
+- **Status:** provisional
+- **Reviewers:** unassigned
+- **Cross-references:** acts.md A-010; 1-peter.md (2026-11-19 D7 note); genesis.md 2026-11-20-122 (HB row); L-002 (canticles).
+
+---
+
+## Entry L-007 — χριστός follows the GS lock "the anointed one" (Luke 2)
+
+- **Verse:** Luke 2:11 ("Messiah, Lord" — Χριστὸς κύριος), 2:26 ("the Messiah of *the* Lord" — τὸν Χριστὸν κυρίου) — verse text, notes and the chapter-2 glossary row that says "The TT renders 'Messiah'". Luke 3:15 already reads "the anointed one".
+- **Language(s) affected:** EN, PT-BR, DE, ES
+- **Rule(s) invoked:** GS §Locked Glossary (χριστός = anointed one · ungido · Gesalbter · ungido); CORE Rule 20 (titular nouns lowercase); CORE Rule 1.
+- **Decision:** χριστός = **"the anointed one"** (lowercase descriptor; capitalized only as a proper name). Indicative wording (fixed in batch 4): 2:11 "anointed one, Lord" (the NA28 nominatives and the apposition-vs-"the Lord's anointed" crux note kept); 2:26 "the anointed one of *the* Lord", which also makes the LXX *mashiach YHWH* echo ("the Lord's anointed", 1 Sam 24:7) visible. Applied in **Step 4 batch 4**.
+- **Alternatives considered:**
+  - Keep "Messiah" in Luke 2 (rejected: splits the book — 3:15 already follows the lock — and the GS glossary never allowed "Messiah").
+  - Amend the GS glossary and Rule 20 to allow "Messiah" (L7 option B — not chosen by the lead).
+- **Justification:** one locked rendering across the corpus; the 2:11 crux stays visible through the note, not through a capitalized title.
+- **AI provenance:** drafted by the AI assistant (claude-opus-5-5), 2026-11-20, executing lead decision L7 (approved 2026-11-20). Step 4 batch 2.
+- **Status:** provisional
+- **Reviewers:** unassigned
+- **Cross-references:** acts.md A-009; 1-peter.md P-012; mark.md 2026-06-17-001; `CONTENT_SWEEP_FINDINGS.md` S17.
+
+---

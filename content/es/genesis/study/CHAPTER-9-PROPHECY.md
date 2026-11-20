@@ -5,7 +5,7 @@
 
 **Capítulo:** Genesis 9
 **Idioma:** Español
-**Reglas:** v3.3 (Regla 29 rige este archivo)
+**Reglas:** v3.4 (Regla 29 rige este archivo)
 **Estado:** provisional
 
 ---

@@ -10,7 +10,7 @@
 **Kapitel:** Johannes 3
 **Sprache:** Deutsch
 **Begleitung zu:** `de/john/CHAPTER-3.md` (Transparente Ausgabe)
-**Regelwerk:** v3.3 (Regel 29 regelt diese Datei)
+**Regelwerk:** v3.4 (Regel 29 regelt diese Datei)
 **Status:** provisorisch
 
 ---

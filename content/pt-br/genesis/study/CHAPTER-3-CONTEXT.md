@@ -10,7 +10,7 @@
 **Capítulo:** Genesis 3
 **Idioma:** Português Brasileiro
 **Acompanha:** `pt-br/genesis/CHAPTER-3.md` (Edição Transparente)
-**Regras:** v3.3 (Regra 29 governa este arquivo)
+**Regras:** v3.4 (Regra 29 governa este arquivo)
 **Status:** provisório
 
 ---

@@ -10,7 +10,7 @@
 **Capítulo:** Genesis 7
 **Idioma:** Português Brasileiro
 **Acompanha:** `pt-br/genesis/CHAPTER-7.md` (Edição Transparente)
-**Regras:** v3.3 (Regra 29 governa este arquivo)
+**Regras:** v3.4 (Regra 29 governa este arquivo)
 **Status:** provisório
 
 ---

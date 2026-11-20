@@ -7,17 +7,17 @@ The Transparent Translation (TT) — a multilingual Bible translation project wi
 ## Verified state
 
 - **Scope:** Genesis 1–12, John 1–3, Matthew 1–3, Mark 1–3, Luke 1–3, Acts 1–3, 1 Peter 1–5 — **all seven books at full four-locale parity** (EN, PT-BR, DE, ES). Each book has chapters + INTRODUCTION + PEOPLE + study companions (CONTEXT, and PROPHECY where warranted). (Acts propagated 2026-06-24; **1 Peter — the corpus's first *complete* NT book and the EPISTLE GENRE PILOT — EN authored from NA28 2026-06-26 + propagated to PT-BR/DE/ES 2026-07-01**; genre-adapted per playbook T-16: §D3 Epistolary Conventions, thin PEOPLE (no genealogy), OT-in-argument PROPHECY, `1-peter` = the first leading-digit slug [Phase 0a widened 2 cross-book slug regexes]. All provisional pending Hellenist + locale-editor — Rule 28.)
-- **Rulesets:** RULES-CORE **v3.4** · RULES-HB **v3.3.1** · RULES-GS **v3.2** (lock). 30 rules total. (v3.4 adds Rule 30 — divine-speech marking — + the Text-Highlight Markers convention: `*added*`/`{t:…}`/`{a:…}`/`@@…@@`.)
-- **Tests:** 1,100 passing across 31 files (`pnpm test`); `pnpm build`, `pnpm lint`, `pnpm typecheck`, `pnpm content:lint` all clean; **CI** (GitHub Actions `Gate`) runs the same on every PR. (Conservation gate: 408 files / 20,676 units.)
+- **Rulesets:** RULES-CORE **v3.4.1** · RULES-HB **v3.4.1** · RULES-GS **v3.4.1** (one release; supplement versions name the CORE release that amended them). 30 rules total. (v3.4 added Rule 30 — divine-speech marking — + the Text-Highlight Markers `*added*`/`{t:…}`/`{a:…}`/`@@…@@`; **v3.4.1** (2026-11-20) states the Launch-Program decisions D7–D10, L1, L4–L6 — `docs/rules/CHANGELOG-v3.4.md`.) Content is stamped v3.4.
+- **Tests:** 1,106 passing across 31 files (`pnpm test`); `pnpm build`, `pnpm lint`, `pnpm typecheck`, `pnpm content:lint` all clean; **CI** (GitHub Actions `Gate`) runs the same on every PR. (Conservation gate: 408 files / 20,676 units.)
 - **UX/Structure program (Phases 1–5, committed 2026-06):** SEO baseline (Phase 1); derived `StructuredUnit` layer + stable IDs guarded by the conservation gate (`__tests__/conservation.test.ts` — proves zero loss in the *parser→structured derivation*; chapter-completeness + inventory guards backstop raw-markdown coverage; markdown stays source of truth) (Phase 2); **3-door IA — Read · Notes · Deeper** (`ChapterShell`/`DoorNav`/`NotesView`/`DeeperView`; `/context`→`/background`; verse `#v{n}` anchors) (Phase 3); content-QA + chapter-completeness guard (Phase 4); UX finish — teal/petrol accent `#006475`, civilizational landing, `/start` reading-plan, book "tight cards" (`<!-- CARD -->`→`BookCard`), and **chapter-overview de-jargon across all locales (Pattern C complete 2026-06-10)** (Phase 5). §I "World at the Time": two-level parser/UI + inline-`**Source:**` lift, then **§I Option C — per-category dating-scenario labels across all of Genesis 1–12 (2026-06-12, provisional)** + §I section-intro recovery. Per-item detail → `docs/audit/EXECUTION_HISTORY.md`.
-- **Current program (2026-11-19):** the **Launch-Readiness Program** — `docs/audit/LAUNCH_PROGRAM.md` (lead decisions D1–D16 + 5 steps: baseline incl. 1 Peter merge → safety net → content sweep → fixes → launch at `bible-translation.breno-bar.com`). **Steps 1–3 done 2026-11-19/20 (PR #15, PR #16, PR #17); L1–L8 approved 2026-11-20; Step 4 (Fixes) in progress in 8 batches — `docs/audit/PLAN_LAUNCH_FIXES.md` (batch 1 = code).** Findings: `docs/audit/PROJECT_STATE_AUDIT.md`. It supersedes the "Next up" line below until launch.
+- **Current program (2026-11-19):** the **Launch-Readiness Program** — `docs/audit/LAUNCH_PROGRAM.md` (lead decisions D1–D16 + 5 steps: baseline incl. 1 Peter merge → safety net → content sweep → fixes → launch at `bible-translation.breno-bar.com`). **Steps 1–3 done 2026-11-19/20 (PR #15, PR #16, PR #17); L1–L8 approved 2026-11-20; Step 4 (Fixes) in progress in 8 batches — `docs/audit/PLAN_LAUNCH_FIXES.md` (batch 1 = code, merged; batch 2 = rules & docs → Ruleset v3.4.1).** Findings: `docs/audit/PROJECT_STATE_AUDIT.md`. It supersedes the "Next up" line below until launch.
 - **Next up (post-launch):** the **NT Epistles** continue (1 Peter done — the genre pilot) — **Galatians** (tightest Acts interlock), then **Romans**, **James**; each its own audited `PLAN_{BOOK}_EXPANSION.md`, genre-adapted per T-16. Also **Genesis 13–50 (Phase 12)** — the largest remaining work; its §I follows the established Option C structure (collapsible dating scenarios with per-category `**[claim — confidence]**` labels). Then Phase 6 (search) and the cross-book canonical PEOPLE source-merge. All 2026-06/07 content ships `provisional` pending **Rule-28 sign-off** (Hellenist for the GS books; the §I per-category confidence labels are the specific source-scholar review item). See `docs/audit/PENDING.md`.
 
 Pointers (do not duplicate their content here):
 - Development workflow (setup on **port 3001**, definition-of-done gate, branch/commit conventions, content + planning loops) → `CONTRIBUTING.md`
 - Execution history (completed phases/bundles + ruleset trail) → `docs/audit/EXECUTION_HISTORY.md`
 - Open items → `docs/audit/PENDING.md` (single forward-looking tracker)
-- Per-decision rationale → `docs/editorial-log/` (genesis.md, john.md, matthew.md, transliteration-decisions.md)
+- Per-decision rationale → `docs/editorial-log/` (one log per book + transliteration-decisions.md; internal AI-provenance record `ai-provenance-record.tsv`)
 - Source-language analysis method + worked-example corpus → `docs/source-analysis/` (internal)
 
 *Update protocol: when work lands, refresh the scope/test lines above and record the detail in the editorial log + `EXECUTION_HISTORY.md`. Keep this section a compact snapshot — do not let it grow back into a changelog.*
@@ -37,15 +37,16 @@ bible-tt/
 │   ├── audit/                # PENDING.md + EXECUTION_HISTORY.md (+ DAAT idiom draft, pending)
 │   ├── editorial-log/        # Decision logs (genesis, john, matthew, mark, luke, acts, 1-peter, transliteration-decisions)
 │   ├── implementation/       # SCHEMA-FUTURE.sql (deferred user-features schema)
-│   ├── guides/               # HOW-TO-READ-TT.md
+│   ├── guides/               # HOW-TO-READ-TT.md + AUTHORING-PLAYBOOK.md
 │   └── templates/            # Companion + book-introduction templates
 ├── src/                      # Next.js web application
-│   ├── app/[locale]/[book]/  # Book landing, chapter/, introduction/, people/, context/ sub-pages
+│   ├── app/[locale]/         # Landing, books/, start/, rules/, not-found + [...rest] (404)
+│   ├── app/[locale]/[book]/  # Book landing, chapter/, introduction/, people/, background/ sub-pages
 │   ├── domain/               # Pure domain types (no framework deps)
 │   ├── infrastructure/       # Adapters (5 parsers; i18n; fs-content-repository)
-│   ├── ui/                   # Presentation (reading/, study/, enrichment/, people/, navigation/, shared/)
-│   ├── hooks/                # React hooks
-│   └── lib/                  # Utilities and content loader
+│   ├── ui/                   # Presentation (reading/, study/, enrichment/, prophecy/, people/, navigation/, marketing/, shared/)
+│   ├── lib/                  # Utilities and content loader
+│   └── proxy.ts              # next-intl locale routing (Next 16 proxy, was middleware)
 └── public/                   # Static assets
 ```
 
@@ -53,6 +54,9 @@ bible-tt/
 
 | Route | Content |
 |-------|---------|
+| `/{locale}` | Landing page |
+| `/{locale}/books` | All books (corpus labels, chapter ranges) |
+| `/{locale}/rules` | The 30 rules (cards `#rule-N`; "(Rule N)" references in content link here) |
 | `/{locale}/start` | "Start here" reading plan — "Why this order?" + 7-step roadmap (available-now links + coming-soon) |
 | `/{locale}/{book}/` | Book landing — **at-a-glance card** (What·When·Who·To-whom·Why) + Read-full-intro link + **Start reading** CTA + chapter list + entry points (People / Background) |
 | `/{locale}/{book}/introduction` | Full book introduction |
@@ -82,7 +86,7 @@ Governed by `docs/architecture/STANDARDS.md`. Key decisions:
 - **Static-first:** authored markdown parsed at build time. No database, no API; pages served from CDN.
 - **DDD layers:** `domain/` (pure types) → `infrastructure/` (adapters) → `ui/` (components) → `app/` (routing). Domain knows nothing about Next.js.
 - **Content pipeline:** 5 parser files in `src/infrastructure/content/` → `markdown-parser` (chapters → `ChapterData`), `enrichment-parser` (companions → `EnrichmentData`; also hosts `parseIntroductionMarkdown` → `IntroductionData`), `people-parser` (PEOPLE.md → `PeopleData`), `prophecy-parser` (→ `ProphecyData`), `book-context-parser` (CONTEXT.md → `BookContextData`).
-- **Cross-book PEOPLE pattern (RULES-CORE.md Rule 29, v3.3.2):** when a person spans books, one canonical entry lives in the "canonical home" book's PEOPLE.md; other books use a see-only stub (`**See:** {book}/PEOPLE.md` + `**In <Book>:** [role]`). Parser, UI (`CrossBookSeeField`), and `bookLabels` map handle this with a dangling-pointer fallback. See RULES-CORE.md for the 5-change new-book activation checklist before adding any new book's PEOPLE.md.
+- **Cross-book PEOPLE pattern (RULES-CORE.md Rule 29, v3.3.2):** when a person spans books, one canonical entry lives in the "canonical home" book's PEOPLE.md; other books use a see-only stub (`**See:** {book}/PEOPLE.md` + `**In <Book>:** [role]`). Parser, UI (`CrossBookSeeField`), and `bookLabels` map handle this with a dangling-pointer fallback. The full new-book activation checklist (8 touchpoints) is `docs/guides/AUTHORING-PLAYBOOK.md` §B.1 (RULES-CORE lists the PEOPLE-specific steps); `activation-consistency.test.ts` guards it.
 - **i18n:** URL-based locale routing; content in `.md` files, UI strings in `src/infrastructure/i18n/messages/`.
 - **Three-door IA (Phase 3):** **Read** (continuous) | **Notes** (verse cards + glossary + supplementary) | **Deeper** (enrichment + prophecy sub-tabs + People link) — each a real, crawlable URL, not a client hash mode.
 
@@ -99,7 +103,7 @@ Governed by `docs/rules/RULES-CORE.md` + `RULES-HB.md` + `RULES-GS.md` (30 rules
 - **Rule 3 + corollary:** no imported theology; restraint cuts both ways (anti-traditional reflex is also dishonest).
 - **Rule 11:** grammatical additions marked in italics. **Rule 13:** uncertainty levels (Probable / Possible / Uncertain) on debated terms.
 - **Rule 29:** enrichment lives in companion files only, dual-labeled (claim-type + confidence); Tier 2 notes max 3 sentences, excess relocated with a pointer.
-- **Name rendering (v3.2):** familiar target-language form as default, transliterated form once per section; exceptions: YHWH/JHWH, Yehudim, technical transliterations. See RULES-HB/GS proper-name tables.
+- **Name rendering (v3.2):** familiar target-language form as default, transliterated form once per section; exceptions: YHWH/JHWH, Yehudim (DE Jehudim), technical transliterations. See RULES-HB/GS proper-name tables.
 - **GS specifics:** Greek Article System (articular vs. anarthrous); Ioudaioi three-sense policy with anti-misuse safeguard.
 
 Log every decision in `docs/editorial-log/{book}.md` (schema in RULES-CORE.md §Editorial Log Specification).
@@ -121,7 +125,7 @@ Log every decision in `docs/editorial-log/{book}.md` (schema in RULES-CORE.md §
 2. Sections A–F AVAILABLE (include only with substantive content); Section G (Sources) MANDATORY.
 3. Follow the dual-label system and include the disclaimer block.
 
-**Name rendering:** first occurrence per section "Transliterated (Familiar)" (e.g. "Yochanan (John)"); subsequent: familiar only. Exceptions: YHWH/JHWH, Yehudim, technical terms (raqia, bara…). Never produce redundant `Name (Name)` (v3.3.1). See proper-name tables in RULES-HB/GS.
+**Name rendering:** first occurrence per section "Transliterated (Familiar)" (e.g. "Yochanan (John)"); subsequent: familiar only. Exceptions: YHWH/JHWH, Yehudim (DE Jehudim), technical terms (raqia, bara…). Never produce redundant `Name (Name)` (v3.3.1). See proper-name tables in RULES-HB/GS.
 
 **Translation decisions:** log in `docs/editorial-log/{book}.md` before drafting; new glossary terms via the glossary expansion procedure (RULES-CORE.md). **EN-first, then PT-BR, DE, ES.**
 

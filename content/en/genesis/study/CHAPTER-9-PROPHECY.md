@@ -5,7 +5,7 @@
 
 **Chapter:** Genesis 9
 **Language:** English
-**Ruleset:** v3.3 (Rule 29 governs this file)
+**Ruleset:** v3.4 (Rule 29 governs this file)
 **Status:** provisional
 
 ---

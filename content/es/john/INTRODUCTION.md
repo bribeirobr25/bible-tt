@@ -10,7 +10,7 @@
 **Libro:** Juan (Ἰωάννης, *Iōannēs*)
 **Idioma:** Español
 **Introducción a:** `es/john/` (Edición Transparente)
-**Conjunto de reglas:** v3.3 (La Regla 29 gobierna este archivo)
+**Conjunto de reglas:** v3.4 (La Regla 29 gobierna este archivo)
 **Estado:** provisional
 
 ---
@@ -267,7 +267,7 @@ El intervalo entre la composición del Evangelio de Juan (c. 90–100 EC) y los 
 ### F1. Reglas activas con aplicaciones específicas a Juan
 **[TEXTUAL — VERIFICADO]**
 
-Las siguientes reglas del conjunto de reglas de la TT (v3.3) tienen especial incidencia en el Evangelio de Juan:
+Las siguientes reglas del conjunto de reglas de la TT (v3.4) tienen especial incidencia en el Evangelio de Juan:
 
 | Regla | Nombre | Aplicación específica a Juan |
 |-------|--------|------------------------------|

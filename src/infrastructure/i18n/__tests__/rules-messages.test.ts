@@ -44,6 +44,12 @@ describe("rules page ↔ RULES-CORE", () => {
     expect(nums).toEqual(Array.from({ length: RULE_COUNT }, (_, i) => i + 1));
   });
 
+  it('the RULES-CORE section heading states the same count ("THE 30 RULES")', () => {
+    const m = rulesCore.match(/^##[ \t]+THE[ \t]+(\d+)[ \t]+RULES[ \t]*$/m);
+    expect(m, "## THE N RULES heading missing").not.toBeNull();
+    expect(Number(m?.[1])).toBe(RULE_COUNT);
+  });
+
   it("ALL_RULE_NUMS lists 1..30", () => {
     expect(ALL_RULE_NUMS).toHaveLength(30);
     expect(ALL_RULE_NUMS).toEqual([...headings.keys()].sort((a, b) => a - b));

@@ -10,7 +10,7 @@
 **Libro:** Mateo (Μαθθαῖος, *Maththaios*)
 **Idioma:** Español
 **Introducción a:** `es/matthew/` (Edición Transparente)
-**Reglas:** v3.3 (La Regla 29 gobierna este archivo)
+**Reglas:** v3.4 (La Regla 29 gobierna este archivo)
 **Status:** provisorio
 
 ---

@@ -1,5 +1,7 @@
 # Plan — Luke 1–3 (new book, full treatment, 4 locales)
 
+**Outcome (status updated 2026-11-20):** EXECUTED — Luke 1–3 EN authored 2026-06-22 (PR #11) and propagated to PT-BR/DE/ES 2026-06-23 (PR #12), both merged to `main`; the "PLANNED" status below is historical (`EXECUTION_HISTORY.md` › Luke 1–3).
+
 **Status:** PLANNED — self-audited + **externally AUDITED ✅ APPROVE** (`AUDIT_LUKE_EXPANSION_PLAN.md`, 2026-06-22; findings verified against source + folded in) · approved: AI-draft→provisional→Rule-28 (Q1), EN checkpoint before propagation (Q2), mirror-Matthew companion depth (Q3) · **Date:** 2026-06-22 · **Class:** content authoring (new book, from source) + new-book activation · **Risk:** Medium-High (*authoring from Greek*, not Mark-style propagation; Rule-28 provisional)
 
 > **External-audit disposition (both substantive findings verified against source + folded in):**

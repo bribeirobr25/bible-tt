@@ -1,6 +1,6 @@
 # THE TRANSPARENT TRANSLATION (TT)
 ## Core Translation Governance System
-### Ruleset v3.4 — Layered Architecture (CORE + source-language supplements)
+### Ruleset v3.4.1 — Layered Architecture (CORE + source-language supplements)
 
 ---
 
@@ -87,7 +87,7 @@ Source-language glossaries are maintained per supplement:
 
 ---
 
-## THE 29 RULES
+## THE 30 RULES
 
 ### **I. SEMANTIC RULES (Meaning & Words)**
 
@@ -99,6 +99,7 @@ Same source word → Same base translation **by default**
 - Contextual shifts allowed when **clearly required by immediate context**
 - **All shifts must be justified** in editorial log
 - **Public notes** explain shifts only when reader needs to know
+- **Scope of a lock** (v3.4.1, decision L4): a locked rendering also governs any TT-voice sentence that restates it — see §Idiom Policy §I3.
 
 **Why:** Consistency reveals patterns; controlled flexibility prevents rigidity. **Uncontrolled lexical drift is the main risk vector in this system.**
 
@@ -223,6 +224,8 @@ Slightly elevated, clear, serious — avoid both extremes
 - Clear enough for modern readers
 - Not archaic, not casual
 
+**Portuguese second-person plural (v3.4.1, decision L6):** PT-BR verse text uses the classical *vós* (with its verb, object and possessive forms — *vos*, *vosso/a(s)*, *convosco*) for the second-person plural — the corpus register logged at the Portuguese propagation and kept for consistency across all books. It is the one sanctioned archaism; everything else stays contemporary formal Brazilian Portuguese. `vocês` in verse text is a defect. (Companion and note prose addresses the modern reader and is not bound by this clause.)
+
 **English:**
 ```
 ✗ "And God spake" (archaic)
@@ -269,6 +272,8 @@ Mark words not in source text; distinguish types of additions
 **Three-Part System:**
 
 **A. Italics:** For minimal grammatical additions in main text
+
+**Contractions (v3.4.1, decision L1):** when an added article fuses with a preposition into a single word, italicize the **whole contraction** — any preposition + article contraction, e.g. PT `ao`/`à`/`no`/`na`/`do`/`da`/`pelo`/`pela`/`num`/`numa` and their plurals, DE `am`/`ans`/`beim`/`im`/`ins`/`zum`/`zur`/`vom`, ES `al`/`del`: `*na* carne`, `*im* Buch`, `*del* Señor`. The article is never written twice (`im *dem*`, `al *el*` are errors). The DE rule in RULES-GS (Article System, `vom`/`zum`) is the same convention.
 
 **B. Brackets:** For rare clarifications in main text (use sparingly)
 
@@ -375,7 +380,7 @@ When source text **lacks** article where expected, preserve or note the absence 
 
 See source-language supplement for article system specifics per source language.
 
-**Idiom policy:** Target-language idioms may replace source-text literal forms when the literal rendering is unintelligible or misleading in the target language. Editorial-log entries are required only when the substitution materially changes source structure, obscures a source-language idiom, or resolves ambiguity that the source text preserves. Rule 11 marking (italics) applies only when words are added beyond grammatical necessity — routine idiomatic phrasing does not require Rule 11 marking.
+**Idiom policy:** Target-language idioms may replace source-text literal forms when the literal rendering is unintelligible or misleading in the target language. Editorial-log entries are required only when the substitution materially changes source structure, obscures a source-language idiom, or resolves ambiguity that the source text preserves. Words added for target grammar — including an article fused into a contraction — are Rule 11 A additions and are italicized. Rendering a source expression by a target-language idiom (§I2) is governed by this idiom policy and §I2 (a Tier 2 note records the source construction), not by Rule 11: the idiom replaces the source wording rather than adding to it, so it carries no italics. (v3.4.1, decision L1 — the earlier sentence "only when words are added beyond grammatical necessity" contradicted Rule 11 A and the marker table.)
 
 **Name rendering policy (v3.2):** Proper names (persons, places, groups) use the familiar target-language form as default throughout the text. The transliterated source-language form appears ONCE at first occurrence per section, with the familiar form in parentheses: e.g., "Yochanan (John)." All subsequent occurrences within that section use the familiar form only: "John."
 
@@ -385,11 +390,11 @@ Applies to all content: verse text, overviews, companion entries, prophecy entri
 
 **Exceptions:**
 - **YHWH / JHWH:** Retains transliterated form throughout (Rule 25 policy)
-- **Yehudim:** Retains transliterated form throughout (GS §Ioudaioi Policy — transliteration exists to avoid reception-history baggage)
+- **Yehudim (DE Jehudim):** Retains transliterated form throughout (GS §Ioudaioi Policy — transliteration exists to avoid reception-history baggage)
 - **Technical transliterations** (raqia, tohu vavohu, bara, nephilim, tebah, etc.): These are strategic-term transliterations per Rule 4, not names. They remain transliterated with inline glosses.
 - **Names without a clean familiar form** in a given locale: Retain transliterated form throughout (no exception, just no reversal for that name in that locale)
 
-**Group names:** All group names get familiar-form treatment EXCEPT Yehudim. Perushim → Pharisees, Tsduqim → Sadducees, Pelishtim → Philistines, Kena'anim → Canaanites, Mitsrim → Egyptians.
+**Group names:** All group names get familiar-form treatment EXCEPT Yehudim (DE Jehudim). Perushim → Pharisees, Tsduqim → Sadducees, Pelishtim → Philistines, Kena'anim → Canaanites, Mitsrim → Egyptians.
 
 See source-language supplement proper-name tables for complete name mappings per locale.
 
@@ -445,7 +450,7 @@ Relational and titular nouns are lowercase by default in English, Portuguese, an
 - "son of God," "son of man," "father" (titular/relational usage), "king of Israel," "the anointed one"
 - "God" remains capitalized (proper noun, not titular)
 - Escape hatch: capitalize when target-language grammar, sentence position, or an explicitly governed title exception requires it
-- Heading-case style (Title Case Initial Caps) is preserved in section headers; body-text lowercase applies only to inline references and verse text
+- Heading-case style (Title Case Initial Caps) is preserved in section headers; body-text lowercase applies to inline references and verse text. **"son of man" is lowercase in all body text, notes and companions included** (v3.4.1, decision D8), except where a sentence quotes another work or names the title as later tradition wrote it. *(Whether other titular nouns — "son of God", "only-born son" — also go lowercase in notes is an open question for the project lead; until decided they keep the earlier practice.)*
 - German is exempt — grammatical noun capitalization governs
 
 **Examples:**
@@ -590,7 +595,7 @@ See source-language supplement for language-specific gender examples.
 ---
 
 #### **Rule 28: Review & Sign-off Workflow**
-No verse ships without documented review.
+No verse is marked `reviewed` or `signed-off` without documented review; until then it ships labelled `provisional`.
 
 **Required reviewer roles per verse:**
 
@@ -602,7 +607,13 @@ No verse ships without documented review.
 | **Project lead** | Final accountability | Resolves disagreements; authorizes exceptions |
 
 **For AI-assisted drafting:**
-- Each AI-assisted verse must record: model identifier, version, date, prompt summary, and human-reviewer decision.
+- Each AI-assisted drafting batch must have an **internal provenance record** in the book's editorial log: model identifier, version, date, prompt summary where kept, and the human-reviewer decision. It is never reader-facing. `docs/editorial-log/ai-provenance-record.tsv` archives the reader-facing provenance lines as they stood before v3.4.1 (per file and line). *(v3.4.1, decision L5. The granularity — per book/batch log entry instead of the earlier "each verse", which was never kept in practice — is an assistant decision under D13, pending lead confirmation.)*
+- **Reader-facing files carry only a plain provenance statement** — no model, version, context window, vendor or prompt detail (decision L5; the exact wording below and the omission of the vendor name are assistant decisions under D13, pending lead confirmation):
+
+  | EN | PT-BR | DE | ES |
+  |---|---|---|---|
+  | AI-assisted draft, not yet reviewed. | Rascunho assistido por IA, ainda não revisado. | KI-gestützter Entwurf, noch nicht geprüft. | Borrador asistido por IA, aún no revisado. |
+
 - AI cannot occupy a reviewer role. AI output is a draft, not a sign-off.
 
 **Until reviewer roles are filled:** verses marked `provisional — pending review`.
@@ -740,7 +751,7 @@ Note: Broad political, economic, social, and cultural context of the period belo
 - [ ] Later reception separated from textual claims
 - [ ] Scientific comparison routed to Section E
 - [ ] Section H uses Rule 29 provenance labels (ALL CAPS: PRIMARY, PEER-REVIEWED, ACADEMIC POPULAR, POPULAR; sub-type qualifiers in parentheses permitted, e.g., "PEER-REVIEWED (commentary)")
-- [ ] AI/editorial provenance block complete per Rule 28 format
+- [ ] Provenance per Rule 28: plain reader-facing statement in the file; the internal record (model, version, date, prompt summary where kept, reviewer decision) in the editorial log
 - [ ] High-risk decisions logged in editorial log
 
 Note: "How to Use This Companion" sections apply to introduction files; companion files satisfy this requirement via the disclaimer block.
@@ -830,17 +841,16 @@ Adding a new target slug to the allow-list is part of the new-book activation ch
 - **See-only stub** when the person's canonical biographical material lives in another book (e.g., OT patriarchs appearing in Matthew 1's genealogy → see-only pointing to `genesis`), AND the current book's narrative role is limited to references or brief mentions (≤4 sentences fits the `**In <Book>:**` field comfortably).
 - **Full canonical entry** when the person's substantive narrative arc lives in the current book, OR when the person's canonical-home book is not yet authored AND the current book has the most substantive material currently available (e.g., Rachav and Rut appear in Matthew's genealogy; their canonical OT homes Joshua and Ruth are not yet authored; matthew/PEOPLE.md carries full entries until those OT books land).
 
-**New-book activation checklist — 5 SYNCHRONIZED CHANGES required when adding a new book's PEOPLE.md:**
+**New-book activation — PEOPLE-specific steps.** The full activation checklist — 8 touchpoints: registry `AVAILABLE_BOOKS`, `/books` order (+ `HEBREW_BIBLE`), people-page `bookLabels`, parser `inBook` aliases, i18n `book.{slug}` + `heroTagline`/`sectionKick`, content-lint lists, this allow-list, editorial log + source-analysis stub — lives in **one place**: `docs/guides/AUTHORING-PLAYBOOK.md` §B.1, mechanically guarded by `src/infrastructure/content/__tests__/activation-consistency.test.ts`. The steps that concern cross-book PEOPLE pointers are:
 
 1. **Author content** — `content/{en,pt-br,de,es}/{new-book}/PEOPLE.md` (all 4 locales).
-2. **Extend bookLabels** — `src/app/[locale]/[book]/people/page.tsx`: add `{new-book}: t("book.{new-book}")` to the `bookLabels` map.
-3. **Extend parser aliases** — `src/infrastructure/content/people-parser.ts` `EXACT_LABEL_ALIASES.inBook`: add 4 locale forms (e.g., `"in kings"`, `"em reis"`, `"in könige"`, `"en reyes"`). Without this, `**In {New Book}:**` fields will silently parse as `undefined`.
-4. **Add i18n key** — `src/infrastructure/i18n/messages/{en,pt-br,de,es}.json`: add `people.inBook.{new-book}` translation string in each locale file.
-5. **Extend lint allow-list** — `scripts/content-lint.sh` §0.12 rule: add `{new-book}` to the cross-book PEOPLE pointer allow-list.
+2. **Extend bookLabels** — `src/app/[locale]/[book]/people/page.tsx`: add `{new-book}: t("book.{new-book}")` (the label comes from the existing i18n key `book.{new-book}`).
+3. **Extend parser aliases** — `src/infrastructure/content/people-parser.ts` `EXACT_LABEL_ALIASES.inBook`: add 4 locale forms (e.g., `"in kings"`, `"em reis"`, `"in könige"`, `"en reyes"`). Without this, `**In {New Book}:**` fields silently parse as `undefined`.
+4. **Extend this allow-list** — add the slug to the table above. (The content-lint §0.12 list is generated from `content/en/*/` since Launch-Program Step 2; only a forward-tracked, not-yet-authored target needs a `FORWARD_SLUGS` edit in the script.)
 
-All five changes should land in the same commit or PR.
+These land in the same commit or PR as the rest of the playbook's activation set. *(v3.4.1: replaces the earlier "5 synchronized changes", which named a non-existent per-book `people` i18n key and a hand-maintained lint list.)*
 
-**Content-lint enforcement (warn-only §0.12):** `scripts/content-lint.sh` validates that every `**See:** {slug}/PEOPLE.md` (and locale aliases `Ver`/`Siehe`) refers to a slug in the allow-list above. Typos like `**See:** geneis/PEOPLE.md` produce a warn-only lint finding. The dangling-pointer UI fallback in `CrossBookSeeField` (`src/ui/people/person-card.tsx`) provides a second-layer defense at render time (plain text instead of broken link).
+**Content-lint enforcement (warn-only §0.12):** `scripts/content-lint.sh` validates that every `**See:** {slug}/PEOPLE.md` (and locale aliases `Ver`/`Siehe`) refers to a known slug: the lint generates its list from `content/en/*/` plus `FORWARD_SLUGS` in the script (forward-tracked targets such as `exodus` must be added there by hand; keep this table in step). Typos like `**See:** geneis/PEOPLE.md` produce a warn-only lint finding. The dangling-pointer UI fallback in `CrossBookSeeField` (`src/ui/people/person-card.tsx`) provides a second-layer defense at render time (plain text instead of broken link).
 
 **Cross-book canonical-entry transition logging:** when a future authoring phase adds a full canonical entry that resolves an existing see-only stub (e.g., Phase 12 Genesis 13-50 adds full Yitschaq/Ya'aqov/Yosef bios, resolving the Matthew see-only stubs), the parent authoring entry's editorial-log entry should include a cross-reference line: `"Resolves see-only stubs at {book}/PEOPLE.md × 4 locales."` No separate transition log entry needed — the resolution is automatic via the parser + UI.
 
@@ -883,7 +893,7 @@ A book may belong to multiple genres (e.g., Daniel is both narrative and apocaly
 - **Book:** [Book Name] ([Hebrew/Greek title])
 - **Language:** [Language]
 - **Introduction to:** `[locale]/[book]/` (Transparent Edition)
-- **Ruleset:** v3.3 (Rule 29 governs this file)
+- **Ruleset:** v3.4 (Rule 29 governs this file)
 - **Status:** provisional
 
 ---
@@ -906,7 +916,7 @@ Direct, first-person speech of the divine speaker is marked so the reader can se
 
 The mark tracks *who is speaking*, never *what the speech means*. Where the text plainly attributes the words to God/YHWH, they are marked even if their content is debated — e.g. "Let us make…" (Gen 1:26) is marked as God's direct speech; the referent of "us" (council, plural of majesty, later-Trinitarian reading) is a question of meaning the marking leaves entirely open.
 
-**Marking + rendering:** wrap the quoted divine words (including their quotation marks) in `@@…@@`. It renders as **bold in the divine accent colour** (`.divine`). Marking applies to the same span in BOTH the continuous-reading and verse-by-verse renderings of a chapter. Like all markers (below), it is authored in content and converted at render time — it does not alter the stored text or the conservation layer.
+**Marking + rendering:** wrap the quoted divine words (including their quotation marks) in `@@…@@`. It renders in the **divine accent colour, not bold** (`.divine`; v3.4.1 — D10, the live design is canonical). Marking applies to the same span in BOTH the continuous-reading and verse-by-verse renderings of a chapter. Like all markers (below), it is authored in content and converted at render time — it does not alter the stored text or the conservation layer.
 
 **Why:** readers consistently ask "where is this God speaking versus the narrator describing God?" Marking the boundary answers that without a single interpretive word — and without the theological baggage of a full red-letter edition (only the three divine speakers above, never apostles or narrators).
 
@@ -914,14 +924,14 @@ The mark tracks *who is speaking*, never *what the speech means*. Where the text
 
 ### Text-Highlight Markers (reader-facing rendering)
 
-The reading text (Tier 1) carries four visibility markers, each implementing an existing rule. All are authored inline in the content `.md` and converted to styled spans by the renderer (`render-markdown-safe.ts`); the stored text and conservation layer are unaffected.
+The reading text (Tier 1) carries four visibility markers, each implementing an existing rule. The table follows the live design system (`src/app/globals.css`, decision D10, v3.4.1). All are authored inline in the content `.md` and converted to styled spans by the renderer (`render-markdown-safe.ts`); the stored text and conservation layer are unaffected.
 
 | Feature | Rule | Authored marker | Renders as | Accent |
 |---|---|---|---|---|
-| Words added for target grammar | Rule 11 | `*word*` | italic | grammatical-blue |
+| Words added for target grammar (incl. a fused contraction — Rule 11) | Rule 11 | `*word*`, `*na* carne` | italic | grammatical-blue |
 | Transliterated strategic term | Rule 4 | `{t:raqia}` | bold | teal (`.term`) |
-| Preserved ambiguity (governed slash) | Rule 2 | `{a:wind/spirit}` | bold | ochre (`.ambig`) |
-| Direct divine speech | Rule 30 | `@@"Shall be light"@@` | bold | red (`.divine`) |
+| Preserved ambiguity (governed slash) | Rule 2 | `{a:wind/spirit}` | bold | body colour (`.ambig`) |
+| Direct divine speech | Rule 30 | `@@"Shall be light"@@` | regular weight | red (`.divine`) |
 
 **Notes:**
 - These markers are the ONLY inline styling permitted in Tier 1 (keeps the main text clean — see Output Structure). No ad-hoc bold/colour.
@@ -994,7 +1004,9 @@ The literal form yields to idiomatic rendering ONLY when the literal would parse
 
 ### §I3. Glossary terms never yield to idiom
 
-Locked glossary entries (Rule 1) render consistently regardless of whether the literal form is idiomatic in the target. `nephesh` is "soul/being" / "alma/ser" / "Seele/Wesen" / "alma/ser" everywhere it appears; no idiomatic substitution permitted.
+Locked glossary entries (Rule 1) render consistently regardless of whether the literal form is idiomatic in the target. Bare `נֶפֶשׁ` (*nephesh*) and its Greek counterpart `ψυχή` (*psyche*) are rendered from the locked pair "life/being" / "vida/ser" / "Leben/Wesen" / "vida/ser" everywhere they appear (RULES-HB + RULES-GS glossaries; decision D7, v3.4.1): **the context selects the member** ("my life", "every being") — it is not a slash in the text. A Rule 2 slash `{a:life/being}` is used only where both senses are genuinely live, with a log entry. `נֶפֶשׁ חַיָּה` is "living being(s)" (RULES-HB). No other idiomatic substitution (e.g. "soul") is permitted; a context where neither member can stand is a logged Rule 1 deviation.
+
+**Scope of a lock (v3.4.1, decision L4):** a locked rendering governs the translation **and any TT-voice sentence that restates that rendering** (notes, companions, introductions). Genre and reception uses keep their own established forms — e.g. "the Gospel of Mark", "baptism" as a church-historical practice, a Greek or Hebrew lemma cited as a lemma.
 
 ### §I4. Prime Directive supremacy
 
@@ -1106,9 +1118,9 @@ Every editorial-log entry MUST include the following fields, in this order:
 | **Decision** | string | yes | What was decided and what the translation says (or what the policy now is). |
 | **Alternatives considered** | bulleted list | yes | What other renderings were considered, each with a one-line reason for rejection. |
 | **Justification** | string | yes | Why this rendering was chosen over alternatives. |
-| **AI provenance** | string | required for AI-drafted entries | Model identifier, version, date, optional prompt summary. Required by Rule 28. |
+| **AI provenance** | string | required for AI-drafted entries | Model identifier, version, date, optional prompt summary. Required by Rule 28. Internal record — never copied into reader-facing files (Rule 28, v3.4.1). |
 | **Status** | enum | yes | `provisional` / `signed-off` / `superseded`. |
-| **Reviewers** | string | yes | "Hebraist: name | EN editor: name | Cross-alignment: name" or "unassigned" if not yet reviewed. |
+| **Reviewers** | string | yes | "Hebraist: name \| EN editor: name \| Cross-alignment: name" or "unassigned" if not yet reviewed. |
 | **Cross-references** | comma-list | optional | Related editorial-log entries (`see Entry J-013`), related rule sections, related plan documents. |
 
 **Trailing separator:** every entry ends with `---` on its own line.
@@ -1185,7 +1197,7 @@ This decision affects editorial framing and marketing positioning, **NOT** core 
 - **B. Selective Acknowledgment** — note convergences/divergences in supplementary materials
 - **C. Explicit Alternative** — position as transparency counter to Almeida's choices
 
-**Register Note:** Brazilian Portuguese and European Portuguese differ significantly in register, pronoun systems, and verb usage. The TT targets contemporary formal Brazilian Portuguese (Rule 10). European Portuguese readers should be aware that register choices reflect Brazilian norms.
+**Register Note:** Brazilian Portuguese and European Portuguese differ significantly in register, pronoun systems, and verb usage. The TT targets contemporary formal Brazilian Portuguese (Rule 10), with the one logged exception of the second-person plural *vós* in verse text (Rule 10, v3.4.1). European Portuguese readers should be aware that register choices reflect Brazilian norms.
 
 **REQUIREMENT:** Document chosen option before starting Portuguese translation. Record in editorial log. This is editorial framing, not methodology.
 
@@ -1447,7 +1459,7 @@ Subjunctive naturally handles jussive, grammatical gender preserves source disti
 ### **For Each Verse:**
 1. [ ] Read source text + consult critical apparatus
 2. [ ] Create literal gloss (Tier 3 - optional)
-3. [ ] Apply rules 1-29 systematically
+3. [ ] Apply rules 1–30 systematically
 4. [ ] Check glossary consistency (Rule 1)
 5. [ ] Verify formulas match previous verses (Rule 7)
 6. [ ] Apply edition policy consistently (Rule 24)
@@ -1472,9 +1484,16 @@ See source-language supplement for additional post-translation checks.
 
 ## VERSION HISTORY
 
+**v3.4.1** (2026-11-20) - LAUNCH-PROGRAM CORRECTIONS (re-opening; the 14-day window was not applied — the lead approved the decisions that require these amendments; assistant reading of D2/D13, reported to the lead)
+- **Modifications** — the rule text now states the lead's decisions D7–D10 and L1, L4, L5, L6 (`docs/audit/LAUNCH_PROGRAM.md`, `docs/audit/CONTENT_SWEEP_FINDINGS.md` §3): §I3 ψυχή/bare נֶפֶשׁ = the life/being pair, context selects the member (D7) + the scope of a lock (L4, with a Rule 1 pointer); Rule 20 "son of man" lowercase in all body text (D8 — other titular nouns in notes: open lead question); Yehudim exceptions name DE Jehudim (D9); Rule 30 + marker table follow the live design (D10: `{a:}` body colour, `@@` not bold); Rule 11 contraction clause (any preposition + article contraction) + the idiom-policy sentence that contradicted Rule 11 A (L1), with a marker-table row example; Rule 28 internal provenance record vs plain reader statement (L5 — granularity and wording are assistant decisions pending lead confirmation) and its opening line ("no verse is marked reviewed without documented review"); Rule 10 PT *vós* clause + the Portuguese register note (L6).
+- **Corrections** — "THE 30 RULES" heading, "rules 1–30" checklist, book-introduction front-matter spec v3.4, the activation checklist (8 named touchpoints; points to AUTHORING-PLAYBOOK §B.1), §0.12 lint wording (generated list + `FORWARD_SLUGS`), editorial-log schema `Reviewers` cell pipes escaped.
+- RULES-HB: bare `נֶפֶשׁ` glossary row (§G3 Hybrid mode; `proposals/glossary-nephesh.md`; provisional pending the Hebraist), "Rules 1–30", group-name note DE Jehudim, version list. RULES-GS: D9 wording, DE contraction marking (L1), *mabbul* removed from the HB-transliterations note, corpus line, version list.
+- Proposal + impact: `docs/rules/proposals/v3.4.1-launch-corrections.md`. Changelog: `CHANGELOG-v3.4.md`. No signed-off verse affected; content stamps stay v3.4.
+- Total: **30 rules** (unchanged).
+
 **v3.4** (2026-06-17) - DIVINE SPEECH + TEXT-HIGHLIGHT MARKERS
 - Added **Rule 30 (Divine Speech Marking)** — narrow-scope, visibility-only marking of direct speech of YHWH/God, Yeshua, and the Spirit (`@@…@@` → `.divine`). Debatable speakers (Angel of YHWH, divine-council "us") excluded by default + logged.
-- Formalized the **Text-Highlight Markers** convention: `*added*` (Rule 11, grammatical-blue), `{t:…}` transliteration (Rule 4, teal), `{a:…}` ambiguity slash (Rule 2, ochre), `@@…@@` divine speech (Rule 30, red). Authored in content, converted at render time; conservation layer unaffected.
+- Formalized the **Text-Highlight Markers** convention: `*added*` (Rule 11, grammatical-blue), `{t:…}` transliteration (Rule 4, teal), `{a:…}` ambiguity slash (Rule 2, ochre — *corrected in v3.4.1, D10: bold, body colour*), `@@…@@` divine speech (Rule 30, red). Authored in content, converted at render time; conservation layer unaffected.
 - Total: **30 rules**.
 
 **v3.3** (2026-05-08) - GOVERNANCE EXPANSION
@@ -1537,15 +1556,15 @@ See source-language supplement for additional post-translation checks.
 **Source analysis:** External source-language contributor; the process is formalized as the project-owned TT Source-Analysis Method (`docs/source-analysis/METHOD.md`). Internal provenance: `docs/source-analysis/README.md`.
 **Methodology:** Collaborative iterative development with critical feedback
 **Languages:** English, Brazilian Portuguese, German, Spanish (expandable)
-**Status:** Genesis 1–12, John 1–3, Matthew 1–3 drafted in all four locales (provisional, pending reviewer sign-off). Full execution history: `docs/audit/EXECUTION_HISTORY.md`.
-**Completed:** Genesis 1–12 + John 1–3 + Matthew 1–3 (EN/PT-BR/DE/ES). Tradition policies: Luther / Reina-Valera / Almeida all Option B. YHWH: Option A (consonantal). Rulesets through v3.3.2.
+**Status:** Genesis 1–12, Matthew 1–3, Mark 1–3, Luke 1–3, John 1–3, Acts 1–3 and 1 Peter 1–5 drafted in all four locales (provisional, pending reviewer sign-off — Rule 28). Full execution history: `docs/audit/EXECUTION_HISTORY.md`.
+**Completed:** the seven books above (EN/PT-BR/DE/ES). Tradition policies: Luther / Reina-Valera / Almeida all Option B. YHWH: Option A (consonantal). Rulesets through v3.4.1.
 **Pending:** Genesis 13–50 (Phase 12); reviewer-role assignments (Rule 28); open items in `docs/audit/PENDING.md`.
 
 **Audit trail:** External audits performed 2026-04-15 (Rules v2.4), 2026-04-25 (refactoring plan v3). Results in `docs/audit/`.
 
 ---
 
-**END OF CORE RULESET v3.3**
+**END OF CORE RULESET v3.4.1**
 
 *"The least dishonest version we could build."*
 *"A versão menos desonesta que pudemos construir."*

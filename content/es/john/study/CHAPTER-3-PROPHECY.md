@@ -5,7 +5,7 @@
 
 **Capítulo:** Juan 3
 **Idioma:** Español
-**Reglas:** v3.3 (Regla 29 gobierna este archivo)
+**Reglas:** v3.4 (Regla 29 gobierna este archivo)
 **Estado:** provisional
 
 ---

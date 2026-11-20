@@ -1,9 +1,9 @@
 # Editorial Log — Genesis
 
-**Ruleset version in force:** v3.3
+**Ruleset version in force:** v3.4.1
 **Book:** Genesis
 **Maintainer:** Project Lead
-**Format:** per v3.3 Editorial Log Specification
+**Format:** per v3.4.1 Editorial Log Specification
 
 This log records consistency decisions, justified exceptions, text-critical choices, and any deviations from the default ruleset. Backfilled entries for decisions already encoded in `en/genesis/`, `pt-br/genesis/`, `de/genesis/`, and `es/genesis/` Chapter 1 are included below for traceability.
 
@@ -1389,11 +1389,11 @@ Applied from consolidated external proposals (`docs/audit/GENESIS-1-EN-PROPOSAL.
 - **Verse:** PT-BR + ES — verse text + overview prose across John 1–3 and Matthew 1–3 (44 instances normalized)
 - **Language(s) affected:** PT-BR, ES
 - **Rule(s) invoked:** RULES-CORE.md Rule 20 (Capitalization) — strict no-theological-capitalization in verse text; Rule 20 escape-hatch (line 447) reserved for explicitly governed exceptions
-- **Decision:** **Cross-locale verse-text title capitalization = Option 2 (normalize PT-BR/ES to lowercase).** EN already uses lowercase ("the son of man", "the son of God", "the lamb of God") in verse text; DE is governed by grammatical noun capitalization (Rule 20 exemption — no change). PT-BR + ES verse text now matches EN — `filho do homem` / `hijo del hombre`, `filho de Deus` / `hijo de Dios`, `o filho` / `el hijo` (when standalone reference to Jesus/the Son). **Title Case retained inside notes (`> -` blockquoted commentary) and headings (`#`) when discussing the title as a scholarly object** — this preserves the EN convention where capitalized "Son of Man" appears in notes as "the recognized translation" (per EN John 1:51 note: "the TT renders the traditional form 'Son of Man' as it has become the recognized translation"). DE remains untouched (German grammatical noun capitalization governs).
+- **Decision:** **Cross-locale verse-text title capitalization = Option 2 (normalize PT-BR/ES to lowercase).** EN already uses lowercase ("the son of man", "the son of God", "the lamb of God") in verse text; DE is governed by grammatical noun capitalization (Rule 20 exemption — no change). PT-BR + ES verse text now matches EN — `filho do homem` / `hijo del hombre`, `filho de Deus` / `hijo de Dios`, `o filho` / `el hijo` (when standalone reference to Jesus/the Son). **Title Case retained inside notes (`> -` blockquoted commentary) and headings (`#`) when discussing the title as a scholarly object** [**2026-11-20 note:** for **"son of man" only** (*filho do homem* / *hijo del hombre*), the notes half of this clause is **superseded** by Launch-Program decision D8 + Rule 20 as amended in v3.4.1 → Entry 2026-11-20-121 — lowercase in all body text, notes and companions included; headings keep heading case; a sentence that quotes another work, or names the title as later tradition wrote it, keeps the quoted form; DE unchanged. For the other titles (*Filho de Deus* / *Hijo de Dios*, *Filho Único* / *Hijo Único*, *o Filho* / *el Hijo*) the notes clause is **unchanged** — whether to extend lowercase to them is an open question for the lead (`docs/audit/PENDING.md`)] — this preserves the EN convention where capitalized "Son of Man" appears in notes as "the recognized translation" (per EN John 1:51 note: "the TT renders the traditional form 'Son of Man' as it has become the recognized translation"). DE remains untouched (German grammatical noun capitalization governs).
 - **Alternatives considered:**
   - Option 1 (Normalize EN to Title Case) — rejected: would import recognized-title convention into verse text, violating Rule 20's strict reading "Don't capitalize interpretive terms beyond what the source text justifies." Greek source has no capitalization.
   - Option 3 (Document the asymmetry as per-locale governance choice) — rejected: cross-locale inconsistency without principled basis would re-create the surface inconsistency the project's editorial-log workflow exists to prevent. Allowing each locale a different title convention would also confuse cross-alignment review.
-- **Justification:** EN already implements the strictest Rule 20 reading (lowercase "the son of man" in verse text; Title Case "Son of Man" in scholarly notes). PT-BR/ES had been exercising the Rule 20 line-447 escape hatch ("target-language convention for fixed titles") *without* an editorial-log entry — that's the governance gap the Phase 6A audit surfaced. Choosing Option 2 aligns all four locales (EN strict + DE grammatical-exempt + PT-BR/ES strict-aligned) and removes the asymmetry. Note-context Title Case preservation matches EN's "recognized translation" exception.
+- **Justification:** EN already implements the strictest Rule 20 reading (lowercase "the son of man" in verse text; Title Case "Son of Man" in scholarly notes [**2026-11-20:** notes Title Case superseded for "son of man" → Entry 2026-11-20-121; other titles unchanged pending a lead question]). PT-BR/ES had been exercising the Rule 20 line-447 escape hatch ("target-language convention for fixed titles") *without* an editorial-log entry — that's the governance gap the Phase 6A audit surfaced. Choosing Option 2 aligns all four locales (EN strict + DE grammatical-exempt + PT-BR/ES strict-aligned) and removes the asymmetry. Note-context Title Case preservation matches EN's "recognized translation" exception.
 - **Application — perl per-line discrimination:** Lines starting with `>` (blockquote/note), `#` (heading), or `|` (table row) were skipped; only verse text + overview prose lowercased. Patterns applied:
   - PT-BR: `Filho do Homem` → `filho do homem`; `Filho de Deus` → `filho de Deus`; `Filho Único` → `filho único`; `o Filho ` → `o filho ` (standalone reference)
   - ES: `Hijo del Hombre` → `hijo del hombre`; `Hijo de Dios` → `hijo de Dios`; `Hijo Único` → `hijo único`; `el Hijo ` → `el hijo ` (standalone reference)
@@ -1412,7 +1412,7 @@ Applied from consolidated external proposals (`docs/audit/GENESIS-1-EN-PROPOSAL.
 - **AI provenance:** claude-opus-4-7, 2026-05-09, Phase 6A audit follow-up of `docs/audit/FIX_IMPLEMENTATION.md` (gap surfaced in Phase 6A audit pass when initial closure incorrectly claimed cross-locale lowercase parity)
 - **Status:** decided — project lead (Option 2 selected 2026-05-09)
 - **Applied to:** PT-BR + ES John 1–3 chapters + companions; PT-BR + ES Matthew 1–3 chapters + companions. Cross-book applied-to entries: `docs/editorial-log/john.md` (J-018), `docs/editorial-log/matthew.md` (M-013).
-- **Cross-references:** `docs/rules/RULES-CORE.md` Rule 20 (line 419+); `docs/audit/FIX_IMPLEMENTATION.md` Phase 6A audit closure (2026-05-09); `docs/feedback/FEEDBACK.md` item 14.
+- **Cross-references:** partly superseded → Entry 2026-11-20-121 (2026-11-20; the notes Title Case clause, for "son of man" only); `docs/rules/RULES-CORE.md` Rule 20 (line 419+); `docs/audit/FIX_IMPLEMENTATION.md` Phase 6A audit closure (2026-05-09); `docs/feedback/FEEDBACK.md` item 14.
 
 ---
 
@@ -1787,3 +1787,74 @@ Applied from consolidated external proposals (`docs/audit/GENESIS-1-EN-PROPOSAL.
 - **AI provenance:** claude-opus-4-8 (1M), 2026-06-19. Gates green; verified live (`<strong><em>beyom</em> as idiomatic "when"</strong>`, 0 stray `**`).
 - **Status:** provisional. **Reviewers:** locale-editors unassigned.
 - **Cross-references:** `EXECUTION_HISTORY.md` (Renderer nested-emphasis hardening); john.md J-034.
+
+---
+
+## Launch Program decisions (2026-11-19/20)
+
+Decisions taken by the project lead in the Launch-Readiness Program (`docs/audit/LAUNCH_PROGRAM.md` D7–D9; `docs/audit/CONTENT_SWEEP_FINDINGS.md` §3 L1–L8). Recorded here before the content changes ("log before drafting"); the content is changed in the Step 4 batch named in each entry (`docs/audit/PLAN_LAUNCH_FIXES.md`).
+
+- **Ruleset:** this log now runs under **v3.4.1** (RULES-CORE amendment of 2026-11-20 — `docs/rules/CHANGELOG-v3.4.md`).
+- **Content re-stamp (2026-11-20, Step 4 batch 2):** 125 front-matter stamp fields + 8 prose stamps were re-stamped Ruleset v3.3 → v3.4 across `content/`; in Genesis, **70 stamp fields + 4 prose stamps** ("the TT ruleset (v3.3)", INTRODUCTION × 4 locales). The 4 Luke 3 "v3.3.2 cross-book convention" citations were kept. Stamp only — no translation change.
+- **PT register (L6):** PT verse text keeps the classical *vós* (Genesis already uses it) — corpus-wide entry **john.md J-037**.
+
+## Entry 2026-11-20-121 — "son of man" lowercase in notes too (D8)
+
+- **Verse:** edition-wide policy (parent entry for john.md J-039, matthew.md M-035, mark.md 2026-11-20-008) — verse text, overview prose, notes and companions in every book.
+- **Language(s) affected:** EN, PT-BR, ES (DE: grammatical noun capitalization unchanged)
+- **Rule(s) invoked:** CORE Rule 20 (titular nouns; as amended in v3.4.1 for decision D8: "son of man" is lowercase in all body text, notes and companions included).
+- **Decision:** "son of man" is lowercase **everywhere** in body text — verse text, overview, notes and companions (EN "son of man", PT *filho do homem*, ES *hijo del hombre*). Section headings keep heading case; a sentence that quotes another work, or names the title as later tradition wrote it, keeps the quoted form; DE keeps *Menschensohn* / *Sohn des Menschen* and its other grammatical capitals. The notes Title Case clause of Entry 2026-05-09-099 (and of J-018 / M-013) is superseded **for "son of man" only**. Applied in **Step 4 batch 4** (the D8 sweep, incl. mentions in TT-voice prose). Current scope: John and Mark (EN 36 + 26, PT 19 + 26, ES 19 + 26 capitalized tokens in all files, counted 2026-11-20 — an upper bound, since headings and quotations keep their form); no other book has the capitalized title.
+- **Not covered:** the other titular nouns of Entry 2026-05-09-099 ("son of God", "the only-born son", standalone "the son") are **unchanged** by v3.4.1: notes keep the earlier Title Case practice. Whether to extend lowercase to them in notes is an open question for the lead (`docs/audit/PENDING.md`).
+- **Alternatives considered:**
+  - Keep Title Case in notes as "the recognized translation" (rejected: the lead's D8 word was "everywhere"; mixed casing reads as two terms).
+  - Title Case everywhere (rejected: Option 1 of 2026-05-09-099, for the same Rule 20 reason).
+- **Justification:** Rule 20 and one form per locale across text and notes, as the lead decided in D8.
+- **AI provenance:** drafted by the AI assistant (claude-opus-5-5), 2026-11-20, executing lead decision D8 (2026-11-19). Step 4 batch 2; narrowed to "son of man" on 2026-11-20 after review.
+- **Status:** provisional
+- **Reviewers:** unassigned
+- **Cross-references:** supersedes Entry 2026-05-09-099 in part ("son of man" in notes only); john.md J-039; matthew.md M-035; mark.md 2026-11-20-008; `docs/audit/PENDING.md` (the open lead question on the other titular nouns).
+
+---
+
+## Entry 2026-11-20-122 — Bare נֶפֶשׁ = life/being: the RULES-HB row (D7)
+
+- **Verse:** Genesis 1–12, book-wide policy — every bare נֶפֶשׁ (not the נֶפֶשׁ חַיָּה compound).
+- **Language(s) affected:** EN, PT-BR, DE, ES
+- **Rule(s) invoked:** HB §Locked Glossary (new bare-נֶפֶשׁ row, v3.4.1, added in Hybrid mode under CORE §Glossary Expansion Procedure §G3 "Approval" — `proposals/glossary-nephesh.md`; `provisional` pending the Hebraist); CORE Rule 16, Cross-Supplement Glossary Alignment (RULES-GS already gives ψυχή/נֶפֶשׁ = life/being); CORE §Glossary Expansion Procedure §G4 "Locking" (a cross-supplement-aligned term is recorded in both supplements); CORE §Idiom Policy §I3; CORE Rule 1.
+- **Decision:** bare נֶפֶשׁ = **life/being** (PT *vida/ser*, DE *Leben/Wesen*, ES *vida/ser*); the existing row stays: נֶפֶשׁ חַיָּה = living being(s). This puts in the HB supplement what RULES-GS and the lead's D7 already lock. **No translation changes in this batch.** In **Step 4 batch 4** the Genesis renderings are checked against the row; contextual renderings that leave the pair (e.g. Gen 12:5 "persons") are **to be logged in batch 4** as Rule 1 deviations, alongside the corpus-wide D7 sweep. (Gen 9:4 is not such a case: EN reads "flesh with its life", inside the pair.)
+- **Alternatives considered:**
+  - Leave the HB table without a bare-נֶפֶשׁ row (rejected: §G4 "Locking" records a cross-supplement-aligned term in both supplements; the HB side had only the compound).
+  - "soul" (rejected: excluded by the existing נֶפֶשׁ חַיָּה row's note and by the GS lock; post-Platonic sense).
+- **Justification:** cross-supplement alignment (ψυχή ↔ נֶפֶשׁ) and the lead's re-confirmation of D7 on 2026-11-19. Consistent with the earlier DE correction "Seele" → "Personen"/"Leben" (Gen 12:5, 12:13; Entry 2026-04-28-091).
+- **AI provenance:** drafted by the AI assistant (claude-opus-5-5), 2026-11-20, executing lead decision D7 (2026-11-19). Step 4 batch 2.
+- **Status:** provisional
+- **Reviewers:** unassigned (Hebraist — the row is the review item)
+- **Cross-references:** `docs/rules/proposals/glossary-nephesh.md`; `docs/rules/proposals/v3.4.1-launch-corrections.md`; acts.md A-010; luke.md L-006; 1-peter.md (2026-11-19 D7 note); john.md and matthew.md Launch-Program sections (D7 pointers: John 2:22 Ps 16:10 note, DE Matthew 3:17 Isa 42:1 note).
+
+---
+
+## Entry 2026-11-20-123 — AI-provenance record for Genesis 1–12 (Rule 28)
+
+- **Verse:** Genesis 1–12, whole book — all locales.
+- **Language(s) affected:** EN, PT-BR, DE, ES
+- **Rule(s) invoked:** CORE Rule 28 (as amended in v3.4.1 — full provenance kept in the internal record, a plain statement for readers); CORE §Editorial Log Specification (AI provenance field).
+- **Decision:** record in this log the model and dates that Genesis's reader-facing provenance lines state, before Step 4 batch 3 replaces them with the plain statement (L5). This log names `claude-opus-4-6` only from 2026-04-25 on; several dates the reader lines state appear nowhere in it.
+  - **Reader-facing lines (14 per locale, 56 in all; `ai-provenance-record.tsv`):** all name **Claude Opus 4.6** (`claude-opus-4-6`) — INTRODUCTION and PEOPLE "Drafted by Claude Opus 4.6 (1M context) on …", the 12 chapter CONTEXT companions "Drafted by: Claude Opus 4.6 (AI assistant)" + "Date: …".
+  - **Dates as printed:**
+    - INTRODUCTION 2026-04-28 (all locales; DE "28.04.2026"); PEOPLE 2026-04-27 (all locales; ES "27-04-2026").
+    - study/CHAPTER-1/2/3-CONTEXT 2026-04-18 (EN, PT-BR, DE); ES 2026-04-25.
+    - study/CHAPTER-4/5/6-CONTEXT 2026-04-21 (EN, DE); **PT-BR 2026-04-15**; ES 2026-04-25.
+    - study/CHAPTER-7/8/9-CONTEXT 2026-04-24 (EN, PT-BR, DE); ES 2026-04-25.
+    - study/CHAPTER-10/11/12-CONTEXT 2026-04-27 (all locales).
+  - The PT-BR 2026-04-15 date for chapters 4–6 is earlier than the EN date 2026-04-21 and than the Rule 29 companion work (Entry 2026-04-18-077). It is recorded as printed; it is not reconciled here.
+  - The chapter files carry no provenance line.
+  - **Reviewer decision:** none yet — all content `provisional`.
+- **Alternatives considered:**
+  - Rely on the TSV record alone (rejected: Rule 28 / the log schema require the record in the book's editorial log).
+- **Justification:** each book log names the model(s) and date(s) its reader-facing lines state (precedent: 1-peter.md P-013).
+- **AI provenance:** drafted by the AI assistant (claude-opus-5-5), 2026-11-20, from `ai-provenance-record.tsv` and this log. Step 4 batch 2 (review fixes).
+- **Status:** provisional
+- **Reviewers:** unassigned
+- **Cross-references:** `docs/editorial-log/ai-provenance-record.tsv`; Entries 2026-04-18-077, 2026-04-25 onward (`claude-opus-4-6` provenance fields); 1-peter.md P-013.
+
+---

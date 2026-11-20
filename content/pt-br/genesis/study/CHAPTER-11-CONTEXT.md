@@ -10,7 +10,7 @@
 **Capítulo:** Gênesis 11
 **Idioma:** Português Brasileiro
 **Companheiro de:** `pt-br/genesis/CHAPTER-11.md` (Edição Transparente)
-**Regras:** v3.3 (Regra 29 governa este arquivo)
+**Regras:** v3.4 (Regra 29 governa este arquivo)
 **Status:** provisório
 
 ---

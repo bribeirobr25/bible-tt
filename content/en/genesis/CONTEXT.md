@@ -3,7 +3,7 @@
 **Book:** Genesis
 **Language:** English
 **Scope:** Cross-chapter motifs in Genesis 1–12
-**Ruleset:** v3.3 (Rule 29 governs this file)
+**Ruleset:** v3.4 (Rule 29 governs this file)
 **Status:** provisional
 
 ---

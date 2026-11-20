@@ -10,7 +10,7 @@
 **Capítulo:** Génesis 12
 **Idioma:** Español
 **Compañero de:** `es/genesis/CHAPTER-12.md` (Edición Transparente)
-**Reglas:** v3.3 (la Regla 29 gobierna este archivo)
+**Reglas:** v3.4 (la Regla 29 gobierna este archivo)
 **Status:** provisional
 
 ---

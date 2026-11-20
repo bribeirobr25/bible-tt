@@ -10,7 +10,7 @@
 **Kapitel:** Genesis 12
 **Sprache:** Deutsch
 **Begleiter zu:** `de/genesis/CHAPTER-12.md` (Transparente Ausgabe)
-**Regelwerk:** v3.3 (Regel 29 regelt diese Datei)
+**Regelwerk:** v3.4 (Regel 29 regelt diese Datei)
 **Status:** provisorisch
 
 ---

@@ -10,6 +10,18 @@
 
 > **2026-11-19 — Launch-Readiness Program (ACTIVE):** `docs/audit/LAUNCH_PROGRAM.md` — lead decisions D1–D16 and the 5-step sequence to a provisional public launch (7 books, `bible-translation.breno-bar.com`). It governs execution until launch; items below are re-triaged into its steps. **Progress:** Step 1 (baseline) ✅ PR #15 · Step 2 (safety net) ✅ PR #16 — CI gate live; parity/raw-count/people-field/i18n tests; hardened lint · Step 3 (content sweep) ✅ — `docs/audit/CONTENT_SWEEP_FINDINGS.md` is the Step-4 work list (ES accent tokens — a lower bound, §2 S11; reader-visible meta, Rule 25/20/30 classes, glossary locks; lead decisions L1–L8, **approved 2026-11-20**) · Step 4 (fixes) **in progress** — `docs/audit/PLAN_LAUNCH_FIXES.md`, 8 batches; **batch 1 (code)**: audit live bugs B1–B10/B12 fixed (Sources rendered, activation guard, tables/sigla, /rules = 30 rules, localized 404, status pills). **Open from batch 1:** the 404 page renders client-side (no-JS visitors see Next's error shell; the root layout passes children through) → Step 5. *(The "unregistered label `INTERPRETIVE`" item below is a false alarm — it is a 🟡 note title, never parsed as a label — but the item stays open: other unregistered labels exist, see the item.)*
 >
+> **Step 4 (Fixes) progress — `docs/audit/PLAN_LAUNCH_FIXES.md`:** batch 1 (code) merged 2026-11-20 (PR #18); batch 2 (rules & docs → Ruleset v3.4.1, re-stamp, §0.1b blocking) 2026-11-20; batches 3–8 follow §2 of that plan. Routed to batch 3: the Luke 3 "v3.3.2 cross-book convention" phrase (reader-facing process leak) and the reader provenance lines → the Rule 28 plain statement (internal record already in `docs/editorial-log/ai-provenance-record.tsv`). Batch 4: the Genesis bare-nephesh Rule 1 deviations (RULES-HB row added in v3.4.1, provisional pending the Hebraist).
+>
+> **Lead questions from Step 4 batch 2 (assistant decisions under D13 — in force until the lead says otherwise):**
+> 1. **Rule 20 beyond D8.** v3.4.1 lowercases only "son of man" in notes (D8). Should "son of God", "only-born son" and the other titular nouns also go lowercase in notes? *Recommendation: yes, for consistency (Rule 20 treats them as one class).* Batch 4 applies it if confirmed.
+> 2. **Rule 28 provenance.**
+>    - The record is kept per drafting batch in the book log, not "each verse" (that was never kept).
+>    - The reader statement is "AI-assisted draft, not yet reviewed." (×4 locales).
+>    - The vendor name is dropped.
+> 3. **The 14-day amendment window** was not applied to v3.4.1: the approved decisions required the amendments.
+>
+> **Accepted documentation gaps (Step 4 batch 2 decision):** the X_PLAN.md vs PLAN_X.md naming drift (renaming would break hundreds of historical references); 4 plans without a separate audit file (3 executed and merged — Acts expansion, Tier-4 name-dedup, methodology re-stamp; the DAAT draft gets its audit in Step 4 batch 8); `docs/redesign/` is the historical standalone prototype (its "29 rules" stays); dangling references inside historical records (audit plans, execution history, editorial-log entries, changelogs) are kept as written. `SCHEMA-FUTURE.sql` (Markdown under a `.sql` name; no Spanish column; cites a removed PLAN.md) → post-launch with the user-features work.
+>
 > **2026-11-19 — Project State Audit:** `docs/audit/PROJECT_STATE_AUDIT.md` (full doc + code + branch review; findings only, not yet triaged into this tracker). Headlines: ~~unmerged `1-peter-expansion` branch; orphaned pivot-fidelity commit `333a373`~~ (**both resolved by Step 1, 2026-11-19** — `PLAN_BASELINE_RECOVERY.md`); ~~live bugs (unactivated-book chapters served, Sources Consulted never rendered, Gen 8 table misalignment, `א*` italics, `/rules` omits Rule 30)~~ (**fixed by Step 4 batch 1, 2026-11-20**); unstyled 404 fixed client-side only (server HTML → Step 5); ~~gate gaps (no CI, no cross-locale parity test)~~ (**resolved by Step 2**, PR #16).
 
 **Content authoring (largest — post-launch; the Launch-Readiness Program governs until launch):**
@@ -53,12 +65,12 @@
 **Deferred content seeds** (drop in when that book is authored): *(detail §4)*
 - Akedah → Crucifixion typology → Gen 22 §F (Phase 12)
 - Moses *karan* / horns → Exod 34 (Phase 14+)
-- Mary-as-Ark typology → Luke 1 §F (Luke authoring)
+- Mary-as-Ark typology → Luke 1 §F (post-launch content cycle)
 - DAAT idiom + Yeshua "siblings" draft (`DAAT_IDIOM_AND_JESUS_BROTHERS_PLAN.md`) — awaiting project-lead audit.
 
 **Minor / partial** (low-priority): *(detail §5)*
 
-**Parked (untriaged):** `docs/unchecked-content/achados-arqueologicos.md` — candidate companion source material (untracked; not yet reviewed).
+**Parked (untriaged):** `docs/unchecked-content/achados-arqueologicos.md` — candidate companion source material (tracked in git; not yet reviewed).
 
 ---
 
@@ -76,7 +88,7 @@ Not yet authored in any locale (`content/*/genesis/` has CHAPTER-1..12 only). Sc
 
 (Part A + C executed 2026-06-04; see genesis.md Entry 2026-06-04-111.)
 
-- **Part B — companion-research process + §3 enrichment** *(next up; its own cycle):* author `docs/source-analysis/COMPANION-RESEARCH.md` (a source-analysis-driven research process for companion content at verse/chapter/book scope, building on RULES-CORE Rule 29's checklist), then run the Gen-1 §3 attestations through it with Rule 29 §H sourcing: *raqia* (Ezek 1 + cross-book count), *tehom* (Exod 15 / groundwater / modern-drift), *merachefet* (Jer 23:9 / Deut 32:11).
+- **Part B — companion-research process + §3 enrichment** *(next up; its own cycle):* author a new COMPANION-RESEARCH.md in docs/source-analysis/ (not yet created; a source-analysis-driven research process for companion content at verse/chapter/book scope, building on RULES-CORE Rule 29's checklist), then run the Gen-1 §3 attestations through it with Rule 29 §H sourcing: *raqia* (Ezek 1 + cross-book count), *tehom* (Exod 15 / groundwater / modern-drift), *merachefet* (Jer 23:9 / Deut 32:11).
 - **DE *mavdil* "eine Scheidewand"** — shipped provisional at Gen 1:6; needs DE locale-editor confirmation.
 - **Q5 — Greek John 1:1 worked-example pilot** — proves the method ports to GS; AI-draft pending Hellenist review (Rule 28).
 - **Q5 — audit shipped John 1–3 + Matthew 1–3 (Greek-source) against the new method/rules** — retroactive review once the GS adaptation + COMPANION-RESEARCH process exist.
@@ -92,16 +104,16 @@ Drop into the named section when that book is authored:
 
 - **Genesis 22 — Akedah → Crucifixion typological parallels** → Gen 22 CONTEXT §F (Phase 12). Labels: verbal parallels `LATER RECEPTION — PROBABLE`; the typology itself `LATER RECEPTION — POSSIBLE`. Do **not** present as TEXTUAL or as Gen-22 authorial intent. Reject the "Isaac was 33" claim (rabbinic Gen Rabbah 56:8 ≈ 37; "33" is a post-hoc retrofit).
 - **Exodus 34 — Moses *karan* (קָרַן) ambiguity + Jerome's *cornuta* + horn iconography** → Exod 34 CONTEXT (§C linguistic / §B ANE / §F reception) (Phase 14+). When Gen 22 is authored, add a forward-pointer from the "ram caught by horns" verse.
-- **Luke 1 — Mary as new Ark of the Covenant typology** → Luke 1 CONTEXT §F (Luke authoring, post-Phase 14). Labels: verbal parallels `LATER RECEPTION — PROBABLE`; the Mary-as-Ark identification `LATER RECEPTION — POSSIBLE`.
+- **Luke 1 — Mary as new Ark of the Covenant typology** → Luke 1 CONTEXT §F (Luke 1–3 is authored since 2026-06-23 — add in the first post-launch content cycle). Labels: verbal parallels `LATER RECEPTION — PROBABLE`; the Mary-as-Ark identification `LATER RECEPTION — POSSIBLE`.
 - **DAAT idiom + Yeshua "siblings"** — `docs/audit/DAAT_IDIOM_AND_JESUS_BROTHERS_PLAN.md` (DRAFT, awaiting project-lead audit).
 
 ## 5. Minor / partial (low-priority)
 
 - **Tier-2 note-bloat propagation** — the Rule 29 §734 3-sentence-cap relocation was piloted on Gen 9 and propagated to Gen 6 / John 2 / Matthew 1 (2026-05-18); ~17 Genesis chapters remain at the same trajectory. Deferred, low-priority. **Sized corpus-wide in Step 3** (check S18, all books/locales) — the launch treatment is lead decision L8 in `CONTENT_SWEEP_FINDINGS.md`.
 - **ES Tier-2 note diacritic sweep** — unaccented words inside some ES Tier-2 *notes* (e.g. es/genesis/7 "Aqui / integro / omision"); out of the Phase-4 main-text scope. **Now covered by Step 3 S11** (notes and companions included, not only verse text) — fold into the ES accent work in Step 4b; see `CONTENT_SWEEP_FINDINGS.md` §2 S11.
-- **Item 8** — PT-BR archaic register cleanup (PARTIAL; concentrated in scriptural-quotation contexts).
+- **Item 8** — PT-BR archaic register cleanup (PARTIAL; concentrated in scriptural-quotation contexts). *Note (v3.4.1, L6):* the classical *vós* in PT verse text is now the one sanctioned archaism (Rule 10); it is not a cleanup target.
 - **Non-EN em-dash sweep** — remaining instances are deliberate future-authoring territory, not regressions.
 - **Items 20 / 27 / 28** — PARTIAL with documented mitigation (John 3:16–21 speech-boundary; Section H Type-tag taxonomy; AI/editorial provenance ratio).
 - **Book-card content not yet in the Phase-2 structured layer** — wire in when Phase 6 search lands.
 - *(Resolved 2026-06-19 — moved to EXECUTION_HISTORY: the glossary literal-`*` fix and the renderer nested-emphasis hardening, Tier 1. The renderer now supports one level of italic-in-bold, auto-fixing the ~96 cross-locale lines; the `content:lint §0.14` guard prevents regressions.)*
-- **Redundant `Name (Name)` cleanup (v3.3.1)** — ~120 occurrences across ~30 files where the familiar form and the transliterated form coincide and collapse to `Name (Name)` (e.g. `Maria (Maria)`, `Nazareth (Nazareth)`, `David (David)`, `Tamar (Tamar)`). v3.3.1 forbids the redundant doubling — the form should appear once. Concentrated in **DE** chapters and in **PEOPLE.md across all four locales**. `content:lint` currently surfaces only 2 (de/matthew); the rest are below the lint's allow-listed threshold. Needs a per-instance human pass — most are pure redundancy to delete, but a few sit in comparison-table cells (e.g. two distinct same-named figures side by side) and are intentional. Low-priority cosmetic; no parser/UI impact.
+- *(Resolved 2026-06-20 — the redundant `Name (Name)` pass removed 118 doublings across 29 files; `PLAN_TIER4_NAME_DEDUP.md`, EXECUTION_HISTORY "Tier 4 Strand 3". Remaining same-form pairs are handled with the D11 name alignment, Launch-Program Step 4 batch 5.)*

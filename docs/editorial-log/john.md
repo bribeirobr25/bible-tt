@@ -1,10 +1,10 @@
 # Editorial Log — Gospel of John
 
-**Ruleset version in force:** v3.3
+**Ruleset version in force:** v3.4.1
 **Book:** Gospel of John (Κατὰ Ἰωάννην)
 **Base text:** Nestle-Aland 28th ed.
 **Maintainer:** Project Lead
-**Format:** per v3.3 Editorial Log Specification
+**Format:** per v3.4.1 Editorial Log Specification
 
 This log records consistency decisions, justified exceptions, text-critical choices, and any deviations from the default ruleset. Backfilled entries for decisions already encoded in John 1-3 chapter files across all 4 locales.
 
@@ -101,6 +101,7 @@ This log records consistency decisions, justified exceptions, text-critical choi
 - **Justification:** The Prime Directive requires preserving what the source text leaves ambiguous. The speaker-attribution question at John 3:16 is one of the oldest Johannine interpretive debates. Typographic resolution would violate the Prime Directive. Tier 2 note identifies the ambiguity.
 - **Status:** provisional
 - **Reviewers:** unassigned
+- **Cross-references:** see also J-038 (2026-11-20, lead decision L3) — applies this entry to Rule 30: because the speaker of 3:16–21 is left open, the span is **not** marked `@@…@@`.
 
 ---
 
@@ -267,13 +268,13 @@ This log records consistency decisions, justified exceptions, text-critical choi
 - **Verse:** PT-BR + ES John 1–3 — verse text + overview prose
 - **Language(s) affected:** PT-BR, ES
 - **Rule(s) invoked:** RULES-CORE.md Rule 20 (Capitalization)
-- **Decision:** Lowercased recognized-title forms in verse text + overview prose (Continuous Reading, Verse-by-verse Reading text, "What happens:" / "Watch for:" / "Key themes:" prose, table-free narrative): `Filho do Homem` → `filho do homem`; `Filho de Deus` → `filho de Deus` (`Deus` stays capitalized as proper noun); `Filho Único` → `filho único`; `o Filho` → `o filho` (standalone reference). Same patterns applied to ES (`Hijo del Hombre` → `hijo del hombre`; `Hijo de Dios` → `hijo de Dios`; `Hijo Único` → `hijo único`; `el Hijo` → `el hijo`). Title Case retained inside notes (`> -` blockquoted commentary) and headings (`#`) where the title is the scholarly object of discussion — matches EN convention.
+- **Decision:** Lowercased recognized-title forms in verse text + overview prose (Continuous Reading, Verse-by-verse Reading text, "What happens:" / "Watch for:" / "Key themes:" prose, table-free narrative): `Filho do Homem` → `filho do homem`; `Filho de Deus` → `filho de Deus` (`Deus` stays capitalized as proper noun); `Filho Único` → `filho único`; `o Filho` → `o filho` (standalone reference). Same patterns applied to ES (`Hijo del Hombre` → `hijo del hombre`; `Hijo de Dios` → `hijo de Dios`; `Hijo Único` → `hijo único`; `el Hijo` → `el hijo`). Title Case retained inside notes (`> -` blockquoted commentary) and headings (`#`) where the title is the scholarly object of discussion — matches EN convention. [**2026-11-20 note:** for **"son of man" only** (*filho do homem* / *hijo del hombre*), the "Title Case retained inside notes" clause is **superseded** by Launch-Program decision D8 + Rule 20 as amended in v3.4.1 → Entry J-039 — lowercase in all body text, notes and companions included; headings keep heading case; a sentence that quotes another work, or names the title as later tradition wrote it, keeps the quoted form; DE keeps grammatical noun capitalization. For the other titles in this clause (*Filho de Deus* / *Hijo de Dios*, *Filho Único* / *Hijo Único*, *o Filho* / *el Hijo*) the notes clause is **unchanged** — whether to extend lowercase to them is an open question for the lead (`docs/audit/PENDING.md`). The verse-text lowercasing above stands.]
 - **Alternatives considered:** Normalize EN to Title Case (rejected — would import recognized-title convention into verse text, violating Rule 20's strict reading). Document the asymmetry per locale (rejected — would re-create the surface inconsistency the editorial-log workflow exists to prevent).
 - **Justification:** EN already uses lowercase in verse text ("the son of man" at John 1:51, John 3:13/14, John 3:35/36); DE grammatical noun capitalization governs (Rule 20 exemption); PT-BR + ES had been silently exercising the Rule 20 line-447 escape hatch ("target-language convention for fixed titles") without an editorial-log entry. Phase 6A audit surfaced this asymmetry. Cross-alignment review requires consistent verse-text rendering.
 - **AI provenance:** claude-opus-4-7, 2026-05-09, Phase 6A audit follow-up of `docs/audit/FIX_IMPLEMENTATION.md`
 - **Status:** provisional
 - **Reviewers:** PT-BR editor unassigned; ES editor unassigned; Hellenist unassigned
-- **Cross-references:** `docs/audit/FIX_IMPLEMENTATION.md` Phase 6A audit closure; `docs/editorial-log/genesis.md` Entry 2026-05-09-099 (parent decision); `docs/editorial-log/matthew.md` Entry M-013 (sister entry); `docs/feedback/FEEDBACK.md` item 14
+- **Cross-references:** partly superseded → Entry J-039 (2026-11-20; the notes Title Case clause, for "son of man" only); `docs/audit/FIX_IMPLEMENTATION.md` Phase 6A audit closure; `docs/editorial-log/genesis.md` Entry 2026-05-09-099 (parent decision); `docs/editorial-log/matthew.md` Entry M-013 (sister entry); `docs/feedback/FEEDBACK.md` item 14
 
 ---
 
@@ -545,7 +546,97 @@ This log records consistency decisions, justified exceptions, text-critical choi
 
 - **Verse:** John 1–3 **chapter front-matter** (`Methodology:` metadata line; not verse text), all locales.
 - **Rule(s) invoked:** Rule 30 (divine-speech marking, added v3.4), Text-Highlight Markers convention (v3.4); Rule 28.
-- **Decision:** the v3.4 features — Rule 30 `@@…@@` divine-speech marking + `{t:…}`/`{a:…}`/`*added*` markers — were applied to John 1–3 during the 2026-06 cycle but the Methodology stamp still read `v3.3/29-Rule`. Re-stamped to `30-Rule … (Ruleset v3.4)` after verifying the marks: `@@` balanced + cross-locale-identical; legend present; Rule-30 scope correct (Yeshua's discourse marked; narration/human speech not). Stamp records *ruleset version*, orthogonal to review status — content stays `provisional` pending Rule-28 per-span semantic sign-off. Metadata not rendered (zero visual change).
+- **Decision:** the v3.4 features — Rule 30 `@@…@@` divine-speech marking + `{t:…}`/`{a:…}`/`*added*` markers — were applied to John 1–3 during the 2026-06 cycle but the Methodology stamp still read `v3.3/29-Rule`. Re-stamped to `30-Rule … (Ruleset v3.4)` after verifying the marks: `@@` balanced + cross-locale-identical; legend present; Rule-30 scope correct (Yeshua's discourse marked; narration/human speech not). [**2026-11-20 note:** this scope check accepted 3:16–21 as marked Yeshua discourse; that part is **superseded** by Launch-Program decision L3 → Entry J-038 — J-007 leaves the speaker of 3:16–21 open, and Rule 30 says "when in doubt, do not mark". The re-stamp itself stands.] Stamp records *ruleset version*, orthogonal to review status — content stays `provisional` pending Rule-28 per-span semantic sign-off. Metadata not rendered (zero visual change).
 - **AI provenance:** claude-opus-4-8 (1M), 2026-06-21. Gates green (882 tests; conservation 11,831; lint/content:lint/build; served-HTML markers render, no literals leak).
 - **Status:** provisional. **Reviewers:** locale-editors / Hellenist (Rule 28) unassigned.
-- **Cross-references:** `PLAN_METHODOLOGY_RESTAMP.md`; `EXECUTION_HISTORY.md` (Methodology-stamp re-stamp, 2026-06-21); matthew.md M-034; genesis.md / mark.md (HB/Mark parallels).
+- **Cross-references:** partly superseded → Entry J-038 (2026-11-20; the 3:16–21 Rule-30 scope check); `PLAN_METHODOLOGY_RESTAMP.md`; `EXECUTION_HISTORY.md` (Methodology-stamp re-stamp, 2026-06-21); matthew.md M-034; genesis.md / mark.md (HB/Mark parallels).
+
+---
+
+## Launch Program decisions (2026-11-19/20)
+
+Decisions taken by the project lead in the Launch-Readiness Program (`docs/audit/LAUNCH_PROGRAM.md` D7–D9; `docs/audit/CONTENT_SWEEP_FINDINGS.md` §3 L1–L8). Recorded here before the content changes ("log before drafting"); the content is changed in the Step 4 batch named in each entry (`docs/audit/PLAN_LAUNCH_FIXES.md`).
+
+- **Ruleset:** this log now runs under **v3.4.1** (RULES-CORE amendment of 2026-11-20 — `docs/rules/CHANGELOG-v3.4.md`).
+- **Content re-stamp (2026-11-20, Step 4 batch 2):** 125 front-matter stamp fields + 8 prose stamps were re-stamped Ruleset v3.3 → v3.4 across `content/`; in John, **26 stamp fields + 4 prose stamps** ("the TT ruleset (v3.3)", INTRODUCTION × 4 locales). The 4 Luke 3 "v3.3.2 cross-book convention" citations were kept. Stamp only — no translation change (precedent: J-036).
+- **D9 (2026-11-19) — German οἱ Ἰουδαῖοι = "Jehudim":** confirmed as J-006 already states ("die Jehudim"; EN/PT/ES "Yehudim"). D9 makes it the corpus-wide DE form (RULES-GS §Ioudaioi wording fixed in v3.4.1); the DE files that still print "Yehudim" are converted in Step 4 batch 3. No new entry needed.
+- **D7 (ψυχή / נֶפֶשׁ = life/being):** no ψυχή in John 1–3 verse text. One TT-voice note restates "soul": the **John 2:22** note ("Which scripture?") quotes Ps 16:10 as "you will not abandon my soul to Sheol" (PT *minha alma*, DE *meine Seele*, ES *mi alma*; `content/*/john/CHAPTER-2.md` ~:396–397, all 4 locales). Ps 16:10 is bare נֶפֶשׁ, the same verse Acts 2:27 quotes; it is in the batch-4 D7 sweep (acts.md A-010; genesis.md 2026-11-20-122 for the HB row).
+
+## Entry J-037 — PT register: classical *vós* in verse text (corpus-wide)
+
+- **Verse:** edition-wide (all books) — PT-BR verse text, second-person plural. Changes to apply in batch 4 (re-counted 2026-11-20 in verse study + continuous reading):
+  - **`vocês`: 24 tokens.** John **22** — 11 per reading copy: 1:26 (×2), 1:38, 1:51, 3:7, 3:11, 3:12 (×4), 3:28 — and **Matthew 3:9** **2** (*entre vocês*, one per copy). (The sweep's "11 in John" was one reading copy.)
+  - **Same-register object pronouns** (2pl *lhes* / *os* → *vos*): John 1:51 *eu lhes digo*; Matthew 3:7 *quem os advertiu*, 3:9 *eu lhes digo*, 3:11 *Eu os imerjo* / *ele os imergerá*; also John 2:5 *Tudo o que ele lhes disser* (Mary to the servants, λέγῃ ὑμῖν).
+  - **Pronoun-less `vocês`-register verb forms:** Matthew 3:2–3, 3:8–9 (*Mudem*, *Preparem*, *endireitem*, *Produzam*, *não pensem*); John 1:39 *Venham e vejam*, 2:5 *façam*, 2:7 *Encham*, 2:8 *Retirem … levem*, 2:16 *Tirem … não façam*, 2:19 *Destruam* (examples found 2026-11-20; batch 4 sizes the full list).
+- **Language(s) affected:** PT-BR
+- **Rule(s) invoked:** CORE Rule 10 (register — PT clause added in v3.4.1); CORE §Almeida Tradition Relationship Policy (Option B).
+- **Decision:** PT verse text keeps the classical second-person plural **vós** (and its verb forms: *sabeis*, *mudai*, *vinde* …) — the corpus register the PT propagation logged as corpus-consistent (`EXECUTION_HISTORY.md`:110, 1 Peter propagation: "PT classical **vós** Almeida register (corpus-consistent)"; Genesis, Acts and 1 Peter already use it throughout). It is the one sanctioned archaism, for consistency with the Almeida tradition the PT edition positions itself against; everything else stays contemporary formal Brazilian Portuguese. The outliers convert to *vós* in **Step 4 batch 4**. This is the **anchor entry**; the other logs point here.
+- **Alternatives considered:**
+  - Switch the corpus to *vocês* (Brazilian standard) (rejected by the lead, L6 option B: a logged reversal touching 108 pronouns + ≥ 57 verb forms, against the recorded register).
+  - Allow per-book register (rejected: the same discourse forms would read differently book to book; cross-alignment review needs one register).
+- **Justification:** one register across the corpus; the recorded decision already chose *vós*, and the outliers (John, Matthew 3) are the minority. Rule 10's "not archaic" now carries an explicit PT clause, so the rule and the corpus agree.
+- **AI provenance:** drafted by the AI assistant (claude-opus-5-5), 2026-11-20, executing lead decision L6 (approved 2026-11-20). Step 4 batch 2.
+- **Status:** provisional
+- **Reviewers:** unassigned (PT-BR locale-editor)
+- **Cross-references:** `CONTENT_SWEEP_FINDINGS.md` S14 and §3 L6; pointers in acts.md, 1-peter.md, genesis.md, matthew.md.
+
+---
+
+## Entry J-038 — John 3:16–21 not marked as divine speech (Rule 30, per J-007)
+
+- **Verse:** John 3:16–21 — verse study + continuous reading.
+- **Language(s) affected:** EN, PT-BR, DE, ES
+- **Rule(s) invoked:** CORE Rule 30 ("any speaker whose divine identity the text leaves open … not marked"; when in doubt, do not mark); CORE §Punctuation Governance; Prime Directive.
+- **Decision:** remove the `@@…@@` span from 3:16–21. J-007 keeps the boundary between Yeshua's speech and the narrator's comment open, so the speaker of 3:16–21 is undecided; a divine-speech mark would decide it. 3:31–36, the same case, is already unmarked. Applied in **Step 4 batch 4** (4 locales, both reading copies). The note that sets out the speaker question stays.
+- **Alternatives considered:**
+  - Keep the mark (rejected: it resolves what J-007 leaves open — the Prime Directive breach J-007 was written to prevent).
+  - Mark only 3:16 (rejected: the same open boundary; no principled cut point).
+- **Justification:** J-007 + Rule 30's default for open cases. The lead decided this under either L3 option.
+- **AI provenance:** drafted by the AI assistant (claude-opus-5-5), 2026-11-20, executing lead decision L3 (approved 2026-11-20). Step 4 batch 2.
+- **Status:** provisional
+- **Reviewers:** unassigned
+- **Cross-references:** J-007 (the reason); supersedes the 3:16–21 part of J-036's scope check; acts.md A-008; 1-peter.md P-011; `CONTENT_SWEEP_FINDINGS.md` headline 6, S6f.
+
+---
+
+## Entry J-039 — "son of man" lowercase everywhere (D8)
+
+- **Verse:** John 1:51, 3:13, 3:14 (book-wide policy) — verse text, overview prose, **notes** and **companions**.
+- **Language(s) affected:** EN, PT-BR, ES (DE: grammatical noun capitalization — *Menschensohn* / *Sohn des Menschen* — unchanged)
+- **Rule(s) invoked:** CORE Rule 20 (titular nouns; as amended in v3.4.1 for decision D8: "son of man" is lowercase in all body text, notes and companions included).
+- **Decision:** ὁ υἱὸς τοῦ ἀνθρώπου = **"son of man"** / *filho do homem* / *hijo del hombre* in all body text, notes and companions included. Section headings keep heading case; a sentence that quotes another work, or names the title as later tradition wrote it, keeps the quoted form; DE keeps its grammatical capitals. The J-018 clause that kept Title Case inside notes is superseded **for "son of man" only**. Applied in **Step 4 batch 4** (the D8 sweep, incl. mentions in TT-voice prose).
+- **Not covered:** the other titular nouns J-018 kept in Title Case inside notes (*Filho de Deus* / *Hijo de Dios*, *Filho Único* / *Hijo Único*, *o Filho* / *el Hijo*; EN "Son of God" etc.) are **unchanged** by v3.4.1. Whether to extend lowercase to them in notes is an open question for the lead (`docs/audit/PENDING.md`); until it is decided, J-018 governs them.
+- **Alternatives considered:**
+  - Keep Title Case in notes as "the recognized translation" (rejected: the lead's ruling is "everywhere"; the mixed casing reads as two different terms).
+  - Title Case everywhere (rejected: Rule 20 — the Greek has no capital and the casing would signal a title reading).
+- **Justification:** Rule 20 and one form per locale across text and notes. The lead's D8 word was "everywhere", so notes and companions are included.
+- **AI provenance:** drafted by the AI assistant (claude-opus-5-5), 2026-11-20, executing lead decision D8 (2026-11-19). Step 4 batch 2.
+- **Status:** provisional
+- **Reviewers:** unassigned
+- **Cross-references:** supersedes J-018 in part ("son of man" in notes only); genesis.md 2026-11-20-121 (parent, supersedes 2026-05-09-099 in part); matthew.md M-035; mark.md 2026-11-20-008; `docs/audit/PENDING.md` (the open lead question on the other titular nouns).
+
+---
+
+## Entry J-040 — AI-provenance record for John (Rule 28)
+
+- **Verse:** John 1–3, whole book — all locales.
+- **Language(s) affected:** EN, PT-BR, DE, ES
+- **Rule(s) invoked:** CORE Rule 28 (as amended in v3.4.1 — full provenance kept in the internal record, a plain statement for readers); CORE §Editorial Log Specification (AI provenance field).
+- **Decision:** record in this log the models and dates that John's reader-facing provenance lines state, before Step 4 batch 3 replaces them with the plain statement (L5). This log named Claude Opus 4.7 (J-020, J-021) but never Claude Opus 4.6.
+  - **Reader-facing lines (6 per locale, 24 in all; `ai-provenance-record.tsv`):**
+    - INTRODUCTION — "Editorial provenance: Drafted by Claude Opus 4.6 (1M context) on 2026-04-27. Not yet reviewed." (PT/ES "27/04/2026", DE "27.04.2026").
+    - study/CHAPTER-1/2/3-CONTEXT — "Drafted by: Claude Opus 4.6 (AI assistant)" + "Date: 2026-04-27".
+    - PEOPLE — "Drafted by Claude Opus 4.7 (1M context) on 2026-05-14, Phase 10 canary file" (DE "14.05.2026").
+    - study/CHAPTER-3-PROPHECY — "Drafted by: Claude Opus 4.7 (AI assistant)" + "Date: 2026-05-13" + "Phase: 11 Option C canary file".
+  - **Models:** Claude Opus 4.6 (`claude-opus-4-6`; the INTRODUCTION line adds "1M context") — INTRODUCTION and the three chapter CONTEXT companions, 2026-04-27; Claude Opus 4.7 (`claude-opus-4-7`; the PEOPLE line adds "1M context") — PEOPLE 2026-05-14 (Phase 10, J-021) and the chapter-3 PROPHECY companion 2026-05-13 (Phase 11 Option C, J-020).
+  - The chapter files carry no provenance line. The 2026-04-27 drafting predates this log's per-entry AI-provenance fields; the reader lines are its only record.
+  - **Reviewer decision:** none yet — all content `provisional`.
+- **Alternatives considered:**
+  - Rely on the TSV record alone (rejected: Rule 28 / the log schema require the record in the book's editorial log).
+- **Justification:** each book log names the model(s) and date(s) its reader-facing lines state (precedent: 1-peter.md P-013).
+- **AI provenance:** drafted by the AI assistant (claude-opus-5-5), 2026-11-20, from `ai-provenance-record.tsv` and this log. Step 4 batch 2 (review fixes).
+- **Status:** provisional
+- **Reviewers:** unassigned
+- **Cross-references:** `docs/editorial-log/ai-provenance-record.tsv`; J-020, J-021; 1-peter.md P-013.
+
+---

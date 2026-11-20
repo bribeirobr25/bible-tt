@@ -3,7 +3,7 @@
 **Buch:** Matthäus
 **Sprache:** Deutsch
 **Umfang:** Kapitelübergreifende Motive in Matthäus 1–3
-**Regelwerk:** v3.3 (Regel 29 regelt diese Datei)
+**Regelwerk:** v3.4 (Regel 29 regelt diese Datei)
 **Status:** vorläufig
 
 ---

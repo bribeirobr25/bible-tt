@@ -3,7 +3,7 @@
 **Book:** Matthew
 **Language:** English
 **Scope:** Matthew 1–3
-**Ruleset:** v3.3 (Rule 29 governs this file)
+**Ruleset:** v3.4 (Rule 29 governs this file)
 **Status:** provisional
 
 ---

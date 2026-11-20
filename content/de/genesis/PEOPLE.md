@@ -2,7 +2,7 @@
 
 **Buch:** Genesis
 **Sprache:** Deutsch
-**Regelwerk:** v3.3 (Regel 29 regelt diese Datei)
+**Regelwerk:** v3.4 (Regel 29 regelt diese Datei)
 **Status:** vorläufig
 
 ---

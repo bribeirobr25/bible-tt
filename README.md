@@ -47,6 +47,24 @@ Historical and linguistic background, prophecy readings, and the people behind t
 
 New readers can also start at `/{locale}/start` — a "Why this order?" reading-plan roadmap.
 
+## Pages
+
+| Route | Content |
+|-------|---------|
+| `/{locale}` | Landing page |
+| `/{locale}/books` | All books, with an at-a-glance card for each |
+| `/{locale}/start` | "Start here" reading plan |
+| `/{locale}/rules` | The 30 translation rules |
+| `/{locale}/{book}` | Book landing — at-a-glance card, chapter list, entry points |
+| `/{locale}/{book}/introduction` | Full book introduction |
+| `/{locale}/{book}/people` | People & Genealogy |
+| `/{locale}/{book}/background` | Book-level background (cross-chapter motifs) |
+| `/{locale}/{book}/chapter/{n}` | Read door |
+| `/{locale}/{book}/chapter/{n}/notes` | Notes door |
+| `/{locale}/{book}/chapter/{n}/deeper` | Deeper door (only where enrichment or prophecy exists) |
+
+Old URLs (`/{locale}/{book}/{n}`, `/{locale}/{book}/context`) redirect to the new ones.
+
 ## People & Genealogy
 
 Dedicated sub-page per book (`/{locale}/{book}/people`) with:
@@ -75,11 +93,11 @@ The TT uses familiar target-language names as default, with the transliterated s
 - First mention: "Yochanan (John) was immersing in the Jordan (Yarden)."
 - After that: "John answered them..."
 
-Exceptions: YHWH/JHWH (always transliterated — Rule 25), Yehudim (always transliterated — anti-reception-history safeguard), and technical terms like *raqia* (transliterated per Rule 4).
+Exceptions: YHWH/JHWH (always transliterated — Rule 25), Yehudim (DE Jehudim; always transliterated — anti-reception-history safeguard), and technical terms like *raqia* (transliterated per Rule 4).
 
 ## Translation methodology
 
-Governed by a [30-rule system](docs/rules/RULES-CORE.md) (v3.4) with a Prime Directive:
+Governed by a [30-rule system](docs/rules/RULES-CORE.md) (v3.4.1) with a Prime Directive:
 
 1. Do not simplify what the source text keeps complex.
 2. Do not clarify what the source text leaves ambiguous.
@@ -87,18 +105,18 @@ Governed by a [30-rule system](docs/rules/RULES-CORE.md) (v3.4) with a Prime Dir
 4. When addition is unavoidable, signal it clearly.
 
 Key decisions:
-- **YHWH** rendered consonantally (not "LORD") — Rule 25
+- **YHWH** rendered consonantally (not "LORD"; DE JHWH) in the Hebrew Bible; Greek κύριος = "the Lord" with a note on the referent — Rule 25
 - **Ambiguity preserved** via slash notation (*wind/spirit*, *side/rib*, *desire/turning*) — Rule 2
 - **No imported theology** (*nachash* = serpent, not Satan; no "Fall" vocabulary) — Rule 3
 - **Source structure visible** (*"dying you shall die"*, not "you shall surely die") — Rule 5
-- **Reader-facing text markers** — words added for grammar (italics), transliterated terms, preserved-ambiguity slashes, and direct divine speech are each marked with their own colour so the reader sees the text's seams — Rules 11/4/2/30
+- **Reader-facing text markers** — words added for grammar (grammatical-blue italic), transliterated terms (teal, bold), preserved-ambiguity slashes (bold, body colour), and direct divine speech (red) are each marked so the reader sees the text's seams — Rules 11/4/2/30
 - **Contextual enrichment governed** by Rule 29 — companion files only, labeled by type and certainty
 - **Restraint matters both ways** — anti-traditional reflex is as dishonest as traditional smoothing (Rule 3 corollary)
 - **Greek Article System** — article presence/absence evaluated per Greek syntax, not mechanically mapped (GS supplement)
 - **Ioudaioi Policy** — three-sense decision tree with anti-misuse safeguard for John's Gospel
 - **Multi-scenario composition framing** — Section I ("The World at the Time") presents historical context for all major dating scenarios without taking sides
 
-All decisions logged in the editorial logs ([genesis.md](docs/editorial-log/genesis.md), [john.md](docs/editorial-log/john.md), [matthew.md](docs/editorial-log/matthew.md), [mark.md](docs/editorial-log/mark.md), [luke.md](docs/editorial-log/luke.md), [acts.md](docs/editorial-log/acts.md), [1-peter.md](docs/editorial-log/1-peter.md)).
+All decisions logged in the editorial logs ([genesis.md](docs/editorial-log/genesis.md), [john.md](docs/editorial-log/john.md), [matthew.md](docs/editorial-log/matthew.md), [mark.md](docs/editorial-log/mark.md), [luke.md](docs/editorial-log/luke.md), [acts.md](docs/editorial-log/acts.md), [1-peter.md](docs/editorial-log/1-peter.md), and the cross-book [transliteration-decisions.md](docs/editorial-log/transliteration-decisions.md)).
 
 ## Tech stack
 
@@ -110,10 +128,10 @@ All decisions logged in the editorial logs ([genesis.md](docs/editorial-log/gene
 | Icons | Lucide (1.5px stroke) |
 | i18n | next-intl (URL-based routing) |
 | Content | Markdown parsed at build time (5 parser files; 6 parse functions) |
-| Testing | Vitest (1,100 tests across 31 files) + GitHub Actions CI gate |
+| Testing | Vitest (current count: `CLAUDE.md` › Verified state) + GitHub Actions CI gate |
 | Linting | Biome |
 
-> **Project state (2026-11-19):** Genesis 1–12, John 1–3, Matthew 1–3, Mark 1–3, Luke 1–3, Acts 1–3, and 1 Peter 1–5 in EN/PT-BR/DE/ES (seven books at full four-locale parity) — chapters + INTRODUCTION + PEOPLE + Book Context per book, study companions per chapter. All content carries `provisional` status pending reviewer sign-off (Rule 28). The web app is complete through the UX/Structure program (SEO baseline; a derived structured layer guarded by a zero-loss conservation gate; the three-door IA; content QA; UX finish) and the §I "World at the Time" **Option C** restructure. The "Light & Darkness" redesign and the reader-facing text-highlight markers (Rules 11/4/2/30) are merged and live on `main`. Ruleset **v3.4** (30 rules); all chapters stamped v3.4. 1,100 tests across 31 files; `build`/`lint`/`typecheck`/`content:lint` clean, enforced by the CI `Gate` workflow. **Current program:** the Launch-Readiness Program (`docs/audit/LAUNCH_PROGRAM.md`) toward a provisional public launch. **Largest remaining work:** Genesis 13–50. Full completed-work ledger → `docs/audit/EXECUTION_HISTORY.md`; open items → `docs/audit/PENDING.md`.
+> **Project state (2026-11-20):** Genesis 1–12, John 1–3, Matthew 1–3, Mark 1–3, Luke 1–3, Acts 1–3, and 1 Peter 1–5 in EN/PT-BR/DE/ES (seven books at full four-locale parity) — chapters + INTRODUCTION + PEOPLE + Book Context per book, study companions per chapter. All content carries `provisional` status pending reviewer sign-off (Rule 28). The web app is complete through the UX/Structure program (SEO baseline; a derived structured layer guarded by a zero-loss conservation gate; the three-door IA; content QA; UX finish) and the §I "World at the Time" **Option C** restructure. The "Light & Darkness" redesign and the reader-facing text-highlight markers (Rules 11/4/2/30) are merged and live on `main`. Ruleset **v3.4.1** (30 rules; the v3.4.1 point release corrects rule text and adds no rule, so content stays stamped v3.4). Tests (count in `CLAUDE.md` › Verified state), `build`/`lint`/`typecheck`/`content:lint` clean, enforced by the CI `Gate` workflow. **Current program:** the Launch-Readiness Program (`docs/audit/LAUNCH_PROGRAM.md`) toward a provisional public launch. **Largest remaining work:** Genesis 13–50. Full completed-work ledger → `docs/audit/EXECUTION_HISTORY.md`; open items → `docs/audit/PENDING.md`.
 
 ## Project structure
 
@@ -122,18 +140,23 @@ bible-tt/
 ├── content/                 # All content files (7 books × 4 locales)
 │   └── {en,pt-br,de,es}/{genesis,matthew,mark,luke,john,acts,1-peter}/   # chapters, companions, introductions, people
 ├── docs/
-│   ├── rules/               # RULES-CORE.md (v3.4) + RULES-HB.md + RULES-GS.md (30 rules)
+│   ├── rules/               # RULES-CORE.md (v3.4.1) + RULES-HB.md + RULES-GS.md (30 rules) + changelogs
 │   ├── architecture/        # STANDARDS.md (DDD, code standards)
 │   ├── design/              # TT-DESIGN-SYSTEM.md (UI/UX)
 │   ├── editorial-log/       # Decision logs (genesis, john, matthew, mark, luke, acts, 1-peter, transliteration-decisions)
-│   ├── audit/               # EXECUTION_HISTORY.md (completed) + PENDING.md (open items)
+│   ├── audit/               # EXECUTION_HISTORY.md (completed) + PENDING.md (open items) + plans and audits
+│   ├── guides/              # AUTHORING-PLAYBOOK.md (new chapter / new book runbook) + HOW-TO-READ-TT.md
 │   ├── source-analysis/     # Internal source-language method + worked-example corpus
+│   ├── implementation/      # SCHEMA-FUTURE.sql (deferred user-features schema)
 │   └── templates/           # Companion and introduction templates
 ├── src/
 │   ├── domain/              # Pure types (Chapter, Verse, Note, Enrichment, Introduction, Person, Prophecy, BookContext)
 │   ├── infrastructure/      # 5 parser files (markdown, enrichment, people, prophecy, book-context) + i18n config
-│   ├── ui/                  # Components (reading, study, enrichment, people, navigation, shared)
-│   └── app/                 # Next.js pages ([locale]/[book]/{chapter, introduction, people, context})
+│   ├── ui/                  # Components (reading, study, enrichment, prophecy, people, navigation, marketing, shared)
+│   ├── lib/                 # content-loader (infrastructure → app bridge), SEO/OG helpers
+│   ├── app/                 # Next.js pages: [locale]/{books,start,rules} + [locale]/[book]/{chapter/[chapter]/{notes,deeper}, introduction, people, background}
+│   └── proxy.ts             # next-intl locale routing
+├── scripts/                 # content-lint.sh, content-sweep.mjs (+ sweep/)
 └── public/                  # Static assets
 ```
 
@@ -141,7 +164,8 @@ bible-tt/
 
 - **UI/UX:** [docs/design/TT-DESIGN-SYSTEM.md](docs/design/TT-DESIGN-SYSTEM.md) — typography, color, accessibility, anti-slop
 - **Architecture:** [docs/architecture/STANDARDS.md](docs/architecture/STANDARDS.md) — DDD, TypeScript, testing, dependencies
-- **Translation:** [docs/rules/RULES-CORE.md](docs/rules/RULES-CORE.md) + [RULES-HB.md](docs/rules/RULES-HB.md) + [RULES-GS.md](docs/rules/RULES-GS.md) — 30-rule governance system (v3.4)
+- **Translation:** [docs/rules/RULES-CORE.md](docs/rules/RULES-CORE.md) + [RULES-HB.md](docs/rules/RULES-HB.md) + [RULES-GS.md](docs/rules/RULES-GS.md) — 30-rule governance system (v3.4.1)
+- **Authoring:** [docs/guides/AUTHORING-PLAYBOOK.md](docs/guides/AUTHORING-PLAYBOOK.md) — new chapter / new book runbook; [docs/guides/HOW-TO-READ-TT.md](docs/guides/HOW-TO-READ-TT.md) — reader guide
 - **Development workflow:** [CONTRIBUTING.md](CONTRIBUTING.md) — setup, the definition-of-done gate, branch/commit conventions, and the content-authoring + planning loops
 
 ## Contributing

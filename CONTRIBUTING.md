@@ -11,7 +11,7 @@ pnpm install
 pnpm dev
 ```
 
-- **Node** 22 LTS, **pnpm** 9 (see `packageManager` in `package.json`).
+- **Node** 22.x (`engines` in `package.json`), **pnpm** 9 (`packageManager` in `package.json`).
 - The dev server runs on **port 3001** by project convention — it is fixed in `package.json` (`next dev -p 3001`). Open <http://localhost:3001>. Don't introduce port 3000 anywhere.
 
 ---
@@ -24,7 +24,7 @@ pnpm dev
 | `pnpm build` | Production build |
 | `pnpm test` | All Vitest unit tests (parsers, render-safe, conservation gate, locale parity, raw-count reconciliation, people-field resolution, i18n parity, allow-list freshness, content-sweep fixtures) |
 | `pnpm lint` | Biome linter (`src/` + `scripts/`) |
-| `pnpm typecheck` | `tsc --noEmit` |
+| `pnpm typecheck` | `tsc --noEmit` + `tsc -p tsconfig.scripts.json` (JSDoc check of `scripts/**/*.mjs`) |
 | `pnpm content:lint` | Hardened content lint (`scripts/content-lint.sh`); allow-list at `scripts/lint-allowlist.txt` |
 | `pnpm content:lint:warn` | Same lint, non-blocking |
 | `pnpm content:sweep` | Read-only rule-compliance scan → `docs/audit/content-sweep/` (not a gate; Step 4 promotes cleared classes into `content-lint`) |
@@ -40,7 +40,7 @@ A change is not done until **all** of these pass locally:
 3. `pnpm build` — production build succeeds.
 4. `pnpm content:lint` — content lint clean (or any new exception added, with justification, to `scripts/lint-allowlist.txt`).
 5. **i18n parity** — any UI string added in one locale exists in all four (`en`, `pt-br`, `de`, `es`) under `src/infrastructure/i18n/messages/` (now enforced by `src/infrastructure/i18n/__tests__/messages-parity.test.ts`).
-6. `pnpm typecheck` — `tsc --noEmit` clean.
+6. `pnpm typecheck` — both TypeScript passes clean.
 7. **CI green** — the GitHub Actions **Gate** workflow (`.github/workflows/gate.yml`) runs steps 1–4 + typecheck on Linux (GNU grep, bash 5) for every PR and push to `main`; a PR **must not be merged** until it is green. **Enforced by GitHub (branch protection on `main`, 2026-11-19):** `main` accepts changes only through a pull request whose required status check **`gate`** (the job id in `gate.yml`) is green against the latest `main` (strict); the rule applies to admins too, force-pushes and branch deletion are blocked, and no approving review is required. Local runs use macOS BSD grep + bash 3.2 — both must pass.
 
 Two recurring footguns:
@@ -54,14 +54,14 @@ Two recurring footguns:
 
 - **`main` is the active trunk and the release gate.** Direct pushes to `main` are rejected by branch protection (admins included) — every change, however small, goes through a PR.
 - Branch from `main`; open a PR back into `main` and merge only once the `gate` check is green **and** the merge is authorized by the project lead (standing authorization: LAUNCH_PROGRAM D14).
-- Commit messages: a concise subject line, then a body that says **what changed, why, and how it was verified** (the gate results — e.g. "916 tests pass; lint/build/content-lint clean; conservation intact"). Match the existing log style.
+- Commit messages: a concise subject line, then a body that says **what changed, why, and how it was verified** (the gate results — e.g. "N tests pass; lint/typecheck/build/content-lint clean; conservation intact", with N the actual count; the current count is in `CLAUDE.md` › Verified state). Match the existing log style.
 - End every commit with the co-author trailer:
 
   ```
-  Co-Authored-By: <the AI model that assisted> <noreply@anthropic.com>
+  Co-Authored-By: Claude <noreply@anthropic.com>
   ```
 
-  (Name the model actually used, e.g. `Claude Opus 5.5`.) Commits must use your **GitHub no-reply email** — the account blocks pushes that expose a private address.
+  Replace `Claude` with the name of the model actually used for that commit (the trailer your tool supplies is fine); don't copy a model name from an older commit. Commits must use your **GitHub no-reply email** — the account blocks pushes that expose a private address.
 
 ---
 
@@ -72,7 +72,7 @@ Two recurring footguns:
 Content is markdown under `content/{locale}/{book}/` and is the **source of truth**; parsers read it at build time. Authoring is **EN-first, then PT-BR, DE, ES.**
 
 1. **Log the decision first.** Before drafting a translation choice, record it in `docs/editorial-log/{book}.md` (schema in RULES-CORE.md). New glossary terms go through the glossary-expansion procedure (RULES-CORE.md).
-2. **Author EN**, then propagate to the other three locales. Reading-Guide headings are localized (`READING GUIDE` / `GUIA DE LEITURA` / `LESEANLEITUNG` / `GUIA DE LECTURA`) — match the per-locale heading.
+2. **Author EN**, then propagate to the other three locales. Reading-Guide headings are localized (`READING GUIDE` / `GUIA DE LEITURA` / `LESEANLEITUNG` / `GUÍA DE LECTURA`) — match the per-locale heading.
 3. Follow the file conventions in `CLAUDE.md` (new chapter / new book-introduction checklists) and the templates in `docs/templates/`.
 4. Run the gate. New files are auto-discovered by the parsers — no registration step.
 
@@ -106,7 +106,9 @@ Keep each document scoped to its concern; this file only links out.
 |---|---|
 | Architecture, DDD layers, TypeScript, testing, dependencies | `docs/architecture/STANDARDS.md` |
 | UI/UX — typography, color tokens, accessibility, anti-slop, reader-text markers | `docs/design/TT-DESIGN-SYSTEM.md` |
-| Translation governance (30 rules, v3.4) | `docs/rules/RULES-CORE.md` + `RULES-HB.md` + `RULES-GS.md` |
-| Editorial decisions per book | `docs/editorial-log/` |
+| Translation governance (30 rules, v3.4.1) | `docs/rules/RULES-CORE.md` + `RULES-HB.md` + `RULES-GS.md` |
+| Editorial decisions per book (+ cross-book transliterations) | `docs/editorial-log/` |
+| Authoring runbook (new chapter / new book) | `docs/guides/AUTHORING-PLAYBOOK.md` |
+| Reader guide | `docs/guides/HOW-TO-READ-TT.md` |
 | Project snapshot & file/URL map | `CLAUDE.md` |
 | Completed-work ledger / open items | `docs/audit/EXECUTION_HISTORY.md` · `docs/audit/PENDING.md` |

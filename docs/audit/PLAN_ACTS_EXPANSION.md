@@ -1,5 +1,7 @@
 # Plan — Acts 1–3 (new book, full treatment, 4 locales)
 
+**Outcome (status updated 2026-11-20):** EXECUTED 2026-06-24 — Acts 1–3 authored in EN and propagated to all 4 locales; branch `acts-expansion` merged to `main` in PR #14. The "executing" status below is historical (`EXECUTION_HISTORY.md` › Acts 1–3).
+
 **Status:** **APPROVED — project-lead approved 2026-06-23** (all 4 open decisions confirmed per recommendations); executing on branch `acts-expansion` · **Date:** 2026-06-23 · **Class:** content authoring (new book, from source) + new-book activation · **Risk:** Medium-High (*authoring from Greek*, not propagation; Rule-28 provisional; Acts has the NT's heaviest Alexandrian/Western textual divergence — see §6)
 
 > Follows `docs/guides/AUTHORING-PLAYBOOK.md` Track B and reuses the Luke-expansion template (`PLAN_LUKE_EXPANSION.md`, audited APPROVE 2026-06-22). Acts is **GS narrative** — the gospel/Luke template applies directly, *no genre adaptation* (unlike the epistles that come next; see §8).

@@ -1,12 +1,13 @@
 # The Transparent Translation — Architecture & Code Standards
 ## Backend, Frontend, and Infrastructure Guide
 
-**Last updated:** 2026-04-21
+**Last updated:** 2026-11-20 (Launch Program Step 4, batch 2: file map, routes, SEO and dependencies brought in line with the tree; counts point to `CLAUDE.md`)
 **Framework:** Next.js 16 (App Router, React Server Components, Turbopack)
 **Language:** TypeScript (strict mode)
 **Linter:** Biome
 **Test runner:** Vitest
-**Hosting:** Vercel (free tier, static-first)
+**Hosting:** Vercel (static-first)
+**Node:** 22.x (`package.json` `engines`)
 
 ---
 
@@ -19,34 +20,43 @@ Organize code around the **problem domain** (Bible translation content), not aro
 
 ```
 src/
-├── domain/           ← Pure domain types and interfaces. NO framework imports.
-├── infrastructure/   ← Adapters that implement domain interfaces. Framework-aware.
+├── domain/           ← Pure domain types, IDs, label vocabularies, book registry. NO framework imports.
+├── infrastructure/   ← Adapters: the content parsers + file-system repository, i18n config. Framework-aware.
 ├── ui/               ← Presentation components. React-aware. No domain logic.
 ├── app/              ← Next.js routing and page composition. Thin glue layer.
-├── hooks/            ← React hooks for client-side state.
-└─�� lib/              ← Shared utilities and bridge functions.
+├── lib/              ← Bridge (content-loader) + SEO/OG/i18n helpers.
+└── proxy.ts          ← next-intl locale routing (Next.js 16 "proxy", formerly middleware.ts).
 ```
 
 ### Rules
 - `domain/` **never** imports from `infrastructure/`, `ui/`, `app/`, or `next`.
-- `infrastructure/` imports from `domain/` (to implement interfaces) and external libraries (fs, gray-matter).
-- `ui/` imports from `domain/` (for types) but **never** from `infrastructure/` directly.
+- `infrastructure/` imports from `domain/` (to implement interfaces) and Node/external libraries (`node:fs`, next-intl).
+- `ui/` imports from `domain/` (for types) but **never** from `infrastructure/` directly (tests may, to feed real parsed content).
 - `app/` composes everything — calls `lib/content-loader.ts` (which bridges infrastructure to pages) and renders `ui/` components.
-- `lib/` bridges `infrastructure/` to `app/` — this is the only place that calls repository functions.
+- `lib/` bridges `infrastructure/` to `app/` — this is the only place that calls repository functions. `app/` imports `infrastructure/` only for i18n config (`locales`, `routing`).
 
 ### Current implementation
 
 ```
-domain/content/types.ts          → ChapterData, Verse, Note, EnrichmentData (pure types)
-infrastructure/content/           → markdown-parser.ts, enrichment-parser.ts, fs-content-repository.ts
-infrastructure/i18n/              → config.ts, routing.ts, request.ts, messages/*.json
+domain/content/types.ts           → ChapterData, Verse, Note, EnrichmentData, IntroductionData, ProphecyData, PeopleData, BookContextData
+domain/content/structured.ts      → derived StructuredUnit layer (emit* per content kind; guarded by the conservation gate)
+domain/content/ids.ts, labels.ts, review-status.ts → stable IDs, claim/confidence vocabularies, provisional|reviewed|signed-off
+domain/books/registry.ts          → AVAILABLE_BOOKS, PILOT_BOOKS, isActiveBook() (the publish SSOT)
+domain/rules/ruleset.ts           → RULE_COUNT (30)
+infrastructure/content/           → markdown-parser.ts, enrichment-parser.ts (+ introductions), people-parser.ts (+ people-fields.ts),
+                                    prophecy-parser.ts, book-context-parser.ts, sources-block.ts, front-matter.ts, fs-content-repository.ts
+infrastructure/i18n/              → config.ts, routing.ts, request.ts, messages/{en,pt-br,de,es}.json
 ui/reading/                       → continuous-reading.tsx, reading-progress.tsx
-ui/study/                         → verse-card.tsx, note-block.tsx, glossary-panel.tsx
-ui/enrichment/                    → context-view.tsx, enrichment-entry.tsx
-ui/navigation/                    → global-header.tsx, chapter-nav.tsx, language-switcher.tsx
-ui/shared/                        → chapter-view.tsx (composes reading + study + context modes)
-lib/content-loader.ts             → getChapterData(), getEnrichmentData(), getAllChapterParams()
-app/[locale]/[book]/[chapter]/    → page.tsx (calls content-loader, renders chapter-view)
+ui/study/                         → notes-view.tsx, verse-card.tsx, note-block.tsx, glossary-panel.tsx, supplementary-section.tsx, copy-verse-link.tsx
+ui/enrichment/                    → deeper-view.tsx, context-view.tsx, enrichment-entry.tsx, claim-badge.tsx, introduction-view.tsx, book-context-view.tsx
+ui/prophecy/                      → prophecy-view.tsx
+ui/people/                        → person-card.tsx, people-timeline.tsx
+ui/navigation/                    → app-bar.tsx (incl. language switcher), door-nav.tsx, door-pager.tsx, chapter-nav.tsx, locale-link.tsx, site-footer.tsx
+ui/marketing/                     → marketing-hero.tsx, separation-hero.tsx (landing WebGL hero, three.js)
+ui/shared/                        → chapter-shell.tsx, render-markdown-safe.ts, sources-block.tsx, status-pill.tsx, json-ld.tsx, cx.ts, …
+lib/content-loader.ts             → getChapterData(), getEnrichmentData(), getAllChapterParams(), hasDeeperContent(), …
+lib/seo.ts, lib/og.tsx, lib/i18n.ts → per-page metadata + JSON-LD builders, OG image rendering, i18n re-exports
+app/[locale]/[book]/chapter/[chapter]/ → page.tsx (Read), notes/page.tsx, deeper/page.tsx — each calls content-loader and renders ChapterShell + its door view
 ```
 
 ### Test: can you swap the infrastructure?
@@ -62,19 +72,21 @@ State changes flow through **events** (URL changes, user interactions, scroll po
 ### Current implementation
 | Event source | Mechanism | Consumer |
 |---|---|---|
-| Locale change | URL-based (`/en/` → `/pt-br/`) via next-intl middleware | All pages re-render with new locale |
-| Chapter navigation | URL-based (`/genesis/1` → `/genesis/2`) | Page component fetches new data |
-| View mode toggle | React `useState` (reading → study → context) | `chapter-view.tsx` conditionally renders |
+| Locale change | URL-based (`/en/` → `/pt-br/`) via the next-intl proxy (`src/proxy.ts`) | All pages re-render with new locale |
+| Chapter navigation | URL-based (`/genesis/chapter/1` → `/genesis/chapter/2`); old `/genesis/1` URLs redirect (`next.config.ts`) | Page component fetches new data |
+| Door switch (Read / Notes / Deeper) | URL-based: `/chapter/{n}`, `/chapter/{n}/notes`, `/chapter/{n}/deeper` (`DoorNav` links) | Each door is its own statically generated page |
+| Deeper sub-tab (Background / Prophecies) | React `useState` in `deeper-view.tsx` | Shows the selected tab panel |
+| Pre-Phase-3 hash links (`#study`, `#context`, …) | `legacy-hash-redirect.tsx` (client) | Replaces the URL with the matching door path |
 | Scroll progress | `scroll` event → `useState` in `reading-progress.tsx` | Progress bar width |
 | Details expand/collapse | Native `<details>` HTML event | Browser handles; CSS transitions respond |
 
 ### Rules
 - **No global state library** (no Redux, Zustand, Jotai). The app is static content — URL is the state.
-- **URL as truth** for navigation state (locale, book, chapter). Client-side state only for ephemeral UI (view mode, scroll position).
-- **Future analytics events** (when implemented) use the taxonomy in §10 (Product KPIs & Analytics): `CHAPTER_VIEWED`, `VIEW_MODE_SWITCHED`, `LANGUAGE_CHANGED`, `NOTE_EXPANDED`, `GLOSSARY_OPENED`.
+- **URL as truth** for navigation state (locale, book, chapter, door). Client-side state only for ephemeral UI (Deeper sub-tab, scroll position, menu open).
+- **Future analytics events** (when implemented) use the taxonomy in §10 (Product KPIs & Analytics): `CHAPTER_VIEWED`, `DOOR_SWITCHED`, `LANGUAGE_CHANGED`, `NOTE_EXPANDED`, `GLOSSARY_OPENED`.
 
 ### Anti-pattern: don't
-- Don't put view-mode in URL query params (it's ephemeral; losing it on page reload is fine)
+- Don't put the door or sub-tab in URL query params: doors are path segments (crawlable pages); the Deeper sub-tab is ephemeral
 - Don't store content in client-side state (it's server-rendered from markdown)
 - Don't create an event bus for current scope (static site doesn't need one)
 
@@ -133,9 +145,11 @@ Don't repeat yourself — but don't abstract prematurely either. Three similar l
 |---|---|---|
 | `NoteBlock` component | All verse notes across all chapters | `ui/study/note-block.tsx` |
 | `EnrichmentEntryCard` | All enrichment entries across all chapters | `ui/enrichment/enrichment-entry.tsx` |
-| `LanguageSwitcher` | Chapter view header (could be shared with global header) | `ui/navigation/language-switcher.tsx` |
-| `parseChapterMarkdown()` | All 3 languages × all chapters | `infrastructure/content/markdown-parser.ts` |
-| `cn()` utility | All components needing conditional classes | `lib/cn.ts` |
+| `ChapterShell` | All three chapter doors (header, door nav); `DoorPager` is placed by each door page that has one | `ui/shared/chapter-shell.tsx` |
+| `renderMarkdownSafe()` | All rendered markdown prose and notes (escaping + markers) | `ui/shared/render-markdown-safe.ts` |
+| Sources block helpers | Every parser that captures a Sources section | `infrastructure/content/sources-block.ts` |
+| `parseChapterMarkdown()` | All 4 locales × all chapters | `infrastructure/content/markdown-parser.ts` |
+| `cx()` utility | All components needing conditional classes | `ui/shared/cx.ts` |
 
 ### The 3× rule
 - First occurrence: write inline
@@ -144,7 +158,7 @@ Don't repeat yourself — but don't abstract prematurely either. Three similar l
 
 ### Anti-pattern: don't
 - Don't create a `<BaseCard>` wrapper when you have 2 card-like things — wait for the third
-- Don't create a `utils/` dump — utilities should have specific homes (`lib/cn.ts`, `lib/slug.ts`)
+- Don't create a `utils/` dump — utilities should have specific homes (`ui/shared/cx.ts`, `domain/content/ids.ts`)
 - Don't abstract the parser into a "generic markdown framework" — it serves one project
 
 ---
@@ -168,8 +182,8 @@ Name things by **what they are** or **what they do**, not by how they look or wh
 
 ### Directory naming
 ```
-✓ ui/reading/             (the DOMAIN of reading mode)
-✓ ui/study/               (the DOMAIN of study mode)
+✓ ui/reading/             (the DOMAIN of the Read door)
+✓ ui/study/               (the DOMAIN of the Notes door)
 ✓ ui/enrichment/          (the DOMAIN of contextual enrichment)
 ✗ ui/components/          (generic, says nothing)
 ✗ ui/misc/                (worse)
@@ -210,41 +224,51 @@ Each file has **one reason to change**. If a file changes for two unrelated reas
 ```
 src/
 ├── app/                    ← Changes when: routes change, page composition changes
+│   ├── layout.tsx, not-found.tsx, globals.css
+│   ├── sitemap.ts, robots.ts
 │   └── [locale]/
-│       ├── page.tsx        ← Landing page
-│       ├── rules/page.tsx  �� Rules page
+│       ├── page.tsx                  ← Landing
+│       ├── books/ start/ rules/      ← Book index, reading plan, the 30 rules
+│       ├── not-found.tsx, [...rest]/ ← Localized 404 + catch-all
 │       └── [book]/
-│           ├── page.tsx    ← Book listing
-│           └── [chapter]/
-│               └── page.tsx ← Chapter view (thin — delegates to chapter-view.tsx)
+│           ├── page.tsx              ← Book landing (at-a-glance card + chapter list)
+│           ├── introduction/ people/ background/
+│           └── chapter/[chapter]/
+│               ├── page.tsx          ← Read door (thin — composes ChapterShell)
+│               ├── notes/page.tsx    ← Notes door
+│               └── deeper/page.tsx   ← Deeper door
+│       (each route also has an opengraph-image.tsx)
 │
 ├── domain/                 ← Changes when: the data model changes
-│   └── content/types.ts   ← All types in one file (acceptable at current scale)
+│   ├── content/            ← types.ts, structured.ts, ids.ts, labels.ts, review-status.ts
+│   ├── books/registry.ts   ← Which books are published
+│   └── rules/ruleset.ts    ← Rule count
 │
 ├── infrastructure/         ← Changes when: data source or parsing logic changes
-│   ├── content/
-│   │   ├── markdown-parser.ts      ← Chapter file parser
-│   │   ├── enrichment-parser.ts    ← Companion file parser
-│   │   └── fs-content-repository.ts ← File-system adapter
-│   ��── i18n/
-��       ├── config.ts               ← Locale definitions
+│   ├── content/            ← 5 parsers (markdown, enrichment + introduction, people, prophecy, book-context)
+│   │                         + people-fields.ts, sources-block.ts, front-matter.ts, fs-content-repository.ts
+│   └── i18n/
+│       ├── config.ts               ← Locale definitions
 │       ├── routing.ts              ← next-intl routing
 │       ├── request.ts              ← Server-side locale resolution
 │       └── messages/*.json         ← UI strings per locale
 │
 ├── ui/                     ← Changes when: visual design or interaction patterns change
-│   ├── reading/            ← Reading-mode components
-│   ├── study/              ← Study-mode components
-│   ├─�� enrichment/         ← Context-mode components
-│   ├─��� navigation/         ← Navigation components (header, chapter-nav, language)
-│   └── shared/             ← Cross-mode components (chapter-view)
+│   ├── reading/            ← Read door
+│   ├── study/              ← Notes door
+│   ├── enrichment/         ← Deeper door, introduction, book background
+│   ├── prophecy/           ← Prophecy tab
+│   ├── people/             ← People & genealogy
+│   ├── navigation/         ← App bar, door nav, chapter nav, footer
+│   ├── marketing/          ← Landing hero
+│   └── shared/             ← Chapter shell, safe markdown renderer, Sources block, JSON-LD
 │
-├── hooks/                  ← Changes when: client-side state logic changes
 ├── lib/                    ← Changes when: bridge logic or utilities change
 │   ├── content-loader.ts   ← Bridge: infrastructure → app
-│   └── cn.ts               ← Tailwind class merging utility
+│   ├── seo.ts, og.tsx      ← Metadata, JSON-LD, OG images
+│   └── i18n.ts             ← i18n re-exports for app/
 │
-└── middleware.ts            ← Changes when: routing middleware logic changes
+└── proxy.ts                ← Changes when: locale-routing logic changes (next-intl)
 ```
 
 ### Rules
@@ -267,9 +291,10 @@ Errors are expected, not exceptional. Handle them gracefully at every boundary.
 | Unknown path under a locale | `[...rest]` catch-all → `notFound()` → localized `[locale]/not-found.tsx` | `src/app/[locale]/[...rest]/page.tsx` |
 | Invalid chapter number | `notFound()` via `Number.isNaN()` check | `[chapter]/page.tsx` |
 | Missing chapter file | `readChapter()` returns `null` → `notFound()` | `fs-content-repository.ts` |
-| Missing enrichment file | `readEnrichment()` returns `null` → no Context tab shown | `fs-content-repository.ts` |
+| Missing enrichment and prophecy files | `hasDeeperContent()` false → the Deeper door is shown disabled and its route is not generated | `content-loader.ts`, `door-nav.tsx` |
 | Parser error on malformed markdown | **rethrown** — only an absent file (`ENOENT`/`ENOTDIR`) reads as `null`; any other I/O or parse error fails the build loudly (Step 4 batch 1; a swallowed parse error used to become a silent 404) | `fs-content-repository.ts` |
-| Missing i18n message | next-intl falls back to default locale | `request.ts` |
+| Invalid locale | falls back to the default locale | `request.ts` |
+| Missing i18n message key | prevented at build time — every locale must carry every key | `messages-parity.test.ts` |
 
 ### Rules
 - **Return `null` for missing content** — don't throw. Let the caller decide (show 404 or hide section).
@@ -292,18 +317,18 @@ Minimize attack surface. A static content site has a small surface — keep it t
 | Concern | Status | Notes |
 |---|---|---|
 | User input | **None** | Static site, no forms, no auth, no user data |
-| XSS | **Low risk** | `dangerouslySetInnerHTML` used for markdown rendering — content is author-controlled, not user-submitted |
+| XSS | **Low risk** | `dangerouslySetInnerHTML` used for markdown rendering — content is author-controlled, and `render-markdown-safe.ts` escapes HTML before applying its markdown subset; JSON-LD goes through `serialize-json-ld.ts` |
 | CSRF | **N/A** | No forms or mutations |
-| CSP headers | **Not configured** | Should add via `next.config.ts` when deployed |
-| Dependencies | **Minimal** | 10 production deps; review before adding more |
+| Security headers | **Partial** | `next.config.ts` sets `X-Frame-Options: DENY`, `X-Content-Type-Options: nosniff`, `Referrer-Policy`; no Content-Security-Policy yet |
+| Dependencies | **Minimal** | See §15; review before adding more |
 | Secrets | **None** | No API keys, no environment variables, no auth tokens |
-| Audit trail | **Editorial log** | All content decisions logged in `docs/editorial-log/genesis.md` with timestamps and provenance |
+| Audit trail | **Editorial logs** | Content decisions logged per book in `docs/editorial-log/{book}.md` with dates and AI provenance (Rule 28) |
 
 ### Rules
 - **No user input at current scope.** If forms/auth are added (future scope), validate all input server-side.
 - **Review `dangerouslySetInnerHTML` carefully.** Currently safe because content is from committed markdown files, not user input. If content source changes, sanitize with DOMPurify or similar.
 - **Minimize dependencies.** Every new `pnpm add` increases attack surface. Justify each addition.
-- **Add CSP headers before production deployment:**
+- **Add a Content-Security-Policy before production deployment** (the other headers are already set):
   ```typescript
   // next.config.ts
   headers: async () => [{
@@ -333,16 +358,19 @@ Static-first architecture means performance is a built-in property, not an after
 | Bundle size | <80KB gzipped (first load) | No heavy libraries; Lucide tree-shaken |
 
 ### SEO
+Shipped in UX Phase 1 (2026-06). Helpers live in `lib/seo.ts`; each page calls them from `generateMetadata()`.
+
 | Feature | Status | File |
 |---|---|---|
-| `<title>` per page | Partial (root layout only) | `app/layout.tsx` |
-| `<meta description>` | Root layout only | Extend to per-chapter |
+| `<title>` + `<meta description>` per page | ✅ `seoMetadata()` (description truncated to 155 chars) | `lib/seo.ts`, every `page.tsx` |
 | `<html lang>` | ✅ Set per locale | `[locale]/layout.tsx` |
-| Canonical URLs | Not implemented | Add `generateMetadata()` per page |
-| Open Graph | Not implemented | Add per-chapter OG metadata |
-| JSON-LD | Not implemented | Bible/Chapter schema.org markup |
+| Canonical URLs + `hreflang` alternates | ✅ `canonicalUrl()`, `languageAlternates()` | `lib/seo.ts` |
+| Open Graph + Twitter card | ✅ Metadata per page + generated images | `lib/seo.ts`, `lib/og.tsx`, `opengraph-image.tsx` per route |
+| JSON-LD | ✅ `WebSite`, `BreadcrumbList`, `Book`, `Chapter` (escaped via `serialize-json-ld.ts`) | `lib/seo.ts`, `ui/shared/json-ld.tsx` |
+| Sitemap (with language alternates) | ✅ Home, books, rules, start, every active book page and chapter door | `app/sitemap.ts` |
+| `robots.txt` | ✅ | `app/robots.ts` |
 | Favicon | ✅ SVG | `public/favicon.svg` |
-| Sitemap | Not implemented | Add `app/sitemap.ts` |
+| Legacy URLs | ✅ 308 redirects: `/{book}/{n}` → `/{book}/chapter/{n}`; `/{book}/context` → `/{book}/background` | `next.config.ts` |
 
 ### Rules
 - **RSC by default.** Only add `"use client"` when the component needs browser APIs (useState, useEffect, event handlers).
@@ -361,8 +389,8 @@ Track what matters for product decisions, not everything that's technically meas
 ### Planned taxonomy
 | Event | Data | Purpose |
 |---|---|---|
-| `CHAPTER_VIEWED` | locale, book, chapter, viewMode | Which chapters are read, in which mode |
-| `VIEW_MODE_SWITCHED` | from, to, locale, book, chapter | How readers use different modes |
+| `CHAPTER_VIEWED` | locale, book, chapter, door | Which chapters are read, through which door |
+| `DOOR_SWITCHED` | from, to, locale, book, chapter | How readers move between Read, Notes and Deeper |
 | `LANGUAGE_CHANGED` | from, to, book, chapter | Which languages are most used |
 | `NOTE_EXPANDED` | locale, book, chapter, verse, noteType | Which study notes readers engage with |
 | `GLOSSARY_OPENED` | locale, book, chapter | Whether glossary is used |
@@ -389,7 +417,7 @@ A static site has almost zero concurrency concerns. Design for the future, but d
 | Concern | Risk | Handling |
 |---|---|---|
 | Build-time content parsing | None | Sequential per file; no shared mutable state |
-| Client-side state | Minimal | `useState` in `chapter-view.tsx` for view mode; no shared state |
+| Client-side state | Minimal | Local `useState` only (Deeper sub-tab, app-bar menu, reading progress, copy-link feedback); no shared state |
 | URL-based navigation | None | Next.js handles routing atomically |
 | File system reads | None | Read-only; no writes during request handling |
 
@@ -415,8 +443,8 @@ Monitor what tells you if the system is healthy. For a static site, this is most
 ### Current monitoring
 | Layer | Tool | Status |
 |---|---|---|
-| Build health | `pnpm test` (117 parser tests) + `pnpm build` | ✅ Active |
-| Content integrity | Parser validates all chapter files at test time | ✅ Active |
+| Build health | `pnpm test` (all suites; count in `CLAUDE.md` › Verified state) + `pnpm lint` + `pnpm typecheck` + `pnpm content:lint` + `pnpm build`; the same gate runs in CI on every PR | ✅ Active |
+| Content integrity | Parsers, the conservation gate, locale-parity and activation-consistency tests run over the real content | ✅ Active |
 | Runtime errors | Not yet monitored | Deferred |
 | Performance | Not yet monitored | Deferred |
 | Uptime | Not yet monitored | Vercel provides basic uptime for deployed sites |
@@ -424,7 +452,7 @@ Monitor what tells you if the system is healthy. For a static site, this is most
 ### Planned (see `docs/audit/PENDING.md`)
 - **Vercel Analytics** — page views, traffic patterns (free)
 - **Vercel Speed Insights** — Core Web Vitals monitoring (free)
-- **Sentry** — evaluated against actual error patterns before adoption. Only added if: client-side JS errors in study mode, build-time parser failures, or cross-browser rendering issues need structured alerting. Content-aware tags if adopted:
+- **Sentry** — evaluated against actual error patterns before adoption. Only added if: client-side JS errors in the Notes or Deeper door, build-time parser failures, or cross-browser rendering issues need structured alerting. Content-aware tags if adopted:
   ```typescript
   beforeSend(event) {
     event.tags.language = locale;
@@ -435,7 +463,7 @@ Monitor what tells you if the system is healthy. For a static site, this is most
 
 ### Rules
 - **Build validation is the first line of defense.** If `pnpm test` passes and `pnpm build` succeeds, the site will work.
-- **Content validation catches drift.** The parser test suite validates all 9 chapter files (soon 12+) parse into correct structures. A malformed markdown file fails the build.
+- **Content validation catches drift.** The test suites parse every content file in every locale. A malformed markdown file fails the tests and the build.
 - **Don't add monitoring infrastructure before deployment.** Monitor locally via dev-server console; add production monitoring when deployed.
 
 ---
@@ -480,13 +508,15 @@ Run `pnpm test` for the live count and per-file breakdown (no figure is kept her
 | Area | Runner | What's tested |
 |---|---|---|
 | Content parsers (chapter/markdown, enrichment, people, prophecy, introduction, book-context) | Vitest | Verses, note types, glossary, continuous reading, metadata; section/label/disclaimer/source extraction; person fields + genealogy tables + sources; prophecy entries; introduction sections; cross-chapter motifs |
+| UI logic + server-rendered markup (`src/ui/**/__tests__/`) | Vitest | Door sub-tab ARIA, Sources/status rendering, JSON-LD escaping, reading progress, copy-link, hero gating |
+| Domain + i18n guards | Vitest | Labels, review status, registry, activation guard, message parity across locales, rules-page messages |
 | Highlight-marker renderer (`render-markdown-safe`) | Vitest | `{t:…}`/`{a:…}`/`@@…@@` → styled spans, escaping, nesting (see RULES-CORE Rule 30 + §Text-Highlight Markers) |
 | Conservation gate (`conservation.test.ts`) | Vitest | Proves the parser→structured-layer derivation loses nothing (per-kind count + content multisets); chapter-completeness + inventory backstops |
 | Build | Next.js (implicit via `pnpm build`) | TypeScript compilation, page generation, static params |
 | Content tooling (`scripts/`) | Vitest | Content-sweep checks on synthetic fixtures (positive + negative per check) and a real-corpus smoke/determinism run; allow-list well-formedness (`scripts/__tests__/lint-allowlist.test.ts`) |
 
 ### What NOT to test
-- **Don't unit-test React components** at current scope. The ROI is low for a static content site. Visual validation via dev server is sufficient.
+- **No browser/DOM test environment.** UI suites (`src/ui/**/__tests__/`) test pure logic extracted from components and server-render components with `renderToStaticMarkup` to assert markup (ARIA, escaping, status pills). Visual validation via the dev server covers the rest.
 - **Don't mock the file system.** Tests read real chapter files — this is intentional. If a chapter file is malformed, the test fails. That's the point.
 - **Don't test Next.js routing.** Trust the framework.
 
@@ -522,26 +552,25 @@ pnpm build         # Full production build (implicit type + compilation check)
 ### Principle
 Every dependency is a liability. Minimize, justify, and audit.
 
-### Current dependencies (10 production)
+### Current dependencies (9 production — `package.json`)
 | Dependency | Purpose | Justified? |
 |---|---|---|
 | `next` | Framework | Core — non-negotiable |
 | `react`, `react-dom` | UI library | Core — non-negotiable |
 | `next-intl` | i18n routing + messages | Required for quadrilingual support (EN/PT-BR/DE/ES) |
-| `gray-matter` | YAML front-matter parsing | Unused currently (chapter files don't have YAML front matter) — **candidate for removal** |
-| `clsx`, `tailwind-merge` | CSS class merging | Used in `cn()` utility |
 | `lucide-react` | Icons | Design system requirement (1.5px stroke) |
-| `framer-motion` | Animations | Installed but **currently unused** — evaluate at the next dependency review or remove |
+| `three` | WebGL for the landing hero (`ui/marketing/separation-hero.tsx`) | Sanctioned design exception (TT-DESIGN-SYSTEM §12); one component, gated, with a static fallback |
 | `@swc/helpers` | SWC runtime | Required by Next.js toolchain |
+| `clsx`, `tailwind-merge` | CSS class merging | **Unused** — no import in `src/` (`ui/shared/cx.ts` replaced `cn()`); **candidates for removal** |
 
-### Dev dependencies (9)
-All justified: TypeScript, types, Biome, Vitest, Tailwind, PostCSS.
+### Dev dependencies (10)
+TypeScript, `@types/node`/`react`/`react-dom`/`three`, Biome, Vitest, Tailwind (`tailwindcss` + `@tailwindcss/postcss`), PostCSS.
 
 ### Rules
 - **Justify before adding.** Can this be done with native APIs or existing deps?
 - **Audit quarterly.** Check for unused deps (`pnpm why <pkg>`), outdated versions, security advisories.
 - **Pin versions.** Use `^` in package.json (pnpm default) but run `pnpm audit` before major upgrades.
-- **Candidates for removal:** `gray-matter` (not used by current parser), `framer-motion` (not used by current UI). Evaluate at next review.
+- **Candidates for removal:** `clsx`, `tailwind-merge` (not imported anywhere). Evaluate at the next dependency review.
 
 ---
 

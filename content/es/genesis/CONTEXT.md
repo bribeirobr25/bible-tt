@@ -3,7 +3,7 @@
 **Libro:** Génesis
 **Idioma:** Español
 **Alcance:** Motivos transcapitulares en Génesis 1–12
-**Conjunto de Reglas:** v3.3 (La Regla 29 gobierna este archivo)
+**Conjunto de Reglas:** v3.4 (La Regla 29 gobierna este archivo)
 **Estado:** provisional
 
 ---

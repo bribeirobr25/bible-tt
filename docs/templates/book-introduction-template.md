@@ -10,7 +10,7 @@
 **Book:** [Book Name] ([Hebrew/Greek title])
 **Language:** [Language]
 **Introduction to:** `[locale]/[book]/` (Transparent Edition)
-**Ruleset:** v3.0 (Rule 29 governs this file)
+**Ruleset:** v3.4 (Rule 29 governs this file)
 **Status:** provisional
 
 ---
@@ -18,7 +18,7 @@
 ## LABELING KEY
 
 **Claim-type tags** (what kind of claim):
-- **TEXTUAL** — derived directly from the Hebrew text
+- **TEXTUAL** — derived directly from the source text (Hebrew Bible: Hebrew/Aramaic; Greek Scriptures: Greek)
 - **STRONG INFERENCE** — logically entailed by the text, not stated explicitly
 - **POSSIBLE INFERENCE** — one legitimate reading among others
 - **COMPARATIVE PARALLEL** — attested in another ANE or ancient source
@@ -98,7 +98,7 @@
 ### [Topic]
 **[TEXTUAL or HISTORICAL / ARCHAEOLOGICAL — confidence level]**
 
-[Description. MT, LXX, DSS, and other witnesses. Note significant divergences at the book level.]
+[Description. Hebrew Bible: MT, LXX, DSS and other witnesses. Greek Scriptures: papyri, the major uncials, versions and the critical text (NA28). Note significant divergences at the book level.]
 
 **Source:** [Citation]
 
@@ -125,7 +125,9 @@
 
 ---
 
-**Editorial provenance:**
-- Drafted by: [human / AI model + version]
-- Date: [YYYY-MM-DD]
-- Reviewed by: [reviewer name or "pending"]
+**Editorial provenance:** AI-assisted draft, not yet reviewed.
+
+<!-- Template note (delete when authoring; the renderer shows HTML comments as text):
+Reader-facing provenance is one plain statement per locale (Rule 28, as amended in v3.4.1), with no model, version, date, prompt or vendor detail:
+  EN "AI-assisted draft, not yet reviewed." · PT "Rascunho assistido por IA, ainda não revisado." · DE "KI-gestützter Entwurf, noch nicht geprüft." · ES "Borrador asistido por IA, aún no revisado."
+The full record (model identifier, version, date, prompt summary, reviewer decision) goes only in the book's editorial log, docs/editorial-log/{book}.md. -->

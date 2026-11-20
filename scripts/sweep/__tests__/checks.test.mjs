@@ -668,6 +668,18 @@ describe("per-file checks", () => {
     ]);
     expect(hits.find((h) => h.match === "P-001").render).toBe("no");
   });
+  it("S9: the Rule 28 (v3.4.1, L5) plain provenance statements are not flagged", () => {
+    const plain = [
+      ["en", "AI-assisted draft, not yet reviewed."],
+      ["pt-br", "Rascunho assistido por IA, ainda não revisado."],
+      ["de", "KI-gestützter Entwurf, noch nicht geprüft."],
+      ["es", "Borrador asistido por IA, aún no revisado."],
+    ];
+    for (const [loc, line] of plain) {
+      const c = ctxOf(`# T\n## A. X\n${line}`, `${loc}/john/PEOPLE.md`);
+      expect(run(C.s9, c), `${loc}: ${line}`).toEqual([]);
+    }
+  });
   it("S10: stamp field vs citation vs prose (a stamp field wins over an amendment word)", () => {
     const c = ctxOf(
       "# T\n**Ruleset:** v3.3\n**Ruleset:** v3.3 cross-book convention\n## A. X\nper the v3.3.2 cross-book convention\nthe TT ruleset (v3.3) says\nv3.4 is current",
