@@ -1,7 +1,7 @@
 // Corpus-level checks: need several files at once (names inventory, EN-vs-locale
 // per-verse comparisons, the ES accent dictionary).
 
-import { makeHit, namePairs } from "./checks.mjs";
+import { makeHit, namePairs, sameName } from "./checks.mjs";
 import { italicSpans, stripAccents, word } from "./text.mjs";
 
 // ---------------------------------------------------------------- S5b/S5c names
@@ -25,7 +25,8 @@ export function nameInventory(ctxs, table, add) {
   const familiarTranslits = new Map(); // locale|familiar → Map(translit → count)
   for (const ctx of ctxs) {
     for (const p of namePairs(ctx)) {
-      if (p.translit === p.familiar) continue; // S5d redundant-pair
+      // S5d redundant-pair; `cr` duplicates the verse renderings already counted
+      if (p.zone === "cr" || sameName(p.translit, p.familiar)) continue;
       const tf = byTranslit.get(`${ctx.locale}|${p.translit}`);
       const ff = byFamiliar.get(`${ctx.locale}|${p.familiar}`);
       let cls;
@@ -92,7 +93,7 @@ export function repeatedGlosses(ctxs, add) {
   for (const ctx of ctxs) {
     const seen = new Map();
     for (const p of namePairs(ctx)) {
-      if (p.translit === p.familiar) continue;
+      if (sameName(p.translit, p.familiar)) continue;
       const k = `${p.section}|${p.translit}|${p.familiar}`;
       if (seen.has(k))
         add(
@@ -111,6 +112,7 @@ export function repeatedGlosses(ctxs, add) {
 }
 
 /** Audit §5 known variant forms — token counts per locale × book (S5c report table). */
+/** @type {[string, string[]][]} */
 export const KNOWN_VARIANTS = [
   ["Moses", ["Moshe", "Mosheh"]],
   ["Nazareth", ["Natzeret", "Natseret", "Natsrat"]],
@@ -199,15 +201,20 @@ export const ES_AMBIGUOUS = new Set(
     "transito tránsito critico crítico intimo íntimo animo ánimo habito hábito dialogo diálogo calculo cálculo " +
     "esta ésta estos éstos aquel aquél tramite trámite envio envió envío entre entré sabana sábana papa papá " +
     "hacia hacía seria sería fe fé vio vió dio dió fue fué amo amó hablo habló llamo llamó creo creó separo separó " +
-    "bendijo bendigo llego llegó paso pasó dejo dejó tomo tomó mando mandó miro miró hecho echo"
+    "bendijo bendigo llego llegó paso pasó dejo dejó tomo tomó mando mandó miro miró hecho echo " +
+    // verb/adjective homographs (impl. review R3-13)
+    "especifica específica perdida pérdida explicita explícita legitima legítima llame llamé"
   ).split(" "),
 );
 const ES_WORD = /[\p{L}\p{M}]+/gu;
 /** Lines whose words are not TT Spanish prose: bibliographic source lines. */
 const ES_SKIP_LINE = /\*\*(?:Fuentes?|Sources?|Fonte|Quelle):\*\*/;
-/** Spans inside a line that are not ES prose: link targets, italic titles/transliterations. */
-const ES_SKIP_SPAN =
-  /\]\(#[^)]*\)|(?<!\*)\*[^*\n]+\*(?!\*)|[\w-]+(?:\/[\w-]+)*\.md\b/g;
+/** Spans inside a line that are not ES prose: link targets and repo paths. */
+const ES_SKIP_SPAN = /\]\(#[^)]*\)|[\w-]+(?:\/[\w-]+)*\.md\b/g;
+/** Italic spans outside the verse text are titles/transliterations; in `main` they are
+ * the Rule 11 added words — Spanish prose (impl. review R1-6: `*habia*`, `*sera*`). */
+const ES_ITALIC = /(?<!\*)\*[^*\n]+\*(?!\*)/g;
+const blank = (m) => " ".repeat(m.length);
 const INTERROGATIVE =
   /[¿¡]\s*(?:[Pp]or )?([Qq]ue|[Dd]onde|[Cc]omo|[Cc]uando|[Qq]uien(?:es)?|[Cc]ual(?:es)?|[Cc]uant[oa]s?)(?![\p{L}])/gu;
 const NO_SE = /(?<![\p{L}])[Nn]o se(?=\s*[.?!"”…»])/gu;
@@ -220,7 +227,9 @@ function esLines(ctxs) {
     ctx.lines.forEach((l, i) => {
       const z = ctx.zones[i];
       if (z.zone === "front" || z.zone === "cr" || ES_SKIP_LINE.test(l)) return;
-      out.push([ctx, i, l.replace(ES_SKIP_SPAN, (m) => " ".repeat(m.length))]);
+      let t = l.replace(ES_SKIP_SPAN, blank);
+      if (z.zone !== "main") t = t.replace(ES_ITALIC, blank);
+      out.push([ctx, i, t]);
     });
   }
   return out;
@@ -233,6 +242,48 @@ function esLines(ctxs) {
  * what dominance cannot (review R-12): clause-final "No se." → "No sé",
  * interrogatives after ¿/¡, and the -o/-ó verb class (present 1sg vs preterite 3sg).
  */
+/**
+ * Generative rules (impl. review R2-7) for forms the dominance method cannot see
+ * because the accented sibling is rare or absent:
+ *   -cion/-sion (singular) is always -ción/-sión;
+ *   future: <infinitive>+e / <-er|-ir infinitive>+a ("levantare", "volvera") — an -ar
+ *     verb +a is also the imperfect subjunctive ("dominara"), so that case is `ambiguous`;
+ *   -mente adverb whose adjective base is spelled with an accent in the corpus.
+ */
+/** Words whose stem minus the last letter is a word too ("par", "primer", "ir"): not futures. */
+const NOT_FUTURE = new Set(
+  "para era eras ira iras primera tercera cualquiera dondequiera quienquiera altera altere lidera hemera bara mira dura pura cura obra sobre entre".split(
+    " ",
+  ),
+);
+function generative(k, freq, best) {
+  if (/[cs]ion$/.test(k) && k.length > 5)
+    return ["missing-accent", `${k.slice(0, -2)}ón`];
+  const inf = k.slice(0, -1);
+  if (
+    !NOT_FUTURE.has(k) &&
+    /[aei]r$/.test(inf) &&
+    inf.length >= 4 &&
+    freq.has(inf)
+  ) {
+    if (k.endsWith("re")) return ["missing-accent:future", `${inf}é`];
+    if (k.endsWith("ra"))
+      return [
+        /ar$/.test(inf)
+          ? "ambiguous:future-or-subjunctive"
+          : "missing-accent:future",
+        `${inf}á`,
+      ];
+  }
+  if (/mente$/.test(k) && k.length > 9) {
+    const base = k.slice(0, -5);
+    const [top, topN] = best(base) ?? [];
+    if (top && top !== base && topN >= 2 && topN > (freq.get(base) ?? 0))
+      return ["missing-accent:adverb", `${top}mente`];
+  }
+  return null;
+}
+
 export function esAccents(ctxs, add) {
   const lines = esLines(ctxs);
   const freq = new Map();
@@ -246,21 +297,31 @@ export function esAccents(ctxs, add) {
     variants.get(s).set(w, n);
   }
   const best = (s) =>
-    [...(variants.get(s) ?? new Map())].sort(
+    [...(variants.get(stripAccents(s)) ?? new Map())].sort(
       (a, b) => b[1] - a[1] || (a[0] < b[0] ? -1 : 1),
     )[0];
   for (const [ctx, i, l] of lines) {
     for (const m of l.matchAll(ES_WORD)) {
       const w = m[0];
+      if (/[^\p{Script=Latin}\p{M}]/u.test(w)) continue; // Greek/Hebrew tokens are not ES words
       const k = w.toLowerCase();
       const s = stripAccents(k);
       const [top, topN] = best(s);
-      if (top === k) continue;
+      if (top === k) {
+        // only the unaccented spelling exists: try the generative rules
+        if (k === s && !/^\p{Lu}/u.test(w)) {
+          const g = generative(k, freq, best);
+          if (g) add(makeHit(ctx, i, "S11", g[0], `${w}→${g[1]}`, m.index));
+        }
+        continue;
+      }
       const n = freq.get(k);
       if (k === s) {
         if (!(topN >= 3 && topN > n)) continue;
         let cls;
         if (k.endsWith("o") && top === `${k.slice(0, -1)}ó`) cls = "o/ó-verb";
+        else if (/ara$/.test(k) && top === `${k.slice(0, -1)}á`)
+          cls = "ambiguous:future-or-subjunctive"; // llegara (subj.) vs llegará; -er/-ir subj. is -iera
         else
           cls =
             ES_AMBIGUOUS.has(k) || ES_AMBIGUOUS.has(top)

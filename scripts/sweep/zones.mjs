@@ -58,9 +58,13 @@ const GUIDE =
   /READING GUIDE|GUIA DE LEITURA|LESEANLEITUNG|GUIA DE LECTURA|GUÍA DE LECTURA/i;
 /** The edition-title H2 under the H1 ("## The Transparent Translation (TT)") — part of the header. */
 const TITLE_H2 = /Transparent|Transparente|Übersetzung \(TT\)|\(TT\)\s*$/;
-/** "Sources Consulted" blocks: dropped by the enrichment/people parsers today; must render after Step 4a (D2 / audit B2). */
+/**
+ * "Sources Consulted" blocks: dropped by the enrichment/people parsers today; must render after
+ * Step 4a (D2 / audit B2). Decided by the heading WORDS, not the letter: companions use
+ * "G." for Curiosities and "H." for Sources, introductions "G." for Sources (review R1-1).
+ */
 const SOURCES_H2 =
-  /^(?:[GH]\.\s|.*(?:Sources Consulted|Fontes Consultadas|Konsultierte Quellen|Fuentes Consultadas))|^(?:Sources|Fontes|Quellen|Fuentes)\b/i;
+  /^(?:[A-Z]\.\s+)?(?:Sources|Fontes|Fuentes|Konsultierte Quellen|Herangezogene Quellen|Quellen)\b/i;
 /** Companion section heading as the enrichment parser reads it. */
 const LETTER_H2 = /^## ([A-Z])(?:_\w+)?\.\s+(.+)$/;
 const CHAPTER_STATUS = /^\*\*(?:Status|Estado):\*\*/;
@@ -73,6 +77,7 @@ export const supToInt = (s) =>
 export class ZoneError extends Error {}
 
 export const isChapterFile = (rel) => /(^|\/)CHAPTER-\d+\.md$/.test(rel);
+const isProphecy = (rel) => /\/study\/CHAPTER-\d+-PROPHECY\.md$/.test(rel);
 const isCompanion = (rel) =>
   /\/study\/CHAPTER-\d+-CONTEXT\.md$/.test(rel) ||
   /(^|\/)INTRODUCTION\.md$/.test(rel);
@@ -80,11 +85,13 @@ const isCompanion = (rel) =>
 /**
  * @param {string} text  file content
  * @param {string} rel   path relative to content/ (e.g. "en/john/CHAPTER-3.md")
- * @returns {{zone:string, render:"now"|"after-4a"|"no", verse:number|null, section:string, heading?:boolean}[]}
+ * @returns {{zone:string, render:string, verse:number|null, section:string, heading?:boolean}[]}
+ *   render is one of "now" | "after-4a" | "no"
  */
 export function zoneLines(text, rel) {
   const lines = text.split("\n");
-  return isChapterFile(rel) ? chapterZones(lines, rel) : otherZones(lines, rel);
+  if (isChapterFile(rel)) return chapterZones(lines, rel);
+  return isProphecy(rel) ? prophecyZones(lines) : otherZones(lines, rel);
 }
 
 function chapterZones(lines, rel) {
@@ -197,7 +204,21 @@ function otherZones(lines, rel) {
   let zone = "front";
   let render = "no";
   let section = "";
+  let inCard = false;
   for (const line of lines) {
+    // INTRODUCTION book card (<!-- CARD --> … <!-- /CARD -->): parsed by parseBookCard and
+    // rendered on the book landing page although it sits in the header block (review R1-4).
+    if (/^<!--\s*\/CARD\s*-->/.test(line)) inCard = false;
+    if (inCard) {
+      out.push({
+        zone: "apparatus",
+        render: "now",
+        verse: null,
+        section: "CARD",
+      });
+      continue;
+    }
+    if (/^<!--\s*CARD\s*-->/.test(line)) inCard = true;
     const h = line.match(SECTION_HEADER);
     if (h) {
       section = h[1].trim();
@@ -219,6 +240,106 @@ function otherZones(lines, rel) {
     const r = zone === "front" && /^>\s*\*\*/.test(line) ? "now" : render;
     out.push({ zone, render: r, verse: null, section, heading: Boolean(h) });
   }
+  return out;
+}
+
+// PROPHECY files (src/infrastructure/content/prophecy-parser.ts — keep in sync, review R1-3):
+// an entry is a `## ` section with a Verse field; only its title, its recognized
+// `**Field:** value` lines and its `**Readings:**` items render. Everything else —
+// the file header, intro sections without a Verse field, unrecognized fields and
+// free prose inside an entry — is dropped.
+const PROPHECY_FIELD = /^\*\*(.+?):\*\*\s*(.*)$/;
+const PROPHECY_READING =
+  /^- \*\*(.+?)(?:\s*\/\s*(.+?))?\*\*:\s*(.+)\s*\[(.+?)\]$/;
+const isVerseKey = (k) =>
+  k.includes("verse") || k.includes("versículo") || k.includes("vers");
+const PROPHECY_KEYS = [
+  "text says",
+  "texto dice",
+  "texto diz",
+  "text sagt",
+  "context",
+  "contexto",
+  "kontext",
+  "subject",
+  "sujeto",
+  "sujeito",
+  "gegenstand",
+  "fulfillment status",
+  "estado de cumplimiento",
+  "estado de cumprimento",
+  "erfüllungsstatus",
+  "erfullungsstatus",
+  "fulfillment notes",
+  "notas",
+  "anmerkungen",
+  "scholarly note",
+  "nota acadêmica",
+  "nota académica",
+  "wissenschaftliche anmerkung",
+];
+const READINGS_KEYS = ["readings", "lecturas", "leituras", "lesarten"];
+
+function prophecyZones(lines) {
+  const fieldKey = (l) => l.match(PROPHECY_FIELD)?.[1].trim().toLowerCase();
+  // pass 1: which `## ` sections are entries (the parser keeps an entry only once it has a verseRef)
+  const isEntry = new Map();
+  let cur = -1;
+  lines.forEach((l, i) => {
+    if (SECTION_HEADER.test(l)) {
+      cur = i;
+      isEntry.set(cur, false);
+    } else if (cur >= 0) {
+      const k = fieldKey(l);
+      if (k !== undefined && isVerseKey(k)) isEntry.set(cur, true);
+    }
+  });
+  const out = [];
+  let zone = "front";
+  let section = "";
+  let entry = false;
+  let sectionRender = "no";
+  let inReadings = false;
+  lines.forEach((line, i) => {
+    const h = line.match(SECTION_HEADER);
+    if (h) {
+      section = h[1].trim();
+      if (zone === "front" && !TITLE_H2.test(section)) zone = "apparatus";
+      entry = zone === "apparatus" && isEntry.get(i) === true;
+      sectionRender = entry
+        ? "now"
+        : zone === "apparatus" && SOURCES_H2.test(section)
+          ? "after-4a"
+          : "no";
+      inReadings = false;
+      out.push({
+        zone,
+        render: sectionRender,
+        verse: null,
+        section,
+        heading: true,
+      });
+      return;
+    }
+    let render = entry ? "no" : sectionRender;
+    if (entry) {
+      const k = fieldKey(line);
+      if (k !== undefined) {
+        if (READINGS_KEYS.some((r) => k.includes(r))) inReadings = true;
+        if (
+          isVerseKey(k) ||
+          PROPHECY_KEYS.some((r) => k.includes(r)) ||
+          READINGS_KEYS.some((r) => k.includes(r))
+        )
+          render = "now";
+      } else if (inReadings) {
+        if (PROPHECY_READING.test(line)) render = "now";
+        else if (line.trim() === "" || line.startsWith("**"))
+          inReadings = false;
+      }
+    }
+    out.push({ zone, render, verse: null, section, heading: false });
+  });
   return out;
 }
 

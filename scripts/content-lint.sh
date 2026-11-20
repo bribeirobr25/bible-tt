@@ -3,7 +3,8 @@
 #
 # Usage:
 #   bash scripts/content-lint.sh             # blocking mode (CI default)
-#   bash scripts/content-lint.sh --warn-only  # never exits non-zero
+#   bash scripts/content-lint.sh --warn-only  # rule hits never fail (exit 0);
+#                                             # a tool error still exits 2
 #
 # Allow-list:
 #   scripts/lint-allowlist.txt — lines RULE_ID|FILE|EXACT_MATCH
@@ -96,9 +97,15 @@ ALLOWLIST_FILE="scripts/lint-allowlist.txt"
 # Every suppression is recorded here so entries that suppress nothing can be
 # reported (Launch Program Step 3, PLAN_CONTENT_SWEEP.md §7). The sentinel line
 # keeps the file non-empty for the NR==FNR awk idiom below.
+# Paths reach awk through ENVIRON, never `awk -v` (which would interpret
+# backslash escapes in a TMPDIR such as "a\tb"). ALLOW_FAILED records rules
+# whose filter failed: filter_allowlist runs inside $( … ) subshells, so it
+# cannot bump TOOL_ERRORS itself — the summary turns the file into tool errors.
 ALLOW_USED="$(mktemp "${TMPDIR:-/tmp}/lint-allow-used.XXXXXX")" || { echo "[TOOL ERROR allowlist] mktemp failed" >&2; exit 2; }
-trap 'rm -f "$ALLOW_USED"' EXIT
-echo "#sentinel" > "$ALLOW_USED"
+ALLOW_FAILED="$(mktemp "${TMPDIR:-/tmp}/lint-allow-failed.XXXXXX")" || { rm -f "$ALLOW_USED"; echo "[TOOL ERROR allowlist] mktemp failed" >&2; exit 2; }
+trap 'rm -f "$ALLOW_USED" "$ALLOW_FAILED"' EXIT
+export ALLOW_USED ALLOWLIST_FILE
+echo "#sentinel" > "$ALLOW_USED" || { echo "[TOOL ERROR allowlist] cannot write $ALLOW_USED" >&2; exit 2; }
 
 # filter_allowlist <rule_id>
 # Reads grep output (file:line:text) on stdin, drops lines whose <file>|<text>
@@ -110,8 +117,9 @@ filter_allowlist() {
     cat
     return 0
   fi
-  awk -v rule="$rule_id" -v alf="$ALLOWLIST_FILE" -v used="$ALLOW_USED" '
+  RULE_ID="$rule_id" awk '
     BEGIN {
+      rule = ENVIRON["RULE_ID"]; alf = ENVIRON["ALLOWLIST_FILE"]; used = ENVIRON["ALLOW_USED"]
       prefix = rule "|"
       while ((getline line < alf) > 0) {
         if (index(line, prefix) == 1) {
@@ -130,7 +138,7 @@ filter_allowlist() {
       if (key in allow) print prefix key >> used
       else print $0
     }
-  '
+  ' || echo "$rule_id" >> "$ALLOW_FAILED"
 }
 
 # emit <rule_id> <label> <matches>
@@ -485,9 +493,19 @@ lint_grep "legacy-f9" '>\{entry\.(claimType|confidence)\}<' src/ui/
 ui_f9="$LINT_OUT"
 emit "legacy-f9" "Raw enum values reach rendering layer (F9-class)" "$ui_f9"
 
+# A failed allow-list filter (awk could not write ALLOW_USED, …) is a tool
+# error: that rule's output may be truncated and the stale check below is void.
+if [ -s "$ALLOW_FAILED" ]; then
+  for r in $(sort -u "$ALLOW_FAILED"); do
+    tool_error "$r" "allow-list filter failed (output may be incomplete)"
+  done
+fi
+
 # Allow-list hygiene: an entry that suppressed nothing in this run is stale
 # (its content line changed or the rule narrowed). Blocking.
-if [ -f "$ALLOWLIST_FILE" ]; then
+# MUST REMAIN THE LAST RULE: it reads the suppressions recorded by every rule
+# above; a rule added after it would have its allow-list entries reported stale.
+if [ -f "$ALLOWLIST_FILE" ] && [ ! -s "$ALLOW_FAILED" ]; then
   unused="$(awk 'NR==FNR { u[$0] = 1; next } /^#/ || /^[[:space:]]*$/ { next } !($0 in u) { print FILENAME ":" FNR ": " substr($0, 1, 120) }' "$ALLOW_USED" "$ALLOWLIST_FILE")" \
     || tool_error "allowlist" "unused-entry check failed"
   emit "allowlist" "Allow-list entry suppressed nothing (stale — remove it)" "$unused"

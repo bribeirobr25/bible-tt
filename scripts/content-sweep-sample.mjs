@@ -1,11 +1,18 @@
 // Seeded precision sample (PLAN_CONTENT_SWEEP.md §6.2): up to N hits per
 // check×class, ordered by a stable hash so re-runs pick the same hits.
-//   node scripts/sweep/sample.mjs [N] [checkPrefix] [classPrefix]
+//   node scripts/content-sweep-sample.mjs [N] [checkPrefix] [classPrefix]
 import { createHash } from "node:crypto";
 import { readFileSync } from "node:fs";
+import path from "node:path";
+import { fileURLToPath } from "node:url";
+
+const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 
 const [n = "10", prefix = "", clsPrefix = ""] = process.argv.slice(2);
-const rows = readFileSync("docs/audit/content-sweep/findings.tsv", "utf8")
+const rows = readFileSync(
+  path.join(ROOT, "docs/audit/content-sweep/findings.tsv"),
+  "utf8",
+)
   .trim()
   .split("\n")
   .slice(1)

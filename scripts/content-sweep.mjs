@@ -24,6 +24,7 @@ import {
   s6s7,
   s7a,
   s19,
+  s21,
 } from "./sweep/checks.mjs";
 import {
   esAccents,
@@ -32,7 +33,7 @@ import {
   variantCounts,
   verseParity,
 } from "./sweep/corpus.mjs";
-import { extractNameTables } from "./sweep/name-tables.mjs";
+import { extractNameTables, extractTableCells } from "./sweep/rule-tables.mjs";
 import { zoneLines } from "./sweep/zones.mjs";
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
@@ -61,7 +62,8 @@ export function loadCorpus(root = ROOT) {
       const dir = path.join(content, locale, book);
       if (!existsSync(dir)) continue;
       for (const file of listMd(dir)) {
-        const text = readFileSync(file, "utf8");
+        // NFC: a decomposed accent must not split a word or defeat a match
+        const text = readFileSync(file, "utf8").normalize("NFC");
         const rel = path.relative(content, file).split(path.sep).join("/");
         const lines = text.split("\n");
         ctxs.push({
@@ -80,22 +82,20 @@ export function loadCorpus(root = ROOT) {
 
 export function runSweep(root = ROOT, only = null) {
   const { ctxs } = loadCorpus(root);
-  const table = [
-    ...extractNameTables(
-      readFileSync(path.join(root, "docs/rules/RULES-HB.md"), "utf8"),
-      "RULES-HB.md",
-    ),
-    ...extractNameTables(
-      readFileSync(path.join(root, "docs/rules/RULES-GS.md"), "utf8"),
-      "RULES-GS.md",
-    ),
-  ];
+  const rules = ["RULES-HB.md", "RULES-GS.md"].map((f) => [
+    f,
+    readFileSync(path.join(root, "docs/rules", f), "utf8"),
+  ]);
+  const table = rules.flatMap(([f, md]) => extractNameTables(md, f));
+  const glossaryCells = new Set(
+    rules.flatMap(([f, md]) => [...extractTableCells(md, f)]),
+  );
   const familiarNames = new Set(
     table.flatMap((r) => Object.values(r.familiar)),
   );
   const hits = [];
   const add = (h) => {
-    if (!only || only.some((c) => h.check.startsWith(c))) hits.push(h);
+    if (!only || only.some((c) => selects(c, h.check))) hits.push(h);
   };
   const models = new Map();
   const ran = new Map(); // check fn name → files examined
@@ -110,9 +110,10 @@ export function runSweep(root = ROOT, only = null) {
     s6s7(ctx, add, model);
     s6f(ctx, add, model);
     s19(ctx, add, model);
+    s21(ctx, add, glossaryCells);
   }
   for (const ctx of ctxs)
-    s7a(ctx, add, models.get(ctx.key.replace(/^pt-br\//, "en/")));
+    s7a(ctx, add, models.get(ctx.key.replace(/^[^/]+\//, "en/")));
   verseParity(new Map(ctxs.map((c) => [c.key, c])), models, add);
   repeatedGlosses(ctxs, add);
   const names = nameInventory(ctxs, table, add);
@@ -221,13 +222,72 @@ function summary({ hits, names, variants, files, chapters, tableRows }) {
   return `${out.join("\n")}\n`;
 }
 
-function main() {
-  const args = process.argv.slice(2);
+/** Check ids accepted by --check (exact ids or a family prefix: "S1" = S1a/S1b/S1c, not S10–S19). */
+export const CHECK_IDS = [
+  "S1a",
+  "S1b",
+  "S1c",
+  "S2a",
+  "S2b",
+  "S3",
+  "S4",
+  "S5c",
+  "S5d",
+  "S6a",
+  "S6b",
+  "S6c",
+  "S6d",
+  "S6e",
+  "S6f",
+  "S7a",
+  "S7b",
+  "S7c",
+  "S7d",
+  "S8",
+  "S9",
+  "S10",
+  "S11",
+  "S12",
+  "S13",
+  "S14",
+  "S15",
+  "S16",
+  "S17",
+  "S18",
+  "S19",
+  "S20",
+  "S21",
+  "S22",
+];
+/** True when hit check id `check` is selected by `sel` (exact, or `sel` + a letter suffix). */
+export const selects = (sel, check) =>
+  check === sel ||
+  (check.startsWith(sel) && /^[a-z]$/.test(check.slice(sel.length)));
+
+/** Parse argv; throws (→ exit 2) on a malformed or unknown --check list. */
+export function parseArgs(args) {
   const ci = args.indexOf("--check");
-  const only = ci >= 0 ? args[ci + 1].split(",") : null;
+  if (ci < 0) return { only: null, stdout: args.includes("--stdout") };
+  const list = args[ci + 1];
+  if (!list || list.startsWith("--"))
+    throw new Error(
+      "--check needs a comma-separated list of check ids (e.g. S3,S9)",
+    );
+  const only = list.split(",").map((c) => c.trim());
+  const unknown = only.filter((c) => !CHECK_IDS.some((id) => selects(c, id)));
+  if (unknown.length)
+    throw new Error(
+      `unknown check id(s): ${unknown.join(", ")} (known: ${CHECK_IDS.join(" ")})`,
+    );
+  return { only, stdout: true };
+}
+
+function main() {
   let res;
+  let opts;
   try {
-    res = runSweep(ROOT, only);
+    opts = parseArgs(process.argv.slice(2));
+    res = runSweep(ROOT, opts.only);
   } catch (e) {
     console.error(`content-sweep: TOOL ERROR — ${e.message}`);
     process.exit(2);
@@ -250,7 +310,7 @@ function main() {
       .join("\t"),
   );
   // A filtered run never overwrites the committed snapshot.
-  if (only || args.includes("--stdout")) {
+  if (opts.only || opts.stdout) {
     console.log([header, ...rows].join("\n"));
     return;
   }

@@ -1,0 +1,156 @@
+[
+  {
+    "check": "S1a",
+    "cls": "de-yhwh",
+    "source": "de/john/PEOPLE.md:216",
+    "zone": "apparatus",
+    "text": "**In Johannes:** Erwähnt in 1,21 und 1,25, wenn die Abordnung der Yehudim Yochanan fragt „bist du Eliyahu?\" — woraufhin Yochanan antwortet „ich bin es nicht\". Die Frage setzt die Erwartung von Mal'akhi 4,5 voraus, dass Eliyahu vor dem Tag YHWHs zurückkehren würde; Yochanans Verneinung (im Gegensatz zur synoptischen Mt 11,14; 17,11-13, wo Yeshua Yochanan als Eliyahu identifiziert) ist eine johanneische theologische Wahl. Die kanonische Biographie gehört in `kings/PEOPLE.md` (Phase 12+ Lieferung, noch nicht verfasst)."
+  },
+  {
+    "check": "S1c",
+    "cls": "use",
+    "source": "en/1-peter/CHAPTER-5.md:48",
+    "zone": "overview",
+    "text": "**Watch for:** **5:1** — Peter calls himself *sympresbyteros* (\"**fellow**-elder\"), a notable self-lowering. **5:5** quotes Proverbs 3:34 (LXX: \"God opposes the proud, gives grace to the humble\" — same citation as James 4:6; the sage's voice — unmarked). **5:7** echoes Psalm 55:22 (\"cast your burden on the LORD\"). **5:8** \"the **adversary** (*antidikos*), the **slanderer** (*diabolos*), like a roaring lion\" — *diabolos* (lit. \"slanderer/accuser\") is the term behind \"devil\"; the lion may echo Psalm 22:13. **5:12** \"**through Silvanus** I wrote\" — the bearer/amanuensis (the authorship-by-secretary question of the Introduction). **5:13** \"**she in Babylon**\" = the co-elect church, with \"Babylon\" widely read as a cipher for **Rome** (Tier-2); \"**Mark** my son\" links to the gospel of Mark (cross-book)."
+  },
+  {
+    "check": "S1c",
+    "cls": "use",
+    "source": "de/acts/CHAPTER-3.md:39",
+    "zone": "guide",
+    "text": "**Dieses Kapitel verbindet eine Heilung mit der zweiten apostolischen Predigt.** An der Schönen Pforte des Tempels heilen Kefa und Yochanan einen von Geburt an lahmen Mann „im Namen Yeshuas des Nazareners\" (V.1-10). Die erstaunte Menge versammelt sich in der Halle Shlomohs, und Kefa predigt: nicht ihre eigene Kraft, sondern der Gott der Väter hat seinen Knecht Yeshua verherrlicht — den sie verleugneten und töteten, den aber Gott auferweckte — und der Glaube an seinen Namen hat den Mann ganz gemacht (V.11-16). Er ruft sie auf, ihren Sinn zu ändern, weist auf die Propheten (Mose und Samuel) und bekräftigt den abrahamitischen Bund (V.17-26). **Hinweis zur Redemarkierung (Regel 30):** Kefas Predigt ist menschliche Rede und wird nicht markiert; das Bundeswort des HERRN an Avraham (V.25, Gen 22,18) ist göttliche Rede und **wird** @@…@@ markiert. Das Mose-Zitat (V.22-23) ist *Moses* berichtete Rede *über* den HERRN, also wird es nicht markiert. **Achten Sie auf die Begriffs-Cruxes:** *archēgos* („Urheber/Anführer/Ursprung des Lebens\", V.15) und *pais* („Knecht/Kind\", V.13, 26) tragen den jesajanischen Knechts-Unterton — beide sind gekennzeichnet."
+  },
+  {
+    "check": "S2a",
+    "cls": "main",
+    "source": "en/mark/CHAPTER-2.md:179",
+    "zone": "main",
+    "text": "But that you may know that the Son of Man has authority to forgive sins on the land\" — he says to the paralytic —"
+  },
+  {
+    "check": "S3",
+    "cls": "pistis-faith:main",
+    "source": "en/1-peter/CHAPTER-1.md:123",
+    "zone": "main",
+    "text": "who are guarded by *the* power of God through faith, for a salvation ready to be revealed in *the* last time."
+  },
+  {
+    "check": "S3",
+    "cls": "repent:main",
+    "source": "de/luke/CHAPTER-3.md:116",
+    "zone": "main",
+    "text": "Und er ging in die ganze Gegend um den Yarden (Jordan) und verkündete eine Eintauchung der Umkehr zur Freilassung der Sünden,"
+  },
+  {
+    "check": "S3",
+    "cls": "ioudaioi-jews:main",
+    "source": "en/acts/CHAPTER-2.md:124",
+    "zone": "main",
+    "text": "Now there were dwelling in Yerushalayim (Jerusalem) Jews (Yehudim), devout men from every nation of those under the sky."
+  },
+  {
+    "check": "S5d",
+    "cls": "stale-policy",
+    "source": "en/john/CHAPTER-3.md:39",
+    "zone": "guide",
+    "text": "**This chapter contains the most quoted verse in the Bible (3:16) and one of the most important translation ambiguities in the Gospel: ἄνωθεν (*anōthen*) at v.3, which means both \"from above\" (spatial) and \"again\" (temporal). The TT preserves the double meaning with a slash — \"from above/again\" — because the Greek reader would have heard both senses simultaneously. Nikodemos hears only \"again\"; Yeshua means \"from above.\" The text's power depends on the ambiguity. Proper names follow TT transliteration: Nikodemos (not Nicodemus), Yeshua (not Jesus), Yochanan (not John), Mosheh (not Moses). The rendering \"life of the age\" (not \"eternal life\") at v.15–16 reflects αἰώνιος (*aiōnios*), which relates to αἰών (*aiōn*, \"age\") — a quality of life belonging to the coming age, not a statement about timelessness.**"
+  },
+  {
+    "check": "S7a",
+    "cls": "doubled-article",
+    "source": "de/acts/CHAPTER-1.md:130",
+    "zone": "main",
+    "text": "denn Yochanan (Johannes) tauchte in Wasser ein, ihr aber werdet im *dem* heiligen {a:Wind/Geist} eingetaucht werden nach nicht vielen *von* diesen Tagen.\"@@"
+  },
+  {
+    "check": "S7a",
+    "cls": "doubled-article",
+    "source": "es/luke/CHAPTER-3.md:192",
+    "zone": "main",
+    "text": "Y ya el hacha está puesta a la raíz de los árboles; por tanto todo árbol que no produce buen fruto es cortado y arrojado al *el* fuego.\""
+  },
+  {
+    "check": "S9",
+    "cls": "editorial-id",
+    "source": "en/1-peter/CHAPTER-1.md:92",
+    "zone": "note",
+    "text": "> - Three phrases govern the election: **κατὰ πρόγνωσιν θεοῦ πατρός** (\"according to *the* foreknowledge of God *the* Father\"), **ἐν ἁγιασμῷ πνεύματος** (\"in sanctification of *the* {a:wind/spirit}\"), **εἰς ὑπακοὴν καὶ ῥαντισμὸν αἵματος** (\"for obedience and sprinkling of *the* blood\"). The TT renders the Greek's Father/wind-spirit/blood structure **without importing the later dogmatic vocabulary** \"the Trinity\" (Rule 3). **ῥαντισμὸν αἵματος** (\"sprinkling of blood\") echoes the covenant ritual (Ex 24:8). → See the editorial-log entry (1-peter.md P-008) and Companion §A."
+  },
+  {
+    "check": "S9",
+    "cls": "ai-provenance",
+    "source": "en/luke/INTRODUCTION.md:275",
+    "zone": "apparatus",
+    "text": "> **Editorial provenance:** Drafted by Claude Opus 4.8 (1M context) on 2026-06-22. Not yet reviewed. This introduction is a provisional scholarly resource governed by TT Rule 29. All claims carry dual labels; no claim should be read as the TT's theological or compositional position. The TT translates the Greek text (NA28) and does not adopt any particular theory of authorship or composition."
+  },
+  {
+    "check": "S11",
+    "cls": "no-se→no-sé",
+    "source": "es/genesis/CHAPTER-4.md:183",
+    "zone": "main",
+    "text": "Y YHWH dijo a Caín: @@\"¿Donde *está* Abel, tu hermano?\"@@ Y él dijo: \"No se. ¿*Soy* yo el guardian de mi hermano?\""
+  },
+  {
+    "check": "S12",
+    "cls": "mojibake",
+    "source": "en/genesis/PEOPLE.md:137",
+    "zone": "apparatus",
+    "text": "**Key events:** First recorded polygamist (4:19); his son Yaval is father of tent-dwellers and livestock-keepers (4:20); his son Yuval is father of lyre and pipe players (4:21); his son Tuval-Qayin forges instruments of bronze and iron (4:22); sang the song of escalated violence to his wives (4:23–24) â\u0080\u0094 boasts of killing a man for wounding him and a young man for striking him; claims 77-fold vengeance against YHWH's 7-fold protection of Qayin (Cain)"
+  },
+  {
+    "check": "S13",
+    "cls": "yehudim",
+    "source": "de/john/CHAPTER-1.md:345",
+    "zone": "main",
+    "text": "Und dies ist das Zeugnis Johannes', als die Yehudim Priester und Leviten aus Yerushalayim (Jerusalem) sandten, um ihn zu fragen: „Wer bist du?\""
+  },
+  {
+    "check": "S13",
+    "cls": "yehudim-lowercase",
+    "source": "pt-br/john/CHAPTER-1.md:346",
+    "zone": "main",
+    "text": "E este é o testemunho de Yochanan (João), quando os yehudim enviaram sacerdotes e levitas de Yerushalayim (Jerusalém) para lhe perguntar: \"Quem é você?\""
+  },
+  {
+    "check": "S14",
+    "cls": "vos-verb?",
+    "source": "pt-br/luke/CHAPTER-3.md:131",
+    "zone": "main",
+    "text": "como está escrito no *livro* das *palavras* de Yesha'yahu (Isaías) o profeta: \"Uma voz de *alguém* clamando no deserto: 'Preparai o caminho do Senhor, fazei retas as suas veredas."
+  },
+  {
+    "check": "S20",
+    "cls": "Father",
+    "source": "en/john/CHAPTER-1.md:331",
+    "zone": "main",
+    "text": "No one has seen God at any time; the only-born God, the one being in the bosom of the Father — that one has made *him* known."
+  },
+  {
+    "check": "S21",
+    "cls": "bare-slash",
+    "source": "en/matthew/CHAPTER-3.md:222",
+    "zone": "main",
+    "text": "I immerse you in water toward change of mind, but the one coming after me is stronger than I, whose sandals I am not worthy to carry; he will immerse you in *the* holy wind/spirit and fire."
+  },
+  {
+    "check": "S22",
+    "cls": "note-icon-off-list",
+    "source": "pt-br/genesis/CHAPTER-9.md:352",
+    "zone": "note",
+    "text": "> ⚠️ **NOTA DE RECEPÇÃO (Nível 2)**"
+  },
+  {
+    "check": "S22",
+    "cls": "claim-off-list",
+    "source": "en/acts/INTRODUCTION.md:119",
+    "zone": "apparatus",
+    "text": "**[HISTORICAL — PROBABLE]**"
+  },
+  {
+    "check": "S8",
+    "cls": "pill-word≠badge-term",
+    "source": "de/acts/CHAPTER-1.md:12",
+    "zone": "front",
+    "text": "**Status:** provisorisch — ausstehende Begutachtung (Regel 28)"
+  }
+]

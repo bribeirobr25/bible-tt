@@ -1,0 +1,33 @@
+check	class	sampled	true	method	source	note
+S1c	use	8	8	seeded sample (content-sweep-sample.mjs 8 S1c use)	impl. review fix pass 2026-11-20	all TT-voice LORD/SENHOR/HERR(N)/SEÑOR used as the rendering; R3 measured 13/16 on the pre-fix classifier (non-EN cue gap, since fixed)
+S1c	caps-title	—	—	review list	—	all-caps titles/headings: may be YHWH ("THE EYES OF THE LORD") or a human lord — per-instance
+S2a	main	6	6	full class	impl. review fix pass	Mark 2:10, 2:28 × EN/PT/ES
+S2a	mention	6	5	seeded sample	impl. review fix pass + R3	R3: ~1 in 12 is a legitimate mention; D8 says lowercase everywhere → route the class to 4b minus headings
+S2b	Spirit:tt-voice	6	6	seeded sample	impl. review fix pass	after excluding Word Biblical/Source lines/grammatical Verbo (R3 measured < 70 % before those exclusions)
+S3	pistis-faith:main	6	6	seeded sample	impl. review fix pass	lock πίστις = trust/faithfulness (RULES-GS:35)
+S3	ioudaioi-jews:main	6	6	seeded sample	impl. review fix pass	"Jews (Yehudim)" Acts 2:5, 2:11, 2:14; lock "the Yehudim" (RULES-GS:127)
+S4	main	8	8	seeded sample	first pass 2026-11-19 (not re-sampled)	ψυχή rendered soul/alma/Seele in verse text
+S6a	coverage-differs	8	8	seeded sample	first pass 2026-11-19 (not re-sampled)	
+S5c	conflict	12	6	random sample	R3 (impl. review)	below the 70 % cut-off → review list (non-names, Qur'anic Isa, table gaps)
+S6e	words	6	6	seeded sample	impl. review fix pass	real differences (John 1:3–4 split, Mark 2:28 so/so that, PT Mark 1); the 121 "words" rows of the first pass were a normalizer artifact (R2)
+S7a	pivot-likely	39	36	full PT list	R3 (impl. review)	the 3 false positives were added possessives (*vossos*/*teu*/*seu*), since reclassified `possessive` → current PT pivot-likely ≈ 36/36
+S9	propagation-word	6	5	seeded sample	impl. review fix pass	1 false positive: "propagada por meio de moedas" (ordinary sense)
+S11	missing-accent	20	15	random sample	R3 (impl. review)	homographs (especifica, perdida, explicita, legitima, llame, -ara) since moved to ambiguous
+S11	missing-accent:future	6	6	seeded sample	impl. review fix pass	generative rule (R2-7)
+S11	missing-accent:adverb	6	6	seeded sample	impl. review fix pass	generative rule (R2-7)
+S20	Father	6	6	seeded sample	impl. review fix pass	Rule 20 "father" (titular/relational) lowercase in EN/PT/ES
+S20	Pai	6	6	seeded sample	impl. review fix pass
+S20	added-capitalized	6	6	seeded sample	impl. review fix pass	"the *One* who…" — a capitalized added word imports a title
+S6b	backticked-marker	—	—	exact pattern	—	precision by construction (a marker inside backticks)
+S6d	unbalanced-verse	—	—	exact pattern	—	odd @@ count in one verse
+S8	*	—	—	exact pattern	—	front-matter fields
+S10	*	—	—	exact pattern	—	reconciles with the §0.1b count (137)
+S12	mojibake	14	14	full class	R2 (independent re-derivation)
+S13	yehudim	46	46	full class	R2 (independent re-derivation)	44 "Yehudim" in 12 files + 2 Yehudi/Yehudit (13th file)
+S13	yehudim-lowercase	—	—	exact pattern	—	lock writes the capitalized form
+S15	*	—	—	exact pattern	—
+S16	toc-renders-as-supplementary	3	3	full class	first pass
+S17	*	—	—	rendering inventory	—	data for Decision L7, not a defect count
+S18	*	—	—	counter	—	sentence counter verified on fixtures (abbreviations, openers)
+S21	*	—	—	exact pattern	—	values outside the RULES-HB/GS table cells; logged exceptions (acts.md Hades/Hakeldama) still listed
+S22	*	—	—	exact pattern	—	EN registry only

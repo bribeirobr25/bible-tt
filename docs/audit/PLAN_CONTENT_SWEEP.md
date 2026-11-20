@@ -1,7 +1,7 @@
 # PLAN — Launch Program Step 3: Content Sweep
 
 **Date:** 2026-11-19
-**Status:** EXECUTED 2026-11-19 · REVIEWED (independent adversarial plan review — 1 blocker, 10 major, 11 minor, all resolved, §13) · approved for execution under the lead's standing instruction (2026-11-19: "after the plan is written, reviewed and fixed or improved, feel free to implement it"). Tool scaffolding (zone splitter, name-table extractor) was written while the review ran; every review finding was applied before any result was used. **Results: `CONTENT_SWEEP_FINDINGS.md`.** Where §3–§7 below and §13/§14 differ, §13/§14 (as executed) win.
+**Status:** EXECUTED 2026-11-19 · REVIEWED (independent adversarial plan review — 1 blocker, 12 major, 9 minor, all resolved, §13) · IMPLEMENTATION-REVIEWED 2026-11-20 (5 adversarial reviewers, §15) · approved for execution under the lead's standing instruction (2026-11-19: "after the plan is written, reviewed and fixed or improved, feel free to implement it"). Tool scaffolding (zone splitter, name-table extractor) was written while the review ran; every review finding was applied before any result was used. **Results: `CONTENT_SWEEP_FINDINGS.md`.** Where §3–§7 below and §13/§14 differ, §13/§14 (as executed) win.
 **Program:** `LAUNCH_PROGRAM.md` Step 3 (decisions D1–D16 govern; this plan changes none of them).
 **Branch:** `content-sweep` (from `main` @ `c8ed3ed`). `main` is now protected (required check `gate`, PR-only, admins included — lead decision 2026-11-19).
 
@@ -16,9 +16,9 @@
 2. A committed findings snapshot (`docs/audit/content-sweep/`) and a hand-written analysis (`docs/audit/CONTENT_SWEEP_FINDINGS.md`) — counts, precision, classification, routing, lead decisions.
 3. **Tooling hygiene only:** remove the 22 stale §0.8 allow-list entries (Step 2 I24) and add a guard test so an allow-list entry can never go stale silently again.
 
-**Out of scope (explicitly):** any content change (all content fixes are Step 4b — including the ES body accents; Step 3 produces their exact list), any rule-file change (Step 4d), any code/renderer change (Step 4a), any new blocking lint rule (classes are promoted to blocking only after Step 4 clears them, playbook T-14).
+**Out of scope (explicitly):** any content change (all content fixes are Step 4b — including the ES body accents; Step 3 produces their exact list), any rule-file change (Step 4d), any code/renderer change (Step 4a), any new blocking *content* rule (classes are promoted to blocking only after Step 4 clears them, playbook T-14). **One tooling exception, by design:** the `allowlist` rule in `content-lint` (item 3) blocks on a stale allow-list entry — it guards the lint's own configuration, not content.
 
-**Why scan before fixing:** Step 1 and Step 2 both found classes larger than the first estimate (ES heading accents 100 → 150, 1.5×; companion gaps 9 → 10 companions / 29 pairs). This sweep confirmed the risk: the ES accent backlog is ≈ 2,100 tokens, not ~210. Sizing first prevents a Step 4 plan built on guesses, and committing the tool prevents the I21 problem (figures from uncommitted scripts).
+**Why scan before fixing:** Step 1 and Step 2 both found classes larger than the first estimate (ES heading accents 100 → 150, 1.5×; companion gaps 9 → 10 companions / 29 pairs). This sweep confirmed the risk: the ES accent backlog is ≥ 2,119 tokens (a lower bound), not ~210. Sizing first prevents a Step 4 plan built on guesses, and committing the tool prevents the I21 problem (figures from uncommitted scripts).
 
 ---
 
@@ -190,6 +190,18 @@ Five independent reviewers, each given the code/outputs, not my conclusions: **R
 
 - **Zones** add `cr` (continuous reading) and a per-line **render** state; chapter `front` renders only its Status line (the pill).
 - **Checks added** beyond §4: S6f (Rule 30 scope), S16 (TOC rendered as a section), S17 (χριστός), S18 (Tier-2 length), S19 (הִנֵּה lock). S6b redefined (backticked markers). S2b routed 4b.
-- **Gate additions:** `scripts/**/*.test.mjs` in vitest (36 tests incl. the real-corpus smoke + recall anchors + determinism); `lint-allowlist.test.ts` (2 tests); content-lint `allowlist` rule; `pnpm lint` covers `scripts/`. Tests 929 → **967** (19 files).
+- **Gate additions:** `scripts/**/*.test.mjs` in vitest (36 tests incl. the real-corpus smoke + recall anchors + determinism); `lint-allowlist.test.ts` (2 tests); content-lint `allowlist` rule; `pnpm lint` covers `scripts/`. Tests 929 → **967** (19 files); after the implementation review (§15) **1,002**.
 - **Allow-list:** the 22 stale `0.8|` entries removed; content-lint output byte-identical before/after.
+
+## 15. Implementation review (5 adversarial agents, 2026-11-20) — resolution
+
+Reviewers: R1 tool correctness (+ 40-mutant mutation run), R2 independent recall (own Python parsers), R3 precision and rule fidelity, R4 docs/completeness, R5 gate/CI/infra (macOS bash 3.2 + Docker bash 5.2/mawk). No blockers. The fixes are recorded in `CONTENT_SWEEP_FINDINGS.md` §6; the ones that change this plan:
+
+- **§3 zones:** Sources blocks are decided by heading words (companion "G." = Curiosities); PROPHECY files get their own render model mirroring `prophecy-parser.ts`; the INTRODUCTION `<!-- CARD -->` block is rendered (book landing).
+- **§4 checks:** S3 adds πίστις, Ἰουδαῖοι, DE Umkehr/Eintauchung; S7a covers DE/ES and classes doubled articles and possessives; S5d covers the continuous reading as its own section; S6e classes gloss placement; S6f adds the J-007 unresolved range; S8 compares the chapter pill word with the i18n badge term; S9 adds AI provenance and Tier-2 jargon; S13 adds lowercase yehudim; S14 adds vós verb forms; new **S20** (Rule 20 titular nouns), **S21** (`{t:}`/`{a:}` values against the glossary tables; bare slashes), **S22** (EN dual-label registry; note icons).
+- **§6.1 recall anchors:** moved off the live corpus. A test that requires a defect to exist breaks the gate when Step 4 fixes it (with `enforce_admins`, nobody could merge). Anchors are now frozen real lines (`scripts/sweep/__tests__/fixtures/recall-anchors.json`, each with file:line at f157960); the live-corpus test asserts tool health and determinism only; an anti-vacuity test requires every check id to fire on some fixture. §6.4 (S7a = 190) is re-verified in the findings doc, not pinned by a test.
+- **§6.2 precision:** every figure is now sourced in `docs/audit/content-sweep/precision.tsv`.
+- **Mutation testing (R1's harness, re-targeted):** 56 mutants — the first pass's 28 survivors plus 28 on the new logic — **56/56 killed** (first pass 12/40).
+- **§5 tool:** `--check` ids are validated (unknown/missing → exit 2) and select exact families (`S1` ≠ `S10`); files are NFC-normalized at load; the sampler moved to `scripts/content-sweep-sample.mjs`; `name-tables.mjs` → `rule-tables.mjs` (also extracts glossary cells); the scripts are type-checked (`tsconfig.scripts.json`, part of `pnpm typecheck`).
+- **Infra (R5):** CONTRIBUTING and PLAN_SAFETY_NET I23 describe the branch protection now in force; `gate.yml` documents that the job id `gate` is the required check; `content-lint` passes paths to awk through `ENVIRON` and turns a failed allow-list filter into a tool error; `archive/*` tags are protected by a ruleset; `docs/audit/content-sweep/*.tsv` are marked generated.
 

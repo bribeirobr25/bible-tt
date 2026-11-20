@@ -41,7 +41,7 @@ A change is not done until **all** of these pass locally:
 4. `pnpm content:lint` — content lint clean (or any new exception added, with justification, to `scripts/lint-allowlist.txt`).
 5. **i18n parity** — any UI string added in one locale exists in all four (`en`, `pt-br`, `de`, `es`) under `src/infrastructure/i18n/messages/` (now enforced by `src/infrastructure/i18n/__tests__/messages-parity.test.ts`).
 6. `pnpm typecheck` — `tsc --noEmit` clean.
-7. **CI green** — the GitHub Actions **Gate** workflow (`.github/workflows/gate.yml`) runs steps 1–4 + typecheck on Linux (GNU grep, bash 5) for every PR and push to `main`; a PR **must not be merged** until it is green. (Not enforced by GitHub yet: `main` has no branch protection — making `Gate` a required check is a lead setting.) Local runs use macOS BSD grep + bash 3.2 — both must pass.
+7. **CI green** — the GitHub Actions **Gate** workflow (`.github/workflows/gate.yml`) runs steps 1–4 + typecheck on Linux (GNU grep, bash 5) for every PR and push to `main`; a PR **must not be merged** until it is green. **Enforced by GitHub (branch protection on `main`, 2026-11-19):** `main` accepts changes only through a pull request whose required status check **`gate`** (the job id in `gate.yml`) is green against the latest `main` (strict); the rule applies to admins too, force-pushes and branch deletion are blocked, and no approving review is required. Local runs use macOS BSD grep + bash 3.2 — both must pass.
 
 Two recurring footguns:
 
@@ -52,8 +52,8 @@ Two recurring footguns:
 
 ## Branching & commits
 
-- **`main` is the active trunk.** Do **not** push or merge to `main` without explicit authorization from the project lead — `main` is the release gate.
-- Branch from `main` for any non-trivial unit of work; open a PR back into `main` and merge only once authorized.
+- **`main` is the active trunk and the release gate.** Direct pushes to `main` are rejected by branch protection (admins included) — every change, however small, goes through a PR.
+- Branch from `main`; open a PR back into `main` and merge only once the `gate` check is green **and** the merge is authorized by the project lead (standing authorization: LAUNCH_PROGRAM D14).
 - Commit messages: a concise subject line, then a body that says **what changed, why, and how it was verified** (the gate results — e.g. "916 tests pass; lint/build/content-lint clean; conservation intact"). Match the existing log style.
 - End every commit with the co-author trailer:
 

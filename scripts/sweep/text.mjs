@@ -49,7 +49,7 @@ export function isSentenceStart(line, idx) {
     .slice(0, idx)
     .replace(/[*_@]|\{[at]:/g, "")
     .replace(/[⁰¹²³⁴⁵⁶⁷⁸⁹]+/g, "");
-  return /(^|[.!?:;—–]\s*|^\s*(?:>\s*)?(?:[-*]\s+)?)["“„«‚'‘([]*\s*$/.test(
+  return /(^|[.!?:;—–]\s*|^\s*(?:>\s*)?(?:[-*]\s+)?)["“„«‚'‘([¿¡]*\s*$/.test(
     before,
   );
 }
@@ -78,8 +78,10 @@ const NEGATORS = [
   "en vez de",
   "jamás",
 ];
+// The negator must govern the form: same clause, within 40 characters — a comma,
+// dash or bracket ends its reach (impl. review R1: "not X, but the soul" is use).
 const NEG_RE = new RegExp(
-  `(?:^|[^\\p{L}])(?:${NEGATORS.join("|")})[^\\p{L}][^.;]{0,40}$`,
+  `(?:^|[^\\p{L}])(?:${NEGATORS.join("|")})[^\\p{L}][^.;,—–()]{0,40}$`,
   "u",
 );
 const QUOTE_PAIRS = [

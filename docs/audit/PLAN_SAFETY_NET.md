@@ -37,7 +37,7 @@ Make the gate trustworthy before Steps 3–5 change content at scale: every chec
 ## 3. Workstreams
 
 ### WS1 — CI (first)
-`.github/workflows/gate.yml`: on `push` to `main` and `pull_request`; `ubuntu-latest`; Node 22; pnpm from `packageManager` (pnpm/action-setup); `pnpm install --frozen-lockfile`; then `test`, `lint`, `typecheck`, `content:lint`, `build` as separate steps. Set `LC_ALL=C.UTF-8` explicitly; `pnpm/action-setup` **without** `version` (reads `packageManager`). The build fetches Google Fonts (`next/font/google`) — needs network; accepted, retried once on failure. **Acceptance = an actual green run on the PR**; merging (D14) waits for it. Branch protection with required checks is a lead-side GitHub setting (offered, not changed by this step). (the runner uses GNU grep — differences from macOS BSD grep surface here, not locally).
+`.github/workflows/gate.yml`: on `push` to `main` and `pull_request`; `ubuntu-latest`; Node 22; pnpm from `packageManager` (pnpm/action-setup); `pnpm install --frozen-lockfile`; then `test`, `lint`, `typecheck`, `content:lint`, `build` as separate steps. Set `LC_ALL=C.UTF-8` explicitly; `pnpm/action-setup` **without** `version` (reads `packageManager`). The build fetches Google Fonts (`next/font/google`) — needs network; accepted, retried once on failure. **Acceptance = an actual green run on the PR**; merging (D14) waits for it. Branch protection with required checks is a lead-side GitHub setting (offered, not changed by this step; **enabled by the lead 2026-11-19 — see I23**). (the runner uses GNU grep — differences from macOS BSD grep surface here, not locally).
 
 ### WS2 — content-lint hardening (`scripts/content-lint.sh`)
 1. **Generate book lists from the filesystem** (`content/<locale>/<book>/`); one `HB_BOOKS="genesis"` definition; `ES_NT_*` = ES books not in `HB_BOOKS`; chapter files by glob. Abort with an error if any generated list is empty.
@@ -151,6 +151,6 @@ Reviewers: **R1** lint tooling + CI · **R2** test quality (mutation testing) ·
 | I20 | R3 | `PILOT_BOOKS` only used by tests | **Kept** (zero runtime cost; documents intent in the registry) |
 | I21 | R5 | 6,350 / 78 / 26 figures came from uncommitted scripts | **Accepted** — reproduced independently by R3 (labels) and R1 (lint lines); figures stand as point-in-time measurements |
 | I22 | R4 | People-page gutter, raw file paths in cards, EN Genesis 688 vs 687 fields | **Pre-existing** → Step 5 (visual) / Step 4b (meta leaks, field) |
-| I23 | R5 | `main` has no branch protection; CI is advisory | **Lead decision** — recommend making `Gate` a required check (not changed without the lead) |
+| I23 | R5 | `main` has no branch protection; CI is advisory | **DONE 2026-11-19 (lead decision, during Step 3):** `main` protected — required status check `gate` (strict: up to date with `main`), `enforce_admins` on, PR required (0 approvals), force-push and deletion blocked. Remote branches pruned to `main` + the working branch; tag `archive/333a373` keeps the recovered luke-propagation tip. Recorded in LAUNCH_PROGRAM.md progress log |
 | I24 | R1 | 22 stale §0.8 allow-list entries | **Routed** → Step 3 (allow-list hygiene) |
 

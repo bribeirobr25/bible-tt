@@ -10,7 +10,7 @@
     "lint": "biome check src/ scripts/",
     "test": "vitest run",
     "test:watch": "vitest",
-    "typecheck": "tsc --noEmit",
+    "typecheck": "tsc --noEmit && tsc -p tsconfig.scripts.json",
     "content:lint": "bash scripts/content-lint.sh",
     "content:lint:warn": "bash scripts/content-lint.sh --warn-only",
     "content:sweep": "node scripts/content-sweep.mjs"

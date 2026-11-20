@@ -1,5 +1,6 @@
-// Proper-name table extraction (PLAN_CONTENT_SWEEP.md S5a). D11: the RULES-HB /
-// RULES-GS proper-name tables are the single source of truth for names.
+// RULES-HB / RULES-GS table extraction. Proper-name tables (PLAN_CONTENT_SWEEP.md
+// S5a; D11: the single source of truth for names) and every glossary table cell
+// (S21: the locked renderings that `{t:}` / `{a:}` markers may carry).
 
 const LOCALE_COLS = {
   en: "EN Familiar",
@@ -51,6 +52,7 @@ export function extractNameTables(markdown, source) {
     }
     if (cells.every((c) => /^:?-+:?$/.test(c))) continue;
     const col = (name) => cells[header.indexOf(name)] ?? "";
+    /** @type {Record<string, string>} */
     const familiar = {};
     for (const [loc, name] of Object.entries(LOCALE_COLS)) {
       const v = col(name);
@@ -65,4 +67,27 @@ export function extractNameTables(markdown, source) {
   if (rows.length === 0)
     throw new Error(`${source}: proper-name tables parsed to 0 rows`);
   return rows;
+}
+
+/**
+ * Every cell of every markdown table, lowercased, emphasis stripped (the locked
+ * renderings: "wind/spirit", "tebah", …); a cell "head (gloss)" also contributes
+ * "head" and "gloss". Throws on a document with no tables.
+ * @returns {Set<string>}
+ */
+export function extractTableCells(markdown, source) {
+  const cells = new Set();
+  for (const line of markdown.split("\n")) {
+    if (!line.startsWith("|")) continue;
+    for (const c of line.split("|").slice(1, -1)) {
+      const v = c.replace(/\*/g, "").trim().toLowerCase();
+      if (!v || /^:?-+:?$/.test(v)) continue;
+      // "tebah (ark/vessel)" locks both the head form and the parenthesized gloss
+      cells.add(v);
+      cells.add(v.replace(/\s*\([^)]*\)/g, "").trim());
+      for (const m of v.matchAll(/\(([^)]*)\)/g)) cells.add(m[1].trim());
+    }
+  }
+  if (!cells.size) throw new Error(`${source}: no markdown tables`);
+  return cells;
 }

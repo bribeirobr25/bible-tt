@@ -17,6 +17,7 @@ import {
   isSentenceStart,
   italicSpans,
   norm,
+  stripAccents,
   word,
 } from "./text.mjs";
 import { continuousByVerse, isChapterFile, studyByVerse } from "./zones.mjs";
@@ -98,7 +99,7 @@ export function makeHit(ctx, i, check, cls, match, idx) {
 // ---------------------------------------------------------------- S1 divine name
 // Discussion of the convention itself (legitimate reader explanation) vs leak vs defect.
 const CONVENTION_CUE =
-  /tradition|translations? (?:substitut|print|render|use)|most (?:English )?(?:Bibles|translations)|substitut|Ersatz|ersetz|tradicion|tradução|traduções|traducciones|sustitu|small caps|versalit|em vez de|statt|en lugar de|instead of|not "|NOT "|não "|nicht „|no "/i;
+  /tradition|translations? (?:substitut|print|render|use)|most (?:English )?(?:Bibles|translations)|substitu|Ersatz|ersetz|tradicion|tradução|traduções|traducciones|sustitu|small caps|versalit|em vez de|statt|en lugar de|instead of|collapsing to|(?:not|NOT|não|nicht|no)(?: als| como)? *["“„«]/i;
 export function s1(ctx, add) {
   const pair =
     ctx.locale === "de" ? ["S1a", "YHWH\\p{L}*"] : ["S1b", "JHWH\\p{L}*"];
@@ -112,17 +113,28 @@ export function s1(ctx, add) {
           : "jhwh-outside-de";
     add(makeHit(ctx, i, pair[0], cls, m[0], m.index));
   }
-  // Rule 25 / HB glossary: never "LORD/SENHOR/HERR/SEÑOR". Quoted OT text in TT voice is USE (review R-5).
-  for (const { i, m, line } of matches(ctx, word("LORD|SENHOR|HERR|SEÑOR"), {
-    skipCaps: true,
-  })) {
+  // Rule 25 / HB glossary: never "LORD/SENHOR/HERR(N)/SEÑOR". Quoted OT text in TT voice is USE (review R-5).
+  // Headings and all-caps titles are classified, not skipped (impl. review R2-2): a caps
+  // title may hide a real "LORD" — or a typographic "lord" (κύριος of a human) — so it is a review class.
+  for (const { i, m, line } of matches(
+    ctx,
+    word("LORD|SENHOR|HERR(?:N|EN)?|SEÑOR"),
+  )) {
     const near = line.slice(Math.max(0, m.index - 80), m.index + 40);
+    const caps =
+      ctx.zones[i].heading ||
+      capsLine(ctx, i) ||
+      inCapsRun(line, m.index, m[0].length);
     add(
       makeHit(
         ctx,
         i,
         "S1c",
-        CONVENTION_CUE.test(near) ? "convention-mention" : "use",
+        CONVENTION_CUE.test(near)
+          ? "convention-mention"
+          : caps
+            ? "caps-title"
+            : "use",
         m[0],
         m.index,
       ),
@@ -132,9 +144,9 @@ export function s1(ctx, add) {
 
 // ---------------------------------------------------------------- S2 casing (Rule 20 / D8)
 const SON_OF_MAN = {
-  en: { re: /[Ss]on of [Mm]an/g, ok: "son of man" },
-  "pt-br": { re: /[Ff]ilho do [Hh]omem/g, ok: "filho do homem" },
-  es: { re: /[Hh]ijo del [Hh]ombre/g, ok: "hijo del hombre" },
+  en: { re: word("[Ss]on of [Mm]an"), ok: "son of man" },
+  "pt-br": { re: word("[Ff]ilho do [Hh]omem"), ok: "filho do homem" },
+  es: { re: word("[Hh]ijo del [Hh]ombre"), ok: "hijo del hombre" },
 };
 export function s2a(ctx, add) {
   const spec = SON_OF_MAN[ctx.locale];
@@ -155,6 +167,11 @@ const CAPS_TERMS = {
   "pt-br": "Verbo|Palavra|Espírito|Céu|Céus",
   es: "Verbo|Palabra|Espíritu|Cielo|Cielos",
 };
+// Not the divine/cosmic noun: the "Word Biblical Commentary" series / Word publisher,
+// and PT/ES "Verbo" = the grammatical verb (glossary tables, TOC) — impl. review R3-5.
+const S2B_NOT_TERM =
+  /^(?:Word Biblical|Word Books|Word,|Word \(|Verbo (?:principal|finito|hebraico|grego|hebreo|griego)|Verbos\b)/;
+const SOURCE_LINE = /\*\*(?:Fuentes?|Sources?|Fontes?|Quellen?):\*\*/;
 export function s2b(ctx, add) {
   const t = CAPS_TERMS[ctx.locale];
   if (!t) return;
@@ -162,12 +179,17 @@ export function s2b(ctx, add) {
     skipCaps: true,
   })) {
     if (isSentenceStart(line, m.index)) continue;
+    if (SOURCE_LINE.test(line) || S2B_NOT_TERM.test(line.slice(m.index)))
+      continue;
+    // a table cell starting with the word is a label, not running prose
+    const cellStart =
+      /^\s*\|/.test(line) && /\|\s*$/.test(line.slice(0, m.index));
     add(
       makeHit(
         ctx,
         i,
         "S2b",
-        `${m[0]}:${voiceClass(line, m.index, zone)}`,
+        `${m[0]}:${cellStart ? "table-cell" : voiceClass(line, m.index, zone)}`,
         m[0],
         m.index,
       ),
@@ -189,6 +211,9 @@ const GS_TERMS = {
     ["baptize", "[Bb]aptis\\p{L}*|[Bb]aptiz\\p{L}*"],
     ["comforter", "Comforter"],
     ["pascha", "Passover|Easter"],
+    // impl. review R2-4: πίστις locked trust/faithfulness; οἱ Ἰουδαῖοι locked "the Yehudim"
+    ["pistis-faith", "[Ff]aith"],
+    ["ioudaioi-jews", "Jews?"],
   ],
   "pt-br": [
     ["only-begotten", "unigênito"],
@@ -199,16 +224,22 @@ const GS_TERMS = {
     ["baptize", "[Bb]atiz\\p{L}*|[Bb]atism\\p{L}*|[Bb]atist\\p{L}*"],
     ["comforter", "Consolador"],
     ["pascha", "Páscoa"],
+    ["pistis-faith", "[Ff]é"],
+    ["ioudaioi-jews", "[Jj]udeus|[Jj]udeu"],
   ],
   de: [
     ["only-begotten", "eingeboren\\p{L}*"],
     ["eternal-life", "ewige[sn]? Leben\\p{L}*"],
-    ["repent", "Buße|[Bb]ereu\\p{L}*"],
+    ["repent", "Buße|[Bb]ereu\\p{L}*|Umkehr"],
     ["gospel", "Evangelium|Evangelien"],
     ["church", "Kirche\\p{L}*"],
     ["baptize", "[Tt]auf\\p{L}*|Täufer\\p{L}*"],
     ["comforter", "Tröster"],
     ["pascha", "Passa|Passah|Ostern"],
+    ["pistis-faith", "Glaube\\p{L}*"],
+    ["ioudaioi-jews", "Juden|Jude"],
+    // βάπτισμα locked "Untertauchen" (RULES-GS:39)
+    ["baptisma-variant", "Eintauch\\p{L}*"],
   ],
   es: [
     ["only-begotten", "unigénito"],
@@ -219,6 +250,8 @@ const GS_TERMS = {
     ["baptize", "[Bb]autiz\\p{L}*|[Bb]autism\\p{L}*|[Bb]autist\\p{L}*"],
     ["comforter", "Consolador"],
     ["pascha", "Pascua"],
+    ["pistis-faith", "[Ff]e"],
+    ["ioudaioi-jews", "[Jj]udíos?"],
   ],
 };
 const HB_TERMS = {
@@ -266,11 +299,13 @@ export function s4(ctx, add) {
 
 // ---------------------------------------------------------------- S5 names
 // "Translit (Familiar)" pairs; also used by the corpus-level name report.
+// Hyphenated names ("Bar-Talmai") are one word via the character class; the word
+// separator is a space only (a hyphen in both made the match ambiguous — impl. review R1).
 export const PAIR_RE =
-  /(?<![\p{L}\p{M}'’-])(\p{Lu}[\p{L}\p{M}'’ʼ-]*(?:[ -]\p{Lu}[\p{L}\p{M}'’ʼ-]*){0,2}) \((\p{Lu}[\p{L}\p{M}'’ʼ.-]*(?: \p{Lu}?[\p{L}\p{M}'’ʼ.-]+){0,3})\)/gu;
+  /(?<![\p{L}\p{M}'’-])(\p{Lu}[\p{L}\p{M}'’ʼ-]*(?: \p{Lu}[\p{L}\p{M}'’ʼ-]*){0,2}) \((\p{Lu}[\p{L}\p{M}'’ʼ.-]*(?: \p{Lu}?[\p{L}\p{M}'’ʼ.-]+){0,3})\)/gu;
 // Capitalized function words that start a sentence before a name ("And Yeshua (Jesus)").
 const LEAD_WORDS = new Set(
-  "And But When Then The A An O Os As E Mas Quando Então Und Aber Als Dann Der Die Das Y Pero Cuando Entonces El La Los Las Of De Da Do".split(
+  "And But When Then Now With The A An O Os As E Mas Quando Então Und Aber Als Dann Der Die Das Y Pero Cuando Entonces El La Los Las Of De Da Do Rio Río River Fluss Bruder Brother Irmão Hermano".split(
     " ",
   ),
 );
@@ -281,10 +316,12 @@ const isCaps = (s) => /^[\p{Lu}\p{N} .'-]+$/u.test(s) && /\p{Lu}{2}/u.test(s);
 const NAME_WORDS =
   /^(?:\p{Lu}[\p{L}\p{M}'’ʼ.-]*|de|da|do|del|von|van|of|the|bar|ben|bat)$/u;
 
+/** Pairs in every reader zone AND the continuous reading (its own name section — impl. review R3-7); consumers that count renderings skip `cr`. */
+const PAIR_ZONES = new Set([...READER, "cr"]);
 export function namePairs(ctx) {
   if (ctx._pairs) return ctx._pairs;
   const out = [];
-  for (const { i, m, zone } of matches(ctx, PAIR_RE)) {
+  for (const { i, m, zone } of matches(ctx, PAIR_RE, { zones: PAIR_ZONES })) {
     let idx = m.index;
     const words = m[1].split(" ");
     while (words.length > 1 && LEAD_WORDS.has(words[0]))
@@ -319,9 +356,12 @@ const STALE_POLICY = [
   /Eigennamen folgen der TT-Transliteration/g,
   /Los nombres propios siguen la transliteración/g,
 ];
+/** "Natan (Natán)", "Sarah (Sārah)": the same name modulo accents/case is still redundant (impl. review R2-11). */
+export const sameName = (a, b) =>
+  stripAccents(a).toLowerCase() === stripAccents(b).toLowerCase();
 export function s5d(ctx, add, familiarNames) {
   for (const p of namePairs(ctx))
-    if (p.translit === p.familiar)
+    if (p.zone !== "cr" && sameName(p.translit, p.familiar))
       add(
         makeHit(
           ctx,
@@ -363,8 +403,20 @@ const verseLine = (ctx, v) =>
     ctx.zones.findIndex((z) => z.zone === "main" && z.verse === v),
   );
 
-/** Collapse "Translit (Familiar)" glosses to "Familiar": the two renderings are separate name sections. */
-export const collapseGlosses = (s) => s.replace(PAIR_RE, "$2");
+/**
+ * Collapse "Translit (Familiar)" glosses to "Familiar" — the two renderings are separate
+ * name sections. Only as many words before the parenthesis as the familiar form has are
+ * replaced (the capture may start earlier): "And Hevel (Abel)" → "And Abel", DE "deine
+ * Frau Elisheva (Elisabeth)" → "deine Frau Elisabeth" (impl. review R2-1/R1-2).
+ */
+export const collapseGlosses = (s) =>
+  s.replace(PAIR_RE, (_all, translit, familiar) => {
+    const words = translit.split(" ");
+    const k = Math.min(words.length, familiar.split(" ").length);
+    return [...words.slice(0, words.length - k), familiar].join(" ");
+  });
+const glossCount = (s) =>
+  [...s.matchAll(PAIR_RE)].filter((m) => !sameName(m[1], m[2])).length;
 
 export function s6s7(ctx, add, model) {
   if (!model) return;
@@ -409,6 +461,22 @@ export function s6s7(ctx, add, model) {
           0,
         ),
       );
+    } else {
+      // same words once glosses are collapsed: report where a first-occurrence gloss sits
+      // in one rendering only (decision data for L2; the guide says "Text is identical").
+      const gc = glossCount(cont.get(v) ?? "");
+      const gs = glossCount(study.get(v) ?? "");
+      if (gc !== gs)
+        add(
+          makeHit(
+            ctx,
+            i,
+            "S6e",
+            gs > gc ? "gloss-in-study-only" : "gloss-in-cr-only",
+            `v${v}: ${gc} vs ${gs} gloss(es)`,
+            0,
+          ),
+        );
     }
   }
   for (const v of studyDiv.unbalanced)
@@ -449,17 +517,30 @@ const CITATION =
   /(?:it is written|as it is written|has been written|in scripture|scripture says|says the prophet|through the prophet|spoken by|está escrito|como está escrito|na escritura|diz a escritura|pelo profeta|steht geschrieben|wie geschrieben steht|in der Schrift|durch den Propheten|escrito está|en la escritura|dice la escritura|por medio del profeta)[^@]{0,40}$/i;
 const MESSENGER =
   /(?<![\p{L}])(?:angel|messenger|mensageiro|anjo|Engel|Bote|ángel|mensajero)/iu;
+// Speaker boundaries the editorial log declares unresolved: Rule 30 "when in doubt, do
+// not mark" — any marking there contradicts the log (john.md J-007, impl. review R3-2).
+const UNRESOLVED_SPEAKER = {
+  "john/CHAPTER-3.md": [
+    [16, 21],
+    [31, 36],
+  ],
+};
 export function s6f(ctx, add, model) {
   if (!model) return;
+  const unresolved =
+    UNRESOLVED_SPEAKER[`${ctx.book}/${ctx.path.split("/").at(-1)}`] ?? [];
   for (const [v, text] of model.study) {
     const parts = text.split("@@");
+    const undecided = unresolved.some(([a, b]) => v >= a && v <= b);
     for (let k = 1; k < parts.length; k += 2) {
       const before = parts.slice(0, k).join("");
-      const cls = CITATION.test(before)
-        ? "after-citation-formula"
-        : MESSENGER.test(before)
-          ? "messenger-context"
-          : null;
+      const cls = undecided
+        ? "logged-unresolved-speaker"
+        : CITATION.test(before)
+          ? "after-citation-formula"
+          : MESSENGER.test(before)
+            ? "messenger-context"
+            : null;
       if (cls)
         add(
           makeHit(
@@ -522,44 +603,77 @@ export function s6f(ctx, add, model) {
   }
 }
 
-// ---------------------------------------------------------------- S7a PT contractions (T-20)
-// Three PT forms for an article fused into a contraction (review R-4):
+// ---------------------------------------------------------------- S7a contractions (T-20, Rule 11)
+// An article fused into a contraction, three forms (review R-4):
 //   (i)   contraction + italic word  `na *carne*`  — the T-20 pivot class
-//   (ii)  italic article inside it   `n*a* carne`  — de-facto convention ("option D")
-//   (iii) whole contraction italic   `*na* carne`
+//   (ii)  italic article inside it   `n*a* carne`  — de-facto PT convention ("option D")
+//   (iii) whole contraction italic   `*na* carne`  — logged DE convention (mark.md:116)
+// PT, DE and ES all have the class (impl. review R3-6/R2-6); a contraction followed by
+// an italic ARTICLE is a doubled article ("im *dem*", "al *el*") — ungrammatical.
 // Unicode left boundary (JS `\b` never matches before "à"/"às").
-const CONTR = "na|no|nas|nos|da|do|das|dos|pela|pelo|pelas|pelos|à|às|ao|aos";
-export const T20_RE = new RegExp(
-  `(?<![\\p{L}\\p{M}\\p{Nd}_])(${CONTR}) \\*[^*]+\\*`,
-  "gu",
+const B = "(?<![\\p{L}\\p{M}\\p{Nd}_*])";
+const E = "(?![\\p{L}*])";
+const S7A = {
+  "pt-br": {
+    contr: "na|no|nas|nos|da|do|das|dos|pela|pelo|pelas|pelos|à|às|ao|aos",
+    whole: "num|numa|dum|duma",
+    article: "o|a|os|as|um|uma|uns|umas",
+    intra: `(?:n|d|pel|à|a)\\*(?:a|o|as|os|s|um|uma|uns|umas)\\*`,
+    possessive: "meus?|minhas?|teus?|tuas?|seus?|suas?|noss[oa]s?|voss[oa]s?",
+  },
+  de: {
+    contr: "im|am|vom|zum|zur|beim|ins|ans|aufs|durchs|fürs|ums",
+    whole: "",
+    article: "der|die|das|dem|den|des|ein|eine|einen|einem|einer|eines",
+    intra: `(?:i|a|vo|zu|bei|in|an)\\*(?:m|r|s)\\*`,
+    possessive: "(?:mein|dein|sein|ihr|unser|euer|eur)\\p{L}*",
+  },
+  es: {
+    contr: "al|del",
+    whole: "",
+    article: "el|la|los|las|un|una|unos|unas",
+    intra: `(?:a|de)\\*l\\*`,
+    possessive: "mis?|tus?|sus?|nuestr[oa]s?|vuestr[oa]s?",
+  },
+};
+const re = (src) => new RegExp(src, "gu");
+const S7A_RE = Object.fromEntries(
+  Object.entries(S7A).map(([loc, c]) => [
+    loc,
+    {
+      // the T-20 left boundary does not exclude `*` (reproduces the playbook figure)
+      t20: re(`(?<![\\p{L}\\p{M}\\p{Nd}_])(${c.contr}) \\*([^*]+)\\*`),
+      intra: re(`${B}${c.intra}${E}`),
+      whole: re(`${B}\\*(?:${c.contr}${c.whole ? `|${c.whole}` : ""})\\*${E}`),
+      article: re(`${B}\\*(?:${c.article})\\*${E}`),
+      isArticle: new RegExp(`^(?:${c.article})$`, "u"),
+      isPossessive: new RegExp(`^(?:${c.possessive})$`, "iu"),
+    },
+  ]),
 );
-const INTRA_RE =
-  /(?<![\p{L}\p{M}\p{Nd}_*])(?:n|d|pel|à|a)\*(?:a|o|as|os|s)\*(?![\p{L}*])/gu;
-const WHOLE_RE = new RegExp(
-  `(?<![\\p{L}\\p{M}\\p{Nd}_*])\\*(?:${CONTR}|num|numa|dum|duma)\\*(?![\\p{L}*])`,
-  "gu",
-);
-const PT_ARTICLE_ITALIC =
-  /(?<![\p{L}*])\*(?:o|a|os|as|um|uma|uns|umas)\*(?![\p{L}*])/gu;
+/** The PT T-20 regex (playbook T-20 figure). */
+export const T20_RE = S7A_RE["pt-br"].t20;
 const EN_ARTICLE_ITALIC =
   /(?<![\p{L}*])\*(?:the|a|an|The|A|An)\*(?![\p{L}*])/gu;
-const count = (s, re) => (s.match(re) ?? []).length;
+const count = (s, r) => (s.match(r) ?? []).length;
 
 export function s7a(ctx, add, enModel) {
-  if (ctx.locale !== "pt-br" || !isChapterFile(ctx.path)) return;
+  const R = S7A_RE[ctx.locale];
+  if (!R || !isChapterFile(ctx.path)) return;
   for (let i = 0; i < ctx.lines.length; i++) {
     const z = ctx.zones[i];
     const line = ctx.lines[i];
     if (z.zone === "main")
-      for (const [re, form] of [
-        [INTRA_RE, "intra-word"],
-        [WHOLE_RE, "whole-contraction"],
+      for (const [r, form] of [
+        [R.intra, "intra-word"],
+        [R.whole, "whole-contraction"],
       ]) {
-        for (const f of line.matchAll(re))
+        for (const f of line.matchAll(r))
           add(makeHit(ctx, i, "S7a", `form:${form}`, f[0], f.index));
       }
-    for (const m of line.matchAll(T20_RE)) {
-      // Reconciliation with the T-20 whole-file figure (190): every zone is recorded.
+    for (const m of line.matchAll(R.t20)) {
+      const italic = m[2];
+      // Reconciliation with the T-20 whole-file figure (PT 190): every zone is recorded.
       if (z.zone !== "main") {
         add(
           makeHit(
@@ -573,29 +687,25 @@ export function s7a(ctx, add, enModel) {
         );
         continue;
       }
-      const italic = m[0].slice(m[0].indexOf("*") + 1, -1);
-      if (m[1] === "ao" && /(?:ar|er|ir|or)$/.test(italic)) {
-        add(makeHit(ctx, i, "S7a", "ao+infinitive", m[0], m.index));
-        continue;
+      let cls;
+      if (R.isArticle.test(italic)) cls = "doubled-article";
+      else if (R.isPossessive.test(italic)) cls = "possessive";
+      else if (
+        ctx.locale === "pt-br" &&
+        m[1] === "ao" &&
+        /(?:ar|er|ir|or)$/.test(italic)
+      )
+        cls = "ao+infinitive";
+      else {
+        // Per-verse article accounting: EN marks N added articles; the locale marks M
+        // (standalone + intra-word + whole-contraction). A deficit plus this form → pivot-likely.
+        const txt = studyText(ctx, z.verse);
+        const enN = count(enModel?.study.get(z.verse) ?? "", EN_ARTICLE_ITALIC);
+        const locN =
+          count(txt, R.article) + count(txt, R.intra) + count(txt, R.whole);
+        cls = enN > locN && !/\s/.test(italic) ? "pivot-likely" : "review";
       }
-      // Per-verse article accounting: EN marks N added articles; PT marks M
-      // (standalone + intra-word + whole-contraction). A deficit plus this form → pivot-likely.
-      const pt = studyText(ctx, z.verse);
-      const enN = count(enModel?.study.get(z.verse) ?? "", EN_ARTICLE_ITALIC);
-      const ptN =
-        count(pt, PT_ARTICLE_ITALIC) +
-        count(pt, INTRA_RE) +
-        count(pt, WHOLE_RE);
-      add(
-        makeHit(
-          ctx,
-          i,
-          "S7a",
-          enN > ptN && !/\s/.test(italic) ? "pivot-likely" : "review",
-          m[0],
-          m.index,
-        ),
-      );
+      add(makeHit(ctx, i, "S7a", cls, m[0], m.index));
     }
   }
 }
@@ -610,6 +720,15 @@ const STATUS_OK =
 const REVIEWERS = /^\*\*(?:Reviewers|Revisores|Begutachter):\*\*/;
 const RULESET =
   /^\*\*(?:Ruleset|Conjunto de Regras|Conjunto de Reglas|Conjunto de reglas|Regelwerk|Reglas|Regras|Methodology|Metodologia|Metodología|Methodik)[^:]*:\*\*.*?v(\d+\.\d+(?:\.\d+)?)/;
+// The chapter status pill prints the first word(s) of the Status value
+// (src/ui/shared/chapter-shell.tsx: split on " — " / " (") while every other badge
+// prints the i18n term (messages/*.json "provisional") — impl. review R3-16.
+const BADGE_TERM = {
+  en: "Provisional",
+  "pt-br": "Provisório",
+  de: "Vorläufig",
+  es: "Provisional",
+};
 export function s8(ctx, add) {
   const front = ctx.lines
     .map((l, i) => [l, i])
@@ -618,6 +737,12 @@ export function s8(ctx, add) {
   if (!status) add(makeHit(ctx, 0, "S8", "no-status", "", 0));
   else if (!STATUS_OK.test(status[0]))
     add(makeHit(ctx, status[1], "S8", "status-not-provisional", status[0], 0));
+  else if (isChapterFile(ctx.path)) {
+    const value = status[0].replace(/^\*\*(?:Status|Estado):\*\*\s*/, "");
+    const pill = value.split(/\s[—–-]\s|\s\(/)[0].trim();
+    if (pill.toLowerCase() !== BADGE_TERM[ctx.locale].toLowerCase())
+      add(makeHit(ctx, status[1], "S8", "pill-word≠badge-term", pill, 0));
+  }
   if (isChapterFile(ctx.path) && !front.some(([l]) => REVIEWERS.test(l)))
     add(makeHit(ctx, 0, "S8", "no-reviewers", "", 0));
   const rs = front.map(([l, i]) => [l.match(RULESET), i]).filter(([m]) => m);
@@ -638,8 +763,26 @@ const META = [
   [
     "process-word",
     word(
-      "[Pp]ropagat\\p{L}*|[Pp]ropaga[çc]\\p{L}*|[Pp]ropagad[oa]s?|Propagierung|EN[- ][Pp]ivot|[Pp]ivot[- ](?:artifact|language)|mirror-EN|TODO:|TBD|FIXME|[Pp]laybook|PLAN_\\w+|lint|allow-list",
+      "EN[- ][Pp]ivot|[Pp]ivot[- ](?:artifact|language)|mirror-EN|TODO:|TBD|FIXME|[Pp]laybook|PLAN_\\w+|lint|allow-list",
     ),
+  ],
+  // own class: "propagated through coins" is ordinary English (impl. review R3-18)
+  [
+    "propagation-word",
+    word(
+      "[Pp]ropagat\\p{L}*|[Pp]ropaga[çc]\\p{L}*|[Pp]ropagad[oa]s?|Propagierung",
+    ),
+  ],
+  // impl. review R2-8: model/drafting provenance and rule-tier jargon in reader text
+  [
+    "ai-provenance",
+    word(
+      "Drafted by|Redigido por|Entworfen von|Erstellt von|Verfasst von|Redactado por|Claude(?: Opus \\d[\\d.]*)?|AI assistant|\\(1M context\\)|Anthropic|Not yet reviewed",
+    ),
+  ],
+  [
+    "tier-jargon",
+    word("(?:Tier|TIER|Nível|NÍVEL|Stufe|STUFE|Nivel|NIVEL)[- ]2"),
   ],
   ["process-word", word("(?:Phase|Fase) \\d+(?:\\.\\d+)?[A-Za-z]?")],
   [
@@ -650,7 +793,7 @@ const META = [
   ],
   [
     "rule-ref",
-    word("(?:Rule|Regra|Regel|Regla|CORE-Regel|CORE Rule) \\d{1,2}"),
+    word("(?:Rules?|Regras?|Regeln?|Reglas?|CORE-Regel|CORE Rule) \\d{1,2}"),
   ],
 ];
 // Cross-book see-stub fields render as links (RULES-CORE Rule 29) — data, not a leak.
@@ -703,7 +846,9 @@ export function s10(ctx, add) {
 // ---------------------------------------------------------------- S12 mojibake
 export function s12(ctx, add) {
   // C1 controls (UTF-8 → Latin-1 double-decode residue, e.g. "â" + U+0080 U+0094 for "—"), â€, Ã + Latin-1, U+FFFD.
-  const re = /â[\u0080-\u009F€™]+|[\u0080-\u009F]+|Ã[\u0080-¿]|�/g;
+  // + Windows-1252 double-decode residue of capitals/punctuation ("Ã‡" = Ç, "Ã‰" = É — impl. review R1)
+  const re =
+    /â[\u0080-\u009F€™]+|[\u0080-\u009F]+|Ã[\u0080-¿‚ƒ„…†‡ˆ‰Š‹ŒŽ‘’“”•–—˜™š›œžŸ]|�/g;
   for (let i = 0; i < ctx.lines.length; i++) {
     for (const m of ctx.lines[i].matchAll(re))
       add(makeHit(ctx, i, "S12", "mojibake", JSON.stringify(m[0]), m.index));
@@ -712,7 +857,11 @@ export function s12(ctx, add) {
 
 // ---------------------------------------------------------------- S13 DE Ioudaioi (D9)
 export function s13(ctx, add) {
-  if (ctx.locale !== "de") return;
+  if (ctx.locale !== "de") {
+    for (const { i, m } of matches(ctx, word("yehudim")))
+      add(makeHit(ctx, i, "S13", "yehudim-lowercase", m[0], m.index));
+    return;
+  }
   for (const { i, m } of matches(ctx, word("Yehudi\\p{L}*")))
     add(
       makeHit(
@@ -727,6 +876,12 @@ export function s13(ctx, add) {
 }
 
 // ---------------------------------------------------------------- S14 PT register (decision data)
+// 2nd-person-plural verb forms carry the vós register without a pronoun (impl. review
+// R3-15): unaccented -eis (recebeis, comeceis), imperfect -íeis (sabíeis) and
+// -ar imperatives in -ai (mudai, preparai). A review class — conservative, not exhaustive.
+// (-ei imperatives are left out: they collide with -ar preterite and future 1sg — tomei, farei.)
+const VOS_VERB = word("[a-zç]{3,}eis|\\p{Ll}{2,}íeis|[A-Za-zç]{3,}ai");
+const VOS_VERB_NOT = /^(?:papai)$/i;
 export function s14(ctx, add) {
   if (ctx.locale !== "pt-br") return;
   const re = word("[Vv]ós|[Vv]oss[oa]s?|[Cc]onvosco|[Vv]ocês");
@@ -734,6 +889,12 @@ export function s14(ctx, add) {
     add(
       makeHit(ctx, i, "S14", /ocê/.test(m[0]) ? "voces" : "vos", m[0], m.index),
     );
+  for (const { i, m, line } of matches(ctx, VOS_VERB, { zones: MAIN })) {
+    // a capitalized -ai/-ei word mid-sentence is a name (Sinai, Shaddai, Talmai)
+    if (/^\p{Lu}/u.test(m[0]) && !isSentenceStart(line, m.index)) continue;
+    if (!VOS_VERB_NOT.test(m[0]))
+      add(makeHit(ctx, i, "S14", "vos-verb?", m[0], m.index));
+  }
 }
 
 // ---------------------------------------------------------------- S15 renderer-hostile markup (→ 4a)
@@ -812,11 +973,27 @@ const CHRISTOS = {
     ["anointed", "[Uu]ngido"],
   ],
 };
+/** Verses whose source word is Μεσσίας (a transliteration), not χριστός. */
+const MESSIAS_SOURCE = new Set(["john/CHAPTER-1.md/41"]);
 export function s17(ctx, add) {
   if (!NT.has(ctx.book)) return;
+  const file = `${ctx.book}/${ctx.path.split("/").at(-1)}`;
   for (const [form, src] of CHRISTOS[ctx.locale])
-    for (const { i, m } of matches(ctx, word(src), { zones: MAIN }))
-      add(makeHit(ctx, i, "S17", form, m[0], m.index));
+    for (const { i, m } of matches(ctx, word(src), { zones: MAIN })) {
+      const messias =
+        form === "messiah" &&
+        MESSIAS_SOURCE.has(`${file}/${ctx.zones[i].verse}`);
+      add(
+        makeHit(
+          ctx,
+          i,
+          "S17",
+          messias ? "messias-source" : form,
+          m[0],
+          m.index,
+        ),
+      );
+    }
 }
 
 // ---------------------------------------------------------------- S18 Tier-2 note length
@@ -827,25 +1004,29 @@ const ABBR =
 export function sentences(text) {
   const t = text.replace(/\*\*[^*]*\*\*/g, "X").replace(/\([^)]*\)/g, "(…)");
   let n = 0;
-  const re = /[.!?]["”»“']?(?=\s+["“„«(]?\p{Lu})/gu;
+  // a sentence may open with a quote, bracket, italic/bold marker or ES ¿/¡ (impl. review R1-5)
+  const re = /[.!?]["”»“']?(?=\s+["“„«(*_¿¡]*\p{Lu})/gu;
   for (const m of t.matchAll(re))
     if (!ABBR.test(t.slice(Math.max(0, m.index - 8), m.index + 1))) n++;
   return n + 1;
 }
+// A note body is a bullet (`> - …`) or a free paragraph line (`> …`, not the NOTES
+// label, not an icon title line). The default is 1–2 sentences, so 3 is reported too.
+const NOTE_BODY = /^>\s*(?:-\s+)?(?!\*\*NOTES\*\*|[🔴🟢🔵🟡⚠])(\S.*)$/u;
 export function s18(ctx, add) {
   if (!isChapterFile(ctx.path)) return;
   for (let i = 0; i < ctx.lines.length; i++) {
     if (ctx.zones[i].zone !== "note") continue;
-    const m = ctx.lines[i].match(/^>\s*-\s+(.*)$/);
+    const m = ctx.lines[i].match(NOTE_BODY);
     if (!m) continue;
     const n = sentences(m[1]);
-    if (n > 3)
+    if (n >= 3)
       add(
         makeHit(
           ctx,
           i,
           "S18",
-          n > 5 ? "sentences>5" : "sentences=4-5",
+          n > 5 ? "sentences>5" : n > 3 ? "sentences=4-5" : "sentences=3",
           `${n} sentences`,
           0,
         ),
@@ -887,6 +1068,122 @@ export function s19(ctx, add, model) {
     }
 }
 
+// ---------------------------------------------------------------- S20 Rule 20 titular nouns (impl. review R2-3)
+// "son of God", "father", "king of Israel", "the anointed one" stay lowercase in EN/PT/ES
+// (RULES-CORE Rule 20; DE exempt). Verse text only; sentence-initial capitals are allowed.
+// "Son of Man" is S2a. A capitalized *added* word ("Mighty *One*") imports a title too.
+const TITLES = {
+  en: "Son|Father|King|Anointed|Shepherd|Lamb|Holy One|Mighty One|Righteous One",
+  "pt-br": "Filho|Pai|Rei|Ungido|Pastor|Cordeiro|Santo|Justo|Poderoso",
+  es: "Hijo|Padre|Rey|Ungido|Pastor|Cordero|Santo|Justo|Poderoso|Aquel",
+};
+const ADDED_TITLE =
+  /(?<![\p{L}*])\*(?:One|Aquele|Aquela|Aquel|Uno)\*(?![\p{L}*])/gu;
+export function s20(ctx, add) {
+  const t = TITLES[ctx.locale];
+  if (!t || !NT.has(ctx.book)) return;
+  for (const { i, m, line } of matches(ctx, word(t), { zones: MAIN })) {
+    if (isSentenceStart(line, m.index)) continue;
+    if (
+      /^Son$|^Hijo$|^Filho$/.test(m[0]) &&
+      /^ of (?:[Mm]an)|^ do [Hh]omem|^ del [Hh]ombre/.test(
+        line.slice(m.index + m[0].length),
+      )
+    )
+      continue; // S2a
+    add(makeHit(ctx, i, "S20", m[0], m[0], m.index));
+  }
+  for (const { i, m } of matches(ctx, ADDED_TITLE, { zones: MAIN }))
+    add(makeHit(ctx, i, "S20", "added-capitalized", m[0], m.index));
+}
+
+// ---------------------------------------------------------------- S21 marker governance (impl. review R2-5)
+// `{t:}` / `{a:}` are reserved for locked-glossary terms (RULES-CORE §Text-Highlight
+// Markers). Every value is checked against the RULES-HB/GS table cells; a slash
+// rendering left bare in verse text renders without its highlight.
+export function s21(ctx, add, glossaryCells) {
+  if (!isChapterFile(ctx.path)) return;
+  for (let i = 0; i < ctx.lines.length; i++) {
+    if (ctx.zones[i].zone !== "main") continue;
+    const line = ctx.lines[i];
+    for (const m of line.matchAll(/\{([at]):([^}]*)\}/g)) {
+      const value = m[2].replace(/\*/g, "").trim().toLowerCase();
+      if (!glossaryCells.has(value))
+        add(
+          makeHit(
+            ctx,
+            i,
+            "S21",
+            `${m[1]}-value-not-in-glossary`,
+            m[0],
+            m.index,
+          ),
+        );
+    }
+    const bare = line.replace(/\{[at]:[^}]*\}/g, (x) => " ".repeat(x.length));
+    for (const m of bare.matchAll(/(?<![\p{L}/])\p{L}+\/\p{L}+(?![\p{L}/])/gu))
+      add(makeHit(ctx, i, "S21", "bare-slash", m[0], m.index));
+  }
+}
+
+// ---------------------------------------------------------------- S22 labels and icons (impl. review R2-9/R2-10)
+// Rule 29 dual labels `**[CLAIM — CONFIDENCE]**` in companion-type files must use the
+// registered vocabulary (RULES-CORE §Dual labels; src/domain/content/labels.ts). EN only:
+// the other locales use the translated aliases. Note icons: 🔴 🟢 🔵 🟡 only.
+const CLAIMS = new Set([
+  "TEXTUAL",
+  "STRONG INFERENCE",
+  "POSSIBLE INFERENCE",
+  "COMPARATIVE PARALLEL",
+  "LATER RECEPTION",
+  "HISTORICAL / ARCHAEOLOGICAL",
+  "SCIENTIFIC COMPARISON",
+  "SPECULATION",
+]);
+const CONFIDENCES = new Set([
+  "VERIFIED",
+  "PROBABLE",
+  "POSSIBLE",
+  "UNCERTAIN",
+  "SPECULATIVE",
+  "DOCUMENTED",
+]);
+const NOTE_ICONS = new Set(["🔴", "🟢", "🔵", "🟡"]);
+export function s22(ctx, add) {
+  if (isChapterFile(ctx.path)) {
+    for (let i = 0; i < ctx.lines.length; i++) {
+      if (ctx.zones[i].zone !== "note") continue;
+      const m = ctx.lines[i].match(/^>\s*(\p{Extended_Pictographic}\uFE0F?)/u);
+      if (m && !NOTE_ICONS.has(m[1].replace("\uFE0F", "")))
+        add(makeHit(ctx, i, "S22", "note-icon-off-list", m[1], 0));
+    }
+    return;
+  }
+  if (ctx.locale !== "en") return;
+  for (const { i, m } of matches(ctx, /\*\*\[([^\]\n]{3,120})\]\*\*/g)) {
+    const [claim, ...rest] = m[1].split(" — ");
+    if (claim === "PEER-REVIEWED") continue; // source-status tag, not a dual label
+    const conf = rest.join(" — ");
+    const parts = claim.split(" / ");
+    const claimOk =
+      CLAIMS.has(claim) ||
+      (parts.length > 1 &&
+        parts.every(
+          (p) => CLAIMS.has(p) || p === "HISTORICAL" || p === "ARCHAEOLOGICAL",
+        ));
+    const cls = !rest.length
+      ? "label-without-confidence"
+      : !claimOk
+        ? "claim-off-list"
+        : !CONFIDENCES.has(conf)
+          ? "confidence-off-list"
+          : CLAIMS.has(claim)
+            ? null
+            : "combined-claim-types";
+    if (cls) add(makeHit(ctx, i, "S22", cls, m[0], m.index));
+  }
+}
+
 export const PER_FILE = [
   s1,
   s2a,
@@ -904,4 +1201,6 @@ export const PER_FILE = [
   s16,
   s17,
   s18,
+  s20,
+  s22,
 ];
