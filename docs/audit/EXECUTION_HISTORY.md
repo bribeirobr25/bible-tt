@@ -11,6 +11,20 @@ in `docs/audit/PENDING.md`.
 
 ---
 
+## Launch-Readiness Program — Step 3: Content sweep (2026-11-19)
+
+Per `docs/audit/PLAN_CONTENT_SWEEP.md` (independent adversarial plan review: 1 blocker + 21 findings, all resolved — §13) under `docs/audit/LAUNCH_PROGRAM.md`. Branch `content-sweep`. **No content changed** — the step produces the Step-4 work list.
+
+- **Tool** — `pnpm content:sweep` (`scripts/content-sweep.mjs` + `scripts/sweep/`): zero-dependency Node; every line gets a zone (front · toc · guide · overview · continuous reading · verse text · note · apparatus) and a render state (now / after-4a / not rendered, derived from the parsers + UI); 19 checks S1–S19 (divine name, casing, glossary locks, ψυχή, names vs the RULES-HB/GS tables, Rule 30 parity + scope, Rule 11 incl. the PT T-20 class, front matter, meta leaks, stamps, ES orthography, mojibake, DE Jehudim, PT register, renderer-hostile markup, χριστός, Tier-2 length, הִנֵּה lock). Deterministic output: `docs/audit/content-sweep/{findings.tsv,summary.md,names.tsv}`.
+- **Findings** (as corrected by the implementation review) — `docs/audit/CONTENT_SWEEP_FINDINGS.md`: ES orthography ≥ 2,119 tokens in 56 of 102 ES files (was estimated ~210); reader-visible editorial IDs / repo paths / rule references / AI provenance; 170 "LORD/SENHOR/HERR(N)/SEÑOR" as the rendering in TT voice (+ 105 caps titles to review); 148 stale pre-v3.2 name-policy statements; continuous reading ≠ verse text in 20 verses (+ 311 one-copy glosses); Rule 30 scope (Acts 2:17/2:34/3:25, 1 Peter 1:16/2:6, John 3:16–21 vs J-007); T-20 sized (PT 36 pivot-likely; DE/ES 4 doubled articles); glossary-lock breaks in verse text (πίστις, Ἰουδαῖοι, πάσχα, μετάνοια incl. DE Umkehr); 73 Rule 20 titular nouns; 8 lead decisions (L1–L8). Precision sourced in `content-sweep/precision.tsv`.
+- **Guards** — 36 fixture tests (each check positive + negative; real-corpus smoke; recall anchors incl. the exact T-20 count 190 and the 9 mojibake lines; determinism); `lint-allowlist.test.ts`; content-lint now fails on an allow-list entry that suppressed nothing (22 stale §0.8 entries removed; lint output otherwise byte-identical); `pnpm lint` covers `scripts/`.
+
+- **Implementation review (2026-11-20, 5 adversarial reviewers; `PLAN_CONTENT_SWEEP.md` §15, findings doc §6)** — no blockers. Fixed: zone/render model (Sources by heading words, PROPHECY parser model, book card); the gloss normalizer artifact (first draft's "58 EN word differences" → 4 real); S1c locale cues/HERRN/headings; S18 openers; ES verse italics; recall gaps closed as S3/S5d/S6e/S6f/S7a/S8/S9/S12/S13/S14/S11 extensions + new S20 (Rule 20 titles), S21 (marker governance), S22 (labels/icons); `--check` validation (exit 2); the real-corpus test no longer pins live defects (frozen recall anchors + anti-vacuity); `tsconfig.scripts.json` in `pnpm typecheck`; `testTimeout` 30 s (corpus-scanning suites flaked under parallel workers); CONTRIBUTING / PLAN_SAFETY_NET I23 / `gate.yml` aligned with the branch protection; content-lint `ENVIRON` + filter-failure tool error; `archive/*` tag ruleset; generated TSVs marked in `.gitattributes`. **Mutation testing:** 56 mutants over the sweep (the first pass's 28 survivors re-targeted + 28 on the new logic) — **56/56 killed** (first pass: 12/40).
+
+**Gates:** 1,002 tests / 19 files (was 929 / 17 before Step 3); conservation 408 / 20,599 unchanged; Biome (src + scripts); `tsc` (src + scripts JSDoc); content-lint (same 3 warn-only rules); build 516 pages.
+
+---
+
 ## Launch-Readiness Program — Step 2: Safety net (2026-11-19)
 
 Per `docs/audit/PLAN_SAFETY_NET.md` (independent adversarial review: 1 blocker + 14 findings folded in) under `docs/audit/LAUNCH_PROGRAM.md`. Branch `safety-net`, PR #16. Goal: make the gate trustworthy before Steps 3–5 change content at scale.

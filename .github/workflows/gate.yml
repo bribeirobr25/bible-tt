@@ -22,6 +22,9 @@ env:
   NEXT_TELEMETRY_DISABLED: "1"
 
 jobs:
+  # The job id `gate` is the REQUIRED status check of main's branch protection
+  # (strict, admins included). Do not rename it — a renamed job never reports
+  # `gate`, and every PR would block.
   gate:
     runs-on: ubuntu-latest
     timeout-minutes: 20

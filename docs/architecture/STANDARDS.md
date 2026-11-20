@@ -474,7 +474,7 @@ Use TypeScript's type system to prevent errors at compile time, not just at runt
 Test the parser (the single point of fragility); trust the framework for the rest.
 
 ### Current test coverage
-~882 tests across 13 Vitest files (run `pnpm test` for the live count and per-file breakdown).
+Run `pnpm test` for the live count and per-file breakdown (no figure is kept here so it cannot go stale; the current count lives in `CLAUDE.md` › Verified state). Beyond the parser suites, the gate includes the conservation gate, the locale/message-parity and raw-reconciliation guards, and the `scripts/` tooling suites (`scripts/**/__tests__/`).
 
 | Area | Runner | What's tested |
 |---|---|---|
@@ -482,6 +482,7 @@ Test the parser (the single point of fragility); trust the framework for the res
 | Highlight-marker renderer (`render-markdown-safe`) | Vitest | `{t:…}`/`{a:…}`/`@@…@@` → styled spans, escaping, nesting (see RULES-CORE Rule 30 + §Text-Highlight Markers) |
 | Conservation gate (`conservation.test.ts`) | Vitest | Proves the parser→structured-layer derivation loses nothing (per-kind count + content multisets); chapter-completeness + inventory backstops |
 | Build | Next.js (implicit via `pnpm build`) | TypeScript compilation, page generation, static params |
+| Content tooling (`scripts/`) | Vitest | Content-sweep checks on synthetic fixtures (positive + negative per check) and a real-corpus smoke/determinism run; allow-list well-formedness (`scripts/__tests__/lint-allowlist.test.ts`) |
 
 ### What NOT to test
 - **Don't unit-test React components** at current scope. The ROI is low for a static content site. Visual validation via dev server is sufficient.
@@ -499,6 +500,19 @@ pnpm test          # Run all tests once
 pnpm test:watch    # Watch mode during development
 pnpm build         # Full production build (implicit type + compilation check)
 ```
+
+---
+
+## 14a. Content tooling (`scripts/`)
+
+`scripts/` holds the content tooling that the gate runs or that produces audit data: `content-lint.sh` (blocking content lint; bash 3.2 + 5.x, BSD + GNU grep) and `content-sweep.mjs` + `sweep/` (read-only rule-compliance scan, Launch Program Step 3).
+
+- **Node ESM (`.mjs`), no build step, no new dependencies.** Read-only over `content/` and `docs/rules/`; the only writes are a tool's own declared output (e.g. `docs/audit/content-sweep/`).
+- **Same file rules as `src/`** (§5–§6): one concern per file, semantic names; library modules separate from CLI entry points.
+- **Tested** by Vitest under `scripts/**/__tests__/` (synthetic fixtures for each behaviour; real-corpus tests assert tool health — no tool errors, determinism — not the current content defects, so a content fix never breaks the gate).
+- **Linted** by Biome (`pnpm lint` covers `src/` + `scripts/`).
+- **Typed** with JSDoc. `tsconfig.scripts.json` (`checkJs`, non-strict) type-checks the `.mjs` files; the `src/` `strict: true` rule (§13) applies to TypeScript only.
+- **Failure contract:** findings are data; a tool failure (unreadable input, bad pattern, unresolvable structure, bad arguments) is never a silent pass. `content-sweep` exits 0 with findings and 2 on a tool error; `content-lint` reports `[TOOL ERROR]` and fails the run (exit 1; exit 2 under `--warn-only`, which otherwise always exits 0).
 
 ---
 
