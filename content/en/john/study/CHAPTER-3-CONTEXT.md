@@ -10,7 +10,7 @@
 **Chapter:** John 3
 **Language:** English
 **Companion to:** `en/john/CHAPTER-3.md` (Transparent Edition)
-**Ruleset:** v3.3 (Rule 29 governs this file)
+**Ruleset:** v3.4 (Rule 29 governs this file)
 **Status:** provisional
 
 ---

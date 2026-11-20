@@ -10,7 +10,7 @@
 **Livro:** João (Ἰωάννης, *Iōannēs*)
 **Idioma:** Português Brasileiro
 **Introdução para:** `pt-br/john/` (Edição Transparente)
-**Regras:** v3.3 (Regra 29 governa este arquivo)
+**Regras:** v3.4 (Regra 29 governa este arquivo)
 **Status:** provisório
 
 ---
@@ -267,7 +267,7 @@ O intervalo entre a composição do Evangelho de João (c. 90–100 EC) e as tes
 ### F1. Regras ativas com aplicações específicas a João
 **[TEXTUAL — VERIFICADO]**
 
-As seguintes regras do conjunto de regras da TT (v3.3) têm incidência particular sobre o Evangelho de João:
+As seguintes regras do conjunto de regras da TT (v3.4) têm incidência particular sobre o Evangelho de João:
 
 | Regra | Nome | Aplicação específica a João |
 |-------|------|----------------------------|

@@ -1,141 +1,8 @@
 check	class	locale	book	file:line	zone	render	match	context
-S10	stamp-field	de	genesis	content/de/genesis/CONTEXT.md:6	front	no	v3.3	**Regelwerk:** v3.3 (Regel 29 regelt diese Datei)
-S10	stamp-field	de	genesis	content/de/genesis/INTRODUCTION.md:13	front	no	v3.3	**Regelwerk:** v3.3 (Regel 29 regelt diese Datei)
-S10	prose-stamp	de	genesis	content/de/genesis/INTRODUCTION.md:363	apparatus	now	v3.3	Die folgenden Regeln aus dem TT-Regelwerk (v3.3) haben besondere Relevanz für Genesis:
-S10	stamp-field	de	genesis	content/de/genesis/PEOPLE.md:5	front	no	v3.3	**Regelwerk:** v3.3 (Regel 29 regelt diese Datei)
-S10	stamp-field	de	genesis	content/de/genesis/study/CHAPTER-1-CONTEXT.md:13	front	no	v3.3	**Regelwerk:** v3.3 (Regel 29 regelt diese Datei)
-S10	stamp-field	de	genesis	content/de/genesis/study/CHAPTER-10-CONTEXT.md:13	front	no	v3.3	**Regelwerk:** v3.3 (Regel 29 regelt diese Datei)
-S10	stamp-field	de	genesis	content/de/genesis/study/CHAPTER-11-CONTEXT.md:13	front	no	v3.3	**Regelwerk:** v3.3 (Regel 29 regelt diese Datei)
-S10	stamp-field	de	genesis	content/de/genesis/study/CHAPTER-12-CONTEXT.md:13	front	no	v3.3	**Regelwerk:** v3.3 (Regel 29 regelt diese Datei)
-S10	stamp-field	de	genesis	content/de/genesis/study/CHAPTER-12-PROPHECY.md:8	front	no	v3.3	**Regelwerk:** v3.3 (Regel 29 regelt diese Datei)
-S10	stamp-field	de	genesis	content/de/genesis/study/CHAPTER-2-CONTEXT.md:13	front	no	v3.3	**Regelwerk:** v3.3 (Regel 29 regelt diese Datei)
-S10	stamp-field	de	genesis	content/de/genesis/study/CHAPTER-3-CONTEXT.md:13	front	no	v3.3	**Regelwerk:** v3.3 (Regel 29 regelt diese Datei)
-S10	stamp-field	de	genesis	content/de/genesis/study/CHAPTER-3-PROPHECY.md:8	front	no	v3.3	**Regelwerk:** v3.3 (Regel 29 regelt diese Datei)
-S10	stamp-field	de	genesis	content/de/genesis/study/CHAPTER-4-CONTEXT.md:13	front	no	v3.3	**Regelwerk:** v3.3 (Regel 29 regelt diese Datei)
-S10	stamp-field	de	genesis	content/de/genesis/study/CHAPTER-5-CONTEXT.md:13	front	no	v3.3	**Regelwerk:** v3.3 (Regel 29 regelt diese Datei)
-S10	stamp-field	de	genesis	content/de/genesis/study/CHAPTER-6-CONTEXT.md:13	front	no	v3.3	**Regelwerk:** v3.3 (Regel 29 regelt diese Datei)
-S10	stamp-field	de	genesis	content/de/genesis/study/CHAPTER-7-CONTEXT.md:13	front	no	v3.3	**Regelwerk:** v3.3 (Regel 29 regelt diese Datei)
-S10	stamp-field	de	genesis	content/de/genesis/study/CHAPTER-8-CONTEXT.md:13	front	no	v3.3	**Regelwerk:** v3.3 (Regel 29 regelt diese Datei)
-S10	stamp-field	de	genesis	content/de/genesis/study/CHAPTER-9-CONTEXT.md:13	front	no	v3.3	**Regelwerk:** v3.3 (Regel 29 regelt diese Datei)
-S10	stamp-field	de	genesis	content/de/genesis/study/CHAPTER-9-PROPHECY.md:8	front	no	v3.3	**Regelwerk:** v3.3 (Regel 29 regelt diese Datei)
-S10	stamp-field	de	john	content/de/john/CONTEXT.md:6	front	no	v3.3	**Regelwerk:** v3.3 (Regel 29 regelt diese Datei)
-S10	stamp-field	de	john	content/de/john/INTRODUCTION.md:13	front	no	v3.3	**Regelwerk:** v3.3 (Regel 29 regelt diese Datei)
-S10	prose-stamp	de	john	content/de/john/INTRODUCTION.md:270	apparatus	now	v3.3	Die folgenden Regeln des TT-Regelwerks (v3.3) haben besondere Bedeutung für das Johannesevangelium:
-S10	stamp-field	de	john	content/de/john/PEOPLE.md:6	front	no	v3.3	**Regelwerk:** v3.3 (Regel 29 regelt diese Datei)
-S10	stamp-field	de	john	content/de/john/study/CHAPTER-1-CONTEXT.md:13	front	no	v3.3	**Regelwerk:** v3.3 (Regel 29 regelt diese Datei)
-S10	stamp-field	de	john	content/de/john/study/CHAPTER-2-CONTEXT.md:13	front	no	v3.3	**Regelwerk:** v3.3 (Regel 29 regelt diese Datei)
-S10	stamp-field	de	john	content/de/john/study/CHAPTER-3-CONTEXT.md:13	front	no	v3.3	**Regelwerk:** v3.3 (Regel 29 regelt diese Datei)
-S10	stamp-field	de	john	content/de/john/study/CHAPTER-3-PROPHECY.md:8	front	no	v3.3	**Regelwerk:** v3.3 (Regel 29 regelt diese Datei)
 S10	citation	de	luke	content/de/luke/CHAPTER-3.md:376	note	now	v3.3.2	…**`luke/PEOPLE.md`** nach der buchübergreifenden Konvention v3.3.2. **[historisch — MÖGLICH]**
-S10	stamp-field	de	matthew	content/de/matthew/CONTEXT.md:6	front	no	v3.3	**Regelwerk:** v3.3 (Regel 29 regelt diese Datei)
-S10	stamp-field	de	matthew	content/de/matthew/INTRODUCTION.md:13	front	no	v3.3	**Regelwerk:** v3.3 (Regel 29 regelt diese Datei)
-S10	stamp-field	de	matthew	content/de/matthew/PEOPLE.md:6	front	no	v3.3	**Regelwerk:** v3.3 (Regel 29 regelt diese Datei)
-S10	stamp-field	de	matthew	content/de/matthew/study/CHAPTER-1-CONTEXT.md:13	front	no	v3.3	**Regelwerk:** v3.3 (Regel 29 regelt diese Datei)
-S10	stamp-field	de	matthew	content/de/matthew/study/CHAPTER-1-PROPHECY.md:8	front	no	v3.3	**Regelwerk:** v3.3 (Regel 29 regelt diese Datei)
-S10	stamp-field	de	matthew	content/de/matthew/study/CHAPTER-2-CONTEXT.md:13	front	no	v3.3	**Regelwerk:** v3.3 (Regel 29 regelt diese Datei)
-S10	stamp-field	de	matthew	content/de/matthew/study/CHAPTER-2-PROPHECY.md:8	front	no	v3.3	**Regelwerk:** v3.3 (Regel 29 regelt diese Datei)
-S10	stamp-field	de	matthew	content/de/matthew/study/CHAPTER-3-CONTEXT.md:13	front	no	v3.3	**Regelwerk:** v3.3 (Regel 29 regelt diese Datei)
-S10	stamp-field	en	genesis	content/en/genesis/CONTEXT.md:6	front	no	v3.3	**Ruleset:** v3.3 (Rule 29 governs this file)
-S10	stamp-field	en	genesis	content/en/genesis/INTRODUCTION.md:13	front	no	v3.3	**Ruleset:** v3.3 (Rule 29 governs this file)
-S10	prose-stamp	en	genesis	content/en/genesis/INTRODUCTION.md:363	apparatus	now	v3.3	The following rules from the TT ruleset (v3.3) have particular bearing on Genesis:
-S10	stamp-field	en	genesis	content/en/genesis/PEOPLE.md:5	front	no	v3.3	**Ruleset:** v3.3 (Rule 29 governs this file)
-S10	stamp-field	en	genesis	content/en/genesis/study/CHAPTER-10-CONTEXT.md:13	front	no	v3.3	**Ruleset:** v3.3 (Rule 29 governs this file)
-S10	stamp-field	en	genesis	content/en/genesis/study/CHAPTER-12-CONTEXT.md:13	front	no	v3.3	**Ruleset:** v3.3 (Rule 29 governs this file)
-S10	stamp-field	en	genesis	content/en/genesis/study/CHAPTER-12-PROPHECY.md:8	front	no	v3.3	**Ruleset:** v3.3 (Rule 29 governs this file)
-S10	stamp-field	en	genesis	content/en/genesis/study/CHAPTER-2-CONTEXT.md:13	front	no	v3.3	**Ruleset:** v3.3 (Rule 29 governs this file)
-S10	stamp-field	en	genesis	content/en/genesis/study/CHAPTER-3-CONTEXT.md:13	front	no	v3.3	**Ruleset:** v3.3 (Rule 29 governs this file)
-S10	stamp-field	en	genesis	content/en/genesis/study/CHAPTER-3-PROPHECY.md:8	front	no	v3.3	**Ruleset:** v3.3 (Rule 29 governs this file)
-S10	stamp-field	en	genesis	content/en/genesis/study/CHAPTER-4-CONTEXT.md:13	front	no	v3.3	**Ruleset:** v3.3 (Rule 29 governs this file)
-S10	stamp-field	en	genesis	content/en/genesis/study/CHAPTER-5-CONTEXT.md:13	front	no	v3.3	**Ruleset:** v3.3 (Rule 29 governs this file)
-S10	stamp-field	en	genesis	content/en/genesis/study/CHAPTER-6-CONTEXT.md:13	front	no	v3.3	**Ruleset:** v3.3 (Rule 29 governs this file)
-S10	stamp-field	en	genesis	content/en/genesis/study/CHAPTER-7-CONTEXT.md:13	front	no	v3.3	**Ruleset:** v3.3 (Rule 29 governs this file)
-S10	stamp-field	en	genesis	content/en/genesis/study/CHAPTER-8-CONTEXT.md:13	front	no	v3.3	**Ruleset:** v3.3 (Rule 29 governs this file)
-S10	stamp-field	en	genesis	content/en/genesis/study/CHAPTER-9-CONTEXT.md:13	front	no	v3.3	**Ruleset:** v3.3 (Rule 29 governs this file)
-S10	stamp-field	en	genesis	content/en/genesis/study/CHAPTER-9-PROPHECY.md:8	front	no	v3.3	**Ruleset:** v3.3 (Rule 29 governs this file)
-S10	stamp-field	en	john	content/en/john/CONTEXT.md:6	front	no	v3.3	**Ruleset:** v3.3 (Rule 29 governs this file)
-S10	stamp-field	en	john	content/en/john/INTRODUCTION.md:13	front	no	v3.3	**Ruleset:** v3.3 (Rule 29 governs this file)
-S10	prose-stamp	en	john	content/en/john/INTRODUCTION.md:270	apparatus	now	v3.3	The following rules from the TT ruleset (v3.3) have particular bearing on the Gospel of John:
-S10	stamp-field	en	john	content/en/john/PEOPLE.md:6	front	no	v3.3	**Ruleset:** v3.3 (Rule 29 governs this file)
-S10	stamp-field	en	john	content/en/john/study/CHAPTER-3-CONTEXT.md:13	front	no	v3.3	**Ruleset:** v3.3 (Rule 29 governs this file)
-S10	stamp-field	en	john	content/en/john/study/CHAPTER-3-PROPHECY.md:8	front	no	v3.3	**Ruleset:** v3.3 (Rule 29 governs this file)
 S10	citation	en	luke	content/en/luke/CHAPTER-3.md:376	note	now	v3.3.2	…w` for the David line) live in **`luke/PEOPLE.md`** per the v3.3.2 cross-book convention. **[historical — POSSIBLE]**
-S10	stamp-field	en	matthew	content/en/matthew/CONTEXT.md:6	front	no	v3.3	**Ruleset:** v3.3 (Rule 29 governs this file)
-S10	stamp-field	en	matthew	content/en/matthew/INTRODUCTION.md:13	front	no	v3.3	**Ruleset:** v3.3 (Rule 29 governs this file)
-S10	stamp-field	en	matthew	content/en/matthew/PEOPLE.md:6	front	no	v3.3	**Ruleset:** v3.3 (Rule 29 governs this file)
-S10	stamp-field	en	matthew	content/en/matthew/study/CHAPTER-1-PROPHECY.md:8	front	no	v3.3	**Ruleset:** v3.3 (Rule 29 governs this file)
-S10	stamp-field	en	matthew	content/en/matthew/study/CHAPTER-2-PROPHECY.md:8	front	no	v3.3	**Ruleset:** v3.3 (Rule 29 governs this file)
-S10	stamp-field	es	genesis	content/es/genesis/CONTEXT.md:6	front	no	v3.3	**Conjunto de Reglas:** v3.3 (La Regla 29 gobierna este archivo)
-S10	stamp-field	es	genesis	content/es/genesis/INTRODUCTION.md:13	front	no	v3.3	**Conjunto de reglas:** v3.3 (La Regla 29 gobierna este archivo)
-S10	prose-stamp	es	genesis	content/es/genesis/INTRODUCTION.md:364	apparatus	now	v3.3	Las siguientes reglas del conjunto de reglas de la TT (v3.3) tienen especial relevancia para Génesis:
-S10	stamp-field	es	genesis	content/es/genesis/PEOPLE.md:5	front	no	v3.3	**Reglas:** v3.3 (Regla 29 rige este archivo)
-S10	stamp-field	es	genesis	content/es/genesis/study/CHAPTER-1-CONTEXT.md:13	front	no	v3.3	**Reglas:** v3.3 (la Regla 29 gobierna este archivo)
-S10	stamp-field	es	genesis	content/es/genesis/study/CHAPTER-10-CONTEXT.md:13	front	no	v3.3	**Reglas:** v3.3 (la Regla 29 gobierna este archivo)
-S10	stamp-field	es	genesis	content/es/genesis/study/CHAPTER-11-CONTEXT.md:13	front	no	v3.3	**Reglas:** v3.3 (la Regla 29 gobierna este archivo)
-S10	stamp-field	es	genesis	content/es/genesis/study/CHAPTER-12-CONTEXT.md:13	front	no	v3.3	**Reglas:** v3.3 (la Regla 29 gobierna este archivo)
-S10	stamp-field	es	genesis	content/es/genesis/study/CHAPTER-12-PROPHECY.md:8	front	no	v3.3	**Reglas:** v3.3 (Regla 29 rige este archivo)
-S10	stamp-field	es	genesis	content/es/genesis/study/CHAPTER-2-CONTEXT.md:13	front	no	v3.3	**Reglas:** v3.3 (la Regla 29 gobierna este archivo)
-S10	stamp-field	es	genesis	content/es/genesis/study/CHAPTER-3-CONTEXT.md:13	front	no	v3.3	**Reglas:** v3.3 (la Regla 29 gobierna este archivo)
-S10	stamp-field	es	genesis	content/es/genesis/study/CHAPTER-3-PROPHECY.md:8	front	no	v3.3	**Reglas:** v3.3 (Regla 29 rige este archivo)
-S10	stamp-field	es	genesis	content/es/genesis/study/CHAPTER-4-CONTEXT.md:13	front	no	v3.3	**Reglas:** v3.3 (Regla 29 gobierna este archivo)
-S10	stamp-field	es	genesis	content/es/genesis/study/CHAPTER-5-CONTEXT.md:13	front	no	v3.3	**Reglas:** v3.3 (Regla 29 gobierna este archivo)
-S10	stamp-field	es	genesis	content/es/genesis/study/CHAPTER-6-CONTEXT.md:13	front	no	v3.3	**Reglas:** v3.3 (la Regla 29 gobierna este archivo)
-S10	stamp-field	es	genesis	content/es/genesis/study/CHAPTER-7-CONTEXT.md:13	front	no	v3.3	**Reglas:** v3.3 (la Regla 29 gobierna este archivo)
-S10	stamp-field	es	genesis	content/es/genesis/study/CHAPTER-8-CONTEXT.md:13	front	no	v3.3	**Reglas:** v3.3 (la Regla 29 gobierna este archivo)
-S10	stamp-field	es	genesis	content/es/genesis/study/CHAPTER-9-CONTEXT.md:13	front	no	v3.3	**Reglas:** v3.3 (la Regla 29 gobierna este archivo)
-S10	stamp-field	es	genesis	content/es/genesis/study/CHAPTER-9-PROPHECY.md:8	front	no	v3.3	**Reglas:** v3.3 (Regla 29 rige este archivo)
-S10	stamp-field	es	john	content/es/john/CONTEXT.md:6	front	no	v3.3	**Conjunto de Reglas:** v3.3 (La Regla 29 gobierna este archivo)
-S10	stamp-field	es	john	content/es/john/INTRODUCTION.md:13	front	no	v3.3	**Conjunto de reglas:** v3.3 (La Regla 29 gobierna este archivo)
-S10	prose-stamp	es	john	content/es/john/INTRODUCTION.md:270	apparatus	now	v3.3	Las siguientes reglas del conjunto de reglas de la TT (v3.3) tienen especial incidencia en el Evangelio de Juan:
-S10	stamp-field	es	john	content/es/john/PEOPLE.md:6	front	no	v3.3	**Reglas:** v3.3 (La Regla 29 gobierna este archivo)
-S10	stamp-field	es	john	content/es/john/study/CHAPTER-1-CONTEXT.md:13	front	no	v3.3	**Reglas:** v3.3 (La Regla 29 rige este archivo)
-S10	stamp-field	es	john	content/es/john/study/CHAPTER-2-CONTEXT.md:13	front	no	v3.3	**Reglas:** v3.3 (La Regla 29 rige este archivo)
-S10	stamp-field	es	john	content/es/john/study/CHAPTER-3-CONTEXT.md:13	front	no	v3.3	**Reglas:** v3.3 (La Regla 29 rige este archivo)
-S10	stamp-field	es	john	content/es/john/study/CHAPTER-3-PROPHECY.md:8	front	no	v3.3	**Reglas:** v3.3 (Regla 29 gobierna este archivo)
 S10	citation	es	luke	content/es/luke/CHAPTER-3.md:377	note	now	v3.3.2	…`luke/PEOPLE.md`** según la convención cruzada entre libros v3.3.2. **[histórico — POSIBLE]**
-S10	stamp-field	es	matthew	content/es/matthew/CONTEXT.md:6	front	no	v3.3	**Conjunto de Reglas:** v3.3 (La Regla 29 gobierna este archivo)
-S10	stamp-field	es	matthew	content/es/matthew/INTRODUCTION.md:13	front	no	v3.3	**Reglas:** v3.3 (La Regla 29 gobierna este archivo)
-S10	stamp-field	es	matthew	content/es/matthew/PEOPLE.md:6	front	no	v3.3	**Reglas:** v3.3 (La Regla 29 gobierna este archivo)
-S10	stamp-field	es	matthew	content/es/matthew/study/CHAPTER-1-CONTEXT.md:13	front	no	v3.3	**Reglas:** v3.3 (La Regla 29 gobierna este archivo)
-S10	stamp-field	es	matthew	content/es/matthew/study/CHAPTER-1-PROPHECY.md:8	front	no	v3.3	**Reglas:** v3.3 (Regla 29 gobierna este archivo)
-S10	stamp-field	es	matthew	content/es/matthew/study/CHAPTER-2-CONTEXT.md:13	front	no	v3.3	**Reglas:** v3.3 (La Regla 29 gobierna este archivo)
-S10	stamp-field	es	matthew	content/es/matthew/study/CHAPTER-2-PROPHECY.md:8	front	no	v3.3	**Reglas:** v3.3 (Regla 29 gobierna este archivo)
-S10	stamp-field	es	matthew	content/es/matthew/study/CHAPTER-3-CONTEXT.md:13	front	no	v3.3	**Reglas:** v3.3 (La Regla 29 gobierna este archivo)
-S10	stamp-field	pt-br	genesis	content/pt-br/genesis/CONTEXT.md:6	front	no	v3.3	**Conjunto de Regras:** v3.3 (A Regra 29 governa este arquivo)
-S10	stamp-field	pt-br	genesis	content/pt-br/genesis/INTRODUCTION.md:13	front	no	v3.3	**Regras:** v3.3 (Regra 29 governa este arquivo)
-S10	prose-stamp	pt-br	genesis	content/pt-br/genesis/INTRODUCTION.md:363	apparatus	now	v3.3	As seguintes regras do conjunto de regras da TT (v3.3) têm relevância particular para Gênesis:
-S10	stamp-field	pt-br	genesis	content/pt-br/genesis/PEOPLE.md:5	front	no	v3.3	**Regras:** v3.3 (Regra 29 rege este arquivo)
-S10	stamp-field	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-1-CONTEXT.md:13	front	no	v3.3	**Regras:** v3.3 (Regra 29 governa este arquivo)
-S10	stamp-field	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-10-CONTEXT.md:13	front	no	v3.3	**Regras:** v3.3 (Regra 29 governa este arquivo)
-S10	stamp-field	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-11-CONTEXT.md:13	front	no	v3.3	**Regras:** v3.3 (Regra 29 governa este arquivo)
-S10	stamp-field	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-12-CONTEXT.md:13	front	no	v3.3	**Regras:** v3.3 (Regra 29 governa este arquivo)
-S10	stamp-field	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-12-PROPHECY.md:8	front	no	v3.3	**Regras:** v3.3 (Regra 29 governa este arquivo)
-S10	stamp-field	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-2-CONTEXT.md:13	front	no	v3.3	**Regras:** v3.3 (Regra 29 governa este arquivo)
-S10	stamp-field	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-3-CONTEXT.md:13	front	no	v3.3	**Regras:** v3.3 (Regra 29 governa este arquivo)
-S10	stamp-field	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-3-PROPHECY.md:8	front	no	v3.3	**Regras:** v3.3 (Regra 29 governa este arquivo)
-S10	stamp-field	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-4-CONTEXT.md:13	front	no	v3.3	**Regras:** v3.3 (Regra 29 governa este arquivo)
-S10	stamp-field	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-5-CONTEXT.md:13	front	no	v3.3	**Regras:** v3.3 (Regra 29 governa este arquivo)
-S10	stamp-field	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-6-CONTEXT.md:13	front	no	v3.3	**Regras:** v3.3 (Regra 29 governa este arquivo)
-S10	stamp-field	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-7-CONTEXT.md:13	front	no	v3.3	**Regras:** v3.3 (Regra 29 governa este arquivo)
-S10	stamp-field	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-8-CONTEXT.md:13	front	no	v3.3	**Regras:** v3.3 (Regra 29 governa este arquivo)
-S10	stamp-field	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-9-CONTEXT.md:13	front	no	v3.3	**Regras:** v3.3 (Regra 29 governa este arquivo)
-S10	stamp-field	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-9-PROPHECY.md:8	front	no	v3.3	**Regras:** v3.3 (Regra 29 governa este arquivo)
-S10	stamp-field	pt-br	john	content/pt-br/john/CONTEXT.md:6	front	no	v3.3	**Conjunto de Regras:** v3.3 (A Regra 29 governa este arquivo)
-S10	stamp-field	pt-br	john	content/pt-br/john/INTRODUCTION.md:13	front	no	v3.3	**Regras:** v3.3 (Regra 29 governa este arquivo)
-S10	prose-stamp	pt-br	john	content/pt-br/john/INTRODUCTION.md:270	apparatus	now	v3.3	As seguintes regras do conjunto de regras da TT (v3.3) têm incidência particular sobre o Evangelho de João:
-S10	stamp-field	pt-br	john	content/pt-br/john/PEOPLE.md:6	front	no	v3.3	**Conjunto de Regras:** v3.3 (Regra 29 governa este arquivo)
-S10	stamp-field	pt-br	john	content/pt-br/john/study/CHAPTER-1-CONTEXT.md:13	front	no	v3.3	**Conjunto de Regras:** v3.3 (Regra 29 governa este arquivo)
-S10	stamp-field	pt-br	john	content/pt-br/john/study/CHAPTER-2-CONTEXT.md:13	front	no	v3.3	**Conjunto de Regras:** v3.3 (Regra 29 governa este arquivo)
-S10	stamp-field	pt-br	john	content/pt-br/john/study/CHAPTER-3-CONTEXT.md:13	front	no	v3.3	**Conjunto de Regras:** v3.3 (Regra 29 governa este arquivo)
-S10	stamp-field	pt-br	john	content/pt-br/john/study/CHAPTER-3-PROPHECY.md:8	front	no	v3.3	**Regras:** v3.3 (Regra 29 governa este arquivo)
 S10	citation	pt-br	luke	content/pt-br/luke/CHAPTER-3.md:377	note	now	v3.3.2	…m em **`luke/PEOPLE.md`** conforme a convenção entre-livros v3.3.2. **[histórico — POSSÍVEL]**
-S10	stamp-field	pt-br	matthew	content/pt-br/matthew/CONTEXT.md:6	front	no	v3.3	**Conjunto de Regras:** v3.3 (A Regra 29 governa este arquivo)
-S10	stamp-field	pt-br	matthew	content/pt-br/matthew/INTRODUCTION.md:13	front	no	v3.3	**Conjunto de Regras:** v3.3 (Regra 29 governa este arquivo)
-S10	stamp-field	pt-br	matthew	content/pt-br/matthew/PEOPLE.md:6	front	no	v3.3	**Conjunto de Regras:** v3.3 (Regra 29 governa este arquivo)
-S10	stamp-field	pt-br	matthew	content/pt-br/matthew/study/CHAPTER-1-CONTEXT.md:13	front	no	v3.3	**Conjunto de Regras:** v3.3 (Regra 29 governa este arquivo)
-S10	stamp-field	pt-br	matthew	content/pt-br/matthew/study/CHAPTER-1-PROPHECY.md:8	front	no	v3.3	**Regras:** v3.3 (Regra 29 governa este arquivo)
-S10	stamp-field	pt-br	matthew	content/pt-br/matthew/study/CHAPTER-2-CONTEXT.md:13	front	no	v3.3	**Conjunto de Regras:** v3.3 (Regra 29 governa este arquivo)
-S10	stamp-field	pt-br	matthew	content/pt-br/matthew/study/CHAPTER-2-PROPHECY.md:8	front	no	v3.3	**Regras:** v3.3 (Regra 29 governa este arquivo)
-S10	stamp-field	pt-br	matthew	content/pt-br/matthew/study/CHAPTER-3-CONTEXT.md:13	front	no	v3.3	**Conjunto de Regras:** v3.3 (Regra 29 governa este arquivo)
 S11	missing-accent	es	1-peter	content/es/1-peter/CHAPTER-1.md:52	overview	now	diaspora→diáspora	…Inmersor en los Evangelios. El lenguaje de la "dispersión" (diaspora) sitúa a los lectores en la identidad de exilio de Israel.
 S11	ambiguous	es	1-peter	content/es/1-peter/CHAPTER-1.md:207	note	now	aun→aún	… 24:12). Los profetas sirvieron a una generación posterior; aun los ángeles desean contemplar el evangelio. **εὐαγγελισαμένων**…
 S11	missing-accent	es	1-peter	content/es/1-peter/CHAPTER-1.md:380	apparatus	now	diaspora→diáspora	| La dispersión / el exilio de Israel | La identidad de diaspora | Los lectores como "elegidos peregrinos de la dispersión" / "tiempo…
@@ -14536,133 +14403,8 @@ S7b	delta>=2	pt-br	luke	content/pt-br/luke/CHAPTER-1.md:989	main	now	v76: 1 vs E
 S7b	delta>=2	pt-br	luke	content/pt-br/luke/CHAPTER-3.md:213	main	now	v11: 0 vs EN 3	
 S7b	delta>=2	pt-br	mark	content/pt-br/mark/CHAPTER-3.md:363	main	now	v27: 0 vs EN 2	
 S7b	delta>=2	pt-br	matthew	content/pt-br/matthew/CHAPTER-1.md:316	main	now	v18: 2 vs EN 4	
-S8	ruleset-v3.3	de	genesis	content/de/genesis/CONTEXT.md:6	front	no	**Regelwerk:** v3.3	**Regelwerk:** v3.3 (Regel 29 regelt diese Datei)
-S8	ruleset-v3.3	de	genesis	content/de/genesis/INTRODUCTION.md:13	front	no	**Regelwerk:** v3.3	**Regelwerk:** v3.3 (Regel 29 regelt diese Datei)
-S8	ruleset-v3.3	de	genesis	content/de/genesis/PEOPLE.md:5	front	no	**Regelwerk:** v3.3	**Regelwerk:** v3.3 (Regel 29 regelt diese Datei)
-S8	ruleset-v3.3	de	genesis	content/de/genesis/study/CHAPTER-1-CONTEXT.md:13	front	no	**Regelwerk:** v3.3	**Regelwerk:** v3.3 (Regel 29 regelt diese Datei)
-S8	ruleset-v3.3	de	genesis	content/de/genesis/study/CHAPTER-10-CONTEXT.md:13	front	no	**Regelwerk:** v3.3	**Regelwerk:** v3.3 (Regel 29 regelt diese Datei)
-S8	ruleset-v3.3	de	genesis	content/de/genesis/study/CHAPTER-11-CONTEXT.md:13	front	no	**Regelwerk:** v3.3	**Regelwerk:** v3.3 (Regel 29 regelt diese Datei)
-S8	ruleset-v3.3	de	genesis	content/de/genesis/study/CHAPTER-12-CONTEXT.md:13	front	no	**Regelwerk:** v3.3	**Regelwerk:** v3.3 (Regel 29 regelt diese Datei)
-S8	ruleset-v3.3	de	genesis	content/de/genesis/study/CHAPTER-12-PROPHECY.md:8	front	no	**Regelwerk:** v3.3	**Regelwerk:** v3.3 (Regel 29 regelt diese Datei)
-S8	ruleset-v3.3	de	genesis	content/de/genesis/study/CHAPTER-2-CONTEXT.md:13	front	no	**Regelwerk:** v3.3	**Regelwerk:** v3.3 (Regel 29 regelt diese Datei)
-S8	ruleset-v3.3	de	genesis	content/de/genesis/study/CHAPTER-3-CONTEXT.md:13	front	no	**Regelwerk:** v3.3	**Regelwerk:** v3.3 (Regel 29 regelt diese Datei)
-S8	ruleset-v3.3	de	genesis	content/de/genesis/study/CHAPTER-3-PROPHECY.md:8	front	no	**Regelwerk:** v3.3	**Regelwerk:** v3.3 (Regel 29 regelt diese Datei)
-S8	ruleset-v3.3	de	genesis	content/de/genesis/study/CHAPTER-4-CONTEXT.md:13	front	no	**Regelwerk:** v3.3	**Regelwerk:** v3.3 (Regel 29 regelt diese Datei)
-S8	ruleset-v3.3	de	genesis	content/de/genesis/study/CHAPTER-5-CONTEXT.md:13	front	no	**Regelwerk:** v3.3	**Regelwerk:** v3.3 (Regel 29 regelt diese Datei)
-S8	ruleset-v3.3	de	genesis	content/de/genesis/study/CHAPTER-6-CONTEXT.md:13	front	no	**Regelwerk:** v3.3	**Regelwerk:** v3.3 (Regel 29 regelt diese Datei)
-S8	ruleset-v3.3	de	genesis	content/de/genesis/study/CHAPTER-7-CONTEXT.md:13	front	no	**Regelwerk:** v3.3	**Regelwerk:** v3.3 (Regel 29 regelt diese Datei)
-S8	ruleset-v3.3	de	genesis	content/de/genesis/study/CHAPTER-8-CONTEXT.md:13	front	no	**Regelwerk:** v3.3	**Regelwerk:** v3.3 (Regel 29 regelt diese Datei)
-S8	ruleset-v3.3	de	genesis	content/de/genesis/study/CHAPTER-9-CONTEXT.md:13	front	no	**Regelwerk:** v3.3	**Regelwerk:** v3.3 (Regel 29 regelt diese Datei)
-S8	ruleset-v3.3	de	genesis	content/de/genesis/study/CHAPTER-9-PROPHECY.md:8	front	no	**Regelwerk:** v3.3	**Regelwerk:** v3.3 (Regel 29 regelt diese Datei)
-S8	ruleset-v3.3	de	john	content/de/john/CONTEXT.md:6	front	no	**Regelwerk:** v3.3	**Regelwerk:** v3.3 (Regel 29 regelt diese Datei)
-S8	ruleset-v3.3	de	john	content/de/john/INTRODUCTION.md:13	front	no	**Regelwerk:** v3.3	**Regelwerk:** v3.3 (Regel 29 regelt diese Datei)
-S8	ruleset-v3.3	de	john	content/de/john/PEOPLE.md:6	front	no	**Regelwerk:** v3.3	**Regelwerk:** v3.3 (Regel 29 regelt diese Datei)
-S8	ruleset-v3.3	de	john	content/de/john/study/CHAPTER-1-CONTEXT.md:13	front	no	**Regelwerk:** v3.3	**Regelwerk:** v3.3 (Regel 29 regelt diese Datei)
 S8	status-not-provisional	de	john	content/de/john/study/CHAPTER-1-CONTEXT.md:14	front	no	**Status:** vorlaufig	**Status:** vorlaufig
-S8	ruleset-v3.3	de	john	content/de/john/study/CHAPTER-2-CONTEXT.md:13	front	no	**Regelwerk:** v3.3	**Regelwerk:** v3.3 (Regel 29 regelt diese Datei)
-S8	ruleset-v3.3	de	john	content/de/john/study/CHAPTER-3-CONTEXT.md:13	front	no	**Regelwerk:** v3.3	**Regelwerk:** v3.3 (Regel 29 regelt diese Datei)
-S8	ruleset-v3.3	de	john	content/de/john/study/CHAPTER-3-PROPHECY.md:8	front	no	**Regelwerk:** v3.3	**Regelwerk:** v3.3 (Regel 29 regelt diese Datei)
-S8	ruleset-v3.3	de	matthew	content/de/matthew/CONTEXT.md:6	front	no	**Regelwerk:** v3.3	**Regelwerk:** v3.3 (Regel 29 regelt diese Datei)
-S8	ruleset-v3.3	de	matthew	content/de/matthew/INTRODUCTION.md:13	front	no	**Regelwerk:** v3.3	**Regelwerk:** v3.3 (Regel 29 regelt diese Datei)
-S8	ruleset-v3.3	de	matthew	content/de/matthew/PEOPLE.md:6	front	no	**Regelwerk:** v3.3	**Regelwerk:** v3.3 (Regel 29 regelt diese Datei)
-S8	ruleset-v3.3	de	matthew	content/de/matthew/study/CHAPTER-1-CONTEXT.md:13	front	no	**Regelwerk:** v3.3	**Regelwerk:** v3.3 (Regel 29 regelt diese Datei)
-S8	ruleset-v3.3	de	matthew	content/de/matthew/study/CHAPTER-1-PROPHECY.md:8	front	no	**Regelwerk:** v3.3	**Regelwerk:** v3.3 (Regel 29 regelt diese Datei)
-S8	ruleset-v3.3	de	matthew	content/de/matthew/study/CHAPTER-2-CONTEXT.md:13	front	no	**Regelwerk:** v3.3	**Regelwerk:** v3.3 (Regel 29 regelt diese Datei)
-S8	ruleset-v3.3	de	matthew	content/de/matthew/study/CHAPTER-2-PROPHECY.md:8	front	no	**Regelwerk:** v3.3	**Regelwerk:** v3.3 (Regel 29 regelt diese Datei)
-S8	ruleset-v3.3	de	matthew	content/de/matthew/study/CHAPTER-3-CONTEXT.md:13	front	no	**Regelwerk:** v3.3	**Regelwerk:** v3.3 (Regel 29 regelt diese Datei)
-S8	ruleset-v3.3	en	genesis	content/en/genesis/CONTEXT.md:6	front	no	**Ruleset:** v3.3	**Ruleset:** v3.3 (Rule 29 governs this file)
-S8	ruleset-v3.3	en	genesis	content/en/genesis/INTRODUCTION.md:13	front	no	**Ruleset:** v3.3	**Ruleset:** v3.3 (Rule 29 governs this file)
-S8	ruleset-v3.3	en	genesis	content/en/genesis/PEOPLE.md:5	front	no	**Ruleset:** v3.3	**Ruleset:** v3.3 (Rule 29 governs this file)
-S8	ruleset-v3.3	en	genesis	content/en/genesis/study/CHAPTER-10-CONTEXT.md:13	front	no	**Ruleset:** v3.3	**Ruleset:** v3.3 (Rule 29 governs this file)
-S8	ruleset-v3.3	en	genesis	content/en/genesis/study/CHAPTER-12-CONTEXT.md:13	front	no	**Ruleset:** v3.3	**Ruleset:** v3.3 (Rule 29 governs this file)
-S8	ruleset-v3.3	en	genesis	content/en/genesis/study/CHAPTER-12-PROPHECY.md:8	front	no	**Ruleset:** v3.3	**Ruleset:** v3.3 (Rule 29 governs this file)
-S8	ruleset-v3.3	en	genesis	content/en/genesis/study/CHAPTER-2-CONTEXT.md:13	front	no	**Ruleset:** v3.3	**Ruleset:** v3.3 (Rule 29 governs this file)
-S8	ruleset-v3.3	en	genesis	content/en/genesis/study/CHAPTER-3-CONTEXT.md:13	front	no	**Ruleset:** v3.3	**Ruleset:** v3.3 (Rule 29 governs this file)
-S8	ruleset-v3.3	en	genesis	content/en/genesis/study/CHAPTER-3-PROPHECY.md:8	front	no	**Ruleset:** v3.3	**Ruleset:** v3.3 (Rule 29 governs this file)
-S8	ruleset-v3.3	en	genesis	content/en/genesis/study/CHAPTER-4-CONTEXT.md:13	front	no	**Ruleset:** v3.3	**Ruleset:** v3.3 (Rule 29 governs this file)
-S8	ruleset-v3.3	en	genesis	content/en/genesis/study/CHAPTER-5-CONTEXT.md:13	front	no	**Ruleset:** v3.3	**Ruleset:** v3.3 (Rule 29 governs this file)
-S8	ruleset-v3.3	en	genesis	content/en/genesis/study/CHAPTER-6-CONTEXT.md:13	front	no	**Ruleset:** v3.3	**Ruleset:** v3.3 (Rule 29 governs this file)
-S8	ruleset-v3.3	en	genesis	content/en/genesis/study/CHAPTER-7-CONTEXT.md:13	front	no	**Ruleset:** v3.3	**Ruleset:** v3.3 (Rule 29 governs this file)
-S8	ruleset-v3.3	en	genesis	content/en/genesis/study/CHAPTER-8-CONTEXT.md:13	front	no	**Ruleset:** v3.3	**Ruleset:** v3.3 (Rule 29 governs this file)
-S8	ruleset-v3.3	en	genesis	content/en/genesis/study/CHAPTER-9-CONTEXT.md:13	front	no	**Ruleset:** v3.3	**Ruleset:** v3.3 (Rule 29 governs this file)
-S8	ruleset-v3.3	en	genesis	content/en/genesis/study/CHAPTER-9-PROPHECY.md:8	front	no	**Ruleset:** v3.3	**Ruleset:** v3.3 (Rule 29 governs this file)
-S8	ruleset-v3.3	en	john	content/en/john/CONTEXT.md:6	front	no	**Ruleset:** v3.3	**Ruleset:** v3.3 (Rule 29 governs this file)
-S8	ruleset-v3.3	en	john	content/en/john/INTRODUCTION.md:13	front	no	**Ruleset:** v3.3	**Ruleset:** v3.3 (Rule 29 governs this file)
-S8	ruleset-v3.3	en	john	content/en/john/PEOPLE.md:6	front	no	**Ruleset:** v3.3	**Ruleset:** v3.3 (Rule 29 governs this file)
-S8	ruleset-v3.3	en	john	content/en/john/study/CHAPTER-3-CONTEXT.md:13	front	no	**Ruleset:** v3.3	**Ruleset:** v3.3 (Rule 29 governs this file)
-S8	ruleset-v3.3	en	john	content/en/john/study/CHAPTER-3-PROPHECY.md:8	front	no	**Ruleset:** v3.3	**Ruleset:** v3.3 (Rule 29 governs this file)
-S8	ruleset-v3.3	en	matthew	content/en/matthew/CONTEXT.md:6	front	no	**Ruleset:** v3.3	**Ruleset:** v3.3 (Rule 29 governs this file)
-S8	ruleset-v3.3	en	matthew	content/en/matthew/INTRODUCTION.md:13	front	no	**Ruleset:** v3.3	**Ruleset:** v3.3 (Rule 29 governs this file)
-S8	ruleset-v3.3	en	matthew	content/en/matthew/PEOPLE.md:6	front	no	**Ruleset:** v3.3	**Ruleset:** v3.3 (Rule 29 governs this file)
-S8	ruleset-v3.3	en	matthew	content/en/matthew/study/CHAPTER-1-PROPHECY.md:8	front	no	**Ruleset:** v3.3	**Ruleset:** v3.3 (Rule 29 governs this file)
-S8	ruleset-v3.3	en	matthew	content/en/matthew/study/CHAPTER-2-PROPHECY.md:8	front	no	**Ruleset:** v3.3	**Ruleset:** v3.3 (Rule 29 governs this file)
-S8	ruleset-v3.3	es	genesis	content/es/genesis/CONTEXT.md:6	front	no	**Conjunto de Reglas:** v3.3	**Conjunto de Reglas:** v3.3 (La Regla 29 gobierna este archivo)
-S8	ruleset-v3.3	es	genesis	content/es/genesis/INTRODUCTION.md:13	front	no	**Conjunto de reglas:** v3.3	**Conjunto de reglas:** v3.3 (La Regla 29 gobierna este archivo)
-S8	ruleset-v3.3	es	genesis	content/es/genesis/PEOPLE.md:5	front	no	**Reglas:** v3.3	**Reglas:** v3.3 (Regla 29 rige este archivo)
-S8	ruleset-v3.3	es	genesis	content/es/genesis/study/CHAPTER-1-CONTEXT.md:13	front	no	**Reglas:** v3.3	**Reglas:** v3.3 (la Regla 29 gobierna este archivo)
-S8	ruleset-v3.3	es	genesis	content/es/genesis/study/CHAPTER-10-CONTEXT.md:13	front	no	**Reglas:** v3.3	**Reglas:** v3.3 (la Regla 29 gobierna este archivo)
-S8	ruleset-v3.3	es	genesis	content/es/genesis/study/CHAPTER-11-CONTEXT.md:13	front	no	**Reglas:** v3.3	**Reglas:** v3.3 (la Regla 29 gobierna este archivo)
-S8	ruleset-v3.3	es	genesis	content/es/genesis/study/CHAPTER-12-CONTEXT.md:13	front	no	**Reglas:** v3.3	**Reglas:** v3.3 (la Regla 29 gobierna este archivo)
-S8	ruleset-v3.3	es	genesis	content/es/genesis/study/CHAPTER-12-PROPHECY.md:8	front	no	**Reglas:** v3.3	**Reglas:** v3.3 (Regla 29 rige este archivo)
-S8	ruleset-v3.3	es	genesis	content/es/genesis/study/CHAPTER-2-CONTEXT.md:13	front	no	**Reglas:** v3.3	**Reglas:** v3.3 (la Regla 29 gobierna este archivo)
-S8	ruleset-v3.3	es	genesis	content/es/genesis/study/CHAPTER-3-CONTEXT.md:13	front	no	**Reglas:** v3.3	**Reglas:** v3.3 (la Regla 29 gobierna este archivo)
-S8	ruleset-v3.3	es	genesis	content/es/genesis/study/CHAPTER-3-PROPHECY.md:8	front	no	**Reglas:** v3.3	**Reglas:** v3.3 (Regla 29 rige este archivo)
-S8	ruleset-v3.3	es	genesis	content/es/genesis/study/CHAPTER-4-CONTEXT.md:13	front	no	**Reglas:** v3.3	**Reglas:** v3.3 (Regla 29 gobierna este archivo)
-S8	ruleset-v3.3	es	genesis	content/es/genesis/study/CHAPTER-5-CONTEXT.md:13	front	no	**Reglas:** v3.3	**Reglas:** v3.3 (Regla 29 gobierna este archivo)
-S8	ruleset-v3.3	es	genesis	content/es/genesis/study/CHAPTER-6-CONTEXT.md:13	front	no	**Reglas:** v3.3	**Reglas:** v3.3 (la Regla 29 gobierna este archivo)
-S8	ruleset-v3.3	es	genesis	content/es/genesis/study/CHAPTER-7-CONTEXT.md:13	front	no	**Reglas:** v3.3	**Reglas:** v3.3 (la Regla 29 gobierna este archivo)
-S8	ruleset-v3.3	es	genesis	content/es/genesis/study/CHAPTER-8-CONTEXT.md:13	front	no	**Reglas:** v3.3	**Reglas:** v3.3 (la Regla 29 gobierna este archivo)
-S8	ruleset-v3.3	es	genesis	content/es/genesis/study/CHAPTER-9-CONTEXT.md:13	front	no	**Reglas:** v3.3	**Reglas:** v3.3 (la Regla 29 gobierna este archivo)
-S8	ruleset-v3.3	es	genesis	content/es/genesis/study/CHAPTER-9-PROPHECY.md:8	front	no	**Reglas:** v3.3	**Reglas:** v3.3 (Regla 29 rige este archivo)
-S8	ruleset-v3.3	es	john	content/es/john/CONTEXT.md:6	front	no	**Conjunto de Reglas:** v3.3	**Conjunto de Reglas:** v3.3 (La Regla 29 gobierna este archivo)
-S8	ruleset-v3.3	es	john	content/es/john/INTRODUCTION.md:13	front	no	**Conjunto de reglas:** v3.3	**Conjunto de reglas:** v3.3 (La Regla 29 gobierna este archivo)
 S8	no-status	es	john	content/es/john/PEOPLE.md:1	front	no		---
-S8	ruleset-v3.3	es	john	content/es/john/PEOPLE.md:6	front	no	**Reglas:** v3.3	**Reglas:** v3.3 (La Regla 29 gobierna este archivo)
-S8	ruleset-v3.3	es	john	content/es/john/study/CHAPTER-1-CONTEXT.md:13	front	no	**Reglas:** v3.3	**Reglas:** v3.3 (La Regla 29 rige este archivo)
-S8	ruleset-v3.3	es	john	content/es/john/study/CHAPTER-2-CONTEXT.md:13	front	no	**Reglas:** v3.3	**Reglas:** v3.3 (La Regla 29 rige este archivo)
-S8	ruleset-v3.3	es	john	content/es/john/study/CHAPTER-3-CONTEXT.md:13	front	no	**Reglas:** v3.3	**Reglas:** v3.3 (La Regla 29 rige este archivo)
-S8	ruleset-v3.3	es	john	content/es/john/study/CHAPTER-3-PROPHECY.md:8	front	no	**Reglas:** v3.3	**Reglas:** v3.3 (Regla 29 gobierna este archivo)
-S8	ruleset-v3.3	es	matthew	content/es/matthew/CONTEXT.md:6	front	no	**Conjunto de Reglas:** v3.3	**Conjunto de Reglas:** v3.3 (La Regla 29 gobierna este archivo)
-S8	ruleset-v3.3	es	matthew	content/es/matthew/INTRODUCTION.md:13	front	no	**Reglas:** v3.3	**Reglas:** v3.3 (La Regla 29 gobierna este archivo)
-S8	ruleset-v3.3	es	matthew	content/es/matthew/PEOPLE.md:6	front	no	**Reglas:** v3.3	**Reglas:** v3.3 (La Regla 29 gobierna este archivo)
-S8	ruleset-v3.3	es	matthew	content/es/matthew/study/CHAPTER-1-CONTEXT.md:13	front	no	**Reglas:** v3.3	**Reglas:** v3.3 (La Regla 29 gobierna este archivo)
-S8	ruleset-v3.3	es	matthew	content/es/matthew/study/CHAPTER-1-PROPHECY.md:8	front	no	**Reglas:** v3.3	**Reglas:** v3.3 (Regla 29 gobierna este archivo)
-S8	ruleset-v3.3	es	matthew	content/es/matthew/study/CHAPTER-2-CONTEXT.md:13	front	no	**Reglas:** v3.3	**Reglas:** v3.3 (La Regla 29 gobierna este archivo)
-S8	ruleset-v3.3	es	matthew	content/es/matthew/study/CHAPTER-2-PROPHECY.md:8	front	no	**Reglas:** v3.3	**Reglas:** v3.3 (Regla 29 gobierna este archivo)
-S8	ruleset-v3.3	es	matthew	content/es/matthew/study/CHAPTER-3-CONTEXT.md:13	front	no	**Reglas:** v3.3	**Reglas:** v3.3 (La Regla 29 gobierna este archivo)
-S8	ruleset-v3.3	pt-br	genesis	content/pt-br/genesis/CONTEXT.md:6	front	no	**Conjunto de Regras:** v3.3	**Conjunto de Regras:** v3.3 (A Regra 29 governa este arquivo)
-S8	ruleset-v3.3	pt-br	genesis	content/pt-br/genesis/INTRODUCTION.md:13	front	no	**Regras:** v3.3	**Regras:** v3.3 (Regra 29 governa este arquivo)
-S8	ruleset-v3.3	pt-br	genesis	content/pt-br/genesis/PEOPLE.md:5	front	no	**Regras:** v3.3	**Regras:** v3.3 (Regra 29 rege este arquivo)
-S8	ruleset-v3.3	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-1-CONTEXT.md:13	front	no	**Regras:** v3.3	**Regras:** v3.3 (Regra 29 governa este arquivo)
-S8	ruleset-v3.3	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-10-CONTEXT.md:13	front	no	**Regras:** v3.3	**Regras:** v3.3 (Regra 29 governa este arquivo)
-S8	ruleset-v3.3	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-11-CONTEXT.md:13	front	no	**Regras:** v3.3	**Regras:** v3.3 (Regra 29 governa este arquivo)
-S8	ruleset-v3.3	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-12-CONTEXT.md:13	front	no	**Regras:** v3.3	**Regras:** v3.3 (Regra 29 governa este arquivo)
-S8	ruleset-v3.3	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-12-PROPHECY.md:8	front	no	**Regras:** v3.3	**Regras:** v3.3 (Regra 29 governa este arquivo)
-S8	ruleset-v3.3	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-2-CONTEXT.md:13	front	no	**Regras:** v3.3	**Regras:** v3.3 (Regra 29 governa este arquivo)
-S8	ruleset-v3.3	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-3-CONTEXT.md:13	front	no	**Regras:** v3.3	**Regras:** v3.3 (Regra 29 governa este arquivo)
-S8	ruleset-v3.3	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-3-PROPHECY.md:8	front	no	**Regras:** v3.3	**Regras:** v3.3 (Regra 29 governa este arquivo)
-S8	ruleset-v3.3	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-4-CONTEXT.md:13	front	no	**Regras:** v3.3	**Regras:** v3.3 (Regra 29 governa este arquivo)
-S8	ruleset-v3.3	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-5-CONTEXT.md:13	front	no	**Regras:** v3.3	**Regras:** v3.3 (Regra 29 governa este arquivo)
-S8	ruleset-v3.3	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-6-CONTEXT.md:13	front	no	**Regras:** v3.3	**Regras:** v3.3 (Regra 29 governa este arquivo)
-S8	ruleset-v3.3	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-7-CONTEXT.md:13	front	no	**Regras:** v3.3	**Regras:** v3.3 (Regra 29 governa este arquivo)
-S8	ruleset-v3.3	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-8-CONTEXT.md:13	front	no	**Regras:** v3.3	**Regras:** v3.3 (Regra 29 governa este arquivo)
-S8	ruleset-v3.3	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-9-CONTEXT.md:13	front	no	**Regras:** v3.3	**Regras:** v3.3 (Regra 29 governa este arquivo)
-S8	ruleset-v3.3	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-9-PROPHECY.md:8	front	no	**Regras:** v3.3	**Regras:** v3.3 (Regra 29 governa este arquivo)
-S8	ruleset-v3.3	pt-br	john	content/pt-br/john/CONTEXT.md:6	front	no	**Conjunto de Regras:** v3.3	**Conjunto de Regras:** v3.3 (A Regra 29 governa este arquivo)
-S8	ruleset-v3.3	pt-br	john	content/pt-br/john/INTRODUCTION.md:13	front	no	**Regras:** v3.3	**Regras:** v3.3 (Regra 29 governa este arquivo)
-S8	ruleset-v3.3	pt-br	john	content/pt-br/john/PEOPLE.md:6	front	no	**Conjunto de Regras:** v3.3	**Conjunto de Regras:** v3.3 (Regra 29 governa este arquivo)
-S8	ruleset-v3.3	pt-br	john	content/pt-br/john/study/CHAPTER-1-CONTEXT.md:13	front	no	**Conjunto de Regras:** v3.3	**Conjunto de Regras:** v3.3 (Regra 29 governa este arquivo)
-S8	ruleset-v3.3	pt-br	john	content/pt-br/john/study/CHAPTER-2-CONTEXT.md:13	front	no	**Conjunto de Regras:** v3.3	**Conjunto de Regras:** v3.3 (Regra 29 governa este arquivo)
-S8	ruleset-v3.3	pt-br	john	content/pt-br/john/study/CHAPTER-3-CONTEXT.md:13	front	no	**Conjunto de Regras:** v3.3	**Conjunto de Regras:** v3.3 (Regra 29 governa este arquivo)
-S8	ruleset-v3.3	pt-br	john	content/pt-br/john/study/CHAPTER-3-PROPHECY.md:8	front	no	**Regras:** v3.3	**Regras:** v3.3 (Regra 29 governa este arquivo)
-S8	ruleset-v3.3	pt-br	matthew	content/pt-br/matthew/CONTEXT.md:6	front	no	**Conjunto de Regras:** v3.3	**Conjunto de Regras:** v3.3 (A Regra 29 governa este arquivo)
-S8	ruleset-v3.3	pt-br	matthew	content/pt-br/matthew/INTRODUCTION.md:13	front	no	**Conjunto de Regras:** v3.3	**Conjunto de Regras:** v3.3 (Regra 29 governa este arquivo)
-S8	ruleset-v3.3	pt-br	matthew	content/pt-br/matthew/PEOPLE.md:6	front	no	**Conjunto de Regras:** v3.3	**Conjunto de Regras:** v3.3 (Regra 29 governa este arquivo)
-S8	ruleset-v3.3	pt-br	matthew	content/pt-br/matthew/study/CHAPTER-1-CONTEXT.md:13	front	no	**Conjunto de Regras:** v3.3	**Conjunto de Regras:** v3.3 (Regra 29 governa este arquivo)
-S8	ruleset-v3.3	pt-br	matthew	content/pt-br/matthew/study/CHAPTER-1-PROPHECY.md:8	front	no	**Regras:** v3.3	**Regras:** v3.3 (Regra 29 governa este arquivo)
-S8	ruleset-v3.3	pt-br	matthew	content/pt-br/matthew/study/CHAPTER-2-CONTEXT.md:13	front	no	**Conjunto de Regras:** v3.3	**Conjunto de Regras:** v3.3 (Regra 29 governa este arquivo)
-S8	ruleset-v3.3	pt-br	matthew	content/pt-br/matthew/study/CHAPTER-2-PROPHECY.md:8	front	no	**Regras:** v3.3	**Regras:** v3.3 (Regra 29 governa este arquivo)
-S8	ruleset-v3.3	pt-br	matthew	content/pt-br/matthew/study/CHAPTER-3-CONTEXT.md:13	front	no	**Conjunto de Regras:** v3.3	**Conjunto de Regras:** v3.3 (Regra 29 governa este arquivo)
 S9	rule-ref	de	1-peter	content/de/1-peter/CHAPTER-1.md:8	front	no	CORE-Regel 24	…ansparente Ausgabe (GS-Ausgabe eigenständig deklariert nach CORE-Regel 24)
 S9	rule-ref	de	1-peter	content/de/1-peter/CHAPTER-1.md:11	front	no	Regel 25	**Gottesname-Politik (Regel 25 / GS-Politik):** Option C — κύριος (kyrios) als „der Herr" …
 S9	tier-jargon	de	1-peter	content/de/1-peter/CHAPTER-1.md:11	front	no	Stufe 2	…en bei Zitaten alttestamentlicher JHWH-Stellen; vermerkt in Stufe 2.
@@ -15410,7 +15152,7 @@ S9	rule-ref	de	genesis	content/de/genesis/CHAPTER-9.md:11	front	no	Regel 25	**Go
 S9	rule-ref	de	genesis	content/de/genesis/CHAPTER-9.md:13	front	now	Regel 28	**Status:** provisorisch — ausstehende Begutachtung (Regel 28)
 S9	rule-ref	de	genesis	content/de/genesis/CHAPTER-9.md:307	note	now	Regel 2	…uelle Handlungen ist. Die TT übersetzt den Oberflächentext: Regel 2 — der Text sagt „sah," wir übersetzen „sah." Die Mehrdeutig…
 S9	tier-jargon	de	genesis	content/de/genesis/CHAPTER-9.md:350	note	now	STUFE 2	> 🟡 **STUFE 2 — REZEPTIONSHINWEIS**
-S9	rule-ref	de	genesis	content/de/genesis/CONTEXT.md:6	front	no	Regel 29	**Regelwerk:** v3.3 (Regel 29 regelt diese Datei)
+S9	rule-ref	de	genesis	content/de/genesis/CONTEXT.md:6	front	no	Regel 29	**Regelwerk:** v3.4 (Regel 29 regelt diese Datei)
 S9	editorial-log-ref	de	genesis	content/de/genesis/CONTEXT.md:24	apparatus	now	Redaktionsprotokoll	…den der Leser als wiederkehrendes Signal erkennen soll. Das Redaktionsprotokoll `transliteration-decisions.md` dokumentiert die Projekt-Ebe…
 S9	repo-path	de	genesis	content/de/genesis/CONTEXT.md:24	apparatus	now	transliteration-decisions.md	…derkehrendes Signal erkennen soll. Das Redaktionsprotokoll `transliteration-decisions.md` dokumentiert die Projekt-Ebene-Entscheidung, *toledot* in …
 S9	editorial-log-ref	de	genesis	content/de/genesis/CONTEXT.md:37	apparatus	now	Redaktionsprotokoll	…m* — erscheint im Text als ein bewusster Dialog-Marker; der Redaktionsprotokoll-Eintrag zu Genesis 3 verlangt ausdrücklich, dass diese Unte…
@@ -15426,11 +15168,11 @@ S9	tier-jargon	de	genesis	content/de/genesis/CONTEXT.md:120	apparatus	now	Tier-2
 S9	process-word	de	genesis	content/de/genesis/CONTEXT.md:153	apparatus	now	Phase 8	Die Abschnitt-I-Arbeit der Phase 8 verfolgt das Ethnogenese-Schema (gen/9 I-A10) und die Völke…
 S9	tier-jargon	de	genesis	content/de/genesis/CONTEXT.md:166	apparatus	now	Tier-2	… Singular zu glätten („ich werde Menschen machen") und fügt Tier-2-Noten hinzu, die die Interpretationsoptionen markieren.
 S9	editorial-log-ref	de	genesis	content/de/genesis/CONTEXT.md:168	apparatus	now	Redaktionsprotokoll	Das Redaktionsprotokoll registriert eine spezifische kapitelübergreifende Entscheid…
-S9	rule-ref	de	genesis	content/de/genesis/INTRODUCTION.md:13	front	no	Regel 29	**Regelwerk:** v3.3 (Regel 29 regelt diese Datei)
+S9	rule-ref	de	genesis	content/de/genesis/INTRODUCTION.md:13	front	no	Regel 29	**Regelwerk:** v3.4 (Regel 29 regelt diese Datei)
 S9	ai-provenance	de	genesis	content/de/genesis/INTRODUCTION.md:433	apparatus	now	(1M context)	> **Redaktionelle Herkunft:** Entwurf von Claude Opus 4.6 (1M context) am 28.04.2026. Noch nicht geprüft. Diese Einleitung ist ein…
 S9	ai-provenance	de	genesis	content/de/genesis/INTRODUCTION.md:433	apparatus	now	Claude Opus 4.6	> **Redaktionelle Herkunft:** Entwurf von Claude Opus 4.6 (1M context) am 28.04.2026. Noch nicht geprüft. Diese Einle…
 S9	rule-ref	de	genesis	content/de/genesis/INTRODUCTION.md:433	apparatus	now	Regel 29	… eine provisorische wissenschaftliche Ressource, die der TT-Regel 29 unterliegt. Alle Aussagen tragen doppelte Kennzeichnungen; …
-S9	rule-ref	de	genesis	content/de/genesis/PEOPLE.md:5	front	no	Regel 29	**Regelwerk:** v3.3 (Regel 29 regelt diese Datei)
+S9	rule-ref	de	genesis	content/de/genesis/PEOPLE.md:5	front	no	Regel 29	**Regelwerk:** v3.4 (Regel 29 regelt diese Datei)
 S9	rule-ref	de	genesis	content/de/genesis/PEOPLE.md:10	front	no	Regel 29	…et. Dieses Material ist kontextuelles Studienmaterial gemäß Regel 29.
 S9	repo-path	de	genesis	content/de/genesis/PEOPLE.md:12	front	no	RULES-GS.md	…onen folgen der gesperrten Eigennamentabelle (RULES-HB.md / RULES-GS.md).
 S9	repo-path	de	genesis	content/de/genesis/PEOPLE.md:12	front	no	RULES-HB.md	… Transliterationen folgen der gesperrten Eigennamentabelle (RULES-HB.md / RULES-GS.md).
@@ -15439,31 +15181,31 @@ S9	ai-provenance	de	genesis	content/de/genesis/PEOPLE.md:914	apparatus	now	Claud
 S9	ai-provenance	de	genesis	content/de/genesis/PEOPLE.md:914	apparatus	now	Entworfen von	> **Redaktionelle Herkunft:** Entworfen von Claude Opus 4.6 (1M Kontext) am 2026-04-27. Noch nicht begu…
 S9	rule-ref	de	genesis	content/de/genesis/PEOPLE.md:914	apparatus	now	Regel 29	…rovisorische wissenschaftliche Ressource, geregelt durch TT-Regel 29.
 S9	repo-path	de	genesis	content/de/genesis/study/CHAPTER-1-CONTEXT.md:12	front	no	de/genesis/CHAPTER-1.md	**Begleitdatei zu:** `de/genesis/CHAPTER-1.md` (Transparente Ausgabe)
-S9	rule-ref	de	genesis	content/de/genesis/study/CHAPTER-1-CONTEXT.md:13	front	no	Regel 29	**Regelwerk:** v3.3 (Regel 29 regelt diese Datei)
+S9	rule-ref	de	genesis	content/de/genesis/study/CHAPTER-1-CONTEXT.md:13	front	no	Regel 29	**Regelwerk:** v3.4 (Regel 29 regelt diese Datei)
 S9	rule-ref	de	genesis	content/de/genesis/study/CHAPTER-1-CONTEXT.md:127	apparatus	now	Regel 7	…len sind textlich vorhanden. Die gesperrten Formeln der TT (Regel 7) bewahren diese Muster, indem sie die wiederholten Wendunge…
 S9	rule-ref	de	genesis	content/de/genesis/study/CHAPTER-1-CONTEXT.md:302	apparatus	now	Regel 7	…meinschaftlichen Rezitation. Die gesperrten Formeln der TT (Regel 7) bewahren genau diese performative Struktur — dieselben Wen…
 S9	ai-provenance	de	genesis	content/de/genesis/study/CHAPTER-1-CONTEXT.md:722	apparatus	now	Claude Opus 4.6	- Entworfen von: Claude Opus 4.6 (KI-Assistent)
 S9	ai-provenance	de	genesis	content/de/genesis/study/CHAPTER-1-CONTEXT.md:722	apparatus	now	Entworfen von	- Entworfen von: Claude Opus 4.6 (KI-Assistent)
 S9	repo-path	de	genesis	content/de/genesis/study/CHAPTER-10-CONTEXT.md:12	front	no	de/genesis/CHAPTER-10.md	**Begleiter zu:** `de/genesis/CHAPTER-10.md` (Transparente Ausgabe)
-S9	rule-ref	de	genesis	content/de/genesis/study/CHAPTER-10-CONTEXT.md:13	front	no	Regel 29	**Regelwerk:** v3.3 (Regel 29 regelt diese Datei)
+S9	rule-ref	de	genesis	content/de/genesis/study/CHAPTER-10-CONTEXT.md:13	front	no	Regel 29	**Regelwerk:** v3.4 (Regel 29 regelt diese Datei)
 S9	repo-path	de	genesis	content/de/genesis/study/CHAPTER-10-CONTEXT.md:137	apparatus	now	REGELN-KERN.md	…e Taxonomie moderner Völker. Das ethnogenese-Verbot der TT (REGELN-KERN.md) gilt: Der Text darf nicht auf moderne rassische, ethnische…
 S9	repo-path	de	genesis	content/de/genesis/study/CHAPTER-10-CONTEXT.md:164	apparatus	now	de/genesis/study/CHAPTER-1-CONTEXT.md	…ölker), siehe den Genesis-1-Begleitkommentar (Abschnitt I, `de/genesis/study/CHAPTER-1-CONTEXT.md`). Die folgenden Einträge behandeln die historischen Umstän…
 S9	ai-provenance	de	genesis	content/de/genesis/study/CHAPTER-10-CONTEXT.md:255	apparatus	now	Claude Opus 4.6	- Entwurf: Claude Opus 4.6 (KI-Assistent)
 S9	repo-path	de	genesis	content/de/genesis/study/CHAPTER-11-CONTEXT.md:12	front	no	de/genesis/CHAPTER-11.md	**Begleiter zu:** `de/genesis/CHAPTER-11.md` (Transparente Ausgabe)
-S9	rule-ref	de	genesis	content/de/genesis/study/CHAPTER-11-CONTEXT.md:13	front	no	Regel 29	**Regelwerk:** v3.3 (Regel 29 regelt diese Datei)
+S9	rule-ref	de	genesis	content/de/genesis/study/CHAPTER-11-CONTEXT.md:13	front	no	Regel 29	**Regelwerk:** v3.4 (Regel 29 regelt diese Datei)
 S9	rule-ref	de	genesis	content/de/genesis/study/CHAPTER-11-CONTEXT.md:43	apparatus	now	Regel 12	…nwille. Die TT gibt den Anthropomorphismus wörtlich wieder (Regel 12).
 S9	rule-ref	de	genesis	content/de/genesis/study/CHAPTER-11-CONTEXT.md:66	apparatus	now	Regel 22	…stament folgt der LXX-Lesart. Die TT übersetzt den MT gemäß Regel 22 (Basistextpolitik), daher erscheint Kainan nicht. Diese Var…
 S9	rule-ref	de	genesis	content/de/genesis/study/CHAPTER-11-CONTEXT.md:66	apparatus	now	Regel 22	…an nicht. Diese Variante wird hier gemäß der Bestimmung von Regel 22 vermerkt, dass bedeutende Textvarianten im Begleitmaterial …
 S9	repo-path	de	genesis	content/de/genesis/study/CHAPTER-11-CONTEXT.md:184	apparatus	now	de/genesis/study/CHAPTER-1-CONTEXT.md	…ölker), siehe den Genesis-1-Begleitkommentar (Abschnitt I, `de/genesis/study/CHAPTER-1-CONTEXT.md`). Die folgenden Einträge behandeln die historischen Umstän…
 S9	ai-provenance	de	genesis	content/de/genesis/study/CHAPTER-11-CONTEXT.md:277	apparatus	now	Claude Opus 4.6	- Entwurf: Claude Opus 4.6 (KI-Assistent)
 S9	repo-path	de	genesis	content/de/genesis/study/CHAPTER-12-CONTEXT.md:12	front	no	de/genesis/CHAPTER-12.md	**Begleiter zu:** `de/genesis/CHAPTER-12.md` (Transparente Ausgabe)
-S9	rule-ref	de	genesis	content/de/genesis/study/CHAPTER-12-CONTEXT.md:13	front	no	Regel 29	**Regelwerk:** v3.3 (Regel 29 regelt diese Datei)
+S9	rule-ref	de	genesis	content/de/genesis/study/CHAPTER-12-CONTEXT.md:13	front	no	Regel 29	**Regelwerk:** v3.4 (Regel 29 regelt diese Datei)
 S9	repo-path	de	genesis	content/de/genesis/study/CHAPTER-12-CONTEXT.md:186	apparatus	now	de/genesis/study/CHAPTER-1-CONTEXT.md	…ölker), siehe den Genesis-1-Begleitkommentar (Abschnitt I, `de/genesis/study/CHAPTER-1-CONTEXT.md`). Die folgenden Einträge behandeln die historischen Umstän…
 S9	ai-provenance	de	genesis	content/de/genesis/study/CHAPTER-12-CONTEXT.md:283	apparatus	now	Claude Opus 4.6	- Verfasst von: Claude Opus 4.6 (KI-Assistent)
 S9	ai-provenance	de	genesis	content/de/genesis/study/CHAPTER-12-CONTEXT.md:283	apparatus	now	Verfasst von	- Verfasst von: Claude Opus 4.6 (KI-Assistent)
-S9	rule-ref	de	genesis	content/de/genesis/study/CHAPTER-12-PROPHECY.md:8	front	no	Regel 29	**Regelwerk:** v3.3 (Regel 29 regelt diese Datei)
+S9	rule-ref	de	genesis	content/de/genesis/study/CHAPTER-12-PROPHECY.md:8	front	no	Regel 29	**Regelwerk:** v3.4 (Regel 29 regelt diese Datei)
 S9	repo-path	de	genesis	content/de/genesis/study/CHAPTER-2-CONTEXT.md:12	front	no	de/genesis/CHAPTER-2.md	**Begleitdatei zu:** `de/genesis/CHAPTER-2.md` (Transparente Ausgabe)
-S9	rule-ref	de	genesis	content/de/genesis/study/CHAPTER-2-CONTEXT.md:13	front	no	Regel 29	**Regelwerk:** v3.3 (Regel 29 regelt diese Datei)
+S9	rule-ref	de	genesis	content/de/genesis/study/CHAPTER-2-CONTEXT.md:13	front	no	Regel 29	**Regelwerk:** v3.4 (Regel 29 regelt diese Datei)
 S9	rule-ref	de	genesis	content/de/genesis/study/CHAPTER-2-CONTEXT.md:23	apparatus	now	Regel 22	…ologische Unbehagen zu vermeiden. Die TT folgt dem MT gemäß Regel 22 (Grundtext übersetzen; Varianten notieren, nicht stillschwe…
 S9	rule-ref	de	genesis	content/de/genesis/study/CHAPTER-2-CONTEXT.md:33	apparatus	now	Regel 25	…t dies konsonantisch wieder (JHWH, nicht "der HERR") gemäss Regel 25 Option A, wodurch der Gottesnamen-Wechsel sichtbar wird. Di…
 S9	rule-ref	de	genesis	content/de/genesis/study/CHAPTER-2-CONTEXT.md:70	apparatus	now	Regel 2	…rgabe. Die TT bewahrt "Seite/Rippe" mit Schrägstrich gemäss Regel 2.
@@ -15471,7 +15213,7 @@ S9	repo-path	de	genesis	content/de/genesis/study/CHAPTER-2-CONTEXT.md:307	appara
 S9	ai-provenance	de	genesis	content/de/genesis/study/CHAPTER-2-CONTEXT.md:408	apparatus	now	Claude Opus 4.6	- Entworfen von: Claude Opus 4.6 (KI-Assistent)
 S9	ai-provenance	de	genesis	content/de/genesis/study/CHAPTER-2-CONTEXT.md:408	apparatus	now	Entworfen von	- Entworfen von: Claude Opus 4.6 (KI-Assistent)
 S9	repo-path	de	genesis	content/de/genesis/study/CHAPTER-3-CONTEXT.md:12	front	no	de/genesis/CHAPTER-3.md	**Begleitdatei zu:** `de/genesis/CHAPTER-3.md` (Transparente Ausgabe)
-S9	rule-ref	de	genesis	content/de/genesis/study/CHAPTER-3-CONTEXT.md:13	front	no	Regel 29	**Regelwerk:** v3.3 (Regel 29 regelt diese Datei)
+S9	rule-ref	de	genesis	content/de/genesis/study/CHAPTER-3-CONTEXT.md:13	front	no	Regel 29	**Regelwerk:** v3.4 (Regel 29 regelt diese Datei)
 S9	rule-ref	de	genesis	content/de/genesis/study/CHAPTER-3-CONTEXT.md:48	apparatus	now	Regel 1	…Stimme" natürlicher. Die TT verwendet durchgehend "Stimme" (Regel 1) mit einer Anmerkung bei 3:8, die den breiteren Bedeutungsb…
 S9	rule-ref	de	genesis	content/de/genesis/study/CHAPTER-3-CONTEXT.md:112	apparatus	now	Regel 12	…r Abend erschlossen wird). Die TT übersetzt wörtlich gemäss Regel 12 (keine falsche Präzision). Das Hebräische sagt nur "Wind de…
 S9	rule-ref	de	genesis	content/de/genesis/study/CHAPTER-3-CONTEXT.md:192	apparatus	now	Regel 4	…iteriert *nachash* nicht (es überschreitet die Schwelle von Regel 4 nicht).
@@ -15479,9 +15221,9 @@ S9	rule-ref	de	genesis	content/de/genesis/study/CHAPTER-3-CONTEXT.md:294	apparat
 S9	repo-path	de	genesis	content/de/genesis/study/CHAPTER-3-CONTEXT.md:332	apparatus	now	de/genesis/study/CHAPTER-1-CONTEXT.md	…ölker), siehe den Genesis-1-Begleitkommentar (Abschnitt I, `de/genesis/study/CHAPTER-1-CONTEXT.md`). Die folgenden Einträge behandeln die historischen Umstän…
 S9	ai-provenance	de	genesis	content/de/genesis/study/CHAPTER-3-CONTEXT.md:431	apparatus	now	Claude Opus 4.6	- Entworfen von: Claude Opus 4.6 (KI-Assistent)
 S9	ai-provenance	de	genesis	content/de/genesis/study/CHAPTER-3-CONTEXT.md:431	apparatus	now	Entworfen von	- Entworfen von: Claude Opus 4.6 (KI-Assistent)
-S9	rule-ref	de	genesis	content/de/genesis/study/CHAPTER-3-PROPHECY.md:8	front	no	Regel 29	**Regelwerk:** v3.3 (Regel 29 regelt diese Datei)
+S9	rule-ref	de	genesis	content/de/genesis/study/CHAPTER-3-PROPHECY.md:8	front	no	Regel 29	**Regelwerk:** v3.4 (Regel 29 regelt diese Datei)
 S9	repo-path	de	genesis	content/de/genesis/study/CHAPTER-4-CONTEXT.md:12	front	no	de/genesis/CHAPTER-4.md	**Begleitdatei zu:** `de/genesis/CHAPTER-4.md` (Transparente Ausgabe)
-S9	rule-ref	de	genesis	content/de/genesis/study/CHAPTER-4-CONTEXT.md:13	front	no	Regel 29	**Regelwerk:** v3.3 (Regel 29 regelt diese Datei)
+S9	rule-ref	de	genesis	content/de/genesis/study/CHAPTER-4-CONTEXT.md:13	front	no	Regel 29	**Regelwerk:** v3.4 (Regel 29 regelt diese Datei)
 S9	rule-ref	de	genesis	content/de/genesis/study/CHAPTER-4-CONTEXT.md:44	apparatus	now	Regel 1	…rt dieselbe Schrägstrich-Wiedergabe in beiden Versen gemäss Regel 1.
 S9	rule-ref	de	genesis	content/de/genesis/study/CHAPTER-4-CONTEXT.md:54	apparatus	now	Regel 22	… TT folgt dem MT mit "..." und vermerkt die Variante gemäss Regel 22.
 S9	editorial-id	de	genesis	content/de/genesis/study/CHAPTER-4-CONTEXT.md:74	apparatus	now	(Eintrag 081)	…kung. Dies ist die Entscheidung aus dem Redaktionsprotokoll (Eintrag 081).
@@ -15490,13 +15232,13 @@ S9	repo-path	de	genesis	content/de/genesis/study/CHAPTER-4-CONTEXT.md:225	appara
 S9	ai-provenance	de	genesis	content/de/genesis/study/CHAPTER-4-CONTEXT.md:330	apparatus	now	Claude Opus 4.6	- Entworfen von: Claude Opus 4.6 (KI-Assistent)
 S9	ai-provenance	de	genesis	content/de/genesis/study/CHAPTER-4-CONTEXT.md:330	apparatus	now	Entworfen von	- Entworfen von: Claude Opus 4.6 (KI-Assistent)
 S9	repo-path	de	genesis	content/de/genesis/study/CHAPTER-5-CONTEXT.md:12	front	no	de/genesis/CHAPTER-5.md	**Begleitdatei zu:** `de/genesis/CHAPTER-5.md` (Transparente Ausgabe)
-S9	rule-ref	de	genesis	content/de/genesis/study/CHAPTER-5-CONTEXT.md:13	front	no	Regel 29	**Regelwerk:** v3.3 (Regel 29 regelt diese Datei)
+S9	rule-ref	de	genesis	content/de/genesis/study/CHAPTER-5-CONTEXT.md:13	front	no	Regel 29	**Regelwerk:** v3.4 (Regel 29 regelt diese Datei)
 S9	rule-ref	de	genesis	content/de/genesis/study/CHAPTER-5-CONTEXT.md:94	apparatus	now	Regel 7	…waren N Jahre → und er starb." Die Starre ist beabsichtigt (Regel 7 — festgesetzte Formel). Abweichungen von der Formel (Henoch…
 S9	repo-path	de	genesis	content/de/genesis/study/CHAPTER-5-CONTEXT.md:170	apparatus	now	de/genesis/study/CHAPTER-1-CONTEXT.md	…ölker), siehe den Genesis-1-Begleitkommentar (Abschnitt I, `de/genesis/study/CHAPTER-1-CONTEXT.md`). Die folgenden Einträge behandeln die historischen Umstän…
 S9	ai-provenance	de	genesis	content/de/genesis/study/CHAPTER-5-CONTEXT.md:270	apparatus	now	Claude Opus 4.6	- Entworfen von: Claude Opus 4.6 (KI-Assistent)
 S9	ai-provenance	de	genesis	content/de/genesis/study/CHAPTER-5-CONTEXT.md:270	apparatus	now	Entworfen von	- Entworfen von: Claude Opus 4.6 (KI-Assistent)
 S9	repo-path	de	genesis	content/de/genesis/study/CHAPTER-6-CONTEXT.md:12	front	no	de/genesis/CHAPTER-6.md	**Begleitdatei zu:** `de/genesis/CHAPTER-6.md` (Transparente Ausgabe)
-S9	rule-ref	de	genesis	content/de/genesis/study/CHAPTER-6-CONTEXT.md:13	front	no	Regel 29	**Regelwerk:** v3.3 (Regel 29 regelt diese Datei)
+S9	rule-ref	de	genesis	content/de/genesis/study/CHAPTER-6-CONTEXT.md:13	front	no	Regel 29	**Regelwerk:** v3.4 (Regel 29 regelt diese Datei)
 S9	rule-ref	de	genesis	content/de/genesis/study/CHAPTER-6-CONTEXT.md:28	apparatus	now	Regel 4	Die TT behält *nephilim* als Transliteration gemäss Regel 4 bei. "Riesen" importiert die Übersetzung der Septuaginta (L…
 S9	rule-ref	de	genesis	content/de/genesis/study/CHAPTER-6-CONTEXT.md:69	apparatus	now	Regel 22	… beides so, wie der MT es liest, ohne Harmonisierung gemäss Regel 22 und dem Nicht-Harmonisierungs-Prinzip. Dies ist die sichtba…
 S9	rule-ref	de	genesis	content/de/genesis/study/CHAPTER-6-CONTEXT.md:79	apparatus	now	Regel 14	…ür Sünde sühnt. Die TT kennzeichnet dieses Wortspiel gemäss Regel 14.
@@ -15506,24 +15248,24 @@ S9	repo-path	de	genesis	content/de/genesis/study/CHAPTER-6-CONTEXT.md:226	appara
 S9	ai-provenance	de	genesis	content/de/genesis/study/CHAPTER-6-CONTEXT.md:328	apparatus	now	Claude Opus 4.6	- Entworfen von: Claude Opus 4.6 (KI-Assistent)
 S9	ai-provenance	de	genesis	content/de/genesis/study/CHAPTER-6-CONTEXT.md:328	apparatus	now	Entworfen von	- Entworfen von: Claude Opus 4.6 (KI-Assistent)
 S9	repo-path	de	genesis	content/de/genesis/study/CHAPTER-7-CONTEXT.md:12	front	no	de/genesis/CHAPTER-7.md	**Begleitdatei zu:** `de/genesis/CHAPTER-7.md` (Transparente Ausgabe)
-S9	rule-ref	de	genesis	content/de/genesis/study/CHAPTER-7-CONTEXT.md:13	front	no	Regel 29	**Regelwerk:** v3.3 (Regel 29 regelt diese Datei)
+S9	rule-ref	de	genesis	content/de/genesis/study/CHAPTER-7-CONTEXT.md:13	front	no	Regel 29	**Regelwerk:** v3.4 (Regel 29 regelt diese Datei)
 S9	rule-ref	de	genesis	content/de/genesis/study/CHAPTER-7-CONTEXT.md:28	apparatus	now	Regel 22	…zt alle drei so, wie der MT sie liest, ohne Harmonisierung (Regel 22). Dies ist die sichtbarste numerische Spannung in der Flute…
 S9	repo-path	de	genesis	content/de/genesis/study/CHAPTER-7-CONTEXT.md:218	apparatus	now	de/genesis/study/CHAPTER-1-CONTEXT.md	…ölker), siehe den Genesis-1-Begleitkommentar (Abschnitt I, `de/genesis/study/CHAPTER-1-CONTEXT.md`). Die folgenden Einträge behandeln die historischen Umstän…
 S9	ai-provenance	de	genesis	content/de/genesis/study/CHAPTER-7-CONTEXT.md:322	apparatus	now	Claude Opus 4.6	- Entworfen von: Claude Opus 4.6 (KI-Assistent)
 S9	ai-provenance	de	genesis	content/de/genesis/study/CHAPTER-7-CONTEXT.md:322	apparatus	now	Entworfen von	- Entworfen von: Claude Opus 4.6 (KI-Assistent)
 S9	repo-path	de	genesis	content/de/genesis/study/CHAPTER-8-CONTEXT.md:12	front	no	de/genesis/CHAPTER-8.md	**Begleitdatei zu:** `de/genesis/CHAPTER-8.md` (Transparente Ausgabe)
-S9	rule-ref	de	genesis	content/de/genesis/study/CHAPTER-8-CONTEXT.md:13	front	no	Regel 29	**Regelwerk:** v3.3 (Regel 29 regelt diese Datei)
+S9	rule-ref	de	genesis	content/de/genesis/study/CHAPTER-8-CONTEXT.md:13	front	no	Regel 29	**Regelwerk:** v3.4 (Regel 29 regelt diese Datei)
 S9	rule-ref	de	genesis	content/de/genesis/study/CHAPTER-8-CONTEXT.md:23	apparatus	now	Regel 2	…asser." Die TT bewahrt den Schrägstrich (Wind/Geist) gemäss Regel 2. Die Neu-Schöpfung nach der Flut beginnt mit demselben Elem…
 S9	repo-path	de	genesis	content/de/genesis/study/CHAPTER-8-CONTEXT.md:210	apparatus	now	de/genesis/study/CHAPTER-1-CONTEXT.md	…ölker), siehe den Genesis-1-Begleitkommentar (Abschnitt I, `de/genesis/study/CHAPTER-1-CONTEXT.md`). Die folgenden Einträge behandeln die historischen Umstän…
 S9	ai-provenance	de	genesis	content/de/genesis/study/CHAPTER-8-CONTEXT.md:309	apparatus	now	Claude Opus 4.6	- Entworfen von: Claude Opus 4.6 (KI-Assistent)
 S9	ai-provenance	de	genesis	content/de/genesis/study/CHAPTER-8-CONTEXT.md:309	apparatus	now	Entworfen von	- Entworfen von: Claude Opus 4.6 (KI-Assistent)
 S9	repo-path	de	genesis	content/de/genesis/study/CHAPTER-9-CONTEXT.md:12	front	no	de/genesis/CHAPTER-9.md	**Begleitdatei zu:** `de/genesis/CHAPTER-9.md` (Transparente Ausgabe)
-S9	rule-ref	de	genesis	content/de/genesis/study/CHAPTER-9-CONTEXT.md:13	front	no	Regel 29	**Regelwerk:** v3.3 (Regel 29 regelt diese Datei)
+S9	rule-ref	de	genesis	content/de/genesis/study/CHAPTER-9-CONTEXT.md:13	front	no	Regel 29	**Regelwerk:** v3.4 (Regel 29 regelt diese Datei)
 S9	rule-ref	de	genesis	content/de/genesis/study/CHAPTER-9-CONTEXT.md:250	apparatus	now	Regel 12	…die die TT wörtlich übersetzt, ohne theologisch zu glätten (Regel 12).
 S9	repo-path	de	genesis	content/de/genesis/study/CHAPTER-9-CONTEXT.md:268	apparatus	now	de/genesis/study/CHAPTER-1-CONTEXT.md	…ölker), siehe den Genesis-1-Begleitkommentar (Abschnitt I, `de/genesis/study/CHAPTER-1-CONTEXT.md`). Die folgenden Einträge behandeln die historischen Umstän…
 S9	ai-provenance	de	genesis	content/de/genesis/study/CHAPTER-9-CONTEXT.md:374	apparatus	now	Claude Opus 4.6	- Entworfen von: Claude Opus 4.6 (KI-Assistent)
 S9	ai-provenance	de	genesis	content/de/genesis/study/CHAPTER-9-CONTEXT.md:374	apparatus	now	Entworfen von	- Entworfen von: Claude Opus 4.6 (KI-Assistent)
-S9	rule-ref	de	genesis	content/de/genesis/study/CHAPTER-9-PROPHECY.md:8	front	no	Regel 29	**Regelwerk:** v3.3 (Regel 29 regelt diese Datei)
+S9	rule-ref	de	genesis	content/de/genesis/study/CHAPTER-9-PROPHECY.md:8	front	no	Regel 29	**Regelwerk:** v3.4 (Regel 29 regelt diese Datei)
 S9	rule-ref	de	john	content/de/john/CHAPTER-1.md:8	front	no	CORE-Regel 24	…ransparente Ausgabe (GS-Ausgabe unabhängig deklariert gemäß CORE-Regel 24)
 S9	rule-ref	de	john	content/de/john/CHAPTER-1.md:11	front	no	Regel 25	**Gottesname-Politik (Regel 25 / GS-Politik):** Option C — κύριος (kyrios) als „der Herr" …
 S9	tier-jargon	de	john	content/de/john/CHAPTER-1.md:11	front	no	Stufe 2	…ben, wenn alttestamentliche JHWH-Stellen zitiert werden; in Stufe 2 vermerkt.
@@ -15541,11 +15283,11 @@ S9	tier-jargon	de	john	content/de/john/CHAPTER-3.md:11	front	no	Stufe 2	…ben, 
 S9	rule-ref	de	john	content/de/john/CHAPTER-3.md:12	front	now	Regel 28	**Status:** provisorisch — ausstehende Begutachtung (Regel 28)
 S9	rule-ref	de	john	content/de/john/CHAPTER-3.md:112	note	now	Regel 2	…t den gesamten Dialog. Dies ist eine echte Ambiguität gemäß Regel 2 — die TT bewahrt beide mit dem Schrägstrich, da jede Überse…
 S9	rule-ref	de	john	content/de/john/CHAPTER-3.md:564	apparatus	now	Regel 2	… neuem." Beide Bedeutungen aktiv in V.3. Schrägstrich gemäß Regel 2. |
-S9	rule-ref	de	john	content/de/john/CONTEXT.md:6	front	no	Regel 29	**Regelwerk:** v3.3 (Regel 29 regelt diese Datei)
+S9	rule-ref	de	john	content/de/john/CONTEXT.md:6	front	no	Regel 29	**Regelwerk:** v3.4 (Regel 29 regelt diese Datei)
 S9	tier-jargon	de	john	content/de/john/CONTEXT.md:24	apparatus	now	Tier-2	…rt hält beides; die TT bewahrt die Mehrdeutigkeit mit einer Tier-2-Note, anstatt eine deutsche Glosse zu wählen.
 S9	repo-path	de	john	content/de/john/CONTEXT.md:45	apparatus	now	docs/audit/PENDING.md	…von *genos*, „Art"), gemäß der Projekt-Ebene-Entscheidung (`docs/audit/PENDING.md` markierte dies als sprachübergreifendes Konsistenzelement)…
 S9	tier-jargon	de	john	content/de/john/CONTEXT.md:47	apparatus	now	Tier-2	…nziggeborener Sohn"). Die TT bewahrt die Variante mit einer Tier-2 textkritischen Note, anstatt sie stillschweigend aufzulösen…
-S9	rule-ref	de	john	content/de/john/INTRODUCTION.md:13	front	no	Regel 29	**Regelwerk:** v3.3 (Regel 29 regelt diese Datei)
+S9	rule-ref	de	john	content/de/john/INTRODUCTION.md:13	front	no	Regel 29	**Regelwerk:** v3.4 (Regel 29 regelt diese Datei)
 S9	rule-ref	de	john	content/de/john/INTRODUCTION.md:277	apparatus	now	Regel 4	…γώ εἰμι hat übersetzbaren semantischen Inhalt. Schwelle der Regel 4 nicht überschritten. |
 S9	tier-jargon	de	john	content/de/john/INTRODUCTION.md:281	apparatus	now	Stufe 2	… | Wortspiele Annotieren | Wichtige griechische Begriffe in Stufe 2 annotiert, wo semantisches Feld oder Wortspiel bedeutsam is…
 S9	tier-jargon	de	john	content/de/john/INTRODUCTION.md:282	apparatus	now	Stufe 2	…s 1:18 μονογενὴς θεός vs. μονογενὴς υἱός, Johannes 1:34) in Stufe 2 vermerkt, ohne stillschweigende Übernahme. |
@@ -15558,7 +15300,7 @@ S9	rule-ref	de	john	content/de/john/INTRODUCTION.md:309	apparatus	now	Regel 22	�
 S9	ai-provenance	de	john	content/de/john/INTRODUCTION.md:380	apparatus	now	Claude Opus 4.6	> **Redaktionelle Herkunft:** Erstellt von Claude Opus 4.6 (1M Kontext) am 27.04.2026. Noch nicht überprüft. Diese Ein…
 S9	ai-provenance	de	john	content/de/john/INTRODUCTION.md:380	apparatus	now	Erstellt von	> **Redaktionelle Herkunft:** Erstellt von Claude Opus 4.6 (1M Kontext) am 27.04.2026. Noch nicht über…
 S9	rule-ref	de	john	content/de/john/INTRODUCTION.md:380	apparatus	now	Regel 29	…rovisorische wissenschaftliche Ressource, geregelt durch TT-Regel 29. Alle Aussagen tragen doppelte Kennzeichnungen; keine Aussa…
-S9	rule-ref	de	john	content/de/john/PEOPLE.md:6	front	no	Regel 29	**Regelwerk:** v3.3 (Regel 29 regelt diese Datei)
+S9	rule-ref	de	john	content/de/john/PEOPLE.md:6	front	no	Regel 29	**Regelwerk:** v3.4 (Regel 29 regelt diese Datei)
 S9	rule-ref	de	john	content/de/john/PEOPLE.md:11	front	no	Regel 29	…et. Dieses Material ist kontextuelles Studienmaterial gemäß Regel 29.
 S9	editorial-id	de	john	content/de/john/PEOPLE.md:15	front	no	J-006	…hudim-Gruppeneintrag folgt der Ioudaioi-Richtlinie (Eintrag J-006) und verwendet Standard-PersonEntry-Felder mit der 3-Sinn-A…
 S9	repo-path	de	john	content/de/john/PEOPLE.md:15	front	no	RULES-GS.md	…Transliterationen folgen der gesperrten Eigennamen-Tabelle (RULES-GS.md).
@@ -15591,21 +15333,21 @@ S9	rule-ref	de	john	content/de/john/PEOPLE.md:238	apparatus	now	Regel 29	… ist
 S9	ai-provenance	de	john	content/de/john/PEOPLE.md:238	apparatus	now	Verfasst von	> **Redaktionelle Herkunft:** Verfasst von Claude Opus 4.7 (1M-Kontext) am 14.05.2026, Phase-10-Kanari…
 S9	repo-path	de	john	content/de/john/PEOPLE.md:238	apparatus	now	matthew/PEOPLE.md	…TT geregelt wird. Querverweise von Yochanan und Yeshua auf `matthew/PEOPLE.md` verlinken auf die bestehenden Phase-6.6G-Einträge, statt I…
 S9	repo-path	de	john	content/de/john/study/CHAPTER-1-CONTEXT.md:12	front	no	de/john/CHAPTER-1.md	**Begleiter zu:** `de/john/CHAPTER-1.md` (Transparente Ausgabe)
-S9	rule-ref	de	john	content/de/john/study/CHAPTER-1-CONTEXT.md:13	front	no	Regel 29	**Regelwerk:** v3.3 (Regel 29 regelt diese Datei)
+S9	rule-ref	de	john	content/de/john/study/CHAPTER-1-CONTEXT.md:13	front	no	Regel 29	**Regelwerk:** v3.4 (Regel 29 regelt diese Datei)
 S9	rule-ref	de	john	content/de/john/study/CHAPTER-1-CONTEXT.md:124	apparatus	now	Regel 4	… verstarkt die Formel weiter. Die TT transliteriert *amen* (Regel 4 greift — das Wort ist in die Zielsprachen ubergegangen) und…
 S9	ai-provenance	de	john	content/de/john/study/CHAPTER-1-CONTEXT.md:383	apparatus	now	Claude Opus 4.6	- Erstellt von: Claude Opus 4.6 (KI-Assistent)
 S9	ai-provenance	de	john	content/de/john/study/CHAPTER-1-CONTEXT.md:383	apparatus	now	Erstellt von	- Erstellt von: Claude Opus 4.6 (KI-Assistent)
 S9	repo-path	de	john	content/de/john/study/CHAPTER-2-CONTEXT.md:12	front	no	de/john/CHAPTER-2.md	**Begleitung zu:** `de/john/CHAPTER-2.md` (Transparente Ausgabe)
-S9	rule-ref	de	john	content/de/john/study/CHAPTER-2-CONTEXT.md:13	front	no	Regel 29	**Regelwerk:** v3.3 (Regel 29 regelt diese Datei)
+S9	rule-ref	de	john	content/de/john/study/CHAPTER-2-CONTEXT.md:13	front	no	Regel 29	**Regelwerk:** v3.4 (Regel 29 regelt diese Datei)
 S9	repo-path	de	john	content/de/john/study/CHAPTER-2-CONTEXT.md:151	apparatus	now	de/john/study/CHAPTER-1-CONTEXT.md	…gion, Nachbarvölker) ist im Begleitmaterial zu Johannes 1 (`de/john/study/CHAPTER-1-CONTEXT.md`) verfügbar. Die folgenden Einträge befassen sich mit den i…
 S9	ai-provenance	de	john	content/de/john/study/CHAPTER-2-CONTEXT.md:248	apparatus	now	Claude Opus 4.6	- Erstellt von: Claude Opus 4.6 (KI-Assistent)
 S9	ai-provenance	de	john	content/de/john/study/CHAPTER-2-CONTEXT.md:248	apparatus	now	Erstellt von	- Erstellt von: Claude Opus 4.6 (KI-Assistent)
 S9	repo-path	de	john	content/de/john/study/CHAPTER-3-CONTEXT.md:12	front	no	de/john/CHAPTER-3.md	**Begleitung zu:** `de/john/CHAPTER-3.md` (Transparente Ausgabe)
-S9	rule-ref	de	john	content/de/john/study/CHAPTER-3-CONTEXT.md:13	front	no	Regel 29	**Regelwerk:** v3.3 (Regel 29 regelt diese Datei)
+S9	rule-ref	de	john	content/de/john/study/CHAPTER-3-CONTEXT.md:13	front	no	Regel 29	**Regelwerk:** v3.4 (Regel 29 regelt diese Datei)
 S9	repo-path	de	john	content/de/john/study/CHAPTER-3-CONTEXT.md:143	apparatus	now	de/john/study/CHAPTER-1-CONTEXT.md	…gion, Nachbarvölker) ist im Begleitmaterial zu Johannes 1 (`de/john/study/CHAPTER-1-CONTEXT.md`) verfügbar. Die folgenden Einträge befassen sich mit den i…
 S9	ai-provenance	de	john	content/de/john/study/CHAPTER-3-CONTEXT.md:229	apparatus	now	Claude Opus 4.6	- Erstellt von: Claude Opus 4.6 (KI-Assistent)
 S9	ai-provenance	de	john	content/de/john/study/CHAPTER-3-CONTEXT.md:229	apparatus	now	Erstellt von	- Erstellt von: Claude Opus 4.6 (KI-Assistent)
-S9	rule-ref	de	john	content/de/john/study/CHAPTER-3-PROPHECY.md:8	front	no	Regel 29	**Regelwerk:** v3.3 (Regel 29 regelt diese Datei)
+S9	rule-ref	de	john	content/de/john/study/CHAPTER-3-PROPHECY.md:8	front	no	Regel 29	**Regelwerk:** v3.4 (Regel 29 regelt diese Datei)
 S9	repo-path	de	john	content/de/john/study/CHAPTER-3-PROPHECY.md:36	apparatus	now	content/de/john/study/CHAPTER-3-CONTEXT.md	| `content/de/john/study/CHAPTER-3-CONTEXT.md` §A6, §B2 | INTERN | Querverweis für vollständige lexikalis…
 S9	ai-provenance	de	john	content/de/john/study/CHAPTER-3-PROPHECY.md:41	apparatus	now	Claude Opus 4.7	- Verfasst von: Claude Opus 4.7 (KI-Assistent)
 S9	ai-provenance	de	john	content/de/john/study/CHAPTER-3-PROPHECY.md:41	apparatus	now	Verfasst von	- Verfasst von: Claude Opus 4.7 (KI-Assistent)
@@ -15941,7 +15683,7 @@ S9	rule-ref	de	matthew	content/de/matthew/CHAPTER-3.md:11	front	no	Regel 25	**Go
 S9	tier-jargon	de	matthew	content/de/matthew/CHAPTER-3.md:11	front	no	Stufe 2	…ben, wenn alttestamentliche JHWH-Stellen zitiert werden; in Stufe 2 vermerkt.
 S9	rule-ref	de	matthew	content/de/matthew/CHAPTER-3.md:12	front	now	Regel 28	**Status:** provisorisch — ausstehende Begutachtung (Regel 28)
 S9	rule-ref	de	matthew	content/de/matthew/CHAPTER-3.md:325	apparatus	now	Regel 2	…st | Entspricht dem hebräischen *ruach*. Schrägstrich gemäß Regel 2. |
-S9	rule-ref	de	matthew	content/de/matthew/CONTEXT.md:6	front	no	Regel 29	**Regelwerk:** v3.3 (Regel 29 regelt diese Datei)
+S9	rule-ref	de	matthew	content/de/matthew/CONTEXT.md:6	front	no	Regel 29	**Regelwerk:** v3.4 (Regel 29 regelt diese Datei)
 S9	editorial-id	de	matthew	content/de/matthew/CONTEXT.md:22	apparatus	now	M-001	… der selbst das Mittel ist. Der Redaktionsprotokoll-Eintrag M-001 (Erfüllungsformel-Politik) kodifiziert sechs Formel-Typen; …
 S9	editorial-log-ref	de	matthew	content/de/matthew/CONTEXT.md:22	apparatus	now	Redaktionsprotokoll	…nen formelhaften Rahmen ein, der selbst das Mittel ist. Der Redaktionsprotokoll-Eintrag M-001 (Erfüllungsformel-Politik) kodifiziert sechs …
 S9	tier-jargon	de	matthew	content/de/matthew/CONTEXT.md:26	apparatus	now	Tier-2	…itat präsentiert. Die TT bewahrt die Modifikation mit einer Tier-2-Note, die beide Quellverse markiert.
@@ -15962,7 +15704,7 @@ S9	editorial-id	de	matthew	content/de/matthew/CONTEXT.md:95	apparatus	now	M-004	
 S9	repo-path	de	matthew	content/de/matthew/CONTEXT.md:95	apparatus	now	docs/editorial-log/matthew.md	**Quelle:** `docs/editorial-log/matthew.md` Eintrag M-004 (*angelos kyriou* Formelhafte-Erzählungs-Kla…
 S9	editorial-log-ref	de	matthew	content/de/matthew/CONTEXT.md:95	apparatus	now	editorial-log	**Quelle:** `docs/editorial-log/matthew.md` Eintrag M-004 (*angelos kyriou* Formelhafte-Erz…
 S9	editorial-id	de	matthew	content/de/matthew/CONTEXT.md:116	apparatus	now	M-001	…het sagt dies. Das unaufgelöste Zitat ist selbst die Daten (M-001 klassifiziert es als Typ 5 der sechs Formeltypen). Die TT b…
-S9	rule-ref	de	matthew	content/de/matthew/INTRODUCTION.md:13	front	no	Regel 29	**Regelwerk:** v3.3 (Regel 29 regelt diese Datei)
+S9	rule-ref	de	matthew	content/de/matthew/INTRODUCTION.md:13	front	no	Regel 29	**Regelwerk:** v3.4 (Regel 29 regelt diese Datei)
 S9	repo-path	de	matthew	content/de/matthew/INTRODUCTION.md:312	apparatus	now	RULES-GS.md	…ριος (*kyrios*). Gemäß der TT-Gottesname-Politik (Option C, RULES-GS.md):
 S9	rule-ref	de	matthew	content/de/matthew/INTRODUCTION.md:317	apparatus	now	Regel 13	- Mehrdeutige Fälle werden gemäß Regel 13 gekennzeichnet.
 S9	rule-ref	de	matthew	content/de/matthew/INTRODUCTION.md:330	apparatus	now	Regel 4	…immelreich" oder „Gottes Reich" paraphrasiert. Schwelle der Regel 4 nicht überschritten für βασιλεία. |
@@ -15972,7 +15714,7 @@ S9	tier-jargon	de	matthew	content/de/matthew/INTRODUCTION.md:336	apparatus	now	S
 S9	ai-provenance	de	matthew	content/de/matthew/INTRODUCTION.md:358	apparatus	now	Claude Opus 4.6	> **Redaktionelle Herkunft:** Entworfen von Claude Opus 4.6 (1M Kontext) am 2026-04-27. Noch nicht begutachtet. Diese E…
 S9	ai-provenance	de	matthew	content/de/matthew/INTRODUCTION.md:358	apparatus	now	Entworfen von	> **Redaktionelle Herkunft:** Entworfen von Claude Opus 4.6 (1M Kontext) am 2026-04-27. Noch nicht begu…
 S9	rule-ref	de	matthew	content/de/matthew/INTRODUCTION.md:358	apparatus	now	Regel 29	…rovisorische wissenschaftliche Ressource, geregelt durch TT-Regel 29. Alle Behauptungen tragen doppelte Kennzeichnungen; keine B…
-S9	rule-ref	de	matthew	content/de/matthew/PEOPLE.md:6	front	no	Regel 29	**Regelwerk:** v3.3 (Regel 29 regelt diese Datei)
+S9	rule-ref	de	matthew	content/de/matthew/PEOPLE.md:6	front	no	Regel 29	**Regelwerk:** v3.4 (Regel 29 regelt diese Datei)
 S9	rule-ref	de	matthew	content/de/matthew/PEOPLE.md:11	front	no	Regel 29	…et. Dieses Material ist kontextuelles Studienmaterial gemäß Regel 29.
 S9	repo-path	de	matthew	content/de/matthew/PEOPLE.md:15	front	no	RULES-GS.md	…onen folgen der gesperrten Eigennamentabelle (RULES-HB.md / RULES-GS.md).
 S9	repo-path	de	matthew	content/de/matthew/PEOPLE.md:15	front	no	RULES-HB.md	… Transliterationen folgen der gesperrten Eigennamentabelle (RULES-HB.md / RULES-GS.md).
@@ -15993,12 +15735,12 @@ S9	ai-provenance	de	matthew	content/de/matthew/PEOPLE.md:280	apparatus	now	Entwo
 S9	rule-ref	de	matthew	content/de/matthew/PEOPLE.md:280	apparatus	now	Regel 29	…rovisorische wissenschaftliche Ressource, geregelt durch TT-Regel 29. Querverweise auf genesis/PEOPLE.md verlinken zu bestehende…
 S9	repo-path	de	matthew	content/de/matthew/PEOPLE.md:280	apparatus	now	genesis/PEOPLE.md	…che Ressource, geregelt durch TT-Regel 29. Querverweise auf genesis/PEOPLE.md verlinken zu bestehenden Einträgen, statt Inhalte zu dupliz…
 S9	repo-path	de	matthew	content/de/matthew/study/CHAPTER-1-CONTEXT.md:12	front	no	de/matthew/CHAPTER-1.md	**Begleitung zu:** `de/matthew/CHAPTER-1.md` (Transparente Ausgabe)
-S9	rule-ref	de	matthew	content/de/matthew/study/CHAPTER-1-CONTEXT.md:13	front	no	Regel 29	**Regelwerk:** v3.3 (Regel 29 regelt diese Datei)
+S9	rule-ref	de	matthew	content/de/matthew/study/CHAPTER-1-CONTEXT.md:13	front	no	Regel 29	**Regelwerk:** v3.4 (Regel 29 regelt diese Datei)
 S9	repo-path	de	matthew	content/de/matthew/study/CHAPTER-1-CONTEXT.md:232	apparatus	now	de/john/study/CHAPTER-1-CONTEXT.md	… historischen Zeitraum; das Begleitmaterial zu Johannes 1 (`de/john/study/CHAPTER-1-CONTEXT.md`) bietet den vollständigen Kontext in zwei Szenarien mit ze…
 S9	ai-provenance	de	matthew	content/de/matthew/study/CHAPTER-1-CONTEXT.md:305	apparatus	now	Anthropic	- Entworfen von: KI (Claude, Anthropic)
 S9	ai-provenance	de	matthew	content/de/matthew/study/CHAPTER-1-CONTEXT.md:305	apparatus	now	Claude	- Entworfen von: KI (Claude, Anthropic)
 S9	ai-provenance	de	matthew	content/de/matthew/study/CHAPTER-1-CONTEXT.md:305	apparatus	now	Entworfen von	- Entworfen von: KI (Claude, Anthropic)
-S9	rule-ref	de	matthew	content/de/matthew/study/CHAPTER-1-PROPHECY.md:8	front	no	Regel 29	**Regelwerk:** v3.3 (Regel 29 regelt diese Datei)
+S9	rule-ref	de	matthew	content/de/matthew/study/CHAPTER-1-PROPHECY.md:8	front	no	Regel 29	**Regelwerk:** v3.4 (Regel 29 regelt diese Datei)
 S9	rule-ref	de	matthew	content/de/matthew/study/CHAPTER-1-PROPHECY.md:18	apparatus	now	Regel 2	…e TT gibt die Schrägstrich-Form „Jungfrau/junge Frau" gemäß Regel 2 (Mehrdeutigkeitsbewahrung) wieder.
 S9	editorial-id	de	matthew	content/de/matthew/study/CHAPTER-1-PROPHECY.md:20	apparatus	now	M-001	…füllt würde") — eine direkte Erfüllungsformel gemäß Eintrag M-001 §Direkt. Matthäus zitiert den LXX-Text (*parthenos*) anstel…
 S9	editorial-id	de	matthew	content/de/matthew/study/CHAPTER-1-PROPHECY.md:20	apparatus	now	M-002	… Anspruchs. → Siehe `docs/editorial-log/matthew.md` Eintrag M-002 für die vollständige Schrägstrich-Politik *parthenos*/*alma…
@@ -16013,12 +15755,12 @@ S9	editorial-log-ref	de	matthew	content/de/matthew/study/CHAPTER-1-PROPHECY.md:3
 S9	ai-provenance	de	matthew	content/de/matthew/study/CHAPTER-1-PROPHECY.md:42	apparatus	now	Claude Opus 4.7	- Verfasst von: Claude Opus 4.7 (KI-Assistent)
 S9	ai-provenance	de	matthew	content/de/matthew/study/CHAPTER-1-PROPHECY.md:42	apparatus	now	Verfasst von	- Verfasst von: Claude Opus 4.7 (KI-Assistent)
 S9	repo-path	de	matthew	content/de/matthew/study/CHAPTER-2-CONTEXT.md:12	front	no	de/matthew/CHAPTER-2.md	**Begleitung zu:** `de/matthew/CHAPTER-2.md` (Transparente Ausgabe)
-S9	rule-ref	de	matthew	content/de/matthew/study/CHAPTER-2-CONTEXT.md:13	front	no	Regel 29	**Regelwerk:** v3.3 (Regel 29 regelt diese Datei)
+S9	rule-ref	de	matthew	content/de/matthew/study/CHAPTER-2-CONTEXT.md:13	front	no	Regel 29	**Regelwerk:** v3.4 (Regel 29 regelt diese Datei)
 S9	repo-path	de	matthew	content/de/matthew/study/CHAPTER-2-CONTEXT.md:197	apparatus	now	de/john/study/CHAPTER-1-CONTEXT.md	… historischen Zeitraum; das Begleitmaterial zu Johannes 1 (`de/john/study/CHAPTER-1-CONTEXT.md`) bietet den vollständigen Kontext in zwei Szenarien mit ze…
 S9	ai-provenance	de	matthew	content/de/matthew/study/CHAPTER-2-CONTEXT.md:277	apparatus	now	Anthropic	- Entworfen von: KI (Claude, Anthropic)
 S9	ai-provenance	de	matthew	content/de/matthew/study/CHAPTER-2-CONTEXT.md:277	apparatus	now	Claude	- Entworfen von: KI (Claude, Anthropic)
 S9	ai-provenance	de	matthew	content/de/matthew/study/CHAPTER-2-CONTEXT.md:277	apparatus	now	Entworfen von	- Entworfen von: KI (Claude, Anthropic)
-S9	rule-ref	de	matthew	content/de/matthew/study/CHAPTER-2-PROPHECY.md:8	front	no	Regel 29	**Regelwerk:** v3.3 (Regel 29 regelt diese Datei)
+S9	rule-ref	de	matthew	content/de/matthew/study/CHAPTER-2-PROPHECY.md:8	front	no	Regel 29	**Regelwerk:** v3.4 (Regel 29 regelt diese Datei)
 S9	editorial-id	de	matthew	content/de/matthew/study/CHAPTER-2-PROPHECY.md:20	apparatus	now	M-001	**Erfüllungsanmerkungen:** Gemäß Eintrag M-001 §Zusammengesetzt verbindet Matthäus zwei unterschiedliche A…
 S9	editorial-id	de	matthew	content/de/matthew/study/CHAPTER-2-PROPHECY.md:20	apparatus	now	M-001	… erfüllen). → Siehe `docs/editorial-log/matthew.md` Eintrag M-001 §Zusammengesetzt für die schichtweise Textanalyse (sichere …
 S9	repo-path	de	matthew	content/de/matthew/study/CHAPTER-2-PROPHECY.md:20	apparatus	now	docs/editorial-log/matthew.md	…önnten im Prinzip dieselbe Prophezeiung erfüllen). → Siehe `docs/editorial-log/matthew.md` Eintrag M-001 §Zusammengesetzt für die schichtweise Textan…
@@ -16043,7 +15785,7 @@ S9	repo-path	de	matthew	content/de/matthew/study/CHAPTER-2-PROPHECY.md:81	appara
 S9	ai-provenance	de	matthew	content/de/matthew/study/CHAPTER-2-PROPHECY.md:86	apparatus	now	Claude Opus 4.7	- Verfasst von: Claude Opus 4.7 (KI-Assistent)
 S9	ai-provenance	de	matthew	content/de/matthew/study/CHAPTER-2-PROPHECY.md:86	apparatus	now	Verfasst von	- Verfasst von: Claude Opus 4.7 (KI-Assistent)
 S9	repo-path	de	matthew	content/de/matthew/study/CHAPTER-3-CONTEXT.md:12	front	no	de/matthew/CHAPTER-3.md	**Begleitung zu:** `de/matthew/CHAPTER-3.md` (Transparente Ausgabe)
-S9	rule-ref	de	matthew	content/de/matthew/study/CHAPTER-3-CONTEXT.md:13	front	no	Regel 29	**Regelwerk:** v3.3 (Regel 29 regelt diese Datei)
+S9	rule-ref	de	matthew	content/de/matthew/study/CHAPTER-3-CONTEXT.md:13	front	no	Regel 29	**Regelwerk:** v3.4 (Regel 29 regelt diese Datei)
 S9	repo-path	de	matthew	content/de/matthew/study/CHAPTER-3-CONTEXT.md:226	apparatus	now	de/john/study/CHAPTER-1-CONTEXT.md	…völker) siehe das Johannes-1-Begleitmaterial (Abschnitt I, `de/john/study/CHAPTER-1-CONTEXT.md`). Die folgenden Einträge behandeln die spezifischen Umstän…
 S9	ai-provenance	de	matthew	content/de/matthew/study/CHAPTER-3-CONTEXT.md:311	apparatus	now	Anthropic	- Entworfen von: KI (Claude, Anthropic)
 S9	ai-provenance	de	matthew	content/de/matthew/study/CHAPTER-3-CONTEXT.md:311	apparatus	now	Claude	- Entworfen von: KI (Claude, Anthropic)
@@ -16836,7 +16578,7 @@ S9	rule-ref	en	genesis	content/en/genesis/CHAPTER-9.md:11	front	no	Rule 25	**Div
 S9	rule-ref	en	genesis	content/en/genesis/CHAPTER-9.md:12	front	now	Rule 28	**Status:** provisional — pending reviewer sign-off (Rule 28)
 S9	rule-ref	en	genesis	content/en/genesis/CHAPTER-9.md:308	note	now	Rule 2	…ect and sexual violation (see companion for full analysis). Rule 2: the text says "saw." We translate "saw."
 S9	tier-jargon	en	genesis	content/en/genesis/CHAPTER-9.md:349	note	now	TIER 2	> 🟡 **TIER 2 — RECEPTION HISTORY**
-S9	rule-ref	en	genesis	content/en/genesis/CONTEXT.md:6	front	no	Rule 29	**Ruleset:** v3.3 (Rule 29 governs this file)
+S9	rule-ref	en	genesis	content/en/genesis/CONTEXT.md:6	front	no	Rule 29	**Ruleset:** v3.4 (Rule 29 governs this file)
 S9	editorial-log-ref	en	genesis	content/en/genesis/CONTEXT.md:24	apparatus	now	editorial log	…e as a recurring signal. The `transliteration-decisions.md` editorial log records the project-level decision to keep *toledot* visibl…
 S9	repo-path	en	genesis	content/en/genesis/CONTEXT.md:24	apparatus	now	transliteration-decisions.md	…he reader is meant to recognize as a recurring signal. The `transliteration-decisions.md` editorial log records the project-level decision to keep *…
 S9	editorial-log-ref	en	genesis	content/en/genesis/CONTEXT.md:37	apparatus	now	editorial-log	… — appears in the text as a deliberate dialogue marker; the editorial-log entry on Genesis 3 explicitly mandates that this distinctio…
@@ -16852,13 +16594,13 @@ S9	tier-jargon	en	genesis	content/en/genesis/CONTEXT.md:120	apparatus	now	Tier 2
 S9	process-word	en	genesis	content/en/genesis/CONTEXT.md:153	apparatus	now	Phase 8	The Phase 8 Section I work tracks the ethnogenesis schema (gen/9 I-A10)…
 S9	tier-jargon	en	genesis	content/en/genesis/CONTEXT.md:166	apparatus	now	Tier 2	… smoothing it to a singular ("I will make humans") and adds Tier 2 notes flagging the interpretive options.
 S9	editorial-log-ref	en	genesis	content/en/genesis/CONTEXT.md:168	apparatus	now	editorial-log	The editorial-log records a specific cross-chapter decision: "Added NARRATIVE…
-S9	rule-ref	en	genesis	content/en/genesis/INTRODUCTION.md:13	front	no	Rule 29	**Ruleset:** v3.3 (Rule 29 governs this file)
+S9	rule-ref	en	genesis	content/en/genesis/INTRODUCTION.md:13	front	no	Rule 29	**Ruleset:** v3.4 (Rule 29 governs this file)
 S9	ai-provenance	en	genesis	content/en/genesis/INTRODUCTION.md:433	apparatus	now	(1M context)	> **Editorial provenance:** Drafted by Claude Opus 4.6 (1M context) on 2026-04-28. Not yet reviewed. This introduction is a pro…
 S9	ai-provenance	en	genesis	content/en/genesis/INTRODUCTION.md:433	apparatus	now	Claude Opus 4.6	> **Editorial provenance:** Drafted by Claude Opus 4.6 (1M context) on 2026-04-28. Not yet reviewed. This introduc…
 S9	ai-provenance	en	genesis	content/en/genesis/INTRODUCTION.md:433	apparatus	now	Drafted by	> **Editorial provenance:** Drafted by Claude Opus 4.6 (1M context) on 2026-04-28. Not yet reviewe…
 S9	ai-provenance	en	genesis	content/en/genesis/INTRODUCTION.md:433	apparatus	now	Not yet reviewed	…e:** Drafted by Claude Opus 4.6 (1M context) on 2026-04-28. Not yet reviewed. This introduction is a provisional scholarly resource gove…
 S9	rule-ref	en	genesis	content/en/genesis/INTRODUCTION.md:433	apparatus	now	Rule 29	…oduction is a provisional scholarly resource governed by TT Rule 29. All claims carry dual labels; no claim should be read as t…
-S9	rule-ref	en	genesis	content/en/genesis/PEOPLE.md:5	front	no	Rule 29	**Ruleset:** v3.3 (Rule 29 governs this file)
+S9	rule-ref	en	genesis	content/en/genesis/PEOPLE.md:5	front	no	Rule 29	**Ruleset:** v3.4 (Rule 29 governs this file)
 S9	rule-ref	en	genesis	content/en/genesis/PEOPLE.md:10	front	no	Rule 29	…ence. This material is contextual study content governed by Rule 29.
 S9	repo-path	en	genesis	content/en/genesis/PEOPLE.md:12	front	no	RULES-GS.md	…erations follow the locked proper-name table (RULES-HB.md / RULES-GS.md).
 S9	repo-path	en	genesis	content/en/genesis/PEOPLE.md:12	front	no	RULES-HB.md	…ted." Transliterations follow the locked proper-name table (RULES-HB.md / RULES-GS.md).
@@ -16877,7 +16619,7 @@ S9	ai-provenance	en	genesis	content/en/genesis/study/CHAPTER-1-CONTEXT.md:745	ap
 S9	ai-provenance	en	genesis	content/en/genesis/study/CHAPTER-1-CONTEXT.md:745	apparatus	now	Drafted by	- Drafted by: Claude Opus 4.6 (AI assistant)
 S9	rule-ref	en	genesis	content/en/genesis/study/CHAPTER-1-CONTEXT.md:748	apparatus	now	Rule 29	- Rule 29 compliance: pending review
 S9	repo-path	en	genesis	content/en/genesis/study/CHAPTER-10-CONTEXT.md:12	front	no	en/genesis/CHAPTER-10.md	**Companion to:** `en/genesis/CHAPTER-10.md` (Transparent Edition)
-S9	rule-ref	en	genesis	content/en/genesis/study/CHAPTER-10-CONTEXT.md:13	front	no	Rule 29	**Ruleset:** v3.3 (Rule 29 governs this file)
+S9	rule-ref	en	genesis	content/en/genesis/study/CHAPTER-10-CONTEXT.md:13	front	no	Rule 29	**Ruleset:** v3.4 (Rule 29 governs this file)
 S9	repo-path	en	genesis	content/en/genesis/study/CHAPTER-10-CONTEXT.md:137	apparatus	now	RULES-CORE.md	…onomy of modern peoples. The TT's ethnogenesis prohibition (RULES-CORE.md) applies: the text must not be mapped onto modern racial, e…
 S9	repo-path	en	genesis	content/en/genesis/study/CHAPTER-10-CONTEXT.md:164	apparatus	now	en/genesis/study/CHAPTER-1-CONTEXT.md	…ghboring Peoples), see the Genesis 1 companion (Section I, `en/genesis/study/CHAPTER-1-CONTEXT.md`). The entries below address the historical circumstances s…
 S9	ai-provenance	en	genesis	content/en/genesis/study/CHAPTER-10-CONTEXT.md:255	apparatus	now	AI assistant	- Drafted by: Claude Opus 4.6 (AI assistant)
@@ -16893,14 +16635,14 @@ S9	ai-provenance	en	genesis	content/en/genesis/study/CHAPTER-11-CONTEXT.md:289	a
 S9	ai-provenance	en	genesis	content/en/genesis/study/CHAPTER-11-CONTEXT.md:289	apparatus	now	Claude Opus 4.6	- Drafted by: Claude Opus 4.6 (AI assistant)
 S9	ai-provenance	en	genesis	content/en/genesis/study/CHAPTER-11-CONTEXT.md:289	apparatus	now	Drafted by	- Drafted by: Claude Opus 4.6 (AI assistant)
 S9	repo-path	en	genesis	content/en/genesis/study/CHAPTER-12-CONTEXT.md:12	front	no	en/genesis/CHAPTER-12.md	**Companion to:** `en/genesis/CHAPTER-12.md` (Transparent Edition)
-S9	rule-ref	en	genesis	content/en/genesis/study/CHAPTER-12-CONTEXT.md:13	front	no	Rule 29	**Ruleset:** v3.3 (Rule 29 governs this file)
+S9	rule-ref	en	genesis	content/en/genesis/study/CHAPTER-12-CONTEXT.md:13	front	no	Rule 29	**Ruleset:** v3.4 (Rule 29 governs this file)
 S9	repo-path	en	genesis	content/en/genesis/study/CHAPTER-12-CONTEXT.md:186	apparatus	now	en/genesis/study/CHAPTER-1-CONTEXT.md	…ghboring Peoples), see the Genesis 1 companion (Section I, `en/genesis/study/CHAPTER-1-CONTEXT.md`). The entries below address the historical circumstances s…
 S9	ai-provenance	en	genesis	content/en/genesis/study/CHAPTER-12-CONTEXT.md:283	apparatus	now	AI assistant	- Drafted by: Claude Opus 4.6 (AI assistant)
 S9	ai-provenance	en	genesis	content/en/genesis/study/CHAPTER-12-CONTEXT.md:283	apparatus	now	Claude Opus 4.6	- Drafted by: Claude Opus 4.6 (AI assistant)
 S9	ai-provenance	en	genesis	content/en/genesis/study/CHAPTER-12-CONTEXT.md:283	apparatus	now	Drafted by	- Drafted by: Claude Opus 4.6 (AI assistant)
-S9	rule-ref	en	genesis	content/en/genesis/study/CHAPTER-12-PROPHECY.md:8	front	no	Rule 29	**Ruleset:** v3.3 (Rule 29 governs this file)
+S9	rule-ref	en	genesis	content/en/genesis/study/CHAPTER-12-PROPHECY.md:8	front	no	Rule 29	**Ruleset:** v3.4 (Rule 29 governs this file)
 S9	repo-path	en	genesis	content/en/genesis/study/CHAPTER-2-CONTEXT.md:12	front	no	en/genesis/CHAPTER-2.md	**Companion to:** `en/genesis/CHAPTER-2.md` (Transparent Edition)
-S9	rule-ref	en	genesis	content/en/genesis/study/CHAPTER-2-CONTEXT.md:13	front	no	Rule 29	**Ruleset:** v3.3 (Rule 29 governs this file)
+S9	rule-ref	en	genesis	content/en/genesis/study/CHAPTER-2-CONTEXT.md:13	front	no	Rule 29	**Ruleset:** v3.4 (Rule 29 governs this file)
 S9	rule-ref	en	genesis	content/en/genesis/study/CHAPTER-2-CONTEXT.md:23	apparatus	now	Rule 22	…to avoid the theological awkwardness. The TT follows MT per Rule 22 (translate base text; note variants, don't silently adopt t…
 S9	rule-ref	en	genesis	content/en/genesis/study/CHAPTER-2-CONTEXT.md:33	apparatus	now	Rule 25	…TT renders this as the consonants YHWH (not "the LORD") per Rule 25 Option A, making the divine-name shift visible. Most transl…
 S9	rule-ref	en	genesis	content/en/genesis/study/CHAPTER-2-CONTEXT.md:70	apparatus	now	Rule 2	…iblical usage. The TT preserves "side/rib" with a slash per Rule 2.
@@ -16910,7 +16652,7 @@ S9	ai-provenance	en	genesis	content/en/genesis/study/CHAPTER-2-CONTEXT.md:425	ap
 S9	ai-provenance	en	genesis	content/en/genesis/study/CHAPTER-2-CONTEXT.md:425	apparatus	now	Claude Opus 4.6	- Drafted by: Claude Opus 4.6 (AI assistant)
 S9	ai-provenance	en	genesis	content/en/genesis/study/CHAPTER-2-CONTEXT.md:425	apparatus	now	Drafted by	- Drafted by: Claude Opus 4.6 (AI assistant)
 S9	repo-path	en	genesis	content/en/genesis/study/CHAPTER-3-CONTEXT.md:12	front	no	en/genesis/CHAPTER-3.md	**Companion to:** `en/genesis/CHAPTER-3.md` (Transparent Edition)
-S9	rule-ref	en	genesis	content/en/genesis/study/CHAPTER-3-CONTEXT.md:13	front	no	Rule 29	**Ruleset:** v3.3 (Rule 29 governs this file)
+S9	rule-ref	en	genesis	content/en/genesis/study/CHAPTER-3-CONTEXT.md:13	front	no	Rule 29	**Ruleset:** v3.4 (Rule 29 governs this file)
 S9	rule-ref	en	genesis	content/en/genesis/study/CHAPTER-3-CONTEXT.md:48	apparatus	now	Rule 1	… "voice" is more natural. The TT uses "voice" consistently (Rule 1) with a note at 3:8 flagging the broader range.
 S9	rule-ref	en	genesis	content/en/genesis/study/CHAPTER-3-CONTEXT.md:112	apparatus	now	Rule 12	…reeze" and inferring evening). The TT renders literally per Rule 12 (no false precision). The Hebrew says only "wind of the day…
 S9	rule-ref	en	genesis	content/en/genesis/study/CHAPTER-3-CONTEXT.md:194	apparatus	now	Rule 4	… and does not transliterate *nachash* (it doesn't cross the Rule 4 threshold).
@@ -16919,9 +16661,9 @@ S9	repo-path	en	genesis	content/en/genesis/study/CHAPTER-3-CONTEXT.md:334	appara
 S9	ai-provenance	en	genesis	content/en/genesis/study/CHAPTER-3-CONTEXT.md:441	apparatus	now	AI assistant	- Drafted by: Claude Opus 4.6 (AI assistant)
 S9	ai-provenance	en	genesis	content/en/genesis/study/CHAPTER-3-CONTEXT.md:441	apparatus	now	Claude Opus 4.6	- Drafted by: Claude Opus 4.6 (AI assistant)
 S9	ai-provenance	en	genesis	content/en/genesis/study/CHAPTER-3-CONTEXT.md:441	apparatus	now	Drafted by	- Drafted by: Claude Opus 4.6 (AI assistant)
-S9	rule-ref	en	genesis	content/en/genesis/study/CHAPTER-3-PROPHECY.md:8	front	no	Rule 29	**Ruleset:** v3.3 (Rule 29 governs this file)
+S9	rule-ref	en	genesis	content/en/genesis/study/CHAPTER-3-PROPHECY.md:8	front	no	Rule 29	**Ruleset:** v3.4 (Rule 29 governs this file)
 S9	repo-path	en	genesis	content/en/genesis/study/CHAPTER-4-CONTEXT.md:12	front	no	en/genesis/CHAPTER-4.md	**Companion to:** `en/genesis/CHAPTER-4.md` (Transparent Edition)
-S9	rule-ref	en	genesis	content/en/genesis/study/CHAPTER-4-CONTEXT.md:13	front	no	Rule 29	**Ruleset:** v3.3 (Rule 29 governs this file)
+S9	rule-ref	en	genesis	content/en/genesis/study/CHAPTER-4-CONTEXT.md:13	front	no	Rule 29	**Ruleset:** v3.4 (Rule 29 governs this file)
 S9	rule-ref	en	genesis	content/en/genesis/study/CHAPTER-4-CONTEXT.md:44	apparatus	now	Rule 1	…he TT preserves the same slash rendering in both verses per Rule 1.
 S9	rule-ref	en	genesis	content/en/genesis/study/CHAPTER-4-CONTEXT.md:54	apparatus	now	Rule 22	…ield." The TT follows MT with "…" and notes the variant per Rule 22.
 S9	editorial-id	en	genesis	content/en/genesis/study/CHAPTER-4-CONTEXT.md:74	apparatus	now	(entry 081)	…with a 🔴 CRITICAL note. This is the editorial-log decision (entry 081).
@@ -16931,14 +16673,14 @@ S9	ai-provenance	en	genesis	content/en/genesis/study/CHAPTER-4-CONTEXT.md:328	ap
 S9	ai-provenance	en	genesis	content/en/genesis/study/CHAPTER-4-CONTEXT.md:328	apparatus	now	Claude Opus 4.6	- Drafted by: Claude Opus 4.6 (AI assistant)
 S9	ai-provenance	en	genesis	content/en/genesis/study/CHAPTER-4-CONTEXT.md:328	apparatus	now	Drafted by	- Drafted by: Claude Opus 4.6 (AI assistant)
 S9	repo-path	en	genesis	content/en/genesis/study/CHAPTER-5-CONTEXT.md:12	front	no	en/genesis/CHAPTER-5.md	**Companion to:** `en/genesis/CHAPTER-5.md` (Transparent Edition)
-S9	rule-ref	en	genesis	content/en/genesis/study/CHAPTER-5-CONTEXT.md:13	front	no	Rule 29	**Ruleset:** v3.3 (Rule 29 governs this file)
+S9	rule-ref	en	genesis	content/en/genesis/study/CHAPTER-5-CONTEXT.md:13	front	no	Rule 29	**Ruleset:** v3.4 (Rule 29 governs this file)
 S9	rule-ref	en	genesis	content/en/genesis/study/CHAPTER-5-CONTEXT.md:94	apparatus	now	Rule 7	… N years, and he died." The rigid repetition is deliberate (Rule 7, locked formula). When the formula breaks (at Chanokh (Enoc…
 S9	repo-path	en	genesis	content/en/genesis/study/CHAPTER-5-CONTEXT.md:170	apparatus	now	en/genesis/study/CHAPTER-1-CONTEXT.md	…ghboring Peoples), see the Genesis 1 companion (Section I, `en/genesis/study/CHAPTER-1-CONTEXT.md`). The entries below address the historical circumstances s…
 S9	ai-provenance	en	genesis	content/en/genesis/study/CHAPTER-5-CONTEXT.md:270	apparatus	now	AI assistant	- Drafted by: Claude Opus 4.6 (AI assistant)
 S9	ai-provenance	en	genesis	content/en/genesis/study/CHAPTER-5-CONTEXT.md:270	apparatus	now	Claude Opus 4.6	- Drafted by: Claude Opus 4.6 (AI assistant)
 S9	ai-provenance	en	genesis	content/en/genesis/study/CHAPTER-5-CONTEXT.md:270	apparatus	now	Drafted by	- Drafted by: Claude Opus 4.6 (AI assistant)
 S9	repo-path	en	genesis	content/en/genesis/study/CHAPTER-6-CONTEXT.md:12	front	no	en/genesis/CHAPTER-6.md	**Companion to:** `en/genesis/CHAPTER-6.md` (Transparent Edition)
-S9	rule-ref	en	genesis	content/en/genesis/study/CHAPTER-6-CONTEXT.md:13	front	no	Rule 29	**Ruleset:** v3.3 (Rule 29 governs this file)
+S9	rule-ref	en	genesis	content/en/genesis/study/CHAPTER-6-CONTEXT.md:13	front	no	Rule 29	**Ruleset:** v3.4 (Rule 29 governs this file)
 S9	rule-ref	en	genesis	content/en/genesis/study/CHAPTER-6-CONTEXT.md:28	apparatus	now	Rule 4	The TT keeps *nephilim* as a transliteration per Rule 4. "Giants" comes from the ancient Greek translation (the Sep…
 S9	rule-ref	en	genesis	content/en/genesis/study/CHAPTER-6-CONTEXT.md:69	apparatus	now	Rule 22	… standard Hebrew text) reads them without harmonization per Rule 22 and the No-Harmonization Principle. This is the most visibl…
 S9	rule-ref	en	genesis	content/en/genesis/study/CHAPTER-6-CONTEXT.md:79	apparatus	now	Rule 14	…overing that atones for sin. The TT flags this wordplay per Rule 14.
@@ -16949,27 +16691,27 @@ S9	ai-provenance	en	genesis	content/en/genesis/study/CHAPTER-6-CONTEXT.md:328	ap
 S9	ai-provenance	en	genesis	content/en/genesis/study/CHAPTER-6-CONTEXT.md:328	apparatus	now	Claude Opus 4.6	- Drafted by: Claude Opus 4.6 (AI assistant)
 S9	ai-provenance	en	genesis	content/en/genesis/study/CHAPTER-6-CONTEXT.md:328	apparatus	now	Drafted by	- Drafted by: Claude Opus 4.6 (AI assistant)
 S9	repo-path	en	genesis	content/en/genesis/study/CHAPTER-7-CONTEXT.md:12	front	no	en/genesis/CHAPTER-7.md	**Companion to:** `en/genesis/CHAPTER-7.md` (Transparent Edition)
-S9	rule-ref	en	genesis	content/en/genesis/study/CHAPTER-7-CONTEXT.md:13	front	no	Rule 29	**Ruleset:** v3.3 (Rule 29 governs this file)
+S9	rule-ref	en	genesis	content/en/genesis/study/CHAPTER-7-CONTEXT.md:13	front	no	Rule 29	**Ruleset:** v3.4 (Rule 29 governs this file)
 S9	rule-ref	en	genesis	content/en/genesis/study/CHAPTER-7-CONTEXT.md:28	apparatus	now	Rule 22	…ates all three as the MT reads them, without harmonization (Rule 22). This is the most visible numerical tension in the flood n…
 S9	repo-path	en	genesis	content/en/genesis/study/CHAPTER-7-CONTEXT.md:223	apparatus	now	en/genesis/study/CHAPTER-1-CONTEXT.md	…ghboring Peoples), see the Genesis 1 companion (Section I, `en/genesis/study/CHAPTER-1-CONTEXT.md`). The entries below address the historical circumstances s…
 S9	ai-provenance	en	genesis	content/en/genesis/study/CHAPTER-7-CONTEXT.md:327	apparatus	now	AI assistant	- Drafted by: Claude Opus 4.6 (AI assistant)
 S9	ai-provenance	en	genesis	content/en/genesis/study/CHAPTER-7-CONTEXT.md:327	apparatus	now	Claude Opus 4.6	- Drafted by: Claude Opus 4.6 (AI assistant)
 S9	ai-provenance	en	genesis	content/en/genesis/study/CHAPTER-7-CONTEXT.md:327	apparatus	now	Drafted by	- Drafted by: Claude Opus 4.6 (AI assistant)
 S9	repo-path	en	genesis	content/en/genesis/study/CHAPTER-8-CONTEXT.md:12	front	no	en/genesis/CHAPTER-8.md	**Companion to:** `en/genesis/CHAPTER-8.md` (Transparent Edition)
-S9	rule-ref	en	genesis	content/en/genesis/study/CHAPTER-8-CONTEXT.md:13	front	no	Rule 29	**Ruleset:** v3.3 (Rule 29 governs this file)
+S9	rule-ref	en	genesis	content/en/genesis/study/CHAPTER-8-CONTEXT.md:13	front	no	Rule 29	**Ruleset:** v3.4 (Rule 29 governs this file)
 S9	rule-ref	en	genesis	content/en/genesis/study/CHAPTER-8-CONTEXT.md:23	apparatus	now	Rule 2	…f the waters." The TT preserves the slash (wind/spirit) per Rule 2. The re-creation after the flood begins with the same eleme…
 S9	repo-path	en	genesis	content/en/genesis/study/CHAPTER-8-CONTEXT.md:212	apparatus	now	en/genesis/study/CHAPTER-1-CONTEXT.md	…ghboring Peoples), see the Genesis 1 companion (Section I, `en/genesis/study/CHAPTER-1-CONTEXT.md`). The entries below address the historical circumstances s…
 S9	ai-provenance	en	genesis	content/en/genesis/study/CHAPTER-8-CONTEXT.md:311	apparatus	now	AI assistant	- Drafted by: Claude Opus 4.6 (AI assistant)
 S9	ai-provenance	en	genesis	content/en/genesis/study/CHAPTER-8-CONTEXT.md:311	apparatus	now	Claude Opus 4.6	- Drafted by: Claude Opus 4.6 (AI assistant)
 S9	ai-provenance	en	genesis	content/en/genesis/study/CHAPTER-8-CONTEXT.md:311	apparatus	now	Drafted by	- Drafted by: Claude Opus 4.6 (AI assistant)
 S9	repo-path	en	genesis	content/en/genesis/study/CHAPTER-9-CONTEXT.md:12	front	no	en/genesis/CHAPTER-9.md	**Companion to:** `en/genesis/CHAPTER-9.md` (Transparent Edition)
-S9	rule-ref	en	genesis	content/en/genesis/study/CHAPTER-9-CONTEXT.md:13	front	no	Rule 29	**Ruleset:** v3.3 (Rule 29 governs this file)
+S9	rule-ref	en	genesis	content/en/genesis/study/CHAPTER-9-CONTEXT.md:13	front	no	Rule 29	**Ruleset:** v3.4 (Rule 29 governs this file)
 S9	rule-ref	en	genesis	content/en/genesis/study/CHAPTER-9-CONTEXT.md:250	apparatus	now	Rule 12	… the TT translates literally without theological smoothing (Rule 12).
 S9	repo-path	en	genesis	content/en/genesis/study/CHAPTER-9-CONTEXT.md:268	apparatus	now	en/genesis/study/CHAPTER-1-CONTEXT.md	…ghboring Peoples), see the Genesis 1 companion (Section I, `en/genesis/study/CHAPTER-1-CONTEXT.md`). The entries below address the historical circumstances s…
 S9	ai-provenance	en	genesis	content/en/genesis/study/CHAPTER-9-CONTEXT.md:374	apparatus	now	AI assistant	- Drafted by: Claude Opus 4.6 (AI assistant)
 S9	ai-provenance	en	genesis	content/en/genesis/study/CHAPTER-9-CONTEXT.md:374	apparatus	now	Claude Opus 4.6	- Drafted by: Claude Opus 4.6 (AI assistant)
 S9	ai-provenance	en	genesis	content/en/genesis/study/CHAPTER-9-CONTEXT.md:374	apparatus	now	Drafted by	- Drafted by: Claude Opus 4.6 (AI assistant)
-S9	rule-ref	en	genesis	content/en/genesis/study/CHAPTER-9-PROPHECY.md:8	front	no	Rule 29	**Ruleset:** v3.3 (Rule 29 governs this file)
+S9	rule-ref	en	genesis	content/en/genesis/study/CHAPTER-9-PROPHECY.md:8	front	no	Rule 29	**Ruleset:** v3.4 (Rule 29 governs this file)
 S9	rule-ref	en	john	content/en/john/CHAPTER-1.md:8	front	no	CORE Rule 24	… Transparent Edition (GS edition declared independently per CORE Rule 24)
 S9	rule-ref	en	john	content/en/john/CHAPTER-1.md:11	front	no	Rule 25	**Divine Name Policy (Rule 25 / GS Policy):** Option C — κύριος (kyrios) rendered as "the…
 S9	tier-jargon	en	john	content/en/john/CHAPTER-1.md:11	front	no	Tier 2	…dered as "the Lord" when quoting OT YHWH passages; noted in Tier 2.
@@ -16989,12 +16731,12 @@ S9	tier-jargon	en	john	content/en/john/CHAPTER-3.md:11	front	no	Tier 2	…dered 
 S9	rule-ref	en	john	content/en/john/CHAPTER-3.md:12	front	now	Rule 28	**Status:** provisional — pending reviewer sign-off (Rule 28)
 S9	rule-ref	en	john	content/en/john/CHAPTER-3.md:112	note	now	Rule 2	…tends sense (1) — birth of divine origin. This is a genuine Rule 2 ambiguity; the TT preserves both with a slash ("from above/…
 S9	rule-ref	en	john	content/en/john/CHAPTER-3.md:564	apparatus	now	Rule 2	…" OR temporal "again." Both senses active at v.3. Slash per Rule 2. |
-S9	rule-ref	en	john	content/en/john/CONTEXT.md:6	front	no	Rule 29	**Ruleset:** v3.3 (Rule 29 governs this file)
+S9	rule-ref	en	john	content/en/john/CONTEXT.md:6	front	no	Rule 29	**Ruleset:** v3.4 (Rule 29 governs this file)
 S9	tier-jargon	en	john	content/en/john/CONTEXT.md:24	apparatus	now	Tier 2	…reek word holds both; the TT preserves the ambiguity with a Tier 2 note rather than choosing one English gloss.
 S9	repo-path	en	john	content/en/john/CONTEXT.md:45	apparatus	now	docs/audit/PENDING.md	…e"; from *genos*, "kind"), per the project-level decision (`docs/audit/PENDING.md` flagged this as a cross-language consistency item).
 S9	tier-jargon	en	john	content/en/john/CONTEXT.md:47	apparatus	now	Tier 2	…ios* ("only-born Son"). The TT preserves the variant with a Tier 2 textual-critical note rather than silently resolving it.
 S9	process-word	en	john	content/en/john/CONTEXT.md:123	apparatus	now	Phase 9	… cross-chapter movement is where the typology resolves. The Phase 9 plan's §4.4 originally listed this motif; it was restored a…
-S9	rule-ref	en	john	content/en/john/INTRODUCTION.md:13	front	no	Rule 29	**Ruleset:** v3.3 (Rule 29 governs this file)
+S9	rule-ref	en	john	content/en/john/INTRODUCTION.md:13	front	no	Rule 29	**Ruleset:** v3.4 (Rule 29 governs this file)
 S9	rule-ref	en	john	content/en/john/INTRODUCTION.md:277	apparatus	now	Rule 4	…ransliterated — ἐγώ εἰμι has translatable semantic content. Rule 4 threshold not crossed. |
 S9	tier-jargon	en	john	content/en/john/INTRODUCTION.md:281	apparatus	now	Tier 2	| 14 | Annotate Wordplay | Key Greek terms noted in Tier 2 where semantic range or wordplay is significant. |
 S9	tier-jargon	en	john	content/en/john/INTRODUCTION.md:282	apparatus	now	Tier 2	…1:18 μονογενὴς θεός vs. μονογενὴς υἱός, John 1:34) noted in Tier 2 without silent adoption. |
@@ -17010,7 +16752,7 @@ S9	ai-provenance	en	john	content/en/john/INTRODUCTION.md:380	apparatus	now	Claud
 S9	ai-provenance	en	john	content/en/john/INTRODUCTION.md:380	apparatus	now	Drafted by	> **Editorial provenance:** Drafted by Claude Opus 4.6 (1M context) on 2026-04-27. Not yet reviewe…
 S9	ai-provenance	en	john	content/en/john/INTRODUCTION.md:380	apparatus	now	Not yet reviewed	…e:** Drafted by Claude Opus 4.6 (1M context) on 2026-04-27. Not yet reviewed. This introduction is a provisional scholarly resource gove…
 S9	rule-ref	en	john	content/en/john/INTRODUCTION.md:380	apparatus	now	Rule 29	…oduction is a provisional scholarly resource governed by TT Rule 29. All claims carry dual labels; no claim should be read as t…
-S9	rule-ref	en	john	content/en/john/PEOPLE.md:6	front	no	Rule 29	**Ruleset:** v3.3 (Rule 29 governs this file)
+S9	rule-ref	en	john	content/en/john/PEOPLE.md:6	front	no	Rule 29	**Ruleset:** v3.4 (Rule 29 governs this file)
 S9	rule-ref	en	john	content/en/john/PEOPLE.md:11	front	no	Rule 29	…ence. This material is contextual study content governed by Rule 29.
 S9	editorial-id	en	john	content/en/john/PEOPLE.md:15	front	no	J-006	… The Yehudim group entry follows the Ioudaioi Policy (Entry J-006) and uses standard PersonEntry fields with the 3-sense brea…
 S9	repo-path	en	john	content/en/john/PEOPLE.md:15	front	no	RULES-GS.md	…ield. Transliterations follow the locked proper-name table (RULES-GS.md).
@@ -17061,11 +16803,11 @@ S9	ai-provenance	en	john	content/en/john/study/CHAPTER-2-CONTEXT.md:261	apparatu
 S9	ai-provenance	en	john	content/en/john/study/CHAPTER-2-CONTEXT.md:261	apparatus	now	Claude Opus 4.6	- Drafted by: Claude Opus 4.6 (AI assistant)
 S9	ai-provenance	en	john	content/en/john/study/CHAPTER-2-CONTEXT.md:261	apparatus	now	Drafted by	- Drafted by: Claude Opus 4.6 (AI assistant)
 S9	repo-path	en	john	content/en/john/study/CHAPTER-3-CONTEXT.md:12	front	no	en/john/CHAPTER-3.md	**Companion to:** `en/john/CHAPTER-3.md` (Transparent Edition)
-S9	rule-ref	en	john	content/en/john/study/CHAPTER-3-CONTEXT.md:13	front	no	Rule 29	**Ruleset:** v3.3 (Rule 29 governs this file)
+S9	rule-ref	en	john	content/en/john/study/CHAPTER-3-CONTEXT.md:13	front	no	Rule 29	**Ruleset:** v3.4 (Rule 29 governs this file)
 S9	ai-provenance	en	john	content/en/john/study/CHAPTER-3-CONTEXT.md:234	apparatus	now	AI assistant	- Drafted by: Claude Opus 4.6 (AI assistant)
 S9	ai-provenance	en	john	content/en/john/study/CHAPTER-3-CONTEXT.md:234	apparatus	now	Claude Opus 4.6	- Drafted by: Claude Opus 4.6 (AI assistant)
 S9	ai-provenance	en	john	content/en/john/study/CHAPTER-3-CONTEXT.md:234	apparatus	now	Drafted by	- Drafted by: Claude Opus 4.6 (AI assistant)
-S9	rule-ref	en	john	content/en/john/study/CHAPTER-3-PROPHECY.md:8	front	no	Rule 29	**Ruleset:** v3.3 (Rule 29 governs this file)
+S9	rule-ref	en	john	content/en/john/study/CHAPTER-3-PROPHECY.md:8	front	no	Rule 29	**Ruleset:** v3.4 (Rule 29 governs this file)
 S9	repo-path	en	john	content/en/john/study/CHAPTER-3-PROPHECY.md:36	apparatus	now	content/en/john/study/CHAPTER-3-CONTEXT.md	| `content/en/john/study/CHAPTER-3-CONTEXT.md` §A6, §B2 | INTERNAL | Cross-reference for full lexical + h…
 S9	ai-provenance	en	john	content/en/john/study/CHAPTER-3-PROPHECY.md:41	apparatus	now	AI assistant	- Drafted by: Claude Opus 4.7 (AI assistant)
 S9	ai-provenance	en	john	content/en/john/study/CHAPTER-3-PROPHECY.md:41	apparatus	now	Claude Opus 4.7	- Drafted by: Claude Opus 4.7 (AI assistant)
@@ -17415,7 +17157,7 @@ S9	rule-ref	en	matthew	content/en/matthew/CHAPTER-3.md:11	front	no	Rule 25	**Div
 S9	tier-jargon	en	matthew	content/en/matthew/CHAPTER-3.md:11	front	no	Tier 2	…dered as "the Lord" when quoting OT YHWH passages; noted in Tier 2.
 S9	rule-ref	en	matthew	content/en/matthew/CHAPTER-3.md:12	front	now	Rule 28	**Status:** provisional — pending reviewer sign-off (Rule 28)
 S9	rule-ref	en	matthew	content/en/matthew/CHAPTER-3.md:347	apparatus	now	Rule 2	…μα (*pneuma*) | wind/spirit | Maps to HB *ruach*. Slash per Rule 2. |
-S9	rule-ref	en	matthew	content/en/matthew/CONTEXT.md:6	front	no	Rule 29	**Ruleset:** v3.3 (Rule 29 governs this file)
+S9	rule-ref	en	matthew	content/en/matthew/CONTEXT.md:6	front	no	Rule 29	**Ruleset:** v3.4 (Rule 29 governs this file)
 S9	editorial-id	en	matthew	content/en/matthew/CONTEXT.md:22	apparatus	now	M-001	…ic frame that is itself the device. The editorial-log Entry M-001 (Fulfillment Formula Policy) codifies six formula types; wi…
 S9	editorial-log-ref	en	matthew	content/en/matthew/CONTEXT.md:22	apparatus	now	editorial-log	…tations in a formulaic frame that is itself the device. The editorial-log Entry M-001 (Fulfillment Formula Policy) codifies six formu…
 S9	tier-jargon	en	matthew	content/en/matthew/CONTEXT.md:26	apparatus	now	Tier 2	… single quotation. The TT preserves the modification with a Tier 2 note flagging both source verses.
@@ -17435,7 +17177,7 @@ S9	editorial-id	en	matthew	content/en/matthew/CONTEXT.md:95	apparatus	now	M-004	
 S9	repo-path	en	matthew	content/en/matthew/CONTEXT.md:95	apparatus	now	docs/editorial-log/matthew.md	**Source:** `docs/editorial-log/matthew.md` Entry M-004 (*angelos kyriou* Formulaic Narrative classifi…
 S9	editorial-log-ref	en	matthew	content/en/matthew/CONTEXT.md:95	apparatus	now	editorial-log	**Source:** `docs/editorial-log/matthew.md` Entry M-004 (*angelos kyriou* Formulaic Narrati…
 S9	editorial-id	en	matthew	content/en/matthew/CONTEXT.md:116	apparatus	now	M-001	…phet says this. The unresolved citation is itself the data (M-001 classifies it as Type 5 of the six formula types). The TT p…
-S9	rule-ref	en	matthew	content/en/matthew/INTRODUCTION.md:13	front	no	Rule 29	**Ruleset:** v3.3 (Rule 29 governs this file)
+S9	rule-ref	en	matthew	content/en/matthew/INTRODUCTION.md:13	front	no	Rule 29	**Ruleset:** v3.4 (Rule 29 governs this file)
 S9	repo-path	en	matthew	content/en/matthew/INTRODUCTION.md:312	apparatus	now	RULES-GS.md	…ριος (*kyrios*). Per the TT's Divine Name Policy (Option C, RULES-GS.md):
 S9	rule-ref	en	matthew	content/en/matthew/INTRODUCTION.md:317	apparatus	now	Rule 13	- Ambiguous cases are flagged per Rule 13.
 S9	rule-ref	en	matthew	content/en/matthew/INTRODUCTION.md:330	apparatus	now	Rule 4	… not paraphrased as "kingdom of heaven" or "God's kingdom." Rule 4 threshold not crossed for βασιλεία. |
@@ -17447,7 +17189,7 @@ S9	ai-provenance	en	matthew	content/en/matthew/INTRODUCTION.md:358	apparatus	now
 S9	ai-provenance	en	matthew	content/en/matthew/INTRODUCTION.md:358	apparatus	now	Drafted by	> **Editorial provenance:** Drafted by Claude Opus 4.6 (1M context) on 2026-04-27. Not yet reviewe…
 S9	ai-provenance	en	matthew	content/en/matthew/INTRODUCTION.md:358	apparatus	now	Not yet reviewed	…e:** Drafted by Claude Opus 4.6 (1M context) on 2026-04-27. Not yet reviewed. This introduction is a provisional scholarly resource gove…
 S9	rule-ref	en	matthew	content/en/matthew/INTRODUCTION.md:358	apparatus	now	Rule 29	…oduction is a provisional scholarly resource governed by TT Rule 29. All claims carry dual labels; no claim should be read as t…
-S9	rule-ref	en	matthew	content/en/matthew/PEOPLE.md:6	front	no	Rule 29	**Ruleset:** v3.3 (Rule 29 governs this file)
+S9	rule-ref	en	matthew	content/en/matthew/PEOPLE.md:6	front	no	Rule 29	**Ruleset:** v3.4 (Rule 29 governs this file)
 S9	rule-ref	en	matthew	content/en/matthew/PEOPLE.md:11	front	no	Rule 29	…ence. This material is contextual study content governed by Rule 29.
 S9	repo-path	en	matthew	content/en/matthew/PEOPLE.md:15	front	no	RULES-GS.md	…erations follow the locked proper-name table (RULES-HB.md / RULES-GS.md).
 S9	repo-path	en	matthew	content/en/matthew/PEOPLE.md:15	front	no	RULES-HB.md	…ture. Transliterations follow the locked proper-name table (RULES-HB.md / RULES-GS.md).
@@ -17475,7 +17217,7 @@ S9	repo-path	en	matthew	content/en/matthew/study/CHAPTER-1-CONTEXT.md:295	appara
 S9	ai-provenance	en	matthew	content/en/matthew/study/CHAPTER-1-CONTEXT.md:379	apparatus	now	Anthropic	- Drafted by: AI (Claude, Anthropic)
 S9	ai-provenance	en	matthew	content/en/matthew/study/CHAPTER-1-CONTEXT.md:379	apparatus	now	Claude	- Drafted by: AI (Claude, Anthropic)
 S9	ai-provenance	en	matthew	content/en/matthew/study/CHAPTER-1-CONTEXT.md:379	apparatus	now	Drafted by	- Drafted by: AI (Claude, Anthropic)
-S9	rule-ref	en	matthew	content/en/matthew/study/CHAPTER-1-PROPHECY.md:8	front	no	Rule 29	**Ruleset:** v3.3 (Rule 29 governs this file)
+S9	rule-ref	en	matthew	content/en/matthew/study/CHAPTER-1-PROPHECY.md:8	front	no	Rule 29	**Ruleset:** v3.4 (Rule 29 governs this file)
 S9	rule-ref	en	matthew	content/en/matthew/study/CHAPTER-1-PROPHECY.md:18	apparatus	now	Rule 2	…e"). The TT renders the slash form "virgin/young woman" per Rule 2 (Ambiguity Preservation).
 S9	editorial-id	en	matthew	content/en/matthew/study/CHAPTER-1-PROPHECY.md:20	apparatus	now	M-001	…ght be fulfilled") — a direct fulfillment formula per Entry M-001 §Direct. Matthew quotes the LXX text (*parthenos*) rather t…
 S9	editorial-id	en	matthew	content/en/matthew/study/CHAPTER-1-PROPHECY.md:20	apparatus	now	M-002	…atthew's claim. → See `docs/editorial-log/matthew.md` Entry M-002 for the full *parthenos*/*almah* slash-policy reasoning and…
@@ -17496,7 +17238,7 @@ S9	repo-path	en	matthew	content/en/matthew/study/CHAPTER-2-CONTEXT.md:221	appara
 S9	ai-provenance	en	matthew	content/en/matthew/study/CHAPTER-2-CONTEXT.md:304	apparatus	now	Anthropic	- Drafted by: AI (Claude, Anthropic)
 S9	ai-provenance	en	matthew	content/en/matthew/study/CHAPTER-2-CONTEXT.md:304	apparatus	now	Claude	- Drafted by: AI (Claude, Anthropic)
 S9	ai-provenance	en	matthew	content/en/matthew/study/CHAPTER-2-CONTEXT.md:304	apparatus	now	Drafted by	- Drafted by: AI (Claude, Anthropic)
-S9	rule-ref	en	matthew	content/en/matthew/study/CHAPTER-2-PROPHECY.md:8	front	no	Rule 29	**Ruleset:** v3.3 (Rule 29 governs this file)
+S9	rule-ref	en	matthew	content/en/matthew/study/CHAPTER-2-PROPHECY.md:8	front	no	Rule 29	**Ruleset:** v3.4 (Rule 29 governs this file)
 S9	editorial-id	en	matthew	content/en/matthew/study/CHAPTER-2-PROPHECY.md:20	apparatus	now	M-001	**Fulfillment notes:** Per Entry M-001 §Composite, Matthew blends two distinct OT sources: Mic 5:1…
 S9	editorial-id	en	matthew	content/en/matthew/study/CHAPTER-2-PROPHECY.md:20	apparatus	now	M-001	…same prophecy). → See `docs/editorial-log/matthew.md` Entry M-001 §Composite for the layer-by-layer textual analysis (certain…
 S9	repo-path	en	matthew	content/en/matthew/study/CHAPTER-2-PROPHECY.md:20	apparatus	now	docs/editorial-log/matthew.md	…mants could in principle satisfy the same prophecy). → See `docs/editorial-log/matthew.md` Entry M-001 §Composite for the layer-by-layer textual anal…
@@ -18293,7 +18035,7 @@ S9	rule-ref	es	genesis	content/es/genesis/CHAPTER-8.md:86	note	now	Regla 2	…sm
 S9	rule-ref	es	genesis	content/es/genesis/CHAPTER-9.md:12	front	no	Regla 25	**Política del Nombre Divino (Regla 25):** Opción A — Consonantal (YHWH).
 S9	rule-ref	es	genesis	content/es/genesis/CHAPTER-9.md:13	front	now	Regla 28	**Status:** provisorio — pendiente de revisión por pares (Regla 28)
 S9	rule-ref	es	genesis	content/es/genesis/CHAPTER-9.md:309	note	now	Regla 2	… y violación sexual (ver compañero para analisis completo). Regla 2: el texto dice "vio." Traducimos "vio."
-S9	rule-ref	es	genesis	content/es/genesis/CONTEXT.md:6	front	no	Regla 29	**Conjunto de Reglas:** v3.3 (La Regla 29 gobierna este archivo)
+S9	rule-ref	es	genesis	content/es/genesis/CONTEXT.md:6	front	no	Regla 29	**Conjunto de Reglas:** v3.4 (La Regla 29 gobierna este archivo)
 S9	editorial-log-ref	es	genesis	content/es/genesis/CONTEXT.md:24	apparatus	now	registro editorial	…spera que el lector reconozca como una señal recurrente. El registro editorial `transliteration-decisions.md` documenta la decisión a nive…
 S9	repo-path	es	genesis	content/es/genesis/CONTEXT.md:24	apparatus	now	transliteration-decisions.md	…reconozca como una señal recurrente. El registro editorial `transliteration-decisions.md` documenta la decisión a nivel de proyecto de mantener *tol…
 S9	editorial-log-ref	es	genesis	content/es/genesis/CONTEXT.md:37	apparatus	now	registro editorial	…exto como un marcador deliberado de diálogo; la entrada del registro editorial sobre Génesis 3 ordena explícitamente que esta distinción N…
@@ -18309,12 +18051,12 @@ S9	tier-jargon	es	genesis	content/es/genesis/CONTEXT.md:120	apparatus	now	Tier 2
 S9	process-word	es	genesis	content/es/genesis/CONTEXT.md:153	apparatus	now	Fase 8	El trabajo de Sección I de la Fase 8 rastrea el esquema de etnogénesis (gen/9 I-A10) y la Tabla …
 S9	tier-jargon	es	genesis	content/es/genesis/CONTEXT.md:166	apparatus	now	Tier 2	… suavizarlo a un singular ("haré humanos") y añade notas de Tier 2 señalando las opciones interpretativas.
 S9	editorial-log-ref	es	genesis	content/es/genesis/CONTEXT.md:168	apparatus	now	registro editorial	El registro editorial registra una decisión transcapitular específica: "Se añadió…
-S9	rule-ref	es	genesis	content/es/genesis/INTRODUCTION.md:13	front	no	Regla 29	**Conjunto de reglas:** v3.3 (La Regla 29 gobierna este archivo)
+S9	rule-ref	es	genesis	content/es/genesis/INTRODUCTION.md:13	front	no	Regla 29	**Conjunto de reglas:** v3.4 (La Regla 29 gobierna este archivo)
 S9	ai-provenance	es	genesis	content/es/genesis/INTRODUCTION.md:434	apparatus	now	(1M context)	> **Procedencia editorial:** Redactado por Claude Opus 4.6 (1M context) el 2026-04-28. Revisado por: pendiente. Esta introducción e…
 S9	ai-provenance	es	genesis	content/es/genesis/INTRODUCTION.md:434	apparatus	now	Claude Opus 4.6	> **Procedencia editorial:** Redactado por Claude Opus 4.6 (1M context) el 2026-04-28. Revisado por: pendiente. Esta i…
 S9	ai-provenance	es	genesis	content/es/genesis/INTRODUCTION.md:434	apparatus	now	Redactado por	> **Procedencia editorial:** Redactado por Claude Opus 4.6 (1M context) el 2026-04-28. Revisado por: p…
 S9	rule-ref	es	genesis	content/es/genesis/INTRODUCTION.md:434	apparatus	now	Regla 29	…ucción es un recurso académico provisional gobernado por la Regla 29 de la TT. Todas las afirmaciones llevan etiquetas duales; n…
-S9	rule-ref	es	genesis	content/es/genesis/PEOPLE.md:5	front	no	Regla 29	**Reglas:** v3.3 (Regla 29 rige este archivo)
+S9	rule-ref	es	genesis	content/es/genesis/PEOPLE.md:5	front	no	Regla 29	**Reglas:** v3.4 (Regla 29 rige este archivo)
 S9	rule-ref	es	genesis	content/es/genesis/PEOPLE.md:11	front	no	Regla 29	…e material es contenido de estudio contextual regido por la Regla 29.
 S9	repo-path	es	genesis	content/es/genesis/PEOPLE.md:13	front	no	RULES-GS.md	…es siguen la tabla de nombres propios fijada (RULES-HB.md / RULES-GS.md).
 S9	repo-path	es	genesis	content/es/genesis/PEOPLE.md:13	front	no	RULES-HB.md	…ransliteraciones siguen la tabla de nombres propios fijada (RULES-HB.md / RULES-GS.md).
@@ -18323,19 +18065,19 @@ S9	ai-provenance	es	genesis	content/es/genesis/PEOPLE.md:915	apparatus	now	Claud
 S9	ai-provenance	es	genesis	content/es/genesis/PEOPLE.md:915	apparatus	now	Redactado por	> **Procedencia editorial:** Redactado por Claude Opus 4.6 (contexto 1M) el 27-04-2026. Sin revisión. …
 S9	rule-ref	es	genesis	content/es/genesis/PEOPLE.md:915	apparatus	now	Regla 29	…rchivo es un recurso académico provisional gobernado por la Regla 29 de la TT.
 S9	repo-path	es	genesis	content/es/genesis/study/CHAPTER-1-CONTEXT.md:12	front	no	es/genesis/CHAPTER-1.md	**Compañero de:** `es/genesis/CHAPTER-1.md` (Edición Transparente)
-S9	rule-ref	es	genesis	content/es/genesis/study/CHAPTER-1-CONTEXT.md:13	front	no	Regla 29	**Reglas:** v3.3 (la Regla 29 gobierna este archivo)
+S9	rule-ref	es	genesis	content/es/genesis/study/CHAPTER-1-CONTEXT.md:13	front	no	Regla 29	**Reglas:** v3.4 (la Regla 29 gobierna este archivo)
 S9	rule-ref	es	genesis	content/es/genesis/study/CHAPTER-1-CONTEXT.md:127	apparatus	now	Regla 7	… están textualmente presentes. Las fórmulas fijas de la TT (Regla 7) preservan estos patrones al mantener estables las frases r…
 S9	rule-ref	es	genesis	content/es/genesis/study/CHAPTER-1-CONTEXT.md:302	apparatus	now	Regla 7	…a y la recitación comunitaria. Las fórmulas fijas de la TT (Regla 7) preservan exactamente esta estructura performativa — las m…
 S9	ai-provenance	es	genesis	content/es/genesis/study/CHAPTER-1-CONTEXT.md:722	apparatus	now	Claude Opus 4.6	- Redactado por: Claude Opus 4.6 (asistente de IA)
 S9	ai-provenance	es	genesis	content/es/genesis/study/CHAPTER-1-CONTEXT.md:722	apparatus	now	Redactado por	- Redactado por: Claude Opus 4.6 (asistente de IA)
 S9	repo-path	es	genesis	content/es/genesis/study/CHAPTER-10-CONTEXT.md:12	front	no	es/genesis/CHAPTER-10.md	**Compañero de:** `es/genesis/CHAPTER-10.md` (Edición Transparente)
-S9	rule-ref	es	genesis	content/es/genesis/study/CHAPTER-10-CONTEXT.md:13	front	no	Regla 29	**Reglas:** v3.3 (la Regla 29 gobierna este archivo)
+S9	rule-ref	es	genesis	content/es/genesis/study/CHAPTER-10-CONTEXT.md:13	front	no	Regla 29	**Reglas:** v3.4 (la Regla 29 gobierna este archivo)
 S9	repo-path	es	genesis	content/es/genesis/study/CHAPTER-10-CONTEXT.md:137	apparatus	now	RULES-CORE.md	…s pueblos modernos. La prohibición de etnogénesis de la TT (RULES-CORE.md) se aplica: el texto no debe ser mapeado sobre grupos racia…
 S9	repo-path	es	genesis	content/es/genesis/study/CHAPTER-10-CONTEXT.md:166	apparatus	now	es/genesis/study/CHAPTER-1-CONTEXT.md	…blos Vecinos), véase el companion de Génesis 1 (Sección I, `es/genesis/study/CHAPTER-1-CONTEXT.md`). Las entradas a continuación abordan las circunstancias h…
 S9	ai-provenance	es	genesis	content/es/genesis/study/CHAPTER-10-CONTEXT.md:261	apparatus	now	Claude Opus 4.6	- Redactado por: Claude Opus 4.6 (asistente de IA)
 S9	ai-provenance	es	genesis	content/es/genesis/study/CHAPTER-10-CONTEXT.md:261	apparatus	now	Redactado por	- Redactado por: Claude Opus 4.6 (asistente de IA)
 S9	repo-path	es	genesis	content/es/genesis/study/CHAPTER-11-CONTEXT.md:12	front	no	es/genesis/CHAPTER-11.md	**Compañero de:** `es/genesis/CHAPTER-11.md` (Edición Transparente)
-S9	rule-ref	es	genesis	content/es/genesis/study/CHAPTER-11-CONTEXT.md:13	front	no	Regla 29	**Reglas:** v3.3 (la Regla 29 gobierna este archivo)
+S9	rule-ref	es	genesis	content/es/genesis/study/CHAPTER-11-CONTEXT.md:13	front	no	Regla 29	**Reglas:** v3.4 (la Regla 29 gobierna este archivo)
 S9	rule-ref	es	genesis	content/es/genesis/study/CHAPTER-11-CONTEXT.md:43	apparatus	now	Regla 12	…toral probada. La TT rinde el antropomorfismo literalmente (Regla 12).
 S9	rule-ref	es	genesis	content/es/genesis/study/CHAPTER-11-CONTEXT.md:66	apparatus	now	Regla 22	…gue la lectura de la LXX. La TT traduce el TM conforme a la Regla 22 (política de texto base), por lo que Kainán no aparece. Est…
 S9	rule-ref	es	genesis	content/es/genesis/study/CHAPTER-11-CONTEXT.md:66	apparatus	now	Regla 22	…Esta variante se anota aquí conforme a la disposición de la Regla 22 de que las variantes textuales significativas "pueden ser a…
@@ -18343,13 +18085,13 @@ S9	repo-path	es	genesis	content/es/genesis/study/CHAPTER-11-CONTEXT.md:184	appar
 S9	ai-provenance	es	genesis	content/es/genesis/study/CHAPTER-11-CONTEXT.md:281	apparatus	now	Claude Opus 4.6	- Redactado por: Claude Opus 4.6 (asistente de IA)
 S9	ai-provenance	es	genesis	content/es/genesis/study/CHAPTER-11-CONTEXT.md:281	apparatus	now	Redactado por	- Redactado por: Claude Opus 4.6 (asistente de IA)
 S9	repo-path	es	genesis	content/es/genesis/study/CHAPTER-12-CONTEXT.md:12	front	no	es/genesis/CHAPTER-12.md	**Compañero de:** `es/genesis/CHAPTER-12.md` (Edición Transparente)
-S9	rule-ref	es	genesis	content/es/genesis/study/CHAPTER-12-CONTEXT.md:13	front	no	Regla 29	**Reglas:** v3.3 (la Regla 29 gobierna este archivo)
+S9	rule-ref	es	genesis	content/es/genesis/study/CHAPTER-12-CONTEXT.md:13	front	no	Regla 29	**Reglas:** v3.4 (la Regla 29 gobierna este archivo)
 S9	repo-path	es	genesis	content/es/genesis/study/CHAPTER-12-CONTEXT.md:186	apparatus	now	es/genesis/study/CHAPTER-1-CONTEXT.md	…blos Vecinos), véase el companion de Génesis 1 (Sección I, `es/genesis/study/CHAPTER-1-CONTEXT.md`). Las entradas a continuación abordan las circunstancias h…
 S9	ai-provenance	es	genesis	content/es/genesis/study/CHAPTER-12-CONTEXT.md:287	apparatus	now	Claude Opus 4.6	- Redactado por: Claude Opus 4.6 (asistente de IA)
 S9	ai-provenance	es	genesis	content/es/genesis/study/CHAPTER-12-CONTEXT.md:287	apparatus	now	Redactado por	- Redactado por: Claude Opus 4.6 (asistente de IA)
-S9	rule-ref	es	genesis	content/es/genesis/study/CHAPTER-12-PROPHECY.md:8	front	no	Regla 29	**Reglas:** v3.3 (Regla 29 rige este archivo)
+S9	rule-ref	es	genesis	content/es/genesis/study/CHAPTER-12-PROPHECY.md:8	front	no	Regla 29	**Reglas:** v3.4 (Regla 29 rige este archivo)
 S9	repo-path	es	genesis	content/es/genesis/study/CHAPTER-2-CONTEXT.md:12	front	no	es/genesis/CHAPTER-2.md	**Compañero de:** `es/genesis/CHAPTER-2.md` (Edición Transparente)
-S9	rule-ref	es	genesis	content/es/genesis/study/CHAPTER-2-CONTEXT.md:13	front	no	Regla 29	**Reglas:** v3.3 (la Regla 29 gobierna este archivo)
+S9	rule-ref	es	genesis	content/es/genesis/study/CHAPTER-2-CONTEXT.md:13	front	no	Regla 29	**Reglas:** v3.4 (la Regla 29 gobierna este archivo)
 S9	rule-ref	es	genesis	content/es/genesis/study/CHAPTER-2-CONTEXT.md:23	apparatus	now	Regla 22	…r la incomodidad teológica. La TT sigue al TM conforme a la Regla 22 (traducir el texto base; anotar variantes, no adoptarlas si…
 S9	rule-ref	es	genesis	content/es/genesis/study/CHAPTER-2-CONTEXT.md:33	apparatus	now	Regla 25	…cribe consonánticamente (YHWH, no "el SEÑOR") conforme a la Regla 25 Opción A, haciendo visible el cambio de nombre divino. La m…
 S9	rule-ref	es	genesis	content/es/genesis/study/CHAPTER-2-CONTEXT.md:70	apparatus	now	Regla 2	…TT preserva "lado/costilla" con barra oblicua conforme a la Regla 2.
@@ -18357,7 +18099,7 @@ S9	repo-path	es	genesis	content/es/genesis/study/CHAPTER-2-CONTEXT.md:307	appara
 S9	ai-provenance	es	genesis	content/es/genesis/study/CHAPTER-2-CONTEXT.md:415	apparatus	now	Claude Opus 4.6	- Redactado por: Claude Opus 4.6 (asistente de IA)
 S9	ai-provenance	es	genesis	content/es/genesis/study/CHAPTER-2-CONTEXT.md:415	apparatus	now	Redactado por	- Redactado por: Claude Opus 4.6 (asistente de IA)
 S9	repo-path	es	genesis	content/es/genesis/study/CHAPTER-3-CONTEXT.md:12	front	no	es/genesis/CHAPTER-3.md	**Compañero de:** `es/genesis/CHAPTER-3.md` (Edición Transparente)
-S9	rule-ref	es	genesis	content/es/genesis/study/CHAPTER-3-CONTEXT.md:13	front	no	Regla 29	**Reglas:** v3.3 (la Regla 29 gobierna este archivo)
+S9	rule-ref	es	genesis	content/es/genesis/study/CHAPTER-3-CONTEXT.md:13	front	no	Regla 29	**Reglas:** v3.4 (la Regla 29 gobierna este archivo)
 S9	rule-ref	es	genesis	content/es/genesis/study/CHAPTER-3-CONTEXT.md:48	apparatus	now	Regla 1	…lí, "voz" es más natural. La TT usa "voz" consistentemente (Regla 1) con una nota en 3:8 señalando el rango más amplio.
 S9	rule-ref	es	genesis	content/es/genesis/study/CHAPTER-3-CONTEXT.md:112	apparatus	now	Regla 12	…iriendo la tarde). La TT traduce literalmente conforme a la Regla 12 (sin falsa precisión). El hebreo dice solamente "viento del…
 S9	rule-ref	es	genesis	content/es/genesis/study/CHAPTER-3-CONTEXT.md:194	apparatus	now	Regla 4	…cto) y no translitéra *nachash* (no alcanza el umbral de la Regla 4).
@@ -18365,9 +18107,9 @@ S9	rule-ref	es	genesis	content/es/genesis/study/CHAPTER-3-CONTEXT.md:296	apparat
 S9	repo-path	es	genesis	content/es/genesis/study/CHAPTER-3-CONTEXT.md:334	apparatus	now	es/genesis/study/CHAPTER-1-CONTEXT.md	…blos Vecinos), véase el companion de Génesis 1 (Sección I, `es/genesis/study/CHAPTER-1-CONTEXT.md`). Las entradas a continuación abordan las circunstancias h…
 S9	ai-provenance	es	genesis	content/es/genesis/study/CHAPTER-3-CONTEXT.md:445	apparatus	now	Claude Opus 4.6	- Redactado por: Claude Opus 4.6 (asistente de IA)
 S9	ai-provenance	es	genesis	content/es/genesis/study/CHAPTER-3-CONTEXT.md:445	apparatus	now	Redactado por	- Redactado por: Claude Opus 4.6 (asistente de IA)
-S9	rule-ref	es	genesis	content/es/genesis/study/CHAPTER-3-PROPHECY.md:8	front	no	Regla 29	**Reglas:** v3.3 (Regla 29 rige este archivo)
+S9	rule-ref	es	genesis	content/es/genesis/study/CHAPTER-3-PROPHECY.md:8	front	no	Regla 29	**Reglas:** v3.4 (Regla 29 rige este archivo)
 S9	repo-path	es	genesis	content/es/genesis/study/CHAPTER-4-CONTEXT.md:12	front	no	es/genesis/CHAPTER-4.md	**Compañero de:** `es/genesis/CHAPTER-4.md` (Edición Transparente)
-S9	rule-ref	es	genesis	content/es/genesis/study/CHAPTER-4-CONTEXT.md:13	front	no	Regla 29	**Reglas:** v3.3 (Regla 29 gobierna este archivo)
+S9	rule-ref	es	genesis	content/es/genesis/study/CHAPTER-4-CONTEXT.md:13	front	no	Regla 29	**Reglas:** v3.4 (Regla 29 gobierna este archivo)
 S9	rule-ref	es	genesis	content/es/genesis/study/CHAPTER-4-CONTEXT.md:44	apparatus	now	Regla 1	… la misma traducción con barra en ambos versiculos conforme Regla 1.
 S9	rule-ref	es	genesis	content/es/genesis/study/CHAPTER-4-CONTEXT.md:54	apparatus	now	Regla 22	…po." La TT sigue el TM con "…" y anota la variante conforme Regla 22.
 S9	editorial-id	es	genesis	content/es/genesis/study/CHAPTER-4-CONTEXT.md:74	apparatus	now	(entrada 081)	…n nota 🔴 CRITICO. Esta es la decision del diario editorial (entrada 081).
@@ -18376,13 +18118,13 @@ S9	repo-path	es	genesis	content/es/genesis/study/CHAPTER-4-CONTEXT.md:223	appara
 S9	ai-provenance	es	genesis	content/es/genesis/study/CHAPTER-4-CONTEXT.md:328	apparatus	now	Claude Opus 4.6	- Redactado por: Claude Opus 4.6 (asistente de IA)
 S9	ai-provenance	es	genesis	content/es/genesis/study/CHAPTER-4-CONTEXT.md:328	apparatus	now	Redactado por	- Redactado por: Claude Opus 4.6 (asistente de IA)
 S9	repo-path	es	genesis	content/es/genesis/study/CHAPTER-5-CONTEXT.md:12	front	no	es/genesis/CHAPTER-5.md	**Compañero de:** `es/genesis/CHAPTER-5.md` (Edición Transparente)
-S9	rule-ref	es	genesis	content/es/genesis/study/CHAPTER-5-CONTEXT.md:13	front	no	Regla 29	**Reglas:** v3.3 (Regla 29 gobierna este archivo)
+S9	rule-ref	es	genesis	content/es/genesis/study/CHAPTER-5-CONTEXT.md:13	front	no	Regla 29	**Reglas:** v3.4 (Regla 29 gobierna este archivo)
 S9	rule-ref	es	genesis	content/es/genesis/study/CHAPTER-5-CONTEXT.md:94	apparatus	now	Regla 7	…as de X fueron N anos → y murio." La rigidez es deliberada (Regla 7 — formula fija). Las desviaciones de la formula (Enoc, Noé)…
 S9	repo-path	es	genesis	content/es/genesis/study/CHAPTER-5-CONTEXT.md:170	apparatus	now	es/genesis/study/CHAPTER-1-CONTEXT.md	…blos Vecinos), véase el companion de Génesis 1 (Sección I, `es/genesis/study/CHAPTER-1-CONTEXT.md`). Las entradas a continuación abordan las circunstancias h…
 S9	ai-provenance	es	genesis	content/es/genesis/study/CHAPTER-5-CONTEXT.md:270	apparatus	now	Claude Opus 4.6	- Redactado por: Claude Opus 4.6 (asistente de IA)
 S9	ai-provenance	es	genesis	content/es/genesis/study/CHAPTER-5-CONTEXT.md:270	apparatus	now	Redactado por	- Redactado por: Claude Opus 4.6 (asistente de IA)
 S9	repo-path	es	genesis	content/es/genesis/study/CHAPTER-6-CONTEXT.md:12	front	no	es/genesis/CHAPTER-6.md	**Compañero de:** `es/genesis/CHAPTER-6.md` (Edición Transparente)
-S9	rule-ref	es	genesis	content/es/genesis/study/CHAPTER-6-CONTEXT.md:13	front	no	Regla 29	**Reglas:** v3.3 (la Regla 29 gobierna este archivo)
+S9	rule-ref	es	genesis	content/es/genesis/study/CHAPTER-6-CONTEXT.md:13	front	no	Regla 29	**Reglas:** v3.4 (la Regla 29 gobierna este archivo)
 S9	rule-ref	es	genesis	content/es/genesis/study/CHAPTER-6-CONTEXT.md:28	apparatus	now	Regla 4	La TT mantiene *nephilim* como transliteración según la Regla 4. "Gigantes" importa la traducción de la Septuaginta (la ant…
 S9	rule-ref	es	genesis	content/es/genesis/study/CHAPTER-6-CONTEXT.md:69	apparatus	now	Regla 22	…traduce ambos como los lee el TM sin armonización, según la Regla 22 y el Principio de No Armonización. Esta es la tensión inter…
 S9	rule-ref	es	genesis	content/es/genesis/study/CHAPTER-6-CONTEXT.md:79	apparatus	now	Regla 14	…pía el pecado. La TT señala este juego de palabras según la Regla 14.
@@ -18392,24 +18134,24 @@ S9	repo-path	es	genesis	content/es/genesis/study/CHAPTER-6-CONTEXT.md:226	appara
 S9	ai-provenance	es	genesis	content/es/genesis/study/CHAPTER-6-CONTEXT.md:328	apparatus	now	Claude Opus 4.6	- Redactado por: Claude Opus 4.6 (asistente de IA)
 S9	ai-provenance	es	genesis	content/es/genesis/study/CHAPTER-6-CONTEXT.md:328	apparatus	now	Redactado por	- Redactado por: Claude Opus 4.6 (asistente de IA)
 S9	repo-path	es	genesis	content/es/genesis/study/CHAPTER-7-CONTEXT.md:12	front	no	es/genesis/CHAPTER-7.md	**Compañero de:** `es/genesis/CHAPTER-7.md` (Edición Transparente)
-S9	rule-ref	es	genesis	content/es/genesis/study/CHAPTER-7-CONTEXT.md:13	front	no	Regla 29	**Reglas:** v3.3 (la Regla 29 gobierna este archivo)
+S9	rule-ref	es	genesis	content/es/genesis/study/CHAPTER-7-CONTEXT.md:13	front	no	Regla 29	**Reglas:** v3.4 (la Regla 29 gobierna este archivo)
 S9	rule-ref	es	genesis	content/es/genesis/study/CHAPTER-7-CONTEXT.md:28	apparatus	now	Regla 22	…a TT traduce los tres como los lee el TM, sin armonizacion (Regla 22). Esta es la tension numerica más visible en la narrativa d…
 S9	repo-path	es	genesis	content/es/genesis/study/CHAPTER-7-CONTEXT.md:222	apparatus	now	es/genesis/study/CHAPTER-1-CONTEXT.md	…blos Vecinos), véase el companion de Génesis 1 (Sección I, `es/genesis/study/CHAPTER-1-CONTEXT.md`). Las entradas a continuación abordan las circunstancias h…
 S9	ai-provenance	es	genesis	content/es/genesis/study/CHAPTER-7-CONTEXT.md:326	apparatus	now	Claude Opus 4.6	- Redactado por: Claude Opus 4.6 (asistente de IA)
 S9	ai-provenance	es	genesis	content/es/genesis/study/CHAPTER-7-CONTEXT.md:326	apparatus	now	Redactado por	- Redactado por: Claude Opus 4.6 (asistente de IA)
 S9	repo-path	es	genesis	content/es/genesis/study/CHAPTER-8-CONTEXT.md:12	front	no	es/genesis/CHAPTER-8.md	**Compañero de:** `es/genesis/CHAPTER-8.md` (Edición Transparente)
-S9	rule-ref	es	genesis	content/es/genesis/study/CHAPTER-8-CONTEXT.md:13	front	no	Regla 29	**Reglas:** v3.3 (la Regla 29 gobierna este archivo)
+S9	rule-ref	es	genesis	content/es/genesis/study/CHAPTER-8-CONTEXT.md:13	front	no	Regla 29	**Reglas:** v3.4 (la Regla 29 gobierna este archivo)
 S9	rule-ref	es	genesis	content/es/genesis/study/CHAPTER-8-CONTEXT.md:23	apparatus	now	Regla 2	… aguas." La TT preserva la barra (viento/espiritu) segun la Regla 2. La re-creacion despues del diluvio comienza con el mismo e…
 S9	repo-path	es	genesis	content/es/genesis/study/CHAPTER-8-CONTEXT.md:212	apparatus	now	es/genesis/study/CHAPTER-1-CONTEXT.md	…blos Vecinos), véase el companion de Génesis 1 (Sección I, `es/genesis/study/CHAPTER-1-CONTEXT.md`). Las entradas a continuación abordan las circunstancias h…
 S9	ai-provenance	es	genesis	content/es/genesis/study/CHAPTER-8-CONTEXT.md:311	apparatus	now	Claude Opus 4.6	- Redactado por: Claude Opus 4.6 (asistente de IA)
 S9	ai-provenance	es	genesis	content/es/genesis/study/CHAPTER-8-CONTEXT.md:311	apparatus	now	Redactado por	- Redactado por: Claude Opus 4.6 (asistente de IA)
 S9	repo-path	es	genesis	content/es/genesis/study/CHAPTER-9-CONTEXT.md:12	front	no	es/genesis/CHAPTER-9.md	**Compañero de:** `es/genesis/CHAPTER-9.md` (Edición Transparente)
-S9	rule-ref	es	genesis	content/es/genesis/study/CHAPTER-9-CONTEXT.md:13	front	no	Regla 29	**Reglas:** v3.3 (la Regla 29 gobierna este archivo)
+S9	rule-ref	es	genesis	content/es/genesis/study/CHAPTER-9-CONTEXT.md:13	front	no	Regla 29	**Reglas:** v3.4 (la Regla 29 gobierna este archivo)
 S9	rule-ref	es	genesis	content/es/genesis/study/CHAPTER-9-CONTEXT.md:245	apparatus	now	Regla 12	…) que la TT traduce literalmente sin suavización teológica (Regla 12).
 S9	repo-path	es	genesis	content/es/genesis/study/CHAPTER-9-CONTEXT.md:263	apparatus	now	es/genesis/study/CHAPTER-1-CONTEXT.md	…blos Vecinos), véase el companion de Génesis 1 (Sección I, `es/genesis/study/CHAPTER-1-CONTEXT.md`). Las entradas a continuación abordan las circunstancias h…
 S9	ai-provenance	es	genesis	content/es/genesis/study/CHAPTER-9-CONTEXT.md:373	apparatus	now	Claude Opus 4.6	- Redactado por: Claude Opus 4.6 (asistente de IA)
 S9	ai-provenance	es	genesis	content/es/genesis/study/CHAPTER-9-CONTEXT.md:373	apparatus	now	Redactado por	- Redactado por: Claude Opus 4.6 (asistente de IA)
-S9	rule-ref	es	genesis	content/es/genesis/study/CHAPTER-9-PROPHECY.md:8	front	no	Regla 29	**Reglas:** v3.3 (Regla 29 rige este archivo)
+S9	rule-ref	es	genesis	content/es/genesis/study/CHAPTER-9-PROPHECY.md:8	front	no	Regla 29	**Reglas:** v3.4 (Regla 29 rige este archivo)
 S9	tier-jargon	es	john	content/es/john/CHAPTER-1.md:11	front	no	Nivel 2	…ñor" al citar pasajes del AT que contienen YHWH; anotado en Nivel 2.
 S9	rule-ref	es	john	content/es/john/CHAPTER-1.md:11	front	no	Regla 25	**Política del Nombre Divino (Regla 25 / Política GS):** Opción C — κύριος (kyrios) se traduce com…
 S9	rule-ref	es	john	content/es/john/CHAPTER-1.md:12	front	now	Regla 28	**Status:** provisorio — pendiente de revisión por pares (Regla 28)
@@ -18425,12 +18167,12 @@ S9	rule-ref	es	john	content/es/john/CHAPTER-3.md:11	front	no	Regla 25	**Polític
 S9	rule-ref	es	john	content/es/john/CHAPTER-3.md:12	front	now	Regla 28	**Status:** provisorio — pendiente de revisión por pares (Regla 28)
 S9	rule-ref	es	john	content/es/john/CHAPTER-3.md:113	note	now	Regla 2	…do impulsa el dialogo. Esta es una ambiguedad genuina de la Regla 2 — el lector griego habria percibido ambos sentidos simultan…
 S9	rule-ref	es	john	content/es/john/CHAPTER-3.md:570	apparatus	now	Regla 2	…oral "de nuevo." Ambos sentidos activos en v.3. Barra según Regla 2. |
-S9	rule-ref	es	john	content/es/john/CONTEXT.md:6	front	no	Regla 29	**Conjunto de Reglas:** v3.3 (La Regla 29 gobierna este archivo)
+S9	rule-ref	es	john	content/es/john/CONTEXT.md:6	front	no	Regla 29	**Conjunto de Reglas:** v3.4 (La Regla 29 gobierna este archivo)
 S9	tier-jargon	es	john	content/es/john/CONTEXT.md:24	apparatus	now	Tier 2	…ontiene ambas; la TT preserva la ambigüedad con una nota de Tier 2 en lugar de elegir una glosa en español.
 S9	repo-path	es	john	content/es/john/CONTEXT.md:45	apparatus	now	docs/audit/PENDING.md	…nos*, "tipo"), conforme a la decisión a nivel de proyecto (`docs/audit/PENDING.md` señaló esto como elemento de consistencia entre idiomas).
 S9	tier-jargon	es	john	content/es/john/CONTEXT.md:47	apparatus	now	Tier 2	… La TT preserva la variante con una nota crítico-textual de Tier 2 en lugar de resolverla silenciosamente.
 S9	process-word	es	john	content/es/john/CONTEXT.md:123	apparatus	now	Fase 9	…logía se resuelve. La lista ilustrativa §4.4 del plan de la Fase 9 listó originalmente este motivo; fue restaurado en la revis…
-S9	rule-ref	es	john	content/es/john/INTRODUCTION.md:13	front	no	Regla 29	**Conjunto de reglas:** v3.3 (La Regla 29 gobierna este archivo)
+S9	rule-ref	es	john	content/es/john/INTRODUCTION.md:13	front	no	Regla 29	**Conjunto de reglas:** v3.4 (La Regla 29 gobierna este archivo)
 S9	rule-ref	es	john	content/es/john/INTRODUCTION.md:277	apparatus	now	Regla 4	…ἐγώ εἰμι tiene contenido semántico traducible. Umbral de la Regla 4 no superado. |
 S9	tier-jargon	es	john	content/es/john/INTRODUCTION.md:281	apparatus	now	Nivel 2	…tar Juegos de Palabras | Términos griegos clave anotados en Nivel 2 donde campo semántico o juego de palabras es significativo.…
 S9	tier-jargon	es	john	content/es/john/INTRODUCTION.md:282	apparatus	now	Nivel 2	…8 μονογενὴς θεός vs. μονογενὴς υἱός, Juan 1:34) anotadas en Nivel 2 sin adopción silenciosa. |
@@ -18443,7 +18185,7 @@ S9	rule-ref	es	john	content/es/john/INTRODUCTION.md:309	apparatus	now	Regla 22	�
 S9	ai-provenance	es	john	content/es/john/INTRODUCTION.md:380	apparatus	now	Claude Opus 4.6	> **Procedencia editorial:** Redactado por Claude Opus 4.6 (contexto 1M) el 27/04/2026. Aún no revisado. Esta introduc…
 S9	ai-provenance	es	john	content/es/john/INTRODUCTION.md:380	apparatus	now	Redactado por	> **Procedencia editorial:** Redactado por Claude Opus 4.6 (contexto 1M) el 27/04/2026. Aún no revisad…
 S9	rule-ref	es	john	content/es/john/INTRODUCTION.md:380	apparatus	now	Regla 29	…ucción es un recurso académico provisional gobernado por la Regla 29 de la TT. Todas las afirmaciones llevan etiquetas dobles; n…
-S9	rule-ref	es	john	content/es/john/PEOPLE.md:6	front	no	Regla 29	**Reglas:** v3.3 (La Regla 29 gobierna este archivo)
+S9	rule-ref	es	john	content/es/john/PEOPLE.md:6	front	no	Regla 29	**Reglas:** v3.4 (La Regla 29 gobierna este archivo)
 S9	rule-ref	es	john	content/es/john/PEOPLE.md:11	front	no	Regla 29	…aterial es contenido de estudio contextual gobernado por la Regla 29.
 S9	editorial-id	es	john	content/es/john/PEOPLE.md:15	front	no	J-006	… entrada grupal Yehudim sigue la Política Ioudaioi (Entrada J-006) y utiliza los campos PersonEntry estándar con el desglose …
 S9	repo-path	es	john	content/es/john/PEOPLE.md:15	front	no	RULES-GS.md	…sliteraciones siguen la tabla de nombres propios bloqueada (RULES-GS.md).
@@ -18479,19 +18221,19 @@ S9	ai-provenance	es	john	content/es/john/PEOPLE.md:238	apparatus	now	Redactado p
 S9	rule-ref	es	john	content/es/john/PEOPLE.md:238	apparatus	now	Regla 29	…rchivo es un recurso académico provisional gobernado por la Regla 29 de la TT. Las referencias cruzadas de Yochanan y Yeshua a `…
 S9	repo-path	es	john	content/es/john/PEOPLE.md:238	apparatus	now	matthew/PEOPLE.md	… de la TT. Las referencias cruzadas de Yochanan y Yeshua a `matthew/PEOPLE.md` enlazan a las entradas existentes de la Fase 6.6G en lugar…
 S9	repo-path	es	john	content/es/john/study/CHAPTER-1-CONTEXT.md:12	front	no	es/john/CHAPTER-1.md	**Compañero de:** `es/john/CHAPTER-1.md` (Edición Transparente)
-S9	rule-ref	es	john	content/es/john/study/CHAPTER-1-CONTEXT.md:13	front	no	Regla 29	**Reglas:** v3.3 (La Regla 29 rige este archivo)
+S9	rule-ref	es	john	content/es/john/study/CHAPTER-1-CONTEXT.md:13	front	no	Regla 29	**Reglas:** v3.4 (La Regla 29 rige este archivo)
 S9	rule-ref	es	john	content/es/john/study/CHAPTER-1-CONTEXT.md:124	apparatus	now	Regla 4	… la formula aún más. La TT translitera *amen* (se aplica la Regla 4 — la palabra ha pasado a las lenguas de destino) y preserva…
 S9	ai-provenance	es	john	content/es/john/study/CHAPTER-1-CONTEXT.md:379	apparatus	now	Claude Opus 4.6	- Redactado por: Claude Opus 4.6 (asistente de IA)
 S9	ai-provenance	es	john	content/es/john/study/CHAPTER-1-CONTEXT.md:379	apparatus	now	Redactado por	- Redactado por: Claude Opus 4.6 (asistente de IA)
 S9	repo-path	es	john	content/es/john/study/CHAPTER-2-CONTEXT.md:12	front	no	es/john/CHAPTER-2.md	**Compañero de:** `es/john/CHAPTER-2.md` (Edición Transparente)
-S9	rule-ref	es	john	content/es/john/study/CHAPTER-2-CONTEXT.md:13	front	no	Regla 29	**Reglas:** v3.3 (La Regla 29 rige este archivo)
+S9	rule-ref	es	john	content/es/john/study/CHAPTER-2-CONTEXT.md:13	front	no	Regla 29	**Reglas:** v3.4 (La Regla 29 rige este archivo)
 S9	ai-provenance	es	john	content/es/john/study/CHAPTER-2-CONTEXT.md:248	apparatus	now	Claude Opus 4.6	- Redactado por: Claude Opus 4.6 (asistente de IA)
 S9	ai-provenance	es	john	content/es/john/study/CHAPTER-2-CONTEXT.md:248	apparatus	now	Redactado por	- Redactado por: Claude Opus 4.6 (asistente de IA)
 S9	repo-path	es	john	content/es/john/study/CHAPTER-3-CONTEXT.md:12	front	no	es/john/CHAPTER-3.md	**Compañero de:** `es/john/CHAPTER-3.md` (Edición Transparente)
-S9	rule-ref	es	john	content/es/john/study/CHAPTER-3-CONTEXT.md:13	front	no	Regla 29	**Reglas:** v3.3 (La Regla 29 rige este archivo)
+S9	rule-ref	es	john	content/es/john/study/CHAPTER-3-CONTEXT.md:13	front	no	Regla 29	**Reglas:** v3.4 (La Regla 29 rige este archivo)
 S9	ai-provenance	es	john	content/es/john/study/CHAPTER-3-CONTEXT.md:229	apparatus	now	Claude Opus 4.6	- Redactado por: Claude Opus 4.6 (asistente de IA)
 S9	ai-provenance	es	john	content/es/john/study/CHAPTER-3-CONTEXT.md:229	apparatus	now	Redactado por	- Redactado por: Claude Opus 4.6 (asistente de IA)
-S9	rule-ref	es	john	content/es/john/study/CHAPTER-3-PROPHECY.md:8	front	no	Regla 29	**Reglas:** v3.3 (Regla 29 gobierna este archivo)
+S9	rule-ref	es	john	content/es/john/study/CHAPTER-3-PROPHECY.md:8	front	no	Regla 29	**Reglas:** v3.4 (Regla 29 gobierna este archivo)
 S9	repo-path	es	john	content/es/john/study/CHAPTER-3-PROPHECY.md:36	apparatus	now	content/es/john/study/CHAPTER-3-CONTEXT.md	| `content/es/john/study/CHAPTER-3-CONTEXT.md` §A6, §B2 | INTERNA | Referencia cruzada para tratamiento l…
 S9	ai-provenance	es	john	content/es/john/study/CHAPTER-3-PROPHECY.md:41	apparatus	now	Claude Opus 4.7	- Redactado por: Claude Opus 4.7 (asistente de IA)
 S9	ai-provenance	es	john	content/es/john/study/CHAPTER-3-PROPHECY.md:41	apparatus	now	Redactado por	- Redactado por: Claude Opus 4.7 (asistente de IA)
@@ -18824,7 +18566,7 @@ S9	tier-jargon	es	matthew	content/es/matthew/CHAPTER-3.md:11	front	no	Nivel 2	�
 S9	rule-ref	es	matthew	content/es/matthew/CHAPTER-3.md:11	front	no	Regla 25	**Política del Nombre Divino (Regla 25 / Política GS):** Opción C — κύριος (kyrios) traducido como…
 S9	rule-ref	es	matthew	content/es/matthew/CHAPTER-3.md:12	front	now	Regla 28	**Status:** provisorio — pendiente de revisión por pares (Regla 28)
 S9	rule-ref	es	matthew	content/es/matthew/CHAPTER-3.md:327	apparatus	now	Regla 2	…iento/espíritu | Corresponde al hebreo *ruach*. Barra según Regla 2. |
-S9	rule-ref	es	matthew	content/es/matthew/CONTEXT.md:6	front	no	Regla 29	**Conjunto de Reglas:** v3.3 (La Regla 29 gobierna este archivo)
+S9	rule-ref	es	matthew	content/es/matthew/CONTEXT.md:6	front	no	Regla 29	**Conjunto de Reglas:** v3.4 (La Regla 29 gobierna este archivo)
 S9	editorial-id	es	matthew	content/es/matthew/CONTEXT.md:22	apparatus	now	M-001	…s en sí mismo el recurso. La entrada del registro editorial M-001 (Política de Fórmula de Cumplimiento) codifica seis tipos d…
 S9	editorial-log-ref	es	matthew	content/es/matthew/CONTEXT.md:22	apparatus	now	registro editorial	…co formulario que es en sí mismo el recurso. La entrada del registro editorial M-001 (Política de Fórmula de Cumplimiento) codifica seis t…
 S9	tier-jargon	es	matthew	content/es/matthew/CONTEXT.md:26	apparatus	now	Tier 2	…a sola cita. La TT preserva la modificación con una nota de Tier 2 que señala ambos versículos fuente.
@@ -18845,7 +18587,7 @@ S9	editorial-id	es	matthew	content/es/matthew/CONTEXT.md:95	apparatus	now	M-004	
 S9	repo-path	es	matthew	content/es/matthew/CONTEXT.md:95	apparatus	now	docs/editorial-log/matthew.md	**Fuente:** `docs/editorial-log/matthew.md` Entrada M-004 (clasificación de Narrativa Formulario *ange…
 S9	editorial-log-ref	es	matthew	content/es/matthew/CONTEXT.md:95	apparatus	now	editorial-log	**Fuente:** `docs/editorial-log/matthew.md` Entrada M-004 (clasificación de Narrativa Formu…
 S9	editorial-id	es	matthew	content/es/matthew/CONTEXT.md:116	apparatus	now	M-001	…T dice esto. La cita sin resolver es en sí misma los datos (M-001 la clasifica como Tipo 5 de los seis tipos de fórmula). La …
-S9	rule-ref	es	matthew	content/es/matthew/INTRODUCTION.md:13	front	no	Regla 29	**Reglas:** v3.3 (La Regla 29 gobierna este archivo)
+S9	rule-ref	es	matthew	content/es/matthew/INTRODUCTION.md:13	front	no	Regla 29	**Reglas:** v3.4 (La Regla 29 gobierna este archivo)
 S9	repo-path	es	matthew	content/es/matthew/INTRODUCTION.md:312	apparatus	now	RULES-GS.md	…*). Según la Política del Nombre Divino de la TT (Opción C, RULES-GS.md):
 S9	rule-ref	es	matthew	content/es/matthew/INTRODUCTION.md:317	apparatus	now	Regla 13	- Los casos ambiguos se señalan según la Regla 13.
 S9	rule-ref	es	matthew	content/es/matthew/INTRODUCTION.md:330	apparatus	now	Regla 4	…eado como "reino celestial" o "reino de Dios." Umbral de la Regla 4 no superado para βασιλεία. |
@@ -18855,7 +18597,7 @@ S9	tier-jargon	es	matthew	content/es/matthew/INTRODUCTION.md:336	apparatus	now	N
 S9	ai-provenance	es	matthew	content/es/matthew/INTRODUCTION.md:358	apparatus	now	Claude Opus 4.6	> **Procedencia editorial:** Redactado por Claude Opus 4.6 (contexto 1M) el 27-04-2026. Sin revisión. Esta introducció…
 S9	ai-provenance	es	matthew	content/es/matthew/INTRODUCTION.md:358	apparatus	now	Redactado por	> **Procedencia editorial:** Redactado por Claude Opus 4.6 (contexto 1M) el 27-04-2026. Sin revisión. …
 S9	rule-ref	es	matthew	content/es/matthew/INTRODUCTION.md:358	apparatus	now	Regla 29	…ucción es un recurso académico provisional gobernado por la Regla 29 de la TT. Todas las afirmaciones llevan etiquetas duales; n…
-S9	rule-ref	es	matthew	content/es/matthew/PEOPLE.md:6	front	no	Regla 29	**Reglas:** v3.3 (La Regla 29 gobierna este archivo)
+S9	rule-ref	es	matthew	content/es/matthew/PEOPLE.md:6	front	no	Regla 29	**Reglas:** v3.4 (La Regla 29 gobierna este archivo)
 S9	rule-ref	es	matthew	content/es/matthew/PEOPLE.md:11	front	no	Regla 29	…e material es contenido de estudio contextual regido por la Regla 29.
 S9	repo-path	es	matthew	content/es/matthew/PEOPLE.md:15	front	no	RULES-GS.md	…es siguen la tabla de nombres propios fijada (RULES-HB.md / RULES-GS.md).
 S9	repo-path	es	matthew	content/es/matthew/PEOPLE.md:15	front	no	RULES-HB.md	…ransliteraciones siguen la tabla de nombres propios fijada (RULES-HB.md / RULES-GS.md).
@@ -18876,12 +18618,12 @@ S9	ai-provenance	es	matthew	content/es/matthew/PEOPLE.md:280	apparatus	now	Redac
 S9	rule-ref	es	matthew	content/es/matthew/PEOPLE.md:280	apparatus	now	Regla 29	…rchivo es un recurso académico provisional gobernado por la Regla 29 de la TT. Las referencias cruzadas a genesis/PEOPLE.md enla…
 S9	repo-path	es	matthew	content/es/matthew/PEOPLE.md:280	apparatus	now	genesis/PEOPLE.md	…ernado por la Regla 29 de la TT. Las referencias cruzadas a genesis/PEOPLE.md enlazan a entradas existentes en lugar de duplicar contenid…
 S9	repo-path	es	matthew	content/es/matthew/study/CHAPTER-1-CONTEXT.md:12	front	no	es/matthew/CHAPTER-1.md	**Compañero de:** `es/matthew/CHAPTER-1.md` (Edición Transparente)
-S9	rule-ref	es	matthew	content/es/matthew/study/CHAPTER-1-CONTEXT.md:13	front	no	Regla 29	**Reglas:** v3.3 (La Regla 29 gobierna este archivo)
+S9	rule-ref	es	matthew	content/es/matthew/study/CHAPTER-1-CONTEXT.md:13	front	no	Regla 29	**Reglas:** v3.4 (La Regla 29 gobierna este archivo)
 S9	repo-path	es	matthew	content/es/matthew/study/CHAPTER-1-CONTEXT.md:232	apparatus	now	es/john/study/CHAPTER-1-CONTEXT.md	…Pueblos Vecinos), véase el compañero de Juan 1 (Sección I, `es/john/study/CHAPTER-1-CONTEXT.md`). Juan y Mateo comparten el mismo período histórico genera…
 S9	ai-provenance	es	matthew	content/es/matthew/study/CHAPTER-1-CONTEXT.md:305	apparatus	now	Anthropic	- Redactado por: IA (Claude, Anthropic)
 S9	ai-provenance	es	matthew	content/es/matthew/study/CHAPTER-1-CONTEXT.md:305	apparatus	now	Claude	- Redactado por: IA (Claude, Anthropic)
 S9	ai-provenance	es	matthew	content/es/matthew/study/CHAPTER-1-CONTEXT.md:305	apparatus	now	Redactado por	- Redactado por: IA (Claude, Anthropic)
-S9	rule-ref	es	matthew	content/es/matthew/study/CHAPTER-1-PROPHECY.md:8	front	no	Regla 29	**Reglas:** v3.3 (Regla 29 gobierna este archivo)
+S9	rule-ref	es	matthew	content/es/matthew/study/CHAPTER-1-PROPHECY.md:8	front	no	Regla 29	**Reglas:** v3.4 (Regla 29 gobierna este archivo)
 S9	rule-ref	es	matthew	content/es/matthew/study/CHAPTER-1-PROPHECY.md:18	apparatus	now	Regla 2	…TT traduce la forma con barra "virgen/joven mujer" según la Regla 2 (Preservación de Ambigüedad).
 S9	editorial-id	es	matthew	content/es/matthew/study/CHAPTER-1-PROPHECY.md:20	apparatus	now	M-001	…ra") — una fórmula de cumplimiento directo según la Entrada M-001 §Directa. Mateo cita el texto de la LXX (*parthenos*) en lu…
 S9	editorial-id	es	matthew	content/es/matthew/study/CHAPTER-1-PROPHECY.md:20	apparatus	now	M-002	…amo de Mateo. → Vea `docs/editorial-log/matthew.md` Entrada M-002 para el razonamiento completo de la política de barra *part…
@@ -18896,12 +18638,12 @@ S9	editorial-log-ref	es	matthew	content/es/matthew/study/CHAPTER-1-PROPHECY.md:3
 S9	ai-provenance	es	matthew	content/es/matthew/study/CHAPTER-1-PROPHECY.md:42	apparatus	now	Claude Opus 4.7	- Redactado por: Claude Opus 4.7 (asistente de IA)
 S9	ai-provenance	es	matthew	content/es/matthew/study/CHAPTER-1-PROPHECY.md:42	apparatus	now	Redactado por	- Redactado por: Claude Opus 4.7 (asistente de IA)
 S9	repo-path	es	matthew	content/es/matthew/study/CHAPTER-2-CONTEXT.md:12	front	no	es/matthew/CHAPTER-2.md	**Compañero de:** `es/matthew/CHAPTER-2.md` (Edición Transparente)
-S9	rule-ref	es	matthew	content/es/matthew/study/CHAPTER-2-CONTEXT.md:13	front	no	Regla 29	**Reglas:** v3.3 (La Regla 29 gobierna este archivo)
+S9	rule-ref	es	matthew	content/es/matthew/study/CHAPTER-2-CONTEXT.md:13	front	no	Regla 29	**Reglas:** v3.4 (La Regla 29 gobierna este archivo)
 S9	repo-path	es	matthew	content/es/matthew/study/CHAPTER-2-CONTEXT.md:197	apparatus	now	es/john/study/CHAPTER-1-CONTEXT.md	…Pueblos Vecinos), véase el compañero de Juan 1 (Sección I, `es/john/study/CHAPTER-1-CONTEXT.md`). Para el contexto completo, vea el compañero de Juan 1 Se…
 S9	ai-provenance	es	matthew	content/es/matthew/study/CHAPTER-2-CONTEXT.md:277	apparatus	now	Anthropic	- Redactado por: IA (Claude, Anthropic)
 S9	ai-provenance	es	matthew	content/es/matthew/study/CHAPTER-2-CONTEXT.md:277	apparatus	now	Claude	- Redactado por: IA (Claude, Anthropic)
 S9	ai-provenance	es	matthew	content/es/matthew/study/CHAPTER-2-CONTEXT.md:277	apparatus	now	Redactado por	- Redactado por: IA (Claude, Anthropic)
-S9	rule-ref	es	matthew	content/es/matthew/study/CHAPTER-2-PROPHECY.md:8	front	no	Regla 29	**Reglas:** v3.3 (Regla 29 gobierna este archivo)
+S9	rule-ref	es	matthew	content/es/matthew/study/CHAPTER-2-PROPHECY.md:8	front	no	Regla 29	**Reglas:** v3.4 (Regla 29 gobierna este archivo)
 S9	editorial-id	es	matthew	content/es/matthew/study/CHAPTER-2-PROPHECY.md:20	apparatus	now	M-001	**Notas de cumplimiento:** Según la Entrada M-001 §Compuesta, Mateo mezcla dos fuentes distintas del AT: Miqu…
 S9	editorial-id	es	matthew	content/es/matthew/study/CHAPTER-2-PROPHECY.md:20	apparatus	now	M-001	…ma profecía). → Vea `docs/editorial-log/matthew.md` Entrada M-001 §Compuesta para el análisis textual capa-por-capa (modifica…
 S9	repo-path	es	matthew	content/es/matthew/study/CHAPTER-2-PROPHECY.md:20	apparatus	now	docs/editorial-log/matthew.md	… podrían en principio satisfacer la misma profecía). → Vea `docs/editorial-log/matthew.md` Entrada M-001 §Compuesta para el análisis textual capa-por…
@@ -18926,7 +18668,7 @@ S9	repo-path	es	matthew	content/es/matthew/study/CHAPTER-2-PROPHECY.md:81	appara
 S9	ai-provenance	es	matthew	content/es/matthew/study/CHAPTER-2-PROPHECY.md:86	apparatus	now	Claude Opus 4.7	- Redactado por: Claude Opus 4.7 (asistente de IA)
 S9	ai-provenance	es	matthew	content/es/matthew/study/CHAPTER-2-PROPHECY.md:86	apparatus	now	Redactado por	- Redactado por: Claude Opus 4.7 (asistente de IA)
 S9	repo-path	es	matthew	content/es/matthew/study/CHAPTER-3-CONTEXT.md:12	front	no	es/matthew/CHAPTER-3.md	**Compañero de:** `es/matthew/CHAPTER-3.md` (Edición Transparente)
-S9	rule-ref	es	matthew	content/es/matthew/study/CHAPTER-3-CONTEXT.md:13	front	no	Regla 29	**Reglas:** v3.3 (La Regla 29 gobierna este archivo)
+S9	rule-ref	es	matthew	content/es/matthew/study/CHAPTER-3-CONTEXT.md:13	front	no	Regla 29	**Reglas:** v3.4 (La Regla 29 gobierna este archivo)
 S9	repo-path	es	matthew	content/es/matthew/study/CHAPTER-3-CONTEXT.md:226	apparatus	now	es/john/study/CHAPTER-1-CONTEXT.md	…Pueblos Vecinos), véase el compañero de Juan 1 (Sección I, `es/john/study/CHAPTER-1-CONTEXT.md`). Para el contexto completo, vea el compañero de Juan 1 Se…
 S9	ai-provenance	es	matthew	content/es/matthew/study/CHAPTER-3-CONTEXT.md:311	apparatus	now	Anthropic	- Redactado por: IA (Claude, Anthropic)
 S9	ai-provenance	es	matthew	content/es/matthew/study/CHAPTER-3-CONTEXT.md:311	apparatus	now	Claude	- Redactado por: IA (Claude, Anthropic)
@@ -19695,7 +19437,7 @@ S9	rule-ref	pt-br	genesis	content/pt-br/genesis/CHAPTER-9.md:11	front	no	Regra 2
 S9	rule-ref	pt-br	genesis	content/pt-br/genesis/CHAPTER-9.md:12	front	now	Regra 28	**Status:** provisório — aguardando revisão por pares (Regra 28)
 S9	rule-ref	pt-br	genesis	content/pt-br/genesis/CHAPTER-9.md:307	note	now	Regra 2	…ara atos sexuais. A TT traduz o texto de superfície: "viu." Regra 2: o texto diz "viu," traduzimos "viu." As leituras secundári…
 S9	tier-jargon	pt-br	genesis	content/pt-br/genesis/CHAPTER-9.md:352	note	now	Nível 2	> ⚠️ **NOTA DE RECEPÇÃO (Nível 2)**
-S9	rule-ref	pt-br	genesis	content/pt-br/genesis/CONTEXT.md:6	front	no	Regra 29	**Conjunto de Regras:** v3.3 (A Regra 29 governa este arquivo)
+S9	rule-ref	pt-br	genesis	content/pt-br/genesis/CONTEXT.md:6	front	no	Regra 29	**Conjunto de Regras:** v3.4 (A Regra 29 governa este arquivo)
 S9	editorial-log-ref	pt-br	genesis	content/pt-br/genesis/CONTEXT.md:24	apparatus	now	log editorial	…tural que o leitor deve reconhecer como sinal recorrente. O log editorial `transliteration-decisions.md` registra a decisão de nível-…
 S9	repo-path	pt-br	genesis	content/pt-br/genesis/CONTEXT.md:24	apparatus	now	transliteration-decisions.md	…tor deve reconhecer como sinal recorrente. O log editorial `transliteration-decisions.md` registra a decisão de nível-de-projeto de manter *toledot*…
 S9	editorial-log-ref	pt-br	genesis	content/pt-br/genesis/CONTEXT.md:37	apparatus	now	log editorial	… texto como um marcador deliberado de diálogo; a entrada do log editorial sobre Gênesis 3 explicitamente exige que esta distinção NÃO…
@@ -19711,12 +19453,12 @@ S9	tier-jargon	pt-br	genesis	content/pt-br/genesis/CONTEXT.md:120	apparatus	now	
 S9	process-word	pt-br	genesis	content/pt-br/genesis/CONTEXT.md:153	apparatus	now	Fase 8	O trabalho da Seção I da Fase 8 rastreia o esquema de etnogênese (gen/9 I-A10) e a Tábua da…
 S9	tier-jargon	pt-br	genesis	content/pt-br/genesis/CONTEXT.md:166	apparatus	now	Tier 2	…á-lo para um singular ("eu farei humanos") e adiciona notas Tier 2 sinalizando as opções interpretativas.
 S9	editorial-log-ref	pt-br	genesis	content/pt-br/genesis/CONTEXT.md:168	apparatus	now	log editorial	O log editorial registra uma decisão transcapitular específica: "Acrescenta…
-S9	rule-ref	pt-br	genesis	content/pt-br/genesis/INTRODUCTION.md:13	front	no	Regra 29	**Regras:** v3.3 (Regra 29 governa este arquivo)
+S9	rule-ref	pt-br	genesis	content/pt-br/genesis/INTRODUCTION.md:13	front	no	Regra 29	**Regras:** v3.4 (Regra 29 governa este arquivo)
 S9	ai-provenance	pt-br	genesis	content/pt-br/genesis/INTRODUCTION.md:433	apparatus	now	(1M context)	> **Proveniência editorial:** Redigido por Claude Opus 4.6 (1M context) em 2026-04-28. Ainda não revisado. Esta introdução é um rec…
 S9	ai-provenance	pt-br	genesis	content/pt-br/genesis/INTRODUCTION.md:433	apparatus	now	Claude Opus 4.6	> **Proveniência editorial:** Redigido por Claude Opus 4.6 (1M context) em 2026-04-28. Ainda não revisado. Esta introd…
 S9	ai-provenance	pt-br	genesis	content/pt-br/genesis/INTRODUCTION.md:433	apparatus	now	Redigido por	> **Proveniência editorial:** Redigido por Claude Opus 4.6 (1M context) em 2026-04-28. Ainda não revis…
 S9	rule-ref	pt-br	genesis	content/pt-br/genesis/INTRODUCTION.md:433	apparatus	now	Regra 29	…introdução é um recurso acadêmico provisório governado pela Regra 29 da TT. Todas as afirmações carregam rótulos duplos; nenhuma…
-S9	rule-ref	pt-br	genesis	content/pt-br/genesis/PEOPLE.md:5	front	no	Regra 29	**Regras:** v3.3 (Regra 29 rege este arquivo)
+S9	rule-ref	pt-br	genesis	content/pt-br/genesis/PEOPLE.md:5	front	no	Regra 29	**Regras:** v3.4 (Regra 29 rege este arquivo)
 S9	rule-ref	pt-br	genesis	content/pt-br/genesis/PEOPLE.md:10	front	no	Regra 29	…. Este material é conteúdo de estudo contextual regido pela Regra 29.
 S9	repo-path	pt-br	genesis	content/pt-br/genesis/PEOPLE.md:12	front	no	RULES-GS.md	…ões seguem a tabela de nomes próprios fixada (RULES-HB.md / RULES-GS.md).
 S9	repo-path	pt-br	genesis	content/pt-br/genesis/PEOPLE.md:12	front	no	RULES-HB.md	…" Transliterações seguem a tabela de nomes próprios fixada (RULES-HB.md / RULES-GS.md).
@@ -19725,19 +19467,19 @@ S9	ai-provenance	pt-br	genesis	content/pt-br/genesis/PEOPLE.md:914	apparatus	now
 S9	ai-provenance	pt-br	genesis	content/pt-br/genesis/PEOPLE.md:914	apparatus	now	Redigido por	> **Proveniência editorial:** Redigido por Claude Opus 4.6 (contexto 1M) em 2026-04-27. Ainda não revi…
 S9	rule-ref	pt-br	genesis	content/pt-br/genesis/PEOPLE.md:914	apparatus	now	Regra 29	…te arquivo é um recurso acadêmico provisório governado pela Regra 29 da TT.
 S9	repo-path	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-1-CONTEXT.md:12	front	no	pt-br/genesis/CHAPTER-1.md	**Acompanha:** `pt-br/genesis/CHAPTER-1.md` (Edição Transparente)
-S9	rule-ref	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-1-CONTEXT.md:13	front	no	Regra 29	**Regras:** v3.3 (Regra 29 governa este arquivo)
+S9	rule-ref	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-1-CONTEXT.md:13	front	no	Regra 29	**Regras:** v3.4 (Regra 29 governa este arquivo)
 S9	rule-ref	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-1-CONTEXT.md:127	apparatus	now	Regra 7	…eros estão textualmente presentes. As fórmulas fixas da TT (Regra 7) preservam estes padrões mantendo as frases repetidas estáv…
 S9	rule-ref	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-1-CONTEXT.md:302	apparatus	now	Regra 7	…memória e à recitação comunitária. As fórmulas fixas da TT (Regra 7) preservam exatamente esta estrutura performática — as mesm…
 S9	ai-provenance	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-1-CONTEXT.md:722	apparatus	now	Claude Opus 4.6	- Redigido por: Claude Opus 4.6 (assistente de IA)
 S9	ai-provenance	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-1-CONTEXT.md:722	apparatus	now	Redigido por	- Redigido por: Claude Opus 4.6 (assistente de IA)
 S9	rule-ref	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-1-CONTEXT.md:725	apparatus	now	Regra 29	- Conformidade com Regra 29: revisão pendente
 S9	repo-path	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-10-CONTEXT.md:12	front	no	pt-br/genesis/CHAPTER-10.md	**Companheiro de:** `pt-br/genesis/CHAPTER-10.md` (Edição Transparente)
-S9	rule-ref	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-10-CONTEXT.md:13	front	no	Regra 29	**Regras:** v3.3 (Regra 29 governa este arquivo)
+S9	rule-ref	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-10-CONTEXT.md:13	front	no	Regra 29	**Regras:** v3.4 (Regra 29 governa este arquivo)
 S9	repo-path	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-10-CONTEXT.md:170	apparatus	now	pt-br/genesis/study/CHAPTER-1-CONTEXT.md	…Povos Vizinhos), veja o companheiro de Gênesis 1 (Seção I, `pt-br/genesis/study/CHAPTER-1-CONTEXT.md`). As entradas abaixo abordam as circunstâncias históricas …
 S9	ai-provenance	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-10-CONTEXT.md:265	apparatus	now	Claude Opus 4.6	- Redigido por: Claude Opus 4.6 (assistente de IA)
 S9	ai-provenance	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-10-CONTEXT.md:265	apparatus	now	Redigido por	- Redigido por: Claude Opus 4.6 (assistente de IA)
 S9	repo-path	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-11-CONTEXT.md:12	front	no	pt-br/genesis/CHAPTER-11.md	**Companheiro de:** `pt-br/genesis/CHAPTER-11.md` (Edição Transparente)
-S9	rule-ref	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-11-CONTEXT.md:13	front	no	Regra 29	**Regras:** v3.3 (Regra 29 governa este arquivo)
+S9	rule-ref	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-11-CONTEXT.md:13	front	no	Regra 29	**Regras:** v3.4 (Regra 29 governa este arquivo)
 S9	rule-ref	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-11-CONTEXT.md:43	apparatus	now	Regra 12	…ral comprovada. A TT traduz o antropomorfismo literalmente (Regra 12).
 S9	rule-ref	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-11-CONTEXT.md:66	apparatus	now	Regra 22	…tamento segue a leitura da LXX. A TT traduz o TM conforme a Regra 22 (política de texto-base), portanto Kainan não aparece. Esta…
 S9	rule-ref	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-11-CONTEXT.md:66	apparatus	now	Regra 22	…parece. Esta variante é anotada aqui conforme a provisão da Regra 22 de que variantes textuais significativas "podem ser anotada…
@@ -19745,13 +19487,13 @@ S9	repo-path	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-11-CONTEXT.md:194
 S9	ai-provenance	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-11-CONTEXT.md:291	apparatus	now	Claude Opus 4.6	- Redigido por: Claude Opus 4.6 (assistente de IA)
 S9	ai-provenance	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-11-CONTEXT.md:291	apparatus	now	Redigido por	- Redigido por: Claude Opus 4.6 (assistente de IA)
 S9	repo-path	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-12-CONTEXT.md:12	front	no	pt-br/genesis/CHAPTER-12.md	**Companheiro de:** `pt-br/genesis/CHAPTER-12.md` (Edição Transparente)
-S9	rule-ref	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-12-CONTEXT.md:13	front	no	Regra 29	**Regras:** v3.3 (Regra 29 governa este arquivo)
+S9	rule-ref	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-12-CONTEXT.md:13	front	no	Regra 29	**Regras:** v3.4 (Regra 29 governa este arquivo)
 S9	repo-path	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-12-CONTEXT.md:194	apparatus	now	pt-br/genesis/study/CHAPTER-1-CONTEXT.md	…Povos Vizinhos), veja o companheiro de Gênesis 1 (Seção I, `pt-br/genesis/study/CHAPTER-1-CONTEXT.md`). As entradas abaixo abordam as circunstâncias históricas …
 S9	ai-provenance	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-12-CONTEXT.md:295	apparatus	now	Claude Opus 4.6	- Redigido por: Claude Opus 4.6 (assistente de IA)
 S9	ai-provenance	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-12-CONTEXT.md:295	apparatus	now	Redigido por	- Redigido por: Claude Opus 4.6 (assistente de IA)
-S9	rule-ref	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-12-PROPHECY.md:8	front	no	Regra 29	**Regras:** v3.3 (Regra 29 governa este arquivo)
+S9	rule-ref	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-12-PROPHECY.md:8	front	no	Regra 29	**Regras:** v3.4 (Regra 29 governa este arquivo)
 S9	repo-path	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-2-CONTEXT.md:12	front	no	pt-br/genesis/CHAPTER-2.md	**Acompanha:** `pt-br/genesis/CHAPTER-2.md` (Edição Transparente)
-S9	rule-ref	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-2-CONTEXT.md:13	front	no	Regra 29	**Regras:** v3.3 (Regra 29 governa este arquivo)
+S9	rule-ref	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-2-CONTEXT.md:13	front	no	Regra 29	**Regras:** v3.4 (Regra 29 governa este arquivo)
 S9	rule-ref	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-2-CONTEXT.md:23	apparatus	now	Regra 22	…ra evitar o desconforto teológico. A TT segue o TM conforme Regra 22 (traduzir texto base; anotar variantes, não as adotar silen…
 S9	rule-ref	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-2-CONTEXT.md:33	apparatus	now	Regra 25	…raduz isso consonantalmente (YHWH, não "o SENHOR") conforme Regra 25 Opção A, tornando a mudança de nome divino visível. A maior…
 S9	rule-ref	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-2-CONTEXT.md:70	apparatus	now	Regra 2	…e marginal. A TT preserva "lado/costela" com barra conforme Regra 2.
@@ -19759,7 +19501,7 @@ S9	repo-path	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-2-CONTEXT.md:307	
 S9	ai-provenance	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-2-CONTEXT.md:408	apparatus	now	Claude Opus 4.6	- Redigido por: Claude Opus 4.6 (assistente de IA)
 S9	ai-provenance	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-2-CONTEXT.md:408	apparatus	now	Redigido por	- Redigido por: Claude Opus 4.6 (assistente de IA)
 S9	repo-path	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-3-CONTEXT.md:12	front	no	pt-br/genesis/CHAPTER-3.md	**Acompanha:** `pt-br/genesis/CHAPTER-3.md` (Edição Transparente)
-S9	rule-ref	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-3-CONTEXT.md:13	front	no	Regra 29	**Regras:** v3.3 (Regra 29 governa este arquivo)
+S9	rule-ref	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-3-CONTEXT.md:13	front	no	Regra 29	**Regras:** v3.4 (Regra 29 governa este arquivo)
 S9	rule-ref	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-3-CONTEXT.md:48	apparatus	now	Regra 1	…ali, "voz" é mais natural. A TT usa "voz" consistentemente (Regra 1) com uma nota em 3:8 sinalizando o alcance mais amplo.
 S9	rule-ref	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-3-CONTEXT.md:112	apparatus	now	Regra 12	… inferindo entardecer). A TT traduz literalmente conforme a Regra 12 (sem falsa precisão). O hebraico diz apenas "vento do dia" …
 S9	rule-ref	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-3-CONTEXT.md:192	apparatus	now	Regra 4	… direto) e não translitера *nachash* (não cruza o limiar da Regra 4).
@@ -19767,9 +19509,9 @@ S9	rule-ref	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-3-CONTEXT.md:294	a
 S9	repo-path	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-3-CONTEXT.md:332	apparatus	now	pt-br/genesis/study/CHAPTER-1-CONTEXT.md	…Povos Vizinhos), veja o companheiro de Gênesis 1 (Seção I, `pt-br/genesis/study/CHAPTER-1-CONTEXT.md`). As entradas abaixo abordam as circunstâncias históricas …
 S9	ai-provenance	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-3-CONTEXT.md:431	apparatus	now	Claude Opus 4.6	- Redigido por: Claude Opus 4.6 (assistente de IA)
 S9	ai-provenance	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-3-CONTEXT.md:431	apparatus	now	Redigido por	- Redigido por: Claude Opus 4.6 (assistente de IA)
-S9	rule-ref	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-3-PROPHECY.md:8	front	no	Regra 29	**Regras:** v3.3 (Regra 29 governa este arquivo)
+S9	rule-ref	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-3-PROPHECY.md:8	front	no	Regra 29	**Regras:** v3.4 (Regra 29 governa este arquivo)
 S9	repo-path	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-4-CONTEXT.md:12	front	no	pt-br/genesis/CHAPTER-4.md	**Acompanha:** `pt-br/genesis/CHAPTER-4.md` (Edição Transparente)
-S9	rule-ref	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-4-CONTEXT.md:13	front	no	Regra 29	**Regras:** v3.3 (Regra 29 governa este arquivo)
+S9	rule-ref	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-4-CONTEXT.md:13	front	no	Regra 29	**Regras:** v3.4 (Regra 29 governa este arquivo)
 S9	rule-ref	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-4-CONTEXT.md:44	apparatus	now	Regra 1	… mesma tradução com barra em ambos os versículos conforme a Regra 1.
 S9	rule-ref	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-4-CONTEXT.md:54	apparatus	now	Regra 22	…ampo." A TT segue o TM com "…" e nota a variante conforme a Regra 22.
 S9	editorial-id	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-4-CONTEXT.md:74	apparatus	now	(entrada 081)	…uma nota 🔴 CRÍTICA. Esta é a decisão do registro editorial (entrada 081).
@@ -19778,13 +19520,13 @@ S9	repo-path	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-4-CONTEXT.md:223	
 S9	ai-provenance	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-4-CONTEXT.md:328	apparatus	now	Claude Opus 4.6	- Redigido por: Claude Opus 4.6 (assistente de IA)
 S9	ai-provenance	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-4-CONTEXT.md:328	apparatus	now	Redigido por	- Redigido por: Claude Opus 4.6 (assistente de IA)
 S9	repo-path	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-5-CONTEXT.md:12	front	no	pt-br/genesis/CHAPTER-5.md	**Acompanha:** `pt-br/genesis/CHAPTER-5.md` (Edição Transparente)
-S9	rule-ref	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-5-CONTEXT.md:13	front	no	Regra 29	**Regras:** v3.3 (Regra 29 governa este arquivo)
+S9	rule-ref	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-5-CONTEXT.md:13	front	no	Regra 29	**Regras:** v3.4 (Regra 29 governa este arquivo)
 S9	rule-ref	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-5-CONTEXT.md:94	apparatus	now	Regra 7	…dias de X foram N anos → e morreu." A rigidez é deliberada (Regra 7 — fórmula fixa). Desvios da fórmula (Enoque, Noé) são os si…
 S9	repo-path	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-5-CONTEXT.md:170	apparatus	now	pt-br/genesis/study/CHAPTER-1-CONTEXT.md	…Povos Vizinhos), veja o companheiro de Gênesis 1 (Seção I, `pt-br/genesis/study/CHAPTER-1-CONTEXT.md`). As entradas abaixo abordam as circunstâncias históricas …
 S9	ai-provenance	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-5-CONTEXT.md:270	apparatus	now	Claude Opus 4.6	- Redigido por: Claude Opus 4.6 (assistente de IA)
 S9	ai-provenance	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-5-CONTEXT.md:270	apparatus	now	Redigido por	- Redigido por: Claude Opus 4.6 (assistente de IA)
 S9	repo-path	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-6-CONTEXT.md:12	front	no	pt-br/genesis/CHAPTER-6.md	**Acompanha:** `pt-br/genesis/CHAPTER-6.md` (Edição Transparente)
-S9	rule-ref	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-6-CONTEXT.md:13	front	no	Regra 29	**Regras:** v3.3 (Regra 29 governa este arquivo)
+S9	rule-ref	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-6-CONTEXT.md:13	front	no	Regra 29	**Regras:** v3.4 (Regra 29 governa este arquivo)
 S9	rule-ref	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-6-CONTEXT.md:28	apparatus	now	Regra 4	A TT mantém *nephilim* como transliteração conforme a Regra 4. "Gigantes" importa a tradução da LXX (Septuaginta, a antig…
 S9	rule-ref	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-6-CONTEXT.md:69	apparatus	now	Regra 22	…uz ambos como o TM os apresenta sem harmonização conforme a Regra 22 e o Princípio de Não-Harmonização. Esta é a tensão interna …
 S9	rule-ref	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-6-CONTEXT.md:79	apparatus	now	Regra 14	…ia o pecado. A TT sinaliza este jogo de palavras conforme a Regra 14.
@@ -19794,24 +19536,24 @@ S9	repo-path	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-6-CONTEXT.md:226	
 S9	ai-provenance	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-6-CONTEXT.md:328	apparatus	now	Claude Opus 4.6	- Redigido por: Claude Opus 4.6 (assistente de IA)
 S9	ai-provenance	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-6-CONTEXT.md:328	apparatus	now	Redigido por	- Redigido por: Claude Opus 4.6 (assistente de IA)
 S9	repo-path	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-7-CONTEXT.md:12	front	no	pt-br/genesis/CHAPTER-7.md	**Acompanha:** `pt-br/genesis/CHAPTER-7.md` (Edição Transparente)
-S9	rule-ref	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-7-CONTEXT.md:13	front	no	Regra 29	**Regras:** v3.3 (Regra 29 governa este arquivo)
+S9	rule-ref	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-7-CONTEXT.md:13	front	no	Regra 29	**Regras:** v3.4 (Regra 29 governa este arquivo)
 S9	rule-ref	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-7-CONTEXT.md:28	apparatus	now	Regra 22	… TT traduz todos os três como o TM os lê, sem harmonização (Regra 22). Esta é a tensão numérica mais visível na narrativa do dil…
 S9	repo-path	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-7-CONTEXT.md:218	apparatus	now	pt-br/genesis/study/CHAPTER-1-CONTEXT.md	…Povos Vizinhos), veja o companheiro de Gênesis 1 (Seção I, `pt-br/genesis/study/CHAPTER-1-CONTEXT.md`). As entradas abaixo abordam as circunstâncias históricas …
 S9	ai-provenance	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-7-CONTEXT.md:322	apparatus	now	Claude Opus 4.6	- Redigido por: Claude Opus 4.6 (assistente de IA)
 S9	ai-provenance	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-7-CONTEXT.md:322	apparatus	now	Redigido por	- Redigido por: Claude Opus 4.6 (assistente de IA)
 S9	repo-path	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-8-CONTEXT.md:12	front	no	pt-br/genesis/CHAPTER-8.md	**Acompanha:** `pt-br/genesis/CHAPTER-8.md` (Edição Transparente)
-S9	rule-ref	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-8-CONTEXT.md:13	front	no	Regra 29	**Regras:** v3.3 (Regra 29 governa este arquivo)
+S9	rule-ref	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-8-CONTEXT.md:13	front	no	Regra 29	**Regras:** v3.4 (Regra 29 governa este arquivo)
 S9	rule-ref	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-8-CONTEXT.md:23	apparatus	now	Regra 2	…das águas." A TT preserva a barra (vento/espírito) conforme Regra 2. A re-criação após o dilúvio começa com o mesmo elemento da…
 S9	repo-path	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-8-CONTEXT.md:210	apparatus	now	pt-br/genesis/study/CHAPTER-1-CONTEXT.md	…Povos Vizinhos), veja o companheiro de Gênesis 1 (Seção I, `pt-br/genesis/study/CHAPTER-1-CONTEXT.md`). As entradas abaixo abordam as circunstâncias históricas …
 S9	ai-provenance	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-8-CONTEXT.md:309	apparatus	now	Claude Opus 4.6	- Redigido por: Claude Opus 4.6 (assistente de IA)
 S9	ai-provenance	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-8-CONTEXT.md:309	apparatus	now	Redigido por	- Redigido por: Claude Opus 4.6 (assistente de IA)
 S9	repo-path	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-9-CONTEXT.md:12	front	no	pt-br/genesis/CHAPTER-9.md	**Acompanha:** `pt-br/genesis/CHAPTER-9.md` (Edição Transparente)
-S9	rule-ref	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-9-CONTEXT.md:13	front	no	Regra 29	**Regras:** v3.3 (Regra 29 governa este arquivo)
+S9	rule-ref	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-9-CONTEXT.md:13	front	no	Regra 29	**Regras:** v3.4 (Regra 29 governa este arquivo)
 S9	rule-ref	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-9-CONTEXT.md:245	apparatus	now	Regra 12	…ete) que a TT traduz literalmente sem suavização teológica (Regra 12).
 S9	repo-path	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-9-CONTEXT.md:263	apparatus	now	pt-br/genesis/study/CHAPTER-1-CONTEXT.md	…Povos Vizinhos), veja o companheiro de Gênesis 1 (Seção I, `pt-br/genesis/study/CHAPTER-1-CONTEXT.md`). As entradas abaixo abordam as circunstâncias históricas …
 S9	ai-provenance	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-9-CONTEXT.md:373	apparatus	now	Claude Opus 4.6	- Redigido por: Claude Opus 4.6 (assistente de IA)
 S9	ai-provenance	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-9-CONTEXT.md:373	apparatus	now	Redigido por	- Redigido por: Claude Opus 4.6 (assistente de IA)
-S9	rule-ref	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-9-PROPHECY.md:8	front	no	Regra 29	**Regras:** v3.3 (Regra 29 governa este arquivo)
+S9	rule-ref	pt-br	genesis	content/pt-br/genesis/study/CHAPTER-9-PROPHECY.md:8	front	no	Regra 29	**Regras:** v3.4 (Regra 29 governa este arquivo)
 S9	tier-jargon	pt-br	john	content/pt-br/john/CHAPTER-1.md:11	front	no	Nível 2	…enhor" ao citar passagens do AT que contêm YHWH; anotado no Nível 2.
 S9	rule-ref	pt-br	john	content/pt-br/john/CHAPTER-1.md:11	front	no	Regra 25	**Política do Nome Divino (Regra 25 / Política GS):** Opção C — κύριος (kyrios) traduzido como …
 S9	rule-ref	pt-br	john	content/pt-br/john/CHAPTER-1.md:12	front	now	Regra 28	**Status:** provisório — aguardando revisão por pares (Regra 28)
@@ -19827,12 +19569,12 @@ S9	rule-ref	pt-br	john	content/pt-br/john/CHAPTER-3.md:11	front	no	Regra 25	**Po
 S9	rule-ref	pt-br	john	content/pt-br/john/CHAPTER-3.md:12	front	now	Regra 28	**Status:** provisório — aguardando revisão por pares (Regra 28)
 S9	rule-ref	pt-br	john	content/pt-br/john/CHAPTER-3.md:113	note	now	Regra 2	…ido impulsiona o diálogo. Esta é uma genuína ambiguidade da Regra 2; a TT preserva ambos com uma barra porque qualquer tradução…
 S9	rule-ref	pt-br	john	content/pt-br/john/CHAPTER-3.md:570	apparatus	now	Regra 2	… "de novo." Ambos os sentidos ativos no v.3. Barra conforme Regra 2. |
-S9	rule-ref	pt-br	john	content/pt-br/john/CONTEXT.md:6	front	no	Regra 29	**Conjunto de Regras:** v3.3 (A Regra 29 governa este arquivo)
+S9	rule-ref	pt-br	john	content/pt-br/john/CONTEXT.md:6	front	no	Regra 29	**Conjunto de Regras:** v3.4 (A Regra 29 governa este arquivo)
 S9	tier-jargon	pt-br	john	content/pt-br/john/CONTEXT.md:24	apparatus	now	Tier 2	…rega contém ambos; a TT preserva a ambiguidade com uma nota Tier 2 em vez de escolher uma glosa em português.
 S9	repo-path	pt-br	john	content/pt-br/john/CONTEXT.md:45	apparatus	now	docs/audit/PENDING.md	… *genos*, "tipo"), conforme a decisão de nível-de-projeto (`docs/audit/PENDING.md` sinalizou isto como item de consistência entre línguas).
 S9	tier-jargon	pt-br	john	content/pt-br/john/CONTEXT.md:47	apparatus	now	Tier 2	…do"). A TT preserva a variante com uma nota crítico-textual Tier 2 em vez de silenciosamente resolvê-la.
 S9	process-word	pt-br	john	content/pt-br/john/CONTEXT.md:123	apparatus	now	Fase 9	… tipologia se resolve. A lista ilustrativa §4.4 do plano da Fase 9 originalmente listou este motivo; foi restaurado na revisão…
-S9	rule-ref	pt-br	john	content/pt-br/john/INTRODUCTION.md:13	front	no	Regra 29	**Regras:** v3.3 (Regra 29 governa este arquivo)
+S9	rule-ref	pt-br	john	content/pt-br/john/INTRODUCTION.md:13	front	no	Regra 29	**Regras:** v3.4 (Regra 29 governa este arquivo)
 S9	rule-ref	pt-br	john	content/pt-br/john/INTRODUCTION.md:277	apparatus	now	Regra 4	…dos — ἐγώ εἰμι tem conteúdo semântico traduzível. Limiar da Regra 4 não ultrapassado. |
 S9	tier-jargon	pt-br	john	content/pt-br/john/INTRODUCTION.md:281	apparatus	now	Nível 2	… Anotar Jogos de Palavras | Termos gregos-chave anotados em Nível 2 onde campo semântico ou jogo de palavras é significativo. |
 S9	tier-jargon	pt-br	john	content/pt-br/john/INTRODUCTION.md:282	apparatus	now	Nível 2	…8 μονογενὴς θεός vs. μονογενὴς υἱός, João 1:34) anotadas em Nível 2 sem adoção silenciosa. |
@@ -19845,7 +19587,7 @@ S9	rule-ref	pt-br	john	content/pt-br/john/INTRODUCTION.md:309	apparatus	now	Regr
 S9	ai-provenance	pt-br	john	content/pt-br/john/INTRODUCTION.md:380	apparatus	now	Claude Opus 4.6	> **Proveniência editorial:** Redigido por Claude Opus 4.6 (contexto 1M) em 27/04/2026. Ainda não revisado. Esta intro…
 S9	ai-provenance	pt-br	john	content/pt-br/john/INTRODUCTION.md:380	apparatus	now	Redigido por	> **Proveniência editorial:** Redigido por Claude Opus 4.6 (contexto 1M) em 27/04/2026. Ainda não revi…
 S9	rule-ref	pt-br	john	content/pt-br/john/INTRODUCTION.md:380	apparatus	now	Regra 29	…introdução é um recurso acadêmico provisório governado pela Regra 29 da TT. Todas as afirmações carregam rótulos duplos; nenhuma…
-S9	rule-ref	pt-br	john	content/pt-br/john/PEOPLE.md:6	front	no	Regra 29	**Conjunto de Regras:** v3.3 (Regra 29 governa este arquivo)
+S9	rule-ref	pt-br	john	content/pt-br/john/PEOPLE.md:6	front	no	Regra 29	**Conjunto de Regras:** v3.4 (Regra 29 governa este arquivo)
 S9	rule-ref	pt-br	john	content/pt-br/john/PEOPLE.md:11	front	no	Regra 29	…ste material é conteúdo de estudo contextual governado pela Regra 29.
 S9	editorial-id	pt-br	john	content/pt-br/john/PEOPLE.md:15	front	no	J-006	…entrada do grupo Yehudim segue a Política Ioudaioi (Entrada J-006) e usa campos PersonEntry padrão com a divisão em 3 sentido…
 S9	repo-path	pt-br	john	content/pt-br/john/PEOPLE.md:15	front	no	RULES-GS.md	… Transliterações seguem a tabela de nomes próprios travada (RULES-GS.md).
@@ -19881,21 +19623,21 @@ S9	ai-provenance	pt-br	john	content/pt-br/john/PEOPLE.md:238	apparatus	now	Redig
 S9	rule-ref	pt-br	john	content/pt-br/john/PEOPLE.md:238	apparatus	now	Regra 29	…te arquivo é um recurso acadêmico provisório governado pela Regra 29 da TT. Referências cruzadas de Yochanan e Yeshua para `matt…
 S9	repo-path	pt-br	john	content/pt-br/john/PEOPLE.md:238	apparatus	now	matthew/PEOPLE.md	…a 29 da TT. Referências cruzadas de Yochanan e Yeshua para `matthew/PEOPLE.md` ligam às entradas existentes da Fase 6.6G em vez de duplic…
 S9	repo-path	pt-br	john	content/pt-br/john/study/CHAPTER-1-CONTEXT.md:12	front	no	pt-br/john/CHAPTER-1.md	**Companheiro de:** `pt-br/john/CHAPTER-1.md` (Edição Transparente)
-S9	rule-ref	pt-br	john	content/pt-br/john/study/CHAPTER-1-CONTEXT.md:13	front	no	Regra 29	**Conjunto de Regras:** v3.3 (Regra 29 governa este arquivo)
+S9	rule-ref	pt-br	john	content/pt-br/john/study/CHAPTER-1-CONTEXT.md:13	front	no	Regra 29	**Conjunto de Regras:** v3.4 (Regra 29 governa este arquivo)
 S9	rule-ref	pt-br	john	content/pt-br/john/study/CHAPTER-1-CONTEXT.md:124	apparatus	now	Regra 4	…tensifica a fórmula ainda mais. A TT transliterou *amēn* (a Regra 4 se aplica — a palavra cruzou para os idiomas-alvo) e preser…
 S9	ai-provenance	pt-br	john	content/pt-br/john/study/CHAPTER-1-CONTEXT.md:379	apparatus	now	Claude Opus 4.6	- Redigido por: Claude Opus 4.6 (assistente de IA)
 S9	ai-provenance	pt-br	john	content/pt-br/john/study/CHAPTER-1-CONTEXT.md:379	apparatus	now	Redigido por	- Redigido por: Claude Opus 4.6 (assistente de IA)
 S9	repo-path	pt-br	john	content/pt-br/john/study/CHAPTER-2-CONTEXT.md:12	front	no	pt-br/john/CHAPTER-2.md	**Companheiro de:** `pt-br/john/CHAPTER-2.md` (Edição Transparente)
-S9	rule-ref	pt-br	john	content/pt-br/john/study/CHAPTER-2-CONTEXT.md:13	front	no	Regra 29	**Conjunto de Regras:** v3.3 (Regra 29 governa este arquivo)
+S9	rule-ref	pt-br	john	content/pt-br/john/study/CHAPTER-2-CONTEXT.md:13	front	no	Regra 29	**Conjunto de Regras:** v3.4 (Regra 29 governa este arquivo)
 S9	repo-path	pt-br	john	content/pt-br/john/study/CHAPTER-2-CONTEXT.md:151	apparatus	now	pt-br/john/study/CHAPTER-1-CONTEXT.md	… Povos Vizinhos) está disponível no companheiro de João 1 (`pt-br/john/study/CHAPTER-1-CONTEXT.md`). As entradas abaixo abordam as circunstâncias históricas …
 S9	ai-provenance	pt-br	john	content/pt-br/john/study/CHAPTER-2-CONTEXT.md:248	apparatus	now	Claude Opus 4.6	- Redigido por: Claude Opus 4.6 (assistente de IA)
 S9	ai-provenance	pt-br	john	content/pt-br/john/study/CHAPTER-2-CONTEXT.md:248	apparatus	now	Redigido por	- Redigido por: Claude Opus 4.6 (assistente de IA)
 S9	repo-path	pt-br	john	content/pt-br/john/study/CHAPTER-3-CONTEXT.md:12	front	no	pt-br/john/CHAPTER-3.md	**Companheiro de:** `pt-br/john/CHAPTER-3.md` (Edição Transparente)
-S9	rule-ref	pt-br	john	content/pt-br/john/study/CHAPTER-3-CONTEXT.md:13	front	no	Regra 29	**Conjunto de Regras:** v3.3 (Regra 29 governa este arquivo)
+S9	rule-ref	pt-br	john	content/pt-br/john/study/CHAPTER-3-CONTEXT.md:13	front	no	Regra 29	**Conjunto de Regras:** v3.4 (Regra 29 governa este arquivo)
 S9	repo-path	pt-br	john	content/pt-br/john/study/CHAPTER-3-CONTEXT.md:143	apparatus	now	pt-br/john/study/CHAPTER-1-CONTEXT.md	… Povos Vizinhos) está disponível no companheiro de João 1 (`pt-br/john/study/CHAPTER-1-CONTEXT.md`). As entradas abaixo abordam as circunstâncias históricas …
 S9	ai-provenance	pt-br	john	content/pt-br/john/study/CHAPTER-3-CONTEXT.md:229	apparatus	now	Claude Opus 4.6	- Redigido por: Claude Opus 4.6 (assistente de IA)
 S9	ai-provenance	pt-br	john	content/pt-br/john/study/CHAPTER-3-CONTEXT.md:229	apparatus	now	Redigido por	- Redigido por: Claude Opus 4.6 (assistente de IA)
-S9	rule-ref	pt-br	john	content/pt-br/john/study/CHAPTER-3-PROPHECY.md:8	front	no	Regra 29	**Regras:** v3.3 (Regra 29 governa este arquivo)
+S9	rule-ref	pt-br	john	content/pt-br/john/study/CHAPTER-3-PROPHECY.md:8	front	no	Regra 29	**Regras:** v3.4 (Regra 29 governa este arquivo)
 S9	repo-path	pt-br	john	content/pt-br/john/study/CHAPTER-3-PROPHECY.md:36	apparatus	now	content/pt-br/john/study/CHAPTER-3-CONTEXT.md	| `content/pt-br/john/study/CHAPTER-3-CONTEXT.md` §A6, §B2 | INTERNA | Referência cruzada para tratamento le…
 S9	ai-provenance	pt-br	john	content/pt-br/john/study/CHAPTER-3-PROPHECY.md:41	apparatus	now	Claude Opus 4.7	- Redigido por: Claude Opus 4.7 (assistente de IA)
 S9	ai-provenance	pt-br	john	content/pt-br/john/study/CHAPTER-3-PROPHECY.md:41	apparatus	now	Redigido por	- Redigido por: Claude Opus 4.7 (assistente de IA)
@@ -20229,7 +19971,7 @@ S9	tier-jargon	pt-br	matthew	content/pt-br/matthew/CHAPTER-3.md:11	front	no	Nív
 S9	rule-ref	pt-br	matthew	content/pt-br/matthew/CHAPTER-3.md:11	front	no	Regra 25	**Política do Nome Divino (Regra 25 / Política GS):** Opção C — κύριος (kyrios) traduzido como …
 S9	rule-ref	pt-br	matthew	content/pt-br/matthew/CHAPTER-3.md:12	front	now	Regra 28	**Status:** provisório — aguardando revisão por pares (Regra 28)
 S9	rule-ref	pt-br	matthew	content/pt-br/matthew/CHAPTER-3.md:338	apparatus	now	Regra 2	…/espírito | Corresponde ao hebraico *ruach*. Barra conforme Regra 2. |
-S9	rule-ref	pt-br	matthew	content/pt-br/matthew/CONTEXT.md:6	front	no	Regra 29	**Conjunto de Regras:** v3.3 (A Regra 29 governa este arquivo)
+S9	rule-ref	pt-br	matthew	content/pt-br/matthew/CONTEXT.md:6	front	no	Regra 29	**Conjunto de Regras:** v3.4 (A Regra 29 governa este arquivo)
 S9	editorial-id	pt-br	matthew	content/pt-br/matthew/CONTEXT.md:22	apparatus	now	M-001	…ormulaico que é em si o recurso. A entrada do log editorial M-001 (Política de Fórmula de Cumprimento) codifica seis tipos de…
 S9	editorial-log-ref	pt-br	matthew	content/pt-br/matthew/CONTEXT.md:22	apparatus	now	log editorial	…nquadramento formulaico que é em si o recurso. A entrada do log editorial M-001 (Política de Fórmula de Cumprimento) codifica seis ti…
 S9	tier-jargon	pt-br	matthew	content/pt-br/matthew/CONTEXT.md:26	apparatus	now	Tier 2	…uma única citação. A TT preserva a modificação com uma nota Tier 2 sinalizando ambos os versículos de origem.
@@ -20250,7 +19992,7 @@ S9	editorial-id	pt-br	matthew	content/pt-br/matthew/CONTEXT.md:95	apparatus	now	
 S9	repo-path	pt-br	matthew	content/pt-br/matthew/CONTEXT.md:95	apparatus	now	docs/editorial-log/matthew.md	**Fonte:** `docs/editorial-log/matthew.md` Entrada M-004 (classificação de Narrativa Formulaica *ange…
 S9	editorial-log-ref	pt-br	matthew	content/pt-br/matthew/CONTEXT.md:95	apparatus	now	editorial-log	**Fonte:** `docs/editorial-log/matthew.md` Entrada M-004 (classificação de Narrativa Formu…
 S9	editorial-id	pt-br	matthew	content/pt-br/matthew/CONTEXT.md:116	apparatus	now	M-001	…eta do AT diz isso. A citação não resolvida é em si o dado (M-001 a classifica como Tipo 5 dos seis tipos de fórmula). A TT p…
-S9	rule-ref	pt-br	matthew	content/pt-br/matthew/INTRODUCTION.md:13	front	no	Regra 29	**Conjunto de Regras:** v3.3 (Regra 29 governa este arquivo)
+S9	rule-ref	pt-br	matthew	content/pt-br/matthew/INTRODUCTION.md:13	front	no	Regra 29	**Conjunto de Regras:** v3.4 (Regra 29 governa este arquivo)
 S9	repo-path	pt-br	matthew	content/pt-br/matthew/INTRODUCTION.md:312	apparatus	now	RULES-GS.md	…yrios*). Conforme a Política do Nome Divino da TT (Opção C, RULES-GS.md):
 S9	rule-ref	pt-br	matthew	content/pt-br/matthew/INTRODUCTION.md:317	apparatus	now	Regra 13	- Casos ambíguos são sinalizados conforme Regra 13.
 S9	rule-ref	pt-br	matthew	content/pt-br/matthew/INTRODUCTION.md:330	apparatus	now	Regra 4	…afraseado como "reino do céu" ou "reino de Deus." Limiar da Regra 4 não ultrapassado para βασιλεία. |
@@ -20260,7 +20002,7 @@ S9	tier-jargon	pt-br	matthew	content/pt-br/matthew/INTRODUCTION.md:336	apparatus
 S9	ai-provenance	pt-br	matthew	content/pt-br/matthew/INTRODUCTION.md:358	apparatus	now	Claude Opus 4.6	> **Proveniência editorial:** Redigido por Claude Opus 4.6 (contexto 1M) em 2026-04-27. Ainda não revisado. Esta intro…
 S9	ai-provenance	pt-br	matthew	content/pt-br/matthew/INTRODUCTION.md:358	apparatus	now	Redigido por	> **Proveniência editorial:** Redigido por Claude Opus 4.6 (contexto 1M) em 2026-04-27. Ainda não revi…
 S9	rule-ref	pt-br	matthew	content/pt-br/matthew/INTRODUCTION.md:358	apparatus	now	Regra 29	…introdução é um recurso acadêmico provisório governado pela Regra 29 da TT. Todas as afirmações carregam rótulos duplos; nenhuma…
-S9	rule-ref	pt-br	matthew	content/pt-br/matthew/PEOPLE.md:6	front	no	Regra 29	**Conjunto de Regras:** v3.3 (Regra 29 governa este arquivo)
+S9	rule-ref	pt-br	matthew	content/pt-br/matthew/PEOPLE.md:6	front	no	Regra 29	**Conjunto de Regras:** v3.4 (Regra 29 governa este arquivo)
 S9	rule-ref	pt-br	matthew	content/pt-br/matthew/PEOPLE.md:11	front	no	Regra 29	…. Este material é conteúdo de estudo contextual regido pela Regra 29.
 S9	repo-path	pt-br	matthew	content/pt-br/matthew/PEOPLE.md:15	front	no	RULES-GS.md	…ões seguem a tabela de nomes próprios fixada (RULES-HB.md / RULES-GS.md). Nomes familiares em português brasileiro são indicados en…
 S9	repo-path	pt-br	matthew	content/pt-br/matthew/PEOPLE.md:15	front	no	RULES-HB.md	…. Transliterações seguem a tabela de nomes próprios fixada (RULES-HB.md / RULES-GS.md). Nomes familiares em português brasileiro sã…
@@ -20281,12 +20023,12 @@ S9	ai-provenance	pt-br	matthew	content/pt-br/matthew/PEOPLE.md:280	apparatus	now
 S9	rule-ref	pt-br	matthew	content/pt-br/matthew/PEOPLE.md:280	apparatus	now	Regra 29	…te arquivo é um recurso acadêmico provisório governado pela Regra 29 da TT. Referências cruzadas a genesis/PEOPLE.md vinculam a …
 S9	repo-path	pt-br	matthew	content/pt-br/matthew/PEOPLE.md:280	apparatus	now	genesis/PEOPLE.md	…sório governado pela Regra 29 da TT. Referências cruzadas a genesis/PEOPLE.md vinculam a entradas existentes em vez de duplicar conteúdo.
 S9	repo-path	pt-br	matthew	content/pt-br/matthew/study/CHAPTER-1-CONTEXT.md:12	front	no	pt-br/matthew/CHAPTER-1.md	**Complemento de:** `pt-br/matthew/CHAPTER-1.md` (Edição Transparente)
-S9	rule-ref	pt-br	matthew	content/pt-br/matthew/study/CHAPTER-1-CONTEXT.md:13	front	no	Regra 29	**Conjunto de Regras:** v3.3 (Regra 29 governa este arquivo)
+S9	rule-ref	pt-br	matthew	content/pt-br/matthew/study/CHAPTER-1-CONTEXT.md:13	front	no	Regra 29	**Conjunto de Regras:** v3.4 (Regra 29 governa este arquivo)
 S9	repo-path	pt-br	matthew	content/pt-br/matthew/study/CHAPTER-1-CONTEXT.md:232	apparatus	now	pt-br/john/study/CHAPTER-1-CONTEXT.md	… o mesmo período histórico geral; o companheiro de João 1 (`pt-br/john/study/CHAPTER-1-CONTEXT.md`) fornece o contexto completo em duas categorias de dez cat…
 S9	ai-provenance	pt-br	matthew	content/pt-br/matthew/study/CHAPTER-1-CONTEXT.md:305	apparatus	now	Anthropic	- Redigido por: IA (Claude, Anthropic)
 S9	ai-provenance	pt-br	matthew	content/pt-br/matthew/study/CHAPTER-1-CONTEXT.md:305	apparatus	now	Claude	- Redigido por: IA (Claude, Anthropic)
 S9	ai-provenance	pt-br	matthew	content/pt-br/matthew/study/CHAPTER-1-CONTEXT.md:305	apparatus	now	Redigido por	- Redigido por: IA (Claude, Anthropic)
-S9	rule-ref	pt-br	matthew	content/pt-br/matthew/study/CHAPTER-1-PROPHECY.md:8	front	no	Regra 29	**Regras:** v3.3 (Regra 29 governa este arquivo)
+S9	rule-ref	pt-br	matthew	content/pt-br/matthew/study/CHAPTER-1-PROPHECY.md:8	front	no	Regra 29	**Regras:** v3.4 (Regra 29 governa este arquivo)
 S9	rule-ref	pt-br	matthew	content/pt-br/matthew/study/CHAPTER-1-PROPHECY.md:18	apparatus	now	Regra 2	… TT traduz a forma com barra "virgem/jovem mulher" conforme Regra 2 (Preservação de Ambiguidade).
 S9	editorial-id	pt-br	matthew	content/pt-br/matthew/study/CHAPTER-1-PROPHECY.md:20	apparatus	now	M-001	…isse") — uma fórmula de cumprimento direto conforme Entrada M-001 §Direta. Mateus cita o texto da LXX (*parthenos*) em vez da…
 S9	editorial-id	pt-br	matthew	content/pt-br/matthew/study/CHAPTER-1-PROPHECY.md:20	apparatus	now	M-002	…o de Mateus. → Veja `docs/editorial-log/matthew.md` Entrada M-002 para o raciocínio completo da política de barra *parthenos*…
@@ -20301,12 +20043,12 @@ S9	editorial-log-ref	pt-br	matthew	content/pt-br/matthew/study/CHAPTER-1-PROPHEC
 S9	ai-provenance	pt-br	matthew	content/pt-br/matthew/study/CHAPTER-1-PROPHECY.md:42	apparatus	now	Claude Opus 4.7	- Redigido por: Claude Opus 4.7 (assistente de IA)
 S9	ai-provenance	pt-br	matthew	content/pt-br/matthew/study/CHAPTER-1-PROPHECY.md:42	apparatus	now	Redigido por	- Redigido por: Claude Opus 4.7 (assistente de IA)
 S9	repo-path	pt-br	matthew	content/pt-br/matthew/study/CHAPTER-2-CONTEXT.md:12	front	no	pt-br/matthew/CHAPTER-2.md	**Complemento de:** `pt-br/matthew/CHAPTER-2.md` (Edição Transparente)
-S9	rule-ref	pt-br	matthew	content/pt-br/matthew/study/CHAPTER-2-CONTEXT.md:13	front	no	Regra 29	**Conjunto de Regras:** v3.3 (Regra 29 governa este arquivo)
+S9	rule-ref	pt-br	matthew	content/pt-br/matthew/study/CHAPTER-2-CONTEXT.md:13	front	no	Regra 29	**Conjunto de Regras:** v3.4 (Regra 29 governa este arquivo)
 S9	repo-path	pt-br	matthew	content/pt-br/matthew/study/CHAPTER-2-CONTEXT.md:197	apparatus	now	pt-br/john/study/CHAPTER-1-CONTEXT.md	… o mesmo período histórico geral; o companheiro de João 1 (`pt-br/john/study/CHAPTER-1-CONTEXT.md`) fornece o contexto completo em duas categorias de dez cat…
 S9	ai-provenance	pt-br	matthew	content/pt-br/matthew/study/CHAPTER-2-CONTEXT.md:277	apparatus	now	Anthropic	- Redigido por: IA (Claude, Anthropic)
 S9	ai-provenance	pt-br	matthew	content/pt-br/matthew/study/CHAPTER-2-CONTEXT.md:277	apparatus	now	Claude	- Redigido por: IA (Claude, Anthropic)
 S9	ai-provenance	pt-br	matthew	content/pt-br/matthew/study/CHAPTER-2-CONTEXT.md:277	apparatus	now	Redigido por	- Redigido por: IA (Claude, Anthropic)
-S9	rule-ref	pt-br	matthew	content/pt-br/matthew/study/CHAPTER-2-PROPHECY.md:8	front	no	Regra 29	**Regras:** v3.3 (Regra 29 governa este arquivo)
+S9	rule-ref	pt-br	matthew	content/pt-br/matthew/study/CHAPTER-2-PROPHECY.md:8	front	no	Regra 29	**Regras:** v3.4 (Regra 29 governa este arquivo)
 S9	editorial-id	pt-br	matthew	content/pt-br/matthew/study/CHAPTER-2-PROPHECY.md:20	apparatus	now	M-001	**Notas de cumprimento:** Conforme Entrada M-001 §Composta, Mateus mescla duas fontes distintas do AT: Mique…
 S9	editorial-id	pt-br	matthew	content/pt-br/matthew/study/CHAPTER-2-PROPHECY.md:20	apparatus	now	M-001	…a profecia). → Veja `docs/editorial-log/matthew.md` Entrada M-001 §Composta para a análise textual camada por camada (modific…
 S9	repo-path	pt-br	matthew	content/pt-br/matthew/study/CHAPTER-2-PROPHECY.md:20	apparatus	now	docs/editorial-log/matthew.md	…poderiam em princípio satisfazer a mesma profecia). → Veja `docs/editorial-log/matthew.md` Entrada M-001 §Composta para a análise textual camada por …
@@ -20331,7 +20073,7 @@ S9	repo-path	pt-br	matthew	content/pt-br/matthew/study/CHAPTER-2-PROPHECY.md:81	
 S9	ai-provenance	pt-br	matthew	content/pt-br/matthew/study/CHAPTER-2-PROPHECY.md:86	apparatus	now	Claude Opus 4.7	- Redigido por: Claude Opus 4.7 (assistente de IA)
 S9	ai-provenance	pt-br	matthew	content/pt-br/matthew/study/CHAPTER-2-PROPHECY.md:86	apparatus	now	Redigido por	- Redigido por: Claude Opus 4.7 (assistente de IA)
 S9	repo-path	pt-br	matthew	content/pt-br/matthew/study/CHAPTER-3-CONTEXT.md:12	front	no	pt-br/matthew/CHAPTER-3.md	**Complemento de:** `pt-br/matthew/CHAPTER-3.md` (Edição Transparente)
-S9	rule-ref	pt-br	matthew	content/pt-br/matthew/study/CHAPTER-3-CONTEXT.md:13	front	no	Regra 29	**Conjunto de Regras:** v3.3 (Regra 29 governa este arquivo)
+S9	rule-ref	pt-br	matthew	content/pt-br/matthew/study/CHAPTER-3-CONTEXT.md:13	front	no	Regra 29	**Conjunto de Regras:** v3.4 (Regra 29 governa este arquivo)
 S9	repo-path	pt-br	matthew	content/pt-br/matthew/study/CHAPTER-3-CONTEXT.md:226	apparatus	now	pt-br/john/study/CHAPTER-1-CONTEXT.md	… o mesmo período histórico geral; o companheiro de João 1 (`pt-br/john/study/CHAPTER-1-CONTEXT.md`) fornece o contexto completo em duas categorias de dez cat…
 S9	ai-provenance	pt-br	matthew	content/pt-br/matthew/study/CHAPTER-3-CONTEXT.md:311	apparatus	now	Anthropic	- Redigido por: IA (Claude, Anthropic)
 S9	ai-provenance	pt-br	matthew	content/pt-br/matthew/study/CHAPTER-3-CONTEXT.md:311	apparatus	now	Claude	- Redigido por: IA (Claude, Anthropic)

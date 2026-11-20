@@ -10,7 +10,7 @@
 **Book:** John (Ἰωάννης, *Iōannēs*)
 **Language:** English
 **Introduction to:** `en/john/` (Transparent Edition)
-**Ruleset:** v3.3 (Rule 29 governs this file)
+**Ruleset:** v3.4 (Rule 29 governs this file)
 **Status:** provisional
 
 ---
@@ -267,7 +267,7 @@ The interval between the composition of the Gospel of John (c. 90–100 CE) and 
 ### F1. Active rules with John-specific applications
 **[TEXTUAL — VERIFIED]**
 
-The following rules from the TT ruleset (v3.3) have particular bearing on the Gospel of John:
+The following rules from the TT ruleset (v3.4) have particular bearing on the Gospel of John:
 
 | Rule | Name | John-specific application |
 |------|------|---------------------------|

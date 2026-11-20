@@ -1,6 +1,6 @@
 # Greek source-analysis corpus
 
-Worked examples: `mark-1.md`, `mark-2-3.md` (the Mark pilot; NA28 base text). Extended as further Greek books are authored.
+Worked examples (NA28 base text): `mark-1.md`, `mark-2-3.md` (the Mark pilot), `luke-1-3.md`, `acts-1-3.md`, `1-peter.md`. John and Matthew have no file. Extended as further Greek books are authored.
 
 **Governance home:** `docs/rules/RULES-GS.md` (Greek Scriptures supplement). Method: `../METHOD.md`.
 

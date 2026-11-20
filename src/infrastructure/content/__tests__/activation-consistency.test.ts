@@ -1,4 +1,4 @@
-import { existsSync, readFileSync } from "node:fs";
+import { existsSync, readdirSync, readFileSync } from "node:fs";
 import path from "node:path";
 import { describe, expect, it } from "vitest";
 import { AVAILABLE_BOOKS, PILOT_BOOKS } from "@/domain/books/registry";
@@ -137,12 +137,154 @@ describe("Phase 0 — activation consistency", () => {
       expect(keys, `bookLabels missing "${book}"`).toContain(book);
   });
 
-  it("RULES-CORE see-target allow-list lists every activated book", () => {
+  it("RULES-CORE see-target allow-list lists every activated book (scoped to the allow-list table)", () => {
     const rules = read("docs/rules/RULES-CORE.md");
+    // Stable anchor prefix (the parenthetical after it may be reworded).
+    const anchor = "**Allow-list of valid `**See:**` target slugs";
+    const at = rules.indexOf(anchor);
+    expect(at, "allow-list anchor not found in RULES-CORE").toBeGreaterThan(-1);
+    const lines = rules.slice(at).split("\n").slice(1);
+    const start = lines.findIndex((l) => l.startsWith("|"));
+    expect(
+      start,
+      "allow-list table not found after the anchor",
+    ).toBeGreaterThan(-1);
+    const table: string[] = [];
+    for (const l of lines.slice(start)) {
+      if (!l.startsWith("|")) break;
+      table.push(l);
+    }
+    const slugs = table
+      .map((l) => l.match(/^\|\s*`([a-z0-9-]+)`\s*\|/)?.[1])
+      .filter((x): x is string => !!x);
+    expect(slugs.length).toBeGreaterThanOrEqual(active.length);
     for (const book of active)
-      expect(rules, `RULES-CORE allow-list missing \`${book}\``).toMatch(
-        new RegExp(`^\\| \`${book.replace(/-/g, "\\-")}\` \\|`, "m"),
+      expect(slugs, `RULES-CORE allow-list missing \`${book}\``).toContain(
+        book,
       );
+  });
+
+  // ── Step 4 batch 2 (PLAN_LAUNCH_FIXES §B2.8, PLAN_SAFETY_NET I19) ──
+
+  it("books.heroTagline names every activated book with its chapter range, in every locale", () => {
+    const maxChapter = (book: string) =>
+      Math.max(
+        ...readdirSync(path.join(ROOT, "content", "en", book))
+          .map((f) => f.match(/^CHAPTER-(\d+)\.md$/)?.[1])
+          .filter((x): x is string => !!x)
+          .map(Number),
+      );
+    for (const locale of locales) {
+      const messages = JSON.parse(
+        read(`src/infrastructure/i18n/messages/${locale}.json`),
+      );
+      const tagline: string = messages.books.heroTagline;
+      const books = tagline.split(" — ")[0].split(" · ");
+      expect(books, `${locale} heroTagline book count`).toHaveLength(
+        active.length,
+      );
+      for (const book of active)
+        expect(
+          books,
+          `${locale} heroTagline missing "${messages.book[book]} 1–${maxChapter(book)}"`,
+        ).toContain(`${messages.book[book]} 1–${maxChapter(book)}`);
+    }
+  });
+
+  it("books.sectionKick counts the activated books, in every locale", () => {
+    const NUMBER_WORDS: Record<string, string[]> = {
+      en: [
+        "One",
+        "Two",
+        "Three",
+        "Four",
+        "Five",
+        "Six",
+        "Seven",
+        "Eight",
+        "Nine",
+        "Ten",
+        "Eleven",
+        "Twelve",
+      ],
+      "pt-br": [
+        "Um",
+        "Dois",
+        "Três",
+        "Quatro",
+        "Cinco",
+        "Seis",
+        "Sete",
+        "Oito",
+        "Nove",
+        "Dez",
+        "Onze",
+        "Doze",
+      ],
+      de: [
+        "Ein",
+        "Zwei",
+        "Drei",
+        "Vier",
+        "Fünf",
+        "Sechs",
+        "Sieben",
+        "Acht",
+        "Neun",
+        "Zehn",
+        "Elf",
+        "Zwölf",
+      ],
+      es: [
+        "Un",
+        "Dos",
+        "Tres",
+        "Cuatro",
+        "Cinco",
+        "Seis",
+        "Siete",
+        "Ocho",
+        "Nueve",
+        "Diez",
+        "Once",
+        "Doce",
+      ],
+    };
+    for (const locale of locales) {
+      const messages = JSON.parse(
+        read(`src/infrastructure/i18n/messages/${locale}.json`),
+      );
+      const first = (messages.books.sectionKick as string).split(/\s/)[0];
+      expect(first, `${locale} sectionKick`).toBe(
+        NUMBER_WORDS[locale][active.length - 1],
+      );
+    }
+  });
+
+  it("every activated book has a source-analysis stub, except the known gaps (which may only shrink)", () => {
+    const KNOWN_SOURCE_STUB_GAPS = ["john", "matthew"];
+    const HEBREW = new Set(HEBREW_HUB);
+    const missing = active
+      .filter((book) => {
+        const dir = path.join(
+          ROOT,
+          "docs",
+          "source-analysis",
+          HEBREW.has(book) ? "hebrew" : "greek",
+        );
+        const re = new RegExp(`^${book.replace(/-/g, "\\-")}(-.*)?\\.md$`);
+        return !readdirSync(dir).some((f) => re.test(f));
+      })
+      .sort();
+    expect(missing).toEqual(KNOWN_SOURCE_STUB_GAPS);
+  });
+
+  it("no doc names the non-existent people.inBook.{slug} i18n key", () => {
+    for (const doc of [
+      "docs/rules/RULES-CORE.md",
+      "docs/guides/AUTHORING-PLAYBOOK.md",
+    ])
+      expect(read(doc), doc).not.toMatch(/people\.inBook/);
   });
 
   it("every activated book has an editorial log", () => {

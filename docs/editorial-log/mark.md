@@ -1,6 +1,8 @@
 # Editorial Log — Mark (Markos)
 
-Decision log for the TT rendering of Mark, per RULES-CORE §Editorial Log Specification. Greek-source book; governed by RULES-CORE v3.4 + RULES-GS. All content `provisional` pending Hellenist + EN-editor + cross-alignment sign-off (Rule 28).
+**Ruleset version in force:** v3.4.1
+
+Decision log for the TT rendering of Mark, per RULES-CORE §Editorial Log Specification. Greek-source book; governed by RULES-CORE v3.4 (v3.4.1 from 2026-11-20) + RULES-GS. All content `provisional` pending Hellenist + EN-editor + cross-alignment sign-off (Rule 28).
 
 ---
 
@@ -49,7 +51,7 @@ Decision log for the TT rendering of Mark, per RULES-CORE §Editorial Log Specif
 - Ἡρῳδιανοί→**Herodians**; Βεελζεβούλ→**Beelzevul (Beelzebul)**; Τύρος→**Tsor (Tyre)**, Σιδών→**Tsidon (Sidon)**, Ἰδουμαία→**Idumea**; Ἀβιαθάρ→**Evyatar (Abiathar)**.
 
 ### Lexical / glossary
-- **ὁ υἱὸς τοῦ ἀνθρώπου → "the Son of Man"** (2:10, 2:28) — kept as the established rendering; Tier-2 note gives the literal "son of the human" and the Daniel 7:13 range (generic ↔ titular held together, not collapsed).
+- **ὁ υἱὸς τοῦ ἀνθρώπου → "the Son of Man"** (2:10, 2:28) [**2026-11-20 note:** the Title Case form is **superseded** by Launch-Program decision D8 → Entry 2026-11-20-008 — "the son of man", lowercase everywhere (Rule 20); re-cased in Step 4 batch 4. The Tier-2 content of this item stands.] — kept as the established rendering; Tier-2 note gives the literal "son of the human" and the Daniel 7:13 range (generic ↔ titular held together, not collapsed).
 - **ἀφίημι (verb, 2:5,9) → "forgive"** in main text with the release sense noted — the verbal counterpart of *aphesis* "release" (1:4). Consistency flagged for Hellenist.
 - **πνεῦμα 2:8 → "his spirit" (NO slash)** — Yeshua's own inner spirit; "wind" not a live sense (context-gated slash, same principle as "unclean spirit"). The holy-spirit slash is kept at 3:29.
 - **κύριος 2:28 → "lord"** (not the divine name — not an OT quotation; "lord of the sabbath").
@@ -64,7 +66,7 @@ Decision log for the TT rendering of Mark, per RULES-CORE §Editorial Log Specif
 - **3:14 "[whom he also named emissaries/apostles]"** — bracketed in NA28 (possible import from Luke 6:13). Rendered in italic-brackets, flagged.
 - **3:32 "[and your sisters]"** — present in some witnesses (A, D), absent in others (א, B, C, L). Included as text-uncertain (italics), flagged.
 
-**Status:** provisional. Source-analysis corpus: `docs/source-analysis/greek/mark-2-3.md`.
+**Status:** provisional (the "Son of Man" casing item `superseded` 2026-11-20 → Entry 2026-11-20-008). Source-analysis corpus: `docs/source-analysis/greek/mark-2-3.md`.
 
 ---
 
@@ -99,7 +101,7 @@ Decision log for the TT rendering of Mark, per RULES-CORE §Editorial Log Specif
 
 - **Scope:** all 9 Mark files mirrored EN→pt-br (CHAPTER-1/2/3, study/CHAPTER-1/2/3-CONTEXT, INTRODUCTION, PEOPLE, CONTEXT). GS-governed (RULES-GS); mirror-EN per the Matthew/John precedent.
 - **Rule(s) invoked:** RULES-GS (kyrios Option C divine name), v3.2 name rendering, Rule 11 (grammatical additions), Rule 28 (provisional), Rule 29 (dual-labels), Rule 30 (divine-speech markers).
-- **Name rendering (familiar = Almeida tradition; transliteration mirrors EN byte-for-byte):** Yeshua→Jesus, Yochanan→João, Shimon Kefa→Simão Pedro, Andreas→André, Ya'aqov→Tiago (apostle; via Lat. *Iacomus*, distinct from patriarch Jacó), Zavdai→Zebedeu, Levi→Levi, Philippos→Filipe, Bar-Talmai→Bartolomeu, Mattai→Mateus, Toma→Tomé, Chalfai→Alfeu, Taddai→Tadeu (Lebbaeus→Lebeu), Shimon the Kena'ani→Simão o Cananeu, Yehudah Ish-Keriot→Judas Iscariotes; places Yarden→Jordão, Galil→Galileia, Natzeret→Nazaré, Kfar Nachum→Cafarnaum. "Filho do Homem", "filhos do trovão" (Boanerges).
+- **Name rendering (familiar = Almeida tradition; transliteration mirrors EN byte-for-byte):** Yeshua→Jesus, Yochanan→João, Shimon Kefa→Simão Pedro, Andreas→André, Ya'aqov→Tiago (apostle; via Lat. *Iacomus*, distinct from patriarch Jacó), Zavdai→Zebedeu, Levi→Levi, Philippos→Filipe, Bar-Talmai→Bartolomeu, Mattai→Mateus, Toma→Tomé, Chalfai→Alfeu, Taddai→Tadeu (Lebbaeus→Lebeu), Shimon the Kena'ani→Simão o Cananeu, Yehudah Ish-Keriot→Judas Iscariotes; places Yarden→Jordão, Galil→Galileia, Natzeret→Nazaré, Kfar Nachum→Cafarnaum. "Filho do Homem", "filhos do trovão" (Boanerges). [**2026-11-20 note:** "Filho do Homem" **superseded** by D8 → Entry 2026-11-20-008 — *filho do homem* (Rule 20; PT/ES follow EN, as john.md J-018 already set for verse text).]
 - **Divine name:** YHWH (pt-br keeps YHWH, not JHWH) in body cross-refs; main text uses κύριος→"o Senhor" (Option C). Divine-name-policy metadata = canonical `κύριος (kyrios)`.
 - **Markers:** @@/{t:}/{a:} counts parity-verified equal to EN per file (ch1 30/0/7, ch2 34/0/1, ch3 26/0/3); grammatical `*added*` localized to pt-br needs. One fix during QA: a nested `*{a:vento/espírito}*` (Mark 1:8) collapsed to plain `{a:vento/espírito}` (PT needs no article where EN adds `*the*`).
 - **Structural headers + dual-label forms:** copied verbatim from pt-br/matthew (parser byte-match); claim-type/confidence labels use registered pt-br forms (TEXTUAL/INFERÊNCIA FORTE/POSSÍVEL/RECEPÇÃO POSTERIOR/HISTÓRICO·ARQUEOLÓGICO; VERIFICADO/PROVÁVEL/POSSÍVEL/DOCUMENTADO).
@@ -113,7 +115,7 @@ Decision log for the TT rendering of Mark, per RULES-CORE §Editorial Log Specif
 ## Entry 2026-06-21-006 — Mark 1–3 propagation to DE
 
 - **Scope:** all 9 Mark files mirrored EN→de (chapters, companions, INTRODUCTION, PEOPLE, CONTEXT). GS-governed; mirror-EN.
-- **Rule(s):** RULES-GS (kyrios Option C), v3.2 names, Rule 11 (DE article additions vom/zum marked italic), Rule 28 (provisional), Rule 30.
+- **Rule(s):** RULES-GS (kyrios Option C), v3.2 names, Rule 11 (DE article additions vom/zum marked italic [**2026-11-20 note:** this DE convention is **generalized to all locales** by Launch-Program decision L1 → Entry 2026-11-20-009 — the whole fused contraction is italicized: PT `*na*`, DE `*im*`, ES `*del*`]), Rule 28 (provisional), Rule 30.
 - **Name rendering (familiar = Luther tradition; transliteration mirrors EN):** Yeshua→Jesus, Yochanan→Johannes, Shimon Kefa→Simon Petrus, Andreas→Andreas (collapsed — Luther familiar == translit), Ya'aqov→Jakobus, Zavdai→Zebedäus, Levi→Levi, Philippos→Philippus, Bar-Talmai→Bartholomäus, Mattai→Matthäus, Toma→Thomas, Chalfai→Alphäus, Taddai→Thaddäus, Shimon the Kena'ani→…Kananäer, Yehudah Ish-Keriot→Judas Iskariot; Yarden→Jordan, Galil→Galiläa, Natzeret→Nazaret, Kfar Nachum→Kafarnaum, Evyatar→Abjatar, Achimelech (Luther). "Menschensohn", "Sohn des Menschen" (literal note).
 - **Divine name: `JHWH` (not YHWH)** — applied to ALL body cross-refs, not just metadata (audit Minor 2): verified 0 `YHWH` in de/mark; served HTML shows JHWH (Notes view 19 JHWH / 0 YHWH). Main text κύριος→„der Herr" (Option C). German „…" quotes; sprach/sagte.
 - **Markers:** @@/{t:}/{a:} parity = EN per file (ch1 30/0/7, ch2 34/0/1, ch3 26/0/3); `{a:Wind/Geist}`; no nested form. QA fix: 3 redundant `Andreas (Andreas)` collapsed to `Andreas` (v3.3.1).
@@ -137,3 +139,47 @@ Decision log for the TT rendering of Mark, per RULES-CORE §Editorial Log Specif
 - **AI provenance:** claude-opus-4-8 (1M) + subagents, 2026-06-21. Gates green (882 tests; conservation 240 files→13112 units additive; content:lint clean incl. §0.3/§0.4; lint/build; 7 routes 200, markers styled, YHWH/0-JHWH); visual-checked es/mark ch3.
 - **Status:** provisional. **Reviewers:** es locale-editor unassigned (Rule 28).
 - **Cross-references:** `PLAN_MARK_PROPAGATION.md`; entries 2026-06-21-005 (PT-BR), -006 (DE). **Mark now complete in all four locales.**
+
+---
+
+## Launch Program decisions (2026-11-19/20)
+
+Decisions taken by the project lead in the Launch-Readiness Program (`docs/audit/LAUNCH_PROGRAM.md` D7–D9; `docs/audit/CONTENT_SWEEP_FINDINGS.md` §3 L1–L8). Recorded here before the content changes ("log before drafting"); the content is changed in the Step 4 batch named in each entry (`docs/audit/PLAN_LAUNCH_FIXES.md`).
+
+- **Ruleset:** this log now runs under **v3.4.1** (RULES-CORE amendment of 2026-11-20 — `docs/rules/CHANGELOG-v3.4.md`). The header line was added on 2026-11-20; the log had none.
+- **Content re-stamp (2026-11-20, Step 4 batch 2):** 125 front-matter stamp fields + 8 prose stamps were re-stamped Ruleset v3.3 → v3.4 across `content/` (Genesis, John, Matthew); the 4 Luke 3 "v3.3.2 cross-book convention" citations were kept. **No Mark file changed** — all Mark stamps already read v3.4.
+- **PT register (L6):** corpus-wide entry **john.md J-037** (*vós* kept in PT verse text).
+
+## Entry 2026-11-20-008 — "son of man" lowercase everywhere (D8)
+
+- **Verse:** Mark 2:10, 2:28 (book-wide policy) — verse text, overview, notes and companions.
+- **Language(s) affected:** EN, PT-BR, ES (DE: *Menschensohn* / *Sohn des Menschen* — grammatical noun capitalization, unchanged)
+- **Rule(s) invoked:** CORE Rule 20 (titular nouns lowercase; body text incl. notes and companions — amended in v3.4.1).
+- **Decision:** ὁ υἱὸς τοῦ ἀνθρώπου = **"the son of man"** / *o filho do homem* / *el hijo del hombre* everywhere in body text. Section headings keep heading case; DE keeps its grammatical capitals. The Tier-2 note (literal "son of the human"; the Daniel 7:13 range, generic ↔ titular held together) is unchanged except for the casing. Applied in **Step 4 batch 4**.
+- **Alternatives considered:**
+  - Keep "the Son of Man" as the established rendering (rejected: Rule 20 lists "son of man" among the titular nouns that stay lowercase; Mark was the outlier against John/Matthew verse text).
+  - Lowercase verse text only, Title Case in notes (rejected: the lead's ruling is "everywhere").
+- **Justification:** Rule 20; one form per locale across the corpus. Lowercase also keeps the generic ↔ titular range the Tier-2 note holds open, where a capital would decide for the title.
+- **AI provenance:** drafted by the AI assistant (claude-opus-5-5), 2026-11-20, executing lead decision D8 (2026-11-19). Step 4 batch 2.
+- **Status:** provisional
+- **Reviewers:** unassigned
+- **Cross-references:** supersedes the "Son of Man" casing in Entry 2026-06-18-002 and the PT "Filho do Homem" form in Entry 2026-06-21-005; genesis.md 2026-11-20-121; john.md J-039; matthew.md M-035.
+
+---
+
+## Entry 2026-11-20-009 — Added article fused into a contraction: italicize the whole contraction (L1, all locales)
+
+- **Verse:** edition-wide (all books) — PT-BR, DE, ES verse text (both reading copies) and notes that quote it.
+- **Language(s) affected:** PT-BR, DE, ES (EN has no article contractions)
+- **Rule(s) invoked:** CORE Rule 11 (Signal All Additions — contraction clause added in v3.4.1; cross-references GS §Greek Article System, which already states DE *vom* / *zum*).
+- **Decision:** when an article the source lacks is fused with a preposition, the **whole contraction** is italicized: PT `*na* carne`, `*do* Senhor`; DE `*im* Buch`, `*vom*`, `*zum*`; ES `*del* Señor`, `*al*`. The italic never moves onto the noun (the PT "pivot" pattern `do *Senhor*`), and an inserted article never doubles an existing one (DE Acts 1:5 `im *dem*`, 2:38 `zur *der*`, 3:20 `vom *dem*`; ES Luke 3:9 `al *el*`). This generalizes the DE convention logged in Entry 2026-06-21-006. Applied in **Step 4 batch 4** (sweep counts: PT 36 pivot-likely + 13 review; DE 5 + 5; ES 4 + 2; plus continuous-reading copies and notes quoting them).
+- **Alternatives considered:**
+  - Italicize only the article inside the contraction (`n*a* carne`) (rejected: impossible for DE *im* and ES *al*; three locales would need two conventions).
+  - Do not mark fused articles (rejected: Rule 11 and the marker table require marking words added for target grammar; RULES-CORE :378 is narrowed in v3.4.1 to remove the conflict).
+- **Justification:** one convention for the three contraction locales, the one DE already logged and PT/ES verse text already used in most places (PT 25, ES 12).
+- **AI provenance:** drafted by the AI assistant (claude-opus-5-5), 2026-11-20, executing lead decision L1 (approved 2026-11-20). Step 4 batch 2.
+- **Status:** provisional
+- **Reviewers:** unassigned
+- **Cross-references:** generalizes Entry 2026-06-21-006 (DE); matthew.md M-006 (DE "vom heiligen Wind/Geist"); `CONTENT_SWEEP_FINDINGS.md` headline 7, S7a and §3 L1.
+
+---

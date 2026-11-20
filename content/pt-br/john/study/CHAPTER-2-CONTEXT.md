@@ -10,7 +10,7 @@
 **Capítulo:** João 2
 **Idioma:** Português Brasileiro
 **Companheiro de:** `pt-br/john/CHAPTER-2.md` (Edição Transparente)
-**Conjunto de Regras:** v3.3 (Regra 29 governa este arquivo)
+**Conjunto de Regras:** v3.4 (Regra 29 governa este arquivo)
 **Status:** provisório
 
 ---

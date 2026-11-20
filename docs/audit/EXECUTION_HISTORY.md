@@ -7,9 +7,29 @@ in `docs/audit/PENDING.md`.
 > The **Plan artifact** column references per-phase plan docs removed in the 2026-06-12
 > documentation lean-up (completed plans). The **What it did** column is the authoritative record.
 
-**Latest editorial-log anchors:** `genesis.md` Entry `2026-06-19-120` · `john.md` J-036 · `matthew.md` M-034 · `mark.md` `2026-06-21-007` · `luke.md` L-005 · `acts.md` A-007 · `1-peter.md` P-010.
+**Latest editorial-log anchors:** `genesis.md` Entry `2026-11-20-122` · `john.md` J-039 · `matthew.md` M-035 · `mark.md` `2026-11-20-009` · `luke.md` L-007 · `acts.md` A-010 · `1-peter.md` P-013.
 
 ---
+
+## Launch-Readiness Program — Step 4 batch 2: Rules & docs (2026-11-20)
+
+`PLAN_LAUNCH_FIXES.md` §B2 (plan review: 2 adversarial reviewers, 0 blockers, 10 major, 11 minor — all applied, §B2.11).
+- **Ruleset v3.4.1** — a re-opening; the lead waived the 14-day window (`docs/rules/proposals/v3.4.1-launch-corrections.md`, `docs/rules/CHANGELOG-v3.4.md`). RULES-CORE now states:
+  - D7: ψυχή / bare נֶפֶשׁ = life/being;
+  - L4: the scope of a lock;
+  - D8: Rule 20 body text lowercase incl. notes;
+  - D9: DE Jehudim;
+  - D10: marker table = the live CSS;
+  - L1: Rule 11 contractions, plus the idiom-policy conflict resolved;
+  - L5: Rule 28 internal record vs a plain 4-locale reader statement;
+  - L6: the Rule 10 PT *vós* clause.
+
+  RULES-HB gains a bare-נֶפֶשׁ row (provisional pending the Hebraist); RULES-GS gets the D9 wording. Also fixed: "THE 30 RULES", the activation checklist (now points to the playbook), the escaped schema pipes.
+- **Editorial logs** — the decisions are recorded before the content batches apply them. New entries: A-008–010, P-011–013 (incl. the missing 1 Peter provenance record), J-037–039 (J-037 = the corpus-wide PT *vós* anchor), mark 2026-11-20-008/009, genesis 2026-11-20-121/122, M-035, L-006/007. Superseded entries are annotated with forward pointers. Internal AI-provenance record: `docs/editorial-log/ai-provenance-record.tsv` (252 reader-facing lines, 4 locales).
+- **Content** — 133 version stamps re-stamped v3.3 → v3.4 (125 fields + 8 prose; the 4 Luke 3 citations kept). Conservation unchanged: 408 files / 20,676 units, before and after. §0.1b is now blocking (amendment citations filtered, not allow-listed).
+- **Tests** — activation-consistency adds 4 checks (scoped to the allow-list table): heroTagline labels and ranges, the sectionKick count, source-analysis stubs (known gaps exactly John and Matthew), no `people.inBook`. rules-messages adds the "THE N RULES" check. A sweep guard confirms the plain provenance statements are never flagged. The conservation test gains an opt-in count report. The suite now has 1,106 tests in 31 files.
+- **Docs** — reader guide (doors, live marker colours, Greek specifics), STANDARDS (the real tree), TT-DESIGN-SYSTEM, README, CLAUDE.md, CONTRIBUTING, AUTHORING-PLAYBOOK, templates (v3.4, `provisional`, source-neutral, Sources last, L5 provenance), transliteration-decisions (GS section; the *Chava* contradiction fixed), source-analysis READMEs, outcome lines on 7 archived plans, PENDING (accepted documentation gaps listed).
+- **Sweep** — 20,337 → 20,079 hits: exactly the 258 stamp rows (S8 125, S10 125 + 8).
 
 ## Launch-Readiness Program — Step 4 batch 1: Code (2026-11-20, PR #18)
 
@@ -445,8 +465,10 @@ Each phase ends green (test · build · lint · content:lint) + per-locale visua
 - **v3.3** (2026-05-08, Phase 5.5) — governance expansion (punctuation, idiom, glossary expansion, editorial-log schema, John 1:1c example).
 - **v3.3.1** (2026-05-18) — emergency amendment: DE name-rendering clarification (RULES-HB.md).
 - **v3.3.2** (2026-05-18) — emergency amendment: cross-book PEOPLE formalization (RULES-CORE.md Rule 29).
+- **v3.4** (2026-06-17) — Rule 30 (divine-speech marking) + the Text-Highlight Markers; content `Methodology:` lines re-stamped 2026-06-21, `**Ruleset:**` fields + prose stamps 2026-11-20.
+- **v3.4.1** (2026-11-20, Launch-Program Step 4 batch 2) — re-opening (lead waived the 14-day window): rule text states decisions D7–D10, L1, L4–L6; RULES-HB bare-נֶפֶשׁ row; corrections. `docs/rules/proposals/v3.4.1-launch-corrections.md`.
 
-See `docs/rules/CHANGELOG-v3.1.md` / `-v3.2.md` / `-v3.3.md` for full change detail.
+See `docs/rules/CHANGELOG-v3.1.md` / `-v3.2.md` / `-v3.3.md` / `-v3.4.md` for full change detail.
 
 ## Still open
 

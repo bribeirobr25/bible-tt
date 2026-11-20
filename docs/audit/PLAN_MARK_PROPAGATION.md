@@ -1,5 +1,7 @@
 # Plan — Mark 1–3 propagation to PT-BR / DE / ES
 
+**Outcome (status updated 2026-11-20):** EXECUTED 2026-06-21 — Mark 1–3 propagated to PT-BR/DE/ES (27 files) and merged to `main` in PR #9; the "PLANNED" status below is historical (`EXECUTION_HISTORY.md` › Mark 1–3 propagation).
+
 **Status:** PLANNED — **self-audited + externally AUDITED ✅ APPROVE** (`AUDIT_MARK_PROPAGATION_PLAN.md`, 2026-06-21; findings verified against source + folded in) · approved: branch off `main`/PR gate (Q1), PT-BR checkpoint (Q2), AI-draft→provisional→Rule-28 (Q3) · **Date:** 2026-06-21 · **Class:** content authoring (translation) · **Risk:** Medium (volume + per-locale rule compliance; additive, not destructive)
 
 > **External-audit disposition (all findings verified true & folded in):**

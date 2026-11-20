@@ -62,7 +62,7 @@ Use when adding a book not yet in `AVAILABLE_BOOKS` (e.g. Acts, Psalms). **Alway
 - Write `docs/audit/PLAN_{BOOK}_EXPANSION.md`; get the lead's audit; iterate to APPROVE. (See `PLAN_LUKE_EXPANSION.md` / `PLAN_MARK_PROPAGATION.md` as worked templates.)
 
 ### B.1 Phase 0 — Activation (do this **before** authoring; one commit)
-A new book is the *only* content that needs code wiring. Miss one and you get a broken route or silent parse-to-`undefined`. The combined touchpoint set (RULES-CORE "5 synchronized changes" + the registry/UI/i18n/lint set the consistency test guards):
+A new book is the *only* content that needs code wiring. Miss one and you get a broken route or silent parse-to-`undefined`. This table is the **single full list** of activation touchpoints; RULES-CORE's new-book checklist keeps only the PEOPLE-specific steps and points here:
 
 | # | Touchpoint | File | Note |
 |---|---|---|---|
@@ -70,12 +70,12 @@ A new book is the *only* content that needs code wiring. Miss one and you get a 
 | 2 | `BOOK_ORDER` (+ `HEBREW_BIBLE` if HB) | `src/app/[locale]/books/page.tsx` | display order + corpus label |
 | 3 | `bookLabels` | `src/app/[locale]/[book]/people/page.tsx` | localized label for cross-book pointers |
 | 4 | `EXACT_LABEL_ALIASES.inBook` | `src/infrastructure/content/people-parser.ts` | 4 locale forms (`"in acts"`/`"em atos"`/`"in apostelgeschichte"`/`"en hechos"`) — else `**In {Book}:**` parses to `undefined` |
-| 5 | `book.{slug}` + `people.inBook.{slug}` + `heroTagline` + `sectionKick` count | `src/infrastructure/i18n/messages/{en,pt-br,de,es}.json` | all 4 locales; bump the "{N} books"→"{N+1} books" count (e.g. "Six"→"Seven" for 1 Peter) |
+| 5 | `book.{slug}` + `heroTagline` + `sectionKick` count | `src/infrastructure/i18n/messages/{en,pt-br,de,es}.json` | all 4 locales; bump the "{N} books"→"{N+1} books" count (e.g. "Six"→"Seven" for 1 Peter) |
 | 6 | content-lint dir lists | `scripts/content-lint.sh` | book/file lists and the §0.12 see-target allow-list are generated from `content/en/*/` since Step 2; add a Hebrew Bible book to `HB_BOOKS` (must equal `HEBREW_BIBLE`) and a not-yet-authored cross-book pointer target to `FORWARD_SLUGS` |
 | 7 | see-target allow-list | `docs/rules/RULES-CORE.md` | add slug |
 | 8 | editorial log + source stub | `docs/editorial-log/{book}.md`, `docs/source-analysis/{greek\|hebrew}/{book}-N.md` | seed before authoring |
 
-**Backstop:** `src/infrastructure/content/__tests__/activation-consistency.test.ts` mechanically checks registry ↔ `BOOK_ORDER` ↔ `HEBREW_BIBLE` ↔ i18n `book.*` ↔ `bookLabels` ↔ RULES-CORE allow-list ↔ editorial log ↔ content in all 4 locales ↔ lint `HB_BOOKS`; `locale-parity.test.ts` checks file sets / verse sequences / marker counts / companion entries across locales; `people-field-resolution.test.ts` checks every see-stub has an `inBook` role and every locale label resolves like EN. Run `pnpm test` after Phase 0 — it fails loudly on an omission of the checked touchpoints — **not yet checked:** row 5 `heroTagline`/`sectionKick` counts, row 8 source-analysis stub (Step 4d); row 5 and RULES-CORE name a `people.inBook.{slug}` key that does not exist in `en.json` (RULES-CORE still says "5 synchronized changes" vs these 8 touchpoints — reconcile in Step 4d). **EN-first pilot branch:** add the slug to `PILOT_BOOKS` (`src/domain/books/registry.ts`) so the parity checks skip it until propagation; remove it in the propagation PR.
+**Backstop:** `src/infrastructure/content/__tests__/activation-consistency.test.ts` mechanically checks registry ↔ `BOOK_ORDER` ↔ `HEBREW_BIBLE` ↔ i18n `book.*` ↔ `bookLabels` ↔ RULES-CORE allow-list ↔ editorial log ↔ content in all 4 locales ↔ lint `HB_BOOKS`; `locale-parity.test.ts` checks file sets / verse sequences / marker counts / companion entries across locales; `people-field-resolution.test.ts` checks every see-stub has an `inBook` role and every locale label resolves like EN. The same test also checks row 5 (`heroTagline` lists every active book with its chapter range; the `sectionKick` count word equals the number of active books) and row 8 (a source-analysis file `{slug}*.md` exists in `docs/source-analysis/{greek|hebrew}/`; Matthew and John are the known, allow-listed source-stub gaps). Run `pnpm test` after Phase 0 — it fails loudly on an omission of any checked touchpoint. RULES-CORE's new-book checklist now points to this table instead of keeping its own count. **EN-first pilot branch:** add the slug to `PILOT_BOOKS` (`src/domain/books/registry.ts`) so the parity checks skip it until propagation; remove it in the propagation PR.
 
 ### B.2 Phase 1 — EN authoring (from source)
 Author all EN files (per-locale manifest, ×1 for EN):
@@ -105,7 +105,7 @@ All 8 activation touchpoints + `activation-consistency` green; all routes 200 (`
 ## 4. The Gate (run every phase)
 
 ```
-pnpm test          # 13 suites incl. conservation (additive, zero-loss), completeness + label guards, activation-consistency
+pnpm test          # all suites (count: CLAUDE.md "Verified state") incl. conservation (additive, zero-loss), completeness + label guards, activation-consistency
 pnpm lint          # Biome
 pnpm content:lint  # Phase-0 content rules (markers, divine name, diacritics, redundant parens, cross-book pointers, anti-calque…)
 pnpm build         # all routes prerender
@@ -123,12 +123,12 @@ Conservation auto-discovers files and derives the expected unit total — a pass
 | Name tradition | source-familiar | Almeida | Luther | Reina-Valera |
 | Divine name (HB) | YHWH | YHWH | **JHWH** | YHWH |
 | Divine name (GS κύριος) | the Lord | o Senhor | der Herr | el Señor (Option C + Tier-2 note) |
-| 2nd-person plural | — | vocês | ihr | **ustedes** (not peninsular `vosotros`) |
+| 2nd-person plural | — | **vós** in verse text (Rule 10 register clause, decision L6); contemporary forms elsewhere | ihr | **ustedes** (not peninsular `vosotros`) |
 | Quote marks | "…" | "…" | „…" | "…" |
 | Diacritics | — | full | full | **full** (the recurring failure — see T-09) |
 | Speech verb | said | disse | sprach/sagte | dijo |
 
-Headings are localized — copy the exact strings from a sibling chapter in the **same** book+locale (e.g. ES `LECTURA CONTINUA` / `ESTUDIO VERSÍCULO POR VERSÍCULO` / `GLOSARIO`). Name rendering: familiar form default; transliterated form **once per section** as `Translit (Familiar)`; never redundant `Name (Name)` (T-08). Exceptions kept transliterated: YHWH/JHWH, Yehudim, technical terms (`raqia`, `bara`…).
+Headings are localized — copy the exact strings from a sibling chapter in the **same** book+locale (e.g. ES `LECTURA CONTINUA` / `ESTUDIO VERSÍCULO POR VERSÍCULO` / `GLOSARIO`). Name rendering: familiar form default; transliterated form **once per section** as `Translit (Familiar)`; never redundant `Name (Name)` (T-08). Exceptions kept transliterated: YHWH/JHWH, Yehudim (DE Jehudim), technical terms (`raqia`, `bara`…).
 
 ---
 
@@ -136,10 +136,10 @@ Headings are localized — copy the exact strings from a sibling chapter in the 
 
 | Meaning | Rule | Markup | Colour |
 |---|---|---|---|
-| Word added for target grammar | 11 | `*word*` | grammatical-blue |
-| Strategic transliterated term | 4 | `{t:raqia}` | teal |
-| Preserved ambiguity (governed slash) | 2 | `{a:wind/spirit}` | ochre |
-| Direct divine speech | 30 | `@@"Shall be light"@@` | red |
+| Word added for target grammar | 11 | `*word*` | grammatical-blue italic |
+| Strategic transliterated term | 4 | `{t:raqia}` | teal, bold |
+| Preserved ambiguity (governed slash) | 2 | `{a:wind/spirit}` | bold, body colour |
+| Direct divine speech | 30 | `@@"Shall be light"@@` | red, not bold |
 
 These are the **only** inline styling in the verse text. `{t:}`/`{a:}` are reserved for locked-glossary terms. Markers may nest inside `@@…@@` but author the inner marker normally — **never** nest `*…*` inside `{a:…}` (T-07). Uncertainty on debated terms uses Rule 13 levels (Probable / Possible / Uncertain) in Tier-2 notes.
 
@@ -168,7 +168,7 @@ These are the **only** inline styling in the verse text. `{t:}`/`{a:}` are reser
 - **T-17 — Large parallel propagation can hit the account session limit mid-run.** Acts propagation launched 9 heavy agents at once; the 3 companion (6-file) agents hit the limit and reported "0 tokens" — but had each written 5/6 files before stopping. **Lesson:** after a big parallel batch, *inventory what actually landed* (`find content/{loc}/book -type f`) and **check the existing files for truncation** (do they end with the provenance/sources block?) before assuming failure; hand-finish only the genuinely-missing tails. Prefer fewer, smaller batches (e.g. chapters first, then companions) over one 9-agent burst.
 - **T-18 — Subagent marker-stripping is a silent propagation risk; gate it with a scripted parity diff.** A propagation agent rendered `{a:wind/spirit}` as plain prose in 6 spots of one ES file (and over-marked 2 others), so the locale silently diverged from EN. The `@@`/`{a:}`/`{t:}` counts per file **must equal the EN source's** — run the scripted count-diff (every propagated file vs its EN twin) as a hard gate, not just the agent's self-report.
 - **T-19 — Leading-digit book slugs (`1-peter`, `2-peter`, `1-john`…).** The cross-book slug regexes must admit a leading digit (`[a-z0-9][a-z0-9-]*`) in both `content-lint.sh` §0.12 and `people-parser.ts` `crossBookSee`, else a `**See:** 1-peter/PEOPLE.md` pointer silently parses to `undefined` and renders as plain text. Fixed in 1 Peter Phase 0a with a round-trip regression test — keep the test when touching either regex.
-- **T-20 — The pivot moves Rule-11 italics onto the target noun inside PT contractions.** EN `in *the* flesh` (added article) became PT `na *carne*` — italicizing a noun that *is* in the Greek. Same class elsewhere — upper bound, regex `\b(na|no|nas|nos|da|do|das|dos|pela|pelo|pelas|pelos|à|às|ao|aos) \*[^*]+\*` over `content/pt-br/<book>/CHAPTER-*.md`: 1 Peter 57 · Luke 86 · Genesis 16 · Acts 8 · John 11 · Matthew 11 · Mark 1 — includes some legitimate italics. **Sized in Step 3** (`CONTENT_SWEEP_FINDINGS.md`, check S7a): of the 190, 56 are verse text (39 pivot-likely: Luke 24 · 1 Peter 14 · Acts 1; 17 review), 56 their continuous-reading copies, 68 notes quoting them, 10 other prose. **Counting caveat:** the 190 uses Unicode word boundaries; an ASCII `\b` grep (`grep -E`, ugrep) counts **186**, because `\b` never matches before `à`/`às` — re-measure with `pnpm content:sweep --check S7a`, not with grep. The PT convention for an added article fused into a contraction is lead decision **L1** (recommended: `n*a* carne`, the companions' existing form); fix in Step 4b.
+- **T-20 — The pivot moves Rule-11 italics onto the target noun inside PT contractions.** EN `in *the* flesh` (added article) became PT `na *carne*` — italicizing a noun that *is* in the Greek. Same class elsewhere — upper bound, regex `\b(na|no|nas|nos|da|do|das|dos|pela|pelo|pelas|pelos|à|às|ao|aos) \*[^*]+\*` over `content/pt-br/<book>/CHAPTER-*.md`: 1 Peter 57 · Luke 86 · Genesis 16 · Acts 8 · John 11 · Matthew 11 · Mark 1 — includes some legitimate italics. **Sized in Step 3** (`CONTENT_SWEEP_FINDINGS.md`, check S7a): of the 190, 56 are verse text (39 pivot-likely: Luke 24 · 1 Peter 14 · Acts 1; 17 review), 56 their continuous-reading copies, 68 notes quoting them, 10 other prose. **Counting caveat:** the 190 uses Unicode word boundaries; an ASCII `\b` grep (`grep -E`, ugrep) counts **186**, because `\b` never matches before `à`/`às` — re-measure with `pnpm content:sweep --check S7a`, not with grep. **Decided (L1, 2026-11-20; Rule 11 contraction clause, v3.4.1):** an added article fused into a contraction is marked by italicizing the **whole contraction** in every locale — PT `*na* carne`, DE `*im* Buch`, ES `*del* Señor`; an inserted article never doubles an existing one. The content fix is a later Step 4 batch.
 
 ---
 

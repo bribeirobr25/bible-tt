@@ -8,7 +8,7 @@
 **Scope:** Matthew through Revelation (all books composed in Koine Greek)
 **Starting Book:** Gospel of John
 **Status:** RESOLVED — all structural decisions documented below. Ready for first verse.
-**Source-analysis method:** see `../source-analysis/METHOD.md` (universal process + per-language adaptation table); Greek worked-example corpus (stub, filled on authoring) at `../source-analysis/greek/`. Any Greek worked example is an AI-assisted draft pending Hellenist review (Rule 28).
+**Source-analysis method:** see `../source-analysis/METHOD.md` (universal process + per-language adaptation table); Greek worked-example corpus at `../source-analysis/greek/` (Mark 1–3, Luke 1–3, Acts 1–3, 1 Peter; no Matthew/John files). Any Greek worked example is an AI-assisted draft pending Hellenist review (Rule 28).
 
 ---
 
@@ -45,7 +45,7 @@
 | ὑψόω (*hypsoō*) | lift up | levantar | erhöhen | levantar | Double meaning: physical lifting AND exaltation. Both senses active in John (3:14, 8:28, 12:32–34). Track the double meaning across occurrences. |
 | πάσχα (*pascha*) | Pesach | Pesach | Pesach | Pesach | Governed exception via HB→GS cross-supplement alignment (Rule 16). Preserves Jewish festival continuity and avoids Easter anachronism in PT/ES (*Páscoa*/*Pascua* can mean Easter in modern usage). Note at first occurrence explains Greek πάσχα and Hebrew/Aramaic פֶּסַח background. NOT a general rule that Greek terms are rendered through Hebrew — future similar cases require their own editorial-log entries. |
 
-**Transliteration note:** Unlike the HB glossary (which transliterates *raqia*, *nephilim*, *tebah*, *gopher*, *mabbul*), no GS glossary term crosses the Rule 4 transliteration threshold. All Greek terms have clear semantic content that can be rendered in target languages. The GS glossary is about *which meaning* to render, not *whether to render*.
+**Transliteration note:** Unlike the HB glossary (which transliterates *raqia*, *nephilim*, *tebah*, *gopher*; *mabbul* is rendered "flood" — corrected in v3.4.1 to match the RULES-HB glossary), no GS glossary term crosses the Rule 4 transliteration threshold. All Greek terms have clear semantic content that can be rendered in target languages. The GS glossary is about *which meaning* to render, not *whether to render*.
 
 ---
 
@@ -88,7 +88,7 @@ When a predicate nominative lacks the article while the subject retains it, the 
 
 ### Anarthrous Sacred/Theological Terms
 
-When Greek uses a theologically significant term without the article (e.g., πνεῦμα ἅγιον at Matt 1:18, 1:20), target-language translations that add an article (EN "the," DE "vom" = "von dem") must mark the addition per Rule 11 (italics for grammatical additions). German article contractions ("vom," "zum") that embed a definite article not present in the Greek are documented as grammatical necessity with Rule 11 marking.
+When Greek uses a theologically significant term without the article (e.g., πνεῦμα ἅγιον at Matt 1:18, 1:20), target-language translations that add an article (EN "the," DE "vom" = "von dem") must mark the addition per Rule 11 (italics for grammatical additions). German article contractions ("vom," "zum") that embed a definite article not present in the Greek are documented as grammatical necessity with Rule 11 marking — the whole contraction is italicized (`*vom*`), the convention RULES-CORE Rule 11 now states for all locales (v3.4.1, decision L1).
 
 ### Translation Principle
 
@@ -102,7 +102,7 @@ The term οἱ Ἰουδαῖοι (*hoi Ioudaioi*) appears with varying referent
 
 ### Rendering
 
-Transliterate as **Yehudim** (*the Yehudim*) in all four target languages at every occurrence. This preserves the source-language term without importing either the neutral modern English "Jews" or the historically charged traditions of anti-Jewish translation.
+Transliterate as **Yehudim** (*the Yehudim*) in EN, PT-BR and ES, and as **Jehudim** (*die Jehudim*) in German (yod → J, the convention of JHWH; `john.md` Entry J-006; decision D9, v3.4.1), at every occurrence. This preserves the source-language term without importing either the neutral modern English "Jews" or the historically charged traditions of anti-Jewish translation.
 
 ### Three-Sense Decision Tree
 
@@ -378,3 +378,5 @@ Per-verse steps for Greek source text (parallel to HB workflow):
 **Version history:**
 - v3.0 (2026-04-28): All 10 structural decisions resolved. Glossary drafted (21 terms × 4 languages). Divine name policy adopted (Option C). Starting book declared (John). Ready for first verse.
 - v3.1 (2026-05-06): Emergency Amendment — audit-driven hardening. Added: Greek Article System (extends Rule 17), Ioudaioi Policy (hoi Ioudaioi three-sense decision tree + anti-misuse safeguard), 6 new glossary entries (monogenēs, zōē aiōnios, anōthen, hypsoō, pascha). Fixed ψυχή typo.
+- v3.2: name-rendering policy (familiar form + one transliterated gloss per section) and the locked cross-language proper-name table (§Proper names, "v3.2"), adopted with RULES-CORE v3.2.
+- v3.4.1 (2026-11-20): Ioudaioi wording — DE **Jehudim** (decision D9; the table already said "die Jehudim"); German contraction marking aligned with RULES-CORE Rule 11 (L1); Greek corpus line. From this release, supplement versions name the RULES-CORE release that amended them. See `CHANGELOG-v3.4.md`.

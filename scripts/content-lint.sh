@@ -254,22 +254,20 @@ echo ""
 # Phase 0 content-lint rules (defined inline below)
 # ============================================================
 
-# §0.1 — Stale ruleset version stamps (rules at v3.3 since 2026-05-08)
+# §0.1 — Stale ruleset version stamps (rules at v3.4 since 2026-06-17; v3.4.1 point release 2026-11-20)
 check_pattern "0.1" "Stale ruleset version stamp (older than v3.3; rules are at v3.4)" \
   "Ruleset v3\.0|Ruleset v3\.1|Ruleset v3\.2|Conjunto de Regras v3\.0|Conjunto de Regras v3\.1|Conjunto de Regras v3\.2|Reglas v3\.0|Reglas v3\.1|Reglas v3\.2|Regelwerk v3\.0|Regelwerk v3\.1|Regelwerk v3\.2|Ruleset version in force:\*\* v3\.0|Ruleset version in force:\*\* v3\.1|Ruleset version in force:\*\* v3\.2|\*\*Ruleset:\*\* v3\.0|\*\*Ruleset:\*\* v3\.1|\*\*Ruleset:\*\* v3\.2|\*\*Regelwerk:\*\* v3\.0|\*\*Regelwerk:\*\* v3\.1|\*\*Regelwerk:\*\* v3\.2|\*\*Conjunto de Regras:\*\* v3\.0|\*\*Conjunto de Regras:\*\* v3\.1|\*\*Conjunto de Regras:\*\* v3\.2|\*\*Reglas:\*\* v3\.0|\*\*Reglas:\*\* v3\.1|\*\*Reglas:\*\* v3\.2|\*\*Regras:\*\* v3\.0|\*\*Regras:\*\* v3\.1|\*\*Regras:\*\* v3\.2|\*\*Conjunto de reglas:\*\* v3\.0|\*\*Conjunto de reglas:\*\* v3\.1|\*\*Conjunto de reglas:\*\* v3\.2" \
   "$CONTENT_DIRS $EDITORIAL_LOGS"
 
-# §0.1b — WARN-ONLY: v3.3 / v3.3.x stamps in content/ (rules are at v3.4). The re-stamp is
-# Launch-Program Step 4d; promote to blocking (fold into §0.1) once it lands. Editorial logs are
-# excluded: they legitimately keep historical v3.3 mentions. Summarised (count + files), not listed.
-# Before promoting: content also cites the amendment *versions* legitimately (e.g. Luke 3 "per the
-# v3.3.2 cross-book convention") — allow-list those; prose like "the TT ruleset (v3.3)" is genuinely stale.
+# §0.1b — v3.3 / v3.3.x stamps in content/ (blocking since Step 4 batch 2, when the 125 stamp
+# fields + 8 prose stamps were re-stamped to v3.4). Editorial logs are excluded: they keep
+# historical v3.3 mentions. Amendment-version *citations* ("per the v3.3.2 cross-book
+# convention", Luke 3 × 4 locales) are filtered here, not allow-listed: those lines are rewritten
+# by later batches (the phrase itself is a batch-3 meta-leak fix), and an allow-list entry would
+# break on every rewrite.
 lint_grep "0.1b" "v3\.3(\.[0-9])?([^0-9]|$)" content
-if [ -n "$LINT_OUT" ]; then
-  n_lines=$(printf '%s\n' "$LINT_OUT" | wc -l | tr -d ' ')
-  n_files=$(printf '%s\n' "$LINT_OUT" | cut -d: -f1 | sort -u | wc -l | tr -d ' ')
-  emit_warn "0.1b" "Ruleset v3.3 stamps remain in content/ (re-stamp to v3.4 in Step 4d)" "  $n_lines line(s) in $n_files file(s) — e.g. $(printf '%s\n' "$LINT_OUT" | head -1 | cut -c1-120)"
-fi
+LINT_OUT=$(printf '%s' "$LINT_OUT" | grep -vE 'v3\.3\.[0-9]+[^0-9]?[^ ]* ?(cross-book convention|convenção entre-livros|buchübergreifenden Konvention|convención cruzada entre libros)|(convention|convenção|Konvention|convención)[^|]{0,40}v3\.3\.[0-9]+' || true)
+emit "0.1b" "Ruleset v3.3 stamp in content/ (rules are at v3.4)" "$(printf '%s' "$LINT_OUT" | filter_allowlist "0.1b")"
 
 # §0.2 — Raw em-dash residue
 check_pattern "0.2" "Raw em-dash residue ' -- ' (use em-dash —)" \

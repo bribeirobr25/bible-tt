@@ -245,10 +245,14 @@ describe("Phase 2 conservation gate", () => {
 
   it("Gate 2 & 3 — count + content conservation across every file", async () => {
     const allMd = await walk(CONTENT_ROOT);
+    let fileCount = 0;
+    let unitCount = 0;
     for (const absPath of allMd) {
       const file = classify(absPath);
       if (!file) continue; // Gate 1 owns this failure
       const { units, expected } = await emitFile(file);
+      fileCount += 1;
+      unitCount += units.length;
 
       let expectedTotal = 0;
       for (const [kind, expectedTexts] of Object.entries(expected) as [
@@ -275,6 +279,10 @@ describe("Phase 2 conservation gate", () => {
         `${file.relPath} :: every emitted unit accounted for`,
       ).toBe(expectedTotal);
     }
+    // Before/after evidence for content batches (PLAN_LAUNCH_FIXES §B2.9):
+    // CONSERVATION_REPORT=1 pnpm vitest run conservation
+    if (process.env.CONSERVATION_REPORT)
+      console.log(`conservation: ${fileCount} files / ${unitCount} units`);
   });
 
   it("Gate 4 — ID integrity: unique per locale + deterministic on re-emit", async () => {

@@ -10,7 +10,7 @@
 **Chapter:** Genesis 7
 **Language:** English
 **Companion to:** `en/genesis/CHAPTER-7.md` (Transparent Edition)
-**Ruleset:** v3.3 (Rule 29 governs this file)
+**Ruleset:** v3.4 (Rule 29 governs this file)
 **Status:** provisional
 
 ---

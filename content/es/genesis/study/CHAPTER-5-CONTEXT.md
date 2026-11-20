@@ -10,7 +10,7 @@
 **Capítulo:** Génesis 5
 **Idioma:** Español
 **Compañero de:** `es/genesis/CHAPTER-5.md` (Edición Transparente)
-**Reglas:** v3.3 (Regla 29 gobierna este archivo)
+**Reglas:** v3.4 (Regla 29 gobierna este archivo)
 **Status:** provisional
 
 ---

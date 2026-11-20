@@ -1,5 +1,7 @@
 # Multi-Book Expansion Plan — Mark, Luke, Psalms, Proverbs, Ecclesiastes (ch. 1–3)
 
+**Outcome (status updated 2026-11-20):** PARTLY EXECUTED, then closed — Phase 0 (registry gate) and the Mark EN pilot merged in PR #5; Mark propagation PR #9; Luke 1–3 PRs #11–#12. Psalms, Proverbs and Ecclesiastes were not started: later work took Acts (PR #14) and 1 Peter (PR #15) instead. The "awaiting go-ahead" line below is historical.
+
 **Status:** AUDITED + INDEPENDENTLY REVIEWED — all open questions resolved (§8); the independent audit (`AUDIT_MULTI_BOOK_EXPANSION_PLAN.md`) was verified against the live code and **incorporated** (see §5 Phase 0, §9). **Awaiting project-lead's final go-ahead to begin execution.** No drafting starts until that go-ahead.
 **Created:** 2026-06-17. **Audited:** 2026-06-17. **Independent review incorporated:** 2026-06-17.
 **Key correction from review:** `AVAILABLE_BOOKS` is *not* a render gate — content auto-publishes. A new **Phase 0 (activation-gate hardening)** is now a prerequisite before Phase B. See §5.

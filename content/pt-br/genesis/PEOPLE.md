@@ -2,7 +2,7 @@
 
 **Livro:** Gênesis
 **Idioma:** Português Brasileiro
-**Regras:** v3.3 (Regra 29 rege este arquivo)
+**Regras:** v3.4 (Regra 29 rege este arquivo)
 **Status:** provisório
 
 ---

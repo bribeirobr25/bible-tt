@@ -1,10 +1,10 @@
 # Editorial Log — Gospel of Matthew
 
-**Ruleset version in force:** v3.3
+**Ruleset version in force:** v3.4.1
 **Book:** Gospel of Matthew (Κατὰ Μαθθαῖον)
 **Base text:** Nestle-Aland 28th ed.
 **Maintainer:** Project Lead
-**Format:** per v3.3 Editorial Log Specification
+**Format:** per v3.4.1 Editorial Log Specification
 
 This log records consistency decisions, justified exceptions, text-critical choices, and any deviations from the default ruleset. Backfilled entries for decisions already encoded in Matthew 1-3 chapter files across all 4 locales.
 
@@ -203,12 +203,13 @@ Option B (slash) is adopted instead because: (a) the project's Prime Directive p
 - **Verse:** PT-BR + ES Matthew 1–3 — verse text + overview prose
 - **Language(s) affected:** PT-BR, ES
 - **Rule(s) invoked:** RULES-CORE.md Rule 20 (Capitalization)
-- **Decision:** Lowercased recognized-title forms in verse text + overview prose: `Filho do Homem` → `filho do homem`; `Filho de Deus` → `filho de Deus`; `o Filho` (standalone) → `o filho`. Same patterns applied to ES. Title Case retained inside notes / headings / tables when the title is the scholarly object of discussion. Pilate-title `rei dos Yehudim` / `rey de los Yehudim` (Mt 2:2) was already lowercase in PT-BR + ES — confirmed parity with EN `king of the Yehudim`.
+- **Decision:** Lowercased recognized-title forms in verse text + overview prose: `Filho do Homem` → `filho do homem`; `Filho de Deus` → `filho de Deus`; `o Filho` (standalone) → `o filho`. Same patterns applied to ES. Title Case retained inside notes / headings / tables when the title is the scholarly object of discussion. [**2026-11-20 note:** the "Title Case retained inside notes" clause is **superseded** by Launch-Program decision D8 + Rule 20 as amended in v3.4.1 → Entry M-035 — body text **including notes and companions** is lowercase; headings keep heading case; DE keeps grammatical noun capitalization. The verse-text lowercasing stands.] Pilate-title `rei dos Yehudim` / `rey de los Yehudim` (Mt 2:2) was already lowercase in PT-BR + ES — confirmed parity with EN `king of the Yehudim`.
 - **Alternatives considered:** Normalize EN to Title Case (rejected — see J-018 sister entry). Document asymmetry per locale (rejected — see J-018 sister entry).
 - **Justification:** Cross-book parity with John (J-018) and ES + DE conventions. The Matthew Gospel uses "Son of Man" / "Son of God" / "the only-born son" similarly to John; the same lowercase verse-text rule applies.
 - **AI provenance:** claude-opus-4-7, 2026-05-09, Phase 6A audit follow-up of `docs/audit/FIX_IMPLEMENTATION.md`
 - **Status:** provisional
 - **Reviewers:** PT-BR editor unassigned; ES editor unassigned; Hellenist unassigned
+- **Status update (2026-11-20):** `superseded` in part — the notes Title Case clause → Entry M-035 (D8). The verse-text decision remains `provisional`.
 - **Cross-references:** `docs/audit/FIX_IMPLEMENTATION.md` Phase 6A audit closure; `docs/editorial-log/genesis.md` Entry 2026-05-09-099 (parent decision); `docs/editorial-log/john.md` Entry J-018 (sister entry); `docs/feedback/FEEDBACK.md` item 14
 
 ---
@@ -555,3 +556,30 @@ Option B (slash) is adopted instead because: (a) the project's Prime Directive p
 - **AI provenance:** claude-opus-4-8 (1M), 2026-06-21. Gates green (882 tests; conservation 11,831; lint/content:lint/build).
 - **Status:** provisional. **Reviewers:** locale-editors / Hellenist (Rule 28) unassigned.
 - **Cross-references:** `PLAN_METHODOLOGY_RESTAMP.md`; `EXECUTION_HISTORY.md` (Methodology-stamp re-stamp, 2026-06-21); john.md J-036; M-004 (malakh exclusion rationale).
+
+---
+
+## Launch Program decisions (2026-11-19/20)
+
+Decisions taken by the project lead in the Launch-Readiness Program (`docs/audit/LAUNCH_PROGRAM.md` D7–D9; `docs/audit/CONTENT_SWEEP_FINDINGS.md` §3 L1–L8). Recorded here before the content changes ("log before drafting"); the content is changed in the Step 4 batch named in each entry (`docs/audit/PLAN_LAUNCH_FIXES.md`).
+
+- **Ruleset:** this log now runs under **v3.4.1** (RULES-CORE amendment of 2026-11-20 — `docs/rules/CHANGELOG-v3.4.md`).
+- **Content re-stamp (2026-11-20, Step 4 batch 2):** 125 front-matter stamp fields + 8 prose stamps were re-stamped Ruleset v3.3 → v3.4 across `content/`; in Matthew, **29 stamp fields** (no prose stamp). The 4 Luke 3 "v3.3.2 cross-book convention" citations were kept. Stamp only — no translation change (precedent: M-034).
+- **PT register (L6):** corpus-wide entry **john.md J-037** (*vós* kept in PT verse text). It names **Matthew 3:9** (*entre vocês*, the one non-John verse-text `vocês` in the sweep) and the `vocês`-register verb forms around it (3:2–3, 3:8–9: *Mudem*, *Preparem*, *Produzam*, *não pensem*); both convert to *vós* in Step 4 batch 4.
+- **L1 (contractions):** M-006's DE "vom" marking is the form now made corpus-wide — see mark.md 2026-11-20-009.
+
+## Entry M-035 — "son of man" and titular nouns lowercase in notes too (D8)
+
+- **Verse:** Matthew 1–3 book-wide policy — notes, companions and overview prose. (Matthew 1–3 has no ὁ υἱὸς τοῦ ἀνθρώπου; the entry governs the titular nouns M-013 covered — e.g. "son of God" — wherever M-013 kept Title Case in notes, and any later chapter.)
+- **Language(s) affected:** EN, PT-BR, ES (DE: grammatical noun capitalization unchanged)
+- **Rule(s) invoked:** CORE Rule 20 (titular nouns; body-text lowercase now includes notes and companions — amended in v3.4.1).
+- **Decision:** the lowercase forms M-013 set for verse text (*filho do homem*, *filho de Deus*, *hijo del hombre*, *hijo de Dios*; EN "son of man", "son of God") apply in notes and companions as well. Section headings keep heading case; DE keeps its grammatical capitals. M-013's notes Title Case clause is superseded. Applied in **Step 4 batch 4** (D8 sweep + Rule 20 titles, sweep S20).
+- **Alternatives considered:**
+  - Keep Title Case in notes as "the recognized translation" (rejected: the lead's D8 ruling is "everywhere"; Rule 20 as amended no longer limits lowercase to verse text).
+- **Justification:** one form per locale across text and notes; Rule 20.
+- **AI provenance:** drafted by the AI assistant (claude-opus-5-5), 2026-11-20, executing lead decision D8 (2026-11-19). Step 4 batch 2.
+- **Status:** provisional
+- **Reviewers:** unassigned
+- **Cross-references:** supersedes M-013 in part; genesis.md 2026-11-20-121 (parent); john.md J-039; mark.md 2026-11-20-008.
+
+---

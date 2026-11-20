@@ -10,7 +10,7 @@
 **Buch:** Johannes (Ἰωάννης, *Iōannēs*)
 **Sprache:** Deutsch
 **Einleitung zu:** `de/john/` (Transparente Ausgabe)
-**Regelwerk:** v3.3 (Regel 29 regelt diese Datei)
+**Regelwerk:** v3.4 (Regel 29 regelt diese Datei)
 **Status:** provisorisch
 
 ---
@@ -267,7 +267,7 @@ Das Intervall zwischen der Abfassung des Johannesevangeliums (ca. 90–100 u.Z.)
 ### F1. Aktive Regeln mit johannesspezifischen Anwendungen
 **[TEXTUELL — VERIFIZIERT]**
 
-Die folgenden Regeln des TT-Regelwerks (v3.3) haben besondere Bedeutung für das Johannesevangelium:
+Die folgenden Regeln des TT-Regelwerks (v3.4) haben besondere Bedeutung für das Johannesevangelium:
 
 | Regel | Name | Johannesspezifische Anwendung |
 |-------|------|-------------------------------|

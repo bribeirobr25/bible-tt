@@ -10,7 +10,7 @@
 **Livro:** Gênesis (בְּרֵאשִׁית, *Bereshit* — "No princípio")
 **Idioma:** Português Brasileiro
 **Introdução para:** `pt-br/genesis/` (Edição Transparente)
-**Regras:** v3.3 (Regra 29 governa este arquivo)
+**Regras:** v3.4 (Regra 29 governa este arquivo)
 **Status:** provisório
 
 ---
@@ -360,7 +360,7 @@ O cânone da Bíblia Hebraica utilizado como texto-base da TT (BHS / Texto Masor
 ### F1. Regras ativas com aplicações específicas para Gênesis
 **[TEXTUAL — VERIFICADO]**
 
-As seguintes regras do conjunto de regras da TT (v3.3) têm relevância particular para Gênesis:
+As seguintes regras do conjunto de regras da TT (v3.4) têm relevância particular para Gênesis:
 
 | Regra | Nome | Aplicação específica para Gênesis |
 |------|------|------------------------------|

@@ -10,7 +10,7 @@ This directory holds the project's **source-language analysis**: the reusable me
 |---|---|
 | `METHOD.md` | The TT Source-Analysis Method — the source-language-agnostic process + per-language adaptation table. |
 | `hebrew/` | Structured per-verse notes for the Hebrew Bible (currently Genesis 1:1–1:13 + word studies). |
-| `greek/` | Worked examples for the Mark pilot (`mark-1.md`, `mark-2-3.md`; NA28); extended as further Greek books are authored. AI-assisted drafts pending Hellenist review per Rule 28. |
+| `greek/` | Worked examples (NA28): Mark 1–3 (`mark-1.md`, `mark-2-3.md`, the pilot), Luke 1–3 (`luke-1-3.md`), Acts 1–3 (`acts-1-3.md`), 1 Peter 1–5 (`1-peter.md`). John and Matthew have no file (authored before the corpus existed). AI-assisted drafts pending Hellenist review per Rule 28. |
 | `aramaic/` | Stub — filled when the canon's Aramaic passages are reached. Governance home: `RULES-HB.md §Aramaic Appendix` (no separate ruleset). |
 
 ## How it feeds the project
@@ -18,7 +18,7 @@ This directory holds the project's **source-language analysis**: the reusable me
 `METHOD.md` §5 is authoritative. In short: corpus notes → Tier 1 main text + Tier 2 notes + companion §A/§D, with every deviation logged in `docs/editorial-log/` and recurring loaded terms entering the glossary via the Glossary Expansion Procedure. The rules decide; the corpus informs.
 
 - Method governance: `docs/rules/RULES-CORE.md` (universal), `RULES-HB.md` (Hebrew + Aramaic), `RULES-GS.md` (Greek).
-- Decision logs: `docs/editorial-log/{genesis,john,matthew,transliteration-decisions}.md`.
+- Decision logs: `docs/editorial-log/{genesis,john,matthew,mark,luke,acts,1-peter,transliteration-decisions}.md` (one per book, plus the cross-book transliteration log).
 
 ## Provenance
 

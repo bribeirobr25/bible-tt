@@ -10,7 +10,7 @@
 **Kapitel:** Genesis 7
 **Sprache:** Deutsch
 **Begleitdatei zu:** `de/genesis/CHAPTER-7.md` (Transparente Ausgabe)
-**Regelwerk:** v3.3 (Regel 29 regelt diese Datei)
+**Regelwerk:** v3.4 (Regel 29 regelt diese Datei)
 **Status:** provisorisch
 
 ---

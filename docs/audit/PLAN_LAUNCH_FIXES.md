@@ -37,7 +37,7 @@ Ordering: code before content (the renderer must show what content fixes produce
 | Batch | Strand | Content | Ends with | Est. days |
 |---|---|---|---|---|
 | **1** | 4a code | §B1 below | sweep re-run: Sources `after-4a` → `now` | 1.5 |
-| **2** | 4d rules & docs | RULES-CORE: "## THE 29 RULES" heading (:90) → 30, D7 §I3, D10 marker table (+ the Rule 30 text that still says `@@` renders bold, and "ochre" for `{a:}`), 30-rule wording, stale internals, the real 8-touchpoint checklist (+ the non-existent `people.inBook.{slug}` key), L1 Rule 11 contraction wording + the :378 vs :266/:921 conflict, **L5 Rule 28 amendment** (RULES-CORE:604, :743, :1109 require the model identifier — keep it in front matter / the editorial log, show readers a plain statement), the editorial-log table row with an unescaped pipe (`PLAN_BASELINE_RECOVERY` :139). RULES-GS: D9 wording. Editorial logs: L3 (reversal of A-004 + the 1 Peter scope entry), L6, L7 (supersede the "per GS" lines), D7 + D11 (1 Peter ψυχή, Kefa), D8 (`mark.md`). Templates (L5 provenance), `CHANGELOG-v3.4.md`, version headers, STANDARDS, HOW-TO-READ, README/CLAUDE trees, transliteration-decisions, PENDING; v3.3 → v3.4 re-stamp (125 fields + 8 prose stamps, keep the 4 Luke 3 citations); activation-consistency `heroTagline`/`sectionKick` + source-stub checks; content-lint allow-list table scoping (`PLAN_SAFETY_NET` I19). **Rule-table edits made later** (D11 names in batch 5, S21 glossary rows and labels in batch 4) are recorded as dated addenda in `CHANGELOG-v3.4.md` by the batch that makes them | §0.1 back to blocking | 1.5 |
+| **2** | 4d rules & docs | RULES-CORE: "## THE 29 RULES" heading (:90) → 30, D7 §I3, D10 marker table (+ the Rule 30 text that still says `@@` renders bold, and "ochre" for `{a:}`), 30-rule wording, stale internals, the real 8-touchpoint checklist (+ the non-existent `people.inBook.{slug}` key), L1 Rule 11 contraction wording + the :378 vs :266/:921 conflict, **L5 Rule 28 amendment** (RULES-CORE:604, :743, :1109 require the model identifier — keep it in front matter / the editorial log, show readers a plain statement), the editorial-log table row with an unescaped pipe (`PLAN_BASELINE_RECOVERY` :139). RULES-GS: D9 wording. Editorial logs: L3 (reversal of A-004 + the 1 Peter scope entry), L6, L7 (supersede the "per GS" lines), D7 + D11 (1 Peter ψυχή, Kefa), D8 (`mark.md`). Templates (L5 provenance), `CHANGELOG-v3.4.md`, version headers, STANDARDS, HOW-TO-READ, README/CLAUDE trees, transliteration-decisions, PENDING; v3.3 → v3.4 re-stamp (125 fields + 8 prose stamps, keep the 4 Luke 3 citations); activation-consistency `heroTagline`/`sectionKick` + source-stub checks; content-lint allow-list table scoping (`PLAN_SAFETY_NET` I19). **Rule-table edits made later** (D11 names in batch 5, S21 glossary rows and labels in batch 4) are recorded as dated addenda in `CHANGELOG-v3.4.md` by the batch that makes them | §0.1b back to blocking | 1.5 |
 | **3** | 4b mechanical content | mojibake (14), doubled articles (4), meta leaks (IDs, repo paths incl. INTERNAL rows in Sources tables, log references, process/propagation words), stale name policy (148), DE `YHWH` → `JHWH`, D9 DE Yehudim (+ Yehudi/Yehudit) → Jehudim, PT/ES `yehudim` casing, L5 provenance + "Tier 2", markers in backticks (152), unbalanced `@@` (32), markers in table cells (52) + odd asterisk, nested italics (`*… *magoi* …*`, Matt 2–3 notes), ASCII `->`, front-matter defects (`vorlaufig`, `es/john/PEOPLE.md` H1/Status), ⚠️ icons | cleared classes → blocking content-lint (T-14) | 2 |
 | **4** | 4b translation rulings | D7 ψυχή, D8 son of man (incl. mentions), Rule 20 titles (S20), Spirit/Word TT voice, glossary locks (S3 + L4), Rule 25 LORD forms (170 + 105 review), L3 unmark, L7, L1 contraction italics, L6 vós, divine-speech coverage (S6a 89), CR ≠ verse (S6e: 20 words + 69 punctuation), italic balance review (S7b), marker governance (S21 bare slashes, `{a:}`/`{t:}` values → glossary rows or log entries, the `{t:Hades}` threshold question), labels (S22 + the PENDING unregistered-labels item), §0.3d calques (17) then §0.3d promoted to blocking, carried single-verse items (findings §4), `*magoi*`, Mark PROPHECY lead question | may split when planned | 4 |
 | **5** | 4b names | D11 table-extension proposal → tables → alignment of all books (Kefa, Silvanus = Silas, Moshe/Mosheh …), L2 gloss strip (CR 209 + verse 591 + notes 150 + apparatus 270), gloss placement (S6e 279 study-only / 32 CR-only), redundant pairs | S5c/S5d cleared | 2.5 |
@@ -55,7 +55,7 @@ Ordering: code before content (the renderer must show what content fixes produce
 
 | # | Branch | PR | Merged |
 |---|---|---|---|
-| 1 | `fixes-b1-code` | #18 | — |
+| 1 | `fixes-b1-code` | #18 | 2026-11-20 (`5f30632`) |
 
 ---
 
@@ -176,3 +176,260 @@ Renderer + parsers · routing/build/visual · data integrity + mutation testing 
 - **i18n/rules** (all 30 summaries checked against RULES-CORE): Rule 28 short claimed "no verse ships without review" (the site ships provisional verses) → reworded ×4; Rule 25 example called "LORD" a "later" tradition (Rule 3 corollary) → neutral ×4; Rule 30 short lacked its restraint clause; Rule 4 short said "italicized" (renders as a marker); DE Rule 15 "Drei-Ausgaben-Regel" clashed with Rule 24 editions → "Drei-Ebenen-Regel"; PT/DE/ES examples lacked markdown/locale quotes; PT/ES subjunctive and "capitaliza"; status pill full text was tooltip-only → screen-reader suffix; RULES-CORE "THE 29 RULES" heading and the Rule 30/marker-table colour text → batch 2.
 - **Plan/docs fidelity:** the S8 pill-word and S15 siglum classes still counted fixed defects → retired (20,420 → 20,337); B6 overclaimed → "fixed client-side"; latent risks marked; STANDARDS guard row; Step 5 deferrals and the day total (24–26) in LAUNCH_PROGRAM; D13 records the billing fallback, the go-live heads-up and the D11 table reporting; PR number recorded.
 
+
+---
+
+## B2. Batch 2 — Rules & docs (4d)
+
+Branch `fixes-b2-rules-docs`. **Principle:** the rule files must say what the lead decided before content batches 3–8 cite them. This batch changes **no translation**. It changes rule/doc text, 133 version stamps in content, the §0.1b lint rule, the sweep's provenance check, and two test files. Every content application of D7/D8/D9/L1/L3/L4/L6/L7 stays in its batch (3–5). The editorial logs record the decisions now ("log before drafting", CLAUDE.md). *Plan reviewed by 2 adversarial reviewers (§B2.11); this is the fixed plan.*
+
+### B2.1 Rules amendment v3.4.1 — protocol path
+
+These changes **modify** existing rule text (RULES-CORE §Amendment and Lock Protocol :1156 onward). They are therefore a **re-opening**, not an emergency amendment: emergency amendments cover additive changes only, and v3.3 skipped its window *because* it was purely additive (CHANGELOG-v3.3, RULES-CORE:1487).
+- **Step 1:** a written proposal, `docs/rules/proposals/v3.4.1-launch-corrections.md`. This creates the `proposals/` directory that RULES-CORE:1039 and :1159 already cite.
+- **Step 2:** an impact assessment. No signed-off verses are affected: all content is `provisional` (D2) and no file says otherwise. The proposal also counts the provisional content each change will touch in batches 3–5.
+- **Step 3:** the 14-day window is **waived by the lead**. Rule 28 (:601) gives the lead the power to "authorize exceptions". Decisions D7/D9/D10 (2026-11-19), D8 (2026-11-19) and L1/L4/L5/L6 (2026-11-20) are the acceptance, made under D2 (provisional launch) and D13 (the batch process).
+- **Steps 4–5:** a version bump. Affected verses are re-reviewed by Rule 28 later, as for all provisional content.
+
+**Version: v3.4.1.** It is a point release, but the changelog lists each change honestly as a *modification*. Earlier point releases (v3.3.1/v3.3.2) were additive clarifications.
+
+**Content stamps stay v3.4.** Point releases have never re-stamped content. The full v3.2→v3.3 bump did, but v3.4.1 adds no rule and no marker, so a v3.5 re-stamp of every file would be churn without information.
+
+**Supplements:** RULES-GS (v3.2) and RULES-HB (v3.3.1) both change in this release. Each records it as "v3.4.1 (CORE release)". From now on a supplement's version names the CORE release that amended it, which closes the gap in the GS list (it currently ends at v3.1, :380).
+
+Updated to match: the CLAUDE.md Rulesets line, and the i18n `rulesHeroKicker` ("Ruleset v3.4" → v3.4.1, 4 locales; `rules-messages`/messages-parity stay green).
+
+**RULES-CORE.md**
+1. **Rule count and version.**
+   - `## THE 29 RULES` (:90) → `## THE 30 RULES`. The guard stays in `rules-messages.test.ts`.
+   - Header `Ruleset v3.4` → v3.4.1. Footer `END OF CORE RULESET v3.3` → v3.4.1.
+   - "rules 1-29" (:1450) → 1–30.
+   - Front-matter spec "Ruleset: v3.3" (:886) → v3.4.
+   - PROJECT METADATA (:1534–1543): 7 books, v3.4.1, and a pointer to EXECUTION_HISTORY.
+   - VERSION HISTORY: a **new v3.4.1 entry**. The v3.4 entry keeps its text plus "(`{a:}` colour corrected in v3.4.1 — D10)".
+2. **D7 — glossary for ψυχή / נֶפֶשׁ.**
+   - §I3 (:997) states the D7 rendering: ψυχή / bare נֶפֶשׁ = life/being · vida/ser · Leben/Wesen · vida/ser, and נֶפֶשׁ חַיָּה = living being(s).
+   - **RULES-HB gets the bare `נֶפֶשׁ` row now.** §G4 (:1061) requires a term aligned across both supplements to appear in both, and RULES-GS:41/:261 already give נֶפֶשׁ = life/being. It goes in through the §G3 no-wait mode (:1056), as part of the same proposal, `provisional` pending the Hebraist (Rule 28).
+   - The row changes no translation in this batch. Batch 4 logs the Genesis contextual deviations, e.g. Gen 9:4 "life" and 12:5 "persons", as Rule 1 deviations, alongside the D7 sweep.
+   - **Sweep effect:** a new HB table row can add S3/S21 hits. Every added row in the snapshot diff is explained in §B2.9.
+3. **D10 — marker table.**
+   - The marker table (:919–925) and the Rule 30 text (:909 "bold in the divine accent colour") are rewritten to match the live CSS (`globals.css:532–539`): `{t:}` teal + bold · `{a:}` bold, body colour · `@@` red, not bold · `*added*` grammatical-blue italic. Each row is checked against the CSS.
+   - Same fix in `AUTHORING-PLAYBOOK.md:141` (`{a:}` "ochre").
+4. **L1 — Rule 11 and contractions.**
+   - Rule 11 (:266) gets a **contraction clause**: an added article fused with a preposition (PT `na/do/pelo`, DE `im/zum/vom`, ES `al/del`) is marked by italicizing the **whole contraction**. An inserted article never doubles an existing one.
+   - The clause cross-references RULES-GS:91, which already states DE `vom`/`zum`, so the two can't diverge.
+   - **:378 narrowed:** "words added for target grammar — including a fused contraction — are Rule 11 A (italic). Rendering a source expression by a target idiom (§I2) is governed by the idiom policy (with its Tier-2 note), not Rule 11." This removes the conflict and adds no new marking duty to §I2 idioms.
+   - The heading `#### **Rule 11: Signal All Additions**` is unchanged (`rules-messages.test.ts:52`).
+   - Impact recorded in the proposal: the batch-4 L1 counts (PT 36 + 13, DE 5 + 5, ES 4 + 2).
+5. **L5 — Rule 28 provenance.**
+   - **Internal record:** the full record (model identifier, version, date, prompt summary, reviewer decision) stays mandatory in an **internal record** — the book's editorial log, plus the new provenance record below.
+   - **Reader-facing line:** reader-facing files carry only one plain statement per locale, with no model, version, context window, prompt or vendor detail.
+     - EN "AI-assisted draft, not yet reviewed."
+     - PT "Rascunho assistido por IA, ainda não revisado."
+     - DE "KI-gestützter Entwurf, noch nicht geprüft."
+     - ES "Borrador asistido por IA, aún no revisado."
+     - Decided by the assistant under D13 and reported to the lead. It replaces "Drafted by: AI (Claude, Anthropic)" because a vendor name is still model detail. Only one DE form exists, so the "Entworfen von" / "Verfasst von" split ends.
+   - **Granularity:** Rule 28:605 ("each AI-assisted verse must record…") is amended to the granularity that is actually kept: **per file**, in the provenance record, and **per book/batch** in the log.
+   - Also updated: :743 (companion checklist) and :1109 (log-schema field: "internal; never reader-facing").
+   - **Before batch 3 strips the reader lines, nothing may be lost:**
+     - Every reader-facing provenance line, the 645 S9 `ai-provenance` hits (file, line, text, 4 locales), is copied into **`docs/editorial-log/ai-provenance-record.tsv`**, generated from the sweep snapshot and checked against a fresh grep.
+     - **1 Peter gets its missing log entry**: `1-peter.md` has no AI-provenance record at all.
+   - **Sweep S9** (`scripts/sweep/checks.mjs:769–771`) exempts exactly the 4 approved statements, so batch 3 can clear the class and promote it.
+6. **L4 — scope of glossary locks.** One sentence in Rule 1 / §I3: a locked rendering governs the translation and any TT-voice sentence that restates it. Genre and reception uses keep their own forms, e.g. "the Gospel of Mark", church-historical "baptism", Greek lemmas.
+7. **L6 — Rule 10 PT register clause** (:222 "Not archaic"; :1188 "contemporary formal Brazilian Portuguese"). The PT verse text keeps the classical second-person plural *vós* — the logged corpus register (EXECUTION_HISTORY:90) — as the one sanctioned archaism, for consistency with the Almeida tradition the PT edition positions against. Everything else stays contemporary formal.
+8. **D8 — "son of man" lowercase everywhere.** Rule 20 :449 ("body-text lowercase applies only to inline references and verse text") → body text **including notes and companions**. Section headings keep heading case, and DE keeps grammatical noun capitalization. The lead's word was "everywhere". Notes are included; the lead can override this after merge.
+9. Editorial-log schema table: the `Reviewers` row (:1111) has an unescaped `|` → `\|`. **Pipe escaping is limited to RULES-CORE**, because the sweep's table parser splits on every `|` (`rule-tables.mjs:82`) and reads RULES-HB/GS tables.
+10. **New-book checklist** (:835–843, "5 SYNCHRONIZED CHANGES") → a short PEOPLE-specific list that points to `AUTHORING-PLAYBOOK.md` B.1 as the one full list.
+    - The non-existent `people.inBook.{slug}` key goes, and so does the hand-kept lint allow-list (generated since Step 2).
+    - Same fix in the playbook (row 5 at :73 and the "not yet checked" sentence at :78) and in CLAUDE.md.
+11. **D9 leftovers:** RULES-CORE:388, :392 → "Yehudim (DE Jehudim)". **Stale internals:** a grep for `29`, removed paths and version claims across the live sections.
+
+**RULES-GS.md:** D9 (:105) → EN/PT/ES Yehudim, **DE Jehudim** (yod → J, as JHWH; `john.md` J-006), matching :127. The corpus line (:11, "stub, filled on authoring") → the actual Greek corpus. Version list: v3.4.1.
+**RULES-HB.md:** the bare-נֶפֶשׁ row (item 2); "Rules 1-29" (:551) → 1–30; version list: v3.4.1.
+
+### B2.2 `CHANGELOG-v3.4.md` (new)
+
+- **v3.3 → v3.4** (2026-06-17): Rule 30 and the Text-Highlight Markers. Reconstructed from RULES-CORE VERSION HISTORY and EXECUTION_HISTORY, and labelled as such.
+- **v3.4.1** (this batch): a per-file table in the CHANGELOG-v3.3 format, every row marked *modification* or *addition*.
+- **"Dated addenda"**: later batches append here (batch 4 glossary rows, labels and the Genesis nephesh deviations; batch 5 D11 name tables).
+
+### B2.3 Editorial logs
+
+**Each affected log gets:**
+- a **"Launch Program decisions (2026-11-19/20)"** section of schema entries: `## Entry <ID>`, Verse(s), Language(s) affected, Rule(s) invoked, Decision, Alternatives, Justification, AI provenance, Status `provisional`, Reviewers `unassigned` — RULES-CORE :1101–1113;
+- superseded entries marked `superseded` **with a forward pointer** (§L2, :1137);
+- superseded lines annotated inline, dated, in the existing 1-peter.md:57 pattern. History is never deleted.
+
+**Per log:**
+- **`acts.md`:** L3 — A-004 (:20) `superseded` → new entry (Acts 2:17–21, 2:34, 3:25 unmarked). Also the Rule-30 scope bullet. L7 — :57 "Messiah", plus a check of the "= the Messiah" gloss in A-005 (:30). D7 — :65 "my soul" (Acts 2:27).
+- **`1-peter.md`:** L3 — scope :21–26 (1:16 and 2:6 unmarked). L7 — :34, :43, :52. D7 (:57) and D11 (:40) notes exist; wording confirmed. **L5 — the missing AI-provenance entry.**
+- **`john.md`:** L3 — **J-036** (:548, which declared 3:16–21 marked) `superseded`, cross-referenced to J-007 (the reason: "when in doubt, do not mark"). L6 — a new **corpus-wide** register entry (also referenced from the 1 Peter, Acts and Genesis logs): *vós* kept; the 12 John `vocês` → *vós* in batch 4. D8 — J-018 (:270–272, Title Case in notes) superseded. D9 — J-006 confirmed DE Jehudim.
+- **`mark.md`:** D8 — :52. L1 — :116 DE contraction convention generalized to all locales.
+- **`genesis.md`:** D8 — :1392–1396. D7 — new entry pointing to the HB row (batch 4 logs the deviations).
+- **`matthew.md`:** D8 — :206.
+- **`luke.md`:** new entries for D7 (Luke 1:46 …) and L7 (Luke 2); the log has no lines to supersede.
+- **All 7 logs:** the header `Ruleset version in force` → v3.4.1 (genesis/john/matthew still say v3.3). Plus a one-line content re-stamp record (precedent: john.md:548, matthew.md:554).
+- **Not in this batch:** the L8 waiver (batch 7).
+
+### B2.4 Templates, transliteration decisions
+
+- **`docs/templates/*`:**
+  - stamp v3.0 → v3.4;
+  - companion status `draft` → `provisional`;
+  - "derived directly from the Hebrew text" → HB/GS-neutral;
+  - the duplicated Sources table inside §I goes;
+  - the provenance block follows amended Rule 28.
+- **`transliteration-decisions.md`:**
+  - header/version;
+  - adds *nephilim*, *tebah*, *gopher*, *Pesach*, *Hakeldama* and the GS terms already decided in the logs, each with its log reference;
+  - fixes the self-contradicting *Chava* line.
+- The full `{t:}` ↔ glossary/log reconciliation (S21) stays in batch 4.
+
+### B2.5 Reader guide and project docs (audit §7)
+
+- **`HOW-TO-READ-TT.md`:**
+  - the Read/Notes/Deeper doors;
+  - the 4 markers with their live colours (D10);
+  - Greek specifics: Yehudim/Jehudim, and κύριος "the Lord" with its note;
+  - HB/GS where "Hebrew" meant both;
+  - per-book logs.
+- **`STANDARDS.md`:**
+  - the real file map and routes (`src/proxy.ts`, `[book]/chapter/[n]`; no `VALID_BOOKS`/view toggle);
+  - the SEO table as shipped;
+  - dependencies from `package.json`;
+  - counts → a pointer to CLAUDE.md.
+- **`TT-DESIGN-SYSTEM.md`:**
+  - the "migration (in progress)" note goes;
+  - the anti-slop vocabulary becomes Read/Notes/Deeper;
+  - the inclusive section adds ES;
+  - the tablist pattern → URL doors (the Deeper sub-tabs keep the tablist).
+- **`CLAUDE.md` / `README.md`:**
+  - trees (7 books; `src/` without `hooks/`, with `marketing/` and `prophecy/`; app `background/`, `rules/`, `start/`; 8 logs; the guides including the playbook);
+  - the URL table (`/`, `/books`, `/rules`);
+  - D9 wording (CLAUDE.md:102, :124);
+  - the Rulesets line;
+  - **test counts after this batch's new tests**.
+- **`CONTRIBUTING.md`:** a model-neutral co-author trailer; counts → a pointer.
+- **`AUTHORING-PLAYBOOK.md`:** :73, :78, :131 (D9), :141 (D10).
+- **`EXECUTION_HISTORY.md`:** the ruleset trail gains v3.4 and v3.4.1, plus a batch 2 entry.
+- **`PENDING.md`:**
+  - last-updated date;
+  - done items removed (§5 `Name (Name)`, the "untracked" `achados-arqueologicos.md`, the stale Mary-as-Ark gating);
+  - the dangling :79 `COMPANION-RESEARCH.md` fixed;
+  - Step 4 cross-references.
+- **`docs/source-analysis/README.md`:** :13 and :21 (lists 3 logs). Also `greek/README.md:3`: the Greek corpus = Mark, Luke 1–3, Acts 1–3, 1 Peter.
+- **`CONTENT_SWEEP_FINDINGS.md`:** S8 `ruleset-v3.3` and S10 stamp/prose classes → fixed (batch 2).
+- **Audit archive status headers** (PLAN_MARK_PROPAGATION, PLAN_LUKE_EXPANSION, PLAN_ACTS_EXPANSION, PLAN_TIER3_REUSABILITY, MULTI_BOOK_EXPANSION_PLAN, ARCHITECTURE_DRY_AUDIT, REDESIGN_MIGRATION_PLAN): one dated status line each; the bodies are untouched.
+- **Accepted, not fixed** (recorded in PENDING):
+  - the `X_PLAN` / `PLAN_X` naming drift: renaming would break hundreds of historical references;
+  - the 4 plans without audits (Acts, Tier4 name-dedup, methodology-restamp — all executed and merged; DAAT gets its audit in batch 8);
+  - `docs/redesign/` (a standalone, unwired prototype — historical; its "29 rules" stays).
+- **Dangling references.** The scanner (scratchpad `dangling.py`):
+  - resolves bare filenames by basename and `../` links relative to the citing file;
+  - skips placeholders (`CHAPTER-N`, `{…}`).
+- **The split for dangling references:**
+  - **Live** (fixed; 0 at the gate): rule-file text outside VERSION HISTORY, guides, templates, architecture, design, CLAUDE/README/CONTRIBUTING, PENDING, source-analysis READMEs, editorial-log **headers**.
+  - **Historical** (kept as written; they describe what existed then): RULES-CORE VERSION HISTORY, changelogs, editorial-log **entries**, audit plans/audits, EXECUTION_HISTORY, `docs/redesign/`.
+  - `SCHEMA-FUTURE.sql` (not `.md`, cites `PLAN.md`) → post-launch with its other defects.
+
+### B2.6 Content re-stamp
+
+**Exactly 133 lines in `content/`:**
+- **125 stamp fields** (`**Ruleset|Regelwerk|Reglas|Regras|Conjunto de Regras|Conjunto de Reglas|Conjunto de reglas:** v3.3` → `v3.4`, parenthetical untouched; not parsed by any parser and not rendered);
+- **8 prose stamps** ("TT ruleset (v3.3)", genesis/john INTRODUCTION × 4 locales; rendered).
+
+**Kept:** the 4 Luke 3 citations ("v3.3.2 cross-book convention"). They are a reader-facing process leak on lines batch 3 rewrites anyway (S9 repo path) → **batch 3 to-do: remove the phrase**.
+
+**How it's done:** scripted with anchored patterns, then verified by count (133) and a word diff showing only `v3.3` → `v3.4` tokens.
+
+### B2.7 Lint: §0.1b → blocking
+
+- **§0.1b** becomes blocking (`check_pattern`/emit-error, same id) over `content/`.
+- **Not allow-listed:** amendment citations (`v3.3.N` followed by a convention word in the 4 languages) are excluded by a filter inside the rule, so batches 3, 6 and 7 can rewrite those lines without breaking the lint or the allow-list test.
+- Editorial logs stay excluded.
+- The comment "rules at v3.3" → v3.4.
+- The batch map's "§0.1 back to blocking" means §0.1b — §0.1 is already blocking.
+- **Expected:** `pnpm content:lint` keeps its warning set minus §0.1b.
+
+### B2.8 Tests
+
+**`activation-consistency.test.ts`:**
+- **Hero tagline:** `heroTagline` is split on ` · `; for every activated book, each locale must contain `${book label} 1–${max chapter}`, with the max chapter derived from `content/en/<book>/CHAPTER-*.md`. The segment count must equal the number of active books.
+- **Section kick:** the `sectionKick` count word equals the number of active books (number words 1–12 per locale).
+- **Source stubs:** match `^${slug}(-.*)?\.md$` in `docs/source-analysis/{greek|hebrew}/`. `KNOWN_SOURCE_STUB_GAPS` equals exactly `["john", "matthew"]` (exact equality, as `locale-parity.test.ts:200`).
+- **See-target allow-list:** scoped to the table after the stable anchor prefix "Allow-list of valid `**See:**` target slugs". The test asserts the anchor exists and the table has ≥ `active.length` rows.
+- **`people.inBook`** is named neither in RULES-CORE nor in the playbook.
+
+**`rules-messages.test.ts`:** `## THE {N} RULES` equals `RULE_COUNT` and the count of rule headings.
+
+### B2.9 Gate and verification
+
+**Gate commands:**
+- `pnpm test`, `pnpm lint`, `pnpm typecheck`;
+- `pnpm content:lint` (§0.1b blocking, green);
+- `pnpm build` (then restore `next-env.d.ts`).
+
+**Conservation:** the file and unit counts are recorded **before and after** via the same derivation the gate uses (a scratch script). They must be identical (408 / 20,676).
+
+**`pnpm content:sweep` regenerated — expected diff, exactly:**
+- S8 `ruleset-v3.3` −125;
+- S10 `stamp-field` −125, S10 `prose-stamp` −8 (S10 `citation` 4 unchanged);
+- S9 `ai-provenance` unchanged, since no reader line changes yet;
+- plus any rows caused by the new HB נֶפֶשׁ row, listed and explained;
+- anything else is a defect.
+
+**Other checks:**
+- a Markdown table cell-count check on every edited table;
+- the dangling-reference scanner: live = 0.
+
+### B2.10 Out of scope (routed)
+
+- **Batch 3:** content applications of D7/D8/D9/L1/L3/L4/L6/L7, the reader provenance lines (to the approved statement), "Tier 2" in reader text, and the Luke 3 "v3.3.2 convention" phrase. Batches 4–5 cover the rest. The order follows §2.
+- **Batch 4:** the Genesis nephesh deviations.
+- **Batch 7:** the L8 waiver.
+- **Step 5:** `engines.node` (deploy config).
+- **Post-launch:** `SCHEMA-FUTURE.sql`.
+
+### B2.11 Plan review log (2026-11-20, 2 adversarial reviewers: 0 blockers, 10 major, 11 minor — all applied)
+
+**Governance**
+- **Protocol path:** a re-opening with a lead waiver, not the additive-only emergency path. The false "amendments never re-stamped content" claim was corrected.
+- **D7:** the HB bare-נֶפֶשׁ row is added now (§G4), not routed.
+- **L5:**
+  - provenance loss was certain (1 Peter has no log record), so a provenance record and a 1 Peter entry were added;
+  - the DE form is named;
+  - "vendor = model detail" is decided;
+  - per-verse → the granularity actually kept.
+- **L1:** the :378 rewrite was narrowed, so §I2 idioms gain no marking duty; it cross-references RULES-GS:91.
+- **D8 "everywhere":** the genesis/john/matthew Title-Case log lines and Rule 20:449 are added.
+- **L6/L4:** rule text added (Rule 10 PT clause; lock scope); the citation was corrected to EXECUTION_HISTORY:90.
+- **L3:** J-036, not J-007; A-004 marked `superseded` with a forward pointer.
+- **L7:** 1-peter.md:34 added. **D7:** acts.md:65 added; Luke gets new entries.
+- **Schema:** new entries follow the schema.
+- **Leftovers:** D9 and D10 leftovers in RULES-CORE, CLAUDE.md and the playbook.
+- **Line numbers and stale counts:** "Rules 1-29" in HB, :1450, :886, the new VERSION HISTORY entry, the GS version gap.
+
+**Execution**
+- **Sweep diff:** the sweep snapshot loses 258 rows (not "no diff"); exact expectations written.
+- **Pipe escapes:** limited to RULES-CORE (the sweep parses HB/GS tables).
+- **Luke 3 citations:** excluded by filter, not allow-listed (allow-listed lines would break in batches 3/6/7); the phrase routed to batch 3.
+- **Sweep S9:** must exempt the approved provenance statement.
+- **Tagline test:** checks label + chapter range (the "no non-activated" assertion could never fail).
+- **Anchors and guards:** the anchor uses a stable prefix plus a row floor; the rule-count guard moved to `rules-messages`; the stub regex is exact; the gap list uses exact equality.
+- **Missed docs:** source-analysis README:21, the log headers at v3.3, `rulesHeroKicker`, naming drift / un-audited plans / `docs/redesign/` given an explicit disposition.
+- **Dangling-reference split:** by section, with scanner resolution rules; PENDING:79 fixed.
+- **Conservation:** counts recorded before and after.
+- **Docs:** CLAUDE.md counts updated after the new tests; one cross-book log record of the re-stamp; line references corrected.
+
+### B2.12 As executed — deviations from the plan
+
+- **Sweep S9 needed no exemption.** The S9 patterns are case-sensitive (`"Drafted by"`, `"Not yet reviewed"`), and none of the four approved statements matches them. A guard test was added instead (`checks.test.mjs`, "plain provenance statements are not flagged"), so a future pattern change cannot start flagging them.
+- **Provenance record = 252 lines.** The sweep's 645 S9 `ai-provenance` hits fall on 252 distinct lines, matching a fresh grep exactly. Each row also carries the following lines of its provenance block (date, reviewer), because those are separate list lines.
+- **L6 count corrected.** The 12 PT `vocês` are 11 in John and 1 in Matthew 3:9. Matthew 3:2–3 and 3:8–9 also have `vocês` verb forms with no pronoun, which the sweep's pronoun count missed. Recorded in J-037 and in the proposal's impact table.
+- **D8 → Rule 20 covers all titular nouns in notes**, not only "son of man". The superseded log clauses (J-018, M-013, genesis 099) also kept "Son of God" in Title Case in notes. Rule 20 governs titular nouns as one class, so the amended :449 applies to all of them. **Assistant decision under D13, for the lead to confirm or override** (batch 4 applies it).
+- **Found during execution:** RULES-GS's transliteration note listed *mabbul*, which RULES-HB renders "flood". Corrected in v3.4.1 and added to the changelog.
+- **Docs beyond the plan (accepted):**
+  - AUTHORING-PLAYBOOK §5 PT row now records *vós* (L6); trap T-20 now records the L1 decision.
+  - The companion template puts Sources last (as Genesis does). The 1 Peter companions put §H Sources before §I → **batch 3 (structure check)**, not a rule defect.
+- **Conservation test** gains an opt-in count report (`CONSERVATION_REPORT=1`): 408 / 20,676 before and after.
+- **Forward reference kept:** `LAUNCH_PROGRAM.md` names `PLAN_LAUNCH.md`, the Step 5 plan that does not exist yet.

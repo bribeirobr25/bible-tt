@@ -10,7 +10,7 @@
 **Libro:** Génesis (בְּרֵאשִׁית, *Bereshit* — "En el principio")
 **Idioma:** Español
 **Introducción a:** `es/genesis/` (Edición Transparente)
-**Conjunto de reglas:** v3.3 (La Regla 29 gobierna este archivo)
+**Conjunto de reglas:** v3.4 (La Regla 29 gobierna este archivo)
 **Estado:** provisional
 **Relación con Reina-Valera (Regla CORE):** Opción B — Reconocimiento selectivo. Se notan convergencias/divergencias en materiales suplementarios.
 
@@ -361,7 +361,7 @@ El canon de la Biblia Hebrea utilizado como texto base de la TT (BHS / Texto Mas
 ### F1. Reglas activas con aplicaciones específicas a Génesis
 **[TEXTUAL — VERIFICADO]**
 
-Las siguientes reglas del conjunto de reglas de la TT (v3.3) tienen especial relevancia para Génesis:
+Las siguientes reglas del conjunto de reglas de la TT (v3.4) tienen especial relevancia para Génesis:
 
 | Regla | Nombre | Aplicación específica a Génesis |
 |------|------|------------------------------|

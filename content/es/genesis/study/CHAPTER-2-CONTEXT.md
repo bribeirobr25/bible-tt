@@ -10,7 +10,7 @@
 **Capítulo:** Génesis 2
 **Idioma:** Español
 **Compañero de:** `es/genesis/CHAPTER-2.md` (Edición Transparente)
-**Reglas:** v3.3 (la Regla 29 gobierna este archivo)
+**Reglas:** v3.4 (la Regla 29 gobierna este archivo)
 **Status:** provisional
 
 ---

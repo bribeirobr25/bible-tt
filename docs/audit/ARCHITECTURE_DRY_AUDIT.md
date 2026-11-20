@@ -1,5 +1,7 @@
 # Architecture Audit — DRY / Reusability / DDD
 
+**Outcome (status updated 2026-11-20):** ACTED ON — the recommended refactors were executed as Tiers 1–3 (2026-06-19, merged in PR #5) and Tier 4 (2026-06-20, PRs #6–#7); see `EXECUTION_HISTORY.md`. The "no refactors executed" status below is historical.
+
 **Date:** 2026-06-18 · **Method:** 4 parallel read-only reviewers (rendering · content-parsers · DDD boundaries · UI components). **Trigger:** the nested-emphasis render bug (`**…*x*…**`) recurring across ~96 content lines surfaced a question — is the same *code* duplicated and drifting, or doing too much (DDD)? **Status:** findings only; no refactors executed (awaiting project-lead sign-off per the gated workflow).
 
 ## Verdict

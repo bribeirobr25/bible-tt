@@ -10,7 +10,7 @@
 **Buch:** Genesis (בְּרֵאשִׁית, *Bereshit* — „Am Anfang")
 **Sprache:** Deutsch
 **Einleitung zu:** `de/genesis/` (Transparente Ausgabe)
-**Regelwerk:** v3.3 (Regel 29 regelt diese Datei)
+**Regelwerk:** v3.4 (Regel 29 regelt diese Datei)
 **Status:** provisorisch
 
 ---
@@ -360,7 +360,7 @@ Der hebräische Bibelkanon, der als Textbasis der TT dient (BHS / Masoretischer 
 ### F1. Aktive Regeln mit Genesis-spezifischen Anwendungen
 **[TEXTUELL — VERIFIZIERT]**
 
-Die folgenden Regeln aus dem TT-Regelwerk (v3.3) haben besondere Relevanz für Genesis:
+Die folgenden Regeln aus dem TT-Regelwerk (v3.4) haben besondere Relevanz für Genesis:
 
 | Regel | Name | Genesis-spezifische Anwendung |
 |-------|------|-------------------------------|

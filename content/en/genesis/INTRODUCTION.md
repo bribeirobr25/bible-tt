@@ -10,7 +10,7 @@
 **Book:** Genesis (בְּרֵאשִׁית, *Bereshit* — "In the beginning")
 **Language:** English
 **Introduction to:** `en/genesis/` (Transparent Edition)
-**Ruleset:** v3.3 (Rule 29 governs this file)
+**Ruleset:** v3.4 (Rule 29 governs this file)
 **Status:** provisional
 
 ---
@@ -360,7 +360,7 @@ The Hebrew Bible canon used as the TT's base text (BHS / Masoretic Text) reflect
 ### F1. Active rules with Genesis-specific applications
 **[TEXTUAL — VERIFIED]**
 
-The following rules from the TT ruleset (v3.3) have particular bearing on Genesis:
+The following rules from the TT ruleset (v3.4) have particular bearing on Genesis:
 
 | Rule | Name | Genesis-specific application |
 |------|------|------------------------------|

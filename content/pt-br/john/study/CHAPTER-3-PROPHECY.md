@@ -5,7 +5,7 @@
 
 **Capítulo:** João 3
 **Idioma:** Português Brasileiro
-**Regras:** v3.3 (Regra 29 governa este arquivo)
+**Regras:** v3.4 (Regra 29 governa este arquivo)
 **Status:** provisório
 
 ---

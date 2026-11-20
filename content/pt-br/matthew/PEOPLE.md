@@ -3,7 +3,7 @@
 **Livro:** Mateus
 **Idioma:** Português Brasileiro
 **Escopo:** Mateus 1-3
-**Conjunto de Regras:** v3.3 (Regra 29 governa este arquivo)
+**Conjunto de Regras:** v3.4 (Regra 29 governa este arquivo)
 **Status:** provisório
 
 ---

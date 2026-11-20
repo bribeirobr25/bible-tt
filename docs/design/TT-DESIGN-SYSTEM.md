@@ -4,7 +4,7 @@
 **Source of truth for:** All frontend visual design, interaction patterns, accessibility, anti-slop, and component standards.
 **Companion document:** `docs/architecture/STANDARDS.md` (code architecture, DDD, TypeScript, testing, dependencies)
 **Project:** The Transparent Translation (Bible TT) — a multilingual scholarly Bible reading and study web app
-**Last updated:** 2026-04-21
+**Last updated:** 2026-11-20
 
 ---
 
@@ -70,8 +70,8 @@
 | text-xs | 12px | Structural mono labels ONLY — minimum allowed |
 | text-sm | 14px | Notes, metadata — minimum for prose |
 | text-base | 16px | UI body copy |
-| text-lg | 18px | Verse text (study mode) |
-| text-xl | 20px | Verse text (reading mode) |
+| text-lg | 18px | Verse text (Notes door, verse cards) |
+| text-xl | 20px | Verse text (Read door, continuous reading) |
 | text-2xl | 24px | Section headings |
 | text-3xl–5xl | 30–48px | Page titles, landing hero |
 
@@ -91,10 +91,10 @@
 All OKLCH tokens in `src/app/globals.css`. **Hardcoded hex forbidden** (one sanctioned exception:
 `src/lib/og.tsx`, satori has no OKLCH — keep its 4 hex mirrors in lockstep with the tokens).
 
-> **Light & Darkness migration (in progress, 2026-06-14):** the palette below was retuned to the
-> approved "Light & Darkness" duotone (cream surfaces + deep-petrol ink). See
-> `docs/audit/REDESIGN_MIGRATION_PLAN.md`. Design-rule exceptions deliberately adopted (dark
-> surfaces, gradient `seam`, 800ms reveals) are logged in §12 / the editorial log.
+> **Light & Darkness palette (shipped):** the palette below is the "Light & Darkness" duotone
+> (cream surfaces + deep-petrol ink), merged to `main` via PRs #1–4 (2026-06; plan archived at
+> `docs/audit/REDESIGN_MIGRATION_PLAN.md`). The design-rule exceptions it adopted (dark surfaces,
+> gradient `seam`, 800ms reveals) are listed in §12.
 
 ### Base palette (Light & Darkness)
 | Token | Value | Use |
@@ -156,11 +156,11 @@ Inline markers authored in the content and converted at render time (`render-mar
 | Desktop | ≥1024px | Centered content column |
 
 ### Content widths
-| Mode | Width | Rationale |
+| Door | Width | Rationale |
 |------|-------|-----------|
-| Reading | 680px | ~65 chars/line |
-| Study | max-w-4xl | Room for notes |
-| Context | max-w-3xl | Enrichment entries |
+| Read | `max-w-[42rem]` (672px) | ~65 chars/line |
+| Notes | `max-w-[46rem]` (736px) | Verse cards with notes |
+| Deeper | `.tt-deeper-section` 48rem (768px) | Enrichment and prophecy entries |
 
 ### Spacing
 - Between sections: `space-y-8` to `space-y-12`
@@ -221,13 +221,14 @@ Inline markers authored in the content and converted at render time (`render-mar
 - Landmarks: `<header>`, `<main>`, `<nav>`, `<footer>`
 - One `<h1>` per page
 - `<details>`/`<summary>` for expandable content
-- `role="tablist"` + `role="tab"` + `aria-selected` for mode toggle
+- Chapter doors (Read / Notes / Deeper) are separate URLs: links in a `<nav>`, the active door marked `aria-current="page"` — not a tablist
+- `role="tablist"` + `role="tab"` + `aria-selected` (roving tabindex) only for in-page tabs: the Deeper sub-tabs (Background / Prophecies); the People link sits beside the tablist, not inside it
 - Hebrew RTL: `direction: rtl; unicode-bidi: isolate`
 
 ### Inclusive
 - No gendered defaults
 - No religious-tradition assumptions
-- Works for EN, PT-BR, DE readers equally
+- Works for EN, PT-BR, DE, ES readers equally
 
 ---
 
@@ -269,8 +270,8 @@ Verify 2–3 craft details per major page:
 | Curiosities | `Sparkles` |
 | Sources | `BookMarked` |
 | Expand/collapse | `ChevronRight` |
-| Reading mode | `BookOpen` |
-| Study mode | `NotebookPen` |
+| Read door | `BookOpen` |
+| Notes door | `NotebookPen` |
 
 ---
 
@@ -309,12 +310,21 @@ min-h-12 + border + text-text-secondary
 hover:border-accent + hover:text-accent + active:scale-95 + focus-visible:ring-2
 ```
 
-### Mode toggle
+### Chapter door nav (`DoorNav`, `.tt-doornav`)
 ```
-role="tablist" + bg-bg-muted rounded-lg p-1
-  role="tab" + aria-selected + min-h-11
-  active: bg-bg-paper shadow-sm
-  inactive: hover:bg-bg-paper/50
+<nav aria-label> segmented pill of <a> links — one per door URL
+  (/chapter/{n}, /chapter/{n}/notes, /chapter/{n}/deeper)
+  active: aria-current="page", dark fill
+  inactive: hover petrol tint; Deeper rendered as a disabled span when the chapter has no enrichment
+```
+Server-rendered, works without JS, crawlable. Not a tablist: each door is a page.
+
+### Deeper sub-tabs (`.tt-subtabs`)
+```
+role="tablist" + role="tab" buttons (aria-selected, aria-controls, roving tabindex, arrow keys)
+  selected: accent text + accent bottom border
+  one panel only: plain label, no tab semantics
+  People link: beside the tablist, not a tab
 ```
 
 ---
@@ -336,7 +346,7 @@ role="tablist" + bg-bg-muted rounded-lg p-1
 - Animations over 400ms or linear easing
 - Lorem ipsum or placeholder copy
 - Fabricated claims or theological positions
-- Labels not matching project vocabulary (Reading / Study / Context)
+- Labels not matching project vocabulary (Read / Notes / Deeper)
 - Contrast below 4.5:1 for text
 - Non-keyboard-reachable elements
 - Apologetics or debunking framing in the UI

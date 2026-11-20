@@ -3,7 +3,7 @@
 **Livro:** Gênesis
 **Idioma:** Português Brasileiro
 **Escopo:** Motivos transcapitulares em Gênesis 1–12
-**Conjunto de Regras:** v3.3 (A Regra 29 governa este arquivo)
+**Conjunto de Regras:** v3.4 (A Regra 29 governa este arquivo)
 **Status:** provisório
 
 ---

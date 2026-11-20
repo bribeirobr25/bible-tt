@@ -10,7 +10,7 @@
 **Livro:** Mateus (Μαθθαῖος, *Maththaios*)
 **Idioma:** Português Brasileiro
 **Introdução a:** `pt-br/matthew/` (Edição Transparente)
-**Conjunto de Regras:** v3.3 (Regra 29 governa este arquivo)
+**Conjunto de Regras:** v3.4 (Regra 29 governa este arquivo)
 **Status:** provisório
 
 ---

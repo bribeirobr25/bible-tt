@@ -1,5 +1,7 @@
 # Redesign → Main App Migration Plan
 
+**Outcome (status updated 2026-11-20):** EXECUTED — P0–P6 complete; `redesign-migration` merged to `main` in PRs #1–4 (2026-06-16/17) and the branch deleted 2026-06-21. The "P6 awaits lead authorization" status below is historical.
+
 **Goal:** make the production Next.js app adopt the full UI/UX, layout, and look-and-feel of the
 standalone "Light & Darkness" prototype (`docs/redesign/site/`) — with **zero content loss, no
 mis-references, and no regressions** to the existing pipeline, i18n, routes, SEO, or tests.

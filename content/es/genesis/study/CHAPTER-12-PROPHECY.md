@@ -5,7 +5,7 @@
 
 **Capítulo:** Genesis 12
 **Idioma:** Español
-**Reglas:** v3.3 (Regla 29 rige este archivo)
+**Reglas:** v3.4 (Regla 29 rige este archivo)
 **Estado:** provisional
 **Relación con Reina-Valera (Regla CORE):** Opción B — Reconocimiento selectivo. Se notan convergencias/divergencias en materiales suplementarios.
 
