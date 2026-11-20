@@ -117,7 +117,7 @@ function CuriositiesBlock({
 export function PersonCard({
   person,
   labels,
-  locale = "en",
+  locale: localeProp,
   bookLabels,
   open = false,
 }: {
@@ -132,6 +132,10 @@ export function PersonCard({
   };
   bookLabels: Record<string, string>;
 }) {
+  // One source of truth with Field/CuriositiesBlock: the request locale, unless
+  // a caller passes one explicitly (no silent "en" default).
+  const contextLocale = useLocale();
+  const locale = localeProp ?? contextLocale;
   const fields = person.rawFields ?? [];
   return (
     <details name="people-acc" className="tt-person" open={open}>

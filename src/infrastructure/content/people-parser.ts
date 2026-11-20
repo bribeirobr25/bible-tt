@@ -20,6 +20,23 @@ import {
 import { cleanSourcesBlock, isSourcesHeading } from "./sources-block";
 
 const ENTRY_HEADER = /^## (.+)$/;
+
+/**
+ * A person's slug: a clean URL fragment / HTML id. Quote characters
+ * (Ya'aqov, "She in Babylon", „Die in Babylon") and the punctuation of
+ * "Yosef Barsabbas / Justus" or "Herodes (Herod)" are dropped; whitespace runs
+ * become one hyphen. Letters keep their diacritics (stable, readable ids).
+ */
+export function personSlug(name: string): string {
+  return name
+    .toLowerCase()
+    .replace(/["'’ʼ„“”«»]/g, "")
+    .replace(/[()[\]/\\]/g, " ")
+    .trim()
+    .replace(/\s+/g, "-")
+    .replace(/-{2,}/g, "-");
+}
+
 const FIELD_LINE = /^\*\*(.+?):\*\*\s*(.*)$/;
 const SUBSECTION_HEADER = /^### (.+)$/;
 const CURIOSITY_HEADER = /^#### (.+)$/;
@@ -343,12 +360,7 @@ export function parsePeopleMarkdown(raw: string, book: string): PeopleData {
       // unique. A true collision with no suffix to disambiguate is left to the
       // flushEntry duplicate-slug warning (authors fix it via the heading) —
       // do not silently auto-slug, which would mask the authoring issue.
-      // Quote characters (Ya'aqov, "She in Babylon", „Die in Babylon") are
-      // dropped so the slug is a clean URL fragment and HTML id.
-      const baseSlug = name
-        .toLowerCase()
-        .replace(/["'’ʼ„“”«»]/g, "")
-        .replace(/\s+/g, "-");
+      const baseSlug = personSlug(name);
       let slug = baseSlug;
       if (suffix && seenSlugs.has(slug)) {
         slug = `${baseSlug}-${suffix
@@ -529,7 +541,7 @@ export function parsePeopleMarkdown(raw: string, book: string): PeopleData {
 
 function finalizeEntry(raw: Partial<PersonEntry>): PersonEntry {
   return {
-    slug: raw.slug || raw.name?.toLowerCase().replace(/\s+/g, "-") || "",
+    slug: raw.slug || (raw.name ? personSlug(raw.name) : ""),
     name: raw.name || "",
     familiarName: raw.familiarName,
     suffix: raw.suffix,

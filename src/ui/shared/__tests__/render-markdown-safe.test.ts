@@ -164,10 +164,15 @@ describe("renderMarkdownSafe", () => {
       );
     });
 
-    it("does not catastrophically backtrack on long pathological input", () => {
+    it("stays linear on long pathological input (delimiter stack + bottoms)", () => {
+      // Each shape below was quadratic in a naive matcher (≈1.3 s at this size);
+      // linear it takes milliseconds. The budget is generous so a loaded CI
+      // worker never flakes, yet a quadratic regression still blows through it.
       const start = performance.now();
-      renderInlineSafe(`**${"a*b ".repeat(5000)}`);
-      expect(performance.now() - start).toBeLessThan(200);
+      renderInlineSafe(`**${"a*b ".repeat(20000)}`);
+      renderInlineSafe(`${"*a ".repeat(20000)}${"b* ".repeat(20000)}`);
+      renderInlineSafe(`${"**a ".repeat(20000)}`);
+      expect(performance.now() - start).toBeLessThan(1000);
     });
   });
 
@@ -288,6 +293,15 @@ describe("renderMarkdownSafe", () => {
           locale: "es",
         }),
       ).toContain('href="/es/rules#rule-4"');
+    });
+
+    it("a table cell's asterisk never pairs with one in another cell", () => {
+      const html = renderMarkdownSafe(
+        "| *x | y* |\n|---|---|\n| a | b |",
+        "note",
+      );
+      expect(html).not.toContain("<em>");
+      expect(html).toContain(">*x</th>");
     });
   });
 });

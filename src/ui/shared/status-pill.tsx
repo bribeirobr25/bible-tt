@@ -6,8 +6,9 @@ import { parseReviewStatus } from "@/domain/content/review-status";
  * Background). Prints the i18n term for the file's authored `**Status:**`
  * (Decision D15) so every badge agrees in every locale; a file without a status
  * line reads as provisional (the corpus default); an unrecognized status word
- * falls back to the authored word itself. The full authored value stays in the
- * `title` tooltip.
+ * falls back to the authored word itself. The full authored value is in the
+ * `title` tooltip and, for screen readers (a tooltip is not announced
+ * reliably), in a visually hidden suffix.
  */
 export function StatusPill({ status }: { status?: string }) {
   const t = useTranslations();
@@ -22,6 +23,7 @@ export function StatusPill({ status }: { status?: string }) {
     <span className="tt-status-pill" title={status}>
       <span className="dot" aria-hidden="true" />
       {label}
+      {status && <span className="sr-only"> — {status}</span>}
     </span>
   );
 }

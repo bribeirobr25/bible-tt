@@ -187,22 +187,28 @@ function extractVerses(content: string): Verse[] {
     const mainTextLines: string[] = [];
     const noteLines: string[] = [];
     let inNotes = false;
-    let afterRule = false;
+    // true while the previous line was a non-blank note line: a following
+    // unprefixed line is then a lazy blockquote continuation (part of the note).
+    let noteOpen = false;
 
     for (const line of block.lines) {
       if (
-        !afterRule &&
-        (line.startsWith("> ") ||
-          (inNotes && (line === ">" || line.startsWith(">"))))
+        line.startsWith("> ") ||
+        (inNotes && (line === ">" || line.startsWith(">")))
       ) {
         inNotes = true;
         noteLines.push(line);
+        noteOpen = line.replace(/^>\s?/, "").trim().length > 0;
       } else if (line === "---") {
-        afterRule = true;
-      } else if (line.trim().length > 0) {
+        noteOpen = false;
+      } else if (line.trim().length === 0) {
+        noteOpen = false;
+      } else if (noteOpen) {
+        noteLines.push(line);
+      } else {
         // Verse text normally precedes the notes; text authored after the
-        // notes or after a `---` used to be dropped silently (audit §3.2).
-        // It is kept as verse text so nothing authored is lost.
+        // notes (past a blank line) or after a `---` used to be dropped
+        // silently (audit §3.2). It is kept as verse text so nothing is lost.
         mainTextLines.push(line);
       }
     }

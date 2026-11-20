@@ -1,3 +1,5 @@
+import { RULE_COUNT } from "@/domain/rules/ruleset";
+
 type MarkdownSubset = "prose" | "note";
 
 /**
@@ -38,7 +40,6 @@ interface Delim {
   openTags: string[];
   /** closing tags (this run acted as a closer), innermost first */
   closeTags: string[];
-  active: boolean;
 }
 
 function charBefore(line: string, i: number): string {
@@ -101,49 +102,56 @@ function emphasizeLine(line: string): string {
       canClose: rightFlanking,
       openTags: [],
       closeTags: [],
-      active: true,
     });
     i = j;
   }
   if (text) tokens.push(text);
 
+  // Openers waiting for a closer, in text order (CommonMark's delimiter stack).
+  // Matching a pair pops every run above the opener (they can no longer pair
+  // across it), and `bottom` remembers, per closer kind, below which point the
+  // search already failed — together they keep a line linear in its runs.
+  const stack: number[] = [];
+  const bottom = new Map<string, number>();
   for (let c = 0; c < delims.length; c++) {
     const closer = delims[c];
-    if (!closer.canClose) continue;
-    while (closer.count > 0) {
-      let o = c - 1;
-      let opener: Delim | undefined;
-      for (; o >= 0; o--) {
-        const d = delims[o];
-        if (!d.active || !d.canOpen || d.count === 0) continue;
-        // Rule of 3: a run that can both open and close does not pair with
-        // another when their lengths sum to a multiple of 3 (unless both are).
-        const oddMatch =
-          (d.canClose || closer.canOpen) &&
-          (d.orig + closer.orig) % 3 === 0 &&
-          !(d.orig % 3 === 0 && closer.orig % 3 === 0);
-        if (oddMatch) continue;
-        opener = d;
-        break;
+    if (closer.canClose) {
+      const kind = `${closer.orig % 3}|${closer.canOpen}`;
+      while (closer.count > 0) {
+        const floor = bottom.get(kind) ?? -1;
+        let k = stack.length - 1;
+        for (; k >= 0 && stack[k] > floor; k--) {
+          const d = delims[stack[k]];
+          // Rule of 3: a run that can both open and close does not pair with
+          // another when their lengths sum to a multiple of 3 (unless both are).
+          const oddMatch =
+            (d.canClose || closer.canOpen) &&
+            (d.orig + closer.orig) % 3 === 0 &&
+            !(d.orig % 3 === 0 && closer.orig % 3 === 0);
+          if (!oddMatch) break;
+        }
+        if (k < 0 || stack[k] <= floor) {
+          bottom.set(kind, stack.length ? stack[stack.length - 1] : -1);
+          break;
+        }
+        const opener = delims[stack[k]];
+        // `***x***` keeps the historical strong-outside nesting.
+        const use =
+          opener.count >= 2 && closer.count >= 2
+            ? opener.count === 3 && closer.count === 3
+              ? 1
+              : 2
+            : 1;
+        const tag = use === 2 ? "strong" : "em";
+        opener.openTags.push(`<${tag}>`);
+        closer.closeTags.push(`</${tag}>`);
+        opener.count -= use;
+        closer.count -= use;
+        // Runs between a matched pair can no longer pair across it.
+        stack.length = opener.count === 0 ? k : k + 1;
       }
-      if (!opener) break;
-      // `***x***` keeps the historical strong-outside nesting.
-      const use =
-        opener.count >= 2 && closer.count >= 2
-          ? opener.count === 3 && closer.count === 3
-            ? 1
-            : 2
-          : 1;
-      const tag = use === 2 ? "strong" : "em";
-      opener.openTags.push(`<${tag}>`);
-      closer.closeTags.push(`</${tag}>`);
-      opener.count -= use;
-      closer.count -= use;
-      // Runs between a matched pair can no longer pair across it.
-      for (let k = o + 1; k < c; k++) delims[k].active = false;
-      if (opener.count === 0) opener.active = false;
     }
-    if (closer.count === 0) closer.active = false;
+    if (closer.canOpen && closer.count > 0) stack.push(c);
   }
 
   for (const d of delims) {
@@ -169,7 +177,7 @@ function applyEmphasis(html: string): string {
 }
 
 // ── Rule references (Decision L5) ─────────────────────────────────────────
-// "Rule 30" / "Rule-30" and the PT/DE/ES forms, N = 1–30, link to the rules
+// "Rule 30" / "Rule-30" and the PT/DE/ES forms, N = 1–RULE_COUNT, link to the rules
 // page card `#rule-N`. Runs on escaped text before markers and emphasis, so it
 // never sees a tag.
 const RULE_REF = /\b(Rule|Regra|Regel|Regla)([ -])(\d{1,2})\b/g;
@@ -178,7 +186,7 @@ function linkRuleRefs(html: string, locale: string): string {
   const safeLocale = encodeURIComponent(locale);
   return html.replace(RULE_REF, (match, word, sep, num) => {
     const n = Number(num);
-    if (n < 1 || n > 30) return match;
+    if (n < 1 || n > RULE_COUNT) return match;
     return `<a class="tt-ruleref" href="/${safeLocale}/rules#rule-${n}">${word}${sep}${num}</a>`;
   });
 }

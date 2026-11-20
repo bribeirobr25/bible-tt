@@ -61,9 +61,10 @@ const GUIDE =
 /** The edition-title H2 under the H1 ("## The Transparent Translation (TT)") — part of the header. */
 const TITLE_H2 = /Transparent|Transparente|Übersetzung \(TT\)|\(TT\)\s*$/;
 /**
- * "Sources Consulted" blocks: dropped by the enrichment/people parsers today; must render after
- * Step 4a (D2 / audit B2). Decided by the heading WORDS, not the letter: companions use
- * "G." for Curiosities and "H." for Sources, introductions "G." for Sources (review R1-1).
+ * "Sources Consulted" blocks: rendered since Step 4 batch 1 (D2 / audit B2) — mirrors
+ * `SOURCES_HEADING` in src/infrastructure/content/sources-block.ts. Decided by the heading
+ * WORDS, not the letter: companions use "G." for Curiosities and "H." for Sources,
+ * introductions "G." for Sources (review R1-1).
  */
 const SOURCES_H2 =
   /^(?:[A-Z]\.\s+)?(?:Sources|Fontes|Fuentes|Konsultierte Quellen|Herangezogene Quellen|Quellen)\b/i;

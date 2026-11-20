@@ -161,19 +161,47 @@ describe("raw-count reconciliation (independent of the parsers)", () => {
       }
     expect(bad).toEqual([]);
   });
-  it("parsed Sources blocks = raw Sources headings (59 per locale)", () => {
+  it("parsed Sources blocks = raw Sources sections, line for line (every file)", () => {
     // Independent rule: a lettered G/H heading whose words name the sources
-    // (companion §G is Curiosities, so the letter alone never decides).
+    // (companion §G is Curiosities, so the letter alone never decides). The
+    // raw lines run to the next `## `; blank lines and `---` rules carry no
+    // text. Each raw line must reappear, as itself, in the parsed block
+    // (modulo the documented `>`/bullet cleaning) — no line lost or invented.
     const RAW_SOURCES =
       /^## [GH]\. (?:Sources|Fontes|Fuentes|Konsultierte Quellen|Herangezogene Quellen)\b/;
+    const norm = (l: string) =>
+      l
+        .replace(/^>\s?/, "")
+        .replace(/^(?:[-*]|•)\s+/, "• ")
+        .trim();
+    const rawBlock = (raw: string): string[] | null => {
+      const ls = raw.split("\n");
+      const at = ls.findIndex((l) => RAW_SOURCES.test(l));
+      if (at < 0) return null;
+      const out: string[] = [];
+      for (const l of ls.slice(at + 1)) {
+        if (/^## /.test(l)) break;
+        if (l.trim() && !/^\s*-{3,}\s*$/.test(l)) out.push(norm(l));
+      }
+      return out;
+    };
     const bad: string[] = [];
+    const perLocale = new Map<string, number>();
     for (const l of locales) {
       let n = 0;
       const check = (rel: string, raw: string, parsed: string | undefined) => {
-        const has = lines(raw, RAW_SOURCES).length === 1;
-        if (has) n++;
-        if (has !== Boolean(parsed?.trim()))
-          bad.push(`${l}/${rel}: raw ${has} parsed ${Boolean(parsed)}`);
+        const want = rawBlock(raw);
+        if (want) n++;
+        const got = parsed
+          ? parsed
+              .split("\n")
+              .map(norm)
+              .filter((x) => x.length > 0)
+          : null;
+        if (JSON.stringify(want) !== JSON.stringify(got))
+          bad.push(
+            `${l}/${rel}: raw ${want?.length ?? "none"} lines, parsed ${got?.length ?? "none"}`,
+          );
       };
       for (const book of AVAILABLE_BOOKS) {
         for (const f of studyFiles(l, book, "-CONTEXT.md")) {
@@ -209,8 +237,29 @@ describe("raw-count reconciliation (independent of the parsers)", () => {
           );
         }
       }
-      if (n !== 59) bad.push(`${l}: ${n} Sources blocks (expected 59)`);
+      perLocale.set(l, n);
     }
     expect(bad).toEqual([]);
+    // Every locale carries the same Sources blocks (59 each on 2026-11-20); a
+    // content batch adding one must add it in all four locales.
+    expect(new Set(perLocale.values()).size).toBe(1);
+  });
+  it("every companion keeps ≥ 1 section besides Sources (the Deeper door set is unchanged)", () => {
+    // Sources stopped being a section in Step 4 batch 1; hasDeeperContent and
+    // the Deeper tabs count `sections`, so a companion whose only section was
+    // Sources would silently lose its Deeper page.
+    const empty: string[] = [];
+    for (const l of locales)
+      for (const book of AVAILABLE_BOOKS)
+        for (const f of studyFiles(l, book, "-CONTEXT.md")) {
+          const ch = Number(f.match(/\d+/)?.[0]);
+          const d = parseEnrichmentMarkdown(
+            read(l, book, "study", f),
+            book,
+            ch,
+          );
+          if (d.sections.length === 0) empty.push(`${l}/${book}/${f}`);
+        }
+    expect(empty).toEqual([]);
   });
 });

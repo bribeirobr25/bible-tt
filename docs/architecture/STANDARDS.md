@@ -263,7 +263,8 @@ Errors are expected, not exceptional. Handle them gracefully at every boundary.
 ### Current implementation
 | Boundary | Handling | File |
 |---|---|---|
-| Invalid book slug | `notFound()` via `VALID_BOOKS` guard | `[book]/page.tsx` |
+| Invalid or unactivated book slug | `notFound()` via the `isActiveBook` guard, before any content read | every `[book]` page + its `opengraph-image` route (7 + 7) |
+| Unknown path under a locale | `[...rest]` catch-all → `notFound()` → localized `[locale]/not-found.tsx` | `src/app/[locale]/[...rest]/page.tsx` |
 | Invalid chapter number | `notFound()` via `Number.isNaN()` check | `[chapter]/page.tsx` |
 | Missing chapter file | `readChapter()` returns `null` → `notFound()` | `fs-content-repository.ts` |
 | Missing enrichment file | `readEnrichment()` returns `null` → no Context tab shown | `fs-content-repository.ts` |

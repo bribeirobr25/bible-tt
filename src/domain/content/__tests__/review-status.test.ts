@@ -21,6 +21,14 @@ describe("parseReviewStatus", () => {
     expect(parseReviewStatus("signed off")).toBe("signedOff");
     expect(parseReviewStatus("aprobado")).toBe("signedOff");
     expect(parseReviewStatus("draft")).toBeNull();
+    // order invariant: a provisional head that also names a later state is
+    // still provisional (provisional words are tested first)
+    expect(parseReviewStatus("provisional pending signed-off review")).toBe(
+      "provisional",
+    );
+    expect(parseReviewStatus("provisório até revisado e aprovado")).toBe(
+      "provisional",
+    );
     expect(parseReviewStatus(undefined)).toBeNull();
   });
 

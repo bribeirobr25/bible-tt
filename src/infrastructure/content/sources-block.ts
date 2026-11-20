@@ -23,7 +23,14 @@ export function isSourcesHeading(h2Text: string): boolean {
  * but whitespace / horizontal rules was captured.
  */
 export function cleanSourcesBlock(lines: string[]): string | undefined {
-  const raw = lines.join("\n").trim();
-  if (!raw || /^(?:-{3,}\s*)+$/.test(raw)) return undefined;
+  // Horizontal rules separate the table from the provenance in the source;
+  // rendered as a note they would only add empty line breaks, so they go, and
+  // blank runs collapse to one blank line.
+  const kept = lines.filter((l) => !/^\s*-{3,}\s*$/.test(l));
+  const raw = kept
+    .join("\n")
+    .replace(/\n[ \t]*(?:\n[ \t]*)+/g, "\n\n")
+    .trim();
+  if (!raw) return undefined;
   return raw.replace(/^>\s?/gm, "").replace(/^[-*]\s+/gm, "• ");
 }

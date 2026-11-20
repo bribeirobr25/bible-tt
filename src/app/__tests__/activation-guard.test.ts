@@ -1,8 +1,9 @@
 /**
  * Static scan for the activation gate (audit B1, plan §B1.2): every route
  * under `src/app/[locale]/[book]/` must refuse an unactivated book before it
- * reads any content, and every dynamic page must 404 unknown params at the
- * router. A new `[book]` route that forgets the guard fails here.
+ * reads any content (`isActiveBook` → `notFound()`). `dynamicParams = false` is
+ * deliberately NOT used (plan §B1.13: it logs an internal NoFallbackError per
+ * 404 on Next 16). A new `[book]` route that forgets the guard fails here.
  */
 import { existsSync, readdirSync, readFileSync } from "node:fs";
 import path from "node:path";
@@ -82,11 +83,9 @@ describe("activation guard — [book] opengraph-image routes", () => {
     const guard = body.indexOf("isActiveBook(");
     expect(guard).toBeGreaterThan(-1);
     expect(guard).toBeLessThan(body.indexOf("getTranslations("));
-    // A metadata image route without its own generateStaticParams must not
-    // set `dynamicParams = false`: under Turbopack that 404s every image.
-    if (/export const dynamicParams = false/.test(src)) {
-      expect(src).toMatch(/export (async )?function generateStaticParams\(/);
-    }
+    // Metadata image routes have no generateStaticParams, so
+    // `dynamicParams = false` would 404 every image under Turbopack.
+    expect(src).not.toMatch(/export const dynamicParams = false/);
   });
 });
 

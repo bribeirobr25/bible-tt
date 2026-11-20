@@ -96,7 +96,11 @@ export function DeeperView({
           {isTabbed ? (
             // The tablist holds only the tabs; the People link sits beside it
             // (a link is not a tab, so it must not be a tablist child).
-            <div role="tablist" className="flex flex-wrap gap-1.5">
+            <div
+              role="tablist"
+              aria-label={t("chapter.deeperRef")}
+              className="flex flex-wrap gap-1.5"
+            >
               {tabs.map(({ key, label }, i) => (
                 <button
                   key={key}

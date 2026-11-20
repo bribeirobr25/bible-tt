@@ -512,7 +512,7 @@ html.tt-js .reveal.in {
 .tt-chapter-title { font-family: var(--font-reading); font-weight: 300; letter-spacing: -0.02em; font-size: clamp(2.4rem, 6vw, 4.4rem); line-height: 0.95; color: var(--color-text-primary); }
 .tt-ref { font-family: var(--font-mono); font-size: 12px; letter-spacing: 0.1em; text-transform: uppercase; color: var(--color-text-muted); margin-bottom: 8px; }
 
-.tt-status-pill { display: inline-flex; align-items: center; gap: 7px; font-family: var(--font-mono); font-size: 11px; text-transform: uppercase; letter-spacing: 0.06em; color: var(--color-ochre); border: 1px solid var(--color-border); border-radius: 999px; padding: 5px 11px; }
+.tt-status-pill { display: inline-flex; align-items: center; gap: 7px; font-family: var(--font-mono); font-size: 12px; text-transform: uppercase; letter-spacing: 0.06em; color: var(--color-ochre); border: 1px solid var(--color-border); border-radius: 999px; padding: 5px 11px; }
 .tt-status-pill .dot { width: 7px; height: 7px; border-radius: 50%; background: var(--color-ochre); flex: none; }
 
 /* segmented 3-door pill */

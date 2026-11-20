@@ -639,7 +639,8 @@ describe("per-file checks", () => {
       }),
       "de/acts/CHAPTER-1.md",
     );
-    expect(cls(run(C.s8, de))).toEqual(["pill-word≠badge-term"]);
+    // retired in Step 4 batch 1: the pill prints the i18n term, not this word
+    expect(run(C.s8, de)).toEqual([]);
     const deOk = ctxOf(
       CHAPTER(["x"], { locale: "de", status: "vorläufig (Regel 28)" }),
       "de/acts/CHAPTER-1.md",
@@ -735,7 +736,6 @@ describe("per-file checks", () => {
       "ascii-arrow",
       "marker-in-table",
       "odd-asterisk",
-      "siglum-asterisk",
       "unbalanced-brace",
     ]);
   });
