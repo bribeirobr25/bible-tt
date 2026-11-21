@@ -56,23 +56,23 @@ In 4,3 wird die Vergangenheit der Leser zusammengefasst als **τὸ βούλημ
 
 Das trockene Understatement **ἀρκετός** (*arketos*, „genügend / genug", 4,3) — „die Zeit, *die* vergangen *ist*, *ist* genug" dafür — wird bewahrt statt geglättet. In 4,4 wird die Reaktion der Außenstehenden mit zwei genauen Verben benannt: sie sind „befremdet" (*xenizontai*, wörtl. „finden es fremd / befremdlich"), dass die Gläubigen nicht mehr *mit* ihnen „**mitlaufen**" (*syntrechontōn*) in die „Flut der Maßlosigkeit" (*tēs asōtias anachysin*), und so **lästern** sie (*blasphēmountes*, „verleumden / lästern") sie. Die TT hält die soziale Mechanik — Rückzug, Verblüffung, Verleumdung — genau so, wie das Griechische sie darlegt (→ §I1).
 
-### A3. **4,6 „die gute Nachricht sogar den Toten verkündigt" — der Knackpunkt des Kapitels (P-010)**
+### A3. **4,6 „die gute Nachricht sogar den Toten verkündigt" — der Knackpunkt des Kapitels**
 **[TEXTUELL — VERIFIZIERT (für den Wortlaut); MÖGLICHE SCHLUSSFOLGERUNG — UNSICHER (für den Referenten)]**
 
-Die Wendung **καὶ νεκροῖς εὐηγγελίσθη** (*kai nekrois euēngelisthē*, 4,6), „die gute Nachricht wurde sogar *den* Toten verkündigt", ist der Knackpunkt des Kapitels mit hoher Zurückhaltung und wird wörtlich wiedergegeben, ohne dass eine Lesart übernommen wird (Regel 3 / Regel 13; redaktionelles Log P-010). Die drei lebendigen Lesarten:
+Die Wendung **καὶ νεκροῖς εὐηγγελίσθη** (*kai nekrois euēngelisthē*, 4,6), „die gute Nachricht wurde sogar *den* Toten verkündigt", ist der Knackpunkt des Kapitels mit hoher Zurückhaltung und wird wörtlich wiedergegeben, ohne dass eine Lesart übernommen wird (Regel 3 / Regel 13). Die drei lebendigen Lesarten:
 
 - **(a) Die nun verstorbenen Christen.** „Die Toten" sind Gläubige, die die gute Nachricht hörten, während sie lebten, und seither gestorben sind; der Zweck-Satz erklärt dann, dass sie, obwohl „**gerichtet nach Menschen in *dem* Fleisch**" (d.h. gestorben, das gemeinsame menschliche Los), „**nach Gott leben in *dem* {a:Wind/Geist}**". Bei dieser Lesart beruhigt der Vers Leser, die um Gläubige trauern, die vor dem erwarteten Ende starben (vgl. 4,7).
-- **(b) Die im Abstieg evangelisierten Toten.** „Die Toten" sind die, die in der Verkündigung von 3,19 angesprochen werden — meist die Ungehorsamen aus Noachs (Noah) Tagen — gehört zwischen dem Tod und der Auferstehung des Messias. Dies bindet 4,6 unmittelbar an den Knackpunkt von 3,18-20 (P-006).
+- **(b) Die im Abstieg evangelisierten Toten.** „Die Toten" sind die, die in der Verkündigung von 3,19 angesprochen werden — meist die Ungehorsamen aus Noachs (Noah) Tagen — gehört zwischen dem Tod und der Auferstehung des Messias. Dies bindet 4,6 unmittelbar an den Knackpunkt von 3,18-20.
 - **(c) Eine allgemeine Verkündigung an die Toten.** Ein weiterer Abstieg-und-Verkündigung an das Reich der Toten, ohne anzugeben, welche Toten.
 
-Die Fleisch/Geist-Antithese (**σαρκὶ… πνεύματι**, artikellose Dative) ist dieselbe Konstruktion wie 3,18 (P-006), und der {a:Wind/Geist}-Schrägstrich wird behalten. Das Verb **εὐηγγελίσθη** („gute Nachricht wurde verkündet") ist spezifischer als das *ekēryxen* („verkündigte") von 3,19 — ein textliches Datum, das manche Leser dazu zieht, die zwei Verse zu unterscheiden, andere, sie zu harmonisieren. Die TT entscheidet nicht; sie bewahrt die Verbindung zu 3,19 und löst keine auf. → redaktionelles Log P-010, P-006; die Vers-Anmerkung zu 4,6; Querverweis 3,19 im Kapitel-3-Begleitmaterial.
+Die Fleisch/Geist-Antithese (**σαρκὶ… πνεύματι**, artikellose Dative) ist dieselbe Konstruktion wie 3,18, und der {a:Wind/Geist}-Schrägstrich wird behalten. Das Verb **εὐηγγελίσθη** („gute Nachricht wurde verkündet") ist spezifischer als das *ekēryxen* („verkündigte") von 3,19 — ein textliches Datum, das manche Leser dazu zieht, die zwei Verse zu unterscheiden, andere, sie zu harmonisieren. Die TT entscheidet nicht; sie bewahrt die Verbindung zu 3,19 und löst keine auf. → die Vers-Anmerkung zu 4,6; Querverweis 3,19 im Kapitel-3-Begleitmaterial.
 
 ### A4. „Gerichtet… im Fleisch / lebend… im Geist" — die aus 3,18 übernommene Antithese (4,6)
 **[TEXTUELL — VERIFIZIERT]**
 
 Der Zweck-Satz von 4,6 — **ἵνα κριθῶσι… κατὰ ἀνθρώπους σαρκὶ ζῶσι δὲ κατὰ θεὸν πνεύματι** — setzt zwei präpositional/dativische Sphären gegeneinander: gerichtet „**nach Menschen, in *dem* Fleisch**", aber lebend „**nach Gott, in *dem* {a:Wind/Geist}**". Dies ist dieselbe Fleisch/Geist-Dativ-Parallele, die der Brief in 3,18 zieht („getötet im Fleisch, lebendig gemacht in {a:Wind/Geist}"), wo die Dative entweder als **Sphäre** („im Bereich des Fleisches / Geistes") oder als **Wirkkraft** („durch Fleisch / durch den Geist") gelesen werden können. Die TT behält den Schrägstrich und die bloßen Dative, statt sie in einen einzigen aufgelösten Sinn zusammenfallen zu lassen.
 
-Die doppelten **κατά** („nach")-Wendungen — *kata anthrōpous* („nach Menschen") und *kata theon* („nach Gott") — rahmen den Kontrast als zwei Maßstäbe oder Standards, den menschlichen und den göttlichen, statt als zwei Zeiten oder zwei Personen. Die TT bewahrt die Symmetrie. → §A3; redaktionelles Log P-006.
+Die doppelten **κατά** („nach")-Wendungen — *kata anthrōpous* („nach Menschen") und *kata theon* („nach Gott") — rahmen den Kontrast als zwei Maßstäbe oder Standards, den menschlichen und den göttlichen, statt als zwei Zeiten oder zwei Personen. Die TT bewahrt die Symmetrie. → §A3.
 
 ### A5. „Das Ende aller Dinge ist nahe gekommen" — das Perfekt (4,7)
 **[TEXTUELL — VERIFIZIERT]**
@@ -206,7 +206,7 @@ Die TT gibt „**teilhaben an** den Leiden" wieder statt „einen Anteil haben a
 
 Zusammen mit 3,19 gelesen, wurden die Worte „die gute Nachricht wurde sogar *den* Toten verkündigt" (4,6) zu einem hauptsächlichen schriftgemäßen Anker für die Lehre vom **Abstieg des Messias zu den Toten** („hinabgestiegen zur Hölle", *descendit ad inferos*) — eine Wendung, die in spätere Formen des Apostolikums Eingang fand und in der patristischen und mittelalterlichen Theologie ausgearbeitet wurde (z.B. die „Höllenfahrt", dramatisiert im *Nikodemusevangelium*). Ausleger von der Antike an (Clemens von Alexandria, Origenes) gebrauchten 4,6/3,19, um zu erörtern, ob die Toten — und welche Toten — die Verkündigung nach dem Tod empfangen konnten. Dies sind dokumentierte Rezeptionen, aufgebaut auf den Versen; das Griechische von 4,6 selbst gibt den Abstieg, die Empfänger oder den Inhalt nicht an (§A3).
 
-Die TT gibt 4,6 wörtlich wieder, bewahrt die Verbindung zu 3,19 und übernimmt keine der späteren lehrmäßigen Konstruktionen. → §A3; redaktionelles Log P-010, P-006.
+Die TT gibt 4,6 wörtlich wieder, bewahrt die Verbindung zu 3,19 und übernimmt keine der späteren lehrmäßigen Konstruktionen. → §A3.
 
 **Quelle:** Kelly, J.N.D., *Early Christian Creeds*, 3. Aufl., Longman, 1972, S. 378-383; Dalton, W.J., *Christ's Proclamation to the Spirits: A Study of 1 Peter 3:18–4:6*, 2. Aufl., Pontifical Biblical Institute, 1989, S. 42-67.
 
@@ -292,6 +292,4 @@ Die Natur des Leidens hinter der „brennenden *Prüfung*" (4,12) ist die zentra
 
 
 **Redaktionelle Herkunft:**
-- Entworfen von: KI (Claude, Anthropic)
-- Datum: 2026-06-26
-- Begutachtet von: ausstehend
+- KI-gestützter Entwurf, noch nicht geprüft.

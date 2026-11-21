@@ -181,14 +181,14 @@ Der Brief ist ein *Rundbrief* — gerichtet an Leser über fünf Provinzen hinwe
 ### D4. Die Haustafel
 **[HISTORISCH / ARCHÄOLOGISCH — WAHRSCHEINLICH]**
 
-1. Petrus 2,18–3,7 gehört zu einer anerkannten antiken Form, der **Haustafel** — einem strukturierten Satz von Anweisungen an die Mitglieder eines Hauswesens: hier Haussklaven gegenüber Herren (2,18–25), Ehefrauen gegenüber Ehemännern und Ehemänner gegenüber Ehefrauen (3,1–7). Solche Tafeln haben Parallelen in der griechisch-römischen Moralliteratur (z. B. Aristoteles' Erörterung der Hauswirtschaft) und in anderen frühchristlichen Briefen (Kolosser, Epheser). Die Form behandelt die Ordnung des antiken Hauswesens innerhalb seiner sozialen Welt. Dies ist die **Stelle höchster Zurückhaltung** des Briefes: Die TT gibt das Griechische treu wieder, bietet die Auslegungsgeschichte in Stufe 2 und ergreift im Haupttext keine Partei (Regel 3; siehe das redaktionelle Protokoll, P-009). Die TT verzeichnet die Form als Hintergrund und lässt sie keine Wiedergabe prägen.
+1. Petrus 2,18–3,7 gehört zu einer anerkannten antiken Form, der **Haustafel** — einem strukturierten Satz von Anweisungen an die Mitglieder eines Hauswesens: hier Haussklaven gegenüber Herren (2,18–25), Ehefrauen gegenüber Ehemännern und Ehemänner gegenüber Ehefrauen (3,1–7). Solche Tafeln haben Parallelen in der griechisch-römischen Moralliteratur (z. B. Aristoteles' Erörterung der Hauswirtschaft) und in anderen frühchristlichen Briefen (Kolosser, Epheser). Die Form behandelt die Ordnung des antiken Hauswesens innerhalb seiner sozialen Welt. Dies ist die **Stelle höchster Zurückhaltung** des Briefes: Die TT gibt das Griechische treu wieder, bietet die Auslegungsgeschichte in den Anmerkungen und ergreift im Haupttext keine Partei (Regel 3). Die TT verzeichnet die Form als Hintergrund und lässt sie keine Wiedergabe prägen.
 
 **Quelle:** Balch, *Let Wives Be Submissive: The Domestic Code in 1 Peter* (1981); Elliott, *1 Peter* (AB), 503–509, 549–599; Achtemeier, *1 Peter* (Hermeneia), 52–55, 187–217.
 
 ### D5. „Babylon" (5,13) als Deckname für Rom
 **[MÖGLICHE SCHLUSSFOLGERUNG — WAHRSCHEINLICH]**
 
-Der Gruß von „der, die in Babylon ist" (5,13) wird weithin als eine verschlüsselte Bezugnahme auf **Rom** gelesen. Bis zum Ende des ersten Jahrhunderts war „Babylon" zu einem geläufigen jüdischen und christlichen Decknamen für Rom geworden — die große Reichsmacht, die wie das alte Babylon Jerusalem und seinen Tempel zerstört hatte (eine Verwendung, die in der Offenbarung, im 4. Esra und im 2. Baruch hervortritt). Nach dieser Lesart ist der Brief von Rom aus geschrieben, und die Gestalt Babylons verstärkt die Verbannungsidentität der Leser: Sie leben, wie die Absender des Briefes, in „Babylon". Eine Minderheit nimmt „Babylon" wörtlich (die Stadt in Mesopotamien) oder als das römische Kastell in Ägypten, doch die Deckname-Lesart ist vorherrschend. Die TT gibt den Ortsnamen wieder, wie der Text ihn bietet — Bavel (Babylon) —, und vermerkt das wahrscheinliche Bezugsobjekt in Stufe 2.
+Der Gruß von „der, die in Babylon ist" (5,13) wird weithin als eine verschlüsselte Bezugnahme auf **Rom** gelesen. Bis zum Ende des ersten Jahrhunderts war „Babylon" zu einem geläufigen jüdischen und christlichen Decknamen für Rom geworden — die große Reichsmacht, die wie das alte Babylon Jerusalem und seinen Tempel zerstört hatte (eine Verwendung, die in der Offenbarung, im 4. Esra und im 2. Baruch hervortritt). Nach dieser Lesart ist der Brief von Rom aus geschrieben, und die Gestalt Babylons verstärkt die Verbannungsidentität der Leser: Sie leben, wie die Absender des Briefes, in „Babylon". Eine Minderheit nimmt „Babylon" wörtlich (die Stadt in Mesopotamien) oder als das römische Kastell in Ägypten, doch die Deckname-Lesart ist vorherrschend. Die TT gibt den Ortsnamen wieder, wie der Text ihn bietet — Bavel (Babylon) —, und nennt das wahrscheinliche Bezugsobjekt in den Anmerkungen.
 
 **Quelle:** Elliott, *1 Peter* (AB), 131–134, 882–887; Achtemeier, *1 Peter* (Hermeneia), 353–354.
 
@@ -216,7 +216,7 @@ Der griechische Text des 1. Petrus wurde durch die neutestamentliche Handschrift
 ### E2. Ein vergleichsweise stabiler Text
 **[TEXTUELL — VERIFIZIERT]**
 
-Anders als die Apostelgeschichte — deren alexandrinisch/westliche Divergenz die größte im Neuen Testament ist — **ist der Text des 1. Petrus vergleichsweise stabil.** Es gibt kein großflächiges Parallelausgaben-Problem; die Handschriftentradition ist verhältnismäßig einheitlich, und die Varianten sind meist klein (Wortstellung, Konjunktionen, das Vorhandensein oder Fehlen kurzer Wendungen). Einige tragen exegetisches Gewicht — zum Beispiel der Wortlaut in 3,18 (ob der Messias für Sünden „litt" oder „starb") und die Lesart in 4,14 —, doch diese sind örtlich, keine durchgängige Divergenz. **Die TT folgt NA28.** Bedeutsame Varianten werden in Stufe 2 vermerkt, statt stillschweigend übernommen (Regel 22).
+Anders als die Apostelgeschichte — deren alexandrinisch/westliche Divergenz die größte im Neuen Testament ist — **ist der Text des 1. Petrus vergleichsweise stabil.** Es gibt kein großflächiges Parallelausgaben-Problem; die Handschriftentradition ist verhältnismäßig einheitlich, und die Varianten sind meist klein (Wortstellung, Konjunktionen, das Vorhandensein oder Fehlen kurzer Wendungen). Einige tragen exegetisches Gewicht — zum Beispiel der Wortlaut in 3,18 (ob der Messias für Sünden „litt" oder „starb") und die Lesart in 4,14 —, doch diese sind örtlich, keine durchgängige Divergenz. **Die TT folgt NA28.** Bedeutsame Varianten werden in den Anmerkungen verzeichnet, statt stillschweigend übernommen (Regel 22).
 
 **Quelle:** Metzger, *A Textual Commentary on the Greek New Testament* (2. Aufl., 1994), 615–626; Achtemeier, *1 Peter* (Hermeneia), 1–7.
 
@@ -253,9 +253,9 @@ Gemäß der TT-Politik zur Namenswiedergabe erscheint das erste Vorkommen eines 
 Die TT kennzeichnet den Text mit einer kleinen Reihe von Konventionen, denen der Leser durch 1. Petrus 1–5 hindurch begegnen wird:
 
 - `*hinzugefügt*` — für die deutsche Grammatik hinzugefügte Wörter (Regel 11), kursiv dargestellt. (Häufig hier: die Kopula in „ich *bin* heilig", 1,16; „Gepriesen *sei*", 1,3.)
-- `{t:…}` — ein transliterierter Begriff, mit seiner Glosse mitgeführt, wo der Text selbst eine bietet.
-- `{a:…}` — ein lebendiger Doppelsinn, der offengehalten statt aufgelöst wird, z. B. {a:Wind/Geist} für πνεῦμα, das durchweg offen bleibt (1,2.11.12; 3,18.19; 4,6.14).
-- `@@…@@` — göttliche Rede (Regel 30). 1. Petrus ist die Ermahnung des Apostels **in seiner eigenen Stimme** — es gibt keine erzählte göttliche Rede. Nur Gottes Wort in der ersten Person *innerhalb* eines AT-Zitats wird gekennzeichnet: **1,16** („@@seid heilig, weil ich heilig *bin*@@", Lev 11,44/19,2) und **2,6** („siehe, ich lege in Zion einen Stein…", Jes 28,16). Zitate, die *über* den Herrn in der dritten Person sprechen — die menschliche Stimme des Psalmisten und des Propheten (1,24–25, Jes 40; 2,3, Ps 34; 3,10–12, Ps 34) —, werden **nicht** gekennzeichnet.
+- {t:…} — ein transliterierter Begriff, mit seiner Glosse mitgeführt, wo der Text selbst eine bietet.
+- {a:…} — ein lebendiger Doppelsinn, der offengehalten statt aufgelöst wird, z. B. {a:Wind/Geist} für πνεῦμα, das durchweg offen bleibt (1,2.11.12; 3,18.19; 4,6.14).
+- @@…@@ — göttliche Rede (Regel 30). 1. Petrus ist die Ermahnung des Apostels **in seiner eigenen Stimme** — es gibt keine erzählte göttliche Rede, daher ist im 1. Petrus nichts gekennzeichnet. Auch Gottes Wort in der ersten Person *innerhalb* eines AT-Zitats wird **nicht** gekennzeichnet, weil der Apostel es zitiert („es steht geschrieben"): **1,16** („seid heilig, weil ich heilig *bin*", Lev 11,44/19,2) und **2,6** („siehe, ich lege in Zion einen Stein…", Jes 28,16). Zitate, die *über* den Herrn in der dritten Person sprechen — die menschliche Stimme des Psalmisten und des Propheten (1,24–25, Jes 40; 2,3, Ps 34; 3,10–12, Ps 34) —, werden ebenfalls **nicht** gekennzeichnet.
 
 ### F4. Das Verbannungs-Schlüsselwort — *paroikoi / parepidēmoi / diaspora*
 **[TEXTUELL — VERIFIZIERT]**
@@ -266,15 +266,15 @@ Die Identitätssprache des Briefes ist sein beherrschendes Bild, und die TT häl
 - **πάροικοι / παροικία** (*paroikoi / paroikia*) = „ansässige Fremde" / „Zeit der Fremdlingschaft" (1,17; 2,11)
 - **διασπορά** (*diaspora*) = „Zerstreuung" (1,1)
 
-Diese werden mit ihrer wörtlichen Verbannungs-/Fremdling-Kraft wiedergegeben, wobei der Doppelsinn (wörtlicher Status / theologische Selbstbeschreibung; siehe §B5) in Stufe 2 vermerkt wird. Das ganze Selbstverständnis der Leser — zu Hause und nicht zu Hause — hängt an diesen Wörtern.
+Diese werden mit ihrer wörtlichen Verbannungs-/Fremdling-Kraft wiedergegeben, wobei der Doppelsinn (wörtlicher Status / theologische Selbstbeschreibung; siehe §B5) in den Anmerkungen verzeichnet wird. Das ganze Selbstverständnis der Leser — zu Hause und nicht zu Hause — hängt an diesen Wörtern.
 
 ### F5. Kyrios — Gottesname-Politik im 1. Petrus (Option C)
 **[TEXTUELL — VERIFIZIERT]**
 
-Wenn 1. Petrus Stellen der Hebräischen Bibel zitiert oder widerhallt, die das Tetragramm (der vierbuchstabige hebräische Gottesname יהוה, transliteriert JHWH) enthalten, verwendet der griechische Text κύριος (*kyrios*). Gemäß der TT-Gottesname-Politik (Option C, RULES-GS.md):
+Wenn 1. Petrus Stellen der Hebräischen Bibel zitiert oder widerhallt, die das Tetragramm (der vierbuchstabige hebräische Gottesname יהוה, transliteriert JHWH) enthalten, verwendet der griechische Text κύριος (*kyrios*). Gemäß der TT-Gottesname-Politik (Option C):
 
 - Der Haupttext gibt *kyrios* als „der Herr" in Kontexten alttestamentlicher Zitate und AT-Anklänge wieder.
-- Eine Anmerkung der Stufe 2 identifiziert die Quelle und stellt fest, dass das zugrundeliegende Hebräische das Tetragramm hat.
+- Eine Anmerkung identifiziert die Quelle und stellt fest, dass das zugrundeliegende Hebräische das Tetragramm hat.
 - Wenn sich *kyrios* auf Yeshua (Jesus) oder einen menschlichen Herrn bezieht (kein AT-JHWH-Bezug), ist keine JHWH-Anmerkung nötig.
 - Mehrdeutige Fälle werden gemäß Regel 13 gekennzeichnet.
 
@@ -284,7 +284,7 @@ Die AT-Zitate tragen **JHWH** hinter dem griechischen *kyrios*:
 - **2,3** (Ps 34,8) — „*der Herr* (JHWH) ist gütig / freundlich."
 - **3,12** (Ps 34,15–16) — „die Augen *des Herrn* (JHWH)… das Angesicht *des Herrn*."
 
-Ein eigener, bewusster Fall ist **3,15**: „heiligt *den Messias* als Herrn", was Jesaja 8,13 („der Herr der Heerscharen") auf den Messias neu anwendet — eine κύριος-*Referenten-Verschiebung* (von JHWH in Jesaja zum Messias hier). Die TT bewahrt, was das Griechische tut, kennzeichnet den Zug (Regel 13) und erläutert ihn in Stufe 2.
+Ein eigener, bewusster Fall ist **3,15**: „heiligt *den Messias* als Herrn", was Jesaja 8,13 („der Herr der Heerscharen") auf den Messias neu anwendet — eine κύριος-*Referenten-Verschiebung* (von JHWH in Jesaja zum Messias hier). Die TT bewahrt, was das Griechische tut, kennzeichnet den Zug (Regel 13) und erläutert ihn in den Anmerkungen.
 
 ### F6. Aktive Regeln mit 1.-Petrus-spezifischen Anwendungen
 **[TEXTUELL — VERIFIZIERT]**
@@ -294,13 +294,13 @@ Ein eigener, bewusster Fall ist **3,15**: „heiligt *den Messias* als Herrn", w
 | *(ohne Nummer)* | Erste Direktive | Die langen periodischen Sätze (1,3–12) in ihrer schwebenden Struktur belassen; theologische Cruces nicht auflösen (die „Geister im Gefängnis", 3,18–20; „das den Toten verkündigte Evangelium", 4,6). Wiedergeben, wie das Griechische es hat. |
 | 1 | Kontrollierte Lexikalische Konsistenz | Begriffe des gesperrten Glossars (*kyrios*, *Christos*, *pneuma*, *baptisma*, *anastrophē*, *elpis*, *psychē*, *hypotassō*) werden in allen fünf Kapiteln einheitlich gemäß GS-Glossar wiedergegeben. |
 | 2 | Ambiguitätsbewahrung | {a:Wind/Geist} (πνεῦμα) wird durchweg offengehalten (1,2.11.12; 3,18–19; 4,6.14). |
-| 3 | Keine importierte Theologie | Die dreieinig geformte Begrüßung (1,2) wird ohne das spätere dogmatische Wort „Dreieinigkeit" wiedergegeben; die Haustafel (2,18–3,7) wird treu wiedergegeben, mit der Auslegungsgeschichte in Stufe 2 und ohne Parteinahme — Zurückhaltung in beide Richtungen. |
+| 3 | Keine importierte Theologie | Die dreieinig geformte Begrüßung (1,2) wird ohne das spätere dogmatische Wort „Dreieinigkeit" wiedergegeben; die Haustafel (2,18–3,7) wird treu wiedergegeben, mit der Auslegungsgeschichte in den Anmerkungen und ohne Parteinahme — Zurückhaltung in beide Richtungen. |
 | 11 | Grammatische Zusätze kennzeichnen | Für die deutsche Grammatik hinzugefügte Wörter erscheinen kursiv (`*hinzugefügt*`); häufig bei verblosem Griechisch (1,3.16). |
 | 13 | Unsicherheitsstufen | Umstrittene Begriffe (der Abstieg / die „Geister im Gefängnis", 3,18–20; die Taufe „rettet euch jetzt", 3,21; „bestimmt" zum Anstoßen, 2,8; die κύριος-Referenten-Verschiebung, 3,15) tragen Vertrauenskennzeichnungen (Wahrscheinlich / Möglich / Unsicher). |
-| 22 | Textkritische Zurückhaltung | Die (bescheidenen) bedeutsamen Varianten — z. B. 3,18; 4,14 — werden in Stufe 2 ohne stillschweigende Übernahme vermerkt. Siehe E2. |
-| 25 | Politik des Göttlichen Namens — GS Option C | κύριος als „der Herr" in AT-Zitats-/Anklangskontexten wiedergegeben, mit Stufe-2-Anmerkung, die JHWH im zugrundeliegenden Hebräischen identifiziert. Siehe F5. |
+| 22 | Textkritische Zurückhaltung | Die (bescheidenen) bedeutsamen Varianten — z. B. 3,18; 4,14 — werden in den Anmerkungen ohne stillschweigende Übernahme verzeichnet. Siehe E2. |
+| 25 | Politik des Göttlichen Namens — GS Option C | κύριος als „der Herr" in AT-Zitats-/Anklangskontexten wiedergegeben, mit einer Anmerkung, die JHWH im zugrundeliegenden Hebräischen identifiziert. Siehe F5. |
 | 29 | Anreicherung nur in Begleittexten | Abfassung, Datierung, der gesellschaftliche Hintergrund, die Geschichte der Haustafel und der „Babylon"-Deckname leben hier und in den Begleittexten — doppelt gekennzeichnet — nicht im Haupttext. |
-| 30 | Kennzeichnung göttlicher Rede | Nur Gottes Wort in der ersten Person innerhalb von AT-Zitaten wird gekennzeichnet (1,16; 2,6); die Ermahnung des Apostels und die AT-Zitate in der dritten Person nicht. Siehe F3. |
+| 30 | Kennzeichnung göttlicher Rede | Nichts wird gekennzeichnet: Gottes Wort in der ersten Person innerhalb von AT-Zitaten (1,16; 2,6) wird vom Apostel zitiert, und seine Ermahnung und die AT-Zitate in der dritten Person sind menschliche Rede. Siehe F3. |
 
 ---
 
@@ -318,4 +318,4 @@ Ein eigener, bewusster Fall ist **3,15**: „heiligt *den Messias* als Herrn", w
 
 ---
 
-> **Redaktionelle Herkunft:** Entworfen von Claude Opus 4.8 (1M Kontext) am 2026-06-26. Noch nicht begutachtet. Diese Einführung ist eine provisorische wissenschaftliche Ressource, geregelt durch TT-Regel 29. Alle Behauptungen tragen doppelte Kennzeichnungen; keine Behauptung sollte als die theologische oder kompositorische Position der TT gelesen werden. Die TT übersetzt den griechischen Text (NA28) und übernimmt keine bestimmte Theorie der Verfasserschaft, der Abfassung, der Datierung oder des gesellschaftlichen Hintergrunds des Briefes.
+> **Redaktionelle Herkunft:** KI-gestützter Entwurf, noch nicht geprüft. Diese Einführung ist eine provisorische wissenschaftliche Ressource, geregelt durch TT-Regel 29. Alle Behauptungen tragen doppelte Kennzeichnungen; keine Behauptung sollte als die theologische oder kompositorische Position der TT gelesen werden. Die TT übersetzt den griechischen Text (NA28) und übernimmt keine bestimmte Theorie der Verfasserschaft, der Abfassung, der Datierung oder des gesellschaftlichen Hintergrunds des Briefes.

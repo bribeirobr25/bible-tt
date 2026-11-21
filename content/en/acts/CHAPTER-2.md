@@ -35,7 +35,7 @@
 
 Notes are tagged by type — **Critical · Lexical · Grammatical · Theological** — each shown with its colour (see the legend at the top of the Notes view).
 
-**This is the Pentecost chapter — the fulfillment of the promise of Acts 1:5.** On the festival of Pentecost (Shavuot) the holy wind/spirit comes with a sound like wind and tongues like fire, and the gathered believers speak in other tongues/languages, heard by Jews from every nation (vv.1-13). Kefa then delivers the first apostolic sermon: he reads the event through Yoel (Joel 2), proclaims Yeshua's death, resurrection, and exaltation through Psalms 16 and 110, and calls for repentance and immersion (vv.14-41). The chapter closes with a portrait of the new community (vv.42-47). **Note on speech-marking (Rule 30):** the first-person divine speech of the Joel oracle ("I will pour out my wind/spirit…") and the LORD's words in Psalm 110 ("Sit at my right hand…") are marked **@@…@@**; Peter's own preaching is human speech and is not. **The headline crux is 2:34** — Psalm 110:1's two distinct referents under one Greek word κύριος ("*The Lord* [YHWH] said to my *lord* [the Messiah]"), rendered to keep both and noted (Rule 13).
+**This is the Pentecost chapter — the fulfillment of the promise of Acts 1:5.** On the festival of Pentecost (Shavuot) the holy wind/spirit comes with a sound like wind and tongues like fire, and the gathered believers speak in other tongues/languages, heard by Jews from every nation (vv.1-13). Kefa then delivers the first apostolic sermon: he reads the event through Yoel (Joel 2), proclaims Yeshua's death, resurrection, and exaltation through Psalms 16 and 110, and calls for repentance and immersion (vv.14-41). The chapter closes with a portrait of the new community (vv.42-47). **Note on speech-marking (Rule 30):** the first-person divine speech of the Joel oracle ("I will pour out my wind/spirit…") and the LORD's words in Psalm 110 ("Sit at my right hand…") are **not** marked — Peter is quoting them, so a human speaker is speaking; Peter's own preaching is likewise human speech. **The headline crux is 2:34** — Psalm 110:1's two distinct referents under one Greek word κύριος ("*The Lord* [YHWH] said to my *lord* [the Messiah]"), rendered to keep both and noted (Rule 13).
 
 ---
 
@@ -45,7 +45,7 @@ Notes are tagged by type — **Critical · Lexical · Grammatical · Theological
 
 **Key themes:** Pentecost/Shavuot as the harvest-festival setting for the Spirit's "harvest" of the nations; the wind/spirit theophany (sound, fire, tongues) recalling Sinai; the reversal of Babel — one message heard in many languages; Joel's "last days" and the democratization of the Spirit (sons and daughters, young and old, male and female servants); the kerygma (proclamation) pattern — Scripture, the cross by God's plan and human hands, the resurrection, the exaltation, the call to respond; the Davidic argument from Psalms 16 and 110 that the Messiah's resurrection and enthronement were promised; "Lord and Messiah" as the confession; repentance, immersion in Jesus's name, forgiveness, and the gift of the Spirit as the response; the communal life — teaching, fellowship, bread, prayer, shared goods — as the Spirit's first fruit.
 
-**Watch for:** "Tongues" shifts sense — the visible "tongues like fire" (v.3, the fire-shape) versus the "other tongues/languages" of speech (vv.4, 11, kept with the slash). The Joel citation's first-person divine speech is marked (vv.17-21); Peter's sermon is not. *Kyrios* carries YHWH in the citations ("the day of the Lord," "calls on the name of the Lord," v.21; "I saw the Lord," v.25) and at 2:34 carries **two referents at once** — the crux of the chapter. At 2:38 the preposition *eis* ("for/unto the release of sins") is theologically loaded; the TT preserves it without resolving cause-versus-purpose. *Hades* (vv.27, 31) renders the LXX of Sheol. The community summary (vv.42-47) uses *koinōnia* ("fellowship/sharing").
+**Watch for:** "Tongues" shifts sense — the visible "tongues like fire" (v.3, the fire-shape) versus the "other tongues/languages" of speech (vv.4, 11, kept with the slash). The Joel citation's first-person divine speech (vv.17-21) is not marked — Peter is quoting it (Rule 30). *Kyrios* carries YHWH in the citations ("the day of the Lord," "calls on the name of the Lord," v.21; "I saw the Lord," v.25) and at 2:34 carries **two referents at once** — the crux of the chapter. At 2:38 the preposition *eis* ("for/unto the release of sins") is theologically loaded; the TT preserves it without resolving cause-versus-purpose. *Hades* (vv.27, 31) renders the LXX of Sheol. The community summary (vv.42-47) uses *koinōnia* ("fellowship/sharing").
 
 **Connection:** Acts 2 is woven from the Hebrew Bible. The wind, fire, and the festival evoke Sinai (Ex 19), where Jewish tradition located the giving of the Torah at Shavuot; the many languages reverse Babel (Gen 11). The sermon's backbone is three texts: Joel 2:28-32 (the outpoured Spirit and "the name of the LORD"), Psalm 16:8-11 (the holy one not abandoned to Sheol/Hades), and Psalm 110:1 (the LORD's word to David's lord). The promise "to you and to your children and to all who are far off" (v.39) echoes Isaiah 57:19 and Joel 2:32. The community of shared goods recalls the covenant ideal of "no needy among you" (Deut 15:4).
 
@@ -258,7 +258,7 @@ but this is what has been spoken through the prophet Yoel (Joel):
 > **Notes**
 >
 > 🔴 **CRITICAL — THE JOEL ORACLE: DIVINE SPEECH (Rule 30)**
-> - The citation is first-person speech of God ("says God… I will pour out") → marked **@@…@@** (Rule 30 / decision A-004). Acts reads **ἐν ταῖς ἐσχάταις ἡμέραις** ("in the last days") where Joel/LXX has "after these things" — interpreting the Spirit's coming as the inauguration of the last days. **ἐκχεῶ ἀπὸ τοῦ πνεύματός μου ἐπὶ πᾶσαν σάρκα** = "I will pour out from my {a:wind/spirit} upon all flesh" — the democratized Spirit (sons/daughters, young/old). → Companion §B2 (Joel and the last days).
+> - The citation is first-person speech of God ("says God… I will pour out"), quoted by Peter → not marked (Rule 30). Acts reads **ἐν ταῖς ἐσχάταις ἡμέραις** ("in the last days") where Joel/LXX has "after these things" — interpreting the Spirit's coming as the inauguration of the last days. **ἐκχεῶ ἀπὸ τοῦ πνεύματός μου ἐπὶ πᾶσαν σάρκα** = "I will pour out from my {a:wind/spirit} upon all flesh" — the democratized Spirit (sons/daughters, young/old). → Companion §B2 (Joel and the last days).
 
 ---
 
@@ -280,7 +280,7 @@ And I will give wonders in the sky above and signs upon the earth below — bloo
 > **Notes**
 >
 > 🔵 **"WONDERS… AND SIGNS"**
-> - **τέρατα… καὶ σημεῖα** (*terata… kai sēmeia*) = "wonders and signs" — the cosmic portents of the Day of the LORD; in Acts the same pairing describes the apostles' deeds (2:43; 4:30). Still within God's first-person oracle (@@…@@).
+> - **τέρατα… καὶ σημεῖα** (*terata… kai sēmeia*) = "wonders and signs" — the cosmic portents of the Day of the LORD; in Acts the same pairing describes the apostles' deeds (2:43; 4:30). Still within God's first-person oracle, quoted by Peter (not marked, Rule 30).
 
 ---
 
@@ -302,7 +302,7 @@ And it will be *that* everyone who calls upon the name of *the* Lord will be sav
 > **Notes**
 >
 > 🔴 **CRITICAL — "EVERYONE WHO CALLS ON THE NAME OF THE LORD"**
-> - **πᾶς ὃς ἂν ἐπικαλέσηται τὸ ὄνομα κυρίου σωθήσεται** (*pas hos an epikalesētai to onoma kyriou sōthēsetai*) = "everyone who calls upon the name of *the* Lord will be saved." In Joel, *kyrios* = **YHWH** (Option C). The sermon will redefine "the name" christologically (v.38, immersion "upon the name of Yeshua") — the same κύριος applied to Jesus at v.36; the TT keeps "the Lord" and tracks the referent in the notes. The Joel divine-speech citation (@@…@@) closes here. → Companion §B2.
+> - **πᾶς ὃς ἂν ἐπικαλέσηται τὸ ὄνομα κυρίου σωθήσεται** (*pas hos an epikalesētai to onoma kyriou sōthēsetai*) = "everyone who calls upon the name of *the* Lord will be saved." In Joel, *kyrios* = **YHWH** (Option C). The sermon will redefine "the name" christologically (v.38, immersion "upon the name of Yeshua") — the same κύριος applied to Jesus at v.36; the TT keeps "the Lord" and tracks the referent in the notes. The Joel citation (God's first-person speech, quoted by Peter — not marked) closes here. → Companion §B2.
 
 ---
 
@@ -444,8 +444,8 @@ For David did not ascend into the heavens, but he himself says: 'The Lord said t
 
 > **Notes**
 >
-> 🔴 **CRITICAL — PSALM 110:1: THE DOUBLE *KYRIOS* (decision A-005)**
-> - **εἶπεν ὁ κύριος τῷ κυρίῳ μου** (*eipen ho kyrios tō kyriō mou*) = "*The* Lord said to my lord." Two distinct referents under one Greek word: the first **κύριος = YHWH** (the speaker; Option C — DE→JHWH, PT/ES→YHWH in propagation); the second **τῷ κυρίῳ μου = the Messiah** (David's "lord," the addressee). The whole Davidic argument turns on this distinction. The TT renders "The Lord said to my lord" and the LORD's quoted command "Sit at my right hand…" is divine speech → marked @@…@@. **[the two referents: PROBABLE; the messianic application is the sermon's claim.]** → Companion §B4 (Psalm 110 and the enthronement).
+> 🔴 **CRITICAL — PSALM 110:1: THE DOUBLE *KYRIOS***
+> - **εἶπεν ὁ κύριος τῷ κυρίῳ μου** (*eipen ho kyrios tō kyriō mou*) = "*The* Lord said to my lord." Two distinct referents under one Greek word: the first **κύριος = YHWH** (the speaker; Option C); the second **τῷ κυρίῳ μου = the Messiah** (David's "lord," the addressee). The whole Davidic argument turns on this distinction. The TT renders "The Lord said to my lord" and the LORD's quoted command "Sit at my right hand…" is divine speech quoted by Peter → not marked (Rule 30). **[the two referents: PROBABLE; the messianic application is the sermon's claim.]** → Companion §B4 (Psalm 110 and the enthronement).
 
 ---
 
@@ -456,7 +456,7 @@ until I set your enemies *as* a footstool for your feet."'
 > **Notes**
 >
 > 🔵 **"A FOOTSTOOL FOR YOUR FEET"**
-> - **ὑποπόδιον τῶν ποδῶν σου** (*hypopodion tōn podōn sou*) = "a footstool for your feet" — the enemies' subjugation under the enthroned Messiah. The LORD's first-person command continues the divine speech marked at v.34. Psalm 110:1 is the most-cited HB verse in the GS.
+> - **ὑποπόδιον τῶν ποδῶν σου** (*hypopodion tōn podōn sou*) = "a footstool for your feet" — the enemies' subjugation under the enthroned Messiah. The LORD's first-person command continues the divine speech begun at v.34 (quoted, so not marked). Psalm 110:1 is the most-cited HB verse in the GS.
 
 ---
 

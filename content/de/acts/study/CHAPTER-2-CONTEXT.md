@@ -82,12 +82,12 @@ Die TT hält die Nähte der Predigt (die „dies ist jenes"-Formel von V.16; die
 
 Die Predigt ist auf drei HB-Zitaten gebaut: **Joel 2,28-32** (LXX 3,1-5), der ausgegossene Geist und „jeder, der den Namen *des* Herrn anruft" (Vv.17-21); **Psalm 16,8-11**, „du wirst meine Seele nicht dem Hades überlassen" (Vv.25-28.31); und **Psalm 110,1**, „der Herr sprach zu meinem Herrn" (Vv.34-35). Die Apostelgeschichte zitiert durchweg die **LXX**-Form (z.B. *glōssa*, „Zunge", für hebräisch *kavod*, „Herrlichkeit", in V.26; *en tais eschatais hēmerais*, „in den letzten Tagen", wo Joel/LXX „nach diesem" hat, V.17).
 
-Gemäß Regel 30 sind die göttlichen Ich-Anteile mit **@@…@@** gekennzeichnet (Joels „ich werde ausgießen", Vv.17-21; der Befehl des Herrn in Ps 110, Vv.34-35), während Davids eigene Stimme in Psalm 16 menschliche Rede ist und nicht gekennzeichnet wird. → Die Zitationsmechanik, die LXX-gegen-Hebräisch-Unterschiede und das Doppel-*kyrios*-Argument von 2,34 werden im **PROPHETIE**-Begleitmaterial behandelt; dieses Begleitmaterial gibt nur den historischen und literarischen Rahmen.
+Gemäß Regel 30 sind die göttlichen Ich-Anteile (Joels „ich werde ausgießen", Vv.17-21; der Befehl des Herrn in Ps 110, Vv.34-35) nicht gekennzeichnet, weil Petrus sie zitiert; Davids eigene Stimme in Psalm 16 ist menschliche Rede und wird ebenfalls nicht gekennzeichnet. → Die Zitationsmechanik, die LXX-gegen-Hebräisch-Unterschiede und das Doppel-*kyrios*-Argument von 2,34 werden im **PROPHETIE**-Begleitmaterial behandelt; dieses Begleitmaterial gibt nur den historischen und literarischen Rahmen.
 
 ### A7. *Metanoia*, *aphesis*, Untertauchen im Namen und das *eis* von 2,38
 **[TEXTUELL — VERIFIZIERT (für die Lexeme); MÖGLICHE SCHLUSSFOLGERUNG — UNSICHER (für die Kraft des *eis*)]**
 
-Petrus' Aufruf (2,38) versammelt vier festgelegte oder aufgeladene Begriffe: **μετανοήσατε** (*metanoēsate*, „ändert eure Sinne" — die festgelegte GS-Wiedergabe von *metanoeō*, nicht das bußfertige „tut Buße"); Untertauchen **ἐπὶ τῷ ὀνόματι Ἰησοῦ** (*epi tō onomati Iēsou*, „auf den Namen Yeshuas"); **εἰς ἄφεσιν τῶν ἁμαρτιῶν** (*eis aphesin tōn hamartiōn*, „zur/für die Freilassung der Sünden" — *aphesis* wie in Lukas 1,77; 3,3); und die verheißene „Gabe des heiligen {a:Wind/Geist}". Die Präposition **εἰς** ist tatsächlich mehrdeutig — final („um zu erlangen") oder kausal/bezüglich („in Bezug auf") die Vergebung — und die TT bewahrt „zur/für" ohne sie aufzulösen (Entscheidung A-005 im redaktionellen Log vermerkt den Knackpunkt in 2,38).
+Petrus' Aufruf (2,38) versammelt vier festgelegte oder aufgeladene Begriffe: **μετανοήσατε** (*metanoēsate*, „ändert eure Sinne" — die festgelegte GS-Wiedergabe von *metanoeō*, nicht das bußfertige „tut Buße"); Untertauchen **ἐπὶ τῷ ὀνόματι Ἰησοῦ** (*epi tō onomati Iēsou*, „auf den Namen Yeshuas"); **εἰς ἄφεσιν τῶν ἁμαρτιῶν** (*eis aphesin tōn hamartiōn*, „zur/für die Freilassung der Sünden" — *aphesis* wie in Lukas 1,77; 3,3); und die verheißene „Gabe des heiligen {a:Wind/Geist}". Die Präposition **εἰς** ist tatsächlich mehrdeutig — final („um zu erlangen") oder kausal/bezüglich („in Bezug auf") die Vergebung — und die TT bewahrt „zur/für" ohne sie aufzulösen.
 
 „Untertauchen auf den Namen Yeshuas" greift „den Namen des Herrn" der Joel-Zitation (V.21) auf, wo *kyrios* JHWH wiedergibt; dieselbe Konstruktion wird nun auf Jesus angewandt. **[MÖGLICHE SCHLUSSFOLGERUNG — UNSICHER]** Ob die Wendung eine Taufformel, eine Übertragung der Loyalität oder beides impliziert, lässt sich aus dem Text nicht klären. → Für die Gemeinschafts-Reaktion, die folgt (Vv.41-47), siehe §D3.
 
@@ -221,7 +221,7 @@ Die Apostelgeschichte hat durchweg Untertauchen „auf/in den Namen Yeshuas" (2,
 
 ## I. Die Welt zur damaligen Zeit
 
-> **Querverweis:** Für den vollständigen Weltkontext in zwei Szenarien mit zehn Kategorien (Politik, Wirtschaft, Alltagsleben, Gesellschaftsstruktur, Bildung, Militär, Kunst, Wissenschaft, Religion, Nachbarvölker) siehe das Johannes-1-Begleitmaterial (Abschnitt I, `de/john/study/CHAPTER-1-CONTEXT.md`). Die Apostelgeschichte teilt denselben allgemeinen Zeitraum des ersten Jahrhunderts; der Abschnitt zu Johannes 1 bietet die Grundlage. Die folgenden Einträge befassen sich mit den in Apg 2 in den Vordergrund tretenden spezifischen Umständen — der Schawuot-Pilgerschaft, der Diaspora-Geographie der Vv.9-11 und der Festwirtschaft Jerusalems.
+> **Querverweis:** Für den vollständigen Weltkontext in zwei Szenarien mit zehn Kategorien (Politik, Wirtschaft, Alltagsleben, Gesellschaftsstruktur, Bildung, Militär, Kunst, Wissenschaft, Religion, Nachbarvölker) siehe das Begleitmaterial zu Johannes 1 (Vertiefen), Abschnitt I. Die Apostelgeschichte teilt denselben allgemeinen Zeitraum des ersten Jahrhunderts; der Abschnitt zu Johannes 1 bietet die Grundlage. Die folgenden Einträge befassen sich mit den in Apg 2 in den Vordergrund tretenden spezifischen Umständen — der Schawuot-Pilgerschaft, der Diaspora-Geographie der Vv.9-11 und der Festwirtschaft Jerusalems.
 
 ---
 
@@ -303,6 +303,4 @@ Nach 70 n. Chr. wurde die Diaspora, noch mehr als zuvor, zum demographischen Zen
 ---
 
 **Redaktionelle Herkunft:**
-- Entworfen von: KI (Claude, Anthropic)
-- Datum: 2026-06-24
-- Begutachtet von: ausstehend
+- KI-gestützter Entwurf, noch nicht geprüft.

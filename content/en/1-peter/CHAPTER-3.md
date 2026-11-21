@@ -35,7 +35,7 @@
 
 Notes are tagged by type — **Critical · Lexical · Grammatical · Theological** — each shown with its colour (see the legend at the top of the Notes view).
 
-**This is the most interpretively loaded chapter of the letter.** It completes the **household code** with wives and husbands (vv.1-7) — a high-restraint passage — then turns to the conduct of all (vv.8-12, closing with Psalm 34), to suffering for righteousness and "always ready for a defense" (vv.13-17), and finally to the **most debated paragraph in the letter**: the Messiah's suffering, his being "made alive in spirit," his proclamation "to the spirits in prison," Noah's ark, and baptism as antitype (vv.18-22). **Note on speech-marking (Rule 30):** there is no narrated divine speech here; the Psalm 34 citation (vv.10-12) is the psalmist's voice, not God's first person — unmarked. **High-restraint passages** (the household code vv.1-7; the spirits-in-prison vv.19-20; baptism v.21): the TT renders the Greek and flags the interpretive options in Tier-2, resolving none (Rule 3; editorial-log P-006, P-007, P-009). Names: Sarah (Sara), Avraham (Abraham), Noach (Noah).
+**This is the most interpretively loaded chapter of the letter.** It completes the **household code** with wives and husbands (vv.1-7) — a high-restraint passage — then turns to the conduct of all (vv.8-12, closing with Psalm 34), to suffering for righteousness and "always ready for a defense" (vv.13-17), and finally to the **most debated paragraph in the letter**: the Messiah's suffering, his being "made alive in spirit," his proclamation "to the spirits in prison," Noah's ark, and baptism as antitype (vv.18-22). **Note on speech-marking (Rule 30):** there is no narrated divine speech here; the Psalm 34 citation (vv.10-12) is the psalmist's voice, not God's first person — unmarked. **High-restraint passages** (the household code vv.1-7; the spirits-in-prison vv.19-20; baptism v.21): the TT renders the Greek and flags the interpretive options in the notes, resolving none (Rule 3). Names: Sarah (Sara), Avraham (Abraham), Noach (Noah).
 
 ---
 
@@ -45,7 +45,7 @@ Notes are tagged by type — **Critical · Lexical · Grammatical · Theological
 
 **Key themes:** The **household code's** second panel (wives/husbands) — won "without a word" by conduct; "the hidden person of the heart" over outward adornment; Sarah as exemplar; husbands honoring wives as "co-heirs of the grace of life" (a striking dignity-claim within the code); the ethic of **non-retaliation** ("not evil for evil… but bless"), grounded in Psalm 34; suffering for righteousness as blessing; "sanctify the Messiah as Lord" (Isaiah 8:13 reapplied to Christ); the **apologia** — readiness to give the reason for hope with gentleness and reverence; and the dense, debated **vv.18-22**: the once-for-all righteous-for-unrighteous suffering; the flesh/spirit antithesis; the **proclamation to the spirits in prison**; **Noah's ark and the eight souls saved through water**; **baptism as antitype** ("not the removal of dirt but an appeal of a good conscience"); the Messiah's exaltation over all powers.
 
-**Watch for:** The **household code (vv.1-7)** is a high-restraint passage — the TT renders the Greek (wives submit; "weaker vessel"; Sarah "calling him lord") and flags the reception history in the notes, taking no position (Rule 3; P-009). Note the **mutuality** the code already carries: husbands honor wives as "co-heirs," "so that your prayers not be hindered." **3:15** "sanctify the Messiah as Lord" reapplies Isaiah 8:13 ("the LORD of hosts… sanctify him") to the Messiah — a κύριος referent-shift, flagged. **Vv.18-22** are the letter's exegetical storm-center: the dative **πνεύματι** (3:18, "in/by spirit") is the flesh/spirit crux; **"the spirits in prison"** (3:19) admits several readings (the dead of Noah's day / the disobedient angels of Genesis 6 / a descent proclamation) — the TT renders literally and resolves none (P-006); **baptism "now saves you… as antitype"** (3:21) with "appeal/pledge of a good conscience" is rendered without importing a sacramental theology (P-007). The Psalm 34 citation (vv.10-12) is the psalmist's voice — unmarked; *kyrios* there = YHWH (Option C).
+**Watch for:** The **household code (vv.1-7)** is a high-restraint passage — the TT renders the Greek (wives submit; "weaker vessel"; Sarah "calling him lord") and flags the reception history in the notes, taking no position (Rule 3). Note the **mutuality** the code already carries: husbands honor wives as "co-heirs," "so that your prayers not be hindered." **3:15** "sanctify the Messiah as Lord" reapplies Isaiah 8:13 ("the LORD of hosts… sanctify him") to the Messiah — a κύριος referent-shift, flagged. **Vv.18-22** are the letter's exegetical storm-center: the dative **πνεύματι** (3:18, "in/by spirit") is the flesh/spirit crux; **"the spirits in prison"** (3:19) admits several readings (the dead of Noah's day / the disobedient angels of Genesis 6 / a descent proclamation) — the TT renders literally and resolves none; **baptism "now saves you… as antitype"** (3:21) with "appeal/pledge of a good conscience" is rendered without importing a sacramental theology. The Psalm 34 citation (vv.10-12) is the psalmist's voice — unmarked; *kyrios* there = YHWH (Option C).
 
 **Connection:** Sarah and Abraham (vv.5-6) draw on Genesis (18:12, Sarah's deference); "fear no terror" echoes Proverbs 3:25. The non-retaliation ethic and Psalm 34:12-16 (vv.10-12) extend the Psalm-34 thread begun at 2:3. "Do not fear their fear… sanctify [the Lord]" (vv.14-15) quotes Isaiah 8:12-13 — where "the LORD of hosts" is the one to be sanctified, here reapplied to the Messiah. The spirits-in-prison and the ark (vv.19-20) draw on Genesis 6-8 (the flood, the eight in the ark) and the Second-Temple Enochic tradition of the imprisoned "watchers" (1 Enoch). Baptism "through water" as the antitype of the flood (v.21) reads the deluge typologically. The exaltation "at God's right hand" with powers subjected (v.22) echoes Psalm 110:1 (the most-cited HB verse, as in Acts 2).
 
@@ -75,8 +75,8 @@ Likewise, wives, *be* submitting to *your* own husbands, so that even if some di
 
 > **Notes**
 >
-> 🔴 **CRITICAL — THE HOUSEHOLD CODE: WIVES (high restraint, P-009)**
-> - **γυναῖκες, ὑποτασσόμεναι τοῖς ἰδίοις ἀνδράσιν** (*gynaikes, hypotassomenai tois idiois andrasin*) = "wives, *be* submitting to *your* own husbands." "**Likewise** (*homoiōs*)" links to the servants of 2:18 — the household-code's second panel. The pastoral aim is missionary: an "**unbelieving**" husband (one who "disobeys the word") "may be won (**κερδηθήσονται**) **without a word**" — by the wife's conduct (*anastrophē*), not argument. The TT renders the Greek and **flags the interpretive history in Tier-2 / the companion, taking no position** (Rule 3). → editorial-log P-009; Companion §F (reception).
+> 🔴 **CRITICAL — THE HOUSEHOLD CODE: WIVES (high restraint)**
+> - **γυναῖκες, ὑποτασσόμεναι τοῖς ἰδίοις ἀνδράσιν** (*gynaikes, hypotassomenai tois idiois andrasin*) = "wives, *be* submitting to *your* own husbands." "**Likewise** (*homoiōs*)" links to the servants of 2:18 — the household-code's second panel. The pastoral aim is missionary: an "**unbelieving**" husband (one who "disobeys the word") "may be won (**κερδηθήσονται**) **without a word**" — by the wife's conduct (*anastrophē*), not argument. The TT renders the Greek and **flags the interpretive history in the notes / the companion, taking no position** (Rule 3). → Companion §F (reception).
 
 ---
 
@@ -141,8 +141,8 @@ Husbands, likewise, dwelling together *with them* according to knowledge, as wit
 
 > **Notes**
 >
-> 🔴 **CRITICAL — HUSBANDS: "WEAKER VESSEL" + "CO-HEIRS" (P-009)**
-> - **ὡς ἀσθενεστέρῳ σκεύει τῷ γυναικείῳ, ἀπονέμοντες τιμήν** = "as with a **weaker vessel** — the feminine *one* — assigning **honor**." The code addresses husbands too: dwell "according to knowledge (**κατὰ γνῶσιν**)," assign honor, recognizing the wife as a **co-heir (συγκληρονόμος) of the grace of life** — a striking dignity-and-equality claim *within* the code. "**Weaker vessel**" (*asthenesteron skeuos*) is rendered literally (likely socially/physically situated, not a worth-claim — the same sentence calls her a co-heir); the interpretive history is flagged, no position taken (Rule 3, P-009). The sanction is severe: **"so that your prayers may not be hindered (**ἐγκόπτεσθαι**)."** → editorial-log P-009; Companion §F.
+> 🔴 **CRITICAL — HUSBANDS: "WEAKER VESSEL" + "CO-HEIRS"**
+> - **ὡς ἀσθενεστέρῳ σκεύει τῷ γυναικείῳ, ἀπονέμοντες τιμήν** = "as with a **weaker vessel** — the feminine *one* — assigning **honor**." The code addresses husbands too: dwell "according to knowledge (**κατὰ γνῶσιν**)," assign honor, recognizing the wife as a **co-heir (συγκληρονόμος) of the grace of life** — a striking dignity-and-equality claim *within* the code. "**Weaker vessel**" (*asthenesteron skeuos*) is rendered literally (likely socially/physically situated, not a worth-claim — the same sentence calls her a co-heir); the interpretive history is flagged, no position taken (Rule 3). The sanction is severe: **"so that your prayers may not be hindered (**ἐγκόπτεσθαι**)."** → Companion §F.
 
 ---
 
@@ -230,7 +230,7 @@ but sanctify *the* Messiah as Lord in your hearts, *being* always ready for a de
 > **Notes**
 >
 > 🔴 **CRITICAL — ISAIAH 8:13 REAPPLIED + THE *APOLOGIA***
-> - **κύριον δὲ τὸν Χριστὸν ἁγιάσατε** (*kyrion de ton Christon hagiasate*) = "sanctify *the* Messiah **as Lord**." Isaiah 8:13 reads "**the LORD of hosts** (YHWH), **him** you shall sanctify"; 1 Peter substitutes "the Messiah" for the object — a **κύριος referent-shift** applying a YHWH-text to Christ (Rule 13 + Tier-2; cf. the same move at Acts 2:36). **ἀπολογία** (*apologia*) = "defense, reasoned answer" (legal-sounding) — the readers are "**always ready**" to give the **reason** for their **hope** (*elpis*), the source of the English "apologetics." → Companion §A; PROPHECY (Isa 8:12-13 → 1 Pet 3:14-15).
+> - **κύριον δὲ τὸν Χριστὸν ἁγιάσατε** (*kyrion de ton Christon hagiasate*) = "sanctify *the* Messiah **as Lord**." Isaiah 8:13 reads "**the LORD of hosts** (YHWH), **him** you shall sanctify"; 1 Peter substitutes "the Messiah" for the object — a **κύριος referent-shift** applying a YHWH-text to Christ (Rule 13; cf. the same move at Acts 2:36). **ἀπολογία** (*apologia*) = "defense, reasoned answer" (legal-sounding) — the readers are "**always ready**" to give the **reason** for their **hope** (*elpis*), the source of the English "apologetics." → Companion §A; PROPHECY (Isa 8:12-13 → 1 Pet 3:14-15).
 
 ---
 
@@ -262,8 +262,8 @@ Because *the* Messiah also suffered once for sins, *the* righteous for *the* unr
 
 > **Notes**
 >
-> 🔴 **CRITICAL — "ONCE FOR SINS… PUT TO DEATH IN FLESH, MADE ALIVE IN SPIRIT" (the crux opens, P-006)**
-> - **ἅπαξ περὶ ἁμαρτιῶν ἔπαθεν, δίκαιος ὑπὲρ ἀδίκων** = "suffered **once** (*hapax*) for sins, *the* righteous for *the* unrighteous" — the vicarious, once-for-all suffering (cf. 2:24; Isa 53). The crux is the parallel pair of anarthrous datives: **θανατωθεὶς μὲν σαρκὶ ζῳοποιηθεὶς δὲ πνεύματι** = "put to death **in flesh** (*sarki*) but made alive **in spirit** (*pneumati*)." Read as spheres ("in the flesh / in the spirit") or as agency ("by the Spirit"); the TT keeps the {a:wind/spirit} slash and the flesh/spirit parallel, **resolving neither** (Rule 13). → editorial-log P-006; Companion §A.
+> 🔴 **CRITICAL — "ONCE FOR SINS… PUT TO DEATH IN FLESH, MADE ALIVE IN SPIRIT" (the crux opens)**
+> - **ἅπαξ περὶ ἁμαρτιῶν ἔπαθεν, δίκαιος ὑπὲρ ἀδίκων** = "suffered **once** (*hapax*) for sins, *the* righteous for *the* unrighteous" — the vicarious, once-for-all suffering (cf. 2:24; Isa 53). The crux is the parallel pair of anarthrous datives: **θανατωθεὶς μὲν σαρκὶ ζῳοποιηθεὶς δὲ πνεύματι** = "put to death **in flesh** (*sarki*) but made alive **in spirit** (*pneumati*)." Read as spheres ("in the flesh / in the spirit") or as agency ("by the Spirit"); the TT keeps the {a:wind/spirit} slash and the flesh/spirit parallel, **resolving neither** (Rule 13). → Companion §A.
 
 ---
 
@@ -273,8 +273,8 @@ in which also, having gone, he proclaimed to the spirits in prison,
 
 > **Notes**
 >
-> 🔴 **CRITICAL — "PROCLAIMED TO THE SPIRITS IN PRISON" (the descent crux, P-006)**
-> - **ἐν ᾧ καὶ τοῖς ἐν φυλακῇ πνεύμασιν πορευθεὶς ἐκήρυξεν** = "in which also, having gone, he proclaimed (*ekēryxen*) to the **spirits in prison**." The most debated clause in the letter. Major readings: (a) the **disobedient dead of Noah's generation** (v.20); (b) the **disobedient angels/"watchers" of Genesis 6** imprisoned (the Enochic tradition, 1 Enoch 6-21; cf. 2 Pet 2:4; Jude 6); (c) the **pre-incarnate Christ** preaching through Noah. "Spirits" (*pneumata*) = the imprisoned beings (no "wind" sense — rendered plain "spirits," not the slash). *Ekēryxen* ("proclaimed/heralded") does not specify content (good news vs. judgment). The TT renders literally and **resolves none** (Rule 13, Rule 3). → editorial-log P-006; Companion §A; §F (reception: the "harrowing of hell").
+> 🔴 **CRITICAL — "PROCLAIMED TO THE SPIRITS IN PRISON" (the descent crux)**
+> - **ἐν ᾧ καὶ τοῖς ἐν φυλακῇ πνεύμασιν πορευθεὶς ἐκήρυξεν** = "in which also, having gone, he proclaimed (*ekēryxen*) to the **spirits in prison**." The most debated clause in the letter. Major readings: (a) the **disobedient dead of Noah's generation** (v.20); (b) the **disobedient angels/"watchers" of Genesis 6** imprisoned (the Enochic tradition, 1 Enoch 6-21; cf. 2 Pet 2:4; Jude 6); (c) the **pre-incarnate Christ** preaching through Noah. "Spirits" (*pneumata*) = the imprisoned beings (no "wind" sense — rendered plain "spirits," not the slash). *Ekēryxen* ("proclaimed/heralded") does not specify content (good news vs. judgment). The TT renders literally and **resolves none** (Rule 13, Rule 3). → Companion §A; §F (reception: the "harrowing of hell").
 
 ---
 
@@ -295,8 +295,8 @@ Which also, *as* an antitype, now saves you — immersion, not a removal of dirt
 
 > **Notes**
 >
-> 🔴 **CRITICAL — BAPTISM "NOW SAVES YOU… AS ANTITYPE" (P-007)**
-> - **ὃ… ἀντίτυπον νῦν σῴζει βάπτισμα** = "Which also, *as* an **antitype** (*antitypon*), now saves you — **immersion** (*baptisma*)." The flood-water is the type; baptism the antitype. The verse immediately qualifies: **οὐ σαρκὸς ἀπόθεσις ῥύπου ἀλλὰ συνειδήσεως ἀγαθῆς ἐπερώτημα εἰς θεόν** = "not a removal of dirt of *the* flesh but an **appeal/pledge** (*eperōtēma*) of a good conscience toward God." *Eperōtēma* is debated ("appeal/request" vs. "pledge/answer" — a baptismal-formula term); the TT renders "appeal" and notes the option. The saving is **"through *the* resurrection"** — not the water itself. Rendered without importing a sacramental theology (Rule 3). → editorial-log P-007; Companion §A.
+> 🔴 **CRITICAL — BAPTISM "NOW SAVES YOU… AS ANTITYPE"**
+> - **ὃ… ἀντίτυπον νῦν σῴζει βάπτισμα** = "Which also, *as* an **antitype** (*antitypon*), now saves you — **immersion** (*baptisma*)." The flood-water is the type; baptism the antitype. The verse immediately qualifies: **οὐ σαρκὸς ἀπόθεσις ῥύπου ἀλλὰ συνειδήσεως ἀγαθῆς ἐπερώτημα εἰς θεόν** = "not a removal of dirt of *the* flesh but an **appeal/pledge** (*eperōtēma*) of a good conscience toward God." *Eperōtēma* is debated ("appeal/request" vs. "pledge/answer" — a baptismal-formula term); the TT renders "appeal" and notes the option. The saving is **"through *the* resurrection"** — not the water itself. Rendered without importing a sacramental theology (Rule 3). → Companion §A.
 
 ---
 

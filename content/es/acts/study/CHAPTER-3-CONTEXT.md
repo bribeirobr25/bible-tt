@@ -80,9 +80,9 @@ La TT traduce ambas literalmente y no decide si "restauración de todas las cosa
 ### A6. El habla divina, el habla reportada de Moisés, y la decisión de marcado (Regla 30)
 **[TEXTUAL — VERIFICADO]**
 
-El capítulo mezcla voces, y el marcado de la Regla 30 de la TT las rastrea. El sermón de Kefa (vv.12-26) es habla **humana** y no se marca. La cita de Moisés (vv.22-23, Deut 18:15-19) es el habla reportada de *Moisés* *acerca* del SEÑOR ("*el* Señor Dios levantará un profeta…"), por lo que tampoco se marca como divina. Pero la palabra abrahámica (v.25, "Y en tu simiente serán bendecidas todas las familias de la tierra", Gén 22:18) es **el habla directa de pacto del SEÑOR mismo**, y se marca `@@…@@` (según la decisión editorial A-004).
+El capítulo mezcla voces, y el marcado de la Regla 30 de la TT las rastrea. El sermón de Kefa (vv.12-26) es habla **humana** y no se marca. La cita de Moisés (vv.22-23, Deut 18:15-19) es el habla reportada de *Moisés* *acerca* del SEÑOR ("*el* Señor Dios levantará un profeta…"), por lo que tampoco se marca como divina. La palabra abrahámica (v.25, "Y en tu simiente serán bendecidas todas las familias de la tierra", Gén 22:18) es **el habla directa de pacto del SEÑOR mismo**, pero Kefa la está citando, así que tampoco se marca.
 
-El resultado es que dentro de un solo sermón humano las únicas palabras marcadas son la única cláusula donde Dios habla en su propia voz. La TT no aplana la distinción entre un profeta citando a Dios y Dios hablando. → Para la política de marcado a través de Hechos 1–3, véase el registro editorial (alcance de la Regla 30).
+El resultado es que todo el sermón queda sin marcar, incluida la única cláusula donde Dios habla en su propia voz: las palabras de Dios citadas por un hablante humano no se marcan (Regla 30).
 
 ---
 
@@ -233,7 +233,7 @@ El participio **ἀναστήσας** (*anastēsas*, 3:26), "habiendo levantado"
 
 ## I. El Mundo en Esa Época
 
-> **Referencia cruzada:** Para el contexto mundial completo de dos escenarios y diez categorías (Político, Economía, Vida Cotidiana, Estructura Social, Educación, Militar, Artes, Ciencia, Religión, Pueblos Vecinos), véase el compañero de Juan 1 (Sección I, `es/john/study/CHAPTER-1-CONTEXT.md`). Hechos 3 se sitúa en el mismo período histórico general; la sección de Juan 1 proporciona la base. Las entradas siguientes abordan las circunstancias específicas que aparecen en primer plano en Hechos 3 — los recintos del templo herodiano, la piedad del templo y la limosna, y el lugar de la discapacidad en la sociedad del Segundo Templo.
+> **Referencia cruzada:** Para el contexto mundial completo de dos escenarios y diez categorías (Político, Economía, Vida Cotidiana, Estructura Social, Educación, Militar, Artes, Ciencia, Religión, Pueblos Vecinos), véase el material de estudio de Juan 1 (Profundizar), Sección I. Hechos 3 se sitúa en el mismo período histórico general; la sección de Juan 1 proporciona la base. Las entradas siguientes abordan las circunstancias específicas que aparecen en primer plano en Hechos 3 — los recintos del templo herodiano, la piedad del templo y la limosna, y el lugar de la discapacidad en la sociedad del Segundo Templo.
 
 ---
 
@@ -318,6 +318,4 @@ Después del 70 e.c., con el templo desaparecido, el locus de la limosna y la ca
 
 
 **Procedencia editorial:**
-- Redactado por: IA (Claude, Anthropic)
-- Fecha: 24-06-2026
-- Revisado por: pendiente
+- Borrador asistido por IA, aún no revisado.

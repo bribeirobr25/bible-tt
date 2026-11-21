@@ -50,9 +50,9 @@ Este arquivo contém material de fundo organizado por tópico. Cada entrada carr
 ### A2. A eleição de forma trina, traduzida sem o dogma posterior (Regra 3)
 **[TEXTUAL — VERIFICADO (para as três frases); INFERÊNCIA POSSÍVEL — INCERTO (para as relações entre elas)]**
 
-A eleição de 1:2 é governada por três frases preposicionais que nomeiam o Pai, o {a:vento/espírito}, e o sangue de Yeshua: **κατὰ πρόγνωσιν θεοῦ πατρός** ("segundo *o* pré-conhecimento de Deus *o* Pai"), **ἐν ἁγιασμῷ πνεύματος** ("em santificação d*o* {a:vento/espírito}"), **εἰς ὑπακοὴν καὶ ῥαντισμὸν αἵματος Ἰησοῦ Χριστοῦ** ("para obediência e aspersão d*o* sangue de Yeshua *o* Messias"). A TT traduz a estrutura Pai/espírito/sangue exatamente como o grego a dá e **não** importa o vocabulário posterior "a Trindade" nem especifica as relações entre os três (Regra 3; registro editorial P-008).
+A eleição de 1:2 é governada por três frases preposicionais que nomeiam o Pai, o {a:vento/espírito}, e o sangue de Yeshua: **κατὰ πρόγνωσιν θεοῦ πατρός** ("segundo *o* pré-conhecimento de Deus *o* Pai"), **ἐν ἁγιασμῷ πνεύματος** ("em santificação d*o* {a:vento/espírito}"), **εἰς ὑπακοὴν καὶ ῥαντισμὸν αἵματος Ἰησοῦ Χριστοῦ** ("para obediência e aspersão d*o* sangue de Yeshua *o* Messias"). A TT traduz a estrutura Pai/espírito/sangue exatamente como o grego a dá e **não** importa o vocabulário posterior "a Trindade" nem especifica as relações entre os três (Regra 3).
 
-**[INFERÊNCIA POSSÍVEL — INCERTO]** Se as três frases atribuem funções distintas (o Pai pré-conhecendo, o espírito santificando, o sangue ratificando) ou simplesmente acumulam um único ato de graça não é resolvido pela sintaxe; as preposições (*kata* / *en* / *eis*) diferem, mas sua força é debatida. A TT mantém visível a forma tríplice e deixa a questão sistemática ao leitor. → veja o registro editorial P-008.
+**[INFERÊNCIA POSSÍVEL — INCERTO]** Se as três frases atribuem funções distintas (o Pai pré-conhecendo, o espírito santificando, o sangue ratificando) ou simplesmente acumulam um único ato de graça não é resolvido pela sintaxe; as preposições (*kata* / *en* / *eis*) diferem, mas sua força é debatida. A TT mantém visível a forma tríplice e deixa a questão sistemática ao leitor.
 
 ### A3. "Aspersão de sangue" — o ritual da aliança por trás da frase
 **[TEXTUAL — VERIFICADO (para o lexema); INFERÊNCIA POSSÍVEL — PROVÁVEL (para o referente do Sinai)]**
@@ -89,7 +89,7 @@ A autodesignação que controla a carta é um agrupamento de palavras de "estran
 
 Os versículos 10-12 fazem uma afirmação densa sobre os profetas da BH em três termos carregados. Eles **ἐξεζήτησαν καὶ ἐξηραύνησαν** (*exezētēsan kai exēraunēsan*, "buscaram e investigaram"), um par composto enfático — os profetas como inquiridores, não meros porta-vozes. O que operava neles era **τὸ ἐν αὐτοῖς πνεῦμα Χριστοῦ** ("o {a:vento/espírito} d*o* Messias neles"), que **προμαρτυρόμενον** ("testemunhando de antemão") sobre **τὰ εἰς Χριστὸν παθήματα καὶ τὰς μετὰ ταῦτα δόξας** ("os sofrimentos *destinados* ao Messias e as glórias depois destes"). A TT mantém a barra vento/espírito e traduz a afirmação como o grego a tem.
 
-**[INFERÊNCIA POSSÍVEL — INCERTO]** Se "o *pneuma* do Messias neles" afirma a atividade pré-existente do Messias nos profetas, ou significa "o espírito que apontava para o Messias", ou "o espírito dado mais tarde pelo Messias", é exegeticamente contestado; o genitivo *Christou* é gramaticalmente aberto. A TT não o resolve (registro editorial; nota do capítulo em 1:11). O padrão sofrimento-depois-glória aqui declarado é a mesma leitura dos profetas encontrada em Lucas 24:26 e Atos 3:18. → veja §B2 sobre as ideias do Segundo Templo a respeito do espírito profético.
+**[INFERÊNCIA POSSÍVEL — INCERTO]** Se "o *pneuma* do Messias neles" afirma a atividade pré-existente do Messias nos profetas, ou significa "o espírito que apontava para o Messias", ou "o espírito dado mais tarde pelo Messias", é exegeticamente contestado; o genitivo *Christou* é gramaticalmente aberto. A TT não o resolve (nota do capítulo em 1:11). O padrão sofrimento-depois-glória aqui declarado é a mesma leitura dos profetas encontrada em Lucas 24:26 e Atos 3:18. → veja §B2 sobre as ideias do Segundo Templo a respeito do espírito profético.
 
 ### A10. "Cingi os lombos da vossa mente" — a postura do Êxodo tornada interior
 **[TEXTUAL — VERIFICADO]**
@@ -99,7 +99,7 @@ O primeiro imperativo principal da carta (1:13) é **ἀναζωσάμενοι �
 ### A11. A citação de Levítico como palavra de Deus em primeira pessoa (Regra 30)
 **[TEXTUAL — VERIFICADO]**
 
-Em 1:16 o chamado à santidade é fundamentado em uma citação: **Ἅγιοι ἔσεσθε, ὅτι ἐγὼ ἅγιος** ("Sede santos, porque eu *sou* santo"), de Levítico 11:44-45; 19:2; 20:7. Como a fonte é **a própria fala de Deus em primeira pessoa** (o Senhor dizendo "eu sou santo"), a TT a marca `@@…@@` conforme a Regra 30 (o precedente A-004; registro editorial). Esta é a única marcação de fala divina no capítulo: a exortação circundante é a própria voz do apóstolo e fica sem marcação, e as outras citações (Is 40 em 1:24-25) são a voz humana do profeta e ficam igualmente sem marcação. A TT assim não achata a distinção entre Kefa exortando e Deus falando dentro da citação. A cópula "*sou*" é suprida em itálico, já que o grego (e o hebraico por trás dele) é sem verbo. → veja §A12.
+Em 1:16 o chamado à santidade é fundamentado em uma citação: **Ἅγιοι ἔσεσθε, ὅτι ἐγὼ ἅγιος** ("Sede santos, porque eu *sou* santo"), de Levítico 11:44-45; 19:2; 20:7. A fonte é **a própria fala de Deus em primeira pessoa** (o Senhor dizendo "eu sou santo"), mas a TT não a marca: ela é introduzida por "está escrito", de modo que Kefa a está citando (Regra 30). O capítulo, portanto, não traz nenhuma marcação de fala divina: a exortação circundante é a própria voz do apóstolo, e as outras citações (Is 40 em 1:24-25) são a voz humana do profeta. A cópula "*sou*" é suprida em itálico, já que o grego (e o hebraico por trás dele) é sem verbo. → veja §A12.
 
 ### A12. *Anastrophē* — "conduta" como uma palavra-chave de 1 Pedro
 **[TEXTUAL — VERIFICADO]**
@@ -343,6 +343,4 @@ No fim do primeiro século, os seguidores de Yeshua na Ásia Menor eram um grupo
 
 
 **Proveniência editorial:**
-- Redigido por: IA (Claude, Anthropic)
-- Data: 2026-06-26
-- Revisado por: pendente
+- Rascunho assistido por IA, ainda não revisado.

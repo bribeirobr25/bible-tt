@@ -36,7 +36,7 @@
 
 Notizen sind nach Typ gekennzeichnet — **Kritisch · Lexikalisch · Grammatisch · Theologisch** — jeweils mit ihrer Farbe (siehe die Legende oben in der Notizen-Ansicht).
 
-**Dies ist das Pfingstkapitel — die Erfüllung der Verheißung von Apostelgeschichte 1,5.** Am Pfingstfest (Shavuot) kommt der heilige Wind/Geist mit einem Geräusch wie Wind und Zungen wie Feuer, und die versammelten Gläubigen reden in anderen Zungen/Sprachen, gehört von Juden aus jeder Nation (V.1-13). Kefa hält dann die erste apostolische Predigt: er deutet das Ereignis durch Yoel (Joel 2), verkündet Yeshuas Tod, Auferstehung und Erhöhung durch die Psalmen 16 und 110 und ruft zur Umkehr und Eintauchung auf (V.14-41). Das Kapitel schließt mit einem Bild der neuen Gemeinde (V.42-47). **Hinweis zur Redemarkierung (Regel 30):** die göttliche Ich-Rede des Joel-Orakels („Ich werde von meinem Wind/Geist ausgießen…") und die Worte des HERRN in Psalm 110 („Setze dich zu meiner Rechten…") werden **@@…@@** markiert; Petrus' eigene Predigt ist menschliche Rede und wird es nicht. **Die zentrale Crux ist 2,34** — die zwei verschiedenen Referenten von Psalm 110,1 unter einem griechischen Wort κύριος („*Der Herr* [JHWH] sprach zu meinem *Herrn* [dem Gesalbten]"), so wiedergegeben, dass beide erhalten bleiben, und vermerkt (Regel 13).
+**Dies ist das Pfingstkapitel — die Erfüllung der Verheißung von Apostelgeschichte 1,5.** Am Pfingstfest (Shavuot) kommt der heilige Wind/Geist mit einem Geräusch wie Wind und Zungen wie Feuer, und die versammelten Gläubigen reden in anderen Zungen/Sprachen, gehört von Juden aus jeder Nation (V.1-13). Kefa hält dann die erste apostolische Predigt: er deutet das Ereignis durch Yoel (Joel 2), verkündet Yeshuas Tod, Auferstehung und Erhöhung durch die Psalmen 16 und 110 und ruft zur Umkehr und Eintauchung auf (V.14-41). Das Kapitel schließt mit einem Bild der neuen Gemeinde (V.42-47). **Hinweis zur Redemarkierung (Regel 30):** die göttliche Ich-Rede des Joel-Orakels („Ich werde von meinem Wind/Geist ausgießen…") und die Worte des HERRN in Psalm 110 („Setze dich zu meiner Rechten…") werden **nicht** markiert — Petrus zitiert sie, also spricht ein menschlicher Sprecher; Petrus' eigene Predigt ist ebenso menschliche Rede. **Die zentrale Crux ist 2,34** — die zwei verschiedenen Referenten von Psalm 110,1 unter einem griechischen Wort κύριος („*Der Herr* [JHWH] sprach zu meinem *Herrn* [dem Gesalbten]"), so wiedergegeben, dass beide erhalten bleiben, und vermerkt (Regel 13).
 
 ---
 
@@ -46,7 +46,7 @@ Notizen sind nach Typ gekennzeichnet — **Kritisch · Lexikalisch · Grammatisc
 
 **Zentrale Themen:** Pfingsten/Shavuot als Erntefest-Schauplatz für die „Ernte" der Nationen durch den Geist; die Wind/Geist-Theophanie (Geräusch, Feuer, Zungen) als Widerhall des Sinai; die Umkehrung von Babel — eine Botschaft, gehört in vielen Sprachen; Joels „letzte Tage" und die Demokratisierung des Geistes (Söhne und Töchter, Junge und Alte, Knechte und Mägde); das Verkündigungs-(Kerygma-)Muster — Schrift, das Kreuz nach Gottes Plan und durch menschliche Hände, die Auferstehung, die Erhöhung, der Ruf zur Antwort; das davidische Argument aus den Psalmen 16 und 110, dass die Auferstehung und Inthronisation des Gesalbten verheißen waren; „Herr und Gesalbter" als das Bekenntnis; Umkehr, Eintauchung in Jesu Namen, Vergebung und die Gabe des Geistes als die Antwort; das Gemeinschaftsleben — Lehre, Gemeinschaft, Brot, Gebet, geteilte Güter — als die erste Frucht des Geistes.
 
-**Achten Sie auf:** „Zungen" verschiebt den Sinn — die sichtbaren „Zungen wie Feuer" (V.3, die Feuergestalt) gegenüber den „anderen Zungen/Sprachen" der Rede (V.4, 11, mit dem Schrägstrich beibehalten). Die göttliche Ich-Rede des Joel-Zitats ist markiert (V.17-21); Petrus' Predigt nicht. *Kyrios* trägt JHWH in den Zitaten („der Tag des Herrn", „ruft den Namen des Herrn an", V.21; „ich sah den Herrn", V.25) und trägt bei 2,34 **zwei Referenten zugleich** — die Crux des Kapitels. Bei 2,38 ist die Präposition *eis* („zur/für die Freilassung der Sünden") theologisch geladen; die TT bewahrt sie, ohne Ursache gegen Zweck aufzulösen. *Hades* (V.27, 31) gibt das LXX-Wort für Sheol wieder. Die Gemeindezusammenfassung (V.42-47) verwendet *koinōnia* („Gemeinschaft/Teilen").
+**Achten Sie auf:** „Zungen" verschiebt den Sinn — die sichtbaren „Zungen wie Feuer" (V.3, die Feuergestalt) gegenüber den „anderen Zungen/Sprachen" der Rede (V.4, 11, mit dem Schrägstrich beibehalten). Die göttliche Ich-Rede des Joel-Zitats (V.17-21) ist nicht markiert — Petrus zitiert sie (Regel 30). *Kyrios* trägt JHWH in den Zitaten („der Tag des Herrn", „ruft den Namen des Herrn an", V.21; „ich sah den Herrn", V.25) und trägt bei 2,34 **zwei Referenten zugleich** — die Crux des Kapitels. Bei 2,38 ist die Präposition *eis* („zur/für die Freilassung der Sünden") theologisch geladen; die TT bewahrt sie, ohne Ursache gegen Zweck aufzulösen. *Hades* (V.27, 31) gibt das LXX-Wort für Sheol wieder. Die Gemeindezusammenfassung (V.42-47) verwendet *koinōnia* („Gemeinschaft/Teilen").
 
 **Verbindung:** Apostelgeschichte 2 ist aus der Hebräischen Bibel gewoben. Der Wind, das Feuer und das Fest rufen den Sinai hervor (Ex 19), wo die jüdische Tradition die Gabe der Tora an Shavuot verortete; die vielen Sprachen kehren Babel um (Gen 11). Das Rückgrat der Predigt sind drei Texte: Joel 2,28-32 (der ausgegossene Geist und „der Name des HERRN"), Psalm 16,8-11 (der Heilige, nicht dem Sheol/Hades überlassen) und Psalm 110,1 (das Wort des HERRN an Davids Herrn). Die Verheißung „euch und euren Kindern und allen, die fern sind" (V.39) hallt Jesaja 57,19 und Joel 2,32 wider. Die Gemeinschaft geteilter Güter erinnert an das Bundesideal „kein Bedürftiger unter euch" (Dtn 15,4).
 
@@ -259,7 +259,7 @@ sondern dies ist, was durch den Propheten Yoel (Joel) gesprochen worden ist:
 > **Notizen**
 >
 > 🔴 **KRITISCH — DAS JOEL-ORAKEL: GÖTTLICHE REDE (Regel 30)**
-> - Das Zitat ist Ich-Rede Gottes („spricht Gott… ich werde ausgießen") → markiert **@@…@@** (Regel 30 / Entscheidung A-004). Die Apostelgeschichte liest **ἐν ταῖς ἐσχάταις ἡμέραις** („in den letzten Tagen"), wo Joel/LXX „nach diesen Dingen" hat — und deutet so das Kommen des Geistes als Einleitung der letzten Tage. **ἐκχεῶ ἀπὸ τοῦ πνεύματός μου ἐπὶ πᾶσαν σάρκα** = „ich werde von meinem {a:Wind/Geist} ausgießen über alles Fleisch" — der demokratisierte Geist (Söhne/Töchter, Jung/Alt). → Begleitmaterial §B2 (Joel und die letzten Tage).
+> - Das Zitat ist Ich-Rede Gottes („spricht Gott… ich werde ausgießen"), von Petrus zitiert → nicht markiert (Regel 30). Die Apostelgeschichte liest **ἐν ταῖς ἐσχάταις ἡμέραις** („in den letzten Tagen"), wo Joel/LXX „nach diesen Dingen" hat — und deutet so das Kommen des Geistes als Einleitung der letzten Tage. **ἐκχεῶ ἀπὸ τοῦ πνεύματός μου ἐπὶ πᾶσαν σάρκα** = „ich werde von meinem {a:Wind/Geist} ausgießen über alles Fleisch" — der demokratisierte Geist (Söhne/Töchter, Jung/Alt). → Begleitmaterial §B2 (Joel und die letzten Tage).
 
 ---
 
@@ -281,7 +281,7 @@ Und ich werde Wunder geben am Himmel oben und Zeichen auf der Erde unten — Blu
 > **Notizen**
 >
 > 🔵 **„WUNDER… UND ZEICHEN"**
-> - **τέρατα… καὶ σημεῖα** (*terata… kai sēmeia*) = „Wunder und Zeichen" — die kosmischen Vorzeichen des Tages des HERRN; in der Apostelgeschichte beschreibt dasselbe Paar die Taten der Apostel (2,43; 4,30). Noch innerhalb des Ich-Orakels Gottes (@@…@@).
+> - **τέρατα… καὶ σημεῖα** (*terata… kai sēmeia*) = „Wunder und Zeichen" — die kosmischen Vorzeichen des Tages des HERRN; in der Apostelgeschichte beschreibt dasselbe Paar die Taten der Apostel (2,43; 4,30). Noch innerhalb des Ich-Orakels Gottes, von Petrus zitiert (nicht markiert, Regel 30).
 
 ---
 
@@ -303,7 +303,7 @@ Und es wird sein, *dass* jeder, der den Namen *des* Herrn anruft, gerettet wird.
 > **Notizen**
 >
 > 🔴 **KRITISCH — „JEDER, DER DEN NAMEN DES HERRN ANRUFT"**
-> - **πᾶς ὃς ἂν ἐπικαλέσηται τὸ ὄνομα κυρίου σωθήσεται** (*pas hos an epikalesētai to onoma kyriou sōthēsetai*) = „jeder, der den Namen *des* Herrn anruft, wird gerettet." In Joel ist *kyrios* = **JHWH** (Option C). Die Predigt wird „den Namen" christologisch neu bestimmen (V.38, Eintauchung „auf den Namen Yeshuas") — derselbe κύριος, der bei V.36 auf Jesus angewandt wird; die TT behält „der Herr" und verfolgt den Referenten in den Notizen. Das Joel-Zitat göttlicher Rede (@@…@@) schließt hier. → Begleitmaterial §B2.
+> - **πᾶς ὃς ἂν ἐπικαλέσηται τὸ ὄνομα κυρίου σωθήσεται** (*pas hos an epikalesētai to onoma kyriou sōthēsetai*) = „jeder, der den Namen *des* Herrn anruft, wird gerettet." In Joel ist *kyrios* = **JHWH** (Option C). Die Predigt wird „den Namen" christologisch neu bestimmen (V.38, Eintauchung „auf den Namen Yeshuas") — derselbe κύριος, der bei V.36 auf Jesus angewandt wird; die TT behält „der Herr" und verfolgt den Referenten in den Notizen. Das Joel-Zitat (Gottes Ich-Rede, von Petrus zitiert — nicht markiert) schließt hier. → Begleitmaterial §B2.
 
 ---
 
@@ -445,8 +445,8 @@ Denn David fuhr nicht in die Himmel auf, sondern er selbst sagt: ‚Der Herr spr
 
 > **Notizen**
 >
-> 🔴 **KRITISCH — PSALM 110,1: DER DOPPELTE *KYRIOS* (Entscheidung A-005)**
-> - **εἶπεν ὁ κύριος τῷ κυρίῳ μου** (*eipen ho kyrios tō kyriō mou*) = „*Der* Herr sprach zu meinem Herrn." Zwei verschiedene Referenten unter einem griechischen Wort: der erste **κύριος = JHWH** (der Sprecher; Option C — DE→JHWH); der zweite **τῷ κυρίῳ μου = der Gesalbte** (Davids „Herr", der Angeredete). Das ganze davidische Argument hängt an dieser Unterscheidung. Die TT gibt „Der Herr sprach zu meinem Herrn" wieder, und der zitierte Befehl des HERRN „Setze dich zu meiner Rechten…" ist göttliche Rede → markiert @@…@@. **[die zwei Referenten: WAHRSCHEINLICH; die messianische Anwendung ist der Anspruch der Predigt.]** → Begleitmaterial §B4 (Psalm 110 und die Inthronisation).
+> 🔴 **KRITISCH — PSALM 110,1: DER DOPPELTE *KYRIOS***
+> - **εἶπεν ὁ κύριος τῷ κυρίῳ μου** (*eipen ho kyrios tō kyriō mou*) = „*Der* Herr sprach zu meinem Herrn." Zwei verschiedene Referenten unter einem griechischen Wort: der erste **κύριος = JHWH** (der Sprecher; Option C); der zweite **τῷ κυρίῳ μου = der Gesalbte** (Davids „Herr", der Angeredete). Das ganze davidische Argument hängt an dieser Unterscheidung. Die TT gibt „Der Herr sprach zu meinem Herrn" wieder, und der zitierte Befehl des HERRN „Setze dich zu meiner Rechten…" ist göttliche Rede, von Petrus zitiert → nicht markiert (Regel 30). **[die zwei Referenten: WAHRSCHEINLICH; die messianische Anwendung ist der Anspruch der Predigt.]** → Begleitmaterial §B4 (Psalm 110 und die Inthronisation).
 
 ---
 
@@ -457,7 +457,7 @@ bis ich deine Feinde *als* Schemel für deine Füße setze."'
 > **Notizen**
 >
 > 🔵 **„EIN SCHEMEL FÜR DEINE FÜSSE"**
-> - **ὑποπόδιον τῶν ποδῶν σου** (*hypopodion tōn podōn sou*) = „ein Schemel für deine Füße" — die Unterwerfung der Feinde unter den inthronisierten Gesalbten. Der Ich-Befehl des HERRN setzt die bei V.34 markierte göttliche Rede fort. Psalm 110,1 ist der meistzitierte HB-Vers in der GS.
+> - **ὑποπόδιον τῶν ποδῶν σου** (*hypopodion tōn podōn sou*) = „ein Schemel für deine Füße" — die Unterwerfung der Feinde unter den inthronisierten Gesalbten. Der Ich-Befehl des HERRN setzt die bei V.34 begonnene göttliche Rede fort (zitiert, daher nicht markiert). Psalm 110,1 ist der meistzitierte HB-Vers in der GS.
 
 ---
 

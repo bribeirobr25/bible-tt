@@ -80,9 +80,9 @@ A TT traduz ambas literalmente e não decide se "restauração de todas as coisa
 ### A6. Fala divina, fala reportada de Moisés e a decisão de marcação (Regra 30)
 **[TEXTUAL — VERIFICADO]**
 
-O capítulo mistura vozes, e a marcação da Regra 30 da TT as rastreia. O sermão de Kefa (vv.12-26) é fala **humana** e não é marcado. A citação de Moisés (vv.22-23, Dt 18:15-19) é a fala reportada de **Moisés** *sobre* o SENHOR ("*o* Senhor Deus levantará um profeta…"), de modo que também não é marcada como divina. Mas a palavra abraâmica (v.25, "E na tua semente serão abençoadas todas as famílias da terra," Gn 22:18) é a **própria fala direta de aliança do SENHOR**, e é marcada `@@…@@` (conforme a decisão editorial A-004).
+O capítulo mistura vozes, e a marcação da Regra 30 da TT as rastreia. O sermão de Kefa (vv.12-26) é fala **humana** e não é marcado. A citação de Moisés (vv.22-23, Dt 18:15-19) é a fala reportada de **Moisés** *sobre* o SENHOR ("*o* Senhor Deus levantará um profeta…"), de modo que também não é marcada como divina. A palavra abraâmica (v.25, "E na tua semente serão abençoadas todas as famílias da terra," Gn 22:18) é a **própria fala direta de aliança do SENHOR**, mas Kefa a está citando, de modo que também não é marcada.
 
-O resultado é que, dentro de um único sermão humano, as únicas palavras marcadas são a cláusula em que Deus fala em sua própria voz. A TT não aplaina a distinção entre um profeta citando Deus e Deus falando. → Para a política de marcação ao longo de Atos 1–3, veja o registro editorial (escopo da Regra 30).
+O resultado é que todo o sermão fica sem marcação, incluindo a cláusula em que Deus fala em sua própria voz: as palavras de Deus citadas por um falante humano não são marcadas (Regra 30).
 
 ---
 
@@ -233,7 +233,7 @@ O particípio **ἀναστήσας** (*anastēsas*, 3:26), "tendo levantado," p
 
 ## I. O Mundo na Época
 
-> **Referência cruzada:** Para o contexto mundial completo em dois cenários e dez categorias (Político, Economia, Vida Cotidiana, Estrutura Social, Educação, Militar, Artes, Ciência, Religião, Povos Vizinhos), veja o complemento de João 1 (Seção I, `pt-br/john/study/CHAPTER-1-CONTEXT.md`). Atos 3 se passa no mesmo período histórico geral; a seção de João 1 fornece o fundamento. As entradas abaixo abordam as circunstâncias específicas destacadas em Atos 3 — os recintos do templo herodiano, a piedade do templo e a esmola, e o lugar da deficiência na sociedade do Segundo Templo.
+> **Referência cruzada:** Para o contexto mundial completo em dois cenários e dez categorias (Político, Economia, Vida Cotidiana, Estrutura Social, Educação, Militar, Artes, Ciência, Religião, Povos Vizinhos), veja o material de estudo de João 1 (Aprofundar), Seção I. Atos 3 se passa no mesmo período histórico geral; a seção de João 1 fornece o fundamento. As entradas abaixo abordam as circunstâncias específicas destacadas em Atos 3 — os recintos do templo herodiano, a piedade do templo e a esmola, e o lugar da deficiência na sociedade do Segundo Templo.
 
 ---
 
@@ -318,6 +318,4 @@ Após 70 d.C., com o templo desaparecido, o locus da esmola e da caridade desloc
 
 
 **Proveniência editorial:**
-- Redigido por: IA (Claude, Anthropic)
-- Data: 2026-06-24
-- Revisado por: pendente
+- Rascunho assistido por IA, ainda não revisado.

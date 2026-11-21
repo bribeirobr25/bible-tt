@@ -82,12 +82,12 @@ The TT keeps the sermon's seams (the "this is that" formula of v.16; the "men, b
 
 The sermon is built on three HB citations: **Joel 2:28-32** (LXX 3:1-5), the outpoured Spirit and "everyone who calls on the name of *the* Lord" (vv.17-21); **Psalm 16:8-11**, "you will not abandon my soul to Hades" (vv.25-28, 31); and **Psalm 110:1**, "the Lord said to my lord" (vv.34-35). Acts cites the **LXX** form throughout (e.g. *glōssa*, "tongue," for Hebrew *kavod*, "glory," at v.26; *en tais eschatais hēmerais*, "in the last days," where Joel/LXX has "after these things," v.17).
 
-Per Rule 30 the first-person divine portions are marked **@@…@@** (Joel's "I will pour out," vv.17-21; the LORD's command in Ps 110, vv.34-35), while David's own voice in Psalm 16 is human speech and is not. → The citation mechanics, the LXX-vs-Hebrew differences, and the 2:34 double-*kyrios* argument are handled in the **PROPHECY companion**; this companion gives the historical and literary frame only.
+Per Rule 30 the first-person divine portions (Joel's "I will pour out," vv.17-21; the LORD's command in Ps 110, vv.34-35) are not marked, because Peter is quoting them; David's own voice in Psalm 16 is human speech and is not marked either. → The citation mechanics, the LXX-vs-Hebrew differences, and the 2:34 double-*kyrios* argument are handled in the **PROPHECY companion**; this companion gives the historical and literary frame only.
 
 ### A7. *Metanoia*, *aphesis*, immersion in the name, and the *eis* of 2:38
 **[TEXTUAL — VERIFIED (for the lexemes); POSSIBLE INFERENCE — UNCERTAIN (for the force of *eis*)]**
 
-Peter's call (2:38) gathers four locked or loaded terms: **μετανοήσατε** (*metanoēsate*, "change your minds" — the locked GS rendering of *metanoeō*, not penitential "repent"); immersion **ἐπὶ τῷ ὀνόματι Ἰησοῦ** (*epi tō onomati Iēsou*, "upon the name of Yeshua"); **εἰς ἄφεσιν τῶν ἁμαρτιῶν** (*eis aphesin tōn hamartiōn*, "for/unto the release of sins" — *aphesis* as at Luke 1:77; 3:3); and the promised "gift of the holy {a:wind/spirit}." The preposition **εἰς** is genuinely ambiguous — telic ("in order to obtain") or causal/referential ("with reference to") forgiveness — and the TT preserves "for/unto" without resolving it (decision A-005 in the editorial log notes the crux at 2:38).
+Peter's call (2:38) gathers four locked or loaded terms: **μετανοήσατε** (*metanoēsate*, "change your minds" — the locked GS rendering of *metanoeō*, not penitential "repent"); immersion **ἐπὶ τῷ ὀνόματι Ἰησοῦ** (*epi tō onomati Iēsou*, "upon the name of Yeshua"); **εἰς ἄφεσιν τῶν ἁμαρτιῶν** (*eis aphesin tōn hamartiōn*, "for/unto the release of sins" — *aphesis* as at Luke 1:77; 3:3); and the promised "gift of the holy {a:wind/spirit}." The preposition **εἰς** is genuinely ambiguous — telic ("in order to obtain") or causal/referential ("with reference to") forgiveness — and the TT preserves "for/unto" without resolving it.
 
 "Immersion upon the name of Yeshua" picks up "the name of the Lord" of the Joel citation (v.21), where *kyrios* renders YHWH; the same construction is now applied to Jesus. **[POSSIBLE INFERENCE — UNCERTAIN]** Whether the phrase implies a baptismal formula, a transfer of allegiance, or both cannot be settled from the text. → For the community response that follows (vv.41-47), see §D3.
 
@@ -221,7 +221,7 @@ Acts consistently has immersion "upon/in the name of Yeshua" (2:38; cf. 8:16; 10
 
 ## I. The World at the Time
 
-> **Cross-reference:** For the full two-scenario, ten-category world context (Political, Economy, Daily Life, Social Structure, Education, Military, Arts, Science, Religion, Neighboring Peoples), see the John 1 companion (Section I, `en/john/study/CHAPTER-1-CONTEXT.md`). Acts shares the same general first-century period; the John 1 section provides the foundation. The entries below address the specific circumstances foregrounded in Acts 2 — the Shavuot pilgrimage, the diaspora geography of vv.9-11, and the festival economy of Jerusalem.
+> **Cross-reference:** For the full two-scenario, ten-category world context (Political, Economy, Daily Life, Social Structure, Education, Military, Arts, Science, Religion, Neighboring Peoples), see the John 1 study companion (Deeper), Section I. Acts shares the same general first-century period; the John 1 section provides the foundation. The entries below address the specific circumstances foregrounded in Acts 2 — the Shavuot pilgrimage, the diaspora geography of vv.9-11, and the festival economy of Jerusalem.
 
 ---
 
@@ -303,6 +303,4 @@ After 70 CE the diaspora became, even more than before, the demographic center o
 ---
 
 **Editorial provenance:**
-- Drafted by: AI (Claude, Anthropic)
-- Date: 2026-06-24
-- Reviewed by: pending
+- AI-assisted draft, not yet reviewed.
