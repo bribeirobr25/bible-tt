@@ -231,35 +231,6 @@ El participio **ἀναστήσας** (*anastēsas*, 3:26), "habiendo levantado"
 
 ---
 
-## H. Fuentes Consultadas
-
-| Fuente | Tipo | Usada en secciones |
-|--------|------|--------------------|
-| Anderson, R.T. y Giles, T., *The Samaritan Pentateuch*, 2012 | PEER-REVIEWED (monograph) | F |
-| Bahat, D., *The Illustrated Atlas of Jerusalem*, 1990 | PEER-REVIEWED (reference) | C |
-| Bauckham, R. (ed.), *The Book of Acts in Its Palestinian Setting*, 1995 | PEER-REVIEWED (monograph) | C |
-| Bauer, W., *A Greek-English Lexicon of the NT* (BDAG), 3.ª ed., 2000 | PEER-REVIEWED (lexicon) | D |
-| Beale, G.K. y Carson, D.A. (eds.), *Commentary on the NT Use of the OT*, 2007 | PEER-REVIEWED (commentary) | B |
-| Betz, H.D. (ed.), *The Greek Magical Papyri in Translation*, 2.ª ed., 1992 | PRIMARY (text collection) | B |
-| Bock, D.L., *Acts*, Baker Exegetical Commentary, 2007 | PEER-REVIEWED (commentary) | D |
-| Hatch, E. y Redpath, H.A., *A Concordance to the Septuagint*, 2.ª ed., 1998 | PEER-REVIEWED (reference) | D |
-| Josefo, *Jewish Antiquities*, Loeb Classical Library | PRIMARY | B, C |
-| Josefo, *Jewish War*, Loeb Classical Library | PRIMARY | C |
-| Kelly, J.N.D., *Early Christian Doctrines*, 5.ª ed., 1977 | PEER-REVIEWED (monograph) | F |
-| Liddell y Scott, *Greek-English Lexicon*, 9.ª ed. | PEER-REVIEWED (lexicon) | D |
-| Mealand, D.L., "The Restoration of All Things: Acts 3:21", *JTS* | PEER-REVIEWED (article) | D |
-| Metzger, B.M., *A Textual Commentary on the Greek New Testament*, 2.ª ed., 1994 | PEER-REVIEWED (reference) | G |
-| Nestle-Aland, *Novum Testamentum Graece*, 28.ª ed. | PRIMARY | A, D, G |
-| Pao, D.W., *Acts and the Isaianic New Exodus*, 2000 | PEER-REVIEWED (monograph) | B |
-| Ramelli, I.L.E., *The Christian Doctrine of Apokatastasis*, 2013 | PEER-REVIEWED (monograph) | F |
-| Sanders, E.P., *Judaism: Practice and Belief*, 1992 | PEER-REVIEWED (monograph) | C, I |
-| Schiller, G., *Iconography of Christian Art*, 1972 | PEER-REVIEWED (monograph) | F |
-| Schürer, E., *History of the Jewish People*, ed. rev., 1973-1979 | PEER-REVIEWED (monograph) | C, I |
-| Vermes, G., *The Complete Dead Sea Scrolls in English*, ed. rev., 2011 | PRIMARY (text collection) | F |
-| Wilkinson, J., *Jerusalem Pilgrims before the Crusades*, 1977 | PEER-REVIEWED (monograph) | F |
-
----
-
 ## I. El Mundo en Esa Época
 
 > **Referencia cruzada:** Para el contexto mundial completo de dos escenarios y diez categorías (Político, Economía, Vida Cotidiana, Estructura Social, Educación, Militar, Artes, Ciencia, Religión, Pueblos Vecinos), véase el compañero de Juan 1 (Sección I, `es/john/study/CHAPTER-1-CONTEXT.md`). Hechos 3 se sitúa en el mismo período histórico general; la sección de Juan 1 proporciona la base. Las entradas siguientes abordan las circunstancias específicas que aparecen en primer plano en Hechos 3 — los recintos del templo herodiano, la piedad del templo y la limosna, y el lugar de la discapacidad en la sociedad del Segundo Templo.
@@ -315,6 +286,36 @@ Después del 70 e.c., con el templo desaparecido, el locus de la limosna y la ca
 **Fuente:** Cohen, S.J.D., *From the Maccabees to the Mishnah*, 3.ª ed., Westminster John Knox, 2014; Olyan, S.M., *Disability in the Hebrew Bible*, Cambridge University Press, 2008.
 
 ---
+
+## H. Fuentes Consultadas
+
+| Fuente | Tipo | Usada en secciones |
+|--------|------|--------------------|
+| Anderson, R.T. y Giles, T., *The Samaritan Pentateuch*, 2012 | PEER-REVIEWED (monograph) | F |
+| Bahat, D., *The Illustrated Atlas of Jerusalem*, 1990 | PEER-REVIEWED (reference) | C |
+| Bauckham, R. (ed.), *The Book of Acts in Its Palestinian Setting*, 1995 | PEER-REVIEWED (monograph) | C |
+| Bauer, W., *A Greek-English Lexicon of the NT* (BDAG), 3.ª ed., 2000 | PEER-REVIEWED (lexicon) | D |
+| Beale, G.K. y Carson, D.A. (eds.), *Commentary on the NT Use of the OT*, 2007 | PEER-REVIEWED (commentary) | B |
+| Betz, H.D. (ed.), *The Greek Magical Papyri in Translation*, 2.ª ed., 1992 | PRIMARY (text collection) | B |
+| Bock, D.L., *Acts*, Baker Exegetical Commentary, 2007 | PEER-REVIEWED (commentary) | D |
+| Hatch, E. y Redpath, H.A., *A Concordance to the Septuagint*, 2.ª ed., 1998 | PEER-REVIEWED (reference) | D |
+| Josefo, *Jewish Antiquities*, Loeb Classical Library | PRIMARY | B, C |
+| Josefo, *Jewish War*, Loeb Classical Library | PRIMARY | C |
+| Kelly, J.N.D., *Early Christian Doctrines*, 5.ª ed., 1977 | PEER-REVIEWED (monograph) | F |
+| Liddell y Scott, *Greek-English Lexicon*, 9.ª ed. | PEER-REVIEWED (lexicon) | D |
+| Mealand, D.L., "The Restoration of All Things: Acts 3:21", *JTS* | PEER-REVIEWED (article) | D |
+| Metzger, B.M., *A Textual Commentary on the Greek New Testament*, 2.ª ed., 1994 | PEER-REVIEWED (reference) | G |
+| Nestle-Aland, *Novum Testamentum Graece*, 28.ª ed. | PRIMARY | A, D, G |
+| Pao, D.W., *Acts and the Isaianic New Exodus*, 2000 | PEER-REVIEWED (monograph) | B |
+| Ramelli, I.L.E., *The Christian Doctrine of Apokatastasis*, 2013 | PEER-REVIEWED (monograph) | F |
+| Sanders, E.P., *Judaism: Practice and Belief*, 1992 | PEER-REVIEWED (monograph) | C, I |
+| Schiller, G., *Iconography of Christian Art*, 1972 | PEER-REVIEWED (monograph) | F |
+| Schürer, E., *History of the Jewish People*, ed. rev., 1973-1979 | PEER-REVIEWED (monograph) | C, I |
+| Vermes, G., *The Complete Dead Sea Scrolls in English*, ed. rev., 2011 | PRIMARY (text collection) | F |
+| Wilkinson, J., *Jerusalem Pilgrims before the Crusades*, 1977 | PEER-REVIEWED (monograph) | F |
+
+---
+
 
 **Procedencia editorial:**
 - Redactado por: IA (Claude, Anthropic)

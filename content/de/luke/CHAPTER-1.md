@@ -21,7 +21,7 @@
 - [Fortlaufende Lesung](#fortlaufende-lesung)
 - [Vers-für-Vers-Studie](#vers-für-vers-studie)
 - [Glossar — Lukas 1](#glossar---lukas-1)
-- [Kapitelübergreifende Verfolgung (HB -> Lukas)](#kapitelübergreifende-verfolgung-hb---lukas)
+- [Kapitelübergreifende Verfolgung (HB → Lukas)](#kapitelübergreifende-verfolgung-hb---lukas)
 
 ---
 
@@ -36,7 +36,7 @@
 
 Notizen sind nach Typ gekennzeichnet — **Kritisch · Lexikalisch · Grammatisch · Theologisch** — jeweils mit ihrer Farbe (siehe die Legende oben in der Notizen-Ansicht).
 
-**Dies ist das längste Eröffnungskapitel in den Evangelien.** Lukas 1 beginnt mit einem förmlichen literarischen Prolog (V.1-4) — einem einzigen periodischen griechischen Satz, dem „klassischsten" Griechisch in den vier Evangelien — gerichtet an einen Theophilos. Die Erzählung wechselt dann in ein septuagintales Register nach dem Vorbild der HB. Zwei Verkündigungen verlaufen parallel: der Bote Gavriel kündigt die Geburt des Yochanan dem Priester Zecharyah an (V.5-25), dann die Geburt des Yeshua der Miryam (V.26-38). Miryam besucht Elisheva (V.39-45) und singt das Magnificat (V.46-55). Yochanan wird geboren und benannt (V.57-66), und Zecharyah singt das Benedictus (V.67-79). **Hinweis zur Redemarkierung (Regel 30):** Gavriel ist ein *Bote* (*angelos*), nicht Gott — seine Worte sind NICHT als göttliche Rede markiert. Die beiden Cantica (Magnificat, Benedictus) sind *menschliche* Rede und werden als fließende Prosa wiedergegeben. Eigennamen folgen der TT-Transliteration: Yeshua (nicht Jesus), Yochanan (nicht Johannes), Zecharyah (nicht Zacharias), Elisheva (nicht Elisabeth), Miryam (nicht Maria), Gavriel (nicht Gabriel).
+**Dies ist das längste Eröffnungskapitel in den Evangelien.** Lukas 1 beginnt mit einem förmlichen literarischen Prolog (V.1-4) — einem einzigen periodischen griechischen Satz, dem „klassischsten" Griechisch in den vier Evangelien — gerichtet an einen Theophilos. Die Erzählung wechselt dann in ein septuagintales Register nach dem Vorbild der HB. Zwei Verkündigungen verlaufen parallel: der Bote Gavriel kündigt die Geburt des Yochanan dem Priester Zecharyah an (V.5-25), dann die Geburt des Yeshua der Miryam (V.26-38). Miryam besucht Elisheva (V.39-45) und singt das Magnificat (V.46-55). Yochanan wird geboren und benannt (V.57-66), und Zecharyah singt das Benedictus (V.67-79). **Hinweis zur Redemarkierung (Regel 30):** Gavriel ist ein *Bote* (*angelos*), nicht Gott — seine Worte sind NICHT als göttliche Rede markiert. Die beiden Cantica (Magnificat, Benedictus) sind *menschliche* Rede und werden als fließende Prosa wiedergegeben. Namen erscheinen in der vertrauten Form; die ursprachliche Form steht einmal pro Abschnitt — z. B. Yochanan (Johannes).
 
 ---
 
@@ -1065,9 +1065,9 @@ Und das Kind wuchs und wurde stark im Geist, und es war in den Wüsten*orten* bi
 
 ---
 
-## KAPITELÜBERGREIFENDE VERFOLGUNG (HB -> Lukas)
+## KAPITELÜBERGREIFENDE VERFOLGUNG (HB → Lukas)
 
-**1 Sam 1-2 -> Lukas 1 — Channah (Hanna) und das Magnificat:**
+**1 Sam 1-2 → Lukas 1 — Channah (Hanna) und das Magnificat:**
 
 | Element | 1 Samuel 1-2 (Hanna) | Lukas 1 (Elisabeth / Maria) |
 |---------|------------------------|----------------------------|
@@ -1078,7 +1078,7 @@ Und das Kind wuchs und wurde stark im Geist, und es war in den Wüsten*orten* bi
 
 Das Magnificat ist nach Hannas Lied gestaltet; beide feiern eine göttliche Umkehrung, die sich um ein gegen alle Wahrscheinlichkeit gegebenes Kind dreht.
 
-**Gen 18 -> Lukas 1,37 — „nichts unmöglich bei Gott":**
+**Gen 18 → Lukas 1,37 — „nichts unmöglich bei Gott":**
 
 | Element | Gen 18 (Sara) | Lukas 1,37 |
 |---------|----------------|-----------|
@@ -1088,7 +1088,7 @@ Das Magnificat ist nach Hannas Lied gestaltet; beide feiern eine göttliche Umke
 
 Das Gabriel-Orakel an Maria zitiert die Sara-Verheißung nahezu wörtlich aus der LXX und bindet die neuen Geburten an die abrahamische Linie.
 
-**Mal 3,1; 3,23-24 / Jes 40,3 -> Lukas 1,17; 76 — Johannes als der wiederkehrende Eliyahu (Elija):**
+**Mal 3,1; 3,23-24 / Jes 40,3 → Lukas 1,17; 76 — Johannes als der wiederkehrende Eliyahu (Elija):**
 
 | Element | Maleachi / Jesaja | Lukas 1 |
 |---------|-------------------|--------|
@@ -1098,7 +1098,7 @@ Das Gabriel-Orakel an Maria zitiert die Sara-Verheißung nahezu wörtlich aus de
 
 Lukas stellt Johannes als die prophezeite Elija-Gestalt dar; die Quelltexte sprechen von JHWH, während das Evangelium den Referenten zu Yeshua hin verschmilzt — die TT bewahrt die Verschmelzung (Regel 13: Möglich).
 
-**2 Sam 7 / Ps 18, 132 -> Lukas 1,32-33; 69 — davidischer Thron und „Horn der Rettung":**
+**2 Sam 7 / Ps 18, 132 → Lukas 1,32-33; 69 — davidischer Thron und „Horn der Rettung":**
 
 | Element | 2 Sam 7 / Psalmen | Lukas 1 |
 |---------|-------------------|--------|
@@ -1108,7 +1108,7 @@ Lukas stellt Johannes als die prophezeite Elija-Gestalt dar; die Quelltexte spre
 
 Sowohl Verkündigung als auch Benedictus verwurzeln die Bestimmung des Kindes im davidischen Bund und seinen Psalmen des königlichen Sieges.
 
-**Gen 22,16-18 / Gen 17,7 -> Lukas 1,55; 72-73 — der Eid an Avraham (Abraham):**
+**Gen 22,16-18 / Gen 17,7 → Lukas 1,55; 72-73 — der Eid an Avraham (Abraham):**
 
 | Element | Genesis | Lukas 1 |
 |---------|---------|--------|

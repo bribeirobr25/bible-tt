@@ -22,7 +22,7 @@
 - [Lectura Continua](#lectura-continua)
 - [Estudio Versículo por Versículo](#estudio-versículo-por-versículo)
 - [Glosario — 1 Pedro 4](#glosario---1-pedro-4)
-- [Seguimiento entre Capítulos (BH -> 1 Pedro)](#seguimiento-entre-capítulos-bh--1-pedro)
+- [Seguimiento entre Capítulos (BH → 1 Pedro)](#seguimiento-entre-capítulos-bh--1-pedro)
 
 ---
 
@@ -296,7 +296,7 @@ Así que, *que* también los que sufren según *la* voluntad de Dios encomienden
 
 ---
 
-## SEGUIMIENTO ENTRE CAPÍTULOS (BH -> 1 PEDRO)
+## SEGUIMIENTO ENTRE CAPÍTULOS (BH → 1 PEDRO)
 
 | BH / fuente anterior | Tema | En 1 Pedro 4 |
 |---------------------|-------|--------------|

@@ -82,5 +82,4 @@ Lucas, sozinho entre os Evangelhos, enquadra a narrativa como uma história deli
 - Redigido por: IA (Claude, Anthropic)
 - Data: 2026-06-23
 - Revisado por: pendente
-</content>
 </invoke>

@@ -20,7 +20,7 @@
 - [Continuous Reading](#continuous-reading)
 - [Verse-by-Verse Study](#verse-by-verse-study)
 - [Glossary — 1 Peter 1](#glossary--1-peter-1)
-- [Cross-Chapter Tracking (HB -> 1 Peter)](#cross-chapter-tracking-hb--1-peter)
+- [Cross-Chapter Tracking (HB → 1 Peter)](#cross-chapter-tracking-hb--1-peter)
 
 ---
 
@@ -35,7 +35,7 @@
 
 Notes are tagged by type — **Critical · Lexical · Grammatical · Theological** — each shown with its colour (see the legend at the top of the Notes view).
 
-**This is the opening of 1 Peter — the corpus's first *letter*.** It is a circular epistle to scattered believers — "elect exiles of the dispersion" — across five provinces of Asia Minor (1:1, provinces that overlap the Acts 2:9 pilgrim list). Chapter 1 has the epistolary **salutation** (vv.1-2), then a single soaring Greek sentence of **blessing** (vv.3-12) on the new birth, the living hope, the imperishable inheritance, and the salvation the prophets searched out; then the first **exhortations** — to holiness (vv.13-21) and to love from a pure heart (vv.22-25). **Note on speech-marking (Rule 30):** 1 Peter is the apostle's exhortation in his own voice — there is no narrated divine speech; only God's first-person word *inside* an OT citation is marked (1:16, "I am holy," from Leviticus). Proper names follow TT transliteration: Kefa (Peter), Yeshua (Jesus).
+**This is the opening of 1 Peter — the corpus's first *letter*.** It is a circular epistle to scattered believers — "elect exiles of the dispersion" — across five provinces of Asia Minor (1:1, provinces that overlap the Acts 2:9 pilgrim list). Chapter 1 has the epistolary **salutation** (vv.1-2), then a single soaring Greek sentence of **blessing** (vv.3-12) on the new birth, the living hope, the imperishable inheritance, and the salvation the prophets searched out; then the first **exhortations** — to holiness (vv.13-21) and to love from a pure heart (vv.22-25). **Note on speech-marking (Rule 30):** 1 Peter is the apostle's exhortation in his own voice — there is no narrated divine speech; only God's first-person word *inside* an OT citation is marked (1:16, "I am holy," from Leviticus). Names appear in their familiar form, with the source-language form given once per section — e.g. Yochanan (John).
 
 ---
 
@@ -63,7 +63,7 @@ Notes are tagged by type — **Critical · Lexical · Grammatical · Theological
 
 ¹⁰Concerning this salvation, *the* prophets searched and inquired *carefully*, who prophesied concerning the grace *coming* to you, ¹¹inquiring into what or what manner of time the {a:wind/spirit} of *the* Messiah in them was indicating, testifying beforehand to the sufferings *destined* for the Messiah and the glories after these. ¹²To them it was revealed that not for themselves, but for you, they were serving these *things*, which now have been announced to you through those who preached the good news to you by *the* holy {a:wind/spirit} sent from heaven — into which *things* angels long to look.
 
-¹³Therefore, having girded the loins of your mind, being sober, set your hope completely on the grace being brought to you at *the* revelation of Yeshua *the* Messiah (Jesus). ¹⁴As children of obedience, not being conformed to the former desires *that were yours* in your ignorance, ¹⁵but according to the holy *One* who called you, you yourselves also be holy in all *your* conduct, ¹⁶because it is written, @@"Be holy, because I *am* holy."@@ ¹⁷And if you call upon *as* Father the *One* judging impartially according to each one's work, conduct yourselves in fear *during* the time of your sojourning, ¹⁸knowing that not with perishable *things* — silver or gold — were you ransomed from your futile way of life handed down from *the* fathers, ¹⁹but with *the* precious blood, as of a lamb without blemish and without spot, of *the* Messiah, ²⁰foreknown before *the* foundation of *the* world but revealed in *the* last of the times for your *sake*, ²¹who through him *are* faithful toward God, the *One* who raised him from *the* dead and gave him glory, so that your faith and hope might be in God.
+¹³Therefore, having girded the loins of your mind, being sober, set your hope completely on the grace being brought to you at *the* revelation of Yeshua *the* Messiah (Jesus). ¹⁴As children of obedience, not being conformed to the former desires *that were yours* in your ignorance, ¹⁵but according to the holy *One* who called you, you yourselves also be holy in all *your* conduct, ¹⁶because it is written, "Be holy, because I *am* holy." ¹⁷And if you call upon *as* Father the *One* judging impartially according to each one's work, conduct yourselves in fear *during* the time of your sojourning, ¹⁸knowing that not with perishable *things* — silver or gold — were you ransomed from your futile way of life handed down from *the* fathers, ¹⁹but with *the* precious blood, as of a lamb without blemish and without spot, of *the* Messiah, ²⁰foreknown before *the* foundation of *the* world but revealed in *the* last of the times for your *sake*, ²¹who through him *are* faithful toward God, the *One* who raised him from *the* dead and gave him glory, so that your faith and hope might be in God.
 
 ²²Having purified your souls in the obedience of the truth for sincere brotherly love, love one another earnestly from a pure heart, ²³having been born again, not from perishable seed but imperishable, through *the* living and abiding word of God. ²⁴For "all flesh *is* like grass, and all its glory like *the* flower of grass; the grass withered, and the flower fell off, ²⁵but the word of *the* Lord endures into the age." And this is the word that was preached as good news to you.
 
@@ -241,7 +241,7 @@ but according to the holy *One* who called you, you yourselves also be holy in a
 
 ### **Verse 16**
 
-because it is written, @@"Be holy, because I *am* holy."@@
+because it is written, "Be holy, because I *am* holy."
 
 > **Notes**
 >
@@ -367,7 +367,7 @@ but the word of *the* Lord endures into the age." And this is the word that was 
 
 ---
 
-## Cross-Chapter Tracking (HB -> 1 Peter)
+## Cross-Chapter Tracking (HB → 1 Peter)
 
 | HB / earlier source | Theme | In 1 Peter 1 |
 |---------------------|-------|--------------|

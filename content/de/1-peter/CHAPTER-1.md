@@ -21,7 +21,7 @@
 - [Fortlaufende Lesung](#fortlaufende-lesung)
 - [Vers-für-Vers-Studie](#vers-für-vers-studie)
 - [Glossar — 1. Petrus 1](#glossar--1-petrus-1)
-- [Kapitelübergreifende Verfolgung (HB -> 1. Petrus)](#kapitelübergreifende-verfolgung-hb--1-petrus)
+- [Kapitelübergreifende Verfolgung (HB → 1. Petrus)](#kapitelübergreifende-verfolgung-hb--1-petrus)
 
 ---
 
@@ -36,7 +36,7 @@
 
 Notizen sind nach Typ gekennzeichnet — **Kritisch · Lexikalisch · Grammatisch · Theologisch** — jeweils mit ihrer Farbe (siehe die Legende oben in der Notizen-Ansicht).
 
-**Dies ist die Eröffnung des 1. Petrusbriefes — des ersten *Briefes* des Korpus.** Es ist ein Rundbrief an zerstreute Gläubige — „erwählte Fremdlinge der Zerstreuung" — über fünf Provinzen Kleinasiens hin (1,1, Provinzen, die sich mit der Pilgerliste von Apg 2,9 überschneiden). Kapitel 1 enthält die brieflichen **Grußworte** (V.1-2), dann einen einzigen, aufschwingenden griechischen Satz des **Lobpreises** (V.3-12) über die Wiedergeburt, die lebendige Hoffnung, das unvergängliche Erbe und die Rettung, die die Propheten erforschten; dann die ersten **Ermahnungen** — zur Heiligkeit (V.13-21) und zur Liebe aus reinem Herzen (V.22-25). **Hinweis zur Redemarkierung (Regel 30):** Der 1. Petrusbrief ist die Ermahnung des Apostels in seiner eigenen Stimme — es gibt keine erzählte göttliche Rede; nur Gottes Wort in der ersten Person *innerhalb* eines alttestamentlichen Zitats ist markiert (1,16, „ich bin heilig", aus Levitikus). Eigennamen folgen der TT-Transliteration: Kefa (Petrus), Yeshua (Jesus).
+**Dies ist die Eröffnung des 1. Petrusbriefes — des ersten *Briefes* des Korpus.** Es ist ein Rundbrief an zerstreute Gläubige — „erwählte Fremdlinge der Zerstreuung" — über fünf Provinzen Kleinasiens hin (1,1, Provinzen, die sich mit der Pilgerliste von Apg 2,9 überschneiden). Kapitel 1 enthält die brieflichen **Grußworte** (V.1-2), dann einen einzigen, aufschwingenden griechischen Satz des **Lobpreises** (V.3-12) über die Wiedergeburt, die lebendige Hoffnung, das unvergängliche Erbe und die Rettung, die die Propheten erforschten; dann die ersten **Ermahnungen** — zur Heiligkeit (V.13-21) und zur Liebe aus reinem Herzen (V.22-25). **Hinweis zur Redemarkierung (Regel 30):** Der 1. Petrusbrief ist die Ermahnung des Apostels in seiner eigenen Stimme — es gibt keine erzählte göttliche Rede; nur Gottes Wort in der ersten Person *innerhalb* eines alttestamentlichen Zitats ist markiert (1,16, „ich bin heilig", aus Levitikus). Namen erscheinen in der vertrauten Form; die ursprachliche Form steht einmal pro Abschnitt — z. B. Yochanan (Johannes).
 
 ---
 
@@ -64,7 +64,7 @@ Notizen sind nach Typ gekennzeichnet — **Kritisch · Lexikalisch · Grammatisc
 
 ¹⁰Über diese Rettung haben *die* Propheten gesucht und *sorgfältig* nachgeforscht, die über die Gnade weissagten, die *zu* euch *kommt*, ¹¹und forschten, auf welche oder was für eine Zeit der {a:Wind/Geist} *des* Messias in ihnen hindeutete, der zuvor von den Leiden zeugte, die *für* den Messias *bestimmt waren*, und von den Herrlichkeiten danach. ¹²Ihnen wurde offenbart, dass sie nicht sich selbst, sondern euch diese *Dinge* dienten, die euch jetzt verkündigt worden sind durch die, die euch die gute Botschaft predigten durch *den* heiligen {a:Wind/Geist}, gesandt vom Himmel — in welche *Dinge* die Boten zu schauen begehren.
 
-¹³Darum, nachdem ihr die Lenden eurer Gesinnung umgürtet habt, seid nüchtern und setzt eure Hoffnung völlig auf die Gnade, die euch gebracht wird bei *der* Offenbarung Yeshuas *des* Messias (Jesus). ¹⁴Als Kinder des Gehorsams, euch nicht gleichgestaltend den früheren Begierden, *die ihr* in eurer Unwissenheit *hattet*, ¹⁵sondern wie der Heilige, der euch berufen hat, so seid auch ihr selbst heilig in *eurem* ganzen Wandel, ¹⁶denn es steht geschrieben: @@"Seid heilig, denn ich *bin* heilig."@@ ¹⁷Und wenn ihr *als* Vater den anruft, der unparteiisch richtet nach eines jeden Werk, so wandelt in Furcht *während* der Zeit eurer Fremdlingschaft, ¹⁸da ihr wisst, dass ihr nicht mit vergänglichen *Dingen* — Silber oder Gold — losgekauft worden seid aus eurem nichtigen, von *den* Vätern überlieferten Wandel, ¹⁹sondern mit *dem* kostbaren Blut, wie *von* einem Lamm ohne Fehl und ohne Flecken, *dem* des Messias, ²⁰zuvor erkannt vor *der* Grundlegung *der* Welt, aber offenbart in *der* letzten der Zeiten für euch, ²¹die ihr durch ihn *gläubig seid* an Gott, der ihn von *den* Toten auferweckt und ihm Herrlichkeit gegeben hat, sodass euer Glaube und *eure* Hoffnung auf Gott *gerichtet* sind.
+¹³Darum, nachdem ihr die Lenden eurer Gesinnung umgürtet habt, seid nüchtern und setzt eure Hoffnung völlig auf die Gnade, die euch gebracht wird bei *der* Offenbarung Yeshuas *des* Messias (Jesus). ¹⁴Als Kinder des Gehorsams, euch nicht gleichgestaltend den früheren Begierden, *die ihr* in eurer Unwissenheit *hattet*, ¹⁵sondern wie der Heilige, der euch berufen hat, so seid auch ihr selbst heilig in *eurem* ganzen Wandel, ¹⁶denn es steht geschrieben: "Seid heilig, denn ich *bin* heilig." ¹⁷Und wenn ihr *als* Vater den anruft, der unparteiisch richtet nach eines jeden Werk, so wandelt in Furcht *während* der Zeit eurer Fremdlingschaft, ¹⁸da ihr wisst, dass ihr nicht mit vergänglichen *Dingen* — Silber oder Gold — losgekauft worden seid aus eurem nichtigen, von *den* Vätern überlieferten Wandel, ¹⁹sondern mit *dem* kostbaren Blut, wie *von* einem Lamm ohne Fehl und ohne Flecken, *dem* des Messias, ²⁰zuvor erkannt vor *der* Grundlegung *der* Welt, aber offenbart in *der* letzten der Zeiten für euch, ²¹die ihr durch ihn *gläubig seid* an Gott, der ihn von *den* Toten auferweckt und ihm Herrlichkeit gegeben hat, sodass euer Glaube und *eure* Hoffnung auf Gott *gerichtet* sind.
 
 ²²Da ihr eure Seelen gereinigt habt im Gehorsam der Wahrheit zu ungeheuchelter Bruderliebe, so liebt einander beharrlich aus reinem Herzen, ²³wiedergezeugt nicht aus vergänglichem Samen, sondern aus unvergänglichem, durch *das* lebendige und bleibende Wort Gottes. ²⁴Denn „alles Fleisch *ist* wie Gras, und alle seine Herrlichkeit wie *die* Blume des Grases; das Gras verdorrte, und die Blume fiel ab, ²⁵aber das Wort *des* Herrn bleibt in Ewigkeit." Und dies ist das Wort, das euch als gute Botschaft verkündigt wurde.
 
@@ -242,7 +242,7 @@ sondern wie der Heilige, der euch berufen hat, so seid auch ihr selbst heilig in
 
 ### **Vers 16**
 
-denn es steht geschrieben: @@"Seid heilig, denn ich *bin* heilig."@@
+denn es steht geschrieben: "Seid heilig, denn ich *bin* heilig."
 
 > **Notizen**
 >
@@ -368,7 +368,7 @@ aber das Wort *des* Herrn bleibt in Ewigkeit." Und dies ist das Wort, das euch a
 
 ---
 
-## Kapitelübergreifende Verfolgung (HB -> 1. Petrus)
+## Kapitelübergreifende Verfolgung (HB → 1. Petrus)
 
 | HB / frühere Quelle | Thema | In 1. Petrus 1 |
 |---------------------|-------|--------------|

@@ -275,6 +275,6 @@ Este arquivo apresenta informações biográficas e genealógicas sobre figuras 
 - **PRIMARY** — Biblia Hebraica Stuttgartensia (BHS), 5ª ed. (Deutsche Bibelgesellschaft, 1997). Usada para citações do AT e etimologias de nomes.
 - **PRIMARY** — Josefo, *Antiquitates Judaicae* (AJ) e *Bellum Judaicum* (BJ), ed. Niese. Usado para figuras históricas (Herodes, Archelaos).
 - **PEER-REVIEWED (lexicon)** — BDAG, *A Greek-English Lexicon of the New Testament*, 3ª ed.; HALOT, *The Hebrew and Aramaic Lexicon of the Old Testament*.
-- **PEER-REVIEWED (commentary)** â Davies, W.D. e Allison, D.C., *A Critical and Exegetical Commentary on the Gospel of Matthew* (ICC, 1988); Luz, U., *Matthew 1–7* (Hermeneia, 2007).
+- **PEER-REVIEWED (commentary)** — Davies, W.D. e Allison, D.C., *A Critical and Exegetical Commentary on the Gospel of Matthew* (ICC, 1988); Luz, U., *Matthew 1–7* (Hermeneia, 2007).
 
 > **Proveniência editorial:** Redigido por Claude Opus 4.6 (contexto 1M) em 2026-04-27. Ainda não revisado. Este arquivo é um recurso acadêmico provisório governado pela Regra 29 da TT. Referências cruzadas a genesis/PEOPLE.md vinculam a entradas existentes em vez de duplicar conteúdo.

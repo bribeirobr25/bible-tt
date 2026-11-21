@@ -22,7 +22,7 @@
 - [Lectura Continua](#lectura-continua)
 - [Estudio Versículo por Versículo](#estudio-versículo-por-versículo)
 - [Glosario — Juan 1](#glosario---juan-1)
-- [Seguimiento entre Capítulos (Génesis -> Juan)](#seguimiento-entre-capítulos-genesis--juan)
+- [Seguimiento entre Capítulos (Génesis → Juan)](#seguimiento-entre-capítulos-genesis--juan)
 
 ---
 
@@ -37,7 +37,7 @@
 
 Las notas se etiquetan por tipo — **Crítico · Léxico · Gramatical · Teológico** — cada una con su color (vea la leyenda en la parte superior de la vista de Notas).
 
-**Este es el primer capítulo de las Escrituras Griegas en el proyecto TT.** El Prologo (1:1-18) se encuentra entre los pasajes teologicamente mas densos de las Escrituras Griegas. El término *logos* ("palabra") posee un rango semántico mucho mas amplio que cualquier palabra en español. La TT lo traduce como "palabra" (minúscula) con una nota crítica en v.1 sobre el rango semántico. Los nombres propios siguen la transliteracion TT: Yochanan (no Juan), Yeshua (no Jesus), Kefa (no Pedro), Philippos, Nathanael, Andreas. El sistema de aspecto verbal difiere del sistema de tiempos hebreos usado en Génesis — el aspecto griego (como el hablante concibe la acción) es primario, no el tiempo.
+**Este es el primer capítulo de las Escrituras Griegas en el proyecto TT.** El Prologo (1:1-18) se encuentra entre los pasajes teologicamente mas densos de las Escrituras Griegas. El término *logos* ("palabra") posee un rango semántico mucho mas amplio que cualquier palabra en español. La TT lo traduce como "palabra" (minúscula) con una nota crítica en v.1 sobre el rango semántico. Los nombres aparecen en su forma familiar, con la forma de la lengua original indicada una vez por sección — p. ej., Yochanan (Juan). El sistema de aspecto verbal difiere del sistema de tiempos hebreos usado en Génesis — el aspecto griego (como el hablante concibe la acción) es primario, no el tiempo.
 
 ---
 
@@ -47,7 +47,7 @@ Las notas se etiquetan por tipo — **Crítico · Léxico · Gramatical · Teol�
 
 **Temas clave:** La palabra como agente preexistente de la creación; luz contra oscuridad; testimonio como funcion primaria del Inmersor; "carne" — el griego carne abarca existencia física, mortal, corporea. Algunas tradiciones interpretativas paulinas lo traducen como "naturaleza pecaminosa" (contexto de Romanos 7-8); en Juan, carne es consistentemente físico/mortal; gracia/favor y verdad por medio de Jesús el ungido contra la ley por medio de Moisés; "Nadie ha visto a Dios jamás" — una afirmación de limite teológico; el cordero de Dios; el viento/espíritu descendiendo; la reunión de los primeros seguidores; el eco de la escalera de Jacob (Gen 28:12) en v.51.
 
-**Observe:** El imperfecto "era" en v.1 — existencia continua, contrastado con el aoristo "llegó a ser" en v.3; el límite ambiguo de frase en vv.3-4 (qué pertenece a qué); "en él era vida" o "lo que llegó a ser — en él era vida" — ambas lecturas anotadas; el cambio del prólogo cósmico (vv.1-18) a la narrativa testimonial (vv.19-51); la triple negación de Juan (no el ungido, no Elías, no el Profeta); el profeta mosaico de Deut 18:15 detras de "el Profeta"; el cambio de nombre de Simón a Kefa (eco de Abram -> Abraham); "¿De Nazaret puede salir algo bueno?" — el escepticismo de Nathanael; el titulo hijo del hombre (primera ocurrencia en este Evangelio).
+**Observe:** El imperfecto "era" en v.1 — existencia continua, contrastado con el aoristo "llegó a ser" en v.3; el límite ambiguo de frase en vv.3-4 (qué pertenece a qué); "en él era vida" o "lo que llegó a ser — en él era vida" — ambas lecturas anotadas; el cambio del prólogo cósmico (vv.1-18) a la narrativa testimonial (vv.19-51); la triple negación de Juan (no el ungido, no Elías, no el Profeta); el profeta mosaico de Deut 18:15 detras de "el Profeta"; el cambio de nombre de Simón a Kefa (eco de Abram → Abraham); "¿De Nazaret puede salir algo bueno?" — el escepticismo de Nathanael; el titulo hijo del hombre (primera ocurrencia en este Evangelio).
 
 **Conexion:** La apertura "En *el* principio" (en arche) hace eco directo de Gen 1:1 (bereshit). La creación mediante la palabra en Gen 1 ("Y dijo Dios") encuentra su contraparte teológica en la palabra por medio del cual todas las cosas llegaron a ser. Luz y oscuridad (Gen 1:3-5) reaparecen como categorías cosmicas. El viento/espíritu moviéndose sobre las aguas (Gen 1:2) se conecta con el viento/espíritu descendiendo sobre Jesús en la inmersion. Los mensajeros ascendiendo y descendiendo (v.51) citan directamente la visión de la escalera de Jacob (Gen 28:12).
 
@@ -65,7 +65,7 @@ Las notas se etiquetan por tipo — **Crítico · Léxico · Gramatical · Teol�
 
 ¹⁴Y la palabra se hizo carne y habitó entre nosotros, y vimos su gloria — gloria como de un único *venido* de un padre — lleno de {a:gracia/favor} y verdad. ¹⁵Yochanan testifica acerca de él y ha clamado, diciendo: "Este era aquel de quien yo dije: 'El que viene después de mí ha llegado a ser antes que yo, porque era primero *con respecto* a mí.'" ¹⁶Porque de su plenitud todos nosotros recibimos, y {a:gracia/favor} sobre {a:gracia/favor}. ¹⁷Porque la ley fue dada por medio de Mosheh; la {a:gracia/favor} y la verdad llegaron a ser por medio de Yeshua, *el* ungido. ¹⁸A Dios nadie lo ha visto jamás; el único-nacido Dios, el que está en el seno del Padre — ese lo ha dado a conocer.
 
-¹⁹Y este es el testimonio de Yochanan, cuando los yehudim enviaron sacerdotes y levitas desde Yerushalayim para preguntarle: "¿Quién eres tú?" ²⁰Y él confesó y no negó, y confesó: "Yo no soy el ungido." ²¹Y le preguntaron: "¿Qué, entonces? ¿Eres tú Eliyahu?" Y dice: "No soy." "¿Eres tú el Profeta?" Y respondió: "No." ²²Entonces le dijeron: "¿Quién eres? — para que demos respuesta a los que nos enviaron. ¿Qué dices acerca de ti mismo?" ²³Dijo: "Yo *soy* una voz que clama en el desierto: 'Enderecen el camino del Señor'" — como dijo Yeshayahu el profeta.
+¹⁹Y este es el testimonio de Yochanan, cuando los Yehudim enviaron sacerdotes y levitas desde Yerushalayim para preguntarle: "¿Quién eres tú?" ²⁰Y él confesó y no negó, y confesó: "Yo no soy el ungido." ²¹Y le preguntaron: "¿Qué, entonces? ¿Eres tú Eliyahu?" Y dice: "No soy." "¿Eres tú el Profeta?" Y respondió: "No." ²²Entonces le dijeron: "¿Quién eres? — para que demos respuesta a los que nos enviaron. ¿Qué dices acerca de ti mismo?" ²³Dijo: "Yo *soy* una voz que clama en el desierto: 'Enderecen el camino del Señor'" — como dijo Yeshayahu el profeta.
 
 ²⁴Y *los que* habían sido enviados eran de los perushim. ²⁵Y le preguntaron y le dijeron: "¿Por qué entonces sumerges, si tú no eres el ungido, ni Eliyahu, ni el Profeta?" ²⁶Yochanan les respondió, diciendo: "Yo sumerjo en agua; en medio de ustedes esta uno a quien ustedes no conocen — ²⁷el que viene después de mí, de quien yo no soy digno de desatar la correa de su sandalia." ²⁸Estas cosas sucedieron en Beyt-Anyah al otro lado del Yarden, donde Yochanan estaba sumergiendo.
 
@@ -141,7 +141,7 @@ Lo que ha llegado a ser — en él era vida, y la vida era la luz de los humanos
 >
 > 🟢 **"VIDA" Y "LUZ" — PRIMERA OCURRENCIA**
 > - **zoe** (*zoe*) = vida — especificamente vida vital, animada. Distinguida de **bios** (*bios*, sustento/modo de vida) en el uso griego mas amplio.
-> - **phos** (*phos*) = luz. La conexión vida -> luz hace eco de Gen 1:3 (la luz como la primera cosa creada) pero aquí identifica al *logos* como la fuente.
+> - **phos** (*phos*) = luz. La conexión vida → luz hace eco de Gen 1:3 (la luz como la primera cosa creada) pero aquí identifica al *logos* como la fuente.
 >
 > 🟢 **"DE LOS HUMANOS" — ton anthropon**
 > - **anthropos** (*anthropos*) = ser humano (genérico, no especifico de genero). La vida-como-luz es para toda la humanidad.
@@ -232,7 +232,7 @@ Vino a lo suyo *propio*, y los suyos *propios* no lo recibieron.
 
 > **NOTAS**
 >
-> 🔵 **CAMBIO NEUTRO -> MASCULINO**
+> 🔵 **CAMBIO NEUTRO → MASCULINO**
 > - **eis ta idia** (*eis ta idia*) = "a lo suyo propio" (neutro plural — dominio, propiedad, patria). **hoi idioi** (*hoi idioi*) = "los suyos propios" (masculino plural — personas). El cambio de neutro a masculino precisa el rechazo: vino a su propio lugar, sus propias personas no lo recibieron.
 
 ---
@@ -343,12 +343,12 @@ A Dios nadie lo ha visto jamás; el único-nacido Dios, el que está en el seno 
 
 ### **Versículo 19**
 
-Y este es el testimonio de Yochanan, cuando los yehudim enviaron sacerdotes y levitas desde Yerushalayim para preguntarle: "¿Quién eres tú?"
+Y este es el testimonio de Yochanan, cuando los Yehudim enviaron sacerdotes y levitas desde Yerushalayim para preguntarle: "¿Quién eres tú?"
 
 > **NOTAS**
 >
 > 🔴 **CRÍTICO — *HOI IOUDAIOI* ("LOS YEHUDIM")**
-> - **hoi Ioudaioi** (*hoi Ioudaioi*) = literalmente "los judeos" — los de Yehudah/Judea. En el Evangelio de Juan, este término funciona de multiples maneras: (1) étnico/geográfico ("gente de Judea"), (2) autoridades religiosas ("el liderazgo judeo"), (3) mas ampliamente "el pueblo judío." La TT traduce "los yehudim" — transliterando en lugar de traducir — para preservar la ambiguedad. El término NO significa "los judíos" en el sentido étnico/religioso moderno sin cualificacion. El contexto debe determinar el referente por versículo. Nota de primera ocurrencia.
+> - **hoi Ioudaioi** (*hoi Ioudaioi*) = literalmente "los judeos" — los de Yehudah/Judea. En el Evangelio de Juan, este término funciona de multiples maneras: (1) étnico/geográfico ("gente de Judea"), (2) autoridades religiosas ("el liderazgo judeo"), (3) mas ampliamente "el pueblo judío." La TT traduce "los Yehudim" — transliterando en lugar de traducir — para preservar la ambiguedad. El término NO significa "los judíos" en el sentido étnico/religioso moderno sin cualificacion. El contexto debe determinar el referente por versículo. Nota de primera ocurrencia.
 >
 > 🟢 **YERUSHALAYIM — TRANSLITERACION TT**
 > - **Hierosolyma** (*Hierosolyma*) = forma griega del hebreo Yerushalayim (*Yerushalayim*). La TT usa la forma hebrea.
@@ -537,7 +537,7 @@ Y yo he visto, y he testificado que este es el hijo de Dios."
 > **NOTAS**
 >
 > 🔴 **CRÍTICO — VARIANTE TEXTUAL: "HIJO DE DIOS" vs. "ELEGIDO DE DIOS"**
-> - El texto principal de NA28 lee **ho huios tou theou** (*ho huios tou theou*) = "el Hijo de Dios." Una variante significativa lee **ho eklektos tou theou** (*ho eklektos tou theou*) = "el elegido de Dios" — atestiguada por P5vid, alef*, b, e, ff2, algunos testigos siriacos. La lectura "elegido" es la *lectio difficilior* (lectura mas difícil) pero tiene atestiguacion mas limitada. NA28 retiene "Hijo de Dios." La TT sigue a NA28 pero anota la variante.
+> - El texto principal de NA28 lee **ho huios tou theou** (*ho huios tou theou*) = "el Hijo de Dios." Una variante significativa lee **ho eklektos tou theou** (*ho eklektos tou theou*) = "el elegido de Dios" — atestiguada por 𝔓5vid, א*, b, e, ff2, algunos testigos siriacos. La lectura "elegido" es la *lectio difficilior* (lectura mas difícil) pero tiene atestiguacion mas limitada. NA28 retiene "Hijo de Dios." La TT sigue a NA28 pero anota la variante.
 
 ---
 
@@ -576,7 +576,7 @@ Y Yeshua, habiendose vuelto y habiendo visto que lo seguian, les dice: @@"¿Qué
 > **NOTAS**
 >
 > 🟢 **"RABBI" — TRANSLITERADO EN EL TEXTO GRIEGO**
-> - **Rhabbi** (*Rhabbi*) = ya es una transliteracion en el griego del hebreo/arameo rabbi (*rabbi*, "mi grande" -> "mi maestro"). El narrador lo traduce para los lectores griegos: "que, traducido, significa Maestro." La TT preserva la glosa del propio narrador.
+> - **Rhabbi** (*Rhabbi*) = ya es una transliteracion en el griego del hebreo/arameo rabbi (*rabbi*, "mi grande" → "mi maestro"). El narrador lo traduce para los lectores griegos: "que, traducido, significa Maestro." La TT preserva la glosa del propio narrador.
 >
 > 🔵 **PRIMERAS PALABRAS DE YESHUA EN JUAN — "¿QUE BUSCAN?"**
 > - Las primeras palabras habladas por Yeshua en este Evangelio son una pregunta, no una declaración. El patron de Yeshua haciendo preguntas antes de responderlas se repite a lo largo de Juan.
@@ -625,7 +625,7 @@ Lo llevo a Yeshua. Habiendolo mirado, Yeshua dijo: @@"Tu eres Shimon, el hijo de
 > 🟢 **KEFA — TRANSLITERACION TT**
 > - **Kephas** (*Kephas*) = transliteracion griega del arameo Kefa (*Kefa*, "roca"). El narrador anade la traducción griega: Petros (*Petros*, "Roca"). La TT usa "Kefa" y proporciona el significado "Roca" como lo hace el narrador.
 >
-> 🟡 **CAMBIO DE NOMBRE — ECOS DE AVRAM -> AVRAHAM**
+> 🟡 **CAMBIO DE NOMBRE — ECOS DE AVRAM → AVRAHAM**
 > - Yeshua renombra a Shimon como Kefa, así como Dios renombro a Avram como Avraham (Gen 17:5) y a Yaakov como Yisrael (Gen 32:28 [29]). El cambio de nombre senala una nueva identidad y vocación.
 
 ---
@@ -766,9 +766,9 @@ Y le dice: @@"Amen, amen, les digo, veran el cielo abierto y los mensajeros de D
 
 ---
 
-## SEGUIMIENTO ENTRE CAPÍTULOS (Génesis -> Juan)
+## SEGUIMIENTO ENTRE CAPÍTULOS (Génesis → Juan)
 
-**Gen 1:1 -> Juan 1:1 — "En el principio":**
+**Gen 1:1 → Juan 1:1 — "En el principio":**
 
 | Elemento | Gen 1:1 | Juan 1:1 |
 |----------|---------|----------|
@@ -779,7 +779,7 @@ Y le dice: @@"Amen, amen, les digo, veran el cielo abierto y los mensajeros de D
 
 El eco es deliberado. Juan abre con la misma frase que Génesis, luego reenmarca: donde Génesis comienza con el primer acto de creación de Dios, Juan comienza con la preexistencia del *logos* antes de la creación. Génesis: "Dios creo." Juan: "la palabra era."
 
-**Gen 1:3-5 -> Juan 1:4-5 — Luz y oscuridad:**
+**Gen 1:3-5 → Juan 1:4-5 — Luz y oscuridad:**
 
 | Elemento | Gen 1:3-5 | Juan 1:4-5 |
 |----------|-----------|------------|
@@ -790,7 +790,7 @@ El eco es deliberado. Juan abre con la misma frase que Génesis, luego reenmarca
 
 En Génesis, la luz es creada y separada de la oscuridad como el primer acto de ordenamiento. En Juan, la luz y la oscuridad están en conflicto — la oscuridad intenta vencer la luz y fracasa. Lo cosmológico se vuelve existencial.
 
-**Gen 1:2 -> Juan 1:32-33 — Viento/espíritu (*ruach* / *pneuma*):**
+**Gen 1:2 → Juan 1:32-33 — Viento/espíritu (*ruach* / *pneuma*):**
 
 | Elemento | Gen 1:2 | Juan 1:32-33 |
 |----------|---------|--------------|
@@ -801,7 +801,7 @@ En Génesis, la luz es creada y separada de la oscuridad como el primer acto de 
 
 El viento/espíritu que se movia sobre las aguas primordiales ahora desciende en las aguas de la inmersion. Ambas escenas preceden un nuevo comienzo.
 
-**Gen 28:12 -> Juan 1:51 — Mensajeros ascendiendo y descendiendo:**
+**Gen 28:12 → Juan 1:51 — Mensajeros ascendiendo y descendiendo:**
 
 | Elemento | Gen 28:12 | Juan 1:51 |
 |----------|-----------|-----------|
@@ -813,7 +813,7 @@ El viento/espíritu que se movia sobre las aguas primordiales ahora desciende en
 
 El hijo del hombre reemplaza la escalera. Donde Yaakov vio una estructura conectando cielo y tierra, Yeshua promete que la conexión es una persona.
 
-**Gen 1 creación-por-habla -> Juan 1 creación-por-medio-del-logos:**
+**Gen 1 creación-por-habla → Juan 1 creación-por-medio-del-logos:**
 
 En Génesis 1, Dios crea hablando: "Y dijo Dios: 'Sea luz,' y fue luz." La formula repetida "y dijo Dios" es el mecanismo de la creación. Juan 1:3 identifica al *logos* como el agente por medio del cual "todas las cosas llegaron a ser." La palabra por medio de la cual Dios hablo en Génesis se identifica en Juan como una persona que estaba con Dios y era Dios. La TT anota esta conexión sin colapsar la distinción entre los marcos de ambos textos — Génesis no usa el término *logos*; Juan no reproduce las formulas de creación.
 

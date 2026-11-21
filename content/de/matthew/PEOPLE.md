@@ -212,7 +212,7 @@ Diese Datei enthält biografische und genealogische Informationen über Personen
 **Ort(e):** Jerusalem (2,1.3.7)
 **Erstnennung:** Mt 2,1
 **Erwähnt in:** Mt 2,1.3.7.12.13.15.16.19.22
-**Schlüsselereignisse in Matthäus 1-3:** Regierte als König, als Jesus in Bethlehem geboren wurde (2,1); beunruhigt durch den Bericht der Magoi über einen neugeborenen „König der Yehudim" (2,2-3); versammelte Hohepriester und Schriftgelehrte, um den Geburtsort des Gesalbten zu erfahren (2,4); rief die Magoi heimlich und sandte sie nach Bethlehem (2,7-8); wütend, als die Magoi nicht zurückkehrten, befahl die Tötung aller männlichen Kinder in Bethlehem von zwei Jahren und darunter (2,16); starb (2,19) — Josef wurde dann angewiesen zurückzukehren
+**Schlüsselereignisse in Matthäus 1-3:** Regierte als König, als Jesus in Bethlehem geboren wurde (2,1); beunruhigt durch den Bericht der Magoi über einen neugeborenen „König der Jehudim" (2,2-3); versammelte Hohepriester und Schriftgelehrte, um den Geburtsort des Gesalbten zu erfahren (2,4); rief die Magoi heimlich und sandte sie nach Bethlehem (2,7-8); wütend, als die Magoi nicht zurückkehrten, befahl die Tötung aller männlichen Kinder in Bethlehem von zwei Jahren und darunter (2,16); starb (2,19) — Josef wurde dann angewiesen zurückzukehren
 
 **Vertrauter Name:** Herodes (der Große)
 **Beruf:** König / Klientelherrscher Judäas unter römischer Oberhoheit
@@ -275,6 +275,6 @@ Diese Datei enthält biografische und genealogische Informationen über Personen
 - **PRIMARY** — Biblia Hebraica Stuttgartensia (BHS), 5. Aufl. (Deutsche Bibelgesellschaft, 1997). Verwendet für AT-Zitate und Namensetymologien.
 - **PRIMARY** — Josephus, *Antiquitates Judaicae* (AJ) und *Bellum Judaicum* (BJ), hrsg. Niese. Verwendet für historische Personen (Herodes, Archelaos).
 - **PEER-REVIEWED (lexicon)** — BDAG, *A Greek-English Lexicon of the New Testament*, 3. Aufl.; HALOT, *The Hebrew and Aramaic Lexicon of the Old Testament*.
-- **PEER-REVIEWED (commentary)** â Davies, W.D. und Allison, D.C., *A Critical and Exegetical Commentary on the Gospel of Matthew* (ICC, 1988); Luz, U., *Das Evangelium nach MatthÃ¤us 1–7* (EKK, 1985).
+- **PEER-REVIEWED (commentary)** — Davies, W.D. und Allison, D.C., *A Critical and Exegetical Commentary on the Gospel of Matthew* (ICC, 1988); Luz, U., *Das Evangelium nach Matthäus 1–7* (EKK, 1985).
 
 > **Redaktionelle Herkunft:** Entworfen von Claude Opus 4.6 (1M Kontext) am 2026-04-27. Noch nicht begutachtet. Diese Datei ist eine provisorische wissenschaftliche Ressource, geregelt durch TT-Regel 29. Querverweise auf genesis/PEOPLE.md verlinken zu bestehenden Einträgen, statt Inhalte zu duplizieren.

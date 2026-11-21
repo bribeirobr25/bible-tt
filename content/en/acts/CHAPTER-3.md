@@ -20,7 +20,7 @@
 - [Continuous Reading](#continuous-reading)
 - [Verse-by-Verse Study](#verse-by-verse-study)
 - [Glossary — Acts 3](#glossary--acts-3)
-- [Cross-Chapter Tracking (HB -> Acts)](#cross-chapter-tracking-hb--acts)
+- [Cross-Chapter Tracking (HB → Acts)](#cross-chapter-tracking-hb--acts)
 
 ---
 
@@ -61,7 +61,7 @@ Notes are tagged by type — **Critical · Lexical · Grammatical · Theological
 
 ¹¹And as he held on to Kefa (Peter) and Yochanan (John), all the people ran together to them at the portico called *Solomon's* (Shlomoh's), utterly astonished. ¹²And seeing *this*, Kefa (Peter) answered the people, "Men, Israelites, why do you marvel at this, or why do you gaze at us, as if by our own power or piety we have made him walk? ¹³The God of Avraham (Abraham) and *of* Yitschaq (Isaac) and *of* Ya'aqov (Jacob), the God of our fathers, glorified his servant Yeshua (Jesus), whom you handed over and denied before *the* face of Pilate, *when* that one had decided to release *him*. ¹⁴But you denied the holy and righteous *one*, and asked *for* a man, a murderer, to be granted to you, ¹⁵but the Author of life you killed, whom God raised from *the* dead — of which we are witnesses. ¹⁶And upon the faith of his name, this *one* whom you see and know — his name made *him* firm; and the faith *that is* through him gave him this wholeness before you all.
 
-¹⁷"And now, brothers, I know that you acted according to ignorance, just as also your rulers; ¹⁸but God, the *things* which he foretold through *the* mouth of all the prophets — that his Messiah would suffer — he thus fulfilled. ¹⁹Change *your* minds, therefore, and turn, for the wiping out of your sins, ²⁰so that times of refreshing may come from *the* face of the Lord, and *that* he may send the *one* foreordained for you, *the* Messiah, Yeshua (Jesus), ²¹whom heaven must receive until *the* times of restoration of all *things*, of which God spoke through *the* mouth of his holy prophets from of old. ²²Mosheh (Moses) indeed said that 'A prophet for you *the* Lord God will raise up from your brothers, like me; him you shall hear in all *things*, whatever he may speak to you. ²³And it will be *that* every soul, whoever does not hear that prophet, will be utterly destroyed from the people.' ²⁴And indeed all the prophets, from Shmuel (Samuel) and those *who came* after, as many as spoke, also announced these days. ²⁵You are the sons of the prophets and of the covenant which God covenanted with your fathers, saying to Avraham (Abraham), @@'And in your seed all the families of the earth will be blessed.'@@ ²⁶To you first, God, having raised up his servant, sent him, blessing you in *the* turning *of* each *of you* from your wickednesses."
+¹⁷"And now, brothers, I know that you acted according to ignorance, just as also your rulers; ¹⁸but God, the *things* which he foretold through *the* mouth of all the prophets — that his Messiah would suffer — he thus fulfilled. ¹⁹Change *your* minds, therefore, and turn, for the wiping out of your sins, ²⁰so that times of refreshing may come from *the* face of the Lord, and *that* he may send the *one* foreordained for you, *the* Messiah, Yeshua (Jesus), ²¹whom heaven must receive until *the* times of restoration of all *things*, of which God spoke through *the* mouth of his holy prophets from of old. ²²Mosheh (Moses) indeed said that 'A prophet for you *the* Lord God will raise up from your brothers, like me; him you shall hear in all *things*, whatever he may speak to you. ²³And it will be *that* every soul, whoever does not hear that prophet, will be utterly destroyed from the people.' ²⁴And indeed all the prophets, from Shmuel (Samuel) and those *who came* after, as many as spoke, also announced these days. ²⁵You are the sons of the prophets and of the covenant which God covenanted with your fathers, saying to Avraham (Abraham), 'And in your seed all the families of the earth will be blessed.' ²⁶To you first, God, having raised up his servant, sent him, blessing you in *the* turning *of* each *of you* from your wickednesses."
 
 ---
 
@@ -333,7 +333,7 @@ And indeed all the prophets, from Shmuel (Samuel) and those *who came* after, as
 
 ### **Verse 25**
 
-You are the sons of the prophets and of the covenant which God covenanted with your fathers, saying to Avraham (Abraham), @@'And in your seed all the families of the earth will be blessed.'@@
+You are the sons of the prophets and of the covenant which God covenanted with your fathers, saying to Avraham (Abraham), 'And in your seed all the families of the earth will be blessed.'
 
 > **Notes**
 >
@@ -370,7 +370,7 @@ To you first, God, having raised up his servant, sent him, blessing you in *the*
 
 ---
 
-## Cross-Chapter Tracking (HB -> Acts)
+## Cross-Chapter Tracking (HB → Acts)
 
 | HB / earlier source | Theme | In Acts 3 |
 |---------------------|-------|-----------|

@@ -180,7 +180,7 @@ Genesis 3:24 platziert Cherubim östlich von Eden, um "den Weg zum Baum des Lebe
 ### C2. Kleidung und Bedeckung in antiker Kultur
 **[HISTORISCH / ARCHÄOLOGISCH — WAHRSCHEINLICH]**
 
-Genesis 3:7 (Feigenblatt-Bedeckungen durch Menschen) -> 3:21 (Kleidung aus Fell durch JHWH Elohim). In altorientalischer Kultur symbolisierte Kleidung sozialen Status und Zivilisation. Der Übergang von selbstgemachter minimaler Bedeckung zu göttlich bereitgestellter vollständiger Kleidung könnte den Übergang vom Gartenzustand zur zivilisierten Existenz signalisieren.
+Genesis 3:7 (Feigenblatt-Bedeckungen durch Menschen) → 3:21 (Kleidung aus Fell durch JHWH Elohim). In altorientalischer Kultur symbolisierte Kleidung sozialen Status und Zivilisation. Der Übergang von selbstgemachter minimaler Bedeckung zu göttlich bereitgestellter vollständiger Kleidung könnte den Übergang vom Gartenzustand zur zivilisierten Existenz signalisieren.
 
 ---
 

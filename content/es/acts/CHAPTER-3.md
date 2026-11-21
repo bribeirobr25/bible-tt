@@ -22,7 +22,7 @@
 - [Lectura Continua](#lectura-continua)
 - [Estudio Versículo por Versículo](#estudio-versículo-por-versículo)
 - [Glosario — Hechos 3](#glosario---hechos-3)
-- [Seguimiento entre Capítulos (BH -> Hechos)](#seguimiento-entre-capítulos-bh--hechos)
+- [Seguimiento entre Capítulos (BH → Hechos)](#seguimiento-entre-capítulos-bh--hechos)
 
 ---
 
@@ -63,7 +63,7 @@ Las notas se etiquetan por tipo — **Crítico · Léxico · Gramatical · Teol�
 
 ¹¹Y mientras él se aferraba a Kefa (Pedro) y a Yochanan (Juan), todo el pueblo corrió junto a ellos al pórtico llamado *de Salomón* (de Shlomoh), totalmente atónitos. ¹²Y viendo *esto*, Kefa (Pedro) respondió al pueblo: "Hombres, israelitas, ¿por qué se maravillan de esto, o por qué nos miran fijamente, como si por nuestro propio poder o piedad lo hubiéramos hecho caminar? ¹³El Dios de Avraham (Abraham) y *de* Yitschaq (Isaac) y *de* Ya'aqov (Jacob), el Dios de nuestros padres, glorificó a su siervo Yeshua (Jesús), a quien ustedes entregaron y negaron ante *el* rostro de Pilato, *cuando* aquel había decidido soltar*lo*. ¹⁴Pero ustedes negaron al santo y justo *uno*, y pidieron *que* un hombre, un asesino, les fuera concedido, ¹⁵pero al Autor de la vida mataron, a quien Dios resucitó de *entre los* muertos — de lo cual nosotros somos testigos. ¹⁶Y sobre la fe de su nombre, a este *uno* a quien ustedes ven y conocen — su nombre lo hizo firme; y la fe *que es* por medio de él le dio esta plena sanidad delante de todos ustedes.
 
-¹⁷"Y ahora, hermanos, sé que actuaron según ignorancia, así como también sus gobernantes; ¹⁸pero Dios, las *cosas* que predijo por medio de *la* boca de todos los profetas — que su Mesías sufriría — así *las* cumplió. ¹⁹Cambien *de* mente, por tanto, y vuélvanse, para el borrado de sus pecados, ²⁰de modo que vengan tiempos de refrigerio de *parte del* rostro del Señor, y *que* él envíe al *que* fue preordenado para ustedes, *el* Mesías, Yeshua (Jesús), ²¹a quien el cielo debe recibir hasta *los* tiempos de restauración de todas *las cosas*, de las cuales Dios habló por medio de *la* boca de sus santos profetas desde antiguo. ²²Mosheh (Moisés) en verdad dijo que 'Un profeta para ustedes *el* Señor Dios levantará de entre sus hermanos, como yo; a él escucharán en todas *las cosas*, cuanto les hable. ²³Y será *que* toda alma, quienquiera que no escuche a aquel profeta, será exterminada de entre el pueblo.' ²⁴Y en verdad todos los profetas, desde Shmuel (Samuel) y los *que vinieron* después, cuantos hablaron, también anunciaron estos días. ²⁵Ustedes son los hijos de los profetas y del pacto que Dios pactó con sus padres, diciendo a Avraham (Abraham): @@'Y en tu descendencia todas las familias de la tierra serán bendecidas.'@@ ²⁶A ustedes primero, Dios, habiendo levantado a su siervo, lo envió, bendiciéndolos en *el* volverse cada *uno de ustedes* de sus maldades."
+¹⁷"Y ahora, hermanos, sé que actuaron según ignorancia, así como también sus gobernantes; ¹⁸pero Dios, las *cosas* que predijo por medio de *la* boca de todos los profetas — que su Mesías sufriría — así *las* cumplió. ¹⁹Cambien *de* mente, por tanto, y vuélvanse, para el borrado de sus pecados, ²⁰de modo que vengan tiempos de refrigerio de *parte del* rostro del Señor, y *que* él envíe al *que* fue preordenado para ustedes, *el* Mesías, Yeshua (Jesús), ²¹a quien el cielo debe recibir hasta *los* tiempos de restauración de todas *las cosas*, de las cuales Dios habló por medio de *la* boca de sus santos profetas desde antiguo. ²²Mosheh (Moisés) en verdad dijo que 'Un profeta para ustedes *el* Señor Dios levantará de entre sus hermanos, como yo; a él escucharán en todas *las cosas*, cuanto les hable. ²³Y será *que* toda alma, quienquiera que no escuche a aquel profeta, será exterminada de entre el pueblo.' ²⁴Y en verdad todos los profetas, desde Shmuel (Samuel) y los *que vinieron* después, cuantos hablaron, también anunciaron estos días. ²⁵Ustedes son los hijos de los profetas y del pacto que Dios pactó con sus padres, diciendo a Avraham (Abraham): 'Y en tu descendencia todas las familias de la tierra serán bendecidas.' ²⁶A ustedes primero, Dios, habiendo levantado a su siervo, lo envió, bendiciéndolos en *el* volverse cada *uno de ustedes* de sus maldades."
 
 ---
 
@@ -335,7 +335,7 @@ Y en verdad todos los profetas, desde Shmuel (Samuel) y los *que vinieron* despu
 
 ### **Versículo 25**
 
-Ustedes son los hijos de los profetas y del pacto que Dios pactó con sus padres, diciendo a Avraham (Abraham): @@'Y en tu descendencia todas las familias de la tierra serán bendecidas.'@@
+Ustedes son los hijos de los profetas y del pacto que Dios pactó con sus padres, diciendo a Avraham (Abraham): 'Y en tu descendencia todas las familias de la tierra serán bendecidas.'
 
 > **Notas**
 >
@@ -372,7 +372,7 @@ A ustedes primero, Dios, habiendo levantado a su siervo, lo envió, bendiciéndo
 
 ---
 
-## SEGUIMIENTO ENTRE CAPÍTULOS (BH -> Hechos)
+## SEGUIMIENTO ENTRE CAPÍTULOS (BH → Hechos)
 
 | BH / fuente anterior | Tema | En Hechos 3 |
 |---------------------|-------|-----------|

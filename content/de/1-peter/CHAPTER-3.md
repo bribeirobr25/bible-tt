@@ -21,7 +21,7 @@
 - [Fortlaufende Lesung](#fortlaufende-lesung)
 - [Vers-für-Vers-Studie](#vers-für-vers-studie)
 - [Glossar — 1. Petrus 3](#glossar--1-petrus-3)
-- [Kapitelübergreifende Verfolgung (HB -> 1. Petrus)](#kapitelübergreifende-verfolgung-hb--1-petrus)
+- [Kapitelübergreifende Verfolgung (HB → 1. Petrus)](#kapitelübergreifende-verfolgung-hb--1-petrus)
 
 ---
 
@@ -330,7 +330,7 @@ der zur Rechten Gottes ist, in den Himmel gegangen, *wobei* Engel und Mächte un
 
 ---
 
-## Kapitelübergreifende Verfolgung (HB -> 1. Petrus)
+## Kapitelübergreifende Verfolgung (HB → 1. Petrus)
 
 | HB / frühere Quelle | Thema | In 1. Petrus 3 |
 |---------------------|-------|--------------|

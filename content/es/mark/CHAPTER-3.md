@@ -22,7 +22,7 @@
 - [Lectura Continua](#lectura-continua)
 - [Estudio Versículo por Versículo](#estudio-versículo-por-versículo)
 - [Glosario — Marcos 3](#glosario---marcos-3)
-- [Seguimiento entre Capítulos (AT -> Marcos)](#seguimiento-entre-capítulos-at--marcos)
+- [Seguimiento entre Capítulos (AT → Marcos)](#seguimiento-entre-capítulos-at--marcos)
 
 ---
 
@@ -474,9 +474,9 @@ Pues quien hace la voluntad de Dios, ese es mi hermano y hermana y madre."
 
 ---
 
-## SEGUIMIENTO ENTRE CAPÍTULOS (AT -> Marcos)
+## SEGUIMIENTO ENTRE CAPÍTULOS (AT → Marcos)
 
-**Éxodo 20:8–11 / Deuteronomio 5:12–15 -> Marcos 3:4 — el sábado y la vida:**
+**Éxodo 20:8–11 / Deuteronomio 5:12–15 → Marcos 3:4 — el sábado y la vida:**
 
 | Elemento | Ley del sábado del AT | Marcos 3:4 |
 |----------|------------------------|------------|
@@ -486,7 +486,7 @@ Pues quien hace la voluntad de Dios, ese es mi hermano y hermana y madre."
 
 Yeshua enmarca el sábado en torno a preservar la vida — coherente con el fundamento del descanso-como-don (Deut 5:14–15) en vez del descanso-como-restricción.
 
-**Las Doce Tribus -> Marcos 3:14–19 — "hizo a doce":**
+**Las Doce Tribus → Marcos 3:14–19 — "hizo a doce":**
 
 | Elemento | Doce Tribus de Israel | Marcos 3:14 |
 |----------|------------------------|-------------|
@@ -494,7 +494,7 @@ Yeshua enmarca el sábado en torno a preservar la vida — coherente con el fund
 | Función | constituir a Israel | constituir un nuevo núcleo en torno a Yeshua |
 | Simbolismo | pueblo del pacto | pueblo reconstituido (implícito, no enunciado) |
 
-**Isaías 49:24–25 -> Marcos 3:27 — saquear al fuerte:**
+**Isaías 49:24–25 → Marcos 3:27 — saquear al fuerte:**
 
 | Elemento | Isaías 49:24–25 | Marcos 3:27 |
 |----------|-----------------|-------------|

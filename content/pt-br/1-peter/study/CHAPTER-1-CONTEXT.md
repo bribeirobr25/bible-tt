@@ -248,35 +248,6 @@ O capítulo termina num lance lexical discreto. O novo nascimento vem "por meio 
 
 ---
 
-## H. Fontes Consultadas
-
-| Fonte | Tipo | Usada nas seções |
-|--------|------|-----------------|
-| Achtemeier, P.J., *1 Peter*, Hermeneia, 1996 | PEER-REVIEWED (commentary) | F |
-| Balch, D.L., *Let Wives Be Submissive: The Domestic Code in 1 Peter*, 1981 | PEER-REVIEWED (monograph) | C |
-| Bauckham, R., *The Jewish World around the New Testament*, 2008 | PEER-REVIEWED (monograph) | B |
-| Bauer, W., *A Greek-English Lexicon of the NT* (BDAG), 3ª ed., 2000 | PEER-REVIEWED (lexicon) | D |
-| Beale, G.K. e Carson, D.A. (eds.), *Commentary on the NT Use of the OT*, 2007 | PEER-REVIEWED (commentary) | B |
-| Cross, F.L., *1 Peter: A Paschal Liturgy*, 1954 | PEER-REVIEWED (monograph) | F |
-| deSilva, D.A., *Honor, Patronage, Kinship and Purity*, 2000 | PEER-REVIEWED (monograph) | C |
-| Doering, L., *Ancient Jewish Letters and the Beginnings of Christian Epistolography*, 2012 | PEER-REVIEWED (monograph) | B |
-| Elliott, J.H., *A Home for the Homeless*, 1981 | PEER-REVIEWED (monograph) | C, F |
-| Elliott, J.H., *1 Peter*, Anchor Bible 37B, 2000 | PEER-REVIEWED (commentary) | F |
-| Feldmeier, R., *The First Letter of Peter*, 2008 | PEER-REVIEWED (commentary) | C |
-| Hemer, C.J., "The Address of 1 Peter", *Expository Times* 89 (1978) | PEER-REVIEWED (article) | C |
-| Holmes, M.W. (ed.), *The Apostolic Fathers*, 3ª ed., 2007 (*Diognetus*) | PRIMARY (text collection) | F |
-| Jobes, K.H., *1 Peter*, Baker Exegetical Commentary, 2005 | PEER-REVIEWED (commentary) | B |
-| Kelly, J.N.D., *Early Christian Doctrines*, 5ª ed., 1977 | PEER-REVIEWED (monograph) | F |
-| Liddell e Scott, *Greek-English Lexicon*, 9ª ed. | PEER-REVIEWED (lexicon) | D |
-| Marshall, I.H., *Aspects of the Atonement*, 2007 | PEER-REVIEWED (monograph) | D |
-| Michaels, J.R., *1 Peter*, Word Biblical Commentary 49, 1988 | PEER-REVIEWED (commentary) | D |
-| Mitchell, S., *Anatolia: Land, Men, and Gods in Asia Minor*, 1993 | PEER-REVIEWED (monograph) | C |
-| Nestle-Aland, *Novum Testamentum Graece*, 28ª ed. | PRIMARY | A, D, G |
-| Vermes, G., *The Complete Dead Sea Scrolls in English*, ed. rev., 2011 | PRIMARY (text collection) | B |
-| Wolff, H.W., *Anthropology of the Old Testament*, 1974 | PEER-REVIEWED (monograph) | D |
-
----
-
 ## I. O Mundo na Época
 
 > **Uma carta, não uma narrativa.** Por 1 Pedro ser uma epístola, esta seção descreve o **mundo social dos destinatários** — o cenário vivido dos "eleitos peregrinos *da* dispersão" endereçados em 1:1 — em vez de uma cena narrada. Os leitores estão espalhados por cinco províncias da Ásia Menor romana em meados do primeiro século d.C.; as entradas abaixo esboçam o mundo político, social, religioso e doméstico contra o qual a identidade-de-exílio da carta, seu chamado à santidade e sua antecipação de calúnia e sofrimento devem ser lidos. Os dois cenários demarcam a janela de datação mais discutida para a carta (um cenário petrino/neroniano no início dos anos 60 d.C. versus um cenário de fim do primeiro século), já que as pressões sociais sobre os leitores se registram de modo um tanto diferente em cada um.
@@ -333,22 +304,43 @@ No fim do primeiro século, os seguidores de Yeshua na Ásia Menor eram um grupo
 
 ---
 
+## H. Fontes Consultadas
+
 | Fonte | Tipo | Usada nas seções |
 |--------|------|-----------------|
-| Balch, D.L., *Let Wives Be Submissive*, 1981 | PEER-REVIEWED (monograph) | I |
-| deSilva, D.A., *Honor, Patronage, Kinship and Purity*, 2000 | PEER-REVIEWED (monograph) | I |
-| Elliott, J.H., *A Home for the Homeless*, 1981 | PEER-REVIEWED (monograph) | I |
+| Achtemeier, P.J., *1 Peter*, Hermeneia, 1996 | PEER-REVIEWED (commentary) | F |
+| Balch, D.L., *Let Wives Be Submissive: The Domestic Code in 1 Peter*, 1981 | PEER-REVIEWED (monograph) | C, I |
+| Bauckham, R., *The Jewish World around the New Testament*, 2008 | PEER-REVIEWED (monograph) | B |
+| Bauer, W., *A Greek-English Lexicon of the NT* (BDAG), 3ª ed., 2000 | PEER-REVIEWED (lexicon) | D |
+| Beale, G.K. e Carson, D.A. (eds.), *Commentary on the NT Use of the OT*, 2007 | PEER-REVIEWED (commentary) | B |
+| Cross, F.L., *1 Peter: A Paschal Liturgy*, 1954 | PEER-REVIEWED (monograph) | F |
+| deSilva, D.A., *Honor, Patronage, Kinship and Purity*, 2000 | PEER-REVIEWED (monograph) | C, I |
+| Doering, L., *Ancient Jewish Letters and the Beginnings of Christian Epistolography*, 2012 | PEER-REVIEWED (monograph) | B |
+| Elliott, J.H., *1 Peter*, Anchor Bible 37B, 2000 | PEER-REVIEWED (commentary) | F |
+| Elliott, J.H., *A Home for the Homeless*, 1981 | PEER-REVIEWED (monograph) | C, F, I |
+| Feldmeier, R., *The First Letter of Peter*, 2008 | PEER-REVIEWED (commentary) | C |
 | Goodman, M., *Rome and Jerusalem*, 2007 | PEER-REVIEWED (monograph) | I |
+| Hemer, C.J., "The Address of 1 Peter", *Expository Times* 89 (1978) | PEER-REVIEWED (article) | C |
+| Holmes, M.W. (ed.), *The Apostolic Fathers*, 3ª ed., 2007 (*Diognetus*) | PRIMARY (text collection) | F |
 | Horrell, D.G., *Becoming Christian: Essays on 1 Peter*, 2013 | PEER-REVIEWED (monograph) | I |
+| Jobes, K.H., *1 Peter*, Baker Exegetical Commentary, 2005 | PEER-REVIEWED (commentary) | B |
+| Kelly, J.N.D., *Early Christian Doctrines*, 5ª ed., 1977 | PEER-REVIEWED (monograph) | F |
+| Liddell e Scott, *Greek-English Lexicon*, 9ª ed. | PEER-REVIEWED (lexicon) | D |
 | Magie, D., *Roman Rule in Asia Minor*, 1950 | PEER-REVIEWED (monograph) | I |
-| Mitchell, S., *Anatolia: Land, Men, and Gods in Asia Minor*, 1993 | PEER-REVIEWED (monograph) | I |
+| Marshall, I.H., *Aspects of the Atonement*, 2007 | PEER-REVIEWED (monograph) | D |
+| Michaels, J.R., *1 Peter*, Word Biblical Commentary 49, 1988 | PEER-REVIEWED (commentary) | D |
+| Mitchell, S., *Anatolia: Land, Men, and Gods in Asia Minor*, 1993 | PEER-REVIEWED (monograph) | C, I |
+| Nestle-Aland, *Novum Testamentum Graece*, 28ª ed. | PRIMARY | A, D, G |
 | Osiek, C. e Balch, D.L., *Families in the New Testament World*, 1997 | PEER-REVIEWED (monograph) | I |
 | Plínio, o Jovem, *Letters* 10.96-97, Loeb Classical Library | PRIMARY | I |
 | Price, S.R.F., *Rituals and Power: The Roman Imperial Cult in Asia Minor*, 1984 | PEER-REVIEWED (monograph) | I |
 | Trebilco, P., *Jewish Communities in Asia Minor*, 1991 | PEER-REVIEWED (monograph) | I |
+| Vermes, G., *The Complete Dead Sea Scrolls in English*, ed. rev., 2011 | PRIMARY (text collection) | B |
 | Williams, M.H., *The Jews among the Greeks and Romans*, 1998 | PEER-REVIEWED (monograph) | I |
+| Wolff, H.W., *Anthropology of the Old Testament*, 1974 | PEER-REVIEWED (monograph) | D |
 
 ---
+
 
 **Proveniência editorial:**
 - Redigido por: IA (Claude, Anthropic)

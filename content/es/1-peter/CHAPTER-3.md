@@ -22,7 +22,7 @@
 - [Lectura Continua](#lectura-continua)
 - [Estudio Versículo por Versículo](#estudio-versículo-por-versículo)
 - [Glosario — 1 Pedro 3](#glosario---1-pedro-3)
-- [Seguimiento entre Capítulos (BH -> 1 Pedro)](#seguimiento-entre-capítulos-bh--1-pedro)
+- [Seguimiento entre Capítulos (BH → 1 Pedro)](#seguimiento-entre-capítulos-bh--1-pedro)
 
 ---
 
@@ -331,7 +331,7 @@ quien está a *la* derecha de Dios, habiendo ido al cielo, *con* ángeles y auto
 
 ---
 
-## SEGUIMIENTO ENTRE CAPÍTULOS (BH -> 1 PEDRO)
+## SEGUIMIENTO ENTRE CAPÍTULOS (BH → 1 PEDRO)
 
 | BH / fuente anterior | Tema | En 1 Pedro 3 |
 |---------------------|-------|--------------|

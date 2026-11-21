@@ -21,7 +21,7 @@
 - [Fortlaufende Lesung](#fortlaufende-lesung)
 - [Vers-für-Vers-Studie](#vers-für-vers-studie)
 - [Glossar — Markus 3](#glossar---markus-3)
-- [Kapitelübergreifende Verfolgung (HB -> Markus)](#kapitelübergreifende-verfolgung-hb---markus)
+- [Kapitelübergreifende Verfolgung (HB → Markus)](#kapitelübergreifende-verfolgung-hb---markus)
 
 ---
 
@@ -473,9 +473,9 @@ Denn wer den Willen Gottes tut, der ist mein Bruder und meine Schwester und mein
 
 ---
 
-## KAPITELÜBERGREIFENDE VERFOLGUNG (HB -> Markus)
+## KAPITELÜBERGREIFENDE VERFOLGUNG (HB → Markus)
 
-**Exodus 20,8-11 / Deuteronomium 5,12-15 -> Markus 3,4 — Sabbat und Leben:**
+**Exodus 20,8-11 / Deuteronomium 5,12-15 → Markus 3,4 — Sabbat und Leben:**
 
 | Element | HB-Sabbatgesetz | Markus 3,4 |
 |---------|-----------------|------------|
@@ -485,7 +485,7 @@ Denn wer den Willen Gottes tut, der ist mein Bruder und meine Schwester und mein
 
 Yeshua rahmt den Sabbat um die Bewahrung des Lebens — kohärent mit der Begründung von Ruhe-als-Gabe (Dtn 5,14-15) statt Ruhe-als-Beschränkung.
 
-**Die zwölf Stämme -> Markus 3,14-19 — „er machte zwölf":**
+**Die zwölf Stämme → Markus 3,14-19 — „er machte zwölf":**
 
 | Element | Zwölf Stämme Israels | Markus 3,14 |
 |---------|----------------------|-------------|
@@ -493,7 +493,7 @@ Yeshua rahmt den Sabbat um die Bewahrung des Lebens — kohärent mit der Begrü
 | Funktion | konstituieren Israel | konstituieren einen neuen Kern um Yeshua |
 | Symbolik | Bundesvolk | neu konstituiertes Volk (impliziert, nicht ausgesprochen) |
 
-**Jesaja 49,24-25 -> Markus 3,27 — den Starken plündern:**
+**Jesaja 49,24-25 → Markus 3,27 — den Starken plündern:**
 
 | Element | Jesaja 49,24-25 | Markus 3,27 |
 |---------|-----------------|-------------|

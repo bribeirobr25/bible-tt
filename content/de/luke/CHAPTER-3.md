@@ -21,7 +21,7 @@
 - [Fortlaufende Lesung](#fortlaufende-lesung)
 - [Vers-für-Vers-Studie](#vers-für-vers-studie)
 - [Glossar — Lukas 3](#glossar---lukas-3)
-- [Kapitelübergreifende Verfolgung (HB -> Lukas)](#kapitelübergreifende-verfolgung-hb--lukas)
+- [Kapitelübergreifende Verfolgung (HB → Lukas)](#kapitelübergreifende-verfolgung-hb--lukas)
 
 ---
 
@@ -36,7 +36,7 @@
 
 Notizen sind nach Typ gekennzeichnet — **Kritisch · Lexikalisch · Grammatisch · Theologisch** — jeweils mit ihrer Farbe (siehe die Legende oben in der Notizen-Ansicht).
 
-**Dieses Kapitel eröffnet den öffentlichen Dienst.** Lukas 3 datiert das Auftreten des Yochanan (Johannes) durch einen sechsfachen Synchronismus von Herrschern (V.1-2) — den präzisesten chronologischen Rahmen in den Evangelien — und erzählt dann seine Verkündigung einer Eintauchung der Umkehr in der Wüste (V.3-6), gerahmt von einem langen Zitat aus Yesha'yahu (Jesaja) 40,3-5. Seine Predigt an die Menge, die Zöllner und die Soldaten (V.7-14), sein Hinweis auf einen „Stärkeren" (V.15-17) und seine Gefangennahme durch Herodes (V.18-20) folgen. Yeshua (Jesus) wird eingetaucht und betet, als die Himmel sich öffnen, der {a:Wind/Geist} herabkommt und eine Stimme aus dem Himmel ergeht (V.21-22). Das Kapitel schließt mit der Genealogie (V.23-38), die von Yeshua über Adam zu Gott aufsteigt — ~76 Namen. **Anmerkung zur Redemarkierung (Regel 30):** Yochanans Predigt ist *menschliche* prophetische Rede und wird NICHT als göttliche Rede markiert; nur die **Stimme aus dem Himmel** bei 3,22 (die Bat-Qol) ist Gottes direkte Rede und wird mit `@@…@@` markiert. Eigennamen folgen der TT-Transliteration: Yochanan (nicht Johannes), Yeshua (nicht Jesus), Yesha'yahu (nicht Jesaja), Herodes (nicht Herodes).
+**Dieses Kapitel eröffnet den öffentlichen Dienst.** Lukas 3 datiert das Auftreten des Yochanan (Johannes) durch einen sechsfachen Synchronismus von Herrschern (V.1-2) — den präzisesten chronologischen Rahmen in den Evangelien — und erzählt dann seine Verkündigung einer Eintauchung der Umkehr in der Wüste (V.3-6), gerahmt von einem langen Zitat aus Yesha'yahu (Jesaja) 40,3-5. Seine Predigt an die Menge, die Zöllner und die Soldaten (V.7-14), sein Hinweis auf einen „Stärkeren" (V.15-17) und seine Gefangennahme durch Herodes (V.18-20) folgen. Yeshua (Jesus) wird eingetaucht und betet, als die Himmel sich öffnen, der {a:Wind/Geist} herabkommt und eine Stimme aus dem Himmel ergeht (V.21-22). Das Kapitel schließt mit der Genealogie (V.23-38), die von Yeshua über Adam zu Gott aufsteigt — ~76 Namen. **Anmerkung zur Redemarkierung (Regel 30):** Yochanans Predigt ist *menschliche* prophetische Rede und wird NICHT als göttliche Rede markiert; nur die **Stimme aus dem Himmel** bei 3,22 (die Bat-Qol) ist Gottes direkte Rede und wird mit `@@…@@` markiert. Namen erscheinen in der vertrauten Form; die ursprachliche Form steht einmal pro Abschnitt — z. B. Yochanan (Johannes).
 
 ---
 
@@ -373,7 +373,7 @@ des Mattat, des Levi, des Melchi, des Yannai, des Yosef,
 > **Notizen**
 >
 > 🟡 **DIE AUFSTEIGENDE GENEALOGIE (V.23-38) — STRUKTUR UND ABWEICHUNG VON MATTHÄUS**
-> - Die Genealogie steigt auf — „Sohn des X, des Y, des Z…" — jeder Vers ein Bündel von Namen, zurücklaufend von Yeshua über David (V.31), Avraham (V.34), Noach (V.36), bis zu Adam und Gott (V.38). Dies ist die Umkehrung von Matthäus' absteigender Liste (Mt 1,1-17, Abraham → Yeshua) und **weicht stark von ihr ab**, besonders bei der Generation unmittelbar über Josef (Lukas: „des Eli"; Matthäus: „Jakob zeugte Josef") und über die ganze nachdavidische Linie — eine seit langem bestehende Crux. Vorgeschlagene Harmonisierungen (Lukas gibt Marias Linie; Leviratsehe; rechtliche vs. biologische Abstammung) sind alle umstritten. Die TT gibt Lukas' Liste so wieder, wie das Griechische sie liefert, und markiert die Abweichung zur Hellenisten-Begutachtung (Regel 13). Die **vollständige Genealogie-Tabelle, die Generationszählung und die buchübergreifenden Verweis-Stubs** (zu `genesis` für Adam → die Patriarchen, und zu `matthew` für die David-Linie) liegen in **`luke/PEOPLE.md`** nach der buchübergreifenden Konvention v3.3.2. **[historisch — MÖGLICH]**
+> - Die Genealogie steigt auf — „Sohn des X, des Y, des Z…" — jeder Vers ein Bündel von Namen, zurücklaufend von Yeshua über David (V.31), Avraham (V.34), Noach (V.36), bis zu Adam und Gott (V.38). Dies ist die Umkehrung von Matthäus' absteigender Liste (Mt 1,1-17, Abraham → Yeshua) und **weicht stark von ihr ab**, besonders bei der Generation unmittelbar über Josef (Lukas: „des Eli"; Matthäus: „Jakob zeugte Josef") und über die ganze nachdavidische Linie — eine seit langem bestehende Crux. Vorgeschlagene Harmonisierungen (Lukas gibt Marias Linie; Leviratsehe; rechtliche vs. biologische Abstammung) sind alle umstritten. Die TT gibt Lukas' Liste so wieder, wie das Griechische sie liefert, und markiert die Abweichung zur Hellenisten-Begutachtung (Regel 13). Die **vollständige Genealogie-Tabelle, die Generationszählung und die buchübergreifenden Verweis-Stubs** (zu `genesis` für Adam → die Patriarchen, und zu `matthew` für die David-Linie) liegen in **`luke/PEOPLE.md`**. **[historisch — MÖGLICH]**
 >
 > 🟢 **NAMENS-WIEDERGABE-POLITIK DER GENEALOGIE**
 > - Namen mit einer vertrauten deutschen Form erhalten die „Transliteriert (Vertraut)"-Glosse beim ersten Vorkommen in der Genealogie (z.B. David, Avraham (Abraham), Noach (Noah), Adam). Namen ohne eine eigene vertraute Form werden nur in Transliteration gegeben (z.B. Mattat, Yannai, Neri). Das wiederholte griechische **τοῦ** (*tou*, Genitiv „des") wird durchgehend „des" wiedergegeben; das implizierte „Sohn" wird nicht jedes Mal wiederholt.
@@ -566,9 +566,9 @@ des Enosh, des Shet, des Adam, Gottes.
 
 ---
 
-## KAPITELÜBERGREIFENDE VERFOLGUNG (HB -> Lukas)
+## KAPITELÜBERGREIFENDE VERFOLGUNG (HB → Lukas)
 
-**Jes 40,3-5 -> Lukas 3,4-6 — „eine Stimme in der Wüste":**
+**Jes 40,3-5 → Lukas 3,4-6 — „eine Stimme in der Wüste":**
 
 | Element | Jesaja 40,3-5 (LXX) | Lukas 3,4-6 |
 |---------|----------------------|-------------|
@@ -578,7 +578,7 @@ des Enosh, des Shet, des Adam, Gottes.
 
 Lukas zitiert Jesaja 40 weiter als Matthäus oder Markus und erreicht V.5s „alles Fleisch wird die Rettung Gottes sehen" — den universalen Horizont, den der Aufstieg der Genealogie zu Adam (3,38) und „Gottes" spiegeln.
 
-**Jer 1,1-2 / Hos 1,1 -> Lukas 3,2 — die prophetische Berufungsformel:**
+**Jer 1,1-2 / Hos 1,1 → Lukas 3,2 — die prophetische Berufungsformel:**
 
 | Element | Jeremia / Hosea (LXX) | Lukas 3,2 |
 |---------|-------------------------|----------|
@@ -588,7 +588,7 @@ Lukas zitiert Jesaja 40 weiter als Matthäus oder Markus und erreicht V.5s „al
 
 Johannes ist in die Form der berufenen Propheten gegossen — das Wort-Ereignis-Idiom und das Priestersohn-Detail markieren seine Beauftragung; seine Predigt ist *menschliche* Prophetie (nicht göttlich markiert, Regel 30).
 
-**Ps 2,7 / Jes 42,1 -> Lukas 3,22 — die Stimme aus dem Himmel (Bat-Qol):**
+**Ps 2,7 / Jes 42,1 → Lukas 3,22 — die Stimme aus dem Himmel (Bat-Qol):**
 
 | Element | Psalm 2,7 / Jesaja 42,1 | Lukas 3,22 |
 |---------|--------------------------|-----------|
@@ -598,7 +598,7 @@ Johannes ist in die Form der berufenen Propheten gegossen — das Wort-Ereignis-
 
 Die himmlische Stimme — Gottes direkte Rede, göttlich markiert — verschmilzt die königliche Sohnschaft von Ps 2 mit dem erwählten Knecht von Jes 42. Eine westliche Variante (Codex Bezae) zitiert Ps 2,7 in voller Länge („heute habe ich dich gezeugt"); NA28 liest mit Markus/Matthäus.
 
-**Gen 5 / Gen 11 / Rut 4 -> Lukas 3,31-38 — die aufsteigende Genealogie:**
+**Gen 5 / Gen 11 / Rut 4 → Lukas 3,31-38 — die aufsteigende Genealogie:**
 
 | Element | Genesis / Rut | Lukas 3,31-38 |
 |---------|-----------------|---------------|

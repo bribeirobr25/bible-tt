@@ -22,7 +22,7 @@
 - [Lectura Continua](#lectura-continua)
 - [Estudio Versículo por Versículo](#estudio-versículo-por-versículo)
 - [Glosario — 1 Pedro 2](#glosario--1-pedro-2)
-- [Seguimiento entre Capítulos (BH -> 1 Pedro)](#seguimiento-entre-capítulos-bh--1-pedro)
+- [Seguimiento entre Capítulos (BH → 1 Pedro)](#seguimiento-entre-capítulos-bh--1-pedro)
 
 ---
 
@@ -59,7 +59,7 @@ Las notas se etiquetan por tipo — **Crítico · Léxico · Gramatical · Teol�
 
 ---
 
-¹Por tanto, habiendo desechado toda malicia y todo engaño e hipocresías y envidias y todas las maledicencias, ²como niños recién nacidos, anhelen la pura {a:leche *de la* palabra/leche espiritual}, para que por ella crezcan hacia la salvación, ³si *en verdad* gustaron que el Señor *es* bueno. ⁴Viniendo a él, una piedra viva — rechazada por la gente pero escogida *y* preciosa ante Dios — ⁵ustedes mismos también, como piedras vivas, son edificados *como* casa espiritual en un sacerdocio santo, para ofrecer sacrificios espirituales aceptables a Dios por medio de Yeshua *el* Mesías (Jesús). ⁶Porque se contiene en la escritura: @@"He aquí, pongo en Sion (Tsiyon) una piedra, una piedra angular escogida *y* preciosa, y el *que* cree en él jamás será avergonzado."@@ ⁷A ustedes, pues, los que creen, *es* la preciosidad, pero a los que no creen, "*la* piedra que los edificadores rechazaron — esta *misma* llegó a ser *la* cabeza del ángulo," ⁸y "una piedra de tropiezo y una roca de escándalo"; *los* que tropiezan *en* la palabra, no creyendo — a lo cual también fueron destinados. ⁹Pero ustedes *son* una raza escogida, un sacerdocio real, una nación santa, un pueblo para *la* posesión *de Dios*, para que anuncien las excelencias de Aquel que los llamó de las tinieblas a su luz maravillosa; ¹⁰*ustedes* que en otro tiempo *no eran* pueblo pero ahora *son* pueblo de Dios, los *que* no habían recibido misericordia pero ahora han recibido misericordia.
+¹Por tanto, habiendo desechado toda malicia y todo engaño e hipocresías y envidias y todas las maledicencias, ²como niños recién nacidos, anhelen la pura {a:leche *de la* palabra/leche espiritual}, para que por ella crezcan hacia la salvación, ³si *en verdad* gustaron que el Señor *es* bueno. ⁴Viniendo a él, una piedra viva — rechazada por la gente pero escogida *y* preciosa ante Dios — ⁵ustedes mismos también, como piedras vivas, son edificados *como* casa espiritual en un sacerdocio santo, para ofrecer sacrificios espirituales aceptables a Dios por medio de Yeshua *el* Mesías (Jesús). ⁶Porque se contiene en la escritura: "He aquí, pongo en Sion (Tsiyon) una piedra, una piedra angular escogida *y* preciosa, y el *que* cree en él jamás será avergonzado." ⁷A ustedes, pues, los que creen, *es* la preciosidad, pero a los que no creen, "*la* piedra que los edificadores rechazaron — esta *misma* llegó a ser *la* cabeza del ángulo," ⁸y "una piedra de tropiezo y una roca de escándalo"; *los* que tropiezan *en* la palabra, no creyendo — a lo cual también fueron destinados. ⁹Pero ustedes *son* una raza escogida, un sacerdocio real, una nación santa, un pueblo para *la* posesión *de Dios*, para que anuncien las excelencias de Aquel que los llamó de las tinieblas a su luz maravillosa; ¹⁰*ustedes* que en otro tiempo *no eran* pueblo pero ahora *son* pueblo de Dios, los *que* no habían recibido misericordia pero ahora han recibido misericordia.
 
 ¹¹Amados, los exhorto como peregrinos y forasteros a abstenerse de los deseos carnales, los cuales batallan contra el alma, ¹²manteniendo su conducta entre las naciones honorable, para que, en *aquello* en que hablan contra ustedes como malhechores, al observar *sus* buenas obras glorifiquen a Dios en *el* día de la visitación. ¹³Sométanse a toda institución humana por causa del Señor — sea a un rey como supremo, ¹⁴o a gobernadores como *los* enviados por medio de él para *el* castigo de los malhechores y *la* alabanza de los que hacen el bien. ¹⁵Porque así es la voluntad de Dios: que haciendo el bien hagan callar la ignorancia de la gente insensata — ¹⁶como libres, y no teniendo la libertad como cobertura de la maldad, sino como siervos de Dios. ¹⁷Honren a todos, amen a la hermandad, teman a Dios, honren al rey.
 
@@ -126,7 +126,7 @@ ustedes mismos también, como piedras vivas, son edificados *como* casa espiritu
 
 ### **Versículo 6**
 
-Porque se contiene en la escritura: @@"He aquí, pongo en Sion (Tsiyon) una piedra, una piedra angular escogida *y* preciosa, y el *que* cree en él jamás será avergonzado."@@
+Porque se contiene en la escritura: "He aquí, pongo en Sion (Tsiyon) una piedra, una piedra angular escogida *y* preciosa, y el *que* cree en él jamás será avergonzado."
 
 > **Notas**
 >
@@ -362,7 +362,7 @@ Porque andaban descarriados como ovejas, pero ahora han vuelto al pastor y super
 
 ---
 
-## SEGUIMIENTO ENTRE CAPÍTULOS (BH -> 1 Pedro)
+## SEGUIMIENTO ENTRE CAPÍTULOS (BH → 1 Pedro)
 
 | BH / fuente anterior | Tema | En 1 Pedro 2 |
 |---------------------|-------|--------------|

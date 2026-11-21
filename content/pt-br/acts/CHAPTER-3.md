@@ -22,7 +22,7 @@
 - [Leitura Contínua](#leitura-contínua)
 - [Estudo Verso a Verso](#estudo-verso-a-verso)
 - [Glossário — Atos 3](#glossário---atos-3)
-- [Rastreamento entre Capítulos (BH -> Atos)](#rastreamento-entre-capítulos-bh---atos)
+- [Rastreamento entre Capítulos (BH → Atos)](#rastreamento-entre-capítulos-bh---atos)
 
 ---
 
@@ -63,7 +63,7 @@ As notas são marcadas por tipo — **Crítico · Lexical · Gramatical · Teol�
 
 ¹¹E enquanto ele se agarrava a Kefa (Pedro) e Yochanan (João), todo o povo correu junto a eles ao pórtico chamado *de Salomão* (de Shlomoh), totalmente atônito. ¹²E vendo *isto*, Kefa (Pedro) respondeu ao povo: "Homens, israelitas, por que vos maravilhais com isto, ou por que fitais a nós, como se por nosso próprio poder ou piedade tivéssemos feito *este* andar? ¹³O Deus de Avraham (Abraão) e *de* Yitschaq (Isaque) e *de* Ya'aqov (Jacó), o Deus de nossos pais, glorificou o seu servo Yeshua (Jesus), a quem vós entregastes e negastes diante *da* face de Pilatos, *quando* aquele tinha decidido soltá-*lo*. ¹⁴Mas vós negastes o santo e justo *um*, e pedistes *que* vos fosse concedido um homem, um homicida, ¹⁵mas o Autor da vida vós matastes, a quem Deus ressuscitou dentre *os* mortos — do que somos testemunhas. ¹⁶E sobre a fé no seu nome, este *que* vós vedes e conheceis — o seu nome o firmou; e a fé *que é* por meio dele lhe deu esta plenitude diante de todos vós.
 
-¹⁷"E agora, irmãos, sei que agistes segundo a ignorância, assim como também os vossos governantes; ¹⁸mas Deus, as *coisas* que ele predisse pela boca de todos os profetas — que o seu Messias sofreria — ele assim cumpriu. ¹⁹Mudai *de* mentalidade, portanto, e voltai-vos, para o apagamento dos vossos pecados, ²⁰para que venham tempos de refrigério da face do Senhor, e *para que* ele envie o *que* foi predeterminado para vós, *o* Messias, Yeshua (Jesus), ²¹a quem o céu deve receber até *os* tempos da restauração de todas *as coisas*, das quais Deus falou pela boca dos seus santos profetas desde a antiguidade. ²²Mosheh (Moisés) de fato disse que 'Um profeta para vós *o* Senhor Deus levantará dentre os vossos irmãos, como a mim; a ele ouvireis em todas *as coisas*, tudo o que ele vos falar. ²³E acontecerá *que* toda alma, quem quer que não ouça aquele profeta, será totalmente exterminada do povo.' ²⁴E de fato todos os profetas, desde Shmuel (Samuel) e os *que vieram* depois, quantos falaram, também anunciaram estes dias. ²⁵Vós sois os filhos dos profetas e da aliança que Deus estabeleceu com os vossos pais, dizendo a Avraham (Abraão): @@'E na tua semente todas as famílias da terra serão abençoadas.'@@ ²⁶A vós primeiro, Deus, tendo levantado o seu servo, o enviou, abençoando-vos *no* afastar de cada *um de vós* das vossas maldades."
+¹⁷"E agora, irmãos, sei que agistes segundo a ignorância, assim como também os vossos governantes; ¹⁸mas Deus, as *coisas* que ele predisse pela boca de todos os profetas — que o seu Messias sofreria — ele assim cumpriu. ¹⁹Mudai *de* mentalidade, portanto, e voltai-vos, para o apagamento dos vossos pecados, ²⁰para que venham tempos de refrigério da face do Senhor, e *para que* ele envie o *que* foi predeterminado para vós, *o* Messias, Yeshua (Jesus), ²¹a quem o céu deve receber até *os* tempos da restauração de todas *as coisas*, das quais Deus falou pela boca dos seus santos profetas desde a antiguidade. ²²Mosheh (Moisés) de fato disse que 'Um profeta para vós *o* Senhor Deus levantará dentre os vossos irmãos, como a mim; a ele ouvireis em todas *as coisas*, tudo o que ele vos falar. ²³E acontecerá *que* toda alma, quem quer que não ouça aquele profeta, será totalmente exterminada do povo.' ²⁴E de fato todos os profetas, desde Shmuel (Samuel) e os *que vieram* depois, quantos falaram, também anunciaram estes dias. ²⁵Vós sois os filhos dos profetas e da aliança que Deus estabeleceu com os vossos pais, dizendo a Avraham (Abraão): 'E na tua semente todas as famílias da terra serão abençoadas.' ²⁶A vós primeiro, Deus, tendo levantado o seu servo, o enviou, abençoando-vos *no* afastar de cada *um de vós* das vossas maldades."
 
 ---
 
@@ -335,7 +335,7 @@ E de fato todos os profetas, desde Shmuel (Samuel) e os *que vieram* depois, qua
 
 ### **Versículo 25**
 
-Vós sois os filhos dos profetas e da aliança que Deus estabeleceu com os vossos pais, dizendo a Avraham (Abraão): @@'E na tua semente todas as famílias da terra serão abençoadas.'@@
+Vós sois os filhos dos profetas e da aliança que Deus estabeleceu com os vossos pais, dizendo a Avraham (Abraão): 'E na tua semente todas as famílias da terra serão abençoadas.'
 
 > **Notas**
 >
@@ -372,7 +372,7 @@ A vós primeiro, Deus, tendo levantado o seu servo, o enviou, abençoando-vos *n
 
 ---
 
-## Rastreamento entre Capítulos (BH -> Atos)
+## Rastreamento entre Capítulos (BH → Atos)
 
 | BH / fonte anterior | Tema | Em Atos 3 |
 |---------------------|-------|-----------|

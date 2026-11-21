@@ -20,7 +20,7 @@
 - [Continuous Reading](#continuous-reading)
 - [Verse-by-Verse Study](#verse-by-verse-study)
 - [Glossary — 1 Peter 3](#glossary--1-peter-3)
-- [Cross-Chapter Tracking (HB -> 1 Peter)](#cross-chapter-tracking-hb--1-peter)
+- [Cross-Chapter Tracking (HB → 1 Peter)](#cross-chapter-tracking-hb--1-peter)
 
 ---
 
@@ -329,7 +329,7 @@ who is at *the* right *hand* of God, having gone into heaven, *with* angels and 
 
 ---
 
-## Cross-Chapter Tracking (HB -> 1 Peter)
+## Cross-Chapter Tracking (HB → 1 Peter)
 
 | HB / earlier source | Theme | In 1 Peter 3 |
 |---------------------|-------|--------------|

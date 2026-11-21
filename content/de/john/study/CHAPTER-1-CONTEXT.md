@@ -11,7 +11,7 @@
 **Sprache:** Deutsch
 **Begleiter zu:** `de/john/CHAPTER-1.md` (Transparente Ausgabe)
 **Regelwerk:** v3.4 (Regel 29 regelt diese Datei)
-**Status:** vorlaufig
+**Status:** vorläufig
 
 ---
 
@@ -192,7 +192,7 @@ Johannes 1,46: Natanaels Frage "Kann aus Nazareth etwas Gutes kommen?" implizier
 >
 > **Szenario A — Vor 70 n. Chr. (Tempel noch stehend):** Die Welt von Johannes 1, wie sie von Menschen erlebt wurde, die noch einen funktionierenden Tempel, ein Sanhedrin mit echter Rechtsmacht und lebendige Erinnerung an herodianische Pracht hatten. Wahrscheinliches Publikum: Judenchristen und Diasporajuden, die unter römischer Herrschaft lebten und dabei den Tempel als symbolischen Mittelpunkt des Universums betrachteten.
 >
-> **Szenario B — Nach 70 n. Chr. (Tempel zerstört):** Derselbe Text nach 70 n. Chr. gelesen, als der Tempel verbrannt, das Sanhedrin aufgelöst, Jerusalem teilweise entvölkert und die Pharisäer die jüdische Identität in Jabne neu aufbauten. Wahrscheinliches Publikum: Gemeinschaften, für die „die Yehudim", die Yohannan (Johannes) verhörten, eine ganz andere soziale Realität heraufbeschworen.
+> **Szenario B — Nach 70 n. Chr. (Tempel zerstört):** Derselbe Text nach 70 n. Chr. gelesen, als der Tempel verbrannt, das Sanhedrin aufgelöst, Jerusalem teilweise entvölkert und die Pharisäer die jüdische Identität in Jabne neu aufbauten. Wahrscheinliches Publikum: Gemeinschaften, für die „die Jehudim", die Yohannan (Johannes) verhörten, eine ganz andere soziale Realität heraufbeschworen.
 >
 > Kein Szenario wird dem Text aufgezwungen. Beide werden vorgestellt, damit der Leser die Belege abwägen kann.
 
@@ -224,7 +224,7 @@ Das Alltagsleben in jüdischen Dörfern des 1. Jahrhunderts drehte sich um das L
 #### IA-4. Gesellschaftsstruktur — Priesterliche Aristokratie, Schriftgelehrte und Bauern
 **[HISTORISCH / ARCHÄOLOGISCH — VERIFIZIERT]**
 
-Die jüdische Gesellschaft des 1. Jahrhunderts in Judäa war stark stratifiziert. Die hohepriesterlichen Familien (Annas, Kajaphas und verwandte Clans) kontrollierten den Tempelapparat und seine wirtschaftlichen Einnahmen, heirateten untereinander und kooperierten mit der römischen Autorität zur Aufrechterhaltung der Ordnung. Unterhalb dieser Schicht standen Schriftgelehrte (professionelle Toraausleger), Pharisäer (eine Laienbewegung, die sich auf Reinheit und mündliche Tora konzentrierte), Händler, Handwerker und an der Basis bäuerliche Landwirte und Tagelöhner. Galiläa hatte eine etwas flachere Gesellschaftsstruktur — kein Tempel, weniger Priesterfamilien —, war aber nicht egalitär. Der Abstand zwischen galiläischen Dorfbewohnern und der Jerusalemer Elite war kulturell ebenso wie wirtschaftlich. Als das Jerusalemer Establishment (1,19: Priester und Leviten, von den Yehudim ausgesandt) Yohannan (Johannes) verhört, trägt die Begegnung Klassengewicht: städtisch-institutionelle Religion verhört einen Wüstenpropheten.
+Die jüdische Gesellschaft des 1. Jahrhunderts in Judäa war stark stratifiziert. Die hohepriesterlichen Familien (Annas, Kajaphas und verwandte Clans) kontrollierten den Tempelapparat und seine wirtschaftlichen Einnahmen, heirateten untereinander und kooperierten mit der römischen Autorität zur Aufrechterhaltung der Ordnung. Unterhalb dieser Schicht standen Schriftgelehrte (professionelle Toraausleger), Pharisäer (eine Laienbewegung, die sich auf Reinheit und mündliche Tora konzentrierte), Händler, Handwerker und an der Basis bäuerliche Landwirte und Tagelöhner. Galiläa hatte eine etwas flachere Gesellschaftsstruktur — kein Tempel, weniger Priesterfamilien —, war aber nicht egalitär. Der Abstand zwischen galiläischen Dorfbewohnern und der Jerusalemer Elite war kulturell ebenso wie wirtschaftlich. Als das Jerusalemer Establishment (1,19: Priester und Leviten, von den Jehudim ausgesandt) Yohannan (Johannes) verhört, trägt die Begegnung Klassengewicht: städtisch-institutionelle Religion verhört einen Wüstenpropheten.
 
 **Quelle:** Horsley, R.A., *Galilee: History, Politics, People*, Trinity Press International, 1995; Meier, J.P., *A Marginal Jew*, Bd. 1, Doubleday, 1991.
 
@@ -277,7 +277,7 @@ Das Territorium, durch das sich die Ereignisse von Johannes 1 bewegen, war von v
 #### IB-1. Politisch — Römische Dominanz nach dem Jüdischen Krieg
 **[HISTORISCH / ARCHÄOLOGISCH — VERIFIZIERT]**
 
-Der Jüdische Krieg 66–70 n. Chr. endete mit der Zerstörung Jerusalems und seines Tempels durch Titus und die Zehnte Legion. Judäa wurde als Provinz *Iudaea* unter direkter kaiserlicher Verwaltung reorganisiert (unter Hadrian nach dem Bar-Kochba-Aufstand 132–135 n. Chr. zur senatorischen Provinz erhoben). Der hohepriesterliche Apparat wurde aufgelöst — kein Tempel, keine Opfer, kein Sanhedrin mit echter Rechtsmacht. Der *Fiscus Judaicus* (eine jüdische Steuer, die an den Tempel des Jupiter Capitolinus in Rom umgeleitet wurde) ersetzte die Tempelsteuer und machte die jüdische Identität zu einer Angelegenheit des römischen Fiskalregisters. In diesem Kontext gelesen trägt das Konto in Johannes 1 über Jerusalemer Abordnungen, die einen Wüstenpropheten verhören, eine andere Resonanz: Die institutionelle Autorität hinter diesen Abordnungen existiert nicht mehr. Die Yehudim, die Priester und Leviten aus Jerusalem entsenden, sind nun Erinnerung an eine Welt, von der das Publikum weiß, dass sie abgebaut wurde.
+Der Jüdische Krieg 66–70 n. Chr. endete mit der Zerstörung Jerusalems und seines Tempels durch Titus und die Zehnte Legion. Judäa wurde als Provinz *Iudaea* unter direkter kaiserlicher Verwaltung reorganisiert (unter Hadrian nach dem Bar-Kochba-Aufstand 132–135 n. Chr. zur senatorischen Provinz erhoben). Der hohepriesterliche Apparat wurde aufgelöst — kein Tempel, keine Opfer, kein Sanhedrin mit echter Rechtsmacht. Der *Fiscus Judaicus* (eine jüdische Steuer, die an den Tempel des Jupiter Capitolinus in Rom umgeleitet wurde) ersetzte die Tempelsteuer und machte die jüdische Identität zu einer Angelegenheit des römischen Fiskalregisters. In diesem Kontext gelesen trägt das Konto in Johannes 1 über Jerusalemer Abordnungen, die einen Wüstenpropheten verhören, eine andere Resonanz: Die institutionelle Autorität hinter diesen Abordnungen existiert nicht mehr. Die Jehudim, die Priester und Leviten aus Jerusalem entsenden, sind nun Erinnerung an eine Welt, von der das Publikum weiß, dass sie abgebaut wurde.
 
 **Quelle:** Goodman, M., *Rome and Jerusalem: The Clash of Ancient Civilizations*, Allen Lane, 2007; Millar, F., *The Roman Near East, 31 BC – AD 337*, Harvard University Press, 1993.
 

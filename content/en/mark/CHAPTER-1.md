@@ -21,7 +21,7 @@
 - [Continuous Reading](#continuous-reading)
 - [Verse-by-Verse Study](#verse-by-verse-study)
 - [Glossary — Mark 1](#glossary---mark-1)
-- [Cross-Chapter Tracking (HB -> Mark)](#cross-chapter-tracking-hb--mark)
+- [Cross-Chapter Tracking (HB → Mark)](#cross-chapter-tracking-hb--mark)
 
 ---
 
@@ -36,7 +36,7 @@
 
 Notes are tagged by type — **Critical · Lexical · Grammatical · Theological** — each shown with its colour (see the legend at the top of the Notes view).
 
-**This is the opening of the earliest Gospel.** Mark begins with no genealogy and no birth narrative — it opens at full speed with a composite prophetic citation, the appearance of Yochanan the Immerser, the immersion of Yeshua, and a rapid sequence of the first acts of his public work. The narrative's signature word is *euthys* ("immediately"), which drives the pace; the TT preserves it at every occurrence. Mark uses "kingdom of God" (not Matthew's "kingdom of the skies"). Proper names follow TT transliteration: Yeshua (not "Jesus" alone), Yochanan (not John), Yarden (not Jordan).
+**This is the opening of the earliest Gospel.** Mark begins with no genealogy and no birth narrative — it opens at full speed with a composite prophetic citation, the appearance of Yochanan the Immerser, the immersion of Yeshua, and a rapid sequence of the first acts of his public work. The narrative's signature word is *euthys* ("immediately"), which drives the pace; the TT preserves it at every occurrence. Mark uses "kingdom of God" (not Matthew's "kingdom of the skies"). Names appear in their familiar form, with the source-language form given once per section — e.g. Yochanan (John).
 
 ---
 
@@ -636,9 +636,9 @@ But he, going out, began to proclaim *it* much and to spread the word, so that *
 
 ---
 
-## CROSS-CHAPTER TRACKING (HB -> Mark)
+## CROSS-CHAPTER TRACKING (HB → Mark)
 
-**Malachi 3:1 + Exodus 23:20 + Isaiah 40:3 -> Mark 1:2–3 — the composite citation:**
+**Malachi 3:1 + Exodus 23:20 + Isaiah 40:3 → Mark 1:2–3 — the composite citation:**
 
 | Element | Source | Mark 1:2–3 |
 |---------|--------|------------|
@@ -649,7 +649,7 @@ But he, going out, began to proclaim *it* much and to spread the word, so that *
 
 Mark fuses three texts and attributes the whole to Isaiah (the most prominent source). The Byzantine "in the prophets" is a later harmonizing correction.
 
-**Psalm 2:7 + Isaiah 42:1 -> Mark 1:11 — "You are my son, the beloved":**
+**Psalm 2:7 + Isaiah 42:1 → Mark 1:11 — "You are my son, the beloved":**
 
 | Element | Psalm 2:7 | Isaiah 42:1 | Mark 1:11 |
 |---------|-----------|-------------|-----------|
@@ -659,7 +659,7 @@ Mark fuses three texts and attributes the whole to Isaiah (the most prominent so
 
 Mark's voice addresses Yeshua directly ("You are"), unlike Matthew's third-person "This is." **ἀγαπητός** ("beloved") may also echo Genesis 22:2 (LXX, "your son, the beloved" — Yitschaq at the binding).
 
-**Genesis 1:2 -> Mark 1:10 — wind/spirit at a threshold:**
+**Genesis 1:2 → Mark 1:10 — wind/spirit at a threshold:**
 
 | Element | Gen 1:2 | Mark 1:10 |
 |---------|---------|-----------|

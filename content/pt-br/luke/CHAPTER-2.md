@@ -22,7 +22,7 @@
 - [Leitura Contínua](#leitura-contínua)
 - [Estudo Verso a Verso](#estudo-verso-a-verso)
 - [Glossário — Lucas 2](#glossário---lucas-2)
-- [Rastreamento entre Capítulos (BH -> Lucas)](#rastreamento-entre-capítulos-bh---lucas)
+- [Rastreamento entre Capítulos (BH → Lucas)](#rastreamento-entre-capítulos-bh---lucas)
 
 ---
 
@@ -37,7 +37,7 @@
 
 As notas são marcadas por tipo — **Crítico · Lexical · Gramatical · Teológico** — cada uma com sua cor (veja a legenda no topo da visão de Notas).
 
-**Lucas 2 é o capítulo da natividade.** Um decreto de censo de César Augusto, sob Quirino, traz Yosef e a grávida Miryam de Natseret a Beit-Lechem, a cidade de David (vv.1-5); ali Yeshua nasce e é deitado num cocho de alimentar, "porque não havia lugar para eles no *kataluma*" (vv.6-7). Mensageiros anunciam o nascimento aos pastores, e a hoste celestial canta a Gloria (vv.8-20). No oitavo dia a criança é circuncidada e nomeada; ele é apresentado no templo em Yerushalayim, onde Shimon o recebe e canta o Nunc Dimittis, depois fala a Miryam (vv.21-35), e a profetisa Channah dá graças (vv.36-38). A família retorna a Natseret e a criança cresce (vv.39-40). Aos doze anos, o menino Yeshua permanece no templo e é encontrado entre os mestres; suas palavras a seus pais são o único dito registrado de sua juventude (vv.41-52). **Nota sobre marcação de fala (Regra 30):** o mensageiro e a hoste celestial (a Gloria, vv.13-14) são da classe *angelos* — sua fala NÃO é marcada como divina. As palavras de Shimon e de Channah são *humanas* — não marcadas. Apenas o dito do menino Yeshua (v.49) é marcado como divino. Os dois cânticos (Gloria, Nunc Dimittis) são fala *humana/angélica* apresentada como prosa fluente. Os nomes próprios seguem a transliteração TT: Yeshua (não Jesus), Miryam (não Maria), Yosef (não José), Beit-Lechem (não Belém), Natseret (não Nazaré), Yerushalayim (não Jerusalém), Shimon (não Simeão), Channah (não Ana).
+**Lucas 2 é o capítulo da natividade.** Um decreto de censo de César Augusto, sob Quirino, traz Yosef e a grávida Miryam de Natseret a Beit-Lechem, a cidade de David (vv.1-5); ali Yeshua nasce e é deitado num cocho de alimentar, "porque não havia lugar para eles no *kataluma*" (vv.6-7). Mensageiros anunciam o nascimento aos pastores, e a hoste celestial canta a Gloria (vv.8-20). No oitavo dia a criança é circuncidada e nomeada; ele é apresentado no templo em Yerushalayim, onde Shimon o recebe e canta o Nunc Dimittis, depois fala a Miryam (vv.21-35), e a profetisa Channah dá graças (vv.36-38). A família retorna a Natseret e a criança cresce (vv.39-40). Aos doze anos, o menino Yeshua permanece no templo e é encontrado entre os mestres; suas palavras a seus pais são o único dito registrado de sua juventude (vv.41-52). **Nota sobre marcação de fala (Regra 30):** o mensageiro e a hoste celestial (a Gloria, vv.13-14) são da classe *angelos* — sua fala NÃO é marcada como divina. As palavras de Shimon e de Channah são *humanas* — não marcadas. Apenas o dito do menino Yeshua (v.49) é marcado como divino. Os dois cânticos (Gloria, Nunc Dimittis) são fala *humana/angélica* apresentada como prosa fluente. Os nomes aparecem na forma familiar, com a forma da língua original indicada uma vez por seção — p. ex., Yochanan (João).
 
 ---
 
@@ -721,9 +721,9 @@ E Yeshua (Jesus) avançou em sabedoria e estatura e favor com Deus e *as* pessoa
 
 ---
 
-## RASTREAMENTO ENTRE CAPÍTULOS (BH -> Lucas)
+## RASTREAMENTO ENTRE CAPÍTULOS (BH → Lucas)
 
-**1 Sm 16 / Miq 5:1 -> Lucas 2:4-11 — Beit-Lechem (Belém), David, e os pastores:**
+**1 Sm 16 / Miq 5:1 → Lucas 2:4-11 — Beit-Lechem (Belém), David, e os pastores:**
 
 | Elemento | 1 Samuel 16 / Miqueias 5 | Lucas 2 |
 |---------|------------------------|--------|
@@ -733,7 +733,7 @@ E Yeshua (Jesus) avançou em sabedoria e estatura e favor com Deus e *as* pessoa
 
 A natividade liga o local de nascimento, a descendência davídica, e as testemunhas-pastores à profecia de Belém e a David, o rei-pastor de Israel.
 
-**Êx 13:2, 12-15 / Lv 12 -> Lucas 2:22-24 — o primogênito e a oferta da pessoa pobre:**
+**Êx 13:2, 12-15 / Lv 12 → Lucas 2:22-24 — o primogênito e a oferta da pessoa pobre:**
 
 | Elemento | Êxodo / Levítico | Lucas 2 |
 |---------|---------------------|--------|
@@ -743,7 +743,7 @@ A natividade liga o local de nascimento, a descendência davídica, e as testemu
 
 A apresentação observa a Torá exatamente e, através da oferta de aves, marca discretamente a pobreza da família.
 
-**Is 40:1-5 / 42:6 / 49:6 / 52:9-10 -> Lucas 2:25-38 — consolação, salvação vista, luz às nações:**
+**Is 40:1-5 / 42:6 / 49:6 / 52:9-10 → Lucas 2:25-38 — consolação, salvação vista, luz às nações:**
 
 | Elemento | Isaías | Lucas 2 (Simeão / Ana) |
 |---------|--------|------------------------|
@@ -754,7 +754,7 @@ A apresentação observa a Torá exatamente e, através da oferta de aves, marca
 
 Simeão e Ana dão voz à esperança isaiana de conforto e salvação, agora estendida explicitamente às nações ao lado de Israel.
 
-**1 Sm 2:26 / Jz 13:24 -> Lucas 2:40, 52 — a fórmula-de-crescimento:**
+**1 Sm 2:26 / Jz 13:24 → Lucas 2:40, 52 — a fórmula-de-crescimento:**
 
 | Elemento | 1 Samuel / Juízes | Lucas 2 |
 |---------|--------------------|--------|

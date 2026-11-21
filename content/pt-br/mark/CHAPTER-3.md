@@ -22,7 +22,7 @@
 - [Leitura Contínua](#leitura-contínua)
 - [Estudo Verso a Verso](#estudo-verso-a-verso)
 - [Glossário — Marcos 3](#glossário---marcos-3)
-- [Rastreamento entre Capítulos (BH -> Marcos)](#rastreamento-entre-capítulos-bh---marcos)
+- [Rastreamento entre Capítulos (BH → Marcos)](#rastreamento-entre-capítulos-bh---marcos)
 
 ---
 
@@ -474,9 +474,9 @@ Pois quem faz a vontade de Deus, este é meu irmão e irmã e mãe."
 
 ---
 
-## RASTREAMENTO ENTRE CAPÍTULOS (BH -> Marcos)
+## RASTREAMENTO ENTRE CAPÍTULOS (BH → Marcos)
 
-**Êxodo 20:8–11 / Deuteronômio 5:12–15 -> Marcos 3:4 — sábado e vida:**
+**Êxodo 20:8–11 / Deuteronômio 5:12–15 → Marcos 3:4 — sábado e vida:**
 
 | Elemento | Lei do sábado da BH | Marcos 3:4 |
 |----------|---------------------|------------|
@@ -486,7 +486,7 @@ Pois quem faz a vontade de Deus, este é meu irmão e irmã e mãe."
 
 Yeshua enquadra o sábado em torno de preservar a vida — coerente com a razão do descanso-como-dom (Dt 5:14–15) em vez do descanso-como-restrição.
 
-**As Doze Tribos -> Marcos 3:14–19 — "ele fez doze":**
+**As Doze Tribos → Marcos 3:14–19 — "ele fez doze":**
 
 | Elemento | Doze Tribos de Israel | Marcos 3:14 |
 |----------|------------------------|-------------|
@@ -494,7 +494,7 @@ Yeshua enquadra o sábado em torno de preservar a vida — coerente com a razão
 | Função | constituir Israel | constituir um novo núcleo em torno de Yeshua |
 | Simbolismo | povo da aliança | povo reconstituído (implícito, não declarado) |
 
-**Isaías 49:24–25 -> Marcos 3:27 — saquear o forte:**
+**Isaías 49:24–25 → Marcos 3:27 — saquear o forte:**
 
 | Elemento | Isaías 49:24–25 | Marcos 3:27 |
 |----------|-----------------|-------------|

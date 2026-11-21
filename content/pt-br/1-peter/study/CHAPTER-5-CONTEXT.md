@@ -195,35 +195,6 @@ A saudadora de 5:13 é **ἡ… συνεκλεκτή** ("a *co-eleita* [feminino
 
 ---
 
-## H. Fontes Consultadas
-
-| Fonte | Tipo | Usada nas seções |
-|--------|------|-----------------|
-| Achtemeier, P.J., *1 Peter*, Hermeneia, 1996 | PEER-REVIEWED (commentary) | B, F |
-| Bauckham, R., *James*, 1999 | PEER-REVIEWED (monograph) | B |
-| Bauckham, R., *Jesus and the Eyewitnesses*, 2006 | PEER-REVIEWED (monograph) | F |
-| Bauer, W., *A Greek-English Lexicon of the NT* (BDAG), 3ª ed., 2000 | PEER-REVIEWED (lexicon) | D |
-| Bockmuehl, M., *Simon Peter in Scripture and Memory*, 2012 | PEER-REVIEWED (monograph) | F |
-| Campbell, R.A., *The Elders: Seniority within Earliest Christianity*, 1994 | PEER-REVIEWED (monograph) | C |
-| Cullmann, O., *Peter: Disciple, Apostle, Martyr*, 2ª ed., 1962 | PEER-REVIEWED (monograph) | F |
-| Davids, P.H., *The First Epistle of Peter*, NICNT, 1990 | PEER-REVIEWED (commentary) | B |
-| Day, P.L., *An Adversary in Heaven: śāṭān in the Hebrew Bible*, 1988 | PEER-REVIEWED (monograph) | D |
-| Elliott, J.H., *1 Peter*, Anchor Bible 37B, 2000 | PEER-REVIEWED (commentary) | C, D, F |
-| Hatch, E. e Redpath, H.A., *A Concordance to the Septuagint*, 2ª ed., 1998 | PEER-REVIEWED (reference) | D |
-| Hengel, M., *Studies in the Gospel of Mark*, 1985 | PEER-REVIEWED (monograph) | F |
-| Horrell, D.G., *1 Peter*, New Testament Guides, 2008 | PEER-REVIEWED (monograph) | C |
-| Hunzinger, C.-H., "Babylon als Deckname für Rom," 1965 | PEER-REVIEWED (essay) | B |
-| Liddell e Scott, *Greek-English Lexicon*, 9ª ed., 1940 | PEER-REVIEWED (lexicon) | D |
-| Metzger, B.M., *A Textual Commentary on the Greek New Testament*, 2ª ed., 1994 | PEER-REVIEWED (reference) | G |
-| Michaels, J.R., *1 Peter*, Word Biblical Commentary 49, 1988 | PEER-REVIEWED (commentary) | B |
-| Nestle-Aland, *Novum Testamentum Graece*, 28ª ed. | PRIMARY | A, D, G |
-| Richards, E.R., *The Secretary in the Letters of Paul*, 1991 | PEER-REVIEWED (monograph) | F |
-| Spicq, C., *Theological Lexicon of the New Testament*, 1994 | PEER-REVIEWED (lexicon) | D |
-| Strawn, B.A., *What Is Stronger than a Lion?*, 2005 | PEER-REVIEWED (monograph) | B |
-| Williams, T.B., *Persecution in 1 Peter*, 2012 | PEER-REVIEWED (monograph) | C |
-
----
-
 ## I. O Mundo na Época
 
 > **Referência cruzada:** Para o amplo mundo greco-romano imperial-primitivo dos destinatários da carta — política, economia, vida cotidiana e religião sob o Principado primitivo — veja a Seção I dos companheiros de João e Atos (`en/john/study/CHAPTER-1-CONTEXT.md`; `en/acts/study/CHAPTER-1-CONTEXT.md`). 1 Pedro escreve a crentes dispersos na Ásia Menor (Ponto, Galácia, Capadócia, Ásia, Bitínia, 1:1) na segunda metade do primeiro século. As entradas abaixo abordam as características específicas daquele mundo destacadas pelo capítulo final: as estruturas de liderança da igreja primitiva, a cultura-de-honra contra a qual a "humildade" se ergue, as convenções do fecho-de-carta, e "Babilônia" como nome de Roma.
@@ -258,18 +229,42 @@ No final do primeiro século, após a destruição de Jerusalém e seu Templo po
 
 **Fonte:** Achtemeier, P.J., *1 Peter*, Hermeneia, Fortress Press, 1996, pp. 353-354; Goodman, M., *Rome and Jerusalem: The Clash of Ancient Civilizations*, Allen Lane, 2007, pp. 451-468.
 
+---
+
+## H. Fontes Consultadas
+
 | Fonte | Tipo | Usada nas seções |
 |--------|------|-----------------|
-| Achtemeier, P.J., *1 Peter*, Hermeneia, 1996 | PEER-REVIEWED (commentary) | I |
-| Campbell, R.A., *The Elders: Seniority within Earliest Christianity*, 1994 | PEER-REVIEWED (monograph) | I |
+| Achtemeier, P.J., *1 Peter*, Hermeneia, 1996 | PEER-REVIEWED (commentary) | B, F, I |
+| Bauckham, R., *James*, 1999 | PEER-REVIEWED (monograph) | B |
+| Bauckham, R., *Jesus and the Eyewitnesses*, 2006 | PEER-REVIEWED (monograph) | F |
+| Bauer, W., *A Greek-English Lexicon of the NT* (BDAG), 3ª ed., 2000 | PEER-REVIEWED (lexicon) | D |
+| Bockmuehl, M., *Simon Peter in Scripture and Memory*, 2012 | PEER-REVIEWED (monograph) | F |
+| Campbell, R.A., *The Elders: Seniority within Earliest Christianity*, 1994 | PEER-REVIEWED (monograph) | C, I |
+| Cullmann, O., *Peter: Disciple, Apostle, Martyr*, 2ª ed., 1962 | PEER-REVIEWED (monograph) | F |
+| Davids, P.H., *The First Epistle of Peter*, NICNT, 1990 | PEER-REVIEWED (commentary) | B |
+| Day, P.L., *An Adversary in Heaven: śāṭān in the Hebrew Bible*, 1988 | PEER-REVIEWED (monograph) | D |
 | deSilva, D.A., *Honor, Patronage, Kinship & Purity*, 2000 | PEER-REVIEWED (monograph) | I |
-| Elliott, J.H., *1 Peter*, Anchor Bible 37B, 2000 | PEER-REVIEWED (commentary) | I |
+| Elliott, J.H., *1 Peter*, Anchor Bible 37B, 2000 | PEER-REVIEWED (commentary) | C, D, F, I |
 | Goodman, M., *Rome and Jerusalem*, 2007 | PEER-REVIEWED (monograph) | I |
+| Hatch, E. e Redpath, H.A., *A Concordance to the Septuagint*, 2ª ed., 1998 | PEER-REVIEWED (reference) | D |
+| Hengel, M., *Studies in the Gospel of Mark*, 1985 | PEER-REVIEWED (monograph) | F |
+| Horrell, D.G., *1 Peter*, New Testament Guides, 2008 | PEER-REVIEWED (monograph) | C |
+| Hunzinger, C.-H., "Babylon als Deckname für Rom," 1965 | PEER-REVIEWED (essay) | B |
 | Klauck, H.-J., *Ancient Letters and the New Testament*, 2006 | PEER-REVIEWED (monograph) | I |
+| Liddell e Scott, *Greek-English Lexicon*, 9ª ed., 1940 | PEER-REVIEWED (lexicon) | D |
 | Malina, B.J., *The New Testament World*, 3ª ed., 2001 | PEER-REVIEWED (monograph) | I |
+| Metzger, B.M., *A Textual Commentary on the Greek New Testament*, 2ª ed., 1994 | PEER-REVIEWED (reference) | G |
+| Michaels, J.R., *1 Peter*, Word Biblical Commentary 49, 1988 | PEER-REVIEWED (commentary) | B |
+| Nestle-Aland, *Novum Testamentum Graece*, 28ª ed. | PRIMARY | A, D, G |
+| Richards, E.R., *The Secretary in the Letters of Paul*, 1991 | PEER-REVIEWED (monograph) | F |
+| Spicq, C., *Theological Lexicon of the New Testament*, 1994 | PEER-REVIEWED (lexicon) | D |
+| Strawn, B.A., *What Is Stronger than a Lion?*, 2005 | PEER-REVIEWED (monograph) | B |
 | Weima, J.A.D., *Neglected Endings*, 1994 | PEER-REVIEWED (monograph) | I |
+| Williams, T.B., *Persecution in 1 Peter*, 2012 | PEER-REVIEWED (monograph) | C |
 
 ---
+
 
 **Proveniência editorial:**
 - Redigido por: IA (Claude, Anthropic)

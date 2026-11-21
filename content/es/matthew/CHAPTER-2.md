@@ -22,7 +22,7 @@
 - [Lectura Continua](#lectura-continua)
 - [Estudio Versículo por Versículo](#estudio-versículo-por-versículo)
 - [Glosario — Mateo 2](#glosario---mateo-2)
-- [Seguimiento entre Capítulos (AT -> Mateo)](#seguimiento-entre-capítulos-at--mateo)
+- [Seguimiento entre Capítulos (AT → Mateo)](#seguimiento-entre-capítulos-at--mateo)
 
 ---
 
@@ -37,13 +37,13 @@
 
 Las notas se etiquetan por tipo — **Crítico · Léxico · Gramatical · Teológico** — cada una con su color (vea la leyenda en la parte superior de la vista de Notas).
 
-**Este capítulo es el más cargado del AT en la narrativa del nacimiento.** Cuatro fórmulas de citación ("para que se cumpliera lo dicho") impulsan la narrativa: Miqueas 5:1 (Beyt-Lechem), Oseas 11:1 (fuera de Mitsrayim), Jeremías 31:15 (Raquel llorando), y un misterioso "Será llamado Natsri" sin una fuente única del AT. Cada cita usa kyrios Opción C con la conexión YHWH del AT anotada. Los nombres propios siguen la transliteración TT: Herodes (no Herodes familiar), Beyt-Lechem (no Belén), Mitsrayim (no Egipto), Natseret (no Nazaret).
+**Este capítulo es el más cargado del AT en la narrativa del nacimiento.** Cuatro fórmulas de citación ("para que se cumpliera lo dicho") impulsan la narrativa: Miqueas 5:1 (Beyt-Lechem), Oseas 11:1 (fuera de Mitsrayim), Jeremías 31:15 (Raquel llorando), y un misterioso "Será llamado Natsri" sin una fuente única del AT. Cada cita usa kyrios Opción C con la conexión YHWH del AT anotada. Los nombres aparecen en su forma familiar, con la forma de la lengua original indicada una vez por sección — p. ej., Yochanan (Juan).
 
 ---
 
 ## VISIÓN GENERAL DEL CAPÍTULO
 
-**Qué sucede:** Los magos (sabios) del oriente llegan a Jerusalén preguntando dónde ha nacido el rey de los yehudim, habiendo visto su estrella en su salida. Herodes el rey se perturba y reúne a los sumos sacerdotes y escribas, quienes identifican a Beyt-Lechem a partir de Miqueas 5:1. Herodes convoca secretamente a los magos, averigua el tiempo de la aparición de la estrella, y los envía a Beyt-Lechem. La estrella los guía hasta el niño; ofrecen oro, incienso y mirra, y luego parten por otro camino, advertidos en un sueño. Un mensajero del Señor se le aparece a José en un sueño: huyan a Egipto con el niño y su madre. José obedece. El narrador cita Oseas 11:1: "De Egipto llamé a mi hijo." Herodes, al darse cuenta de que los magos lo han burlado, ordena matar a todos los niños varones en Beyt-Lechem y sus alrededores, de dos años para abajo. El narrador cita Jeremías 31:15: Raquel llorando por sus hijos. Después de que Herodes muere, un mensajero aparece de nuevo en un sueño: regresen a la tierra de Yisra'el. José regresa pero, temiendo al hijo de Herodes, Archelaos, en Judá, se retira al Galilea y se establece en Nazaret. La fórmula final del narrador: "para que se cumpliera lo dicho a través de los profetas: 'Será llamado Natsri.'"
+**Qué sucede:** Los magos (sabios) del oriente llegan a Jerusalén preguntando dónde ha nacido el rey de los Yehudim, habiendo visto su estrella en su salida. Herodes el rey se perturba y reúne a los sumos sacerdotes y escribas, quienes identifican a Beyt-Lechem a partir de Miqueas 5:1. Herodes convoca secretamente a los magos, averigua el tiempo de la aparición de la estrella, y los envía a Beyt-Lechem. La estrella los guía hasta el niño; ofrecen oro, incienso y mirra, y luego parten por otro camino, advertidos en un sueño. Un mensajero del Señor se le aparece a José en un sueño: huyan a Egipto con el niño y su madre. José obedece. El narrador cita Oseas 11:1: "De Egipto llamé a mi hijo." Herodes, al darse cuenta de que los magos lo han burlado, ordena matar a todos los niños varones en Beyt-Lechem y sus alrededores, de dos años para abajo. El narrador cita Jeremías 31:15: Raquel llorando por sus hijos. Después de que Herodes muere, un mensajero aparece de nuevo en un sueño: regresen a la tierra de Yisra'el. José regresa pero, temiendo al hijo de Herodes, Archelaos, en Judá, se retira al Galilea y se establece en Nazaret. La fórmula final del narrador: "para que se cumpliera lo dicho a través de los profetas: 'Será llamado Natsri.'"
 
 **Temas clave:** Cuatro fórmulas de cumplimiento del AT estructurando la narrativa; los magos como adoradores gentiles que reconocen lo que Jerusalén no reconoce; Herodes como rey amenazado (paralelo Moisés/Faraón); la huida a y el regreso de Egipto (tipología del Éxodo); la designación misteriosa "Natsri" sin una fuente única identificable del AT; José como soñador que recibe dirección divina (cuatro sueños en total: 1:20, 2:13, 2:19, 2:22).
 
@@ -59,7 +59,7 @@ Las notas se etiquetan por tipo — **Crítico · Léxico · Gramatical · Teol�
 
 ---
 
-¹Ahora bien, *después de que* Yeshua nació en Beyt-Lechem de Yehudah en los días de Herodes el rey, miren, *magoi* del oriente vinieron a Yerushalayim, ²diciendo: "¿Dónde está el nacido rey de los yehudim? Porque vimos su estrella en *su* salida y vinimos a postrarnos ante él." ³Y Herodes el rey, al oír, se perturbó, y toda Yerushalayim con él. ⁴Y habiendo reunido a todos los sumos sacerdotes y escribas del pueblo, les preguntó dónde nace el ungido. ⁵Y ellos le dijeron: "En Beyt-Lechem de Yehudah, porque así ha sido escrito a través del profeta:
+¹Ahora bien, *después de que* Yeshua nació en Beyt-Lechem de Yehudah en los días de Herodes el rey, miren, *magoi* del oriente vinieron a Yerushalayim, ²diciendo: "¿Dónde está el nacido rey de los Yehudim? Porque vimos su estrella en *su* salida y vinimos a postrarnos ante él." ³Y Herodes el rey, al oír, se perturbó, y toda Yerushalayim con él. ⁴Y habiendo reunido a todos los sumos sacerdotes y escribas del pueblo, les preguntó dónde nace el ungido. ⁵Y ellos le dijeron: "En Beyt-Lechem de Yehudah, porque así ha sido escrito a través del profeta:
 
 ⁶'Y tú, Beyt-Lechem, tierra de Yehudah, de ningún modo eres la menor entre los gobernantes de Yehudah; porque de ti saldrá un gobernante que pastoreará a mi pueblo Yisra'el.'"
 
@@ -96,7 +96,7 @@ Ahora bien, *después de que* Yeshua nació en Beyt-Lechem de Yehudah en los dí
 
 ### **Versículo 2**
 
-diciendo: "¿Dónde está el nacido rey de los yehudim? Porque vimos su estrella en *su* salida y vinimos a postrarnos ante él."
+diciendo: "¿Dónde está el nacido rey de los Yehudim? Porque vimos su estrella en *su* salida y vinimos a postrarnos ante él."
 
 > **Notas**
 >
@@ -107,7 +107,7 @@ diciendo: "¿Dónde está el nacido rey de los yehudim? Porque vimos su estrella
 > - **προσκυνῆσαι** (*proskynēsai*) = postrarse, hacer reverencia, inclinarse. La palabra cubre todo el rango desde homenaje político hasta adoración divina. La TT traduce "postrarse" para preservar la ambigüedad — los *magoi* pueden pretender homenaje real, adoración divina, o ambas. El mismo verbo recurre en los vv.8, 11.
 >
 > 🟢 **"REY DE LOS YEHUDIM"**
-> - **βασιλεὺς τῶν Ἰουδαίων** (*basileus tōn Ioudaiōn*) = "rey de los yehudim." Este título reaparece en la crucifixión (Mt 27:11, 29, 37). Los *magoi* lo usan; Herodes lo oye como una amenaza. El título enmarca todo el Evangelio.
+> - **βασιλεὺς τῶν Ἰουδαίων** (*basileus tōn Ioudaiōn*) = "rey de los Yehudim." Este título reaparece en la crucifixión (Mt 27:11, 29, 37). Los *magoi* lo usan; Herodes lo oye como una amenaza. El título enmarca todo el Evangelio.
 
 ---
 
@@ -129,7 +129,7 @@ Y habiendo reunido a todos los sumos sacerdotes y escribas del pueblo, les pregu
 > **Notas**
 >
 > 🟡 **"EL UNGIDO" — LA PREGUNTA DE HERODES**
-> - Los *magoi* preguntaron sobre "el rey de los yehudim" (v.2); Herodes reformula como "el ungido" (*ho christos*). El cambio mueve la pregunta del lenguaje político al mesiánico. Los sumos sacerdotes y escribas conocen la respuesta escritural pero no actúan en consecuencia — proveen la información y desaparecen de la narrativa.
+> - Los *magoi* preguntaron sobre "el rey de los Yehudim" (v.2); Herodes reformula como "el ungido" (*ho christos*). El cambio mueve la pregunta del lenguaje político al mesiánico. Los sumos sacerdotes y escribas conocen la respuesta escritural pero no actúan en consecuencia — proveen la información y desaparecen de la narrativa.
 
 ---
 
@@ -404,9 +404,9 @@ Y al llegar, se estableció en una ciudad llamada Natseret, para que se cumplier
 
 ---
 
-## SEGUIMIENTO ENTRE CAPÍTULOS (AT -> Mateo)
+## SEGUIMIENTO ENTRE CAPÍTULOS (AT → Mateo)
 
-**Miqueas 5:1 [5:2] -> Mt 2:6 — Beyt-Lechem:**
+**Miqueas 5:1 [5:2] → Mt 2:6 — Beyt-Lechem:**
 
 | Elemento | Miqueas 5:1 | Mt 2:6 |
 |----------|-------------|--------|
@@ -416,7 +416,7 @@ Y al llegar, se estableció en una ciudad llamada Natseret, para que se cumplier
 
 La cita de Mateo es un compuesto: Miqueas 5:1 modificado y mezclado con 2 Samuel 5:2. La inversión de "demasiado pequeña" a "de ningún modo la menor" puede reflejar una tradición textual diferente o un ajuste interpretativo deliberado.
 
-**Oseas 11:1 -> Mt 2:15 — "De Mitsrayim llamé a mi hijo":**
+**Oseas 11:1 → Mt 2:15 — "De Mitsrayim llamé a mi hijo":**
 
 | Elemento | Oseas 11:1 | Mt 2:15 |
 |----------|------------|---------|
@@ -425,7 +425,7 @@ La cita de Mateo es un compuesto: Miqueas 5:1 modificado y mezclado con 2 Samuel
 | Contexto | Retrospectivo: recordando el Éxodo | Prospectivo: el regreso de Mitsrayim |
 | Hermenéutica | Declaración histórica sobre un evento pasado | Cumplimiento tipológico en un nuevo evento |
 
-**Jeremías 31:15 -> Mt 2:18 — Raquel llorando:**
+**Jeremías 31:15 → Mt 2:18 — Raquel llorando:**
 
 | Elemento | Jeremías 31:15 | Mt 2:18 |
 |----------|----------------|---------|
@@ -433,7 +433,7 @@ La cita de Mateo es un compuesto: Miqueas 5:1 modificado y mezclado con 2 Samuel
 | Ubicación | Ramah (punto de concentración para la deportación) | Alrededores de Beyt-Lechem |
 | Contexto | Exilio — seguido de esperanza (31:16-17) | Matanza — los versículos de esperanza no se citan |
 
-**Éxodo 4:19 -> Mt 2:20 — "Los que buscaban la vida... han muerto":**
+**Éxodo 4:19 → Mt 2:20 — "Los que buscaban la vida... han muerto":**
 
 | Elemento | Éxodo 4:19 | Mt 2:20 |
 |----------|------------|---------|

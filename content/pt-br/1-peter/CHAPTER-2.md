@@ -22,7 +22,7 @@
 - [Leitura Contínua](#leitura-contínua)
 - [Estudo Verso a Verso](#estudo-verso-a-verso)
 - [Glossário — 1 Pedro 2](#glossário---1-pedro-2)
-- [Rastreamento entre Capítulos (BH -> 1 Pedro)](#rastreamento-entre-capítulos-bh---1-pedro)
+- [Rastreamento entre Capítulos (BH → 1 Pedro)](#rastreamento-entre-capítulos-bh---1-pedro)
 
 ---
 
@@ -59,7 +59,7 @@ As notas são marcadas por tipo — **Crítico · Lexical · Gramatical · Teol�
 
 ---
 
-¹Portanto, tendo-vos despojado de toda malícia e todo engano e hipocrisia e invejas e todas as calúnias, ²como recém-nascidos, desejai o puro {a:leite *da* palavra/leite espiritual}, para que por ele cresçais para a salvação, ³se *de fato* provastes que o Senhor *é* bom. ⁴Chegando a ele, uma pedra viva — rejeitada pelas pessoas mas escolhida *e* preciosa diante de Deus — ⁵vós mesmos também, como pedras vivas, sois edificados *como* uma casa espiritual num sacerdócio santo, para oferecer sacrifícios espirituais aceitáveis a Deus por meio de Yeshua *o* Messias (Jesus). ⁶Porque está contido na escritura: @@"Eis que ponho em Sião (Tsiyon) uma pedra, uma pedra angular escolhida, preciosa, e aquele *que* crê nela jamais será envergonhado."@@ ⁷A vós, portanto, que credes, *é* a preciosidade, mas aos que não creem, "*a* pedra que os edificadores rejeitaram — esta *mesma* tornou-se *a* cabeça do ângulo," ⁸e "uma pedra de tropeço e uma rocha de escândalo"; *os* que tropeçam *na* palavra, não crendo — para o que também foram postos. ⁹Mas vós *sois* uma raça eleita, um sacerdócio real, uma nação santa, um povo para possessão *de Deus*, para que anuncieis as excelências daquele *que* vos chamou das trevas para a sua luz maravilhosa; ¹⁰*vós* que outrora *éreis* não povo mas agora *sois* povo de Deus, os *que* não havíeis recebido misericórdia mas agora recebestes misericórdia.
+¹Portanto, tendo-vos despojado de toda malícia e todo engano e hipocrisia e invejas e todas as calúnias, ²como recém-nascidos, desejai o puro {a:leite *da* palavra/leite espiritual}, para que por ele cresçais para a salvação, ³se *de fato* provastes que o Senhor *é* bom. ⁴Chegando a ele, uma pedra viva — rejeitada pelas pessoas mas escolhida *e* preciosa diante de Deus — ⁵vós mesmos também, como pedras vivas, sois edificados *como* uma casa espiritual num sacerdócio santo, para oferecer sacrifícios espirituais aceitáveis a Deus por meio de Yeshua *o* Messias (Jesus). ⁶Porque está contido na escritura: "Eis que ponho em Sião (Tsiyon) uma pedra, uma pedra angular escolhida, preciosa, e aquele *que* crê nela jamais será envergonhado." ⁷A vós, portanto, que credes, *é* a preciosidade, mas aos que não creem, "*a* pedra que os edificadores rejeitaram — esta *mesma* tornou-se *a* cabeça do ângulo," ⁸e "uma pedra de tropeço e uma rocha de escândalo"; *os* que tropeçam *na* palavra, não crendo — para o que também foram postos. ⁹Mas vós *sois* uma raça eleita, um sacerdócio real, uma nação santa, um povo para possessão *de Deus*, para que anuncieis as excelências daquele *que* vos chamou das trevas para a sua luz maravilhosa; ¹⁰*vós* que outrora *éreis* não povo mas agora *sois* povo de Deus, os *que* não havíeis recebido misericórdia mas agora recebestes misericórdia.
 
 ¹¹Amados, exorto-*vos* como peregrinos e exilados a vos absterdes dos desejos carnais, que guerreiam contra a alma, ¹²mantendo a vossa conduta entre as nações honrosa, para que, naquilo *em* que falam contra vós como malfeitores, observando *as vossas* boas obras glorifiquem a Deus no dia da visitação. ¹³Submetei-vos a toda instituição humana por causa do Senhor — quer a um rei como supremo, ¹⁴quer a governadores como *aqueles* enviados por meio dele para *o* castigo dos malfeitores e *o* louvor dos que fazem o bem. ¹⁵Porque assim é a vontade de Deus: fazendo o bem, silenciar a ignorância das pessoas insensatas — ¹⁶como livres, e não tendo a liberdade como cobertura para o mal, mas como servos de Deus. ¹⁷Honrai a todos, amai a irmandade, temei a Deus, honrai o rei.
 
@@ -126,7 +126,7 @@ vós mesmos também, como pedras vivas, sois edificados *como* uma casa espiritu
 
 ### **Versículo 6**
 
-Porque está contido na escritura: @@"Eis que ponho em Sião (Tsiyon) uma pedra, uma pedra angular escolhida, preciosa, e aquele *que* crê nela jamais será envergonhado."@@
+Porque está contido na escritura: "Eis que ponho em Sião (Tsiyon) uma pedra, uma pedra angular escolhida, preciosa, e aquele *que* crê nela jamais será envergonhado."
 
 > **Notas**
 >
@@ -362,7 +362,7 @@ Pois andáveis desgarrados como ovelhas, mas agora voltastes ao pastor e supervi
 
 ---
 
-## Rastreamento entre Capítulos (BH -> 1 Pedro)
+## Rastreamento entre Capítulos (BH → 1 Pedro)
 
 | BH / fonte anterior | Tema | Em 1 Pedro 2 |
 |---------------------|-------|--------------|

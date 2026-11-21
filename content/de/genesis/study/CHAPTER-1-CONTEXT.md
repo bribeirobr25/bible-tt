@@ -131,7 +131,7 @@ Umberto Cassuto (*Commentary on Genesis*, 1961) dokumentierte diese Muster ausf�
 ### A6. Ein Land, mehrere Meere
 **[TEXTUELL — VERIFIZIERT]**
 
-Genesis 1:9-10: Wasser sammelte sich "an einen Ort" -> trockener Boden erschien -> Gott nannte den trockenen Boden "Land" (*eretz*, Singular) und die Sammlung der Wasser "Meere" (*yamim*, Plural).
+Genesis 1:9-10: Wasser sammelte sich "an einen Ort" → trockener Boden erschien → Gott nannte den trockenen Boden "Land" (*eretz*, Singular) und die Sammlung der Wasser "Meere" (*yamim*, Plural).
 
 Der Text stellt ein zusammenhängendes Land und mehrere Wasserkörper dar. Der Singular/Plural-Unterschied ist im Hebräischen beabsichtigt und wird in der TT in allen drei Sprachen beibehalten.
 
@@ -265,9 +265,9 @@ Die TT bewahrt dieses Bild durch Transliteration von *Raqia* (anstatt es als "Au
 **[HISTORISCH / ARCHÄOLOGISCH — WAHRSCHEINLICH]**
 
 Mehrere Gelehrte bemerken strukturelle Parallelen zwischen dem Schöpfungsbericht in Genesis 1 und antiken Tempelbauerzählungen:
-- Sieben-Tage-Schöpfung -> Sieben-Tage-Tempelweihe (vgl. 1 Kön 8)
-- Gott "ruht" am Tag 7 -> Gottheit nimmt Wohnung im vollendeten Tempel
-- Benennung und Funktionszuweisung -> Weihung von Tempelräumen
+- Sieben-Tage-Schöpfung → Sieben-Tage-Tempelweihe (vgl. 1 Kön 8)
+- Gott "ruht" am Tag 7 → Gottheit nimmt Wohnung im vollendeten Tempel
+- Benennung und Funktionszuweisung → Weihung von Tempelräumen
 
 Diese Lesart ist **WAHRSCHEINLICH**, aber nicht allgemein anerkannt. Der Text sagt nicht explizit "Schöpfung = Tempelbau".
 

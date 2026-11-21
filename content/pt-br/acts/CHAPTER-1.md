@@ -22,7 +22,7 @@
 - [Leitura Contínua](#leitura-contínua)
 - [Estudo Verso a Verso](#estudo-verso-a-verso)
 - [Glossário — Atos 1](#glossário---atos-1)
-- [Rastreamento entre Capítulos (BH -> Atos)](#rastreamento-entre-capítulos-bh---atos)
+- [Rastreamento entre Capítulos (BH → Atos)](#rastreamento-entre-capítulos-bh---atos)
 
 ---
 
@@ -37,7 +37,7 @@
 
 As notas são marcadas por tipo — **Crítico · Lexical · Gramatical · Teológico** — cada uma com sua cor (veja a legenda no topo da visão de Notas).
 
-**Esta é a abertura de Atos — o segundo volume da obra de Lucas.** Atos 1 se liga diretamente ao Evangelho: o mesmo autor se dirige ao mesmo Theophilos (1:1) e recorda "a primeira narrativa." O capítulo abrange os quarenta dias depois da ressurreição, a ascensão e os dias antes de Pentecostes. O Yeshua ressuscitado promete o vento/espírito santo (vv.4-8) e é elevado em uma nuvem (v.9); dois mensageiros interpretam o evento (vv.10-11); os onze se reúnem no cenáculo com as mulheres, Miryam e os irmãos de Yeshua (vv.12-14); e Kefa conduz a reconstituição dos Doze, substituindo Yehudah por Mattityahu por sorte (vv.15-26). **Nota sobre marcação de fala (Regra 30):** a fala direta do Yeshua ressuscitado É marcada (vv.4-5, 7-8) — coerente com o tratamento das suas palavras no Evangelho. Os **dois homens de branco** (vv.10-11) são *mensageiros* (a classe *angelos*) e NÃO são marcados. Os nomes próprios seguem a transliteração TT: Yeshua (Jesus), Kefa (Pedro), Yochanan (João), Miryam (Maria), Yerushalayim (Jerusalém), Mattityahu (Matias).
+**Esta é a abertura de Atos — o segundo volume da obra de Lucas.** Atos 1 se liga diretamente ao Evangelho: o mesmo autor se dirige ao mesmo Theophilos (1:1) e recorda "a primeira narrativa." O capítulo abrange os quarenta dias depois da ressurreição, a ascensão e os dias antes de Pentecostes. O Yeshua ressuscitado promete o vento/espírito santo (vv.4-8) e é elevado em uma nuvem (v.9); dois mensageiros interpretam o evento (vv.10-11); os onze se reúnem no cenáculo com as mulheres, Miryam e os irmãos de Yeshua (vv.12-14); e Kefa conduz a reconstituição dos Doze, substituindo Yehudah por Mattityahu por sorte (vv.15-26). **Nota sobre marcação de fala (Regra 30):** a fala direta do Yeshua ressuscitado É marcada (vv.4-5, 7-8) — coerente com o tratamento das suas palavras no Evangelho. Os **dois homens de branco** (vv.10-11) são *mensageiros* (a classe *angelos*) e NÃO são marcados. Os nomes aparecem na forma familiar, com a forma da língua original indicada uma vez por seção — p. ex., Yochanan (João).
 
 ---
 
@@ -117,7 +117,7 @@ A eles também ele se apresentou vivo depois do seu sofrimento por muitas provas
 
 ### **Versículo 4**
 
-E estando reunido *com eles*, ordenou-lhes que não se afastassem de Yerushalayim (Jerusalém), mas que aguardassem a promessa do Pai @@"que ouvistes de mim;
+E estando reunido *com eles*, ordenou-lhes que não se afastassem de Yerushalayim (Jerusalém), mas que aguardassem a promessa do Pai @@"que ouvistes de mim;@@
 
 > **Notas**
 >
@@ -128,7 +128,7 @@ E estando reunido *com eles*, ordenou-lhes que não se afastassem de Yerushalayi
 
 ### **Versículo 5**
 
-porque Yochanan (João) imergiu em água, mas vós sereis imersos no {a:vento/espírito} santo depois de não muitos *destes* dias."@@
+@@porque Yochanan (João) imergiu em água, mas vós sereis imersos no {a:vento/espírito} santo depois de não muitos *destes* dias."@@
 
 > **Notas**
 >
@@ -153,7 +153,7 @@ Então eles, tendo-se reunido, lhe perguntavam, dizendo: "Senhor, *é* neste tem
 
 ### **Versículo 7**
 
-E ele lhes disse: @@"Não vos cabe conhecer tempos ou estações que o Pai estabeleceu por sua própria autoridade;
+E ele lhes disse: @@"Não vos cabe conhecer tempos ou estações que o Pai estabeleceu por sua própria autoridade;@@
 
 > **Notas**
 >
@@ -164,7 +164,7 @@ E ele lhes disse: @@"Não vos cabe conhecer tempos ou estações que o Pai estab
 
 ### **Versículo 8**
 
-mas recebereis poder *quando* o {a:vento/espírito} santo vier sobre vós, e sereis minhas testemunhas tanto em Yerushalayim (Jerusalém) quanto em toda a Yehudah (Judeia) e Shomron (Samaria) e até *o* fim da terra."@@
+@@mas recebereis poder *quando* o {a:vento/espírito} santo vier sobre vós, e sereis minhas testemunhas tanto em Yerushalayim (Jerusalém) quanto em toda a Yehudah (Judeia) e Shomron (Samaria) e até *o* fim da terra."@@
 
 > **Notas**
 >
@@ -392,7 +392,7 @@ E lançaram sortes para eles, e a sorte caiu sobre Mattityahu (Matias), e ele fo
 
 ---
 
-## Rastreamento entre Capítulos (BH -> Atos)
+## Rastreamento entre Capítulos (BH → Atos)
 
 | BH / fonte anterior | Tema | Em Atos 1 |
 |---------------------|-------|-----------|

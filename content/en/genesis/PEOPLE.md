@@ -134,7 +134,7 @@ This file presents biographical and genealogical information about figures appea
 **Location(s):** not specified
 **First mention:** Gen 4:18
 **Mentioned in:** Gen 4:18–24
-**Key events:** First recorded polygamist (4:19); his son Yaval is father of tent-dwellers and livestock-keepers (4:20); his son Yuval is father of lyre and pipe players (4:21); his son Tuval-Qayin forges instruments of bronze and iron (4:22); sang the song of escalated violence to his wives (4:23–24) â boasts of killing a man for wounding him and a young man for striking him; claims 77-fold vengeance against YHWH's 7-fold protection of Qayin (Cain)
+**Key events:** First recorded polygamist (4:19); his son Yaval is father of tent-dwellers and livestock-keepers (4:20); his son Yuval is father of lyre and pipe players (4:21); his son Tuval-Qayin forges instruments of bronze and iron (4:22); sang the song of escalated violence to his wives (4:23–24) — boasts of killing a man for wounding him and a young man for striking him; claims 77-fold vengeance against YHWH's 7-fold protection of Qayin (Cain)
 **Familiar name:** Lamech
 **Profession:** not stated
 **Social class:** not stated
@@ -619,7 +619,7 @@ This file presents biographical and genealogical information about figures appea
 **Location(s):** Kenaan (Canaan) (eponymous territory, Gen 10:19)
 **First mention:** Gen 9:18
 **Mentioned in:** Gen 9:18, 22, 25–27; 10:6, 15–19
-**Key events:** Named as son of Ham and eponymous ancestor of the Kenaani peoples (9:18); Noach (Noah) cursed Canaan after Ham's act of seeing his nakedness (9:25) â "Cursed be Canaan; servant of servants shall he be to his brothers"; Noah's blessing of Shem and Yafet (Japheth) reiterated in terms of Canaan's subjugation (9:26–27); his territory boundaries given in Gen 10:19
+**Key events:** Named as son of Ham and eponymous ancestor of the Kenaani peoples (9:18); Noach (Noah) cursed Canaan after Ham's act of seeing his nakedness (9:25) — "Cursed be Canaan; servant of servants shall he be to his brothers"; Noah's blessing of Shem and Yafet (Japheth) reiterated in terms of Canaan's subjugation (9:26–27); his territory boundaries given in Gen 10:19
 
 **Familiar name:** Canaan
 **Profession:** not stated
@@ -652,10 +652,10 @@ This file presents biographical and genealogical information about figures appea
 **Mother:** not stated
 **Spouse(s):** not stated
 **Children:** not stated
-**Location(s):** Bavel, Erekh, Akkad, Kalneh in the land of Shinar (Gen 10:10); Ashshur â Nineveh, Rechovot-Ir, Kelach, Resen (Gen 10:11–12)
+**Location(s):** Bavel, Erekh, Akkad, Kalneh in the land of Shinar (Gen 10:10); Ashshur — Nineveh, Rechovot-Ir, Kelach, Resen (Gen 10:11–12)
 **First mention:** Gen 10:8
 **Mentioned in:** Gen 10:8–12
-**Key events:** Began to be a mighty one (*gibbor*) on the land (10:8); mighty hunter before YHWH â proverbial: "Like Nimrod, a mighty hunter before YHWH" (10:9); his kingdom began at Bavel (10:10); built Nineveh and other cities (10:11–12)
+**Key events:** Began to be a mighty one (*gibbor*) on the land (10:8); mighty hunter before YHWH — proverbial: "Like Nimrod, a mighty hunter before YHWH" (10:9); his kingdom began at Bavel (10:10); built Nineveh and other cities (10:11–12)
 
 **Familiar name:** Nimrod
 **Profession:** hunter; king / empire-builder (Gen 10:8–12; "his kingdom" implies rule)
@@ -702,7 +702,7 @@ This file presents biographical and genealogical information about figures appea
 **Cause of death:** not stated (Gen 11:32 records "and Terah died")
 **Siblings:** not stated
 **Archaeological evidence:** No direct archaeological evidence
-**Extra-biblical mentions:** Josephus, *Antiquities* I.6–7; Joshua 24:2 (his family "served other gods" â not in Genesis itself); Acts 7:2–4 (Stephen's speech); various rabbinic traditions depicting him as an idol-maker
+**Extra-biblical mentions:** Josephus, *Antiquities* I.6–7; Joshua 24:2 (his family "served other gods" — not in Genesis itself); Acts 7:2–4 (Stephen's speech); various rabbinic traditions depicting him as an idol-maker
 **Historicity status:** UNCERTAIN
 **Books appearing in:** Genesis; Joshua 24:2; 1 Chronicles 1:26; Luke 3:34; Acts 7:2–4
 **Character arc:** He initiates the journey from Ur toward Canaan but stops in Charan and dies there; his son Abram completes the journey he began, embedding the patriarch's call within a larger family movement that stalled.
@@ -763,7 +763,7 @@ This file presents biographical and genealogical information about figures appea
 **Location(s):** Ur of the Kasdim (Gen 11:28, 31); Charan (Gen 11:31; 12:4); land of Kenaan (Canaan) (12:5); Shekhem (Shechem), oak of Moreh (12:6); hill country between Beyt-El (Bethel) and Ai (12:8); the Negev (12:9); Egypt (12:10–20)
 **First mention:** Gen 11:26
 **Mentioned in:** Gen 11:26–32; 12:1–20
-**Key events:** Born to Terah (11:26); married Sarai (11:29); departed from Ur with Terah, Sarai, and Lot toward Canaan, settled in Charan (11:31); called by YHWH â *lekh lekha* (12:1); received five-fold promise (12:2–3); departed Charan at age 75 (12:4); arrived in Canaan (12:5); passed through to Shechem, YHWH appeared and promised the land to his seed (12:6–7); built altars at Shechem and between Bethel and Ai (12:7–8); called on the name of YHWH (12:8); went down to Egypt due to famine (12:10); told Sarai to say she was his sister (12:11–13); Pharaoh struck with plagues on account of Sarai (12:17); rebuked by Pharaoh and sent away (12:18–20)
+**Key events:** Born to Terah (11:26); married Sarai (11:29); departed from Ur with Terah, Sarai, and Lot toward Canaan, settled in Charan (11:31); called by YHWH — *lekh lekha* (12:1); received five-fold promise (12:2–3); departed Charan at age 75 (12:4); arrived in Canaan (12:5); passed through to Shechem, YHWH appeared and promised the land to his seed (12:6–7); built altars at Shechem and between Bethel and Ai (12:7–8); called on the name of YHWH (12:8); went down to Egypt due to famine (12:10); told Sarai to say she was his sister (12:11–13); Pharaoh struck with plagues on account of Sarai (12:17); rebuked by Pharaoh and sent away (12:18–20)
 
 **Familiar name:** Abram (name changed to Abraham in Gen 17, outside this file's scope)
 **Profession:** herder / wealthy pastoralist (Gen 12:16; 13:2); altar-builder; called to be a nation (Gen 12:2)
@@ -772,7 +772,7 @@ This file presents biographical and genealogical information about figures appea
 **Places lived:** Ur of the Kasdim; Charan (Gen 11:31; 12:4); land of Canaan (Gen 12:5); Shechem (Gen 12:6); hill country between Bethel and Ai (Gen 12:8); the Negev (Gen 12:9); Egypt (Gen 12:10–20)
 **Age when became father:** not reached within Gen 1–12 (Sarai barren; first son Ishmael born in Gen 16, outside scope)
 **Cause of death:** not stated within Gen 1–12
-**Siblings:** not stated in Gen 1–12 (Gen 20:12 later reveals Sarai is his half-sister â same father, different mother)
+**Siblings:** not stated in Gen 1–12 (Gen 20:12 later reveals Sarai is his half-sister — same father, different mother)
 **Archaeological evidence:** No direct archaeological evidence for Abram as an individual. The patriarchal period (Middle Bronze Age, ca. 2000–1550 BCE) is consistent with some social and legal customs mentioned (servant-heir practices, Nuzi tablets). The identification remains UNCERTAIN and debated.
 **Extra-biblical mentions:** Josephus, *Antiquities* I.7–8; Quran, Sura 2:124–129; 6:74–83; 19:41–50; 21:51–73 (Ibrahim, extensive narrative); Acts 7:2–8; Romans 4; Galatians 3; Hebrews 11:8–19; James 2:21–23
 **Historicity status:** UNCERTAIN
@@ -846,7 +846,7 @@ This file presents biographical and genealogical information about figures appea
 **Extra-biblical mentions:** Josephus, *Antiquities* I.8–11; Quran, Sura 7:80–84; 11:77–83; 15:59–77 (Lut, extensive narrative); 2 Peter 2:7
 **Historicity status:** UNCERTAIN
 **Books appearing in:** Genesis; Luke 17:28–32; 2 Peter 2:7
-**Character arc:** Orphaned in Ur, he attaches to Abram and travels with him; within Gen 1–12 he is a dependent who has not yet made any independent choice â his testing comes later.
+**Character arc:** Orphaned in Ur, he attaches to Abram and travels with him; within Gen 1–12 he is a dependent who has not yet made any independent choice — his testing comes later.
 **Year from creation:** not stated
 **Year from creation end:** not stated
 
@@ -854,7 +854,7 @@ This file presents biographical and genealogical information about figures appea
 
 ---
 
-## Shem-to-Avram Genealogy (Gen 11:10–26) â Summary Table
+## Shem-to-Avram Genealogy (Gen 11:10–26) — Summary Table
 
 All dates AM, per Masoretic Text arithmetic.
 

@@ -21,7 +21,7 @@
 - [Fortlaufende Lesung](#fortlaufende-lesung)
 - [Vers-für-Vers-Studie](#vers-für-vers-studie)
 - [Glossar — Apostelgeschichte 1](#glossar--apostelgeschichte-1)
-- [Kapitelübergreifende Verfolgung (HB -> Apostelgeschichte)](#kapitelübergreifende-verfolgung-hb--apostelgeschichte)
+- [Kapitelübergreifende Verfolgung (HB → Apostelgeschichte)](#kapitelübergreifende-verfolgung-hb--apostelgeschichte)
 
 ---
 
@@ -36,7 +36,7 @@
 
 Notizen sind nach Typ gekennzeichnet — **Kritisch · Lexikalisch · Grammatisch · Theologisch** — jeweils mit ihrer Farbe (siehe die Legende oben in der Notizen-Ansicht).
 
-**Dies ist die Eröffnung der Apostelgeschichte — des zweiten Bandes des lukanischen Werkes.** Apostelgeschichte 1 knüpft direkt an das Evangelium an: derselbe Autor wendet sich an denselben Theophilos (1,1) und ruft „den ersten Bericht" in Erinnerung. Das Kapitel umspannt die vierzig Tage nach der Auferstehung, die Himmelfahrt und die Tage vor Pfingsten. Der auferstandene Yeshua verheißt den heiligen Wind/Geist (V.4-8) und wird in einer Wolke emporgehoben (V.9); zwei Boten deuten das Ereignis (V.10-11); die Elf versammeln sich im Obergemach mit den Frauen, Miryam und Yeshuas Brüdern (V.12-14); und Kefa führt die Wiederherstellung der Zwölf an, indem er Yehudah durch das Los mit Mattityahu ersetzt (V.15-26). **Hinweis zur Redemarkierung (Regel 30):** die direkte Rede des auferstandenen Yeshua IST markiert (V.4-5, 7-8) — in Übereinstimmung mit der evangelischen Behandlung seiner Worte. Die **zwei Männer in Weiß** (V.10-11) sind *Boten* (die *angelos*-Klasse) und werden NICHT markiert. Eigennamen folgen der TT-Transliteration: Yeshua (Jesus), Kefa (Petrus), Yochanan (Johannes), Miryam (Maria), Yerushalayim (Jerusalem), Mattityahu (Matthias).
+**Dies ist die Eröffnung der Apostelgeschichte — des zweiten Bandes des lukanischen Werkes.** Apostelgeschichte 1 knüpft direkt an das Evangelium an: derselbe Autor wendet sich an denselben Theophilos (1,1) und ruft „den ersten Bericht" in Erinnerung. Das Kapitel umspannt die vierzig Tage nach der Auferstehung, die Himmelfahrt und die Tage vor Pfingsten. Der auferstandene Yeshua verheißt den heiligen Wind/Geist (V.4-8) und wird in einer Wolke emporgehoben (V.9); zwei Boten deuten das Ereignis (V.10-11); die Elf versammeln sich im Obergemach mit den Frauen, Miryam und Yeshuas Brüdern (V.12-14); und Kefa führt die Wiederherstellung der Zwölf an, indem er Yehudah durch das Los mit Mattityahu ersetzt (V.15-26). **Hinweis zur Redemarkierung (Regel 30):** die direkte Rede des auferstandenen Yeshua IST markiert (V.4-5, 7-8) — in Übereinstimmung mit der evangelischen Behandlung seiner Worte. Die **zwei Männer in Weiß** (V.10-11) sind *Boten* (die *angelos*-Klasse) und werden NICHT markiert. Namen erscheinen in der vertrauten Form; die ursprachliche Form steht einmal pro Abschnitt — z. B. Yochanan (Johannes).
 
 ---
 
@@ -58,7 +58,7 @@ Notizen sind nach Typ gekennzeichnet — **Kritisch · Lexikalisch · Grammatisc
 
 ---
 
-¹Den ersten Bericht machte ich über alle *Dinge*, o Theophilos (Theophilus), die Yeshua (Jesus) begann, sowohl zu tun als auch zu lehren, ²bis zu dem Tag, an *dem* er emporgehoben wurde, nachdem er durch *den* heiligen {a:Wind/Geist} den Aposteln, die er erwählte, Anweisungen gegeben hatte. ³Ihnen stellte er sich auch lebend dar nach seinem Leiden durch viele Beweise, indem er ihnen vierzig Tage *hindurch* erschien und die *Dinge* redete, die das Königreich Gottes betreffen. ⁴Und *mit ihnen* versammelt, befahl er ihnen, nicht von Yerushalayim (Jerusalem) wegzugehen, sondern die Verheißung des Vaters zu erwarten, @@"die ihr von mir gehört habt; ⁵denn Yochanan (Johannes) tauchte in Wasser ein, ihr aber werdet im *dem* heiligen {a:Wind/Geist} eingetaucht werden nach nicht vielen *von* diesen Tagen."@@
+¹Den ersten Bericht machte ich über alle *Dinge*, o Theophilos (Theophilus), die Yeshua (Jesus) begann, sowohl zu tun als auch zu lehren, ²bis zu dem Tag, an *dem* er emporgehoben wurde, nachdem er durch *den* heiligen {a:Wind/Geist} den Aposteln, die er erwählte, Anweisungen gegeben hatte. ³Ihnen stellte er sich auch lebend dar nach seinem Leiden durch viele Beweise, indem er ihnen vierzig Tage *hindurch* erschien und die *Dinge* redete, die das Königreich Gottes betreffen. ⁴Und *mit ihnen* versammelt, befahl er ihnen, nicht von Yerushalayim (Jerusalem) wegzugehen, sondern die Verheißung des Vaters zu erwarten, @@"die ihr von mir gehört habt; ⁵denn Yochanan (Johannes) tauchte in Wasser ein, ihr aber werdet *im* heiligen {a:Wind/Geist} eingetaucht werden nach nicht vielen *von* diesen Tagen."@@
 
 ⁶Sie nun, zusammengekommen, fragten ihn und sagten: „Herr, *stellst* du *zu* dieser Zeit das Königreich für Israel wieder her?" ⁷Und er sprach zu ihnen: @@"*Es* kommt euch nicht zu, Zeiten oder Fristen zu erkennen, die der Vater durch seine eigene Vollmacht festgesetzt hat; ⁸aber ihr werdet Kraft empfangen, *wenn* der heilige {a:Wind/Geist} auf euch gekommen ist, und ihr werdet meine Zeugen sein, sowohl in Yerushalayim (Jerusalem) als auch in ganz Yehudah (Judäa) und Shomron (Samaria) und bis *an das* Ende der Erde."@@
 
@@ -116,7 +116,7 @@ Ihnen stellte er sich auch lebend dar nach seinem Leiden durch viele Beweise, in
 
 ### **Vers 4**
 
-Und *mit ihnen* versammelt, befahl er ihnen, nicht von Yerushalayim (Jerusalem) wegzugehen, sondern die Verheißung des Vaters zu erwarten, @@"die ihr von mir gehört habt;
+Und *mit ihnen* versammelt, befahl er ihnen, nicht von Yerushalayim (Jerusalem) wegzugehen, sondern die Verheißung des Vaters zu erwarten, @@"die ihr von mir gehört habt;@@
 
 > **Notizen**
 >
@@ -127,12 +127,12 @@ Und *mit ihnen* versammelt, befahl er ihnen, nicht von Yerushalayim (Jerusalem) 
 
 ### **Vers 5**
 
-denn Yochanan (Johannes) tauchte in Wasser ein, ihr aber werdet im *dem* heiligen {a:Wind/Geist} eingetaucht werden nach nicht vielen *von* diesen Tagen."@@
+@@denn Yochanan (Johannes) tauchte in Wasser ein, ihr aber werdet *im* heiligen {a:Wind/Geist} eingetaucht werden nach nicht vielen *von* diesen Tagen."@@
 
 > **Notizen**
 >
 > 🔴 **KRITISCH — „IHR WERDET IM HEILIGEN WIND/GEIST EINGETAUCHT WERDEN"**
-> - **ὑμεῖς… βαπτισθήσεσθε ἐν πνεύματι ἁγίῳ** (*hymeis baptisthēsesthe en pneumati hagiō*) = „ihr werdet im *dem* heiligen {a:Wind/Geist} eingetaucht werden." Dies erfüllt das Wort Johannes des Täufers — „ich tauche euch in Wasser ein… er wird euch im *dem* heiligen {a:Wind/Geist} und Feuer eintauchen" (Lk 3,16; Mt 3,11; Mk 1,8; Joh 1,33), alle bereits in der TT. Pfingsten (Kap. 2) ist seine Verwirklichung. Der Gegensatz Wasser/Geist, nicht die Abschaffung des Wassers, ist der Punkt. → Siehe Begleitmaterial §D1 (die Eintauchungs-Verheißung).
+> - **ὑμεῖς… βαπτισθήσεσθε ἐν πνεύματι ἁγίῳ** (*hymeis baptisthēsesthe en pneumati hagiō*) = „ihr werdet *im* heiligen {a:Wind/Geist} eingetaucht werden." Dies erfüllt das Wort Johannes des Täufers — „ich tauche euch in Wasser ein… er wird euch *im* heiligen {a:Wind/Geist} und Feuer eintauchen" (Lk 3,16; Mt 3,11; Mk 1,8; Joh 1,33), alle bereits in der TT. Pfingsten (Kap. 2) ist seine Verwirklichung. Der Gegensatz Wasser/Geist, nicht die Abschaffung des Wassers, ist der Punkt. → Siehe Begleitmaterial §D1 (die Eintauchungs-Verheißung).
 
 ---
 
@@ -152,7 +152,7 @@ Sie nun, zusammengekommen, fragten ihn und sagten: „Herr, *stellst* du *zu* di
 
 ### **Vers 7**
 
-Und er sprach zu ihnen: @@"*Es* kommt euch nicht zu, Zeiten oder Fristen zu erkennen, die der Vater durch seine eigene Vollmacht festgesetzt hat;
+Und er sprach zu ihnen: @@"*Es* kommt euch nicht zu, Zeiten oder Fristen zu erkennen, die der Vater durch seine eigene Vollmacht festgesetzt hat;@@
 
 > **Notizen**
 >
@@ -163,7 +163,7 @@ Und er sprach zu ihnen: @@"*Es* kommt euch nicht zu, Zeiten oder Fristen zu erke
 
 ### **Vers 8**
 
-aber ihr werdet Kraft empfangen, *wenn* der heilige {a:Wind/Geist} auf euch gekommen ist, und ihr werdet meine Zeugen sein, sowohl in Yerushalayim (Jerusalem) als auch in ganz Yehudah (Judäa) und Shomron (Samaria) und bis *an das* Ende der Erde."@@
+@@aber ihr werdet Kraft empfangen, *wenn* der heilige {a:Wind/Geist} auf euch gekommen ist, und ihr werdet meine Zeugen sein, sowohl in Yerushalayim (Jerusalem) als auch in ganz Yehudah (Judäa) und Shomron (Samaria) und bis *an das* Ende der Erde."@@
 
 > **Notizen**
 >
@@ -391,7 +391,7 @@ Und sie gaben Lose für sie, und das Los fiel auf Mattityahu (Matthias), und er 
 
 ---
 
-## Kapitelübergreifende Verfolgung (HB -> Apostelgeschichte)
+## Kapitelübergreifende Verfolgung (HB → Apostelgeschichte)
 
 | HB / frühere Quelle | Thema | In Apostelgeschichte 1 |
 |---------------------|-------|-----------|

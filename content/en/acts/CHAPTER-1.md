@@ -20,7 +20,7 @@
 - [Continuous Reading](#continuous-reading)
 - [Verse-by-Verse Study](#verse-by-verse-study)
 - [Glossary — Acts 1](#glossary--acts-1)
-- [Cross-Chapter Tracking (HB -> Acts)](#cross-chapter-tracking-hb--acts)
+- [Cross-Chapter Tracking (HB → Acts)](#cross-chapter-tracking-hb--acts)
 
 ---
 
@@ -35,7 +35,7 @@
 
 Notes are tagged by type — **Critical · Lexical · Grammatical · Theological** — each shown with its colour (see the legend at the top of the Notes view).
 
-**This is the opening of Acts — the second volume of Luke's work.** Acts 1 ties directly back to the Gospel: the same author addresses the same Theophilos (1:1) and recalls "the first account." The chapter spans the forty days after the resurrection, the ascension, and the days before Pentecost. The risen Yeshua promises the holy wind/spirit (vv.4-8) and is taken up in a cloud (v.9); two messengers interpret the event (vv.10-11); the eleven gather in the upper room with the women, Miryam, and Yeshua's brothers (vv.12-14); and Kefa leads the reconstitution of the Twelve, replacing Yehudah with Mattityahu by lot (vv.15-26). **Note on speech-marking (Rule 30):** the risen Yeshua's direct speech IS marked (vv.4-5, 7-8) — consistent with the Gospel treatment of his words. The **two men in white** (vv.10-11) are *messengers* (the *angelos*-class) and are NOT marked. Proper names follow TT transliteration: Yeshua (Jesus), Kefa (Peter), Yochanan (John), Miryam (Mary), Yerushalayim (Jerusalem), Mattityahu (Matthias).
+**This is the opening of Acts — the second volume of Luke's work.** Acts 1 ties directly back to the Gospel: the same author addresses the same Theophilos (1:1) and recalls "the first account." The chapter spans the forty days after the resurrection, the ascension, and the days before Pentecost. The risen Yeshua promises the holy wind/spirit (vv.4-8) and is taken up in a cloud (v.9); two messengers interpret the event (vv.10-11); the eleven gather in the upper room with the women, Miryam, and Yeshua's brothers (vv.12-14); and Kefa leads the reconstitution of the Twelve, replacing Yehudah with Mattityahu by lot (vv.15-26). **Note on speech-marking (Rule 30):** the risen Yeshua's direct speech IS marked (vv.4-5, 7-8) — consistent with the Gospel treatment of his words. The **two men in white** (vv.10-11) are *messengers* (the *angelos*-class) and are NOT marked. Names appear in their familiar form, with the source-language form given once per section — e.g. Yochanan (John).
 
 ---
 
@@ -115,7 +115,7 @@ To them also he presented himself living after his suffering by many proofs, app
 
 ### **Verse 4**
 
-And being assembled together *with them*, he ordered them not to depart from Yerushalayim (Jerusalem), but to await the promise of the Father @@"which you heard from me;
+And being assembled together *with them*, he ordered them not to depart from Yerushalayim (Jerusalem), but to await the promise of the Father @@"which you heard from me;@@
 
 > **Notes**
 >
@@ -126,7 +126,7 @@ And being assembled together *with them*, he ordered them not to depart from Yer
 
 ### **Verse 5**
 
-because Yochanan (John) immersed in water, but you will be immersed in *the* holy {a:wind/spirit} after not many *of* these days."@@
+@@because Yochanan (John) immersed in water, but you will be immersed in *the* holy {a:wind/spirit} after not many *of* these days."@@
 
 > **Notes**
 >
@@ -151,7 +151,7 @@ So they, having come together, were asking him, saying, "Lord, *is it* at this t
 
 ### **Verse 7**
 
-And he said to them, @@"It is not yours to know times or seasons which the Father set by his own authority;
+And he said to them, @@"It is not yours to know times or seasons which the Father set by his own authority;@@
 
 > **Notes**
 >
@@ -162,7 +162,7 @@ And he said to them, @@"It is not yours to know times or seasons which the Fathe
 
 ### **Verse 8**
 
-but you will receive power *when* the holy {a:wind/spirit} has come upon you, and you will be my witnesses both in Yerushalayim (Jerusalem) and in all Yehudah (Judea) and Shomron (Samaria) and unto *the* end of the earth."@@
+@@but you will receive power *when* the holy {a:wind/spirit} has come upon you, and you will be my witnesses both in Yerushalayim (Jerusalem) and in all Yehudah (Judea) and Shomron (Samaria) and unto *the* end of the earth."@@
 
 > **Notes**
 >
@@ -390,7 +390,7 @@ And they gave lots for them, and the lot fell on Mattityahu (Matthias), and he w
 
 ---
 
-## Cross-Chapter Tracking (HB -> Acts)
+## Cross-Chapter Tracking (HB → Acts)
 
 | HB / earlier source | Theme | In Acts 1 |
 |---------------------|-------|-----------|

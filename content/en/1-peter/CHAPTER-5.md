@@ -20,7 +20,7 @@
 - [Continuous Reading](#continuous-reading)
 - [Verse-by-Verse Study](#verse-by-verse-study)
 - [Glossary — 1 Peter 5](#glossary--1-peter-5)
-- [Cross-Chapter Tracking (HB -> 1 Peter)](#cross-chapter-tracking-hb--1-peter)
+- [Cross-Chapter Tracking (HB → 1 Peter)](#cross-chapter-tracking-hb--1-peter)
 
 ---
 
@@ -237,7 +237,7 @@ Greet one another with a kiss of love. Peace to all of you who *are* in *the* Me
 
 ---
 
-## Cross-Chapter Tracking (HB -> 1 Peter)
+## Cross-Chapter Tracking (HB → 1 Peter)
 
 | HB / earlier source | Theme | In 1 Peter 5 |
 |---------------------|-------|--------------|

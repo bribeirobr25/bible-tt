@@ -390,7 +390,7 @@ And to Shet (Seth), also to him a son was born, and he called his name Enosh. Th
 | Hebrew | English | Notes |
 |--------|---------|-------|
 | קַיִן | Qayin (Cain) | Wordplay with *qanah* (acquired); first murderer |
-| הֶב��ל | Hevel (Abel) | "Vapor, breath, fleeting" — same word as Ecclesiastes *hevel* |
+| הֶבֶל | Hevel (Abel) | "Vapor, breath, fleeting" — same word as Ecclesiastes *hevel* |
 | חַטָּאת | sin | First occurrence Gen 4:7; personified ("crouches") |
 | עָוֹן | sin/punishment | Ambiguous — means both guilt AND its consequence (4:13) |
 | מִנְחָה | offering | Gift/tribute; later technical term for grain offering |

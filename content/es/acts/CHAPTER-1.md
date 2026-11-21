@@ -22,7 +22,7 @@
 - [Lectura Continua](#lectura-continua)
 - [Estudio Versículo por Versículo](#estudio-versículo-por-versículo)
 - [Glosario — Hechos 1](#glosario---hechos-1)
-- [Seguimiento entre Capítulos (BH -> Hechos)](#seguimiento-entre-capítulos-bh--hechos)
+- [Seguimiento entre Capítulos (BH → Hechos)](#seguimiento-entre-capítulos-bh--hechos)
 
 ---
 
@@ -37,7 +37,7 @@
 
 Las notas se etiquetan por tipo — **Crítico · Léxico · Gramatical · Teológico** — cada una con su color (vea la leyenda en la parte superior de la vista de Notas).
 
-**Este es el comienzo de Hechos — el segundo volumen de la obra de Lucas.** Hechos 1 enlaza directamente con el Evangelio: el mismo autor se dirige al mismo Theophilos (1:1) y recuerda "la primera narración." El capítulo abarca los cuarenta días después de la resurrección, la ascensión y los días antes de Pentecostés. El Yeshua resucitado promete el viento/espíritu santo (vv.4-8) y es llevado arriba en una nube (v.9); dos mensajeros interpretan el acontecimiento (vv.10-11); los once se reúnen en el aposento alto con las mujeres, Miryam y los hermanos de Yeshua (vv.12-14); y Kefa dirige la reconstitución de los Doce, reemplazando a Yehudah por Mattityahu mediante suertes (vv.15-26). **Nota sobre la marcación del habla (Regla 30):** el habla directa del Yeshua resucitado SÍ se marca (vv.4-5, 7-8) — coherente con el tratamiento de sus palabras en el Evangelio. Los **dos hombres de blanco** (vv.10-11) son *mensajeros* (la clase *angelos*) y NO se marcan. Los nombres propios siguen la transliteración TT: Yeshua (Jesús), Kefa (Pedro), Yochanan (Juan), Miryam (María), Yerushalayim (Jerusalén), Mattityahu (Matías).
+**Este es el comienzo de Hechos — el segundo volumen de la obra de Lucas.** Hechos 1 enlaza directamente con el Evangelio: el mismo autor se dirige al mismo Theophilos (1:1) y recuerda "la primera narración." El capítulo abarca los cuarenta días después de la resurrección, la ascensión y los días antes de Pentecostés. El Yeshua resucitado promete el viento/espíritu santo (vv.4-8) y es llevado arriba en una nube (v.9); dos mensajeros interpretan el acontecimiento (vv.10-11); los once se reúnen en el aposento alto con las mujeres, Miryam y los hermanos de Yeshua (vv.12-14); y Kefa dirige la reconstitución de los Doce, reemplazando a Yehudah por Mattityahu mediante suertes (vv.15-26). **Nota sobre la marcación del habla (Regla 30):** el habla directa del Yeshua resucitado SÍ se marca (vv.4-5, 7-8) — coherente con el tratamiento de sus palabras en el Evangelio. Los **dos hombres de blanco** (vv.10-11) son *mensajeros* (la clase *angelos*) y NO se marcan. Los nombres aparecen en su forma familiar, con la forma de la lengua original indicada una vez por sección — p. ej., Yochanan (Juan).
 
 ---
 
@@ -117,7 +117,7 @@ A ellos también se presentó vivo después de su sufrimiento con muchas pruebas
 
 ### **Versículo 4**
 
-Y estando reunido *con ellos*, les ordenó no apartarse de Yerushalayim (Jerusalén), sino aguardar la promesa del Padre @@"que oyeron de mí;
+Y estando reunido *con ellos*, les ordenó no apartarse de Yerushalayim (Jerusalén), sino aguardar la promesa del Padre @@"que oyeron de mí;@@
 
 > **Notas**
 >
@@ -128,7 +128,7 @@ Y estando reunido *con ellos*, les ordenó no apartarse de Yerushalayim (Jerusal
 
 ### **Versículo 5**
 
-porque Yochanan (Juan) sumergió en agua, pero ustedes serán sumergidos en *el* {a:viento/espíritu} santo después de no muchos *de* estos días."@@
+@@porque Yochanan (Juan) sumergió en agua, pero ustedes serán sumergidos en *el* {a:viento/espíritu} santo después de no muchos *de* estos días."@@
 
 > **Notas**
 >
@@ -153,7 +153,7 @@ Así que ellos, habiéndose reunido, le preguntaban, diciendo: "Señor, ¿*es* e
 
 ### **Versículo 7**
 
-Y él les dijo: @@"No les toca a ustedes conocer tiempos ni momentos que el Padre fijó por su propia autoridad;
+Y él les dijo: @@"No les toca a ustedes conocer tiempos ni momentos que el Padre fijó por su propia autoridad;@@
 
 > **Notas**
 >
@@ -164,7 +164,7 @@ Y él les dijo: @@"No les toca a ustedes conocer tiempos ni momentos que el Padr
 
 ### **Versículo 8**
 
-pero recibirán poder *cuando* el {a:viento/espíritu} santo haya venido sobre ustedes, y serán mis testigos tanto en Yerushalayim (Jerusalén) como en toda Yehudah (Judea) y Shomron (Samaria) y hasta *el* fin de la tierra."@@
+@@pero recibirán poder *cuando* el {a:viento/espíritu} santo haya venido sobre ustedes, y serán mis testigos tanto en Yerushalayim (Jerusalén) como en toda Yehudah (Judea) y Shomron (Samaria) y hasta *el* fin de la tierra."@@
 
 > **Notas**
 >
@@ -392,7 +392,7 @@ Y echaron suertes por ellos, y la suerte cayó sobre Mattityahu (Matías), y fue
 
 ---
 
-## SEGUIMIENTO ENTRE CAPÍTULOS (BH -> Hechos)
+## SEGUIMIENTO ENTRE CAPÍTULOS (BH → Hechos)
 
 | BH / fuente anterior | Tema | En Hechos 1 |
 |---------------------|-------|-----------|

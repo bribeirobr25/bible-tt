@@ -235,29 +235,6 @@ The verb **ξενίζω** (*xenizō*, "to find strange / be surprised," related 
 
 ---
 
-## H. Sources Consulted
-
-| Source | Type | Used in sections |
-|--------|------|-----------------|
-| Achtemeier, P.J., *1 Peter*, Hermeneia, 1996 | PEER-REVIEWED (commentary) | B, C, D |
-| Bauer, W., *A Greek-English Lexicon of the NT* (BDAG), 3rd ed., 2000 | PEER-REVIEWED (lexicon) | D |
-| Beale, G.K. and Carson, D.A. (eds.), *Commentary on the NT Use of the OT*, 2007 | PEER-REVIEWED (commentary) | B |
-| Dalton, W.J., *Christ's Proclamation to the Spirits*, 2nd ed., 1989 | PEER-REVIEWED (monograph) | F |
-| Elliott, J.H., *1 Peter*, Anchor Bible 37B, 2000 | PEER-REVIEWED (commentary) | B, C |
-| Hatch, E. and Redpath, H.A., *A Concordance to the Septuagint*, 2nd ed., 1998 | PEER-REVIEWED (reference) | D |
-| Kelly, J.N.D., *Early Christian Creeds*, 3rd ed., 1972 | PEER-REVIEWED (monograph) | F |
-| Lampe, G.W.H., *A Patristic Greek Lexicon*, 1961 | PEER-REVIEWED (lexicon) | F |
-| Liddell and Scott, *Greek-English Lexicon*, 9th ed. | PEER-REVIEWED (lexicon) | D |
-| Malherbe, A.J., *Social Aspects of Early Christianity*, 2nd ed., 1983 | PEER-REVIEWED (monograph) | C |
-| Musurillo, H. (ed.), *The Acts of the Christian Martyrs*, 1972 | PRIMARY (text collection) | F |
-| Nestle-Aland, *Novum Testamentum Graece*, 28th ed. | PRIMARY | A, D, G |
-| Pliny the Younger, *Epistulae* 10.96-97, Loeb Classical Library | PRIMARY (ancient text) | C, I |
-| Selwyn, E.G., *The First Epistle of St. Peter*, 2nd ed., 1947 | PEER-REVIEWED (commentary) | B, D |
-| Wilken, R.L., *The Christians as the Romans Saw Them*, 2nd ed., 2003 | PEER-REVIEWED (monograph) | F, I |
-| Williams, T.B., *Persecution in 1 Peter*, Brill, 2012 | PEER-REVIEWED (monograph) | C, I |
-
----
-
 ## I. The World at the Time
 
 > **The recipients' world.** 1 Peter addresses believers scattered across five provinces of Roman Asia Minor (1:1) in the later first century — for the political, economic, and provincial setting (the Roman administration of Asia Minor; the Greek-speaking cities and the Jewish diaspora communities), see the book Introduction §C (Dating) and §I (Historical Setting), which this companion does not duplicate. The entries below address the specific social world that chapter 4 foregrounds: the **pagan communal life** the believers had withdrawn from (4:3-4), the **nature of the "fiery trial"** (4:12), and the **name "Christian"** as an outsiders' label (4:16). Because the date of the letter is disputed (Introduction §B-§C), these entries describe the *kind* of world the readers inhabited without fixing the year.
@@ -285,18 +262,34 @@ The nature of the suffering behind the "burning *trial*" (4:12) is the central h
 
 **Source:** Tacitus, *Annals* 15.44, Loeb Classical Library; Wilken, R.L., *The Christians as the Romans Saw Them*, 2nd ed., Yale University Press, 2003, pp. 1-30; Elliott, J.H., *1 Peter*, Anchor Bible 37B, 2000, pp. 789-794, 803-805.
 
+---
+
+## H. Sources Consulted
+
 | Source | Type | Used in sections |
 |--------|------|-----------------|
-| Achtemeier, P.J., *1 Peter*, Hermeneia, 1996 | PEER-REVIEWED (commentary) | I |
-| Elliott, J.H., *1 Peter*, Anchor Bible 37B, 2000 | PEER-REVIEWED (commentary) | I |
+| Achtemeier, P.J., *1 Peter*, Hermeneia, 1996 | PEER-REVIEWED (commentary) | B, C, D, I |
+| Bauer, W., *A Greek-English Lexicon of the NT* (BDAG), 3rd ed., 2000 | PEER-REVIEWED (lexicon) | D |
+| Beale, G.K. and Carson, D.A. (eds.), *Commentary on the NT Use of the OT*, 2007 | PEER-REVIEWED (commentary) | B |
+| Dalton, W.J., *Christ's Proclamation to the Spirits*, 2nd ed., 1989 | PEER-REVIEWED (monograph) | F |
+| Elliott, J.H., *1 Peter*, Anchor Bible 37B, 2000 | PEER-REVIEWED (commentary) | B, C, I |
 | Harland, P.A., *Associations, Synagogues, and Congregations*, 2003 | PEER-REVIEWED (monograph) | I |
+| Hatch, E. and Redpath, H.A., *A Concordance to the Septuagint*, 2nd ed., 1998 | PEER-REVIEWED (reference) | D |
+| Kelly, J.N.D., *Early Christian Creeds*, 3rd ed., 1972 | PEER-REVIEWED (monograph) | F |
+| Lampe, G.W.H., *A Patristic Greek Lexicon*, 1961 | PEER-REVIEWED (lexicon) | F |
+| Liddell and Scott, *Greek-English Lexicon*, 9th ed. | PEER-REVIEWED (lexicon) | D |
 | MacMullen, R., *Paganism in the Roman Empire*, 1981 | PEER-REVIEWED (monograph) | I |
-| Pliny the Younger, *Epistulae* 10.96-97, Loeb Classical Library | PRIMARY (ancient text) | I |
+| Malherbe, A.J., *Social Aspects of Early Christianity*, 2nd ed., 1983 | PEER-REVIEWED (monograph) | C |
+| Musurillo, H. (ed.), *The Acts of the Christian Martyrs*, 1972 | PRIMARY (text collection) | F |
+| Nestle-Aland, *Novum Testamentum Graece*, 28th ed. | PRIMARY | A, D, G |
+| Pliny the Younger, *Epistulae* 10.96-97, Loeb Classical Library | PRIMARY (ancient text) | C, I |
+| Selwyn, E.G., *The First Epistle of St. Peter*, 2nd ed., 1947 | PEER-REVIEWED (commentary) | B, D |
 | Tacitus, *Annals* 15.44, Loeb Classical Library | PRIMARY (ancient text) | I |
-| Wilken, R.L., *The Christians as the Romans Saw Them*, 2nd ed., 2003 | PEER-REVIEWED (monograph) | I |
-| Williams, T.B., *Persecution in 1 Peter*, Brill, 2012 | PEER-REVIEWED (monograph) | I |
+| Wilken, R.L., *The Christians as the Romans Saw Them*, 2nd ed., 2003 | PEER-REVIEWED (monograph) | F, I |
+| Williams, T.B., *Persecution in 1 Peter*, Brill, 2012 | PEER-REVIEWED (monograph) | C, I |
 
 ---
+
 
 **Editorial provenance:**
 - Drafted by: AI (Claude, Anthropic)

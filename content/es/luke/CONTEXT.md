@@ -82,5 +82,4 @@ Lucas, solo entre los Evangelios, enmarca la narrativa como una historia deliber
 - Redactado por: IA (Claude, Anthropic)
 - Fecha: 2026-06-23
 - Revisado por: pendiente
-</content>
 </invoke>

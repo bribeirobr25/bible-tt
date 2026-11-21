@@ -21,7 +21,7 @@
 - [Fortlaufende Lesung](#fortlaufende-lesung)
 - [Vers-für-Vers-Studie](#vers-für-vers-studie)
 - [Glossar — Lukas 2](#glossar---lukas-2)
-- [Kapitelübergreifende Verfolgung (HB -> Lukas)](#kapitelübergreifende-verfolgung-hb---lukas)
+- [Kapitelübergreifende Verfolgung (HB → Lukas)](#kapitelübergreifende-verfolgung-hb---lukas)
 
 ---
 
@@ -36,7 +36,7 @@
 
 Notizen sind nach Typ gekennzeichnet — **Kritisch · Lexikalisch · Grammatisch · Theologisch** — jeweils mit ihrer Farbe (siehe die Legende oben in der Notizen-Ansicht).
 
-**Lukas 2 ist das Kapitel der Geburt.** Ein Volkszählungsedikt des Kaisers Augustus, unter Quirinius, bringt Yosef und die schwangere Miryam von Natzeret nach Beit-Lechem, der Stadt Davids (V.1-5); dort wird Yeshua geboren und in eine Futterkrippe gelegt, „weil kein Platz für sie im *Kataluma* war" (V.6-7). Boten verkünden die Geburt Hirten, und das himmlische Heer singt das Gloria (V.8-20). Am achten Tag wird das Kind beschnitten und benannt; es wird im Tempel zu Yerushalayim dargestellt, wo Shimon es empfängt und das Nunc Dimittis singt, dann zu Miryam spricht (V.21-35), und die Prophetin Channah dankt (V.36-38). Die Familie kehrt nach Natzeret zurück, und das Kind wächst (V.39-40). Mit zwölf bleibt der Knabe Yeshua im Tempel und wird unter den Lehrern gefunden; seine Worte an seine Eltern sind der einzige aus seiner Jugend überlieferte Ausspruch (V.41-52). **Hinweis zur Redemarkierung (Regel 30):** der Bote und das himmlische Heer (das Gloria, V.13-14) sind von *angelos*-Klasse — ihre Rede wird NICHT als göttlich markiert. Shimons und Channahs Worte sind *menschlich* — nicht markiert. Nur der Ausspruch des Knaben Yeshua (V.49) wird göttlich markiert. Die beiden Cantica (Gloria, Nunc Dimittis) sind *menschliche/engelhafte* Rede, als fließende Prosa wiedergegeben. Eigennamen folgen der TT-Transliteration: Yeshua (Jesus), Miryam (Maria), Yosef (Josef), Beit-Lechem (Bethlehem), Natzeret (Nazareth), Yerushalayim (Jerusalem), Shimon (Simeon), Channah (Hanna).
+**Lukas 2 ist das Kapitel der Geburt.** Ein Volkszählungsedikt des Kaisers Augustus, unter Quirinius, bringt Yosef und die schwangere Miryam von Natzeret nach Beit-Lechem, der Stadt Davids (V.1-5); dort wird Yeshua geboren und in eine Futterkrippe gelegt, „weil kein Platz für sie im *Kataluma* war" (V.6-7). Boten verkünden die Geburt Hirten, und das himmlische Heer singt das Gloria (V.8-20). Am achten Tag wird das Kind beschnitten und benannt; es wird im Tempel zu Yerushalayim dargestellt, wo Shimon es empfängt und das Nunc Dimittis singt, dann zu Miryam spricht (V.21-35), und die Prophetin Channah dankt (V.36-38). Die Familie kehrt nach Natzeret zurück, und das Kind wächst (V.39-40). Mit zwölf bleibt der Knabe Yeshua im Tempel und wird unter den Lehrern gefunden; seine Worte an seine Eltern sind der einzige aus seiner Jugend überlieferte Ausspruch (V.41-52). **Hinweis zur Redemarkierung (Regel 30):** der Bote und das himmlische Heer (das Gloria, V.13-14) sind von *angelos*-Klasse — ihre Rede wird NICHT als göttlich markiert. Shimons und Channahs Worte sind *menschlich* — nicht markiert. Nur der Ausspruch des Knaben Yeshua (V.49) wird göttlich markiert. Die beiden Cantica (Gloria, Nunc Dimittis) sind *menschliche/engelhafte* Rede, als fließende Prosa wiedergegeben. Namen erscheinen in der vertrauten Form; die ursprachliche Form steht einmal pro Abschnitt — z. B. Yochanan (Johannes).
 
 ---
 
@@ -720,9 +720,9 @@ Und Yeshua (Jesus) nahm zu an Weisheit und Gestalt und Gunst bei Gott und Mensch
 
 ---
 
-## KAPITELÜBERGREIFENDE VERFOLGUNG (HB -> Lukas)
+## KAPITELÜBERGREIFENDE VERFOLGUNG (HB → Lukas)
 
-**1 Sam 16 / Mi 5,1 -> Lukas 2,4-11 — Beit-Lechem (Bethlehem), David und die Hirten:**
+**1 Sam 16 / Mi 5,1 → Lukas 2,4-11 — Beit-Lechem (Bethlehem), David und die Hirten:**
 
 | Element | 1 Samuel 16 / Micha 5 | Lukas 2 |
 |---------|------------------------|--------|
@@ -732,7 +732,7 @@ Und Yeshua (Jesus) nahm zu an Weisheit und Gestalt und Gunst bei Gott und Mensch
 
 Die Geburt bindet den Geburtsort, die davidische Abstammung und die Hirtenzeugen an die Bethlehem-Prophetie und an David, Israels Hirtenkönig.
 
-**Ex 13,2.12-15 / Lev 12 -> Lukas 2,22-24 — der Erstgeborene und das Opfer des Armen:**
+**Ex 13,2.12-15 / Lev 12 → Lukas 2,22-24 — der Erstgeborene und das Opfer des Armen:**
 
 | Element | Exodus / Levitikus | Lukas 2 |
 |---------|---------------------|--------|
@@ -742,7 +742,7 @@ Die Geburt bindet den Geburtsort, die davidische Abstammung und die Hirtenzeugen
 
 Die Darstellung beachtet die Tora genau und markiert durch das Vögel-Opfer leise die Armut der Familie.
 
-**Jes 40,1-5 / 42,6 / 49,6 / 52,9-10 -> Lukas 2,25-38 — Trost, gesehenes Heil, Licht für die Nationen:**
+**Jes 40,1-5 / 42,6 / 49,6 / 52,9-10 → Lukas 2,25-38 — Trost, gesehenes Heil, Licht für die Nationen:**
 
 | Element | Jesaja | Lukas 2 (Simeon / Hanna) |
 |---------|--------|------------------------|
@@ -753,7 +753,7 @@ Die Darstellung beachtet die Tora genau und markiert durch das Vögel-Opfer leis
 
 Simeon und Hanna äußern die jesajanische Hoffnung auf Trost und Heil, nun ausdrücklich neben Israel auch zu den Nationen ausgedehnt.
 
-**1 Sam 2,26 / Ri 13,24 -> Lukas 2,40, 52 — die Wachstumsformel:**
+**1 Sam 2,26 / Ri 13,24 → Lukas 2,40, 52 — die Wachstumsformel:**
 
 | Element | 1 Samuel / Richter | Lukas 2 |
 |---------|--------------------|--------|

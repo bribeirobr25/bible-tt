@@ -253,6 +253,8 @@ describe("Phase 2 conservation gate", () => {
       const { units, expected } = await emitFile(file);
       fileCount += 1;
       unitCount += units.length;
+      if (process.env.CONSERVATION_REPORT === "files")
+        console.log(`unit-count ${file.relPath} ${units.length}`);
 
       let expectedTotal = 0;
       for (const [kind, expectedTexts] of Object.entries(expected) as [

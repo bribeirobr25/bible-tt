@@ -66,7 +66,7 @@ Die TT behält „in Verwirrung geraten" bei, sodass die Babel-Verbindung auf de
 ### A4. Der „Völkertafel"-Katalog (Vv.9-11) und die Diaspora Israels
 **[TEXTUELL — VERIFIZIERT (für die Liste); MÖGLICHE SCHLUSSFOLGERUNG — MÖGLICH (für ihr Strukturierungsprinzip)]**
 
-Die fünfzehn Namen der Vv.9-11 laufen grob von Osten nach Westen — Parther, Meder, Elamiter, Mesopotamien, dann Kleinasien, Ägypten, das kyrenäische Libyen, Rom und schließlich Kreta und Arabien. Die Hörer werden definiert als „Juden (Yehudim), fromme Männer aus jedem Volk unter dem Himmel" (2,5) zuzüglich „Proselyten" (2,11) — das heißt, die jüdische Diaspora und ihre Konvertiten, zum Fest versammelt, noch nicht die Heiden als solche.
+Die fünfzehn Namen der Vv.9-11 laufen grob von Osten nach Westen — Parther, Meder, Elamiter, Mesopotamien, dann Kleinasien, Ägypten, das kyrenäische Libyen, Rom und schließlich Kreta und Arabien. Die Hörer werden definiert als „Juden (Jehudim), fromme Männer aus jedem Volk unter dem Himmel" (2,5) zuzüglich „Proselyten" (2,11) — das heißt, die jüdische Diaspora und ihre Konvertiten, zum Fest versammelt, noch nicht die Heiden als solche.
 
 Der Katalog wurde lange als eine bewusste „Völkertafel" in der Art von Genesis 10 gelesen — eine repräsentative Karte der bewohnten Welt. **[MÖGLICHE SCHLUSSFOLGERUNG — MÖGLICH]** Ob die Liste eine bekannte astrologisch-geographische *Völkertafel* wiedergibt oder einfach die Diaspora aufzählt, ist umstritten; der Text gibt die Namen ohne Angabe des Prinzips. → Für die Geographie der Diaspora und die Festwirtschaft siehe §I.
 

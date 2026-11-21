@@ -20,7 +20,7 @@
 - [Continuous Reading](#continuous-reading)
 - [Verse-by-Verse Study](#verse-by-verse-study)
 - [Glossary — Acts 2](#glossary--acts-2)
-- [Cross-Chapter Tracking (HB -> Acts)](#cross-chapter-tracking-hb--acts)
+- [Cross-Chapter Tracking (HB → Acts)](#cross-chapter-tracking-hb--acts)
 
 ---
 
@@ -61,11 +61,11 @@ Notes are tagged by type — **Critical · Lexical · Grammatical · Theological
 
 ⁵Now there were dwelling in Yerushalayim (Jerusalem) Jews (Yehudim), devout men from every nation of those under the sky. ⁶And *when* this sound occurred, the multitude came together and was confounded, because each one heard them speaking in his own language. ⁷And they were amazed and marveled, saying, "Behold, are not all these who are speaking Galileans? ⁸And how *is it that* we hear, each *of us*, *in* our own language in which we were born? ⁹Parthians and Medes and Elamites, and those dwelling *in* Mesopotamia, Yehudah (Judea) and Cappadocia, Pontus and Asia, ¹⁰Phrygia and Pamphylia, Egypt and the parts of Libya *toward* Cyrene, and the visiting Romans, ¹¹both Jews (Yehudim) and proselytes, Cretans and Arabs — we hear them speaking in our *own* {a:tongues/languages} the great *deeds* of God." ¹²And all were amazed and perplexed, saying one to another, "What does this wish to be?" ¹³But others, mocking, were saying that "They are full of sweet wine."
 
-¹⁴But Kefa (Peter), standing with the eleven, lifted up his voice and declared to them, "Men, Jews (Yehudim), and all those dwelling *in* Yerushalayim (Jerusalem), let this be known to you, and give ear to my words. ¹⁵For these *people* are not drunk, as you suppose, for it is *the* third hour of the day; ¹⁶but this is what has been spoken through the prophet Yoel (Joel): ¹⁷@@'And it will be in the last days, says God, *that* I will pour out from my {a:wind/spirit} upon all flesh, and your sons and your daughters will prophesy, and your young men will see visions, and your elders will dream dreams; ¹⁸and indeed upon my menservants and upon my maidservants in those days I will pour out from my {a:wind/spirit}, and they will prophesy. ¹⁹And I will give wonders in the sky above and signs upon the earth below — blood and fire and vapor of smoke. ²⁰The sun will be turned into darkness and the moon into blood, before the day of *the* Lord comes — the great and manifest *day*. ²¹And it will be *that* everyone who calls upon the name of *the* Lord will be saved.'@@
+¹⁴But Kefa (Peter), standing with the eleven, lifted up his voice and declared to them, "Men, Jews (Yehudim), and all those dwelling *in* Yerushalayim (Jerusalem), let this be known to you, and give ear to my words. ¹⁵For these *people* are not drunk, as you suppose, for it is *the* third hour of the day; ¹⁶but this is what has been spoken through the prophet Yoel (Joel): ¹⁷'And it will be in the last days, says God, *that* I will pour out from my {a:wind/spirit} upon all flesh, and your sons and your daughters will prophesy, and your young men will see visions, and your elders will dream dreams; ¹⁸and indeed upon my menservants and upon my maidservants in those days I will pour out from my {a:wind/spirit}, and they will prophesy. ¹⁹And I will give wonders in the sky above and signs upon the earth below — blood and fire and vapor of smoke. ²⁰The sun will be turned into darkness and the moon into blood, before the day of *the* Lord comes — the great and manifest *day*. ²¹And it will be *that* everyone who calls upon the name of *the* Lord will be saved.'
 
 ²²"Men, Israelites, hear these words: Yeshua the Nazarene (Yeshua *the* Nazarene), a man demonstrated to you *to be* from God by mighty *works* and wonders and signs which God did through him in your midst, just as you yourselves know — ²³this *one*, given up by the determined plan and foreknowledge of God, you, *through the* hand of lawless *men*, fastened up *and* killed; ²⁴whom God raised up, having loosed the birth-pangs of death, because it was not possible *for* him to be held by it. ²⁵For David says concerning him: 'I saw the Lord before me always, because he is at my right *hand*, that I may not be shaken. ²⁶Therefore my heart was glad and my tongue rejoiced; and still my flesh also will rest upon hope, ²⁷because you will not abandon my soul to {t:Hades}, nor will you give your holy *one* to see corruption. ²⁸You made known to me ways of life; you will fill me with gladness with your face.'
 
-²⁹"Men, brothers, *it is* permitted *for me* to say to you with boldness concerning the patriarch David, that he both died and was buried, and his tomb is among us until this day. ³⁰Therefore, being a prophet, and knowing that God swore to him with an oath *that* of *the* fruit of his loins *he would seat one* upon his throne, ³¹*looking* ahead, he spoke concerning the resurrection of the Messiah, that neither was he abandoned to {t:Hades} nor did his flesh see corruption. ³²This Yeshua (Jesus) God raised up, of which we all are witnesses. ³³Therefore, exalted to the right *hand* of God, and having received the promise of the holy {a:wind/spirit} from the Father, he poured out this which you *both* see and hear. ³⁴For David did not ascend into the heavens, but he himself says: 'The Lord said to my lord, @@"Sit at my right *hand*, ³⁵until I set your enemies *as* a footstool for your feet."@@' ³⁶Therefore let all *the* house of Israel know assuredly that God made him both Lord and Messiah — this Yeshua (Jesus) whom you crucified."
+²⁹"Men, brothers, *it is* permitted *for me* to say to you with boldness concerning the patriarch David, that he both died and was buried, and his tomb is among us until this day. ³⁰Therefore, being a prophet, and knowing that God swore to him with an oath *that* of *the* fruit of his loins *he would seat one* upon his throne, ³¹*looking* ahead, he spoke concerning the resurrection of the Messiah, that neither was he abandoned to {t:Hades} nor did his flesh see corruption. ³²This Yeshua (Jesus) God raised up, of which we all are witnesses. ³³Therefore, exalted to the right *hand* of God, and having received the promise of the holy {a:wind/spirit} from the Father, he poured out this which you *both* see and hear. ³⁴For David did not ascend into the heavens, but he himself says: 'The Lord said to my lord, "Sit at my right *hand*, ³⁵until I set your enemies *as* a footstool for your feet."' ³⁶Therefore let all *the* house of Israel know assuredly that God made him both Lord and Messiah — this Yeshua (Jesus) whom you crucified."
 
 ³⁷And hearing *this*, they were pierced in the heart, and they said to Kefa (Peter) and the rest of the apostles, "What shall we do, men, brothers?" ³⁸And Kefa (Peter) *said* to them, "Change *your* minds, and let each of you be immersed upon the name of Yeshua *the* Messiah (Jesus) for *the* release of your sins, and you will receive the gift of the holy {a:wind/spirit}. ³⁹For to you is the promise, and to your children, and to all those at a distance, as many as *the* Lord our God may call to himself." ⁴⁰And with many other words he testified solemnly and was exhorting them, saying, "Be saved from this crooked generation." ⁴¹So those who welcomed his word were immersed, and there were added in that day about three thousand souls.
 
@@ -253,7 +253,7 @@ but this is what has been spoken through the prophet Yoel (Joel):
 
 ### **Verse 17**
 
-@@'And it will be in the last days, says God, *that* I will pour out from my {a:wind/spirit} upon all flesh, and your sons and your daughters will prophesy, and your young men will see visions, and your elders will dream dreams;
+'And it will be in the last days, says God, *that* I will pour out from my {a:wind/spirit} upon all flesh, and your sons and your daughters will prophesy, and your young men will see visions, and your elders will dream dreams;
 
 > **Notes**
 >
@@ -297,7 +297,7 @@ The sun will be turned into darkness and the moon into blood, before the day of 
 
 ### **Verse 21**
 
-And it will be *that* everyone who calls upon the name of *the* Lord will be saved.'@@
+And it will be *that* everyone who calls upon the name of *the* Lord will be saved.'
 
 > **Notes**
 >
@@ -440,7 +440,7 @@ Therefore, exalted to the right *hand* of God, and having received the promise o
 
 ### **Verse 34**
 
-For David did not ascend into the heavens, but he himself says: 'The Lord said to my lord, @@"Sit at my right *hand*,
+For David did not ascend into the heavens, but he himself says: 'The Lord said to my lord, "Sit at my right *hand*,
 
 > **Notes**
 >
@@ -451,7 +451,7 @@ For David did not ascend into the heavens, but he himself says: 'The Lord said t
 
 ### **Verse 35**
 
-until I set your enemies *as* a footstool for your feet."@@'
+until I set your enemies *as* a footstool for your feet."'
 
 > **Notes**
 >
@@ -610,7 +610,7 @@ praising God and having favor toward all the people. And the Lord was adding tho
 
 ---
 
-## Cross-Chapter Tracking (HB -> Acts)
+## Cross-Chapter Tracking (HB → Acts)
 
 | HB / earlier source | Theme | In Acts 2 |
 |---------------------|-------|-----------|

@@ -21,7 +21,7 @@
 - [Fortlaufende Lesung](#fortlaufende-lesung)
 - [Vers-für-Vers-Studie](#vers-für-vers-studie)
 - [Glossar — 1. Petrus 2](#glossar--1-petrus-2)
-- [Kapitelübergreifende Verfolgung (HB -> 1. Petrus)](#kapitelübergreifende-verfolgung-hb--1-petrus)
+- [Kapitelübergreifende Verfolgung (HB → 1. Petrus)](#kapitelübergreifende-verfolgung-hb--1-petrus)
 
 ---
 
@@ -58,7 +58,7 @@ Notizen sind nach Typ gekennzeichnet — **Kritisch · Lexikalisch · Grammatisc
 
 ---
 
-¹Nachdem ihr also alle Bosheit und allen Trug und Heuchelei und Neid und alle Verleumdungen abgelegt habt, ²begehrt wie neugeborene Säuglinge nach der reinen {a:Milch *des* Wortes/geistlichen Milch}, damit ihr durch sie zur Rettung heranwachst, ³wenn *ihr* denn geschmeckt habt, dass der Herr gütig *ist*. ⁴Zu ihm kommend, einem lebendigen Stein — von Menschen verworfen, aber bei Gott erwählt *und* kostbar —, ⁵werdet auch ihr selbst, als lebendige Steine, *als* ein geistliches Haus zu einem heiligen Priestertum erbaut, um geistliche Opfer darzubringen, Gott wohlgefällig durch Yeshua *den* Messias (Jesus). ⁶Denn es ist in der Schrift enthalten: @@"Siehe, ich lege in Tsiyon (Zion) einen Stein, einen erwählten, kostbaren Eckstein, und der, *der* an ihn glaubt, wird niemals zuschanden werden."@@ ⁷Euch nun, die ihr glaubt, *gilt* die Kostbarkeit, aber denen, die nicht glauben, „*der* Stein, den die Bauleute verwarfen — dieser wurde *zum* Haupt *der* Ecke", ⁸und „ein Stein des Anstoßes und ein Fels des Ärgernisses"; *die*, die sich *am* Wort stoßen, weil sie nicht glauben — wozu sie auch bestimmt wurden. ⁹Ihr aber *seid* ein erwähltes Geschlecht, ein königliches Priestertum, eine heilige Nation, ein Volk zum *Eigentum Gottes*, damit ihr die Vortrefflichkeiten dessen verkündet, der euch aus *der* Finsternis in sein wunderbares Licht berufen hat; ¹⁰*ihr*, die ihr einst nicht ein Volk *wart*, nun aber ein Volk Gottes *seid*, die *ihr* kein Erbarmen empfangen hattet, nun aber Erbarmen empfangen habt.
+¹Nachdem ihr also alle Bosheit und allen Trug und Heuchelei und Neid und alle Verleumdungen abgelegt habt, ²begehrt wie neugeborene Säuglinge nach der reinen {a:Milch *des* Wortes/geistlichen Milch}, damit ihr durch sie zur Rettung heranwachst, ³wenn *ihr* denn geschmeckt habt, dass der Herr gütig *ist*. ⁴Zu ihm kommend, einem lebendigen Stein — von Menschen verworfen, aber bei Gott erwählt *und* kostbar —, ⁵werdet auch ihr selbst, als lebendige Steine, *als* ein geistliches Haus zu einem heiligen Priestertum erbaut, um geistliche Opfer darzubringen, Gott wohlgefällig durch Yeshua *den* Messias (Jesus). ⁶Denn es ist in der Schrift enthalten: "Siehe, ich lege in Tsiyon (Zion) einen Stein, einen erwählten, kostbaren Eckstein, und der, *der* an ihn glaubt, wird niemals zuschanden werden." ⁷Euch nun, die ihr glaubt, *gilt* die Kostbarkeit, aber denen, die nicht glauben, „*der* Stein, den die Bauleute verwarfen — dieser wurde *zum* Haupt *der* Ecke", ⁸und „ein Stein des Anstoßes und ein Fels des Ärgernisses"; *die*, die sich *am* Wort stoßen, weil sie nicht glauben — wozu sie auch bestimmt wurden. ⁹Ihr aber *seid* ein erwähltes Geschlecht, ein königliches Priestertum, eine heilige Nation, ein Volk zum *Eigentum Gottes*, damit ihr die Vortrefflichkeiten dessen verkündet, der euch aus *der* Finsternis in sein wunderbares Licht berufen hat; ¹⁰*ihr*, die ihr einst nicht ein Volk *wart*, nun aber ein Volk Gottes *seid*, die *ihr* kein Erbarmen empfangen hattet, nun aber Erbarmen empfangen habt.
 
 ¹¹Geliebte, ich ermahne *euch* als Fremdlinge und Ausländer, euch der fleischlichen Begierden zu enthalten, die gegen die Seele streiten, ¹²indem ihr euer Verhalten unter den Nationen ehrbar haltet, damit sie in *der Sache*, in der sie gegen euch als Übeltäter reden, *eure* guten Werke beobachtend Gott verherrlichen am *Tag* der Heimsuchung. ¹³Ordnet euch jeder menschlichen Einrichtung unter um des Herrn willen — sei es einem König als dem Höchsten, ¹⁴oder Statthaltern als *denen*, die durch ihn gesandt sind zur Bestrafung der Übeltäter und zum Lob derer, die Gutes tun. ¹⁵Denn so ist der Wille Gottes: durch das Tun des Guten die Unwissenheit der törichten Menschen zum Schweigen zu bringen — ¹⁶als Freie, und nicht *so*, dass ihr die Freiheit als Deckmantel der Bosheit habt, sondern als Knechte Gottes. ¹⁷Ehrt jeden, liebt die Bruderschaft, fürchtet Gott, ehrt den König.
 
@@ -125,7 +125,7 @@ werdet auch ihr selbst, als lebendige Steine, *als* ein geistliches Haus zu eine
 
 ### **Vers 6**
 
-Denn es ist in der Schrift enthalten: @@"Siehe, ich lege in Tsiyon (Zion) einen Stein, einen erwählten, kostbaren Eckstein, und der, *der* an ihn glaubt, wird niemals zuschanden werden."@@
+Denn es ist in der Schrift enthalten: "Siehe, ich lege in Tsiyon (Zion) einen Stein, einen erwählten, kostbaren Eckstein, und der, *der* an ihn glaubt, wird niemals zuschanden werden."
 
 > **Notizen**
 >
@@ -361,7 +361,7 @@ Denn ihr irrtet umher wie Schafe, aber nun seid ihr zurückgekehrt zum Hirten un
 
 ---
 
-## Kapitelübergreifende Verfolgung (HB -> 1. Petrus)
+## Kapitelübergreifende Verfolgung (HB → 1. Petrus)
 
 | HB / frühere Quelle | Thema | In 1. Petrus 2 |
 |---------------------|-------|--------------|

@@ -22,7 +22,7 @@
 - [Lectura Continua](#lectura-continua)
 - [Estudio Versículo por Versículo](#estudio-versículo-por-versículo)
 - [Glosario — Juan 3](#glosario---juan-3)
-- [Seguimiento entre Capítulos (Génesis -> Juan)](#seguimiento-entre-capítulos-genesis--juan)
+- [Seguimiento entre Capítulos (Génesis → Juan)](#seguimiento-entre-capítulos-genesis--juan)
 
 ---
 
@@ -37,13 +37,13 @@
 
 Las notas se etiquetan por tipo — **Crítico · Léxico · Gramatical · Teológico** — cada una con su color (vea la leyenda en la parte superior de la vista de Notas).
 
-**Este capítulo contiene el versículo mas citado de la Biblia (3:16) y una de las ambiguedades de traducción mas importantes del Evangelio: anothen (*anothen*) en v.3, que significa tanto "de arriba" (espacial) como "de nuevo" (temporal). La TT preserva el doble significado con una barra — "de arriba/de nuevo" — porque el lector griego habria escuchado ambos sentidos simultaneamente. Nikodemos oye solo "de nuevo"; Yeshua quiere decir "de arriba." El poder del texto depende de la ambiguedad. Los nombres propios siguen la transliteracion TT: Nikodemos (no Nicodemo), Yeshua (no Jesus), Yochanan (no Juan), Mosheh (no Moises). La traducción "vida de la era" (no "vida eterna") en vv.15-16 refleja aionios (*aionios*), que se relaciona con aion (*aion*, "era") — una cualidad de vida que pertenece a la era venidera, no una declaración sobre la atemporalidad.**
+**Este capítulo contiene el versículo mas citado de la Biblia (3:16) y una de las ambiguedades de traducción mas importantes del Evangelio: anothen (*anothen*) en v.3, que significa tanto "de arriba" (espacial) como "de nuevo" (temporal). La TT preserva el doble significado con una barra — "de arriba/de nuevo" — porque el lector griego habria escuchado ambos sentidos simultaneamente. Nikodemos oye solo "de nuevo"; Yeshua quiere decir "de arriba." El poder del texto depende de la ambiguedad. Los nombres aparecen en su forma familiar, con la forma de la lengua original indicada una vez por sección — p. ej., Yochanan (Juan). La traducción "vida de la era" (no "vida eterna") en vv.15-16 refleja aionios (*aionios*), que se relaciona con aion (*aion*, "era") — una cualidad de vida que pertenece a la era venidera, no una declaración sobre la atemporalidad.**
 
 ---
 
 ## VISIÓN GENERAL DEL CAPÍTULO
 
-**Que sucede:** Un fariseo llamado Nikodemos — un dirigente de los yehudim — viene a Jesús de noche, reconociendolo como maestro venido de Dios por las señales que ha realizado. Jesús responde con la declaración de que nadie puede ver el reino de Dios a menos que nazca de arriba/de nuevo. Nikodemos malentiende, tomando la palabra en su sentido temporal: "¿Cómo puede un hombre nacer siendo viejo?" Jesús elabora: se debe nacer de agua y viento/espíritu. El viento/espíritu sopla donde quiere — la misma palabra significa tanto viento como espíritu, creando un juego de palabras deliberado. Nikodemos sigue preguntando "¿Cómo pueden ser estas cosas?" y Jesús le reprocha: "¿Tu eres el maestro de Israel y no sabes estas cosas?" Jesús habla del hijo del hombre siendo levantado como Moisés levanto la serpiente en el desierto (Num 21:9), para que todo el que confie tenga vida de la era. El versículo 16 declara el amor de Dios por el mundo y el don del hijo único-nacido. Los versículos 17-21 desarrollan el tema del juicio como autoseleccion: la luz ha venido, y los que practican el mal prefieren la oscuridad. En vv.22-36, la escena cambia al campo de Judá. Jesús sumerge (el único pasaje que afirma esto); Juan el Inmersor continua sumergiendo en Ainon cerca de Shalim. Surge una disputa sobre la purificación. Los seguidores de Juan informan que "todos" van a Jesús. Juan responde con la metáfora del novio y el amigo del novio: "Aquel debe crecer, pero yo debo menguar." El capítulo cierra con una declaración sobre el que viene de arriba, el amor del Padre por el hijo, y la consecuencia de no obedecer al Hijo.
+**Que sucede:** Un fariseo llamado Nikodemos — un dirigente de los Yehudim — viene a Jesús de noche, reconociendolo como maestro venido de Dios por las señales que ha realizado. Jesús responde con la declaración de que nadie puede ver el reino de Dios a menos que nazca de arriba/de nuevo. Nikodemos malentiende, tomando la palabra en su sentido temporal: "¿Cómo puede un hombre nacer siendo viejo?" Jesús elabora: se debe nacer de agua y viento/espíritu. El viento/espíritu sopla donde quiere — la misma palabra significa tanto viento como espíritu, creando un juego de palabras deliberado. Nikodemos sigue preguntando "¿Cómo pueden ser estas cosas?" y Jesús le reprocha: "¿Tu eres el maestro de Israel y no sabes estas cosas?" Jesús habla del hijo del hombre siendo levantado como Moisés levanto la serpiente en el desierto (Num 21:9), para que todo el que confie tenga vida de la era. El versículo 16 declara el amor de Dios por el mundo y el don del hijo único-nacido. Los versículos 17-21 desarrollan el tema del juicio como autoseleccion: la luz ha venido, y los que practican el mal prefieren la oscuridad. En vv.22-36, la escena cambia al campo de Judá. Jesús sumerge (el único pasaje que afirma esto); Juan el Inmersor continua sumergiendo en Ainon cerca de Shalim. Surge una disputa sobre la purificación. Los seguidores de Juan informan que "todos" van a Jesús. Juan responde con la metáfora del novio y el amigo del novio: "Aquel debe crecer, pero yo debo menguar." El capítulo cierra con una declaración sobre el que viene de arriba, el amor del Padre por el hijo, y la consecuencia de no obedecer al Hijo.
 
 **Temas clave:** Nacimiento de arriba/de nuevo — una ambiguedad incorporada; agua y viento/espíritu como condiciones de entrada al reino; el hijo del hombre "levantado" (un doble significado joanico — exaltacion y crucifixion); el amor de Dios por el mundo; juicio como respuesta a la luz, no como condenacion arbitraria; la metáfora del novio; la transición de Juan a Jesús; "vida de la era" como el don.
 
@@ -59,15 +59,15 @@ Las notas se etiquetan por tipo — **Crítico · Léxico · Gramatical · Teol�
 
 ---
 
-¹Y había un hombre de los perushim — Nikodemos *era* su nombre — un dirigente de los yehudim. ²Este vino a el de noche y le dijo: "Rabbi, sabemos que has venido de Dios *como* maestro, pues nadie puede hacer estas señales que tu haces a menos que Dios este con el." ³Yeshua respondió y le dijo: @@"Amen, amen, te digo, a menos que alguien nazca {a:de arriba/de nuevo}, no puede ver el reino de Dios."@@ ⁴Nikodemos le dice: "¿Cómo puede un hombre nacer siendo viejo? ¿Acaso puede entrar por segunda vez en el vientre de su madre y nacer?" ⁵Yeshua respondió: @@"Amen, amen, te digo, a menos que alguien nazca de agua y {a:viento/espíritu}, no puede entrar en el reino de Dios. ⁶Lo que ha nacido de la carne es carne, y lo que ha nacido del {a:viento/espíritu} es {a:viento/espíritu}. ⁷No te maravilles de que te dije: 'Ustedes deben nacer {a:de arriba/de nuevo}.' ⁸El {a:viento/espíritu} sopla donde quiere, y oyes su sonido, pero no sabes de donde viene ni adonde va; así es todo el que ha nacido del {a:viento/espíritu}."@@
+¹Y había un hombre de los perushim — Nikodemos *era* su nombre — un dirigente de los Yehudim. ²Este vino a el de noche y le dijo: "Rabbi, sabemos que has venido de Dios *como* maestro, pues nadie puede hacer estas señales que tu haces a menos que Dios este con el." ³Yeshua respondió y le dijo: @@"Amen, amen, te digo, a menos que alguien nazca {a:de arriba/de nuevo}, no puede ver el reino de Dios."@@ ⁴Nikodemos le dice: "¿Cómo puede un hombre nacer siendo viejo? ¿Acaso puede entrar por segunda vez en el vientre de su madre y nacer?" ⁵Yeshua respondió: @@"Amen, amen, te digo, a menos que alguien nazca de agua y {a:viento/espíritu}, no puede entrar en el reino de Dios. ⁶Lo que ha nacido de la carne es carne, y lo que ha nacido del {a:viento/espíritu} es {a:viento/espíritu}. ⁷No te maravilles de que te dije: 'Ustedes deben nacer {a:de arriba/de nuevo}.' ⁸El {a:viento/espíritu} sopla donde quiere, y oyes su sonido, pero no sabes de donde viene ni adonde va; así es todo el que ha nacido del {a:viento/espíritu}."@@
 
 ⁹Nikodemos respondió y le dijo: "¿Cómo pueden ser estas cosas?" ¹⁰Yeshua respondió y le dijo: @@"¿Tu eres el maestro de Yisrael y no sabes estas cosas? ¹¹Amen, amen, te digo, hablamos lo que sabemos y testificamos *de* lo que hemos visto, y ustedes no reciben nuestro testimonio. ¹²Si les dije cosas terrenales y no confían, ¿como confiaran si les digo cosas celestiales? ¹³Y nadie ha subido al cielo excepto el que bajo del cielo — el hijo del hombre. ¹⁴Y así como Mosheh levanto la serpiente en el desierto, así debe ser levantado el hijo del hombre, ¹⁵para que todo el que confie en el tenga vida de la era."@@
 
-¹⁶@@"Porque de tal manera amo Dios al mundo que dio al hijo único-nacido, para que todo el que confie en el no perezca sino que tenga vida de la era. ¹⁷Porque Dios no envió al hijo al mundo para que juzgara al mundo, sino para que el mundo fuera salvado por medio de él. ¹⁸El que confia en el no es juzgado; el que no confia ya ha sido juzgado, porque no ha confiado en el nombre del hijo único-nacido de Dios. ¹⁹Y este es el juicio: que la luz ha venido al mundo, y los humanos amaron la oscuridad mas que la luz, porque sus obras eran malas. ²⁰Pues todo el que práctica *cosas* viles odia la luz y no viene a la luz, para que sus obras no sean expuestas. ²¹Pero el que hace la verdad viene a la luz, para que sus obras sean manifestadas — que han sido obradas en Dios."@@
+¹⁶"Porque de tal manera amo Dios al mundo que dio al hijo único-nacido, para que todo el que confie en el no perezca sino que tenga vida de la era. ¹⁷Porque Dios no envió al hijo al mundo para que juzgara al mundo, sino para que el mundo fuera salvado por medio de él. ¹⁸El que confia en el no es juzgado; el que no confia ya ha sido juzgado, porque no ha confiado en el nombre del hijo único-nacido de Dios. ¹⁹Y este es el juicio: que la luz ha venido al mundo, y los humanos amaron la oscuridad mas que la luz, porque sus obras eran malas. ²⁰Pues todo el que práctica *cosas* viles odia la luz y no viene a la luz, para que sus obras no sean expuestas. ²¹Pero el que hace la verdad viene a la luz, para que sus obras sean manifestadas — que han sido obradas en Dios."
 
 ²²Después de estas cosas Yeshua y sus seguidores vinieron a la tierra de Yehudah, y allí el pasaba tiempo con ellos y sumergia. ²³Y Yochanan también estaba sumergiendo en Ainon cerca de Shalim, porque había mucha agua allí, y *la gente* venía y era sumergida — ²⁴pues Yochanan aún no había sido echado en prision.
 
-²⁵Entonces surgio una disputa de parte de los seguidores de Yochanan con un yehudi acerca de la purificación. ²⁶Y vinieron a Yochanan y le dijeron: "Rabbi, el que estaba contigo al otro lado del Yarden, de quien tu has testificado — mira, este sumerge, y todos van a el." ²⁷Yochanan respondió y dijo: "Un hombre no puede recibir nada a menos que le haya sido dado del cielo. ²⁸Ustedes mismos testifican a mí favor que yo dije: 'Yo no soy el ungido,' sino: 'He sido enviado delante de aquel.' ²⁹El que tiene la novia es el novio; pero el amigo del novio, que esta de pie y lo oye, se alegra grandemente por la voz del novio. Este gozo mio, pues, ha sido cumplido. ³⁰Aquel debe crecer, pero yo debo menguar."
+²⁵Entonces surgio una disputa de parte de los seguidores de Yochanan con un Yehudi acerca de la purificación. ²⁶Y vinieron a Yochanan y le dijeron: "Rabbi, el que estaba contigo al otro lado del Yarden, de quien tu has testificado — mira, este sumerge, y todos van a el." ²⁷Yochanan respondió y dijo: "Un hombre no puede recibir nada a menos que le haya sido dado del cielo. ²⁸Ustedes mismos testifican a mí favor que yo dije: 'Yo no soy el ungido,' sino: 'He sido enviado delante de aquel.' ²⁹El que tiene la novia es el novio; pero el amigo del novio, que esta de pie y lo oye, se alegra grandemente por la voz del novio. Este gozo mio, pues, ha sido cumplido. ³⁰Aquel debe crecer, pero yo debo menguar."
 
 ³¹"El que viene de arriba esta sobre todos. El que es de la tierra es de la tierra y habla de la tierra. El que viene del cielo esta sobre todos. ³²Lo que el ha visto y oido — esto testifica, y nadie recibe su testimonio. ³³El que recibió su testimonio ha puesto su sello de que Dios es verdadero. ³⁴Porque el que Dios envió habla las palabras de Dios, pues no da el {a:viento/espíritu} por medida. ³⁵El Padre ama al Hijo y ha dado todas las cosas en su mano. ³⁶El que confia en el hijo tiene vida de la era; pero el que desobedece al Hijo no vera vida, sino que la ira de Dios permanece sobre el."
 
@@ -77,7 +77,7 @@ Las notas se etiquetan por tipo — **Crítico · Léxico · Gramatical · Teol�
 
 ### **Versículo 1**
 
-Y había un hombre de los perushim — Nikodemos *era* su nombre — un dirigente de los yehudim.
+Y había un hombre de los perushim — Nikodemos *era* su nombre — un dirigente de los Yehudim.
 
 > **NOTAS**
 >
@@ -85,7 +85,7 @@ Y había un hombre de los perushim — Nikodemos *era* su nombre — un dirigent
 > - **Nikodemos** (*Nikodemos*) = nombre griego que significa "victoria del pueblo" (nike + demos). La TT retiene la forma de origen griego "Nikodemos" según la política de transliteracion. Reaparece en 7:50 y 19:39.
 >
 > 🟡 **"UN DIRIGENTE DE LOS YEHUDIM"**
-> - **archon ton Ioudaion** = un dirigente/lider de los yehudim. Esto probablemente indica membresia en el Sanedrin (cf. 7:50, donde Nikodemos habla dentro de ese cuerpo). La combinación "fariseo + dirigente" lo marca como una figura de autoridad religiosa y política.
+> - **archon ton Ioudaion** = un dirigente/lider de los Yehudim. Esto probablemente indica membresia en el Sanedrin (cf. 7:50, donde Nikodemos habla dentro de ese cuerpo). La combinación "fariseo + dirigente" lo marca como una figura de autoridad religiosa y política.
 
 ---
 
@@ -269,7 +269,7 @@ Yeshua respondió y le dijo: @@"¿Tu eres el maestro de Yisrael y no sabes estas
 > - **hypsothenai** (*hypsothenai*) = "ser levantado." El verbo hypsoo (*hypsoo*) porta dos sentidos en Juan: (1) levantamiento físico — crucifixion (ser elevado en una cruz); (2) exaltacion — glorificacion (ser elevado a honor). Juan usa este verbo en tres puntos críticos (3:14; 8:28; 12:32-34), y en cada caso ambos sentidos están operativos. La crucifixion *es* la exaltacion. La TT traduce "levantado" y registra el doble significado.
 >
 > 🟡 **MOSHEH Y LA SERPIENTE — NUM 21:4-9**
-> - La referencia es a Num 21:4-9: cuando el pueblo de Yisrael fue mordido por serpientes en el desierto, Mosheh hizo una serpiente de bronce y la puso sobre un asta. Cualquiera que hubiera sido mordido y la mirara, vivía. El paralelo tipológico: mirar a la serpiente levantada -> vivir; confiar en el Hijo del Hombre levantado -> tener vida de la era. La comparación es explicita pero limitada — el texto no explica el mecanismo de ninguna de las dos.
+> - La referencia es a Num 21:4-9: cuando el pueblo de Yisrael fue mordido por serpientes en el desierto, Mosheh hizo una serpiente de bronce y la puso sobre un asta. Cualquiera que hubiera sido mordido y la mirara, vivía. El paralelo tipológico: mirar a la serpiente levantada → vivir; confiar en el Hijo del Hombre levantado → tener vida de la era. La comparación es explicita pero limitada — el texto no explica el mecanismo de ninguna de las dos.
 
 ---
 
@@ -289,7 +289,7 @@ Yeshua respondió y le dijo: @@"¿Tu eres el maestro de Yisrael y no sabes estas
 
 ### **Versículo 16**
 
-@@"Porque de tal manera amo Dios al mundo que dio al hijo único-nacido, para que todo el que confie en el no perezca sino que tenga vida de la era."@@
+"Porque de tal manera amo Dios al mundo que dio al hijo único-nacido, para que todo el que confie en el no perezca sino que tenga vida de la era."
 
 > **NOTAS**
 >
@@ -309,7 +309,7 @@ Yeshua respondió y le dijo: @@"¿Tu eres el maestro de Yisrael y no sabes estas
 
 ### **Versículo 17**
 
-@@Porque Dios no envió al hijo al mundo para que juzgara al mundo, sino para que el mundo fuera salvado por medio de él.@@
+Porque Dios no envió al hijo al mundo para que juzgara al mundo, sino para que el mundo fuera salvado por medio de él.
 
 > **NOTAS**
 >
@@ -323,7 +323,7 @@ Yeshua respondió y le dijo: @@"¿Tu eres el maestro de Yisrael y no sabes estas
 
 ### **Versículo 18**
 
-@@El que confia en el no es juzgado; el que no confia ya ha sido juzgado, porque no ha confiado en el nombre del hijo único-nacido de Dios.@@
+El que confia en el no es juzgado; el que no confia ya ha sido juzgado, porque no ha confiado en el nombre del hijo único-nacido de Dios.
 
 > **NOTAS**
 >
@@ -337,7 +337,7 @@ Yeshua respondió y le dijo: @@"¿Tu eres el maestro de Yisrael y no sabes estas
 
 ### **Versículo 19**
 
-@@Y este es el juicio: que la luz ha venido al mundo, y los humanos amaron la oscuridad mas que la luz, porque sus obras eran malas.@@
+Y este es el juicio: que la luz ha venido al mundo, y los humanos amaron la oscuridad mas que la luz, porque sus obras eran malas.
 
 > **NOTAS**
 >
@@ -351,7 +351,7 @@ Yeshua respondió y le dijo: @@"¿Tu eres el maestro de Yisrael y no sabes estas
 
 ### **Versículo 20**
 
-@@Pues todo el que práctica *cosas* viles odia la luz y no viene a la luz, para que sus obras no sean expuestas.@@
+Pues todo el que práctica *cosas* viles odia la luz y no viene a la luz, para que sus obras no sean expuestas.
 
 > **NOTAS**
 >
@@ -365,7 +365,7 @@ Yeshua respondió y le dijo: @@"¿Tu eres el maestro de Yisrael y no sabes estas
 
 ### **Versículo 21**
 
-@@Pero el que hace la verdad viene a la luz, para que sus obras sean manifestadas — que han sido obradas en Dios.@@
+Pero el que hace la verdad viene a la luz, para que sus obras sean manifestadas — que han sido obradas en Dios.
 
 > **NOTAS**
 >
@@ -418,12 +418,12 @@ pues Yochanan aún no había sido echado en prision.
 
 ### **Versículo 25**
 
-Entonces surgio una disputa de parte de los seguidores de Yochanan con un yehudi acerca de la purificación.
+Entonces surgio una disputa de parte de los seguidores de Yochanan con un Yehudi acerca de la purificación.
 
 > **NOTAS**
 >
 > 🔵 **VARIANTE TEXTUAL — "UN YEHUDI" O "YEHUDIM"?**
-> - Algunos manuscritos leen **Ioudaiou** (*Ioudaiou*, singular — "un yehudi"); otros leen **Ioudaion** (*Ioudaion*, plural — "yehudim"). NA28 lee el singular. La identidad de esta persona es desconocida — el texto introduce un personaje, registra el tema de la disputa ("purificación"), y continua sin resolución.
+> - Algunos manuscritos leen **Ioudaiou** (*Ioudaiou*, singular — "un Yehudi"); otros leen **Ioudaion** (*Ioudaion*, plural — "Yehudim"). NA28 lee el singular. La identidad de esta persona es desconocida — el texto introduce un personaje, registra el tema de la disputa ("purificación"), y continua sin resolución.
 >
 > 🟢 **"PURIFICACION" — *KATHARISMOS***
 > - **katharismos** (*katharismos*) = purificación, limpieza. La conexión entre inmersion y ritos de purificación es el punto de contension — ¿como se relaciona la inmersion de Yochanan con las prácticas de purificación establecidas?
@@ -589,9 +589,9 @@ El que confia en el hijo tiene vida de la era; pero el que desobedece al Hijo no
 
 ---
 
-## SEGUIMIENTO ENTRE CAPÍTULOS (Génesis -> Juan)
+## SEGUIMIENTO ENTRE CAPÍTULOS (Génesis → Juan)
 
-**Gen 1:2 -> Juan 3:5-8 — Viento/espíritu (*ruach* / *pneuma*) y agua:**
+**Gen 1:2 → Juan 3:5-8 — Viento/espíritu (*ruach* / *pneuma*) y agua:**
 
 | Elemento | Gen 1:2 | Juan 3:5-8 |
 |----------|---------|------------|
@@ -602,7 +602,7 @@ El que confia en el hijo tiene vida de la era; pero el que desobedece al Hijo no
 
 El viento/espíritu sobre las aguas primordiales en la creación ahora se convierte en el viento/espíritu que genera nuevo nacimiento. Ambas escenas involucran agua y viento/espíritu juntos, y ambas preceden a un nuevo comienzo.
 
-**Num 21:4-9 -> Juan 3:14-15 — La serpiente levantada:**
+**Num 21:4-9 → Juan 3:14-15 — La serpiente levantada:**
 
 | Elemento | Num 21:4-9 | Juan 3:14-15 |
 |----------|-----------|--------------|
@@ -614,7 +614,7 @@ El viento/espíritu sobre las aguas primordiales en la creación ahora se convie
 
 El paralelo tipológico es explicito: Mosheh levanto la serpiente para que los que miraran vivieran; el hijo del hombre debe ser levantado para que los que confien tengan vida de la era. El verbo "levantado" (*hypsothenai*) porta el doble significado joanico de elevación física y exaltacion divina.
 
-**Juan 1:12-13 -> Juan 3:3-8 — Nacimiento de Dios:**
+**Juan 1:12-13 → Juan 3:3-8 — Nacimiento de Dios:**
 
 | Elemento | Juan 1:12-13 | Juan 3:3-8 |
 |----------|-------------|------------|
@@ -626,7 +626,7 @@ El paralelo tipológico es explicito: Mosheh levanto la serpiente para que los q
 
 La teología comprimida del nacimiento en el Prologo se despliega en el dialogo con Nikodemos. Lo que 1:12-13 declara como hecho, 3:3-8 explora como requisito y misterio.
 
-**Juan 1:4-5 -> Juan 3:19-21 — Luz y oscuridad:**
+**Juan 1:4-5 → Juan 3:19-21 — Luz y oscuridad:**
 
 | Elemento | Juan 1:4-5 | Juan 3:19-21 |
 |----------|-----------|--------------|

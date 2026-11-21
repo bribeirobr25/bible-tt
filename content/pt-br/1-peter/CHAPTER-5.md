@@ -22,7 +22,7 @@
 - [Leitura Contínua](#leitura-contínua)
 - [Estudo Verso a Verso](#estudo-verso-a-verso)
 - [Glossário — 1 Pedro 5](#glossário--1-pedro-5)
-- [Rastreamento entre Capítulos (BH -> 1 Pedro)](#rastreamento-entre-capítulos-bh---1-pedro)
+- [Rastreamento entre Capítulos (BH → 1 Pedro)](#rastreamento-entre-capítulos-bh---1-pedro)
 
 ---
 
@@ -239,7 +239,7 @@ Saudai-vos uns aos outros com um beijo de amor. Paz a todos vós que *estais* em
 
 ---
 
-## Rastreamento entre Capítulos (BH -> 1 Pedro)
+## Rastreamento entre Capítulos (BH → 1 Pedro)
 
 | BH / fonte anterior | Tema | Em 1 Pedro 5 |
 |---------------------|-------|--------------|

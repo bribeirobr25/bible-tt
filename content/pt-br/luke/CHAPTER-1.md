@@ -22,7 +22,7 @@
 - [Leitura Contínua](#leitura-contínua)
 - [Estudo Verso a Verso](#estudo-verso-a-verso)
 - [Glossário — Lucas 1](#glossário---lucas-1)
-- [Rastreamento entre Capítulos (BH -> Lucas)](#rastreamento-entre-capítulos-bh---lucas)
+- [Rastreamento entre Capítulos (BH → Lucas)](#rastreamento-entre-capítulos-bh---lucas)
 
 ---
 
@@ -37,7 +37,7 @@
 
 As notas são marcadas por tipo — **Crítico · Lexical · Gramatical · Teológico** — cada uma com sua cor (veja a legenda no topo da visão de Notas).
 
-**Este é o capítulo de abertura mais longo dos Evangelhos.** Lucas 1 começa com um prólogo literário formal (vv.1-4) — uma única frase periódica grega, o grego mais "clássico" dos quatro Evangelhos — dirigido a um único Theophilos. A narrativa então muda para um registro septuagintal modelado na BH. Dois anúncios correm em paralelo: o mensageiro Gavriel (Gabriel) anuncia o nascimento de Yochanan (João) ao sacerdote Zecharyah (Zacarias) (vv.5-25), depois o nascimento de Yeshua (Jesus) a Miryam (Maria) (vv.26-38). Maria visita Elisheva (Isabel) (vv.39-45) e canta o Magnificat (vv.46-55). João nasce e é nomeado (vv.57-66), e Zacarias canta o Benedictus (vv.67-79). **Nota sobre marcação de fala (Regra 30):** Gavriel é um *mensageiro* (*angelos*), não Deus — suas palavras NÃO são marcadas como fala divina. Os dois cânticos (Magnificat, Benedictus) são fala *humana* e são apresentados como prosa fluente. Os nomes próprios seguem a transliteração TT: Yeshua (não Jesus), Yochanan (não João), Zecharyah (não Zacarias), Elisheva (não Isabel), Miryam (não Maria), Gavriel (não Gabriel).
+**Este é o capítulo de abertura mais longo dos Evangelhos.** Lucas 1 começa com um prólogo literário formal (vv.1-4) — uma única frase periódica grega, o grego mais "clássico" dos quatro Evangelhos — dirigido a um único Theophilos. A narrativa então muda para um registro septuagintal modelado na BH. Dois anúncios correm em paralelo: o mensageiro Gavriel (Gabriel) anuncia o nascimento de Yochanan (João) ao sacerdote Zecharyah (Zacarias) (vv.5-25), depois o nascimento de Yeshua (Jesus) a Miryam (Maria) (vv.26-38). Maria visita Elisheva (Isabel) (vv.39-45) e canta o Magnificat (vv.46-55). João nasce e é nomeado (vv.57-66), e Zacarias canta o Benedictus (vv.67-79). **Nota sobre marcação de fala (Regra 30):** Gavriel é um *mensageiro* (*angelos*), não Deus — suas palavras NÃO são marcadas como fala divina. Os dois cânticos (Magnificat, Benedictus) são fala *humana* e são apresentados como prosa fluente. Os nomes aparecem na forma familiar, com a forma da língua original indicada uma vez por seção — p. ex., Yochanan (João).
 
 ---
 
@@ -1066,9 +1066,9 @@ E a criança cresceu e foi fortalecida em espírito, e esteve nos *lugares* dese
 
 ---
 
-## RASTREAMENTO ENTRE CAPÍTULOS (BH -> Lucas)
+## RASTREAMENTO ENTRE CAPÍTULOS (BH → Lucas)
 
-**1 Sm 1-2 -> Lucas 1 — Channah (Ana) e o Magnificat:**
+**1 Sm 1-2 → Lucas 1 — Channah (Ana) e o Magnificat:**
 
 | Elemento | 1 Samuel 1-2 (Ana) | Lucas 1 (Isabel / Maria) |
 |---------|------------------------|----------------------------|
@@ -1079,7 +1079,7 @@ E a criança cresceu e foi fortalecida em espírito, e esteve nos *lugares* dese
 
 O Magnificat é modelado no cântico de Ana; ambos celebram uma inversão divina centrada numa criança dada contra todas as probabilidades.
 
-**Gn 18 -> Lucas 1:37 — "nada impossível com Deus":**
+**Gn 18 → Lucas 1:37 — "nada impossível com Deus":**
 
 | Elemento | Gn 18 (Sara) | Lucas 1:37 |
 |---------|----------------|-----------|
@@ -1089,7 +1089,7 @@ O Magnificat é modelado no cântico de Ana; ambos celebram uma inversão divina
 
 O oráculo de Gabriel a Maria cita a promessa a Sara quase literalmente da LXX, ligando os novos nascimentos à linha abraâmica.
 
-**Ml 3:1, 3:23-24 / Is 40:3 -> Lucas 1:17, 76 — João como o Eliyahu (Elias) que retorna:**
+**Ml 3:1, 3:23-24 / Is 40:3 → Lucas 1:17, 76 — João como o Eliyahu (Elias) que retorna:**
 
 | Elemento | Malaquias / Isaías | Lucas 1 |
 |---------|-------------------|--------|
@@ -1099,7 +1099,7 @@ O oráculo de Gabriel a Maria cita a promessa a Sara quase literalmente da LXX, 
 
 Lucas apresenta João como a figura profetizada de Elias; os textos-fonte falam de YHWH, ao passo que o Evangelho funde o referente em direção a Yeshua — a TT preserva a fusão (Regra 13: Possível).
 
-**2 Sm 7 / Sl 18, 132 -> Lucas 1:32-33, 69 — trono davídico e "chifre de salvação":**
+**2 Sm 7 / Sl 18, 132 → Lucas 1:32-33, 69 — trono davídico e "chifre de salvação":**
 
 | Elemento | 2 Sm 7 / Salmos | Lucas 1 |
 |---------|-------------------|--------|
@@ -1109,7 +1109,7 @@ Lucas apresenta João como a figura profetizada de Elias; os textos-fonte falam 
 
 Tanto o anúncio quanto o Benedictus enraízam o destino da criança na aliança davídica e em seus salmos de vitória real.
 
-**Gn 22:16-18 / Gn 17:7 -> Lucas 1:55, 72-73 — o juramento a Avraham (Abraão):**
+**Gn 22:16-18 / Gn 17:7 → Lucas 1:55, 72-73 — o juramento a Avraham (Abraão):**
 
 | Elemento | Gênesis | Lucas 1 |
 |---------|---------|--------|

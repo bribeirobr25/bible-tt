@@ -240,38 +240,6 @@ The chapter opens and closes with the same verb. The wives are to "**submit**" (
 
 ---
 
-## H. Sources Consulted
-
-| Source | Type | Used in sections |
-|--------|------|-----------------|
-| Achtemeier, P.J., *1 Peter*, Hermeneia, 1996 | PEER-REVIEWED (commentary) | D, F |
-| Aristotle, *Politics*, Loeb Classical Library | PRIMARY | B |
-| Balch, D.L., *Let Wives Be Submissive: The Domestic Code in 1 Peter*, 1981 | PEER-REVIEWED (monograph) | B, C, I |
-| Bauckham, R., *Jude, 2 Peter*, WBC 50, 1983 | PEER-REVIEWED (commentary) | B |
-| Bauer, W., *A Greek-English Lexicon of the NT* (BDAG), 3rd ed., 2000 | PEER-REVIEWED (lexicon) | D |
-| Bird, J.G., *Abuse, Power and Fearful Obedience*, LNTS, 2011 | PEER-REVIEWED (monograph) | F |
-| Charlesworth, J.H. (ed.), *The Old Testament Pseudepigrapha*, vol. 1, 1983 | PRIMARY (text collection) | B |
-| Dalton, W.J., *Christ's Proclamation to the Spirits*, 2nd ed., 1989 | PEER-REVIEWED (monograph) | F |
-| Eckstein, H.-J., *Der Begriff Syneidesis bei Paulus*, 1983 | PEER-REVIEWED (monograph) | D |
-| Edwards, M., Goodman, M., Price, S. (eds.), *Apologetics in the Roman Empire*, 1999 | PEER-REVIEWED (monograph) | F |
-| Elliott, J.H., *1 Peter*, Anchor Bible 37B, 2000 | PEER-REVIEWED (commentary) | C, I |
-| Goppelt, L., *Typos: The Typological Interpretation of the OT in the NT*, 1982 | PEER-REVIEWED (monograph) | D |
-| Grant, R.M., *Greek Apologists of the Second Century*, 1988 | PEER-REVIEWED (monograph) | F |
-| Hemelrijk, E.A., *Matrona Docta: Educated Women in the Roman Élite*, 1999 | PEER-REVIEWED (monograph) | I |
-| Horrell, D.G., *1 Peter*, New Testament Guides, 2008 | PEER-REVIEWED (monograph) | C |
-| Josephus, *Against Apion*, Loeb Classical Library | PRIMARY | B |
-| Kittredge, C.B., *Community and Authority*, HTS, 1998 | PEER-REVIEWED (monograph) | F |
-| Liddell and Scott, *Greek-English Lexicon*, 9th ed. | PEER-REVIEWED (lexicon) | D |
-| Lieu, J., *Neither Jew nor Greek? Constructing Early Christianity*, 2002 | PEER-REVIEWED (monograph) | C |
-| Moulton, J.H. and Milligan, G., *The Vocabulary of the Greek Testament*, 1930 | PEER-REVIEWED (reference) | D |
-| Nestle-Aland, *Novum Testamentum Graece*, 28th ed. | PRIMARY | A, D, G |
-| Nickelsburg, G.W.E., *1 Enoch 1: A Commentary*, Hermeneia, 2001 | PEER-REVIEWED (commentary) | B |
-| Plutarch, *Coniugalia praecepta* (*Moralia*), Loeb Classical Library | PRIMARY | C, I |
-| Trumbower, J.A., *Rescue for the Dead*, 2001 | PEER-REVIEWED (monograph) | F |
-| Treggiari, S., *Roman Marriage*, Oxford University Press, 1991 | PEER-REVIEWED (monograph) | I |
-
----
-
 ## I. The World at the Time
 
 > **The recipients' world.** Unlike the Gospel and Acts companions (set in Second-Temple Judea), 1 Peter addresses scattered believers in the **Greco-Roman provinces of Asia Minor** (Pontus, Galatia, Cappadocia, Asia, Bithynia — 1:1; §C1) in the later first century CE. The chapter's household instructions (vv.1-7) speak directly into the **marriage and household norms of the wider Greco-Roman world** — which is why this Section I focuses on that domestic-and-social setting rather than on the Temple-city. The flat `### [Topic]` form is used (the default).
@@ -307,6 +275,39 @@ Public and assertive speech was coded as a male prerogative in Greco-Roman socie
 **Source:** Balch, D.L., *Let Wives Be Submissive*, Scholars Press, 1981, pp. 95-116; Hemelrijk, E.A., *Matrona Docta*, Routledge, 1999; Treggiari, S., *Roman Marriage*, Oxford University Press, 1991.
 
 ---
+
+## H. Sources Consulted
+
+| Source | Type | Used in sections |
+|--------|------|-----------------|
+| Achtemeier, P.J., *1 Peter*, Hermeneia, 1996 | PEER-REVIEWED (commentary) | D, F |
+| Aristotle, *Politics*, Loeb Classical Library | PRIMARY | B |
+| Balch, D.L., *Let Wives Be Submissive: The Domestic Code in 1 Peter*, 1981 | PEER-REVIEWED (monograph) | B, C, I |
+| Bauckham, R., *Jude, 2 Peter*, WBC 50, 1983 | PEER-REVIEWED (commentary) | B |
+| Bauer, W., *A Greek-English Lexicon of the NT* (BDAG), 3rd ed., 2000 | PEER-REVIEWED (lexicon) | D |
+| Bird, J.G., *Abuse, Power and Fearful Obedience*, LNTS, 2011 | PEER-REVIEWED (monograph) | F |
+| Charlesworth, J.H. (ed.), *The Old Testament Pseudepigrapha*, vol. 1, 1983 | PRIMARY (text collection) | B |
+| Dalton, W.J., *Christ's Proclamation to the Spirits*, 2nd ed., 1989 | PEER-REVIEWED (monograph) | F |
+| Eckstein, H.-J., *Der Begriff Syneidesis bei Paulus*, 1983 | PEER-REVIEWED (monograph) | D |
+| Edwards, M., Goodman, M., Price, S. (eds.), *Apologetics in the Roman Empire*, 1999 | PEER-REVIEWED (monograph) | F |
+| Elliott, J.H., *1 Peter*, Anchor Bible 37B, 2000 | PEER-REVIEWED (commentary) | C, I |
+| Goppelt, L., *Typos: The Typological Interpretation of the OT in the NT*, 1982 | PEER-REVIEWED (monograph) | D |
+| Grant, R.M., *Greek Apologists of the Second Century*, 1988 | PEER-REVIEWED (monograph) | F |
+| Hemelrijk, E.A., *Matrona Docta: Educated Women in the Roman Élite*, 1999 | PEER-REVIEWED (monograph) | I |
+| Horrell, D.G., *1 Peter*, New Testament Guides, 2008 | PEER-REVIEWED (monograph) | C |
+| Josephus, *Against Apion*, Loeb Classical Library | PRIMARY | B |
+| Kittredge, C.B., *Community and Authority*, HTS, 1998 | PEER-REVIEWED (monograph) | F |
+| Liddell and Scott, *Greek-English Lexicon*, 9th ed. | PEER-REVIEWED (lexicon) | D |
+| Lieu, J., *Neither Jew nor Greek? Constructing Early Christianity*, 2002 | PEER-REVIEWED (monograph) | C |
+| Moulton, J.H. and Milligan, G., *The Vocabulary of the Greek Testament*, 1930 | PEER-REVIEWED (reference) | D |
+| Nestle-Aland, *Novum Testamentum Graece*, 28th ed. | PRIMARY | A, D, G |
+| Nickelsburg, G.W.E., *1 Enoch 1: A Commentary*, Hermeneia, 2001 | PEER-REVIEWED (commentary) | B |
+| Plutarch, *Coniugalia praecepta* (*Moralia*), Loeb Classical Library | PRIMARY | C, I |
+| Treggiari, S., *Roman Marriage*, Oxford University Press, 1991 | PEER-REVIEWED (monograph) | I |
+| Trumbower, J.A., *Rescue for the Dead*, 2001 | PEER-REVIEWED (monograph) | F |
+
+---
+
 
 **Editorial provenance:**
 - Drafted by: AI (Claude, Anthropic)

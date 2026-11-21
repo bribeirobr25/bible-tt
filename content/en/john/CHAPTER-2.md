@@ -36,7 +36,7 @@
 
 Notes are tagged by type — **Critical · Lexical · Grammatical · Theological** — each shown with its colour (see the legend at the top of the Notes view).
 
-**This chapter contains two major scenes and a transitional note.** The wedding at Qanah (vv.1–12) introduces the first "sign" (*sēmeion*) — a term John uses deliberately instead of "miracle" (*dynamis*) or "wonder" (*teras*). The temple clearing (vv.13–22) introduces the distinction between ναός (*naos*, the inner sanctuary) and ἱερόν (*hieron*, the temple complex). The chapter closes with a narrator's comment on Yeshua's knowledge of human nature (vv.23–25). Proper names follow TT transliteration: Qanah (not Cana), Yeshua (not Jesus), Kfar Nachum (not Capernaum), Yerushalayim (not Jerusalem).
+**This chapter contains two major scenes and a transitional note.** The wedding at Qanah (vv.1–12) introduces the first "sign" (*sēmeion*) — a term John uses deliberately instead of "miracle" (*dynamis*) or "wonder" (*teras*). The temple clearing (vv.13–22) introduces the distinction between ναός (*naos*, the inner sanctuary) and ἱερόν (*hieron*, the temple complex). The chapter closes with a narrator's comment on Yeshua's knowledge of human nature (vv.23–25). Names appear in their familiar form, with the source-language form given once per section — e.g. Yochanan (John).
 
 ---
 

@@ -22,7 +22,7 @@
 - [Lectura Continua](#lectura-continua)
 - [Estudio Versículo por Versículo](#estudio-versículo-por-versículo)
 - [Glosario — 1 Pedro 1](#glosario--1-pedro-1)
-- [Seguimiento entre Capítulos (BH -> 1 Pedro)](#seguimiento-entre-capítulos-bh--1-pedro)
+- [Seguimiento entre Capítulos (BH → 1 Pedro)](#seguimiento-entre-capítulos-bh--1-pedro)
 
 ---
 
@@ -37,7 +37,7 @@
 
 Las notas se etiquetan por tipo — **Crítico · Léxico · Gramatical · Teológico** — cada una con su color (vea la leyenda en la parte superior de la vista de Notas).
 
-**Este es el comienzo de 1 Pedro — la primera *carta* del corpus.** Es una epístola circular a creyentes dispersos — "elegidos peregrinos de la dispersión" — a lo largo de cinco provincias de Asia Menor (1:1, provincias que se superponen con la lista de peregrinos de Hechos 2:9). El capítulo 1 tiene el **saludo** epistolar (vv.1-2), luego una sola y elevada oración griega de **bendición** (vv.3-12) sobre el nuevo nacimiento, la esperanza viva, la herencia incorruptible y la salvación que los profetas escudriñaron; luego las primeras **exhortaciones** — a la santidad (vv.13-21) y al amor de un corazón puro (vv.22-25). **Nota sobre la marcación del habla (Regla 30):** 1 Pedro es la exhortación del apóstol en su propia voz — no hay habla divina narrada; solo la palabra de Dios en primera persona *dentro* de una cita del AT se marca (1:16, "yo soy santo," de Levítico). Los nombres propios siguen la transliteración TT: Kefa (Pedro), Yeshua (Jesús).
+**Este es el comienzo de 1 Pedro — la primera *carta* del corpus.** Es una epístola circular a creyentes dispersos — "elegidos peregrinos de la dispersión" — a lo largo de cinco provincias de Asia Menor (1:1, provincias que se superponen con la lista de peregrinos de Hechos 2:9). El capítulo 1 tiene el **saludo** epistolar (vv.1-2), luego una sola y elevada oración griega de **bendición** (vv.3-12) sobre el nuevo nacimiento, la esperanza viva, la herencia incorruptible y la salvación que los profetas escudriñaron; luego las primeras **exhortaciones** — a la santidad (vv.13-21) y al amor de un corazón puro (vv.22-25). **Nota sobre la marcación del habla (Regla 30):** 1 Pedro es la exhortación del apóstol en su propia voz — no hay habla divina narrada; solo la palabra de Dios en primera persona *dentro* de una cita del AT se marca (1:16, "yo soy santo," de Levítico). Los nombres aparecen en su forma familiar, con la forma de la lengua original indicada una vez por sección — p. ej., Yochanan (Juan).
 
 ---
 
@@ -65,7 +65,7 @@ Las notas se etiquetan por tipo — **Crítico · Léxico · Gramatical · Teol�
 
 ¹⁰Acerca de esta salvación, los profetas buscaron e indagaron *cuidadosamente*, los que profetizaron acerca de la gracia *que vendría* a ustedes, ¹¹indagando en qué o en qué tiempo señalaba el {a:viento/espíritu} *del* Mesías en ellos, dando testimonio de antemano de los sufrimientos *destinados* al Mesías y las glorias después de estos. ¹²A ellos les fue revelado que no para sí mismos, sino para ustedes, servían estas *cosas*, que ahora les han sido anunciadas por medio de los que les predicaron las buenas nuevas por *el* {a:viento/espíritu} santo enviado del cielo — *cosas* en las que los ángeles anhelan mirar.
 
-¹³Por tanto, habiendo ceñido los lomos de su mente, siendo sobrios, pongan su esperanza completamente en la gracia que se les trae en *la* revelación de Yeshua *el* Mesías (Jesús). ¹⁴Como hijos de obediencia, no conformándose a los deseos anteriores *que tenían* en su ignorancia, ¹⁵sino, conforme al Santo que los llamó, sean también ustedes mismos santos en toda *su* conducta, ¹⁶porque está escrito: @@"Sean santos, porque yo *soy* santo."@@ ¹⁷Y si invocan como Padre a Aquel que juzga imparcialmente según la obra de cada uno, condúzcanse con temor *durante* el tiempo de su peregrinación, ¹⁸sabiendo que no con *cosas* perecederas — plata u oro — fueron rescatados de su vana manera de vivir heredada de los padres, ¹⁹sino con *la* preciosa sangre, como de un cordero sin defecto y sin mancha, del Mesías, ²⁰conocido de antemano antes de *la* fundación del mundo pero revelado en *los* últimos de los tiempos por ustedes, ²¹que por medio de él *son* fieles hacia Dios, Aquel que lo resucitó de *entre* los muertos y le dio gloria, para que su fe y esperanza estén en Dios.
+¹³Por tanto, habiendo ceñido los lomos de su mente, siendo sobrios, pongan su esperanza completamente en la gracia que se les trae en *la* revelación de Yeshua *el* Mesías (Jesús). ¹⁴Como hijos de obediencia, no conformándose a los deseos anteriores *que tenían* en su ignorancia, ¹⁵sino, conforme al Santo que los llamó, sean también ustedes mismos santos en toda *su* conducta, ¹⁶porque está escrito: "Sean santos, porque yo *soy* santo." ¹⁷Y si invocan como Padre a Aquel que juzga imparcialmente según la obra de cada uno, condúzcanse con temor *durante* el tiempo de su peregrinación, ¹⁸sabiendo que no con *cosas* perecederas — plata u oro — fueron rescatados de su vana manera de vivir heredada de los padres, ¹⁹sino con *la* preciosa sangre, como de un cordero sin defecto y sin mancha, del Mesías, ²⁰conocido de antemano antes de *la* fundación del mundo pero revelado en *los* últimos de los tiempos por ustedes, ²¹que por medio de él *son* fieles hacia Dios, Aquel que lo resucitó de *entre* los muertos y le dio gloria, para que su fe y esperanza estén en Dios.
 
 ²²Habiendo purificado sus almas en la obediencia de la verdad para un amor fraternal sincero, ámense unos a otros fervientemente de un corazón puro, ²³habiendo sido nacidos de nuevo, no de simiente perecedera sino imperecedera, por medio de *la* viva y permanente palabra de Dios. ²⁴Porque "toda carne *es* como hierba, y toda su gloria como *la* flor de la hierba; la hierba se secó, y la flor se cayó, ²⁵pero la palabra del Señor permanece para siempre." Y esta es la palabra que les fue predicada como buenas nuevas.
 
@@ -243,7 +243,7 @@ sino, conforme al Santo que los llamó, sean también ustedes mismos santos en t
 
 ### **Versículo 16**
 
-porque está escrito: @@"Sean santos, porque yo *soy* santo."@@
+porque está escrito: "Sean santos, porque yo *soy* santo."
 
 > **Notas**
 >
@@ -369,7 +369,7 @@ pero la palabra del Señor permanece para siempre." Y esta es la palabra que les
 
 ---
 
-## SEGUIMIENTO ENTRE CAPÍTULOS (BH -> 1 Pedro)
+## SEGUIMIENTO ENTRE CAPÍTULOS (BH → 1 Pedro)
 
 | BH / fuente anterior | Tema | En 1 Pedro 1 |
 |---------------------|-------|--------------|

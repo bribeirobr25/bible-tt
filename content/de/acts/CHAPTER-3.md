@@ -21,7 +21,7 @@
 - [Fortlaufende Lesung](#fortlaufende-lesung)
 - [Vers-für-Vers-Studie](#vers-für-vers-studie)
 - [Glossar — Apostelgeschichte 3](#glossar--apostelgeschichte-3)
-- [Kapitelübergreifende Verfolgung (HB -> Apostelgeschichte)](#kapitelübergreifende-verfolgung-hb--apostelgeschichte)
+- [Kapitelübergreifende Verfolgung (HB → Apostelgeschichte)](#kapitelübergreifende-verfolgung-hb--apostelgeschichte)
 
 ---
 
@@ -62,7 +62,7 @@ Notizen sind nach Typ gekennzeichnet — **Kritisch · Lexikalisch · Grammatisc
 
 ¹¹Und während er an Kefa (Petrus) und Yochanan (Johannes) festhielt, lief das ganze Volk zu ihnen zusammen bei der Halle, die *Shlomohs* (Salomos) genannt wird, ganz außer sich. ¹²Und als Kefa (Petrus) *dies* sah, antwortete er dem Volk: „Männer, Israeliten, was wundert ihr euch über dies, oder was blickt ihr uns an, als hätten wir durch unsere eigene Kraft oder Frömmigkeit ihn zum Gehen gebracht? ¹³Der Gott Avrahams (Abraham) und *des* Yitschaq (Isaak) und *des* Ya'aqov (Jakob), der Gott unserer Väter, hat seinen Knecht Yeshua (Jesus) verherrlicht, den ihr ausliefertet und verleugnetet vor *dem* Angesicht des Pilatus, *als* jener entschieden hatte, *ihn* freizulassen. ¹⁴Ihr aber verleugnetet den heiligen und gerechten *einen* und batet *darum*, dass euch ein Mann, ein Mörder, gewährt werde, ¹⁵aber den Urheber des Lebens tötetet ihr, den Gott aus *den* Toten auferweckte — wovon wir Zeugen sind. ¹⁶Und aufgrund des Glaubens an seinen Namen — diesen *einen*, den ihr seht und kennt — hat sein Name *ihn* fest gemacht; und der Glaube, *der* durch ihn *ist*, hat ihm diese Ganzheit gegeben vor euch allen.
 
-¹⁷„Und nun, Brüder, ich weiß, dass ihr nach Unwissenheit gehandelt habt, so wie auch eure Herrscher; ¹⁸aber Gott hat die *Dinge*, die er durch *den* Mund aller Propheten vorhergesagt hat — dass sein Gesalbter leiden würde — so erfüllt. ¹⁹Ändert darum *euren* Sinn und kehrt um, zur Auslöschung eurer Sünden, ²⁰damit Zeiten der Erquickung kommen vom *dem* Angesicht des Herrn, und *damit* er den *einen* sende, der für euch vorherbestimmt ist, *den* Gesalbten, Yeshua (Jesus), ²¹den der Himmel aufnehmen muss bis zu *den* Zeiten der Wiederherstellung aller *Dinge*, von denen Gott durch *den* Mund seiner heiligen Propheten von alters her geredet hat. ²²Mosheh (Mose) sagte zwar: ‚Einen Propheten für euch wird *der* Herr Gott aus euren Brüdern erwecken, wie mich; auf ihn sollt ihr hören in allen *Dingen*, was immer er zu euch reden mag. ²³Und es wird sein, *dass* jede Seele, wer auch immer nicht auf jenen Propheten hört, völlig ausgerottet werden wird aus dem Volk.' ²⁴Und auch alle Propheten, von Shmuel (Samuel) an und denen, *die danach kamen*, so viele geredet haben, kündigten auch diese Tage an. ²⁵Ihr seid die Söhne der Propheten und des Bundes, den Gott mit euren Vätern schloss, indem er zu Avraham (Abraham) sprach: @@‚Und in deinem Samen werden alle Geschlechter der Erde gesegnet werden.'@@ ²⁶Zu euch zuerst hat Gott, nachdem er seinen Knecht auferweckt hatte, ihn gesandt, indem er euch segnet *dadurch, dass* ein jeder *von euch* von euren Bosheiten umkehrt."
+¹⁷„Und nun, Brüder, ich weiß, dass ihr nach Unwissenheit gehandelt habt, so wie auch eure Herrscher; ¹⁸aber Gott hat die *Dinge*, die er durch *den* Mund aller Propheten vorhergesagt hat — dass sein Gesalbter leiden würde — so erfüllt. ¹⁹Ändert darum *euren* Sinn und kehrt um, zur Auslöschung eurer Sünden, ²⁰damit Zeiten der Erquickung kommen *vom* Angesicht des Herrn, und *damit* er den *einen* sende, der für euch vorherbestimmt ist, *den* Gesalbten, Yeshua (Jesus), ²¹den der Himmel aufnehmen muss bis zu *den* Zeiten der Wiederherstellung aller *Dinge*, von denen Gott durch *den* Mund seiner heiligen Propheten von alters her geredet hat. ²²Mosheh (Mose) sagte zwar: ‚Einen Propheten für euch wird *der* Herr Gott aus euren Brüdern erwecken, wie mich; auf ihn sollt ihr hören in allen *Dingen*, was immer er zu euch reden mag. ²³Und es wird sein, *dass* jede Seele, wer auch immer nicht auf jenen Propheten hört, völlig ausgerottet werden wird aus dem Volk.' ²⁴Und auch alle Propheten, von Shmuel (Samuel) an und denen, *die danach kamen*, so viele geredet haben, kündigten auch diese Tage an. ²⁵Ihr seid die Söhne der Propheten und des Bundes, den Gott mit euren Vätern schloss, indem er zu Avraham (Abraham) sprach: ‚Und in deinem Samen werden alle Geschlechter der Erde gesegnet werden.' ²⁶Zu euch zuerst hat Gott, nachdem er seinen Knecht auferweckt hatte, ihn gesandt, indem er euch segnet *dadurch, dass* ein jeder *von euch* von euren Bosheiten umkehrt."
 
 ---
 
@@ -279,12 +279,12 @@ aber Gott hat die *Dinge*, die er durch *den* Mund aller Propheten vorhergesagt 
 
 ### **Vers 20**
 
-damit Zeiten der Erquickung kommen vom *dem* Angesicht des Herrn, und *damit* er den *einen* sende, der für euch vorherbestimmt ist, *den* Gesalbten, Yeshua (Jesus),
+damit Zeiten der Erquickung kommen *vom* Angesicht des Herrn, und *damit* er den *einen* sende, der für euch vorherbestimmt ist, *den* Gesalbten, Yeshua (Jesus),
 
 > **Notizen**
 >
 > 🔵 **„ZEITEN DER ERQUICKUNG" + κύριος = JHWH**
-> - **καιροὶ ἀναψύξεως ἀπὸ προσώπου τοῦ κυρίου** (*kairoi anapsyxeōs apo prosōpou tou kyriou*) = „Zeiten der Erquickung vom *dem* Angesicht des Herrn." *Kyrios* = **JHWH** (Option C). *Anapsyxis* („Erquickung, Erleichterung") ist selten — die eschatologische Erleichterung, an die Umkehr gebunden. Der Gesalbte ist für sie „**vorherbestimmt**" (*prokecheirismenon*).
+> - **καιροὶ ἀναψύξεως ἀπὸ προσώπου τοῦ κυρίου** (*kairoi anapsyxeōs apo prosōpou tou kyriou*) = „Zeiten der Erquickung *vom* Angesicht des Herrn." *Kyrios* = **JHWH** (Option C). *Anapsyxis* („Erquickung, Erleichterung") ist selten — die eschatologische Erleichterung, an die Umkehr gebunden. Der Gesalbte ist für sie „**vorherbestimmt**" (*prokecheirismenon*).
 
 ---
 
@@ -334,7 +334,7 @@ Und auch alle Propheten, von Shmuel (Samuel) an und denen, *die danach kamen*, s
 
 ### **Vers 25**
 
-Ihr seid die Söhne der Propheten und des Bundes, den Gott mit euren Vätern schloss, indem er zu Avraham (Abraham) sprach: @@‚Und in deinem Samen werden alle Geschlechter der Erde gesegnet werden.'@@
+Ihr seid die Söhne der Propheten und des Bundes, den Gott mit euren Vätern schloss, indem er zu Avraham (Abraham) sprach: ‚Und in deinem Samen werden alle Geschlechter der Erde gesegnet werden.'
 
 > **Notizen**
 >
@@ -371,7 +371,7 @@ Zu euch zuerst hat Gott, nachdem er seinen Knecht auferweckt hatte, ihn gesandt,
 
 ---
 
-## Kapitelübergreifende Verfolgung (HB -> Apostelgeschichte)
+## Kapitelübergreifende Verfolgung (HB → Apostelgeschichte)
 
 | HB / frühere Quelle | Thema | In Apostelgeschichte 3 |
 |---------------------|-------|-----------|

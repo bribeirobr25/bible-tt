@@ -22,7 +22,7 @@
 - [Leitura Contínua](#leitura-contínua)
 - [Estudo Verso a Verso](#estudo-verso-a-verso)
 - [Glossário — Atos 2](#glossário---atos-2)
-- [Rastreamento entre Capítulos (BH -> Atos)](#rastreamento-entre-capítulos-bh---atos)
+- [Rastreamento entre Capítulos (BH → Atos)](#rastreamento-entre-capítulos-bh---atos)
 
 ---
 
@@ -63,11 +63,11 @@ As notas são marcadas por tipo — **Crítico · Lexical · Gramatical · Teol�
 
 ⁵Ora, estavam habitando em Yerushalayim (Jerusalém) judeus (Yehudim), homens devotos de toda nação dos *que estão* sob o céu. ⁶E *quando* ocorreu este som, a multidão se reuniu e ficou confusa, porque cada um os ouvia falar na sua própria língua. ⁷E ficaram pasmados e maravilhados, dizendo: "Eis que não são todos estes que falam galileus? ⁸E como *é que* ouvimos, cada *um de nós*, *na* nossa própria língua em que nascemos? ⁹Partos e medos e elamitas, e os que habitam *na* Mesopotâmia, Yehudah (Judeia) e Capadócia, Ponto e Ásia, ¹⁰Frígia e Panfília, Egito e as partes da Líbia *em direção a* Cirene, e os romanos visitantes, ¹¹tanto judeus (Yehudim) quanto prosélitos, cretenses e árabes — nós os ouvimos falar nas nossas *próprias* {a:línguas/idiomas} os grandes *feitos* de Deus." ¹²E todos ficaram pasmados e perplexos, dizendo uns aos outros: "Que quer isto ser?" ¹³Mas outros, zombando, diziam que "Estão cheios de vinho doce."
 
-¹⁴Mas Kefa (Pedro), de pé com os onze, levantou a voz e declarou-lhes: "Homens, judeus (Yehudim), e todos os que habitais *em* Yerushalayim (Jerusalém), seja-vos isto conhecido, e dai ouvidos às minhas palavras. ¹⁵Pois estes *homens* não estão embriagados, como supondes, pois é *a* terceira hora do dia; ¹⁶mas isto é o que foi falado pelo profeta Yoel (Joel): ¹⁷@@'E acontecerá nos últimos dias, diz Deus, *que* derramarei do meu {a:vento/espírito} sobre toda carne, e os vossos filhos e as vossas filhas profetizarão, e os vossos jovens verão visões, e os vossos anciãos sonharão sonhos; ¹⁸e até mesmo sobre os meus servos e sobre as minhas servas naqueles dias derramarei do meu {a:vento/espírito}, e profetizarão. ¹⁹E darei prodígios no céu acima e sinais sobre a terra abaixo — sangue e fogo e vapor de fumaça. ²⁰O sol se converterá em trevas e a lua em sangue, antes que venha o dia *do* Senhor — o grande e manifesto *dia*. ²¹E acontecerá *que* todo aquele que invocar o nome *do* Senhor será salvo.'@@
+¹⁴Mas Kefa (Pedro), de pé com os onze, levantou a voz e declarou-lhes: "Homens, judeus (Yehudim), e todos os que habitais *em* Yerushalayim (Jerusalém), seja-vos isto conhecido, e dai ouvidos às minhas palavras. ¹⁵Pois estes *homens* não estão embriagados, como supondes, pois é *a* terceira hora do dia; ¹⁶mas isto é o que foi falado pelo profeta Yoel (Joel): ¹⁷'E acontecerá nos últimos dias, diz Deus, *que* derramarei do meu {a:vento/espírito} sobre toda carne, e os vossos filhos e as vossas filhas profetizarão, e os vossos jovens verão visões, e os vossos anciãos sonharão sonhos; ¹⁸e até mesmo sobre os meus servos e sobre as minhas servas naqueles dias derramarei do meu {a:vento/espírito}, e profetizarão. ¹⁹E darei prodígios no céu acima e sinais sobre a terra abaixo — sangue e fogo e vapor de fumaça. ²⁰O sol se converterá em trevas e a lua em sangue, antes que venha o dia *do* Senhor — o grande e manifesto *dia*. ²¹E acontecerá *que* todo aquele que invocar o nome *do* Senhor será salvo.'
 
 ²²"Homens, israelitas, ouvi estas palavras: Yeshua o Nazareno (Yeshua *o* Nazareno), um homem demonstrado a vós *como sendo* de Deus por obras poderosas e prodígios e sinais que Deus fez por meio dele no vosso meio, assim como vós mesmos sabeis — ²³este, entregue pelo plano determinado e pela presciência de Deus, vós, *pela* mão de *homens* sem lei, pregastes *na cruz e* matastes; ²⁴a quem Deus ressuscitou, tendo desatado as dores de parto da morte, porque não era possível *que* ele fosse retido por ela. ²⁵Pois David diz a respeito dele: 'Eu via o Senhor diante de mim sempre, porque ele está à minha direita, para que eu não seja abalado. ²⁶Por isso o meu coração se alegrou e a minha língua exultou; e ainda a minha carne também repousará sobre esperança, ²⁷porque não abandonarás a minha alma ao {t:Hades}, nem darás o teu santo *para* ver corrupção. ²⁸Fizeste-me conhecer caminhos de vida; encher-me-ás de alegria com a tua face.'
 
-²⁹"Homens, irmãos, *é-me* permitido dizer-vos com ousadia a respeito do patriarca David, que ele tanto morreu quanto foi sepultado, e o seu túmulo está entre nós até este dia. ³⁰Portanto, sendo profeta, e sabendo que Deus lhe jurou com juramento *que* do fruto dos seus lombos *assentaria um* sobre o seu trono, ³¹*olhando* adiante, falou a respeito da ressurreição do Messias, que nem foi abandonado ao {t:Hades} nem a sua carne viu corrupção. ³²Este Yeshua (Jesus) Deus ressuscitou, do que todos nós somos testemunhas. ³³Portanto, exaltado à direita de Deus, e tendo recebido do Pai a promessa do {a:vento/espírito} santo, ele derramou isto que vós *tanto* vedes quanto ouvis. ³⁴Pois David não ascendeu aos céus, mas ele mesmo diz: 'O Senhor disse ao meu senhor, @@"Senta-te à minha direita, ³⁵até que eu ponha os teus inimigos *como* estrado dos teus pés."@@' ³⁶Portanto, saiba com certeza toda *a* casa de Israel que Deus o fez tanto Senhor quanto Messias — este Yeshua (Jesus) a quem vós crucificastes."
+²⁹"Homens, irmãos, *é-me* permitido dizer-vos com ousadia a respeito do patriarca David, que ele tanto morreu quanto foi sepultado, e o seu túmulo está entre nós até este dia. ³⁰Portanto, sendo profeta, e sabendo que Deus lhe jurou com juramento *que* do fruto dos seus lombos *assentaria um* sobre o seu trono, ³¹*olhando* adiante, falou a respeito da ressurreição do Messias, que nem foi abandonado ao {t:Hades} nem a sua carne viu corrupção. ³²Este Yeshua (Jesus) Deus ressuscitou, do que todos nós somos testemunhas. ³³Portanto, exaltado à direita de Deus, e tendo recebido do Pai a promessa do {a:vento/espírito} santo, ele derramou isto que vós *tanto* vedes quanto ouvis. ³⁴Pois David não ascendeu aos céus, mas ele mesmo diz: 'O Senhor disse ao meu senhor, "Senta-te à minha direita, ³⁵até que eu ponha os teus inimigos *como* estrado dos teus pés."' ³⁶Portanto, saiba com certeza toda *a* casa de Israel que Deus o fez tanto Senhor quanto Messias — este Yeshua (Jesus) a quem vós crucificastes."
 
 ³⁷E ouvindo *isto*, foram traspassados no coração, e disseram a Kefa (Pedro) e aos demais apóstolos: "Que faremos, homens, irmãos?" ³⁸E Kefa (Pedro) *disse-*lhes: "Mudai *de* mentalidade, e seja cada um de vós imerso sobre o nome de Yeshua *o* Messias (Jesus) para *a* liberação dos vossos pecados, e recebereis o dom do {a:vento/espírito} santo. ³⁹Pois para vós é a promessa, e para os vossos filhos, e para todos os que estão à distância, quantos *o* Senhor nosso Deus chamar a si." ⁴⁰E com muitas outras palavras testemunhou solenemente e os exortava, dizendo: "Salvai-vos desta geração perversa." ⁴¹Então os que acolheram a sua palavra foram imersos, e foram acrescentadas naquele dia cerca de três mil almas.
 
@@ -255,7 +255,7 @@ mas isto é o que foi falado pelo profeta Yoel (Joel):
 
 ### **Versículo 17**
 
-@@'E acontecerá nos últimos dias, diz Deus, *que* derramarei do meu {a:vento/espírito} sobre toda carne, e os vossos filhos e as vossas filhas profetizarão, e os vossos jovens verão visões, e os vossos anciãos sonharão sonhos;
+'E acontecerá nos últimos dias, diz Deus, *que* derramarei do meu {a:vento/espírito} sobre toda carne, e os vossos filhos e as vossas filhas profetizarão, e os vossos jovens verão visões, e os vossos anciãos sonharão sonhos;
 
 > **Notas**
 >
@@ -299,7 +299,7 @@ O sol se converterá em trevas e a lua em sangue, antes que venha o dia *do* Sen
 
 ### **Versículo 21**
 
-E acontecerá *que* todo aquele que invocar o nome *do* Senhor será salvo.'@@
+E acontecerá *que* todo aquele que invocar o nome *do* Senhor será salvo.'
 
 > **Notas**
 >
@@ -442,7 +442,7 @@ Portanto, exaltado à direita de Deus, e tendo recebido do Pai a promessa do {a:
 
 ### **Versículo 34**
 
-Pois David não ascendeu aos céus, mas ele mesmo diz: 'O Senhor disse ao meu senhor, @@"Senta-te à minha direita,
+Pois David não ascendeu aos céus, mas ele mesmo diz: 'O Senhor disse ao meu senhor, "Senta-te à minha direita,
 
 > **Notas**
 >
@@ -453,7 +453,7 @@ Pois David não ascendeu aos céus, mas ele mesmo diz: 'O Senhor disse ao meu se
 
 ### **Versículo 35**
 
-até que eu ponha os teus inimigos *como* estrado dos teus pés."@@'
+até que eu ponha os teus inimigos *como* estrado dos teus pés."'
 
 > **Notas**
 >
@@ -612,7 +612,7 @@ louvando a Deus e tendo favor diante de todo o povo. E o Senhor acrescentava dia
 
 ---
 
-## Rastreamento entre Capítulos (BH -> Atos)
+## Rastreamento entre Capítulos (BH → Atos)
 
 | BH / fonte anterior | Tema | Em Atos 2 |
 |---------------------|-------|-----------|

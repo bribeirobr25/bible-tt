@@ -240,38 +240,6 @@ Das Kapitel eröffnet und schließt mit demselben Verb. Die Frauen sollen sich a
 
 ---
 
-## H. Konsultierte Quellen
-
-| Quelle | Typ | Verwendet in Abschnitten |
-|--------|------|-----------------|
-| Achtemeier, P.J., *1 Peter*, Hermeneia, 1996 | PEER-REVIEWED (commentary) | D, F |
-| Aristotle, *Politics*, Loeb Classical Library | PRIMARY | B |
-| Balch, D.L., *Let Wives Be Submissive: The Domestic Code in 1 Peter*, 1981 | PEER-REVIEWED (monograph) | B, C, I |
-| Bauckham, R., *Jude, 2 Peter*, WBC 50, 1983 | PEER-REVIEWED (commentary) | B |
-| Bauer, W., *A Greek-English Lexicon of the NT* (BDAG), 3. Aufl., 2000 | PEER-REVIEWED (lexicon) | D |
-| Bird, J.G., *Abuse, Power and Fearful Obedience*, LNTS, 2011 | PEER-REVIEWED (monograph) | F |
-| Charlesworth, J.H. (Hrsg.), *The Old Testament Pseudepigrapha*, Bd. 1, 1983 | PRIMARY (text collection) | B |
-| Dalton, W.J., *Christ's Proclamation to the Spirits*, 2. Aufl., 1989 | PEER-REVIEWED (monograph) | F |
-| Eckstein, H.-J., *Der Begriff Syneidesis bei Paulus*, 1983 | PEER-REVIEWED (monograph) | D |
-| Edwards, M., Goodman, M., Price, S. (Hrsg.), *Apologetics in the Roman Empire*, 1999 | PEER-REVIEWED (monograph) | F |
-| Elliott, J.H., *1 Peter*, Anchor Bible 37B, 2000 | PEER-REVIEWED (commentary) | C, I |
-| Goppelt, L., *Typos: The Typological Interpretation of the OT in the NT*, 1982 | PEER-REVIEWED (monograph) | D |
-| Grant, R.M., *Greek Apologists of the Second Century*, 1988 | PEER-REVIEWED (monograph) | F |
-| Hemelrijk, E.A., *Matrona Docta: Educated Women in the Roman Élite*, 1999 | PEER-REVIEWED (monograph) | I |
-| Horrell, D.G., *1 Peter*, New Testament Guides, 2008 | PEER-REVIEWED (monograph) | C |
-| Josephus, *Against Apion*, Loeb Classical Library | PRIMARY | B |
-| Kittredge, C.B., *Community and Authority*, HTS, 1998 | PEER-REVIEWED (monograph) | F |
-| Liddell und Scott, *Greek-English Lexicon*, 9. Aufl. | PEER-REVIEWED (lexicon) | D |
-| Lieu, J., *Neither Jew nor Greek? Constructing Early Christianity*, 2002 | PEER-REVIEWED (monograph) | C |
-| Moulton, J.H. und Milligan, G., *The Vocabulary of the Greek Testament*, 1930 | PEER-REVIEWED (reference) | D |
-| Nestle-Aland, *Novum Testamentum Graece*, 28. Aufl. | PRIMARY | A, D, G |
-| Nickelsburg, G.W.E., *1 Enoch 1: A Commentary*, Hermeneia, 2001 | PEER-REVIEWED (commentary) | B |
-| Plutarch, *Coniugalia praecepta* (*Moralia*), Loeb Classical Library | PRIMARY | C, I |
-| Trumbower, J.A., *Rescue for the Dead*, 2001 | PEER-REVIEWED (monograph) | F |
-| Treggiari, S., *Roman Marriage*, Oxford University Press, 1991 | PEER-REVIEWED (monograph) | I |
-
----
-
 ## I. Die Welt zur damaligen Zeit
 
 > **Die Welt der Empfänger.** Anders als die Begleitmaterialien zu Evangelium und Apostelgeschichte (im Judäa des Zweiten Tempels angesiedelt) richtet sich 1. Petrus an verstreute Gläubige in den **griechisch-römischen Provinzen Kleinasiens** (Pontus, Galatien, Kappadokien, Asien, Bithynien — 1,1; §C1) im späteren ersten Jahrhundert n. Chr. Die Hausanweisungen des Kapitels (Vv.1-7) sprechen unmittelbar in die **Ehe- und Hausnormen der weiteren griechisch-römischen Welt** hinein — weshalb sich dieser Abschnitt I auf jenes häuslich-soziale Umfeld konzentriert statt auf die Tempelstadt. Die flache Form `### [Thema]` wird verwendet (die Voreinstellung).
@@ -307,6 +275,39 @@ Die Trias von 3,3 — geflochtenes Haar, goldener Schmuck, feine Kleidung — wa
 **Quelle:** Balch, D.L., *Let Wives Be Submissive*, Scholars Press, 1981, S. 95-116; Hemelrijk, E.A., *Matrona Docta*, Routledge, 1999; Treggiari, S., *Roman Marriage*, Oxford University Press, 1991.
 
 ---
+
+## H. Konsultierte Quellen
+
+| Quelle | Typ | Verwendet in Abschnitten |
+|--------|------|-----------------|
+| Achtemeier, P.J., *1 Peter*, Hermeneia, 1996 | PEER-REVIEWED (commentary) | D, F |
+| Aristotle, *Politics*, Loeb Classical Library | PRIMARY | B |
+| Balch, D.L., *Let Wives Be Submissive: The Domestic Code in 1 Peter*, 1981 | PEER-REVIEWED (monograph) | B, C, I |
+| Bauckham, R., *Jude, 2 Peter*, WBC 50, 1983 | PEER-REVIEWED (commentary) | B |
+| Bauer, W., *A Greek-English Lexicon of the NT* (BDAG), 3. Aufl., 2000 | PEER-REVIEWED (lexicon) | D |
+| Bird, J.G., *Abuse, Power and Fearful Obedience*, LNTS, 2011 | PEER-REVIEWED (monograph) | F |
+| Charlesworth, J.H. (Hrsg.), *The Old Testament Pseudepigrapha*, Bd. 1, 1983 | PRIMARY (text collection) | B |
+| Dalton, W.J., *Christ's Proclamation to the Spirits*, 2. Aufl., 1989 | PEER-REVIEWED (monograph) | F |
+| Eckstein, H.-J., *Der Begriff Syneidesis bei Paulus*, 1983 | PEER-REVIEWED (monograph) | D |
+| Edwards, M., Goodman, M., Price, S. (Hrsg.), *Apologetics in the Roman Empire*, 1999 | PEER-REVIEWED (monograph) | F |
+| Elliott, J.H., *1 Peter*, Anchor Bible 37B, 2000 | PEER-REVIEWED (commentary) | C, I |
+| Goppelt, L., *Typos: The Typological Interpretation of the OT in the NT*, 1982 | PEER-REVIEWED (monograph) | D |
+| Grant, R.M., *Greek Apologists of the Second Century*, 1988 | PEER-REVIEWED (monograph) | F |
+| Hemelrijk, E.A., *Matrona Docta: Educated Women in the Roman Élite*, 1999 | PEER-REVIEWED (monograph) | I |
+| Horrell, D.G., *1 Peter*, New Testament Guides, 2008 | PEER-REVIEWED (monograph) | C |
+| Josephus, *Against Apion*, Loeb Classical Library | PRIMARY | B |
+| Kittredge, C.B., *Community and Authority*, HTS, 1998 | PEER-REVIEWED (monograph) | F |
+| Liddell und Scott, *Greek-English Lexicon*, 9. Aufl. | PEER-REVIEWED (lexicon) | D |
+| Lieu, J., *Neither Jew nor Greek? Constructing Early Christianity*, 2002 | PEER-REVIEWED (monograph) | C |
+| Moulton, J.H. und Milligan, G., *The Vocabulary of the Greek Testament*, 1930 | PEER-REVIEWED (reference) | D |
+| Nestle-Aland, *Novum Testamentum Graece*, 28. Aufl. | PRIMARY | A, D, G |
+| Nickelsburg, G.W.E., *1 Enoch 1: A Commentary*, Hermeneia, 2001 | PEER-REVIEWED (commentary) | B |
+| Plutarch, *Coniugalia praecepta* (*Moralia*), Loeb Classical Library | PRIMARY | C, I |
+| Treggiari, S., *Roman Marriage*, Oxford University Press, 1991 | PEER-REVIEWED (monograph) | I |
+| Trumbower, J.A., *Rescue for the Dead*, 2001 | PEER-REVIEWED (monograph) | F |
+
+---
+
 
 **Redaktionelle Herkunft:**
 - Entworfen von: KI (Claude, Anthropic)

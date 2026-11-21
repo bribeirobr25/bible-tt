@@ -21,7 +21,7 @@
 - [Continuous Reading](#continuous-reading)
 - [Verse-by-Verse Study](#verse-by-verse-study)
 - [Glossary — Mark 2](#glossary---mark-2)
-- [Cross-Chapter Tracking (HB -> Mark)](#cross-chapter-tracking-hb--mark)
+- [Cross-Chapter Tracking (HB → Mark)](#cross-chapter-tracking-hb--mark)
 
 ---
 
@@ -401,9 +401,9 @@ so that the Son of Man is lord even of the sabbath."
 
 ---
 
-## CROSS-CHAPTER TRACKING (HB -> Mark)
+## CROSS-CHAPTER TRACKING (HB → Mark)
 
-**1 Samuel 21:1–6 -> Mark 2:25–26 — David and the consecrated bread:**
+**1 Samuel 21:1–6 → Mark 2:25–26 — David and the consecrated bread:**
 
 | Element | 1 Samuel 21 | Mark 2:25–26 |
 |---------|-------------|--------------|
@@ -412,7 +412,7 @@ so that the Son of Man is lord even of the sabbath."
 | The priest | **Ahimelech** | "**Abiathar** the high priest" (a known discrepancy) |
 | The point | need overrides ritual restriction | the sabbath serves human need |
 
-**Daniel 7:13 -> Mark 2:10, 2:28 — "Son of Man":**
+**Daniel 7:13 → Mark 2:10, 2:28 — "Son of Man":**
 
 | Element | Daniel 7:13 | Mark 2:10, 28 |
 |---------|-------------|----------------|
@@ -420,7 +420,7 @@ so that the Son of Man is lord even of the sabbath."
 | Setting | coming with the clouds, given dominion | authority to forgive; lord of the sabbath |
 | Sense | exalted heavenly figure | generic + titular held together |
 
-**Genesis 2:2–3 / Exodus 20:8–11 -> Mark 2:27 — the sabbath:**
+**Genesis 2:2–3 / Exodus 20:8–11 → Mark 2:27 — the sabbath:**
 
 The sabbath as a creation gift "for the human" coheres with its institution at creation (Gen 2:2–3) and the Decalogue rationale (Exod 20:8–11) — rest grounded in human benefit, not human subordination to the day.
 

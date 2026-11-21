@@ -21,7 +21,7 @@
 - [Continuous Reading](#continuous-reading)
 - [Verse-by-Verse Study](#verse-by-verse-study)
 - [Glossary — Luke 2](#glossary---luke-2)
-- [Cross-Chapter Tracking (HB -> Luke)](#cross-chapter-tracking-hb--luke)
+- [Cross-Chapter Tracking (HB → Luke)](#cross-chapter-tracking-hb--luke)
 
 ---
 
@@ -36,7 +36,7 @@
 
 Notes are tagged by type — **Critical · Lexical · Grammatical · Theological** — each shown with its colour (see the legend at the top of the Notes view).
 
-**Luke 2 is the nativity chapter.** A census decree of Caesar Augustus, under Quirinius, brings Yosef and the pregnant Miryam from Natzeret to Beit-Lechem, the city of David (vv.1-5); there Yeshua is born and laid in a feeding-trough, "because there was no place for them in the *kataluma*" (vv.6-7). Messengers announce the birth to shepherds, and the heavenly host sings the Gloria (vv.8-20). On the eighth day the child is circumcised and named; he is presented in the temple at Yerushalayim, where Shimon receives him and sings the Nunc Dimittis, then speaks to Miryam (vv.21-35), and the prophetess Channah gives thanks (vv.36-38). The family returns to Natzeret and the child grows (vv.39-40). At twelve, the boy Yeshua remains in the temple and is found among the teachers; his words to his parents are the only saying recorded from his youth (vv.41-52). **Note on speech-marking (Rule 30):** the messenger and the heavenly host (the Gloria, vv.13-14) are *angelos*-class — their speech is NOT marked as divine. Shimon's and Channah's words are *human* — not marked. Only the boy Yeshua's saying (v.49) is divine-marked. The two canticles (Gloria, Nunc Dimittis) are *human/angelic* speech rendered as flowing prose. Proper names follow TT transliteration: Yeshua (not Jesus), Miryam (not Mary), Yosef (not Joseph), Beit-Lechem (not Bethlehem), Natzeret (not Nazareth), Yerushalayim (not Jerusalem), Shimon (not Simeon), Channah (not Anna).
+**Luke 2 is the nativity chapter.** A census decree of Caesar Augustus, under Quirinius, brings Yosef and the pregnant Miryam from Natzeret to Beit-Lechem, the city of David (vv.1-5); there Yeshua is born and laid in a feeding-trough, "because there was no place for them in the *kataluma*" (vv.6-7). Messengers announce the birth to shepherds, and the heavenly host sings the Gloria (vv.8-20). On the eighth day the child is circumcised and named; he is presented in the temple at Yerushalayim, where Shimon receives him and sings the Nunc Dimittis, then speaks to Miryam (vv.21-35), and the prophetess Channah gives thanks (vv.36-38). The family returns to Natzeret and the child grows (vv.39-40). At twelve, the boy Yeshua remains in the temple and is found among the teachers; his words to his parents are the only saying recorded from his youth (vv.41-52). **Note on speech-marking (Rule 30):** the messenger and the heavenly host (the Gloria, vv.13-14) are *angelos*-class — their speech is NOT marked as divine. Shimon's and Channah's words are *human* — not marked. Only the boy Yeshua's saying (v.49) is divine-marked. The two canticles (Gloria, Nunc Dimittis) are *human/angelic* speech rendered as flowing prose. Names appear in their familiar form, with the source-language form given once per section — e.g. Yochanan (John).
 
 ---
 
@@ -720,9 +720,9 @@ And Yeshua (Jesus) advanced in wisdom and stature and favor with God and people.
 
 ---
 
-## CROSS-CHAPTER TRACKING (HB -> Luke)
+## CROSS-CHAPTER TRACKING (HB → Luke)
 
-**1 Sam 16 / Mic 5:1 -> Luke 2:4-11 — Beit-Lechem (Bethlehem), David, and the shepherds:**
+**1 Sam 16 / Mic 5:1 → Luke 2:4-11 — Beit-Lechem (Bethlehem), David, and the shepherds:**
 
 | Element | 1 Samuel 16 / Micah 5 | Luke 2 |
 |---------|------------------------|--------|
@@ -732,7 +732,7 @@ And Yeshua (Jesus) advanced in wisdom and stature and favor with God and people.
 
 The nativity binds the birthplace, the Davidic descent, and the shepherd witnesses to the Bethlehem prophecy and to David, Israel's shepherd-king.
 
-**Ex 13:2, 12-15 / Lev 12 -> Luke 2:22-24 — the firstborn and the poor person's offering:**
+**Ex 13:2, 12-15 / Lev 12 → Luke 2:22-24 — the firstborn and the poor person's offering:**
 
 | Element | Exodus / Leviticus | Luke 2 |
 |---------|---------------------|--------|
@@ -742,7 +742,7 @@ The nativity binds the birthplace, the Davidic descent, and the shepherd witness
 
 The presentation observes Torah exactly and, through the bird-offering, quietly marks the family's poverty.
 
-**Isa 40:1-5 / 42:6 / 49:6 / 52:9-10 -> Luke 2:25-38 — consolation, salvation seen, light to the nations:**
+**Isa 40:1-5 / 42:6 / 49:6 / 52:9-10 → Luke 2:25-38 — consolation, salvation seen, light to the nations:**
 
 | Element | Isaiah | Luke 2 (Simeon / Anna) |
 |---------|--------|------------------------|
@@ -753,7 +753,7 @@ The presentation observes Torah exactly and, through the bird-offering, quietly 
 
 Simeon and Anna voice the Isaianic hope of comfort and salvation, now stretched explicitly to the nations alongside Israel.
 
-**1 Sam 2:26 / Judg 13:24 -> Luke 2:40, 52 — the growth-formula:**
+**1 Sam 2:26 / Judg 13:24 → Luke 2:40, 52 — the growth-formula:**
 
 | Element | 1 Samuel / Judges | Luke 2 |
 |---------|--------------------|--------|

@@ -22,7 +22,7 @@
 - [Leitura Contínua](#leitura-contínua)
 - [Estudo Verso a Verso](#estudo-verso-a-verso)
 - [Glossário — Mateus 3](#glossário---mateus-3)
-- [Rastreamento entre Capítulos (BH -> Mateus)](#rastreamento-entre-capítulos-bh---mateus)
+- [Rastreamento entre Capítulos (BH → Mateus)](#rastreamento-entre-capítulos-bh---mateus)
 
 ---
 
@@ -37,7 +37,7 @@
 
 As notas são marcadas por tipo — **Crítico · Lexical · Gramatical · Teológico** — cada uma com sua cor (veja a legenda no topo da visão de Notas).
 
-**Este capítulo introduz Yochanan (João) o Imersor e "o reino dos céus".** A expressão *basileia tōn ouranōn* ("reino dos céus") aparece pela primeira vez em Mateus — uma expressão exclusiva deste Evangelho (os outros Evangelhos usam "reino de Deus"). A TT traduz *ouranōn* como "céus" conforme alinhamento com o hebraico *shamayim*. A prática de *baptisma* de João é traduzida como "imersão" conforme glossário travado. Os nomes próprios seguem a transliteração TT: João (não João), Perushim (Fariseus) (não Fariseus), Tsduqim (Saduceus) (não Saduceus), Yarden (Jordão) (não Jordão).
+**Este capítulo introduz Yochanan (João) o Imersor e "o reino dos céus".** A expressão *basileia tōn ouranōn* ("reino dos céus") aparece pela primeira vez em Mateus — uma expressão exclusiva deste Evangelho (os outros Evangelhos usam "reino de Deus"). A TT traduz *ouranōn* como "céus" conforme alinhamento com o hebraico *shamayim*. A prática de *baptisma* de João é traduzida como "imersão" conforme glossário travado. Os nomes aparecem na forma familiar, com a forma da língua original indicada uma vez por seção — p. ex., Yochanan (João).
 
 ---
 
@@ -344,9 +344,9 @@ E eis que uma voz dos céus, dizendo: @@"Este é o meu filho, o amado, em quem m
 
 ---
 
-## RASTREAMENTO ENTRE CAPÍTULOS (BH -> Mateus)
+## RASTREAMENTO ENTRE CAPÍTULOS (BH → Mateus)
 
-**Isaías 40:3 -> Mt 3:3 — "Preparai o caminho do Senhor":**
+**Isaías 40:3 → Mt 3:3 — "Preparai o caminho do Senhor":**
 
 | Elemento | Isaías 40:3 (TM) | Mt 3:3 (seguindo a LXX) |
 |----------|-------------------|--------------------------|
@@ -357,7 +357,7 @@ E eis que uma voz dos céus, dizendo: @@"Este é o meu filho, o amado, em quem m
 
 A mudança sintática importa: em Isaías, o deserto é onde a estrada é construída; em Mateus, o deserto é onde o pregador prega. Ambas as leituras são antigas — a LXX já reflete a segunda análise.
 
-**2 Reis 1:8 -> Mt 3:4 — Vestimenta de Eliyahu (Elias):**
+**2 Reis 1:8 → Mt 3:4 — Vestimenta de Eliyahu (Elias):**
 
 | Elemento | 2 Reis 1:8 | Mt 3:4 |
 |----------|------------|--------|
@@ -366,7 +366,7 @@ A mudança sintática importa: em Isaías, o deserto é onde a estrada é constr
 
 A descrição da vestimenta é quase idêntica. Mateus apresenta Yochanan (João) como a figura de Elias antecipada em Malaquias 3:23 [4:5].
 
-**Salmo 2:7 + Isaías 42:1 -> Mt 3:17 — "Este é o meu filho, o amado":**
+**Salmo 2:7 + Isaías 42:1 → Mt 3:17 — "Este é o meu filho, o amado":**
 
 | Elemento | Salmo 2:7 | Isaías 42:1 | Mt 3:17 |
 |----------|-----------|-------------|---------|
@@ -376,7 +376,7 @@ A descrição da vestimenta é quase idêntica. Mateus apresenta Yochanan (João
 
 A bat qol mescla as tradições real e servidora numa única declaração. O "amado" (**ἀγαπητός**, *agapētos*) pode também ecoar Gn 22:2 (LXX), onde YHWH diz a Avraham que tome "o teu filho, o amado" (*ton huion sou ton agapēton*) — Yitschaq. O eco da amarração de Isaac acrescenta uma dimensão sacrificial.
 
-**Gênesis 1:2 -> Mt 3:16 — Vento/espírito sobre as águas:**
+**Gênesis 1:2 → Mt 3:16 — Vento/espírito sobre as águas:**
 
 | Elemento | Gn 1:2 | Mt 3:16 |
 |----------|--------|---------|

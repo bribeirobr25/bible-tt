@@ -22,7 +22,7 @@
 - [Leitura Contínua](#leitura-contínua)
 - [Estudo Verso a Verso](#estudo-verso-a-verso)
 - [Glossário — 1 Pedro 1](#glossário---1-pedro-1)
-- [Rastreamento entre Capítulos (BH -> 1 Pedro)](#rastreamento-entre-capítulos-bh---1-pedro)
+- [Rastreamento entre Capítulos (BH → 1 Pedro)](#rastreamento-entre-capítulos-bh---1-pedro)
 
 ---
 
@@ -37,7 +37,7 @@
 
 As notas são marcadas por tipo — **Crítico · Lexical · Gramatical · Teológico** — cada uma com sua cor (veja a legenda no topo da visão de Notas).
 
-**Esta é a abertura de 1 Pedro — a primeira *carta* do corpus.** É uma epístola circular a crentes dispersos — "eleitos peregrinos da dispersão" — por cinco províncias da Ásia Menor (1:1, províncias que coincidem com a lista de peregrinos de Atos 2:9). O capítulo 1 traz a **saudação** epistolar (vv.1-2), depois uma única e elevada frase grega de **bênção** (vv.3-12) sobre o novo nascimento, a esperança viva, a herança incorruptível e a salvação que os profetas perscrutaram; em seguida as primeiras **exortações** — à santidade (vv.13-21) e ao amor de um coração puro (vv.22-25). **Nota sobre marcação de fala (Regra 30):** 1 Pedro é a exortação do apóstolo em sua própria voz — não há fala divina narrada; somente a palavra de Deus em primeira pessoa *dentro* de uma citação do AT é marcada (1:16, "eu sou santo", de Levítico). Os nomes próprios seguem a transliteração TT: Kefa (Pedro), Yeshua (Jesus).
+**Esta é a abertura de 1 Pedro — a primeira *carta* do corpus.** É uma epístola circular a crentes dispersos — "eleitos peregrinos da dispersão" — por cinco províncias da Ásia Menor (1:1, províncias que coincidem com a lista de peregrinos de Atos 2:9). O capítulo 1 traz a **saudação** epistolar (vv.1-2), depois uma única e elevada frase grega de **bênção** (vv.3-12) sobre o novo nascimento, a esperança viva, a herança incorruptível e a salvação que os profetas perscrutaram; em seguida as primeiras **exortações** — à santidade (vv.13-21) e ao amor de um coração puro (vv.22-25). **Nota sobre marcação de fala (Regra 30):** 1 Pedro é a exortação do apóstolo em sua própria voz — não há fala divina narrada; somente a palavra de Deus em primeira pessoa *dentro* de uma citação do AT é marcada (1:16, "eu sou santo", de Levítico). Os nomes aparecem na forma familiar, com a forma da língua original indicada uma vez por seção — p. ex., Yochanan (João).
 
 ---
 
@@ -65,7 +65,7 @@ As notas são marcadas por tipo — **Crítico · Lexical · Gramatical · Teol�
 
 ¹⁰Acerca desta salvação, *os* profetas buscaram e indagaram *cuidadosamente*, os quais profetizaram acerca da graça *destinada* a vós, ¹¹indagando para qual ou que tipo de tempo o {a:vento/espírito} do Messias neles indicava, testemunhando de antemão os sofrimentos *destinados* ao Messias e as glórias após estes. ¹²A eles foi revelado que não para si mesmos, mas para vós, serviam estas *coisas*, as quais agora vos foram anunciadas por meio daqueles que vos pregaram as boas novas pelo {a:vento/espírito} santo enviado do céu — *coisas* nas quais os anjos anseiam observar.
 
-¹³Portanto, tendo cingido os lombos da vossa mente, sendo sóbrios, ponde a vossa esperança completamente na graça que vos é trazida na revelação de Yeshua *o* Messias (Jesus). ¹⁴Como filhos da obediência, não vos conformando aos desejos anteriores *que eram vossos* na vossa ignorância, ¹⁵mas segundo aquele *que é* santo *e* vos chamou, sede vós mesmos também santos em toda *a vossa* conduta, ¹⁶porque está escrito: @@"Sede santos, porque eu *sou* santo."@@ ¹⁷E se invocais *como* Pai aquele *que* julga imparcialmente segundo a obra de cada um, conduzi-vos em temor *durante* o tempo do vosso peregrinar, ¹⁸sabendo que não com *coisas* perecíveis — prata ou ouro — fostes resgatados do vosso fútil modo de vida transmitido pelos *vossos* pais, ¹⁹mas com *o* precioso sangue, como de um cordeiro sem mácula e sem mancha, *o* sangue do Messias, ²⁰conhecido de antemão antes da fundação do mundo mas revelado nos últimos dos tempos por causa de vós, ²¹que por meio dele *sois* fiéis para com Deus, aquele *que* o ressuscitou dentre *os* mortos e lhe deu glória, para que a vossa fé e esperança estivessem em Deus.
+¹³Portanto, tendo cingido os lombos da vossa mente, sendo sóbrios, ponde a vossa esperança completamente na graça que vos é trazida na revelação de Yeshua *o* Messias (Jesus). ¹⁴Como filhos da obediência, não vos conformando aos desejos anteriores *que eram vossos* na vossa ignorância, ¹⁵mas segundo aquele *que é* santo *e* vos chamou, sede vós mesmos também santos em toda *a vossa* conduta, ¹⁶porque está escrito: "Sede santos, porque eu *sou* santo." ¹⁷E se invocais *como* Pai aquele *que* julga imparcialmente segundo a obra de cada um, conduzi-vos em temor *durante* o tempo do vosso peregrinar, ¹⁸sabendo que não com *coisas* perecíveis — prata ou ouro — fostes resgatados do vosso fútil modo de vida transmitido pelos *vossos* pais, ¹⁹mas com *o* precioso sangue, como de um cordeiro sem mácula e sem mancha, *o* sangue do Messias, ²⁰conhecido de antemão antes da fundação do mundo mas revelado nos últimos dos tempos por causa de vós, ²¹que por meio dele *sois* fiéis para com Deus, aquele *que* o ressuscitou dentre *os* mortos e lhe deu glória, para que a vossa fé e esperança estivessem em Deus.
 
 ²²Tendo purificado as vossas almas na obediência da verdade para um amor fraternal sincero, amai-vos uns aos outros intensamente de um coração puro, ²³tendo nascido de novo, não de semente perecível mas incorruptível, mediante *a* palavra viva e permanente de Deus. ²⁴Pois "toda carne *é* como erva, e toda a sua glória como *a* flor da erva; a erva secou, e a flor caiu, ²⁵mas a palavra do Senhor permanece para sempre." E esta é a palavra que vos foi anunciada como boas novas.
 
@@ -243,7 +243,7 @@ mas segundo aquele *que é* santo *e* vos chamou, sede vós mesmos também santo
 
 ### **Versículo 16**
 
-porque está escrito: @@"Sede santos, porque eu *sou* santo."@@
+porque está escrito: "Sede santos, porque eu *sou* santo."
 
 > **Notas**
 >
@@ -369,7 +369,7 @@ mas a palavra do Senhor permanece para sempre." E esta é a palavra que vos foi 
 
 ---
 
-## Rastreamento entre Capítulos (BH -> 1 Pedro)
+## Rastreamento entre Capítulos (BH → 1 Pedro)
 
 | BH / fonte anterior | Tema | Em 1 Pedro 1 |
 |---------------------|-------|--------------|

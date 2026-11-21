@@ -20,7 +20,7 @@
 - [Continuous Reading](#continuous-reading)
 - [Verse-by-Verse Study](#verse-by-verse-study)
 - [Glossary — 1 Peter 2](#glossary--1-peter-2)
-- [Cross-Chapter Tracking (HB -> 1 Peter)](#cross-chapter-tracking-hb--1-peter)
+- [Cross-Chapter Tracking (HB → 1 Peter)](#cross-chapter-tracking-hb--1-peter)
 
 ---
 
@@ -57,7 +57,7 @@ Notes are tagged by type — **Critical · Lexical · Grammatical · Theological
 
 ---
 
-¹Therefore, having put away all malice and all deceit and hypocrisy and envies and all slanders, ²like newborn infants, long for the pure {a:milk *of the* word/spiritual milk}, so that by it you may grow into salvation, ³if *indeed* you tasted that the Lord *is* good. ⁴Coming to him, a living stone — rejected by people but chosen *and* precious before God — ⁵you yourselves also, as living stones, are being built *as* a spiritual house into a holy priesthood, to offer up spiritual sacrifices acceptable to God through Yeshua *the* Messiah (Jesus). ⁶Because it is contained in scripture: @@"Behold, I lay in Zion (Tsiyon) a stone, a chosen, precious cornerstone, and the *one* believing in him will never be put to shame."@@ ⁷To you therefore who believe *is* the preciousness, but to those disbelieving, "*the* stone which the builders rejected — this *one* became *the* head of *the* corner," ⁸and "a stone of stumbling and a rock of offense"; *those* who stumble *at* the word, disbelieving — to which also they were appointed. ⁹But you *are* a chosen race, a royal priesthood, a holy nation, a people for *God's* possession, so that you may declare the excellencies of the *One* who called you out of darkness into his marvelous light; ¹⁰*you* who once *were* not a people but now *are* a people of God, the *ones* not having received mercy but now having received mercy.
+¹Therefore, having put away all malice and all deceit and hypocrisy and envies and all slanders, ²like newborn infants, long for the pure {a:milk *of the* word/spiritual milk}, so that by it you may grow into salvation, ³if *indeed* you tasted that the Lord *is* good. ⁴Coming to him, a living stone — rejected by people but chosen *and* precious before God — ⁵you yourselves also, as living stones, are being built *as* a spiritual house into a holy priesthood, to offer up spiritual sacrifices acceptable to God through Yeshua *the* Messiah (Jesus). ⁶Because it is contained in scripture: "Behold, I lay in Zion (Tsiyon) a stone, a chosen, precious cornerstone, and the *one* believing in him will never be put to shame." ⁷To you therefore who believe *is* the preciousness, but to those disbelieving, "*the* stone which the builders rejected — this *one* became *the* head of *the* corner," ⁸and "a stone of stumbling and a rock of offense"; *those* who stumble *at* the word, disbelieving — to which also they were appointed. ⁹But you *are* a chosen race, a royal priesthood, a holy nation, a people for *God's* possession, so that you may declare the excellencies of the *One* who called you out of darkness into his marvelous light; ¹⁰*you* who once *were* not a people but now *are* a people of God, the *ones* not having received mercy but now having received mercy.
 
 ¹¹Beloved, I urge *you* as sojourners and exiles to abstain from the fleshly desires, which war against the soul, ¹²keeping your conduct among the nations honorable, so that, in *the* *matter* in which they speak against you as evildoers, observing *your* good works they may glorify God in *the* day of visitation. ¹³Submit to every human institution for the Lord's sake — whether to a king as supreme, ¹⁴or to governors as *those* sent through him for *the* punishment of evildoers and *the* praise of those doing good. ¹⁵Because thus is the will of God: doing good to silence the ignorance of foolish people — ¹⁶as free, and not having freedom as a covering for evil, but as servants of God. ¹⁷Honor everyone, love the brotherhood, fear God, honor the king.
 
@@ -124,7 +124,7 @@ you yourselves also, as living stones, are being built *as* a spiritual house in
 
 ### **Verse 6**
 
-Because it is contained in scripture: @@"Behold, I lay in Zion (Tsiyon) a stone, a chosen, precious cornerstone, and the *one* believing in him will never be put to shame."@@
+Because it is contained in scripture: "Behold, I lay in Zion (Tsiyon) a stone, a chosen, precious cornerstone, and the *one* believing in him will never be put to shame."
 
 > **Notes**
 >
@@ -360,7 +360,7 @@ For you were straying like sheep, but now you returned to the shepherd and overs
 
 ---
 
-## Cross-Chapter Tracking (HB -> 1 Peter)
+## Cross-Chapter Tracking (HB → 1 Peter)
 
 | HB / earlier source | Theme | In 1 Peter 2 |
 |---------------------|-------|--------------|

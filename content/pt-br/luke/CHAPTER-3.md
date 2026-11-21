@@ -22,7 +22,7 @@
 - [Leitura Contínua](#leitura-contínua)
 - [Estudo Verso a Verso](#estudo-verso-a-verso)
 - [Glossário — Lucas 3](#glossário---lucas-3)
-- [Rastreamento entre Capítulos (BH -> Lucas)](#rastreamento-entre-capítulos-bh---lucas)
+- [Rastreamento entre Capítulos (BH → Lucas)](#rastreamento-entre-capítulos-bh---lucas)
 
 ---
 
@@ -37,7 +37,7 @@
 
 As notas são marcadas por tipo — **Crítico · Lexical · Gramatical · Teológico** — cada uma com sua cor (veja a legenda no topo da visão de Notas).
 
-**Este capítulo abre o ministério público.** Lucas 3 data o aparecimento de Yochanan (João) por um sêxtuplo sincronismo de governantes (vv.1-2) — o enquadramento cronológico mais preciso dos Evangelhos — e então narra a sua proclamação no deserto de uma imersão de arrependimento (vv.3-6), enquadrada por uma longa citação de Yesha'yahu (Isaías) 40:3-5. Sua pregação às multidões, aos cobradores de impostos e aos soldados (vv.7-14), seu apontar adiante para um "mais forte" (vv.15-17), e seu encarceramento por Herodes (vv.18-20) seguem. Yeshua (Jesus) é imerso e está orando quando os céus se abrem, o {a:vento/espírito} desce, e uma voz vem do céu (vv.21-22). O capítulo se encerra com a genealogia (vv.23-38), ascendendo de Yeshua a Adão a Deus — ~76 nomes. **Nota sobre marcação de fala (Regra 30):** a pregação de Yochanan é fala profética *humana* e NÃO é marcada como fala divina; apenas a **voz do céu** em 3:22 (a Bat-Qol) é a fala direta de Deus e é marcada com `@@…@@`. Os nomes próprios seguem a transliteração TT: Yochanan (não João), Yeshua (não Jesus), Yesha'yahu (não Isaías), Herodes (não Herodes).
+**Este capítulo abre o ministério público.** Lucas 3 data o aparecimento de Yochanan (João) por um sêxtuplo sincronismo de governantes (vv.1-2) — o enquadramento cronológico mais preciso dos Evangelhos — e então narra a sua proclamação no deserto de uma imersão de arrependimento (vv.3-6), enquadrada por uma longa citação de Yesha'yahu (Isaías) 40:3-5. Sua pregação às multidões, aos cobradores de impostos e aos soldados (vv.7-14), seu apontar adiante para um "mais forte" (vv.15-17), e seu encarceramento por Herodes (vv.18-20) seguem. Yeshua (Jesus) é imerso e está orando quando os céus se abrem, o {a:vento/espírito} desce, e uma voz vem do céu (vv.21-22). O capítulo se encerra com a genealogia (vv.23-38), ascendendo de Yeshua a Adão a Deus — ~76 nomes. **Nota sobre marcação de fala (Regra 30):** a pregação de Yochanan é fala profética *humana* e NÃO é marcada como fala divina; apenas a **voz do céu** em 3:22 (a Bat-Qol) é a fala direta de Deus e é marcada com `@@…@@`. Os nomes aparecem na forma familiar, com a forma da língua original indicada uma vez por seção — p. ex., Yochanan (João).
 
 ---
 
@@ -374,7 +374,7 @@ de Mattat, de Levi, de Melchi, de Yannai, de Yosef,
 > **Notas**
 >
 > 🟡 **A GENEALOGIA ASCENDENTE (vv.23-38) — ESTRUTURA E DIVERGÊNCIA DE MATEUS**
-> - A genealogia ascende — "filho de X, de Y, de Z…" — cada versículo um aglomerado de nomes, retrocedendo de Yeshua através de David (v.31), Avraham (v.34), Noach (v.36), até Adão e Deus (v.38). Isto é o inverso da lista descendente de Mateus (Mt 1:1-17, Abraão → Yeshua) e **diverge fortemente dela**, mais notavelmente na geração imediatamente acima de José (Lucas: "de Eli"; Mateus: "Jacó gerou José") e por toda a linha pós-davídica — uma crux de longa data. As harmonizações propostas (Lucas dá a linha de Maria; casamento levirato; descendência legal vs. biológica) são todas contestadas. A TT apresenta a lista de Lucas como o grego a dá e sinaliza a divergência para revisão helenista (Regra 13). A **tabela completa da genealogia, a contagem de gerações, e os see-stubs entre livros** (para `genesis` para Adão → os patriarcas, e para `matthew` para a linha de David) vivem em **`luke/PEOPLE.md`** conforme a convenção entre-livros v3.3.2. **[histórico — POSSÍVEL]**
+> - A genealogia ascende — "filho de X, de Y, de Z…" — cada versículo um aglomerado de nomes, retrocedendo de Yeshua através de David (v.31), Avraham (v.34), Noach (v.36), até Adão e Deus (v.38). Isto é o inverso da lista descendente de Mateus (Mt 1:1-17, Abraão → Yeshua) e **diverge fortemente dela**, mais notavelmente na geração imediatamente acima de José (Lucas: "de Eli"; Mateus: "Jacó gerou José") e por toda a linha pós-davídica — uma crux de longa data. As harmonizações propostas (Lucas dá a linha de Maria; casamento levirato; descendência legal vs. biológica) são todas contestadas. A TT apresenta a lista de Lucas como o grego a dá e sinaliza a divergência para revisão helenista (Regra 13). A **tabela completa da genealogia, a contagem de gerações, e os see-stubs entre livros** (para `genesis` para Adão → os patriarcas, e para `matthew` para a linha de David) vivem em **`luke/PEOPLE.md`**. **[histórico — POSSÍVEL]**
 >
 > 🟢 **POLÍTICA DE APRESENTAÇÃO DE NOMES DA GENEALOGIA**
 > - Os nomes com forma familiar em português recebem a glosa "Transliterado (Familiar)" na primeira ocorrência na genealogia (p.ex. David, Avraham (Abraão), Noach (Noé), Adam (Adão)). Os nomes sem forma familiar distinta são dados apenas em transliteração (p.ex. Mattat, Yannai, Neri). O **τοῦ** (*tou*, genitivo "de") repetido no grego é apresentado como "de" por toda parte; o "filho" implícito não é repetido a cada vez.
@@ -567,9 +567,9 @@ de Enosh, de Shet, de Adam (Adão), de Deus.
 
 ---
 
-## RASTREAMENTO ENTRE CAPÍTULOS (BH -> Lucas)
+## RASTREAMENTO ENTRE CAPÍTULOS (BH → Lucas)
 
-**Is 40:3-5 -> Lucas 3:4-6 — "uma voz no deserto":**
+**Is 40:3-5 → Lucas 3:4-6 — "uma voz no deserto":**
 
 | Elemento | Isaías 40:3-5 (LXX) | Lucas 3:4-6 |
 |----------|----------------------|--------------|
@@ -579,7 +579,7 @@ de Enosh, de Shet, de Adam (Adão), de Deus.
 
 Lucas cita Isaías 40 mais longe do que Mateus ou Marcos, alcançando o "toda carne verá a salvação de Deus" do v.5 — o horizonte universal que a ascensão da genealogia até Adão (3:38) e o "de Deus" espelham.
 
-**Jr 1:1-2 / Os 1:1 -> Lucas 3:2 — a fórmula de chamado profético:**
+**Jr 1:1-2 / Os 1:1 → Lucas 3:2 — a fórmula de chamado profético:**
 
 | Elemento | Jeremias / Oseias (LXX) | Lucas 3:2 |
 |----------|-------------------------|-----------|
@@ -589,7 +589,7 @@ Lucas cita Isaías 40 mais longe do que Mateus ou Marcos, alcançando o "toda ca
 
 João é moldado no formato dos profetas chamados — o idioma do evento-palavra e o detalhe do filho-de-sacerdote marcam a sua comissão; a sua pregação é profecia *humana* (não marcada como divina, Regra 30).
 
-**Sl 2:7 / Is 42:1 -> Lucas 3:22 — a voz do céu (Bat-Qol):**
+**Sl 2:7 / Is 42:1 → Lucas 3:22 — a voz do céu (Bat-Qol):**
 
 | Elemento | Salmo 2:7 / Isaías 42:1 | Lucas 3:22 |
 |----------|--------------------------|-----------|
@@ -599,7 +599,7 @@ João é moldado no formato dos profetas chamados — o idioma do evento-palavra
 
 A voz celestial — a fala direta de Deus, marcada como divina — funde a filiação real do Sl 2 com o servo escolhido de Is 42. Uma variante ocidental (Códice Bezae) cita o Sl 2:7 por inteiro ("hoje eu te gerei"); NA28 lê com Marcos/Mateus.
 
-**Gn 5 / Gn 11 / Rute 4 -> Lucas 3:31-38 — a genealogia ascendente:**
+**Gn 5 / Gn 11 / Rute 4 → Lucas 3:31-38 — a genealogia ascendente:**
 
 | Elemento | Gênesis / Rute | Lucas 3:31-38 |
 |----------|-----------------|---------------|

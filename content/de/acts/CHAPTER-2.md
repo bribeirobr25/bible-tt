@@ -21,7 +21,7 @@
 - [Fortlaufende Lesung](#fortlaufende-lesung)
 - [Vers-für-Vers-Studie](#vers-für-vers-studie)
 - [Glossar — Apostelgeschichte 2](#glossar--apostelgeschichte-2)
-- [Kapitelübergreifende Verfolgung (HB -> Apostelgeschichte)](#kapitelübergreifende-verfolgung-hb--apostelgeschichte)
+- [Kapitelübergreifende Verfolgung (HB → Apostelgeschichte)](#kapitelübergreifende-verfolgung-hb--apostelgeschichte)
 
 ---
 
@@ -60,15 +60,15 @@ Notizen sind nach Typ gekennzeichnet — **Kritisch · Lexikalisch · Grammatisc
 
 ¹Und *als* der Tag von Pfingsten (Shavuot) zur Fülle kam, waren sie alle zusammen an demselben *Ort*. ²Und plötzlich kam vom Himmel ein Geräusch gleich wie ein gewaltig daherfahrender Wind, und es erfüllte das ganze Haus, wo sie saßen. ³Und es erschienen ihnen Zungen, die sich verteilten, wie Feuer, und es setzte sich auf einen jeden von ihnen. ⁴Und sie wurden alle mit *dem* heiligen {a:Wind/Geist} erfüllt und begannen, in anderen {a:Zungen/Sprachen} zu reden, so wie der {a:Wind/Geist} ihnen zu äußern gab.
 
-⁵Nun wohnten in Yerushalayim (Jerusalem) Juden (Yehudim), fromme Männer aus jeder Nation derer unter dem Himmel. ⁶Und *als* dieses Geräusch geschah, kam die Menge zusammen und war verwirrt, weil ein jeder sie in seiner eigenen Sprache reden hörte. ⁷Und sie waren erstaunt und verwunderten sich und sagten: „Siehe, sind nicht alle diese, die reden, Galiläer? ⁸Und wie *kommt es*, dass wir hören, ein jeder *von uns*, *in* unserer eigenen Sprache, in der wir geboren wurden? ⁹Parther und Meder und Elamiter, und die *in* Mesopotamien wohnen, Yehudah (Judäa) und Kappadokien, Pontus und Asien, ¹⁰Phrygien und Pamphylien, Ägypten und die Gegenden Libyens *gegen* Kyrene hin, und die *als Gäste* anwesenden Römer, ¹¹sowohl Juden (Yehudim) als auch Proselyten, Kreter und Araber — wir hören sie in unseren *eigenen* {a:Zungen/Sprachen} die großen *Taten* Gottes reden." ¹²Und alle waren erstaunt und ratlos und sagten einer zum anderen: „Was will dies sein?" ¹³Andere aber spotteten und sagten: „Sie sind voll von süßem Wein."
+⁵Nun wohnten in Yerushalayim (Jerusalem) Juden (Jehudim), fromme Männer aus jeder Nation derer unter dem Himmel. ⁶Und *als* dieses Geräusch geschah, kam die Menge zusammen und war verwirrt, weil ein jeder sie in seiner eigenen Sprache reden hörte. ⁷Und sie waren erstaunt und verwunderten sich und sagten: „Siehe, sind nicht alle diese, die reden, Galiläer? ⁸Und wie *kommt es*, dass wir hören, ein jeder *von uns*, *in* unserer eigenen Sprache, in der wir geboren wurden? ⁹Parther und Meder und Elamiter, und die *in* Mesopotamien wohnen, Yehudah (Judäa) und Kappadokien, Pontus und Asien, ¹⁰Phrygien und Pamphylien, Ägypten und die Gegenden Libyens *gegen* Kyrene hin, und die *als Gäste* anwesenden Römer, ¹¹sowohl Juden (Jehudim) als auch Proselyten, Kreter und Araber — wir hören sie in unseren *eigenen* {a:Zungen/Sprachen} die großen *Taten* Gottes reden." ¹²Und alle waren erstaunt und ratlos und sagten einer zum anderen: „Was will dies sein?" ¹³Andere aber spotteten und sagten: „Sie sind voll von süßem Wein."
 
-¹⁴Aber Kefa (Petrus), mit den Elf stehend, erhob seine Stimme und verkündete ihnen: „Männer, Juden (Yehudim), und alle, die *in* Yerushalayim (Jerusalem) wohnen, dies sei euch kundgetan, und nehmt meine Worte zu Ohren. ¹⁵Denn diese *Leute* sind nicht betrunken, wie ihr meint, denn es ist *die* dritte Stunde des Tages; ¹⁶sondern dies ist, was durch den Propheten Yoel (Joel) gesprochen worden ist: ¹⁷@@‚Und es wird sein in den letzten Tagen, spricht Gott, *dass* ich von meinem {a:Wind/Geist} ausgießen werde über alles Fleisch, und eure Söhne und eure Töchter werden prophezeien, und eure jungen Männer werden Gesichte sehen, und eure Ältesten werden Träume träumen; ¹⁸ja, sogar über meine Knechte und über meine Mägde werde ich in jenen Tagen von meinem {a:Wind/Geist} ausgießen, und sie werden prophezeien. ¹⁹Und ich werde Wunder geben am Himmel oben und Zeichen auf der Erde unten — Blut und Feuer und Rauchdampf. ²⁰Die Sonne wird in Finsternis verwandelt werden und der Mond in Blut, bevor der Tag *des* Herrn kommt — der große und offenbare *Tag*. ²¹Und es wird sein, *dass* jeder, der den Namen *des* Herrn anruft, gerettet wird.'@@
+¹⁴Aber Kefa (Petrus), mit den Elf stehend, erhob seine Stimme und verkündete ihnen: „Männer, Juden (Jehudim), und alle, die *in* Yerushalayim (Jerusalem) wohnen, dies sei euch kundgetan, und nehmt meine Worte zu Ohren. ¹⁵Denn diese *Leute* sind nicht betrunken, wie ihr meint, denn es ist *die* dritte Stunde des Tages; ¹⁶sondern dies ist, was durch den Propheten Yoel (Joel) gesprochen worden ist: ¹⁷‚Und es wird sein in den letzten Tagen, spricht Gott, *dass* ich von meinem {a:Wind/Geist} ausgießen werde über alles Fleisch, und eure Söhne und eure Töchter werden prophezeien, und eure jungen Männer werden Gesichte sehen, und eure Ältesten werden Träume träumen; ¹⁸ja, sogar über meine Knechte und über meine Mägde werde ich in jenen Tagen von meinem {a:Wind/Geist} ausgießen, und sie werden prophezeien. ¹⁹Und ich werde Wunder geben am Himmel oben und Zeichen auf der Erde unten — Blut und Feuer und Rauchdampf. ²⁰Die Sonne wird in Finsternis verwandelt werden und der Mond in Blut, bevor der Tag *des* Herrn kommt — der große und offenbare *Tag*. ²¹Und es wird sein, *dass* jeder, der den Namen *des* Herrn anruft, gerettet wird.'
 
 ²²„Männer, Israeliten, hört diese Worte: Yeshua der Nazarener (Yeshua *der* Nazarener), ein Mann, euch erwiesen *als* von Gott durch mächtige *Werke* und Wunder und Zeichen, die Gott durch ihn in eurer Mitte tat, so wie ihr selbst wisst — ²³diesen *einen*, ausgeliefert nach dem festgesetzten Plan und Vorwissen Gottes, habt ihr *durch die* Hand gesetzloser *Männer* angeheftet *und* getötet; ²⁴ihn hat Gott auferweckt, nachdem er die Geburtswehen des Todes gelöst hatte, weil es nicht möglich war, *dass* er von ihm gehalten würde. ²⁵Denn David sagt über ihn: ‚Ich sah den Herrn allezeit vor mir, weil er zu meiner Rechten ist, damit ich nicht wanke. ²⁶Darum war mein Herz froh und meine Zunge frohlockte; und noch dazu wird auch mein Fleisch auf Hoffnung ruhen, ²⁷weil du meine Seele nicht dem {t:Hades} überlassen wirst, noch wirst du deinen Heiligen *einen* die Verwesung sehen lassen. ²⁸Du hast mir Wege des Lebens kundgetan; du wirst mich mit Freude erfüllen mit deinem Angesicht.'
 
-²⁹„Männer, Brüder, *es ist* erlaubt, *zu* euch mit Freimut über den Patriarchen David zu reden, dass er sowohl starb als auch begraben wurde, und sein Grab ist unter uns bis auf diesen Tag. ³⁰Da er nun ein Prophet war und wusste, dass Gott ihm mit einem Eid geschworen hatte, *dass* er von *der* Frucht seiner Lenden *einen* auf seinen Thron *setzen würde*, ³¹*voraus*schauend redete er über die Auferstehung des Gesalbten, dass er weder dem {t:Hades} überlassen wurde noch sein Fleisch die Verwesung sah. ³²Diesen Yeshua (Jesus) hat Gott auferweckt, wovon wir alle Zeugen sind. ³³Da er nun zur Rechten Gottes erhöht wurde und die Verheißung des heiligen {a:Wind/Geist} vom Vater empfing, hat er dies ausgegossen, was ihr *sowohl* seht als auch hört. ³⁴Denn David fuhr nicht in die Himmel auf, sondern er selbst sagt: ‚Der Herr sprach zu meinem Herrn, @@"Setze dich zu meiner Rechten, ³⁵bis ich deine Feinde *als* Schemel für deine Füße setze."@@' ³⁶Darum erkenne das ganze *Haus* Israel mit Gewissheit, dass Gott ihn zu Herrn und Gesalbtem gemacht hat — diesen Yeshua (Jesus), den ihr gekreuzigt habt."
+²⁹„Männer, Brüder, *es ist* erlaubt, *zu* euch mit Freimut über den Patriarchen David zu reden, dass er sowohl starb als auch begraben wurde, und sein Grab ist unter uns bis auf diesen Tag. ³⁰Da er nun ein Prophet war und wusste, dass Gott ihm mit einem Eid geschworen hatte, *dass* er von *der* Frucht seiner Lenden *einen* auf seinen Thron *setzen würde*, ³¹*voraus*schauend redete er über die Auferstehung des Gesalbten, dass er weder dem {t:Hades} überlassen wurde noch sein Fleisch die Verwesung sah. ³²Diesen Yeshua (Jesus) hat Gott auferweckt, wovon wir alle Zeugen sind. ³³Da er nun zur Rechten Gottes erhöht wurde und die Verheißung des heiligen {a:Wind/Geist} vom Vater empfing, hat er dies ausgegossen, was ihr *sowohl* seht als auch hört. ³⁴Denn David fuhr nicht in die Himmel auf, sondern er selbst sagt: ‚Der Herr sprach zu meinem Herrn, "Setze dich zu meiner Rechten, ³⁵bis ich deine Feinde *als* Schemel für deine Füße setze."' ³⁶Darum erkenne das ganze *Haus* Israel mit Gewissheit, dass Gott ihn zu Herrn und Gesalbtem gemacht hat — diesen Yeshua (Jesus), den ihr gekreuzigt habt."
 
-³⁷Und als sie *dies* hörten, wurden sie ins Herz getroffen, und sie sagten zu Kefa (Petrus) und den übrigen Aposteln: „Was sollen wir tun, Männer, Brüder?" ³⁸Und Kefa (Petrus) *sprach* zu ihnen: „Ändert *euren* Sinn, und ein jeder von euch lasse sich eintauchen auf den Namen Yeshuas *des* Gesalbten (Jesus) zur *der* Freilassung eurer Sünden, und ihr werdet die Gabe des heiligen {a:Wind/Geist} empfangen. ³⁹Denn euch gilt die Verheißung, und euren Kindern, und allen, die fern sind, so viele *der* Herr unser Gott zu sich rufen wird." ⁴⁰Und mit vielen anderen Worten bezeugte er feierlich und ermahnte sie und sagte: „Lasst euch retten aus diesem verkehrten Geschlecht." ⁴¹So wurden die, die sein Wort aufnahmen, eingetaucht, und es wurden an jenem Tag etwa dreitausend Seelen hinzugefügt.
+³⁷Und als sie *dies* hörten, wurden sie ins Herz getroffen, und sie sagten zu Kefa (Petrus) und den übrigen Aposteln: „Was sollen wir tun, Männer, Brüder?" ³⁸Und Kefa (Petrus) *sprach* zu ihnen: „Ändert *euren* Sinn, und ein jeder von euch lasse sich eintauchen auf den Namen Yeshuas *des* Gesalbten (Jesus) *zur* Freilassung eurer Sünden, und ihr werdet die Gabe des heiligen {a:Wind/Geist} empfangen. ³⁹Denn euch gilt die Verheißung, und euren Kindern, und allen, die fern sind, so viele *der* Herr unser Gott zu sich rufen wird." ⁴⁰Und mit vielen anderen Worten bezeugte er feierlich und ermahnte sie und sagte: „Lasst euch retten aus diesem verkehrten Geschlecht." ⁴¹So wurden die, die sein Wort aufnahmen, eingetaucht, und es wurden an jenem Tag etwa dreitausend Seelen hinzugefügt.
 
 ⁴²Und sie verharrten in der Lehre der Apostel und in der Gemeinschaft, im Brechen des Brotes und in den Gebeten. ⁴³Und Furcht kam über jede Seele, und viele Wunder und Zeichen geschahen durch die Apostel. ⁴⁴Und alle, die glaubten, waren *beisammen* an demselben *Ort* und hatten alle *Dinge* gemeinsam, ⁴⁵und sie verkauften *ihre* Besitztümer und Güter und verteilten sie an alle, so wie jemand Bedarf hatte. ⁴⁶Und Tag für Tag verharrten sie einmütig im Tempel und brachen das Brot von Haus zu Haus und teilten Nahrung in Frohlocken und Einfalt des Herzens, ⁴⁷indem sie Gott priesen und Gunst beim ganzen Volk hatten. Und der Herr fügte täglich die, die gerettet wurden, an demselben *Ort* hinzu.
 
@@ -122,12 +122,12 @@ Und sie wurden alle mit *dem* heiligen {a:Wind/Geist} erfüllt und begannen, in 
 
 ### **Vers 5**
 
-Nun wohnten in Yerushalayim (Jerusalem) Juden (Yehudim), fromme Männer aus jeder Nation derer unter dem Himmel.
+Nun wohnten in Yerushalayim (Jerusalem) Juden (Jehudim), fromme Männer aus jeder Nation derer unter dem Himmel.
 
 > **Notizen**
 >
 > 🔵 **„AUS JEDER NATION UNTER DEM HIMMEL"**
-> - **ἀπὸ παντὸς ἔθνους τῶν ὑπὸ τὸν οὐρανόν** (*apo pantos ethnous tōn hypo ton ouranon*) = „aus jeder Nation derer unter dem Himmel." **Yehudim** (Juden) der Diaspora, versammelt zum Fest — das Publikum ist Israel-in-der-Zerstreuung, der erste Ring des Zeugnisprogramms (1,8). Die „Nationen"-Liste (V.9-11) macht die Universalität konkret.
+> - **ἀπὸ παντὸς ἔθνους τῶν ὑπὸ τὸν οὐρανόν** (*apo pantos ethnous tōn hypo ton ouranon*) = „aus jeder Nation derer unter dem Himmel." **Jehudim** (Juden) der Diaspora, versammelt zum Fest — das Publikum ist Israel-in-der-Zerstreuung, der erste Ring des Zeugnisprogramms (1,8). Die „Nationen"-Liste (V.9-11) macht die Universalität konkret.
 
 ---
 
@@ -188,7 +188,7 @@ Phrygien und Pamphylien, Ägypten und die Gegenden Libyens *gegen* Kyrene hin, u
 
 ### **Vers 11**
 
-sowohl Juden (Yehudim) als auch Proselyten, Kreter und Araber — wir hören sie in unseren *eigenen* {a:Zungen/Sprachen} die großen *Taten* Gottes reden."
+sowohl Juden (Jehudim) als auch Proselyten, Kreter und Araber — wir hören sie in unseren *eigenen* {a:Zungen/Sprachen} die großen *Taten* Gottes reden."
 
 > **Notizen**
 >
@@ -221,7 +221,7 @@ Andere aber spotteten und sagten: „Sie sind voll von süßem Wein."
 
 ### **Vers 14**
 
-Aber Kefa (Petrus), mit den Elf stehend, erhob seine Stimme und verkündete ihnen: „Männer, Juden (Yehudim), und alle, die *in* Yerushalayim (Jerusalem) wohnen, dies sei euch kundgetan, und nehmt meine Worte zu Ohren.
+Aber Kefa (Petrus), mit den Elf stehend, erhob seine Stimme und verkündete ihnen: „Männer, Juden (Jehudim), und alle, die *in* Yerushalayim (Jerusalem) wohnen, dies sei euch kundgetan, und nehmt meine Worte zu Ohren.
 
 > **Notizen**
 >
@@ -254,7 +254,7 @@ sondern dies ist, was durch den Propheten Yoel (Joel) gesprochen worden ist:
 
 ### **Vers 17**
 
-@@‚Und es wird sein in den letzten Tagen, spricht Gott, *dass* ich von meinem {a:Wind/Geist} ausgießen werde über alles Fleisch, und eure Söhne und eure Töchter werden prophezeien, und eure jungen Männer werden Gesichte sehen, und eure Ältesten werden Träume träumen;
+‚Und es wird sein in den letzten Tagen, spricht Gott, *dass* ich von meinem {a:Wind/Geist} ausgießen werde über alles Fleisch, und eure Söhne und eure Töchter werden prophezeien, und eure jungen Männer werden Gesichte sehen, und eure Ältesten werden Träume träumen;
 
 > **Notizen**
 >
@@ -298,7 +298,7 @@ Die Sonne wird in Finsternis verwandelt werden und der Mond in Blut, bevor der T
 
 ### **Vers 21**
 
-Und es wird sein, *dass* jeder, der den Namen *des* Herrn anruft, gerettet wird.'@@
+Und es wird sein, *dass* jeder, der den Namen *des* Herrn anruft, gerettet wird.'
 
 > **Notizen**
 >
@@ -441,7 +441,7 @@ Da er nun zur Rechten Gottes erhöht wurde und die Verheißung des heiligen {a:W
 
 ### **Vers 34**
 
-Denn David fuhr nicht in die Himmel auf, sondern er selbst sagt: ‚Der Herr sprach zu meinem Herrn, @@"Setze dich zu meiner Rechten,
+Denn David fuhr nicht in die Himmel auf, sondern er selbst sagt: ‚Der Herr sprach zu meinem Herrn, "Setze dich zu meiner Rechten,
 
 > **Notizen**
 >
@@ -452,7 +452,7 @@ Denn David fuhr nicht in die Himmel auf, sondern er selbst sagt: ‚Der Herr spr
 
 ### **Vers 35**
 
-bis ich deine Feinde *als* Schemel für deine Füße setze."@@'
+bis ich deine Feinde *als* Schemel für deine Füße setze."'
 
 > **Notizen**
 >
@@ -485,7 +485,7 @@ Und als sie *dies* hörten, wurden sie ins Herz getroffen, und sie sagten zu Kef
 
 ### **Vers 38**
 
-Und Kefa (Petrus) *sprach* zu ihnen: „Ändert *euren* Sinn, und ein jeder von euch lasse sich eintauchen auf den Namen Yeshuas *des* Gesalbten (Jesus) zur *der* Freilassung eurer Sünden, und ihr werdet die Gabe des heiligen {a:Wind/Geist} empfangen.
+Und Kefa (Petrus) *sprach* zu ihnen: „Ändert *euren* Sinn, und ein jeder von euch lasse sich eintauchen auf den Namen Yeshuas *des* Gesalbten (Jesus) *zur* Freilassung eurer Sünden, und ihr werdet die Gabe des heiligen {a:Wind/Geist} empfangen.
 
 > **Notizen**
 >
@@ -611,7 +611,7 @@ indem sie Gott priesen und Gunst beim ganzen Volk hatten. Und der Herr fügte t�
 
 ---
 
-## Kapitelübergreifende Verfolgung (HB -> Apostelgeschichte)
+## Kapitelübergreifende Verfolgung (HB → Apostelgeschichte)
 
 | HB / frühere Quelle | Thema | In Apostelgeschichte 2 |
 |---------------------|-------|-----------|

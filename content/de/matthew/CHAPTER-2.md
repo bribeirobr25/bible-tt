@@ -21,7 +21,7 @@
 - [Fortlaufende Lesung](#fortlaufende-lesung)
 - [Vers-für-Vers-Studie](#vers-für-vers-studie)
 - [Glossar — Matthäus 2](#glossar---matthäus-2)
-- [Kapitelübergreifende Verfolgung (HB -> Matthäus)](#kapitelübergreifende-verfolgung-hb--matthäus)
+- [Kapitelübergreifende Verfolgung (HB → Matthäus)](#kapitelübergreifende-verfolgung-hb--matthäus)
 
 ---
 
@@ -36,13 +36,13 @@
 
 Notizen sind nach Typ gekennzeichnet — **Kritisch · Lexikalisch · Grammatisch · Theologisch** — jeweils mit ihrer Farbe (siehe die Legende oben in der Notizen-Ansicht).
 
-**Dieses Kapitel ist das am stärksten alttestamentlich geprägte Kapitel der Geburtserzählung.** Vier Erfüllungszitate („damit erfüllt werde, was gesprochen wurde") bestimmen die Erzählung: Micha 5,1 (Beyt-Lechem (Bethlehem)), Hosea 11,1 (aus Mitsrayim (Ägypten)), Jeremia 31,15 (Rachel weint) und ein geheimnisvolles „Er wird ein Natsri genannt werden" ohne eindeutige alttestamentliche Quelle. Jedes Zitat verwendet kyrios Option C mit vermerkter alttestamentlicher JHWH-Verbindung. Eigennamen folgen der TT-Transliteration: Herodes (Translit = Vertraut; ohne Epitheton, nicht „Herodes der Große"), Beyt-Lechem (Bethlehem), Mitsrayim (Ägypten), Natseret (Nazareth).
+**Dieses Kapitel ist das am stärksten alttestamentlich geprägte Kapitel der Geburtserzählung.** Vier Erfüllungszitate („damit erfüllt werde, was gesprochen wurde") bestimmen die Erzählung: Micha 5,1 (Beyt-Lechem (Bethlehem)), Hosea 11,1 (aus Mitsrayim (Ägypten)), Jeremia 31,15 (Rachel weint) und ein geheimnisvolles „Er wird ein Natsri genannt werden" ohne eindeutige alttestamentliche Quelle. Jedes Zitat verwendet kyrios Option C mit vermerkter alttestamentlicher JHWH-Verbindung. Namen erscheinen in der vertrauten Form; die ursprachliche Form steht einmal pro Abschnitt — z. B. Yochanan (Johannes).
 
 ---
 
 ## KAPITELÜBERSICHT
 
-**Was geschieht:** Die Magier (Weise/Sterndeuter) aus dem Osten kommen nach Jerusalem und fragen, wo der König der Yehudim geboren wurde, denn sie haben seinen Stern bei seinem Aufgang gesehen. Herodes, der König, wird beunruhigt und versammelt die Hohenpriester und Schriftgelehrten, die Bethlehem aus Micha 5,1 identifizieren. Herodes ruft die Magier heimlich, erfährt die Zeit der Sternerscheinung und sendet sie nach Bethlehem. Der Stern führt sie zum Kind; sie bringen Gold, Weihrauch und Myrrhe dar und reisen dann auf anderem Weg ab, gewarnt im Traum. Ein Bote des Herrn erscheint Josef im Traum: Fliehe nach Ägypten mit dem Kind und seiner Mutter. Josef gehorcht. Der Erzähler zitiert Hosea 11,1: „Aus Ägypten rief ich meinen Sohn." Herodes, als er erkennt, dass die Magier ihn überlistet haben, befiehlt die Tötung aller männlichen Kinder in Bethlehem und Umgebung, zwei Jahre und jünger. Der Erzähler zitiert Jeremia 31,15: Rachel weint über ihre Kinder. Nach dem Tod des Herodes erscheint wieder ein Bote im Traum: Kehre zurück ins Land Yisra'el. Josef kehrt zurück, aber aus Furcht vor Herodes' Sohn Archelaos in Juda weicht er in den Galiläa aus und lässt sich in Nazareth nieder. Die letzte Formel des Erzählers: „damit erfüllt werde, was durch die Propheten geredet worden war: ‚Er wird ein Natsri genannt werden.'"
+**Was geschieht:** Die Magier (Weise/Sterndeuter) aus dem Osten kommen nach Jerusalem und fragen, wo der König der Jehudim geboren wurde, denn sie haben seinen Stern bei seinem Aufgang gesehen. Herodes, der König, wird beunruhigt und versammelt die Hohenpriester und Schriftgelehrten, die Bethlehem aus Micha 5,1 identifizieren. Herodes ruft die Magier heimlich, erfährt die Zeit der Sternerscheinung und sendet sie nach Bethlehem. Der Stern führt sie zum Kind; sie bringen Gold, Weihrauch und Myrrhe dar und reisen dann auf anderem Weg ab, gewarnt im Traum. Ein Bote des Herrn erscheint Josef im Traum: Fliehe nach Ägypten mit dem Kind und seiner Mutter. Josef gehorcht. Der Erzähler zitiert Hosea 11,1: „Aus Ägypten rief ich meinen Sohn." Herodes, als er erkennt, dass die Magier ihn überlistet haben, befiehlt die Tötung aller männlichen Kinder in Bethlehem und Umgebung, zwei Jahre und jünger. Der Erzähler zitiert Jeremia 31,15: Rachel weint über ihre Kinder. Nach dem Tod des Herodes erscheint wieder ein Bote im Traum: Kehre zurück ins Land Yisra'el. Josef kehrt zurück, aber aus Furcht vor Herodes' Sohn Archelaos in Juda weicht er in den Galiläa aus und lässt sich in Nazareth nieder. Die letzte Formel des Erzählers: „damit erfüllt werde, was durch die Propheten geredet worden war: ‚Er wird ein Natsri genannt werden.'"
 
 **Zentrale Themen:** Vier alttestamentliche Erfüllungsformeln als Strukturprinzip der Erzählung; die Magier als heidnische Anbeter, die erkennen, was Jerusalem nicht erkennt; Herodes als bedrohter König (Mose/Pharao-Parallele); die Flucht nach und Rückkehr aus Ägypten (Exodus-Typologie); die geheimnisvolle „Natsri"-Bezeichnung ohne identifizierbare einzelne alttestamentliche Quelle; Josef als Träumer, der göttliche Weisung empfängt (vier Träume insgesamt: 1,20; 2,13; 2,19; 2,22).
 
@@ -58,7 +58,7 @@ Notizen sind nach Typ gekennzeichnet — **Kritisch · Lexikalisch · Grammatisc
 
 ---
 
-¹*Nachdem* nun Yeshua (Jesus) in Beyt-Lechem (Bethlehem) in Yehudah (Juda) geboren war, in den Tagen des Herodes, des Königs, siehe, *Magoi* aus *dem* Osten kamen nach Yerushalayim (Jerusalem), ²und sprachen: „Wo ist der geborene König der Yehudim? Denn wir sahen seinen Stern bei *seinem* Aufgang und kamen, um vor ihm niederzufallen." ³Und Herodes, der König, als er *das* hörte, wurde beunruhigt, und ganz Jerusalem mit ihm. ⁴Und er versammelte alle Hohenpriester und Schriftgelehrten des Volkes und erkundigte sich bei ihnen, wo der Gesalbte geboren werde. ⁵Und sie sprachen zu ihm: „In Bethlehem in Juda, denn so ist geschrieben worden durch den Propheten:
+¹*Nachdem* nun Yeshua (Jesus) in Beyt-Lechem (Bethlehem) in Yehudah (Juda) geboren war, in den Tagen des Herodes, des Königs, siehe, *Magoi* aus *dem* Osten kamen nach Yerushalayim (Jerusalem), ²und sprachen: „Wo ist der geborene König der Jehudim? Denn wir sahen seinen Stern bei *seinem* Aufgang und kamen, um vor ihm niederzufallen." ³Und Herodes, der König, als er *das* hörte, wurde beunruhigt, und ganz Jerusalem mit ihm. ⁴Und er versammelte alle Hohenpriester und Schriftgelehrten des Volkes und erkundigte sich bei ihnen, wo der Gesalbte geboren werde. ⁵Und sie sprachen zu ihm: „In Bethlehem in Juda, denn so ist geschrieben worden durch den Propheten:
 
 ⁶‚Und du, Bethlehem, Land Judas, bist keineswegs die geringste unter den Fürsten Judas; denn aus dir wird ein Herrscher hervorgehen, der mein Volk Yisra'el weiden wird.'"
 
@@ -95,7 +95,7 @@ Notizen sind nach Typ gekennzeichnet — **Kritisch · Lexikalisch · Grammatisc
 
 ### **Vers 2**
 
-und sprachen: „Wo ist der geborene König der Yehudim? Denn wir sahen seinen Stern bei *seinem* Aufgang und kamen, um vor ihm niederzufallen."
+und sprachen: „Wo ist der geborene König der Jehudim? Denn wir sahen seinen Stern bei *seinem* Aufgang und kamen, um vor ihm niederzufallen."
 
 > **Notizen**
 >
@@ -106,7 +106,7 @@ und sprachen: „Wo ist der geborene König der Yehudim? Denn wir sahen seinen S
 > - **προσκυνῆσαι** (*proskynēsai*) = niederfallen, huldigen, sich niederwerfen. Das Wort umfasst die gesamte Bandbreite von politischer Huldigung bis göttlicher Anbetung. Die TT gibt „niederfallen" wieder, um die Mehrdeutigkeit zu bewahren — die *Magoi* mögen königliche Huldigung, göttliche Anbetung oder beides beabsichtigen. Dasselbe Verb kehrt in Vv.8, 11 wieder.
 >
 > 🟢 **„KÖNIG DER YEHUDIM"**
-> - **βασιλεὺς τῶν Ἰουδαίων** (*basileus tōn Ioudaiōn*) = „König der Yehudim." Dieser Titel erscheint wieder bei der Kreuzigung (Mt 27,11.29.37). Die *Magoi* verwenden ihn; Herodes hört ihn als Bedrohung. Der Titel rahmt das gesamte Evangelium.
+> - **βασιλεὺς τῶν Ἰουδαίων** (*basileus tōn Ioudaiōn*) = „König der Jehudim." Dieser Titel erscheint wieder bei der Kreuzigung (Mt 27,11.29.37). Die *Magoi* verwenden ihn; Herodes hört ihn als Bedrohung. Der Titel rahmt das gesamte Evangelium.
 
 ---
 
@@ -128,7 +128,7 @@ Und er versammelte alle Hohenpriester und Schriftgelehrten des Volkes und erkund
 > **Notizen**
 >
 > 🟡 **„DER GESALBTE" — HERODES' FRAGE**
-> - Die *Magoi* fragten nach dem „König der Yehudim" (V.2); Herodes formuliert um als „der Gesalbte" (*ho christos*). Der Wechsel bewegt die Frage von politischer zu messianischer Sprache. Die Hohenpriester und Schriftgelehrten kennen die schriftgemäße Antwort, handeln aber nicht danach — sie liefern die Information und verschwinden aus der Erzählung.
+> - Die *Magoi* fragten nach dem „König der Jehudim" (V.2); Herodes formuliert um als „der Gesalbte" (*ho christos*). Der Wechsel bewegt die Frage von politischer zu messianischer Sprache. Die Hohenpriester und Schriftgelehrten kennen die schriftgemäße Antwort, handeln aber nicht danach — sie liefern die Information und verschwinden aus der Erzählung.
 
 ---
 
@@ -397,9 +397,9 @@ Und er kam und ließ sich nieder in einer Stadt genannt Natseret (Nazareth), dam
 
 ---
 
-## KAPITELÜBERGREIFENDE VERFOLGUNG (HB -> Matthäus)
+## KAPITELÜBERGREIFENDE VERFOLGUNG (HB → Matthäus)
 
-**Micha 5,1 [5,2] -> Mt 2,6 — Bethlehem:**
+**Micha 5,1 [5,2] → Mt 2,6 — Bethlehem:**
 
 | Element | Micha 5,1 | Mt 2,6 |
 |---------|-----------|--------|
@@ -409,7 +409,7 @@ Und er kam und ließ sich nieder in einer Stadt genannt Natseret (Nazareth), dam
 
 Matthäus' Zitat ist ein Kompositum: Micha 5,1, modifiziert und verbunden mit 2 Samuel 5,2. Die Umkehrung von „zu klein" in „keineswegs die geringste" könnte eine andere Texttradition oder eine bewusste interpretive Anpassung widerspiegeln.
 
-**Hosea 11,1 -> Mt 2,15 — „Aus Ägypten rief ich meinen Sohn":**
+**Hosea 11,1 → Mt 2,15 — „Aus Ägypten rief ich meinen Sohn":**
 
 | Element | Hosea 11,1 | Mt 2,15 |
 |---------|------------|---------|
@@ -418,7 +418,7 @@ Matthäus' Zitat ist ein Kompositum: Micha 5,1, modifiziert und verbunden mit 2 
 | Kontext | Rückblickend: Erinnerung an den Exodus | Vorausblickend: die Rückkehr aus Ägypten |
 | Hermeneutik | Historische Aussage über ein vergangenes Ereignis | Typologische Erfüllung in einem neuen Ereignis |
 
-**Jeremia 31,15 -> Mt 2,18 — Rachel weint:**
+**Jeremia 31,15 → Mt 2,18 — Rachel weint:**
 
 | Element | Jeremia 31,15 | Mt 2,18 |
 |---------|----------------|---------|
@@ -426,7 +426,7 @@ Matthäus' Zitat ist ein Kompositum: Micha 5,1, modifiziert und verbunden mit 2 
 | Ort | Ramah (Deportationssammelplatz) | Bethlehems Umgebung |
 | Kontext | Exil — gefolgt von Hoffnung (31,16-17) | Kindermord — die Hoffnungsverse werden nicht zitiert |
 
-**Exodus 4,19 -> Mt 2,20 — „Die dem Kind nach dem Leben trachteten, sind gestorben":**
+**Exodus 4,19 → Mt 2,20 — „Die dem Kind nach dem Leben trachteten, sind gestorben":**
 
 | Element | Exodus 4,19 | Mt 2,20 |
 |---------|-------------|---------|

@@ -240,38 +240,6 @@ El capítulo abre y cierra con el mismo verbo. Las esposas han de "**someterse**
 
 ---
 
-## H. Fuentes Consultadas
-
-| Fuente | Tipo | Usada en secciones |
-|--------|------|-----------------|
-| Achtemeier, P.J., *1 Peter*, Hermeneia, 1996 | REVISADA POR PARES (comentario) | D, F |
-| Aristóteles, *Política*, Loeb Classical Library | PRIMARIA | B |
-| Balch, D.L., *Let Wives Be Submissive: The Domestic Code in 1 Peter*, 1981 | REVISADA POR PARES (monografía) | B, C, I |
-| Bauckham, R., *Jude, 2 Peter*, WBC 50, 1983 | REVISADA POR PARES (comentario) | B |
-| Bauer, W., *A Greek-English Lexicon of the NT* (BDAG), 3.ª ed., 2000 | REVISADA POR PARES (léxico) | D |
-| Bird, J.G., *Abuse, Power and Fearful Obedience*, LNTS, 2011 | REVISADA POR PARES (monografía) | F |
-| Charlesworth, J.H. (ed.), *The Old Testament Pseudepigrapha*, vol. 1, 1983 | PRIMARIA (colección de textos) | B |
-| Dalton, W.J., *Christ's Proclamation to the Spirits*, 2.ª ed., 1989 | REVISADA POR PARES (monografía) | F |
-| Eckstein, H.-J., *Der Begriff Syneidesis bei Paulus*, 1983 | REVISADA POR PARES (monografía) | D |
-| Edwards, M., Goodman, M., Price, S. (eds.), *Apologetics in the Roman Empire*, 1999 | REVISADA POR PARES (monografía) | F |
-| Elliott, J.H., *1 Peter*, Anchor Bible 37B, 2000 | REVISADA POR PARES (comentario) | C, I |
-| Goppelt, L., *Typos: The Typological Interpretation of the OT in the NT*, 1982 | REVISADA POR PARES (monografía) | D |
-| Grant, R.M., *Greek Apologists of the Second Century*, 1988 | REVISADA POR PARES (monografía) | F |
-| Hemelrijk, E.A., *Matrona Docta: Educated Women in the Roman Élite*, 1999 | REVISADA POR PARES (monografía) | I |
-| Horrell, D.G., *1 Peter*, New Testament Guides, 2008 | REVISADA POR PARES (monografía) | C |
-| Josefo, *Contra Apión*, Loeb Classical Library | PRIMARIA | B |
-| Kittredge, C.B., *Community and Authority*, HTS, 1998 | REVISADA POR PARES (monografía) | F |
-| Liddell y Scott, *Greek-English Lexicon*, 9.ª ed. | REVISADA POR PARES (léxico) | D |
-| Lieu, J., *Neither Jew nor Greek? Constructing Early Christianity*, 2002 | REVISADA POR PARES (monografía) | C |
-| Moulton, J.H. y Milligan, G., *The Vocabulary of the Greek Testament*, 1930 | REVISADA POR PARES (referencia) | D |
-| Nestle-Aland, *Novum Testamentum Graece*, 28.ª ed. | PRIMARIA | A, D, G |
-| Nickelsburg, G.W.E., *1 Enoch 1: A Commentary*, Hermeneia, 2001 | REVISADA POR PARES (comentario) | B |
-| Plutarco, *Coniugalia praecepta* (*Moralia*), Loeb Classical Library | PRIMARIA | C, I |
-| Trumbower, J.A., *Rescue for the Dead*, 2001 | REVISADA POR PARES (monografía) | F |
-| Treggiari, S., *Roman Marriage*, Oxford University Press, 1991 | REVISADA POR PARES (monografía) | I |
-
----
-
 ## I. El Mundo en Esa Época
 
 > **El mundo de los destinatarios.** A diferencia de los compañeros de los Evangelios y Hechos (situados en la Judea del Segundo Templo), 1 Pedro se dirige a creyentes dispersos en las **provincias grecorromanas de Asia Menor** (el Ponto, Galacia, Capadocia, Asia, Bitinia — 1:1; §C1) a finales del primer siglo EC. Las instrucciones domésticas del capítulo (vv.1-7) hablan directamente a las **normas de matrimonio y hogar del mundo grecorromano más amplio** — razón por la cual esta Sección I se centra en ese entorno doméstico-y-social en lugar de en la ciudad-Templo. Se usa la forma plana `### [Tema]` (la predeterminada).
@@ -307,6 +275,39 @@ El habla pública y asertiva estaba codificada como una prerrogativa masculina e
 **Fuente:** Balch, D.L., *Let Wives Be Submissive*, Scholars Press, 1981, pp. 95-116; Hemelrijk, E.A., *Matrona Docta*, Routledge, 1999; Treggiari, S., *Roman Marriage*, Oxford University Press, 1991.
 
 ---
+
+## H. Fuentes Consultadas
+
+| Fuente | Tipo | Usada en secciones |
+|--------|------|-----------------|
+| Achtemeier, P.J., *1 Peter*, Hermeneia, 1996 | REVISADA POR PARES (comentario) | D, F |
+| Aristóteles, *Política*, Loeb Classical Library | PRIMARIA | B |
+| Balch, D.L., *Let Wives Be Submissive: The Domestic Code in 1 Peter*, 1981 | REVISADA POR PARES (monografía) | B, C, I |
+| Bauckham, R., *Jude, 2 Peter*, WBC 50, 1983 | REVISADA POR PARES (comentario) | B |
+| Bauer, W., *A Greek-English Lexicon of the NT* (BDAG), 3.ª ed., 2000 | REVISADA POR PARES (léxico) | D |
+| Bird, J.G., *Abuse, Power and Fearful Obedience*, LNTS, 2011 | REVISADA POR PARES (monografía) | F |
+| Charlesworth, J.H. (ed.), *The Old Testament Pseudepigrapha*, vol. 1, 1983 | PRIMARIA (colección de textos) | B |
+| Dalton, W.J., *Christ's Proclamation to the Spirits*, 2.ª ed., 1989 | REVISADA POR PARES (monografía) | F |
+| Eckstein, H.-J., *Der Begriff Syneidesis bei Paulus*, 1983 | REVISADA POR PARES (monografía) | D |
+| Edwards, M., Goodman, M., Price, S. (eds.), *Apologetics in the Roman Empire*, 1999 | REVISADA POR PARES (monografía) | F |
+| Elliott, J.H., *1 Peter*, Anchor Bible 37B, 2000 | REVISADA POR PARES (comentario) | C, I |
+| Goppelt, L., *Typos: The Typological Interpretation of the OT in the NT*, 1982 | REVISADA POR PARES (monografía) | D |
+| Grant, R.M., *Greek Apologists of the Second Century*, 1988 | REVISADA POR PARES (monografía) | F |
+| Hemelrijk, E.A., *Matrona Docta: Educated Women in the Roman Élite*, 1999 | REVISADA POR PARES (monografía) | I |
+| Horrell, D.G., *1 Peter*, New Testament Guides, 2008 | REVISADA POR PARES (monografía) | C |
+| Josefo, *Contra Apión*, Loeb Classical Library | PRIMARIA | B |
+| Kittredge, C.B., *Community and Authority*, HTS, 1998 | REVISADA POR PARES (monografía) | F |
+| Liddell y Scott, *Greek-English Lexicon*, 9.ª ed. | REVISADA POR PARES (léxico) | D |
+| Lieu, J., *Neither Jew nor Greek? Constructing Early Christianity*, 2002 | REVISADA POR PARES (monografía) | C |
+| Moulton, J.H. y Milligan, G., *The Vocabulary of the Greek Testament*, 1930 | REVISADA POR PARES (referencia) | D |
+| Nestle-Aland, *Novum Testamentum Graece*, 28.ª ed. | PRIMARIA | A, D, G |
+| Nickelsburg, G.W.E., *1 Enoch 1: A Commentary*, Hermeneia, 2001 | REVISADA POR PARES (comentario) | B |
+| Plutarco, *Coniugalia praecepta* (*Moralia*), Loeb Classical Library | PRIMARIA | C, I |
+| Treggiari, S., *Roman Marriage*, Oxford University Press, 1991 | REVISADA POR PARES (monografía) | I |
+| Trumbower, J.A., *Rescue for the Dead*, 2001 | REVISADA POR PARES (monografía) | F |
+
+---
+
 
 **Procedencia editorial:**
 - Redactado por: IA (Claude, Anthropic)

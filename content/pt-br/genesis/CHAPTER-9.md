@@ -349,7 +349,7 @@ E disse: "Maldito *seja* Canaã; servo de servos será para os seus irmãos."
 > 🔴 **CRÍTICO — KENAAN AMALDIÇOADO, NÃO CHAM**
 > - **אָרוּר כְּנָעַן** = "Maldito Kenaan." O texto não explica por que Kenaan, e não Cham, foi amaldiçoado; principais propostas (punição-através-da-descendência; etiológica — subjugação posterior de Canaã por Israel). **POSSÍVEL**; nenhuma comprovada. → Para discussão completa, veja o companheiro §G1.
 >
-> ⚠️ **NOTA DE RECEPÇÃO (Nível 2)**
+> 🟡 **NOTA DE RECEPÇÃO (Nível 2)**
 > Esta passagem tem história de recepção documentada envolvendo uso prejudicial. Veja o companheiro Seção F para contexto histórico.
 >
 > 🔴 **PRIMEIRA FALA DE NOACH**

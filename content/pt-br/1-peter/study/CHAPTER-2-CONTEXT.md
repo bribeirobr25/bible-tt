@@ -255,41 +255,6 @@ O Messias é chamado de "pastor e **supervisor** (**ἐπίσκοπος**, *epis
 
 ---
 
-## H. Fontes Consultadas
-
-| Fonte | Tipo | Usada nas seções |
-|--------|------|-----------------|
-| Achtemeier, P.J., *1 Peter*, Hermeneia, 1996 | PEER-REVIEWED (commentary) | A |
-| Balch, D.L., *Let Wives Be Submissive*, 1981 | PEER-REVIEWED (monograph) | B |
-| Bauer, W., *A Greek-English Lexicon of the NT* (BDAG), 3ª ed., 2000 | PEER-REVIEWED (lexicon) | A, D |
-| Bradley, K.R., *Slavery and Society at Rome*, 1994 | PEER-REVIEWED (monograph) | C |
-| Callahan, Horsley e Smith (eds.), *Slavery in Text and Interpretation*, 1998 | PEER-REVIEWED (collection) | F |
-| Elliott, J.H., *The Elect and the Holy*, 1966 | PEER-REVIEWED (monograph) | F |
-| Elliott, J.H., *A Home for the Homeless*, 2ª ed., 1990 | PEER-REVIEWED (monograph) | C |
-| Elliott, J.H., *1 Peter*, Anchor Bible 37B, 2000 | PEER-REVIEWED (commentary) | B, C, D, F |
-| Feldmeier, R., *Die Christen als Fremde*, 1992 | PEER-REVIEWED (monograph) | C |
-| Gärtner, B., *The Temple and the Community in Qumran and the NT*, 1965 | PEER-REVIEWED (monograph) | B |
-| Glancy, J.A., *Slavery in Early Christianity*, 2002 | PEER-REVIEWED (monograph) | F |
-| Harrill, J.A., *Slaves in the New Testament*, 2006 | PEER-REVIEWED (monograph) | C, F |
-| Hatch, E. e Redpath, H.A., *A Concordance to the Septuagint*, 2ª ed., 1998 | PEER-REVIEWED (reference) | D |
-| Justino Mártir, *Dialogue with Trypho*, em *Ante-Nicene Fathers* vol. 1 | PRIMARY (ancient text) | F |
-| Liddell e Scott, *Greek-English Lexicon*, 9ª ed. | PEER-REVIEWED (lexicon) | A, D |
-| Lindars, B., *New Testament Apologetic*, 1961 | PEER-REVIEWED (monograph) | B |
-| Lutero, M., *To the Christian Nobility* (1520), *Luther's Works* vol. 44, 1966 | PRIMARY (text) | F |
-| McKelvey, R.J., "Christ the Cornerstone", *NTS* 8 (1962) | PEER-REVIEWED (article) | D |
-| Michaels, J.R., *1 Peter*, Word Biblical Commentary 49, 1988 | PEER-REVIEWED (commentary) | A, D |
-| Millar, F., *The Emperor in the Roman World*, 2ª ed., 1992 | PEER-REVIEWED (monograph) | C |
-| Nestle-Aland, *Novum Testamentum Graece*, 28ª ed. | PRIMARY | A, D, G |
-| Plínio, o Jovem, *Letters*, Loeb Classical Library | PRIMARY (ancient text) | C |
-| Price, S.R.F., *Rituals and Power*, 1984 | PEER-REVIEWED (monograph) | C, I |
-| Schutter, W.L., *Hermeneutic and Composition in 1 Peter*, 1989 | PEER-REVIEWED (monograph) | A |
-| Soulen, R.K., *The God of Israel and Christian Theology*, 1996 | PEER-REVIEWED (monograph) | F |
-| Suetônio, *Lives of the Caesars* (*Claudius*), Loeb Classical Library | PRIMARY (ancient text) | G |
-| Vermes, G., *The Complete Dead Sea Scrolls in English*, ed. rev., 2011 | PRIMARY (text collection) | B |
-| Winter, B.W., *Seek the Welfare of the City*, 1994 | PEER-REVIEWED (monograph) | C, I |
-
----
-
 ## I. O Mundo na Época
 
 > **Referência cruzada:** 1 Pedro endereça crentes dispersos em cinco províncias da Ásia Menor (Ponto, Galácia, Capadócia, Ásia, Bitínia — 1:1) na segunda metade do primeiro século d.C. Para o amplo cenário romano-imperial do período, veja o complemento de João 1 (Seção I, `en/john/study/CHAPTER-1-CONTEXT.md`). Ao contrário dos complementos dos Evangelhos/Atos, o mundo que importa para 1 Pedro 2 é **o mundo dos destinatários** — a casa greco-romana, a cultura de honra/vergonha, a escravidão e a ordem imperial — não o mundo de uma narrativa judaica. As entradas abaixo abordam esses cenários específicos. Dois cenários são distinguidos pelo ponto de vista social que as instruções do capítulo pressupõem.
@@ -345,6 +310,42 @@ A autodescrição "peregrinos e exilados" (*paroikoi kai parepidēmoi*, 2:11; cf
 **Fonte:** Elliott, J.H., *A Home for the Homeless*, 2ª ed., Fortress Press, 1990, pp. 21-58; Feldmeier, R., *Die Christen als Fremde*, Mohr Siebeck, 1992; Bowe, B.E., em *The Catholic Biblical Quarterly* (sobre o cenário social de 1 Pedro).
 
 ---
+
+## H. Fontes Consultadas
+
+| Fonte | Tipo | Usada nas seções |
+|--------|------|-----------------|
+| Achtemeier, P.J., *1 Peter*, Hermeneia, 1996 | PEER-REVIEWED (commentary) | A |
+| Balch, D.L., *Let Wives Be Submissive*, 1981 | PEER-REVIEWED (monograph) | B |
+| Bauer, W., *A Greek-English Lexicon of the NT* (BDAG), 3ª ed., 2000 | PEER-REVIEWED (lexicon) | A, D |
+| Bradley, K.R., *Slavery and Society at Rome*, 1994 | PEER-REVIEWED (monograph) | C |
+| Callahan, Horsley e Smith (eds.), *Slavery in Text and Interpretation*, 1998 | PEER-REVIEWED (collection) | F |
+| Elliott, J.H., *1 Peter*, Anchor Bible 37B, 2000 | PEER-REVIEWED (commentary) | B, C, D, F |
+| Elliott, J.H., *A Home for the Homeless*, 2ª ed., 1990 | PEER-REVIEWED (monograph) | C |
+| Elliott, J.H., *The Elect and the Holy*, 1966 | PEER-REVIEWED (monograph) | F |
+| Feldmeier, R., *Die Christen als Fremde*, 1992 | PEER-REVIEWED (monograph) | C |
+| Glancy, J.A., *Slavery in Early Christianity*, 2002 | PEER-REVIEWED (monograph) | F |
+| Gärtner, B., *The Temple and the Community in Qumran and the NT*, 1965 | PEER-REVIEWED (monograph) | B |
+| Harrill, J.A., *Slaves in the New Testament*, 2006 | PEER-REVIEWED (monograph) | C, F |
+| Hatch, E. e Redpath, H.A., *A Concordance to the Septuagint*, 2ª ed., 1998 | PEER-REVIEWED (reference) | D |
+| Justino Mártir, *Dialogue with Trypho*, em *Ante-Nicene Fathers* vol. 1 | PRIMARY (ancient text) | F |
+| Liddell e Scott, *Greek-English Lexicon*, 9ª ed. | PEER-REVIEWED (lexicon) | A, D |
+| Lindars, B., *New Testament Apologetic*, 1961 | PEER-REVIEWED (monograph) | B |
+| Lutero, M., *To the Christian Nobility* (1520), *Luther's Works* vol. 44, 1966 | PRIMARY (text) | F |
+| McKelvey, R.J., "Christ the Cornerstone", *NTS* 8 (1962) | PEER-REVIEWED (article) | D |
+| Michaels, J.R., *1 Peter*, Word Biblical Commentary 49, 1988 | PEER-REVIEWED (commentary) | A, D |
+| Millar, F., *The Emperor in the Roman World*, 2ª ed., 1992 | PEER-REVIEWED (monograph) | C |
+| Nestle-Aland, *Novum Testamentum Graece*, 28ª ed. | PRIMARY | A, D, G |
+| Plínio, o Jovem, *Letters*, Loeb Classical Library | PRIMARY (ancient text) | C |
+| Price, S.R.F., *Rituals and Power*, 1984 | PEER-REVIEWED (monograph) | C, I |
+| Schutter, W.L., *Hermeneutic and Composition in 1 Peter*, 1989 | PEER-REVIEWED (monograph) | A |
+| Soulen, R.K., *The God of Israel and Christian Theology*, 1996 | PEER-REVIEWED (monograph) | F |
+| Suetônio, *Lives of the Caesars* (*Claudius*), Loeb Classical Library | PRIMARY (ancient text) | G |
+| Vermes, G., *The Complete Dead Sea Scrolls in English*, ed. rev., 2011 | PRIMARY (text collection) | B |
+| Winter, B.W., *Seek the Welfare of the City*, 1994 | PEER-REVIEWED (monograph) | C, I |
+
+---
+
 
 **Proveniência editorial:**
 - Redigido por: IA (Claude, Anthropic)

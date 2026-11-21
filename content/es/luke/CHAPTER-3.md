@@ -22,7 +22,7 @@
 - [Lectura Continua](#lectura-continua)
 - [Estudio Versículo por Versículo](#estudio-versículo-por-versículo)
 - [Glosario — Lucas 3](#glosario---lucas-3)
-- [Seguimiento entre Capítulos (BH -> Lucas)](#seguimiento-entre-capítulos-bh---lucas)
+- [Seguimiento entre Capítulos (BH → Lucas)](#seguimiento-entre-capítulos-bh---lucas)
 
 ---
 
@@ -37,7 +37,7 @@
 
 Las notas se etiquetan por tipo — **Crítico · Léxico · Gramatical · Teológico** — cada una con su color (vea la leyenda en la parte superior de la vista de Notas).
 
-**Este capítulo abre el ministerio público.** Lucas 3 fecha la aparición de Yochanan (Juan) mediante un sincronismo séxtuple de gobernantes (vv.1-2) — el marco cronológico más preciso de los Evangelios — y luego narra su proclamación en el desierto de una inmersión de arrepentimiento (vv.3-6), enmarcada por una larga cita de Yesha'yahu (Isaías) 40:3-5. Sigue su predicación a las multitudes, los recaudadores de impuestos y los soldados (vv.7-14), su señalamiento hacia un "más fuerte" (vv.15-17), y su encarcelamiento por Herodes (vv.18-20). Yeshua (Jesús) es sumergido y está orando cuando los cielos se abren, el {a:viento/espíritu} desciende, y una voz viene del cielo (vv.21-22). El capítulo cierra con la genealogía (vv.23-38), ascendiendo desde Yeshua hasta Adán hasta Dios — ~76 nombres. **Nota sobre la marcación del habla (Regla 30):** la predicación de Yochanan es habla profética *humana* y NO se marca como habla divina; solo la **voz del cielo** en 3:22 (la Bat-Qol) es habla directa de Dios y se marca con `@@…@@`. Los nombres propios siguen la transliteración TT: Yochanan (no Juan), Yeshua (no Jesús), Yesha'yahu (no Isaías), Herodes (no Herodes).
+**Este capítulo abre el ministerio público.** Lucas 3 fecha la aparición de Yochanan (Juan) mediante un sincronismo séxtuple de gobernantes (vv.1-2) — el marco cronológico más preciso de los Evangelios — y luego narra su proclamación en el desierto de una inmersión de arrepentimiento (vv.3-6), enmarcada por una larga cita de Yesha'yahu (Isaías) 40:3-5. Sigue su predicación a las multitudes, los recaudadores de impuestos y los soldados (vv.7-14), su señalamiento hacia un "más fuerte" (vv.15-17), y su encarcelamiento por Herodes (vv.18-20). Yeshua (Jesús) es sumergido y está orando cuando los cielos se abren, el {a:viento/espíritu} desciende, y una voz viene del cielo (vv.21-22). El capítulo cierra con la genealogía (vv.23-38), ascendiendo desde Yeshua hasta Adán hasta Dios — ~76 nombres. **Nota sobre la marcación del habla (Regla 30):** la predicación de Yochanan es habla profética *humana* y NO se marca como habla divina; solo la **voz del cielo** en 3:22 (la Bat-Qol) es habla directa de Dios y se marca con `@@…@@`. Los nombres aparecen en su forma familiar, con la forma de la lengua original indicada una vez por sección — p. ej., Yochanan (Juan).
 
 ---
 
@@ -63,7 +63,7 @@ Las notas se etiquetan por tipo — **Crítico · Léxico · Gramatical · Teol�
 
 ³Y él fue a toda la región alrededor del Yarden (Jordán), proclamando una inmersión de arrepentimiento para *la* liberación de pecados, ⁴como está escrito en *el* libro de *las* palabras de Yesha'yahu (Isaías) el profeta: "Una voz de *uno* que clama en el desierto: 'Preparen el camino del Señor, hagan rectas sus sendas. ⁵Todo barranco será llenado y todo monte y colina será rebajado, y los *lugares* torcidos se volverán rectos y los *caminos* ásperos en caminos llanos; ⁶y toda carne verá la salvación de Dios.'"
 
-⁷Así que decía a las multitudes que salían a ser sumergidas por él: "Descendencia de víboras, ¿quién les advirtió que huyeran de la ira venidera? ⁸Por tanto lleven frutos dignos de arrepentimiento, y no comiencen a decir entre ustedes: 'Tenemos a Avraham (Abraham) *por* padre.' Porque les digo que Dios es capaz de levantar de estas piedras hijos a Abraham. ⁹Y ya el hacha está puesta a la raíz de los árboles; por tanto todo árbol que no produce buen fruto es cortado y arrojado al *el* fuego."
+⁷Así que decía a las multitudes que salían a ser sumergidas por él: "Descendencia de víboras, ¿quién les advirtió que huyeran de la ira venidera? ⁸Por tanto lleven frutos dignos de arrepentimiento, y no comiencen a decir entre ustedes: 'Tenemos a Avraham (Abraham) *por* padre.' Porque les digo que Dios es capaz de levantar de estas piedras hijos a Abraham. ⁹Y ya el hacha está puesta a la raíz de los árboles; por tanto todo árbol que no produce buen fruto es cortado y arrojado *al* fuego."
 
 ¹⁰Y las multitudes le preguntaban, diciendo: "¿Qué entonces debemos hacer?" ¹¹Y respondiendo les decía: "El *que* tiene dos túnicas, comparta con el *que* no tiene ninguna, y el *que* tiene comida, haga lo mismo." ¹²Y también vinieron recaudadores de impuestos a ser sumergidos, y le dijeron: "Maestro, ¿qué debemos hacer?" ¹³Y él les dijo: "No recauden nada más de lo que les ha sido asignado." ¹⁴Y también le preguntaban soldados, diciendo: "Y nosotros, ¿qué debemos hacer?" Y les dijo: "No extorsionen a nadie ni acusen *a nadie* falsamente, y contentense con su salario."
 
@@ -189,7 +189,7 @@ Por tanto lleven frutos dignos de arrepentimiento, y no comiencen a decir entre 
 
 ### **Versículo 9**
 
-Y ya el hacha está puesta a la raíz de los árboles; por tanto todo árbol que no produce buen fruto es cortado y arrojado al *el* fuego."
+Y ya el hacha está puesta a la raíz de los árboles; por tanto todo árbol que no produce buen fruto es cortado y arrojado *al* fuego."
 
 > **Notas**
 >
@@ -374,7 +374,7 @@ de Mattat, de Levi, de Melchi, de Yannai, de Yosef,
 > **Notas**
 >
 > 🟡 **LA GENEALOGÍA ASCENDENTE (vv.23-38) — ESTRUCTURA Y DIVERGENCIA DE MATEO**
-> - La genealogía asciende — "hijo de X, de Y, de Z…" — cada versículo un grupo de nombres, remontando desde Yeshua a través de David (v.31), Avraham (v.34), Noach (v.36), hasta Adam y Dios (v.38). Esto es lo inverso de la lista descendente de Mateo (Mt 1:1-17, Abraham → Yeshua) y **diverge marcadamente de ella**, sobre todo en la generación inmediatamente arriba de José (Lucas: "de Eli"; Mateo: "Jacob engendró a José") y a lo largo de toda la línea post-davídica — un *crux* antiguo. Las armonizaciones propuestas (Lucas da la línea de María; matrimonio levirático; descender legal vs. biológico) son todas controvertidas. La TT traduce la lista de Lucas como la da el griego y señala la divergencia para revisión helenista (Regla 13). La **tabla genealógica completa, el conteo de generaciones, y los enlaces cruzados entre libros** (a `genesis` para Adán → los patriarcas, y a `matthew` para la línea de David) viven en **`luke/PEOPLE.md`** según la convención cruzada entre libros v3.3.2. **[histórico — POSIBLE]**
+> - La genealogía asciende — "hijo de X, de Y, de Z…" — cada versículo un grupo de nombres, remontando desde Yeshua a través de David (v.31), Avraham (v.34), Noach (v.36), hasta Adam y Dios (v.38). Esto es lo inverso de la lista descendente de Mateo (Mt 1:1-17, Abraham → Yeshua) y **diverge marcadamente de ella**, sobre todo en la generación inmediatamente arriba de José (Lucas: "de Eli"; Mateo: "Jacob engendró a José") y a lo largo de toda la línea post-davídica — un *crux* antiguo. Las armonizaciones propuestas (Lucas da la línea de María; matrimonio levirático; descender legal vs. biológico) son todas controvertidas. La TT traduce la lista de Lucas como la da el griego y señala la divergencia para revisión helenista (Regla 13). La **tabla genealógica completa, el conteo de generaciones, y los enlaces cruzados entre libros** (a `genesis` para Adán → los patriarcas, y a `matthew` para la línea de David) viven en **`luke/PEOPLE.md`**. **[histórico — POSIBLE]**
 >
 > 🟢 **POLÍTICA DE TRADUCCIÓN DE NOMBRES EN LA GENEALOGÍA**
 > - Los nombres con una forma familiar en español reciben la glosa "Transliterado (Familiar)" en la primera aparición en la genealogía (p.ej. David, Avraham (Abraham), Noach (Noé), Adam (Adán)). Los nombres sin una forma familiar distinta se dan solo en transliteración (p.ej. Mattat, Yannai, Neri). El repetido **τοῦ** griego (*tou*, genitivo "de") se traduce "de" en todo; el "hijo" implícito no se repite cada vez.
@@ -567,9 +567,9 @@ de Enosh, de Shet, de Adam (Adán), de Dios.
 
 ---
 
-## SEGUIMIENTO ENTRE CAPÍTULOS (BH -> Lucas)
+## SEGUIMIENTO ENTRE CAPÍTULOS (BH → Lucas)
 
-**Is 40:3-5 -> Lucas 3:4-6 — "una voz en el desierto":**
+**Is 40:3-5 → Lucas 3:4-6 — "una voz en el desierto":**
 
 | Elemento | Isaías 40:3-5 (LXX) | Lucas 3:4-6 |
 |----------|----------------------|-------------|
@@ -579,7 +579,7 @@ de Enosh, de Shet, de Adam (Adán), de Dios.
 
 Lucas cita Isaías 40 más que Mateo o Marcos, alcanzando el "toda carne verá la salvación de Dios" del v.5 — el horizonte universal que el ascenso de la genealogía hasta Adán (3:38) y "de Dios" reflejan.
 
-**Jer 1:1-2 / Os 1:1 -> Lucas 3:2 — la fórmula de llamado profético:**
+**Jer 1:1-2 / Os 1:1 → Lucas 3:2 — la fórmula de llamado profético:**
 
 | Elemento | Jeremías / Oseas (LXX) | Lucas 3:2 |
 |----------|-------------------------|-----------|
@@ -589,7 +589,7 @@ Lucas cita Isaías 40 más que Mateo o Marcos, alcanzando el "toda carne verá l
 
 Juan es moldeado a la forma de los profetas llamados — el idioma del acontecimiento-de-la-palabra y el detalle del hijo-de-sacerdote marcan su comisión; su predicación es profecía *humana* (no marcada como divina, Regla 30).
 
-**Sal 2:7 / Is 42:1 -> Lucas 3:22 — la voz del cielo (Bat-Qol):**
+**Sal 2:7 / Is 42:1 → Lucas 3:22 — la voz del cielo (Bat-Qol):**
 
 | Elemento | Salmo 2:7 / Isaías 42:1 | Lucas 3:22 |
 |----------|--------------------------|------------|
@@ -599,7 +599,7 @@ Juan es moldeado a la forma de los profetas llamados — el idioma del acontecim
 
 La voz celestial — habla directa de Dios, marcada como divina — fusiona la filiación real del Sal 2 con el siervo elegido de Is 42. Una variante occidental (Códice Beza) cita el Sal 2:7 completo ("hoy te he engendrado"); NA28 lee con Marcos/Mateo.
 
-**Gén 5 / Gén 11 / Rut 4 -> Lucas 3:31-38 — la genealogía ascendente:**
+**Gén 5 / Gén 11 / Rut 4 → Lucas 3:31-38 — la genealogía ascendente:**
 
 | Elemento | Génesis / Rut | Lucas 3:31-38 |
 |----------|----------------|---------------|

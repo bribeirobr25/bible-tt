@@ -4,7 +4,7 @@
 **Idioma:** Español
 **Alcance:** Juan 1–3
 **Reglas:** v3.4 (La Regla 29 gobierna este archivo)
-**Estatus:** provisional
+**Status:** provisorio
 
 ---
 

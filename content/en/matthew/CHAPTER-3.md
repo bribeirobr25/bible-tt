@@ -21,7 +21,7 @@
 - [Continuous Reading](#continuous-reading)
 - [Verse-by-Verse Study](#verse-by-verse-study)
 - [Glossary — Matthew 3](#glossary---matthew-3)
-- [Cross-Chapter Tracking (HB -> Matthew)](#cross-chapter-tracking-hb--matthew)
+- [Cross-Chapter Tracking (HB → Matthew)](#cross-chapter-tracking-hb--matthew)
 
 ---
 
@@ -36,7 +36,7 @@
 
 Notes are tagged by type — **Critical · Lexical · Grammatical · Theological** — each shown with its colour (see the legend at the top of the Notes view).
 
-**This chapter introduces Yochanan the Immerser and "the kingdom of the skies."** The phrase *basileia tōn ouranōn* ("kingdom of the skies") appears for the first time in Matthew — a phrase unique to this Gospel (the other Gospels use "kingdom of God"). The TT renders *ouranōn* as "skies" per alignment with HB *shamayim*. Yochanan's practice of *baptisma* is rendered as "immersion" per locked glossary. Proper names follow TT transliteration: Yochanan (not John), Perushim (not Pharisees), Tsduqim (not Sadducees), Yarden (not Jordan).
+**This chapter introduces Yochanan the Immerser and "the kingdom of the skies."** The phrase *basileia tōn ouranōn* ("kingdom of the skies") appears for the first time in Matthew — a phrase unique to this Gospel (the other Gospels use "kingdom of God"). The TT renders *ouranōn* as "skies" per alignment with HB *shamayim*. Yochanan's practice of *baptisma* is rendered as "immersion" per locked glossary. Names appear in their familiar form, with the source-language form given once per section — e.g. Yochanan (John).
 
 ---
 
@@ -353,9 +353,9 @@ And see, a voice from the skies, saying, @@"This is my son, the beloved, in whom
 
 ---
 
-## CROSS-CHAPTER TRACKING (HB -> Matthew)
+## CROSS-CHAPTER TRACKING (HB → Matthew)
 
-**Isaiah 40:3 -> Matt 3:3 — "Prepare the way of the Lord":**
+**Isaiah 40:3 → Matt 3:3 — "Prepare the way of the Lord":**
 
 | Element | Isaiah 40:3 (MT) | Matt 3:3 (following LXX) |
 |---------|-------------------|--------------------------|
@@ -366,7 +366,7 @@ And see, a voice from the skies, saying, @@"This is my son, the beloved, in whom
 
 The syntactic shift matters: in Isaiah, the wilderness is where the road is built; in Matthew, the wilderness is where the preacher preaches. Both readings are ancient — the LXX already reflects the second parsing.
 
-**2 Kings 1:8 -> Matt 3:4 — Eliyahu's clothing:**
+**2 Kings 1:8 → Matt 3:4 — Eliyahu's clothing:**
 
 | Element | 2 Kings 1:8 | Matt 3:4 |
 |---------|-------------|----------|
@@ -375,7 +375,7 @@ The syntactic shift matters: in Isaiah, the wilderness is where the road is buil
 
 The clothing description is nearly identical. Matthew presents Yochanan as the Eliyahu figure anticipated in Malachi 3:23 [4:5].
 
-**Psalm 2:7 + Isaiah 42:1 -> Matt 3:17 — "This is my son, the beloved":**
+**Psalm 2:7 + Isaiah 42:1 → Matt 3:17 — "This is my son, the beloved":**
 
 | Element | Psalm 2:7 | Isaiah 42:1 | Matt 3:17 |
 |---------|-----------|-------------|-----------|
@@ -385,7 +385,7 @@ The clothing description is nearly identical. Matthew presents Yochanan as the E
 
 The bat qol merges the royal and servant traditions into a single declaration. The "beloved" (**ἀγαπητός**, *agapētos*) may also echo Gen 22:2 (LXX), where YHWH tells Avraham to take "your son, the beloved" (*ton huion sou ton agapēton*) — Yitschaq. The Isaac-binding echo adds a sacrificial dimension.
 
-**Genesis 1:2 -> Matt 3:16 — Wind/spirit over the waters:**
+**Genesis 1:2 → Matt 3:16 — Wind/spirit over the waters:**
 
 | Element | Gen 1:2 | Matt 3:16 |
 |---------|---------|-----------|

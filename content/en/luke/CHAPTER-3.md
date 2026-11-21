@@ -21,7 +21,7 @@
 - [Continuous Reading](#continuous-reading)
 - [Verse-by-Verse Study](#verse-by-verse-study)
 - [Glossary — Luke 3](#glossary---luke-3)
-- [Cross-Chapter Tracking (HB -> Luke)](#cross-chapter-tracking-hb--luke)
+- [Cross-Chapter Tracking (HB → Luke)](#cross-chapter-tracking-hb--luke)
 
 ---
 
@@ -36,7 +36,7 @@
 
 Notes are tagged by type — **Critical · Lexical · Grammatical · Theological** — each shown with its colour (see the legend at the top of the Notes view).
 
-**This chapter opens the public ministry.** Luke 3 dates the appearance of Yochanan (John) by a sixfold synchronism of rulers (vv.1-2) — the most precise chronological frame in the Gospels — then narrates his wilderness proclamation of an immersion of repentance (vv.3-6), framed by a long quotation of Yesha'yahu (Isaiah) 40:3-5. His preaching to the crowds, tax-collectors, and soldiers (vv.7-14), his pointing ahead to a "stronger one" (vv.15-17), and his imprisonment by Herodes (Herod) (vv.18-20) follow. Yeshua (Jesus) is immersed and praying when the skies open, the {a:wind/spirit} descends, and a voice comes from heaven (vv.21-22). The chapter closes with the genealogy (vv.23-38), ascending from Yeshua to Adam to God — ~76 names. **Note on speech-marking (Rule 30):** Yochanan's preaching is *human* prophetic speech and is NOT marked as divine speech; only the **voice from heaven** at 3:22 (the Bat-Qol) is God's direct speech and is marked with `@@…@@`. Proper names follow TT transliteration: Yochanan (not John), Yeshua (not Jesus), Yesha'yahu (not Isaiah), Herodes (not Herod).
+**This chapter opens the public ministry.** Luke 3 dates the appearance of Yochanan (John) by a sixfold synchronism of rulers (vv.1-2) — the most precise chronological frame in the Gospels — then narrates his wilderness proclamation of an immersion of repentance (vv.3-6), framed by a long quotation of Yesha'yahu (Isaiah) 40:3-5. His preaching to the crowds, tax-collectors, and soldiers (vv.7-14), his pointing ahead to a "stronger one" (vv.15-17), and his imprisonment by Herodes (Herod) (vv.18-20) follow. Yeshua (Jesus) is immersed and praying when the skies open, the {a:wind/spirit} descends, and a voice comes from heaven (vv.21-22). The chapter closes with the genealogy (vv.23-38), ascending from Yeshua to Adam to God — ~76 names. **Note on speech-marking (Rule 30):** Yochanan's preaching is *human* prophetic speech and is NOT marked as divine speech; only the **voice from heaven** at 3:22 (the Bat-Qol) is God's direct speech and is marked with `@@…@@`. Names appear in their familiar form, with the source-language form given once per section — e.g. Yochanan (John).
 
 ---
 
@@ -373,7 +373,7 @@ of Mattat, of Levi, of Melchi, of Yannai, of Yosef,
 > **Notes**
 >
 > 🟡 **THE ASCENDING GENEALOGY (vv.23-38) — STRUCTURE AND DIVERGENCE FROM MATTHEW**
-> - The genealogy ascends — "son of X, of Y, of Z…" — each verse a cluster of names, running back from Yeshua through David (v.31), Avraham (v.34), Noach (v.36), to Adam and God (v.38). This is the reverse of Matthew's descending list (Matt 1:1-17, Abraham → Yeshua) and **diverges sharply from it**, most notably at the generation immediately above Joseph (Luke: "of Eli"; Matthew: "Jacob fathered Joseph") and across the whole post-Davidic line — a long-standing crux. Proposed harmonizations (Luke gives Mary's line; levirate marriage; legal vs. biological descent) are all contested. The TT renders Luke's list as the Greek gives it and flags the divergence for Hellenist review (Rule 13). The **full genealogy table, generation count, and cross-book see-stubs** (to `genesis` for Adam → the patriarchs, and to `matthew` for the David line) live in **`luke/PEOPLE.md`** per the v3.3.2 cross-book convention. **[historical — POSSIBLE]**
+> - The genealogy ascends — "son of X, of Y, of Z…" — each verse a cluster of names, running back from Yeshua through David (v.31), Avraham (v.34), Noach (v.36), to Adam and God (v.38). This is the reverse of Matthew's descending list (Matt 1:1-17, Abraham → Yeshua) and **diverges sharply from it**, most notably at the generation immediately above Joseph (Luke: "of Eli"; Matthew: "Jacob fathered Joseph") and across the whole post-Davidic line — a long-standing crux. Proposed harmonizations (Luke gives Mary's line; levirate marriage; legal vs. biological descent) are all contested. The TT renders Luke's list as the Greek gives it and flags the divergence for Hellenist review (Rule 13). The **full genealogy table, generation count, and cross-book see-stubs** (to `genesis` for Adam → the patriarchs, and to `matthew` for the David line) live in **`luke/PEOPLE.md`**. **[historical — POSSIBLE]**
 >
 > 🟢 **GENEALOGY NAME-RENDERING POLICY**
 > - Names with a familiar English form receive the "Transliterated (Familiar)" gloss at first occurrence in the genealogy (e.g. David, Avraham (Abraham), Noach (Noah), Adam). Names without a distinct familiar form are given in transliteration only (e.g. Mattat, Yannai, Neri). The Greek's repeated **τοῦ** (*tou*, genitive "of") is rendered "of" throughout; the implied "son" is not repeated each time.
@@ -566,9 +566,9 @@ of Enosh, of Shet, of Adam, of God.
 
 ---
 
-## CROSS-CHAPTER TRACKING (HB -> Luke)
+## CROSS-CHAPTER TRACKING (HB → Luke)
 
-**Isa 40:3-5 -> Luke 3:4-6 — "a voice in the wilderness":**
+**Isa 40:3-5 → Luke 3:4-6 — "a voice in the wilderness":**
 
 | Element | Isaiah 40:3-5 (LXX) | Luke 3:4-6 |
 |---------|----------------------|-------------|
@@ -578,7 +578,7 @@ of Enosh, of Shet, of Adam, of God.
 
 Luke quotes Isaiah 40 further than Matthew or Mark, reaching v.5's "all flesh will see the salvation of God" — the universal horizon that the genealogy's ascent to Adam (3:38) and "of God" mirror.
 
-**Jer 1:1-2 / Hos 1:1 -> Luke 3:2 — the prophetic-call formula:**
+**Jer 1:1-2 / Hos 1:1 → Luke 3:2 — the prophetic-call formula:**
 
 | Element | Jeremiah / Hosea (LXX) | Luke 3:2 |
 |---------|-------------------------|----------|
@@ -588,7 +588,7 @@ Luke quotes Isaiah 40 further than Matthew or Mark, reaching v.5's "all flesh wi
 
 John is cast in the mould of the called prophets — the word-event idiom and the priestly-son detail mark his commission; his preaching is *human* prophecy (not divine-marked, Rule 30).
 
-**Ps 2:7 / Isa 42:1 -> Luke 3:22 — the voice from heaven (Bat-Qol):**
+**Ps 2:7 / Isa 42:1 → Luke 3:22 — the voice from heaven (Bat-Qol):**
 
 | Element | Psalm 2:7 / Isaiah 42:1 | Luke 3:22 |
 |---------|--------------------------|-----------|
@@ -598,7 +598,7 @@ John is cast in the mould of the called prophets — the word-event idiom and th
 
 The heavenly voice — God's direct speech, divine-marked — fuses the royal sonship of Ps 2 with the chosen servant of Isa 42. A Western variant (Codex Bezae) quotes Ps 2:7 in full ("today I have begotten you"); NA28 reads with Mark/Matthew.
 
-**Gen 5 / Gen 11 / Ruth 4 -> Luke 3:31-38 — the ascending genealogy:**
+**Gen 5 / Gen 11 / Ruth 4 → Luke 3:31-38 — the ascending genealogy:**
 
 | Element | Genesis / Ruth | Luke 3:31-38 |
 |---------|-----------------|---------------|

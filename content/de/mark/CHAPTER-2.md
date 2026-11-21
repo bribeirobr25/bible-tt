@@ -21,7 +21,7 @@
 - [Fortlaufende Lesung](#fortlaufende-lesung)
 - [Vers-für-Vers-Studie](#vers-für-vers-studie)
 - [Glossar — Markus 2](#glossar---markus-2)
-- [Kapitelübergreifende Verfolgung (HB -> Markus)](#kapitelübergreifende-verfolgung-hb---markus)
+- [Kapitelübergreifende Verfolgung (HB → Markus)](#kapitelübergreifende-verfolgung-hb---markus)
 
 ---
 
@@ -401,9 +401,9 @@ so ist der Menschensohn Herr sogar über den Sabbat."
 
 ---
 
-## KAPITELÜBERGREIFENDE VERFOLGUNG (HB -> Markus)
+## KAPITELÜBERGREIFENDE VERFOLGUNG (HB → Markus)
 
-**1 Samuel 21,1–6 -> Markus 2,25–26 — David und das geweihte Brot:**
+**1 Samuel 21,1–6 → Markus 2,25–26 — David und das geweihte Brot:**
 
 | Element | 1 Samuel 21 | Markus 2,25–26 |
 |---------|-------------|----------------|
@@ -412,7 +412,7 @@ so ist der Menschensohn Herr sogar über den Sabbat."
 | Der Priester | **Achimelech** | „**Abjatar** der Hohepriester" (eine bekannte Diskrepanz) |
 | Der Punkt | Not setzt rituelle Beschränkung außer Kraft | der Sabbat dient menschlicher Not |
 
-**Daniel 7,13 -> Markus 2,10; 2,28 — „Menschensohn":**
+**Daniel 7,13 → Markus 2,10; 2,28 — „Menschensohn":**
 
 | Element | Daniel 7,13 | Markus 2,10.28 |
 |---------|-------------|----------------|
@@ -420,7 +420,7 @@ so ist der Menschensohn Herr sogar über den Sabbat."
 | Schauplatz | mit den Wolken kommend, mit Herrschaft betraut | Vollmacht zu vergeben; Herr des Sabbats |
 | Sinn | erhabene himmlische Gestalt | generisch + titular zusammengehalten |
 
-**Genesis 2,2–3 / Exodus 20,8–11 -> Markus 2,27 — der Sabbat:**
+**Genesis 2,2–3 / Exodus 20,8–11 → Markus 2,27 — der Sabbat:**
 
 Der Sabbat als Schöpfungsgeschenk „für den Menschen" stimmt mit seiner Einsetzung bei der Schöpfung (Gen 2,2–3) und der Begründung des Dekalogs (Ex 20,8–11) überein — Ruhe gegründet im menschlichen Nutzen, nicht in der Unterordnung des Menschen unter den Tag.
 
