@@ -37,13 +37,13 @@
 
 As notas são marcadas por tipo — **Crítico · Lexical · Gramatical · Teológico** — cada uma com sua cor (veja a legenda no topo da visão de Notas).
 
-**Este capítulo contém o versículo mais citado da Bíblia (3:16) e uma das ambiguidades tradutórias mais importantes do Evangelho: ἄνωθεν (*anōthen*) no v.3, que significa tanto "do alto" (espacial) quanto "de novo" (temporal). A TT preserva o duplo sentido com uma barra — "do alto/de novo" — porque o leitor grego teria ouvido ambos os sentidos simultaneamente. Nikodemos ouve apenas "de novo"; Yeshua quer dizer "do alto." O poder do texto depende da ambiguidade. Os nomes próprios seguem a transliteração TT: Nikodemos (não Nicodemos), Yeshua (não Jesus), Yochanan (não João), Mosheh (não Moisés). A tradução "vida da era" (não "vida eterna") nos vv.15–16 reflete αἰώνιος (*aiōnios*), que se relaciona com αἰών (*aiōn*, "era") — uma qualidade de vida pertencente à era vindoura, não uma declaração sobre atemporalidade.**
+**Este capítulo contém o versículo mais citado da Bíblia (3:16) e uma das ambiguidades tradutórias mais importantes do Evangelho: ἄνωθεν (*anōthen*) no v.3, que significa tanto "do alto" (espacial) quanto "de novo" (temporal). A TT preserva o duplo sentido com uma barra — "do alto/de novo" — porque o leitor grego teria ouvido ambos os sentidos simultaneamente. Nikodemos ouve apenas "de novo"; Yeshua quer dizer "do alto." O poder do texto depende da ambiguidade. Os nomes aparecem na forma familiar, com a forma da língua original indicada uma vez por seção — p. ex., Yochanan (João). A tradução "vida da era" (não "vida eterna") nos vv.15–16 reflete αἰώνιος (*aiōnios*), que se relaciona com αἰών (*aiōn*, "era") — uma qualidade de vida pertencente à era vindoura, não uma declaração sobre atemporalidade.**
 
 ---
 
 ## VISÃO GERAL DO CAPÍTULO
 
-**O que acontece:** Um perushi chamado Nicodemos — um líder dos yehudim — vem a Jesus à noite, reconhecendo-o como mestre vindo de Deus por causa dos sinais que realizou. Jesus responde com a declaração de que ninguém pode ver o reino de Deus a menos que nasça de cima/de novo. Nicodemos entende mal, tomando a palavra em seu sentido temporal: "Como pode um homem nascer sendo velho?" Jesus elabora: é preciso nascer de água e vento/espírito. O vento/espírito sopra onde quer — a mesma palavra significando tanto vento quanto espírito, criando um jogo de palavras deliberado. Nicodemos continua perguntando "Como podem essas coisas ser?" e Jesus o repreende: "Você é o mestre de Israel e você não sabe estas coisas?" Jesus fala do filho do homem sendo levantado como Moisés levantou a serpente no deserto (Nm 21:9), para que todos que confiam tenham vida da era. O versículo 16 declara o amor de Deus pelo mundo e o dom do filho único-nascido. Os versículos 17–21 desenvolvem o tema do julgamento como autosseleção: a luz veio, e aqueles que praticam o mal preferem as trevas. Nos vv.22–36, a cena muda para o interior da Yehudeia. Jesus imerge (a única passagem que declara isto); João, o Imersor, continua imergindo em Ainon perto de Shalim. Surge uma disputa sobre purificação. Os seguidores de João relatam que "todos" estão indo a Jesus. João responde com a metáfora do noivo e do amigo do noivo: "Ele deve crescer, eu devo diminuir." O capítulo encerra com uma declaração sobre aquele que vem do alto, o amor do Pai pelo Filho, e a consequência de não obedecer ao Filho.
+**O que acontece:** Um perushi chamado Nicodemos — um líder dos Yehudim — vem a Jesus à noite, reconhecendo-o como mestre vindo de Deus por causa dos sinais que realizou. Jesus responde com a declaração de que ninguém pode ver o reino de Deus a menos que nasça de cima/de novo. Nicodemos entende mal, tomando a palavra em seu sentido temporal: "Como pode um homem nascer sendo velho?" Jesus elabora: é preciso nascer de água e vento/espírito. O vento/espírito sopra onde quer — a mesma palavra significando tanto vento quanto espírito, criando um jogo de palavras deliberado. Nicodemos continua perguntando "Como podem essas coisas ser?" e Jesus o repreende: "Você é o mestre de Israel e você não sabe estas coisas?" Jesus fala do filho do homem sendo levantado como Moisés levantou a serpente no deserto (Nm 21:9), para que todos que confiam tenham vida da era. O versículo 16 declara o amor de Deus pelo mundo e o dom do filho único-nascido. Os versículos 17–21 desenvolvem o tema do julgamento como autosseleção: a luz veio, e aqueles que praticam o mal preferem as trevas. Nos vv.22–36, a cena muda para o interior da Yehudeia. Jesus imerge (a única passagem que declara isto); João, o Imersor, continua imergindo em Ainon perto de Shalim. Surge uma disputa sobre purificação. Os seguidores de João relatam que "todos" estão indo a Jesus. João responde com a metáfora do noivo e do amigo do noivo: "Ele deve crescer, eu devo diminuir." O capítulo encerra com uma declaração sobre aquele que vem do alto, o amor do Pai pelo Filho, e a consequência de não obedecer ao Filho.
 
 **Temas-chave:** Nascimento de cima/de novo — uma ambiguidade embutida; água e vento/espírito como condições de entrada no reino; o filho do homem "levantado" (um duplo sentido joanino — exaltação e crucificação); o amor de Deus pelo mundo; julgamento como resposta à luz, não como condenação arbitrária; a metáfora do noivo; a transição de João a Jesus; "vida da era" como o dom.
 
@@ -59,15 +59,15 @@ As notas são marcadas por tipo — **Crítico · Lexical · Gramatical · Teol�
 
 ---
 
-¹E havia um homem dos perushim — Nikodemos (Nicodemos) *era* o seu nome — um líder dos yehudim. ²Este veio a ele à noite e lhe disse: "Rabbi, sabemos que vieste de Deus *como* mestre, pois ninguém é capaz de fazer estes sinais que você faz, a menos que Deus esteja com ele." ³Yeshua (Jesus) respondeu e lhe disse: @@"Amém, amém, eu te digo, a menos que alguém nasça {a:do alto/de novo}, não é capaz de ver o reino de Deus."@@ ⁴Nicodemos lhe diz: "Como pode um homem nascer, sendo velho? Não pode entrar no ventre de sua mãe uma segunda vez e nascer, *pode*?" ⁵Jesus respondeu: @@"Amém, amém, eu te digo, a menos que alguém nasça de água e {a:vento/espírito}, não é capaz de entrar no reino de Deus. ⁶O que nasceu da carne é carne, e o que nasceu do {a:vento/espírito} é {a:vento/espírito}. ⁷Não se admire de que eu te disse: 'Vocês devem nascer {a:do alto/de novo}.' ⁸O {a:vento/espírito} sopra onde quer, e você ouve o seu som, mas você não sabe de onde vem e para onde vai; assim é todo aquele que nasceu do {a:vento/espírito}."@@
+¹E havia um homem dos perushim — Nikodemos (Nicodemos) *era* o seu nome — um líder dos Yehudim. ²Este veio a ele à noite e lhe disse: "Rabbi, sabemos que vieste de Deus *como* mestre, pois ninguém é capaz de fazer estes sinais que você faz, a menos que Deus esteja com ele." ³Yeshua (Jesus) respondeu e lhe disse: @@"Amém, amém, eu te digo, a menos que alguém nasça {a:do alto/de novo}, não é capaz de ver o reino de Deus."@@ ⁴Nicodemos lhe diz: "Como pode um homem nascer, sendo velho? Não pode entrar no ventre de sua mãe uma segunda vez e nascer, *pode*?" ⁵Jesus respondeu: @@"Amém, amém, eu te digo, a menos que alguém nasça de água e {a:vento/espírito}, não é capaz de entrar no reino de Deus. ⁶O que nasceu da carne é carne, e o que nasceu do {a:vento/espírito} é {a:vento/espírito}. ⁷Não se admire de que eu te disse: 'Vocês devem nascer {a:do alto/de novo}.' ⁸O {a:vento/espírito} sopra onde quer, e você ouve o seu som, mas você não sabe de onde vem e para onde vai; assim é todo aquele que nasceu do {a:vento/espírito}."@@
 
 ⁹Nicodemos respondeu e lhe disse: "Como podem essas coisas ser?" ¹⁰Jesus respondeu e lhe disse: @@"Você é o mestre de Yisrael (Israel) e você não sabe estas coisas? ¹¹Amém, amém, eu te digo, falamos o que sabemos e testemunhamos *do* que vimos, e vocês não recebem o nosso testemunho. ¹²Se eu disse a vocês coisas terrenas e vocês não confiam, como vocês confiarão se eu disser a vocês coisas celestiais? ¹³E ninguém subiu ao céu senão aquele que desceu do céu — o filho do homem. ¹⁴E assim como Mosheh (Moisés) levantou a serpente no deserto, assim deve o filho do homem ser levantado, ¹⁵para que todo aquele que confia nele tenha vida da era."@@
 
-¹⁶@@"Pois Deus amou o mundo de tal maneira que deu o filho único-nascido, para que todo aquele que confia nele não pereça, mas tenha vida da era. ¹⁷Pois Deus não enviou o filho ao mundo para que julgasse o mundo, mas para que o mundo fosse salvo por meio dele. ¹⁸Quem confia nele não é julgado; quem não confia já foi julgado, porque não confiou no nome do filho único-nascido de Deus. ¹⁹E este é o julgamento: que a luz veio ao mundo, e os seres humanos amaram mais as trevas do que a luz, pois as suas obras eram más. ²⁰Pois todo aquele que pratica *coisas* vis odeia a luz e não vem à luz, para que as suas obras não sejam expostas. ²¹Mas aquele que pratica a verdade vem à luz, para que as suas obras sejam manifestas — que foram realizadas em Deus."@@
+¹⁶"Pois Deus amou o mundo de tal maneira que deu o filho único-nascido, para que todo aquele que confia nele não pereça, mas tenha vida da era. ¹⁷Pois Deus não enviou o filho ao mundo para que julgasse o mundo, mas para que o mundo fosse salvo por meio dele. ¹⁸Quem confia nele não é julgado; quem não confia já foi julgado, porque não confiou no nome do filho único-nascido de Deus. ¹⁹E este é o julgamento: que a luz veio ao mundo, e os seres humanos amaram mais as trevas do que a luz, pois as suas obras eram más. ²⁰Pois todo aquele que pratica *coisas* vis odeia a luz e não vem à luz, para que as suas obras não sejam expostas. ²¹Mas aquele que pratica a verdade vem à luz, para que as suas obras sejam manifestas — que foram realizadas em Deus."
 
 ²²Depois destas coisas Jesus e seus seguidores foram para a terra da Yehudeia, e ali ele passava tempo com eles e imergia. ²³E Yochanan (João) também estava imergindo em Ainon perto de Shalim, porque havia muita água ali, e *pessoas* vinham e eram imersas — ²⁴pois João ainda não tinha sido lançado na prisão.
 
-²⁵Então surgiu uma disputa dos seguidores de João com um yehudi a respeito de purificação. ²⁶E vieram a João e lhe disseram: "Rabbi, aquele que estava contigo além do Yarden (Jordão), a respeito de quem testemunhaste — eis que este imerge, e todos estão indo a ele." ²⁷João respondeu e disse: "Um homem não é capaz de receber coisa alguma a menos que lhe tenha sido dada do céu. ²⁸Vocês mesmos testemunham por mim que eu disse: 'Eu não sou o ungido,' mas, 'Eu fui enviado diante daquele.' ²⁹Quem tem a noiva é o noivo; mas o amigo do noivo, que está de pé e o ouve, regozija-se grandemente por causa da voz do noivo. Esta alegria minha, portanto, se cumpriu. ³⁰Aquele deve crescer, mas eu devo diminuir."
+²⁵Então surgiu uma disputa dos seguidores de João com um Yehudi a respeito de purificação. ²⁶E vieram a João e lhe disseram: "Rabbi, aquele que estava contigo além do Yarden (Jordão), a respeito de quem testemunhaste — eis que este imerge, e todos estão indo a ele." ²⁷João respondeu e disse: "Um homem não é capaz de receber coisa alguma a menos que lhe tenha sido dada do céu. ²⁸Vocês mesmos testemunham por mim que eu disse: 'Eu não sou o ungido,' mas, 'Eu fui enviado diante daquele.' ²⁹Quem tem a noiva é o noivo; mas o amigo do noivo, que está de pé e o ouve, regozija-se grandemente por causa da voz do noivo. Esta alegria minha, portanto, se cumpriu. ³⁰Aquele deve crescer, mas eu devo diminuir."
 
 ³¹"O que vem do alto está acima de todos. O que é da terra é da terra e fala da terra. O que vem do céu está acima de todos. ³²O que ele viu e ouviu — disto ele testemunha, e ninguém recebe o seu testemunho. ³³Aquele que recebeu o seu testemunho selou que Deus é verdadeiro. ³⁴Pois aquele que Deus enviou fala as palavras de Deus, pois ele não dá o {a:vento/espírito} por medida. ³⁵O Pai ama o filho e deu todas as coisas em sua mão. ³⁶Quem confia no Filho tem vida da era; mas quem desobedece ao Filho não verá a vida, mas a ira de Deus permanece sobre ele."
 
@@ -77,7 +77,7 @@ As notas são marcadas por tipo — **Crítico · Lexical · Gramatical · Teol�
 
 ### **Versículo 1**
 
-E havia um homem dos perushim (fariseus) — Nikodemos (Nicodemos) *era* o seu nome — um líder dos yehudim.
+E havia um homem dos perushim (fariseus) — Nikodemos (Nicodemos) *era* o seu nome — um líder dos Yehudim.
 
 > **NOTAS**
 >
@@ -85,7 +85,7 @@ E havia um homem dos perushim (fariseus) — Nikodemos (Nicodemos) *era* o seu n
 > - **Νικόδημος** (*Nikodēmos*) = nome grego significando "vitória do povo" (νίκη + δῆμος). A TT mantém a forma de origem grega "Nikodemos" conforme política de transliteração. Ele reaparece em 7:50 e 19:39.
 >
 > 🟡 **"UM LÍDER DOS YEHUDIM"**
-> - **ἄρχων τῶν Ἰουδαίων** = um líder/governante dos yehudim. Isto provavelmente indica pertencimento ao Sinédrio (cf. 7:50, onde Nicodemos fala dentro daquele corpo). A combinação "fariseu + líder" o marca como uma figura de autoridade religiosa e política.
+> - **ἄρχων τῶν Ἰουδαίων** = um líder/governante dos Yehudim. Isto provavelmente indica pertencimento ao Sinédrio (cf. 7:50, onde Nicodemos fala dentro daquele corpo). A combinação "fariseu + líder" o marca como uma figura de autoridade religiosa e política.
 
 ---
 
@@ -289,7 +289,7 @@ Yeshua (Jesus) respondeu e lhe disse: @@"Você é o mestre de Yisrael (Israel) e
 
 ### **Versículo 16**
 
-@@"Pois Deus amou o mundo de tal maneira que deu o filho único-nascido, para que todo aquele que confia nele não pereça, mas tenha vida da era."@@
+"Pois Deus amou o mundo de tal maneira que deu o filho único-nascido, para que todo aquele que confia nele não pereça, mas tenha vida da era."
 
 > **NOTAS**
 >
@@ -303,13 +303,13 @@ Yeshua (Jesus) respondeu e lhe disse: @@"Você é o mestre de Yisrael (Israel) e
 > - **μὴ ἀπόληται** (*mē apolētai*) = "não pereça/seja destruído." O verbo **ἀπόλλυμι** (*apollymi*) = "destruir, arruinar, perecer." A alternativa à "vida da era" não é aniquilação versus existência, mas perecer versus a vida da era vindoura.
 >
 > 🟡 **AMBIGUIDADE DE LOCUTOR — YESHUA OU NARRADOR?**
-> - Onde termina a fala de Jesus (iniciada no v.3) e começa o comentário do narrador? O grego não tem aspas; propostas variam entre transição no v.12–13, no v.15 ou no v.21. A TT não impõe aspas além do que a estrutura grega suporta; a ausência de resolução é em si uma característica textual. Para discussão mais completa dos argumentos de cada posição, veja o companheiro Seção A5.
+> - Onde termina a fala de Jesus (iniciada no v.3) e começa o comentário do narrador? O grego não tem aspas; propostas variam entre transição no v.12–13, no v.15 ou no v.21. A TT não impõe aspas além do que a estrutura grega suporta; a ausência de resolução é em si uma característica textual. Como o falante (Jesus ou o narrador) fica em aberto, os vv.16–21 não são marcados como fala divina (em vermelho) — na dúvida, não marcar (Regra 30). Para discussão mais completa dos argumentos de cada posição, veja o companheiro Seção A5.
 
 ---
 
 ### **Versículo 17**
 
-@@Pois Deus não enviou o filho ao mundo para que julgasse o mundo, mas para que o mundo fosse salvo por meio dele.@@
+Pois Deus não enviou o filho ao mundo para que julgasse o mundo, mas para que o mundo fosse salvo por meio dele.
 
 > **NOTAS**
 >
@@ -323,7 +323,7 @@ Yeshua (Jesus) respondeu e lhe disse: @@"Você é o mestre de Yisrael (Israel) e
 
 ### **Versículo 18**
 
-@@Quem confia nele não é julgado; quem não confia já foi julgado, porque não confiou no nome do filho único-nascido de Deus.@@
+Quem confia nele não é julgado; quem não confia já foi julgado, porque não confiou no nome do filho único-nascido de Deus.
 
 > **NOTAS**
 >
@@ -337,7 +337,7 @@ Yeshua (Jesus) respondeu e lhe disse: @@"Você é o mestre de Yisrael (Israel) e
 
 ### **Versículo 19**
 
-@@E este é o julgamento: que a luz veio ao mundo, e os seres humanos amaram mais as trevas do que a luz, pois as suas obras eram más.@@
+E este é o julgamento: que a luz veio ao mundo, e os seres humanos amaram mais as trevas do que a luz, pois as suas obras eram más.
 
 > **NOTAS**
 >
@@ -351,7 +351,7 @@ Yeshua (Jesus) respondeu e lhe disse: @@"Você é o mestre de Yisrael (Israel) e
 
 ### **Versículo 20**
 
-@@Pois todo aquele que pratica *coisas* vis odeia a luz e não vem à luz, para que as suas obras não sejam expostas.@@
+Pois todo aquele que pratica *coisas* vis odeia a luz e não vem à luz, para que as suas obras não sejam expostas.
 
 > **NOTAS**
 >
@@ -365,7 +365,7 @@ Yeshua (Jesus) respondeu e lhe disse: @@"Você é o mestre de Yisrael (Israel) e
 
 ### **Versículo 21**
 
-@@Mas aquele que pratica a verdade vem à luz, para que as suas obras sejam manifestas — que foram realizadas em Deus.@@
+Mas aquele que pratica a verdade vem à luz, para que as suas obras sejam manifestas — que foram realizadas em Deus.
 
 > **NOTAS**
 >
@@ -418,12 +418,12 @@ pois Yochanan (João) ainda não tinha sido lançado na prisão.
 
 ### **Versículo 25**
 
-Então surgiu uma disputa dos seguidores de Yochanan (João) com um yehudi a respeito de purificação.
+Então surgiu uma disputa dos seguidores de Yochanan (João) com um Yehudi a respeito de purificação.
 
 > **NOTAS**
 >
 > 🔵 **VARIANTE TEXTUAL — "UM YEHUDI" OU "YEHUDIM"?**
-> - Alguns manuscritos leem **Ἰουδαίου** (*Ioudaiou*, singular — "um yehudi"); outros leem **Ἰουδαίων** (*Ioudaiōn*, plural — "yehudim"). NA28 lê o singular. A identidade desta pessoa é desconhecida — o texto introduz um personagem, registra o tópico da disputa ("purificação") e segue adiante sem resolução.
+> - Alguns manuscritos leem **Ἰουδαίου** (*Ioudaiou*, singular — "um Yehudi"); outros leem **Ἰουδαίων** (*Ioudaiōn*, plural — "Yehudim"). NA28 lê o singular. A identidade desta pessoa é desconhecida — o texto introduz um personagem, registra o tópico da disputa ("purificação") e segue adiante sem resolução.
 >
 > 🟢 **"PURIFICAÇÃO" — *KATHARISMOS***
 > - **καθαρισμός** (*katharismos*) = purificação, limpeza. A conexão entre imersão e ritos de purificação é o ponto de contenção — como a imersão de João se relaciona com as práticas de purificação estabelecidas?

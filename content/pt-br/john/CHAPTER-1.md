@@ -37,7 +37,7 @@
 
 As notas são marcadas por tipo — **Crítico · Lexical · Gramatical · Teológico** — cada uma com sua cor (veja a legenda no topo da visão de Notas).
 
-**Este é o primeiro capítulo das Escrituras Gregas no projeto TT.** O Prólogo (1:1–18) está entre as passagens teologicamente mais densas das Escrituras Gregas. O termo *logos* ("palavra") carrega um alcance semântico muito mais amplo do que qualquer palavra isolada em português pode capturar. A TT traduz como "palavra" (minúscula) com nota crítica no v.1 sobre o alcance semântico. Os nomes próprios seguem a transliteração TT: Yochanan (não João), Yeshua (não Jesus), Kefa (não Pedro), Philippos, Nathanael, Andreas. O sistema aspectual do verbo difere do sistema temporal hebraico usado em Gênesis — o aspecto grego (como o falante vê a ação) é primário, não o tempo.
+**Este é o primeiro capítulo das Escrituras Gregas no projeto TT.** O Prólogo (1:1–18) está entre as passagens teologicamente mais densas das Escrituras Gregas. O termo *logos* ("palavra") carrega um alcance semântico muito mais amplo do que qualquer palavra isolada em português pode capturar. A TT traduz como "palavra" (minúscula) com nota crítica no v.1 sobre o alcance semântico. Os nomes aparecem na forma familiar, com a forma da língua original indicada uma vez por seção — p. ex., Yochanan (João). O sistema aspectual do verbo difere do sistema temporal hebraico usado em Gênesis — o aspecto grego (como o falante vê a ação) é primário, não o tempo.
 
 ---
 
@@ -65,7 +65,7 @@ As notas são marcadas por tipo — **Crítico · Lexical · Gramatical · Teol�
 
 ¹⁴E a palavra se fez carne e habitou entre nós, e vimos a sua glória — glória como de um único de junto de um pai — cheia de {a:graça/favor} e verdade. ¹⁵João testemunha a respeito dele e tem clamado, dizendo: "Este era aquele de quem eu disse: 'O que vem depois de mim veio a estar diante de mim, porque era primeiro *em relação* a mim.'" ¹⁶Pois de sua plenitude todos nós recebemos, e {a:graça/favor} sobre {a:graça/favor}. ¹⁷Pois a lei foi dada por meio de Mosheh (Moisés); a {a:graça/favor} e a verdade vieram a existir por meio de Yeshua (Jesus), *o* ungido. ¹⁸Ninguém jamais viu Deus; o Deus único-nascido, o que está no seio do Pai — aquele *o* deu a conhecer.
 
-¹⁹E este é o testemunho de João, quando os yehudim enviaram sacerdotes e levitas de Yerushalayim (Jerusalém) para lhe perguntar: "Quem é você?" ²⁰E ele confessou e não negou, e confessou: "Eu não sou o ungido." ²¹E lhe perguntaram: "Então quê? É você Eliyahu (Elias)?" E ele diz: "Não sou." "É você o Profeta?" E ele respondeu: "Não." ²²Então lhe disseram: "Quem é você? — para que possamos dar uma resposta aos que nos enviaram. O que você diz de si mesmo?" ²³Ele disse: "Eu *sou* uma voz que clama no deserto: 'Preparem o caminho do Senhor'" — como disse Yeshayahu (Isaías), o profeta.
+¹⁹E este é o testemunho de João, quando os Yehudim enviaram sacerdotes e levitas de Yerushalayim (Jerusalém) para lhe perguntar: "Quem é você?" ²⁰E ele confessou e não negou, e confessou: "Eu não sou o ungido." ²¹E lhe perguntaram: "Então quê? É você Eliyahu (Elias)?" E ele diz: "Não sou." "É você o Profeta?" E ele respondeu: "Não." ²²Então lhe disseram: "Quem é você? — para que possamos dar uma resposta aos que nos enviaram. O que você diz de si mesmo?" ²³Ele disse: "Eu *sou* uma voz que clama no deserto: 'Preparem o caminho do Senhor'" — como disse Yeshayahu (Isaías), o profeta.
 
 ²⁴E *os que* tinham sido enviados eram dos Perushim (Fariseus). ²⁵E lhe perguntaram e lhe disseram: "Por que então você imerge, se você não é o ungido, nem Elias, nem o Profeta?" ²⁶João lhes respondeu, dizendo: "Eu imerjo em água; no meio de vocês está um que vocês não conhecem — ²⁷o que vem depois de mim, de quem eu não sou digno de desatar a correia da sua sandália." ²⁸Estas coisas aconteceram em Beyt-Anyah (Betânia), além do Yarden (Jordão), onde João estava imergindo.
 
@@ -343,12 +343,12 @@ Ninguém jamais viu Deus; o Deus único-nascido, o que está no seio do Pai — 
 
 ### **Versículo 19**
 
-E este é o testemunho de Yochanan (João), quando os yehudim enviaram sacerdotes e levitas de Yerushalayim (Jerusalém) para lhe perguntar: "Quem é você?"
+E este é o testemunho de Yochanan (João), quando os Yehudim enviaram sacerdotes e levitas de Yerushalayim (Jerusalém) para lhe perguntar: "Quem é você?"
 
 > **NOTAS**
 >
 > 🔴 **CRÍTICO — *HOI IOUDAIOI* ("OS YEHUDIM")**
-> - **οἱ Ἰουδαῖοι** (*hoi Ioudaioi*) = literalmente "os judeus/judeanos" — aqueles de Yehudah/Judeia. No Evangelho de João, este termo funciona de múltiplas maneiras: (1) étnico/geográfico ("povo da Judeia"), (2) autoridades religiosas ("a liderança judaica"), (3) mais amplo "o povo judeu." A TT traduz "os yehudim" — transliterando em vez de traduzir — para preservar a ambiguidade e sinalizar que o contexto deve determinar o referente por versículo. O termo NÃO significa "os judeus" no sentido étnico/religioso moderno. Nota de primeira ocorrência. Para discussão mais completa da amplitude deste termo ao longo do Evangelho de João, seu contexto histórico e as implicações interpretativas, veja o companheiro Seção C.
+> - **οἱ Ἰουδαῖοι** (*hoi Ioudaioi*) = literalmente "os judeus/judeanos" — aqueles de Yehudah/Judeia. No Evangelho de João, este termo funciona de múltiplas maneiras: (1) étnico/geográfico ("povo da Judeia"), (2) autoridades religiosas ("a liderança judaica"), (3) mais amplo "o povo judeu." A TT traduz "os Yehudim" — transliterando em vez de traduzir — para preservar a ambiguidade e sinalizar que o contexto deve determinar o referente por versículo. O termo NÃO significa "os judeus" no sentido étnico/religioso moderno. Nota de primeira ocorrência. Para discussão mais completa da amplitude deste termo ao longo do Evangelho de João, seu contexto histórico e as implicações interpretativas, veja o companheiro Seção C.
 >
 > 🟢 **YERUSHALAYIM — TRANSLITERAÇÃO TT**
 > - **Ἱεροσόλυμα** (*Hierosolyma*) = forma grega do hebraico יְרוּשָׁלַיִם (*Yerushalayim*). A TT usa a forma hebraica.

@@ -309,7 +309,7 @@ Esta es una decisión de traducción, no una posición teológica. La TT documen
 ### F5. Kyrios — Política del Nombre Divino en Mateo
 **[TEXTUAL — VERIFICADO]**
 
-Cuando Mateo cita pasajes de la Biblia Hebrea que contienen el Tetragrama (el nombre divino hebreo de cuatro letras יהוה, transliterado YHWH), el texto griego usa κύριος (*kyrios*). Según la Política del Nombre Divino de la TT (Opción C, RULES-GS.md):
+Cuando Mateo cita pasajes de la Biblia Hebrea que contienen el Tetragrama (el nombre divino hebreo de cuatro letras יהוה, transliterado YHWH), el texto griego usa κύριος (*kyrios*). Según la Política del Nombre Divino de la TT (Opción C):
 
 - El texto principal traduce *kyrios* como "el Señor" en contextos de citas del AT.
 - Una nota identifica la fuente del AT y declara que el hebreo subyacente tiene el Tetragrama.
@@ -331,9 +331,9 @@ Esto es particularmente relevante en Mateo dada la alta densidad de citas del AT
 | 7 | Preservar Estructura Paralela | La estructura quíntuple de discursos y el patrón recurrente de la fórmula de cumplimiento se preservan entre capítulos. *Parthenos* en 1:23 lleva su rango semántico griego completo. |
 | 11 | Marcar adiciones gramaticales | Palabras agregadas para la gramática española aparecen en cursiva. |
 | 13 | Niveles de incertidumbre | Términos debatidos y cuestiones genealógicas llevan etiquetas de confianza (Probable / Posible / Incierto). |
-| 14 | Anotar Juegos de Palabras | Términos griegos clave anotados en Nivel 2 donde campo semántico o juego de palabras es significativo. |
-| 22 | Restricción Textual-Crítica | Variantes textuales (ej., Mt 1:16 variante siríaca, Mt 27:16-17 "Jesús Barrabás") anotadas en Nivel 2 sin adopción silenciosa. |
-| 25 | Política del Nombre Divino — GS aplica Opción C | κύριος traducido como "el Señor" en contextos de cita del AT, con nota en Nivel 2 identificando YHWH en el hebreo subyacente. Ver Política del Nombre Divino (F5). |
+| 14 | Anotar Juegos de Palabras | Términos griegos clave anotados en las notas donde campo semántico o juego de palabras es significativo. |
+| 22 | Restricción Textual-Crítica | Variantes textuales (ej., Mt 1:16 variante siríaca, Mt 27:16-17 "Jesús Barrabás") anotadas en las notas sin adopción silenciosa. |
+| 25 | Política del Nombre Divino — GS aplica Opción C | κύριος traducido como "el Señor" en contextos de cita del AT, con una nota identificando YHWH en el hebreo subyacente. Ver Política del Nombre Divino (F5). |
 
 ---
 
@@ -355,4 +355,4 @@ Esto es particularmente relevante en Mateo dada la alta densidad de citas del AT
 
 ---
 
-> **Procedencia editorial:** Redactado por Claude Opus 4.6 (contexto 1M) el 27-04-2026. Sin revisión. Esta introducción es un recurso académico provisional gobernado por la Regla 29 de la TT. Todas las afirmaciones llevan etiquetas duales; ninguna afirmación debe leerse como la posición teológica o composicional de la TT. La TT traduce el texto griego (NA28) y no adopta ninguna teoría particular de autoría o composición.
+> **Procedencia editorial:** Borrador asistido por IA, aún no revisado. Esta introducción es un recurso académico provisional gobernado por la Regla 29 de la TT. Todas las afirmaciones llevan etiquetas duales; ninguna afirmación debe leerse como la posición teológica o composicional de la TT. La TT traduce el texto griego (NA28) y no adopta ninguna teoría particular de autoría o composición.

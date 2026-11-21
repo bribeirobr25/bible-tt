@@ -56,7 +56,7 @@ La elección no es trivial. La lectura "palabra" hace de la leche el mensaje que
 
 Los versículos 6-8 apilan tres escrituras sobre "piedras" en secuencia, y la TT mantiene cada una reconocible en lugar de fundirlas en una sola cita. La secuencia es: Isaías 28:16 ("una piedra angular escogida, preciosa… jamás será avergonzado", 2:6), Salmo 118:22 ("la piedra que los edificadores rechazaron… llegó a ser la cabeza del ángulo", 2:7) e Isaías 8:14 ("una piedra de tropiezo y una roca de escándalo", 2:8). La palabra que enlaza las tres es **λίθος** (*lithos*, "piedra"), la palabra-gancho que sostiene unida la cadena — una técnica exegética judía conocida (*gezerah shawah*, enlazar textos por una palabra compartida).
 
-El resultado es un solo argumento construido de tres voces: la misma piedra es "preciosa" para los que creen (Isa 28) y "tropiezo" para los que no (Isa 8), con la piedra rechazada-luego-vindicada del Salmo 118 en el medio. Solo la porción de Isaías 28:16 es el habla en primera persona de Dios ("yo pongo en Sion"), de modo que la TT marca esa cláusula **@@…@@** y deja las otras dos sin marcar (la voz en tercera persona del salmista y del profeta) — vea las notas versículo por versículo en 2:6-8 y §A6 del esquema editorial.
+El resultado es un solo argumento construido de tres voces: la misma piedra es "preciosa" para los que creen (Isa 28) y "tropiezo" para los que no (Isa 8), con la piedra rechazada-luego-vindicada del Salmo 118 en el medio. Solo la porción de Isaías 28:16 es el habla en primera persona de Dios ("yo pongo en Sion"), pero Pedro la está citando, así que la TT deja esa cláusula sin marcar como las otras dos (la voz en tercera persona del salmista y del profeta) (Regla 30) — vea las notas versículo por versículo en 2:6-8.
 
 ### A3. Los títulos de Israel transferidos a los lectores (2:9-10)
 **[TEXTUAL — VERIFICADO (para la cita); INFERENCIA POSIBLE — PROBABLE (para la mezcla-de-fuentes)]**
@@ -132,7 +132,7 @@ Los rasgos distintivos de la versión de 1 Pedro son visibles frente al género:
 
 Los siervos abordados en 2:18 son **οἰκέται** (*oiketai*), específicamente esclavos *domésticos*, no los **δοῦλοι** (*douloi*) generales o los esclavos rurales/agrícolas — las personas que vivían dentro del hogar y servían en estrecha cercanía. La esclavitud era omnipresente y legalmente fundamental en el imperio romano temprano: las estimaciones sitúan a los esclavizados en una gran minoría de la población de Italia y las ciudades, y los esclavos domésticos realizaban trabajo doméstico, administrativo, educativo y especializado. Un esclavo doméstico no tenía personalidad jurídica en el sentido pleno, estaba sujeto a la autoridad del *paterfamilias*, incluyendo el castigo corporal, y — como presupone 2:18-20 — podía ser golpeado justa o injustamente a discreción del amo. La manumisión era posible y no infrecuente, pero era del amo el concederla.
 
-El texto describe este mundo sin avalarlo. Aborda a los *oiketai* como agentes morales que pueden sufrir "injustamente" (2:19) bajo un amo "torcido" (2:18) — lenguaje que nombra la crueldad de la institución en lugar de excusarla — a la vez que no toma posición en el texto principal sobre la legitimidad de la institución (Regla 3; registro editorial P-009). Esta nota histórica suministra los hechos sociales que el versículo asume; no los convierte en una evaluación, que el capítulo mismo retiene.
+El texto describe este mundo sin avalarlo. Aborda a los *oiketai* como agentes morales que pueden sufrir "injustamente" (2:19) bajo un amo "torcido" (2:18) — lenguaje que nombra la crueldad de la institución en lugar de excusarla — a la vez que no toma posición en el texto principal sobre la legitimidad de la institución (Regla 3). Esta nota histórica suministra los hechos sociales que el versículo asume; no los convierte en una evaluación, que el capítulo mismo retiene.
 
 **Fuente:** Bradley, K.R., *Slavery and Society at Rome*, Cambridge University Press, 1994, pp. 1-30, 81-106; Harrill, J.A., *Slaves in the New Testament*, Fortress Press, 2006, pp. 85-117.
 
@@ -188,7 +188,7 @@ La TT traduce "piedra angular", siguiendo el sentido de fundamento que la metáf
 ### D3. *Hypotassō* — "someterse / estar subordinado" a lo largo del capítulo
 **[TEXTUAL — VERIFICADO]**
 
-**ὑποτάσσω** (*hypotassō*) es el verbo que ata la ética social de 1 Pedro. Un compuesto de **ὑπό** ("bajo") + **τάσσω** ("ordenar, disponer, apostar"), es un término militar y administrativo para ser puesto en rango o apostado bajo una autoridad ordenadora; la voz media/pasiva ("someterse, subordinarse a sí mismo") a menudo lleva un matiz voluntario, de auto-ordenamiento, en lugar de sujeción coaccionada. Aparece para el orden cívico ("sométanse a toda institución humana", 2:13), para los siervos domésticos ("estando sometidos… a sus amos", 2:18), y continúa para las esposas (3:1) y hacia el general "todos ustedes" (5:5). La TT lo traduce consistentemente "someterse / estar subordinado" para que la recurrencia siga siendo visible, y señala el campo-de-palabra en Nivel-2 (registro editorial P-009).
+**ὑποτάσσω** (*hypotassō*) es el verbo que ata la ética social de 1 Pedro. Un compuesto de **ὑπό** ("bajo") + **τάσσω** ("ordenar, disponer, apostar"), es un término militar y administrativo para ser puesto en rango o apostado bajo una autoridad ordenadora; la voz media/pasiva ("someterse, subordinarse a sí mismo") a menudo lleva un matiz voluntario, de auto-ordenamiento, en lugar de sujeción coaccionada. Aparece para el orden cívico ("sométanse a toda institución humana", 2:13), para los siervos domésticos ("estando sometidos… a sus amos", 2:18), y continúa para las esposas (3:1) y hacia el general "todos ustedes" (5:5). La TT lo traduce consistentemente "someterse / estar subordinado" para que la recurrencia siga siendo visible, y señala el campo-de-palabra en las notas.
 
 Dos rasgos que la TT preserva importan para leer el pasaje. Primero, a los siervos y las esposas se les *aborda directamente* como los sujetos que hacen el someterse — son agentes morales, no objetos del mandato de otro. Segundo, toda la secuencia está enmarcada por 2:16 ("como libres… como siervos de Dios") y fundamentada "por causa del Señor" (2:13) y en el ejemplo del Mesías (2:21) — la sumisión es un auto-ordenamiento voluntario dentro de una libertad previa y de una lealtad previa a Dios, no una sujeción absoluta o incondicional. La TT traduce el verbo literalmente y deja que ese marco se mantenga sin importar una resolución moderna.
 
@@ -221,7 +221,7 @@ Según la Regla 3 y §A3, la TT traduce solo lo que 2:9-10 dice — que estos t�
 
 El panel de los siervos de 2:18-25 tiene una de las historias de recepción más cargadas de cualquier pasaje del Nuevo Testamento. A lo largo de la antigüedad tardía y el período medieval se leyó, junto a los otros códigos domésticos (Ef 6:5-9; Col 3:22–4:1; el material de Onésimo en Filemón), como garantía escrituraria del orden existente de la esclavitud y la obediencia. En la era de la esclavitud transatlántica (siglos XVI-XIX) se convirtió en un texto-prueba estándar para el argumento proesclavista, citado para mandar a los esclavizados que se sometieran "aun al torcido" amo y que sufrieran sin resistencia; las "Biblias para esclavos" preparadas para los esclavizados en las colonias británicas retenían tales textos a la vez que extirpaban el material de liberación (p. ej. el Éxodo). Los lectores abolicionistas impugnaron esto, argumentando desde las mismas escrituras (la *imago Dei*, el Éxodo, Gál 3:28, Filemón leído como socavando la institución) que la esclavitud era incompatible con el evangelio. Los intérpretes modernos enfatizan ampliamente que el pasaje describe la conducta *dentro* de una institución que ni creó ni elogia, aborda a los esclavizados como agentes morales y fundamenta la perseverancia en la solidaridad del Mesías con quien sufre injustamente — no en ninguna sanción divina de la esclavitud misma.
 
-Toda esta historia es **recepción**, no el significado del griego. La TT, siguiendo el registro editorial P-009, traduce el pasaje fielmente (la sumisión de los siervos, el amo "torcido", el sufrimiento injusto, el Mesías como *hypogrammos*), registra la historia interpretativa aquí y en Nivel-2, y **no toma posición en el texto principal** sobre la institución — ni avalándola (lo cual el pasaje no hace) ni leyendo una ética abolicionista moderna de vuelta en un texto del siglo I (Regla 3, moderación en ambas direcciones). La nota en 2:18 y §C1 suministran los hechos sociales; esta entrada suministra la historia de uso; el versículo declara solo lo que declara.
+Toda esta historia es **recepción**, no el significado del griego. La TT traduce el pasaje fielmente (la sumisión de los siervos, el amo "torcido", el sufrimiento injusto, el Mesías como *hypogrammos*), registra la historia interpretativa aquí y en las notas, y **no toma posición en el texto principal** sobre la institución — ni avalándola (lo cual el pasaje no hace) ni leyendo una ética abolicionista moderna de vuelta en un texto del siglo I (Regla 3, moderación en ambas direcciones). La nota en 2:18 y §C1 suministran los hechos sociales; esta entrada suministra la historia de uso; el versículo declara solo lo que declara.
 
 **Fuente:** Glancy, J.A., *Slavery in Early Christianity*, Oxford University Press, 2002, pp. 102-156; Harrill, J.A., *Slaves in the New Testament*, Fortress Press, 2006, pp. 165-192; Callahan, A.D., Horsley, R.A. y Smith, A. (eds.), *Slavery in Text and Interpretation* (Semeia 83/84), Society of Biblical Literature, 1998.
 
@@ -255,44 +255,9 @@ El Mesías es llamado el "pastor y **supervisor** (**ἐπίσκοπος**, *epi
 
 ---
 
-## H. Fuentes Consultadas
-
-| Fuente | Tipo | Usada en secciones |
-|--------|------|-----------------|
-| Achtemeier, P.J., *1 Peter*, Hermeneia, 1996 | PEER-REVIEWED (commentary) | A |
-| Balch, D.L., *Let Wives Be Submissive*, 1981 | PEER-REVIEWED (monograph) | B |
-| Bauer, W., *A Greek-English Lexicon of the NT* (BDAG), 3.ª ed., 2000 | PEER-REVIEWED (lexicon) | A, D |
-| Bradley, K.R., *Slavery and Society at Rome*, 1994 | PEER-REVIEWED (monograph) | C |
-| Callahan, Horsley y Smith (eds.), *Slavery in Text and Interpretation*, 1998 | PEER-REVIEWED (collection) | F |
-| Elliott, J.H., *The Elect and the Holy*, 1966 | PEER-REVIEWED (monograph) | F |
-| Elliott, J.H., *A Home for the Homeless*, 2.ª ed., 1990 | PEER-REVIEWED (monograph) | C |
-| Elliott, J.H., *1 Peter*, Anchor Bible 37B, 2000 | PEER-REVIEWED (commentary) | B, C, D, F |
-| Feldmeier, R., *Die Christen als Fremde*, 1992 | PEER-REVIEWED (monograph) | C |
-| Gärtner, B., *The Temple and the Community in Qumran and the NT*, 1965 | PEER-REVIEWED (monograph) | B |
-| Glancy, J.A., *Slavery in Early Christianity*, 2002 | PEER-REVIEWED (monograph) | F |
-| Harrill, J.A., *Slaves in the New Testament*, 2006 | PEER-REVIEWED (monograph) | C, F |
-| Hatch, E. y Redpath, H.A., *A Concordance to the Septuagint*, 2.ª ed., 1998 | PEER-REVIEWED (reference) | D |
-| Justino Mártir, *Diálogo con Trifón*, en *Ante-Nicene Fathers* vol. 1 | PRIMARY (ancient text) | F |
-| Liddell y Scott, *Greek-English Lexicon*, 9.ª ed. | PEER-REVIEWED (lexicon) | A, D |
-| Lindars, B., *New Testament Apologetic*, 1961 | PEER-REVIEWED (monograph) | B |
-| Lutero, M., *A la nobleza cristiana* (1520), *Luther's Works* vol. 44, 1966 | PRIMARY (text) | F |
-| McKelvey, R.J., "Christ the Cornerstone", *NTS* 8 (1962) | PEER-REVIEWED (article) | D |
-| Michaels, J.R., *1 Peter*, Word Biblical Commentary 49, 1988 | PEER-REVIEWED (commentary) | A, D |
-| Millar, F., *The Emperor in the Roman World*, 2.ª ed., 1992 | PEER-REVIEWED (monograph) | C |
-| Nestle-Aland, *Novum Testamentum Graece*, 28.ª ed. | PRIMARY | A, D, G |
-| Plinio el Joven, *Letters*, Loeb Classical Library | PRIMARY (ancient text) | C |
-| Price, S.R.F., *Rituals and Power*, 1984 | PEER-REVIEWED (monograph) | C, I |
-| Schutter, W.L., *Hermeneutic and Composition in 1 Peter*, 1989 | PEER-REVIEWED (monograph) | A |
-| Soulen, R.K., *The God of Israel and Christian Theology*, 1996 | PEER-REVIEWED (monograph) | F |
-| Suetonio, *Lives of the Caesars* (*Claudius*), Loeb Classical Library | PRIMARY (ancient text) | G |
-| Vermes, G., *The Complete Dead Sea Scrolls in English*, ed. rev., 2011 | PRIMARY (text collection) | B |
-| Winter, B.W., *Seek the Welfare of the City*, 1994 | PEER-REVIEWED (monograph) | C, I |
-
----
-
 ## I. El Mundo en Esa Época
 
-> **Referencia cruzada:** 1 Pedro se dirige a creyentes dispersos en cinco provincias de Asia Menor (Ponto, Galacia, Capadocia, Asia, Bitinia — 1:1) en la segunda mitad del siglo I e.c. Para el entorno romano-imperial amplio del período, vea el compañero de Juan 1 (Sección I, `es/john/study/CHAPTER-1-CONTEXT.md`). A diferencia de los compañeros de los Evangelios/Hechos, el mundo que importa para 1 Pedro 2 es **el mundo de los destinatarios** — la casa grecorromana, la cultura del honor/vergüenza, la esclavitud y el orden imperial — no el mundo de una narrativa judea. Las entradas siguientes abordan esos entornos específicos. Se distinguen dos escenarios por el punto de vista social que presuponen las instrucciones del capítulo.
+> **Referencia cruzada:** 1 Pedro se dirige a creyentes dispersos en cinco provincias de Asia Menor (Ponto, Galacia, Capadocia, Asia, Bitinia — 1:1) en la segunda mitad del siglo I e.c. Para el entorno romano-imperial amplio del período, vea el material de estudio de Juan 1 (Profundizar), Sección I. A diferencia de los compañeros de los Evangelios/Hechos, el mundo que importa para 1 Pedro 2 es **el mundo de los destinatarios** — la casa grecorromana, la cultura del honor/vergüenza, la esclavitud y el orden imperial — no el mundo de una narrativa judea. Las entradas siguientes abordan esos entornos específicos. Se distinguen dos escenarios por el punto de vista social que presuponen las instrucciones del capítulo.
 
 ---
 
@@ -346,7 +311,41 @@ La autodescripción "peregrinos y exiliados" (*paroikoi kai parepidēmoi*, 2:11;
 
 ---
 
+## H. Fuentes Consultadas
+
+| Fuente | Tipo | Usada en secciones |
+|--------|------|-----------------|
+| Achtemeier, P.J., *1 Peter*, Hermeneia, 1996 | PEER-REVIEWED (commentary) | A |
+| Balch, D.L., *Let Wives Be Submissive*, 1981 | PEER-REVIEWED (monograph) | B |
+| Bauer, W., *A Greek-English Lexicon of the NT* (BDAG), 3.ª ed., 2000 | PEER-REVIEWED (lexicon) | A, D |
+| Bradley, K.R., *Slavery and Society at Rome*, 1994 | PEER-REVIEWED (monograph) | C |
+| Callahan, Horsley y Smith (eds.), *Slavery in Text and Interpretation*, 1998 | PEER-REVIEWED (collection) | F |
+| Elliott, J.H., *1 Peter*, Anchor Bible 37B, 2000 | PEER-REVIEWED (commentary) | B, C, D, F |
+| Elliott, J.H., *A Home for the Homeless*, 2.ª ed., 1990 | PEER-REVIEWED (monograph) | C |
+| Elliott, J.H., *The Elect and the Holy*, 1966 | PEER-REVIEWED (monograph) | F |
+| Feldmeier, R., *Die Christen als Fremde*, 1992 | PEER-REVIEWED (monograph) | C |
+| Glancy, J.A., *Slavery in Early Christianity*, 2002 | PEER-REVIEWED (monograph) | F |
+| Gärtner, B., *The Temple and the Community in Qumran and the NT*, 1965 | PEER-REVIEWED (monograph) | B |
+| Harrill, J.A., *Slaves in the New Testament*, 2006 | PEER-REVIEWED (monograph) | C, F |
+| Hatch, E. y Redpath, H.A., *A Concordance to the Septuagint*, 2.ª ed., 1998 | PEER-REVIEWED (reference) | D |
+| Justino Mártir, *Diálogo con Trifón*, en *Ante-Nicene Fathers* vol. 1 | PRIMARY (ancient text) | F |
+| Liddell y Scott, *Greek-English Lexicon*, 9.ª ed. | PEER-REVIEWED (lexicon) | A, D |
+| Lindars, B., *New Testament Apologetic*, 1961 | PEER-REVIEWED (monograph) | B |
+| Lutero, M., *A la nobleza cristiana* (1520), *Luther's Works* vol. 44, 1966 | PRIMARY (text) | F |
+| McKelvey, R.J., "Christ the Cornerstone", *NTS* 8 (1962) | PEER-REVIEWED (article) | D |
+| Michaels, J.R., *1 Peter*, Word Biblical Commentary 49, 1988 | PEER-REVIEWED (commentary) | A, D |
+| Millar, F., *The Emperor in the Roman World*, 2.ª ed., 1992 | PEER-REVIEWED (monograph) | C |
+| Nestle-Aland, *Novum Testamentum Graece*, 28.ª ed. | PRIMARY | A, D, G |
+| Plinio el Joven, *Letters*, Loeb Classical Library | PRIMARY (ancient text) | C |
+| Price, S.R.F., *Rituals and Power*, 1984 | PEER-REVIEWED (monograph) | C, I |
+| Schutter, W.L., *Hermeneutic and Composition in 1 Peter*, 1989 | PEER-REVIEWED (monograph) | A |
+| Soulen, R.K., *The God of Israel and Christian Theology*, 1996 | PEER-REVIEWED (monograph) | F |
+| Suetonio, *Lives of the Caesars* (*Claudius*), Loeb Classical Library | PRIMARY (ancient text) | G |
+| Vermes, G., *The Complete Dead Sea Scrolls in English*, ed. rev., 2011 | PRIMARY (text collection) | B |
+| Winter, B.W., *Seek the Welfare of the City*, 1994 | PEER-REVIEWED (monograph) | C, I |
+
+---
+
+
 **Procedencia editorial:**
-- Redactado por: IA (Claude, Anthropic)
-- Fecha: 26-06-2026
-- Revisado por: pendiente
+- Borrador asistido por IA, aún no revisado.

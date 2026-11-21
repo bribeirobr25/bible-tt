@@ -56,23 +56,23 @@ In 4,3 wird die Vergangenheit der Leser zusammengefasst als **τὸ βούλημ
 
 Das trockene Understatement **ἀρκετός** (*arketos*, „genügend / genug", 4,3) — „die Zeit, *die* vergangen *ist*, *ist* genug" dafür — wird bewahrt statt geglättet. In 4,4 wird die Reaktion der Außenstehenden mit zwei genauen Verben benannt: sie sind „befremdet" (*xenizontai*, wörtl. „finden es fremd / befremdlich"), dass die Gläubigen nicht mehr *mit* ihnen „**mitlaufen**" (*syntrechontōn*) in die „Flut der Maßlosigkeit" (*tēs asōtias anachysin*), und so **lästern** sie (*blasphēmountes*, „verleumden / lästern") sie. Die TT hält die soziale Mechanik — Rückzug, Verblüffung, Verleumdung — genau so, wie das Griechische sie darlegt (→ §I1).
 
-### A3. **4,6 „die gute Nachricht sogar den Toten verkündigt" — der Knackpunkt des Kapitels (P-010)**
+### A3. **4,6 „die gute Nachricht sogar den Toten verkündigt" — der Knackpunkt des Kapitels**
 **[TEXTUELL — VERIFIZIERT (für den Wortlaut); MÖGLICHE SCHLUSSFOLGERUNG — UNSICHER (für den Referenten)]**
 
-Die Wendung **καὶ νεκροῖς εὐηγγελίσθη** (*kai nekrois euēngelisthē*, 4,6), „die gute Nachricht wurde sogar *den* Toten verkündigt", ist der Knackpunkt des Kapitels mit hoher Zurückhaltung und wird wörtlich wiedergegeben, ohne dass eine Lesart übernommen wird (Regel 3 / Regel 13; redaktionelles Log P-010). Die drei lebendigen Lesarten:
+Die Wendung **καὶ νεκροῖς εὐηγγελίσθη** (*kai nekrois euēngelisthē*, 4,6), „die gute Nachricht wurde sogar *den* Toten verkündigt", ist der Knackpunkt des Kapitels mit hoher Zurückhaltung und wird wörtlich wiedergegeben, ohne dass eine Lesart übernommen wird (Regel 3 / Regel 13). Die drei lebendigen Lesarten:
 
 - **(a) Die nun verstorbenen Christen.** „Die Toten" sind Gläubige, die die gute Nachricht hörten, während sie lebten, und seither gestorben sind; der Zweck-Satz erklärt dann, dass sie, obwohl „**gerichtet nach Menschen in *dem* Fleisch**" (d.h. gestorben, das gemeinsame menschliche Los), „**nach Gott leben in *dem* {a:Wind/Geist}**". Bei dieser Lesart beruhigt der Vers Leser, die um Gläubige trauern, die vor dem erwarteten Ende starben (vgl. 4,7).
-- **(b) Die im Abstieg evangelisierten Toten.** „Die Toten" sind die, die in der Verkündigung von 3,19 angesprochen werden — meist die Ungehorsamen aus Noachs (Noah) Tagen — gehört zwischen dem Tod und der Auferstehung des Messias. Dies bindet 4,6 unmittelbar an den Knackpunkt von 3,18-20 (P-006).
+- **(b) Die im Abstieg evangelisierten Toten.** „Die Toten" sind die, die in der Verkündigung von 3,19 angesprochen werden — meist die Ungehorsamen aus Noachs (Noah) Tagen — gehört zwischen dem Tod und der Auferstehung des Messias. Dies bindet 4,6 unmittelbar an den Knackpunkt von 3,18-20.
 - **(c) Eine allgemeine Verkündigung an die Toten.** Ein weiterer Abstieg-und-Verkündigung an das Reich der Toten, ohne anzugeben, welche Toten.
 
-Die Fleisch/Geist-Antithese (**σαρκὶ… πνεύματι**, artikellose Dative) ist dieselbe Konstruktion wie 3,18 (P-006), und der {a:Wind/Geist}-Schrägstrich wird behalten. Das Verb **εὐηγγελίσθη** („gute Nachricht wurde verkündet") ist spezifischer als das *ekēryxen* („verkündigte") von 3,19 — ein textliches Datum, das manche Leser dazu zieht, die zwei Verse zu unterscheiden, andere, sie zu harmonisieren. Die TT entscheidet nicht; sie bewahrt die Verbindung zu 3,19 und löst keine auf. → redaktionelles Log P-010, P-006; die Vers-Anmerkung zu 4,6; Querverweis 3,19 im Kapitel-3-Begleitmaterial.
+Die Fleisch/Geist-Antithese (**σαρκὶ… πνεύματι**, artikellose Dative) ist dieselbe Konstruktion wie 3,18, und der {a:Wind/Geist}-Schrägstrich wird behalten. Das Verb **εὐηγγελίσθη** („gute Nachricht wurde verkündet") ist spezifischer als das *ekēryxen* („verkündigte") von 3,19 — ein textliches Datum, das manche Leser dazu zieht, die zwei Verse zu unterscheiden, andere, sie zu harmonisieren. Die TT entscheidet nicht; sie bewahrt die Verbindung zu 3,19 und löst keine auf. → die Vers-Anmerkung zu 4,6; Querverweis 3,19 im Kapitel-3-Begleitmaterial.
 
 ### A4. „Gerichtet… im Fleisch / lebend… im Geist" — die aus 3,18 übernommene Antithese (4,6)
 **[TEXTUELL — VERIFIZIERT]**
 
 Der Zweck-Satz von 4,6 — **ἵνα κριθῶσι… κατὰ ἀνθρώπους σαρκὶ ζῶσι δὲ κατὰ θεὸν πνεύματι** — setzt zwei präpositional/dativische Sphären gegeneinander: gerichtet „**nach Menschen, in *dem* Fleisch**", aber lebend „**nach Gott, in *dem* {a:Wind/Geist}**". Dies ist dieselbe Fleisch/Geist-Dativ-Parallele, die der Brief in 3,18 zieht („getötet im Fleisch, lebendig gemacht in {a:Wind/Geist}"), wo die Dative entweder als **Sphäre** („im Bereich des Fleisches / Geistes") oder als **Wirkkraft** („durch Fleisch / durch den Geist") gelesen werden können. Die TT behält den Schrägstrich und die bloßen Dative, statt sie in einen einzigen aufgelösten Sinn zusammenfallen zu lassen.
 
-Die doppelten **κατά** („nach")-Wendungen — *kata anthrōpous* („nach Menschen") und *kata theon* („nach Gott") — rahmen den Kontrast als zwei Maßstäbe oder Standards, den menschlichen und den göttlichen, statt als zwei Zeiten oder zwei Personen. Die TT bewahrt die Symmetrie. → §A3; redaktionelles Log P-006.
+Die doppelten **κατά** („nach")-Wendungen — *kata anthrōpous* („nach Menschen") und *kata theon* („nach Gott") — rahmen den Kontrast als zwei Maßstäbe oder Standards, den menschlichen und den göttlichen, statt als zwei Zeiten oder zwei Personen. Die TT bewahrt die Symmetrie. → §A3.
 
 ### A5. „Das Ende aller Dinge ist nahe gekommen" — das Perfekt (4,7)
 **[TEXTUELL — VERIFIZIERT]**
@@ -153,7 +153,7 @@ Die Parallelen zeigen den Vers, wie er innerhalb einer etablierten jüdischen Th
 
 Dreimal in Vv.14-16 wird das Leiden an **einen Namen** geknüpft: geschmäht „**im Namen** des Messias" (4,14) und leidend „**als Christ**", der „Gott **in diesem Namen** verherrlichen" sollte (4,16). Der Wortlaut — bestraft *für den Namen selbst*, abgesehen von jedem spezifischen Verbrechen (die Liste echter Verbrechen in 4,15 wird ausdrücklich beiseitegelegt) — ähnelt dem Verfahren, das später in der **Plinius-Trajan-Korrespondenz** (ca. 112 n. Chr.) beschrieben wird, wo Plinius fragt, ob „den Namen selbst" (*nomen ipsum*) der Christen oder nur „die dem Namen anhaftenden Verbrechen" zu bestrafen seien (*Epistulae* 10.96). Ob 1. Petrus jene Art förmlichen, beamtlich-richterlichen Verfahrens widerspiegelt oder eine lockerere soziale Feindseligkeit, in der „der Name" schlicht der an die Gruppe geheftete Schmähruf war, ist genau die umstrittene Frage (→ §I2, Einführung §D); die verbale Überschneidung ist real, begründet aber für sich keine förmliche Strafverfolgung und legt kein Datum fest.
 
-Die TT gibt „im *dem* Namen" und „in diesem Namen" wörtlich wieder, wobei sie „der Name" als das wiederkehrende Schlüsselwort behält, auf dem der Brief aufbaut (vgl. das Namens-Motiv in Apg 3-5). → §A6; §I2-§I3; Einführung §D.
+Die TT gibt „im Namen" und „in diesem Namen" wörtlich wieder, wobei sie „der Name" als das wiederkehrende Schlüsselwort behält, auf dem der Brief aufbaut (vgl. das Namens-Motiv in Apg 3-5). → §A6; §I2-§I3; Einführung §D.
 
 **Quelle:** Plinius der Jüngere, *Epistulae* 10.96-97, Loeb Classical Library; Achtemeier, P.J., *1 Peter*, Hermeneia, 1996, S. 28-36; Williams, T.B., *Persecution in 1 Peter: Differentiating and Contextualizing Early Christian Suffering*, Brill, 2012, S. 179-236.
 
@@ -206,7 +206,7 @@ Die TT gibt „**teilhaben an** den Leiden" wieder statt „einen Anteil haben a
 
 Zusammen mit 3,19 gelesen, wurden die Worte „die gute Nachricht wurde sogar *den* Toten verkündigt" (4,6) zu einem hauptsächlichen schriftgemäßen Anker für die Lehre vom **Abstieg des Messias zu den Toten** („hinabgestiegen zur Hölle", *descendit ad inferos*) — eine Wendung, die in spätere Formen des Apostolikums Eingang fand und in der patristischen und mittelalterlichen Theologie ausgearbeitet wurde (z.B. die „Höllenfahrt", dramatisiert im *Nikodemusevangelium*). Ausleger von der Antike an (Clemens von Alexandria, Origenes) gebrauchten 4,6/3,19, um zu erörtern, ob die Toten — und welche Toten — die Verkündigung nach dem Tod empfangen konnten. Dies sind dokumentierte Rezeptionen, aufgebaut auf den Versen; das Griechische von 4,6 selbst gibt den Abstieg, die Empfänger oder den Inhalt nicht an (§A3).
 
-Die TT gibt 4,6 wörtlich wieder, bewahrt die Verbindung zu 3,19 und übernimmt keine der späteren lehrmäßigen Konstruktionen. → §A3; redaktionelles Log P-010, P-006.
+Die TT gibt 4,6 wörtlich wieder, bewahrt die Verbindung zu 3,19 und übernimmt keine der späteren lehrmäßigen Konstruktionen. → §A3.
 
 **Quelle:** Kelly, J.N.D., *Early Christian Creeds*, 3. Aufl., Longman, 1972, S. 378-383; Dalton, W.J., *Christ's Proclamation to the Spirits: A Study of 1 Peter 3:18–4:6*, 2. Aufl., Pontifical Biblical Institute, 1989, S. 42-67.
 
@@ -232,29 +232,6 @@ Die volle Doxologie in 4,11 — „**dem die Herrlichkeit und die Macht gehören
 **[TEXTUELL — VERIFIZIERT]**
 
 Das Verb **ξενίζω** (*xenizō*, „fremd finden / befremdet sein", verwandt mit *xenos*, „Fremder / fremd") klammert die zwei sozialen Szenen des Kapitels ein. In 4,4 sind die **Außenstehenden** „befremdet" (*xenizontai*), dass die Gläubigen das alte Leben nicht mehr mitmachen; in 4,12 wird den Gläubigen gesagt, sich **nicht** zu „befremden" (*mē xenizesthe*) ob der brennenden Prüfung „als *ob* etwas Fremdes (*xenou*) geschähe". Dieselbe Wurzel benennt sowohl die Verblüffung der Heiden über den Rückzug der Gläubigen als auch die Versuchung der Gläubigen, ihr Leiden fremd zu finden — ein bewusstes verbales Echo, das die TT behält, indem sie beide mit „befremdet / fremd" wiedergibt. Das Wort resoniert auch mit der Identitäts-Sprache des Briefes von den Lesern als *xenoi*, „Fremde / Beisassen" (vgl. 1,1.17; 2,11): die Menschen, die selbst Fremde sind, dürfen das Leiden nicht fremd finden.
-
----
-
-## H. Konsultierte Quellen
-
-| Quelle | Typ | Verwendet in Abschnitten |
-|--------|------|-----------------|
-| Achtemeier, P.J., *1 Peter*, Hermeneia, 1996 | PEER-REVIEWED (commentary) | B, C, D |
-| Bauer, W., *A Greek-English Lexicon of the NT* (BDAG), 3. Aufl., 2000 | PEER-REVIEWED (lexicon) | D |
-| Beale, G.K. und Carson, D.A. (Hrsg.), *Commentary on the NT Use of the OT*, 2007 | PEER-REVIEWED (commentary) | B |
-| Dalton, W.J., *Christ's Proclamation to the Spirits*, 2. Aufl., 1989 | PEER-REVIEWED (monograph) | F |
-| Elliott, J.H., *1 Peter*, Anchor Bible 37B, 2000 | PEER-REVIEWED (commentary) | B, C |
-| Hatch, E. und Redpath, H.A., *A Concordance to the Septuagint*, 2. Aufl., 1998 | PEER-REVIEWED (reference) | D |
-| Kelly, J.N.D., *Early Christian Creeds*, 3. Aufl., 1972 | PEER-REVIEWED (monograph) | F |
-| Lampe, G.W.H., *A Patristic Greek Lexicon*, 1961 | PEER-REVIEWED (lexicon) | F |
-| Liddell und Scott, *Greek-English Lexicon*, 9. Aufl. | PEER-REVIEWED (lexicon) | D |
-| Malherbe, A.J., *Social Aspects of Early Christianity*, 2. Aufl., 1983 | PEER-REVIEWED (monograph) | C |
-| Musurillo, H. (Hrsg.), *The Acts of the Christian Martyrs*, 1972 | PRIMARY (text collection) | F |
-| Nestle-Aland, *Novum Testamentum Graece*, 28. Aufl. | PRIMARY | A, D, G |
-| Plinius der Jüngere, *Epistulae* 10.96-97, Loeb Classical Library | PRIMARY (ancient text) | C, I |
-| Selwyn, E.G., *The First Epistle of St. Peter*, 2. Aufl., 1947 | PEER-REVIEWED (commentary) | B, D |
-| Wilken, R.L., *The Christians as the Romans Saw Them*, 2. Aufl., 2003 | PEER-REVIEWED (monograph) | F, I |
-| Williams, T.B., *Persecution in 1 Peter*, Brill, 2012 | PEER-REVIEWED (monograph) | C, I |
 
 ---
 
@@ -285,20 +262,34 @@ Die Natur des Leidens hinter der „brennenden *Prüfung*" (4,12) ist die zentra
 
 **Quelle:** Tacitus, *Annalen* 15.44, Loeb Classical Library; Wilken, R.L., *The Christians as the Romans Saw Them*, 2. Aufl., Yale University Press, 2003, S. 1-30; Elliott, J.H., *1 Peter*, Anchor Bible 37B, 2000, S. 789-794, 803-805.
 
+---
+
+## H. Konsultierte Quellen
+
 | Quelle | Typ | Verwendet in Abschnitten |
 |--------|------|-----------------|
-| Achtemeier, P.J., *1 Peter*, Hermeneia, 1996 | PEER-REVIEWED (commentary) | I |
-| Elliott, J.H., *1 Peter*, Anchor Bible 37B, 2000 | PEER-REVIEWED (commentary) | I |
+| Achtemeier, P.J., *1 Peter*, Hermeneia, 1996 | PEER-REVIEWED (commentary) | B, C, D, I |
+| Bauer, W., *A Greek-English Lexicon of the NT* (BDAG), 3. Aufl., 2000 | PEER-REVIEWED (lexicon) | D |
+| Beale, G.K. und Carson, D.A. (Hrsg.), *Commentary on the NT Use of the OT*, 2007 | PEER-REVIEWED (commentary) | B |
+| Dalton, W.J., *Christ's Proclamation to the Spirits*, 2. Aufl., 1989 | PEER-REVIEWED (monograph) | F |
+| Elliott, J.H., *1 Peter*, Anchor Bible 37B, 2000 | PEER-REVIEWED (commentary) | B, C, I |
 | Harland, P.A., *Associations, Synagogues, and Congregations*, 2003 | PEER-REVIEWED (monograph) | I |
+| Hatch, E. und Redpath, H.A., *A Concordance to the Septuagint*, 2. Aufl., 1998 | PEER-REVIEWED (reference) | D |
+| Kelly, J.N.D., *Early Christian Creeds*, 3. Aufl., 1972 | PEER-REVIEWED (monograph) | F |
+| Lampe, G.W.H., *A Patristic Greek Lexicon*, 1961 | PEER-REVIEWED (lexicon) | F |
+| Liddell und Scott, *Greek-English Lexicon*, 9. Aufl. | PEER-REVIEWED (lexicon) | D |
 | MacMullen, R., *Paganism in the Roman Empire*, 1981 | PEER-REVIEWED (monograph) | I |
-| Plinius der Jüngere, *Epistulae* 10.96-97, Loeb Classical Library | PRIMARY (ancient text) | I |
+| Malherbe, A.J., *Social Aspects of Early Christianity*, 2. Aufl., 1983 | PEER-REVIEWED (monograph) | C |
+| Musurillo, H. (Hrsg.), *The Acts of the Christian Martyrs*, 1972 | PRIMARY (text collection) | F |
+| Nestle-Aland, *Novum Testamentum Graece*, 28. Aufl. | PRIMARY | A, D, G |
+| Plinius der Jüngere, *Epistulae* 10.96-97, Loeb Classical Library | PRIMARY (ancient text) | C, I |
+| Selwyn, E.G., *The First Epistle of St. Peter*, 2. Aufl., 1947 | PEER-REVIEWED (commentary) | B, D |
 | Tacitus, *Annalen* 15.44, Loeb Classical Library | PRIMARY (ancient text) | I |
-| Wilken, R.L., *The Christians as the Romans Saw Them*, 2. Aufl., 2003 | PEER-REVIEWED (monograph) | I |
-| Williams, T.B., *Persecution in 1 Peter*, Brill, 2012 | PEER-REVIEWED (monograph) | I |
+| Wilken, R.L., *The Christians as the Romans Saw Them*, 2. Aufl., 2003 | PEER-REVIEWED (monograph) | F, I |
+| Williams, T.B., *Persecution in 1 Peter*, Brill, 2012 | PEER-REVIEWED (monograph) | C, I |
 
 ---
 
+
 **Redaktionelle Herkunft:**
-- Entworfen von: KI (Claude, Anthropic)
-- Datum: 2026-06-26
-- Begutachtet von: ausstehend
+- KI-gestützter Entwurf, noch nicht geprüft.

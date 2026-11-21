@@ -207,7 +207,7 @@ Genesis 8:21–22 präsentiert JHWH bei einer inneren Verpflichtung („sprach i
 
 ## I. Die Welt zur damaligen Zeit
 
-> **Querverweis:** Für den vollständigen Welt-Kontext (vier Szenarien, zehn Kategorien — Politik, Wirtschaft, Alltagsleben, Sozialstruktur, Bildung, Militär, Kunst, Wissenschaft, Religion, Nachbarvölker), siehe den Genesis-1-Begleitkommentar (Abschnitt I, `de/genesis/study/CHAPTER-1-CONTEXT.md`). Die folgenden Einträge behandeln die historischen Umstände, die in Genesis 8 spezifisch hervorgehoben werden — die Neu-Schöpfungssequenz, Vogelauguration, Altarbau und Opfer, Bundesschluss und landwirtschaftliche Wiederaufnahme.
+> **Querverweis:** Für den vollständigen Welt-Kontext (vier Szenarien, zehn Kategorien — Politik, Wirtschaft, Alltagsleben, Sozialstruktur, Bildung, Militär, Kunst, Wissenschaft, Religion, Nachbarvölker), siehe das Begleitmaterial zu Genesis 1 (Vertiefen), Abschnitt I. Die folgenden Einträge behandeln die historischen Umstände, die in Genesis 8 spezifisch hervorgehoben werden — die Neu-Schöpfungssequenz, Vogelauguration, Altarbau und Opfer, Bundesschluss und landwirtschaftliche Wiederaufnahme.
 
 ---
 
@@ -306,6 +306,4 @@ Das Enddatum der Flut (Monat 2, Tag 27 von Noachs 601. Lebensjahr) und seine kom
 ---
 
 **Editoriale Herkunft:**
-- Entworfen von: Claude Opus 4.6 (KI-Assistent)
-- Datum: 2026-04-24
-- Überprüft von: ausstehend
+- KI-gestützter Entwurf, noch nicht geprüft.

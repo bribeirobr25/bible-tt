@@ -22,7 +22,7 @@
 - [Lectura Continua](#lectura-continua)
 - [Estudio Versículo por Versículo](#estudio-versículo-por-versículo)
 - [Glosario — Lucas 1](#glosario---lucas-1)
-- [Seguimiento entre Capítulos (BH -> Lucas)](#seguimiento-entre-capítulos-bh--lucas)
+- [Seguimiento entre Capítulos (BH → Lucas)](#seguimiento-entre-capítulos-bh--lucas)
 
 ---
 
@@ -37,7 +37,7 @@
 
 Las notas se etiquetan por tipo — **Crítico · Léxico · Gramatical · Teológico** — cada una con su color (vea la leyenda en la parte superior de la vista de Notas).
 
-**Este es el capítulo de apertura más largo de los Evangelios.** Lucas 1 comienza con un prólogo literario formal (vv.1-4) — una sola oración periódica griega, el griego más "clásico" de los cuatro Evangelios — dirigido a un tal Theophilos. La narración luego pasa a un registro septuagintal modelado sobre la BH. Dos anunciaciones corren en paralelo: el mensajero Gavriel anuncia el nacimiento de Yochanan al sacerdote Zecharyah (vv.5-25), luego el nacimiento de Yeshua a Miryam (vv.26-38). Miryam visita a Elisheva (vv.39-45) y canta el Magníficat (vv.46-55). Yochanan nace y es nombrado (vv.57-66), y Zecharyah canta el Benedictus (vv.67-79). **Nota sobre la marcación del habla (Regla 30):** Gavriel es un *mensajero* (*angelos*), no Dios — sus palabras NO se marcan como habla divina. Los dos cánticos (Magníficat, Benedictus) son habla *humana* y se traducen como prosa fluida. Los nombres propios siguen la transliteración TT: Yeshua (no Jesús), Yochanan (no Juan), Zecharyah (no Zacarías), Elisheva (no Isabel), Miryam (no María), Gavriel (no Gabriel).
+**Este es el capítulo de apertura más largo de los Evangelios.** Lucas 1 comienza con un prólogo literario formal (vv.1-4) — una sola oración periódica griega, el griego más "clásico" de los cuatro Evangelios — dirigido a un tal Theophilos. La narración luego pasa a un registro septuagintal modelado sobre la BH. Dos anunciaciones corren en paralelo: el mensajero Gavriel anuncia el nacimiento de Yochanan al sacerdote Zecharyah (vv.5-25), luego el nacimiento de Yeshua a Miryam (vv.26-38). Miryam visita a Elisheva (vv.39-45) y canta el Magníficat (vv.46-55). Yochanan nace y es nombrado (vv.57-66), y Zecharyah canta el Benedictus (vv.67-79). **Nota sobre la marcación del habla (Regla 30):** Gavriel es un *mensajero* (*angelos*), no Dios — sus palabras NO se marcan como habla divina. Los dos cánticos (Magníficat, Benedictus) son habla *humana* y se traducen como prosa fluida. Los nombres aparecen en su forma familiar, con la forma de la lengua original indicada una vez por sección — p. ej., Yochanan (Juan).
 
 ---
 
@@ -250,7 +250,7 @@ Pero el mensajero le dijo: "No temas, Zecharyah (Zacarías), porque tu petición
 > **Notas**
 >
 > 🔴 **CRÍTICO — EL HABLA DE GAVRIEL NO MARCADA COMO DIVINA (REGLA 30)**
-> - Las palabras del mensajero (vv.13-20) se traducen con comillas ordinarias, NO con los marcadores de habla divina @@…@@. Según la decisión editorial (luke.md L-001) y el precedente de Mateo/Marcos, un *angelos* es un mensajero, no Dios; solo el habla directa de Dios o del viento/espíritu santo se marca. La TT no colapsa el habla del mensajero en habla divina.
+> - Las palabras del mensajero (vv.13-20) se traducen con comillas ordinarias, NO con los marcadores de habla divina @@…@@. Según el precedente de Mateo/Marcos, un *angelos* es un mensajero, no Dios; solo el habla directa de Dios o del viento/espíritu santo se marca. La TT no colapsa el habla del mensajero en habla divina.
 >
 > 🟢 **YOCHANAN — TRANSLITERACIÓN TT**
 > - **Ἰωάννης** (*Iōannēs*) = Yochanan (hebreo: **Yochanan**, "YHWH ha mostrado favor / YHWH es benévolo"). Familiar: Juan. El significado del nombre ("YHWH es benévolo") resuena con *charis* en el capítulo.
@@ -653,7 +653,7 @@ Y Miryam (María) dijo: "Mi alma magnifica al Señor,
 > **Notas**
 >
 > 🔴 **CRÍTICO — EL MAGNÍFICAT (vv.46-55): HABLA HUMANA, TRADUCIDA COMO PROSA**
-> - El Magníficat es el canto de **María** (una variante textual en unos pocos testigos, esp. algunos del latín antiguo, lee "Isabel," pero NA28 lee *Mariam*). Como habla humana NO se marca como divina (Regla 30). Según la decisión editorial (luke.md L-002), el cántico se redacta como prosa fluida; el renderizador colapsa los saltos de línea poéticos, por lo que no se usa lineación manual. → Para la estructura del Magníficat y su base en el canto de Ana, vea el compañero de PROFECÍA. **[crítico-textual — VERIFICADO]**
+> - El Magníficat es el canto de **María** (una variante textual en unos pocos testigos, esp. algunos del latín antiguo, lee "Isabel," pero NA28 lee *Mariam*). Como habla humana NO se marca como divina (Regla 30). El cántico se redacta como prosa fluida; el renderizador colapsa los saltos de línea poéticos, por lo que no se usa lineación manual. → Para la estructura del Magníficat y su base en el canto de Ana, vea el compañero de PROFECÍA. **[crítico-textual — VERIFICADO]**
 >
 > 🟢 **"MAGNIFICA" — *MEGALYNEI* (ECO DE SAL 34:4)**
 > - **μεγαλύνει ἡ ψυχή μου τὸν κύριον** (*megalynei hē psychē mou ton kyrion*) = "mi alma magnifica al Señor." Eco de apertura del Sal 34:4 (Esp. 33:4 LXX) y 1 Sam 2:1. Referente de *kyrios*: YHWH (Probable, Opción C). *Psychē* = "alma, aliento de vida, ser."
@@ -887,7 +887,7 @@ Y Zecharyah (Zacarías) su padre fue lleno del {a:viento/espíritu} santo y prof
 > **Notas**
 >
 > 🔴 **CRÍTICO — EL BENEDICTUS (vv.68-79): PROFECÍA HUMANA, TRADUCIDA COMO PROSA**
-> - El versículo 67 es la introducción narrativa; el cántico propiamente comienza en el v.68. El canto de Zacarías es habla profética **humana** "llena del viento/espíritu santo" — pero pronunciada por Zacarías, no por Dios; por tanto NO se marca como divina (Regla 30). Según la decisión editorial (luke.md L-002), se redacta como prosa fluida. → Para la estructura del Benedictus, vea el compañero de PROFECÍA. **[teológico — PROBABLE]**
+> - El versículo 67 es la introducción narrativa; el cántico propiamente comienza en el v.68. El canto de Zacarías es habla profética **humana** "llena del viento/espíritu santo" — pero pronunciada por Zacarías, no por Dios; por tanto NO se marca como divina (Regla 30). Se redacta como prosa fluida. → Para la estructura del Benedictus, vea el compañero de PROFECÍA. **[teológico — PROBABLE]**
 >
 > 🟢 **"LLENO… Y PROFETIZÓ" — *EPLĒSTHĒ… EPROPHĒTEUSEN***
 > - **ἐπλήσθη πνεύματος ἁγίου καὶ ἐπροφήτευσεν** (*eplēsthē pneumatos hagiou kai eprophēteusen*) = "fue lleno del viento/espíritu santo y profetizó." El mismo verbo "lleno" describe a Isabel (v.41) y se anticipa para Juan (v.15) — el viento/espíritu empodera el habla humana, que sigue siendo humana (no marcada como divina).
@@ -1066,9 +1066,9 @@ Y el niño creció y se fortaleció en espíritu, y estuvo en los *lugares* desi
 
 ---
 
-## SEGUIMIENTO ENTRE CAPÍTULOS (BH -> Lucas)
+## SEGUIMIENTO ENTRE CAPÍTULOS (BH → Lucas)
 
-**1 Sam 1-2 -> Lucas 1 — Channah (Ana) y el Magníficat:**
+**1 Sam 1-2 → Lucas 1 — Channah (Ana) y el Magníficat:**
 
 | Elemento | 1 Samuel 1-2 (Ana) | Lucas 1 (Isabel / María) |
 |----------|---------------------|---------------------------|
@@ -1079,7 +1079,7 @@ Y el niño creció y se fortaleció en espíritu, y estuvo en los *lugares* desi
 
 El Magníficat está modelado sobre el canto de Ana; ambos celebran una reversión divina centrada en un niño dado contra las probabilidades.
 
-**Gén 18 -> Lucas 1:37 — "nada imposible con Dios":**
+**Gén 18 → Lucas 1:37 — "nada imposible con Dios":**
 
 | Elemento | Gén 18 (Sara) | Lucas 1:37 |
 |----------|----------------|-----------|
@@ -1089,7 +1089,7 @@ El Magníficat está modelado sobre el canto de Ana; ambos celebran una reversi�
 
 El oráculo de Gabriel a María cita la promesa a Sara casi al pie de la letra de la LXX, ligando los nuevos nacimientos a la línea abrahámica.
 
-**Mal 3:1, 3:23-24 / Is 40:3 -> Lucas 1:17, 76 — Juan como el Eliyahu (Elías) que vuelve:**
+**Mal 3:1, 3:23-24 / Is 40:3 → Lucas 1:17, 76 — Juan como el Eliyahu (Elías) que vuelve:**
 
 | Elemento | Malaquías / Isaías | Lucas 1 |
 |----------|---------------------|---------|
@@ -1099,7 +1099,7 @@ El oráculo de Gabriel a María cita la promesa a Sara casi al pie de la letra d
 
 Lucas presenta a Juan como la figura del Elías profetizado; los textos fuente hablan de YHWH, mientras el Evangelio fusiona el referente hacia Yeshua — la TT preserva la fusión (Regla 13: Posible).
 
-**2 Sam 7 / Sal 18, 132 -> Lucas 1:32-33, 69 — trono davídico y "cuerno de salvación":**
+**2 Sam 7 / Sal 18, 132 → Lucas 1:32-33, 69 — trono davídico y "cuerno de salvación":**
 
 | Elemento | 2 Sam 7 / Salmos | Lucas 1 |
 |----------|-------------------|---------|
@@ -1109,7 +1109,7 @@ Lucas presenta a Juan como la figura del Elías profetizado; los textos fuente h
 
 Tanto la anunciación como el Benedictus enraízan el destino del niño en el pacto davídico y sus salmos de victoria real.
 
-**Gén 22:16-18 / Gén 17:7 -> Lucas 1:55, 72-73 — el juramento a Avraham (Abraham):**
+**Gén 22:16-18 / Gén 17:7 → Lucas 1:55, 72-73 — el juramento a Avraham (Abraham):**
 
 | Elemento | Génesis | Lucas 1 |
 |----------|---------|---------|

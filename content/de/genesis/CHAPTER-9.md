@@ -347,7 +347,7 @@ Und er sprach: „Verflucht *sei* Kanaan; ein Knecht der Knechte soll er sein se
 
 > **NOTIZEN**
 >
-> 🟡 **STUFE 2 — REZEPTIONSHINWEIS**
+> 🟡 **REZEPTIONSHINWEIS**
 > - Diese Passage hat eine dokumentierte Rezeptionsgeschichte mit schädlichem Missbrauch. Der Fluch trifft Kanaan spezifisch — nicht Ham, nicht irgendeine breitere ethnische oder rassische Gruppe. Siehe Begleitmaterial Abschnitt F.
 >
 > 🔴 **KRITISCH — KENAAN VERFLUCHT, NICHT CHAM**

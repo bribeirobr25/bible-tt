@@ -70,7 +70,7 @@ La promesa de 5:10 apila cuatro verbos en futuro con un solo sujeto (Dios, enfá
 ### A6. El cierre epistolar y la decisión del marcado del habla (Regla 30)
 **[TEXTUAL — VERIFICADO]**
 
-La única escritura citada del capítulo, Proverbios 3:34 LXX en 5:5 ("Dios se opone a *los* soberbios, pero a *los* humildes da gracia"), es la declaración en tercera persona del **sabio** *acerca* de Dios, no el habla en primera persona de Dios mismo, y por eso — coherente con la política de la Regla 30 del libro (las citas *acerca* del Señor quedan sin marcar; solo las palabras en primera persona de Dios llevan `@@…@@`) — se deja sin marcar. El capítulo no contiene en absoluto habla divina narrada; su voz es la exhortación del autor en todo momento, incluyendo los saludos de cierre (vv.12-14). La TT por tanto no porta marca `@@…@@` alguna en este capítulo, y las notas del versículo registran el razonamiento en lugar de dejar la ausencia sin explicar.
+La única escritura citada del capítulo, Proverbios 3:34 LXX en 5:5 ("Dios se opone a *los* soberbios, pero a *los* humildes da gracia"), es la declaración en tercera persona del **sabio** *acerca* de Dios, no el habla en primera persona de Dios mismo, y por eso — coherente con la política de la Regla 30 del libro (las citas quedan sin marcar — las que hablan *acerca* del Señor, y las palabras de Dios en primera persona citadas por el apóstol) — se deja sin marcar. El capítulo no contiene en absoluto habla divina narrada; su voz es la exhortación del autor en todo momento, incluyendo los saludos de cierre (vv.12-14). La TT por tanto no porta marca de habla divina alguna en este capítulo, y las notas del versículo registran el razonamiento en lugar de dejar la ausencia sin explicar.
 
 ---
 
@@ -154,7 +154,7 @@ El versículo 4 acuña dos palabras raras. **ἀρχιποίμην** (*archipoim
 ### F1. "Por medio de Silvano" y el debate del secretario/autoría
 **[RECEPCIÓN POSTERIOR — DOCUMENTADO]**
 
-La frase **διὰ Σιλουανοῦ… ἔγραψα** ("**por medio de Silvano** escribí", 5:12) se ha leído de dos maneras principales a lo largo de la historia de la interpretación: tradicionalmente, como nombrando a Silvano (Silas) el **amanuense (secretario)** que compuso el griego pulido en nombre de Pedro — una lectura usada para reconciliar la autoría petrina con el estilo logrado de la carta; y, en gran parte de la erudición moderna, como la fórmula convencional que identifica al **portador / mensajero de la carta** (el modismo *graphein dia* + persona designa regularmente al portador, p. ej. en Ignacio y los papiros), lo cual deja intacta la cuestión de la composición. El asunto se conecta con el debate más amplio sobre la autoría (apostólica, secretarial, o seudónima) expuesto en la Introducción (§B); la TT traduce "por medio de Silvano" sin decidir el papel y señala las opciones en el Nivel 2. Estas son posiciones interpretativas e histórico-receptivas, no datos que el versículo mismo resuelva.
+La frase **διὰ Σιλουανοῦ… ἔγραψα** ("**por medio de Silvano** escribí", 5:12) se ha leído de dos maneras principales a lo largo de la historia de la interpretación: tradicionalmente, como nombrando a Silvano (Silas) el **amanuense (secretario)** que compuso el griego pulido en nombre de Pedro — una lectura usada para reconciliar la autoría petrina con el estilo logrado de la carta; y, en gran parte de la erudición moderna, como la fórmula convencional que identifica al **portador / mensajero de la carta** (el modismo *graphein dia* + persona designa regularmente al portador, p. ej. en Ignacio y los papiros), lo cual deja intacta la cuestión de la composición. El asunto se conecta con el debate más amplio sobre la autoría (apostólica, secretarial, o seudónima) expuesto en la Introducción (§B); la TT traduce "por medio de Silvano" sin decidir el papel y señala las opciones en las notas. Estas son posiciones interpretativas e histórico-receptivas, no datos que el versículo mismo resuelva.
 
 **Fuente:** Achtemeier, P.J., *1 Peter*, Hermeneia, Fortress Press, 1996, pp. 349-352; Richards, E.R., *The Secretary in the Letters of Paul*, Mohr Siebeck, 1991, pp. 169-189; Elliott, J.H., *1 Peter*, Anchor Bible 37B, 2000, pp. 872-874.
 
@@ -195,38 +195,9 @@ La que saluda en 5:13 es **ἡ… συνεκλεκτή** ("la *co-elegida* [feme
 
 ---
 
-## H. Fuentes Consultadas
-
-| Fuente | Tipo | Usada en secciones |
-|--------|------|-----------------|
-| Achtemeier, P.J., *1 Peter*, Hermeneia, 1996 | PEER-REVIEWED (commentary) | B, F |
-| Bauckham, R., *James*, 1999 | PEER-REVIEWED (monograph) | B |
-| Bauckham, R., *Jesus and the Eyewitnesses*, 2006 | PEER-REVIEWED (monograph) | F |
-| Bauer, W., *A Greek-English Lexicon of the NT* (BDAG), 3.ª ed., 2000 | PEER-REVIEWED (lexicon) | D |
-| Bockmuehl, M., *Simon Peter in Scripture and Memory*, 2012 | PEER-REVIEWED (monograph) | F |
-| Campbell, R.A., *The Elders: Seniority within Earliest Christianity*, 1994 | PEER-REVIEWED (monograph) | C |
-| Cullmann, O., *Peter: Disciple, Apostle, Martyr*, 2.ª ed., 1962 | PEER-REVIEWED (monograph) | F |
-| Davids, P.H., *The First Epistle of Peter*, NICNT, 1990 | PEER-REVIEWED (commentary) | B |
-| Day, P.L., *An Adversary in Heaven: śāṭān in the Hebrew Bible*, 1988 | PEER-REVIEWED (monograph) | D |
-| Elliott, J.H., *1 Peter*, Anchor Bible 37B, 2000 | PEER-REVIEWED (commentary) | C, D, F |
-| Hatch, E. y Redpath, H.A., *A Concordance to the Septuagint*, 2.ª ed., 1998 | PEER-REVIEWED (reference) | D |
-| Hengel, M., *Studies in the Gospel of Mark*, 1985 | PEER-REVIEWED (monograph) | F |
-| Horrell, D.G., *1 Peter*, New Testament Guides, 2008 | PEER-REVIEWED (monograph) | C |
-| Hunzinger, C.-H., "Babylon als Deckname für Rom", 1965 | PEER-REVIEWED (essay) | B |
-| Liddell y Scott, *Greek-English Lexicon*, 9.ª ed., 1940 | PEER-REVIEWED (lexicon) | D |
-| Metzger, B.M., *A Textual Commentary on the Greek New Testament*, 2.ª ed., 1994 | PEER-REVIEWED (reference) | G |
-| Michaels, J.R., *1 Peter*, Word Biblical Commentary 49, 1988 | PEER-REVIEWED (commentary) | B |
-| Nestle-Aland, *Novum Testamentum Graece*, 28.ª ed. | PRIMARY | A, D, G |
-| Richards, E.R., *The Secretary in the Letters of Paul*, 1991 | PEER-REVIEWED (monograph) | F |
-| Spicq, C., *Theological Lexicon of the New Testament*, 1994 | PEER-REVIEWED (lexicon) | D |
-| Strawn, B.A., *What Is Stronger than a Lion?*, 2005 | PEER-REVIEWED (monograph) | B |
-| Williams, T.B., *Persecution in 1 Peter*, 2012 | PEER-REVIEWED (monograph) | C |
-
----
-
 ## I. El Mundo en Esa Época
 
-> **Referencia cruzada:** Para el amplio mundo grecorromano del temprano imperio de los destinatarios de la carta — política, economía, vida cotidiana, y religión bajo el temprano Principado — véase la Sección I de los compañeros de Juan y Hechos (`es/john/study/CHAPTER-1-CONTEXT.md`; `es/acts/study/CHAPTER-1-CONTEXT.md`). 1 Pedro escribe a creyentes dispersos en Asia Menor (Ponto, Galacia, Capadocia, Asia, Bitinia, 1:1) en la segunda mitad del siglo I. Las entradas siguientes abordan los rasgos específicos de ese mundo puestos en primer plano por el capítulo de cierre: las estructuras de liderazgo de la iglesia temprana, la cultura del honor contra la cual se yergue la "humildad", las convenciones del cierre de las cartas, y "Babilonia" como nombre para Roma.
+> **Referencia cruzada:** Para el amplio mundo grecorromano del temprano imperio de los destinatarios de la carta — política, economía, vida cotidiana, y religión bajo el temprano Principado — véase la Sección I del material de estudio de Juan 1 (Profundizar) y del material de estudio de Hechos 1 (Profundizar). 1 Pedro escribe a creyentes dispersos en Asia Menor (Ponto, Galacia, Capadocia, Asia, Bitinia, 1:1) en la segunda mitad del siglo I. Las entradas siguientes abordan los rasgos específicos de ese mundo puestos en primer plano por el capítulo de cierre: las estructuras de liderazgo de la iglesia temprana, la cultura del honor contra la cual se yergue la "humildad", las convenciones del cierre de las cartas, y "Babilonia" como nombre para Roma.
 
 ---
 
@@ -258,20 +229,42 @@ Hacia fines del siglo I, tras la destrucción romana de Jerusalén y su Templo e
 
 **Fuente:** Achtemeier, P.J., *1 Peter*, Hermeneia, Fortress Press, 1996, pp. 353-354; Goodman, M., *Rome and Jerusalem: The Clash of Ancient Civilizations*, Allen Lane, 2007, pp. 451-468.
 
+---
+
+## H. Fuentes Consultadas
+
 | Fuente | Tipo | Usada en secciones |
 |--------|------|-----------------|
-| Achtemeier, P.J., *1 Peter*, Hermeneia, 1996 | PEER-REVIEWED (commentary) | I |
-| Campbell, R.A., *The Elders: Seniority within Earliest Christianity*, 1994 | PEER-REVIEWED (monograph) | I |
+| Achtemeier, P.J., *1 Peter*, Hermeneia, 1996 | PEER-REVIEWED (commentary) | B, F, I |
+| Bauckham, R., *James*, 1999 | PEER-REVIEWED (monograph) | B |
+| Bauckham, R., *Jesus and the Eyewitnesses*, 2006 | PEER-REVIEWED (monograph) | F |
+| Bauer, W., *A Greek-English Lexicon of the NT* (BDAG), 3.ª ed., 2000 | PEER-REVIEWED (lexicon) | D |
+| Bockmuehl, M., *Simon Peter in Scripture and Memory*, 2012 | PEER-REVIEWED (monograph) | F |
+| Campbell, R.A., *The Elders: Seniority within Earliest Christianity*, 1994 | PEER-REVIEWED (monograph) | C, I |
+| Cullmann, O., *Peter: Disciple, Apostle, Martyr*, 2.ª ed., 1962 | PEER-REVIEWED (monograph) | F |
+| Davids, P.H., *The First Epistle of Peter*, NICNT, 1990 | PEER-REVIEWED (commentary) | B |
+| Day, P.L., *An Adversary in Heaven: śāṭān in the Hebrew Bible*, 1988 | PEER-REVIEWED (monograph) | D |
 | deSilva, D.A., *Honor, Patronage, Kinship & Purity*, 2000 | PEER-REVIEWED (monograph) | I |
-| Elliott, J.H., *1 Peter*, Anchor Bible 37B, 2000 | PEER-REVIEWED (commentary) | I |
+| Elliott, J.H., *1 Peter*, Anchor Bible 37B, 2000 | PEER-REVIEWED (commentary) | C, D, F, I |
 | Goodman, M., *Rome and Jerusalem*, 2007 | PEER-REVIEWED (monograph) | I |
+| Hatch, E. y Redpath, H.A., *A Concordance to the Septuagint*, 2.ª ed., 1998 | PEER-REVIEWED (reference) | D |
+| Hengel, M., *Studies in the Gospel of Mark*, 1985 | PEER-REVIEWED (monograph) | F |
+| Horrell, D.G., *1 Peter*, New Testament Guides, 2008 | PEER-REVIEWED (monograph) | C |
+| Hunzinger, C.-H., "Babylon als Deckname für Rom", 1965 | PEER-REVIEWED (essay) | B |
 | Klauck, H.-J., *Ancient Letters and the New Testament*, 2006 | PEER-REVIEWED (monograph) | I |
+| Liddell y Scott, *Greek-English Lexicon*, 9.ª ed., 1940 | PEER-REVIEWED (lexicon) | D |
 | Malina, B.J., *The New Testament World*, 3.ª ed., 2001 | PEER-REVIEWED (monograph) | I |
+| Metzger, B.M., *A Textual Commentary on the Greek New Testament*, 2.ª ed., 1994 | PEER-REVIEWED (reference) | G |
+| Michaels, J.R., *1 Peter*, Word Biblical Commentary 49, 1988 | PEER-REVIEWED (commentary) | B |
+| Nestle-Aland, *Novum Testamentum Graece*, 28.ª ed. | PRIMARY | A, D, G |
+| Richards, E.R., *The Secretary in the Letters of Paul*, 1991 | PEER-REVIEWED (monograph) | F |
+| Spicq, C., *Theological Lexicon of the New Testament*, 1994 | PEER-REVIEWED (lexicon) | D |
+| Strawn, B.A., *What Is Stronger than a Lion?*, 2005 | PEER-REVIEWED (monograph) | B |
 | Weima, J.A.D., *Neglected Endings*, 1994 | PEER-REVIEWED (monograph) | I |
+| Williams, T.B., *Persecution in 1 Peter*, 2012 | PEER-REVIEWED (monograph) | C |
 
 ---
 
+
 **Procedencia editorial:**
-- Redactado por: IA (Claude, Anthropic)
-- Fecha: 2026-06-26
-- Revisado por: pendiente
+- Borrador asistido por IA, aún no revisado.

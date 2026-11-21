@@ -223,7 +223,7 @@ A formulação de Mateus torna a declaração pública — é sobre Jesus, falad
 
 ## I. O Mundo na Época
 
-> **Para o contexto completo, veja o companheiro de João 1 Seção I.** João e Mateus compartilham o mesmo período histórico geral; o companheiro de João 1 (`pt-br/john/study/CHAPTER-1-CONTEXT.md`) fornece o contexto completo em duas categorias de dez categorias. As entradas abaixo abordam as circunstâncias específicas destacadas em Mateus 3.
+> **Para o contexto completo, veja o companheiro de João 1 Seção I.** João e Mateus compartilham o mesmo período histórico geral; o material de estudo de João 1 (Aprofundar) fornece o contexto completo em duas categorias de dez categorias. As entradas abaixo abordam as circunstâncias específicas destacadas em Mateus 3.
 
 ---
 
@@ -308,6 +308,4 @@ A pressão econômica que levou as pessoas à imersão de João no Jordão era, 
 ---
 
 **Proveniência editorial:**
-- Redigido por: IA (Claude, Anthropic)
-- Data: 2026-04-27
-- Revisado por: pendente
+- Rascunho assistido por IA, ainda não revisado.

@@ -71,7 +71,7 @@ Genesis 4:13: עָוֹן (*avon*) bedeutet sowohl "Schuld/Sünde" als auch "Stra
 ### A10. Adam wird zum Eigennamen bei 4:25
 **[TEXTUELL — VERIFIZIERT]**
 
-Genesis 4:25: erstes artikelloses *adam* in einem genealogischen/Benennungs-Kontext. Die TT wechselt hier von "der Mensch" zu "Adam", gekennzeichnet mit einer 🔴 KRITISCH-Anmerkung. Dies ist die Entscheidung aus dem Redaktionsprotokoll (Eintrag 081).
+Genesis 4:25: erstes artikelloses *adam* in einem genealogischen/Benennungs-Kontext. Die TT wechselt hier von "der Mensch" zu "Adam", gekennzeichnet mit einer 🔴 KRITISCH-Anmerkung.
 
 ### A11. "Anderer Same" — die Frauenlinie setzt sich fort
 **[TEXTUELL — VERIFIZIERT]**
@@ -222,7 +222,7 @@ Genesis 4:17–22 verortet die Ursprünge der Zivilisation in Kains Linie: Städ
 
 ## I. Die Welt zur damaligen Zeit
 
-> **Querverweis:** Für den vollständigen Welt-Kontext (vier Szenarien, zehn Kategorien — Politik, Wirtschaft, Alltagsleben, Sozialstruktur, Bildung, Militär, Kunst, Wissenschaft, Religion, Nachbarvölker), siehe den Genesis-1-Begleitkommentar (Abschnitt I, `de/genesis/study/CHAPTER-1-CONTEXT.md`). Die folgenden Einträge behandeln die historischen Umstände, die in Genesis 4 spezifisch hervorgehoben werden — Landwirtschaft versus Hirtenkultur, Opferpraktiken, Brudermord, das Zeichen Kains, Stadtbau und die kulturelle Genealogie, die in Tuval-Kain gipfelt.
+> **Querverweis:** Für den vollständigen Welt-Kontext (vier Szenarien, zehn Kategorien — Politik, Wirtschaft, Alltagsleben, Sozialstruktur, Bildung, Militär, Kunst, Wissenschaft, Religion, Nachbarvölker), siehe das Begleitmaterial zu Genesis 1 (Vertiefen), Abschnitt I. Die folgenden Einträge behandeln die historischen Umstände, die in Genesis 4 spezifisch hervorgehoben werden — Landwirtschaft versus Hirtenkultur, Opferpraktiken, Brudermord, das Zeichen Kains, Stadtbau und die kulturelle Genealogie, die in Tuval-Kain gipfelt.
 
 ---
 
@@ -327,6 +327,4 @@ Die hellenistische Periode war das große Zeitalter der Stadtgründung: Alexande
 ---
 
 **Editoriale Herkunft:**
-- Entworfen von: Claude Opus 4.6 (KI-Assistent)
-- Datum: 2026-04-21
-- Überprüft von: ausstehend
+- KI-gestützter Entwurf, noch nicht geprüft.

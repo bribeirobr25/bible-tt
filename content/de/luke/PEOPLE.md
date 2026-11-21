@@ -18,19 +18,19 @@ Diese Datei enthält biografische und genealogische Informationen über Personen
 
 ## Yeshua (Jesus)
 **Siehe:** matthew/PEOPLE.md
-**In Lukas:** Die zentrale Gestalt, angekündigt von Gavriel (Gabriel) gegenüber Miryam (Maria) — „du wirst empfangen … und wirst seinen Namen Yeshua nennen" (1,31), „Sohn *des* Höchsten", Erbe „des Thrones Davids, seines Vaters" (1,32–33), empfangen durch den heiligen Wind/Geist (1,35). Sein Kommen wird begrüßt durch das Hüpfen des ungeborenen Yochanan (Johannes) und den Segen Elishevas (Elisabeth) (1,41–45). Geboren in Beit-Lechem (Bethlehem), der Stadt Davids, in eine Futterkrippe gelegt (2,6–7); den Hirten als „ein Retter … Messias, Herr" verkündet (2,11); beschnitten und benannt am achten Tag (2,21); im Tempel dargestellt, wo Shimon (Simeon) über ihm singt und Channah (Hanna) Dank gibt (2,25–38); mit zwölf Jahren unter den Lehrern gefunden, „in den *Dingen* meines Vaters" (2,41–49). Eingetaucht und betend öffnet sich der Himmel, der Wind/Geist steigt herab, und eine Stimme aus dem Himmel spricht „Du bist mein Sohn, der Geliebte" (3,21–22). Die Genealogie führt ihn, „wie man meinte" der Sohn Yosefs (Josef), zurück über David und Avraham (Abraham) bis zu Adam, „von Gott" (3,23–38). Die kanonischen Biografiefelder (Geburt, Eltern, Beruf, Tod durch Kreuzigung) stehen in matthew/PEOPLE.md; dieser Eintrag ergänzt die lukasspezifische erzählerische Rolle und die aufsteigende Genealogie (siehe die Tabelle unten).
+**In Lukas:** Die zentrale Gestalt, angekündigt von Gavriel (Gabriel) gegenüber Miryam (Maria) — „du wirst empfangen … und wirst seinen Namen Yeshua nennen" (1,31), „Sohn *des* Höchsten", Erbe „des Thrones Davids, seines Vaters" (1,32–33), empfangen durch den heiligen Wind/Geist (1,35). Sein Kommen wird begrüßt durch das Hüpfen des ungeborenen Yochanan (Johannes) und den Segen Elishevas (Elisabeth) (1,41–45). Geboren in Beit-Lechem (Bethlehem), der Stadt Davids, in eine Futterkrippe gelegt (2,6–7); den Hirten als „ein Retter … Messias, Herr" verkündet (2,11); beschnitten und benannt am achten Tag (2,21); im Tempel dargestellt, wo Shimon (Simeon) über ihm singt und Channah (Hanna) Dank gibt (2,25–38); mit zwölf Jahren unter den Lehrern gefunden, „in den *Dingen* meines Vaters" (2,41–49). Eingetaucht und betend öffnet sich der Himmel, der Wind/Geist steigt herab, und eine Stimme aus dem Himmel spricht „Du bist mein Sohn, der Geliebte" (3,21–22). Die Genealogie führt ihn, „wie man meinte" der Sohn Yosefs (Josef), zurück über David und Avraham (Abraham) bis zu Adam, „von Gott" (3,23–38). Die kanonischen Biografiefelder (Geburt, Eltern, Beruf, Tod durch Kreuzigung) stehen auf der Seite Personen und Genealogie zu Matthäus; dieser Eintrag ergänzt die lukasspezifische erzählerische Rolle und die aufsteigende Genealogie (siehe die Tabelle unten).
 
 ---
 
 ## Yochanan the Immerser (Johannes der Täufer)
 **Siehe:** matthew/PEOPLE.md
-**In Lukas:** Lukas allein erzählt seine Empfängnis und Geburt. Angekündigt von Gavriel (Gabriel) gegenüber seinem Vater, dem Priester Zecharyah (Zacharias), im Tempel (1,11–20): Er wird groß sein vor dem Herrn, vom heiligen Wind/Geist erfüllt vom Mutterleib an, sich von Wein und starkem Getränk enthaltend, vor dem Herrn hergehend „in *dem* Geist und der Kraft Eliyahus (Elija)" (1,13–17). Empfangen von der betagten, zuvor unfruchtbaren Elisheva (Elisabeth) (1,24); hüpft im Leib seiner Mutter bei Miryams (Maria) Gruß (1,41.44); geboren, beschnitten und „Yochanan" genannt gegen die Erwartung der Familie, was die Zunge seines Vaters löst (1,57–66); wächst heran und bleibt in der Wüste (1,80). In Lukas 3 „kam das Wort Gottes über" ihn (3,2); er verkündet ein Eintauchen der Sinnesänderung zur Freilassung von Sünden, predigt konkrete Ethik an Menschenmengen, Zolleinnehmer und Soldaten (3,7–14), weist über sich hinaus auf einen „Stärkeren" (3,15–17) und wird von Herodes dem Tetrarchen ins Gefängnis geworfen (3,19–20). Die kanonischen Biografiefelder (Abstammung, Lebensweise, Tod unter Antipas) stehen in matthew/PEOPLE.md; dieser Eintrag ergänzt die lukasspezifische Rolle.
+**In Lukas:** Lukas allein erzählt seine Empfängnis und Geburt. Angekündigt von Gavriel (Gabriel) gegenüber seinem Vater, dem Priester Zecharyah (Zacharias), im Tempel (1,11–20): Er wird groß sein vor dem Herrn, vom heiligen Wind/Geist erfüllt vom Mutterleib an, sich von Wein und starkem Getränk enthaltend, vor dem Herrn hergehend „in *dem* Geist und der Kraft Eliyahus (Elija)" (1,13–17). Empfangen von der betagten, zuvor unfruchtbaren Elisheva (Elisabeth) (1,24); hüpft im Leib seiner Mutter bei Miryams (Maria) Gruß (1,41.44); geboren, beschnitten und „Yochanan" genannt gegen die Erwartung der Familie, was die Zunge seines Vaters löst (1,57–66); wächst heran und bleibt in der Wüste (1,80). In Lukas 3 „kam das Wort Gottes über" ihn (3,2); er verkündet ein Eintauchen der Sinnesänderung zur Freilassung von Sünden, predigt konkrete Ethik an Menschenmengen, Zolleinnehmer und Soldaten (3,7–14), weist über sich hinaus auf einen „Stärkeren" (3,15–17) und wird von Herodes dem Tetrarchen ins Gefängnis geworfen (3,19–20). Die kanonischen Biografiefelder (Abstammung, Lebensweise, Tod unter Antipas) stehen auf der Seite Personen und Genealogie zu Matthäus; dieser Eintrag ergänzt die lukasspezifische Rolle.
 
 ---
 
 ## Miryam (Maria)
 **Siehe:** matthew/PEOPLE.md
-**In Lukas:** Weit prominenter als in Matthäus. Eine Jungfrau aus Natzeret (Nazareth), verlobt mit Yosef (Josef), von Gavriel (Gabriel) als die „Begnadete" angeredet (1,28); sie fragt nach („Wie wird dies geschehen?") und willigt ein — „mir geschehe nach deinem Wort" (1,34–38). Sie besucht Elisheva (Elisabeth) und singt das Magnificat (1,46–55). Sie gebiert Yeshua (Jesus) in Beit-Lechem (Bethlehem) (2,7), „bewahrt" und „erwägt" den Bericht der Hirten (2,19), hört Shimons (Simeon) Worte, dass „ein Schwert durch deine eigene Seele dringen wird" (2,35), und im Tempel wiederum „behielt sie alle diese Dinge in ihrem Herzen" (2,51). Die kanonischen Biografiefelder stehen in matthew/PEOPLE.md; dieser Eintrag ergänzt die lukasspezifische Rolle — in Lukas spricht und handelt sie als Akteurin, das Zentrum der Erzählung in den Kapiteln 1–2.
+**In Lukas:** Weit prominenter als in Matthäus. Eine Jungfrau aus Natzeret (Nazareth), verlobt mit Yosef (Josef), von Gavriel (Gabriel) als die „Begnadete" angeredet (1,28); sie fragt nach („Wie wird dies geschehen?") und willigt ein — „mir geschehe nach deinem Wort" (1,34–38). Sie besucht Elisheva (Elisabeth) und singt das Magnificat (1,46–55). Sie gebiert Yeshua (Jesus) in Beit-Lechem (Bethlehem) (2,7), „bewahrt" und „erwägt" den Bericht der Hirten (2,19), hört Shimons (Simeon) Worte, dass „ein Schwert durch deine eigene Seele dringen wird" (2,35), und im Tempel wiederum „behielt sie alle diese Dinge in ihrem Herzen" (2,51). Die kanonischen Biografiefelder stehen auf der Seite Personen und Genealogie zu Matthäus; dieser Eintrag ergänzt die lukasspezifische Rolle — in Lukas spricht und handelt sie als Akteurin, das Zentrum der Erzählung in den Kapiteln 1–2.
 
 ---
 
@@ -90,7 +90,7 @@ Diese Datei enthält biografische und genealogische Informationen über Personen
 **Bücher in denen er vorkommt:** Lukas; Daniel
 **Charakterbogen:** Derselbe benannte Bote rahmt beide Ankündigungen; er zieht die Johannes/Yeshua-Parallele und schärft durch seinen Tadel an Zacharias und seine Sanftmut gegenüber Maria den Gegensatz von Zweifel und Glaube.
 
-**Hinweis (Regel 30):** Gavriel (Gabriel) ist ein *angelos*, ein Bote — nicht Gott. Seine Rede wird daher in gewöhnlichen Anführungszeichen wiedergegeben, NICHT mit den `@@…@@`-Markern göttlicher Rede. Nur die direkte Rede Gottes/des Wind-Geistes ist als göttlich markiert (z. B. die Stimme aus dem Himmel, 3,22). Siehe luke.md L-001.
+**Hinweis (Regel 30):** Gavriel (Gabriel) ist ein *angelos*, ein Bote — nicht Gott. Seine Rede wird daher in gewöhnlichen Anführungszeichen wiedergegeben, NICHT mit der Markierung göttlicher Rede (rot). Nur die direkte Rede Gottes/des Wind-Geistes ist als göttlich markiert (z. B. die Stimme aus dem Himmel, 3,22).
 
 ---
 
@@ -130,7 +130,7 @@ Diese Datei enthält biografische und genealogische Informationen über Personen
 **Bücher in denen er vorkommt:** Lukas
 **Charakterbogen:** Der treue Überrest Israels in Person; nachdem er auf den Trost gewartet hat, erkennt er das Heil in einem Säugling und spricht dann die erste Warnung vom Kreuz und von Marias Trauer aus.
 
-**Hinweis (Regel 30):** Shimons (Simeon) Worte — sowohl das Nunc Dimittis (2,29–32) als auch das Orakel an Maria (2,34–35) — sind *menschliche* Rede, nicht als göttlich markiert; das Canticum wird als fließende Prosa wiedergegeben (luke.md L-002). Er redet Gott als *despotēs* („Gebieter") an, nicht als *kyrios*.
+**Hinweis (Regel 30):** Shimons (Simeon) Worte — sowohl das Nunc Dimittis (2,29–32) als auch das Orakel an Maria (2,34–35) — sind *menschliche* Rede, nicht als göttlich markiert; das Canticum wird als fließende Prosa wiedergegeben. Er redet Gott als *despotēs* („Gebieter") an, nicht als *kyrios*.
 
 ---
 
@@ -236,18 +236,18 @@ Diese Datei enthält biografische und genealogische Informationen über Personen
 **Bücher in denen er vorkommt:** Lukas; Matthäus; Markus; Apostelgeschichte 4,27; 13,1
 **Charakterbogen:** Der Herrscher, der den Propheten zum Schweigen bringt; Lukas erzählt die Inhaftierung vorgreifend und entfernt Johannes vor der Eintauchung, sodass der Fokus auf Yeshua (Jesus) fällt.
 
-**Hinweis:** Zu unterscheiden von seinem Vater, Herodes dem Großen (Lukas 1,5; vollständiger Eintrag in matthew/PEOPLE.md), und von Herodes Philippus, seinem Bruder (3,1). „Herodias" und die Tetrarchen Philippos (Philippus) und Lysanias werden in Lukas 1–3 nur beiläufig genannt.
+**Hinweis:** Zu unterscheiden von seinem Vater, Herodes dem Großen (Lukas 1,5; vollständiger Eintrag auf der Seite Personen und Genealogie zu Matthäus), und von Herodes Philippus, seinem Bruder (3,1). „Herodias" und die Tetrarchen Philippos (Philippus) und Lysanias werden in Lukas 1–3 nur beiläufig genannt.
 
 ---
 
 ## Lukas 3,23–38 Genealogie — Übersichtstabelle
 
-Lukas' Genealogie **steigt auf** von Yeshua (Jesus) zu Adam zu Gott — das Gegenteil von Matthäus' absteigender Liste (Mt 1,1–17). Sie umfasst ~76 Namen von Yeshua bis hinauf zu „von Gott". Für Namen mit einer vertrauten deutschen Form wird die vertraute Glosse einmal angegeben; Namen ohne eine eigene vertraute Form erscheinen nur in Transliteration. Querverweise: die Patriarchen (Adam → die Sem-Linie) haben ihre kanonischen Biografien in **genesis/PEOPLE.md**; die David-Linie ist mit **matthew/PEOPLE.md** verbunden (die obigen Nur-Siehe-Stubs decken die drei Hauptgestalten ab — Yeshua, Yochanan, Miryam).
+Lukas' Genealogie **steigt auf** von Yeshua (Jesus) zu Adam zu Gott — das Gegenteil von Matthäus' absteigender Liste (Mt 1,1–17). Sie umfasst ~76 Namen von Yeshua bis hinauf zu „von Gott". Für Namen mit einer vertrauten deutschen Form wird die vertraute Glosse einmal angegeben; Namen ohne eine eigene vertraute Form erscheinen nur in Transliteration. Querverweise: die Patriarchen (Adam → die Sem-Linie) haben ihre kanonischen Biografien auf **der Seite Personen und Genealogie zu Genesis**; die David-Linie ist mit **der Seite Personen und Genealogie zu Matthäus** verbunden (die kurzen Verweiseinträge oben decken die drei Hauptgestalten ab — Yeshua, Yochanan, Miryam).
 
 | # | Name (Vertraut) | Stelle | Kanonisches Heimatbuch |
 |---|---|---|---|
-| — | Yeshua (Jesus) | 3,23 | matthew/PEOPLE.md (Siehe-Stub oben) |
-| 1 | Yosef (Josef) | 3,23 | luke/PEOPLE.md (vollständiger Eintrag oben) |
+| — | Yeshua (Jesus) | 3,23 | siehe Matthäus |
+| 1 | Yosef (Josef) | 3,23 | vollständiger Eintrag oben |
 | 2 | Eli | 3,23 | — |
 | 3 | Mattat | 3,24 | — |
 | 4 | Levi | 3,24 | — |
@@ -288,7 +288,7 @@ Lukas' Genealogie **steigt auf** von Yeshua (Jesus) zu Adam zu Gott — das Gege
 | 39 | Mena | 3,31 | — |
 | 40 | Mattata | 3,31 | — |
 | 41 | Natan | 3,31 | — (Davids Sohn; vgl. 2 Sam 5,14 — Lukas' Linie, nicht Salomos) |
-| 42 | David | 3,31 | matthew/PEOPLE.md (vollständiger Eintrag; samuel/kings später) |
+| 42 | David | 3,31 | siehe Matthäus (vollständiger Eintrag) |
 | 43 | Yishai (Isai) | 3,32 | — |
 | 44 | Oved (Obed) | 3,32 | — |
 | 45 | Bo'az (Boas) | 3,32 | — |
@@ -298,31 +298,31 @@ Lukas' Genealogie **steigt auf** von Yeshua (Jesus) zu Adam zu Gott — das Gege
 | 49 | Admin | 3,33 | — (NA28; andere Textzeugen lesen „Aram") |
 | 50 | Arni | 3,33 | — (NA28; andere Textzeugen lesen „Aram") |
 | 51 | Chetsron | 3,33 | — |
-| 52 | Perets | 3,33 | genesis/PEOPLE.md Kontext (vgl. matthew/PEOPLE.md) |
-| 53 | Yehudah (Juda) | 3,33 | genesis/PEOPLE.md |
-| 54 | Ya'aqov (Jakob) | 3,34 | genesis/PEOPLE.md |
-| 55 | Yitzchak (Isaak) | 3,34 | genesis/PEOPLE.md |
-| 56 | Avraham (Abraham) | 3,34 | genesis/PEOPLE.md |
-| 57 | Terach | 3,34 | genesis/PEOPLE.md |
-| 58 | Nachor (Nahor) | 3,34 | genesis/PEOPLE.md |
-| 59 | Serug | 3,35 | genesis/PEOPLE.md |
-| 60 | Re'u | 3,35 | genesis/PEOPLE.md |
-| 61 | Peleg | 3,35 | genesis/PEOPLE.md |
-| 62 | Ever | 3,35 | genesis/PEOPLE.md |
-| 63 | Shelach | 3,35 | genesis/PEOPLE.md |
-| 64 | Qenan (Kenan) | 3,36 | genesis/PEOPLE.md (der nur in der LXX bezeugte zweite Qenan; siehe Anmerkung) |
-| 65 | Arpakhshad | 3,36 | genesis/PEOPLE.md |
-| 66 | Shem | 3,36 | genesis/PEOPLE.md |
-| 67 | Noach (Noah) | 3,36 | genesis/PEOPLE.md |
-| 68 | Lemekh (Lamech) | 3,36 | genesis/PEOPLE.md (sethitischer Lamech) |
-| 69 | Metushelach (Methusalem) | 3,37 | genesis/PEOPLE.md |
-| 70 | Chanokh (Henoch) | 3,37 | genesis/PEOPLE.md |
-| 71 | Yered (Jered) | 3,37 | genesis/PEOPLE.md |
-| 72 | Mahalal'el (Mahalalel) | 3,37 | genesis/PEOPLE.md |
-| 73 | Qenan (Kenan) | 3,37 | genesis/PEOPLE.md |
-| 74 | Enosh | 3,38 | genesis/PEOPLE.md |
-| 75 | Shet (Set) | 3,38 | genesis/PEOPLE.md |
-| 76 | Adam | 3,38 | genesis/PEOPLE.md |
+| 52 | Perets | 3,33 | siehe Genesis (Kontext; vgl. Matthäus) |
+| 53 | Yehudah (Juda) | 3,33 | siehe Genesis |
+| 54 | Ya'aqov (Jakob) | 3,34 | siehe Genesis |
+| 55 | Yitzchak (Isaak) | 3,34 | siehe Genesis |
+| 56 | Avraham (Abraham) | 3,34 | siehe Genesis |
+| 57 | Terach | 3,34 | siehe Genesis |
+| 58 | Nachor (Nahor) | 3,34 | siehe Genesis |
+| 59 | Serug | 3,35 | siehe Genesis |
+| 60 | Re'u | 3,35 | siehe Genesis |
+| 61 | Peleg | 3,35 | siehe Genesis |
+| 62 | Ever | 3,35 | siehe Genesis |
+| 63 | Shelach | 3,35 | siehe Genesis |
+| 64 | Qenan (Kenan) | 3,36 | siehe Genesis (der nur in der LXX bezeugte zweite Qenan; siehe Anmerkung) |
+| 65 | Arpakhshad | 3,36 | siehe Genesis |
+| 66 | Shem | 3,36 | siehe Genesis |
+| 67 | Noach (Noah) | 3,36 | siehe Genesis |
+| 68 | Lemekh (Lamech) | 3,36 | siehe Genesis (sethitischer Lamech) |
+| 69 | Metushelach (Methusalem) | 3,37 | siehe Genesis |
+| 70 | Chanokh (Henoch) | 3,37 | siehe Genesis |
+| 71 | Yered (Jered) | 3,37 | siehe Genesis |
+| 72 | Mahalal'el (Mahalalel) | 3,37 | siehe Genesis |
+| 73 | Qenan (Kenan) | 3,37 | siehe Genesis |
+| 74 | Enosh | 3,38 | siehe Genesis |
+| 75 | Shet (Set) | 3,38 | siehe Genesis |
+| 76 | Adam | 3,38 | siehe Genesis |
 | — | Gott | 3,38 | (die Genitivkette endet mit „von Gott"; Adam „Sohn Gottes" durch Schöpfung, Gen 1,27; 5,1) |
 
 **Anmerkung — Abweichung von Matthäus (Crux, zur hellenistischen Begutachtung markiert gemäß Regel 13):**
@@ -331,7 +331,7 @@ Lukas' Genealogie **steigt auf** von Yeshua (Jesus) zu Adam zu Gott — das Gege
 - **Richtung und Reichweite:** Lukas **steigt auf** und setzt sich *über* Avraham (Abraham) hinaus fort durch Terach, die Sem-Linie, die vorsintflutlichen Patriarchen, bis zu Adam und „von Gott" (3,34–38); Matthäus **steigt ab** und endet bei Abraham.
 - **Nur in der LXX bezeugter Qenan:** Lukas' Liste enthält einen zweiten **Qenan (Kenan)** zwischen Arpakhshad und Shelach (3,36) — vorhanden in der LXX von Gen 11,12–13, aber im hebräischen Masoretischen Text abwesend.
 - **Übereinstimmung:** Von David zurück bis Nachshon (3,31–32) stimmt die Linie mit Rut 4,18–22 und Matthäus 1,3–6 überein; das Paar Zerubbavel–She'altiel (3,27) überschneidet sich ebenfalls mit Matthäus 1,12, obwohl die umgebenden Namen abweichen.
-- Vorgeschlagene Harmonisierungen (Lukas gebe Miryams/Marias Linie über Eli wieder; Leviratsehe; rechtliche versus leibliche Abstammung — alle an die Relativierung „wie man meinte" von 3,23 geknüpft) sind umstritten. Die TT gibt Lukas' Liste so wieder, wie das Griechische sie bietet, und löst die Frage nach dem Eigner der Linie nicht auf. Siehe Lukas 3 §A4 und docs/editorial-log/luke.md.
+- Vorgeschlagene Harmonisierungen (Lukas gebe Miryams/Marias Linie über Eli wieder; Leviratsehe; rechtliche versus leibliche Abstammung — alle an die Relativierung „wie man meinte" von 3,23 geknüpft) sind umstritten. Die TT gibt Lukas' Liste so wieder, wie das Griechische sie bietet, und löst die Frage nach dem Eigner der Linie nicht auf. Siehe das Begleitmaterial zu Lukas 3 (Vertiefen), Abschnitt A4.
 
 ---
 
@@ -343,4 +343,4 @@ Lukas' Genealogie **steigt auf** von Yeshua (Jesus) zu Adam zu Gott — das Gege
 - **PEER-REVIEWED (lexicon)** — BDAG, *A Greek-English Lexicon of the New Testament*, 3. Aufl.; HALOT, *The Hebrew and Aramaic Lexicon of the Old Testament*.
 - **PEER-REVIEWED (commentary)** — Bovon, F., *Lukas 1* (Hermeneia, 2002); Fitzmyer, J.A., *The Gospel According to Luke I–IX* (AB, 1981); Marshall, I.H., *The Gospel of Luke* (NIGTC, 1978).
 
-> **Redaktionelle Herkunft:** Entworfen von Claude Opus 4.8 (1M Kontext) am 2026-06-22. Noch nicht begutachtet. Diese Datei ist eine provisorische wissenschaftliche Ressource, geregelt durch TT-Regel 29. Querverweise auf genesis/PEOPLE.md und matthew/PEOPLE.md verlinken zu bestehenden Einträgen, statt Inhalte zu duplizieren; die Genealogie-Abweichung von Matthäus ist zur hellenistischen Begutachtung markiert (Regel 13).
+> **Redaktionelle Herkunft:** KI-gestützter Entwurf, noch nicht geprüft. Diese Datei ist eine provisorische wissenschaftliche Ressource, geregelt durch TT-Regel 29. Querverweise auf die Seite Personen und Genealogie zu Genesis und die Seite Personen und Genealogie zu Matthäus verlinken zu bestehenden Einträgen, statt Inhalte zu duplizieren; die Genealogie-Abweichung von Matthäus ist zur hellenistischen Begutachtung markiert (Regel 13).

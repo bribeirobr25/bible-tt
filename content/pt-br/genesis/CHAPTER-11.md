@@ -93,7 +93,7 @@ E toda a terra era *de* um lábio e de um *conjunto de* palavras.
 
 > **NOTAS**
 >
-> 🟡 **NÍVEL 2 — NOTA DE RECEPÇÃO**
+> 🟡 **NOTA DE RECEPÇÃO**
 > - A narrativa de Babel não deve ser lida como condenação geral de tecnologia, civilização urbana ou diversidade linguística. Veja o companheiro Seção F para contexto histórico sobre leituras equivocadas documentadas.
 >
 > 🔴 **CRÍTICO — "UM LÁBIO" (*saphah echat*)**

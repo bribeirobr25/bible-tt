@@ -221,7 +221,7 @@ Die Antwort des Knaben Yeshua, **ἐν τοῖς τοῦ πατρός μου** (
 
 ## I. Die Welt zur damaligen Zeit
 
-> **Querverweis:** Für den vollständigen Weltkontext in zwei Szenarien mit zehn Kategorien (Politik, Wirtschaft, Alltagsleben, Gesellschaftsstruktur, Bildung, Militär, Kunst, Wissenschaft, Religion, Nachbarvölker) siehe das Johannes-1-Begleitmaterial (Abschnitt I, `de/john/study/CHAPTER-1-CONTEXT.md`). Lukas und Johannes teilen denselben allgemeinen historischen Zeitraum; der Abschnitt zu Johannes 1 bietet die Grundlage. Die folgenden Einträge befassen sich mit den in Lukas 2 in den Vordergrund tretenden spezifischen Umständen.
+> **Querverweis:** Für den vollständigen Weltkontext in zwei Szenarien mit zehn Kategorien (Politik, Wirtschaft, Alltagsleben, Gesellschaftsstruktur, Bildung, Militär, Kunst, Wissenschaft, Religion, Nachbarvölker) siehe das Begleitmaterial zu Johannes 1 (Vertiefen), Abschnitt I. Lukas und Johannes teilen denselben allgemeinen historischen Zeitraum; der Abschnitt zu Johannes 1 bietet die Grundlage. Die folgenden Einträge befassen sich mit den in Lukas 2 in den Vordergrund tretenden spezifischen Umständen.
 
 ---
 
@@ -307,6 +307,4 @@ Nach dem Jüdischen Krieg war die römische Vorherrschaft über das Land total: 
 ---
 
 **Redaktionelle Herkunft:**
-- Entworfen von: KI (Claude, Anthropic)
-- Datum: 2026-06-23
-- Begutachtet von: ausstehend
+- KI-gestützter Entwurf, noch nicht geprüft.

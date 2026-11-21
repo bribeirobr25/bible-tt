@@ -22,7 +22,7 @@
 - [Leitura Contínua](#leitura-contínua)
 - [Estudo Verso a Verso](#estudo-verso-a-verso)
 - [Glossário — 1 Pedro 4](#glossário--1-pedro-4)
-- [Rastreamento entre Capítulos (BH -> 1 Pedro)](#rastreamento-entre-capítulos-bh---1-pedro)
+- [Rastreamento entre Capítulos (BH → 1 Pedro)](#rastreamento-entre-capítulos-bh---1-pedro)
 
 ---
 
@@ -37,7 +37,7 @@
 
 As notas são marcadas por tipo — **Crítico · Lexical · Gramatical · Teológico** — cada uma com sua cor (veja a legenda no topo da visão de Notas).
 
-**O capítulo 4 se volta para o viver à luz do fim e para o sofrimento pelo nome.** Armai-vos com a mentalidade do Messias; vós já terminastes com a velha vida das nações, que prestarão contas; para isto a boa nova foi até pregada "aos mortos" (vv.1-6) — a crux do capítulo. O fim de todas as coisas está próximo, portanto sede sóbrios, amai com fervor (o amor cobre uma multidão de pecados), sede hospitaleiros, e servi com os vossos dons para a glória de Deus (vv.7-11). Não vos surpreendais com a provação ardente; alegrai-vos ao partilhar dos sofrimentos do Messias; se injuriados pelo nome, sois bem-aventurados — sofrei como cristão, não como malfeitor; pois o juízo começa na casa de Deus, e os justos são salvos a custo (vv.12-19). **Nota sobre marcação de fala (Regra 30):** não há fala divina narrada; a citação de Provérbios 11:31 (4:18) é a voz do sábio — não marcada. **Versículo de alta restrição:** 4:6 ("o evangelho foi pregado até aos mortos") é traduzido literalmente e as suas leituras sinalizadas, sem resolver nenhuma (Regra 3; editorial-log P-010).
+**O capítulo 4 se volta para o viver à luz do fim e para o sofrimento pelo nome.** Armai-vos com a mentalidade do Messias; vós já terminastes com a velha vida das nações, que prestarão contas; para isto a boa nova foi até pregada "aos mortos" (vv.1-6) — a crux do capítulo. O fim de todas as coisas está próximo, portanto sede sóbrios, amai com fervor (o amor cobre uma multidão de pecados), sede hospitaleiros, e servi com os vossos dons para a glória de Deus (vv.7-11). Não vos surpreendais com a provação ardente; alegrai-vos ao partilhar dos sofrimentos do Messias; se injuriados pelo nome, sois bem-aventurados — sofrei como cristão, não como malfeitor; pois o juízo começa na casa de Deus, e os justos são salvos a custo (vv.12-19). **Nota sobre marcação de fala (Regra 30):** não há fala divina narrada; a citação de Provérbios 11:31 (4:18) é a voz do sábio — não marcada. **Versículo de alta restrição:** 4:6 ("o evangelho foi pregado até aos mortos") é traduzido literalmente e as suas leituras sinalizadas, sem resolver nenhuma (Regra 3).
 
 ---
 
@@ -47,7 +47,7 @@ As notas são marcadas por tipo — **Crítico · Lexical · Gramatical · Teol�
 
 **Temas-chave:** O armar-se com a mentalidade-de-sofrimento do Messias; a ruptura com o "caminho das nações" e a perplexidade e calúnia dos de fora; Deus como juiz dos vivos e dos mortos; a crux de **4:6** (a boa nova pregada "aos mortos," com a sua ligação a 3:19); o **fim** iminente como motivo para a oração sóbria e o amor fervoroso; "**o amor cobre uma multidão de pecados**" (Pv 10:12); a hospitalidade e a administração dos dons ("quem fala, como oráculos de Deus"); a **provação ardente** como participação nos sofrimentos do Messias, não algo estranho; o sofrer "**pelo nome**" / "como **cristão**" como honra, não vergonha (um dos três usos no NT de *Christianos*); "o espírito de glória e de Deus" repousando sobre os perseguidos; o **juízo começando na casa de Deus** (Ez 9; Ml 3); o justo "salvo a custo" (Pv 11:31); o confiar a alma a "um Criador fiel."
 
-**Observe:** **4:6** "o evangelho foi pregado até aos mortos" — a crux do capítulo (ligada a 3:19); traduzida literalmente, leituras sinalizadas, nenhuma resolvida (Regra 3; P-010). A antítese carne/espírito retorna (4:6 "julgados na carne… vivam no {a:vento/espírito}") — a mesma crux de 3:18. **4:14** "o espírito de glória e de Deus repousa sobre vós" ecoa Isaías 11:2 — o {a:vento/espírito}. **4:16** *Christianos* ("cristão") — um termo raro, provavelmente um rótulo dos de fora (cf. At 11:26; 26:28) que a carta reivindica. 4:8 cita Provérbios 10:12 ("o amor cobre… pecados"); 4:18 cita Provérbios 11:31 LXX (a voz do sábio — não marcada). "O juízo começa na casa de Deus" (4:17) se vale de Ezequiel 9:6 / Malaquias 3:1-5.
+**Observe:** **4:6** "o evangelho foi pregado até aos mortos" — a crux do capítulo (ligada a 3:19); traduzida literalmente, leituras sinalizadas, nenhuma resolvida (Regra 3). A antítese carne/espírito retorna (4:6 "julgados na carne… vivam no {a:vento/espírito}") — a mesma crux de 3:18. **4:14** "o espírito de glória e de Deus repousa sobre vós" ecoa Isaías 11:2 — o {a:vento/espírito}. **4:16** *Christianos* ("cristão") — um termo raro, provavelmente um rótulo dos de fora (cf. At 11:26; 26:28) que a carta reivindica. 4:8 cita Provérbios 10:12 ("o amor cobre… pecados"); 4:18 cita Provérbios 11:31 LXX (a voz do sábio — não marcada). "O juízo começa na casa de Deus" (4:17) se vale de Ezequiel 9:6 / Malaquias 3:1-5.
 
 **Conexão:** "O amor cobre uma multidão de pecados" (4:8) cita Provérbios 10:12. "O espírito de glória e de Deus repousa sobre vós" (4:14) ecoa Isaías 11:2 (o espírito do SENHOR repousando sobre o rebento messiânico). "O juízo começa na casa de Deus" (4:17) se vale de Ezequiel 9:6 (o juízo começando no santuário) e de Malaquias 3:1-5 (o Senhor vindo ao seu templo para refinar). "Se o justo é salvo a custo, onde aparecerá o ímpio…?" (4:18) cita Provérbios 11:31 (LXX). "Um Criador fiel" (4:19) remonta a Gênesis 1 e à fidelidade do Criador de Isaías 40-45.
 
@@ -130,8 +130,8 @@ Pois para este *fim* a boa nova foi pregada até aos *mortos*, para que fossem j
 
 > **Notas**
 >
-> 🔴 **CRÍTICO — "A BOA NOVA PREGADA ATÉ AOS MORTOS" (a crux, P-010)**
-> - **καὶ νεκροῖς εὐηγγελίσθη** (*kai nekrois euēngelisthē*) = "a boa nova foi pregada até aos *mortos*." Uma crux, ligada a 3:19. Leituras principais: (a) os **cristãos agora mortos** que ouviram o evangelho enquanto vivos (e foram "julgados… na carne" ao morrer); (b) aqueles que ouviram a proclamação de 3:19 (os mortos dos dias de Noé); (c) uma proclamação geral de descida. A antítese carne/espírito retorna — "julgados segundo os humanos **na *carne*** mas vivam segundo Deus no **{a:vento/espírito}**" (cf. 3:18). A TT traduz literalmente e **não resolve nenhuma** (Regra 3 / Regra 13). → editorial-log P-010; Companheiro §A; referência cruzada 3:19 (P-006).
+> 🔴 **CRÍTICO — "A BOA NOVA PREGADA ATÉ AOS MORTOS" (a crux)**
+> - **καὶ νεκροῖς εὐηγγελίσθη** (*kai nekrois euēngelisthē*) = "a boa nova foi pregada até aos *mortos*." Uma crux, ligada a 3:19. Leituras principais: (a) os **cristãos agora mortos** que ouviram o evangelho enquanto vivos (e foram "julgados… na carne" ao morrer); (b) aqueles que ouviram a proclamação de 3:19 (os mortos dos dias de Noé); (c) uma proclamação geral de descida. A antítese carne/espírito retorna — "julgados segundo os humanos **na *carne*** mas vivam segundo Deus no **{a:vento/espírito}**" (cf. 3:18). A TT traduz literalmente e **não resolve nenhuma** (Regra 3 / Regra 13). → Companheiro §A; referência cruzada 3:19.
 
 ---
 
@@ -296,7 +296,7 @@ Portanto, *que* também os que sofrem segundo a *vontade* de Deus confiem as sua
 
 ---
 
-## Rastreamento entre Capítulos (BH -> 1 Pedro)
+## Rastreamento entre Capítulos (BH → 1 Pedro)
 
 | BH / fonte anterior | Tema | Em 1 Pedro 4 |
 |---------------------|-------|--------------|

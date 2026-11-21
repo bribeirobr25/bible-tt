@@ -194,7 +194,7 @@ Herodes' Befehl, Kinder „von zwei Jahren und darunter, nach der Zeit, die er v
 
 ## I. Die Welt zur damaligen Zeit
 
-> **Für den vollständigen Kontext siehe Johannes 1 Begleitmaterial Abschnitt I.** Johannes und Matthäus teilen denselben allgemeinen historischen Zeitraum; das Begleitmaterial zu Johannes 1 (`de/john/study/CHAPTER-1-CONTEXT.md`) bietet den vollständigen Kontext in zwei Szenarien mit zehn Kategorien. Die folgenden Einträge befassen sich mit den in Matthäus 2 in den Vordergrund tretenden spezifischen Umständen.
+> **Für den vollständigen Kontext siehe Johannes 1 Begleitmaterial Abschnitt I.** Johannes und Matthäus teilen denselben allgemeinen historischen Zeitraum; das Begleitmaterial zu Johannes 1 (Vertiefen) bietet den vollständigen Kontext in zwei Szenarien mit zehn Kategorien. Die folgenden Einträge befassen sich mit den in Matthäus 2 in den Vordergrund tretenden spezifischen Umständen.
 
 ---
 
@@ -242,7 +242,7 @@ Nachkriegsleser von Matthäus 2 hatten — oder hatten Eltern, die — Gewalt er
 #### IB-2. Nachbarvölker — Diasporajudentum und die Heidenmission nach 70 n. Chr.
 **[HISTORISCH / ARCHÄOLOGISCH — WAHRSCHEINLICH]**
 
-Der Besuch der Magier in Matthäus 2 — Heiden aus dem Osten, die den König der Yehudim erkennen und anbeten — fungiert als Vorwegnahme des Großen Auftrags (28,19: „macht alle Völker zu Jüngern"). Für Nachkriegsleser war die Heidenmission keine Zukunftsperspektive, sondern eine gegenwärtige Realität. Jüdisch-christliche Gemeinschaften in der Diaspora waren zunehmend heidnisch zusammengesetzt; die Frage, wie sich Heiden zur Tora und zu Israels Verheißungen verhielten, war in Paulus' Briefen (um 50–60 n. Chr.) zentral gewesen und wurde weiter debattiert. Die *Magoi* als heidnische Wahrheitssucher, die ihren Weg zum jüdischen Messias finden, noch bevor Israels eigene Autoritäten es tun, ist eine Erzählung der Heidenmission im Kleinen. Die Geographie — vom Orient nach Judäa, nach Ägypten und zurück — kartiert auch die Diaspora-Welt, in der Matthäus' Evangelium wahrscheinlich kursierte. **[WAHRSCHEINLICH, dass die Magiergeschichte für Nachkriegsgemeinschaften als Legitimation der Einbeziehung von Heiden fungierte.]**
+Der Besuch der Magier in Matthäus 2 — Heiden aus dem Osten, die den König der Jehudim erkennen und anbeten — fungiert als Vorwegnahme des Großen Auftrags (28,19: „macht alle Völker zu Jüngern"). Für Nachkriegsleser war die Heidenmission keine Zukunftsperspektive, sondern eine gegenwärtige Realität. Jüdisch-christliche Gemeinschaften in der Diaspora waren zunehmend heidnisch zusammengesetzt; die Frage, wie sich Heiden zur Tora und zu Israels Verheißungen verhielten, war in Paulus' Briefen (um 50–60 n. Chr.) zentral gewesen und wurde weiter debattiert. Die *Magoi* als heidnische Wahrheitssucher, die ihren Weg zum jüdischen Messias finden, noch bevor Israels eigene Autoritäten es tun, ist eine Erzählung der Heidenmission im Kleinen. Die Geographie — vom Orient nach Judäa, nach Ägypten und zurück — kartiert auch die Diaspora-Welt, in der Matthäus' Evangelium wahrscheinlich kursierte. **[WAHRSCHEINLICH, dass die Magiergeschichte für Nachkriegsgemeinschaften als Legitimation der Einbeziehung von Heiden fungierte.]**
 
 **Quelle:** Barclay, J.M.G., *Jews in the Mediterranean Diaspora*, T&T Clark, 1996; Overman, J.A., *Matthew's Gospel and Formative Judaism*, Fortress Press, 1990.
 
@@ -274,6 +274,4 @@ Jüdische Nachkriegsflüchtlinge würden die Erzählung der Flucht nach Ägypten
 ---
 
 **Redaktionelle Herkunft:**
-- Entworfen von: KI (Claude, Anthropic)
-- Datum: 2026-04-27
-- Begutachtet von: ausstehend
+- KI-gestützter Entwurf, noch nicht geprüft.

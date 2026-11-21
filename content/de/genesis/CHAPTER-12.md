@@ -262,7 +262,7 @@ Sag doch, *dass* du meine Schwester *bist*, damit es mir wohl ergehe deinetwegen
 
 > **NOTIZEN**
 >
-> 🟡 **STUFE 2 — REZEPTIONSHINWEIS**
+> 🟡 **REZEPTIONSHINWEIS**
 > - Siehe Begleitmaterial Abschnitt F für Kontext zur Ehefrau-Schwester-Episode und Sarais Handlungsfähigkeit.
 >
 > 🔴 **DIE EHEFRAU-SCHWESTER-BITTE**

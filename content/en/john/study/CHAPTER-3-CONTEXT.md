@@ -231,6 +231,4 @@ The rich diversity of immersion practices documented in John 3's context (Yochan
 ---
 
 **Editorial provenance:**
-- Drafted by: Claude Opus 4.6 (AI assistant)
-- Date: 2026-04-27
-- Reviewed by: pending
+- AI-assisted draft, not yet reviewed.

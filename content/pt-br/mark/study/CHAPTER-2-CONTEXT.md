@@ -153,7 +153,7 @@ As sentenças emparelhadas (2:21–22) afirmam um princípio — o novo rompe re
 
 ## I. O Mundo na Época
 
-> **Referência cruzada:** Para o contexto completo do mundo em dois cenários e dez categorias (Político, Economia, Vida Cotidiana, Estrutura Social, Educação, Militar, Artes, Ciência, Religião, Povos Vizinhos), veja o companheiro de João 1 (Seção I, `pt-br/john/study/CHAPTER-1-CONTEXT.md`). As entradas abaixo abordam as circunstâncias específicas destacadas em Marcos 2.
+> **Referência cruzada:** Para o contexto completo do mundo em dois cenários e dez categorias (Político, Economia, Vida Cotidiana, Estrutura Social, Educação, Militar, Artes, Ciência, Religião, Povos Vizinhos), veja o material de estudo de João 1 (Aprofundar), Seção I. As entradas abaixo abordam as circunstâncias específicas destacadas em Marcos 2.
 
 ---
 
@@ -207,6 +207,4 @@ Após 70 d.C., com o culto sacrificial ido, a observância do sábado e o estudo
 ---
 
 **Proveniência editorial:**
-- Redigido por: IA (Claude, Anthropic)
-- Data: 2026-06-18
-- Revisado por: pendente
+- Rascunho assistido por IA, ainda não revisado.

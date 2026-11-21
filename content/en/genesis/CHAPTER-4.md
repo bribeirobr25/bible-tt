@@ -361,7 +361,7 @@ And Adam knew his woman again, and she bore a son and called his name Shet (Seth
 > **NOTES**
 >
 > 🔴 **CRITICAL — ADAM BECOMES PROPER NAME**
-> - **אָדָם** (*adam*) appears here **without the article** in a genealogical/naming context. This is the **transition point** from generic "the human" to proper name "Adam." The TT shifts to "Adam" from this verse forward. Logged in editorial log (entry 081).
+> - **אָדָם** (*adam*) appears here **without the article** in a genealogical/naming context. This is the **transition point** from generic "the human" to proper name "Adam." The TT shifts to "Adam" from this verse forward.
 >
 > 🟢 **SHET = "SET/PLACED"**
 > - **שֵׁת** (*Shet*) from **שִׁית** (*shit*) = "to set/place." Chava (Eve)'s speech makes the wordplay explicit: "God has *shat* (set) for me another *zera* (seed)."
@@ -390,7 +390,7 @@ And to Shet (Seth), also to him a son was born, and he called his name Enosh. Th
 | Hebrew | English | Notes |
 |--------|---------|-------|
 | קַיִן | Qayin (Cain) | Wordplay with *qanah* (acquired); first murderer |
-| הֶב��ל | Hevel (Abel) | "Vapor, breath, fleeting" — same word as Ecclesiastes *hevel* |
+| הֶבֶל | Hevel (Abel) | "Vapor, breath, fleeting" — same word as Ecclesiastes *hevel* |
 | חַטָּאת | sin | First occurrence Gen 4:7; personified ("crouches") |
 | עָוֹן | sin/punishment | Ambiguous — means both guilt AND its consequence (4:13) |
 | מִנְחָה | offering | Gift/tribute; later technical term for grain offering |

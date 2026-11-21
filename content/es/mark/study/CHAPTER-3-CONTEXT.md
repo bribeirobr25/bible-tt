@@ -158,7 +158,7 @@ Marcos frecuentemente parte un relato para envolver otro dentro de él. Aquí la
 
 ## I. El Mundo en Esa Época
 
-> **Referencia cruzada:** Para el contexto mundial completo de dos escenarios y diez categorías (Político, Economía, Vida Cotidiana, Estructura Social, Educación, Militar, Artes, Ciencia, Religión, Pueblos Vecinos), véase el compañero de Juan 1 (Sección I, `es/john/study/CHAPTER-1-CONTEXT.md`). Las entradas siguientes abordan las circunstancias específicas que aparecen en primer plano en Marcos 3.
+> **Referencia cruzada:** Para el contexto mundial completo de dos escenarios y diez categorías (Político, Economía, Vida Cotidiana, Estructura Social, Educación, Militar, Artes, Ciencia, Religión, Pueblos Vecinos), véase el material de estudio de Juan 1 (Profundizar), Sección I. Las entradas siguientes abordan las circunstancias específicas que aparecen en primer plano en Marcos 3.
 
 ---
 
@@ -213,6 +213,4 @@ La redefinición de la familia en torno a "la voluntad de Dios" (3:35) tendría 
 ---
 
 **Procedencia editorial:**
-- Redactado por: IA (Claude, Anthropic)
-- Fecha: 18-06-2026
-- Revisado por: pendiente
+- Borrador asistido por IA, aún no revisado.

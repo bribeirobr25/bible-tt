@@ -21,7 +21,7 @@ Para o tratamento mais estritamente etimológico de um termo específico, veja J
 
 O Quarto Evangelho usa palavras com dois significados simultâneos como um recurso literário deliberado. O leitor deve segurar ambos os sentidos ao mesmo tempo; a narrativa frequentemente resolve qual sentido estava operativo apenas retrospectivamente. Dentro de João 1–3 os casos dentro do escopo:
 
-**João 1:5 — *katelaben***. "A luz brilha nas trevas, e as trevas não a *katelaben*." O verbo grego significa tanto "vencer" quanto "compreender/captar". Ambas as leituras são teologicamente carregadas — as trevas falharam em apagar a luz, ou falharam em entendê-la? A palavra grega contém ambos; a TT preserva a ambiguidade com uma nota Tier 2 em vez de escolher uma glosa em português.
+**João 1:5 — *katelaben***. "A luz brilha nas trevas, e as trevas não a *katelaben*." O verbo grego significa tanto "vencer" quanto "compreender/captar". Ambas as leituras são teologicamente carregadas — as trevas falharam em apagar a luz, ou falharam em entendê-la? A palavra grega contém ambos; a TT preserva a ambiguidade com uma nota em vez de escolher uma glosa em português.
 
 **João 2:9 — água-em-vinho como mecanismo ausente**. O narrador diz que o mestre de cerimônias "não sabia de onde vinha" — o mecanismo do sinal é deliberadamente omitido. Isto não é jogo de palavras no sentido estrito, mas compartilha da mesma técnica literária: um buraco textual convidando duas leituras (transformação milagrosa vs. substituição não-narrada pelo mestre).
 
@@ -42,9 +42,9 @@ O peso cumulativo importa: cinco sentidos duplos em três capítulos é mais den
 **[TEXTUAL — VERIFICADO]**
 **Capítulos:** 1, 3
 
-O termo grego *monogenēs* (μονογενής, "único-nascido" / "único do seu tipo") aparece quatro vezes em João 1–3 (1:14, 1:18, 3:16, 3:18), tornando-o um dos termos teologicamente carregados mais recorrentes nos capítulos iniciais. A TT o traduz consistentemente em todos os quatro locais: EN "only-born", PT-BR "único-nascido", DE "einziggeborenen", ES "único-nacido" — o alinhamento entre línguas preserva a leitura geração/engendramento (mono- + -genēs de *gennaō*, "gerar") em vez da leitura semântica alternativa ("único"; de *genos*, "tipo"), conforme a decisão de nível-de-projeto (`docs/audit/PENDING.md` sinalizou isto como item de consistência entre línguas).
+O termo grego *monogenēs* (μονογενής, "único-nascido" / "único do seu tipo") aparece quatro vezes em João 1–3 (1:14, 1:18, 3:16, 3:18), tornando-o um dos termos teologicamente carregados mais recorrentes nos capítulos iniciais. A TT o traduz consistentemente em todos os quatro locais: EN "only-born", PT-BR "único-nascido", DE "einziggeborenen", ES "único-nacido" — o alinhamento entre línguas preserva a leitura geração/engendramento (mono- + -genēs de *gennaō*, "gerar") em vez da leitura semântica alternativa ("único"; de *genos*, "tipo"), conforme a decisão de nível-de-projeto.
 
-As quatro ocorrências traçam um arco. **João 1:14** introduz *monogenēs* no prólogo do Logos: "vimos a sua glória, glória como do *monogenēs* do pai." O termo aplica-se primeiramente ao Verbo-feito-carne no quadro cosmológico. **João 1:18** então ocorre com uma variante textual — manuscritos leem *monogenēs theos* ("Deus único-nascido") ou *monogenēs huios* ("Filho único-nascido"). A TT preserva a variante com uma nota crítico-textual Tier 2 em vez de silenciosamente resolvê-la.
+As quatro ocorrências traçam um arco. **João 1:14** introduz *monogenēs* no prólogo do Logos: "vimos a sua glória, glória como do *monogenēs* do pai." O termo aplica-se primeiramente ao Verbo-feito-carne no quadro cosmológico. **João 1:18** então ocorre com uma variante textual — manuscritos leem *monogenēs theos* ("Deus único-nascido") ou *monogenēs huios* ("Filho único-nascido"). A TT preserva a variante com uma nota crítico-textual em vez de silenciosamente resolvê-la.
 
 **João 3:16** usa *monogenēs* na sentença mais citada do Novo Testamento: "porque Deus amou tanto o mundo que deu o seu *monogenēs* filho." Aqui o termo está dentro da estrutura promessa-condicional do versículo. **João 3:18** então escala: "quem não crê já está julgado, porque não creu no nome do *monogenēs* filho de Deus." A mesma palavra torna-se o critério de julgamento.
 
@@ -120,6 +120,6 @@ Os três capítulos iniciais de João desenvolvem um padrão água-espírito-ren
 
 **João 3:5 — água E espírito como a fórmula de renascimento**. "A menos que alguém nasça de *água e espírito*, não pode entrar no reino de Deus." O capítulo resolve o que os dois capítulos anteriores mantinham em tensão: água e espírito não são opostos (como no contraste de João 1) e não estão transformados (como no sinal de João 2) — eles estão pareados na fórmula de renascimento. O sentido duplo *anōthen* (veja G-J1) torna este renascimento "do alto" assim como "de novo."
 
-O arco água-como-rito → água-como-meio → água-e-espírito-como-renascimento é estruturalmente significativo porque cada capítulo poderia ser lido sozinho mas o movimento transcapitular é onde a tipologia se resolve. A lista ilustrativa §4.4 do plano da Fase 9 originalmente listou este motivo; foi restaurado na revisão-de-usuário do passo 9.2.
+O arco água-como-rito → água-como-meio → água-e-espírito-como-renascimento é estruturalmente significativo porque cada capítulo poderia ser lido sozinho mas o movimento transcapitular é onde a tipologia se resolve.
 
 **Fonte:** Schnackenburg, R., *The Gospel According to St John, Volume One*, trad. Smith et al., Crossroad, 1980, esp. sobre o simbolismo da água em João.

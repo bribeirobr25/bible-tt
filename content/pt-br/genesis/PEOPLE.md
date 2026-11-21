@@ -47,7 +47,7 @@ Este arquivo apresenta informações biográficas e genealógicas sobre figuras 
 **Ano desde a criação:** 0 (por definição, AM 1 no cômputo do TM)
 **Ano desde a criação — fim:** 930
 
-**Nota:** O texto usa *ha-adam* (o humano, com artigo) ao longo de Gn 2–4. A transição para o nome próprio "Adam" (sem artigo) ocorre em Gn 4:25 e é consolidada em 5:1. Ver entrada 081 do registro editorial.
+**Nota:** O texto usa *ha-adam* (o humano, com artigo) ao longo de Gn 2–4. A transição para o nome próprio "Adam" (sem artigo) ocorre em Gn 4:25 e é consolidada em 5:1.
 
 ---
 
@@ -911,4 +911,4 @@ Todas as datas AM, conforme aritmética do Texto Massorético.
 - **Comentários:** Westermann, C., *Genesis 1–11* (Augsburg, 1984); Hamilton, V., *The Book of Genesis* (NICOT, 1990); Wenham, G., *Genesis 1–15* (WBC, 1987).
 - **Cronologia:** Hasel, G., "The Meaning of the Chronogenealogies of Genesis 5 and 11," *Origins* 7 (1980): 53–70.
 
-> **Proveniência editorial:** Redigido por Claude Opus 4.6 (contexto 1M) em 2026-04-27. Ainda não revisado. Este arquivo é um recurso acadêmico provisório governado pela Regra 29 da TT.
+> **Proveniência editorial:** Rascunho assistido por IA, ainda não revisado. Este arquivo é um recurso acadêmico provisório governado pela Regra 29 da TT.

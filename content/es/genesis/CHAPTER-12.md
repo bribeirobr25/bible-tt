@@ -261,7 +261,7 @@ Di, por favor, *que* tú *eres* mi hermana, para que me vaya bien por causa tuya
 
 > **NOTAS**
 >
-> ⚠️ **NOTA DE RECEPCIÓN** — Este pasaje tiene una historia de recepción documentada. Vea el compañero Sección F para contexto sobre el episodio esposa-hermana.
+> 🟡 **NOTA DE RECEPCIÓN** — Este pasaje tiene una historia de recepción documentada. Vea el compañero Sección F para contexto sobre el episodio esposa-hermana.
 >
 > 🔴 **EL PEDIDO ESPOSA-HERMANA**
 > - **אִמְרִי־נָא אֲחֹתִי אָתְּ** = "Di, por favor, mi hermana tú *eres*." Abrán pide a Sarai que tergiverse su relación. El *na* (por favor) es una partícula cortés — él pide, no ordena. El motivo declarado es la autopreservación: "para que me vaya bien... y mi vida viva gracias a ti." Este patrón se repite: Gn 20:2 (Abraham y Avimelekh), Gn 26:7 (Isaac y Rivqah). El texto reporta sin comentario moral.

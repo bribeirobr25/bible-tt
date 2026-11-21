@@ -19,19 +19,17 @@
 
 Für die verwandte-aber-unterscheidbare Behauptung über die Breite der zitierten AT-Bücher siehe M-M5 (AT-Quellenbreite).
 
-Matthäus bettet prophetische Zitate in einen formelhaften Rahmen ein, der selbst das Mittel ist. Der Redaktionsprotokoll-Eintrag M-001 (Erfüllungsformel-Politik) kodifiziert sechs Formel-Typen; innerhalb von Matthäus 1–3 werden vier exemplifiziert, was insgesamt sechs Zitatereignisse ergibt.
+Matthäus bettet prophetische Zitate in einen formelhaften Rahmen ein, der selbst das Mittel ist. Die Erfüllungsformel-Politik der TT kodifiziert sechs Formel-Typen; innerhalb von Matthäus 1–3 werden vier exemplifiziert, was insgesamt sechs Zitatereignisse ergibt.
 
 **Typ 1 — Direkt (*hina plērōthē*, „damit erfüllt werde").** Matthäus 1,22 führt das Jesaja-7,14-Zitat ein: „dies alles aber ist geschehen, damit erfüllt werde, was vom Herrn durch den Propheten gesprochen wurde." Dies ist die kanonische Zweck-Klausel-Formel.
 
-**Typ 2 — Modifiziert.** Matthäus 2,6 zitiert Micha 5,1, modifiziert es aber („du bist keineswegs die geringste") und verbindet es mit 2 Samuel 5,2 („du wirst mein Volk Israel weiden"). Das Komposit wird wie ein einzelnes Zitat präsentiert. Die TT bewahrt die Modifikation mit einer Tier-2-Note, die beide Quellverse markiert.
+**Typ 2 — Modifiziert.** Matthäus 2,6 zitiert Micha 5,1, modifiziert es aber („du bist keineswegs die geringste") und verbindet es mit 2 Samuel 5,2 („du wirst mein Volk Israel weiden"). Das Komposit wird wie ein einzelnes Zitat präsentiert. Die TT bewahrt die Modifikation mit einer Anmerkung, die beide Quellverse markiert.
 
 **Typ 3 — Temporal-resultativ (*tote eplērōthē*, „damals erfüllt sich").** Matthäus 2,17 führt das Jeremia-31,15-Zitat mit einer anderen Formel ein: „damals erfüllt sich, was vom Propheten Jeremia gesprochen wurde, indem er sagt..." Das temporale „damals" ersetzt das finale „damit" und verändert die hermeneutische Tönung — das Ereignis wird der Prophezeiung retrospektiv zugeordnet, anstatt von ihr verursacht zu werden.
 
 **Typ 4 — Unidentifiziert.** Matthäus 2,23 verwendet „damit erfüllt werde, was durch die Propheten gesprochen wurde, dass er ein *Natsri* genannt werden sollte." Kein einzelner AT-Prophet sagt dies; die Quelle wurde verschiedentlich identifiziert (Jes 11,1 *netser*, „Spross"; Ri 13,5/16,17 *nazir*, „Nasiräer"; eine nicht mehr existierende Quelle). Die TT bewahrt das Rätsel, anstatt es zu lösen — das unidentifizierte Zitat ist selbst die Daten.
 
 Matthäus 1,22, 2,5–6, 2,15, 2,17–18, 2,23 und 3,3 (Jes 40,3) etablieren zusammen die Kette. Über nur drei Kapitel hinweg verwendet das Evangelium Erfüllungsformel-Zitation als den hauptsächlichen Modus der AT-Einbindung. Das Motiv ist der hermeneutische Fingerabdruck des Evangeliums — Leser werden eingeladen, Yeshuas Biographie als die Kulmination des prophetischen Kanons zu lesen.
-
-**Quelle:** `docs/editorial-log/matthew.md` Eintrag M-001 (Erfüllungsformel-Politik — 6 Formeltypen für das gesamte Evangelium kodifiziert).
 
 ---
 
@@ -63,15 +61,13 @@ Die kumulative Wirkung: ein *toledot* in der Gattung, ein Dreifach-vierzehn in d
 
 Die kreuzsprachlich sensibelsten Passagen des Evangeliums bewahren Doppellesungen zwischen der griechischen Oberfläche und der hebräischen Quelle. Die TT gibt diese als Schrägstrich-Paare oder Transliterations-Paare wieder, um beide Schichten sichtbar zu halten. Drei Fälle im Geltungsbereich:
 
-**Matthäus 1,23 — *parthenos* / *almah***. Das Jesaja-7,14-Zitat erscheint im Griechischen als *parthenos* („Jungfrau"), was die LXX-Wiedergabe des Hebräischen *almah* („junge Frau im heiratsfähigen Alter") ist. Das Griechische verengt das Hebräische. Der Redaktionsprotokoll-Eintrag M-002 kodifiziert Option B (Schrägstrich-Wiedergabe: „Jungfrau/junge Frau"), um beide Schichten am Lesepunkt zu bewahren, anstatt eine in eine Note zu verlagern. Die Entscheidung war rezeptionssensibel: der Vers ist der meistdebattierte hebräisch-griechische Übersetzungspunkt im Neuen Testament; die hebräische Schicht hinter einer Note zu verbergen „birgt die Gefahr, den Anschein zu erwecken, Partei zu ergreifen" (M-002).
+**Matthäus 1,23 — *parthenos* / *almah***. Das Jesaja-7,14-Zitat erscheint im Griechischen als *parthenos* („Jungfrau"), was die LXX-Wiedergabe des Hebräischen *almah* („junge Frau im heiratsfähigen Alter") ist. Das Griechische verengt das Hebräische. Die TT wählt Option B (Schrägstrich-Wiedergabe: „Jungfrau/junge Frau"), um beide Schichten am Lesepunkt zu bewahren, anstatt eine in eine Note zu verlagern. Die Entscheidung war rezeptionssensibel: der Vers ist der meistdebattierte hebräisch-griechische Übersetzungspunkt im Neuen Testament; die hebräische Schicht hinter einer Note zu verbergen „birgt die Gefahr, den Anschein zu erwecken, Partei zu ergreifen".
 
 **Matthäus 1,23 — Immanu'el**. Derselbe Vers enthält eine Name-und-Glosse-Doppelung: griechisch „*Emmanouēl*" + Übersetzung „das heißt übersetzt, *Gott mit uns*." Matthäus transliteriert den hebräischen Namen UND glossiert ihn innerhalb desselben Verses. Die Doppelpräsentation ist strukturell; die TT bewahrt sowohl die Transliteration (*Immanu'el*) als auch die Glosse in allen vier Lokalisierungen.
 
-**Matthäus 3,3 — kyrios / JHWH**. Das Jesaja-40,3-Zitat sagt „bereitet den Weg des *kyrios*" im Griechischen. Die hebräische Quelle hat *YHWH*. Die GS-Ioudaioi-Politik Option C der TT regelt *kyrios* in AT-Zitatkontexten: wiedergebe als „der Herr" + Tier-2-Note, die das zugrundeliegende JHWH markiert. Die Doppel-Schicht wird durch Note bewahrt, nicht durch Schrägstrich.
+**Matthäus 3,3 — kyrios / JHWH**. Das Jesaja-40,3-Zitat sagt „bereitet den Weg des *kyrios*" im Griechischen. Die hebräische Quelle hat *YHWH*. Die GS-Ioudaioi-Politik Option C der TT regelt *kyrios* in AT-Zitatkontexten: wiedergebe als „der Herr" + eine Anmerkung, die das zugrundeliegende JHWH markiert. Die Doppel-Schicht wird durch Note bewahrt, nicht durch Schrägstrich.
 
 Das Muster ist redaktionelle Disziplin. Matthäus' Griechisch ist im Dialog mit dem Hebräischen, das es zitiert; die TT weigert sich, den Dialog auf eine einzelne Schicht zu reduzieren. Das Motiv konsolidiert die Fälle, in denen die TT aktiv die griechisch-hebräische Doppellesung in den Vordergrund stellt, anstatt sie zu glätten.
-
-**Quelle:** `docs/editorial-log/matthew.md` Eintrag M-002 (parthenos/almah-Schrägstrich-Politik).
 
 ---
 
@@ -80,7 +76,7 @@ Das Muster ist redaktionelle Disziplin. Matthäus' Griechisch ist im Dialog mit 
 **[TEXTUELL — VERIFIZIERT]**
 **Kapitel:** 1, 2
 
-Matthäus 1–2 enthält vier göttliche Traumoffenbarungen, alle durch dieselbe griechische Phrase *angelos kyriou* („Bote des Herrn") gerahmt. Das Muster ist im Redaktionsprotokoll als Eintrag M-004 (Angelos Kyriou — Formelhafte Erzählung) protokolliert — klassifiziert als eine formelhafte erzählerische Phrase, die das LXX/HB *mal'akh YHWH* widerspiegelt, NICHT als ein direktes AT-Zitat. Die Klassifizierung ist wichtig: M-004 vermerkt ausdrücklich, dass *angelos kyriou* die Option-C-JHWH-Note-Anforderung NICHT auslöst (die nur für direkte AT-Zitate gilt).
+Matthäus 1–2 enthält vier göttliche Traumoffenbarungen, alle durch dieselbe griechische Phrase *angelos kyriou* („Bote des Herrn") gerahmt. Das Muster ist klassifiziert als eine formelhafte erzählerische Phrase, die das LXX/HB *mal'akh YHWH* widerspiegelt, NICHT als ein direktes AT-Zitat. Die Klassifizierung ist wichtig: *angelos kyriou* löst die Option-C-JHWH-Note-Anforderung NICHT aus (die nur für direkte AT-Zitate gilt).
 
 **Matthäus 1,20–24 — der erste Traum**. Nachdem Yosef beschloss, Maria heimlich zu entlassen, „erschien ihm ein *angelos kyriou* im Traum und sagte: ‚Yosef, Sohn Davids, fürchte dich nicht, Maria als deine Frau zu dir zu nehmen...'" Der Traum enthält eine Anweisung, eine Erklärung (das Kind ist vom heiligen *pneuma*) und einen Namens-Befehl („und du sollst seinen Namen Yeshua nennen"). Yosef wacht auf und gehorcht.
 
@@ -91,8 +87,6 @@ Matthäus 1–2 enthält vier göttliche Traumoffenbarungen, alle durch dieselbe
 **Matthäus 2,22 — die vierte Offenbarung**. Yosef „wurde im Traum angewiesen", sich in den Galiläa zurückzuziehen — dieselbe strukturelle Position, aber die formelhafte Phrase *angelos kyriou* ist hier implizit, nicht benannt (die Erzählung verdichtet).
 
 Die erzählerische Funktion des Musters: Yosef ist der stille Agent göttlicher Lenkung. Die vier Träume strukturieren seinen Bogen vom „Ehemann der Maria" zum „rechtlichen Vater Yeshuas", ohne dass er in irgendeinem der Kapitel ein einziges Wort spricht. Das Motiv ist eine Traumoffenbarungs-Formel, die durch beide Kapitel getragen wird und die Geburtserzählung des Evangeliums auf die Tradition der Hebräischen Bibel offenbarender Träume (Avraham, Yosef der Patriarch, Daniel) abbildet.
-
-**Quelle:** `docs/editorial-log/matthew.md` Eintrag M-004 (*angelos kyriou* Formelhafte-Erzählungs-Klassifikation).
 
 ---
 
@@ -113,7 +107,7 @@ Sechs AT-Zitate in Matthäus 1–3 erstrecken sich über den vollen prophetische
 
 **Matthäus 2,18 — Jeremia 31,15**. Großprophet, Klage-historisch. „Eine Stimme wurde in Rama gehört... Rachel weint um ihre Kinder, sie weigert sich, sich trösten zu lassen, weil sie nicht mehr sind." Jeremias Vers beklagte ursprünglich das Exil der Nordstämme; Matthäus wendet ihn auf Herodes' Kindermord an. Das schmerzlichste Zitat des Evangeliums.
 
-**Matthäus 2,23 — Unaufgelöste Natsri-Quelle**. „Er soll *Natsri* genannt werden" — kein einzelner AT-Prophet sagt dies. Das unaufgelöste Zitat ist selbst die Daten (M-001 klassifiziert es als Typ 5 der sechs Formeltypen). Die TT bewahrt den unaufgelösten Status, anstatt zwischen Jes 11,1, Ri 13,5/16,17 oder einer unbekannten Quelle zu wählen.
+**Matthäus 2,23 — Unaufgelöste Natsri-Quelle**. „Er soll *Natsri* genannt werden" — kein einzelner AT-Prophet sagt dies. Das unaufgelöste Zitat ist selbst die Daten (Typ 5 der sechs Formeltypen). Die TT bewahrt den unaufgelösten Status, anstatt zwischen Jes 11,1, Ri 13,5/16,17 oder einer unbekannten Quelle zu wählen.
 
 **Matthäus 3,3 — Jesaja 40,3**. Großprophet (wieder), Wüstenstimme-Prolog. Das Zitat führt Yochanan ein und schließt den Zyklus, indem es DENSELBEN Propheten zitiert, der ihn eröffnet hat (Jesaja).
 

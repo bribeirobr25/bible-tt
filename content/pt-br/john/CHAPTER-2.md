@@ -37,13 +37,13 @@
 
 As notas são marcadas por tipo — **Crítico · Lexical · Gramatical · Teológico** — cada uma com sua cor (veja a legenda no topo da visão de Notas).
 
-**Este capítulo contém duas cenas principais e uma nota de transição.** As bodas em Qanah (vv.1–12) introduzem o primeiro "sinal" (*sēmeion*) — um termo que João usa deliberadamente em vez de "milagre" (*dynamis*) ou "prodígio" (*teras*). A purificação do templo (vv.13–22) introduz a distinção entre ναός (*naos*, o santuário interno) e ἱερόν (*hieron*, o complexo do templo). O capítulo encerra com um comentário do narrador sobre o conhecimento que Yeshua tem da natureza humana (vv.23–25). Os nomes próprios seguem a transliteração TT: Qanah (não Caná), Yeshua (não Jesus), Kfar Nachum (não Cafarnaum), Yerushalayim (não Jerusalém).
+**Este capítulo contém duas cenas principais e uma nota de transição.** As bodas em Qanah (vv.1–12) introduzem o primeiro "sinal" (*sēmeion*) — um termo que João usa deliberadamente em vez de "milagre" (*dynamis*) ou "prodígio" (*teras*). A purificação do templo (vv.13–22) introduz a distinção entre ναός (*naos*, o santuário interno) e ἱερόν (*hieron*, o complexo do templo). O capítulo encerra com um comentário do narrador sobre o conhecimento que Yeshua tem da natureza humana (vv.23–25). Os nomes aparecem na forma familiar, com a forma da língua original indicada uma vez por seção — p. ex., Yochanan (João).
 
 ---
 
 ## VISÃO GERAL DO CAPÍTULO
 
-**O que acontece:** No terceiro dia, Jesus participa de uma festa de casamento em Qanah da Galileia. Quando o vinho acaba, sua mãe lhe diz; ele responde com uma expressão de distanciamento ("Que *há* entre mim e ti, mulher?") e declara que sua hora ainda não chegou. Sua mãe diz aos servos que façam o que ele disser. Seis jarros de pedra usados para os ritos de purificação dos yehudim são enchidos com água; quando os servos retiram e levam ao mestre de cerimônias, *a água* se tornou vinho. O mestre de cerimônias, sem saber a origem, observa que o bom vinho foi guardado até agora. O narrador identifica isto como o princípio dos sinais e diz que seus seguidores confiaram nele. Após uma breve estada em Cafarnaum, Jesus sobe a Jerusalém para a Páscoa. Ele encontra os que vendem gado, ovelhas e pombas no complexo do templo, e os cambistas sentados ali. Fazendo um chicote de cordas, ele expulsa a todos e vira as mesas. Quando os yehudim exigem um sinal de sua autoridade, ele responde: "Destruam este santuário, e em três dias eu o levantarei." Eles objetam que o santuário levou quarenta e seis anos para ser construído. O narrador explica retrospectivamente que ele estava falando sobre o santuário do seu corpo. O capítulo encerra com muitos em Jerusalém confiando em seu nome por causa dos sinais, mas Jesus não se confiando a eles — porque ele sabia o que havia no ser humano.
+**O que acontece:** No terceiro dia, Jesus participa de uma festa de casamento em Qanah da Galileia. Quando o vinho acaba, sua mãe lhe diz; ele responde com uma expressão de distanciamento ("Que *há* entre mim e ti, mulher?") e declara que sua hora ainda não chegou. Sua mãe diz aos servos que façam o que ele disser. Seis jarros de pedra usados para os ritos de purificação dos Yehudim são enchidos com água; quando os servos retiram e levam ao mestre de cerimônias, *a água* se tornou vinho. O mestre de cerimônias, sem saber a origem, observa que o bom vinho foi guardado até agora. O narrador identifica isto como o princípio dos sinais e diz que seus seguidores confiaram nele. Após uma breve estada em Cafarnaum, Jesus sobe a Jerusalém para a Páscoa. Ele encontra os que vendem gado, ovelhas e pombas no complexo do templo, e os cambistas sentados ali. Fazendo um chicote de cordas, ele expulsa a todos e vira as mesas. Quando os Yehudim exigem um sinal de sua autoridade, ele responde: "Destruam este santuário, e em três dias eu o levantarei." Eles objetam que o santuário levou quarenta e seis anos para ser construído. O narrador explica retrospectivamente que ele estava falando sobre o santuário do seu corpo. O capítulo encerra com muitos em Jerusalém confiando em seu nome por causa dos sinais, mas Jesus não se confiando a eles — porque ele sabia o que havia no ser humano.
 
 **Temas-chave:** Sinal como ato revelador, não mera demonstração de poder; a "hora" que ainda não chegou — um motivo que percorre o Evangelho até 12:23 e 13:1; a mãe de Jesus (sem nome no Evangelho de João); o templo como espaço contestado; o corpo como santuário; o conhecimento que Jesus tem da natureza humana; confiança superficial versus confiança genuína.
 
@@ -61,13 +61,13 @@ As notas são marcadas por tipo — **Crítico · Lexical · Gramatical · Teol�
 
 ¹E no terceiro dia houve uma festa de casamento em Qanah da Galil (Galileia), e a mãe de Yeshua (Jesus) estava ali. ²E Jesus também foi convidado, e seus seguidores, para a festa de casamento. ³E *quando* o vinho faltou, a mãe de Jesus diz-lhe: "Eles não têm vinho." ⁴E Jesus diz-lhe: @@"Que *há* entre mim e ti, mulher? A minha hora ainda não chegou."@@ ⁵Sua mãe diz aos servos: "Tudo o que ele lhes disser, façam."
 
-⁶Ora, havia ali seis jarros de pedra para água, postos conforme a purificação dos yehudim, cada um comportando duas ou três medidas. ⁷Jesus diz-lhes: @@"Encham os jarros com água."@@ E eles os encheram até em cima. ⁸E ele lhes diz: @@"Retirem agora e levem ao mestre de cerimônias."@@ E *o* levaram. ⁹E quando o mestre de cerimônias provou a água que se tornara vinho — e não sabia de onde era, mas os servos que haviam retirado a água sabiam — o mestre de cerimônias chama o noivo ¹⁰e diz-lhe: "Todo homem põe primeiro o bom vinho, e quando *já* estão embriagados, o inferior. Você guardou o bom vinho até agora."
+⁶Ora, havia ali seis jarros de pedra para água, postos conforme a purificação dos Yehudim, cada um comportando duas ou três medidas. ⁷Jesus diz-lhes: @@"Encham os jarros com água."@@ E eles os encheram até em cima. ⁸E ele lhes diz: @@"Retirem agora e levem ao mestre de cerimônias."@@ E *o* levaram. ⁹E quando o mestre de cerimônias provou a água que se tornara vinho — e não sabia de onde era, mas os servos que haviam retirado a água sabiam — o mestre de cerimônias chama o noivo ¹⁰e diz-lhe: "Todo homem põe primeiro o bom vinho, e quando *já* estão embriagados, o inferior. Você guardou o bom vinho até agora."
 
 ¹¹Este princípio dos sinais Jesus fez em Qanah da Galileia e revelou a sua glória, e seus seguidores confiaram nele. ¹²Depois disso ele desceu a Kfar Nachum (Cafarnaum) — ele e sua mãe e seus irmãos e seus seguidores — e ali permaneceram não muitos dias.
 
-¹³E a Páscoa dos yehudim estava próxima, e Jesus subiu a Yerushalayim (Jerusalém). ¹⁴E encontrou no *complexo do* templo os que vendiam gado e ovelhas e pombas, e os cambistas sentados. ¹⁵E tendo feito um chicote de cordas, expulsou a todos do *complexo do* templo, tanto as ovelhas quanto o gado, e derramou as moedas dos cambistas e virou as mesas. ¹⁶E aos que vendiam as pombas disse: @@"Tirem estas *coisas* daqui; não façam da casa de meu Pai uma casa de comércio."@@ ¹⁷Seus seguidores lembraram que está escrito: "O zelo de sua casa me consumirá."
+¹³E a Páscoa dos Yehudim estava próxima, e Jesus subiu a Yerushalayim (Jerusalém). ¹⁴E encontrou no *complexo do* templo os que vendiam gado e ovelhas e pombas, e os cambistas sentados. ¹⁵E tendo feito um chicote de cordas, expulsou a todos do *complexo do* templo, tanto as ovelhas quanto o gado, e derramou as moedas dos cambistas e virou as mesas. ¹⁶E aos que vendiam as pombas disse: @@"Tirem estas *coisas* daqui; não façam da casa de meu Pai uma casa de comércio."@@ ¹⁷Seus seguidores lembraram que está escrito: "O zelo de sua casa me consumirá."
 
-¹⁸Então os yehudim responderam e lhe disseram: "Que sinal nos mostras, *visto* que fazes estas coisas?" ¹⁹Jesus respondeu e lhes disse: @@"Destruam este santuário, e em três dias eu o levantarei."@@ ²⁰Então os yehudim disseram: "Este santuário foi construído *em* quarenta e seis anos, e você o levantará em três dias?" ²¹Mas ele falava a respeito do santuário do seu corpo. ²²Quando portanto ele foi levantado dos mortos, seus seguidores lembraram que ele disse isto, e confiaram na escritura e na palavra que Jesus havia falado.
+¹⁸Então os Yehudim responderam e lhe disseram: "Que sinal nos mostras, *visto* que fazes estas coisas?" ¹⁹Jesus respondeu e lhes disse: @@"Destruam este santuário, e em três dias eu o levantarei."@@ ²⁰Então os Yehudim disseram: "Este santuário foi construído *em* quarenta e seis anos, e você o levantará em três dias?" ²¹Mas ele falava a respeito do santuário do seu corpo. ²²Quando portanto ele foi levantado dos mortos, seus seguidores lembraram que ele disse isto, e confiaram na escritura e na palavra que Jesus havia falado.
 
 ²³E quando ele estava em Jerusalém na Páscoa, na festa, muitos confiaram em seu nome, vendo os sinais que ele fazia. ²⁴Mas o próprio Jesus não se confiava a eles, porque ele conhecia a todos, ²⁵e porque ele não tinha necessidade de que alguém testemunhasse a respeito do ser humano — pois ele mesmo sabia o que havia no ser humano.
 
@@ -150,12 +150,12 @@ Sua mãe diz aos servos: "Tudo o que ele lhes disser, façam."
 
 ### **Versículo 6**
 
-Ora, havia ali seis jarros de pedra para água, postos conforme a purificação dos yehudim, cada um comportando duas ou três medidas.
+Ora, havia ali seis jarros de pedra para água, postos conforme a purificação dos Yehudim, cada um comportando duas ou três medidas.
 
 > **NOTAS**
 >
 > 🟢 **"PURIFICAÇÃO" — καθαρισμός (*katharismos*)**
-> - **κατὰ τὸν καθαρισμὸν τῶν Ἰουδαίων** = "conforme a purificação dos yehudim." Os jarros de pedra eram para lavagem ritual das mãos antes das refeições e outros ritos de purificação prescritos pela tradição judaica (cf. Mc 7:3–4). Vasos de pedra eram preferidos porque, segundo a regra halakhica, a pedra não contrai impureza ritual (*tum'ah*) — ao contrário do barro, que deve ser quebrado se contaminado.
+> - **κατὰ τὸν καθαρισμὸν τῶν Ἰουδαίων** = "conforme a purificação dos Yehudim." Os jarros de pedra eram para lavagem ritual das mãos antes das refeições e outros ritos de purificação prescritos pela tradição judaica (cf. Mc 7:3–4). Vasos de pedra eram preferidos porque, segundo a regra halakhica, a pedra não contrai impureza ritual (*tum'ah*) — ao contrário do barro, que deve ser quebrado se contaminado.
 >
 > 🔵 **"DUAS OU TRÊS MEDIDAS" — μετρητάς**
 > - **μετρητής** (*metrētēs*) = uma medida líquida de aproximadamente 39 litros (cerca de 10 galões). Duas a três *metrētai* por jarro = 78–117 litros (20–30 galões) cada. Seis jarros nessa capacidade = aproximadamente 470–700 litros (120–180 galões) no total. A quantidade é enorme — excedendo em muito as necessidades de qualquer casamento. A escala é parte do sinal.
@@ -254,7 +254,7 @@ Depois disso ele desceu a Kfar Nachum (Cafarnaum) — ele e sua mãe e seus irm�
 
 ### **Versículo 13**
 
-E a Páscoa dos yehudim estava próxima, e Yeshua (Jesus) subiu a Yerushalayim (Jerusalém).
+E a Páscoa dos Yehudim estava próxima, e Yeshua (Jesus) subiu a Yerushalayim (Jerusalém).
 
 > **NOTAS**
 >
@@ -327,15 +327,15 @@ Seus seguidores lembraram que está escrito: "O zelo de sua casa me consumirá."
 
 ### **Versículo 18**
 
-Então os yehudim responderam e lhe disseram: "Que sinal nos mostras, *visto* que fazes estas coisas?"
+Então os Yehudim responderam e lhe disseram: "Que sinal nos mostras, *visto* que fazes estas coisas?"
 
 > **NOTAS**
 >
 > 🟡 **EXIGÊNCIA DE UM SINAL — QUESTÃO DE AUTORIDADE**
-> - Os yehudim exigem um **σημεῖον** (*sēmeion*) — um sinal autenticando a autoridade de Jesus para perturbar as operações do templo. A exigência pressupõe que ações proféticas ou messiânicas requerem credenciais validadoras. A ironia: Jesus acabou de realizar o primeiro sinal (v.11), mas este público não estava presente em Qanah. Eles exigem o que já foi dado em outro lugar.
+> - Os Yehudim exigem um **σημεῖον** (*sēmeion*) — um sinal autenticando a autoridade de Jesus para perturbar as operações do templo. A exigência pressupõe que ações proféticas ou messiânicas requerem credenciais validadoras. A ironia: Jesus acabou de realizar o primeiro sinal (v.11), mas este público não estava presente em Qanah. Eles exigem o que já foi dado em outro lugar.
 >
 > 🟢 **"OS YEHUDIM" — οἱ Ἰουδαῖοι**
-> - Neste contexto, "os yehudim" (*hoi Ioudaioi*) = as autoridades baseadas em Jerusalém que controlam as operações do templo — institucional, não étnico. Mesmo alcance semântico observado em João 1:19.
+> - Neste contexto, "os Yehudim" (*hoi Ioudaioi*) = as autoridades baseadas em Jerusalém que controlam as operações do templo — institucional, não étnico. Mesmo alcance semântico observado em João 1:19.
 
 ---
 
@@ -352,13 +352,13 @@ Yeshua (Jesus) respondeu e lhes disse: @@"Destruam este santuário, e em três d
 > - **λύσατε** (*lysate*) = imperativo aoristo de λύω (*lyō*) = soltar, desfazer, destruir. A forma imperativa pode ser condicional ("se destruirdes...") ou permissiva ("vamos, destruí...") ou mesmo profética ("destruireis..."). O texto deixa a força ambígua. Os relatos sinóticos do julgamento (Mt 26:61, Mc 14:58) ecoarão este dito como acusação.
 >
 > 🔵 **"EU O LEVANTAREI" — ἐγερῶ αὐτόν**
-> - **ἐγερῶ** (*egerō*) = futuro ativo de ἐγείρω (*egeirō*) = levantar, despertar. O verbo abrange tanto reconstrução (levantar um edifício) quanto ressurreição (levantar dos mortos). O duplo sentido é o eixo de toda a troca — os yehudim ouvem "reconstruir"; o narrador pretende "ressuscitar." Este jogo de palavras só é acessível retrospectivamente (v.22).
+> - **ἐγερῶ** (*egerō*) = futuro ativo de ἐγείρω (*egeirō*) = levantar, despertar. O verbo abrange tanto reconstrução (levantar um edifício) quanto ressurreição (levantar dos mortos). O duplo sentido é o eixo de toda a troca — os Yehudim ouvem "reconstruir"; o narrador pretende "ressuscitar." Este jogo de palavras só é acessível retrospectivamente (v.22).
 
 ---
 
 ### **Versículo 20**
 
-Então os yehudim disseram: "Este santuário foi construído *em* quarenta e seis anos, e você o levantará em três dias?"
+Então os Yehudim disseram: "Este santuário foi construído *em* quarenta e seis anos, e você o levantará em três dias?"
 
 > **NOTAS**
 >
@@ -374,7 +374,7 @@ Mas ele falava a respeito do santuário do seu corpo.
 > **NOTAS**
 >
 > 🔴 **CRÍTICO — EXPLICAÇÃO RETROSPECTIVA DO NARRADOR**
-> - **ἐκεῖνος δὲ ἔλεγεν περὶ τοῦ ναοῦ τοῦ σώματος αὐτοῦ** = "mas aquele falava a respeito do *naos* do seu corpo." Este é o comentário interpretativo do narrador, inserido para guiar o leitor. O imperfeito **ἔλεγεν** (*elegen*) = "ele falava" — o narrador explica o que Jesus estava dizendo o tempo todo. A identificação corpo = *naos* (santuário, lugar de habitação de Deus) é explícita. Esta chave hermenêutica é dada pelo narrador, não por Jesus — dentro da história, os yehudim não recebem esta explicação.
+> - **ἐκεῖνος δὲ ἔλεγεν περὶ τοῦ ναοῦ τοῦ σώματος αὐτοῦ** = "mas aquele falava a respeito do *naos* do seu corpo." Este é o comentário interpretativo do narrador, inserido para guiar o leitor. O imperfeito **ἔλεγεν** (*elegen*) = "ele falava" — o narrador explica o que Jesus estava dizendo o tempo todo. A identificação corpo = *naos* (santuário, lugar de habitação de Deus) é explícita. Esta chave hermenêutica é dada pelo narrador, não por Jesus — dentro da história, os Yehudim não recebem esta explicação.
 >
 > 🟡 **CORPO COMO SANTUÁRIO — REIVINDICAÇÃO TEOLÓGICA**
 > - A afirmação de que o corpo de Jesus é o *naos* (o lugar de habitação da presença divina) conecta-se a 1:14 ("a palavra se fez carne e habitou/tabernaculou entre nós"). Se o *logos* habita na carne, então a carne é o novo santuário. A destruição e o levantamento deste santuário = morte e ressurreição. A afirmação substitui o templo de pedra por um templo corporal — uma mudança com implicações profundas para todo o sistema sacrificial-templar.

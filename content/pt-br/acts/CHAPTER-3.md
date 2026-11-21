@@ -22,7 +22,7 @@
 - [Leitura Contínua](#leitura-contínua)
 - [Estudo Verso a Verso](#estudo-verso-a-verso)
 - [Glossário — Atos 3](#glossário---atos-3)
-- [Rastreamento entre Capítulos (BH -> Atos)](#rastreamento-entre-capítulos-bh---atos)
+- [Rastreamento entre Capítulos (BH → Atos)](#rastreamento-entre-capítulos-bh---atos)
 
 ---
 
@@ -37,7 +37,7 @@
 
 As notas são marcadas por tipo — **Crítico · Lexical · Gramatical · Teológico** — cada uma com sua cor (veja a legenda no topo da visão de Notas).
 
-**Este capítulo combina uma cura com o segundo sermão apostólico.** Na Porta Formosa do templo, Kefa e Yochanan curam um homem coxo de nascença "no nome de Yeshua o Nazareno" (vv.1-10). A multidão atônita se reúne no pórtico de Salomão, e Kefa prega: não foi o seu próprio poder, mas o Deus dos pais quem glorificou o seu servo Yeshua — a quem eles negaram e mataram, mas que Deus ressuscitou — e a fé no seu nome tornou o homem inteiro (vv.11-16). Ele os chama a mudar de mentalidade, aponta para os profetas (Moisés e Samuel), e reafirma a aliança abraâmica (vv.17-26). **Nota sobre marcação de fala (Regra 30):** o sermão de Kefa é fala humana e não é marcado; a palavra aliancista do SENHOR a Avraham (v.25, Gn 22:18) é fala divina e **é** marcada @@…@@. A citação de Moisés (vv.22-23) é a fala relatada *de Moisés* *a respeito* do SENHOR, portanto não é marcada. **Observe as cruxes-termo:** *archēgos* ("Autor/Pioneiro/Originador da vida," v.15) e *pais* ("servo/filho," vv.13, 26) carregam o tom do Servo isaiânico — ambos são sinalizados.
+**Este capítulo combina uma cura com o segundo sermão apostólico.** Na Porta Formosa do templo, Kefa e Yochanan curam um homem coxo de nascença "no nome de Yeshua o Nazareno" (vv.1-10). A multidão atônita se reúne no pórtico de Salomão, e Kefa prega: não foi o seu próprio poder, mas o Deus dos pais quem glorificou o seu servo Yeshua — a quem eles negaram e mataram, mas que Deus ressuscitou — e a fé no seu nome tornou o homem inteiro (vv.11-16). Ele os chama a mudar de mentalidade, aponta para os profetas (Moisés e Samuel), e reafirma a aliança abraâmica (vv.17-26). **Nota sobre marcação de fala (Regra 30):** o sermão de Kefa é fala humana e não é marcado; a palavra aliancista do SENHOR a Avraham (v.25, Gn 22:18) é fala divina, mas Kefa a está citando, por isso também **não** é marcada. A citação de Moisés (vv.22-23) é a fala relatada *de Moisés* *a respeito* do SENHOR, portanto não é marcada. **Observe as cruxes-termo:** *archēgos* ("Autor/Pioneiro/Originador da vida," v.15) e *pais* ("servo/filho," vv.13, 26) carregam o tom do Servo isaiânico — ambos são sinalizados.
 
 ---
 
@@ -47,7 +47,7 @@ As notas são marcadas por tipo — **Crítico · Lexical · Gramatical · Teol�
 
 **Temas-chave:** "O nome" de Jesus como o poder que cura e salva (vv.6, 16); os apóstolos como canais, não fontes, de poder (v.12); o Deus dos patriarcas glorificando o seu "servo" (*pais*) Jesus — o tom do Servo isaiânico; o padrão de contraste (vós negastes / Deus glorificou; vós matastes / Deus ressuscitou); o Autor/Pioneiro da vida morto mas ressuscitado; a fé no nome como o meio da plenitude; o Messias sofredor como o cumprimento de "todos os profetas"; o chamado à mudança de mentalidade e ao "voltar-se," com "tempos de refrigério" e a "restauração de todas as coisas"; o profeta-como-Moisés (Dt 18) identificado com Jesus; a aliança abraâmica e a bênção de "todas as famílias da terra" — Israel abordado primeiro, as nações em vista.
 
-**Observe:** *Archēgos* (v.15) significa "líder, fundador, pioneiro, originador, autor" — a TT traduz "Autor *da vida*" e sinaliza o leque. *Pais* (vv.13, 26) significa tanto "servo" quanto "filho" — aqui o "Servo do SENHOR" isaiânico (Is 52-53) está em vista; a TT traduz "servo" e nota o tom. *Apokatastasis* (v.21), "restauração de todas as coisas," é teologicamente debatido; a TT a mantém sem resolver o seu alcance. A citação de Moisés (vv.22-23, Dt 18:15-19) é a fala de Moisés *a respeito* do SENHOR e não é marcada como divina; a palavra abraâmica (v.25, Gn 22:18) é a fala aliancista direta do SENHOR e é marcada. *Kyrios* = YHWH nos vv.19 ("a face do Senhor") e 22 ("o Senhor Deus").
+**Observe:** *Archēgos* (v.15) significa "líder, fundador, pioneiro, originador, autor" — a TT traduz "Autor *da vida*" e sinaliza o leque. *Pais* (vv.13, 26) significa tanto "servo" quanto "filho" — aqui o "Servo do SENHOR" isaiânico (Is 52-53) está em vista; a TT traduz "servo" e nota o tom. *Apokatastasis* (v.21), "restauração de todas as coisas," é teologicamente debatido; a TT a mantém sem resolver o seu alcance. A citação de Moisés (vv.22-23, Dt 18:15-19) é a fala de Moisés *a respeito* do SENHOR e não é marcada como divina; a palavra abraâmica (v.25, Gn 22:18) é a fala aliancista direta do SENHOR, citada por Kefa, e igualmente não é marcada. *Kyrios* = YHWH nos vv.19 ("a face do Senhor") e 22 ("o Senhor Deus").
 
 **Conexão:** O sermão está saturado da Bíblia Hebraica. "O Deus de Abraão, Isaque e Jacó, o Deus de nossos pais" é a autoidentificação de YHWH na sarça (Êx 3:6, 15). "O seu servo" ecoa os Cânticos do Servo de Isaías (42; 49; 52:13-53:12). O profeta-como-Moisés é Deuteronômio 18:15-19. A bênção abraâmica de "todas as famílias da terra" é Gênesis 22:18 (cf. 12:3; 18:18; 26:4). Samuel como o cabeça da linha profética recorda 1 Samuel 3. A "restauração" (*apokatastasis*) se vale da esperança profética da renovação de Israel (p.ex. Ml 4:5-6; At 1:6).
 
@@ -63,7 +63,7 @@ As notas são marcadas por tipo — **Crítico · Lexical · Gramatical · Teol�
 
 ¹¹E enquanto ele se agarrava a Kefa (Pedro) e Yochanan (João), todo o povo correu junto a eles ao pórtico chamado *de Salomão* (de Shlomoh), totalmente atônito. ¹²E vendo *isto*, Kefa (Pedro) respondeu ao povo: "Homens, israelitas, por que vos maravilhais com isto, ou por que fitais a nós, como se por nosso próprio poder ou piedade tivéssemos feito *este* andar? ¹³O Deus de Avraham (Abraão) e *de* Yitschaq (Isaque) e *de* Ya'aqov (Jacó), o Deus de nossos pais, glorificou o seu servo Yeshua (Jesus), a quem vós entregastes e negastes diante *da* face de Pilatos, *quando* aquele tinha decidido soltá-*lo*. ¹⁴Mas vós negastes o santo e justo *um*, e pedistes *que* vos fosse concedido um homem, um homicida, ¹⁵mas o Autor da vida vós matastes, a quem Deus ressuscitou dentre *os* mortos — do que somos testemunhas. ¹⁶E sobre a fé no seu nome, este *que* vós vedes e conheceis — o seu nome o firmou; e a fé *que é* por meio dele lhe deu esta plenitude diante de todos vós.
 
-¹⁷"E agora, irmãos, sei que agistes segundo a ignorância, assim como também os vossos governantes; ¹⁸mas Deus, as *coisas* que ele predisse pela boca de todos os profetas — que o seu Messias sofreria — ele assim cumpriu. ¹⁹Mudai *de* mentalidade, portanto, e voltai-vos, para o apagamento dos vossos pecados, ²⁰para que venham tempos de refrigério da face do Senhor, e *para que* ele envie o *que* foi predeterminado para vós, *o* Messias, Yeshua (Jesus), ²¹a quem o céu deve receber até *os* tempos da restauração de todas *as coisas*, das quais Deus falou pela boca dos seus santos profetas desde a antiguidade. ²²Mosheh (Moisés) de fato disse que 'Um profeta para vós *o* Senhor Deus levantará dentre os vossos irmãos, como a mim; a ele ouvireis em todas *as coisas*, tudo o que ele vos falar. ²³E acontecerá *que* toda alma, quem quer que não ouça aquele profeta, será totalmente exterminada do povo.' ²⁴E de fato todos os profetas, desde Shmuel (Samuel) e os *que vieram* depois, quantos falaram, também anunciaram estes dias. ²⁵Vós sois os filhos dos profetas e da aliança que Deus estabeleceu com os vossos pais, dizendo a Avraham (Abraão): @@'E na tua semente todas as famílias da terra serão abençoadas.'@@ ²⁶A vós primeiro, Deus, tendo levantado o seu servo, o enviou, abençoando-vos *no* afastar de cada *um de vós* das vossas maldades."
+¹⁷"E agora, irmãos, sei que agistes segundo a ignorância, assim como também os vossos governantes; ¹⁸mas Deus, as *coisas* que ele predisse pela boca de todos os profetas — que o seu Messias sofreria — ele assim cumpriu. ¹⁹Mudai *de* mentalidade, portanto, e voltai-vos, para o apagamento dos vossos pecados, ²⁰para que venham tempos de refrigério da face do Senhor, e *para que* ele envie o *que* foi predeterminado para vós, *o* Messias, Yeshua (Jesus), ²¹a quem o céu deve receber até *os* tempos da restauração de todas *as coisas*, das quais Deus falou pela boca dos seus santos profetas desde a antiguidade. ²²Mosheh (Moisés) de fato disse que 'Um profeta para vós *o* Senhor Deus levantará dentre os vossos irmãos, como a mim; a ele ouvireis em todas *as coisas*, tudo o que ele vos falar. ²³E acontecerá *que* toda alma, quem quer que não ouça aquele profeta, será totalmente exterminada do povo.' ²⁴E de fato todos os profetas, desde Shmuel (Samuel) e os *que vieram* depois, quantos falaram, também anunciaram estes dias. ²⁵Vós sois os filhos dos profetas e da aliança que Deus estabeleceu com os vossos pais, dizendo a Avraham (Abraão): 'E na tua semente todas as famílias da terra serão abençoadas.' ²⁶A vós primeiro, Deus, tendo levantado o seu servo, o enviou, abençoando-vos *no* afastar de cada *um de vós* das vossas maldades."
 
 ---
 
@@ -335,12 +335,12 @@ E de fato todos os profetas, desde Shmuel (Samuel) e os *que vieram* depois, qua
 
 ### **Versículo 25**
 
-Vós sois os filhos dos profetas e da aliança que Deus estabeleceu com os vossos pais, dizendo a Avraham (Abraão): @@'E na tua semente todas as famílias da terra serão abençoadas.'@@
+Vós sois os filhos dos profetas e da aliança que Deus estabeleceu com os vossos pais, dizendo a Avraham (Abraão): 'E na tua semente todas as famílias da terra serão abençoadas.'
 
 > **Notas**
 >
 > 🔴 **CRÍTICO — A ALIANÇA ABRAÂMICA (Gn 22:18); FALA DIVINA**
-> - **ἐν τῷ σπέρματί σου ἐνευλογηθήσονται πᾶσαι αἱ πατριαὶ τῆς γῆς** (*en tō spermati sou eneulogēthēsontai pasai hai patriai tēs gēs*) = "E na tua semente todas as famílias da terra serão abençoadas" (Gn 22:18; cf. 12:3). Esta é **a palavra aliancista direta do SENHOR a Avraham** → marcada @@…@@ (Regra 30 / A-004). "Filhos dos profetas e da aliança" — os ouvintes são herdeiros da promessa; "todas as famílias da terra" mantém as nações em vista, embora Israel seja abordado "primeiro" (v.26). → Companheiro §B5 (a bênção abraâmica).
+> - **ἐν τῷ σπέρματί σου ἐνευλογηθήσονται πᾶσαι αἱ πατριαὶ τῆς γῆς** (*en tō spermati sou eneulogēthēsontai pasai hai patriai tēs gēs*) = "E na tua semente todas as famílias da terra serão abençoadas" (Gn 22:18; cf. 12:3). Esta é **a palavra aliancista direta do SENHOR a Avraham**, citada por Kefa → não marcada (Regra 30). "Filhos dos profetas e da aliança" — os ouvintes são herdeiros da promessa; "todas as famílias da terra" mantém as nações em vista, embora Israel seja abordado "primeiro" (v.26). → Companheiro §B5 (a bênção abraâmica).
 
 ---
 
@@ -372,7 +372,7 @@ A vós primeiro, Deus, tendo levantado o seu servo, o enviou, abençoando-vos *n
 
 ---
 
-## Rastreamento entre Capítulos (BH -> Atos)
+## Rastreamento entre Capítulos (BH → Atos)
 
 | BH / fonte anterior | Tema | Em Atos 3 |
 |---------------------|-------|-----------|
@@ -380,6 +380,6 @@ A vós primeiro, Deus, tendo levantado o seu servo, o enviou, abençoando-vos *n
 | Is 52:13-53:12 | O Servo do SENHOR glorificado depois do sofrimento | "O seu **servo** (*pais*) Yeshua… glorificado" (vv.13, 26); o Messias sofredor (v.18). |
 | Is 35:6 | "Então o coxo saltará como um cervo" | O homem curado "saltando" para dentro do templo (vv.8). |
 | Dt 18:15-19 | O profeta como Moisés | Citado e identificado com Yeshua (vv.22-23). |
-| Gn 22:18 (cf. 12:3) | "Na tua semente todas as famílias da terra serão abençoadas" | A palavra aliancista do SENHOR, marcada como fala divina (v.25). |
+| Gn 22:18 (cf. 12:3) | "Na tua semente todas as famílias da terra serão abençoadas" | A palavra aliancista do SENHOR, citada por Kefa — não marcada (v.25). |
 | 1 Sm 3 | Samuel, cabeça da linha profética | "Todos os profetas desde Shmuel" anunciaram estes dias (v.24). |
 | Ml 4:5-6; At 1:6 | Restauração / volta dos corações | "Tempos da restauração de todas as coisas" (v.21); "mudança de mentalidade e voltai-vos" (v.19). |

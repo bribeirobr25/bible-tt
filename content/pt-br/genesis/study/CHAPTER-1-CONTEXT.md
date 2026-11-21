@@ -719,7 +719,4 @@ Os gregos eram agora a presença cultural dominante. As cidades fenícias foram 
 ---
 
 **Proveniência editorial:**
-- Redigido por: Claude Opus 4.6 (assistente de IA)
-- Data: 2026-04-18
-- Revisado por: pendente
-- Conformidade com Regra 29: revisão pendente
+- Rascunho assistido por IA, ainda não revisado.

@@ -21,7 +21,7 @@
 - [Fortlaufende Lesung](#fortlaufende-lesung)
 - [Vers-für-Vers-Studie](#vers-für-vers-studie)
 - [Glossar — Lukas 2](#glossar---lukas-2)
-- [Kapitelübergreifende Verfolgung (HB -> Lukas)](#kapitelübergreifende-verfolgung-hb---lukas)
+- [Kapitelübergreifende Verfolgung (HB → Lukas)](#kapitelübergreifende-verfolgung-hb---lukas)
 
 ---
 
@@ -36,7 +36,7 @@
 
 Notizen sind nach Typ gekennzeichnet — **Kritisch · Lexikalisch · Grammatisch · Theologisch** — jeweils mit ihrer Farbe (siehe die Legende oben in der Notizen-Ansicht).
 
-**Lukas 2 ist das Kapitel der Geburt.** Ein Volkszählungsedikt des Kaisers Augustus, unter Quirinius, bringt Yosef und die schwangere Miryam von Natzeret nach Beit-Lechem, der Stadt Davids (V.1-5); dort wird Yeshua geboren und in eine Futterkrippe gelegt, „weil kein Platz für sie im *Kataluma* war" (V.6-7). Boten verkünden die Geburt Hirten, und das himmlische Heer singt das Gloria (V.8-20). Am achten Tag wird das Kind beschnitten und benannt; es wird im Tempel zu Yerushalayim dargestellt, wo Shimon es empfängt und das Nunc Dimittis singt, dann zu Miryam spricht (V.21-35), und die Prophetin Channah dankt (V.36-38). Die Familie kehrt nach Natzeret zurück, und das Kind wächst (V.39-40). Mit zwölf bleibt der Knabe Yeshua im Tempel und wird unter den Lehrern gefunden; seine Worte an seine Eltern sind der einzige aus seiner Jugend überlieferte Ausspruch (V.41-52). **Hinweis zur Redemarkierung (Regel 30):** der Bote und das himmlische Heer (das Gloria, V.13-14) sind von *angelos*-Klasse — ihre Rede wird NICHT als göttlich markiert. Shimons und Channahs Worte sind *menschlich* — nicht markiert. Nur der Ausspruch des Knaben Yeshua (V.49) wird göttlich markiert. Die beiden Cantica (Gloria, Nunc Dimittis) sind *menschliche/engelhafte* Rede, als fließende Prosa wiedergegeben. Eigennamen folgen der TT-Transliteration: Yeshua (Jesus), Miryam (Maria), Yosef (Josef), Beit-Lechem (Bethlehem), Natzeret (Nazareth), Yerushalayim (Jerusalem), Shimon (Simeon), Channah (Hanna).
+**Lukas 2 ist das Kapitel der Geburt.** Ein Volkszählungsedikt des Kaisers Augustus, unter Quirinius, bringt Yosef und die schwangere Miryam von Natzeret nach Beit-Lechem, der Stadt Davids (V.1-5); dort wird Yeshua geboren und in eine Futterkrippe gelegt, „weil kein Platz für sie im *Kataluma* war" (V.6-7). Boten verkünden die Geburt Hirten, und das himmlische Heer singt das Gloria (V.8-20). Am achten Tag wird das Kind beschnitten und benannt; es wird im Tempel zu Yerushalayim dargestellt, wo Shimon es empfängt und das Nunc Dimittis singt, dann zu Miryam spricht (V.21-35), und die Prophetin Channah dankt (V.36-38). Die Familie kehrt nach Natzeret zurück, und das Kind wächst (V.39-40). Mit zwölf bleibt der Knabe Yeshua im Tempel und wird unter den Lehrern gefunden; seine Worte an seine Eltern sind der einzige aus seiner Jugend überlieferte Ausspruch (V.41-52). **Hinweis zur Redemarkierung (Regel 30):** der Bote und das himmlische Heer (das Gloria, V.13-14) sind von *angelos*-Klasse — ihre Rede wird NICHT als göttlich markiert. Shimons und Channahs Worte sind *menschlich* — nicht markiert. Nur der Ausspruch des Knaben Yeshua (V.49) wird göttlich markiert. Die beiden Cantica (Gloria, Nunc Dimittis) sind *menschliche/engelhafte* Rede, als fließende Prosa wiedergegeben. Namen erscheinen in der vertrauten Form; die ursprachliche Form steht einmal pro Abschnitt — z. B. Yochanan (Johannes).
 
 ---
 
@@ -211,7 +211,7 @@ Und der Bote sagte zu ihnen: „Fürchtet euch nicht; denn siehe, ich bringe euc
 > **Notizen**
 >
 > 🔴 **KRITISCH — BOTEN-REDE NICHT GÖTTLICH MARKIERT (REGEL 30)**
-> - Die Verkündigung des Boten (V.10-12) wird in gewöhnlichen Anführungszeichen wiedergegeben, NICHT mit den @@…@@-Markern göttlicher Rede. Nach der redaktionellen Entscheidung (luke.md L-001) und dem Matthäus/Markus-Präzedenzfall ist ein *angelos* ein Bote, nicht Gott; nur die direkte Rede Gottes oder des heiligen Windes/Geistes wird markiert. Die TT lässt Boten-Rede nicht in göttliche Rede zusammenfallen.
+> - Die Verkündigung des Boten (V.10-12) wird in gewöhnlichen Anführungszeichen wiedergegeben, NICHT mit den @@…@@-Markern göttlicher Rede. Nach dem Matthäus/Markus-Präzedenzfall ist ein *angelos* ein Bote, nicht Gott; nur die direkte Rede Gottes oder des heiligen Windes/Geistes wird markiert. Die TT lässt Boten-Rede nicht in göttliche Rede zusammenfallen.
 >
 > 🟢 **„ICH BRINGE GUTE NACHRICHT… GROSSE FREUDE" — *EUANGELIZOMAI… CHARAN MEGALĒN***
 > - **εὐαγγελίζομαι ὑμῖν χαρὰν μεγάλην** (*euangelizomai hymin charan megalēn*) = „ich bringe euch gute Nachricht von einer großen Freude." Das Verb (verwandt mit *euangelion*) und das Stichwort „Freude" knüpfen an 1,14; 1,44; 1,47 an. **παντὶ τῷ λαῷ** (*panti tō laō*, „für das ganze Volk") — *laos* ist Israel als Gottes Volk; die weitere Reichweite zu „den Nationen" taucht in Simeons Lied auf (V.32).
@@ -247,7 +247,7 @@ Und plötzlich *war* mit dem Boten eine Menge *des* himmlischen Heeres, die Gott
 > **Notizen**
 >
 > 🔴 **KRITISCH — DAS HIMMLISCHE HEER: VON *ANGELOS*-KLASSE, NICHT GÖTTLICH MARKIERT (REGEL 30)**
-> - **πλῆθος στρατιᾶς οὐρανίου** (*plēthos stratias ouraniou*) = „eine Menge *des* himmlischen Heeres/Armee." *Stratia ourania* ist die Engelarmee (vgl. 1 Kön 22,19; Ps 103,21 LXX). Ihr Lied (das Gloria, V.14) ist Rede von *angelos*-Klasse und wird daher NICHT göttlich markiert, genau wie die Worte des einzelnen Boten. → siehe luke.md L-001.
+> - **πλῆθος στρατιᾶς οὐρανίου** (*plēthos stratias ouraniou*) = „eine Menge *des* himmlischen Heeres/Armee." *Stratia ourania* ist die Engelarmee (vgl. 1 Kön 22,19; Ps 103,21 LXX). Ihr Lied (das Gloria, V.14) ist Rede von *angelos*-Klasse und wird daher NICHT göttlich markiert, genau wie die Worte des einzelnen Boten.
 
 ---
 
@@ -261,7 +261,7 @@ Und plötzlich *war* mit dem Boten eine Menge *des* himmlischen Heeres, die Gott
 > - **δόξα ἐν ὑψίστοις θεῷ καὶ ἐπὶ γῆς εἰρήνη ἐν ἀνθρώποις εὐδοκίας** (*doxa en hypsistois theō kai epi gēs eirēnē en anthrōpois eudokias*) = „Herrlichkeit in *der* Höhe Gott, und auf Erden Friede unter Menschen des Wohlgefallens/der Gunst." NA28 liest den **Genitiv εὐδοκίας** (*eudokias*) — „Friede unter Menschen *seiner (Gottes) Gunst/seines Wohlgefallens*", d. h. denen, auf denen Gottes Gunst ruht (eine semitische Konstruktion, vgl. Qumran „Söhne *(Gottes)* Wohlgefallens"). Das ältere „Wohlgefallen den Menschen" beruht auf einer Variante **Nominativ εὐδοκία** (*eudokia*). Die TT folgt dem Genitiv und gibt „Menschen *seiner* Gunst" wieder, ergänzt *seiner* kursiv und kennzeichnet den Kasus als bekannte Crux. Beachte auch, dass dies ein zweizeiliges Verspaar ist („Herrlichkeit… Friede"), nicht drei. → Zu *eudokia(s)* und der textlichen Entscheidung siehe Begleitmaterial §D3. **[textkritisch / lexikalisch — WAHRSCHEINLICH]**
 >
 > 🟢 **REGEL 30 — DAS GLORIA NICHT GÖTTLICH MARKIERT; ALS PROSA WIEDERGEGEBEN**
-> - Das Gloria ist das Lied des *himmlischen Heeres* (V.13), eines Sprechers von *angelos*-Klasse — daher NICHT mit @@…@@ markiert. Als Cantica ist es als fließende Prosa verfasst (luke.md L-002), keine Zeilenumbrüche. *Hypsistois* („die höchsten *Orte*") spiegelt *hypsistos* („der Höchste") aus Kapitel 1.
+> - Das Gloria ist das Lied des *himmlischen Heeres* (V.13), eines Sprechers von *angelos*-Klasse — daher NICHT mit @@…@@ markiert. Als Cantica ist es als fließende Prosa verfasst, keine Zeilenumbrüche. *Hypsistois* („die höchsten *Orte*") spiegelt *hypsistos* („der Höchste") aus Kapitel 1.
 
 ---
 
@@ -436,7 +436,7 @@ nahm auch er es in *seine* Arme und pries Gott und sagte:
 > **Notizen**
 >
 > 🔴 **KRITISCH — DAS NUNC DIMITTIS (V.29-32): MENSCHLICHE REDE, ALS PROSA WIEDERGEGEBEN**
-> - **νῦν ἀπολύεις τὸν δοῦλόν σου, δέσποτα, κατὰ τὸ ῥῆμά σου ἐν εἰρήνῃ** (*nyn apolyeis ton doulon sou, despota, kata to rhēma sou en eirēnē*) = „Nun entlässt du deinen Knecht, Gebieter, nach deinem Wort, in Frieden." Simeons Lied ist **menschliche** Rede (Regel 30) — NICHT göttlich markiert — und, als Cantica, als fließende Prosa verfasst (luke.md L-002). **δεσπότης** (*despotēs*, „Gebieter, souveräner Herr") ist hier die Anrede an Gott (nicht *kyrios*); die TT gibt „Gebieter" wieder. *Apolyō* („entlassen, gehen lassen") spiegelt das „Entlassung"-Wortfeld (vgl. *aphesis*, 1,77); ein Sklavenhalter entlässt seinen Diener. → Zur Struktur des Nunc Dimittis siehe das PROPHETIE-Begleitmaterial. **[theologisch — WAHRSCHEINLICH]**
+> - **νῦν ἀπολύεις τὸν δοῦλόν σου, δέσποτα, κατὰ τὸ ῥῆμά σου ἐν εἰρήνῃ** (*nyn apolyeis ton doulon sou, despota, kata to rhēma sou en eirēnē*) = „Nun entlässt du deinen Knecht, Gebieter, nach deinem Wort, in Frieden." Simeons Lied ist **menschliche** Rede (Regel 30) — NICHT göttlich markiert — und, als Cantica, als fließende Prosa verfasst. **δεσπότης** (*despotēs*, „Gebieter, souveräner Herr") ist hier die Anrede an Gott (nicht *kyrios*); die TT gibt „Gebieter" wieder. *Apolyō* („entlassen, gehen lassen") spiegelt das „Entlassung"-Wortfeld (vgl. *aphesis*, 1,77); ein Sklavenhalter entlässt seinen Diener. → Zur Struktur des Nunc Dimittis siehe das PROPHETIE-Begleitmaterial. **[theologisch — WAHRSCHEINLICH]**
 
 ---
 
@@ -720,9 +720,9 @@ Und Yeshua (Jesus) nahm zu an Weisheit und Gestalt und Gunst bei Gott und Mensch
 
 ---
 
-## KAPITELÜBERGREIFENDE VERFOLGUNG (HB -> Lukas)
+## KAPITELÜBERGREIFENDE VERFOLGUNG (HB → Lukas)
 
-**1 Sam 16 / Mi 5,1 -> Lukas 2,4-11 — Beit-Lechem (Bethlehem), David und die Hirten:**
+**1 Sam 16 / Mi 5,1 → Lukas 2,4-11 — Beit-Lechem (Bethlehem), David und die Hirten:**
 
 | Element | 1 Samuel 16 / Micha 5 | Lukas 2 |
 |---------|------------------------|--------|
@@ -732,7 +732,7 @@ Und Yeshua (Jesus) nahm zu an Weisheit und Gestalt und Gunst bei Gott und Mensch
 
 Die Geburt bindet den Geburtsort, die davidische Abstammung und die Hirtenzeugen an die Bethlehem-Prophetie und an David, Israels Hirtenkönig.
 
-**Ex 13,2.12-15 / Lev 12 -> Lukas 2,22-24 — der Erstgeborene und das Opfer des Armen:**
+**Ex 13,2.12-15 / Lev 12 → Lukas 2,22-24 — der Erstgeborene und das Opfer des Armen:**
 
 | Element | Exodus / Levitikus | Lukas 2 |
 |---------|---------------------|--------|
@@ -742,7 +742,7 @@ Die Geburt bindet den Geburtsort, die davidische Abstammung und die Hirtenzeugen
 
 Die Darstellung beachtet die Tora genau und markiert durch das Vögel-Opfer leise die Armut der Familie.
 
-**Jes 40,1-5 / 42,6 / 49,6 / 52,9-10 -> Lukas 2,25-38 — Trost, gesehenes Heil, Licht für die Nationen:**
+**Jes 40,1-5 / 42,6 / 49,6 / 52,9-10 → Lukas 2,25-38 — Trost, gesehenes Heil, Licht für die Nationen:**
 
 | Element | Jesaja | Lukas 2 (Simeon / Hanna) |
 |---------|--------|------------------------|
@@ -753,7 +753,7 @@ Die Darstellung beachtet die Tora genau und markiert durch das Vögel-Opfer leis
 
 Simeon und Hanna äußern die jesajanische Hoffnung auf Trost und Heil, nun ausdrücklich neben Israel auch zu den Nationen ausgedehnt.
 
-**1 Sam 2,26 / Ri 13,24 -> Lukas 2,40, 52 — die Wachstumsformel:**
+**1 Sam 2,26 / Ri 13,24 → Lukas 2,40, 52 — die Wachstumsformel:**
 
 | Element | 1 Samuel / Richter | Lukas 2 |
 |---------|--------------------|--------|

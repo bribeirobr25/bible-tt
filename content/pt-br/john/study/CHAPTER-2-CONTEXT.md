@@ -140,7 +140,7 @@ O Quarto Evangelho refere-se à mãe de Jesus quatro vezes (2:1, 2:3, 2:5, 2:12;
 ### G2. Seis jarros de pedra — vasos de purificação ritual
 **[HISTÓRICO / ARQUEOLÓGICO — VERIFICADO]**
 
-Os seis jarros de água de pedra (λίθιναι ὑδρίαι, *lithinai hydriai*) descritos em 2:6 são consistentes com uma classe bem atestada de artefatos arqueológicos. Grandes vasos de pedra (*kalal*) foram encontrados por toda a Yehudeia e Galileia, fabricados em calcário mole (giz) em tornos. Centros de produção foram identificados em Hizma (perto de Jerusalém) e em vários locais galileus. A preferência por pedra sobre argila é fundamentada halakhicamente (com base na tradição legal judaica): Mishná Kelim 10.1 afirma que vasos de pedra não contraem impureza ritual (*tum'ah*), ao contrário da cerâmica, que se torna permanentemente impura após contaminação e deve ser quebrada (Lv 11:33). Vasos de pedra assim serviam ao lar judaico consciente da pureza, fornecendo recipientes reutilizáveis que nunca poderiam se tornar ritualmente impuros. O fato de João especificar que os jarros estavam "conforme a purificação dos yehudim" conecta os vasos ao sistema de pureza judaico — o próprio sistema que o sinal está prestes a recontextualizar.
+Os seis jarros de água de pedra (λίθιναι ὑδρίαι, *lithinai hydriai*) descritos em 2:6 são consistentes com uma classe bem atestada de artefatos arqueológicos. Grandes vasos de pedra (*kalal*) foram encontrados por toda a Yehudeia e Galileia, fabricados em calcário mole (giz) em tornos. Centros de produção foram identificados em Hizma (perto de Jerusalém) e em vários locais galileus. A preferência por pedra sobre argila é fundamentada halakhicamente (com base na tradição legal judaica): Mishná Kelim 10.1 afirma que vasos de pedra não contraem impureza ritual (*tum'ah*), ao contrário da cerâmica, que se torna permanentemente impura após contaminação e deve ser quebrada (Lv 11:33). Vasos de pedra assim serviam ao lar judaico consciente da pureza, fornecendo recipientes reutilizáveis que nunca poderiam se tornar ritualmente impuros. O fato de João especificar que os jarros estavam "conforme a purificação dos Yehudim" conecta os vasos ao sistema de pureza judaico — o próprio sistema que o sinal está prestes a recontextualizar.
 
 **Fonte:** Magen, Y., *The Stone Vessel Industry in the Second Temple Period*, Judea and Samaria Publications 1, Israel Antiquities Authority, 2002; Deines, R., *Jüdische Steingefässe und pharisäische Frömmigkeit*, WUNT 2/52, Mohr Siebeck, 1993.
 
@@ -148,7 +148,7 @@ Os seis jarros de água de pedra (λίθιναι ὑδρίαι, *lithinai hydria
 
 ## I. O Mundo na Época
 
-> **Para o contexto completo, veja o companheiro de João 1 Seção I.** O contexto histórico completo em duas categorias de dez categorias (Político, Economia, Vida Cotidiana, Estrutura Social, Educação, Militar, Artes, Ciência, Religião, Povos Vizinhos) está disponível no companheiro de João 1 (`pt-br/john/study/CHAPTER-1-CONTEXT.md`). As entradas abaixo abordam as circunstâncias históricas específicas destacadas em João 2.
+> **Para o contexto completo, veja o companheiro de João 1 Seção I.** O contexto histórico completo em duas categorias de dez categorias (Político, Economia, Vida Cotidiana, Estrutura Social, Educação, Militar, Artes, Ciência, Religião, Povos Vizinhos) está disponível no material de estudo de João 1 (Aprofundar). As entradas abaixo abordam as circunstâncias históricas específicas destacadas em João 2.
 
 ---
 
@@ -245,6 +245,4 @@ Após 70 d.C., a elaborada arquitetura de pureza do Templo de Jerusalém — seu
 ---
 
 **Proveniência editorial:**
-- Redigido por: Claude Opus 4.6 (assistente de IA)
-- Data: 2026-04-27
-- Revisado por: pendente
+- Rascunho assistido por IA, ainda não revisado.

@@ -182,7 +182,7 @@ Hechos se transmite en dos formas sustancialmente diferentes, y la brecha entre 
 - El texto **alejandrino** (representado por el Sinaítico, el Vaticano, P74 y la mayor parte de la tradición) es la forma más breve, y es la base de NA28 y de la TT.
 - El texto **occidental** (representado sobre todo por el **Códice Bezae (D)**, apoyado por algunos testigos latinos antiguos y siríacos) es aproximadamente un 8–10 % más largo en conjunto, con muchas adiciones, aclaraciones y pequeñas expansiones narrativas a lo largo de Hechos.
 
-La relación entre ambos se debate: si el texto occidental es una expansión posterior del alejandrino, un borrador anterior revisado a la baja, o dos ediciones paralelas. **La TT sigue NA28 (la forma alejandrina).** Dentro de Hechos 1–3 las variantes occidentales son modestas pero reales (p. ej. pequeñas expansiones en la lista de apóstoles y en la narrativa de Pentecostés); las variantes significativas se anotan en el Nivel 2 en lugar de adoptarse silenciosamente (Regla 22).
+La relación entre ambos se debate: si el texto occidental es una expansión posterior del alejandrino, un borrador anterior revisado a la baja, o dos ediciones paralelas. **La TT sigue NA28 (la forma alejandrina).** Dentro de Hechos 1–3 las variantes occidentales son modestas pero reales (p. ej. pequeñas expansiones en la lista de apóstoles y en la narrativa de Pentecostés); las variantes significativas se registran en las notas en lugar de adoptarse silenciosamente (Regla 22).
 
 **Fuente:** Metzger, *A Textual Commentary on the Greek New Testament* (2.ª ed., 1994), 222–236; Barrett, *Acts* (ICC), I.2–29.
 
@@ -234,10 +234,10 @@ Según la política de transliteración de nombres de la TT, la primera aparici�
 
 La TT marca el texto con un pequeño conjunto de convenciones que el lector encontrará a lo largo de Hechos 1–3:
 
-- `*añadido*` — palabras agregadas para la gramática española (Regla 11), mostradas en cursiva.
-- `{t:…}` — un término transliterado llevado con su glosa, p. ej. {t:Hakeldama} (Campo de Sangre), el topónimo arameo que el texto mismo glosa (1:19).
-- `{a:…}` — un doble sentido vivo mantenido abierto en lugar de resuelto, p. ej. {a:viento/espíritu} para πνεῦμα y {a:lenguas/idiomas} para γλῶσσαι en Pentecostés (2:4, 11), donde ambos sentidos permanecen en juego.
-- `@@…@@` — discurso divino (Regla 30): el discurso directo en primera persona del Yeshua (Jesús) resucitado (1:4–5, 1:7–8) y el discurso divino incrustado en primera persona dentro de las citas del AT (p. ej. el "derramaré mi espíritu" de Joel, 2:17–18). Los **dos hombres** en la ascensión (1:10–11) son mensajeros de clase *angelos* y **no** se marcan, siguiendo el precedente de Gabriel/mensajero; los sermones de Kefa (Pedro) son discurso humano y no se marcan.
+- *añadido* — palabras agregadas para la gramática española (Regla 11), mostradas en cursiva.
+- {t:…} — un término transliterado llevado con su glosa, p. ej. {t:Hakeldama} (Campo de Sangre), el topónimo arameo que el texto mismo glosa (1:19).
+- {a:…} — un doble sentido vivo mantenido abierto en lugar de resuelto, p. ej. {a:viento/espíritu} para πνεῦμα y {a:lenguas/idiomas} para γλῶσσαι en Pentecostés (2:4, 11), donde ambos sentidos permanecen en juego.
+- @@…@@ — discurso divino (Regla 30): el discurso directo en primera persona del Yeshua (Jesús) resucitado (1:4–5, 1:7–8). Las palabras de Dios en primera persona dentro de las citas del AT (p. ej. el "derramaré mi espíritu" de Joel, 2:17–18) **no** se marcan, porque Kefa (Pedro) las está citando, y sus sermones son discurso humano. Los **dos hombres** en la ascensión (1:10–11) son mensajeros de clase *angelos* y **no** se marcan, siguiendo el precedente de Gabriel/mensajero.
 
 ### F4. Pentecostés, las "lenguas" y el nombre de la fiesta
 **[TEXTUAL — VERIFICADO]**
@@ -245,19 +245,19 @@ La TT marca el texto con un pequeño conjunto de convenciones que el lector enco
 Dos términos del capítulo 2 dan forma a la lectura:
 
 - **Pentecostés (2:1):** πεντηκοστή se traduce "Pentecostés" — el nombre griego de la fiesta de peregrinación **Shavuot (Fiesta de las Semanas)** — con una glosa de Shavuot en la primera aparición.
-- **"Lenguas / idiomas" (2:4, 11):** γλῶσσαι se traduce {a:lenguas/idiomas}, manteniendo ambos sentidos vivos, mientras que διάλεκτος (2:6, 8), "lengua/dialecto," es inequívoco. El juego de palabras con el {a:viento/espíritu} de 2:2–4 se anota en el Nivel 2.
+- **"Lenguas / idiomas" (2:4, 11):** γλῶσσαι se traduce {a:lenguas/idiomas}, manteniendo ambos sentidos vivos, mientras que διάλεκτος (2:6, 8), "lengua/dialecto," es inequívoco. El juego de palabras con el {a:viento/espíritu} de 2:2–4 se explica en las notas.
 
 ### F5. Kyrios — Política del Nombre Divino en Hechos (Opción C)
 **[TEXTUAL — VERIFICADO]**
 
-Cuando Hechos cita o evoca pasajes de la Biblia Hebrea que contienen el Tetragrama (el nombre divino hebreo de cuatro letras יהוה, transliterado YHWH), el texto griego usa κύριος (*kyrios*). Según la Política del Nombre Divino de la TT (Opción C, RULES-GS.md):
+Cuando Hechos cita o evoca pasajes de la Biblia Hebrea que contienen el Tetragrama (el nombre divino hebreo de cuatro letras יהוה, transliterado YHWH), el texto griego usa κύριος (*kyrios*). Según la Política del Nombre Divino de la TT (Opción C):
 
 - El texto principal traduce *kyrios* como "el Señor" en contextos de cita y de eco del AT.
-- Una nota de Nivel 2 identifica la fuente y declara que el hebreo subyacente tiene el Tetragrama.
+- Una nota identifica la fuente y declara que el hebreo subyacente tiene el Tetragrama.
 - Cuando *kyrios* se refiere a Yeshua (Jesús) o a un señor humano (no una referencia a YHWH del AT), no se necesita nota de YHWH.
 - Los casos ambiguos se señalan según la Regla 13.
 
-El caso destacado es **Hechos 2:34** (citando el Salmo 110:1): "**El Señor** (κύριος = YHWH, el que habla) dijo a mi **señor** (el Mesías, el destinatario)" — dos referentes distintos bajo una sola palabra griega. La TT traduce para preservar ambos, señala la ambigüedad (Regla 13), y la anota en el Nivel 2, ya que el argumento del Mesías davídico del sermón gira sobre ella. Otras citas con referente YHWH en los caps. 1–3 incluyen Joel 2:32 ("todo el que invoque el nombre del Señor," citado en 2:21) y el Salmo 16:8 ("vi al Señor," 2:25).
+El caso destacado es **Hechos 2:34** (citando el Salmo 110:1): "**El Señor** (κύριος = YHWH, el que habla) dijo a mi **señor** (el Mesías, el destinatario)" — dos referentes distintos bajo una sola palabra griega. La TT traduce para preservar ambos, señala la ambigüedad (Regla 13), y la explica en las notas, ya que el argumento del Mesías davídico del sermón gira sobre ella. Otras citas con referente YHWH en los caps. 1–3 incluyen Joel 2:32 ("todo el que invoque el nombre del Señor," citado en 2:21) y el Salmo 16:8 ("vi al Señor," 2:25).
 
 ### F6. Reglas activas con aplicaciones específicas a Hechos
 **[TEXTUAL — VERIFICADO]**
@@ -268,12 +268,12 @@ El caso destacado es **Hechos 2:34** (citando el Salmo 110:1): "**El Señor** (�
 | 1 | Consistencia Léxica Controlada | Los términos del glosario fijado (*kyrios*, *Christos*, *metanoia*, *aphesis*, *koinōnia*, *pneuma*, *baptisma*) se traducen consistentemente en todos los capítulos de Hechos según el glosario GS. |
 | 2 | Preservación de Ambigüedad | {a:viento/espíritu} (πνεῦμα) y {a:lenguas/idiomas} (γλῶσσαι) se mantienen abiertos en lugar de resolverse. |
 | 3 | No importar teología | La narrativa de Pentecostés y los sermones se traducen tal como el texto los presenta — sin importar doctrina posterior y sin desestimar la narrativa. Restricción en ambos sentidos. |
-| 11 | Marcar adiciones gramaticales | Las palabras agregadas para la gramática española aparecen en cursiva (`*añadido*`). |
+| 11 | Marcar adiciones gramaticales | Las palabras agregadas para la gramática española aparecen en cursiva (*añadido*). |
 | 13 | Niveles de incertidumbre | Los términos debatidos (el doble κύριος de 2:34; εἰς ἄφεσιν, 2:38; ἀποκατάστασις, 3:21) llevan etiquetas de confianza (Probable / Posible / Incierto). |
-| 14 | Anotar Juegos de Palabras | El juego de palabras πνεῦμα/γλῶσσαι de Pentecostés anotado en el Nivel 2. |
-| 22 | Restricción Textual-Crítica | Las variantes occidentales (Códice Bezae) anotadas en el Nivel 2 sin adopción silenciosa. Ver E2. |
-| 25 | Política del Nombre Divino — GS Opción C | κύριος traducido como "el Señor" en contextos de cita/eco del AT, con nota en Nivel 2 identificando YHWH en el hebreo subyacente. Ver F5. |
-| 30 | Marcado de discurso divino | El discurso del Yeshua resucitado (1:4–8) y el discurso divino incrustado en primera persona en las citas del AT (Joel, 2:17–18) se marcan; los mensajeros de la ascensión y el discurso de los apóstoles no. Ver F3. |
+| 14 | Anotar Juegos de Palabras | El juego de palabras πνεῦμα/γλῶσσαι de Pentecostés explicado en las notas. |
+| 22 | Restricción Textual-Crítica | Las variantes occidentales (Códice Bezae) registradas en las notas sin adopción silenciosa. Ver E2. |
+| 25 | Política del Nombre Divino — GS Opción C | κύριος traducido como "el Señor" en contextos de cita/eco del AT, con una nota identificando YHWH en el hebreo subyacente. Ver F5. |
+| 30 | Marcado de discurso divino | El discurso del Yeshua resucitado (1:4–8) se marca; el discurso divino en primera persona citado dentro de las citas del AT (Joel, 2:17–18), los mensajeros de la ascensión y el discurso de los apóstoles no. Ver F3. |
 
 ---
 
@@ -294,4 +294,4 @@ El caso destacado es **Hechos 2:34** (citando el Salmo 110:1): "**El Señor** (�
 
 ---
 
-> **Procedencia editorial:** Redactado por Claude Opus 4.8 (contexto 1M) el 24-06-2026. Sin revisión. Esta introducción es un recurso académico provisional gobernado por la Regla 29 de la TT. Todas las afirmaciones llevan etiquetas duales; ninguna afirmación debe leerse como la posición teológica o composicional de la TT. La TT traduce el texto griego (NA28, la forma alejandrina) y no adopta ninguna teoría particular de autoría, composición ni relación crítico-textual entre las tradiciones alejandrina y occidental.
+> **Procedencia editorial:** Borrador asistido por IA, aún no revisado. Esta introducción es un recurso académico provisional gobernado por la Regla 29 de la TT. Todas las afirmaciones llevan etiquetas duales; ninguna afirmación debe leerse como la posición teológica o composicional de la TT. La TT traduce el texto griego (NA28, la forma alejandrina) y no adopta ninguna teoría particular de autoría, composición ni relación crítico-textual entre las tradiciones alejandrina y occidental.

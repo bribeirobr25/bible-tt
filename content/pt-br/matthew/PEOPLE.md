@@ -84,7 +84,7 @@ Este arquivo apresenta informações biográficas e genealógicas sobre figuras 
 **Origem:** Filho de Yishai (Jessé) de Belém, tribo de Judá
 **Primeira menção em Mateus:** 1:1
 **Em Mateus:** Nomeado no cabeçalho da genealogia (1:1 — "filho de David"), em 1:6 como o rei que gerou Salomão pela esposa de Uriyah, e em 1:17 como o pivô estrutural da genealogia (Abraão a David = 14 gerações; David à deportação = 14; deportação ao ungido = 14). "Filho de David" torna-se um título messiânico recorrente ao longo de Mateus (9:27; 12:23; 15:22; 20:30-31; 21:9, 15; 22:42).
-**Referência cruzada:** A entrada completa aparecerá em samuel/PEOPLE.md ou kings/PEOPLE.md quando esses livros forem traduzidos.
+**Referência cruzada:** A entrada completa aparecerá na página Pessoas e Genealogia de Samuel ou de Reis quando esses livros forem traduzidos.
 
 ---
 
@@ -93,7 +93,7 @@ Este arquivo apresenta informações biográficas e genealógicas sobre figuras 
 **Origem:** Filho de David e Bat-Sheva (2 Sm 12:24)
 **Primeira menção em Mateus:** 1:6-7
 **Em Mateus:** Nomeado na genealogia (1:6-7) como filho de David (pela esposa de Uriyah) e pai de Rechav'am (Roboão). Através de Salomão a linhagem real continua até a deportação babilônica.
-**Referência cruzada:** A entrada completa aparecerá em kings/PEOPLE.md quando esse livro for traduzido.
+**Referência cruzada:** A entrada completa aparecerá na página Pessoas e Genealogia de Reis quando esse livro for traduzido.
 
 ---
 
@@ -275,6 +275,6 @@ Este arquivo apresenta informações biográficas e genealógicas sobre figuras 
 - **PRIMARY** — Biblia Hebraica Stuttgartensia (BHS), 5ª ed. (Deutsche Bibelgesellschaft, 1997). Usada para citações do AT e etimologias de nomes.
 - **PRIMARY** — Josefo, *Antiquitates Judaicae* (AJ) e *Bellum Judaicum* (BJ), ed. Niese. Usado para figuras históricas (Herodes, Archelaos).
 - **PEER-REVIEWED (lexicon)** — BDAG, *A Greek-English Lexicon of the New Testament*, 3ª ed.; HALOT, *The Hebrew and Aramaic Lexicon of the Old Testament*.
-- **PEER-REVIEWED (commentary)** â Davies, W.D. e Allison, D.C., *A Critical and Exegetical Commentary on the Gospel of Matthew* (ICC, 1988); Luz, U., *Matthew 1–7* (Hermeneia, 2007).
+- **PEER-REVIEWED (commentary)** — Davies, W.D. e Allison, D.C., *A Critical and Exegetical Commentary on the Gospel of Matthew* (ICC, 1988); Luz, U., *Matthew 1–7* (Hermeneia, 2007).
 
-> **Proveniência editorial:** Redigido por Claude Opus 4.6 (contexto 1M) em 2026-04-27. Ainda não revisado. Este arquivo é um recurso acadêmico provisório governado pela Regra 29 da TT. Referências cruzadas a genesis/PEOPLE.md vinculam a entradas existentes em vez de duplicar conteúdo.
+> **Proveniência editorial:** Rascunho assistido por IA, ainda não revisado. Este arquivo é um recurso acadêmico provisório governado pela Regra 29 da TT. Referências cruzadas à página Pessoas e Genealogia de Gênesis vinculam a entradas existentes em vez de duplicar conteúdo.

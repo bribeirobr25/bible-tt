@@ -33,12 +33,10 @@
 | BHS, 5. rev. Aufl. (Deutsche Bibelgesellschaft, 1997) | PRIMÄR | Parallele zu Numeri 21 |
 | Justin der Märtyrer, *Dialog mit Trypho* (Mitte 2. Jh. u.Z.) | PRIMÄR (patristisch) | Christliche Lesart |
 | Irenäus, *Gegen die Häresien* (um 180 u.Z.) | PRIMÄR (patristisch) | Christliche Lesart |
-| `content/de/john/study/CHAPTER-3-CONTEXT.md` §A6, §B2 | INTERN | Querverweis für vollständige lexikalische und historische Behandlung |
+
+Siehe auch: das Begleitmaterial zu Johannes 3 (Vertiefen), Abschnitte A6 und B2 — vollständige lexikalische und historische Behandlung.
 
 ---
 
 **Redaktionelle Herkunft:**
-- Verfasst von: Claude Opus 4.7 (KI-Assistent)
-- Datum: 2026-05-13
-- Phase: 11 Option C
-- Geprüft von: ausstehend
+- KI-gestützter Entwurf, noch nicht geprüft.

@@ -22,7 +22,7 @@
 - [Lectura Continua](#lectura-continua)
 - [Estudio Versículo por Versículo](#estudio-versículo-por-versículo)
 - [Glosario — 1 Pedro 2](#glosario--1-pedro-2)
-- [Seguimiento entre Capítulos (BH -> 1 Pedro)](#seguimiento-entre-capítulos-bh--1-pedro)
+- [Seguimiento entre Capítulos (BH → 1 Pedro)](#seguimiento-entre-capítulos-bh--1-pedro)
 
 ---
 
@@ -37,7 +37,7 @@
 
 Las notas se etiquetan por tipo — **Crítico · Léxico · Gramatical · Teológico** — cada una con su color (vea la leyenda en la parte superior de la vista de Notas).
 
-**El capítulo 2 pasa del nuevo nacimiento a la nueva identidad y conducta.** Desechen la malicia y anhelen la leche pura (vv.1-3); vengan a la piedra viva y sean edificados como casa espiritual, un sacerdocio santo — la **catena de la piedra viva** que entreteje Isaías 28:16, Salmo 118:22 e Isaías 8:14 (vv.4-8); ustedes son "una raza escogida, un sacerdocio real, una nación santa" (vv.9-10, Éxodo 19:6 / Oseas). Luego la conducta de los peregrinos: honorable entre las naciones (vv.11-12); sumisión a las autoridades humanas (vv.13-17); y el primer panel del **código doméstico** — los siervos domésticos y el Mesías sufriente como el patrón, enmarcado por Isaías 53 (vv.18-25). **Nota sobre la marcación del habla (Regla 30):** la única palabra divina en primera persona aquí está dentro de la cita de Isaías 28:16 (2:6, "he aquí, pongo en Sion…") — marcada @@…@@; las demás citas del AT (Sal 118:22; Isa 8:14; Sal 34:8; Isa 53) no son el habla de Dios en primera persona y no se marcan. **El código doméstico (2:18-25) es un pasaje de alta moderación** — la TT traduce el griego (los siervos domésticos se someten, el ejemplo del Mesías) y señala la historia interpretativa en las notas, sin importar nada (Regla 3; registro editorial P-009).
+**El capítulo 2 pasa del nuevo nacimiento a la nueva identidad y conducta.** Desechen la malicia y anhelen la leche pura (vv.1-3); vengan a la piedra viva y sean edificados como casa espiritual, un sacerdocio santo — la **catena de la piedra viva** que entreteje Isaías 28:16, Salmo 118:22 e Isaías 8:14 (vv.4-8); ustedes son "una raza escogida, un sacerdocio real, una nación santa" (vv.9-10, Éxodo 19:6 / Oseas). Luego la conducta de los peregrinos: honorable entre las naciones (vv.11-12); sumisión a las autoridades humanas (vv.13-17); y el primer panel del **código doméstico** — los siervos domésticos y el Mesías sufriente como el patrón, enmarcado por Isaías 53 (vv.18-25). **Nota sobre la marcación del habla (Regla 30):** la única palabra divina en primera persona aquí está dentro de la cita de Isaías 28:16 (2:6, "he aquí, pongo en Sion…") — no marcada, ya que Pedro la está citando ("está contenido en la Escritura"); las demás citas del AT (Sal 118:22; Isa 8:14; Sal 34:8; Isa 53) no son el habla de Dios en primera persona y no se marcan. **El código doméstico (2:18-25) es un pasaje de alta moderación** — la TT traduce el griego (los siervos domésticos se someten, el ejemplo del Mesías) y señala la historia interpretativa en las notas, sin importar nada (Regla 3).
 
 ---
 
@@ -47,7 +47,7 @@ Las notas se etiquetan por tipo — **Crítico · Léxico · Gramatical · Teol�
 
 **Temas clave:** El anhelo del recién nacido por la "pura leche espiritual"; la **piedra viva** y la comunidad como casa espiritual / sacerdocio santo; la triple catena de la piedra (piedra angular / piedra-rechazada-hecha-cabeza / piedra de tropiezo); la asombrosa transferencia de identidad — los títulos de Israel ("raza escogida, sacerdocio real, nación santa, pueblo para posesión," Éx 19:6) aplicados a los creyentes dispersos, con la reversión de Oseas ("no mi pueblo → mi pueblo"); la ética del exilio — la conducta honorable entre las naciones como testimonio; la sumisión a las autoridades gobernantes "por causa del Señor" dentro de la libertad; el primer panel del **código doméstico** (siervos) fundamentado no en una teoría social sino en el **Mesías sufriente** como *hypogrammos* (un modelo de escritura para calcar); el denso entretejido de **Isaías 53** (sin pecado, sin engaño, callado bajo el vituperio, llevó nuestros pecados, "por su herida fueron sanados"); el Mesías como **pastor y supervisor de las almas**.
 
-**Observe:** La catena de la piedra (vv.6-8) apila tres textos del AT — la TT mantiene cada uno reconocible. En 2:6 la cita es la palabra de Dios en primera persona ("pongo en Sion…") — marcada @@…@@. **2:8** — "tropiezan… como fueron destinados" (*etethēsan*) — lenguaje de elección/destino; la TT lo traduce sin resolverlo (Regla 13). **2:9-10** transfiere los títulos del pacto de Israel a la iglesia — traducido tal como lo tiene el griego, sin añadir glosa supersesionista (Regla 3). El **código doméstico comienza en 2:18** (*oiketai*, siervos domésticos) — un pasaje de alta moderación; traduce el griego, señala la historia, no importa nada (registro editorial P-009). 2:21 *hypogrammos* ("modelo de escritura/ejemplo") es una palabra rara y vívida. El entretejido de Isaías 53 (vv.22-25) es alusivo (no citado con fórmula) — el uso más denso del NT del cuarto Canto del Siervo.
+**Observe:** La catena de la piedra (vv.6-8) apila tres textos del AT — la TT mantiene cada uno reconocible. En 2:6 la cita es la palabra de Dios en primera persona ("pongo en Sion…") — citada por Pedro, así que no se marca (Regla 30). **2:8** — "tropiezan… como fueron destinados" (*etethēsan*) — lenguaje de elección/destino; la TT lo traduce sin resolverlo (Regla 13). **2:9-10** transfiere los títulos del pacto de Israel a la iglesia — traducido tal como lo tiene el griego, sin añadir glosa supersesionista (Regla 3). El **código doméstico comienza en 2:18** (*oiketai*, siervos domésticos) — un pasaje de alta moderación; traduce el griego, señala la historia, no importa nada. 2:21 *hypogrammos* ("modelo de escritura/ejemplo") es una palabra rara y vívida. El entretejido de Isaías 53 (vv.22-25) es alusivo (no citado con fórmula) — el uso más denso del NT del cuarto Canto del Siervo.
 
 **Conexión:** El capítulo es un tapiz de la Biblia Hebrea. "Gusten que el Señor es bueno" (2:3) cita el Salmo 34:8 (un salmo al que Pedro vuelve en 3:10-12). La catena de la piedra recurre a Isaías 28:16 (la piedra angular en Sion), Salmo 118:22 (la piedra rechazada) e Isaías 8:14 (la piedra de tropiezo) — los mismos textos de la piedra que los Evangelios aplican al Mesías (Mc 12:10 par.; Lc 20:17). Los títulos de identidad (2:9) reproducen Éxodo 19:6 ("un reino de sacerdotes y una nación santa") e Isaías 43:20-21 ("mi pueblo escogido… para mí"); "no un pueblo → pueblo de Dios" (2:10) es Oseas 1:9-10; 2:23. El retrato del siervo (2:22-25) es Isaías 53:9, 4-6, 12 — "llevó nuestros pecados," "por su herida sanados," "todos nosotros como ovejas nos descarriamos" — el Canto del Siervo ya resonado en Hechos 3 (el *pais*).
 
@@ -59,7 +59,7 @@ Las notas se etiquetan por tipo — **Crítico · Léxico · Gramatical · Teol�
 
 ---
 
-¹Por tanto, habiendo desechado toda malicia y todo engaño e hipocresías y envidias y todas las maledicencias, ²como niños recién nacidos, anhelen la pura {a:leche *de la* palabra/leche espiritual}, para que por ella crezcan hacia la salvación, ³si *en verdad* gustaron que el Señor *es* bueno. ⁴Viniendo a él, una piedra viva — rechazada por la gente pero escogida *y* preciosa ante Dios — ⁵ustedes mismos también, como piedras vivas, son edificados *como* casa espiritual en un sacerdocio santo, para ofrecer sacrificios espirituales aceptables a Dios por medio de Yeshua *el* Mesías (Jesús). ⁶Porque se contiene en la escritura: @@"He aquí, pongo en Sion (Tsiyon) una piedra, una piedra angular escogida *y* preciosa, y el *que* cree en él jamás será avergonzado."@@ ⁷A ustedes, pues, los que creen, *es* la preciosidad, pero a los que no creen, "*la* piedra que los edificadores rechazaron — esta *misma* llegó a ser *la* cabeza del ángulo," ⁸y "una piedra de tropiezo y una roca de escándalo"; *los* que tropiezan *en* la palabra, no creyendo — a lo cual también fueron destinados. ⁹Pero ustedes *son* una raza escogida, un sacerdocio real, una nación santa, un pueblo para *la* posesión *de Dios*, para que anuncien las excelencias de Aquel que los llamó de las tinieblas a su luz maravillosa; ¹⁰*ustedes* que en otro tiempo *no eran* pueblo pero ahora *son* pueblo de Dios, los *que* no habían recibido misericordia pero ahora han recibido misericordia.
+¹Por tanto, habiendo desechado toda malicia y todo engaño e hipocresías y envidias y todas las maledicencias, ²como niños recién nacidos, anhelen la pura {a:leche *de la* palabra/leche espiritual}, para que por ella crezcan hacia la salvación, ³si *en verdad* gustaron que el Señor *es* bueno. ⁴Viniendo a él, una piedra viva — rechazada por la gente pero escogida *y* preciosa ante Dios — ⁵ustedes mismos también, como piedras vivas, son edificados *como* casa espiritual en un sacerdocio santo, para ofrecer sacrificios espirituales aceptables a Dios por medio de Yeshua *el* Mesías (Jesús). ⁶Porque se contiene en la escritura: "He aquí, pongo en Sion (Tsiyon) una piedra, una piedra angular escogida *y* preciosa, y el *que* cree en él jamás será avergonzado." ⁷A ustedes, pues, los que creen, *es* la preciosidad, pero a los que no creen, "*la* piedra que los edificadores rechazaron — esta *misma* llegó a ser *la* cabeza del ángulo," ⁸y "una piedra de tropiezo y una roca de escándalo"; *los* que tropiezan *en* la palabra, no creyendo — a lo cual también fueron destinados. ⁹Pero ustedes *son* una raza escogida, un sacerdocio real, una nación santa, un pueblo para *la* posesión *de Dios*, para que anuncien las excelencias de Aquel que los llamó de las tinieblas a su luz maravillosa; ¹⁰*ustedes* que en otro tiempo *no eran* pueblo pero ahora *son* pueblo de Dios, los *que* no habían recibido misericordia pero ahora han recibido misericordia.
 
 ¹¹Amados, los exhorto como peregrinos y forasteros a abstenerse de los deseos carnales, los cuales batallan contra el alma, ¹²manteniendo su conducta entre las naciones honorable, para que, en *aquello* en que hablan contra ustedes como malhechores, al observar *sus* buenas obras glorifiquen a Dios en *el* día de la visitación. ¹³Sométanse a toda institución humana por causa del Señor — sea a un rey como supremo, ¹⁴o a gobernadores como *los* enviados por medio de él para *el* castigo de los malhechores y *la* alabanza de los que hacen el bien. ¹⁵Porque así es la voluntad de Dios: que haciendo el bien hagan callar la ignorancia de la gente insensata — ¹⁶como libres, y no teniendo la libertad como cobertura de la maldad, sino como siervos de Dios. ¹⁷Honren a todos, amen a la hermandad, teman a Dios, honren al rey.
 
@@ -126,12 +126,12 @@ ustedes mismos también, como piedras vivas, son edificados *como* casa espiritu
 
 ### **Versículo 6**
 
-Porque se contiene en la escritura: @@"He aquí, pongo en Sion (Tsiyon) una piedra, una piedra angular escogida *y* preciosa, y el *que* cree en él jamás será avergonzado."@@
+Porque se contiene en la escritura: "He aquí, pongo en Sion (Tsiyon) una piedra, una piedra angular escogida *y* preciosa, y el *que* cree en él jamás será avergonzado."
 
 > **Notas**
 >
-> 🔴 **CRÍTICO — ISAÍAS 28:16 (palabra divina en primera persona → marcada)**
-> - **ἰδοὺ τίθημι ἐν Σιὼν λίθον… ἀκρογωνιαῖον** (*idou tithēmi en Siōn lithon akrogōniaion*) = "He aquí, pongo en Sion una piedra… una piedra angular" (Isa 28:16 LXX). Esta es la **palabra de Dios en primera persona** ("pongo"), por lo que se marca **@@…@@** (Regla 30 / A-004). **ἀκρογωνιαῖος** = "piedra angular / piedra de remate." "Jamás será avergonzado" (*ou mē kataischynthē*) — la lectura de la LXX. Primera piedra de la catena. → PROFECÍA (Isa 28:16 → 1 Ped 2:6).
+> 🔴 **CRÍTICO — ISAÍAS 28:16 (palabra divina en primera persona, citada → no marcada)**
+> - **ἰδοὺ τίθημι ἐν Σιὼν λίθον… ἀκρογωνιαῖον** (*idou tithēmi en Siōn lithon akrogōniaion*) = "He aquí, pongo en Sion una piedra… una piedra angular" (Isa 28:16 LXX). Esta es la **palabra de Dios en primera persona** ("pongo"), pero Pedro la está citando ("está contenido en la Escritura"), así que no se marca (Regla 30). **ἀκρογωνιαῖος** = "piedra angular / piedra de remate." "Jamás será avergonzado" (*ou mē kataischynthē*) — la lectura de la LXX. Primera piedra de la catena. → PROFECÍA (Isa 28:16 → 1 Ped 2:6).
 
 ---
 
@@ -208,7 +208,7 @@ Sométanse a toda institución humana por causa del Señor — sea a un rey como
 > **Notas**
 >
 > 🔴 **CRÍTICO — "SOMÉTANSE… POR CAUSA DEL SEÑOR" (el código cívico)**
-> - **ὑποτάγητε πάσῃ ἀνθρωπίνῃ κτίσει διὰ τὸν κύριον** (*hypotagēte pasē anthrōpinē ktisei dia ton kyrion*) = "Sométanse a toda institución/creación humana por causa del Señor." **ὑποτάσσω** ("someterse/subordinarse") es el verbo del código doméstico (2:18; 3:1, 5); aquí aplicado al orden cívico. "**βασιλεύς** como supremo" = el emperador. Fundamentado "por causa del Señor," no en la autoridad intrínseca del Estado. → registro editorial P-009 (el campo-léxico de la sumisión).
+> - **ὑποτάγητε πάσῃ ἀνθρωπίνῃ κτίσει διὰ τὸν κύριον** (*hypotagēte pasē anthrōpinē ktisei dia ton kyrion*) = "Sométanse a toda institución/creación humana por causa del Señor." **ὑποτάσσω** ("someterse/subordinarse") es el verbo del código doméstico (2:18; 3:1, 5); aquí aplicado al orden cívico. "**βασιλεύς** como supremo" = el emperador. Fundamentado "por causa del Señor," no en la autoridad intrínseca del Estado.
 
 ---
 
@@ -262,8 +262,8 @@ Siervos domésticos, *estén* sometiéndose con todo temor a *sus* amos, no solo
 
 > **Notas**
 >
-> 🔴 **CRÍTICO — COMIENZA EL CÓDIGO DOMÉSTICO (*OIKETAI*) — alta moderación (P-009)**
-> - **οἱ οἰκέται, ὑποτασσόμενοι… τοῖς δεσπόταις** (*hoi oiketai, hypotassomenoi… tois despotais*) = "Siervos domésticos, *estén* sometiéndose… a *sus* amos." **οἰκέται** = esclavos/siervos domésticos (no los *douloi* generales). Esto abre el **código doméstico** (2:18–3:7), el pasaje de más alta moderación del libro. La TT traduce el griego — la sumisión, aun "a los perversos (**σκολιοῖς**)" — y **señala la historia interpretativa (la esclavitud antigua; la recepción moderna) en Nivel 2 y en el compañero, sin tomar posición en el texto principal** (Regla 3). La exhortación se dirige a los siervos como agentes morales, y el fundamento (vv.21-25) es el propio sufrimiento injusto del Mesías, no un respaldo de la institución. → registro editorial P-009; Compañero §F (historia de la recepción).
+> 🔴 **CRÍTICO — COMIENZA EL CÓDIGO DOMÉSTICO (*OIKETAI*) — alta moderación**
+> - **οἱ οἰκέται, ὑποτασσόμενοι… τοῖς δεσπόταις** (*hoi oiketai, hypotassomenoi… tois despotais*) = "Siervos domésticos, *estén* sometiéndose… a *sus* amos." **οἰκέται** = esclavos/siervos domésticos (no los *douloi* generales). Esto abre el **código doméstico** (2:18–3:7), el pasaje de más alta moderación del libro. La TT traduce el griego — la sumisión, aun "a los perversos (**σκολιοῖς**)" — y **señala la historia interpretativa (la esclavitud antigua; la recepción moderna) en las notas y en el compañero, sin tomar posición en el texto principal** (Regla 3). La exhortación se dirige a los siervos como agentes morales, y el fundamento (vv.21-25) es el propio sufrimiento injusto del Mesías, no un respaldo de la institución. → Compañero §F (historia de la recepción).
 
 ---
 
@@ -362,12 +362,12 @@ Porque andaban descarriados como ovejas, pero ahora han vuelto al pastor y super
 
 ---
 
-## SEGUIMIENTO ENTRE CAPÍTULOS (BH -> 1 Pedro)
+## SEGUIMIENTO ENTRE CAPÍTULOS (BH → 1 Pedro)
 
 | BH / fuente anterior | Tema | En 1 Pedro 2 |
 |---------------------|-------|--------------|
 | Sal 34:8 | "Gusten y vean que YHWH es bueno" | "gustaron que el Señor es bueno" (2:3; el salmo vuelve en 3:10-12). |
-| Isa 28:16 | La piedra angular escogida puesta en Sion | La palabra de Dios en primera persona, marcada (2:6). |
+| Isa 28:16 | La piedra angular escogida puesta en Sion | La palabra de Dios en primera persona, citada — no marcada (2:6). |
 | Sal 118:22 | "La piedra que los edificadores rechazaron… cabeza del ángulo" | La piedra rechazada-luego-vindicada, del Mesías (2:7). |
 | Isa 8:14 | "Una piedra de tropiezo, una roca de escándalo" | La piedra de tropiezo para los que no creen (2:8). |
 | Éx 19:6; Isa 43:20-21 | "Un reino de sacerdotes, una nación santa… mi pueblo escogido" | Los títulos transferidos a los creyentes (2:9). |

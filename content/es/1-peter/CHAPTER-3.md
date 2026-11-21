@@ -22,7 +22,7 @@
 - [Lectura Continua](#lectura-continua)
 - [Estudio Versículo por Versículo](#estudio-versículo-por-versículo)
 - [Glosario — 1 Pedro 3](#glosario---1-pedro-3)
-- [Seguimiento entre Capítulos (BH -> 1 Pedro)](#seguimiento-entre-capítulos-bh--1-pedro)
+- [Seguimiento entre Capítulos (BH → 1 Pedro)](#seguimiento-entre-capítulos-bh--1-pedro)
 
 ---
 
@@ -37,7 +37,7 @@
 
 Las notas se etiquetan por tipo — **Crítico · Léxico · Gramatical · Teológico** — cada una con su color (vea la leyenda en la parte superior de la vista de Notas).
 
-**Este es el capítulo de mayor carga interpretativa de la carta.** Completa el **código doméstico** con esposas y esposos (vv.1-7) — un pasaje de alta cautela — luego se vuelve a la conducta de todos (vv.8-12, cerrando con el Salmo 34), al sufrimiento por la justicia y al "siempre listos para una defensa" (vv.13-17), y finalmente al **párrafo más debatido de la carta**: el sufrimiento del Mesías, su ser "vivificado en espíritu," su proclamación "a los espíritus en prisión," el arca de Noé, y el bautismo como antitipo (vv.18-22). **Nota sobre la marcación del habla (Regla 30):** aquí no hay habla divina narrada; la cita del Salmo 34 (vv.10-12) es la voz del salmista, no la primera persona de Dios — sin marcar. **Pasajes de alta cautela** (el código doméstico vv.1-7; los espíritus-en-prisión vv.19-20; el bautismo v.21): la TT traduce el griego y señala las opciones interpretativas en el Nivel 2, sin resolver ninguna (Regla 3; registro editorial P-006, P-007, P-009). Nombres: Sarah (Sara), Abraham, Noach (Noé).
+**Este es el capítulo de mayor carga interpretativa de la carta.** Completa el **código doméstico** con esposas y esposos (vv.1-7) — un pasaje de alta cautela — luego se vuelve a la conducta de todos (vv.8-12, cerrando con el Salmo 34), al sufrimiento por la justicia y al "siempre listos para una defensa" (vv.13-17), y finalmente al **párrafo más debatido de la carta**: el sufrimiento del Mesías, su ser "vivificado en espíritu," su proclamación "a los espíritus en prisión," el arca de Noé, y el bautismo como antitipo (vv.18-22). **Nota sobre la marcación del habla (Regla 30):** aquí no hay habla divina narrada; la cita del Salmo 34 (vv.10-12) es la voz del salmista, no la primera persona de Dios — sin marcar. **Pasajes de alta cautela** (el código doméstico vv.1-7; los espíritus-en-prisión vv.19-20; el bautismo v.21): la TT traduce el griego y señala las opciones interpretativas en las notas, sin resolver ninguna (Regla 3). Nombres: Sarah (Sara), Abraham, Noach (Noé).
 
 ---
 
@@ -47,7 +47,7 @@ Las notas se etiquetan por tipo — **Crítico · Léxico · Gramatical · Teol�
 
 **Temas clave:** El segundo panel del **código doméstico** (esposas/esposos) — ganados "sin palabra" por la conducta; "la persona oculta del corazón" por encima del adorno exterior; Sara como ejemplar; los esposos honrando a las esposas como "coherederas de la gracia de vida" (una notable afirmación de dignidad dentro del código); la ética de la **no retaliación** ("no mal por mal… sino bendigan"), fundamentada en el Salmo 34; el sufrimiento por la justicia como bienaventuranza; "santifiquen al Mesías como Señor" (Isaías 8:13 reaplicado a Cristo); la **apologia** — la disposición a dar la razón de la esperanza con mansedumbre y reverencia; y los densos y debatidos **vv.18-22**: el sufrimiento del justo por los injustos de una vez por todas; la antítesis carne/espíritu; la **proclamación a los espíritus en prisión**; **el arca de Noé y las ocho almas salvadas a través del agua**; **el bautismo como antitipo** ("no la remoción de suciedad sino una apelación de una buena conciencia"); la exaltación del Mesías sobre todas las potencias.
 
-**Observe:** El **código doméstico (vv.1-7)** es un pasaje de alta cautela — la TT traduce el griego (las esposas se someten; "vaso más débil"; Sara "llamándolo señor") y señala la historia de recepción en las notas, sin tomar posición (Regla 3; P-009). Note la **mutualidad** que el código ya lleva: los esposos honran a las esposas como "coherederas," "para que sus oraciones no sean estorbadas." **3:15** "santifiquen al Mesías como Señor" reaplica Isaías 8:13 ("YHWH de los ejércitos… santifíquenlo") al Mesías — un cambio-de-referente de κύριος, señalado. **Vv.18-22** son el centro de tormenta exegético de la carta: el dativo **πνεύματι** (3:18, "en/por espíritu") es el nudo carne/espíritu; **"los espíritus en prisión"** (3:19) admite varias lecturas (los muertos de los días de Noé / los ángeles desobedientes de Génesis 6 / una proclamación de descenso) — la TT traduce literalmente y no resuelve ninguna (P-006); **el bautismo "ahora los salva… como antitipo"** (3:21) con "apelación/promesa de una buena conciencia" se traduce sin importar una teología sacramental (P-007). La cita del Salmo 34 (vv.10-12) es la voz del salmista — sin marcar; *kyrios* allí = YHWH (Opción C).
+**Observe:** El **código doméstico (vv.1-7)** es un pasaje de alta cautela — la TT traduce el griego (las esposas se someten; "vaso más débil"; Sara "llamándolo señor") y señala la historia de recepción en las notas, sin tomar posición (Regla 3). Note la **mutualidad** que el código ya lleva: los esposos honran a las esposas como "coherederas," "para que sus oraciones no sean estorbadas." **3:15** "santifiquen al Mesías como Señor" reaplica Isaías 8:13 ("YHWH de los ejércitos… santifíquenlo") al Mesías — un cambio-de-referente de κύριος, señalado. **Vv.18-22** son el centro de tormenta exegético de la carta: el dativo **πνεύματι** (3:18, "en/por espíritu") es el nudo carne/espíritu; **"los espíritus en prisión"** (3:19) admite varias lecturas (los muertos de los días de Noé / los ángeles desobedientes de Génesis 6 / una proclamación de descenso) — la TT traduce literalmente y no resuelve ninguna; **el bautismo "ahora los salva… como antitipo"** (3:21) con "apelación/promesa de una buena conciencia" se traduce sin importar una teología sacramental. La cita del Salmo 34 (vv.10-12) es la voz del salmista — sin marcar; *kyrios* allí = YHWH (Opción C).
 
 **Conexión:** Sara y Abraham (vv.5-6) se nutren del Génesis (18:12, la deferencia de Sara); "no temer ningún terror" hace eco de Proverbios 3:25. La ética de no retaliación y el Salmo 34:12-16 (vv.10-12) extienden el hilo del Salmo 34 iniciado en 2:3. "No teman su temor… santifiquen [al Señor]" (vv.14-15) cita Isaías 8:12-13 — donde "YHWH de los ejércitos" es el que ha de ser santificado, aquí reaplicado al Mesías. Los espíritus-en-prisión y el arca (vv.19-20) se nutren de Génesis 6-8 (el diluvio, los ocho en el arca) y de la tradición enóquica del Segundo Templo de los "vigilantes" encarcelados (1 Enoc). El bautismo "a través del agua" como antitipo del diluvio (v.21) lee el diluvio tipológicamente. La exaltación "a la derecha de Dios" con las potencias sujetadas (v.22) hace eco del Salmo 110:1 (el versículo de la BH más citado, como en Hechos 2).
 
@@ -77,8 +77,8 @@ Igualmente, esposas, *estén* sometiéndose a sus propios esposos, para que aun 
 
 > **Notas**
 >
-> 🔴 **CRÍTICO — EL CÓDIGO DOMÉSTICO: ESPOSAS (alta cautela, P-009)**
-> - **γυναῖκες, ὑποτασσόμεναι τοῖς ἰδίοις ἀνδράσιν** (*gynaikes, hypotassomenai tois idiois andrasin*) = "esposas, *estén* sometiéndose a sus propios esposos." "**Igualmente** (*homoiōs*)" enlaza con los siervos de 2:18 — el segundo panel del código doméstico. El objetivo pastoral es misionero: un esposo "**incrédulo**" (uno que "desobedece la palabra") "puede ser ganado (**κερδηθήσονται**) **sin palabra**" — por la conducta (*anastrophē*) de la esposa, no por el argumento. La TT traduce el griego y **señala la historia interpretativa en el Nivel 2 / el compañero, sin tomar posición** (Regla 3). → registro editorial P-009; Compañero §F (recepción).
+> 🔴 **CRÍTICO — EL CÓDIGO DOMÉSTICO: ESPOSAS (alta cautela)**
+> - **γυναῖκες, ὑποτασσόμεναι τοῖς ἰδίοις ἀνδράσιν** (*gynaikes, hypotassomenai tois idiois andrasin*) = "esposas, *estén* sometiéndose a sus propios esposos." "**Igualmente** (*homoiōs*)" enlaza con los siervos de 2:18 — el segundo panel del código doméstico. El objetivo pastoral es misionero: un esposo "**incrédulo**" (uno que "desobedece la palabra") "puede ser ganado (**κερδηθήσονται**) **sin palabra**" — por la conducta (*anastrophē*) de la esposa, no por el argumento. La TT traduce el griego y **señala la historia interpretativa en las notas / el compañero, sin tomar posición** (Regla 3). → Compañero §F (recepción).
 
 ---
 
@@ -143,8 +143,8 @@ Esposos, igualmente, conviviendo *con ellas* según conocimiento, como con un va
 
 > **Notas**
 >
-> 🔴 **CRÍTICO — ESPOSOS: "VASO MÁS DÉBIL" + "COHEREDERAS" (P-009)**
-> - **ὡς ἀσθενεστέρῳ σκεύει τῷ γυναικείῳ, ἀπονέμοντες τιμήν** = "como con un **vaso más débil** — el femenino — asignando **honra**." El código se dirige también a los esposos: convivir "según conocimiento (**κατὰ γνῶσιν**)," asignar honra, reconociendo a la esposa como una **coheredera (συγκληρονόμος) de la gracia de vida** — una notable afirmación de dignidad-e-igualdad *dentro* del código. "**Vaso más débil**" (*asthenesteron skeuos*) se traduce literalmente (probablemente situado social/físicamente, no una afirmación de valor — la misma oración la llama coheredera); la historia interpretativa se señala, sin tomar posición (Regla 3, P-009). La sanción es severa: **"para que sus oraciones no sean estorbadas (**ἐγκόπτεσθαι**)."** → registro editorial P-009; Compañero §F.
+> 🔴 **CRÍTICO — ESPOSOS: "VASO MÁS DÉBIL" + "COHEREDERAS"**
+> - **ὡς ἀσθενεστέρῳ σκεύει τῷ γυναικείῳ, ἀπονέμοντες τιμήν** = "como con un **vaso más débil** — el femenino — asignando **honra**." El código se dirige también a los esposos: convivir "según conocimiento (**κατὰ γνῶσιν**)," asignar honra, reconociendo a la esposa como una **coheredera (συγκληρονόμος) de la gracia de vida** — una notable afirmación de dignidad-e-igualdad *dentro* del código. "**Vaso más débil**" (*asthenesteron skeuos*) se traduce literalmente (probablemente situado social/físicamente, no una afirmación de valor — la misma oración la llama coheredera); la historia interpretativa se señala, sin tomar posición (Regla 3). La sanción es severa: **"para que sus oraciones no sean estorbadas (**ἐγκόπτεσθαι**)."** → Compañero §F.
 
 ---
 
@@ -232,7 +232,7 @@ sino santifiquen *al* Mesías como Señor en sus corazones, *estando* siempre li
 > **Notas**
 >
 > 🔴 **CRÍTICO — ISAÍAS 8:13 REAPLICADO + LA *APOLOGIA***
-> - **κύριον δὲ τὸν Χριστὸν ἁγιάσατε** (*kyrion de ton Christon hagiasate*) = "santifiquen *al* Mesías **como Señor**." Isaías 8:13 dice "**YHWH de los ejércitos**, **a él** santificarán"; 1 Pedro sustituye "al Mesías" por el objeto — un **cambio-de-referente de κύριος** que aplica un texto-YHWH a Cristo (Regla 13 + Nivel 2; cf. el mismo movimiento en Hechos 2:36). **ἀπολογία** (*apologia*) = "defensa, respuesta razonada" (de resonancia legal) — los lectores están "**siempre listos**" para dar la **razón** de su **esperanza** (*elpis*), el origen del término "apologética." → Compañero §A; PROFECÍA (Is 8:12-13 → 1 Pe 3:14-15).
+> - **κύριον δὲ τὸν Χριστὸν ἁγιάσατε** (*kyrion de ton Christon hagiasate*) = "santifiquen *al* Mesías **como Señor**." Isaías 8:13 dice "**YHWH de los ejércitos**, **a él** santificarán"; 1 Pedro sustituye "al Mesías" por el objeto — un **cambio-de-referente de κύριος** que aplica un texto-YHWH a Cristo (Regla 13; cf. el mismo movimiento en Hechos 2:36). **ἀπολογία** (*apologia*) = "defensa, respuesta razonada" (de resonancia legal) — los lectores están "**siempre listos**" para dar la **razón** de su **esperanza** (*elpis*), el origen del término "apologética." → Compañero §A; PROFECÍA (Is 8:12-13 → 1 Pe 3:14-15).
 
 ---
 
@@ -264,8 +264,8 @@ Porque *el* Mesías también sufrió una vez por *los* pecados, *el* justo por *
 
 > **Notas**
 >
-> 🔴 **CRÍTICO — "UNA VEZ POR LOS PECADOS… MUERTO EN CARNE, VIVIFICADO EN ESPÍRITU" (el nudo se abre, P-006)**
-> - **ἅπαξ περὶ ἁμαρτιῶν ἔπαθεν, δίκαιος ὑπὲρ ἀδίκων** = "sufrió **una vez** (*hapax*) por *los* pecados, *el* justo por *los* injustos" — el sufrimiento vicario, de una vez por todas (cf. 2:24; Is 53). El nudo es el par paralelo de dativos anártricos: **θανατωθεὶς μὲν σαρκὶ ζῳοποιηθεὶς δὲ πνεύματι** = "muerto **en carne** (*sarki*) pero vivificado **en espíritu** (*pneumati*)." Leído como esferas ("en la carne / en el espíritu") o como agencia ("por el Espíritu"); la TT conserva la barra {a:viento/espíritu} y el paralelo carne/espíritu, **sin resolver ninguno** (Regla 13). → registro editorial P-006; Compañero §A.
+> 🔴 **CRÍTICO — "UNA VEZ POR LOS PECADOS… MUERTO EN CARNE, VIVIFICADO EN ESPÍRITU" (el nudo se abre)**
+> - **ἅπαξ περὶ ἁμαρτιῶν ἔπαθεν, δίκαιος ὑπὲρ ἀδίκων** = "sufrió **una vez** (*hapax*) por *los* pecados, *el* justo por *los* injustos" — el sufrimiento vicario, de una vez por todas (cf. 2:24; Is 53). El nudo es el par paralelo de dativos anártricos: **θανατωθεὶς μὲν σαρκὶ ζῳοποιηθεὶς δὲ πνεύματι** = "muerto **en carne** (*sarki*) pero vivificado **en espíritu** (*pneumati*)." Leído como esferas ("en la carne / en el espíritu") o como agencia ("por el Espíritu"); la TT conserva la barra {a:viento/espíritu} y el paralelo carne/espíritu, **sin resolver ninguno** (Regla 13). → Compañero §A.
 
 ---
 
@@ -275,8 +275,8 @@ en lo cual también, habiendo ido, proclamó a los espíritus en prisión,
 
 > **Notas**
 >
-> 🔴 **CRÍTICO — "PROCLAMÓ A LOS ESPÍRITUS EN PRISIÓN" (el nudo del descenso, P-006)**
-> - **ἐν ᾧ καὶ τοῖς ἐν φυλακῇ πνεύμασιν πορευθεὶς ἐκήρυξεν** = "en lo cual también, habiendo ido, proclamó (*ekēryxen*) a los **espíritus en prisión**." La cláusula más debatida de la carta. Lecturas principales: (a) los **muertos desobedientes de la generación de Noé** (v.20); (b) los **ángeles/"vigilantes" desobedientes de Génesis 6** encarcelados (la tradición enóquica, 1 Enoc 6-21; cf. 2 Pe 2:4; Judas 6); (c) el **Cristo preexistente** predicando por medio de Noé. "Espíritus" (*pneumata*) = los seres encarcelados (sin sentido de "viento" — traducido simple "espíritus," no la barra). *Ekēryxen* ("proclamó/heraldó") no especifica el contenido (buenas nuevas vs. juicio). La TT traduce literalmente y **no resuelve ninguna** (Regla 13, Regla 3). → registro editorial P-006; Compañero §A; §F (recepción: el "descenso a los infiernos").
+> 🔴 **CRÍTICO — "PROCLAMÓ A LOS ESPÍRITUS EN PRISIÓN" (el nudo del descenso)**
+> - **ἐν ᾧ καὶ τοῖς ἐν φυλακῇ πνεύμασιν πορευθεὶς ἐκήρυξεν** = "en lo cual también, habiendo ido, proclamó (*ekēryxen*) a los **espíritus en prisión**." La cláusula más debatida de la carta. Lecturas principales: (a) los **muertos desobedientes de la generación de Noé** (v.20); (b) los **ángeles/"vigilantes" desobedientes de Génesis 6** encarcelados (la tradición enóquica, 1 Enoc 6-21; cf. 2 Pe 2:4; Judas 6); (c) el **Cristo preexistente** predicando por medio de Noé. "Espíritus" (*pneumata*) = los seres encarcelados (sin sentido de "viento" — traducido simple "espíritus," no la barra). *Ekēryxen* ("proclamó/heraldó") no especifica el contenido (buenas nuevas vs. juicio). La TT traduce literalmente y **no resuelve ninguna** (Regla 13, Regla 3). → Compañero §A; §F (recepción: el "descenso a los infiernos").
 
 ---
 
@@ -297,8 +297,8 @@ La cual también, *como* antitipo, ahora los salva — inmersión, no una remoci
 
 > **Notas**
 >
-> 🔴 **CRÍTICO — EL BAUTISMO "AHORA LOS SALVA… COMO ANTITIPO" (P-007)**
-> - **ὃ… ἀντίτυπον νῦν σῴζει βάπτισμα** = "La cual también, *como* **antitipo** (*antitypon*), ahora los salva — **inmersión** (*baptisma*)." El agua del diluvio es el tipo; el bautismo el antitipo. El versículo inmediatamente matiza: **οὐ σαρκὸς ἀπόθεσις ῥύπου ἀλλὰ συνειδήσεως ἀγαθῆς ἐπερώτημα εἰς θεόν** = "no una remoción de suciedad de *la* carne sino una **apelación/promesa** (*eperōtēma*) de una buena conciencia hacia Dios." *Eperōtēma* es debatido ("apelación/petición" vs. "promesa/respuesta" — un término de fórmula bautismal); la TT traduce "apelación" y nota la opción. El salvar es **"mediante *la* resurrección"** — no el agua misma. Traducido sin importar una teología sacramental (Regla 3). → registro editorial P-007; Compañero §A.
+> 🔴 **CRÍTICO — EL BAUTISMO "AHORA LOS SALVA… COMO ANTITIPO"**
+> - **ὃ… ἀντίτυπον νῦν σῴζει βάπτισμα** = "La cual también, *como* **antitipo** (*antitypon*), ahora los salva — **inmersión** (*baptisma*)." El agua del diluvio es el tipo; el bautismo el antitipo. El versículo inmediatamente matiza: **οὐ σαρκὸς ἀπόθεσις ῥύπου ἀλλὰ συνειδήσεως ἀγαθῆς ἐπερώτημα εἰς θεόν** = "no una remoción de suciedad de *la* carne sino una **apelación/promesa** (*eperōtēma*) de una buena conciencia hacia Dios." *Eperōtēma* es debatido ("apelación/petición" vs. "promesa/respuesta" — un término de fórmula bautismal); la TT traduce "apelación" y nota la opción. El salvar es **"mediante *la* resurrección"** — no el agua misma. Traducido sin importar una teología sacramental (Regla 3). → Compañero §A.
 
 ---
 
@@ -331,7 +331,7 @@ quien está a *la* derecha de Dios, habiendo ido al cielo, *con* ángeles y auto
 
 ---
 
-## SEGUIMIENTO ENTRE CAPÍTULOS (BH -> 1 PEDRO)
+## SEGUIMIENTO ENTRE CAPÍTULOS (BH → 1 PEDRO)
 
 | BH / fuente anterior | Tema | En 1 Pedro 3 |
 |---------------------|-------|--------------|

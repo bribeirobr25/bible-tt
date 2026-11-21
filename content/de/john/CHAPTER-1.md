@@ -36,7 +36,7 @@
 
 Notizen sind nach Typ gekennzeichnet — **Kritisch · Lexikalisch · Grammatisch · Theologisch** — jeweils mit ihrer Farbe (siehe die Legende oben in der Notizen-Ansicht).
 
-**Dies ist das erste Kapitel der Griechischen Schriften im TT-Projekt.** Der Prolog (1,1–18) gehört zu den theologisch dichtesten Abschnitten der Griechischen Schriften. Der Begriff *logos* („Wort") trägt ein Bedeutungsspektrum, das weit über jedes einzelne deutsche Wort hinausgeht. Die TT gibt ihn als „Wort" (Kleinschreibung) wieder, mit einer kritischen Notiz bei V.1 zum Bedeutungsspektrum. Eigennamen folgen der TT-Transliteration: Yochanan (Johannes), Yeshua (Jesus), Kefa (Petrus), Philippos (Philippus), Nathanael, Andreas. Das Verbaspekt-System unterscheidet sich vom hebräischen Tempussystem in Genesis — im Griechischen ist der Aspekt (wie der Sprecher die Handlung betrachtet) primär, nicht die Zeit.
+**Dies ist das erste Kapitel der Griechischen Schriften im TT-Projekt.** Der Prolog (1,1–18) gehört zu den theologisch dichtesten Abschnitten der Griechischen Schriften. Der Begriff *logos* („Wort") trägt ein Bedeutungsspektrum, das weit über jedes einzelne deutsche Wort hinausgeht. Die TT gibt ihn als „Wort" (Kleinschreibung) wieder, mit einer kritischen Notiz bei V.1 zum Bedeutungsspektrum. Namen erscheinen in der vertrauten Form; die ursprachliche Form steht einmal pro Abschnitt — z. B. Yochanan (Johannes). Das Verbaspekt-System unterscheidet sich vom hebräischen Tempussystem in Genesis — im Griechischen ist der Aspekt (wie der Sprecher die Handlung betrachtet) primär, nicht die Zeit.
 
 ---
 
@@ -64,7 +64,7 @@ Notizen sind nach Typ gekennzeichnet — **Kritisch · Lexikalisch · Grammatisc
 
 ¹⁴Und das Wort wurde Fleisch und wohnte unter uns, und wir sahen seine Herrlichkeit — Herrlichkeit wie eines Einziggeborenen von einem Vater — voll {a:Gnade/Gunst} und Wahrheit. ¹⁵Johannes legt Zeugnis ab über ihn und hat ausgerufen und gesagt: „Dieser war es, von dem ich sagte: ‚Der nach mir Kommende ist vor mir geworden, denn er war eher als ich.'" ¹⁶Denn aus seiner Fülle haben wir alle empfangen, und *zwar* {a:Gnade/Gunst} um {a:Gnade/Gunst}. ¹⁷Denn das Gesetz wurde durch Mosheh (Mose) gegeben; die {a:Gnade/Gunst} und die Wahrheit kamen durch Yeshua (Jesus), den Gesalbten, ins Dasein. ¹⁸Gott hat niemand je gesehen; der einzig-geborene Gott, der im Schoß des Vaters ist — der hat *ihn* kundgetan.
 
-¹⁹Und dies ist das Zeugnis Johannes', als die Yehudim Priester und Leviten aus Yerushalayim (Jerusalem) sandten, um ihn zu fragen: „Wer bist du?" ²⁰Und er bekannte und leugnete nicht, und er bekannte: „Ich bin nicht der Gesalbte." ²¹Und sie fragten ihn: „Was dann? Bist du Eliyahu (Elia)?" Und er sagt: „Ich bin es nicht." „Bist du der Prophet?" Und er antwortete: „Nein." ²²Da sagten sie zu ihm: „Wer bist du? — damit wir denen Antwort geben können, die uns gesandt haben. Was sagst du über dich selbst?" ²³Er sagte: „Ich *bin* eine Stimme, die in der Wüste ruft: ‚Macht gerade den Weg des Herrn'" — wie der Prophet Yeshayahu (Jesaja) sagte.
+¹⁹Und dies ist das Zeugnis Johannes', als die Jehudim Priester und Leviten aus Yerushalayim (Jerusalem) sandten, um ihn zu fragen: „Wer bist du?" ²⁰Und er bekannte und leugnete nicht, und er bekannte: „Ich bin nicht der Gesalbte." ²¹Und sie fragten ihn: „Was dann? Bist du Eliyahu (Elia)?" Und er sagt: „Ich bin es nicht." „Bist du der Prophet?" Und er antwortete: „Nein." ²²Da sagten sie zu ihm: „Wer bist du? — damit wir denen Antwort geben können, die uns gesandt haben. Was sagst du über dich selbst?" ²³Er sagte: „Ich *bin* eine Stimme, die in der Wüste ruft: ‚Macht gerade den Weg des Herrn'" — wie der Prophet Yeshayahu (Jesaja) sagte.
 
 ²⁴Und die Gesandten waren von den Pharisäer. ²⁵Und sie fragten ihn und sagten zu ihm: „Warum tauchst du dann unter, wenn du nicht der Gesalbte bist, noch Elia, noch der Prophet?" ²⁶Johannes antwortete ihnen und sagte: „Ich tauche in Wasser unter; in eurer Mitte steht einer, den ihr nicht kennt — ²⁷der nach mir Kommende, dem die Riemen seiner Sandale zu lösen ich nicht würdig bin." ²⁸Dies geschah in Beyt-Anyah (Bethanien) jenseits des Yarden (Jordan), wo Johannes untertauchte.
 
@@ -342,12 +342,12 @@ Gott hat niemand je gesehen; der einzig-geborene Gott, der im Schoß des Vaters 
 
 ### **Vers 19**
 
-Und dies ist das Zeugnis Johannes', als die Yehudim Priester und Leviten aus Yerushalayim (Jerusalem) sandten, um ihn zu fragen: „Wer bist du?"
+Und dies ist das Zeugnis Johannes', als die Jehudim Priester und Leviten aus Yerushalayim (Jerusalem) sandten, um ihn zu fragen: „Wer bist du?"
 
 > **NOTIZEN**
 >
 > 🔴 **KRITISCH — *HOI IOUDAIOI* („DIE YEHUDIM")**
-> - **οἱ Ἰουδαῖοι** (*hoi Ioudaioi*) = wörtlich „die Judäer" — im Johannesevangelium mehrdeutig: (1) ethnisch/geographisch, (2) religiöse Autoritäten Judäas, (3) allgemeiner „das jüdische Volk." Die TT gibt „die Yehudim" transliteriert wieder, um die Ambiguität zu bewahren; der Kontext muss den Bezug je Vers bestimmen. Für ausführlichere Diskussion des Begriffs und seiner Forschungsgeschichte im Johannesevangelium siehe Begleitmaterial Abschnitt D.
+> - **οἱ Ἰουδαῖοι** (*hoi Ioudaioi*) = wörtlich „die Judäer" — im Johannesevangelium mehrdeutig: (1) ethnisch/geographisch, (2) religiöse Autoritäten Judäas, (3) allgemeiner „das jüdische Volk." Die TT gibt „die Jehudim" transliteriert wieder, um die Ambiguität zu bewahren; der Kontext muss den Bezug je Vers bestimmen. Für ausführlichere Diskussion des Begriffs und seiner Forschungsgeschichte im Johannesevangelium siehe Begleitmaterial Abschnitt D.
 >
 > 🟢 **YERUSHALAYIM — TT-TRANSLITERATION**
 > - **Ἱεροσόλυμα** (*Hierosolyma*) = griechische Form des hebräischen יְרוּשָׁלַיִם (*Jerusalem*). Die TT gibt die hebräische Form wieder.

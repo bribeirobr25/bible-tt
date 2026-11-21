@@ -84,7 +84,7 @@ Diese Datei enthält biografische und genealogische Informationen über Personen
 **Herkunft:** Sohn Yishais (Isai) aus Bethlehem, Stamm Juda
 **Erstnennung in Matthäus:** 1,1
 **In Matthäus:** In der Überschrift der Genealogie (1,1 — „Sohn Davids"), in 1,6 als der König, der Salomo zeugte durch die Frau des Uriyah, und in 1,17 als struktureller Dreh- und Angelpunkt der Genealogie (Abraham bis David = 14 Geschlechter; David bis Deportation = 14; Deportation bis zum Gesalbten = 14). „Sohn Davids" wird zum wiederkehrenden messianischen Titel im gesamten Matthäus (9,27; 12,23; 15,22; 20,30-31; 21,9.15; 22,42).
-**Querverweis:** Vollständiger Eintrag wird in samuel/PEOPLE.md oder kings/PEOPLE.md erscheinen, wenn diese Bücher übersetzt werden.
+**Querverweis:** Vollständiger Eintrag wird auf der Seite Personen und Genealogie zu Samuel oder zu Könige erscheinen, wenn diese Bücher übersetzt werden.
 
 ---
 
@@ -93,7 +93,7 @@ Diese Datei enthält biografische und genealogische Informationen über Personen
 **Herkunft:** Sohn Davids und Bat-Shevas (2 Sam 12,24)
 **Erstnennung in Matthäus:** 1,6-7
 **In Matthäus:** In der Genealogie (1,6-7) als Sohn Davids (durch die Frau des Uriyah) und Vater Rechav'ams (Rehabeam) genannt. Durch Salomo setzt sich die königliche Linie bis zur babylonischen Deportation fort.
-**Querverweis:** Vollständiger Eintrag wird in kings/PEOPLE.md erscheinen, wenn dieses Buch übersetzt wird.
+**Querverweis:** Vollständiger Eintrag wird auf der Seite Personen und Genealogie zu Könige erscheinen, wenn dieses Buch übersetzt wird.
 
 ---
 
@@ -212,7 +212,7 @@ Diese Datei enthält biografische und genealogische Informationen über Personen
 **Ort(e):** Jerusalem (2,1.3.7)
 **Erstnennung:** Mt 2,1
 **Erwähnt in:** Mt 2,1.3.7.12.13.15.16.19.22
-**Schlüsselereignisse in Matthäus 1-3:** Regierte als König, als Jesus in Bethlehem geboren wurde (2,1); beunruhigt durch den Bericht der Magoi über einen neugeborenen „König der Yehudim" (2,2-3); versammelte Hohepriester und Schriftgelehrte, um den Geburtsort des Gesalbten zu erfahren (2,4); rief die Magoi heimlich und sandte sie nach Bethlehem (2,7-8); wütend, als die Magoi nicht zurückkehrten, befahl die Tötung aller männlichen Kinder in Bethlehem von zwei Jahren und darunter (2,16); starb (2,19) — Josef wurde dann angewiesen zurückzukehren
+**Schlüsselereignisse in Matthäus 1-3:** Regierte als König, als Jesus in Bethlehem geboren wurde (2,1); beunruhigt durch den Bericht der Magoi über einen neugeborenen „König der Jehudim" (2,2-3); versammelte Hohepriester und Schriftgelehrte, um den Geburtsort des Gesalbten zu erfahren (2,4); rief die Magoi heimlich und sandte sie nach Bethlehem (2,7-8); wütend, als die Magoi nicht zurückkehrten, befahl die Tötung aller männlichen Kinder in Bethlehem von zwei Jahren und darunter (2,16); starb (2,19) — Josef wurde dann angewiesen zurückzukehren
 
 **Vertrauter Name:** Herodes (der Große)
 **Beruf:** König / Klientelherrscher Judäas unter römischer Oberhoheit
@@ -275,6 +275,6 @@ Diese Datei enthält biografische und genealogische Informationen über Personen
 - **PRIMARY** — Biblia Hebraica Stuttgartensia (BHS), 5. Aufl. (Deutsche Bibelgesellschaft, 1997). Verwendet für AT-Zitate und Namensetymologien.
 - **PRIMARY** — Josephus, *Antiquitates Judaicae* (AJ) und *Bellum Judaicum* (BJ), hrsg. Niese. Verwendet für historische Personen (Herodes, Archelaos).
 - **PEER-REVIEWED (lexicon)** — BDAG, *A Greek-English Lexicon of the New Testament*, 3. Aufl.; HALOT, *The Hebrew and Aramaic Lexicon of the Old Testament*.
-- **PEER-REVIEWED (commentary)** â Davies, W.D. und Allison, D.C., *A Critical and Exegetical Commentary on the Gospel of Matthew* (ICC, 1988); Luz, U., *Das Evangelium nach MatthÃ¤us 1–7* (EKK, 1985).
+- **PEER-REVIEWED (commentary)** — Davies, W.D. und Allison, D.C., *A Critical and Exegetical Commentary on the Gospel of Matthew* (ICC, 1988); Luz, U., *Das Evangelium nach Matthäus 1–7* (EKK, 1985).
 
-> **Redaktionelle Herkunft:** Entworfen von Claude Opus 4.6 (1M Kontext) am 2026-04-27. Noch nicht begutachtet. Diese Datei ist eine provisorische wissenschaftliche Ressource, geregelt durch TT-Regel 29. Querverweise auf genesis/PEOPLE.md verlinken zu bestehenden Einträgen, statt Inhalte zu duplizieren.
+> **Redaktionelle Herkunft:** KI-gestützter Entwurf, noch nicht geprüft. Diese Datei ist eine provisorische wissenschaftliche Ressource, geregelt durch TT-Regel 29. Querverweise auf die Seite Personen und Genealogie zu Genesis verlinken zu bestehenden Einträgen, statt Inhalte zu duplizieren.

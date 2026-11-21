@@ -221,7 +221,7 @@ A resposta do menino Yeshua, **ἐν τοῖς τοῦ πατρός μου** (*e
 
 ## I. O Mundo na Época
 
-> **Referência cruzada:** Para o contexto mundial completo em dois cenários e dez categorias (Político, Economia, Vida Cotidiana, Estrutura Social, Educação, Militar, Artes, Ciência, Religião, Povos Vizinhos), veja o complemento de João 1 (Seção I, `pt-br/john/study/CHAPTER-1-CONTEXT.md`). Lucas e João compartilham o mesmo período histórico geral; a seção de João 1 fornece o fundamento. As entradas abaixo abordam as circunstâncias específicas destacadas em Lucas 2.
+> **Referência cruzada:** Para o contexto mundial completo em dois cenários e dez categorias (Político, Economia, Vida Cotidiana, Estrutura Social, Educação, Militar, Artes, Ciência, Religião, Povos Vizinhos), veja o material de estudo de João 1 (Aprofundar), Seção I. Lucas e João compartilham o mesmo período histórico geral; a seção de João 1 fornece o fundamento. As entradas abaixo abordam as circunstâncias específicas destacadas em Lucas 2.
 
 ---
 
@@ -307,6 +307,4 @@ Após a Guerra Judaica, a dominação romana sobre a terra era total: o Templo d
 ---
 
 **Proveniência editorial:**
-- Redigido por: IA (Claude, Anthropic)
-- Data: 2026-06-23
-- Revisado por: pendente
+- Rascunho assistido por IA, ainda não revisado.

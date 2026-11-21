@@ -21,7 +21,7 @@
 - [Fortlaufende Lesung](#fortlaufende-lesung)
 - [Vers-für-Vers-Studie](#vers-für-vers-studie)
 - [Glossar — 1. Petrus 2](#glossar--1-petrus-2)
-- [Kapitelübergreifende Verfolgung (HB -> 1. Petrus)](#kapitelübergreifende-verfolgung-hb--1-petrus)
+- [Kapitelübergreifende Verfolgung (HB → 1. Petrus)](#kapitelübergreifende-verfolgung-hb--1-petrus)
 
 ---
 
@@ -36,7 +36,7 @@
 
 Notizen sind nach Typ gekennzeichnet — **Kritisch · Lexikalisch · Grammatisch · Theologisch** — jeweils mit ihrer Farbe (siehe die Legende oben in der Notizen-Ansicht).
 
-**Kapitel 2 wendet sich von der neuen Geburt zur neuen Identität und zum neuen Verhalten.** Legt Bosheit ab und begehrt nach reiner Milch (V.1-3); kommt zu dem lebendigen Stein und werdet zu einem geistlichen Haus erbaut, einem heiligen Priestertum — die **Lebendiger-Stein-Katene**, die Jesaja 28,16, Psalm 118,22 und Jesaja 8,14 verwebt (V.4-8); ihr seid „ein erwähltes Geschlecht, ein königliches Priestertum, eine heilige Nation" (V.9-10, Exodus 19,6 / Hosea). Dann das Verhalten der Fremdlinge: ehrbar unter den Nationen (V.11-12); Unterordnung unter menschliche Obrigkeiten (V.13-17); und das erste Panel der **Haustafel** — Hausknechte und der leidende Messias als das Muster, umrahmt von Jesaja 53 (V.18-25). **Hinweis zur Redemarkierung (Regel 30):** Das einzige göttliche Ich-Wort hier steht innerhalb des Jesaja-28,16-Zitats (2,6, „siehe, ich lege in Zion…") — markiert @@…@@; die anderen AT-Zitate (Ps 118,22; Jes 8,14; Ps 34,8; Jes 53) sind nicht Gottes Ich-Rede und bleiben unmarkiert. **Die Haustafel (2,18-25) ist eine Passage hoher Zurückhaltung** — die TT gibt das Griechische wieder (Hausknechte ordnen sich unter, das Beispiel des Messias) und kennzeichnet die Deutungsgeschichte in den Notizen, ohne etwas einzutragen (Regel 3; Redaktionsprotokoll P-009).
+**Kapitel 2 wendet sich von der neuen Geburt zur neuen Identität und zum neuen Verhalten.** Legt Bosheit ab und begehrt nach reiner Milch (V.1-3); kommt zu dem lebendigen Stein und werdet zu einem geistlichen Haus erbaut, einem heiligen Priestertum — die **Lebendiger-Stein-Katene**, die Jesaja 28,16, Psalm 118,22 und Jesaja 8,14 verwebt (V.4-8); ihr seid „ein erwähltes Geschlecht, ein königliches Priestertum, eine heilige Nation" (V.9-10, Exodus 19,6 / Hosea). Dann das Verhalten der Fremdlinge: ehrbar unter den Nationen (V.11-12); Unterordnung unter menschliche Obrigkeiten (V.13-17); und das erste Panel der **Haustafel** — Hausknechte und der leidende Messias als das Muster, umrahmt von Jesaja 53 (V.18-25). **Hinweis zur Redemarkierung (Regel 30):** Das einzige göttliche Ich-Wort hier steht innerhalb des Jesaja-28,16-Zitats (2,6, „siehe, ich lege in Zion…") — nicht markiert, da Petrus es zitiert („in der Schrift enthalten"); die anderen AT-Zitate (Ps 118,22; Jes 8,14; Ps 34,8; Jes 53) sind nicht Gottes Ich-Rede und bleiben unmarkiert. **Die Haustafel (2,18-25) ist eine Passage hoher Zurückhaltung** — die TT gibt das Griechische wieder (Hausknechte ordnen sich unter, das Beispiel des Messias) und kennzeichnet die Deutungsgeschichte in den Notizen, ohne etwas einzutragen (Regel 3).
 
 ---
 
@@ -46,7 +46,7 @@ Notizen sind nach Typ gekennzeichnet — **Kritisch · Lexikalisch · Grammatisc
 
 **Zentrale Themen:** Das Begehren des Neugeborenen nach der „reinen geistlichen Milch"; der **lebendige Stein** und die Gemeinschaft als geistliches Haus / heiliges Priestertum; die dreifache Stein-Katene (Eckstein / verworfener-Stein-wird-Haupt / Stein des Anstoßes); die staunenswerte Identitätsübertragung — Israels Titel („erwähltes Geschlecht, königliches Priestertum, heilige Nation, Volk zum Eigentum", Ex 19,6) angewandt auf die zerstreuten Gläubigen, mit Hoseas Umkehrung („nicht mein Volk → mein Volk"); die Exil-Ethik — ehrbares Verhalten unter den Nationen als Zeugnis; Unterordnung unter die Obrigkeiten „um des Herrn willen" innerhalb der Freiheit; das erste Panel der **Haustafel** (Knechte), gegründet nicht in einer Gesellschaftslehre, sondern im **leidenden Messias** als *hypogrammos* (eine Schreibvorlage zum Nachziehen); das dichte Geflecht von **Jesaja 53** (keine Sünde, kein Trug, schweigend unter Schmähung, trug unsere Sünden, „durch seine Wunde wurdet ihr geheilt"); der Messias als **Hirte und Aufseher der Seelen**.
 
-**Achten Sie auf:** Die Stein-Katene (V.6-8) schichtet drei AT-Texte aufeinander — die TT hält jeden erkennbar. In 2,6 ist das Zitat Gottes Ich-Wort („ich lege in Zion…") — markiert @@…@@. **2,8** — „sie stoßen sich… wozu sie auch bestimmt wurden" (*etethēsan*) — Erwählungs-/Bestimmungssprache; die TT gibt es wieder, ohne aufzulösen (Regel 13). **2,9-10** überträgt Israels Bundestitel auf die Gemeinde — wiedergegeben, wie das Griechische sie hat, ohne supersessionistische Glosse (Regel 3). Die **Haustafel beginnt in 2,18** (*oiketai*, Hausknechte) — eine Passage hoher Zurückhaltung; gib das Griechische wieder, kennzeichne die Geschichte, trage nichts ein (Redaktionsprotokoll P-009). 2,21 *hypogrammos* („Schreibvorlage/Beispiel") ist ein seltenes, anschauliches Wort. Das Jesaja-53-Geflecht (V.22-25) ist anspielend (nicht formelhaft zitiert) — der dichteste neutestamentliche Gebrauch des vierten Knechtsliedes.
+**Achten Sie auf:** Die Stein-Katene (V.6-8) schichtet drei AT-Texte aufeinander — die TT hält jeden erkennbar. In 2,6 ist das Zitat Gottes Ich-Wort („ich lege in Zion…") — von Petrus zitiert, daher nicht markiert (Regel 30). **2,8** — „sie stoßen sich… wozu sie auch bestimmt wurden" (*etethēsan*) — Erwählungs-/Bestimmungssprache; die TT gibt es wieder, ohne aufzulösen (Regel 13). **2,9-10** überträgt Israels Bundestitel auf die Gemeinde — wiedergegeben, wie das Griechische sie hat, ohne supersessionistische Glosse (Regel 3). Die **Haustafel beginnt in 2,18** (*oiketai*, Hausknechte) — eine Passage hoher Zurückhaltung; gib das Griechische wieder, kennzeichne die Geschichte, trage nichts ein. 2,21 *hypogrammos* („Schreibvorlage/Beispiel") ist ein seltenes, anschauliches Wort. Das Jesaja-53-Geflecht (V.22-25) ist anspielend (nicht formelhaft zitiert) — der dichteste neutestamentliche Gebrauch des vierten Knechtsliedes.
 
 **Verbindung:** Das Kapitel ist ein Wandteppich aus der Hebräischen Bibel. „Schmeckt, dass der Herr gütig ist" (2,3) zitiert Psalm 34,8 (ein Psalm, zu dem Petrus in 3,10-12 zurückkehrt). Die Stein-Katene zieht Jesaja 28,16 (den Eckstein in Zion), Psalm 118,22 (den verworfenen Stein) und Jesaja 8,14 (den Stein des Anstoßes) heran — dieselben Stein-Texte, die die Evangelien auf den Messias anwenden (Mk 12,10 par.; Lk 20,17). Die Identitätstitel (2,9) geben Exodus 19,6 wieder („ein Königreich von Priestern und eine heilige Nation") und Jesaja 43,20-21 („mein erwähltes Volk… für mich selbst"); „nicht ein Volk → Volk Gottes" (2,10) ist Hosea 1,9-10; 2,23. Das Knechts-Porträt (2,22-25) ist Jesaja 53,9. 4-6. 12 — „er trug unsere Sünden", „durch seine Wunde geheilt", „wir alle gingen in die Irre wie Schafe" — das Knechtslied, das bereits in Apostelgeschichte 3 erklang (der *pais*).
 
@@ -58,7 +58,7 @@ Notizen sind nach Typ gekennzeichnet — **Kritisch · Lexikalisch · Grammatisc
 
 ---
 
-¹Nachdem ihr also alle Bosheit und allen Trug und Heuchelei und Neid und alle Verleumdungen abgelegt habt, ²begehrt wie neugeborene Säuglinge nach der reinen {a:Milch *des* Wortes/geistlichen Milch}, damit ihr durch sie zur Rettung heranwachst, ³wenn *ihr* denn geschmeckt habt, dass der Herr gütig *ist*. ⁴Zu ihm kommend, einem lebendigen Stein — von Menschen verworfen, aber bei Gott erwählt *und* kostbar —, ⁵werdet auch ihr selbst, als lebendige Steine, *als* ein geistliches Haus zu einem heiligen Priestertum erbaut, um geistliche Opfer darzubringen, Gott wohlgefällig durch Yeshua *den* Messias (Jesus). ⁶Denn es ist in der Schrift enthalten: @@"Siehe, ich lege in Tsiyon (Zion) einen Stein, einen erwählten, kostbaren Eckstein, und der, *der* an ihn glaubt, wird niemals zuschanden werden."@@ ⁷Euch nun, die ihr glaubt, *gilt* die Kostbarkeit, aber denen, die nicht glauben, „*der* Stein, den die Bauleute verwarfen — dieser wurde *zum* Haupt *der* Ecke", ⁸und „ein Stein des Anstoßes und ein Fels des Ärgernisses"; *die*, die sich *am* Wort stoßen, weil sie nicht glauben — wozu sie auch bestimmt wurden. ⁹Ihr aber *seid* ein erwähltes Geschlecht, ein königliches Priestertum, eine heilige Nation, ein Volk zum *Eigentum Gottes*, damit ihr die Vortrefflichkeiten dessen verkündet, der euch aus *der* Finsternis in sein wunderbares Licht berufen hat; ¹⁰*ihr*, die ihr einst nicht ein Volk *wart*, nun aber ein Volk Gottes *seid*, die *ihr* kein Erbarmen empfangen hattet, nun aber Erbarmen empfangen habt.
+¹Nachdem ihr also alle Bosheit und allen Trug und Heuchelei und Neid und alle Verleumdungen abgelegt habt, ²begehrt wie neugeborene Säuglinge nach der reinen {a:Milch *des* Wortes/geistlichen Milch}, damit ihr durch sie zur Rettung heranwachst, ³wenn *ihr* denn geschmeckt habt, dass der Herr gütig *ist*. ⁴Zu ihm kommend, einem lebendigen Stein — von Menschen verworfen, aber bei Gott erwählt *und* kostbar —, ⁵werdet auch ihr selbst, als lebendige Steine, *als* ein geistliches Haus zu einem heiligen Priestertum erbaut, um geistliche Opfer darzubringen, Gott wohlgefällig durch Yeshua *den* Messias (Jesus). ⁶Denn es ist in der Schrift enthalten: "Siehe, ich lege in Tsiyon (Zion) einen Stein, einen erwählten, kostbaren Eckstein, und der, *der* an ihn glaubt, wird niemals zuschanden werden." ⁷Euch nun, die ihr glaubt, *gilt* die Kostbarkeit, aber denen, die nicht glauben, „*der* Stein, den die Bauleute verwarfen — dieser wurde *zum* Haupt *der* Ecke", ⁸und „ein Stein des Anstoßes und ein Fels des Ärgernisses"; *die*, die sich *am* Wort stoßen, weil sie nicht glauben — wozu sie auch bestimmt wurden. ⁹Ihr aber *seid* ein erwähltes Geschlecht, ein königliches Priestertum, eine heilige Nation, ein Volk zum *Eigentum Gottes*, damit ihr die Vortrefflichkeiten dessen verkündet, der euch aus *der* Finsternis in sein wunderbares Licht berufen hat; ¹⁰*ihr*, die ihr einst nicht ein Volk *wart*, nun aber ein Volk Gottes *seid*, die *ihr* kein Erbarmen empfangen hattet, nun aber Erbarmen empfangen habt.
 
 ¹¹Geliebte, ich ermahne *euch* als Fremdlinge und Ausländer, euch der fleischlichen Begierden zu enthalten, die gegen die Seele streiten, ¹²indem ihr euer Verhalten unter den Nationen ehrbar haltet, damit sie in *der Sache*, in der sie gegen euch als Übeltäter reden, *eure* guten Werke beobachtend Gott verherrlichen am *Tag* der Heimsuchung. ¹³Ordnet euch jeder menschlichen Einrichtung unter um des Herrn willen — sei es einem König als dem Höchsten, ¹⁴oder Statthaltern als *denen*, die durch ihn gesandt sind zur Bestrafung der Übeltäter und zum Lob derer, die Gutes tun. ¹⁵Denn so ist der Wille Gottes: durch das Tun des Guten die Unwissenheit der törichten Menschen zum Schweigen zu bringen — ¹⁶als Freie, und nicht *so*, dass ihr die Freiheit als Deckmantel der Bosheit habt, sondern als Knechte Gottes. ¹⁷Ehrt jeden, liebt die Bruderschaft, fürchtet Gott, ehrt den König.
 
@@ -125,12 +125,12 @@ werdet auch ihr selbst, als lebendige Steine, *als* ein geistliches Haus zu eine
 
 ### **Vers 6**
 
-Denn es ist in der Schrift enthalten: @@"Siehe, ich lege in Tsiyon (Zion) einen Stein, einen erwählten, kostbaren Eckstein, und der, *der* an ihn glaubt, wird niemals zuschanden werden."@@
+Denn es ist in der Schrift enthalten: "Siehe, ich lege in Tsiyon (Zion) einen Stein, einen erwählten, kostbaren Eckstein, und der, *der* an ihn glaubt, wird niemals zuschanden werden."
 
 > **Notizen**
 >
-> 🔴 **KRITISCH — JESAJA 28,16 (göttliches Ich-Wort → markiert)**
-> - **ἰδοὺ τίθημι ἐν Σιὼν λίθον… ἀκρογωνιαῖον** (*idou tithēmi en Siōn lithon akrogōniaion*) = „Siehe, ich lege in Zion einen Stein… einen Eckstein" (Jes 28,16 LXX). Dies ist **Gottes Ich-Wort** („ich lege"), daher mit **@@…@@** markiert (Regel 30 / A-004). **ἀκρογωνιαῖος** = „Eckstein / Schlussstein." „Wird niemals zuschanden werden" (*ou mē kataischynthē*) — die LXX-Lesart. Erster Stein der Katene. → PROPHETIE (Jes 28,16 → 1 Petr 2,6).
+> 🔴 **KRITISCH — JESAJA 28,16 (göttliches Ich-Wort, zitiert → nicht markiert)**
+> - **ἰδοὺ τίθημι ἐν Σιὼν λίθον… ἀκρογωνιαῖον** (*idou tithēmi en Siōn lithon akrogōniaion*) = „Siehe, ich lege in Zion einen Stein… einen Eckstein" (Jes 28,16 LXX). Dies ist **Gottes Ich-Wort** („ich lege"), doch Petrus zitiert es („in der Schrift enthalten"), daher ist es nicht markiert (Regel 30). **ἀκρογωνιαῖος** = „Eckstein / Schlussstein." „Wird niemals zuschanden werden" (*ou mē kataischynthē*) — die LXX-Lesart. Erster Stein der Katene. → PROPHETIE (Jes 28,16 → 1 Petr 2,6).
 
 ---
 
@@ -207,7 +207,7 @@ Ordnet euch jeder menschlichen Einrichtung unter um des Herrn willen — sei es 
 > **Notizen**
 >
 > 🔴 **KRITISCH — „ORDNET EUCH UNTER… UM DES HERRN WILLEN" (der Bürger-Kodex)**
-> - **ὑποτάγητε πάσῃ ἀνθρωπίνῃ κτίσει διὰ τὸν κύριον** (*hypotagēte pasē anthrōpinē ktisei dia ton kyrion*) = „Ordnet euch jeder menschlichen Einrichtung/Schöpfung unter um des Herrn willen." **ὑποτάσσω** („sich unterordnen/untertan sein") ist das Verb der Haustafel (2,18; 3,1. 5); hier auf die bürgerliche Ordnung angewandt. „**βασιλεύς** als dem Höchsten" = der Kaiser. Begründet „um des Herrn willen", nicht in der intrinsischen Autorität des Staates. → Redaktionsprotokoll P-009 (das Wortfeld der Unterordnung).
+> - **ὑποτάγητε πάσῃ ἀνθρωπίνῃ κτίσει διὰ τὸν κύριον** (*hypotagēte pasē anthrōpinē ktisei dia ton kyrion*) = „Ordnet euch jeder menschlichen Einrichtung/Schöpfung unter um des Herrn willen." **ὑποτάσσω** („sich unterordnen/untertan sein") ist das Verb der Haustafel (2,18; 3,1. 5); hier auf die bürgerliche Ordnung angewandt. „**βασιλεύς** als dem Höchsten" = der Kaiser. Begründet „um des Herrn willen", nicht in der intrinsischen Autorität des Staates.
 
 ---
 
@@ -261,8 +261,8 @@ Hausknechte, *seid* in aller Furcht *euren* Herren untertan, nicht nur den guten
 
 > **Notizen**
 >
-> 🔴 **KRITISCH — DIE HAUSTAFEL BEGINNT (*OIKETAI*) — hohe Zurückhaltung (P-009)**
-> - **οἱ οἰκέται, ὑποτασσόμενοι… τοῖς δεσπόταις** (*hoi oiketai, hypotassomenoi… tois despotais*) = „Hausknechte, *seid*… *euren* Herren untertan." **οἰκέται** = Haussklaven/Hausknechte (nicht die allgemeinen *douloi*). Dies eröffnet die **Haustafel** (2,18–3,7), die Passage höchster Zurückhaltung des Buches. Die TT gibt das Griechische wieder — die Unterordnung, selbst „den verkehrten (**σκολιοῖς**)" — und **kennzeichnet die Deutungsgeschichte (die antike Sklaverei; die moderne Rezeption) in Stufe 2 und im Begleitmaterial, ohne im Haupttext Stellung zu beziehen** (Regel 3). Die Anrede richtet sich an die Knechte als sittliche Subjekte, und der Grund (V.21-25) ist das ungerechte Leiden des Messias selbst, keine Billigung der Institution. → Redaktionsprotokoll P-009; Begleitmaterial §F (Rezeptionsgeschichte).
+> 🔴 **KRITISCH — DIE HAUSTAFEL BEGINNT (*OIKETAI*) — hohe Zurückhaltung**
+> - **οἱ οἰκέται, ὑποτασσόμενοι… τοῖς δεσπόταις** (*hoi oiketai, hypotassomenoi… tois despotais*) = „Hausknechte, *seid*… *euren* Herren untertan." **οἰκέται** = Haussklaven/Hausknechte (nicht die allgemeinen *douloi*). Dies eröffnet die **Haustafel** (2,18–3,7), die Passage höchster Zurückhaltung des Buches. Die TT gibt das Griechische wieder — die Unterordnung, selbst „den verkehrten (**σκολιοῖς**)" — und **kennzeichnet die Deutungsgeschichte (die antike Sklaverei; die moderne Rezeption) in den Anmerkungen und im Begleitmaterial, ohne im Haupttext Stellung zu beziehen** (Regel 3). Die Anrede richtet sich an die Knechte als sittliche Subjekte, und der Grund (V.21-25) ist das ungerechte Leiden des Messias selbst, keine Billigung der Institution. → Begleitmaterial §F (Rezeptionsgeschichte).
 
 ---
 
@@ -361,12 +361,12 @@ Denn ihr irrtet umher wie Schafe, aber nun seid ihr zurückgekehrt zum Hirten un
 
 ---
 
-## Kapitelübergreifende Verfolgung (HB -> 1. Petrus)
+## Kapitelübergreifende Verfolgung (HB → 1. Petrus)
 
 | HB / frühere Quelle | Thema | In 1. Petrus 2 |
 |---------------------|-------|--------------|
 | Ps 34,8 | „Schmeckt und seht, dass JHWH gütig ist" | „ihr habt geschmeckt, dass der Herr gütig ist" (2,3; der Psalm kehrt in 3,10-12 wieder). |
-| Jes 28,16 | Der erwählte Eckstein, in Zion gelegt | Gottes Ich-Wort, markiert (2,6). |
+| Jes 28,16 | Der erwählte Eckstein, in Zion gelegt | Gottes Ich-Wort, zitiert — nicht markiert (2,6). |
 | Ps 118,22 | „Der Stein, den die Bauleute verwarfen… Haupt der Ecke" | Der verworfene-dann-bestätigte Stein, vom Messias (2,7). |
 | Jes 8,14 | „Ein Stein des Anstoßes, ein Fels des Ärgernisses" | Der Anstoß-Stein für die Ungläubigen (2,8). |
 | Ex 19,6; Jes 43,20-21 | „Ein Königreich von Priestern, eine heilige Nation… mein erwähltes Volk" | Die Titel auf die Gläubigen übertragen (2,9). |

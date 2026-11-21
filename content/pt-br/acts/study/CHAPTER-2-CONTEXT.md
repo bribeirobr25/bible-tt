@@ -82,12 +82,12 @@ A TT mantém visíveis as costuras do sermão (a fórmula "isto é aquilo" do v.
 
 O sermão é construído sobre três citações da BH: **Joel 2:28-32** (LXX 3:1-5), o Espírito derramado e "todo aquele que invocar o nome d*o* Senhor" (vv.17-21); **Salmo 16:8-11**, "não abandonarás a minha alma no Hades" (vv.25-28, 31); e **Salmo 110:1**, "o Senhor disse ao meu senhor" (vv.34-35). Atos cita a forma da **LXX** por toda parte (p.ex. *glōssa*, "língua," para o hebraico *kavod*, "glória," no v.26; *en tais eschatais hēmerais*, "nos últimos dias," onde Joel/LXX tem "depois destas coisas," v.17).
 
-Pela Regra 30, as porções divinas em primeira pessoa são marcadas **@@…@@** (o "derramarei" de Joel, vv.17-21; o comando do SENHOR em Sl 110, vv.34-35), enquanto a própria voz de David no Salmo 16 é fala humana e não o é. → As mecânicas da citação, as diferenças LXX-vs-hebraico e o argumento do duplo-*kyrios* de 2:34 são tratados no **complemento PROFECIA**; este complemento dá apenas o quadro histórico e literário.
+Pela Regra 30, as porções divinas em primeira pessoa (o "derramarei" de Joel, vv.17-21; o comando do SENHOR em Sl 110, vv.34-35) não são marcadas, porque Pedro as está citando; a própria voz de David no Salmo 16 é fala humana e também não é marcada. → As mecânicas da citação, as diferenças LXX-vs-hebraico e o argumento do duplo-*kyrios* de 2:34 são tratados no **complemento PROFECIA**; este complemento dá apenas o quadro histórico e literário.
 
 ### A7. *Metanoia*, *aphesis*, imersão no nome e o *eis* de 2:38
 **[TEXTUAL — VERIFICADO (para os lexemas); INFERÊNCIA POSSÍVEL — INCERTO (para a força de *eis*)]**
 
-O chamado de Pedro (2:38) reúne quatro termos travados ou carregados: **μετανοήσατε** (*metanoēsate*, "mudai de mente" — a tradução GS travada de *metanoeō*, não o penitencial "arrependei-vos"); imersão **ἐπὶ τῷ ὀνόματι Ἰησοῦ** (*epi tō onomati Iēsou*, "sobre o nome de Yeshua"); **εἰς ἄφεσιν τῶν ἁμαρτιῶν** (*eis aphesin tōn hamartiōn*, "para/rumo à liberação dos pecados" — *aphesis* como em Lucas 1:77; 3:3); e o prometido "dom do santo {a:vento/espírito}." A preposição **εἰς** é genuinamente ambígua — télica ("a fim de obter") ou causal/referencial ("com referência a") o perdão — e a TT preserva "para/rumo a" sem resolvê-la (a decisão A-005 no registro editorial nota a crux em 2:38).
+O chamado de Pedro (2:38) reúne quatro termos travados ou carregados: **μετανοήσατε** (*metanoēsate*, "mudai de mente" — a tradução GS travada de *metanoeō*, não o penitencial "arrependei-vos"); imersão **ἐπὶ τῷ ὀνόματι Ἰησοῦ** (*epi tō onomati Iēsou*, "sobre o nome de Yeshua"); **εἰς ἄφεσιν τῶν ἁμαρτιῶν** (*eis aphesin tōn hamartiōn*, "para/rumo à liberação dos pecados" — *aphesis* como em Lucas 1:77; 3:3); e o prometido "dom do santo {a:vento/espírito}." A preposição **εἰς** é genuinamente ambígua — télica ("a fim de obter") ou causal/referencial ("com referência a") o perdão — e a TT preserva "para/rumo a" sem resolvê-la.
 
 "Imersão sobre o nome de Yeshua" retoma "o nome do Senhor" da citação de Joel (v.21), onde *kyrios* traduz YHWH; a mesma construção é agora aplicada a Jesus. **[INFERÊNCIA POSSÍVEL — INCERTO]** Se a frase implica uma fórmula batismal, uma transferência de lealdade, ou ambas, não pode ser determinado a partir do texto. → Para a resposta da comunidade que se segue (vv.41-47), veja §D3.
 
@@ -221,7 +221,7 @@ Atos consistentemente tem a imersão "sobre/no nome de Yeshua" (2:38; cf. 8:16; 
 
 ## I. O Mundo na Época
 
-> **Referência cruzada:** Para o contexto mundial completo em dois cenários e dez categorias (Político, Economia, Vida Cotidiana, Estrutura Social, Educação, Militar, Artes, Ciência, Religião, Povos Vizinhos), veja o complemento de João 1 (Seção I, `pt-br/john/study/CHAPTER-1-CONTEXT.md`). Atos compartilha o mesmo período geral do séc. I; a seção de João 1 fornece o fundamento. As entradas abaixo abordam as circunstâncias específicas destacadas em Atos 2 — a peregrinação de Shavuot, a geografia da diáspora dos vv.9-11 e a economia da festa de Jerusalém.
+> **Referência cruzada:** Para o contexto mundial completo em dois cenários e dez categorias (Político, Economia, Vida Cotidiana, Estrutura Social, Educação, Militar, Artes, Ciência, Religião, Povos Vizinhos), veja o material de estudo de João 1 (Aprofundar), Seção I. Atos compartilha o mesmo período geral do séc. I; a seção de João 1 fornece o fundamento. As entradas abaixo abordam as circunstâncias específicas destacadas em Atos 2 — a peregrinação de Shavuot, a geografia da diáspora dos vv.9-11 e a economia da festa de Jerusalém.
 
 ---
 
@@ -303,6 +303,4 @@ Após 70 d.C. a diáspora tornou-se, ainda mais do que antes, o centro demográf
 ---
 
 **Proveniência editorial:**
-- Redigido por: IA (Claude, Anthropic)
-- Data: 2026-06-24
-- Revisado por: pendente
+- Rascunho assistido por IA, ainda não revisado.

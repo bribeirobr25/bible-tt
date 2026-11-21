@@ -75,7 +75,7 @@ The TT renders *charis* as "favor" in narrative and the participle transparently
 
 Two songs interrupt the narrative: the Magnificat (Miryam, 1:46-55) and the Benedictus (Zecharyah, 1:67-79). Both are densely allusive to the HB — the Magnificat reworks Channah's (Hannah's) song (1 Sam 2:1-10) and the Psalms; the Benedictus draws on the covenant promises to Avraham and David and on the prophets. In a few witnesses (some Old Latin) the Magnificat is attributed to "Elizabeth"; NA28 reads *Mariam*.
 
-Per Rule 30, both canticles are **human** speech and are NOT marked as divine speech; per the editorial decision (luke.md L-002), they are authored as flowing prose, since the renderer collapses poetic line breaks. The TT does not impose lineation the platform cannot display. → For the canticles' structure and their Hannah's-song base, see the PROPHECY companion.
+Per Rule 30, both canticles are **human** speech and are NOT marked as divine speech; they are authored as flowing prose, since the renderer collapses poetic line breaks. The TT does not impose lineation the platform cannot display. → For the canticles' structure and their Hannah's-song base, see the PROPHECY companion.
 
 ### A6. *Angelos kyriou*, Gavriel, and the Eliyahu (Elijah) commission
 **[TEXTUAL — VERIFIED]**
@@ -221,7 +221,7 @@ NA28 reads "And **Mariam** said" at 1:46, assigning the Magnificat to Mary, and 
 
 ## I. The World at the Time
 
-> **Cross-reference:** For the full two-scenario, ten-category world context (Political, Economy, Daily Life, Social Structure, Education, Military, Arts, Science, Religion, Neighboring Peoples), see the John 1 companion (Section I, `en/john/study/CHAPTER-1-CONTEXT.md`). Luke and John share the same general historical period; the John 1 section provides the foundation. The entries below address the specific circumstances foregrounded in Luke 1.
+> **Cross-reference:** For the full two-scenario, ten-category world context (Political, Economy, Daily Life, Social Structure, Education, Military, Arts, Science, Religion, Neighboring Peoples), see the John 1 study companion (Deeper), Section I. Luke and John share the same general historical period; the John 1 section provides the foundation. The entries below address the specific circumstances foregrounded in Luke 1.
 
 ---
 
@@ -306,6 +306,4 @@ After 70 CE the genealogical archives associated with the Temple (used to verify
 ---
 
 **Editorial provenance:**
-- Drafted by: AI (Claude, Anthropic)
-- Date: 2026-06-22
-- Reviewed by: pending
+- AI-assisted draft, not yet reviewed.

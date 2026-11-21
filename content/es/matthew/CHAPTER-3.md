@@ -22,7 +22,7 @@
 - [Lectura Continua](#lectura-continua)
 - [Estudio Versículo por Versículo](#estudio-versículo-por-versículo)
 - [Glosario — Mateo 3](#glosario---mateo-3)
-- [Seguimiento entre Capítulos (AT -> Mateo)](#seguimiento-entre-capítulos-at--mateo)
+- [Seguimiento entre Capítulos (AT → Mateo)](#seguimiento-entre-capítulos-at--mateo)
 
 ---
 
@@ -37,7 +37,7 @@
 
 Las notas se etiquetan por tipo — **Crítico · Léxico · Gramatical · Teológico** — cada una con su color (vea la leyenda en la parte superior de la vista de Notas).
 
-**Este capítulo introduce a Yochanan el Inmersor y "el reino de los cielos."** La frase *basileia tōn ouranōn* ("reino de los cielos") aparece por primera vez en Mateo — una frase única de este Evangelio (los otros Evangelios usan "reino de Dios"). La TT traduce *ouranōn* como "cielos" según la alineación con el hebreo *shamayim*. La práctica de *baptisma* de Yochanan se traduce como "inmersión" según el glosario fijado. Los nombres propios siguen la transliteración TT: Yochanan (no Juan), Perushim (no fariseos), Tsduqim (no saduceos), Yarden (no Jordán). Las formas familiares en español se anotan en la primera aparición.
+**Este capítulo introduce a Yochanan el Inmersor y "el reino de los cielos."** La frase *basileia tōn ouranōn* ("reino de los cielos") aparece por primera vez en Mateo — una frase única de este Evangelio (los otros Evangelios usan "reino de Dios"). La TT traduce *ouranōn* como "cielos" según la alineación con el hebreo *shamayim*. La práctica de *baptisma* de Yochanan se traduce como "inmersión" según el glosario fijado. Los nombres aparecen en su forma familiar, con la forma de la lengua original indicada una vez por sección — p. ej., Yochanan (Juan). Las formas familiares en español se anotan en la primera aparición.
 
 ---
 
@@ -333,9 +333,9 @@ Y miren, una voz desde los cielos, diciendo: @@"Este es mi hijo, el amado, en qu
 
 ---
 
-## SEGUIMIENTO ENTRE CAPÍTULOS (AT -> Mateo)
+## SEGUIMIENTO ENTRE CAPÍTULOS (AT → Mateo)
 
-**Isaías 40:3 -> Mt 3:3 — "Preparen el camino del Señor":**
+**Isaías 40:3 → Mt 3:3 — "Preparen el camino del Señor":**
 
 | Elemento | Isaías 40:3 (TM) | Mt 3:3 (siguiendo la LXX) |
 |----------|-------------------|---------------------------|
@@ -346,7 +346,7 @@ Y miren, una voz desde los cielos, diciendo: @@"Este es mi hijo, el amado, en qu
 
 El cambio sintáctico importa: en Isaías, el desierto es donde se construye el camino; en Mateo, el desierto es donde el predicador predica. Ambas lecturas son antiguas — la LXX ya refleja la segunda interpretación.
 
-**2 Reyes 1:8 -> Mt 3:4 — La vestimenta de Eliyahu:**
+**2 Reyes 1:8 → Mt 3:4 — La vestimenta de Eliyahu:**
 
 | Elemento | 2 Reyes 1:8 | Mt 3:4 |
 |----------|-------------|--------|
@@ -355,7 +355,7 @@ El cambio sintáctico importa: en Isaías, el desierto es donde se construye el 
 
 La descripción de la vestimenta es casi idéntica. Mateo presenta a Yochanan como la figura de Eliyahu anticipada en Malaquías 3:23 [4:5].
 
-**Salmo 2:7 + Isaías 42:1 -> Mt 3:17 — "Este es mi hijo, el amado":**
+**Salmo 2:7 + Isaías 42:1 → Mt 3:17 — "Este es mi hijo, el amado":**
 
 | Elemento | Salmo 2:7 | Isaías 42:1 | Mt 3:17 |
 |----------|-----------|-------------|---------|
@@ -365,7 +365,7 @@ La descripción de la vestimenta es casi idéntica. Mateo presenta a Yochanan co
 
 La bat qol fusiona las tradiciones real y de siervo en una sola declaración. El "amado" (**ἀγαπητός**, *agapētos*) puede también hacer eco de Gén 22:2 (LXX), donde YHWH dice a Avraham que tome "tu hijo, el amado" (*ton huion sou ton agapēton*) — Yitschaq. El eco de la atadura de Isaac agrega una dimensión sacrificial.
 
-**Génesis 1:2 -> Mt 3:16 — Viento/espíritu sobre las aguas:**
+**Génesis 1:2 → Mt 3:16 — Viento/espíritu sobre las aguas:**
 
 | Elemento | Gén 1:2 | Mt 3:16 |
 |----------|---------|---------|

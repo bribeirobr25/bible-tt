@@ -192,7 +192,7 @@ Gen 11:26: "Terach (Terah) lived seventy years and begot Avram (Abram), Nachor (
 
 ## I. The World at the Time
 
-> **Cross-reference:** For the full four-scenario, ten-category world context (Political, Economy, Daily Life, Social Structure, Education, Military, Arts, Science, Religion, Neighboring Peoples), see the Genesis 1 companion (Section I, `en/genesis/study/CHAPTER-1-CONTEXT.md`). The entries below address the historical circumstances specifically foregrounded in Genesis 11 — tower and ziggurat architecture, the ideology of urban civilization, language diversity in the ancient world, migration patterns, and the cities of Ur and Charan as real places on the ancient map.
+> **Cross-reference:** For the full four-scenario, ten-category world context (Political, Economy, Daily Life, Social Structure, Education, Military, Arts, Science, Religion, Neighboring Peoples), see the Genesis 1 study companion (Deeper), Section I. The entries below address the historical circumstances specifically foregrounded in Genesis 11 — tower and ziggurat architecture, the ideology of urban civilization, language diversity in the ancient world, migration patterns, and the cities of Ur and Charan as real places on the ancient map.
 
 ---
 
@@ -286,6 +286,4 @@ The Hellenistic period was defined by the spread of Greek (*koine*) as a common 
 ---
 
 **Editorial provenance:**
-- Drafted by: Claude Opus 4.6 (AI assistant)
-- Date: 2026-04-27
-- Reviewed by: pending
+- AI-assisted draft, not yet reviewed.

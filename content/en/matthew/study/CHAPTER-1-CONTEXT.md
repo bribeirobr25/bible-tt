@@ -292,7 +292,7 @@ Counting the names in the third set (exile to anointed one) yields only thirteen
 
 ## I. The World at the Time
 
-> **Cross-reference:** For the full two-scenario, ten-category world context (Political, Economy, Daily Life, Social Structure, Education, Military, Arts, Science, Religion, Neighboring Peoples), see the John 1 companion (Section I, `en/john/study/CHAPTER-1-CONTEXT.md`). John and Matthew share the same general historical period; the John 1 section provides the foundation. The entries below address the specific circumstances foregrounded in Matthew 1.
+> **Cross-reference:** For the full two-scenario, ten-category world context (Political, Economy, Daily Life, Social Structure, Education, Military, Arts, Science, Religion, Neighboring Peoples), see the John 1 study companion (Deeper), Section I. John and Matthew share the same general historical period; the John 1 section provides the foundation. The entries below address the specific circumstances foregrounded in Matthew 1.
 
 ---
 
@@ -376,6 +376,4 @@ By the late 1st century, the birth narrative of Matthew 1 had become a point of 
 ---
 
 **Editorial provenance:**
-- Drafted by: AI (Claude, Anthropic)
-- Date: 2026-04-27
-- Reviewed by: pending
+- AI-assisted draft, not yet reviewed.

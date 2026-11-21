@@ -160,7 +160,7 @@ Gemäß dem gesperrten Glossar gibt die TT Bedeutung über Transliteration-durch
 | πνεῦμα (*pneuma*) | {Wind/Geist} | Schrägstrich für den göttlichen Geist; „unreiner Geist" ohne Schrägstrich |
 | εὐθύς (*euthys*) | sogleich | bei jedem Vorkommen bewahrt (Markus' Charakteristikum) |
 
-**Gottesname (Regel 25 / GS Option C):** wo *kyrios* in einem AT-Zitat JHWH wiedergibt (z. B. 1,3, Jesaja 40,3), liest die TT „der Herr" im Haupttext, mit dem zugrundeliegenden JHWH-Referenten in Stufe 2 vermerkt.
+**Gottesname (Regel 25 / GS Option C):** wo *kyrios* in einem AT-Zitat JHWH wiedergibt (z. B. 1,3, Jesaja 40,3), liest die TT „der Herr" im Haupttext, mit dem zugrundeliegenden JHWH-Referenten in den Anmerkungen vermerkt.
 
 ### F4. Direkte göttliche Rede (Regel 30)
 **[TEXTUELL — VERIFIZIERT]**

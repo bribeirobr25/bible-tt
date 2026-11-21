@@ -56,23 +56,23 @@ En 4:3 el pasado de los lectores se resume como **τὸ βούλημα τῶν �
 
 El seco eufemismo **ἀρκετός** (*arketos*, "suficiente / bastante," 4:3) — "el tiempo *que ha* pasado *es* suficiente" para eso — se preserva en lugar de suavizarse. En 4:4 la reacción de los de afuera se nombra con dos verbos precisos: están "sorprendidos" (*xenizontai*, lit. "lo encuentran extraño / foráneo") de que los creyentes ya no **συντρεχόντων** ("corran con" *ellos*) hacia la "inundación de disipación" (*tēs asōtias anachysin*), y por eso los **βλασφημοῦντες** ("calumnian / blasfeman"). La TT mantiene la mecánica social — retraimiento, desconcierto, calumnia — exactamente como el griego la expone (→ §I1).
 
-### A3. **4:6 "las buenas nuevas predicadas incluso a los muertos" — el nudo del capítulo (P-010)**
+### A3. **4:6 "las buenas nuevas predicadas incluso a los muertos" — el nudo del capítulo**
 **[TEXTUAL — VERIFICADO (para la redacción); INFERENCIA POSIBLE — INCIERTO (para el referente)]**
 
-La cláusula **καὶ νεκροῖς εὐηγγελίσθη** (*kai nekrois euēngelisthē*, 4:6), "las buenas nuevas fueron predicadas incluso a *los* muertos," es el nudo de alta cautela del capítulo y se traduce literalmente, sin adoptar ninguna lectura (Regla 3 / Regla 13; registro editorial P-010). Las tres lecturas vivas:
+La cláusula **καὶ νεκροῖς εὐηγγελίσθη** (*kai nekrois euēngelisthē*, 4:6), "las buenas nuevas fueron predicadas incluso a *los* muertos," es el nudo de alta cautela del capítulo y se traduce literalmente, sin adoptar ninguna lectura (Regla 3 / Regla 13). Las tres lecturas vivas:
 
 - **(a) Los cristianos ahora muertos.** "Los muertos" son creyentes que oyeron las buenas nuevas mientras vivían y desde entonces han muerto; la cláusula de propósito entonces explica que, aunque "**juzgados según los humanos en *la* carne**" (es decir, habiendo muerto, la suerte humana común), "**viven según Dios en *el* {a:viento/espíritu}**." En esta lectura el versículo reconforta a lectores que lamentan a creyentes que murieron antes del fin esperado (cf. 4:7).
-- **(b) Los muertos evangelizados en el descenso.** "Los muertos" son aquellos a quienes se dirigió la proclamación de 3:19 — más a menudo los desobedientes de los días de Noach (Noé) — oída entre la muerte y la resurrección del Mesías. Esto liga 4:6 directamente al nudo de 3:18-20 (P-006).
+- **(b) Los muertos evangelizados en el descenso.** "Los muertos" son aquellos a quienes se dirigió la proclamación de 3:19 — más a menudo los desobedientes de los días de Noach (Noé) — oída entre la muerte y la resurrección del Mesías. Esto liga 4:6 directamente al nudo de 3:18-20.
 - **(c) Una proclamación general a los muertos.** Un descenso-y-proclamación más amplio al reino de los muertos, sin especificar qué muertos.
 
-La antítesis carne/espíritu (**σαρκὶ… πνεύματι**, dativos anártricos) es la misma construcción que 3:18 (P-006), y la barra {a:viento/espíritu} se mantiene. El verbo **εὐηγγελίσθη** ("se anunciaron buenas nuevas") es más específico que el *ekēryxen* ("proclamó") de 3:19 — un dato textual que empuja a algunos lectores a distinguir los dos versículos, a otros a armonizarlos. La TT no decide; preserva el enlace con 3:19 y no resuelve ninguno. → registro editorial P-010, P-006; la nota del versículo en 4:6; referencia cruzada 3:19 en el compañero del capítulo 3.
+La antítesis carne/espíritu (**σαρκὶ… πνεύματι**, dativos anártricos) es la misma construcción que 3:18, y la barra {a:viento/espíritu} se mantiene. El verbo **εὐηγγελίσθη** ("se anunciaron buenas nuevas") es más específico que el *ekēryxen* ("proclamó") de 3:19 — un dato textual que empuja a algunos lectores a distinguir los dos versículos, a otros a armonizarlos. La TT no decide; preserva el enlace con 3:19 y no resuelve ninguno. → la nota del versículo en 4:6; referencia cruzada 3:19 en el compañero del capítulo 3.
 
 ### A4. "Juzgados… en carne / vivir… en espíritu" — la antítesis trasladada de 3:18 (4:6)
 **[TEXTUAL — VERIFICADO]**
 
 La cláusula de propósito de 4:6 — **ἵνα κριθῶσι… κατὰ ἀνθρώπους σαρκὶ ζῶσι δὲ κατὰ θεὸν πνεύματι** — opone dos esferas preposicionales/dativas: juzgados "**según los humanos, en *la* carne**," pero viviendo "**según Dios, en *el* {a:viento/espíritu}**." Este es el mismo paralelo de dativos carne/espíritu que la carta traza en 3:18 ("muerto en carne, vivificado en {a:viento/espíritu}"), donde los dativos pueden leerse ya sea como **esfera** ("en el ámbito de la carne / espíritu") ya sea como **agencia** ("por la carne / por el Espíritu"). La TT mantiene la barra y los dativos desnudos en lugar de colapsarlos en un solo sentido resuelto.
 
-Las dobles frases **κατά** ("según") — *kata anthrōpous* ("según los humanos") y *kata theon* ("según Dios") — enmarcan el contraste como dos medidas o criterios, el humano y el divino, en lugar de dos tiempos o dos personas. La TT preserva la simetría. → §A3; registro editorial P-006.
+Las dobles frases **κατά** ("según") — *kata anthrōpous* ("según los humanos") y *kata theon* ("según Dios") — enmarcan el contraste como dos medidas o criterios, el humano y el divino, en lugar de dos tiempos o dos personas. La TT preserva la simetría. → §A3.
 
 ### A5. "El fin de todas las cosas se ha acercado" — el tiempo perfecto (4:7)
 **[TEXTUAL — VERIFICADO]**
@@ -206,7 +206,7 @@ La TT traduce "**compartir** los sufrimientos" en lugar de "tener parte en" o "c
 
 Leídas junto con 3:19, las palabras "las buenas nuevas fueron predicadas incluso a *los* muertos" (4:6) se volvieron un ancla escritural principal para la doctrina del **descenso del Mesías a los muertos** ("descendió a los infiernos," *descendit ad inferos*) — una cláusula que entró en formas posteriores del Credo de los Apóstoles y se elaboró en la teología patrística y medieval (p.ej. el "Descenso a los Infiernos," dramatizado en el *Evangelio de Nicodemo*). Intérpretes desde la antigüedad (Clemente de Alejandría, Orígenes) en adelante usaron 4:6/3:19 para discutir si los muertos — y cuáles muertos — podían recibir la proclamación después de la muerte. Estas son recepciones documentadas construidas sobre los versículos; el griego de 4:6 mismo no especifica el descenso, los receptores, ni el contenido (§A3).
 
-La TT traduce 4:6 literalmente, preserva el enlace con 3:19, y no adopta ninguna de las construcciones doctrinales posteriores. → §A3; registro editorial P-010, P-006.
+La TT traduce 4:6 literalmente, preserva el enlace con 3:19, y no adopta ninguna de las construcciones doctrinales posteriores. → §A3.
 
 **Fuente:** Kelly, J.N.D., *Early Christian Creeds*, 3.ª ed., Longman, 1972, pp. 378-383; Dalton, W.J., *Christ's Proclamation to the Spirits: A Study of 1 Peter 3:18–4:6*, 2.ª ed., Pontifical Biblical Institute, 1989, pp. 42-67.
 
@@ -232,29 +232,6 @@ La doxología completa en 4:11 — "**a quien pertenecen la gloria y el poder po
 **[TEXTUAL — VERIFICADO]**
 
 El verbo **ξενίζω** (*xenizō*, "encontrar extraño / estar sorprendido," relacionado con *xenos*, "extraño / foráneo") encierra las dos escenas sociales del capítulo. En 4:4 los **de afuera** "están sorprendidos" (*xenizontai*) de que los creyentes ya no se unan a la vieja vida; en 4:12 a los creyentes se les dice **no** "sorprenderse" (*mē xenizesthe*) ante la prueba ardiente "como *si* algo extraño (*xenou*) estuviera sucediendo." La misma raíz nombra tanto el desconcierto de los paganos ante el retraimiento de los creyentes como la tentación de los creyentes de encontrar su sufrimiento extraño — un eco verbal deliberado que la TT mantiene traduciendo ambos con "sorprendido / extraño." La palabra también resuena con el lenguaje-de-identidad de la carta de los lectores como *xenoi*, "extranjeros / extranjeros residentes" (cf. 1:1, 17; 2:11): las personas que son ellas mismas extranjeras no deben encontrar el sufrimiento extraño.
-
----
-
-## H. Fuentes Consultadas
-
-| Fuente | Tipo | Usada en secciones |
-|--------|------|-----------------|
-| Achtemeier, P.J., *1 Peter*, Hermeneia, 1996 | REVISADA POR PARES (comentario) | B, C, D |
-| Bauer, W., *A Greek-English Lexicon of the NT* (BDAG), 3.ª ed., 2000 | REVISADA POR PARES (léxico) | D |
-| Beale, G.K. y Carson, D.A. (eds.), *Commentary on the NT Use of the OT*, 2007 | REVISADA POR PARES (comentario) | B |
-| Dalton, W.J., *Christ's Proclamation to the Spirits*, 2.ª ed., 1989 | REVISADA POR PARES (monografía) | F |
-| Elliott, J.H., *1 Peter*, Anchor Bible 37B, 2000 | REVISADA POR PARES (comentario) | B, C |
-| Hatch, E. y Redpath, H.A., *A Concordance to the Septuagint*, 2.ª ed., 1998 | REVISADA POR PARES (referencia) | D |
-| Kelly, J.N.D., *Early Christian Creeds*, 3.ª ed., 1972 | REVISADA POR PARES (monografía) | F |
-| Lampe, G.W.H., *A Patristic Greek Lexicon*, 1961 | REVISADA POR PARES (léxico) | F |
-| Liddell y Scott, *Greek-English Lexicon*, 9.ª ed. | REVISADA POR PARES (léxico) | D |
-| Malherbe, A.J., *Social Aspects of Early Christianity*, 2.ª ed., 1983 | REVISADA POR PARES (monografía) | C |
-| Musurillo, H. (ed.), *The Acts of the Christian Martyrs*, 1972 | PRIMARIA (colección de textos) | F |
-| Nestle-Aland, *Novum Testamentum Graece*, 28.ª ed. | PRIMARIA | A, D, G |
-| Plinio el Joven, *Epistulae* 10.96-97, Loeb Classical Library | PRIMARIA (texto antiguo) | C, I |
-| Selwyn, E.G., *The First Epistle of St. Peter*, 2.ª ed., 1947 | REVISADA POR PARES (comentario) | B, D |
-| Wilken, R.L., *The Christians as the Romans Saw Them*, 2.ª ed., 2003 | REVISADA POR PARES (monografía) | F, I |
-| Williams, T.B., *Persecution in 1 Peter*, Brill, 2012 | REVISADA POR PARES (monografía) | C, I |
 
 ---
 
@@ -285,20 +262,34 @@ La naturaleza del sufrimiento detrás de la "prueba ardiente" (4:12) es el debat
 
 **Fuente:** Tácito, *Anales* 15.44, Loeb Classical Library; Wilken, R.L., *The Christians as the Romans Saw Them*, 2.ª ed., Yale University Press, 2003, pp. 1-30; Elliott, J.H., *1 Peter*, Anchor Bible 37B, 2000, pp. 789-794, 803-805.
 
+---
+
+## H. Fuentes Consultadas
+
 | Fuente | Tipo | Usada en secciones |
 |--------|------|-----------------|
-| Achtemeier, P.J., *1 Peter*, Hermeneia, 1996 | REVISADA POR PARES (comentario) | I |
-| Elliott, J.H., *1 Peter*, Anchor Bible 37B, 2000 | REVISADA POR PARES (comentario) | I |
+| Achtemeier, P.J., *1 Peter*, Hermeneia, 1996 | REVISADA POR PARES (comentario) | B, C, D, I |
+| Bauer, W., *A Greek-English Lexicon of the NT* (BDAG), 3.ª ed., 2000 | REVISADA POR PARES (léxico) | D |
+| Beale, G.K. y Carson, D.A. (eds.), *Commentary on the NT Use of the OT*, 2007 | REVISADA POR PARES (comentario) | B |
+| Dalton, W.J., *Christ's Proclamation to the Spirits*, 2.ª ed., 1989 | REVISADA POR PARES (monografía) | F |
+| Elliott, J.H., *1 Peter*, Anchor Bible 37B, 2000 | REVISADA POR PARES (comentario) | B, C, I |
 | Harland, P.A., *Associations, Synagogues, and Congregations*, 2003 | REVISADA POR PARES (monografía) | I |
+| Hatch, E. y Redpath, H.A., *A Concordance to the Septuagint*, 2.ª ed., 1998 | REVISADA POR PARES (referencia) | D |
+| Kelly, J.N.D., *Early Christian Creeds*, 3.ª ed., 1972 | REVISADA POR PARES (monografía) | F |
+| Lampe, G.W.H., *A Patristic Greek Lexicon*, 1961 | REVISADA POR PARES (léxico) | F |
+| Liddell y Scott, *Greek-English Lexicon*, 9.ª ed. | REVISADA POR PARES (léxico) | D |
 | MacMullen, R., *Paganism in the Roman Empire*, 1981 | REVISADA POR PARES (monografía) | I |
-| Plinio el Joven, *Epistulae* 10.96-97, Loeb Classical Library | PRIMARIA (texto antiguo) | I |
+| Malherbe, A.J., *Social Aspects of Early Christianity*, 2.ª ed., 1983 | REVISADA POR PARES (monografía) | C |
+| Musurillo, H. (ed.), *The Acts of the Christian Martyrs*, 1972 | PRIMARIA (colección de textos) | F |
+| Nestle-Aland, *Novum Testamentum Graece*, 28.ª ed. | PRIMARIA | A, D, G |
+| Plinio el Joven, *Epistulae* 10.96-97, Loeb Classical Library | PRIMARIA (texto antiguo) | C, I |
+| Selwyn, E.G., *The First Epistle of St. Peter*, 2.ª ed., 1947 | REVISADA POR PARES (comentario) | B, D |
 | Tácito, *Anales* 15.44, Loeb Classical Library | PRIMARIA (texto antiguo) | I |
-| Wilken, R.L., *The Christians as the Romans Saw Them*, 2.ª ed., 2003 | REVISADA POR PARES (monografía) | I |
-| Williams, T.B., *Persecution in 1 Peter*, Brill, 2012 | REVISADA POR PARES (monografía) | I |
+| Wilken, R.L., *The Christians as the Romans Saw Them*, 2.ª ed., 2003 | REVISADA POR PARES (monografía) | F, I |
+| Williams, T.B., *Persecution in 1 Peter*, Brill, 2012 | REVISADA POR PARES (monografía) | C, I |
 
 ---
 
+
 **Procedencia editorial:**
-- Redactado por: IA (Claude, Anthropic)
-- Fecha: 26-06-2026
-- Revisado por: pendiente
+- Borrador asistido por IA, aún no revisado.

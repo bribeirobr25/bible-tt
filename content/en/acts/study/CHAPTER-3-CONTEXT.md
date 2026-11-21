@@ -80,9 +80,9 @@ The TT renders both literally and does not decide whether "restoration of all th
 ### A6. Divine speech, Moses's reported speech, and the marking decision (Rule 30)
 **[TEXTUAL — VERIFIED]**
 
-The chapter mixes voices, and the TT's Rule-30 marking tracks them. Kefa's sermon (vv.12-26) is **human** speech and is not marked. The Moses citation (vv.22-23, Deut 18:15-19) is **Moses's** reported speech *about* the LORD ("*the* Lord God will raise up a prophet…"), so it is likewise not divine-marked. But the Abrahamic word (v.25, "And in your seed all the families of the earth will be blessed," Gen 22:18) is **the LORD's own direct covenant speech**, and is marked `@@…@@` (per editorial decision A-004).
+The chapter mixes voices, and the TT's Rule-30 marking tracks them. Kefa's sermon (vv.12-26) is **human** speech and is not marked. The Moses citation (vv.22-23, Deut 18:15-19) is **Moses's** reported speech *about* the LORD ("*the* Lord God will raise up a prophet…"), so it is likewise not divine-marked. The Abrahamic word (v.25, "And in your seed all the families of the earth will be blessed," Gen 22:18) is **the LORD's own direct covenant speech**, but Kefa is quoting it, so it too is not marked.
 
-The result is that within a single human sermon the only marked words are the one clause where God speaks in his own voice. The TT does not flatten the distinction between a prophet quoting God and God speaking. → For the marking policy across Acts 1–3, see the editorial log (Rule 30 scope).
+The result is that the whole sermon is unmarked, including the one clause where God speaks in his own voice: God's words quoted by a human speaker are not marked (Rule 30).
 
 ---
 
@@ -231,38 +231,9 @@ The participle **ἀναστήσας** (*anastēsas*, 3:26), "having raised up,"
 
 ---
 
-## H. Sources Consulted
-
-| Source | Type | Used in sections |
-|--------|------|-----------------|
-| Anderson, R.T. and Giles, T., *The Samaritan Pentateuch*, 2012 | PEER-REVIEWED (monograph) | F |
-| Bahat, D., *The Illustrated Atlas of Jerusalem*, 1990 | PEER-REVIEWED (reference) | C |
-| Bauckham, R. (ed.), *The Book of Acts in Its Palestinian Setting*, 1995 | PEER-REVIEWED (monograph) | C |
-| Bauer, W., *A Greek-English Lexicon of the NT* (BDAG), 3rd ed., 2000 | PEER-REVIEWED (lexicon) | D |
-| Beale, G.K. and Carson, D.A. (eds.), *Commentary on the NT Use of the OT*, 2007 | PEER-REVIEWED (commentary) | B |
-| Betz, H.D. (ed.), *The Greek Magical Papyri in Translation*, 2nd ed., 1992 | PRIMARY (text collection) | B |
-| Bock, D.L., *Acts*, Baker Exegetical Commentary, 2007 | PEER-REVIEWED (commentary) | D |
-| Hatch, E. and Redpath, H.A., *A Concordance to the Septuagint*, 2nd ed., 1998 | PEER-REVIEWED (reference) | D |
-| Josephus, *Jewish Antiquities*, Loeb Classical Library | PRIMARY | B, C |
-| Josephus, *Jewish War*, Loeb Classical Library | PRIMARY | C |
-| Kelly, J.N.D., *Early Christian Doctrines*, 5th ed., 1977 | PEER-REVIEWED (monograph) | F |
-| Liddell and Scott, *Greek-English Lexicon*, 9th ed. | PEER-REVIEWED (lexicon) | D |
-| Mealand, D.L., "The Restoration of All Things: Acts 3:21," *JTS* | PEER-REVIEWED (article) | D |
-| Metzger, B.M., *A Textual Commentary on the Greek New Testament*, 2nd ed., 1994 | PEER-REVIEWED (reference) | G |
-| Nestle-Aland, *Novum Testamentum Graece*, 28th ed. | PRIMARY | A, D, G |
-| Pao, D.W., *Acts and the Isaianic New Exodus*, 2000 | PEER-REVIEWED (monograph) | B |
-| Ramelli, I.L.E., *The Christian Doctrine of Apokatastasis*, 2013 | PEER-REVIEWED (monograph) | F |
-| Sanders, E.P., *Judaism: Practice and Belief*, 1992 | PEER-REVIEWED (monograph) | C, I |
-| Schiller, G., *Iconography of Christian Art*, 1972 | PEER-REVIEWED (monograph) | F |
-| Schürer, E., *History of the Jewish People*, rev. ed., 1973-1979 | PEER-REVIEWED (monograph) | C, I |
-| Vermes, G., *The Complete Dead Sea Scrolls in English*, rev. ed., 2011 | PRIMARY (text collection) | F |
-| Wilkinson, J., *Jerusalem Pilgrims before the Crusades*, 1977 | PEER-REVIEWED (monograph) | F |
-
----
-
 ## I. The World at the Time
 
-> **Cross-reference:** For the full two-scenario, ten-category world context (Political, Economy, Daily Life, Social Structure, Education, Military, Arts, Science, Religion, Neighboring Peoples), see the John 1 companion (Section I, `en/john/study/CHAPTER-1-CONTEXT.md`). Acts 3 is set in the same general historical period; the John 1 section provides the foundation. The entries below address the specific circumstances foregrounded in Acts 3 — the Herodian temple precincts, temple piety and almsgiving, and the place of disability in Second-Temple society.
+> **Cross-reference:** For the full two-scenario, ten-category world context (Political, Economy, Daily Life, Social Structure, Education, Military, Arts, Science, Religion, Neighboring Peoples), see the John 1 study companion (Deeper), Section I. Acts 3 is set in the same general historical period; the John 1 section provides the foundation. The entries below address the specific circumstances foregrounded in Acts 3 — the Herodian temple precincts, temple piety and almsgiving, and the place of disability in Second-Temple society.
 
 ---
 
@@ -316,7 +287,35 @@ After 70 CE, with the temple gone, the locus of almsgiving and charity shifted d
 
 ---
 
+## H. Sources Consulted
+
+| Source | Type | Used in sections |
+|--------|------|-----------------|
+| Anderson, R.T. and Giles, T., *The Samaritan Pentateuch*, 2012 | PEER-REVIEWED (monograph) | F |
+| Bahat, D., *The Illustrated Atlas of Jerusalem*, 1990 | PEER-REVIEWED (reference) | C |
+| Bauckham, R. (ed.), *The Book of Acts in Its Palestinian Setting*, 1995 | PEER-REVIEWED (monograph) | C |
+| Bauer, W., *A Greek-English Lexicon of the NT* (BDAG), 3rd ed., 2000 | PEER-REVIEWED (lexicon) | D |
+| Beale, G.K. and Carson, D.A. (eds.), *Commentary on the NT Use of the OT*, 2007 | PEER-REVIEWED (commentary) | B |
+| Betz, H.D. (ed.), *The Greek Magical Papyri in Translation*, 2nd ed., 1992 | PRIMARY (text collection) | B |
+| Bock, D.L., *Acts*, Baker Exegetical Commentary, 2007 | PEER-REVIEWED (commentary) | D |
+| Hatch, E. and Redpath, H.A., *A Concordance to the Septuagint*, 2nd ed., 1998 | PEER-REVIEWED (reference) | D |
+| Josephus, *Jewish Antiquities*, Loeb Classical Library | PRIMARY | B, C |
+| Josephus, *Jewish War*, Loeb Classical Library | PRIMARY | C |
+| Kelly, J.N.D., *Early Christian Doctrines*, 5th ed., 1977 | PEER-REVIEWED (monograph) | F |
+| Liddell and Scott, *Greek-English Lexicon*, 9th ed. | PEER-REVIEWED (lexicon) | D |
+| Mealand, D.L., "The Restoration of All Things: Acts 3:21," *JTS* | PEER-REVIEWED (article) | D |
+| Metzger, B.M., *A Textual Commentary on the Greek New Testament*, 2nd ed., 1994 | PEER-REVIEWED (reference) | G |
+| Nestle-Aland, *Novum Testamentum Graece*, 28th ed. | PRIMARY | A, D, G |
+| Pao, D.W., *Acts and the Isaianic New Exodus*, 2000 | PEER-REVIEWED (monograph) | B |
+| Ramelli, I.L.E., *The Christian Doctrine of Apokatastasis*, 2013 | PEER-REVIEWED (monograph) | F |
+| Sanders, E.P., *Judaism: Practice and Belief*, 1992 | PEER-REVIEWED (monograph) | C, I |
+| Schiller, G., *Iconography of Christian Art*, 1972 | PEER-REVIEWED (monograph) | F |
+| Schürer, E., *History of the Jewish People*, rev. ed., 1973-1979 | PEER-REVIEWED (monograph) | C, I |
+| Vermes, G., *The Complete Dead Sea Scrolls in English*, rev. ed., 2011 | PRIMARY (text collection) | F |
+| Wilkinson, J., *Jerusalem Pilgrims before the Crusades*, 1977 | PEER-REVIEWED (monograph) | F |
+
+---
+
+
 **Editorial provenance:**
-- Drafted by: AI (Claude, Anthropic)
-- Date: 2026-06-24
-- Reviewed by: pending
+- AI-assisted draft, not yet reviewed.

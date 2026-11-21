@@ -79,7 +79,7 @@ Y estas *son* las generaciones de los hijos de Noé — Sem, Cam y Jafet; y les 
 
 > **NOTAS**
 >
-> 🟡 **NIVEL 2 — ADVERTENCIA DE ETNOGÉNESIS**
+> 🟡 **ADVERTENCIA DE ETNOGÉNESIS**
 > - El marco genealógico de este capítulo no debe usarse para construir jerarquías étnicas, raciales o nacionales modernas. La Tabla de las Naciones es un documento político-geográfico antiguo, no una taxonomía biológica de los pueblos modernos. Vea el compañero Sección F para contexto histórico sobre el uso indebido documentado.
 >
 > 🔴 **FÓRMULA TOLEDOT — CUARTA APARICIÓN**
@@ -156,7 +156,7 @@ Y los hijos de Cam: Kush, y Egipto, y Put, y Canaán.
 > - Cuatro hijos de Cam. Identificaciones: **Kush** (כּוּשׁ) = Nubia / región del alto Nilo (PROBABLE; frecuentemente rendido "Etiopía" en traducciones antiguas, pero esto es engañoso — el antiguo Kush ≠ la Etiopía moderna). **Egipto** (מִצְרַיִם) = Egipto (bien atestiguado; el nombre hebreo estándar para Egipto; la forma dual *-ayim* puede reflejar el Alto y Bajo Egipto). **Put** (פּוּט) = Libia o Punt (POSIBLE para ambos; identificación debatida). **Canaán** (כְּנַעַן) = los Cananeos / tierra de Canaán.
 >
 > 🟢 **POLÍTICA DE TRANSLITERACIÓN**
-> - Según la Regla 4 y el registro editorial (Entrada 2026-04-17-004): nombres propios transliterados desde la forma hebrea, con forma familiar entre paréntesis en primera mención. Kush (no "Cus" ni "Etiopía"), Mitsrayim (Egipto) en primera mención luego "Egipto", Kenaan (Canaán) en primera mención luego "Canaán". Las identificaciones geográficas tradicionales se proporcionan en las notas. El texto presenta estos como personas/antepasados; las notas identifican los pueblos/regiones que representan.
+> - Según la Regla 4: nombres propios transliterados desde la forma hebrea, con forma familiar entre paréntesis en primera mención. Kush (no "Cus" ni "Etiopía"), Mitsrayim (Egipto) en primera mención luego "Egipto", Kenaan (Canaán) en primera mención luego "Canaán". Las identificaciones geográficas tradicionales se proporcionan en las notas. El texto presenta estos como personas/antepasados; las notas identifican los pueblos/regiones que representan.
 
 ---
 

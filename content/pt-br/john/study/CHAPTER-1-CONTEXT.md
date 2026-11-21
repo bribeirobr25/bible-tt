@@ -95,10 +95,10 @@ João 1:28: "Estas coisas aconteceram em Betânia além do Jordão, onde João e
 
 **Fonte:** Riesner, R., "Bethany Beyond the Jordan," in *Anchor Bible Dictionary*, vol. 1, Doubleday, 1992; Waheeb, M., "Wadi al-Kharrar (Bethany Beyond the Jordan)," *Annual of the Department of Antiquities of Jordan* 41, 1997.
 
-### C2. Os perushim e yehudim em João — contexto histórico
+### C2. Os perushim e Yehudim em João — contexto histórico
 **[HISTÓRICO / ARQUEOLÓGICO — VERIFICADO]**
 
-O Quarto Evangelho introduz "os yehudim" (*hoi Ioudaioi*, 1:19) e "os perushim" (*hoi Pharisaioi*, 1:24) como grupos distintos interrogando João. Os perushim (fariseus) eram um movimento judaico que enfatizava a Torá oral, pureza ritual e piedade centrada na sinagoga. Na época em que o Evangelho de João foi composto (provavelmente 90-100 EC), os perushim haviam se tornado o movimento judaico dominante sobrevivente após a destruição do Templo em 70 EC. O termo *hoi Ioudaioi* em João é notoriamente complexo: pode significar "os judeanos" (geográfico), "os judeus" (étnico-religioso) ou "as autoridades judaicas" (institucional), dependendo do contexto. Em 1:19, a delegação vem de Jerusalém, sugerindo um sentido institucional ou geográfico — "os judeanos" como o estabelecimento religioso baseado em Jerusalém. A TT traduz o termo conforme o contexto e anota o alcance semântico.
+O Quarto Evangelho introduz "os Yehudim" (*hoi Ioudaioi*, 1:19) e "os perushim" (*hoi Pharisaioi*, 1:24) como grupos distintos interrogando João. Os perushim (fariseus) eram um movimento judaico que enfatizava a Torá oral, pureza ritual e piedade centrada na sinagoga. Na época em que o Evangelho de João foi composto (provavelmente 90-100 EC), os perushim haviam se tornado o movimento judaico dominante sobrevivente após a destruição do Templo em 70 EC. O termo *hoi Ioudaioi* em João é notoriamente complexo: pode significar "os judeanos" (geográfico), "os judeus" (étnico-religioso) ou "as autoridades judaicas" (institucional), dependendo do contexto. Em 1:19, a delegação vem de Jerusalém, sugerindo um sentido institucional ou geográfico — "os judeanos" como o estabelecimento religioso baseado em Jerusalém. A TT traduz o termo conforme o contexto e anota o alcance semântico.
 
 **Fonte:** Reinhartz, A., *Cast Out of the Covenant: Jews and Anti-Judaism in the Gospel of John*, Lexington Books, 2018; Mason, S., "Pharisees," in *Anchor Bible Dictionary*, vol. 5, Doubleday, 1992.
 
@@ -376,6 +376,4 @@ O pós-70 d.C. viu movimentos populacionais significativos. Refugiados judeus da
 ---
 
 **Proveniência editorial:**
-- Redigido por: Claude Opus 4.6 (assistente de IA)
-- Data: 2026-04-27
-- Revisado por: pendente
+- Rascunho assistido por IA, ainda não revisado.

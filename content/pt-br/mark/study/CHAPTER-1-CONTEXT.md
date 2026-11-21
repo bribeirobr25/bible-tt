@@ -171,7 +171,7 @@ Na imersão a voz de Marcos diz **σὺ εἶ ὁ υἱός μου** (*sy ei ho 
 
 ## I. O Mundo na Época
 
-> **Referência cruzada:** Para o contexto completo do mundo em dois cenários e dez categorias (Político, Economia, Vida Cotidiana, Estrutura Social, Educação, Militar, Artes, Ciência, Religião, Povos Vizinhos), veja o companheiro de João 1 (Seção I, `pt-br/john/study/CHAPTER-1-CONTEXT.md`). As entradas abaixo abordam as circunstâncias específicas destacadas em Marcos 1.
+> **Referência cruzada:** Para o contexto completo do mundo em dois cenários e dez categorias (Político, Economia, Vida Cotidiana, Estrutura Social, Educação, Militar, Artes, Ciência, Religião, Povos Vizinhos), veja o material de estudo de João 1 (Aprofundar), Seção I. As entradas abaixo abordam as circunstâncias específicas destacadas em Marcos 1.
 
 ---
 
@@ -235,6 +235,4 @@ Se Marcos foi composto por volta de 65–70 d.C., sua abertura — um arauto do 
 ---
 
 **Proveniência editorial:**
-- Redigido por: IA (Claude, Anthropic)
-- Data: 2026-06-18
-- Revisado por: pendente
+- Rascunho assistido por IA, ainda não revisado.

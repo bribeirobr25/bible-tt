@@ -21,7 +21,7 @@
 - [Continuous Reading](#continuous-reading)
 - [Verse-by-Verse Study](#verse-by-verse-study)
 - [Glossary — Mark 3](#glossary---mark-3)
-- [Cross-Chapter Tracking (HB -> Mark)](#cross-chapter-tracking-hb--mark)
+- [Cross-Chapter Tracking (HB → Mark)](#cross-chapter-tracking-hb--mark)
 
 ---
 
@@ -473,9 +473,9 @@ For whoever does the will of God, this one is my brother and sister and mother."
 
 ---
 
-## CROSS-CHAPTER TRACKING (HB -> Mark)
+## CROSS-CHAPTER TRACKING (HB → Mark)
 
-**Exodus 20:8–11 / Deuteronomy 5:12–15 -> Mark 3:4 — sabbath and life:**
+**Exodus 20:8–11 / Deuteronomy 5:12–15 → Mark 3:4 — sabbath and life:**
 
 | Element | HB sabbath law | Mark 3:4 |
 |---------|----------------|----------|
@@ -485,7 +485,7 @@ For whoever does the will of God, this one is my brother and sister and mother."
 
 Yeshua frames the sabbath around preserving life — coherent with the rationale of rest-as-gift (Deut 5:14–15) rather than rest-as-restriction.
 
-**The Twelve Tribes -> Mark 3:14–19 — "he made twelve":**
+**The Twelve Tribes → Mark 3:14–19 — "he made twelve":**
 
 | Element | Twelve Tribes of Israel | Mark 3:14 |
 |---------|--------------------------|-----------|
@@ -493,7 +493,7 @@ Yeshua frames the sabbath around preserving life — coherent with the rationale
 | Function | constitute Israel | constitute a new core around Yeshua |
 | Symbolism | covenant people | reconstituted people (implied, not stated) |
 
-**Isaiah 49:24–25 -> Mark 3:27 — plundering the strong:**
+**Isaiah 49:24–25 → Mark 3:27 — plundering the strong:**
 
 | Element | Isaiah 49:24–25 | Mark 3:27 |
 |---------|-----------------|-----------|

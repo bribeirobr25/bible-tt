@@ -18,19 +18,19 @@ Este archivo presenta información biográfica y genealógica sobre figuras que 
 
 ## Yeshua (Jesús)
 **Ver:** matthew/PEOPLE.md
-**En Lucas:** La figura central, anunciada por Gavriel (Gabriel) a Miryam (María) — "concebirás… y llamarás su nombre Yeshua" (1:31), "Hijo *del* Altísimo," heredero "del trono de David su padre" (1:32-33), concebido por el viento/espíritu santo (1:35). Su venida es saludada por el salto del aún no nacido Yochanan (Juan) y por la bendición de Elisheva (Elisabet) (1:41-45). Nacido en Beit-Lechem (Belén), la ciudad de David, recostado en un pesebre (2:6-7); anunciado a los pastores como "un salvador… Mesías, Señor" (2:11); circuncidado y nombrado al octavo día (2:21); presentado en el templo, donde Shimon (Simeón) canta sobre él y Channah (Ana) da gracias (2:25-38); a los doce años hallado entre los maestros, "en las *cosas* de mi Padre" (2:41-49). Inmerso y orando, el cielo se abre, el viento/espíritu desciende, y una voz del cielo dice "Tú eres mi hijo, el amado" (3:21-22). La genealogía lo traza, "según se suponía" hijo de Yosef (José), hacia atrás a través de David y Avraham (Abraham) hasta Adam, "de Dios" (3:23-38). Los campos de biografía canónica (nacimiento, padres, profesión, muerte por crucifixión) viven en matthew/PEOPLE.md; esta entrada añade el papel narrativo específico de Lucas y la genealogía ascendente (véase la tabla abajo).
+**En Lucas:** La figura central, anunciada por Gavriel (Gabriel) a Miryam (María) — "concebirás… y llamarás su nombre Yeshua" (1:31), "Hijo *del* Altísimo," heredero "del trono de David su padre" (1:32-33), concebido por el viento/espíritu santo (1:35). Su venida es saludada por el salto del aún no nacido Yochanan (Juan) y por la bendición de Elisheva (Elisabet) (1:41-45). Nacido en Beit-Lechem (Belén), la ciudad de David, recostado en un pesebre (2:6-7); anunciado a los pastores como "un salvador… Mesías, Señor" (2:11); circuncidado y nombrado al octavo día (2:21); presentado en el templo, donde Shimon (Simeón) canta sobre él y Channah (Ana) da gracias (2:25-38); a los doce años hallado entre los maestros, "en las *cosas* de mi Padre" (2:41-49). Inmerso y orando, el cielo se abre, el viento/espíritu desciende, y una voz del cielo dice "Tú eres mi hijo, el amado" (3:21-22). La genealogía lo traza, "según se suponía" hijo de Yosef (José), hacia atrás a través de David y Avraham (Abraham) hasta Adam, "de Dios" (3:23-38). Los campos de biografía canónica (nacimiento, padres, profesión, muerte por crucifixión) viven en la página Personas y Genealogía de Mateo; esta entrada añade el papel narrativo específico de Lucas y la genealogía ascendente (véase la tabla abajo).
 
 ---
 
 ## Yochanan el Inmersor (Juan el Bautista)
 **Ver:** matthew/PEOPLE.md
-**En Lucas:** Solo Lucas narra su concepción y nacimiento. Anunciado por Gavriel (Gabriel) a su padre, el sacerdote Zecharyah (Zacarías), en el templo (1:11-20): será grande ante el Señor, lleno del viento/espíritu santo desde el vientre, absteniéndose de vino y bebida fuerte, yendo delante del Señor "en *el* espíritu y poder de Eliyahu (Elías)" (1:13-17). Concebido por la anciana, antes estéril, Elisheva (Elisabet) (1:24); salta en el vientre de su madre ante el saludo de Miryam (María) (1:41, 44); nace, es circuncidado y nombrado "Yochanan" contra la expectativa de la familia, soltando la lengua de su padre (1:57-66); crece y permanece en el desierto (1:80). En Lucas 3 "la palabra de Dios vino sobre" él (3:2); proclama una inmersión de cambio de mente para la liberación de los pecados, predica ética concreta a las multitudes, los recaudadores de impuestos y los soldados (3:7-14), señala más allá de sí mismo a uno "más fuerte" (3:15-17), y es encerrado en prisión por Herodes el tetrarca (3:19-20). Los campos de biografía canónica (linaje, estilo de vida, muerte bajo Antipas) viven en matthew/PEOPLE.md; esta entrada añade el papel específico de Lucas.
+**En Lucas:** Solo Lucas narra su concepción y nacimiento. Anunciado por Gavriel (Gabriel) a su padre, el sacerdote Zecharyah (Zacarías), en el templo (1:11-20): será grande ante el Señor, lleno del viento/espíritu santo desde el vientre, absteniéndose de vino y bebida fuerte, yendo delante del Señor "en *el* espíritu y poder de Eliyahu (Elías)" (1:13-17). Concebido por la anciana, antes estéril, Elisheva (Elisabet) (1:24); salta en el vientre de su madre ante el saludo de Miryam (María) (1:41, 44); nace, es circuncidado y nombrado "Yochanan" contra la expectativa de la familia, soltando la lengua de su padre (1:57-66); crece y permanece en el desierto (1:80). En Lucas 3 "la palabra de Dios vino sobre" él (3:2); proclama una inmersión de cambio de mente para la liberación de los pecados, predica ética concreta a las multitudes, los recaudadores de impuestos y los soldados (3:7-14), señala más allá de sí mismo a uno "más fuerte" (3:15-17), y es encerrado en prisión por Herodes el tetrarca (3:19-20). Los campos de biografía canónica (linaje, estilo de vida, muerte bajo Antipas) viven en la página Personas y Genealogía de Mateo; esta entrada añade el papel específico de Lucas.
 
 ---
 
 ## Miryam (María)
 **Ver:** matthew/PEOPLE.md
-**En Lucas:** Mucho más prominente que en Mateo. Una virgen de Natzeret (Nazaret) desposada con Yosef (José), llamada por Gavriel (Gabriel) la "favorecida" (1:28); ella pregunta ("¿Cómo será esto?") y consiente — "que me suceda según tu palabra" (1:34-38). Visita a Elisheva (Elisabet) y canta el Magníficat (1:46-55). Da a luz a Yeshua (Jesús) en Beit-Lechem (Belén) (2:7), "atesora" y "medita" el informe de los pastores (2:19), oye las palabras de Shimon (Simeón) de que "una espada traspasará tu propia alma" (2:35), y de nuevo en el templo "guardó todas estas cosas en su corazón" (2:51). Los campos de biografía canónica viven en matthew/PEOPLE.md; esta entrada añade el papel específico de Lucas — en Lucas ella habla y actúa como un agente, el centro de la narrativa en los capítulos 1–2.
+**En Lucas:** Mucho más prominente que en Mateo. Una virgen de Natzeret (Nazaret) desposada con Yosef (José), llamada por Gavriel (Gabriel) la "favorecida" (1:28); ella pregunta ("¿Cómo será esto?") y consiente — "que me suceda según tu palabra" (1:34-38). Visita a Elisheva (Elisabet) y canta el Magníficat (1:46-55). Da a luz a Yeshua (Jesús) en Beit-Lechem (Belén) (2:7), "atesora" y "medita" el informe de los pastores (2:19), oye las palabras de Shimon (Simeón) de que "una espada traspasará tu propia alma" (2:35), y de nuevo en el templo "guardó todas estas cosas en su corazón" (2:51). Los campos de biografía canónica viven en la página Personas y Genealogía de Mateo; esta entrada añade el papel específico de Lucas — en Lucas ella habla y actúa como un agente, el centro de la narrativa en los capítulos 1–2.
 
 ---
 
@@ -90,7 +90,7 @@ Este archivo presenta información biográfica y genealógica sobre figuras que 
 **Libros en que aparece:** Lucas; Daniel
 **Arco del personaje:** El mismo mensajero nombrado enmarca ambas anunciaciones; traza el paralelo Juan/Yeshua y, por su reproche a Zacarías y su gentileza hacia María, agudiza el contraste entre la duda y la fe.
 
-**Nota (Regla 30):** Gavriel (Gabriel) es un *angelos*, un mensajero — no Dios. Su discurso se presenta por tanto en comillas ordinarias, NO con los marcadores de discurso divino `@@…@@`. Solo el discurso directo de Dios/del viento-espíritu lleva la marca divina (p. ej. la voz del cielo, 3:22). Véase luke.md L-001.
+**Nota (Regla 30):** Gavriel (Gabriel) es un *angelos*, un mensajero — no Dios. Su discurso se presenta por tanto en comillas ordinarias, NO con los marcadores de habla divina (en rojo). Solo el discurso directo de Dios/del viento-espíritu lleva la marca divina (p. ej. la voz del cielo, 3:22).
 
 ---
 
@@ -130,7 +130,7 @@ Este archivo presenta información biográfica y genealógica sobre figuras que 
 **Libros en que aparece:** Lucas
 **Arco del personaje:** El remanente fiel de Israel personificado; habiendo esperado la consolación, reconoce la salvación en un infante, y luego pronuncia la primera advertencia de la cruz y del dolor de María.
 
-**Nota (Regla 30):** Las palabras de Shimon (Simeón) — tanto el Nunc Dimittis (2:29-32) como el oráculo a María (2:34-35) — son discurso *humano*, no marcado como divino; el cántico se presenta como prosa fluida (luke.md L-002). Se dirige a Dios como *despotēs* ("Soberano"), no *kyrios*.
+**Nota (Regla 30):** Las palabras de Shimon (Simeón) — tanto el Nunc Dimittis (2:29-32) como el oráculo a María (2:34-35) — son discurso *humano*, no marcado como divino; el cántico se presenta como prosa fluida. Se dirige a Dios como *despotēs* ("Soberano"), no *kyrios*.
 
 ---
 
@@ -236,18 +236,18 @@ Este archivo presenta información biográfica y genealógica sobre figuras que 
 **Libros en que aparece:** Lucas; Mateo; Marcos; Hechos 4:27; 13:1
 **Arco del personaje:** El gobernante que silencia al profeta; Lucas narra el encarcelamiento de forma proléptica, retirando a Juan antes de la inmersión para que el foco recaiga sobre Yeshua (Jesús).
 
-**Nota:** Distinto de su padre, Herodes el Grande (Lucas 1:5; entrada completa en matthew/PEOPLE.md), y de Herodes Felipe su hermano (3:1). "Herodías" y los tetrarcas Philippos (Felipe) y Lisanias se nombran solo de pasada en Lucas 1–3.
+**Nota:** Distinto de su padre, Herodes el Grande (Lucas 1:5; entrada completa en la página Personas y Genealogía de Mateo), y de Herodes Felipe su hermano (3:1). "Herodías" y los tetrarcas Philippos (Felipe) y Lisanias se nombran solo de pasada en Lucas 1–3.
 
 ---
 
 ## Genealogía de Lucas 3:23-38 — Tabla Resumen
 
-La genealogía de Lucas **asciende** desde Yeshua (Jesús) hasta Adam y hasta Dios — lo inverso de la lista descendente de Mateo (Mt 1:1-17). Recorre ~76 nombres desde Yeshua hasta "de Dios." Para los nombres con una forma familiar en español, la glosa familiar se da una vez; los nombres sin una forma familiar distinta aparecen solo en transliteración. Entradas de otros libros: los patriarcas (Adam → la línea de Sem) tienen sus biografías canónicas en **genesis/PEOPLE.md**; la línea de David conecta con **matthew/PEOPLE.md** (los stubs de solo-referencia arriba cubren las tres figuras principales — Yeshua, Yochanan, Miryam).
+La genealogía de Lucas **asciende** desde Yeshua (Jesús) hasta Adam y hasta Dios — lo inverso de la lista descendente de Mateo (Mt 1:1-17). Recorre ~76 nombres desde Yeshua hasta "de Dios." Para los nombres con una forma familiar en español, la glosa familiar se da una vez; los nombres sin una forma familiar distinta aparecen solo en transliteración. Entradas de otros libros: los patriarcas (Adam → la línea de Sem) tienen sus biografías canónicas en **la página Personas y Genealogía de Génesis**; la línea de David conecta con **la página Personas y Genealogía de Mateo** (las remisiones de arriba cubren las tres figuras principales — Yeshua, Yochanan, Miryam).
 
 | # | Nombre (Familiar) | Referencia | Hogar canónico |
 |---|---|---|---|
-| — | Yeshua (Jesús) | 3:23 | matthew/PEOPLE.md (stub de referencia arriba) |
-| 1 | Yosef (José) | 3:23 | luke/PEOPLE.md (entrada completa arriba) |
+| — | Yeshua (Jesús) | 3:23 | ver Mateo |
+| 1 | Yosef (José) | 3:23 | entrada completa arriba |
 | 2 | Eli | 3:23 | — |
 | 3 | Mattat | 3:24 | — |
 | 4 | Levi | 3:24 | — |
@@ -288,7 +288,7 @@ La genealogía de Lucas **asciende** desde Yeshua (Jesús) hasta Adam y hasta Di
 | 39 | Mena | 3:31 | — |
 | 40 | Mattata | 3:31 | — |
 | 41 | Natan (Natán) | 3:31 | — (hijo de David; cf. 2 Sam 5:14 — la línea de Lucas, no la de Salomón) |
-| 42 | David | 3:31 | matthew/PEOPLE.md (entrada completa; samuel/kings más adelante) |
+| 42 | David | 3:31 | ver Mateo (entrada completa) |
 | 43 | Yishai (Isaí) | 3:32 | — |
 | 44 | Oved (Obed) | 3:32 | — |
 | 45 | Bo'az (Booz) | 3:32 | — |
@@ -298,31 +298,31 @@ La genealogía de Lucas **asciende** desde Yeshua (Jesús) hasta Adam y hasta Di
 | 49 | Admin | 3:33 | — (NA28; otros testigos leen "Aram") |
 | 50 | Arni | 3:33 | — (NA28; otros testigos leen "Aram") |
 | 51 | Chetsron (Esrón) | 3:33 | — |
-| 52 | Perets (Fares) | 3:33 | contexto genesis/PEOPLE.md (cf. matthew/PEOPLE.md) |
-| 53 | Yehudah (Judá) | 3:33 | genesis/PEOPLE.md |
-| 54 | Ya'aqov (Jacob) | 3:34 | genesis/PEOPLE.md |
-| 55 | Yitzchak (Isaac) | 3:34 | genesis/PEOPLE.md |
-| 56 | Avraham (Abraham) | 3:34 | genesis/PEOPLE.md |
-| 57 | Terach (Taré) | 3:34 | genesis/PEOPLE.md |
-| 58 | Nachor (Nacor) | 3:34 | genesis/PEOPLE.md |
-| 59 | Serug | 3:35 | genesis/PEOPLE.md |
-| 60 | Re'u (Reú) | 3:35 | genesis/PEOPLE.md |
-| 61 | Peleg | 3:35 | genesis/PEOPLE.md |
-| 62 | Ever (Heber) | 3:35 | genesis/PEOPLE.md |
-| 63 | Shelach (Sala) | 3:35 | genesis/PEOPLE.md |
-| 64 | Qenan (Cainán) | 3:36 | genesis/PEOPLE.md (el segundo Qenan, solo en la LXX; véase nota) |
-| 65 | Arpakhshad (Arfaxad) | 3:36 | genesis/PEOPLE.md |
-| 66 | Shem (Sem) | 3:36 | genesis/PEOPLE.md |
-| 67 | Noach (Noé) | 3:36 | genesis/PEOPLE.md |
-| 68 | Lemekh (Lamec) | 3:36 | genesis/PEOPLE.md (Lamec Setita) |
-| 69 | Metushelach (Matusalén) | 3:37 | genesis/PEOPLE.md |
-| 70 | Chanokh (Enoc) | 3:37 | genesis/PEOPLE.md |
-| 71 | Yered (Jared) | 3:37 | genesis/PEOPLE.md |
-| 72 | Mahalal'el (Mahalaleel) | 3:37 | genesis/PEOPLE.md |
-| 73 | Qenan (Cainán) | 3:37 | genesis/PEOPLE.md |
-| 74 | Enosh (Enós) | 3:38 | genesis/PEOPLE.md |
-| 75 | Shet (Set) | 3:38 | genesis/PEOPLE.md |
-| 76 | Adam (Adán) | 3:38 | genesis/PEOPLE.md |
+| 52 | Perets (Fares) | 3:33 | ver Génesis (contexto; cf. Mateo) |
+| 53 | Yehudah (Judá) | 3:33 | ver Génesis |
+| 54 | Ya'aqov (Jacob) | 3:34 | ver Génesis |
+| 55 | Yitzchak (Isaac) | 3:34 | ver Génesis |
+| 56 | Avraham (Abraham) | 3:34 | ver Génesis |
+| 57 | Terach (Taré) | 3:34 | ver Génesis |
+| 58 | Nachor (Nacor) | 3:34 | ver Génesis |
+| 59 | Serug | 3:35 | ver Génesis |
+| 60 | Re'u (Reú) | 3:35 | ver Génesis |
+| 61 | Peleg | 3:35 | ver Génesis |
+| 62 | Ever (Heber) | 3:35 | ver Génesis |
+| 63 | Shelach (Sala) | 3:35 | ver Génesis |
+| 64 | Qenan (Cainán) | 3:36 | ver Génesis (el segundo Qenan, solo en la LXX; véase nota) |
+| 65 | Arpakhshad (Arfaxad) | 3:36 | ver Génesis |
+| 66 | Shem (Sem) | 3:36 | ver Génesis |
+| 67 | Noach (Noé) | 3:36 | ver Génesis |
+| 68 | Lemekh (Lamec) | 3:36 | ver Génesis (Lamec Setita) |
+| 69 | Metushelach (Matusalén) | 3:37 | ver Génesis |
+| 70 | Chanokh (Enoc) | 3:37 | ver Génesis |
+| 71 | Yered (Jared) | 3:37 | ver Génesis |
+| 72 | Mahalal'el (Mahalaleel) | 3:37 | ver Génesis |
+| 73 | Qenan (Cainán) | 3:37 | ver Génesis |
+| 74 | Enosh (Enós) | 3:38 | ver Génesis |
+| 75 | Shet (Set) | 3:38 | ver Génesis |
+| 76 | Adam (Adán) | 3:38 | ver Génesis |
 | — | Dios | 3:38 | (la cadena en genitivo termina "de Dios"; Adam "hijo de Dios" por creación, Gn 1:27; 5:1) |
 
 **Nota — divergencia respecto de Mateo (crux, marcada para revisión helenista según la Regla 13):**
@@ -331,7 +331,7 @@ La genealogía de Lucas **asciende** desde Yeshua (Jesús) hasta Adam y hasta Di
 - **Dirección y alcance:** Lucas **asciende** y continúa *más allá* de Avraham (Abraham) a través de Terach, la línea de Sem, los patriarcas antediluvianos, hasta Adam y "de Dios" (3:34-38); Mateo **desciende** y se detiene en Abraham.
 - **El Qenan solo en la LXX:** la lista de Lucas incluye un segundo **Qenan (Cainán)** entre Arpakhshad y Shelach (3:36) — presente en la LXX de Gn 11:12-13 pero ausente del Texto Masorético hebreo.
 - **Convergencia:** Desde David hacia atrás hasta Nachshon (3:31-32) la línea coincide con Rut 4:18-22 y Mateo 1:3-6; el par Zerubbavel–She'altiel (3:27) también se solapa con Mateo 1:12, aunque los nombres circundantes difieren.
-- Las armonizaciones propuestas (que Lucas da la línea de Miryam/María a través de Elí; matrimonio levirato; descendencia legal versus biológica — todas ligadas al matiz "según se suponía" de 3:23) son disputadas. La TT presenta la lista de Lucas tal como la da el griego y no resuelve a quién pertenece la línea. Véase Lucas 3 §A4 y docs/editorial-log/luke.md.
+- Las armonizaciones propuestas (que Lucas da la línea de Miryam/María a través de Elí; matrimonio levirato; descendencia legal versus biológica — todas ligadas al matiz "según se suponía" de 3:23) son disputadas. La TT presenta la lista de Lucas tal como la da el griego y no resuelve a quién pertenece la línea. Véase el material de estudio de Lucas 3 (Profundizar), Sección A4.
 
 ---
 
@@ -343,4 +343,4 @@ La genealogía de Lucas **asciende** desde Yeshua (Jesús) hasta Adam y hasta Di
 - **PEER-REVIEWED (lexicon)** — BDAG, *A Greek-English Lexicon of the New Testament*, 3ª ed.; HALOT, *The Hebrew and Aramaic Lexicon of the Old Testament*.
 - **PEER-REVIEWED (commentary)** — Bovon, F., *Luke 1* (Hermeneia, 2002); Fitzmyer, J.A., *The Gospel According to Luke I–IX* (AB, 1981); Marshall, I.H., *The Gospel of Luke* (NIGTC, 1978).
 
-> **Procedencia editorial:** Redactado por Claude Opus 4.8 (contexto 1M) el 22-06-2026. Sin revisión. Este archivo es un recurso académico provisional gobernado por la Regla 29 de la TT. Las referencias cruzadas a genesis/PEOPLE.md y matthew/PEOPLE.md enlazan a entradas existentes en lugar de duplicar contenido; la divergencia de la genealogía respecto de Mateo se marca para revisión helenista (Regla 13).
+> **Procedencia editorial:** Borrador asistido por IA, aún no revisado. Este archivo es un recurso académico provisional gobernado por la Regla 29 de la TT. Las referencias cruzadas a la página Personas y Genealogía de Génesis y a la página Personas y Genealogía de Mateo enlazan a entradas existentes en lugar de duplicar contenido; la divergencia de la genealogía respecto de Mateo se marca para revisión helenista (Regla 13).

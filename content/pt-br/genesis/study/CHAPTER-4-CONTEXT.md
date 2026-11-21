@@ -71,7 +71,7 @@ Genesis 4:13: עָוֹן (*avon*) significa tanto "culpa/pecado" quanto "puniç�
 ### A10. Adam se torna nome próprio em 4:25
 **[TEXTUAL — VERIFICADO]**
 
-Genesis 4:25: primeiro *adam* anártrico (sem o artigo definido no hebraico) em um contexto genealógico/de nomeação. A TT muda de "o humano" para "Adam" aqui, sinalizado com uma nota 🔴 CRÍTICA. Esta é a decisão do registro editorial (entrada 081).
+Genesis 4:25: primeiro *adam* anártrico (sem o artigo definido no hebraico) em um contexto genealógico/de nomeação. A TT muda de "o humano" para "Adam" aqui, sinalizado com uma nota 🔴 CRÍTICA.
 
 ### A11. "Outra semente" — a linhagem da mulher continua
 **[TEXTUAL — VERIFICADO]**
@@ -220,7 +220,7 @@ Genesis 4:17–22 situa as origens da civilização na linhagem de Caim: constru
 
 ## I. O Mundo na Época
 
-> **Referência cruzada:** Para o contexto mundial completo (quatro cenários, dez categorias — Político, Economia, Vida Cotidiana, Estrutura Social, Educação, Militar, Artes, Ciência, Religião, Povos Vizinhos), veja o companheiro de Gênesis 1 (Seção I, `pt-br/genesis/study/CHAPTER-1-CONTEXT.md`). As entradas abaixo abordam as circunstâncias históricas especificamente destacadas em Gênesis 4 — a agricultura versus o pastoralismo, as práticas de sacrifício e oferenda, o fratricídio, a marca de Caim, a construção de cidades e a genealogia cultural culminando em Tuval-Qayin.
+> **Referência cruzada:** Para o contexto mundial completo (quatro cenários, dez categorias — Político, Economia, Vida Cotidiana, Estrutura Social, Educação, Militar, Artes, Ciência, Religião, Povos Vizinhos), veja o material de estudo de Gênesis 1 (Aprofundar), Seção I. As entradas abaixo abordam as circunstâncias históricas especificamente destacadas em Gênesis 4 — a agricultura versus o pastoralismo, as práticas de sacrifício e oferenda, o fratricídio, a marca de Caim, a construção de cidades e a genealogia cultural culminando em Tuval-Qayin.
 
 ---
 
@@ -325,6 +325,4 @@ O período helenístico foi a grande era de fundação de cidades: Alexandre fun
 ---
 
 **Procedência editorial:**
-- Redigido por: Claude Opus 4.6 (assistente de IA)
-- Data: 2026-04-15
-- Revisado por: pendente
+- Rascunho assistido por IA, ainda não revisado.

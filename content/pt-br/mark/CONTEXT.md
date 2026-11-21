@@ -79,6 +79,4 @@ A formação de um séquito corre da margem do lago ao monte. No capítulo 1 Yes
 ---
 
 **Proveniência editorial:**
-- Redigido por: IA (Claude, Anthropic)
-- Data: 2026-06-18
-- Revisado por: pendente
+- Rascunho assistido por IA, ainda não revisado.

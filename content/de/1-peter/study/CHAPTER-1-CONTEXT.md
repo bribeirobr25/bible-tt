@@ -50,9 +50,9 @@ Diese Datei enthält Hintergrundmaterial, geordnet nach Themen. Jeder Eintrag tr
 ### A2. Die triadisch geformte Erwählung, wiedergegeben ohne spätere Dogmatik (Regel 3)
 **[TEXTUELL — VERIFIZIERT (für die drei Wendungen); MÖGLICHE SCHLUSSFOLGERUNG — UNSICHER (für die Beziehungen unter ihnen)]**
 
-Die Erwählung von 1,2 wird von drei Präpositionalwendungen bestimmt, die den Vater, den {a:Wind/Geist} und das Blut Yeshuas benennen: **κατὰ πρόγνωσιν θεοῦ πατρός** („gemäß *dem* Vorherwissen Gottes *des* Vaters"), **ἐν ἁγιασμῷ πνεύματος** („in Heiligung *des* {a:Wind/Geist}"), **εἰς ὑπακοὴν καὶ ῥαντισμὸν αἵματος Ἰησοῦ Χριστοῦ** („zum Gehorsam und zur Besprengung *des* Blutes Yeshuas *des* Messias"). Die TT gibt die Vater/Geist/Blut-Struktur genau so wieder, wie das Griechische sie bietet, und trägt das spätere Vokabular „die Dreieinigkeit" **nicht** ein und gibt auch die Beziehungen unter den dreien nicht näher an (Regel 3; redaktionelles Protokoll P-008).
+Die Erwählung von 1,2 wird von drei Präpositionalwendungen bestimmt, die den Vater, den {a:Wind/Geist} und das Blut Yeshuas benennen: **κατὰ πρόγνωσιν θεοῦ πατρός** („gemäß *dem* Vorherwissen Gottes *des* Vaters"), **ἐν ἁγιασμῷ πνεύματος** („in Heiligung *des* {a:Wind/Geist}"), **εἰς ὑπακοὴν καὶ ῥαντισμὸν αἵματος Ἰησοῦ Χριστοῦ** („zum Gehorsam und zur Besprengung *des* Blutes Yeshuas *des* Messias"). Die TT gibt die Vater/Geist/Blut-Struktur genau so wieder, wie das Griechische sie bietet, und trägt das spätere Vokabular „die Dreieinigkeit" **nicht** ein und gibt auch die Beziehungen unter den dreien nicht näher an (Regel 3).
 
-**[MÖGLICHE SCHLUSSFOLGERUNG — UNSICHER]** Ob die drei Wendungen verschiedene Funktionen zuweisen (der Vater, der vorherweiß; der Geist, der heiligt; das Blut, das bekräftigt) oder einfach einen einzigen Gnadenakt anhäufen, ist von der Syntax nicht entschieden; die Präpositionen (*kata* / *en* / *eis*) sind verschieden, doch ihre Kraft ist umstritten. Die TT hält die dreifache Gestalt sichtbar und überlässt die systematische Frage dem Leser. → siehe redaktionelles Protokoll P-008.
+**[MÖGLICHE SCHLUSSFOLGERUNG — UNSICHER]** Ob die drei Wendungen verschiedene Funktionen zuweisen (der Vater, der vorherweiß; der Geist, der heiligt; das Blut, das bekräftigt) oder einfach einen einzigen Gnadenakt anhäufen, ist von der Syntax nicht entschieden; die Präpositionen (*kata* / *en* / *eis*) sind verschieden, doch ihre Kraft ist umstritten. Die TT hält die dreifache Gestalt sichtbar und überlässt die systematische Frage dem Leser.
 
 ### A3. „Besprengung mit Blut" — das Bundesritual hinter der Wendung
 **[TEXTUELL — VERIFIZIERT (für das Lexem); MÖGLICHE SCHLUSSFOLGERUNG — WAHRSCHEINLICH (für den Sinai-Bezug)]**
@@ -99,7 +99,7 @@ Der erste Hauptimperativ des Briefes (1,13) lautet **ἀναζωσάμενοι �
 ### A11. Das Levitikus-Zitat als Gottes Wort in der ersten Person (Regel 30)
 **[TEXTUELL — VERIFIZIERT]**
 
-In 1,16 wird der Ruf zur Heiligkeit in einem Zitat verankert: **Ἅγιοι ἔσεσθε, ὅτι ἐγὼ ἅγιος** („Seid heilig, denn ich *bin* heilig"), aus Levitikus 11,44-45; 19,2; 20,7. Weil die Quelle **Gottes eigene Rede in der ersten Person** ist (der Herr spricht „ich bin heilig"), kennzeichnet die TT es `@@…@@` gemäß Regel 30 (der Präzedenzfall A-004; redaktionelles Protokoll). Dies ist die einzige Göttliche-Rede-Markierung im Kapitel: Die umgebende Ermahnung ist die eigene Stimme des Apostels und ist unmarkiert, und die anderen Zitate (Jes 40 in 1,24-25) sind die menschliche Stimme des Propheten und ebenso unmarkiert. Die TT verflacht also nicht den Unterschied zwischen dem ermahnenden Kefa und dem im Zitat sprechenden Gott. Die Kopula „*bin*" ist kursiv ergänzt, da das Griechische (und das Hebräische dahinter) verblos ist. → siehe §A12.
+In 1,16 wird der Ruf zur Heiligkeit in einem Zitat verankert: **Ἅγιοι ἔσεσθε, ὅτι ἐγὼ ἅγιος** („Seid heilig, denn ich *bin* heilig"), aus Levitikus 11,44-45; 19,2; 20,7. Die Quelle ist **Gottes eigene Rede in der ersten Person** (der Herr spricht „ich bin heilig"), doch die TT kennzeichnet sie nicht: Sie wird mit „es steht geschrieben" eingeführt, also zitiert Kefa sie (Regel 30). Das Kapitel trägt daher keine Göttliche-Rede-Markierung: Die umgebende Ermahnung ist die eigene Stimme des Apostels, und die anderen Zitate (Jes 40 in 1,24-25) sind die menschliche Stimme des Propheten. Die Kopula „*bin*" ist kursiv ergänzt, da das Griechische (und das Hebräische dahinter) verblos ist. → siehe §A12.
 
 ### A12. *Anastrophē* — „Wandel" als Schlüsselwort des 1. Petrus
 **[TEXTUELL — VERIFIZIERT]**
@@ -248,35 +248,6 @@ Das Kapitel endet mit einem leisen lexikalischen Zug. Die neue Geburt kommt „d
 
 ---
 
-## H. Konsultierte Quellen
-
-| Quelle | Typ | Verwendet in Abschnitten |
-|--------|------|-----------------|
-| Achtemeier, P.J., *1 Peter*, Hermeneia, 1996 | PEER-REVIEWED (commentary) | F |
-| Balch, D.L., *Let Wives Be Submissive: The Domestic Code in 1 Peter*, 1981 | PEER-REVIEWED (monograph) | C |
-| Bauckham, R., *The Jewish World around the New Testament*, 2008 | PEER-REVIEWED (monograph) | B |
-| Bauer, W., *A Greek-English Lexicon of the NT* (BDAG), 3. Aufl., 2000 | PEER-REVIEWED (lexicon) | D |
-| Beale, G.K. und Carson, D.A. (Hrsg.), *Commentary on the NT Use of the OT*, 2007 | PEER-REVIEWED (commentary) | B |
-| Cross, F.L., *1 Peter: A Paschal Liturgy*, 1954 | PEER-REVIEWED (monograph) | F |
-| deSilva, D.A., *Honor, Patronage, Kinship and Purity*, 2000 | PEER-REVIEWED (monograph) | C |
-| Doering, L., *Ancient Jewish Letters and the Beginnings of Christian Epistolography*, 2012 | PEER-REVIEWED (monograph) | B |
-| Elliott, J.H., *A Home for the Homeless*, 1981 | PEER-REVIEWED (monograph) | C, F |
-| Elliott, J.H., *1 Peter*, Anchor Bible 37B, 2000 | PEER-REVIEWED (commentary) | F |
-| Feldmeier, R., *The First Letter of Peter*, 2008 | PEER-REVIEWED (commentary) | C |
-| Hemer, C.J., „The Address of 1 Peter", *Expository Times* 89 (1978) | PEER-REVIEWED (article) | C |
-| Holmes, M.W. (Hrsg.), *The Apostolic Fathers*, 3. Aufl., 2007 (*Diognet*) | PRIMARY (text collection) | F |
-| Jobes, K.H., *1 Peter*, Baker Exegetical Commentary, 2005 | PEER-REVIEWED (commentary) | B |
-| Kelly, J.N.D., *Early Christian Doctrines*, 5. Aufl., 1977 | PEER-REVIEWED (monograph) | F |
-| Liddell und Scott, *Greek-English Lexicon*, 9. Aufl. | PEER-REVIEWED (lexicon) | D |
-| Marshall, I.H., *Aspects of the Atonement*, 2007 | PEER-REVIEWED (monograph) | D |
-| Michaels, J.R., *1 Peter*, Word Biblical Commentary 49, 1988 | PEER-REVIEWED (commentary) | D |
-| Mitchell, S., *Anatolia: Land, Men, and Gods in Asia Minor*, 1993 | PEER-REVIEWED (monograph) | C |
-| Nestle-Aland, *Novum Testamentum Graece*, 28. Aufl. | PRIMARY | A, D, G |
-| Vermes, G., *The Complete Dead Sea Scrolls in English*, rev. Aufl., 2011 | PRIMARY (text collection) | B |
-| Wolff, H.W., *Anthropology of the Old Testament*, 1974 | PEER-REVIEWED (monograph) | D |
-
----
-
 ## I. Die Welt zur damaligen Zeit
 
 > **Ein Brief, keine Erzählung.** Da 1. Petrus ein Brief ist, beschreibt dieser Abschnitt die **soziale Welt der Empfänger** — den gelebten Schauplatz der „erwählten Fremdlinge *der* Zerstreuung", die in 1,1 angesprochen werden — statt einer erzählten Szene. Die Leser sind über fünf Provinzen des römischen Kleinasien in der Mitte des 1. Jahrhunderts n. Chr. verstreut; die folgenden Einträge skizzieren die politische, soziale, religiöse und häusliche Welt, gegen die die Exil-Identität des Briefes, sein Ruf zur Heiligkeit und seine Vorwegnahme von Verleumdung und Leiden gelesen werden müssen. Die beiden Szenarien klammern das meistdiskutierte Datierungsfenster für den Brief ein (eine petrinische/neronische Abfassung in den frühen 60er Jahren n. Chr. gegenüber einer späteren Abfassung im 1. Jahrhundert), da sich der soziale Druck auf die Leser in jedem etwas anders registriert.
@@ -333,24 +304,43 @@ Im späteren 1. Jahrhundert waren die Nachfolger Yeshuas in Kleinasien eine zune
 
 ---
 
+## H. Konsultierte Quellen
+
 | Quelle | Typ | Verwendet in Abschnitten |
 |--------|------|-----------------|
-| Balch, D.L., *Let Wives Be Submissive*, 1981 | PEER-REVIEWED (monograph) | I |
-| deSilva, D.A., *Honor, Patronage, Kinship and Purity*, 2000 | PEER-REVIEWED (monograph) | I |
-| Elliott, J.H., *A Home for the Homeless*, 1981 | PEER-REVIEWED (monograph) | I |
+| Achtemeier, P.J., *1 Peter*, Hermeneia, 1996 | PEER-REVIEWED (commentary) | F |
+| Balch, D.L., *Let Wives Be Submissive: The Domestic Code in 1 Peter*, 1981 | PEER-REVIEWED (monograph) | C, I |
+| Bauckham, R., *The Jewish World around the New Testament*, 2008 | PEER-REVIEWED (monograph) | B |
+| Bauer, W., *A Greek-English Lexicon of the NT* (BDAG), 3. Aufl., 2000 | PEER-REVIEWED (lexicon) | D |
+| Beale, G.K. und Carson, D.A. (Hrsg.), *Commentary on the NT Use of the OT*, 2007 | PEER-REVIEWED (commentary) | B |
+| Cross, F.L., *1 Peter: A Paschal Liturgy*, 1954 | PEER-REVIEWED (monograph) | F |
+| deSilva, D.A., *Honor, Patronage, Kinship and Purity*, 2000 | PEER-REVIEWED (monograph) | C, I |
+| Doering, L., *Ancient Jewish Letters and the Beginnings of Christian Epistolography*, 2012 | PEER-REVIEWED (monograph) | B |
+| Elliott, J.H., *1 Peter*, Anchor Bible 37B, 2000 | PEER-REVIEWED (commentary) | F |
+| Elliott, J.H., *A Home for the Homeless*, 1981 | PEER-REVIEWED (monograph) | C, F, I |
+| Feldmeier, R., *The First Letter of Peter*, 2008 | PEER-REVIEWED (commentary) | C |
 | Goodman, M., *Rome and Jerusalem*, 2007 | PEER-REVIEWED (monograph) | I |
+| Hemer, C.J., „The Address of 1 Peter", *Expository Times* 89 (1978) | PEER-REVIEWED (article) | C |
+| Holmes, M.W. (Hrsg.), *The Apostolic Fathers*, 3. Aufl., 2007 (*Diognet*) | PRIMARY (text collection) | F |
 | Horrell, D.G., *Becoming Christian: Essays on 1 Peter*, 2013 | PEER-REVIEWED (monograph) | I |
+| Jobes, K.H., *1 Peter*, Baker Exegetical Commentary, 2005 | PEER-REVIEWED (commentary) | B |
+| Kelly, J.N.D., *Early Christian Doctrines*, 5. Aufl., 1977 | PEER-REVIEWED (monograph) | F |
+| Liddell und Scott, *Greek-English Lexicon*, 9. Aufl. | PEER-REVIEWED (lexicon) | D |
 | Magie, D., *Roman Rule in Asia Minor*, 1950 | PEER-REVIEWED (monograph) | I |
-| Mitchell, S., *Anatolia: Land, Men, and Gods in Asia Minor*, 1993 | PEER-REVIEWED (monograph) | I |
+| Marshall, I.H., *Aspects of the Atonement*, 2007 | PEER-REVIEWED (monograph) | D |
+| Michaels, J.R., *1 Peter*, Word Biblical Commentary 49, 1988 | PEER-REVIEWED (commentary) | D |
+| Mitchell, S., *Anatolia: Land, Men, and Gods in Asia Minor*, 1993 | PEER-REVIEWED (monograph) | C, I |
+| Nestle-Aland, *Novum Testamentum Graece*, 28. Aufl. | PRIMARY | A, D, G |
 | Osiek, C. und Balch, D.L., *Families in the New Testament World*, 1997 | PEER-REVIEWED (monograph) | I |
 | Plinius der Jüngere, *Briefe* 10,96-97, Loeb Classical Library | PRIMARY | I |
 | Price, S.R.F., *Rituals and Power: The Roman Imperial Cult in Asia Minor*, 1984 | PEER-REVIEWED (monograph) | I |
 | Trebilco, P., *Jewish Communities in Asia Minor*, 1991 | PEER-REVIEWED (monograph) | I |
+| Vermes, G., *The Complete Dead Sea Scrolls in English*, rev. Aufl., 2011 | PRIMARY (text collection) | B |
 | Williams, M.H., *The Jews among the Greeks and Romans*, 1998 | PEER-REVIEWED (monograph) | I |
+| Wolff, H.W., *Anthropology of the Old Testament*, 1974 | PEER-REVIEWED (monograph) | D |
 
 ---
 
+
 **Redaktionelle Herkunft:**
-- Entworfen von: KI (Claude, Anthropic)
-- Datum: 2026-06-26
-- Begutachtet von: ausstehend
+- KI-gestützter Entwurf, noch nicht geprüft.

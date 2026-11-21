@@ -101,6 +101,4 @@ Un motivo de restauración, llevado por la familia léxica *apokathistēmi*/*apo
 ---
 
 **Procedencia editorial:**
-- Redactado por: IA (Claude, Anthropic)
-- Fecha: 2026-06-24
-- Revisado por: pendiente
+- Borrador asistido por IA, aún no revisado.

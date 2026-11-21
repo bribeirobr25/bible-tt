@@ -52,7 +52,7 @@ La costura se refuerza por el contenido: ambos volúmenes giran sobre la ascensi
 ### A2. La geografía-del-testimonio como el esquema propio del libro
 **[TEXTUAL — VERIFICADO]**
 
-En 1:8 el Yeshua resucitado dice que los discípulos serán "mis testigos tanto en **Yerushalayim** (Jerusalén) como en toda **Yehudah** (Judea) y **Shomron** (Samaria) y hasta *el* fin de la tierra". Esto no es solo una promesa; es la tabla de contenidos literaria de Hechos mismo — Jerusalén (caps. 1-7), Judea y Samaria (caps. 8-12), y el movimiento hacia afuera hasta "el fin de la tierra" (caps. 13-28). El término **μάρτυς** (*martys*, "testigo", vv.8, 22) es aquí legal/testimonial; solo más tarde la palabra adquiere el sentido de "mártir". Según la Regla 30 este discurso del Yeshua resucitado se marca como habla divina (@@…@@), consistente con el tratamiento del Evangelio de sus palabras.
+En 1:8 el Yeshua resucitado dice que los discípulos serán "mis testigos tanto en **Yerushalayim** (Jerusalén) como en toda **Yehudah** (Judea) y **Shomron** (Samaria) y hasta *el* fin de la tierra". Esto no es solo una promesa; es la tabla de contenidos literaria de Hechos mismo — Jerusalén (caps. 1-7), Judea y Samaria (caps. 8-12), y el movimiento hacia afuera hasta "el fin de la tierra" (caps. 13-28). El término **μάρτυς** (*martys*, "testigo", vv.8, 22) es aquí legal/testimonial; solo más tarde la palabra adquiere el sentido de "mártir". Según la Regla 30 este discurso del Yeshua resucitado se marca como habla divina, consistente con el tratamiento del Evangelio de sus palabras.
 
 ### A3. *Anelēmphthē* — el vocabulario de la ascensión y el triple "hacia el cielo"
 **[TEXTUAL — VERIFICADO]**
@@ -67,7 +67,7 @@ En 1:4 el participio **συναλιζόμενος** (*synalizomenos*) es genuina
 ### A5. Los once, enumerados — los Doce menos uno
 **[TEXTUAL — VERIFICADO]**
 
-La lista de 1:13 nombra a exactamente once (los Doce sin Yehudah Iscariote), en un orden cercano pero no idéntico a las listas de los Evangelios (Lucas 6:14-16; Marcos 3:16-19; Mateo 10:2-4). **Kefa** (Pedro) encabeza la lista, como en toda la tradición. Los nombres distinguidos por patronímico o epíteto — **Ya'aqov hijo de Halfai** (Jacobo hijo de Alfeo), **Shimon el Zelote** (*ho zēlōtēs*) y **Yehudah hijo de Ya'aqov** (Judas hijo de Jacobo) — los separan de Shimon Kefa y de Yehudah Iscariote. El recuento deliberado de once es lo que el resto del capítulo (vv.15-26) se propone reparar, restaurando los Doce. → Para la lista apostólica a través de los Evangelios y Hechos, véase `acts/PEOPLE.md`.
+La lista de 1:13 nombra a exactamente once (los Doce sin Yehudah Iscariote), en un orden cercano pero no idéntico a las listas de los Evangelios (Lucas 6:14-16; Marcos 3:16-19; Mateo 10:2-4). **Kefa** (Pedro) encabeza la lista, como en toda la tradición. Los nombres distinguidos por patronímico o epíteto — **Ya'aqov hijo de Halfai** (Jacobo hijo de Alfeo), **Shimon el Zelote** (*ho zēlōtēs*) y **Yehudah hijo de Ya'aqov** (Judas hijo de Jacobo) — los separan de Shimon Kefa y de Yehudah Iscariote. El recuento deliberado de once es lo que el resto del capítulo (vv.15-26) se propone reparar, restaurando los Doce. → Para la lista apostólica a través de los Evangelios y Hechos, véase la página Personas y Genealogía de Hechos.
 
 ### A6. *Kyrios* a lo largo del capítulo — tres referentes que la TT rastrea
 **[TEXTUAL — VERIFICADO (para el cambio de referente); INFERENCIA POSIBLE — INCIERTO (para el v.24)]**
@@ -208,7 +208,7 @@ La comunidad se mueve rápidamente para restaurar los Doce a doce (1:15-26), per
 
 ## I. El Mundo en Esa Época
 
-> **Referencia cruzada:** Para el contexto mundial completo de múltiples categorías del entorno de comienzos del siglo I (Político, Economía, Vida Cotidiana, Estructura Social, Educación, Militar, Artes, Ciencia, Religión, Pueblos Vecinos), véase el compañero de Juan 1 (Sección I, `es/john/study/CHAPTER-1-CONTEXT.md`) y los compañeros de Lucas (Lucas 1, Lucas 3). Hechos 1 se sitúa unos años después — Jerusalén c. 30 e.c., justo después de la crucifixión — pero dentro del mismo mundo general del Segundo Templo. Las entradas siguientes abordan las circunstancias específicas que aparecen en primer plano en Hechos 1.
+> **Referencia cruzada:** Para el contexto mundial completo de múltiples categorías del entorno de comienzos del siglo I (Político, Economía, Vida Cotidiana, Estructura Social, Educación, Militar, Artes, Ciencia, Religión, Pueblos Vecinos), véase el material de estudio de Juan 1 (Profundizar), Sección I, y los compañeros de Lucas (Lucas 1, Lucas 3). Hechos 1 se sitúa unos años después — Jerusalén c. 30 e.c., justo después de la crucifixión — pero dentro del mismo mundo general del Segundo Templo. Las entradas siguientes abordan las circunstancias específicas que aparecen en primer plano en Hechos 1.
 
 ---
 
@@ -297,6 +297,4 @@ Para el momento de la escritura, la pequeña comunidad del aposento alto de 1:13
 ---
 
 **Procedencia editorial:**
-- Redactado por: IA (Claude, Anthropic)
-- Fecha: 24-06-2026
-- Revisado por: pendiente
+- Borrador asistido por IA, aún no revisado.

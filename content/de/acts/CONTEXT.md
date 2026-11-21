@@ -72,7 +72,7 @@ Die Ereignisse werden durchweg als die Erfüllung benannter und unbenannter Schr
 **[STARKE SCHLUSSFOLGERUNG — WAHRSCHEINLICH]**
 **Kapitel:** 1, 2, 3
 
-Ein einziger sich weitender Horizont — von Israel nach außen zu allen Völkern — durchzieht die drei Kapitel und fungiert als das literarische Programm des ganzen Buches. Er wird in Kapitel 1 als eine Geografie **ausgesprochen**: „ihr werdet meine Zeugen sein sowohl in **Yerushalayim** als auch in ganz **Yehudah** und **Shomron** und bis an *das* **Ende der Erde**" (1,8) — der Aufriss, dem die Apostelgeschichte dann folgt. Er wird in Kapitel 2 **dramatisiert**: Das Publikum ist Israel-in-der-Zerstreuung, „Juden (Yehudim), gottesfürchtige Männer aus **jeder Nation** derer unter dem Himmel" (2,5), aufgezählt in der Völkertafel-Liste „Parther und Meder und Elamiter…" (2,9–11), die von Ost nach West läuft und an Genesis 10 erinnert; und die Verheißung reicht „bis zu euren Kindern und zu **allen, die in der Ferne sind**" (2,39). Er wird in Kapitel 3 im abrahamitischen Bund **verankert**: „in deinem Samen werden **alle Geschlechter der Erde** gesegnet werden" (3,25), wobei Israel angeredet wird „**Euch zuerst**" (3,26) — „zuerst" impliziert ein „dann". Die TT hält die Unterscheidungen im Wortschatz (*Yehudim*, *ethnos*/„Nation", *laos*/„Volk", die geografischen Namen in vertrauter Form) und gibt „zuerst" wieder, ohne es abzumildern, sodass die universale Reichweite aus den eigenen Begriffen des Textes hervorgeht, während Israels Vorrang in der Anrede ausdrücklich bleibt.
+Ein einziger sich weitender Horizont — von Israel nach außen zu allen Völkern — durchzieht die drei Kapitel und fungiert als das literarische Programm des ganzen Buches. Er wird in Kapitel 1 als eine Geografie **ausgesprochen**: „ihr werdet meine Zeugen sein sowohl in **Yerushalayim** als auch in ganz **Yehudah** und **Shomron** und bis an *das* **Ende der Erde**" (1,8) — der Aufriss, dem die Apostelgeschichte dann folgt. Er wird in Kapitel 2 **dramatisiert**: Das Publikum ist Israel-in-der-Zerstreuung, „Juden (Jehudim), gottesfürchtige Männer aus **jeder Nation** derer unter dem Himmel" (2,5), aufgezählt in der Völkertafel-Liste „Parther und Meder und Elamiter…" (2,9–11), die von Ost nach West läuft und an Genesis 10 erinnert; und die Verheißung reicht „bis zu euren Kindern und zu **allen, die in der Ferne sind**" (2,39). Er wird in Kapitel 3 im abrahamitischen Bund **verankert**: „in deinem Samen werden **alle Geschlechter der Erde** gesegnet werden" (3,25), wobei Israel angeredet wird „**Euch zuerst**" (3,26) — „zuerst" impliziert ein „dann". Die TT hält die Unterscheidungen im Wortschatz (*Jehudim*, *ethnos*/„Nation", *laos*/„Volk", die geografischen Namen in vertrauter Form) und gibt „zuerst" wieder, ohne es abzumildern, sodass die universale Reichweite aus den eigenen Begriffen des Textes hervorgeht, während Israels Vorrang in der Anrede ausdrücklich bleibt.
 
 **Quelle:** Jervell, J., *The Theology of the Acts of the Apostles*, Cambridge University Press, 1996, über Israel und die Völker im lukanischen Programm.
 
@@ -101,6 +101,4 @@ Ein Wiederherstellungsmotiv, getragen von der Wortfamilie *apokathistēmi*/*apok
 ---
 
 **Redaktionelle Herkunft:**
-- Verfasst von: KI (Claude, Anthropic)
-- Datum: 2026-06-24
-- Geprüft von: ausstehend
+- KI-gestützter Entwurf, noch nicht geprüft.

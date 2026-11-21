@@ -75,7 +75,7 @@ La TT traduce *charis* como "favor" en la narrativa y el participio de manera tr
 
 Dos cantos interrumpen la narrativa: el Magníficat (Miryam, 1:46-55) y el Benedictus (Zecharyah, 1:67-79). Ambos son densamente alusivos a la BH — el Magníficat reelabora el canto de Channah (Ana) (1 Sam 2:1-10) y los Salmos; el Benedictus recurre a las promesas del pacto a Avraham y David y a los profetas. En unos pocos testigos (algunos de la Vetus Latina) el Magníficat se atribuye a "Elisabet"; NA28 lee *Mariam*.
 
-Según la Regla 30, ambos cánticos son habla **humana** y NO se marcan como habla divina; según la decisión editorial (luke.md L-002), se redactan como prosa fluida, ya que el renderizador colapsa los saltos de línea poéticos. La TT no impone una distribución de versos que la plataforma no puede mostrar. → Para la estructura de los cánticos y su base en el canto de Ana, véase el compañero de PROFECÍA.
+Según la Regla 30, ambos cánticos son habla **humana** y NO se marcan como habla divina; se redactan como prosa fluida, ya que el renderizador colapsa los saltos de línea poéticos. La TT no impone una distribución de versos que la plataforma no puede mostrar. → Para la estructura de los cánticos y su base en el canto de Ana, véase el compañero de PROFECÍA.
 
 ### A6. *Angelos kyriou*, Gavriel, y la comisión de Eliyahu (Elías)
 **[TEXTUAL — VERIFICADO]**
@@ -221,7 +221,7 @@ NA28 lee "Y **Mariam** dijo" en 1:46, asignando el Magníficat a María, y esta 
 
 ## I. El Mundo en Esa Época
 
-> **Referencia cruzada:** Para el contexto mundial completo de dos escenarios y diez categorías (Político, Economía, Vida Cotidiana, Estructura Social, Educación, Militar, Artes, Ciencia, Religión, Pueblos Vecinos), véase el compañero de Juan 1 (Sección I, `es/john/study/CHAPTER-1-CONTEXT.md`). Lucas y Juan comparten el mismo período histórico general; la sección de Juan 1 proporciona la base. Las entradas siguientes abordan las circunstancias específicas que aparecen en primer plano en Lucas 1.
+> **Referencia cruzada:** Para el contexto mundial completo de dos escenarios y diez categorías (Político, Economía, Vida Cotidiana, Estructura Social, Educación, Militar, Artes, Ciencia, Religión, Pueblos Vecinos), véase el material de estudio de Juan 1 (Profundizar), Sección I. Lucas y Juan comparten el mismo período histórico general; la sección de Juan 1 proporciona la base. Las entradas siguientes abordan las circunstancias específicas que aparecen en primer plano en Lucas 1.
 
 ---
 
@@ -306,6 +306,4 @@ Después del 70 d.C. los archivos genealógicos asociados al Templo (usados para
 ---
 
 **Procedencia editorial:**
-- Redactado por: IA (Claude, Anthropic)
-- Fecha: 22-06-2026
-- Revisado por: pendiente
+- Borrador asistido por IA, aún no revisado.

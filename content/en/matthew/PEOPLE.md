@@ -84,7 +84,7 @@ This file presents biographical and genealogical information about figures appea
 **Origin:** Son of Yishai (Jesse) of Bet-Lechem (Bethlehem), tribe of Yehudah (Judah)
 **First mention in Matthew:** 1:1
 **In Matthew:** Named in the genealogy heading (1:1 — "son of David"), at 1:6 as the king who begot Shelomoh (Solomon) by the one of Uriyah, and at 1:17 as the structural pivot of the genealogy (Avraham (Abraham) to David = 14 generations; David to the deportation = 14; deportation to the anointed one = 14). "Son of David" becomes a recurring Messianic title throughout Matthew (9:27; 12:23; 15:22; 20:30–31; 21:9, 15; 22:42).
-**Cross-reference:** Full entry will appear in samuel/PEOPLE.md or kings/PEOPLE.md when those books are translated.
+**Cross-reference:** Full entry will appear on the Samuel or Kings people page when those books are translated.
 
 ---
 
@@ -93,7 +93,7 @@ This file presents biographical and genealogical information about figures appea
 **Origin:** Son of David and Bat-Sheva (2 Sam 12:24)
 **First mention in Matthew:** 1:6–7
 **In Matthew:** Named in the genealogy (1:6–7) as son of David (by the one of Uriyah) and father of Rechav'am (Rehoboam). Through Shelomoh (Solomon) the royal line continues to the Babylonian deportation.
-**Cross-reference:** Full entry will appear in kings/PEOPLE.md when that book is translated.
+**Cross-reference:** Full entry will appear on the Kings people page when that book is translated.
 
 ---
 
@@ -277,4 +277,4 @@ This file presents biographical and genealogical information about figures appea
 - **PEER-REVIEWED (lexicon)** — BDAG, *A Greek-English Lexicon of the New Testament*, 3rd ed.; HALOT, *The Hebrew and Aramaic Lexicon of the Old Testament*.
 - **PEER-REVIEWED (commentary)** — Davies, W.D. and Allison, D.C., *A Critical and Exegetical Commentary on the Gospel of Matthew* (ICC, 1988); Luz, U., *Matthew 1–7* (Hermeneia, 2007).
 
-> **Editorial provenance:** Drafted by Claude Opus 4.6 (1M context) on 2026-04-27. Not yet reviewed. This file is a provisional scholarly resource governed by TT Rule 29. Cross-references to genesis/PEOPLE.md link to existing entries rather than duplicating content.
+> **Editorial provenance:** AI-assisted draft, not yet reviewed. This file is a provisional scholarly resource governed by TT Rule 29. Cross-references to the Genesis people page link to existing entries rather than duplicating content.

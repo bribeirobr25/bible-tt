@@ -22,7 +22,7 @@
 - [Leitura Contínua](#leitura-contínua)
 - [Estudo Verso a Verso](#estudo-verso-a-verso)
 - [Glossário — Marcos 1](#glossário---marcos-1)
-- [Rastreamento entre Capítulos (BH -> Marcos)](#rastreamento-entre-capítulos-bh---marcos)
+- [Rastreamento entre Capítulos (BH → Marcos)](#rastreamento-entre-capítulos-bh---marcos)
 
 ---
 
@@ -37,7 +37,7 @@
 
 As notas são marcadas por tipo — **Crítico · Lexical · Gramatical · Teológico** — cada uma com sua cor (veja a legenda no topo da visão de Notas).
 
-**Este é o início do Evangelho mais antigo.** Marcos começa sem genealogia e sem narrativa de nascimento — abre a toda velocidade com uma citação profética composta, a aparição de Yochanan, o Imersor, a imersão de Yeshua, e uma rápida sequência dos primeiros atos de sua obra pública. A palavra característica da narrativa é *euthys* ("imediatamente"), que impulsiona o ritmo; a TT a preserva em todas as ocorrências. Marcos usa "reino de Deus" (não o "reino dos céus" de Mateus). Os nomes próprios seguem a transliteração TT: Yeshua (não "Jesus" sozinho), Yochanan (não João), Yarden (não Jordão).
+**Este é o início do Evangelho mais antigo.** Marcos começa sem genealogia e sem narrativa de nascimento — abre a toda velocidade com uma citação profética composta, a aparição de Yochanan, o Imersor, a imersão de Yeshua, e uma rápida sequência dos primeiros atos de sua obra pública. A palavra característica da narrativa é *euthys* ("imediatamente"), que impulsiona o ritmo; a TT a preserva em todas as ocorrências. Marcos usa "reino de Deus" (não o "reino dos céus" de Mateus). Os nomes aparecem na forma familiar, com a forma da língua original indicada uma vez por seção — p. ex., Yochanan (João).
 
 ---
 
@@ -637,9 +637,9 @@ Mas ele, saindo, começou a proclamar *isso* muito e a espalhar a palavra, de mo
 
 ---
 
-## RASTREAMENTO ENTRE CAPÍTULOS (BH -> Marcos)
+## RASTREAMENTO ENTRE CAPÍTULOS (BH → Marcos)
 
-**Malaquias 3:1 + Êxodo 23:20 + Isaías 40:3 -> Marcos 1:2–3 — a citação composta:**
+**Malaquias 3:1 + Êxodo 23:20 + Isaías 40:3 → Marcos 1:2–3 — a citação composta:**
 
 | Elemento | Fonte | Marcos 1:2–3 |
 |----------|-------|--------------|
@@ -650,7 +650,7 @@ Mas ele, saindo, começou a proclamar *isso* muito e a espalhar a palavra, de mo
 
 Marcos funde três textos e atribui o todo a Isaías (a fonte mais proeminente). O bizantino "nos profetas" é uma correção harmonizadora posterior.
 
-**Salmo 2:7 + Isaías 42:1 -> Marcos 1:11 — "Tu és o meu filho, o amado":**
+**Salmo 2:7 + Isaías 42:1 → Marcos 1:11 — "Tu és o meu filho, o amado":**
 
 | Elemento | Salmo 2:7 | Isaías 42:1 | Marcos 1:11 |
 |----------|-----------|-------------|-------------|
@@ -660,7 +660,7 @@ Marcos funde três textos e atribui o todo a Isaías (a fonte mais proeminente).
 
 A voz de Marcos se dirige a Yeshua diretamente ("Tu és"), diferente do "Este é" em terceira pessoa de Mateus. **ἀγαπητός** ("amado") também pode ecoar Gênesis 22:2 (LXX, "teu filho, o amado" — Yitschaq no atamento).
 
-**Gênesis 1:2 -> Marcos 1:10 — vento/espírito em um limiar:**
+**Gênesis 1:2 → Marcos 1:10 — vento/espírito em um limiar:**
 
 | Elemento | Gn 1:2 | Marcos 1:10 |
 |----------|--------|-------------|

@@ -223,7 +223,7 @@ El texto dice: "Los nephilim estaban en la tierra en aquellos días, **y tambié
 
 ## I. El Mundo en Esa Época
 
-> **Referencia cruzada:** Para el contexto mundial completo (cuatro escenarios, diez categorías — Político, Economía, Vida Cotidiana, Estructura Social, Educación, Militar, Artes, Ciencia, Religión, Pueblos Vecinos), véase el companion de Génesis 1 (Sección I, `es/genesis/study/CHAPTER-1-CONTEXT.md`). Las entradas a continuación abordan las circunstancias históricas específicamente destacadas en Génesis 6 — la violencia generalizada, la transgresión de la frontera divino-humana, el anuncio del diluvio, las instrucciones para la construcción del barco y el primer lenguaje de alianza.
+> **Referencia cruzada:** Para el contexto mundial completo (cuatro escenarios, diez categorías — Político, Economía, Vida Cotidiana, Estructura Social, Educación, Militar, Artes, Ciencia, Religión, Pueblos Vecinos), véase el material de estudio de Génesis 1 (Profundizar), Sección I. Las entradas a continuación abordan las circunstancias históricas específicamente destacadas en Génesis 6 — la violencia generalizada, la transgresión de la frontera divino-humana, el anuncio del diluvio, las instrucciones para la construcción del barco y el primer lenguaje de alianza.
 
 ---
 
@@ -325,6 +325,4 @@ La ideología imperial persa bajo los reyes aqueménidas (Ciro, Darío, Artajerj
 ---
 
 **Procedencia editorial:**
-- Redactado por: Claude Opus 4.6 (asistente de IA)
-- Fecha: 2026-04-25
-- Revisado por: pendiente
+- Borrador asistido por IA, aún no revisado.

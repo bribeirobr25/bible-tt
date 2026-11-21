@@ -278,14 +278,14 @@ As seguintes regras do conjunto de regras da TT (v3.4) têm incidência particul
 | 7 | Preservar Estrutura Paralela | Padrões de repetição joaninos (luz/trevas, vida/morte, acima/abaixo) são preservados entre passagens. |
 | 11 | Marcar adições gramaticais | Palavras adicionadas por exigência gramatical aparecem em itálico, distinguindo-as do conteúdo traduzido. |
 | 13 | Níveis de incerteza | Termos e passagens debatidos carregam rótulos de confiança (Provável / Possível / Incerto). |
-| 14 | Anotar Jogos de Palavras | Termos gregos-chave anotados em Nível 2 onde campo semântico ou jogo de palavras é significativo. |
-| 22 | Restrição Textual-Crítica | Variantes textuais (ex., João 1:18 μονογενὴς θεός vs. μονογενὴς υἱός, João 1:34) anotadas em Nível 2 sem adoção silenciosa. |
-| 25 | Política do Nome Divino — GS aplica Opção C | κύριος traduzido como "o Senhor" em contextos de citação do AT, com nota em Nível 2 identificando YHWH no hebraico subjacente. Ver Política do Nome Divino abaixo. |
+| 14 | Anotar Jogos de Palavras | Termos gregos-chave anotados nas notas onde campo semântico ou jogo de palavras é significativo. |
+| 22 | Restrição Textual-Crítica | Variantes textuais (ex., João 1:18 μονογενὴς θεός vs. μονογενὴς υἱός, João 1:34) anotadas nas notas sem adoção silenciosa. |
+| 25 | Política do Nome Divino — GS aplica Opção C | κύριος traduzido como "o Senhor" em contextos de citação do AT, com uma nota identificando YHWH no hebraico subjacente. Ver Política do Nome Divino abaixo. |
 
 ### F2. Glossário fixo — termos das Escrituras Gregas ativos em João
 **[TEXTUAL — VERIFICADO]**
 
-As seguintes entradas do glossário fixo de RULES-GS.md aplicam-se ao longo do Evangelho de João:
+As seguintes entradas do glossário fixo aplicam-se ao longo do Evangelho de João:
 
 | Grego | Tradução TT (PT-BR) | Notas |
 |-------|---------------------|-------|
@@ -293,13 +293,13 @@ As seguintes entradas do glossário fixo de RULES-GS.md aplicam-se ao longo do E
 | χριστός (*christos*) | ungido | Minúscula quando funciona como descritor; maiúscula apenas quando claramente funciona como nome próprio. Mapeia para o HB מָשִׁיחַ (*mashiach*). |
 | ἐκκλησία (*ekklesia*) | assembleia | Não "igreja" (significado institucional anacrônico). O grego significa "reunião convocada." |
 | βάπτισμα (*baptisma*) | imersão | Não transliterado. O grego tem conteúdo semântico claro: "mergulho/imersão." |
-| παράκλητος (*paraklētos*) | advogado | Traduzir o significado. Notar campo semântico (consolador/auxiliador/advogado/chamado ao lado) em notas Nível 2. Único a João entre os Evangelhos (14:16, 26; 15:26; 16:7). |
+| παράκλητος (*paraklētos*) | advogado | Traduzir o significado. Notar campo semântico (consolador/auxiliador/advogado/chamado ao lado) nas notas. Único a João entre os Evangelhos (14:16, 26; 15:26; 16:7). |
 | κύριος (*kyrios*) | Dependente do contexto | Ao citar passagens do AT com YHWH: "o Senhor" + nota identificando YHWH. Caso contrário: "senhor/mestre." Ver Política do Nome Divino. |
 
 ### F3. Política do Nome Divino em João
 **[TEXTUAL — VERIFICADO]**
 
-Quando o Evangelho de João cita ou alude a passagens da Bíblia Hebraica contendo o Tetragrama (o nome divino hebraico de quatro letras יהוה, transliterado YHWH), o texto grego usa κύριος (*kyrios*). Conforme a Política do Nome Divino da TT (Opção C, RULES-GS.md):
+Quando o Evangelho de João cita ou alude a passagens da Bíblia Hebraica contendo o Tetragrama (o nome divino hebraico de quatro letras יהוה, transliterado YHWH), o texto grego usa κύριος (*kyrios*). Conforme a Política do Nome Divino da TT (Opção C):
 
 - O texto principal traduz *kyrios* como "o Senhor" em contextos de citação do AT.
 - Uma nota identifica a fonte do AT e declara que o hebraico subjacente contém o Tetragrama.
@@ -377,4 +377,4 @@ João emprega contrastes dualísticos pervasivos — luz/trevas, acima/abaixo, e
 
 ---
 
-> **Proveniência editorial:** Redigido por Claude Opus 4.6 (contexto 1M) em 27/04/2026. Ainda não revisado. Esta introdução é um recurso acadêmico provisório governado pela Regra 29 da TT. Todas as afirmações carregam rótulos duplos; nenhuma afirmação deve ser lida como posição teológica ou composicional da TT. A TT traduz o texto grego (NA28) e não adota nenhuma teoria particular de autoria ou composição.
+> **Proveniência editorial:** Rascunho assistido por IA, ainda não revisado. Esta introdução é um recurso acadêmico provisório governado pela Regra 29 da TT. Todas as afirmações carregam rótulos duplos; nenhuma afirmação deve ser lida como posição teológica ou composicional da TT. A TT traduz o texto grego (NA28) e não adota nenhuma teoria particular de autoria ou composição.

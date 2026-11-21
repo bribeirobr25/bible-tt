@@ -260,7 +260,7 @@ Genesis 9:20–21: Noé "plantou uma vinha, e bebeu do vinho e embriagou-se, e d
 
 ## I. O Mundo na Época
 
-> **Referência cruzada:** Para o contexto mundial completo (quatro cenários, dez categorias — Político, Economia, Vida Cotidiana, Estrutura Social, Educação, Militar, Artes, Ciência, Religião, Povos Vizinhos), veja o companheiro de Gênesis 1 (Seção I, `pt-br/genesis/study/CHAPTER-1-CONTEXT.md`). As entradas abaixo abordam as circunstâncias históricas especificamente destacadas em Gênesis 9 — conceitos de aliança pós-dilúvio, as origens da viticultura, códigos de honra-vergonha e nudez, bênção e maldição na sociedade do AOP, e o simbolismo do arco do guerreiro divino.
+> **Referência cruzada:** Para o contexto mundial completo (quatro cenários, dez categorias — Político, Economia, Vida Cotidiana, Estrutura Social, Educação, Militar, Artes, Ciência, Religião, Povos Vizinhos), veja o material de estudo de Gênesis 1 (Aprofundar), Seção I. As entradas abaixo abordam as circunstâncias históricas especificamente destacadas em Gênesis 9 — conceitos de aliança pós-dilúvio, as origens da viticultura, códigos de honra-vergonha e nudez, bênção e maldição na sociedade do AOP, e o simbolismo do arco do guerreiro divino.
 
 ---
 
@@ -370,6 +370,4 @@ A administração imperial persa e proto-helenística operava por meio de tratad
 ---
 
 **Procedência editorial:**
-- Redigido por: Claude Opus 4.6 (assistente de IA)
-- Data: 2026-04-24
-- Revisado por: pendente
+- Rascunho assistido por IA, ainda não revisado.

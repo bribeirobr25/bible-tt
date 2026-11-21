@@ -21,7 +21,7 @@
 - [Fortlaufende Lesung](#fortlaufende-lesung)
 - [Vers-für-Vers-Studie](#vers-für-vers-studie)
 - [Glossar — Matthäus 1](#glossar---matthäus-1)
-- [Kapitelübergreifende Verfolgung (Genesis -> Matthäus)](#kapitelübergreifende-verfolgung-genesis---matthäus)
+- [Kapitelübergreifende Verfolgung (Genesis → Matthäus)](#kapitelübergreifende-verfolgung-genesis---matthäus)
 
 ---
 
@@ -36,7 +36,7 @@
 
 Notizen sind nach Typ gekennzeichnet — **Kritisch · Lexikalisch · Grammatisch · Theologisch** — jeweils mit ihrer Farbe (siehe die Legende oben in der Notizen-Ansicht).
 
-**Dieses Kapitel eröffnet das erste Buch in der Ordnung des griechischen Schriftenkanons.** Matthäus 1 beginnt nicht mit einem kosmologischen Prolog (wie bei Johannes), sondern mit einer Genealogie — einem *biblos geneseōs* („Buch der Genesis/des Ursprungs"), das eine Linie von Avraham (Abraham) über David bis Yeshua (Jesus) nachzeichnet. Die Genealogie ist in drei Sätze von je vierzehn Generationen gegliedert. Vier Frauen werden genannt — Tamar, Rachav, Rut und die Frau des Uriyah — jede mit einem ungewöhnlichen oder überraschenden Eintritt in die Abstammungslinie. Eigennamen folgen der TT-Transliteration: Yeshua (Jesus), Yosef (Josef), Miryam (Maria), Avraham (Abraham) usw. Vertraute deutsche Formen werden beim ersten Vorkommen vermerkt. Der Geburtsbericht (V.18-25) führt die Jungfrau-/junge-Frau-Ambiguität aus Jesaja 7,14 ein. Das griechische *pneuma hagion* wird als „heiliger Wind/Geist" wiedergegeben nach dem gesperrten Glossar.
+**Dieses Kapitel eröffnet das erste Buch in der Ordnung des griechischen Schriftenkanons.** Matthäus 1 beginnt nicht mit einem kosmologischen Prolog (wie bei Johannes), sondern mit einer Genealogie — einem *biblos geneseōs* („Buch der Genesis/des Ursprungs"), das eine Linie von Avraham (Abraham) über David bis Yeshua (Jesus) nachzeichnet. Die Genealogie ist in drei Sätze von je vierzehn Generationen gegliedert. Vier Frauen werden genannt — Tamar, Rachav, Rut und die Frau des Uriyah — jede mit einem ungewöhnlichen oder überraschenden Eintritt in die Abstammungslinie. Namen erscheinen in der vertrauten Form; die ursprachliche Form steht einmal pro Abschnitt — z. B. Yochanan (Johannes). Der Geburtsbericht (V.18-25) führt die Jungfrau-/junge-Frau-Ambiguität aus Jesaja 7,14 ein. Das griechische *pneuma hagion* wird als „heiliger Wind/Geist" wiedergegeben nach dem gesperrten Glossar.
 
 ---
 
@@ -456,9 +456,9 @@ und er erkannte sie nicht, bis sie einen Sohn gebar; und er nannte seinen Namen 
 
 ---
 
-## KAPITELÜBERGREIFENDE VERFOLGUNG (Genesis -> Matthäus)
+## KAPITELÜBERGREIFENDE VERFOLGUNG (Genesis → Matthäus)
 
-**Gen 2,4 / Gen 5,1 -> Mt 1,1 — *biblos geneseōs*:**
+**Gen 2,4 / Gen 5,1 → Mt 1,1 — *biblos geneseōs*:**
 
 | Element | Gen 2,4 / 5,1 (LXX) | Mt 1,1 |
 |---------|----------------------|--------|
@@ -469,7 +469,7 @@ und er erkannte sie nicht, bis sie einen Sohn gebar; und er nannte seinen Namen 
 
 Matthäus' Eröffnungswendung ist eine direkte literarische Anspielung. Genesis verwendet *biblos geneseōs* zur Einleitung der „Geschlechterfolgen" der Schöpfung und der Menschheit. Matthäus verwendet dieselbe Wendung zur Einleitung des Ursprungs des Gesalbten — Jesu Geschichte in den Rahmen der Genesis stellend.
 
-**Gen 38 -> Mt 1,3 — Tamar:**
+**Gen 38 → Mt 1,3 — Tamar:**
 
 | Element | Gen 38 | Mt 1,3 |
 |---------|--------|--------|
@@ -477,7 +477,7 @@ Matthäus' Eröffnungswendung ist eine direkte literarische Anspielung. Genesis 
 | Status | Außenseiterin, die in die Juda-Linie eintritt | Aufgenommen in die messianische Linie |
 | Bedeutung | Als „gerechter als ich" erklärt (Gen 38,26) | Eine von vier Frauen, die das rein männliche genealogische Muster durchbrechen |
 
-**Gen 37-50 -> Mt 1,20 — Josef der Träumer:**
+**Gen 37-50 → Mt 1,20 — Josef der Träumer:**
 
 | Element | Gen 37-50 (Patriarch Josef) | Mt 1,20 (Josef, Ehemann der Maria) |
 |---------|----------------------------|--------------------------------------|
@@ -488,7 +488,7 @@ Matthäus' Eröffnungswendung ist eine direkte literarische Anspielung. Genesis 
 
 Der Namenswiderhall und das Traummuster legen eine beabsichtigte typologische Verbindung nahe. Beide Josefs vermitteln göttliche Absichten durch gehorsame Antwort auf Träume.
 
-**Gen 12,1-3 / Gen 22,18 -> Mt 1,1 — „Sohn Abrahams":**
+**Gen 12,1-3 / Gen 22,18 → Mt 1,1 — „Sohn Abrahams":**
 
 | Element | Genesis | Matthäus |
 |---------|---------|----------|
@@ -496,7 +496,7 @@ Der Namenswiderhall und das Traummuster legen eine beabsichtigte typologische Ve
 | Bund | Abrahamischer Bund: Land, Same, Segen | Die Genealogie zeichnet die „Samen"-(*sperma*)-Linie nach |
 | Umfang | „Alle Geschlechter des Landes" | Beginnt mit Israel („sein Volk", V.21), aber die avrahamische Rahmung öffnet sich zur Universalität |
 
-**Gen 1,2 -> Mt 1,18.20 — Wind/Geist (*ruach* / *pneuma*):**
+**Gen 1,2 → Mt 1,18.20 — Wind/Geist (*ruach* / *pneuma*):**
 
 | Element | Gen 1,2 | Mt 1,18.20 |
 |---------|---------|------------|

@@ -22,7 +22,7 @@
 - [Leitura Contínua](#leitura-contínua)
 - [Estudo Verso a Verso](#estudo-verso-a-verso)
 - [Glossário — Marcos 2](#glossário---marcos-2)
-- [Rastreamento entre Capítulos (BH -> Marcos)](#rastreamento-entre-capítulos-bh---marcos)
+- [Rastreamento entre Capítulos (BH → Marcos)](#rastreamento-entre-capítulos-bh---marcos)
 
 ---
 
@@ -402,9 +402,9 @@ assim o Filho do Homem é senhor até do sábado."
 
 ---
 
-## RASTREAMENTO ENTRE CAPÍTULOS (BH -> Marcos)
+## RASTREAMENTO ENTRE CAPÍTULOS (BH → Marcos)
 
-**1 Samuel 21:1–6 -> Marcos 2:25–26 — Davi e o pão consagrado:**
+**1 Samuel 21:1–6 → Marcos 2:25–26 — Davi e o pão consagrado:**
 
 | Elemento | 1 Samuel 21 | Marcos 2:25–26 |
 |---------|-------------|----------------|
@@ -413,7 +413,7 @@ assim o Filho do Homem é senhor até do sábado."
 | O sacerdote | **Aimeleque** | "**Abiatar** o sumo sacerdote" (uma discrepância conhecida) |
 | O ponto | a necessidade supera a restrição ritual | o sábado serve à necessidade humana |
 
-**Daniel 7:13 -> Marcos 2:10, 2:28 — "Filho do Homem":**
+**Daniel 7:13 → Marcos 2:10, 2:28 — "Filho do Homem":**
 
 | Elemento | Daniel 7:13 | Marcos 2:10, 28 |
 |---------|-------------|------------------|
@@ -421,7 +421,7 @@ assim o Filho do Homem é senhor até do sábado."
 | Cenário | vindo com as nuvens, recebendo domínio | autoridade para liberar; senhor do sábado |
 | Sentido | figura celestial exaltada | genérico + titular mantidos juntos |
 
-**Gênesis 2:2–3 / Êxodo 20:8–11 -> Marcos 2:27 — o sábado:**
+**Gênesis 2:2–3 / Êxodo 20:8–11 → Marcos 2:27 — o sábado:**
 
 O sábado como dom da criação "para o humano" coere com sua instituição na criação (Gn 2:2–3) e com a razão do Decálogo (Êx 20:8–11) — descanso fundamentado no benefício humano, não na subordinação do humano ao dia.
 

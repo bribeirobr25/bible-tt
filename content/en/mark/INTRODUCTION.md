@@ -160,7 +160,7 @@ Per the locked glossary, the TT renders meaning over transliteration-by-traditio
 | πνεῦμα (*pneuma*) | {wind/spirit} | slash for the divine spirit; "unclean spirit" without slash |
 | εὐθύς (*euthys*) | immediately | preserved at every occurrence (Mark's signature) |
 
-**Divine name (Rule 25 / GS Option C):** where *kyrios* renders YHWH in an OT quotation (e.g. 1:3, Isaiah 40:3), the TT reads "the Lord" in the main text, with the underlying YHWH referent noted in Tier 2.
+**Divine name (Rule 25 / GS Option C):** where *kyrios* renders YHWH in an OT quotation (e.g. 1:3, Isaiah 40:3), the TT reads "the Lord" in the main text, with the underlying YHWH referent noted in the notes.
 
 ### F4. Direct divine speech (Rule 30)
 **[TEXTUAL — VERIFIED]**

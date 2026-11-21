@@ -21,7 +21,7 @@
 - [Continuous Reading](#continuous-reading)
 - [Verse-by-Verse Study](#verse-by-verse-study)
 - [Glossary — Matthew 1](#glossary---matthew-1)
-- [Cross-Chapter Tracking (Genesis -> Matthew)](#cross-chapter-tracking-genesis--matthew)
+- [Cross-Chapter Tracking (Genesis → Matthew)](#cross-chapter-tracking-genesis--matthew)
 
 ---
 
@@ -36,7 +36,7 @@
 
 Notes are tagged by type — **Critical · Lexical · Grammatical · Theological** — each shown with its colour (see the legend at the top of the Notes view).
 
-**This chapter opens the first book arranged in the Greek Scriptures canon.** Matthew 1 begins not with a cosmological prologue (as in John) but with a genealogy — a *biblos geneseōs* ("book of genesis/origin") that traces a line from Avraham through David to Yeshua. The genealogy is structured into three sets of fourteen generations. Four women are named — Tamar, Rachav, Rut, and the wife of Uriyah — each with an irregular or surprising entry into the lineage. Proper names follow TT transliteration: Yeshua (not Jesus), Yosef (not Joseph), Miryam (not Mary), Avraham (not Abraham), etc. Familiar English forms are noted at first occurrence. The birth narrative (vv.18-25) introduces the virgin/young woman ambiguity from Isaiah 7:14. The Greek *pneuma hagion* is rendered "holy wind/spirit" per locked glossary.
+**This chapter opens the first book arranged in the Greek Scriptures canon.** Matthew 1 begins not with a cosmological prologue (as in John) but with a genealogy — a *biblos geneseōs* ("book of genesis/origin") that traces a line from Avraham through David to Yeshua. The genealogy is structured into three sets of fourteen generations. Four women are named — Tamar, Rachav, Rut, and the wife of Uriyah — each with an irregular or surprising entry into the lineage. Names appear in their familiar form, with the source-language form given once per section — e.g. Yochanan (John). The birth narrative (vv.18-25) introduces the virgin/young woman ambiguity from Isaiah 7:14. The Greek *pneuma hagion* is rendered "holy wind/spirit" per locked glossary.
 
 ---
 
@@ -464,9 +464,9 @@ and he did not know her until she bore a son; and he called his name Yeshua (Jes
 
 ---
 
-## CROSS-CHAPTER TRACKING (Genesis -> Matthew)
+## CROSS-CHAPTER TRACKING (Genesis → Matthew)
 
-**Gen 2:4 / Gen 5:1 -> Matt 1:1 — *biblos geneseōs*:**
+**Gen 2:4 / Gen 5:1 → Matt 1:1 — *biblos geneseōs*:**
 
 | Element | Gen 2:4 / 5:1 (LXX) | Matt 1:1 |
 |---------|----------------------|----------|
@@ -477,7 +477,7 @@ and he did not know her until she bore a son; and he called his name Yeshua (Jes
 
 Matthew's opening phrase is a direct literary allusion. Genesis uses *biblos geneseōs* to introduce the "generations" of creation and of humanity. Matthew uses the same phrase to introduce the origin of the anointed one — placing Yeshua's story within the Genesis framework.
 
-**Gen 38 -> Matt 1:3 — Tamar:**
+**Gen 38 → Matt 1:3 — Tamar:**
 
 | Element | Gen 38 | Matt 1:3 |
 |---------|--------|----------|
@@ -485,7 +485,7 @@ Matthew's opening phrase is a direct literary allusion. Genesis uses *biblos gen
 | Status | Outsider who enters the Yehudah line | Included in the messianic line |
 | Significance | Declared "more righteous than I" (Gen 38:26) | One of four women breaking the all-male genealogical pattern |
 
-**Gen 37-50 -> Matt 1:20 — Yosef the dreamer:**
+**Gen 37-50 → Matt 1:20 — Yosef the dreamer:**
 
 | Element | Gen 37-50 (Patriarch Yosef) | Matt 1:20 (Yosef husband of Miryam) |
 |---------|----------------------------|--------------------------------------|
@@ -496,7 +496,7 @@ Matthew's opening phrase is a direct literary allusion. Genesis uses *biblos gen
 
 The name-echo and dream-pattern suggest a deliberate typological connection. Both Yosefs mediate divine purposes through obedient response to dreams.
 
-**Gen 12:1-3 / Gen 22:18 -> Matt 1:1 — "Son of Avraham":**
+**Gen 12:1-3 / Gen 22:18 → Matt 1:1 — "Son of Avraham":**
 
 | Element | Genesis | Matthew |
 |---------|---------|---------|
@@ -504,7 +504,7 @@ The name-echo and dream-pattern suggest a deliberate typological connection. Bot
 | Covenant | Avrahamic covenant: land, seed, blessing | The genealogy traces the "seed" (*sperma*) line |
 | Scope | "All families of the land" | Begins with Israel ("his people," v.21) but the Avrahamic framing opens toward universality |
 
-**Gen 1:2 -> Matt 1:18, 20 — Wind/spirit (*ruach* / *pneuma*):**
+**Gen 1:2 → Matt 1:18, 20 — Wind/spirit (*ruach* / *pneuma*):**
 
 | Element | Gen 1:2 | Matt 1:18, 20 |
 |---------|---------|---------------|

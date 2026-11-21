@@ -21,7 +21,7 @@ For the more strictly etymological treatment of one specific term, see G-J2 (*Mo
 
 The Fourth Gospel uses words with two simultaneous meanings as a deliberate literary device. The reader is expected to hold both senses at once; the narrative often resolves on which sense was operative only retrospectively. Within John 1–3 the in-scope cases:
 
-**John 1:5 — *katelaben***. "The light shines in the darkness, and the darkness has not *katelaben* it." The Greek verb means both "overcome" and "comprehend/grasp." Both readings are theologically loaded — has the darkness failed to extinguish the light, or failed to understand it? The Greek word holds both; the TT preserves the ambiguity with a Tier 2 note rather than choosing one English gloss.
+**John 1:5 — *katelaben***. "The light shines in the darkness, and the darkness has not *katelaben* it." The Greek verb means both "overcome" and "comprehend/grasp." Both readings are theologically loaded — has the darkness failed to extinguish the light, or failed to understand it? The Greek word holds both; the TT preserves the ambiguity with a note rather than choosing one English gloss.
 
 **John 2:9 — water-to-wine as an absent mechanism**. The narrator says the chief steward "did not know where it had come from" — the mechanism of the sign is deliberately withheld. This is not wordplay in the strict sense, but it shares the same literary technique: a textual hole inviting two readings (miraculous transformation vs. unspoken steward-substitution).
 
@@ -42,9 +42,9 @@ The cumulative weight matters: five double-meanings in three chapters is denser 
 **[TEXTUAL — VERIFIED]**
 **Chapters:** 1, 3
 
-The Greek term *monogenēs* (μονογενής, "only-born" / "only of its kind") appears four times in John 1–3 (1:14, 1:18, 3:16, 3:18), making it one of the most recurring theologically-loaded terms in the opening chapters. The TT renders it consistently across all four locales: EN "only-born", PT-BR "único-nascido", DE "einziggeborenen", ES "único-nacido" — the cross-language alignment preserves the begetting/generation reading (mono- + -genēs from *gennaō*, "to beget") rather than the alternative semantic reading ("unique"; from *genos*, "kind"), per the project-level decision (`docs/audit/PENDING.md` flagged this as a cross-language consistency item).
+The Greek term *monogenēs* (μονογενής, "only-born" / "only of its kind") appears four times in John 1–3 (1:14, 1:18, 3:16, 3:18), making it one of the most recurring theologically-loaded terms in the opening chapters. The TT renders it consistently across all four locales: EN "only-born", PT-BR "único-nascido", DE "einziggeborenen", ES "único-nacido" — the cross-language alignment preserves the begetting/generation reading (mono- + -genēs from *gennaō*, "to beget") rather than the alternative semantic reading ("unique"; from *genos*, "kind"), per the project-level decision.
 
-The four occurrences track an arc. **John 1:14** introduces *monogenēs* in the Logos prologue: "we have seen his glory, glory as of the *monogenēs* from the father." The term first applies to the Word-made-flesh in the cosmological frame. **John 1:18** then occurs with a textual variant — manuscripts read either *monogenēs theos* ("only-born God") or *monogenēs huios* ("only-born Son"). The TT preserves the variant with a Tier 2 textual-critical note rather than silently resolving it.
+The four occurrences track an arc. **John 1:14** introduces *monogenēs* in the Logos prologue: "we have seen his glory, glory as of the *monogenēs* from the father." The term first applies to the Word-made-flesh in the cosmological frame. **John 1:18** then occurs with a textual variant — manuscripts read either *monogenēs theos* ("only-born God") or *monogenēs huios* ("only-born Son"). The TT preserves the variant with a textual-critical note rather than silently resolving it.
 
 **John 3:16** uses *monogenēs* in the most-quoted sentence in the New Testament: "for God so loved the world that he gave his *monogenēs* son." Here the term sits inside the conditional-promise structure of the verse. **John 3:18** then escalates: "he who does not believe is already judged, because he has not believed in the name of the *monogenēs* son of God." The same word becomes the criterion of judgment.
 
@@ -120,6 +120,6 @@ The three opening chapters of John develop a tightly interlocking water-spirit-r
 
 **John 3:5 — water AND spirit as the rebirth formula**. "Unless one is born of *water and spirit*, one cannot enter the kingdom of God." The chapter resolves what the prior two chapters held in tension: water and spirit are not opposed (as in John 1's contrast) and not transformed (as in John 2's sign) — they are paired in the rebirth formula. The *anōthen* double meaning (see G-J1) makes this rebirth "from above" as well as "again."
 
-The arc water-as-rite → water-as-medium → water-and-spirit-as-rebirth is structurally significant because each chapter could be read alone but the cross-chapter movement is where the typology resolves. The Phase 9 plan's §4.4 originally listed this motif; it was restored at step 9.2 user-review.
+The arc water-as-rite → water-as-medium → water-and-spirit-as-rebirth is structurally significant because each chapter could be read alone but the cross-chapter movement is where the typology resolves.
 
 **Source:** Schnackenburg, R., *The Gospel According to St John, Volume One*, trans. Smith et al., Crossroad, 1980, esp. on John's water symbolism.

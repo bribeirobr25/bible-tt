@@ -36,7 +36,7 @@
 
 Notes are tagged by type — **Critical · Lexical · Grammatical · Theological** — each shown with its colour (see the legend at the top of the Notes view).
 
-**This chapter contains the most quoted verse in the Bible (3:16) and one of the most important translation ambiguities in the Gospel: ἄνωθεν (*anōthen*) at v.3, which means both "from above" (spatial) and "again" (temporal). The TT preserves the double meaning with a slash — "from above/again" — because the Greek reader would have heard both senses simultaneously. Nikodemos hears only "again"; Yeshua means "from above." The text's power depends on the ambiguity. Proper names follow TT transliteration: Nikodemos (not Nicodemus), Yeshua (not Jesus), Yochanan (not John), Mosheh (not Moses). The rendering "life of the age" (not "eternal life") at v.15–16 reflects αἰώνιος (*aiōnios*), which relates to αἰών (*aiōn*, "age") — a quality of life belonging to the coming age, not a statement about timelessness.**
+**This chapter contains the most quoted verse in the Bible (3:16) and one of the most important translation ambiguities in the Gospel: ἄνωθεν (*anōthen*) at v.3, which means both "from above" (spatial) and "again" (temporal). The TT preserves the double meaning with a slash — "from above/again" — because the Greek reader would have heard both senses simultaneously. Nikodemos hears only "again"; Yeshua means "from above." The text's power depends on the ambiguity. Names appear in their familiar form, with the source-language form given once per section — e.g. Yochanan (John). The rendering "life of the age" (not "eternal life") at v.15–16 reflects αἰώνιος (*aiōnios*), which relates to αἰών (*aiōn*, "age") — a quality of life belonging to the coming age, not a statement about timelessness.**
 
 ---
 
@@ -62,7 +62,7 @@ Notes are tagged by type — **Critical · Lexical · Grammatical · Theological
 
 ⁹Nicodemus answered and said to him, "How are these things able to be?" ¹⁰Jesus answered and said to him, @@"You are the teacher of Yisrael (Israel) and you do not know these things? ¹¹Amen, amen, I say to you, we speak what we know and we testify *to* what we have seen, and you do not receive our testimony. ¹²If I told you earthly things and you do not trust, how will you trust if I tell you heavenly things? ¹³And no one has gone up into the sky except the one who came down from the sky — the son of man. ¹⁴And just as Mosheh (Moses) lifted up the serpent in the wilderness, so must the son of man be lifted up, ¹⁵so that everyone trusting in him may have life of the age."@@
 
-¹⁶@@"For God so loved the world that he gave the only-born son, so that everyone trusting in him should not perish but have life of the age. ¹⁷For God did not send the son into the world so that he might judge the world, but so that the world might be saved through him. ¹⁸The one trusting in him is not judged; the one not trusting has already been judged, because he has not trusted in the name of the only-born son of God. ¹⁹And this is the judgment: that the light has come into the world, and humans loved the darkness rather than the light, for their works were evil. ²⁰For everyone practicing worthless *things* hates the light and does not come to the light, so that his works may not be exposed. ²¹But the one doing the truth comes to the light, so that his works may be made evident — that they have been worked in God."@@
+¹⁶"For God so loved the world that he gave the only-born son, so that everyone trusting in him should not perish but have life of the age. ¹⁷For God did not send the son into the world so that he might judge the world, but so that the world might be saved through him. ¹⁸The one trusting in him is not judged; the one not trusting has already been judged, because he has not trusted in the name of the only-born son of God. ¹⁹And this is the judgment: that the light has come into the world, and humans loved the darkness rather than the light, for their works were evil. ²⁰For everyone practicing worthless *things* hates the light and does not come to the light, so that his works may not be exposed. ²¹But the one doing the truth comes to the light, so that his works may be made evident — that they have been worked in God."
 
 ²²After these things Jesus and his followers came into the Yehudean land, and there he was spending time with them and immersing. ²³And Yochanan (John) also was immersing in Ainon near Shalim, because there was much water there, and *people* were coming and being immersed — ²⁴for John had not yet been thrown into prison.
 
@@ -283,7 +283,7 @@ Yeshua (Jesus) answered and said to him, @@"You are the teacher of Yisrael (Isra
 
 ### **Verse 16**
 
-@@"For God so loved the world that he gave the only-born son, so that everyone trusting in him should not perish but have life of the age."@@
+"For God so loved the world that he gave the only-born son, so that everyone trusting in him should not perish but have life of the age."
 
 > **NOTES**
 >
@@ -297,13 +297,13 @@ Yeshua (Jesus) answered and said to him, @@"You are the teacher of Yisrael (Isra
 > - **μὴ ἀπόληται** (*mē apolētai*) = "should not perish/be destroyed." The verb **ἀπόλλυμι** (*apollymi*) = "destroy, ruin, perish." The alternative to "life of the age" is not annihilation versus existence but perishing versus the life of the coming age.
 >
 > 🟡 **SPEAKER AMBIGUITY — YESHUA OR NARRATOR?**
-> - Where does Yeshua's speech end and the narrator's commentary begin? The Greek has no quotation marks; proposals range from a transition at v.12–13 to v.15 to v.21. The TT does not impose quotation marks beyond what the Greek structure supports; the absence of resolution is itself a textual feature. Arguments for the narrator's voice beginning at v.16: (1) the shift from second-person plural ('we speak,' 'you do not receive,' vv.11-12) to third person in v.16 ('God so loved'); (2) the aorist *ēgapēsen* ('God loved') reads like retrospective summary of a completed event; (3) *monogenēs* is a term the narrator uses in his own voice at 1:14 and 1:18. Argument for continued speech: no change of speaker is explicitly marked. For the arguments on each side, see companion Section A5.
+> - Where does Yeshua's speech end and the narrator's commentary begin? The Greek has no quotation marks; proposals range from a transition at v.12–13 to v.15 to v.21. The TT does not impose quotation marks beyond what the Greek structure supports; the absence of resolution is itself a textual feature. Because the speaker (Yeshua or the narrator) is left open, vv.16–21 are not marked as divine speech (red) — when in doubt, do not mark (Rule 30). Arguments for the narrator's voice beginning at v.16: (1) the shift from second-person plural ('we speak,' 'you do not receive,' vv.11-12) to third person in v.16 ('God so loved'); (2) the aorist *ēgapēsen* ('God loved') reads like retrospective summary of a completed event; (3) *monogenēs* is a term the narrator uses in his own voice at 1:14 and 1:18. Argument for continued speech: no change of speaker is explicitly marked. For the arguments on each side, see companion Section A5.
 
 ---
 
 ### **Verse 17**
 
-@@For God did not send the son into the world so that he might judge the world, but so that the world might be saved through him.@@
+For God did not send the son into the world so that he might judge the world, but so that the world might be saved through him.
 
 > **NOTES**
 >
@@ -317,7 +317,7 @@ Yeshua (Jesus) answered and said to him, @@"You are the teacher of Yisrael (Isra
 
 ### **Verse 18**
 
-@@The one trusting in him is not judged; the one not trusting has already been judged, because he has not trusted in the name of the only-born son of God.@@
+The one trusting in him is not judged; the one not trusting has already been judged, because he has not trusted in the name of the only-born son of God.
 
 > **NOTES**
 >
@@ -331,7 +331,7 @@ Yeshua (Jesus) answered and said to him, @@"You are the teacher of Yisrael (Isra
 
 ### **Verse 19**
 
-@@And this is the judgment: that the light has come into the world, and humans loved the darkness rather than the light, for their works were evil.@@
+And this is the judgment: that the light has come into the world, and humans loved the darkness rather than the light, for their works were evil.
 
 > **NOTES**
 >
@@ -345,7 +345,7 @@ Yeshua (Jesus) answered and said to him, @@"You are the teacher of Yisrael (Isra
 
 ### **Verse 20**
 
-@@For everyone practicing worthless *things* hates the light and does not come to the light, so that his works may not be exposed.@@
+For everyone practicing worthless *things* hates the light and does not come to the light, so that his works may not be exposed.
 
 > **NOTES**
 >
@@ -359,7 +359,7 @@ Yeshua (Jesus) answered and said to him, @@"You are the teacher of Yisrael (Isra
 
 ### **Verse 21**
 
-@@But the one doing the truth comes to the light, so that his works may be made evident — that they have been worked in God.@@
+But the one doing the truth comes to the light, so that his works may be made evident — that they have been worked in God.
 
 > **NOTES**
 >

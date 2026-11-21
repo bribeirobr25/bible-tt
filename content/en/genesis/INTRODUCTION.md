@@ -430,4 +430,4 @@ Many names in Genesis carry etymological significance that the narrative exploit
 
 ---
 
-> **Editorial provenance:** Drafted by Claude Opus 4.6 (1M context) on 2026-04-28. Not yet reviewed. This introduction is a provisional scholarly resource governed by TT Rule 29. All claims carry dual labels; no claim should be read as the TT's theological or compositional position. The TT translates the Masoretic Text and does not adopt any particular theory of authorship or composition.
+> **Editorial provenance:** AI-assisted draft, not yet reviewed. This introduction is a provisional scholarly resource governed by TT Rule 29. All claims carry dual labels; no claim should be read as the TT's theological or compositional position. The TT translates the Masoretic Text and does not adopt any particular theory of authorship or composition.

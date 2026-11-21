@@ -182,7 +182,7 @@ Die Apostelgeschichte ist in zwei wesentlich verschiedenen Formen überliefert, 
 - Der **alexandrinische** Text (vertreten durch Sinaiticus, Vaticanus, P74 und den Großteil der Tradition) ist die kürzere Form und ist die Grundlage von NA28 und der TT.
 - Der **westliche** Text (vertreten vor allem durch **Codex Bezae (D)**, gestützt von einigen altlateinischen und syrischen Zeugen) ist insgesamt etwa 8–10 % länger, mit zahlreichen Hinzufügungen, Klarstellungen und kleinen erzählerischen Erweiterungen durch die ganze Apostelgeschichte hindurch.
 
-Das Verhältnis der beiden ist umstritten: ob der westliche Text eine spätere Erweiterung des alexandrinischen, ein früherer, herabgekürzter Entwurf oder zwei parallele Ausgaben ist. **Die TT folgt NA28 (der alexandrinischen Form).** Innerhalb von Apg 1–3 sind die westlichen Varianten bescheiden, aber real (z. B. kleine Erweiterungen in der Apostelliste und in der Pfingsterzählung); bedeutsame Varianten werden in Stufe 2 vermerkt, statt stillschweigend übernommen (Regel 22).
+Das Verhältnis der beiden ist umstritten: ob der westliche Text eine spätere Erweiterung des alexandrinischen, ein früherer, herabgekürzter Entwurf oder zwei parallele Ausgaben ist. **Die TT folgt NA28 (der alexandrinischen Form).** Innerhalb von Apg 1–3 sind die westlichen Varianten bescheiden, aber real (z. B. kleine Erweiterungen in der Apostelliste und in der Pfingsterzählung); bedeutsame Varianten werden in den Anmerkungen verzeichnet, statt stillschweigend übernommen (Regel 22).
 
 **Quelle:** Metzger, *A Textual Commentary on the Greek New Testament* (2. Aufl., 1994), 222–236; Barrett, *Acts* (ICC), I.2–29.
 
@@ -234,10 +234,10 @@ Gemäß der TT-Politik zur Namenswiedergabe erscheint das erste Vorkommen eines 
 
 Die TT kennzeichnet den Text mit einer kleinen Reihe von Konventionen, denen der Leser durch Apg 1–3 hindurch begegnen wird:
 
-- `*hinzugefügt*` — für die deutsche Grammatik hinzugefügte Wörter (Regel 11), kursiv dargestellt.
-- `{t:…}` — ein transliterierter Begriff, mit seiner Glosse mitgeführt, z. B. {t:Hakeldama} (Blutacker), der aramäische Ortsname, den der Text selbst glossiert (1,19).
-- `{a:…}` — ein lebendiger Doppelsinn, der offengehalten statt aufgelöst wird, z. B. {a:Wind/Geist} für πνεῦμα und {a:Zungen/Sprachen} für γλῶσσαι an Pfingsten (2,4.11), wo beide Sinne im Spiel bleiben.
-- `@@…@@` — göttliche Rede (Regel 30): die direkte Rede des auferstandenen Yeshua (Jesus) in der ersten Person (1,4–5; 1,7–8) und die eingebettete göttliche Rede in der ersten Person innerhalb von AT-Zitaten (z. B. Yoels „Ich werde meinen Geist ausgießen", 2,17–18). Die **zwei Männer** bei der Himmelfahrt (1,10–11) sind Boten der *angelos*-Klasse und werden **nicht** markiert, im Einklang mit dem Gavriel-/Boten-Präzedenzfall; die Predigten des Kefa (Petrus) sind menschliche Rede und werden nicht markiert.
+- *hinzugefügt* — für die deutsche Grammatik hinzugefügte Wörter (Regel 11), kursiv dargestellt.
+- {t:…} — ein transliterierter Begriff, mit seiner Glosse mitgeführt, z. B. {t:Hakeldama} (Blutacker), der aramäische Ortsname, den der Text selbst glossiert (1,19).
+- {a:…} — ein lebendiger Doppelsinn, der offengehalten statt aufgelöst wird, z. B. {a:Wind/Geist} für πνεῦμα und {a:Zungen/Sprachen} für γλῶσσαι an Pfingsten (2,4.11), wo beide Sinne im Spiel bleiben.
+- @@…@@ — göttliche Rede (Regel 30): die direkte Rede des auferstandenen Yeshua (Jesus) in der ersten Person (1,4–5; 1,7–8). Gottes Ich-Worte innerhalb von AT-Zitaten (z. B. Yoels „Ich werde meinen Geist ausgießen", 2,17–18) werden **nicht** markiert, weil Kefa (Petrus) sie zitiert, und seine Predigten sind menschliche Rede. Die **zwei Männer** bei der Himmelfahrt (1,10–11) sind Boten der *angelos*-Klasse und werden **nicht** markiert, im Einklang mit dem Gavriel-/Boten-Präzedenzfall.
 
 ### F4. Pfingsten, „Zungen" und der Festname
 **[TEXTUELL — VERIFIZIERT]**
@@ -245,19 +245,19 @@ Die TT kennzeichnet den Text mit einer kleinen Reihe von Konventionen, denen der
 Zwei Begriffe in Kapitel 2 prägen die Lesart:
 
 - **Pfingsten (2,1):** πεντηκοστή wird mit „Pfingsten" wiedergegeben — der griechische Name des Pilgerfestes **Schawuot (Wochenfest)** — mit einer Schawuot-Glosse beim ersten Vorkommen.
-- **„Zungen / Sprachen" (2,4.11):** γλῶσσαι wird mit {a:Zungen/Sprachen} wiedergegeben, wobei beide Sinne lebendig bleiben, während διάλεκτος (2,6.8), „Sprache/Dialekt", eindeutig ist. Das Wortspiel mit dem {a:Wind/Geist} von 2,2–4 wird in Stufe 2 vermerkt.
+- **„Zungen / Sprachen" (2,4.11):** γλῶσσαι wird mit {a:Zungen/Sprachen} wiedergegeben, wobei beide Sinne lebendig bleiben, während διάλεκτος (2,6.8), „Sprache/Dialekt", eindeutig ist. Das Wortspiel mit dem {a:Wind/Geist} von 2,2–4 wird in den Anmerkungen erläutert.
 
 ### F5. Kyrios — Gottesname-Politik in der Apostelgeschichte (Option C)
 **[TEXTUELL — VERIFIZIERT]**
 
-Wenn die Apostelgeschichte Stellen der Hebräischen Bibel zitiert oder widerhallt, die das Tetragramm (der vierbuchstabige hebräische Gottesname יהוה, transliteriert JHWH) enthalten, verwendet der griechische Text κύριος (*kyrios*). Gemäß der TT-Gottesname-Politik (Option C, RULES-GS.md):
+Wenn die Apostelgeschichte Stellen der Hebräischen Bibel zitiert oder widerhallt, die das Tetragramm (der vierbuchstabige hebräische Gottesname יהוה, transliteriert JHWH) enthalten, verwendet der griechische Text κύριος (*kyrios*). Gemäß der TT-Gottesname-Politik (Option C):
 
 - Der Haupttext gibt *kyrios* als „der Herr" in Kontexten alttestamentlicher Zitate und AT-Anklänge wieder.
-- Eine Anmerkung der Stufe 2 identifiziert die Quelle und stellt fest, dass das zugrundeliegende Hebräische das Tetragramm hat.
+- Eine Anmerkung identifiziert die Quelle und stellt fest, dass das zugrundeliegende Hebräische das Tetragramm hat.
 - Wenn sich *kyrios* auf Yeshua (Jesus) oder einen menschlichen Herrn bezieht (kein AT-JHWH-Zitat), ist keine JHWH-Anmerkung nötig.
 - Mehrdeutige Fälle werden gemäß Regel 13 gekennzeichnet.
 
-Der Leitfall ist **Apg 2,34** (Zitat Psalm 110,1): „**Der Herr** (κύριος = JHWH, der Sprecher) sprach zu meinem **Herrn** (dem Messias, dem Angeredeten)" — zwei verschiedene Bezugsobjekte unter einem griechischen Wort. Die TT gibt es so wieder, dass beide bewahrt werden, kennzeichnet die Mehrdeutigkeit (Regel 13) und vermerkt es in Stufe 2, da das davidisch-messianische Argument der Predigt sich daran entscheidet. Weitere Zitate mit JHWH-Bezug in den Kapiteln 1–3 umfassen Joel 2,32 („jeder, der den Namen des Herrn anruft", zitiert bei 2,21) und Psalm 16,8 („ich sah den Herrn", 2,25).
+Der Leitfall ist **Apg 2,34** (Zitat Psalm 110,1): „**Der Herr** (κύριος = JHWH, der Sprecher) sprach zu meinem **Herrn** (dem Messias, dem Angeredeten)" — zwei verschiedene Bezugsobjekte unter einem griechischen Wort. Die TT gibt es so wieder, dass beide bewahrt werden, kennzeichnet die Mehrdeutigkeit (Regel 13) und erläutert es in den Anmerkungen, da das davidisch-messianische Argument der Predigt sich daran entscheidet. Weitere Zitate mit JHWH-Bezug in den Kapiteln 1–3 umfassen Joel 2,32 („jeder, der den Namen des Herrn anruft", zitiert bei 2,21) und Psalm 16,8 („ich sah den Herrn", 2,25).
 
 ### F6. Aktive Regeln mit apostelgeschichtsspezifischen Anwendungen
 **[TEXTUELL — VERIFIZIERT]**
@@ -268,12 +268,12 @@ Der Leitfall ist **Apg 2,34** (Zitat Psalm 110,1): „**Der Herr** (κύριος
 | 1 | Kontrollierte Lexikalische Konsistenz | Begriffe des gesperrten Glossars (*kyrios*, *Christos*, *metanoia*, *aphesis*, *koinōnia*, *pneuma*, *baptisma*) werden in allen Apostelgeschichts-Kapiteln einheitlich gemäß GS-Glossar wiedergegeben. |
 | 2 | Ambiguitätsbewahrung | {a:Wind/Geist} (πνεῦμα) und {a:Zungen/Sprachen} (γλῶσσαι) werden offengehalten statt aufgelöst. |
 | 3 | Keine importierte Theologie | Die Pfingsterzählung und die Predigten werden übersetzt, wie der Text sie präsentiert — ohne spätere Lehre zu importieren und ohne die Erzählung abzutun. Zurückhaltung in beide Richtungen. |
-| 11 | Grammatische Zusätze kennzeichnen | Für die deutsche Grammatik hinzugefügte Wörter erscheinen kursiv (`*hinzugefügt*`). |
+| 11 | Grammatische Zusätze kennzeichnen | Für die deutsche Grammatik hinzugefügte Wörter erscheinen kursiv (*hinzugefügt*). |
 | 13 | Unsicherheitsstufen | Umstrittene Begriffe (das doppelte κύριος von 2,34; εἰς ἄφεσιν, 2,38; ἀποκατάστασις, 3,21) tragen Vertrauenskennzeichnungen (Wahrscheinlich / Möglich / Unsicher). |
-| 14 | Wortspiele Annotieren | Das πνεῦμα/γλῶσσαι-Pfingstwortspiel wird in Stufe 2 vermerkt. |
-| 22 | Textkritische Zurückhaltung | Westliche (Codex Bezae) Varianten werden in Stufe 2 ohne stillschweigende Übernahme vermerkt. Siehe E2. |
-| 25 | Politik des Göttlichen Namens — GS Option C | κύριος als „der Herr" in AT-Zitats-/Anklangskontexten wiedergegeben, mit Stufe-2-Anmerkung, die JHWH im zugrundeliegenden Hebräischen identifiziert. Siehe F5. |
-| 30 | Kennzeichnung göttlicher Rede | Die Rede des auferstandenen Yeshua (1,4–8) und die eingebettete göttliche Rede in der ersten Person in AT-Zitaten (Joel, 2,17–18) werden gekennzeichnet; die Himmelfahrtsboten und die Rede der Apostel nicht. Siehe F3. |
+| 14 | Wortspiele Annotieren | Das πνεῦμα/γλῶσσαι-Pfingstwortspiel wird in den Anmerkungen erläutert. |
+| 22 | Textkritische Zurückhaltung | Westliche (Codex Bezae) Varianten werden in den Anmerkungen ohne stillschweigende Übernahme verzeichnet. Siehe E2. |
+| 25 | Politik des Göttlichen Namens — GS Option C | κύριος als „der Herr" in AT-Zitats-/Anklangskontexten wiedergegeben, mit einer Anmerkung, die JHWH im zugrundeliegenden Hebräischen identifiziert. Siehe F5. |
+| 30 | Kennzeichnung göttlicher Rede | Die Rede des auferstandenen Yeshua (1,4–8) wird gekennzeichnet; die in AT-Zitaten zitierte göttliche Rede in der ersten Person (Joel, 2,17–18), die Himmelfahrtsboten und die Rede der Apostel nicht. Siehe F3. |
 
 ---
 
@@ -290,4 +290,4 @@ Der Leitfall ist **Apg 2,34** (Zitat Psalm 110,1): „**Der Herr** (κύριος
 
 ---
 
-> **Redaktionelle Herkunft:** Entworfen von Claude Opus 4.8 (1M Kontext) am 2026-06-24. Noch nicht begutachtet. Diese Einführung ist eine provisorische wissenschaftliche Ressource, geregelt durch TT-Regel 29. Alle Behauptungen tragen doppelte Kennzeichnungen; keine Behauptung sollte als die theologische oder kompositorische Position der TT gelesen werden. Die TT übersetzt den griechischen Text (NA28, die alexandrinische Form) und übernimmt keine bestimmte Theorie der Verfasserschaft, der Abfassung oder des textkritischen Verhältnisses zwischen der alexandrinischen und der westlichen Tradition.
+> **Redaktionelle Herkunft:** KI-gestützter Entwurf, noch nicht geprüft. Diese Einführung ist eine provisorische wissenschaftliche Ressource, geregelt durch TT-Regel 29. Alle Behauptungen tragen doppelte Kennzeichnungen; keine Behauptung sollte als die theologische oder kompositorische Position der TT gelesen werden. Die TT übersetzt den griechischen Text (NA28, die alexandrinische Form) und übernimmt keine bestimmte Theorie der Verfasserschaft, der Abfassung oder des textkritischen Verhältnisses zwischen der alexandrinischen und der westlichen Tradition.

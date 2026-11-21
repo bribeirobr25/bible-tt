@@ -21,7 +21,7 @@
 - [Fortlaufende Lesung](#fortlaufende-lesung)
 - [Vers-für-Vers-Studie](#vers-für-vers-studie)
 - [Glossar — Apostelgeschichte 3](#glossar--apostelgeschichte-3)
-- [Kapitelübergreifende Verfolgung (HB -> Apostelgeschichte)](#kapitelübergreifende-verfolgung-hb--apostelgeschichte)
+- [Kapitelübergreifende Verfolgung (HB → Apostelgeschichte)](#kapitelübergreifende-verfolgung-hb--apostelgeschichte)
 
 ---
 
@@ -36,7 +36,7 @@
 
 Notizen sind nach Typ gekennzeichnet — **Kritisch · Lexikalisch · Grammatisch · Theologisch** — jeweils mit ihrer Farbe (siehe die Legende oben in der Notizen-Ansicht).
 
-**Dieses Kapitel verbindet eine Heilung mit der zweiten apostolischen Predigt.** An der Schönen Pforte des Tempels heilen Kefa und Yochanan einen von Geburt an lahmen Mann „im Namen Yeshuas des Nazareners" (V.1-10). Die erstaunte Menge versammelt sich in der Halle Shlomohs, und Kefa predigt: nicht ihre eigene Kraft, sondern der Gott der Väter hat seinen Knecht Yeshua verherrlicht — den sie verleugneten und töteten, den aber Gott auferweckte — und der Glaube an seinen Namen hat den Mann ganz gemacht (V.11-16). Er ruft sie auf, ihren Sinn zu ändern, weist auf die Propheten (Mose und Samuel) und bekräftigt den abrahamitischen Bund (V.17-26). **Hinweis zur Redemarkierung (Regel 30):** Kefas Predigt ist menschliche Rede und wird nicht markiert; das Bundeswort des HERRN an Avraham (V.25, Gen 22,18) ist göttliche Rede und **wird** @@…@@ markiert. Das Mose-Zitat (V.22-23) ist *Moses* berichtete Rede *über* den HERRN, also wird es nicht markiert. **Achten Sie auf die Begriffs-Cruxes:** *archēgos* („Urheber/Anführer/Ursprung des Lebens", V.15) und *pais* („Knecht/Kind", V.13, 26) tragen den jesajanischen Knechts-Unterton — beide sind gekennzeichnet.
+**Dieses Kapitel verbindet eine Heilung mit der zweiten apostolischen Predigt.** An der Schönen Pforte des Tempels heilen Kefa und Yochanan einen von Geburt an lahmen Mann „im Namen Yeshuas des Nazareners" (V.1-10). Die erstaunte Menge versammelt sich in der Halle Shlomohs, und Kefa predigt: nicht ihre eigene Kraft, sondern der Gott der Väter hat seinen Knecht Yeshua verherrlicht — den sie verleugneten und töteten, den aber Gott auferweckte — und der Glaube an seinen Namen hat den Mann ganz gemacht (V.11-16). Er ruft sie auf, ihren Sinn zu ändern, weist auf die Propheten (Mose und Samuel) und bekräftigt den abrahamitischen Bund (V.17-26). **Hinweis zur Redemarkierung (Regel 30):** Kefas Predigt ist menschliche Rede und wird nicht markiert; das Bundeswort des HERRN an Avraham (V.25, Gen 22,18) ist göttliche Rede, doch Kefa zitiert es, daher wird es ebenfalls **nicht** markiert. Das Mose-Zitat (V.22-23) ist *Moses* berichtete Rede *über* den HERRN, also wird es nicht markiert. **Achten Sie auf die Begriffs-Cruxes:** *archēgos* („Urheber/Anführer/Ursprung des Lebens", V.15) und *pais* („Knecht/Kind", V.13, 26) tragen den jesajanischen Knechts-Unterton — beide sind gekennzeichnet.
 
 ---
 
@@ -46,7 +46,7 @@ Notizen sind nach Typ gekennzeichnet — **Kritisch · Lexikalisch · Grammatisc
 
 **Zentrale Themen:** „Der Name" Jesu als die Kraft, die heilt und rettet (V.6, 16); die Apostel als Kanäle, nicht Quellen, der Kraft (V.12); der Gott der Patriarchen, der seinen „Knecht" (*pais*) Jesus verherrlicht — der jesajanische Knechts-Unterton; das Kontrastmuster (ihr verleugnetet / Gott verherrlichte; ihr tötetet / Gott erweckte auf); der Urheber/Anführer des Lebens, getötet und doch auferweckt; der Glaube an den Namen als das Mittel der Ganzheit; der leidende Gesalbte als die Erfüllung „aller Propheten"; der Ruf zur Sinnesänderung und „Umkehr", mit „Zeiten der Erquickung" und der „Wiederherstellung aller Dinge"; der Prophet-wie-Mose (Dtn 18), identifiziert mit Jesus; der abrahamitische Bund und der Segen „aller Geschlechter der Erde" — Israel zuerst angesprochen, die Nationen im Blick.
 
-**Achten Sie auf:** *Archēgos* (V.15) bedeutet „Anführer, Gründer, Pionier, Ursprung, Urheber" — die TT gibt „Urheber *des Lebens*" wieder und kennzeichnet den Bereich. *Pais* (V.13, 26) bedeutet sowohl „Knecht" als auch „Kind" — hier ist der jesajanische „Knecht des HERRN" (Jes 52-53) im Blick; die TT gibt „Knecht" wieder und vermerkt den Unterton. *Apokatastasis* (V.21), „Wiederherstellung aller Dinge", ist theologisch umstritten; die TT behält es, ohne seinen Umfang aufzulösen. Das Mose-Zitat (V.22-23, Dtn 18,15-19) ist Moses Rede *über* den HERRN und wird nicht göttlich markiert; das abrahamitische Wort (V.25, Gen 22,18) ist die direkte Bundesrede des HERRN und wird markiert. *Kyrios* = JHWH in V.19 („das Angesicht des Herrn") und 22 („der Herr Gott").
+**Achten Sie auf:** *Archēgos* (V.15) bedeutet „Anführer, Gründer, Pionier, Ursprung, Urheber" — die TT gibt „Urheber *des Lebens*" wieder und kennzeichnet den Bereich. *Pais* (V.13, 26) bedeutet sowohl „Knecht" als auch „Kind" — hier ist der jesajanische „Knecht des HERRN" (Jes 52-53) im Blick; die TT gibt „Knecht" wieder und vermerkt den Unterton. *Apokatastasis* (V.21), „Wiederherstellung aller Dinge", ist theologisch umstritten; die TT behält es, ohne seinen Umfang aufzulösen. Das Mose-Zitat (V.22-23, Dtn 18,15-19) ist Moses Rede *über* den HERRN und wird nicht göttlich markiert; das abrahamitische Wort (V.25, Gen 22,18) ist die direkte Bundesrede des HERRN, von Kefa zitiert, und wird ebenfalls nicht markiert. *Kyrios* = JHWH in V.19 („das Angesicht des Herrn") und 22 („der Herr Gott").
 
 **Verbindung:** Die Predigt ist mit der Hebräischen Bibel durchtränkt. „Der Gott Abrahams, Isaaks und Jakobs, der Gott unserer Väter" ist die Selbstbezeichnung JHWHs am Dornbusch (Ex 3,6, 15). „Sein Knecht" hallt die Knechtslieder Jesajas wider (42; 49; 52,13-53,12). Der Prophet-wie-Mose ist Deuteronomium 18,15-19. Der abrahamitische Segen „aller Geschlechter der Erde" ist Genesis 22,18 (vgl. 12,3; 18,18; 26,4). Samuel als Haupt der prophetischen Linie erinnert an 1 Samuel 3. Die „Wiederherstellung" (*apokatastasis*) schöpft aus der prophetischen Hoffnung auf Israels Erneuerung (z.B. Mal 3,23-24; Apg 1,6).
 
@@ -62,7 +62,7 @@ Notizen sind nach Typ gekennzeichnet — **Kritisch · Lexikalisch · Grammatisc
 
 ¹¹Und während er an Kefa (Petrus) und Yochanan (Johannes) festhielt, lief das ganze Volk zu ihnen zusammen bei der Halle, die *Shlomohs* (Salomos) genannt wird, ganz außer sich. ¹²Und als Kefa (Petrus) *dies* sah, antwortete er dem Volk: „Männer, Israeliten, was wundert ihr euch über dies, oder was blickt ihr uns an, als hätten wir durch unsere eigene Kraft oder Frömmigkeit ihn zum Gehen gebracht? ¹³Der Gott Avrahams (Abraham) und *des* Yitschaq (Isaak) und *des* Ya'aqov (Jakob), der Gott unserer Väter, hat seinen Knecht Yeshua (Jesus) verherrlicht, den ihr ausliefertet und verleugnetet vor *dem* Angesicht des Pilatus, *als* jener entschieden hatte, *ihn* freizulassen. ¹⁴Ihr aber verleugnetet den heiligen und gerechten *einen* und batet *darum*, dass euch ein Mann, ein Mörder, gewährt werde, ¹⁵aber den Urheber des Lebens tötetet ihr, den Gott aus *den* Toten auferweckte — wovon wir Zeugen sind. ¹⁶Und aufgrund des Glaubens an seinen Namen — diesen *einen*, den ihr seht und kennt — hat sein Name *ihn* fest gemacht; und der Glaube, *der* durch ihn *ist*, hat ihm diese Ganzheit gegeben vor euch allen.
 
-¹⁷„Und nun, Brüder, ich weiß, dass ihr nach Unwissenheit gehandelt habt, so wie auch eure Herrscher; ¹⁸aber Gott hat die *Dinge*, die er durch *den* Mund aller Propheten vorhergesagt hat — dass sein Gesalbter leiden würde — so erfüllt. ¹⁹Ändert darum *euren* Sinn und kehrt um, zur Auslöschung eurer Sünden, ²⁰damit Zeiten der Erquickung kommen vom *dem* Angesicht des Herrn, und *damit* er den *einen* sende, der für euch vorherbestimmt ist, *den* Gesalbten, Yeshua (Jesus), ²¹den der Himmel aufnehmen muss bis zu *den* Zeiten der Wiederherstellung aller *Dinge*, von denen Gott durch *den* Mund seiner heiligen Propheten von alters her geredet hat. ²²Mosheh (Mose) sagte zwar: ‚Einen Propheten für euch wird *der* Herr Gott aus euren Brüdern erwecken, wie mich; auf ihn sollt ihr hören in allen *Dingen*, was immer er zu euch reden mag. ²³Und es wird sein, *dass* jede Seele, wer auch immer nicht auf jenen Propheten hört, völlig ausgerottet werden wird aus dem Volk.' ²⁴Und auch alle Propheten, von Shmuel (Samuel) an und denen, *die danach kamen*, so viele geredet haben, kündigten auch diese Tage an. ²⁵Ihr seid die Söhne der Propheten und des Bundes, den Gott mit euren Vätern schloss, indem er zu Avraham (Abraham) sprach: @@‚Und in deinem Samen werden alle Geschlechter der Erde gesegnet werden.'@@ ²⁶Zu euch zuerst hat Gott, nachdem er seinen Knecht auferweckt hatte, ihn gesandt, indem er euch segnet *dadurch, dass* ein jeder *von euch* von euren Bosheiten umkehrt."
+¹⁷„Und nun, Brüder, ich weiß, dass ihr nach Unwissenheit gehandelt habt, so wie auch eure Herrscher; ¹⁸aber Gott hat die *Dinge*, die er durch *den* Mund aller Propheten vorhergesagt hat — dass sein Gesalbter leiden würde — so erfüllt. ¹⁹Ändert darum *euren* Sinn und kehrt um, zur Auslöschung eurer Sünden, ²⁰damit Zeiten der Erquickung kommen *vom* Angesicht des Herrn, und *damit* er den *einen* sende, der für euch vorherbestimmt ist, *den* Gesalbten, Yeshua (Jesus), ²¹den der Himmel aufnehmen muss bis zu *den* Zeiten der Wiederherstellung aller *Dinge*, von denen Gott durch *den* Mund seiner heiligen Propheten von alters her geredet hat. ²²Mosheh (Mose) sagte zwar: ‚Einen Propheten für euch wird *der* Herr Gott aus euren Brüdern erwecken, wie mich; auf ihn sollt ihr hören in allen *Dingen*, was immer er zu euch reden mag. ²³Und es wird sein, *dass* jede Seele, wer auch immer nicht auf jenen Propheten hört, völlig ausgerottet werden wird aus dem Volk.' ²⁴Und auch alle Propheten, von Shmuel (Samuel) an und denen, *die danach kamen*, so viele geredet haben, kündigten auch diese Tage an. ²⁵Ihr seid die Söhne der Propheten und des Bundes, den Gott mit euren Vätern schloss, indem er zu Avraham (Abraham) sprach: ‚Und in deinem Samen werden alle Geschlechter der Erde gesegnet werden.' ²⁶Zu euch zuerst hat Gott, nachdem er seinen Knecht auferweckt hatte, ihn gesandt, indem er euch segnet *dadurch, dass* ein jeder *von euch* von euren Bosheiten umkehrt."
 
 ---
 
@@ -279,12 +279,12 @@ aber Gott hat die *Dinge*, die er durch *den* Mund aller Propheten vorhergesagt 
 
 ### **Vers 20**
 
-damit Zeiten der Erquickung kommen vom *dem* Angesicht des Herrn, und *damit* er den *einen* sende, der für euch vorherbestimmt ist, *den* Gesalbten, Yeshua (Jesus),
+damit Zeiten der Erquickung kommen *vom* Angesicht des Herrn, und *damit* er den *einen* sende, der für euch vorherbestimmt ist, *den* Gesalbten, Yeshua (Jesus),
 
 > **Notizen**
 >
 > 🔵 **„ZEITEN DER ERQUICKUNG" + κύριος = JHWH**
-> - **καιροὶ ἀναψύξεως ἀπὸ προσώπου τοῦ κυρίου** (*kairoi anapsyxeōs apo prosōpou tou kyriou*) = „Zeiten der Erquickung vom *dem* Angesicht des Herrn." *Kyrios* = **JHWH** (Option C). *Anapsyxis* („Erquickung, Erleichterung") ist selten — die eschatologische Erleichterung, an die Umkehr gebunden. Der Gesalbte ist für sie „**vorherbestimmt**" (*prokecheirismenon*).
+> - **καιροὶ ἀναψύξεως ἀπὸ προσώπου τοῦ κυρίου** (*kairoi anapsyxeōs apo prosōpou tou kyriou*) = „Zeiten der Erquickung *vom* Angesicht des Herrn." *Kyrios* = **JHWH** (Option C). *Anapsyxis* („Erquickung, Erleichterung") ist selten — die eschatologische Erleichterung, an die Umkehr gebunden. Der Gesalbte ist für sie „**vorherbestimmt**" (*prokecheirismenon*).
 
 ---
 
@@ -334,12 +334,12 @@ Und auch alle Propheten, von Shmuel (Samuel) an und denen, *die danach kamen*, s
 
 ### **Vers 25**
 
-Ihr seid die Söhne der Propheten und des Bundes, den Gott mit euren Vätern schloss, indem er zu Avraham (Abraham) sprach: @@‚Und in deinem Samen werden alle Geschlechter der Erde gesegnet werden.'@@
+Ihr seid die Söhne der Propheten und des Bundes, den Gott mit euren Vätern schloss, indem er zu Avraham (Abraham) sprach: ‚Und in deinem Samen werden alle Geschlechter der Erde gesegnet werden.'
 
 > **Notizen**
 >
 > 🔴 **KRITISCH — DER ABRAHAMITISCHE BUND (Gen 22,18); GÖTTLICHE REDE**
-> - **ἐν τῷ σπέρματί σου ἐνευλογηθήσονται πᾶσαι αἱ πατριαὶ τῆς γῆς** (*en tō spermati sou eneulogēthēsontai pasai hai patriai tēs gēs*) = „Und in deinem Samen werden alle Geschlechter der Erde gesegnet werden" (Gen 22,18; vgl. 12,3). Dies ist **das direkte Bundeswort des HERRN an Avraham** → markiert @@…@@ (Regel 30 / A-004). „Söhne der Propheten und des Bundes" — die Hörer sind Erben der Verheißung; „alle Geschlechter der Erde" hält die Nationen im Blick, obwohl Israel „zuerst" angesprochen wird (V.26). → Begleitmaterial §B5 (der abrahamitische Segen).
+> - **ἐν τῷ σπέρματί σου ἐνευλογηθήσονται πᾶσαι αἱ πατριαὶ τῆς γῆς** (*en tō spermati sou eneulogēthēsontai pasai hai patriai tēs gēs*) = „Und in deinem Samen werden alle Geschlechter der Erde gesegnet werden" (Gen 22,18; vgl. 12,3). Dies ist **das direkte Bundeswort des HERRN an Avraham**, von Kefa zitiert → nicht markiert (Regel 30). „Söhne der Propheten und des Bundes" — die Hörer sind Erben der Verheißung; „alle Geschlechter der Erde" hält die Nationen im Blick, obwohl Israel „zuerst" angesprochen wird (V.26). → Begleitmaterial §B5 (der abrahamitische Segen).
 
 ---
 
@@ -371,7 +371,7 @@ Zu euch zuerst hat Gott, nachdem er seinen Knecht auferweckt hatte, ihn gesandt,
 
 ---
 
-## Kapitelübergreifende Verfolgung (HB -> Apostelgeschichte)
+## Kapitelübergreifende Verfolgung (HB → Apostelgeschichte)
 
 | HB / frühere Quelle | Thema | In Apostelgeschichte 3 |
 |---------------------|-------|-----------|
@@ -379,6 +379,6 @@ Zu euch zuerst hat Gott, nachdem er seinen Knecht auferweckt hatte, ihn gesandt,
 | Jes 52,13-53,12 | Der Knecht des HERRN, nach dem Leiden verherrlicht | „Sein **Knecht** (*pais*) Yeshua… verherrlicht" (V.13, 26); der leidende Gesalbte (V.18). |
 | Jes 35,6 | „Dann wird der Lahme springen wie ein Hirsch" | Der geheilte Mann „springend" in den Tempel (V.8). |
 | Dtn 18,15-19 | Der Prophet wie Mose | Zitiert und mit Yeshua identifiziert (V.22-23). |
-| Gen 22,18 (vgl. 12,3) | „In deinem Samen werden alle Geschlechter der Erde gesegnet" | Das Bundeswort des HERRN, als göttliche Rede markiert (V.25). |
+| Gen 22,18 (vgl. 12,3) | „In deinem Samen werden alle Geschlechter der Erde gesegnet" | Das Bundeswort des HERRN, von Kefa zitiert — nicht markiert (V.25). |
 | 1 Sam 3 | Samuel, Haupt der prophetischen Linie | „Alle Propheten von Shmuel an" kündigten diese Tage an (V.24). |
 | Mal 3,23-24; Apg 1,6 | Wiederherstellung / Umkehr der Herzen | „Zeiten der Wiederherstellung aller Dinge" (V.21); „Sinnesänderung und Umkehr" (V.19). |

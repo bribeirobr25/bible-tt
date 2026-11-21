@@ -347,7 +347,7 @@ Y dijo, "Maldito *sea* Canaán; siervo de siervos será para sus hermanos."
 
 > **NOTAS**
 >
-> ⚠️ **NOTA DE RECEPCIÓN** — Este pasaje tiene una historia de recepción documentada que involucra uso perjudicial. Vea el compañero Sección F para contexto histórico.
+> 🟡 **NOTA DE RECEPCIÓN** — Este pasaje tiene una historia de recepción documentada que involucra uso perjudicial. Vea el compañero Sección F para contexto histórico.
 >
 > 🔴 **CRÍTICO — KENAAN MALDECIDO, NO CAM**
 > - **אָרוּר כְּנָעַן** = "Maldito Canaán." El texto no explica por qué Canaán, y no Cam, fue maldecido; propuestas principales (castigo-a-través-de-la-descendencia; etiológica — subyugación posterior de Canaán por Israel). **POSIBLE**; ninguna demostrada. → Para discusión completa, vea el compañero §G1.

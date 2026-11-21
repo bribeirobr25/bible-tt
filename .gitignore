@@ -8,3 +8,6 @@ out/
 
 # Playwright MCP screenshots/snapshots (local verification artifacts)
 .playwright-mcp/
+
+# agent worktrees (Claude Code)
+.claude/worktrees/
