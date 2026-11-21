@@ -79,6 +79,4 @@ La formación de un séquito corre desde la orilla del lago hasta el monte. En e
 ---
 
 **Procedencia editorial:**
-- Redactado por: IA (Claude, Anthropic)
-- Fecha: 2026-06-18
-- Revisado por: pendiente
+- Borrador asistido por IA, aún no revisado.

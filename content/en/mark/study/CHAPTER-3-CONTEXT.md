@@ -158,7 +158,7 @@ Mark frequently splits one story to wrap another inside it. Here the family's ap
 
 ## I. The World at the Time
 
-> **Cross-reference:** For the full two-scenario, ten-category world context (Political, Economy, Daily Life, Social Structure, Education, Military, Arts, Science, Religion, Neighboring Peoples), see the John 1 companion (Section I, `en/john/study/CHAPTER-1-CONTEXT.md`). The entries below address the specific circumstances foregrounded in Mark 3.
+> **Cross-reference:** For the full two-scenario, ten-category world context (Political, Economy, Daily Life, Social Structure, Education, Military, Arts, Science, Religion, Neighboring Peoples), see the John 1 study companion (Deeper), Section I. The entries below address the specific circumstances foregrounded in Mark 3.
 
 ---
 
@@ -213,6 +213,4 @@ The redefinition of family around "the will of God" (3:35) would carry particula
 ---
 
 **Editorial provenance:**
-- Drafted by: AI (Claude, Anthropic)
-- Date: 2026-06-18
-- Reviewed by: pending
+- AI-assisted draft, not yet reviewed.

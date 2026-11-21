@@ -249,7 +249,7 @@ But the messenger said to him, "Do not be afraid, Zecharyah (Zechariah), because
 > **Notes**
 >
 > 🔴 **CRITICAL — GAVRIEL'S SPEECH NOT DIVINE-MARKED (RULE 30)**
-> - The messenger's words (vv.13-20) are rendered in ordinary quotation marks, NOT the @@…@@ divine-speech markers. Per the editorial decision (luke.md L-001) and the Matthew/Mark precedent, an *angelos* is a messenger, not God; only the direct speech of God or the holy wind/spirit is marked. The TT does not collapse messenger-speech into divine speech.
+> - The messenger's words (vv.13-20) are rendered in ordinary quotation marks, NOT the @@…@@ divine-speech markers. Per the Matthew/Mark precedent, an *angelos* is a messenger, not God; only the direct speech of God or the holy wind/spirit is marked. The TT does not collapse messenger-speech into divine speech.
 >
 > 🟢 **YOCHANAN — TT TRANSLITERATION**
 > - **Ἰωάννης** (*Iōannēs*) = Yochanan (Hebrew: **Yochanan**, "YHWH has shown favor / YHWH is gracious"). Familiar: John. The name's meaning ("YHWH is gracious") resonates with *charis* in the chapter.
@@ -652,7 +652,7 @@ And Miryam (Mary) said, "My soul magnifies the Lord,
 > **Notes**
 >
 > 🔴 **CRITICAL — THE MAGNIFICAT (vv.46-55): HUMAN SPEECH, RENDERED AS PROSE**
-> - The Magnificat is **Mary's** song (a textual variant in a few witnesses, esp. some Old Latin, reads "Elizabeth," but NA28 reads *Mariam*). As human speech it is NOT divine-marked (Rule 30). Per editorial decision (luke.md L-002), the canticle is authored as flowing prose; the renderer collapses poetic line breaks, so no manual lineation is used. → For the Magnificat's structure and Hannah's-song base, see the PROPHECY companion. **[text-critical — VERIFIED]**
+> - The Magnificat is **Mary's** song (a textual variant in a few witnesses, esp. some Old Latin, reads "Elizabeth," but NA28 reads *Mariam*). As human speech it is NOT divine-marked (Rule 30). The canticle is authored as flowing prose; the renderer collapses poetic line breaks, so no manual lineation is used. → For the Magnificat's structure and Hannah's-song base, see the PROPHECY companion. **[text-critical — VERIFIED]**
 >
 > 🟢 **"MAGNIFIES" — *MEGALYNEI* (PS 34:4 ECHO)**
 > - **μεγαλύνει ἡ ψυχή μου τὸν κύριον** (*megalynei hē psychē mou ton kyrion*) = "my soul magnifies the Lord." Opening echo of Ps 34:4 (Eng. 33:4 LXX) and 1 Sam 2:1. Referent of *kyrios*: YHWH (Probable, Option C). *Psychē* = "soul, life-breath, self."
@@ -886,7 +886,7 @@ And Zecharyah (Zechariah) his father was filled with *the* holy {a:wind/spirit} 
 > **Notes**
 >
 > 🔴 **CRITICAL — THE BENEDICTUS (vv.68-79): HUMAN PROPHECY, RENDERED AS PROSE**
-> - Verse 67 is the narrative introduction; the canticle proper begins at v.68. Zechariah's song is **human** prophetic speech "filled with *the* holy wind/spirit" — but spoken by Zechariah, not God; it is therefore NOT divine-marked (Rule 30). Per editorial decision (luke.md L-002), it is authored as flowing prose. → For the Benedictus structure, see the PROPHECY companion. **[theological — PROBABLE]**
+> - Verse 67 is the narrative introduction; the canticle proper begins at v.68. Zechariah's song is **human** prophetic speech "filled with *the* holy wind/spirit" — but spoken by Zechariah, not God; it is therefore NOT divine-marked (Rule 30). It is authored as flowing prose. → For the Benedictus structure, see the PROPHECY companion. **[theological — PROBABLE]**
 >
 > 🟢 **"FILLED… AND PROPHESIED" — *EPLĒSTHĒ… EPROPHĒTEUSEN***
 > - **ἐπλήσθη πνεύματος ἁγίου καὶ ἐπροφήτευσεν** (*eplēsthē pneumatos hagiou kai eprophēteusen*) = "was filled with holy wind/spirit and prophesied." The same "filled" verb describes Elizabeth (v.41) and is anticipated for John (v.15) — the wind/spirit empowers human speech, which remains human (not divine-marked).

@@ -250,7 +250,7 @@ Mas o mensageiro lhe disse: "Não tenhas medo, Zecharyah (Zacarias), porque a tu
 > **Notas**
 >
 > 🔴 **CRÍTICO — A FALA DE GAVRIEL NÃO MARCADA COMO DIVINA (REGRA 30)**
-> - As palavras do mensageiro (vv.13-20) são apresentadas com aspas comuns, NÃO com os marcadores de fala divina @@…@@. Conforme a decisão editorial (luke.md L-001) e o precedente de Mateus/Marcos, um *angelos* é um mensageiro, não Deus; apenas a fala direta de Deus ou do vento/espírito santo é marcada. A TT não funde a fala do mensageiro em fala divina.
+> - As palavras do mensageiro (vv.13-20) são apresentadas com aspas comuns, NÃO com os marcadores de fala divina @@…@@. Conforme o precedente de Mateus/Marcos, um *angelos* é um mensageiro, não Deus; apenas a fala direta de Deus ou do vento/espírito santo é marcada. A TT não funde a fala do mensageiro em fala divina.
 >
 > 🟢 **YOCHANAN — TRANSLITERAÇÃO TT**
 > - **Ἰωάννης** (*Iōannēs*) = Yochanan (Hebraico: **Yochanan**, "YHWH mostrou favor / YHWH é gracioso"). Familiar: João. O significado do nome ("YHWH é gracioso") ressoa com *charis* no capítulo.
@@ -653,7 +653,7 @@ E Miryam (Maria) disse: "A minha alma magnifica o Senhor,
 > **Notas**
 >
 > 🔴 **CRÍTICO — O MAGNIFICAT (vv.46-55): FALA HUMANA, APRESENTADA COMO PROSA**
-> - O Magnificat é o cântico de **Maria** (uma variante textual em algumas poucas testemunhas, esp. parte do Latim Antigo, lê "Isabel," mas NA28 lê *Mariam*). Como fala humana, NÃO é marcado como divino (Regra 30). Conforme decisão editorial (luke.md L-002), o cântico é redigido como prosa fluente; o renderizador colapsa as quebras de linha poéticas, então nenhuma diagramação manual é usada. → Para a estrutura do Magnificat e a base no cântico de Ana, veja o companheiro de PROFECIA. **[textual-crítico — VERIFICADO]**
+> - O Magnificat é o cântico de **Maria** (uma variante textual em algumas poucas testemunhas, esp. parte do Latim Antigo, lê "Isabel," mas NA28 lê *Mariam*). Como fala humana, NÃO é marcado como divino (Regra 30). O cântico é redigido como prosa fluente; o renderizador colapsa as quebras de linha poéticas, então nenhuma diagramação manual é usada. → Para a estrutura do Magnificat e a base no cântico de Ana, veja o companheiro de PROFECIA. **[textual-crítico — VERIFICADO]**
 >
 > 🟢 **"MAGNIFICA" — *MEGALYNEI* (ECO DE SL 34:4)**
 > - **μεγαλύνει ἡ ψυχή μου τὸν κύριον** (*megalynei hē psychē mou ton kyrion*) = "a minha alma magnifica o Senhor." Eco de abertura do Sl 34:4 (Ing. 33:4 LXX) e 1 Sm 2:1. Referente de *kyrios*: YHWH (Provável, Opção C). *Psychē* = "alma, sopro-de-vida, eu."
@@ -887,7 +887,7 @@ E Zecharyah (Zacarias) seu pai foi cheio do {a:vento/espírito} santo e profetiz
 > **Notas**
 >
 > 🔴 **CRÍTICO — O BENEDICTUS (vv.68-79): PROFECIA HUMANA, APRESENTADA COMO PROSA**
-> - O versículo 67 é a introdução narrativa; o cântico propriamente começa no v.68. O cântico de Zacarias é fala profética **humana** "cheia do *vento/espírito* santo" — mas dita por Zacarias, não por Deus; portanto NÃO é marcado como divino (Regra 30). Conforme decisão editorial (luke.md L-002), é redigido como prosa fluente. → Para a estrutura do Benedictus, veja o companheiro de PROFECIA. **[teológico — PROVÁVEL]**
+> - O versículo 67 é a introdução narrativa; o cântico propriamente começa no v.68. O cântico de Zacarias é fala profética **humana** "cheia do *vento/espírito* santo" — mas dita por Zacarias, não por Deus; portanto NÃO é marcado como divino (Regra 30). É redigido como prosa fluente. → Para a estrutura do Benedictus, veja o companheiro de PROFECIA. **[teológico — PROVÁVEL]**
 >
 > 🟢 **"CHEIO… E PROFETIZOU" — *EPLĒSTHĒ… EPROPHĒTEUSEN***
 > - **ἐπλήσθη πνεύματος ἁγίου καὶ ἐπροφήτευσεν** (*eplēsthē pneumatos hagiou kai eprophēteusen*) = "foi cheio do vento/espírito santo e profetizou." O mesmo verbo "cheio" descreve Isabel (v.41) e é antecipado para João (v.15) — o vento/espírito capacita a fala humana, que permanece humana (não marcada como divina).

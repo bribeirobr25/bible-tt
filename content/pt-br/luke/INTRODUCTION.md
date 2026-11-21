@@ -222,17 +222,17 @@ Conforme a política de transliteração de nomes da TT, a primeira ocorrência 
 ### F3. Os cânticos
 **[TEXTUAL — VERIFICADO]**
 
-Lucas 1–2 contém quatro cânticos que ficaram conhecidos por suas palavras latinas de abertura: o **Magnificat** (Miryam (Maria), 1:46–55), o **Benedictus** (Zekharyah (Zacarias), 1:68–79), o **Gloria** (a hoste angelical, 2:14) e o **Nunc Dimittis** (Shimon (Simeão), 2:29–32). Os quatro estão saturados de linguagem da Septuaginta (o Magnificat especialmente ecoa o cântico de Hannah, 1 Samuel 2:1–10). Estes são discurso **humano** — cânticos de Maria, Zacarias, da hoste angelical e de Simeão — e portanto **não** são marcados como discurso divino sob a Regra 30. Pela convenção estabelecida da TT (registro editorial L-002), são traduzidos como prosa fluente em vez de poesia em linhas; a lineação visual é adiada junto com a questão mais ampla da poesia hebraica.
+Lucas 1–2 contém quatro cânticos que ficaram conhecidos por suas palavras latinas de abertura: o **Magnificat** (Miryam (Maria), 1:46–55), o **Benedictus** (Zekharyah (Zacarias), 1:68–79), o **Gloria** (a hoste angelical, 2:14) e o **Nunc Dimittis** (Shimon (Simeão), 2:29–32). Os quatro estão saturados de linguagem da Septuaginta (o Magnificat especialmente ecoa o cântico de Hannah, 1 Samuel 2:1–10). Estes são discurso **humano** — cânticos de Maria, Zacarias, da hoste angelical e de Simeão — e portanto **não** são marcados como discurso divino sob a Regra 30. Pela convenção estabelecida da TT, são traduzidos como prosa fluente em vez de poesia em linhas; a lineação visual é adiada junto com a questão mais ampla da poesia hebraica.
 
 ### F4. Discurso divino direto (Regra 30)
 **[TEXTUAL — VERIFICADO]**
 
-A TT marca o discurso direto de Deus e de Yeshua (Jesus) com uma cor distinta. Dentro de Lucas 1–3 isto abrange a voz divina na imersão (3:22 — "Tu és meu filho amado; em ti me agrado") e os ditos de Yeshua (ex., 2:49, "Não sabíeis que devo estar nas coisas de meu Pai…?"). O discurso de **Gavriel (Gabriel)** — um mensageiro angelical (1:13–20; 1:28–37) — **não** é marcado, consistente com o precedente de Mateus/Marcos para falantes angelicais (registro editorial L-001). Os cânticos, o discurso de Elisheva (Isabel), Zekharyah (Zacarias), Shimon (Simeão) e da multidão tampouco são marcados como divinos.
+A TT marca o discurso direto de Deus e de Yeshua (Jesus) com uma cor distinta. Dentro de Lucas 1–3 isto abrange a voz divina na imersão (3:22 — "Tu és meu filho amado; em ti me agrado") e os ditos de Yeshua (ex., 2:49, "Não sabíeis que devo estar nas coisas de meu Pai…?"). O discurso de **Gavriel (Gabriel)** — um mensageiro angelical (1:13–20; 1:28–37) — **não** é marcado, consistente com o precedente de Mateus/Marcos para falantes angelicais. Os cânticos, o discurso de Elisheva (Isabel), Zekharyah (Zacarias), Shimon (Simeão) e da multidão tampouco são marcados como divinos.
 
 ### F5. Kyrios — Política do Nome Divino em Lucas
 **[TEXTUAL — VERIFICADO]**
 
-Quando Lucas cita ou ecoa passagens da Bíblia Hebraica contendo o Tetragrama (o nome divino hebraico de quatro letras יהוה, transliterado YHWH), o texto grego usa κύριος (*kyrios*). Conforme a Política do Nome Divino da TT (Opção C, RULES-GS.md):
+Quando Lucas cita ou ecoa passagens da Bíblia Hebraica contendo o Tetragrama (o nome divino hebraico de quatro letras יהוה, transliterado YHWH), o texto grego usa κύριος (*kyrios*). Conforme a Política do Nome Divino da TT (Opção C):
 
 - O texto principal traduz *kyrios* como "o Senhor" em contextos de citação do AT e de eco do AT.
 - Uma nota identifica a fonte e declara que o hebraico subjacente tem o Tetragrama.
@@ -252,9 +252,9 @@ Isto é especialmente relevante nos cânticos e na narrativa da infância, que s
 | 3 | Sem teologia importada | A narrativa da infância e os cânticos são traduzidos como o texto os apresenta — sem importar teologia mariana posterior e sem descartar a narrativa. Contenção nos dois sentidos. |
 | 11 | Marcar adições gramaticais | Palavras adicionadas para a gramática portuguesa aparecem em itálico. |
 | 13 | Níveis de incerteza | Termos debatidos e questões genealógicas carregam rótulos de confiança (Provável / Possível / Incerto). |
-| 14 | Anotar Jogos de Palavras | Termos gregos-chave (ex., *asphaleia*, *eudokia*) anotados em Nível 2 onde a gama semântica é significativa. |
-| 22 | Restrição Textual-Crítica | Variantes (1:46 Maria/Isabel; 2:14 *eudokias*/*eudokia*; 3:22 "hoje eu te gerei") anotadas em Nível 2 sem adoção silenciosa. |
-| 25 | Política do Nome Divino — GS Opção C | κύριος traduzido como "o Senhor" em contextos de citação/eco do AT, com nota em Nível 2 identificando YHWH no hebraico subjacente. Ver F5. |
+| 14 | Anotar Jogos de Palavras | Termos gregos-chave (ex., *asphaleia*, *eudokia*) anotados nas notas onde a gama semântica é significativa. |
+| 22 | Restrição Textual-Crítica | Variantes (1:46 Maria/Isabel; 2:14 *eudokias*/*eudokia*; 3:22 "hoje eu te gerei") anotadas nas notas sem adoção silenciosa. |
+| 25 | Política do Nome Divino — GS Opção C | κύριος traduzido como "o Senhor" em contextos de citação/eco do AT, com uma nota identificando YHWH no hebraico subjacente. Ver F5. |
 | 30 | Marcação de discurso divino | A voz de Deus (3:22) e o discurso de Yeshua são marcados; Gavriel (Gabriel) e os cânticos não. Ver F4. |
 
 ---
@@ -272,4 +272,4 @@ Isto é especialmente relevante nos cânticos e na narrativa da infância, que s
 
 ---
 
-> **Proveniência editorial:** Redigido por Claude Opus 4.8 (contexto 1M) em 2026-06-23. Ainda não revisado. Esta introdução é um recurso acadêmico provisório governado pela Regra 29 da TT. Todas as afirmações carregam rótulos duplos; nenhuma afirmação deve ser lida como a posição teológica ou composicional da TT. A TT traduz o texto grego (NA28) e não adota nenhuma teoria particular de autoria ou composição.
+> **Proveniência editorial:** Rascunho assistido por IA, ainda não revisado. Esta introdução é um recurso acadêmico provisório governado pela Regra 29 da TT. Todas as afirmações carregam rótulos duplos; nenhuma afirmação deve ser lida como a posição teológica ou composicional da TT. A TT traduz o texto grego (NA28) e não adota nenhuma teoria particular de autoria ou composição.

@@ -211,7 +211,7 @@ And the messenger said to them, "Do not be afraid; for see, I bring you good new
 > **Notes**
 >
 > 🔴 **CRITICAL — MESSENGER-SPEECH NOT DIVINE-MARKED (RULE 30)**
-> - The messenger's announcement (vv.10-12) is rendered in ordinary quotation marks, NOT the @@…@@ divine-speech markers. Per the editorial decision (luke.md L-001) and the Matthew/Mark precedent, an *angelos* is a messenger, not God; only the direct speech of God or the holy wind/spirit is marked. The TT does not collapse messenger-speech into divine speech.
+> - The messenger's announcement (vv.10-12) is rendered in ordinary quotation marks, NOT the @@…@@ divine-speech markers. Per the Matthew/Mark precedent, an *angelos* is a messenger, not God; only the direct speech of God or the holy wind/spirit is marked. The TT does not collapse messenger-speech into divine speech.
 >
 > 🟢 **"I BRING GOOD NEWS… GREAT JOY" — *EUANGELIZOMAI… CHARAN MEGALĒN***
 > - **εὐαγγελίζομαι ὑμῖν χαρὰν μεγάλην** (*euangelizomai hymin charan megalēn*) = "I bring you good news of a great joy." The verb (cognate with *euangelion*) and the "joy" keyword tie back to 1:14, 1:44, 1:47. **παντὶ τῷ λαῷ** (*panti tō laō*, "for all the people") — *laos* is Israel as God's people; the wider reach to "the nations" surfaces in Simeon's song (v.32).
@@ -247,7 +247,7 @@ And suddenly *there* was with the messenger a multitude of *the* heavenly host, 
 > **Notes**
 >
 > 🔴 **CRITICAL — THE HEAVENLY HOST: *ANGELOS*-CLASS, NOT DIVINE-MARKED (RULE 30)**
-> - **πλῆθος στρατιᾶς οὐρανίου** (*plēthos stratias ouraniou*) = "a multitude of *the* heavenly host/army." *Stratia ourania* is the angelic army (cf. 1 Kgs 22:19; Ps 103:21 LXX). Their song (the Gloria, v.14) is *angelos*-class speech and is therefore NOT divine-marked, exactly as the individual messenger's words. → see luke.md L-001.
+> - **πλῆθος στρατιᾶς οὐρανίου** (*plēthos stratias ouraniou*) = "a multitude of *the* heavenly host/army." *Stratia ourania* is the angelic army (cf. 1 Kgs 22:19; Ps 103:21 LXX). Their song (the Gloria, v.14) is *angelos*-class speech and is therefore NOT divine-marked, exactly as the individual messenger's words.
 
 ---
 
@@ -261,7 +261,7 @@ And suddenly *there* was with the messenger a multitude of *the* heavenly host, 
 > - **δόξα ἐν ὑψίστοις θεῷ καὶ ἐπὶ γῆς εἰρήνη ἐν ἀνθρώποις εὐδοκίας** (*doxa en hypsistois theō kai epi gēs eirēnē en anthrōpois eudokias*) = "Glory in *the* highest to God, and on earth peace among people of good will/favor." NA28 reads the **genitive εὐδοκίας** (*eudokias*) — "peace among people *of (his) favor/good pleasure*," i.e., those on whom God's favor rests (a Semitic construction, cf. Qumran "sons of *(God's)* good pleasure"). The older "good will toward men" rests on a variant **nominative εὐδοκία** (*eudokia*). The TT follows the genitive and renders "people of *his* favor," supplying *his* in italics, and flags the case as a known crux. Note also that this is a two-line couplet ("glory… peace"), not three. → For *eudokia(s)* and the textual decision, see Companion §D3. **[text-critical / lexical — PROBABLE]**
 >
 > 🟢 **RULE 30 — THE GLORIA NOT DIVINE-MARKED; RENDERED AS PROSE**
-> - The Gloria is the song of the *heavenly host* (v.13), an *angelos*-class speaker — therefore NOT marked with @@…@@. As a canticle it is authored as flowing prose (luke.md L-002), no line breaks. *Hypsistois* ("the highest *places*") echoes *hypsistos* ("Most High") of chapter 1.
+> - The Gloria is the song of the *heavenly host* (v.13), an *angelos*-class speaker — therefore NOT marked with @@…@@. As a canticle it is authored as flowing prose, no line breaks. *Hypsistois* ("the highest *places*") echoes *hypsistos* ("Most High") of chapter 1.
 
 ---
 
@@ -436,7 +436,7 @@ he also received him into *his* arms and blessed God and said,
 > **Notes**
 >
 > 🔴 **CRITICAL — THE NUNC DIMITTIS (vv.29-32): HUMAN SPEECH, RENDERED AS PROSE**
-> - **νῦν ἀπολύεις τὸν δοῦλόν σου, δέσποτα, κατὰ τὸ ῥῆμά σου ἐν εἰρήνῃ** (*nyn apolyeis ton doulon sou, despota, kata to rhēma sou en eirēnē*) = "Now you release your slave, Master, according to your word, in peace." Simeon's song is **human** speech (Rule 30) — NOT divine-marked — and, as a canticle, authored as flowing prose (luke.md L-002). **δεσπότης** (*despotēs*, "Master, sovereign owner") is the address to God here (not *kyrios*); the TT renders "Master." *Apolyō* ("release, let go") echoes the "release" word-field (cf. *aphesis*, 1:77); a slave-owner dismisses his servant. → For the Nunc Dimittis structure, see the PROPHECY companion. **[theological — PROBABLE]**
+> - **νῦν ἀπολύεις τὸν δοῦλόν σου, δέσποτα, κατὰ τὸ ῥῆμά σου ἐν εἰρήνῃ** (*nyn apolyeis ton doulon sou, despota, kata to rhēma sou en eirēnē*) = "Now you release your slave, Master, according to your word, in peace." Simeon's song is **human** speech (Rule 30) — NOT divine-marked — and, as a canticle, authored as flowing prose. **δεσπότης** (*despotēs*, "Master, sovereign owner") is the address to God here (not *kyrios*); the TT renders "Master." *Apolyō* ("release, let go") echoes the "release" word-field (cf. *aphesis*, 1:77); a slave-owner dismisses his servant. → For the Nunc Dimittis structure, see the PROPHECY companion. **[theological — PROBABLE]**
 
 ---
 

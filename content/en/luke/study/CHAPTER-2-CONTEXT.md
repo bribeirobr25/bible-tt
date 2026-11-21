@@ -221,7 +221,7 @@ The boy Yeshua's reply, **ἐν τοῖς τοῦ πατρός μου** (*en toi
 
 ## I. The World at the Time
 
-> **Cross-reference:** For the full two-scenario, ten-category world context (Political, Economy, Daily Life, Social Structure, Education, Military, Arts, Science, Religion, Neighboring Peoples), see the John 1 companion (Section I, `en/john/study/CHAPTER-1-CONTEXT.md`). Luke and John share the same general historical period; the John 1 section provides the foundation. The entries below address the specific circumstances foregrounded in Luke 2.
+> **Cross-reference:** For the full two-scenario, ten-category world context (Political, Economy, Daily Life, Social Structure, Education, Military, Arts, Science, Religion, Neighboring Peoples), see the John 1 study companion (Deeper), Section I. Luke and John share the same general historical period; the John 1 section provides the foundation. The entries below address the specific circumstances foregrounded in Luke 2.
 
 ---
 
@@ -307,6 +307,4 @@ After the Jewish War, Roman domination over the land was total: the Temple gone,
 ---
 
 **Editorial provenance:**
-- Drafted by: AI (Claude, Anthropic)
-- Date: 2026-06-22
-- Reviewed by: pending
+- AI-assisted draft, not yet reviewed.

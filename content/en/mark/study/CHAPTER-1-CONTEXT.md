@@ -171,7 +171,7 @@ At the immersion Mark's voice says **σὺ εἶ ὁ υἱός μου** (*sy ei 
 
 ## I. The World at the Time
 
-> **Cross-reference:** For the full two-scenario, ten-category world context (Political, Economy, Daily Life, Social Structure, Education, Military, Arts, Science, Religion, Neighboring Peoples), see the John 1 companion (Section I, `en/john/study/CHAPTER-1-CONTEXT.md`). The entries below address the specific circumstances foregrounded in Mark 1.
+> **Cross-reference:** For the full two-scenario, ten-category world context (Political, Economy, Daily Life, Social Structure, Education, Military, Arts, Science, Religion, Neighboring Peoples), see the John 1 study companion (Deeper), Section I. The entries below address the specific circumstances foregrounded in Mark 1.
 
 ---
 
@@ -235,6 +235,4 @@ If Mark was composed around 65–70 CE, its opening — a wilderness herald anno
 ---
 
 **Editorial provenance:**
-- Drafted by: AI (Claude, Anthropic)
-- Date: 2026-06-18
-- Reviewed by: pending
+- AI-assisted draft, not yet reviewed.

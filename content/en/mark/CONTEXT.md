@@ -79,6 +79,4 @@ The formation of a following runs from the lakeshore to the mountain. In chapter
 ---
 
 **Editorial provenance:**
-- Drafted by: AI (Claude, Anthropic)
-- Date: 2026-06-18
-- Reviewed by: pending
+- AI-assisted draft, not yet reviewed.

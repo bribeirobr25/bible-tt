@@ -211,7 +211,7 @@ Und der Bote sagte zu ihnen: „Fürchtet euch nicht; denn siehe, ich bringe euc
 > **Notizen**
 >
 > 🔴 **KRITISCH — BOTEN-REDE NICHT GÖTTLICH MARKIERT (REGEL 30)**
-> - Die Verkündigung des Boten (V.10-12) wird in gewöhnlichen Anführungszeichen wiedergegeben, NICHT mit den @@…@@-Markern göttlicher Rede. Nach der redaktionellen Entscheidung (luke.md L-001) und dem Matthäus/Markus-Präzedenzfall ist ein *angelos* ein Bote, nicht Gott; nur die direkte Rede Gottes oder des heiligen Windes/Geistes wird markiert. Die TT lässt Boten-Rede nicht in göttliche Rede zusammenfallen.
+> - Die Verkündigung des Boten (V.10-12) wird in gewöhnlichen Anführungszeichen wiedergegeben, NICHT mit den @@…@@-Markern göttlicher Rede. Nach dem Matthäus/Markus-Präzedenzfall ist ein *angelos* ein Bote, nicht Gott; nur die direkte Rede Gottes oder des heiligen Windes/Geistes wird markiert. Die TT lässt Boten-Rede nicht in göttliche Rede zusammenfallen.
 >
 > 🟢 **„ICH BRINGE GUTE NACHRICHT… GROSSE FREUDE" — *EUANGELIZOMAI… CHARAN MEGALĒN***
 > - **εὐαγγελίζομαι ὑμῖν χαρὰν μεγάλην** (*euangelizomai hymin charan megalēn*) = „ich bringe euch gute Nachricht von einer großen Freude." Das Verb (verwandt mit *euangelion*) und das Stichwort „Freude" knüpfen an 1,14; 1,44; 1,47 an. **παντὶ τῷ λαῷ** (*panti tō laō*, „für das ganze Volk") — *laos* ist Israel als Gottes Volk; die weitere Reichweite zu „den Nationen" taucht in Simeons Lied auf (V.32).
@@ -247,7 +247,7 @@ Und plötzlich *war* mit dem Boten eine Menge *des* himmlischen Heeres, die Gott
 > **Notizen**
 >
 > 🔴 **KRITISCH — DAS HIMMLISCHE HEER: VON *ANGELOS*-KLASSE, NICHT GÖTTLICH MARKIERT (REGEL 30)**
-> - **πλῆθος στρατιᾶς οὐρανίου** (*plēthos stratias ouraniou*) = „eine Menge *des* himmlischen Heeres/Armee." *Stratia ourania* ist die Engelarmee (vgl. 1 Kön 22,19; Ps 103,21 LXX). Ihr Lied (das Gloria, V.14) ist Rede von *angelos*-Klasse und wird daher NICHT göttlich markiert, genau wie die Worte des einzelnen Boten. → siehe luke.md L-001.
+> - **πλῆθος στρατιᾶς οὐρανίου** (*plēthos stratias ouraniou*) = „eine Menge *des* himmlischen Heeres/Armee." *Stratia ourania* ist die Engelarmee (vgl. 1 Kön 22,19; Ps 103,21 LXX). Ihr Lied (das Gloria, V.14) ist Rede von *angelos*-Klasse und wird daher NICHT göttlich markiert, genau wie die Worte des einzelnen Boten.
 
 ---
 
@@ -261,7 +261,7 @@ Und plötzlich *war* mit dem Boten eine Menge *des* himmlischen Heeres, die Gott
 > - **δόξα ἐν ὑψίστοις θεῷ καὶ ἐπὶ γῆς εἰρήνη ἐν ἀνθρώποις εὐδοκίας** (*doxa en hypsistois theō kai epi gēs eirēnē en anthrōpois eudokias*) = „Herrlichkeit in *der* Höhe Gott, und auf Erden Friede unter Menschen des Wohlgefallens/der Gunst." NA28 liest den **Genitiv εὐδοκίας** (*eudokias*) — „Friede unter Menschen *seiner (Gottes) Gunst/seines Wohlgefallens*", d. h. denen, auf denen Gottes Gunst ruht (eine semitische Konstruktion, vgl. Qumran „Söhne *(Gottes)* Wohlgefallens"). Das ältere „Wohlgefallen den Menschen" beruht auf einer Variante **Nominativ εὐδοκία** (*eudokia*). Die TT folgt dem Genitiv und gibt „Menschen *seiner* Gunst" wieder, ergänzt *seiner* kursiv und kennzeichnet den Kasus als bekannte Crux. Beachte auch, dass dies ein zweizeiliges Verspaar ist („Herrlichkeit… Friede"), nicht drei. → Zu *eudokia(s)* und der textlichen Entscheidung siehe Begleitmaterial §D3. **[textkritisch / lexikalisch — WAHRSCHEINLICH]**
 >
 > 🟢 **REGEL 30 — DAS GLORIA NICHT GÖTTLICH MARKIERT; ALS PROSA WIEDERGEGEBEN**
-> - Das Gloria ist das Lied des *himmlischen Heeres* (V.13), eines Sprechers von *angelos*-Klasse — daher NICHT mit @@…@@ markiert. Als Cantica ist es als fließende Prosa verfasst (luke.md L-002), keine Zeilenumbrüche. *Hypsistois* („die höchsten *Orte*") spiegelt *hypsistos* („der Höchste") aus Kapitel 1.
+> - Das Gloria ist das Lied des *himmlischen Heeres* (V.13), eines Sprechers von *angelos*-Klasse — daher NICHT mit @@…@@ markiert. Als Cantica ist es als fließende Prosa verfasst, keine Zeilenumbrüche. *Hypsistois* („die höchsten *Orte*") spiegelt *hypsistos* („der Höchste") aus Kapitel 1.
 
 ---
 
@@ -436,7 +436,7 @@ nahm auch er es in *seine* Arme und pries Gott und sagte:
 > **Notizen**
 >
 > 🔴 **KRITISCH — DAS NUNC DIMITTIS (V.29-32): MENSCHLICHE REDE, ALS PROSA WIEDERGEGEBEN**
-> - **νῦν ἀπολύεις τὸν δοῦλόν σου, δέσποτα, κατὰ τὸ ῥῆμά σου ἐν εἰρήνῃ** (*nyn apolyeis ton doulon sou, despota, kata to rhēma sou en eirēnē*) = „Nun entlässt du deinen Knecht, Gebieter, nach deinem Wort, in Frieden." Simeons Lied ist **menschliche** Rede (Regel 30) — NICHT göttlich markiert — und, als Cantica, als fließende Prosa verfasst (luke.md L-002). **δεσπότης** (*despotēs*, „Gebieter, souveräner Herr") ist hier die Anrede an Gott (nicht *kyrios*); die TT gibt „Gebieter" wieder. *Apolyō* („entlassen, gehen lassen") spiegelt das „Entlassung"-Wortfeld (vgl. *aphesis*, 1,77); ein Sklavenhalter entlässt seinen Diener. → Zur Struktur des Nunc Dimittis siehe das PROPHETIE-Begleitmaterial. **[theologisch — WAHRSCHEINLICH]**
+> - **νῦν ἀπολύεις τὸν δοῦλόν σου, δέσποτα, κατὰ τὸ ῥῆμά σου ἐν εἰρήνῃ** (*nyn apolyeis ton doulon sou, despota, kata to rhēma sou en eirēnē*) = „Nun entlässt du deinen Knecht, Gebieter, nach deinem Wort, in Frieden." Simeons Lied ist **menschliche** Rede (Regel 30) — NICHT göttlich markiert — und, als Cantica, als fließende Prosa verfasst. **δεσπότης** (*despotēs*, „Gebieter, souveräner Herr") ist hier die Anrede an Gott (nicht *kyrios*); die TT gibt „Gebieter" wieder. *Apolyō* („entlassen, gehen lassen") spiegelt das „Entlassung"-Wortfeld (vgl. *aphesis*, 1,77); ein Sklavenhalter entlässt seinen Diener. → Zur Struktur des Nunc Dimittis siehe das PROPHETIE-Begleitmaterial. **[theologisch — WAHRSCHEINLICH]**
 
 ---
 

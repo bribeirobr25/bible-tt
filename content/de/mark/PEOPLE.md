@@ -18,19 +18,19 @@ Diese Datei enthält biografische Informationen über Personen, die in Markus er
 
 ## Yeshua (Jesus)
 **Siehe:** matthew/PEOPLE.md
-**In Markus:** Die zentrale Gestalt von der ersten Zeile an — „die gute Nachricht von Yeshua dem Gesalbten, Sohn Gottes" (1,1). Eingetaucht von Yochanan, wobei der Wind/Geist herabsteigt und die Stimme „Du bist mein Sohn, der Geliebte" ertönt (1,9–11); in die Wüste getrieben, geprüft durch den Satan (1,12–13). Verkündet „das Königreich Gottes hat sich genähert" (1,15), beruft die ersten Jünger (1,16–20), lehrt und treibt mit Vollmacht aus (1,21–28), heilt und zieht sich zum Beten zurück (1,35). Beansprucht Vollmacht, Sünden zu vergeben (2,1–12), isst mit Sündern (2,13–17) und erklärt den Menschensohn zum „Herrn auch über den Sabbat" (2,28). Heilt am Sabbat und provoziert damit das erste Todeskomplott (3,1–6), setzt die Zwölf ein (3,13–19), antwortet auf die Beelzevul-Anklage (3,22–30) und definiert die Familie neu um den Willen Gottes (3,31–35). Die kanonischen Biografiefelder (Geburt, Eltern, Beruf, Tod durch Kreuzigung) stehen in matthew/PEOPLE.md; dieser Eintrag ergänzt die markusspezifische erzählerische Rolle.
+**In Markus:** Die zentrale Gestalt von der ersten Zeile an — „die gute Nachricht von Yeshua dem Gesalbten, Sohn Gottes" (1,1). Eingetaucht von Yochanan, wobei der Wind/Geist herabsteigt und die Stimme „Du bist mein Sohn, der Geliebte" ertönt (1,9–11); in die Wüste getrieben, geprüft durch den Satan (1,12–13). Verkündet „das Königreich Gottes hat sich genähert" (1,15), beruft die ersten Jünger (1,16–20), lehrt und treibt mit Vollmacht aus (1,21–28), heilt und zieht sich zum Beten zurück (1,35). Beansprucht Vollmacht, Sünden zu vergeben (2,1–12), isst mit Sündern (2,13–17) und erklärt den Menschensohn zum „Herrn auch über den Sabbat" (2,28). Heilt am Sabbat und provoziert damit das erste Todeskomplott (3,1–6), setzt die Zwölf ein (3,13–19), antwortet auf die Beelzevul-Anklage (3,22–30) und definiert die Familie neu um den Willen Gottes (3,31–35). Die kanonischen Biografiefelder (Geburt, Eltern, Beruf, Tod durch Kreuzigung) stehen auf der Seite Personen und Genealogie zu Matthäus; dieser Eintrag ergänzt die markusspezifische erzählerische Rolle.
 
 ---
 
 ## Yochanan the Immerser (Johannes der Täufer)
 **Siehe:** matthew/PEOPLE.md
-**In Markus:** Der Wüstenherold, der das Evangelium eröffnet — der verheißene „Bote", der den Weg bereitet (1,2–3), eintauchend im Yarden (Jordan) und verkündend „ein Eintauchen der Sinnesänderung zur Freilassung von Sünden" (1,4–8). Gekleidet wie Eliyahu (1,6), kündigt er einen Stärkeren an, der kommen wird und „in heiligem Wind/Geist" eintauchen wird. Er taucht Yeshua ein (1,9); sein „Übergebenwerden" markiert den Beginn von Yeshuas galiläischer Verkündigung (1,14). Das Fasten seiner Jünger löst eine Kontroverse aus (2,18). Die kanonischen Biografiefelder (Abstammung, Lebensweise, Tod unter Antipas) stehen in matthew/PEOPLE.md; dieser Eintrag ergänzt die markusspezifische Rolle.
+**In Markus:** Der Wüstenherold, der das Evangelium eröffnet — der verheißene „Bote", der den Weg bereitet (1,2–3), eintauchend im Yarden (Jordan) und verkündend „ein Eintauchen der Sinnesänderung zur Freilassung von Sünden" (1,4–8). Gekleidet wie Eliyahu (1,6), kündigt er einen Stärkeren an, der kommen wird und „in heiligem Wind/Geist" eintauchen wird. Er taucht Yeshua ein (1,9); sein „Übergebenwerden" markiert den Beginn von Yeshuas galiläischer Verkündigung (1,14). Das Fasten seiner Jünger löst eine Kontroverse aus (2,18). Die kanonischen Biografiefelder (Abstammung, Lebensweise, Tod unter Antipas) stehen auf der Seite Personen und Genealogie zu Matthäus; dieser Eintrag ergänzt die markusspezifische Rolle.
 
 ---
 
 ## Miryam (Maria)
 **Siehe:** matthew/PEOPLE.md
-**In Markus:** Erscheint in Markus 1–3 nur als „seine Mutter", unbenannt, in der Familienszene von 3,31–35 — sie und Yeshuas Brüder stehen „draußen" und schicken nach ihm, und Yeshua definiert die Verwandtschaft neu um „wer den Willen Gottes tut". Markus nennt sie „Miryam (Maria)" erst später (6,3). Die kanonischen Biografiefelder stehen in matthew/PEOPLE.md; dieser Eintrag ergänzt die markusspezifische Rolle.
+**In Markus:** Erscheint in Markus 1–3 nur als „seine Mutter", unbenannt, in der Familienszene von 3,31–35 — sie und Yeshuas Brüder stehen „draußen" und schicken nach ihm, und Yeshua definiert die Verwandtschaft neu um „wer den Willen Gottes tut". Markus nennt sie „Miryam (Maria)" erst später (6,3). Die kanonischen Biografiefelder stehen auf der Seite Personen und Genealogie zu Matthäus; dieser Eintrag ergänzt die markusspezifische Rolle.
 
 ---
 
@@ -225,6 +225,4 @@ Diese Datei enthält biografische Informationen über Personen, die in Markus er
 ---
 
 **Redaktionelle Herkunft:**
-- Entworfen von: KI (Claude, Anthropic)
-- Datum: 2026-06-18
-- Begutachtet von: ausstehend
+- KI-gestützter Entwurf, noch nicht geprüft.
