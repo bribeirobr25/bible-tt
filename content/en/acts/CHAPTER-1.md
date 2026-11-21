@@ -120,7 +120,7 @@ And being assembled together *with them*, he ordered them not to depart from Yer
 > **Notes**
 >
 > 🔴 **CRITICAL — "THE PROMISE OF THE FATHER" + DIVINE SPEECH (Rule 30)**
-> - **τὴν ἐπαγγελίαν τοῦ πατρὸς** (*tēn epangelian tou patros*) = "the promise of the Father" — the gift of the {a:wind/spirit} (cf. Lk 24:49; Joel 2). At "which you heard from me" the risen Yeshua's direct first-person speech begins; per Rule 30 it is marked **@@…@@** (consistent with the Gospel marking of his words). The verb **συναλιζόμενος** (*synalizomenos*) may mean "assembling with" or "eating with" — the TT keeps the assembling sense.
+> - **τὴν ἐπαγγελίαν τοῦ πατρὸς** (*tēn epangelian tou patros*) = "the promise of the Father" — the gift of the {a:wind/spirit} (cf. Lk 24:49; Joel 2). At "which you heard from me" the risen Yeshua's direct first-person speech begins; per Rule 30 it is marked as divine speech (consistent with the Gospel marking of his words). The verb **συναλιζόμενος** (*synalizomenos*) may mean "assembling with" or "eating with" — the TT keeps the assembling sense.
 
 ---
 
@@ -156,7 +156,7 @@ And he said to them, @@"It is not yours to know times or seasons which the Fathe
 > **Notes**
 >
 > 🔵 **"TIMES OR SEASONS" — *CHRONOUS Ē KAIROUS***
-> - **χρόνους ἢ καιροὺς** (*chronous ē kairous*) = "times or seasons" — duration and decisive moments. Set **ἐν τῇ ἰδίᾳ ἐξουσίᾳ** (*en tē idia exousia*, "by his own authority") of the Father. Direct divine speech of the risen Yeshua → marked @@…@@ (Rule 30). The answer redirects from calendar to commission (v.8).
+> - **χρόνους ἢ καιροὺς** (*chronous ē kairous*) = "times or seasons" — duration and decisive moments. Set **ἐν τῇ ἰδίᾳ ἐξουσίᾳ** (*en tē idia exousia*, "by his own authority") of the Father. Direct divine speech of the risen Yeshua → marked as divine speech (Rule 30). The answer redirects from calendar to commission (v.8).
 
 ---
 
@@ -167,7 +167,7 @@ And he said to them, @@"It is not yours to know times or seasons which the Fathe
 > **Notes**
 >
 > 🔴 **CRITICAL — THE PROGRAM OF THE BOOK**
-> - **ἔσεσθέ μου μάρτυρες** (*esesthe mou martyres*) = "you will be my witnesses." **μάρτυς** (*martys*, "witness") later acquires the sense "martyr," but here = legal/testimonial witness. The geography — **Yerushalayim → Yehudah → Shomron → ἕως ἐσχάτου τῆς γῆς** ("unto *the* end of the earth") — is the literary outline of Acts itself. The risen Yeshua's speech is marked @@…@@. → Companion §A2 (the witness-geography structure).
+> - **ἔσεσθέ μου μάρτυρες** (*esesthe mou martyres*) = "you will be my witnesses." **μάρτυς** (*martys*, "witness") later acquires the sense "martyr," but here = legal/testimonial witness. The geography — **Yerushalayim → Yehudah → Shomron → ἕως ἐσχάτου τῆς γῆς** ("unto *the* end of the earth") — is the literary outline of Acts itself. The risen Yeshua's speech is marked as divine speech. → Companion §A2 (the witness-geography structure).
 
 ---
 

@@ -101,6 +101,4 @@ A restoration motif, carried by the *apokathistēmi*/*apokatastasis* word-family
 ---
 
 **Editorial provenance:**
-- Drafted by: AI (Claude, Anthropic)
-- Date: 2026-06-24
-- Reviewed by: pending
+- AI-assisted draft, not yet reviewed.

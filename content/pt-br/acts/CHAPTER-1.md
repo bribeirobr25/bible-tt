@@ -122,7 +122,7 @@ E estando reunido *com eles*, ordenou-lhes que não se afastassem de Yerushalayi
 > **Notas**
 >
 > 🔴 **CRÍTICO — "A PROMESSA DO PAI" + FALA DIVINA (Regra 30)**
-> - **τὴν ἐπαγγελίαν τοῦ πατρὸς** (*tēn epangelian tou patros*) = "a promessa do Pai" — o dom do {a:vento/espírito} (cf. Lc 24:49; Joel 2). Em "que ouvistes de mim" começa a fala direta em primeira pessoa do Yeshua ressuscitado; conforme a Regra 30 ela é marcada **@@…@@** (coerente com a marcação das suas palavras no Evangelho). O verbo **συναλιζόμενος** (*synalizomenos*) pode significar "reunindo-se com" ou "comendo com" — a TT mantém o sentido de reunião.
+> - **τὴν ἐπαγγελίαν τοῦ πατρὸς** (*tēn epangelian tou patros*) = "a promessa do Pai" — o dom do {a:vento/espírito} (cf. Lc 24:49; Joel 2). Em "que ouvistes de mim" começa a fala direta em primeira pessoa do Yeshua ressuscitado; conforme a Regra 30 ela é marcada como fala divina (coerente com a marcação das suas palavras no Evangelho). O verbo **συναλιζόμενος** (*synalizomenos*) pode significar "reunindo-se com" ou "comendo com" — a TT mantém o sentido de reunião.
 
 ---
 
@@ -158,7 +158,7 @@ E ele lhes disse: @@"Não vos cabe conhecer tempos ou estações que o Pai estab
 > **Notas**
 >
 > 🔵 **"TEMPOS OU ESTAÇÕES" — *CHRONOUS Ē KAIROUS***
-> - **χρόνους ἢ καιροὺς** (*chronous ē kairous*) = "tempos ou estações" — duração e momentos decisivos. Estabelecidos **ἐν τῇ ἰδίᾳ ἐξουσίᾳ** (*en tē idia exousia*, "por sua própria autoridade") do Pai. Fala divina direta do Yeshua ressuscitado → marcada @@…@@ (Regra 30). A resposta redireciona do calendário para a comissão (v.8).
+> - **χρόνους ἢ καιροὺς** (*chronous ē kairous*) = "tempos ou estações" — duração e momentos decisivos. Estabelecidos **ἐν τῇ ἰδίᾳ ἐξουσίᾳ** (*en tē idia exousia*, "por sua própria autoridade") do Pai. Fala divina direta do Yeshua ressuscitado → marcada como fala divina (Regra 30). A resposta redireciona do calendário para a comissão (v.8).
 
 ---
 
@@ -169,7 +169,7 @@ E ele lhes disse: @@"Não vos cabe conhecer tempos ou estações que o Pai estab
 > **Notas**
 >
 > 🔴 **CRÍTICO — O PROGRAMA DO LIVRO**
-> - **ἔσεσθέ μου μάρτυρες** (*esesthe mou martyres*) = "sereis minhas testemunhas." **μάρτυς** (*martys*, "testemunha") mais tarde adquire o sentido "mártir," mas aqui = testemunha jurídica/testemunhal. A geografia — **Yerushalayim → Yehudah → Shomron → ἕως ἐσχάτου τῆς γῆς** ("até *o* fim da terra") — é o esboço literário do próprio Atos. A fala do Yeshua ressuscitado é marcada @@…@@. → Companheiro §A2 (a estrutura testemunho-geografia).
+> - **ἔσεσθέ μου μάρτυρες** (*esesthe mou martyres*) = "sereis minhas testemunhas." **μάρτυς** (*martys*, "testemunha") mais tarde adquire o sentido "mártir," mas aqui = testemunha jurídica/testemunhal. A geografia — **Yerushalayim → Yehudah → Shomron → ἕως ἐσχάτου τῆς γῆς** ("até *o* fim da terra") — é o esboço literário do próprio Atos. A fala do Yeshua ressuscitado é marcada como fala divina. → Companheiro §A2 (a estrutura testemunho-geografia).
 
 ---
 

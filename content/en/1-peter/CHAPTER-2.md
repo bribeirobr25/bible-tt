@@ -35,7 +35,7 @@
 
 Notes are tagged by type — **Critical · Lexical · Grammatical · Theological** — each shown with its colour (see the legend at the top of the Notes view).
 
-**Chapter 2 turns from new birth to new identity and conduct.** Put away malice and long for pure milk (vv.1-3); come to the living stone and be built a spiritual house, a holy priesthood — the **living-stone catena** weaving Isaiah 28:16, Psalm 118:22, and Isaiah 8:14 (vv.4-8); you are "a chosen race, a royal priesthood, a holy nation" (vv.9-10, Exodus 19:6 / Hosea). Then the conduct of exiles: honorable among the nations (vv.11-12); submission to human authorities (vv.13-17); and the first panel of the **household code** — household servants and the suffering Messiah as the pattern, framed by Isaiah 53 (vv.18-25). **Note on speech-marking (Rule 30):** the only divine first-person word here is inside the Isaiah 28:16 citation (2:6, "behold, I lay in Zion…") — marked @@…@@; the other OT quotations (Ps 118:22; Isa 8:14; Ps 34:8; Isa 53) are not God's first-person speech and are unmarked. **The household code (2:18-25) is a high-restraint passage** — the TT renders the Greek (household servants submit, the Messiah's example) and flags the interpretive history in the notes, importing nothing (Rule 3; editorial-log P-009).
+**Chapter 2 turns from new birth to new identity and conduct.** Put away malice and long for pure milk (vv.1-3); come to the living stone and be built a spiritual house, a holy priesthood — the **living-stone catena** weaving Isaiah 28:16, Psalm 118:22, and Isaiah 8:14 (vv.4-8); you are "a chosen race, a royal priesthood, a holy nation" (vv.9-10, Exodus 19:6 / Hosea). Then the conduct of exiles: honorable among the nations (vv.11-12); submission to human authorities (vv.13-17); and the first panel of the **household code** — household servants and the suffering Messiah as the pattern, framed by Isaiah 53 (vv.18-25). **Note on speech-marking (Rule 30):** the only divine first-person word here is inside the Isaiah 28:16 citation (2:6, "behold, I lay in Zion…") — not marked, since Peter is quoting it ("it is contained in scripture"); the other OT quotations (Ps 118:22; Isa 8:14; Ps 34:8; Isa 53) are not God's first-person speech and are unmarked. **The household code (2:18-25) is a high-restraint passage** — the TT renders the Greek (household servants submit, the Messiah's example) and flags the interpretive history in the notes, importing nothing (Rule 3).
 
 ---
 
@@ -45,7 +45,7 @@ Notes are tagged by type — **Critical · Lexical · Grammatical · Theological
 
 **Key themes:** Newborn longing for the "pure spiritual milk"; the **living stone** and the community as a spiritual house / holy priesthood; the threefold stone-catena (cornerstone / rejected-stone-become-head / stone of stumbling); the staggering identity transfer — Israel's titles ("chosen race, royal priesthood, holy nation, people for possession," Ex 19:6) applied to the scattered believers, with Hosea's reversal ("not my people → my people"); the exile ethic — honorable conduct among the nations as witness; submission to governing authorities "for the Lord's sake" within freedom; the **household code's** first panel (servants) grounded not in social theory but in the **suffering Messiah** as *hypogrammos* (a writing-copy to trace); the dense weave of **Isaiah 53** (no sin, no deceit, silent under reviling, bore our sins, "by his wound you were healed"); the Messiah as **shepherd and overseer of souls**.
 
-**Watch for:** The stone-catena (vv.6-8) stacks three OT texts — the TT keeps each recognizable. At 2:6 the citation is God's first-person word ("I lay in Zion…") — marked @@…@@. **2:8** — "they stumble… as they were appointed" (*etethēsan*) — election/destiny language; the TT renders it without resolving (Rule 13). **2:9-10** transfers Israel's covenant titles to the church — rendered as the Greek has it, no supersessionist gloss added (Rule 3). The **household code begins at 2:18** (*oiketai*, household servants) — a high-restraint passage; render the Greek, flag the history, import nothing (editorial-log P-009). 2:21 *hypogrammos* ("writing-copy/example") is a rare, vivid word. The Isaiah 53 weave (vv.22-25) is allusive (not formula-cited) — the densest NT use of the fourth Servant Song.
+**Watch for:** The stone-catena (vv.6-8) stacks three OT texts — the TT keeps each recognizable. At 2:6 the citation is God's first-person word ("I lay in Zion…") — quoted by Peter, so not marked (Rule 30). **2:8** — "they stumble… as they were appointed" (*etethēsan*) — election/destiny language; the TT renders it without resolving (Rule 13). **2:9-10** transfers Israel's covenant titles to the church — rendered as the Greek has it, no supersessionist gloss added (Rule 3). The **household code begins at 2:18** (*oiketai*, household servants) — a high-restraint passage; render the Greek, flag the history, import nothing. 2:21 *hypogrammos* ("writing-copy/example") is a rare, vivid word. The Isaiah 53 weave (vv.22-25) is allusive (not formula-cited) — the densest NT use of the fourth Servant Song.
 
 **Connection:** The chapter is a tapestry of the Hebrew Bible. "Taste that the Lord is good" (2:3) quotes Psalm 34:8 (a psalm Peter returns to at 3:10-12). The stone-catena draws Isaiah 28:16 (the cornerstone in Zion), Psalm 118:22 (the rejected stone), and Isaiah 8:14 (the stone of stumbling) — the same stone-texts the gospels apply to the Messiah (Mk 12:10 par.; Lk 20:17). The identity titles (2:9) reproduce Exodus 19:6 ("a kingdom of priests and a holy nation") and Isaiah 43:20-21 ("my chosen people… for myself"); "not a people → people of God" (2:10) is Hosea 1:9-10; 2:23. The servant-portrait (2:22-25) is Isaiah 53:9, 4-6, 12 — "he bore our sins," "by his wound healed," "all we like sheep went astray" — the Servant Song already sounded in Acts 3 (the *pais*).
 
@@ -128,8 +128,8 @@ Because it is contained in scripture: "Behold, I lay in Zion (Tsiyon) a stone, a
 
 > **Notes**
 >
-> 🔴 **CRITICAL — ISAIAH 28:16 (divine first-person word → marked)**
-> - **ἰδοὺ τίθημι ἐν Σιὼν λίθον… ἀκρογωνιαῖον** (*idou tithēmi en Siōn lithon akrogōniaion*) = "Behold, I lay in Zion a stone… a cornerstone" (Isa 28:16 LXX). This is **God's first-person word** ("I lay"), so it is marked **@@…@@** (Rule 30 / A-004). **ἀκρογωνιαῖος** = "cornerstone / capstone." "Will never be put to shame" (*ou mē kataischynthē*) — the LXX reading. First stone of the catena. → PROPHECY (Isa 28:16 → 1 Pet 2:6).
+> 🔴 **CRITICAL — ISAIAH 28:16 (divine first-person word, quoted → not marked)**
+> - **ἰδοὺ τίθημι ἐν Σιὼν λίθον… ἀκρογωνιαῖον** (*idou tithēmi en Siōn lithon akrogōniaion*) = "Behold, I lay in Zion a stone… a cornerstone" (Isa 28:16 LXX). This is **God's first-person word** ("I lay"), but Peter is quoting it ("it is contained in scripture"), so it is not marked (Rule 30). **ἀκρογωνιαῖος** = "cornerstone / capstone." "Will never be put to shame" (*ou mē kataischynthē*) — the LXX reading. First stone of the catena. → PROPHECY (Isa 28:16 → 1 Pet 2:6).
 
 ---
 
@@ -206,7 +206,7 @@ Submit to every human institution for the Lord's sake — whether to a king as s
 > **Notes**
 >
 > 🔴 **CRITICAL — "SUBMIT… FOR THE LORD'S SAKE" (the civic code)**
-> - **ὑποτάγητε πάσῃ ἀνθρωπίνῃ κτίσει διὰ τὸν κύριον** (*hypotagēte pasē anthrōpinē ktisei dia ton kyrion*) = "Submit to every human institution/creation for the Lord's sake." **ὑποτάσσω** ("submit/be subordinate") is the household-code verb (2:18; 3:1, 5); here applied to civic order. "**βασιλεύς** as supreme" = the emperor. Grounded "for the Lord's sake," not in the state's intrinsic authority. → editorial-log P-009 (the submission word-field).
+> - **ὑποτάγητε πάσῃ ἀνθρωπίνῃ κτίσει διὰ τὸν κύριον** (*hypotagēte pasē anthrōpinē ktisei dia ton kyrion*) = "Submit to every human institution/creation for the Lord's sake." **ὑποτάσσω** ("submit/be subordinate") is the household-code verb (2:18; 3:1, 5); here applied to civic order. "**βασιλεύς** as supreme" = the emperor. Grounded "for the Lord's sake," not in the state's intrinsic authority.
 
 ---
 
@@ -260,8 +260,8 @@ Household servants, *be* submitting in all fear to *your* masters, not only to t
 
 > **Notes**
 >
-> 🔴 **CRITICAL — THE HOUSEHOLD CODE BEGINS (*OIKETAI*) — high restraint (P-009)**
-> - **οἱ οἰκέται, ὑποτασσόμενοι… τοῖς δεσπόταις** (*hoi oiketai, hypotassomenoi… tois despotais*) = "Household servants, *be* submitting… to *your* masters." **οἰκέται** = household slaves/servants (not the general *douloi*). This opens the **household code** (2:18–3:7), the book's highest-restraint passage. The TT renders the Greek — the submission, even "to the crooked (**σκολιοῖς**)" — and **flags the interpretive history (ancient slavery; the modern reception) in Tier-2 and the companion, taking no position in the main text** (Rule 3). The address is to the servants as moral agents, and the ground (vv.21-25) is the Messiah's own unjust suffering, not an endorsement of the institution. → editorial-log P-009; Companion §F (reception history).
+> 🔴 **CRITICAL — THE HOUSEHOLD CODE BEGINS (*OIKETAI*) — high restraint**
+> - **οἱ οἰκέται, ὑποτασσόμενοι… τοῖς δεσπόταις** (*hoi oiketai, hypotassomenoi… tois despotais*) = "Household servants, *be* submitting… to *your* masters." **οἰκέται** = household slaves/servants (not the general *douloi*). This opens the **household code** (2:18–3:7), the book's highest-restraint passage. The TT renders the Greek — the submission, even "to the crooked (**σκολιοῖς**)" — and **flags the interpretive history (ancient slavery; the modern reception) in the notes and the companion, taking no position in the main text** (Rule 3). The address is to the servants as moral agents, and the ground (vv.21-25) is the Messiah's own unjust suffering, not an endorsement of the institution. → Companion §F (reception history).
 
 ---
 
@@ -365,7 +365,7 @@ For you were straying like sheep, but now you returned to the shepherd and overs
 | HB / earlier source | Theme | In 1 Peter 2 |
 |---------------------|-------|--------------|
 | Ps 34:8 | "Taste and see that the LORD is good" | "you tasted that the Lord is good" (2:3; the psalm returns at 3:10-12). |
-| Isa 28:16 | The chosen cornerstone laid in Zion | God's first-person word, marked (2:6). |
+| Isa 28:16 | The chosen cornerstone laid in Zion | God's first-person word, quoted — not marked (2:6). |
 | Ps 118:22 | "The stone the builders rejected… head of the corner" | The rejected-then-vindicated stone, of the Messiah (2:7). |
 | Isa 8:14 | "A stone of stumbling, a rock of offense" | The stumbling-stone for the disbelieving (2:8). |
 | Ex 19:6; Isa 43:20-21 | "A kingdom of priests, a holy nation… my chosen people" | The titles transferred to the believers (2:9). |

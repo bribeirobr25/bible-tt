@@ -182,7 +182,7 @@ Acts is transmitted in two substantially different forms, and the gap between th
 - The **Alexandrian** text (represented by Sinaiticus, Vaticanus, P74 and the bulk of the tradition) is the shorter form, and is the basis of NA28 and of the TT.
 - The **Western** text (represented above all by **Codex Bezae (D)**, supported by some Old Latin and Syriac witnesses) is roughly 8–10% longer overall, with many additions, clarifications, and small narrative expansions throughout Acts.
 
-The relationship between the two is debated: whether the Western text is a later expansion of the Alexandrian, an earlier draft revised down, or two parallel editions. **The TT follows NA28 (the Alexandrian form).** Within Acts 1–3 the Western variants are modest but real (e.g. small expansions in the apostle list and in the Pentecost narrative); significant variants are noted in Tier 2 rather than silently adopted (Rule 22).
+The relationship between the two is debated: whether the Western text is a later expansion of the Alexandrian, an earlier draft revised down, or two parallel editions. **The TT follows NA28 (the Alexandrian form).** Within Acts 1–3 the Western variants are modest but real (e.g. small expansions in the apostle list and in the Pentecost narrative); significant variants are recorded in the notes rather than silently adopted (Rule 22).
 
 **Source:** Metzger, *A Textual Commentary on the Greek New Testament* (2nd ed., 1994), 222–236; Barrett, *Acts* (ICC), I.2–29.
 
@@ -235,9 +235,9 @@ Per the TT's name-rendering policy, the first occurrence of a name per section a
 The TT marks the text with a small set of conventions the reader will encounter throughout Acts 1–3:
 
 - `*added*` — words added for English grammar (Rule 11), shown in italics.
-- `{t:…}` — a transliterated term carried with its gloss, e.g. {t:Hakeldama} (Field of Blood), the Aramaic place-name the text itself glosses (1:19).
-- `{a:…}` — a live double sense kept open rather than resolved, e.g. {a:wind/spirit} for πνεῦμα and {a:tongues/languages} for γλῶσσαι at Pentecost (2:4, 11), where both senses stay in play.
-- `@@…@@` — divine speech (Rule 30): the direct first-person speech of the risen Yeshua (Jesus) (1:4–5, 1:7–8) and the embedded first-person divine speech inside OT citations (e.g. Joel's "I will pour out my Spirit," 2:17–18). The **two men** at the ascension (1:10–11) are *angelos*-class messengers and are **not** marked, following the Gabriel/messenger precedent; Kefa (Peter)'s sermons are human speech and are not marked.
+- {t:…} — a transliterated term carried with its gloss, e.g. {t:Hakeldama} (Field of Blood), the Aramaic place-name the text itself glosses (1:19).
+- {a:…} — a live double sense kept open rather than resolved, e.g. {a:wind/spirit} for πνεῦμα and {a:tongues/languages} for γλῶσσαι at Pentecost (2:4, 11), where both senses stay in play.
+- @@…@@ — divine speech (Rule 30): the direct first-person speech of the risen Yeshua (Jesus) (1:4–5, 1:7–8). God's first-person words inside OT citations (e.g. Joel's "I will pour out my Spirit," 2:17–18) are **not** marked, because Kefa (Peter) is quoting them, and his sermons are human speech. The **two men** at the ascension (1:10–11) are *angelos*-class messengers and are **not** marked, following the Gabriel/messenger precedent.
 
 ### F4. Pentecost, "tongues," and the festival name
 **[TEXTUAL — VERIFIED]**
@@ -245,19 +245,19 @@ The TT marks the text with a small set of conventions the reader will encounter 
 Two terms in chapter 2 shape the reading:
 
 - **Pentecost (2:1):** πεντηκοστή is rendered "Pentecost" — the Greek name of the pilgrim festival **Shavuot (Feast of Weeks)** — with a Shavuot gloss at first occurrence.
-- **"Tongues / languages" (2:4, 11):** γλῶσσαι is rendered {a:tongues/languages}, keeping both senses live, while διάλεκτος (2:6, 8), "language/dialect," is unambiguous. The wordplay with the {a:wind/spirit} of 2:2–4 is noted in Tier 2.
+- **"Tongues / languages" (2:4, 11):** γλῶσσαι is rendered {a:tongues/languages}, keeping both senses live, while διάλεκτος (2:6, 8), "language/dialect," is unambiguous. The wordplay with the {a:wind/spirit} of 2:2–4 is explained in the notes.
 
 ### F5. Kyrios — Divine Name Policy in Acts (Option C)
 **[TEXTUAL — VERIFIED]**
 
-When Acts quotes or echoes Hebrew Bible passages containing the Tetragrammaton (the four-letter Hebrew divine name יהוה, transliterated YHWH), the Greek text uses κύριος (*kyrios*). Per the TT's Divine Name Policy (Option C, RULES-GS.md):
+When Acts quotes or echoes Hebrew Bible passages containing the Tetragrammaton (the four-letter Hebrew divine name יהוה, transliterated YHWH), the Greek text uses κύριος (*kyrios*). Per the TT's Divine Name Policy (Option C):
 
 - The main text renders *kyrios* as "the Lord" in OT-quotation and OT-echo contexts.
-- A Tier 2 note identifies the source and states that the underlying Hebrew has the Tetragrammaton.
+- A note identifies the source and states that the underlying Hebrew has the Tetragrammaton.
 - When *kyrios* refers to Yeshua (Jesus) or to a human master (not an OT YHWH reference), no YHWH note is needed.
 - Ambiguous cases are flagged per Rule 13.
 
-The headline case is **Acts 2:34** (citing Psalm 110:1): "**The Lord** (κύριος = YHWH, the speaker) said to my **lord** (the Messiah, the addressee)" — two distinct referents under one Greek word. The TT renders to preserve both, flags the ambiguity (Rule 13), and notes it in Tier 2, since the sermon's Davidic-Messiah argument turns on it. Other YHWH-referent citations in chs 1–3 include Joel 2:32 ("everyone who calls on the name of the Lord," quoted at 2:21) and Psalm 16:8 ("I saw the Lord," 2:25).
+The headline case is **Acts 2:34** (citing Psalm 110:1): "**The Lord** (κύριος = YHWH, the speaker) said to my **lord** (the Messiah, the addressee)" — two distinct referents under one Greek word. The TT renders to preserve both, flags the ambiguity (Rule 13), and explains it in the notes, since the sermon's Davidic-Messiah argument turns on it. Other YHWH-referent citations in chs 1–3 include Joel 2:32 ("everyone who calls on the name of the Lord," quoted at 2:21) and Psalm 16:8 ("I saw the Lord," 2:25).
 
 ### F6. Active rules with Acts-specific applications
 **[TEXTUAL — VERIFIED]**
@@ -270,10 +270,10 @@ The headline case is **Acts 2:34** (citing Psalm 110:1): "**The Lord** (κύρι
 | 3 | No imported theology | The Pentecost narrative and the sermons are translated as the text presents them — without importing later doctrine and without dismissing the narrative. Restraint both ways. |
 | 11 | Mark Grammatical Additions | Words added for English grammar appear in italics (`*added*`). |
 | 13 | Uncertainty Levels | Debated terms (the double-κύριος of 2:34; εἰς ἄφεσιν, 2:38; ἀποκατάστασις, 3:21) carry confidence labels (Probable / Possible / Uncertain). |
-| 14 | Annotate Wordplay | The πνεῦμα/γλῶσσαι Pentecost wordplay noted in Tier 2. |
-| 22 | Text-Critical Restraint | Western (Codex Bezae) variants noted in Tier 2 without silent adoption. See E2. |
-| 25 | Divine Name Policy — GS Option C | κύριος rendered "the Lord" in OT-quotation/echo contexts, with a Tier 2 note identifying YHWH in the underlying Hebrew. See F5. |
-| 30 | Divine-speech marking | The risen Yeshua's speech (1:4–8) and embedded first-person divine speech in OT citations (Joel, 2:17–18) marked; the ascension messengers and the apostles' speech are not. See F3. |
+| 14 | Annotate Wordplay | The πνεῦμα/γλῶσσαι Pentecost wordplay explained in the notes. |
+| 22 | Text-Critical Restraint | Western (Codex Bezae) variants recorded in the notes without silent adoption. See E2. |
+| 25 | Divine Name Policy — GS Option C | κύριος rendered "the Lord" in OT-quotation/echo contexts, with a note identifying YHWH in the underlying Hebrew. See F5. |
+| 30 | Divine-speech marking | The risen Yeshua's speech (1:4–8) marked; first-person divine speech quoted inside OT citations (Joel, 2:17–18), the ascension messengers and the apostles' speech are not. See F3. |
 
 ---
 
@@ -290,4 +290,4 @@ The headline case is **Acts 2:34** (citing Psalm 110:1): "**The Lord** (κύρι
 
 ---
 
-> **Editorial provenance:** Drafted by Claude Opus 4.8 (1M context) on 2026-06-24. Not yet reviewed. This introduction is a provisional scholarly resource governed by TT Rule 29. All claims carry dual labels; no claim should be read as the TT's theological or compositional position. The TT translates the Greek text (NA28, the Alexandrian form) and does not adopt any particular theory of authorship, composition, or text-critical relationship between the Alexandrian and Western traditions.
+> **Editorial provenance:** AI-assisted draft, not yet reviewed. This introduction is a provisional scholarly resource governed by TT Rule 29. All claims carry dual labels; no claim should be read as the TT's theological or compositional position. The TT translates the Greek text (NA28, the Alexandrian form) and does not adopt any particular theory of authorship, composition, or text-critical relationship between the Alexandrian and Western traditions.

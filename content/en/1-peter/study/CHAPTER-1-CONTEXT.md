@@ -50,9 +50,9 @@ This file contains background material organized by topic. Each entry carries **
 ### A2. The triune-shaped election, rendered without later dogma (Rule 3)
 **[TEXTUAL — VERIFIED (for the three phrases); POSSIBLE INFERENCE — UNCERTAIN (for the relations among them)]**
 
-The election of 1:2 is governed by three prepositional phrases naming Father, {a:wind/spirit}, and the blood of Yeshua: **κατὰ πρόγνωσιν θεοῦ πατρός** ("according to *the* foreknowledge of God *the* Father"), **ἐν ἁγιασμῷ πνεύματος** ("in sanctification of *the* {a:wind/spirit}"), **εἰς ὑπακοὴν καὶ ῥαντισμὸν αἵματος Ἰησοῦ Χριστοῦ** ("for obedience and sprinkling of *the* blood of Yeshua *the* Messiah"). The TT renders the Father/spirit/blood structure exactly as the Greek gives it and **does not** import the later vocabulary "the Trinity" or specify the relations among the three (Rule 3; editorial log P-008).
+The election of 1:2 is governed by three prepositional phrases naming Father, {a:wind/spirit}, and the blood of Yeshua: **κατὰ πρόγνωσιν θεοῦ πατρός** ("according to *the* foreknowledge of God *the* Father"), **ἐν ἁγιασμῷ πνεύματος** ("in sanctification of *the* {a:wind/spirit}"), **εἰς ὑπακοὴν καὶ ῥαντισμὸν αἵματος Ἰησοῦ Χριστοῦ** ("for obedience and sprinkling of *the* blood of Yeshua *the* Messiah"). The TT renders the Father/spirit/blood structure exactly as the Greek gives it and **does not** import the later vocabulary "the Trinity" or specify the relations among the three (Rule 3).
 
-**[POSSIBLE INFERENCE — UNCERTAIN]** Whether the three phrases assign distinct functions (the Father foreknowing, the spirit sanctifying, the blood ratifying) or simply pile up a single act of grace is not settled by the syntax; the prepositions (*kata* / *en* / *eis*) differ, but their force is debated. The TT keeps the threefold shape visible and leaves the systematic question to the reader. → see editorial log P-008.
+**[POSSIBLE INFERENCE — UNCERTAIN]** Whether the three phrases assign distinct functions (the Father foreknowing, the spirit sanctifying, the blood ratifying) or simply pile up a single act of grace is not settled by the syntax; the prepositions (*kata* / *en* / *eis*) differ, but their force is debated. The TT keeps the threefold shape visible and leaves the systematic question to the reader.
 
 ### A3. "Sprinkling of blood" — the covenant ritual behind the phrase
 **[TEXTUAL — VERIFIED (for the lexeme); POSSIBLE INFERENCE — PROBABLE (for the Sinai referent)]**
@@ -89,7 +89,7 @@ The letter's controlling self-designation is a cluster of "stranger" words the T
 
 Verses 10-12 make a dense claim about the HB prophets in three loaded terms. They **ἐξεζήτησαν καὶ ἐξηραύνησαν** (*exezētēsan kai exēraunēsan*, "searched out and investigated"), an emphatic compound doublet — the prophets as inquirers, not merely mouthpieces. What was at work in them is **τὸ ἐν αὐτοῖς πνεῦμα Χριστοῦ** ("the {a:wind/spirit} of *the* Messiah in them"), which was **προμαρτυρόμενον** ("testifying beforehand") to **τὰ εἰς Χριστὸν παθήματα καὶ τὰς μετὰ ταῦτα δόξας** ("the sufferings *destined* for the Messiah and the glories after these"). The TT keeps the wind/spirit slash and renders the claim as the Greek has it.
 
-**[POSSIBLE INFERENCE — UNCERTAIN]** Whether "the *pneuma* of the Messiah in them" asserts the Messiah's pre-existent activity in the prophets, or means "the spirit that pointed to the Messiah," or "the spirit later given by the Messiah," is exegetically contested; the genitive *Christou* is grammatically open. The TT does not resolve it (editorial log; chapter note at 1:11). The suffering-then-glory pattern stated here is the same read of the prophets found at Luke 24:26 and Acts 3:18. → see §B2 on Second Temple ideas of the prophetic spirit.
+**[POSSIBLE INFERENCE — UNCERTAIN]** Whether "the *pneuma* of the Messiah in them" asserts the Messiah's pre-existent activity in the prophets, or means "the spirit that pointed to the Messiah," or "the spirit later given by the Messiah," is exegetically contested; the genitive *Christou* is grammatically open. The TT does not resolve it (chapter note at 1:11). The suffering-then-glory pattern stated here is the same read of the prophets found at Luke 24:26 and Acts 3:18. → see §B2 on Second Temple ideas of the prophetic spirit.
 
 ### A10. "Gird the loins of your mind" — the Exodus posture made interior
 **[TEXTUAL — VERIFIED]**
@@ -99,7 +99,7 @@ The first main imperative of the letter (1:13) is **ἀναζωσάμενοι τ
 ### A11. The Leviticus citation as God's first-person word (Rule 30)
 **[TEXTUAL — VERIFIED]**
 
-At 1:16 the call to holiness is grounded in a citation: **Ἅγιοι ἔσεσθε, ὅτι ἐγὼ ἅγιος** ("Be holy, because I *am* holy"), from Leviticus 11:44-45; 19:2; 20:7. Because the source is **God's own first-person speech** (the LORD speaking "I am holy"), the TT marks it `@@…@@` per Rule 30 (the A-004 precedent; editorial log). This is the only divine-speech marking in the chapter: the surrounding exhortation is the apostle's own voice and is unmarked, and the other citations (Isa 40 at 1:24-25) are the prophet's human voice and are likewise unmarked. The TT thus does not flatten the distinction between Kefa exhorting and God speaking inside the quotation. The copula "*am*" is supplied in italics, since the Greek (and the Hebrew behind it) is verbless. → see §A12.
+At 1:16 the call to holiness is grounded in a citation: **Ἅγιοι ἔσεσθε, ὅτι ἐγὼ ἅγιος** ("Be holy, because I *am* holy"), from Leviticus 11:44-45; 19:2; 20:7. The source is **God's own first-person speech** (the LORD speaking "I am holy"), but the TT does not mark it: it is introduced by "it is written," so Kefa is quoting it (Rule 30). The chapter therefore carries no divine-speech marking: the surrounding exhortation is the apostle's own voice, and the other citations (Isa 40 at 1:24-25) are the prophet's human voice. The copula "*am*" is supplied in italics, since the Greek (and the Hebrew behind it) is verbless. → see §A12.
 
 ### A12. *Anastrophē* — "conduct" as a 1 Peter keyword
 **[TEXTUAL — VERIFIED]**
@@ -343,6 +343,4 @@ By the later first century, the followers of Yeshua in Asia Minor were an increa
 
 
 **Editorial provenance:**
-- Drafted by: AI (Claude, Anthropic)
-- Date: 2026-06-26
-- Reviewed by: pending
+- AI-assisted draft, not yet reviewed.

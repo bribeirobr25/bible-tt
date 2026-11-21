@@ -52,7 +52,7 @@ A costura é reforçada pelo conteúdo: ambos os volumes giram em torno da ascen
 ### A2. A geografia-do-testemunho como o próprio esboço do livro
 **[TEXTUAL — VERIFICADO]**
 
-Em 1:8 o Yeshua ressuscitado diz que os discípulos serão "minhas testemunhas tanto em **Yerushalayim** (Jerusalém) como em toda a **Yehudah** (Judeia) e **Shomron** (Samaria) e até *o* fim da terra." Isto não é apenas uma promessa; é o índice literário do próprio livro de Atos — Jerusalém (caps. 1-7), Judeia e Samaria (caps. 8-12), e o movimento para fora até "o fim da terra" (caps. 13-28). O termo **μάρτυς** (*martys*, "testemunha," vv.8, 22) é aqui jurídico/testemunhal; só mais tarde a palavra adquire o sentido de "mártir." Pela Regra 30, esta fala do Yeshua ressuscitado é marcada como fala divina (@@…@@), em consonância com o tratamento que o Evangelho dá às suas palavras.
+Em 1:8 o Yeshua ressuscitado diz que os discípulos serão "minhas testemunhas tanto em **Yerushalayim** (Jerusalém) como em toda a **Yehudah** (Judeia) e **Shomron** (Samaria) e até *o* fim da terra." Isto não é apenas uma promessa; é o índice literário do próprio livro de Atos — Jerusalém (caps. 1-7), Judeia e Samaria (caps. 8-12), e o movimento para fora até "o fim da terra" (caps. 13-28). O termo **μάρτυς** (*martys*, "testemunha," vv.8, 22) é aqui jurídico/testemunhal; só mais tarde a palavra adquire o sentido de "mártir." Pela Regra 30, esta fala do Yeshua ressuscitado é marcada como fala divina, em consonância com o tratamento que o Evangelho dá às suas palavras.
 
 ### A3. *Anelēmphthē* — o vocabulário da ascensão e o tríplice "para o céu"
 **[TEXTUAL — VERIFICADO]**
@@ -67,7 +67,7 @@ Em 1:4 o particípio **συναλιζόμενος** (*synalizomenos*) é genuina
 ### A5. Os onze, listados — os Doze menos um
 **[TEXTUAL — VERIFICADO]**
 
-A lista de 1:13 nomeia exatamente onze (os Doze sem Yehudah Iscariotes), numa ordem próxima mas não idêntica às listas dos Evangelhos (Lucas 6:14-16; Marcos 3:16-19; Mt 10:2-4). **Kefa** (Pedro) encabeça a lista, como em toda a tradição. Os nomes distinguidos por patronímico ou epíteto — **Ya'aqov filho de Halfai** (Tiago filho de Alfeu), **Shimon o Zelote** (*ho zēlōtēs*) e **Yehudah filho de Ya'aqov** (Judas filho de Tiago) — separam-nos de Shimon Kefa e de Yehudah Iscariotes. A contagem deliberada de onze é o que o restante do capítulo (vv.15-26) se propõe a reparar, restaurando os Doze. → Para a lista de apóstolos pelos Evangelhos e Atos, veja `acts/PEOPLE.md`.
+A lista de 1:13 nomeia exatamente onze (os Doze sem Yehudah Iscariotes), numa ordem próxima mas não idêntica às listas dos Evangelhos (Lucas 6:14-16; Marcos 3:16-19; Mt 10:2-4). **Kefa** (Pedro) encabeça a lista, como em toda a tradição. Os nomes distinguidos por patronímico ou epíteto — **Ya'aqov filho de Halfai** (Tiago filho de Alfeu), **Shimon o Zelote** (*ho zēlōtēs*) e **Yehudah filho de Ya'aqov** (Judas filho de Tiago) — separam-nos de Shimon Kefa e de Yehudah Iscariotes. A contagem deliberada de onze é o que o restante do capítulo (vv.15-26) se propõe a reparar, restaurando os Doze. → Para a lista de apóstolos pelos Evangelhos e Atos, veja a página Pessoas e Genealogia de Atos.
 
 ### A6. *Kyrios* ao longo do capítulo — três referentes que a TT rastreia
 **[TEXTUAL — VERIFICADO (para a mudança de referente); INFERÊNCIA POSSÍVEL — INCERTO (para o v.24)]**
@@ -208,7 +208,7 @@ A comunidade se move rapidamente para restaurar os Doze a doze (1:15-26), mas qu
 
 ## I. O Mundo na Época
 
-> **Referência cruzada:** Para o contexto mundial completo em múltiplas categorias do cenário do início do séc. I (Político, Economia, Vida Cotidiana, Estrutura Social, Educação, Militar, Artes, Ciência, Religião, Povos Vizinhos), veja o complemento de João 1 (Seção I, `pt-br/john/study/CHAPTER-1-CONTEXT.md`) e os complementos de Lucas (Lucas 1, Lucas 3). Atos 1 se passa alguns anos depois — Jerusalém c. 30 d.C., logo após a crucificação — mas dentro do mesmo mundo geral do Segundo Templo. As entradas abaixo abordam as circunstâncias específicas destacadas em Atos 1.
+> **Referência cruzada:** Para o contexto mundial completo em múltiplas categorias do cenário do início do séc. I (Político, Economia, Vida Cotidiana, Estrutura Social, Educação, Militar, Artes, Ciência, Religião, Povos Vizinhos), veja o material de estudo de João 1 (Aprofundar), Seção I, e os complementos de Lucas (Lucas 1, Lucas 3). Atos 1 se passa alguns anos depois — Jerusalém c. 30 d.C., logo após a crucificação — mas dentro do mesmo mundo geral do Segundo Templo. As entradas abaixo abordam as circunstâncias específicas destacadas em Atos 1.
 
 ---
 
@@ -297,6 +297,4 @@ Para um leitor depois de 70 d.C. — a janela de datação mais comum para a com
 ---
 
 **Proveniência editorial:**
-- Redigido por: IA (Claude, Anthropic)
-- Data: 2026-06-24
-- Revisado por: pendente
+- Rascunho assistido por IA, ainda não revisado.

@@ -50,9 +50,9 @@ Diese Datei enthält Hintergrundmaterial, geordnet nach Themen. Jeder Eintrag tr
 ### A2. Die triadisch geformte Erwählung, wiedergegeben ohne spätere Dogmatik (Regel 3)
 **[TEXTUELL — VERIFIZIERT (für die drei Wendungen); MÖGLICHE SCHLUSSFOLGERUNG — UNSICHER (für die Beziehungen unter ihnen)]**
 
-Die Erwählung von 1,2 wird von drei Präpositionalwendungen bestimmt, die den Vater, den {a:Wind/Geist} und das Blut Yeshuas benennen: **κατὰ πρόγνωσιν θεοῦ πατρός** („gemäß *dem* Vorherwissen Gottes *des* Vaters"), **ἐν ἁγιασμῷ πνεύματος** („in Heiligung *des* {a:Wind/Geist}"), **εἰς ὑπακοὴν καὶ ῥαντισμὸν αἵματος Ἰησοῦ Χριστοῦ** („zum Gehorsam und zur Besprengung *des* Blutes Yeshuas *des* Messias"). Die TT gibt die Vater/Geist/Blut-Struktur genau so wieder, wie das Griechische sie bietet, und trägt das spätere Vokabular „die Dreieinigkeit" **nicht** ein und gibt auch die Beziehungen unter den dreien nicht näher an (Regel 3; redaktionelles Protokoll P-008).
+Die Erwählung von 1,2 wird von drei Präpositionalwendungen bestimmt, die den Vater, den {a:Wind/Geist} und das Blut Yeshuas benennen: **κατὰ πρόγνωσιν θεοῦ πατρός** („gemäß *dem* Vorherwissen Gottes *des* Vaters"), **ἐν ἁγιασμῷ πνεύματος** („in Heiligung *des* {a:Wind/Geist}"), **εἰς ὑπακοὴν καὶ ῥαντισμὸν αἵματος Ἰησοῦ Χριστοῦ** („zum Gehorsam und zur Besprengung *des* Blutes Yeshuas *des* Messias"). Die TT gibt die Vater/Geist/Blut-Struktur genau so wieder, wie das Griechische sie bietet, und trägt das spätere Vokabular „die Dreieinigkeit" **nicht** ein und gibt auch die Beziehungen unter den dreien nicht näher an (Regel 3).
 
-**[MÖGLICHE SCHLUSSFOLGERUNG — UNSICHER]** Ob die drei Wendungen verschiedene Funktionen zuweisen (der Vater, der vorherweiß; der Geist, der heiligt; das Blut, das bekräftigt) oder einfach einen einzigen Gnadenakt anhäufen, ist von der Syntax nicht entschieden; die Präpositionen (*kata* / *en* / *eis*) sind verschieden, doch ihre Kraft ist umstritten. Die TT hält die dreifache Gestalt sichtbar und überlässt die systematische Frage dem Leser. → siehe redaktionelles Protokoll P-008.
+**[MÖGLICHE SCHLUSSFOLGERUNG — UNSICHER]** Ob die drei Wendungen verschiedene Funktionen zuweisen (der Vater, der vorherweiß; der Geist, der heiligt; das Blut, das bekräftigt) oder einfach einen einzigen Gnadenakt anhäufen, ist von der Syntax nicht entschieden; die Präpositionen (*kata* / *en* / *eis*) sind verschieden, doch ihre Kraft ist umstritten. Die TT hält die dreifache Gestalt sichtbar und überlässt die systematische Frage dem Leser.
 
 ### A3. „Besprengung mit Blut" — das Bundesritual hinter der Wendung
 **[TEXTUELL — VERIFIZIERT (für das Lexem); MÖGLICHE SCHLUSSFOLGERUNG — WAHRSCHEINLICH (für den Sinai-Bezug)]**
@@ -99,7 +99,7 @@ Der erste Hauptimperativ des Briefes (1,13) lautet **ἀναζωσάμενοι �
 ### A11. Das Levitikus-Zitat als Gottes Wort in der ersten Person (Regel 30)
 **[TEXTUELL — VERIFIZIERT]**
 
-In 1,16 wird der Ruf zur Heiligkeit in einem Zitat verankert: **Ἅγιοι ἔσεσθε, ὅτι ἐγὼ ἅγιος** („Seid heilig, denn ich *bin* heilig"), aus Levitikus 11,44-45; 19,2; 20,7. Weil die Quelle **Gottes eigene Rede in der ersten Person** ist (der Herr spricht „ich bin heilig"), kennzeichnet die TT es `@@…@@` gemäß Regel 30 (der Präzedenzfall A-004; redaktionelles Protokoll). Dies ist die einzige Göttliche-Rede-Markierung im Kapitel: Die umgebende Ermahnung ist die eigene Stimme des Apostels und ist unmarkiert, und die anderen Zitate (Jes 40 in 1,24-25) sind die menschliche Stimme des Propheten und ebenso unmarkiert. Die TT verflacht also nicht den Unterschied zwischen dem ermahnenden Kefa und dem im Zitat sprechenden Gott. Die Kopula „*bin*" ist kursiv ergänzt, da das Griechische (und das Hebräische dahinter) verblos ist. → siehe §A12.
+In 1,16 wird der Ruf zur Heiligkeit in einem Zitat verankert: **Ἅγιοι ἔσεσθε, ὅτι ἐγὼ ἅγιος** („Seid heilig, denn ich *bin* heilig"), aus Levitikus 11,44-45; 19,2; 20,7. Die Quelle ist **Gottes eigene Rede in der ersten Person** (der Herr spricht „ich bin heilig"), doch die TT kennzeichnet sie nicht: Sie wird mit „es steht geschrieben" eingeführt, also zitiert Kefa sie (Regel 30). Das Kapitel trägt daher keine Göttliche-Rede-Markierung: Die umgebende Ermahnung ist die eigene Stimme des Apostels, und die anderen Zitate (Jes 40 in 1,24-25) sind die menschliche Stimme des Propheten. Die Kopula „*bin*" ist kursiv ergänzt, da das Griechische (und das Hebräische dahinter) verblos ist. → siehe §A12.
 
 ### A12. *Anastrophē* — „Wandel" als Schlüsselwort des 1. Petrus
 **[TEXTUELL — VERIFIZIERT]**
@@ -343,6 +343,4 @@ Im späteren 1. Jahrhundert waren die Nachfolger Yeshuas in Kleinasien eine zune
 
 
 **Redaktionelle Herkunft:**
-- Entworfen von: KI (Claude, Anthropic)
-- Datum: 2026-06-26
-- Begutachtet von: ausstehend
+- KI-gestützter Entwurf, noch nicht geprüft.

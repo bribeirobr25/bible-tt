@@ -80,9 +80,9 @@ Die TT gibt beide wörtlich wieder und entscheidet nicht, ob „Wiederherstellun
 ### A6. Göttliche Rede, Moses berichtete Rede und die Kennzeichnungs-Entscheidung (Regel 30)
 **[TEXTUELL — VERIFIZIERT]**
 
-Das Kapitel mischt Stimmen, und die Regel-30-Kennzeichnung der TT verfolgt sie. Kefas Predigt (Vv.12-26) ist **menschliche** Rede und wird nicht gekennzeichnet. Die Mose-Zitation (Vv.22-23, Dtn 18,15-19) ist **Moses** berichtete Rede *über* den Herrn („*der* Herr Gott wird einen Propheten erwecken…"), wird also ebenfalls nicht göttlich gekennzeichnet. Aber das abrahamitische Wort (V.25, „Und in deinem Samen werden alle Geschlechter der Erde gesegnet werden", Gen 22,18) ist **des Herrn eigene direkte Bundesrede** und ist `@@…@@` gekennzeichnet (gemäß redaktioneller Entscheidung A-004).
+Das Kapitel mischt Stimmen, und die Regel-30-Kennzeichnung der TT verfolgt sie. Kefas Predigt (Vv.12-26) ist **menschliche** Rede und wird nicht gekennzeichnet. Die Mose-Zitation (Vv.22-23, Dtn 18,15-19) ist **Moses** berichtete Rede *über* den Herrn („*der* Herr Gott wird einen Propheten erwecken…"), wird also ebenfalls nicht göttlich gekennzeichnet. Das abrahamitische Wort (V.25, „Und in deinem Samen werden alle Geschlechter der Erde gesegnet werden", Gen 22,18) ist **des Herrn eigene direkte Bundesrede**, doch Kefa zitiert es, daher ist es ebenfalls nicht gekennzeichnet.
 
-Das Ergebnis ist, dass innerhalb einer einzigen menschlichen Predigt die einzigen gekennzeichneten Worte der eine Satzteil sind, wo Gott in seiner eigenen Stimme spricht. Die TT flacht die Unterscheidung zwischen einem Propheten, der Gott zitiert, und Gott, der spricht, nicht ab. → Für die Kennzeichnungs-Politik über Apg 1–3 hinweg siehe das redaktionelle Log (Regel-30-Umfang).
+Das Ergebnis ist, dass die ganze Predigt ungekennzeichnet ist, einschließlich des einen Satzteils, wo Gott in seiner eigenen Stimme spricht: Gottes Worte, die ein menschlicher Sprecher zitiert, werden nicht gekennzeichnet (Regel 30).
 
 ---
 
@@ -233,7 +233,7 @@ Das Partizip **ἀναστήσας** (*anastēsas*, 3,26), „erweckt habend", k
 
 ## I. Die Welt zur damaligen Zeit
 
-> **Querverweis:** Für den vollständigen Weltkontext in zwei Szenarien mit zehn Kategorien (Politik, Wirtschaft, Alltagsleben, Gesellschaftsstruktur, Bildung, Militär, Kunst, Wissenschaft, Religion, Nachbarvölker) siehe das Johannes-1-Begleitmaterial (Abschnitt I, `de/john/study/CHAPTER-1-CONTEXT.md`). Apostelgeschichte 3 ist im selben allgemeinen historischen Zeitraum angesetzt; der Abschnitt zu Johannes 1 bietet die Grundlage. Die folgenden Einträge befassen sich mit den in Apg 3 in den Vordergrund tretenden spezifischen Umständen — den herodianischen Tempelbezirken, der Tempelfrömmigkeit und dem Almosengeben und dem Platz der Behinderung in der Gesellschaft des Zweiten Tempels.
+> **Querverweis:** Für den vollständigen Weltkontext in zwei Szenarien mit zehn Kategorien (Politik, Wirtschaft, Alltagsleben, Gesellschaftsstruktur, Bildung, Militär, Kunst, Wissenschaft, Religion, Nachbarvölker) siehe das Begleitmaterial zu Johannes 1 (Vertiefen), Abschnitt I. Apostelgeschichte 3 ist im selben allgemeinen historischen Zeitraum angesetzt; der Abschnitt zu Johannes 1 bietet die Grundlage. Die folgenden Einträge befassen sich mit den in Apg 3 in den Vordergrund tretenden spezifischen Umständen — den herodianischen Tempelbezirken, der Tempelfrömmigkeit und dem Almosengeben und dem Platz der Behinderung in der Gesellschaft des Zweiten Tempels.
 
 ---
 
@@ -318,6 +318,4 @@ Nach 70 n. Chr., mit dem verschwundenen Tempel, verlagerte sich der Ort des Almo
 
 
 **Redaktionelle Herkunft:**
-- Entworfen von: KI (Claude, Anthropic)
-- Datum: 2026-06-24
-- Begutachtet von: ausstehend
+- KI-gestützter Entwurf, noch nicht geprüft.

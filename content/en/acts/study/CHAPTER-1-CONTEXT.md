@@ -52,7 +52,7 @@ The seam is reinforced by content: both volumes turn on the ascension (Luke 24:5
 ### A2. The witness-geography as the book's own outline
 **[TEXTUAL — VERIFIED]**
 
-In 1:8 the risen Yeshua says the disciples will be "my witnesses both in **Yerushalayim** (Jerusalem) and in all **Yehudah** (Judea) and **Shomron** (Samaria) and unto *the* end of the earth." This is not only a promise; it is the literary table of contents of Acts itself — Jerusalem (chs. 1-7), Judea and Samaria (chs. 8-12), and the movement outward to "the end of the earth" (chs. 13-28). The term **μάρτυς** (*martys*, "witness," vv.8, 22) is here legal/testimonial; only later does the word acquire the sense "martyr." Per Rule 30 this speech of the risen Yeshua is marked divine speech (@@…@@), consistent with the Gospel treatment of his words.
+In 1:8 the risen Yeshua says the disciples will be "my witnesses both in **Yerushalayim** (Jerusalem) and in all **Yehudah** (Judea) and **Shomron** (Samaria) and unto *the* end of the earth." This is not only a promise; it is the literary table of contents of Acts itself — Jerusalem (chs. 1-7), Judea and Samaria (chs. 8-12), and the movement outward to "the end of the earth" (chs. 13-28). The term **μάρτυς** (*martys*, "witness," vv.8, 22) is here legal/testimonial; only later does the word acquire the sense "martyr." Per Rule 30 this speech of the risen Yeshua is marked as divine speech, consistent with the Gospel treatment of his words.
 
 ### A3. *Anelēmphthē* — the ascension vocabulary and the threefold "into the sky"
 **[TEXTUAL — VERIFIED]**
@@ -67,7 +67,7 @@ At 1:4 the participle **συναλιζόμενος** (*synalizomenos*) is genuin
 ### A5. The eleven, listed — the Twelve minus one
 **[TEXTUAL — VERIFIED]**
 
-The roster of 1:13 names exactly eleven (the Twelve without Yehudah Iscariot), in an order close to but not identical with the Gospel lists (Luke 6:14-16; Mark 3:16-19; Matt 10:2-4). **Kefa** (Peter) heads the list, as throughout the tradition. The names distinguished by patronym or epithet — **Ya'aqov son of Halfai** (James son of Alphaeus), **Shimon the Zealot** (*ho zēlōtēs*), and **Yehudah son of Ya'aqov** (Judas son of James) — separate them from Shimon Kefa and from Yehudah Iscariot. The deliberate count of eleven is what the rest of the chapter (vv.15-26) sets out to repair, restoring the Twelve. → For the apostle roster across the Gospels and Acts, see `acts/PEOPLE.md`.
+The roster of 1:13 names exactly eleven (the Twelve without Yehudah Iscariot), in an order close to but not identical with the Gospel lists (Luke 6:14-16; Mark 3:16-19; Matt 10:2-4). **Kefa** (Peter) heads the list, as throughout the tradition. The names distinguished by patronym or epithet — **Ya'aqov son of Halfai** (James son of Alphaeus), **Shimon the Zealot** (*ho zēlōtēs*), and **Yehudah son of Ya'aqov** (Judas son of James) — separate them from Shimon Kefa and from Yehudah Iscariot. The deliberate count of eleven is what the rest of the chapter (vv.15-26) sets out to repair, restoring the Twelve. → For the apostle roster across the Gospels and Acts, see the Acts people page.
 
 ### A6. *Kyrios* across the chapter — three referents the TT tracks
 **[TEXTUAL — VERIFIED (for the referent shift); POSSIBLE INFERENCE — UNCERTAIN (for v.24)]**
@@ -208,7 +208,7 @@ The community moves quickly to restore the Twelve to twelve (1:15-26), yet when 
 
 ## I. The World at the Time
 
-> **Cross-reference:** For the full multi-category world context of the early-1st-century setting (Political, Economy, Daily Life, Social Structure, Education, Military, Arts, Science, Religion, Neighboring Peoples), see the John 1 companion (Section I, `en/john/study/CHAPTER-1-CONTEXT.md`) and the Luke companions (Luke 1, Luke 3). Acts 1 is set a few years later — Jerusalem c. 30 CE, just after the crucifixion — but within the same general Second Temple world. The entries below address the specific circumstances foregrounded in Acts 1.
+> **Cross-reference:** For the full multi-category world context of the early-1st-century setting (Political, Economy, Daily Life, Social Structure, Education, Military, Arts, Science, Religion, Neighboring Peoples), see the John 1 study companion (Deeper), Section I, and the Luke companions (Luke 1, Luke 3). Acts 1 is set a few years later — Jerusalem c. 30 CE, just after the crucifixion — but within the same general Second Temple world. The entries below address the specific circumstances foregrounded in Acts 1.
 
 ---
 
@@ -297,6 +297,4 @@ By the time of writing, the small upper-room community of 1:13-15 had, in the na
 ---
 
 **Editorial provenance:**
-- Drafted by: AI (Claude, Anthropic)
-- Date: 2026-06-24
-- Reviewed by: pending
+- AI-assisted draft, not yet reviewed.

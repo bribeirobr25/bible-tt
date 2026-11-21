@@ -50,9 +50,9 @@ Este archivo contiene material de contexto organizado por tema. Cada entrada lle
 ### A2. La elección de forma trinitaria, traducida sin dogma posterior (Regla 3)
 **[TEXTUAL — VERIFICADO (para las tres frases); INFERENCIA POSIBLE — INCIERTO (para las relaciones entre ellas)]**
 
-La elección de 1:2 está regida por tres frases preposicionales que nombran al Padre, al {a:viento/espíritu} y a la sangre de Yeshua: **κατὰ πρόγνωσιν θεοῦ πατρός** ("según *la* presciencia de Dios *el* Padre"), **ἐν ἁγιασμῷ πνεύματος** ("en santificación del {a:viento/espíritu}"), **εἰς ὑπακοὴν καὶ ῥαντισμὸν αἵματος Ἰησοῦ Χριστοῦ** ("para obediencia y rociamiento de *la* sangre de Yeshua *el* Mesías"). La TT traduce la estructura Padre/espíritu/sangre exactamente como la da el griego y **no** importa el vocabulario posterior "la Trinidad" ni especifica las relaciones entre los tres (Regla 3; registro editorial P-008).
+La elección de 1:2 está regida por tres frases preposicionales que nombran al Padre, al {a:viento/espíritu} y a la sangre de Yeshua: **κατὰ πρόγνωσιν θεοῦ πατρός** ("según *la* presciencia de Dios *el* Padre"), **ἐν ἁγιασμῷ πνεύματος** ("en santificación del {a:viento/espíritu}"), **εἰς ὑπακοὴν καὶ ῥαντισμὸν αἵματος Ἰησοῦ Χριστοῦ** ("para obediencia y rociamiento de *la* sangre de Yeshua *el* Mesías"). La TT traduce la estructura Padre/espíritu/sangre exactamente como la da el griego y **no** importa el vocabulario posterior "la Trinidad" ni especifica las relaciones entre los tres (Regla 3).
 
-**[INFERENCIA POSIBLE — INCIERTO]** Si las tres frases asignan funciones distintas (el Padre que conoce de antemano, el espíritu que santifica, la sangre que ratifica) o simplemente apilan un solo acto de gracia no lo decide la sintaxis; las preposiciones (*kata* / *en* / *eis*) difieren, pero su fuerza es debatida. La TT mantiene visible la forma triple y deja la cuestión sistemática al lector. → vea el registro editorial P-008.
+**[INFERENCIA POSIBLE — INCIERTO]** Si las tres frases asignan funciones distintas (el Padre que conoce de antemano, el espíritu que santifica, la sangre que ratifica) o simplemente apilan un solo acto de gracia no lo decide la sintaxis; las preposiciones (*kata* / *en* / *eis*) difieren, pero su fuerza es debatida. La TT mantiene visible la forma triple y deja la cuestión sistemática al lector.
 
 ### A3. "Rociamiento de sangre" — el rito del pacto detrás de la frase
 **[TEXTUAL — VERIFICADO (para el lexema); INFERENCIA POSIBLE — PROBABLE (para el referente del Sinaí)]**
@@ -89,7 +89,7 @@ La autodesignación que rige la carta es un cúmulo de palabras de "forastero" q
 
 Los versículos 10-12 hacen una afirmación densa sobre los profetas de la BH en tres términos cargados. **ἐξεζήτησαν καὶ ἐξηραύνησαν** (*exezētēsan kai exēraunēsan*, "escudriñaron e investigaron"), un doblete compuesto enfático — los profetas como indagadores, no meros portavoces. Lo que obraba en ellos es **τὸ ἐν αὐτοῖς πνεῦμα Χριστοῦ** ("el {a:viento/espíritu} *del* Mesías en ellos"), que estaba **προμαρτυρόμενον** ("dando testimonio de antemano") de **τὰ εἰς Χριστὸν παθήματα καὶ τὰς μετὰ ταῦτα δόξας** ("los sufrimientos *destinados* al Mesías y las glorias después de estos"). La TT mantiene la barra viento/espíritu y traduce la afirmación tal como la tiene el griego.
 
-**[INFERENCIA POSIBLE — INCIERTO]** Si "el *pneuma* del Mesías en ellos" afirma la actividad preexistente del Mesías en los profetas, o significa "el espíritu que señalaba al Mesías", o "el espíritu dado luego por el Mesías", es exegéticamente disputado; el genitivo *Christou* es gramaticalmente abierto. La TT no lo resuelve (registro editorial; nota del capítulo en 1:11). El patrón sufrimiento-luego-gloria declarado aquí es la misma lectura de los profetas que se halla en Lucas 24:26 y Hechos 3:18. → vea §B2 sobre las ideas del Segundo Templo acerca del espíritu profético.
+**[INFERENCIA POSIBLE — INCIERTO]** Si "el *pneuma* del Mesías en ellos" afirma la actividad preexistente del Mesías en los profetas, o significa "el espíritu que señalaba al Mesías", o "el espíritu dado luego por el Mesías", es exegéticamente disputado; el genitivo *Christou* es gramaticalmente abierto. La TT no lo resuelve (nota del capítulo en 1:11). El patrón sufrimiento-luego-gloria declarado aquí es la misma lectura de los profetas que se halla en Lucas 24:26 y Hechos 3:18. → vea §B2 sobre las ideas del Segundo Templo acerca del espíritu profético.
 
 ### A10. "Ceñir los lomos de su mente" — la postura del Éxodo hecha interior
 **[TEXTUAL — VERIFICADO]**
@@ -99,7 +99,7 @@ El primer imperativo principal de la carta (1:13) es **ἀναζωσάμενοι
 ### A11. La cita de Levítico como palabra de Dios en primera persona (Regla 30)
 **[TEXTUAL — VERIFICADO]**
 
-En 1:16 el llamado a la santidad se fundamenta en una cita: **Ἅγιοι ἔσεσθε, ὅτι ἐγὼ ἅγιος** ("Sean santos, porque yo *soy* santo"), de Levítico 11:44-45; 19:2; 20:7. Como la fuente es **el habla en primera persona del propio Dios** (el SEÑOR diciendo "yo soy santo"), la TT lo marca `@@…@@` según la Regla 30 (el precedente A-004; registro editorial). Esta es la única marcación de habla divina en el capítulo: la exhortación circundante es la propia voz del apóstol y queda sin marcar, y las otras citas (Isa 40 en 1:24-25) son la voz humana del profeta y quedan igualmente sin marcar. La TT no aplana así la distinción entre Kefa exhortando y Dios hablando dentro de la cita. La cópula "*soy*" se suple en cursiva, ya que el griego (y el hebreo detrás de él) carece de verbo. → vea §A12.
+En 1:16 el llamado a la santidad se fundamenta en una cita: **Ἅγιοι ἔσεσθε, ὅτι ἐγὼ ἅγιος** ("Sean santos, porque yo *soy* santo"), de Levítico 11:44-45; 19:2; 20:7. La fuente es **el habla en primera persona del propio Dios** (el SEÑOR diciendo "yo soy santo"), pero la TT no la marca: la introduce "está escrito", así que Kefa la está citando (Regla 30). Por tanto el capítulo no lleva ninguna marcación de habla divina: la exhortación circundante es la propia voz del apóstol, y las otras citas (Isa 40 en 1:24-25) son la voz humana del profeta. La cópula "*soy*" se suple en cursiva, ya que el griego (y el hebreo detrás de él) carece de verbo. → vea §A12.
 
 ### A12. *Anastrophē* — "conducta" como palabra clave de 1 Pedro
 **[TEXTUAL — VERIFICADO]**
@@ -343,6 +343,4 @@ Para fines del siglo I, los seguidores de Yeshua en Asia Menor eran un grupo cad
 
 
 **Procedencia editorial:**
-- Redactado por: IA (Claude, Anthropic)
-- Fecha: 26-06-2026
-- Revisado por: pendiente
+- Borrador asistido por IA, aún no revisado.

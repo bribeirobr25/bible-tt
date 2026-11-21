@@ -121,7 +121,7 @@ Und *mit ihnen* versammelt, befahl er ihnen, nicht von Yerushalayim (Jerusalem) 
 > **Notizen**
 >
 > 🔴 **KRITISCH — „DIE VERHEISSUNG DES VATERS" + GÖTTLICHE REDE (Regel 30)**
-> - **τὴν ἐπαγγελίαν τοῦ πατρὸς** (*tēn epangelian tou patros*) = „die Verheißung des Vaters" — die Gabe des {a:Wind/Geist} (vgl. Lk 24,49; Joel 2). Bei „die ihr von mir gehört habt" beginnt die direkte Ich-Rede des auferstandenen Yeshua; nach Regel 30 wird sie **@@…@@** markiert (in Übereinstimmung mit der evangelischen Markierung seiner Worte). Das Verb **συναλιζόμενος** (*synalizomenos*) kann „sich versammelnd mit" oder „essend mit" bedeuten — die TT behält den Sinn des Versammelns.
+> - **τὴν ἐπαγγελίαν τοῦ πατρὸς** (*tēn epangelian tou patros*) = „die Verheißung des Vaters" — die Gabe des {a:Wind/Geist} (vgl. Lk 24,49; Joel 2). Bei „die ihr von mir gehört habt" beginnt die direkte Ich-Rede des auferstandenen Yeshua; nach Regel 30 wird sie als göttliche Rede markiert (in Übereinstimmung mit der evangelischen Markierung seiner Worte). Das Verb **συναλιζόμενος** (*synalizomenos*) kann „sich versammelnd mit" oder „essend mit" bedeuten — die TT behält den Sinn des Versammelns.
 
 ---
 
@@ -157,7 +157,7 @@ Und er sprach zu ihnen: @@"*Es* kommt euch nicht zu, Zeiten oder Fristen zu erke
 > **Notizen**
 >
 > 🔵 **„ZEITEN ODER FRISTEN" — *CHRONOUS Ē KAIROUS***
-> - **χρόνους ἢ καιροὺς** (*chronous ē kairous*) = „Zeiten oder Fristen" — Dauer und entscheidende Augenblicke. Festgesetzt **ἐν τῇ ἰδίᾳ ἐξουσίᾳ** (*en tē idia exousia*, „durch seine eigene Vollmacht") des Vaters. Direkte göttliche Rede des auferstandenen Yeshua → markiert @@…@@ (Regel 30). Die Antwort lenkt vom Kalender zum Auftrag um (V.8).
+> - **χρόνους ἢ καιροὺς** (*chronous ē kairous*) = „Zeiten oder Fristen" — Dauer und entscheidende Augenblicke. Festgesetzt **ἐν τῇ ἰδίᾳ ἐξουσίᾳ** (*en tē idia exousia*, „durch seine eigene Vollmacht") des Vaters. Direkte göttliche Rede des auferstandenen Yeshua → als göttliche Rede markiert (Regel 30). Die Antwort lenkt vom Kalender zum Auftrag um (V.8).
 
 ---
 
@@ -168,7 +168,7 @@ Und er sprach zu ihnen: @@"*Es* kommt euch nicht zu, Zeiten oder Fristen zu erke
 > **Notizen**
 >
 > 🔴 **KRITISCH — DAS PROGRAMM DES BUCHES**
-> - **ἔσεσθέ μου μάρτυρες** (*esesthe mou martyres*) = „ihr werdet meine Zeugen sein." **μάρτυς** (*martys*, „Zeuge") erlangt später den Sinn „Märtyrer", aber hier = rechtlicher/bezeugender Zeuge. Die Geographie — **Yerushalayim → Yehudah → Shomron → ἕως ἐσχάτου τῆς γῆς** („bis *an das* Ende der Erde") — ist der literarische Aufriss der Apostelgeschichte selbst. Die Rede des auferstandenen Yeshua wird @@…@@ markiert. → Begleitmaterial §A2 (die Struktur der Zeugnis-Geographie).
+> - **ἔσεσθέ μου μάρτυρες** (*esesthe mou martyres*) = „ihr werdet meine Zeugen sein." **μάρτυς** (*martys*, „Zeuge") erlangt später den Sinn „Märtyrer", aber hier = rechtlicher/bezeugender Zeuge. Die Geographie — **Yerushalayim → Yehudah → Shomron → ἕως ἐσχάτου τῆς γῆς** („bis *an das* Ende der Erde") — ist der literarische Aufriss der Apostelgeschichte selbst. Die Rede des auferstandenen Yeshua wird als göttliche Rede markiert. → Begleitmaterial §A2 (die Struktur der Zeugnis-Geographie).
 
 ---
 

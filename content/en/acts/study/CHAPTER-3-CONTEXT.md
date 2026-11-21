@@ -80,9 +80,9 @@ The TT renders both literally and does not decide whether "restoration of all th
 ### A6. Divine speech, Moses's reported speech, and the marking decision (Rule 30)
 **[TEXTUAL — VERIFIED]**
 
-The chapter mixes voices, and the TT's Rule-30 marking tracks them. Kefa's sermon (vv.12-26) is **human** speech and is not marked. The Moses citation (vv.22-23, Deut 18:15-19) is **Moses's** reported speech *about* the LORD ("*the* Lord God will raise up a prophet…"), so it is likewise not divine-marked. But the Abrahamic word (v.25, "And in your seed all the families of the earth will be blessed," Gen 22:18) is **the LORD's own direct covenant speech**, and is marked `@@…@@` (per editorial decision A-004).
+The chapter mixes voices, and the TT's Rule-30 marking tracks them. Kefa's sermon (vv.12-26) is **human** speech and is not marked. The Moses citation (vv.22-23, Deut 18:15-19) is **Moses's** reported speech *about* the LORD ("*the* Lord God will raise up a prophet…"), so it is likewise not divine-marked. The Abrahamic word (v.25, "And in your seed all the families of the earth will be blessed," Gen 22:18) is **the LORD's own direct covenant speech**, but Kefa is quoting it, so it too is not marked.
 
-The result is that within a single human sermon the only marked words are the one clause where God speaks in his own voice. The TT does not flatten the distinction between a prophet quoting God and God speaking. → For the marking policy across Acts 1–3, see the editorial log (Rule 30 scope).
+The result is that the whole sermon is unmarked, including the one clause where God speaks in his own voice: God's words quoted by a human speaker are not marked (Rule 30).
 
 ---
 
@@ -233,7 +233,7 @@ The participle **ἀναστήσας** (*anastēsas*, 3:26), "having raised up,"
 
 ## I. The World at the Time
 
-> **Cross-reference:** For the full two-scenario, ten-category world context (Political, Economy, Daily Life, Social Structure, Education, Military, Arts, Science, Religion, Neighboring Peoples), see the John 1 companion (Section I, `en/john/study/CHAPTER-1-CONTEXT.md`). Acts 3 is set in the same general historical period; the John 1 section provides the foundation. The entries below address the specific circumstances foregrounded in Acts 3 — the Herodian temple precincts, temple piety and almsgiving, and the place of disability in Second-Temple society.
+> **Cross-reference:** For the full two-scenario, ten-category world context (Political, Economy, Daily Life, Social Structure, Education, Military, Arts, Science, Religion, Neighboring Peoples), see the John 1 study companion (Deeper), Section I. Acts 3 is set in the same general historical period; the John 1 section provides the foundation. The entries below address the specific circumstances foregrounded in Acts 3 — the Herodian temple precincts, temple piety and almsgiving, and the place of disability in Second-Temple society.
 
 ---
 
@@ -318,6 +318,4 @@ After 70 CE, with the temple gone, the locus of almsgiving and charity shifted d
 
 
 **Editorial provenance:**
-- Drafted by: AI (Claude, Anthropic)
-- Date: 2026-06-24
-- Reviewed by: pending
+- AI-assisted draft, not yet reviewed.

@@ -181,14 +181,14 @@ La carta es una *circular* — dirigida a lectores a lo largo de cinco provincia
 ### D4. El código doméstico (Haustafel)
 **[HISTÓRICO / ARQUEOLÓGICO — PROBABLE]**
 
-1 Pedro 2:18–3:7 pertenece a una forma antigua reconocida, el **código doméstico** (alemán *Haustafel*) — un conjunto estructurado de instrucciones a los miembros de un hogar: aquí, los siervos domésticos hacia los amos (2:18–25), las esposas hacia los esposos y los esposos hacia las esposas (3:1–7). Tales códigos tienen paralelos en la literatura moral grecorromana (p. ej. la discusión de Aristóteles sobre la administración del hogar) y en otras cartas cristianas primitivas (Colosenses, Efesios). La forma aborda el ordenamiento del hogar antiguo dentro de su mundo social. Este es el **pasaje de mayor cautela** de la carta: la TT traduce el griego fielmente, ofrece la historia interpretativa en el Nivel 2, y no toma partido en el texto principal (Regla 3; vea el registro editorial, P-009). La TT registra la forma como contexto y no permite que dé forma a ninguna traducción.
+1 Pedro 2:18–3:7 pertenece a una forma antigua reconocida, el **código doméstico** (alemán *Haustafel*) — un conjunto estructurado de instrucciones a los miembros de un hogar: aquí, los siervos domésticos hacia los amos (2:18–25), las esposas hacia los esposos y los esposos hacia las esposas (3:1–7). Tales códigos tienen paralelos en la literatura moral grecorromana (p. ej. la discusión de Aristóteles sobre la administración del hogar) y en otras cartas cristianas primitivas (Colosenses, Efesios). La forma aborda el ordenamiento del hogar antiguo dentro de su mundo social. Este es el **pasaje de mayor cautela** de la carta: la TT traduce el griego fielmente, ofrece la historia interpretativa en las notas, y no toma partido en el texto principal (Regla 3). La TT registra la forma como contexto y no permite que dé forma a ninguna traducción.
 
 **Fuente:** Balch, *Let Wives Be Submissive: The Domestic Code in 1 Peter* (1981); Elliott, *1 Peter* (AB), 503–509, 549–599; Achtemeier, *1 Peter* (Hermeneia), 52–55, 187–217.
 
 ### D5. "Babilonia" (5:13) como cifrado de Roma
 **[INFERENCIA POSIBLE — PROBABLE]**
 
-El saludo de "la que está en Babilonia" (5:13) es ampliamente leído como una referencia codificada a **Roma**. Para fines del siglo I, "Babilonia" se había convertido en un cifrado judío y cristiano estándar para Roma — la gran potencia imperial que, como la antigua Babilonia, había destruido Jerusalén y su Templo (un uso prominente en Apocalipsis, 4 Esdras y 2 Baruc). En esta lectura la carta se escribe desde Roma, y la figura de Babilonia refuerza la identidad de exilio de los lectores: ellos, como los remitentes de la carta, viven en "Babilonia." Una minoría toma "Babilonia" literalmente (la ciudad en Mesopotamia) o como el fuerte romano en Egipto, pero la lectura del cifrado es dominante. La TT traduce el topónimo tal como el texto lo da — Bavel (Babilonia) — y anota el referente probable en el Nivel 2.
+El saludo de "la que está en Babilonia" (5:13) es ampliamente leído como una referencia codificada a **Roma**. Para fines del siglo I, "Babilonia" se había convertido en un cifrado judío y cristiano estándar para Roma — la gran potencia imperial que, como la antigua Babilonia, había destruido Jerusalén y su Templo (un uso prominente en Apocalipsis, 4 Esdras y 2 Baruc). En esta lectura la carta se escribe desde Roma, y la figura de Babilonia refuerza la identidad de exilio de los lectores: ellos, como los remitentes de la carta, viven en "Babilonia." Una minoría toma "Babilonia" literalmente (la ciudad en Mesopotamia) o como el fuerte romano en Egipto, pero la lectura del cifrado es dominante. La TT traduce el topónimo tal como el texto lo da — Bavel (Babilonia) — y da el referente probable en las notas.
 
 **Fuente:** Elliott, *1 Peter* (AB), 131–134, 882–887; Achtemeier, *1 Peter* (Hermeneia), 353–354.
 
@@ -216,7 +216,7 @@ El texto griego de 1 Pedro fue transmitido a través de la tradición manuscrita
 ### E2. Un texto comparativamente estable
 **[TEXTUAL — VERIFICADO]**
 
-A diferencia de Hechos — cuya divergencia alejandrina/occidental es la mayor del Nuevo Testamento — **el texto de 1 Pedro es comparativamente estable.** No hay un problema de edición-paralela a gran escala; la tradición manuscrita es relativamente unificada, y las variantes son mayormente pequeñas (orden de palabras, conjunciones, la presencia o ausencia de frases breves). Algunas llevan peso exegético — por ejemplo, la redacción en 3:18 (si el Mesías "sufrió" o "murió" por los pecados) y la lectura en 4:14 — pero estas son locales, no una divergencia generalizada. **La TT sigue NA28.** Las variantes significativas se anotan en el Nivel 2 en lugar de adoptarse silenciosamente (Regla 22).
+A diferencia de Hechos — cuya divergencia alejandrina/occidental es la mayor del Nuevo Testamento — **el texto de 1 Pedro es comparativamente estable.** No hay un problema de edición-paralela a gran escala; la tradición manuscrita es relativamente unificada, y las variantes son mayormente pequeñas (orden de palabras, conjunciones, la presencia o ausencia de frases breves). Algunas llevan peso exegético — por ejemplo, la redacción en 3:18 (si el Mesías "sufrió" o "murió" por los pecados) y la lectura en 4:14 — pero estas son locales, no una divergencia generalizada. **La TT sigue NA28.** Las variantes significativas se registran en las notas en lugar de adoptarse silenciosamente (Regla 22).
 
 **Fuente:** Metzger, *A Textual Commentary on the Greek New Testament* (2.ª ed., 1994), 615–626; Achtemeier, *1 Peter* (Hermeneia), 1–7.
 
@@ -253,9 +253,9 @@ Según la política de transliteración de nombres de la TT, la primera aparici�
 La TT marca el texto con un pequeño conjunto de convenciones que el lector encontrará a lo largo de 1 Pedro 1–5:
 
 - `*añadido*` — palabras agregadas para la gramática española (Regla 11), mostradas en cursiva. (Frecuente aquí: la cópula en "yo *soy* santo," 1:16; "Bendito *sea*," 1:3.)
-- `{t:…}` — un término transliterado llevado con su glosa, donde el texto mismo la suministra.
-- `{a:…}` — un doble sentido vivo mantenido abierto en lugar de resuelto, p. ej. {a:viento/espíritu} para πνεῦμα, que permanece abierto en todo momento (1:2, 11, 12; 3:18, 19; 4:6, 14).
-- `@@…@@` — discurso divino (Regla 30). 1 Pedro es la exhortación del apóstol **en su propia voz** — no hay habla divina narrada. Solo la palabra de Dios en primera persona *dentro* de una cita del AT se marca: **1:16** ("@@sean santos, porque yo *soy* santo@@," Lev 11:44/19:2) y **2:6** ("he aquí, pongo en Sion una piedra…," Isa 28:16). Las citas que hablan *acerca* del Señor en tercera persona — la voz humana del salmista y del profeta (1:24–25, Isa 40; 2:3, Sal 34; 3:10–12, Sal 34) — **no** se marcan.
+- {t:…} — un término transliterado llevado con su glosa, donde el texto mismo la suministra.
+- {a:…} — un doble sentido vivo mantenido abierto en lugar de resuelto, p. ej. {a:viento/espíritu} para πνεῦμα, que permanece abierto en todo momento (1:2, 11, 12; 3:18, 19; 4:6, 14).
+- @@…@@ — discurso divino (Regla 30). 1 Pedro es la exhortación del apóstol **en su propia voz** — no hay habla divina narrada, así que nada en 1 Pedro se marca. La palabra de Dios en primera persona *dentro* de una cita del AT **tampoco** se marca, porque el apóstol la está citando ("está escrito"): **1:16** ("sean santos, porque yo *soy* santo," Lev 11:44/19:2) y **2:6** ("he aquí, pongo en Sion una piedra…," Isa 28:16). Las citas que hablan *acerca* del Señor en tercera persona — la voz humana del salmista y del profeta (1:24–25, Isa 40; 2:3, Sal 34; 3:10–12, Sal 34) — **tampoco** se marcan.
 
 ### F4. La palabra clave del exilio — *paroikoi / parepidēmoi / diaspora*
 **[TEXTUAL — VERIFICADO]**
@@ -266,15 +266,15 @@ El lenguaje de identidad de la carta es su imagen rectora, y la TT lo mantiene l
 - **πάροικοι / παροικία** (*paroikoi / paroikia*) = "extranjeros-residentes" / "tiempo de peregrinación" (1:17; 2:11)
 - **διασπορά** (*diaspora*) = "dispersión" (1:1)
 
-Estos se traducen con su fuerza literal de exilio/extranjería, con el doble sentido (estatus literal / autodescripción teológica; vea §B5) anotado en el Nivel 2. Todo el autoentendimiento de los lectores — en casa y no en casa — gira sobre estas palabras.
+Estos se traducen con su fuerza literal de exilio/extranjería, con el doble sentido (estatus literal / autodescripción teológica; vea §B5) registrado en las notas. Todo el autoentendimiento de los lectores — en casa y no en casa — gira sobre estas palabras.
 
 ### F5. Kyrios — Política del Nombre Divino en 1 Pedro (Opción C)
 **[TEXTUAL — VERIFICADO]**
 
-Cuando 1 Pedro cita o evoca pasajes de la Biblia Hebrea que contienen el Tetragrama (el nombre divino hebreo de cuatro letras יהוה, transliterado YHWH), el texto griego usa κύριος (*kyrios*). Según la Política del Nombre Divino de la TT (Opción C, RULES-GS.md):
+Cuando 1 Pedro cita o evoca pasajes de la Biblia Hebrea que contienen el Tetragrama (el nombre divino hebreo de cuatro letras יהוה, transliterado YHWH), el texto griego usa κύριος (*kyrios*). Según la Política del Nombre Divino de la TT (Opción C):
 
 - El texto principal traduce *kyrios* como "el Señor" en contextos de cita y de eco del AT.
-- Una nota de Nivel 2 identifica la fuente y declara que el hebreo subyacente tiene el Tetragrama.
+- Una nota identifica la fuente y declara que el hebreo subyacente tiene el Tetragrama.
 - Cuando *kyrios* se refiere a Yeshua (Jesús) o a un amo humano (no una referencia a YHWH del AT), no se necesita nota de YHWH.
 - Los casos ambiguos se señalan según la Regla 13.
 
@@ -284,7 +284,7 @@ Las citas del AT llevan **YHWH** detrás del griego *kyrios*:
 - **2:3** (Sal 34:8) — "*el Señor* (YHWH) es bueno / bondadoso."
 - **3:12** (Sal 34:15–16) — "los ojos *del Señor* (YHWH)… el rostro *del Señor*."
 
-Un caso distinto y deliberado es **3:15**: "santifiquen *al Mesías* como Señor," que reaplica Isaías 8:13 ("el Señor de los ejércitos") al Mesías — un *desplazamiento de referente* de κύριος (de YHWH en Isaías al Mesías aquí). La TT preserva lo que hace el griego, señala el movimiento (Regla 13), y lo explica en el Nivel 2.
+Un caso distinto y deliberado es **3:15**: "santifiquen *al Mesías* como Señor," que reaplica Isaías 8:13 ("el Señor de los ejércitos") al Mesías — un *desplazamiento de referente* de κύριος (de YHWH en Isaías al Mesías aquí). La TT preserva lo que hace el griego, señala el movimiento (Regla 13), y lo explica en las notas.
 
 ### F6. Reglas activas con aplicaciones específicas a 1 Pedro
 **[TEXTUAL — VERIFICADO]**
@@ -294,13 +294,13 @@ Un caso distinto y deliberado es **3:15**: "santifiquen *al Mesías* como Señor
 | *(sin número)* | Directiva Principal | Conservar las largas oraciones periódicas (1:3–12) en su estructura suspendida; no resolver los cruces teológicos (los "espíritus en prisión," 3:18–20; "el evangelio predicado a los muertos," 4:6). Traducir tal como el griego lo tiene. |
 | 1 | Consistencia Léxica Controlada | Los términos fijados (*kyrios*, *Christos*, *pneuma*, *baptisma*, *anastrophē*, *elpis*, *psychē*, *hypotassō*) se traducen consistentemente en los cinco capítulos según el glosario GS. |
 | 2 | Preservación de Ambigüedad | {a:viento/espíritu} (πνεῦμα) mantenido abierto en todo momento (1:2, 11, 12; 3:18–19; 4:6, 14). |
-| 3 | No importar teología | El saludo de forma trinitaria (1:2) se traduce sin la palabra dogmática posterior "Trinidad"; el código doméstico (2:18–3:7) se traduce fielmente con la historia interpretativa en el Nivel 2 y sin tomar partido — restricción en ambos sentidos. |
+| 3 | No importar teología | El saludo de forma trinitaria (1:2) se traduce sin la palabra dogmática posterior "Trinidad"; el código doméstico (2:18–3:7) se traduce fielmente con la historia interpretativa en las notas y sin tomar partido — restricción en ambos sentidos. |
 | 11 | Marcar adiciones gramaticales | Las palabras agregadas para la gramática española aparecen en cursiva (`*añadido*`); frecuente con el griego sin verbo (1:3, 16). |
 | 13 | Niveles de incertidumbre | Los términos debatidos (el descenso / "espíritus en prisión," 3:18–20; el bautismo que "ahora los salva," 3:21; "puestos" para tropezar, 2:8; el desplazamiento de referente de κύριος, 3:15) llevan etiquetas de confianza (Probable / Posible / Incierto). |
-| 22 | Restricción Textual-Crítica | Las (modestas) variantes significativas — p. ej. 3:18; 4:14 — anotadas en el Nivel 2 sin adopción silenciosa. Ver E2. |
-| 25 | Política del Nombre Divino — GS Opción C | κύριος traducido como "el Señor" en contextos de cita/eco del AT, con nota en Nivel 2 identificando YHWH en el hebreo subyacente. Ver F5. |
+| 22 | Restricción Textual-Crítica | Las (modestas) variantes significativas — p. ej. 3:18; 4:14 — registradas en las notas sin adopción silenciosa. Ver E2. |
+| 25 | Política del Nombre Divino — GS Opción C | κύριος traducido como "el Señor" en contextos de cita/eco del AT, con una nota identificando YHWH en el hebreo subyacente. Ver F5. |
 | 29 | Enriquecimiento solo en companions | La composición, la datación, el escenario social, la historia del código doméstico y el cifrado "Babilonia" viven aquí y en los companions — con etiquetas duales — no en el texto principal. |
-| 30 | Marcado de discurso divino | Solo la palabra de Dios en primera persona dentro de las citas del AT se marca (1:16; 2:6); la exhortación del apóstol y las citas del AT en tercera persona no. Ver F3. |
+| 30 | Marcado de discurso divino | Nada se marca: la palabra de Dios en primera persona dentro de las citas del AT (1:16; 2:6) la cita el apóstol, y su exhortación y las citas del AT en tercera persona son habla humana. Ver F3. |
 
 ---
 
@@ -318,4 +318,4 @@ Un caso distinto y deliberado es **3:15**: "santifiquen *al Mesías* como Señor
 
 ---
 
-> **Procedencia editorial:** Redactado por Claude Opus 4.8 (contexto 1M) el 26-06-2026. Sin revisión. Esta introducción es un recurso académico provisional gobernado por la Regla 29 de la TT. Todas las afirmaciones llevan etiquetas duales; ninguna afirmación debe leerse como la posición teológica o composicional de la TT. La TT traduce el texto griego (NA28) y no adopta ninguna teoría particular de autoría, composición, datación ni del escenario social de la carta.
+> **Procedencia editorial:** Borrador asistido por IA, aún no revisado. Esta introducción es un recurso académico provisional gobernado por la Regla 29 de la TT. Todas las afirmaciones llevan etiquetas duales; ninguna afirmación debe leerse como la posición teológica o composicional de la TT. La TT traduce el texto griego (NA28) y no adopta ninguna teoría particular de autoría, composición, datación ni del escenario social de la carta.

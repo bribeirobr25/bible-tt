@@ -37,7 +37,7 @@
 
 As notas são marcadas por tipo — **Crítico · Lexical · Gramatical · Teológico** — cada uma com sua cor (veja a legenda no topo da visão de Notas).
 
-**O capítulo 2 passa do novo nascimento para a nova identidade e conduta.** Despojai-vos da malícia e desejai o leite puro (vv.1-3); chegai à pedra viva e sede edificados como casa espiritual, sacerdócio santo — a **catena da pedra viva** entretecendo Isaías 28:16, Salmo 118:22 e Isaías 8:14 (vv.4-8); vós sois "uma raça eleita, um sacerdócio real, uma nação santa" (vv.9-10, Êxodo 19:6 / Oseias). Depois, a conduta dos exilados: honrosa entre as nações (vv.11-12); submissão às autoridades humanas (vv.13-17); e o primeiro painel do **código doméstico** — os servos domésticos e o Messias sofredor como o padrão, enquadrados por Isaías 53 (vv.18-25). **Nota sobre marcação de fala (Regra 30):** a única palavra divina em primeira pessoa aqui está dentro da citação de Isaías 28:16 (2:6, "eis que ponho em Sião…") — marcada @@…@@; as outras citações do AT (Sl 118:22; Is 8:14; Sl 34:8; Is 53) não são fala de Deus em primeira pessoa e não são marcadas. **O código doméstico (2:18-25) é uma passagem de alta moderação** — a TT verte o grego (os servos domésticos se submetem, o exemplo do Messias) e sinaliza a história interpretativa nas notas, sem importar nada (Regra 3; diário editorial P-009).
+**O capítulo 2 passa do novo nascimento para a nova identidade e conduta.** Despojai-vos da malícia e desejai o leite puro (vv.1-3); chegai à pedra viva e sede edificados como casa espiritual, sacerdócio santo — a **catena da pedra viva** entretecendo Isaías 28:16, Salmo 118:22 e Isaías 8:14 (vv.4-8); vós sois "uma raça eleita, um sacerdócio real, uma nação santa" (vv.9-10, Êxodo 19:6 / Oseias). Depois, a conduta dos exilados: honrosa entre as nações (vv.11-12); submissão às autoridades humanas (vv.13-17); e o primeiro painel do **código doméstico** — os servos domésticos e o Messias sofredor como o padrão, enquadrados por Isaías 53 (vv.18-25). **Nota sobre marcação de fala (Regra 30):** a única palavra divina em primeira pessoa aqui está dentro da citação de Isaías 28:16 (2:6, "eis que ponho em Sião…") — não marcada, pois Pedro a está citando ("na escritura se contém"); as outras citações do AT (Sl 118:22; Is 8:14; Sl 34:8; Is 53) não são fala de Deus em primeira pessoa e não são marcadas. **O código doméstico (2:18-25) é uma passagem de alta moderação** — a TT verte o grego (os servos domésticos se submetem, o exemplo do Messias) e sinaliza a história interpretativa nas notas, sem importar nada (Regra 3).
 
 ---
 
@@ -47,7 +47,7 @@ As notas são marcadas por tipo — **Crítico · Lexical · Gramatical · Teol�
 
 **Temas-chave:** O anseio do recém-nascido pelo "leite espiritual puro"; a **pedra viva** e a comunidade como casa espiritual / sacerdócio santo; a catena tríplice da pedra (pedra angular / pedra rejeitada tornada cabeça / pedra de tropeço); a estonteante transferência de identidade — os títulos de Israel ("raça eleita, sacerdócio real, nação santa, povo para possessão", Êx 19:6) aplicados aos crentes dispersos, com a reversão de Oseias ("não meu povo → meu povo"); a ética do exílio — conduta honrosa entre as nações como testemunho; submissão às autoridades governantes "por causa do Senhor" dentro da liberdade; o primeiro painel do **código doméstico** (os servos) fundamentado não em teoria social mas no **Messias sofredor** como *hypogrammos* (um modelo de escrita a traçar); a densa trama de **Isaías 53** (sem pecado, sem engano, silencioso sob o ultraje, levou os nossos pecados, "pela sua ferida fostes curados"); o Messias como **pastor e supervisor das almas**.
 
-**Observe:** A catena da pedra (vv.6-8) empilha três textos do AT — a TT mantém cada um reconhecível. Em 2:6 a citação é a palavra de Deus em primeira pessoa ("ponho em Sião…") — marcada @@…@@. **2:8** — "tropeçam… para o que também foram postos" (*etethēsan*) — linguagem de eleição/destino; a TT a verte sem resolver (Regra 13). **2:9-10** transfere os títulos da aliança de Israel à igreja — vertidos como o grego os tem, sem glosa supersessionista acrescentada (Regra 3). O **código doméstico começa em 2:18** (*oiketai*, servos domésticos) — uma passagem de alta moderação; verter o grego, sinalizar a história, importar nada (diário editorial P-009). 2:21 *hypogrammos* ("modelo de escrita/exemplo") é uma palavra rara e vívida. A trama de Isaías 53 (vv.22-25) é alusiva (não citada por fórmula) — o uso mais denso do quarto Cântico do Servo no NT.
+**Observe:** A catena da pedra (vv.6-8) empilha três textos do AT — a TT mantém cada um reconhecível. Em 2:6 a citação é a palavra de Deus em primeira pessoa ("ponho em Sião…") — citada por Pedro, por isso não marcada (Regra 30). **2:8** — "tropeçam… para o que também foram postos" (*etethēsan*) — linguagem de eleição/destino; a TT a verte sem resolver (Regra 13). **2:9-10** transfere os títulos da aliança de Israel à igreja — vertidos como o grego os tem, sem glosa supersessionista acrescentada (Regra 3). O **código doméstico começa em 2:18** (*oiketai*, servos domésticos) — uma passagem de alta moderação; verter o grego, sinalizar a história, importar nada. 2:21 *hypogrammos* ("modelo de escrita/exemplo") é uma palavra rara e vívida. A trama de Isaías 53 (vv.22-25) é alusiva (não citada por fórmula) — o uso mais denso do quarto Cântico do Servo no NT.
 
 **Conexão:** O capítulo é uma tapeçaria da Bíblia Hebraica. "Provai que o Senhor é bom" (2:3) cita o Salmo 34:8 (um salmo a que Pedro retorna em 3:10-12). A catena da pedra recorre a Isaías 28:16 (a pedra angular em Sião), Salmo 118:22 (a pedra rejeitada) e Isaías 8:14 (a pedra de tropeço) — os mesmos textos da pedra que os evangelhos aplicam ao Messias (Mc 12:10 par.; Lc 20:17). Os títulos de identidade (2:9) reproduzem Êxodo 19:6 ("um reino de sacerdotes e uma nação santa") e Isaías 43:20-21 ("o meu povo escolhido… para mim mesmo"); "não povo → povo de Deus" (2:10) é Oseias 1:9-10; 2:23. O retrato do servo (2:22-25) é Isaías 53:9, 4-6, 12 — "ele levou os nossos pecados", "pela sua ferida curados", "todos nós como ovelhas nos desgarramos" — o Cântico do Servo já ressoado em Atos 3 (o *pais*).
 
@@ -130,8 +130,8 @@ Porque está contido na escritura: "Eis que ponho em Sião (Tsiyon) uma pedra, u
 
 > **Notas**
 >
-> 🔴 **CRÍTICO — ISAÍAS 28:16 (palavra divina em primeira pessoa → marcada)**
-> - **ἰδοὺ τίθημι ἐν Σιὼν λίθον… ἀκρογωνιαῖον** (*idou tithēmi en Siōn lithon akrogōniaion*) = "Eis que ponho em Sião uma pedra… uma pedra angular" (Is 28:16 LXX). Esta é a **palavra de Deus em primeira pessoa** ("ponho"), por isso é marcada **@@…@@** (Regra 30 / A-004). **ἀκρογωνιαῖος** = "pedra angular / pedra de cunhal." "Jamais será envergonhado" (*ou mē kataischynthē*) — a leitura da LXX. Primeira pedra da catena. → PROFECIA (Is 28:16 → 1 Pe 2:6).
+> 🔴 **CRÍTICO — ISAÍAS 28:16 (palavra divina em primeira pessoa, citada → não marcada)**
+> - **ἰδοὺ τίθημι ἐν Σιὼν λίθον… ἀκρογωνιαῖον** (*idou tithēmi en Siōn lithon akrogōniaion*) = "Eis que ponho em Sião uma pedra… uma pedra angular" (Is 28:16 LXX). Esta é a **palavra de Deus em primeira pessoa** ("ponho"), mas Pedro a está citando ("na escritura se contém"), por isso não é marcada (Regra 30). **ἀκρογωνιαῖος** = "pedra angular / pedra de cunhal." "Jamais será envergonhado" (*ou mē kataischynthē*) — a leitura da LXX. Primeira pedra da catena. → PROFECIA (Is 28:16 → 1 Pe 2:6).
 
 ---
 
@@ -208,7 +208,7 @@ Submetei-vos a toda instituição humana por causa do Senhor — quer a um rei c
 > **Notas**
 >
 > 🔴 **CRÍTICO — "SUBMETEI-VOS… POR CAUSA DO SENHOR" (o código cívico)**
-> - **ὑποτάγητε πάσῃ ἀνθρωπίνῃ κτίσει διὰ τὸν κύριον** (*hypotagēte pasē anthrōpinē ktisei dia ton kyrion*) = "Submetei-vos a toda instituição/criação humana por causa do Senhor." **ὑποτάσσω** ("submeter-se/subordinar-se") é o verbo do código doméstico (2:18; 3:1, 5); aqui aplicado à ordem cívica. "**βασιλεύς** como supremo" = o imperador. Fundamentado "por causa do Senhor", não na autoridade intrínseca do Estado. → diário editorial P-009 (o campo de palavras da submissão).
+> - **ὑποτάγητε πάσῃ ἀνθρωπίνῃ κτίσει διὰ τὸν κύριον** (*hypotagēte pasē anthrōpinē ktisei dia ton kyrion*) = "Submetei-vos a toda instituição/criação humana por causa do Senhor." **ὑποτάσσω** ("submeter-se/subordinar-se") é o verbo do código doméstico (2:18; 3:1, 5); aqui aplicado à ordem cívica. "**βασιλεύς** como supremo" = o imperador. Fundamentado "por causa do Senhor", não na autoridade intrínseca do Estado.
 
 ---
 
@@ -262,8 +262,8 @@ Servos domésticos, *estai* submetendo-vos em todo temor aos *vossos* senhores, 
 
 > **Notas**
 >
-> 🔴 **CRÍTICO — O CÓDIGO DOMÉSTICO COMEÇA (*OIKETAI*) — alta moderação (P-009)**
-> - **οἱ οἰκέται, ὑποτασσόμενοι… τοῖς δεσπόταις** (*hoi oiketai, hypotassomenoi… tois despotais*) = "Servos domésticos, *estai* submetendo-vos… aos *vossos* senhores." **οἰκέται** = escravos/servos domésticos (não os *douloi* genéricos). Isto abre o **código doméstico** (2:18–3:7), a passagem de mais alta moderação do livro. A TT verte o grego — a submissão, mesmo "aos perversos (**σκολιοῖς**)" — e **sinaliza a história interpretativa (a escravidão antiga; a recepção moderna) no Nível 2 e no companheiro, sem tomar posição no texto principal** (Regra 3). O endereçamento é aos servos como agentes morais, e o fundamento (vv.21-25) é o próprio sofrimento injusto do Messias, não um endosso da instituição. → diário editorial P-009; Companheiro §F (história da recepção).
+> 🔴 **CRÍTICO — O CÓDIGO DOMÉSTICO COMEÇA (*OIKETAI*) — alta moderação**
+> - **οἱ οἰκέται, ὑποτασσόμενοι… τοῖς δεσπόταις** (*hoi oiketai, hypotassomenoi… tois despotais*) = "Servos domésticos, *estai* submetendo-vos… aos *vossos* senhores." **οἰκέται** = escravos/servos domésticos (não os *douloi* genéricos). Isto abre o **código doméstico** (2:18–3:7), a passagem de mais alta moderação do livro. A TT verte o grego — a submissão, mesmo "aos perversos (**σκολιοῖς**)" — e **sinaliza a história interpretativa (a escravidão antiga; a recepção moderna) nas notas e no companheiro, sem tomar posição no texto principal** (Regra 3). O endereçamento é aos servos como agentes morais, e o fundamento (vv.21-25) é o próprio sofrimento injusto do Messias, não um endosso da instituição. → Companheiro §F (história da recepção).
 
 ---
 
@@ -367,7 +367,7 @@ Pois andáveis desgarrados como ovelhas, mas agora voltastes ao pastor e supervi
 | BH / fonte anterior | Tema | Em 1 Pedro 2 |
 |---------------------|-------|--------------|
 | Sl 34:8 | "Provai e vede que o YHWH é bom" | "vós provastes que o Senhor é bom" (2:3; o salmo retorna em 3:10-12). |
-| Is 28:16 | A pedra angular escolhida posta em Sião | A palavra de Deus em primeira pessoa, marcada (2:6). |
+| Is 28:16 | A pedra angular escolhida posta em Sião | A palavra de Deus em primeira pessoa, citada — não marcada (2:6). |
 | Sl 118:22 | "A pedra que os edificadores rejeitaram… cabeça do ângulo" | A pedra rejeitada-depois-vindicada, do Messias (2:7). |
 | Is 8:14 | "Uma pedra de tropeço, uma rocha de escândalo" | A pedra de tropeço para os que não creem (2:8). |
 | Êx 19:6; Is 43:20-21 | "Um reino de sacerdotes, uma nação santa… o meu povo escolhido" | Os títulos transferidos aos crentes (2:9). |

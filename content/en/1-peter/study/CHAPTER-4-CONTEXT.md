@@ -56,23 +56,23 @@ At 4:3 the readers' past is summed as **τὸ βούλημα τῶν ἐθνῶ�
 
 The dry understatement **ἀρκετός** (*arketos*, "sufficient / enough," 4:3) — "the time *that has* passed *is* sufficient" for that — is preserved rather than smoothed. At 4:4 the outsiders' reaction is named with two precise verbs: they are "surprised" (*xenizontai*, lit. "find it strange / foreign") that the believers no longer **συντρεχόντων** ("run with" *them*) into the "flood of dissipation" (*tēs asōtias anachysin*), and so they **βλασφημοῦντες** ("slander / blaspheme") them. The TT keeps the social mechanics — withdrawal, bafflement, slander — exactly as the Greek lays them out (→ §I1).
 
-### A3. **4:6 "the good news preached even to the dead" — the chapter's crux (P-010)**
+### A3. **4:6 "the good news preached even to the dead" — the chapter's crux**
 **[TEXTUAL — VERIFIED (for the wording); POSSIBLE INFERENCE — UNCERTAIN (for the referent)]**
 
-The clause **καὶ νεκροῖς εὐηγγελίσθη** (*kai nekrois euēngelisthē*, 4:6), "the good news was preached even to *the* dead," is the chapter's high-restraint crux and is rendered literally, with no reading adopted (Rule 3 / Rule 13; editorial-log P-010). The three live readings:
+The clause **καὶ νεκροῖς εὐηγγελίσθη** (*kai nekrois euēngelisthē*, 4:6), "the good news was preached even to *the* dead," is the chapter's high-restraint crux and is rendered literally, with no reading adopted (Rule 3 / Rule 13). The three live readings:
 
 - **(a) The now-dead Christians.** "The dead" are believers who heard the good news while alive and have since died; the purpose-clause then explains that, though "**judged according to humans in *the* flesh**" (i.e. having died, the common human lot), they "**live according to God in *the* {a:wind/spirit}**." On this reading the verse reassures readers grieving believers who died before the expected end (cf. 4:7).
-- **(b) The dead evangelized in the descent.** "The dead" are those addressed in the proclamation of 3:19 — most often the disobedient of Noach's (Noah's) day — heard between the Messiah's death and resurrection. This ties 4:6 directly to the 3:18-20 crux (P-006).
+- **(b) The dead evangelized in the descent.** "The dead" are those addressed in the proclamation of 3:19 — most often the disobedient of Noach's (Noah's) day — heard between the Messiah's death and resurrection. This ties 4:6 directly to the 3:18-20 crux.
 - **(c) A general proclamation to the dead.** A broader descent-and-proclamation to the realm of the dead, without specifying which dead.
 
-The flesh/spirit antithesis (**σαρκὶ… πνεύματι**, anarthrous datives) is the same construction as 3:18 (P-006), and the {a:wind/spirit} slash is kept. The verb **εὐηγγελίσθη** ("good news was announced") is more specific than the *ekēryxen* ("proclaimed") of 3:19 — a textual datum that pulls some readers toward distinguishing the two verses, others toward harmonizing them. The TT does not decide; it preserves the link to 3:19 and resolves none. → editorial-log P-010, P-006; the verse-note at 4:6; cross-ref 3:19 in the chapter-3 companion.
+The flesh/spirit antithesis (**σαρκὶ… πνεύματι**, anarthrous datives) is the same construction as 3:18, and the {a:wind/spirit} slash is kept. The verb **εὐηγγελίσθη** ("good news was announced") is more specific than the *ekēryxen* ("proclaimed") of 3:19 — a textual datum that pulls some readers toward distinguishing the two verses, others toward harmonizing them. The TT does not decide; it preserves the link to 3:19 and resolves none. → the verse-note at 4:6; cross-ref 3:19 in the chapter-3 companion.
 
 ### A4. "Judged… in flesh / live… in spirit" — the antithesis carried over from 3:18 (4:6)
 **[TEXTUAL — VERIFIED]**
 
 The purpose-clause of 4:6 — **ἵνα κριθῶσι… κατὰ ἀνθρώπους σαρκὶ ζῶσι δὲ κατὰ θεὸν πνεύματι** — sets two prepositional/dative spheres against each other: judged "**according to humans, in *the* flesh**," but living "**according to God, in *the* {a:wind/spirit}**." This is the same flesh/spirit dative parallel the letter draws at 3:18 ("put to death in flesh, made alive in {a:wind/spirit}"), where the datives can read either as **sphere** ("in the realm of flesh / spirit") or as **agency** ("by flesh / by the Spirit"). The TT keeps the slash and the bare datives rather than collapsing them into a single resolved sense.
 
-The double **κατά** ("according to") phrases — *kata anthrōpous* ("according to humans") and *kata theon* ("according to God") — frame the contrast as two measures or standards, the human and the divine, rather than two times or two persons. The TT preserves the symmetry. → §A3; editorial-log P-006.
+The double **κατά** ("according to") phrases — *kata anthrōpous* ("according to humans") and *kata theon* ("according to God") — frame the contrast as two measures or standards, the human and the divine, rather than two times or two persons. The TT preserves the symmetry. → §A3.
 
 ### A5. "The end of all things has drawn near" — the perfect tense (4:7)
 **[TEXTUAL — VERIFIED]**
@@ -206,7 +206,7 @@ The TT renders "**share in** the sufferings" rather than "have a part in" or "fe
 
 Read together with 3:19, the words "the good news was preached even to *the* dead" (4:6) became a principal scriptural anchor for the doctrine of the Messiah's **descent to the dead** ("he descended into hell," *descendit ad inferos*) — a clause that entered later forms of the Apostles' Creed and was elaborated in patristic and medieval theology (e.g. the "Harrowing of Hell," dramatized in the *Gospel of Nicodemus*). Interpreters from antiquity (Clement of Alexandria, Origen) onward used 4:6/3:19 to discuss whether the dead — and which dead — could receive the proclamation after death. These are documented receptions built on the verses; the Greek of 4:6 itself does not specify the descent, the recipients, or the content (§A3).
 
-The TT renders 4:6 literally, preserves the link to 3:19, and adopts none of the later doctrinal constructions. → §A3; editorial-log P-010, P-006.
+The TT renders 4:6 literally, preserves the link to 3:19, and adopts none of the later doctrinal constructions. → §A3.
 
 **Source:** Kelly, J.N.D., *Early Christian Creeds*, 3rd ed., Longman, 1972, pp. 378-383; Dalton, W.J., *Christ's Proclamation to the Spirits: A Study of 1 Peter 3:18–4:6*, 2nd ed., Pontifical Biblical Institute, 1989, pp. 42-67.
 
@@ -292,6 +292,4 @@ The nature of the suffering behind the "burning *trial*" (4:12) is the central h
 
 
 **Editorial provenance:**
-- Drafted by: AI (Claude, Anthropic)
-- Date: 2026-06-26
-- Reviewed by: pending
+- AI-assisted draft, not yet reviewed.

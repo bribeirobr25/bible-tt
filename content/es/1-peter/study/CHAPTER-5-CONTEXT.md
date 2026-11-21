@@ -70,7 +70,7 @@ La promesa de 5:10 apila cuatro verbos en futuro con un solo sujeto (Dios, enfá
 ### A6. El cierre epistolar y la decisión del marcado del habla (Regla 30)
 **[TEXTUAL — VERIFICADO]**
 
-La única escritura citada del capítulo, Proverbios 3:34 LXX en 5:5 ("Dios se opone a *los* soberbios, pero a *los* humildes da gracia"), es la declaración en tercera persona del **sabio** *acerca* de Dios, no el habla en primera persona de Dios mismo, y por eso — coherente con la política de la Regla 30 del libro (las citas *acerca* del Señor quedan sin marcar; solo las palabras en primera persona de Dios llevan `@@…@@`) — se deja sin marcar. El capítulo no contiene en absoluto habla divina narrada; su voz es la exhortación del autor en todo momento, incluyendo los saludos de cierre (vv.12-14). La TT por tanto no porta marca `@@…@@` alguna en este capítulo, y las notas del versículo registran el razonamiento en lugar de dejar la ausencia sin explicar.
+La única escritura citada del capítulo, Proverbios 3:34 LXX en 5:5 ("Dios se opone a *los* soberbios, pero a *los* humildes da gracia"), es la declaración en tercera persona del **sabio** *acerca* de Dios, no el habla en primera persona de Dios mismo, y por eso — coherente con la política de la Regla 30 del libro (las citas quedan sin marcar — las que hablan *acerca* del Señor, y las palabras de Dios en primera persona citadas por el apóstol) — se deja sin marcar. El capítulo no contiene en absoluto habla divina narrada; su voz es la exhortación del autor en todo momento, incluyendo los saludos de cierre (vv.12-14). La TT por tanto no porta marca de habla divina alguna en este capítulo, y las notas del versículo registran el razonamiento en lugar de dejar la ausencia sin explicar.
 
 ---
 
@@ -154,7 +154,7 @@ El versículo 4 acuña dos palabras raras. **ἀρχιποίμην** (*archipoim
 ### F1. "Por medio de Silvano" y el debate del secretario/autoría
 **[RECEPCIÓN POSTERIOR — DOCUMENTADO]**
 
-La frase **διὰ Σιλουανοῦ… ἔγραψα** ("**por medio de Silvano** escribí", 5:12) se ha leído de dos maneras principales a lo largo de la historia de la interpretación: tradicionalmente, como nombrando a Silvano (Silas) el **amanuense (secretario)** que compuso el griego pulido en nombre de Pedro — una lectura usada para reconciliar la autoría petrina con el estilo logrado de la carta; y, en gran parte de la erudición moderna, como la fórmula convencional que identifica al **portador / mensajero de la carta** (el modismo *graphein dia* + persona designa regularmente al portador, p. ej. en Ignacio y los papiros), lo cual deja intacta la cuestión de la composición. El asunto se conecta con el debate más amplio sobre la autoría (apostólica, secretarial, o seudónima) expuesto en la Introducción (§B); la TT traduce "por medio de Silvano" sin decidir el papel y señala las opciones en el Nivel 2. Estas son posiciones interpretativas e histórico-receptivas, no datos que el versículo mismo resuelva.
+La frase **διὰ Σιλουανοῦ… ἔγραψα** ("**por medio de Silvano** escribí", 5:12) se ha leído de dos maneras principales a lo largo de la historia de la interpretación: tradicionalmente, como nombrando a Silvano (Silas) el **amanuense (secretario)** que compuso el griego pulido en nombre de Pedro — una lectura usada para reconciliar la autoría petrina con el estilo logrado de la carta; y, en gran parte de la erudición moderna, como la fórmula convencional que identifica al **portador / mensajero de la carta** (el modismo *graphein dia* + persona designa regularmente al portador, p. ej. en Ignacio y los papiros), lo cual deja intacta la cuestión de la composición. El asunto se conecta con el debate más amplio sobre la autoría (apostólica, secretarial, o seudónima) expuesto en la Introducción (§B); la TT traduce "por medio de Silvano" sin decidir el papel y señala las opciones en las notas. Estas son posiciones interpretativas e histórico-receptivas, no datos que el versículo mismo resuelva.
 
 **Fuente:** Achtemeier, P.J., *1 Peter*, Hermeneia, Fortress Press, 1996, pp. 349-352; Richards, E.R., *The Secretary in the Letters of Paul*, Mohr Siebeck, 1991, pp. 169-189; Elliott, J.H., *1 Peter*, Anchor Bible 37B, 2000, pp. 872-874.
 
@@ -197,7 +197,7 @@ La que saluda en 5:13 es **ἡ… συνεκλεκτή** ("la *co-elegida* [feme
 
 ## I. El Mundo en Esa Época
 
-> **Referencia cruzada:** Para el amplio mundo grecorromano del temprano imperio de los destinatarios de la carta — política, economía, vida cotidiana, y religión bajo el temprano Principado — véase la Sección I de los compañeros de Juan y Hechos (`es/john/study/CHAPTER-1-CONTEXT.md`; `es/acts/study/CHAPTER-1-CONTEXT.md`). 1 Pedro escribe a creyentes dispersos en Asia Menor (Ponto, Galacia, Capadocia, Asia, Bitinia, 1:1) en la segunda mitad del siglo I. Las entradas siguientes abordan los rasgos específicos de ese mundo puestos en primer plano por el capítulo de cierre: las estructuras de liderazgo de la iglesia temprana, la cultura del honor contra la cual se yergue la "humildad", las convenciones del cierre de las cartas, y "Babilonia" como nombre para Roma.
+> **Referencia cruzada:** Para el amplio mundo grecorromano del temprano imperio de los destinatarios de la carta — política, economía, vida cotidiana, y religión bajo el temprano Principado — véase la Sección I del material de estudio de Juan 1 (Profundizar) y del material de estudio de Hechos 1 (Profundizar). 1 Pedro escribe a creyentes dispersos en Asia Menor (Ponto, Galacia, Capadocia, Asia, Bitinia, 1:1) en la segunda mitad del siglo I. Las entradas siguientes abordan los rasgos específicos de ese mundo puestos en primer plano por el capítulo de cierre: las estructuras de liderazgo de la iglesia temprana, la cultura del honor contra la cual se yergue la "humildad", las convenciones del cierre de las cartas, y "Babilonia" como nombre para Roma.
 
 ---
 
@@ -267,6 +267,4 @@ Hacia fines del siglo I, tras la destrucción romana de Jerusalén y su Templo e
 
 
 **Procedencia editorial:**
-- Redactado por: IA (Claude, Anthropic)
-- Fecha: 2026-06-26
-- Revisado por: pendiente
+- Borrador asistido por IA, aún no revisado.

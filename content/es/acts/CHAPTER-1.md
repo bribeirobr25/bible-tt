@@ -122,7 +122,7 @@ Y estando reunido *con ellos*, les ordenó no apartarse de Yerushalayim (Jerusal
 > **Notas**
 >
 > 🔴 **CRÍTICO — "LA PROMESA DEL PADRE" + HABLA DIVINA (Regla 30)**
-> - **τὴν ἐπαγγελίαν τοῦ πατρὸς** (*tēn epangelian tou patros*) = "la promesa del Padre" — el don del {a:viento/espíritu} (cf. Lc 24:49; Joel 2). En "que oyeron de mí" comienza el habla directa en primera persona del Yeshua resucitado; según la Regla 30 se marca **@@…@@** (coherente con la marcación de sus palabras en el Evangelio). El verbo **συναλιζόμενος** (*synalizomenos*) puede significar "reunirse con" o "comer con" — la TT conserva el sentido de reunirse.
+> - **τὴν ἐπαγγελίαν τοῦ πατρὸς** (*tēn epangelian tou patros*) = "la promesa del Padre" — el don del {a:viento/espíritu} (cf. Lc 24:49; Joel 2). En "que oyeron de mí" comienza el habla directa en primera persona del Yeshua resucitado; según la Regla 30 se marca como habla divina (coherente con la marcación de sus palabras en el Evangelio). El verbo **συναλιζόμενος** (*synalizomenos*) puede significar "reunirse con" o "comer con" — la TT conserva el sentido de reunirse.
 
 ---
 
@@ -158,7 +158,7 @@ Y él les dijo: @@"No les toca a ustedes conocer tiempos ni momentos que el Padr
 > **Notas**
 >
 > 🔵 **"TIEMPOS NI MOMENTOS" — *CHRONOUS Ē KAIROUS***
-> - **χρόνους ἢ καιροὺς** (*chronous ē kairous*) = "tiempos ni momentos" — duración y momentos decisivos. Fijados **ἐν τῇ ἰδίᾳ ἐξουσίᾳ** (*en tē idia exousia*, "por su propia autoridad") del Padre. Habla divina directa del Yeshua resucitado → marcada @@…@@ (Regla 30). La respuesta redirige del calendario a la comisión (v.8).
+> - **χρόνους ἢ καιροὺς** (*chronous ē kairous*) = "tiempos ni momentos" — duración y momentos decisivos. Fijados **ἐν τῇ ἰδίᾳ ἐξουσίᾳ** (*en tē idia exousia*, "por su propia autoridad") del Padre. Habla divina directa del Yeshua resucitado → marcada como habla divina (Regla 30). La respuesta redirige del calendario a la comisión (v.8).
 
 ---
 
@@ -169,7 +169,7 @@ Y él les dijo: @@"No les toca a ustedes conocer tiempos ni momentos que el Padr
 > **Notas**
 >
 > 🔴 **CRÍTICO — EL PROGRAMA DEL LIBRO**
-> - **ἔσεσθέ μου μάρτυρες** (*esesthe mou martyres*) = "serán mis testigos." **μάρτυς** (*martys*, "testigo") adquiere más tarde el sentido de "mártir," pero aquí = testigo legal/testimonial. La geografía — **Yerushalayim → Yehudah → Shomron → ἕως ἐσχάτου τῆς γῆς** ("hasta *el* fin de la tierra") — es el bosquejo literario de Hechos mismo. El habla del Yeshua resucitado se marca @@…@@. → Compañero §A2 (la estructura testimonio-geografía).
+> - **ἔσεσθέ μου μάρτυρες** (*esesthe mou martyres*) = "serán mis testigos." **μάρτυς** (*martys*, "testigo") adquiere más tarde el sentido de "mártir," pero aquí = testigo legal/testimonial. La geografía — **Yerushalayim → Yehudah → Shomron → ἕως ἐσχάτου τῆς γῆς** ("hasta *el* fin de la tierra") — es el bosquejo literario de Hechos mismo. El habla del Yeshua resucitado se marca como habla divina. → Compañero §A2 (la estructura testimonio-geografía).
 
 ---
 

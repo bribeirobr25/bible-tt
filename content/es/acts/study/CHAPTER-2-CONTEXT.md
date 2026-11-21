@@ -82,12 +82,12 @@ La TT mantiene visibles las costuras del sermón (la fórmula "esto es aquello" 
 
 El sermón se construye sobre tres citas de la BH: **Joel 2:28-32** (LXX 3:1-5), el Espíritu derramado y "todo el que invoque el nombre de *el* Señor" (vv.17-21); **Salmo 16:8-11**, "no abandonarás mi alma al Hades" (vv.25-28, 31); y **Salmo 110:1**, "el Señor dijo a mi señor" (vv.34-35). Hechos cita la forma de la **LXX** en todo (p. ej. *glōssa*, "lengua", para el hebreo *kavod*, "gloria", en v.26; *en tais eschatais hēmerais*, "en los últimos días", donde Joel/LXX tiene "después de estas cosas", v.17).
 
-Según la Regla 30, las porciones divinas en primera persona se marcan **@@…@@** ("derramaré" de Joel, vv.17-21; el mandato del SEÑOR en Sal 110, vv.34-35), mientras que la propia voz de David en el Salmo 16 es habla humana y no lo está. → La mecánica de las citas, las diferencias LXX-vs-hebreo y el argumento del doble-*kyrios* de 2:34 se manejan en el **compañero de PROFECÍA**; este compañero da solo el marco histórico y literario.
+Según la Regla 30, las porciones divinas en primera persona ("derramaré" de Joel, vv.17-21; el mandato del SEÑOR en Sal 110, vv.34-35) no se marcan, porque Pedro las está citando; la propia voz de David en el Salmo 16 es habla humana y tampoco se marca. → La mecánica de las citas, las diferencias LXX-vs-hebreo y el argumento del doble-*kyrios* de 2:34 se manejan en el **compañero de PROFECÍA**; este compañero da solo el marco histórico y literario.
 
 ### A7. *Metanoia*, *aphesis*, la inmersión en el nombre, y el *eis* de 2:38
 **[TEXTUAL — VERIFICADO (para los lexemas); INFERENCIA POSIBLE — INCIERTO (para la fuerza de *eis*)]**
 
-El llamado de Pedro (2:38) reúne cuatro términos bloqueados o cargados: **μετανοήσατε** (*metanoēsate*, "cambien de mente" — la traducción GS bloqueada de *metanoeō*, no el penitencial "arrepiéntanse"); la inmersión **ἐπὶ τῷ ὀνόματι Ἰησοῦ** (*epi tō onomati Iēsou*, "sobre el nombre de Yeshua"); **εἰς ἄφεσιν τῶν ἁμαρτιῶν** (*eis aphesin tōn hamartiōn*, "para/hacia la liberación de los pecados" — *aphesis* como en Lucas 1:77; 3:3); y el prometido "don del {a:viento/espíritu} santo". La preposición **εἰς** es genuinamente ambigua — télica ("a fin de obtener") o causal/referencial ("con referencia a") el perdón — y la TT preserva "para/hacia" sin resolverlo (la decisión A-005 en el registro editorial nota la crux en 2:38).
+El llamado de Pedro (2:38) reúne cuatro términos bloqueados o cargados: **μετανοήσατε** (*metanoēsate*, "cambien de mente" — la traducción GS bloqueada de *metanoeō*, no el penitencial "arrepiéntanse"); la inmersión **ἐπὶ τῷ ὀνόματι Ἰησοῦ** (*epi tō onomati Iēsou*, "sobre el nombre de Yeshua"); **εἰς ἄφεσιν τῶν ἁμαρτιῶν** (*eis aphesin tōn hamartiōn*, "para/hacia la liberación de los pecados" — *aphesis* como en Lucas 1:77; 3:3); y el prometido "don del {a:viento/espíritu} santo". La preposición **εἰς** es genuinamente ambigua — télica ("a fin de obtener") o causal/referencial ("con referencia a") el perdón — y la TT preserva "para/hacia" sin resolverlo.
 
 "La inmersión sobre el nombre de Yeshua" retoma "el nombre del Señor" de la cita de Joel (v.21), donde *kyrios* traduce YHWH; la misma construcción se aplica ahora a Jesús. **[INFERENCIA POSIBLE — INCIERTO]** Si la frase implica una fórmula bautismal, una transferencia de lealtad, o ambas, no puede resolverse desde el texto. → Para la respuesta de la comunidad que sigue (vv.41-47), véase §D3.
 
@@ -221,7 +221,7 @@ Hechos consistentemente tiene la inmersión "sobre/en el nombre de Yeshua" (2:38
 
 ## I. El Mundo en Esa Época
 
-> **Referencia cruzada:** Para el contexto mundial completo de dos escenarios y diez categorías (Político, Economía, Vida Cotidiana, Estructura Social, Educación, Militar, Artes, Ciencia, Religión, Pueblos Vecinos), véase el compañero de Juan 1 (Sección I, `es/john/study/CHAPTER-1-CONTEXT.md`). Hechos comparte el mismo período general del siglo I; la sección de Juan 1 proporciona la base. Las entradas siguientes abordan las circunstancias específicas que aparecen en primer plano en Hechos 2 — la peregrinación de Shavuot, la geografía de la diáspora de vv.9-11, y la economía festiva de Jerusalén.
+> **Referencia cruzada:** Para el contexto mundial completo de dos escenarios y diez categorías (Político, Economía, Vida Cotidiana, Estructura Social, Educación, Militar, Artes, Ciencia, Religión, Pueblos Vecinos), véase el material de estudio de Juan 1 (Profundizar), Sección I. Hechos comparte el mismo período general del siglo I; la sección de Juan 1 proporciona la base. Las entradas siguientes abordan las circunstancias específicas que aparecen en primer plano en Hechos 2 — la peregrinación de Shavuot, la geografía de la diáspora de vv.9-11, y la economía festiva de Jerusalén.
 
 ---
 
@@ -303,6 +303,4 @@ Después del 70 e.c. la diáspora se volvió, aún más que antes, el centro dem
 ---
 
 **Procedencia editorial:**
-- Redactado por: IA (Claude, Anthropic)
-- Fecha: 24-06-2026
-- Revisado por: pendiente
+- Borrador asistido por IA, aún no revisado.

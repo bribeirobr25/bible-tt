@@ -101,6 +101,4 @@ Ein Wiederherstellungsmotiv, getragen von der Wortfamilie *apokathistēmi*/*apok
 ---
 
 **Redaktionelle Herkunft:**
-- Verfasst von: KI (Claude, Anthropic)
-- Datum: 2026-06-24
-- Geprüft von: ausstehend
+- KI-gestützter Entwurf, noch nicht geprüft.

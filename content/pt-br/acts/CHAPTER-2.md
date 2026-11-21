@@ -37,7 +37,7 @@
 
 As notas são marcadas por tipo — **Crítico · Lexical · Gramatical · Teológico** — cada uma com sua cor (veja a legenda no topo da visão de Notas).
 
-**Este é o capítulo de Pentecostes — o cumprimento da promessa de Atos 1:5.** Na festa de Pentecostes (Shavuot) o vento/espírito santo vem com um som como de vento e línguas como de fogo, e os crentes reunidos falam em outras línguas/idiomas, ouvidos por judeus de toda nação (vv.1-13). Kefa então profere o primeiro sermão apostólico: ele lê o evento através de Yoel (Joel 2), proclama a morte, a ressurreição e a exaltação de Yeshua através dos Salmos 16 e 110, e chama ao arrependimento e à imersão (vv.14-41). O capítulo se encerra com um retrato da nova comunidade (vv.42-47). **Nota sobre marcação de fala (Regra 30):** a fala divina em primeira pessoa do oráculo de Joel ("Derramarei o meu vento/espírito…") e as palavras do SENHOR no Salmo 110 ("Senta-te à minha direita…") são marcadas **@@…@@**; a própria pregação de Pedro é fala humana e não é. **A crux principal é 2:34** — os dois referentes distintos do Salmo 110:1 sob uma só palavra grega κύριος ("*O Senhor* [YHWH] disse ao meu *senhor* [o Messias]"), traduzida de modo a manter ambos e anotada (Regra 13).
+**Este é o capítulo de Pentecostes — o cumprimento da promessa de Atos 1:5.** Na festa de Pentecostes (Shavuot) o vento/espírito santo vem com um som como de vento e línguas como de fogo, e os crentes reunidos falam em outras línguas/idiomas, ouvidos por judeus de toda nação (vv.1-13). Kefa então profere o primeiro sermão apostólico: ele lê o evento através de Yoel (Joel 2), proclama a morte, a ressurreição e a exaltação de Yeshua através dos Salmos 16 e 110, e chama ao arrependimento e à imersão (vv.14-41). O capítulo se encerra com um retrato da nova comunidade (vv.42-47). **Nota sobre marcação de fala (Regra 30):** a fala divina em primeira pessoa do oráculo de Joel ("Derramarei o meu vento/espírito…") e as palavras do SENHOR no Salmo 110 ("Senta-te à minha direita…") **não** são marcadas — Pedro as está citando, de modo que é um falante humano que fala; a própria pregação de Pedro é igualmente fala humana. **A crux principal é 2:34** — os dois referentes distintos do Salmo 110:1 sob uma só palavra grega κύριος ("*O Senhor* [YHWH] disse ao meu *senhor* [o Messias]"), traduzida de modo a manter ambos e anotada (Regra 13).
 
 ---
 
@@ -47,7 +47,7 @@ As notas são marcadas por tipo — **Crítico · Lexical · Gramatical · Teol�
 
 **Temas-chave:** Pentecostes/Shavuot como o cenário da festa da colheita para a "colheita" das nações pelo Espírito; a teofania de vento/espírito (som, fogo, línguas) recordando o Sinai; a reversão de Babel — uma só mensagem ouvida em muitas línguas; os "últimos dias" de Joel e a democratização do Espírito (filhos e filhas, jovens e velhos, servos e servas); o padrão do querigma (proclamação) — a Escritura, a cruz pelo plano de Deus e por mãos humanas, a ressurreição, a exaltação, o chamado a responder; o argumento davídico a partir dos Salmos 16 e 110 de que a ressurreição e a entronização do Messias foram prometidas; "Senhor e Messias" como a confissão; arrependimento, imersão no nome de Jesus, perdão e o dom do Espírito como a resposta; a vida comunitária — ensino, comunhão, pão, oração, bens partilhados — como o primeiro fruto do Espírito.
 
-**Observe:** "Línguas" muda de sentido — as visíveis "línguas como de fogo" (v.3, o formato de fogo) versus as "outras línguas/idiomas" da fala (vv.4, 11, mantidas com a barra). A fala divina em primeira pessoa da citação de Joel é marcada (vv.17-21); o sermão de Pedro não é. *Kyrios* carrega YHWH nas citações ("o dia do Senhor," "invoca o nome do Senhor," v.21; "vi o Senhor," v.25) e em 2:34 carrega **dois referentes ao mesmo tempo** — a crux do capítulo. Em 2:38 a preposição *eis* ("para/em vista da liberação dos pecados") é teologicamente carregada; a TT a preserva sem resolver causa versus finalidade. *Hades* (vv.27, 31) traduz a LXX de Sheol. O sumário da comunidade (vv.42-47) usa *koinōnia* ("comunhão/partilha").
+**Observe:** "Línguas" muda de sentido — as visíveis "línguas como de fogo" (v.3, o formato de fogo) versus as "outras línguas/idiomas" da fala (vv.4, 11, mantidas com a barra). A fala divina em primeira pessoa da citação de Joel (vv.17-21) não é marcada — Pedro a está citando (Regra 30). *Kyrios* carrega YHWH nas citações ("o dia do Senhor," "invoca o nome do Senhor," v.21; "vi o Senhor," v.25) e em 2:34 carrega **dois referentes ao mesmo tempo** — a crux do capítulo. Em 2:38 a preposição *eis* ("para/em vista da liberação dos pecados") é teologicamente carregada; a TT a preserva sem resolver causa versus finalidade. *Hades* (vv.27, 31) traduz a LXX de Sheol. O sumário da comunidade (vv.42-47) usa *koinōnia* ("comunhão/partilha").
 
 **Conexão:** Atos 2 é tecido a partir da Bíblia Hebraica. O vento, o fogo e a festa evocam o Sinai (Êx 19), onde a tradição judaica localizou a entrega da Torá em Shavuot; as muitas línguas revertem Babel (Gn 11). A espinha dorsal do sermão são três textos: Joel 2:28-32 (o Espírito derramado e "o nome do SENHOR"), Salmo 16:8-11 (o santo não abandonado ao Sheol/Hades) e Salmo 110:1 (a palavra do SENHOR ao senhor de David). A promessa "para vós e para os vossos filhos e para todos os que estão longe" (v.39) ecoa Isaías 57:19 e Joel 2:32. A comunidade de bens partilhados recorda o ideal aliancista de "não haja necessitado entre vós" (Dt 15:4).
 
@@ -260,7 +260,7 @@ mas isto é o que foi falado pelo profeta Yoel (Joel):
 > **Notas**
 >
 > 🔴 **CRÍTICO — O ORÁCULO DE JOEL: FALA DIVINA (Regra 30)**
-> - A citação é fala em primeira pessoa de Deus ("diz Deus… derramarei") → marcada **@@…@@** (Regra 30 / decisão A-004). Atos lê **ἐν ταῖς ἐσχάταις ἡμέραις** ("nos últimos dias") onde Joel/LXX tem "depois destas coisas" — interpretando a vinda do Espírito como a inauguração dos últimos dias. **ἐκχεῶ ἀπὸ τοῦ πνεύματός μου ἐπὶ πᾶσαν σάρκα** = "derramarei do meu {a:vento/espírito} sobre toda carne" — o Espírito democratizado (filhos/filhas, jovens/velhos). → Companheiro §B2 (Joel e os últimos dias).
+> - A citação é fala em primeira pessoa de Deus ("diz Deus… derramarei"), citada por Pedro → não marcada (Regra 30). Atos lê **ἐν ταῖς ἐσχάταις ἡμέραις** ("nos últimos dias") onde Joel/LXX tem "depois destas coisas" — interpretando a vinda do Espírito como a inauguração dos últimos dias. **ἐκχεῶ ἀπὸ τοῦ πνεύματός μου ἐπὶ πᾶσαν σάρκα** = "derramarei do meu {a:vento/espírito} sobre toda carne" — o Espírito democratizado (filhos/filhas, jovens/velhos). → Companheiro §B2 (Joel e os últimos dias).
 
 ---
 
@@ -282,7 +282,7 @@ E darei prodígios no céu acima e sinais sobre a terra abaixo — sangue e fogo
 > **Notas**
 >
 > 🔵 **"PRODÍGIOS… E SINAIS"**
-> - **τέρατα… καὶ σημεῖα** (*terata… kai sēmeia*) = "prodígios e sinais" — os portentos cósmicos do Dia do SENHOR; em Atos o mesmo par descreve os feitos dos apóstolos (2:43; 4:30). Ainda dentro do oráculo de Deus em primeira pessoa (@@…@@).
+> - **τέρατα… καὶ σημεῖα** (*terata… kai sēmeia*) = "prodígios e sinais" — os portentos cósmicos do Dia do SENHOR; em Atos o mesmo par descreve os feitos dos apóstolos (2:43; 4:30). Ainda dentro do oráculo de Deus em primeira pessoa, citado por Pedro (não marcado, Regra 30).
 
 ---
 
@@ -304,7 +304,7 @@ E acontecerá *que* todo aquele que invocar o nome *do* Senhor será salvo.'
 > **Notas**
 >
 > 🔴 **CRÍTICO — "TODO AQUELE QUE INVOCAR O NOME DO SENHOR"**
-> - **πᾶς ὃς ἂν ἐπικαλέσηται τὸ ὄνομα κυρίου σωθήσεται** (*pas hos an epikalesētai to onoma kyriou sōthēsetai*) = "todo aquele que invocar o nome *do* Senhor será salvo." Em Joel, *kyrios* = **YHWH** (Opção C). O sermão redefinirá "o nome" cristologicamente (v.38, imersão "sobre o nome de Yeshua") — o mesmo κύριος aplicado a Jesus no v.36; a TT mantém "o Senhor" e rastreia o referente nas notas. A citação de fala divina de Joel (@@…@@) encerra-se aqui. → Companheiro §B2.
+> - **πᾶς ὃς ἂν ἐπικαλέσηται τὸ ὄνομα κυρίου σωθήσεται** (*pas hos an epikalesētai to onoma kyriou sōthēsetai*) = "todo aquele que invocar o nome *do* Senhor será salvo." Em Joel, *kyrios* = **YHWH** (Opção C). O sermão redefinirá "o nome" cristologicamente (v.38, imersão "sobre o nome de Yeshua") — o mesmo κύριος aplicado a Jesus no v.36; a TT mantém "o Senhor" e rastreia o referente nas notas. A citação de Joel (fala de Deus em primeira pessoa, citada por Pedro — não marcada) encerra-se aqui. → Companheiro §B2.
 
 ---
 
@@ -446,8 +446,8 @@ Pois David não ascendeu aos céus, mas ele mesmo diz: 'O Senhor disse ao meu se
 
 > **Notas**
 >
-> 🔴 **CRÍTICO — SALMO 110:1: O DUPLO *KYRIOS* (decisão A-005)**
-> - **εἶπεν ὁ κύριος τῷ κυρίῳ μου** (*eipen ho kyrios tō kyriō mou*) = "*O* Senhor disse ao meu senhor." Dois referentes distintos sob uma só palavra grega: o primeiro **κύριος = YHWH** (o que fala; Opção C — DE→JHWH, PT/ES→YHWH na propagação); o segundo **τῷ κυρίῳ μου = o Messias** (o "senhor" de David, o destinatário). Todo o argumento davídico gira sobre esta distinção. A TT traduz "O Senhor disse ao meu senhor" e a ordem citada do SENHOR "Senta-te à minha direita…" é fala divina → marcada @@…@@. **[os dois referentes: PROVÁVEL; a aplicação messiânica é a afirmação do sermão.]** → Companheiro §B4 (Salmo 110 e a entronização).
+> 🔴 **CRÍTICO — SALMO 110:1: O DUPLO *KYRIOS***
+> - **εἶπεν ὁ κύριος τῷ κυρίῳ μου** (*eipen ho kyrios tō kyriō mou*) = "*O* Senhor disse ao meu senhor." Dois referentes distintos sob uma só palavra grega: o primeiro **κύριος = YHWH** (o que fala; Opção C); o segundo **τῷ κυρίῳ μου = o Messias** (o "senhor" de David, o destinatário). Todo o argumento davídico gira sobre esta distinção. A TT traduz "O Senhor disse ao meu senhor" e a ordem citada do SENHOR "Senta-te à minha direita…" é fala divina citada por Pedro → não marcada (Regra 30). **[os dois referentes: PROVÁVEL; a aplicação messiânica é a afirmação do sermão.]** → Companheiro §B4 (Salmo 110 e a entronização).
 
 ---
 
@@ -458,7 +458,7 @@ até que eu ponha os teus inimigos *como* estrado dos teus pés."'
 > **Notas**
 >
 > 🔵 **"ESTRADO DOS TEUS PÉS"**
-> - **ὑποπόδιον τῶν ποδῶν σου** (*hypopodion tōn podōn sou*) = "estrado dos teus pés" — a subjugação dos inimigos sob o Messias entronizado. A ordem do SENHOR em primeira pessoa continua a fala divina marcada no v.34. O Salmo 110:1 é o versículo da BH mais citado na GS.
+> - **ὑποπόδιον τῶν ποδῶν σου** (*hypopodion tōn podōn sou*) = "estrado dos teus pés" — a subjugação dos inimigos sob o Messias entronizado. A ordem do SENHOR em primeira pessoa continua a fala divina iniciada no v.34 (citada, por isso não marcada). O Salmo 110:1 é o versículo da BH mais citado na GS.
 
 ---
 
