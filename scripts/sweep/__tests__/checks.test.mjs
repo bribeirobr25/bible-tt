@@ -3,7 +3,9 @@
 // (fixtures/recall-anchors.json, copied from content/ at f157960 with their
 // file:line), never on the live corpus — Step 4 fixes the live defects, and a test
 // that needs a defect to exist would turn the gate red (impl. review R4-4/R5-1).
-// The live-corpus test asserts tool health only.
+// The live-corpus test asserts tool health only. (The separate gate
+// cleared-classes.test.mjs — Step 4 batch 3 — deliberately asserts ABSENCE for
+// classes already cleared from the corpus.)
 import { readFileSync } from "node:fs";
 import { beforeAll, describe, expect, it } from "vitest";
 import {
@@ -716,12 +718,12 @@ describe("per-file checks", () => {
         run(
           C.s13,
           ctxOf(
-            CHAPTER(["os yehudim e os Yehudim"]),
+            CHAPTER(["os yehudim e os Yehudim, um yehudi"]),
             "pt-br/john/CHAPTER-2.md",
           ),
         ),
       ),
-    ).toEqual(["yehudim-lowercase"]);
+    ).toEqual(["yehudi-lowercase", "yehudim-lowercase"]);
   });
   it("S14: PT register — pronouns and vós verb forms, verse text only; names in -ai skipped", () => {
     const c = ctxOf(
@@ -746,10 +748,16 @@ describe("per-file checks", () => {
     );
     expect(cls(run(C.s15, c))).toEqual([
       "ascii-arrow",
-      "marker-in-table",
       "odd-asterisk",
       "unbalanced-brace",
     ]);
+    // retired in Step 4 batch 3 for ordinary tables (the renderer resolves
+    // markers in cells); only a PEOPLE genealogy header row is still flagged
+    const people = ctxOf(
+      "# T\n## A\n| @@x@@ | b |\n|---|---|\n| {a:x/y} | c |",
+      "en/luke/PEOPLE.md",
+    );
+    expect(cls(run(C.s15, people))).toEqual(["marker-in-table"]);
   });
   it("S17: χριστός renderings per form, main text only; John 1:41 renders Μεσσίας", () => {
     const c = ctxOf(

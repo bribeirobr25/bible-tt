@@ -352,9 +352,9 @@ function sectionKey(ctx, i) {
 
 const STALE_POLICY = [
   /Proper names follow TT transliteration/g,
-  /Nomes próprios seguem a transliteração/g,
+  /[Nn]omes próprios seguem a transliteração/g,
   /Eigennamen folgen der TT-Transliteration/g,
-  /Los nombres propios siguen la transliteración/g,
+  /[Nn]ombres propios siguen la transliteraci[oó]n/g,
 ];
 /** "Natan (Natán)", "Sarah (Sārah)": the same name modulo accents/case is still redundant (impl. review R2-11). */
 export const sameName = (a, b) =>
@@ -849,8 +849,17 @@ export function s12(ctx, add) {
 // ---------------------------------------------------------------- S13 DE Ioudaioi (D9)
 export function s13(ctx, add) {
   if (ctx.locale !== "de") {
-    for (const { i, m } of matches(ctx, word("yehudim")))
-      add(makeHit(ctx, i, "S13", "yehudim-lowercase", m[0], m.index));
+    for (const { i, m } of matches(ctx, word("yehudim|yehudi")))
+      add(
+        makeHit(
+          ctx,
+          i,
+          "S13",
+          m[0] === "yehudim" ? "yehudim-lowercase" : "yehudi-lowercase",
+          m[0],
+          m.index,
+        ),
+      );
     return;
   }
   for (const { i, m } of matches(ctx, word("Yehudi\\p{L}*")))
@@ -908,7 +917,15 @@ export function s15(ctx, add) {
       !/(?:[\u05D0-\u05EA\u2135]|\b[A-Z])\*(?=[\s,;.)\]]|$)/u.test(body)
     )
       add(makeHit(ctx, i, "S15", "odd-asterisk", line.slice(0, 60), 0));
-    if (/^\s*\|/.test(line) && /@@|\{[at]:/.test(line))
+    // Since Step 4 batch 1 the renderer resolves markers inside table cells
+    // (verified batch 3). Only the people-page genealogy HEADER row is printed
+    // as plain text (people/page.tsx), so a marker there would show raw.
+    if (
+      /^\s*\|/.test(line) &&
+      /@@|\{[at]:/.test(line) &&
+      /(?:^|\/)PEOPLE\.md$/.test(ctx.path) &&
+      /^\s*\|[\s:|-]+\|\s*$/.test(ctx.lines[i + 1] ?? "")
+    )
       add(makeHit(ctx, i, "S15", "marker-in-table", line.slice(0, 60), 0));
     const arrow = line.indexOf("->");
     if (arrow >= 0) add(makeHit(ctx, i, "S15", "ascii-arrow", "->", arrow));
