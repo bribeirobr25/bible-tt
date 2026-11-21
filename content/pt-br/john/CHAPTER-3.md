@@ -303,7 +303,7 @@ Yeshua (Jesus) respondeu e lhe disse: @@"Você é o mestre de Yisrael (Israel) e
 > - **μὴ ἀπόληται** (*mē apolētai*) = "não pereça/seja destruído." O verbo **ἀπόλλυμι** (*apollymi*) = "destruir, arruinar, perecer." A alternativa à "vida da era" não é aniquilação versus existência, mas perecer versus a vida da era vindoura.
 >
 > 🟡 **AMBIGUIDADE DE LOCUTOR — YESHUA OU NARRADOR?**
-> - Onde termina a fala de Jesus (iniciada no v.3) e começa o comentário do narrador? O grego não tem aspas; propostas variam entre transição no v.12–13, no v.15 ou no v.21. A TT não impõe aspas além do que a estrutura grega suporta; a ausência de resolução é em si uma característica textual. Para discussão mais completa dos argumentos de cada posição, veja o companheiro Seção A5.
+> - Onde termina a fala de Jesus (iniciada no v.3) e começa o comentário do narrador? O grego não tem aspas; propostas variam entre transição no v.12–13, no v.15 ou no v.21. A TT não impõe aspas além do que a estrutura grega suporta; a ausência de resolução é em si uma característica textual. Como o falante (Jesus ou o narrador) fica em aberto, os vv.16–21 não são marcados como fala divina (em vermelho) — na dúvida, não marcar (Regra 30). Para discussão mais completa dos argumentos de cada posição, veja o companheiro Seção A5.
 
 ---
 

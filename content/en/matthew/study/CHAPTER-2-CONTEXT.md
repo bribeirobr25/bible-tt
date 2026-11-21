@@ -218,7 +218,7 @@ Herodes (Herod)' order to kill children "from two years old and under, according
 
 ## I. The World at the Time
 
-> **Cross-reference:** For the full two-scenario, ten-category world context (Political, Economy, Daily Life, Social Structure, Education, Military, Arts, Science, Religion, Neighboring Peoples), see the John 1 companion (Section I, `en/john/study/CHAPTER-1-CONTEXT.md`). The entries below address the specific circumstances foregrounded in Matthew 2.
+> **Cross-reference:** For the full two-scenario, ten-category world context (Political, Economy, Daily Life, Social Structure, Education, Military, Arts, Science, Religion, Neighboring Peoples), see the John 1 study companion (Deeper), Section I. The entries below address the specific circumstances foregrounded in Matthew 2.
 
 ---
 
@@ -301,6 +301,4 @@ Post-70 Jewish refugees would read the flight to Egypt narrative with first-hand
 ---
 
 **Editorial provenance:**
-- Drafted by: AI (Claude, Anthropic)
-- Date: 2026-04-27
-- Reviewed by: pending
+- AI-assisted draft, not yet reviewed.

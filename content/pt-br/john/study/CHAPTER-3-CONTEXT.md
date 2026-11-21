@@ -140,7 +140,7 @@ João 3:30: ἐκεῖνον δεῖ αὐξάνειν, ἐμὲ δὲ ἐλατ
 
 ## I. O Mundo na Época
 
-> **Para o contexto completo, veja o companheiro de João 1 Seção I.** O contexto histórico completo em duas categorias de dez categorias (Político, Economia, Vida Cotidiana, Estrutura Social, Educação, Militar, Artes, Ciência, Religião, Povos Vizinhos) está disponível no companheiro de João 1 (`pt-br/john/study/CHAPTER-1-CONTEXT.md`). As entradas abaixo abordam as circunstâncias históricas específicas destacadas em João 3.
+> **Para o contexto completo, veja o companheiro de João 1 Seção I.** O contexto histórico completo em duas categorias de dez categorias (Político, Economia, Vida Cotidiana, Estrutura Social, Educação, Militar, Artes, Ciência, Religião, Povos Vizinhos) está disponível no material de estudo de João 1 (Aprofundar). As entradas abaixo abordam as circunstâncias históricas específicas destacadas em João 3.
 
 ---
 
@@ -226,6 +226,4 @@ A rica diversidade de práticas de imersão documentada no contexto de João 3 (
 ---
 
 **Proveniência editorial:**
-- Redigido por: Claude Opus 4.6 (assistente de IA)
-- Data: 2026-04-27
-- Revisado por: pendente
+- Rascunho assistido por IA, ainda não revisado.

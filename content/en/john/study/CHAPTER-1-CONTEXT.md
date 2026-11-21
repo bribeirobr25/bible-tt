@@ -477,6 +477,4 @@ Post-70 CE saw significant population movements. Jewish refugees from Judea disp
 ---
 
 **Editorial provenance:**
-- Drafted by: Claude Opus 4.6 (AI assistant)
-- Date: 2026-04-27
-- Reviewed by: pending
+- AI-assisted draft, not yet reviewed.

@@ -309,7 +309,7 @@ This is a translation decision, not a theological position. The TT documents the
 ### F5. Kyrios — Divine Name Policy in Matthew
 **[TEXTUAL — VERIFIED]**
 
-When Matthew quotes Hebrew Bible passages containing the Tetragrammaton (the four-letter Hebrew divine name יהוה, transliterated YHWH), the Greek text uses κύριος (*kyrios*). Per the TT's Divine Name Policy (Option C, RULES-GS.md):
+When Matthew quotes Hebrew Bible passages containing the Tetragrammaton (the four-letter Hebrew divine name יהוה, transliterated YHWH), the Greek text uses κύριος (*kyrios*). Per the TT's Divine Name Policy (Option C):
 
 - The main text renders *kyrios* as "the Lord" in OT quotation contexts.
 - A note identifies the OT source and states that the underlying Hebrew has the Tetragrammaton.
@@ -331,9 +331,9 @@ This is particularly relevant in Matthew given the high density of OT quotations
 | 7 | Preserve Parallel Structure | The fivefold discourse structure and recurring fulfillment formula pattern are preserved across chapters. *Parthenos* at 1:23 carries its full Greek semantic range. |
 | 11 | Mark Grammatical Additions | Words added for English grammar appear in italics. |
 | 13 | Uncertainty Levels | Debated terms and genealogical questions carry confidence labels (Probable / Possible / Uncertain). |
-| 14 | Annotate Wordplay | Key Greek terms noted in Tier 2 where semantic range or wordplay is significant. |
-| 22 | Text-Critical Restraint | Textual variants (e.g., Matt 1:16 Syriac variant, Matt 27:16–17 "Jesus Barabbas") noted in Tier 2 without silent adoption. |
-| 25 | Divine Name Policy — GS applies Option C | κύριος rendered as "the Lord" in OT quotation contexts, with Tier 2 note identifying YHWH in the underlying Hebrew. See Divine Name Policy (F5). |
+| 14 | Annotate Wordplay | Key Greek terms noted in the notes where semantic range or wordplay is significant. |
+| 22 | Text-Critical Restraint | Textual variants (e.g., Matt 1:16 Syriac variant, Matt 27:16–17 "Jesus Barabbas") noted in the notes without silent adoption. |
+| 25 | Divine Name Policy — GS applies Option C | κύριος rendered as "the Lord" in OT quotation contexts, with a note identifying YHWH in the underlying Hebrew. See Divine Name Policy (F5). |
 
 ---
 
@@ -355,4 +355,4 @@ This is particularly relevant in Matthew given the high density of OT quotations
 
 ---
 
-> **Editorial provenance:** Drafted by Claude Opus 4.6 (1M context) on 2026-04-27. Not yet reviewed. This introduction is a provisional scholarly resource governed by TT Rule 29. All claims carry dual labels; no claim should be read as the TT's theological or compositional position. The TT translates the Greek text (NA28) and does not adopt any particular theory of authorship or composition.
+> **Editorial provenance:** AI-assisted draft, not yet reviewed. This introduction is a provisional scholarly resource governed by TT Rule 29. All claims carry dual labels; no claim should be read as the TT's theological or compositional position. The TT translates the Greek text (NA28) and does not adopt any particular theory of authorship or composition.

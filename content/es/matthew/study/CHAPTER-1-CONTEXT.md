@@ -229,7 +229,7 @@ Contar los nombres en el tercer conjunto (exilio al ungido) arroja solo trece no
 
 ## I. El Mundo en Esa Época
 
-> **Referencia cruzada:** Para el contexto mundial completo de dos escenarios y diez categorías (Político, Economía, Vida Cotidiana, Estructura Social, Educación, Militar, Artes, Ciencia, Religión, Pueblos Vecinos), véase el compañero de Juan 1 (Sección I, `es/john/study/CHAPTER-1-CONTEXT.md`). Juan y Mateo comparten el mismo período histórico general; la sección de Juan 1 proporciona la base. Para el contexto completo, vea el compañero de Juan 1 Sección I. Las entradas siguientes abordan las circunstancias específicas que aparecen en primer plano en Mateo 1.
+> **Referencia cruzada:** Para el contexto mundial completo de dos escenarios y diez categorías (Político, Economía, Vida Cotidiana, Estructura Social, Educación, Militar, Artes, Ciencia, Religión, Pueblos Vecinos), véase el material de estudio de Juan 1 (Profundizar), Sección I. Juan y Mateo comparten el mismo período histórico general; la sección de Juan 1 proporciona la base. Para el contexto completo, vea el compañero de Juan 1 Sección I. Las entradas siguientes abordan las circunstancias específicas que aparecen en primer plano en Mateo 1.
 
 ---
 
@@ -302,6 +302,4 @@ A finales del siglo I, la narrativa del nacimiento de Mateo 1 se había converti
 ---
 
 **Procedencia editorial:**
-- Redactado por: IA (Claude, Anthropic)
-- Fecha: 27-04-2026
-- Revisado por: pendiente
+- Borrador asistido por IA, aún no revisado.

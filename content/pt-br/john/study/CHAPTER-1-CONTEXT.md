@@ -376,6 +376,4 @@ O pós-70 d.C. viu movimentos populacionais significativos. Refugiados judeus da
 ---
 
 **Proveniência editorial:**
-- Redigido por: Claude Opus 4.6 (assistente de IA)
-- Data: 2026-04-27
-- Revisado por: pendente
+- Rascunho assistido por IA, ainda não revisado.

@@ -229,7 +229,7 @@ Contar os nomes no terceiro conjunto (exílio ao ungido) resulta em apenas treze
 
 ## I. O Mundo na Época
 
-> **Para o contexto completo, veja o companheiro de João 1 Seção I.** João e Mateus compartilham o mesmo período histórico geral; o companheiro de João 1 (`pt-br/john/study/CHAPTER-1-CONTEXT.md`) fornece o contexto completo em duas categorias de dez categorias. As entradas abaixo abordam as circunstâncias específicas destacadas em Mateus 1.
+> **Para o contexto completo, veja o companheiro de João 1 Seção I.** João e Mateus compartilham o mesmo período histórico geral; o material de estudo de João 1 (Aprofundar) fornece o contexto completo em duas categorias de dez categorias. As entradas abaixo abordam as circunstâncias específicas destacadas em Mateus 1.
 
 ---
 
@@ -302,6 +302,4 @@ No final do séc. I, a narrativa do nascimento de Mateus 1 havia se tornado um p
 ---
 
 **Proveniência editorial:**
-- Redigido por: IA (Claude, Anthropic)
-- Data: 2026-04-27
-- Revisado por: pendente
+- Rascunho assistido por IA, ainda não revisado.

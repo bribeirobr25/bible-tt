@@ -84,7 +84,7 @@ Diese Datei enthält biografische und genealogische Informationen über Personen
 **Herkunft:** Sohn Yishais (Isai) aus Bethlehem, Stamm Juda
 **Erstnennung in Matthäus:** 1,1
 **In Matthäus:** In der Überschrift der Genealogie (1,1 — „Sohn Davids"), in 1,6 als der König, der Salomo zeugte durch die Frau des Uriyah, und in 1,17 als struktureller Dreh- und Angelpunkt der Genealogie (Abraham bis David = 14 Geschlechter; David bis Deportation = 14; Deportation bis zum Gesalbten = 14). „Sohn Davids" wird zum wiederkehrenden messianischen Titel im gesamten Matthäus (9,27; 12,23; 15,22; 20,30-31; 21,9.15; 22,42).
-**Querverweis:** Vollständiger Eintrag wird in samuel/PEOPLE.md oder kings/PEOPLE.md erscheinen, wenn diese Bücher übersetzt werden.
+**Querverweis:** Vollständiger Eintrag wird auf der Seite Personen und Genealogie zu Samuel oder zu Könige erscheinen, wenn diese Bücher übersetzt werden.
 
 ---
 
@@ -93,7 +93,7 @@ Diese Datei enthält biografische und genealogische Informationen über Personen
 **Herkunft:** Sohn Davids und Bat-Shevas (2 Sam 12,24)
 **Erstnennung in Matthäus:** 1,6-7
 **In Matthäus:** In der Genealogie (1,6-7) als Sohn Davids (durch die Frau des Uriyah) und Vater Rechav'ams (Rehabeam) genannt. Durch Salomo setzt sich die königliche Linie bis zur babylonischen Deportation fort.
-**Querverweis:** Vollständiger Eintrag wird in kings/PEOPLE.md erscheinen, wenn dieses Buch übersetzt wird.
+**Querverweis:** Vollständiger Eintrag wird auf der Seite Personen und Genealogie zu Könige erscheinen, wenn dieses Buch übersetzt wird.
 
 ---
 
@@ -277,4 +277,4 @@ Diese Datei enthält biografische und genealogische Informationen über Personen
 - **PEER-REVIEWED (lexicon)** — BDAG, *A Greek-English Lexicon of the New Testament*, 3. Aufl.; HALOT, *The Hebrew and Aramaic Lexicon of the Old Testament*.
 - **PEER-REVIEWED (commentary)** — Davies, W.D. und Allison, D.C., *A Critical and Exegetical Commentary on the Gospel of Matthew* (ICC, 1988); Luz, U., *Das Evangelium nach Matthäus 1–7* (EKK, 1985).
 
-> **Redaktionelle Herkunft:** Entworfen von Claude Opus 4.6 (1M Kontext) am 2026-04-27. Noch nicht begutachtet. Diese Datei ist eine provisorische wissenschaftliche Ressource, geregelt durch TT-Regel 29. Querverweise auf genesis/PEOPLE.md verlinken zu bestehenden Einträgen, statt Inhalte zu duplizieren.
+> **Redaktionelle Herkunft:** KI-gestützter Entwurf, noch nicht geprüft. Diese Datei ist eine provisorische wissenschaftliche Ressource, geregelt durch TT-Regel 29. Querverweise auf die Seite Personen und Genealogie zu Genesis verlinken zu bestehenden Einträgen, statt Inhalte zu duplizieren.

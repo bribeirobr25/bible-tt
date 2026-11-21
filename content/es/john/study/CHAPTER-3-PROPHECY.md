@@ -33,12 +33,10 @@
 | BHS, 5a ed. rev. (Deutsche Bibelgesellschaft, 1997) | PRIMARIA | Paralelo de Números 21 |
 | Justino Mártir, *Diálogo con Trifón* (mediados del siglo II e.c.) | PRIMARIA (patrística) | Lectura cristiana |
 | Ireneo, *Contra los Herejes* (c. 180 e.c.) | PRIMARIA (patrística) | Lectura cristiana |
-| `content/es/john/study/CHAPTER-3-CONTEXT.md` §A6, §B2 | INTERNA | Referencia cruzada para tratamiento léxico e histórico completo |
+
+Ver también: el material de estudio de Juan 3 (Profundizar), Secciones A6 y B2 — tratamiento léxico e histórico completo.
 
 ---
 
 **Procedencia editorial:**
-- Redactado por: Claude Opus 4.7 (asistente de IA)
-- Fecha: 2026-05-13
-- Fase: 11 Opción C
-- Revisado por: pendiente
+- Borrador asistido por IA, aún no revisado.

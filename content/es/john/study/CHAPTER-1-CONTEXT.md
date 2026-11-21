@@ -376,6 +376,4 @@ El período posterior al año 70 d.C. vio significativos movimientos de poblaci�
 ---
 
 **Procedencia editorial:**
-- Redactado por: Claude Opus 4.6 (asistente de IA)
-- Fecha: 2026-04-27
-- Revisado por: pendiente
+- Borrador asistido por IA, aún no revisado.

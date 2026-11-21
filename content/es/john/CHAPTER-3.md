@@ -303,7 +303,7 @@ Yeshua respondió y le dijo: @@"¿Tu eres el maestro de Yisrael y no sabes estas
 > - **me apoletai** (*me apoletai*) = "no perezca/sea destruido." El verbo **apollymi** (*apollymi*) = "destruir, arruinar, perecer." La alternativa a "vida de la era" no es aniquilacion versus existencia sino perecer versus la vida de la era venidera.
 >
 > 🟡 **AMBIGUEDAD DEL HABLANTE — ¿YESHUA O EL NARRADOR?**
-> - ¿Dónde termina el discurso de Yeshua (comenzado en v.3) y donde comienza el comentario del narrador? No hay comillas en el griego. Propuestas principales: (a) El discurso de Yeshua termina en v.15, y vv.16-21 son la reflexión del narrador; (b) Yeshua habla hasta v.21; (c) la transición esta en v.12 o v.13. La TT incluye todos los vv.3-21 dentro de la sección de dialogo sin resolver la pregunta, anotandola aquí. La ausencia de resolución es en sí misma un rasgo textual.
+> - ¿Dónde termina el discurso de Yeshua (comenzado en v.3) y donde comienza el comentario del narrador? No hay comillas en el griego. Propuestas principales: (a) El discurso de Yeshua termina en v.15, y vv.16-21 son la reflexión del narrador; (b) Yeshua habla hasta v.21; (c) la transición esta en v.12 o v.13. La TT incluye todos los vv.3-21 dentro de la sección de dialogo sin resolver la pregunta, anotandola aquí. Como el hablante (Yeshua o el narrador) queda abierto, los vv.16-21 no están marcados como habla divina (en rojo) — en caso de duda, no marcar (Regla 30). La ausencia de resolución es en sí misma un rasgo textual.
 
 ---
 
