@@ -11,7 +11,7 @@ Fixed wording that replaces authoring meta in reader text (`PLAN_LAUNCH_FIXES.md
 | Book background (`CONTEXT.md`) | the Matthew background page | o Panorama de Mateus | der Hintergrund zu Matthäus | el Panorama de Mateo |
 | People page (`{book}/PEOPLE.md`) | the Genesis people page | a página Pessoas e Genealogia de Gênesis | die Seite Personen und Genealogie zu Genesis | la página Personas y Genealogía de Génesis |
 | Genealogy-table pointer cell (was `matthew/PEOPLE.md (see-stub above)`) | see Matthew | ver Mateus | siehe Matthäus | ver Mateo |
-| Target book not yet published (Exodus, Kings, Isaiah …) | not yet published | ainda não publicado | noch nicht veröffentlicht | aún no publicado |
+| Target book not yet published (Exodus, Kings, Isaiah …) | not yet published | ainda não publicado (após "página": publicada) | noch nicht veröffentlicht | aún no publicado (tras "página": publicada) |
 | Ioudaioi policy (was `RULES-GS.md §Ioudaioi Policy`) | the John introduction (Yehudim) | a Introdução ao Livro de João (Yehudim) | die Bucheinführung zu Johannes (Jehudim) | la Introducción al Libro de Juan (Yehudim) |
 | "Tier 2" — noun | note | nota | Anmerkung | nota |
 | "a Tier 2 note" | a note | uma nota | eine Anmerkung | una nota |

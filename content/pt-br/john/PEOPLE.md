@@ -207,19 +207,19 @@ Este arquivo apresenta informações biográficas e contextuais sobre figuras qu
 
 ## Mosheh (Moisés)
 **Ver:** exodus/PEOPLE.md
-**Em João:** Referenciado como o dador da Torá (1:17 — "a lei foi dada através de Mosheh; graça e verdade vieram através de Yeshua o ungido") e como o profeta de quem Philippos diz "encontramos aquele de quem Mosheh na Torá e os profetas escreveram" (1:45). A tipologia Números 21 / serpente de bronze em 3:14 ("como Mosheh levantou a serpente no deserto, assim deve o Filho do Homem ser levantado") é a terceira referência. Mosheh não aparece narrativamente em João 1-3 — apenas como o estabelecido dador-da-Torá e antecipador-profético. A biografia canônica pertence à página Pessoas e Genealogia de Êxodo (ainda não publicado).
+**Em João:** Referenciado como o dador da Torá (1:17 — "a lei foi dada através de Mosheh; graça e verdade vieram através de Yeshua o ungido") e como o profeta de quem Philippos diz "encontramos aquele de quem Mosheh na Torá e os profetas escreveram" (1:45). A tipologia Números 21 / serpente de bronze em 3:14 ("como Mosheh levantou a serpente no deserto, assim deve o Filho do Homem ser levantado") é a terceira referência. Mosheh não aparece narrativamente em João 1-3 — apenas como o estabelecido dador-da-Torá e antecipador-profético. A biografia canônica pertence à página Pessoas e Genealogia de Êxodo (ainda não publicada).
 
 ---
 
 ## Eliyahu (Elias)
 **Ver:** kings/PEOPLE.md
-**Em João:** Referenciado em 1:21 e 1:25 quando a delegação dos Yehudim pergunta a Yochanan "és tu Eliyahu?" — ao que Yochanan responde "não sou". A pergunta pressupõe a expectativa de Mal'akhi 4:5 de que Eliyahu retornaria antes do dia de YHWH; a negação de Yochanan (em contraste com o sinótico Mt 11:14, 17:11-13 onde Yeshua identifica Yochanan como Eliyahu) é uma escolha teológica joanina. A biografia canônica pertence à página Pessoas e Genealogia de Reis (ainda não publicado).
+**Em João:** Referenciado em 1:21 e 1:25 quando a delegação dos Yehudim pergunta a Yochanan "és tu Eliyahu?" — ao que Yochanan responde "não sou". A pergunta pressupõe a expectativa de Mal'akhi 4:5 de que Eliyahu retornaria antes do dia de YHWH; a negação de Yochanan (em contraste com o sinótico Mt 11:14, 17:11-13 onde Yeshua identifica Yochanan como Eliyahu) é uma escolha teológica joanina. A biografia canônica pertence à página Pessoas e Genealogia de Reis (ainda não publicada).
 
 ---
 
 ## Yeshayahu (Isaías)
 **Ver:** isaiah/PEOPLE.md
-**Em João:** Citado em 1:23 como a fonte profética da autoidentificação de Yochanan: "Eu sou a voz de alguém que clama no deserto, fazei reta a vereda do Senhor, como disse o profeta Yeshayahu (Isaías)" (citando Is 40:3). Yeshayahu é referenciado novamente ao longo de João (12:38, 12:39, 12:41 — três das citações proféticas mais teologicamente carregadas do Evangelho) mas não aparece narrativamente em João 1-3 exceto como o autor citado. A biografia canônica pertence à página Pessoas e Genealogia de Isaías (ainda não publicado).
+**Em João:** Citado em 1:23 como a fonte profética da autoidentificação de Yochanan: "Eu sou a voz de alguém que clama no deserto, fazei reta a vereda do Senhor, como disse o profeta Yeshayahu (Isaías)" (citando Is 40:3). Yeshayahu é referenciado novamente ao longo de João (12:38, 12:39, 12:41 — três das citações proféticas mais teologicamente carregadas do Evangelho) mas não aparece narrativamente em João 1-3 exceto como o autor citado. A biografia canônica pertence à página Pessoas e Genealogia de Isaías (ainda não publicada).
 
 ---
 
