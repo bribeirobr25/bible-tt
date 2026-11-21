@@ -208,3 +208,19 @@ Decisions taken by the project lead in the Launch-Readiness Program (`docs/audit
 - **Cross-references:** `docs/editorial-log/ai-provenance-record.tsv`; 1-peter.md P-013 (L5 split between lead and assistant decisions); Entries 2026-06-17-001, 2026-06-18-002, 2026-06-18-003.
 
 ---
+
+## Entry 2026-11-20-011 — Rule 20: all titular nouns lowercase in notes (lead, 2026-11-20)
+
+- **Verse(s):** Mark 1–3 notes and companions ("son of God", "son of man")
+- **Language(s) affected:** EN, PT-BR, ES (DE: grammatical capitalization)
+- **Rule(s) invoked:** RULES-CORE Rule 20 (titular and relational nouns), v3.4.1 dated addendum 2026-11-20
+- **Decision:** Titular nouns are lowercase in all body text, notes and companions included — "son of man" (D8) **and** "son of God", "only-born son", "the anointed one" and the other titular nouns Rule 20 lists. Exception: a sentence quoting another work, or naming a title as later tradition wrote it. Headings keep heading case; DE keeps grammatical noun capitalization. Content is applied in Launch-Program Step 4 batch 4.
+- **Alternatives considered:**
+  - Lowercase "son of man" only, other titles in Title Case in notes (rejected by the lead: Rule 20 treats titular nouns as one class).
+- **Justification:** The project lead answered the batch-2 question on 2026-11-20: "Should 'son of God' = yes lower it."
+- **AI provenance:** drafted by the AI assistant (claude-opus-5-5), 2026-11-21, recording the project lead's answers of 2026-11-20 (Step 4 batch 3 branch).
+- **Status:** provisional
+- **Reviewers:** unassigned
+- **Cross-references:** genesis.md 2026-11-20-124 (parent); 2026-11-20-008.
+
+---
