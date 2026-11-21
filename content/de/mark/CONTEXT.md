@@ -79,6 +79,4 @@ Die Bildung einer Nachfolgerschaft verläuft vom Seeufer zum Berg. In Kapitel 1 
 ---
 
 **Redaktionelle Herkunft:**
-- Verfasst von: KI (Claude, Anthropic)
-- Datum: 2026-06-18
-- Geprüft von: ausstehend
+- KI-gestützter Entwurf, noch nicht geprüft.

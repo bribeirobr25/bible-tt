@@ -17,7 +17,7 @@
 **[TEXTUAL — VERIFICADO]**
 **Capítulos:** 1, 2
 
-Uma feição distintiva da abertura de Lucas é uma cadeia sustentada de hinos embutidos na narrativa — mais do que em qualquer outro Evangelho. Quatro cânticos pontuam o relato da infância: o **Magnificat** (Miryam/Maria, 1:46-55), o **Benedictus** (Zecharyah/Zacarias, 1:67-79), o **Gloria** (a hoste celestial, 2:13-14) e o **Nunc Dimittis** (Shimon/Simeão, 2:29-32). Cada um é desencadeado por um ato de ver, ouvir ou receber (a saudação de Elisheva, o nome dado a Yochanan, o sinal angélico, a criança posta nos braços de Simeão), de modo que a revelação neste Evangelho caracteristicamente produz canto. A TT renderiza todos os quatro como prosa fluente (decisão editorial luke.md L-002) em vez de impor uma lineação posterior e — porque três são fala *humana* e um é da classe *angelos* — nenhum é marcado como fala divina (Regra 30). O efeito cumulativo enquadra os nascimentos dentro de uma liturgia de resposta: a narrativa avança por anúncio, depois louvor.
+Uma feição distintiva da abertura de Lucas é uma cadeia sustentada de hinos embutidos na narrativa — mais do que em qualquer outro Evangelho. Quatro cânticos pontuam o relato da infância: o **Magnificat** (Miryam/Maria, 1:46-55), o **Benedictus** (Zecharyah/Zacarias, 1:67-79), o **Gloria** (a hoste celestial, 2:13-14) e o **Nunc Dimittis** (Shimon/Simeão, 2:29-32). Cada um é desencadeado por um ato de ver, ouvir ou receber (a saudação de Elisheva, o nome dado a Yochanan, o sinal angélico, a criança posta nos braços de Simeão), de modo que a revelação neste Evangelho caracteristicamente produz canto. A TT renderiza todos os quatro como prosa fluente em vez de impor uma lineação posterior e — porque três são fala *humana* e um é da classe *angelos* — nenhum é marcado como fala divina (Regra 30). O efeito cumulativo enquadra os nascimentos dentro de uma liturgia de resposta: a narrativa avança por anúncio, depois louvor.
 
 **Fonte:** Brown, R.E., *The Birth of the Messiah* (ed. rev.), Doubleday, 1993, sobre os cânticos lucanos.
 
@@ -79,7 +79,4 @@ Lucas, sozinho entre os Evangelhos, enquadra a narrativa como uma história deli
 ---
 
 **Proveniência editorial:**
-- Redigido por: IA (Claude, Anthropic)
-- Data: 2026-06-23
-- Revisado por: pendente
-</invoke>
+- Rascunho assistido por IA, ainda não revisado.

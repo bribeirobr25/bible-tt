@@ -212,7 +212,7 @@ Y el mensajero les dijo: "No teman; pues miren, les traigo buena noticia de un g
 > **Notas**
 >
 > 🔴 **CRÍTICO — EL HABLA DEL MENSAJERO NO MARCADA COMO DIVINA (REGLA 30)**
-> - El anuncio del mensajero (vv.10-12) está presentado en comillas ordinarias, NO con los marcadores @@…@@ de habla divina. Según la decisión editorial (luke.md L-001) y el precedente de Mateo/Marcos, un *angelos* es un mensajero, no Dios; solo el habla directa de Dios o del viento/espíritu santo está marcada. La TT no colapsa el habla del mensajero en habla divina.
+> - El anuncio del mensajero (vv.10-12) está presentado en comillas ordinarias, NO con los marcadores @@…@@ de habla divina. Según el precedente de Mateo/Marcos, un *angelos* es un mensajero, no Dios; solo el habla directa de Dios o del viento/espíritu santo está marcada. La TT no colapsa el habla del mensajero en habla divina.
 >
 > 🟢 **"OS TRAIGO BUENA NOTICIA… GRAN GOZO" — *EUANGELIZOMAI… CHARAN MEGALĒN***
 > - **εὐαγγελίζομαι ὑμῖν χαρὰν μεγάλην** (*euangelizomai hymin charan megalēn*) = "les traigo buena noticia de un gran gozo." El verbo (cognado con *euangelion*) y la palabra clave "gozo" se vinculan de nuevo con 1:14, 1:44, 1:47. **παντὶ τῷ λαῷ** (*panti tō laō*, "para todo el pueblo") — *laos* es Israel como pueblo de Dios; el alcance más amplio a "las naciones" emerge en el cántico de Simeón (v.32).
@@ -248,7 +248,7 @@ Y de repente *hubo* con el mensajero una multitud de *la* hueste celestial, alab
 > **Notas**
 >
 > 🔴 **CRÍTICO — LA HUESTE CELESTIAL: CLASE *ANGELOS*, NO MARCADA COMO DIVINA (REGLA 30)**
-> - **πλῆθος στρατιᾶς οὐρανίου** (*plēthos stratias ouraniou*) = "una multitud de *la* hueste/ejército celestial." *Stratia ourania* es el ejército angélico (cf. 1 Re 22:19; Sal 103:21 LXX). Su cántico (la Gloria, v.14) es habla de la clase *angelos* y por tanto NO está marcada como divina, exactamente como las palabras del mensajero individual. → vea luke.md L-001.
+> - **πλῆθος στρατιᾶς οὐρανίου** (*plēthos stratias ouraniou*) = "una multitud de *la* hueste/ejército celestial." *Stratia ourania* es el ejército angélico (cf. 1 Re 22:19; Sal 103:21 LXX). Su cántico (la Gloria, v.14) es habla de la clase *angelos* y por tanto NO está marcada como divina, exactamente como las palabras del mensajero individual.
 
 ---
 
@@ -262,7 +262,7 @@ Y de repente *hubo* con el mensajero una multitud de *la* hueste celestial, alab
 > - **δόξα ἐν ὑψίστοις θεῷ καὶ ἐπὶ γῆς εἰρήνη ἐν ἀνθρώποις εὐδοκίας** (*doxa en hypsistois theō kai epi gēs eirēnē en anthrōpois eudokias*) = "Gloria en *las* alturas a Dios, y en la tierra paz entre las personas de buena voluntad/favor." El NA28 lee el **genitivo εὐδοκίας** (*eudokias*) — "paz entre las personas *de (su) favor/beneplácito*," es decir, aquellos sobre quienes descansa el favor de Dios (una construcción semítica, cf. Qumrán "hijos de *(del)* beneplácito"). La antigua "buena voluntad para con los hombres" descansa sobre una variante **nominativa εὐδοκία** (*eudokia*). La TT sigue el genitivo y traduce "personas de *su* favor," supliendo *su* en cursiva, y señala el caso como una crux conocida. Note también que esto es un dístico de dos líneas ("gloria… paz"), no tres. → Para *eudokia(s)* y la decisión textual, vea el Compañero §D3. **[crítica-textual / léxico — PROBABLE]**
 >
 > 🟢 **REGLA 30 — LA GLORIA NO MARCADA COMO DIVINA; PRESENTADA COMO PROSA**
-> - La Gloria es el cántico de la *hueste celestial* (v.13), un hablante de la clase *angelos* — por tanto NO marcada con @@…@@. Como cántico está compuesta como prosa fluida (luke.md L-002), sin saltos de línea. *Hypsistois* ("las *alturas* más altas") hace eco de *hypsistos* ("Altísimo") del capítulo 1.
+> - La Gloria es el cántico de la *hueste celestial* (v.13), un hablante de la clase *angelos* — por tanto NO marcada con @@…@@. Como cántico está compuesta como prosa fluida, sin saltos de línea. *Hypsistois* ("las *alturas* más altas") hace eco de *hypsistos* ("Altísimo") del capítulo 1.
 
 ---
 
@@ -437,7 +437,7 @@ Y vino en el {a:viento/espíritu} al templo; y cuando los padres trajeron al ni�
 > **Notas**
 >
 > 🔴 **CRÍTICO — EL NUNC DIMITTIS (vv.29-32): HABLA HUMANA, PRESENTADA COMO PROSA**
-> - **νῦν ἀπολύεις τὸν δοῦλόν σου, δέσποτα, κατὰ τὸ ῥῆμά σου ἐν εἰρήνῃ** (*nyn apolyeis ton doulon sou, despota, kata to rhēma sou en eirēnē*) = "Ahora liberas a tu esclavo, Soberano, según tu palabra, en paz." El cántico de Simeón es habla **humana** (Regla 30) — NO marcada como divina — y, como cántico, compuesto como prosa fluida (luke.md L-002). **δεσπότης** (*despotēs*, "Amo, dueño soberano") es la forma de dirigirse a Dios aquí (no *kyrios*); la TT traduce "Soberano." *Apolyō* ("liberar, dejar ir") hace eco del campo léxico de "liberación" (cf. *aphesis*, 1:77); un dueño-de-esclavos despide a su siervo. → Para la estructura del Nunc Dimittis, vea el compañero PROFECÍA. **[teológico — PROBABLE]**
+> - **νῦν ἀπολύεις τὸν δοῦλόν σου, δέσποτα, κατὰ τὸ ῥῆμά σου ἐν εἰρήνῃ** (*nyn apolyeis ton doulon sou, despota, kata to rhēma sou en eirēnē*) = "Ahora liberas a tu esclavo, Soberano, según tu palabra, en paz." El cántico de Simeón es habla **humana** (Regla 30) — NO marcada como divina — y, como cántico, compuesto como prosa fluida. **δεσπότης** (*despotēs*, "Amo, dueño soberano") es la forma de dirigirse a Dios aquí (no *kyrios*); la TT traduce "Soberano." *Apolyō* ("liberar, dejar ir") hace eco del campo léxico de "liberación" (cf. *aphesis*, 1:77); un dueño-de-esclavos despide a su siervo. → Para la estructura del Nunc Dimittis, vea el compañero PROFECÍA. **[teológico — PROBABLE]**
 
 ---
 

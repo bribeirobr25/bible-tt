@@ -66,7 +66,7 @@ The crowds' wondering "whether perhaps he might be **the anointed one**" (3:15, 
 ### A4. *Hōs enomizeto*, the genealogy's owner, and the ascent past Abraham to Adam
 **[TEXTUAL — VERIFIED (for the hedge); POSSIBLE INFERENCE — POSSIBLE (for the line's owner and the universal reading)]**
 
-The genealogy opens with a hedge: Yeshua was a son "**ὡς ἐνομίζετο** (*hōs enomizeto*), as was supposed, of Yosef (Joseph)" (3:23), qualifying the biological paternity — Jesus was *legally reckoned* Joseph's son (cf. 1:34-35). The exact syntactic scope of the parenthesis, and whether the list that follows is Joseph's line or (on one ancient and modern proposal) Mary's via Eli, is disputed. The TT preserves the hedge without resolving the owner. → see `luke/PEOPLE.md`.
+The genealogy opens with a hedge: Yeshua was a son "**ὡς ἐνομίζετο** (*hōs enomizeto*), as was supposed, of Yosef (Joseph)" (3:23), qualifying the biological paternity — Jesus was *legally reckoned* Joseph's son (cf. 1:34-35). The exact syntactic scope of the parenthesis, and whether the list that follows is Joseph's line or (on one ancient and modern proposal) Mary's via Eli, is disputed. The TT preserves the hedge without resolving the owner. → see the Luke people page.
 
 The genealogy then **ascends** (son of… son of…) and runs **past Abraham** (3:34) — where Matthew stops at Abraham, the covenant root of Israel — through the line of Shem to "**of Adam, of God**" (3:38). The same genitive chain that links each generation now binds Adam to God, framing Yeshua's sonship (3:22) against Adam's sonship-by-creation (Gen 1:27; 5:1). **[STRONG INFERENCE — PROBABLE]** the universal ascent answers the "all flesh" horizon of v.6. → For the lexical/theological climax, see §D2.
 
@@ -163,7 +163,7 @@ A notable **Western** reading (Codex Bezae [D], some Old Latin and patristic wit
 
 Luke's genealogy diverges sharply from Matthew's, most structurally at the Davidic branch: **Luke runs the line through David's son Natan** (3:31; cf. 2 Sam 5:14; Zech 12:12), whereas **Matthew runs through Shelomoh (Solomon)** (Matt 1:6). The generation immediately above Joseph also differs (Luke: "of Eli"; Matthew: "Jacob fathered Joseph"), and the two lists share only a few names (notably Zerubbavel/She'altiel) across the post-exilic stretch. Luke's list also includes a second **Qenan** (3:36) present in the LXX of Genesis 11:12-13 but absent from the Hebrew Masoretic text; and at 3:33 NA28 reads Admin/Arni where other witnesses read "Aram."
 
-Proposed harmonizations — Luke gives Mary's line; levirate marriage producing two fathers; legal vs. biological descent — are all contested, and none commands consensus. The TT renders Luke's list as the Greek gives it and flags the divergence for review. The full table and cross-book see-stubs live in `luke/PEOPLE.md`. **[historical — POSSIBLE]**
+Proposed harmonizations — Luke gives Mary's line; levirate marriage producing two fathers; legal vs. biological descent — are all contested, and none commands consensus. The TT renders Luke's list as the Greek gives it and flags the divergence for review. The full table and cross-book see-stubs live on the Luke people page. **[historical — POSSIBLE]**
 
 **Source:** Marshall, I.H., *The Gospel of Luke*, NIGTC, Eerdmans, 1978, pp. 157-165; Bauckham, R., *Jude and the Relatives of Jesus in the Early Church*, T&T Clark, 1990, pp. 315-373.
 
@@ -219,7 +219,7 @@ Across the stretch between Zerubbavel and Joseph (3:23-27), and at several other
 
 ## I. The World at the Time
 
-> **Cross-reference:** For the full two-scenario, ten-category world context (Political, Economy, Daily Life, Social Structure, Education, Military, Arts, Science, Religion, Neighboring Peoples), see the John 1 companion (Section I, `en/john/study/CHAPTER-1-CONTEXT.md`). Luke and John share the same general historical period; the John 1 section provides the foundation. The entries below address the specific circumstances foregrounded in Luke 3.
+> **Cross-reference:** For the full two-scenario, ten-category world context (Political, Economy, Daily Life, Social Structure, Education, Military, Arts, Science, Religion, Neighboring Peoples), see the John 1 study companion (Deeper), Section I. Luke and John share the same general historical period; the John 1 section provides the foundation. The entries below address the specific circumstances foregrounded in Luke 3.
 
 ---
 
@@ -309,6 +309,4 @@ After 70 CE, with no Temple and no sacrificial atonement, the question of how si
 ---
 
 **Editorial provenance:**
-- Drafted by: AI (Claude, Anthropic)
-- Date: 2026-06-22
-- Reviewed by: pending
+- AI-assisted draft, not yet reviewed.

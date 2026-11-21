@@ -160,7 +160,7 @@ Según el glosario fijado, la TT prioriza el significado sobre la transliteraci�
 | πνεῦμα (*pneuma*) | {viento/espíritu} | barra para el espíritu divino; "espíritu inmundo" sin barra |
 | εὐθύς (*euthys*) | inmediatamente | preservado en cada aparición (la marca de Marcos) |
 
-**Nombre divino (Regla 25 / GS Opción C):** donde *kyrios* traduce YHWH en una cita del AT (p. ej. 1:3, Isaías 40:3), la TT lee "el Señor" en el texto principal, con el referente subyacente YHWH anotado en Nivel 2.
+**Nombre divino (Regla 25 / GS Opción C):** donde *kyrios* traduce YHWH en una cita del AT (p. ej. 1:3, Isaías 40:3), la TT lee "el Señor" en el texto principal, con el referente subyacente YHWH anotado en las notas.
 
 ### F4. Discurso divino directo (Regla 30)
 **[TEXTUAL — VERIFICADO]**

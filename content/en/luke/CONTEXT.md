@@ -17,7 +17,7 @@
 **[TEXTUAL — VERIFIED]**
 **Chapters:** 1, 2
 
-A distinctive feature of Luke's opening is a sustained chain of hymns embedded in the narrative — more than any other Gospel. Four canticles punctuate the infancy account: the **Magnificat** (Miryam/Mary, 1:46-55), the **Benedictus** (Zecharyah/Zechariah, 1:67-79), the **Gloria** (the heavenly host, 2:13-14), and the **Nunc Dimittis** (Shimon/Simeon, 2:29-32). Each is triggered by an act of seeing, hearing, or receiving (Elisheva's greeting, Yochanan's naming, the angelic sign, the child placed in Simeon's arms), so that revelation in this Gospel characteristically produces song. The TT renders all four as flowing prose (editorial decision luke.md L-002) rather than imposing later lineation, and — because three are *human* speech and one is *angelos*-class — none is marked as divine speech (Rule 30). The cumulative effect frames the births within a liturgy of response: the narrative advances by announcement, then praise.
+A distinctive feature of Luke's opening is a sustained chain of hymns embedded in the narrative — more than any other Gospel. Four canticles punctuate the infancy account: the **Magnificat** (Miryam/Mary, 1:46-55), the **Benedictus** (Zecharyah/Zechariah, 1:67-79), the **Gloria** (the heavenly host, 2:13-14), and the **Nunc Dimittis** (Shimon/Simeon, 2:29-32). Each is triggered by an act of seeing, hearing, or receiving (Elisheva's greeting, Yochanan's naming, the angelic sign, the child placed in Simeon's arms), so that revelation in this Gospel characteristically produces song. The TT renders all four as flowing prose rather than imposing later lineation, and — because three are *human* speech and one is *angelos*-class — none is marked as divine speech (Rule 30). The cumulative effect frames the births within a liturgy of response: the narrative advances by announcement, then praise.
 
 **Source:** Brown, R.E., *The Birth of the Messiah* (rev. ed.), Doubleday, 1993, on the Lukan canticles.
 
@@ -79,6 +79,4 @@ Luke alone among the Gospels frames the narrative as a deliberate, datable histo
 ---
 
 **Editorial provenance:**
-- Drafted by: AI (Claude, Anthropic)
-- Date: 2026-06-22
-- Reviewed by: pending
+- AI-assisted draft, not yet reviewed.

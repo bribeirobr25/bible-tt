@@ -18,19 +18,19 @@ This file presents biographical and genealogical information about figures appea
 
 ## Yeshua (Jesus)
 **See:** matthew/PEOPLE.md
-**In Luke:** The central figure, announced by Gavriel (Gabriel) to Miryam (Mary) — "you will conceive… and will call his name Yeshua" (1:31), "Son of *the* Most High," heir to "the throne of David his father" (1:32-33), conceived by the holy wind/spirit (1:35). His coming is greeted by the leaping of the unborn Yochanan (John) and Elisheva (Elizabeth)'s blessing (1:41-45). Born in Beit-Lechem (Bethlehem), the city of David, laid in a feeding-trough (2:6-7); announced to shepherds as "a savior… Messiah, Lord" (2:11); circumcised and named on the eighth day (2:21); presented in the temple, where Shimon (Simeon) sings over him and Channah (Anna) gives thanks (2:25-38); at twelve found among the teachers, "in the *things* of my Father" (2:41-49). Immersed and praying, the sky opens, the wind/spirit descends, and a voice from heaven says "You are my son, the beloved" (3:21-22). The genealogy traces him, "as was supposed" the son of Yosef (Joseph), back through David and Avraham (Abraham) to Adam, "of God" (3:23-38). The canonical bio fields (birth, parents, profession, death by crucifixion) live in matthew/PEOPLE.md; this entry adds the Luke-specific narrative role and the ascending genealogy (see the table below).
+**In Luke:** The central figure, announced by Gavriel (Gabriel) to Miryam (Mary) — "you will conceive… and will call his name Yeshua" (1:31), "Son of *the* Most High," heir to "the throne of David his father" (1:32-33), conceived by the holy wind/spirit (1:35). His coming is greeted by the leaping of the unborn Yochanan (John) and Elisheva (Elizabeth)'s blessing (1:41-45). Born in Beit-Lechem (Bethlehem), the city of David, laid in a feeding-trough (2:6-7); announced to shepherds as "a savior… Messiah, Lord" (2:11); circumcised and named on the eighth day (2:21); presented in the temple, where Shimon (Simeon) sings over him and Channah (Anna) gives thanks (2:25-38); at twelve found among the teachers, "in the *things* of my Father" (2:41-49). Immersed and praying, the sky opens, the wind/spirit descends, and a voice from heaven says "You are my son, the beloved" (3:21-22). The genealogy traces him, "as was supposed" the son of Yosef (Joseph), back through David and Avraham (Abraham) to Adam, "of God" (3:23-38). The canonical bio fields (birth, parents, profession, death by crucifixion) live on the Matthew people page; this entry adds the Luke-specific narrative role and the ascending genealogy (see the table below).
 
 ---
 
 ## Yochanan the Immerser (John the Baptist)
 **See:** matthew/PEOPLE.md
-**In Luke:** Luke alone narrates his conception and birth. Announced by Gavriel (Gabriel) to his father, the priest Zecharyah (Zechariah), in the temple (1:11-20): he will be great before the Lord, filled with the holy wind/spirit from the womb, abstaining from wine and strong drink, going before the Lord "in *the* spirit and power of Eliyahu (Elijah)" (1:13-17). Conceived by the aged, formerly barren Elisheva (Elizabeth) (1:24); leaps in his mother's womb at Miryam (Mary)'s greeting (1:41, 44); born, circumcised, and named "Yochanan" against the family's expectation, loosing his father's tongue (1:57-66); grows and stays in the wilderness (1:80). In Luke 3 "the word of God came upon" him (3:2); he proclaims an immersion of repentance for the release of sins, preaches concrete ethics to crowds, tax-collectors, and soldiers (3:7-14), points beyond himself to a "stronger one" (3:15-17), and is shut in prison by Herodes (Herod) the tetrarch (3:19-20). The canonical bio fields (lineage, lifestyle, death under Antipas) live in matthew/PEOPLE.md; this entry adds the Luke-specific role.
+**In Luke:** Luke alone narrates his conception and birth. Announced by Gavriel (Gabriel) to his father, the priest Zecharyah (Zechariah), in the temple (1:11-20): he will be great before the Lord, filled with the holy wind/spirit from the womb, abstaining from wine and strong drink, going before the Lord "in *the* spirit and power of Eliyahu (Elijah)" (1:13-17). Conceived by the aged, formerly barren Elisheva (Elizabeth) (1:24); leaps in his mother's womb at Miryam (Mary)'s greeting (1:41, 44); born, circumcised, and named "Yochanan" against the family's expectation, loosing his father's tongue (1:57-66); grows and stays in the wilderness (1:80). In Luke 3 "the word of God came upon" him (3:2); he proclaims an immersion of repentance for the release of sins, preaches concrete ethics to crowds, tax-collectors, and soldiers (3:7-14), points beyond himself to a "stronger one" (3:15-17), and is shut in prison by Herodes (Herod) the tetrarch (3:19-20). The canonical bio fields (lineage, lifestyle, death under Antipas) live on the Matthew people page; this entry adds the Luke-specific role.
 
 ---
 
 ## Miryam (Mary)
 **See:** matthew/PEOPLE.md
-**In Luke:** Far more prominent than in Matthew. A virgin of Natzeret (Nazareth) betrothed to Yosef (Joseph), addressed by Gavriel (Gabriel) as the "having-been-favored one" (1:28); she questions ("How will this be?") and consents — "may it happen to me according to your word" (1:34-38). She visits Elisheva (Elizabeth) and sings the Magnificat (1:46-55). She bears Yeshua (Jesus) in Beit-Lechem (Bethlehem) (2:7), "treasures" and "ponders" the shepherds' report (2:19), hears Shimon (Simeon)'s words that "a sword will pass through your own soul" (2:35), and at the temple again "kept all these matters in her heart" (2:51). The canonical bio fields live in matthew/PEOPLE.md; this entry adds the Luke-specific role — in Luke she speaks and acts as an agent, the narrative's center in chapters 1–2.
+**In Luke:** Far more prominent than in Matthew. A virgin of Natzeret (Nazareth) betrothed to Yosef (Joseph), addressed by Gavriel (Gabriel) as the "having-been-favored one" (1:28); she questions ("How will this be?") and consents — "may it happen to me according to your word" (1:34-38). She visits Elisheva (Elizabeth) and sings the Magnificat (1:46-55). She bears Yeshua (Jesus) in Beit-Lechem (Bethlehem) (2:7), "treasures" and "ponders" the shepherds' report (2:19), hears Shimon (Simeon)'s words that "a sword will pass through your own soul" (2:35), and at the temple again "kept all these matters in her heart" (2:51). The canonical bio fields live on the Matthew people page; this entry adds the Luke-specific role — in Luke she speaks and acts as an agent, the narrative's center in chapters 1–2.
 
 ---
 
@@ -90,7 +90,7 @@ This file presents biographical and genealogical information about figures appea
 **Books appearing in:** Luke; Daniel
 **Character arc:** The same named messenger frames both annunciations; he draws the John/Yeshua parallel and, by his rebuke of Zechariah and gentleness toward Mary, sharpens the doubt-versus-faith contrast.
 
-**Note (Rule 30):** Gavriel (Gabriel) is an *angelos*, a messenger — not God. His speech is therefore rendered in ordinary quotation marks, NOT the `@@…@@` divine-speech markers. Only God's/the wind-spirit's direct speech is divine-marked (e.g. the voice from heaven, 3:22). See luke.md L-001.
+**Note (Rule 30):** Gavriel (Gabriel) is an *angelos*, a messenger — not God. His speech is therefore rendered in ordinary quotation marks, NOT marked as divine speech (red). Only God's/the wind-spirit's direct speech is divine-marked (e.g. the voice from heaven, 3:22).
 
 ---
 
@@ -130,7 +130,7 @@ This file presents biographical and genealogical information about figures appea
 **Books appearing in:** Luke
 **Character arc:** The faithful remnant of Israel personified; having waited for consolation, he recognizes salvation in an infant, then voices the first warning of the cross and of Mary's grief.
 
-**Note (Rule 30):** Shimon (Simeon)'s words — both the Nunc Dimittis (2:29-32) and the oracle to Mary (2:34-35) — are *human* speech, not divine-marked; the canticle is rendered as flowing prose (luke.md L-002). He addresses God as *despotēs* ("Master"), not *kyrios*.
+**Note (Rule 30):** Shimon (Simeon)'s words — both the Nunc Dimittis (2:29-32) and the oracle to Mary (2:34-35) — are *human* speech, not divine-marked; the canticle is rendered as flowing prose. He addresses God as *despotēs* ("Master"), not *kyrios*.
 
 ---
 
@@ -236,18 +236,18 @@ This file presents biographical and genealogical information about figures appea
 **Books appearing in:** Luke; Matthew; Mark; Acts 4:27; 13:1
 **Character arc:** The ruler who silences the prophet; Luke narrates the imprisonment proleptically, removing John before the baptism so the focus falls on Yeshua (Jesus).
 
-**Note:** Distinct from his father, Herod the Great (Luke 1:5; full entry in matthew/PEOPLE.md), and from Herod Philip his brother (3:1). "Herodias" and the tetrarchs Philippos (Philip) and Lysanias are named only in passing in Luke 1–3.
+**Note:** Distinct from his father, Herod the Great (Luke 1:5; full entry on the Matthew people page), and from Herod Philip his brother (3:1). "Herodias" and the tetrarchs Philippos (Philip) and Lysanias are named only in passing in Luke 1–3.
 
 ---
 
 ## Luke 3:23-38 Genealogy — Summary Table
 
-Luke's genealogy **ascends** from Yeshua (Jesus) to Adam to God — the reverse of Matthew's descending list (Matt 1:1-17). It runs ~76 names from Yeshua up to "of God." For names with a familiar English form, the Familiar gloss is given once; names without a distinct familiar form appear in transliteration only. Cross-book entries: the patriarchs (Adam → the Shem line) have their canonical biographies in **genesis/PEOPLE.md**; the David line connects to **matthew/PEOPLE.md** (the see-only stubs above cover the three major figures — Yeshua, Yochanan, Miryam).
+Luke's genealogy **ascends** from Yeshua (Jesus) to Adam to God — the reverse of Matthew's descending list (Matt 1:1-17). It runs ~76 names from Yeshua up to "of God." For names with a familiar English form, the Familiar gloss is given once; names without a distinct familiar form appear in transliteration only. Cross-book entries: the patriarchs (Adam → the Shem line) have their canonical biographies on **the Genesis people page**; the David line connects to **the Matthew people page** (the see-only stubs above cover the three major figures — Yeshua, Yochanan, Miryam).
 
 | # | Name (Familiar) | Reference | Canonical home |
 |---|---|---|---|
-| — | Yeshua (Jesus) | 3:23 | matthew/PEOPLE.md (see-stub above) |
-| 1 | Yosef (Joseph) | 3:23 | luke/PEOPLE.md (full entry above) |
+| — | Yeshua (Jesus) | 3:23 | see Matthew |
+| 1 | Yosef (Joseph) | 3:23 | full entry above |
 | 2 | Eli | 3:23 | — |
 | 3 | Mattat | 3:24 | — |
 | 4 | Levi | 3:24 | — |
@@ -288,7 +288,7 @@ Luke's genealogy **ascends** from Yeshua (Jesus) to Adam to God — the reverse 
 | 39 | Mena | 3:31 | — |
 | 40 | Mattata | 3:31 | — |
 | 41 | Natan | 3:31 | — (David's son; cf. 2 Sam 5:14 — Luke's line, not Solomon's) |
-| 42 | David | 3:31 | matthew/PEOPLE.md (full entry; samuel/kings later) |
+| 42 | David | 3:31 | see Matthew (full entry) |
 | 43 | Yishai (Jesse) | 3:32 | — |
 | 44 | Oved (Obed) | 3:32 | — |
 | 45 | Bo'az (Boaz) | 3:32 | — |
@@ -298,31 +298,31 @@ Luke's genealogy **ascends** from Yeshua (Jesus) to Adam to God — the reverse 
 | 49 | Admin | 3:33 | — (NA28; other witnesses read "Aram") |
 | 50 | Arni | 3:33 | — (NA28; other witnesses read "Aram") |
 | 51 | Chetsron | 3:33 | — |
-| 52 | Perets | 3:33 | genesis/PEOPLE.md context (cf. matthew/PEOPLE.md) |
-| 53 | Yehudah (Judah) | 3:33 | genesis/PEOPLE.md |
-| 54 | Ya'aqov (Jacob) | 3:34 | genesis/PEOPLE.md |
-| 55 | Yitzchak (Isaac) | 3:34 | genesis/PEOPLE.md |
-| 56 | Avraham (Abraham) | 3:34 | genesis/PEOPLE.md |
-| 57 | Terach (Terah) | 3:34 | genesis/PEOPLE.md |
-| 58 | Nachor (Nahor) | 3:34 | genesis/PEOPLE.md |
-| 59 | Serug | 3:35 | genesis/PEOPLE.md |
-| 60 | Re'u | 3:35 | genesis/PEOPLE.md |
-| 61 | Peleg | 3:35 | genesis/PEOPLE.md |
-| 62 | Ever | 3:35 | genesis/PEOPLE.md |
-| 63 | Shelach | 3:35 | genesis/PEOPLE.md |
-| 64 | Qenan (Kenan) | 3:36 | genesis/PEOPLE.md (the LXX-only second Qenan; see note) |
-| 65 | Arpakhshad | 3:36 | genesis/PEOPLE.md |
-| 66 | Shem | 3:36 | genesis/PEOPLE.md |
-| 67 | Noach (Noah) | 3:36 | genesis/PEOPLE.md |
-| 68 | Lemekh (Lamech) | 3:36 | genesis/PEOPLE.md (Sethite Lamech) |
-| 69 | Metushelach (Methuselah) | 3:37 | genesis/PEOPLE.md |
-| 70 | Chanokh (Enoch) | 3:37 | genesis/PEOPLE.md |
-| 71 | Yered (Jared) | 3:37 | genesis/PEOPLE.md |
-| 72 | Mahalal'el (Mahalalel) | 3:37 | genesis/PEOPLE.md |
-| 73 | Qenan (Kenan) | 3:37 | genesis/PEOPLE.md |
-| 74 | Enosh | 3:38 | genesis/PEOPLE.md |
-| 75 | Shet (Seth) | 3:38 | genesis/PEOPLE.md |
-| 76 | Adam | 3:38 | genesis/PEOPLE.md |
+| 52 | Perets | 3:33 | see Genesis (context; cf. Matthew) |
+| 53 | Yehudah (Judah) | 3:33 | see Genesis |
+| 54 | Ya'aqov (Jacob) | 3:34 | see Genesis |
+| 55 | Yitzchak (Isaac) | 3:34 | see Genesis |
+| 56 | Avraham (Abraham) | 3:34 | see Genesis |
+| 57 | Terach (Terah) | 3:34 | see Genesis |
+| 58 | Nachor (Nahor) | 3:34 | see Genesis |
+| 59 | Serug | 3:35 | see Genesis |
+| 60 | Re'u | 3:35 | see Genesis |
+| 61 | Peleg | 3:35 | see Genesis |
+| 62 | Ever | 3:35 | see Genesis |
+| 63 | Shelach | 3:35 | see Genesis |
+| 64 | Qenan (Kenan) | 3:36 | see Genesis (the LXX-only second Qenan; see note) |
+| 65 | Arpakhshad | 3:36 | see Genesis |
+| 66 | Shem | 3:36 | see Genesis |
+| 67 | Noach (Noah) | 3:36 | see Genesis |
+| 68 | Lemekh (Lamech) | 3:36 | see Genesis (Sethite Lamech) |
+| 69 | Metushelach (Methuselah) | 3:37 | see Genesis |
+| 70 | Chanokh (Enoch) | 3:37 | see Genesis |
+| 71 | Yered (Jared) | 3:37 | see Genesis |
+| 72 | Mahalal'el (Mahalalel) | 3:37 | see Genesis |
+| 73 | Qenan (Kenan) | 3:37 | see Genesis |
+| 74 | Enosh | 3:38 | see Genesis |
+| 75 | Shet (Seth) | 3:38 | see Genesis |
+| 76 | Adam | 3:38 | see Genesis |
 | — | God | 3:38 | (the genitive chain ends "of God"; Adam "son of God" by creation, Gen 1:27; 5:1) |
 
 **Note — divergence from Matthew (crux, flagged for Hellenist review per Rule 13):**
@@ -331,7 +331,7 @@ Luke's genealogy **ascends** from Yeshua (Jesus) to Adam to God — the reverse 
 - **Direction and reach:** Luke **ascends** and continues *past* Avraham (Abraham) through Terach, the Shem line, the antediluvian patriarchs, to Adam and "of God" (3:34-38); Matthew **descends** and stops at Abraham.
 - **LXX-only Qenan:** Luke's list includes a second **Qenan (Kenan)** between Arpakhshad and Shelach (3:36) — present in the LXX of Gen 11:12-13 but absent from the Hebrew Masoretic text.
 - **Convergence:** From David back to Nachshon (3:31-32) the line matches Ruth 4:18-22 and Matthew 1:3-6; the Zerubbavel–She'altiel pair (3:27) also overlaps Matthew 1:12, though the surrounding names differ.
-- Proposed harmonizations (Luke gives Miryam/Mary's line via Eli; levirate marriage; legal versus biological descent — all keyed to the "as was supposed" hedge of 3:23) are contested. The TT renders Luke's list as the Greek gives it and does not resolve the line's owner. See Luke 3 §A4 and docs/editorial-log/luke.md.
+- Proposed harmonizations (Luke gives Miryam/Mary's line via Eli; levirate marriage; legal versus biological descent — all keyed to the "as was supposed" hedge of 3:23) are contested. The TT renders Luke's list as the Greek gives it and does not resolve the line's owner. See the Luke 3 study companion (Deeper), Section A4.
 
 ---
 
@@ -343,4 +343,4 @@ Luke's genealogy **ascends** from Yeshua (Jesus) to Adam to God — the reverse 
 - **PEER-REVIEWED (lexicon)** — BDAG, *A Greek-English Lexicon of the New Testament*, 3rd ed.; HALOT, *The Hebrew and Aramaic Lexicon of the Old Testament*.
 - **PEER-REVIEWED (commentary)** — Bovon, F., *Luke 1* (Hermeneia, 2002); Fitzmyer, J.A., *The Gospel According to Luke I–IX* (AB, 1981); Marshall, I.H., *The Gospel of Luke* (NIGTC, 1978).
 
-> **Editorial provenance:** Drafted by Claude Opus 4.8 (1M context) on 2026-06-22. Not yet reviewed. This file is a provisional scholarly resource governed by TT Rule 29. Cross-references to genesis/PEOPLE.md and matthew/PEOPLE.md link to existing entries rather than duplicating content; the genealogy divergence from Matthew is flagged for Hellenist review (Rule 13).
+> **Editorial provenance:** AI-assisted draft, not yet reviewed. This file is a provisional scholarly resource governed by TT Rule 29. Cross-references to the Genesis people page and the Matthew people page link to existing entries rather than duplicating content; the genealogy divergence from Matthew is flagged for Hellenist review (Rule 13).

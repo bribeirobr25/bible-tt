@@ -17,7 +17,7 @@
 **[TEXTUELL — VERIFIZIERT]**
 **Kapitel:** 1, 2
 
-Ein eigentümliches Merkmal der Eröffnung des Lukas ist eine fortgesetzte Kette von Hymnen, die in die Erzählung eingebettet sind — mehr als in jedem anderen Evangelium. Vier Lobgesänge durchsetzen den Kindheitsbericht: das **Magnificat** (Miryam/Maria, 1,46–55), das **Benedictus** (Zecharyah/Zacharias, 1,67–79), das **Gloria** (das himmlische Heer, 2,13–14) und das **Nunc Dimittis** (Shimon/Simeon, 2,29–32). Jeder wird durch einen Akt des Sehens, Hörens oder Empfangens ausgelöst (Elishevas Gruß, Yochanans Benennung, das Engelszeichen, das Kind, das in Simeons Arme gelegt wird), sodass Offenbarung in diesem Evangelium charakteristischerweise Gesang hervorbringt. Die TT gibt alle vier als fließende Prosa wieder (redaktionelle Entscheidung luke.md L-002), anstatt eine spätere Verszeilen-Gliederung aufzuzwingen, und — weil drei *menschliche* Rede sind und eine der *angelos*-Klasse — wird keiner als göttliche Rede markiert (Regel 30). Die kumulative Wirkung rahmt die Geburten innerhalb einer Liturgie der Antwort: die Erzählung schreitet durch Ankündigung, dann Lobpreis voran.
+Ein eigentümliches Merkmal der Eröffnung des Lukas ist eine fortgesetzte Kette von Hymnen, die in die Erzählung eingebettet sind — mehr als in jedem anderen Evangelium. Vier Lobgesänge durchsetzen den Kindheitsbericht: das **Magnificat** (Miryam/Maria, 1,46–55), das **Benedictus** (Zecharyah/Zacharias, 1,67–79), das **Gloria** (das himmlische Heer, 2,13–14) und das **Nunc Dimittis** (Shimon/Simeon, 2,29–32). Jeder wird durch einen Akt des Sehens, Hörens oder Empfangens ausgelöst (Elishevas Gruß, Yochanans Benennung, das Engelszeichen, das Kind, das in Simeons Arme gelegt wird), sodass Offenbarung in diesem Evangelium charakteristischerweise Gesang hervorbringt. Die TT gibt alle vier als fließende Prosa wieder, anstatt eine spätere Verszeilen-Gliederung aufzuzwingen, und — weil drei *menschliche* Rede sind und eine der *angelos*-Klasse — wird keiner als göttliche Rede markiert (Regel 30). Die kumulative Wirkung rahmt die Geburten innerhalb einer Liturgie der Antwort: die Erzählung schreitet durch Ankündigung, dann Lobpreis voran.
 
 **Quelle:** Brown, R.E., *The Birth of the Messiah* (überarb. Aufl.), Doubleday, 1993, über die lukanischen Lobgesänge.
 
@@ -79,6 +79,4 @@ Lukas allein unter den Evangelien rahmt die Erzählung als eine bewusste, datier
 ---
 
 **Redaktionelle Herkunft:**
-- Verfasst von: KI (Claude, Anthropic)
-- Datum: 2026-06-23
-- Geprüft von: ausstehend
+- KI-gestützter Entwurf, noch nicht geprüft.

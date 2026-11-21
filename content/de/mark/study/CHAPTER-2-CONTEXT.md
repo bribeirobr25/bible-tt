@@ -153,7 +153,7 @@ Die gepaarten Sprüche (2,21–22) stellen ein Prinzip auf — das Neue sprengt 
 
 ## I. Die Welt zur damaligen Zeit
 
-> **Querverweis:** Für den vollständigen Weltkontext in zwei Szenarien mit zehn Kategorien (Politik, Wirtschaft, Alltagsleben, Gesellschaftsstruktur, Bildung, Militär, Kunst, Wissenschaft, Religion, Nachbarvölker) siehe das Johannes-1-Begleitmaterial (Abschnitt I, `de/john/study/CHAPTER-1-CONTEXT.md`). Die folgenden Einträge befassen sich mit den in Markus 2 in den Vordergrund tretenden spezifischen Umständen.
+> **Querverweis:** Für den vollständigen Weltkontext in zwei Szenarien mit zehn Kategorien (Politik, Wirtschaft, Alltagsleben, Gesellschaftsstruktur, Bildung, Militär, Kunst, Wissenschaft, Religion, Nachbarvölker) siehe das Begleitmaterial zu Johannes 1 (Vertiefen), Abschnitt I. Die folgenden Einträge befassen sich mit den in Markus 2 in den Vordergrund tretenden spezifischen Umständen.
 
 ---
 
@@ -207,6 +207,4 @@ Nach 70 n. Chr., als der Opferkult verschwunden war, nahmen Sabbatobservanz und 
 ---
 
 **Redaktionelle Herkunft:**
-- Entworfen von: KI (Claude, Anthropic)
-- Datum: 2026-06-18
-- Begutachtet von: ausstehend
+- KI-gestützter Entwurf, noch nicht geprüft.

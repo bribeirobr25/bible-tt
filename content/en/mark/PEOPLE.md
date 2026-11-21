@@ -18,19 +18,19 @@ This file presents biographical information about figures appearing in Mark. All
 
 ## Yeshua (Jesus)
 **See:** matthew/PEOPLE.md
-**In Mark:** The central figure from the first line — "the good news of Yeshua the anointed one, son of God" (1:1). Immersed by Yochanan, with the wind/spirit descending and the voice "You are my son, the beloved" (1:9–11); driven into the wilderness, tested by the Satan (1:12–13). Proclaims "the kingdom of God has drawn near" (1:15), calls the first disciples (1:16–20), teaches and exorcises with authority (1:21–28), heals and withdraws to pray (1:35). Claims authority to forgive sins (2:1–12), eats with sinners (2:13–17), and declares the Son of Man "lord even of the sabbath" (2:28). Heals on the sabbath provoking the first death-plot (3:1–6), appoints the Twelve (3:13–19), answers the Beelzevul charge (3:22–30), and redefines family around the will of God (3:31–35). The canonical bio fields (birth, parents, profession, death by crucifixion) live in matthew/PEOPLE.md; this entry adds the Mark-specific narrative role.
+**In Mark:** The central figure from the first line — "the good news of Yeshua the anointed one, son of God" (1:1). Immersed by Yochanan, with the wind/spirit descending and the voice "You are my son, the beloved" (1:9–11); driven into the wilderness, tested by the Satan (1:12–13). Proclaims "the kingdom of God has drawn near" (1:15), calls the first disciples (1:16–20), teaches and exorcises with authority (1:21–28), heals and withdraws to pray (1:35). Claims authority to forgive sins (2:1–12), eats with sinners (2:13–17), and declares the Son of Man "lord even of the sabbath" (2:28). Heals on the sabbath provoking the first death-plot (3:1–6), appoints the Twelve (3:13–19), answers the Beelzevul charge (3:22–30), and redefines family around the will of God (3:31–35). The canonical bio fields (birth, parents, profession, death by crucifixion) live on the Matthew people page; this entry adds the Mark-specific narrative role.
 
 ---
 
 ## Yochanan the Immerser (John the Baptist)
 **See:** matthew/PEOPLE.md
-**In Mark:** The wilderness herald who opens the Gospel — the prophesied "messenger" preparing the way (1:2–3), immersing in the Yarden (Jordan) and proclaiming "an immersion of change of mind toward release of sins" (1:4–8). Clothed like Eliyahu (1:6), he announces a stronger one coming who will immerse "in holy wind/spirit." He immerses Yeshua (1:9); his being "handed over" marks the start of Yeshua's Galilean proclamation (1:14). His disciples' fasting prompts a controversy (2:18). The canonical bio fields (lineage, lifestyle, death under Antipas) live in matthew/PEOPLE.md; this entry adds the Mark-specific role.
+**In Mark:** The wilderness herald who opens the Gospel — the prophesied "messenger" preparing the way (1:2–3), immersing in the Yarden (Jordan) and proclaiming "an immersion of change of mind toward release of sins" (1:4–8). Clothed like Eliyahu (1:6), he announces a stronger one coming who will immerse "in holy wind/spirit." He immerses Yeshua (1:9); his being "handed over" marks the start of Yeshua's Galilean proclamation (1:14). His disciples' fasting prompts a controversy (2:18). The canonical bio fields (lineage, lifestyle, death under Antipas) live on the Matthew people page; this entry adds the Mark-specific role.
 
 ---
 
 ## Miryam (Mary)
 **See:** matthew/PEOPLE.md
-**In Mark:** Appears in Mark 1–3 only as "his mother," unnamed, in the family scene of 3:31–35 — she and Yeshua's brothers stand "outside" and send for him, and Yeshua redefines kinship around "whoever does the will of God." Mark names her "Miryam (Mary)" only later (6:3). The canonical bio fields live in matthew/PEOPLE.md; this entry adds the Mark-specific role.
+**In Mark:** Appears in Mark 1–3 only as "his mother," unnamed, in the family scene of 3:31–35 — she and Yeshua's brothers stand "outside" and send for him, and Yeshua redefines kinship around "whoever does the will of God." Mark names her "Miryam (Mary)" only later (6:3). The canonical bio fields live on the Matthew people page; this entry adds the Mark-specific role.
 
 ---
 
@@ -225,6 +225,4 @@ This file presents biographical information about figures appearing in Mark. All
 ---
 
 **Editorial provenance:**
-- Drafted by: AI (Claude, Anthropic)
-- Date: 2026-06-18
-- Reviewed by: pending
+- AI-assisted draft, not yet reviewed.

@@ -17,7 +17,7 @@
 **[TEXTUAL — VERIFICADO]**
 **Capítulos:** 1, 2
 
-Un rasgo distintivo de la apertura de Lucas es una cadena sostenida de himnos incrustados en la narrativa — más que cualquier otro Evangelio. Cuatro cánticos puntúan el relato de la infancia: el **Magníficat** (Miryam/María, 1:46-55), el **Benedictus** (Zecharyah/Zacarías, 1:67-79), el **Gloria** (la hueste celestial, 2:13-14), y el **Nunc Dimittis** (Shimon/Simeón, 2:29-32). Cada uno es desencadenado por un acto de ver, oír o recibir (el saludo de Elisheva, el dar nombre a Yochanan, la señal angélica, el niño puesto en los brazos de Simeón), de modo que la revelación en este Evangelio produce característicamente canto. La TT representa los cuatro como prosa fluida (decisión editorial luke.md L-002) en lugar de imponer una lineación posterior y — porque tres son habla *humana* y uno es de clase *angelos* — ninguno se marca como habla divina (Regla 30). El efecto acumulativo enmarca los nacimientos dentro de una liturgia de respuesta: la narrativa avanza por anuncio, luego alabanza.
+Un rasgo distintivo de la apertura de Lucas es una cadena sostenida de himnos incrustados en la narrativa — más que cualquier otro Evangelio. Cuatro cánticos puntúan el relato de la infancia: el **Magníficat** (Miryam/María, 1:46-55), el **Benedictus** (Zecharyah/Zacarías, 1:67-79), el **Gloria** (la hueste celestial, 2:13-14), y el **Nunc Dimittis** (Shimon/Simeón, 2:29-32). Cada uno es desencadenado por un acto de ver, oír o recibir (el saludo de Elisheva, el dar nombre a Yochanan, la señal angélica, el niño puesto en los brazos de Simeón), de modo que la revelación en este Evangelio produce característicamente canto. La TT representa los cuatro como prosa fluida en lugar de imponer una lineación posterior y — porque tres son habla *humana* y uno es de clase *angelos* — ninguno se marca como habla divina (Regla 30). El efecto acumulativo enmarca los nacimientos dentro de una liturgia de respuesta: la narrativa avanza por anuncio, luego alabanza.
 
 **Fuente:** Brown, R.E., *The Birth of the Messiah* (ed. rev.), Doubleday, 1993, sobre los cánticos lucanos.
 
@@ -79,7 +79,4 @@ Lucas, solo entre los Evangelios, enmarca la narrativa como una historia deliber
 ---
 
 **Procedencia editorial:**
-- Redactado por: IA (Claude, Anthropic)
-- Fecha: 2026-06-23
-- Revisado por: pendiente
-</invoke>
+- Borrador asistido por IA, aún no revisado.

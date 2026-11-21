@@ -66,7 +66,7 @@ El preguntarse de las multitudes "si quizá él podría ser **el ungido**" (3:15
 ### A4. *Hōs enomizeto*, el dueño de la genealogía, y el ascenso más allá de Abraham hasta Adán
 **[TEXTUAL — VERIFICADO (para la salvedad); INFERENCIA POSIBLE — POSIBLE (para el dueño de la línea y la lectura universal)]**
 
-La genealogía se abre con una salvedad: Yeshua era hijo "**ὡς ἐνομίζετο** (*hōs enomizeto*), según se suponía, de Yosef (José)" (3:23), matizando la paternidad biológica — Jesús era *legalmente reconocido* como hijo de José (cf. 1:34-35). El alcance sintáctico exacto del paréntesis, y si la lista que sigue es la línea de José o (según una propuesta antigua y moderna) la de María vía Elí, es debatido. La TT preserva la salvedad sin resolver el dueño. → véase `luke/PEOPLE.md`.
+La genealogía se abre con una salvedad: Yeshua era hijo "**ὡς ἐνομίζετο** (*hōs enomizeto*), según se suponía, de Yosef (José)" (3:23), matizando la paternidad biológica — Jesús era *legalmente reconocido* como hijo de José (cf. 1:34-35). El alcance sintáctico exacto del paréntesis, y si la lista que sigue es la línea de José o (según una propuesta antigua y moderna) la de María vía Elí, es debatido. La TT preserva la salvedad sin resolver el dueño. → véase la página Personas y Genealogía de Lucas.
 
 La genealogía luego **asciende** (hijo de… hijo de…) y corre **más allá de Abraham** (3:34) — donde Mateo se detiene en Abraham, la raíz del pacto de Israel — a través de la línea de Sem hasta "**de Adán, de Dios**" (3:38). La misma cadena de genitivos que vincula cada generación ahora une a Adán con Dios, enmarcando la filiación de Yeshua (3:22) contra la filiación-por-creación de Adán (Gén 1:27; 5:1). **[INFERENCIA FUERTE — PROBABLE]** el ascenso universal responde al horizonte de "toda carne" del v.6. → Para el clímax léxico/teológico, véase §D2.
 
@@ -163,7 +163,7 @@ Una notable lectura **occidental** (Códice Beza [D], algunos testigos de la Vet
 
 La genealogía de Lucas diverge marcadamente de la de Mateo, sobre todo estructuralmente en la rama davídica: **Lucas corre la línea a través del hijo de David, Natan** (3:31; cf. 2 Sam 5:14; Zac 12:12), mientras que **Mateo corre a través de Shelomoh (Salomón)** (Mt 1:6). La generación inmediatamente superior a José también difiere (Lucas: "de Elí"; Mateo: "Jacob engendró a José"), y las dos listas comparten solo unos pocos nombres (notablemente Zerubbavel/She'altiel) a lo largo del tramo posexílico. La lista de Lucas también incluye un segundo **Qenan** (3:36) presente en la LXX de Génesis 11:12-13 pero ausente del texto masorético hebreo; y en 3:33 NA28 lee Admin/Arni donde otros testigos leen "Aram".
 
-Las armonizaciones propuestas — Lucas da la línea de María; matrimonio levirático que produce dos padres; descenso legal vs. biológico — son todas discutidas, y ninguna impone consenso. La TT traduce la lista de Lucas como el griego la da y señala la divergencia para revisión. La tabla completa y los enlaces-ver entre libros viven en `luke/PEOPLE.md`. **[histórico — POSIBLE]**
+Las armonizaciones propuestas — Lucas da la línea de María; matrimonio levirático que produce dos padres; descenso legal vs. biológico — son todas discutidas, y ninguna impone consenso. La TT traduce la lista de Lucas como el griego la da y señala la divergencia para revisión. La tabla completa y los enlaces-ver entre libros están en la página Personas y Genealogía de Lucas. **[histórico — POSIBLE]**
 
 **Fuente:** Marshall, I.H., *The Gospel of Luke*, NIGTC, Eerdmans, 1978, pp. 157-165; Bauckham, R., *Jude and the Relatives of Jesus in the Early Church*, T&T Clark, 1990, pp. 315-373.
 
@@ -219,7 +219,7 @@ A lo largo del tramo entre Zerubbavel y José (3:23-27), y en varios otros punto
 
 ## I. El Mundo en Esa Época
 
-> **Referencia cruzada:** Para el contexto mundial completo de dos escenarios y diez categorías (Político, Economía, Vida Cotidiana, Estructura Social, Educación, Militar, Artes, Ciencia, Religión, Pueblos Vecinos), véase el compañero de Juan 1 (Sección I, `es/john/study/CHAPTER-1-CONTEXT.md`). Lucas y Juan comparten el mismo período histórico general; la sección de Juan 1 proporciona la base. Las entradas siguientes abordan las circunstancias específicas que aparecen en primer plano en Lucas 3.
+> **Referencia cruzada:** Para el contexto mundial completo de dos escenarios y diez categorías (Político, Economía, Vida Cotidiana, Estructura Social, Educación, Militar, Artes, Ciencia, Religión, Pueblos Vecinos), véase el material de estudio de Juan 1 (Profundizar), Sección I. Lucas y Juan comparten el mismo período histórico general; la sección de Juan 1 proporciona la base. Las entradas siguientes abordan las circunstancias específicas que aparecen en primer plano en Lucas 3.
 
 ---
 
@@ -309,6 +309,4 @@ Después del 70 d.C., sin Templo ni expiación sacrificial, la cuestión de cóm
 ---
 
 **Procedencia editorial:**
-- Redactado por: IA (Claude, Anthropic)
-- Fecha: 22-06-2026
-- Revisado por: pendiente
+- Borrador asistido por IA, aún no revisado.

@@ -249,7 +249,7 @@ Aber der Bote sprach zu ihm: „Fürchte dich nicht, Zecharyah (Zacharias), denn
 > **Notizen**
 >
 > 🔴 **KRITISCH — GAVRIELS REDE NICHT GÖTTLICH-MARKIERT (REGEL 30)**
-> - Die Worte des Boten (V.13-20) werden in gewöhnlichen Anführungszeichen wiedergegeben, NICHT mit den @@…@@-Markierungen göttlicher Rede. Nach der editorischen Entscheidung (luke.md L-001) und dem Matthäus/Markus-Präzedenzfall ist ein *angelos* ein Bote, nicht Gott; nur die direkte Rede Gottes oder des heiligen Wind/Geistes wird markiert. Die TT verschmilzt Boten-Rede nicht zu göttlicher Rede.
+> - Die Worte des Boten (V.13-20) werden in gewöhnlichen Anführungszeichen wiedergegeben, NICHT mit den @@…@@-Markierungen göttlicher Rede. Nach dem Matthäus/Markus-Präzedenzfall ist ein *angelos* ein Bote, nicht Gott; nur die direkte Rede Gottes oder des heiligen Wind/Geistes wird markiert. Die TT verschmilzt Boten-Rede nicht zu göttlicher Rede.
 >
 > 🟢 **YOCHANAN — TT-TRANSLITERATION**
 > - **Ἰωάννης** (*Iōannēs*) = Yochanan (Hebräisch: **Yochanan**, „JHWH hat Gunst erwiesen / JHWH ist gnädig"). Vertraut: Johannes. Die Bedeutung des Namens („JHWH ist gnädig") schwingt mit *charis* im Kapitel mit.
@@ -652,7 +652,7 @@ Und Miryam (Maria) sprach: „Meine Seele macht den Herrn groß,
 > **Notizen**
 >
 > 🔴 **KRITISCH — DAS MAGNIFICAT (V.46-55): MENSCHLICHE REDE, ALS PROSA WIEDERGEGEBEN**
-> - Das Magnificat ist **Marias** Lied (eine Textvariante in einigen wenigen Zeugen, besonders einigen Altlateinern, liest „Elisabeth," aber NA28 liest *Mariam*). Als menschliche Rede ist es NICHT göttlich-markiert (Regel 30). Nach der editorischen Entscheidung (luke.md L-002) ist das Canticum als fließende Prosa verfasst; der Renderer fasst poetische Zeilenumbrüche zusammen, sodass keine manuelle Zeilengliederung verwendet wird. → Für die Struktur des Magnificat und die Hannas-Lied-Grundlage siehe das PROPHEZEIUNGS-Begleitmaterial. **[textkritisch — VERIFIZIERT]**
+> - Das Magnificat ist **Marias** Lied (eine Textvariante in einigen wenigen Zeugen, besonders einigen Altlateinern, liest „Elisabeth," aber NA28 liest *Mariam*). Als menschliche Rede ist es NICHT göttlich-markiert (Regel 30). Das Canticum ist als fließende Prosa verfasst; der Renderer fasst poetische Zeilenumbrüche zusammen, sodass keine manuelle Zeilengliederung verwendet wird. → Für die Struktur des Magnificat und die Hannas-Lied-Grundlage siehe das PROPHEZEIUNGS-Begleitmaterial. **[textkritisch — VERIFIZIERT]**
 >
 > 🟢 **„MACHT GROSS" — *MEGALYNEI* (PS 34,4 WIDERHALL)**
 > - **μεγαλύνει ἡ ψυχή μου τὸν κύριον** (*megalynei hē psychē mou ton kyrion*) = „meine Seele macht den Herrn groß." Eröffnungs-Widerhall von Ps 34,4 (engl. 33,4 LXX) und 1 Sam 2,1. Referent von *kyrios*: JHWH (Wahrscheinlich, Option C). *Psychē* = „Seele, Lebensatem, Selbst."
@@ -886,7 +886,7 @@ Und Zecharyah (Zacharias), sein Vater, wurde erfüllt mit *dem* heiligen {a:Wind
 > **Notizen**
 >
 > 🔴 **KRITISCH — DAS BENEDICTUS (V.68-79): MENSCHLICHE PROPHEZEIUNG, ALS PROSA WIEDERGEGEBEN**
-> - Vers 67 ist die erzählerische Einleitung; das eigentliche Canticum beginnt in V.68. Zacharias' Lied ist **menschliche** prophetische Rede „erfüllt mit *dem* heiligen Wind/Geist" — aber von Zacharias gesprochen, nicht von Gott; es ist daher NICHT göttlich-markiert (Regel 30). Nach der editorischen Entscheidung (luke.md L-002) ist es als fließende Prosa verfasst. → Für die Struktur des Benedictus siehe das PROPHEZEIUNGS-Begleitmaterial. **[theologisch — WAHRSCHEINLICH]**
+> - Vers 67 ist die erzählerische Einleitung; das eigentliche Canticum beginnt in V.68. Zacharias' Lied ist **menschliche** prophetische Rede „erfüllt mit *dem* heiligen Wind/Geist" — aber von Zacharias gesprochen, nicht von Gott; es ist daher NICHT göttlich-markiert (Regel 30). Es ist als fließende Prosa verfasst. → Für die Struktur des Benedictus siehe das PROPHEZEIUNGS-Begleitmaterial. **[theologisch — WAHRSCHEINLICH]**
 >
 > 🟢 **„ERFÜLLT… UND PROPHEZEITE" — *EPLĒSTHĒ… EPROPHĒTEUSEN***
 > - **ἐπλήσθη πνεύματος ἁγίου καὶ ἐπροφήτευσεν** (*eplēsthē pneumatos hagiou kai eprophēteusen*) = „wurde erfüllt mit heiligem Wind/Geist und prophezeite." Dasselbe „erfüllt"-Verb beschreibt Elisabeth (V.41) und wird für Johannes erwartet (V.15) — der Wind/Geist befähigt menschliche Rede, die menschlich bleibt (nicht göttlich-markiert).

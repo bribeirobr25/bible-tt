@@ -75,7 +75,7 @@ Die TT gibt *charis* in der Erzählung als „Gunst" wieder und das Partizip tra
 
 Zwei Lieder unterbrechen die Erzählung: das Magnificat (Miryam, 1,46-55) und das Benedictus (Zecharyah, 1,67-79). Beide sind dicht anspielungsreich auf die HB — das Magnificat arbeitet Channahs (Hannas) Lied (1 Sam 2,1-10) und die Psalmen um; das Benedictus schöpft aus den Bundesverheißungen an Avraham und David und aus den Propheten. In einigen Zeugen (manche altlateinischen) wird das Magnificat „Elisabeth" zugeschrieben; NA28 liest *Mariam*.
 
-Gemäß Regel 30 sind beide Lobgesänge **menschliche** Rede und werden NICHT als göttliche Rede gekennzeichnet; gemäß der redaktionellen Entscheidung (luke.md L-002) werden sie als fließende Prosa verfasst, da der Renderer poetische Zeilenumbrüche zusammenfallen lässt. Die TT erzwingt keine Zeilengliederung, die die Plattform nicht darstellen kann. → Für die Struktur der Lobgesänge und ihre Grundlage in Hannas Lied siehe das PROPHETIE-Begleitmaterial.
+Gemäß Regel 30 sind beide Lobgesänge **menschliche** Rede und werden NICHT als göttliche Rede gekennzeichnet; sie werden als fließende Prosa verfasst, da der Renderer poetische Zeilenumbrüche zusammenfallen lässt. Die TT erzwingt keine Zeilengliederung, die die Plattform nicht darstellen kann. → Für die Struktur der Lobgesänge und ihre Grundlage in Hannas Lied siehe das PROPHETIE-Begleitmaterial.
 
 ### A6. *Angelos kyriou*, Gavriel und der Eliyahu-Auftrag (Elija)
 **[TEXTUELL — VERIFIZIERT]**
@@ -221,7 +221,7 @@ NA28 liest „Und **Mariam** sprach" in 1,46 und ordnet das Magnificat Maria zu,
 
 ## I. Die Welt zur damaligen Zeit
 
-> **Querverweis:** Für den vollständigen Weltkontext in zwei Szenarien mit zehn Kategorien (Politik, Wirtschaft, Alltagsleben, Gesellschaftsstruktur, Bildung, Militär, Kunst, Wissenschaft, Religion, Nachbarvölker) siehe das Johannes-1-Begleitmaterial (Abschnitt I, `de/john/study/CHAPTER-1-CONTEXT.md`). Lukas und Johannes teilen denselben allgemeinen historischen Zeitraum; der Abschnitt zu Johannes 1 bietet die Grundlage. Die folgenden Einträge befassen sich mit den in Lukas 1 in den Vordergrund tretenden spezifischen Umständen.
+> **Querverweis:** Für den vollständigen Weltkontext in zwei Szenarien mit zehn Kategorien (Politik, Wirtschaft, Alltagsleben, Gesellschaftsstruktur, Bildung, Militär, Kunst, Wissenschaft, Religion, Nachbarvölker) siehe das Begleitmaterial zu Johannes 1 (Vertiefen), Abschnitt I. Lukas und Johannes teilen denselben allgemeinen historischen Zeitraum; der Abschnitt zu Johannes 1 bietet die Grundlage. Die folgenden Einträge befassen sich mit den in Lukas 1 in den Vordergrund tretenden spezifischen Umständen.
 
 ---
 
@@ -306,6 +306,4 @@ Nach 70 n. Chr. wurden die mit dem Tempel verbundenen genealogischen Archive (zu
 ---
 
 **Redaktionelle Herkunft:**
-- Entworfen von: KI (Claude, Anthropic)
-- Datum: 2026-06-23
-- Begutachtet von: ausstehend
+- KI-gestützter Entwurf, noch nicht geprüft.
