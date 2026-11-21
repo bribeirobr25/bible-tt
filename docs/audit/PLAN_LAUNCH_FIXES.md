@@ -617,3 +617,43 @@ The prose that states these markings (the PROPHECY/CONTEXT lines listed by revie
   - Two tests pin the provenance heading.
   - The "translation unchanged" filter is defined by zones on the base commit.
   - `de/matthew/CONTEXT.md:70` is a source citation and stays.
+
+### B3.8 As executed — deviations and results (2026-11-21)
+
+- **Scripted classes (B3.1) and L3 (B3.2)** were done by the assistant over whole files, continuous reading included:
+  - mojibake: 4 files;
+  - doubled articles: 11 occurrences, incl. the notes quoting them;
+  - DE Jehudim: 51; PT/ES Yehudim casing: 68;
+  - arrows: 312, more than the sweep's 237 because the sweep skips some zones; the CARD count was unchanged;
+  - stale name policy: 48 Reading Guides plus the Matthew 1 follow-on sentence;
+  - L3 markers removed: Acts 2 (8 per locale), Acts 3, 1 Peter 1–2 (4 each), John 3 (14).
+
+  The ⚠️ → 🟡 fix made the PT/ES Gen 9/12 reception notes parse as notes, as in EN/DE: **conservation 20,676 → 20,679**, now identical across locales. Found on the way: ES John 1 "alef*" → "א*", as in the other locales, and a stray `</invoke>` line in the PT/ES Luke CONTEXT (removed by the Luke helper).
+- **§H/§I move:** 24 files. The orphan §I tables (12/8/8 rows) were merged into §H (4/5/3 rows merged by author + year, the rest added). A parsed-output diff confirmed that no source was lost and every other section is unchanged.
+- **Meta leaks (B3.3)** went to four helpers in their own worktrees, each in one commit. The merges were sequential, with the parity, raw-reconciliation, conservation, people and gate tests run after each:
+  - Genesis `1284051`: provenance 128, log refs + IDs 63, paths 51, tier 22, process 4;
+  - John + Matthew `c329ce2`: IDs/log refs 88, paths 64, provenance 52, tier 44, INTERNAL rows 16 (8 → "See also"), code identifiers 12; one sentence added at the John 3:16 note explaining why vv.16–21 are not marked;
+  - Mark + Luke `8a804a5`: paths 332 (incl. 28 genealogy cells per locale), provenance 155, IDs 64, log refs 22, tier 16, S6b 12, INTERNAL rows 8 per locale;
+  - Acts + 1 Peter `5549823`: IDs 420, log refs 165, paths 300, provenance 232, tier 144, S6b 108, propagation 15, S1b 12, INTERNAL rows 28 per locale, and L3 prose. `@@` was also removed from the PROPHECY "Text says" quotes, and the bare `@@…@@` in Acts 1 prose, which rendered as a red "…".
+- **Follow-ups done by the assistant:**
+  - PT/ES "página … (ainda não/aún no publicada)": gender agreement;
+  - the "see-stub" jargon (27 lines, 4 locales) → reader wording;
+  - DE 1 Peter 4 companion "im *dem* Namen" → "im Namen" (the current verse form; L1 italics come in batch 4).
+- **Gate (B3.4):** `cleared-classes.test.mjs` runs in ≈ 1 s per run after loading. Its allow-list holds 4 reviewed lines: the DE John 1 companion's explanation "nicht *im dem* Anfang", DE *Yehudit* (Judith → batch 5), and EN/PT "propagated/propagada through coins". S15 marker-in-table is narrowed to PEOPLE genealogy headers; S13 also catches singular `yehudi`; the S5d lead phrase is case- and accent-tolerant.
+- **Translation unchanged:** every changed line whose zone at `main` was `main`/`cr` (136 lines, 33 files) was checked. Each differs from the base only by `@@`, Yehudim/Jehudim, or the doubled-article fix. **Unexplained: 0.**
+- **Left as is:**
+  - The unrendered intro paragraphs of the Acts/1 Peter PROPHECY files and John/other PEOPLE preambles (front zone, never shown) still carry IDs, paths and the pre-L3 marking claim. They are internal notes; batch 7 (companions) reviews them.
+  - Matthew background: "GS Ioudaioi-Policy" credited with Option C, and "Type 5" vs its own "Type 4" → batch 4.
+  - PT/DE Genesis 10 self-contrasts ("Egito (não "Egito")") → batch 5.
+  - Luke genealogy cells pointing to Genesis entries beyond chapter 12 → post-launch (Genesis 13–50).
+- **Infrastructure:** the helper worktrees live under `.claude/worktrees/`, now in `.gitignore` and excluded from `tsconfig` so typecheck never sees them.
+- **Sweep 20,079 → 16,604**, diffed by (check, class, render):
+  - **Cleared classes → 0:** S9 (except 2 allow-listed propagation uses), S12, S13 (except Judith), S15 ascii/odd/marker-in-table (retired), S1a/S1b meta, S6b, S6d, S7a doubled, S8, S10, S22 icon.
+  - **S6f → 0 and S6a 89 → 61:** L3.
+  - **S5d stale-policy 148 → 3:** the remaining 3 are the Genesis 9 "(not Ham)" false positive.
+  - **Small side effects:**
+    - S7a whole-contraction +4 (the doubled-article fixes);
+    - S5d repeated-gloss guide +2 / apparatus +3 (the new name-policy sentence's example "Yochanan (John)" and reader phrases; batch 5 handles repeated glosses);
+    - S9 rule-ref −12 (removed with meta text);
+    - S18/S3/S4/S1c/S5c/S11 small shifts from removed meta prose.
+- **Gate:** 1,108 tests / 32 files · lint · typecheck · content-lint · build (516 pages) · conservation 408 / 20,679.
