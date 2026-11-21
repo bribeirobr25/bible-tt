@@ -54,7 +54,7 @@ Este arquivo apresenta informações biográficas sobre figuras que aparecem em 
 **Livros em que aparece:** 1 Pedro; (na identificação) Atos; Colossenses; Filemom; 2 Timóteo; (por atribuição) o Evangelho de Marcos
 **Arco do personagem:** Nesta carta, apenas uma figura de moldura — presente com Pedro e enviando saudações, sua proximidade sinalizada por "meu filho." Seu arco mais amplo (o auxiliar que voltou atrás em Perge, a causa da divisão entre Paulo e Barnabé, mais tarde "útil para o ministério," 2 Tm 4:11) está fora de 1 Pedro e não é desenvolvido aqui.
 
-**Nota:** A página Pessoas e Genealogia de Marcos não traz nenhuma entrada de pessoa para João-Marcos (suas entradas são Yeshua, os Doze e seu círculo imediato — o elenco *narrativo* do evangelho, não seu autor tradicional), de modo que Markos recebe uma breve entrada completa aqui em vez de um stub entre livros. "Meu filho" é lido como linguagem de discipulado; a TT não afirma uma relação biológica. A associação Marcos↔Pedro é a base patrística para o Evangelho de Marcos como testemunho petrino — notada, não pressionada (Regra 3).
+**Nota:** A página Pessoas e Genealogia de Marcos não traz nenhuma entrada de pessoa para João-Marcos (suas entradas são Yeshua, os Doze e seu círculo imediato — o elenco *narrativo* do evangelho, não seu autor tradicional), de modo que Markos recebe uma breve entrada completa aqui em vez de uma remissão. "Meu filho" é lido como linguagem de discipulado; a TT não afirma uma relação biológica. A associação Marcos↔Pedro é a base patrística para o Evangelho de Marcos como testemunho petrino — notada, não pressionada (Regra 3).
 
 ---
 

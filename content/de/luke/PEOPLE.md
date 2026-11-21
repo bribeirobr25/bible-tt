@@ -242,7 +242,7 @@ Diese Datei enthält biografische und genealogische Informationen über Personen
 
 ## Lukas 3,23–38 Genealogie — Übersichtstabelle
 
-Lukas' Genealogie **steigt auf** von Yeshua (Jesus) zu Adam zu Gott — das Gegenteil von Matthäus' absteigender Liste (Mt 1,1–17). Sie umfasst ~76 Namen von Yeshua bis hinauf zu „von Gott". Für Namen mit einer vertrauten deutschen Form wird die vertraute Glosse einmal angegeben; Namen ohne eine eigene vertraute Form erscheinen nur in Transliteration. Querverweise: die Patriarchen (Adam → die Sem-Linie) haben ihre kanonischen Biografien auf **der Seite Personen und Genealogie zu Genesis**; die David-Linie ist mit **der Seite Personen und Genealogie zu Matthäus** verbunden (die obigen Nur-Siehe-Stubs decken die drei Hauptgestalten ab — Yeshua, Yochanan, Miryam).
+Lukas' Genealogie **steigt auf** von Yeshua (Jesus) zu Adam zu Gott — das Gegenteil von Matthäus' absteigender Liste (Mt 1,1–17). Sie umfasst ~76 Namen von Yeshua bis hinauf zu „von Gott". Für Namen mit einer vertrauten deutschen Form wird die vertraute Glosse einmal angegeben; Namen ohne eine eigene vertraute Form erscheinen nur in Transliteration. Querverweise: die Patriarchen (Adam → die Sem-Linie) haben ihre kanonischen Biografien auf **der Seite Personen und Genealogie zu Genesis**; die David-Linie ist mit **der Seite Personen und Genealogie zu Matthäus** verbunden (die kurzen Verweiseinträge oben decken die drei Hauptgestalten ab — Yeshua, Yochanan, Miryam).
 
 | # | Name (Vertraut) | Stelle | Kanonisches Heimatbuch |
 |---|---|---|---|

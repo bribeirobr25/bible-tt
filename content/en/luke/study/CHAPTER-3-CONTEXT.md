@@ -163,7 +163,7 @@ A notable **Western** reading (Codex Bezae [D], some Old Latin and patristic wit
 
 Luke's genealogy diverges sharply from Matthew's, most structurally at the Davidic branch: **Luke runs the line through David's son Natan** (3:31; cf. 2 Sam 5:14; Zech 12:12), whereas **Matthew runs through Shelomoh (Solomon)** (Matt 1:6). The generation immediately above Joseph also differs (Luke: "of Eli"; Matthew: "Jacob fathered Joseph"), and the two lists share only a few names (notably Zerubbavel/She'altiel) across the post-exilic stretch. Luke's list also includes a second **Qenan** (3:36) present in the LXX of Genesis 11:12-13 but absent from the Hebrew Masoretic text; and at 3:33 NA28 reads Admin/Arni where other witnesses read "Aram."
 
-Proposed harmonizations — Luke gives Mary's line; levirate marriage producing two fathers; legal vs. biological descent — are all contested, and none commands consensus. The TT renders Luke's list as the Greek gives it and flags the divergence for review. The full table and cross-book see-stubs live on the Luke people page. **[historical — POSSIBLE]**
+Proposed harmonizations — Luke gives Mary's line; levirate marriage producing two fathers; legal vs. biological descent — are all contested, and none commands consensus. The TT renders Luke's list as the Greek gives it and flags the divergence for review. The full table and the cross-references to other books live on the Luke people page. **[historical — POSSIBLE]**
 
 **Source:** Marshall, I.H., *The Gospel of Luke*, NIGTC, Eerdmans, 1978, pp. 157-165; Bauckham, R., *Jude and the Relatives of Jesus in the Early Church*, T&T Clark, 1990, pp. 315-373.
 

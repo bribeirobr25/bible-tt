@@ -54,7 +54,7 @@ This file presents biographical information about figures appearing in 1 Peter. 
 **Books appearing in:** 1 Peter; (on the identification) Acts; Colossians; Philemon; 2 Timothy; (by attribution) the Gospel of Mark
 **Character arc:** In this letter, a frame figure only — present with Peter and sending greetings, his closeness signaled by "my son." His wider arc (the assistant who turned back at Perga, the cause of the Paul–Barnabas split, later "useful for ministry," 2 Tim 4:11) lies outside 1 Peter and is not developed here.
 
-**Note:** The Mark people page carries no John-Mark person entry (its entries are Yeshua, the Twelve, and their immediate circle — the gospel's *narrative* cast, not its traditional author), so Markos receives a brief full entry here rather than a cross-book stub. "My son" is read as discipleship language; the TT does not assert a biological relationship. The Mark↔Peter association is the patristic basis for the Gospel of Mark as Petrine testimony — noted, not pressed (Rule 3).
+**Note:** The Mark people page carries no John-Mark person entry (its entries are Yeshua, the Twelve, and their immediate circle — the gospel's *narrative* cast, not its traditional author), so Markos receives a brief full entry here rather than a cross-reference entry. "My son" is read as discipleship language; the TT does not assert a biological relationship. The Mark↔Peter association is the patristic basis for the Gospel of Mark as Petrine testimony — noted, not pressed (Rule 3).
 
 ---
 

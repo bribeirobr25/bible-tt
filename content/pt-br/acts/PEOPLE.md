@@ -109,7 +109,7 @@ Este arquivo apresenta informações biográficas sobre figuras que aparecem em 
 **Eventos-chave em Atos 1-3:** Os onze se reúnem no cenáculo e perseveram em oração (1:13-14); estabelecem os critérios para e supervisionam a substituição de Yehudah Iscariotes (1:15-26); Kefa "de pé com os onze" prega em Pentecostes (2:14), e a comunidade se dedica "ao ensino dos apóstolos" (2:42); Kefa e Yochanan, a dupla recorrente, curam no templo (3:1-11).
 **Status de historicidade:** a existência de um círculo íntimo de doze apóstolos nomeados em torno de Yeshua é PROVÁVEL (independentemente enraizada nas tradições evangélica e paulina, 1 Co 15:5); biografias individuais variam em atestação.
 **Livros em que aparece:** Atos; os evangelhos (elencos em Mc 3:16-19; Mt 10:2-4; Lc 6:14-16)
-**Nota (entrada coletiva):** Esta é uma breve nota coletiva; os apóstolos individuais trazem suas entradas nos arquivos PEOPLE dos evangelhos (ver as referências-stub abaixo e o elenco de Marcos). Restaurar os Doze ao seu número completo antes de Pentecostes é uma restauração deliberada da estrutura tribal de Israel (cf. Nm 1; a escolha por sorte, 1 Sm 10:20-21) — o povo de Deus reconstituído antes do derramamento do Espírito (cap. 2).
+**Nota (entrada coletiva):** Esta é uma breve nota coletiva; os apóstolos individuais trazem suas entradas nos arquivos PEOPLE dos evangelhos (ver as remissões abaixo e o elenco de Marcos). Restaurar os Doze ao seu número completo antes de Pentecostes é uma restauração deliberada da estrutura tribal de Israel (cf. Nm 1; a escolha por sorte, 1 Sm 10:20-21) — o povo de Deus reconstituído antes do derramamento do Espírito (cap. 2).
 
 ---
 

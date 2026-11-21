@@ -163,7 +163,7 @@ Uma notável leitura **ocidental** (Códice Beza [D], parte do latim antigo e te
 
 A genealogia de Lucas diverge fortemente da de Mateus, mais estruturalmente no ramo davídico: **Lucas faz a linha correr pelo filho de David, Natan** (3:31; cf. 2 Sm 5:14; Zc 12:12), ao passo que **Mateus corre por Shelomoh (Salomão)** (Mt 1:6). A geração imediatamente acima de José também difere (Lucas: "de Eli"; Mateus: "Jacó gerou José"), e as duas listas compartilham apenas alguns nomes (notavelmente Zerubbavel/She'altiel) ao longo do trecho pós-exílico. A lista de Lucas também inclui um segundo **Qenan** (3:36) presente na LXX de Gênesis 11:12-13 mas ausente do texto hebraico massorético; e em 3:33 o NA28 lê Admin/Arni onde outras testemunhas leem "Aram."
 
-As harmonizações propostas — Lucas dá a linha de Maria; casamento levirático produzindo dois pais; descendência legal vs. biológica — são todas contestadas, e nenhuma comanda consenso. A TT traduz a lista de Lucas como o grego a dá e sinaliza a divergência para revisão. A tabela completa e os see-stubs entre livros estão na página Pessoas e Genealogia de Lucas. **[histórico — POSSÍVEL]**
+As harmonizações propostas — Lucas dá a linha de Maria; casamento levirático produzindo dois pais; descendência legal vs. biológica — são todas contestadas, e nenhuma comanda consenso. A TT traduz a lista de Lucas como o grego a dá e sinaliza a divergência para revisão. A tabela completa e as remissões para outros livros estão na página Pessoas e Genealogia de Lucas. **[histórico — POSSÍVEL]**
 
 **Fonte:** Marshall, I.H., *The Gospel of Luke*, NIGTC, Eerdmans, 1978, pp. 157-165; Bauckham, R., *Jude and the Relatives of Jesus in the Early Church*, T&T Clark, 1990, pp. 315-373.
 

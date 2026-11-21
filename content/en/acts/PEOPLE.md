@@ -109,7 +109,7 @@ This file presents biographical information about figures appearing in Acts. All
 **Key events in Acts 1–3:** The eleven gather in the upper room and persevere in prayer (1:13-14); they set the criteria for and oversee the replacement of Yehudah Iscariot (1:15-26); Kefa "standing with the eleven" preaches at Pentecost (2:14), and the community devotes itself to "the teaching of the apostles" (2:42); Kefa and Yochanan, the recurring pair, heal at the temple (3:1-11).
 **Historicity status:** the existence of an inner circle of twelve named apostles around Yeshua is PROBABLE (independently rooted in the gospel and Pauline traditions, 1 Cor 15:5); individual biographies vary in attestation.
 **Books appearing in:** Acts; the gospels (rosters at Mark 3:16-19; Matt 10:2-4; Luke 6:14-16)
-**Note (collective entry):** This is a brief collective note; the individual apostles carry their entries in the gospel PEOPLE files (see the cross-book stubs below and the Mark roster). Restoring the Twelve to its full number before Pentecost is a deliberate restoration of Israel's tribal structure (cf. Num 1; the choice by lot, 1 Sam 10:20-21) — the people of God reconstituted ahead of the Spirit's outpouring (ch. 2).
+**Note (collective entry):** This is a brief collective note; the individual apostles carry their entries in the gospel PEOPLE files (see the cross-reference entries below and the Mark roster). Restoring the Twelve to its full number before Pentecost is a deliberate restoration of Israel's tribal structure (cf. Num 1; the choice by lot, 1 Sam 10:20-21) — the people of God reconstituted ahead of the Spirit's outpouring (ch. 2).
 
 ---
 
