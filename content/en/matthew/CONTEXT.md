@@ -19,19 +19,17 @@
 
 For the related-but-distinct claim about the breadth of OT books quoted, see M-M5 (OT-source-breadth).
 
-Matthew embeds prophetic citations in a formulaic frame that is itself the device. The editorial-log Entry M-001 (Fulfillment Formula Policy) codifies six formula types; within Matthew 1–3, four are exemplified, totaling six quotation events.
+Matthew embeds prophetic citations in a formulaic frame that is itself the device. The TT's Fulfillment Formula Policy codifies six formula types; within Matthew 1–3, four are exemplified, totaling six quotation events.
 
 **Type 1 — Direct (*hina plērōthē*, "so that it might be fulfilled").** Matthew 1:22 introduces the Isaiah 7:14 citation: "all this happened so that it might be fulfilled what was spoken by the Lord through the prophet." This is the canonical purpose-clause formula.
 
-**Type 2 — Modified.** Matthew 2:6 cites Micah 5:1 but modifies it ("you are by no means least") and blends it with 2 Samuel 5:2 ("you shall shepherd my people Israel"). The composite is presented as if a single quotation. The TT preserves the modification with a Tier 2 note flagging both source verses.
+**Type 2 — Modified.** Matthew 2:6 cites Micah 5:1 but modifies it ("you are by no means least") and blends it with 2 Samuel 5:2 ("you shall shepherd my people Israel"). The composite is presented as if a single quotation. The TT preserves the modification with a note flagging both source verses.
 
 **Type 3 — Temporal-resultive (*tote eplērōthē*, "then was fulfilled").** Matthew 2:17 introduces the Jeremiah 31:15 citation with a different formula: "then was fulfilled what was spoken by Jeremiah the prophet, saying..." The temporal "then" replaces the purpose "so that," changing the hermeneutic shading — the event is matched to the prophecy retrospectively rather than caused by it.
 
 **Type 4 — Unidentified.** Matthew 2:23 uses "so that it might be fulfilled what was spoken by the prophets, that he should be called a *Natsri*." No single OT prophet says this; the source has been variously identified (Isa 11:1 *netser*, "branch"; Judg 13:5/16:17 *nazir*, "Nazirite"; a no-longer-extant source). The TT preserves the puzzle rather than resolving it — the unidentified citation is itself the data.
 
 Matthew 1:22, 2:5–6, 2:15, 2:17–18, 2:23, and 3:3 (Isa 40:3) together establish the chain. Across just three chapters, the Gospel uses fulfillment-formula citation as the principal mode of OT engagement. The motif is the Gospel's hermeneutical fingerprint — readers are invited to read Yeshua's biography as the prophetic-canon's culmination.
-
-**Source:** `docs/editorial-log/matthew.md` Entry M-001 (Fulfillment Formula Policy — 6 formula types codified for the entire Gospel).
 
 ---
 
@@ -63,15 +61,13 @@ The cumulative effect: a *toledot* in genre, a triple-fourteen in structure, a p
 
 The Gospel's most cross-language-sensitive passages preserve dual readings between the Greek surface and the Hebrew source. The TT renders these as slash-pairs or transliteration-pairs to keep both layers visible. Three in-scope cases:
 
-**Matthew 1:23 — *parthenos* / *almah***. The Isaiah 7:14 citation appears in Greek as *parthenos* ("virgin"), which is how the LXX renders the Hebrew *almah* ("young woman of marriageable age"). The Greek narrows the Hebrew. The editorial-log Entry M-002 codifies Option B (slash rendering: "virgin/young woman") to preserve both layers at the point of reading rather than relegating one to a note. The decision was reception-sensitive: the verse is the single most-debated Hebrew-Greek translation point in the New Testament; concealing the Hebrew layer behind a note "risks the appearance of choosing sides" (M-002).
+**Matthew 1:23 — *parthenos* / *almah***. The Isaiah 7:14 citation appears in Greek as *parthenos* ("virgin"), which is how the LXX renders the Hebrew *almah* ("young woman of marriageable age"). The Greek narrows the Hebrew. The TT adopts Option B (slash rendering: "virgin/young woman") to preserve both layers at the point of reading rather than relegating one to a note. The decision was reception-sensitive: the verse is the single most-debated Hebrew-Greek translation point in the New Testament; concealing the Hebrew layer behind a note "risks the appearance of choosing sides."
 
 **Matthew 1:23 — Immanu'el**. The same verse contains a name-and-gloss double: Greek "*Emmanouēl*" + translation "which is, being interpreted, *God with us*." Matthew transliterates the Hebrew name AND glosses it within the same verse. The dual presentation is structural; the TT preserves both the transliteration (*Immanu'el*) and the gloss across all four locales.
 
-**Matthew 3:3 — kyrios / YHWH**. The Isaiah 40:3 citation says "prepare the way of *kyrios*" in Greek. The Hebrew source has *YHWH*. The TT's GS Ioudaioi-Policy Option C governs *kyrios* in OT-quotation contexts: render "the Lord" + Tier 2 note flagging the underlying YHWH. The dual-layer is preserved by note rather than by slash.
+**Matthew 3:3 — kyrios / YHWH**. The Isaiah 40:3 citation says "prepare the way of *kyrios*" in Greek. The Hebrew source has *YHWH*. The TT's GS Ioudaioi-Policy Option C governs *kyrios* in OT-quotation contexts: render "the Lord" + a note flagging the underlying YHWH. The dual-layer is preserved by note rather than by slash.
 
 The pattern is editorial discipline. Matthew's Greek is in dialogue with the Hebrew it quotes; the TT refuses to flatten the dialogue to a single layer. The motif consolidates the cases where the TT actively foregrounds the Greek-Hebrew dual reading rather than smoothing it.
-
-**Source:** `docs/editorial-log/matthew.md` Entry M-002 (parthenos/almah slash policy).
 
 ---
 
@@ -80,7 +76,7 @@ The pattern is editorial discipline. Matthew's Greek is in dialogue with the Heb
 **[TEXTUAL — VERIFIED]**
 **Chapters:** 1, 2
 
-Matthew 1–2 contains four divine-dream revelations, all framed by the same Greek phrase *angelos kyriou* ("messenger of the Lord"). The pattern is editorial-logged as Entry M-004 (Angelos Kyriou — Formulaic Narrative) — classified as a formulaic narrative phrase echoing the LXX/HB *mal'akh YHWH*, NOT a direct OT quotation. The classification matters: M-004 explicitly notes that *angelos kyriou* does NOT trigger the Option C YHWH note requirement (which applies only to direct OT citations).
+Matthew 1–2 contains four divine-dream revelations, all framed by the same Greek phrase *angelos kyriou* ("messenger of the Lord"). The pattern is classified as a formulaic narrative phrase echoing the LXX/HB *mal'akh YHWH*, NOT a direct OT quotation. The classification matters: *angelos kyriou* does NOT trigger the Option C YHWH note requirement (which applies only to direct OT citations).
 
 **Matthew 1:20–24 — the first dream**. After Yosef decides to dismiss Maria quietly, "an *angelos kyriou* appeared to him in a dream, saying, 'Yosef, son of David, do not fear to take Maria as your wife...'" The dream contains an instruction, an explanation (the child is from the holy *pneuma*), and a name-command ("you shall call his name Yeshua"). Yosef wakes and obeys.
 
@@ -91,8 +87,6 @@ Matthew 1–2 contains four divine-dream revelations, all framed by the same Gre
 **Matthew 2:22 — the fourth revelation**. Yosef "was warned in a dream" to retire to the Galil — same structural slot, but the formulaic phrase *angelos kyriou* is here implicit rather than named (the narrative compresses).
 
 The pattern's narrative function: Yosef is the silent agent of divine direction. The four dreams structure his arc from "the husband of Maria" to "the legal father of Yeshua" without him speaking a single word in any of the chapters. The motif is a dream-revelation formula carried across both chapters that maps the Gospel's birth narrative onto the Hebrew Bible's tradition of revelatory dreams (Avraham, Yosef the patriarch, Daniel).
-
-**Source:** `docs/editorial-log/matthew.md` Entry M-004 (*angelos kyriou* Formulaic Narrative classification).
 
 ---
 
@@ -113,7 +107,7 @@ Six OT citations in Matthew 1–3 span the full prophetic canon — major prophe
 
 **Matthew 2:18 — Jeremiah 31:15**. Major prophet, lament-historical. "A voice was heard in Ramah... Rachel weeping for her children, refusing to be comforted, because they are no more." Jeremiah's verse originally lamented the exile of the northern tribes; Matthew applies it to Herodes's slaughter of the infants. The Gospel's most sorrowful citation.
 
-**Matthew 2:23 — Unresolved Natsri source**. "He shall be called a *Natsri*" — no single OT prophet says this. The unresolved citation is itself the data (M-001 classifies it as Type 5 of the six formula types). The TT preserves the unresolved status rather than choosing among Isa 11:1, Judg 13:5/16:17, or an unknown source.
+**Matthew 2:23 — Unresolved Natsri source**. "He shall be called a *Natsri*" — no single OT prophet says this. The unresolved citation is itself the data (Type 5 of the six formula types). The TT preserves the unresolved status rather than choosing among Isa 11:1, Judg 13:5/16:17, or an unknown source.
 
 **Matthew 3:3 — Isaiah 40:3**. Major prophet (again), wilderness-voice prologue. The citation introduces Yochanan and closes the cycle by quoting the SAME prophet who opened it (Isaiah).
 

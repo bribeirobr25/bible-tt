@@ -223,7 +223,7 @@ Matthäus' Formulierung macht die Erklärung öffentlich — sie handelt über J
 
 ## I. Die Welt zur damaligen Zeit
 
-> **Querverweis:** Für den vollständigen Zwei-Szenario-, Zehn-Kategorien-Weltkontext (Politisch, Wirtschaft, Alltag, Sozialstruktur, Bildung, Militär, Künste, Wissenschaft, Religion, Nachbarvölker) siehe das Johannes-1-Begleitmaterial (Abschnitt I, `de/john/study/CHAPTER-1-CONTEXT.md`). Die folgenden Einträge behandeln die spezifischen Umstände, die in Matthäus 3 im Vordergrund stehen. Für den vollständigen Kontext siehe Johannes 1 Begleitmaterial Abschnitt I.
+> **Querverweis:** Für den vollständigen Zwei-Szenario-, Zehn-Kategorien-Weltkontext (Politisch, Wirtschaft, Alltag, Sozialstruktur, Bildung, Militär, Künste, Wissenschaft, Religion, Nachbarvölker) siehe das Begleitmaterial zu Johannes 1 (Vertiefen), Abschnitt I. Die folgenden Einträge behandeln die spezifischen Umstände, die in Matthäus 3 im Vordergrund stehen. Für den vollständigen Kontext siehe Johannes 1 Begleitmaterial Abschnitt I.
 
 ---
 
@@ -308,6 +308,4 @@ Der wirtschaftliche Druck, der Menschen zur Untertauchung Johanans am Jordan tri
 ---
 
 **Redaktionelle Herkunft:**
-- Entworfen von: KI (Claude, Anthropic)
-- Datum: 2026-04-27
-- Begutachtet von: ausstehend
+- KI-gestützter Entwurf, noch nicht geprüft.

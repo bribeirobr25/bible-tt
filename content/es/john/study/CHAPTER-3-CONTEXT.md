@@ -226,6 +226,4 @@ La rica diversidad de prácticas de inmersión documentada en el contexto de Jua
 ---
 
 **Procedencia editorial:**
-- Redactado por: Claude Opus 4.6 (asistente de IA)
-- Fecha: 2026-04-27
-- Revisado por: pendiente
+- Borrador asistido por IA, aún no revisado.

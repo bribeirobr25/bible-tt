@@ -84,7 +84,7 @@ Este archivo presenta información biográfica y genealógica sobre figuras que 
 **Origen:** hijo de Yishai (Jesé) de Belén, tribu de Judá
 **Primera mención en Mateo:** 1:1
 **En Mateo:** Nombrado en el encabezado de la genealogía (1:1 — "hijo de David"), en 1:6 como el rey que engendró a Salomón de la esposa de Uriyah, y en 1:17 como el pivote estructural de la genealogía (Abraham a David = 14 generaciones; David a la deportación = 14; deportación al ungido = 14). "Hijo de David" se convierte en un título mesiánico recurrente a lo largo de Mateo (9:27; 12:23; 15:22; 20:30–31; 21:9, 15; 22:42).
-**Referencia cruzada:** La entrada completa aparecerá en samuel/PEOPLE.md o kings/PEOPLE.md cuando esos libros sean traducidos.
+**Referencia cruzada:** La entrada completa aparecerá en la página Personas y Genealogía de Samuel o de Reyes cuando esos libros sean traducidos.
 
 ---
 
@@ -93,7 +93,7 @@ Este archivo presenta información biográfica y genealógica sobre figuras que 
 **Origen:** hijo de David y Bat-Sheva (2 Sam 12:24)
 **Primera mención en Mateo:** 1:6–7
 **En Mateo:** Nombrado en la genealogía (1:6–7) como hijo de David (de la esposa de Uriyah) y padre de Rechav'am (Roboam). A través de Salomón la línea real continúa hasta la deportación babilónica.
-**Referencia cruzada:** La entrada completa aparecerá en kings/PEOPLE.md cuando ese libro sea traducido.
+**Referencia cruzada:** La entrada completa aparecerá en la página Personas y Genealogía de Reyes cuando ese libro sea traducido.
 
 ---
 
@@ -277,4 +277,4 @@ Este archivo presenta información biográfica y genealógica sobre figuras que 
 - **PEER-REVIEWED (lexicon)** — BDAG, *A Greek-English Lexicon of the New Testament*, 3ª ed.; HALOT, *The Hebrew and Aramaic Lexicon of the Old Testament*.
 - **PEER-REVIEWED (commentary)** — Davies, W.D. y Allison, D.C., *A Critical and Exegetical Commentary on the Gospel of Matthew* (ICC, 1988); Luz, U., *Matthew 1–7* (Hermeneia, 2007).
 
-> **Procedencia editorial:** Redactado por Claude Opus 4.6 (contexto 1M) el 27-04-2026. Sin revisión. Este archivo es un recurso académico provisional gobernado por la Regla 29 de la TT. Las referencias cruzadas a genesis/PEOPLE.md enlazan a entradas existentes en lugar de duplicar contenido.
+> **Procedencia editorial:** Borrador asistido por IA, aún no revisado. Este archivo es un recurso académico provisional gobernado por la Regla 29 de la TT. Las referencias cruzadas a la página Personas y Genealogía de Génesis enlazan a entradas existentes en lugar de duplicar contenido.

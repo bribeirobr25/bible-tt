@@ -140,7 +140,7 @@ Joh 3,30: ἐκεῖνον δεῖ αὐξάνειν, ἐμὲ δὲ ἐλαττ
 
 ## I. Die Welt zur damaligen Zeit
 
-> **Für den vollständigen Kontext siehe Johannes 1 Begleitmaterial Abschnitt I.** Der vollständige historische Kontext in zwei Szenarien mit zehn Kategorien (Politisch, Wirtschaft, Alltagsleben, Gesellschaftsstruktur, Bildung, Militär, Künste, Wissenschaft, Religion, Nachbarvölker) ist im Begleitmaterial zu Johannes 1 (`de/john/study/CHAPTER-1-CONTEXT.md`) verfügbar. Die folgenden Einträge befassen sich mit den in Johannes 3 in den Vordergrund tretenden historischen Umständen.
+> **Für den vollständigen Kontext siehe Johannes 1 Begleitmaterial Abschnitt I.** Der vollständige historische Kontext in zwei Szenarien mit zehn Kategorien (Politisch, Wirtschaft, Alltagsleben, Gesellschaftsstruktur, Bildung, Militär, Künste, Wissenschaft, Religion, Nachbarvölker) ist im Begleitmaterial zu Johannes 1 (Vertiefen) verfügbar. Die folgenden Einträge befassen sich mit den in Johannes 3 in den Vordergrund tretenden historischen Umständen.
 
 ---
 
@@ -226,6 +226,4 @@ Die reiche Vielfalt der in Johannes 3 dokumentierten Untertauchpraktiken (Yohann
 ---
 
 **Redaktionelle Herkunft:**
-- Erstellt von: Claude Opus 4.6 (KI-Assistent)
-- Datum: 2026-04-27
-- Überprüft von: ausstehend
+- KI-gestützter Entwurf, noch nicht geprüft.

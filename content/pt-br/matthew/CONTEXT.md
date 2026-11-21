@@ -19,19 +19,17 @@
 
 Para a reivindicação relacionada-mas-distinta sobre a amplitude dos livros do AT citados, veja M-M5 (Amplitude-de-fontes-do-AT).
 
-Mateus insere citações proféticas em um enquadramento formulaico que é em si o recurso. A entrada do log editorial M-001 (Política de Fórmula de Cumprimento) codifica seis tipos de fórmula; dentro de Mateus 1–3, quatro são exemplificados, totalizando seis eventos de citação.
+Mateus insere citações proféticas em um enquadramento formulaico que é em si o recurso. A Política de Fórmula de Cumprimento da TT codifica seis tipos de fórmula; dentro de Mateus 1–3, quatro são exemplificados, totalizando seis eventos de citação.
 
 **Tipo 1 — Direto (*hina plērōthē*, "para que se cumprisse").** Mateus 1:22 introduz a citação de Isaías 7:14: "tudo isto aconteceu para que se cumprisse o que foi dito pelo Senhor através do profeta." Esta é a fórmula canônica de cláusula-finalidade.
 
-**Tipo 2 — Modificado.** Mateus 2:6 cita Miqueias 5:1 mas o modifica ("de modo algum és a menor") e o mescla com 2 Samuel 5:2 ("tu pastorearás o meu povo Israel"). O composto é apresentado como se fosse uma única citação. A TT preserva a modificação com uma nota Tier 2 sinalizando ambos os versículos de origem.
+**Tipo 2 — Modificado.** Mateus 2:6 cita Miqueias 5:1 mas o modifica ("de modo algum és a menor") e o mescla com 2 Samuel 5:2 ("tu pastorearás o meu povo Israel"). O composto é apresentado como se fosse uma única citação. A TT preserva a modificação com uma nota sinalizando ambos os versículos de origem.
 
 **Tipo 3 — Resultivo-temporal (*tote eplērōthē*, "então foi cumprido").** Mateus 2:17 introduz a citação de Jeremias 31:15 com uma fórmula diferente: "então foi cumprido o que foi dito por Jeremias o profeta, dizendo..." O "então" temporal substitui o "para que" finalístico, mudando o tom hermenêutico — o evento é correspondido à profecia retrospectivamente em vez de causado por ela.
 
 **Tipo 4 — Não identificado.** Mateus 2:23 usa "para que se cumprisse o que foi dito pelos profetas, que ele seria chamado *Natsri*." Nenhum único profeta do AT diz isso; a fonte tem sido variavelmente identificada (Is 11:1 *netser*, "ramo"; Jz 13:5/16:17 *nazir*, "Nazireu"; uma fonte não mais existente). A TT preserva o enigma em vez de resolvê-lo — a citação não identificada é em si o dado.
 
 Mateus 1:22, 2:5–6, 2:15, 2:17–18, 2:23 e 3:3 (Is 40:3) juntos estabelecem a cadeia. Através de apenas três capítulos, o Evangelho usa a citação de fórmula-de-cumprimento como o modo principal de engajamento com o AT. O motivo é a impressão digital hermenêutica do Evangelho — leitores são convidados a ler a biografia de Yeshua como a culminação do cânon profético.
-
-**Fonte:** `docs/editorial-log/matthew.md` Entrada M-001 (Política de Fórmula de Cumprimento — 6 tipos de fórmula codificados para o Evangelho inteiro).
 
 ---
 
@@ -63,15 +61,13 @@ O efeito cumulativo: um *toledot* em gênero, um triple-catorze em estrutura, um
 
 As passagens mais sensíveis ao cruzamento entre línguas do Evangelho preservam leituras duplas entre a superfície grega e a fonte hebraica. A TT as traduz como pares-de-barra ou pares-de-transliteração para manter ambas as camadas visíveis. Três casos dentro do escopo:
 
-**Mateus 1:23 — *parthenos* / *almah***. A citação de Isaías 7:14 aparece em grego como *parthenos* ("virgem"), que é como a LXX traduz o hebraico *almah* ("mulher jovem em idade casadoura"). O grego estreita o hebraico. A entrada do log editorial M-002 codifica a Opção B (renderização-de-barra: "virgem/jovem mulher") para preservar ambas as camadas no ponto de leitura em vez de relegar uma a uma nota. A decisão era sensível à recepção: o versículo é o ponto de tradução hebraico-grego mais debatido no Novo Testamento; esconder a camada hebraica atrás de uma nota "corre o risco de parecer escolher lados" (M-002).
+**Mateus 1:23 — *parthenos* / *almah***. A citação de Isaías 7:14 aparece em grego como *parthenos* ("virgem"), que é como a LXX traduz o hebraico *almah* ("mulher jovem em idade casadoura"). O grego estreita o hebraico. A TT adota a Opção B (renderização-de-barra: "virgem/jovem mulher") para preservar ambas as camadas no ponto de leitura em vez de relegar uma a uma nota. A decisão era sensível à recepção: o versículo é o ponto de tradução hebraico-grego mais debatido no Novo Testamento; esconder a camada hebraica atrás de uma nota "corre o risco de parecer escolher lados."
 
 **Mateus 1:23 — Immanu'el**. O mesmo versículo contém um duplo nome-e-glosa: grego "*Emmanouēl*" + tradução "que é, sendo interpretado, *Deus conosco*." Mateus translitera o nome hebraico E o glosa dentro do mesmo versículo. A apresentação dupla é estrutural; a TT preserva tanto a transliteração (*Immanu'el*) quanto a glosa em todos os quatro locais.
 
-**Mateus 3:3 — kyrios / YHWH**. A citação de Isaías 40:3 diz "preparai o caminho de *kyrios*" em grego. A fonte hebraica tem *YHWH*. A Opção C da Política Ioudaioi GS da TT governa *kyrios* em contextos de citação do AT: renderizar "o Senhor" + nota Tier 2 sinalizando o YHWH subjacente. A camada dupla é preservada por nota em vez de por barra.
+**Mateus 3:3 — kyrios / YHWH**. A citação de Isaías 40:3 diz "preparai o caminho de *kyrios*" em grego. A fonte hebraica tem *YHWH*. A Opção C da Política Ioudaioi GS da TT governa *kyrios* em contextos de citação do AT: renderizar "o Senhor" + uma nota sinalizando o YHWH subjacente. A camada dupla é preservada por nota em vez de por barra.
 
 O padrão é disciplina editorial. O grego de Mateus está em diálogo com o hebraico que ele cita; a TT se recusa a achatar o diálogo para uma única camada. O motivo consolida os casos onde a TT ativamente destaca a leitura dupla grego-hebraico em vez de suavizá-la.
-
-**Fonte:** `docs/editorial-log/matthew.md` Entrada M-002 (política de barra parthenos/almah).
 
 ---
 
@@ -80,7 +76,7 @@ O padrão é disciplina editorial. O grego de Mateus está em diálogo com o heb
 **[TEXTUAL — VERIFICADO]**
 **Capítulos:** 1, 2
 
-Mateus 1–2 contém quatro revelações em sonho divino, todas enquadradas pela mesma frase grega *angelos kyriou* ("mensageiro do Senhor"). O padrão está registrado no log editorial como Entrada M-004 (Angelos Kyriou — Narrativa Formulaica) — classificado como uma frase narrativa formulaica ecoando o *mal'akh YHWH* da LXX/BH, NÃO uma citação direta do AT. A classificação importa: M-004 explicitamente nota que *angelos kyriou* NÃO aciona a exigência da nota YHWH da Opção C (que se aplica apenas a citações diretas do AT).
+Mateus 1–2 contém quatro revelações em sonho divino, todas enquadradas pela mesma frase grega *angelos kyriou* ("mensageiro do Senhor"). O padrão é classificado como uma frase narrativa formulaica ecoando o *mal'akh YHWH* da LXX/BH, NÃO uma citação direta do AT. A classificação importa: *angelos kyriou* NÃO aciona a exigência da nota YHWH da Opção C (que se aplica apenas a citações diretas do AT).
 
 **Mateus 1:20–24 — o primeiro sonho**. Após Yosef decidir despedir Maria silenciosamente, "um *angelos kyriou* apareceu-lhe em sonho, dizendo, 'Yosef, filho de David, não temas tomar Maria como tua mulher...'" O sonho contém uma instrução, uma explicação (a criança é do *pneuma* santo), e um comando-de-nome ("e chamarás o seu nome Yeshua"). Yosef acorda e obedece.
 
@@ -91,8 +87,6 @@ Mateus 1–2 contém quatro revelações em sonho divino, todas enquadradas pela
 **Mateus 2:22 — a quarta revelação**. Yosef "foi avisado em sonho" para se retirar para a Galileia — mesmo encaixe estrutural, mas a frase formulaica *angelos kyriou* está aqui implícita em vez de nomeada (a narrativa comprime).
 
 A função narrativa do padrão: Yosef é o agente silencioso da direção divina. Os quatro sonhos estruturam seu arco de "o marido de Maria" para "o pai legal de Yeshua" sem que ele fale uma única palavra em nenhum dos capítulos. O motivo é uma fórmula de revelação-em-sonho carregada através de ambos os capítulos que mapeia a narrativa de nascimento do Evangelho na tradição da Bíblia Hebraica de sonhos revelatórios (Avraham, Yosef o patriarca, Daniel).
-
-**Fonte:** `docs/editorial-log/matthew.md` Entrada M-004 (classificação de Narrativa Formulaica *angelos kyriou*).
 
 ---
 
@@ -113,7 +107,7 @@ Seis citações do AT em Mateus 1–3 abrangem o cânon profético completo — 
 
 **Mateus 2:18 — Jeremias 31:15**. Profeta maior, lamento-histórico. "Uma voz foi ouvida em Ramá... Raquel chorando por seus filhos, recusando ser consolada, porque já não são." O versículo de Jeremias originalmente lamentava o exílio das tribos do norte; Mateus o aplica ao massacre dos infantes por Herodes. A citação mais dolorosa do Evangelho.
 
-**Mateus 2:23 — Fonte Natsri não resolvida**. "Ele será chamado *Natsri*" — nenhum único profeta do AT diz isso. A citação não resolvida é em si o dado (M-001 a classifica como Tipo 5 dos seis tipos de fórmula). A TT preserva o status não resolvido em vez de escolher entre Is 11:1, Jz 13:5/16:17 ou uma fonte desconhecida.
+**Mateus 2:23 — Fonte Natsri não resolvida**. "Ele será chamado *Natsri*" — nenhum único profeta do AT diz isso. A citação não resolvida é em si o dado (Tipo 5 dos seis tipos de fórmula). A TT preserva o status não resolvido em vez de escolher entre Is 11:1, Jz 13:5/16:17 ou uma fonte desconhecida.
 
 **Mateus 3:3 — Isaías 40:3**. Profeta maior (novamente), prólogo voz-no-deserto. A citação introduz Yochanan e fecha o ciclo citando o MESMO profeta que o abriu (Isaías).
 

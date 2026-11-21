@@ -229,7 +229,7 @@ Die Zählung der Namen im dritten Satz (Exil bis Gesalbter) ergibt in den meiste
 
 ## I. Die Welt zur damaligen Zeit
 
-> **Für den vollständigen Kontext siehe Johannes 1 Begleitmaterial Abschnitt I.** Johannes und Matthäus teilen denselben allgemeinen historischen Zeitraum; das Begleitmaterial zu Johannes 1 (`de/john/study/CHAPTER-1-CONTEXT.md`) bietet den vollständigen Kontext in zwei Szenarien mit zehn Kategorien. Die folgenden Einträge befassen sich mit den in Matthäus 1 in den Vordergrund tretenden spezifischen Umständen.
+> **Für den vollständigen Kontext siehe Johannes 1 Begleitmaterial Abschnitt I.** Johannes und Matthäus teilen denselben allgemeinen historischen Zeitraum; das Begleitmaterial zu Johannes 1 (Vertiefen) bietet den vollständigen Kontext in zwei Szenarien mit zehn Kategorien. Die folgenden Einträge befassen sich mit den in Matthäus 1 in den Vordergrund tretenden spezifischen Umständen.
 
 ---
 
@@ -302,6 +302,4 @@ Gegen Ende des 1. Jahrhunderts war die Geburtserzählung in Matthäus 1 zu einem
 ---
 
 **Redaktionelle Herkunft:**
-- Entworfen von: KI (Claude, Anthropic)
-- Datum: 2026-04-27
-- Begutachtet von: ausstehend
+- KI-gestützter Entwurf, noch nicht geprüft.

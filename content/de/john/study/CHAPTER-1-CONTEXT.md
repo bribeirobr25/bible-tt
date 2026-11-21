@@ -380,6 +380,4 @@ Nach 70 n. Chr. kam es zu bedeutenden Bevölkerungsbewegungen. Jüdische Flücht
 ---
 
 **Redaktionelle Herkunft:**
-- Erstellt von: Claude Opus 4.6 (KI-Assistent)
-- Datum: 2026-04-27
-- Gepruft von: ausstehend
+- KI-gestützter Entwurf, noch nicht geprüft.
