@@ -362,7 +362,7 @@ E Adão conheceu sua mulher novamente, e ela deu à luz um filho e chamou o seu 
 > **NOTAS**
 >
 > 🔴 **CRÍTICO — ADÃO SE TORNA NOME PRÓPRIO**
-> - **אָדָם** (*adam*) aparece aqui **sem artigo** em contexto genealógico/de nomeação. Este é o **ponto de transição** de "o humano" genérico para o nome próprio "Adão." A TT muda para "Adão" deste versículo em diante. Registrado no log editorial (entrada 081).
+> - **אָדָם** (*adam*) aparece aqui **sem artigo** em contexto genealógico/de nomeação. Este é o **ponto de transição** de "o humano" genérico para o nome próprio "Adão." A TT muda para "Adão" deste versículo em diante.
 >
 > 🟢 **SHET = "PÔS/COLOCOU"**
 > - **שֵׁת** (*Shet*) de **שִׁית** (*shit*) = "pôr/colocar." A fala de Chava torna o jogo de palavras explícito: "Deus *shat* (pôs) para mim outra *zera* (semente)."

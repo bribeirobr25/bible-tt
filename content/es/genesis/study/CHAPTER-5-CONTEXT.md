@@ -167,7 +167,7 @@ La formula dice que cada patriarca "engendro hijos e hijas" — pero ninguna hij
 
 ## I. El Mundo en Esa Época
 
-> **Referencia cruzada:** Para el contexto mundial completo (cuatro escenarios, diez categorías — Político, Economía, Vida Cotidiana, Estructura Social, Educación, Militar, Artes, Ciencia, Religión, Pueblos Vecinos), véase el companion de Génesis 1 (Sección I, `es/genesis/study/CHAPTER-1-CONTEXT.md`). Las entradas a continuación abordan las circunstancias históricas específicamente destacadas en Génesis 5 — la genealogía, las extraordinarias longevidades, el sistema numérico y las convenciones de registro ancestral.
+> **Referencia cruzada:** Para el contexto mundial completo (cuatro escenarios, diez categorías — Político, Economía, Vida Cotidiana, Estructura Social, Educación, Militar, Artes, Ciencia, Religión, Pueblos Vecinos), véase el material de estudio de Génesis 1 (Profundizar), Sección I. Las entradas a continuación abordan las circunstancias históricas específicamente destacadas en Génesis 5 — la genealogía, las extraordinarias longevidades, el sistema numérico y las convenciones de registro ancestral.
 
 ---
 
@@ -267,6 +267,4 @@ Las tradiciones filosóficas griegas (Pitágoras, Platón) investían los númer
 ---
 
 **Procedencia editorial:**
-- Redactado por: Claude Opus 4.6 (asistente de IA)
-- Fecha: 2026-04-25
-- Revisado por: pendiente
+- Borrador asistido por IA, aún no revisado.

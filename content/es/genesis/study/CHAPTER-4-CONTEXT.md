@@ -71,7 +71,7 @@ Genesis 4:13: עָוֹן (*avon*) significa tanto "culpa/pecado" como "castigo/c
 ### A10. Adán se convierte en nombre propio en 4:25
 **[TEXTUAL — VERIFICADO]**
 
-Genesis 4:25: primer *adam* sin articulo en contexto genealogico/de nombramiento. La TT cambia de "el humano" a "Adan" aqui, senalado con nota 🔴 CRITICO. Esta es la decision del diario editorial (entrada 081).
+Genesis 4:25: primer *adam* sin articulo en contexto genealogico/de nombramiento. La TT cambia de "el humano" a "Adan" aqui, senalado con nota 🔴 CRITICO.
 
 ### A11. "Otra simiente" — la línea de la mujer continua
 **[TEXTUAL — VERIFICADO]**
@@ -220,7 +220,7 @@ Génesis 4:17–22 sitúa los orígenes de la civilización en la línea de Caí
 
 ## I. El Mundo en Esa Época
 
-> **Referencia cruzada:** Para el contexto mundial completo (cuatro escenarios, diez categorías — Político, Economía, Vida Cotidiana, Estructura Social, Educación, Militar, Artes, Ciencia, Religión, Pueblos Vecinos), véase el companion de Génesis 1 (Sección I, `es/genesis/study/CHAPTER-1-CONTEXT.md`). Las entradas a continuación abordan las circunstancias históricas específicamente destacadas en Génesis 4 — la agricultura frente al pastoreo, las prácticas de sacrificio y ofrenda, el fratricidio, la marca de Caín, la construcción de ciudades y la genealogía cultural que culmina en Tuval-Caín.
+> **Referencia cruzada:** Para el contexto mundial completo (cuatro escenarios, diez categorías — Político, Economía, Vida Cotidiana, Estructura Social, Educación, Militar, Artes, Ciencia, Religión, Pueblos Vecinos), véase el material de estudio de Génesis 1 (Profundizar), Sección I. Las entradas a continuación abordan las circunstancias históricas específicamente destacadas en Génesis 4 — la agricultura frente al pastoreo, las prácticas de sacrificio y ofrenda, el fratricidio, la marca de Caín, la construcción de ciudades y la genealogía cultural que culmina en Tuval-Caín.
 
 ---
 
@@ -325,6 +325,4 @@ El período helenístico fue la gran época de fundación de ciudades: Alejandro
 ---
 
 **Procedencia editorial:**
-- Redactado por: Claude Opus 4.6 (asistente de IA)
-- Fecha: 2026-04-25
-- Revisado por: pendiente
+- Borrador asistido por IA, aún no revisado.

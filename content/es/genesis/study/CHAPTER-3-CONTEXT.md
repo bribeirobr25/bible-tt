@@ -331,7 +331,7 @@ Génesis 2:17: "el día que comas de él, muriendo morirás" — dirigido al hum
 
 ## I. El Mundo en Esa Época
 
-> **Referencia cruzada:** Para el contexto mundial completo (cuatro escenarios, diez categorías — Político, Economía, Vida Cotidiana, Estructura Social, Educación, Militar, Artes, Ciencia, Religión, Pueblos Vecinos), véase el companion de Génesis 1 (Sección I, `es/genesis/study/CHAPTER-1-CONTEXT.md`). Las entradas a continuación abordan las circunstancias históricas específicamente destacadas en Génesis 3 — la serpiente, el conocimiento prohibido, la muerte, la desnudez y la vergüenza, la maldición y la expulsión.
+> **Referencia cruzada:** Para el contexto mundial completo (cuatro escenarios, diez categorías — Político, Economía, Vida Cotidiana, Estructura Social, Educación, Militar, Artes, Ciencia, Religión, Pueblos Vecinos), véase el material de estudio de Génesis 1 (Profundizar), Sección I. Las entradas a continuación abordan las circunstancias históricas específicamente destacadas en Génesis 3 — la serpiente, el conocimiento prohibido, la muerte, la desnudez y la vergüenza, la maldición y la expulsión.
 
 ---
 
@@ -442,6 +442,4 @@ Para los períodos persa y helenístico temprano, los *querubines* (*keruvim*) s
 ---
 
 **Procedencia editorial:**
-- Redactado por: Claude Opus 4.6 (asistente de IA)
-- Fecha: 2026-04-25
-- Revisado por: pendiente
+- Borrador asistido por IA, aún no revisado.

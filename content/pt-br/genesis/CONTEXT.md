@@ -21,7 +21,7 @@ A palavra hebraica *toledot* (תּוֹלְדוֹת, "gerações" / "engendrament
 
 As variantes importam. Gênesis 5:1 prefacia *toledot* com *sefer* ("este é o LIVRO das gerações de Adão") — um enquadramento único que sinaliza genealogia-como-documento. Gênesis 6:9 anexa *toledot* a Noach mas imediatamente abre uma narrativa de dilúvio em vez de uma genealogia, mostrando que *toledot* introduz "o que veio de X", não estritamente "os descendentes de X". Gênesis 11:10 e 11:27 dão duas fórmulas *toledot* consecutivas, estreitando o foco dos muitos descendentes de Sem para a linhagem específica que produz Avram.
 
-A TT preserva *toledot* como transliteração em vez de traduzi-lo uniformemente como "gerações" ou "história", porque a fórmula é um marcador estrutural que o leitor deve reconhecer como sinal recorrente. O log editorial `transliteration-decisions.md` registra a decisão de nível-de-projeto de manter *toledot* visível em todos os quatro locais.
+A TT preserva *toledot* como transliteração em vez de traduzi-lo uniformemente como "gerações" ou "história", porque a fórmula é um marcador estrutural que o leitor deve reconhecer como sinal recorrente. A decisão vale para todo o projeto, mantendo *toledot* visível em todos os quatro locais.
 
 **Fonte:** Westermann, C., *Genesis 1–11: A Commentary*, trad. Scullion, Augsburg, 1984, esp. cap. sobre a estrutura *toledot*.
 
@@ -34,7 +34,7 @@ A TT preserva *toledot* como transliteração em vez de traduzi-lo uniformemente
 
 A narrativa de Gênesis 1–12 alterna entre *Elohim* (אֱלֹהִים, "Deus"), *YHWH* (יהוה, o nome pessoal), e o composto *YHWH Elohim* (יהוה אֱלֹהִים, "YHWH Deus"). Gênesis 1 usa *Elohim* exclusivamente. Gênesis 2–3 usa o composto *YHWH Elohim* quase exclusivamente — exceto dentro do diálogo serpente-mulher, onde os locutores usam *Elohim* simples, nunca o composto. Gênesis 4 introduz *YHWH* como o nome de invocação humana quando a linhagem de Sete começa a "invocar o nome de YHWH" (4:26). Gênesis 6 alterna por locutor e por função-de-cláusula, e Gênesis 7:16 tem *Elohim* ordenando a entrada na arca e *YHWH* fechando a porta atrás de Noach.
 
-A crítica das fontes moderna originalmente derivou desta alternância, mas a TT trata o padrão como **uma característica do texto como o temos**, independentemente de hipóteses composicionais. A escolha da serpente de dizer apenas "Elohim" (3:1–5) — nunca *YHWH Elohim* — aparece no texto como um marcador deliberado de diálogo; a entrada do log editorial sobre Gênesis 3 explicitamente exige que esta distinção NÃO seja normalizada.
+A crítica das fontes moderna originalmente derivou desta alternância, mas a TT trata o padrão como **uma característica do texto como o temos**, independentemente de hipóteses composicionais. A escolha da serpente de dizer apenas "Elohim" (3:1–5) — nunca *YHWH Elohim* — aparece no texto como um marcador deliberado de diálogo; a TT NÃO normaliza esta distinção.
 
 A TT renderiza *YHWH* consonantalmente em todos os quatro locais (EN/PT *YHWH*; DE *JHWH* usando a convenção alemã J-para-yod; ES *YHWH*) em vez de substituir por "o Senhor" / "der Herr" / "el Señor" — preservando a distinção do nome em relação a *Elohim* na página. A alternância é, portanto, visível em cada ocorrência, e o leitor pode rastrear o padrão capítulo por capítulo.
 
@@ -66,7 +66,7 @@ Dentro de Gênesis 1–11 a direção leste é a geografia do deslocamento. Gên
 
 A cadeia se auto-referencia: o "a leste do Éden" de Gênesis 4:16 lembra o "a leste do jardim do Éden" de 3:24 com a mesma preposição hebraica *miqqedem*. O companheiro de capítulo para Gênesis 4 (§A9) explicitamente nomeia o padrão como "leste como exílio — padrão continua".
 
-Gênesis 12 inverte a cadeia. Avram (Abraão) é chamado para viajar **do** leste (Ur Kasdim, Charan) **para** o oeste (Canaã). A direção geográfica do seu chamado reverte o movimento geográfico pós-Éden — o mais oriental dos forasteiros (Avram, nascido em Ur) é convocado para o oeste para a terra onde o Éden uma vez esteve. Se o editor de Gênesis pretendia esta inversão é debatido (a decisão editorial não está explicitamente registrada em nenhuma entrada do log editorial da TT); o padrão textual é observável independentemente da intenção autoral.
+Gênesis 12 inverte a cadeia. Avram (Abraão) é chamado para viajar **do** leste (Ur Kasdim, Charan) **para** o oeste (Canaã). A direção geográfica do seu chamado reverte o movimento geográfico pós-Éden — o mais oriental dos forasteiros (Avram, nascido em Ur) é convocado para o oeste para a terra onde o Éden uma vez esteve. Se o editor de Gênesis pretendia esta inversão é debatido; o padrão textual é observável independentemente da intenção autoral.
 
 **Fonte:** Sailhamer, J.H., *The Pentateuch as Narrative*, Zondervan, 1992, sobre a estrutura geográfica de Gn 1–12.
 
@@ -81,9 +81,9 @@ O par hebraico *tselem* (צֶלֶם, "imagem") e *demut* (דְּמוּת, "semel
 
 Gênesis 1:26–27 estabelece a direção divino-para-humano: "façamos humanos em nosso *tselem*, conforme nossa *demut*" — Deus faz humanos à imagem de Deus. Os verbos são verbos de criação (*asah*, *bara*); a relação corre para baixo do céu para a terra.
 
-Gênesis 5:1–3 então imediatamente inverte a polaridade. O versículo 1 reafirma o original: "na *demut* de Deus ele o fez." Mas o versículo 3 diz sobre Adão gerando Sete: "e gerou na sua própria *demut*, conforme sua própria *tselem*." O mesmo par-palavra agora descreve Adão → Sete — uma direção pai-para-filho humano-para-humano. O log editorial do capítulo explicitamente acrescentou uma referência cruzada aqui como um "eco transcapitular solicitado pelo revisor" que originalmente havia sido perdido.
+Gênesis 5:1–3 então imediatamente inverte a polaridade. O versículo 1 reafirma o original: "na *demut* de Deus ele o fez." Mas o versículo 3 diz sobre Adão gerando Sete: "e gerou na sua própria *demut*, conforme sua própria *tselem*." O mesmo par-palavra agora descreve Adão → Sete — uma direção pai-para-filho humano-para-humano.
 
-Gênesis 9:6 leva a cadeia a um clímax legal-teológico: "quem derramar o sangue de um humano, pelo humano seu sangue será derramado, porque na *tselem* de Deus ele fez o humano." A imagem de Deus sobrevive ao dilúvio e fundamenta a proibição pós-dilúvio contra o homicídio. O log editorial sobre Gn 9 explicitamente rastreia "*tselem* (imagem) sobrevive ao dilúvio" como a reivindicação de continuidade.
+Gênesis 9:6 leva a cadeia a um clímax legal-teológico: "quem derramar o sangue de um humano, pelo humano seu sangue será derramado, porque na *tselem* de Deus ele fez o humano." A imagem de Deus sobrevive ao dilúvio e fundamenta a proibição pós-dilúvio contra o homicídio.
 
 Três capítulos, três funções diferentes: fundamentação ontológica (Gn 1), transmissão geracional com inversão-de-polaridade (Gn 5), e fundamento legal para a regra de santidade-do-sangue-humano (Gn 9). A TT preserva ambos os termos com suas grafias originais e glosas parentéticas na primeira ocorrência para manter a cadeia visível.
 
@@ -100,9 +100,9 @@ Para o fenômeno relacionado-mas-distinto de ambiguidade gramatical / sintática
 
 Gênesis está saturado de jogo de palavras — trocadilhos fonéticos e semânticos onde a narrativa usa duas palavras distintas cujos sons ou raízes convidam a uma conexão deliberada. A TT aplica a Regra 14 (Anotação de Jogo de Palavras) através de todo o livro para sinalizar cada instância sem forçar o idioma de destino a reproduzir o trocadilho sonoro (que é geralmente intraduzível).
 
-O catálogo dos jogos de palavras dentro do escopo: *adam* / *adamah* (2:7 — humano da terra); *arum* / *arom* (2:25 → 3:1 — nu / astuto — um trocadilho que liga capítulos e que o log editorial explicitamente preserva com uma nota de referência-adiante); *Chava* / *chay* (3:20 — "vivente" — explicado na nomeação de Chava); *qol* (3:8 — voz / som, deliberadamente ambíguo); *Qayin* / *qanah* (4:1 — "eu ADQUIRI um homem"); *Hevel* (4:2 — "vapor / sopro", prefigurando seu destino); *Nacham* / *Noach* (5:29 — "consolo", explicando o nome de Noach antes do dilúvio); *kopher* / *kippur* (6:14 — piche e expiação, a ponte sonora na construção da arca); a saturação quádrupla da raiz N-W-CH através de Gênesis 8 (*Noach*, *tanach* "descansou", *manoach* "lugar de descanso", *nichoach* "aroma agradável"); e *Babel* / *balal* (11:9 — "Babel" como "o SENHOR confundiu").
+O catálogo dos jogos de palavras dentro do escopo: *adam* / *adamah* (2:7 — humano da terra); *arum* / *arom* (2:25 → 3:1 — nu / astuto — um trocadilho que liga capítulos e que a TT preserva com uma nota de referência-adiante); *Chava* / *chay* (3:20 — "vivente" — explicado na nomeação de Chava); *qol* (3:8 — voz / som, deliberadamente ambíguo); *Qayin* / *qanah* (4:1 — "eu ADQUIRI um homem"); *Hevel* (4:2 — "vapor / sopro", prefigurando seu destino); *Nacham* / *Noach* (5:29 — "consolo", explicando o nome de Noach antes do dilúvio); *kopher* / *kippur* (6:14 — piche e expiação, a ponte sonora na construção da arca); a saturação quádrupla da raiz N-W-CH através de Gênesis 8 (*Noach*, *tanach* "descansou", *manoach* "lugar de descanso", *nichoach* "aroma agradável"); e *Babel* / *balal* (11:9 — "Babel" como "o SENHOR confundiu").
 
-O motivo é política do projeto: a Regra 14 exige anotação de jogo de palavras em todos os quatro locais. O log editorial registra decisões individuais (transliterar *Chava* como *Chava* na Edição Transparente, preservar a ligação sonora *adam*/*adamah* via uma nota já que o par "humano/terra" perde o som). Lido através dos capítulos, o catálogo de jogos de palavras é uma das características literárias mais consistentes do design de Gênesis.
+O motivo é política do projeto: a Regra 14 exige anotação de jogo de palavras em todos os quatro locais. Daí decorrem decisões individuais (transliterar *Chava* como *Chava* na Edição Transparente, preservar a ligação sonora *adam*/*adamah* via uma nota já que o par "humano/terra" perde o som). Lido através dos capítulos, o catálogo de jogos de palavras é uma das características literárias mais consistentes do design de Gênesis.
 
 **Fonte:** Alter, R., *The Five Books of Moses: A Translation with Commentary*, Norton, 2004, esp. introdução sobre o jogo de palavras hebraico.
 
@@ -117,7 +117,7 @@ Para o fenômeno relacionado-mas-distinto de jogo de palavras fonético / semân
 
 Onde G-M6 cobre duas-palavras-distintas-que-soam-iguais, este motivo cobre formas-linguísticas-únicas-que-suportam-múltiplas-leituras. A Regra 2 (Preservar Ambiguidade) exige que a TT não resolva a indeterminação gramatical ou sintática quando o texto-fonte a deixa aberta. Dentro de Gênesis 1–12 os casos dentro do escopo:
 
-**Gênesis 3:5** *ke-elohim* — "como Elohim" / "como deuses" — gramaticalmente singular OU plural; a promessa da serpente é genuinamente ambígua entre "vocês serão como Deus" e "vocês serão como (os menores) deuses." A TT preserva ambas as leituras via uma nota Tier 2.
+**Gênesis 3:5** *ke-elohim* — "como Elohim" / "como deuses" — gramaticalmente singular OU plural; a promessa da serpente é genuinamente ambígua entre "vocês serão como Deus" e "vocês serão como (os menores) deuses." A TT preserva ambas as leituras via uma nota.
 
 **Gênesis 3:15** "sua semente" (*zar'ah*) — gramaticalmente um coletivo singular; "ele esmagará sua cabeça" poderia ser um único descendente ou uma progênie coletiva. A tradição cristã lê singular; a tradição judaica lê coletivo; o hebraico suporta ambos.
 
@@ -150,7 +150,7 @@ Gênesis 11:7 tem os três *havah* ("vinde, façamos") — pontos de decisão di
 
 Gênesis 12:1 então abre a narrativa de Avraham com três separações ascendentes: "de tua terra, de tua parentela, da casa de teu pai." As três estão arranjadas do mais amplo (geografia) ao mais estreito (família imediata), cada passo uma perda mais custosa. O padrão triádico através de 9–12 é demasiado consistente para ser incidental; se o editor pretendia uma unidade estrutural é debatido, mas o padrão é observável.
 
-O trabalho da Seção I da Fase 8 rastreia o esquema de etnogênese (gen/9 I-A10) e a Tábua das Nações (gen/10 I-A10) sob suas próprias entradas I-N; esta entrada de motivo consolida o padrão estrutural transcapitular em vez de retratar o contexto de período.
+Os materiais de estudo de Gênesis 9 e Gênesis 10 (Aprofundar), Seção I, tratam do esquema de etnogênese e da Tábua das Nações em entradas próprias; esta entrada de motivo consolida o padrão estrutural transcapitular em vez de retratar o contexto de período.
 
 **Fonte:** Fokkelman, J.P., *Narrative Art in Genesis*, Van Gorcum, 1975, sobre padrão triádico.
 
@@ -163,8 +163,8 @@ O trabalho da Seção I da Fase 8 rastreia o esquema de etnogênese (gen/9 I-A10
 
 Três vezes em Gênesis 1–11 a divindade fala em primeira pessoa do plural: Gênesis 1:26 ("façamos humanos à nossa imagem"), Gênesis 3:22 ("o humano se tornou como um de nós"), Gênesis 11:7 ("vinde, desçamos e confundamos sua língua"). Os três juntos formam um dos padrões textuais mais teologicamente carregados do livro.
 
-O hebraico suporta múltiplas interpretações: um plural real-majestático (a divindade fala como soberano), um conselho de seres divinos (assembleia celestial, *sod*), uma pluralidade intradivina (um precursor de leituras trinitárias), ou uma forma retórica de auto-deliberação. A história de recepção é enorme: a interpretação rabínica geralmente lê a opção do conselho; a interpretação cristã geralmente lê a opção intradivina; a erudição moderna está dividida. A TT preserva o plural em todos os quatro locais em vez de suavizá-lo para um singular ("eu farei humanos") e adiciona notas Tier 2 sinalizando as opções interpretativas.
+O hebraico suporta múltiplas interpretações: um plural real-majestático (a divindade fala como soberano), um conselho de seres divinos (assembleia celestial, *sod*), uma pluralidade intradivina (um precursor de leituras trinitárias), ou uma forma retórica de auto-deliberação. A história de recepção é enorme: a interpretação rabínica geralmente lê a opção do conselho; a interpretação cristã geralmente lê a opção intradivina; a erudição moderna está dividida. A TT preserva o plural em todos os quatro locais em vez de suavizá-lo para um singular ("eu farei humanos") e adiciona notas sinalizando as opções interpretativas.
 
-O log editorial registra uma decisão transcapitular específica: "Acrescentada nota de RESSONÂNCIA NARRATIVA em Gn 3:22. Liga explicitamente o 'como um de nós' de YHWH Elohim (3:22) à predição da serpente 'vocês serão como Deus/deuses' (3:5)" — ambas as cláusulas usam *ke-elohim* / *ke'achad mimmennu*. A TT explicitamente nota a tensão textual sem resolver se a serpente disse a verdade. Lidos juntos, os três trechos "façamos" são um fio deliberado da narrativa hebraica que o editor deixa o leitor compreender — a TT faz o mesmo.
+Uma nota de RESSONÂNCIA NARRATIVA em Gn 3:22 liga explicitamente o "como um de nós" de YHWH Elohim (3:22) à predição da serpente "vocês serão como Deus/deuses" (3:5) — ambas as cláusulas usam *ke-elohim* / *ke'achad mimmennu*. A TT explicitamente nota a tensão textual sem resolver se a serpente disse a verdade. Lidos juntos, os três trechos "façamos" são um fio deliberado da narrativa hebraica que o editor deixa o leitor compreender — a TT faz o mesmo.
 
 **Fonte:** Levenson, J.D., *Creation and the Persistence of Evil*, Princeton University Press, 1994, sobre o conselho divino e os coortativos plurais em Gênesis.

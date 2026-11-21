@@ -191,7 +191,7 @@ Gn 11:26: "Terá viveu setenta anos e gerou Abrão, Naor e Haran." Gn 11:32: "Os
 
 ## I. O Mundo na Época
 
-> **Referência cruzada:** Para o contexto mundial completo (quatro cenários, dez categorias — Político, Economia, Vida Cotidiana, Estrutura Social, Educação, Militar, Artes, Ciência, Religião, Povos Vizinhos), veja o companheiro de Gênesis 1 (Seção I, `pt-br/genesis/study/CHAPTER-1-CONTEXT.md`). As entradas abaixo abordam as circunstâncias históricas especificamente destacadas em Gênesis 11 — arquitetura de torres e zigurates, a ideologia da civilização urbana, a diversidade linguística no mundo antigo, padrões de migração e as cidades de Ur e Charan como lugares reais no mapa antigo.
+> **Referência cruzada:** Para o contexto mundial completo (quatro cenários, dez categorias — Político, Economia, Vida Cotidiana, Estrutura Social, Educação, Militar, Artes, Ciência, Religião, Povos Vizinhos), veja o material de estudo de Gênesis 1 (Aprofundar), Seção I. As entradas abaixo abordam as circunstâncias históricas especificamente destacadas em Gênesis 11 — arquitetura de torres e zigurates, a ideologia da civilização urbana, a diversidade linguística no mundo antigo, padrões de migração e as cidades de Ur e Charan como lugares reais no mapa antigo.
 
 ---
 
@@ -288,6 +288,4 @@ O período helenístico foi definido pela difusão do grego (*koiné*) como lín
 ---
 
 **Proveniência editorial:**
-- Redigido por: Claude Opus 4.6 (assistente de IA)
-- Data: 2026-04-27
-- Revisado por: pendente
+- Rascunho assistido por IA, ainda não revisado.

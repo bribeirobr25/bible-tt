@@ -71,7 +71,7 @@ Genesis 4:13: עָוֹן (*avon*) means both "guilt/sin" and "punishment/consequ
 ### A10. Adam becomes proper name at 4:25
 **[TEXTUAL — VERIFIED]**
 
-Genesis 4:25: the first time *adam* is used without the article "the" in a genealogical/naming context. The TT shifts from "the human" to "Adam" here, flagged with a 🔴 CRITICAL note. This is the editorial-log decision (entry 081).
+Genesis 4:25: the first time *adam* is used without the article "the" in a genealogical/naming context. The TT shifts from "the human" to "Adam" here, flagged with a 🔴 CRITICAL note.
 
 ### A11. "Another seed" — woman-line continues
 **[TEXTUAL — VERIFIED]**
@@ -220,7 +220,7 @@ Genesis 4:17–22 places the origins of civilization in Cain's line: city-buildi
 
 ## I. The World at the Time
 
-> **Cross-reference:** For the full four-scenario, ten-category world context (Political, Economy, Daily Life, Social Structure, Education, Military, Arts, Science, Religion, Neighboring Peoples), see the Genesis 1 companion (Section I, `en/genesis/study/CHAPTER-1-CONTEXT.md`). The entries below address the historical circumstances specifically foregrounded in Genesis 4 — agriculture versus pastoralism, sacrifice and offering practices, fratricide, the mark of Cain, city-building, and the cultural genealogy culminating in Tuval-Qayin.
+> **Cross-reference:** For the full four-scenario, ten-category world context (Political, Economy, Daily Life, Social Structure, Education, Military, Arts, Science, Religion, Neighboring Peoples), see the Genesis 1 study companion (Deeper), Section I. The entries below address the historical circumstances specifically foregrounded in Genesis 4 — agriculture versus pastoralism, sacrifice and offering practices, fratricide, the mark of Cain, city-building, and the cultural genealogy culminating in Tuval-Qayin.
 
 ---
 
@@ -325,6 +325,4 @@ The Hellenistic period was the great age of city-founding: Alexander founded Ale
 ---
 
 **Editorial provenance:**
-- Drafted by: Claude Opus 4.6 (AI assistant)
-- Date: 2026-04-21
-- Reviewed by: pending
+- AI-assisted draft, not yet reviewed.

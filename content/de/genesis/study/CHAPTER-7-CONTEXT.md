@@ -215,7 +215,7 @@ Die Fluterzählung liefert exakte Kalenderdaten: Beginn am zweiten Monat, siebze
 
 ## I. Die Welt zur damaligen Zeit
 
-> **Querverweis:** Für den vollständigen Welt-Kontext (vier Szenarien, zehn Kategorien — Politik, Wirtschaft, Alltagsleben, Sozialstruktur, Bildung, Militär, Kunst, Wissenschaft, Religion, Nachbarvölker), siehe den Genesis-1-Begleitkommentar (Abschnitt I, `de/genesis/study/CHAPTER-1-CONTEXT.md`). Die folgenden Einträge behandeln die historischen Umstände, die in Genesis 7 spezifisch hervorgehoben werden — den Flutmechanismus, Maßsysteme, Tierhaltung, Wasserkosmologie und kalendarische Präzision.
+> **Querverweis:** Für den vollständigen Welt-Kontext (vier Szenarien, zehn Kategorien — Politik, Wirtschaft, Alltagsleben, Sozialstruktur, Bildung, Militär, Kunst, Wissenschaft, Religion, Nachbarvölker), siehe das Begleitmaterial zu Genesis 1 (Vertiefen), Abschnitt I. Die folgenden Einträge behandeln die historischen Umstände, die in Genesis 7 spezifisch hervorgehoben werden — den Flutmechanismus, Maßsysteme, Tierhaltung, Wasserkosmologie und kalendarische Präzision.
 
 ---
 
@@ -319,6 +319,4 @@ Das dreigliedrige kosmologische Modell (Wasser oben, Erde, Wasser unten) erhielt
 ---
 
 **Editoriale Herkunft:**
-- Entworfen von: Claude Opus 4.6 (KI-Assistent)
-- Datum: 2026-04-24
-- Überprüft von: ausstehend
+- KI-gestützter Entwurf, noch nicht geprüft.

@@ -261,7 +261,7 @@ Dize, por favor, *que* tu *és* minha irmã, para que me vá bem por tua causa, 
 
 > **NOTAS**
 >
-> 🟡 **NÍVEL 2 — NOTA DE RECEPÇÃO**
+> 🟡 **NOTA DE RECEPÇÃO**
 > - Esta passagem tem história de recepção documentada. Veja o companheiro Seção F para contexto sobre o episódio esposa-irmã, incluindo seu uso para justificar o engano e suas implicações para a agência de Sarai.
 >
 > 🔴 **O PEDIDO ESPOSA-IRMÃ**

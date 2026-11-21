@@ -430,4 +430,4 @@ Viele Namen in Genesis tragen etymologische Bedeutung, die die Erzählung ausnut
 
 ---
 
-> **Redaktionelle Herkunft:** Entwurf von Claude Opus 4.6 (1M context) am 28.04.2026. Noch nicht geprüft. Diese Einleitung ist eine provisorische wissenschaftliche Ressource, die der TT-Regel 29 unterliegt. Alle Aussagen tragen doppelte Kennzeichnungen; keine Aussage sollte als theologische oder kompositionelle Position der TT gelesen werden. Die TT übersetzt den Masoretischen Text und übernimmt keine bestimmte Theorie der Autorschaft oder Komposition.
+> **Redaktionelle Herkunft:** KI-gestützter Entwurf, noch nicht geprüft. Diese Einleitung ist eine provisorische wissenschaftliche Ressource, die der TT-Regel 29 unterliegt. Alle Aussagen tragen doppelte Kennzeichnungen; keine Aussage sollte als theologische oder kompositionelle Position der TT gelesen werden. Die TT übersetzt den Masoretischen Text und übernimmt keine bestimmte Theorie der Autorschaft oder Komposition.

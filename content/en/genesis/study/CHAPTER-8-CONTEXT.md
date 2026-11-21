@@ -209,7 +209,7 @@ Genesis 8:6–12 sends two birds: the raven (*orev*) "went out, going and return
 
 ## I. The World at the Time
 
-> **Cross-reference:** For the full four-scenario, ten-category world context (Political, Economy, Daily Life, Social Structure, Education, Military, Arts, Science, Religion, Neighboring Peoples), see the Genesis 1 companion (Section I, `en/genesis/study/CHAPTER-1-CONTEXT.md`). The entries below address the historical circumstances specifically foregrounded in Genesis 8 — the re-creation sequence, bird augury, altar-building and sacrifice, covenant formation, and agricultural resumption.
+> **Cross-reference:** For the full four-scenario, ten-category world context (Political, Economy, Daily Life, Social Structure, Education, Military, Arts, Science, Religion, Neighboring Peoples), see the Genesis 1 study companion (Deeper), Section I. The entries below address the historical circumstances specifically foregrounded in Genesis 8 — the re-creation sequence, bird augury, altar-building and sacrifice, covenant formation, and agricultural resumption.
 
 ---
 
@@ -308,6 +308,4 @@ The flood's end date (Month 2, Day 27 of Noah's 601st year) and its complex chro
 ---
 
 **Editorial provenance:**
-- Drafted by: Claude Opus 4.6 (AI assistant)
-- Date: 2026-04-24
-- Reviewed by: pending
+- AI-assisted draft, not yet reviewed.

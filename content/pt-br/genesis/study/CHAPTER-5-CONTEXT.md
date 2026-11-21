@@ -167,7 +167,7 @@ A fórmula diz que cada patriarca "gerou filhos e filhas" — mas nenhuma filha 
 
 ## I. O Mundo na Época
 
-> **Referência cruzada:** Para o contexto mundial completo (quatro cenários, dez categorias — Político, Economia, Vida Cotidiana, Estrutura Social, Educação, Militar, Artes, Ciência, Religião, Povos Vizinhos), veja o companheiro de Gênesis 1 (Seção I, `pt-br/genesis/study/CHAPTER-1-CONTEXT.md`). As entradas abaixo abordam as circunstâncias históricas especificamente destacadas em Gênesis 5 — a genealogia, os tempos de vida extraordinários, o sistema numérico e as convenções de registro de ancestrais.
+> **Referência cruzada:** Para o contexto mundial completo (quatro cenários, dez categorias — Político, Economia, Vida Cotidiana, Estrutura Social, Educação, Militar, Artes, Ciência, Religião, Povos Vizinhos), veja o material de estudo de Gênesis 1 (Aprofundar), Seção I. As entradas abaixo abordam as circunstâncias históricas especificamente destacadas em Gênesis 5 — a genealogia, os tempos de vida extraordinários, o sistema numérico e as convenções de registro de ancestrais.
 
 ---
 
@@ -267,6 +267,4 @@ As tradições filosóficas gregas (Pitágoras, Platão) investiam números de s
 ---
 
 **Procedência editorial:**
-- Redigido por: Claude Opus 4.6 (assistente de IA)
-- Data: 2026-04-15
-- Revisado por: pendente
+- Rascunho assistido por IA, ainda não revisado.
