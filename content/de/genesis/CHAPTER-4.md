@@ -361,7 +361,7 @@ Und Adam erkannte seine Frau abermals, und sie gebar einen Sohn und nannte seine
 > **NOTIZEN**
 >
 > 🔴 **KRITISCH — ADAM WIRD EIGENNAME**
-> - **אָדָם** (*adam*) erscheint hier **ohne den Artikel** in einem genealogischen/Benennungskontext. Dies ist der **Übergangspunkt** vom generischen „der Mensch" zum Eigennamen „Adam." Die TT wechselt ab diesem Vers zu „Adam." Protokolliert im Redaktionsprotokoll (Eintrag 081).
+> - **אָדָם** (*adam*) erscheint hier **ohne den Artikel** in einem genealogischen/Benennungskontext. Dies ist der **Übergangspunkt** vom generischen „der Mensch" zum Eigennamen „Adam." Die TT wechselt ab diesem Vers zu „Adam."
 >
 > 🟢 **SHET = „GESETZT/GESTELLT"**
 > - **שֵׁת** (*Set*) von **שִׁית** (*shit*) = „setzen/stellen." Evas Rede macht das Wortspiel explizit: „Gott hat *shat* (gesetzt) mir einen anderen *zera* (Samen)."

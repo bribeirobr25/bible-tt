@@ -79,7 +79,7 @@ E estas *são* as gerações dos filhos de Noach (Noé) — Shem, Cham (Cam) e Y
 
 > **NOTAS**
 >
-> 🟡 **NÍVEL 2 — AVISO DE ETNOGÊNESE**
+> 🟡 **AVISO DE ETNOGÊNESE**
 > - O quadro genealógico deste capítulo não deve ser usado para construir hierarquias étnicas, raciais ou nacionais modernas. A Tabela das Nações é um documento político-geográfico antigo, não uma taxonomia biológica dos povos modernos. Veja o companheiro Seção F para contexto histórico sobre o uso indevido documentado.
 >
 > 🔴 **FÓRMULA TOLEDOT — QUARTA OCORRÊNCIA**
@@ -156,7 +156,7 @@ E os filhos de Cam: Kush, e Mitsrayim (Egito), e Put, e Kenaan (Canaã).
 > - Quatro filhos de Cham. Identificações: **Kush** (כּוּשׁ) = Núbia / região do Alto Nilo (PROVÁVEL; frequentemente traduzido como "Etiópia" em traduções antigas, mas isto é enganoso — a antiga Kush ≠ Etiópia moderna). **Mitsrayim** (מִצְרַיִם) = Egito (bem atestado; o nome hebraico padrão para o Egito; a forma dual *-ayim* pode refletir o Alto e o Baixo Egito). **Put** (פּוּט) = Líbia ou Punt (POSSÍVEL para ambos; identificação debatida). **Kenaan** (כְּנַעַן) = os Cananeus / terra de Canaã.
 >
 > 🟢 **POLÍTICA DE TRANSLITERAÇÃO**
-> - Conforme Regra 4 e registro editorial (Entrada 2026-04-17-004): nomes próprios transliterados a partir da forma hebraica. Kush (não "Cuxe" ou "Etiópia"), Egito (não "Egito"), Canaã (não "Canaã"). Identificações geográficas tradicionais fornecidas nas notas. O texto apresenta estes como pessoas/ancestrais; as notas identificam os povos/regiões que representam.
+> - Conforme Regra 4: nomes próprios transliterados a partir da forma hebraica. Kush (não "Cuxe" ou "Etiópia"), Egito (não "Egito"), Canaã (não "Canaã"). Identificações geográficas tradicionais fornecidas nas notas. O texto apresenta estes como pessoas/ancestrais; as notas identificam os povos/regiões que representam.
 
 ---
 

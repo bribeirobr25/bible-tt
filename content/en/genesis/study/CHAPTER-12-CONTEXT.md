@@ -183,7 +183,7 @@ Every Pharaoh in Genesis is unnamed: the Pharaoh of Avram (Abram)'s Egypt episod
 
 ## I. The World at the Time
 
-> **Cross-reference:** For the full four-scenario, ten-category world context (Political, Economy, Daily Life, Social Structure, Education, Military, Arts, Science, Religion, Neighboring Peoples), see the Genesis 1 companion (Section I, `en/genesis/study/CHAPTER-1-CONTEXT.md`). The entries below address the historical circumstances specifically foregrounded in Genesis 12 — pastoral nomadism, land-grant covenants in ANE legal tradition, the wife-sister customs attested at Nuzi and elsewhere, Egypt as a destination for Levantine migrants, and altar-building as a practice of territorial-religious claim-staking.
+> **Cross-reference:** For the full four-scenario, ten-category world context (Political, Economy, Daily Life, Social Structure, Education, Military, Arts, Science, Religion, Neighboring Peoples), see the Genesis 1 study companion (Deeper), Section I. The entries below address the historical circumstances specifically foregrounded in Genesis 12 — pastoral nomadism, land-grant covenants in ANE legal tradition, the wife-sister customs attested at Nuzi and elsewhere, Egypt as a destination for Levantine migrants, and altar-building as a practice of territorial-religious claim-staking.
 
 ---
 
@@ -280,6 +280,4 @@ Hellenistic rulers made universal claims: Alexander was proclaimed son of Zeus-A
 ---
 
 **Editorial provenance:**
-- Drafted by: Claude Opus 4.6 (AI assistant)
-- Date: 2026-04-27
-- Reviewed by: pending
+- AI-assisted draft, not yet reviewed.

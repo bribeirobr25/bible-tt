@@ -304,7 +304,7 @@ Génesis 2:21: "YHWH Dios hizo caer un sueño profundo (*tardemah*) sobre el hum
 
 ## I. El Mundo en Esa Época
 
-> **Referencia cruzada:** Para el contexto mundial completo (cuatro escenarios, diez categorías — Político, Economía, Vida Cotidiana, Estructura Social, Educación, Militar, Artes, Ciencia, Religión, Pueblos Vecinos), véase el companion de Génesis 1 (Sección I, `es/genesis/study/CHAPTER-1-CONTEXT.md`). Las entradas a continuación abordan las circunstancias históricas específicamente destacadas en Génesis 2 — el jardín, la agricultura, la irrigación, el matrimonio, la nomenclatura y la cirugía de la *tardemah*.
+> **Referencia cruzada:** Para el contexto mundial completo (cuatro escenarios, diez categorías — Político, Economía, Vida Cotidiana, Estructura Social, Educación, Militar, Artes, Ciencia, Religión, Pueblos Vecinos), véase el material de estudio de Génesis 1 (Profundizar), Sección I. Las entradas a continuación abordan las circunstancias históricas específicamente destacadas en Génesis 2 — el jardín, la agricultura, la irrigación, el matrimonio, la nomenclatura y la cirugía de la *tardemah*.
 
 ---
 
@@ -412,6 +412,4 @@ En los períodos persa y helenístico temprano, la Torá estaba adquiriendo su e
 ---
 
 **Procedencia editorial:**
-- Redactado por: Claude Opus 4.6 (asistente de IA)
-- Fecha: 2026-04-25
-- Revisado por: pendiente
+- Borrador asistido por IA, aún no revisado.

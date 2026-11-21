@@ -260,7 +260,7 @@ Say, please, *that* you *are* my sister, so that it may go well for me on your a
 
 > **NOTES**
 >
-> 🟡 **TIER 2 — RECEPTION NOTE**
+> 🟡 **RECEPTION NOTE**
 > - This passage has documented reception history. See companion Section F for context on the wife-sister episode, including its use to excuse deception and its implications for Sarai's agency.
 >
 > 🔴 **THE WIFE-SISTER REQUEST**

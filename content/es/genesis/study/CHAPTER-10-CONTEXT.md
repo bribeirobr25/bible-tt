@@ -134,7 +134,7 @@ Génesis 10 organiza a todos los pueblos conocidos en tres líneas de descendenc
 ### F1. Declaración anti-uso indebido — la Tabla de las Naciones
 **[RECEPCIÓN POSTERIOR — DOCUMENTADO]**
 
-La Tabla de las Naciones ha sido mal utilizada para construir jerarquías raciales, justificaciones coloniales y afirmaciones de origen étnico. Génesis 10 es un texto genealógico-geográfico antiguo que refleja la perspectiva de su período de composición. No proporciona una taxonomía biológica de los pueblos modernos. La prohibición de etnogénesis de la TT (RULES-CORE.md) se aplica: el texto no debe ser mapeado sobre grupos raciales, étnicos o nacionales modernos. La ubicación de los pueblos bajo Sem, Cam o Yafet en el capítulo refleja asociaciones políticas y culturales antiguas, no linaje biológico en ningún sentido genético moderno. Ninguna etnia, nación o grupo racial moderno puede reclamar un estatus especial — positivo o negativo — a partir de este texto.
+La Tabla de las Naciones ha sido mal utilizada para construir jerarquías raciales, justificaciones coloniales y afirmaciones de origen étnico. Génesis 10 es un texto genealógico-geográfico antiguo que refleja la perspectiva de su período de composición. No proporciona una taxonomía biológica de los pueblos modernos. La prohibición de etnogénesis de la TT se aplica: el texto no debe ser mapeado sobre grupos raciales, étnicos o nacionales modernos. La ubicación de los pueblos bajo Sem, Cam o Yafet en el capítulo refleja asociaciones políticas y culturales antiguas, no linaje biológico en ningún sentido genético moderno. Ninguna etnia, nación o grupo racial moderno puede reclamar un estatus especial — positivo o negativo — a partir de este texto.
 
 **Fuente:** Goldenberg, D.M., *The Curse of Ham: Race and Slavery in Early Judaism, Christianity, and Islam*, Princeton, 2003; Westermann, C., *Genesis 1-11*, Continental Commentary, 1984.
 
@@ -163,7 +163,7 @@ El recuento tradicional de los nombres en Génesis 10 arroja aproximadamente 70 
 
 ## I. El Mundo en Esa Época
 
-> **Referencia cruzada:** Para el contexto mundial completo (cuatro escenarios, diez categorías — Político, Economía, Vida Cotidiana, Estructura Social, Educación, Militar, Artes, Ciencia, Religión, Pueblos Vecinos), véase el companion de Génesis 1 (Sección I, `es/genesis/study/CHAPTER-1-CONTEXT.md`). Las entradas a continuación abordan las circunstancias históricas específicamente destacadas en Génesis 10 — la Tabla de Naciones como documento etnográfico y geográfico, las rutas comerciales que conectan el mundo conocido, cómo los pueblos antiguos clasificaban a otros pueblos, las tradiciones de fundación de ciudades y el concepto de Nimrod/imperio.
+> **Referencia cruzada:** Para el contexto mundial completo (cuatro escenarios, diez categorías — Político, Economía, Vida Cotidiana, Estructura Social, Educación, Militar, Artes, Ciencia, Religión, Pueblos Vecinos), véase el material de estudio de Génesis 1 (Profundizar), Sección I. Las entradas a continuación abordan las circunstancias históricas específicamente destacadas en Génesis 10 — la Tabla de Naciones como documento etnográfico y geográfico, las rutas comerciales que conectan el mundo conocido, cómo los pueblos antiguos clasificaban a otros pueblos, las tradiciones de fundación de ciudades y el concepto de Nimrod/imperio.
 
 ---
 
@@ -258,6 +258,4 @@ Los historiadores y geógrafos griegos estaban desarrollando sus propias tradici
 ---
 
 **Procedencia editorial:**
-- Redactado por: Claude Opus 4.6 (asistente de IA)
-- Fecha: 2026-04-27
-- Revisado por: pendiente
+- Borrador asistido por IA, aún no revisado.

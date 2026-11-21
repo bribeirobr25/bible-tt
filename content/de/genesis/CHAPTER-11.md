@@ -92,7 +92,7 @@ Und das ganze Land war *von* einer Lippe und einem *Satz von* Worten.
 
 > **NOTIZEN**
 >
-> 🟡 **STUFE 2 — REZEPTIONSHINWEIS**
+> 🟡 **REZEPTIONSHINWEIS**
 > - Die Babel-Erzählung sollte nicht als pauschale Verurteilung von Technologie, städtischer Zivilisation oder sprachlicher Vielfalt gelesen werden. Siehe Begleitmaterial Abschnitt F für historischen Kontext zu dokumentierten Fehllektüren.
 >
 > 🔴 **KRITISCH — „EINE LIPPE" (*saphah echat*)**

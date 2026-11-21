@@ -47,7 +47,7 @@ This file presents biographical and genealogical information about figures appea
 **Year from creation:** 0 (by definition, AM 1 in the MT's own reckoning)
 **Year from creation end:** 930
 
-**Note:** The text uses *ha-adam* (the human, with article) through Gen 2–4. The transition to proper-name "Adam" (anarthrous) occurs at Gen 4:25 and is locked at 5:1. See editorial-log entry 081.
+**Note:** The text uses *ha-adam* (the human, with article) through Gen 2–4. The transition to proper-name "Adam" (anarthrous) occurs at Gen 4:25 and is locked at 5:1.
 
 ---
 
@@ -903,4 +903,4 @@ All dates AM, per Masoretic Text arithmetic.
 - **Commentaries:** Westermann, C., *Genesis 1–11* (Augsburg, 1984); Hamilton, V., *The Book of Genesis* (NICOT, 1990); Wenham, G., *Genesis 1–15* (WBC, 1987).
 - **Chronology:** Hasel, G., "The Meaning of the Chronogenealogies of Genesis 5 and 11," *Origins* 7 (1980): 53–70.
 
-> **Editorial provenance:** Drafted by Claude Opus 4.6 (1M context) on 2026-04-27. Not yet reviewed. This file is a provisional scholarly resource governed by TT Rule 29.
+> **Editorial provenance:** AI-assisted draft, not yet reviewed. This file is a provisional scholarly resource governed by TT Rule 29.

@@ -265,7 +265,7 @@ Genesis 9:20–21: Noah „pflanzte einen Weinberg, und er trank vom Wein und wu
 
 ## I. Die Welt zur damaligen Zeit
 
-> **Querverweis:** Für den vollständigen Welt-Kontext (vier Szenarien, zehn Kategorien — Politik, Wirtschaft, Alltagsleben, Sozialstruktur, Bildung, Militär, Kunst, Wissenschaft, Religion, Nachbarvölker), siehe den Genesis-1-Begleitkommentar (Abschnitt I, `de/genesis/study/CHAPTER-1-CONTEXT.md`). Die folgenden Einträge behandeln die historischen Umstände, die in Genesis 9 spezifisch hervorgehoben werden — nachflutliche Bundeskonzepte, die Ursprünge des Weinbaus, Nacktheit und Ehre-Scham-Codes, Segen und Fluch in der altorientalischen Gesellschaft sowie die Bogensymbolik des göttlichen Kriegers.
+> **Querverweis:** Für den vollständigen Welt-Kontext (vier Szenarien, zehn Kategorien — Politik, Wirtschaft, Alltagsleben, Sozialstruktur, Bildung, Militär, Kunst, Wissenschaft, Religion, Nachbarvölker), siehe das Begleitmaterial zu Genesis 1 (Vertiefen), Abschnitt I. Die folgenden Einträge behandeln die historischen Umstände, die in Genesis 9 spezifisch hervorgehoben werden — nachflutliche Bundeskonzepte, die Ursprünge des Weinbaus, Nacktheit und Ehre-Scham-Codes, Segen und Fluch in der altorientalischen Gesellschaft sowie die Bogensymbolik des göttlichen Kriegers.
 
 ---
 
@@ -371,6 +371,4 @@ Die persische und früh-hellenistische imperiale Verwaltung funktionierte durch 
 ---
 
 **Editoriale Herkunft:**
-- Entworfen von: Claude Opus 4.6 (KI-Assistent)
-- Datum: 2026-04-24
-- Überprüft von: ausstehend
+- KI-gestützter Entwurf, noch nicht geprüft.

@@ -93,7 +93,7 @@ Dies *ist* das Buch der Geschlechterfolgen Adams. Am Tag, da Gott *einen* Mensch
 > - **סֵפֶר תּוֹלְדֹת אָדָם** (*sefer toledot Adam*) = „das Buch der *Toledot* Adams." Zweite *Toledot*-Markierung in Genesis (erste bei 2:4). Diese fügt **סֵפֶר** (*sefer*, „Buch/Dokument") hinzu — die einzige *Toledot* mit diesem Präfix. Signalisiert eine strukturierte schriftliche Aufzeichnung.
 >
 > 🔴 **KRITISCH — ADAM IST NUN EIGENNAME**
-> - **אָדָם** (*Adam*) — artikellos (ohne Artikel), genealogischer Kontext. Eigenname ab diesem Vers festgelegt (gemäß Redaktionsprotokoll Eintrag 081). Derselbe Vers verwendet dann „Mensch" (*adam*) generisch im Schöpfungserinnerungssatz: „am Tag, da Gott *einen* Menschen erschuf."
+> - **אָדָם** (*Adam*) — artikellos (ohne Artikel), genealogischer Kontext. Eigenname ab diesem Vers festgelegt. Derselbe Vers verwendet dann „Mensch" (*adam*) generisch im Schöpfungserinnerungssatz: „am Tag, da Gott *einen* Menschen erschuf."
 >
 > 🔵 **BILD/GLEICHHEIT ERINNERT**
 > - „In der Gleichheit Gottes machte er ihn" — Echo von Gn 1:26–27. Verwendet *demut* (Gleichheit) und *asah* (machte). Querverweis zu V.3, wo die Sprache sich umkehrt: Adam zeugt Shet (Set) „in seiner Gleichheit, nach seinem Bild."
@@ -121,7 +121,7 @@ Und Adam lebte einhundertunddreißig Jahre, und er zeugte in seiner Gleichheit, 
 > - Gn 1:26–27: Gott erschafft den Menschen „in unserem Bild, nach unserer Gleichheit." Gn 5:3: Adam zeugt Set „in **seiner** Gleichheit, nach **seinem** Bild." Die göttlich-zu-menschliche Schöpfungssprache wird an die menschlich-zu-menschliche Abstammung **gekettet**. Das *tselem/demut*-Paar setzt sich durch die Generationen fort.
 >
 > 🟢 **130 JAHRE**
-> - Gn 2:17 warnte „sterbend sollst du sterben." Gn 3:19 stellte fest „Staub bist du." Nun lebt Adam 130 Jahre bis Set — dann stirbt er mit 930 (V.5). Die „am Tag"-Spannung (2:17 gegen 5:5) ist textuell vorhanden. Querverweis zum Redaktionsprotokoll für *beyom*-Interpretationsoptionen.
+> - Gn 2:17 warnte „sterbend sollst du sterben." Gn 3:19 stellte fest „Staub bist du." Nun lebt Adam 130 Jahre bis Set — dann stirbt er mit 930 (V.5). Die „am Tag"-Spannung (2:17 gegen 5:5) ist textuell vorhanden.
 
 ---
 

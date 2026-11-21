@@ -361,7 +361,7 @@ And Adam knew his woman again, and she bore a son and called his name Shet (Seth
 > **NOTES**
 >
 > 🔴 **CRITICAL — ADAM BECOMES PROPER NAME**
-> - **אָדָם** (*adam*) appears here **without the article** in a genealogical/naming context. This is the **transition point** from generic "the human" to proper name "Adam." The TT shifts to "Adam" from this verse forward. Logged in editorial log (entry 081).
+> - **אָדָם** (*adam*) appears here **without the article** in a genealogical/naming context. This is the **transition point** from generic "the human" to proper name "Adam." The TT shifts to "Adam" from this verse forward.
 >
 > 🟢 **SHET = "SET/PLACED"**
 > - **שֵׁת** (*Shet*) from **שִׁית** (*shit*) = "to set/place." Chava (Eve)'s speech makes the wordplay explicit: "God has *shat* (set) for me another *zera* (seed)."

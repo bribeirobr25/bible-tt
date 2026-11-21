@@ -719,7 +719,4 @@ Griechen waren nun die dominierende kulturelle Präsenz. Phönizische Städte wu
 ---
 
 **Editoriale Herkunft:**
-- Entworfen von: Claude Opus 4.6 (KI-Assistent)
-- Datum: 2026-04-18
-- Überprüft von: ausstehend
-- Regel-29-Konformität: ausstehende Überprüfung
+- KI-gestützter Entwurf, noch nicht geprüft.

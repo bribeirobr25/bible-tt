@@ -93,7 +93,7 @@ Y toda la tierra era *de* un solo labio y unas mismas palabras.
 
 > **NOTAS**
 >
-> 🟡 **NIVEL 2 — NOTA DE RECEPCIÓN**
+> 🟡 **NOTA DE RECEPCIÓN**
 > - La narrativa de Babel no debe leerse como una condena general de la tecnología, la civilización urbana o la diversidad lingüística. Vea el compañero Sección F para contexto histórico sobre lecturas erróneas documentadas.
 >
 > 🔴 **CRÍTICO — "UN SOLO LABIO" (*saphah ejat*)**

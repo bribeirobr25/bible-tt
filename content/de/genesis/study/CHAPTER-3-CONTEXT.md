@@ -329,7 +329,7 @@ Genesis 2:17: „am Tag, da du davon isst, wirst du des Todes sterben" — an de
 
 ## I. Die Welt zur damaligen Zeit
 
-> **Querverweis:** Für den vollständigen Welt-Kontext (vier Szenarien, zehn Kategorien — Politik, Wirtschaft, Alltagsleben, Sozialstruktur, Bildung, Militär, Kunst, Wissenschaft, Religion, Nachbarvölker), siehe den Genesis-1-Begleitkommentar (Abschnitt I, `de/genesis/study/CHAPTER-1-CONTEXT.md`). Die folgenden Einträge behandeln die historischen Umstände, die in Genesis 3 spezifisch hervorgehoben werden — die Schlange, verbotenes Wissen, Tod, Nacktheit und Scham, der Fluch und die Vertreibung.
+> **Querverweis:** Für den vollständigen Welt-Kontext (vier Szenarien, zehn Kategorien — Politik, Wirtschaft, Alltagsleben, Sozialstruktur, Bildung, Militär, Kunst, Wissenschaft, Religion, Nachbarvölker), siehe das Begleitmaterial zu Genesis 1 (Vertiefen), Abschnitt I. Die folgenden Einträge behandeln die historischen Umstände, die in Genesis 3 spezifisch hervorgehoben werden — die Schlange, verbotenes Wissen, Tod, Nacktheit und Scham, der Fluch und die Vertreibung.
 
 ---
 
@@ -428,6 +428,4 @@ In der persischen und hellenistischen Periode waren die Kerubim (*Keruvim*) mit 
 ---
 
 **Editoriale Herkunft:**
-- Entworfen von: Claude Opus 4.6 (KI-Assistent)
-- Datum: 2026-04-18
-- Überprüft von: ausstehend
+- KI-gestützter Entwurf, noch nicht geprüft.

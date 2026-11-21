@@ -181,7 +181,7 @@ Gn 11:26: "Taré vivió setenta años y engendró a Abrán, Nacor y Harán." Gn 
 
 ## I. El Mundo en Esa Época
 
-> **Referencia cruzada:** Para el contexto mundial completo (cuatro escenarios, diez categorías — Político, Economía, Vida Cotidiana, Estructura Social, Educación, Militar, Artes, Ciencia, Religión, Pueblos Vecinos), véase el companion de Génesis 1 (Sección I, `es/genesis/study/CHAPTER-1-CONTEXT.md`). Las entradas a continuación abordan las circunstancias históricas específicamente destacadas en Génesis 11 — la arquitectura de torres y zigurats, la ideología de la civilización urbana, la diversidad lingüística en el mundo antiguo, los patrones de migración y las ciudades de Ur y Jarán como lugares reales en el mapa antiguo.
+> **Referencia cruzada:** Para el contexto mundial completo (cuatro escenarios, diez categorías — Político, Economía, Vida Cotidiana, Estructura Social, Educación, Militar, Artes, Ciencia, Religión, Pueblos Vecinos), véase el material de estudio de Génesis 1 (Profundizar), Sección I. Las entradas a continuación abordan las circunstancias históricas específicamente destacadas en Génesis 11 — la arquitectura de torres y zigurats, la ideología de la civilización urbana, la diversidad lingüística en el mundo antiguo, los patrones de migración y las ciudades de Ur y Jarán como lugares reales en el mapa antiguo.
 
 ---
 
@@ -278,6 +278,4 @@ El período helenístico estuvo definido por la difusión del griego (*koiné*) 
 ---
 
 **Procedencia editorial:**
-- Redactado por: Claude Opus 4.6 (asistente de IA)
-- Fecha: 2026-04-27
-- Revisado por: pendiente
+- Borrador asistido por IA, aún no revisado.

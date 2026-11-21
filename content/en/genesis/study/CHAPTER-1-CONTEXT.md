@@ -742,7 +742,4 @@ Greeks were now the dominant cultural presence. Phoenician cities were absorbed 
 ---
 
 **Editorial provenance:**
-- Drafted by: Claude Opus 4.6 (AI assistant)
-- Date: 2026-04-18
-- Reviewed by: pending
-- Rule 29 compliance: pending review
+- AI-assisted draft, not yet reviewed.

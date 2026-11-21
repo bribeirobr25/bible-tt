@@ -167,7 +167,7 @@ Die Formel sagt, jeder Patriarch "zeugte Söhne und Töchter" — aber keine Toc
 
 ## I. Die Welt zur damaligen Zeit
 
-> **Querverweis:** Für den vollständigen Welt-Kontext (vier Szenarien, zehn Kategorien — Politik, Wirtschaft, Alltagsleben, Sozialstruktur, Bildung, Militär, Kunst, Wissenschaft, Religion, Nachbarvölker), siehe den Genesis-1-Begleitkommentar (Abschnitt I, `de/genesis/study/CHAPTER-1-CONTEXT.md`). Die folgenden Einträge behandeln die historischen Umstände, die in Genesis 5 spezifisch hervorgehoben werden — die Genealogie, die außerordentlichen Lebensspannen, das Zahlensystem und die Ahnenaufzeichnungskonventionen.
+> **Querverweis:** Für den vollständigen Welt-Kontext (vier Szenarien, zehn Kategorien — Politik, Wirtschaft, Alltagsleben, Sozialstruktur, Bildung, Militär, Kunst, Wissenschaft, Religion, Nachbarvölker), siehe das Begleitmaterial zu Genesis 1 (Vertiefen), Abschnitt I. Die folgenden Einträge behandeln die historischen Umstände, die in Genesis 5 spezifisch hervorgehoben werden — die Genealogie, die außerordentlichen Lebensspannen, das Zahlensystem und die Ahnenaufzeichnungskonventionen.
 
 ---
 
@@ -267,6 +267,4 @@ Griechische philosophische Traditionen (Pythagoras, Platon) verliehen Zahlen kos
 ---
 
 **Editoriale Herkunft:**
-- Entworfen von: Claude Opus 4.6 (KI-Assistent)
-- Datum: 2026-04-21
-- Überprüft von: ausstehend
+- KI-gestützter Entwurf, noch nicht geprüft.

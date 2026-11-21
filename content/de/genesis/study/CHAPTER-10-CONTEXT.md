@@ -134,7 +134,7 @@ Genesis 10 organisiert alle bekannten Völker in drei Abstammungslinien von eine
 ### F1. Anti-Missbrauch-Erklärung — die Völkertafel
 **[SPÄTERE REZEPTION — DOKUMENTIERT]**
 
-Die Völkertafel wurde missbraucht, um Rassenhierarchien, koloniale Rechtfertigungen und Behauptungen ethnischer Herkunft zu konstruieren. Genesis 10 ist ein antiker genealogisch-geographischer Text, der die Perspektive seiner Entstehungszeit widerspiegelt. Er liefert keine biologische Taxonomie moderner Völker. Das ethnogenese-Verbot der TT (REGELN-KERN.md) gilt: Der Text darf nicht auf moderne rassische, ethnische oder nationale Gruppen übertragen werden. Die Einordnung von Völkern unter Shem, Ham oder Yafet spiegelt antike politische und kulturelle Assoziationen wider, keine biologische Abstammung im modernen genetischen Sinne. Keine moderne Ethnie, Nation oder Rassengruppe kann aus diesem Text einen besonderen Status — positiv oder negativ — ableiten.
+Die Völkertafel wurde missbraucht, um Rassenhierarchien, koloniale Rechtfertigungen und Behauptungen ethnischer Herkunft zu konstruieren. Genesis 10 ist ein antiker genealogisch-geographischer Text, der die Perspektive seiner Entstehungszeit widerspiegelt. Er liefert keine biologische Taxonomie moderner Völker. Das ethnogenese-Verbot der TT gilt: Der Text darf nicht auf moderne rassische, ethnische oder nationale Gruppen übertragen werden. Die Einordnung von Völkern unter Shem, Ham oder Yafet spiegelt antike politische und kulturelle Assoziationen wider, keine biologische Abstammung im modernen genetischen Sinne. Keine moderne Ethnie, Nation oder Rassengruppe kann aus diesem Text einen besonderen Status — positiv oder negativ — ableiten.
 
 ---
 
@@ -161,7 +161,7 @@ Traditionelle Zählung der Namen in Genesis 10 ergibt ungefähr 70 verschiedene 
 
 ## I. Die Welt zur damaligen Zeit
 
-> **Querverweis:** Für den vollständigen Welt-Kontext (vier Szenarien, zehn Kategorien — Politik, Wirtschaft, Alltagsleben, Sozialstruktur, Bildung, Militär, Kunst, Wissenschaft, Religion, Nachbarvölker), siehe den Genesis-1-Begleitkommentar (Abschnitt I, `de/genesis/study/CHAPTER-1-CONTEXT.md`). Die folgenden Einträge behandeln die historischen Umstände, die in Genesis 10 spezifisch hervorgehoben werden — die Völkertafel als ethnografisches und geografisches Dokument, Handelsrouten zwischen bekannten Völkern, die Klassifizierung anderer Völker in der Antike, Stadtgründungstraditionen und das Nimrod-/Imperiums-Konzept.
+> **Querverweis:** Für den vollständigen Welt-Kontext (vier Szenarien, zehn Kategorien — Politik, Wirtschaft, Alltagsleben, Sozialstruktur, Bildung, Militär, Kunst, Wissenschaft, Religion, Nachbarvölker), siehe das Begleitmaterial zu Genesis 1 (Vertiefen), Abschnitt I. Die folgenden Einträge behandeln die historischen Umstände, die in Genesis 10 spezifisch hervorgehoben werden — die Völkertafel als ethnografisches und geografisches Dokument, Handelsrouten zwischen bekannten Völkern, die Klassifizierung anderer Völker in der Antike, Stadtgründungstraditionen und das Nimrod-/Imperiums-Konzept.
 
 ---
 
@@ -252,6 +252,4 @@ Griechische Historiker und Geografen entwickelten im 4.–3. Jahrhundert v. Chr.
 ---
 
 **Redaktionelle Herkunft:**
-- Entwurf: Claude Opus 4.6 (KI-Assistent)
-- Datum: 2026-04-27
-- Begutachtung: ausstehend
+- KI-gestützter Entwurf, noch nicht geprüft.

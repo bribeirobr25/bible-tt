@@ -167,7 +167,7 @@ A contagem tradicional dos nomes em Gênesis 10 produz aproximadamente 70 povos 
 
 ## I. O Mundo na Época
 
-> **Referência cruzada:** Para o contexto mundial completo (quatro cenários, dez categorias — Político, Economia, Vida Cotidiana, Estrutura Social, Educação, Militar, Artes, Ciência, Religião, Povos Vizinhos), veja o companheiro de Gênesis 1 (Seção I, `pt-br/genesis/study/CHAPTER-1-CONTEXT.md`). As entradas abaixo abordam as circunstâncias históricas especificamente destacadas em Gênesis 10 — a Tábua das Nações como documento etnográfico e geográfico, as rotas comerciais que conectavam o mundo conhecido, como os povos antigos classificavam outros povos, tradições de fundação de cidades e o conceito de Nimrod/império.
+> **Referência cruzada:** Para o contexto mundial completo (quatro cenários, dez categorias — Político, Economia, Vida Cotidiana, Estrutura Social, Educação, Militar, Artes, Ciência, Religião, Povos Vizinhos), veja o material de estudo de Gênesis 1 (Aprofundar), Seção I. As entradas abaixo abordam as circunstâncias históricas especificamente destacadas em Gênesis 10 — a Tábua das Nações como documento etnográfico e geográfico, as rotas comerciais que conectavam o mundo conhecido, como os povos antigos classificavam outros povos, tradições de fundação de cidades e o conceito de Nimrod/império.
 
 ---
 
@@ -262,6 +262,4 @@ Historiadores e geógrafos gregos estavam desenvolvendo suas próprias tradiçõ
 ---
 
 **Proveniência editorial:**
-- Redigido por: Claude Opus 4.6 (assistente de IA)
-- Data: 2026-04-27
-- Revisado por: pendente
+- Rascunho assistido por IA, ainda não revisado.

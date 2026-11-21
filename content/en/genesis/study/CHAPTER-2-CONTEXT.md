@@ -314,7 +314,7 @@ Genesis 2:21: "YHWH God caused a deep sleep (*tardemah*) to fall upon the human,
 
 ## I. The World at the Time
 
-> **Cross-reference:** For the full four-scenario, ten-category world context (Political, Economy, Daily Life, Social Structure, Education, Military, Arts, Science, Religion, Neighboring Peoples), see the Genesis 1 companion (Section I, `en/genesis/study/CHAPTER-1-CONTEXT.md`). The entries below address the historical circumstances specifically foregrounded in Genesis 2 — the garden, agriculture, irrigation, marriage, naming, and the *tardemah* surgery.
+> **Cross-reference:** For the full four-scenario, ten-category world context (Political, Economy, Daily Life, Social Structure, Education, Military, Arts, Science, Religion, Neighboring Peoples), see the Genesis 1 study companion (Deeper), Section I. The entries below address the historical circumstances specifically foregrounded in Genesis 2 — the garden, agriculture, irrigation, marriage, naming, and the *tardemah* surgery.
 
 ---
 
@@ -422,6 +422,4 @@ In the Persian and early Hellenistic periods, the Torah was gaining its status a
 ---
 
 **Editorial provenance:**
-- Drafted by: Claude Opus 4.6 (AI assistant)
-- Date: 2026-04-18
-- Reviewed by: pending
+- AI-assisted draft, not yet reviewed.

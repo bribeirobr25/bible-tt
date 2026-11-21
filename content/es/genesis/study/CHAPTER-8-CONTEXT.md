@@ -209,7 +209,7 @@ Génesis 8:6–12 envía dos aves: el cuervo (*orev*) "salió, saliendo y volvie
 
 ## I. El Mundo en Esa Época
 
-> **Referencia cruzada:** Para el contexto mundial completo (cuatro escenarios, diez categorías — Político, Economía, Vida Cotidiana, Estructura Social, Educación, Militar, Artes, Ciencia, Religión, Pueblos Vecinos), véase el companion de Génesis 1 (Sección I, `es/genesis/study/CHAPTER-1-CONTEXT.md`). Las entradas a continuación abordan las circunstancias históricas específicamente destacadas en Génesis 8 — la secuencia de re-creación, la auguración con aves, la construcción de altares y el sacrificio, la formación del pacto y la reanudación de la agricultura.
+> **Referencia cruzada:** Para el contexto mundial completo (cuatro escenarios, diez categorías — Político, Economía, Vida Cotidiana, Estructura Social, Educación, Militar, Artes, Ciencia, Religión, Pueblos Vecinos), véase el material de estudio de Génesis 1 (Profundizar), Sección I. Las entradas a continuación abordan las circunstancias históricas específicamente destacadas en Génesis 8 — la secuencia de re-creación, la auguración con aves, la construcción de altares y el sacrificio, la formación del pacto y la reanudación de la agricultura.
 
 ---
 
@@ -308,6 +308,4 @@ La fecha de fin del diluvio (Mes 2, Día 27 del año 601 de Noé) y su compleja 
 ---
 
 **Procedencia editorial:**
-- Redactado por: Claude Opus 4.6 (asistente de IA)
-- Fecha: 2026-04-25
-- Revisado por: pendiente
+- Borrador asistido por IA, aún no revisado.
