@@ -252,7 +252,7 @@ Según la política de transliteración de nombres de la TT, la primera aparici�
 
 La TT marca el texto con un pequeño conjunto de convenciones que el lector encontrará a lo largo de 1 Pedro 1–5:
 
-- `*añadido*` — palabras agregadas para la gramática española (Regla 11), mostradas en cursiva. (Frecuente aquí: la cópula en "yo *soy* santo," 1:16; "Bendito *sea*," 1:3.)
+- *añadido* — palabras agregadas para la gramática española (Regla 11), mostradas en cursiva. (Frecuente aquí: la cópula en "yo *soy* santo," 1:16; "Bendito *sea*," 1:3.)
 - {t:…} — un término transliterado llevado con su glosa, donde el texto mismo la suministra.
 - {a:…} — un doble sentido vivo mantenido abierto en lugar de resuelto, p. ej. {a:viento/espíritu} para πνεῦμα, que permanece abierto en todo momento (1:2, 11, 12; 3:18, 19; 4:6, 14).
 - @@…@@ — discurso divino (Regla 30). 1 Pedro es la exhortación del apóstol **en su propia voz** — no hay habla divina narrada, así que nada en 1 Pedro se marca. La palabra de Dios en primera persona *dentro* de una cita del AT **tampoco** se marca, porque el apóstol la está citando ("está escrito"): **1:16** ("sean santos, porque yo *soy* santo," Lev 11:44/19:2) y **2:6** ("he aquí, pongo en Sion una piedra…," Isa 28:16). Las citas que hablan *acerca* del Señor en tercera persona — la voz humana del salmista y del profeta (1:24–25, Isa 40; 2:3, Sal 34; 3:10–12, Sal 34) — **tampoco** se marcan.
@@ -295,7 +295,7 @@ Un caso distinto y deliberado es **3:15**: "santifiquen *al Mesías* como Señor
 | 1 | Consistencia Léxica Controlada | Los términos fijados (*kyrios*, *Christos*, *pneuma*, *baptisma*, *anastrophē*, *elpis*, *psychē*, *hypotassō*) se traducen consistentemente en los cinco capítulos según el glosario GS. |
 | 2 | Preservación de Ambigüedad | {a:viento/espíritu} (πνεῦμα) mantenido abierto en todo momento (1:2, 11, 12; 3:18–19; 4:6, 14). |
 | 3 | No importar teología | El saludo de forma trinitaria (1:2) se traduce sin la palabra dogmática posterior "Trinidad"; el código doméstico (2:18–3:7) se traduce fielmente con la historia interpretativa en las notas y sin tomar partido — restricción en ambos sentidos. |
-| 11 | Marcar adiciones gramaticales | Las palabras agregadas para la gramática española aparecen en cursiva (`*añadido*`); frecuente con el griego sin verbo (1:3, 16). |
+| 11 | Marcar adiciones gramaticales | Las palabras agregadas para la gramática española aparecen en cursiva (*añadido*); frecuente con el griego sin verbo (1:3, 16). |
 | 13 | Niveles de incertidumbre | Los términos debatidos (el descenso / "espíritus en prisión," 3:18–20; el bautismo que "ahora los salva," 3:21; "puestos" para tropezar, 2:8; el desplazamiento de referente de κύριος, 3:15) llevan etiquetas de confianza (Probable / Posible / Incierto). |
 | 22 | Restricción Textual-Crítica | Las (modestas) variantes significativas — p. ej. 3:18; 4:14 — registradas en las notas sin adopción silenciosa. Ver E2. |
 | 25 | Política del Nombre Divino — GS Opción C | κύριος traducido como "el Señor" en contextos de cita/eco del AT, con una nota identificando YHWH en el hebreo subyacente. Ver F5. |

@@ -242,7 +242,7 @@ El capítulo abre y cierra con el mismo verbo. Las esposas han de "**someterse**
 
 ## I. El Mundo en Esa Época
 
-> **El mundo de los destinatarios.** A diferencia de los compañeros de los Evangelios y Hechos (situados en la Judea del Segundo Templo), 1 Pedro se dirige a creyentes dispersos en las **provincias grecorromanas de Asia Menor** (el Ponto, Galacia, Capadocia, Asia, Bitinia — 1:1; §C1) a finales del primer siglo EC. Las instrucciones domésticas del capítulo (vv.1-7) hablan directamente a las **normas de matrimonio y hogar del mundo grecorromano más amplio** — razón por la cual esta Sección I se centra en ese entorno doméstico-y-social en lugar de en la ciudad-Templo. Se usa la forma plana `### [Tema]` (la predeterminada).
+> **El mundo de los destinatarios.** A diferencia de los compañeros de los Evangelios y Hechos (situados en la Judea del Segundo Templo), 1 Pedro se dirige a creyentes dispersos en las **provincias grecorromanas de Asia Menor** (el Ponto, Galacia, Capadocia, Asia, Bitinia — 1:1; §C1) a finales del primer siglo EC. Las instrucciones domésticas del capítulo (vv.1-7) hablan directamente a las **normas de matrimonio y hogar del mundo grecorromano más amplio** — razón por la cual esta Sección I se centra en ese entorno doméstico-y-social en lugar de en la ciudad-Templo.
 
 ---
 

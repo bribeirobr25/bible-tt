@@ -234,7 +234,7 @@ Conforme a política de transliteração de nomes da TT, a primeira ocorrência 
 
 A TT marca o texto com um pequeno conjunto de convenções que o leitor encontrará ao longo de Atos 1–3:
 
-- `*adicionado*` — palavras acrescentadas para a gramática portuguesa (Regra 11), mostradas em itálico.
+- *adicionado* — palavras acrescentadas para a gramática portuguesa (Regra 11), mostradas em itálico.
 - {t:…} — um termo transliterado carregado com sua glosa, ex., {t:Hakeldama} (Campo de Sangue), o nome de lugar aramaico que o próprio texto glosa (1:19).
 - {a:…} — um duplo sentido vivo mantido aberto em vez de resolvido, ex., {a:vento/espírito} para πνεῦμα e {a:línguas/idiomas} para γλῶσσαι em Pentecostes (2:4, 11), onde ambos os sentidos permanecem em jogo.
 - @@…@@ — fala divina (Regra 30): a fala direta na primeira pessoa do Yeshua (Jesus) ressurreto (1:4–5, 1:7–8). As palavras de Deus na primeira pessoa dentro das citações do AT (ex., o "derramarei o meu Espírito" de Joel, 2:17–18) **não** são marcadas, porque Kefa (Pedro) as está citando, e seus sermões são fala humana. Os **dois homens** na ascensão (1:10–11) são mensageiros da classe *angelos* e **não** são marcados, seguindo o precedente Gabriel/mensageiro.
@@ -268,7 +268,7 @@ O caso emblemático é **Atos 2:34** (citando o Salmo 110:1): "**O Senhor** (κ�
 | 1 | Consistência Lexical Controlada | Termos do glossário travado (*kyrios*, *Christos*, *metanoia*, *aphesis*, *koinōnia*, *pneuma*, *baptisma*) traduzidos consistentemente em todos os capítulos de Atos conforme o glossário GS. |
 | 2 | Preservação de Ambiguidade | {a:vento/espírito} (πνεῦμα) e {a:línguas/idiomas} (γλῶσσαι) mantidos abertos em vez de resolvidos. |
 | 3 | Sem teologia importada | A narrativa de Pentecostes e os sermões são traduzidos como o texto os apresenta — sem importar doutrina posterior e sem descartar a narrativa. Contenção nos dois sentidos. |
-| 11 | Marcar adições gramaticais | Palavras adicionadas para a gramática portuguesa aparecem em itálico (`*adicionado*`). |
+| 11 | Marcar adições gramaticais | Palavras adicionadas para a gramática portuguesa aparecem em itálico (*adicionado*). |
 | 13 | Níveis de incerteza | Termos debatidos (o duplo-κύριος de 2:34; εἰς ἄφεσιν, 2:38; ἀποκατάστασις, 3:21) carregam rótulos de confiança (Provável / Possível / Incerto). |
 | 14 | Anotar Jogos de Palavras | O jogo de palavras πνεῦμα/γλῶσσαι de Pentecostes explicado nas notas. |
 | 22 | Restrição Textual-Crítica | Variantes ocidentais (Códice Bezae) registradas nas notas sem adoção silenciosa. Ver E2. |

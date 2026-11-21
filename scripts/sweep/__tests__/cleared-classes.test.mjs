@@ -97,6 +97,10 @@ beforeAll(() => {
             line.indexOf("@@"),
           ),
         );
+      // the renderer prints backticks literally — reader text must not use code spans
+      const code = line.match(/`[^`]+`/);
+      if (code)
+        hits.push(C.makeHit(ctx, i, "S6b", "code-span", code[0], code.index));
       const d = line.match(DOUBLED);
       if (d)
         hits.push(C.makeHit(ctx, i, "S7a", "doubled-article", d[0], d.index));
@@ -120,6 +124,7 @@ const keyOf = (h, lines) =>
 describe("cleared content classes stay cleared (Step 4 batch 3)", () => {
   const relevant = (h) => {
     if (["S6d", "S7a", "S5d"].includes(h.check)) return true;
+    if (h.check === "S6b" && h.cls === "code-span") return true;
     const spec = CLEARED.find((c) => c.check === h.check);
     if (!spec) return false;
     if (h.check === "S9" && h.cls === "repo-path:see-field") return false;

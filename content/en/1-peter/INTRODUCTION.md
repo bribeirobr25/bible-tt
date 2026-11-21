@@ -252,7 +252,7 @@ Per the TT's name-rendering policy, the first occurrence of a name per section a
 
 The TT marks the text with a small set of conventions the reader will encounter throughout 1 Peter 1–5:
 
-- `*added*` — words added for English grammar (Rule 11), shown in italics. (Frequent here: the copula in "I *am* holy," 1:16; "Blessed *be*," 1:3.)
+- *added* — words added for English grammar (Rule 11), shown in italics. (Frequent here: the copula in "I *am* holy," 1:16; "Blessed *be*," 1:3.)
 - {t:…} — a transliterated term carried with its gloss, where the text itself supplies one.
 - {a:…} — a live double sense kept open rather than resolved, e.g. {a:wind/spirit} for πνεῦμα, which stays open throughout (1:2, 11, 12; 3:18, 19; 4:6, 14).
 - @@…@@ — divine speech (Rule 30). 1 Peter is the apostle's exhortation **in his own voice** — there is no narrated divine speech, so nothing in 1 Peter is marked. God's first-person word *inside* an OT citation is **not** marked either, because the apostle is quoting it ("it is written"): **1:16** ("be holy, because I *am* holy," Lev 11:44/19:2) and **2:6** ("behold, I lay in Zion a stone…," Isa 28:16). Citations that speak *about* the Lord in the third person — the psalmist's and prophet's human voice (1:24–25, Isa 40; 2:3, Ps 34; 3:10–12, Ps 34) — are likewise **not** marked.
@@ -295,7 +295,7 @@ A distinct, deliberate case is **3:15**: "sanctify *the Messiah* as Lord," which
 | 1 | Controlled Lexical Consistency | Locked terms (*kyrios*, *Christos*, *pneuma*, *baptisma*, *anastrophē*, *elpis*, *psychē*, *hypotassō*) rendered consistently across all five chapters per the GS glossary. |
 | 2 | Ambiguity Preservation | {a:wind/spirit} (πνεῦμα) kept open throughout (1:2, 11, 12; 3:18–19; 4:6, 14). |
 | 3 | No imported theology | The triune-shaped salutation (1:2) is rendered without the later dogmatic word "Trinity"; the household code (2:18–3:7) is rendered faithfully with the interpretive history in the notes and no side taken — restraint both ways. |
-| 11 | Mark Grammatical Additions | Words added for English grammar appear in italics (`*added*`); frequent with verbless Greek (1:3, 16). |
+| 11 | Mark Grammatical Additions | Words added for English grammar appear in italics (*added*); frequent with verbless Greek (1:3, 16). |
 | 13 | Uncertainty Levels | Debated terms (the descent / "spirits in prison," 3:18–20; baptism "now saves you," 3:21; "appointed" to stumble, 2:8; the κύριος referent-shift, 3:15) carry confidence labels (Probable / Possible / Uncertain). |
 | 22 | Text-Critical Restraint | The (modest) significant variants — e.g. 3:18; 4:14 — recorded in the notes without silent adoption. See E2. |
 | 25 | Divine Name Policy — GS Option C | κύριος rendered "the Lord" in OT-quotation/echo contexts, with a note identifying YHWH in the underlying Hebrew. See F5. |

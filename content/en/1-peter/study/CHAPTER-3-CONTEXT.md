@@ -242,7 +242,7 @@ The chapter opens and closes with the same verb. The wives are to "**submit**" (
 
 ## I. The World at the Time
 
-> **The recipients' world.** Unlike the Gospel and Acts companions (set in Second-Temple Judea), 1 Peter addresses scattered believers in the **Greco-Roman provinces of Asia Minor** (Pontus, Galatia, Cappadocia, Asia, Bithynia — 1:1; §C1) in the later first century CE. The chapter's household instructions (vv.1-7) speak directly into the **marriage and household norms of the wider Greco-Roman world** — which is why this Section I focuses on that domestic-and-social setting rather than on the Temple-city. The flat `### [Topic]` form is used (the default).
+> **The recipients' world.** Unlike the Gospel and Acts companions (set in Second-Temple Judea), 1 Peter addresses scattered believers in the **Greco-Roman provinces of Asia Minor** (Pontus, Galatia, Cappadocia, Asia, Bithynia — 1:1; §C1) in the later first century CE. The chapter's household instructions (vv.1-7) speak directly into the **marriage and household norms of the wider Greco-Roman world** — which is why this Section I focuses on that domestic-and-social setting rather than on the Temple-city.
 
 ---
 

@@ -234,7 +234,7 @@ Gemäß der TT-Politik zur Namenswiedergabe erscheint das erste Vorkommen eines 
 
 Die TT kennzeichnet den Text mit einer kleinen Reihe von Konventionen, denen der Leser durch Apg 1–3 hindurch begegnen wird:
 
-- `*hinzugefügt*` — für die deutsche Grammatik hinzugefügte Wörter (Regel 11), kursiv dargestellt.
+- *hinzugefügt* — für die deutsche Grammatik hinzugefügte Wörter (Regel 11), kursiv dargestellt.
 - {t:…} — ein transliterierter Begriff, mit seiner Glosse mitgeführt, z. B. {t:Hakeldama} (Blutacker), der aramäische Ortsname, den der Text selbst glossiert (1,19).
 - {a:…} — ein lebendiger Doppelsinn, der offengehalten statt aufgelöst wird, z. B. {a:Wind/Geist} für πνεῦμα und {a:Zungen/Sprachen} für γλῶσσαι an Pfingsten (2,4.11), wo beide Sinne im Spiel bleiben.
 - @@…@@ — göttliche Rede (Regel 30): die direkte Rede des auferstandenen Yeshua (Jesus) in der ersten Person (1,4–5; 1,7–8). Gottes Ich-Worte innerhalb von AT-Zitaten (z. B. Yoels „Ich werde meinen Geist ausgießen", 2,17–18) werden **nicht** markiert, weil Kefa (Petrus) sie zitiert, und seine Predigten sind menschliche Rede. Die **zwei Männer** bei der Himmelfahrt (1,10–11) sind Boten der *angelos*-Klasse und werden **nicht** markiert, im Einklang mit dem Gavriel-/Boten-Präzedenzfall.
@@ -268,7 +268,7 @@ Der Leitfall ist **Apg 2,34** (Zitat Psalm 110,1): „**Der Herr** (κύριος
 | 1 | Kontrollierte Lexikalische Konsistenz | Begriffe des gesperrten Glossars (*kyrios*, *Christos*, *metanoia*, *aphesis*, *koinōnia*, *pneuma*, *baptisma*) werden in allen Apostelgeschichts-Kapiteln einheitlich gemäß GS-Glossar wiedergegeben. |
 | 2 | Ambiguitätsbewahrung | {a:Wind/Geist} (πνεῦμα) und {a:Zungen/Sprachen} (γλῶσσαι) werden offengehalten statt aufgelöst. |
 | 3 | Keine importierte Theologie | Die Pfingsterzählung und die Predigten werden übersetzt, wie der Text sie präsentiert — ohne spätere Lehre zu importieren und ohne die Erzählung abzutun. Zurückhaltung in beide Richtungen. |
-| 11 | Grammatische Zusätze kennzeichnen | Für die deutsche Grammatik hinzugefügte Wörter erscheinen kursiv (`*hinzugefügt*`). |
+| 11 | Grammatische Zusätze kennzeichnen | Für die deutsche Grammatik hinzugefügte Wörter erscheinen kursiv (*hinzugefügt*). |
 | 13 | Unsicherheitsstufen | Umstrittene Begriffe (das doppelte κύριος von 2,34; εἰς ἄφεσιν, 2,38; ἀποκατάστασις, 3,21) tragen Vertrauenskennzeichnungen (Wahrscheinlich / Möglich / Unsicher). |
 | 14 | Wortspiele Annotieren | Das πνεῦμα/γλῶσσαι-Pfingstwortspiel wird in den Anmerkungen erläutert. |
 | 22 | Textkritische Zurückhaltung | Westliche (Codex Bezae) Varianten werden in den Anmerkungen ohne stillschweigende Übernahme verzeichnet. Siehe E2. |

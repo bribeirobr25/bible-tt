@@ -242,7 +242,7 @@ Das Kapitel eröffnet und schließt mit demselben Verb. Die Frauen sollen sich a
 
 ## I. Die Welt zur damaligen Zeit
 
-> **Die Welt der Empfänger.** Anders als die Begleitmaterialien zu Evangelium und Apostelgeschichte (im Judäa des Zweiten Tempels angesiedelt) richtet sich 1. Petrus an verstreute Gläubige in den **griechisch-römischen Provinzen Kleinasiens** (Pontus, Galatien, Kappadokien, Asien, Bithynien — 1,1; §C1) im späteren ersten Jahrhundert n. Chr. Die Hausanweisungen des Kapitels (Vv.1-7) sprechen unmittelbar in die **Ehe- und Hausnormen der weiteren griechisch-römischen Welt** hinein — weshalb sich dieser Abschnitt I auf jenes häuslich-soziale Umfeld konzentriert statt auf die Tempelstadt. Die flache Form `### [Thema]` wird verwendet (die Voreinstellung).
+> **Die Welt der Empfänger.** Anders als die Begleitmaterialien zu Evangelium und Apostelgeschichte (im Judäa des Zweiten Tempels angesiedelt) richtet sich 1. Petrus an verstreute Gläubige in den **griechisch-römischen Provinzen Kleinasiens** (Pontus, Galatien, Kappadokien, Asien, Bithynien — 1,1; §C1) im späteren ersten Jahrhundert n. Chr. Die Hausanweisungen des Kapitels (Vv.1-7) sprechen unmittelbar in die **Ehe- und Hausnormen der weiteren griechisch-römischen Welt** hinein — weshalb sich dieser Abschnitt I auf jenes häuslich-soziale Umfeld konzentriert statt auf die Tempelstadt.
 
 ---
 

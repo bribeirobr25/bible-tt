@@ -657,3 +657,6 @@ The prose that states these markings (the PROPHECY/CONTEXT lines listed by revie
     - S9 rule-ref −12 (removed with meta text);
     - S18/S3/S4/S1c/S5c/S11 small shifts from removed meta prose.
 - **Gate:** 1,108 tests / 32 files · lint · typecheck · content-lint · build (516 pages) · conservation 408 / 20,679.
+- **Rendered-page scan:** a production build, 468 pages (every chapter door, introduction, people and background page × 4 locales), searched for model names, "Tier 2", repo paths, `.md`, entry IDs, "editorial log", raw `@@`/`{t:`/`{a:`, INTERNAL and ASCII arrows. **Clean**, except the people-page fallback that prints `exodus/PEOPLE.md` for unpublished see-targets. That is code, already routed to Step 5, before go-live.
+  - The scan also found literal backticks around the italic-marker examples (16 legend/table lines) and a "`### [Topic]` form" process sentence (1 Peter 3 companion), both fixed in 4 locales. The gate now also asserts **no code spans in rendered text**, because the renderer prints backticks literally.
+- **Visual check:** DE 1 Peter 1 Deeper at 375 px — the merged Sources table renders ("C, I"), and the plain provenance line shows.

@@ -234,7 +234,7 @@ Según la política de transliteración de nombres de la TT, la primera aparici�
 
 La TT marca el texto con un pequeño conjunto de convenciones que el lector encontrará a lo largo de Hechos 1–3:
 
-- `*añadido*` — palabras agregadas para la gramática española (Regla 11), mostradas en cursiva.
+- *añadido* — palabras agregadas para la gramática española (Regla 11), mostradas en cursiva.
 - {t:…} — un término transliterado llevado con su glosa, p. ej. {t:Hakeldama} (Campo de Sangre), el topónimo arameo que el texto mismo glosa (1:19).
 - {a:…} — un doble sentido vivo mantenido abierto en lugar de resuelto, p. ej. {a:viento/espíritu} para πνεῦμα y {a:lenguas/idiomas} para γλῶσσαι en Pentecostés (2:4, 11), donde ambos sentidos permanecen en juego.
 - @@…@@ — discurso divino (Regla 30): el discurso directo en primera persona del Yeshua (Jesús) resucitado (1:4–5, 1:7–8). Las palabras de Dios en primera persona dentro de las citas del AT (p. ej. el "derramaré mi espíritu" de Joel, 2:17–18) **no** se marcan, porque Kefa (Pedro) las está citando, y sus sermones son discurso humano. Los **dos hombres** en la ascensión (1:10–11) son mensajeros de clase *angelos* y **no** se marcan, siguiendo el precedente de Gabriel/mensajero.
@@ -268,7 +268,7 @@ El caso destacado es **Hechos 2:34** (citando el Salmo 110:1): "**El Señor** (�
 | 1 | Consistencia Léxica Controlada | Los términos del glosario fijado (*kyrios*, *Christos*, *metanoia*, *aphesis*, *koinōnia*, *pneuma*, *baptisma*) se traducen consistentemente en todos los capítulos de Hechos según el glosario GS. |
 | 2 | Preservación de Ambigüedad | {a:viento/espíritu} (πνεῦμα) y {a:lenguas/idiomas} (γλῶσσαι) se mantienen abiertos en lugar de resolverse. |
 | 3 | No importar teología | La narrativa de Pentecostés y los sermones se traducen tal como el texto los presenta — sin importar doctrina posterior y sin desestimar la narrativa. Restricción en ambos sentidos. |
-| 11 | Marcar adiciones gramaticales | Las palabras agregadas para la gramática española aparecen en cursiva (`*añadido*`). |
+| 11 | Marcar adiciones gramaticales | Las palabras agregadas para la gramática española aparecen en cursiva (*añadido*). |
 | 13 | Niveles de incertidumbre | Los términos debatidos (el doble κύριος de 2:34; εἰς ἄφεσιν, 2:38; ἀποκατάστασις, 3:21) llevan etiquetas de confianza (Probable / Posible / Incierto). |
 | 14 | Anotar Juegos de Palabras | El juego de palabras πνεῦμα/γλῶσσαι de Pentecostés explicado en las notas. |
 | 22 | Restricción Textual-Crítica | Las variantes occidentales (Códice Bezae) registradas en las notas sin adopción silenciosa. Ver E2. |

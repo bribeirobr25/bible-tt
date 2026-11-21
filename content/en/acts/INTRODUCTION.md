@@ -234,7 +234,7 @@ Per the TT's name-rendering policy, the first occurrence of a name per section a
 
 The TT marks the text with a small set of conventions the reader will encounter throughout Acts 1–3:
 
-- `*added*` — words added for English grammar (Rule 11), shown in italics.
+- *added* — words added for English grammar (Rule 11), shown in italics.
 - {t:…} — a transliterated term carried with its gloss, e.g. {t:Hakeldama} (Field of Blood), the Aramaic place-name the text itself glosses (1:19).
 - {a:…} — a live double sense kept open rather than resolved, e.g. {a:wind/spirit} for πνεῦμα and {a:tongues/languages} for γλῶσσαι at Pentecost (2:4, 11), where both senses stay in play.
 - @@…@@ — divine speech (Rule 30): the direct first-person speech of the risen Yeshua (Jesus) (1:4–5, 1:7–8). God's first-person words inside OT citations (e.g. Joel's "I will pour out my Spirit," 2:17–18) are **not** marked, because Kefa (Peter) is quoting them, and his sermons are human speech. The **two men** at the ascension (1:10–11) are *angelos*-class messengers and are **not** marked, following the Gabriel/messenger precedent.
@@ -268,7 +268,7 @@ The headline case is **Acts 2:34** (citing Psalm 110:1): "**The Lord** (κύρι
 | 1 | Controlled Lexical Consistency | Locked glossary terms (*kyrios*, *Christos*, *metanoia*, *aphesis*, *koinōnia*, *pneuma*, *baptisma*) rendered consistently across all Acts chapters per the GS glossary. |
 | 2 | Ambiguity Preservation | {a:wind/spirit} (πνεῦμα) and {a:tongues/languages} (γλῶσσαι) kept open rather than resolved. |
 | 3 | No imported theology | The Pentecost narrative and the sermons are translated as the text presents them — without importing later doctrine and without dismissing the narrative. Restraint both ways. |
-| 11 | Mark Grammatical Additions | Words added for English grammar appear in italics (`*added*`). |
+| 11 | Mark Grammatical Additions | Words added for English grammar appear in italics (*added*). |
 | 13 | Uncertainty Levels | Debated terms (the double-κύριος of 2:34; εἰς ἄφεσιν, 2:38; ἀποκατάστασις, 3:21) carry confidence labels (Probable / Possible / Uncertain). |
 | 14 | Annotate Wordplay | The πνεῦμα/γλῶσσαι Pentecost wordplay explained in the notes. |
 | 22 | Text-Critical Restraint | Western (Codex Bezae) variants recorded in the notes without silent adoption. See E2. |

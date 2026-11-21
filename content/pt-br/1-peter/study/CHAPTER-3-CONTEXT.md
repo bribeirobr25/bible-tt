@@ -242,7 +242,7 @@ O capítulo abre e fecha com o mesmo verbo. As esposas devem "**submeter-se**" (
 
 ## I. O Mundo na Época
 
-> **O mundo dos destinatários.** Ao contrário dos complementos dos Evangelhos e de Atos (situados na Judeia do Segundo Templo), 1 Pedro endereça crentes dispersos nas **províncias greco-romanas da Ásia Menor** (Ponto, Galácia, Capadócia, Ásia, Bitínia — 1:1; §C1) no fim do primeiro século d.C. As instruções domésticas do capítulo (vv.1-7) falam diretamente às **normas de casamento e de casa do mundo greco-romano mais amplo** — razão pela qual esta Seção I se concentra naquele cenário doméstico-e-social em vez de na cidade-Templo. A forma plana `### [Tópico]` é usada (o padrão).
+> **O mundo dos destinatários.** Ao contrário dos complementos dos Evangelhos e de Atos (situados na Judeia do Segundo Templo), 1 Pedro endereça crentes dispersos nas **províncias greco-romanas da Ásia Menor** (Ponto, Galácia, Capadócia, Ásia, Bitínia — 1:1; §C1) no fim do primeiro século d.C. As instruções domésticas do capítulo (vv.1-7) falam diretamente às **normas de casamento e de casa do mundo greco-romano mais amplo** — razão pela qual esta Seção I se concentra naquele cenário doméstico-e-social em vez de na cidade-Templo.
 
 ---
 

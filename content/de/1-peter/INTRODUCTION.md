@@ -252,7 +252,7 @@ Gemäß der TT-Politik zur Namenswiedergabe erscheint das erste Vorkommen eines 
 
 Die TT kennzeichnet den Text mit einer kleinen Reihe von Konventionen, denen der Leser durch 1. Petrus 1–5 hindurch begegnen wird:
 
-- `*hinzugefügt*` — für die deutsche Grammatik hinzugefügte Wörter (Regel 11), kursiv dargestellt. (Häufig hier: die Kopula in „ich *bin* heilig", 1,16; „Gepriesen *sei*", 1,3.)
+- *hinzugefügt* — für die deutsche Grammatik hinzugefügte Wörter (Regel 11), kursiv dargestellt. (Häufig hier: die Kopula in „ich *bin* heilig", 1,16; „Gepriesen *sei*", 1,3.)
 - {t:…} — ein transliterierter Begriff, mit seiner Glosse mitgeführt, wo der Text selbst eine bietet.
 - {a:…} — ein lebendiger Doppelsinn, der offengehalten statt aufgelöst wird, z. B. {a:Wind/Geist} für πνεῦμα, das durchweg offen bleibt (1,2.11.12; 3,18.19; 4,6.14).
 - @@…@@ — göttliche Rede (Regel 30). 1. Petrus ist die Ermahnung des Apostels **in seiner eigenen Stimme** — es gibt keine erzählte göttliche Rede, daher ist im 1. Petrus nichts gekennzeichnet. Auch Gottes Wort in der ersten Person *innerhalb* eines AT-Zitats wird **nicht** gekennzeichnet, weil der Apostel es zitiert („es steht geschrieben"): **1,16** („seid heilig, weil ich heilig *bin*", Lev 11,44/19,2) und **2,6** („siehe, ich lege in Zion einen Stein…", Jes 28,16). Zitate, die *über* den Herrn in der dritten Person sprechen — die menschliche Stimme des Psalmisten und des Propheten (1,24–25, Jes 40; 2,3, Ps 34; 3,10–12, Ps 34) —, werden ebenfalls **nicht** gekennzeichnet.
@@ -295,7 +295,7 @@ Ein eigener, bewusster Fall ist **3,15**: „heiligt *den Messias* als Herrn", w
 | 1 | Kontrollierte Lexikalische Konsistenz | Begriffe des gesperrten Glossars (*kyrios*, *Christos*, *pneuma*, *baptisma*, *anastrophē*, *elpis*, *psychē*, *hypotassō*) werden in allen fünf Kapiteln einheitlich gemäß GS-Glossar wiedergegeben. |
 | 2 | Ambiguitätsbewahrung | {a:Wind/Geist} (πνεῦμα) wird durchweg offengehalten (1,2.11.12; 3,18–19; 4,6.14). |
 | 3 | Keine importierte Theologie | Die dreieinig geformte Begrüßung (1,2) wird ohne das spätere dogmatische Wort „Dreieinigkeit" wiedergegeben; die Haustafel (2,18–3,7) wird treu wiedergegeben, mit der Auslegungsgeschichte in den Anmerkungen und ohne Parteinahme — Zurückhaltung in beide Richtungen. |
-| 11 | Grammatische Zusätze kennzeichnen | Für die deutsche Grammatik hinzugefügte Wörter erscheinen kursiv (`*hinzugefügt*`); häufig bei verblosem Griechisch (1,3.16). |
+| 11 | Grammatische Zusätze kennzeichnen | Für die deutsche Grammatik hinzugefügte Wörter erscheinen kursiv (*hinzugefügt*); häufig bei verblosem Griechisch (1,3.16). |
 | 13 | Unsicherheitsstufen | Umstrittene Begriffe (der Abstieg / die „Geister im Gefängnis", 3,18–20; die Taufe „rettet euch jetzt", 3,21; „bestimmt" zum Anstoßen, 2,8; die κύριος-Referenten-Verschiebung, 3,15) tragen Vertrauenskennzeichnungen (Wahrscheinlich / Möglich / Unsicher). |
 | 22 | Textkritische Zurückhaltung | Die (bescheidenen) bedeutsamen Varianten — z. B. 3,18; 4,14 — werden in den Anmerkungen ohne stillschweigende Übernahme verzeichnet. Siehe E2. |
 | 25 | Politik des Göttlichen Namens — GS Option C | κύριος als „der Herr" in AT-Zitats-/Anklangskontexten wiedergegeben, mit einer Anmerkung, die JHWH im zugrundeliegenden Hebräischen identifiziert. Siehe F5. |
