@@ -255,7 +255,7 @@ La TT marca el texto con un pequeño conjunto de convenciones que el lector enco
 - *añadido* — palabras agregadas para la gramática española (Regla 11), mostradas en cursiva. (Frecuente aquí: la cópula en "yo *soy* santo," 1:16; "Bendito *sea*," 1:3.)
 - {t:…} — un término transliterado llevado con su glosa, donde el texto mismo la suministra.
 - {a:…} — un doble sentido vivo mantenido abierto en lugar de resuelto, p. ej. {a:viento/espíritu} para πνεῦμα, que permanece abierto en todo momento (1:2, 11, 12; 3:18, 19; 4:6, 14).
-- @@…@@ — discurso divino (Regla 30). 1 Pedro es la exhortación del apóstol **en su propia voz** — no hay habla divina narrada, así que nada en 1 Pedro se marca. La palabra de Dios en primera persona *dentro* de una cita del AT **tampoco** se marca, porque el apóstol la está citando ("está escrito"): **1:16** ("sean santos, porque yo *soy* santo," Lev 11:44/19:2) y **2:6** ("he aquí, pongo en Sion una piedra…," Isa 28:16). Las citas que hablan *acerca* del Señor en tercera persona — la voz humana del salmista y del profeta (1:24–25, Isa 40; 2:3, Sal 34; 3:10–12, Sal 34) — **tampoco** se marcan.
+- @@…@@ — habla divina (Regla 30). 1 Pedro es la exhortación del apóstol **en su propia voz** — no hay habla divina narrada, así que nada en 1 Pedro se marca. La palabra de Dios en primera persona *dentro* de una cita del AT **tampoco** se marca, porque el apóstol la está citando: **1:16**, introducida con "está escrito" ("sean santos, porque yo *soy* santo," Lev 11:44/19:2), y **2:6**, introducida con "se contiene en la escritura" ("he aquí, pongo en Sion una piedra…," Isa 28:16). Las citas que hablan *acerca* del Señor en tercera persona — la voz humana del salmista y del profeta (1:24–25, Isa 40; 2:3, Sal 34; 3:10–12, Sal 34) — **tampoco** se marcan.
 
 ### F4. La palabra clave del exilio — *paroikoi / parepidēmoi / diaspora*
 **[TEXTUAL — VERIFICADO]**
@@ -300,7 +300,7 @@ Un caso distinto y deliberado es **3:15**: "santifiquen *al Mesías* como Señor
 | 22 | Restricción Textual-Crítica | Las (modestas) variantes significativas — p. ej. 3:18; 4:14 — registradas en las notas sin adopción silenciosa. Ver E2. |
 | 25 | Política del Nombre Divino — GS Opción C | κύριος traducido como "el Señor" en contextos de cita/eco del AT, con una nota identificando YHWH en el hebreo subyacente. Ver F5. |
 | 29 | Enriquecimiento solo en companions | La composición, la datación, el escenario social, la historia del código doméstico y el cifrado "Babilonia" viven aquí y en los companions — con etiquetas duales — no en el texto principal. |
-| 30 | Marcado de discurso divino | Nada se marca: la palabra de Dios en primera persona dentro de las citas del AT (1:16; 2:6) la cita el apóstol, y su exhortación y las citas del AT en tercera persona son habla humana. Ver F3. |
+| 30 | Marcado de habla divina | Nada se marca: la palabra de Dios en primera persona dentro de las citas del AT (1:16; 2:6) la cita el apóstol, y su exhortación y las citas del AT en tercera persona son habla humana. Ver F3. |
 
 ---
 

@@ -35,7 +35,7 @@
 
 Notes are tagged by type — **Critical · Lexical · Grammatical · Theological** — each shown with its colour (see the legend at the top of the Notes view).
 
-**This is the opening of 1 Peter — the corpus's first *letter*.** It is a circular epistle to scattered believers — "elect exiles of the dispersion" — across five provinces of Asia Minor (1:1, provinces that overlap the Acts 2:9 pilgrim list). Chapter 1 has the epistolary **salutation** (vv.1-2), then a single soaring Greek sentence of **blessing** (vv.3-12) on the new birth, the living hope, the imperishable inheritance, and the salvation the prophets searched out; then the first **exhortations** — to holiness (vv.13-21) and to love from a pure heart (vv.22-25). **Note on speech-marking (Rule 30):** 1 Peter is the apostle's exhortation in his own voice — there is no narrated divine speech, and God's first-person word *inside* an OT citation (1:16, "I am holy," from Leviticus) is not marked either: it is introduced by "it is written," so a human speaker is quoting. Names appear in their familiar form, with the source-language form given once per section — e.g. Yochanan (John).
+**This is the opening of 1 Peter — the corpus's first *letter*.** It is a circular epistle to scattered believers — "elect exiles of the dispersion" — across five provinces of Asia Minor (1:1, provinces that overlap the Acts 2:9 pilgrim list). Chapter 1 has the epistolary **salutation** (vv.1-2), then a single soaring Greek sentence of **blessing** (vv.3-12) on the new birth, the living hope, the imperishable inheritance, and the salvation the prophets searched out; then the first **exhortations** — to holiness (vv.13-21) and to love from a pure heart (vv.22-25). **Note on speech-marking (Rule 30):** 1 Peter is the apostle's exhortation in his own voice — there is no narrated divine speech, and God's first-person word *inside* an OT citation (1:16, "I am holy," from Leviticus) is not marked either: it is introduced by "it is written," so a human speaker is quoting. Names appear in their familiar form, with the source-language form given once per section — e.g. Kefa (Peter).
 
 ---
 
@@ -257,7 +257,7 @@ And if you call upon *as* Father the *One* judging impartially according to each
 > **Notes**
 >
 > 🔵 **"THE TIME OF YOUR SOJOURNING" — *PAROIKIAS***
-> - **τὸν τῆς παροικίας ὑμῶν χρόνον** (*ton tēs paroikias hymōn chronon*) = "the time of your sojourning / exile-residence." *Paroikia* (resident-alien status) reinforces the exile identity of 1:1. God judges **ἀπροσωπολήμπτως** ("without partiality / not receiving faces") — Tier-1 reverent fear, not dread.
+> - **τὸν τῆς παροικίας ὑμῶν χρόνον** (*ton tēs paroikias hymōn chronon*) = "the time of your sojourning / exile-residence." *Paroikia* (resident-alien status) reinforces the exile identity of 1:1. God judges **ἀπροσωπολήμπτως** ("without partiality / not receiving faces") — the "fear" of the translation is reverent fear, not dread.
 
 ---
 

@@ -242,7 +242,7 @@ This file presents biographical and genealogical information about figures appea
 
 ## Luke 3:23-38 Genealogy — Summary Table
 
-Luke's genealogy **ascends** from Yeshua (Jesus) to Adam to God — the reverse of Matthew's descending list (Matt 1:1-17). It runs ~76 names from Yeshua up to "of God." For names with a familiar English form, the Familiar gloss is given once; names without a distinct familiar form appear in transliteration only. Cross-book entries: the patriarchs (Adam → the Shem line) have their canonical biographies on **the Genesis people page**; the David line connects to **the Matthew people page** (the short cross-reference entries above cover the three major figures — Yeshua, Yochanan, Miryam).
+Luke's genealogy ascends from Yeshua (Jesus) to Adam to God — the reverse of Matthew's descending list (Matt 1:1-17). It runs ~76 names from Yeshua up to "of God." For names with a familiar English form, the Familiar gloss is given once; names without a distinct familiar form appear in transliteration only. Cross-book entries: the patriarchs (Adam → the Shem line) have their canonical biographies on the Genesis people page; the David line connects to the Matthew people page (the short cross-reference entries above cover the three major figures — Yeshua, Yochanan, Miryam).
 
 | # | Name (Familiar) | Reference | Canonical home |
 |---|---|---|---|

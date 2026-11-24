@@ -237,7 +237,7 @@ La TT marca el texto con un pequeño conjunto de convenciones que el lector enco
 - *añadido* — palabras agregadas para la gramática española (Regla 11), mostradas en cursiva.
 - {t:…} — un término transliterado llevado con su glosa, p. ej. {t:Hakeldama} (Campo de Sangre), el topónimo arameo que el texto mismo glosa (1:19).
 - {a:…} — un doble sentido vivo mantenido abierto en lugar de resuelto, p. ej. {a:viento/espíritu} para πνεῦμα y {a:lenguas/idiomas} para γλῶσσαι en Pentecostés (2:4, 11), donde ambos sentidos permanecen en juego.
-- @@…@@ — discurso divino (Regla 30): el discurso directo en primera persona del Yeshua (Jesús) resucitado (1:4–5, 1:7–8). Las palabras de Dios en primera persona dentro de las citas del AT (p. ej. el "derramaré mi espíritu" de Joel, 2:17–18) **no** se marcan, porque Kefa (Pedro) las está citando, y sus sermones son discurso humano. Los **dos hombres** en la ascensión (1:10–11) son mensajeros de clase *angelos* y **no** se marcan, siguiendo el precedente de Gabriel/mensajero.
+- @@…@@ — habla divina (Regla 30): el discurso directo en primera persona del Yeshua (Jesús) resucitado (1:4–5, 1:7–8). Las palabras de Dios en primera persona dentro de las citas del AT (p. ej. el "derramaré mi espíritu" de Joel, 2:17–18) **no** se marcan, porque Kefa (Pedro) las está citando, y sus sermones son discurso humano. Los **dos hombres** en la ascensión (1:10–11) son mensajeros de clase *angelos* y **no** se marcan, siguiendo el precedente de Gabriel/mensajero.
 
 ### F4. Pentecostés, las "lenguas" y el nombre de la fiesta
 **[TEXTUAL — VERIFICADO]**
@@ -273,7 +273,7 @@ El caso destacado es **Hechos 2:34** (citando el Salmo 110:1): "**El Señor** (�
 | 14 | Anotar Juegos de Palabras | El juego de palabras πνεῦμα/γλῶσσαι de Pentecostés explicado en las notas. |
 | 22 | Restricción Textual-Crítica | Las variantes occidentales (Códice Bezae) registradas en las notas sin adopción silenciosa. Ver E2. |
 | 25 | Política del Nombre Divino — GS Opción C | κύριος traducido como "el Señor" en contextos de cita/eco del AT, con una nota identificando YHWH en el hebreo subyacente. Ver F5. |
-| 30 | Marcado de discurso divino | El discurso del Yeshua resucitado (1:4–8) se marca; el discurso divino en primera persona citado dentro de las citas del AT (Joel, 2:17–18), los mensajeros de la ascensión y el discurso de los apóstoles no. Ver F3. |
+| 30 | Marcado de habla divina | El discurso del Yeshua resucitado (1:4–8) se marca; el habla divina en primera persona citada dentro de las citas del AT (Joel, 2:17–18), los mensajeros de la ascensión y el discurso de los apóstoles no. Ver F3. |
 
 ---
 

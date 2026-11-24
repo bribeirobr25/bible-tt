@@ -61,7 +61,7 @@ Die kumulative Wirkung: ein *toledot* in der Gattung, ein Dreifach-vierzehn in d
 
 Die kreuzsprachlich sensibelsten Passagen des Evangeliums bewahren Doppellesungen zwischen der griechischen Oberfläche und der hebräischen Quelle. Die TT gibt diese als Schrägstrich-Paare oder Transliterations-Paare wieder, um beide Schichten sichtbar zu halten. Drei Fälle im Geltungsbereich:
 
-**Matthäus 1,23 — *parthenos* / *almah***. Das Jesaja-7,14-Zitat erscheint im Griechischen als *parthenos* („Jungfrau"), was die LXX-Wiedergabe des Hebräischen *almah* („junge Frau im heiratsfähigen Alter") ist. Das Griechische verengt das Hebräische. Die TT wählt Option B (Schrägstrich-Wiedergabe: „Jungfrau/junge Frau"), um beide Schichten am Lesepunkt zu bewahren, anstatt eine in eine Note zu verlagern. Die Entscheidung war rezeptionssensibel: der Vers ist der meistdebattierte hebräisch-griechische Übersetzungspunkt im Neuen Testament; die hebräische Schicht hinter einer Note zu verbergen „birgt die Gefahr, den Anschein zu erwecken, Partei zu ergreifen".
+**Matthäus 1,23 — *parthenos* / *almah***. Das Jesaja-7,14-Zitat erscheint im Griechischen als *parthenos* („Jungfrau"), was die LXX-Wiedergabe des Hebräischen *almah* („junge Frau im heiratsfähigen Alter") ist. Das Griechische verengt das Hebräische. Die TT wählt Option B (Schrägstrich-Wiedergabe: „Jungfrau/junge Frau"), um beide Schichten am Lesepunkt zu bewahren, anstatt eine in eine Note zu verlagern. Die Entscheidung war rezeptionssensibel: der Vers ist der meistdebattierte hebräisch-griechische Übersetzungspunkt im Neuen Testament; die hebräische Schicht hinter einer Note zu verbergen, birgt die Gefahr, den Anschein zu erwecken, Partei zu ergreifen.
 
 **Matthäus 1,23 — Immanu'el**. Derselbe Vers enthält eine Name-und-Glosse-Doppelung: griechisch „*Emmanouēl*" + Übersetzung „das heißt übersetzt, *Gott mit uns*." Matthäus transliteriert den hebräischen Namen UND glossiert ihn innerhalb desselben Verses. Die Doppelpräsentation ist strukturell; die TT bewahrt sowohl die Transliteration (*Immanu'el*) als auch die Glosse in allen vier Lokalisierungen.
 
@@ -107,7 +107,7 @@ Sechs AT-Zitate in Matthäus 1–3 erstrecken sich über den vollen prophetische
 
 **Matthäus 2,18 — Jeremia 31,15**. Großprophet, Klage-historisch. „Eine Stimme wurde in Rama gehört... Rachel weint um ihre Kinder, sie weigert sich, sich trösten zu lassen, weil sie nicht mehr sind." Jeremias Vers beklagte ursprünglich das Exil der Nordstämme; Matthäus wendet ihn auf Herodes' Kindermord an. Das schmerzlichste Zitat des Evangeliums.
 
-**Matthäus 2,23 — Unaufgelöste Natsri-Quelle**. „Er soll *Natsri* genannt werden" — kein einzelner AT-Prophet sagt dies. Das unaufgelöste Zitat ist selbst die Daten (Typ 5 der sechs Formeltypen). Die TT bewahrt den unaufgelösten Status, anstatt zwischen Jes 11,1, Ri 13,5/16,17 oder einer unbekannten Quelle zu wählen.
+**Matthäus 2,23 — Unaufgelöste Natsri-Quelle**. „Er soll *Natsri* genannt werden" — kein einzelner AT-Prophet sagt dies. Das unaufgelöste Zitat ist selbst die Daten (Typ 4, Unidentifiziert). Die TT bewahrt den unaufgelösten Status, anstatt zwischen Jes 11,1, Ri 13,5/16,17 oder einer unbekannten Quelle zu wählen.
 
 **Matthäus 3,3 — Jesaja 40,3**. Großprophet (wieder), Wüstenstimme-Prolog. Das Zitat führt Yochanan ein und schließt den Zyklus, indem es DENSELBEN Propheten zitiert, der ihn eröffnet hat (Jesaja).
 

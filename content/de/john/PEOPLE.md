@@ -235,4 +235,4 @@ Diese Datei stellt biographische und kontextuelle Informationen über Personen v
 - **PEER-REVIEWED (Ioudaioi-Richtlinie)** — Reinhartz, A., *Cast Out of the Covenant: Jews and Anti-Judaism in the Gospel of John* (Lexington, 2018); von Wahlde, U.C., „The Johannine 'Jews': A Critical Survey," *NTS* 28 (1982).
 - **PEER-REVIEWED (Apostolische Traditionen)** — Eusebius, *Kirchengeschichte*, Hrsg. Lake (Loeb); Fragmente von Polykrates von Ephesus + Papias, zitiert bei Eusebius; Bauckham, R., *Jesus and the Eyewitnesses* (Eerdmans, 2017, 2. Aufl.) für die Diskussion der Historizität namentlich-genannter-aber-untergeordneter Jünger.
 
-> **Redaktionelle Herkunft:** KI-gestützter Entwurf, noch nicht geprüft.
+> **Redaktionelle Herkunft:** KI-gestützter Entwurf, noch nicht geprüft. Diese Datei ist eine provisorische wissenschaftliche Ressource, geregelt durch TT-Regel 29.

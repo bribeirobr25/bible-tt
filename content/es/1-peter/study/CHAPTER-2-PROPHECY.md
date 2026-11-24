@@ -159,7 +159,7 @@ El vocabulario griego sigue de cerca la LXX de Isaías 53 (*hamartian ouk epoiē
 | BHS, 5.ª ed. rev. (Deutsche Bibelgesellschaft, 1997) | PRIMARIA | Sal 34:8; Is 28:16; Sal 118:22; Is 8:14; Éx 19:6; Is 43:20–21; Oseas 1:9–10; 2:23; Is 53:4–6, 9, 12; Dt 21:23 hebreo |
 | LXX (Rahlfs-Hanhart, *Septuaginta*, ed. rev., Deutsche Bibelgesellschaft, 2006) | PRIMARIA | Sal 33:9 (*chrēstos ho kyrios*); Is 28:16 (*tithēmi… akrogōniaion… ou mē kataischynthē*); Sal 117:22 (*lithos hon apedokimasan*); Is 8:14 (*lithos proskommatos*, forma-TM); Éx 19:6 (*basileion hierateuma, ethnos hagion*); Is 43:20–21 (*genos eklekton… aretas*); Oseas 1:10; 2:23; Is 53 (*dolos / anēnenken / mōlōps / planōmenoi*); Dt 21:23 (*epi xylou*) |
 
-Ver también: el estudio profético de Hechos 3 (Profundizar) — el mismo Siervo (Is 52:13–53:12 → Hch 3 *pais*); los estudios proféticos de los Evangelios (Profundizar) — los textos de la piedra compartidos (Sal 118:22 / Is 8:14 → la parábola de la piedra rechazada).
+Ver también: el estudio profético de Hechos 3 (Profundizar) — el mismo Siervo (Is 52:13–53:12 → Hch 3 *pais*); el estudio profético de Lucas 2 (Profundizar) — la piedra de tropiezo (Is 8:14 → Lc 2:34).
 
 ---
 

@@ -40,10 +40,11 @@ The work went to four helpers in worktrees, one book group each, merged sequenti
 
 **Verification:**
 - 136 changed verse/continuous-reading lines, each explained by an allowed fix.
-- A rendered scan of 468 production pages came back clean. The one exception is the people-page fallback for unpublished books, which goes to Step 5.
+- A first rendered scan of 468 reader pages came back clean, but the implementation review found forms it missed: bare `@@…@@`, DE "Redaktionslog", "RULES-GS", "Tier-1", DE caps "YEHUDIM" and a Luke caption. All are fixed and now caught by the gate (§B3.9). The people-page fallback for unpublished books goes to Step 5.
+- Implementation review: 5 reviewers, no blockers; every finding fixed or routed (§B3.9).
 - Conservation 20,676 → 20,679: the PT/ES Gen 9/12 notes now parse like EN/DE.
 - Sweep 20,079 → 16,604.
-- 1,108 tests / 32 files.
+- 1,110 tests / 32 files.
 
 The lead's answers to the batch-2 questions are recorded: Rule 20 lowercase extends to all titular nouns; L5 wording and the window confirmed.
 

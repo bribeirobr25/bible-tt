@@ -61,7 +61,7 @@ The cumulative effect: a *toledot* in genre, a triple-fourteen in structure, a p
 
 The Gospel's most cross-language-sensitive passages preserve dual readings between the Greek surface and the Hebrew source. The TT renders these as slash-pairs or transliteration-pairs to keep both layers visible. Three in-scope cases:
 
-**Matthew 1:23 — *parthenos* / *almah***. The Isaiah 7:14 citation appears in Greek as *parthenos* ("virgin"), which is how the LXX renders the Hebrew *almah* ("young woman of marriageable age"). The Greek narrows the Hebrew. The TT adopts Option B (slash rendering: "virgin/young woman") to preserve both layers at the point of reading rather than relegating one to a note. The decision was reception-sensitive: the verse is the single most-debated Hebrew-Greek translation point in the New Testament; concealing the Hebrew layer behind a note "risks the appearance of choosing sides."
+**Matthew 1:23 — *parthenos* / *almah***. The Isaiah 7:14 citation appears in Greek as *parthenos* ("virgin"), which is how the LXX renders the Hebrew *almah* ("young woman of marriageable age"). The Greek narrows the Hebrew. The TT adopts Option B (slash rendering: "virgin/young woman") to preserve both layers at the point of reading rather than relegating one to a note. The decision was reception-sensitive: the verse is the single most-debated Hebrew-Greek translation point in the New Testament; concealing the Hebrew layer behind a note risks the appearance of choosing sides.
 
 **Matthew 1:23 — Immanu'el**. The same verse contains a name-and-gloss double: Greek "*Emmanouēl*" + translation "which is, being interpreted, *God with us*." Matthew transliterates the Hebrew name AND glosses it within the same verse. The dual presentation is structural; the TT preserves both the transliteration (*Immanu'el*) and the gloss across all four locales.
 
@@ -107,7 +107,7 @@ Six OT citations in Matthew 1–3 span the full prophetic canon — major prophe
 
 **Matthew 2:18 — Jeremiah 31:15**. Major prophet, lament-historical. "A voice was heard in Ramah... Rachel weeping for her children, refusing to be comforted, because they are no more." Jeremiah's verse originally lamented the exile of the northern tribes; Matthew applies it to Herodes's slaughter of the infants. The Gospel's most sorrowful citation.
 
-**Matthew 2:23 — Unresolved Natsri source**. "He shall be called a *Natsri*" — no single OT prophet says this. The unresolved citation is itself the data (Type 5 of the six formula types). The TT preserves the unresolved status rather than choosing among Isa 11:1, Judg 13:5/16:17, or an unknown source.
+**Matthew 2:23 — Unresolved Natsri source**. "He shall be called a *Natsri*" — no single OT prophet says this. The unresolved citation is itself the data (Type 4, Unidentified). The TT preserves the unresolved status rather than choosing among Isa 11:1, Judg 13:5/16:17, or an unknown source.
 
 **Matthew 3:3 — Isaiah 40:3**. Major prophet (again), wilderness-voice prologue. The citation introduces Yochanan and closes the cycle by quoting the SAME prophet who opened it (Isaiah).
 

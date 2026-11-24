@@ -346,7 +346,7 @@ Und dies ist das Zeugnis Johannes', als die Jehudim Priester und Leviten aus Yer
 
 > **NOTIZEN**
 >
-> 🔴 **KRITISCH — *HOI IOUDAIOI* („DIE YEHUDIM")**
+> 🔴 **KRITISCH — *HOI IOUDAIOI* („DIE JEHUDIM")**
 > - **οἱ Ἰουδαῖοι** (*hoi Ioudaioi*) = wörtlich „die Judäer" — im Johannesevangelium mehrdeutig: (1) ethnisch/geographisch, (2) religiöse Autoritäten Judäas, (3) allgemeiner „das jüdische Volk." Die TT gibt „die Jehudim" transliteriert wieder, um die Ambiguität zu bewahren; der Kontext muss den Bezug je Vers bestimmen. Für ausführlichere Diskussion des Begriffs und seiner Forschungsgeschichte im Johannesevangelium siehe Begleitmaterial Abschnitt D.
 >
 > 🟢 **YERUSHALAYIM — TT-TRANSLITERATION**

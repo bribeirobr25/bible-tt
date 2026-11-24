@@ -36,7 +36,7 @@
 
 Notes are tagged by type — **Critical · Lexical · Grammatical · Theological** — each shown with its colour (see the legend at the top of the Notes view).
 
-**This chapter opens the first book arranged in the Greek Scriptures canon.** Matthew 1 begins not with a cosmological prologue (as in John) but with a genealogy — a *biblos geneseōs* ("book of genesis/origin") that traces a line from Avraham through David to Yeshua. The genealogy is structured into three sets of fourteen generations. Four women are named — Tamar, Rachav, Rut, and the wife of Uriyah — each with an irregular or surprising entry into the lineage. Names appear in their familiar form, with the source-language form given once per section — e.g. Yochanan (John). The birth narrative (vv.18-25) introduces the virgin/young woman ambiguity from Isaiah 7:14. The Greek *pneuma hagion* is rendered "holy wind/spirit" per locked glossary.
+**This chapter opens the first book arranged in the Greek Scriptures canon.** Matthew 1 begins not with a cosmological prologue (as in John) but with a genealogy — a *biblos geneseōs* ("book of genesis/origin") that traces a line from Avraham through David to Yeshua. The genealogy is structured into three sets of fourteen generations. Four women are named — Tamar, Rachav, Rut, and the wife of Uriyah — each with an irregular or surprising entry into the lineage. Names appear in their familiar form, with the source-language form given once per section — e.g. Yosef (Joseph). The birth narrative (vv.18-25) introduces the virgin/young woman ambiguity from Isaiah 7:14. The Greek *pneuma hagion* is rendered "holy wind/spirit" per locked glossary.
 
 ---
 

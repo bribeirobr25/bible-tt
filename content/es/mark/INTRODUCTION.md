@@ -111,7 +111,7 @@ Los manuscritos más antiguos y mejores (א, B) terminan en **16:8** — las muj
 ### E2. Variantes notables dentro de los capítulos 1–3
 **[TEXTUAL — VERIFICADO]**
 
-Los capítulos iniciales contienen varias variantes que alcanzan el umbral de significancia de RULES-GS y se tratan en las notas de los capítulos:
+Los capítulos iniciales contienen varias variantes que alcanzan el umbral de significancia de la TT y se tratan en las notas de los capítulos:
 - **1:1** — "hijo de Dios" (*huiou theou*) está **entre corchetes/disputado** en NA28 (ausente de א*, Θ, 28; presente en א¹, B, D, L, W).
 - **1:2** — la cita se atribuye "en Isaías el profeta" (NA28) frente al bizantino "en los profetas," porque la cita es **compuesta** (Malaquías 3:1 / Éxodo 23:20 + Isaías 40:3).
 - **1:41** — Yeshua "movido a compasión" (*splanchnistheis*, NA28) frente a "movido a ira" (*orgistheis*, Códice Bezae + Antigua Latina), la *lectio difficilior*.

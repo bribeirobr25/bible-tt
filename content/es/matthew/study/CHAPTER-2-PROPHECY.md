@@ -78,7 +78,7 @@
 | BHS, 5a ed. rev. (Deutsche Bibelgesellschaft, 1997) | PRIMARIA | Hebreo de Miq 5:1; 2 Sm 5:2; Os 11:1; Jer 31:15 |
 | LXX (Rahlfs-Hanhart, *Septuaginta*, ed. rev., Deutsche Bibelgesellschaft, 2006) | PRIMARIA | Comparaciones de texto-fuente griego |
 
-Ver también: el material de estudio de Mateo 2 (Profundizar) — tabla de seguimiento entre capítulos; comparaciones de Os 11:1 / Jer 31:15.
+Ver también: las notas de Mateo 2 (tabla Seguimiento entre Capítulos) — comparaciones de Os 11:1 / Jer 31:15.
 
 ---
 

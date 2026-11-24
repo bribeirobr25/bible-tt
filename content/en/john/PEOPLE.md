@@ -235,4 +235,4 @@ This file presents biographical and contextual information about figures appeari
 - **PEER-REVIEWED (Ioudaioi Policy)** — Reinhartz, A., *Cast Out of the Covenant: Jews and Anti-Judaism in the Gospel of John* (Lexington, 2018); von Wahlde, U.C., "The Johannine 'Jews': A Critical Survey," *NTS* 28 (1982).
 - **PEER-REVIEWED (apostolic traditions)** — Eusebius, *Ecclesiastical History*, ed. Lake (Loeb); Polycrates of Ephesus + Papias fragments cited by Eusebius; Bauckham, R., *Jesus and the Eyewitnesses* (Eerdmans, 2017, 2nd ed.) for the historicity discussion of the named-but-minor disciples.
 
-> **Editorial provenance:** AI-assisted draft, not yet reviewed.
+> **Editorial provenance:** AI-assisted draft, not yet reviewed. This file is a provisional scholarly resource governed by TT Rule 29.

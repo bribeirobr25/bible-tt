@@ -138,8 +138,6 @@ Because the **one formal citation in this chapter — Proverbs 3:34 (5:5) — is
 | BHS, 5th rev. ed. (Deutsche Bibelgesellschaft, 1997) | PRIMARY | Ezek 34; Ps 23; Prov 3:34; Ex 3:19; Deut 9:26; Ps 55:22 (MT 55:23); Ps 22:13 (MT 22:14); Isa 13–14, 47; Jer 50–51; Dan Hebrew/Aramaic |
 | LXX (Rahlfs-Hanhart, *Septuaginta*, rev. ed., Deutsche Bibelgesellschaft, 2006) | PRIMARY | Prov 3:34 (*ho theos hyperēphanois antitassetai…* — the "God"-subject form shared with Jas 4:6); Ps 54:23 LXX (*epirripson… tēn merimnan*); Ps 21:14 LXX (*hōs leōn… ōryomenos*); Ex 3:19 / Deut 9:26 (*cheir krataia*); Ezek 34 shepherd diction |
 
-See also: the Gospel and Acts prophecy studies (Deeper) — the shepherd imagery (Jn 10) and the shared Prov 3:34 testimonium (Jas 4:6).
-
 ---
 
 **Editorial provenance:**

@@ -152,7 +152,7 @@ E todo arbusto do campo ainda não estava na terra, e toda erva do campo ainda n
 > - Cadeia de cláusulas "ainda não" estabelece um estado pré-criação antes dos atos narrativos. Hebraico **טֶרֶם** (*terem*) = "ainda não/antes."
 >
 > 🔵 **EXCEÇÃO DE ARTIGO — "humano não havia"**
-> - O hebraico aqui tem **וְאָדָם אַיִן** (*ve-adam ayin*) = "e humano não-havia" — **SEM artigo** em *adam*. Isto diverge da política geral "o humano" vigente em Gn 2–3 (ver nota permanente da Regra 17 no Guia de Leitura). A ausência é **justificada**: nenhum humano específico existe ainda neste ponto pré-criação; o sentido é genérico/indefinido ("não havia humano algum"). O artigo definido aparece a partir de v.7 quando o humano é formado. Exceção documentada no redaktionslog.
+> - O hebraico aqui tem **וְאָדָם אַיִן** (*ve-adam ayin*) = "e humano não-havia" — **SEM artigo** em *adam*. Isto diverge da política geral "o humano" vigente em Gn 2–3 (ver nota permanente da Regra 17 no Guia de Leitura). A ausência é **justificada**: nenhum humano específico existe ainda neste ponto pré-criação; o sentido é genérico/indefinido ("não havia humano algum"). O artigo definido aparece a partir de v.7 quando o humano é formado.
 >
 > 🟢 **LAVRAR O SOLO**
 > - **לַעֲבֹד אֶת־הָאֲדָמָה** (*la'avod et-ha'adamah*) = "para trabalhar/servir o solo"—primeira menção de *trabalho* humano precede a criação do humano. Raiz **ע-ב-ד** (*'-b-d*) = servir/trabalhar (mesma raiz de "servo" e "adoração").

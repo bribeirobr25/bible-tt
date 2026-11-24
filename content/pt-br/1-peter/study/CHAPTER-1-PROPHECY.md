@@ -108,7 +108,7 @@ Porque 1 Pedro cita o AT na *terceira* pessoa sobre Deus tão frequentemente qua
 | BHS, 5ª ed. rev. (Deutsche Bibelgesellschaft, 1997) | PRIMÁRIA | Lv 11:44–45; 19:2; Is 40:6–8; Êx 12:5, 11; 24:8; Lv (sacrifício); Hebraico de Is 53:7 |
 | LXX (Rahlfs-Hanhart, *Septuaginta*, ed. rev., Deutsche Bibelgesellschaft, 2006) | PRIMÁRIA | Lv 19:2 (*Hagioi esesthe… egō hagios*); Is 40:6–8 (*pasa sarx… to rhēma tou theou hēmōn*); Êx 12:11 (*osphyas periezōsmenoi*); 24:8; dicção sacrificial *amnos / amōmos* |
 
-Ver também: os estudos proféticos dos Evangelhos (Aprofundar) — Is 40:3 → o Imersor; Jo 1:29, o cordeiro de Deus (as referências cruzadas de Isaías-40 e do cordeiro-pascal).
+Ver também: o estudo profético de Lucas 3 (Aprofundar) — Is 40:3 → o Imersor.
 
 ---
 

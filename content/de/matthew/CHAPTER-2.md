@@ -36,7 +36,7 @@
 
 Notizen sind nach Typ gekennzeichnet — **Kritisch · Lexikalisch · Grammatisch · Theologisch** — jeweils mit ihrer Farbe (siehe die Legende oben in der Notizen-Ansicht).
 
-**Dieses Kapitel ist das am stärksten alttestamentlich geprägte Kapitel der Geburtserzählung.** Vier Erfüllungszitate („damit erfüllt werde, was gesprochen wurde") bestimmen die Erzählung: Micha 5,1 (Beyt-Lechem (Bethlehem)), Hosea 11,1 (aus Mitsrayim (Ägypten)), Jeremia 31,15 (Rachel weint) und ein geheimnisvolles „Er wird ein Natsri genannt werden" ohne eindeutige alttestamentliche Quelle. Jedes Zitat verwendet kyrios Option C mit vermerkter alttestamentlicher JHWH-Verbindung. Namen erscheinen in der vertrauten Form; die ursprachliche Form steht einmal pro Abschnitt — z. B. Yochanan (Johannes).
+**Dieses Kapitel ist das am stärksten alttestamentlich geprägte Kapitel der Geburtserzählung.** Vier Erfüllungszitate („damit erfüllt werde, was gesprochen wurde") bestimmen die Erzählung: Micha 5,1 (Beyt-Lechem (Bethlehem)), Hosea 11,1 (aus Mitsrayim (Ägypten)), Jeremia 31,15 (Rachel weint) und ein geheimnisvolles „Er wird ein Natsri genannt werden" ohne eindeutige alttestamentliche Quelle. Jedes Zitat verwendet kyrios Option C mit vermerkter alttestamentlicher JHWH-Verbindung. Namen erscheinen in der vertrauten Form; die ursprachliche Form steht einmal pro Abschnitt — z. B. Beyt-Lechem (Bethlehem).
 
 ---
 
@@ -105,7 +105,7 @@ und sprachen: „Wo ist der geborene König der Jehudim? Denn wir sahen seinen S
 > 🟢 **„NIEDERFALLEN" — *PROSKYNEŌ***
 > - **προσκυνῆσαι** (*proskynēsai*) = niederfallen, huldigen, sich niederwerfen. Das Wort umfasst die gesamte Bandbreite von politischer Huldigung bis göttlicher Anbetung. Die TT gibt „niederfallen" wieder, um die Mehrdeutigkeit zu bewahren — die *Magoi* mögen königliche Huldigung, göttliche Anbetung oder beides beabsichtigen. Dasselbe Verb kehrt in Vv.8, 11 wieder.
 >
-> 🟢 **„KÖNIG DER YEHUDIM"**
+> 🟢 **„KÖNIG DER JEHUDIM"**
 > - **βασιλεὺς τῶν Ἰουδαίων** (*basileus tōn Ioudaiōn*) = „König der Jehudim." Dieser Titel erscheint wieder bei der Kreuzigung (Mt 27,11.29.37). Die *Magoi* verwenden ihn; Herodes hört ihn als Bedrohung. Der Titel rahmt das gesamte Evangelium.
 
 ---

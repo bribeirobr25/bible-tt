@@ -173,7 +173,7 @@ The Greek text of Luke was transmitted through the same manuscript tradition as 
 ### E2. Notable variants within chapters 1–3
 **[TEXTUAL — VERIFIED]**
 
-The opening chapters contain several variants that meet the RULES-GS significance threshold and are handled in the chapter notes:
+The opening chapters contain several variants that meet the TT's significance threshold and are handled in the chapter notes:
 
 - **1:46** — "**Mary** said" (the Magnificat) is read by a few Old Latin witnesses as "**Elizabeth** said." The overwhelming manuscript evidence reads "Mary"; the minority reading is noted, not adopted.
 - **2:14** — "peace among people **of good will / with whom he is pleased**" (*eudokias*, genitive: א*, A, B*, D, W — the earlier reading) vs. "peace, good will **toward** people" (*eudokia*, nominative: Byzantine). The genitive is the critical text; the difference turns on a single final letter.

@@ -250,7 +250,7 @@ Mas o mensageiro lhe disse: "Não tenhas medo, Zecharyah (Zacarias), porque a tu
 > **Notas**
 >
 > 🔴 **CRÍTICO — A FALA DE GAVRIEL NÃO MARCADA COMO DIVINA (REGRA 30)**
-> - As palavras do mensageiro (vv.13-20) são apresentadas com aspas comuns, NÃO com os marcadores de fala divina @@…@@. Conforme o precedente de Mateus/Marcos, um *angelos* é um mensageiro, não Deus; apenas a fala direta de Deus ou do vento/espírito santo é marcada. A TT não funde a fala do mensageiro em fala divina.
+> - As palavras do mensageiro (vv.13-20) são apresentadas com aspas comuns, NÃO marcadas como fala divina (em vermelho). Conforme o precedente de Mateus/Marcos, um *angelos* é um mensageiro, não Deus; apenas a fala direta de Deus ou do vento/espírito santo é marcada. A TT não funde a fala do mensageiro em fala divina.
 >
 > 🟢 **YOCHANAN — TRANSLITERAÇÃO TT**
 > - **Ἰωάννης** (*Iōannēs*) = Yochanan (Hebraico: **Yochanan**, "YHWH mostrou favor / YHWH é gracioso"). Familiar: João. O significado do nome ("YHWH é gracioso") ressoa com *charis* no capítulo.

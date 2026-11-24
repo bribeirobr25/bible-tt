@@ -42,7 +42,7 @@ The cumulative weight matters: five double-meanings in three chapters is denser 
 **[TEXTUAL — VERIFIED]**
 **Chapters:** 1, 3
 
-The Greek term *monogenēs* (μονογενής, "only-born" / "only of its kind") appears four times in John 1–3 (1:14, 1:18, 3:16, 3:18), making it one of the most recurring theologically-loaded terms in the opening chapters. The TT renders it consistently across all four locales: EN "only-born", PT-BR "único-nascido", DE "einziggeborenen", ES "único-nacido" — the cross-language alignment preserves the begetting/generation reading (mono- + -genēs from *gennaō*, "to beget") rather than the alternative semantic reading ("unique"; from *genos*, "kind"), per the project-level decision.
+The Greek term *monogenēs* (μονογενής, "only-born" / "only of its kind") appears four times in John 1–3 (1:14, 1:18, 3:16, 3:18), making it one of the most recurring theologically-loaded terms in the opening chapters. The TT renders it consistently across all four locales: EN "only-born", PT-BR "único-nascido", DE "einziggeborenen", ES "único-nacido" — the cross-language alignment preserves the begetting/generation reading (mono- + -genēs from *gennaō*, "to beget") rather than the alternative semantic reading ("unique"; from *genos*, "kind").
 
 The four occurrences track an arc. **John 1:14** introduces *monogenēs* in the Logos prologue: "we have seen his glory, glory as of the *monogenēs* from the father." The term first applies to the Word-made-flesh in the cosmological frame. **John 1:18** then occurs with a textual variant — manuscripts read either *monogenēs theos* ("only-born God") or *monogenēs huios* ("only-born Son"). The TT preserves the variant with a textual-critical note rather than silently resolving it.
 

@@ -37,7 +37,7 @@
 
 As notas são marcadas por tipo — **Crítico · Lexical · Gramatical · Teológico** — cada uma com sua cor (veja a legenda no topo da visão de Notas).
 
-**Este capítulo é o mais saturado do AT na narrativa do nascimento.** Quatro citações formulares ("para que se cumprisse o que foi dito") conduzem a narrativa: Miqueias 5:1 (Beyt-Lechem (Belém)), Oseias 11:1 (de Mitsrayim (Egito)), Jeremias 31:15 (Raquel chorando) e um misterioso "Ele será chamado Natsri" sem uma única fonte no AT. Cada citação usa kyrios Opção C com a conexão YHWH do AT anotada. Os nomes aparecem na forma familiar, com a forma da língua original indicada uma vez por seção — p. ex., Yochanan (João).
+**Este capítulo é o mais saturado do AT na narrativa do nascimento.** Quatro citações formulares ("para que se cumprisse o que foi dito") conduzem a narrativa: Miqueias 5:1 (Beyt-Lechem (Belém)), Oseias 11:1 (de Mitsrayim (Egito)), Jeremias 31:15 (Raquel chorando) e um misterioso "Ele será chamado Natsri" sem uma única fonte no AT. Cada citação usa kyrios Opção C com a conexão YHWH do AT anotada. Os nomes aparecem na forma familiar, com a forma da língua original indicada uma vez por seção — p. ex., Beyt-Lechem (Belém).
 
 ---
 
@@ -349,7 +349,7 @@ dizendo: "Levante-se, pegue a criança e sua mãe, e vá para a terra de Yisra'e
 > 🔴 **CRÍTICO — ECO DE ÊXODO 4:19**
 > - A formulação ecoa de perto **Êxodo 4:19** (LXX): "Vai, retorna a Egito, pois todos os que procuravam a tua vida morreram" — instrução de YHWH a Mosheh (Moisés). Mateus inverte a direção (de Egito para Yisra'el) mas preserva o padrão verbal quase exatamente, continuando a tipologia Mosheh-Yeshua. Confiança: VERIFICADO [INFERÊNCIA FORTE].
 >
-> *Para discussão mais completa da comparação verbal e da tabela de tipologia de Moisés, veja o companheiro Seção A (Rastreamento entre Capítulos).*
+> *Para a comparação verbal completa e a tipologia de Moisés, veja a tabela Rastreamento entre Capítulos no fim destas notas.*
 >
 > 🟢 **"OS QUE PROCURAVAM" — PLURAL**
 > - **οἱ ζητοῦντες** (*hoi zētountes*) = "os que procuravam" (plural), embora apenas Herodes tenha sido nomeado como ameaça. O plural pode seguir a formulação de Êxodo 4:19, ou pode indicar que os agentes de Herodes também estão incluídos.

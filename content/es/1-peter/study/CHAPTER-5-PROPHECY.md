@@ -138,8 +138,6 @@ Puesto que la **única cita formal de este capítulo — Proverbios 3:34 (5:5) �
 | BHS, 5.ª ed. rev. (Deutsche Bibelgesellschaft, 1997) | PRIMARIA | Ez 34; Sal 23; Prov 3:34; Éx 3:19; Dt 9:26; Sal 55:22 (TM 55:23); Sal 22:13 (TM 22:14); Is 13–14, 47; Jer 50–51; Dan hebreo/arameo |
 | LXX (Rahlfs-Hanhart, *Septuaginta*, ed. rev., Deutsche Bibelgesellschaft, 2006) | PRIMARIA | Prov 3:34 (*ho theos hyperēphanois antitassetai…* — la forma con sujeto "Dios" compartida con Stg 4:6); Sal 54:23 LXX (*epirripson… tēn merimnan*); Sal 21:14 LXX (*hōs leōn… ōryomenos*); Éx 3:19 / Dt 9:26 (*cheir krataia*); dicción del pastor de Ez 34 |
 
-Ver también: los estudios proféticos de los Evangelios y de Hechos (Profundizar) — la imaginería del pastor (Jn 10) y el testimonium compartido de Prov 3:34 (Stg 4:6).
-
 ---
 
 **Procedencia editorial:**

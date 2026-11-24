@@ -108,7 +108,7 @@ Weil der 1. Petrusbrief das AT ebenso oft in der *dritten* Person über Gott zit
 | BHS, 5. rev. Aufl. (Deutsche Bibelgesellschaft, 1997) | PRIMÄR | Lev 11,44–45; 19,2; Jes 40,6–8; Ex 12,5.11; 24,8; Lev (Opfer); Jes 53,7 Hebräisch |
 | LXX (Rahlfs-Hanhart, *Septuaginta*, rev. Aufl., Deutsche Bibelgesellschaft, 2006) | PRIMÄR | Lev 19,2 (*Hagioi esesthe… egō hagios*); Jes 40,6–8 (*pasa sarx… to rhēma tou theou hēmōn*); Ex 12,11 (*osphyas periezōsmenoi*); 24,8; *amnos / amōmos* Opferdiktion |
 
-Siehe auch: die Prophetie-Studien zu den Evangelien (Vertiefen) — Jes 40,3 → der Untertaucher; Joh 1,29, das Lamm Gottes (die Jesaja-40- und Passahlamm-Querverweise).
+Siehe auch: die Prophetie-Studie zu Lukas 3 (Vertiefen) — Jes 40,3 → der Untertaucher.
 
 ---
 

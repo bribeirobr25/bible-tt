@@ -297,7 +297,7 @@ Jesus antwortete und sagte zu ihm: @@„Du bist der Lehrer Yisraels und weißt d
 > - **μὴ ἀπόληται** (*mē apolētai*) = „nicht verloren gehe/zugrunde gehe." Das Verb **ἀπόλλυμι** (*apollymi*) = „zugrunde richten, vernichten, verloren gehen." Die Alternative zum „Leben des Zeitalters" ist nicht Vernichtung versus Existenz, sondern Verlorengehen versus das Leben des kommenden Zeitalters.
 >
 > 🟡 **SPRECHERAMBIGUITÄT — YESHUA ODER ERZÄHLER?**
-> - Wo endet Jesu Rede (begonnen in V.3) und wo beginnt der Kommentar des Erzählers? Im Griechischen gibt es keine Anführungszeichen. Hauptvorschläge: (a) Jesu Rede endet bei V.15, und VV.16–21 sind die Reflexion des Erzählers; (b) Jesus spricht bis V.21 durch; (c) der Übergang liegt bei V.12 oder V.13. Die TT nimmt alle VV.3–21 in den Dialogabschnitt auf, ohne die Frage zu lösen, und vermerkt sie hier. Da der Sprecher (Jesus oder der Erzähler) offenbleibt, sind VV.16–21 nicht als göttliche Rede (rot) markiert — im Zweifel nicht markieren (Regel 30). Das Fehlen einer Lösung ist selbst ein Textmerkmal.
+> - Wo endet Jesu Rede (begonnen in V.3) und wo beginnt der Kommentar des Erzählers? Im Griechischen gibt es keine Anführungszeichen. Hauptvorschläge: (a) Jesu Rede endet bei V.15, und VV.16–21 sind die Reflexion des Erzählers; (b) Jesus spricht bis V.21 durch; (c) der Übergang liegt bei V.12 oder V.13. Die TT nimmt alle VV.3–21 in den Dialogabschnitt auf, ohne die Frage zu lösen, und vermerkt sie hier. Für die Kennzeichnung folgt die TT der Mehrheitsgrenze: Jesu Rede reicht bis V.15 und ist als göttliche Rede (rot) markiert; VV.16–21 bleiben unmarkiert, weil der Sprecher dort (Jesus oder der Erzähler) umstritten ist — im Zweifel nicht markieren (Regel 30). Das Fehlen einer Lösung ist selbst ein Textmerkmal.
 
 ---
 

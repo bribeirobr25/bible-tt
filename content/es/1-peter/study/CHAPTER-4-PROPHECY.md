@@ -123,7 +123,7 @@
 | BHS, 5.ª ed. rev. (Deutsche Bibelgesellschaft, 1997) | PRIMARIA | Prov 10:12; 11:31 (TM *yĕšullām bāʾāreṣ*); Is 11:2; Ez 9:6; Mal 3:1-5; Gén 1:1; Is 40:28; 42:5; 43:1, 15; 44:24; 45:7, 12, 18 hebreo |
 | LXX (Rahlfs-Hanhart, *Septuaginta*, ed. rev., Deutsche Bibelgesellschaft, 2006) | PRIMARIA | Prov 10:12 LXX (*philia* — divergente del TM, **no** seguida por 1 Pedro); Prov 11:31 LXX (*molis sōzetai* — la forma que 1 Pedro cita); Is 11:2 (*anapausetai… pneuma*); Ez 9:6 (*apo tōn hagiōn mou arxasthe*); Mal 3:1-5; Gén 1; Is 40-45 griego |
 
-Ver también: los estudios proféticos de los Evangelios y de Hechos (Profundizar) — Is 11:2 / 42:1 → el espíritu sobre el Mesías; Mal 3:1 → el precursor; Sal 31:5 → Lc 23:46.
+Ver también: el estudio profético de Lucas 3 (Profundizar) — Is 42:1 → el espíritu sobre el Mesías; el estudio profético de Lucas 1 (Profundizar) — Mal 3:1 → el precursor.
 
 ---
 

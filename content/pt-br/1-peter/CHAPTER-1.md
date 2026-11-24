@@ -37,7 +37,7 @@
 
 As notas são marcadas por tipo — **Crítico · Lexical · Gramatical · Teológico** — cada uma com sua cor (veja a legenda no topo da visão de Notas).
 
-**Esta é a abertura de 1 Pedro — a primeira *carta* do corpus.** É uma epístola circular a crentes dispersos — "eleitos peregrinos da dispersão" — por cinco províncias da Ásia Menor (1:1, províncias que coincidem com a lista de peregrinos de Atos 2:9). O capítulo 1 traz a **saudação** epistolar (vv.1-2), depois uma única e elevada frase grega de **bênção** (vv.3-12) sobre o novo nascimento, a esperança viva, a herança incorruptível e a salvação que os profetas perscrutaram; em seguida as primeiras **exortações** — à santidade (vv.13-21) e ao amor de um coração puro (vv.22-25). **Nota sobre marcação de fala (Regra 30):** 1 Pedro é a exortação do apóstolo em sua própria voz — não há fala divina narrada, e a palavra de Deus em primeira pessoa *dentro* de uma citação do AT (1:16, "eu sou santo", de Levítico) também não é marcada: ela é introduzida por "está escrito", de modo que um falante humano está citando. Os nomes aparecem na forma familiar, com a forma da língua original indicada uma vez por seção — p. ex., Yochanan (João).
+**Esta é a abertura de 1 Pedro — a primeira *carta* do corpus.** É uma epístola circular a crentes dispersos — "eleitos peregrinos da dispersão" — por cinco províncias da Ásia Menor (1:1, províncias que coincidem com a lista de peregrinos de Atos 2:9). O capítulo 1 traz a **saudação** epistolar (vv.1-2), depois uma única e elevada frase grega de **bênção** (vv.3-12) sobre o novo nascimento, a esperança viva, a herança incorruptível e a salvação que os profetas perscrutaram; em seguida as primeiras **exortações** — à santidade (vv.13-21) e ao amor de um coração puro (vv.22-25). **Nota sobre marcação de fala (Regra 30):** 1 Pedro é a exortação do apóstolo em sua própria voz — não há fala divina narrada, e a palavra de Deus em primeira pessoa *dentro* de uma citação do AT (1:16, "eu sou santo", de Levítico) também não é marcada: ela é introduzida por "está escrito", de modo que um falante humano está citando. Os nomes aparecem na forma familiar, com a forma da língua original indicada uma vez por seção — p. ex., Kefa (Pedro).
 
 ---
 
@@ -259,7 +259,7 @@ E se invocais *como* Pai aquele *que* julga imparcialmente segundo a obra de cad
 > **Notas**
 >
 > 🔵 **"O TEMPO DO VOSSO PEREGRINAR" — *PAROIKIAS***
-> - **τὸν τῆς παροικίας ὑμῶν χρόνον** (*ton tēs paroikias hymōn chronon*) = "o tempo do vosso peregrinar / residência-exílio." *Paroikia* (condição de estrangeiro residente) reforça a identidade de exílio de 1:1. Deus julga **ἀπροσωπολήμπτως** ("sem parcialidade / sem fazer acepção de pessoas") — temor reverente de Nível 1, não pavor.
+> - **τὸν τῆς παροικίας ὑμῶν χρόνον** (*ton tēs paroikias hymōn chronon*) = "o tempo do vosso peregrinar / residência-exílio." *Paroikia* (condição de estrangeiro residente) reforça a identidade de exílio de 1:1. Deus julga **ἀπροσωπολήμπτως** ("sem parcialidade / sem fazer acepção de pessoas") — o "temor" da tradução é temor reverente, não pavor.
 
 ---
 

@@ -37,7 +37,7 @@
 
 Las notas se etiquetan por tipo — **Crítico · Léxico · Gramatical · Teológico** — cada una con su color (vea la leyenda en la parte superior de la vista de Notas).
 
-**Este capítulo es el más cargado del AT en la narrativa del nacimiento.** Cuatro fórmulas de citación ("para que se cumpliera lo dicho") impulsan la narrativa: Miqueas 5:1 (Beyt-Lechem), Oseas 11:1 (fuera de Mitsrayim), Jeremías 31:15 (Raquel llorando), y un misterioso "Será llamado Natsri" sin una fuente única del AT. Cada cita usa kyrios Opción C con la conexión YHWH del AT anotada. Los nombres aparecen en su forma familiar, con la forma de la lengua original indicada una vez por sección — p. ej., Yochanan (Juan).
+**Este capítulo es el más cargado del AT en la narrativa del nacimiento.** Cuatro fórmulas de citación ("para que se cumpliera lo dicho") impulsan la narrativa: Miqueas 5:1 (Beyt-Lechem), Oseas 11:1 (fuera de Mitsrayim), Jeremías 31:15 (Raquel llorando), y un misterioso "Será llamado Natsri" sin una fuente única del AT. Cada cita usa kyrios Opción C con la conexión YHWH del AT anotada. Los nombres aparecen en su forma familiar, con la forma de la lengua original indicada una vez por sección — p. ej., Beyt-Lechem (Belén).
 
 ---
 

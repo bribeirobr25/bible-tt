@@ -249,7 +249,7 @@ But the messenger said to him, "Do not be afraid, Zecharyah (Zechariah), because
 > **Notes**
 >
 > 🔴 **CRITICAL — GAVRIEL'S SPEECH NOT DIVINE-MARKED (RULE 30)**
-> - The messenger's words (vv.13-20) are rendered in ordinary quotation marks, NOT the @@…@@ divine-speech markers. Per the Matthew/Mark precedent, an *angelos* is a messenger, not God; only the direct speech of God or the holy wind/spirit is marked. The TT does not collapse messenger-speech into divine speech.
+> - The messenger's words (vv.13-20) are rendered in ordinary quotation marks, NOT marked as divine speech (red). Per the Matthew/Mark precedent, an *angelos* is a messenger, not God; only the direct speech of God or the holy wind/spirit is marked. The TT does not collapse messenger-speech into divine speech.
 >
 > 🟢 **YOCHANAN — TT TRANSLITERATION**
 > - **Ἰωάννης** (*Iōannēs*) = Yochanan (Hebrew: **Yochanan**, "YHWH has shown favor / YHWH is gracious"). Familiar: John. The name's meaning ("YHWH is gracious") resonates with *charis* in the chapter.

@@ -123,7 +123,7 @@
 | BHS, 5th rev. ed. (Deutsche Bibelgesellschaft, 1997) | PRIMARY | Prov 10:12; 11:31 (MT *yĕšullām bāʾāreṣ*); Isa 11:2; Ezek 9:6; Mal 3:1–5; Gen 1:1; Isa 40:28; 42:5; 43:1, 15; 44:24; 45:7, 12, 18 Hebrew |
 | LXX (Rahlfs-Hanhart, *Septuaginta*, rev. ed., Deutsche Bibelgesellschaft, 2006) | PRIMARY | Prov 10:12 LXX (*philia* — divergent from MT, **not** followed by 1 Peter); Prov 11:31 LXX (*molis sōzetai* — the form 1 Peter quotes); Isa 11:2 (*anapausetai… pneuma*); Ezek 9:6 (*apo tōn hagiōn mou arxasthe*); Mal 3:1–5; Gen 1; Isa 40–45 Greek |
 
-See also: the Gospel and Acts prophecy studies (Deeper) — Isa 11:2 / 42:1 → the spirit on the Messiah; Mal 3:1 → the forerunner; Ps 31:5 → Lk 23:46.
+See also: the Luke 3 prophecy study (Deeper) — Isa 42:1 → the spirit on the Messiah; the Luke 1 prophecy study (Deeper) — Mal 3:1 → the forerunner.
 
 ---
 

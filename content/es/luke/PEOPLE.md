@@ -242,7 +242,7 @@ Este archivo presenta información biográfica y genealógica sobre figuras que 
 
 ## Genealogía de Lucas 3:23-38 — Tabla Resumen
 
-La genealogía de Lucas **asciende** desde Yeshua (Jesús) hasta Adam y hasta Dios — lo inverso de la lista descendente de Mateo (Mt 1:1-17). Recorre ~76 nombres desde Yeshua hasta "de Dios." Para los nombres con una forma familiar en español, la glosa familiar se da una vez; los nombres sin una forma familiar distinta aparecen solo en transliteración. Entradas de otros libros: los patriarcas (Adam → la línea de Sem) tienen sus biografías canónicas en **la página Personas y Genealogía de Génesis**; la línea de David conecta con **la página Personas y Genealogía de Mateo** (las remisiones de arriba cubren las tres figuras principales — Yeshua, Yochanan, Miryam).
+La genealogía de Lucas asciende desde Yeshua (Jesús) hasta Adam y hasta Dios — lo inverso de la lista descendente de Mateo (Mt 1:1-17). Recorre ~76 nombres desde Yeshua hasta "de Dios." Para los nombres con una forma familiar en español, la glosa familiar se da una vez; los nombres sin una forma familiar distinta aparecen solo en transliteración. Entradas de otros libros: los patriarcas (Adam → la línea de Sem) tienen sus biografías canónicas en la página Personas y Genealogía de Génesis; la línea de David conecta con la página Personas y Genealogía de Mateo (las remisiones de arriba cubren las tres figuras principales — Yeshua, Yochanan, Miryam).
 
 | # | Nombre (Familiar) | Referencia | Hogar canónico |
 |---|---|---|---|

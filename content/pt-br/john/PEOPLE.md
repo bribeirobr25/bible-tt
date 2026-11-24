@@ -235,4 +235,4 @@ Este arquivo apresenta informações biográficas e contextuais sobre figuras qu
 - **REVISADO POR PARES (Política Ioudaioi)** — Reinhartz, A., *Cast Out of the Covenant: Jews and Anti-Judaism in the Gospel of John* (Lexington, 2018); von Wahlde, U.C., "The Johannine 'Jews': A Critical Survey," *NTS* 28 (1982).
 - **REVISADO POR PARES (tradições apostólicas)** — Eusébio, *História Eclesiástica*, ed. Lake (Loeb); fragmentos de Polícrates de Éfeso + Pápias citados por Eusébio; Bauckham, R., *Jesus and the Eyewitnesses* (Eerdmans, 2017, 2ª ed.) para a discussão de historicidade dos discípulos-nomeados-mas-menores.
 
-> **Procedência editorial:** Rascunho assistido por IA, ainda não revisado.
+> **Procedência editorial:** Rascunho assistido por IA, ainda não revisado. Este arquivo é um recurso acadêmico provisório governado pela Regra 29 da TT.

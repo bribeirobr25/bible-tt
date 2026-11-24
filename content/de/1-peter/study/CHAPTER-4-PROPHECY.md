@@ -123,7 +123,7 @@ Der 1. Petrusbrief ist ein **Brief** — *Argument und Ermahnung* in der eigenen
 | BHS, 5. rev. Aufl. (Deutsche Bibelgesellschaft, 1997) | PRIMÄR | Spr 10,12; 11,31 (MT *yĕšullām bāʾāreṣ*); Jes 11,2; Hes 9,6; Mal 3,1–5; Gen 1,1; Jes 40,28; 42,5; 43,1. 15; 44,24; 45,7. 12. 18 Hebräisch |
 | LXX (Rahlfs-Hanhart, *Septuaginta*, rev. Aufl., Deutsche Bibelgesellschaft, 2006) | PRIMÄR | Spr 10,12 LXX (*philia* — divergent vom MT, **nicht** vom 1. Petrusbrief gefolgt); Spr 11,31 LXX (*molis sōzetai* — die Form, die der 1. Petrusbrief zitiert); Jes 11,2 (*anapausetai… pneuma*); Hes 9,6 (*apo tōn hagiōn mou arxasthe*); Mal 3,1–5; Gen 1; Jes 40–45 Griechisch |
 
-Siehe auch: die Prophetie-Studien zu den Evangelien und zur Apostelgeschichte (Vertiefen) — Jes 11,2 / 42,1 → der Geist auf dem Messias; Mal 3,1 → der Vorläufer; Ps 31,5 → Lk 23,46.
+Siehe auch: die Prophetie-Studie zu Lukas 3 (Vertiefen) — Jes 42,1 → der Geist auf dem Messias; die Prophetie-Studie zu Lukas 1 (Vertiefen) — Mal 3,1 → der Vorläufer.
 
 ---
 

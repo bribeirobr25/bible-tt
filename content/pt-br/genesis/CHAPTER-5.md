@@ -121,7 +121,7 @@ E Adão viveu cento e trinta anos, e gerou à sua semelhança, conforme a sua im
 > - Gn 1:26–27: Deus cria o humano "à nossa imagem, conforme a nossa semelhança." Gn 5:3: Adão gera Sete "à **sua** semelhança, conforme a **sua** imagem." A linguagem de criação divino-para-humano é **encadeada à descendência humano-para-humano**. O par *tselem/demut* continua através das gerações.
 >
 > 🟢 **130 ANOS**
-> - Gn 2:17 advertiu "morrendo morrerás." Gn 3:19 declarou "pó és." Agora Adão vive 130 anos antes de Sete — depois morre aos 930 (v.5). A tensão do "no dia" (2:17 vs. 5:5) está textualmente presente.
+> - Gn 2:17 advertiu "morrendo morrerás." Gn 3:19 declarou "pó és." Agora Adão vive 130 anos antes de Sete — depois morre aos 930 (v.5). A tensão do "no dia" (2:17 vs. 5:5) está textualmente presente. → Para as opções interpretativas de *beyom*, veja o material de estudo de Gênesis 2 (Aprofundar), Seção D4.
 
 ---
 

@@ -78,7 +78,7 @@
 | BHS, 5ª ed. rev. (Deutsche Bibelgesellschaft, 1997) | PRIMÁRIA | Hebraico de Mq 5:1; 2 Sm 5:2; Os 11:1; Jr 31:15 |
 | LXX (Rahlfs-Hanhart, *Septuaginta*, ed. rev., Deutsche Bibelgesellschaft, 2006) | PRIMÁRIA | Comparações grego-texto-fonte |
 
-Ver também: o material de estudo de Mateus 2 (Aprofundar) — tabela de rastreamento entre capítulos; comparações Os 11:1 / Jr 31:15.
+Ver também: as notas de Mateus 2 (tabela Rastreamento entre Capítulos) — comparações Os 11:1 / Jr 31:15.
 
 ---
 

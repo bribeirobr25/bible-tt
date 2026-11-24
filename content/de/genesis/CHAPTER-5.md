@@ -121,7 +121,7 @@ Und Adam lebte einhundertunddreißig Jahre, und er zeugte in seiner Gleichheit, 
 > - Gn 1:26–27: Gott erschafft den Menschen „in unserem Bild, nach unserer Gleichheit." Gn 5:3: Adam zeugt Set „in **seiner** Gleichheit, nach **seinem** Bild." Die göttlich-zu-menschliche Schöpfungssprache wird an die menschlich-zu-menschliche Abstammung **gekettet**. Das *tselem/demut*-Paar setzt sich durch die Generationen fort.
 >
 > 🟢 **130 JAHRE**
-> - Gn 2:17 warnte „sterbend sollst du sterben." Gn 3:19 stellte fest „Staub bist du." Nun lebt Adam 130 Jahre bis Set — dann stirbt er mit 930 (V.5). Die „am Tag"-Spannung (2:17 gegen 5:5) ist textuell vorhanden.
+> - Gn 2:17 warnte „sterbend sollst du sterben." Gn 3:19 stellte fest „Staub bist du." Nun lebt Adam 130 Jahre bis Set — dann stirbt er mit 930 (V.5). Die „am Tag"-Spannung (2:17 gegen 5:5) ist textuell vorhanden. → Zu den Deutungsoptionen von *beyom* siehe das Begleitmaterial zu Genesis 2 (Vertiefen), Abschnitt D4.
 
 ---
 

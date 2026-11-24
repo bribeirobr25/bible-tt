@@ -250,7 +250,7 @@ Pero el mensajero le dijo: "No temas, Zecharyah (Zacarías), porque tu petición
 > **Notas**
 >
 > 🔴 **CRÍTICO — EL HABLA DE GAVRIEL NO MARCADA COMO DIVINA (REGLA 30)**
-> - Las palabras del mensajero (vv.13-20) se traducen con comillas ordinarias, NO con los marcadores de habla divina @@…@@. Según el precedente de Mateo/Marcos, un *angelos* es un mensajero, no Dios; solo el habla directa de Dios o del viento/espíritu santo se marca. La TT no colapsa el habla del mensajero en habla divina.
+> - Las palabras del mensajero (vv.13-20) se traducen con comillas ordinarias, NO marcadas como habla divina (en rojo). Según el precedente de Mateo/Marcos, un *angelos* es un mensajero, no Dios; solo el habla directa de Dios o del viento/espíritu santo se marca. La TT no colapsa el habla del mensajero en habla divina.
 >
 > 🟢 **YOCHANAN — TRANSLITERACIÓN TT**
 > - **Ἰωάννης** (*Iōannēs*) = Yochanan (hebreo: **Yochanan**, "YHWH ha mostrado favor / YHWH es benévolo"). Familiar: Juan. El significado del nombre ("YHWH es benévolo") resuena con *charis* en el capítulo.

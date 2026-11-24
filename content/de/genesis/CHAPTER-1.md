@@ -84,7 +84,7 @@ Im Anfang schuf Gott den Himmel und das Land.
 > Hebräisch: **בְּרֵאשִׁית בָּרָא אֱלֹהִים אֵת הַשָּׁמַיִם וְאֵת הָאָֽרֶץ** (*Bereshit bara elohim et hashamayim ve'et ha'aretz*)
 > 
 > - Sieben-Wort-Struktur im Hebräischen (symbolische Zahl) geht in Übersetzung verloren
-> - **בְּרֵאשִׁית** (*bereshit*) = „in Anfang" — im Hebräischen OHNE bestimmten Artikel. Die deutsche Wiedergabe „Im Anfang" enthält den Artikel notwendigerweise (*im* = *in dem*), da „In Anfang" nicht idiomatisch ist. Dies ist eine grammatisch erzwungene Abweichung gemäß Regel 17 (deutsche Artikel-Erweiterung), nicht interpretativ. Im Redaktionslog dokumentiert.
+> - **בְּרֵאשִׁית** (*bereshit*) = „in Anfang" — im Hebräischen OHNE bestimmten Artikel. Die deutsche Wiedergabe „Im Anfang" enthält den Artikel notwendigerweise (*im* = *in dem*), da „In Anfang" nicht idiomatisch ist. Dies ist eine grammatisch erzwungene Abweichung gemäß Regel 17 (deutsche Artikel-Erweiterung), nicht interpretativ.
 > - Grammatische Struktur erlaubt ZWEI Lesungen: (1) V.1 als eigenständiger Satz (traditionell, hier befolgt gemäß masoretischer Interpunktion), oder (2) V.1 als Titel/Überschrift mit Narrativbeginn V.2. **MÖGLICH**. Für ausführlichere Diskussion der Strukturoptionen siehe Begleitmaterial Abschnitt B.
 > 
 > 🟢 **SCHLÜSSELBEGRIFFE**
@@ -151,7 +151,7 @@ Und Gott nannte das Licht „Tag", und die Finsternis nannte er „Nacht". Und *
 > 
 > 🔴 **KRITISCH - Tag EINS, Nicht ERSTER**
 > - Hebräisch **יוֹם אֶחָד** (*yom echad*) = Kardinalzahl—NICHT Ordinalzahl **רִאשׁוֹן** (*rishon* = „erster"). Tage 2-6 verwenden Ordinalzahlen (zweiter, dritter, vierter, fünfter, sechster). **Tag 1 wird linguistisch anders behandelt—dies ist bedeutsam.**
-> - ✅ **Entscheidung (2026-04-18):** „Tag eins" gewählt statt „ein Tag". „Ein Tag" liest sich idiomatisch unbestimmt („a day / irgendein Tag"); „Tag eins" gibt die Kardinal-Etikettierung klarer wieder und vermeidet die Verwechslung mit dem unbestimmten Artikel. Im Redaktionslog dokumentiert.
+> - ✅ **Entscheidung (2026-04-18):** „Tag eins" gewählt statt „ein Tag". „Ein Tag" liest sich idiomatisch unbestimmt („a day / irgendein Tag"); „Tag eins" gibt die Kardinal-Etikettierung klarer wieder und vermeidet die Verwechslung mit dem unbestimmten Artikel.
 > 
 > 🔵 **TAGESABSCHLUSSFORMEL**
 > - „Und es war Abend, und es war Morgen, [X] Tag" = GESPERRTE Formel; wiederholt sich exakt in Vv.8, 13, 19, 23, 31

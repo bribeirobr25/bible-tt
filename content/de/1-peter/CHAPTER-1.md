@@ -36,7 +36,7 @@
 
 Notizen sind nach Typ gekennzeichnet — **Kritisch · Lexikalisch · Grammatisch · Theologisch** — jeweils mit ihrer Farbe (siehe die Legende oben in der Notizen-Ansicht).
 
-**Dies ist die Eröffnung des 1. Petrusbriefes — des ersten *Briefes* des Korpus.** Es ist ein Rundbrief an zerstreute Gläubige — „erwählte Fremdlinge der Zerstreuung" — über fünf Provinzen Kleinasiens hin (1,1, Provinzen, die sich mit der Pilgerliste von Apg 2,9 überschneiden). Kapitel 1 enthält die brieflichen **Grußworte** (V.1-2), dann einen einzigen, aufschwingenden griechischen Satz des **Lobpreises** (V.3-12) über die Wiedergeburt, die lebendige Hoffnung, das unvergängliche Erbe und die Rettung, die die Propheten erforschten; dann die ersten **Ermahnungen** — zur Heiligkeit (V.13-21) und zur Liebe aus reinem Herzen (V.22-25). **Hinweis zur Redemarkierung (Regel 30):** Der 1. Petrusbrief ist die Ermahnung des Apostels in seiner eigenen Stimme — es gibt keine erzählte göttliche Rede, und auch Gottes Wort in der ersten Person *innerhalb* eines alttestamentlichen Zitats (1,16, „ich bin heilig", aus Levitikus) ist nicht markiert: Es wird mit „es steht geschrieben" eingeführt, also zitiert ein menschlicher Sprecher. Namen erscheinen in der vertrauten Form; die ursprachliche Form steht einmal pro Abschnitt — z. B. Yochanan (Johannes).
+**Dies ist die Eröffnung des 1. Petrusbriefes — des ersten *Briefes* des Korpus.** Es ist ein Rundbrief an zerstreute Gläubige — „erwählte Fremdlinge der Zerstreuung" — über fünf Provinzen Kleinasiens hin (1,1, Provinzen, die sich mit der Pilgerliste von Apg 2,9 überschneiden). Kapitel 1 enthält die brieflichen **Grußworte** (V.1-2), dann einen einzigen, aufschwingenden griechischen Satz des **Lobpreises** (V.3-12) über die Wiedergeburt, die lebendige Hoffnung, das unvergängliche Erbe und die Rettung, die die Propheten erforschten; dann die ersten **Ermahnungen** — zur Heiligkeit (V.13-21) und zur Liebe aus reinem Herzen (V.22-25). **Hinweis zur Redemarkierung (Regel 30):** Der 1. Petrusbrief ist die Ermahnung des Apostels in seiner eigenen Stimme — es gibt keine erzählte göttliche Rede, und auch Gottes Wort in der ersten Person *innerhalb* eines alttestamentlichen Zitats (1,16, „ich bin heilig", aus Levitikus) ist nicht markiert: Es wird mit „es steht geschrieben" eingeführt, also zitiert ein menschlicher Sprecher. Namen erscheinen in der vertrauten Form; die ursprachliche Form steht einmal pro Abschnitt — z. B. Kefa (Petrus).
 
 ---
 
@@ -258,7 +258,7 @@ Und wenn ihr *als* Vater den anruft, der unparteiisch richtet nach eines jeden W
 > **Notizen**
 >
 > 🔵 **„DIE ZEIT EURER FREMDLINGSCHAFT" — *PAROIKIAS***
-> - **τὸν τῆς παροικίας ὑμῶν χρόνον** (*ton tēs paroikias hymōn chronon*) = „die Zeit eurer Fremdlingschaft / eures Aufenthalts als Fremde." *Paroikia* (der Status des ansässigen Fremden) verstärkt die Exil-Identität von 1,1. Gott richtet **ἀπροσωπολήμπτως** („ohne Ansehen der Person / nicht das Angesicht aufnehmend") — die ehrfürchtige Furcht der Stufe 1, kein Erschrecken.
+> - **τὸν τῆς παροικίας ὑμῶν χρόνον** (*ton tēs paroikias hymōn chronon*) = „die Zeit eurer Fremdlingschaft / eures Aufenthalts als Fremde." *Paroikia* (der Status des ansässigen Fremden) verstärkt die Exil-Identität von 1,1. Gott richtet **ἀπροσωπολήμπτως** („ohne Ansehen der Person / nicht das Angesicht aufnehmend") — die „Furcht" der Übersetzung ist ehrfürchtige Furcht, kein Erschrecken.
 
 ---
 

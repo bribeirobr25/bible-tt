@@ -99,7 +99,7 @@ El primer imperativo principal de la carta (1:13) es **ἀναζωσάμενοι
 ### A11. La cita de Levítico como palabra de Dios en primera persona (Regla 30)
 **[TEXTUAL — VERIFICADO]**
 
-En 1:16 el llamado a la santidad se fundamenta en una cita: **Ἅγιοι ἔσεσθε, ὅτι ἐγὼ ἅγιος** ("Sean santos, porque yo *soy* santo"), de Levítico 11:44-45; 19:2; 20:7. La fuente es **el habla en primera persona del propio Dios** (el SEÑOR diciendo "yo soy santo"), pero la TT no la marca: la introduce "está escrito", así que Kefa la está citando (Regla 30). Por tanto el capítulo no lleva ninguna marcación de habla divina: la exhortación circundante es la propia voz del apóstol, y las otras citas (Isa 40 en 1:24-25) son la voz humana del profeta. La cópula "*soy*" se suple en cursiva, ya que el griego (y el hebreo detrás de él) carece de verbo. → vea §A12.
+En 1:16 el llamado a la santidad se fundamenta en una cita: **Ἅγιοι ἔσεσθε, ὅτι ἐγὼ ἅγιος** ("Sean santos, porque yo *soy* santo"), de Levítico 11:44-45; 19:2; 20:7. La fuente es **el habla en primera persona del propio Dios** (el SEÑOR diciendo "yo soy santo"), pero la TT no la marca: se introduce con "está escrito", así que Kefa la está citando (Regla 30). Por tanto el capítulo no lleva ninguna marcación de habla divina: la exhortación circundante es la propia voz del apóstol, y las otras citas (Isa 40 en 1:24-25) son la voz humana del profeta. La cópula "*soy*" se suple en cursiva, ya que el griego (y el hebreo detrás de él) carece de verbo. → vea §A12.
 
 ### A12. *Anastrophē* — "conducta" como palabra clave de 1 Pedro
 **[TEXTUAL — VERIFICADO]**

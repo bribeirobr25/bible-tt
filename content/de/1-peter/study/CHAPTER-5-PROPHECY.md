@@ -138,8 +138,6 @@ Weil die **eine förmliche Zitation in diesem Kapitel — Sprüche 3,34 (5,5) �
 | BHS, 5. rev. Aufl. (Deutsche Bibelgesellschaft, 1997) | PRIMÄR | Hes 34; Ps 23; Spr 3,34; Ex 3,19; Dtn 9,26; Ps 55,22 (MT 55,23); Ps 22,13 (MT 22,14); Jes 13–14, 47; Jer 50–51; Dan Hebräisch/Aramäisch |
 | LXX (Rahlfs-Hanhart, *Septuaginta*, rev. Aufl., Deutsche Bibelgesellschaft, 2006) | PRIMÄR | Spr 3,34 (*ho theos hyperēphanois antitassetai…* — die „Gott"-Subjekt-Form, geteilt mit Jak 4,6); Ps 54,23 LXX (*epirripson… tēn merimnan*); Ps 21,14 LXX (*hōs leōn… ōryomenos*); Ex 3,19 / Dtn 9,26 (*cheir krataia*); Hes 34 Hirten-Diktion |
 
-Siehe auch: die Prophetie-Studien zu den Evangelien und zur Apostelgeschichte (Vertiefen) — die Hirten-Bildlichkeit (Joh 10) und das geteilte Spr-3,34-Testimonium (Jak 4,6).
-
 ---
 
 **Redaktionelle Herkunft:**

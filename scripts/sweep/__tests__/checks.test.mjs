@@ -670,6 +670,32 @@ describe("per-file checks", () => {
     ]);
     expect(hits.find((h) => h.match === "P-001").render).toBe("no");
   });
+  it("S5d stale-policy: every case/accent form of the pre-v3.2 sentence", () => {
+    for (const [rel, line] of [
+      [
+        "en/john/CONTEXT.md",
+        "All proper names follow TT transliteration: X (not Y).",
+      ],
+      [
+        "pt-br/john/CONTEXT.md",
+        "Os nomes próprios seguem a transliteração TT: X.",
+      ],
+      [
+        "pt-br/john/INTRODUCTION.md",
+        "Nomes próprios seguem a transliteracao TT: X.",
+      ],
+      [
+        "es/john/CONTEXT.md",
+        "Los nombres propios siguen la transliteracion TT: X.",
+      ],
+    ]) {
+      const c = ctxOf(`# T\n## A. X\n${line}`, rel);
+      expect(
+        run(C.s5d, c, new Set()).filter((h) => h.cls === "stale-policy").length,
+        line,
+      ).toBe(1);
+    }
+  });
   it("S9: the Rule 28 (v3.4.1, L5) plain provenance statements are not flagged", () => {
     const plain = [
       ["en", "AI-assisted draft, not yet reviewed."],
@@ -752,12 +778,29 @@ describe("per-file checks", () => {
       "unbalanced-brace",
     ]);
     // retired in Step 4 batch 3 for ordinary tables (the renderer resolves
-    // markers in cells); only a PEOPLE genealogy header row is still flagged
+    // markers in cells): a real header row outside PEOPLE is NOT flagged …
+    expect(
+      cls(
+        run(
+          C.s15,
+          ctxOf(
+            "# T\n## A\n| @@x@@ | b |\n|---|---|\n| c | d |",
+            "en/john/CONTEXT.md",
+          ),
+        ),
+      ),
+    ).toEqual([]);
+    // … only a PEOPLE genealogy header row (printed as plain text) is
     const people = ctxOf(
       "# T\n## A\n| @@x@@ | b |\n|---|---|\n| {a:x/y} | c |",
       "en/luke/PEOPLE.md",
     );
     expect(cls(run(C.s15, people))).toEqual(["marker-in-table"]);
+    const caption = ctxOf(
+      "# T\n## A\nLuke's genealogy **ascends**\n\n| a | b |\n|---|---|\n| c | d |",
+      "en/luke/PEOPLE.md",
+    );
+    expect(cls(run(C.s15, caption))).toEqual(["markup-in-caption"]);
   });
   it("S17: χριστός renderings per form, main text only; John 1:41 renders Μεσσίας", () => {
     const c = ctxOf(

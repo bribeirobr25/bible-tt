@@ -173,7 +173,7 @@ Der griechische Text des Lukas wurde durch dieselbe Handschriftentradition wie d
 ### E2. Bemerkenswerte Varianten innerhalb der Kapitel 1–3
 **[TEXTUELL — VERIFIZIERT]**
 
-Die Anfangskapitel enthalten mehrere Varianten, die die Bedeutsamkeitsschwelle von RULES-GS erreichen und in den Kapitelanmerkungen behandelt werden:
+Die Anfangskapitel enthalten mehrere Varianten, die die Bedeutsamkeitsschwelle der TT erreichen und in den Kapitelanmerkungen behandelt werden:
 
 - **1,46** — „**Maria** sprach" (das Magnificat) wird von einigen altlateinischen Zeugen als „**Elisabet** sprach" gelesen. Das überwältigende Handschriftenzeugnis liest „Maria"; die Minderheitslesart wird vermerkt, nicht übernommen.
 - **2,14** — „Friede unter den Menschen **des Wohlgefallens / an denen er Wohlgefallen hat**" (*eudokias*, Genitiv: א*, A, B*, D, W — die frühere Lesart) gegenüber „Friede, Wohlgefallen **gegenüber** den Menschen" (*eudokia*, Nominativ: byzantinisch). Der Genitiv ist der kritische Text; der Unterschied dreht sich um einen einzigen Endbuchstaben.

@@ -350,9 +350,9 @@ function sectionKey(ctx, i) {
   return "";
 }
 
-const STALE_POLICY = [
-  /Proper names follow TT transliteration/g,
-  /[Nn]omes próprios seguem a transliteração/g,
+export const STALE_POLICY = [
+  /[Pp]roper names follow TT transliteration/g,
+  /[Nn]omes próprios seguem a translitera(?:ç[aã]|ca)o/g,
   /Eigennamen folgen der TT-Transliteration/g,
   /[Nn]ombres propios siguen la transliteraci[oó]n/g,
 ];
@@ -751,6 +751,8 @@ const META = [
   ],
   ["repo-path", /(?<![\p{L}\p{N}])(?:content|docs|src|scripts)\/[\w./-]+/gu],
   ["repo-path", /(?<![\p{L}\p{N}/.-])[\w-]+(?:\/[\w-]+)*\.md(?![\p{L}])/gu],
+  // rule-file names without the extension (batch-3 review: "the RULES-GS threshold")
+  ["repo-path", word("RULES-(?:CORE|HB|GS)")],
   [
     "process-word",
     word(
@@ -773,13 +775,13 @@ const META = [
   ],
   [
     "tier-jargon",
-    word("(?:Tier|TIER|Nível|NÍVEL|Stufe|STUFE|Nivel|NIVEL)[- ]2"),
+    word("(?:Tier|TIER|Nível|NÍVEL|Stufe|STUFE|Nivel|NIVEL)[- ][12]"),
   ],
   ["process-word", word("(?:Phase|Fase) \\d+(?:\\.\\d+)?[A-Za-z]?")],
   [
     "editorial-log-ref",
     word(
-      "[Ee]ditorial[- ][Ll]og|registro editorial|log editorial|Redaktionsprotokoll|Editorial-Log|bitácora editorial|diario editorial",
+      "[Ee]ditorial[- ][Ll]og|registro editorial|log editorial|Redaktionsprotokoll|[Rr]edaktionslog|[Rr]edaktionell\\p{L}* (?:Protokoll|Log)|Editorial-Log|bitácora editorial|diario editorial",
     ),
   ],
   [
@@ -927,6 +929,20 @@ export function s15(ctx, add) {
       /^\s*\|[\s:|-]+\|\s*$/.test(ctx.lines[i + 1] ?? "")
     )
       add(makeHit(ctx, i, "S15", "marker-in-table", line.slice(0, 60), 0));
+    // …and so are the genealogy title (###) and caption (the plain line before the table)
+    if (
+      /(?:^|\/)PEOPLE\.md$/.test(ctx.path) &&
+      !/^\s*\|/.test(line) &&
+      /\*|@@|\{[at]:/.test(line.replace(/^#+\s*/, ""))
+    ) {
+      let j = i + 1;
+      while (j < ctx.lines.length && !ctx.lines[j].trim()) j++;
+      if (
+        /^\s*\|/.test(ctx.lines[j] ?? "") &&
+        /^\s*\|[\s:|-]+\|\s*$/.test(ctx.lines[j + 1] ?? "")
+      )
+        add(makeHit(ctx, i, "S15", "markup-in-caption", line.slice(0, 60), 0));
+    }
     const arrow = line.indexOf("->");
     if (arrow >= 0) add(makeHit(ctx, i, "S15", "ascii-arrow", "->", arrow));
   }

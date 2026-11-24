@@ -61,7 +61,7 @@ El efecto acumulativo: una *toledot* en género, un triple-catorce en estructura
 
 Los pasajes más sensibles al cruce entre idiomas del Evangelio preservan dobles lecturas entre la superficie griega y la fuente hebrea. La TT los traduce como pares-de-barra o pares-de-transliteración para mantener ambas capas visibles. Tres casos dentro del alcance:
 
-**Mateo 1:23 — *parthenos* / *almah***. La cita de Isaías 7:14 aparece en griego como *parthenos* ("virgen"), que es como la LXX traduce el hebreo *almah* ("mujer joven en edad casadera"). El griego estrecha el hebreo. La TT adopta la Opción B (representación-de-barra: "virgen/joven mujer") para preservar ambas capas en el punto de lectura en lugar de relegar una a una nota. La decisión era sensible a la recepción: el versículo es el punto de traducción hebreo-griego más debatido en el Nuevo Testamento; esconder la capa hebrea detrás de una nota "corre el riesgo de parecer elegir bandos."
+**Mateo 1:23 — *parthenos* / *almah***. La cita de Isaías 7:14 aparece en griego como *parthenos* ("virgen"), que es como la LXX traduce el hebreo *almah* ("mujer joven en edad casadera"). El griego estrecha el hebreo. La TT adopta la Opción B (representación-de-barra: "virgen/joven mujer") para preservar ambas capas en el punto de lectura en lugar de relegar una a una nota. La decisión era sensible a la recepción: el versículo es el punto de traducción hebreo-griego más debatido en el Nuevo Testamento; esconder la capa hebrea detrás de una nota corre el riesgo de parecer elegir bandos.
 
 **Mateo 1:23 — Immanu'el**. El mismo versículo contiene un doble nombre-y-glosa: griego "*Emmanouēl*" + traducción "que es, traducido, *Dios con nosotros*." Mateo translitera el nombre hebreo Y lo glosa dentro del mismo versículo. La presentación dual es estructural; la TT preserva tanto la transliteración (*Immanu'el*) como la glosa en las cuatro localizaciones.
 
@@ -107,7 +107,7 @@ Seis citas del AT en Mateo 1–3 abarcan el canon profético completo — profet
 
 **Mateo 2:18 — Jeremías 31:15**. Profeta mayor, lamento-histórico. "Una voz se oyó en Ramá... Raquel llorando por sus hijos, rehusando ser consolada, porque ya no son." El versículo de Jeremías originalmente lamentaba el exilio de las tribus del norte; Mateo lo aplica a la matanza de los infantes de Herodes. La cita más dolorosa del Evangelio.
 
-**Mateo 2:23 — Fuente Natsri sin resolver**. "Será llamado *Natsri*" — ningún profeta del AT dice esto. La cita sin resolver es en sí misma los datos (Tipo 5 de los seis tipos de fórmula). La TT preserva el estado sin resolver en lugar de elegir entre Is 11:1, Jue 13:5/16:17 o una fuente desconocida.
+**Mateo 2:23 — Fuente Natsri sin resolver**. "Será llamado *Natsri*" — ningún profeta del AT dice esto. La cita sin resolver es en sí misma los datos (Tipo 4, No identificado). La TT preserva el estado sin resolver en lugar de elegir entre Is 11:1, Jue 13:5/16:17 o una fuente desconocida.
 
 **Mateo 3:3 — Isaías 40:3**. Profeta mayor (de nuevo), prólogo voz-en-el-desierto. La cita introduce a Yochanan y cierra el ciclo citando al MISMO profeta que lo abrió (Isaías).
 

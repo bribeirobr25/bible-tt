@@ -120,7 +120,7 @@ And Adam lived one hundred and thirty years, and he begot in his likeness, accor
 > - Gen 1:26–27: God creates human "in our image, according to our likeness." Gen 5:3: Adam begets Seth "in **his** likeness, according to **his** image." The divine-to-human creation language is **chained to human-to-human descent**. The *tselem/demut* pair continues through the generations.
 >
 > 🟢 **130 YEARS**
-> - Gen 2:17 warned "dying you shall die." Gen 3:19 stated "dust you are." Now Adam lives 130 years before Seth — then dies at 930 (v.5). The "in the day" tension (2:17 vs. 5:5) is textually present.
+> - Gen 2:17 warned "dying you shall die." Gen 3:19 stated "dust you are." Now Adam lives 130 years before Seth — then dies at 930 (v.5). The "in the day" tension (2:17 vs. 5:5) is textually present. → For the *beyom* interpretive options, see the Genesis 2 study companion (Deeper), Section D4.
 
 ---
 

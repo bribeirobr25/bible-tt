@@ -78,7 +78,7 @@
 | BHS, 5th rev. ed. (Deutsche Bibelgesellschaft, 1997) | PRIMARY | Mic 5:1; 2 Sam 5:2; Hos 11:1; Jer 31:15 Hebrew |
 | LXX (Rahlfs-Hanhart, *Septuaginta*, rev. ed., Deutsche Bibelgesellschaft, 2006) | PRIMARY | Greek source-text comparisons |
 
-See also: the Matthew 2 study companion (Deeper) — cross-chapter tracking table; Hos 11:1 / Jer 31:15 source-text comparisons.
+See also: the notes on Matthew 2 (Cross-Chapter Tracking table) — Hos 11:1 / Jer 31:15 source-text comparisons.
 
 ---
 

@@ -173,7 +173,7 @@ El texto griego de Lucas fue transmitido a través de la misma tradición manusc
 ### E2. Variantes notables dentro de los capítulos 1–3
 **[TEXTUAL — VERIFICADO]**
 
-Los capítulos iniciales contienen varias variantes que cumplen el umbral de significatividad de RULES-GS y se tratan en las notas de los capítulos:
+Los capítulos iniciales contienen varias variantes que cumplen el umbral de significatividad de la TT y se tratan en las notas de los capítulos:
 
 - **1:46** — "**María** dijo" (el Magníficat) es leído por unos pocos testigos latinos antiguos como "**Elisabet** dijo." La abrumadora evidencia manuscrita lee "María"; la lectura minoritaria se anota, no se adopta.
 - **2:14** — "paz entre los hombres **de buena voluntad / en quienes él se complace**" (*eudokias*, genitivo: א*, A, B*, D, W — la lectura más temprana) frente a "paz, buena voluntad **hacia** los hombres" (*eudokia*, nominativo: bizantino). El genitivo es el texto crítico; la diferencia se reduce a una sola letra final.
@@ -255,7 +255,7 @@ Esto es especialmente relevante en los cánticos y la narrativa de la infancia, 
 | 14 | Anotar Juegos de Palabras | Términos griegos clave (p. ej. *asphaleia*, *eudokia*) anotados en las notas donde el rango semántico importa. |
 | 22 | Restricción Textual-Crítica | Variantes (1:46 María/Elisabet; 2:14 *eudokias*/*eudokia*; 3:22 "hoy te he engendrado") anotadas en las notas sin adopción silenciosa. |
 | 25 | Política del Nombre Divino — GS Opción C | κύριος traducido como "el Señor" en contextos de cita/eco del AT, con una nota identificando YHWH en el hebreo subyacente. Ver F5. |
-| 30 | Marcado de discurso divino | La voz de Dios (3:22) y el discurso de Yeshua se marcan; Gavriel (Gabriel) y los cánticos no. Ver F4. |
+| 30 | Marcado de habla divina | La voz de Dios (3:22) y el discurso de Yeshua se marcan; Gavriel (Gabriel) y los cánticos no. Ver F4. |
 
 ---
 

@@ -108,7 +108,7 @@ Because 1 Peter quotes the OT in the *third* person about God as often as it car
 | BHS, 5th rev. ed. (Deutsche Bibelgesellschaft, 1997) | PRIMARY | Lev 11:44–45; 19:2; Isa 40:6–8; Ex 12:5, 11; 24:8; Lev (sacrifice); Isa 53:7 Hebrew |
 | LXX (Rahlfs-Hanhart, *Septuaginta*, rev. ed., Deutsche Bibelgesellschaft, 2006) | PRIMARY | Lev 19:2 (*Hagioi esesthe… egō hagios*); Isa 40:6–8 (*pasa sarx… to rhēma tou theou hēmōn*); Ex 12:11 (*osphyas periezōsmenoi*); 24:8; *amnos / amōmos* sacrificial diction |
 
-See also: the Gospel prophecy studies (Deeper) — Isa 40:3 → the Immerser; Jn 1:29, the lamb of God (the Isaiah-40 and Passover-lamb cross-references).
+See also: the Luke 3 prophecy study (Deeper) — Isa 40:3 → the Immerser.
 
 ---
 

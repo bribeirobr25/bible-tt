@@ -138,8 +138,6 @@ Por a **única citação formal neste capítulo — Provérbios 3:34 (5:5) — s
 | BHS, 5ª ed. rev. (Deutsche Bibelgesellschaft, 1997) | PRIMÁRIA | Ez 34; Sl 23; Pv 3:34; Êx 3:19; Dt 9:26; Sl 55:22 (TM 55:23); Sl 22:13 (TM 22:14); Is 13–14, 47; Jr 50–51; Dn hebraico/aramaico |
 | LXX (Rahlfs-Hanhart, *Septuaginta*, ed. rev., Deutsche Bibelgesellschaft, 2006) | PRIMÁRIA | Pv 3:34 (*ho theos hyperēphanois antitassetai…* — a forma com sujeito "Deus" compartilhada com Tg 4:6); Sl 54:23 LXX (*epirripson… tēn merimnan*); Sl 21:14 LXX (*hōs leōn… ōryomenos*); Êx 3:19 / Dt 9:26 (*cheir krataia*); dicção pastoral de Ez 34 |
 
-Ver também: os estudos proféticos dos Evangelhos e de Atos (Aprofundar) — a imagística pastoral (Jo 10) e o testimonium compartilhado de Pv 3:34 (Tg 4:6).
-
 ---
 
 **Procedência editorial:**

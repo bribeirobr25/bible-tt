@@ -37,7 +37,7 @@
 
 Las notas se etiquetan por tipo — **Crítico · Léxico · Gramatical · Teológico** — cada una con su color (vea la leyenda en la parte superior de la vista de Notas).
 
-**Este es el comienzo de 1 Pedro — la primera *carta* del corpus.** Es una epístola circular a creyentes dispersos — "elegidos peregrinos de la dispersión" — a lo largo de cinco provincias de Asia Menor (1:1, provincias que se superponen con la lista de peregrinos de Hechos 2:9). El capítulo 1 tiene el **saludo** epistolar (vv.1-2), luego una sola y elevada oración griega de **bendición** (vv.3-12) sobre el nuevo nacimiento, la esperanza viva, la herencia incorruptible y la salvación que los profetas escudriñaron; luego las primeras **exhortaciones** — a la santidad (vv.13-21) y al amor de un corazón puro (vv.22-25). **Nota sobre la marcación del habla (Regla 30):** 1 Pedro es la exhortación del apóstol en su propia voz — no hay habla divina narrada, y la palabra de Dios en primera persona *dentro* de una cita del AT (1:16, "yo soy santo," de Levítico) tampoco se marca: la introduce "está escrito", así que un hablante humano la está citando. Los nombres aparecen en su forma familiar, con la forma de la lengua original indicada una vez por sección — p. ej., Yochanan (Juan).
+**Este es el comienzo de 1 Pedro — la primera *carta* del corpus.** Es una epístola circular a creyentes dispersos — "elegidos peregrinos de la dispersión" — a lo largo de cinco provincias de Asia Menor (1:1, provincias que se superponen con la lista de peregrinos de Hechos 2:9). El capítulo 1 tiene el **saludo** epistolar (vv.1-2), luego una sola y elevada oración griega de **bendición** (vv.3-12) sobre el nuevo nacimiento, la esperanza viva, la herencia incorruptible y la salvación que los profetas escudriñaron; luego las primeras **exhortaciones** — a la santidad (vv.13-21) y al amor de un corazón puro (vv.22-25). **Nota sobre la marcación del habla (Regla 30):** 1 Pedro es la exhortación del apóstol en su propia voz — no hay habla divina narrada, y la palabra de Dios en primera persona *dentro* de una cita del AT (1:16, "yo soy santo," de Levítico) tampoco se marca: se introduce con "está escrito", así que un hablante humano la está citando. Los nombres aparecen en su forma familiar, con la forma de la lengua original indicada una vez por sección — p. ej., Kefa (Pedro).
 
 ---
 
@@ -259,7 +259,7 @@ Y si invocan como Padre a Aquel que juzga imparcialmente según la obra de cada 
 > **Notas**
 >
 > 🔵 **"EL TIEMPO DE SU PEREGRINACIÓN" — *PAROIKIAS***
-> - **τὸν τῆς παροικίας ὑμῶν χρόνον** (*ton tēs paroikias hymōn chronon*) = "el tiempo de su peregrinación / residencia-de-exilio." *Paroikia* (condición de extranjero residente) refuerza la identidad de exilio de 1:1. Dios juzga **ἀπροσωπολήμπτως** ("sin parcialidad / sin recibir rostros") — temor reverente de Nivel 1, no pavor.
+> - **τὸν τῆς παροικίας ὑμῶν χρόνον** (*ton tēs paroikias hymōn chronon*) = "el tiempo de su peregrinación / residencia-de-exilio." *Paroikia* (condición de extranjero residente) refuerza la identidad de exilio de 1:1. Dios juzga **ἀπροσωπολήμπτως** ("sin parcialidad / sin recibir rostros") — el "temor" de la traducción es temor reverente, no pavor.
 
 ---
 

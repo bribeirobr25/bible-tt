@@ -42,7 +42,7 @@ O peso cumulativo importa: cinco sentidos duplos em três capítulos é mais den
 **[TEXTUAL — VERIFICADO]**
 **Capítulos:** 1, 3
 
-O termo grego *monogenēs* (μονογενής, "único-nascido" / "único do seu tipo") aparece quatro vezes em João 1–3 (1:14, 1:18, 3:16, 3:18), tornando-o um dos termos teologicamente carregados mais recorrentes nos capítulos iniciais. A TT o traduz consistentemente em todos os quatro locais: EN "only-born", PT-BR "único-nascido", DE "einziggeborenen", ES "único-nacido" — o alinhamento entre línguas preserva a leitura geração/engendramento (mono- + -genēs de *gennaō*, "gerar") em vez da leitura semântica alternativa ("único"; de *genos*, "tipo"), conforme a decisão de nível-de-projeto.
+O termo grego *monogenēs* (μονογενής, "único-nascido" / "único do seu tipo") aparece quatro vezes em João 1–3 (1:14, 1:18, 3:16, 3:18), tornando-o um dos termos teologicamente carregados mais recorrentes nos capítulos iniciais. A TT o traduz consistentemente em todos os quatro locais: EN "only-born", PT-BR "único-nascido", DE "einziggeborenen", ES "único-nacido" — o alinhamento entre línguas preserva a leitura geração/engendramento (mono- + -genēs de *gennaō*, "gerar") em vez da leitura semântica alternativa ("único"; de *genos*, "tipo").
 
 As quatro ocorrências traçam um arco. **João 1:14** introduz *monogenēs* no prólogo do Logos: "vimos a sua glória, glória como do *monogenēs* do pai." O termo aplica-se primeiramente ao Verbo-feito-carne no quadro cosmológico. **João 1:18** então ocorre com uma variante textual — manuscritos leem *monogenēs theos* ("Deus único-nascido") ou *monogenēs huios* ("Filho único-nascido"). A TT preserva a variante com uma nota crítico-textual em vez de silenciosamente resolvê-la.
 

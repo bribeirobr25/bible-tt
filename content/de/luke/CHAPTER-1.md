@@ -249,7 +249,7 @@ Aber der Bote sprach zu ihm: „Fürchte dich nicht, Zecharyah (Zacharias), denn
 > **Notizen**
 >
 > 🔴 **KRITISCH — GAVRIELS REDE NICHT GÖTTLICH-MARKIERT (REGEL 30)**
-> - Die Worte des Boten (V.13-20) werden in gewöhnlichen Anführungszeichen wiedergegeben, NICHT mit den @@…@@-Markierungen göttlicher Rede. Nach dem Matthäus/Markus-Präzedenzfall ist ein *angelos* ein Bote, nicht Gott; nur die direkte Rede Gottes oder des heiligen Wind/Geistes wird markiert. Die TT verschmilzt Boten-Rede nicht zu göttlicher Rede.
+> - Die Worte des Boten (V.13-20) werden in gewöhnlichen Anführungszeichen wiedergegeben, NICHT als göttliche Rede (rot) markiert. Nach dem Matthäus/Markus-Präzedenzfall ist ein *angelos* ein Bote, nicht Gott; nur die direkte Rede Gottes oder des heiligen Wind/Geistes wird markiert. Die TT verschmilzt Boten-Rede nicht zu göttlicher Rede.
 >
 > 🟢 **YOCHANAN — TT-TRANSLITERATION**
 > - **Ἰωάννης** (*Iōannēs*) = Yochanan (Hebräisch: **Yochanan**, „JHWH hat Gunst erwiesen / JHWH ist gnädig"). Vertraut: Johannes. Die Bedeutung des Namens („JHWH ist gnädig") schwingt mit *charis* im Kapitel mit.

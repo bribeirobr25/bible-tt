@@ -159,7 +159,7 @@ The Greek vocabulary tracks the LXX of Isaiah 53 closely (*hamartian ouk epoiēs
 | BHS, 5th rev. ed. (Deutsche Bibelgesellschaft, 1997) | PRIMARY | Ps 34:8; Isa 28:16; Ps 118:22; Isa 8:14; Ex 19:6; Isa 43:20–21; Hosea 1:9–10; 2:23; Isa 53:4–6, 9, 12; Deut 21:23 Hebrew |
 | LXX (Rahlfs-Hanhart, *Septuaginta*, rev. ed., Deutsche Bibelgesellschaft, 2006) | PRIMARY | Ps 33:9 (*chrēstos ho kyrios*); Isa 28:16 (*tithēmi… akrogōniaion… ou mē kataischynthē*); Ps 117:22 (*lithos hon apedokimasan*); Isa 8:14 (*lithos proskommatos*, MT-shaped); Ex 19:6 (*basileion hierateuma, ethnos hagion*); Isa 43:20–21 (*genos eklekton… aretas*); Hosea 1:10; 2:23; Isa 53 (*dolos / anēnenken / mōlōps / planōmenoi*); Deut 21:23 (*epi xylou*) |
 
-See also: the Acts 3 prophecy study (Deeper) — the same Servant (Isa 52:13–53:12 → Acts 3 *pais*); the Gospel prophecy studies (Deeper) — the shared stone-texts (Ps 118:22 / Isa 8:14 → the rejected-stone parable).
+See also: the Acts 3 prophecy study (Deeper) — the same Servant (Isa 52:13–53:12 → Acts 3 *pais*); the Luke 2 prophecy study (Deeper) — the stumbling stone (Isa 8:14 → Luke 2:34).
 
 ---
 

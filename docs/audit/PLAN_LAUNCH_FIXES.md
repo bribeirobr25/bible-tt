@@ -38,11 +38,11 @@ Ordering: code before content (the renderer must show what content fixes produce
 |---|---|---|---|---|
 | **1** | 4a code | §B1 below | sweep re-run: Sources `after-4a` → `now` | 1.5 |
 | **2** | 4d rules & docs | RULES-CORE: "## THE 29 RULES" heading (:90) → 30, D7 §I3, D10 marker table (+ the Rule 30 text that still says `@@` renders bold, and "ochre" for `{a:}`), 30-rule wording, stale internals, the real 8-touchpoint checklist (+ the non-existent `people.inBook.{slug}` key), L1 Rule 11 contraction wording + the :378 vs :266/:921 conflict, **L5 Rule 28 amendment** (RULES-CORE:604, :743, :1109 require the model identifier — keep it in front matter / the editorial log, show readers a plain statement), the editorial-log table row with an unescaped pipe (`PLAN_BASELINE_RECOVERY` :139). RULES-GS: D9 wording. Editorial logs: L3 (reversal of A-004 + the 1 Peter scope entry), L6, L7 (supersede the "per GS" lines), D7 + D11 (1 Peter ψυχή, Kefa), D8 (`mark.md`). Templates (L5 provenance), `CHANGELOG-v3.4.md`, version headers, STANDARDS, HOW-TO-READ, README/CLAUDE trees, transliteration-decisions, PENDING; v3.3 → v3.4 re-stamp (125 fields + 8 prose stamps, keep the 4 Luke 3 citations); activation-consistency `heroTagline`/`sectionKick` + source-stub checks; content-lint allow-list table scoping (`PLAN_SAFETY_NET` I19). **Rule-table edits made later** (D11 names in batch 5, S21 glossary rows and labels in batch 4) are recorded as dated addenda in `CHANGELOG-v3.4.md` by the batch that makes them | §0.1b back to blocking | 1.5 |
-| **3** | 4b mechanical content | **L3 unmark (moved from batch 4 — the Acts 2 spans are also the S6d defect)**, mojibake (14), doubled articles (4), meta leaks (IDs, repo paths incl. INTERNAL rows in Sources tables, log references, process/propagation words), stale name policy (148), DE `YHWH` → `JHWH`, D9 DE Yehudim (+ Yehudi/Yehudit) → Jehudim, PT/ES `yehudim` casing, L5 provenance + "Tier 2", markers in backticks (152), unbalanced `@@` (32), markers in table cells (52) + odd asterisk, nested italics (`*… *magoi* …*`, Matt 2–3 notes), ASCII `->`, front-matter defects (`vorlaufig`, `es/john/PEOPLE.md` H1/Status), ⚠️ icons; **from batch 2:** the Luke 3 "v3.3.2 cross-book convention" phrase (S10 `citation`, 4 lines; §0.1b filters it, so only the sweep tracks it), the stray `</content>` line in `pt-br`/`es` `luke/CONTEXT.md`, the companion §H/§I order (24 files: 1 Peter 1–5 + Acts 3 × 4 put Sources before §I), reader provenance lines → the Rule 28 plain statement | cleared classes → blocking content-lint (T-14) | 2 |
-| **4** | 4b translation rulings | D7 ψυχή, D8 son of man (incl. mentions), Rule 20 titles (S20), Spirit/Word TT voice, glossary locks (S3 + L4), Rule 25 LORD forms (170 + 105 review), ~~L3 unmark~~ (moved to batch 3), L7, L1 contraction italics, L6 vós, divine-speech coverage (S6a 89), CR ≠ verse (S6e: 20 words + 69 punctuation), italic balance review (S7b), marker governance (S21 bare slashes, `{a:}`/`{t:}` values → glossary rows or log entries, the `{t:Hades}` threshold question), labels (S22 + the PENDING unregistered-labels item), §0.3d calques (17) then §0.3d promoted to blocking, carried single-verse items (findings §4), `*magoi*`, Mark PROPHECY lead question; **from batch 2:** the Genesis bare-nephesh Rule 1 deviations (e.g. 12:5 "persons") + their `CHANGELOG-v3.4.md` addendum, the PT `vocês` object/verb forms (Matthew 3:2–3, 3:7–11; John 1:51), the χριστός TT-voice restatements (DE Acts "Messias" incl.), the extra D7 sites (John 2:22 note, DE Matthew 3 note), and the lead question whether Rule 20 lowercase in notes extends beyond "son of man" | may split when planned | 4 |
-| **5** | 4b names | D11 table-extension proposal → tables → alignment of all books (Kefa, Silvanus = Silas, Moshe/Mosheh …), L2 gloss strip (CR 209 + verse 591 + notes 150 + apparatus 270), gloss placement (S6e 279 study-only / 32 CR-only), redundant pairs | S5c/S5d cleared | 2.5 |
+| **3** | 4b mechanical content | **L3 unmark (moved from batch 4 — the Acts 2 spans are also the S6d defect)**, mojibake (14), doubled articles (4), meta leaks (IDs, repo paths incl. INTERNAL rows in Sources tables, log references, process/propagation words), stale name policy (148), DE `YHWH` → `JHWH`, D9 DE Yehudim (+ Yehudi/Yehudit) → Jehudim, PT/ES `yehudim` casing, L5 provenance + "Tier 2", markers in backticks (152), unbalanced `@@` (32), markers in table cells (52) + odd asterisk, ~~nested italics (`*… *magoi* …*`, Matt 2–3 notes)~~ (→ batch 4 with `*magoi*`), ASCII `->`, front-matter defects (`vorlaufig`, `es/john/PEOPLE.md` H1/Status), ⚠️ icons; **from batch 2:** the Luke 3 "v3.3.2 cross-book convention" phrase (S10 `citation`, 4 lines; §0.1b filters it, so only the sweep tracks it), the stray `</content>` line in `pt-br`/`es` `luke/CONTEXT.md`, the companion §H/§I order (24 files: 1 Peter 1–5 + Acts 3 × 4 put Sources before §I), reader provenance lines → the Rule 28 plain statement | cleared classes → blocking content-lint (T-14) | 2 |
+| **4** | 4b translation rulings | D7 ψυχή, D8 son of man (incl. mentions), Rule 20 titles (S20), Spirit/Word TT voice, glossary locks (S3 + L4), Rule 25 LORD forms (170 + 105 review), ~~L3 unmark~~ (moved to batch 3), L7, L1 contraction italics, L6 vós, divine-speech coverage (S6a 89), CR ≠ verse (S6e: 20 words + 69 punctuation), italic balance review (S7b), marker governance (S21 bare slashes, `{a:}`/`{t:}` values → glossary rows or log entries, the `{t:Hades}` threshold question), labels (S22 + the PENDING unregistered-labels item), §0.3d calques (17) then §0.3d promoted to blocking, carried single-verse items (findings §4), `*magoi*`, Mark PROPHECY lead question; **from batch 2:** the Genesis bare-nephesh Rule 1 deviations (e.g. 12:5 "persons") + their `CHANGELOG-v3.4.md` addendum, the PT `vocês` object/verb forms (Matthew 3:2–3, 3:7–11; John 1:51), the χριστός TT-voice restatements (DE Acts "Messias" incl.), the extra D7 sites (John 2:22 note, DE Matthew 3 note), and Rule 20 lowercase in notes for **all titular nouns** (lead, 2026-11-20); **from batch 3:** reader-term pass for decision labels in TT prose — "Option C" (≈ 380 rendered hits), "GS"/"HB" abbreviations (≈ 250/370), "Hellenist review" → a reader term table like batch 3's; the Matthew background slips ("GS Ioudaioi-Policy" credited with Option C; Type 5 vs Type 4 — fixed in batch 3 review), the nested italics around `*magoi*`; the John background vs glossary contradiction on *monogenēs* (background keeps the *gennaō* reading; the John 1 glossary rejects "only-begotten"); S6a is now 61 (was 89) | may split when planned | 4 |
+| **5** | 4b names | D11 table-extension proposal → tables → alignment of all books (Kefa, Silvanus = Silas, Moshe/Mosheh …), L2 gloss strip (CR 209 + verse 591 + notes 150 + apparatus 270), gloss placement (S6e 279 study-only / 32 CR-only), redundant pairs ; **from batch 3:** DE Matthew 3 "Pharisäer (nicht Perushim)" (reverse of EN), DE *Yehudit* (Judith, allow-listed), PT/DE Genesis 10 self-contrasts ("Egito (não "Egito")"), ES "Yehudí" accent variant, PT/ES "Lameque/Lamec Setita" casing, PT "A TT transliteration *magoi*" (English in PT), ES Matthew 1–2 never gloss "Yosef (José)" / "Beyt-Lechem (Belén)" | S5c/S5d cleared | 2.5 |
 | **6** | 4b ES orthography | ≥ 2,119 tokens + 250 ambiguous + 23 spurious, per-token review; the `el`/`él`, `tu`/`tú`, `mi`/`mí`, `se`/`sé` reading pass (findings headline 1, PENDING) | S11 cleared | 2.5 |
-| **7** | 4b companions | D12 (25 EN-only entries × PT/DE/ES, `KNOWN_ENTRY_GAPS` emptied), L8 (relocate the 168 notes of 6+ sentences; the waiver is logged in the editorial log + PENDING, not in RULES-CORE) | parity test with no known gaps | 2 |
+| **7** | 4b companions | D12 (25 EN-only entries × PT/DE/ES, `KNOWN_ENTRY_GAPS` emptied), L8 (relocate the 168 notes of 6+ sentences; the waiver is logged in the editorial log + PENDING, not in RULES-CORE); **from batch 3:** the unrendered PROPHECY/PEOPLE intro paragraphs (IDs, paths, the pre-L3 marking claims — front zone, never shown), the file-type pointer labels ("→ PROPHECY / Companion §F" ≈ 60 + 90 per locale → the reader-phrase table), ES "companion" (English word, ~12 lines), the bare-ellipsis marker legends (use sample words) | parity test with no known gaps | 2 |
 | **8** | 4c scope | DAAT draft (incl. Q2 Ramban verification, new matthew.md log ID), Iakobos / Jesus's-brothers Acts PEOPLE entry; audit §6 waters/water lead question | — | 1 |
 
 **Re-estimate (LAUNCH_PROGRAM:56):** ≈ 17 working days for Step 4 (was 5–7), Step 5 unchanged (2.5–3.5). Batch 1 absorbs one Step 5 item (B6 = the `not-found` pages).
@@ -629,7 +629,7 @@ The prose that states these markings (the PROPHECY/CONTEXT lines listed by revie
   - stale name policy: 48 Reading Guides plus the Matthew 1 follow-on sentence;
   - L3 markers removed: Acts 2 (8 per locale), Acts 3, 1 Peter 1–2 (4 each), John 3 (14).
 
-  The ⚠️ → 🟡 fix made the PT/ES Gen 9/12 reception notes parse as notes, as in EN/DE: **conservation 20,676 → 20,679**, now identical across locales. Found on the way: ES John 1 "alef*" → "א*", as in the other locales, and a stray `</invoke>` line in the PT/ES Luke CONTEXT (removed by the Luke helper).
+  The ⚠️ → 🟡 fix made the PT/ES Gen 9/12 reception notes parse as notes, as in EN/DE: **conservation 20,676 → 20,679** — Genesis 9/12 now identical across locales (27 of 102 file groups still differ across locales, as on `main`). Found on the way: ES John 1 "alef*" → "א*", as in the other locales, and a stray `</invoke>` line in the PT/ES Luke CONTEXT (removed by the Luke helper).
 - **§H/§I move:** 24 files. The orphan §I tables (12/8/8 rows) were merged into §H (4/5/3 rows merged by author + year, the rest added). A parsed-output diff confirmed that no source was lost and every other section is unchanged.
 - **Meta leaks (B3.3)** went to four helpers in their own worktrees, each in one commit. The merges were sequential, with the parity, raw-reconciliation, conservation, people and gate tests run after each:
   - Genesis `1284051`: provenance 128, log refs + IDs 63, paths 51, tier 22, process 4;
@@ -640,7 +640,7 @@ The prose that states these markings (the PROPHECY/CONTEXT lines listed by revie
   - PT/ES "página … (ainda não/aún no publicada)": gender agreement;
   - the "see-stub" jargon (27 lines, 4 locales) → reader wording;
   - DE 1 Peter 4 companion "im *dem* Namen" → "im Namen" (the current verse form; L1 italics come in batch 4).
-- **Gate (B3.4):** `cleared-classes.test.mjs` runs in ≈ 1 s per run after loading. Its allow-list holds 4 reviewed lines: the DE John 1 companion's explanation "nicht *im dem* Anfang", DE *Yehudit* (Judith → batch 5), and EN/PT "propagated/propagada through coins". S15 marker-in-table is narrowed to PEOPLE genealogy headers; S13 also catches singular `yehudi`; the S5d lead phrase is case- and accent-tolerant.
+- **Gate (B3.4):** `cleared-classes.test.mjs` — corpus load 0.3 s + checks ≈ 3.6 s standalone (≈ 10 s under heavy parallel load; inside its 60 s hook). Its allow-list holds 4 reviewed lines: the DE John 1 companion's explanation "nicht *im dem* Anfang", DE *Yehudit* (Judith → batch 5), and EN/PT "propagated/propagada through coins". S15 marker-in-table is narrowed to PEOPLE genealogy headers; S13 also catches singular `yehudi`; the S5d lead phrase is case- and accent-tolerant.
 - **Translation unchanged:** every changed line whose zone at `main` was `main`/`cr` (136 lines, 33 files) was checked. Each differs from the base only by `@@`, Yehudim/Jehudim, or the doubled-article fix. **Unexplained: 0.**
 - **Left as is:**
   - The unrendered intro paragraphs of the Acts/1 Peter PROPHECY files and John/other PEOPLE preambles (front zone, never shown) still carry IDs, paths and the pre-L3 marking claim. They are internal notes; batch 7 (companions) reviews them.
@@ -658,6 +658,51 @@ The prose that states these markings (the PROPHECY/CONTEXT lines listed by revie
     - S9 rule-ref −12 (removed with meta text);
     - S18/S3/S4/S1c/S5c/S11 small shifts from removed meta prose.
 - **Gate:** 1,108 tests / 32 files · lint · typecheck · content-lint · build (516 pages) · conservation 408 / 20,679.
-- **Rendered-page scan:** a production build, 468 pages (every chapter door, introduction, people and background page × 4 locales), searched for model names, "Tier 2", repo paths, `.md`, entry IDs, "editorial log", raw `@@`/`{t:`/`{a:`, INTERNAL and ASCII arrows. **Clean**, except the people-page fallback that prints `exodus/PEOPLE.md` for unpublished see-targets. That is code, already routed to Step 5, before go-live.
+- **Rendered-page scan (first pass — see §B3.9 for what it missed):** a production build, 468 of the 516 built pages (the reader pages; the rest are landing/books/start/rules/404 variants) (every chapter door, introduction, people and background page × 4 locales), searched for model names, "Tier 2", repo paths, `.md`, entry IDs, "editorial log", raw `@@`/`{t:`/`{a:`, INTERNAL and ASCII arrows. **Clean**, except the people-page fallback that prints `exodus/PEOPLE.md` for unpublished see-targets. That is code, already routed to Step 5, before go-live.
   - The scan also found literal backticks around the italic-marker examples (16 legend/table lines) and a "`### [Topic]` form" process sentence (1 Peter 3 companion), both fixed in 4 locales. The gate now also asserts **no code spans in rendered text**, because the renderer prints backticks literally.
 - **Visual check:** DE 1 Peter 1 Deeper at 375 px — the merged Sources table renders ("C, I"), and the plain provenance line shows.
+
+### B3.9 Implementation review (2026-11-21/24, 5 adversarial reviewers — interrupted by a usage limit and resumed)
+
+EN fidelity · PT/DE/ES quality · gate/sweep code (copy-based mutants) · data integrity · plan/bookkeeping + rendered site. **No blockers.** Every finding is fixed or routed:
+
+- **Data integrity confirmed independently.**
+  - Translation unchanged: 136 lines, plus an ordered verse/reading sequence check over all 128 chapter files.
+  - L3 complete, with no other marking lost.
+  - Provenance archive complete (252/252).
+  - Sources: no published row lost; section letters unioned.
+  - Conservation +3 explained.
+  - Correction: Acts 1 `@@` went 16 → 14 per locale (+4 rebalance, −6 marker mentions in notes), not "+2".
+- **The first rendered scan was overstated.** It missed:
+  - the lone red "…" (bare `@@…@@`) in 7 Luke notes per locale;
+  - "Redaktionslog" / "redaktionelles Protokoll" (DE, plus one PT line);
+  - "RULES-GS" in the Mark/Luke introductions;
+  - "Tier-1" (all locales);
+  - DE all-caps "YEHUDIM" in 2 note titles;
+  - raw `**` in the Luke genealogy caption, which renders as plain text.
+
+  **All fixed, and the gate now catches each:** bare-marker, the S9 patterns widened (Redaktionslog, `redaktionell* Protokoll|Log`, `RULES-(CORE|HB|GS)`, Tier/Nível/Stufe/Nivel 1), DE caps Yehudi, and a new S15 `markup-in-caption` (PEOPLE genealogy title/caption).
+- **Content fixes (4 locales).**
+  - ES: "se introduce con"; the stale name sentence; "habla divina".
+  - ES "companion de PROFECÍA" → phrase table.
+  - See-also lines trimmed to published targets (1 Peter PROPHECY: Luke 1/2/3, Acts 3; Matthew 2 → the notes' tracking table; the 1 Peter 5 line deleted).
+  - Matthew background: Type 4; the orphaned quotation marks removed.
+  - John background: the vestigial phrase cut.
+  - John PEOPLE: descriptive provenance sentence restored.
+  - Name-policy examples now use a name from each chapter.
+  - Genesis 5 → the Genesis 2 companion D4.
+  - 1 Peter "see the note" targets made explicit.
+  - The 1 Peter INTRODUCTION citation formulas made per verse.
+  - John 3:16 note: the majority boundary at v.15, vv.16–21 disputed.
+- **Gate code.**
+  - A self-check that every guarded class is still produced by its check, so a renamed class cannot silence the gate.
+  - The allow-list is now a multiset, so a pasted duplicate needs its own entry.
+  - The gate reuses the sweep's exported `STALE_POLICY` patterns, widened ("[Pp]roper", PT "transliteracao").
+  - Fixtures added for the S5d variants, the S15 non-PEOPLE header row and the S15 caption.
+- **Routed:**
+  - **Batch 4:** a reader-term pass for decision labels in TT prose ("Option C" ≈ 380, "GS"/"HB", "Hellenist review"); `*magoi*` nested italics; the John *monogenēs* contradiction.
+  - **Batch 5:** DE Matthew 3 reverse contrast; *Yehudit*; Genesis 10 self-contrasts; ES "Yehudí"; "Lamec Setita"; PT "transliteration"; ES Matthew 1–2 name glosses.
+  - **Batch 7:** unrendered PROPHECY/PEOPLE intro paragraphs, file-type pointer labels (≈ 150 per locale), ES "companion", the legend sample words.
+  - **Step 5:** the people-page fallback label.
+  - **PENDING:** Luke genealogy cells pointing to Genesis 13–50.
+- **After the review fixes:** 1,110 tests / 32 files · lint · typecheck · content-lint · build · conservation 408 / 20,679 · translation-unchanged re-check 136 lines, unexplained 0 · sweep 16,604 → **16,605** (rule-ref +4: restored John PEOPLE sentence; repeated-gloss guide +2: chapter-specific name examples → batch 5; S3/S18 −5: removed meta; S9 log-ref +1 in a front-zone preamble).

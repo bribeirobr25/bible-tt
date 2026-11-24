@@ -123,7 +123,7 @@ Y Adan vivió ciento treinta años, y engendró en su semejanza, conforme a su i
 > - Gn 1:26–27: Dios crea al humano "en nuestra imagen, conforme a nuestra semejanza." Gn 5:3: Adan engendra a Set "en **su** semejanza, conforme a **su** imagen." El lenguaje de creación divino-a-humano se **encadena al descenso humano-a-humano**. El par *tselem/demut* continua a través de las generaciones.
 >
 > 🟢 **130 ANOS**
-> - Gn 2:17 advirtio "muriendo moriras." Gn 3:19 declaro "polvo eres." Ahora Adan vive 130 años antes de Set — luego muere a los 930 (v.5). La tension del "en el dia" (2:17 vs. 5:5) esta textualmente presente.
+> - Gn 2:17 advirtio "muriendo moriras." Gn 3:19 declaro "polvo eres." Ahora Adan vive 130 años antes de Set — luego muere a los 930 (v.5). La tension del "en el dia" (2:17 vs. 5:5) esta textualmente presente. → Para las opciones interpretativas de *beyom*, vea el material de estudio de Génesis 2 (Profundizar), Sección D4.
 
 ---
 

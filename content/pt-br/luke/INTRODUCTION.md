@@ -173,7 +173,7 @@ O texto grego de Lucas foi transmitido através da mesma tradição manuscrita d
 ### E2. Variantes notáveis nos capítulos 1–3
 **[TEXTUAL — VERIFICADO]**
 
-Os capítulos iniciais contêm várias variantes que atingem o limiar de significância das RULES-GS e são tratadas nas notas dos capítulos:
+Os capítulos iniciais contêm várias variantes que atingem o limiar de significância da TT e são tratadas nas notas dos capítulos:
 
 - **1:46** — "**Maria** disse" (o Magnificat) é lido por algumas testemunhas do latim antigo como "**Isabel** disse." A esmagadora evidência manuscrita lê "Maria"; a leitura minoritária é notada, não adotada.
 - **2:14** — "paz entre as pessoas **de boa vontade / com quem ele se agrada**" (*eudokias*, genitivo: א*, A, B*, D, W — a leitura mais antiga) vs. "paz, boa vontade **para com** as pessoas" (*eudokia*, nominativo: bizantino). O genitivo é o texto crítico; a diferença gira em torno de uma única letra final.

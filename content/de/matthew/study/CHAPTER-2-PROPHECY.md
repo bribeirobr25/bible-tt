@@ -78,7 +78,7 @@
 | BHS, 5. rev. Aufl. (Deutsche Bibelgesellschaft, 1997) | PRIMÄR | Hebräisch von Mi 5,1; 2 Sam 5,2; Hos 11,1; Jer 31,15 |
 | LXX (Rahlfs-Hanhart, *Septuaginta*, rev. Aufl., Deutsche Bibelgesellschaft, 2006) | PRIMÄR | Griechisch-Quelltextvergleiche |
 
-Siehe auch: das Begleitmaterial zu Matthäus 2 (Vertiefen) — kapitelübergreifende Verfolgungs-Tabelle; Hos 11,1 / Jer 31,15 Quelltextvergleiche.
+Siehe auch: die Notizen zu Matthäus 2 (Tabelle Kapitelübergreifende Verfolgung) — Hos 11,1 / Jer 31,15 Quelltextvergleiche.
 
 ---
 
