@@ -95,7 +95,7 @@ Este *es* el libro de las generaciones de Adan. En el día *en que* Dios creó *
 > - **סֵפֶר תּוֹלְדֹת אָדָם** (*sefer toledot Adam*) = "el libro de las generaciones de Adan." Segundo marcador *toledot* en Génesis (el primero en 2:4). Este anade **סֵפֶר** (*sefer*, "libro/documento") — el único *toledot* con este prefijo. Senala un registro escrito estructurado.
 >
 > 🔴 **CRÍTICO — ADAN ES AHORA NOMBRE PROPIO**
-> - **אָדָם** (*Adam*) — sin artículo, contexto genealogico. Nombre propio fijado desde este versículo en adelante (conforme entrada 081 del diario editorial). El mismo versículo luego usa "humano" (*adam*) genericamente en la frase de recuerdo de la creación: "en el día en que Dios creó al humano."
+> - **אָדָם** (*Adam*) — sin artículo, contexto genealogico. Nombre propio fijado desde este versículo en adelante. El mismo versículo luego usa "humano" (*adam*) genericamente en la frase de recuerdo de la creación: "en el día en que Dios creó al humano."
 >
 > 🔵 **IMAGEN/SEMEJANZA RECORDADA**
 > - "En la semejanza de Dios lo hizo" — eco de Gn 1:26–27. Usa *demut* (semejanza) y *asah* (hizo). Referencia cruzada al v.3 donde el lenguaje se invierte: Adan engendra a Set "en su semejanza, conforme a su imagen."
@@ -123,7 +123,7 @@ Y Adan vivió ciento treinta años, y engendró en su semejanza, conforme a su i
 > - Gn 1:26–27: Dios crea al humano "en nuestra imagen, conforme a nuestra semejanza." Gn 5:3: Adan engendra a Set "en **su** semejanza, conforme a **su** imagen." El lenguaje de creación divino-a-humano se **encadena al descenso humano-a-humano**. El par *tselem/demut* continua a través de las generaciones.
 >
 > 🟢 **130 ANOS**
-> - Gn 2:17 advirtio "muriendo moriras." Gn 3:19 declaro "polvo eres." Ahora Adan vive 130 años antes de Set — luego muere a los 930 (v.5). La tension del "en el dia" (2:17 vs. 5:5) esta textualmente presente. Referencia cruzada a la entrada del diario editorial sobre las opciónes interpretativas de *beyom*.
+> - Gn 2:17 advirtio "muriendo moriras." Gn 3:19 declaro "polvo eres." Ahora Adan vive 130 años antes de Set — luego muere a los 930 (v.5). La tension del "en el dia" (2:17 vs. 5:5) esta textualmente presente. → Para las opciones interpretativas de *beyom*, vea el material de estudio de Génesis 2 (Profundizar), Sección D4.
 
 ---
 

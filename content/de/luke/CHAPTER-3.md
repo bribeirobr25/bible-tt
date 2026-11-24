@@ -21,7 +21,7 @@
 - [Fortlaufende Lesung](#fortlaufende-lesung)
 - [Vers-für-Vers-Studie](#vers-für-vers-studie)
 - [Glossar — Lukas 3](#glossar---lukas-3)
-- [Kapitelübergreifende Verfolgung (HB -> Lukas)](#kapitelübergreifende-verfolgung-hb--lukas)
+- [Kapitelübergreifende Verfolgung (HB → Lukas)](#kapitelübergreifende-verfolgung-hb--lukas)
 
 ---
 
@@ -36,7 +36,7 @@
 
 Notizen sind nach Typ gekennzeichnet — **Kritisch · Lexikalisch · Grammatisch · Theologisch** — jeweils mit ihrer Farbe (siehe die Legende oben in der Notizen-Ansicht).
 
-**Dieses Kapitel eröffnet den öffentlichen Dienst.** Lukas 3 datiert das Auftreten des Yochanan (Johannes) durch einen sechsfachen Synchronismus von Herrschern (V.1-2) — den präzisesten chronologischen Rahmen in den Evangelien — und erzählt dann seine Verkündigung einer Eintauchung der Umkehr in der Wüste (V.3-6), gerahmt von einem langen Zitat aus Yesha'yahu (Jesaja) 40,3-5. Seine Predigt an die Menge, die Zöllner und die Soldaten (V.7-14), sein Hinweis auf einen „Stärkeren" (V.15-17) und seine Gefangennahme durch Herodes (V.18-20) folgen. Yeshua (Jesus) wird eingetaucht und betet, als die Himmel sich öffnen, der {a:Wind/Geist} herabkommt und eine Stimme aus dem Himmel ergeht (V.21-22). Das Kapitel schließt mit der Genealogie (V.23-38), die von Yeshua über Adam zu Gott aufsteigt — ~76 Namen. **Anmerkung zur Redemarkierung (Regel 30):** Yochanans Predigt ist *menschliche* prophetische Rede und wird NICHT als göttliche Rede markiert; nur die **Stimme aus dem Himmel** bei 3,22 (die Bat-Qol) ist Gottes direkte Rede und wird mit `@@…@@` markiert. Eigennamen folgen der TT-Transliteration: Yochanan (nicht Johannes), Yeshua (nicht Jesus), Yesha'yahu (nicht Jesaja), Herodes (nicht Herodes).
+**Dieses Kapitel eröffnet den öffentlichen Dienst.** Lukas 3 datiert das Auftreten des Yochanan (Johannes) durch einen sechsfachen Synchronismus von Herrschern (V.1-2) — den präzisesten chronologischen Rahmen in den Evangelien — und erzählt dann seine Verkündigung einer Eintauchung der Umkehr in der Wüste (V.3-6), gerahmt von einem langen Zitat aus Yesha'yahu (Jesaja) 40,3-5. Seine Predigt an die Menge, die Zöllner und die Soldaten (V.7-14), sein Hinweis auf einen „Stärkeren" (V.15-17) und seine Gefangennahme durch Herodes (V.18-20) folgen. Yeshua (Jesus) wird eingetaucht und betet, als die Himmel sich öffnen, der {a:Wind/Geist} herabkommt und eine Stimme aus dem Himmel ergeht (V.21-22). Das Kapitel schließt mit der Genealogie (V.23-38), die von Yeshua über Adam zu Gott aufsteigt — ~76 Namen. **Anmerkung zur Redemarkierung (Regel 30):** Yochanans Predigt ist *menschliche* prophetische Rede und wird NICHT als göttliche Rede markiert; nur die **Stimme aus dem Himmel** bei 3,22 (die Bat-Qol) ist Gottes direkte Rede und wird als göttliche Rede (rot) markiert. Namen erscheinen in der vertrauten Form; die ursprachliche Form steht einmal pro Abschnitt — z. B. Yochanan (Johannes).
 
 ---
 
@@ -46,7 +46,7 @@ Notizen sind nach Typ gekennzeichnet — **Kritisch · Lexikalisch · Grammatisc
 
 **Zentrale Themen:** Der sechsfache politisch-religiöse Synchronismus, der den Dienst in die Weltgeschichte datiert; „das Wort Gottes kam über Johannes" — die prophetische Berufungsformel (Jer 1,1-2; Hos 1,1); die Wüste als Ort der Erneuerung; Eintauchung (*baptisma*) der Umkehr „zur Freilassung der Sünden"; die Jesaja-40-„Stimme in der Wüste" und der universale Horizont „alles Fleisch wird die Rettung Gottes sehen" (Lukas führt das Zitat weiter als Matthäus oder Markus); ethische Umkehr mit konkreten sozialen Forderungen; die Relativierung der abrahamischen Abstammung („Gott kann aus diesen Steinen Kinder für Abraham erwecken"); der „Stärkere" und der Kontrast von Wasser-Eintauchung mit Wind/Geist-und-Feuer; die Taufszene mit den geöffneten Himmeln, dem herabkommenden Wind/Geist und der Stimme aus dem Himmel; die aufsteigende Genealogie, die über Abraham hinaus bis zu Adam, „Sohn Gottes", reicht — die Abstammungslinie über Israel hinaus universalisierend.
 
-**Achten Sie auf:** Die Datierungsformel (V.1-2) ist Lukas eigentümlich und historisch dicht — das „fünfzehnte Jahr des Tiberius" lässt mehr als eine Berechnung zu. „Das Wort Gottes kam über Johannes" (*egeneto rhēma theou epi Iōannēn*) ist das septuagintale prophetische Berufungsidiom, nicht als göttliche direkte Rede erzählt — Johannes' anschließende Predigt ist *menschliche* Prophetie und wird NICHT göttlich markiert (Regel 30). Bei 3,22 ist die **Stimme aus dem Himmel** Gottes direkte Rede und WIRD mit @@…@@ markiert (vgl. Mk 1,11; Mt 3,17); eine bemerkenswerte westliche Variante liest Ps 2,7 („heute habe ich dich gezeugt"). Bei 3,23 qualifiziert „wie man meinte" (*hōs enomizeto*) Josefs Vaterschaft — die TT bewahrt die Einschränkung. Die Genealogie (V.23-38) steigt zu Adam auf und unterscheidet sich stark von Matthäus' absteigender Liste (die Abweichung bei der Josef-Linie ist eine bekannte Crux — zur Begutachtung markiert). Die vollständige Genealogie-Tabelle und die buchübergreifenden Verweis-Stubs liegen in `luke/PEOPLE.md`.
+**Achten Sie auf:** Die Datierungsformel (V.1-2) ist Lukas eigentümlich und historisch dicht — das „fünfzehnte Jahr des Tiberius" lässt mehr als eine Berechnung zu. „Das Wort Gottes kam über Johannes" (*egeneto rhēma theou epi Iōannēn*) ist das septuagintale prophetische Berufungsidiom, nicht als göttliche direkte Rede erzählt — Johannes' anschließende Predigt ist *menschliche* Prophetie und wird NICHT göttlich markiert (Regel 30). Bei 3,22 ist die **Stimme aus dem Himmel** Gottes direkte Rede und WIRD als göttliche Rede (rot) markiert (vgl. Mk 1,11; Mt 3,17); eine bemerkenswerte westliche Variante liest Ps 2,7 („heute habe ich dich gezeugt"). Bei 3,23 qualifiziert „wie man meinte" (*hōs enomizeto*) Josefs Vaterschaft — die TT bewahrt die Einschränkung. Die Genealogie (V.23-38) steigt zu Adam auf und unterscheidet sich stark von Matthäus' absteigender Liste (die Abweichung bei der Josef-Linie ist eine bekannte Crux — zur Begutachtung markiert). Die vollständige Genealogie-Tabelle und die Querverweise auf andere Bücher liegen auf der Seite Personen und Genealogie zu Lukas.
 
 **Verbindung:** Johannes' Berufung in der Wüste steht in der Linie der prophetischen Beauftragungen (Jeremia, Hosea); das Jesaja-40-Zitat verwurzelt die ganze Szene in der Rückkehr-aus-dem-Exil-Verkündigung des Trostes. Das „Geschlecht von Vipern" und die Bild der Axt-an-der-Wurzel greifen prophetische Gerichtsorakel auf. Die Taufstimme verschmilzt Psalm 2,7 (königliche Sohnschaft) und Jesaja 42,1 (der erwählte Knecht, an dem Gott Gefallen hat). Die aufsteigende Genealogie antwortet auf Matthäus' absteigende: Wo Matthäus Jesus in Abraham und David verwurzelt (Israels Bund), führt Lukas die Linie über Adam bis zu Gott zurück und öffnet die Abstammung für die ganze Menschheit — passend zum universalen „alles Fleisch wird die Rettung Gottes sehen" von V.6.
 
@@ -102,7 +102,7 @@ im Hohepriestertum des Chanan (Annas) und Qayafa (Kajaphas), *das* Wort Gottes k
 > **Notizen**
 >
 > 🔴 **KRITISCH — „DAS WORT GOTTES KAM ÜBER JOHANNES" — PROPHETISCHE BERUFUNGSFORMEL**
-> - **ἐγένετο ῥῆμα θεοῦ ἐπὶ Ἰωάννην** (*egeneto rhēma theou epi Iōannēn*) = „*das* Wort Gottes kam über Johannes." Dies ist das septuagintale prophetische Beauftragungsidiom (vgl. Jer 1,1-2; Hos 1,1; Joel 1,1 LXX, „das Wort JHWHs, das erging an…"). **ῥῆμα** (*rhēma*) = „Wort, Äußerung, Sache" (semitisch *davar*). **Wichtig (Regel 30):** dies ist *erzählte* Beauftragung, nicht Gottes zitierte direkte Rede; Johannes' anschließende Predigt (V.7-17) ist *menschliche* prophetische Rede und wird daher NICHT mit den @@…@@ Markierungen göttlicher Rede markiert. → Zur prophetischen Berufungsformel und Johannes als Prophet siehe Begleitmaterial §A1.
+> - **ἐγένετο ῥῆμα θεοῦ ἐπὶ Ἰωάννην** (*egeneto rhēma theou epi Iōannēn*) = „*das* Wort Gottes kam über Johannes." Dies ist das septuagintale prophetische Beauftragungsidiom (vgl. Jer 1,1-2; Hos 1,1; Joel 1,1 LXX, „das Wort JHWHs, das erging an…"). **ῥῆμα** (*rhēma*) = „Wort, Äußerung, Sache" (semitisch *davar*). **Wichtig (Regel 30):** dies ist *erzählte* Beauftragung, nicht Gottes zitierte direkte Rede; Johannes' anschließende Predigt (V.7-17) ist *menschliche* prophetische Rede und wird daher NICHT als göttliche Rede (rot) markiert. → Zur prophetischen Berufungsformel und Johannes als Prophet siehe Begleitmaterial §A1.
 >
 > 🟢 **TT-TRANSLITERATIONEN**
 > - **Ἅννας** (*Hannas*) = Chanan (Hebräisch: **Chanan/Chananyah**, „JHWH hat Gunst erwiesen"). Vertraut: Annas.
@@ -342,7 +342,7 @@ und der heilige {a:Wind/Geist} in leiblicher Gestalt wie eine Taube auf ihn hera
 > **Notizen**
 >
 > 🔴 **KRITISCH — DIE STIMME AUS DEM HIMMEL (BAT-QOL) — GÖTTLICHE REDE (REGEL 30)**
-> - **φωνὴν ἐξ οὐρανοῦ γενέσθαι· σὺ εἶ ὁ υἱός μου ὁ ἀγαπητός, ἐν σοὶ εὐδόκησα** (*phōnēn ex ouranou genesthai: sy ei ho huios mou ho agapētos, en soi eudokēsa*) = „eine Stimme aus dem Himmel erging: ‚Du bist mein Sohn, der Geliebte; an dir habe ich Wohlgefallen gefunden.'" Dies ist **Gottes direkte Rede** — die *Bat-Qol* („Tochter einer Stimme", der rabbinische Begriff für die himmlische Stimme) — und wird daher **mit @@…@@ markiert** nach Regel 30 (vgl. Mk 1,11; Mt 3,17, das die dritte Person „Dieser ist…" hat). Die Worte verschmelzen Psalm 2,7 (königliche Sohnschaft: „du bist mein Sohn") mit Jesaja 42,1 (der erwählte Knecht, an dem Gott Gefallen hat: „mein Erwählter, an dem meine Seele Gefallen hat"). **εὐδόκησα** (*eudokēsa*) = „ich hatte Gefallen / fand Wohlgefallen" (Aorist). → Zur Verschmelzung von Ps 2,7 / Jes 42,1 und zur *Bat-Qol* siehe das PROPHEZEIUNG-Begleitmaterial. **[theologisch — WAHRSCHEINLICH]**
+> - **φωνὴν ἐξ οὐρανοῦ γενέσθαι· σὺ εἶ ὁ υἱός μου ὁ ἀγαπητός, ἐν σοὶ εὐδόκησα** (*phōnēn ex ouranou genesthai: sy ei ho huios mou ho agapētos, en soi eudokēsa*) = „eine Stimme aus dem Himmel erging: ‚Du bist mein Sohn, der Geliebte; an dir habe ich Wohlgefallen gefunden.'" Dies ist **Gottes direkte Rede** — die *Bat-Qol* („Tochter einer Stimme", der rabbinische Begriff für die himmlische Stimme) — und wird daher **als göttliche Rede (rot) markiert** nach Regel 30 (vgl. Mk 1,11; Mt 3,17, das die dritte Person „Dieser ist…" hat). Die Worte verschmelzen Psalm 2,7 (königliche Sohnschaft: „du bist mein Sohn") mit Jesaja 42,1 (der erwählte Knecht, an dem Gott Gefallen hat: „mein Erwählter, an dem meine Seele Gefallen hat"). **εὐδόκησα** (*eudokēsa*) = „ich hatte Gefallen / fand Wohlgefallen" (Aorist). → Zur Verschmelzung von Ps 2,7 / Jes 42,1 und zur *Bat-Qol* siehe das PROPHEZEIUNG-Begleitmaterial. **[theologisch — WAHRSCHEINLICH]**
 >
 > 🔴 **KRITISCH — WESTLICHE VARIANTE: PSALM 2,7 IN VOLLER LÄNGE**
 > - Eine bemerkenswerte westliche Lesart (Codex Bezae, D, und einige altlateinische/patristische Zeugen) lässt die Stimme Psalm 2,7 in voller Länge zitieren: „Du bist mein Sohn; heute habe ich dich gezeugt" (*huios mou ei sy, egō sēmeron gegennēka se*). NA28 liest „an dir habe ich Wohlgefallen gefunden" (mit Markus/Matthäus). Die TT folgt NA28 und markiert die Variante zur Hellenisten-Begutachtung (Regel 13). **[textkritisch — MÖGLICH]**
@@ -359,7 +359,7 @@ Und Yeshua (Jesus) selbst war *im* Begriff, etwa dreißig Jahre *alt zu werden*,
 > **Notizen**
 >
 > 🔴 **KRITISCH — „WIE MAN MEINTE" — *HŌS ENOMIZETO* (CRUX)**
-> - **ὢν υἱός, ὡς ἐνομίζετο, Ἰωσὴφ** (*ōn huios, hōs enomizeto, Iōsēph*) = „und war ein Sohn — wie man meinte — des Josef." Die parenthetische Wendung **ὡς ἐνομίζετο** (*hōs enomizeto*, „wie man meinte/rechnete") qualifiziert Josefs Vaterschaft: Jesus wurde *rechtlich* als Josefs Sohn gerechnet, wobei der Erzähler den biologischen Anspruch einschränkt (vgl. 1,34-35). Der genaue syntaktische Umfang der Wendung — und ob die folgende Genealogie die Josefs oder (nach einem antiken und modernen Vorschlag) Marias über Eli ist — ist umstritten. Die TT bewahrt die Einschränkung „wie man meinte", ohne den Inhaber der Linie aufzulösen. → Zu *hōs enomizeto* und der Josef/Maria-Linien-Frage siehe Begleitmaterial §A4 und `luke/PEOPLE.md`. **[grammatisch-historisch — MÖGLICH]**
+> - **ὢν υἱός, ὡς ἐνομίζετο, Ἰωσὴφ** (*ōn huios, hōs enomizeto, Iōsēph*) = „und war ein Sohn — wie man meinte — des Josef." Die parenthetische Wendung **ὡς ἐνομίζετο** (*hōs enomizeto*, „wie man meinte/rechnete") qualifiziert Josefs Vaterschaft: Jesus wurde *rechtlich* als Josefs Sohn gerechnet, wobei der Erzähler den biologischen Anspruch einschränkt (vgl. 1,34-35). Der genaue syntaktische Umfang der Wendung — und ob die folgende Genealogie die Josefs oder (nach einem antiken und modernen Vorschlag) Marias über Eli ist — ist umstritten. Die TT bewahrt die Einschränkung „wie man meinte", ohne den Inhaber der Linie aufzulösen. → Zu *hōs enomizeto* und der Josef/Maria-Linien-Frage siehe das Begleitmaterial zu Lukas 3 (Vertiefen), Abschnitt A4, und die Seite Personen und Genealogie zu Lukas. **[grammatisch-historisch — MÖGLICH]**
 >
 > 🔵 **„ETWA DREISSIG JAHRE" — *HŌSEI ETŌN TRIAKONTA***
 > - **ἀρχόμενος ὡσεὶ ἐτῶν τριάκοντα** (*archomenos hōsei etōn triakonta*) = „im Begriff, *seiend* etwa dreißig Jahre *alt*." *Hōsei* („etwa") macht das Alter ungefähr. „Dreißig" mag das Alter des priesterlichen/levitischen Dienstes (Num 4,3) und Davids (2 Sam 5,4) widerspiegeln. Die Konstruktion ist holprig; die TT fügt *alt zu werden* und das Verb kursiv hinzu. Die folgende Genealogie steigt auf (Sohn des… Sohn des…) statt abzusteigen.
@@ -373,7 +373,7 @@ des Mattat, des Levi, des Melchi, des Yannai, des Yosef,
 > **Notizen**
 >
 > 🟡 **DIE AUFSTEIGENDE GENEALOGIE (V.23-38) — STRUKTUR UND ABWEICHUNG VON MATTHÄUS**
-> - Die Genealogie steigt auf — „Sohn des X, des Y, des Z…" — jeder Vers ein Bündel von Namen, zurücklaufend von Yeshua über David (V.31), Avraham (V.34), Noach (V.36), bis zu Adam und Gott (V.38). Dies ist die Umkehrung von Matthäus' absteigender Liste (Mt 1,1-17, Abraham → Yeshua) und **weicht stark von ihr ab**, besonders bei der Generation unmittelbar über Josef (Lukas: „des Eli"; Matthäus: „Jakob zeugte Josef") und über die ganze nachdavidische Linie — eine seit langem bestehende Crux. Vorgeschlagene Harmonisierungen (Lukas gibt Marias Linie; Leviratsehe; rechtliche vs. biologische Abstammung) sind alle umstritten. Die TT gibt Lukas' Liste so wieder, wie das Griechische sie liefert, und markiert die Abweichung zur Hellenisten-Begutachtung (Regel 13). Die **vollständige Genealogie-Tabelle, die Generationszählung und die buchübergreifenden Verweis-Stubs** (zu `genesis` für Adam → die Patriarchen, und zu `matthew` für die David-Linie) liegen in **`luke/PEOPLE.md`** nach der buchübergreifenden Konvention v3.3.2. **[historisch — MÖGLICH]**
+> - Die Genealogie steigt auf — „Sohn des X, des Y, des Z…" — jeder Vers ein Bündel von Namen, zurücklaufend von Yeshua über David (V.31), Avraham (V.34), Noach (V.36), bis zu Adam und Gott (V.38). Dies ist die Umkehrung von Matthäus' absteigender Liste (Mt 1,1-17, Abraham → Yeshua) und **weicht stark von ihr ab**, besonders bei der Generation unmittelbar über Josef (Lukas: „des Eli"; Matthäus: „Jakob zeugte Josef") und über die ganze nachdavidische Linie — eine seit langem bestehende Crux. Vorgeschlagene Harmonisierungen (Lukas gibt Marias Linie; Leviratsehe; rechtliche vs. biologische Abstammung) sind alle umstritten. Die TT gibt Lukas' Liste so wieder, wie das Griechische sie liefert, und markiert die Abweichung zur Hellenisten-Begutachtung (Regel 13). Die **vollständige Genealogie-Tabelle, die Generationszählung und die Querverweise auf andere Bücher** (zu Genesis für Adam → die Patriarchen, und zu Matthäus für die David-Linie) liegen auf **der Seite Personen und Genealogie zu Lukas**. **[historisch — MÖGLICH]**
 >
 > 🟢 **NAMENS-WIEDERGABE-POLITIK DER GENEALOGIE**
 > - Namen mit einer vertrauten deutschen Form erhalten die „Transliteriert (Vertraut)"-Glosse beim ersten Vorkommen in der Genealogie (z.B. David, Avraham (Abraham), Noach (Noah), Adam). Namen ohne eine eigene vertraute Form werden nur in Transliteration gegeben (z.B. Mattat, Yannai, Neri). Das wiederholte griechische **τοῦ** (*tou*, Genitiv „des") wird durchgehend „des" wiedergegeben; das implizierte „Sohn" wird nicht jedes Mal wiederholt.
@@ -409,7 +409,7 @@ des Yochanan, des Reisha, des Zerubbavel, des She'altiel, des Neri,
 > **Notizen**
 >
 > 🟡 **ZERUBBAVEL UND SHE'ALTIEL — ÜBERSCHNEIDUNG MIT MATTHÄUS**
-> - **Ζοροβαβέλ… Σαλαθιήλ** (*Zorobabel… Salathiēl*) = Zerubbavel, des She'altiel. Dieses Vater-Sohn-Paar erscheint auch in Matthäus 1,12 (und Esra/Haggai), einer der wenigen Berührungspunkte zwischen den beiden Genealogien im nachexilischen Abschnitt — doch die Namen um sie herum unterscheiden sich (Lukas: „des Neri"; Matthäus: „Yekhonyah zeugte She'altiel"). Die Überschneidung-mit-Abweichung verschärft die bei V.24 vermerkte Crux. → siehe `luke/PEOPLE.md`.
+> - **Ζοροβαβέλ… Σαλαθιήλ** (*Zorobabel… Salathiēl*) = Zerubbavel, des She'altiel. Dieses Vater-Sohn-Paar erscheint auch in Matthäus 1,12 (und Esra/Haggai), einer der wenigen Berührungspunkte zwischen den beiden Genealogien im nachexilischen Abschnitt — doch die Namen um sie herum unterscheiden sich (Lukas: „des Neri"; Matthäus: „Yekhonyah zeugte She'altiel"). Die Überschneidung-mit-Abweichung verschärft die bei V.24 vermerkte Crux. → siehe die Seite Personen und Genealogie zu Lukas.
 
 ---
 
@@ -453,7 +453,7 @@ des Mal'ah, des Mena, des Mattata, des Natan, des David,
 > **Notizen**
 >
 > 🔴 **KRITISCH — DIE DAVIDISCHE LINIE ÜBER NATAN, NICHT SHELOMOH (SALOMO)**
-> - **τοῦ Ναθὰμ τοῦ Δαυίδ** (*tou Natham tou Dauid*) = „des Natan, des David." Lukas' Linie verläuft über Davids Sohn **Natan** (2 Sam 5,14; Sach 12,12), während Matthäus' Linie über **Shelomoh (Salomo)** verläuft (Mt 1,6). Dies ist die strukturelle Wurzel der Abweichung der beiden Genealogien nach David. Die TT gibt Lukas' Natan-Linie wie überliefert wieder und markiert die Natan/Salomo-Teilung zur Begutachtung. → siehe das PROPHEZEIUNG-Begleitmaterial und `luke/PEOPLE.md`. **[historisch — MÖGLICH]**
+> - **τοῦ Ναθὰμ τοῦ Δαυίδ** (*tou Natham tou Dauid*) = „des Natan, des David." Lukas' Linie verläuft über Davids Sohn **Natan** (2 Sam 5,14; Sach 12,12), während Matthäus' Linie über **Shelomoh (Salomo)** verläuft (Mt 1,6). Dies ist die strukturelle Wurzel der Abweichung der beiden Genealogien nach David. Die TT gibt Lukas' Natan-Linie wie überliefert wieder und markiert die Natan/Salomo-Teilung zur Begutachtung. → siehe das PROPHEZEIUNG-Begleitmaterial und die Seite Personen und Genealogie zu Lukas. **[historisch — MÖGLICH]**
 
 ---
 
@@ -513,7 +513,7 @@ des Qenan, des Arpakhshad, des Shem, des Noach (Noah), des Lemekh,
 > **Notizen**
 >
 > 🟡 **„DES QENAN" — ZUSÄTZLICHER NAME AUS DER LXX**
-> - **τοῦ Καϊνὰμ τοῦ Ἀρφαξὰδ** (*tou Kainam tou Arphaxad*) = „des Qenan, des Arpakhshad." Lukas' Liste enthält einen zweiten **Qenan** (Kainam) zwischen Arpakhshad und Shelach — vorhanden in der LXX von Gen 11,12-13, aber fehlend im hebräischen masoretischen Text. Die TT folgt Lukas' LXX-basiertem Text und vermerkt die Abweichung vom Hebräischen. → siehe `luke/PEOPLE.md`.
+> - **τοῦ Καϊνὰμ τοῦ Ἀρφαξὰδ** (*tou Kainam tou Arphaxad*) = „des Qenan, des Arpakhshad." Lukas' Liste enthält einen zweiten **Qenan** (Kainam) zwischen Arpakhshad und Shelach — vorhanden in der LXX von Gen 11,12-13, aber fehlend im hebräischen masoretischen Text. Die TT folgt Lukas' LXX-basiertem Text und vermerkt die Abweichung vom Hebräischen. → siehe die Seite Personen und Genealogie zu Lukas.
 >
 > 🟢 **SHEM UND NOACH — TT-TRANSLITERATIONEN**
 > - **Σήμ** = Shem (Hebräisch: **Shem**, „Name"). Keine eigene vertraute Form. **Νῶε** = Noach (Hebräisch: **Noach**, „Ruhe"). Vertraut: Noah (Gen 5,29). Lemekh = Lamech, Noachs Vater.
@@ -566,9 +566,9 @@ des Enosh, des Shet, des Adam, Gottes.
 
 ---
 
-## KAPITELÜBERGREIFENDE VERFOLGUNG (HB -> Lukas)
+## KAPITELÜBERGREIFENDE VERFOLGUNG (HB → Lukas)
 
-**Jes 40,3-5 -> Lukas 3,4-6 — „eine Stimme in der Wüste":**
+**Jes 40,3-5 → Lukas 3,4-6 — „eine Stimme in der Wüste":**
 
 | Element | Jesaja 40,3-5 (LXX) | Lukas 3,4-6 |
 |---------|----------------------|-------------|
@@ -578,7 +578,7 @@ des Enosh, des Shet, des Adam, Gottes.
 
 Lukas zitiert Jesaja 40 weiter als Matthäus oder Markus und erreicht V.5s „alles Fleisch wird die Rettung Gottes sehen" — den universalen Horizont, den der Aufstieg der Genealogie zu Adam (3,38) und „Gottes" spiegeln.
 
-**Jer 1,1-2 / Hos 1,1 -> Lukas 3,2 — die prophetische Berufungsformel:**
+**Jer 1,1-2 / Hos 1,1 → Lukas 3,2 — die prophetische Berufungsformel:**
 
 | Element | Jeremia / Hosea (LXX) | Lukas 3,2 |
 |---------|-------------------------|----------|
@@ -588,7 +588,7 @@ Lukas zitiert Jesaja 40 weiter als Matthäus oder Markus und erreicht V.5s „al
 
 Johannes ist in die Form der berufenen Propheten gegossen — das Wort-Ereignis-Idiom und das Priestersohn-Detail markieren seine Beauftragung; seine Predigt ist *menschliche* Prophetie (nicht göttlich markiert, Regel 30).
 
-**Ps 2,7 / Jes 42,1 -> Lukas 3,22 — die Stimme aus dem Himmel (Bat-Qol):**
+**Ps 2,7 / Jes 42,1 → Lukas 3,22 — die Stimme aus dem Himmel (Bat-Qol):**
 
 | Element | Psalm 2,7 / Jesaja 42,1 | Lukas 3,22 |
 |---------|--------------------------|-----------|
@@ -598,7 +598,7 @@ Johannes ist in die Form der berufenen Propheten gegossen — das Wort-Ereignis-
 
 Die himmlische Stimme — Gottes direkte Rede, göttlich markiert — verschmilzt die königliche Sohnschaft von Ps 2 mit dem erwählten Knecht von Jes 42. Eine westliche Variante (Codex Bezae) zitiert Ps 2,7 in voller Länge („heute habe ich dich gezeugt"); NA28 liest mit Markus/Matthäus.
 
-**Gen 5 / Gen 11 / Rut 4 -> Lukas 3,31-38 — die aufsteigende Genealogie:**
+**Gen 5 / Gen 11 / Rut 4 → Lukas 3,31-38 — die aufsteigende Genealogie:**
 
 | Element | Genesis / Rut | Lukas 3,31-38 |
 |---------|-----------------|---------------|
@@ -607,7 +607,7 @@ Die himmlische Stimme — Gottes direkte Rede, göttlich markiert — verschmilz
 | Shems Linie | Shem → Arpakhshad → … Ever (Gen 11,10-26) | 3,35-36, einschließlich des LXX-eigenen „Qenan" |
 | Erster Mensch | Adam, geschaffen nach Gottes Bild (Gen 1,27; 5,1) | „des Adam, Gottes" (3,38) — der Höhepunkt |
 
-Wo Matthäus von Abraham (Israels Bundeswurzel) über Salomo absteigt, steigt Lukas über Abraham hinaus über Natan zu Adam und zu Gott auf — und öffnet die Abstammung für die ganze Menschheit. Die nachdavidische Abweichung und das LXX-eigene Qenan sind bekannte Cruces, zur Hellenisten-Begutachtung markiert (Regel 13). Die vollständige Tabelle und die buchübergreifenden Verweis-Stubs liegen in `luke/PEOPLE.md`.
+Wo Matthäus von Abraham (Israels Bundeswurzel) über Salomo absteigt, steigt Lukas über Abraham hinaus über Natan zu Adam und zu Gott auf — und öffnet die Abstammung für die ganze Menschheit. Die nachdavidische Abweichung und das LXX-eigene Qenan sind bekannte Cruces, zur Hellenisten-Begutachtung markiert (Regel 13). Die vollständige Tabelle und die Querverweise auf andere Bücher liegen auf der Seite Personen und Genealogie zu Lukas.
 
 ---
 

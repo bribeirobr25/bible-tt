@@ -36,7 +36,7 @@
 
 Notizen sind nach Typ gekennzeichnet — **Kritisch · Lexikalisch · Grammatisch · Theologisch** — jeweils mit ihrer Farbe (siehe die Legende oben in der Notizen-Ansicht).
 
-**Dieses Kapitel enthält den meistzitierten Vers der Bibel (3,16) und eine der wichtigsten Übersetzungsmehrdeutigkeiten des Evangeliums: ἄνωθεν (*anōthen*) in V.3, das sowohl „von oben" (räumlich) als auch „von neuem" (zeitlich) bedeutet. Die TT bewahrt die Doppelbedeutung mit einem Schrägstrich — „von oben/von neuem" — weil der griechische Leser beide Bedeutungen gleichzeitig gehört hätte. Nikodemos (Nikodemus) hört nur „von neuem"; Yeshua (Jesus) meint „von oben." Die Kraft des Textes hängt an der Mehrdeutigkeit. Eigennamen folgen der TT-Transliteration: Nikodemos (Nikodemus), Yeshua (Jesus), Yochanan (Johannes), Mosheh (Mose). Die Wiedergabe „Leben des Zeitalters" (nicht „ewiges Leben") in VV.15–16 spiegelt αἰώνιος (*aiōnios*) wider, das sich auf αἰών (*aiōn*, „Zeitalter") bezieht — eine Lebensqualität, die zum kommenden Zeitalter gehört, keine Aussage über Zeitlosigkeit.**
+**Dieses Kapitel enthält den meistzitierten Vers der Bibel (3,16) und eine der wichtigsten Übersetzungsmehrdeutigkeiten des Evangeliums: ἄνωθεν (*anōthen*) in V.3, das sowohl „von oben" (räumlich) als auch „von neuem" (zeitlich) bedeutet. Die TT bewahrt die Doppelbedeutung mit einem Schrägstrich — „von oben/von neuem" — weil der griechische Leser beide Bedeutungen gleichzeitig gehört hätte. Nikodemos (Nikodemus) hört nur „von neuem"; Yeshua (Jesus) meint „von oben." Die Kraft des Textes hängt an der Mehrdeutigkeit. Namen erscheinen in der vertrauten Form; die ursprachliche Form steht einmal pro Abschnitt — z. B. Yochanan (Johannes). Die Wiedergabe „Leben des Zeitalters" (nicht „ewiges Leben") in VV.15–16 spiegelt αἰώνιος (*aiōnios*) wider, das sich auf αἰών (*aiōn*, „Zeitalter") bezieht — eine Lebensqualität, die zum kommenden Zeitalter gehört, keine Aussage über Zeitlosigkeit.**
 
 ---
 
@@ -62,7 +62,7 @@ Notizen sind nach Typ gekennzeichnet — **Kritisch · Lexikalisch · Grammatisc
 
 ⁹Nikodemus antwortete und sagte zu ihm: „Wie können diese Dinge geschehen?" ¹⁰Jesus antwortete und sagte zu ihm: @@„Du bist der Lehrer Yisraels und weißt diese Dinge nicht? ¹¹Amen, amen, ich sage dir, wir reden, was wir wissen, und wir bezeugen, was wir gesehen haben, und ihr nehmt unser Zeugnis nicht an. ¹²Wenn ich euch irdische Dinge gesagt habe und ihr nicht vertraut, wie werdet ihr vertrauen, wenn ich euch himmlische Dinge sage? ¹³Und niemand ist in den Himmel hinaufgestiegen außer dem, der aus dem Himmel herabgestiegen ist — der Menschensohn. ¹⁴Und wie Mosheh (Mose) die Schlange in der Wüste erhöhte, so muss der Menschensohn erhöht werden, ¹⁵damit jeder, der auf ihn vertraut, Leben des Zeitalters habe."@@
 
-¹⁶@@„Denn Gott hat die Welt so geliebt, dass er den einziggeborenen Sohn gab, damit jeder, der auf ihn vertraut, nicht verloren gehe, sondern Leben des Zeitalters habe. ¹⁷Denn Gott hat den Sohn nicht in die Welt gesandt, damit er die Welt richte, sondern damit die Welt durch ihn gerettet werde. ¹⁸Wer auf ihn vertraut, wird nicht gerichtet; wer nicht vertraut, ist schon gerichtet, weil er nicht auf den Namen des einziggeborenen Sohnes Gottes vertraut hat. ¹⁹Und dies ist das Gericht: dass das Licht in die Welt gekommen ist und die Menschen die Finsternis mehr liebten als das Licht, denn ihre Werke waren böse. ²⁰Denn jeder, der Wertloses tut, hasst das Licht und kommt nicht zum Licht, damit seine Werke nicht aufgedeckt werden. ²¹Wer aber die Wahrheit tut, kommt zum Licht, damit seine Werke offenbar werden — dass sie in Gott gewirkt sind."@@
+¹⁶„Denn Gott hat die Welt so geliebt, dass er den einziggeborenen Sohn gab, damit jeder, der auf ihn vertraut, nicht verloren gehe, sondern Leben des Zeitalters habe. ¹⁷Denn Gott hat den Sohn nicht in die Welt gesandt, damit er die Welt richte, sondern damit die Welt durch ihn gerettet werde. ¹⁸Wer auf ihn vertraut, wird nicht gerichtet; wer nicht vertraut, ist schon gerichtet, weil er nicht auf den Namen des einziggeborenen Sohnes Gottes vertraut hat. ¹⁹Und dies ist das Gericht: dass das Licht in die Welt gekommen ist und die Menschen die Finsternis mehr liebten als das Licht, denn ihre Werke waren böse. ²⁰Denn jeder, der Wertloses tut, hasst das Licht und kommt nicht zum Licht, damit seine Werke nicht aufgedeckt werden. ²¹Wer aber die Wahrheit tut, kommt zum Licht, damit seine Werke offenbar werden — dass sie in Gott gewirkt sind."
 
 ²²Nach diesen Dingen kamen Jesus und seine Nachfolger in das jehudäische Land, und dort verbrachte er Zeit mit ihnen und tauchte unter. ²³Und auch Yochanan (Johannes) tauchte unter in Ainon bei Shalim, weil dort viel Wasser war, und *Menschen* kamen und wurden untergetaucht — ²⁴denn Johannes war noch nicht ins Gefängnis geworfen worden.
 
@@ -283,7 +283,7 @@ Jesus antwortete und sagte zu ihm: @@„Du bist der Lehrer Yisraels und weißt d
 
 ### **Vers 16**
 
-@@„Denn Gott hat die Welt so geliebt, dass er den einziggeborenen Sohn gab, damit jeder, der auf ihn vertraut, nicht verloren gehe, sondern Leben des Zeitalters habe."@@
+„Denn Gott hat die Welt so geliebt, dass er den einziggeborenen Sohn gab, damit jeder, der auf ihn vertraut, nicht verloren gehe, sondern Leben des Zeitalters habe."
 
 > **NOTIZEN**
 >
@@ -297,13 +297,13 @@ Jesus antwortete und sagte zu ihm: @@„Du bist der Lehrer Yisraels und weißt d
 > - **μὴ ἀπόληται** (*mē apolētai*) = „nicht verloren gehe/zugrunde gehe." Das Verb **ἀπόλλυμι** (*apollymi*) = „zugrunde richten, vernichten, verloren gehen." Die Alternative zum „Leben des Zeitalters" ist nicht Vernichtung versus Existenz, sondern Verlorengehen versus das Leben des kommenden Zeitalters.
 >
 > 🟡 **SPRECHERAMBIGUITÄT — YESHUA ODER ERZÄHLER?**
-> - Wo endet Jesu Rede (begonnen in V.3) und wo beginnt der Kommentar des Erzählers? Im Griechischen gibt es keine Anführungszeichen. Hauptvorschläge: (a) Jesu Rede endet bei V.15, und VV.16–21 sind die Reflexion des Erzählers; (b) Jesus spricht bis V.21 durch; (c) der Übergang liegt bei V.12 oder V.13. Die TT nimmt alle VV.3–21 in den Dialogabschnitt auf, ohne die Frage zu lösen, und vermerkt sie hier. Das Fehlen einer Lösung ist selbst ein Textmerkmal.
+> - Wo endet Jesu Rede (begonnen in V.3) und wo beginnt der Kommentar des Erzählers? Im Griechischen gibt es keine Anführungszeichen. Hauptvorschläge: (a) Jesu Rede endet bei V.15, und VV.16–21 sind die Reflexion des Erzählers; (b) Jesus spricht bis V.21 durch; (c) der Übergang liegt bei V.12 oder V.13. Die TT nimmt alle VV.3–21 in den Dialogabschnitt auf, ohne die Frage zu lösen, und vermerkt sie hier. Für die Kennzeichnung folgt die TT der Mehrheitsgrenze: Jesu Rede reicht bis V.15 und ist als göttliche Rede (rot) markiert; VV.16–21 bleiben unmarkiert, weil der Sprecher dort (Jesus oder der Erzähler) umstritten ist — im Zweifel nicht markieren (Regel 30). Das Fehlen einer Lösung ist selbst ein Textmerkmal.
 
 ---
 
 ### **Vers 17**
 
-@@Denn Gott hat den Sohn nicht in die Welt gesandt, damit er die Welt richte, sondern damit die Welt durch ihn gerettet werde.@@
+Denn Gott hat den Sohn nicht in die Welt gesandt, damit er die Welt richte, sondern damit die Welt durch ihn gerettet werde.
 
 > **NOTIZEN**
 >
@@ -317,7 +317,7 @@ Jesus antwortete und sagte zu ihm: @@„Du bist der Lehrer Yisraels und weißt d
 
 ### **Vers 18**
 
-@@Wer auf ihn vertraut, wird nicht gerichtet; wer nicht vertraut, ist schon gerichtet, weil er nicht auf den Namen des einziggeborenen Sohnes Gottes vertraut hat.@@
+Wer auf ihn vertraut, wird nicht gerichtet; wer nicht vertraut, ist schon gerichtet, weil er nicht auf den Namen des einziggeborenen Sohnes Gottes vertraut hat.
 
 > **NOTIZEN**
 >
@@ -331,7 +331,7 @@ Jesus antwortete und sagte zu ihm: @@„Du bist der Lehrer Yisraels und weißt d
 
 ### **Vers 19**
 
-@@Und dies ist das Gericht: dass das Licht in die Welt gekommen ist und die Menschen die Finsternis mehr liebten als das Licht, denn ihre Werke waren böse.@@
+Und dies ist das Gericht: dass das Licht in die Welt gekommen ist und die Menschen die Finsternis mehr liebten als das Licht, denn ihre Werke waren böse.
 
 > **NOTIZEN**
 >
@@ -345,7 +345,7 @@ Jesus antwortete und sagte zu ihm: @@„Du bist der Lehrer Yisraels und weißt d
 
 ### **Vers 20**
 
-@@Denn jeder, der Wertloses tut, hasst das Licht und kommt nicht zum Licht, damit seine Werke nicht aufgedeckt werden.@@
+Denn jeder, der Wertloses tut, hasst das Licht und kommt nicht zum Licht, damit seine Werke nicht aufgedeckt werden.
 
 > **NOTIZEN**
 >
@@ -359,7 +359,7 @@ Jesus antwortete und sagte zu ihm: @@„Du bist der Lehrer Yisraels und weißt d
 
 ### **Vers 21**
 
-@@Wer aber die Wahrheit tut, kommt zum Licht, damit seine Werke offenbar werden — dass sie in Gott gewirkt sind.@@
+Wer aber die Wahrheit tut, kommt zum Licht, damit seine Werke offenbar werden — dass sie in Gott gewirkt sind.
 
 > **NOTIZEN**
 >

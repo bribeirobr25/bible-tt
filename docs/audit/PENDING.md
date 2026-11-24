@@ -12,13 +12,9 @@
 >
 > **Step 4 (Fixes) progress — `docs/audit/PLAN_LAUNCH_FIXES.md`:** batch 1 (code) merged 2026-11-20 (PR #18); batch 2 (rules & docs → Ruleset v3.4.1, re-stamp, §0.1b blocking) 2026-11-20; batches 3–8 follow §2 of that plan. Routed to batch 3: the Luke 3 "v3.3.2 cross-book convention" phrase (reader-facing process leak) and the reader provenance lines → the Rule 28 plain statement (internal record already in `docs/editorial-log/ai-provenance-record.tsv`). Batch 4: the Genesis bare-nephesh Rule 1 deviations (RULES-HB row added in v3.4.1, provisional pending the Hebraist).
 >
-> **Lead questions from Step 4 batch 2 (assistant decisions under D13 — in force until the lead says otherwise):**
-> 1. **Rule 20 beyond D8.** v3.4.1 lowercases only "son of man" in notes (D8). Should "son of God", "only-born son" and the other titular nouns also go lowercase in notes? *Recommendation: yes, for consistency (Rule 20 treats them as one class).* Batch 4 applies it if confirmed.
-> 2. **Rule 28 provenance.**
->    - The record is kept per drafting batch in the book log, not "each verse" (that was never kept).
->    - The reader statement is "AI-assisted draft, not yet reviewed." (×4 locales).
->    - The vendor name is dropped.
-> 3. **The 14-day amendment window** was not applied to v3.4.1: the approved decisions required the amendments.
+> **Lead questions from Step 4 batch 2 — ANSWERED 2026-11-20:** (1) Rule 20 lowercase in notes extends to all titular nouns ("son of God" etc.) — **yes** (applied to RULES-CORE; content in batch 4); (2) Rule 28 provenance wording / per-batch record / no vendor name — **accepted**; (3) the 14-day amendment window covered by the approvals — **confirmed**.
+>
+> **Post-launch (from Step 4 batch 3):** the Luke genealogy cells point readers to Genesis people entries (Yitschaq, Ya'aqov, Yehudah …) that exist only once Genesis 13–50 is authored.
 >
 > **Accepted documentation gaps (Step 4 batch 2 decision):** the X_PLAN.md vs PLAN_X.md naming drift (renaming would break hundreds of historical references); 4 plans without a separate audit file (3 executed and merged — Acts expansion, Tier-4 name-dedup, methodology re-stamp; the DAAT draft gets its audit in Step 4 batch 8); `docs/redesign/` is the historical standalone prototype (its "29 rules" stays); dangling references inside historical records (audit plans, execution history, editorial-log entries, changelogs) are kept as written. `SCHEMA-FUTURE.sql` (Markdown under a `.sql` name; no Spanish column; cites a removed PLAN.md) → post-launch with the user-features work.
 >

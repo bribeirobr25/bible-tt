@@ -21,7 +21,7 @@
 - [Fortlaufende Lesung](#fortlaufende-lesung)
 - [Vers-für-Vers-Studie](#vers-für-vers-studie)
 - [Glossar — Markus 1](#glossar---markus-1)
-- [Kapitelübergreifende Verfolgung (HB -> Markus)](#kapitelübergreifende-verfolgung-hb---markus)
+- [Kapitelübergreifende Verfolgung (HB → Markus)](#kapitelübergreifende-verfolgung-hb---markus)
 
 ---
 
@@ -36,7 +36,7 @@
 
 Notizen sind nach Typ gekennzeichnet — **Kritisch · Lexikalisch · Grammatisch · Theologisch** — jeweils mit ihrer Farbe (siehe die Legende oben in der Notizen-Ansicht).
 
-**Dies ist die Eröffnung des frühesten Evangeliums.** Markus beginnt ohne Genealogie und ohne Geburtsbericht — es eröffnet mit voller Geschwindigkeit mit einem zusammengesetzten prophetischen Zitat, dem Auftreten des Yochanan (Johannes) des Täufers, der Immersion des Yeshua (Jesus) und einer raschen Folge der ersten Taten seines öffentlichen Wirkens. Das Signaturwort der Erzählung ist *euthys* („sofort"), das das Tempo antreibt; die TT bewahrt es bei jedem Vorkommen. Markus verwendet „Königreich Gottes" (nicht das „Königreich der Himmel" des Matthäus). Eigennamen folgen der TT-Transliteration: Yeshua (nicht „Jesus" allein), Yochanan (nicht Johannes), Yarden (nicht Jordan).
+**Dies ist die Eröffnung des frühesten Evangeliums.** Markus beginnt ohne Genealogie und ohne Geburtsbericht — es eröffnet mit voller Geschwindigkeit mit einem zusammengesetzten prophetischen Zitat, dem Auftreten des Yochanan (Johannes) des Täufers, der Immersion des Yeshua (Jesus) und einer raschen Folge der ersten Taten seines öffentlichen Wirkens. Das Signaturwort der Erzählung ist *euthys* („sofort"), das das Tempo antreibt; die TT bewahrt es bei jedem Vorkommen. Markus verwendet „Königreich Gottes" (nicht das „Königreich der Himmel" des Matthäus). Namen erscheinen in der vertrauten Form; die ursprachliche Form steht einmal pro Abschnitt — z. B. Yochanan (Johannes).
 
 ---
 
@@ -636,9 +636,9 @@ Er aber ging hinaus und begann, *es* viel zu verkünden und das Wort zu verbreit
 
 ---
 
-## KAPITELÜBERGREIFENDE VERFOLGUNG (HB -> Markus)
+## KAPITELÜBERGREIFENDE VERFOLGUNG (HB → Markus)
 
-**Maleachi 3,1 + Exodus 23,20 + Jesaja 40,3 -> Markus 1,2-3 — das zusammengesetzte Zitat:**
+**Maleachi 3,1 + Exodus 23,20 + Jesaja 40,3 → Markus 1,2-3 — das zusammengesetzte Zitat:**
 
 | Element | Quelle | Markus 1,2-3 |
 |---------|--------|--------------|
@@ -649,7 +649,7 @@ Er aber ging hinaus und begann, *es* viel zu verkünden und das Wort zu verbreit
 
 Markus verschmilzt drei Texte und schreibt das Ganze Jesaja zu (der prominentesten Quelle). Das byzantinische „in den Propheten" ist eine spätere angleichende Korrektur.
 
-**Psalm 2,7 + Jesaja 42,1 -> Markus 1,11 — „Du bist mein Sohn, der Geliebte":**
+**Psalm 2,7 + Jesaja 42,1 → Markus 1,11 — „Du bist mein Sohn, der Geliebte":**
 
 | Element | Psalm 2,7 | Jesaja 42,1 | Markus 1,11 |
 |---------|-----------|-------------|-------------|
@@ -659,7 +659,7 @@ Markus verschmilzt drei Texte und schreibt das Ganze Jesaja zu (der prominentest
 
 Die Stimme des Markus spricht Yeshua direkt an („Du bist"), anders als das „Dieser ist" in der dritten Person des Matthäus. **ἀγαπητός** („geliebt") mag auch an Genesis 22,2 anklingen (LXX, „deinen Sohn, den geliebten" — Yitschaq bei der Bindung).
 
-**Genesis 1,2 -> Markus 1,10 — Wind/Geist an einer Schwelle:**
+**Genesis 1,2 → Markus 1,10 — Wind/Geist an einer Schwelle:**
 
 | Element | Gen 1,2 | Markus 1,10 |
 |---------|---------|-------------|

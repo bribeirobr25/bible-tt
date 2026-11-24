@@ -309,7 +309,7 @@ Dies ist eine Übersetzungsentscheidung, keine theologische Position. Die TT dok
 ### F5. Kyrios — Gottesname-Politik in Matthäus
 **[TEXTUELL — VERIFIZIERT]**
 
-Wenn Matthäus Stellen der Hebräischen Bibel zitiert, die das Tetragramm (der vierbuchstabige hebräische Gottesname יהוה, transliteriert JHWH) enthalten, verwendet der griechische Text κύριος (*kyrios*). Gemäß der TT-Gottesname-Politik (Option C, RULES-GS.md):
+Wenn Matthäus Stellen der Hebräischen Bibel zitiert, die das Tetragramm (der vierbuchstabige hebräische Gottesname יהוה, transliteriert JHWH) enthalten, verwendet der griechische Text κύριος (*kyrios*). Gemäß der TT-Gottesname-Politik (Option C):
 
 - Der Haupttext gibt *kyrios* als „der Herr" in Kontexten alttestamentlicher Zitate wieder.
 - Eine Anmerkung identifiziert die AT-Quelle und stellt fest, dass das zugrundeliegende Hebräische das Tetragramm hat.
@@ -331,9 +331,9 @@ Dies ist besonders relevant in Matthäus angesichts der hohen Dichte alttestamen
 | 7 | Parallele Struktur Bewahren | Die fünfteilige Diskursstruktur und das wiederkehrende Erfüllungsformel-Muster werden kapitelübergreifend bewahrt. *Parthenos* in 1,23 trägt seine volle griechische semantische Bandbreite. |
 | 11 | Grammatische Zusätze kennzeichnen | Für deutsche Grammatik hinzugefügte Wörter erscheinen kursiv. |
 | 13 | Unsicherheitsstufen | Umstrittene Begriffe und genealogische Fragen tragen Vertrauenskennzeichnungen (Wahrscheinlich / Möglich / Unsicher). |
-| 14 | Wortspiele Annotieren | Wichtige griechische Begriffe in Stufe 2 annotiert, wo semantisches Feld oder Wortspiel bedeutsam ist. |
-| 22 | Textkritische Zurückhaltung | Textvarianten (z.B. Mt 1,16 syrische Variante, Mt 27,16-17 „Jesus Barabbas") in Stufe 2 vermerkt, ohne stillschweigende Übernahme. |
-| 25 | Politik des Göttlichen Namens — GS wendet Option C an | κύριος als „der Herr" in AT-Zitatskontexten wiedergegeben, mit Stufe-2-Anmerkung, die JHWH im zugrundeliegenden Hebräischen identifiziert. Siehe Gottesname-Politik (F5). |
+| 14 | Wortspiele Annotieren | Wichtige griechische Begriffe in den Anmerkungen annotiert, wo semantisches Feld oder Wortspiel bedeutsam ist. |
+| 22 | Textkritische Zurückhaltung | Textvarianten (z.B. Mt 1,16 syrische Variante, Mt 27,16-17 „Jesus Barabbas") in den Anmerkungen vermerkt, ohne stillschweigende Übernahme. |
+| 25 | Politik des Göttlichen Namens — GS wendet Option C an | κύριος als „der Herr" in AT-Zitatskontexten wiedergegeben, mit einer Anmerkung, die JHWH im zugrundeliegenden Hebräischen identifiziert. Siehe Gottesname-Politik (F5). |
 
 ---
 
@@ -355,4 +355,4 @@ Dies ist besonders relevant in Matthäus angesichts der hohen Dichte alttestamen
 
 ---
 
-> **Redaktionelle Herkunft:** Entworfen von Claude Opus 4.6 (1M Kontext) am 2026-04-27. Noch nicht begutachtet. Diese Einführung ist eine provisorische wissenschaftliche Ressource, geregelt durch TT-Regel 29. Alle Behauptungen tragen doppelte Kennzeichnungen; keine Behauptung sollte als die theologische oder kompositorische Position der TT gelesen werden. Die TT übersetzt den griechischen Text (NA28) und übernimmt keine bestimmte Theorie der Verfasserschaft oder Abfassung.
+> **Redaktionelle Herkunft:** KI-gestützter Entwurf, noch nicht geprüft. Diese Einführung ist eine provisorische wissenschaftliche Ressource, geregelt durch TT-Regel 29. Alle Behauptungen tragen doppelte Kennzeichnungen; keine Behauptung sollte als die theologische oder kompositorische Position der TT gelesen werden. Die TT übersetzt den griechischen Text (NA28) und übernimmt keine bestimmte Theorie der Verfasserschaft oder Abfassung.

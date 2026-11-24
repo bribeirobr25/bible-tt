@@ -111,7 +111,7 @@ Os manuscritos mais antigos e melhores (א, B) terminam em **16:8** — as mulhe
 ### E2. Variantes notáveis dentro dos capítulos 1–3
 **[TEXTUAL — VERIFICADO]**
 
-Os capítulos iniciais contêm várias variantes que atendem ao limiar de significância das RULES-GS e são tratadas nas notas dos capítulos:
+Os capítulos iniciais contêm várias variantes que atendem ao limiar de significância da TT e são tratadas nas notas dos capítulos:
 - **1:1** — "filho de Deus" (*huiou theou*) é **colocado entre colchetes/disputado** na NA28 (ausente de א*, Θ, 28; presente em א¹, B, D, L, W).
 - **1:2** — a citação é atribuída "em Isaías o profeta" (NA28) vs. o bizantino "nos profetas," porque a citação é **composta** (Malaquias 3:1 / Êxodo 23:20 + Isaías 40:3).
 - **1:41** — Yeshua "movido de compaixão" (*splanchnistheis*, NA28) vs. "movido de ira" (*orgistheis*, Códice Bezae + Latim Antigo), a *lectio difficilior*.
@@ -160,7 +160,7 @@ Conforme o glossário travado, a TT traduz o significado em vez da transliteraç
 | πνεῦμα (*pneuma*) | {vento/espírito} | barra para o espírito divino; "espírito imundo" sem barra |
 | εὐθύς (*euthys*) | imediatamente | preservado em cada ocorrência (a assinatura de Marcos) |
 
-**Nome divino (Regra 25 / GS Opção C):** onde *kyrios* traduz YHWH em uma citação do AT (ex., 1:3, Isaías 40:3), a TT lê "o Senhor" no texto principal, com o referente YHWH subjacente anotado no Nível 2.
+**Nome divino (Regra 25 / GS Opção C):** onde *kyrios* traduz YHWH em uma citação do AT (ex., 1:3, Isaías 40:3), a TT lê "o Senhor" no texto principal, com o referente YHWH subjacente anotado nas notas.
 
 ### F4. Discurso divino direto (Regra 30)
 **[TEXTUAL — VERIFICADO]**

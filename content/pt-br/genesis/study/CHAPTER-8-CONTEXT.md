@@ -207,7 +207,7 @@ Genesis 8:6–12 envia dois pássaros: o corvo (*orev*) "saiu, saindo e voltando
 
 ## I. O Mundo na Época
 
-> **Referência cruzada:** Para o contexto mundial completo (quatro cenários, dez categorias — Político, Economia, Vida Cotidiana, Estrutura Social, Educação, Militar, Artes, Ciência, Religião, Povos Vizinhos), veja o companheiro de Gênesis 1 (Seção I, `pt-br/genesis/study/CHAPTER-1-CONTEXT.md`). As entradas abaixo abordam as circunstâncias históricas especificamente destacadas em Gênesis 8 — a sequência de re-criação, o augúrio por pássaros, a construção do altar e o sacrifício, a formação da aliança e a retomada da agricultura.
+> **Referência cruzada:** Para o contexto mundial completo (quatro cenários, dez categorias — Político, Economia, Vida Cotidiana, Estrutura Social, Educação, Militar, Artes, Ciência, Religião, Povos Vizinhos), veja o material de estudo de Gênesis 1 (Aprofundar), Seção I. As entradas abaixo abordam as circunstâncias históricas especificamente destacadas em Gênesis 8 — a sequência de re-criação, o augúrio por pássaros, a construção do altar e o sacrifício, a formação da aliança e a retomada da agricultura.
 
 ---
 
@@ -306,6 +306,4 @@ A data do fim do dilúvio (Mês 2, Dia 27 do 601º ano de Noé) e sua complexa c
 ---
 
 **Procedência editorial:**
-- Redigido por: Claude Opus 4.6 (assistente de IA)
-- Data: 2026-04-24
-- Revisado por: pendente
+- Rascunho assistido por IA, ainda não revisado.

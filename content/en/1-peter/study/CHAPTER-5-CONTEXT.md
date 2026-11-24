@@ -70,7 +70,7 @@ The promise of 5:10 stacks four future verbs with one subject (God, emphatic **�
 ### A6. The epistolary close and the speech-marking decision (Rule 30)
 **[TEXTUAL — VERIFIED]**
 
-The chapter's only quoted scripture, Proverbs 3:34 LXX at 5:5 ("God opposes *the* proud, but to *the* humble he gives grace"), is the **sage's** third-person statement *about* God, not God's own first-person speech, and so — consistent with the book's Rule-30 policy (citations *about* the Lord stay unmarked; only God's first-person words take `@@…@@`) — it is left unmarked. The chapter contains no narrated divine speech at all; its voice is the author's exhortation throughout, including the closing greetings (vv.12-14). The TT therefore carries no `@@…@@` marking in this chapter, and the verse-notes record the reasoning rather than leaving the absence unexplained.
+The chapter's only quoted scripture, Proverbs 3:34 LXX at 5:5 ("God opposes *the* proud, but to *the* humble he gives grace"), is the **sage's** third-person statement *about* God, not God's own first-person speech, and so — consistent with the book's Rule-30 policy (citations stay unmarked — those *about* the Lord, and God's first-person words quoted by the apostle) — it is left unmarked. The chapter contains no narrated divine speech at all; its voice is the author's exhortation throughout, including the closing greetings (vv.12-14). The TT therefore carries no divine-speech marking in this chapter, and the verse-notes record the reasoning rather than leaving the absence unexplained.
 
 ---
 
@@ -154,7 +154,7 @@ Verse 4 coins two rare words. **ἀρχιποίμην** (*archipoimēn*, "chief 
 ### F1. "Through Silvanus" and the secretary/authorship debate
 **[LATER RECEPTION — DOCUMENTED]**
 
-The phrase **διὰ Σιλουανοῦ… ἔγραψα** ("**through Silvanus** I wrote," 5:12) has been read in two main ways across the history of interpretation: traditionally, as naming Silvanus (Silas) the **amanuensis (secretary)** who composed the polished Greek on Peter's behalf — a reading used to reconcile Petrine authorship with the letter's accomplished style; and, in much modern scholarship, as the conventional formula identifying the **letter-bearer / courier** (the idiom *graphein dia* + person regularly designates the carrier, e.g. in Ignatius and the papyri), which leaves the composition question untouched. The matter connects to the wider debate over authorship (apostolic, secretarial, or pseudonymous) set out in the Introduction (§B); the TT renders "through Silvanus" without deciding the role and flags the options in Tier-2. These are interpretive and reception-historical positions, not data the verse itself settles.
+The phrase **διὰ Σιλουανοῦ… ἔγραψα** ("**through Silvanus** I wrote," 5:12) has been read in two main ways across the history of interpretation: traditionally, as naming Silvanus (Silas) the **amanuensis (secretary)** who composed the polished Greek on Peter's behalf — a reading used to reconcile Petrine authorship with the letter's accomplished style; and, in much modern scholarship, as the conventional formula identifying the **letter-bearer / courier** (the idiom *graphein dia* + person regularly designates the carrier, e.g. in Ignatius and the papyri), which leaves the composition question untouched. The matter connects to the wider debate over authorship (apostolic, secretarial, or pseudonymous) set out in the Introduction (§B); the TT renders "through Silvanus" without deciding the role and flags the options in the notes. These are interpretive and reception-historical positions, not data the verse itself settles.
 
 **Source:** Achtemeier, P.J., *1 Peter*, Hermeneia, Fortress Press, 1996, pp. 349-352; Richards, E.R., *The Secretary in the Letters of Paul*, Mohr Siebeck, 1991, pp. 169-189; Elliott, J.H., *1 Peter*, Anchor Bible 37B, 2000, pp. 872-874.
 
@@ -195,38 +195,9 @@ The greeter of 5:13 is **ἡ… συνεκλεκτή** ("the *co-elect* [feminin
 
 ---
 
-## H. Sources Consulted
-
-| Source | Type | Used in sections |
-|--------|------|-----------------|
-| Achtemeier, P.J., *1 Peter*, Hermeneia, 1996 | PEER-REVIEWED (commentary) | B, F |
-| Bauckham, R., *James*, 1999 | PEER-REVIEWED (monograph) | B |
-| Bauckham, R., *Jesus and the Eyewitnesses*, 2006 | PEER-REVIEWED (monograph) | F |
-| Bauer, W., *A Greek-English Lexicon of the NT* (BDAG), 3rd ed., 2000 | PEER-REVIEWED (lexicon) | D |
-| Bockmuehl, M., *Simon Peter in Scripture and Memory*, 2012 | PEER-REVIEWED (monograph) | F |
-| Campbell, R.A., *The Elders: Seniority within Earliest Christianity*, 1994 | PEER-REVIEWED (monograph) | C |
-| Cullmann, O., *Peter: Disciple, Apostle, Martyr*, 2nd ed., 1962 | PEER-REVIEWED (monograph) | F |
-| Davids, P.H., *The First Epistle of Peter*, NICNT, 1990 | PEER-REVIEWED (commentary) | B |
-| Day, P.L., *An Adversary in Heaven: śāṭān in the Hebrew Bible*, 1988 | PEER-REVIEWED (monograph) | D |
-| Elliott, J.H., *1 Peter*, Anchor Bible 37B, 2000 | PEER-REVIEWED (commentary) | C, D, F |
-| Hatch, E. and Redpath, H.A., *A Concordance to the Septuagint*, 2nd ed., 1998 | PEER-REVIEWED (reference) | D |
-| Hengel, M., *Studies in the Gospel of Mark*, 1985 | PEER-REVIEWED (monograph) | F |
-| Horrell, D.G., *1 Peter*, New Testament Guides, 2008 | PEER-REVIEWED (monograph) | C |
-| Hunzinger, C.-H., "Babylon als Deckname für Rom," 1965 | PEER-REVIEWED (essay) | B |
-| Liddell and Scott, *Greek-English Lexicon*, 9th ed., 1940 | PEER-REVIEWED (lexicon) | D |
-| Metzger, B.M., *A Textual Commentary on the Greek New Testament*, 2nd ed., 1994 | PEER-REVIEWED (reference) | G |
-| Michaels, J.R., *1 Peter*, Word Biblical Commentary 49, 1988 | PEER-REVIEWED (commentary) | B |
-| Nestle-Aland, *Novum Testamentum Graece*, 28th ed. | PRIMARY | A, D, G |
-| Richards, E.R., *The Secretary in the Letters of Paul*, 1991 | PEER-REVIEWED (monograph) | F |
-| Spicq, C., *Theological Lexicon of the New Testament*, 1994 | PEER-REVIEWED (lexicon) | D |
-| Strawn, B.A., *What Is Stronger than a Lion?*, 2005 | PEER-REVIEWED (monograph) | B |
-| Williams, T.B., *Persecution in 1 Peter*, 2012 | PEER-REVIEWED (monograph) | C |
-
----
-
 ## I. The World at the Time
 
-> **Cross-reference:** For the broad early-imperial Greco-Roman world of the letter's recipients — politics, economy, daily life, and religion under the early Principate — see the John and Acts companions' Section I (`en/john/study/CHAPTER-1-CONTEXT.md`; `en/acts/study/CHAPTER-1-CONTEXT.md`). 1 Peter writes to dispersed believers in Asia Minor (Pontus, Galatia, Cappadocia, Asia, Bithynia, 1:1) in the second half of the first century. The entries below address the specific features of that world foregrounded by the closing chapter: early-church leadership structures, the honor-culture against which "humility" stands, the conventions of letter-closing, and "Babylon" as a name for Rome.
+> **Cross-reference:** For the broad early-imperial Greco-Roman world of the letter's recipients — politics, economy, daily life, and religion under the early Principate — see Section I of the John 1 study companion (Deeper) and of the Acts 1 study companion (Deeper). 1 Peter writes to dispersed believers in Asia Minor (Pontus, Galatia, Cappadocia, Asia, Bithynia, 1:1) in the second half of the first century. The entries below address the specific features of that world foregrounded by the closing chapter: early-church leadership structures, the honor-culture against which "humility" stands, the conventions of letter-closing, and "Babylon" as a name for Rome.
 
 ---
 
@@ -258,20 +229,42 @@ By the later first century, after Rome's destruction of Jerusalem and its Temple
 
 **Source:** Achtemeier, P.J., *1 Peter*, Hermeneia, Fortress Press, 1996, pp. 353-354; Goodman, M., *Rome and Jerusalem: The Clash of Ancient Civilizations*, Allen Lane, 2007, pp. 451-468.
 
+---
+
+## H. Sources Consulted
+
 | Source | Type | Used in sections |
 |--------|------|-----------------|
-| Achtemeier, P.J., *1 Peter*, Hermeneia, 1996 | PEER-REVIEWED (commentary) | I |
-| Campbell, R.A., *The Elders: Seniority within Earliest Christianity*, 1994 | PEER-REVIEWED (monograph) | I |
+| Achtemeier, P.J., *1 Peter*, Hermeneia, 1996 | PEER-REVIEWED (commentary) | B, F, I |
+| Bauckham, R., *James*, 1999 | PEER-REVIEWED (monograph) | B |
+| Bauckham, R., *Jesus and the Eyewitnesses*, 2006 | PEER-REVIEWED (monograph) | F |
+| Bauer, W., *A Greek-English Lexicon of the NT* (BDAG), 3rd ed., 2000 | PEER-REVIEWED (lexicon) | D |
+| Bockmuehl, M., *Simon Peter in Scripture and Memory*, 2012 | PEER-REVIEWED (monograph) | F |
+| Campbell, R.A., *The Elders: Seniority within Earliest Christianity*, 1994 | PEER-REVIEWED (monograph) | C, I |
+| Cullmann, O., *Peter: Disciple, Apostle, Martyr*, 2nd ed., 1962 | PEER-REVIEWED (monograph) | F |
+| Davids, P.H., *The First Epistle of Peter*, NICNT, 1990 | PEER-REVIEWED (commentary) | B |
+| Day, P.L., *An Adversary in Heaven: śāṭān in the Hebrew Bible*, 1988 | PEER-REVIEWED (monograph) | D |
 | deSilva, D.A., *Honor, Patronage, Kinship & Purity*, 2000 | PEER-REVIEWED (monograph) | I |
-| Elliott, J.H., *1 Peter*, Anchor Bible 37B, 2000 | PEER-REVIEWED (commentary) | I |
+| Elliott, J.H., *1 Peter*, Anchor Bible 37B, 2000 | PEER-REVIEWED (commentary) | C, D, F, I |
 | Goodman, M., *Rome and Jerusalem*, 2007 | PEER-REVIEWED (monograph) | I |
+| Hatch, E. and Redpath, H.A., *A Concordance to the Septuagint*, 2nd ed., 1998 | PEER-REVIEWED (reference) | D |
+| Hengel, M., *Studies in the Gospel of Mark*, 1985 | PEER-REVIEWED (monograph) | F |
+| Horrell, D.G., *1 Peter*, New Testament Guides, 2008 | PEER-REVIEWED (monograph) | C |
+| Hunzinger, C.-H., "Babylon als Deckname für Rom," 1965 | PEER-REVIEWED (essay) | B |
 | Klauck, H.-J., *Ancient Letters and the New Testament*, 2006 | PEER-REVIEWED (monograph) | I |
+| Liddell and Scott, *Greek-English Lexicon*, 9th ed., 1940 | PEER-REVIEWED (lexicon) | D |
 | Malina, B.J., *The New Testament World*, 3rd ed., 2001 | PEER-REVIEWED (monograph) | I |
+| Metzger, B.M., *A Textual Commentary on the Greek New Testament*, 2nd ed., 1994 | PEER-REVIEWED (reference) | G |
+| Michaels, J.R., *1 Peter*, Word Biblical Commentary 49, 1988 | PEER-REVIEWED (commentary) | B |
+| Nestle-Aland, *Novum Testamentum Graece*, 28th ed. | PRIMARY | A, D, G |
+| Richards, E.R., *The Secretary in the Letters of Paul*, 1991 | PEER-REVIEWED (monograph) | F |
+| Spicq, C., *Theological Lexicon of the New Testament*, 1994 | PEER-REVIEWED (lexicon) | D |
+| Strawn, B.A., *What Is Stronger than a Lion?*, 2005 | PEER-REVIEWED (monograph) | B |
 | Weima, J.A.D., *Neglected Endings*, 1994 | PEER-REVIEWED (monograph) | I |
+| Williams, T.B., *Persecution in 1 Peter*, 2012 | PEER-REVIEWED (monograph) | C |
 
 ---
 
+
 **Editorial provenance:**
-- Drafted by: AI (Claude, Anthropic)
-- Date: 2026-06-26
-- Reviewed by: pending
+- AI-assisted draft, not yet reviewed.

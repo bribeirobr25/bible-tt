@@ -159,3 +159,19 @@ Decisions taken by the project lead in the Launch-Readiness Program (`docs/audit
 - **Cross-references:** `docs/editorial-log/ai-provenance-record.tsv`; `PLAN_LAUNCH_FIXES.md` §B2.1 item 5; `EXECUTION_HISTORY.md` (1 Peter entries, 2026-06-26 / 2026-07-01).
 
 ---
+
+## Entry P-014 — Rule 28 provenance choices confirmed by the lead (2026-11-20)
+
+- **Verse(s):** whole book (reader-facing provenance lines)
+- **Language(s) affected:** EN, PT-BR, DE, ES
+- **Rule(s) invoked:** RULES-CORE Rule 28 (v3.4.1, L5)
+- **Decision:** The assistant decisions recorded in P-013 are **confirmed**: the internal record is kept per drafting batch in the book log; the reader statement is "AI-assisted draft, not yet reviewed." / "Rascunho assistido por IA, ainda não revisado." / "KI-gestützter Entwurf, noch nicht geprüft." / "Borrador asistido por IA, aún no revisado."; the vendor name is omitted. Applied to content in Launch-Program Step 4 batch 3.
+- **Alternatives considered:**
+  - Keep the vendor name (not chosen; confirmed by the lead).
+- **Justification:** The project lead answered on 2026-11-20: "Is the AI-provenance wording = yes accepted."
+- **AI provenance:** drafted by the AI assistant (claude-opus-5-5), 2026-11-21, recording the project lead's answers of 2026-11-20 (Step 4 batch 3 branch).
+- **Status:** provisional
+- **Reviewers:** unassigned
+- **Cross-references:** P-013; `docs/rules/CHANGELOG-v3.4.md` Dated addenda; applies to every book log's provenance entry.
+
+---

@@ -21,7 +21,7 @@
 - [Continuous Reading](#continuous-reading)
 - [Verse-by-Verse Study](#verse-by-verse-study)
 - [Glossary — Matthew 2](#glossary---matthew-2)
-- [Cross-Chapter Tracking (HB -> Matthew)](#cross-chapter-tracking-hb--matthew)
+- [Cross-Chapter Tracking (HB → Matthew)](#cross-chapter-tracking-hb--matthew)
 
 ---
 
@@ -36,7 +36,7 @@
 
 Notes are tagged by type — **Critical · Lexical · Grammatical · Theological** — each shown with its colour (see the legend at the top of the Notes view).
 
-**This chapter is the most OT-heavy chapter in the birth narrative.** Four formula quotations ("so that what was spoken might be fulfilled") drive the narrative: Micah 5:1 (Beyt-Lechem), Hosea 11:1 (out of Mitsrayim), Jeremiah 31:15 (Rachel weeping), and a mysterious "He shall be called a Natsri" with no single OT source. Each quotation uses kyrios Option C with the OT YHWH connection noted. Proper names follow TT transliteration: Herodes (not Herod), Beyt-Lechem (not Bethlehem), Mitsrayim (not Egypt), Natseret (not Nazareth).
+**This chapter is the most OT-heavy chapter in the birth narrative.** Four formula quotations ("so that what was spoken might be fulfilled") drive the narrative: Micah 5:1 (Beyt-Lechem), Hosea 11:1 (out of Mitsrayim), Jeremiah 31:15 (Rachel weeping), and a mysterious "He shall be called a Natsri" with no single OT source. Each quotation uses kyrios Option C with the OT YHWH connection noted. Names appear in their familiar form, with the source-language form given once per section — e.g. Beyt-Lechem (Bethlehem).
 
 ---
 
@@ -350,7 +350,7 @@ saying, "Rise, take the child and his mother, and go to the land of Yisra'el, fo
 > 🔴 **CRITICAL — EXODUS 4:19 ECHO**
 > - The wording closely parallels **Exodus 4:19** (LXX): "Go, return to Mitsrayim (Egypt), for all those seeking your life have died" — YHWH's instruction to Mosheh (Moses). Matthew reverses the direction (from Egypt to Yisra'el) but preserves the verbal pattern almost exactly, continuing the Moses-Jesus typology. Confidence: VERIFIED [STRONG INFERENCE].
 >
-> *For the full verbal comparison and Moses typology table, see companion Section A (Cross-Chapter Tracking).*
+> *For the full verbal comparison and the Moses typology, see the Cross-Chapter Tracking table at the end of these notes.*
 >
 > 🟢 **"THOSE SEEKING" — PLURAL**
 > - **οἱ ζητοῦντες** (*hoi zētountes*) = "those seeking" (plural), though only Herod has been named as a threat. The plural may follow the Exodus 4:19 wording, or it may indicate that Herod's agents are also meant.
@@ -417,9 +417,9 @@ And coming, he settled in a city called Natseret (Nazareth), so that what was sp
 
 ---
 
-## CROSS-CHAPTER TRACKING (HB -> Matthew)
+## CROSS-CHAPTER TRACKING (HB → Matthew)
 
-**Micah 5:1 [5:2] -> Matt 2:6 — Beyt-Lechem:**
+**Micah 5:1 [5:2] → Matt 2:6 — Beyt-Lechem:**
 
 | Element | Micah 5:1 | Matt 2:6 |
 |---------|-----------|----------|
@@ -429,7 +429,7 @@ And coming, he settled in a city called Natseret (Nazareth), so that what was sp
 
 Matthew's quotation is a composite: Micah 5:1 modified and blended with 2 Samuel 5:2. The reversal of "too small" to "by no means least" may reflect a different textual tradition or a deliberate interpretive adjustment.
 
-**Hosea 11:1 -> Matt 2:15 — "Out of Mitsrayim I called my son":**
+**Hosea 11:1 → Matt 2:15 — "Out of Mitsrayim I called my son":**
 
 | Element | Hosea 11:1 | Matt 2:15 |
 |---------|------------|-----------|
@@ -438,7 +438,7 @@ Matthew's quotation is a composite: Micah 5:1 modified and blended with 2 Samuel
 | Context | Retrospective: recalling the Exodus | Prospective: the return from Mitsrayim |
 | Hermeneutic | Historical statement about a past event | Typological fulfillment in a new event |
 
-**Jeremiah 31:15 -> Matt 2:18 — Rachel weeping:**
+**Jeremiah 31:15 → Matt 2:18 — Rachel weeping:**
 
 | Element | Jeremiah 31:15 | Matt 2:18 |
 |---------|----------------|-----------|
@@ -446,7 +446,7 @@ Matthew's quotation is a composite: Micah 5:1 modified and blended with 2 Samuel
 | Location | Ramah (deportation staging point) | Beyt-Lechem vicinity |
 | Context | Exile — followed by hope (31:16-17) | Slaughter — the hope verses are not quoted |
 
-**Exodus 4:19 -> Matt 2:20 — "Those seeking the life... have died":**
+**Exodus 4:19 → Matt 2:20 — "Those seeking the life... have died":**
 
 | Element | Exodus 4:19 | Matt 2:20 |
 |---------|-------------|-----------|

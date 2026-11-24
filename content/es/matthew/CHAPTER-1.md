@@ -22,7 +22,7 @@
 - [Lectura Continua](#lectura-continua)
 - [Estudio Versículo por Versículo](#estudio-versículo-por-versículo)
 - [Glosario — Mateo 1](#glosario---mateo-1)
-- [Seguimiento entre Capítulos (Génesis -> Mateo)](#seguimiento-entre-capítulos-génesis--mateo)
+- [Seguimiento entre Capítulos (Génesis → Mateo)](#seguimiento-entre-capítulos-génesis--mateo)
 
 ---
 
@@ -37,7 +37,7 @@
 
 Las notas se etiquetan por tipo — **Crítico · Léxico · Gramatical · Teológico** — cada una con su color (vea la leyenda en la parte superior de la vista de Notas).
 
-**Este capítulo abre el primer libro dispuesto en el canon de las Escrituras Griegas.** Mateo 1 comienza no con un prólogo cosmológico (como en Juan) sino con una genealogía — un *biblos geneseōs* ("libro de la génesis/origen") que traza una línea desde Avraham a través de David hasta Yeshua. La genealogía se estructura en tres conjuntos de catorce generaciones. Se nombran cuatro mujeres — Tamar, Rachav, Rut y la esposa de Uriyah — cada una con una entrada irregular o sorprendente en el linaje. Los nombres propios siguen la transliteración TT: Yeshua (no Jesús), Yosef (no José), Miryam (no María), Avraham (no Abraham), etc. Las formas familiares en español se anotan en la primera aparición. La narración del nacimiento (vv.18-25) introduce la ambigüedad virgen/joven mujer de Isaías 7:14. El griego *pneuma hagion* se traduce como "viento/espíritu santo" según el glosario fijado.
+**Este capítulo abre el primer libro dispuesto en el canon de las Escrituras Griegas.** Mateo 1 comienza no con un prólogo cosmológico (como en Juan) sino con una genealogía — un *biblos geneseōs* ("libro de la génesis/origen") que traza una línea desde Avraham a través de David hasta Yeshua. La genealogía se estructura en tres conjuntos de catorce generaciones. Se nombran cuatro mujeres — Tamar, Rachav, Rut y la esposa de Uriyah — cada una con una entrada irregular o sorprendente en el linaje. Los nombres aparecen en su forma familiar, con la forma de la lengua original indicada una vez por sección — p. ej., Yosef (José). La narración del nacimiento (vv.18-25) introduce la ambigüedad virgen/joven mujer de Isaías 7:14. El griego *pneuma hagion* se traduce como "viento/espíritu santo" según el glosario fijado.
 
 ---
 
@@ -455,9 +455,9 @@ y no la conoció hasta que ella dio a luz un hijo; y llamó su nombre Yeshua.
 
 ---
 
-## SEGUIMIENTO ENTRE CAPÍTULOS (Génesis -> Mateo)
+## SEGUIMIENTO ENTRE CAPÍTULOS (Génesis → Mateo)
 
-**Gén 2:4 / Gén 5:1 -> Mt 1:1 — *biblos geneseōs*:**
+**Gén 2:4 / Gén 5:1 → Mt 1:1 — *biblos geneseōs*:**
 
 | Elemento | Gén 2:4 / 5:1 (LXX) | Mt 1:1 |
 |----------|----------------------|--------|
@@ -468,7 +468,7 @@ y no la conoció hasta que ella dio a luz un hijo; y llamó su nombre Yeshua.
 
 La frase de apertura de Mateo es una alusión literaria directa. Génesis usa *biblos geneseōs* para introducir las "generaciones" de la creación y de la humanidad. Mateo usa la misma frase para introducir el origen del ungido — colocando la historia de Yeshua dentro del marco del Génesis.
 
-**Gén 38 -> Mt 1:3 — Tamar:**
+**Gén 38 → Mt 1:3 — Tamar:**
 
 | Elemento | Gén 38 | Mt 1:3 |
 |----------|--------|--------|
@@ -476,7 +476,7 @@ La frase de apertura de Mateo es una alusión literaria directa. Génesis usa *b
 | Estatus | Extranjera que entra en la línea de Yehudah | Incluida en la línea mesiánica |
 | Significado | Declarada "más justa que yo" (Gén 38:26) | Una de cuatro mujeres que rompen el patrón genealógico exclusivamente masculino |
 
-**Gén 37-50 -> Mt 1:20 — Yosef el soñador:**
+**Gén 37-50 → Mt 1:20 — Yosef el soñador:**
 
 | Elemento | Gén 37-50 (Patriarca Yosef) | Mt 1:20 (Yosef esposo de Miryam) |
 |----------|----------------------------|----------------------------------|
@@ -487,7 +487,7 @@ La frase de apertura de Mateo es una alusión literaria directa. Génesis usa *b
 
 El eco del nombre y el patrón de sueños sugieren una conexión tipológica deliberada. Ambos Yosefs median propósitos divinos a través de respuesta obediente a los sueños.
 
-**Gén 12:1-3 / Gén 22:18 -> Mt 1:1 — "Hijo de Avraham":**
+**Gén 12:1-3 / Gén 22:18 → Mt 1:1 — "Hijo de Avraham":**
 
 | Elemento | Génesis | Mateo |
 |----------|---------|-------|
@@ -495,7 +495,7 @@ El eco del nombre y el patrón de sueños sugieren una conexión tipológica del
 | Pacto | Pacto abrahámico: tierra, simiente, bendición | La genealogía traza la línea de la "simiente" (*sperma*) |
 | Alcance | "Todas las familias de la tierra" | Comienza con Israel ("su pueblo," v.21) pero el marco abrahámico abre hacia la universalidad |
 
-**Gén 1:2 -> Mt 1:18, 20 — Viento/espíritu (*ruach* / *pneuma*):**
+**Gén 1:2 → Mt 1:18, 20 — Viento/espíritu (*ruach* / *pneuma*):**
 
 | Elemento | Gén 1:2 | Mt 1:18, 20 |
 |----------|---------|-------------|

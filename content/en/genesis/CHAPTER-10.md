@@ -78,7 +78,7 @@ And these *are* the generations of the sons of Noach (Noah) — Shem, Cham (Ham)
 
 > **NOTES**
 >
-> 🟡 **TIER 2 — ETHNOGENESIS WARNING**
+> 🟡 **ETHNOGENESIS WARNING**
 > - This chapter's genealogical framework must not be used to construct modern ethnic, racial, or national hierarchies. The Table of Nations is an ancient political-geographic document, not a biological taxonomy of modern peoples. See companion Section F for historical context on documented misuse.
 >
 > 🔴 **TOLEDOT FORMULA — FOURTH OCCURRENCE**

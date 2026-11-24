@@ -21,7 +21,7 @@
 - [Fortlaufende Lesung](#fortlaufende-lesung)
 - [Vers-für-Vers-Studie](#vers-für-vers-studie)
 - [Glossar — Matthäus 3](#glossar---matthäus-3)
-- [Kapitelübergreifende Verfolgung (HB -> Matthäus)](#kapitelübergreifende-verfolgung-hb--matthäus)
+- [Kapitelübergreifende Verfolgung (HB → Matthäus)](#kapitelübergreifende-verfolgung-hb--matthäus)
 
 ---
 
@@ -36,7 +36,7 @@
 
 Notizen sind nach Typ gekennzeichnet — **Kritisch · Lexikalisch · Grammatisch · Theologisch** — jeweils mit ihrer Farbe (siehe die Legende oben in der Notizen-Ansicht).
 
-**Dieses Kapitel führt Yochanan (Johannes) den Eintaucher und das „Königreich der Himmel" ein.** Die Wendung *basileia tōn ouranōn* („Königreich der Himmel") erscheint hier zum ersten Mal in Matthäus — eine Wendung, die nur in diesem Evangelium vorkommt (die anderen Evangelien verwenden „Königreich Gottes"). Die TT gibt *ouranōn* als „Himmel" wieder, in Übereinstimmung mit dem hebräischen *shamayim*. Johannes' Praxis des *baptisma* wird als „Eintauchen" wiedergegeben, gemäß gesperrtem Glossar. Eigennamen folgen der TT-Transliteration: Yochanan (Johannes der Täufer), Pharisäer (nicht Perushim), Sadduzäer (nicht Tsduqim), Yarden (Jordan).
+**Dieses Kapitel führt Yochanan (Johannes) den Eintaucher und das „Königreich der Himmel" ein.** Die Wendung *basileia tōn ouranōn* („Königreich der Himmel") erscheint hier zum ersten Mal in Matthäus — eine Wendung, die nur in diesem Evangelium vorkommt (die anderen Evangelien verwenden „Königreich Gottes"). Die TT gibt *ouranōn* als „Himmel" wieder, in Übereinstimmung mit dem hebräischen *shamayim*. Johannes' Praxis des *baptisma* wird als „Eintauchen" wiedergegeben, gemäß gesperrtem Glossar. Namen erscheinen in der vertrauten Form; die ursprachliche Form steht einmal pro Abschnitt — z. B. Yochanan (Johannes).
 
 ---
 
@@ -331,9 +331,9 @@ Und siehe, eine Stimme aus den Himmeln, die spricht: @@„Dieser ist mein Sohn, 
 
 ---
 
-## KAPITELÜBERGREIFENDE VERFOLGUNG (HB -> Matthäus)
+## KAPITELÜBERGREIFENDE VERFOLGUNG (HB → Matthäus)
 
-**Jesaja 40,3 -> Mt 3,3 — „Bereitet den Weg des Herrn":**
+**Jesaja 40,3 → Mt 3,3 — „Bereitet den Weg des Herrn":**
 
 | Element | Jesaja 40,3 (MT) | Mt 3,3 (der LXX folgend) |
 |---------|-------------------|---------------------------|
@@ -344,7 +344,7 @@ Und siehe, eine Stimme aus den Himmeln, die spricht: @@„Dieser ist mein Sohn, 
 
 Die syntaktische Verschiebung ist bedeutsam: Bei Jesaja ist die Wüste der Ort, wo die Straße gebaut wird; bei Matthäus ist die Wüste der Ort, wo der Prediger predigt. Beide Lesarten sind alt — die LXX spiegelt bereits die zweite Analyse wider.
 
-**2 Könige 1,8 -> Mt 3,4 — Elias Kleidung:**
+**2 Könige 1,8 → Mt 3,4 — Elias Kleidung:**
 
 | Element | 2 Könige 1,8 | Mt 3,4 |
 |---------|-------------|--------|
@@ -353,7 +353,7 @@ Die syntaktische Verschiebung ist bedeutsam: Bei Jesaja ist die Wüste der Ort, 
 
 Die Kleidungsbeschreibung ist nahezu identisch. Matthäus stellt Johannes als die Eliafigur dar, die in Maleachi 3,23 [4,5] erwartet wird.
 
-**Psalm 2,7 + Jesaja 42,1 -> Mt 3,17 — „Dieser ist mein Sohn, der Geliebte":**
+**Psalm 2,7 + Jesaja 42,1 → Mt 3,17 — „Dieser ist mein Sohn, der Geliebte":**
 
 | Element | Psalm 2,7 | Jesaja 42,1 | Mt 3,17 |
 |---------|-----------|-------------|---------|
@@ -363,7 +363,7 @@ Die Kleidungsbeschreibung ist nahezu identisch. Matthäus stellt Johannes als di
 
 Die Bat Qol verschmilzt die königliche und die Knechtstradition in eine einzige Erklärung. Der „Geliebte" (**ἀγαπητός**, *agapētos*) könnte auch an Gen 22,2 (LXX) anklingen, wo JHWH Abraham sagt, er solle nehmen „deinen Sohn, den Geliebten" (*ton huion sou ton agapēton*) — Isaak. Der Isaak-Bindung-Anklang fügt eine opferhafte Dimension hinzu.
 
-**Genesis 1,2 -> Mt 3,16 — Wind/Geist über den Wassern:**
+**Genesis 1,2 → Mt 3,16 — Wind/Geist über den Wassern:**
 
 | Element | Gen 1,2 | Mt 3,16 |
 |---------|---------|---------|

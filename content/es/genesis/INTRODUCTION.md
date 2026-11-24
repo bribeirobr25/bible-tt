@@ -431,4 +431,4 @@ Muchos nombres en Génesis llevan un significado etimológico que la narrativa e
 
 ---
 
-> **Procedencia editorial:** Redactado por Claude Opus 4.6 (1M context) el 2026-04-28. Revisado por: pendiente. Esta introducción es un recurso académico provisional gobernado por la Regla 29 de la TT. Todas las afirmaciones llevan etiquetas duales; ninguna afirmación debe leerse como la posición teológica o compositiva de la TT. La TT traduce el Texto Masorético y no adopta ninguna teoría particular de autoría o composición.
+> **Procedencia editorial:** Borrador asistido por IA, aún no revisado. Esta introducción es un recurso académico provisional gobernado por la Regla 29 de la TT. Todas las afirmaciones llevan etiquetas duales; ninguna afirmación debe leerse como la posición teológica o compositiva de la TT. La TT traduce el Texto Masorético y no adopta ninguna teoría particular de autoría o composición.

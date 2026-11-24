@@ -56,7 +56,7 @@ Die Wahl ist nicht belanglos. Die „Wort"-Lesart macht die Milch zur Botschaft,
 
 Die Verse 6-8 stapeln drei „Stein"-Schriftstellen in Folge, und die TT hält jede einzelne erkennbar, statt sie zu einem einzigen Zitat zu verschmelzen. Die Reihe ist: Jesaja 28,16 („ein erwählter, kostbarer Eckstein … wird nimmermehr zuschanden werden", 2,6), Psalm 118,22 („der Stein, den die Bauleute verworfen haben … ist zum Eckstein geworden", 2,7) und Jesaja 8,14 („ein Stein des Anstoßes und ein Fels des Ärgernisses", 2,8). Das verbindende Wort über alle drei hinweg ist **λίθος** (*lithos*, „Stein"), das Stichwort, das die Kette zusammenhält — eine bekannte jüdische Auslegungstechnik (*gezerah shawah*, das Verknüpfen von Texten durch ein gemeinsames Wort).
 
-Das Ergebnis ist ein einziges Argument, aus drei Stimmen gebaut: Derselbe Stein ist „kostbar" für die, die glauben (Jes 28), und „Anstoß" für die, die es nicht tun (Jes 8), mit dem verworfenen-dann-bestätigten Stein von Psalm 118 in der Mitte. Nur der Teil aus Jesaja 28,16 ist Gottes Rede in der ersten Person („Ich lege in Tsiyon (Zion)"), daher kennzeichnet die TT jene Wendung **@@…@@** und lässt die anderen beiden unmarkiert (die Drittperson-Stimme des Psalmisten und des Propheten) — siehe die Vers-für-Vers-Anmerkungen zu 2,6-8 und §A6 des redaktionellen Schemas.
+Das Ergebnis ist ein einziges Argument, aus drei Stimmen gebaut: Derselbe Stein ist „kostbar" für die, die glauben (Jes 28), und „Anstoß" für die, die es nicht tun (Jes 8), mit dem verworfenen-dann-bestätigten Stein von Psalm 118 in der Mitte. Nur der Teil aus Jesaja 28,16 ist Gottes Rede in der ersten Person („Ich lege in Tsiyon (Zion)"), doch Petrus zitiert ihn, daher lässt die TT jene Wendung wie die anderen beiden unmarkiert (die Drittperson-Stimme des Psalmisten und des Propheten) (Regel 30) — siehe die Vers-für-Vers-Anmerkungen zu 2,6-8.
 
 ### A3. Israels Titel auf die Leser übertragen (2,9-10)
 **[TEXTUELL — VERIFIZIERT (für das Zitat); MÖGLICHE SCHLUSSFOLGERUNG — WAHRSCHEINLICH (für die Quellen-Mischung)]**
@@ -132,7 +132,7 @@ Die unterscheidenden Merkmale der Version des 1. Petrus sind gegen die Gattung s
 
 Die in 2,18 angesprochenen Sklaven sind **οἰκέται** (*oiketai*), eigens *Haus*-Sklaven, nicht die allgemeinen **δοῦλοι** (*douloi*) oder ländlichen/landwirtschaftlichen Sklaven — die Menschen, die im Haus lebten und auf engstem Raum dienten. Die Sklaverei war im frühen römischen Reich allgegenwärtig und rechtlich grundlegend: Schätzungen sehen die Versklavten als große Minderheit der Bevölkerung Italiens und der Städte, und Haussklaven verrichteten häusliche, verwaltende, erzieherische und qualifizierte Arbeit. Ein Haussklave hatte keine Rechtspersönlichkeit im vollen Sinne, unterstand der Autorität des *paterfamilias* einschließlich körperlicher Züchtigung und konnte — wie 2,18-20 voraussetzt — nach Belieben eines Herrn gerecht oder ungerecht geschlagen werden. Freilassung war möglich und nicht selten, doch es war Sache des Herrn, sie zu gewähren.
 
-Der Text beschreibt diese Welt, ohne sie zu billigen. Er spricht die *oiketai* als moralische Subjekte an, die „ungerecht" (2,19) unter einem „verkehrten" Herrn (2,18) leiden mögen — eine Sprache, die die Grausamkeit der Institution benennt, statt sie zu entschuldigen —, während er im Haupttext keine Position zur Legitimität der Institution bezieht (Regel 3; redaktionelles Protokoll P-009). Diese historische Anmerkung liefert die sozialen Tatsachen, die der Vers annimmt; sie wandelt sie nicht in eine Bewertung um, die das Kapitel selbst zurückhält.
+Der Text beschreibt diese Welt, ohne sie zu billigen. Er spricht die *oiketai* als moralische Subjekte an, die „ungerecht" (2,19) unter einem „verkehrten" Herrn (2,18) leiden mögen — eine Sprache, die die Grausamkeit der Institution benennt, statt sie zu entschuldigen —, während er im Haupttext keine Position zur Legitimität der Institution bezieht (Regel 3). Diese historische Anmerkung liefert die sozialen Tatsachen, die der Vers annimmt; sie wandelt sie nicht in eine Bewertung um, die das Kapitel selbst zurückhält.
 
 **Quelle:** Bradley, K.R., *Slavery and Society at Rome*, Cambridge University Press, 1994, S. 1-30, 81-106; Harrill, J.A., *Slaves in the New Testament*, Fortress Press, 2006, S. 85-117.
 
@@ -188,7 +188,7 @@ Die TT gibt „Eckstein" wieder und folgt dem Fundament-Sinn, den die Bau-Metaph
 ### D3. *Hypotassō* — „sich unterordnen / untergeordnet sein" durch das Kapitel hindurch
 **[TEXTUELL — VERIFIZIERT]**
 
-**ὑποτάσσω** (*hypotassō*) ist das Verb, das die soziale Ethik des 1. Petrus zusammenbindet. Ein Kompositum aus **ὑπό** („unter") + **τάσσω** („anordnen, ordnen, stationieren"), ist es ein militärischer und administrativer Begriff für das Eingereihtsein oder Stationiertsein unter einer ordnenden Autorität; das Medium/Passiv („sich unterordnen") trägt oft eine freiwillige, selbst-ordnende Nuance statt erzwungener Unterwerfung. Es erscheint für die bürgerliche Ordnung („ordnet euch jeder menschlichen Einrichtung unter", 2,13), für die Haussklaven („ordnet euch … euren Herren unter", 2,18) und setzt sich für die Frauen (3,1) und in das allgemeine „ihr alle" (5,5) fort. Die TT gibt es einheitlich „sich unterordnen / untergeordnet sein" wieder, damit die Wiederkehr sichtbar bleibt, und kennzeichnet das Wortfeld in Tier-2 (redaktionelles Protokoll P-009).
+**ὑποτάσσω** (*hypotassō*) ist das Verb, das die soziale Ethik des 1. Petrus zusammenbindet. Ein Kompositum aus **ὑπό** („unter") + **τάσσω** („anordnen, ordnen, stationieren"), ist es ein militärischer und administrativer Begriff für das Eingereihtsein oder Stationiertsein unter einer ordnenden Autorität; das Medium/Passiv („sich unterordnen") trägt oft eine freiwillige, selbst-ordnende Nuance statt erzwungener Unterwerfung. Es erscheint für die bürgerliche Ordnung („ordnet euch jeder menschlichen Einrichtung unter", 2,13), für die Haussklaven („ordnet euch … euren Herren unter", 2,18) und setzt sich für die Frauen (3,1) und in das allgemeine „ihr alle" (5,5) fort. Die TT gibt es einheitlich „sich unterordnen / untergeordnet sein" wieder, damit die Wiederkehr sichtbar bleibt, und kennzeichnet das Wortfeld in den Anmerkungen.
 
 Zwei Merkmale, die die TT bewahrt, sind für das Lesen der Stelle wichtig. Erstens werden die Sklaven und Frauen *unmittelbar angesprochen* als die Subjekte, die das Unterordnen tun — sie sind moralische Subjekte, nicht Objekte des Befehls eines anderen. Zweitens ist die ganze Folge gerahmt von 2,16 („als Freie … als Knechte Gottes") und gegründet „um des Herrn willen" (2,13) und im Vorbild des Messias (2,21) — die Unterordnung ist freiwilliges Sich-selbst-Ordnen innerhalb einer vorgängigen Freiheit und einer vorgängigen Treue zu Gott, keine absolute oder unbedingte Unterwerfung. Die TT gibt das Verb buchstäblich wieder und lässt diesen Rahmen stehen, ohne eine moderne Auflösung einzutragen.
 
@@ -221,7 +221,7 @@ Gemäß Regel 3 und §A3 gibt die TT nur wieder, was 2,9-10 sagt — dass diese 
 
 Die Sklaven-Tafel von 2,18-25 hat eine der belastetsten Rezeptionsgeschichten jeder neutestamentlichen Stelle. Durch die Spätantike und das Mittelalter hindurch wurde sie, neben den anderen Haustafeln (Eph 6,5-9; Kol 3,22–4,1; das Onesimus-Material in Philemon), als schriftgemäße Rechtfertigung der bestehenden Ordnung von Sklaverei und Gehorsam gelesen. In der Ära der transatlantischen Sklaverei (16.–19. Jahrhundert) wurde sie zu einem Standard-Beweistext für das Pro-Sklaverei-Argument, zitiert, um Versklavte zu ermahnen, sich „auch dem verkehrten" Herrn unterzuordnen und ohne Widerstand zu leiden; „Sklaven-Bibeln", die für Versklavte in den britischen Kolonien hergestellt wurden, behielten solche Texte bei, während sie Befreiungs-Material (z.B. den Exodus) tilgten. Abolitionistische Leser bestritten dies und argumentierten aus denselben Schriften (dem *imago Dei*, dem Exodus, Gal 3,28, Philemon als die Institution untergrabend gelesen), dass die Sklaverei mit dem Evangelium unvereinbar sei. Moderne Ausleger betonen weithin, dass die Stelle Verhalten *innerhalb* einer Institution beschreibt, die sie weder schuf noch gutheißt, die Versklavten als moralische Subjekte anspricht und das Aushalten in der Solidarität des Messias mit den ungerecht Leidenden gründet — nicht in irgendeiner göttlichen Sanktion der Sklaverei selbst.
 
-Diese ganze Geschichte ist **Rezeption**, nicht die Bedeutung des Griechischen. Die TT, dem redaktionellen Protokoll P-009 folgend, gibt die Stelle treu wieder (die Unterordnung der Sklaven, den „verkehrten" Herrn, das ungerechte Leiden, den Messias als *hypogrammos*), hält die Auslegungsgeschichte hier und in Tier-2 fest und **bezieht im Haupttext keine Position** zur Institution — sie weder gutheißend (was die Stelle nicht tut) noch eine moderne Abolitions-Ethik in einen Text des ersten Jahrhunderts zurücklesend (Regel 3, Zurückhaltung in beide Richtungen). Die Anmerkung zu 2,18 und §C1 liefern die sozialen Tatsachen; dieser Eintrag liefert die Gebrauchsgeschichte; der Vers sagt nur, was er sagt.
+Diese ganze Geschichte ist **Rezeption**, nicht die Bedeutung des Griechischen. Die TT gibt die Stelle treu wieder (die Unterordnung der Sklaven, den „verkehrten" Herrn, das ungerechte Leiden, den Messias als *hypogrammos*), hält die Auslegungsgeschichte hier und in den Anmerkungen fest und **bezieht im Haupttext keine Position** zur Institution — sie weder gutheißend (was die Stelle nicht tut) noch eine moderne Abolitions-Ethik in einen Text des ersten Jahrhunderts zurücklesend (Regel 3, Zurückhaltung in beide Richtungen). Die Anmerkung zu 2,18 und §C1 liefern die sozialen Tatsachen; dieser Eintrag liefert die Gebrauchsgeschichte; der Vers sagt nur, was er sagt.
 
 **Quelle:** Glancy, J.A., *Slavery in Early Christianity*, Oxford University Press, 2002, S. 102-156; Harrill, J.A., *Slaves in the New Testament*, Fortress Press, 2006, S. 165-192; Callahan, A.D., Horsley, R.A., und Smith, A. (Hrsg.), *Slavery in Text and Interpretation* (Semeia 83/84), Society of Biblical Literature, 1998.
 
@@ -255,44 +255,9 @@ Der Messias wird der „Hirte und **Aufseher** (**ἐπίσκοπος**, *episko
 
 ---
 
-## H. Konsultierte Quellen
-
-| Quelle | Typ | Verwendet in Abschnitten |
-|--------|------|-----------------|
-| Achtemeier, P.J., *1 Peter*, Hermeneia, 1996 | PEER-REVIEWED (commentary) | A |
-| Balch, D.L., *Let Wives Be Submissive*, 1981 | PEER-REVIEWED (monograph) | B |
-| Bauer, W., *A Greek-English Lexicon of the NT* (BDAG), 3. Aufl., 2000 | PEER-REVIEWED (lexicon) | A, D |
-| Bradley, K.R., *Slavery and Society at Rome*, 1994 | PEER-REVIEWED (monograph) | C |
-| Callahan, Horsley, und Smith (Hrsg.), *Slavery in Text and Interpretation*, 1998 | PEER-REVIEWED (collection) | F |
-| Elliott, J.H., *The Elect and the Holy*, 1966 | PEER-REVIEWED (monograph) | F |
-| Elliott, J.H., *A Home for the Homeless*, 2. Aufl., 1990 | PEER-REVIEWED (monograph) | C |
-| Elliott, J.H., *1 Peter*, Anchor Bible 37B, 2000 | PEER-REVIEWED (commentary) | B, C, D, F |
-| Feldmeier, R., *Die Christen als Fremde*, 1992 | PEER-REVIEWED (monograph) | C |
-| Gärtner, B., *The Temple and the Community in Qumran and the NT*, 1965 | PEER-REVIEWED (monograph) | B |
-| Glancy, J.A., *Slavery in Early Christianity*, 2002 | PEER-REVIEWED (monograph) | F |
-| Harrill, J.A., *Slaves in the New Testament*, 2006 | PEER-REVIEWED (monograph) | C, F |
-| Hatch, E. und Redpath, H.A., *A Concordance to the Septuagint*, 2. Aufl., 1998 | PEER-REVIEWED (reference) | D |
-| Justin Martyr, *Dialogue with Trypho*, in *Ante-Nicene Fathers* Bd. 1 | PRIMARY (ancient text) | F |
-| Liddell und Scott, *Greek-English Lexicon*, 9. Aufl. | PEER-REVIEWED (lexicon) | A, D |
-| Lindars, B., *New Testament Apologetic*, 1961 | PEER-REVIEWED (monograph) | B |
-| Luther, M., *To the Christian Nobility* (1520), *Luther's Works* Bd. 44, 1966 | PRIMARY (text) | F |
-| McKelvey, R.J., „Christ the Cornerstone", *NTS* 8 (1962) | PEER-REVIEWED (article) | D |
-| Michaels, J.R., *1 Peter*, Word Biblical Commentary 49, 1988 | PEER-REVIEWED (commentary) | A, D |
-| Millar, F., *The Emperor in the Roman World*, 2. Aufl., 1992 | PEER-REVIEWED (monograph) | C |
-| Nestle-Aland, *Novum Testamentum Graece*, 28. Aufl. | PRIMARY | A, D, G |
-| Plinius der Jüngere, *Briefe*, Loeb Classical Library | PRIMARY (ancient text) | C |
-| Price, S.R.F., *Rituals and Power*, 1984 | PEER-REVIEWED (monograph) | C, I |
-| Schutter, W.L., *Hermeneutic and Composition in 1 Peter*, 1989 | PEER-REVIEWED (monograph) | A |
-| Soulen, R.K., *The God of Israel and Christian Theology*, 1996 | PEER-REVIEWED (monograph) | F |
-| Suetonius, *Lives of the Caesars* (*Claudius*), Loeb Classical Library | PRIMARY (ancient text) | G |
-| Vermes, G., *The Complete Dead Sea Scrolls in English*, rev. Aufl., 2011 | PRIMARY (text collection) | B |
-| Winter, B.W., *Seek the Welfare of the City*, 1994 | PEER-REVIEWED (monograph) | C, I |
-
----
-
 ## I. Die Welt zur damaligen Zeit
 
-> **Querverweis:** 1. Petrus richtet sich an verstreute Gläubige in fünf Provinzen Kleinasiens (Pontus, Galatien, Kappadokien, Asien, Bithynien — 1,1) in der zweiten Hälfte des 1. Jahrhunderts n. Chr. Für den weiteren römisch-kaiserlichen Schauplatz der Zeit siehe das Johannes-1-Begleitmaterial (Abschnitt I, `en/john/study/CHAPTER-1-CONTEXT.md`). Anders als die Begleitmaterialien zu den Evangelien/zur Apostelgeschichte ist die Welt, die für 1. Petrus 2 zählt, **die Welt der Empfänger** — der griechisch-römische Hausstand, die Ehre/Schande-Kultur, die Sklaverei und die kaiserliche Ordnung — nicht die Welt einer judäischen Erzählung. Die folgenden Einträge behandeln diese spezifischen Schauplätze. Zwei Szenarien werden durch den sozialen Standpunkt unterschieden, den die Anweisungen des Kapitels voraussetzen.
+> **Querverweis:** 1. Petrus richtet sich an verstreute Gläubige in fünf Provinzen Kleinasiens (Pontus, Galatien, Kappadokien, Asien, Bithynien — 1,1) in der zweiten Hälfte des 1. Jahrhunderts n. Chr. Für den weiteren römisch-kaiserlichen Schauplatz der Zeit siehe das Begleitmaterial zu Johannes 1 (Vertiefen), Abschnitt I. Anders als die Begleitmaterialien zu den Evangelien/zur Apostelgeschichte ist die Welt, die für 1. Petrus 2 zählt, **die Welt der Empfänger** — der griechisch-römische Hausstand, die Ehre/Schande-Kultur, die Sklaverei und die kaiserliche Ordnung — nicht die Welt einer judäischen Erzählung. Die folgenden Einträge behandeln diese spezifischen Schauplätze. Zwei Szenarien werden durch den sozialen Standpunkt unterschieden, den die Anweisungen des Kapitels voraussetzen.
 
 ---
 
@@ -346,7 +311,41 @@ Die Selbstbeschreibung „Beisassen und Fremdlinge" (*paroikoi kai parepidēmoi*
 
 ---
 
+## H. Konsultierte Quellen
+
+| Quelle | Typ | Verwendet in Abschnitten |
+|--------|------|-----------------|
+| Achtemeier, P.J., *1 Peter*, Hermeneia, 1996 | PEER-REVIEWED (commentary) | A |
+| Balch, D.L., *Let Wives Be Submissive*, 1981 | PEER-REVIEWED (monograph) | B |
+| Bauer, W., *A Greek-English Lexicon of the NT* (BDAG), 3. Aufl., 2000 | PEER-REVIEWED (lexicon) | A, D |
+| Bradley, K.R., *Slavery and Society at Rome*, 1994 | PEER-REVIEWED (monograph) | C |
+| Callahan, Horsley, und Smith (Hrsg.), *Slavery in Text and Interpretation*, 1998 | PEER-REVIEWED (collection) | F |
+| Elliott, J.H., *1 Peter*, Anchor Bible 37B, 2000 | PEER-REVIEWED (commentary) | B, C, D, F |
+| Elliott, J.H., *A Home for the Homeless*, 2. Aufl., 1990 | PEER-REVIEWED (monograph) | C |
+| Elliott, J.H., *The Elect and the Holy*, 1966 | PEER-REVIEWED (monograph) | F |
+| Feldmeier, R., *Die Christen als Fremde*, 1992 | PEER-REVIEWED (monograph) | C |
+| Glancy, J.A., *Slavery in Early Christianity*, 2002 | PEER-REVIEWED (monograph) | F |
+| Gärtner, B., *The Temple and the Community in Qumran and the NT*, 1965 | PEER-REVIEWED (monograph) | B |
+| Harrill, J.A., *Slaves in the New Testament*, 2006 | PEER-REVIEWED (monograph) | C, F |
+| Hatch, E. und Redpath, H.A., *A Concordance to the Septuagint*, 2. Aufl., 1998 | PEER-REVIEWED (reference) | D |
+| Justin Martyr, *Dialogue with Trypho*, in *Ante-Nicene Fathers* Bd. 1 | PRIMARY (ancient text) | F |
+| Liddell und Scott, *Greek-English Lexicon*, 9. Aufl. | PEER-REVIEWED (lexicon) | A, D |
+| Lindars, B., *New Testament Apologetic*, 1961 | PEER-REVIEWED (monograph) | B |
+| Luther, M., *To the Christian Nobility* (1520), *Luther's Works* Bd. 44, 1966 | PRIMARY (text) | F |
+| McKelvey, R.J., „Christ the Cornerstone", *NTS* 8 (1962) | PEER-REVIEWED (article) | D |
+| Michaels, J.R., *1 Peter*, Word Biblical Commentary 49, 1988 | PEER-REVIEWED (commentary) | A, D |
+| Millar, F., *The Emperor in the Roman World*, 2. Aufl., 1992 | PEER-REVIEWED (monograph) | C |
+| Nestle-Aland, *Novum Testamentum Graece*, 28. Aufl. | PRIMARY | A, D, G |
+| Plinius der Jüngere, *Briefe*, Loeb Classical Library | PRIMARY (ancient text) | C |
+| Price, S.R.F., *Rituals and Power*, 1984 | PEER-REVIEWED (monograph) | C, I |
+| Schutter, W.L., *Hermeneutic and Composition in 1 Peter*, 1989 | PEER-REVIEWED (monograph) | A |
+| Soulen, R.K., *The God of Israel and Christian Theology*, 1996 | PEER-REVIEWED (monograph) | F |
+| Suetonius, *Lives of the Caesars* (*Claudius*), Loeb Classical Library | PRIMARY (ancient text) | G |
+| Vermes, G., *The Complete Dead Sea Scrolls in English*, rev. Aufl., 2011 | PRIMARY (text collection) | B |
+| Winter, B.W., *Seek the Welfare of the City*, 1994 | PEER-REVIEWED (monograph) | C, I |
+
+---
+
+
 **Redaktionelle Herkunft:**
-- Entworfen von: KI (Claude, Anthropic)
-- Datum: 2026-06-26
-- Begutachtet von: ausstehend
+- KI-gestützter Entwurf, noch nicht geprüft.

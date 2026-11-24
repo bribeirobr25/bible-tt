@@ -173,7 +173,7 @@ Der griechische Text des Lukas wurde durch dieselbe Handschriftentradition wie d
 ### E2. Bemerkenswerte Varianten innerhalb der Kapitel 1–3
 **[TEXTUELL — VERIFIZIERT]**
 
-Die Anfangskapitel enthalten mehrere Varianten, die die Bedeutsamkeitsschwelle von RULES-GS erreichen und in den Kapitelanmerkungen behandelt werden:
+Die Anfangskapitel enthalten mehrere Varianten, die die Bedeutsamkeitsschwelle der TT erreichen und in den Kapitelanmerkungen behandelt werden:
 
 - **1,46** — „**Maria** sprach" (das Magnificat) wird von einigen altlateinischen Zeugen als „**Elisabet** sprach" gelesen. Das überwältigende Handschriftenzeugnis liest „Maria"; die Minderheitslesart wird vermerkt, nicht übernommen.
 - **2,14** — „Friede unter den Menschen **des Wohlgefallens / an denen er Wohlgefallen hat**" (*eudokias*, Genitiv: א*, A, B*, D, W — die frühere Lesart) gegenüber „Friede, Wohlgefallen **gegenüber** den Menschen" (*eudokia*, Nominativ: byzantinisch). Der Genitiv ist der kritische Text; der Unterschied dreht sich um einen einzigen Endbuchstaben.
@@ -222,17 +222,17 @@ Gemäß der TT-Politik zur Namenswiedergabe erscheint das erste Vorkommen eines 
 ### F3. Die Lobgesänge
 **[TEXTUELL — VERIFIZIERT]**
 
-Lukas 1–2 enthält vier Lieder, die nach ihren lateinischen Anfangsworten bekannt geworden sind: das **Magnificat** (Miryam (Maria), 1,46–55), das **Benedictus** (Zekharyah (Zacharias), 1,68–79), die **Gloria** (das himmlische Heer, 2,14) und das **Nunc Dimittis** (Shimon (Simeon), 2,29–32). Alle vier sind durchtränkt von Septuaginta-Sprache (das Magnificat widerhallt besonders den Lobgesang Hannas, 1 Samuel 2,1–10). Dies ist **menschliche** Rede — Lieder Marias, Zacharias', des himmlischen Heeres und Simeons — und wird daher **nicht** als göttliche Rede unter Regel 30 gekennzeichnet. Nach der etablierten TT-Konvention (Redaktionslog L-002) werden sie als fließende Prosa wiedergegeben statt als zeilengebrochene Poesie; die visuelle Zeilengliederung wird mit der umfassenderen Frage der hebräischen Poesie aufgeschoben.
+Lukas 1–2 enthält vier Lieder, die nach ihren lateinischen Anfangsworten bekannt geworden sind: das **Magnificat** (Miryam (Maria), 1,46–55), das **Benedictus** (Zekharyah (Zacharias), 1,68–79), die **Gloria** (das himmlische Heer, 2,14) und das **Nunc Dimittis** (Shimon (Simeon), 2,29–32). Alle vier sind durchtränkt von Septuaginta-Sprache (das Magnificat widerhallt besonders den Lobgesang Hannas, 1 Samuel 2,1–10). Dies ist **menschliche** Rede — Lieder Marias, Zacharias', des himmlischen Heeres und Simeons — und wird daher **nicht** als göttliche Rede unter Regel 30 gekennzeichnet. Nach der etablierten TT-Konvention werden sie als fließende Prosa wiedergegeben statt als zeilengebrochene Poesie; die visuelle Zeilengliederung wird mit der umfassenderen Frage der hebräischen Poesie aufgeschoben.
 
 ### F4. Direkte göttliche Rede (Regel 30)
 **[TEXTUELL — VERIFIZIERT]**
 
-Die TT kennzeichnet die direkte Rede Gottes und Jesus' (Yeshua) mit einer eigenen Farbe. Innerhalb von Lukas 1–3 umfasst dies die göttliche Stimme bei der Eintauchung (3,22 — „Du bist mein geliebter Sohn; an dir habe ich Wohlgefallen") und die Aussprüche Jesus' (z. B. 2,49, „Wusstet ihr nicht, dass ich in dem sein muss, was meines Vaters…?"). Die Rede **Gavriels (Gabriel)** — eines engelhaften Boten (1,13–20; 1,28–37) — wird **nicht** gekennzeichnet, im Einklang mit dem Präzedenzfall von Matthäus/Markus für engelhafte Sprecher (Redaktionslog L-001). Die Lobgesänge, die Rede Elisabets (Elisheva), Zacharias' (Zekharyah), Simeons (Shimon) und der Menge werden ebenso nicht als göttlich gekennzeichnet.
+Die TT kennzeichnet die direkte Rede Gottes und Jesus' (Yeshua) mit einer eigenen Farbe. Innerhalb von Lukas 1–3 umfasst dies die göttliche Stimme bei der Eintauchung (3,22 — „Du bist mein geliebter Sohn; an dir habe ich Wohlgefallen") und die Aussprüche Jesus' (z. B. 2,49, „Wusstet ihr nicht, dass ich in dem sein muss, was meines Vaters…?"). Die Rede **Gavriels (Gabriel)** — eines engelhaften Boten (1,13–20; 1,28–37) — wird **nicht** gekennzeichnet, im Einklang mit dem Präzedenzfall von Matthäus/Markus für engelhafte Sprecher. Die Lobgesänge, die Rede Elisabets (Elisheva), Zacharias' (Zekharyah), Simeons (Shimon) und der Menge werden ebenso nicht als göttlich gekennzeichnet.
 
 ### F5. Kyrios — Gottesname-Politik in Lukas
 **[TEXTUELL — VERIFIZIERT]**
 
-Wenn Lukas Stellen der Hebräischen Bibel zitiert oder widerhallt, die das Tetragramm (der vierbuchstabige hebräische Gottesname יהוה, transliteriert JHWH) enthalten, verwendet der griechische Text κύριος (*kyrios*). Gemäß der TT-Gottesname-Politik (Option C, RULES-GS.md):
+Wenn Lukas Stellen der Hebräischen Bibel zitiert oder widerhallt, die das Tetragramm (der vierbuchstabige hebräische Gottesname יהוה, transliteriert JHWH) enthalten, verwendet der griechische Text κύριος (*kyrios*). Gemäß der TT-Gottesname-Politik (Option C):
 
 - Der Haupttext gibt *kyrios* als „der Herr" in Kontexten alttestamentlicher Zitate und AT-Anklänge wieder.
 - Eine Anmerkung identifiziert die Quelle und stellt fest, dass das zugrundeliegende Hebräische das Tetragramm hat.
@@ -252,9 +252,9 @@ Dies ist besonders relevant in den Lobgesängen und der Geburtserzählung, die d
 | 3 | Keine importierte Theologie | Die Geburtserzählung und die Lobgesänge werden übersetzt, wie der Text sie präsentiert — ohne spätere marianische Theologie zu importieren und ohne die Erzählung abzutun. Zurückhaltung in beide Richtungen. |
 | 11 | Grammatische Zusätze kennzeichnen | Für deutsche Grammatik hinzugefügte Wörter erscheinen kursiv. |
 | 13 | Unsicherheitsstufen | Umstrittene Begriffe und genealogische Fragen tragen Vertrauenskennzeichnungen (Wahrscheinlich / Möglich / Unsicher). |
-| 14 | Wortspiele Annotieren | Wichtige griechische Begriffe (z. B. *asphaleia*, *eudokia*) in Stufe 2 annotiert, wo das semantische Feld bedeutsam ist. |
-| 22 | Textkritische Zurückhaltung | Varianten (1,46 Maria/Elisabet; 2,14 *eudokias*/*eudokia*; 3,22 „heute habe ich dich gezeugt") in Stufe 2 vermerkt, ohne stillschweigende Übernahme. |
-| 25 | Politik des Göttlichen Namens — GS wendet Option C an | κύριος als „der Herr" in AT-Zitats-/Anklangskontexten wiedergegeben, mit Stufe-2-Anmerkung, die JHWH im zugrundeliegenden Hebräischen identifiziert. Siehe F5. |
+| 14 | Wortspiele Annotieren | Wichtige griechische Begriffe (z. B. *asphaleia*, *eudokia*) in den Anmerkungen annotiert, wo das semantische Feld bedeutsam ist. |
+| 22 | Textkritische Zurückhaltung | Varianten (1,46 Maria/Elisabet; 2,14 *eudokias*/*eudokia*; 3,22 „heute habe ich dich gezeugt") in den Anmerkungen vermerkt, ohne stillschweigende Übernahme. |
+| 25 | Politik des Göttlichen Namens — GS wendet Option C an | κύριος als „der Herr" in AT-Zitats-/Anklangskontexten wiedergegeben, mit einer Anmerkung, die JHWH im zugrundeliegenden Hebräischen identifiziert. Siehe F5. |
 | 30 | Kennzeichnung göttlicher Rede | Die Stimme Gottes (3,22) und die Rede Jesus' werden gekennzeichnet; Gavriel (Gabriel) und die Lobgesänge nicht. Siehe F4. |
 
 ---
@@ -272,4 +272,4 @@ Dies ist besonders relevant in den Lobgesängen und der Geburtserzählung, die d
 
 ---
 
-> **Redaktionelle Herkunft:** Entworfen von Claude Opus 4.8 (1M Kontext) am 2026-06-23. Noch nicht begutachtet. Diese Einführung ist eine provisorische wissenschaftliche Ressource, geregelt durch TT-Regel 29. Alle Behauptungen tragen doppelte Kennzeichnungen; keine Behauptung sollte als die theologische oder kompositorische Position der TT gelesen werden. Die TT übersetzt den griechischen Text (NA28) und übernimmt keine bestimmte Theorie der Verfasserschaft oder Abfassung.
+> **Redaktionelle Herkunft:** KI-gestützter Entwurf, noch nicht geprüft. Diese Einführung ist eine provisorische wissenschaftliche Ressource, geregelt durch TT-Regel 29. Alle Behauptungen tragen doppelte Kennzeichnungen; keine Behauptung sollte als die theologische oder kompositorische Position der TT gelesen werden. Die TT übersetzt den griechischen Text (NA28) und übernimmt keine bestimmte Theorie der Verfasserschaft oder Abfassung.

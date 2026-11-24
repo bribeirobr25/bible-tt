@@ -92,7 +92,7 @@ This *is* the book of the generations of Adam. In the day God created *a* human,
 > - **סֵפֶר תּוֹלְדֹת אָדָם** (*sefer toledot Adam*) = "the book of the generations of Adam." Second *toledot* marker in Genesis (first at 2:4). This one adds **סֵפֶר** (*sefer*, "book/document") — the only *toledot* with this prefix. Signals a structured written record.
 >
 > 🔴 **CRITICAL — ADAM IS NOW PROPER NAME**
-> - **אָדָם** (*Adam*) — anarthrous (no article), genealogical context. Proper name locked from this verse forward (per editorial-log entry 081). The same verse then uses "human" (*adam*) generically in the creation-recall phrase: "in the day God created *a* human."
+> - **אָדָם** (*Adam*) — anarthrous (no article), genealogical context. Proper name locked from this verse forward. The same verse then uses "human" (*adam*) generically in the creation-recall phrase: "in the day God created *a* human."
 >
 > 🔵 **IMAGE/LIKENESS RECALLED**
 > - "In the likeness of God he made him" — echoes Gen 1:26–27. Uses *demut* (likeness) and *asah* (made). Cross-reference to v.3 where the language inverts: Adam begets Shet (Seth) "in his likeness, according to his image."
@@ -120,7 +120,7 @@ And Adam lived one hundred and thirty years, and he begot in his likeness, accor
 > - Gen 1:26–27: God creates human "in our image, according to our likeness." Gen 5:3: Adam begets Seth "in **his** likeness, according to **his** image." The divine-to-human creation language is **chained to human-to-human descent**. The *tselem/demut* pair continues through the generations.
 >
 > 🟢 **130 YEARS**
-> - Gen 2:17 warned "dying you shall die." Gen 3:19 stated "dust you are." Now Adam lives 130 years before Seth — then dies at 930 (v.5). The "in the day" tension (2:17 vs. 5:5) is textually present. Cross-reference to editorial-log entry for *beyom* interpretive options.
+> - Gen 2:17 warned "dying you shall die." Gen 3:19 stated "dust you are." Now Adam lives 130 years before Seth — then dies at 930 (v.5). The "in the day" tension (2:17 vs. 5:5) is textually present. → For the *beyom* interpretive options, see the Genesis 2 study companion (Deeper), Section D4.
 
 ---
 

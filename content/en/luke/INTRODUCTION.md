@@ -173,7 +173,7 @@ The Greek text of Luke was transmitted through the same manuscript tradition as 
 ### E2. Notable variants within chapters 1–3
 **[TEXTUAL — VERIFIED]**
 
-The opening chapters contain several variants that meet the RULES-GS significance threshold and are handled in the chapter notes:
+The opening chapters contain several variants that meet the TT's significance threshold and are handled in the chapter notes:
 
 - **1:46** — "**Mary** said" (the Magnificat) is read by a few Old Latin witnesses as "**Elizabeth** said." The overwhelming manuscript evidence reads "Mary"; the minority reading is noted, not adopted.
 - **2:14** — "peace among people **of good will / with whom he is pleased**" (*eudokias*, genitive: א*, A, B*, D, W — the earlier reading) vs. "peace, good will **toward** people" (*eudokia*, nominative: Byzantine). The genitive is the critical text; the difference turns on a single final letter.
@@ -222,17 +222,17 @@ Per the TT's name-rendering policy, the first occurrence of a name per section a
 ### F3. The canticles
 **[TEXTUAL — VERIFIED]**
 
-Luke 1–2 contains four songs that have become known by their Latin opening words: the **Magnificat** (Miryam (Mary), 1:46–55), the **Benedictus** (Zekharyah (Zechariah), 1:68–79), the **Gloria** (the angelic host, 2:14), and the **Nunc Dimittis** (Shimon (Simeon), 2:29–32). All four are saturated with Septuagint language (the Magnificat especially echoes Hannah's song, 1 Samuel 2:1–10). These are **human** speech — songs of Mary, Zechariah, the angelic host, and Simeon — and so are **not** marked as divine speech under Rule 30. By the established TT convention (editorial log L-002), they are rendered as flowing prose rather than lineated poetry; visual lineation is deferred with the broader Hebrew-poetry question.
+Luke 1–2 contains four songs that have become known by their Latin opening words: the **Magnificat** (Miryam (Mary), 1:46–55), the **Benedictus** (Zekharyah (Zechariah), 1:68–79), the **Gloria** (the angelic host, 2:14), and the **Nunc Dimittis** (Shimon (Simeon), 2:29–32). All four are saturated with Septuagint language (the Magnificat especially echoes Hannah's song, 1 Samuel 2:1–10). These are **human** speech — songs of Mary, Zechariah, the angelic host, and Simeon — and so are **not** marked as divine speech under Rule 30. By the established TT convention, they are rendered as flowing prose rather than lineated poetry; visual lineation is deferred with the broader Hebrew-poetry question.
 
 ### F4. Direct divine speech (Rule 30)
 **[TEXTUAL — VERIFIED]**
 
-The TT marks the direct speech of God and of Yeshua (Jesus) with a distinct colour. Within Luke 1–3 this covers the divine voice at the immersion (3:22 — "You are my beloved son; with you I am well pleased") and the sayings of Yeshua (e.g. 2:49, "Did you not know that I must be about my Father's…?"). The speech of **Gavriel (Gabriel)** — an angelic messenger (1:13–20; 1:28–37) — is **not** marked, consistent with the Matthew/Mark precedent for angelic speakers (editorial log L-001). The canticles, the speech of Elisheva (Elizabeth), Zekharyah (Zechariah), Shimon (Simeon), and the crowd are likewise not divine-marked.
+The TT marks the direct speech of God and of Yeshua (Jesus) with a distinct colour. Within Luke 1–3 this covers the divine voice at the immersion (3:22 — "You are my beloved son; with you I am well pleased") and the sayings of Yeshua (e.g. 2:49, "Did you not know that I must be about my Father's…?"). The speech of **Gavriel (Gabriel)** — an angelic messenger (1:13–20; 1:28–37) — is **not** marked, consistent with the Matthew/Mark precedent for angelic speakers. The canticles, the speech of Elisheva (Elizabeth), Zekharyah (Zechariah), Shimon (Simeon), and the crowd are likewise not divine-marked.
 
 ### F5. Kyrios — Divine Name Policy in Luke
 **[TEXTUAL — VERIFIED]**
 
-When Luke quotes or echoes Hebrew Bible passages containing the Tetragrammaton (the four-letter Hebrew divine name יהוה, transliterated YHWH), the Greek text uses κύριος (*kyrios*). Per the TT's Divine Name Policy (Option C, RULES-GS.md):
+When Luke quotes or echoes Hebrew Bible passages containing the Tetragrammaton (the four-letter Hebrew divine name יהוה, transliterated YHWH), the Greek text uses κύριος (*kyrios*). Per the TT's Divine Name Policy (Option C):
 
 - The main text renders *kyrios* as "the Lord" in OT quotation and OT-echo contexts.
 - A note identifies the source and states that the underlying Hebrew has the Tetragrammaton.
@@ -252,9 +252,9 @@ This is especially relevant in the canticles and infancy narrative, which are de
 | 3 | No imported theology | The infancy narrative and canticles are translated as the text presents them — without importing later Marian theology and without dismissing the narrative. Restraint both ways. |
 | 11 | Mark Grammatical Additions | Words added for English grammar appear in italics. |
 | 13 | Uncertainty Levels | Debated terms and genealogical questions carry confidence labels (Probable / Possible / Uncertain). |
-| 14 | Annotate Wordplay | Key Greek terms (e.g. *asphaleia*, *eudokia*) noted in Tier 2 where semantic range matters. |
-| 22 | Text-Critical Restraint | Variants (1:46 Mary/Elizabeth; 2:14 *eudokias*/*eudokia*; 3:22 "today I have begotten you") noted in Tier 2 without silent adoption. |
-| 25 | Divine Name Policy — GS Option C | κύριος rendered "the Lord" in OT-quotation/echo contexts, with a Tier 2 note identifying YHWH in the underlying Hebrew. See F5. |
+| 14 | Annotate Wordplay | Key Greek terms (e.g. *asphaleia*, *eudokia*) noted in the notes where semantic range matters. |
+| 22 | Text-Critical Restraint | Variants (1:46 Mary/Elizabeth; 2:14 *eudokias*/*eudokia*; 3:22 "today I have begotten you") noted in the notes without silent adoption. |
+| 25 | Divine Name Policy — GS Option C | κύριος rendered "the Lord" in OT-quotation/echo contexts, with a note identifying YHWH in the underlying Hebrew. See F5. |
 | 30 | Divine-speech marking | God's voice (3:22) and Yeshua's speech marked; Gavriel (Gabriel) and the canticles are not. See F4. |
 
 ---
@@ -272,4 +272,4 @@ This is especially relevant in the canticles and infancy narrative, which are de
 
 ---
 
-> **Editorial provenance:** Drafted by Claude Opus 4.8 (1M context) on 2026-06-22. Not yet reviewed. This introduction is a provisional scholarly resource governed by TT Rule 29. All claims carry dual labels; no claim should be read as the TT's theological or compositional position. The TT translates the Greek text (NA28) and does not adopt any particular theory of authorship or composition.
+> **Editorial provenance:** AI-assisted draft, not yet reviewed. This introduction is a provisional scholarly resource governed by TT Rule 29. All claims carry dual labels; no claim should be read as the TT's theological or compositional position. The TT translates the Greek text (NA28) and does not adopt any particular theory of authorship or composition.

@@ -278,14 +278,14 @@ Die folgenden Regeln des TT-Regelwerks (v3.4) haben besondere Bedeutung für das
 | 7 | Parallele Struktur Bewahren | Johanneische Wiederholungsmuster (Licht/Finsternis, Leben/Tod, oben/unten) werden passagenübergreifend bewahrt. |
 | 11 | Grammatische Ergänzungen markieren | Für die deutsche Grammatik ergänzte Wörter erscheinen in Kursivschrift. |
 | 13 | Unsicherheitsstufen | Umstrittene Begriffe und Passagen tragen Vertrauenskennzeichnungen (Wahrscheinlich / Möglich / Unsicher). |
-| 14 | Wortspiele Annotieren | Wichtige griechische Begriffe in Stufe 2 annotiert, wo semantisches Feld oder Wortspiel bedeutsam ist. |
-| 22 | Textkritische Zurückhaltung | Textvarianten (z.B. Johannes 1:18 μονογενὴς θεός vs. μονογενὴς υἱός, Johannes 1:34) in Stufe 2 vermerkt, ohne stillschweigende Übernahme. |
-| 25 | Politik des Göttlichen Namens — GS wendet Option C an | κύριος als „der Herr" in AT-Zitatskontexten wiedergegeben, mit Stufe-2-Anmerkung, die JHWH im zugrundeliegenden Hebräischen identifiziert. Siehe Politik des göttlichen Namens unten. |
+| 14 | Wortspiele Annotieren | Wichtige griechische Begriffe in den Anmerkungen annotiert, wo semantisches Feld oder Wortspiel bedeutsam ist. |
+| 22 | Textkritische Zurückhaltung | Textvarianten (z.B. Johannes 1:18 μονογενὴς θεός vs. μονογενὴς υἱός, Johannes 1:34) in den Anmerkungen vermerkt, ohne stillschweigende Übernahme. |
+| 25 | Politik des Göttlichen Namens — GS wendet Option C an | κύριος als „der Herr" in AT-Zitatskontexten wiedergegeben, mit einer Anmerkung, die JHWH im zugrundeliegenden Hebräischen identifiziert. Siehe Politik des göttlichen Namens unten. |
 
 ### F2. Festes Glossar — Begriffe der Griechischen Schriften, aktiv in Johannes
 **[TEXTUELL — VERIFIZIERT]**
 
-Die folgenden Einträge des festen Glossars aus RULES-GS.md gelten durchgehend im Johannesevangelium:
+Die folgenden Einträge des festen Glossars gelten durchgehend im Johannesevangelium:
 
 | Griechisch | TT-Wiedergabe (DE) | Anmerkungen |
 |-----------|-------------------|-------------|
@@ -293,13 +293,13 @@ Die folgenden Einträge des festen Glossars aus RULES-GS.md gelten durchgehend i
 | χριστός (*Christos*) | Gesalbter | Kleinschreibung als Deskriptor; Großschreibung nur, wenn klar als Eigenname fungierend. Entspricht dem HB מָשִׁיחַ (*Maschiach*). |
 | ἐκκλησία (*Ekklesia*) | Versammlung | Nicht „Kirche" (anachronistische institutionelle Bedeutung). Das Griechische bedeutet „herausgerufene Zusammenkunft." |
 | βάπτισμα (*Baptisma*) | Untertauchen | Nicht transliteriert. Das Griechische hat klaren semantischen Inhalt: „Eintauchen/Untertauchen." |
-| παράκλητος (*Paraklētos*) | Beistand | Bedeutung übersetzen. Semantisches Feld (Tröster/Helfer/Beistand/Herbeigerufener) in Stufe-2-Anmerkungen notieren. Unter den Evangelien einzigartig für Johannes (14:16, 26; 15:26; 16:7). |
+| παράκλητος (*Paraklētos*) | Beistand | Bedeutung übersetzen. Semantisches Feld (Tröster/Helfer/Beistand/Herbeigerufener) in den Anmerkungen notieren. Unter den Evangelien einzigartig für Johannes (14:16, 26; 15:26; 16:7). |
 | κύριος (*Kyrios*) | Kontextabhängig | Bei Zitaten von AT-Passagen mit JHWH: „der Herr" + Anmerkung, die JHWH identifiziert. Sonst: „Herr/Meister." Siehe Politik des göttlichen Namens. |
 
 ### F3. Politik des göttlichen Namens bei Johannes
 **[TEXTUELL — VERIFIZIERT]**
 
-Wenn das Johannesevangelium Passagen der Hebräischen Bibel zitiert oder auf sie anspielt, die das Tetragramm (der vierbuchstabige hebräische Gottesname יהוה, transliteriert JHWH) enthalten, verwendet der griechische Text κύριος (*Kyrios*). Gemäß der Politik des göttlichen Namens der TT (Option C, RULES-GS.md):
+Wenn das Johannesevangelium Passagen der Hebräischen Bibel zitiert oder auf sie anspielt, die das Tetragramm (der vierbuchstabige hebräische Gottesname יהוה, transliteriert JHWH) enthalten, verwendet der griechische Text κύριος (*Kyrios*). Gemäß der Politik des göttlichen Namens der TT (Option C):
 
 - Der Haupttext gibt *Kyrios* als „der Herr" wieder in Kontexten alttestamentlicher Zitate.
 - Eine Anmerkung identifiziert die AT-Quelle und stellt fest, dass das zugrundeliegende Hebräische das Tetragramm enthält.
@@ -377,4 +377,4 @@ Johannes verwendet durchgehend dualistische Kontraste — Licht/Finsternis, oben
 
 ---
 
-> **Redaktionelle Herkunft:** Erstellt von Claude Opus 4.6 (1M Kontext) am 27.04.2026. Noch nicht überprüft. Diese Einleitung ist eine provisorische wissenschaftliche Ressource, geregelt durch TT-Regel 29. Alle Aussagen tragen doppelte Kennzeichnungen; keine Aussage sollte als theologische oder kompositorische Position der TT gelesen werden. Die TT übersetzt den griechischen Text (NA28) und übernimmt keine bestimmte Theorie der Verfasserschaft oder Entstehung.
+> **Redaktionelle Herkunft:** KI-gestützter Entwurf, noch nicht geprüft. Diese Einleitung ist eine provisorische wissenschaftliche Ressource, geregelt durch TT-Regel 29. Alle Aussagen tragen doppelte Kennzeichnungen; keine Aussage sollte als theologische oder kompositorische Position der TT gelesen werden. Die TT übersetzt den griechischen Text (NA28) und übernimmt keine bestimmte Theorie der Verfasserschaft oder Entstehung.

@@ -66,7 +66,7 @@ Das Rätseln der Menge, „ob er vielleicht **der Gesalbte** sein könnte" (3,15
 ### A4. *Hōs enomizeto*, der Eigentümer der Genealogie und der Aufstieg über Abraham hinaus bis zu Adam
 **[TEXTUELL — VERIFIZIERT (für die Einschränkung); MÖGLICHE SCHLUSSFOLGERUNG — MÖGLICH (für den Eigentümer der Linie und die universale Lesart)]**
 
-Die Genealogie eröffnet mit einer Einschränkung: Yeshua war ein Sohn „**ὡς ἐνομίζετο** (*hōs enomizeto*), wie man meinte, Yosefs (Josef)" (3,23), was die biologische Vaterschaft qualifiziert — Jesus wurde *rechtlich* als Sohn Josefs *gerechnet* (vgl. 1,34-35). Der genaue syntaktische Umfang der Einschiebung und ob die folgende Liste Josefs Linie oder (nach einem antiken und modernen Vorschlag) Marias über Eli ist, ist umstritten. Die TT bewahrt die Einschränkung, ohne den Eigentümer aufzulösen. → siehe `luke/PEOPLE.md`.
+Die Genealogie eröffnet mit einer Einschränkung: Yeshua war ein Sohn „**ὡς ἐνομίζετο** (*hōs enomizeto*), wie man meinte, Yosefs (Josef)" (3,23), was die biologische Vaterschaft qualifiziert — Jesus wurde *rechtlich* als Sohn Josefs *gerechnet* (vgl. 1,34-35). Der genaue syntaktische Umfang der Einschiebung und ob die folgende Liste Josefs Linie oder (nach einem antiken und modernen Vorschlag) Marias über Eli ist, ist umstritten. Die TT bewahrt die Einschränkung, ohne den Eigentümer aufzulösen. → siehe die Seite Personen und Genealogie zu Lukas.
 
 Die Genealogie **steigt** dann **auf** (Sohn des… Sohn des…) und läuft **über Abraham hinaus** (3,34) — wo Matthäus bei Abraham, der Bundeswurzel Israels, aufhört — durch die Linie Schems bis „**Adams, Gottes**" (3,38). Dieselbe Genitivkette, die jede Generation verbindet, bindet nun Adam an Gott und rahmt Yeshuas Sohnschaft (3,22) gegen Adams Sohnschaft-durch-Schöpfung (Gen 1,27; 5,1). **[STARKE SCHLUSSFOLGERUNG — WAHRSCHEINLICH]** Der universale Aufstieg beantwortet den „alles Fleisch"-Horizont von V.6. → Für den lexikalischen/theologischen Höhepunkt siehe §D2.
 
@@ -163,7 +163,7 @@ Eine bemerkenswerte **westliche** Lesart (Codex Bezae [D], einige altlateinische
 
 Die Genealogie des Lukas weicht scharf von der des Matthäus ab, am strukturellsten am davidischen Zweig: **Lukas führt die Linie über Davids Sohn Natan** (3,31; vgl. 2 Sam 5,14; Sach 12,12), während **Matthäus über Schelomoh (Salomo)** führt (Mt 1,6). Auch die Generation unmittelbar über Josef unterscheidet sich (Lukas: „des Eli"; Matthäus: „Jakob zeugte Josef"), und die beiden Listen teilen nur wenige Namen (insbesondere Serubbabel/Schealtiel) über die nachexilische Strecke. Lukas' Liste enthält auch einen zweiten **Qenan** (3,36), der in der LXX von Genesis 11,12-13 vorhanden, aber im hebräischen masoretischen Text abwesend ist; und in 3,33 liest NA28 Admin/Arni, wo andere Zeugen „Aram" lesen.
 
-Vorgeschlagene Harmonisierungen — Lukas gibt Marias Linie; Leviratsehe, die zwei Väter hervorbringt; rechtliche vs. biologische Abstammung — sind alle umstritten, und keine gebietet Konsens. Die TT gibt Lukas' Liste so wieder, wie das Griechische sie gibt, und kennzeichnet die Abweichung zur Überprüfung. Die vollständige Tabelle und die buchübergreifenden Verweis-Stubs leben in `luke/PEOPLE.md`. **[historisch — MÖGLICH]**
+Vorgeschlagene Harmonisierungen — Lukas gibt Marias Linie; Leviratsehe, die zwei Väter hervorbringt; rechtliche vs. biologische Abstammung — sind alle umstritten, und keine gebietet Konsens. Die TT gibt Lukas' Liste so wieder, wie das Griechische sie gibt, und kennzeichnet die Abweichung zur Überprüfung. Die vollständige Tabelle und die Querverweise auf andere Bücher finden sich auf der Seite Personen und Genealogie zu Lukas. **[historisch — MÖGLICH]**
 
 **Quelle:** Marshall, I.H., *The Gospel of Luke*, NIGTC, Eerdmans, 1978, S. 157-165; Bauckham, R., *Jude and the Relatives of Jesus in the Early Church*, T&T Clark, 1990, S. 315-373.
 
@@ -219,7 +219,7 @@ Wo Matthäus' Genealogie von Abraham zu Jesus *absteigt* (Mt 1,1-17), *steigt* L
 
 ## I. Die Welt zur damaligen Zeit
 
-> **Querverweis:** Für den vollständigen Weltkontext in zwei Szenarien mit zehn Kategorien (Politik, Wirtschaft, Alltagsleben, Gesellschaftsstruktur, Bildung, Militär, Kunst, Wissenschaft, Religion, Nachbarvölker) siehe das Johannes-1-Begleitmaterial (Abschnitt I, `de/john/study/CHAPTER-1-CONTEXT.md`). Lukas und Johannes teilen denselben allgemeinen historischen Zeitraum; der Abschnitt zu Johannes 1 bietet die Grundlage. Die folgenden Einträge befassen sich mit den in Lukas 3 in den Vordergrund tretenden spezifischen Umständen.
+> **Querverweis:** Für den vollständigen Weltkontext in zwei Szenarien mit zehn Kategorien (Politik, Wirtschaft, Alltagsleben, Gesellschaftsstruktur, Bildung, Militär, Kunst, Wissenschaft, Religion, Nachbarvölker) siehe das Begleitmaterial zu Johannes 1 (Vertiefen), Abschnitt I. Lukas und Johannes teilen denselben allgemeinen historischen Zeitraum; der Abschnitt zu Johannes 1 bietet die Grundlage. Die folgenden Einträge befassen sich mit den in Lukas 3 in den Vordergrund tretenden spezifischen Umständen.
 
 ---
 
@@ -309,6 +309,4 @@ Nach 70 n. Chr., ohne Tempel und ohne Opfersühne, wurde die Frage, wie Sünden 
 ---
 
 **Redaktionelle Herkunft:**
-- Entworfen von: KI (Claude, Anthropic)
-- Datum: 2026-06-23
-- Begutachtet von: ausstehend
+- KI-gestützter Entwurf, noch nicht geprüft.

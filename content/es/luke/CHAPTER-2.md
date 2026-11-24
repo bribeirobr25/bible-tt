@@ -22,7 +22,7 @@
 - [Lectura Continua](#lectura-continua)
 - [Estudio Versículo por Versículo](#estudio-versículo-por-versículo)
 - [Glosario — Lucas 2](#glosario---lucas-2)
-- [Seguimiento entre Capítulos (BH -> Lucas)](#seguimiento-entre-capítulos-bh---lucas)
+- [Seguimiento entre Capítulos (BH → Lucas)](#seguimiento-entre-capítulos-bh---lucas)
 
 ---
 
@@ -37,7 +37,7 @@
 
 Las notas se etiquetan por tipo — **Crítico · Léxico · Gramatical · Teológico** — cada una con su color (vea la leyenda en la parte superior de la vista de Notas).
 
-**Lucas 2 es el capítulo de la natividad.** Un decreto de censo de César Augusto, bajo Quirino, trae a Yosef y a la encinta Miryam de Natzeret a Beit-Lechem, la ciudad de David (vv.1-5); allí Yeshua nace y es acostado en un comedero de animales, "porque no había lugar para ellos en el *kataluma*" (vv.6-7). Mensajeros anuncian el nacimiento a los pastores, y la hueste celestial canta la Gloria (vv.8-20). Al octavo día el niño es circuncidado y nombrado; es presentado en el templo en Yerushalayim, donde Shimon lo recibe y canta el Nunc Dimittis, luego habla a Miryam (vv.21-35), y la profetisa Channah da gracias (vv.36-38). La familia regresa a Natzeret y el niño crece (vv.39-40). A los doce años, el niño Yeshua permanece en el templo y es hallado entre los maestros; sus palabras a sus padres son el único dicho registrado de su juventud (vv.41-52). **Nota sobre la marcación del habla (Regla 30):** el mensajero y la hueste celestial (la Gloria, vv.13-14) son de la clase *angelos* — su habla NO está marcada como divina. Las palabras de Shimon y de Channah son *humanas* — no marcadas. Solo el dicho del niño Yeshua (v.49) está marcado como divino. Los dos cánticos (Gloria, Nunc Dimittis) son habla *humana/angélica* presentada como prosa fluida. Los nombres propios siguen la transliteración TT: Yeshua (no Jesús), Miryam (no María), Yosef (no José), Beit-Lechem (no Belén), Natzeret (no Nazaret), Yerushalayim (no Jerusalén), Shimon (no Simeón), Channah (no Ana).
+**Lucas 2 es el capítulo de la natividad.** Un decreto de censo de César Augusto, bajo Quirino, trae a Yosef y a la encinta Miryam de Natzeret a Beit-Lechem, la ciudad de David (vv.1-5); allí Yeshua nace y es acostado en un comedero de animales, "porque no había lugar para ellos en el *kataluma*" (vv.6-7). Mensajeros anuncian el nacimiento a los pastores, y la hueste celestial canta la Gloria (vv.8-20). Al octavo día el niño es circuncidado y nombrado; es presentado en el templo en Yerushalayim, donde Shimon lo recibe y canta el Nunc Dimittis, luego habla a Miryam (vv.21-35), y la profetisa Channah da gracias (vv.36-38). La familia regresa a Natzeret y el niño crece (vv.39-40). A los doce años, el niño Yeshua permanece en el templo y es hallado entre los maestros; sus palabras a sus padres son el único dicho registrado de su juventud (vv.41-52). **Nota sobre la marcación del habla (Regla 30):** el mensajero y la hueste celestial (la Gloria, vv.13-14) son de la clase *angelos* — su habla NO está marcada como divina. Las palabras de Shimon y de Channah son *humanas* — no marcadas. Solo el dicho del niño Yeshua (v.49) está marcado como divino. Los dos cánticos (Gloria, Nunc Dimittis) son habla *humana/angélica* presentada como prosa fluida. Los nombres aparecen en su forma familiar, con la forma de la lengua original indicada una vez por sección — p. ej., Miryam (María).
 
 ---
 
@@ -212,7 +212,7 @@ Y el mensajero les dijo: "No teman; pues miren, les traigo buena noticia de un g
 > **Notas**
 >
 > 🔴 **CRÍTICO — EL HABLA DEL MENSAJERO NO MARCADA COMO DIVINA (REGLA 30)**
-> - El anuncio del mensajero (vv.10-12) está presentado en comillas ordinarias, NO con los marcadores @@…@@ de habla divina. Según la decisión editorial (luke.md L-001) y el precedente de Mateo/Marcos, un *angelos* es un mensajero, no Dios; solo el habla directa de Dios o del viento/espíritu santo está marcada. La TT no colapsa el habla del mensajero en habla divina.
+> - El anuncio del mensajero (vv.10-12) está presentado en comillas ordinarias, NO marcado como habla divina (en rojo). Según el precedente de Mateo/Marcos, un *angelos* es un mensajero, no Dios; solo el habla directa de Dios o del viento/espíritu santo está marcada. La TT no colapsa el habla del mensajero en habla divina.
 >
 > 🟢 **"OS TRAIGO BUENA NOTICIA… GRAN GOZO" — *EUANGELIZOMAI… CHARAN MEGALĒN***
 > - **εὐαγγελίζομαι ὑμῖν χαρὰν μεγάλην** (*euangelizomai hymin charan megalēn*) = "les traigo buena noticia de un gran gozo." El verbo (cognado con *euangelion*) y la palabra clave "gozo" se vinculan de nuevo con 1:14, 1:44, 1:47. **παντὶ τῷ λαῷ** (*panti tō laō*, "para todo el pueblo") — *laos* es Israel como pueblo de Dios; el alcance más amplio a "las naciones" emerge en el cántico de Simeón (v.32).
@@ -248,7 +248,7 @@ Y de repente *hubo* con el mensajero una multitud de *la* hueste celestial, alab
 > **Notas**
 >
 > 🔴 **CRÍTICO — LA HUESTE CELESTIAL: CLASE *ANGELOS*, NO MARCADA COMO DIVINA (REGLA 30)**
-> - **πλῆθος στρατιᾶς οὐρανίου** (*plēthos stratias ouraniou*) = "una multitud de *la* hueste/ejército celestial." *Stratia ourania* es el ejército angélico (cf. 1 Re 22:19; Sal 103:21 LXX). Su cántico (la Gloria, v.14) es habla de la clase *angelos* y por tanto NO está marcada como divina, exactamente como las palabras del mensajero individual. → vea luke.md L-001.
+> - **πλῆθος στρατιᾶς οὐρανίου** (*plēthos stratias ouraniou*) = "una multitud de *la* hueste/ejército celestial." *Stratia ourania* es el ejército angélico (cf. 1 Re 22:19; Sal 103:21 LXX). Su cántico (la Gloria, v.14) es habla de la clase *angelos* y por tanto NO está marcada como divina, exactamente como las palabras del mensajero individual.
 
 ---
 
@@ -262,7 +262,7 @@ Y de repente *hubo* con el mensajero una multitud de *la* hueste celestial, alab
 > - **δόξα ἐν ὑψίστοις θεῷ καὶ ἐπὶ γῆς εἰρήνη ἐν ἀνθρώποις εὐδοκίας** (*doxa en hypsistois theō kai epi gēs eirēnē en anthrōpois eudokias*) = "Gloria en *las* alturas a Dios, y en la tierra paz entre las personas de buena voluntad/favor." El NA28 lee el **genitivo εὐδοκίας** (*eudokias*) — "paz entre las personas *de (su) favor/beneplácito*," es decir, aquellos sobre quienes descansa el favor de Dios (una construcción semítica, cf. Qumrán "hijos de *(del)* beneplácito"). La antigua "buena voluntad para con los hombres" descansa sobre una variante **nominativa εὐδοκία** (*eudokia*). La TT sigue el genitivo y traduce "personas de *su* favor," supliendo *su* en cursiva, y señala el caso como una crux conocida. Note también que esto es un dístico de dos líneas ("gloria… paz"), no tres. → Para *eudokia(s)* y la decisión textual, vea el Compañero §D3. **[crítica-textual / léxico — PROBABLE]**
 >
 > 🟢 **REGLA 30 — LA GLORIA NO MARCADA COMO DIVINA; PRESENTADA COMO PROSA**
-> - La Gloria es el cántico de la *hueste celestial* (v.13), un hablante de la clase *angelos* — por tanto NO marcada con @@…@@. Como cántico está compuesta como prosa fluida (luke.md L-002), sin saltos de línea. *Hypsistois* ("las *alturas* más altas") hace eco de *hypsistos* ("Altísimo") del capítulo 1.
+> - La Gloria es el cántico de la *hueste celestial* (v.13), un hablante de la clase *angelos* — por tanto NO marcada como habla divina (en rojo). Como cántico está compuesta como prosa fluida, sin saltos de línea. *Hypsistois* ("las *alturas* más altas") hace eco de *hypsistos* ("Altísimo") del capítulo 1.
 
 ---
 
@@ -437,7 +437,7 @@ Y vino en el {a:viento/espíritu} al templo; y cuando los padres trajeron al ni�
 > **Notas**
 >
 > 🔴 **CRÍTICO — EL NUNC DIMITTIS (vv.29-32): HABLA HUMANA, PRESENTADA COMO PROSA**
-> - **νῦν ἀπολύεις τὸν δοῦλόν σου, δέσποτα, κατὰ τὸ ῥῆμά σου ἐν εἰρήνῃ** (*nyn apolyeis ton doulon sou, despota, kata to rhēma sou en eirēnē*) = "Ahora liberas a tu esclavo, Soberano, según tu palabra, en paz." El cántico de Simeón es habla **humana** (Regla 30) — NO marcada como divina — y, como cántico, compuesto como prosa fluida (luke.md L-002). **δεσπότης** (*despotēs*, "Amo, dueño soberano") es la forma de dirigirse a Dios aquí (no *kyrios*); la TT traduce "Soberano." *Apolyō* ("liberar, dejar ir") hace eco del campo léxico de "liberación" (cf. *aphesis*, 1:77); un dueño-de-esclavos despide a su siervo. → Para la estructura del Nunc Dimittis, vea el compañero PROFECÍA. **[teológico — PROBABLE]**
+> - **νῦν ἀπολύεις τὸν δοῦλόν σου, δέσποτα, κατὰ τὸ ῥῆμά σου ἐν εἰρήνῃ** (*nyn apolyeis ton doulon sou, despota, kata to rhēma sou en eirēnē*) = "Ahora liberas a tu esclavo, Soberano, según tu palabra, en paz." El cántico de Simeón es habla **humana** (Regla 30) — NO marcada como divina — y, como cántico, compuesto como prosa fluida. **δεσπότης** (*despotēs*, "Amo, dueño soberano") es la forma de dirigirse a Dios aquí (no *kyrios*); la TT traduce "Soberano." *Apolyō* ("liberar, dejar ir") hace eco del campo léxico de "liberación" (cf. *aphesis*, 1:77); un dueño-de-esclavos despide a su siervo. → Para la estructura del Nunc Dimittis, vea el compañero PROFECÍA. **[teológico — PROBABLE]**
 
 ---
 
@@ -660,7 +660,7 @@ Y él les dijo: @@"¿Por qué *es* que me buscabais? ¿No sabíais que debo esta
 > **Notas**
 >
 > 🔴 **CRÍTICO — *EN TOIS TOU PATROS MOU* — EL ÚNICO DICHO MARCADO COMO DIVINO (REGLA 30) + CRUX**
-> - **οὐκ ᾔδειτε ὅτι ἐν τοῖς τοῦ πατρός μου δεῖ εἶναί με;** (*ouk ēdeite hoti en tois tou patros mou dei einai me?*) = "¿no sabíais que debo estar en las *cosas* de mi Padre?" La frase **ἐν τοῖς τοῦ πατρός μου** es elíptica — un artículo definido sin sustantivo — de modo que puede significar "en la **casa** de mi Padre" (supliendo *oikō*/*oikia*) o "en los **asuntos/negocios** de mi Padre" (supliendo *pragmasin*) o "entre el **pueblo** de mi Padre." La TT traduce el desnudo "en las *cosas* de mi Padre" con *cosas* en cursiva, manteniendo visible la elipsis, y señala esto como una crux conocida. El dicho es el primer habla registrada de Yeshua y la primera afirmación de una filiación divina que silenciosamente anula "tu padre" (v.48). **Según la Regla 30, el habla directa de Yeshua está marcada como divina con @@…@@** — el único tramo de este tipo en el capítulo. **δεῖ** (*dei*, "es necesario / debo") es la palabra clave de Lucas para la necesidad divina. → Para *en tois tou patros mou* y el *dei* de la necesidad, vea el Compañero §D5. **[léxico-gramatical — PROBABLE]**
+> - **οὐκ ᾔδειτε ὅτι ἐν τοῖς τοῦ πατρός μου δεῖ εἶναί με;** (*ouk ēdeite hoti en tois tou patros mou dei einai me?*) = "¿no sabíais que debo estar en las *cosas* de mi Padre?" La frase **ἐν τοῖς τοῦ πατρός μου** es elíptica — un artículo definido sin sustantivo — de modo que puede significar "en la **casa** de mi Padre" (supliendo *oikō*/*oikia*) o "en los **asuntos/negocios** de mi Padre" (supliendo *pragmasin*) o "entre el **pueblo** de mi Padre." La TT traduce el desnudo "en las *cosas* de mi Padre" con *cosas* en cursiva, manteniendo visible la elipsis, y señala esto como una crux conocida. El dicho es el primer habla registrada de Yeshua y la primera afirmación de una filiación divina que silenciosamente anula "tu padre" (v.48). **Según la Regla 30, el habla directa de Yeshua está marcada como habla divina (en rojo)** — el único tramo de este tipo en el capítulo. **δεῖ** (*dei*, "es necesario / debo") es la palabra clave de Lucas para la necesidad divina. → Para *en tois tou patros mou* y el *dei* de la necesidad, vea el Compañero §D5. **[léxico-gramatical — PROBABLE]**
 
 ---
 
@@ -721,9 +721,9 @@ Y Yeshua (Jesús) avanzó en sabiduría y estatura y favor con Dios y *las* pers
 
 ---
 
-## SEGUIMIENTO ENTRE CAPÍTULOS (BH -> Lucas)
+## SEGUIMIENTO ENTRE CAPÍTULOS (BH → Lucas)
 
-**1 Sm 16 / Miq 5:1 -> Lucas 2:4-11 — Beit-Lechem (Belén), David, y los pastores:**
+**1 Sm 16 / Miq 5:1 → Lucas 2:4-11 — Beit-Lechem (Belén), David, y los pastores:**
 
 | Elemento | 1 Samuel 16 / Miqueas 5 | Lucas 2 |
 |----------|--------------------------|---------|
@@ -733,7 +733,7 @@ Y Yeshua (Jesús) avanzó en sabiduría y estatura y favor con Dios y *las* pers
 
 La natividad une el lugar de nacimiento, la descendencia davídica, y los testigos pastores con la profecía de Belén y con David, el rey-pastor de Israel.
 
-**Éx 13:2, 12-15 / Lv 12 -> Lucas 2:22-24 — el primogénito y la ofrenda de la persona pobre:**
+**Éx 13:2, 12-15 / Lv 12 → Lucas 2:22-24 — el primogénito y la ofrenda de la persona pobre:**
 
 | Elemento | Éxodo / Levítico | Lucas 2 |
 |----------|------------------|---------|
@@ -743,7 +743,7 @@ La natividad une el lugar de nacimiento, la descendencia davídica, y los testig
 
 La presentación observa la Torá exactamente y, a través de la ofrenda de aves, marca silenciosamente la pobreza de la familia.
 
-**Isa 40:1-5 / 42:6 / 49:6 / 52:9-10 -> Lucas 2:25-38 — consolación, salvación vista, luz a las naciones:**
+**Isa 40:1-5 / 42:6 / 49:6 / 52:9-10 → Lucas 2:25-38 — consolación, salvación vista, luz a las naciones:**
 
 | Elemento | Isaías | Lucas 2 (Simeón / Ana) |
 |----------|--------|------------------------|
@@ -754,7 +754,7 @@ La presentación observa la Torá exactamente y, a través de la ofrenda de aves
 
 Simeón y Ana expresan la esperanza isaiana de consuelo y salvación, ahora extendida explícitamente a las naciones junto con Israel.
 
-**1 Sm 2:26 / Jue 13:24 -> Lucas 2:40, 52 — la fórmula-de-crecimiento:**
+**1 Sm 2:26 / Jue 13:24 → Lucas 2:40, 52 — la fórmula-de-crecimiento:**
 
 | Elemento | 1 Samuel / Jueces | Lucas 2 |
 |----------|-------------------|---------|

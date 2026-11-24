@@ -19,7 +19,7 @@ Total: **30 rules**. Content: the chapter `Methodology:` lines were re-stamped t
 
 ## v3.4.1 (2026-11-20) — Launch-Program corrections
 
-**Amendment type:** re-opening (RULES-CORE §Amendment & Lock Protocol). The 14-day window was not applied: the lead approved the decisions that require these amendments. Treating that as a waiver is the assistant's reading of D2/D13, reported to the lead. Items marked **†** are assistant decisions under D13, pending lead confirmation. Proposal and impact assessment: `docs/rules/proposals/v3.4.1-launch-corrections.md`.
+**Amendment type:** re-opening (RULES-CORE §Amendment & Lock Protocol). The 14-day window was not applied: the lead approved the decisions that require these amendments. Treating that as a waiver was the assistant's reading of D2/D13; items marked **†** were assistant decisions under D13. Both were confirmed by the lead on 2026-11-20 (see Dated addenda). Proposal and impact assessment: `docs/rules/proposals/v3.4.1-launch-corrections.md`.
 **Rationale:** the rule text had to state the lead's Launch-Program decisions before the content batches apply them (`docs/audit/LAUNCH_PROGRAM.md` D7–D10; `docs/audit/CONTENT_SWEEP_FINDINGS.md` §3 L1, L4, L5, L6).
 **Signed-off verses affected:** none (all content is provisional). Content stamps stay **v3.4**.
 
@@ -29,7 +29,7 @@ Total: **30 rules**. Content: the chapter `Methodology:` lines were re-stamped t
 |---|---|---|
 | §I3 Glossary terms never yield | modification (D7) | ψυχή / bare נֶפֶשׁ = the pair life/being · vida/ser · Leben/Wesen · vida/ser; the context selects the member, and a Rule 2 slash is used only where both senses are live. (Was "soul/being", which contradicted the GS lock.) נֶפֶשׁ חַיָּה = living being(s). |
 | §I3 scope of a lock + Rule 1 pointer | addition (L4) | A lock governs the rendering and any TT-voice sentence restating it; genre and reception uses keep their forms. |
-| Rule 20 titular nouns | modification (D8) | "son of man" is lowercase in all body text, notes and companions included; quotations of other works and reception-history mentions are excepted; headings keep heading case; DE is exempt. Other titular nouns in notes: unchanged, open lead question. |
+| Rule 20 titular nouns | modification (D8) | "son of man" is lowercase in all body text, notes and companions included; quotations of other works and reception-history mentions are excepted; headings keep heading case; DE is exempt. Extended to all titular nouns by the lead on 2026-11-20 (Dated addenda). |
 | Name exceptions | correction (D9) | "Yehudim (DE Jehudim)". |
 | Rule 30 + marker table | correction (D10) | `@@` renders red and not bold; `{a:}` renders bold in the body colour (not ochre). The table now follows `globals.css`. |
 | Rule 11 | addition (L1) | Contraction clause: any preposition + article contraction — the whole contraction is italic (`*na*`, `*im*`, `*del*`); never a doubled article. The marker-table row gains the `*na* carne` example. |
@@ -64,5 +64,7 @@ Total: **30 rules**. Content: the chapter `Methodology:` lines were re-stamped t
 ---
 
 ## Dated addenda
+
+- **2026-11-20 (lead answers to the batch-2 questions):** Rule 20 — lowercase in body text, notes included, extends from "son of man" (D8) to **all titular nouns**; the Rule 28 per-batch record, the 4-locale plain statement and the omitted vendor name, and the not-applied 14-day window are **confirmed** (the † items in the proposal). Content applied in Step 4 batch 4.
 
 *Later Step-4 batches append rule-table edits here: batch 4 (glossary rows, labels, Genesis nephesh deviations), batch 5 (D11 proper-name tables).*

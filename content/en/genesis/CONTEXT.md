@@ -21,7 +21,7 @@ The Hebrew word *toledot* (תּוֹלְדוֹת, "generations" / "begettings") o
 
 The variants matter. Genesis 5:1 prefaces *toledot* with *sefer* ("this is the BOOK of the generations of Adam") — a unique framing that signals genealogy-as-document. Genesis 6:9 attaches *toledot* to Noach but immediately opens a flood narrative rather than a genealogy, showing that *toledot* introduces "what came of X," not strictly "X's descendants." Genesis 11:10 and 11:27 give two *toledot* formulas back-to-back, narrowing the focus from Shem's many descendants to the specific line that produces Avram.
 
-The TT preserves *toledot* as a transliteration rather than rendering it uniformly as "generations" or "history," because the formula is a structural marker the reader is meant to recognize as a recurring signal. The `transliteration-decisions.md` editorial log records the project-level decision to keep *toledot* visible across all four locales.
+The TT preserves *toledot* as a transliteration rather than rendering it uniformly as "generations" or "history," because the formula is a structural marker the reader is meant to recognize as a recurring signal. The decision applies project-wide, keeping *toledot* visible across all four locales.
 
 **Source:** Westermann, C., *Genesis 1–11: A Commentary*, trans. Scullion, Augsburg, 1984, esp. ch. on the *toledot* structure.
 
@@ -34,7 +34,7 @@ The TT preserves *toledot* as a transliteration rather than rendering it uniform
 
 The narrative of Genesis 1–12 alternates between *Elohim* (אֱלֹהִים, "God"), *YHWH* (יהוה, the personal name), and the compound *YHWH Elohim* (יהוה אֱלֹהִים, "YHWH God"). Genesis 1 uses *Elohim* exclusively. Genesis 2–3 uses the compound *YHWH Elohim* almost exclusively — except inside the serpent–woman dialogue, where the speakers use plain *Elohim*, never the compound. Genesis 4 introduces *YHWH* as the human-address name when the line of Seth begins to "call on the name of YHWH" (4:26). Genesis 6 alternates by speaker and by clause-function, and Genesis 7:16 has *Elohim* commanding the entrance to the ark and *YHWH* shutting the door behind Noach.
 
-Modern source criticism originally derived from this alternation, but the TT treats the patterning as **a feature of the text as we have it**, regardless of compositional hypotheses. The serpent's choice to say only "Elohim" (3:1–5) — never *YHWH Elohim* — appears in the text as a deliberate dialogue marker; the editorial-log entry on Genesis 3 explicitly mandates that this distinction NOT be normalized.
+Modern source criticism originally derived from this alternation, but the TT treats the patterning as **a feature of the text as we have it**, regardless of compositional hypotheses. The serpent's choice to say only "Elohim" (3:1–5) — never *YHWH Elohim* — appears in the text as a deliberate dialogue marker; the TT does NOT normalize this distinction.
 
 The TT renders *YHWH* consonantally across all four locales (EN/PT *YHWH*; DE *JHWH* using the German J-for-yod convention; ES *YHWH*) rather than substituting "the Lord" / "der Herr" / "el Señor" — preserving the name's distinctness from *Elohim* on the page. The alternation is therefore visible at every occurrence, and the reader can track the patterning chapter-by-chapter.
 
@@ -66,7 +66,7 @@ Within Genesis 1–11 the eastward direction is the geography of displacement. G
 
 The chain self-references: Genesis 4:16's "east of Eden" recalls 3:24's "east of the garden of Eden" with the same Hebrew preposition *miqqedem*. The chapter companion for Genesis 4 (§A9) explicitly names the pattern as "east as exile — pattern continues."
 
-Genesis 12 inverts the chain. Avram (Abraham) is called to travel **from** the east (Ur Kasdim, Charan) **to** the west (Canaan). The geographic direction of his call reverses the post-Eden geographic motion — the easternmost outsider (Avram, born in Ur) is summoned westward to the land where Eden once was. Whether the editor of Genesis intended this inversion is debated (the editorial decision is not explicitly logged in any TT editorial-log entry); the textual pattern is observable regardless of authorial intent.
+Genesis 12 inverts the chain. Avram (Abraham) is called to travel **from** the east (Ur Kasdim, Charan) **to** the west (Canaan). The geographic direction of his call reverses the post-Eden geographic motion — the easternmost outsider (Avram, born in Ur) is summoned westward to the land where Eden once was. Whether the editor of Genesis intended this inversion is debated; the textual pattern is observable regardless of authorial intent.
 
 **Source:** Sailhamer, J.H., *The Pentateuch as Narrative*, Zondervan, 1992, on the geographic structure of Gen 1–12.
 
@@ -81,9 +81,9 @@ The Hebrew pair *tselem* (צֶלֶם, "image") and *demut* (דְּמוּת, "lik
 
 Genesis 1:26–27 establishes the divine-to-human direction: "let us make humans in our *tselem*, according to our *demut*" — God makes humans in God's image. The verbs are creation verbs (*asah*, *bara*); the relationship runs downward from heaven to earth.
 
-Genesis 5:1–3 then immediately inverts the polarity. Verse 1 restates the original: "in the *demut* of God he made him." But verse 3 says of Adam begetting Seth: "and he begat in his own *demut*, according to his own *tselem*." The same word-pair now describes Adam → Seth — a parent-to-child human-to-human direction. The chapter companion editorial-log explicitly added a cross-reference here as a "reviewer-requested cross-chapter echo" that was originally missed.
+Genesis 5:1–3 then immediately inverts the polarity. Verse 1 restates the original: "in the *demut* of God he made him." But verse 3 says of Adam begetting Seth: "and he begat in his own *demut*, according to his own *tselem*." The same word-pair now describes Adam → Seth — a parent-to-child human-to-human direction.
 
-Genesis 9:6 brings the chain to a legal-theological climax: "whoever sheds the blood of a human, by a human his blood shall be shed, for in the *tselem* of God he made the human." The image of God survives the flood and grounds the post-flood prohibition against homicide. The editorial-log on Gen 9 explicitly tracks "*tselem* (image) survives the flood" as the continuity claim.
+Genesis 9:6 brings the chain to a legal-theological climax: "whoever sheds the blood of a human, by a human his blood shall be shed, for in the *tselem* of God he made the human." The image of God survives the flood and grounds the post-flood prohibition against homicide.
 
 Three chapters, three different functions: ontological grounding (Gen 1), generational transmission with polarity-inversion (Gen 5), and legal foundation for the human-blood-sanctity rule (Gen 9). The TT preserves both terms with their original spellings and parenthetical glosses on first occurrence to keep the chain visible.
 
@@ -100,9 +100,9 @@ For the related-but-distinct phenomenon of preserved grammatical / syntactic amb
 
 Genesis is saturated with wordplay — phonetic and semantic puns where the narrative uses two distinct words whose sounds or roots invite a deliberate connection. The TT applies Rule 14 (Wordplay Annotation) across the entire book to flag each instance without forcing the target language to reproduce the sonic pun (which is usually untranslatable).
 
-The catalogue of in-scope wordplays: *adam* / *adamah* (2:7 — human from ground); *arum* / *arom* (2:25 → 3:1 — naked / crafty — a chapter-bridging pun that the editorial-log explicitly preserves with a forward-reference note); *Chava* / *chay* (3:20 — "living" — explained at Chava's naming); *qol* (3:8 — voice / sound, deliberately ambiguous); *Qayin* / *qanah* (4:1 — "I have GOTTEN a man"); *Hevel* (4:2 — "vapor / breath," foreshadowing his fate); *Nacham* / *Noach* (5:29 — "comfort," explaining Noach's name in advance of the flood); *kopher* / *kippur* (6:14 — pitch and atonement, the sound-bridge at the ark's construction); the four-fold N-W-CH root saturation across Genesis 8 (*Noach*, *tanach* "rested," *manoach* "resting place," *nichoach* "pleasing aroma"); and *Babel* / *balal* (11:9 — "Babel" as "the LORD confused").
+The catalogue of in-scope wordplays: *adam* / *adamah* (2:7 — human from ground); *arum* / *arom* (2:25 → 3:1 — naked / crafty — a chapter-bridging pun that the TT preserves with a forward-reference note); *Chava* / *chay* (3:20 — "living" — explained at Chava's naming); *qol* (3:8 — voice / sound, deliberately ambiguous); *Qayin* / *qanah* (4:1 — "I have GOTTEN a man"); *Hevel* (4:2 — "vapor / breath," foreshadowing his fate); *Nacham* / *Noach* (5:29 — "comfort," explaining Noach's name in advance of the flood); *kopher* / *kippur* (6:14 — pitch and atonement, the sound-bridge at the ark's construction); the four-fold N-W-CH root saturation across Genesis 8 (*Noach*, *tanach* "rested," *manoach* "resting place," *nichoach* "pleasing aroma"); and *Babel* / *balal* (11:9 — "Babel" as "the LORD confused").
 
-The motif is project-policy: Rule 14 mandates wordplay annotation in all four locales. The editorial-log records individual decisions (transliterate *Chava* as *Chava* in Transparent Edition, preserve *adam*/*adamah* sonic link via a note since the pairing "human/ground" loses the sound). Read across chapters, the wordplay catalogue is one of Genesis's most consistent literary-design features.
+The motif is project-policy: Rule 14 mandates wordplay annotation in all four locales. Individual decisions follow from it (transliterate *Chava* as *Chava* in Transparent Edition, preserve *adam*/*adamah* sonic link via a note since the pairing "human/ground" loses the sound). Read across chapters, the wordplay catalogue is one of Genesis's most consistent literary-design features.
 
 **Source:** Alter, R., *The Five Books of Moses: A Translation with Commentary*, Norton, 2004, esp. introduction on Hebrew wordplay.
 
@@ -117,7 +117,7 @@ For the related-but-distinct phenomenon of phonetic / semantic wordplay, see G-M
 
 Where G-M6 covers two-distinct-words-that-sound-alike, this motif covers single-linguistic-forms-that-support-multiple-readings. Rule 2 (Preserve Ambiguity) mandates the TT not resolve grammatical or syntactic indeterminacy when the source text leaves it open. Within Genesis 1–12 the in-scope cases:
 
-**Genesis 3:5** *ke-elohim* — "like Elohim" / "like gods" — grammatically singular OR plural; the serpent's promise is genuinely ambiguous between "you will be like God" and "you will be like (the lower) gods." The TT preserves both readings via a Tier 2 note.
+**Genesis 3:5** *ke-elohim* — "like Elohim" / "like gods" — grammatically singular OR plural; the serpent's promise is genuinely ambiguous between "you will be like God" and "you will be like (the lower) gods." The TT preserves both readings via a note.
 
 **Genesis 3:15** "her seed" (*zar'ah*) — grammatically a singular collective; "he shall bruise your head" could be a single descendant or a collective progeny. Christian tradition reads singular; Jewish tradition reads collective; the Hebrew supports both.
 
@@ -150,7 +150,7 @@ Genesis 11:7 has the three *havah* ("come, let us") — divine-plural decision p
 
 Genesis 12:1 then opens the Avraham narrative with three ascending separations: "from your land, from your kindred, from your father's house." The three are arranged from widest (geography) to narrowest (immediate family), each step a costlier loss. The triadic pattern across 9–12 is too consistent to be incidental; whether the editor intended a structural unity is debated, but the pattern is observable.
 
-The Phase 8 Section I work tracks the ethnogenesis schema (gen/9 I-A10) and Table of Nations (gen/10 I-A10) under their own I-N entries; this motif entry consolidates the cross-chapter structural pattern rather than re-treating the period context.
+The Genesis 9 and Genesis 10 study companions (Deeper), Section I, treat the ethnogenesis schema and the Table of Nations in their own entries; this motif entry consolidates the cross-chapter structural pattern rather than re-treating the period context.
 
 **Source:** Fokkelman, J.P., *Narrative Art in Genesis*, Van Gorcum, 1975, on triadic patterning.
 
@@ -163,8 +163,8 @@ The Phase 8 Section I work tracks the ethnogenesis schema (gen/9 I-A10) and Tabl
 
 Three times in Genesis 1–11 the deity speaks in the first-person plural: Genesis 1:26 ("let us make humans in our image"), Genesis 3:22 ("the human has become like one of us"), Genesis 11:7 ("come, let us go down and confuse their language"). The three together form one of the most theologically charged textual patterns in the book.
 
-The Hebrew supports multiple interpretations: a royal-majestic plural (the deity speaks as a sovereign), a council of divine beings (heavenly assembly, *sod*), an intra-divine plurality (a precursor of trinitarian readings), or a self-deliberation rhetorical form. The reception history is enormous: rabbinic interpretation typically reads the council option; Christian interpretation typically reads the intra-divine option; modern scholarship is divided. The TT preserves the plural across all four locales rather than smoothing it to a singular ("I will make humans") and adds Tier 2 notes flagging the interpretive options.
+The Hebrew supports multiple interpretations: a royal-majestic plural (the deity speaks as a sovereign), a council of divine beings (heavenly assembly, *sod*), an intra-divine plurality (a precursor of trinitarian readings), or a self-deliberation rhetorical form. The reception history is enormous: rabbinic interpretation typically reads the council option; Christian interpretation typically reads the intra-divine option; modern scholarship is divided. The TT preserves the plural across all four locales rather than smoothing it to a singular ("I will make humans") and adds notes flagging the interpretive options.
 
-The editorial-log records a specific cross-chapter decision: "Added NARRATIVE RESONANCE note at Gen 3:22. Explicitly links YHWH Elohim's 'like one of us' (3:22) to the serpent's prediction 'you shall be like God/gods' (3:5)" — both clauses use *ke-elohim* / *ke'achad mimmennu*. The TT explicitly notes the textual tension without resolving whether the serpent spoke truth. Read together, the three "let us" passages are a deliberate Hebrew-narrative thread that the editor leaves the reader to make sense of — the TT does the same.
+A NARRATIVE RESONANCE note at Gen 3:22 explicitly links YHWH Elohim's "like one of us" (3:22) to the serpent's prediction "you shall be like God/gods" (3:5) — both clauses use *ke-elohim* / *ke'achad mimmennu*. The TT explicitly notes the textual tension without resolving whether the serpent spoke truth. Read together, the three "let us" passages are a deliberate Hebrew-narrative thread that the editor leaves the reader to make sense of — the TT does the same.
 
 **Source:** Levenson, J.D., *Creation and the Persistence of Evil*, Princeton University Press, 1994, on the divine council and the plural cohortatives in Genesis.

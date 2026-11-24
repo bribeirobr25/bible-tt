@@ -92,7 +92,7 @@ And all the land was *of* one lip and one *set of* words.
 
 > **NOTES**
 >
-> 🟡 **TIER 2 — RECEPTION NOTE**
+> 🟡 **RECEPTION NOTE**
 > - The Babel narrative should not be read as a blanket condemnation of technology, urban civilization, or linguistic diversity. See companion Section F for historical context on documented misreadings.
 >
 > 🔴 **CRITICAL — "ONE LIP" (*saphah echat*)**

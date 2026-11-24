@@ -18,19 +18,19 @@ Este archivo presenta información biográfica sobre figuras que aparecen en Mar
 
 ## Yeshua (Jesús)
 **Ver:** matthew/PEOPLE.md
-**En Marcos:** La figura central desde la primera línea — "la buena noticia de Yeshua el ungido, hijo de Dios" (1:1). Inmerso por Yochanan, con el viento/espíritu descendiendo y la voz "Tú eres mi hijo, el amado" (1:9–11); impulsado al desierto, probado por el Satán (1:12–13). Proclama "el reino de Dios se ha acercado" (1:15), llama a los primeros discípulos (1:16–20), enseña y exorciza con autoridad (1:21–28), sana y se retira a orar (1:35). Reclama autoridad para perdonar pecados (2:1–12), come con pecadores (2:13–17), y declara al Hijo del Hombre "señor incluso del sábado" (2:28). Sana en sábado provocando el primer complot de muerte (3:1–6), nombra a los Doce (3:13–19), responde a la acusación de Beelzevul (3:22–30), y redefine la familia en torno a la voluntad de Dios (3:31–35). Los campos de biografía canónica (nacimiento, padres, profesión, muerte por crucifixión) viven en matthew/PEOPLE.md; esta entrada añade el papel narrativo específico de Marcos.
+**En Marcos:** La figura central desde la primera línea — "la buena noticia de Yeshua el ungido, hijo de Dios" (1:1). Inmerso por Yochanan, con el viento/espíritu descendiendo y la voz "Tú eres mi hijo, el amado" (1:9–11); impulsado al desierto, probado por el Satán (1:12–13). Proclama "el reino de Dios se ha acercado" (1:15), llama a los primeros discípulos (1:16–20), enseña y exorciza con autoridad (1:21–28), sana y se retira a orar (1:35). Reclama autoridad para perdonar pecados (2:1–12), come con pecadores (2:13–17), y declara al Hijo del Hombre "señor incluso del sábado" (2:28). Sana en sábado provocando el primer complot de muerte (3:1–6), nombra a los Doce (3:13–19), responde a la acusación de Beelzevul (3:22–30), y redefine la familia en torno a la voluntad de Dios (3:31–35). Los campos de biografía canónica (nacimiento, padres, profesión, muerte por crucifixión) viven en la página Personas y Genealogía de Mateo; esta entrada añade el papel narrativo específico de Marcos.
 
 ---
 
 ## Yochanan el Inmersor (Juan el Bautista)
 **Ver:** matthew/PEOPLE.md
-**En Marcos:** El heraldo del desierto que abre el Evangelio — el "mensajero" profetizado que prepara el camino (1:2–3), inmergiendo en el Yarden (Jordán) y proclamando "una inmersión de cambio de mente hacia la liberación de los pecados" (1:4–8). Vestido como Eliyahu (1:6), anuncia a uno más fuerte que viene que inmergirá "en viento/espíritu santo." Inmerge a Yeshua (1:9); su ser "entregado" marca el inicio de la proclamación galilea de Yeshua (1:14). El ayuno de sus discípulos provoca una controversia (2:18). Los campos de biografía canónica (linaje, estilo de vida, muerte bajo Antipas) viven en matthew/PEOPLE.md; esta entrada añade el papel específico de Marcos.
+**En Marcos:** El heraldo del desierto que abre el Evangelio — el "mensajero" profetizado que prepara el camino (1:2–3), inmergiendo en el Yarden (Jordán) y proclamando "una inmersión de cambio de mente hacia la liberación de los pecados" (1:4–8). Vestido como Eliyahu (1:6), anuncia a uno más fuerte que viene que inmergirá "en viento/espíritu santo." Inmerge a Yeshua (1:9); su ser "entregado" marca el inicio de la proclamación galilea de Yeshua (1:14). El ayuno de sus discípulos provoca una controversia (2:18). Los campos de biografía canónica (linaje, estilo de vida, muerte bajo Antipas) viven en la página Personas y Genealogía de Mateo; esta entrada añade el papel específico de Marcos.
 
 ---
 
 ## Miryam (María)
 **Ver:** matthew/PEOPLE.md
-**En Marcos:** Aparece en Marcos 1–3 solo como "su madre," sin nombrar, en la escena familiar de 3:31–35 — ella y los hermanos de Yeshua están "afuera" y mandan a buscarlo, y Yeshua redefine el parentesco en torno a "quien haga la voluntad de Dios." Marcos la nombra "Miryam (María)" solo más adelante (6:3). Los campos de biografía canónica viven en matthew/PEOPLE.md; esta entrada añade el papel específico de Marcos.
+**En Marcos:** Aparece en Marcos 1–3 solo como "su madre," sin nombrar, en la escena familiar de 3:31–35 — ella y los hermanos de Yeshua están "afuera" y mandan a buscarlo, y Yeshua redefine el parentesco en torno a "quien haga la voluntad de Dios." Marcos la nombra "Miryam (María)" solo más adelante (6:3). Los campos de biografía canónica viven en la página Personas y Genealogía de Mateo; esta entrada añade el papel específico de Marcos.
 
 ---
 
@@ -225,6 +225,4 @@ Este archivo presenta información biográfica sobre figuras que aparecen en Mar
 ---
 
 **Procedencia editorial:**
-- Redactado por: IA (Claude, Anthropic)
-- Fecha: 2026-06-18
-- Revisado por: pendiente
+- Borrador asistido por IA, aún no revisado.

@@ -183,7 +183,7 @@ Jeder Pharao in der Genesis bleibt namenlos: der Pharao aus Abrams Ägyptenaufen
 
 ## I. Die Welt zur damaligen Zeit
 
-> **Querverweis:** Für den vollständigen Welt-Kontext (vier Szenarien, zehn Kategorien — Politik, Wirtschaft, Alltagsleben, Sozialstruktur, Bildung, Militär, Kunst, Wissenschaft, Religion, Nachbarvölker), siehe den Genesis-1-Begleitkommentar (Abschnitt I, `de/genesis/study/CHAPTER-1-CONTEXT.md`). Die folgenden Einträge behandeln die historischen Umstände, die in Genesis 12 spezifisch hervorgehoben werden — pastoraler Nomadismus, Landgabe-Bündnisse in der altorientalischen Rechtstradition, die bei Nuzi und andernorts belegten Frau-Schwester-Bräuche, Ägypten als Ziel levantinischer Migranten und Altarbau als Praxis territorialer und religiöser Anspruchserhebung.
+> **Querverweis:** Für den vollständigen Welt-Kontext (vier Szenarien, zehn Kategorien — Politik, Wirtschaft, Alltagsleben, Sozialstruktur, Bildung, Militär, Kunst, Wissenschaft, Religion, Nachbarvölker), siehe das Begleitmaterial zu Genesis 1 (Vertiefen), Abschnitt I. Die folgenden Einträge behandeln die historischen Umstände, die in Genesis 12 spezifisch hervorgehoben werden — pastoraler Nomadismus, Landgabe-Bündnisse in der altorientalischen Rechtstradition, die bei Nuzi und andernorts belegten Frau-Schwester-Bräuche, Ägypten als Ziel levantinischer Migranten und Altarbau als Praxis territorialer und religiöser Anspruchserhebung.
 
 ---
 
@@ -280,6 +280,4 @@ Hellenistische Herrscher erhoben Universalansprüche: Alexander wurde als Sohn d
 ---
 
 **Redaktionelle Herkunft:**
-- Verfasst von: Claude Opus 4.6 (KI-Assistent)
-- Datum: 2026-04-27
-- Geprüft von: ausstehend
+- KI-gestützter Entwurf, noch nicht geprüft.

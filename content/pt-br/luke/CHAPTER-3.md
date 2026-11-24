@@ -22,7 +22,7 @@
 - [Leitura Contínua](#leitura-contínua)
 - [Estudo Verso a Verso](#estudo-verso-a-verso)
 - [Glossário — Lucas 3](#glossário---lucas-3)
-- [Rastreamento entre Capítulos (BH -> Lucas)](#rastreamento-entre-capítulos-bh---lucas)
+- [Rastreamento entre Capítulos (BH → Lucas)](#rastreamento-entre-capítulos-bh---lucas)
 
 ---
 
@@ -37,7 +37,7 @@
 
 As notas são marcadas por tipo — **Crítico · Lexical · Gramatical · Teológico** — cada uma com sua cor (veja a legenda no topo da visão de Notas).
 
-**Este capítulo abre o ministério público.** Lucas 3 data o aparecimento de Yochanan (João) por um sêxtuplo sincronismo de governantes (vv.1-2) — o enquadramento cronológico mais preciso dos Evangelhos — e então narra a sua proclamação no deserto de uma imersão de arrependimento (vv.3-6), enquadrada por uma longa citação de Yesha'yahu (Isaías) 40:3-5. Sua pregação às multidões, aos cobradores de impostos e aos soldados (vv.7-14), seu apontar adiante para um "mais forte" (vv.15-17), e seu encarceramento por Herodes (vv.18-20) seguem. Yeshua (Jesus) é imerso e está orando quando os céus se abrem, o {a:vento/espírito} desce, e uma voz vem do céu (vv.21-22). O capítulo se encerra com a genealogia (vv.23-38), ascendendo de Yeshua a Adão a Deus — ~76 nomes. **Nota sobre marcação de fala (Regra 30):** a pregação de Yochanan é fala profética *humana* e NÃO é marcada como fala divina; apenas a **voz do céu** em 3:22 (a Bat-Qol) é a fala direta de Deus e é marcada com `@@…@@`. Os nomes próprios seguem a transliteração TT: Yochanan (não João), Yeshua (não Jesus), Yesha'yahu (não Isaías), Herodes (não Herodes).
+**Este capítulo abre o ministério público.** Lucas 3 data o aparecimento de Yochanan (João) por um sêxtuplo sincronismo de governantes (vv.1-2) — o enquadramento cronológico mais preciso dos Evangelhos — e então narra a sua proclamação no deserto de uma imersão de arrependimento (vv.3-6), enquadrada por uma longa citação de Yesha'yahu (Isaías) 40:3-5. Sua pregação às multidões, aos cobradores de impostos e aos soldados (vv.7-14), seu apontar adiante para um "mais forte" (vv.15-17), e seu encarceramento por Herodes (vv.18-20) seguem. Yeshua (Jesus) é imerso e está orando quando os céus se abrem, o {a:vento/espírito} desce, e uma voz vem do céu (vv.21-22). O capítulo se encerra com a genealogia (vv.23-38), ascendendo de Yeshua a Adão a Deus — ~76 nomes. **Nota sobre marcação de fala (Regra 30):** a pregação de Yochanan é fala profética *humana* e NÃO é marcada como fala divina; apenas a **voz do céu** em 3:22 (a Bat-Qol) é a fala direta de Deus e é marcada como fala divina (em vermelho). Os nomes aparecem na forma familiar, com a forma da língua original indicada uma vez por seção — p. ex., Yochanan (João).
 
 ---
 
@@ -47,7 +47,7 @@ As notas são marcadas por tipo — **Crítico · Lexical · Gramatical · Teol�
 
 **Temas-chave:** O sêxtuplo sincronismo político-religioso datando o ministério dentro da história mundial; "a palavra de Deus veio sobre João" — a fórmula de chamado profético (Jr 1:1-2, Os 1:1); o deserto como o lugar da renovação; imersão (*baptisma*) de arrependimento "para a liberação dos pecados"; a "voz no deserto" de Isaías 40 e o horizonte universal "toda carne verá a salvação de Deus" (Lucas estende a citação mais que Mateus ou Marcos); arrependimento ético com demandas sociais concretas; a relativização da descendência abraâmica ("Deus pode levantar destas pedras filhos a Abraão"); o "mais forte" e o contraste da imersão na água com a de vento/espírito-e-fogo; a cena do batismo com os céus abertos, o vento/espírito que desce, e a voz do céu; a genealogia ascendente chegando para além de Abraão até Adão, "filho de Deus" — universalizando a linhagem para além de Israel.
 
-**Observe:** A fórmula de datação (vv.1-2) é exclusiva de Lucas e historicamente densa — o "décimo quinto ano de Tibério" admite mais de um cômputo. "A palavra de Deus veio sobre João" (*egeneto rhēma theou epi Iōannēn*) é o idioma septuagintal de chamado profético, não narrado como fala divina direta — a pregação subsequente de João é profecia *humana* e NÃO é marcada como divina (Regra 30). Em 3:22, a **voz do céu** é a fala direta de Deus e É marcada com @@…@@ (cf. Marcos 1:11, Mateus 3:17); uma notável variante ocidental lê Sl 2:7 ("hoje eu te gerei"). Em 3:23, "como se supunha" (*hōs enomizeto*) qualifica a paternidade de José — a TT preserva a ressalva. A genealogia (vv.23-38) ascende até Adão e difere fortemente da lista descendente de Mateus (a divergência na linha de José é uma crux conhecida — sinalizada para revisão). A tabela completa da genealogia e os see-stubs entre livros vivem em `luke/PEOPLE.md`.
+**Observe:** A fórmula de datação (vv.1-2) é exclusiva de Lucas e historicamente densa — o "décimo quinto ano de Tibério" admite mais de um cômputo. "A palavra de Deus veio sobre João" (*egeneto rhēma theou epi Iōannēn*) é o idioma septuagintal de chamado profético, não narrado como fala divina direta — a pregação subsequente de João é profecia *humana* e NÃO é marcada como divina (Regra 30). Em 3:22, a **voz do céu** é a fala direta de Deus e É marcada como fala divina (em vermelho) (cf. Marcos 1:11, Mateus 3:17); uma notável variante ocidental lê Sl 2:7 ("hoje eu te gerei"). Em 3:23, "como se supunha" (*hōs enomizeto*) qualifica a paternidade de José — a TT preserva a ressalva. A genealogia (vv.23-38) ascende até Adão e difere fortemente da lista descendente de Mateus (a divergência na linha de José é uma crux conhecida — sinalizada para revisão). A tabela completa da genealogia e as remissões para outros livros estão na página Pessoas e Genealogia de Lucas.
 
 **Conexão:** O chamado de João no deserto se situa na linha das comissões proféticas (Jeremias, Oseias); a citação de Isaías 40 enraíza toda a cena na proclamação de consolo do retorno-do-exílio. A "prole de víboras" e a imagem do machado-à-raiz se valem dos oráculos proféticos de julgamento. A voz do batismo funde o Salmo 2:7 (filiação real) e Isaías 42:1 (o servo escolhido em quem Deus se agrada). A genealogia ascendente responde à descendente de Mateus: onde Mateus enraíza Jesus em Abraão e David (a aliança de Israel), Lucas faz a linha retroceder através de Adão até Deus, abrindo a linhagem a toda a humanidade — condizente com o universal "toda carne verá a salvação de Deus" do v.6.
 
@@ -103,7 +103,7 @@ no sumo sacerdócio de Chanan (Anás) e Qayafa (Caifás), *a* palavra de Deus ve
 > **Notas**
 >
 > 🔴 **CRÍTICO — "A PALAVRA DE DEUS VEIO SOBRE JOÃO" — FÓRMULA DE CHAMADO PROFÉTICO**
-> - **ἐγένετο ῥῆμα θεοῦ ἐπὶ Ἰωάννην** (*egeneto rhēma theou epi Iōannēn*) = "*a* palavra de Deus veio sobre João." Este é o idioma septuagintal de comissão profética (cf. Jr 1:1-2; Os 1:1; Jl 1:1 LXX, "a palavra de YHWH que veio a…"). **ῥῆμα** (*rhēma*) = "palavra, dito, questão" (semítico *davar*). **Importante (Regra 30):** isto é comissionamento *narrado*, não a fala direta citada de Deus; a pregação subsequente de João (vv.7-17) é fala profética *humana* e portanto NÃO é marcada com os marcadores de fala divina @@…@@. → Para a fórmula de chamado profético e João como profeta, veja o Companheiro §A1.
+> - **ἐγένετο ῥῆμα θεοῦ ἐπὶ Ἰωάννην** (*egeneto rhēma theou epi Iōannēn*) = "*a* palavra de Deus veio sobre João." Este é o idioma septuagintal de comissão profética (cf. Jr 1:1-2; Os 1:1; Jl 1:1 LXX, "a palavra de YHWH que veio a…"). **ῥῆμα** (*rhēma*) = "palavra, dito, questão" (semítico *davar*). **Importante (Regra 30):** isto é comissionamento *narrado*, não a fala direta citada de Deus; a pregação subsequente de João (vv.7-17) é fala profética *humana* e portanto NÃO é marcada como fala divina (em vermelho). → Para a fórmula de chamado profético e João como profeta, veja o Companheiro §A1.
 >
 > 🟢 **TRANSLITERAÇÕES TT**
 > - **Ἅννας** (*Hannas*) = Chanan (Hebraico: **Chanan/Chananyah**, "YHWH mostrou favor"). Familiar: Anás.
@@ -343,7 +343,7 @@ e o {a:vento/espírito} santo desceu em forma corpórea como uma pomba sobre ele
 > **Notas**
 >
 > 🔴 **CRÍTICO — A VOZ DO CÉU (BAT-QOL) — FALA DIVINA (REGRA 30)**
-> - **φωνὴν ἐξ οὐρανοῦ γενέσθαι· σὺ εἶ ὁ υἱός μου ὁ ἀγαπητός, ἐν σοὶ εὐδόκησα** (*phōnēn ex ouranou genesthai: sy ei ho huios mou ho agapētos, en soi eudokēsa*) = "uma voz veio do céu: 'Tu és o meu filho, o amado; em ti me agradei.'" Esta é a **fala direta de Deus** — a *Bat-Qol* ("filha de uma voz," o termo rabínico para a voz celestial) — e é portanto **marcada com @@…@@** conforme a Regra 30 (cf. Marcos 1:11; Mateus 3:17, que tem a terceira pessoa "Este é…"). As palavras fundem o Salmo 2:7 (filiação real: "tu és o meu filho") com Isaías 42:1 (o servo escolhido em quem Deus se agrada: "o meu escolhido, em quem a minha alma se deleita"). **εὐδόκησα** (*eudokēsa*) = "me agradei / tive prazer" (aoristo). → Para a fusão Sl 2:7 / Is 42:1 e a *Bat-Qol*, veja o companheiro de PROFECIA. **[teológico — PROVÁVEL]**
+> - **φωνὴν ἐξ οὐρανοῦ γενέσθαι· σὺ εἶ ὁ υἱός μου ὁ ἀγαπητός, ἐν σοὶ εὐδόκησα** (*phōnēn ex ouranou genesthai: sy ei ho huios mou ho agapētos, en soi eudokēsa*) = "uma voz veio do céu: 'Tu és o meu filho, o amado; em ti me agradei.'" Esta é a **fala direta de Deus** — a *Bat-Qol* ("filha de uma voz," o termo rabínico para a voz celestial) — e é portanto **marcada como fala divina (em vermelho)** conforme a Regra 30 (cf. Marcos 1:11; Mateus 3:17, que tem a terceira pessoa "Este é…"). As palavras fundem o Salmo 2:7 (filiação real: "tu és o meu filho") com Isaías 42:1 (o servo escolhido em quem Deus se agrada: "o meu escolhido, em quem a minha alma se deleita"). **εὐδόκησα** (*eudokēsa*) = "me agradei / tive prazer" (aoristo). → Para a fusão Sl 2:7 / Is 42:1 e a *Bat-Qol*, veja o companheiro de PROFECIA. **[teológico — PROVÁVEL]**
 >
 > 🔴 **CRÍTICO — VARIANTE OCIDENTAL: SALMO 2:7 POR INTEIRO**
 > - Uma notável leitura ocidental (Códice Bezae, D, e algumas testemunhas latinas antigas/patrísticas) tem a voz citando o Salmo 2:7 por inteiro: "Tu és o meu filho; hoje eu te gerei" (*huios mou ei sy, egō sēmeron gegennēka se*). NA28 lê "em ti me agradei" (com Marcos/Mateus). A TT segue NA28 e sinaliza a variante para revisão helenista (Regra 13). **[crítico-textual — POSSÍVEL]**
@@ -360,7 +360,7 @@ E Yeshua (Jesus) mesmo estava começando *a ter* cerca de trinta anos *de idade*
 > **Notas**
 >
 > 🔴 **CRÍTICO — "COMO SE SUPUNHA" — *HŌS ENOMIZETO* (CRUX)**
-> - **ὢν υἱός, ὡς ἐνομίζετο, Ἰωσὴφ** (*ōn huios, hōs enomizeto, Iōsēph*) = "sendo filho — como se supunha — de José." O parentético **ὡς ἐνομίζετο** (*hōs enomizeto*, "como se supunha/reputava") qualifica a paternidade de José: Jesus era *legalmente* reputado filho de José, o narrador fazendo ressalva à reivindicação biológica (cf. 1:34-35). O escopo sintático exato da expressão — e se a genealogia que segue é de José ou (numa proposta antiga e moderna) de Maria via Eli — é disputado. A TT preserva a ressalva "como se supunha" sem resolver de quem é a linha. → Para *hōs enomizeto* e a questão da linha de José/Maria, veja o Companheiro §A4 e `luke/PEOPLE.md`. **[gramatical-histórico — POSSÍVEL]**
+> - **ὢν υἱός, ὡς ἐνομίζετο, Ἰωσὴφ** (*ōn huios, hōs enomizeto, Iōsēph*) = "sendo filho — como se supunha — de José." O parentético **ὡς ἐνομίζετο** (*hōs enomizeto*, "como se supunha/reputava") qualifica a paternidade de José: Jesus era *legalmente* reputado filho de José, o narrador fazendo ressalva à reivindicação biológica (cf. 1:34-35). O escopo sintático exato da expressão — e se a genealogia que segue é de José ou (numa proposta antiga e moderna) de Maria via Eli — é disputado. A TT preserva a ressalva "como se supunha" sem resolver de quem é a linha. → Para *hōs enomizeto* e a questão da linha de José/Maria, veja o material de estudo de Lucas 3 (Aprofundar), Seção A4, e a página Pessoas e Genealogia de Lucas. **[gramatical-histórico — POSSÍVEL]**
 >
 > 🔵 **"CERCA DE TRINTA ANOS" — *HŌSEI ETŌN TRIAKONTA***
 > - **ἀρχόμενος ὡσεὶ ἐτῶν τριάκοντα** (*archomenos hōsei etōn triakonta*) = "começando, *tendo* cerca de trinta anos *de idade*." *Hōsei* ("cerca de") torna a idade aproximada. "Trinta" pode ecoar a idade do serviço sacerdotal/levítico (Nm 4:3) e de David (2 Sm 5:4). A construção é desajeitada; a TT acrescenta *a ter* e *de idade* em itálico. A genealogia que segue ascende (filho de… filho de…) em vez de descender.
@@ -374,7 +374,7 @@ de Mattat, de Levi, de Melchi, de Yannai, de Yosef,
 > **Notas**
 >
 > 🟡 **A GENEALOGIA ASCENDENTE (vv.23-38) — ESTRUTURA E DIVERGÊNCIA DE MATEUS**
-> - A genealogia ascende — "filho de X, de Y, de Z…" — cada versículo um aglomerado de nomes, retrocedendo de Yeshua através de David (v.31), Avraham (v.34), Noach (v.36), até Adão e Deus (v.38). Isto é o inverso da lista descendente de Mateus (Mt 1:1-17, Abraão → Yeshua) e **diverge fortemente dela**, mais notavelmente na geração imediatamente acima de José (Lucas: "de Eli"; Mateus: "Jacó gerou José") e por toda a linha pós-davídica — uma crux de longa data. As harmonizações propostas (Lucas dá a linha de Maria; casamento levirato; descendência legal vs. biológica) são todas contestadas. A TT apresenta a lista de Lucas como o grego a dá e sinaliza a divergência para revisão helenista (Regra 13). A **tabela completa da genealogia, a contagem de gerações, e os see-stubs entre livros** (para `genesis` para Adão → os patriarcas, e para `matthew` para a linha de David) vivem em **`luke/PEOPLE.md`** conforme a convenção entre-livros v3.3.2. **[histórico — POSSÍVEL]**
+> - A genealogia ascende — "filho de X, de Y, de Z…" — cada versículo um aglomerado de nomes, retrocedendo de Yeshua através de David (v.31), Avraham (v.34), Noach (v.36), até Adão e Deus (v.38). Isto é o inverso da lista descendente de Mateus (Mt 1:1-17, Abraão → Yeshua) e **diverge fortemente dela**, mais notavelmente na geração imediatamente acima de José (Lucas: "de Eli"; Mateus: "Jacó gerou José") e por toda a linha pós-davídica — uma crux de longa data. As harmonizações propostas (Lucas dá a linha de Maria; casamento levirato; descendência legal vs. biológica) são todas contestadas. A TT apresenta a lista de Lucas como o grego a dá e sinaliza a divergência para revisão helenista (Regra 13). A **tabela completa da genealogia, a contagem de gerações, e as remissões para outros livros** (para Gênesis para Adão → os patriarcas, e para Mateus para a linha de David) estão na **página Pessoas e Genealogia de Lucas**. **[histórico — POSSÍVEL]**
 >
 > 🟢 **POLÍTICA DE APRESENTAÇÃO DE NOMES DA GENEALOGIA**
 > - Os nomes com forma familiar em português recebem a glosa "Transliterado (Familiar)" na primeira ocorrência na genealogia (p.ex. David, Avraham (Abraão), Noach (Noé), Adam (Adão)). Os nomes sem forma familiar distinta são dados apenas em transliteração (p.ex. Mattat, Yannai, Neri). O **τοῦ** (*tou*, genitivo "de") repetido no grego é apresentado como "de" por toda parte; o "filho" implícito não é repetido a cada vez.
@@ -410,7 +410,7 @@ de Yochanan, de Reisha, de Zerubbavel, de She'altiel, de Neri,
 > **Notas**
 >
 > 🟡 **ZERUBBAVEL E SHE'ALTIEL — SOBREPOSIÇÃO COM MATEUS**
-> - **Ζοροβαβέλ… Σαλαθιήλ** (*Zorobabel… Salathiēl*) = Zerubbavel, de She'altiel. Este par pai-filho também aparece em Mateus 1:12 (e em Esdras/Ageu), um dos poucos pontos de contato entre as duas genealogias no trecho pós-exílico — mas os nomes ao redor deles diferem (Lucas: "de Neri"; Mateus: "Yekhonyah gerou She'altiel"). A sobreposição-com-divergência agudiza a crux notada no v.24. → veja `luke/PEOPLE.md`.
+> - **Ζοροβαβέλ… Σαλαθιήλ** (*Zorobabel… Salathiēl*) = Zerubbavel, de She'altiel. Este par pai-filho também aparece em Mateus 1:12 (e em Esdras/Ageu), um dos poucos pontos de contato entre as duas genealogias no trecho pós-exílico — mas os nomes ao redor deles diferem (Lucas: "de Neri"; Mateus: "Yekhonyah gerou She'altiel"). A sobreposição-com-divergência agudiza a crux notada no v.24. → veja a página Pessoas e Genealogia de Lucas.
 
 ---
 
@@ -454,7 +454,7 @@ de Mal'ah, de Mena, de Mattata, de Natan, de David,
 > **Notas**
 >
 > 🔴 **CRÍTICO — A LINHA DAVÍDICA VIA NATAN, NÃO SHELOMOH (SALOMÃO)**
-> - **τοῦ Ναθὰμ τοῦ Δαυίδ** (*tou Natham tou Dauid*) = "de Natan, de David." A linha de Lucas corre através do filho de David **Natan** (2 Sm 5:14; Zc 12:12), ao passo que a de Mateus corre através de **Shelomoh (Salomão)** (Mt 1:6). Esta é a raiz estrutural da divergência das duas genealogias depois de David. A TT apresenta a linha-de-Natan de Lucas como dada e sinaliza a separação Natan/Salomão para revisão. → veja o companheiro de PROFECIA e `luke/PEOPLE.md`. **[histórico — POSSÍVEL]**
+> - **τοῦ Ναθὰμ τοῦ Δαυίδ** (*tou Natham tou Dauid*) = "de Natan, de David." A linha de Lucas corre através do filho de David **Natan** (2 Sm 5:14; Zc 12:12), ao passo que a de Mateus corre através de **Shelomoh (Salomão)** (Mt 1:6). Esta é a raiz estrutural da divergência das duas genealogias depois de David. A TT apresenta a linha-de-Natan de Lucas como dada e sinaliza a separação Natan/Salomão para revisão. → veja o companheiro de PROFECIA e a página Pessoas e Genealogia de Lucas. **[histórico — POSSÍVEL]**
 
 ---
 
@@ -514,7 +514,7 @@ de Qenan, de Arpakhshad, de Shem (Sem), de Noach (Noé), de Lemekh,
 > **Notas**
 >
 > 🟡 **"DE QENAN" — NOME EXTRA DA LXX**
-> - **τοῦ Καϊνὰμ τοῦ Ἀρφαξὰδ** (*tou Kainam tou Arphaxad*) = "de Qenan, de Arpakhshad." A lista de Lucas inclui um segundo **Qenan** (Kainam) entre Arpakhshad e Shelach — presente na LXX de Gn 11:12-13 mas ausente do texto hebraico massorético. A TT segue o texto de Lucas baseado na LXX e nota a divergência do hebraico. → veja `luke/PEOPLE.md`.
+> - **τοῦ Καϊνὰμ τοῦ Ἀρφαξὰδ** (*tou Kainam tou Arphaxad*) = "de Qenan, de Arpakhshad." A lista de Lucas inclui um segundo **Qenan** (Kainam) entre Arpakhshad e Shelach — presente na LXX de Gn 11:12-13 mas ausente do texto hebraico massorético. A TT segue o texto de Lucas baseado na LXX e nota a divergência do hebraico. → veja a página Pessoas e Genealogia de Lucas.
 >
 > 🟢 **SHEM (SEM) E NOACH (NOÉ) — TRANSLITERAÇÕES TT**
 > - **Σήμ** = Shem (Hebraico: **Shem**, "nome"). Familiar: Sem. **Νῶε** = Noach (Hebraico: **Noach**, "descanso"). Familiar: Noé (Gn 5:29). Lemekh = Lameque, pai de Noach.
@@ -567,9 +567,9 @@ de Enosh, de Shet, de Adam (Adão), de Deus.
 
 ---
 
-## RASTREAMENTO ENTRE CAPÍTULOS (BH -> Lucas)
+## RASTREAMENTO ENTRE CAPÍTULOS (BH → Lucas)
 
-**Is 40:3-5 -> Lucas 3:4-6 — "uma voz no deserto":**
+**Is 40:3-5 → Lucas 3:4-6 — "uma voz no deserto":**
 
 | Elemento | Isaías 40:3-5 (LXX) | Lucas 3:4-6 |
 |----------|----------------------|--------------|
@@ -579,7 +579,7 @@ de Enosh, de Shet, de Adam (Adão), de Deus.
 
 Lucas cita Isaías 40 mais longe do que Mateus ou Marcos, alcançando o "toda carne verá a salvação de Deus" do v.5 — o horizonte universal que a ascensão da genealogia até Adão (3:38) e o "de Deus" espelham.
 
-**Jr 1:1-2 / Os 1:1 -> Lucas 3:2 — a fórmula de chamado profético:**
+**Jr 1:1-2 / Os 1:1 → Lucas 3:2 — a fórmula de chamado profético:**
 
 | Elemento | Jeremias / Oseias (LXX) | Lucas 3:2 |
 |----------|-------------------------|-----------|
@@ -589,7 +589,7 @@ Lucas cita Isaías 40 mais longe do que Mateus ou Marcos, alcançando o "toda ca
 
 João é moldado no formato dos profetas chamados — o idioma do evento-palavra e o detalhe do filho-de-sacerdote marcam a sua comissão; a sua pregação é profecia *humana* (não marcada como divina, Regra 30).
 
-**Sl 2:7 / Is 42:1 -> Lucas 3:22 — a voz do céu (Bat-Qol):**
+**Sl 2:7 / Is 42:1 → Lucas 3:22 — a voz do céu (Bat-Qol):**
 
 | Elemento | Salmo 2:7 / Isaías 42:1 | Lucas 3:22 |
 |----------|--------------------------|-----------|
@@ -599,7 +599,7 @@ João é moldado no formato dos profetas chamados — o idioma do evento-palavra
 
 A voz celestial — a fala direta de Deus, marcada como divina — funde a filiação real do Sl 2 com o servo escolhido de Is 42. Uma variante ocidental (Códice Bezae) cita o Sl 2:7 por inteiro ("hoje eu te gerei"); NA28 lê com Marcos/Mateus.
 
-**Gn 5 / Gn 11 / Rute 4 -> Lucas 3:31-38 — a genealogia ascendente:**
+**Gn 5 / Gn 11 / Rute 4 → Lucas 3:31-38 — a genealogia ascendente:**
 
 | Elemento | Gênesis / Rute | Lucas 3:31-38 |
 |----------|-----------------|---------------|
@@ -608,7 +608,7 @@ A voz celestial — a fala direta de Deus, marcada como divina — funde a filia
 | A linha de Shem | Shem → Arpakhshad → … Ever (Gn 11:10-26) | 3:35-36, incluindo o "Qenan" só da LXX |
 | Primeiro humano | Adão, feito à imagem de Deus (Gn 1:27; 5:1) | "de Adão, de Deus" (3:38) — o clímax |
 
-Onde Mateus desce de Abraão (a raiz aliancial de Israel) através de Salomão, Lucas ascende para além de Abraão através de Natan até Adão e até Deus — abrindo a linhagem a toda a humanidade. A divergência pós-davídica e o Qenan só da LXX são cruxes conhecidas, sinalizadas para revisão helenista (Regra 13). A tabela completa e os see-stubs entre livros vivem em `luke/PEOPLE.md`.
+Onde Mateus desce de Abraão (a raiz aliancial de Israel) através de Salomão, Lucas ascende para além de Abraão através de Natan até Adão e até Deus — abrindo a linhagem a toda a humanidade. A divergência pós-davídica e o Qenan só da LXX são cruxes conhecidas, sinalizadas para revisão helenista (Regra 13). A tabela completa e as remissões para outros livros estão na página Pessoas e Genealogia de Lucas.
 
 ---
 

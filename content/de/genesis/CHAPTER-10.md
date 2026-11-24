@@ -78,7 +78,7 @@ Und dies *sind* die Geschlechterfolgen der Söhne Noahs — Shem, Cham (Ham) und
 
 > **NOTIZEN**
 >
-> 🟡 **STUFE 2 — ETHNOGENESE-WARNUNG**
+> 🟡 **ETHNOGENESE-WARNUNG**
 > - Der genealogische Rahmen dieses Kapitels darf nicht zur Konstruktion moderner ethnischer, rassischer oder nationaler Hierarchien verwendet werden. Die Völkertafel ist ein antikes politisch-geographisches Dokument, keine biologische Taxonomie moderner Völker. Siehe Begleitmaterial Abschnitt F für historischen Kontext.
 >
 > 🔴 **TOLEDOT-FORMEL — VIERTES VORKOMMEN**
@@ -151,7 +151,7 @@ Und die Söhne Hams: Kusch und Mitsrayim (Ägypten) und Put und Kenaan (Kanaan).
 > **NOTIZEN**
 >
 > 🔴 **CHAMS LINIE — DIE SÜDLICHEN UND ÖSTLICHEN VÖLKER**
-> - Vier Söhne. Identifikationen: **Kusch** = Nubien/Oberer Nilraum (WAHRSCHEINLICH; nicht das moderne Äthiopien). **Ägypten** = Ägypten (gut bezeugt; Dualform *-ayim* mag Ober- und Unterägypten widerspiegeln). **Put** = Libyen oder Punt (MÖGLICH für beide). **Kanaan** = die Kanaaniter. Nach Regel 4 und Redaktionsprotokoll (2026-04-17-004): Transliterierung aus dem Hebräischen — Kusch, Ägypten, Kanaan (nicht „Äthiopien," „Ägypten," „Kanaan").
+> - Vier Söhne. Identifikationen: **Kusch** = Nubien/Oberer Nilraum (WAHRSCHEINLICH; nicht das moderne Äthiopien). **Ägypten** = Ägypten (gut bezeugt; Dualform *-ayim* mag Ober- und Unterägypten widerspiegeln). **Put** = Libyen oder Punt (MÖGLICH für beide). **Kanaan** = die Kanaaniter. Nach Regel 4: Transliterierung aus dem Hebräischen — Kusch, Ägypten, Kanaan (nicht „Äthiopien," „Ägypten," „Kanaan").
 >
 > 🟢 **NAMENSPOLITIK-HINWEIS**
 > - Bekannte Namen in diesem Kapitel folgen der Konvention „Transliteriert (Vertraut)" beim ersten Vorkommen, danach die vertraute Form. Kusch bleibt transliteriert (im Deutschen weniger bekannt). Ägypten und Kanaan verwenden die vertrauten deutschen Formen; die hebräischen Formen Mitsrayim und Kenaan sind beim ersten Vorkommen in Klammern angegeben und werden hier zur Orientierung vermerkt.

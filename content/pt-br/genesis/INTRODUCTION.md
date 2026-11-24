@@ -430,4 +430,4 @@ Muitos nomes em Gênesis carregam significado etimológico que a narrativa explo
 
 ---
 
-> **Proveniência editorial:** Redigido por Claude Opus 4.6 (1M context) em 2026-04-28. Ainda não revisado. Esta introdução é um recurso acadêmico provisório governado pela Regra 29 da TT. Todas as afirmações carregam rótulos duplos; nenhuma afirmação deve ser lida como posição teológica ou composicional da TT. A TT traduz o Texto Masorético e não adota nenhuma teoria particular de autoria ou composição.
+> **Proveniência editorial:** Rascunho assistido por IA, ainda não revisado. Esta introdução é um recurso acadêmico provisório governado pela Regra 29 da TT. Todas as afirmações carregam rótulos duplos; nenhuma afirmação deve ser lida como posição teológica ou composicional da TT. A TT traduz o Texto Masorético e não adota nenhuma teoria particular de autoria ou composição.

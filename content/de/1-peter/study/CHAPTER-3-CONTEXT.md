@@ -49,7 +49,7 @@ Diese Datei enthält Hintergrundmaterial, geordnet nach Themen. Jeder Eintrag tr
 
 Das Kapitel eröffnet mit **ὁμοίως** (*homoiōs*, „desgleichen", 3,1), dem Bindewort, das das Material über Frauen und Männer an die Sklaven von 2,18 zurückbindet und, davor, an das allgemeine „unterordnen" von 2,13 — was Vv.1-7 als das zweite und dritte Panel einer einzigen **Haustafel** kennzeichnet (vgl. Kol 3,18-4,1; Eph 5,21-6,9). Die TT gibt das beherrschende Verb der Haustafel **ὑποτάσσω** (*hypotassō*, „unterordnen / untertan sein", 3,1.5) wörtlich und durchgängig wieder — dasselbe Verb kehrt in 3,22 für die kosmischen Mächte wieder, die dem Messias „unterworfen" sind, ein bewusster Rahmen, den die TT sichtbar hält.
 
-Das im Griechischen genannte Ziel ist missionarisch, nicht bloß häuslich: ein Mann, der „**dem Wort ungehorsam ist**" (*apeithousin tō logō*, 3,1 — d.h. kein Gläubiger ist), „**möge gewonnen werden**" (*kerdēthēsontai*, das kaufmännisch-missionarische Verb „gewinnen", vgl. 1 Kor 9,19-22) „**ohne ein Wort**" (*aneu logou*) — durch den *anastrophē* der Frau („Wandel, Lebensweise"), nicht durch Argument. Das Wortspiel ist genau: gewonnen *ohne ein Wort* durch den Wandel, da er *dem Wort* ungehorsam ist. Die TT gibt das Griechische wieder und verweist die Auslegungsgeschichte auf §F, ohne Stellung zu beziehen (Regel 3). → redaktionelles Log P-009; §F1.
+Das im Griechischen genannte Ziel ist missionarisch, nicht bloß häuslich: ein Mann, der „**dem Wort ungehorsam ist**" (*apeithousin tō logō*, 3,1 — d.h. kein Gläubiger ist), „**möge gewonnen werden**" (*kerdēthēsontai*, das kaufmännisch-missionarische Verb „gewinnen", vgl. 1 Kor 9,19-22) „**ohne ein Wort**" (*aneu logou*) — durch den *anastrophē* der Frau („Wandel, Lebensweise"), nicht durch Argument. Das Wortspiel ist genau: gewonnen *ohne ein Wort* durch den Wandel, da er *dem Wort* ungehorsam ist. Die TT gibt das Griechische wieder und verweist die Auslegungsgeschichte auf §F, ohne Stellung zu beziehen (Regel 3). → §F1.
 
 ### A2. „Der verborgene Mensch des Herzens" und die Verlagerung von *kosmos*
 **[TEXTUELL — VERIFIZIERT]**
@@ -70,21 +70,21 @@ Der Wortlaut schöpft aus **Genesis 18,12 LXX**, wo Sarah innerlich sagt „mein
 
 Vers 7 spricht die Männer an und hält zwei Begriffe in Spannung, die die TT beide nebeneinander wiedergibt, ohne sie zu harmonisieren. Die Frau ist **ἀσθενέστερον σκεῦος τὸ γυναικεῖον** (*asthenesteron skeuos to gynaikeion*), „das schwächere Gefäß — das weibliche"; und sie ist **συγκληρονόμος… χάριτος ζωῆς** (*synklēronomos charitos zōēs*), „Miterbin *der* Gnade des Lebens." *Skeuos* („Gefäß, Werkzeug, Behälter") ist eine gängige Metapher für die Person (vgl. 2 Kor 4,7; 1 Thess 4,4); der Komparativ *asthenesteron* („schwächer") ist vom Vers unbestimmt — körperliche Kraft, soziale Verletzlichkeit oder eine Wert-Aussage sind alle grammatisch möglich.
 
-Die TT gibt „schwächeres Gefäß" wörtlich wieder und **weigert sich, seinen Sinn festzulegen**, mit der Anmerkung, dass *derselbe Satz* die Frau eine **Miterbin** nennt, ein Begriff gleichen Erbrechts (vgl. Röm 8,17), der gegen jede Lesart von „schwächer" als geringerem Wert spricht. Dem Mann wird gesagt, er solle „Ehre zuteilen" (*aponemontes timēn*) und „gemäß Erkenntnis" wohnen (*kata gnōsin*), mit einer strengen Sanktion: „**damit eure Gebete nicht gehindert werden**" (*egkoptesthai*, „abgeschnitten / behindert werden"). Die TT präsentiert beide Behauptungen und die Sanktion und bezieht keine Position dazu, wie „schwächer" zu gewichten ist (Regel 3). → redaktionelles Log P-009; §F1, §F2.
+Die TT gibt „schwächeres Gefäß" wörtlich wieder und **weigert sich, seinen Sinn festzulegen**, mit der Anmerkung, dass *derselbe Satz* die Frau eine **Miterbin** nennt, ein Begriff gleichen Erbrechts (vgl. Röm 8,17), der gegen jede Lesart von „schwächer" als geringerem Wert spricht. Dem Mann wird gesagt, er solle „Ehre zuteilen" (*aponemontes timēn*) und „gemäß Erkenntnis" wohnen (*kata gnōsin*), mit einer strengen Sanktion: „**damit eure Gebete nicht gehindert werden**" (*egkoptesthai*, „abgeschnitten / behindert werden"). Die TT präsentiert beide Behauptungen und die Sanktion und bezieht keine Position dazu, wie „schwächer" zu gewichten ist (Regel 3). → §F1, §F2.
 
 ### A5. „Heiligt den Messias als Herrn" — die κύριος-Referenten-Verschiebung von Jesaja 8,13
 **[TEXTUELL — VERIFIZIERT]**
 
 In 3,14-15 zitiert der Brief **Jesaja 8,12-13**. Vers 14 übernimmt Jesaja 8,12 wörtlich aus der LXX: „**fürchtet nicht ihre Furcht und seid nicht erschüttert**" (*ton de phobon autōn mē phobēthēte mēde tarachthēte*). Dann passt V.15 Jesaja 8,13 an, wo die LXX liest „**den Herrn (κύριος = JHWH) selbst, ihn sollt ihr heiligen** (*hagiasate*)." 1. Petrus schreibt **κύριον δὲ τὸν Χριστὸν ἁγιάσατε** — „aber heiligt **den Messias als Herrn**", indem „den Messias" für das Objekt des Verbs eingesetzt wird.
 
-Der Zug wendet einen JHWH-Text direkt auf den Messias an — eine **κύριος-Referenten-Verschiebung** der Art, die das Korpus auch andernorts verfolgt (vgl. Apg 2,36; dasselbe Jesaja 8 wiederverwendet in Röm 9,33; 1 Petr 2,8). Die TT gibt „heiligt den Messias als Herrn" wieder und kennzeichnet die Verschiebung in Stufe 2 (Regel 13), wobei sie eine christologische Identifizierung weder behauptet noch verneint über das hinaus, was die Syntax trägt: das Objekt des jesajanischen „heiligt" wird nun der Messias genannt. Die folgende Wendung führt **ἀπολογία** (*apologia*, „Verteidigung, begründete Antwort") ein — ein rechtlich klingender Begriff, die Quelle des deutschen „Apologetik" — begrenzt durch „**Sanftmut und Furcht**" (V.16). → PROPHETIE (Jes 8,12-13 → 1 Petr 3,14-15); §F3.
+Der Zug wendet einen JHWH-Text direkt auf den Messias an — eine **κύριος-Referenten-Verschiebung** der Art, die das Korpus auch andernorts verfolgt (vgl. Apg 2,36; dasselbe Jesaja 8 wiederverwendet in Röm 9,33; 1 Petr 2,8). Die TT gibt „heiligt den Messias als Herrn" wieder und kennzeichnet die Verschiebung in den Anmerkungen (Regel 13), wobei sie eine christologische Identifizierung weder behauptet noch verneint über das hinaus, was die Syntax trägt: das Objekt des jesajanischen „heiligt" wird nun der Messias genannt. Die folgende Wendung führt **ἀπολογία** (*apologia*, „Verteidigung, begründete Antwort") ein — ein rechtlich klingender Begriff, die Quelle des deutschen „Apologetik" — begrenzt durch „**Sanftmut und Furcht**" (V.16). → PROPHETIE (Jes 8,12-13 → 1 Petr 3,14-15); §F3.
 
 ### A6. Die Fleisch/Geist-Dative von V.18 — Sphäre oder Wirkkraft, offengehalten
 **[TEXTUELL — VERIFIZIERT (für die Mehrdeutigkeit); MÖGLICHE SCHLUSSFOLGERUNG — UNSICHER (für den Sinn)]**
 
 Der Knackpunkt von V.18 ist ein ausgewogenes Paar **artikelloser Dative**: **θανατωθεὶς μὲν σαρκὶ ζῳοποιηθεὶς δὲ πνεύματι** (*thanatōtheis men sarki zōopoiētheis de pneumati*), „**getötet im Fleisch** (*sarki*) aber **lebendig gemacht in {a:Wind/Geist}** (*pneumati*)." Ein griechischer Dativ ohne Präposition kann entweder **Sphäre** markieren („im Bereich des Fleisches / im Bereich des Geistes") oder **Mittel / Wirkkraft** („durch das Fleisch / durch den Geist"). Die zwei Dative sind parallel (*men… de*), was sie dazu drängt, gleich zu funktionieren — aber die Konstruktion sagt nicht, auf welche Weise.
 
-Die TT behält den **{a:Wind/Geist}**-Schrägstrich auf *pneumati* (das Wind/Geist-Feld ist in diesem Brief lebendig, vgl. 1,2.11; 4,6.14) und bewahrt die Fleisch/Geist-Parallele, **wobei sie weder die Sphäre/Wirkkraft-Frage auflöst noch, ob *pneumati* den göttlichen Geist oder den eigenen Geist/Existenzmodus des Messias benennt** (Regel 13). Derselbe Dativ regiert das „in welchem" (*en hō*) von V.19, sodass die Lesart von V.18 die Lesart der Geister-im-Gefängnis-Wendung unmittelbar bedingt (§A7). → redaktionelles Log P-006.
+Die TT behält den **{a:Wind/Geist}**-Schrägstrich auf *pneumati* (das Wind/Geist-Feld ist in diesem Brief lebendig, vgl. 1,2.11; 4,6.14) und bewahrt die Fleisch/Geist-Parallele, **wobei sie weder die Sphäre/Wirkkraft-Frage auflöst noch, ob *pneumati* den göttlichen Geist oder den eigenen Geist/Existenzmodus des Messias benennt** (Regel 13). Derselbe Dativ regiert das „in welchem" (*en hō*) von V.19, sodass die Lesart von V.18 die Lesart der Geister-im-Gefängnis-Wendung unmittelbar bedingt (§A7).
 
 ### A7. „Verkündigte den Geistern im Gefängnis" — die Lesarten, die der Text offenlässt
 **[TEXTUELL — VERIFIZIERT (für die Daten); MÖGLICHE SCHLUSSFOLGERUNG — UNSICHER (für den Referenten)]**
@@ -95,14 +95,14 @@ Vers 19 ist die einzelne am meisten debattierte Wendung des Briefes: **ἐν ᾧ
 - **Wann geschah die Verkündigung?** Zwischen Tod und Auferstehung (das *en hō pneumati* von V.18 als entleibter oder geistlicher Modus gelesen), oder — bei Lesart (c) — in Noachs eigener Zeit.
 - **Was wurde verkündigt?** *Ekēryxen* („heroldet, verkündigt") ist **inhaltlich unbestimmt** — es sagt nicht *gute Nachricht* (das wäre *euangelizō*, in 4,6 gebraucht) gegenüber *Gericht / einer Siegesankündigung*.
 
-„Geister" (*pneumata*) wird hier als **schlichte „Geister"** wiedergegeben (die eingekerkerten Wesen), **nicht** mit dem {a:Wind/Geist}-Schrägstrich — kein „Wind"-Sinn ist für persönliche Wesen in einem Gefängnis lebendig. Die TT bewahrt alle drei Lesarten und das offene *ekēryxen* und entscheidet keine (Regel 13, Regel 3). → redaktionelles Log P-006; §B1 (die henochische Tradition); §F4 (die „Höllenfahrt / harrowing of hell"-Rezeption).
+„Geister" (*pneumata*) wird hier als **schlichte „Geister"** wiedergegeben (die eingekerkerten Wesen), **nicht** mit dem {a:Wind/Geist}-Schrägstrich — kein „Wind"-Sinn ist für persönliche Wesen in einem Gefängnis lebendig. Die TT bewahrt alle drei Lesarten und das offene *ekēryxen* und entscheidet keine (Regel 13, Regel 3). → §B1 (die henochische Tradition); §F4 (die „Höllenfahrt / harrowing of hell"-Rezeption).
 
 ### A8. Noach, die acht und die Taufe „als Antitypos" — die Typologie, die das Griechische aussagt
 **[TEXTUELL — VERIFIZIERT]**
 
 Die Verse 20-21 bauen ein Paar von **Typos / Antitypos** von Flut zu Taufe, das die TT ausdrücklich hält. Acht Seelen wurden „**durch Wasser sicher hindurchgebracht**" (*diesōthēsan di' hydatos*, 3,20) — die Präposition *dia* („durch") trägt sowohl „mittels" als auch „hindurchgehend", sodass dieselbe Flut, die richtete, für die acht das Medium der Rettung war. Dann 3,21: **ὃ… ἀντίτυπον νῦν σῴζει βάπτισμα** = „was auch, **als Antitypos** (*antitypon*), euch nun rettet — **Untertauchen** (*baptisma*)." Das Flutwasser ist der *typos*; die Taufe der *antitypon* („entsprechendes Muster / Gegenstück").
 
-Der Vers **qualifiziert dann die Behauptung, bevor sie missverstanden werden kann**: die Taufe rettet „**nicht ein Abtun des Schmutzes vom Fleisch** (*ou sarkos apothesis rhypou*) **sondern eine Bitte eines guten Gewissens an Gott** (*syneidēseōs agathēs eperōtēma eis theon*)" — und die Rettung läuft „**durch die Auferstehung Yeshuas des Messias** (Jesus)", nicht durch das Wasser selbst. **ἐπερώτημα** (*eperōtēma*) ist selbst umstritten — „Bitte / Anfrage" oder „Zusage / Antwort (auf förmliche Fragen)", möglicherweise ein Tauf-Ritus-Begriff; die TT gibt „Bitte" wieder und vermerkt die Option. Die TT präsentiert die Typologie und ihre Selbst-Qualifikation **ohne eine sakramentale Theologie einzuführen** (Regel 3). **βάπτισμα** wird gemäß dem festgelegten GS-Glossar mit „Untertauchen" wiedergegeben. → redaktionelles Log P-007; §D2; §F4.
+Der Vers **qualifiziert dann die Behauptung, bevor sie missverstanden werden kann**: die Taufe rettet „**nicht ein Abtun des Schmutzes vom Fleisch** (*ou sarkos apothesis rhypou*) **sondern eine Bitte eines guten Gewissens an Gott** (*syneidēseōs agathēs eperōtēma eis theon*)" — und die Rettung läuft „**durch die Auferstehung Yeshuas des Messias** (Jesus)", nicht durch das Wasser selbst. **ἐπερώτημα** (*eperōtēma*) ist selbst umstritten — „Bitte / Anfrage" oder „Zusage / Antwort (auf förmliche Fragen)", möglicherweise ein Tauf-Ritus-Begriff; die TT gibt „Bitte" wieder und vermerkt die Option. Die TT präsentiert die Typologie und ihre Selbst-Qualifikation **ohne eine sakramentale Theologie einzuführen** (Regel 3). **βάπτισμα** wird gemäß dem festgelegten GS-Glossar mit „Untertauchen" wiedergegeben. → §D2; §F4.
 
 ---
 
@@ -157,7 +157,7 @@ Vor diesem Hintergrund ist „ohne ein Wort gewonnen" nicht bloß ein Rat des Ta
 
 **ἐπερώτημα** (*eperōtēma*, 3,21) ist ein NT-*hapax legomenon* (kommt nur hier vor) und sein Sinn ist tatsächlich umstritten. Das Grundverb *eperōtaō* bedeutet „fragen, befragen, anfragen", was (a) „**Bitte / Anfrage** [an Gott] um ein gutes Gewissen" oder „die Anfrage, *die aus* einem guten Gewissen entspringt" ergibt. Aber das Substantiv ist auch in den Papyri und im hellenistischen Rechts-/Vertragsgebrauch als die förmliche **„Frage-und-Antwort"** eines Vertrages dokumentiert — die festgelegte Erwiderung, durch die sich eine Partei bindet — was (b) „**Zusage / Verpflichtung** eines guten Gewissens" ergibt, d.h. die bei der Taufe auf förmliche Fragen gegebene Antwort. Der begleitende Genitiv **συνειδήσεως ἀγαθῆς** („eines guten Gewissens") kann subjektiv sein („die Bitte, die ein gutes Gewissen stellt") oder objektiv („die Anfrage *um* ein gutes Gewissen"), was die Mehrdeutigkeit verstärkt.
 
-Die TT gibt **„Bitte"** wieder und vermerkt die „Zusage / Antwort"-Option in Stufe 2, wobei sie sich weigert, den Vers zu einem Zeugen einer entwickelten Tauf-Verhör-Formel zu machen (was der „Zusage"-Sinn, maximal gelesen, implizieren würde). Die lexikalische Offenheit ist der Befund. → redaktionelles Log P-007; §A8.
+Die TT gibt **„Bitte"** wieder und vermerkt die „Zusage / Antwort"-Option in den Anmerkungen, wobei sie sich weigert, den Vers zu einem Zeugen einer entwickelten Tauf-Verhör-Formel zu machen (was der „Zusage"-Sinn, maximal gelesen, implizieren würde). Die lexikalische Offenheit ist der Befund. → §A8.
 
 **Quelle:** Bauer, W., *A Greek-English Lexicon of the New Testament* (BDAG), 3. Aufl., rev. Danker, University of Chicago Press, 2000, s.v. ἐπερώτημα; Moulton, J.H. und Milligan, G., *The Vocabulary of the Greek Testament*, Hodder & Stoughton, 1930, s.v.; Achtemeier, P.J., *1 Peter*, Hermeneia, Fortress Press, 1996, S. 266-272.
 
@@ -188,7 +188,7 @@ Die TT gibt *syneidēsis* durchgängig in 2,19; 3,16.21 mit „Gewissen" wieder,
 
 1. Petrus 3,1-7 wurde mit seinen Parallelen in Kolosser und Epheser zu einem primären Text in der langen christlichen Rezeption von Ehe, Geschlecht und Autorität — und seine Lesart hat sich über die Jahrhunderte deutlich verschoben. Patristische und mittelalterliche Ausleger lasen die Sprache von „unterordnen" und „schwächeres Gefäß" im Allgemeinen als Bestätigung einer natürlichen und dauerhaften Hierarchie des Mannes über die Frau (z.B. Augustinus, *Über das Gut der Ehe*; Thomas von Aquin, *Summa Theologiae*, zur Ordnung des Hausstandes). Reformatorische und nachreformatorische Schriftsteller behielten die Hierarchie bei, während sie die reziproke Pflicht des Mannes zur „Ehre" (V.7) betonten. Vom neunzehnten Jahrhundert an wurde die Passage zu einem Brennpunkt umstrittener Auslegung: einige lasen sie als kulturell begrenzten missionarischen Rat an eine verletzliche Minderheit (verankert am Ziel „ohne ein Wort gewonnen", §C2, und an der Würde-Aussage „Miterbin", §A4), andere als Gebot einer für dauerhaft gehaltenen Ordnung.
 
-Dies sind dokumentierte Rezeptionen, keine Daten des Griechischen. Die TT gibt die Begriffe der Tafel (unterordnen; schwächeres Gefäß; Miterbin; Ehre) wörtlich wieder und **bezieht keine Position** unter diesen Lesarten (Regel 3; P-009); die Unterschiede werden dargelegt, damit der Leser sie abwägen kann.
+Dies sind dokumentierte Rezeptionen, keine Daten des Griechischen. Die TT gibt die Begriffe der Tafel (unterordnen; schwächeres Gefäß; Miterbin; Ehre) wörtlich wieder und **bezieht keine Position** unter diesen Lesarten (Regel 3); die Unterschiede werden dargelegt, damit der Leser sie abwägen kann.
 
 **Quelle:** Kittredge, C.B., *Community and Authority: The Rhetoric of Obedience in the Pauline Tradition*, Harvard Theological Studies, Trinity Press International, 1998; Bird, J.G., *Abuse, Power and Fearful Obedience: Reconsidering 1 Peter's Commands to Wives*, Library of New Testament Studies, T&T Clark, 2011, S. 1-40.
 
@@ -240,41 +240,9 @@ Das Kapitel eröffnet und schließt mit demselben Verb. Die Frauen sollen sich a
 
 ---
 
-## H. Konsultierte Quellen
-
-| Quelle | Typ | Verwendet in Abschnitten |
-|--------|------|-----------------|
-| Achtemeier, P.J., *1 Peter*, Hermeneia, 1996 | PEER-REVIEWED (commentary) | D, F |
-| Aristotle, *Politics*, Loeb Classical Library | PRIMARY | B |
-| Balch, D.L., *Let Wives Be Submissive: The Domestic Code in 1 Peter*, 1981 | PEER-REVIEWED (monograph) | B, C, I |
-| Bauckham, R., *Jude, 2 Peter*, WBC 50, 1983 | PEER-REVIEWED (commentary) | B |
-| Bauer, W., *A Greek-English Lexicon of the NT* (BDAG), 3. Aufl., 2000 | PEER-REVIEWED (lexicon) | D |
-| Bird, J.G., *Abuse, Power and Fearful Obedience*, LNTS, 2011 | PEER-REVIEWED (monograph) | F |
-| Charlesworth, J.H. (Hrsg.), *The Old Testament Pseudepigrapha*, Bd. 1, 1983 | PRIMARY (text collection) | B |
-| Dalton, W.J., *Christ's Proclamation to the Spirits*, 2. Aufl., 1989 | PEER-REVIEWED (monograph) | F |
-| Eckstein, H.-J., *Der Begriff Syneidesis bei Paulus*, 1983 | PEER-REVIEWED (monograph) | D |
-| Edwards, M., Goodman, M., Price, S. (Hrsg.), *Apologetics in the Roman Empire*, 1999 | PEER-REVIEWED (monograph) | F |
-| Elliott, J.H., *1 Peter*, Anchor Bible 37B, 2000 | PEER-REVIEWED (commentary) | C, I |
-| Goppelt, L., *Typos: The Typological Interpretation of the OT in the NT*, 1982 | PEER-REVIEWED (monograph) | D |
-| Grant, R.M., *Greek Apologists of the Second Century*, 1988 | PEER-REVIEWED (monograph) | F |
-| Hemelrijk, E.A., *Matrona Docta: Educated Women in the Roman Élite*, 1999 | PEER-REVIEWED (monograph) | I |
-| Horrell, D.G., *1 Peter*, New Testament Guides, 2008 | PEER-REVIEWED (monograph) | C |
-| Josephus, *Against Apion*, Loeb Classical Library | PRIMARY | B |
-| Kittredge, C.B., *Community and Authority*, HTS, 1998 | PEER-REVIEWED (monograph) | F |
-| Liddell und Scott, *Greek-English Lexicon*, 9. Aufl. | PEER-REVIEWED (lexicon) | D |
-| Lieu, J., *Neither Jew nor Greek? Constructing Early Christianity*, 2002 | PEER-REVIEWED (monograph) | C |
-| Moulton, J.H. und Milligan, G., *The Vocabulary of the Greek Testament*, 1930 | PEER-REVIEWED (reference) | D |
-| Nestle-Aland, *Novum Testamentum Graece*, 28. Aufl. | PRIMARY | A, D, G |
-| Nickelsburg, G.W.E., *1 Enoch 1: A Commentary*, Hermeneia, 2001 | PEER-REVIEWED (commentary) | B |
-| Plutarch, *Coniugalia praecepta* (*Moralia*), Loeb Classical Library | PRIMARY | C, I |
-| Trumbower, J.A., *Rescue for the Dead*, 2001 | PEER-REVIEWED (monograph) | F |
-| Treggiari, S., *Roman Marriage*, Oxford University Press, 1991 | PEER-REVIEWED (monograph) | I |
-
----
-
 ## I. Die Welt zur damaligen Zeit
 
-> **Die Welt der Empfänger.** Anders als die Begleitmaterialien zu Evangelium und Apostelgeschichte (im Judäa des Zweiten Tempels angesiedelt) richtet sich 1. Petrus an verstreute Gläubige in den **griechisch-römischen Provinzen Kleinasiens** (Pontus, Galatien, Kappadokien, Asien, Bithynien — 1,1; §C1) im späteren ersten Jahrhundert n. Chr. Die Hausanweisungen des Kapitels (Vv.1-7) sprechen unmittelbar in die **Ehe- und Hausnormen der weiteren griechisch-römischen Welt** hinein — weshalb sich dieser Abschnitt I auf jenes häuslich-soziale Umfeld konzentriert statt auf die Tempelstadt. Die flache Form `### [Thema]` wird verwendet (die Voreinstellung).
+> **Die Welt der Empfänger.** Anders als die Begleitmaterialien zu Evangelium und Apostelgeschichte (im Judäa des Zweiten Tempels angesiedelt) richtet sich 1. Petrus an verstreute Gläubige in den **griechisch-römischen Provinzen Kleinasiens** (Pontus, Galatien, Kappadokien, Asien, Bithynien — 1,1; §C1) im späteren ersten Jahrhundert n. Chr. Die Hausanweisungen des Kapitels (Vv.1-7) sprechen unmittelbar in die **Ehe- und Hausnormen der weiteren griechisch-römischen Welt** hinein — weshalb sich dieser Abschnitt I auf jenes häuslich-soziale Umfeld konzentriert statt auf die Tempelstadt.
 
 ---
 
@@ -308,7 +276,39 @@ Die Trias von 3,3 — geflochtenes Haar, goldener Schmuck, feine Kleidung — wa
 
 ---
 
+## H. Konsultierte Quellen
+
+| Quelle | Typ | Verwendet in Abschnitten |
+|--------|------|-----------------|
+| Achtemeier, P.J., *1 Peter*, Hermeneia, 1996 | PEER-REVIEWED (commentary) | D, F |
+| Aristotle, *Politics*, Loeb Classical Library | PRIMARY | B |
+| Balch, D.L., *Let Wives Be Submissive: The Domestic Code in 1 Peter*, 1981 | PEER-REVIEWED (monograph) | B, C, I |
+| Bauckham, R., *Jude, 2 Peter*, WBC 50, 1983 | PEER-REVIEWED (commentary) | B |
+| Bauer, W., *A Greek-English Lexicon of the NT* (BDAG), 3. Aufl., 2000 | PEER-REVIEWED (lexicon) | D |
+| Bird, J.G., *Abuse, Power and Fearful Obedience*, LNTS, 2011 | PEER-REVIEWED (monograph) | F |
+| Charlesworth, J.H. (Hrsg.), *The Old Testament Pseudepigrapha*, Bd. 1, 1983 | PRIMARY (text collection) | B |
+| Dalton, W.J., *Christ's Proclamation to the Spirits*, 2. Aufl., 1989 | PEER-REVIEWED (monograph) | F |
+| Eckstein, H.-J., *Der Begriff Syneidesis bei Paulus*, 1983 | PEER-REVIEWED (monograph) | D |
+| Edwards, M., Goodman, M., Price, S. (Hrsg.), *Apologetics in the Roman Empire*, 1999 | PEER-REVIEWED (monograph) | F |
+| Elliott, J.H., *1 Peter*, Anchor Bible 37B, 2000 | PEER-REVIEWED (commentary) | C, I |
+| Goppelt, L., *Typos: The Typological Interpretation of the OT in the NT*, 1982 | PEER-REVIEWED (monograph) | D |
+| Grant, R.M., *Greek Apologists of the Second Century*, 1988 | PEER-REVIEWED (monograph) | F |
+| Hemelrijk, E.A., *Matrona Docta: Educated Women in the Roman Élite*, 1999 | PEER-REVIEWED (monograph) | I |
+| Horrell, D.G., *1 Peter*, New Testament Guides, 2008 | PEER-REVIEWED (monograph) | C |
+| Josephus, *Against Apion*, Loeb Classical Library | PRIMARY | B |
+| Kittredge, C.B., *Community and Authority*, HTS, 1998 | PEER-REVIEWED (monograph) | F |
+| Liddell und Scott, *Greek-English Lexicon*, 9. Aufl. | PEER-REVIEWED (lexicon) | D |
+| Lieu, J., *Neither Jew nor Greek? Constructing Early Christianity*, 2002 | PEER-REVIEWED (monograph) | C |
+| Moulton, J.H. und Milligan, G., *The Vocabulary of the Greek Testament*, 1930 | PEER-REVIEWED (reference) | D |
+| Nestle-Aland, *Novum Testamentum Graece*, 28. Aufl. | PRIMARY | A, D, G |
+| Nickelsburg, G.W.E., *1 Enoch 1: A Commentary*, Hermeneia, 2001 | PEER-REVIEWED (commentary) | B |
+| Plutarch, *Coniugalia praecepta* (*Moralia*), Loeb Classical Library | PRIMARY | C, I |
+| Treggiari, S., *Roman Marriage*, Oxford University Press, 1991 | PEER-REVIEWED (monograph) | I |
+| Trumbower, J.A., *Rescue for the Dead*, 2001 | PEER-REVIEWED (monograph) | F |
+
+---
+
+
 **Redaktionelle Herkunft:**
-- Entworfen von: KI (Claude, Anthropic)
-- Datum: 2026-06-26
-- Begutachtet von: ausstehend (Regel 28 — Hellenist + Freigabe der Leitung ausstehend; die Abschnitte zu den Geistern-im-Gefängnis [P-006], zur Taufe [P-007] und zur Haustafel [P-009] sind die vorrangigen Prüfpunkte)
+- KI-gestützter Entwurf, noch nicht geprüft.
+- Prüfschwerpunkt: die Abschnitte zu den Geistern im Gefängnis, zur Taufe und zur Haustafel.

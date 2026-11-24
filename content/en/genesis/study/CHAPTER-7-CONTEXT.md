@@ -220,7 +220,7 @@ The flood narrative provides exact calendar dates: onset on the second month, se
 
 ## I. The World at the Time
 
-> **Cross-reference:** For the full four-scenario, ten-category world context (Political, Economy, Daily Life, Social Structure, Education, Military, Arts, Science, Religion, Neighboring Peoples), see the Genesis 1 companion (Section I, `en/genesis/study/CHAPTER-1-CONTEXT.md`). The entries below address the historical circumstances specifically foregrounded in Genesis 7 — the flood mechanism, measurement systems, animal management, water cosmology, and calendrical precision.
+> **Cross-reference:** For the full four-scenario, ten-category world context (Political, Economy, Daily Life, Social Structure, Education, Military, Arts, Science, Religion, Neighboring Peoples), see the Genesis 1 study companion (Deeper), Section I. The entries below address the historical circumstances specifically foregrounded in Genesis 7 — the flood mechanism, measurement systems, animal management, water cosmology, and calendrical precision.
 
 ---
 
@@ -324,6 +324,4 @@ The three-tier cosmological model (waters above, earth, waters below) was receiv
 ---
 
 **Editorial provenance:**
-- Drafted by: Claude Opus 4.6 (AI assistant)
-- Date: 2026-04-24
-- Reviewed by: pending
+- AI-assisted draft, not yet reviewed.

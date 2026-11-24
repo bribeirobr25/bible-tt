@@ -173,7 +173,7 @@ El texto griego de Lucas fue transmitido a través de la misma tradición manusc
 ### E2. Variantes notables dentro de los capítulos 1–3
 **[TEXTUAL — VERIFICADO]**
 
-Los capítulos iniciales contienen varias variantes que cumplen el umbral de significatividad de RULES-GS y se tratan en las notas de los capítulos:
+Los capítulos iniciales contienen varias variantes que cumplen el umbral de significatividad de la TT y se tratan en las notas de los capítulos:
 
 - **1:46** — "**María** dijo" (el Magníficat) es leído por unos pocos testigos latinos antiguos como "**Elisabet** dijo." La abrumadora evidencia manuscrita lee "María"; la lectura minoritaria se anota, no se adopta.
 - **2:14** — "paz entre los hombres **de buena voluntad / en quienes él se complace**" (*eudokias*, genitivo: א*, A, B*, D, W — la lectura más temprana) frente a "paz, buena voluntad **hacia** los hombres" (*eudokia*, nominativo: bizantino). El genitivo es el texto crítico; la diferencia se reduce a una sola letra final.
@@ -222,17 +222,17 @@ Según la política de transliteración de nombres de la TT, la primera aparici�
 ### F3. Los cánticos
 **[TEXTUAL — VERIFICADO]**
 
-Lucas 1–2 contiene cuatro cantos que han llegado a ser conocidos por sus palabras iniciales en latín: el **Magníficat** (Miryam (María), 1:46–55), el **Benedictus** (Zekharyah (Zacarías), 1:68–79), el **Gloria** (la hueste angélica, 2:14) y el **Nunc Dimittis** (Shimon (Simeón), 2:29–32). Los cuatro están saturados de lenguaje de la Septuaginta (el Magníficat especialmente resuena con el canto de Ana, 1 Samuel 2:1–10). Estos son discurso **humano** — cantos de María, Zacarías, la hueste angélica y Simeón — y por ello **no** se marcan como discurso divino bajo la Regla 30. Por la convención establecida de la TT (registro editorial L-002), se traducen como prosa fluida en vez de poesía dispuesta en líneas; la disposición visual en líneas se aplaza junto con la cuestión más amplia de la poesía hebrea.
+Lucas 1–2 contiene cuatro cantos que han llegado a ser conocidos por sus palabras iniciales en latín: el **Magníficat** (Miryam (María), 1:46–55), el **Benedictus** (Zekharyah (Zacarías), 1:68–79), el **Gloria** (la hueste angélica, 2:14) y el **Nunc Dimittis** (Shimon (Simeón), 2:29–32). Los cuatro están saturados de lenguaje de la Septuaginta (el Magníficat especialmente resuena con el canto de Ana, 1 Samuel 2:1–10). Estos son discurso **humano** — cantos de María, Zacarías, la hueste angélica y Simeón — y por ello **no** se marcan como discurso divino bajo la Regla 30. Por la convención establecida de la TT, se traducen como prosa fluida en vez de poesía dispuesta en líneas; la disposición visual en líneas se aplaza junto con la cuestión más amplia de la poesía hebrea.
 
 ### F4. Discurso divino directo (Regla 30)
 **[TEXTUAL — VERIFICADO]**
 
-La TT marca el discurso directo de Dios y de Yeshua (Jesús) con un color distinto. Dentro de Lucas 1–3 esto cubre la voz divina en la inmersión (3:22 — "Tú eres mi hijo amado; en ti me complazco") y los dichos de Yeshua (p. ej. 2:49, "¿No sabían que debo ocuparme de los asuntos de mi Padre…?"). El discurso de **Gavriel (Gabriel)** — un mensajero angélico (1:13–20; 1:28–37) — **no** se marca, en consonancia con el precedente de Mateo/Marcos para los oradores angélicos (registro editorial L-001). Los cánticos, el discurso de Elisheva (Elisabet), Zekharyah (Zacarías), Shimon (Simeón) y la multitud tampoco se marcan como divinos.
+La TT marca el discurso directo de Dios y de Yeshua (Jesús) con un color distinto. Dentro de Lucas 1–3 esto cubre la voz divina en la inmersión (3:22 — "Tú eres mi hijo amado; en ti me complazco") y los dichos de Yeshua (p. ej. 2:49, "¿No sabían que debo ocuparme de los asuntos de mi Padre…?"). El discurso de **Gavriel (Gabriel)** — un mensajero angélico (1:13–20; 1:28–37) — **no** se marca, en consonancia con el precedente de Mateo/Marcos para los oradores angélicos. Los cánticos, el discurso de Elisheva (Elisabet), Zekharyah (Zacarías), Shimon (Simeón) y la multitud tampoco se marcan como divinos.
 
 ### F5. Kyrios — Política del Nombre Divino en Lucas
 **[TEXTUAL — VERIFICADO]**
 
-Cuando Lucas cita o evoca pasajes de la Biblia Hebrea que contienen el Tetragrama (el nombre divino hebreo de cuatro letras יהוה, transliterado YHWH), el texto griego usa κύριος (*kyrios*). Según la Política del Nombre Divino de la TT (Opción C, RULES-GS.md):
+Cuando Lucas cita o evoca pasajes de la Biblia Hebrea que contienen el Tetragrama (el nombre divino hebreo de cuatro letras יהוה, transliterado YHWH), el texto griego usa κύριος (*kyrios*). Según la Política del Nombre Divino de la TT (Opción C):
 
 - El texto principal traduce *kyrios* como "el Señor" en contextos de cita y de eco del AT.
 - Una nota identifica la fuente y declara que el hebreo subyacente tiene el Tetragrama.
@@ -252,10 +252,10 @@ Esto es especialmente relevante en los cánticos y la narrativa de la infancia, 
 | 3 | No importar teología | La narrativa de la infancia y los cánticos se traducen tal como el texto los presenta — sin importar teología mariana posterior y sin desestimar la narrativa. Restricción en ambos sentidos. |
 | 11 | Marcar adiciones gramaticales | Palabras agregadas para la gramática española aparecen en cursiva. |
 | 13 | Niveles de incertidumbre | Términos debatidos y cuestiones genealógicas llevan etiquetas de confianza (Probable / Posible / Incierto). |
-| 14 | Anotar Juegos de Palabras | Términos griegos clave (p. ej. *asphaleia*, *eudokia*) anotados en Nivel 2 donde el rango semántico importa. |
-| 22 | Restricción Textual-Crítica | Variantes (1:46 María/Elisabet; 2:14 *eudokias*/*eudokia*; 3:22 "hoy te he engendrado") anotadas en Nivel 2 sin adopción silenciosa. |
-| 25 | Política del Nombre Divino — GS Opción C | κύριος traducido como "el Señor" en contextos de cita/eco del AT, con nota en Nivel 2 identificando YHWH en el hebreo subyacente. Ver F5. |
-| 30 | Marcado de discurso divino | La voz de Dios (3:22) y el discurso de Yeshua se marcan; Gavriel (Gabriel) y los cánticos no. Ver F4. |
+| 14 | Anotar Juegos de Palabras | Términos griegos clave (p. ej. *asphaleia*, *eudokia*) anotados en las notas donde el rango semántico importa. |
+| 22 | Restricción Textual-Crítica | Variantes (1:46 María/Elisabet; 2:14 *eudokias*/*eudokia*; 3:22 "hoy te he engendrado") anotadas en las notas sin adopción silenciosa. |
+| 25 | Política del Nombre Divino — GS Opción C | κύριος traducido como "el Señor" en contextos de cita/eco del AT, con una nota identificando YHWH en el hebreo subyacente. Ver F5. |
+| 30 | Marcado de habla divina | La voz de Dios (3:22) y el discurso de Yeshua se marcan; Gavriel (Gabriel) y los cánticos no. Ver F4. |
 
 ---
 
@@ -272,4 +272,4 @@ Esto es especialmente relevante en los cánticos y la narrativa de la infancia, 
 
 ---
 
-> **Procedencia editorial:** Redactado por Claude Opus 4.8 (contexto 1M) el 22-06-2026. Sin revisión. Esta introducción es un recurso académico provisional gobernado por la Regla 29 de la TT. Todas las afirmaciones llevan etiquetas duales; ninguna afirmación debe leerse como la posición teológica o composicional de la TT. La TT traduce el texto griego (NA28) y no adopta ninguna teoría particular de autoría o composición.
+> **Procedencia editorial:** Borrador asistido por IA, aún no revisado. Esta introducción es un recurso académico provisional gobernado por la Regla 29 de la TT. Todas las afirmaciones llevan etiquetas duales; ninguna afirmación debe leerse como la posición teológica o composicional de la TT. La TT traduce el texto griego (NA28) y no adopta ninguna teoría particular de autoría o composición.

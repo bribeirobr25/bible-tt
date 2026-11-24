@@ -181,7 +181,7 @@ Gn 11:26: „Terach lebte siebzig Jahre und zeugte Abram, Nahor und Haran." Gn 1
 
 ## I. Die Welt zur damaligen Zeit
 
-> **Querverweis:** Für den vollständigen Welt-Kontext (vier Szenarien, zehn Kategorien — Politik, Wirtschaft, Alltagsleben, Sozialstruktur, Bildung, Militär, Kunst, Wissenschaft, Religion, Nachbarvölker), siehe den Genesis-1-Begleitkommentar (Abschnitt I, `de/genesis/study/CHAPTER-1-CONTEXT.md`). Die folgenden Einträge behandeln die historischen Umstände, die in Genesis 11 spezifisch hervorgehoben werden — Turm- und Zikkuratarchitektur, die Ideologie städtischer Zivilisation, sprachliche Vielfalt in der Antike, Migrationsmuster sowie die Städte Ur und Charan als reale Orte auf der antiken Karte.
+> **Querverweis:** Für den vollständigen Welt-Kontext (vier Szenarien, zehn Kategorien — Politik, Wirtschaft, Alltagsleben, Sozialstruktur, Bildung, Militär, Kunst, Wissenschaft, Religion, Nachbarvölker), siehe das Begleitmaterial zu Genesis 1 (Vertiefen), Abschnitt I. Die folgenden Einträge behandeln die historischen Umstände, die in Genesis 11 spezifisch hervorgehoben werden — Turm- und Zikkuratarchitektur, die Ideologie städtischer Zivilisation, sprachliche Vielfalt in der Antike, Migrationsmuster sowie die Städte Ur und Charan als reale Orte auf der antiken Karte.
 
 ---
 
@@ -274,6 +274,4 @@ Die hellenistische Periode war durch die Ausbreitung des Griechischen (*Koine*) 
 ---
 
 **Redaktionelle Herkunft:**
-- Entwurf: Claude Opus 4.6 (KI-Assistent)
-- Datum: 2026-04-27
-- Begutachtung: ausstehend
+- KI-gestützter Entwurf, noch nicht geprüft.

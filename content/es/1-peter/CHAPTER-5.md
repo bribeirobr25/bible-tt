@@ -22,7 +22,7 @@
 - [Lectura Continua](#lectura-continua)
 - [Estudio Versículo por Versículo](#estudio-versículo-por-versículo)
 - [Glosario — 1 Pedro 5](#glosario--1-pedro-5)
-- [Seguimiento entre Capítulos (BH -> 1 Pedro)](#seguimiento-entre-capítulos-bh--1-pedro)
+- [Seguimiento entre Capítulos (BH → 1 Pedro)](#seguimiento-entre-capítulos-bh--1-pedro)
 
 ---
 
@@ -47,7 +47,7 @@ Las notas se etiquetan por tipo — **Crítico · Léxico · Gramatical · Teol�
 
 **Temas clave:** El **encargo pastoral** — Pedro como "coanciano" (no "jefe," a pesar de su estatura); pastorear voluntariamente, no por ganancia, no dominando, sino como ejemplos (haciendo eco del *hypogrammos* del Mesías, 2:21); el **Pastor principal** (*archipoimēn*) y la "corona inmarcesible" (ligada a la herencia incorruptible, 1:4); la **humildad** mutua fundamentada en Proverbios 3:34 ("Dios resiste a los soberbios, da gracia a los humildes"); el **humillarse bajo la poderosa mano de Dios** (lenguaje del Éxodo) con la promesa de exaltación "a su debido tiempo"; **echar la ansiedad sobre Dios** (Sal 55:22) porque "él se preocupa por ustedes"; la **vigilancia** contra el **adversario/calumniador** (el *diabolos*), el león rugiente; la resistencia "firmes en la fe," en solidaridad con una hermandad mundial que sufre; el **Dios de toda gracia** que restaura después de "un poco" de sufrimiento — el arco de esperanza-a-través-del-sufrimiento de la carta resuelto; y el **cierre epistolar** — Silvano el portador, el saludo de "**Babilonia**" (un cifrado probable de Roma), "**Marcos** mi hijo," el beso de amor y la paz.
 
-**Observe:** **5:1** — Pedro se llama a sí mismo *sympresbyteros* ("**co**anciano"), un notable rebajamiento de sí mismo. **5:5** cita Proverbios 3:34 (LXX: "Dios resiste a los soberbios, da gracia a los humildes" — la misma cita que Santiago 4:6; la voz del sabio — sin marcar). **5:7** hace eco del Salmo 55:22 ("echa tu carga sobre YHWH"). **5:8** "el **adversario** (*antidikos*), el **calumniador** (*diabolos*), como un león rugiente" — *diabolos* (lit. "calumniador/acusador") es el término detrás de "diablo"; el león puede hacer eco del Salmo 22:13. **5:12** "**por medio de Silvano** escribí" — el portador/amanuense (la cuestión de la autoría-por-secretario de la Introducción). **5:13** "**la que está en Babilonia**" = la iglesia co-elegida, con "Babilonia" ampliamente leída como un cifrado de **Roma** (Nivel 2); "**Marcos** mi hijo" enlaza con el evangelio de Marcos (entre libros).
+**Observe:** **5:1** — Pedro se llama a sí mismo *sympresbyteros* ("**co**anciano"), un notable rebajamiento de sí mismo. **5:5** cita Proverbios 3:34 (LXX: "Dios resiste a los soberbios, da gracia a los humildes" — la misma cita que Santiago 4:6; la voz del sabio — sin marcar). **5:7** hace eco del Salmo 55:22 ("echa tu carga sobre YHWH"). **5:8** "el **adversario** (*antidikos*), el **calumniador** (*diabolos*), como un león rugiente" — *diabolos* (lit. "calumniador/acusador") es el término detrás de "diablo"; el león puede hacer eco del Salmo 22:13. **5:12** "**por medio de Silvano** escribí" — el portador/amanuense (la cuestión de la autoría-por-secretario de la Introducción). **5:13** "**la que está en Babilonia**" = la iglesia co-elegida, con "Babilonia" ampliamente leída como un cifrado de **Roma** (ver la nota de 5:13); "**Marcos** mi hijo" enlaza con el evangelio de Marcos (entre libros).
 
 **Conexión:** "Pastoreen el rebaño de Dios" (5:2) se nutre de Ezequiel 34 (YHWH contra los falsos pastores, prometiendo uno verdadero) y del Mesías como pastor (2:25; Jn 10). El "Pastor principal" + "corona" (5:4) hacen eco de la imagen del pastor-rey (Sal 23; el pastor mesiánico). "Dios resiste a los soberbios pero da gracia a los humildes" (5:5) cita Proverbios 3:34 (LXX). "Humíllense bajo la poderosa mano de Dios" (5:6) usa la "mano poderosa" del Éxodo (Éx 3:19; Dt 9:26). "Echen toda su ansiedad sobre él" (5:7) hace eco del Salmo 55:22. El león rugiente (5:8) recuerda el Salmo 22:13 y la imagen del depredador de los Salmos.
 
@@ -206,7 +206,7 @@ La *que está* en Babilonia (Bavel), elegida juntamente *con ustedes*, los salud
 > **Notas**
 >
 > 🔴 **CRÍTICO — "LA QUE ESTÁ EN BABILONIA" + "MARCOS MI HIJO"**
-> - **ἡ ἐν Βαβυλῶνι συνεκλεκτὴ καὶ Μᾶρκος ὁ υἱός μου** = "**La** *que está* en **Babilonia**, **elegida juntamente** *con ustedes*, *los saluda*, y **Markos** (Marcos) **mi hijo**." "La… elegida-juntamente" (*syneklektē*) = la **iglesia** en Babilonia (femenino; cf. 2 Jn 1, 13), enviando saludos. "**Babilonia**" es ampliamente leída como un **cifrado de Roma** (el imperio-del-exilio, como en Apocalipsis; Roma como el lugar del ministerio posterior de Pedro) — la TT conserva "Babilonia" y lo anota (Nivel 2). "**Marcos** mi hijo" — Yochanan Marcos (Hch 12:12; 2 Tim 4:11), enlazando con el evangelio de Marcos (entre libros). → Compañero §B (Babilonia = Roma); Personas (Markos → mark; Silvano).
+> - **ἡ ἐν Βαβυλῶνι συνεκλεκτὴ καὶ Μᾶρκος ὁ υἱός μου** = "**La** *que está* en **Babilonia**, **elegida juntamente** *con ustedes*, *los saluda*, y **Markos** (Marcos) **mi hijo**." "La… elegida-juntamente" (*syneklektē*) = la **iglesia** en Babilonia (femenino; cf. 2 Jn 1, 13), enviando saludos. "**Babilonia**" es ampliamente leída como un **cifrado de Roma** (el imperio-del-exilio, como en Apocalipsis; Roma como el lugar del ministerio posterior de Pedro) — la TT conserva "Babilonia" y lo anota. "**Marcos** mi hijo" — Yochanan Marcos (Hch 12:12; 2 Tim 4:11), enlazando con el evangelio de Marcos (entre libros). → Compañero §B (Babilonia = Roma); Personas (Markos → mark; Silvano).
 
 ---
 
@@ -239,7 +239,7 @@ Salúdense unos a otros con un beso de amor. Paz a todos ustedes que *están* en
 
 ---
 
-## SEGUIMIENTO ENTRE CAPÍTULOS (BH -> 1 Pedro)
+## SEGUIMIENTO ENTRE CAPÍTULOS (BH → 1 Pedro)
 
 | BH / fuente anterior | Tema | En 1 Pedro 5 |
 |---------------------|-------|--------------|

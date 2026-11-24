@@ -111,7 +111,7 @@ The earliest and best manuscripts (א, B) end at **16:8** — the women flee the
 ### E2. Notable variants within chapters 1–3
 **[TEXTUAL — VERIFIED]**
 
-The opening chapters contain several variants that meet the RULES-GS significance threshold and are handled in the chapter notes:
+The opening chapters contain several variants that meet the TT's significance threshold and are handled in the chapter notes:
 - **1:1** — "son of God" (*huiou theou*) is **bracketed/disputed** in NA28 (absent from א*, Θ, 28; present in א¹, B, D, L, W).
 - **1:2** — the citation is attributed "in Isaiah the prophet" (NA28) vs. the Byzantine "in the prophets," because the citation is **composite** (Malachi 3:1 / Exodus 23:20 + Isaiah 40:3).
 - **1:41** — Yeshua "moved with compassion" (*splanchnistheis*, NA28) vs. "moved with anger" (*orgistheis*, Codex Bezae + Old Latin), the *lectio difficilior*.
@@ -160,7 +160,7 @@ Per the locked glossary, the TT renders meaning over transliteration-by-traditio
 | πνεῦμα (*pneuma*) | {wind/spirit} | slash for the divine spirit; "unclean spirit" without slash |
 | εὐθύς (*euthys*) | immediately | preserved at every occurrence (Mark's signature) |
 
-**Divine name (Rule 25 / GS Option C):** where *kyrios* renders YHWH in an OT quotation (e.g. 1:3, Isaiah 40:3), the TT reads "the Lord" in the main text, with the underlying YHWH referent noted in Tier 2.
+**Divine name (Rule 25 / GS Option C):** where *kyrios* renders YHWH in an OT quotation (e.g. 1:3, Isaiah 40:3), the TT reads "the Lord" in the main text, with the underlying YHWH referent noted in the notes.
 
 ### F4. Direct divine speech (Rule 30)
 **[TEXTUAL — VERIFIED]**

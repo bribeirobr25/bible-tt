@@ -22,7 +22,7 @@
 - [Lectura Continua](#lectura-continua)
 - [Estudio Versículo por Versículo](#estudio-versículo-por-versículo)
 - [Glosario — Hechos 2](#glosario---hechos-2)
-- [Seguimiento entre Capítulos (BH -> Hechos)](#seguimiento-entre-capítulos-bh--hechos)
+- [Seguimiento entre Capítulos (BH → Hechos)](#seguimiento-entre-capítulos-bh--hechos)
 
 ---
 
@@ -37,7 +37,7 @@
 
 Las notas se etiquetan por tipo — **Crítico · Léxico · Gramatical · Teológico** — cada una con su color (vea la leyenda en la parte superior de la vista de Notas).
 
-**Este es el capítulo de Pentecostés — el cumplimiento de la promesa de Hechos 1:5.** En la festividad de Pentecostés (Shavuot) el viento/espíritu santo viene con un sonido como de viento y lenguas como de fuego, y los creyentes reunidos hablan en otras lenguas/idiomas, oídos por judíos de toda nación (vv.1-13). Kefa pronuncia entonces el primer sermón apostólico: lee el acontecimiento a través de Yoel (Joel 2), proclama la muerte, la resurrección y la exaltación de Yeshua mediante los Salmos 16 y 110, y llama al cambio de mente y a la inmersión (vv.14-41). El capítulo cierra con un retrato de la nueva comunidad (vv.42-47). **Nota sobre la marcación del habla (Regla 30):** el habla divina en primera persona del oráculo de Joel ("derramaré mi viento/espíritu…") y las palabras del Señor en el Salmo 110 ("Siéntate a mi derecha…") se marcan **@@…@@**; la propia predicación de Pedro es habla humana y no se marca. **El crux principal es 2:34** — los dos referentes distintos del Salmo 110:1 bajo una sola palabra griega κύριος ("*El Señor* [YHWH] dijo a mi *señor* [el Mesías]"), traducido para conservar ambos y anotado (Regla 13).
+**Este es el capítulo de Pentecostés — el cumplimiento de la promesa de Hechos 1:5.** En la festividad de Pentecostés (Shavuot) el viento/espíritu santo viene con un sonido como de viento y lenguas como de fuego, y los creyentes reunidos hablan en otras lenguas/idiomas, oídos por judíos de toda nación (vv.1-13). Kefa pronuncia entonces el primer sermón apostólico: lee el acontecimiento a través de Yoel (Joel 2), proclama la muerte, la resurrección y la exaltación de Yeshua mediante los Salmos 16 y 110, y llama al cambio de mente y a la inmersión (vv.14-41). El capítulo cierra con un retrato de la nueva comunidad (vv.42-47). **Nota sobre la marcación del habla (Regla 30):** el habla divina en primera persona del oráculo de Joel ("derramaré mi viento/espíritu…") y las palabras del Señor en el Salmo 110 ("Siéntate a mi derecha…") **no** se marcan — Pedro las está citando, así que habla un hablante humano; la propia predicación de Pedro es igualmente habla humana. **El crux principal es 2:34** — los dos referentes distintos del Salmo 110:1 bajo una sola palabra griega κύριος ("*El Señor* [YHWH] dijo a mi *señor* [el Mesías]"), traducido para conservar ambos y anotado (Regla 13).
 
 ---
 
@@ -47,7 +47,7 @@ Las notas se etiquetan por tipo — **Crítico · Léxico · Gramatical · Teol�
 
 **Temas clave:** Pentecostés/Shavuot como el marco de la festividad de la cosecha para la "cosecha" del Espíritu de las naciones; la teofanía del viento/espíritu (sonido, fuego, lenguas) que recuerda el Sinaí; la reversión de Babel — un mensaje oído en muchos idiomas; los "últimos días" de Joel y la democratización del Espíritu (hijos e hijas, jóvenes y ancianos, siervos y siervas); el patrón del *kerygma* (proclamación) — la Escritura, la cruz por el plan de Dios y por manos humanas, la resurrección, la exaltación, el llamado a responder; el argumento davídico de los Salmos 16 y 110 de que la resurrección y la entronización del Mesías fueron prometidas; "Señor y Mesías" como la confesión; el cambio de mente, la inmersión en el nombre de Jesús, el perdón y el don del Espíritu como la respuesta; la vida comunitaria — enseñanza, comunión, pan, oración, bienes compartidos — como el primer fruto del Espíritu.
 
-**Observe:** "Lenguas" cambia de sentido — las visibles "lenguas como de fuego" (v.3, la forma de fuego) frente a las "otras lenguas/idiomas" del habla (vv.4, 11, conservadas con la barra). El habla divina en primera persona de la cita de Joel se marca (vv.17-21); el sermón de Pedro no. *Kyrios* lleva YHWH en las citas ("el día del Señor," "invoca el nombre del Señor," v.21; "vi al Señor," v.25) y en 2:34 lleva **dos referentes a la vez** — el crux del capítulo. En 2:38 la preposición *eis* ("para/hacia la liberación de pecados") está cargada teológicamente; la TT la preserva sin resolver causa-versus-propósito. *Hades* (vv.27, 31) traduce la LXX de Sheol. El resumen de la comunidad (vv.42-47) usa *koinōnia* ("comunión/compartir").
+**Observe:** "Lenguas" cambia de sentido — las visibles "lenguas como de fuego" (v.3, la forma de fuego) frente a las "otras lenguas/idiomas" del habla (vv.4, 11, conservadas con la barra). El habla divina en primera persona de la cita de Joel (vv.17-21) no se marca — Pedro la está citando (Regla 30). *Kyrios* lleva YHWH en las citas ("el día del Señor," "invoca el nombre del Señor," v.21; "vi al Señor," v.25) y en 2:34 lleva **dos referentes a la vez** — el crux del capítulo. En 2:38 la preposición *eis* ("para/hacia la liberación de pecados") está cargada teológicamente; la TT la preserva sin resolver causa-versus-propósito. *Hades* (vv.27, 31) traduce la LXX de Sheol. El resumen de la comunidad (vv.42-47) usa *koinōnia* ("comunión/compartir").
 
 **Conexión:** Hechos 2 está tejido de la Biblia Hebrea. El viento, el fuego y la festividad evocan el Sinaí (Éx 19), donde la tradición judía ubicó la entrega de la Torá en Shavuot; los muchos idiomas revierten Babel (Gén 11). La columna vertebral del sermón son tres textos: Joel 2:28-32 (el Espíritu derramado y "el nombre de YHWH"), Salmo 16:8-11 (el santo no abandonado a Sheol/Hades) y Salmo 110:1 (la palabra de YHWH al señor de David). La promesa "para ustedes y para sus hijos y para todos los que están lejos" (v.39) hace eco de Isaías 57:19 y Joel 2:32. La comunidad de bienes compartidos recuerda el ideal del pacto de "no habrá necesitado entre ustedes" (Deut 15:4).
 
@@ -63,11 +63,11 @@ Las notas se etiquetan por tipo — **Crítico · Léxico · Gramatical · Teol�
 
 ⁵Ahora bien, había habitando en Yerushalayim (Jerusalén) judíos (Yehudim), hombres devotos de toda nación de las que están bajo el cielo. ⁶Y *cuando* este sonido ocurrió, la multitud se reunió y quedó confundida, porque cada uno los oía hablar en su propio idioma. ⁷Y estaban asombrados y maravillados, diciendo: "He aquí, ¿no son todos estos que hablan galileos? ⁸¿Y cómo *es que* oímos, cada *uno de nosotros*, *en* nuestro propio idioma en que nacimos? ⁹Partos y medos y elamitas, y los que habitan *en* Mesopotamia, Yehudah (Judea) y Capadocia, Ponto y Asia, ¹⁰Frigia y Panfilia, Egipto y las partes de Libia *hacia* Cirene, y los romanos que visitan, ¹¹tanto judíos (Yehudim) como prosélitos, cretenses y árabes — los oímos hablar en nuestras *propias* {a:lenguas/idiomas} las grandes *obras* de Dios." ¹²Y todos estaban asombrados y perplejos, diciéndose unos a otros: "¿Qué quiere ser esto?" ¹³Pero otros, burlándose, decían que "Están llenos de vino dulce."
 
-¹⁴Pero Kefa (Pedro), de pie con los once, alzó su voz y les declaró: "Hombres, judíos (Yehudim), y todos los que habitan *en* Yerushalayim (Jerusalén), sea esto conocido por ustedes, y presten oído a mis palabras. ¹⁵Porque estas *personas* no están ebrias, como ustedes suponen, pues es *la* hora tercera del día; ¹⁶sino que esto es lo que ha sido dicho por medio del profeta Yoel (Joel): ¹⁷@@'Y será en los últimos días, dice Dios, *que* derramaré de mi {a:viento/espíritu} sobre toda carne, y sus hijos y sus hijas profetizarán, y sus jóvenes verán visiones, y sus ancianos soñarán sueños; ¹⁸y en verdad sobre mis siervos y sobre mis siervas en aquellos días derramaré de mi {a:viento/espíritu}, y profetizarán. ¹⁹Y daré prodigios en el cielo arriba y señales en la tierra abajo — sangre y fuego y vapor de humo. ²⁰El sol será convertido en tinieblas y la luna en sangre, antes de que venga el día *del* Señor — el grande y manifiesto *día*. ²¹Y será *que* todo el que invoque el nombre *del* Señor será salvo.'@@
+¹⁴Pero Kefa (Pedro), de pie con los once, alzó su voz y les declaró: "Hombres, judíos (Yehudim), y todos los que habitan *en* Yerushalayim (Jerusalén), sea esto conocido por ustedes, y presten oído a mis palabras. ¹⁵Porque estas *personas* no están ebrias, como ustedes suponen, pues es *la* hora tercera del día; ¹⁶sino que esto es lo que ha sido dicho por medio del profeta Yoel (Joel): ¹⁷'Y será en los últimos días, dice Dios, *que* derramaré de mi {a:viento/espíritu} sobre toda carne, y sus hijos y sus hijas profetizarán, y sus jóvenes verán visiones, y sus ancianos soñarán sueños; ¹⁸y en verdad sobre mis siervos y sobre mis siervas en aquellos días derramaré de mi {a:viento/espíritu}, y profetizarán. ¹⁹Y daré prodigios en el cielo arriba y señales en la tierra abajo — sangre y fuego y vapor de humo. ²⁰El sol será convertido en tinieblas y la luna en sangre, antes de que venga el día *del* Señor — el grande y manifiesto *día*. ²¹Y será *que* todo el que invoque el nombre *del* Señor será salvo.'
 
 ²²"Hombres, israelitas, oigan estas palabras: Yeshua el Nazareno (Yeshua *el* Nazareno), un hombre demostrado a ustedes *como* de parte de Dios por *obras* poderosas y prodigios y señales que Dios hizo por medio de él en medio de ustedes, tal como ustedes mismos saben — ²³a este *uno*, entregado por el plan determinado y la presciencia de Dios, ustedes, *por* mano de *hombres* inicuos, clavaron *y* mataron; ²⁴a quien Dios resucitó, habiendo desatado los dolores de parto de la muerte, porque no era posible *que* él fuera retenido por ella. ²⁵Porque David dice acerca de él: 'Veía al Señor delante de mí siempre, porque está a mi *mano* derecha, para que yo no sea sacudido. ²⁶Por eso mi corazón se alegró y mi lengua se regocijó; y aún mi carne también descansará sobre esperanza, ²⁷porque no abandonarás mi alma al {t:Hades}, ni darás a tu santo *uno* que vea corrupción. ²⁸Me hiciste conocer caminos de vida; me llenarás de alegría con tu rostro.'
 
-²⁹"Hombres, hermanos, *me es* permitido decirles con franqueza acerca del patriarca David, que él tanto murió como fue sepultado, y su tumba está entre nosotros hasta este día. ³⁰Por tanto, siendo profeta, y sabiendo que Dios le juró con juramento *que* del fruto de sus lomos *sentaría a uno* sobre su trono, ³¹*mirando* hacia adelante, habló acerca de la resurrección del Mesías, que ni fue abandonado al {t:Hades} ni su carne vio corrupción. ³²A este Yeshua (Jesús) Dios resucitó, de lo cual todos nosotros somos testigos. ³³Por tanto, exaltado a la *mano* derecha de Dios, y habiendo recibido del Padre la promesa del {a:viento/espíritu} santo, derramó esto que ustedes *tanto* ven como oyen. ³⁴Porque David no ascendió a los cielos, pero él mismo dice: 'El Señor dijo a mi señor, @@"Siéntate a mi *mano* derecha, ³⁵hasta que ponga a tus enemigos *como* estrado de tus pies."@@' ³⁶Por tanto sepa con certeza toda *la* casa de Israel que Dios lo hizo tanto Señor como Mesías — a este Yeshua (Jesús) a quien ustedes crucificaron."
+²⁹"Hombres, hermanos, *me es* permitido decirles con franqueza acerca del patriarca David, que él tanto murió como fue sepultado, y su tumba está entre nosotros hasta este día. ³⁰Por tanto, siendo profeta, y sabiendo que Dios le juró con juramento *que* del fruto de sus lomos *sentaría a uno* sobre su trono, ³¹*mirando* hacia adelante, habló acerca de la resurrección del Mesías, que ni fue abandonado al {t:Hades} ni su carne vio corrupción. ³²A este Yeshua (Jesús) Dios resucitó, de lo cual todos nosotros somos testigos. ³³Por tanto, exaltado a la *mano* derecha de Dios, y habiendo recibido del Padre la promesa del {a:viento/espíritu} santo, derramó esto que ustedes *tanto* ven como oyen. ³⁴Porque David no ascendió a los cielos, pero él mismo dice: 'El Señor dijo a mi señor, "Siéntate a mi *mano* derecha, ³⁵hasta que ponga a tus enemigos *como* estrado de tus pies."' ³⁶Por tanto sepa con certeza toda *la* casa de Israel que Dios lo hizo tanto Señor como Mesías — a este Yeshua (Jesús) a quien ustedes crucificaron."
 
 ³⁷Y al oír *esto*, fueron traspasados en el corazón, y dijeron a Kefa (Pedro) y al resto de los apóstoles: "¿Qué haremos, hombres, hermanos?" ³⁸Y Kefa (Pedro) *les dijo*: "Cambien *de* mente, y que cada uno de ustedes sea sumergido sobre el nombre de Yeshua *el* Mesías (Jesús) para *la* liberación de sus pecados, y recibirán el don del {a:viento/espíritu} santo. ³⁹Porque para ustedes es la promesa, y para sus hijos, y para todos los que están a la distancia, cuantos *el* Señor nuestro Dios llame a sí mismo." ⁴⁰Y con muchas otras palabras testificaba solemnemente y los exhortaba, diciendo: "Sean salvos de esta generación torcida." ⁴¹Así que los que acogieron su palabra fueron sumergidos, y se añadieron en aquel día como tres mil almas.
 
@@ -255,12 +255,12 @@ sino que esto es lo que ha sido dicho por medio del profeta Yoel (Joel):
 
 ### **Versículo 17**
 
-@@'Y será en los últimos días, dice Dios, *que* derramaré de mi {a:viento/espíritu} sobre toda carne, y sus hijos y sus hijas profetizarán, y sus jóvenes verán visiones, y sus ancianos soñarán sueños;
+'Y será en los últimos días, dice Dios, *que* derramaré de mi {a:viento/espíritu} sobre toda carne, y sus hijos y sus hijas profetizarán, y sus jóvenes verán visiones, y sus ancianos soñarán sueños;
 
 > **Notas**
 >
 > 🔴 **CRÍTICO — EL ORÁCULO DE JOEL: HABLA DIVINA (Regla 30)**
-> - La cita es habla en primera persona de Dios ("dice Dios… derramaré") → marcada **@@…@@** (Regla 30 / decisión A-004). Hechos lee **ἐν ταῖς ἐσχάταις ἡμέραις** ("en los últimos días") donde Joel/LXX tiene "después de estas cosas" — interpretando la venida del Espíritu como la inauguración de los últimos días. **ἐκχεῶ ἀπὸ τοῦ πνεύματός μου ἐπὶ πᾶσαν σάρκα** = "derramaré de mi {a:viento/espíritu} sobre toda carne" — el Espíritu democratizado (hijos/hijas, jóvenes/ancianos). → Compañero §B2 (Joel y los últimos días).
+> - La cita es habla en primera persona de Dios ("dice Dios… derramaré"), citada por Pedro → no marcada (Regla 30). Hechos lee **ἐν ταῖς ἐσχάταις ἡμέραις** ("en los últimos días") donde Joel/LXX tiene "después de estas cosas" — interpretando la venida del Espíritu como la inauguración de los últimos días. **ἐκχεῶ ἀπὸ τοῦ πνεύματός μου ἐπὶ πᾶσαν σάρκα** = "derramaré de mi {a:viento/espíritu} sobre toda carne" — el Espíritu democratizado (hijos/hijas, jóvenes/ancianos). → Compañero §B2 (Joel y los últimos días).
 
 ---
 
@@ -282,7 +282,7 @@ Y daré prodigios en el cielo arriba y señales en la tierra abajo — sangre y 
 > **Notas**
 >
 > 🔵 **"PRODIGIOS… Y SEÑALES"**
-> - **τέρατα… καὶ σημεῖα** (*terata… kai sēmeia*) = "prodigios y señales" — los portentos cósmicos del Día de YHWH; en Hechos el mismo emparejamiento describe las obras de los apóstoles (2:43; 4:30). Aún dentro del oráculo en primera persona de Dios (@@…@@).
+> - **τέρατα… καὶ σημεῖα** (*terata… kai sēmeia*) = "prodigios y señales" — los portentos cósmicos del Día de YHWH; en Hechos el mismo emparejamiento describe las obras de los apóstoles (2:43; 4:30). Aún dentro del oráculo en primera persona de Dios, citado por Pedro (no marcado, Regla 30).
 
 ---
 
@@ -299,12 +299,12 @@ El sol será convertido en tinieblas y la luna en sangre, antes de que venga el 
 
 ### **Versículo 21**
 
-Y será *que* todo el que invoque el nombre *del* Señor será salvo.'@@
+Y será *que* todo el que invoque el nombre *del* Señor será salvo.'
 
 > **Notas**
 >
 > 🔴 **CRÍTICO — "TODO EL QUE INVOQUE EL NOMBRE DEL SEÑOR"**
-> - **πᾶς ὃς ἂν ἐπικαλέσηται τὸ ὄνομα κυρίου σωθήσεται** (*pas hos an epikalesētai to onoma kyriou sōthēsetai*) = "todo el que invoque el nombre *del* Señor será salvo." En Joel, *kyrios* = **YHWH** (Opción C). El sermón redefinirá "el nombre" cristológicamente (v.38, inmersión "sobre el nombre de Yeshua") — el mismo κύριος aplicado a Jesús en el v.36; la TT conserva "el Señor" y rastrea el referente en las notas. La cita de Joel en habla divina (@@…@@) cierra aquí. → Compañero §B2.
+> - **πᾶς ὃς ἂν ἐπικαλέσηται τὸ ὄνομα κυρίου σωθήσεται** (*pas hos an epikalesētai to onoma kyriou sōthēsetai*) = "todo el que invoque el nombre *del* Señor será salvo." En Joel, *kyrios* = **YHWH** (Opción C). El sermón redefinirá "el nombre" cristológicamente (v.38, inmersión "sobre el nombre de Yeshua") — el mismo κύριος aplicado a Jesús en el v.36; la TT conserva "el Señor" y rastrea el referente en las notas. La cita de Joel (habla de Dios en primera persona, citada por Pedro — no marcada) cierra aquí. → Compañero §B2.
 
 ---
 
@@ -442,23 +442,23 @@ Por tanto, exaltado a la *mano* derecha de Dios, y habiendo recibido del Padre l
 
 ### **Versículo 34**
 
-Porque David no ascendió a los cielos, pero él mismo dice: 'El Señor dijo a mi señor, @@"Siéntate a mi *mano* derecha,
+Porque David no ascendió a los cielos, pero él mismo dice: 'El Señor dijo a mi señor, "Siéntate a mi *mano* derecha,
 
 > **Notas**
 >
-> 🔴 **CRÍTICO — SALMO 110:1: EL DOBLE *KYRIOS* (decisión A-005)**
-> - **εἶπεν ὁ κύριος τῷ κυρίῳ μου** (*eipen ho kyrios tō kyriō mou*) = "*El* Señor dijo a mi señor." Dos referentes distintos bajo una sola palabra griega: el primer **κύριος = YHWH** (el que habla; Opción C — DE→JHWH, PT/ES→YHWH en la propagación); el segundo **τῷ κυρίῳ μου = el Mesías** (el "señor" de David, el destinatario). Todo el argumento davídico gira sobre esta distinción. La TT traduce "El Señor dijo a mi señor" y el mandato citado del Señor "Siéntate a mi derecha…" es habla divina → marcado @@…@@. **[los dos referentes: PROBABLE; la aplicación mesiánica es la afirmación del sermón.]** → Compañero §B4 (Salmo 110 y la entronización).
+> 🔴 **CRÍTICO — SALMO 110:1: EL DOBLE *KYRIOS***
+> - **εἶπεν ὁ κύριος τῷ κυρίῳ μου** (*eipen ho kyrios tō kyriō mou*) = "*El* Señor dijo a mi señor." Dos referentes distintos bajo una sola palabra griega: el primer **κύριος = YHWH** (el que habla; Opción C); el segundo **τῷ κυρίῳ μου = el Mesías** (el "señor" de David, el destinatario). Todo el argumento davídico gira sobre esta distinción. La TT traduce "El Señor dijo a mi señor" y el mandato citado del Señor "Siéntate a mi derecha…" es habla divina citada por Pedro → no marcado (Regla 30). **[los dos referentes: PROBABLE; la aplicación mesiánica es la afirmación del sermón.]** → Compañero §B4 (Salmo 110 y la entronización).
 
 ---
 
 ### **Versículo 35**
 
-hasta que ponga a tus enemigos *como* estrado de tus pies."@@'
+hasta que ponga a tus enemigos *como* estrado de tus pies."'
 
 > **Notas**
 >
 > 🔵 **"UN ESTRADO DE TUS PIES"**
-> - **ὑποπόδιον τῶν ποδῶν σου** (*hypopodion tōn podōn sou*) = "un estrado de tus pies" — la subyugación de los enemigos bajo el Mesías entronizado. El mandato en primera persona del Señor continúa el habla divina marcada en el v.34. El Salmo 110:1 es el versículo de la BH más citado en el GS.
+> - **ὑποπόδιον τῶν ποδῶν σου** (*hypopodion tōn podōn sou*) = "un estrado de tus pies" — la subyugación de los enemigos bajo el Mesías entronizado. El mandato en primera persona del Señor continúa el habla divina iniciada en el v.34 (citada, por lo que no se marca). El Salmo 110:1 es el versículo de la BH más citado en el GS.
 
 ---
 
@@ -612,7 +612,7 @@ alabando a Dios y teniendo favor para con todo el pueblo. Y el Señor añadía d
 
 ---
 
-## SEGUIMIENTO ENTRE CAPÍTULOS (BH -> Hechos)
+## SEGUIMIENTO ENTRE CAPÍTULOS (BH → Hechos)
 
 | BH / fuente anterior | Tema | En Hechos 2 |
 |---------------------|-------|-----------|

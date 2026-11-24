@@ -52,7 +52,7 @@ Die Naht wird durch den Inhalt verstärkt: Beide Bände drehen sich um die Himme
 ### A2. Die Zeugen-Geographie als der eigene Aufriss des Buches
 **[TEXTUELL — VERIFIZIERT]**
 
-In 1,8 sagt der auferstandene Yeshua, die Jünger würden „meine Zeugen sein, sowohl in **Yerushalayim** (Jerusalem) als auch in ganz **Yehudah** (Judäa) und **Shomron** (Samaria) und bis an *das* Ende der Erde." Dies ist nicht nur eine Verheißung; es ist das literarische Inhaltsverzeichnis der Apostelgeschichte selbst — Jerusalem (Kap. 1-7), Judäa und Samaria (Kap. 8-12) und die Bewegung nach außen „bis an das Ende der Erde" (Kap. 13-28). Der Begriff **μάρτυς** (*martys*, „Zeuge", Vv.8, 22) ist hier rechtlich/zeugnisbezogen; erst später erhält das Wort den Sinn „Märtyrer". Gemäß Regel 30 ist diese Rede des auferstandenen Yeshua als göttliche Rede gekennzeichnet (@@…@@), in Übereinstimmung mit der Behandlung seiner Worte im Evangelium.
+In 1,8 sagt der auferstandene Yeshua, die Jünger würden „meine Zeugen sein, sowohl in **Yerushalayim** (Jerusalem) als auch in ganz **Yehudah** (Judäa) und **Shomron** (Samaria) und bis an *das* Ende der Erde." Dies ist nicht nur eine Verheißung; es ist das literarische Inhaltsverzeichnis der Apostelgeschichte selbst — Jerusalem (Kap. 1-7), Judäa und Samaria (Kap. 8-12) und die Bewegung nach außen „bis an das Ende der Erde" (Kap. 13-28). Der Begriff **μάρτυς** (*martys*, „Zeuge", Vv.8, 22) ist hier rechtlich/zeugnisbezogen; erst später erhält das Wort den Sinn „Märtyrer". Gemäß Regel 30 ist diese Rede des auferstandenen Yeshua als göttliche Rede gekennzeichnet, in Übereinstimmung mit der Behandlung seiner Worte im Evangelium.
 
 ### A3. *Anelēmphthē* — der Himmelfahrts-Wortschatz und das dreifache „in den Himmel"
 **[TEXTUELL — VERIFIZIERT]**
@@ -67,7 +67,7 @@ In 1,4 ist das Partizip **συναλιζόμενος** (*synalizomenos*) tatsäc
 ### A5. Die Elf, aufgelistet — die Zwölf minus einer
 **[TEXTUELL — VERIFIZIERT]**
 
-Die Namensliste von 1,13 nennt genau elf (die Zwölf ohne Yehudah Iskariot), in einer Reihenfolge, die den Evangelienlisten nahe, aber nicht mit ihnen identisch ist (Lukas 6,14-16; Markus 3,16-19; Mt 10,2-4). **Kefa** (Petrus) führt die Liste an, wie durchweg in der Tradition. Die durch Vatersname oder Beinamen unterschiedenen Namen — **Ya'aqov, Sohn des Halfai** (Jakobus, Sohn des Alphäus), **Shimon der Zelot** (*ho zēlōtēs*) und **Yehudah, Sohn des Ya'aqov** (Judas, Sohn des Jakobus) — trennen sie von Shimon Kefa und von Yehudah Iskariot. Die bewusste Zählung von elf ist das, was der Rest des Kapitels (Vv.15-26) zu reparieren ansetzt, indem er die Zwölf wiederherstellt. → Für die Apostel-Liste über die Evangelien und die Apostelgeschichte hinweg siehe `acts/PEOPLE.md`.
+Die Namensliste von 1,13 nennt genau elf (die Zwölf ohne Yehudah Iskariot), in einer Reihenfolge, die den Evangelienlisten nahe, aber nicht mit ihnen identisch ist (Lukas 6,14-16; Markus 3,16-19; Mt 10,2-4). **Kefa** (Petrus) führt die Liste an, wie durchweg in der Tradition. Die durch Vatersname oder Beinamen unterschiedenen Namen — **Ya'aqov, Sohn des Halfai** (Jakobus, Sohn des Alphäus), **Shimon der Zelot** (*ho zēlōtēs*) und **Yehudah, Sohn des Ya'aqov** (Judas, Sohn des Jakobus) — trennen sie von Shimon Kefa und von Yehudah Iskariot. Die bewusste Zählung von elf ist das, was der Rest des Kapitels (Vv.15-26) zu reparieren ansetzt, indem er die Zwölf wiederherstellt. → Für die Apostel-Liste über die Evangelien und die Apostelgeschichte hinweg siehe die Seite Personen und Genealogie zu Apostelgeschichte.
 
 ### A6. *Kyrios* über das Kapitel hinweg — drei Bezüge, die die TT verfolgt
 **[TEXTUELL — VERIFIZIERT (für den Bezugswechsel); MÖGLICHE SCHLUSSFOLGERUNG — UNSICHER (für V.24)]**
@@ -208,7 +208,7 @@ Die Gemeinschaft bewegt sich rasch, die Zwölf wieder auf zwölf zu bringen (1,1
 
 ## I. Die Welt zur damaligen Zeit
 
-> **Querverweis:** Für den vollständigen Weltkontext der Kategorien des frühen 1. Jahrhunderts (Politik, Wirtschaft, Alltagsleben, Gesellschaftsstruktur, Bildung, Militär, Kunst, Wissenschaft, Religion, Nachbarvölker) siehe das Johannes-1-Begleitmaterial (Abschnitt I, `de/john/study/CHAPTER-1-CONTEXT.md`) und die Lukas-Begleittexte (Lukas 1, Lukas 3). Apostelgeschichte 1 ist einige Jahre später angesetzt — Jerusalem um 30 n. Chr., kurz nach der Kreuzigung — aber innerhalb derselben allgemeinen Welt des Zweiten Tempels. Die folgenden Einträge befassen sich mit den in Apg 1 in den Vordergrund tretenden spezifischen Umständen.
+> **Querverweis:** Für den vollständigen Weltkontext der Kategorien des frühen 1. Jahrhunderts (Politik, Wirtschaft, Alltagsleben, Gesellschaftsstruktur, Bildung, Militär, Kunst, Wissenschaft, Religion, Nachbarvölker) siehe das Begleitmaterial zu Johannes 1 (Vertiefen), Abschnitt I, und die Lukas-Begleittexte (Lukas 1, Lukas 3). Apostelgeschichte 1 ist einige Jahre später angesetzt — Jerusalem um 30 n. Chr., kurz nach der Kreuzigung — aber innerhalb derselben allgemeinen Welt des Zweiten Tempels. Die folgenden Einträge befassen sich mit den in Apg 1 in den Vordergrund tretenden spezifischen Umständen.
 
 ---
 
@@ -297,6 +297,4 @@ Zur Zeit der Abfassung war die kleine Obergemach-Gemeinschaft von 1,13-15, im er
 ---
 
 **Redaktionelle Herkunft:**
-- Entworfen von: KI (Claude, Anthropic)
-- Datum: 2026-06-24
-- Begutachtet von: ausstehend
+- KI-gestützter Entwurf, noch nicht geprüft.

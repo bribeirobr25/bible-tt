@@ -182,7 +182,7 @@ Atos é transmitido em duas formas substancialmente diferentes, e o abismo entre
 - O texto **alexandrino** (representado pelo Sinaítico, Vaticano, P74 e a maior parte da tradição) é a forma mais curta, e é a base do NA28 e da TT.
 - O texto **ocidental** (representado acima de tudo pelo **Códice Bezae (D)**, apoiado por algumas testemunhas do latim antigo e do siríaco) é cerca de 8–10% mais longo no total, com muitas adições, esclarecimentos e pequenas expansões narrativas ao longo de Atos.
 
-A relação entre os dois é debatida: se o texto ocidental é uma expansão posterior do alexandrino, um rascunho anterior revisado para baixo, ou duas edições paralelas. **A TT segue o NA28 (a forma alexandrina).** Dentro de Atos 1–3 as variantes ocidentais são modestas mas reais (ex., pequenas expansões na lista dos apóstolos e na narrativa de Pentecostes); variantes significativas são notadas no Nível 2 em vez de adotadas silenciosamente (Regra 22).
+A relação entre os dois é debatida: se o texto ocidental é uma expansão posterior do alexandrino, um rascunho anterior revisado para baixo, ou duas edições paralelas. **A TT segue o NA28 (a forma alexandrina).** Dentro de Atos 1–3 as variantes ocidentais são modestas mas reais (ex., pequenas expansões na lista dos apóstolos e na narrativa de Pentecostes); variantes significativas são registradas nas notas em vez de adotadas silenciosamente (Regra 22).
 
 **Fonte:** Metzger, *A Textual Commentary on the Greek New Testament* (2ª ed., 1994), 222–236; Barrett, *Acts* (ICC), I.2–29.
 
@@ -234,10 +234,10 @@ Conforme a política de transliteração de nomes da TT, a primeira ocorrência 
 
 A TT marca o texto com um pequeno conjunto de convenções que o leitor encontrará ao longo de Atos 1–3:
 
-- `*adicionado*` — palavras acrescentadas para a gramática portuguesa (Regra 11), mostradas em itálico.
-- `{t:…}` — um termo transliterado carregado com sua glosa, ex., {t:Hakeldama} (Campo de Sangue), o nome de lugar aramaico que o próprio texto glosa (1:19).
-- `{a:…}` — um duplo sentido vivo mantido aberto em vez de resolvido, ex., {a:vento/espírito} para πνεῦμα e {a:línguas/idiomas} para γλῶσσαι em Pentecostes (2:4, 11), onde ambos os sentidos permanecem em jogo.
-- `@@…@@` — fala divina (Regra 30): a fala direta na primeira pessoa do Yeshua (Jesus) ressurreto (1:4–5, 1:7–8) e a fala divina embutida na primeira pessoa dentro das citações do AT (ex., o "derramarei o meu Espírito" de Joel, 2:17–18). Os **dois homens** na ascensão (1:10–11) são mensageiros da classe *angelos* e **não** são marcados, seguindo o precedente Gabriel/mensageiro; os sermões de Kefa (Pedro) são fala humana e não são marcados.
+- *adicionado* — palavras acrescentadas para a gramática portuguesa (Regra 11), mostradas em itálico.
+- {t:…} — um termo transliterado carregado com sua glosa, ex., {t:Hakeldama} (Campo de Sangue), o nome de lugar aramaico que o próprio texto glosa (1:19).
+- {a:…} — um duplo sentido vivo mantido aberto em vez de resolvido, ex., {a:vento/espírito} para πνεῦμα e {a:línguas/idiomas} para γλῶσσαι em Pentecostes (2:4, 11), onde ambos os sentidos permanecem em jogo.
+- @@…@@ — fala divina (Regra 30): a fala direta na primeira pessoa do Yeshua (Jesus) ressurreto (1:4–5, 1:7–8). As palavras de Deus na primeira pessoa dentro das citações do AT (ex., o "derramarei o meu Espírito" de Joel, 2:17–18) **não** são marcadas, porque Kefa (Pedro) as está citando, e seus sermões são fala humana. Os **dois homens** na ascensão (1:10–11) são mensageiros da classe *angelos* e **não** são marcados, seguindo o precedente Gabriel/mensageiro.
 
 ### F4. Pentecostes, "línguas" e o nome da festa
 **[TEXTUAL — VERIFICADO]**
@@ -245,19 +245,19 @@ A TT marca o texto com um pequeno conjunto de convenções que o leitor encontra
 Dois termos no capítulo 2 moldam a leitura:
 
 - **Pentecostes (2:1):** πεντηκοστή é traduzido "Pentecostes" — o nome grego da festa de peregrinação **Shavuot (Festa das Semanas)** — com uma glosa Shavuot na primeira ocorrência.
-- **"Línguas / idiomas" (2:4, 11):** γλῶσσαι é traduzido {a:línguas/idiomas}, mantendo ambos os sentidos vivos, enquanto διάλεκτος (2:6, 8), "língua/dialeto," é inequívoco. O jogo de palavras com o {a:vento/espírito} de 2:2–4 é notado no Nível 2.
+- **"Línguas / idiomas" (2:4, 11):** γλῶσσαι é traduzido {a:línguas/idiomas}, mantendo ambos os sentidos vivos, enquanto διάλεκτος (2:6, 8), "língua/dialeto," é inequívoco. O jogo de palavras com o {a:vento/espírito} de 2:2–4 é explicado nas notas.
 
 ### F5. Kyrios — Política do Nome Divino em Atos (Opção C)
 **[TEXTUAL — VERIFICADO]**
 
-Quando Atos cita ou ecoa passagens da Bíblia Hebraica contendo o Tetragrama (o nome divino hebraico de quatro letras יהוה, transliterado YHWH), o texto grego usa κύριος (*kyrios*). Conforme a Política do Nome Divino da TT (Opção C, RULES-GS.md):
+Quando Atos cita ou ecoa passagens da Bíblia Hebraica contendo o Tetragrama (o nome divino hebraico de quatro letras יהוה, transliterado YHWH), o texto grego usa κύριος (*kyrios*). Conforme a Política do Nome Divino da TT (Opção C):
 
 - O texto principal traduz *kyrios* como "o Senhor" em contextos de citação do AT e de eco do AT.
-- Uma nota de Nível 2 identifica a fonte e declara que o hebraico subjacente tem o Tetragrama.
+- Uma nota identifica a fonte e declara que o hebraico subjacente tem o Tetragrama.
 - Quando *kyrios* se refere a Yeshua (Jesus) ou a um senhor humano (não uma referência YHWH do AT), nenhuma nota sobre YHWH é necessária.
 - Casos ambíguos são sinalizados conforme Regra 13.
 
-O caso emblemático é **Atos 2:34** (citando o Salmo 110:1): "**O Senhor** (κύριος = YHWH, o falante) disse ao meu **senhor** (o Messias, o destinatário)" — dois referentes distintos sob uma única palavra grega. A TT traduz de modo a preservar ambos, sinaliza a ambiguidade (Regra 13) e a nota no Nível 2, pois o argumento do Messias-davídico do sermão gira em torno disso. Outras citações com referente YHWH nos caps. 1–3 incluem Joel 2:32 ("todo aquele que invocar o nome do Senhor," citado em 2:21) e o Salmo 16:8 ("eu via o Senhor," 2:25).
+O caso emblemático é **Atos 2:34** (citando o Salmo 110:1): "**O Senhor** (κύριος = YHWH, o falante) disse ao meu **senhor** (o Messias, o destinatário)" — dois referentes distintos sob uma única palavra grega. A TT traduz de modo a preservar ambos, sinaliza a ambiguidade (Regra 13) e a explica nas notas, pois o argumento do Messias-davídico do sermão gira em torno disso. Outras citações com referente YHWH nos caps. 1–3 incluem Joel 2:32 ("todo aquele que invocar o nome do Senhor," citado em 2:21) e o Salmo 16:8 ("eu via o Senhor," 2:25).
 
 ### F6. Regras ativas com aplicações específicas de Atos
 **[TEXTUAL — VERIFICADO]**
@@ -268,12 +268,12 @@ O caso emblemático é **Atos 2:34** (citando o Salmo 110:1): "**O Senhor** (κ�
 | 1 | Consistência Lexical Controlada | Termos do glossário travado (*kyrios*, *Christos*, *metanoia*, *aphesis*, *koinōnia*, *pneuma*, *baptisma*) traduzidos consistentemente em todos os capítulos de Atos conforme o glossário GS. |
 | 2 | Preservação de Ambiguidade | {a:vento/espírito} (πνεῦμα) e {a:línguas/idiomas} (γλῶσσαι) mantidos abertos em vez de resolvidos. |
 | 3 | Sem teologia importada | A narrativa de Pentecostes e os sermões são traduzidos como o texto os apresenta — sem importar doutrina posterior e sem descartar a narrativa. Contenção nos dois sentidos. |
-| 11 | Marcar adições gramaticais | Palavras adicionadas para a gramática portuguesa aparecem em itálico (`*adicionado*`). |
+| 11 | Marcar adições gramaticais | Palavras adicionadas para a gramática portuguesa aparecem em itálico (*adicionado*). |
 | 13 | Níveis de incerteza | Termos debatidos (o duplo-κύριος de 2:34; εἰς ἄφεσιν, 2:38; ἀποκατάστασις, 3:21) carregam rótulos de confiança (Provável / Possível / Incerto). |
-| 14 | Anotar Jogos de Palavras | O jogo de palavras πνεῦμα/γλῶσσαι de Pentecostes anotado no Nível 2. |
-| 22 | Restrição Textual-Crítica | Variantes ocidentais (Códice Bezae) anotadas no Nível 2 sem adoção silenciosa. Ver E2. |
-| 25 | Política do Nome Divino — GS Opção C | κύριος traduzido como "o Senhor" em contextos de citação/eco do AT, com nota de Nível 2 identificando YHWH no hebraico subjacente. Ver F5. |
-| 30 | Marcação de discurso divino | A fala do Yeshua ressurreto (1:4–8) e a fala divina embutida na primeira pessoa nas citações do AT (Joel, 2:17–18) são marcadas; os mensageiros da ascensão e a fala dos apóstolos não. Ver F3. |
+| 14 | Anotar Jogos de Palavras | O jogo de palavras πνεῦμα/γλῶσσαι de Pentecostes explicado nas notas. |
+| 22 | Restrição Textual-Crítica | Variantes ocidentais (Códice Bezae) registradas nas notas sem adoção silenciosa. Ver E2. |
+| 25 | Política do Nome Divino — GS Opção C | κύριος traduzido como "o Senhor" em contextos de citação/eco do AT, com uma nota identificando YHWH no hebraico subjacente. Ver F5. |
+| 30 | Marcação de discurso divino | A fala do Yeshua ressurreto (1:4–8) é marcada; a fala divina na primeira pessoa citada nas citações do AT (Joel, 2:17–18), os mensageiros da ascensão e a fala dos apóstolos não. Ver F3. |
 
 ---
 
@@ -290,4 +290,4 @@ O caso emblemático é **Atos 2:34** (citando o Salmo 110:1): "**O Senhor** (κ�
 
 ---
 
-> **Proveniência editorial:** Redigido por Claude Opus 4.8 (contexto 1M) em 2026-06-24. Ainda não revisado. Esta introdução é um recurso acadêmico provisório governado pela Regra 29 da TT. Todas as afirmações carregam rótulos duplos; nenhuma afirmação deve ser lida como a posição teológica ou composicional da TT. A TT traduz o texto grego (NA28, a forma alexandrina) e não adota nenhuma teoria particular de autoria, composição ou relação crítico-textual entre as tradições alexandrina e ocidental.
+> **Proveniência editorial:** Rascunho assistido por IA, ainda não revisado. Esta introdução é um recurso acadêmico provisório governado pela Regra 29 da TT. Todas as afirmações carregam rótulos duplos; nenhuma afirmação deve ser lida como a posição teológica ou composicional da TT. A TT traduz o texto grego (NA28, a forma alexandrina) e não adota nenhuma teoria particular de autoria, composição ou relação crítico-textual entre as tradições alexandrina e ocidental.

@@ -80,9 +80,9 @@ Die TT gibt beide wörtlich wieder und entscheidet nicht, ob „Wiederherstellun
 ### A6. Göttliche Rede, Moses berichtete Rede und die Kennzeichnungs-Entscheidung (Regel 30)
 **[TEXTUELL — VERIFIZIERT]**
 
-Das Kapitel mischt Stimmen, und die Regel-30-Kennzeichnung der TT verfolgt sie. Kefas Predigt (Vv.12-26) ist **menschliche** Rede und wird nicht gekennzeichnet. Die Mose-Zitation (Vv.22-23, Dtn 18,15-19) ist **Moses** berichtete Rede *über* den Herrn („*der* Herr Gott wird einen Propheten erwecken…"), wird also ebenfalls nicht göttlich gekennzeichnet. Aber das abrahamitische Wort (V.25, „Und in deinem Samen werden alle Geschlechter der Erde gesegnet werden", Gen 22,18) ist **des Herrn eigene direkte Bundesrede** und ist `@@…@@` gekennzeichnet (gemäß redaktioneller Entscheidung A-004).
+Das Kapitel mischt Stimmen, und die Regel-30-Kennzeichnung der TT verfolgt sie. Kefas Predigt (Vv.12-26) ist **menschliche** Rede und wird nicht gekennzeichnet. Die Mose-Zitation (Vv.22-23, Dtn 18,15-19) ist **Moses** berichtete Rede *über* den Herrn („*der* Herr Gott wird einen Propheten erwecken…"), wird also ebenfalls nicht göttlich gekennzeichnet. Das abrahamitische Wort (V.25, „Und in deinem Samen werden alle Geschlechter der Erde gesegnet werden", Gen 22,18) ist **des Herrn eigene direkte Bundesrede**, doch Kefa zitiert es, daher ist es ebenfalls nicht gekennzeichnet.
 
-Das Ergebnis ist, dass innerhalb einer einzigen menschlichen Predigt die einzigen gekennzeichneten Worte der eine Satzteil sind, wo Gott in seiner eigenen Stimme spricht. Die TT flacht die Unterscheidung zwischen einem Propheten, der Gott zitiert, und Gott, der spricht, nicht ab. → Für die Kennzeichnungs-Politik über Apg 1–3 hinweg siehe das redaktionelle Log (Regel-30-Umfang).
+Das Ergebnis ist, dass die ganze Predigt ungekennzeichnet ist, einschließlich des einen Satzteils, wo Gott in seiner eigenen Stimme spricht: Gottes Worte, die ein menschlicher Sprecher zitiert, werden nicht gekennzeichnet (Regel 30).
 
 ---
 
@@ -231,38 +231,9 @@ Das Partizip **ἀναστήσας** (*anastēsas*, 3,26), „erweckt habend", k
 
 ---
 
-## H. Konsultierte Quellen
-
-| Quelle | Typ | Verwendet in Abschnitten |
-|--------|------|-----------------|
-| Anderson, R.T. und Giles, T., *The Samaritan Pentateuch*, 2012 | PEER-REVIEWED (monograph) | F |
-| Bahat, D., *The Illustrated Atlas of Jerusalem*, 1990 | PEER-REVIEWED (reference) | C |
-| Bauckham, R. (Hrsg.), *The Book of Acts in Its Palestinian Setting*, 1995 | PEER-REVIEWED (monograph) | C |
-| Bauer, W., *A Greek-English Lexicon of the NT* (BDAG), 3. Aufl., 2000 | PEER-REVIEWED (lexicon) | D |
-| Beale, G.K. und Carson, D.A. (Hrsg.), *Commentary on the NT Use of the OT*, 2007 | PEER-REVIEWED (commentary) | B |
-| Betz, H.D. (Hrsg.), *The Greek Magical Papyri in Translation*, 2. Aufl., 1992 | PRIMARY (text collection) | B |
-| Bock, D.L., *Acts*, Baker Exegetical Commentary, 2007 | PEER-REVIEWED (commentary) | D |
-| Hatch, E. und Redpath, H.A., *A Concordance to the Septuagint*, 2. Aufl., 1998 | PEER-REVIEWED (reference) | D |
-| Josephus, *Jewish Antiquities*, Loeb Classical Library | PRIMARY | B, C |
-| Josephus, *Jewish War*, Loeb Classical Library | PRIMARY | C |
-| Kelly, J.N.D., *Early Christian Doctrines*, 5. Aufl., 1977 | PEER-REVIEWED (monograph) | F |
-| Liddell und Scott, *Greek-English Lexicon*, 9. Aufl. | PEER-REVIEWED (lexicon) | D |
-| Mealand, D.L., „The Restoration of All Things: Acts 3:21", *JTS* | PEER-REVIEWED (article) | D |
-| Metzger, B.M., *A Textual Commentary on the Greek New Testament*, 2. Aufl., 1994 | PEER-REVIEWED (reference) | G |
-| Nestle-Aland, *Novum Testamentum Graece*, 28. Aufl. | PRIMARY | A, D, G |
-| Pao, D.W., *Acts and the Isaianic New Exodus*, 2000 | PEER-REVIEWED (monograph) | B |
-| Ramelli, I.L.E., *The Christian Doctrine of Apokatastasis*, 2013 | PEER-REVIEWED (monograph) | F |
-| Sanders, E.P., *Judaism: Practice and Belief*, 1992 | PEER-REVIEWED (monograph) | C, I |
-| Schiller, G., *Iconography of Christian Art*, 1972 | PEER-REVIEWED (monograph) | F |
-| Schürer, E., *History of the Jewish People*, rev. Aufl., 1973-1979 | PEER-REVIEWED (monograph) | C, I |
-| Vermes, G., *The Complete Dead Sea Scrolls in English*, rev. Aufl., 2011 | PRIMARY (text collection) | F |
-| Wilkinson, J., *Jerusalem Pilgrims before the Crusades*, 1977 | PEER-REVIEWED (monograph) | F |
-
----
-
 ## I. Die Welt zur damaligen Zeit
 
-> **Querverweis:** Für den vollständigen Weltkontext in zwei Szenarien mit zehn Kategorien (Politik, Wirtschaft, Alltagsleben, Gesellschaftsstruktur, Bildung, Militär, Kunst, Wissenschaft, Religion, Nachbarvölker) siehe das Johannes-1-Begleitmaterial (Abschnitt I, `de/john/study/CHAPTER-1-CONTEXT.md`). Apostelgeschichte 3 ist im selben allgemeinen historischen Zeitraum angesetzt; der Abschnitt zu Johannes 1 bietet die Grundlage. Die folgenden Einträge befassen sich mit den in Apg 3 in den Vordergrund tretenden spezifischen Umständen — den herodianischen Tempelbezirken, der Tempelfrömmigkeit und dem Almosengeben und dem Platz der Behinderung in der Gesellschaft des Zweiten Tempels.
+> **Querverweis:** Für den vollständigen Weltkontext in zwei Szenarien mit zehn Kategorien (Politik, Wirtschaft, Alltagsleben, Gesellschaftsstruktur, Bildung, Militär, Kunst, Wissenschaft, Religion, Nachbarvölker) siehe das Begleitmaterial zu Johannes 1 (Vertiefen), Abschnitt I. Apostelgeschichte 3 ist im selben allgemeinen historischen Zeitraum angesetzt; der Abschnitt zu Johannes 1 bietet die Grundlage. Die folgenden Einträge befassen sich mit den in Apg 3 in den Vordergrund tretenden spezifischen Umständen — den herodianischen Tempelbezirken, der Tempelfrömmigkeit und dem Almosengeben und dem Platz der Behinderung in der Gesellschaft des Zweiten Tempels.
 
 ---
 
@@ -316,7 +287,35 @@ Nach 70 n. Chr., mit dem verschwundenen Tempel, verlagerte sich der Ort des Almo
 
 ---
 
+## H. Konsultierte Quellen
+
+| Quelle | Typ | Verwendet in Abschnitten |
+|--------|------|-----------------|
+| Anderson, R.T. und Giles, T., *The Samaritan Pentateuch*, 2012 | PEER-REVIEWED (monograph) | F |
+| Bahat, D., *The Illustrated Atlas of Jerusalem*, 1990 | PEER-REVIEWED (reference) | C |
+| Bauckham, R. (Hrsg.), *The Book of Acts in Its Palestinian Setting*, 1995 | PEER-REVIEWED (monograph) | C |
+| Bauer, W., *A Greek-English Lexicon of the NT* (BDAG), 3. Aufl., 2000 | PEER-REVIEWED (lexicon) | D |
+| Beale, G.K. und Carson, D.A. (Hrsg.), *Commentary on the NT Use of the OT*, 2007 | PEER-REVIEWED (commentary) | B |
+| Betz, H.D. (Hrsg.), *The Greek Magical Papyri in Translation*, 2. Aufl., 1992 | PRIMARY (text collection) | B |
+| Bock, D.L., *Acts*, Baker Exegetical Commentary, 2007 | PEER-REVIEWED (commentary) | D |
+| Hatch, E. und Redpath, H.A., *A Concordance to the Septuagint*, 2. Aufl., 1998 | PEER-REVIEWED (reference) | D |
+| Josephus, *Jewish Antiquities*, Loeb Classical Library | PRIMARY | B, C |
+| Josephus, *Jewish War*, Loeb Classical Library | PRIMARY | C |
+| Kelly, J.N.D., *Early Christian Doctrines*, 5. Aufl., 1977 | PEER-REVIEWED (monograph) | F |
+| Liddell und Scott, *Greek-English Lexicon*, 9. Aufl. | PEER-REVIEWED (lexicon) | D |
+| Mealand, D.L., „The Restoration of All Things: Acts 3:21", *JTS* | PEER-REVIEWED (article) | D |
+| Metzger, B.M., *A Textual Commentary on the Greek New Testament*, 2. Aufl., 1994 | PEER-REVIEWED (reference) | G |
+| Nestle-Aland, *Novum Testamentum Graece*, 28. Aufl. | PRIMARY | A, D, G |
+| Pao, D.W., *Acts and the Isaianic New Exodus*, 2000 | PEER-REVIEWED (monograph) | B |
+| Ramelli, I.L.E., *The Christian Doctrine of Apokatastasis*, 2013 | PEER-REVIEWED (monograph) | F |
+| Sanders, E.P., *Judaism: Practice and Belief*, 1992 | PEER-REVIEWED (monograph) | C, I |
+| Schiller, G., *Iconography of Christian Art*, 1972 | PEER-REVIEWED (monograph) | F |
+| Schürer, E., *History of the Jewish People*, rev. Aufl., 1973-1979 | PEER-REVIEWED (monograph) | C, I |
+| Vermes, G., *The Complete Dead Sea Scrolls in English*, rev. Aufl., 2011 | PRIMARY (text collection) | F |
+| Wilkinson, J., *Jerusalem Pilgrims before the Crusades*, 1977 | PEER-REVIEWED (monograph) | F |
+
+---
+
+
 **Redaktionelle Herkunft:**
-- Entworfen von: KI (Claude, Anthropic)
-- Datum: 2026-06-24
-- Begutachtet von: ausstehend
+- KI-gestützter Entwurf, noch nicht geprüft.

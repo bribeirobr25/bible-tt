@@ -11,6 +11,43 @@ in `docs/audit/PENDING.md`.
 
 ---
 
+## Launch-Readiness Program — Step 4 batch 3: Reader text + mechanical content (2026-11-21, PR #20)
+
+`PLAN_LAUNCH_FIXES.md` §B3. Plan review: 2 adversarial reviewers, 2 blockers + 14 major + 9 minor, all applied (§B3.7). As executed: §B3.8.
+
+**Reader text, all 4 locales.** Authoring meta is gone from what readers see:
+- entry IDs, log references, repo paths, process words;
+- "Tier 2" jargon;
+- AI model names — now the Rule 28 plain statement; the removed lines are archived in `ai-provenance-record.tsv`;
+- INTERNAL Sources rows;
+- raw marker syntax and backticks.
+
+The work went to four helpers in worktrees, one book group each, merged sequentially with the tests run after each merge.
+
+**Mechanical fixes (scripted, whole files incl. continuous reading):**
+- mojibake;
+- doubled articles;
+- DE Jehudim (D9) and PT/ES Yehudim casing;
+- 312 arrows;
+- the stale name-policy sentence (48 guides);
+- Acts 1 `@@` balance;
+- status lines and icons;
+- the 24 companions' §H/§I order, with orphan Sources tables merged.
+
+**L3 (moved forward from batch 4):** God's words quoted by another speaker are unmarked (Acts 2–3, 1 Peter 1–2, John 3:16–21), and the prose is corrected to match.
+
+**Gate:** the new `scripts/sweep/__tests__/cleared-classes.test.mjs` asserts zero for every cleared class (Read door and code spans included), with a reviewed allow-list. S15 marker-in-table is retired for ordinary tables.
+
+**Verification:**
+- 136 changed verse/continuous-reading lines, each explained by an allowed fix.
+- A first rendered scan of 468 reader pages came back clean, but the implementation review found forms it missed: bare `@@…@@`, DE "Redaktionslog", "RULES-GS", "Tier-1", DE caps "YEHUDIM" and a Luke caption. All are fixed and now caught by the gate (§B3.9). The people-page fallback for unpublished books goes to Step 5.
+- Implementation review: 5 reviewers, no blockers; every finding fixed or routed (§B3.9).
+- Conservation 20,676 → 20,679: the PT/ES Gen 9/12 notes now parse like EN/DE.
+- Sweep 20,079 → 16,604.
+- 1,110 tests / 32 files.
+
+The lead's answers to the batch-2 questions are recorded: Rule 20 lowercase extends to all titular nouns; L5 wording and the window confirmed.
+
 ## Launch-Readiness Program — Step 4 batch 2: Rules & docs (2026-11-20, PR #19)
 
 `PLAN_LAUNCH_FIXES.md` §B2 (plan review: 2 adversarial reviewers, 0 blockers, 10 major, 11 minor — all applied, §B2.11).

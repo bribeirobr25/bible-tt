@@ -70,7 +70,7 @@ Die Verheißung von 5,10 stapelt vier Futur-Verben mit einem Subjekt (Gott, emph
 ### A6. Der briefliche Schluss und die Redekennzeichnungs-Entscheidung (Regel 30)
 **[TEXTUELL — VERIFIZIERT]**
 
-Die einzige zitierte Schrift des Kapitels, Sprüche 3,34 LXX in 5,5 („Gott widersteht *den* Hochmütigen, aber *den* Demütigen gibt er Gnade"), ist die Aussage des **Weisen** in der dritten Person *über* Gott, nicht Gottes eigene Rede in der ersten Person, und wird daher — konsistent mit der Regel-30-Politik des Buches (Zitate *über* den Herrn bleiben ungekennzeichnet; nur Gottes Worte in der ersten Person nehmen `@@…@@`) — ungekennzeichnet gelassen. Das Kapitel enthält überhaupt keine erzählte göttliche Rede; seine Stimme ist durchweg die Ermahnung des Autors, einschließlich der abschließenden Grüße (Vv.12-14). Die TT trägt daher in diesem Kapitel keine `@@…@@`-Kennzeichnung, und die Vers-Anmerkungen verzeichnen die Begründung, statt die Abwesenheit unerklärt zu lassen.
+Die einzige zitierte Schrift des Kapitels, Sprüche 3,34 LXX in 5,5 („Gott widersteht *den* Hochmütigen, aber *den* Demütigen gibt er Gnade"), ist die Aussage des **Weisen** in der dritten Person *über* Gott, nicht Gottes eigene Rede in der ersten Person, und wird daher — konsistent mit der Regel-30-Politik des Buches (Zitate bleiben ungekennzeichnet — die *über* den Herrn und Gottes Worte in der ersten Person, die der Apostel zitiert) — ungekennzeichnet gelassen. Das Kapitel enthält überhaupt keine erzählte göttliche Rede; seine Stimme ist durchweg die Ermahnung des Autors, einschließlich der abschließenden Grüße (Vv.12-14). Die TT trägt daher in diesem Kapitel keine Kennzeichnung göttlicher Rede, und die Vers-Anmerkungen verzeichnen die Begründung, statt die Abwesenheit unerklärt zu lassen.
 
 ---
 
@@ -154,7 +154,7 @@ Vers 4 prägt zwei seltene Wörter. **ἀρχιποίμην** (*archipoimēn*, �
 ### F1. „Durch Silvanus" und die Sekretär-/Verfasserschaftsdebatte
 **[SPÄTERE REZEPTION — DOKUMENTIERT]**
 
-Die Wendung **διὰ Σιλουανοῦ… ἔγραψα** („**durch Silvanus** schrieb ich", 5,12) wurde quer durch die Auslegungsgeschichte auf zwei Hauptweisen gelesen: traditionell als Benennung des Silvanus (Silas), des **Amanuensis (Sekretärs)**, der das gepflegte Griechisch im Auftrag des Petrus verfasste — eine Lesart, die verwendet wird, um die petrinische Verfasserschaft mit dem gewandten Stil des Briefes zu versöhnen; und, in viel moderner Forschung, als die konventionelle Formel, die den **Briefüberbringer / Kurier** identifiziert (die Idiomatik *graphein dia* + Person bezeichnet regelmäßig den Überbringer, z.B. bei Ignatius und in den Papyri), was die Kompositionsfrage unberührt lässt. Die Sache verbindet sich mit der weiteren Debatte über die Verfasserschaft (apostolisch, sekretariell oder pseudonym), dargelegt in der Einführung (§B); die TT gibt „durch Silvanus" wieder, ohne die Rolle zu entscheiden, und kennzeichnet die Optionen in Stufe 2. Dies sind auslegungs- und rezeptionsgeschichtliche Positionen, keine Daten, die der Vers selbst klärt.
+Die Wendung **διὰ Σιλουανοῦ… ἔγραψα** („**durch Silvanus** schrieb ich", 5,12) wurde quer durch die Auslegungsgeschichte auf zwei Hauptweisen gelesen: traditionell als Benennung des Silvanus (Silas), des **Amanuensis (Sekretärs)**, der das gepflegte Griechisch im Auftrag des Petrus verfasste — eine Lesart, die verwendet wird, um die petrinische Verfasserschaft mit dem gewandten Stil des Briefes zu versöhnen; und, in viel moderner Forschung, als die konventionelle Formel, die den **Briefüberbringer / Kurier** identifiziert (die Idiomatik *graphein dia* + Person bezeichnet regelmäßig den Überbringer, z.B. bei Ignatius und in den Papyri), was die Kompositionsfrage unberührt lässt. Die Sache verbindet sich mit der weiteren Debatte über die Verfasserschaft (apostolisch, sekretariell oder pseudonym), dargelegt in der Einführung (§B); die TT gibt „durch Silvanus" wieder, ohne die Rolle zu entscheiden, und kennzeichnet die Optionen in den Anmerkungen. Dies sind auslegungs- und rezeptionsgeschichtliche Positionen, keine Daten, die der Vers selbst klärt.
 
 **Quelle:** Achtemeier, P.J., *1 Peter*, Hermeneia, Fortress Press, 1996, S. 349-352; Richards, E.R., *The Secretary in the Letters of Paul*, Mohr Siebeck, 1991, S. 169-189; Elliott, J.H., *1 Peter*, Anchor Bible 37B, 2000, S. 872-874.
 
@@ -195,38 +195,9 @@ Die Grüßerin von 5,13 ist **ἡ… συνεκλεκτή** („die *Miterwählt
 
 ---
 
-## H. Konsultierte Quellen
-
-| Quelle | Typ | Verwendet in Abschnitten |
-|--------|------|-----------------|
-| Achtemeier, P.J., *1 Peter*, Hermeneia, 1996 | PEER-REVIEWED (commentary) | B, F |
-| Bauckham, R., *James*, 1999 | PEER-REVIEWED (monograph) | B |
-| Bauckham, R., *Jesus and the Eyewitnesses*, 2006 | PEER-REVIEWED (monograph) | F |
-| Bauer, W., *A Greek-English Lexicon of the NT* (BDAG), 3. Aufl., 2000 | PEER-REVIEWED (lexicon) | D |
-| Bockmuehl, M., *Simon Peter in Scripture and Memory*, 2012 | PEER-REVIEWED (monograph) | F |
-| Campbell, R.A., *The Elders: Seniority within Earliest Christianity*, 1994 | PEER-REVIEWED (monograph) | C |
-| Cullmann, O., *Peter: Disciple, Apostle, Martyr*, 2. Aufl., 1962 | PEER-REVIEWED (monograph) | F |
-| Davids, P.H., *The First Epistle of Peter*, NICNT, 1990 | PEER-REVIEWED (commentary) | B |
-| Day, P.L., *An Adversary in Heaven: śāṭān in the Hebrew Bible*, 1988 | PEER-REVIEWED (monograph) | D |
-| Elliott, J.H., *1 Peter*, Anchor Bible 37B, 2000 | PEER-REVIEWED (commentary) | C, D, F |
-| Hatch, E. und Redpath, H.A., *A Concordance to the Septuagint*, 2. Aufl., 1998 | PEER-REVIEWED (reference) | D |
-| Hengel, M., *Studies in the Gospel of Mark*, 1985 | PEER-REVIEWED (monograph) | F |
-| Horrell, D.G., *1 Peter*, New Testament Guides, 2008 | PEER-REVIEWED (monograph) | C |
-| Hunzinger, C.-H., „Babylon als Deckname für Rom", 1965 | PEER-REVIEWED (essay) | B |
-| Liddell und Scott, *Greek-English Lexicon*, 9. Aufl., 1940 | PEER-REVIEWED (lexicon) | D |
-| Metzger, B.M., *A Textual Commentary on the Greek New Testament*, 2. Aufl., 1994 | PEER-REVIEWED (reference) | G |
-| Michaels, J.R., *1 Peter*, Word Biblical Commentary 49, 1988 | PEER-REVIEWED (commentary) | B |
-| Nestle-Aland, *Novum Testamentum Graece*, 28. Aufl. | PRIMARY | A, D, G |
-| Richards, E.R., *The Secretary in the Letters of Paul*, 1991 | PEER-REVIEWED (monograph) | F |
-| Spicq, C., *Theological Lexicon of the New Testament*, 1994 | PEER-REVIEWED (lexicon) | D |
-| Strawn, B.A., *What Is Stronger than a Lion?*, 2005 | PEER-REVIEWED (monograph) | B |
-| Williams, T.B., *Persecution in 1 Peter*, 2012 | PEER-REVIEWED (monograph) | C |
-
----
-
 ## I. Die Welt zur damaligen Zeit
 
-> **Querverweis:** Für die breite frühkaiserzeitliche griechisch-römische Welt der Empfänger des Briefes — Politik, Wirtschaft, Alltagsleben und Religion unter dem frühen Prinzipat — siehe den Abschnitt I der Begleitmaterialien zu Johannes und Apostelgeschichte (`en/john/study/CHAPTER-1-CONTEXT.md`; `en/acts/study/CHAPTER-1-CONTEXT.md`). 1. Petrus schreibt an verstreute Gläubige in Kleinasien (Pontus, Galatien, Kappadokien, Asien, Bithynien, 1,1) in der zweiten Hälfte des ersten Jahrhunderts. Die folgenden Einträge befassen sich mit den spezifischen Merkmalen jener Welt, die das Schlusskapitel in den Vordergrund rückt: frühkirchliche Leitungsstrukturen, die Ehrenkultur, gegen die „Demut" steht, die Konventionen des Briefschlusses und „Babylon" als ein Name für Rom.
+> **Querverweis:** Für die breite frühkaiserzeitliche griechisch-römische Welt der Empfänger des Briefes — Politik, Wirtschaft, Alltagsleben und Religion unter dem frühen Prinzipat — siehe Abschnitt I des Begleitmaterials zu Johannes 1 (Vertiefen) und des Begleitmaterials zu Apostelgeschichte 1 (Vertiefen). 1. Petrus schreibt an verstreute Gläubige in Kleinasien (Pontus, Galatien, Kappadokien, Asien, Bithynien, 1,1) in der zweiten Hälfte des ersten Jahrhunderts. Die folgenden Einträge befassen sich mit den spezifischen Merkmalen jener Welt, die das Schlusskapitel in den Vordergrund rückt: frühkirchliche Leitungsstrukturen, die Ehrenkultur, gegen die „Demut" steht, die Konventionen des Briefschlusses und „Babylon" als ein Name für Rom.
 
 ---
 
@@ -258,20 +229,42 @@ Bis zum späteren ersten Jahrhundert, nach Roms Zerstörung Jerusalems und seine
 
 **Quelle:** Achtemeier, P.J., *1 Peter*, Hermeneia, Fortress Press, 1996, S. 353-354; Goodman, M., *Rome and Jerusalem: The Clash of Ancient Civilizations*, Allen Lane, 2007, S. 451-468.
 
+---
+
+## H. Konsultierte Quellen
+
 | Quelle | Typ | Verwendet in Abschnitten |
 |--------|------|-----------------|
-| Achtemeier, P.J., *1 Peter*, Hermeneia, 1996 | PEER-REVIEWED (commentary) | I |
-| Campbell, R.A., *The Elders: Seniority within Earliest Christianity*, 1994 | PEER-REVIEWED (monograph) | I |
+| Achtemeier, P.J., *1 Peter*, Hermeneia, 1996 | PEER-REVIEWED (commentary) | B, F, I |
+| Bauckham, R., *James*, 1999 | PEER-REVIEWED (monograph) | B |
+| Bauckham, R., *Jesus and the Eyewitnesses*, 2006 | PEER-REVIEWED (monograph) | F |
+| Bauer, W., *A Greek-English Lexicon of the NT* (BDAG), 3. Aufl., 2000 | PEER-REVIEWED (lexicon) | D |
+| Bockmuehl, M., *Simon Peter in Scripture and Memory*, 2012 | PEER-REVIEWED (monograph) | F |
+| Campbell, R.A., *The Elders: Seniority within Earliest Christianity*, 1994 | PEER-REVIEWED (monograph) | C, I |
+| Cullmann, O., *Peter: Disciple, Apostle, Martyr*, 2. Aufl., 1962 | PEER-REVIEWED (monograph) | F |
+| Davids, P.H., *The First Epistle of Peter*, NICNT, 1990 | PEER-REVIEWED (commentary) | B |
+| Day, P.L., *An Adversary in Heaven: śāṭān in the Hebrew Bible*, 1988 | PEER-REVIEWED (monograph) | D |
 | deSilva, D.A., *Honor, Patronage, Kinship & Purity*, 2000 | PEER-REVIEWED (monograph) | I |
-| Elliott, J.H., *1 Peter*, Anchor Bible 37B, 2000 | PEER-REVIEWED (commentary) | I |
+| Elliott, J.H., *1 Peter*, Anchor Bible 37B, 2000 | PEER-REVIEWED (commentary) | C, D, F, I |
 | Goodman, M., *Rome and Jerusalem*, 2007 | PEER-REVIEWED (monograph) | I |
+| Hatch, E. und Redpath, H.A., *A Concordance to the Septuagint*, 2. Aufl., 1998 | PEER-REVIEWED (reference) | D |
+| Hengel, M., *Studies in the Gospel of Mark*, 1985 | PEER-REVIEWED (monograph) | F |
+| Horrell, D.G., *1 Peter*, New Testament Guides, 2008 | PEER-REVIEWED (monograph) | C |
+| Hunzinger, C.-H., „Babylon als Deckname für Rom", 1965 | PEER-REVIEWED (essay) | B |
 | Klauck, H.-J., *Ancient Letters and the New Testament*, 2006 | PEER-REVIEWED (monograph) | I |
+| Liddell und Scott, *Greek-English Lexicon*, 9. Aufl., 1940 | PEER-REVIEWED (lexicon) | D |
 | Malina, B.J., *The New Testament World*, 3. Aufl., 2001 | PEER-REVIEWED (monograph) | I |
+| Metzger, B.M., *A Textual Commentary on the Greek New Testament*, 2. Aufl., 1994 | PEER-REVIEWED (reference) | G |
+| Michaels, J.R., *1 Peter*, Word Biblical Commentary 49, 1988 | PEER-REVIEWED (commentary) | B |
+| Nestle-Aland, *Novum Testamentum Graece*, 28. Aufl. | PRIMARY | A, D, G |
+| Richards, E.R., *The Secretary in the Letters of Paul*, 1991 | PEER-REVIEWED (monograph) | F |
+| Spicq, C., *Theological Lexicon of the New Testament*, 1994 | PEER-REVIEWED (lexicon) | D |
+| Strawn, B.A., *What Is Stronger than a Lion?*, 2005 | PEER-REVIEWED (monograph) | B |
 | Weima, J.A.D., *Neglected Endings*, 1994 | PEER-REVIEWED (monograph) | I |
+| Williams, T.B., *Persecution in 1 Peter*, 2012 | PEER-REVIEWED (monograph) | C |
 
 ---
 
+
 **Redaktionelle Herkunft:**
-- Entworfen von: KI (Claude, Anthropic)
-- Datum: 2026-06-26
-- Begutachtet von: ausstehend
+- KI-gestützter Entwurf, noch nicht geprüft.

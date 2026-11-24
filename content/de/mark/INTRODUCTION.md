@@ -111,7 +111,7 @@ Die ältesten und besten Handschriften (א, B) enden bei **16,8** — die Frauen
 ### E2. Bemerkenswerte Varianten innerhalb der Kapitel 1–3
 **[TEXTUELL — VERIFIZIERT]**
 
-Die Anfangskapitel enthalten mehrere Varianten, die die RULES-GS-Bedeutsamkeitsschwelle erreichen und in den Kapitelanmerkungen behandelt werden:
+Die Anfangskapitel enthalten mehrere Varianten, die die Bedeutsamkeitsschwelle der TT erreichen und in den Kapitelanmerkungen behandelt werden:
 - **1,1** — „Sohn Gottes" (*huiou theou*) ist in NA28 **eingeklammert/umstritten** (fehlend in א*, Θ, 28; vorhanden in א¹, B, D, L, W).
 - **1,2** — das Zitat wird „in Jesaja dem Propheten" (NA28) gegenüber dem byzantinischen „in den Propheten" zugeschrieben, weil das Zitat **zusammengesetzt** ist (Maleachi 3,1 / Exodus 23,20 + Jesaja 40,3).
 - **1,41** — Yeshua „von Mitleid bewegt" (*splanchnistheis*, NA28) gegenüber „von Zorn bewegt" (*orgistheis*, Codex Bezae + Altlateinisch), die *lectio difficilior*.
@@ -160,7 +160,7 @@ Gemäß dem gesperrten Glossar gibt die TT Bedeutung über Transliteration-durch
 | πνεῦμα (*pneuma*) | {Wind/Geist} | Schrägstrich für den göttlichen Geist; „unreiner Geist" ohne Schrägstrich |
 | εὐθύς (*euthys*) | sogleich | bei jedem Vorkommen bewahrt (Markus' Charakteristikum) |
 
-**Gottesname (Regel 25 / GS Option C):** wo *kyrios* in einem AT-Zitat JHWH wiedergibt (z. B. 1,3, Jesaja 40,3), liest die TT „der Herr" im Haupttext, mit dem zugrundeliegenden JHWH-Referenten in Stufe 2 vermerkt.
+**Gottesname (Regel 25 / GS Option C):** wo *kyrios* in einem AT-Zitat JHWH wiedergibt (z. B. 1,3, Jesaja 40,3), liest die TT „der Herr" im Haupttext, mit dem zugrundeliegenden JHWH-Referenten in den Anmerkungen vermerkt.
 
 ### F4. Direkte göttliche Rede (Regel 30)
 **[TEXTUELL — VERIFIZIERT]**

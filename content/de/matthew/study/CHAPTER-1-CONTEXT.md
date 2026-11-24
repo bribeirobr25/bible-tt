@@ -229,7 +229,7 @@ Die Zählung der Namen im dritten Satz (Exil bis Gesalbter) ergibt in den meiste
 
 ## I. Die Welt zur damaligen Zeit
 
-> **Für den vollständigen Kontext siehe Johannes 1 Begleitmaterial Abschnitt I.** Johannes und Matthäus teilen denselben allgemeinen historischen Zeitraum; das Begleitmaterial zu Johannes 1 (`de/john/study/CHAPTER-1-CONTEXT.md`) bietet den vollständigen Kontext in zwei Szenarien mit zehn Kategorien. Die folgenden Einträge befassen sich mit den in Matthäus 1 in den Vordergrund tretenden spezifischen Umständen.
+> **Für den vollständigen Kontext siehe Johannes 1 Begleitmaterial Abschnitt I.** Johannes und Matthäus teilen denselben allgemeinen historischen Zeitraum; das Begleitmaterial zu Johannes 1 (Vertiefen) bietet den vollständigen Kontext in zwei Szenarien mit zehn Kategorien. Die folgenden Einträge befassen sich mit den in Matthäus 1 in den Vordergrund tretenden spezifischen Umständen.
 
 ---
 
@@ -259,7 +259,7 @@ Der Alte Orient und die griechisch-römische Welt verfügten über ein gut entwi
 #### IA-4. Politisch — Die Herrschaft Herodes des Großen und der politische Anspruch der Genealogie
 **[HISTORISCH / ARCHÄOLOGISCH — VERIFIZIERT]**
 
-Herodes der Große (37–4 v. Chr.) war nicht davidischer Abstammung — er war Idumäer, ein Zwangskonvertit zum Judentum, von Rom eingesetzt. Seine Legitimität wurde stets von jüdischen Aristokraten und davidischen Loyalisten bestritten. Sein massives Bauprogramm (Erweiterung des Tempelbergs, Caesarea Maritima, Masada, Herodium) war teils eine kompensatorische Behauptung von Grandiosität für einen König, dem jüdische Ahnenbeglaubigungen fehlten. Die Geburt eines Kindes mit nachweisbarer davidischer Genealogie in den letzten Jahren von Herodes' Herrschaft war in diesem Kontext ein potenzieller Rivalitätsanspruch. Die Genealogie des Matthäus und die Frage der Magier „Wo ist der, der als König der Yehudim geboren wurde?" (2,2) sind politisch geladen, genau wie Herodes' Reaktion (2,3: „er war aufgewühlt, und ganz Jerusalem mit ihm") es explizit macht. Die Genealogie in Kapitel 1 ist das rechtliche Fundament für das politische Drama in Kapitel 2.
+Herodes der Große (37–4 v. Chr.) war nicht davidischer Abstammung — er war Idumäer, ein Zwangskonvertit zum Judentum, von Rom eingesetzt. Seine Legitimität wurde stets von jüdischen Aristokraten und davidischen Loyalisten bestritten. Sein massives Bauprogramm (Erweiterung des Tempelbergs, Caesarea Maritima, Masada, Herodium) war teils eine kompensatorische Behauptung von Grandiosität für einen König, dem jüdische Ahnenbeglaubigungen fehlten. Die Geburt eines Kindes mit nachweisbarer davidischer Genealogie in den letzten Jahren von Herodes' Herrschaft war in diesem Kontext ein potenzieller Rivalitätsanspruch. Die Genealogie des Matthäus und die Frage der Magier „Wo ist der, der als König der Jehudim geboren wurde?" (2,2) sind politisch geladen, genau wie Herodes' Reaktion (2,3: „er war aufgewühlt, und ganz Jerusalem mit ihm") es explizit macht. Die Genealogie in Kapitel 1 ist das rechtliche Fundament für das politische Drama in Kapitel 2.
 
 **Quelle:** Josephus, *Jüdische Altertümer* 14–17, Loeb Classical Library; Rocca, S., *Herod's Judaea*, Mohr Siebeck, 2008.
 
@@ -302,6 +302,4 @@ Gegen Ende des 1. Jahrhunderts war die Geburtserzählung in Matthäus 1 zu einem
 ---
 
 **Redaktionelle Herkunft:**
-- Entworfen von: KI (Claude, Anthropic)
-- Datum: 2026-04-27
-- Begutachtet von: ausstehend
+- KI-gestützter Entwurf, noch nicht geprüft.

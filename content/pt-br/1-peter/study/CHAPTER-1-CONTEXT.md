@@ -50,9 +50,9 @@ Este arquivo contém material de fundo organizado por tópico. Cada entrada carr
 ### A2. A eleição de forma trina, traduzida sem o dogma posterior (Regra 3)
 **[TEXTUAL — VERIFICADO (para as três frases); INFERÊNCIA POSSÍVEL — INCERTO (para as relações entre elas)]**
 
-A eleição de 1:2 é governada por três frases preposicionais que nomeiam o Pai, o {a:vento/espírito}, e o sangue de Yeshua: **κατὰ πρόγνωσιν θεοῦ πατρός** ("segundo *o* pré-conhecimento de Deus *o* Pai"), **ἐν ἁγιασμῷ πνεύματος** ("em santificação d*o* {a:vento/espírito}"), **εἰς ὑπακοὴν καὶ ῥαντισμὸν αἵματος Ἰησοῦ Χριστοῦ** ("para obediência e aspersão d*o* sangue de Yeshua *o* Messias"). A TT traduz a estrutura Pai/espírito/sangue exatamente como o grego a dá e **não** importa o vocabulário posterior "a Trindade" nem especifica as relações entre os três (Regra 3; registro editorial P-008).
+A eleição de 1:2 é governada por três frases preposicionais que nomeiam o Pai, o {a:vento/espírito}, e o sangue de Yeshua: **κατὰ πρόγνωσιν θεοῦ πατρός** ("segundo *o* pré-conhecimento de Deus *o* Pai"), **ἐν ἁγιασμῷ πνεύματος** ("em santificação d*o* {a:vento/espírito}"), **εἰς ὑπακοὴν καὶ ῥαντισμὸν αἵματος Ἰησοῦ Χριστοῦ** ("para obediência e aspersão d*o* sangue de Yeshua *o* Messias"). A TT traduz a estrutura Pai/espírito/sangue exatamente como o grego a dá e **não** importa o vocabulário posterior "a Trindade" nem especifica as relações entre os três (Regra 3).
 
-**[INFERÊNCIA POSSÍVEL — INCERTO]** Se as três frases atribuem funções distintas (o Pai pré-conhecendo, o espírito santificando, o sangue ratificando) ou simplesmente acumulam um único ato de graça não é resolvido pela sintaxe; as preposições (*kata* / *en* / *eis*) diferem, mas sua força é debatida. A TT mantém visível a forma tríplice e deixa a questão sistemática ao leitor. → veja o registro editorial P-008.
+**[INFERÊNCIA POSSÍVEL — INCERTO]** Se as três frases atribuem funções distintas (o Pai pré-conhecendo, o espírito santificando, o sangue ratificando) ou simplesmente acumulam um único ato de graça não é resolvido pela sintaxe; as preposições (*kata* / *en* / *eis*) diferem, mas sua força é debatida. A TT mantém visível a forma tríplice e deixa a questão sistemática ao leitor.
 
 ### A3. "Aspersão de sangue" — o ritual da aliança por trás da frase
 **[TEXTUAL — VERIFICADO (para o lexema); INFERÊNCIA POSSÍVEL — PROVÁVEL (para o referente do Sinai)]**
@@ -89,7 +89,7 @@ A autodesignação que controla a carta é um agrupamento de palavras de "estran
 
 Os versículos 10-12 fazem uma afirmação densa sobre os profetas da BH em três termos carregados. Eles **ἐξεζήτησαν καὶ ἐξηραύνησαν** (*exezētēsan kai exēraunēsan*, "buscaram e investigaram"), um par composto enfático — os profetas como inquiridores, não meros porta-vozes. O que operava neles era **τὸ ἐν αὐτοῖς πνεῦμα Χριστοῦ** ("o {a:vento/espírito} d*o* Messias neles"), que **προμαρτυρόμενον** ("testemunhando de antemão") sobre **τὰ εἰς Χριστὸν παθήματα καὶ τὰς μετὰ ταῦτα δόξας** ("os sofrimentos *destinados* ao Messias e as glórias depois destes"). A TT mantém a barra vento/espírito e traduz a afirmação como o grego a tem.
 
-**[INFERÊNCIA POSSÍVEL — INCERTO]** Se "o *pneuma* do Messias neles" afirma a atividade pré-existente do Messias nos profetas, ou significa "o espírito que apontava para o Messias", ou "o espírito dado mais tarde pelo Messias", é exegeticamente contestado; o genitivo *Christou* é gramaticalmente aberto. A TT não o resolve (registro editorial; nota do capítulo em 1:11). O padrão sofrimento-depois-glória aqui declarado é a mesma leitura dos profetas encontrada em Lucas 24:26 e Atos 3:18. → veja §B2 sobre as ideias do Segundo Templo a respeito do espírito profético.
+**[INFERÊNCIA POSSÍVEL — INCERTO]** Se "o *pneuma* do Messias neles" afirma a atividade pré-existente do Messias nos profetas, ou significa "o espírito que apontava para o Messias", ou "o espírito dado mais tarde pelo Messias", é exegeticamente contestado; o genitivo *Christou* é gramaticalmente aberto. A TT não o resolve (nota do capítulo em 1:11). O padrão sofrimento-depois-glória aqui declarado é a mesma leitura dos profetas encontrada em Lucas 24:26 e Atos 3:18. → veja §B2 sobre as ideias do Segundo Templo a respeito do espírito profético.
 
 ### A10. "Cingi os lombos da vossa mente" — a postura do Êxodo tornada interior
 **[TEXTUAL — VERIFICADO]**
@@ -99,7 +99,7 @@ O primeiro imperativo principal da carta (1:13) é **ἀναζωσάμενοι �
 ### A11. A citação de Levítico como palavra de Deus em primeira pessoa (Regra 30)
 **[TEXTUAL — VERIFICADO]**
 
-Em 1:16 o chamado à santidade é fundamentado em uma citação: **Ἅγιοι ἔσεσθε, ὅτι ἐγὼ ἅγιος** ("Sede santos, porque eu *sou* santo"), de Levítico 11:44-45; 19:2; 20:7. Como a fonte é **a própria fala de Deus em primeira pessoa** (o Senhor dizendo "eu sou santo"), a TT a marca `@@…@@` conforme a Regra 30 (o precedente A-004; registro editorial). Esta é a única marcação de fala divina no capítulo: a exortação circundante é a própria voz do apóstolo e fica sem marcação, e as outras citações (Is 40 em 1:24-25) são a voz humana do profeta e ficam igualmente sem marcação. A TT assim não achata a distinção entre Kefa exortando e Deus falando dentro da citação. A cópula "*sou*" é suprida em itálico, já que o grego (e o hebraico por trás dele) é sem verbo. → veja §A12.
+Em 1:16 o chamado à santidade é fundamentado em uma citação: **Ἅγιοι ἔσεσθε, ὅτι ἐγὼ ἅγιος** ("Sede santos, porque eu *sou* santo"), de Levítico 11:44-45; 19:2; 20:7. A fonte é **a própria fala de Deus em primeira pessoa** (o Senhor dizendo "eu sou santo"), mas a TT não a marca: ela é introduzida por "está escrito", de modo que Kefa a está citando (Regra 30). O capítulo, portanto, não traz nenhuma marcação de fala divina: a exortação circundante é a própria voz do apóstolo, e as outras citações (Is 40 em 1:24-25) são a voz humana do profeta. A cópula "*sou*" é suprida em itálico, já que o grego (e o hebraico por trás dele) é sem verbo. → veja §A12.
 
 ### A12. *Anastrophē* — "conduta" como uma palavra-chave de 1 Pedro
 **[TEXTUAL — VERIFICADO]**
@@ -248,35 +248,6 @@ O capítulo termina num lance lexical discreto. O novo nascimento vem "por meio 
 
 ---
 
-## H. Fontes Consultadas
-
-| Fonte | Tipo | Usada nas seções |
-|--------|------|-----------------|
-| Achtemeier, P.J., *1 Peter*, Hermeneia, 1996 | PEER-REVIEWED (commentary) | F |
-| Balch, D.L., *Let Wives Be Submissive: The Domestic Code in 1 Peter*, 1981 | PEER-REVIEWED (monograph) | C |
-| Bauckham, R., *The Jewish World around the New Testament*, 2008 | PEER-REVIEWED (monograph) | B |
-| Bauer, W., *A Greek-English Lexicon of the NT* (BDAG), 3ª ed., 2000 | PEER-REVIEWED (lexicon) | D |
-| Beale, G.K. e Carson, D.A. (eds.), *Commentary on the NT Use of the OT*, 2007 | PEER-REVIEWED (commentary) | B |
-| Cross, F.L., *1 Peter: A Paschal Liturgy*, 1954 | PEER-REVIEWED (monograph) | F |
-| deSilva, D.A., *Honor, Patronage, Kinship and Purity*, 2000 | PEER-REVIEWED (monograph) | C |
-| Doering, L., *Ancient Jewish Letters and the Beginnings of Christian Epistolography*, 2012 | PEER-REVIEWED (monograph) | B |
-| Elliott, J.H., *A Home for the Homeless*, 1981 | PEER-REVIEWED (monograph) | C, F |
-| Elliott, J.H., *1 Peter*, Anchor Bible 37B, 2000 | PEER-REVIEWED (commentary) | F |
-| Feldmeier, R., *The First Letter of Peter*, 2008 | PEER-REVIEWED (commentary) | C |
-| Hemer, C.J., "The Address of 1 Peter", *Expository Times* 89 (1978) | PEER-REVIEWED (article) | C |
-| Holmes, M.W. (ed.), *The Apostolic Fathers*, 3ª ed., 2007 (*Diognetus*) | PRIMARY (text collection) | F |
-| Jobes, K.H., *1 Peter*, Baker Exegetical Commentary, 2005 | PEER-REVIEWED (commentary) | B |
-| Kelly, J.N.D., *Early Christian Doctrines*, 5ª ed., 1977 | PEER-REVIEWED (monograph) | F |
-| Liddell e Scott, *Greek-English Lexicon*, 9ª ed. | PEER-REVIEWED (lexicon) | D |
-| Marshall, I.H., *Aspects of the Atonement*, 2007 | PEER-REVIEWED (monograph) | D |
-| Michaels, J.R., *1 Peter*, Word Biblical Commentary 49, 1988 | PEER-REVIEWED (commentary) | D |
-| Mitchell, S., *Anatolia: Land, Men, and Gods in Asia Minor*, 1993 | PEER-REVIEWED (monograph) | C |
-| Nestle-Aland, *Novum Testamentum Graece*, 28ª ed. | PRIMARY | A, D, G |
-| Vermes, G., *The Complete Dead Sea Scrolls in English*, ed. rev., 2011 | PRIMARY (text collection) | B |
-| Wolff, H.W., *Anthropology of the Old Testament*, 1974 | PEER-REVIEWED (monograph) | D |
-
----
-
 ## I. O Mundo na Época
 
 > **Uma carta, não uma narrativa.** Por 1 Pedro ser uma epístola, esta seção descreve o **mundo social dos destinatários** — o cenário vivido dos "eleitos peregrinos *da* dispersão" endereçados em 1:1 — em vez de uma cena narrada. Os leitores estão espalhados por cinco províncias da Ásia Menor romana em meados do primeiro século d.C.; as entradas abaixo esboçam o mundo político, social, religioso e doméstico contra o qual a identidade-de-exílio da carta, seu chamado à santidade e sua antecipação de calúnia e sofrimento devem ser lidos. Os dois cenários demarcam a janela de datação mais discutida para a carta (um cenário petrino/neroniano no início dos anos 60 d.C. versus um cenário de fim do primeiro século), já que as pressões sociais sobre os leitores se registram de modo um tanto diferente em cada um.
@@ -333,24 +304,43 @@ No fim do primeiro século, os seguidores de Yeshua na Ásia Menor eram um grupo
 
 ---
 
+## H. Fontes Consultadas
+
 | Fonte | Tipo | Usada nas seções |
 |--------|------|-----------------|
-| Balch, D.L., *Let Wives Be Submissive*, 1981 | PEER-REVIEWED (monograph) | I |
-| deSilva, D.A., *Honor, Patronage, Kinship and Purity*, 2000 | PEER-REVIEWED (monograph) | I |
-| Elliott, J.H., *A Home for the Homeless*, 1981 | PEER-REVIEWED (monograph) | I |
+| Achtemeier, P.J., *1 Peter*, Hermeneia, 1996 | PEER-REVIEWED (commentary) | F |
+| Balch, D.L., *Let Wives Be Submissive: The Domestic Code in 1 Peter*, 1981 | PEER-REVIEWED (monograph) | C, I |
+| Bauckham, R., *The Jewish World around the New Testament*, 2008 | PEER-REVIEWED (monograph) | B |
+| Bauer, W., *A Greek-English Lexicon of the NT* (BDAG), 3ª ed., 2000 | PEER-REVIEWED (lexicon) | D |
+| Beale, G.K. e Carson, D.A. (eds.), *Commentary on the NT Use of the OT*, 2007 | PEER-REVIEWED (commentary) | B |
+| Cross, F.L., *1 Peter: A Paschal Liturgy*, 1954 | PEER-REVIEWED (monograph) | F |
+| deSilva, D.A., *Honor, Patronage, Kinship and Purity*, 2000 | PEER-REVIEWED (monograph) | C, I |
+| Doering, L., *Ancient Jewish Letters and the Beginnings of Christian Epistolography*, 2012 | PEER-REVIEWED (monograph) | B |
+| Elliott, J.H., *1 Peter*, Anchor Bible 37B, 2000 | PEER-REVIEWED (commentary) | F |
+| Elliott, J.H., *A Home for the Homeless*, 1981 | PEER-REVIEWED (monograph) | C, F, I |
+| Feldmeier, R., *The First Letter of Peter*, 2008 | PEER-REVIEWED (commentary) | C |
 | Goodman, M., *Rome and Jerusalem*, 2007 | PEER-REVIEWED (monograph) | I |
+| Hemer, C.J., "The Address of 1 Peter", *Expository Times* 89 (1978) | PEER-REVIEWED (article) | C |
+| Holmes, M.W. (ed.), *The Apostolic Fathers*, 3ª ed., 2007 (*Diognetus*) | PRIMARY (text collection) | F |
 | Horrell, D.G., *Becoming Christian: Essays on 1 Peter*, 2013 | PEER-REVIEWED (monograph) | I |
+| Jobes, K.H., *1 Peter*, Baker Exegetical Commentary, 2005 | PEER-REVIEWED (commentary) | B |
+| Kelly, J.N.D., *Early Christian Doctrines*, 5ª ed., 1977 | PEER-REVIEWED (monograph) | F |
+| Liddell e Scott, *Greek-English Lexicon*, 9ª ed. | PEER-REVIEWED (lexicon) | D |
 | Magie, D., *Roman Rule in Asia Minor*, 1950 | PEER-REVIEWED (monograph) | I |
-| Mitchell, S., *Anatolia: Land, Men, and Gods in Asia Minor*, 1993 | PEER-REVIEWED (monograph) | I |
+| Marshall, I.H., *Aspects of the Atonement*, 2007 | PEER-REVIEWED (monograph) | D |
+| Michaels, J.R., *1 Peter*, Word Biblical Commentary 49, 1988 | PEER-REVIEWED (commentary) | D |
+| Mitchell, S., *Anatolia: Land, Men, and Gods in Asia Minor*, 1993 | PEER-REVIEWED (monograph) | C, I |
+| Nestle-Aland, *Novum Testamentum Graece*, 28ª ed. | PRIMARY | A, D, G |
 | Osiek, C. e Balch, D.L., *Families in the New Testament World*, 1997 | PEER-REVIEWED (monograph) | I |
 | Plínio, o Jovem, *Letters* 10.96-97, Loeb Classical Library | PRIMARY | I |
 | Price, S.R.F., *Rituals and Power: The Roman Imperial Cult in Asia Minor*, 1984 | PEER-REVIEWED (monograph) | I |
 | Trebilco, P., *Jewish Communities in Asia Minor*, 1991 | PEER-REVIEWED (monograph) | I |
+| Vermes, G., *The Complete Dead Sea Scrolls in English*, ed. rev., 2011 | PRIMARY (text collection) | B |
 | Williams, M.H., *The Jews among the Greeks and Romans*, 1998 | PEER-REVIEWED (monograph) | I |
+| Wolff, H.W., *Anthropology of the Old Testament*, 1974 | PEER-REVIEWED (monograph) | D |
 
 ---
 
+
 **Proveniência editorial:**
-- Redigido por: IA (Claude, Anthropic)
-- Data: 2026-06-26
-- Revisado por: pendente
+- Rascunho assistido por IA, ainda não revisado.

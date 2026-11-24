@@ -181,14 +181,14 @@ The letter is a *circular* — addressed to readers across five provinces, desig
 ### D4. The household code (Haustafel)
 **[HISTORICAL / ARCHAEOLOGICAL — PROBABLE]**
 
-1 Peter 2:18–3:7 belongs to a recognized ancient form, the **household code** (German *Haustafel*) — a structured set of instructions to the members of a household: here, household slaves toward masters (2:18–25), wives toward husbands and husbands toward wives (3:1–7). Such codes have parallels in Greco-Roman moral writing (e.g. Aristotle's discussion of household management) and in other early Christian letters (Colossians, Ephesians). The form addresses the ordering of the ancient household within its social world. This is the letter's **highest-restraint passage**: the TT renders the Greek faithfully, gives the interpretive history in Tier 2, and takes no side in the main text (Rule 3; see the editorial log, P-009). The TT records the form as background and does not let it shape any rendering.
+1 Peter 2:18–3:7 belongs to a recognized ancient form, the **household code** (German *Haustafel*) — a structured set of instructions to the members of a household: here, household slaves toward masters (2:18–25), wives toward husbands and husbands toward wives (3:1–7). Such codes have parallels in Greco-Roman moral writing (e.g. Aristotle's discussion of household management) and in other early Christian letters (Colossians, Ephesians). The form addresses the ordering of the ancient household within its social world. This is the letter's **highest-restraint passage**: the TT renders the Greek faithfully, gives the interpretive history in the notes, and takes no side in the main text (Rule 3). The TT records the form as background and does not let it shape any rendering.
 
 **Source:** Balch, *Let Wives Be Submissive: The Domestic Code in 1 Peter* (1981); Elliott, *1 Peter* (AB), 503–509, 549–599; Achtemeier, *1 Peter* (Hermeneia), 52–55, 187–217.
 
 ### D5. "Babylon" (5:13) as a cipher for Rome
 **[POSSIBLE INFERENCE — PROBABLE]**
 
-The greeting from "she who is in Babylon" (5:13) is widely read as a coded reference to **Rome**. By the late first century, "Babylon" had become a standard Jewish and Christian cipher for Rome — the great imperial power that, like ancient Babylon, had destroyed Jerusalem and its Temple (a usage prominent in Revelation, 4 Ezra, and 2 Baruch). On this reading the letter is written from Rome, and the figure of Babylon reinforces the readers' exile identity: they, like the letter's senders, live in "Babylon." A minority take "Babylon" literally (the city in Mesopotamia) or as the Roman fort in Egypt, but the cipher reading is dominant. The TT renders the place-name as the text gives it — Bavel (Babylon) — and notes the likely referent in Tier 2.
+The greeting from "she who is in Babylon" (5:13) is widely read as a coded reference to **Rome**. By the late first century, "Babylon" had become a standard Jewish and Christian cipher for Rome — the great imperial power that, like ancient Babylon, had destroyed Jerusalem and its Temple (a usage prominent in Revelation, 4 Ezra, and 2 Baruch). On this reading the letter is written from Rome, and the figure of Babylon reinforces the readers' exile identity: they, like the letter's senders, live in "Babylon." A minority take "Babylon" literally (the city in Mesopotamia) or as the Roman fort in Egypt, but the cipher reading is dominant. The TT renders the place-name as the text gives it — Bavel (Babylon) — and gives the likely referent in the notes.
 
 **Source:** Elliott, *1 Peter* (AB), 131–134, 882–887; Achtemeier, *1 Peter* (Hermeneia), 353–354.
 
@@ -216,7 +216,7 @@ The Greek text of 1 Peter was transmitted through the New Testament manuscript t
 ### E2. A comparatively stable text
 **[TEXTUAL — VERIFIED]**
 
-Unlike Acts — whose Alexandrian/Western divergence is the largest in the New Testament — **1 Peter's text is comparatively stable.** There is no large-scale parallel-edition problem; the manuscript tradition is relatively unified, and the variants are mostly small (word order, conjunctions, the presence or absence of short phrases). A few carry exegetical weight — for example, the wording at 3:18 (whether the Messiah "suffered" or "died" for sins) and the reading at 4:14 — but these are local, not a wholesale divergence. **The TT follows NA28.** Significant variants are noted in Tier 2 rather than silently adopted (Rule 22).
+Unlike Acts — whose Alexandrian/Western divergence is the largest in the New Testament — **1 Peter's text is comparatively stable.** There is no large-scale parallel-edition problem; the manuscript tradition is relatively unified, and the variants are mostly small (word order, conjunctions, the presence or absence of short phrases). A few carry exegetical weight — for example, the wording at 3:18 (whether the Messiah "suffered" or "died" for sins) and the reading at 4:14 — but these are local, not a wholesale divergence. **The TT follows NA28.** Significant variants are recorded in the notes rather than silently adopted (Rule 22).
 
 **Source:** Metzger, *A Textual Commentary on the Greek New Testament* (2nd ed., 1994), 615–626; Achtemeier, *1 Peter* (Hermeneia), 1–7.
 
@@ -252,10 +252,10 @@ Per the TT's name-rendering policy, the first occurrence of a name per section a
 
 The TT marks the text with a small set of conventions the reader will encounter throughout 1 Peter 1–5:
 
-- `*added*` — words added for English grammar (Rule 11), shown in italics. (Frequent here: the copula in "I *am* holy," 1:16; "Blessed *be*," 1:3.)
-- `{t:…}` — a transliterated term carried with its gloss, where the text itself supplies one.
-- `{a:…}` — a live double sense kept open rather than resolved, e.g. {a:wind/spirit} for πνεῦμα, which stays open throughout (1:2, 11, 12; 3:18, 19; 4:6, 14).
-- `@@…@@` — divine speech (Rule 30). 1 Peter is the apostle's exhortation **in his own voice** — there is no narrated divine speech. Only God's first-person word *inside* an OT citation is marked: **1:16** ("@@be holy, because I *am* holy@@," Lev 11:44/19:2) and **2:6** ("behold, I lay in Zion a stone…," Isa 28:16). Citations that speak *about* the Lord in the third person — the psalmist's and prophet's human voice (1:24–25, Isa 40; 2:3, Ps 34; 3:10–12, Ps 34) — are **not** marked.
+- *added* — words added for English grammar (Rule 11), shown in italics. (Frequent here: the copula in "I *am* holy," 1:16; "Blessed *be*," 1:3.)
+- {t:…} — a transliterated term carried with its gloss, where the text itself supplies one.
+- {a:…} — a live double sense kept open rather than resolved, e.g. {a:wind/spirit} for πνεῦμα, which stays open throughout (1:2, 11, 12; 3:18, 19; 4:6, 14).
+- @@…@@ — divine speech (Rule 30). 1 Peter is the apostle's exhortation **in his own voice** — there is no narrated divine speech, so nothing in 1 Peter is marked. God's first-person word *inside* an OT citation is **not** marked either, because the apostle is quoting it: **1:16**, introduced with "it is written" ("be holy, because I *am* holy," Lev 11:44/19:2), and **2:6**, introduced with "it is contained in scripture" ("behold, I lay in Zion a stone…," Isa 28:16). Citations that speak *about* the Lord in the third person — the psalmist's and prophet's human voice (1:24–25, Isa 40; 2:3, Ps 34; 3:10–12, Ps 34) — are likewise **not** marked.
 
 ### F4. The exile keyword — *paroikoi / parepidēmoi / diaspora*
 **[TEXTUAL — VERIFIED]**
@@ -266,15 +266,15 @@ The letter's identity language is its controlling image, and the TT keeps it lit
 - **πάροικοι / παροικία** (*paroikoi / paroikia*) = "resident-aliens" / "time of sojourning" (1:17; 2:11)
 - **διασπορά** (*diaspora*) = "dispersion" (1:1)
 
-These are rendered with their literal exile/foreigner force, with the dual sense (literal status / theological self-description; see §B5) noted in Tier 2. The readers' whole self-understanding — at home and not at home — turns on these words.
+These are rendered with their literal exile/foreigner force, with the dual sense (literal status / theological self-description; see §B5) recorded in the notes. The readers' whole self-understanding — at home and not at home — turns on these words.
 
 ### F5. Kyrios — Divine Name Policy in 1 Peter (Option C)
 **[TEXTUAL — VERIFIED]**
 
-When 1 Peter quotes or echoes Hebrew Bible passages containing the Tetragrammaton (the four-letter Hebrew divine name יהוה, transliterated YHWH), the Greek text uses κύριος (*kyrios*). Per the TT's Divine Name Policy (Option C, RULES-GS.md):
+When 1 Peter quotes or echoes Hebrew Bible passages containing the Tetragrammaton (the four-letter Hebrew divine name יהוה, transliterated YHWH), the Greek text uses κύριος (*kyrios*). Per the TT's Divine Name Policy (Option C):
 
 - The main text renders *kyrios* as "the Lord" in OT-quotation and OT-echo contexts.
-- A Tier 2 note identifies the source and states that the underlying Hebrew has the Tetragrammaton.
+- A note identifies the source and states that the underlying Hebrew has the Tetragrammaton.
 - When *kyrios* refers to Yeshua (Jesus) or to a human master (not an OT YHWH reference), no YHWH note is needed.
 - Ambiguous cases are flagged per Rule 13.
 
@@ -284,7 +284,7 @@ The OT citations carry **YHWH** behind the Greek *kyrios*:
 - **2:3** (Ps 34:8) — "*the Lord* (YHWH) is good / kind."
 - **3:12** (Ps 34:15–16) — "the eyes of *the Lord* (YHWH)… the face of *the Lord*."
 
-A distinct, deliberate case is **3:15**: "sanctify *the Messiah* as Lord," which reapplies Isaiah 8:13 ("the Lord of hosts") to the Messiah — a κύριος *referent-shift* (from YHWH in Isaiah to the Messiah here). The TT preserves what the Greek does, flags the move (Rule 13), and explains it in Tier 2.
+A distinct, deliberate case is **3:15**: "sanctify *the Messiah* as Lord," which reapplies Isaiah 8:13 ("the Lord of hosts") to the Messiah — a κύριος *referent-shift* (from YHWH in Isaiah to the Messiah here). The TT preserves what the Greek does, flags the move (Rule 13), and explains it in the notes.
 
 ### F6. Active rules with 1 Peter-specific applications
 **[TEXTUAL — VERIFIED]**
@@ -294,13 +294,13 @@ A distinct, deliberate case is **3:15**: "sanctify *the Messiah* as Lord," which
 | *(unnumbered)* | Prime Directive | Keep the long periodic sentences (1:3–12) in their suspended structure; do not resolve theological cruxes (the "spirits in prison," 3:18–20; "the gospel preached to the dead," 4:6). Render as the Greek has it. |
 | 1 | Controlled Lexical Consistency | Locked terms (*kyrios*, *Christos*, *pneuma*, *baptisma*, *anastrophē*, *elpis*, *psychē*, *hypotassō*) rendered consistently across all five chapters per the GS glossary. |
 | 2 | Ambiguity Preservation | {a:wind/spirit} (πνεῦμα) kept open throughout (1:2, 11, 12; 3:18–19; 4:6, 14). |
-| 3 | No imported theology | The triune-shaped salutation (1:2) is rendered without the later dogmatic word "Trinity"; the household code (2:18–3:7) is rendered faithfully with the interpretive history in Tier 2 and no side taken — restraint both ways. |
-| 11 | Mark Grammatical Additions | Words added for English grammar appear in italics (`*added*`); frequent with verbless Greek (1:3, 16). |
+| 3 | No imported theology | The triune-shaped salutation (1:2) is rendered without the later dogmatic word "Trinity"; the household code (2:18–3:7) is rendered faithfully with the interpretive history in the notes and no side taken — restraint both ways. |
+| 11 | Mark Grammatical Additions | Words added for English grammar appear in italics (*added*); frequent with verbless Greek (1:3, 16). |
 | 13 | Uncertainty Levels | Debated terms (the descent / "spirits in prison," 3:18–20; baptism "now saves you," 3:21; "appointed" to stumble, 2:8; the κύριος referent-shift, 3:15) carry confidence labels (Probable / Possible / Uncertain). |
-| 22 | Text-Critical Restraint | The (modest) significant variants — e.g. 3:18; 4:14 — noted in Tier 2 without silent adoption. See E2. |
-| 25 | Divine Name Policy — GS Option C | κύριος rendered "the Lord" in OT-quotation/echo contexts, with a Tier 2 note identifying YHWH in the underlying Hebrew. See F5. |
+| 22 | Text-Critical Restraint | The (modest) significant variants — e.g. 3:18; 4:14 — recorded in the notes without silent adoption. See E2. |
+| 25 | Divine Name Policy — GS Option C | κύριος rendered "the Lord" in OT-quotation/echo contexts, with a note identifying YHWH in the underlying Hebrew. See F5. |
 | 29 | Enrichment in companions only | Composition, dating, the social setting, the household-code history, and the "Babylon" cipher live here and in the companions — dual-labeled — not in the main text. |
-| 30 | Divine-speech marking | Only God's first-person word inside OT citations is marked (1:16; 2:6); the apostle's exhortation and the third-person OT citations are not. See F3. |
+| 30 | Divine-speech marking | Nothing is marked: God's first-person word inside OT citations (1:16; 2:6) is quoted by the apostle, and his exhortation and the third-person OT citations are human speech. See F3. |
 
 ---
 
@@ -318,4 +318,4 @@ A distinct, deliberate case is **3:15**: "sanctify *the Messiah* as Lord," which
 
 ---
 
-> **Editorial provenance:** Drafted by Claude Opus 4.8 (1M context) on 2026-06-26. Not yet reviewed. This introduction is a provisional scholarly resource governed by TT Rule 29. All claims carry dual labels; no claim should be read as the TT's theological or compositional position. The TT translates the Greek text (NA28) and does not adopt any particular theory of authorship, composition, dating, or the social setting of the letter.
+> **Editorial provenance:** AI-assisted draft, not yet reviewed. This introduction is a provisional scholarly resource governed by TT Rule 29. All claims carry dual labels; no claim should be read as the TT's theological or compositional position. The TT translates the Greek text (NA28) and does not adopt any particular theory of authorship, composition, dating, or the social setting of the letter.

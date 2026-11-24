@@ -93,7 +93,7 @@ Este *é* o livro das gerações de Adão. No dia em que Deus criou *um* humano,
 > - **סֵפֶר תּוֹלְדֹת אָדָם** (*sefer toledot Adam*) = "o livro das gerações de Adão." Segundo marcador *toledot* em Gênesis (primeiro em 2:4). Este acrescenta **סֵפֶר** (*sefer*, "livro/documento") — o único *toledot* com este prefixo. Sinaliza um registro escrito estruturado.
 >
 > 🔴 **CRÍTICO — ADÃO AGORA É NOME PRÓPRIO**
-> - **אָדָם** (*Adam*) — anartro (sem artigo), contexto genealógico. Nome próprio travado deste versículo em diante (conforme entrada 081 do log editorial). O mesmo versículo então usa "humano" (*adam*) genericamente na frase de recordação da criação: "no dia em que Deus criou *um* humano."
+> - **אָדָם** (*Adam*) — anartro (sem artigo), contexto genealógico. Nome próprio travado deste versículo em diante. O mesmo versículo então usa "humano" (*adam*) genericamente na frase de recordação da criação: "no dia em que Deus criou *um* humano."
 >
 > 🔵 **IMAGEM/SEMELHANÇA RECORDADA**
 > - "À semelhança de Deus ele o fez" — ecoa Gn 1:26–27. Usa *demut* (semelhança) e *asah* (fez). Referência cruzada ao v.3 onde a linguagem se inverte: Adão gera Shet (Sete) "à sua semelhança, conforme a sua imagem."
@@ -121,7 +121,7 @@ E Adão viveu cento e trinta anos, e gerou à sua semelhança, conforme a sua im
 > - Gn 1:26–27: Deus cria o humano "à nossa imagem, conforme a nossa semelhança." Gn 5:3: Adão gera Sete "à **sua** semelhança, conforme a **sua** imagem." A linguagem de criação divino-para-humano é **encadeada à descendência humano-para-humano**. O par *tselem/demut* continua através das gerações.
 >
 > 🟢 **130 ANOS**
-> - Gn 2:17 advertiu "morrendo morrerás." Gn 3:19 declarou "pó és." Agora Adão vive 130 anos antes de Sete — depois morre aos 930 (v.5). A tensão do "no dia" (2:17 vs. 5:5) está textualmente presente. Referência cruzada à entrada do log editorial para as opções interpretativas de *beyom*.
+> - Gn 2:17 advertiu "morrendo morrerás." Gn 3:19 declarou "pó és." Agora Adão vive 130 anos antes de Sete — depois morre aos 930 (v.5). A tensão do "no dia" (2:17 vs. 5:5) está textualmente presente. → Para as opções interpretativas de *beyom*, veja o material de estudo de Gênesis 2 (Aprofundar), Seção D4.
 
 ---
 

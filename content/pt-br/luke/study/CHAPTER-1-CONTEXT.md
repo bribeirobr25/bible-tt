@@ -75,7 +75,7 @@ A TT traduz *charis* como "favor" na narrativa e o particípio transparentemente
 
 Dois cânticos interrompem a narrativa: o Magnificat (Miryam, 1:46-55) e o Benedictus (Zecharyah, 1:67-79). Ambos são densamente alusivos à Bíblia Hebraica — o Magnificat reelabora o cântico de Channah (Ana) (1 Sm 2:1-10) e os Salmos; o Benedictus recorre às promessas da aliança a Avraham e a David e aos profetas. Em algumas testemunhas (parte do latim antigo) o Magnificat é atribuído a "Isabel"; o NA28 lê *Mariam*.
 
-Pela Regra 30, ambos os cânticos são fala **humana** e NÃO são marcados como fala divina; pela decisão editorial (luke.md L-002), são redigidos como prosa fluente, já que o renderizador colapsa as quebras de linha poéticas. A TT não impõe uma divisão de versos que a plataforma não consegue exibir. → Para a estrutura dos cânticos e sua base no cântico de Ana, veja o complemento PROFECIA.
+Pela Regra 30, ambos os cânticos são fala **humana** e NÃO são marcados como fala divina; são redigidos como prosa fluente, já que o renderizador colapsa as quebras de linha poéticas. A TT não impõe uma divisão de versos que a plataforma não consegue exibir. → Para a estrutura dos cânticos e sua base no cântico de Ana, veja o complemento PROFECIA.
 
 ### A6. *Angelos kyriou*, Gavriel e a comissão de Eliyahu (Elias)
 **[TEXTUAL — VERIFICADO]**
@@ -221,7 +221,7 @@ O NA28 lê "E **Mariam** disse" em 1:46, atribuindo o Magnificat a Maria, e esta
 
 ## I. O Mundo na Época
 
-> **Referência cruzada:** Para o contexto mundial completo em dois cenários e dez categorias (Político, Economia, Vida Cotidiana, Estrutura Social, Educação, Militar, Artes, Ciência, Religião, Povos Vizinhos), veja o complemento de João 1 (Seção I, `pt-br/john/study/CHAPTER-1-CONTEXT.md`). Lucas e João compartilham o mesmo período histórico geral; a seção de João 1 fornece o fundamento. As entradas abaixo abordam as circunstâncias específicas destacadas em Lucas 1.
+> **Referência cruzada:** Para o contexto mundial completo em dois cenários e dez categorias (Político, Economia, Vida Cotidiana, Estrutura Social, Educação, Militar, Artes, Ciência, Religião, Povos Vizinhos), veja o material de estudo de João 1 (Aprofundar), Seção I. Lucas e João compartilham o mesmo período histórico geral; a seção de João 1 fornece o fundamento. As entradas abaixo abordam as circunstâncias específicas destacadas em Lucas 1.
 
 ---
 
@@ -306,6 +306,4 @@ Após 70 d.C., os arquivos genealógicos associados ao Templo (usados para verif
 ---
 
 **Proveniência editorial:**
-- Redigido por: IA (Claude, Anthropic)
-- Data: 2026-06-23
-- Revisado por: pendente
+- Rascunho assistido por IA, ainda não revisado.

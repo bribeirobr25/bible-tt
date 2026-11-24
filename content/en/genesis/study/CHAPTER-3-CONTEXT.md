@@ -331,7 +331,7 @@ Genesis 2:17: "in the day of your eating from it, dying you shall die" — addre
 
 ## I. The World at the Time
 
-> **Cross-reference:** For the full four-scenario, ten-category world context (Political, Economy, Daily Life, Social Structure, Education, Military, Arts, Science, Religion, Neighboring Peoples), see the Genesis 1 companion (Section I, `en/genesis/study/CHAPTER-1-CONTEXT.md`). The entries below address the historical circumstances specifically foregrounded in Genesis 3 — the serpent, forbidden knowledge, death, nakedness and shame, the curse, and expulsion.
+> **Cross-reference:** For the full four-scenario, ten-category world context (Political, Economy, Daily Life, Social Structure, Education, Military, Arts, Science, Religion, Neighboring Peoples), see the Genesis 1 study companion (Deeper), Section I. The entries below address the historical circumstances specifically foregrounded in Genesis 3 — the serpent, forbidden knowledge, death, nakedness and shame, the curse, and expulsion.
 
 ---
 
@@ -438,6 +438,4 @@ By the Persian and Hellenistic periods, the cherubim (*keruvim*) had become asso
 ---
 
 **Editorial provenance:**
-- Drafted by: Claude Opus 4.6 (AI assistant)
-- Date: 2026-04-18
-- Reviewed by: pending
+- AI-assisted draft, not yet reviewed.

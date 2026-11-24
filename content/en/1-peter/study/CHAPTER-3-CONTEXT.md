@@ -49,7 +49,7 @@ This file contains background material organized by topic. Each entry carries **
 
 The chapter opens **ὁμοίως** (*homoiōs*, "likewise," 3:1), the connective that ties the wives-and-husbands material back to the servants of 2:18 and, before that, to the general "submit" of 2:13 — marking vv.1-7 as the second and third panels of a single **household code** (German *Haustafel*; cf. Col 3:18-4:1; Eph 5:21-6:9). The TT renders the code's governing verb **ὑποτάσσω** (*hypotassō*, "submit / be subordinate," 3:1, 5) literally and consistently — the same verb returns at 3:22 for the cosmic powers "subjected" to the Messiah, a deliberate frame the TT keeps visible.
 
-The aim stated in the Greek is missionary, not merely domestic: a husband who "**disobeys the word**" (*apeithousin tō logō*, 3:1 — i.e. is not a believer) "**may be won**" (*kerdēthēsontai*, the commercial/missionary verb "gain," cf. 1 Cor 9:19-22) "**without a word**" (*aneu logou*) — through the wife's *anastrophē* ("conduct, way of life"), not through argument. The wordplay is exact: won *without a word* by conduct, since he disobeys *the word*. The TT renders the Greek and refers the interpretive history to §F, taking no position (Rule 3). → editorial-log P-009; §F1.
+The aim stated in the Greek is missionary, not merely domestic: a husband who "**disobeys the word**" (*apeithousin tō logō*, 3:1 — i.e. is not a believer) "**may be won**" (*kerdēthēsontai*, the commercial/missionary verb "gain," cf. 1 Cor 9:19-22) "**without a word**" (*aneu logou*) — through the wife's *anastrophē* ("conduct, way of life"), not through argument. The wordplay is exact: won *without a word* by conduct, since he disobeys *the word*. The TT renders the Greek and refers the interpretive history to §F, taking no position (Rule 3). → §F1.
 
 ### A2. "The hidden person of the heart" and the relocation of *kosmos*
 **[TEXTUAL — VERIFIED]**
@@ -70,21 +70,21 @@ The wording draws on **Genesis 18:12 LXX**, where Sarah says inwardly "my **lord
 
 Verse 7 addresses husbands and holds two terms in tension that the TT renders both, side by side, without harmonizing. The wife is **ἀσθενέστερον σκεῦος τὸ γυναικεῖον** (*asthenesteron skeuos to gynaikeion*), "the weaker vessel — the feminine one"; and she is **συγκληρονόμος… χάριτος ζωῆς** (*synklēronomos charitos zōēs*), "co-heir of *the* grace of life." *Skeuos* ("vessel, instrument, container") is a common metaphor for the person (cf. 2 Cor 4:7; 1 Thess 4:4); the comparative *asthenesteron* ("weaker") is undetermined by the verse — physical strength, social vulnerability, or a worth-claim are all grammatically possible.
 
-The TT renders "weaker vessel" literally and **declines to fix its sense**, noting that the *same sentence* calls the wife a **co-heir**, an equal-inheritance term (cf. Rom 8:17) that cuts against any reading of "weaker" as lesser worth. The husband is told to "assign honor" (*aponemontes timēn*) and to dwell "according to knowledge" (*kata gnōsin*), with a severe sanction: "**so that your prayers may not be hindered**" (*egkoptesthai*, "be cut off / impeded"). The TT presents both claims and the sanction, and takes no position on how "weaker" is to be weighed (Rule 3). → editorial-log P-009; §F1, §F2.
+The TT renders "weaker vessel" literally and **declines to fix its sense**, noting that the *same sentence* calls the wife a **co-heir**, an equal-inheritance term (cf. Rom 8:17) that cuts against any reading of "weaker" as lesser worth. The husband is told to "assign honor" (*aponemontes timēn*) and to dwell "according to knowledge" (*kata gnōsin*), with a severe sanction: "**so that your prayers may not be hindered**" (*egkoptesthai*, "be cut off / impeded"). The TT presents both claims and the sanction, and takes no position on how "weaker" is to be weighed (Rule 3). → §F1, §F2.
 
 ### A5. "Sanctify the Messiah as Lord" — the κύριος referent-shift of Isaiah 8:13
 **[TEXTUAL — VERIFIED]**
 
 At 3:14-15 the letter quotes **Isaiah 8:12-13**. Verse 14 takes Isaiah 8:12 verbatim from the LXX: "**do not fear their fear nor be troubled**" (*ton de phobon autōn mē phobēthēte mēde tarachthēte*). Then v.15 adapts Isaiah 8:13, where the LXX reads "**the Lord (κύριος = YHWH) himself, him you shall sanctify** (*hagiasate*)." 1 Peter writes **κύριον δὲ τὸν Χριστὸν ἁγιάσατε** — "but sanctify **the Messiah as Lord**," substituting "the Messiah" for the object of the verb.
 
-The move applies a YHWH-text directly to the Messiah — a **κύριος referent-shift** of the kind the corpus tracks elsewhere (cf. Acts 2:36; the same Isaiah 8 reused at Rom 9:33; 1 Pet 2:8). The TT renders "sanctify the Messiah as Lord" and flags the shift in Tier-2 (Rule 13), neither asserting nor denying a christological identification beyond what the syntax carries: the object of the Isaianic "sanctify" is now named the Messiah. The following clause introduces **ἀπολογία** (*apologia*, "defense, reasoned answer") — a legal-sounding term, the source of English "apologetics" — bounded by "**gentleness and fear**" (v.16). → PROPHECY (Isa 8:12-13 → 1 Pet 3:14-15); §F3.
+The move applies a YHWH-text directly to the Messiah — a **κύριος referent-shift** of the kind the corpus tracks elsewhere (cf. Acts 2:36; the same Isaiah 8 reused at Rom 9:33; 1 Pet 2:8). The TT renders "sanctify the Messiah as Lord" and flags the shift in the notes (Rule 13), neither asserting nor denying a christological identification beyond what the syntax carries: the object of the Isaianic "sanctify" is now named the Messiah. The following clause introduces **ἀπολογία** (*apologia*, "defense, reasoned answer") — a legal-sounding term, the source of English "apologetics" — bounded by "**gentleness and fear**" (v.16). → PROPHECY (Isa 8:12-13 → 1 Pet 3:14-15); §F3.
 
 ### A6. The flesh/spirit datives of v.18 — sphere or agency, kept open
 **[TEXTUAL — VERIFIED (for the ambiguity); POSSIBLE INFERENCE — UNCERTAIN (for the sense)]**
 
 The crux of v.18 is a balanced pair of **anarthrous datives**: **θανατωθεὶς μὲν σαρκὶ ζῳοποιηθεὶς δὲ πνεύματι** (*thanatōtheis men sarki zōopoiētheis de pneumati*), "**put to death in flesh** (*sarki*) but **made alive in {a:wind/spirit}** (*pneumati*)." A Greek dative without a preposition can mark either **sphere** ("in the realm of flesh / in the realm of spirit") or **means / agency** ("by the flesh / by the Spirit"). The two datives are parallel (*men… de*), which pressures them to function the same way — but the construction does not say which way.
 
-The TT keeps the **{a:wind/spirit}** slash on *pneumati* (the wind/spirit field is live in this letter, cf. 1:2, 11; 4:6, 14) and preserves the flesh/spirit parallel, **resolving neither the sphere/agency question nor whether *pneumati* names the divine Spirit or the Messiah's own spirit/mode of existence** (Rule 13). The same dative governs v.19's "in which" (*en hō*), so the reading of v.18 directly conditions the reading of the spirits-in-prison clause (§A7). → editorial-log P-006.
+The TT keeps the **{a:wind/spirit}** slash on *pneumati* (the wind/spirit field is live in this letter, cf. 1:2, 11; 4:6, 14) and preserves the flesh/spirit parallel, **resolving neither the sphere/agency question nor whether *pneumati* names the divine Spirit or the Messiah's own spirit/mode of existence** (Rule 13). The same dative governs v.19's "in which" (*en hō*), so the reading of v.18 directly conditions the reading of the spirits-in-prison clause (§A7).
 
 ### A7. "Proclaimed to the spirits in prison" — the readings the text leaves open
 **[TEXTUAL — VERIFIED (for the data); POSSIBLE INFERENCE — UNCERTAIN (for the referent)]**
@@ -95,14 +95,14 @@ Verse 19 is the single most debated clause in the letter: **ἐν ᾧ καὶ τ
 - **When did the proclamation happen?** Between death and resurrection (the *en hō pneumati* of v.18 read as the disembodied or spiritual mode), or — on reading (c) — in Noah's own day.
 - **What was proclaimed?** *Ekēryxen* ("heralded, proclaimed") is **content-unspecified** — it does not say *good news* (that would be *euangelizō*, used at 4:6) versus *judgment / a victory announcement*.
 
-"Spirits" (*pneumata*) here is rendered **plain "spirits"** (the imprisoned beings), **not** the {a:wind/spirit} slash — no "wind" sense is live for personal beings in a prison. The TT preserves all three readings and the open *ekēryxen*, deciding none (Rule 13, Rule 3). → editorial-log P-006; §B1 (the Enochic tradition); §F4 (the "descent / harrowing of hell" reception).
+"Spirits" (*pneumata*) here is rendered **plain "spirits"** (the imprisoned beings), **not** the {a:wind/spirit} slash — no "wind" sense is live for personal beings in a prison. The TT preserves all three readings and the open *ekēryxen*, deciding none (Rule 13, Rule 3). → §B1 (the Enochic tradition); §F4 (the "descent / harrowing of hell" reception).
 
 ### A8. Noah, the eight, and baptism "as antitype" — the typology the Greek states
 **[TEXTUAL — VERIFIED]**
 
 Verses 20-21 build a flood-to-baptism **type / antitype** pair the TT keeps explicit. Eight souls were "**brought safely through water**" (*diesōthēsan di' hydatos*, 3:20) — the preposition *dia* ("through") carrying both "by means of" and "passing through," so the same flood that judged was, for the eight, the medium of rescue. Then 3:21: **ὃ… ἀντίτυπον νῦν σῴζει βάπτισμα** = "which also, **as an antitype** (*antitypon*), now saves you — **immersion** (*baptisma*)." The flood-water is the *typos*; baptism the *antitypon* ("corresponding pattern / counterpart").
 
-The verse then **qualifies the claim before it can be mistaken**: baptism saves "**not a removal of dirt of the flesh** (*ou sarkos apothesis rhypou*) **but an appeal of a good conscience toward God** (*syneidēseōs agathēs eperōtēma eis theon*)" — and the saving runs "**through the resurrection of Yeshua the Messiah** (Jesus)," not through the water itself. **ἐπερώτημα** (*eperōtēma*) is itself debated — "appeal / request" or "pledge / answer (to formal questions)," possibly a baptismal-rite term; the TT renders "appeal" and notes the option. The TT presents the typology and its self-qualification **without importing a sacramental theology** (Rule 3). **βάπτισμα** is rendered "immersion" per the locked GS glossary. → editorial-log P-007; §D2; §F4.
+The verse then **qualifies the claim before it can be mistaken**: baptism saves "**not a removal of dirt of the flesh** (*ou sarkos apothesis rhypou*) **but an appeal of a good conscience toward God** (*syneidēseōs agathēs eperōtēma eis theon*)" — and the saving runs "**through the resurrection of Yeshua the Messiah** (Jesus)," not through the water itself. **ἐπερώτημα** (*eperōtēma*) is itself debated — "appeal / request" or "pledge / answer (to formal questions)," possibly a baptismal-rite term; the TT renders "appeal" and notes the option. The TT presents the typology and its self-qualification **without importing a sacramental theology** (Rule 3). **βάπτισμα** is rendered "immersion" per the locked GS glossary. → §D2; §F4.
 
 ---
 
@@ -157,7 +157,7 @@ Against this backdrop, "won without a word" is not merely a counsel of tact but 
 
 **ἐπερώτημα** (*eperōtēma*, 3:21) is a NT *hapax legomenon* (occurring only here) and its sense is genuinely disputed. The base verb *eperōtaō* means "to ask, question, request," giving (a) "**appeal / request** [to God] for a good conscience" or "the request *that arises from* a good conscience." But the noun is also documented in the papyri and in Hellenistic legal/contractual usage as the formal **"question-and-answer"** of a contract — the stipulated response by which a party binds himself — yielding (b) "**pledge / undertaking** of a good conscience," i.e. the answer given to formal questions at baptism. The accompanying genitive **συνειδήσεως ἀγαθῆς** ("of a good conscience") can be subjective ("the appeal a good conscience makes") or objective ("the request *for* a good conscience"), compounding the ambiguity.
 
-The TT renders **"appeal"** and notes the "pledge / answer" option in Tier-2, declining to make the verse a witness to a developed baptismal interrogation-formula (which the "pledge" sense, read maximally, would imply). The lexical openness is the finding. → editorial-log P-007; §A8.
+The TT renders **"appeal"** and notes the "pledge / answer" option in the notes, declining to make the verse a witness to a developed baptismal interrogation-formula (which the "pledge" sense, read maximally, would imply). The lexical openness is the finding. → §A8.
 
 **Source:** Bauer, W., *A Greek-English Lexicon of the New Testament* (BDAG), 3rd ed., rev. Danker, University of Chicago Press, 2000, s.v. ἐπερώτημα; Moulton, J.H. and Milligan, G., *The Vocabulary of the Greek Testament*, Hodder & Stoughton, 1930, s.v.; Achtemeier, P.J., *1 Peter*, Hermeneia, Fortress Press, 1996, pp. 266-272.
 
@@ -188,7 +188,7 @@ The TT renders *syneidēsis* "conscience" consistently across 2:19; 3:16, 21, so
 
 1 Peter 3:1-7, with its parallels in Colossians and Ephesians, became a primary text in the long Christian reception of marriage, gender, and authority — and its reading has shifted markedly across the centuries. Patristic and medieval interpreters generally read the "submit" and "weaker vessel" language as endorsing a natural and permanent hierarchy of husband over wife (e.g. Augustine, *On the Good of Marriage*; Aquinas, *Summa Theologiae*, on the order of the household). Reformation and post-Reformation writers retained the hierarchy while emphasizing the husband's reciprocal duty of "honor" (v.7). From the nineteenth century onward, the passage became a focus of contested interpretation: some read it as culturally bounded missionary counsel to a vulnerable minority (anchoring on the "won without a word" aim, §C2, and the "co-heir" dignity-claim, §A4), others as enjoining an order held to be permanent.
 
-These are documented receptions, not data of the Greek. The TT renders the code's terms (submit; weaker vessel; co-heir; honor) literally and **takes no position** among these readings (Rule 3; P-009); the differences are laid out so the reader can weigh them.
+These are documented receptions, not data of the Greek. The TT renders the code's terms (submit; weaker vessel; co-heir; honor) literally and **takes no position** among these readings (Rule 3); the differences are laid out so the reader can weigh them.
 
 **Source:** Kittredge, C.B., *Community and Authority: The Rhetoric of Obedience in the Pauline Tradition*, Harvard Theological Studies, Trinity Press International, 1998; Bird, J.G., *Abuse, Power and Fearful Obedience: Reconsidering 1 Peter's Commands to Wives*, Library of New Testament Studies, T&T Clark, 2011, pp. 1-40.
 
@@ -240,41 +240,9 @@ The chapter opens and closes with the same verb. The wives are to "**submit**" (
 
 ---
 
-## H. Sources Consulted
-
-| Source | Type | Used in sections |
-|--------|------|-----------------|
-| Achtemeier, P.J., *1 Peter*, Hermeneia, 1996 | PEER-REVIEWED (commentary) | D, F |
-| Aristotle, *Politics*, Loeb Classical Library | PRIMARY | B |
-| Balch, D.L., *Let Wives Be Submissive: The Domestic Code in 1 Peter*, 1981 | PEER-REVIEWED (monograph) | B, C, I |
-| Bauckham, R., *Jude, 2 Peter*, WBC 50, 1983 | PEER-REVIEWED (commentary) | B |
-| Bauer, W., *A Greek-English Lexicon of the NT* (BDAG), 3rd ed., 2000 | PEER-REVIEWED (lexicon) | D |
-| Bird, J.G., *Abuse, Power and Fearful Obedience*, LNTS, 2011 | PEER-REVIEWED (monograph) | F |
-| Charlesworth, J.H. (ed.), *The Old Testament Pseudepigrapha*, vol. 1, 1983 | PRIMARY (text collection) | B |
-| Dalton, W.J., *Christ's Proclamation to the Spirits*, 2nd ed., 1989 | PEER-REVIEWED (monograph) | F |
-| Eckstein, H.-J., *Der Begriff Syneidesis bei Paulus*, 1983 | PEER-REVIEWED (monograph) | D |
-| Edwards, M., Goodman, M., Price, S. (eds.), *Apologetics in the Roman Empire*, 1999 | PEER-REVIEWED (monograph) | F |
-| Elliott, J.H., *1 Peter*, Anchor Bible 37B, 2000 | PEER-REVIEWED (commentary) | C, I |
-| Goppelt, L., *Typos: The Typological Interpretation of the OT in the NT*, 1982 | PEER-REVIEWED (monograph) | D |
-| Grant, R.M., *Greek Apologists of the Second Century*, 1988 | PEER-REVIEWED (monograph) | F |
-| Hemelrijk, E.A., *Matrona Docta: Educated Women in the Roman Élite*, 1999 | PEER-REVIEWED (monograph) | I |
-| Horrell, D.G., *1 Peter*, New Testament Guides, 2008 | PEER-REVIEWED (monograph) | C |
-| Josephus, *Against Apion*, Loeb Classical Library | PRIMARY | B |
-| Kittredge, C.B., *Community and Authority*, HTS, 1998 | PEER-REVIEWED (monograph) | F |
-| Liddell and Scott, *Greek-English Lexicon*, 9th ed. | PEER-REVIEWED (lexicon) | D |
-| Lieu, J., *Neither Jew nor Greek? Constructing Early Christianity*, 2002 | PEER-REVIEWED (monograph) | C |
-| Moulton, J.H. and Milligan, G., *The Vocabulary of the Greek Testament*, 1930 | PEER-REVIEWED (reference) | D |
-| Nestle-Aland, *Novum Testamentum Graece*, 28th ed. | PRIMARY | A, D, G |
-| Nickelsburg, G.W.E., *1 Enoch 1: A Commentary*, Hermeneia, 2001 | PEER-REVIEWED (commentary) | B |
-| Plutarch, *Coniugalia praecepta* (*Moralia*), Loeb Classical Library | PRIMARY | C, I |
-| Trumbower, J.A., *Rescue for the Dead*, 2001 | PEER-REVIEWED (monograph) | F |
-| Treggiari, S., *Roman Marriage*, Oxford University Press, 1991 | PEER-REVIEWED (monograph) | I |
-
----
-
 ## I. The World at the Time
 
-> **The recipients' world.** Unlike the Gospel and Acts companions (set in Second-Temple Judea), 1 Peter addresses scattered believers in the **Greco-Roman provinces of Asia Minor** (Pontus, Galatia, Cappadocia, Asia, Bithynia — 1:1; §C1) in the later first century CE. The chapter's household instructions (vv.1-7) speak directly into the **marriage and household norms of the wider Greco-Roman world** — which is why this Section I focuses on that domestic-and-social setting rather than on the Temple-city. The flat `### [Topic]` form is used (the default).
+> **The recipients' world.** Unlike the Gospel and Acts companions (set in Second-Temple Judea), 1 Peter addresses scattered believers in the **Greco-Roman provinces of Asia Minor** (Pontus, Galatia, Cappadocia, Asia, Bithynia — 1:1; §C1) in the later first century CE. The chapter's household instructions (vv.1-7) speak directly into the **marriage and household norms of the wider Greco-Roman world** — which is why this Section I focuses on that domestic-and-social setting rather than on the Temple-city.
 
 ---
 
@@ -308,7 +276,39 @@ Public and assertive speech was coded as a male prerogative in Greco-Roman socie
 
 ---
 
+## H. Sources Consulted
+
+| Source | Type | Used in sections |
+|--------|------|-----------------|
+| Achtemeier, P.J., *1 Peter*, Hermeneia, 1996 | PEER-REVIEWED (commentary) | D, F |
+| Aristotle, *Politics*, Loeb Classical Library | PRIMARY | B |
+| Balch, D.L., *Let Wives Be Submissive: The Domestic Code in 1 Peter*, 1981 | PEER-REVIEWED (monograph) | B, C, I |
+| Bauckham, R., *Jude, 2 Peter*, WBC 50, 1983 | PEER-REVIEWED (commentary) | B |
+| Bauer, W., *A Greek-English Lexicon of the NT* (BDAG), 3rd ed., 2000 | PEER-REVIEWED (lexicon) | D |
+| Bird, J.G., *Abuse, Power and Fearful Obedience*, LNTS, 2011 | PEER-REVIEWED (monograph) | F |
+| Charlesworth, J.H. (ed.), *The Old Testament Pseudepigrapha*, vol. 1, 1983 | PRIMARY (text collection) | B |
+| Dalton, W.J., *Christ's Proclamation to the Spirits*, 2nd ed., 1989 | PEER-REVIEWED (monograph) | F |
+| Eckstein, H.-J., *Der Begriff Syneidesis bei Paulus*, 1983 | PEER-REVIEWED (monograph) | D |
+| Edwards, M., Goodman, M., Price, S. (eds.), *Apologetics in the Roman Empire*, 1999 | PEER-REVIEWED (monograph) | F |
+| Elliott, J.H., *1 Peter*, Anchor Bible 37B, 2000 | PEER-REVIEWED (commentary) | C, I |
+| Goppelt, L., *Typos: The Typological Interpretation of the OT in the NT*, 1982 | PEER-REVIEWED (monograph) | D |
+| Grant, R.M., *Greek Apologists of the Second Century*, 1988 | PEER-REVIEWED (monograph) | F |
+| Hemelrijk, E.A., *Matrona Docta: Educated Women in the Roman Élite*, 1999 | PEER-REVIEWED (monograph) | I |
+| Horrell, D.G., *1 Peter*, New Testament Guides, 2008 | PEER-REVIEWED (monograph) | C |
+| Josephus, *Against Apion*, Loeb Classical Library | PRIMARY | B |
+| Kittredge, C.B., *Community and Authority*, HTS, 1998 | PEER-REVIEWED (monograph) | F |
+| Liddell and Scott, *Greek-English Lexicon*, 9th ed. | PEER-REVIEWED (lexicon) | D |
+| Lieu, J., *Neither Jew nor Greek? Constructing Early Christianity*, 2002 | PEER-REVIEWED (monograph) | C |
+| Moulton, J.H. and Milligan, G., *The Vocabulary of the Greek Testament*, 1930 | PEER-REVIEWED (reference) | D |
+| Nestle-Aland, *Novum Testamentum Graece*, 28th ed. | PRIMARY | A, D, G |
+| Nickelsburg, G.W.E., *1 Enoch 1: A Commentary*, Hermeneia, 2001 | PEER-REVIEWED (commentary) | B |
+| Plutarch, *Coniugalia praecepta* (*Moralia*), Loeb Classical Library | PRIMARY | C, I |
+| Treggiari, S., *Roman Marriage*, Oxford University Press, 1991 | PEER-REVIEWED (monograph) | I |
+| Trumbower, J.A., *Rescue for the Dead*, 2001 | PEER-REVIEWED (monograph) | F |
+
+---
+
+
 **Editorial provenance:**
-- Drafted by: AI (Claude, Anthropic)
-- Date: 2026-06-26
-- Reviewed by: pending (Rule 28 — Hellenist + lead sign-off pending; the spirits-in-prison [P-006], baptism [P-007], and household-code [P-009] sections are the headline review items)
+- AI-assisted draft, not yet reviewed.
+- Review focus: the spirits-in-prison, baptism and household-code sections.

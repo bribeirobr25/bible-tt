@@ -364,7 +364,7 @@ Y Adan conoció a su mujer de nuevo, y ella dio a luz un hijo y llamó su nombre
 > **NOTAS**
 >
 > 🔴 **CRÍTICO — ADAN SE CONVIERTE EN NOMBRE PROPIO**
-> - **אָדָם** (*adam*) aparece aquí **sin artículo** en contexto genealogico/de nombramiento. Este es el **punto de transición** de "el humano" generico al nombre propio "Adan." La TT cambia a "Adan" desde este versículo en adelante. Registrado en el diario editorial (entrada 081).
+> - **אָדָם** (*adam*) aparece aquí **sin artículo** en contexto genealogico/de nombramiento. Este es el **punto de transición** de "el humano" generico al nombre propio "Adan." La TT cambia a "Adan" desde este versículo en adelante.
 >
 > 🟢 **SHET = "PUESTO/COLOCADO"**
 > - **שֵׁת** (*Shet*) de **שִׁית** (*shit*) = "poner/colocar." El discurso de Eva hace explícito el juego de palabras: "Dios ha *shat* (puesto) para mi otra *zera* (simiente)."

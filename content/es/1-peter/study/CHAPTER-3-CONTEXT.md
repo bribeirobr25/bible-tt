@@ -49,7 +49,7 @@ Este archivo contiene material de contexto organizado por tema. Cada entrada lle
 
 El capítulo abre con **ὁμοίως** (*homoiōs*, "igualmente," 3:1), el conector que enlaza el material de esposas-y-esposos con los siervos de 2:18 y, antes de eso, con el "sométanse" general de 2:13 — marcando vv.1-7 como el segundo y tercer panel de un solo **código doméstico** (alemán *Haustafel*; cf. Col 3:18-4:1; Ef 5:21-6:9). La TT traduce el verbo rector del código **ὑποτάσσω** (*hypotassō*, "someterse / estar subordinado," 3:1, 5) de manera literal y consistente — el mismo verbo regresa en 3:22 para los poderes cósmicos "sujetados" al Mesías, un marco deliberado que la TT mantiene visible.
 
-El objetivo declarado en el griego es misionero, no meramente doméstico: un esposo que "**desobedece la palabra**" (*apeithousin tō logō*, 3:1 — es decir, no es creyente) "**puede ser ganado**" (*kerdēthēsontai*, el verbo comercial/misionero "ganar," cf. 1 Cor 9:19-22) "**sin palabra**" (*aneu logou*) — mediante la *anastrophē* ("conducta, modo de vida") de la esposa, no mediante el argumento. El juego de palabras es exacto: ganado *sin palabra* por la conducta, ya que él desobedece *la palabra*. La TT traduce el griego y remite la historia interpretativa al §F, sin tomar posición (Regla 3). → registro editorial P-009; §F1.
+El objetivo declarado en el griego es misionero, no meramente doméstico: un esposo que "**desobedece la palabra**" (*apeithousin tō logō*, 3:1 — es decir, no es creyente) "**puede ser ganado**" (*kerdēthēsontai*, el verbo comercial/misionero "ganar," cf. 1 Cor 9:19-22) "**sin palabra**" (*aneu logou*) — mediante la *anastrophē* ("conducta, modo de vida") de la esposa, no mediante el argumento. El juego de palabras es exacto: ganado *sin palabra* por la conducta, ya que él desobedece *la palabra*. La TT traduce el griego y remite la historia interpretativa al §F, sin tomar posición (Regla 3). → §F1.
 
 ### A2. "La persona oculta del corazón" y la reubicación de *kosmos*
 **[TEXTUAL — VERIFICADO]**
@@ -70,21 +70,21 @@ La redacción se nutre de **Génesis 18:12 LXX**, donde Sara dice interiormente 
 
 El versículo 7 se dirige a los esposos y sostiene en tensión dos términos que la TT traduce ambos, uno junto al otro, sin armonizar. La esposa es **ἀσθενέστερον σκεῦος τὸ γυναικεῖον** (*asthenesteron skeuos to gynaikeion*), "el vaso más débil — el femenino"; y es **συγκληρονόμος… χάριτος ζωῆς** (*synklēronomos charitos zōēs*), "coheredera de *la* gracia de vida." *Skeuos* ("vaso, instrumento, recipiente") es una metáfora común de la persona (cf. 2 Cor 4:7; 1 Tes 4:4); el comparativo *asthenesteron* ("más débil") no está determinado por el versículo — la fuerza física, la vulnerabilidad social o una afirmación de valor son todas gramaticalmente posibles.
 
-La TT traduce "vaso más débil" literalmente y **se rehúsa a fijar su sentido**, notando que la *misma oración* llama a la esposa **coheredera**, un término de herencia-igual (cf. Rom 8:17) que choca contra cualquier lectura de "más débil" como menor valor. Al esposo se le dice "asignar honra" (*aponemontes timēn*) y convivir "según conocimiento" (*kata gnōsin*), con una sanción severa: "**para que sus oraciones no sean estorbadas**" (*egkoptesthai*, "ser cortadas / impedidas"). La TT presenta ambas afirmaciones y la sanción, y no toma posición sobre cómo ha de pesarse "más débil" (Regla 3). → registro editorial P-009; §F1, §F2.
+La TT traduce "vaso más débil" literalmente y **se rehúsa a fijar su sentido**, notando que la *misma oración* llama a la esposa **coheredera**, un término de herencia-igual (cf. Rom 8:17) que choca contra cualquier lectura de "más débil" como menor valor. Al esposo se le dice "asignar honra" (*aponemontes timēn*) y convivir "según conocimiento" (*kata gnōsin*), con una sanción severa: "**para que sus oraciones no sean estorbadas**" (*egkoptesthai*, "ser cortadas / impedidas"). La TT presenta ambas afirmaciones y la sanción, y no toma posición sobre cómo ha de pesarse "más débil" (Regla 3). → §F1, §F2.
 
 ### A5. "Santifiquen al Mesías como Señor" — el cambio-de-referente de κύριος de Isaías 8:13
 **[TEXTUAL — VERIFICADO]**
 
 En 3:14-15 la carta cita **Isaías 8:12-13**. El versículo 14 toma Isaías 8:12 al pie de la letra de la LXX: "**no teman su temor ni se turben**" (*ton de phobon autōn mē phobēthēte mēde tarachthēte*). Luego el v.15 adapta Isaías 8:13, donde la LXX lee "**al Señor (κύριος = YHWH) mismo, a él santificarán** (*hagiasate*)." 1 Pedro escribe **κύριον δὲ τὸν Χριστὸν ἁγιάσατε** — "sino santifiquen **al Mesías como Señor**," sustituyendo "al Mesías" por el objeto del verbo.
 
-El movimiento aplica un texto-YHWH directamente al Mesías — un **cambio-de-referente de κύριος** del tipo que el corpus rastrea en otros lugares (cf. Hechos 2:36; el mismo Isaías 8 reutilizado en Rom 9:33; 1 Pe 2:8). La TT traduce "santifiquen al Mesías como Señor" y señala el cambio en el Nivel 2 (Regla 13), ni afirmando ni negando una identificación cristológica más allá de lo que la sintaxis porta: el objeto del "santificar" isaíano ahora se nombra el Mesías. La cláusula siguiente introduce **ἀπολογία** (*apologia*, "defensa, respuesta razonada") — un término de resonancia legal, el origen de "apologética" — delimitado por "**mansedumbre y temor**" (v.16). → PROFECÍA (Is 8:12-13 → 1 Pe 3:14-15); §F3.
+El movimiento aplica un texto-YHWH directamente al Mesías — un **cambio-de-referente de κύριος** del tipo que el corpus rastrea en otros lugares (cf. Hechos 2:36; el mismo Isaías 8 reutilizado en Rom 9:33; 1 Pe 2:8). La TT traduce "santifiquen al Mesías como Señor" y señala el cambio en las notas (Regla 13), ni afirmando ni negando una identificación cristológica más allá de lo que la sintaxis porta: el objeto del "santificar" isaíano ahora se nombra el Mesías. La cláusula siguiente introduce **ἀπολογία** (*apologia*, "defensa, respuesta razonada") — un término de resonancia legal, el origen de "apologética" — delimitado por "**mansedumbre y temor**" (v.16). → PROFECÍA (Is 8:12-13 → 1 Pe 3:14-15); §F3.
 
 ### A6. Los dativos carne/espíritu del v.18 — esfera o agencia, mantenidos abiertos
 **[TEXTUAL — VERIFICADO (para la ambigüedad); INFERENCIA POSIBLE — INCIERTO (para el sentido)]**
 
 El nudo del v.18 es un par equilibrado de **dativos anártricos**: **θανατωθεὶς μὲν σαρκὶ ζῳοποιηθεὶς δὲ πνεύματι** (*thanatōtheis men sarki zōopoiētheis de pneumati*), "**muerto en carne** (*sarki*) pero **vivificado en {a:viento/espíritu}** (*pneumati*)." Un dativo griego sin preposición puede marcar ya sea **esfera** ("en el ámbito de la carne / en el ámbito del espíritu") ya sea **medio / agencia** ("por la carne / por el Espíritu"). Los dos dativos son paralelos (*men… de*), lo cual presiona a que funcionen del mismo modo — pero la construcción no dice de qué modo.
 
-La TT mantiene la barra **{a:viento/espíritu}** sobre *pneumati* (el campo viento/espíritu está activo en esta carta, cf. 1:2, 11; 4:6, 14) y preserva el paralelo carne/espíritu, **sin resolver ni la cuestión esfera/agencia ni si *pneumati* nombra al Espíritu divino o al propio espíritu/modo de existencia del Mesías** (Regla 13). El mismo dativo gobierna el "en lo cual" (*en hō*) del v.19, de modo que la lectura del v.18 condiciona directamente la lectura de la cláusula de los espíritus-en-prisión (§A7). → registro editorial P-006.
+La TT mantiene la barra **{a:viento/espíritu}** sobre *pneumati* (el campo viento/espíritu está activo en esta carta, cf. 1:2, 11; 4:6, 14) y preserva el paralelo carne/espíritu, **sin resolver ni la cuestión esfera/agencia ni si *pneumati* nombra al Espíritu divino o al propio espíritu/modo de existencia del Mesías** (Regla 13). El mismo dativo gobierna el "en lo cual" (*en hō*) del v.19, de modo que la lectura del v.18 condiciona directamente la lectura de la cláusula de los espíritus-en-prisión (§A7).
 
 ### A7. "Proclamó a los espíritus en prisión" — las lecturas que el texto deja abiertas
 **[TEXTUAL — VERIFICADO (para los datos); INFERENCIA POSIBLE — INCIERTO (para el referente)]**
@@ -95,14 +95,14 @@ El versículo 19 es la cláusula más debatida de la carta: **ἐν ᾧ καὶ 
 - **¿Cuándo ocurrió la proclamación?** Entre la muerte y la resurrección (el *en hō pneumati* del v.18 leído como el modo descarnado o espiritual), o — en la lectura (c) — en los días mismos de Noé.
 - **¿Qué se proclamó?** *Ekēryxen* ("heraldó, proclamó") es **de contenido no especificado** — no dice *buenas nuevas* (eso sería *euangelizō*, usado en 4:6) frente a *juicio / un anuncio de victoria*.
 
-"Espíritus" (*pneumata*) aquí se traduce **"espíritus" simple** (los seres encarcelados), **no** la barra {a:viento/espíritu} — ningún sentido de "viento" está activo para seres personales en una prisión. La TT preserva las tres lecturas y el *ekēryxen* abierto, sin decidir ninguna (Regla 13, Regla 3). → registro editorial P-006; §B1 (la tradición enóquica); §F4 (la recepción del "descenso / descenso a los infiernos").
+"Espíritus" (*pneumata*) aquí se traduce **"espíritus" simple** (los seres encarcelados), **no** la barra {a:viento/espíritu} — ningún sentido de "viento" está activo para seres personales en una prisión. La TT preserva las tres lecturas y el *ekēryxen* abierto, sin decidir ninguna (Regla 13, Regla 3). → §B1 (la tradición enóquica); §F4 (la recepción del "descenso / descenso a los infiernos").
 
 ### A8. Noé, los ocho, y el bautismo "como antitipo" — la tipología que el griego declara
 **[TEXTUAL — VERIFICADO]**
 
 Los versículos 20-21 construyen un par **tipo / antitipo** de diluvio-a-bautismo que la TT mantiene explícito. Ocho almas fueron "**llevadas a salvo a través del agua**" (*diesōthēsan di' hydatos*, 3:20) — la preposición *dia* ("a través de") portando tanto "por medio de" como "pasando a través," de modo que el mismo diluvio que juzgó fue, para los ocho, el medio del rescate. Luego 3:21: **ὃ… ἀντίτυπον νῦν σῴζει βάπτισμα** = "la cual también, **como antitipo** (*antitypon*), ahora los salva — **inmersión** (*baptisma*)." El agua del diluvio es el *typos*; el bautismo el *antitypon* ("patrón correspondiente / contraparte").
 
-El versículo entonces **matiza la afirmación antes de que pueda malentenderse**: el bautismo salva "**no una remoción de suciedad de la carne** (*ou sarkos apothesis rhypou*) **sino una apelación de una buena conciencia hacia Dios** (*syneidēseōs agathēs eperōtēma eis theon*)" — y el salvar corre "**mediante la resurrección de Yeshua el Mesías** (Jesús)," no mediante el agua misma. **ἐπερώτημα** (*eperōtēma*) es a su vez debatido — "apelación / petición" o "promesa / respuesta (a preguntas formales)," posiblemente un término del rito bautismal; la TT traduce "apelación" y nota la opción. La TT presenta la tipología y su auto-matización **sin importar una teología sacramental** (Regla 3). **βάπτισμα** se traduce "inmersión" según el glosario GS fijado. → registro editorial P-007; §D2; §F4.
+El versículo entonces **matiza la afirmación antes de que pueda malentenderse**: el bautismo salva "**no una remoción de suciedad de la carne** (*ou sarkos apothesis rhypou*) **sino una apelación de una buena conciencia hacia Dios** (*syneidēseōs agathēs eperōtēma eis theon*)" — y el salvar corre "**mediante la resurrección de Yeshua el Mesías** (Jesús)," no mediante el agua misma. **ἐπερώτημα** (*eperōtēma*) es a su vez debatido — "apelación / petición" o "promesa / respuesta (a preguntas formales)," posiblemente un término del rito bautismal; la TT traduce "apelación" y nota la opción. La TT presenta la tipología y su auto-matización **sin importar una teología sacramental** (Regla 3). **βάπτισμα** se traduce "inmersión" según el glosario GS fijado. → §D2; §F4.
 
 ---
 
@@ -157,7 +157,7 @@ Sobre este trasfondo, "ganado sin palabra" no es meramente un consejo de tacto s
 
 **ἐπερώτημα** (*eperōtēma*, 3:21) es un *hapax legomenon* del NT (ocurre solo aquí) y su sentido es genuinamente disputado. El verbo base *eperōtaō* significa "preguntar, interrogar, pedir," dando (a) "**apelación / petición** [a Dios] por una buena conciencia" o "la petición *que surge de* una buena conciencia." Pero el sustantivo también está documentado en los papiros y en el uso legal/contractual helenístico como el formal **"pregunta-y-respuesta"** de un contrato — la respuesta estipulada por la cual una parte se obliga — produciendo (b) "**promesa / compromiso** de una buena conciencia," es decir, la respuesta dada a las preguntas formales en el bautismo. El genitivo acompañante **συνειδήσεως ἀγαθῆς** ("de una buena conciencia") puede ser subjetivo ("la apelación que hace una buena conciencia") u objetivo ("la petición *por* una buena conciencia"), agravando la ambigüedad.
 
-La TT traduce **"apelación"** y nota la opción "promesa / respuesta" en el Nivel 2, rehusándose a hacer del versículo un testimonio de una fórmula bautismal de interrogación desarrollada (lo cual el sentido "promesa," leído al máximo, implicaría). La apertura léxica es el hallazgo. → registro editorial P-007; §A8.
+La TT traduce **"apelación"** y nota la opción "promesa / respuesta" en las notas, rehusándose a hacer del versículo un testimonio de una fórmula bautismal de interrogación desarrollada (lo cual el sentido "promesa," leído al máximo, implicaría). La apertura léxica es el hallazgo. → §A8.
 
 **Fuente:** Bauer, W., *A Greek-English Lexicon of the New Testament* (BDAG), 3.ª ed., rev. Danker, University of Chicago Press, 2000, s.v. ἐπερώτημα; Moulton, J.H. y Milligan, G., *The Vocabulary of the Greek Testament*, Hodder & Stoughton, 1930, s.v.; Achtemeier, P.J., *1 Peter*, Hermeneia, Fortress Press, 1996, pp. 266-272.
 
@@ -188,7 +188,7 @@ La TT traduce *syneidēsis* "conciencia" de manera consistente en 2:19; 3:16, 21
 
 1 Pedro 3:1-7, con sus paralelos en Colosenses y Efesios, se volvió un texto primario en la larga recepción cristiana del matrimonio, el género y la autoridad — y su lectura ha cambiado marcadamente a través de los siglos. Los intérpretes patrísticos y medievales generalmente leyeron el lenguaje de "someterse" y "vaso más débil" como avalando una jerarquía natural y permanente del esposo sobre la esposa (p.ej. Agustín, *Sobre el bien del matrimonio*; Tomás de Aquino, *Summa Theologiae*, sobre el orden del hogar). Los escritores de la Reforma y posteriores a la Reforma mantuvieron la jerarquía mientras enfatizaban el deber recíproco del esposo de "honrar" (v.7). Desde el siglo diecinueve en adelante, el pasaje se volvió un foco de interpretación disputada: algunos lo leen como consejo misionero culturalmente acotado a una minoría vulnerable (anclándose en el objetivo "ganado sin palabra," §C2, y la afirmación-de-dignidad de "coheredera," §A4), otros como imponiendo un orden tenido por permanente.
 
-Estas son recepciones documentadas, no datos del griego. La TT traduce los términos del código (someterse; vaso más débil; coheredera; honra) literalmente y **no toma posición** entre estas lecturas (Regla 3; P-009); las diferencias se exponen para que el lector pueda ponderarlas.
+Estas son recepciones documentadas, no datos del griego. La TT traduce los términos del código (someterse; vaso más débil; coheredera; honra) literalmente y **no toma posición** entre estas lecturas (Regla 3); las diferencias se exponen para que el lector pueda ponderarlas.
 
 **Fuente:** Kittredge, C.B., *Community and Authority: The Rhetoric of Obedience in the Pauline Tradition*, Harvard Theological Studies, Trinity Press International, 1998; Bird, J.G., *Abuse, Power and Fearful Obedience: Reconsidering 1 Peter's Commands to Wives*, Library of New Testament Studies, T&T Clark, 2011, pp. 1-40.
 
@@ -240,41 +240,9 @@ El capítulo abre y cierra con el mismo verbo. Las esposas han de "**someterse**
 
 ---
 
-## H. Fuentes Consultadas
-
-| Fuente | Tipo | Usada en secciones |
-|--------|------|-----------------|
-| Achtemeier, P.J., *1 Peter*, Hermeneia, 1996 | REVISADA POR PARES (comentario) | D, F |
-| Aristóteles, *Política*, Loeb Classical Library | PRIMARIA | B |
-| Balch, D.L., *Let Wives Be Submissive: The Domestic Code in 1 Peter*, 1981 | REVISADA POR PARES (monografía) | B, C, I |
-| Bauckham, R., *Jude, 2 Peter*, WBC 50, 1983 | REVISADA POR PARES (comentario) | B |
-| Bauer, W., *A Greek-English Lexicon of the NT* (BDAG), 3.ª ed., 2000 | REVISADA POR PARES (léxico) | D |
-| Bird, J.G., *Abuse, Power and Fearful Obedience*, LNTS, 2011 | REVISADA POR PARES (monografía) | F |
-| Charlesworth, J.H. (ed.), *The Old Testament Pseudepigrapha*, vol. 1, 1983 | PRIMARIA (colección de textos) | B |
-| Dalton, W.J., *Christ's Proclamation to the Spirits*, 2.ª ed., 1989 | REVISADA POR PARES (monografía) | F |
-| Eckstein, H.-J., *Der Begriff Syneidesis bei Paulus*, 1983 | REVISADA POR PARES (monografía) | D |
-| Edwards, M., Goodman, M., Price, S. (eds.), *Apologetics in the Roman Empire*, 1999 | REVISADA POR PARES (monografía) | F |
-| Elliott, J.H., *1 Peter*, Anchor Bible 37B, 2000 | REVISADA POR PARES (comentario) | C, I |
-| Goppelt, L., *Typos: The Typological Interpretation of the OT in the NT*, 1982 | REVISADA POR PARES (monografía) | D |
-| Grant, R.M., *Greek Apologists of the Second Century*, 1988 | REVISADA POR PARES (monografía) | F |
-| Hemelrijk, E.A., *Matrona Docta: Educated Women in the Roman Élite*, 1999 | REVISADA POR PARES (monografía) | I |
-| Horrell, D.G., *1 Peter*, New Testament Guides, 2008 | REVISADA POR PARES (monografía) | C |
-| Josefo, *Contra Apión*, Loeb Classical Library | PRIMARIA | B |
-| Kittredge, C.B., *Community and Authority*, HTS, 1998 | REVISADA POR PARES (monografía) | F |
-| Liddell y Scott, *Greek-English Lexicon*, 9.ª ed. | REVISADA POR PARES (léxico) | D |
-| Lieu, J., *Neither Jew nor Greek? Constructing Early Christianity*, 2002 | REVISADA POR PARES (monografía) | C |
-| Moulton, J.H. y Milligan, G., *The Vocabulary of the Greek Testament*, 1930 | REVISADA POR PARES (referencia) | D |
-| Nestle-Aland, *Novum Testamentum Graece*, 28.ª ed. | PRIMARIA | A, D, G |
-| Nickelsburg, G.W.E., *1 Enoch 1: A Commentary*, Hermeneia, 2001 | REVISADA POR PARES (comentario) | B |
-| Plutarco, *Coniugalia praecepta* (*Moralia*), Loeb Classical Library | PRIMARIA | C, I |
-| Trumbower, J.A., *Rescue for the Dead*, 2001 | REVISADA POR PARES (monografía) | F |
-| Treggiari, S., *Roman Marriage*, Oxford University Press, 1991 | REVISADA POR PARES (monografía) | I |
-
----
-
 ## I. El Mundo en Esa Época
 
-> **El mundo de los destinatarios.** A diferencia de los compañeros de los Evangelios y Hechos (situados en la Judea del Segundo Templo), 1 Pedro se dirige a creyentes dispersos en las **provincias grecorromanas de Asia Menor** (el Ponto, Galacia, Capadocia, Asia, Bitinia — 1:1; §C1) a finales del primer siglo EC. Las instrucciones domésticas del capítulo (vv.1-7) hablan directamente a las **normas de matrimonio y hogar del mundo grecorromano más amplio** — razón por la cual esta Sección I se centra en ese entorno doméstico-y-social en lugar de en la ciudad-Templo. Se usa la forma plana `### [Tema]` (la predeterminada).
+> **El mundo de los destinatarios.** A diferencia de los compañeros de los Evangelios y Hechos (situados en la Judea del Segundo Templo), 1 Pedro se dirige a creyentes dispersos en las **provincias grecorromanas de Asia Menor** (el Ponto, Galacia, Capadocia, Asia, Bitinia — 1:1; §C1) a finales del primer siglo EC. Las instrucciones domésticas del capítulo (vv.1-7) hablan directamente a las **normas de matrimonio y hogar del mundo grecorromano más amplio** — razón por la cual esta Sección I se centra en ese entorno doméstico-y-social en lugar de en la ciudad-Templo.
 
 ---
 
@@ -308,7 +276,39 @@ El habla pública y asertiva estaba codificada como una prerrogativa masculina e
 
 ---
 
+## H. Fuentes Consultadas
+
+| Fuente | Tipo | Usada en secciones |
+|--------|------|-----------------|
+| Achtemeier, P.J., *1 Peter*, Hermeneia, 1996 | REVISADA POR PARES (comentario) | D, F |
+| Aristóteles, *Política*, Loeb Classical Library | PRIMARIA | B |
+| Balch, D.L., *Let Wives Be Submissive: The Domestic Code in 1 Peter*, 1981 | REVISADA POR PARES (monografía) | B, C, I |
+| Bauckham, R., *Jude, 2 Peter*, WBC 50, 1983 | REVISADA POR PARES (comentario) | B |
+| Bauer, W., *A Greek-English Lexicon of the NT* (BDAG), 3.ª ed., 2000 | REVISADA POR PARES (léxico) | D |
+| Bird, J.G., *Abuse, Power and Fearful Obedience*, LNTS, 2011 | REVISADA POR PARES (monografía) | F |
+| Charlesworth, J.H. (ed.), *The Old Testament Pseudepigrapha*, vol. 1, 1983 | PRIMARIA (colección de textos) | B |
+| Dalton, W.J., *Christ's Proclamation to the Spirits*, 2.ª ed., 1989 | REVISADA POR PARES (monografía) | F |
+| Eckstein, H.-J., *Der Begriff Syneidesis bei Paulus*, 1983 | REVISADA POR PARES (monografía) | D |
+| Edwards, M., Goodman, M., Price, S. (eds.), *Apologetics in the Roman Empire*, 1999 | REVISADA POR PARES (monografía) | F |
+| Elliott, J.H., *1 Peter*, Anchor Bible 37B, 2000 | REVISADA POR PARES (comentario) | C, I |
+| Goppelt, L., *Typos: The Typological Interpretation of the OT in the NT*, 1982 | REVISADA POR PARES (monografía) | D |
+| Grant, R.M., *Greek Apologists of the Second Century*, 1988 | REVISADA POR PARES (monografía) | F |
+| Hemelrijk, E.A., *Matrona Docta: Educated Women in the Roman Élite*, 1999 | REVISADA POR PARES (monografía) | I |
+| Horrell, D.G., *1 Peter*, New Testament Guides, 2008 | REVISADA POR PARES (monografía) | C |
+| Josefo, *Contra Apión*, Loeb Classical Library | PRIMARIA | B |
+| Kittredge, C.B., *Community and Authority*, HTS, 1998 | REVISADA POR PARES (monografía) | F |
+| Liddell y Scott, *Greek-English Lexicon*, 9.ª ed. | REVISADA POR PARES (léxico) | D |
+| Lieu, J., *Neither Jew nor Greek? Constructing Early Christianity*, 2002 | REVISADA POR PARES (monografía) | C |
+| Moulton, J.H. y Milligan, G., *The Vocabulary of the Greek Testament*, 1930 | REVISADA POR PARES (referencia) | D |
+| Nestle-Aland, *Novum Testamentum Graece*, 28.ª ed. | PRIMARIA | A, D, G |
+| Nickelsburg, G.W.E., *1 Enoch 1: A Commentary*, Hermeneia, 2001 | REVISADA POR PARES (comentario) | B |
+| Plutarco, *Coniugalia praecepta* (*Moralia*), Loeb Classical Library | PRIMARIA | C, I |
+| Treggiari, S., *Roman Marriage*, Oxford University Press, 1991 | REVISADA POR PARES (monografía) | I |
+| Trumbower, J.A., *Rescue for the Dead*, 2001 | REVISADA POR PARES (monografía) | F |
+
+---
+
+
 **Procedencia editorial:**
-- Redactado por: IA (Claude, Anthropic)
-- Fecha: 26-06-2026
-- Revisado por: pendiente (Regla 28 — pendiente de aprobación del helenista + el líder; las secciones de los espíritus-en-prisión [P-006], el bautismo [P-007] y el código doméstico [P-009] son los puntos de revisión destacados)
+- Borrador asistido por IA, aún no revisado.
+- Foco de la revisión: las secciones de los espíritus en prisión, el bautismo y el código doméstico.

@@ -134,7 +134,7 @@ Genesis 10 organizes all known peoples into three descent lines from a single an
 ### F1. Anti-misuse statement — the Table of Nations
 **[LATER RECEPTION — DOCUMENTED]**
 
-The Table of Nations has been misused to construct racial hierarchies, colonial justifications, and ethnic-origin claims. Genesis 10 is an ancient genealogical-geographic text reflecting the perspective of its compositional period. It does not provide a biological taxonomy of modern peoples. The TT's ethnogenesis prohibition (RULES-CORE.md) applies: the text must not be mapped onto modern racial, ethnic, or national groups. The chapter's placement of peoples under Shem, Cham (Ham), or Yafet (Japheth) reflects ancient political and cultural associations, not biological lineage in any modern genetic sense. No modern ethnicity, nation, or racial group can claim special status — positive or negative — from this text.
+The Table of Nations has been misused to construct racial hierarchies, colonial justifications, and ethnic-origin claims. Genesis 10 is an ancient genealogical-geographic text reflecting the perspective of its compositional period. It does not provide a biological taxonomy of modern peoples. The TT's ethnogenesis prohibition applies: the text must not be mapped onto modern racial, ethnic, or national groups. The chapter's placement of peoples under Shem, Cham (Ham), or Yafet (Japheth) reflects ancient political and cultural associations, not biological lineage in any modern genetic sense. No modern ethnicity, nation, or racial group can claim special status — positive or negative — from this text.
 
 ---
 
@@ -161,7 +161,7 @@ Traditional counting of the names in Genesis 10 yields approximately 70 distinct
 
 ## I. The World at the Time
 
-> **Cross-reference:** For the full four-scenario, ten-category world context (Political, Economy, Daily Life, Social Structure, Education, Military, Arts, Science, Religion, Neighboring Peoples), see the Genesis 1 companion (Section I, `en/genesis/study/CHAPTER-1-CONTEXT.md`). The entries below address the historical circumstances specifically foregrounded in Genesis 10 — the Table of Nations as an ethnographic and geographic document, trade routes connecting the known world, how ancient peoples classified other peoples, city-founding traditions, and the Nimrod/empire concept.
+> **Cross-reference:** For the full four-scenario, ten-category world context (Political, Economy, Daily Life, Social Structure, Education, Military, Arts, Science, Religion, Neighboring Peoples), see the Genesis 1 study companion (Deeper), Section I. The entries below address the historical circumstances specifically foregrounded in Genesis 10 — the Table of Nations as an ethnographic and geographic document, trade routes connecting the known world, how ancient peoples classified other peoples, city-founding traditions, and the Nimrod/empire concept.
 
 ---
 
@@ -252,6 +252,4 @@ Greek historians and geographers were developing their own ethnographic traditio
 ---
 
 **Editorial provenance:**
-- Drafted by: Claude Opus 4.6 (AI assistant)
-- Date: 2026-04-27
-- Reviewed by: pending
+- AI-assisted draft, not yet reviewed.

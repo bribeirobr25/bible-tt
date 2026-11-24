@@ -278,14 +278,14 @@ The following rules from the TT ruleset (v3.4) have particular bearing on the Go
 | 7 | Preserve Parallel Structure | Johannine repetition patterns (light/darkness, life/death, above/below) are preserved across passages. |
 | 11 | Mark Grammatical Additions | Words added for English grammar appear in italics, distinguishing them from translated content. |
 | 13 | Uncertainty Levels | Debated terms and passages carry confidence labels (Probable / Possible / Uncertain). |
-| 14 | Annotate Wordplay | Key Greek terms noted in Tier 2 where semantic range or wordplay is significant. |
-| 22 | Text-Critical Restraint | Textual variants (e.g., John 1:18 μονογενὴς θεός vs. μονογενὴς υἱός, John 1:34) noted in Tier 2 without silent adoption. |
-| 25 | Divine Name Policy | GS applies Option C: κύριος rendered as "the Lord" in OT quotation contexts, with Tier 2 note identifying YHWH in the underlying Hebrew. See Divine Name Policy below. |
+| 14 | Annotate Wordplay | Key Greek terms noted in the notes where semantic range or wordplay is significant. |
+| 22 | Text-Critical Restraint | Textual variants (e.g., John 1:18 μονογενὴς θεός vs. μονογενὴς υἱός, John 1:34) noted in the notes without silent adoption. |
+| 25 | Divine Name Policy | GS applies Option C: κύριος rendered as "the Lord" in OT quotation contexts, with a note identifying YHWH in the underlying Hebrew. See Divine Name Policy below. |
 
 ### F2. Locked glossary — Greek Scriptures terms active in John
 **[TEXTUAL — VERIFIED]**
 
-The following locked glossary entries from RULES-GS.md apply throughout the Gospel of John:
+The following locked glossary entries apply throughout the Gospel of John:
 
 | Greek | TT rendering (EN) | Notes |
 |-------|-------------------|-------|
@@ -293,13 +293,13 @@ The following locked glossary entries from RULES-GS.md apply throughout the Gosp
 | χριστός (*christos*) | anointed one | Lowercase when functioning as descriptor; capitalized only when clearly functioning as proper name. Maps to HB מָשִׁיחַ (*mashiach*). |
 | ἐκκλησία (*ekklesia*) | assembly | Not "church" (anachronistic institutional meaning). The Greek means "called-out gathering." Not frequent in John but active in the TT system. |
 | βάπτισμα (*baptisma*) | immersion | Not transliterated. The Greek has clear semantic content: "dipping/immersion." |
-| παράκλητος (*paraklētos*) | advocate | Translate the meaning. Note semantic range (comforter/helper/advocate/called-alongside) in Tier 2 notes. Unique to John among the Gospels (14:16, 26; 15:26; 16:7). |
+| παράκλητος (*paraklētos*) | advocate | Translate the meaning. Note semantic range (comforter/helper/advocate/called-alongside) in the notes. Unique to John among the Gospels (14:16, 26; 15:26; 16:7). |
 | κύριος (*kyrios*) | Context-dependent | When quoting OT YHWH passages: "the Lord" + note identifying YHWH. Otherwise: "lord/master." See Divine Name Policy. |
 
 ### F3. Divine Name Policy in John
 **[TEXTUAL — VERIFIED]**
 
-When the Gospel of John quotes or alludes to Hebrew Bible passages containing the Tetragrammaton (the four-letter Hebrew divine name יהוה, transliterated YHWH), the Greek text uses κύριος (*kyrios*). Per the TT's Divine Name Policy (Option C, RULES-GS.md):
+When the Gospel of John quotes or alludes to Hebrew Bible passages containing the Tetragrammaton (the four-letter Hebrew divine name יהוה, transliterated YHWH), the Greek text uses κύριος (*kyrios*). Per the TT's Divine Name Policy (Option C):
 
 - The main text renders *kyrios* as "the Lord" in OT quotation contexts.
 - A note identifies the OT source and states that the underlying Hebrew has the Tetragrammaton.
@@ -377,4 +377,4 @@ John employs pervasive paired contrasts: light/darkness, above/below, spirit/fle
 
 ---
 
-> **Editorial provenance:** Drafted by Claude Opus 4.6 (1M context) on 2026-04-27. Not yet reviewed. This introduction is a provisional scholarly resource governed by TT Rule 29. All claims carry dual labels; no claim should be read as the TT's theological or compositional position. The TT translates the Greek text (NA28) and does not adopt any particular theory of authorship or composition.
+> **Editorial provenance:** AI-assisted draft, not yet reviewed. This introduction is a provisional scholarly resource governed by TT Rule 29. All claims carry dual labels; no claim should be read as the TT's theological or compositional position. The TT translates the Greek text (NA28) and does not adopt any particular theory of authorship or composition.

@@ -309,7 +309,7 @@ Esta é uma decisão de tradução, não uma posição teológica. A TT document
 ### F5. Kyrios — Política do Nome Divino em Mateus
 **[TEXTUAL — VERIFICADO]**
 
-Quando Mateus cita passagens da Bíblia Hebraica contendo o Tetragrama (o nome divino hebraico de quatro letras יהוה, transliterado YHWH), o texto grego usa κύριος (*kyrios*). Conforme a Política do Nome Divino da TT (Opção C, RULES-GS.md):
+Quando Mateus cita passagens da Bíblia Hebraica contendo o Tetragrama (o nome divino hebraico de quatro letras יהוה, transliterado YHWH), o texto grego usa κύριος (*kyrios*). Conforme a Política do Nome Divino da TT (Opção C):
 
 - O texto principal traduz *kyrios* como "o Senhor" em contextos de citação do AT.
 - Uma nota identifica a fonte do AT e declara que o hebraico subjacente tem o Tetragrama.
@@ -331,9 +331,9 @@ Isto é particularmente relevante em Mateus dada a alta densidade de citações 
 | 7 | Preservar Estrutura Paralela | A estrutura quíntupla de discursos e o padrão recorrente da fórmula de cumprimento são preservados entre capítulos. *Parthenos* em 1:23 carrega toda sua gama semântica grega. |
 | 11 | Marcar adições gramaticais | Palavras adicionadas para a gramática portuguesa aparecem em itálico. |
 | 13 | Níveis de incerteza | Termos debatidos e questões genealógicas carregam rótulos de confiança (Provável / Possível / Incerto). |
-| 14 | Anotar Jogos de Palavras | Termos gregos-chave anotados em Nível 2 onde campo semântico ou jogo de palavras é significativo. |
-| 22 | Restrição Textual-Crítica | Variantes textuais (ex., Mt 1:16 variante siríaca, Mt 27:16-17 "Jesus Barrabás") anotadas em Nível 2 sem adoção silenciosa. |
-| 25 | Política do Nome Divino — GS aplica Opção C | κύριος traduzido como "o Senhor" em contextos de citação do AT, com nota em Nível 2 identificando YHWH no hebraico subjacente. Ver Política do Nome Divino (F5). |
+| 14 | Anotar Jogos de Palavras | Termos gregos-chave anotados nas notas onde campo semântico ou jogo de palavras é significativo. |
+| 22 | Restrição Textual-Crítica | Variantes textuais (ex., Mt 1:16 variante siríaca, Mt 27:16-17 "Jesus Barrabás") anotadas nas notas sem adoção silenciosa. |
+| 25 | Política do Nome Divino — GS aplica Opção C | κύριος traduzido como "o Senhor" em contextos de citação do AT, com uma nota identificando YHWH no hebraico subjacente. Ver Política do Nome Divino (F5). |
 
 ---
 
@@ -355,4 +355,4 @@ Isto é particularmente relevante em Mateus dada a alta densidade de citações 
 
 ---
 
-> **Proveniência editorial:** Redigido por Claude Opus 4.6 (contexto 1M) em 2026-04-27. Ainda não revisado. Esta introdução é um recurso acadêmico provisório governado pela Regra 29 da TT. Todas as afirmações carregam rótulos duplos; nenhuma afirmação deve ser lida como a posição teológica ou composicional da TT. A TT traduz o texto grego (NA28) e não adota nenhuma teoria particular de autoria ou composição.
+> **Proveniência editorial:** Rascunho assistido por IA, ainda não revisado. Esta introdução é um recurso acadêmico provisório governado pela Regra 29 da TT. Todas as afirmações carregam rótulos duplos; nenhuma afirmação deve ser lida como a posição teológica ou composicional da TT. A TT traduz o texto grego (NA28) e não adota nenhuma teoria particular de autoria ou composição.

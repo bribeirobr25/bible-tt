@@ -36,7 +36,7 @@
 
 Notizen sind nach Typ gekennzeichnet — **Kritisch · Lexikalisch · Grammatisch · Theologisch** — jeweils mit ihrer Farbe (siehe die Legende oben in der Notizen-Ansicht).
 
-**Dieses Kapitel enthält zwei Hauptszenen und eine Übergangsnotiz.** Die Hochzeit in Qanah (VV.1–12) führt das erste „Zeichen" (*sēmeion*) ein — einen Begriff, den Johannes bewusst anstelle von „Wunder" (*dynamis*) oder „Staunen" (*teras*) verwendet. Die Tempelreinigung (VV.13–22) führt die Unterscheidung zwischen ναός (*naos*, dem inneren Heiligtum) und ἱερόν (*hieron*, dem Tempelkomplex) ein. Das Kapitel schließt mit einem Kommentar des Erzählers über Jesu Kenntnis der menschlichen Natur (VV.23–25). Eigennamen folgen der TT-Transliteration: Qanah (nicht Kana), Yeshua (Jesus), Kfar Nachum (Kapernaum), Yerushalayim (Jerusalem).
+**Dieses Kapitel enthält zwei Hauptszenen und eine Übergangsnotiz.** Die Hochzeit in Qanah (VV.1–12) führt das erste „Zeichen" (*sēmeion*) ein — einen Begriff, den Johannes bewusst anstelle von „Wunder" (*dynamis*) oder „Staunen" (*teras*) verwendet. Die Tempelreinigung (VV.13–22) führt die Unterscheidung zwischen ναός (*naos*, dem inneren Heiligtum) und ἱερόν (*hieron*, dem Tempelkomplex) ein. Das Kapitel schließt mit einem Kommentar des Erzählers über Jesu Kenntnis der menschlichen Natur (VV.23–25). Namen erscheinen in der vertrauten Form; die ursprachliche Form steht einmal pro Abschnitt — z. B. Yochanan (Johannes).
 
 ---
 

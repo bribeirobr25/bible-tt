@@ -33,12 +33,10 @@
 | BHS, 5th rev. ed. (Deutsche Bibelgesellschaft, 1997) | PRIMARY | Numbers 21 parallel |
 | Justin Martyr, *Dialogue with Trypho* (mid-2nd c. CE) | PRIMARY (patristic) | Christian reading |
 | Irenaeus, *Against Heresies* (c. 180 CE) | PRIMARY (patristic) | Christian reading |
-| `content/en/john/study/CHAPTER-3-CONTEXT.md` §A6, §B2 | INTERNAL | Cross-reference for full lexical + historical treatment |
+
+See also: the John 3 study companion (Deeper), Sections A6 and B2 — full lexical and historical treatment.
 
 ---
 
 **Editorial provenance:**
-- Drafted by: Claude Opus 4.7 (AI assistant)
-- Date: 2026-05-13
-- Phase: 11 Option C canary file
-- Reviewed by: pending
+- AI-assisted draft, not yet reviewed.

@@ -22,7 +22,7 @@
 - [Leitura Contínua](#leitura-contínua)
 - [Estudo Verso a Verso](#estudo-verso-a-verso)
 - [Glossário — 1 Pedro 1](#glossário---1-pedro-1)
-- [Rastreamento entre Capítulos (BH -> 1 Pedro)](#rastreamento-entre-capítulos-bh---1-pedro)
+- [Rastreamento entre Capítulos (BH → 1 Pedro)](#rastreamento-entre-capítulos-bh---1-pedro)
 
 ---
 
@@ -37,7 +37,7 @@
 
 As notas são marcadas por tipo — **Crítico · Lexical · Gramatical · Teológico** — cada uma com sua cor (veja a legenda no topo da visão de Notas).
 
-**Esta é a abertura de 1 Pedro — a primeira *carta* do corpus.** É uma epístola circular a crentes dispersos — "eleitos peregrinos da dispersão" — por cinco províncias da Ásia Menor (1:1, províncias que coincidem com a lista de peregrinos de Atos 2:9). O capítulo 1 traz a **saudação** epistolar (vv.1-2), depois uma única e elevada frase grega de **bênção** (vv.3-12) sobre o novo nascimento, a esperança viva, a herança incorruptível e a salvação que os profetas perscrutaram; em seguida as primeiras **exortações** — à santidade (vv.13-21) e ao amor de um coração puro (vv.22-25). **Nota sobre marcação de fala (Regra 30):** 1 Pedro é a exortação do apóstolo em sua própria voz — não há fala divina narrada; somente a palavra de Deus em primeira pessoa *dentro* de uma citação do AT é marcada (1:16, "eu sou santo", de Levítico). Os nomes próprios seguem a transliteração TT: Kefa (Pedro), Yeshua (Jesus).
+**Esta é a abertura de 1 Pedro — a primeira *carta* do corpus.** É uma epístola circular a crentes dispersos — "eleitos peregrinos da dispersão" — por cinco províncias da Ásia Menor (1:1, províncias que coincidem com a lista de peregrinos de Atos 2:9). O capítulo 1 traz a **saudação** epistolar (vv.1-2), depois uma única e elevada frase grega de **bênção** (vv.3-12) sobre o novo nascimento, a esperança viva, a herança incorruptível e a salvação que os profetas perscrutaram; em seguida as primeiras **exortações** — à santidade (vv.13-21) e ao amor de um coração puro (vv.22-25). **Nota sobre marcação de fala (Regra 30):** 1 Pedro é a exortação do apóstolo em sua própria voz — não há fala divina narrada, e a palavra de Deus em primeira pessoa *dentro* de uma citação do AT (1:16, "eu sou santo", de Levítico) também não é marcada: ela é introduzida por "está escrito", de modo que um falante humano está citando. Os nomes aparecem na forma familiar, com a forma da língua original indicada uma vez por seção — p. ex., Kefa (Pedro).
 
 ---
 
@@ -47,7 +47,7 @@ As notas são marcadas por tipo — **Crítico · Lexical · Gramatical · Teol�
 
 **Temas-chave:** A saudação epistolar e a eleição de configuração trinitária (presciência do Pai / santificação do vento/espírito / aspersão do sangue); o **novo nascimento (anagennaō)** para uma esperança viva; a herança incorruptível "guardada nos céus"; a fé provada mais preciosa que o ouro, refinada pelo fogo; amar um Senhor não visto; os profetas e o "vento/espírito do Messias" predizendo o padrão sofrimentos-depois-glórias; o chamado à santidade fundamentado na própria santidade de Deus (Levítico); o **resgate** pelo sangue do Messias, o cordeiro sem mácula, conhecido de antemão antes da fundação do mundo; a identidade dos leitores como **exilados/peregrinos (paroikia)** vivendo em temor reverente; o novo nascimento mediante a palavra viva e permanente, posto contra o murchar de toda carne (Isaías 40).
 
-**Observe:** Esta é uma carta — vv.3-12 são uma única frase periódica em grego; a TT mantém a sua estrutura subordinada e suspensa. As três frases da saudação (vv.1-2) carregam uma configuração trinitária; a TT verte o grego sem importar vocabulário dogmático posterior (Regra 3). *Pneuma* mantém a barra vento/espírito (1:2, 11, 12). Em 1:11 "o vento/espírito do Messias" nos profetas é uma afirmação notável — vertida como o grego a tem. A citação de Levítico (1:16) é a palavra de Deus em primeira pessoa — marcada @@…@@. Em 1:25 (Isaías 40:8) a fonte lê "nosso Deus" (hebraico e LXX); o *kyrios* de 1 Pedro ("o Senhor", Opção C) é uma substituição da própria carta. "Peregrinos… dispersão… peregrinar" (*parepidēmoi / diaspora / paroikia*) é a palavra-chave de identidade da carta — mantida literal.
+**Observe:** Esta é uma carta — vv.3-12 são uma única frase periódica em grego; a TT mantém a sua estrutura subordinada e suspensa. As três frases da saudação (vv.1-2) carregam uma configuração trinitária; a TT verte o grego sem importar vocabulário dogmático posterior (Regra 3). *Pneuma* mantém a barra vento/espírito (1:2, 11, 12). Em 1:11 "o vento/espírito do Messias" nos profetas é uma afirmação notável — vertida como o grego a tem. A citação de Levítico (1:16) é a palavra de Deus em primeira pessoa, introduzida por "está escrito" — por isso não é marcada (Regra 30). Em 1:25 (Isaías 40:8) a fonte lê "nosso Deus" (hebraico e LXX); o *kyrios* de 1 Pedro ("o Senhor", Opção C) é uma substituição da própria carta. "Peregrinos… dispersão… peregrinar" (*parepidēmoi / diaspora / paroikia*) é a palavra-chave de identidade da carta — mantida literal.
 
 **Conexão:** O capítulo está impregnado da Bíblia Hebraica. "Sede santos, porque eu sou santo" (1:16) cita Levítico 11:44-45; 19:2 — o código de santidade que fundamenta a vocação de Israel, agora aplicado aos crentes dispersos. "Cingi os lombos" (1:13) ecoa a postura do Êxodo (Êx 12:11) e os profetas. O resgate por um "cordeiro sem mácula" (1:19) recorre ao cordeiro da Páscoa (Êx 12) e ao código sacrificial (Lv). "Toda carne é erva… a palavra do Senhor permanece" (1:24-25) cita Isaías 40:6-8 — a abertura das profecias de consolo, o mesmo Isaías 40 que enquadra João o Imersor nos evangelhos. A linguagem da "dispersão" (diaspora) lança os leitores na identidade do exílio de Israel.
 
@@ -65,7 +65,7 @@ As notas são marcadas por tipo — **Crítico · Lexical · Gramatical · Teol�
 
 ¹⁰Acerca desta salvação, *os* profetas buscaram e indagaram *cuidadosamente*, os quais profetizaram acerca da graça *destinada* a vós, ¹¹indagando para qual ou que tipo de tempo o {a:vento/espírito} do Messias neles indicava, testemunhando de antemão os sofrimentos *destinados* ao Messias e as glórias após estes. ¹²A eles foi revelado que não para si mesmos, mas para vós, serviam estas *coisas*, as quais agora vos foram anunciadas por meio daqueles que vos pregaram as boas novas pelo {a:vento/espírito} santo enviado do céu — *coisas* nas quais os anjos anseiam observar.
 
-¹³Portanto, tendo cingido os lombos da vossa mente, sendo sóbrios, ponde a vossa esperança completamente na graça que vos é trazida na revelação de Yeshua *o* Messias (Jesus). ¹⁴Como filhos da obediência, não vos conformando aos desejos anteriores *que eram vossos* na vossa ignorância, ¹⁵mas segundo aquele *que é* santo *e* vos chamou, sede vós mesmos também santos em toda *a vossa* conduta, ¹⁶porque está escrito: @@"Sede santos, porque eu *sou* santo."@@ ¹⁷E se invocais *como* Pai aquele *que* julga imparcialmente segundo a obra de cada um, conduzi-vos em temor *durante* o tempo do vosso peregrinar, ¹⁸sabendo que não com *coisas* perecíveis — prata ou ouro — fostes resgatados do vosso fútil modo de vida transmitido pelos *vossos* pais, ¹⁹mas com *o* precioso sangue, como de um cordeiro sem mácula e sem mancha, *o* sangue do Messias, ²⁰conhecido de antemão antes da fundação do mundo mas revelado nos últimos dos tempos por causa de vós, ²¹que por meio dele *sois* fiéis para com Deus, aquele *que* o ressuscitou dentre *os* mortos e lhe deu glória, para que a vossa fé e esperança estivessem em Deus.
+¹³Portanto, tendo cingido os lombos da vossa mente, sendo sóbrios, ponde a vossa esperança completamente na graça que vos é trazida na revelação de Yeshua *o* Messias (Jesus). ¹⁴Como filhos da obediência, não vos conformando aos desejos anteriores *que eram vossos* na vossa ignorância, ¹⁵mas segundo aquele *que é* santo *e* vos chamou, sede vós mesmos também santos em toda *a vossa* conduta, ¹⁶porque está escrito: "Sede santos, porque eu *sou* santo." ¹⁷E se invocais *como* Pai aquele *que* julga imparcialmente segundo a obra de cada um, conduzi-vos em temor *durante* o tempo do vosso peregrinar, ¹⁸sabendo que não com *coisas* perecíveis — prata ou ouro — fostes resgatados do vosso fútil modo de vida transmitido pelos *vossos* pais, ¹⁹mas com *o* precioso sangue, como de um cordeiro sem mácula e sem mancha, *o* sangue do Messias, ²⁰conhecido de antemão antes da fundação do mundo mas revelado nos últimos dos tempos por causa de vós, ²¹que por meio dele *sois* fiéis para com Deus, aquele *que* o ressuscitou dentre *os* mortos e lhe deu glória, para que a vossa fé e esperança estivessem em Deus.
 
 ²²Tendo purificado as vossas almas na obediência da verdade para um amor fraternal sincero, amai-vos uns aos outros intensamente de um coração puro, ²³tendo nascido de novo, não de semente perecível mas incorruptível, mediante *a* palavra viva e permanente de Deus. ²⁴Pois "toda carne *é* como erva, e toda a sua glória como *a* flor da erva; a erva secou, e a flor caiu, ²⁵mas a palavra do Senhor permanece para sempre." E esta é a palavra que vos foi anunciada como boas novas.
 
@@ -91,7 +91,7 @@ segundo *a* presciência de Deus *o* Pai, em santificação do {a:vento/espírit
 > **Notas**
 >
 > 🔴 **CRÍTICO — A ELEIÇÃO DE CONFIGURAÇÃO TRINITÁRIA (o ponto crucial da saudação)**
-> - Três frases governam a eleição: **κατὰ πρόγνωσιν θεοῦ πατρός** ("segundo *a* presciência de Deus *o* Pai"), **ἐν ἁγιασμῷ πνεύματος** ("em santificação do {a:vento/espírito}"), **εἰς ὑπακοὴν καὶ ῥαντισμὸν αἵματος** ("para obediência e aspersão do sangue"). A TT verte a estrutura Pai/vento-espírito/sangue do grego **sem importar o vocabulário dogmático posterior** "a Trindade" (Regra 3). **ῥαντισμὸν αἵματος** ("aspersão do sangue") ecoa o ritual da aliança (Êx 24:8). → Veja a entrada do diário editorial (1-peter.md P-008) e o Companheiro §A.
+> - Três frases governam a eleição: **κατὰ πρόγνωσιν θεοῦ πατρός** ("segundo *a* presciência de Deus *o* Pai"), **ἐν ἁγιασμῷ πνεύματος** ("em santificação do {a:vento/espírito}"), **εἰς ὑπακοὴν καὶ ῥαντισμὸν αἵματος** ("para obediência e aspersão do sangue"). A TT verte a estrutura Pai/vento-espírito/sangue do grego **sem importar o vocabulário dogmático posterior** "a Trindade" (Regra 3). **ῥαντισμὸν αἵματος** ("aspersão do sangue") ecoa o ritual da aliança (Êx 24:8). → Companheiro §A.
 >
 > 🔵 **"GRAÇA E PAZ VOS SEJAM MULTIPLICADAS" — *PLĒTHYNTHEIĒ***
 > - **χάρις ὑμῖν καὶ εἰρήνη πληθυνθείη** (*charis… eirēnē plēthyntheiē*) = o voto epistolar de bem-estar, optativo ("que seja multiplicada"). *Charis* (graça/favor) + *eirēnē* (paz, hebraico *shalom*) — a saudação greco-romana *chairein* reformulada.
@@ -243,12 +243,12 @@ mas segundo aquele *que é* santo *e* vos chamou, sede vós mesmos também santo
 
 ### **Versículo 16**
 
-porque está escrito: @@"Sede santos, porque eu *sou* santo."@@
+porque está escrito: "Sede santos, porque eu *sou* santo."
 
 > **Notas**
 >
 > 🔴 **CRÍTICO — LEVÍTICO 11:44-45 / 19:2 (fala divina em primeira pessoa)**
-> - **Ἅγιοι ἔσεσθε, ὅτι ἐγὼ ἅγιος** (*Hagioi esesthe, hoti egō hagios*) = "Sede santos, porque eu *sou* santo" — uma citação da própria palavra de Deus em primeira pessoa em Levítico (11:44-45; 19:2; 20:7), por isso é marcada **@@…@@** (Regra 30 / A-004). A santidade que fundamenta a vocação de Israel é aplicada aos crentes dispersos. A cópula *sou* é acrescentada em itálico (o grego é sem verbo). → Companheiro §A; PROFECIA (Lv → 1 Pe 1:16).
+> - **Ἅγιοι ἔσεσθε, ὅτι ἐγὼ ἅγιος** (*Hagioi esesthe, hoti egō hagios*) = "Sede santos, porque eu *sou* santo" — uma citação da própria palavra de Deus em primeira pessoa em Levítico (11:44-45; 19:2; 20:7), introduzida por "está escrito", de modo que um falante humano está citando e ela não é marcada (Regra 30). A santidade que fundamenta a vocação de Israel é aplicada aos crentes dispersos. A cópula *sou* é acrescentada em itálico (o grego é sem verbo). → Companheiro §A; PROFECIA (Lv → 1 Pe 1:16).
 
 ---
 
@@ -259,7 +259,7 @@ E se invocais *como* Pai aquele *que* julga imparcialmente segundo a obra de cad
 > **Notas**
 >
 > 🔵 **"O TEMPO DO VOSSO PEREGRINAR" — *PAROIKIAS***
-> - **τὸν τῆς παροικίας ὑμῶν χρόνον** (*ton tēs paroikias hymōn chronon*) = "o tempo do vosso peregrinar / residência-exílio." *Paroikia* (condição de estrangeiro residente) reforça a identidade de exílio de 1:1. Deus julga **ἀπροσωπολήμπτως** ("sem parcialidade / sem fazer acepção de pessoas") — temor reverente de Nível 1, não pavor.
+> - **τὸν τῆς παροικίας ὑμῶν χρόνον** (*ton tēs paroikias hymōn chronon*) = "o tempo do vosso peregrinar / residência-exílio." *Paroikia* (condição de estrangeiro residente) reforça a identidade de exílio de 1:1. Deus julga **ἀπροσωπολήμπτως** ("sem parcialidade / sem fazer acepção de pessoas") — o "temor" da tradução é temor reverente, não pavor.
 
 ---
 
@@ -369,7 +369,7 @@ mas a palavra do Senhor permanece para sempre." E esta é a palavra que vos foi 
 
 ---
 
-## Rastreamento entre Capítulos (BH -> 1 Pedro)
+## Rastreamento entre Capítulos (BH → 1 Pedro)
 
 | BH / fonte anterior | Tema | Em 1 Pedro 1 |
 |---------------------|-------|--------------|

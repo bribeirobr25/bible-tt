@@ -171,7 +171,7 @@ Beim Untertauchen sagt Markus' Stimme **σὺ εἶ ὁ υἱός μου** (*sy 
 
 ## I. Die Welt zur damaligen Zeit
 
-> **Querverweis:** Für den vollständigen Weltkontext in zwei Szenarien mit zehn Kategorien (Politik, Wirtschaft, Alltagsleben, Gesellschaftsstruktur, Bildung, Militär, Kunst, Wissenschaft, Religion, Nachbarvölker) siehe das Johannes-1-Begleitmaterial (Abschnitt I, `de/john/study/CHAPTER-1-CONTEXT.md`). Die folgenden Einträge befassen sich mit den in Markus 1 in den Vordergrund tretenden spezifischen Umständen.
+> **Querverweis:** Für den vollständigen Weltkontext in zwei Szenarien mit zehn Kategorien (Politik, Wirtschaft, Alltagsleben, Gesellschaftsstruktur, Bildung, Militär, Kunst, Wissenschaft, Religion, Nachbarvölker) siehe das Begleitmaterial zu Johannes 1 (Vertiefen), Abschnitt I. Die folgenden Einträge befassen sich mit den in Markus 1 in den Vordergrund tretenden spezifischen Umständen.
 
 ---
 
@@ -235,6 +235,4 @@ Wenn Markus um 65–70 n. Chr. verfasst wurde, wäre seine Eröffnung — ein W�
 ---
 
 **Redaktionelle Herkunft:**
-- Entworfen von: KI (Claude, Anthropic)
-- Datum: 2026-06-18
-- Begutachtet von: ausstehend
+- KI-gestützter Entwurf, noch nicht geprüft.

@@ -20,7 +20,7 @@
 - [Continuous Reading](#continuous-reading)
 - [Verse-by-Verse Study](#verse-by-verse-study)
 - [Glossary — 1 Peter 5](#glossary--1-peter-5)
-- [Cross-Chapter Tracking (HB -> 1 Peter)](#cross-chapter-tracking-hb--1-peter)
+- [Cross-Chapter Tracking (HB → 1 Peter)](#cross-chapter-tracking-hb--1-peter)
 
 ---
 
@@ -45,7 +45,7 @@ Notes are tagged by type — **Critical · Lexical · Grammatical · Theological
 
 **Key themes:** The **pastoral charge** — Peter as "fellow-elder" (not "chief," despite his stature); shepherding willingly, not for gain, not domineering, but as examples (echoing the Messiah's *hypogrammos*, 2:21); the **chief Shepherd** (*archipoimēn*) and the "unfading crown" (tying to the unfading inheritance, 1:4); mutual **humility** grounded in Proverbs 3:34 ("God opposes the proud, gives grace to the humble"); **humbling under God's mighty hand** (Exodus language) with the promise of exaltation "in due time"; **casting anxiety on God** (Ps 55:22) because "he cares for you"; **vigilance** against the **adversary/slanderer** (the *diabolos*), the roaring lion; resistance "firm in faith," in solidarity with a suffering worldwide brotherhood; the **God of all grace** who restores after "a little" suffering — the letter's hope-through-suffering arc resolved; and the **epistolary close** — Silvanus the bearer, the greeting from "**Babylon**" (a likely cipher for Rome), "**Mark** my son," the kiss of love, and peace.
 
-**Watch for:** **5:1** — Peter calls himself *sympresbyteros* ("**fellow**-elder"), a notable self-lowering. **5:5** quotes Proverbs 3:34 (LXX: "God opposes the proud, gives grace to the humble" — same citation as James 4:6; the sage's voice — unmarked). **5:7** echoes Psalm 55:22 ("cast your burden on the LORD"). **5:8** "the **adversary** (*antidikos*), the **slanderer** (*diabolos*), like a roaring lion" — *diabolos* (lit. "slanderer/accuser") is the term behind "devil"; the lion may echo Psalm 22:13. **5:12** "**through Silvanus** I wrote" — the bearer/amanuensis (the authorship-by-secretary question of the Introduction). **5:13** "**she in Babylon**" = the co-elect church, with "Babylon" widely read as a cipher for **Rome** (Tier-2); "**Mark** my son" links to the gospel of Mark (cross-book).
+**Watch for:** **5:1** — Peter calls himself *sympresbyteros* ("**fellow**-elder"), a notable self-lowering. **5:5** quotes Proverbs 3:34 (LXX: "God opposes the proud, gives grace to the humble" — same citation as James 4:6; the sage's voice — unmarked). **5:7** echoes Psalm 55:22 ("cast your burden on the LORD"). **5:8** "the **adversary** (*antidikos*), the **slanderer** (*diabolos*), like a roaring lion" — *diabolos* (lit. "slanderer/accuser") is the term behind "devil"; the lion may echo Psalm 22:13. **5:12** "**through Silvanus** I wrote" — the bearer/amanuensis (the authorship-by-secretary question of the Introduction). **5:13** "**she in Babylon**" = the co-elect church, with "Babylon" widely read as a cipher for **Rome** (see the note at 5:13); "**Mark** my son" links to the gospel of Mark (cross-book).
 
 **Connection:** "Shepherd the flock of God" (5:2) draws on Ezekiel 34 (the LORD against false shepherds, promising a true one) and the Messiah as shepherd (2:25; Jn 10). The "chief Shepherd" + "crown" (5:4) echo the shepherd-king imagery (Ps 23; the messianic shepherd). "God opposes the proud but gives grace to the humble" (5:5) quotes Proverbs 3:34 (LXX). "Humble yourselves under the mighty hand of God" (5:6) uses the Exodus "mighty hand" (Ex 3:19; Deut 9:26). "Cast all your anxiety on him" (5:7) echoes Psalm 55:22. The roaring lion (5:8) recalls Psalm 22:13 and the predator-imagery of the Psalms.
 
@@ -204,7 +204,7 @@ She *who is* in Babylon (Bavel), chosen together *with you*, greets you, and Mar
 > **Notes**
 >
 > 🔴 **CRITICAL — "SHE IN BABYLON" + "MARK MY SON"**
-> - **ἡ ἐν Βαβυλῶνι συνεκλεκτὴ καὶ Μᾶρκος ὁ υἱός μου** = "**She** *who is* in **Babylon**, **chosen together** *with you*, *greets you*, and **Markos** (Mark) **my son**." "She… chosen-together" (*syneklektē*) = the **church** in Babylon (feminine; cf. 2 Jn 1, 13), sending greetings. "**Babylon**" is widely read as a **cipher for Rome** (the exile-empire, as in Revelation; Rome as the place of Peter's later ministry) — the TT keeps "Babylon" and notes it (Tier-2). "**Mark** my son" — John Mark (Acts 12:12; 2 Tim 4:11), linking to the gospel of Mark (cross-book). → Companion §B (Babylon = Rome); People (Markos → mark; Silvanus).
+> - **ἡ ἐν Βαβυλῶνι συνεκλεκτὴ καὶ Μᾶρκος ὁ υἱός μου** = "**She** *who is* in **Babylon**, **chosen together** *with you*, *greets you*, and **Markos** (Mark) **my son**." "She… chosen-together" (*syneklektē*) = the **church** in Babylon (feminine; cf. 2 Jn 1, 13), sending greetings. "**Babylon**" is widely read as a **cipher for Rome** (the exile-empire, as in Revelation; Rome as the place of Peter's later ministry) — the TT keeps "Babylon" and notes it. "**Mark** my son" — John Mark (Acts 12:12; 2 Tim 4:11), linking to the gospel of Mark (cross-book). → Companion §B (Babylon = Rome); People (Markos → mark; Silvanus).
 
 ---
 
@@ -237,7 +237,7 @@ Greet one another with a kiss of love. Peace to all of you who *are* in *the* Me
 
 ---
 
-## Cross-Chapter Tracking (HB -> 1 Peter)
+## Cross-Chapter Tracking (HB → 1 Peter)
 
 | HB / earlier source | Theme | In 1 Peter 5 |
 |---------------------|-------|--------------|

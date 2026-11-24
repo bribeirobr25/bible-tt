@@ -22,7 +22,7 @@
 - [Lectura Continua](#lectura-continua)
 - [Estudio Versículo por Versículo](#estudio-versículo-por-versículo)
 - [Glosario — Hechos 3](#glosario---hechos-3)
-- [Seguimiento entre Capítulos (BH -> Hechos)](#seguimiento-entre-capítulos-bh--hechos)
+- [Seguimiento entre Capítulos (BH → Hechos)](#seguimiento-entre-capítulos-bh--hechos)
 
 ---
 
@@ -37,7 +37,7 @@
 
 Las notas se etiquetan por tipo — **Crítico · Léxico · Gramatical · Teológico** — cada una con su color (vea la leyenda en la parte superior de la vista de Notas).
 
-**Este capítulo empareja una sanidad con el segundo sermón apostólico.** En la Puerta Hermosa del templo, Kefa y Yochanan sanan a un hombre cojo de nacimiento "en el nombre de Yeshua el Nazareno" (vv.1-10). La multitud asombrada se reúne en el pórtico de Salomón, y Kefa predica: no es su propio poder sino el Dios de los padres quien ha glorificado a su siervo Yeshua — a quien ellos negaron y mataron pero a quien Dios resucitó — y la fe en su nombre ha sanado al hombre por completo (vv.11-16). Los llama a cambiar de mente, señala a los profetas (Moisés y Samuel), y reafirma el pacto abrahámico (vv.17-26). **Nota sobre la marcación del habla (Regla 30):** el sermón de Kefa es habla humana y no se marca; la palabra del pacto del Señor a Avraham (v.25, Gén 22:18) es habla divina y **sí** se marca @@…@@. La cita de Moisés (vv.22-23) es habla reportada *de Moisés* *acerca del* Señor, por lo que no se marca. **Observe los cruces de términos:** *archēgos* ("Autor/Pionero/Originador de la vida," v.15) y *pais* ("siervo/hijo," vv.13, 26) llevan el matiz del Siervo isaiánico — ambos se señalan.
+**Este capítulo empareja una sanidad con el segundo sermón apostólico.** En la Puerta Hermosa del templo, Kefa y Yochanan sanan a un hombre cojo de nacimiento "en el nombre de Yeshua el Nazareno" (vv.1-10). La multitud asombrada se reúne en el pórtico de Salomón, y Kefa predica: no es su propio poder sino el Dios de los padres quien ha glorificado a su siervo Yeshua — a quien ellos negaron y mataron pero a quien Dios resucitó — y la fe en su nombre ha sanado al hombre por completo (vv.11-16). Los llama a cambiar de mente, señala a los profetas (Moisés y Samuel), y reafirma el pacto abrahámico (vv.17-26). **Nota sobre la marcación del habla (Regla 30):** el sermón de Kefa es habla humana y no se marca; la palabra del pacto del Señor a Avraham (v.25, Gén 22:18) es habla divina, pero Kefa la está citando, así que **tampoco** se marca. La cita de Moisés (vv.22-23) es habla reportada *de Moisés* *acerca del* Señor, por lo que no se marca. **Observe los cruces de términos:** *archēgos* ("Autor/Pionero/Originador de la vida," v.15) y *pais* ("siervo/hijo," vv.13, 26) llevan el matiz del Siervo isaiánico — ambos se señalan.
 
 ---
 
@@ -47,7 +47,7 @@ Las notas se etiquetan por tipo — **Crítico · Léxico · Gramatical · Teol�
 
 **Temas clave:** "El nombre" de Jesús como el poder que sana y salva (vv.6, 16); los apóstoles como canales, no fuentes, del poder (v.12); el Dios de los patriarcas glorificando a su "siervo" (*pais*) Jesús — el matiz del Siervo isaiánico; el patrón de contraste (ustedes negaron / Dios glorificó; ustedes mataron / Dios resucitó); el Autor/Pionero de la vida muerto pero resucitado; la fe en el nombre como el medio de la sanidad; el Mesías sufriente como el cumplimiento de "todos los profetas"; el llamado al cambio de mente y al "volverse," con "tiempos de refrigerio" y la "restauración de todas las cosas"; el profeta-como-Moisés (Deut 18) identificado con Jesús; el pacto abrahámico y la bendición de "todas las familias de la tierra" — Israel abordado primero, las naciones a la vista.
 
-**Observe:** *Archēgos* (v.15) significa "líder, fundador, pionero, originador, autor" — la TT traduce "Autor *de la vida*" y señala el rango. *Pais* (vv.13, 26) significa tanto "siervo" como "hijo" — aquí está a la vista el "Siervo de YHWH" isaiánico (Is 52-53); la TT traduce "siervo" y nota el matiz. *Apokatastasis* (v.21), "restauración de todas las cosas," es teológicamente debatido; la TT lo conserva sin resolver su alcance. La cita de Moisés (vv.22-23, Deut 18:15-19) es habla de Moisés *acerca del* Señor y no se marca como divina; la palabra abrahámica (v.25, Gén 22:18) es habla directa del pacto del Señor y se marca. *Kyrios* = YHWH en vv.19 ("el rostro del Señor") y 22 ("el Señor Dios").
+**Observe:** *Archēgos* (v.15) significa "líder, fundador, pionero, originador, autor" — la TT traduce "Autor *de la vida*" y señala el rango. *Pais* (vv.13, 26) significa tanto "siervo" como "hijo" — aquí está a la vista el "Siervo de YHWH" isaiánico (Is 52-53); la TT traduce "siervo" y nota el matiz. *Apokatastasis* (v.21), "restauración de todas las cosas," es teológicamente debatido; la TT lo conserva sin resolver su alcance. La cita de Moisés (vv.22-23, Deut 18:15-19) es habla de Moisés *acerca del* Señor y no se marca como divina; la palabra abrahámica (v.25, Gén 22:18) es habla directa del pacto del Señor, citada por Kefa, y tampoco se marca. *Kyrios* = YHWH en vv.19 ("el rostro del Señor") y 22 ("el Señor Dios").
 
 **Conexión:** El sermón está saturado de la Biblia Hebrea. "El Dios de Abraham, Isaac y Jacob, el Dios de nuestros padres" es la autoidentificación de YHWH en la zarza (Éx 3:6, 15). "Su siervo" hace eco de los Cánticos del Siervo de Isaías (42; 49; 52:13-53:12). El profeta-como-Moisés es Deuteronomio 18:15-19. La bendición abrahámica de "todas las familias de la tierra" es Génesis 22:18 (cf. 12:3; 18:18; 26:4). Samuel como cabeza de la línea profética recuerda 1 Samuel 3. La "restauración" (*apokatastasis*) se nutre de la esperanza profética de la renovación de Israel (p. ej. Mal 4:5-6; Hechos 1:6).
 
@@ -63,7 +63,7 @@ Las notas se etiquetan por tipo — **Crítico · Léxico · Gramatical · Teol�
 
 ¹¹Y mientras él se aferraba a Kefa (Pedro) y a Yochanan (Juan), todo el pueblo corrió junto a ellos al pórtico llamado *de Salomón* (de Shlomoh), totalmente atónitos. ¹²Y viendo *esto*, Kefa (Pedro) respondió al pueblo: "Hombres, israelitas, ¿por qué se maravillan de esto, o por qué nos miran fijamente, como si por nuestro propio poder o piedad lo hubiéramos hecho caminar? ¹³El Dios de Avraham (Abraham) y *de* Yitschaq (Isaac) y *de* Ya'aqov (Jacob), el Dios de nuestros padres, glorificó a su siervo Yeshua (Jesús), a quien ustedes entregaron y negaron ante *el* rostro de Pilato, *cuando* aquel había decidido soltar*lo*. ¹⁴Pero ustedes negaron al santo y justo *uno*, y pidieron *que* un hombre, un asesino, les fuera concedido, ¹⁵pero al Autor de la vida mataron, a quien Dios resucitó de *entre los* muertos — de lo cual nosotros somos testigos. ¹⁶Y sobre la fe de su nombre, a este *uno* a quien ustedes ven y conocen — su nombre lo hizo firme; y la fe *que es* por medio de él le dio esta plena sanidad delante de todos ustedes.
 
-¹⁷"Y ahora, hermanos, sé que actuaron según ignorancia, así como también sus gobernantes; ¹⁸pero Dios, las *cosas* que predijo por medio de *la* boca de todos los profetas — que su Mesías sufriría — así *las* cumplió. ¹⁹Cambien *de* mente, por tanto, y vuélvanse, para el borrado de sus pecados, ²⁰de modo que vengan tiempos de refrigerio de *parte del* rostro del Señor, y *que* él envíe al *que* fue preordenado para ustedes, *el* Mesías, Yeshua (Jesús), ²¹a quien el cielo debe recibir hasta *los* tiempos de restauración de todas *las cosas*, de las cuales Dios habló por medio de *la* boca de sus santos profetas desde antiguo. ²²Mosheh (Moisés) en verdad dijo que 'Un profeta para ustedes *el* Señor Dios levantará de entre sus hermanos, como yo; a él escucharán en todas *las cosas*, cuanto les hable. ²³Y será *que* toda alma, quienquiera que no escuche a aquel profeta, será exterminada de entre el pueblo.' ²⁴Y en verdad todos los profetas, desde Shmuel (Samuel) y los *que vinieron* después, cuantos hablaron, también anunciaron estos días. ²⁵Ustedes son los hijos de los profetas y del pacto que Dios pactó con sus padres, diciendo a Avraham (Abraham): @@'Y en tu descendencia todas las familias de la tierra serán bendecidas.'@@ ²⁶A ustedes primero, Dios, habiendo levantado a su siervo, lo envió, bendiciéndolos en *el* volverse cada *uno de ustedes* de sus maldades."
+¹⁷"Y ahora, hermanos, sé que actuaron según ignorancia, así como también sus gobernantes; ¹⁸pero Dios, las *cosas* que predijo por medio de *la* boca de todos los profetas — que su Mesías sufriría — así *las* cumplió. ¹⁹Cambien *de* mente, por tanto, y vuélvanse, para el borrado de sus pecados, ²⁰de modo que vengan tiempos de refrigerio de *parte del* rostro del Señor, y *que* él envíe al *que* fue preordenado para ustedes, *el* Mesías, Yeshua (Jesús), ²¹a quien el cielo debe recibir hasta *los* tiempos de restauración de todas *las cosas*, de las cuales Dios habló por medio de *la* boca de sus santos profetas desde antiguo. ²²Mosheh (Moisés) en verdad dijo que 'Un profeta para ustedes *el* Señor Dios levantará de entre sus hermanos, como yo; a él escucharán en todas *las cosas*, cuanto les hable. ²³Y será *que* toda alma, quienquiera que no escuche a aquel profeta, será exterminada de entre el pueblo.' ²⁴Y en verdad todos los profetas, desde Shmuel (Samuel) y los *que vinieron* después, cuantos hablaron, también anunciaron estos días. ²⁵Ustedes son los hijos de los profetas y del pacto que Dios pactó con sus padres, diciendo a Avraham (Abraham): 'Y en tu descendencia todas las familias de la tierra serán bendecidas.' ²⁶A ustedes primero, Dios, habiendo levantado a su siervo, lo envió, bendiciéndolos en *el* volverse cada *uno de ustedes* de sus maldades."
 
 ---
 
@@ -335,12 +335,12 @@ Y en verdad todos los profetas, desde Shmuel (Samuel) y los *que vinieron* despu
 
 ### **Versículo 25**
 
-Ustedes son los hijos de los profetas y del pacto que Dios pactó con sus padres, diciendo a Avraham (Abraham): @@'Y en tu descendencia todas las familias de la tierra serán bendecidas.'@@
+Ustedes son los hijos de los profetas y del pacto que Dios pactó con sus padres, diciendo a Avraham (Abraham): 'Y en tu descendencia todas las familias de la tierra serán bendecidas.'
 
 > **Notas**
 >
 > 🔴 **CRÍTICO — EL PACTO ABRAHÁMICO (Gén 22:18); HABLA DIVINA**
-> - **ἐν τῷ σπέρματί σου ἐνευλογηθήσονται πᾶσαι αἱ πατριαὶ τῆς γῆς** (*en tō spermati sou eneulogēthēsontai pasai hai patriai tēs gēs*) = "Y en tu descendencia todas las familias de la tierra serán bendecidas" (Gén 22:18; cf. 12:3). Esta es **la palabra directa del pacto del Señor a Avraham** → marcada @@…@@ (Regla 30 / A-004). "Hijos de los profetas y del pacto" — los oyentes son herederos de la promesa; "todas las familias de la tierra" mantiene a las naciones a la vista, aunque Israel sea abordado "primero" (v.26). → Compañero §B5 (la bendición abrahámica).
+> - **ἐν τῷ σπέρματί σου ἐνευλογηθήσονται πᾶσαι αἱ πατριαὶ τῆς γῆς** (*en tō spermati sou eneulogēthēsontai pasai hai patriai tēs gēs*) = "Y en tu descendencia todas las familias de la tierra serán bendecidas" (Gén 22:18; cf. 12:3). Esta es **la palabra directa del pacto del Señor a Avraham**, citada por Kefa → no marcada (Regla 30). "Hijos de los profetas y del pacto" — los oyentes son herederos de la promesa; "todas las familias de la tierra" mantiene a las naciones a la vista, aunque Israel sea abordado "primero" (v.26). → Compañero §B5 (la bendición abrahámica).
 
 ---
 
@@ -372,7 +372,7 @@ A ustedes primero, Dios, habiendo levantado a su siervo, lo envió, bendiciéndo
 
 ---
 
-## SEGUIMIENTO ENTRE CAPÍTULOS (BH -> Hechos)
+## SEGUIMIENTO ENTRE CAPÍTULOS (BH → Hechos)
 
 | BH / fuente anterior | Tema | En Hechos 3 |
 |---------------------|-------|-----------|
@@ -380,6 +380,6 @@ A ustedes primero, Dios, habiendo levantado a su siervo, lo envió, bendiciéndo
 | Is 52:13-53:12 | El Siervo de YHWH glorificado tras el sufrimiento | "Su **siervo** (*pais*) Yeshua… glorificado" (vv.13, 26); el Mesías sufriente (v.18). |
 | Is 35:6 | "Entonces el cojo saltará como un ciervo" | El hombre sanado "saltando" al templo (vv.8). |
 | Deut 18:15-19 | El profeta como Moisés | Citado e identificado con Yeshua (vv.22-23). |
-| Gén 22:18 (cf. 12:3) | "En tu descendencia todas las familias de la tierra serán bendecidas" | La palabra del pacto del Señor, marcada como habla divina (v.25). |
+| Gén 22:18 (cf. 12:3) | "En tu descendencia todas las familias de la tierra serán bendecidas" | La palabra del pacto del Señor, citada por Kefa — no marcada (v.25). |
 | 1 Sam 3 | Samuel, cabeza de la línea profética | "Todos los profetas desde Shmuel" anunciaron estos días (v.24). |
 | Mal 4:5-6; Hechos 1:6 | Restauración / volver los corazones | "Tiempos de restauración de todas las cosas" (v.21); "cambio de mente y vuélvanse" (v.19). |

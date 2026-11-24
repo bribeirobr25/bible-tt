@@ -21,7 +21,7 @@
 - [Continuous Reading](#continuous-reading)
 - [Verse-by-Verse Study](#verse-by-verse-study)
 - [Glossary — Luke 1](#glossary---luke-1)
-- [Cross-Chapter Tracking (HB -> Luke)](#cross-chapter-tracking-hb--luke)
+- [Cross-Chapter Tracking (HB → Luke)](#cross-chapter-tracking-hb--luke)
 
 ---
 
@@ -36,7 +36,7 @@
 
 Notes are tagged by type — **Critical · Lexical · Grammatical · Theological** — each shown with its colour (see the legend at the top of the Notes view).
 
-**This is the longest opening chapter in the Gospels.** Luke 1 begins with a formal literary prologue (vv.1-4) — a single periodic Greek sentence, the most "classical" Greek in the four Gospels — addressed to one Theophilos. The narrative then shifts into a Septuagintal register modeled on the HB. Two annunciations run in parallel: the messenger Gavriel announces the birth of Yochanan to the priest Zecharyah (vv.5-25), then the birth of Yeshua to Miryam (vv.26-38). Miryam visits Elisheva (vv.39-45) and sings the Magnificat (vv.46-55). Yochanan is born and named (vv.57-66), and Zecharyah sings the Benedictus (vv.67-79). **Note on speech-marking (Rule 30):** Gavriel is a *messenger* (*angelos*), not God — his words are NOT marked as divine speech. The two canticles (Magnificat, Benedictus) are *human* speech and are rendered as flowing prose. Proper names follow TT transliteration: Yeshua (not Jesus), Yochanan (not John), Zecharyah (not Zechariah), Elisheva (not Elizabeth), Miryam (not Mary), Gavriel (not Gabriel).
+**This is the longest opening chapter in the Gospels.** Luke 1 begins with a formal literary prologue (vv.1-4) — a single periodic Greek sentence, the most "classical" Greek in the four Gospels — addressed to one Theophilos. The narrative then shifts into a Septuagintal register modeled on the HB. Two annunciations run in parallel: the messenger Gavriel announces the birth of Yochanan to the priest Zecharyah (vv.5-25), then the birth of Yeshua to Miryam (vv.26-38). Miryam visits Elisheva (vv.39-45) and sings the Magnificat (vv.46-55). Yochanan is born and named (vv.57-66), and Zecharyah sings the Benedictus (vv.67-79). **Note on speech-marking (Rule 30):** Gavriel is a *messenger* (*angelos*), not God — his words are NOT marked as divine speech. The two canticles (Magnificat, Benedictus) are *human* speech and are rendered as flowing prose. Names appear in their familiar form, with the source-language form given once per section — e.g. Yochanan (John).
 
 ---
 
@@ -249,7 +249,7 @@ But the messenger said to him, "Do not be afraid, Zecharyah (Zechariah), because
 > **Notes**
 >
 > 🔴 **CRITICAL — GAVRIEL'S SPEECH NOT DIVINE-MARKED (RULE 30)**
-> - The messenger's words (vv.13-20) are rendered in ordinary quotation marks, NOT the @@…@@ divine-speech markers. Per the editorial decision (luke.md L-001) and the Matthew/Mark precedent, an *angelos* is a messenger, not God; only the direct speech of God or the holy wind/spirit is marked. The TT does not collapse messenger-speech into divine speech.
+> - The messenger's words (vv.13-20) are rendered in ordinary quotation marks, NOT marked as divine speech (red). Per the Matthew/Mark precedent, an *angelos* is a messenger, not God; only the direct speech of God or the holy wind/spirit is marked. The TT does not collapse messenger-speech into divine speech.
 >
 > 🟢 **YOCHANAN — TT TRANSLITERATION**
 > - **Ἰωάννης** (*Iōannēs*) = Yochanan (Hebrew: **Yochanan**, "YHWH has shown favor / YHWH is gracious"). Familiar: John. The name's meaning ("YHWH is gracious") resonates with *charis* in the chapter.
@@ -652,7 +652,7 @@ And Miryam (Mary) said, "My soul magnifies the Lord,
 > **Notes**
 >
 > 🔴 **CRITICAL — THE MAGNIFICAT (vv.46-55): HUMAN SPEECH, RENDERED AS PROSE**
-> - The Magnificat is **Mary's** song (a textual variant in a few witnesses, esp. some Old Latin, reads "Elizabeth," but NA28 reads *Mariam*). As human speech it is NOT divine-marked (Rule 30). Per editorial decision (luke.md L-002), the canticle is authored as flowing prose; the renderer collapses poetic line breaks, so no manual lineation is used. → For the Magnificat's structure and Hannah's-song base, see the PROPHECY companion. **[text-critical — VERIFIED]**
+> - The Magnificat is **Mary's** song (a textual variant in a few witnesses, esp. some Old Latin, reads "Elizabeth," but NA28 reads *Mariam*). As human speech it is NOT divine-marked (Rule 30). The canticle is authored as flowing prose; the renderer collapses poetic line breaks, so no manual lineation is used. → For the Magnificat's structure and Hannah's-song base, see the PROPHECY companion. **[text-critical — VERIFIED]**
 >
 > 🟢 **"MAGNIFIES" — *MEGALYNEI* (PS 34:4 ECHO)**
 > - **μεγαλύνει ἡ ψυχή μου τὸν κύριον** (*megalynei hē psychē mou ton kyrion*) = "my soul magnifies the Lord." Opening echo of Ps 34:4 (Eng. 33:4 LXX) and 1 Sam 2:1. Referent of *kyrios*: YHWH (Probable, Option C). *Psychē* = "soul, life-breath, self."
@@ -886,7 +886,7 @@ And Zecharyah (Zechariah) his father was filled with *the* holy {a:wind/spirit} 
 > **Notes**
 >
 > 🔴 **CRITICAL — THE BENEDICTUS (vv.68-79): HUMAN PROPHECY, RENDERED AS PROSE**
-> - Verse 67 is the narrative introduction; the canticle proper begins at v.68. Zechariah's song is **human** prophetic speech "filled with *the* holy wind/spirit" — but spoken by Zechariah, not God; it is therefore NOT divine-marked (Rule 30). Per editorial decision (luke.md L-002), it is authored as flowing prose. → For the Benedictus structure, see the PROPHECY companion. **[theological — PROBABLE]**
+> - Verse 67 is the narrative introduction; the canticle proper begins at v.68. Zechariah's song is **human** prophetic speech "filled with *the* holy wind/spirit" — but spoken by Zechariah, not God; it is therefore NOT divine-marked (Rule 30). It is authored as flowing prose. → For the Benedictus structure, see the PROPHECY companion. **[theological — PROBABLE]**
 >
 > 🟢 **"FILLED… AND PROPHESIED" — *EPLĒSTHĒ… EPROPHĒTEUSEN***
 > - **ἐπλήσθη πνεύματος ἁγίου καὶ ἐπροφήτευσεν** (*eplēsthē pneumatos hagiou kai eprophēteusen*) = "was filled with holy wind/spirit and prophesied." The same "filled" verb describes Elizabeth (v.41) and is anticipated for John (v.15) — the wind/spirit empowers human speech, which remains human (not divine-marked).
@@ -1065,9 +1065,9 @@ And the child grew and was strengthened in spirit, and he was in the wilderness 
 
 ---
 
-## CROSS-CHAPTER TRACKING (HB -> Luke)
+## CROSS-CHAPTER TRACKING (HB → Luke)
 
-**1 Sam 1-2 -> Luke 1 — Channah (Hannah) and the Magnificat:**
+**1 Sam 1-2 → Luke 1 — Channah (Hannah) and the Magnificat:**
 
 | Element | 1 Samuel 1-2 (Hannah) | Luke 1 (Elizabeth / Mary) |
 |---------|------------------------|----------------------------|
@@ -1078,7 +1078,7 @@ And the child grew and was strengthened in spirit, and he was in the wilderness 
 
 The Magnificat is modeled on Hannah's song; both celebrate a divine reversal centered on a child given against the odds.
 
-**Gen 18 -> Luke 1:37 — "nothing impossible with God":**
+**Gen 18 → Luke 1:37 — "nothing impossible with God":**
 
 | Element | Gen 18 (Sarah) | Luke 1:37 |
 |---------|----------------|-----------|
@@ -1088,7 +1088,7 @@ The Magnificat is modeled on Hannah's song; both celebrate a divine reversal cen
 
 The Gabriel oracle to Mary quotes the Sarah promise nearly verbatim from the LXX, binding the new births to the Abrahamic line.
 
-**Mal 3:1, 3:23-24 / Isa 40:3 -> Luke 1:17, 76 — John as the returning Eliyahu (Elijah):**
+**Mal 3:1, 3:23-24 / Isa 40:3 → Luke 1:17, 76 — John as the returning Eliyahu (Elijah):**
 
 | Element | Malachi / Isaiah | Luke 1 |
 |---------|-------------------|--------|
@@ -1098,7 +1098,7 @@ The Gabriel oracle to Mary quotes the Sarah promise nearly verbatim from the LXX
 
 Luke casts John as the prophesied Elijah-figure; the source texts speak of YHWH, while the Gospel fuses the referent toward Yeshua — the TT preserves the fusion (Rule 13: Possible).
 
-**2 Sam 7 / Ps 18, 132 -> Luke 1:32-33, 69 — Davidic throne and "horn of salvation":**
+**2 Sam 7 / Ps 18, 132 → Luke 1:32-33, 69 — Davidic throne and "horn of salvation":**
 
 | Element | 2 Sam 7 / Psalms | Luke 1 |
 |---------|-------------------|--------|
@@ -1108,7 +1108,7 @@ Luke casts John as the prophesied Elijah-figure; the source texts speak of YHWH,
 
 Both annunciation and Benedictus root the child's destiny in the Davidic covenant and its psalms of royal victory.
 
-**Gen 22:16-18 / Gen 17:7 -> Luke 1:55, 72-73 — the oath to Avraham (Abraham):**
+**Gen 22:16-18 / Gen 17:7 → Luke 1:55, 72-73 — the oath to Avraham (Abraham):**
 
 | Element | Genesis | Luke 1 |
 |---------|---------|--------|

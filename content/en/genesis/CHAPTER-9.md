@@ -346,7 +346,7 @@ And he said, "Cursed *be* Kenaan (Canaan); a servant of servants he shall be to 
 
 > **NOTES**
 >
-> 🟡 **TIER 2 — RECEPTION HISTORY**
+> 🟡 **RECEPTION HISTORY**
 > - This passage has documented reception history involving harmful misuse. The curse falls on Canaan specifically — not Ham, not any broader ethnic or racial group. See companion Section F for historical context.
 >
 > 🔴 **CRITICAL — CANAAN CURSED, NOT HAM**

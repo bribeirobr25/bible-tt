@@ -215,7 +215,7 @@ A narrativa do dilúvio fornece datas calendáricas exatas: início no segundo m
 
 ## I. O Mundo na Época
 
-> **Referência cruzada:** Para o contexto mundial completo (quatro cenários, dez categorias — Político, Economia, Vida Cotidiana, Estrutura Social, Educação, Militar, Artes, Ciência, Religião, Povos Vizinhos), veja o companheiro de Gênesis 1 (Seção I, `pt-br/genesis/study/CHAPTER-1-CONTEXT.md`). As entradas abaixo abordam as circunstâncias históricas especificamente destacadas em Gênesis 7 — o mecanismo do dilúvio, os sistemas de medição, o manejo de animais, a cosmologia das águas e a precisão calendárica.
+> **Referência cruzada:** Para o contexto mundial completo (quatro cenários, dez categorias — Político, Economia, Vida Cotidiana, Estrutura Social, Educação, Militar, Artes, Ciência, Religião, Povos Vizinhos), veja o material de estudo de Gênesis 1 (Aprofundar), Seção I. As entradas abaixo abordam as circunstâncias históricas especificamente destacadas em Gênesis 7 — o mecanismo do dilúvio, os sistemas de medição, o manejo de animais, a cosmologia das águas e a precisão calendárica.
 
 ---
 
@@ -319,6 +319,4 @@ O modelo cosmológico de três camadas (águas acima, terra, águas abaixo) rece
 ---
 
 **Procedência editorial:**
-- Redigido por: Claude Opus 4.6 (assistente de IA)
-- Data: 2026-04-24
-- Revisado por: pendente
+- Rascunho assistido por IA, ainda não revisado.

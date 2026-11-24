@@ -72,7 +72,7 @@ Jesus cita explicitamente o episódio da serpente de bronze no v.14: "Assim como
 ### C1. Nikodemos — perushi e líder
 **[HISTÓRICO / ARQUEOLÓGICO — PROVÁVEL]**
 
-Nicodemos é identificado como um perushi e "um líder dos yehudim" (ἄρχων τῶν Ἰουδαίων, *archōn tōn Ioudaiōn*) — provavelmente membro do Sinédrio, o conselho de setenta e um anciãos que servia como o corpo judicial e legislativo supremo na Yehudeia sob supervisão romana. O nome Νικόδημος (*Nikodēmos*, "vitória do povo") é grego, mas isso não indica necessariamente identidade helenística — nomes gregos eram comuns entre judeus na Palestina do século I (cf. André, Filipe, Estêvão). Uma inscrição em ossuário com o nome "Nakdimon" foi encontrada em Jerusalém, e fontes rabínicas mencionam uma figura jerusalemita rica chamada Nakdimon ben Gorion (b. Gittin 56a, b. Ta'anit 19b–20a), embora a identificação com o Nicodemos joanino seja especulativa. Sua vinda "à noite" (νυκτός, *nyktos*) gerou explicações concorrentes: (1) ele temia associação pública com Jesus; (2) a noite era o horário costumeiro para estudo da Torá (cf. Josué 1:8); (3) "noite" carrega peso simbólico no motivo joanino de luz/trevas (cf. 9:4, 11:10, 13:30 — "e era noite"). Essas leituras não são mutuamente excludentes. Nicodemos reaparece em 7:50–52 (defendendo o devido processo diante do Sinédrio) e 19:39 (trazendo especiarias para o sepultamento do corpo de Jesus).
+Nicodemos é identificado como um perushi e "um líder dos Yehudim" (ἄρχων τῶν Ἰουδαίων, *archōn tōn Ioudaiōn*) — provavelmente membro do Sinédrio, o conselho de setenta e um anciãos que servia como o corpo judicial e legislativo supremo na Yehudeia sob supervisão romana. O nome Νικόδημος (*Nikodēmos*, "vitória do povo") é grego, mas isso não indica necessariamente identidade helenística — nomes gregos eram comuns entre judeus na Palestina do século I (cf. André, Filipe, Estêvão). Uma inscrição em ossuário com o nome "Nakdimon" foi encontrada em Jerusalém, e fontes rabínicas mencionam uma figura jerusalemita rica chamada Nakdimon ben Gorion (b. Gittin 56a, b. Ta'anit 19b–20a), embora a identificação com o Nicodemos joanino seja especulativa. Sua vinda "à noite" (νυκτός, *nyktos*) gerou explicações concorrentes: (1) ele temia associação pública com Jesus; (2) a noite era o horário costumeiro para estudo da Torá (cf. Josué 1:8); (3) "noite" carrega peso simbólico no motivo joanino de luz/trevas (cf. 9:4, 11:10, 13:30 — "e era noite"). Essas leituras não são mutuamente excludentes. Nicodemos reaparece em 7:50–52 (defendendo o devido processo diante do Sinédrio) e 19:39 (trazendo especiarias para o sepultamento do corpo de Jesus).
 
 **Fonte:** Bauckham, R., "Nicodemus and the Gurion Family," *Journal of Theological Studies* 47 (1996): 1–37; Meier, J.P., *A Marginal Jew*, vol. 1, Doubleday, 1991.
 
@@ -140,7 +140,7 @@ João 3:30: ἐκεῖνον δεῖ αὐξάνειν, ἐμὲ δὲ ἐλατ
 
 ## I. O Mundo na Época
 
-> **Para o contexto completo, veja o companheiro de João 1 Seção I.** O contexto histórico completo em duas categorias de dez categorias (Político, Economia, Vida Cotidiana, Estrutura Social, Educação, Militar, Artes, Ciência, Religião, Povos Vizinhos) está disponível no companheiro de João 1 (`pt-br/john/study/CHAPTER-1-CONTEXT.md`). As entradas abaixo abordam as circunstâncias históricas específicas destacadas em João 3.
+> **Para o contexto completo, veja o companheiro de João 1 Seção I.** O contexto histórico completo em duas categorias de dez categorias (Político, Economia, Vida Cotidiana, Estrutura Social, Educação, Militar, Artes, Ciência, Religião, Povos Vizinhos) está disponível no material de estudo de João 1 (Aprofundar). As entradas abaixo abordam as circunstâncias históricas específicas destacadas em João 3.
 
 ---
 
@@ -226,6 +226,4 @@ A rica diversidade de práticas de imersão documentada no contexto de João 3 (
 ---
 
 **Proveniência editorial:**
-- Redigido por: Claude Opus 4.6 (assistente de IA)
-- Data: 2026-04-27
-- Revisado por: pendente
+- Rascunho assistido por IA, ainda não revisado.

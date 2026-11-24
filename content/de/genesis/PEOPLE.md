@@ -47,7 +47,7 @@ Diese Datei enthält biografische und genealogische Informationen über Personen
 **Jahr seit der Schöpfung:** 0 (per Definition, AM 1 nach MT-Rechnung)
 **Jahr seit der Schöpfung — Ende:** 930
 
-**Anmerkung:** Der Text verwendet *ha-adam* (der Mensch, mit Artikel) durch Gen 2–4. Der Übergang zum Eigennamen „Adam" (ohne Artikel) erfolgt bei Gen 4:25 und ist bei 5:1 fixiert. Siehe Eintrag 081 im Redaktionsprotokoll.
+**Anmerkung:** Der Text verwendet *ha-adam* (der Mensch, mit Artikel) durch Gen 2–4. Der Übergang zum Eigennamen „Adam" (ohne Artikel) erfolgt bei Gen 4:25 und ist bei 5:1 fixiert.
 
 ---
 
@@ -911,4 +911,4 @@ Alle Daten AM, nach Arithmetik des Masoretischen Textes.
 - **Kommentare:** Westermann, C., *Genesis 1–11* (Augsburg, 1984); Hamilton, V., *The Book of Genesis* (NICOT, 1990); Wenham, G., *Genesis 1–15* (WBC, 1987).
 - **Chronologie:** Hasel, G., "The Meaning of the Chronogenealogies of Genesis 5 and 11," *Origins* 7 (1980): 53–70.
 
-> **Redaktionelle Herkunft:** Entworfen von Claude Opus 4.6 (1M Kontext) am 2026-04-27. Noch nicht begutachtet. Diese Datei ist eine provisorische wissenschaftliche Ressource, geregelt durch TT-Regel 29.
+> **Redaktionelle Herkunft:** KI-gestützter Entwurf, noch nicht geprüft. Diese Datei ist eine provisorische wissenschaftliche Ressource, geregelt durch TT-Regel 29.

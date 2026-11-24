@@ -194,7 +194,7 @@ La orden de Herodes de matar a niños "de dos años para abajo, conforme al tiem
 
 ## I. El Mundo en Esa Época
 
-> **Referencia cruzada:** Para el contexto mundial completo de dos escenarios y diez categorías (Político, Economía, Vida Cotidiana, Estructura Social, Educación, Militar, Artes, Ciencia, Religión, Pueblos Vecinos), véase el compañero de Juan 1 (Sección I, `es/john/study/CHAPTER-1-CONTEXT.md`). Para el contexto completo, vea el compañero de Juan 1 Sección I. Las entradas siguientes abordan las circunstancias históricas específicas que aparecen en primer plano en Mateo 2.
+> **Referencia cruzada:** Para el contexto mundial completo de dos escenarios y diez categorías (Político, Economía, Vida Cotidiana, Estructura Social, Educación, Militar, Artes, Ciencia, Religión, Pueblos Vecinos), véase el material de estudio de Juan 1 (Profundizar), Sección I. Para el contexto completo, vea el compañero de Juan 1 Sección I. Las entradas siguientes abordan las circunstancias históricas específicas que aparecen en primer plano en Mateo 2.
 
 ---
 
@@ -274,6 +274,4 @@ Los refugiados judíos post-70 leerían la narrativa de la huida a Egipto con co
 ---
 
 **Procedencia editorial:**
-- Redactado por: IA (Claude, Anthropic)
-- Fecha: 27-04-2026
-- Revisado por: pendiente
+- Borrador asistido por IA, aún no revisado.

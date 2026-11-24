@@ -21,7 +21,7 @@
 - [Fortlaufende Lesung](#fortlaufende-lesung)
 - [Vers-für-Vers-Studie](#vers-für-vers-studie)
 - [Glossar — 1. Petrus 1](#glossar--1-petrus-1)
-- [Kapitelübergreifende Verfolgung (HB -> 1. Petrus)](#kapitelübergreifende-verfolgung-hb--1-petrus)
+- [Kapitelübergreifende Verfolgung (HB → 1. Petrus)](#kapitelübergreifende-verfolgung-hb--1-petrus)
 
 ---
 
@@ -36,7 +36,7 @@
 
 Notizen sind nach Typ gekennzeichnet — **Kritisch · Lexikalisch · Grammatisch · Theologisch** — jeweils mit ihrer Farbe (siehe die Legende oben in der Notizen-Ansicht).
 
-**Dies ist die Eröffnung des 1. Petrusbriefes — des ersten *Briefes* des Korpus.** Es ist ein Rundbrief an zerstreute Gläubige — „erwählte Fremdlinge der Zerstreuung" — über fünf Provinzen Kleinasiens hin (1,1, Provinzen, die sich mit der Pilgerliste von Apg 2,9 überschneiden). Kapitel 1 enthält die brieflichen **Grußworte** (V.1-2), dann einen einzigen, aufschwingenden griechischen Satz des **Lobpreises** (V.3-12) über die Wiedergeburt, die lebendige Hoffnung, das unvergängliche Erbe und die Rettung, die die Propheten erforschten; dann die ersten **Ermahnungen** — zur Heiligkeit (V.13-21) und zur Liebe aus reinem Herzen (V.22-25). **Hinweis zur Redemarkierung (Regel 30):** Der 1. Petrusbrief ist die Ermahnung des Apostels in seiner eigenen Stimme — es gibt keine erzählte göttliche Rede; nur Gottes Wort in der ersten Person *innerhalb* eines alttestamentlichen Zitats ist markiert (1,16, „ich bin heilig", aus Levitikus). Eigennamen folgen der TT-Transliteration: Kefa (Petrus), Yeshua (Jesus).
+**Dies ist die Eröffnung des 1. Petrusbriefes — des ersten *Briefes* des Korpus.** Es ist ein Rundbrief an zerstreute Gläubige — „erwählte Fremdlinge der Zerstreuung" — über fünf Provinzen Kleinasiens hin (1,1, Provinzen, die sich mit der Pilgerliste von Apg 2,9 überschneiden). Kapitel 1 enthält die brieflichen **Grußworte** (V.1-2), dann einen einzigen, aufschwingenden griechischen Satz des **Lobpreises** (V.3-12) über die Wiedergeburt, die lebendige Hoffnung, das unvergängliche Erbe und die Rettung, die die Propheten erforschten; dann die ersten **Ermahnungen** — zur Heiligkeit (V.13-21) und zur Liebe aus reinem Herzen (V.22-25). **Hinweis zur Redemarkierung (Regel 30):** Der 1. Petrusbrief ist die Ermahnung des Apostels in seiner eigenen Stimme — es gibt keine erzählte göttliche Rede, und auch Gottes Wort in der ersten Person *innerhalb* eines alttestamentlichen Zitats (1,16, „ich bin heilig", aus Levitikus) ist nicht markiert: Es wird mit „es steht geschrieben" eingeführt, also zitiert ein menschlicher Sprecher. Namen erscheinen in der vertrauten Form; die ursprachliche Form steht einmal pro Abschnitt — z. B. Kefa (Petrus).
 
 ---
 
@@ -46,7 +46,7 @@ Notizen sind nach Typ gekennzeichnet — **Kritisch · Lexikalisch · Grammatisc
 
 **Zentrale Themen:** Die briefliche Grußformel und die dreifach geprägte Erwählung (Vorkenntnis des Vaters / Heiligung des Wind/Geistes / Besprengung mit dem Blut); die **Wiedergeburt (anagennaō)** zu einer lebendigen Hoffnung; das unvergängliche Erbe, „aufbewahrt in den Himmeln"; der geprüfte Glaube, kostbarer als Gold, geläutert durch Feuer; die Liebe zu einem ungesehenen Herrn; die Propheten und der „Wind/Geist des Messias", die das Muster Leiden-dann-Herrlichkeiten vorhersagten; der Ruf zur Heiligkeit, gegründet in Gottes eigener Heiligkeit (Levitikus); der **Loskauf** durch das Blut des Messias, das Lamm ohne Fehl, zuvor erkannt vor der Grundlegung der Welt; die Identität der Leser als **Fremdlinge/Beisassen (paroikia)**, die in ehrfürchtiger Furcht leben; die Wiedergeburt durch das lebendige, bleibende Wort, gestellt gegen das Verwelken alles Fleisches (Jesaja 40).
 
-**Achten Sie auf:** Dies ist ein Brief — V.3-12 sind im Griechischen ein einziger Periodensatz; die TT behält seine untergeordnete, in der Schwebe gehaltene Struktur. Die drei Wendungen der Grußformel (V.1-2) tragen eine dreifache Gestalt; die TT gibt das Griechische wieder, ohne spätere dogmatische Begrifflichkeit hineinzutragen (Regel 3). *Pneuma* behält den Wind/Geist-Schrägstrich (1,2.11.12). In 1,11 ist „der Wind/Geist des Messias" in den Propheten eine bemerkenswerte Aussage — wiedergegeben, wie das Griechische sie hat. Das Levitikus-Zitat (1,16) ist Gottes Wort in der ersten Person — markiert @@…@@. In 1,25 (Jesaja 40,8) liest die Quelle „unser Gott" (hebräisch und LXX); das *kyrios* des 1. Petrusbriefs („der Herr", Option C) ist eine eigene Ersetzung des Briefes. „Fremdlinge… Zerstreuung… Fremdlingschaft" (*parepidēmoi / diaspora / paroikia*) ist das Identitäts-Stichwort des Briefes — wörtlich beibehalten.
+**Achten Sie auf:** Dies ist ein Brief — V.3-12 sind im Griechischen ein einziger Periodensatz; die TT behält seine untergeordnete, in der Schwebe gehaltene Struktur. Die drei Wendungen der Grußformel (V.1-2) tragen eine dreifache Gestalt; die TT gibt das Griechische wieder, ohne spätere dogmatische Begrifflichkeit hineinzutragen (Regel 3). *Pneuma* behält den Wind/Geist-Schrägstrich (1,2.11.12). In 1,11 ist „der Wind/Geist des Messias" in den Propheten eine bemerkenswerte Aussage — wiedergegeben, wie das Griechische sie hat. Das Levitikus-Zitat (1,16) ist Gottes Wort in der ersten Person, eingeführt mit „es steht geschrieben" — daher nicht markiert (Regel 30). In 1,25 (Jesaja 40,8) liest die Quelle „unser Gott" (hebräisch und LXX); das *kyrios* des 1. Petrusbriefs („der Herr", Option C) ist eine eigene Ersetzung des Briefes. „Fremdlinge… Zerstreuung… Fremdlingschaft" (*parepidēmoi / diaspora / paroikia*) ist das Identitäts-Stichwort des Briefes — wörtlich beibehalten.
 
 **Verbindung:** Das Kapitel ist von der Hebräischen Bibel durchdrungen. „Seid heilig, denn ich bin heilig" (1,16) zitiert Levitikus 11,44-45; 19,2 — das Heiligkeitsgesetz, das Israels Berufung begründet, jetzt auf die zerstreuten Gläubigen angewandt. „Umgürtet die Lenden" (1,13) klingt an die Exodus-Haltung (Ex 12,11) und an die Propheten an. Der Loskauf durch ein „Lamm ohne Fehl" (1,19) greift auf das Passalamm (Ex 12) und das Opfergesetz (Lev) zurück. „Alles Fleisch ist Gras… das Wort des Herrn bleibt" (1,24-25) zitiert Jesaja 40,6-8 — die Eröffnung der Trostprophezeiungen, dasselbe Jesaja 40, das Johannes den Täufer in den Evangelien einrahmt. Die Sprache der „Zerstreuung" (diaspora) versetzt die Leser in Israels Exil-Identität.
 
@@ -64,7 +64,7 @@ Notizen sind nach Typ gekennzeichnet — **Kritisch · Lexikalisch · Grammatisc
 
 ¹⁰Über diese Rettung haben *die* Propheten gesucht und *sorgfältig* nachgeforscht, die über die Gnade weissagten, die *zu* euch *kommt*, ¹¹und forschten, auf welche oder was für eine Zeit der {a:Wind/Geist} *des* Messias in ihnen hindeutete, der zuvor von den Leiden zeugte, die *für* den Messias *bestimmt waren*, und von den Herrlichkeiten danach. ¹²Ihnen wurde offenbart, dass sie nicht sich selbst, sondern euch diese *Dinge* dienten, die euch jetzt verkündigt worden sind durch die, die euch die gute Botschaft predigten durch *den* heiligen {a:Wind/Geist}, gesandt vom Himmel — in welche *Dinge* die Boten zu schauen begehren.
 
-¹³Darum, nachdem ihr die Lenden eurer Gesinnung umgürtet habt, seid nüchtern und setzt eure Hoffnung völlig auf die Gnade, die euch gebracht wird bei *der* Offenbarung Yeshuas *des* Messias (Jesus). ¹⁴Als Kinder des Gehorsams, euch nicht gleichgestaltend den früheren Begierden, *die ihr* in eurer Unwissenheit *hattet*, ¹⁵sondern wie der Heilige, der euch berufen hat, so seid auch ihr selbst heilig in *eurem* ganzen Wandel, ¹⁶denn es steht geschrieben: @@"Seid heilig, denn ich *bin* heilig."@@ ¹⁷Und wenn ihr *als* Vater den anruft, der unparteiisch richtet nach eines jeden Werk, so wandelt in Furcht *während* der Zeit eurer Fremdlingschaft, ¹⁸da ihr wisst, dass ihr nicht mit vergänglichen *Dingen* — Silber oder Gold — losgekauft worden seid aus eurem nichtigen, von *den* Vätern überlieferten Wandel, ¹⁹sondern mit *dem* kostbaren Blut, wie *von* einem Lamm ohne Fehl und ohne Flecken, *dem* des Messias, ²⁰zuvor erkannt vor *der* Grundlegung *der* Welt, aber offenbart in *der* letzten der Zeiten für euch, ²¹die ihr durch ihn *gläubig seid* an Gott, der ihn von *den* Toten auferweckt und ihm Herrlichkeit gegeben hat, sodass euer Glaube und *eure* Hoffnung auf Gott *gerichtet* sind.
+¹³Darum, nachdem ihr die Lenden eurer Gesinnung umgürtet habt, seid nüchtern und setzt eure Hoffnung völlig auf die Gnade, die euch gebracht wird bei *der* Offenbarung Yeshuas *des* Messias (Jesus). ¹⁴Als Kinder des Gehorsams, euch nicht gleichgestaltend den früheren Begierden, *die ihr* in eurer Unwissenheit *hattet*, ¹⁵sondern wie der Heilige, der euch berufen hat, so seid auch ihr selbst heilig in *eurem* ganzen Wandel, ¹⁶denn es steht geschrieben: "Seid heilig, denn ich *bin* heilig." ¹⁷Und wenn ihr *als* Vater den anruft, der unparteiisch richtet nach eines jeden Werk, so wandelt in Furcht *während* der Zeit eurer Fremdlingschaft, ¹⁸da ihr wisst, dass ihr nicht mit vergänglichen *Dingen* — Silber oder Gold — losgekauft worden seid aus eurem nichtigen, von *den* Vätern überlieferten Wandel, ¹⁹sondern mit *dem* kostbaren Blut, wie *von* einem Lamm ohne Fehl und ohne Flecken, *dem* des Messias, ²⁰zuvor erkannt vor *der* Grundlegung *der* Welt, aber offenbart in *der* letzten der Zeiten für euch, ²¹die ihr durch ihn *gläubig seid* an Gott, der ihn von *den* Toten auferweckt und ihm Herrlichkeit gegeben hat, sodass euer Glaube und *eure* Hoffnung auf Gott *gerichtet* sind.
 
 ²²Da ihr eure Seelen gereinigt habt im Gehorsam der Wahrheit zu ungeheuchelter Bruderliebe, so liebt einander beharrlich aus reinem Herzen, ²³wiedergezeugt nicht aus vergänglichem Samen, sondern aus unvergänglichem, durch *das* lebendige und bleibende Wort Gottes. ²⁴Denn „alles Fleisch *ist* wie Gras, und alle seine Herrlichkeit wie *die* Blume des Grases; das Gras verdorrte, und die Blume fiel ab, ²⁵aber das Wort *des* Herrn bleibt in Ewigkeit." Und dies ist das Wort, das euch als gute Botschaft verkündigt wurde.
 
@@ -90,7 +90,7 @@ nach *der* Vorkenntnis Gottes *des* Vaters, in Heiligung *des* {a:Wind/Geist}, z
 > **Notizen**
 >
 > 🔴 **KRITISCH — DIE DREIFACH GEPRÄGTE ERWÄHLUNG (die Crux der Grußformel)**
-> - Drei Wendungen bestimmen die Erwählung: **κατὰ πρόγνωσιν θεοῦ πατρός** („nach *der* Vorkenntnis Gottes *des* Vaters"), **ἐν ἁγιασμῷ πνεύματος** („in Heiligung *des* {a:Wind/Geist}"), **εἰς ὑπακοὴν καὶ ῥαντισμὸν αἵματος** („zum Gehorsam und zur Besprengung *mit dem* Blut"). Die TT gibt die griechische Struktur Vater/Wind-Geist/Blut wieder, **ohne die spätere dogmatische Begrifflichkeit** „die Dreieinigkeit" hineinzutragen (Regel 3). **ῥαντισμὸν αἵματος** („Besprengung mit Blut") klingt an das Bundesritual an (Ex 24,8). → Siehe den Eintrag im Redaktionslog (1-peter.md P-008) und Begleitmaterial §A.
+> - Drei Wendungen bestimmen die Erwählung: **κατὰ πρόγνωσιν θεοῦ πατρός** („nach *der* Vorkenntnis Gottes *des* Vaters"), **ἐν ἁγιασμῷ πνεύματος** („in Heiligung *des* {a:Wind/Geist}"), **εἰς ὑπακοὴν καὶ ῥαντισμὸν αἵματος** („zum Gehorsam und zur Besprengung *mit dem* Blut"). Die TT gibt die griechische Struktur Vater/Wind-Geist/Blut wieder, **ohne die spätere dogmatische Begrifflichkeit** „die Dreieinigkeit" hineinzutragen (Regel 3). **ῥαντισμὸν αἵματος** („Besprengung mit Blut") klingt an das Bundesritual an (Ex 24,8). → Begleitmaterial §A.
 >
 > 🔵 **„GNADE UND FRIEDE SEIEN EUCH VERMEHRT" — *PLĒTHYNTHEIĒ***
 > - **χάρις ὑμῖν καὶ εἰρήνη πληθυνθείη** (*charis… eirēnē plēthyntheiē*) = der briefliche Gesundheitswunsch, Optativ („möge es vermehrt werden"). *Charis* (Gnade/Gunst) + *eirēnē* (Friede, hebräisch *shalom*) — der griechisch-römische *chairein*-Gruß umgeprägt.
@@ -242,12 +242,12 @@ sondern wie der Heilige, der euch berufen hat, so seid auch ihr selbst heilig in
 
 ### **Vers 16**
 
-denn es steht geschrieben: @@"Seid heilig, denn ich *bin* heilig."@@
+denn es steht geschrieben: "Seid heilig, denn ich *bin* heilig."
 
 > **Notizen**
 >
 > 🔴 **KRITISCH — LEVITIKUS 11,44-45 / 19,2 (göttliche Rede in der ersten Person)**
-> - **Ἅγιοι ἔσεσθε, ὅτι ἐγὼ ἅγιος** (*Hagioi esesthe, hoti egō hagios*) = „Seid heilig, denn ich *bin* heilig" — ein Zitat von Gottes eigenem Wort in der ersten Person in Levitikus (11,44-45; 19,2; 20,7), daher mit **@@…@@** markiert (Regel 30 / A-004). Die Heiligkeit, die Israels Berufung begründet, wird auf die zerstreuten Gläubigen angewandt. Die Kopula *bin* ist kursiv ergänzt (das Griechische ist verblos). → Begleitmaterial §A; PROPHETIE (Lev → 1 Petr 1,16).
+> - **Ἅγιοι ἔσεσθε, ὅτι ἐγὼ ἅγιος** (*Hagioi esesthe, hoti egō hagios*) = „Seid heilig, denn ich *bin* heilig" — ein Zitat von Gottes eigenem Wort in der ersten Person in Levitikus (11,44-45; 19,2; 20,7), eingeführt mit „es steht geschrieben", also zitiert ein menschlicher Sprecher, und es ist nicht markiert (Regel 30). Die Heiligkeit, die Israels Berufung begründet, wird auf die zerstreuten Gläubigen angewandt. Die Kopula *bin* ist kursiv ergänzt (das Griechische ist verblos). → Begleitmaterial §A; PROPHETIE (Lev → 1 Petr 1,16).
 
 ---
 
@@ -258,7 +258,7 @@ Und wenn ihr *als* Vater den anruft, der unparteiisch richtet nach eines jeden W
 > **Notizen**
 >
 > 🔵 **„DIE ZEIT EURER FREMDLINGSCHAFT" — *PAROIKIAS***
-> - **τὸν τῆς παροικίας ὑμῶν χρόνον** (*ton tēs paroikias hymōn chronon*) = „die Zeit eurer Fremdlingschaft / eures Aufenthalts als Fremde." *Paroikia* (der Status des ansässigen Fremden) verstärkt die Exil-Identität von 1,1. Gott richtet **ἀπροσωπολήμπτως** („ohne Ansehen der Person / nicht das Angesicht aufnehmend") — die ehrfürchtige Furcht der Stufe 1, kein Erschrecken.
+> - **τὸν τῆς παροικίας ὑμῶν χρόνον** (*ton tēs paroikias hymōn chronon*) = „die Zeit eurer Fremdlingschaft / eures Aufenthalts als Fremde." *Paroikia* (der Status des ansässigen Fremden) verstärkt die Exil-Identität von 1,1. Gott richtet **ἀπροσωπολήμπτως** („ohne Ansehen der Person / nicht das Angesicht aufnehmend") — die „Furcht" der Übersetzung ist ehrfürchtige Furcht, kein Erschrecken.
 
 ---
 
@@ -368,7 +368,7 @@ aber das Wort *des* Herrn bleibt in Ewigkeit." Und dies ist das Wort, das euch a
 
 ---
 
-## Kapitelübergreifende Verfolgung (HB -> 1. Petrus)
+## Kapitelübergreifende Verfolgung (HB → 1. Petrus)
 
 | HB / frühere Quelle | Thema | In 1. Petrus 1 |
 |---------------------|-------|--------------|

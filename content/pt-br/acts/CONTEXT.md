@@ -101,6 +101,4 @@ Um motivo de restauração, carregado pela família de palavras *apokathistēmi*
 ---
 
 **Proveniência editorial:**
-- Redigido por: IA (Claude, Anthropic)
-- Data: 2026-06-24
-- Revisado por: pendente
+- Rascunho assistido por IA, ainda não revisado.

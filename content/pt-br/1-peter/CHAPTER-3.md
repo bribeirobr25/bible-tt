@@ -22,7 +22,7 @@
 - [Leitura Contínua](#leitura-contínua)
 - [Estudo Verso a Verso](#estudo-verso-a-verso)
 - [Glossário — 1 Pedro 3](#glossário--1-pedro-3)
-- [Rastreamento entre Capítulos (BH -> 1 Pedro)](#rastreamento-entre-capítulos-bh---1-pedro)
+- [Rastreamento entre Capítulos (BH → 1 Pedro)](#rastreamento-entre-capítulos-bh---1-pedro)
 
 ---
 
@@ -37,7 +37,7 @@
 
 As notas são marcadas por tipo — **Crítico · Lexical · Gramatical · Teológico** — cada uma com sua cor (veja a legenda no topo da visão de Notas).
 
-**Este é o capítulo mais carregado interpretativamente da carta.** Ele completa o **código doméstico** com esposas e maridos (vv.1-7) — uma passagem de alta restrição — depois se volta para a conduta de todos (vv.8-12, encerrando com o Salmo 34), para o sofrimento pela justiça e o "sempre prontos para uma defesa" (vv.13-17), e finalmente para o **parágrafo mais debatido da carta**: o sofrimento do Messias, o seu ser "vivificado em espírito," a sua proclamação "aos espíritos em prisão," a arca de Noé, e o batismo como antítipo (vv.18-22). **Nota sobre marcação de fala (Regra 30):** não há fala divina narrada aqui; a citação do Salmo 34 (vv.10-12) é a voz do salmista, não a primeira pessoa de Deus — não marcada. **Passagens de alta restrição** (o código doméstico vv.1-7; os espíritos em prisão vv.19-20; o batismo v.21): a TT traduz o grego e sinaliza as opções interpretativas no Nível 2, não resolvendo nenhuma (Regra 3; editorial-log P-006, P-007, P-009). Nomes: Sarah (Sara), Avraham (Abraão), Noach (Noé).
+**Este é o capítulo mais carregado interpretativamente da carta.** Ele completa o **código doméstico** com esposas e maridos (vv.1-7) — uma passagem de alta restrição — depois se volta para a conduta de todos (vv.8-12, encerrando com o Salmo 34), para o sofrimento pela justiça e o "sempre prontos para uma defesa" (vv.13-17), e finalmente para o **parágrafo mais debatido da carta**: o sofrimento do Messias, o seu ser "vivificado em espírito," a sua proclamação "aos espíritos em prisão," a arca de Noé, e o batismo como antítipo (vv.18-22). **Nota sobre marcação de fala (Regra 30):** não há fala divina narrada aqui; a citação do Salmo 34 (vv.10-12) é a voz do salmista, não a primeira pessoa de Deus — não marcada. **Passagens de alta restrição** (o código doméstico vv.1-7; os espíritos em prisão vv.19-20; o batismo v.21): a TT traduz o grego e sinaliza as opções interpretativas nas notas, não resolvendo nenhuma (Regra 3). Nomes: Sarah (Sara), Avraham (Abraão), Noach (Noé).
 
 ---
 
@@ -47,7 +47,7 @@ As notas são marcadas por tipo — **Crítico · Lexical · Gramatical · Teol�
 
 **Temas-chave:** O segundo painel do **código doméstico** (esposas/maridos) — ganho "sem palavra" pela conduta; "a pessoa oculta do coração" sobre o adorno exterior; Sara como exemplar; maridos honrando as esposas como "co-herdeiras da graça da vida" (uma notável afirmação de dignidade dentro do código); a ética da **não retaliação** ("não mal por mal… mas bendizei"), fundamentada no Salmo 34; o sofrimento pela justiça como bênção; "santificai o Messias como Senhor" (Isaías 8:13 reaplicado a Cristo); a **apologia** — a prontidão para dar a razão da esperança com mansidão e reverência; e os densos e debatidos **vv.18-22**: o sofrimento de uma vez por todas do justo pelos injustos; a antítese carne/espírito; a **proclamação aos espíritos em prisão**; **a arca de Noé e as oito almas salvas através da água**; **o batismo como antítipo** ("não a remoção da sujeira mas um apelo de uma boa consciência"); a exaltação do Messias sobre todas as potestades.
 
-**Observe:** O **código doméstico (vv.1-7)** é uma passagem de alta restrição — a TT traduz o grego (esposas se submetem; "vaso mais fraco"; Sara "chamando-o senhor") e sinaliza a história de recepção nas notas, sem tomar posição (Regra 3; P-009). Note a **mutualidade** que o código já carrega: maridos honram as esposas como "co-herdeiras," "para que as vossas orações não sejam impedidas." **3:15** "santificai o Messias como Senhor" reaplica Isaías 8:13 ("o SENHOR dos exércitos… santificai-o") ao Messias — uma mudança de referente de κύριος, sinalizada. **Os vv.18-22** são o centro da tempestade exegética da carta: o dativo **πνεύματι** (3:18, "em/por espírito") é a crux carne/espírito; **"os espíritos em prisão"** (3:19) admite várias leituras (os mortos dos dias de Noé / os anjos desobedientes de Gênesis 6 / uma proclamação de descida) — a TT traduz literalmente e não resolve nenhuma (P-006); **o batismo "agora vos salva… como antítipo"** (3:21) com "apelo/penhor de uma boa consciência" é traduzido sem importar uma teologia sacramental (P-007). A citação do Salmo 34 (vv.10-12) é a voz do salmista — não marcada; *kyrios* aí = YHWH (Opção C).
+**Observe:** O **código doméstico (vv.1-7)** é uma passagem de alta restrição — a TT traduz o grego (esposas se submetem; "vaso mais fraco"; Sara "chamando-o senhor") e sinaliza a história de recepção nas notas, sem tomar posição (Regra 3). Note a **mutualidade** que o código já carrega: maridos honram as esposas como "co-herdeiras," "para que as vossas orações não sejam impedidas." **3:15** "santificai o Messias como Senhor" reaplica Isaías 8:13 ("o SENHOR dos exércitos… santificai-o") ao Messias — uma mudança de referente de κύριος, sinalizada. **Os vv.18-22** são o centro da tempestade exegética da carta: o dativo **πνεύματι** (3:18, "em/por espírito") é a crux carne/espírito; **"os espíritos em prisão"** (3:19) admite várias leituras (os mortos dos dias de Noé / os anjos desobedientes de Gênesis 6 / uma proclamação de descida) — a TT traduz literalmente e não resolve nenhuma; **o batismo "agora vos salva… como antítipo"** (3:21) com "apelo/penhor de uma boa consciência" é traduzido sem importar uma teologia sacramental. A citação do Salmo 34 (vv.10-12) é a voz do salmista — não marcada; *kyrios* aí = YHWH (Opção C).
 
 **Conexão:** Sara e Avraham (vv.5-6) se valem de Gênesis (18:12, a deferência de Sara); "não temais terror algum" ecoa Provérbios 3:25. A ética da não retaliação e o Salmo 34:12-16 (vv.10-12) estendem o fio do Salmo 34 iniciado em 2:3. "Não temais o temor deles… santificai [o Senhor]" (vv.14-15) cita Isaías 8:12-13 — onde "o SENHOR dos exércitos" é aquele a ser santificado, aqui reaplicado ao Messias. Os espíritos em prisão e a arca (vv.19-20) se valem de Gênesis 6-8 (o dilúvio, os oito na arca) e da tradição enóquica do Segundo Templo dos "vigilantes" aprisionados (1 Enoque). O batismo "através da água" como antítipo do dilúvio (v.21) lê o dilúvio tipologicamente. A exaltação "à direita de Deus" com potestades sujeitas (v.22) ecoa o Salmo 110:1 (o versículo da BH mais citado, como em Atos 2).
 
@@ -77,8 +77,8 @@ Igualmente, esposas, *estai* submissas aos *vossos* próprios maridos, para que,
 
 > **Notas**
 >
-> 🔴 **CRÍTICO — O CÓDIGO DOMÉSTICO: ESPOSAS (alta restrição, P-009)**
-> - **γυναῖκες, ὑποτασσόμεναι τοῖς ἰδίοις ἀνδράσιν** (*gynaikes, hypotassomenai tois idiois andrasin*) = "esposas, *estai* submissas aos *vossos* próprios maridos." "**Igualmente** (*homoiōs*)" liga-se aos servos de 2:18 — o segundo painel do código doméstico. O alvo pastoral é missionário: um marido "**incrédulo**" (que "desobedece à palavra") "pode ser ganho (**κερδηθήσονται**) **sem palavra**" — pela conduta (*anastrophē*) da esposa, não por argumento. A TT traduz o grego e **sinaliza a história interpretativa no Nível 2 / no companheiro, sem tomar posição** (Regra 3). → editorial-log P-009; Companheiro §F (recepção).
+> 🔴 **CRÍTICO — O CÓDIGO DOMÉSTICO: ESPOSAS (alta restrição)**
+> - **γυναῖκες, ὑποτασσόμεναι τοῖς ἰδίοις ἀνδράσιν** (*gynaikes, hypotassomenai tois idiois andrasin*) = "esposas, *estai* submissas aos *vossos* próprios maridos." "**Igualmente** (*homoiōs*)" liga-se aos servos de 2:18 — o segundo painel do código doméstico. O alvo pastoral é missionário: um marido "**incrédulo**" (que "desobedece à palavra") "pode ser ganho (**κερδηθήσονται**) **sem palavra**" — pela conduta (*anastrophē*) da esposa, não por argumento. A TT traduz o grego e **sinaliza a história interpretativa nas notas / no companheiro, sem tomar posição** (Regra 3). → Companheiro §F (recepção).
 
 ---
 
@@ -143,8 +143,8 @@ Maridos, igualmente, habitando juntos *com elas* segundo o conhecimento, como co
 
 > **Notas**
 >
-> 🔴 **CRÍTICO — MARIDOS: "VASO MAIS FRACO" + "CO-HERDEIRAS" (P-009)**
-> - **ὡς ἀσθενεστέρῳ σκεύει τῷ γυναικείῳ, ἀπονέμοντες τιμήν** = "como com um **vaso mais fraco** — o feminino — atribuindo **honra**." O código se dirige também aos maridos: habitar "segundo o conhecimento (**κατὰ γνῶσιν**)," atribuir honra, reconhecendo a esposa como **co-herdeira (συγκληρονόμος) da graça da vida** — uma notável afirmação de dignidade e igualdade *dentro* do código. "**Vaso mais fraco**" (*asthenesteron skeuos*) é traduzido literalmente (provavelmente situado social/fisicamente, não uma afirmação de valor — a mesma frase a chama de co-herdeira); a história interpretativa é sinalizada, sem tomar posição (Regra 3, P-009). A sanção é severa: **"para que as vossas orações não sejam impedidas (**ἐγκόπτεσθαι**)."** → editorial-log P-009; Companheiro §F.
+> 🔴 **CRÍTICO — MARIDOS: "VASO MAIS FRACO" + "CO-HERDEIRAS"**
+> - **ὡς ἀσθενεστέρῳ σκεύει τῷ γυναικείῳ, ἀπονέμοντες τιμήν** = "como com um **vaso mais fraco** — o feminino — atribuindo **honra**." O código se dirige também aos maridos: habitar "segundo o conhecimento (**κατὰ γνῶσιν**)," atribuir honra, reconhecendo a esposa como **co-herdeira (συγκληρονόμος) da graça da vida** — uma notável afirmação de dignidade e igualdade *dentro* do código. "**Vaso mais fraco**" (*asthenesteron skeuos*) é traduzido literalmente (provavelmente situado social/fisicamente, não uma afirmação de valor — a mesma frase a chama de co-herdeira); a história interpretativa é sinalizada, sem tomar posição (Regra 3). A sanção é severa: **"para que as vossas orações não sejam impedidas (**ἐγκόπτεσθαι**)."** → Companheiro §F.
 
 ---
 
@@ -232,7 +232,7 @@ mas santificai *o* Messias como Senhor nos vossos corações, *estando* sempre p
 > **Notas**
 >
 > 🔴 **CRÍTICO — ISAÍAS 8:13 REAPLICADO + A *APOLOGIA***
-> - **κύριον δὲ τὸν Χριστὸν ἁγιάσατε** (*kyrion de ton Christon hagiasate*) = "santificai *o* Messias **como Senhor**." Isaías 8:13 diz "**o SENHOR dos exércitos** (YHWH), **a ele** santificareis"; 1 Pedro substitui o objeto por "o Messias" — uma **mudança de referente de κύριος** aplicando um texto de YHWH a Cristo (Regra 13 + Nível 2; cf. o mesmo movimento em Atos 2:36). **ἀπολογία** (*apologia*) = "defesa, resposta fundamentada" (com som jurídico) — as leitoras estão "**sempre prontas**" para dar a **razão** da sua **esperança** (*elpis*), a fonte do português "apologética." → Companheiro §A; PROFECIA (Is 8:12-13 → 1 Pe 3:14-15).
+> - **κύριον δὲ τὸν Χριστὸν ἁγιάσατε** (*kyrion de ton Christon hagiasate*) = "santificai *o* Messias **como Senhor**." Isaías 8:13 diz "**o SENHOR dos exércitos** (YHWH), **a ele** santificareis"; 1 Pedro substitui o objeto por "o Messias" — uma **mudança de referente de κύριος** aplicando um texto de YHWH a Cristo (Regra 13; cf. o mesmo movimento em Atos 2:36). **ἀπολογία** (*apologia*) = "defesa, resposta fundamentada" (com som jurídico) — as leitoras estão "**sempre prontas**" para dar a **razão** da sua **esperança** (*elpis*), a fonte do português "apologética." → Companheiro §A; PROFECIA (Is 8:12-13 → 1 Pe 3:14-15).
 
 ---
 
@@ -264,8 +264,8 @@ Porque *o* Messias também sofreu uma vez pelos pecados, *o* justo pelos injusto
 
 > **Notas**
 >
-> 🔴 **CRÍTICO — "UMA VEZ PELOS PECADOS… MORTO NA CARNE, VIVIFICADO EM ESPÍRITO" (a crux se abre, P-006)**
-> - **ἅπαξ περὶ ἁμαρτιῶν ἔπαθεν, δίκαιος ὑπὲρ ἀδίκων** = "sofreu **uma vez** (*hapax*) pelos pecados, *o* justo pelos injustos" — o sofrimento vicário, de uma vez por todas (cf. 2:24; Is 53). A crux é o par paralelo de dativos anártricos: **θανατωθεὶς μὲν σαρκὶ ζῳοποιηθεὶς δὲ πνεύματι** = "morto **na carne** (*sarki*) mas vivificado **em espírito** (*pneumati*)." Lido como esferas ("na carne / no espírito") ou como agência ("pelo Espírito"); a TT mantém a barra {a:vento/espírito} e o paralelo carne/espírito, **não resolvendo nenhum** (Regra 13). → editorial-log P-006; Companheiro §A.
+> 🔴 **CRÍTICO — "UMA VEZ PELOS PECADOS… MORTO NA CARNE, VIVIFICADO EM ESPÍRITO" (a crux se abre)**
+> - **ἅπαξ περὶ ἁμαρτιῶν ἔπαθεν, δίκαιος ὑπὲρ ἀδίκων** = "sofreu **uma vez** (*hapax*) pelos pecados, *o* justo pelos injustos" — o sofrimento vicário, de uma vez por todas (cf. 2:24; Is 53). A crux é o par paralelo de dativos anártricos: **θανατωθεὶς μὲν σαρκὶ ζῳοποιηθεὶς δὲ πνεύματι** = "morto **na carne** (*sarki*) mas vivificado **em espírito** (*pneumati*)." Lido como esferas ("na carne / no espírito") ou como agência ("pelo Espírito"); a TT mantém a barra {a:vento/espírito} e o paralelo carne/espírito, **não resolvendo nenhum** (Regra 13). → Companheiro §A.
 
 ---
 
@@ -275,8 +275,8 @@ no qual também, tendo ido, ele proclamou aos espíritos em prisão,
 
 > **Notas**
 >
-> 🔴 **CRÍTICO — "PROCLAMOU AOS ESPÍRITOS EM PRISÃO" (a crux da descida, P-006)**
-> - **ἐν ᾧ καὶ τοῖς ἐν φυλακῇ πνεύμασιν πορευθεὶς ἐκήρυξεν** = "no qual também, tendo ido, ele proclamou (*ekēryxen*) aos **espíritos em prisão**." A cláusula mais debatida da carta. Leituras principais: (a) os **mortos desobedientes da geração de Noé** (v.20); (b) os **anjos/"vigilantes" desobedientes de Gênesis 6** aprisionados (a tradição enóquica, 1 Enoque 6-21; cf. 2 Pe 2:4; Jd 6); (c) o **Cristo pré-encarnado** pregando por meio de Noé. "Espíritos" (*pneumata*) = os seres aprisionados (nenhum sentido de "vento" — traduzido simplesmente "espíritos," não a barra). *Ekēryxen* ("proclamou/anunciou") não especifica o conteúdo (boa nova vs. juízo). A TT traduz literalmente e **não resolve nenhuma** (Regra 13, Regra 3). → editorial-log P-006; Companheiro §A; §F (recepção: a "descida ao inferno").
+> 🔴 **CRÍTICO — "PROCLAMOU AOS ESPÍRITOS EM PRISÃO" (a crux da descida)**
+> - **ἐν ᾧ καὶ τοῖς ἐν φυλακῇ πνεύμασιν πορευθεὶς ἐκήρυξεν** = "no qual também, tendo ido, ele proclamou (*ekēryxen*) aos **espíritos em prisão**." A cláusula mais debatida da carta. Leituras principais: (a) os **mortos desobedientes da geração de Noé** (v.20); (b) os **anjos/"vigilantes" desobedientes de Gênesis 6** aprisionados (a tradição enóquica, 1 Enoque 6-21; cf. 2 Pe 2:4; Jd 6); (c) o **Cristo pré-encarnado** pregando por meio de Noé. "Espíritos" (*pneumata*) = os seres aprisionados (nenhum sentido de "vento" — traduzido simplesmente "espíritos," não a barra). *Ekēryxen* ("proclamou/anunciou") não especifica o conteúdo (boa nova vs. juízo). A TT traduz literalmente e **não resolve nenhuma** (Regra 13, Regra 3). → Companheiro §A; §F (recepção: a "descida ao inferno").
 
 ---
 
@@ -297,8 +297,8 @@ A qual também, *como* antítipo, agora vos salva — a imersão, não uma remo�
 
 > **Notas**
 >
-> 🔴 **CRÍTICO — O BATISMO "AGORA VOS SALVA… COMO ANTÍTIPO" (P-007)**
-> - **ὃ… ἀντίτυπον νῦν σῴζει βάπτισμα** = "A qual também, *como* **antítipo** (*antitypon*), agora vos salva — a **imersão** (*baptisma*)." A água do dilúvio é o tipo; o batismo, o antítipo. O versículo imediatamente qualifica: **οὐ σαρκὸς ἀπόθεσις ῥύπου ἀλλὰ συνειδήσεως ἀγαθῆς ἐπερώτημα εἰς θεόν** = "não uma remoção da sujeira de *a* carne mas um **apelo/penhor** (*eperōtēma*) de uma boa consciência para com Deus." *Eperōtēma* é debatido ("apelo/pedido" vs. "penhor/resposta" — um termo de fórmula batismal); a TT traduz "apelo" e nota a opção. A salvação é **"por meio de *a* ressurreição"** — não a água em si. Traduzido sem importar uma teologia sacramental (Regra 3). → editorial-log P-007; Companheiro §A.
+> 🔴 **CRÍTICO — O BATISMO "AGORA VOS SALVA… COMO ANTÍTIPO"**
+> - **ὃ… ἀντίτυπον νῦν σῴζει βάπτισμα** = "A qual também, *como* **antítipo** (*antitypon*), agora vos salva — a **imersão** (*baptisma*)." A água do dilúvio é o tipo; o batismo, o antítipo. O versículo imediatamente qualifica: **οὐ σαρκὸς ἀπόθεσις ῥύπου ἀλλὰ συνειδήσεως ἀγαθῆς ἐπερώτημα εἰς θεόν** = "não uma remoção da sujeira de *a* carne mas um **apelo/penhor** (*eperōtēma*) de uma boa consciência para com Deus." *Eperōtēma* é debatido ("apelo/pedido" vs. "penhor/resposta" — um termo de fórmula batismal); a TT traduz "apelo" e nota a opção. A salvação é **"por meio de *a* ressurreição"** — não a água em si. Traduzido sem importar uma teologia sacramental (Regra 3). → Companheiro §A.
 
 ---
 
@@ -331,7 +331,7 @@ que está à direita de Deus, tendo ido para o céu, *com* anjos e autoridades e
 
 ---
 
-## Rastreamento entre Capítulos (BH -> 1 Pedro)
+## Rastreamento entre Capítulos (BH → 1 Pedro)
 
 | BH / fonte anterior | Tema | Em 1 Pedro 3 |
 |---------------------|-------|--------------|

@@ -20,7 +20,7 @@
 - [Continuous Reading](#continuous-reading)
 - [Verse-by-Verse Study](#verse-by-verse-study)
 - [Glossary — 1 Peter 1](#glossary--1-peter-1)
-- [Cross-Chapter Tracking (HB -> 1 Peter)](#cross-chapter-tracking-hb--1-peter)
+- [Cross-Chapter Tracking (HB → 1 Peter)](#cross-chapter-tracking-hb--1-peter)
 
 ---
 
@@ -35,7 +35,7 @@
 
 Notes are tagged by type — **Critical · Lexical · Grammatical · Theological** — each shown with its colour (see the legend at the top of the Notes view).
 
-**This is the opening of 1 Peter — the corpus's first *letter*.** It is a circular epistle to scattered believers — "elect exiles of the dispersion" — across five provinces of Asia Minor (1:1, provinces that overlap the Acts 2:9 pilgrim list). Chapter 1 has the epistolary **salutation** (vv.1-2), then a single soaring Greek sentence of **blessing** (vv.3-12) on the new birth, the living hope, the imperishable inheritance, and the salvation the prophets searched out; then the first **exhortations** — to holiness (vv.13-21) and to love from a pure heart (vv.22-25). **Note on speech-marking (Rule 30):** 1 Peter is the apostle's exhortation in his own voice — there is no narrated divine speech; only God's first-person word *inside* an OT citation is marked (1:16, "I am holy," from Leviticus). Proper names follow TT transliteration: Kefa (Peter), Yeshua (Jesus).
+**This is the opening of 1 Peter — the corpus's first *letter*.** It is a circular epistle to scattered believers — "elect exiles of the dispersion" — across five provinces of Asia Minor (1:1, provinces that overlap the Acts 2:9 pilgrim list). Chapter 1 has the epistolary **salutation** (vv.1-2), then a single soaring Greek sentence of **blessing** (vv.3-12) on the new birth, the living hope, the imperishable inheritance, and the salvation the prophets searched out; then the first **exhortations** — to holiness (vv.13-21) and to love from a pure heart (vv.22-25). **Note on speech-marking (Rule 30):** 1 Peter is the apostle's exhortation in his own voice — there is no narrated divine speech, and God's first-person word *inside* an OT citation (1:16, "I am holy," from Leviticus) is not marked either: it is introduced by "it is written," so a human speaker is quoting. Names appear in their familiar form, with the source-language form given once per section — e.g. Kefa (Peter).
 
 ---
 
@@ -45,7 +45,7 @@ Notes are tagged by type — **Critical · Lexical · Grammatical · Theological
 
 **Key themes:** The epistolary salutation and the triune-shaped election (foreknowledge of the Father / sanctification of the wind/spirit / sprinkling of the blood); the **new birth (anagennaō)** into a living hope; the imperishable inheritance "kept in the heavens"; tested faith more precious than gold, refined by fire; loving an unseen Lord; the prophets and the "wind/spirit of the Messiah" foretelling the sufferings-then-glories pattern; the call to holiness grounded in God's own holiness (Leviticus); the **ransom** by the Messiah's blood, the lamb without blemish, foreknown before the world's foundation; the identity of the readers as **exiles/sojourners (paroikia)** living in reverent fear; the new birth through the living, abiding word, set against the withering of all flesh (Isaiah 40).
 
-**Watch for:** This is a letter — vv.3-12 are one periodic sentence in Greek; the TT keeps its subordinated, suspended structure. The salutation's three phrases (vv.1-2) carry a triune shape; the TT renders the Greek without importing later dogmatic vocabulary (Rule 3). *Pneuma* keeps the wind/spirit slash (1:2, 11, 12). At 1:11 "the wind/spirit of the Messiah" in the prophets is a notable claim — rendered as the Greek has it. The Leviticus citation (1:16) is God's first-person word — marked @@…@@. At 1:25 (Isaiah 40:8) the source reads "our God" (Hebrew and LXX); 1 Peter's *kyrios* ("the Lord", Option C) is the letter's own substitution. "Exiles… dispersion… sojourning" (*parepidēmoi / diaspora / paroikia*) is the letter's identity keyword — kept literal.
+**Watch for:** This is a letter — vv.3-12 are one periodic sentence in Greek; the TT keeps its subordinated, suspended structure. The salutation's three phrases (vv.1-2) carry a triune shape; the TT renders the Greek without importing later dogmatic vocabulary (Rule 3). *Pneuma* keeps the wind/spirit slash (1:2, 11, 12). At 1:11 "the wind/spirit of the Messiah" in the prophets is a notable claim — rendered as the Greek has it. The Leviticus citation (1:16) is God's first-person word, introduced by "it is written" — so it is not marked (Rule 30). At 1:25 (Isaiah 40:8) the source reads "our God" (Hebrew and LXX); 1 Peter's *kyrios* ("the Lord", Option C) is the letter's own substitution. "Exiles… dispersion… sojourning" (*parepidēmoi / diaspora / paroikia*) is the letter's identity keyword — kept literal.
 
 **Connection:** The chapter is steeped in the Hebrew Bible. "Be holy, for I am holy" (1:16) cites Leviticus 11:44-45; 19:2 — the holiness code grounding Israel's vocation, now applied to the scattered believers. "Gird the loins" (1:13) echoes the Exodus posture (Ex 12:11) and the prophets. The ransom by a "lamb without blemish" (1:19) draws on the Passover lamb (Ex 12) and the sacrificial code (Lev). "All flesh is grass… the word of the Lord endures" (1:24-25) quotes Isaiah 40:6-8 — the opening of the prophecies of comfort, the same Isaiah 40 that frames John the Immerser in the gospels. The "dispersion" (diaspora) language casts the readers in Israel's exile identity.
 
@@ -63,7 +63,7 @@ Notes are tagged by type — **Critical · Lexical · Grammatical · Theological
 
 ¹⁰Concerning this salvation, *the* prophets searched and inquired *carefully*, who prophesied concerning the grace *coming* to you, ¹¹inquiring into what or what manner of time the {a:wind/spirit} of *the* Messiah in them was indicating, testifying beforehand to the sufferings *destined* for the Messiah and the glories after these. ¹²To them it was revealed that not for themselves, but for you, they were serving these *things*, which now have been announced to you through those who preached the good news to you by *the* holy {a:wind/spirit} sent from heaven — into which *things* angels long to look.
 
-¹³Therefore, having girded the loins of your mind, being sober, set your hope completely on the grace being brought to you at *the* revelation of Yeshua *the* Messiah (Jesus). ¹⁴As children of obedience, not being conformed to the former desires *that were yours* in your ignorance, ¹⁵but according to the holy *One* who called you, you yourselves also be holy in all *your* conduct, ¹⁶because it is written, @@"Be holy, because I *am* holy."@@ ¹⁷And if you call upon *as* Father the *One* judging impartially according to each one's work, conduct yourselves in fear *during* the time of your sojourning, ¹⁸knowing that not with perishable *things* — silver or gold — were you ransomed from your futile way of life handed down from *the* fathers, ¹⁹but with *the* precious blood, as of a lamb without blemish and without spot, of *the* Messiah, ²⁰foreknown before *the* foundation of *the* world but revealed in *the* last of the times for your *sake*, ²¹who through him *are* faithful toward God, the *One* who raised him from *the* dead and gave him glory, so that your faith and hope might be in God.
+¹³Therefore, having girded the loins of your mind, being sober, set your hope completely on the grace being brought to you at *the* revelation of Yeshua *the* Messiah (Jesus). ¹⁴As children of obedience, not being conformed to the former desires *that were yours* in your ignorance, ¹⁵but according to the holy *One* who called you, you yourselves also be holy in all *your* conduct, ¹⁶because it is written, "Be holy, because I *am* holy." ¹⁷And if you call upon *as* Father the *One* judging impartially according to each one's work, conduct yourselves in fear *during* the time of your sojourning, ¹⁸knowing that not with perishable *things* — silver or gold — were you ransomed from your futile way of life handed down from *the* fathers, ¹⁹but with *the* precious blood, as of a lamb without blemish and without spot, of *the* Messiah, ²⁰foreknown before *the* foundation of *the* world but revealed in *the* last of the times for your *sake*, ²¹who through him *are* faithful toward God, the *One* who raised him from *the* dead and gave him glory, so that your faith and hope might be in God.
 
 ²²Having purified your souls in the obedience of the truth for sincere brotherly love, love one another earnestly from a pure heart, ²³having been born again, not from perishable seed but imperishable, through *the* living and abiding word of God. ²⁴For "all flesh *is* like grass, and all its glory like *the* flower of grass; the grass withered, and the flower fell off, ²⁵but the word of *the* Lord endures into the age." And this is the word that was preached as good news to you.
 
@@ -89,7 +89,7 @@ according to *the* foreknowledge of God *the* Father, in sanctification of *the*
 > **Notes**
 >
 > 🔴 **CRITICAL — THE TRIUNE-SHAPED ELECTION (the salutation crux)**
-> - Three phrases govern the election: **κατὰ πρόγνωσιν θεοῦ πατρός** ("according to *the* foreknowledge of God *the* Father"), **ἐν ἁγιασμῷ πνεύματος** ("in sanctification of *the* {a:wind/spirit}"), **εἰς ὑπακοὴν καὶ ῥαντισμὸν αἵματος** ("for obedience and sprinkling of *the* blood"). The TT renders the Greek's Father/wind-spirit/blood structure **without importing the later dogmatic vocabulary** "the Trinity" (Rule 3). **ῥαντισμὸν αἵματος** ("sprinkling of blood") echoes the covenant ritual (Ex 24:8). → See the editorial-log entry (1-peter.md P-008) and Companion §A.
+> - Three phrases govern the election: **κατὰ πρόγνωσιν θεοῦ πατρός** ("according to *the* foreknowledge of God *the* Father"), **ἐν ἁγιασμῷ πνεύματος** ("in sanctification of *the* {a:wind/spirit}"), **εἰς ὑπακοὴν καὶ ῥαντισμὸν αἵματος** ("for obedience and sprinkling of *the* blood"). The TT renders the Greek's Father/wind-spirit/blood structure **without importing the later dogmatic vocabulary** "the Trinity" (Rule 3). **ῥαντισμὸν αἵματος** ("sprinkling of blood") echoes the covenant ritual (Ex 24:8). → Companion §A.
 >
 > 🔵 **"MAY GRACE AND PEACE BE MULTIPLIED" — *PLĒTHYNTHEIĒ***
 > - **χάρις ὑμῖν καὶ εἰρήνη πληθυνθείη** (*charis… eirēnē plēthyntheiē*) = the epistolary health-wish, optative ("may it be multiplied"). *Charis* (grace/favor) + *eirēnē* (peace, Hebrew *shalom*) — the Greco-Roman *chairein* greeting reshaped.
@@ -241,12 +241,12 @@ but according to the holy *One* who called you, you yourselves also be holy in a
 
 ### **Verse 16**
 
-because it is written, @@"Be holy, because I *am* holy."@@
+because it is written, "Be holy, because I *am* holy."
 
 > **Notes**
 >
 > 🔴 **CRITICAL — LEVITICUS 11:44-45 / 19:2 (divine first-person speech)**
-> - **Ἅγιοι ἔσεσθε, ὅτι ἐγὼ ἅγιος** (*Hagioi esesthe, hoti egō hagios*) = "Be holy, because I *am* holy" — a citation of God's own first-person word in Leviticus (11:44-45; 19:2; 20:7), so it is marked **@@…@@** (Rule 30 / A-004). The holiness grounding Israel's vocation is applied to the scattered believers. The copula *am* is added in italics (Greek verbless). → Companion §A; PROPHECY (Lev → 1 Pet 1:16).
+> - **Ἅγιοι ἔσεσθε, ὅτι ἐγὼ ἅγιος** (*Hagioi esesthe, hoti egō hagios*) = "Be holy, because I *am* holy" — a citation of God's own first-person word in Leviticus (11:44-45; 19:2; 20:7), introduced by "it is written," so a human speaker is quoting and it is not marked (Rule 30). The holiness grounding Israel's vocation is applied to the scattered believers. The copula *am* is added in italics (Greek verbless). → Companion §A; PROPHECY (Lev → 1 Pet 1:16).
 
 ---
 
@@ -257,7 +257,7 @@ And if you call upon *as* Father the *One* judging impartially according to each
 > **Notes**
 >
 > 🔵 **"THE TIME OF YOUR SOJOURNING" — *PAROIKIAS***
-> - **τὸν τῆς παροικίας ὑμῶν χρόνον** (*ton tēs paroikias hymōn chronon*) = "the time of your sojourning / exile-residence." *Paroikia* (resident-alien status) reinforces the exile identity of 1:1. God judges **ἀπροσωπολήμπτως** ("without partiality / not receiving faces") — Tier-1 reverent fear, not dread.
+> - **τὸν τῆς παροικίας ὑμῶν χρόνον** (*ton tēs paroikias hymōn chronon*) = "the time of your sojourning / exile-residence." *Paroikia* (resident-alien status) reinforces the exile identity of 1:1. God judges **ἀπροσωπολήμπτως** ("without partiality / not receiving faces") — the "fear" of the translation is reverent fear, not dread.
 
 ---
 
@@ -367,7 +367,7 @@ but the word of *the* Lord endures into the age." And this is the word that was 
 
 ---
 
-## Cross-Chapter Tracking (HB -> 1 Peter)
+## Cross-Chapter Tracking (HB → 1 Peter)
 
 | HB / earlier source | Theme | In 1 Peter 1 |
 |---------------------|-------|--------------|
