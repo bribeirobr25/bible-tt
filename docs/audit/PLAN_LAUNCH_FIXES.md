@@ -57,7 +57,7 @@ Ordering: code before content (the renderer must show what content fixes produce
 |---|---|---|---|
 | 1 | `fixes-b1-code` | #18 | 2026-11-20 (`5f30632`) |
 | 2 | `fixes-b2-rules-docs` | #19 | 2026-11-20 (`12ee072`) |
-| 3 | `fixes-b3-mechanical` | #20 | — |
+| 3 | `fixes-b3-mechanical` | #20 | 2026-11-24 (`f9606d2`) |
 
 ---
 
